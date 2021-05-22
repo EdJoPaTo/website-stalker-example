@@ -1,0 +1,25 @@
+name: Run website-stalker
+
+on:
+  push:
+  schedule:
+    - cron:  '17 */2 * * *' # every two hours at minute 17
+
+jobs:
+  stalker:
+    runs-on: ubuntu-latest
+    container: ghcr.io/edjopato/website-stalker:latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Git config
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+      - name: run website-stalker
+        run: website-stalker run --commit
+
+      - name: push changes
+        run: git push
