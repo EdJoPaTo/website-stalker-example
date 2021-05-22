@@ -7,11 +7,16 @@
 ---
 from: website-stalker-example-github@edjopato.de
 sites:
+  # Basic example
   - html:
       url: "https://edjopato.de/"
+
+  # Example with css selector
   - html:
       url: "https://edjopato.de/post/"
       css_selector: main
+
+  # Example of a text only (utf8) entry
   - utf8:
       url: "https://edjopato.de/robots.txt"
 
