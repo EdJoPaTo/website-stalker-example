@@ -21,7 +21,7 @@ jobs:
       - name: run website-stalker and push
         shell: bash --noprofile --norc {0}
         run: |
-          website-stalker run --commit
+          website-stalker run --all --commit
           exitcode=$?
 
           echo "::group::git push"
