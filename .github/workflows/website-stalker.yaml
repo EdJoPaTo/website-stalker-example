@@ -23,5 +23,9 @@ jobs:
         run: |
           website-stalker run --commit
           exitcode=$?
+
+          echo "::group::git push"
           git push
+          echo "::endgroup::"
+
           exit $exitcode
