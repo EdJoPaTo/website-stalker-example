@@ -27,6 +27,28 @@ sites:
       url: "https://www.raspberrypi.org/software/operating-systems/"
       css_selector: main
   - html:
+      url: "https://raspi.debian.net/tested-images/"
+      css_selector: "#content"
+  - html:
+      url: "https://files.teamspeak-services.com/releases/server/"
+  - html:
+      url: "https://events.ccc.de/upcoming-events/"
+      css_selector: .content
+
+  - html:
+      url: "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
+      css_selector: .container
+  - html:
+      url: "https://www.netcup.de/vserver/root-server-erweiterungen.php"
+      css_selector: .container
+  - html:
+      url: "https://www.netcup.de/vserver/vserver_images.php"
+      css_selector: .container
+  - html:
+      url: "https://www.netcup-sonderangebote.de/"
+      css_selector: .card
+
+  - html:
       url: "https://www.apple.com/newsroom/"
       css_selector: main
       regex_replacers:
