@@ -3,7 +3,7 @@ name: Run website-stalker
 on:
   push:
   schedule:
-    - cron:  '17 */2 * * *' # every two hours at minute 17
+    - cron:  '17 * * * *' # every hour at minute 17
 
 jobs:
   stalker:
