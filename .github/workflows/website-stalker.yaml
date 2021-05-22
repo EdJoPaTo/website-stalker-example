@@ -24,4 +24,4 @@ jobs:
           website-stalker run --commit
           exitcode=$?
           git push
-          return $exitcode
+          exit $exitcode
