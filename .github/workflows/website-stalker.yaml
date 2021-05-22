@@ -18,8 +18,10 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-      - name: run website-stalker
-        run: website-stalker run --commit
-
-      - name: push changes
-        run: git push
+      - name: run website-stalker and push
+        shell: bash --noprofile --norc {0}
+        run: |
+          website-stalker run --commit
+          exitcode=$?
+          git push
+          return $exitcode
