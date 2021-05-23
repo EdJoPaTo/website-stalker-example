@@ -37,13 +37,13 @@ sites:
 
   - html:
       url: "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
-      css_selector: .container
+      css_selector: .card
   - html:
       url: "https://www.netcup.de/vserver/root-server-erweiterungen.php"
-      css_selector: .container
+      css_selector: .card
   - html:
       url: "https://www.netcup.de/vserver/vserver_images.php"
-      css_selector: .container
+      css_selector: table
   - html:
       url: "https://www.netcup-sonderangebote.de/"
       css_selector: .card
