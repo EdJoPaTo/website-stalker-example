@@ -54,6 +54,9 @@ sites:
       regex_replacers:
         - pattern: (data-ts)="[^"]+"
           replace: $1
+  - html:
+      url: "https://us.diablo3.com/en-us/"
+      css_selector: .article-wrapper
 
   - html:
       url: "https://www.wdrmaus.de/aktuelle-sendung/"
