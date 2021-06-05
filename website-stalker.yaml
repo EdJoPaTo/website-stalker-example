@@ -34,20 +34,6 @@ sites:
   - html:
       url: "https://events.ccc.de/upcoming-events/"
       css_selector: .content
-
-  - html:
-      url: "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
-      css_selector: .card
-  - html:
-      url: "https://www.netcup.de/vserver/root-server-erweiterungen.php"
-      css_selector: .card
-  - html:
-      url: "https://www.netcup.de/vserver/vserver_images.php"
-      css_selector: table
-  - html:
-      url: "https://www.netcup-sonderangebote.de/"
-      css_selector: .card
-
   - html:
       url: "https://www.apple.com/newsroom/"
       css_selector: main
@@ -57,6 +43,51 @@ sites:
   - html:
       url: "https://us.diablo3.com/en-us/"
       css_selector: .article-wrapper
+  - html:
+      url: "https://konkludenz.de/"
+      css_selector: .post
+  - html:
+      url: "https://konkludenz.de/en/"
+      css_selector: .post
+  - html:
+      url: "https://morr.cc/"
+      css_selector: .box
+  - html:
+      url: "https://advent.morr.cc/"
+  - html:
+      url: "https://advent.morr.cc/2021"
+
+
+  - html:
+      url: "https://www.netcup-news.de/"
+      css_selector: .posting
+  - html:
+      url: "https://www.netcup.de/vserver/vps.php"
+      css_selector: .card
+  - html:
+      url: "https://www.netcup.de/vserver/"
+      css_selector: .card
+  - html:
+      url: "https://www.netcup.de/vserver/vstorage.php"
+      css_selector: .card
+  - html:
+      url: "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
+      css_selector: .card
+  - html:
+      url: "https://www.netcup.de/vserver/root-server-erweiterungen.php"
+      css_selector: .card
+  - html:
+      url: "https://www.netcup.de/vserver/storagespace.php"
+      css_selector: main > .container
+  - html:
+      url: "https://www.netcup.de/vserver/vserver_images.php"
+      css_selector: table
+  - html:
+      url: "https://www.netcup-sonderangebote.de/"
+      css_selector: .card
+  - html:
+      url: "https://www.netcup.de/adventskalender/"
+      css_selector: .card
 
   - html:
       url: "https://www.wdrmaus.de/aktuelle-sendung/"
