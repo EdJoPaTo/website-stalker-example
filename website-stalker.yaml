@@ -43,6 +43,11 @@ sites:
   - html:
       url: "https://us.diablo3.com/en-us/"
       css_selector: .article-wrapper
+      regex_replacers:
+        - pattern: \d+ \w+ ago
+          replace: time ago
+        - pattern: \d+/\d+/\d{4}
+          replace: time ago
   - html:
       url: "https://konkludenz.de/"
       css_selector: .post
