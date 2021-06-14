@@ -35,12 +35,6 @@ sites:
       url: "https://events.ccc.de/upcoming-events/"
       css_selector: .content
   - html:
-      url: "https://www.apple.com/newsroom/"
-      css_selector: main
-      regex_replacers:
-        - pattern: (data-ts)="[^"]+"
-          replace: $1
-  - html:
       url: "https://us.diablo3.com/en-us/"
       css_selector: .article-wrapper
       regex_replacers:
