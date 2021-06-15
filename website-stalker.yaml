@@ -89,6 +89,34 @@ sites:
       css_selector: .card
 
   - html:
+      url: "https://pine64.com/product-category/pinepower/"
+      css_selector: .product
+  - html:
+      url: "https://pine64.com/product-category/pinecil/"
+      css_selector: .product
+  - html:
+      url: "https://pine64.com/product-category/iot/"
+      css_selector: .product
+  - html:
+      url: "https://pine64.com/product-category/ip-cameras/"
+      css_selector: .product
+  - html:
+      url: "https://pine64.com/product-category/tablets/"
+      css_selector: .product
+  - html:
+      url: "https://pine64.com/product-category/pinebook-pro/"
+      css_selector: .product
+  - html:
+      url: "https://pine64.com/product-category/single-board-computers/"
+      css_selector: .product
+  - html:
+      url: "https://pine64.com/product-category/quartz64/"
+      css_selector: .product
+  - html:
+      url: "https://www.pine64.org/availability-and-shipping-status/"
+      css_selector: .elementor-widget-wrap
+
+  - html:
       url: "https://www.wdrmaus.de/aktuelle-sendung/"
       css_selector: "#content"
   - html:
