@@ -1,0 +1,1829 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+			<div class="mw-parser-output">
+				<p>
+					<br>
+				</p>
+				<table style="border:1px solid #de8a0d; padding: 0 10px 0 10px; width: 80%; margin: 4px 10%;">
+					<tbody>
+						<tr>
+							<td style="padding: 10px; text-align: center;">
+								<div style="font-size: 18pt">
+									This page is under construction
+								</div>
+								<p>
+									Please help to review and edit this page.
+								</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p>
+					<br>
+				</p>
+				<div class="toc" id="toc">
+					<input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox">
+					<div class="toctitle" dir="ltr" lang="en">
+						<h2>
+							Contents
+						</h2>
+						<span class="toctogglespan">
+							<label class="toctogglelabel" for="toctogglecheckbox">
+							</label>
+						</span>
+					</div>
+					<ul>
+						<li class="toclevel-1 tocsection-1">
+							<a href="#Specifications">
+								<span class="tocnumber">
+									1
+								</span>
+								<span class="toctext">
+									Specifications
+								</span>
+							</a>
+						</li>
+						<li class="toclevel-1 tocsection-2">
+							<a href="#PineCube_board_information.2C_schematics_and_certifications">
+								<span class="tocnumber">
+									2
+								</span>
+								<span class="toctext">
+									PineCube board information, schematics and certifications
+								</span>
+							</a>
+						</li>
+						<li class="toclevel-1 tocsection-3">
+							<a href="#Datasheets_for_components_and_peripherals">
+								<span class="tocnumber">
+									3
+								</span>
+								<span class="toctext">
+									Datasheets for components and peripherals
+								</span>
+							</a>
+						</li>
+						<li class="toclevel-1 tocsection-4">
+							<a href="#Operating_Systems">
+								<span class="tocnumber">
+									4
+								</span>
+								<span class="toctext">
+									Operating Systems
+								</span>
+							</a>
+							<ul>
+								<li class="toclevel-2 tocsection-5">
+									<a href="#Mainlining_Efforts">
+										<span class="tocnumber">
+											4.1
+										</span>
+										<span class="toctext">
+											Mainlining Efforts
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-6">
+									<a href="#NixOS">
+										<span class="tocnumber">
+											4.2
+										</span>
+										<span class="toctext">
+											NixOS
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-7">
+									<a href="#Buildroot">
+										<span class="tocnumber">
+											4.3
+										</span>
+										<span class="toctext">
+											Buildroot
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-8">
+									<a href="#Armbian">
+										<span class="tocnumber">
+											4.4
+										</span>
+										<span class="toctext">
+											Armbian
+										</span>
+									</a>
+									<ul>
+										<li class="toclevel-3 tocsection-9">
+											<a href="#Armbian_Build_Image_with_motion_.5BmicroSD_Boot.5D_.5B20201222.5D">
+												<span class="tocnumber">
+													4.4.1
+												</span>
+												<span class="toctext">
+													Armbian Build Image with motion [microSD Boot] [20201222]
+												</span>
+											</a>
+										</li>
+										<li class="toclevel-3 tocsection-10">
+											<a href="#Serial_connection_using_screen_and_the_woodpecker_USB_serial_device">
+												<span class="tocnumber">
+													4.4.2
+												</span>
+												<span class="toctext">
+													Serial connection using screen and the woodpecker USB serial device
+												</span>
+											</a>
+										</li>
+										<li class="toclevel-3 tocsection-11">
+											<a href="#Serial_connection_using_screen_and_Arduino_Uno">
+												<span class="tocnumber">
+													4.4.3
+												</span>
+												<span class="toctext">
+													Serial connection using screen and Arduino Uno
+												</span>
+											</a>
+										</li>
+										<li class="toclevel-3 tocsection-12">
+											<a href="#Serial_connection_using_pinephone.2Fpinebook_pro_serial_debugging_cable">
+												<span class="tocnumber">
+													4.4.4
+												</span>
+												<span class="toctext">
+													Serial connection using pinephone/pinebook pro serial debugging cable
+												</span>
+											</a>
+										</li>
+										<li class="toclevel-3 tocsection-13">
+											<a href="#Basic_bandwidth_tests_with_iperf3">
+												<span class="tocnumber">
+													4.4.5
+												</span>
+												<span class="toctext">
+													Basic bandwidth tests with iperf3
+												</span>
+											</a>
+										</li>
+									</ul>
+								</li>
+								<li class="toclevel-2 tocsection-14">
+									<a href="#Performance_results">
+										<span class="tocnumber">
+											4.5
+										</span>
+										<span class="toctext">
+											Performance results
+										</span>
+									</a>
+									<ul>
+										<li class="toclevel-3 tocsection-15">
+											<a href="#Wireless_network_performance">
+												<span class="tocnumber">
+													4.5.1
+												</span>
+												<span class="toctext">
+													Wireless network performance
+												</span>
+											</a>
+											<ul>
+												<li class="toclevel-4 tocsection-16">
+													<a href="#Wired_network_performance">
+														<span class="tocnumber">
+															4.5.1.1
+														</span>
+														<span class="toctext">
+															Wired network performance
+														</span>
+													</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="toclevel-1 tocsection-17">
+							<a href="#Streaming_the_camera_to_the_network">
+								<span class="tocnumber">
+									5
+								</span>
+								<span class="toctext">
+									Streaming the camera to the network
+								</span>
+							</a>
+							<ul>
+								<li class="toclevel-2 tocsection-18">
+									<a href="#gstreamer:_h264_HLS">
+										<span class="tocnumber">
+											5.1
+										</span>
+										<span class="toctext">
+											gstreamer: h264 HLS
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-19">
+									<a href="#v4l2rtspserver:_h264_RTSP">
+										<span class="tocnumber">
+											5.2
+										</span>
+										<span class="toctext">
+											v4l2rtspserver: h264 RTSP
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-20">
+									<a href="#gstreamer:_JPEG_RTSP">
+										<span class="tocnumber">
+											5.3
+										</span>
+										<span class="toctext">
+											gstreamer: JPEG RTSP
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-21">
+									<a href="#gstreamer:_h264_RTSP">
+										<span class="tocnumber">
+											5.4
+										</span>
+										<span class="toctext">
+											gstreamer: h264 RTSP
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-22">
+									<a href="#gstreamer:_JPEG_RTP_UDP">
+										<span class="tocnumber">
+											5.5
+										</span>
+										<span class="toctext">
+											gstreamer: JPEG RTP UDP
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-23">
+									<a href="#gstreamer:_JPEG_RTP_TCP">
+										<span class="tocnumber">
+											5.6
+										</span>
+										<span class="toctext">
+											gstreamer: JPEG RTP TCP
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-24">
+									<a href="#gstreamer_and_socat:_MJPEG_HTTP_server">
+										<span class="tocnumber">
+											5.7
+										</span>
+										<span class="toctext">
+											gstreamer and socat: MJPEG HTTP server
+										</span>
+									</a>
+								</li>
+								<li class="toclevel-2 tocsection-25">
+									<a href="#virtual_web_camera:_gstreamer.2C_mjpeg.2C_udp_rtp_unicast">
+										<span class="tocnumber">
+											5.8
+										</span>
+										<span class="toctext">
+											virtual web camera: gstreamer, mjpeg, udp rtp unicast
+										</span>
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li class="toclevel-1 tocsection-26">
+							<a href="#Debugging_camera_issues_with_the_gstreamer_pipeline">
+								<span class="tocnumber">
+									6
+								</span>
+								<span class="toctext">
+									Debugging camera issues with the gstreamer pipeline
+								</span>
+							</a>
+						</li>
+						<li class="toclevel-1 tocsection-27">
+							<a href="#Camera_Adjustments">
+								<span class="tocnumber">
+									7
+								</span>
+								<span class="toctext">
+									Camera Adjustments
+								</span>
+							</a>
+							<ul>
+								<li class="toclevel-2 tocsection-28">
+									<a href="#Low_light_mode">
+										<span class="tocnumber">
+											7.1
+										</span>
+										<span class="toctext">
+											Low light mode
+										</span>
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li class="toclevel-1 tocsection-29">
+							<a href="#SDK">
+								<span class="tocnumber">
+									8
+								</span>
+								<span class="toctext">
+									SDK
+								</span>
+							</a>
+							<ul>
+								<li class="toclevel-2 tocsection-30">
+									<a href="#Stock_Linux">
+										<span class="tocnumber">
+											8.1
+										</span>
+										<span class="toctext">
+											Stock Linux
+										</span>
+									</a>
+									<ul>
+										<li class="toclevel-3 tocsection-31">
+											<a href="#How_to_compile">
+												<span class="tocnumber">
+													8.1.1
+												</span>
+												<span class="toctext">
+													How to compile
+												</span>
+											</a>
+											<ul>
+												<li class="toclevel-4 tocsection-32">
+													<a href="#On_a_dedicated_machine">
+														<span class="tocnumber">
+															8.1.1.1
+														</span>
+														<span class="toctext">
+															On a dedicated machine
+														</span>
+													</a>
+												</li>
+												<li class="toclevel-4 tocsection-33">
+													<a href="#Using_Vagrant">
+														<span class="tocnumber">
+															8.1.1.2
+														</span>
+														<span class="toctext">
+															Using Vagrant
+														</span>
+													</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="toclevel-1 tocsection-34">
+							<a href="#Community_Projects">
+								<span class="tocnumber">
+									9
+								</span>
+								<span class="toctext">
+									Community Projects
+								</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<h2>
+					<span class="mw-headline" id="Specifications">
+						Specifications
+					</span>
+				</h2>
+				<ul>
+					<li>
+						<b>
+							Dimensions:
+						</b>
+						 55mm x 51mm x 51.5mm
+					</li>
+					<li>
+						<b>
+							Weight:
+						</b>
+						 55g
+					</li>
+					<li>
+						<b>
+							Storage:
+						</b>
+						<ul>
+							<li>
+								MicroSD slot, bootable
+							</li>
+							<li>
+								128Mb SPI Nor Flash, bootable
+							</li>
+						</ul>
+					</li>
+					<li>
+						<b>
+							Cameras:
+						</b>
+						 OV5640, 5Mpx
+					</li>
+					<li>
+						<b>
+							CPU:
+						</b>
+						 Allwinner(Sochip) ARM Cortex-A7 MPCore, 800MHz
+					</li>
+					<li>
+						<b>
+							RAM:
+						</b>
+						 128MB DDR3
+					</li>
+					<li>
+						<b>
+							I/O:
+						</b>
+						<ul>
+							<li>
+								10/100Mbps Ethernet with passive PoE (
+								<i>
+									4-18V!
+								</i>
+								)
+							</li>
+							<li>
+								USB 2.0 A host
+							</li>
+							<li>
+								26 pins GPIO port
+								<ul>
+									<li>
+										2x 3.3V Ouptut
+									</li>
+									<li>
+										2x 5V Output
+									</li>
+									<li>
+										1x I2C
+									</li>
+									<li>
+										2x UART
+									</li>
+									<li>
+										2x PWM
+									</li>
+									<li>
+										1x SPI
+									</li>
+									<li>
+										1x eMMC/SDIO/SD (8-bit)
+									</li>
+									<li>
+										6x Interrupts
+									</li>
+									<li>
+										<b>
+											Note: Interfaces are multiplexed, so they can't be all used at same time
+										</b>
+									</li>
+								</ul>
+							</li>
+							<li>
+								Internal microphone
+							</li>
+						</ul>
+					</li>
+					<li>
+						<b>
+							Network:
+						</b>
+						<ul>
+							<li>
+								WiFi
+							</li>
+						</ul>
+					</li>
+					<li>
+						<b>
+							Screen:
+						</b>
+						 optional 4.5" RGB LCD screen
+					</li>
+					<li>
+						<b>
+							Misc. features:
+						</b>
+						<ul>
+							<li>
+								Volume and home buttons
+							</li>
+							<li>
+								Speakers and Microphone
+							</li>
+						</ul>
+					</li>
+					<li>
+						<b>
+							Power DC in:
+						</b>
+						<ul>
+							<li>
+								5V 1A from MicroUSB Port or GPIO port
+							</li>
+							<li>
+								4V-18V from Ethernet passive PoE
+							</li>
+						</ul>
+					</li>
+					<li>
+						<b>
+							Battery:
+						</b>
+						 optional 950-1600mAh model: 903048 Lithium Polymer Ion Battery Pack, can be purchase at
+						<a class="external text" href="https://www.amazon.com/AKZYTUE-1200mAh-Battery-Rechargeable-Connector/dp/B07TWHHCNK/" rel="nofollow">
+							Amazon.com
+						</a>
+					</li>
+				</ul>
+				<h2>
+					<span id="PineCube_board_information,_schematics_and_certifications">
+					</span>
+					<span class="mw-headline" id="PineCube_board_information.2C_schematics_and_certifications">
+						PineCube board information, schematics and certifications
+					</span>
+				</h2>
+				<ul>
+					<li>
+						PineCube mainboard schematic:
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/PineCube/PineCube%20MainBoard%20Schematic%20ver%201.0-20200727.pdf" rel="nofollow">
+									PineCube mainboard Released Schematic ver 1.0
+								</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						PineCube faceboard schematic:
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/PineCube/PineCube%20FaceBoard%20Schematic%20ver%201.0-20200727.pdf" rel="nofollow">
+									PineCube faceboard Released Schematic ver 1.0
+								</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						PineCube certifications:
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/cert/PineCube-FCC-SDOC%20certification%20S20072502302001.pdf" rel="nofollow">
+									PineCube FCC Certificate
+								</a>
+							</li>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/cert/PineCube-CE-EMC%20certification%20S20072502301001.pdf" rel="nofollow">
+									PineCube CE RED Certificate
+								</a>
+							</li>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/cert/PineCube-ROHS%20Test%20Report.pdf" rel="nofollow">
+									PineCube ROHS Test Report
+								</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<p>
+					<br>
+				</p>
+				<h2>
+					<span class="mw-headline" id="Datasheets_for_components_and_peripherals">
+						Datasheets for components and peripherals
+					</span>
+				</h2>
+				<ul>
+					<li>
+						Allwinner (Sochip) S3 SoC information:
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/datasheet/pinecube/S3_Datasheet_V1.1-20180123.pdf" rel="nofollow">
+									Sochip S3 SoC Data Sheet V1.1
+								</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						X-Powers AXP209 PMU (Power Management Unit) information:
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/datasheet/pinecube/AXP209_Datasheet_v1.0en.pdf" rel="nofollow">
+									AXP209 PMIC datasheet
+								</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						CMOS camera module information:
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/datasheet/pinecube/CH-5A-DV-V2.0%20Specification.pdf" rel="nofollow">
+									PineCube Camera Module Specification
+								</a>
+							</li>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/datasheet/pinephone/OV5640_datasheet.pdf" rel="nofollow">
+									OV5640 5MP CMOS Image Sensor SoC datasheet
+								</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						LCD touch screen panel information:
+					</li>
+				</ul>
+				<ul>
+					<li>
+						Lithium battery information:
+					</li>
+				</ul>
+				<ul>
+					<li>
+						WiFi/BT module information:
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/datasheet/pinecube/rtl8189es.pdf" rel="nofollow">
+									RTL8189ES specification
+								</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						GPIO Header Pinout: (
+						<a href="/wiki/File:PineCube_GPIO.pdf" title="File:PineCube GPIO.pdf">
+							PDF
+						</a>
+						,
+						<a class="external text" href="https://pine64.gami.ee/pinecube/gpio-pinout.html" rel="nofollow">
+							HTML
+						</a>
+						) (Pin1 is marked on the board by a white dot on the PCB)
+					</li>
+				</ul>
+				<p>
+					<a class="image" href="/wiki/File:PineCube_GPIO_Pinout.png">
+						<img alt="PineCube GPIO Pinout.png" decoding="async" height="476" src="/images/thumb/5/5b/PineCube_GPIO_Pinout.png/700px-PineCube_GPIO_Pinout.png" srcset="/images/thumb/5/5b/PineCube_GPIO_Pinout.png/1050px-PineCube_GPIO_Pinout.png 1.5x, /images/5/5b/PineCube_GPIO_Pinout.png 2x" width="700">
+					</a>
+				</p>
+				<p>
+					<br>
+				</p>
+				<ul>
+					<li>
+						Case information:
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org/doc/PineCube/PineCube%20Case%203D.zip" rel="nofollow">
+									PineCube ( china not open source file)  3D file
+								</a>
+							</li>
+							<li>
+								<a class="external text" href="https://drive.google.com/file/d/1MDNxnPL2kuYGC4Y4qf9J6YPYZF15KnN7/view?usp=sharing" rel="nofollow">
+									Quick and dirty STL conversion (beta) by doodlebro. Prints and fits at 0.25mm layer height.
+								</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<p>
+					<a class="image" href="/wiki/File:PineCube_Case-1.jpg">
+						<img alt="PineCube Case-1.jpg" decoding="async" height="400" src="/images/thumb/6/62/PineCube_Case-1.jpg/400px-PineCube_Case-1.jpg" srcset="/images/thumb/6/62/PineCube_Case-1.jpg/600px-PineCube_Case-1.jpg 1.5x, /images/thumb/6/62/PineCube_Case-1.jpg/800px-PineCube_Case-1.jpg 2x" width="400">
+					</a>
+					<a class="image" href="/wiki/File:PineCube_Case-2.jpg">
+						<img alt="PineCube Case-2.jpg" decoding="async" height="400" src="/images/thumb/a/af/PineCube_Case-2.jpg/400px-PineCube_Case-2.jpg" srcset="/images/thumb/a/af/PineCube_Case-2.jpg/600px-PineCube_Case-2.jpg 1.5x, /images/thumb/a/af/PineCube_Case-2.jpg/800px-PineCube_Case-2.jpg 2x" width="400">
+					</a>
+				</p>
+				<h2>
+					<span class="mw-headline" id="Operating_Systems">
+						Operating Systems
+					</span>
+				</h2>
+				<h3>
+					<span class="mw-headline" id="Mainlining_Efforts">
+						Mainlining Efforts
+					</span>
+				</h3>
+				<p>
+					Please note:
+				</p>
+				<ul>
+					<li>
+						this list is most likely not complete
+					</li>
+					<li>
+						no review of functionality is done here, it only serves as a collection of efforts
+					</li>
+				</ul>
+				<table class="wikitable">
+					<tbody>
+						<tr>
+							<th colspan="3">
+								Linux kernel
+							</th>
+						</tr>
+						<tr>
+							<td>
+								Type
+							</td>
+							<td>
+								Link
+							</td>
+							<td>
+								Available in version
+							</td>
+						</tr>
+						<tr>
+							<td>
+								Devicetree Entry Pinecube
+							</td>
+							<td>
+								<a class="external free" href="https://lkml.org/lkml/2020/9/22/1241" rel="nofollow">
+									https://lkml.org/lkml/2020/9/22/1241
+								</a>
+							</td>
+							<td>
+								5.10
+							</td>
+						</tr>
+						<tr>
+							<td>
+								Correction for AXP209 driver
+							</td>
+							<td>
+								<a class="external free" href="https://lkml.org/lkml/2020/9/22/1243" rel="nofollow">
+									https://lkml.org/lkml/2020/9/22/1243
+								</a>
+							</td>
+							<td>
+								5.9
+							</td>
+						</tr>
+						<tr>
+							<td>
+								Additional Fixes for AXP209 driver
+							</td>
+							<td>
+								<a class="external free" href="https://lore.kernel.org/lkml/20201031182137.1879521-8-contact@paulk.fr/" rel="nofollow">
+									https://lore.kernel.org/lkml/20201031182137.1879521-8-contact@paulk.fr/
+								</a>
+							</td>
+							<td>
+								tdb (5.11?)
+							</td>
+						</tr>
+						<tr>
+							<td>
+								Device Tree Fixes
+							</td>
+							<td>
+								<a class="external free" href="https://lore.kernel.org/lkml/20201003234842.1121077-1-icenowy@aosc.io/" rel="nofollow">
+									https://lore.kernel.org/lkml/20201003234842.1121077-1-icenowy@aosc.io/
+								</a>
+							</td>
+							<td>
+								5.10
+							</td>
+						</tr>
+						<tr>
+							<th colspan="3">
+								U-boot
+							</th>
+						</tr>
+						<tr>
+							<td>
+								Type
+							</td>
+							<td>
+								Link
+							</td>
+							<td>
+								Available in version
+							</td>
+						</tr>
+						<tr>
+							<td>
+								PineCube Board Support
+							</td>
+							<td>
+								<a class="external free" href="https://patchwork.ozlabs.org/project/uboot/list/?series=210044" rel="nofollow">
+									https://patchwork.ozlabs.org/project/uboot/list/?series=210044
+								</a>
+							</td>
+							<td>
+								expected in v2021.01
+							</td>
+						</tr>
+						<tr>
+							<th colspan="3">
+								Buildroot
+							</th>
+						</tr>
+						<tr>
+							<td>
+								No known mainlining efforts yet
+							</td>
+							<td>
+							</td>
+							<td>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p>
+					<br>
+				</p>
+				<h3>
+					<span class="mw-headline" id="NixOS">
+						NixOS
+					</span>
+				</h3>
+				<ul>
+					<li>
+						<a class="external text" href="https://github.com/danielfullmer/pinecube-nixos" rel="nofollow">
+							danielfullmer's Github
+						</a>
+					</li>
+				</ul>
+				<p>
+					<br>
+				</p>
+				<h3>
+					<span class="mw-headline" id="Buildroot">
+						Buildroot
+					</span>
+				</h3>
+				<p>
+					<a class="external text" href="https://elimo.io" rel="nofollow">
+						Elimo Engineering
+					</a>
+					 integrated support for the PineCube into Buildroot.
+				</p>
+				<p>
+					This has not been merged into upstream Buildroot yet, but you can find the repo on
+					<a class="external text" href="https://github.com/elimo-engineering/buildroot" rel="nofollow">
+						Elimo's GitHub account
+					</a>
+					 and build instructions in the
+					<a class="external text" href="https://github.com/elimo-engineering/buildroot/tree/pine64/pinecube/board/pine64/pinecube" rel="nofollow">
+						board support directory
+					</a>
+					 readme.
+The most important thing that this provides is support for the S3's DDR3 in u-boot. Unfortunately mainline u-boot does not have that yet, but the u-boot patches from
+					<a class="external text" href="https://github.com/danielfullmer/pinecube-nixos" rel="nofollow">
+						Daniel Fullmer's NixOS repo
+					</a>
+					 were easy enough to use on buildroot.
+This should get you a functional system that boots to a console on UART0. It's pretty fast too, getting there in 1.5 seconds from u-boot to login prompt.
+				</p>
+				<h3>
+					<span class="mw-headline" id="Armbian">
+						Armbian
+					</span>
+				</h3>
+				<p>
+					The only Armbian release with support for Ethernet and the camera module is the Ubuntu Groovy release. The Ubuntu Groovy release is an experimental, automatically generated release and it appears to support additional hardware from the other Armbian releases.
+				</p>
+				<p>
+					<br>
+				</p>
+				<h4>
+					<span id="Armbian_Build_Image_with_motion_[microSD_Boot]_[20201222]">
+					</span>
+					<span class="mw-headline" id="Armbian_Build_Image_with_motion_.5BmicroSD_Boot.5D_.5B20201222.5D">
+						Armbian Build Image with motion [microSD Boot] [20201222]
+					</span>
+				</h4>
+				<ul>
+					<li>
+						Armbian Ubuntu Focal build for the Pinecube with the motion (detection) package preinstalled.
+					</li>
+					<li>
+						There are 2 ways to interact with the OS:
+						<ul>
+							<li>
+								Scan for the the device IP (with hostname pinecube)
+							</li>
+							<li>
+								Use the PINE64 USB SERIAL CONSOLE/PROGRAMMER to login to the serial console, then check for assigned IP
+							</li>
+						</ul>
+					</li>
+					<li>
+						DD image (for 8GB microSD card and above)
+						<ul>
+							<li>
+								<a class="external text" href="https://files.pine64.org//os/PineCube/armbian/Armbian_21.02.0-trunk_Pinecube_focal_dev_5.10.0.img.xz" rel="nofollow">
+									Direct download from pine64.org
+								</a>
+								<ul>
+									<li>
+										MD5 (XZip file): 61e5a6d3ab0f74ce8367c97b7f8cbb7b
+									</li>
+									<li>
+										File Size: 328MGB
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<p>
+					<a class="external text" href="https://gist.github.com/Icenowy/ff68f6e4ba8231380d3a295226e63fb3" rel="nofollow">
+						GitHub gist
+					</a>
+					 for the userpatch which pre-installs and configures the motion (detection) package.
+				</p>
+				<p>
+					Armbian Builds for PineCube are
+					<a class="external text" href="https://www.armbian.com/pinecube/" rel="nofollow">
+						available for download
+					</a>
+					, once again thanks to
+					<a class="external text" href="https://github.com/armbian/build/pull/2364/files" rel="nofollow">
+						the work
+					</a>
+					 of Icenowy Zheng.
+Although
+					<a class="external text" href="https://www.armbian.com/download/?device_support=No+official+support+(CSC)" rel="nofollow">
+						not officially supported
+					</a>
+					 it enables the usage of Debian and Ubuntu.
+				</p>
+				<p>
+					A serial console can be established with 152008N1 (no hardware flow control). Login credentials are as usual in Armbian (login: root, password: 1234).
+				</p>
+				<p>
+					Motion daemon can be enabled using systemctl (With root)
+					<code>
+						systemctl enable motion
+					</code>
+					. Then just reboot.
+				</p>
+				<h4>
+					<span class="mw-headline" id="Serial_connection_using_screen_and_the_woodpecker_USB_serial_device">
+						Serial connection using screen and the woodpecker USB serial device
+					</span>
+				</h4>
+				<p>
+					First connect the woodpecker USB serial device to the PineCube. Pin 1 on the PineCube has a small white dot on the PCB - this should be directly next to the microusb power connection. Attach the GND pin on the woodpecker to pin 6 (GND) on the PineCube, TXD from the woodpecker to pin 10 (UART_RXD) on the PineCube, and RXD from the woodpecker to pin 8 (UART_TXD) on the PineCube.
+				</p>
+				<p>
+					On the host system which has the woodpecker USB serial device attached, it is possible to run screen and to communicate directly with the PineCube:
+				</p>
+				<p>
+					<code>
+						screen /dev/ttyUSB0 115200
+					</code>
+				</p>
+				<h4>
+					<span class="mw-headline" id="Serial_connection_using_screen_and_Arduino_Uno">
+						Serial connection using screen and Arduino Uno
+					</span>
+				</h4>
+				<p>
+					You can use the Arduino Uno or other Arduino boards as a USB serial device.
+				</p>
+				<p>
+					First you must either remove the microcontroller from it's socket, or if your Arduino board does not allow this, then you can use wires to jump RESET (RST) and GND to isolate the SOC.
+				</p>
+				<p>
+					After this you can either use the Arduino IDE and it's Serial monitor after selecting your
+					<code>
+						/dev/ttyACMx
+					</code>
+					 Arduino device, or screen:
+				</p>
+				<p>
+					<code>
+						screen /dev/ttyACM0 115200
+					</code>
+				</p>
+				<p>
+					<a class="image" href="/wiki/File:ArduinoSerialPinecube.jpg">
+						<img alt="ArduinoSerialPinecube.jpg" decoding="async" height="300" src="/images/thumb/6/6d/ArduinoSerialPinecube.jpg/400px-ArduinoSerialPinecube.jpg" srcset="/images/thumb/6/6d/ArduinoSerialPinecube.jpg/600px-ArduinoSerialPinecube.jpg 1.5x, /images/thumb/6/6d/ArduinoSerialPinecube.jpg/800px-ArduinoSerialPinecube.jpg 2x" width="400">
+					</a>
+				</p>
+				<h4>
+					<span id="Serial_connection_using_pinephone/pinebook_pro_serial_debugging_cable">
+					</span>
+					<span class="mw-headline" id="Serial_connection_using_pinephone.2Fpinebook_pro_serial_debugging_cable">
+						Serial connection using pinephone/pinebook pro serial debugging cable
+					</span>
+				</h4>
+				<p>
+					You can use the
+					<a class="external text" href="https://wiki.pine64.org/wiki/PinePhone#Serial_console" rel="nofollow">
+						serial console
+					</a>
+					 USB cable for pinephone and pinebook pro at the
+					<a class="external text" href="https://pine64.com/product/pinebook-pinephone-pinetab-serial-console/" rel="nofollow">
+						store
+					</a>
+					. With a
+					<a class="external text" href="https://www.amazon.com/3-5mm-Stereo-Female-terminal-connector/dp/B077XPSKQD" rel="nofollow">
+						female terminal block
+					</a>
+					 wire using breadboard wire into the GPIO block at the following locations in a "null modem" configuration with transmit and receive crossed between your computer and the pinecube:
+				</p>
+				<pre>
+					S - Ground (to pin 9)
+R - Transmit (to pin 8)
+T - Receive (to pin 10)
+				</pre>
+				<p>
+					From Linux you can access the console of the pinecube using the screen command:
+				</p>
+				<p>
+					<code>
+						screen /dev/ttyUSB0 115200
+					</code>
+				</p>
+				<h4>
+					<span class="mw-headline" id="Basic_bandwidth_tests_with_iperf3">
+						Basic bandwidth tests with iperf3
+					</span>
+				</h4>
+				<p>
+					Install armbian-config:
+					<code>
+						apt install armbian-config
+					</code>
+				</p>
+				<p>
+					Enable iperf3 through the menu in armbian-config:
+					<code>
+						armbian-config
+					</code>
+				</p>
+				<p>
+					On a test computer on the same network segment run iperf3 as a client:
+					<code>
+						iperf3 -c pinecube -t 60
+					</code>
+				</p>
+				<p>
+					The same test computer, run iperf3 in the reverse direction:
+					<code>
+						iperf3 -c pinecube -t 60 -R
+					</code>
+				</p>
+				<h3>
+					<span class="mw-headline" id="Performance_results">
+						Performance results
+					</span>
+				</h3>
+				<h4>
+					<span class="mw-headline" id="Wireless_network_performance">
+						Wireless network performance
+					</span>
+				</h4>
+				<p>
+					The performance results reflect using the wireless network. The link speed was 72.2Mb/s using 2.462Ghz wireless. Running sixty second iperf3 tests: the observed throughput varies between 28-50Mb/s to a host on the same network segment. The testing host is connected to an Ethernet switch which is also connected to a wireless bridge. The wireless network uses WPA2 and the PineCube is connected to this wireless network bridge.
+				</p>
+				<p>
+					Client rate for sixty seconds:
+				</p>
+				<pre>
+					[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-60.00  sec   293 MBytes  41.0 Mbits/sec    1             sender
+[  5]   0.00-60.01  sec   291 MBytes  40.7 Mbits/sec                  receiver
+				</pre>
+				<p>
+					<br>
+Client rate with -R for sixty seconds:
+				</p>
+				<pre>
+					[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-60.85  sec   263 MBytes  36.2 Mbits/sec    3             sender
+[  5]   0.00-60.00  sec   259 MBytes  36.1 Mbits/sec                  receiver
+				</pre>
+				<p>
+					Using WireGuard to protect the traffic between the PineCube and the test system, the performance characteristics change only slightly.
+				</p>
+				<p>
+					Client rate for sixty seconds with WireGuard:
+				</p>
+				<pre>
+					[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-60.00  sec   230 MBytes  32.1 Mbits/sec    0             sender
+[  5]   0.00-60.09  sec   229 MBytes  32.0 Mbits/sec                  receiver
+				</pre>
+				<p>
+					Client rate with -R for sixty seconds with WireGuard:
+				</p>
+				<pre>
+					[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-60.14  sec   246 MBytes  34.3 Mbits/sec    7             sender
+[  5]   0.00-60.00  sec   245 MBytes  34.2 Mbits/sec                  receiver
+				</pre>
+				<h6>
+					<span class="mw-headline" id="Wired_network_performance">
+						Wired network performance
+					</span>
+				</h6>
+				<p>
+					The Ethernet network does not work in the current Ubuntu Focal Armbian image or the Ubuntu Groovy Armbian image.
+				</p>
+				<p>
+					The performance results reflect using the Ethernet network. The link speed was 100Mb/s using a 1000Mb/s prosumer switch. Running sixty second iperf3 tests: the observed throughput varies between 92-102Mb/s to a host on the same network segment. The testing host is connected to the same Ethernet switch which is also connected to the PineCube.
+				</p>
+				<p>
+					Client rate for sixty seconds:
+				</p>
+				<pre>
+					[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-60.00  sec   675 MBytes  94.4 Mbits/sec    0             sender
+[  5]   0.00-60.01  sec   673 MBytes  94.0 Mbits/sec                  receiver
+				</pre>
+				<p>
+					Client rate with -R for sixty seconds:
+				</p>
+				<pre>
+					[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-60.00  sec   673 MBytes  94.1 Mbits/sec    0             sender
+[  5]   0.00-60.00  sec   673 MBytes  94.1 Mbits/sec                  receiver
+				</pre>
+				<p>
+					Using WireGuard to protect the traffic between the PineCube and the test system, the performance characteristics change only slightly.
+				</p>
+				<p>
+					Client rate for sixty seconds with WireGuard:
+				</p>
+				<pre>
+					[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-60.00  sec   510 MBytes  71.2 Mbits/sec    0             sender
+[  5]   0.00-60.01  sec   509 MBytes  71.1 Mbits/sec                  receiver
+				</pre>
+				<p>
+					Client rate with -R for sixty seconds with WireGuard:
+				</p>
+				<pre>
+					[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-60.01  sec   642 MBytes  89.8 Mbits/sec    0             sender
+[  5]   0.00-60.00  sec   641 MBytes  89.7 Mbits/sec                  receiver
+				</pre>
+				<h2>
+					<span class="mw-headline" id="Streaming_the_camera_to_the_network">
+						Streaming the camera to the network
+					</span>
+				</h2>
+				<p>
+					In this section we document a variety of ways to stream video to the network from the PineCube. Unless specified otherwise, all of these examples have been tested on Ubuntu groovy (20.10). See
+					<a class="external text" href="https://github.com/ioerror/pinecube" rel="nofollow">
+						this small project for the pinecube
+					</a>
+					 for easy to use programs tuned for the PineCube.
+				</p>
+				<p>
+					In the examples which use h264, we are currently encoding using the x264 library which is not very fast on this CPU. The SoC in the PineCube does have a hardware h264 encoder, which the authors of these examples have so far not tried to use. It appears that
+					<a class="external free" href="https://github.com/gtalusan/gst-plugin-cedar" rel="nofollow">
+						https://github.com/gtalusan/gst-plugin-cedar
+					</a>
+					 might provide easy access to it, however. Please update this wiki if you find out how to use the hardware encoder!
+				</p>
+				<h3>
+					<span class="mw-headline" id="gstreamer:_h264_HLS">
+						gstreamer: h264 HLS
+					</span>
+				</h3>
+				<p>
+					HLS (HTTP Live Streaming) has the advantage that it is easy to play in any modern web browser, including Android and iPhone devices, and that it is easy to put an HTTP caching proxy in front of it to scale to many viewers. It has the disadvantages of adding (at minimum) several seconds of latency, and of requiring an h264 encoder (which we have in hardware, but haven't figured out how to use yet, so, we're stuck with the slow software one).
+				</p>
+				<p>
+					HLS segments a video stream into small chunks which are stored as .ts (MPEG Transport Stream) files, and (re)writes a playlist.m3u8 file which clients constantly refresh to discover which .ts files they should download. We use a tmpfs file system to avoid needing to write these files to the sdcard in the PineCube. Besides the program which writes the .ts and .m3u8 files (gst-launch-1.0, in our case), we'll also need a very basic web page in tmpfs and a webserver to serve the files.
+				</p>
+				<p>
+					Create an hls directory to be shared in the existing tmpfs file system that is mounted at /dev/shm:
+				</p>
+				<p>
+					<code>
+						mkdir /dev/shm/hls/
+					</code>
+				</p>
+				<p>
+					Create an index.html and optionally a favicon.ico or even a set of icons, and then put the files into the /dev/shm/hls directory. An example index.html that works is available in the Getting Started section of the
+					<a class="external text" href="https://github.com/video-dev/hls.js/#getting-started" rel="nofollow">
+						README
+					</a>
+					 for
+					<a class="external text" href="https://github.com/video-dev/hls.js/" rel="nofollow">
+						hls.js
+					</a>
+					. We recommend downloading the hls.js file and editing the example index.html to serve your local copy of it instead of fetching it from a CDN. This file provides HLS playback capabilities in browsers which don't natively support it (which is most browsers aside from the iPhone).
+				</p>
+				<p>
+					In one terminal, run the camera capture pipeline:
+					<code>
+cd /dev/shm/hls/ &amp;&amp;
+media-ctl --set-v4l2 '"ov5640 1-003c":0[fmt:UYVY8_2X8/240x320@1/15]' &amp;&amp;
+gst-launch-1.0 v4l2src&nbsp;! video/x-raw,width=320,height=240,format=UYVY,framerate=15/1&nbsp;! decodebin&nbsp;! videoconvert&nbsp;! video/x-raw,format=I420&nbsp;! clockoverlay&nbsp;! timeoverlay valignment=bottom&nbsp;! x264enc speed-preset=ultrafast tune=zerolatency&nbsp;! mpegtsmux&nbsp;! hlssink target-duration=1 playlist-length=2 max-files=3
+					</code>
+				</p>
+				<p>
+					Alternatively it is possible to capture at a higher resolution:
+					<code>
+media-ctl --set-v4l2 '"ov5640 1-003c":0[fmt:UYVY8_2X8/1920x1080@1/15]'
+cd /dev/shm/hls/ &amp;&amp; gst-launch-1.0 v4l2src&nbsp;! video/x-raw,width=1920,height=1080,format=UYVY,framerate=15/1&nbsp;! decodebin&nbsp;! videoconvert&nbsp;! video/x-raw,format=I420&nbsp;! clockoverlay&nbsp;! timeoverlay valignment=bottom&nbsp;! x264enc speed-preset=ultrafast tune=zerolatency&nbsp;! mpegtsmux&nbsp;! hlssink target-duration=1 playlist-length=2 max-files=3
+					</code>
+				</p>
+				<p>
+					In another, run a simple single threaded webserver which will serve html, javascript, and HLS to web clients:
+					<code>
+cd /dev/shm/hls/ &amp;&amp; python3 -m http.server
+					</code>
+				</p>
+				<p>
+					Alternately, install a more efficient web server (
+					<code>
+						apt install nginx
+					</code>
+					) and set the server root for the default configuration to be /dev/shm/hls. This will run on port 80 rather than the python3 server which defaults to port 8000.
+				</p>
+				<p>
+					It should be possible to view the HLS stream directly in a web browser by visiting
+					<a class="external text" href="http://pinecube:8000/" rel="nofollow">
+						http://pinecube:8000/
+					</a>
+					 if pinecube is the correct hostname and the name correctly resolves.
+				</p>
+				<p>
+					You can also view the HLS stream with VLC:
+					<code>
+						vlc
+						<a class="external free" href="http://pinecube:8000/playlist.m3u8" rel="nofollow">
+							http://pinecube:8000/playlist.m3u8
+						</a>
+					</code>
+				</p>
+				<p>
+					Or with gst-play-1.0:
+					<code>
+						gst-play-1.0
+						<a class="external free" href="http://pinecube:8000/playlist.m3u8" rel="nofollow">
+							http://pinecube:8000/playlist.m3u8
+						</a>
+					</code>
+					 (or with mpv, ffplay, etc)
+				</p>
+				<p>
+					To find out about other options you can configure in the
+					<code>
+						hlssink
+					</code>
+					 gstreamer element, you can run
+					<code>
+						gst-inspect-1.0 hlssink
+					</code>
+					.
+				</p>
+				<p>
+					It is worth noting here that the
+					<code>
+						hlssink
+					</code>
+					 element in GStreamer is not widely used in production environments. It is handy for testing, but for real-world free-software HLS live streaming deployments the standard tool today (January 2021) is nginx's RTMP module which can be used with ffmpeg to produce "adaptive streams" which are reencoded at varying quality levels. You can send data to an nginx-rtmp server from a gstreamer pipeline using the
+					<code>
+						rtmpsink
+					</code>
+					 element. It is also worth noting that gstreamer has a new
+					<code>
+						hlssink2
+					</code>
+					 element which we have not tested; perhaps in the future it will even have a webserver!
+				</p>
+				<h3>
+					<span class="mw-headline" id="v4l2rtspserver:_h264_RTSP">
+						v4l2rtspserver: h264 RTSP
+					</span>
+				</h3>
+				<p>
+					Install dependencies:
+				</p>
+				<pre>
+					apt install -y cmake gstreamer1.0-plugins-bad gstreamer1.0-tools \
+gstreamer1.0-plugins-good v4l-utils gstreamer1.0-alsa alsa-utils libpango1.0-0 \
+libpango1.0-dev gstreamer1.0-plugins-base gstreamer1.0-x x264 \
+gstreamer1.0-plugins-{good,bad,ugly} liblivemedia-dev liblog4cpp5-dev \
+libasound2-dev vlc libssl-dev iotop libasound2-dev  liblog4cpp5-dev \
+liblivemedia-dev autoconf automake libtool v4l2loopback-dkms liblog4cpp5-dev \
+libvpx-dev libx264-dev libjpeg-dev libx265-dev linux-headers-dev-sunxi;
+				</pre>
+				<p>
+					Install kernel source and build v4l2loopback module:
+				</p>
+				<pre>
+					 apt install linux-source-5.11.3-dev-sunxi64  #Adjust kernel version number to match current installation with "uname -r"
+ cd /usr/src/v4l2loopback-0.12.3; make &amp;&amp; make install &amp;&amp; depmod -a
+				</pre>
+				<p>
+					Build required v4l2 software:
+				</p>
+				<pre>
+					git clone --recursive
+					<a class="external free" href="https://github.com/mpromonet/v4l2tools" rel="nofollow">
+						https://github.com/mpromonet/v4l2tools
+					</a>
+					 &amp;&amp; cd v4l2tools &amp;&amp; make &amp;&amp; make install;
+git clone --recursive
+					<a class="external free" href="https://github.com/mpromonet/v4l2rtspserver" rel="nofollow">
+						https://github.com/mpromonet/v4l2rtspserver
+					</a>
+					 &amp;&amp; cd v4l2rtspserver &amp;&amp; cmake -D LIVE555URL=
+					<a class="external free" href="https://download.videolan.org/pub/contrib/live555/live.2020.08.19.tar.gz" rel="nofollow">
+						https://download.videolan.org/pub/contrib/live555/live.2020.08.19.tar.gz
+					</a>
+					 . &amp;&amp; make &amp;&amp; make install;
+				</pre>
+				<p>
+					Running the camera:
+				</p>
+				<pre>
+					media-ctl --set-v4l2 '"ov5640 1-003c":0[fmt:UYVY8_2X8/640x480@1/30]';
+modprobe v4l2loopback video_nr=10 debug=2;
+v4l2compress -fH264  -w -vv /dev/video0 /dev/video10 &amp;
+v4l2rtspserver -v -S -W 640 -H 480 -F 10 -b /usr/local/share/v4l2rtspserver/ /dev/video10
+				</pre>
+				<p>
+					Note that you might get an error when running media-ctl indicating that the resource is busy. This could be because of the motion program that runs on the stock OS installation. Check and kill any running /usr/bin/motion processes before running the above steps.
+				</p>
+				<p>
+					The v4l2compress/v4l2rtspserver method of streaming the camera uses around ~45-50% of the CPU for compression of the stream into H264 (640x480@7fps) and around 1-2% of the CPU for serving the HLS stream. Total system RAM used is roughly 64MB and the load average is ~0.4-~0.5 when idle, and ~0.51-~0.60 with one HLS client streaming the camera.
+				</p>
+				<p>
+					You'll probably see about a 2-3s lag with this approach, possibly due to the H264 compression and the lack of hardware acceleration at the moment.
+				</p>
+				<h3>
+					<span class="mw-headline" id="gstreamer:_JPEG_RTSP">
+						gstreamer: JPEG RTSP
+					</span>
+				</h3>
+				<p>
+					GStreamer's RTSP server isn't an element you can use with gst-launch, but rather a library. We failed to build its example program, so instead used this very small 3rd party tool which is based on it:
+					<a class="external free" href="https://github.com/sfalexrog/gst-rtsp-launch/" rel="nofollow">
+						https://github.com/sfalexrog/gst-rtsp-launch/
+					</a>
+				</p>
+				<p>
+					After building gst-rtsp-launch (which is relatively simple on Ubuntu groovy; just
+					<code>
+						apt install libgstreamer1.0-dev libgstrtspserver-1.0-dev
+					</code>
+					 first), you can read JPEG data directly from the camera and stream it via RTSP:
+					<code>
+						media-ctl --set-v4l2 '"ov5640 1-003c":0[fmt:JPEG_1X8/1280x720]' &amp;&amp; gst-rtsp-launch 'v4l2src&nbsp;! image/jpeg,width=1280,height=720&nbsp;! rtpjpegpay name=pay0'
+					</code>
+				</p>
+				<p>
+					This stream can be played using
+					<code>
+						vlc rtsp://pinecube.local:8554/video
+					</code>
+					 or mpv, ffmpeg, gst-play-1.0, etc. If you increase the resolution to 1920x1080, mpv and gst-play can still play it, but VLC will complain
+					<code>
+						The total received frame size exceeds the client's buffer size (2000000).  73602 bytes of trailing data will be dropped!
+					</code>
+					 if you don't tell it to increase its buffer size with
+					<code>
+						--rtsp-frame-buffer-size=300000
+					</code>
+					.
+				</p>
+				<h3>
+					<span class="mw-headline" id="gstreamer:_h264_RTSP">
+						gstreamer: h264 RTSP
+					</span>
+				</h3>
+				<p>
+					Left as an exercise to the reader (please update the wiki). Hint: involves bits from the HLS and the JPEG RTSP examples above, but needs a
+					<code>
+						rtph264pay name=pay0
+					</code>
+					 element.
+				</p>
+				<h3>
+					<span class="mw-headline" id="gstreamer:_JPEG_RTP_UDP">
+						gstreamer: JPEG RTP UDP
+					</span>
+				</h3>
+				<p>
+					Configure camera:
+					<code>
+						media-ctl --set-v4l2 '"ov5640 1-003c":0[fmt:JPEG_1X8/1920x1080]'
+					</code>
+				</p>
+				<p>
+					Transmit with:
+					<code>
+						gst-launch-1.0 v4l2src&nbsp;! image/jpeg,width=1920,height=1080&nbsp;! rtpjpegpay name=pay0&nbsp;! udpsink host=$client_ip port=8000
+					</code>
+				</p>
+				<p>
+					Receive with:
+					<code>
+						gst-launch-1.0 udpsrc port=8000&nbsp;!  application/x-rtp, encoding-name=JPEG,payload=26&nbsp;!  rtpjpegdepay&nbsp;!  jpegdec&nbsp;!  autovideosink
+					</code>
+				</p>
+				<p>
+					Note that the sender must specify the recipient's IP address in place of
+					<code>
+						$client_ip
+					</code>
+					; this can actually be a multicast address allowing for many receivers! (You'll need to specify a valid multicast address in the receivers' pipeline also; see
+					<code>
+						gst-inspect-1.0 udpsrc
+					</code>
+					 and
+					<code>
+						gst-inspect-1.0 udpsink
+					</code>
+					 for details.)
+				</p>
+				<h3>
+					<span class="mw-headline" id="gstreamer:_JPEG_RTP_TCP">
+						gstreamer: JPEG RTP TCP
+					</span>
+				</h3>
+				<p>
+					Configure camera:
+					<code>
+						media-ctl --set-v4l2 '"ov5640 1-003c":0[fmt:JPEG_1X8/1920x1080]'
+					</code>
+				</p>
+				<p>
+					Transmit with:
+					<code>
+						gst-launch-1.0 v4l2src&nbsp;! image/jpeg,width=1920,height=1080&nbsp;! rtpjpegpay name=pay0&nbsp;! rtpstreampay&nbsp;! tcpserversink host=0.0.0.0 port=1234
+					</code>
+				</p>
+				<p>
+					Receive with:
+					<code>
+						gst-launch-1.0 tcpclientsrc host=pinecube.local port=1234&nbsp;! application/x-rtp-stream,encoding-name=JPEG&nbsp;! rtpstreamdepay&nbsp;! application/x-rtp, media=video, encoding-name=JPEG&nbsp;! rtpjpegdepay&nbsp;!  jpegdec&nbsp;!  autovideosink
+					</code>
+				</p>
+				<h3>
+					<span class="mw-headline" id="gstreamer_and_socat:_MJPEG_HTTP_server">
+						gstreamer and socat: MJPEG HTTP server
+					</span>
+				</h3>
+				<p>
+					This rather ridiculous method uses bash, socat, and gstreamer to implement an HTTP-ish server which will serve your video as an MJPEG stream which is playable in browsers.
+				</p>
+				<p>
+					This approach has the advantage of being relatively low latency (under a second), browser-compatible, and not needing to reencode anything on the CPU (it gets JPEG data from the camera itself). Compared to HLS, it has the disadvantages that MJPEG requires more bandwidth than h264 for similar quality, pause and seek are not possible, stalled connections cannot jump ahead when they are unstalled, and, in the case of this primitive implementation, it only supports one viewer at a time. (Though, really, the RTSP examples on this page perform very poorly with multiple viewers, so...)
+				</p>
+				<p>
+					Gstreamer can almost do this by itself, as it has a multipartmux element which produces the headers which precede each frame. But sadly, despite various forum posts lamenting the lack of one over the last 12+ years, as of the end of the 50th year of the UNIX era (aka 2020), somehow nobody has yet gotten a webserver element merged in to gstreamer (which is necessary to produce the HTTP response, which is required for browsers other than firefox to play it). So, here is an absolutely minimal "webserver" which will get MJPEG displaying in a (single) browser.
+				</p>
+				<p>
+					Create a file called
+					<code>
+						mjpeg-response.sh
+					</code>
+					:
+				</p>
+				<pre>
+					#!/bin/bash
+media-ctl --set-v4l2 '"ov5640 1-003c":0[fmt:JPEG_1X8/1920x1080]'
+b="--duct_tape_boundary"
+echo -en "HTTP/1.1 200 OK\r\nContent-type: multipart/x-mixed-replace;boundary=$b\r\n\r\n"
+gst-launch-1.0 v4l2src&nbsp;! image/jpeg,width=1920,height=1080&nbsp;! multipartmux boundary=$b&nbsp;! fdsink fd=2 2&gt;&amp;1 &gt;/dev/null
+				</pre>
+				<p>
+					Make it executable:
+					<code>
+						chmod +x mjpeg-response.sh
+					</code>
+				</p>
+				<p>
+					Run the server:
+					<code>
+						socat TCP-LISTEN:8080,reuseaddr,fork EXEC:./mjpeg-response.sh
+					</code>
+				</p>
+				<p>
+					And browse to
+					<a class="external free" href="http://pinecube.local:8080/" rel="nofollow">
+						http://pinecube.local:8080/
+					</a>
+					 in your browser.
+				</p>
+				<h3>
+					<span id="virtual_web_camera:_gstreamer,_mjpeg,_udp_rtp_unicast">
+					</span>
+					<span class="mw-headline" id="virtual_web_camera:_gstreamer.2C_mjpeg.2C_udp_rtp_unicast">
+						virtual web camera: gstreamer, mjpeg, udp rtp unicast
+					</span>
+				</h3>
+				<p>
+					It's possible to set up the pinecube as a virtual camera video device (Video 4 Linux) so that you can use it with video conferencing software, such as Jitsi Meet. Note that this has fairly minimal (&lt;1s) lag when tested on a wired 1Gb ethernet network connection and the frame rate is passable. MJPEG is very wasteful in terms of network resources, so this is something to keep in mind. The following instructions assume Debian Linux (Bullseye) as your desktop machine, but could work with other Linux OSes too. It's possible that someday a similar system could work with Mac OS X provided that someone writes a gstreamer plugin that exposes a Mac OS Core Media DAL device as a virtual webcam, like they did
+					<a class="external text" href="https://github.com/johnboiles/obs-mac-virtualcam" rel="nofollow">
+						here
+					</a>
+					 for OBS.
+				</p>
+				<p>
+					First, you will need to set up the pinecube with gstreamer much like the above gstreamer, but in 1280x720 resolution. Also, you will be streaming to the desktop machine using UDP, with IP address represented by $desktop below at UDP port 8000.
+				</p>
+				<pre>
+					media-ctl --set-v4l2 '"ov5640 1-003c":0[fmt:JPEG_1X8/1280x720]'
+gst-launch-1.0 v4l2src device=/dev/video0&nbsp;! image/jpeg,width=1280,height=720,framerate=30/1&nbsp;! rtpjpegpay name=pay0&nbsp;! udpsink host=$desktop port=8000
+				</pre>
+				<p>
+					On your desktop machine, you will need to install the gstreamer suite and the special v4l2loopback kernel module to bring the mjpeg stream to the Video 4 Linux device /dev/video10.
+				</p>
+				<pre>
+					sudo apt install gstreamer1.0-tools gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly v4l2loopback-dkms
+sudo modprobe v4l2loopback video_nr=10 max_buffers=32 exclusive_caps=1 # Creates /dev/video10 as a virtual v4l2 device, allocates increased buffers and exposes exclusive capabilities for chromium to find the video device
+gst-launch-1.0 udpsrc port=8000&nbsp;! application/x-rtp, encoding-name=JPEG,payload=26,framerate=30/1&nbsp;! rtpjpegdepay&nbsp;! jpegdec&nbsp;! video/x-raw, format=I420, width=1280, height=720&nbsp;! autovideoconvert&nbsp;! v4l2sink device=/dev/video10
+				</pre>
+				<p>
+					The most common error found when launching the gstreamer pipeline above is the following error message, which seems to happen when the
+					<a class="external text" href="https://github.com/umlaeute/v4l2loopback/issues/174" rel="nofollow">
+						max_buffers aren't set
+					</a>
+					 on the v4l2loopback module (see above), or if there is a v4l client (vlc, chromium) already connected to /dev/video10 when starting the pipeline. There does seem to be a small level of instability in this stack that could be improved.
+				</p>
+				<pre>
+					gstbasesrc.c(3055): gst_base_src_loop (): /GstPipeline:pipeline0/GstUDPSrc:udpsrc0:
+streaming stopped, reason not-negotiated (-4)
+				</pre>
+				<p>
+					Now that you have /dev/video10 hooked into the gstreamer pipeline you can then connect to it using VLC. VLC is a good local test that things are working. You can view the stream like this. Note that you could do the same thing with mpv/ffmpeg, but there are
+					<a class="external text" href="https://www.raspberrypi.org/forums/viewtopic.php?t=270023" rel="nofollow">
+						problems
+					</a>
+					 currently.
+				</p>
+				<pre>
+					vlc v4l2:///dev/video10
+				</pre>
+				<p>
+					Be sure to disconnect vlc before trying to use the virtual web camera with chromium. Launch chromium and go to a web conference like
+					<a class="external text" href="https://meet.jit.si" rel="nofollow">
+						jitsi
+					</a>
+					. When it prompts you for the camera pick the "Dummy Video Device..." and it should be much like what you see in vlc. Note that firefox isn't really working at this moment and the symptoms appear very similar to the problem with mpv/ffmpeg mentioned above, ie. when they connect to the camera they show only the first frame and then drop. It's unclear whether the bug is in gstreamer, v4l, or ffmpeg (or somewhere in these instructions).
+				</p>
+				<h2>
+					<span class="mw-headline" id="Debugging_camera_issues_with_the_gstreamer_pipeline">
+						Debugging camera issues with the gstreamer pipeline
+					</span>
+				</h2>
+				<p>
+					If the camera does not appear to work, it is possible to change the
+					<code>
+						v4l2src
+					</code>
+					 to
+					<code>
+						videotestsrc
+					</code>
+					 and the gstreamer pipeline will produce a synthetic test image without using the camera hardware.
+				</p>
+				<p>
+					If the camera is only sensor noise lines over a black or white image, the camera may be in a broken state. When in that state, the following kernel messages were observed:
+				</p>
+				<pre>
+					[ 1703.577304] alloc_contig_range: [46100, 464f5) PFNs busy
+[ 1703.578570] alloc_contig_range: [46200, 465f5) PFNs busy
+[ 1703.596924] alloc_contig_range: [46300, 466f5) PFNs busy
+[ 1703.598060] alloc_contig_range: [46400, 467f5) PFNs busy
+[ 1703.600480] alloc_contig_range: [46400, 468f5) PFNs busy
+[ 1703.601654] alloc_contig_range: [46600, 469f5) PFNs busy
+[ 1703.619165] alloc_contig_range: [46100, 464f5) PFNs busy
+[ 1703.619528] alloc_contig_range: [46200, 465f5) PFNs busy
+[ 1703.619857] alloc_contig_range: [46300, 466f5) PFNs busy
+[ 1703.641156] alloc_contig_range: [46100, 464f5) PFNs busy
+				</pre>
+				<h2>
+					<span class="mw-headline" id="Camera_Adjustments">
+						Camera Adjustments
+					</span>
+				</h2>
+				<h3>
+					<span class="mw-headline" id="Low_light_mode">
+						Low light mode
+					</span>
+				</h3>
+				<p>
+					To get imagery in low-light conditions you can turn on the infrared LED's to light up the dark area and also enable the IR cut filter using the commands below. Note that these were performed on Armbian using the instructions from here
+					<a class="external autonumber" href="https://github.com/danielfullmer/pinecube-nixos#enablingdisabling-ir-cut-filter" rel="nofollow">
+						[1]
+					</a>
+					.
+				</p>
+				<pre>
+					# Run these as root
+# Turn on the IR LED lights (note that you can see a faint red glow from them when it's low light)
+# Turn them off with echo 1 instead
+# echo 0 &gt; /sys/class/leds/pine64\:ir\:led1/brightness
+# echo 0 &gt; /sys/class/leds/pine64\:ir\:led2/brightness
+# Export gpio, set direction
+# echo 45 &gt; /sys/class/gpio/export
+# echo out &gt; /sys/class/gpio/gpio45/direction
+# Enable IR cut filter (note that you can hear the switching noise)
+# Disable with echo 0 instead
+# echo 1 &gt; /sys/class/gpio/gpio45/value
+				</pre>
+				<h2>
+					<span class="mw-headline" id="SDK">
+						SDK
+					</span>
+				</h2>
+				<h4>
+					<span class="mw-headline" id="Stock_Linux">
+						Stock Linux
+					</span>
+				</h4>
+				<ul>
+					<li>
+						<a class="external text" href="https://files.pine64.org/SDK/PineCube/PineCube%20Stock%20BSP-SDK%20ver1.0.7z" rel="nofollow">
+							Direct Download from pine64.org
+						</a>
+						<ul>
+							<li>
+								MD5 (7zip file): efac108dc98efa0a1f5e77660ba375f8
+							</li>
+							<li>
+								File Size: 3.50GB
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<h5>
+					<span class="mw-headline" id="How_to_compile">
+						How to compile
+					</span>
+				</h5>
+				<p>
+					You can either setup a machine for the build environment, or use a Vagrant virtual machine provided by
+					<a class="external text" href="https://elimo.io" rel="nofollow">
+						Elimo Engineering
+					</a>
+				</p>
+				<h6>
+					<span class="mw-headline" id="On_a_dedicated_machine">
+						On a dedicated machine
+					</span>
+				</h6>
+				<p>
+					Recommended system requirements:
+				</p>
+				<ul>
+					<li>
+						OS: (L)Ubuntu 16.04
+					</li>
+					<li>
+						CPU: 64-bit based
+					</li>
+					<li>
+						Memory: 8 GB or higher
+					</li>
+					<li>
+						Disk: 15 GB free hard disk space
+					</li>
+				</ul>
+				<p>
+					<b>
+						Install required packages
+					</b>
+				</p>
+				<pre>
+					sudo apt-get install p7zip-full git make u-boot-tools libxml2-utils bison build-essential gcc-arm-linux-gnueabi g++-arm-linux-gnueabi zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32z1-dev
+				</pre>
+				<p>
+					<b>
+						Install older Make 3.82 and Java JDK 6
+					</b>
+				</p>
+				<pre>
+					pushd /tmp
+wget https://ftp.gnu.org/gnu/make/make-3.82.tar.gz
+tar xfv make-3.82.tar.gz
+cd make-3.82
+./configure
+make
+sudo apt purge -y make
+sudo ./make install
+cd ..
+# Please, download jdk-6u45-linux-x64.bin from https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html (requires free login)
+chmod +x jdk-6u45-linux-x64.bin
+./jdk-6u45-linux-x64.bin
+sudo mkdir /opt/java/
+sudo mv jdk1.6.0_45/ /opt/java/
+sudo update-alternatives --install /usr/bin/javac javac /opt/java/jdk1.6.0_45/bin/javac 1
+sudo update-alternatives --install /usr/bin/java java /opt/java/jdk1.6.0_45/bin/java 1
+sudo update-alternatives --install /usr/bin/javaws javaws /opt/java/jdk1.6.0_45/bin/javaws 1
+sudo update-alternatives --config javac
+sudo update-alternatives --config java
+sudo update-alternatives --config javaws
+popd
+				</pre>
+				<p>
+					<b>
+						Unpack SDK and then compile and pack the image
+					</b>
+				</p>
+				<pre>
+					7z x 'PineCube Stock BSP-SDK ver1.0.7z'
+mv 'PineCube Stock BSP-SDK ver1.0' pinecube-sdk
+cd pinecube-sdk/camdroid
+source build/envsetup.sh
+lunch
+mklichee
+make -j3
+pack
+				</pre>
+				<h6>
+					<span class="mw-headline" id="Using_Vagrant">
+						Using Vagrant
+					</span>
+				</h6>
+				<p>
+					You can avoid setting up your machine and just use Vagrant to spin up a development environment in a VM.
+				</p>
+				<p>
+					Just clone the
+					<a class="external text" href="https://github.com/elimo-engineering/pinecube-sdk-vagrant" rel="nofollow">
+						Elimo Engineering repo
+					</a>
+					 and follow the instructions in the
+					<a class="external text" href="https://github.com/elimo-engineering/pinecube-sdk-vagrant/blob/main/README.md" rel="nofollow">
+						readme file
+					</a>
+				</p>
+				<p>
+					After spinning up the VM, you just need to run the build:
+				</p>
+				<pre>
+					cd pinecube-sdk/camdroid
+source build/envsetup.sh
+lunch
+mklichee
+make -j3
+pack
+				</pre>
+				<p>
+					<br>
+				</p>
+				<h2>
+					<span class="mw-headline" id="Community_Projects">
+						Community Projects
+					</span>
+				</h2>
+				<p>
+					Share your project with a PineCube here!
+				</p>
+				<!--
+NewPP limit report
+Cached time: 20210614221541
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.220 seconds
+Real time usage: 0.348 seconds
+Preprocessor visited node count: 142/1000000
+Preprocessor generated node count: 0/1000000
+Post‐expand include size: 254/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2474/5000000 bytes
+-->
+				<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   13.341      1 Template:Under_construction
+100.00%   13.341      1 -total
+-->
+				<!-- Saved in parser cache with key wikidb:pcache:idhash:638-0!canonical and timestamp 20210614221540 and revision id 10701
+ -->
+			</div>
+		</div>
+	</body>
+</html>

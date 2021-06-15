@@ -115,6 +115,15 @@ sites:
   - html:
       url: "https://www.pine64.org/availability-and-shipping-status/"
       css_selector: .elementor-widget-wrap
+  - html:
+      url: "https://wiki.pine64.org/wiki/Quartz64_Development"
+      css_selector: "#mw-content-text"
+  - html:
+      url: "https://wiki.pine64.org/wiki/PineCube"
+      css_selector: "#mw-content-text"
+  - html:
+      url: "https://wiki.pine64.org/wiki/PinePower"
+      css_selector: "#mw-content-text"
 
   - html:
       url: "https://www.wdrmaus.de/aktuelle-sendung/"
