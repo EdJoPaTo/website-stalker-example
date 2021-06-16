@@ -160,9 +160,19 @@
 											</a>
 										</li>
 										<li class="toclevel-3 tocsection-14">
-											<a href="#BSP_Image_Layout">
+											<a href="#Bootloader_Flashing">
 												<span class="tocnumber">
 													4.1.2
+												</span>
+												<span class="toctext">
+													Bootloader Flashing
+												</span>
+											</a>
+										</li>
+										<li class="toclevel-3 tocsection-15">
+											<a href="#BSP_Image_Layout">
+												<span class="tocnumber">
+													4.1.3
 												</span>
 												<span class="toctext">
 													BSP Image Layout
@@ -639,6 +649,26 @@
 							</li>
 						</ul>
 					</li>
+					<li>
+						Image CI pipeline aimed at developers
+						<ul>
+							<li>
+								<a class="external free" href="https://gitlab.com/pgwipeout/quartz64_ci/" rel="nofollow">
+									https://gitlab.com/pgwipeout/quartz64_ci/
+								</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						Rockchip U-Boot
+						<ul>
+							<li>
+								<a class="external free" href="https://github.com/rockchip-linux/u-boot" rel="nofollow">
+									https://github.com/rockchip-linux/u-boot
+								</a>
+							</li>
+						</ul>
+					</li>
 				</ul>
 				<h3>
 					<span class="mw-headline" id="Other">
@@ -705,6 +735,45 @@
 					... if this fails, the boot ROM will initialize the USB0 port and wait for a connection from the Rockchip
 flash/boot tools.
 				</p>
+				<h4>
+					<span class="mw-headline" id="Bootloader_Flashing">
+						Bootloader Flashing
+					</span>
+				</h4>
+				<p>
+					As per pgwipeout's
+					<a class="external text" href="https://gitlab.com/pine64-org/quartz-bsp/u-boot/-/commit/12d102b86813378af08b086f3b9c13ed8010754c" rel="nofollow">
+						commit message
+					</a>
+					:
+				</p>
+				<ul>
+					<li>
+						Make a partition named
+						<code>
+							uboot
+						</code>
+						 as partition number 1 at 8 MiB to 16 MiB
+					</li>
+					<li>
+						<code>
+							dd if=idblock.bin of=/dev/
+							<i>
+								&lt;mmc/sd&gt;
+							</i>
+							 seek=64
+						</code>
+					</li>
+					<li>
+						<code>
+							dd if=uboot.img of=/dev/
+							<i>
+								&lt;mmc/sd&gt;
+							</i>
+							1
+						</code>
+					</li>
+				</ul>
 				<h4>
 					<span class="mw-headline" id="BSP_Image_Layout">
 						BSP Image Layout
