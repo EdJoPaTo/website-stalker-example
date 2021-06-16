@@ -118,12 +118,21 @@ sites:
   - html:
       url: "https://wiki.pine64.org/wiki/Quartz64_Development"
       css_selector: "#mw-content-text"
+      regex_replacers:
+        - pattern: <!--[\s\S]+-->
+          replace: ""
   - html:
       url: "https://wiki.pine64.org/wiki/PineCube"
       css_selector: "#mw-content-text"
+      regex_replacers:
+        - pattern: <!--[\s\S]+-->
+          replace: ""
   - html:
       url: "https://wiki.pine64.org/wiki/PinePower"
       css_selector: "#mw-content-text"
+      regex_replacers:
+        - pattern: <!--[\s\S]+-->
+          replace: ""
 
   - html:
       url: "https://www.wdrmaus.de/aktuelle-sendung/"
