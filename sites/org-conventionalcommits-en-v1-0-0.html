@@ -1,0 +1,1005 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<article class="container markdown-body">
+			<h1 id="conventional-commits-100">
+				Conventional Commits 1.0.0
+			</h1>
+			<h2 id="summary">
+				Summary
+			</h2>
+			<p>
+				The Conventional Commits specification is a lightweight convention on top of commit messages.
+It provides an easy set of rules for creating an explicit commit history;
+which makes it easier to write automated tools on top of.
+This convention dovetails with
+				<a href="http://semver.org">
+					SemVer
+				</a>
+				,
+by describing the features, fixes, and breaking changes made in commit messages.
+			</p>
+			<p>
+				The commit message should be structured as follows:
+			</p>
+			<hr>
+			<pre>
+				<code>
+					&lt;type&gt;[optional scope]: &lt;description&gt;
+[optional body]
+[optional footer(s)]
+				</code>
+			</pre>
+			<hr>
+			<p>
+				<!-- raw HTML omitted -->
+The commit contains the following structural elements, to communicate intent to the
+consumers of your library:
+			</p>
+			<ol>
+				<li>
+					<strong>
+						fix:
+					</strong>
+					 a commit of the
+					<em>
+						type
+					</em>
+					<code>
+						fix
+					</code>
+					 patches a bug in your codebase (this correlates with
+					<a href="http://semver.org/#summary">
+						<code>
+							PATCH
+						</code>
+					</a>
+					 in Semantic Versioning).
+				</li>
+				<li>
+					<strong>
+						feat:
+					</strong>
+					 a commit of the
+					<em>
+						type
+					</em>
+					<code>
+						feat
+					</code>
+					 introduces a new feature to the codebase (this correlates with
+					<a href="http://semver.org/#summary">
+						<code>
+							MINOR
+						</code>
+					</a>
+					 in Semantic Versioning).
+				</li>
+				<li>
+					<strong>
+						BREAKING CHANGE:
+					</strong>
+					 a commit that has a footer
+					<code>
+						BREAKING CHANGE:
+					</code>
+					, or appends a
+					<code>
+						!
+					</code>
+					 after the type/scope, introduces a breaking API change (correlating with
+					<a href="http://semver.org/#summary">
+						<code>
+							MAJOR
+						</code>
+					</a>
+					 in Semantic Versioning).
+A BREAKING CHANGE can be part of commits of any
+					<em>
+						type
+					</em>
+					.
+				</li>
+				<li>
+					<em>
+						types
+					</em>
+					 other than
+					<code>
+						fix:
+					</code>
+					 and
+					<code>
+						feat:
+					</code>
+					 are allowed, for example
+					<a href="https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional">
+						@commitlint/config-conventional
+					</a>
+					 (based on the
+					<a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines">
+						the Angular convention
+					</a>
+					) recommends
+					<code>
+						build:
+					</code>
+					,
+					<code>
+						chore:
+					</code>
+					,
+					<code>
+						ci:
+					</code>
+					,
+					<code>
+						docs:
+					</code>
+					,
+					<code>
+						style:
+					</code>
+					,
+					<code>
+						refactor:
+					</code>
+					,
+					<code>
+						perf:
+					</code>
+					,
+					<code>
+						test:
+					</code>
+					, and others.
+				</li>
+				<li>
+					<em>
+						footers
+					</em>
+					 other than
+					<code>
+						BREAKING CHANGE: &lt;description&gt;
+					</code>
+					 may be provided and follow a convention similar to
+					<a href="https://git-scm.com/docs/git-interpret-trailers">
+						git trailer format
+					</a>
+					.
+				</li>
+			</ol>
+			<p>
+				Additional types are not mandated by the Conventional Commits specification, and have no implicit effect in Semantic Versioning (unless they include a BREAKING CHANGE).
+				<!-- raw HTML omitted -->
+				<!-- raw HTML omitted -->
+A scope may be provided to a commit’s type, to provide additional contextual information and is contained within parenthesis, e.g.,
+				<code>
+					feat(parser): add ability to parse arrays
+				</code>
+				.
+			</p>
+			<h2 id="examples">
+				Examples
+			</h2>
+			<h3 id="commit-message-with-description-and-breaking-change-footer">
+				Commit message with description and breaking change footer
+			</h3>
+			<pre>
+				<code>
+					feat: allow provided config object to extend other configs
+BREAKING CHANGE: `extends` key in config file is now used for extending other config files
+				</code>
+			</pre>
+			<h3 id="commit-message-with--to-draw-attention-to-breaking-change">
+				Commit message with
+				<code>
+					!
+				</code>
+				 to draw attention to breaking change
+			</h3>
+			<pre>
+				<code>
+					refactor!: drop support for Node 6
+				</code>
+			</pre>
+			<h3 id="commit-message-with-both--and-breaking-change-footer">
+				Commit message with both
+				<code>
+					!
+				</code>
+				 and BREAKING CHANGE footer
+			</h3>
+			<pre>
+				<code>
+					refactor!: drop support for Node 6
+BREAKING CHANGE: refactor to use JavaScript features not available in Node 6.
+				</code>
+			</pre>
+			<h3 id="commit-message-with-no-body">
+				Commit message with no body
+			</h3>
+			<pre>
+				<code>
+					docs: correct spelling of CHANGELOG
+				</code>
+			</pre>
+			<h3 id="commit-message-with-scope">
+				Commit message with scope
+			</h3>
+			<pre>
+				<code>
+					feat(lang): add polish language
+				</code>
+			</pre>
+			<h3 id="commit-message-with-multi-paragraph-body-and-multiple-footers">
+				Commit message with multi-paragraph body and multiple footers
+			</h3>
+			<pre>
+				<code>
+					fix: correct minor typos in code
+see the issue for details
+on typos fixed.
+Reviewed-by: Z
+Refs #133
+				</code>
+			</pre>
+			<h2 id="specification">
+				Specification
+			</h2>
+			<p>
+				The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in
+				<a href="https://www.ietf.org/rfc/rfc2119.txt">
+					RFC 2119
+				</a>
+				.
+			</p>
+			<ol>
+				<li>
+					Commits MUST be prefixed with a type, which consists of a noun,
+					<code>
+						feat
+					</code>
+					,
+					<code>
+						fix
+					</code>
+					, etc., followed
+by the OPTIONAL scope, OPTIONAL
+					<code>
+						!
+					</code>
+					, and REQUIRED terminal colon and space.
+				</li>
+				<li>
+					The type
+					<code>
+						feat
+					</code>
+					 MUST be used when a commit adds a new feature to your application or library.
+				</li>
+				<li>
+					The type
+					<code>
+						fix
+					</code>
+					 MUST be used when a commit represents a bug fix for your application.
+				</li>
+				<li>
+					A scope MAY be provided after a type. A scope MUST consist of a noun describing a
+section of the codebase surrounded by parenthesis, e.g.,
+					<code>
+						fix(parser):
+					</code>
+				</li>
+				<li>
+					A description MUST immediately follow the colon and space after the type/scope prefix.
+The description is a short summary of the code changes, e.g.,
+					<em>
+						fix: array parsing issue when multiple spaces were contained in string
+					</em>
+					.
+				</li>
+				<li>
+					A longer commit body MAY be provided after the short description, providing additional contextual information about the code changes. The body MUST begin one blank line after the description.
+				</li>
+				<li>
+					A commit body is free-form and MAY consist of any number of newline separated paragraphs.
+				</li>
+				<li>
+					One or more footers MAY be provided one blank line after the body. Each footer MUST consist of
+a word token, followed by either a
+					<code>
+						:&lt;space&gt;
+					</code>
+					 or
+					<code>
+						&lt;space&gt;#
+					</code>
+					 separator, followed by a string value (this is inspired by the
+					<a href="https://git-scm.com/docs/git-interpret-trailers">
+						git trailer convention
+					</a>
+					).
+				</li>
+				<li>
+					A footer’s token MUST use
+					<code>
+						-
+					</code>
+					 in place of whitespace characters, e.g.,
+					<code>
+						Acked-by
+					</code>
+					 (this helps differentiate
+the footer section from a multi-paragraph body). An exception is made for
+					<code>
+						BREAKING CHANGE
+					</code>
+					, which MAY also be used as a token.
+				</li>
+				<li>
+					A footer’s value MAY contain spaces and newlines, and parsing MUST terminate when the next valid footer
+token/separator pair is observed.
+				</li>
+				<li>
+					Breaking changes MUST be indicated in the type/scope prefix of a commit, or as an entry in the
+footer.
+				</li>
+				<li>
+					If included as a footer, a breaking change MUST consist of the uppercase text BREAKING CHANGE, followed by a colon, space, and description, e.g.,
+					<em>
+						BREAKING CHANGE: environment variables now take precedence over config files
+					</em>
+					.
+				</li>
+				<li>
+					If included in the type/scope prefix, breaking changes MUST be indicated by a
+					<code>
+						!
+					</code>
+					 immediately before the
+					<code>
+						:
+					</code>
+					. If
+					<code>
+						!
+					</code>
+					 is used,
+					<code>
+						BREAKING CHANGE:
+					</code>
+					 MAY be omitted from the footer section,
+and the commit description SHALL be used to describe the breaking change.
+				</li>
+				<li>
+					Types other than
+					<code>
+						feat
+					</code>
+					 and
+					<code>
+						fix
+					</code>
+					 MAY be used in your commit messages, e.g.,
+					<em>
+						docs: updated ref docs.
+					</em>
+				</li>
+				<li>
+					The units of information that make up Conventional Commits MUST NOT be treated as case sensitive by implementors, with the exception of BREAKING CHANGE which MUST be uppercase.
+				</li>
+				<li>
+					BREAKING-CHANGE MUST be synonymous with BREAKING CHANGE, when used as a token in a footer.
+				</li>
+			</ol>
+			<h2 id="why-use-conventional-commits">
+				Why Use Conventional Commits
+			</h2>
+			<ul>
+				<li>
+					Automatically generating CHANGELOGs.
+				</li>
+				<li>
+					Automatically determining a semantic version bump (based on the types of commits landed).
+				</li>
+				<li>
+					Communicating the nature of changes to teammates, the public, and other stakeholders.
+				</li>
+				<li>
+					Triggering build and publish processes.
+				</li>
+				<li>
+					Making it easier for people to contribute to your projects, by allowing them to explore
+a more structured commit history.
+				</li>
+			</ul>
+			<h2 id="faq">
+				FAQ
+			</h2>
+			<h3 id="how-should-i-deal-with-commit-messages-in-the-initial-development-phase">
+				How should I deal with commit messages in the initial development phase?
+			</h3>
+			<p>
+				We recommend that you proceed as if you’ve already released the product. Typically
+				<em>
+					somebody
+				</em>
+				, even if it’s your fellow software developers, is using your software. They’ll want to know what’s fixed, what breaks etc.
+			</p>
+			<h3 id="are-the-types-in-the-commit-title-uppercase-or-lowercase">
+				Are the types in the commit title uppercase or lowercase?
+			</h3>
+			<p>
+				Any casing may be used, but it’s best to be consistent.
+			</p>
+			<h3 id="what-do-i-do-if-the-commit-conforms-to-more-than-one-of-the-commit-types">
+				What do I do if the commit conforms to more than one of the commit types?
+			</h3>
+			<p>
+				Go back and make multiple commits whenever possible. Part of the benefit of Conventional Commits is its ability to drive us to make more organized commits and PRs.
+			</p>
+			<h3 id="doesnt-this-discourage-rapid-development-and-fast-iteration">
+				Doesn’t this discourage rapid development and fast iteration?
+			</h3>
+			<p>
+				It discourages moving fast in a disorganized way. It helps you be able to move fast long term across multiple projects with varied contributors.
+			</p>
+			<h3 id="might-conventional-commits-lead-developers-to-limit-the-type-of-commits-they-make-because-theyll-be-thinking-in-the-types-provided">
+				Might Conventional Commits lead developers to limit the type of commits they make because they’ll be thinking in the types provided?
+			</h3>
+			<p>
+				Conventional Commits encourages us to make more of certain types of commits such as fixes. Other than that, the flexibility of Conventional Commits allows your team to come up with their own types and change those types over time.
+			</p>
+			<h3 id="how-does-this-relate-to-semver">
+				How does this relate to SemVer?
+			</h3>
+			<p>
+				<code>
+					fix
+				</code>
+				 type commits should be translated to
+				<code>
+					PATCH
+				</code>
+				 releases.
+				<code>
+					feat
+				</code>
+				 type commits should be translated to
+				<code>
+					MINOR
+				</code>
+				 releases. Commits with
+				<code>
+					BREAKING CHANGE
+				</code>
+				 in the commits, regardless of type, should be translated to
+				<code>
+					MAJOR
+				</code>
+				 releases.
+			</p>
+			<h3 id="how-should-i-version-my-extensions-to-the-conventional-commits-specification-eg-jameswomackconventional-commit-spec">
+				How should I version my extensions to the Conventional Commits Specification, e.g.
+				<code>
+					@jameswomack/conventional-commit-spec
+				</code>
+				?
+			</h3>
+			<p>
+				We recommend using SemVer to release your own extensions to this specification (and
+encourage you to make these extensions!)
+			</p>
+			<h3 id="what-do-i-do-if-i-accidentally-use-the-wrong-commit-type">
+				What do I do if I accidentally use the wrong commit type?
+			</h3>
+			<h4 id="when-you-used-a-type-thats-of-the-spec-but-not-the-correct-type-eg-fix-instead-of-feat">
+				When you used a type that’s of the spec but not the correct type, e.g.
+				<code>
+					fix
+				</code>
+				 instead of
+				<code>
+					feat
+				</code>
+			</h4>
+			<p>
+				Prior to merging or releasing the mistake, we recommend using
+				<code>
+					git rebase -i
+				</code>
+				 to edit the commit history. After release, the cleanup will be different according to what tools and processes you use.
+			</p>
+			<h4 id="when-you-used-a-type-not-of-the-spec-eg-feet-instead-of-feat">
+				When you used a type
+				<em>
+					not
+				</em>
+				 of the spec, e.g.
+				<code>
+					feet
+				</code>
+				 instead of
+				<code>
+					feat
+				</code>
+			</h4>
+			<p>
+				In a worst case scenario, it’s not the end of the world if a commit lands that does not meet the Conventional Commits specification. It simply means that commit will be missed by tools that are based on the spec.
+			</p>
+			<h3 id="do-all-my-contributors-need-to-use-the-conventional-commits-specification">
+				Do all my contributors need to use the Conventional Commits specification?
+			</h3>
+			<p>
+				No! If you use a squash based workflow on Git lead maintainers can clean up the commit messages as they’re merged—adding no workload to casual committers.
+A common workflow for this is to have your git system automatically squash commits from a pull request and present a form for the lead maintainer to enter the proper git commit message for the merge.
+			</p>
+			<h3 id="how-does-conventional-commits-handle-revert-commits">
+				How does Conventional Commits handle revert commits?
+			</h3>
+			<p>
+				Reverting code can be complicated: are you reverting multiple commits? if you revert a feature, should the next release instead be a patch?
+			</p>
+			<p>
+				Conventional Commits does not make an explicit effort to define revert behavior. Instead we leave it to tooling
+authors to use the flexibility of
+				<em>
+					types
+				</em>
+				 and
+				<em>
+					footers
+				</em>
+				 to develop their logic for handling reverts.
+			</p>
+			<p>
+				One recommendation is to use the
+				<code>
+					revert
+				</code>
+				 type, and a footer that references the commit SHAs that are being reverted:
+			</p>
+			<pre>
+				<code>
+					revert: let us never again speak of the noodle incident
+Refs: 676104e, a215868
+				</code>
+			</pre>
+			<h2 id="about">
+				About
+			</h2>
+			<p>
+				The Conventional Commits specification is inspired by, and based heavily on, the
+				<a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines">
+					Angular Commit Guidelines
+				</a>
+				.
+			</p>
+			<p>
+				The first draft of this specification has been written in collaboration with some of the folks contributing to:
+			</p>
+			<ul>
+				<li>
+					<a href="https://github.com/conventional-changelog/conventional-changelog">
+						conventional-changelog
+					</a>
+					: a set of tools for parsing Conventional Commits messages from git histories.
+				</li>
+				<li>
+					<a href="https://npmjs.com/package/parse-commit-message">
+						parse-commit-message
+					</a>
+					: Extensible utilities for parsing, stringify and validating Conventional Commit messages.
+				</li>
+				<li>
+					<a href="https://bumped.github.io">
+						bumped
+					</a>
+					: a tool for releasing software that makes it easy to perform actions before and after releasing a new version of your software.
+				</li>
+				<li>
+					<a href="https://github.com/netflix/unleash">
+						unleash
+					</a>
+					: a tool for automating the software release and publishing lifecycle.
+				</li>
+				<li>
+					<a href="https://github.com/lerna/lerna">
+						lerna
+					</a>
+					: a tool for managing monorepos, which grew out of the Babel project.
+				</li>
+			</ul>
+			<h2 id="tooling-for-conventional-commits">
+				Tooling for Conventional Commits
+			</h2>
+			<ul>
+				<li>
+					<a href="https://github.com/leodido/go-conventionalcommits">
+						go-conventionalcommits
+					</a>
+					: Full Go powers to parse conventional commits
+				</li>
+				<li>
+					<a href="https://gitlab.com/digitalxero/go-conventional-commit14">
+						go-conventional-commit
+					</a>
+					: go library for parsing commit messages following the specification.
+				</li>
+				<li>
+					<a href="https://github.com/goreleaser/chglog">
+						chglog
+					</a>
+					: a tool for parsing Conventional Commits messages from git histories and turning them into templateable change logs.
+				</li>
+				<li>
+					<a href="https://github.com/xotahal/fastlane-plugin-semantic_release">
+						fastlane-plugin
+					</a>
+					: follows the specification to manage versions and generate a changelog automatically
+				</li>
+				<li>
+					<a href="https://github.com/commitizen/cz-cli">
+						commitizen/cz-cli
+					</a>
+					: A Node.js tool to create commit messages following the Conventional Commits specs.
+				</li>
+				<li>
+					<a href="https://github.com/commitizen-tools/commitizen">
+						commitizen-tools/commitizen
+					</a>
+					: A tool written in Python to create commiting rules for projects, auto bump versions and auto changelog generation.
+				</li>
+				<li>
+					<a href="https://github.com/damianopetrungaro/php-commitizen">
+						php-commitizen
+					</a>
+					: A PHP tool built to create commit messages following the Conventional Commits specs.
+Configurable and usable for PHP projects as a composer dependency or usable globally for non-PHP projects.
+				</li>
+				<li>
+					<a href="https://github.com/marcocesarato/php-conventional-changelog">
+						php-conventional-changelog
+					</a>
+					: a tool built to generate a changelog from a project’s committing history messages and metadata and automate versioning with Semver, following Conventional Commits specs. Configurable and usable for PHP projects as a composer dependency or usable globally for non-PHP projects.
+				</li>
+				<li>
+					<a href="https://github.com/conventional-changelog/commitlint">
+						commitlint
+					</a>
+					: A linter to check that your commit messages meet the Conventional Commits format.
+				</li>
+				<li>
+					<a href="https://github.com/jorisroovers/gitlint">
+						gitlint
+					</a>
+					: Git commit message linter written in Python, which can be configured to
+					<a href="https://jorisroovers.com/gitlint/contrib_rules/#ct1-contrib-title-conventional-commits">
+						enforce Conventional Commits format
+					</a>
+					.
+				</li>
+				<li>
+					<a href="https://github.com/autonomy/conform">
+						conform
+					</a>
+					: a tool that can be used to enforce policies on git repositories, including Conventional Commits.
+				</li>
+				<li>
+					<a href="https://npmjs.com/package/detect-next-version">
+						detect-next-version
+					</a>
+					: Parse, detect and get more metadata about given Conventional Commits.
+				</li>
+				<li>
+					<a href="https://www.npmjs.com/package/recommended-bump">
+						recommended-bump
+					</a>
+					: Calculcates the recommended version bump based on given Conventional Commits.
+				</li>
+				<li>
+					<a href="https://www.npmjs.com/package/git-commits-since">
+						git-commits-since
+					</a>
+					: Get all (raw) commits since period or (by default) from latest git SemVer tag, plus plugins support.
+				</li>
+				<li>
+					<a href="https://github.com/conventional-changelog/standard-version">
+						standard-version
+					</a>
+					: Automatic versioning and CHANGELOG management, using GitHub’s new squash button and the recommended Conventional Commits workflow.
+				</li>
+				<li>
+					<a href="https://github.com/lppedd/idea-conventional-commit">
+						Conventional Commit
+					</a>
+					: provides extensible context and template-based completion, and inspections, for Conventional Commits inside the VCS Commit dialog. Available for all
+					<a href="https://www.jetbrains.com/">
+						JetBrains IDEs
+					</a>
+					.
+				</li>
+				<li>
+					<a href="https://plugins.jetbrains.com/plugin/9861-git-commit-template">
+						Git Commit Template
+					</a>
+					: Add Conventional Commits support to
+					<a href="https://www.jetbrains.com/">
+						JetBrains Editors
+					</a>
+					 (IntelliJ IDEA, PyCharm, PhpStorm…).
+				</li>
+				<li>
+					<a href="https://github.com/commitsar-app/commitsar">
+						commitsar
+					</a>
+					: Go tool for checking if commits on branch are Conventional Commits compliant. Comes with Docker image for CI uses.
+				</li>
+				<li>
+					<a href="https://github.com/semantic-release/semantic-release">
+						semantic-release
+					</a>
+					: A tool that automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
+				</li>
+				<li>
+					<a href="https://github.com/relekang/python-semantic-release">
+						python-semantic-release
+					</a>
+					: Automatic Semantic Versioning for Python projects. This is a Python implementation of the
+					<a href="https://github.com/semantic-release/semantic-release">
+						semantic-release
+					</a>
+					 for Node.js.
+				</li>
+				<li>
+					<a href="https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits">
+						VSCode Conventional Commits
+					</a>
+					: Add Conventional Commits supports for VSCode.
+				</li>
+				<li>
+					<a href="https://github.com/jgoodman8/pyhist">
+						Pyhist
+					</a>
+					: A Python utility to automagically update the package version from the git history and generate the Changelog.
+				</li>
+				<li>
+					<a href="https://github.com/idc101/git-mkver">
+						git-mkver
+					</a>
+					: A tool to automatically apply Semantic Versioning to git repositories based on
+					<em>
+						Conventional Commits
+					</em>
+					.
+				</li>
+				<li>
+					<a href="https://gitlab.com/DeveloperC/conventional_commits_next_version">
+						Conventional Commits Next Version
+					</a>
+					: A tooling and language agnostic utility to calculate the next semantic version based on the
+					<em>
+						Conventional Commits
+					</em>
+					 since the prior version. Supports monorepos.
+				</li>
+				<li>
+					<a href="https://github.com/adamtabrams/change">
+						change
+					</a>
+					: A tool for generating and updating a changelog using Conventional Commits.
+				</li>
+				<li>
+					<a href="https://b4nst.github.io/turbogit">
+						Turbogit
+					</a>
+					: A command line tool to help you follow
+					<em>
+						Conventional Commits
+					</em>
+					 flow.
+				</li>
+				<li>
+					<a href="https://github.com/bvieira/sv4git">
+						sv4git
+					</a>
+					: A command line tool (CLI) to validate commit messages, bump versions, create tags and generate changelogs.
+				</li>
+				<li>
+					<a href="https://github.com/chaaz/versio">
+						Versio
+					</a>
+					: A monorepo-compatible tool that updates version numbers based on conventional commits and project dependencies. It can generate tags and changelogs, too.
+				</li>
+				<li>
+					<a href="https://github.com/tomasbjerre/git-changelog-lib">
+						Git Changelog Lib
+					</a>
+					: A Java library that supports rendering a changelog given a context derived from Git. Supports conventional commits with
+					<a href="https://github.com/tomasbjerre/git-changelog-lib#helpers">
+						Handlebars Helpers
+					</a>
+					. It is used in:
+					<ul>
+						<li>
+							<a href="https://github.com/tomasbjerre/git-changelog-gradle-plugin">
+								Gradle
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/tomasbjerre/git-changelog-maven-plugin">
+								Maven
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/jenkinsci/git-changelog-plugin">
+								Jenkins
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/tomasbjerre/git-changelog-command-line">
+								Command Line
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<h2 id="projects-using-conventional-commits">
+				Projects Using Conventional Commits
+			</h2>
+			<ul>
+				<li>
+					<a href="https://github.com/goreleaser/nfpm">
+						NFPM
+					</a>
+					: NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+				</li>
+				<li>
+					<a href="https://github.com/yargs/yargs">
+						yargs
+					</a>
+					: everyone’s favorite pirate themed command line argument parser.
+				</li>
+				<li>
+					<a href="https://github.com/istanbuljs/istanbuljs">
+						istanbuljs
+					</a>
+					: a collection of open-source tools and libraries for adding test coverage to your JavaScript tests.
+				</li>
+				<li>
+					<a href="https://github.com/UW-Madison-DoIT/angularjs-portal">
+						uPortal-home
+					</a>
+					 and
+					<a href="https://github.com/UW-Madison-DoIT/uw-frame">
+						uPortal-application-framework
+					</a>
+					: Optional supplemental user interface enhancing
+					<a href="https://www.apereo.org/projects/uportal">
+						Apereo uPortal
+					</a>
+					.
+				</li>
+				<li>
+					<a href="https://github.com/dmfay/massive-js">
+						massive.js
+					</a>
+					: A data access library for Node and PostgreSQL.
+				</li>
+				<li>
+					<a href="https://github.com/electron/electron">
+						electron
+					</a>
+					: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+				</li>
+				<li>
+					<a href="https://github.com/LeDDGroup/scroll-utility">
+						scroll-utility
+					</a>
+					: A simple to use scroll utility package for centering elements, and smooth animations
+				</li>
+				<li>
+					<a href="https://github.com/BlazeUI/blaze">
+						Blaze UI
+					</a>
+					: Framework-free open source UI toolkit.
+				</li>
+				<li>
+					<a href="https://github.com/monicahq/monica">
+						Monica
+					</a>
+					: An open source personal relationship management system.
+				</li>
+				<li>
+					<a href="https://mhy.js.org">
+						mhy
+					</a>
+					: A zero-config, out-of-the-box, multi-purpose toolbox and development environment.
+				</li>
+				<li>
+					<a href="https://github.com/danielduarte/diffparse#readme">
+						@tandil/diffparse
+					</a>
+					: Simple parser for Diff files (unified diff format).
+				</li>
+				<li>
+					<a href="https://github.com/danielduarte/diffsplit#readme">
+						@tandil/diffsplit
+					</a>
+					: Easy split of .diff &amp; .patch into its files.
+				</li>
+				<li>
+					<a href="https://github.com/thi-ng/umbrella">
+						@thi.ng/umbrella
+					</a>
+					: Monorepo of ~100 TypeScript projects for data driven development
+				</li>
+				<li>
+					<a href="https://github.com/HunWalk/yii2-basic-firestarter">
+						yii2-basic-firestarter
+					</a>
+					: 🔥 An enhanced Yii2 app template.
+				</li>
+				<li>
+					<a href="https://github.com/dcyou/resume">
+						dcyou/resume
+					</a>
+					: 😎 Template to easily and quickly create your online CV.
+				</li>
+				<li>
+					<a href="https://www.nintex.com/workflow-automation/modern-forms/">
+						Nintex Forms
+					</a>
+					: Easily create dynamic online forms to capture and submit accurate and current data.
+				</li>
+				<li>
+					<a href="https://tinacms.org">
+						Tina CMS
+					</a>
+					: An open source toolkit for building front-end content-management into your website.
+				</li>
+				<li>
+					<a href="https://github.com/belajarpythoncom/belajarpython.com">
+						Belajarpython
+					</a>
+					 Open source Indonesian python programming tutorial site.
+				</li>
+				<li>
+					<a href="https://platform.uno">
+						Uno Platform
+					</a>
+					: Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+				</li>
+				<li>
+					<a href="https://jenkins-x.io/">
+						Jenkins X
+					</a>
+					: Jenkins X provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
+				</li>
+				<li>
+					<a href="https://github.com/haunt98/changeloguru">
+						Changeloguru
+					</a>
+					: Auto-generate changelog from conventional commits, written in Go.
+				</li>
+			</ul>
+			<p>
+				<a href="https://conventionalcommits.org">
+					<img alt="Conventional Commits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg">
+				</a>
+			</p>
+			<p>
+				<em>
+					want your project on this list?
+				</em>
+				<a href="https://github.com/conventional-changelog/conventionalcommits.org/pulls">
+					send a pull request
+				</a>
+				.
+			</p>
+		</article>
+	</body>
+</html>

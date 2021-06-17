@@ -55,6 +55,11 @@ sites:
       url: "https://advent.morr.cc/"
   - html:
       url: "https://advent.morr.cc/2021"
+  - html:
+      url: "https://www.conventionalcommits.org/en/"
+  - html:
+      url: "https://www.conventionalcommits.org/en/v1.0.0/"
+      css_selector: article
 
 
   - html:
