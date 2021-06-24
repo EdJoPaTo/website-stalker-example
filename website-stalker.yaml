@@ -120,6 +120,9 @@ sites:
   - html:
       url: "https://www.pine64.org/availability-and-shipping-status/"
       css_selector: .elementor-widget-wrap
+      regex_replacers:
+        - pattern: (elementor-tab-\w+)-\d+
+          replace: $1
   - html:
       url: "https://wiki.pine64.org/wiki/Quartz64_Development"
       css_selector: "#mw-content-text"
