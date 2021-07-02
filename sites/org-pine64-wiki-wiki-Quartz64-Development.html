@@ -547,6 +547,31 @@
 								</a>
 							</td>
 						</tr>
+						<tr>
+							<th scope="row">
+								Microphone
+							</th>
+							<td colspan="2" style="background:LightYellow; text-align:center;">
+								In review
+								<sup>
+									<a class="external autonumber" href="https://patchwork.kernel.org/project/linux-rockchip/list/?series=509889" rel="nofollow">
+										[12]
+									</a>
+								</sup>
+							</td>
+							<td>
+								<code>
+									rockchip-saradc
+								</code>
+							</td>
+							<td>
+								Headphone jack mic seems to connect to
+								<code>
+									SARADC_VIN2_HP_HOOK
+								</code>
+								, so I'm pretty sure that the dtsi and driver changes are needed for that mic to work
+							</td>
+						</tr>
 					</tbody>
 				</table>
 				<h2>
@@ -640,7 +665,7 @@
 						 — needs errata published by Rockchip to get upstream to add device-specific workarounds
 						<sup>
 							<a class="external autonumber" href="https://lore.kernel.org/linux-rockchip/CAMdYzYrQ5f-mv_VmTq_CRf9tR=j3mwRpKHNLmPFgCF9whsGFRw@mail.gmail.com/" rel="nofollow">
-								[12]
+								[13]
 							</a>
 						</sup>
 					</li>
