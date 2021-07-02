@@ -8,143 +8,229 @@
 from: website-stalker-example-github@edjopato.de
 sites:
   # Basic example
-  - html:
-      url: "https://edjopato.de/"
+  - url: "https://edjopato.de/"
+    extension: html
+    editors:
+      - html_prettify
 
   # Example with css selector
-  - html:
-      url: "https://edjopato.de/post/"
-      css_selector: main
+  - url: "https://edjopato.de/post/"
+    extension: html
+    editors:
+      - css_selector: main
+      - html_prettify
 
-  # Example of a text only (utf8) entry
-  - utf8:
-      url: "https://edjopato.de/robots.txt"
+  # Example of a text only entry
+  - url: "https://edjopato.de/robots.txt"
+    extension: txt
 
-  - html:
-      url: "https://wiki.gnome.org/Schedule"
-      css_selector: "#content"
-  - html:
-      url: "https://www.raspberrypi.org/software/operating-systems/"
-      css_selector: main
-  - html:
-      url: "https://raspi.debian.net/tested-images/"
-      css_selector: "#content"
-  - html:
-      url: "https://files.teamspeak-services.com/releases/server/"
-  - html:
-      url: "https://events.ccc.de/upcoming-events/"
-      css_selector: .content
-  - html:
-      url: "https://us.diablo3.com/en-us/"
-      css_selector: .article-wrapper
-      regex_replacers:
-        - pattern: \d+ \w+ ago
+  - url: "https://wiki.gnome.org/Schedule"
+    extension: html
+    editors:
+      - css_selector: "#content"
+      - html_prettify
+  - url: "https://www.raspberrypi.org/software/operating-systems/"
+    extension: html
+    editors:
+      - css_selector: main
+      - html_prettify
+  - url: "https://raspi.debian.net/tested-images/"
+    extension: html
+    editors:
+      - css_selector: "#content"
+      - html_prettify
+  - url: "https://files.teamspeak-services.com/releases/server/"
+    extension: html
+    editors:
+      - html_prettify
+  - url: "https://events.ccc.de/upcoming-events/"
+    extension: html
+    editors:
+      - css_selector: .content
+      - html_prettify
+  - url: "https://us.diablo3.com/en-us/"
+    extension: html
+    editors:
+      - css_selector: .article-wrapper
+      - regex_replacer:
+          pattern: \d+ \w+ ago
           replace: time ago
-        - pattern: \d+/\d+/\d{4}
+      - regex_replacer:
+          pattern: \d+/\d+/\d{4}
           replace: time ago
-  - html:
-      url: "https://konkludenz.de/"
-      css_selector: .post
-  - html:
-      url: "https://konkludenz.de/en/"
-      css_selector: .post
-  - html:
-      url: "https://morr.cc/"
-      css_selector: .box
-  - html:
-      url: "https://advent.morr.cc/"
-  - html:
-      url: "https://advent.morr.cc/2021"
-  - html:
-      url: "https://www.conventionalcommits.org/en/"
-  - html:
-      url: "https://www.conventionalcommits.org/en/v1.0.0/"
-      css_selector: article
+      - html_prettify
+
+  - url: "https://konkludenz.de/"
+    extension: html
+    editors:
+      - css_selector: .post
+      - html_prettify
+  - url: "https://konkludenz.de/en/"
+    extension: html
+    editors:
+      - css_selector: .post
+      - html_prettify
+
+  - url: "https://morr.cc/"
+    extension: html
+    editors:
+      - css_selector: .box
+      - html_prettify
+  - url: "https://advent.morr.cc/"
+    extension: html
+    editors:
+      - html_prettify
+  - url: "https://advent.morr.cc/2021"
+    extension: html
+    editors:
+      - html_prettify
+
+  - url: "https://www.conventionalcommits.org/en/"
+    extension: html
+    editors:
+      - html_prettify
+  - url: "https://www.conventionalcommits.org/en/v1.0.0/"
+    extension: html
+    editors:
+      - css_selector: article
+      - html_prettify
 
 
-  - html:
-      url: "https://www.netcup-news.de/"
-      css_selector: .posting
-  - html:
-      url: "https://www.netcup.de/vserver/vps.php"
-      css_selector: .card
-  - html:
-      url: "https://www.netcup.de/vserver/"
-      css_selector: .card
-  - html:
-      url: "https://www.netcup.de/vserver/vstorage.php"
-      css_selector: .card
-  - html:
-      url: "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
-      css_selector: .card
-  - html:
-      url: "https://www.netcup.de/vserver/root-server-erweiterungen.php"
-      css_selector: .card
-  - html:
-      url: "https://www.netcup.de/vserver/storagespace.php"
-      css_selector: main > .container
-  - html:
-      url: "https://www.netcup.de/vserver/vserver_images.php"
-      css_selector: table
-  - html:
-      url: "https://www.netcup-sonderangebote.de/"
-      css_selector: .card
-  - html:
-      url: "https://www.netcup.de/adventskalender/"
-      css_selector: .card
+  - url: "https://www.netcup-news.de/"
+    extension: html
+    editors:
+      - css_selector: .posting
+      - html_prettify
+  - url: "https://www.netcup.de/vserver/vps.php"
+    extension: html
+    editors:
+      - css_selector: .card
+      - html_prettify
+  - url: "https://www.netcup.de/vserver/"
+    extension: html
+    editors:
+      - css_selector: .card
+      - html_prettify
+  - url: "https://www.netcup.de/vserver/vstorage.php"
+    extension: html
+    editors:
+      - css_selector: .card
+      - html_prettify
+  - url: "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
+    extension: html
+    editors:
+      - css_selector: .card
+      - html_prettify
+  - url: "https://www.netcup.de/vserver/root-server-erweiterungen.php"
+    extension: html
+    editors:
+      - css_selector: .card
+      - html_prettify
+  - url: "https://www.netcup.de/vserver/storagespace.php"
+    extension: html
+    editors:
+      - css_selector: main > .container
+      - html_prettify
+  - url: "https://www.netcup.de/vserver/vserver_images.php"
+    extension: html
+    editors:
+      - css_selector: table
+      - html_prettify
+  - url: "https://www.netcup-sonderangebote.de/"
+    extension: html
+    editors:
+      - css_selector: .card
+      - html_prettify
+  - url: "https://www.netcup.de/adventskalender/"
+    extension: html
+    editors:
+      - css_selector: .card
+      - html_prettify
 
-  - html:
-      url: "https://pine64.com/product-category/pinepower/"
-      css_selector: .product
-  - html:
-      url: "https://pine64.com/product-category/pinecil/"
-      css_selector: .product
-  - html:
-      url: "https://pine64.com/product-category/iot/"
-      css_selector: .product
-  - html:
-      url: "https://pine64.com/product-category/ip-cameras/"
-      css_selector: .product
-  - html:
-      url: "https://pine64.com/product-category/tablets/"
-      css_selector: .product
-  - html:
-      url: "https://pine64.com/product-category/pinebook-pro/"
-      css_selector: .product
-  - html:
-      url: "https://pine64.com/product-category/single-board-computers/"
-      css_selector: .product
-  - html:
-      url: "https://pine64.com/product-category/quartz64/"
-      css_selector: .product
-  - html:
-      url: "https://www.pine64.org/availability-and-shipping-status/"
-      css_selector: .elementor-widget-wrap
-      regex_replacers:
-        - pattern: (elementor-tab-\w+)-\d+
+
+  - url: "https://pine64.com/product-category/pinepower/"
+    extension: html
+    editors:
+      - css_selector: .product
+      - html_prettify
+  - url: "https://pine64.com/product-category/pinecil/"
+    extension: html
+    editors:
+      - css_selector: .product
+      - html_prettify
+  - url: "https://pine64.com/product-category/iot/"
+    extension: html
+    editors:
+      - css_selector: .product
+      - html_prettify
+  - url: "https://pine64.com/product-category/ip-cameras/"
+    extension: html
+    editors:
+      - css_selector: .product
+      - html_prettify
+  - url: "https://pine64.com/product-category/tablets/"
+    extension: html
+    editors:
+      - css_selector: .product
+      - html_prettify
+  - url: "https://pine64.com/product-category/pinebook-pro/"
+    extension: html
+    editors:
+      - css_selector: .product
+      - html_prettify
+  - url: "https://pine64.com/product-category/single-board-computers/"
+    extension: html
+    editors:
+      - css_selector: .product
+      - html_prettify
+  - url: "https://pine64.com/product-category/quartz64/"
+    extension: html
+    editors:
+      - css_selector: .product
+      - html_prettify
+
+  - url: "https://www.pine64.org/availability-and-shipping-status/"
+    extension: html
+    editors:
+      - css_selector: .elementor-widget-wrap
+      - regex_replacer:
+          pattern: (elementor-tab-\w+)-\d+
           replace: $1
-  - html:
-      url: "https://wiki.pine64.org/wiki/Quartz64_Development"
-      css_selector: "#mw-content-text"
-      regex_replacers:
-        - pattern: <!--[\s\S]+-->
-          replace: ""
-  - html:
-      url: "https://wiki.pine64.org/wiki/PineCube"
-      css_selector: "#mw-content-text"
-      regex_replacers:
-        - pattern: <!--[\s\S]+-->
-          replace: ""
-  - html:
-      url: "https://wiki.pine64.org/wiki/PinePower"
-      css_selector: "#mw-content-text"
-      regex_replacers:
-        - pattern: <!--[\s\S]+-->
-          replace: ""
+      - html_prettify
 
-  - html:
-      url: "https://www.wdrmaus.de/aktuelle-sendung/"
-      css_selector: "#content"
-  - html:
-      url: "https://www.wdrmaus.de/extras/"
-      css_selector: "#content"
+  - url: "https://wiki.pine64.org/wiki/Quartz64_Development"
+    extension: html
+    editors:
+      - css_selector: "#mw-content-text"
+      - regex_replacer:
+          pattern: <!--[\s\S]+-->
+          replace: ""
+      - html_prettify
+  - url: "https://wiki.pine64.org/wiki/PineCube"
+    extension: html
+    editors:
+      - css_selector: "#mw-content-text"
+      - regex_replacer:
+          pattern: <!--[\s\S]+-->
+          replace: ""
+      - html_prettify
+  - url: "https://wiki.pine64.org/wiki/PinePower"
+    extension: html
+    editors:
+      - css_selector: "#mw-content-text"
+      - regex_replacer:
+          pattern: <!--[\s\S]+-->
+          replace: ""
+      - html_prettify
+
+
+  - url: "https://www.wdrmaus.de/aktuelle-sendung/"
+    extension: html
+    editors:
+      - css_selector: "#content"
+      - html_prettify
+  - url: "https://www.wdrmaus.de/extras/"
+    extension: html
+    editors:
+      - css_selector: "#content"
+      - html_prettify
