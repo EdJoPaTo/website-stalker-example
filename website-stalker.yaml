@@ -20,6 +20,13 @@ sites:
       - css_selector: main
       - html_prettify
 
+  # Example with html_text
+  - url: "https://edjopato.de/impressum/"
+    extension: html
+    editors:
+      - css_selector: h1
+      - html_text
+
   # Example of a text only entry
   - url: "https://edjopato.de/robots.txt"
     extension: txt
