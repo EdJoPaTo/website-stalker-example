@@ -78,18 +78,10 @@ sites:
       - css_selector: .post
       - html_prettify
 
-  - url: "https://morr.cc/"
+  - url: "https://blinry.org/"
     extension: html
     editors:
       - css_selector: .box
-      - html_prettify
-  - url: "https://advent.morr.cc/"
-    extension: html
-    editors:
-      - html_prettify
-  - url: "https://advent.morr.cc/2021"
-    extension: html
-    editors:
       - html_prettify
 
   - url: "https://www.conventionalcommits.org/en/"
