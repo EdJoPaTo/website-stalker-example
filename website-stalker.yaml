@@ -50,11 +50,6 @@ sites:
     extension: html
     editors:
       - html_prettify
-  - url: "https://events.ccc.de/upcoming-events/"
-    extension: html
-    editors:
-      - css_selector: .content
-      - html_prettify
   - url: "https://us.diablo3.com/en-us/"
     extension: html
     editors:
