@@ -196,6 +196,9 @@ sites:
     extension: html
     editors:
       - css_selector: "#mw-content-text"
+      - css_selector:
+          selector: sup a.autonumber
+          remove: true
       - regex_replacer:
           pattern: <!--[\s\S]+-->
           replace: ""
@@ -204,6 +207,9 @@ sites:
     extension: html
     editors:
       - css_selector: "#mw-content-text"
+      - css_selector:
+          selector: sup a.autonumber
+          remove: true
       - regex_replacer:
           pattern: <!--[\s\S]+-->
           replace: ""
@@ -212,6 +218,9 @@ sites:
     extension: html
     editors:
       - css_selector: "#mw-content-text"
+      - css_selector:
+          selector: sup a.autonumber
+          remove: true
       - regex_replacer:
           pattern: <!--[\s\S]+-->
           replace: ""
