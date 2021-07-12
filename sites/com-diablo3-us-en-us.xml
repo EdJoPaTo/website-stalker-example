@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Diablo III Official Game Site</title>
+		<link>https://us.diablo3.com/en-us/</link>
+		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
+		<generator>website-stalker/0.9.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<item>
+			<title>Season 24 | Ethereal Memory | Preview Blog</title>
+			<link>https://us.diablo3.com/en-us/blog/23695733/season-24-%7C-ethereal-memory-%7C-preview-blog-7-9-2021</link>
+			<content:encoded>
+				<![CDATA[Season 24 will begin on July 23! Read on to learn more about the Ethereals and new balance changes in Patch 2.7.1!]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Diablo® II: Resurrected™: The Gates of Hell Open September 23</title>
+			<link>https://news.blizzard.com/en-us/diablo2/23679610/diablo%C2%AE-ii-resurrected%E2%84%A2-the-gates-of-hell-open-september-23-6-13-2021</link>
+			<content:encoded>
+				<![CDATA[Diablo II: Resurrected™ is coming soon, a definitive remastering of Diablo II alongside its Lord of Destruction® expansion!]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>DIABLO III PTR 2.7.1 | Has Ended</title>
+			<link>https://us.diablo3.com/en-us/blog/23679609/diablo-iii-ptr-271-%7C-has-ended-6-10-2021</link>
+			<content:encoded>
+				<![CDATA[Our two-week PTR testing period for the 2.7.1 update begins June 17, and we're asking for your help to quell the tides of surging demons.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>DIABLO IMMORTAL CLOSED ALPHA — THE CRUSADE BEGINS</title>
+			<link>https://news.blizzard.com/en-us/diablo-immortal/23657317/diablo-immortal-closed-alpha-the-crusade-begins-4-21-2021</link>
+			<content:encoded>
+				<![CDATA[Learn more about the Diablo Immortal Closed Alpha. Get all the details and answers to your most pressing questions about the limited public Closed Alpha.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Diablo® II: Resurrected™ Technical Alpha — Experience the Legend</title>
+			<link>https://news.blizzard.com/en-us/diablo2/23658118/diablo%C2%AE-ii-resurrected%E2%84%A2-technical-alpha-experience-the-legend-4-6-2021</link>
+			<content:encoded>
+				<![CDATA[Learn more about the Diablo II: Resurrected Technical Alpha. Get all the details and answers to your most pressing questions about the limited public Technical Alpha.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Season 23 | The Disciples of Sanctuary | Ending Soon!</title>
+			<link>https://us.diablo3.com/en-us/blog/23647866/season-23-%7C-the-disciples-of-sanctuary-%7C-ending-soon-3-22-2021</link>
+			<content:encoded>
+				<![CDATA[Season 23 will begin on April 2! Read on to learn more about the Follower system revamp, leaderboard changes, and Legendary item changes in Patch 2.7.0!]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Diablo 3 PTR 2.7.0 Has Ended</title>
+			<link>https://us.diablo3.com/en-us/blog/23623166/diablo-3-ptr-270-has-ended-2-23-2021</link>
+			<content:encoded>
+				<![CDATA[Our two-week PTR testing period for the 2.7.0 update begins February 25 and we're asking for your help to quell the tides of surging demons.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Diablo Deep Dive Panel Recap</title>
+			<link>https://us.diablo3.com/en-us/blog/23624696/diablo-deep-dive-panel-recap-2-19-2021</link>
+			<content:encoded>
+				<![CDATA[Get caught up and dive deeper into all the latest news revolving around Diablo II: Resurrected, Diablo IV, and Diablo Immortal.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>The Darkening of Tristram Returns January 3, 2021!</title>
+			<link>https://us.diablo3.com/en-us/blog/23558962/the-darkening-of-tristram-returns-january-3-2021-12-29-2020</link>
+			<content:encoded>
+				<![CDATA[Our anniversary event is fast approaching! Prepare to face mysterious cultists and enter a portal into Diablo's past.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Diablo IV Quarterly Update—December 2020</title>
+			<link>https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020-12-15-2020</link>
+			<content:encoded>
+				<![CDATA[We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Diablo Immortal Technical Alpha—One Step Closer to Hell</title>
+			<link>https://news.blizzard.com/en-us/diablo-immortal/23583662/diablo-immortal-technical-alpha-one-step-closer-to-hell-12-17-2020</link>
+			<content:encoded>
+				<![CDATA[Learn more about the Diablo Immortal Technical Alpha. Get all the details and answers to your most pressing questions about the limited public Technical Alpha.]]>
+			</content:encoded>
+		</item>
+	</channel>
+</rss>

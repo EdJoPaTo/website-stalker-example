@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>EdJoPaTos Blog</title>
+		<link>https://edjopato.de/post/</link>
+		<description></description>
+		<generator>website-stalker/0.9.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<item>
+			<title>Qualitätschecks von Webseiten</title>
+			<link>https://edjopato.de/post/2021/07-06-website-quality-checks/</link>
+			<content:encoded>
+				<![CDATA[Webseiten können eine gute Struktur haben und gut benutzbar sein.
+Sie können schnell laden und sichere Verbindungen nutzen.
+Nur weiß man nicht immer alles und Tools können einem dabei helfen, Probleme aufzudecken.
+Ich habe ein paar davon benutzt, um meine Webseiten zu verbessern.
+Diese möchte ich kurz vorstellen.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Browser Erweiterungen</title>
+			<link>https://edjopato.de/post/2021/06-29-browser-extensions/</link>
+			<content:encoded>
+				<![CDATA[Vor über einem Jahr habe ich meinen
+Blogpost, wie ich Browser verwende
+, nun schon geschrieben.
+Da sich seit dem schon einiges getan hat, könnte ich Mal wieder vom aktuellen Stand berichten.
+Ich habe damals versucht, alles in einem Blogpost zu behandeln, aber es bietet sich wohl an, dies ein wenig aufzuteilen.
+Hier nun also ein Überblick über meine aktuellen Browser Erweiterungen im Firefox.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Strömekraft - PowerDelivery in Netzteilen und portablen USB Akkus</title>
+			<link>https://edjopato.de/post/2021/06-19-powerdelivery/</link>
+			<content:encoded>
+				<![CDATA[Wenn man Geräte laden will, dann braucht man Netzteile und mobile USB Akkus.
+Diese verwenden häufig USB PowerDelivery und mit der Zeit habe ich einiges darüber gelernt.
+Wenn ich mir Geräte mit USB-C und PowerDelivery anschaue, achte ich auf einige Details und möchte hier etwas auf die Hintergründe eingehen.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>RSS lesen synchronisieren mit Miniflux</title>
+			<link>https://edjopato.de/post/2021/06-13-rss-miniflux/</link>
+			<content:encoded>
+				<![CDATA[Seit einer Weile lese ich meine RSS Feeds auf dem PinePhone via NewsFlash. Das funktioniert erstaunlich gut. Vor ein paar Tagen kam ich darauf, dass YouTube (und Invidious) ebenfalls Atom Feeds bereitstellt, über die man sich seine Subscriptions abbilden kann. Nur schaue ich meine Videos eher nicht am Handy. Also muss eine Synchronisierung her, damit ich beides sowohl am PC als auch am Handy nutzen kann.
+Ich dachte mir also, werd ich mir wohl mal irgendeinen spooky Anbieter suchen und NewsFlash über eben diesen synchronisieren.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Vergleich einiger Netcup und Hetzner Cloud Server</title>
+			<link>https://edjopato.de/post/2021/05-28-cloud-performance/</link>
+			<content:encoded>
+				<![CDATA[Heute gab es ein Netcup Sonderangebot mit einem neuen Server, dem “Game Invader”.
+Geklickt und die Frage gestellt, wie schnell ist das Ding nun eigentlich im Verhältnis?]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Visionen von Projekten und Firmen</title>
+			<link>https://edjopato.de/post/2021/04-13-visions/</link>
+			<content:encoded>
+				<![CDATA[Viele Firmen und Projekte haben einen Slogan, Leitbilder (= Mission Statements), Visionen, Grundwerte (= Core Values), Philosophien, … die den Willen des Projekts oder der Firma beschreiben.
+Ich denke, dass solche kurz und knappen Aussagen Firmen und Projekten helfen, von Menschen verstanden zu werden.
+Daraus können dann Ideologien und langfristiges Verhalten abgeleitet werden und Entscheidungen getroffen werden, ob einem dieses Projekt zusagt oder eben nicht.
+Ohne derartige Aussagen halte ich das für ziemlich unmöglich.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Open Source Lizenzen</title>
+			<link>https://edjopato.de/post/2021/04-11-open-source-licenses/</link>
+			<content:encoded>
+				<![CDATA[Ich habe mit der Zeit nun schon so einige Software Projekte, von denen nahezu alle Open Source auf GitHub sind.
+Und eigentlich will ich auch, dass das so bleibt.
+Bisher habe ich einfach überall die MIT Lizenz reingeworfen, aber geht das noch besser?]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>PinePhone als RSS und Mastodon Reader</title>
+			<link>https://edjopato.de/post/2021/04-08-pinephone-rss-reader/</link>
+			<content:encoded>
+				<![CDATA[Ich benutze mein Handy zu viel für Belanglosigkeiten.
+Ich hänge zu viel auf Social Media herum.
+Immer up to date sein.
+Gleichzeitig habe ich seit einem Vierteljahr ein PinePhone, welches ich leider nicht allzu viel nutze.
+Da geht doch was.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Raspberry Pi 4 als Hauptgerät</title>
+			<link>https://edjopato.de/post/2021/04-07-raspi-4-main-device/</link>
+			<content:encoded>
+				<![CDATA[Ein Arbeitskollege hat alte Hardware entrümpelt und ich habe mir mal angeschaut, was man damit anfangen kann.
+Einer davon war zwar noch 64bit, aber das war auch alles.
+Da dachte ich, ein Raspberry ist doch besser als das.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Mal eben Videos und Sound bearbeiten</title>
+			<link>https://edjopato.de/post/2021/04-07-ffmpeg-aliases/</link>
+			<content:encoded>
+				<![CDATA[Ein Video welches man ohne Ton braucht?
+Oder nur das Audio aus dem Video?
+ffmpeg
+ist ein mächtiges Tool, was genau das kann, aber manchmal doch ein wenig kompliziert ist.
+Um dies “mal eben” benutzen zu können, habe ich mir ein paar aliases definiert.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Schnelle Suche in und nach Dateien in *nix Systemen</title>
+			<link>https://edjopato.de/post/2021/04-07-fd-ripgrep/</link>
+			<content:encoded>
+				<![CDATA[Wenn man mal eben etwas sucht… “Ich hab doch mal, wo war das noch?”.
+Für genau diesen Fall gibt es schnelle Command Line Tools die mir schon manchmal “mal eben” geholfen haben.]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Erste BL602 Experimente mit Rust</title>
+			<link>https://edjopato.de/post/2021/01-30-bl602-rust-experiments/</link>
+			<content:encoded>
+				<![CDATA[Ich würde gerne Rust auf Mikrocontrollern wie den ESP8266/ESP32 nutzen. Espressif, die Firma hinter den ESPs arbeitet an einer LLVM Integration, wie sie auch für Rust benötigt wird. Allerdings gibt es auch Chips, die bereits nativ von Rust unterstützt werden. Und dabei kam ich an den PineCones, PineNuts und PineSeeds von Pine64 vorbei: RISC-V basierte MCUs im Format von ESP-01 und ESP-12. Nach einer kurzen Suche habe ich festgestellt, dass es dort auch bereits Rust Experimente gibt und habe mir mal welche bestellt.]]>
+			</content:encoded>
+		</item>
+	</channel>
+</rss>

@@ -31,6 +31,22 @@ sites:
   - url: "https://edjopato.de/robots.txt"
     extension: txt
 
+  # Example with RSS
+  - url: "https://edjopato.de/post/"
+    extension: xml
+    editors:
+      - rss:
+          title: EdJoPaTos Blog
+          item_selector: article
+          title_selector: h2
+          link_selector: a
+          content_editors:
+            - css_selector:
+                selector: "h2, article > a, div"
+                remove: true
+            - html_text
+
+
   - url: "https://wiki.gnome.org/Schedule"
     extension: html
     editors:
@@ -51,16 +67,16 @@ sites:
     editors:
       - html_prettify
   - url: "https://us.diablo3.com/en-us/"
-    extension: html
+    extension: xml
     editors:
-      - css_selector: .article-wrapper
-      - regex_replacer:
-          pattern: \d+ \w+ ago
-          replace: time ago
-      - regex_replacer:
-          pattern: \d+/\d+/\d{4}
-          replace: time ago
-      - html_prettify
+      - rss:
+          item_selector: .article-wrapper
+          content_editors:
+            - css_selector: .article-content
+            - css_selector:
+                selector: h2
+                remove: true
+            - html_text
 
   - url: "https://konkludenz.de/"
     extension: html
