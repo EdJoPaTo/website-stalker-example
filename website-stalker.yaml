@@ -203,6 +203,9 @@ sites:
     extension: html
     editors:
       - css_selector: .elementor-widget-wrap
+      - css_selector:
+          selector: .elementor-spacer, .elementor-widget-image, .elementor-title, .elementor-progress-bar
+          remove: true
       - regex_replacer:
           pattern: (elementor-tab-\w+)-\d+
           replace: $1
