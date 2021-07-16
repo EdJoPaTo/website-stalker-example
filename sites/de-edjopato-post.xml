@@ -6,6 +6,17 @@
 		<description></description>
 		<generator>website-stalker/0.9.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>LED-Pixelring Uhr</title>
+			<link>https://edjopato.de/post/2021/07-16-esp-pixelring-clock/</link>
+			<content:encoded>
+				<![CDATA[Ich habe bei mir mittlerweile seit über einem Jahr einen LED-Pixelring als Uhr hängen.
+Am Anfang habe ich mir überlegt, wie ich diesen so nutzen kann, dass man auf einen Blick die Uhrzeit ablesen kann?
+Normale Uhren verwenden dafür zwei (oder drei) Zeiger.
+Sowas hat ein RGB LED Pixelring aber nicht.
+Nach ein bisschen basteln bin ich auf eine Idee gekommen, die mittlerweile in einigen meiner Projekte wiederzufinden ist.]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Qualitätschecks von Webseiten</title>
 			<link>https://edjopato.de/post/2021/07-06-website-quality-checks/</link>
 			<content:encoded>
@@ -109,13 +120,6 @@ Um dies “mal eben” benutzen zu können, habe ich mir ein paar aliases defini
 			<content:encoded>
 				<![CDATA[Wenn man mal eben etwas sucht… “Ich hab doch mal, wo war das noch?”.
 Für genau diesen Fall gibt es schnelle Command Line Tools die mir schon manchmal “mal eben” geholfen haben.]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Erste BL602 Experimente mit Rust</title>
-			<link>https://edjopato.de/post/2021/01-30-bl602-rust-experiments/</link>
-			<content:encoded>
-				<![CDATA[Ich würde gerne Rust auf Mikrocontrollern wie den ESP8266/ESP32 nutzen. Espressif, die Firma hinter den ESPs arbeitet an einer LLVM Integration, wie sie auch für Rust benötigt wird. Allerdings gibt es auch Chips, die bereits nativ von Rust unterstützt werden. Und dabei kam ich an den PineCones, PineNuts und PineSeeds von Pine64 vorbei: RISC-V basierte MCUs im Format von ESP-01 und ESP-12. Nach einer kurzen Suche habe ich festgestellt, dass es dort auch bereits Rust Experimente gibt und habe mir mal welche bestellt.]]>
 			</content:encoded>
 		</item>
 	</channel>
