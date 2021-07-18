@@ -6,6 +6,13 @@
 		<description></description>
 		<generator>website-stalker/0.9.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Gedanken zu effizienter Software</title>
+			<link>https://edjopato.de/post/2021/07-18-efficient-software/</link>
+			<content:encoded>
+				<![CDATA[Ich entwickle und nutze Software. Diese ist teilweise schnell und effizient, teilweise aber auch langsam, verbraucht viele Ressourcen und macht Dinge, die ich gar nicht brauche. Wenn nur ich etwas nutze und es &amp;ldquo;etwas mehr&amp;rdquo; verbraucht, dann ist es den Aufwand, dies zu optimieren, wohl nicht Wert. Da aber Software teilweise von sehr Vielen genutzt wird, macht sich dies als Summe schon bemerkbar. Ich will hier auch gar nicht auf Bitcoin oder so eingehen, sondern genereller auf jegliche Software.]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>LED-Pixelring Uhr</title>
 			<link>https://edjopato.de/post/2021/07-16-esp-pixelring-clock/</link>
 			<content:encoded>
@@ -82,13 +89,6 @@ Gleichzeitig habe ich seit einem Vierteljahr ein PinePhone, welches ich leider n
 			<link>https://edjopato.de/post/2021/04-07-ffmpeg-aliases/</link>
 			<content:encoded>
 				<![CDATA[Ein Video welches man ohne Ton braucht? Oder nur das Audio aus dem Video? ffmpeg ist ein mächtiges Tool, was genau das kann, aber manchmal doch ein wenig kompliziert ist. Um dies &amp;ldquo;mal eben&amp;rdquo; benutzen zu können, habe ich mir ein paar aliases definiert.]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Schnelle Suche in und nach Dateien in *nix Systemen</title>
-			<link>https://edjopato.de/post/2021/04-07-fd-ripgrep/</link>
-			<content:encoded>
-				<![CDATA[Wenn man mal eben etwas sucht… &amp;ldquo;Ich hab doch mal, wo war das noch?&amp;rdquo;. Für genau diesen Fall gibt es schnelle Command Line Tools die mir schon manchmal &amp;ldquo;mal eben&amp;rdquo; geholfen haben.]]>
 			</content:encoded>
 		</item>
 	</channel>
