@@ -200,16 +200,16 @@ sites:
       - html_prettify
 
   - url: "https://www.pine64.org/availability-and-shipping-status/"
-    extension: html
+    extension: txt
     editors:
       - css_selector: .elementor-widget-wrap
       - css_selector:
           selector: .elementor-spacer, .elementor-widget-image, .elementor-title, .elementor-progress-bar
           remove: true
       - regex_replacer:
-          pattern: (elementor-tab-\w+)-\d+
-          replace: $1
-      - html_prettify
+          pattern: <div[^>]+valuenow="(\d+)[^>]+>[^<]*<.div>
+          replace: $1 %
+      - html_text
 
   - url: "https://wiki.pine64.org/wiki/Quartz64_Development"
     extension: html
