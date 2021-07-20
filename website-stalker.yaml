@@ -17,15 +17,22 @@ sites:
   - url: "https://edjopato.de/post/"
     extension: html
     editors:
-      - css_selector: main
+      - css_select: main
       - html_prettify
 
-  # Example with html_text
+  # Example with html_textify
   - url: "https://edjopato.de/impressum/"
     extension: html
     editors:
-      - css_selector: h1
-      - html_text
+      - css_select: h1
+      - html_textify
+
+  # Example with html_markdownify
+  - url: "https://edjopato.de/"
+    extension: md
+    editors:
+      - css_select: body
+      - html_markdownify
 
   # Example of a text only entry
   - url: "https://edjopato.de/robots.txt"
@@ -41,26 +48,26 @@ sites:
           title_selector: h2
           link_selector: a
           content_editors:
-            - css_selector:
+            - css_select:
                 selector: "h2, article > a, div"
                 remove: true
-            - html_text
+            - html_textify
 
 
   - url: "https://wiki.gnome.org/Schedule"
     extension: html
     editors:
-      - css_selector: "#content"
+      - css_select: "#content"
       - html_prettify
   - url: "https://www.raspberrypi.org/software/operating-systems/"
     extension: html
     editors:
-      - css_selector: main
+      - css_select: main
       - html_prettify
   - url: "https://raspi.debian.net/tested-images/"
     extension: html
     editors:
-      - css_selector: "#content"
+      - css_select: "#content"
       - html_prettify
   - url: "https://files.teamspeak-services.com/releases/server/"
     extension: html
@@ -72,27 +79,27 @@ sites:
       - rss:
           item_selector: .article-wrapper
           content_editors:
-            - css_selector: .article-content
-            - css_selector:
+            - css_select: .article-content
+            - css_select:
                 selector: h2
                 remove: true
-            - html_text
+            - html_textify
 
   - url: "https://konkludenz.de/"
     extension: html
     editors:
-      - css_selector: .post
+      - css_select: .post
       - html_prettify
   - url: "https://konkludenz.de/en/"
     extension: html
     editors:
-      - css_selector: .post
+      - css_select: .post
       - html_prettify
 
   - url: "https://blinry.org/"
     extension: html
     editors:
-      - css_selector: .box
+      - css_select: .box
       - html_prettify
 
   - url: "https://www.conventionalcommits.org/en/"
@@ -102,145 +109,145 @@ sites:
   - url: "https://www.conventionalcommits.org/en/v1.0.0/"
     extension: html
     editors:
-      - css_selector: article
+      - css_select: article
       - html_prettify
 
 
   - url: "https://www.netcup-news.de/"
     extension: html
     editors:
-      - css_selector: .posting
+      - css_select: .posting
       - html_prettify
   - url: "https://www.netcup.de/vserver/vps.php"
     extension: html
     editors:
-      - css_selector: .card
+      - css_select: .card
       - html_prettify
   - url: "https://www.netcup.de/vserver/"
     extension: html
     editors:
-      - css_selector: .card
+      - css_select: .card
       - html_prettify
   - url: "https://www.netcup.de/vserver/vstorage.php"
     extension: html
     editors:
-      - css_selector: .card
+      - css_select: .card
       - html_prettify
   - url: "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
     extension: html
     editors:
-      - css_selector: .card
+      - css_select: .card
       - html_prettify
   - url: "https://www.netcup.de/vserver/root-server-erweiterungen.php"
     extension: html
     editors:
-      - css_selector: .card
+      - css_select: .card
       - html_prettify
   - url: "https://www.netcup.de/vserver/storagespace.php"
     extension: html
     editors:
-      - css_selector: main > .container
+      - css_select: main > .container
       - html_prettify
   - url: "https://www.netcup.de/vserver/vserver_images.php"
     extension: html
     editors:
-      - css_selector: table
+      - css_select: table
       - html_prettify
   - url: "https://www.netcup-sonderangebote.de/"
     extension: html
     editors:
-      - css_selector: .card
+      - css_select: .card
       - html_prettify
   - url: "https://www.netcup.de/adventskalender/"
     extension: html
     editors:
-      - css_selector: .card
+      - css_select: .card
       - html_prettify
 
 
   - url: "https://pine64.com/product-category/pinepower/"
     extension: html
     editors:
-      - css_selector: .product
+      - css_select: .product
       - html_prettify
   - url: "https://pine64.com/product-category/pinecil/"
     extension: html
     editors:
-      - css_selector: .product
+      - css_select: .product
       - html_prettify
   - url: "https://pine64.com/product-category/iot/"
     extension: html
     editors:
-      - css_selector: .product
+      - css_select: .product
       - html_prettify
   - url: "https://pine64.com/product-category/ip-cameras/"
     extension: html
     editors:
-      - css_selector: .product
+      - css_select: .product
       - html_prettify
   - url: "https://pine64.com/product-category/tablets/"
     extension: html
     editors:
-      - css_selector: .product
+      - css_select: .product
       - html_prettify
   - url: "https://pine64.com/product-category/pinebook-pro/"
     extension: html
     editors:
-      - css_selector: .product
+      - css_select: .product
       - html_prettify
   - url: "https://pine64.com/product-category/single-board-computers/"
     extension: html
     editors:
-      - css_selector: .product
+      - css_select: .product
       - html_prettify
   - url: "https://pine64.com/product-category/quartz64/"
     extension: html
     editors:
-      - css_selector: .product
+      - css_select: .product
       - html_prettify
 
   - url: "https://www.pine64.org/availability-and-shipping-status/"
-    extension: txt
+    extension: md
     editors:
-      - css_selector: .elementor-widget-wrap
-      - css_selector:
+      - css_select: .elementor-widget-wrap
+      - css_select:
           selector: .elementor-spacer, .elementor-widget-image, .elementor-title, .elementor-progress-bar
           remove: true
-      - regex_replacer:
+      - regex_replace:
           pattern: <div[^>]+valuenow="(\d+)[^>]+>[^<]*<.div>
           replace: $1 %
-      - html_text
+      - html_markdownify
 
   - url: "https://wiki.pine64.org/wiki/Quartz64_Development"
     extension: html
     editors:
-      - css_selector: "#mw-content-text"
-      - css_selector:
+      - css_select: "#mw-content-text"
+      - css_select:
           selector: sup a.autonumber
           remove: true
-      - regex_replacer:
+      - regex_replace:
           pattern: <!--[\s\S]+-->
           replace: ""
       - html_prettify
   - url: "https://wiki.pine64.org/wiki/PineCube"
     extension: html
     editors:
-      - css_selector: "#mw-content-text"
-      - css_selector:
+      - css_select: "#mw-content-text"
+      - css_select:
           selector: sup a.autonumber
           remove: true
-      - regex_replacer:
+      - regex_replace:
           pattern: <!--[\s\S]+-->
           replace: ""
       - html_prettify
   - url: "https://wiki.pine64.org/wiki/PinePower"
     extension: html
     editors:
-      - css_selector: "#mw-content-text"
-      - css_selector:
+      - css_select: "#mw-content-text"
+      - css_select:
           selector: sup a.autonumber
           remove: true
-      - regex_replacer:
+      - regex_replace:
           pattern: <!--[\s\S]+-->
           replace: ""
       - html_prettify
@@ -249,10 +256,10 @@ sites:
   - url: "https://www.wdrmaus.de/aktuelle-sendung/"
     extension: html
     editors:
-      - css_selector: "#content"
+      - css_select: "#content"
       - html_prettify
   - url: "https://www.wdrmaus.de/extras/"
     extension: html
     editors:
-      - css_selector: "#content"
+      - css_select: "#content"
       - html_prettify
