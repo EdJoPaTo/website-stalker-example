@@ -6,6 +6,13 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.10.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Reimagining a legend: Behind Ethereal items in Season 24</title>
+			<link>https://us.diablo3.com/en-us/blog/23700738/reimagining-a-legend-behind-ethereal-items-in-season-24-7-21-2021</link>
+			<content:encoded>
+				<![CDATA[Discover how the Diablo III team created this season’s theme and sought to pay homage to the lasting legacy of Diablo II.]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Season 24 | Ethereal Memory | Patch 2.7.1 is Now Live</title>
 			<link>https://us.diablo3.com/en-us/blog/23695733/season-24-%7C-ethereal-memory-%7C-patch-271-is-now-live-7-9-2021</link>
 			<content:encoded>
@@ -73,13 +80,6 @@
 			<link>https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020-12-15-2020</link>
 			<content:encoded>
 				<![CDATA[We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Diablo Immortal Technical Alpha—One Step Closer to Hell</title>
-			<link>https://news.blizzard.com/en-us/diablo-immortal/23583662/diablo-immortal-technical-alpha-one-step-closer-to-hell-12-17-2020</link>
-			<content:encoded>
-				<![CDATA[Learn more about the Diablo Immortal Technical Alpha. Get all the details and answers to your most pressing questions about the limited public Technical Alpha.]]>
 			</content:encoded>
 		</item>
 	</channel>
