@@ -13,11 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Git config
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-
       - name: run website-stalker and push
         shell: bash --noprofile --norc {0}
         run: |
