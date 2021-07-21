@@ -13,14 +13,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: run website-stalker and push
-        shell: bash --noprofile --norc {0}
-        run: |
-          website-stalker run --all --commit
-          exitcode=$?
+      - name: run website-stalker
+        run: website-stalker run --all --commit
 
-          echo "::group::git push"
-          git push
-          echo "::endgroup::"
-
-          exit $exitcode
+      - name: push
+        if: always()
+        run: git push
