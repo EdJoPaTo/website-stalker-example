@@ -508,24 +508,9 @@
 							</td>
 						</tr>
 						<tr>
-							<th rowspan="2" scope="row">
+							<th scope="row">
 								Battery
 							</th>
-							<td colspan="2" style="background:#F99; text-align:center;">
-								Needs porting
-							</td>
-							<td>
-								<code>
-									rk817-battery
-								</code>
-							</td>
-							<td>
-								<a class="external text" href="https://gitlab.com/pine64-org/quartz-bsp/rockchip-linux/-/blob/quartz64/drivers/power/supply/rk817_battery.c" rel="nofollow">
-									rk817_battery.c
-								</a>
-							</td>
-						</tr>
-						<tr>
 							<td colspan="2" style="background:LightYellow; text-align:center;">
 								In review
 								<sup>
@@ -537,6 +522,11 @@
 								</code>
 							</td>
 							<td>
+								In the BSP tree this is handled by
+								<a class="external text" href="https://gitlab.com/pine64-org/quartz-bsp/rockchip-linux/-/blob/quartz64/drivers/power/supply/rk817_battery.c" rel="nofollow">
+									rk817_battery.c
+								</a>
+								 and
 								<a class="external text" href="https://gitlab.com/pine64-org/quartz-bsp/rockchip-linux/-/blob/quartz64/drivers/power/supply/rk817_charger.c" rel="nofollow">
 									rk817_charger.c
 								</a>
@@ -627,6 +617,9 @@
 							</li>
 						</ul>
 					</li>
+					<li>
+						Battery
+					</li>
 				</ul>
 				<h3>
 					<span class="mw-headline" id="Partially_Working">
@@ -677,9 +670,6 @@
 				<ul>
 					<li>
 						GPU — Need a VOP-v2 DRM driver to get display output
-					</li>
-					<li>
-						Battery
 					</li>
 					<li>
 						Audio — Needs I2S driver
