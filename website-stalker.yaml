@@ -85,17 +85,6 @@ sites:
                 remove: true
             - html_textify
 
-  - url: "https://konkludenz.de/"
-    extension: html
-    editors:
-      - css_select: .post
-      - html_prettify
-  - url: "https://konkludenz.de/en/"
-    extension: html
-    editors:
-      - css_select: .post
-      - html_prettify
-
   - url: "https://blinry.org/"
     extension: html
     editors:
@@ -113,11 +102,6 @@ sites:
       - html_prettify
 
 
-  - url: "https://www.netcup-news.de/"
-    extension: html
-    editors:
-      - css_select: .posting
-      - html_prettify
   - url: "https://www.netcup.de/vserver/vps.php"
     extension: html
     editors:
