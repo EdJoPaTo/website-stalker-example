@@ -6,6 +6,13 @@
 		<description></description>
 		<generator>website-stalker/0.10.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Google Stadia</title>
+			<link>https://edjopato.de/post/2021/07-25-stadia/</link>
+			<content:encoded>
+				<![CDATA[Meine Grafikkarte in meinem „Zocken“ PC hat sich vor einem Monat oder so verabschiedet. Grundlegend funktioniert sie noch, nur sobald man etwas Größeres startet, gibt es immer mehr visuelle Artefakte bis alles crasht. Da Hardware echt teuer ist und ich nicht allzu viel spiele, dachte ich mir, probiere ich mal das Spielstreaming aus.]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Gedanken zu effizienter Software</title>
 			<link>https://edjopato.de/post/2021/07-18-efficient-software/</link>
 			<content:encoded>
@@ -82,13 +89,6 @@ Gleichzeitig habe ich seit einem Vierteljahr ein PinePhone, welches ich leider n
 			<link>https://edjopato.de/post/2021/04-07-raspi-4-main-device/</link>
 			<content:encoded>
 				<![CDATA[Ein Arbeitskollege hat alte Hardware entrümpelt und ich habe mir mal angeschaut, was man damit anfangen kann. Einer davon war zwar noch 64bit, aber das war auch alles. Da dachte ich, ein Raspberry ist doch besser als das.]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Mal eben Videos und Sound bearbeiten</title>
-			<link>https://edjopato.de/post/2021/04-07-ffmpeg-aliases/</link>
-			<content:encoded>
-				<![CDATA[Ein Video welches man ohne Ton braucht? Oder nur das Audio aus dem Video? ffmpeg ist ein mächtiges Tool, was genau das kann, aber manchmal doch ein wenig kompliziert ist. Um dies &amp;ldquo;mal eben&amp;rdquo; benutzen zu können, habe ich mir ein paar aliases definiert.]]>
 			</content:encoded>
 		</item>
 	</channel>
