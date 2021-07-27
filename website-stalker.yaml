@@ -102,7 +102,7 @@ sites:
           pattern: class="[^"]+"
           replace: ""
       - html_prettify
-  - url: "https://jonas.lol/projects"
+  - url: "https://jonas.lol/projects/"
     extension: html
     editors:
       - css_select: body
