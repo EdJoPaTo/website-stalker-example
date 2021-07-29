@@ -172,6 +172,24 @@ sites:
       - html_prettify
 
 
+  - url: "https://www.hetzner.com/news/"
+    extension: xml
+    editors:
+      - rss:
+          item_selector: .list-card li
+          title_selector: h4
+          content_editors:
+            - html_prettify
+  - url: "https://www.hetzner.com/presse-berichte/"
+    extension: xml
+    editors:
+      - rss:
+          item_selector: .list-news li
+          title_selector: h4
+          content_editors:
+            - html_prettify
+
+
   - url: "https://pine64.com/product-category/pinepower/"
     extension: html
     editors:
