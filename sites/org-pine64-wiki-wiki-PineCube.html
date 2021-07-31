@@ -978,7 +978,14 @@ Although
 					<code>
 						systemctl enable motion
 					</code>
-					. Set the video settings in /etc/motion/motion.conf to 640x480 15fps YU12. Then just reboot.
+					. Set the video settings in /etc/motion/motion.conf to 640x480 15fps YU12. Then just reboot. Note that motion currently takes considerable resources on the pinecube, so you'll want to stop it when doing things like apt upgrade and apt update with
+					<code>
+						systemctl stop motion
+					</code>
+					 and then
+					<code>
+						systemctl start motion
+					</code>
 				</p>
 				<h4>
 					<span class="mw-headline" id="Serial_connection_using_screen_and_the_woodpecker_USB_serial_device">
