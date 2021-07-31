@@ -243,40 +243,6 @@ sites:
           replace: $1 %
       - html_markdownify
 
-  - url: "https://wiki.pine64.org/wiki/Quartz64_Development"
-    extension: html
-    editors:
-      - css_select: "#mw-content-text"
-      - css_select:
-          selector: sup a.autonumber
-          remove: true
-      - regex_replace:
-          pattern: <!--[\s\S]+-->
-          replace: ""
-      - html_prettify
-  - url: "https://wiki.pine64.org/wiki/PineCube"
-    extension: html
-    editors:
-      - css_select: "#mw-content-text"
-      - css_select:
-          selector: sup a.autonumber
-          remove: true
-      - regex_replace:
-          pattern: <!--[\s\S]+-->
-          replace: ""
-      - html_prettify
-  - url: "https://wiki.pine64.org/wiki/PinePower"
-    extension: html
-    editors:
-      - css_select: "#mw-content-text"
-      - css_select:
-          selector: sup a.autonumber
-          remove: true
-      - regex_replace:
-          pattern: <!--[\s\S]+-->
-          replace: ""
-      - html_prettify
-
 
   - url: "https://www.wdrmaus.de/aktuelle-sendung/"
     extension: html
