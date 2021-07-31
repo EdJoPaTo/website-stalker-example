@@ -905,10 +905,7 @@ This should get you a functional system that boots to a console on UART0. It's p
 					</span>
 				</h3>
 				<p>
-					The only Armbian release with support for Ethernet and the camera module is the Ubuntu Groovy release. The Ubuntu Groovy release is an experimental, automatically generated release and it appears to support additional hardware from the other Armbian releases.
-				</p>
-				<p>
-					<br>
+					The Ubuntu Groovy release is an experimental, automatically generated release and it appears to support additional hardware from the other Armbian releases.
 				</p>
 				<h4>
 					<span id="Armbian_Build_Image_with_motion_[microSD_Boot]_[20201222]">
@@ -981,7 +978,7 @@ Although
 					<code>
 						systemctl enable motion
 					</code>
-					. Then just reboot.
+					. Set the video settings in /etc/motion/motion.conf to 640x480 15fps YU12. Then just reboot.
 				</p>
 				<h4>
 					<span class="mw-headline" id="Serial_connection_using_screen_and_the_woodpecker_USB_serial_device">
