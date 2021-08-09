@@ -17,10 +17,10 @@ For more information about our strategy and reasoning pertaining to device and p
 
 **Updated:**
 
-*July 19, 2021*
+*August 8, 2021*
 
 #### PinePhone (2GB/16GB &amp; 3GB/32GB)
-64 %
+49 %
 
 **Estimated availability**
 
@@ -41,35 +41,35 @@ Q4 2021
 Q4 2021/ Q1 2022
 
 #### ROCKPro64 (2GB / 4GB)
-2 %
+28 %
 
 **Estimated availability**
 
 Spotty availability throughout 2021; 4GB model temporarily unavailable
 
 #### Quartz64 A &amp; B (2GB/4GB/8GB)
-50 %
+44 %
 
 **Estimated availability**
 
 Continued availability throughout 2021
 
 #### SOPine
-18 %
+5 %
 
 **Estimated availability**
 
 Continued availability throughout 2021
 
 #### PineTime (sealed, twin pack, dev kit)
-43 %
+15 %
 
 **Estimated availability**
 
 Continued availability throughout 2021
 
 #### Pinecil
-17 %
+61 %
 
 **Estimated availability**
 
@@ -78,6 +78,12 @@ Continued availability throughout 2021
 ### **Shipping status updates**
 
 #### PinePhone
+August 8, 2021
+
+Global shipment: due to a DHL error,&nbsp; there is a delay in delivery. We’re working with DHL to solve the situation.
+
+EU shipment: orders dispatched weekly.
+
 July 19, 2021
 
 EU countries: continued weekly order dispatch.
