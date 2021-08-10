@@ -6,6 +6,13 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.12.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Play Diablo® II: Resurrected™ During the Early Access &amp; Open Beta</title>
+			<link>https://news.blizzard.com/en-us/diablo2/23688836/play-diablo%C2%AE-ii-resurrected%E2%84%A2-during-the-early-access-open-beta-8-10-2021</link>
+			<content:encoded>
+				<![CDATA[Learn more about the Diablo II: Resurrected Early Access &amp; Open Beta. Get all the details and answers to your most pressing questions about these upcoming tests!]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Reimagining a legend: Behind Ethereal items in Season 24</title>
 			<link>https://us.diablo3.com/en-us/blog/23700738/reimagining-a-legend-behind-ethereal-items-in-season-24-7-21-2021</link>
 			<content:encoded>
@@ -73,13 +80,6 @@
 			<link>https://us.diablo3.com/en-us/blog/23558962/the-darkening-of-tristram-returns-january-3-2021-12-29-2020</link>
 			<content:encoded>
 				<![CDATA[Our anniversary event is fast approaching! Prepare to face mysterious cultists and enter a portal into Diablo's past.]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Diablo IV Quarterly Update—December 2020</title>
-			<link>https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020-12-15-2020</link>
-			<content:encoded>
-				<![CDATA[We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.]]>
 			</content:encoded>
 		</item>
 	</channel>
