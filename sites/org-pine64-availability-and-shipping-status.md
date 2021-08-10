@@ -82,6 +82,8 @@ August 8, 2021
 
 Global shipment: due to a DHL error,&nbsp; there is a delay in delivery. We’re working with DHL to solve the situation.
 
+[edit 9 August] reshipping new PinePhones – should dispatch by end of week, August 14th
+
 EU shipment: orders dispatched weekly.
 
 July 19, 2021
