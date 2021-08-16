@@ -47,19 +47,19 @@ Current freezes in place for the
 
 API/ABI
 
-Open
+Closed
 
 Aug 14
 
 Feature
 
-Open
+Closed
 
 Aug 14
 
 UI
 
-Open
+Closed
 
 Aug 14
 
