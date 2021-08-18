@@ -60,10 +60,10 @@ sites:
       - css_select: "#content"
       - html_markdownify
   - url: "https://www.raspberrypi.org/software/operating-systems/"
-    extension: html
+    extension: md
     editors:
       - css_select: main
-      - html_prettify
+      - html_markdownify
   - url: "https://raspi.debian.net/tested-images/"
     extension: html
     editors:
@@ -191,45 +191,45 @@ sites:
 
 
   - url: "https://pine64.com/product-category/pinepower/"
-    extension: html
+    extension: md
     editors:
       - css_select: .product
-      - html_prettify
+      - html_markdownify
   - url: "https://pine64.com/product-category/pinecil/"
-    extension: html
+    extension: md
     editors:
       - css_select: .product
-      - html_prettify
+      - html_markdownify
   - url: "https://pine64.com/product-category/iot/"
-    extension: html
+    extension: md
     editors:
       - css_select: .product
-      - html_prettify
+      - html_markdownify
   - url: "https://pine64.com/product-category/ip-cameras/"
-    extension: html
+    extension: md
     editors:
       - css_select: .product
-      - html_prettify
+      - html_markdownify
   - url: "https://pine64.com/product-category/tablets/"
-    extension: html
+    extension: md
     editors:
       - css_select: .product
-      - html_prettify
+      - html_markdownify
   - url: "https://pine64.com/product-category/pinebook-pro/"
-    extension: html
+    extension: md
     editors:
       - css_select: .product
-      - html_prettify
+      - html_markdownify
   - url: "https://pine64.com/product-category/single-board-computers/"
-    extension: html
+    extension: md
     editors:
       - css_select: .product
-      - html_prettify
+      - html_markdownify
   - url: "https://pine64.com/product-category/quartz64/"
-    extension: html
+    extension: md
     editors:
       - css_select: .product
-      - html_prettify
+      - html_markdownify
 
   - url: "https://www.pine64.org/availability-and-shipping-status/"
     extension: md
@@ -250,7 +250,11 @@ sites:
       - css_select: "#content"
       - html_prettify
   - url: "https://www.wdrmaus.de/extras/"
-    extension: html
+    extension: md
     editors:
       - css_select: "#content"
-      - html_prettify
+      - css_select:
+          selector: script
+          remove: true
+      - html_url_canonicalize
+      - html_markdownify
