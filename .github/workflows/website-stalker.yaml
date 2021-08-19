@@ -9,6 +9,11 @@ jobs:
   website-stalker:
     runs-on: ubuntu-latest
     steps:
+      - name: install website-stalker
+        run: |
+          wget -q -O - https://github.com/EdJoPaTo/website-stalker/releases/download/v0.12.0/website-stalker-v0.12.0-x86_64-unknown-linux-gnu.tar.gz | tar xz
+          mv website-stalker /usr/local/bin
+
       - uses: actions/checkout@v2
 
       - name: Run website-stalker
