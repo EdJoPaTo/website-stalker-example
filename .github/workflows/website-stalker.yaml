@@ -8,13 +8,14 @@ on:
 jobs:
   website-stalker:
     runs-on: ubuntu-latest
-    container: ghcr.io/edjopato/website-stalker:latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
 
       - name: run website-stalker
-        run: website-stalker run --all --commit
+        uses: docker://ghcr.io/edjopato/website-stalker:latest
+        with:
+          args: run --all --commit
 
       - name: push
         if: always()
