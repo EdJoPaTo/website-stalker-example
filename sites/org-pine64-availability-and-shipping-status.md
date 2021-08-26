@@ -1,5 +1,3 @@
-This system is in a testing phase.
-
 ## Notices
 
 Due to the ongoing severe component shortages, estimating availability of devices such as the Pinebook Pro or the PineTab is difficult. Estimated availability dates are
@@ -17,10 +15,10 @@ For more information about our strategy and reasoning pertaining to device and p
 
 **Updated:**
 
-*August 8, 2021*
+*August 26, 2021*
 
 #### PinePhone (2GB/16GB &amp; 3GB/32GB)
-49 %
+29 %
 
 **Estimated availability**
 
@@ -41,11 +39,12 @@ Q4 2021
 Q4 2021/ Q1 2022
 
 #### ROCKPro64 (2GB / 4GB)
-28 %
+94 %
 
 **Estimated availability**
 
-Spotty availability throughout 2021; 4GB model temporarily unavailable
+4GB model
+in stock
 
 #### Quartz64 A &amp; B (2GB/4GB/8GB)
 44 %
@@ -55,21 +54,21 @@ Spotty availability throughout 2021; 4GB model temporarily unavailable
 Continued availability throughout 2021
 
 #### SOPine
-5 %
+2 %
 
 **Estimated availability**
 
 Continued availability throughout 2021
 
 #### PineTime (sealed, twin pack, dev kit)
-15 %
+10 %
 
 **Estimated availability**
 
 Continued availability throughout 2021
 
 #### Pinecil
-61 %
+19 %
 
 **Estimated availability**
 
@@ -78,6 +77,12 @@ Continued availability throughout 2021
 ### **Shipping status updates**
 
 #### PinePhone
+August 26, 2021
+
+Global shipment: PinePhones ordered in August have now been dispatched.
+
+EU shipment: orders dispatched weekly.
+
 August 8, 2021
 
 Global shipment: due to a DHL error,&nbsp; there is a delay in delivery. We’re working with DHL to solve the situation.
@@ -124,6 +129,12 @@ Pinebook Pro shipment is ongoing. Units with DHL out for delivery.
 #### PineTab
 
 #### Other
+August 26, 2021
+
+Weekly dispatch of SBCs, Pinecil and the PineTime.
+
+ROCKPro64 4GB back in stock(!) and shipping weekly.
+
 July 12, 2021
 
 Weekly dispatch of Quartz64 model-A and PineTime (both sealed single unit and twin-pack)
