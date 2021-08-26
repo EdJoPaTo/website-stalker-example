@@ -36,7 +36,7 @@
 ## [ROCKPro64 4GB Single Board Computer](https://pine64.com/product/rockpro64-4gb-single-board-computer/)
 [$](https://pine64.com/product/rockpro64-4gb-single-board-computer/)
 [79.99](https://pine64.com/product/rockpro64-4gb-single-board-computer/)
-[Read more](https://pine64.com/product/rockpro64-4gb-single-board-computer/)
+[Add to cart](?add-to-cart=769)
 
 ## [PINE H64 “Model B”-2GB Single Board Computer](https://pine64.com/product/pine-h64-model-b-2gb-single-board-computer/)
 [$](https://pine64.com/product/pine-h64-model-b-2gb-single-board-computer/)
