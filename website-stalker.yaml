@@ -264,3 +264,22 @@ sites:
           remove: true
       - html_url_canonicalize
       - html_markdownify
+
+  - url: https://telegram.org/blog
+    extension: xml
+    editors:
+      - rss:
+          item_selector: .dev_blog_card_link_wrap
+          title_selector: h4
+          content_editors:
+            - html_prettify
+  - url: https://core.telegram.org/bots
+    extension: md
+    editors:
+      - css_select: .container .dev_page
+      - html_markdownify
+  - url: https://core.telegram.org/bots/api
+    extension: html
+    editors:
+      - css_select: .container .dev_page
+      - html_prettify
