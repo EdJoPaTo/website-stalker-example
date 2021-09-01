@@ -6,6 +6,34 @@
 		<description></description>
 		<generator>website-stalker/0.12.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Need a price hero? The September setup special will save your wallet!</title>
+			<link>https://www.hetzner.com/news/09-21-setup-special/</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					01. September 2021
+				</small>
+			</p>
+			<h4>
+			Need a price hero? The September setup special will save your wallet!
+			</h4>
+			<p class="list-card-preview">
+			You all have waited with heroic patience for the next free setup sale, and the time has finally come! We've removed the setup fees on three of our most popular...
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/09-21-setup-special/">
+        Show more
+			</a>
+		</li>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Running out of space? The new SX-line has arrived.</title>
 			<link>https://www.hetzner.com/news/06-21-sx-line/</link>
 			<content:encoded>
@@ -250,34 +278,6 @@
 			Hetzner Cloud's new Load Balancers are in general availability since 11 August 2020. Load Balancers help you to scale your apps more easily, while also improving your apps' availability and performance.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/09-20-load-balancer-server/">
-        Show more
-			</a>
-		</li>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>End of summer deal: PX92 without setup fee</title>
-			<link>https://www.hetzner.com/news/09-20-deal-px92/</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					02. September 2020
-				</small>
-			</p>
-			<h4>
-			End of summer deal: PX92 without setup fee
-			</h4>
-			<p class="list-card-preview">
-			Here in Germany, we've likely seen the last few hot days of summer. But to make the transition to autumn a bit easier to bear, we've come up with a...
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/09-20-deal-px92/">
         Show more
 			</a>
 		</li>
