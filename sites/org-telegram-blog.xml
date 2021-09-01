@@ -4,9 +4,10 @@
 		<title>Telegram Blog</title>
 		<link>https://telegram.org/blog</link>
 		<description></description>
-		<generator>website-stalker/0.12.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.12.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Live Streams, Flexible Forwarding, Jump to Next Channel, Trending Stickers and More</title>
+			<link>https://telegram.org/blog/live-streams-forwarding-next-channel</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -34,6 +35,7 @@
 		</item>
 		<item>
 			<title>Video Calls with up to 1000 Viewers, Video Messages 2.0, Video Playback Speed and More</title>
+			<link>https://telegram.org/blog/video-1000</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -61,6 +63,7 @@
 		</item>
 		<item>
 			<title>Group Video Calls</title>
+			<link>https://telegram.org/blog/group-video-calls</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -88,6 +91,7 @@
 		</item>
 		<item>
 			<title>Animated Backgrounds</title>
+			<link>https://telegram.org/blog/animated-backgrounds</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -115,6 +119,7 @@
 		</item>
 		<item>
 			<title>Payments 2.0, Scheduled Voice Chats, New Web Versions</title>
+			<link>https://telegram.org/blog/payments-2-0-scheduled-voice-chats</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -142,6 +147,7 @@
 		</item>
 		<item>
 			<title>Voice Chats 2.0: Channels, Millions of Listeners, Recorded Chats, Admin Tools</title>
+			<link>https://telegram.org/blog/voice-chats-on-steroids</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -169,6 +175,7 @@
 		</item>
 		<item>
 			<title>Auto-Delete, Widgets and Expiring Invite Links</title>
+			<link>https://telegram.org/blog/autodelete-inv2</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -196,6 +203,7 @@
 		</item>
 		<item>
 			<title>Moving Chat History from Other Apps</title>
+			<link>https://telegram.org/blog/move-history</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -223,6 +231,7 @@
 		</item>
 		<item>
 			<title>Voice Chats Done Right</title>
+			<link>https://telegram.org/blog/voice-chats</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -250,6 +259,7 @@
 		</item>
 		<item>
 			<title>Pinned Messages 2.0, Improved Live Locations, Playlists and More</title>
+			<link>https://telegram.org/blog/pinned-messages-locations-playlists</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -277,6 +287,7 @@
 		</item>
 		<item>
 			<title>Search Filters, Anonymous Admins, Channel Comments and More</title>
+			<link>https://telegram.org/blog/filters-anonymous-admins-comments</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -304,6 +315,7 @@
 		</item>
 		<item>
 			<title>Video Calls and Seven Years of Telegram</title>
+			<link>https://telegram.org/blog/video-calls</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -331,6 +343,7 @@
 		</item>
 		<item>
 			<title>Profile Videos, 2 GB File Sharing, Group Stats, Improved People Nearby and More</title>
+			<link>https://telegram.org/blog/profile-videos-people-nearby-and-more</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -358,6 +371,7 @@
 		</item>
 		<item>
 			<title>Video Editor, Animated Photos, Better GIFs and More</title>
+			<link>https://telegram.org/blog/video-editor-gifs</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -385,6 +399,7 @@
 		</item>
 		<item>
 			<title>400 Million Users, 20,000 Stickers, Quizzes 2.0 and €400K for Creators of Educational Tests</title>
+			<link>https://telegram.org/blog/400-million</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -412,6 +427,7 @@
 		</item>
 		<item>
 			<title>Coronavirus News and Verified Channels</title>
+			<link>https://telegram.org/blog/coronavirus</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -439,6 +455,7 @@
 		</item>
 		<item>
 			<title>Chat Folders, Archive, Channel Stats and More</title>
+			<link>https://telegram.org/blog/folders</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -466,6 +483,7 @@
 		</item>
 		<item>
 			<title>New Profiles, Fast Media Viewer and People Nearby 2.0</title>
+			<link>https://telegram.org/blog/new-profiles-people-nearby</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -493,6 +511,7 @@
 		</item>
 		<item>
 			<title>Polls 2.0: Visible Votes, Multiple Answers, and Quiz Mode</title>
+			<link>https://telegram.org/blog/polls-2-0-vmq</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
@@ -520,6 +539,7 @@
 		</item>
 		<item>
 			<title>Verifiable Builds, New Theme Editor, Send When Online and So Much More</title>
+			<link>https://telegram.org/blog/verifiable-apps-and-more</link>
 			<content:encoded>
 				<![CDATA[<html>
 	<head>
