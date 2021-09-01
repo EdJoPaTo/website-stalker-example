@@ -6,6 +6,34 @@
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.12.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Setup special at Hetzner in September</title>
+			<link>https://www.hetzner.com/presse-berichte/2021/09/16050</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Gunzenhausen, Germany – 01. September 2021
+				</small>
+			</p>
+			<h4>
+				Setup special at Hetzner in September
+			</h4>
+			<p class="list-card-preview">
+				This September, Hetzner Online has slashed prices for several of their dedicated root servers.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/09/16050">
+                Show more
+			</a>
+		</li>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Hetzner now offering AMD EPYC™ 7003 Series processor powered cloud servers</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/03/15926</link>
 			<content:encoded>
@@ -250,34 +278,6 @@
 				Hetzner’s data center park in Finland is expanding with an additional data center later this month.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/06/13615">
-                Show more
-			</a>
-		</li>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Hosting &amp; Service Provider Awards 2019: &quot;Platinum&quot; for Hetzner Online</title>
-			<link>https://www.hetzner.com/presse-berichte/2019/05/13614</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Frankfurt am Main/Gunzenhausen, Germany – 28. May 2019
-				</small>
-			</p>
-			<h4>
-				Hosting &amp; Service Provider Awards 2019: "Platinum" for Hetzner Online
-			</h4>
-			<p class="list-card-preview">
-				The results are in for this year's reader's choice award presented by Vogel IT-Medien: first place (Platinum) went to Hetzner Online in the "Webhosting" category.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/05/13614">
                 Show more
 			</a>
 		</li>
