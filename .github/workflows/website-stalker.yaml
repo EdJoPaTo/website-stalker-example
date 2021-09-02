@@ -9,14 +9,12 @@ jobs:
   website-stalker:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-      - name: run website-stalker
+      - name: Run website-stalker
         uses: docker://ghcr.io/edjopato/website-stalker:latest
         with:
           args: run --all --commit
 
-      - name: push
-        if: always()
+      - if: always()
         run: git push
