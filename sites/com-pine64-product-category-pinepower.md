@@ -16,7 +16,7 @@
 ## [PinePower – 120W Desktop Power Supply – US version](https://pine64.com/product/pinepower-120w-desktop-power-supply-us-version/)
 [$](https://pine64.com/product/pinepower-120w-desktop-power-supply-us-version/)
 [35.99](https://pine64.com/product/pinepower-120w-desktop-power-supply-us-version/)
-[Read more](https://pine64.com/product/pinepower-120w-desktop-power-supply-us-version/)
+[Add to cart](?add-to-cart=164019)
 
 ## [PinePower – 65W GaN 2C1A Charger with international plugs](https://pine64.com/product/pinepower-65w-gan-2c1a-charger-with-international-plugs/)
 [$](https://pine64.com/product/pinepower-65w-gan-2c1a-charger-with-international-plugs/)
