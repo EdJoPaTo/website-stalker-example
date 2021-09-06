@@ -6,6 +6,34 @@
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.12.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner wins platinum in the category cloud server</title>
+			<link>https://www.hetzner.com/presse-berichte/2021/09/16057</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Frankfurt am Main/Gunzenhausen, Germany – 02. September 2021
+				</small>
+			</p>
+			<h4>
+				Hetzner wins platinum in the category cloud server
+			</h4>
+			<p class="list-card-preview">
+				Hetzner Online once again earned the top place on the winners' podium this year in the "Cloud Server" category and took home the "Platinum" prize.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/09/16057">
+                Show more
+			</a>
+		</li>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Setup special at Hetzner in September</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/09/16050</link>
 			<content:encoded>
@@ -250,34 +278,6 @@
 				Hetzner‘s Data Center Park Helsinki has reached a new milestone by receiving the ISO 27001 certificate for information security.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/09/13701">
-                Show more
-			</a>
-		</li>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Third data center to go operational at Data Center Park Helsinki</title>
-			<link>https://www.hetzner.com/presse-berichte/2019/06/13615</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Helsinki, Finland – 06. June 2019
-				</small>
-			</p>
-			<h4>
-				Third data center to go operational at Data Center Park Helsinki
-			</h4>
-			<p class="list-card-preview">
-				Hetzner’s data center park in Finland is expanding with an additional data center later this month.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/06/13615">
                 Show more
 			</a>
 		</li>
