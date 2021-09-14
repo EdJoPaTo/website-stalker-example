@@ -90,6 +90,16 @@ sites:
                 selector: h2
                 remove: true
             - html_textify
+  - url: https://github.com/actions/virtual-environments/labels/Announcement
+    extension: xml
+    editors:
+      - rss:
+          title: GitHub Actions virtual-environments Announcements
+          item_selector: .js-issue-row
+          title_selector: a
+          content_editors:
+            - css_select: .labels, .opened-by
+            - html_textify
 
   - url: "https://blinry.org/"
     extension: html
