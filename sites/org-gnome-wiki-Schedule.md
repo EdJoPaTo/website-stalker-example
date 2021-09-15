@@ -41,39 +41,27 @@ Current freezes in place for the
 
 **Freeze**
 
-**Status**
-
-**Full Freeze Starting on...**
+**Freeze Start on...**
 
 API/ABI
 
-Closed
-
-Aug 14
+Aug 14, 2021
 
 Feature
 
-Closed
-
-Aug 14
+Aug 14, 2021
 
 UI
 
-Closed
-
-Aug 14
+Aug 14, 2021
 
 String
 
-Open
-
-Aug 28
+Aug 28, 2021
 
 Code
 
-Open
-
-Sep 04
+Sep 04, 2021
 
 ## Major Upcoming Conferences
 
