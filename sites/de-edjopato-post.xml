@@ -6,6 +6,13 @@
 		<description></description>
 		<generator>website-stalker/0.12.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Cloud-sync per Command-Line mit Rclone</title>
+			<link>https://edjopato.de/post/2021/09-17-rclone/</link>
+			<content:encoded>
+				<![CDATA[Wenn ich an Cloud Speicher großer Anbieter denke, dann denke ich tendenziell immer an &amp;ldquo;nervig&amp;rdquo; und &amp;ldquo;ge-cloud&amp;rdquo;. Für meinen privaten Kram bin ich den Komfort von SSH und Tools wie rsync gewöhnt, die mit einfachen Commands Daten durch die Gegend schieben können. Nun kam ich durch die Arbeit an Rclone vorbei, welches die von Linux Commands wie rsync gewohnt simple Benutzung für proprietäre Cloud Dienste ermöglicht.]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Google Stadia</title>
 			<link>https://edjopato.de/post/2021/07-25-stadia/</link>
 			<content:encoded>
@@ -82,13 +89,6 @@ Ich dachte mir also, werd ich mir wohl mal irgendeinen spooky Anbieter suchen un
 			<content:encoded>
 				<![CDATA[Ich benutze mein Handy zu viel für Belanglosigkeiten. Ich hänge zu viel auf Social Media herum. Immer up to date sein.
 Gleichzeitig habe ich seit einem Vierteljahr ein PinePhone, welches ich leider nicht allzu viel nutze. Da geht doch was.]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Raspberry Pi 4 als Hauptgerät</title>
-			<link>https://edjopato.de/post/2021/04-07-raspi-4-main-device/</link>
-			<content:encoded>
-				<![CDATA[Ein Arbeitskollege hat alte Hardware entrümpelt und ich habe mir mal angeschaut, was man damit anfangen kann. Einer davon war zwar noch 64bit, aber das war auch alles. Da dachte ich, ein Raspberry ist doch besser als das.]]>
 			</content:encoded>
 		</item>
 	</channel>
