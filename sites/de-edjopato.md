@@ -3,6 +3,7 @@
 
 # Hi!
 Ich bin Edgar!
+![Avatar](/assets/cheese.svg)
 
 ## [Blog](/post/)
 Ein Blog über Dinge. Mit Typos.
