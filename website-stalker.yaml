@@ -270,7 +270,16 @@ sites:
     editors:
       - css_select: "#content"
       - css_select:
-          selector: script
+          selector: script, img
+          remove: true
+      - html_url_canonicalize
+      - html_markdownify
+  - url: https://www.wdrmaus.de/filme/sachgeschichten/index.php5?filter=alle
+    extension: md
+    editors:
+      - css_select: .links
+      - css_select:
+          selector: script, img
           remove: true
       - html_url_canonicalize
       - html_markdownify
