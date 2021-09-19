@@ -6,6 +6,34 @@
 		<description></description>
 		<generator>website-stalker/0.12.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Chat Themes, Interactive Emoji, Read Receipts in Groups and Live Stream Recording</title>
+			<link>https://telegram.org/blog/chat-themes-interactive-emoji-read-receipts</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<a class="dev_blog_card_link_wrap" href="/blog/chat-themes-interactive-emoji-read-receipts">
+			<div class="dev_blog_card_wrap">
+				<img class="dev_blog_card_image" src="https://telegram.org/file/464001155/2/kLfFr4UDBdo.74223/58bec6bc2a18455c5f">
+				<div class="dev_blog_card_alltext_wrap">
+					<h4 class="dev_blog_card_title">
+						Chat Themes, Interactive Emoji, Read Receipts in Groups and Live Stream Recording
+					</h4>
+					<div class="dev_blog_card_lead">
+						Today's update lets you set different themes for individual chats, share your feelings with…
+					</div>
+				</div>
+				<div class="dev_blog_card_date">
+					Sep 19, 2021
+				</div>
+			</div>
+		</a>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Live Streams, Flexible Forwarding, Jump to Next Channel, Trending Stickers and More</title>
 			<link>https://telegram.org/blog/live-streams-forwarding-next-channel</link>
 			<content:encoded>
@@ -530,34 +558,6 @@
 				</div>
 				<div class="dev_blog_card_date">
 					Jan 23, 2020
-				</div>
-			</div>
-		</a>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Verifiable Builds, New Theme Editor, Send When Online and So Much More</title>
-			<link>https://telegram.org/blog/verifiable-apps-and-more</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<a class="dev_blog_card_link_wrap" href="/blog/verifiable-apps-and-more">
-			<div class="dev_blog_card_wrap">
-				<img class="dev_blog_card_image" src="https://telegram.org/file/464001694/2/wCAe0modrjo.85877/43810d6ac184ec8c7e">
-				<div class="dev_blog_card_alltext_wrap">
-					<h4 class="dev_blog_card_title">
-						Verifiable Builds, New Theme Editor, Send When Online and So Much More
-					</h4>
-					<div class="dev_blog_card_lead">
-						Introducing Reproducible Apps, Theme Editor 2.0, Send When Online and So Much More
-					</div>
-				</div>
-				<div class="dev_blog_card_date">
-					Jan 1, 2020
 				</div>
 			</div>
 		</a>
