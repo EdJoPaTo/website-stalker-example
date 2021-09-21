@@ -6,6 +6,13 @@
 		<description></description>
 		<generator>website-stalker/0.12.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Ein neuer Monitor und ungewöhnliche Experimente</title>
+			<link>https://edjopato.de/post/2021/09-21-monitor/</link>
+			<content:encoded>
+				<![CDATA[Ich habe mir einen neuen Monitor gekauft. Seit Jahren überlegte ich mir, &amp;ldquo;vielleicht mal ein neuer Monitor&amp;rdquo; und jedes Mal dachte ich mir &amp;ldquo;ach, ein bisschen was fehlt noch&amp;rdquo;. Auch die Rechnung, wann sich die Stromkosten rentiert hätten für neuere, effizientere Monitore, kam so bei ~12 Jahren raus, also lohnte es sich nicht wirklich. Ich habe zwei alte Dell U2711 Monitore. U2711 steht für UltraSharp 27&amp;quot; von 2011. Gekauft habe ich mir jetzt den Dell U2722DE.]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>ISOs booten mit Ventoy</title>
 			<link>https://edjopato.de/post/2021/09-20-ventoy/</link>
 			<content:encoded>
@@ -82,13 +89,6 @@ Ich dachte mir also, werd ich mir wohl mal irgendeinen spooky Anbieter suchen un
 			<link>https://edjopato.de/post/2021/04-13-visions/</link>
 			<content:encoded>
 				<![CDATA[Viele Firmen und Projekte haben einen Slogan, Leitbilder (= Mission Statements), Visionen, Grundwerte (= Core Values), Philosophien, … die den Willen des Projekts oder der Firma beschreiben. Ich denke, dass solche kurz und knappen Aussagen Firmen und Projekten helfen, von Menschen verstanden zu werden. Daraus können dann Ideologien und langfristiges Verhalten abgeleitet werden und Entscheidungen getroffen werden, ob einem dieses Projekt zusagt oder eben nicht. Ohne derartige Aussagen halte ich das für ziemlich unmöglich.]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Open Source Lizenzen</title>
-			<link>https://edjopato.de/post/2021/04-11-open-source-licenses/</link>
-			<content:encoded>
-				<![CDATA[Ich habe mit der Zeit nun schon so einige Software Projekte, von denen nahezu alle Open Source auf GitHub sind. Und eigentlich will ich auch, dass das so bleibt. Bisher habe ich einfach überall die MIT Lizenz reingeworfen, aber geht das noch besser?]]>
 			</content:encoded>
 		</item>
 	</channel>
