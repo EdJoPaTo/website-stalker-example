@@ -22,24 +22,6 @@ miketimofeev]]>
 			</content:encoded>
 		</item>
 		<item>
-			<title>[Ubuntu] Alpine 3.11 docker image will be removed on September, 20</title>
-			<link>https://github.com/actions/virtual-environments/issues/4042</link>
-			<content:encoded>
-				<![CDATA[Announcement
-
-awaiting-deployment
-
-OS: Ubuntu
-
-#4042
-opened
-Sep 8, 2021
-by
-
-miketimofeev]]>
-			</content:encoded>
-		</item>
-		<item>
 			<title>(Public Beta) Windows Server 2022 with Visual Studio 2022 is now available</title>
 			<link>https://github.com/actions/virtual-environments/issues/3949</link>
 			<content:encoded>
