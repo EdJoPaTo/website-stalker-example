@@ -15,10 +15,10 @@ For more information about our strategy and reasoning pertaining to device and p
 
 **Updated:**
 
-*August 26, 2021*
+*September 23, 2021*
 
 #### PinePhone (2GB/16GB &amp; 3GB/32GB)
-29 %
+14 %
 
 **Estimated availability**
 
@@ -39,7 +39,7 @@ Q4 2021
 Q4 2021/ Q1 2022
 
 #### ROCKPro64 (2GB / 4GB)
-94 %
+64 %
 
 **Estimated availability**
 
@@ -47,7 +47,7 @@ Q4 2021/ Q1 2022
 in stock
 
 #### Quartz64 A &amp; B (2GB/4GB/8GB)
-44 %
+33 %
 
 **Estimated availability**
 
@@ -61,14 +61,14 @@ Continued availability throughout 2021
 Continued availability throughout 2021
 
 #### PineTime (sealed, twin pack, dev kit)
-10 %
+11 %
 
 **Estimated availability**
 
 Continued availability throughout 2021
 
 #### Pinecil
-19 %
+29 %
 
 **Estimated availability**
 
@@ -77,6 +77,18 @@ Continued availability throughout 2021
 ### **Shipping status updates**
 
 #### PinePhone
+September 23, 2021
+
+Global shipment: PinePhones ordered late August and early-to-mid September dispatch September 27, 2021.
+
+EU shipment: orders dispatched weekly.
+
+August 26, 2021
+
+Global shipment: PinePhones ordered in August have now been dispatched.
+
+EU shipment: orders dispatched weekly.
+
 August 26, 2021
 
 Global shipment: PinePhones ordered in August have now been dispatched.
@@ -129,6 +141,12 @@ Pinebook Pro shipment is ongoing. Units with DHL out for delivery.
 #### PineTab
 
 #### Other
+September 27, 2021
+
+SBCs, Pinecil, PinePower and all other hardware – ongoing shipment with no issues.
+
+PineTime – temporary issues with _some_ orders to Germany. Will be resolved shortly.
+
 August 26, 2021
 
 Weekly dispatch of SBCs, Pinecil and the PineTime.
