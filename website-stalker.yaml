@@ -57,12 +57,6 @@ sites:
     editors:
       - css_select: "#content"
       - html_markdownify
-  - url: https://apps.gnome.org/
-    extension: html
-    editors:
-      - css_select: .content
-      - html_url_canonicalize
-      - html_prettify
   - url: "https://www.raspberrypi.org/software/operating-systems/"
     extension: md
     editors:
