@@ -1,7 +1,7 @@
 ## [PinePower – 120W Desktop Power Supply – AU version](https://pine64.com/product/pinepower-120w-desktop-power-supply-au-version/)
 [$](https://pine64.com/product/pinepower-120w-desktop-power-supply-au-version/)
 [35.99](https://pine64.com/product/pinepower-120w-desktop-power-supply-au-version/)
-[Read more](https://pine64.com/product/pinepower-120w-desktop-power-supply-au-version/)
+[Add to cart](?add-to-cart=172894)
 
 ## [PinePower – 120W Desktop Power Supply – EU version](https://pine64.com/product/pinepower-120w-desktop-power-supply-eu-version/)
 [$](https://pine64.com/product/pinepower-120w-desktop-power-supply-eu-version/)
@@ -11,7 +11,7 @@
 ## [PinePower – 120W Desktop Power Supply – UK version](https://pine64.com/product/pinepower-120w-desktop-power-supply-uk-version/)
 [$](https://pine64.com/product/pinepower-120w-desktop-power-supply-uk-version/)
 [36.99](https://pine64.com/product/pinepower-120w-desktop-power-supply-uk-version/)
-[Read more](https://pine64.com/product/pinepower-120w-desktop-power-supply-uk-version/)
+[Add to cart](?add-to-cart=172893)
 
 ## [PinePower – 120W Desktop Power Supply – US version](https://pine64.com/product/pinepower-120w-desktop-power-supply-us-version/)
 [$](https://pine64.com/product/pinepower-120w-desktop-power-supply-us-version/)
