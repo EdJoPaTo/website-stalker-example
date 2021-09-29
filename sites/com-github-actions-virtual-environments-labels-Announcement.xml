@@ -6,6 +6,38 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.13.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[macOS] Xcode 12.5 will be removed from Big Sur on October, 18</title>
+			<link>https://github.com/actions/virtual-environments/issues/4183</link>
+			<content:encoded>
+				<![CDATA[Announcement
+
+OS: macOS
+
+#4183
+opened
+Sep 29, 2021
+by
+
+miketimofeev]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>[macOS] Default Xcode on Big Sur image will be set to Xcode 13.0 on October, 18</title>
+			<link>https://github.com/actions/virtual-environments/issues/4180</link>
+			<content:encoded>
+				<![CDATA[Announcement
+
+OS: macOS
+
+#4180
+opened
+Sep 29, 2021
+by
+
+miketimofeev]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>macOS-latest workflows will use macOS-11</title>
 			<link>https://github.com/actions/virtual-environments/issues/4060</link>
 			<content:encoded>
