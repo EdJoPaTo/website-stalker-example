@@ -56,4 +56,4 @@
 ## [PINECIL Soldering Tip Set (Gross)](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
 [$](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
 [24.99](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
-[Read more](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
+[Add to cart](?add-to-cart=158100)
