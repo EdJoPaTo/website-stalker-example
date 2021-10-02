@@ -41,7 +41,7 @@
 ## [Pinecone – BL602 Evaluation Board](https://pine64.com/product/pinecone-bl602-evaluation-board/)
 [$](https://pine64.com/product/pinecone-bl602-evaluation-board/)
 [3.99](https://pine64.com/product/pinecone-bl602-evaluation-board/)
-[Add to cart](?add-to-cart=163197)
+[Read more](https://pine64.com/product/pinecone-bl602-evaluation-board/)
 
 ## [Pinenut – 01S USB Programmer](https://pine64.com/product/pinenut-01s-usb-programmer/)
 [$](https://pine64.com/product/pinenut-01s-usb-programmer/)
