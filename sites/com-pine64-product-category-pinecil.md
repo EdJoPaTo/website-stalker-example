@@ -31,7 +31,7 @@
 ## [PINECIL Preheater Hammerhead Tip](https://pine64.com/product/pinecil-preheater-hammer-head-tip/)
 [$](https://pine64.com/product/pinecil-preheater-hammer-head-tip/)
 [24.99](https://pine64.com/product/pinecil-preheater-hammer-head-tip/)
-[Add to cart](?add-to-cart=178749)
+[Read more](https://pine64.com/product/pinecil-preheater-hammer-head-tip/)
 
 ## [PINECIL Replacement Shell – Black Color](https://pine64.com/product/pinecil-shell-black-color/)
 [$](https://pine64.com/product/pinecil-shell-black-color/)
