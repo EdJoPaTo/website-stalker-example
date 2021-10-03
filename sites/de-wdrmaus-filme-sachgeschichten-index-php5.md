@@ -360,6 +360,8 @@
 - [Kaugummi](https://www.wdrmaus.de/filme/sachgeschichten/kaugummi.php5)
 - [Kehrmaschine](https://www.wdrmaus.de/filme/sachgeschichten/kehrmaschine.php5)
 - [Kerbholz](https://www.wdrmaus.de/filme/sachgeschichten/kerbholz.php5)
+- [Kernfusionsanlage](https://www.wdrmaus.de/filme/sachgeschichten/kernfusionsanlage.php5)
+- [Kernfusionsanlage](https://www.wdrmaus.de/filme/sachgeschichten/Brillen_Wunderbohnen.php5)
 - [Kerze ausblasen](https://www.wdrmaus.de/filme/sachgeschichten/kerze_ausblasen.php5)
 - [Kettenherstellung](https://www.wdrmaus.de/filme/sachgeschichten/kettenherstellung.php5)
 - [Klebestreifen](https://www.wdrmaus.de/filme/sachgeschichten/klebestreifen.php5)
