@@ -6,6 +6,13 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.13.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Rust hilft dabei, nur valide Zustände abzubilden</title>
+			<link>https://edjopato.de/post/2021/10/04-rust-safe-state/</link>
+			<content:encoded>
+				<![CDATA[In allen Programmiersprachen werden Konstrukte gebaut, um ein Ziel zu erreichen. Manche sind dabei besser oder schlechter lesbar und manche sind auch nur so mehr oder weniger korrekt.]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Ein neuer Monitor und ungewöhnliche Experimente</title>
 			<link>https://edjopato.de/post/2021/09-21-monitor/</link>
 			<content:encoded>
@@ -82,13 +89,6 @@ Ich dachte mir also, werd ich mir wohl mal irgendeinen spooky Anbieter suchen un
 			<link>https://edjopato.de/post/2021/05-28-cloud-performance/</link>
 			<content:encoded>
 				<![CDATA[Heute gab es ein Netcup Sonderangebot mit einem neuen Server, dem &amp;ldquo;Game Invader&amp;rdquo;. Geklickt und die Frage gestellt, wie schnell ist das Ding nun eigentlich im Verhältnis?]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Visionen von Projekten und Firmen</title>
-			<link>https://edjopato.de/post/2021/04-13-visions/</link>
-			<content:encoded>
-				<![CDATA[Viele Firmen und Projekte haben einen Slogan, Leitbilder (= Mission Statements), Visionen, Grundwerte (= Core Values), Philosophien, … die den Willen des Projekts oder der Firma beschreiben. Ich denke, dass solche kurz und knappen Aussagen Firmen und Projekten helfen, von Menschen verstanden zu werden. Daraus können dann Ideologien und langfristiges Verhalten abgeleitet werden und Entscheidungen getroffen werden, ob einem dieses Projekt zusagt oder eben nicht. Ohne derartige Aussagen halte ich das für ziemlich unmöglich.]]>
 			</content:encoded>
 		</item>
 	</channel>
