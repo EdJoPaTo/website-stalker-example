@@ -250,11 +250,13 @@ BREAKING CHANGE: refactor to use JavaScript features not available in Node 6.
 			</h3>
 			<pre>
 				<code>
-					fix: correct minor typos in code
-see the issue for details
-on typos fixed.
+					fix: prevent racing of requests
+Introduce a request id and a reference to latest request. Dismiss
+incoming responses other than from latest request.
+Remove timeouts which were used to mitigate the racing issue but are
+obsolete now.
 Reviewed-by: Z
-Refs #133
+Refs: #123
 				</code>
 			</pre>
 			<h2 id="specification">
