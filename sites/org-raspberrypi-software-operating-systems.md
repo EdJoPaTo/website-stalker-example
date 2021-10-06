@@ -137,5 +137,5 @@ Turn your Raspberry Pi into a retro-gaming machine
 [Download](https://thinlinx.com/)
 
 Note: Mathematica and the Wolfram Language are included in this release under license and with permission of Wolfram Research, Inc. and may be used for non-commercial purposes only. By using this software you agree to be bound by
-[the Wolfram Raspberry Pi Bundle License Agreement](https://www.wolfram.com/legal/agreements/wolfram-mathematica-raspberry-pi.html)
+[the Wolfram Raspberry Pi Bundle License Agreement](http://www.wolfram.com/legal/agreements/wolfram-mathematica-raspberry-pi.html)
 .
