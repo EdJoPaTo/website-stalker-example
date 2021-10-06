@@ -4,7 +4,7 @@
 		<title>EdJoPaTos Blog</title>
 		<link>https://edjopato.de/post/</link>
 		<description>Ein Blog über Dinge. Mit Typos.</description>
-		<generator>website-stalker/0.13.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.14.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Rust hilft dabei, nur valide Zustände abzubilden</title>
 			<link>https://edjopato.de/post/2021/10/04-rust-safe-state/</link>
