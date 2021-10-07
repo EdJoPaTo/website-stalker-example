@@ -1,4 +1,4 @@
-name: Run website-stalker
+name: website-stalker
 
 on:
   push:
