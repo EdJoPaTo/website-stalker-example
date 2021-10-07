@@ -1,9 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<title>EdJoPaTos Blog</title>
 		<link>https://edjopato.de/post/</link>
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.14.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<item>
+			<title>Rust hilft dabei, nur valide Zustände abzubilden</title>
+			<link>https://edjopato.de/post/2021/10/04-rust-safe-state/</link>
+			<content:encoded>
+				<![CDATA[2021-10-04
+
+Rust hilft dabei, nur valide Zustände abzubilden]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Ein neuer Monitor und ungewöhnliche Experimente</title>
+			<link>https://edjopato.de/post/2021/09-21-monitor/</link>
+			<content:encoded>
+				<![CDATA[2021-09-21
+
+Ein neuer Monitor und ungewöhnliche Experimente]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>ISOs booten mit Ventoy</title>
+			<link>https://edjopato.de/post/2021/09-20-ventoy/</link>
+			<content:encoded>
+				<![CDATA[2021-09-20
+
+ISOs booten mit Ventoy]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Cloud-sync per Command-Line mit Rclone</title>
+			<link>https://edjopato.de/post/2021/09-17-rclone/</link>
+			<content:encoded>
+				<![CDATA[2021-09-17
+
+Cloud-sync per Command-Line mit Rclone]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Google Stadia</title>
+			<link>https://edjopato.de/post/2021/07-25-stadia/</link>
+			<content:encoded>
+				<![CDATA[2021-07-25
+
+Google Stadia]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Gedanken zu effizienter Software</title>
+			<link>https://edjopato.de/post/2021/07-18-efficient-software/</link>
+			<content:encoded>
+				<![CDATA[2021-07-18
+
+Gedanken zu effizienter Software]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>LED-Pixelring Uhr</title>
+			<link>https://edjopato.de/post/2021/07-16-esp-pixelring-clock/</link>
+			<content:encoded>
+				<![CDATA[2021-07-16
+
+LED-Pixelring Uhr]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Qualitätschecks von Webseiten</title>
+			<link>https://edjopato.de/post/2021/07-06-website-quality-checks/</link>
+			<content:encoded>
+				<![CDATA[2021-07-06
+
+Qualitätschecks von Webseiten]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Browser Erweiterungen</title>
+			<link>https://edjopato.de/post/2021/06-29-browser-extensions/</link>
+			<content:encoded>
+				<![CDATA[2021-06-29
+
+Browser Erweiterungen]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Strömekraft - PowerDelivery in Netzteilen und portablen USB Akkus</title>
+			<link>https://edjopato.de/post/2021/06-19-powerdelivery/</link>
+			<content:encoded>
+				<![CDATA[2021-06-20
+
+Strömekraft - PowerDelivery in Netzteilen und portablen USB Akkus]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>RSS lesen synchronisieren mit Miniflux</title>
+			<link>https://edjopato.de/post/2021/06-13-rss-miniflux/</link>
+			<content:encoded>
+				<![CDATA[2021-06-13
+
+RSS lesen synchronisieren mit Miniflux]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>Vergleich einiger Netcup und Hetzner Cloud Server</title>
+			<link>https://edjopato.de/post/2021/05-28-cloud-performance/</link>
+			<content:encoded>
+				<![CDATA[2021-05-28
+
+Vergleich einiger Netcup und Hetzner Cloud Server]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>««</title>
+			<link>https://edjopato.de/post/#</link>
+			<content:encoded>
+				<![CDATA[««]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>«</title>
+			<link>https://edjopato.de/post/#</link>
+			<content:encoded>
+				<![CDATA[«]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>1</title>
+			<link>https://edjopato.de/post/#</link>
+			<content:encoded>
+				<![CDATA[1]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>2</title>
+			<link>https://edjopato.de/post/page/2/</link>
+			<content:encoded>
+				<![CDATA[2]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>3</title>
+			<link>https://edjopato.de/post/page/3/</link>
+			<content:encoded>
+				<![CDATA[3]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>4</title>
+			<link>https://edjopato.de/post/page/4/</link>
+			<content:encoded>
+				<![CDATA[4]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>5</title>
+			<link>https://edjopato.de/post/page/5/</link>
+			<content:encoded>
+				<![CDATA[5]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>»</title>
+			<link>https://edjopato.de/post/page/2/</link>
+			<content:encoded>
+				<![CDATA[»]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>»»</title>
+			<link>https://edjopato.de/post/page/6/</link>
+			<content:encoded>
+				<![CDATA[»»]]>
+			</content:encoded>
+		</item>
 	</channel>
 </rss>

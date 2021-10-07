@@ -44,11 +44,10 @@ sites:
     editors:
       - rss:
           title: EdJoPaTos Blog
-          item_selector: article
-          title_selector: h2
+          item_selector: li
+          title_selector: a
           link_selector: a
           content_editors:
-            - css_remove: h2, article > a, div
             - html_textify
 
 
