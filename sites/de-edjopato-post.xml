@@ -6,6 +6,15 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.14.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung</title>
+			<link>https://edjopato.de/post/2021/10/07-webcam-blur/</link>
+			<content:encoded>
+				<![CDATA[2021-10-07
+
+Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Rust hilft dabei, nur valide Zustände abzubilden</title>
 			<link>https://edjopato.de/post/2021/10/04-rust-safe-state/</link>
 			<content:encoded>
@@ -102,15 +111,6 @@ Strömekraft - PowerDelivery in Netzteilen und portablen USB Akkus]]>
 				<![CDATA[2021-06-13
 
 RSS lesen synchronisieren mit Miniflux]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Vergleich einiger Netcup und Hetzner Cloud Server</title>
-			<link>https://edjopato.de/post/2021/05-28-cloud-performance/</link>
-			<content:encoded>
-				<![CDATA[2021-05-28
-
-Vergleich einiger Netcup und Hetzner Cloud Server]]>
 			</content:encoded>
 		</item>
 		<item>
