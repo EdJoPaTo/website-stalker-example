@@ -21,12 +21,10 @@ None.
 ## Release Schedule
 
 See the
-[official release schedule page for GNOME 41](/FortyOne)
+[official release schedule page for GNOME 42](/FortyOne)
 .
 
 ### Stable Branch
-
-The current stable branch is 40. The current oldstable branch is 3.38.
 
 *Reminder:*
 Only bug fixes and performance fixes are allowed for stable branches (no feature, string, ui, or API/ABI changes allowed without
@@ -36,7 +34,7 @@ Only bug fixes and performance fixes are allowed for stable branches (no feature
 ### Freezes on Development Branch
 
 Current freezes in place for the
-[GNOME 41 development cycle](/FortyOne)
+[GNOME 42 development cycle](/FortyOne)
 :
 
 **Freeze**
@@ -45,23 +43,23 @@ Current freezes in place for the
 
 API/ABI
 
-Aug 14, 2021
+Feb 12, 2022
 
 Feature
 
-Aug 14, 2021
+Feb 12, 2022
 
 UI
 
-Aug 14, 2021
+Feb 12, 2022
 
 String
 
-Aug 28, 2021
+Feb 26, 2022
 
 Code
 
-Sep 04, 2021
+Mar 05, 2022
 
 ## Major Upcoming Conferences
 
