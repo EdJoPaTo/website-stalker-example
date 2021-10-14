@@ -11,6 +11,8 @@
 			<content:encoded>
 				<![CDATA[Announcement
 
+awaiting-deployment
+
 OS: macOS
 
 #4183
@@ -26,6 +28,8 @@ miketimofeev]]>
 			<link>https://github.com/actions/virtual-environments/issues/4180</link>
 			<content:encoded>
 				<![CDATA[Announcement
+
+awaiting-deployment
 
 OS: macOS
 
