@@ -127,6 +127,143 @@ sites:
       - html_prettify
 
 
+  - url: https://www.apple.com/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/mac/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/ipad/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/iphone/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/watch/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/tv/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/music/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/airpods/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/airtag/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/icloud/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/accessibility/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/environment/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/diversity/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/privacy/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/apple-events/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/healthcare/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/healthcare/apple-watch/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/healthcare/health-records/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+
+  - url: https://www.apple.com/mac/compare/
+    extension: html
+    editors:
+      - css_select: "#backport-data"
+      - html_prettify
+  - url: https://www.apple.com/ipad/compare/
+    extension: html
+    editors:
+      - css_select: "#backport-data"
+      - html_prettify
+  - url: https://www.apple.com/iphone/compare/
+    extension: html
+    editors:
+      - css_select: "#backport-data"
+      - html_prettify
+  - url: https://www.apple.com/watch/compare/
+    extension: html
+    editors:
+      - css_select: main
+      - html_prettify
+
+  - url: https://beta.apple.com/sp/betaprogram
+    extension: md
+    editors:
+      - css_select: .content
+      - html_markdownify
+
+
   - url: "https://www.netcup.de/vserver/vps.php"
     extension: html
     editors:
