@@ -21,7 +21,7 @@ None.
 ## Release Schedule
 
 See the
-[official release schedule page for GNOME 42](/FortyOne)
+[official release schedule page for GNOME 42](/FortyTwo)
 .
 
 ### Stable Branch
