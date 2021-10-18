@@ -73,21 +73,5 @@ by
 maxim-lobanov]]>
 			</content:encoded>
 		</item>
-		<item>
-			<title>Ubuntu 16.04 environment will be removed on September 20, 2021</title>
-			<link>https://github.com/actions/virtual-environments/issues/3287</link>
-			<content:encoded>
-				<![CDATA[Announcement
-
-OS: Ubuntu
-
-#3287
-opened
-Apr 29, 2021
-by
-
-AlenaSviridenko]]>
-			</content:encoded>
-		</item>
 	</channel>
 </rss>
