@@ -1,3 +1,5 @@
-user-agent: *
-disallow: /categories/
-disallow: /tags/
+User-agent: *
+Disallow: /categories/
+Disallow: /tags/
+
+Sitemap: https://edjopato.de/sitemap.xml

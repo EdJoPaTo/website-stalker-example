@@ -6,6 +6,15 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.14.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Die Cloud - Computer fremder Menschen</title>
+			<link>https://edjopato.de/post/2021/10/18-cloud/</link>
+			<content:encoded>
+				<![CDATA[2021-10-18
+
+Die Cloud - Computer fremder Menschen]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung</title>
 			<link>https://edjopato.de/post/2021/10/07-webcam-blur/</link>
 			<content:encoded>
@@ -102,15 +111,6 @@ Browser Erweiterungen]]>
 				<![CDATA[2021-06-20
 
 Strömekraft - PowerDelivery in Netzteilen und portablen USB Akkus]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>RSS lesen synchronisieren mit Miniflux</title>
-			<link>https://edjopato.de/post/2021/06-13-rss-miniflux/</link>
-			<content:encoded>
-				<![CDATA[2021-06-13
-
-RSS lesen synchronisieren mit Miniflux]]>
 			</content:encoded>
 		</item>
 		<item>
