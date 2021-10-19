@@ -6,6 +6,34 @@
 		<description></description>
 		<generator>website-stalker/0.14.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>New Possibilities: Apple Mac mini M1</title>
+			<link>https://www.hetzner.com/news/10-21-apple-mac-mini-m1/</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					19. October 2021
+				</small>
+			</p>
+			<h4>
+			New Possibilities: Apple Mac mini M1
+			</h4>
+			<p class="list-card-preview">
+			Get ready for Apple Mac mini M1 (2020) with 16GB RAM, 256GB SSD and optional 2x 1TB NVMe SSD.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/10-21-apple-mac-mini-m1/">
+        Show more
+			</a>
+		</li>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Need a price hero? The September setup special will save your wallet!</title>
 			<link>https://www.hetzner.com/news/09-21-setup-special/</link>
 			<content:encoded>
@@ -250,34 +278,6 @@
 			Did you know that you can change the hardware in your managed server as your requirements grow or decrease? We call this our Hardware Exchange Service.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/11-20-hardware-exchange/">
-        Show more
-			</a>
-		</li>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Hetzner Cloud Load Balancers now support dedicated root servers as a target</title>
-			<link>https://www.hetzner.com/news/09-20-load-balancer-server/</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					29. September 2020
-				</small>
-			</p>
-			<h4>
-			Hetzner Cloud Load Balancers now support dedicated root servers as a target
-			</h4>
-			<p class="list-card-preview">
-			Hetzner Cloud's new Load Balancers are in general availability since 11 August 2020. Load Balancers help you to scale your apps more easily, while also improving your apps' availability and performance.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/09-20-load-balancer-server/">
         Show more
 			</a>
 		</li>
