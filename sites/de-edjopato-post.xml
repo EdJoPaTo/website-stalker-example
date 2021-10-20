@@ -6,6 +6,15 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.14.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hacker*Innen Ethik und die Cloud</title>
+			<link>https://edjopato.de/post/2021/10/20-hackerinnen-ethik-cloud/</link>
+			<content:encoded>
+				<![CDATA[2021-10-20
+
+Hacker*Innen Ethik und die Cloud]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Die Cloud - Computer fremder Menschen</title>
 			<link>https://edjopato.de/post/2021/10/18-cloud/</link>
 			<content:encoded>
@@ -102,15 +111,6 @@ Qualitätschecks von Webseiten]]>
 				<![CDATA[2021-06-29
 
 Browser Erweiterungen]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Strömekraft - PowerDelivery in Netzteilen und portablen USB Akkus</title>
-			<link>https://edjopato.de/post/2021/06-19-powerdelivery/</link>
-			<content:encoded>
-				<![CDATA[2021-06-20
-
-Strömekraft - PowerDelivery in Netzteilen und portablen USB Akkus]]>
 			</content:encoded>
 		</item>
 		<item>
