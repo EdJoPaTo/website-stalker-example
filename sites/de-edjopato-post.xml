@@ -6,6 +6,15 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.14.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Zocken in einem eigenen Windows am Arbeitslaptop</title>
+			<link>https://edjopato.de/post/2021/10/20-windows-to-go/</link>
+			<content:encoded>
+				<![CDATA[2021-10-20
+
+Zocken in einem eigenen Windows am Arbeitslaptop]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Hacker*Innen Ethik und die Cloud</title>
 			<link>https://edjopato.de/post/2021/10/20-hackerinnen-ethik-cloud/</link>
 			<content:encoded>
@@ -102,15 +111,6 @@ LED-Pixelring Uhr]]>
 				<![CDATA[2021-07-06
 
 Qualitätschecks von Webseiten]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Browser Erweiterungen</title>
-			<link>https://edjopato.de/post/2021/06-29-browser-extensions/</link>
-			<content:encoded>
-				<![CDATA[2021-06-29
-
-Browser Erweiterungen]]>
 			</content:encoded>
 		</item>
 		<item>
