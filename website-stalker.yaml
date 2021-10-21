@@ -157,19 +157,19 @@ sites:
       - css_select: main
       - css_remove: noscript
       - html_markdownify
-  - url: https://www.apple.com/tv/
-    extension: html
-    editors:
-      - css_select: main
-      - css_remove: noscript
-      - html_markdownify
-  - url: https://www.apple.com/music/
-    extension: html
-    editors:
-      - css_select: main
-      - css_remove: noscript
-      - html_markdownify
   - url: https://www.apple.com/airpods/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/tv-home/
+    extension: html
+    editors:
+      - css_select: main
+      - css_remove: noscript
+      - html_markdownify
+  - url: https://www.apple.com/services/
     extension: html
     editors:
       - css_select: main
@@ -255,6 +255,11 @@ sites:
     extension: html
     editors:
       - css_select: main
+      - html_prettify
+  - url: https://www.apple.com/airpods/compare/
+    extension: html
+    editors:
+      - css_select: "#backport-data"
       - html_prettify
 
   - url: https://beta.apple.com/sp/betaprogram
