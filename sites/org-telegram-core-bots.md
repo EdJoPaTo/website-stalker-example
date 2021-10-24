@@ -95,7 +95,7 @@ There's a… bot for that. Just talk to
 [BotFather](https://t.me/botfather)
 (described
 [below](#6-botfather)
-) and follow a few simple steps. Once you've created a bot and received your authorization token, head down to the
+) and follow a few simple steps. Once you've created a bot and received your authentication token, head down to the
 [Bot API manual](/bots/api)
 to see what you can teach your bot to do.
 
@@ -355,7 +355,7 @@ option for the bot's messages should be more than enough.
 
 Telegram bots have a
 [deep linking](https://en.wikipedia.org/wiki/Deep_linking)
-mechanism, that allows for passing additional parameters to the bot on startup. It could be a command that launches the bot — or an auth token to connect the user's Telegram account to their account on some external service.
+mechanism, that allows for passing additional parameters to the bot on startup. It could be a command that launches the bot — or an authentication token to connect the user's Telegram account to their account on some external service.
 
 Each bot has a link that opens a conversation with it in Telegram —
 https://t.me/&lt;bot username&gt;
@@ -458,7 +458,7 @@ is the one bot to rule them all. It will help you create new bots and change set
 
 Use the
 **/newbot**
-command to create a new bot. The BotFather will ask you for a name and username, then generate an authorization token for your new bot.
+command to create a new bot. The BotFather will ask you for a name and username, then generate an authentication token for your new bot.
 
 The
 **name**
@@ -478,7 +478,7 @@ that is required to authorize the bot and send requests to the
 [Bot API](/bots/api)
 . Keep your token secure and store it safely, it can be used by anyone to control your bot.
 
-#### Generating an authorization token
+#### Generating an authentication token
 
 If your existing token is compromised or you lost it for some reason, use the
 **/token**
