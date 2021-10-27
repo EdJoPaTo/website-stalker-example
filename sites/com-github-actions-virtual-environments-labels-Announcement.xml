@@ -6,6 +6,62 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[Ubuntu] Node:10 docker images will be removed on September, 20</title>
+			<link>https://github.com/actions/virtual-environments/issues/4357</link>
+			<content:encoded>
+				<![CDATA[Announcement
+
+Area: Containers
+
+OS: Ubuntu
+
+#4357
+opened
+Oct 27, 2021
+by
+
+miketimofeev]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>[All OSs] Node.js version 10 will be removed from the images on November, 15</title>
+			<link>https://github.com/actions/virtual-environments/issues/4356</link>
+			<content:encoded>
+				<![CDATA[Announcement
+
+OS: macOS
+
+OS: Ubuntu
+
+OS: Windows
+
+#4356
+opened
+Oct 27, 2021
+by
+
+miketimofeev]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>[macOS Big Sur] Xcode 13 beta will be removed and Xcode 13.1 set as default on November, 15</title>
+			<link>https://github.com/actions/virtual-environments/issues/4355</link>
+			<content:encoded>
+				<![CDATA[Announcement
+
+Area: Apple
+
+OS: macOS
+
+#4355
+opened
+Oct 27, 2021
+by
+
+miketimofeev]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Windows-2016 environment will be removed on March 15, 2022</title>
 			<link>https://github.com/actions/virtual-environments/issues/4312</link>
 			<content:encoded>
