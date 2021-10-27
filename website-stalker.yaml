@@ -44,7 +44,7 @@ sites:
     editors:
       - rss:
           title: EdJoPaTos Blog
-          item_selector: li
+          item_selector: main li
           title_selector: a
           link_selector: a
           content_editors:
