@@ -2,6 +2,8 @@ name: website-stalker-edge
 
 on:
   push:
+    branches:
+      - edge
   schedule:
     - cron:  '17 */6 * * *' # every six hours at minute 17
 
