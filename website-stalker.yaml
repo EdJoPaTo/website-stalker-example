@@ -22,7 +22,7 @@ sites:
 
   # Example with html_textify
   - url: https://edjopato.de/impressum/
-    extension: html
+    extension: txt
     editors:
       - css_select: h1
       - html_textify
@@ -139,7 +139,7 @@ sites:
       - https://www.apple.com/healthcare/
       - https://www.apple.com/healthcare/apple-watch/
       - https://www.apple.com/healthcare/health-records/
-    extension: html
+    extension: md
     editors:
       - css_select: main
       - css_remove: noscript
