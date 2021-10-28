@@ -31,7 +31,7 @@ New
 
 #### Apple Watch Series 7
 
-##### Full screen ahead.
+##### Introducing our largest display yet.
 [Learn more](/apple-watch-series-7/)
 [Buy](/us/shop/goto/buy_watch/apple_watch_series_7)
 
