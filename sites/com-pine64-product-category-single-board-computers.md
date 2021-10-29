@@ -26,7 +26,7 @@
 ## [ROCKPro64 2GB Single Board Computer](https://pine64.com/product/rockpro64-2gb-single-board-computer/)
 [$](https://pine64.com/product/rockpro64-2gb-single-board-computer/)
 [59.99](https://pine64.com/product/rockpro64-2gb-single-board-computer/)
-[Add to cart](?add-to-cart=748)
+[Read more](https://pine64.com/product/rockpro64-2gb-single-board-computer/)
 
 ## [PINE A64 512MB Single Board Computer](https://pine64.com/product/pine-a64-512mb-board/)
 [$](https://pine64.com/product/pine-a64-512mb-board/)
