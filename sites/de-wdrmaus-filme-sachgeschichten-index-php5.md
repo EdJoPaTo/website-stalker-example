@@ -132,7 +132,6 @@
 - [Daten](https://www.wdrmaus.de/filme/sachgeschichten/daten.php5)
 - [Dauerwelle](https://www.wdrmaus.de/filme/sachgeschichten/dauerwelle.php5)
 - [Daumenkino](https://www.wdrmaus.de/filme/sachgeschichten/daumenkino.php5)
-- [Daumenkino](https://www.wdrmaus.de/filme/sachgeschichten/test_ls_lb.php5)
 - [Deichbau](https://www.wdrmaus.de/filme/sachgeschichten/deichbau.php5)
 - [Desinfektionsmittel: Herstellung](https://www.wdrmaus.de/filme/sachgeschichten/desinfektionsmittel_herstellung.php5)
 - [Desinfektionsmittel: Wirkung](https://www.wdrmaus.de/filme/sachgeschichten/desinfektionsmittel_wirkung.php5)
