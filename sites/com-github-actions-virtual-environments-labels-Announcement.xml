@@ -6,6 +6,26 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[all OSs] Selenium server version will be upgraded from 3 to 4 on November, 15</title>
+			<link>https://github.com/actions/virtual-environments/issues/4376</link>
+			<content:encoded>
+				<![CDATA[Announcement
+
+OS: macOS
+
+OS: Ubuntu
+
+OS: Windows
+
+#4376
+opened
+Oct 29, 2021
+by
+
+miketimofeev]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>[Ubuntu] Node:10 docker images will be removed on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4357</link>
 			<content:encoded>
