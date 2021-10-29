@@ -54,7 +54,9 @@ Yellow, orange, and blue available in November.
 [Learn more](/apple-card/)
 [Apply now](https://card.apple.com/apply/start/?referrer=apy-200-100018)
 
-#### Apple TV Plus
+#### Apple TV plus
 
-##### Puppy Place, Anything is pawsible.
-[Stream now](https://tv.apple.com/show/umc.cmc.6u8ovjqp61j46lx5cznidchhx?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-PuppyPlace-211025)
+##### It's the Great Pumpkin Charlie Brown
+
+###### Happiness is a Halloween tradition.
+[Stream now](https://tv.apple.com/movie/umc.cmc.1c5nvp802hos5t3u0umlukkwh?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-CBHalloween-211028)
