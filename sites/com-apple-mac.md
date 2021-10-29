@@ -308,9 +308,6 @@ Not available
 [Compare all Mac models](/mac/compare/)
 [Shop&nbsp;Mac](/us/shop/goto/buy_mac)
 
-Looking for the 21.5-inch&nbsp;iMac?
-[Buy](/us/shop/goto/buy_mac/imac_21)
-
 ## Get 3%
 
 Daily&nbsp;Cash
