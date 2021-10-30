@@ -14,10 +14,10 @@ sites:
       - html_prettify
 
   # Example with css selector
-  - url: https://edjopato.de/post/
+  - url: https://rain-brainz.de/
     extension: html
     editors:
-      - css_select: main
+      - css_select: main a img
       - html_prettify
 
   # Example with html_textify
@@ -28,10 +28,10 @@ sites:
       - html_textify
 
   # Example with html_markdownify
-  - url: https://edjopato.de/
+  - url: https://edjopato.de/post/2020/09-16-zsh/
     extension: md
     editors:
-      - css_select: body
+      - css_select: .content
       - html_markdownify
 
   # Example of a text only entry
