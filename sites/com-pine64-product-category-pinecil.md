@@ -21,7 +21,7 @@
 ## [PINECIL Portable Mini Stand](https://pine64.com/product/pinecil-portable-mini-stand/)
 [$](https://pine64.com/product/pinecil-portable-mini-stand/)
 [1.99](https://pine64.com/product/pinecil-portable-mini-stand/)
-[Add to cart](?add-to-cart=162064)
+[Read more](https://pine64.com/product/pinecil-portable-mini-stand/)
 
 ## [PINECIL Replacement Tip Contacts](https://pine64.com/product/pinecil-copper-clips/)
 [$](https://pine64.com/product/pinecil-copper-clips/)
