@@ -206,18 +206,19 @@ sites:
             - html_prettify
 
   - url:
-      - https://pine64.com/product-category/pinepower/
-      - https://pine64.com/product-category/pinecil/
-      - https://pine64.com/product-category/iot/
-      - https://pine64.com/product-category/ip-cameras/
-      - https://pine64.com/product-category/tablets/
-      - https://pine64.com/product-category/pinebook-pro/
       - https://pine64.com/product-category/single-board-computers/
       - https://pine64.com/product-category/quartz64/
+      - https://pine64.com/product-category/laptops/
+      - https://pine64.com/product-category/smartphones/
+      - https://pine64.com/product-category/tablets/
+      - https://pine64.com/product-category/ip-cameras/
+      - https://pine64.com/product-category/pinecil/
+      - https://pine64.com/product-category/iot/
+      - https://pine64.com/product-category/pinepower/
     extension: md
     editors:
       - css_select: .product
-      - css_remove: img
+      - css_remove: img, a.button, .woocommerce-Price-currencySymbol
       - html_markdownify
   - url: https://www.pine64.org/availability-and-shipping-status/
     extension: md
