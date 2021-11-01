@@ -6,6 +6,13 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Diablo 3 PTR 2.7.2 Preview Blog</title>
+			<link>https://us.diablo3.com/en-us/blog/23730897/diablo-3-ptr-272-preview-blog-11-1-2021</link>
+			<content:encoded>
+				<![CDATA[Our two-week PTR testing period for the 2.7.2 update begins on November 4, and we're asking for your help to quell the tides of surging demons.]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Play Diablo® II: Resurrected™ During the Early Access &amp; Open Beta</title>
 			<link>https://news.blizzard.com/en-us/diablo2/23688836/play-diablo%C2%AE-ii-resurrected%E2%84%A2-during-the-early-access-open-beta-8-10-2021</link>
 			<content:encoded>
@@ -73,13 +80,6 @@
 			<link>https://us.diablo3.com/en-us/blog/23624696/diablo-deep-dive-panel-recap-2-19-2021</link>
 			<content:encoded>
 				<![CDATA[Get caught up and dive deeper into all the latest news revolving around Diablo II: Resurrected, Diablo IV, and Diablo Immortal.]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>The Darkening of Tristram Returns January 3, 2021!</title>
-			<link>https://us.diablo3.com/en-us/blog/23558962/the-darkening-of-tristram-returns-january-3-2021-12-29-2020</link>
-			<content:encoded>
-				<![CDATA[Our anniversary event is fast approaching! Prepare to face mysterious cultists and enter a portal into Diablo's past.]]>
 			</content:encoded>
 		</item>
 	</channel>
