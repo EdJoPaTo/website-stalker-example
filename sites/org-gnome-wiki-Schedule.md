@@ -34,7 +34,7 @@ Only bug fixes and performance fixes are allowed for stable branches (no feature
 ### Freezes on Development Branch
 
 Current freezes in place for the
-[GNOME 42 development cycle](/FortyOne)
+[GNOME 42 development cycle](/FortyTwo)
 :
 
 **Freeze**

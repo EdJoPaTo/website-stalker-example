@@ -1,8 +1,5 @@
-We look forward to welcoming you to our stores. Whether you
-[shop in a store](/retail/)
-or
-[shop online](/us/shop/goto/shop)
-, our Specialists can help you buy the products you&nbsp;love.
+Shop early for the best selection of holiday favorites.
+[Shop now](/us/shop/goto/store)
 
 ## iPhone 13 Pro
 
@@ -22,6 +19,10 @@ or
 [Learn more](/macbook-pro-14-and-16/)
 [Buy](/us/shop/goto/buy_mac/macbook_pro_14)
 
+#### HomePod mini
+[Learn more](/homepod-mini/)
+[Buy](/us/shop/goto/buy_homepod/homepod_mini)
+
 #### AirPods
 
 ##### All-new with Spatial Audio
@@ -35,18 +36,12 @@ New
 [Learn more](/apple-watch-series-7/)
 [Buy](/us/shop/goto/buy_watch/apple_watch_series_7)
 
-#### HomePod mini
+#### Apple Arcade
 
-Yellow, orange, and blue available in November.
-
-[Learn more](/homepod-mini/)
-[Shop](/us/shop/goto/buy_homepod/homepod_mini)
-
-#### iPad mini
-
-##### Mega power. Mini sized.
-[Learn more](/ipad-mini/)
-[Buy](/us/shop/goto/buy_ipad/ipad_mini)
+##### Get 3 months free when you buy a&nbsp;new iPhone, iPad, iPod&nbsp;touch, Apple&nbsp;TV, or Mac.
+[Learn more](/apple-arcade/?itscg=10000&amp;itsct=arc-0-apl_hp-hw_bundle-apl-ref-211025)
+[Try it free](https://offers.applearcade.apple/?itscg=10000&amp;itsct=arc-0-apl_hp-try_tle-apl-ref-211026)
+[1](#footnote-1)
 
 #### Apple Card
 

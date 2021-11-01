@@ -15,9 +15,7 @@ HomePod mini
 
 $99
 
-Yellow, orange, and blue available in&nbsp;November.
-
-[Shop](/us/shop/goto/buy_homepod/homepod_mini)
+[Buy](/us/shop/goto/buy_homepod/homepod_mini)
 [Learn more](/homepod-mini/)
 ![](/v/tv-home/a/images/overview/room_filling_sound__zagu3551kwyi_large.jpg)
 ![Apple TV 4K](/v/tv-home/a/images/overview/apple_tv_4k_logo__vyjj7uki3tui_large.png)
