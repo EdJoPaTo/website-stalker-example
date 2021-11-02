@@ -6,6 +6,15 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Von alles nach alles konvertieren</title>
+			<link>https://edjopato.de/post/2021/11/02-convert-everything/</link>
+			<content:encoded>
+				<![CDATA[2021-11-02
+
+Von alles nach alles konvertieren]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Zocken in einem eigenen Windows am Arbeitslaptop</title>
 			<link>https://edjopato.de/post/2021/10/20-windows-to-go/</link>
 			<content:encoded>
@@ -102,15 +111,6 @@ Gedanken zu effizienter Software]]>
 				<![CDATA[2021-07-16
 
 LED-Pixelring Uhr]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Qualitätschecks von Webseiten</title>
-			<link>https://edjopato.de/post/2021/07-06-website-quality-checks/</link>
-			<content:encoded>
-				<![CDATA[2021-07-06
-
-Qualitätschecks von Webseiten]]>
 			</content:encoded>
 		</item>
 	</channel>
