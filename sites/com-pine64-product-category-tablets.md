@@ -1,3 +1,6 @@
+## [PineNote Developer Edition](https://pine64.com/product/pinenote-developer-edition/)
+[399.00](https://pine64.com/product/pinenote-developer-edition/)
+
 ## [PINETAB – 10.1″ Linux tablet with detached backlit keyboard [Out Of Stock]](https://pine64.com/product/pinetab-10-1-linux-tablet-with-detached-backlit-keyboard/)
 [119.98](https://pine64.com/product/pinetab-10-1-linux-tablet-with-detached-backlit-keyboard/)
 
