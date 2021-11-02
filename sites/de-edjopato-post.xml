@@ -6,6 +6,15 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Fusselfreier Quellcode - so nervig wie möglich bitte</title>
+			<link>https://edjopato.de/post/2021/11/02-sourcecode-linter/</link>
+			<content:encoded>
+				<![CDATA[2021-11-02
+
+Fusselfreier Quellcode - so nervig wie möglich bitte]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Von alles nach alles konvertieren</title>
 			<link>https://edjopato.de/post/2021/11/02-convert-everything/</link>
 			<content:encoded>
@@ -102,15 +111,6 @@ Google Stadia]]>
 				<![CDATA[2021-07-18
 
 Gedanken zu effizienter Software]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>LED-Pixelring Uhr</title>
-			<link>https://edjopato.de/post/2021/07-16-esp-pixelring-clock/</link>
-			<content:encoded>
-				<![CDATA[2021-07-16
-
-LED-Pixelring Uhr]]>
 			</content:encoded>
 		</item>
 	</channel>
