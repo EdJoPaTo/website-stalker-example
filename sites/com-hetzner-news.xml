@@ -6,6 +6,34 @@
 		<description></description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner Goes USA! – Hetzner opens new location for cloud servers</title>
+			<link>https://www.hetzner.com/news/11-21-usa-cloud/</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					03. November 2021
+				</small>
+			</p>
+			<h4>
+			Hetzner Goes USA! – Hetzner opens new location for cloud servers
+			</h4>
+			<p class="list-card-preview">
+			Our first location in the USA is live! Hetzner cloud servers are now available in Ashburn.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/11-21-usa-cloud/">
+        Show more
+			</a>
+		</li>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>New Possibilities: Apple Mac mini M1</title>
 			<link>https://www.hetzner.com/news/10-21-apple-mac-mini-m1/</link>
 			<content:encoded>
@@ -250,34 +278,6 @@
 			It's that time of the year again. Our deals will be the highlight of your Black Weekend.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/11-20-black-weekend/">
-        Show more
-			</a>
-		</li>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Hardware Exchange Service for managed servers</title>
-			<link>https://www.hetzner.com/news/11-20-hardware-exchange/</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					26. November 2020
-				</small>
-			</p>
-			<h4>
-			Hardware Exchange Service for managed servers
-			</h4>
-			<p class="list-card-preview">
-			Did you know that you can change the hardware in your managed server as your requirements grow or decrease? We call this our Hardware Exchange Service.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/11-20-hardware-exchange/">
         Show more
 			</a>
 		</li>

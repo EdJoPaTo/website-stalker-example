@@ -6,6 +6,34 @@
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner Goes USA! – Hetzner opens new location in USA</title>
+			<link>https://www.hetzner.com/presse-berichte/2021/11/166514</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Gunzenhausen, Germany – 03. November 2021
+				</small>
+			</p>
+			<h4>
+				Hetzner Goes USA! – Hetzner opens new location in USA
+			</h4>
+			<p class="list-card-preview">
+				Hetzner Cloud now also has servers in Ashburn, Virgina, their first location outside of Europe. This means that in addition to Nuremberg, Falkenstein and Helsinki, customers can now also choose...
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/11/166514">
+                Show more
+			</a>
+		</li>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Hetzner wins platinum in the category cloud server</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/09/166057</link>
 			<content:encoded>
@@ -250,34 +278,6 @@
 				 The web hosting company Hetzner Online has provided the new FabLab (Fabrication Laboratory) in Gunzenhausen with €25,000 in financing so that the club can purchase equipment and cover operating costs.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/10/164306">
-                Show more
-			</a>
-		</li>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Top level security at Hetzner’s Finnish data center park</title>
-			<link>https://www.hetzner.com/presse-berichte/2019/09/163701</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Helsinki, Finland – 30. September 2019
-				</small>
-			</p>
-			<h4>
-				Top level security at Hetzner’s Finnish data center park
-			</h4>
-			<p class="list-card-preview">
-				Hetzner‘s Data Center Park Helsinki has reached a new milestone by receiving the ISO 27001 certificate for information security.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/09/163701">
                 Show more
 			</a>
 		</li>
