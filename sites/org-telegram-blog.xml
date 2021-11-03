@@ -6,6 +6,34 @@
 		<description></description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hyper-Speed Scrolling and Calendar View for Shared Media, Join Requests, Global Chat Themes on iOS and More</title>
+			<link>https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<a class="dev_blog_card_link_wrap" href="/blog/shared-media-scrolling-calendar-join-requests-and-more">
+			<div class="dev_blog_card_wrap">
+				<img class="dev_blog_card_image" src="https://telegram.org/file/464001930/3/yPTwxfusWZg.174275/3f847742c263cdae99">
+				<div class="dev_blog_card_alltext_wrap">
+					<h4 class="dev_blog_card_title">
+						Hyper-Speed Scrolling and Calendar View for Shared Media, Join Requests, Global Chat Themes on iOS and More
+					</h4>
+					<div class="dev_blog_card_lead">
+						Today's update brings new ways to find memories in shared media with accelerated scrolling…
+					</div>
+				</div>
+				<div class="dev_blog_card_date">
+					Nov 3, 2021
+				</div>
+			</div>
+		</a>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Chat Themes, Interactive Emoji, Read Receipts in Groups and Live Stream Recording</title>
 			<link>https://telegram.org/blog/chat-themes-interactive-emoji-read-receipts</link>
 			<content:encoded>
@@ -530,34 +558,6 @@
 				</div>
 				<div class="dev_blog_card_date">
 					Feb 13, 2020
-				</div>
-			</div>
-		</a>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Polls 2.0: Visible Votes, Multiple Answers, and Quiz Mode</title>
-			<link>https://telegram.org/blog/polls-2-0-vmq</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<a class="dev_blog_card_link_wrap" href="/blog/polls-2-0-vmq">
-			<div class="dev_blog_card_wrap">
-				<img class="dev_blog_card_image" src="https://telegram.org/file/464001914/1/tfVewTpsrWg.74478/f301b8e4890ccc1bb5">
-				<div class="dev_blog_card_alltext_wrap">
-					<h4 class="dev_blog_card_title">
-						Polls 2.0: Visible Votes, Multiple Answers, and Quiz Mode
-					</h4>
-					<div class="dev_blog_card_lead">
-						Since we first added polls for groups and channels, they've been used for everything from deciding where to have lunch to organizing leaderless…
-					</div>
-				</div>
-				<div class="dev_blog_card_date">
-					Jan 23, 2020
 				</div>
 			</div>
 		</a>
