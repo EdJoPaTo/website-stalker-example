@@ -6,6 +6,15 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hallo an das Open-Source-Blog-Netzwerk</title>
+			<link>https://edjopato.de/post/2021/11/04-osbn/</link>
+			<content:encoded>
+				<![CDATA[2021-11-04
+
+Hallo an das Open-Source-Blog-Netzwerk]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Fusselfreier Quellcode - so nervig wie möglich bitte</title>
 			<link>https://edjopato.de/post/2021/11/02-sourcecode-linter/</link>
 			<content:encoded>
@@ -70,7 +79,7 @@ Rust hilft dabei, nur valide Zustände abzubilden]]>
 		</item>
 		<item>
 			<title>Ein neuer Monitor und ungewöhnliche Experimente</title>
-			<link>https://edjopato.de/post/2021/09-21-monitor/</link>
+			<link>https://edjopato.de/post/2021/09/21-monitor/</link>
 			<content:encoded>
 				<![CDATA[2021-09-21
 
@@ -79,7 +88,7 @@ Ein neuer Monitor und ungewöhnliche Experimente]]>
 		</item>
 		<item>
 			<title>ISOs booten mit Ventoy</title>
-			<link>https://edjopato.de/post/2021/09-20-ventoy/</link>
+			<link>https://edjopato.de/post/2021/09/20-ventoy/</link>
 			<content:encoded>
 				<![CDATA[2021-09-20
 
@@ -88,7 +97,7 @@ ISOs booten mit Ventoy]]>
 		</item>
 		<item>
 			<title>Cloud-sync per Command-Line mit Rclone</title>
-			<link>https://edjopato.de/post/2021/09-17-rclone/</link>
+			<link>https://edjopato.de/post/2021/07/17-rclone/</link>
 			<content:encoded>
 				<![CDATA[2021-09-17
 
@@ -97,20 +106,11 @@ Cloud-sync per Command-Line mit Rclone]]>
 		</item>
 		<item>
 			<title>Google Stadia</title>
-			<link>https://edjopato.de/post/2021/07-25-stadia/</link>
+			<link>https://edjopato.de/post/2021/07/25-stadia/</link>
 			<content:encoded>
 				<![CDATA[2021-07-25
 
 Google Stadia]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>Gedanken zu effizienter Software</title>
-			<link>https://edjopato.de/post/2021/07-18-efficient-software/</link>
-			<content:encoded>
-				<![CDATA[2021-07-18
-
-Gedanken zu effizienter Software]]>
 			</content:encoded>
 		</item>
 	</channel>
