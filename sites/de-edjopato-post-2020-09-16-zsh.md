@@ -33,8 +33,8 @@ Das habe ich mal gemacht und Jahre später lief das noch.
 Allerdings bringt Oh My Zsh auch so manche Skripte selbst mit, die dann bei jedem Öffnen einer Shell ausgeführt werden.
 Und wenn man sich diese genauer anschaut, braucht man das meiste davon eigentlich garnicht.
 
-Das gute ist aber, dass Oh My Zsh komplett mit Zsh arbeitet, sprich alle Skripte (.zsh Dateien) sind einfach nur Scripte, die auch ohne Oh My Zsh von Zsh ausgeführt werden können.
-Man kann also selber eine Zsh Konfiguration bauen und dann Oh My Zsh Plugins einfach bei sich herein laden und sie werden funktionieren.
+Das gute ist aber, dass Oh My Zsh komplett mit Zsh arbeitet, sprich alle Skripte (.zsh Dateien) sind nur Scripte, die auch ohne Oh My Zsh von Zsh ausgeführt werden können.
+Man kann also selber eine Zsh Konfiguration bauen und dann Oh My Zsh Plugins bei sich herein laden und sie werden funktionieren.
 
 # Eigene Konfiguration
 
@@ -52,7 +52,7 @@ Ich habe mich auch mehrfach an anderen Konfigurationen inspirieren lassen, die s
 [aliase von leyrer](https://github.com/leyrer/linux-home/blob/master/zshrc)
 .
 
-Meine Konfiguration ist nun seit einiger Zeit fast unverändert, nur noch die Aliase ändern sich von Zeit zu Zeit, welche wohl noch viel persönlicher sind.
+Meine Konfiguration ist seit einiger Zeit fast unverändert, nur noch die Aliase ändern sich von Zeit zu Zeit, welche wohl noch viel persönlicher sind.
 Da versuche ich aber den Weg zu gehen, nicht
 git push
 zu
@@ -66,6 +66,6 @@ Dinge die ich seltener benutze und eh jedes mal nachschauen müsste, packe ich j
 # Fazit
 
 Alles in allem verstehe ich nun mehr, was eigentlich beim Starten einer neuen Shell passiert.
-Vieles von Oh My Zsh hat mich da auch einfach nicht weiter gebracht und ich habe nun ein deutlich simpleres Setup.
+Vieles von Oh My Zsh hat mich nicht weiter gebracht und ich habe ein deutlich simpleres Setup.
 
 Wenn ihr auch eure eigene Konfiguration habt, lasst es mich gern wissen, dann kann ich mich von euch auch inspirieren lassen und meine weiter Optimieren.
