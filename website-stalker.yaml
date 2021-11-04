@@ -8,20 +8,20 @@
 from: website-stalker-example-github@edjopato.de
 sites:
   # Basic example
-  - url: https://edjopato.de/
+  - url: "https://edjopato.de/"
     extension: html
     editors:
       - html_prettify
 
   # Example with css selector
-  - url: https://rain-brainz.de/
+  - url: "https://rain-brainz.de/"
     extension: html
     editors:
       - css_select: main a img
       - html_prettify
 
   # Example with html_textify
-  - url: https://edjopato.de/impressum/
+  - url: "https://edjopato.de/impressum/"
     extension: txt
     editors:
       - css_select: h1
@@ -35,11 +35,11 @@ sites:
       - html_markdownify
 
   # Example of a text only entry
-  - url: https://edjopato.de/robots.txt
+  - url: "https://edjopato.de/robots.txt"
     extension: txt
 
   # Example with RSS
-  - url: https://edjopato.de/post/
+  - url: "https://edjopato.de/post/"
     extension: xml
     editors:
       - rss:
@@ -51,27 +51,27 @@ sites:
             - html_textify
 
 
-  - url: https://wiki.gnome.org/Schedule
+  - url: "https://wiki.gnome.org/Schedule"
     extension: md
     editors:
       - css_select: "#content"
       - html_markdownify
-  - url: https://www.raspberrypi.com/software/operating-systems/
+  - url: "https://www.raspberrypi.com/software/operating-systems/"
     extension: md
     editors:
       - css_select: main
       - css_remove: img
       - html_markdownify
-  - url: https://raspi.debian.net/tested-images/
+  - url: "https://raspi.debian.net/tested-images/"
     extension: html
     editors:
       - css_select: "#content"
       - html_prettify
-  - url: https://files.teamspeak-services.com/releases/server/
+  - url: "https://files.teamspeak-services.com/releases/server/"
     extension: html
     editors:
       - html_prettify
-  - url: https://us.diablo3.com/en-us/
+  - url: "https://us.diablo3.com/en-us/"
     extension: xml
     editors:
       - rss:
@@ -80,7 +80,7 @@ sites:
             - css_select: .article-content
             - css_remove: h2
             - html_textify
-  - url: https://github.com/actions/virtual-environments/labels/Announcement
+  - url: "https://github.com/actions/virtual-environments/labels/Announcement"
     extension: xml
     editors:
       - rss:
@@ -91,15 +91,15 @@ sites:
             - css_select: .labels, .opened-by
             - html_textify
 
-  - url: https://blinry.org/
+  - url: "https://blinry.org/"
     extension: html
     editors:
       - css_select: .box
       - html_prettify
 
   - url:
-      - https://jonas.lol/
-      - https://jonas.lol/projects/
+      - "https://jonas.lol/"
+      - "https://jonas.lol/projects/"
     extension: html
     editors:
       - css_select: body
@@ -109,11 +109,11 @@ sites:
           replace: ""
       - html_prettify
 
-  - url: https://www.conventionalcommits.org/en/
+  - url: "https://www.conventionalcommits.org/en/"
     extension: html
     editors:
       - html_prettify
-  - url: https://www.conventionalcommits.org/en/v1.0.0/
+  - url: "https://www.conventionalcommits.org/en/v1.0.0/"
     extension: html
     editors:
       - css_select: article
@@ -121,74 +121,74 @@ sites:
 
 
   - url:
-      - https://www.apple.com/
-      - https://www.apple.com/mac/
-      - https://www.apple.com/ipad/
-      - https://www.apple.com/iphone/
-      - https://www.apple.com/watch/
-      - https://www.apple.com/airpods/
-      - https://www.apple.com/tv-home/
-      - https://www.apple.com/services/
-      - https://www.apple.com/airtag/
-      - https://www.apple.com/icloud/
-      - https://www.apple.com/accessibility/
-      - https://www.apple.com/environment/
-      - https://www.apple.com/diversity/
-      - https://www.apple.com/privacy/
-      - https://www.apple.com/apple-events/
-      - https://www.apple.com/healthcare/
-      - https://www.apple.com/healthcare/apple-watch/
-      - https://www.apple.com/healthcare/health-records/
+      - "https://www.apple.com/"
+      - "https://www.apple.com/mac/"
+      - "https://www.apple.com/ipad/"
+      - "https://www.apple.com/iphone/"
+      - "https://www.apple.com/watch/"
+      - "https://www.apple.com/airpods/"
+      - "https://www.apple.com/tv-home/"
+      - "https://www.apple.com/services/"
+      - "https://www.apple.com/airtag/"
+      - "https://www.apple.com/icloud/"
+      - "https://www.apple.com/accessibility/"
+      - "https://www.apple.com/environment/"
+      - "https://www.apple.com/diversity/"
+      - "https://www.apple.com/privacy/"
+      - "https://www.apple.com/apple-events/"
+      - "https://www.apple.com/healthcare/"
+      - "https://www.apple.com/healthcare/apple-watch/"
+      - "https://www.apple.com/healthcare/health-records/"
     extension: md
     editors:
       - css_select: main
       - css_remove: noscript
       - html_markdownify
   - url:
-      - https://www.apple.com/mac/compare/
-      - https://www.apple.com/ipad/compare/
-      - https://www.apple.com/iphone/compare/
-      - https://www.apple.com/airpods/compare/
+      - "https://www.apple.com/mac/compare/"
+      - "https://www.apple.com/ipad/compare/"
+      - "https://www.apple.com/iphone/compare/"
+      - "https://www.apple.com/airpods/compare/"
     extension: html
     editors:
       - css_select: "#backport-data"
       - html_prettify
-  - url: https://www.apple.com/watch/compare/
+  - url: "https://www.apple.com/watch/compare/"
     extension: html
     editors:
       - css_select: main
       - html_prettify
-  - url: https://beta.apple.com/sp/betaprogram
+  - url: "https://beta.apple.com/sp/betaprogram"
     extension: md
     editors:
       - css_select: .content
       - html_markdownify
 
   - url:
-      - https://www.netcup.de/vserver/vps.php
-      - https://www.netcup.de/vserver/
-      - https://www.netcup.de/vserver/vstorage.php
-      - https://www.netcup.de/vserver/uebersicht_vserver_angebote.php
-      - https://www.netcup.de/vserver/root-server-erweiterungen.php
-      - https://www.netcup-sonderangebote.de/
-      - https://www.netcup.de/adventskalender/
+      - "https://www.netcup.de/vserver/vps.php"
+      - "https://www.netcup.de/vserver/"
+      - "https://www.netcup.de/vserver/vstorage.php"
+      - "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
+      - "https://www.netcup.de/vserver/root-server-erweiterungen.php"
+      - "https://www.netcup-sonderangebote.de/"
+      - "https://www.netcup.de/adventskalender/"
     extension: html
     editors:
       - css_select: .card
       - html_prettify
-  - url: https://www.netcup.de/vserver/storagespace.php
+  - url: "https://www.netcup.de/vserver/storagespace.php"
     extension: html
     editors:
       - css_select: main > .container
       - html_prettify
-  - url: https://www.netcup.de/vserver/vserver_images.php
+  - url: "https://www.netcup.de/vserver/vserver_images.php"
     extension: html
     editors:
       - css_select: table
       - html_prettify
 
 
-  - url: https://www.hetzner.com/news/
+  - url: "https://www.hetzner.com/news/"
     extension: xml
     editors:
       - rss:
@@ -196,7 +196,7 @@ sites:
           title_selector: h4
           content_editors:
             - html_prettify
-  - url: https://www.hetzner.com/presse-berichte/
+  - url: "https://www.hetzner.com/presse-berichte/"
     extension: xml
     editors:
       - rss:
@@ -206,21 +206,21 @@ sites:
             - html_prettify
 
   - url:
-      - https://pine64.com/product-category/single-board-computers/
-      - https://pine64.com/product-category/quartz64/
-      - https://pine64.com/product-category/laptops/
-      - https://pine64.com/product-category/smartphones/
-      - https://pine64.com/product-category/tablets/
-      - https://pine64.com/product-category/ip-cameras/
-      - https://pine64.com/product-category/pinecil/
-      - https://pine64.com/product-category/iot/
-      - https://pine64.com/product-category/pinepower/
+      - "https://pine64.com/product-category/single-board-computers/"
+      - "https://pine64.com/product-category/quartz64/"
+      - "https://pine64.com/product-category/laptops/"
+      - "https://pine64.com/product-category/smartphones/"
+      - "https://pine64.com/product-category/tablets/"
+      - "https://pine64.com/product-category/ip-cameras/"
+      - "https://pine64.com/product-category/pinecil/"
+      - "https://pine64.com/product-category/iot/"
+      - "https://pine64.com/product-category/pinepower/"
     extension: md
     editors:
       - css_select: .product
       - css_remove: img, a.button, .woocommerce-Price-currencySymbol
       - html_markdownify
-  - url: https://www.pine64.org/availability-and-shipping-status/
+  - url: "https://www.pine64.org/availability-and-shipping-status/"
     extension: md
     editors:
       - css_select: .elementor-widget-wrap
@@ -231,41 +231,41 @@ sites:
       - html_markdownify
 
 
-  - url: https://www.wdrmaus.de/aktuelle-sendung/
+  - url: "https://www.wdrmaus.de/aktuelle-sendung/"
     extension: html
     editors:
       - css_select: "#content"
       - html_prettify
-  - url: https://www.wdrmaus.de/extras/
+  - url: "https://www.wdrmaus.de/extras/"
     extension: md
     editors:
       - css_select: "#content"
-      - css_remove: script, img
+      - css_remove: "script, img"
       - html_url_canonicalize
       - html_markdownify
-  - url: https://www.wdrmaus.de/filme/sachgeschichten/index.php5?filter=alle
+  - url: "https://www.wdrmaus.de/filme/sachgeschichten/index.php5?filter=alle"
     extension: md
     editors:
-      - css_select: .links
-      - css_remove: script, img
+      - css_select: ".links"
+      - css_remove: "script, img"
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://telegram.org/blog
+  - url: "https://telegram.org/blog"
     extension: xml
     editors:
       - rss:
-          item_selector: .dev_blog_card_link_wrap
+          item_selector: ".dev_blog_card_link_wrap"
           title_selector: h4
           content_editors:
             - html_prettify
-  - url: https://core.telegram.org/bots
+  - url: "https://core.telegram.org/bots"
     extension: md
     editors:
-      - css_select: .container .dev_page
+      - css_select: ".container .dev_page"
       - html_markdownify
-  - url: https://core.telegram.org/bots/api
+  - url: "https://core.telegram.org/bots/api"
     extension: html
     editors:
-      - css_select: .container .dev_page
+      - css_select: ".container .dev_page"
       - html_prettify
