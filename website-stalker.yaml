@@ -28,7 +28,7 @@ sites:
       - html_textify
 
   # Example with html_markdownify
-  - url: https://edjopato.de/post/2020/09-16-zsh/
+  - url: "https://edjopato.de/post/2020/09/16-zsh/"
     extension: md
     editors:
       - css_select: .content
