@@ -1,13 +1,11 @@
 # AirPods
 
-Get 6 months of Apple&nbsp;Music free
-
-with your AirPods.
+Get 6 months of Apple&nbsp;Music free with your AirPods.
 [*](#footnote-1)
 [Learn more](https://offers.applemusic.apple/six-month-offer)
 
-![](/v/airpods/p/images/overview/airpods_3rdgen_left__4rnjhu9z6luu_large.png)
-![](/v/airpods/p/images/overview/airpods_3rdgen_right__dlre1ozlzk2u_large.png)
+![](/v/airpods/q/images/overview/airpods_3rdgen_left__4rnjhu9z6luu_large.png)
+![](/v/airpods/q/images/overview/airpods_3rdgen_right__dlre1ozlzk2u_large.png)
 New
 
 ## AirPods
@@ -16,8 +14,8 @@ New
 
 - [Buy](/us/shop/goto/product/MME73)
 - [Learn more](/airpods-3rd-generation/)
-![](/v/airpods/p/images/overview/airpods_pro_left__bvanpj0ujnf6_large.png)
-![](/v/airpods/p/images/overview/airpods_pro_right__fm0wwisa76em_large.png)
+![](/v/airpods/q/images/overview/airpods_pro_left__bvanpj0ujnf6_large.png)
+![](/v/airpods/q/images/overview/airpods_pro_right__fm0wwisa76em_large.png)
 
 ## AirPods Pro
 
@@ -25,15 +23,15 @@ New
 - [Learn more](/airpods-pro/)
 
 ## AirPods&nbsp;Max
-![](/v/airpods/p/images/overview/airpods_max_logo__bdgdixidcqcy_large.jpg)
-![](/v/airpods/p/images/overview/airpods_max__f265q4g4ddym_large.png)
+![](/v/airpods/q/images/overview/airpods_max_logo__bdgdixidcqcy_large.jpg)
+![](/v/airpods/q/images/overview/airpods_max__f265q4g4ddym_large.png)
 
 ## AirPods&nbsp;Max
 
 - [Buy](/us/shop/goto/buy_airpods/airpods_max)
 - [Learn more](/airpods-max/)
-![](/v/airpods/p/images/overview/airpods_2ndgen_left__gjpt8k836yy6_large.png)
-![](/v/airpods/p/images/overview/airpods_2ndgen_right__gahfggwvcx6q_large.png)
+![](/v/airpods/q/images/overview/airpods_2ndgen_left__gjpt8k836yy6_large.png)
+![](/v/airpods/q/images/overview/airpods_2ndgen_right__gahfggwvcx6q_large.png)
 
 ## AirPods
 
@@ -45,7 +43,7 @@ New
 ### A magical connection to your devices.
 -
 #### One-tap setup
-![](/v/airpods/p/images/overview/tile_onetap_setup__fzj1m8dhjoq6_large.jpg)
+![](/v/airpods/q/images/overview/tile_onetap_setup__fzj1m8dhjoq6_large.jpg)
 More about One-tap setup
 
 #### One-tap setup
@@ -54,7 +52,7 @@ Connect immediately to your iPhone or iPad.
 
 -
 #### Automatic switching
-![](/v/airpods/p/images/overview/tile_automatic_switching__etjisgj91gk2_large.jpg)
+![](/v/airpods/q/images/overview/tile_automatic_switching__etjisgj91gk2_large.jpg)
 More about Automatic switching
 
 #### Automatic switching
@@ -64,7 +62,7 @@ Automatic switching allows sound to move seamlessly between your iPhone, Apple&n
 
 -
 #### Audio Sharing
-![](/v/airpods/p/images/overview/tile_audio_sharing__ord9ku1kssq6_large.jpg)
+![](/v/airpods/q/images/overview/tile_audio_sharing__ord9ku1kssq6_large.jpg)
 More about Audio Sharing
 
 #### Audio Sharing
@@ -85,7 +83,7 @@ A simple “Hey Siri” summons your favorite personal assistant. Control your m
 
 -
 #### Announce Notifications
-![](/v/airpods/p/images/overview/tile_announce_notifications__f2jmuafd1wey_large.jpg)
+![](/v/airpods/q/images/overview/tile_announce_notifications__f2jmuafd1wey_large.jpg)
 
 Skyler said: “Heading to the store. Need anything?”
 

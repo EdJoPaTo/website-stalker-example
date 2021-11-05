@@ -13,9 +13,14 @@ Shop early for the best selection of holiday favorites.
 [Learn more](/iphone-13/)
 [Buy](/us/shop/goto/buy_iphone/iphone_13)
 
-## MacBook Pro
+## Apple TV Plus
 
-### Supercharged for pros.
+### Tom Hanks is Finch
+[Stream now](https://tv.apple.com/movie/umc.cmc.47dkj9f2ho3h8dwxixflz65q5?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-FinchHero-211006)
+
+#### MacBook Pro
+
+##### Supercharged for pros.
 [Learn more](/macbook-pro-14-and-16/)
 [Buy](/us/shop/goto/buy_mac/macbook_pro_14)
 
@@ -48,10 +53,3 @@ New
 ##### Get up to 3% Daily&nbsp;Cash back with every purchase.
 [Learn more](/apple-card/)
 [Apply now](https://card.apple.com/apply/start/?referrer=apy-200-100018)
-
-#### Apple TV Plus
-
-##### Swagger
-
-###### A story inspired by NBA star Kevin&nbsp;Durant.
-[Stream now](https://tv.apple.com/show/umc.cmc.63e208601mwndrxpmguc5stbo?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-SwaggerS1-211101)

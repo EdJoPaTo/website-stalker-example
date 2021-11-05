@@ -58,7 +58,7 @@ Retina display
 Up to 18 hours battery&nbsp;life
 [3](#footnote-4)
 
-720p FaceTime HD&nbsp;camera
+720p FaceTime&nbsp;HD camera
 
 #### 2.8 lb.
 
@@ -101,7 +101,7 @@ Retina display
 Up to 20 hours battery&nbsp;life
 [4](#footnote-5)
 
-720p FaceTime HD&nbsp;camera
+720p FaceTime&nbsp;HD camera
 
 #### 3.0 lb.
 
@@ -152,7 +152,7 @@ Liquid Retina XDR display
 Up to 21 hours battery&nbsp;life
 [5](#footnote-6)
 
-1080p FaceTime HD&nbsp;camera
+1080p FaceTime&nbsp;HD camera
 
 #### 3.5 lb. or 4.7 lb.
 
@@ -192,7 +192,7 @@ Maximum configurable storage
 Retina display
 [6](#footnote-7)
 
-1080p FaceTime HD camera
+1080p FaceTime&nbsp;HD camera
 
 Configurable with Magic&nbsp;Keyboard with Touch&nbsp;ID and Numeric&nbsp;Keypad
 
@@ -228,7 +228,7 @@ Maximum configurable storage
 Retina display
 [2](#footnote-3)
 
-1080p FaceTime HD camera
+1080p FaceTime&nbsp;HD camera
 
 Configurable with Magic&nbsp;Keyboard with Numeric&nbsp;Keypad
 

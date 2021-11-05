@@ -128,7 +128,7 @@ features to
 protect
 
 your privacy.
-[Upgrade to iCloud+](https://icq.icloud.com/?context=ZXh0ZXJuYWxBcHBfY29tLmFwcGxlLm1vYmlsZXNhZmFyaV9hcHBsZS5jb20=)
+[Upgrade to iCloud+](https://icq.icloud.com?context=ZXh0ZXJuYWxBcHBfY29tLmFwcGxlLm1vYmlsZW1haWxfZW1haWxUb0ZyZWVVc2Vy)
 [Learn more](/icloud/)
 -
 A lifetime of photos on all your devices.
