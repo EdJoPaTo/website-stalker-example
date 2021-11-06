@@ -1,4 +1,4 @@
-Bundle and save with Apple One.
+Get up to six services in one subscription with Apple&nbsp;One.
 [Learn&nbsp;more](/apple-one/)
 
 # The best
