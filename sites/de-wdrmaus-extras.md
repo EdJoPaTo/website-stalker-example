@@ -1,4 +1,4 @@
-[Rohstoffe sichern - Urban Mining](https://www.wdrmaus.de/extras/mausthemen/zukunft/urban_mining/index.php5)
+[In der Stadt und auf dem Land](https://www.wdrmaus.de/extras/mausthemen/zukunft/index.php5)
 [Ideen zum Schutz der Umwelt](https://www.wdrmaus.de/extras/mausthemen/umwelt/index.php5)
 - [Bunte Blätter, Laternen und Kürbisse](https://www.wdrmaus.de/extras/mausthemen/herbst/index.php5)
 - [Die Olympische Spiele in Tokio](https://www.wdrmaus.de/extras/mausthemen/olympia/index.php5)
