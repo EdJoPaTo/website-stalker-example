@@ -18,60 +18,60 @@ Compatible with:
 
 ### Raspberry Pi OS with desktop and recommended software
 - Release date:
-May 7th 2021
+October 30th 2021
 - Kernel version:
 5.10
 - Size:
-2,867
+3,045
 MB
 
 Show
 SHA256
 file integrity hash:
-84a711d9ff4c295711a40af43fea38893a20b3b087a48370d8fb926fb541faf5
+77952abf31ed745275d5d20180f60dac7328f95fafbb9b83a91d1b350fc3ad76
 
 [Release notes](https://downloads.raspberrypi.org/raspios_full_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-full.zip)
-[Download torrent](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-full.zip.torrent)
+[Download](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip)
+[Download torrent](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip.torrent)
 
 ### Raspberry Pi OS with desktop
 - Release date:
-May 7th 2021
+October 30th 2021
 - Kernel version:
 5.10
 - Size:
-1,180
+1,148
 MB
 
 Show
 SHA256
 file integrity hash:
-b6c04b34d231f522278fc822d913fed3828d0849e1e7d786db72f52c28036c62
+6e9faca69564c47702d4564b2b15997b87d60483aceef7905ef20ba63b9c6b2b
 
 [Release notes](https://downloads.raspberrypi.org/raspios_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-05-28/2021-05-07-raspios-buster-armhf.zip)
-[Download torrent](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-05-28/2021-05-07-raspios-buster-armhf.zip.torrent)
+[Download](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf.zip)
+[Download torrent](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf.zip.torrent)
 
 ### Raspberry Pi OS Lite
 - Release date:
-May 7th 2021
+October 30th 2021
 - Kernel version:
 5.10
 - Size:
-444
+463
 MB
 
 Show
 SHA256
 file integrity hash:
-c5dad159a2775c687e9281b1a0e586f7471690ae28f2f2282c90e7d59f64273c
+008d7377b8c8b853a6663448a3f7688ba98e2805949127a1d9e8859ff96ee1a9
 
 [Release notes](https://downloads.raspberrypi.org/raspios_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-lite.zip)
-[Download torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-lite.zip.torrent)
+[Download](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-lite.zip)
+[Download torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-lite.zip.torrent)
 
 ## Raspberry Pi Desktop
 
