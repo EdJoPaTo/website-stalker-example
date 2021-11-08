@@ -214,7 +214,7 @@ Save up to
 #### T-Mobile/Sprint, now part of T-Mobile
 
 Get $400 ‑
-									$990
+									$900
 									in&nbsp;credit
 
 #### Verizon

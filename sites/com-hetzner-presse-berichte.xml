@@ -6,6 +6,34 @@
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner Data Center Park Helsinki has expanded with a new data center</title>
+			<link>https://www.hetzner.com/presse-berichte/2021/11/166528</link>
+			<content:encoded>
+				<![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Tuusula, Finland – 08. November 2021
+				</small>
+			</p>
+			<h4>
+				Hetzner Data Center Park Helsinki has expanded with a new data center
+			</h4>
+			<p class="list-card-preview">
+				Hetzner Data Center Park Helsinki in southern Tuusula - recently expanded to include another new data center, which was put into operation in July 2021.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/11/166528">
+                Show more
+			</a>
+		</li>
+	</body>
+</html>]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>Hetzner Goes USA! – Hetzner opens new location in USA</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/11/166514</link>
 			<content:encoded>
@@ -250,34 +278,6 @@
 				The web hosting company and data center operator Hetzner has expanded its line of servers with AMD's third generation of Ryzen CPUs.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/10/164324">
-                Show more
-			</a>
-		</li>
-	</body>
-</html>]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>€25,000 in seed money for new FabLab in Gunzenhausen</title>
-			<link>https://www.hetzner.com/presse-berichte/2019/10/164306</link>
-			<content:encoded>
-				<![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Gunzenhausen – 24. October 2019
-				</small>
-			</p>
-			<h4>
-				€25,000 in seed money for new FabLab in Gunzenhausen
-			</h4>
-			<p class="list-card-preview">
-				 The web hosting company Hetzner Online has provided the new FabLab (Fabrication Laboratory) in Gunzenhausen with €25,000 in financing so that the club can purchase equipment and cover operating costs.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/10/164306">
                 Show more
 			</a>
 		</li>
