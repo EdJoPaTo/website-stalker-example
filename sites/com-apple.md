@@ -1,5 +1,8 @@
 Shop early for the best selection of holiday favorites.
-[Shop now](/us/shop/goto/store)
+[Shop now](/us/shop/goto/gifts)
+
+## Let the holidays&nbsp;be for everyone.
+[Shop gifts](/us/shop/goto/gifts)
 
 ## iPhone 13 Pro
 
@@ -12,11 +15,6 @@ Shop early for the best selection of holiday favorites.
 ### Your new superpower.
 [Learn more](/iphone-13/)
 [Buy](/us/shop/goto/buy_iphone/iphone_13)
-
-## Apple TV Plus
-
-### Tom Hanks is Finch
-[Stream now](https://tv.apple.com/movie/umc.cmc.47dkj9f2ho3h8dwxixflz65q5?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-FinchHero-211006)
 
 #### MacBook Pro
 
@@ -41,15 +39,13 @@ New
 [Learn more](/apple-watch-series-7/)
 [Buy](/us/shop/goto/buy_watch/apple_watch_series_7)
 
-#### Apple Arcade
-
-##### Get 3 months free when you buy a&nbsp;new iPhone, iPad, iPod&nbsp;touch, Apple&nbsp;TV, or Mac.
-[Learn more](/apple-arcade/?itscg=10000&amp;itsct=arc-0-apl_hp-hw_bundle-apl-ref-211025)
-[Try it free](https://offers.applearcade.apple/?itscg=10000&amp;itsct=arc-0-apl_hp-try_tle-apl-ref-211026)
-[1](#footnote-1)
-
 #### Apple Card
 
 ##### Get up to 3% Daily&nbsp;Cash back with every purchase.
 [Learn more](/apple-card/)
 [Apply now](https://card.apple.com/apply/start/?referrer=apy-200-100018)
+
+#### Apple TV Plus
+
+##### Tom Hanks is Finch
+[Stream now](https://tv.apple.com/movie/umc.cmc.47dkj9f2ho3h8dwxixflz65q5?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-FinchTile-211006)

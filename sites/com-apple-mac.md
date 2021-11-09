@@ -1,10 +1,7 @@
 # Mac
 
-Get 3% Daily Cash back with Apple&nbsp;Card. And pay for your new Mac over 12 months,
-
-interest‑free when you choose to check out with Apple&nbsp;Card&nbsp;Monthly&nbsp;Installments.
-[†](#footnote-1)
-[Learn&nbsp;more](/apple-card/monthly-installments/)
+Get your holiday gifts on time.
+[See when to order](/us/shop/goto/gifts/holiday_shipping)
 
 ## New
 MacBook Pro
@@ -307,6 +304,9 @@ Not available
 
 [Compare all Mac models](/mac/compare/)
 [Shop&nbsp;Mac](/us/shop/goto/buy_mac)
+
+### Let the holidays be filled with great&nbsp;gifts.
+[Shop now](/us/shop/goto/gifts)
 
 ## Get 3%
 
