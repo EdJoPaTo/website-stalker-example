@@ -6,6 +6,26 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[all OSs] Default Nodejs version will be set to 16 on November, 29</title>
+			<link>https://github.com/actions/virtual-environments/issues/4446</link>
+			<content:encoded>
+				<![CDATA[Announcement
+
+OS: macOS
+
+OS: Ubuntu
+
+OS: Windows
+
+#4446
+opened
+Nov 9, 2021
+by
+
+miketimofeev]]>
+			</content:encoded>
+		</item>
+		<item>
 			<title>[all OSs] Selenium server version will be upgraded from 3 to 4 on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4376</link>
 			<content:encoded>
