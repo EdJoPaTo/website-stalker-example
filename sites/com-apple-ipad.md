@@ -1,10 +1,7 @@
 # iPad
 
-Get 3% Daily Cash back with Apple&nbsp;Card. And pay for your new iPad over 12 months,
-
-interest-free when you choose to check out with Apple&nbsp;Card&nbsp;Monthly&nbsp;Installments.
-[*](#footnote-1)
-[Learn more](/apple-card/monthly-installments/)
+Get your holiday gifts on time.
+[See when to order](/us/shop/goto/gifts/holiday_shipping)
 
 ## New
 iPad
@@ -173,6 +170,11 @@ Bluetooth&nbsp;keyboards
 
 - [Compare all iPad models](/ipad/compare/)
 - [Shop iPad](/us/shop/goto/buy_ipad)
+
+## Let the holidays be filled with great&nbsp;gifts.
+
+[Shop now](/us/shop/goto/gifts)
+
 Special carrier deals at&nbsp;Apple
 
 ## Buy an iPad with Wi‑Fi + Cellular. Get up to $200 back after activation.

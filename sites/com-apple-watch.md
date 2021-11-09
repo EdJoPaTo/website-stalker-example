@@ -1,6 +1,5 @@
-Get 3% Daily Cash back with Apple&nbsp;Card. And pay for your new Apple&nbsp;Watch over 24 months, interest‑free when you choose to check out with Apple&nbsp;Card Monthly&nbsp;Installments.
-[†](#footnote-1)
-[Learn&nbsp;more](/apple-card/monthly-installments/)
+Get your holiday gifts on time.
+[See when to order](/us/shop/goto/gifts/holiday_shipping)
 
 # Apple Watch
 New
@@ -191,6 +190,9 @@ Emergency SOS
 
 [Compare all models](/watch/compare/)
 [Shop Apple Watch](/us/shop/goto/buy_watch)
+
+### Let the holidays be filled with great&nbsp;gifts.
+[Shop now](/us/shop/goto/gifts)
 
 ## Apple Fitness Plus
 

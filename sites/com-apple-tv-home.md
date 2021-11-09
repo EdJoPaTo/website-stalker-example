@@ -151,3 +151,7 @@ On the big screen.
 [Try it free](https://apps.apple.com/arcade?itscg=10000&amp;itsct=pod-services-arcade-apl-tvhm-21_1019)
 [5](https://apps.apple.com/arcade?itscg=10000&amp;itsct=pod-services-arcade-apl-tvhm-21_1019)
 [Learn more](/apple-arcade/)
+
+### Let the holidays be filled with great&nbsp;gifts.
+
+[Shop now](/us/shop/goto/gifts)

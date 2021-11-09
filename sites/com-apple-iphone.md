@@ -1,10 +1,7 @@
 # iPhone
 
-Get 3% Daily Cash back with Apple Card. And pay for your new iPhone over 24 months,
-
-interest‑free when you choose to check out with Apple Card Monthly Installments.
-[*](#footnote-1)
-[Learn more](/apple-card/monthly-installments/)
+Get your holiday gifts on time.
+[See when to order](/us/shop/goto/gifts/holiday_shipping)
 
 ## iPhone&nbsp;13&nbsp;Pro
 
@@ -190,6 +187,10 @@ MagSafe not-available
 
 - [Compare all iPhone models](/iphone/compare/)
 - [Shop iPhone](/us/shop/goto/buy_iphone)
+
+### Let the holidays be filled with great&nbsp;gifts.
+
+[Shop now](/us/shop/goto/gifts)
 
 ## Ways to Buy iPhone
 
