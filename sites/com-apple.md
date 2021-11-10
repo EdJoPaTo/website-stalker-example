@@ -22,9 +22,11 @@ Shop early for the best selection of holiday favorites.
 [Learn more](/macbook-pro-14-and-16/)
 [Buy](/us/shop/goto/buy_mac/macbook_pro_14)
 
-#### HomePod mini
-[Learn more](/homepod-mini/)
-[Buy](/us/shop/goto/buy_homepod/homepod_mini)
+#### Introducing Apple Business Essentials
+
+##### The easiest way for small businesses to manage every aspect of their Apple&nbsp;devices.
+[Learn more](/business/essentials/)
+[Watch the film](/business/essentials#film)
 
 #### AirPods
 
