@@ -1,5 +1,7 @@
-Shop early for the best selection of holiday favorites.
-[Shop now](/us/shop/goto/gifts)
+## Here’s to the brave ones.
+
+### We’re proud to honor America’s veterans and service members this Veterans Day and every day.
+[Shop with Veterans and&nbsp;Military&nbsp;discount](/us/shop/goto/eppstore/veteransandmilitary)
 
 ## Let the holidays&nbsp;be for everyone.
 [Shop gifts](/us/shop/goto/gifts)
