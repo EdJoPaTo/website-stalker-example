@@ -296,6 +296,7 @@
 - [Haargel](https://www.wdrmaus.de/filme/sachgeschichten/haargel.php5)
 - [Haarkamm](https://www.wdrmaus.de/filme/sachgeschichten/haarkamm.php5)
 - [Händewaschen](https://www.wdrmaus.de/filme/sachgeschichten/haendewaschen.php5)
+- [Haferflocken](https://www.wdrmaus.de/filme/sachgeschichten/haferflocken.php5)
 - [Haltestellenanzeige](https://www.wdrmaus.de/filme/sachgeschichten/haltestellenanzeige.php5)
 - [Handy Vibrieren](https://www.wdrmaus.de/filme/sachgeschichten/handy_vibrieren.php5)
 - [Handyladegerät](https://www.wdrmaus.de/filme/sachgeschichten/handyladegeraet.php5)
