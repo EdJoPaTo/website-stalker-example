@@ -2,16 +2,25 @@ name: website-stalker
 
 on:
   push:
-    branches-ignore:
-      - edge
+  workflow_dispatch:
   schedule:
     - cron:  '17 */2 * * *' # every two hours at minute 17
 
 jobs:
   website-stalker:
     runs-on: ubuntu-latest
+    env:
+      WEBSITE_STALKER_FROM: ${{ secrets.WEBSITE_STALKER_FROM }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_TARGET_CHAT: "-1001569012086"
+      TELEGRAM_DISABLE_WEB_PAGE_PREVIEW: true
     steps:
       - uses: actions/checkout@v2
+
+      - name: Check website-stalker config
+        uses: docker://ghcr.io/edjopato/website-stalker:latest
+        with:
+          args: check
 
       - name: Run website-stalker
         uses: docker://ghcr.io/edjopato/website-stalker:latest

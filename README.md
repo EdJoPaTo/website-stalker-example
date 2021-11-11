@@ -19,5 +19,8 @@ See the [workflow file](https://github.com/EdJoPaTo/website-stalker-example/blob
 - You can watch a GitHub repo in the upper right corner.
 - GitHub built in Atom Feed.
     For example the one for the main branch: https://github.com/EdJoPaTo/website-stalker-example/commits/main.atom
-- Notification Mail.
+- GitHub Notification Mail.
     If you can access the settings of a repo (your own) you can head to [Settings → Notifications](https://github.com/EdJoPaTo/website-stalker/settings/notifications) in order to configure email notifications.
+- [pling](https://github.com/EdJoPaTo/pling) notifications.
+    Configured via environment variables.
+    This example configures notifications into this [Telegram channel](https://telegram.me/WebsiteStalkerExample).

@@ -4,12 +4,11 @@
 		<title>News - Hetzner Online GmbH</title>
 		<link>https://www.hetzner.com/news/</link>
 		<description></description>
-		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Hetzner Goes USA! – Hetzner opens new location for cloud servers</title>
 			<link>https://www.hetzner.com/news/11-21-usa-cloud/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -30,14 +29,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>New Possibilities: Apple Mac mini M1</title>
 			<link>https://www.hetzner.com/news/10-21-apple-mac-mini-m1/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -58,14 +55,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Need a price hero? The September setup special will save your wallet!</title>
 			<link>https://www.hetzner.com/news/09-21-setup-special/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -86,14 +81,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Running out of space? The new SX-line has arrived.</title>
 			<link>https://www.hetzner.com/news/06-21-sx-line/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -114,14 +107,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Nothing stacks up to EPYC™: New dedicated vCPU servers with the AMD EPYC™ 7003 Series processor are now available</title>
 			<link>https://www.hetzner.com/news/03-21-cloud-amd/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -142,14 +133,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Firewall Beta for Hetzner Cloud available</title>
 			<link>https://www.hetzner.com/news/03-21-firewall-beta/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -170,14 +159,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Break through to new dimensions with the Dedicated Root Server AX101</title>
 			<link>https://www.hetzner.com/news/02-21-ax101/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -198,14 +185,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>The new storage giants — Perfect for large amounts of data</title>
 			<link>https://www.hetzner.com/news/01-21-storage-server/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -226,14 +211,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>The new Dedicated Root Server PX93: High performance computing for intense workloads</title>
 			<link>https://www.hetzner.com/news/12-20-px93/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -254,14 +237,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Black Weekend - No setup fee on select dedicated root servers</title>
 			<link>https://www.hetzner.com/news/11-20-black-weekend/</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -282,8 +263,7 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 	</channel>
 </rss>

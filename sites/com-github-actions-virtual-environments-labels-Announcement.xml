@@ -4,12 +4,11 @@
 		<title>GitHub Actions virtual-environments Announcements</title>
 		<link>https://github.com/actions/virtual-environments/labels/Announcement</link>
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
-		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>[all OSs] Default Nodejs version will be set to 16 on November, 29</title>
 			<link>https://github.com/actions/virtual-environments/issues/4446</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 OS: macOS
 
@@ -22,14 +21,12 @@ opened
 Nov 9, 2021
 by
 
-miketimofeev]]>
-			</content:encoded>
+miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>[all OSs] Selenium server version will be upgraded from 3 to 4 on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4376</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 OS: macOS
 
@@ -42,14 +39,12 @@ opened
 Oct 29, 2021
 by
 
-miketimofeev]]>
-			</content:encoded>
+miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>[Ubuntu] Node:10 docker images will be removed on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4357</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 Area: Containers
 
@@ -60,14 +55,12 @@ opened
 Oct 27, 2021
 by
 
-miketimofeev]]>
-			</content:encoded>
+miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>[All OSs] Node.js version 10 will be removed from the images on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4356</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 OS: macOS
 
@@ -80,14 +73,12 @@ opened
 Oct 27, 2021
 by
 
-miketimofeev]]>
-			</content:encoded>
+miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>[macOS Big Sur] Xcode 13 beta will be removed and Xcode 13.1 set as default on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4355</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 Area: Apple
 
@@ -100,14 +91,12 @@ opened
 Oct 27, 2021
 by
 
-miketimofeev]]>
-			</content:encoded>
+miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>Windows-2016 environment will be removed on March 15, 2022</title>
 			<link>https://github.com/actions/virtual-environments/issues/4312</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 OS: Windows
 
@@ -116,14 +105,12 @@ opened
 Oct 19, 2021
 by
 
-miketimofeev]]>
-			</content:encoded>
+miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>[All OSs] Go versions less than 1.15 will be removed on November, 8</title>
 			<link>https://github.com/actions/virtual-environments/issues/4311</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 Area: Go
 
@@ -140,14 +127,12 @@ opened
 Oct 19, 2021
 by
 
-miketimofeev]]>
-			</content:encoded>
+miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>macOS-latest workflows will use macOS-11</title>
 			<link>https://github.com/actions/virtual-environments/issues/4060</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 OS: macOS
 
@@ -156,14 +141,12 @@ opened
 Sep 10, 2021
 by
 
-miketimofeev]]>
-			</content:encoded>
+miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>(Public Beta) Windows Server 2022 with Visual Studio 2022 is now available</title>
 			<link>https://github.com/actions/virtual-environments/issues/3949</link>
-			<content:encoded>
-				<![CDATA[Announcement
+			<content:encoded><![CDATA[Announcement
 
 OS: Windows
 
@@ -172,8 +155,7 @@ opened
 Aug 23, 2021
 by
 
-maxim-lobanov]]>
-			</content:encoded>
+maxim-lobanov]]></content:encoded>
 		</item>
 	</channel>
 </rss>

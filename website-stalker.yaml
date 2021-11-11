@@ -5,42 +5,44 @@
 # For example run `website-stalker example-config > website-stalker.yaml`.
 # And then do a run via `website-stalker run`.
 ---
-from: website-stalker-example-github@edjopato.de
+notification_template: |
+  {{#sites}}
+  - {{.}}
+  {{/sites}}
+
+  {{#commit}}
+  https://github.com/EdJoPaTo/website-stalker-example/commit/{{.}}
+  {{/commit}}
+
 sites:
   # Basic example
   - url: "https://edjopato.de/"
-    extension: html
     editors:
       - html_prettify
 
   # Example with css selector
   - url: "https://rain-brainz.de/"
-    extension: html
     editors:
       - css_select: main a img
       - html_prettify
 
   # Example with html_textify
   - url: "https://edjopato.de/impressum/"
-    extension: txt
     editors:
       - css_select: h1
       - html_textify
 
   # Example with html_markdownify
   - url: "https://edjopato.de/post/2020/09/16-zsh/"
-    extension: md
     editors:
       - css_select: .content
       - html_markdownify
 
   # Example of a text only entry
   - url: "https://edjopato.de/robots.txt"
-    extension: txt
 
   # Example with RSS
   - url: "https://edjopato.de/post/"
-    extension: xml
     editors:
       - rss:
           title: EdJoPaTos Blog
@@ -52,27 +54,22 @@ sites:
 
 
   - url: "https://wiki.gnome.org/Schedule"
-    extension: md
     editors:
       - css_select: "#content"
       - html_markdownify
   - url: "https://www.raspberrypi.com/software/operating-systems/"
-    extension: md
     editors:
       - css_select: main
       - css_remove: img
       - html_markdownify
   - url: "https://raspi.debian.net/tested-images/"
-    extension: html
     editors:
       - css_select: "#content"
       - html_prettify
   - url: "https://files.teamspeak-services.com/releases/server/"
-    extension: html
     editors:
       - html_prettify
   - url: "https://us.diablo3.com/en-us/"
-    extension: xml
     editors:
       - rss:
           item_selector: .article-wrapper
@@ -81,7 +78,6 @@ sites:
             - css_remove: h2
             - html_textify
   - url: "https://github.com/actions/virtual-environments/labels/Announcement"
-    extension: xml
     editors:
       - rss:
           title: GitHub Actions virtual-environments Announcements
@@ -92,7 +88,6 @@ sites:
             - html_textify
 
   - url: "https://blinry.org/"
-    extension: html
     editors:
       - css_select: .box
       - html_prettify
@@ -100,7 +95,6 @@ sites:
   - url:
       - "https://jonas.lol/"
       - "https://jonas.lol/projects/"
-    extension: html
     editors:
       - css_select: body
       - css_remove: script
@@ -110,11 +104,9 @@ sites:
       - html_prettify
 
   - url: "https://www.conventionalcommits.org/en/"
-    extension: html
     editors:
       - html_prettify
   - url: "https://www.conventionalcommits.org/en/v1.0.0/"
-    extension: html
     editors:
       - css_select: article
       - html_prettify
@@ -139,7 +131,6 @@ sites:
       - "https://www.apple.com/healthcare/"
       - "https://www.apple.com/healthcare/apple-watch/"
       - "https://www.apple.com/healthcare/health-records/"
-    extension: md
     editors:
       - css_select: main
       - css_remove: noscript
@@ -149,17 +140,14 @@ sites:
       - "https://www.apple.com/ipad/compare/"
       - "https://www.apple.com/iphone/compare/"
       - "https://www.apple.com/airpods/compare/"
-    extension: html
     editors:
       - css_select: "#backport-data"
       - html_prettify
   - url: "https://www.apple.com/watch/compare/"
-    extension: html
     editors:
       - css_select: main
       - html_prettify
   - url: "https://beta.apple.com/sp/betaprogram"
-    extension: md
     editors:
       - css_select: .content
       - html_markdownify
@@ -172,24 +160,20 @@ sites:
       - "https://www.netcup.de/vserver/root-server-erweiterungen.php"
       - "https://www.netcup-sonderangebote.de/"
       - "https://www.netcup.de/adventskalender/"
-    extension: html
     editors:
       - css_select: .card
       - html_prettify
   - url: "https://www.netcup.de/vserver/storagespace.php"
-    extension: html
     editors:
       - css_select: main > .container
       - html_prettify
   - url: "https://www.netcup.de/vserver/vserver_images.php"
-    extension: html
     editors:
       - css_select: table
       - html_prettify
 
 
   - url: "https://www.hetzner.com/news/"
-    extension: xml
     editors:
       - rss:
           item_selector: .list-card li
@@ -197,7 +181,6 @@ sites:
           content_editors:
             - html_prettify
   - url: "https://www.hetzner.com/presse-berichte/"
-    extension: xml
     editors:
       - rss:
           item_selector: .list-news li
@@ -215,13 +198,11 @@ sites:
       - "https://pine64.com/product-category/pinecil/"
       - "https://pine64.com/product-category/iot/"
       - "https://pine64.com/product-category/pinepower/"
-    extension: md
     editors:
       - css_select: .product
       - css_remove: img, a.button, .woocommerce-Price-currencySymbol
       - html_markdownify
   - url: "https://www.pine64.org/availability-and-shipping-status/"
-    extension: md
     editors:
       - css_select: .elementor-widget-wrap
       - css_remove: .elementor-spacer, .elementor-widget-image, .elementor-title, .elementor-progress-bar
@@ -232,19 +213,16 @@ sites:
 
 
   - url: "https://www.wdrmaus.de/aktuelle-sendung/"
-    extension: html
     editors:
       - css_select: "#content"
       - html_prettify
   - url: "https://www.wdrmaus.de/extras/"
-    extension: md
     editors:
       - css_select: "#content"
       - css_remove: "script, img"
       - html_url_canonicalize
       - html_markdownify
   - url: "https://www.wdrmaus.de/filme/sachgeschichten/index.php5?filter=alle"
-    extension: md
     editors:
       - css_select: ".links"
       - css_remove: "script, img"
@@ -252,7 +230,6 @@ sites:
       - html_markdownify
 
   - url: "https://telegram.org/blog"
-    extension: xml
     editors:
       - rss:
           item_selector: ".dev_blog_card_link_wrap"
@@ -260,12 +237,10 @@ sites:
           content_editors:
             - html_prettify
   - url: "https://core.telegram.org/bots"
-    extension: md
     editors:
       - css_select: ".container .dev_page"
       - html_markdownify
   - url: "https://core.telegram.org/bots/api"
-    extension: html
     editors:
       - css_select: ".container .dev_page"
       - html_prettify

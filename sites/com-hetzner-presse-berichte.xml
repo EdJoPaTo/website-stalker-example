@@ -4,12 +4,11 @@
 		<title>Press Releases - Hetzner Online GmbH</title>
 		<link>https://www.hetzner.com/presse-berichte/</link>
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
-		<generator>website-stalker/0.15.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Hetzner Data Center Park Helsinki has expanded with a new data center</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/11/166528</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -30,14 +29,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Hetzner Goes USA! – Hetzner opens new location in USA</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/11/166514</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -58,14 +55,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Hetzner wins platinum in the category cloud server</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/09/166057</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -86,14 +81,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Setup special at Hetzner in September</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/09/166050</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -114,14 +107,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Hetzner now offering AMD EPYC™ 7003 Series processor powered cloud servers</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/03/165926</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -142,14 +133,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Data Center Park Helsinki is expanding</title>
 			<link>https://www.hetzner.com/presse-berichte/2020/10/165434</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -170,14 +159,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Platinum for Hetzner Online at the Service Provider Awards 2020</title>
 			<link>https://www.hetzner.com/presse-berichte/2020/09/165426</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -198,14 +185,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Hetzner introduces Load Balancers to its Cloud platform</title>
 			<link>https://www.hetzner.com/presse-berichte/2020/06/165268</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -226,14 +211,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Corona crisis: Hetzner Online supports self-help contact organization &quot;Kiss Mittelfranken&quot; with up to 100 Storage Share instances</title>
 			<link>https://www.hetzner.com/presse-berichte/2020/04/165030</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -254,14 +237,12 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Hetzner Online launches new Ryzen based dedicated root servers</title>
 			<link>https://www.hetzner.com/presse-berichte/2019/10/164324</link>
-			<content:encoded>
-				<![CDATA[<html>
+			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
@@ -282,8 +263,7 @@
 			</a>
 		</li>
 	</body>
-</html>]]>
-			</content:encoded>
+</html>]]></content:encoded>
 		</item>
 	</channel>
 </rss>
