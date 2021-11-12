@@ -124,28 +124,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>[All OSs] Go versions less than 1.15 will be removed on November, 8</title>
-			<link>https://github.com/actions/virtual-environments/issues/4311</link>
-			<content:encoded><![CDATA[Announcement
-
-Area: Go
-
-awaiting-deployment
-
-OS: macOS
-
-OS: Ubuntu
-
-OS: Windows
-
-#4311
-opened
-Oct 19, 2021
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>macOS-latest workflows will use macOS-11</title>
 			<link>https://github.com/actions/virtual-environments/issues/4060</link>
 			<content:encoded><![CDATA[Announcement

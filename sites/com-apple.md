@@ -51,5 +51,5 @@ New
 
 #### Apple TV Plus
 
-##### Tom Hanks is Finch
-[Stream now](https://tv.apple.com/movie/umc.cmc.47dkj9f2ho3h8dwxixflz65q5?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-FinchTile-211006)
+##### The Shrink Next Door
+[Stream now](https://tv.apple.com/show/the-shrink-next-door/umc.cmc.jov1gljmqnux0i15rbqsoyfk?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-TSND-211111)
