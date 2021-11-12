@@ -1,55 +1,79 @@
-## Here’s to the brave ones.
+Shop early for the best selection of holiday&nbsp;favorites.
+[Shop&nbsp;now](/goto/store)
 
-### We’re proud to honor America’s veterans and service members this Veterans Day and every day.
-[Shop with Veterans and&nbsp;Military&nbsp;discount](/us/shop/goto/eppstore/veteransandmilitary)
+![](/v/home/hi/images/overview/holiday-2021/holiday_logo__cin7if5cjxpy_large.png)
 
-## Let the holidays&nbsp;be for everyone.
-[Shop gifts](/us/shop/goto/gifts)
+## Let the holidays
 
-## iPhone 13 Pro
+be for everyone.
+[Shop Gifts](/us/shop/goto/gifts)
 
-### Oh. So. Pro.
-[Learn more](/iphone-13-pro/)
-[Buy](/us/shop/goto/buy_iphone/iphone_13_pro)
+### [iPhone 13](/shop/goto/buy_iphone/iphone_13)
 
-## iPhone 13
+[iPhone 13](/shop/goto/buy_iphone/iphone_13)
 
-### Your new superpower.
-[Learn more](/iphone-13/)
-[Buy](/us/shop/goto/buy_iphone/iphone_13)
+[From $699](/shop/goto/buy_iphone/iphone_13)
 
-#### MacBook Pro
+### [AirPods](/shop/goto/product/MME73AM/A)
 
-##### Supercharged for pros.
-[Learn more](/macbook-pro-14-and-16/)
-[Buy](/us/shop/goto/buy_mac/macbook_pro_14)
+[(3rd&nbsp;generation)](/shop/goto/product/MME73AM/A)
 
-#### Introducing Apple Business Essentials
+[AirPods](/shop/goto/product/MME73AM/A)
 
-##### The easiest way for small businesses to manage every aspect of their Apple&nbsp;devices.
-[Learn more](/business/essentials/)
-[Watch the film](/business/essentials#film)
+[(3rd&nbsp;generation)](/shop/goto/product/MME73AM/A)
 
-#### AirPods
+[$179](/shop/goto/product/MME73AM/A)
 
-##### All-new with Spatial Audio
-[Learn more](/airpods-3rd-generation/)
-[Buy](/us/shop/goto/product/MME73)
-New
+### [Apple Watch Series 7](/shop/goto/apple_watch)
 
-#### Apple Watch Series 7
+[Apple Watch Series 7](/shop/goto/apple_watch)
 
-##### Introducing our largest display yet.
-[Learn more](/apple-watch-series-7/)
-[Buy](/us/shop/goto/buy_watch/apple_watch_series_7)
+[From $399](/shop/goto/apple_watch)
 
-#### Apple Card
+### [HomePod mini](/shop/goto/buy_homepod/homepod_mini)
 
-##### Get up to 3% Daily&nbsp;Cash back with every purchase.
-[Learn more](/apple-card/)
-[Apply now](https://card.apple.com/apply/start/?referrer=apy-200-100018)
+[HomePod mini](/shop/goto/buy_homepod/homepod_mini)
 
-#### Apple TV Plus
+[$99](/shop/goto/buy_homepod/homepod_mini)
 
-##### The Shrink Next Door
-[Stream now](https://tv.apple.com/show/the-shrink-next-door/umc.cmc.jov1gljmqnux0i15rbqsoyfk?itscg=10000&amp;itsct=atv-apl_hp-pmo_wch-TSND-211111)
+### [iPad mini](/shop/goto/buy_ipad/ipad_mini)
+
+[iPad mini](/shop/goto/buy_ipad/ipad_mini)
+
+[From $499](/shop/goto/buy_ipad/ipad_mini)
+
+### [iPhone 13 Pro](/shop/goto/buy_iphone/iphone_13_pro)
+
+[iPhone 13 Pro](/shop/goto/buy_iphone/iphone_13_pro)
+
+[From $999](/shop/goto/buy_iphone/iphone_13_pro)
+
+### [MacBook Pro 14-inch](/us/shop/goto/buy_mac/macbook_pro_14)
+
+[MacBook Pro 14-inch](/us/shop/goto/buy_mac/macbook_pro_14)
+
+[From $1999](/us/shop/goto/buy_mac/macbook_pro_14)
+
+### [iMac](/shop/goto/imac)
+
+[iMac](/shop/goto/imac)
+
+[From $1299](/shop/goto/imac)
+
+### [iPad Pro](/shop/goto/buy_ipad/ipad_pro)
+
+[iPad Pro](/shop/goto/buy_ipad/ipad_pro)
+
+[From $799](/shop/goto/buy_ipad/ipad_pro)
+
+![Logo of happy face emoji](/v/home/hi/images/overview/holiday-2021/icon_engrave__ejwaksasa1m6_large.png)
+
+Engrave their gift in time for the holidays with a mix of emoji, names, initials, and numbers. Only&nbsp;at&nbsp;Apple.
+
+[Learn more](/shop/goto/engraving_and_gift_wrap)
+
+![Logo of three Apple watches](/v/home/hi/images/overview/holiday-2021/icon_mixandmatch__emvtt45nkk66_large.png)
+
+Mix and match cases and bands to their style. Only&nbsp;at Apple.
+
+[Learn more](/shop/goto/studio/apple_watch)
