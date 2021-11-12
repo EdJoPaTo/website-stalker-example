@@ -1,5 +1,5 @@
 Shop early for the best selection of holiday&nbsp;favorites.
-[Shop&nbsp;now](/goto/store)
+[Shop&nbsp;now](/us/shop/goto/gifts)
 
 ![](/v/home/hi/images/overview/holiday-2021/holiday_logo__cin7if5cjxpy_large.png)
 
