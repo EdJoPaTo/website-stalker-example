@@ -1,79 +1,120 @@
-Shop early for the best selection of holiday&nbsp;favorites.
-[Shop&nbsp;now](/us/shop/goto/gifts)
+- [Global Nav Open Menu](https://www.apple.com/#ac-gn-menustate)
+[Global Nav Close Menu](https://www.apple.com/#)
+- [Apple](https://www.apple.com/)
+- [Shopping Bag](https://www.apple.com/us/shop/goto/bag)
++
+[Search apple.com](https://www.apple.com/us/search)
+[Cancel](https://www.apple.com/us/search)
+- [Apple](https://www.apple.com/)
+- [Store](https://www.apple.com/us/shop/goto/store)
+- [Mac](https://www.apple.com/mac/)
+- [iPad](https://www.apple.com/ipad/)
+- [iPhone](https://www.apple.com/iphone/)
+- [Watch](https://www.apple.com/watch/)
+- [AirPods](https://www.apple.com/airpods/)
+- [TV &amp; Home](https://www.apple.com/tv-home/)
+- [Only on Apple](https://www.apple.com/services/)
+- [Accessories](https://www.apple.com/us/shop/goto/buy_accessories)
+- [Support](https://support.apple.com/)
+- - [Shopping Bag](https://www.apple.com/us/shop/goto/bag)
++
+Cancel
 
-![](/v/home/hi/images/overview/holiday-2021/holiday_logo__cin7if5cjxpy_large.png)
+### Shop and Learn
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-products)
+[Close Menu](https://www.apple.com/#)
+- [Store](https://www.apple.com/us/shop/goto/store)
+- [Mac](https://www.apple.com/mac/)
+- [iPad](https://www.apple.com/ipad/)
+- [iPhone](https://www.apple.com/iphone/)
+- [Watch](https://www.apple.com/watch/)
+- [AirPods](https://www.apple.com/airpods/)
+- [TV &amp; Home](https://www.apple.com/tv-home/)
+- [iPod touch](https://www.apple.com/ipod-touch/)
+- [AirTag](https://www.apple.com/airtag/)
+- [Accessories](https://www.apple.com/us/shop/goto/buy_accessories)
+- [Gift Cards](https://www.apple.com/us/shop/goto/giftcards)
 
-## Let the holidays
+### Services
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-services)
+[Close Menu](https://www.apple.com/#)
+- [Apple&nbsp;Music](https://www.apple.com/apple-music/)
+- [Apple&nbsp;TV+](https://www.apple.com/apple-tv-plus/)
+- [Apple&nbsp;Fitness+](https://www.apple.com/apple-fitness-plus/)
+- [Apple&nbsp;News+](https://www.apple.com/apple-news/)
+- [Apple&nbsp;Arcade](https://www.apple.com/apple-arcade/)
+- [iCloud](https://www.apple.com/icloud/)
+- [Apple&nbsp;One](https://www.apple.com/apple-one/)
+- [Apple&nbsp;Card](https://www.apple.com/apple-card/)
+- [Apple&nbsp;Books](https://www.apple.com/apple-books/)
+- [Apple Podcasts](https://www.apple.com/apple-podcasts/)
+- [App&nbsp;Store](https://www.apple.com/app-store/)
 
-be for everyone.
-[Shop Gifts](/us/shop/goto/gifts)
+### Account
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-accounts)
+[Close Menu](https://www.apple.com/#)
+- [Manage Your Apple&nbsp;ID](https://appleid.apple.com/us/)
+- [Apple Store Account](https://www.apple.com/us/shop/goto/account)
+- [iCloud.com](https://www.icloud.com/)
 
-### [iPhone 13](/shop/goto/buy_iphone/iphone_13)
+### Apple Store
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-storeservices)
+[Close Menu](https://www.apple.com/#)
+- [Find a Store](https://www.apple.com/retail/)
+- [Genius Bar](https://www.apple.com/retail/geniusbar/)
+- [Today at Apple](https://www.apple.com/today/)
+- [Apple Camp](https://www.apple.com/today/camp/)
+- [Apple Store App](https://apps.apple.com/us/app/apple-store/id375380948)
+- [Refurbished and Clearance](https://www.apple.com/us/shop/goto/special_deals)
+- [Financing](https://www.apple.com/us/shop/goto/payment_plan)
+- [Apple&nbsp;Trade&nbsp;In](https://www.apple.com/us/shop/goto/trade_in)
+- [Order Status](https://www.apple.com/us/shop/goto/order/list)
+- [Shopping Help](https://www.apple.com/us/shop/goto/help)
 
-[iPhone 13](/shop/goto/buy_iphone/iphone_13)
+### For Business
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-business)
+[Close Menu](https://www.apple.com/#)
+- [Apple and Business](https://www.apple.com/business/)
+- [Shop for Business](https://www.apple.com/retail/business/)
 
-[From $699](/shop/goto/buy_iphone/iphone_13)
+### For Education
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-education)
+[Close Menu](https://www.apple.com/#)
+- [Apple and Education](https://www.apple.com/education/)
+- [Shop for K-12](https://www.apple.com/education/k12/how-to-buy/)
+- [Shop for College](https://www.apple.com/us/shop/goto/educationrouting)
 
-### [AirPods](/shop/goto/product/MME73AM/A)
+### For Healthcare
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-healthcare)
+[Close Menu](https://www.apple.com/#)
+- [Apple in Healthcare](https://www.apple.com/healthcare/)
+- [Health on Apple&nbsp;Watch](https://www.apple.com/healthcare/apple-watch/)
+- [Health Records on iPhone](https://www.apple.com/healthcare/health-records/)
 
-[(3rd&nbsp;generation)](/shop/goto/product/MME73AM/A)
+### For Government
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-government)
+[Close Menu](https://www.apple.com/#)
+- [Shop for Government](https://www.apple.com/r/store/government/)
+- [Shop for Veterans and Military](https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary)
 
-[AirPods](/shop/goto/product/MME73AM/A)
+### Apple Values
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-responsibility)
+[Close Menu](https://www.apple.com/#)
+- [Accessibility](https://www.apple.com/accessibility/)
+- [Education](https://www.apple.com/education/connectED/)
+- [Environment](https://www.apple.com/environment/)
+- [Inclusion and Diversity](https://www.apple.com/diversity/)
+- [Privacy](https://www.apple.com/privacy/)
+- [Racial Equity and Justice](https://www.apple.com/racial-equity-justice-initiative/)
+- [Supplier Responsibility](https://www.apple.com/supplier-responsibility/)
 
-[(3rd&nbsp;generation)](/shop/goto/product/MME73AM/A)
-
-[$179](/shop/goto/product/MME73AM/A)
-
-### [Apple Watch Series 7](/shop/goto/apple_watch)
-
-[Apple Watch Series 7](/shop/goto/apple_watch)
-
-[From $399](/shop/goto/apple_watch)
-
-### [HomePod mini](/shop/goto/buy_homepod/homepod_mini)
-
-[HomePod mini](/shop/goto/buy_homepod/homepod_mini)
-
-[$99](/shop/goto/buy_homepod/homepod_mini)
-
-### [iPad mini](/shop/goto/buy_ipad/ipad_mini)
-
-[iPad mini](/shop/goto/buy_ipad/ipad_mini)
-
-[From $499](/shop/goto/buy_ipad/ipad_mini)
-
-### [iPhone 13 Pro](/shop/goto/buy_iphone/iphone_13_pro)
-
-[iPhone 13 Pro](/shop/goto/buy_iphone/iphone_13_pro)
-
-[From $999](/shop/goto/buy_iphone/iphone_13_pro)
-
-### [MacBook Pro 14-inch](/us/shop/goto/buy_mac/macbook_pro_14)
-
-[MacBook Pro 14-inch](/us/shop/goto/buy_mac/macbook_pro_14)
-
-[From $1999](/us/shop/goto/buy_mac/macbook_pro_14)
-
-### [iMac](/shop/goto/imac)
-
-[iMac](/shop/goto/imac)
-
-[From $1299](/shop/goto/imac)
-
-### [iPad Pro](/shop/goto/buy_ipad/ipad_pro)
-
-[iPad Pro](/shop/goto/buy_ipad/ipad_pro)
-
-[From $799](/shop/goto/buy_ipad/ipad_pro)
-
-![Logo of happy face emoji](/v/home/hi/images/overview/holiday-2021/icon_engrave__ejwaksasa1m6_large.png)
-
-Engrave their gift in time for the holidays with a mix of emoji, names, initials, and numbers. Only&nbsp;at&nbsp;Apple.
-
-[Learn more](/shop/goto/engraving_and_gift_wrap)
-
-![Logo of three Apple watches](/v/home/hi/images/overview/holiday-2021/icon_mixandmatch__emvtt45nkk66_large.png)
-
-Mix and match cases and bands to their style. Only&nbsp;at Apple.
-
-[Learn more](/shop/goto/studio/apple_watch)
+### About Apple
+[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-about)
+[Close Menu](https://www.apple.com/#)
+- [Newsroom](https://www.apple.com/newsroom/)
+- [Apple Leadership](https://www.apple.com/leadership/)
+- [Career Opportunities](https://www.apple.com/careers/us/)
+- [Investors](https://investor.apple.com/)
+- [Ethics &amp; Compliance](https://www.apple.com/compliance/)
+- [Events](https://www.apple.com/apple-events/)
+- [Contact Apple](https://www.apple.com/contact/)

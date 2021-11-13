@@ -118,9 +118,16 @@ sites:
       - css_select: article
       - html_prettify
 
-
   - url:
       - "https://www.apple.com/"
+      - "https://www.apple.com/de/"
+    editors:
+      - css_select: nav
+      - html_url_canonicalize
+      - html_markdownify
+  - url:
+      - "https://www.apple.com/sitemap/"
+      - "https://www.apple.com/de/sitemap/"
       - "https://www.apple.com/mac/"
       - "https://www.apple.com/ipad/"
       - "https://www.apple.com/iphone/"
@@ -138,9 +145,12 @@ sites:
       - "https://www.apple.com/healthcare/"
       - "https://www.apple.com/healthcare/apple-watch/"
       - "https://www.apple.com/healthcare/health-records/"
+      - "https://www.apple.com/apple-pay/"
+      - "https://www.apple.com/de/apple-pay/"
     editors:
       - css_select: main
-      - css_remove: noscript
+      - css_remove: noscript, img, picture, .footnote
+      - html_url_canonicalize
       - html_markdownify
   - url:
       - "https://www.apple.com/mac/compare/"
@@ -149,14 +159,19 @@ sites:
       - "https://www.apple.com/airpods/compare/"
     editors:
       - css_select: "#backport-data"
+      - css_remove: noscript, img, picture, .footnote
+      - html_url_canonicalize
       - html_prettify
   - url: "https://www.apple.com/watch/compare/"
     editors:
       - css_select: main
+      - css_remove: noscript, img, picture, .footnote
+      - html_url_canonicalize
       - html_prettify
   - url: "https://beta.apple.com/sp/betaprogram"
     editors:
       - css_select: .content
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -217,7 +232,6 @@ sites:
           pattern: <div[^>]+valuenow="(\d+)[^>]+>[^<]*<.div>
           replace: $1 %
       - html_markdownify
-
 
   - url: "https://www.wdrmaus.de/aktuelle-sendung/"
     editors:

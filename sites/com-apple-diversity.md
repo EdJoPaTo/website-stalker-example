@@ -2,16 +2,6 @@
 
 Across Apple, we’ve strengthened our long-standing commitment to making our company more inclusive and the world more just. Where every great idea can be heard. And everybody&nbsp;belongs.
 
-![](/v/diversity/f/images/overview/hero_accessability__bbw22tyfp0hu_large.jpg)
-![](/v/diversity/f/images/overview/hero_inclusion__e8cp2poqg5ui_large.jpg)
-![](/v/diversity/f/images/overview/hero_cupertino__fp9k4zzd242m_large.jpg)
-![](/v/diversity/f/images/overview/hero_greenshirts__epg0e2i0a2i6_large.jpg)
-![](/v/diversity/f/images/overview/hero_lab__bdawf3rvtgtu_large.jpg)
-![](/v/diversity/f/images/overview/hero_applestore_charlotte__f0z6yvgr2x6q_large.jpg)
-![](/v/diversity/f/images/overview/hero_retail_paris__eq6ycqf8qb2a_large.jpg)
-![](/v/diversity/f/images/overview/hero_appleretail_mask__c11wkuqgu82u_large.jpg)
-![](/v/diversity/f/images/overview/hero_storymaker__cqi4vqfl4qc2_large.jpg)
-
 ## Apple is becoming a better reflection of the world we live&nbsp;in.
 
 All data as of December 2020 unless otherwise stated.
@@ -20,7 +10,7 @@ Trends account for data between 2014 and 2020.
 
 -
 The number of employees from underrepresented communities (URCs)
-[1](#footnote-urcs)
+[1](https://www.apple.com/diversity/#footnote-urcs)
 has increased by 64%, or over 18,000 people, and makes up nearly 50% of Apple’s U.S.&nbsp;workforce.
 
 -
@@ -77,9 +67,7 @@ Our people are at the heart of our progress. Their voices and ideas drive innova
 
 Lajuan turns open conversations into meaningful actions.
 
-![](/v/diversity/f/images/overview/tile_lajuan__0v00031l3f66_large.jpg)
 Read more about Lajuan.
-![](/v/diversity/f/images/overview/tile_lajuan__0v00031l3f66_large.jpg)
 
 ## Lajuan Garror
 
@@ -96,9 +84,7 @@ Building an equitable workplace takes more than one-off efforts. From roundtable
 
 Marcela helps shape diverse perspectives into great ideas.
 
-![](/v/diversity/f/images/overview/tile_marcela__ffwvssanrfmi_large.jpg)
 Read more about Marcela.
-![](/v/diversity/f/images/overview/tile_marcela__ffwvssanrfmi_large.jpg)
 
 ## Marcela Aguilar
 
@@ -137,7 +123,6 @@ Equal opportunity starts with equitable access to career development programs an
 
 Initiatives for enduring change in research and development.
 
-![](/v/diversity/f/images/overview/icon_rd__qjk8zq942oa6_large.png)
 Read more about initiatives for enduring change in research and development.
 
 ## Initiatives for enduring change in research and development.
@@ -199,9 +184,7 @@ with a perfect score on the Human Rights Campaign’s Corporate Equality&nbsp;In
 
 Brent brings people in and keeps cyber threats&nbsp;out.
 
-![](/v/diversity/f/images/overview/tile_brent__c67ckm6tybcm_large.jpg)
 Read more about Brent.
-![](/v/diversity/f/images/overview/tile_brent__c67ckm6tybcm_large.jpg)
 
 ## Brent Chapman
 
@@ -264,9 +247,7 @@ career goals and
 
 encouraging allyship.
 
-![](/v/diversity/f/images/overview/tile_tray__gkfhcj5ov1ui_large.jpg)
 Read more about T-Ray.
-![](/v/diversity/f/images/overview/tile_tray__gkfhcj5ov1ui_large.jpg)
 
 ## T-Ray Eccles
 
@@ -329,9 +310,7 @@ But what started as a prototype to make life more convenient became a necessity 
 
 Niharika engineers Fitness+ for every body.
 
-![](/v/diversity/f/images/overview/tile_niharika__gg9cilz3sium_large.jpg)
 Read more about Niharika.
-![](/v/diversity/f/images/overview/tile_niharika__gg9cilz3sium_large.jpg)
 
 ## Niharika Bedekar
 
@@ -348,9 +327,7 @@ In addition to building Fitness+, Niharika and several colleagues started Divers
 
 Chloe applies algorithms that expose inequalities.
 
-![](/v/diversity/f/images/overview/tile_chloe__ewaejyvxfh4y_large.jpg)
 Read more about Chloe.
-![](/v/diversity/f/images/overview/tile_chloe__ewaejyvxfh4y_large.jpg)
 
 ## Chloe Seivwright
 
@@ -410,9 +387,7 @@ program. It helps young people of all backgrounds explore creativity through the
 
 Nicolas’s experiences help him provide the best customer experiences.
 
-![](/v/diversity/f/images/overview/tile_nicolas__b3ek8zuwy4oi_large.jpg)
 Read more about Nicolas.
-![](/v/diversity/f/images/overview/tile_nicolas__b3ek8zuwy4oi_large.jpg)
 
 ## Nicolas Iorio
 
@@ -435,7 +410,7 @@ Read more about direct actions against racism and injustice.
 
 Apple is making internal progress. We also have an urgent responsibility to dismantle systemic racism and help grow opportunities for communities of color, particularly for the Black community. Starting with a $100 million commitment, our Racial&nbsp;Equity and Justice&nbsp;Initiative (REJI) focuses on three key areas to create lasting change: expanding access to education, advocating for criminal justice reform, and removing barriers for Black and Brown&nbsp;entrepreneurs.
 
-[Learn more about our Racial Equity and Justice Initiative](/racial-equity-justice-initiative/)
+[Learn more about our Racial Equity and Justice Initiative](https://www.apple.com/racial-equity-justice-initiative/)
 
 ## Where we stand&nbsp;today.
 
@@ -445,9 +420,9 @@ Every hiring decision is made one&nbsp;role, and one&nbsp;person, at a time. We 
 
 Global Female Representation
 
-- [Apple](#)
-- [R&amp;D](#)
-- [Non-R&amp;D](#)
+- [Apple](https://www.apple.com/diversity/#)
+- [R&amp;D](https://www.apple.com/diversity/#)
+- [Non-R&amp;D](https://www.apple.com/diversity/#)
 30
 %
 30% Global Female Representation Overall in 2014
@@ -491,9 +466,9 @@ Overall
 
 U.S. Underrepresented Community Representation
 
-- [Apple](#)
-- [R&amp;D](#)
-- [Non-R&amp;D](#)
+- [Apple](https://www.apple.com/diversity/#)
+- [R&amp;D](https://www.apple.com/diversity/#)
+- [Non-R&amp;D](https://www.apple.com/diversity/#)
 44
 %
 44% U.S. Underrepresented Community Representation Overall in 2014
@@ -617,7 +592,7 @@ Data supplied by the People team at Apple. Totals may not add up to 100% due to 
 To align with U.S. government reporting requirements, data on this website uses the traditional gender categories of male and female. Apple deeply respects that gender is not binary.
 
 Though we do not use the
-[Federal Employer Information Report EEO-1](/diversity/pdf/2020-Final-Certified-Apple-EEO-1-Report.pdf)
+[Federal Employer Information Report EEO-1](https://www.apple.com/diversity/pdf/2020-Final-Certified-Apple-EEO-1-Report.pdf)
 to measure progress, our most recent filing is publicly available.
 
 quote by Barbara Whye, Vice President of Inclusion&nbsp;&amp;&nbsp;Diversity

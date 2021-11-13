@@ -2,7 +2,7 @@
 
 Introducing the new MacBook&nbsp;Pro with M1&nbsp;Pro or M1&nbsp;Max chip, all-new AirPods, and HomePod&nbsp;mini in five bold colors.
 
-[Learn more](/apple-events/october-2021/)
+[Learn more](https://www.apple.com/apple-events/october-2021/)
 
 ## View recent Apple events
 
@@ -11,14 +11,14 @@ September 14, 2021
 
 Introducing iPhone&nbsp;13&nbsp;Pro, iPhone&nbsp;13, Apple&nbsp;Watch&nbsp;Series&nbsp;7, and the new iPad&nbsp;mini and&nbsp;iPad.
 
-[Learn more](/apple-events/september-2021/)
+[Learn more](https://www.apple.com/apple-events/september-2021/)
 
 ### WWDC
 June 7, 2021
 
 Introducing iOS&nbsp;15, iPadOS&nbsp;15, macOS&nbsp;Monterey, and&nbsp;watchOS&nbsp;8.
 
-[Learn more](/apple-events/june-2021/)
+[Learn more](https://www.apple.com/apple-events/june-2021/)
 
 ### Apple Event
 April 20, 2021

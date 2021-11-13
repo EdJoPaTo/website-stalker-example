@@ -6,10 +6,10 @@ for losing&nbsp;things.
 
 AirTag is a supereasy way to keep track of your stuff. Attach one to your keys, slip another in your backpack. And just like that, they’re on your radar in the Find&nbsp;My&nbsp;app, where you can also track down your Apple devices and keep up with friends and&nbsp;family.
 
-[Buy](/us/shop/goto/buy_airtag/airtag)
-[AirTag](/us/shop/goto/buy_airtag/airtag)
+[Buy](https://www.apple.com/us/shop/goto/buy_airtag/airtag)
+[AirTag](https://www.apple.com/us/shop/goto/buy_airtag/airtag)
 
-[View in AR](/105/media/us/airtag/2021/2b2438dc-8391-42b3-ab6d-1dbe2c2253ab/quick-look/airtag_ios14.usdz)
+[View in AR](https://www.apple.com/105/media/us/airtag/2021/2b2438dc-8391-42b3-ab6d-1dbe2c2253ab/quick-look/airtag_ios14.usdz)
 
 ## Ping it. Find it.
 
@@ -19,9 +19,7 @@ Misplacing something like your wallet doesn’t have to be a big deal when it ha
 
 Warmer. Hot.
 
-If your AirTag is nearby, your iPhone can lead you straight to it with Precision&nbsp;Finding.
-[1](#footnote-1)
-You‘ll see the distance to your AirTag and the direction to head in — all thanks to Ultra&nbsp;Wideband&nbsp;technology.
+If your AirTag is nearby, your iPhone can lead you straight to it with Precision&nbsp;Finding. You‘ll see the distance to your AirTag and the direction to head in — all thanks to Ultra&nbsp;Wideband&nbsp;technology.
 
 ### Precision Finding compatible with:
 - iPhone&nbsp;11
@@ -64,18 +62,15 @@ Of course, if you happen to be with a friend who has an AirTag, or on a train wi
 
 A one-tap setup instantly connects your AirTag with your iPhone or iPad. Enter a name for your AirTag, attach it to the item you want to track, and youʼre good to go. Want AirTag notifications on your Apple&nbsp;Watch, too? No&nbsp;problem.
 
-[Learn more about the Find&nbsp;My app](/icloud/find-my/)
+[Learn more about the Find&nbsp;My app](https://www.apple.com/icloud/find-my/)
 
 ### Long live the battery.
 
-AirTag is designed to keep going more than a year on a standard battery you can easily replace.
-[2](#footnote-2)
-And your iPhone lets you know when itʼs time to pop in a new&nbsp;one.
+AirTag is designed to keep going more than a year on a standard battery you can easily replace. And your iPhone lets you know when itʼs time to pop in a new&nbsp;one.
 
 ### Splish, splash.
 
 Let’s say you’ve tagged your keys and — oops — drop them in a puddle. Or they’re in the path of a colossal spill. Hey, that’s okay. Your AirTag is water&nbsp;resistant.
-[3](#footnote-3)
 
 ### Initial it. Emoji it.
 
@@ -87,19 +82,19 @@ from every&nbsp;angle.
 
 Open this page using Safari on&nbsp;your iPhone&nbsp;or&nbsp;iPad.
 
-[See AirTag in AR](/105/media/us/airtag/2021/2b2438dc-8391-42b3-ab6d-1dbe2c2253ab/quick-look/airtag_ios14.usdz)
+[See AirTag in AR](https://www.apple.com/105/media/us/airtag/2021/2b2438dc-8391-42b3-ab6d-1dbe2c2253ab/quick-look/airtag_ios14.usdz)
 
 ## More color. More fun. More you.
 
 It’s easy to attach AirTag to just about anything with colorful key rings and loops from Apple. AirTag comes individually or in a 4&nbsp;pack. Happy&nbsp;tagging.
 
-[Shop Apple AirTag accessories](/us/shop/goto/accessories/airtag)
+[Shop Apple AirTag accessories](https://www.apple.com/us/shop/goto/accessories/airtag)
 
 ## AirTag Hermes
 
 A partnership based on meticulous craftsmanship and shared values continues. Three handmade leather pieces — a luggage tag, bag charm, and key ring — each come with an exclusive AirTag&nbsp;Hermès etched with the iconic Clou&nbsp;de&nbsp;Selle signature. This is form and function at their&nbsp;finest.
 
-[Shop AirTag Hermès](/us/shop/goto/select_airtag_hermes)
+[Shop AirTag Hermès](https://www.apple.com/us/shop/goto/select_airtag_hermes)
 
 -
 ### AirTag Tech Specs
@@ -158,7 +153,7 @@ In the Box
 #### AirTag and the Environment
 
 Apple takes a complete product life cycle approach to determining our environmental impact.
-[Learn more](/environment/)
+[Learn more](https://www.apple.com/environment/)
 
 ##### AirTag is designed with the following features to reduce environmental impact:
 	- 100% recycled tin in the solder of the main logic&nbsp;board
@@ -174,4 +169,4 @@ Learn more about Apple’s dedication to reducing the environmental impact of ou
 ##### Recycling
 
 Apple takes a holistic view of materials management and waste minimization.
-[Learn more about how to recycle your&nbsp;AirTag](/batteries/service-and-recycling/)
+[Learn more about how to recycle your&nbsp;AirTag](https://www.apple.com/batteries/service-and-recycling/)

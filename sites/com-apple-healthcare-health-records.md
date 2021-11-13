@@ -74,4 +74,4 @@ Sharing Health app data with providers is available in the U.S. only.
 
 Leading healthcare institutions around the world are using our products and platform to innovate. Apps on iPhone and iPad are enhancing care delivery in the hospital, enabling new models of care at home, and transforming the way research is conducted.
 
-[Learn more about Apple in Healthcare](/healthcare/)
+[Learn more about Apple in Healthcare](https://www.apple.com/healthcare/)

@@ -38,14 +38,14 @@ The updated ECG app with additional rhythm classification received 510(k) cleara
 
 [Learn more about the ECG app](https://support.apple.com/kb/HT208955)
 
-[Learn about expanded use of the ECG app during the COVID‑19&nbsp;pandemic&nbsp;(PDF)](/healthcare/docs/site/Apple_ECG_app_during_COVID-19.pdf)
+[Learn about expanded use of the ECG app during the COVID‑19&nbsp;pandemic&nbsp;(PDF)](https://www.apple.com/healthcare/docs/site/Apple_ECG_app_during_COVID-19.pdf)
 
 ### How the ECG app works.
-- [Launch the ECG app on Apple&nbsp;Watch Series&nbsp;4 or later.](#gallery-ecg-item-1)
-- [Rest arms on a table or in lap, and hold index finger on the Digital Crown for about 30 seconds.](#gallery-ecg-item-2)
-- [Review rhythm classification and record symptoms.](#gallery-ecg-item-3)
-- [View and export ECG waveform, rhythm classification, date/time of recording, and any reported symptoms in the Health app on iPhone.](#gallery-ecg-item-4)
-- [Allow clinicians to view a snapshot of findings as a PDF.](#gallery-ecg-item-5)
+- [Launch the ECG app on Apple&nbsp;Watch Series&nbsp;4 or later.](https://www.apple.com/healthcare/apple-watch/#gallery-ecg-item-1)
+- [Rest arms on a table or in lap, and hold index finger on the Digital Crown for about 30 seconds.](https://www.apple.com/healthcare/apple-watch/#gallery-ecg-item-2)
+- [Review rhythm classification and record symptoms.](https://www.apple.com/healthcare/apple-watch/#gallery-ecg-item-3)
+- [View and export ECG waveform, rhythm classification, date/time of recording, and any reported symptoms in the Health app on iPhone.](https://www.apple.com/healthcare/apple-watch/#gallery-ecg-item-4)
+- [Allow clinicians to view a snapshot of findings as a PDF.](https://www.apple.com/healthcare/apple-watch/#gallery-ecg-item-5)
 - - 1. Launch the ECG app on Apple&nbsp;Watch Series&nbsp;4 or later.
 2. Rest your arms on a table or in your lap, and hold your index finger on the Digital&nbsp;Crown for about 30 seconds.
 3. Review rhythm classification and record symptoms.
@@ -60,11 +60,11 @@ After taking an ECG reading, the ECG app will check for sinus rhythm or AFib. If
 
 In a clinical study, the rhythm classification by the ECG app of a single lead ECG on Apple Watch was compared to the rhythm classification by a cardiologist of a simultaneously collected 12-lead ECG. The ECG app demonstrated 99.3% specificity in classifying sinus rhythm and 98.5% sensitivity in classifying AFib for the classifiable results.
 
-[Learn more about arrhythmia detection (PDF)](/healthcare/docs/site/Apple_Watch_Arrhythmia_Detection.pdf)
+[Learn more about arrhythmia detection (PDF)](https://www.apple.com/healthcare/docs/site/Apple_Watch_Arrhythmia_Detection.pdf)
 
-- [Consectetur](#quote-gallery-item-1)
-- [Consectetur](#quote-gallery-item-2)
-- [Consectetur](#quote-gallery-item-3)
+- [Consectetur](https://www.apple.com/healthcare/apple-watch/#quote-gallery-item-1)
+- [Consectetur](https://www.apple.com/healthcare/apple-watch/#quote-gallery-item-2)
+- [Consectetur](https://www.apple.com/healthcare/apple-watch/#quote-gallery-item-3)
 - -
 This can be an addition to our growing armamentarium to identify AFib, which can be intermittent and asymptomatic.
 
@@ -137,13 +137,13 @@ max), Six-Minute Walk Distance, and other metrics used to measure walking qualit
 
 Learn more about how these metrics were developed and validated:
 
-[Using Apple Watch to estimate Cardio Fitness with VO](/healthcare/docs/site/Using_Apple_Watch_to_Estimate_Cardio_Fitness_with_VO2_max.pdf)
-[2](/healthcare/docs/site/Using_Apple_Watch_to_Estimate_Cardio_Fitness_with_VO2_max.pdf)
-[max&nbsp;(PDF)](/healthcare/docs/site/Using_Apple_Watch_to_Estimate_Cardio_Fitness_with_VO2_max.pdf)
+[Using Apple Watch to estimate Cardio Fitness with VO](https://www.apple.com/healthcare/docs/site/Using_Apple_Watch_to_Estimate_Cardio_Fitness_with_VO2_max.pdf)
+[2](https://www.apple.com/healthcare/docs/site/Using_Apple_Watch_to_Estimate_Cardio_Fitness_with_VO2_max.pdf)
+[max&nbsp;(PDF)](https://www.apple.com/healthcare/docs/site/Using_Apple_Watch_to_Estimate_Cardio_Fitness_with_VO2_max.pdf)
 
-[Using Apple Watch to estimate Six-Minute Walk Distance&nbsp;(PDF)](/healthcare/docs/site/Using_Apple_Watch_to_Estimate_Six_Minute_Walk_Distance.pdf)
+[Using Apple Watch to estimate Six-Minute Walk Distance&nbsp;(PDF)](https://www.apple.com/healthcare/docs/site/Using_Apple_Watch_to_Estimate_Six_Minute_Walk_Distance.pdf)
 
-[Measuring Walking Quality Through iPhone Mobility Metrics&nbsp;(PDF)](/healthcare/docs/site/Measuring_Walking_Quality_Through_iPhone_Mobility_Metrics.pdf)
+[Measuring Walking Quality Through iPhone Mobility Metrics&nbsp;(PDF)](https://www.apple.com/healthcare/docs/site/Measuring_Walking_Quality_Through_iPhone_Mobility_Metrics.pdf)
 
 ### Fall Detection.
 
@@ -161,7 +161,7 @@ Medical ID allows first responders and emergency room clinicians to access criti
 
 The Health app on iPhone makes it easier than ever for your patients to visualize and securely store their health records from multiple institutions alongside their patient-generated data, creating a more holistic view of their health. Patients can now share their Health app data which you can view within your EHR workflow.
 
-[Learn more about health records on iPhone](/healthcare/health-records/)
+[Learn more about health records on iPhone](https://www.apple.com/healthcare/health-records/)
 
 ### Designed with security and privacy in mind.
 
@@ -169,8 +169,8 @@ When a user’s iPhone is locked with a passcode, Touch&nbsp;ID, or Face ID, the
 
 ## The future of healthcare is in your hands.
 
-[Learn more about Apple in Healthcare](/healthcare/)
+[Learn more about Apple in Healthcare](https://www.apple.com/healthcare/)
 
 ## And the future of health is on your&nbsp;wrist.
 
-[Learn more about Apple&nbsp;Watch](/watch/)
+[Learn more about Apple&nbsp;Watch](https://www.apple.com/watch/)

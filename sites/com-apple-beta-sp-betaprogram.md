@@ -24,7 +24,7 @@ Have additional questions about
 
 the Apple Beta Software Program?
 
-[Read FAQs](/sp/betaprogram/faq)
+[Read FAQs](https://beta.apple.com/sp/betaprogram/faq)
 
 ## Apple Developer Program
 

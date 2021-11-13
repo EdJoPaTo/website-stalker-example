@@ -6,22 +6,22 @@ Privacy is a fundamental human right. At Apple, it’s also one of our core valu
 -
 ## Apple’s layers of security and App&nbsp;Store protections keep you in control of your data and help shield you from&nbsp;malware.
 
-[View (PDF)](/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)
+[View (PDF)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)
 
 -
 ## iCloud+ adds new protection to your online activities with
 
 Hide My Email, iCloud Private Relay, and&nbsp;more.
 
-[Learn more about iCloud+](/privacy/features/#icloud-plus)
+[Learn more about iCloud+](https://www.apple.com/privacy/features/#icloud-plus)
 
 -
 ## App Tracking Transparency lets you control which apps are allowed to
 
 track your&nbsp;activity.
 
-[View (PDF)](/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf)
-[Watch the film](/105/media/us/privacy/2021/ea37f295-fbb5-435a-a787-7c7cabc525b3/films/the-prompt/privacy-the-prompt-tpl-us-2021_16x9.m3u8)
+[View (PDF)](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf)
+[Watch the film](https://www.apple.com/105/media/us/privacy/2021/ea37f295-fbb5-435a-a787-7c7cabc525b3/films/the-prompt/privacy-the-prompt-tpl-us-2021_16x9.m3u8)
 
 - -
 ## Everyday apps. Designed&nbsp;for your&nbsp;privacy.
@@ -155,6 +155,6 @@ Every one of the more than 1.8 million apps on the App&nbsp;Store is required to
 When you’re checking out an app, you’ll see its Privacy Nutrition Label to help you decide if it works for you. Apps you choose to download need your permission to access information like your photos or location — and you can always change your mind about what you share. iOS&nbsp;14.5 and iPadOS&nbsp;14.5 or later require developers to get your permission before tracking your activity across other companies’ apps and websites for ads or data&nbsp;brokers.
 
 ## Learn more about privacy at&nbsp;Apple.
-- [Review privacy features](/privacy/features/)
-- [Control what you share](/privacy/control/)
-- [See how apps from Apple handle your data](/privacy/labels/)
+- [Review privacy features](https://www.apple.com/privacy/features/)
+- [Control what you share](https://www.apple.com/privacy/control/)
+- [See how apps from Apple handle your data](https://www.apple.com/privacy/labels/)

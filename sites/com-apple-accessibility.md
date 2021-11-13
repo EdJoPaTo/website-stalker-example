@@ -11,9 +11,7 @@ Built‑in features designed for you to&nbsp;make something wonderful.
 
 Read the fine&nbsp;print.
 
-![iPhone using Magnifier to enlarge restaurant menu](/v/accessibility/q/images/overview/magnifier__glsfa5dyjy6i_large_2x.png)
 Read more about Magnifier
-![](/v/accessibility/q/images/shared/magnifier__glsfa5dyjy6i_large_2x.png)
 
 ## Magnifier
 
@@ -39,11 +37,8 @@ Set the text just right.
 Set the text juuust&nbsp;right.
 
 A
-![](/v/accessibility/q/images/overview/larger_text_scale__edl7ta3u47ee_large_2x.png)
 A
-![](/v/accessibility/q/images/overview/larger_text_handle__e8ergarbvgii_large_2x.png)
 Read more about Larger Text
-![](/v/accessibility/q/images/shared/display_accommodations__e8amex0kx6qa_large_2x.png)
 
 ## Larger Text
 
@@ -59,9 +54,7 @@ Set up Larger Text&nbsp;on:
 - [iPod&nbsp;touch](https://support.apple.com/guide/ipod-touch/iph3e2e1fb0)
 
 ### Zoom
-![Enlarged text by using zoom feature](/v/accessibility/q/images/overview/zoom__ed02ebgwj6gm_large_2x.jpg)
 Read more about Zoom
-![](/v/accessibility/q/images/shared/zoom__ed02ebgwj6gm_large_2x.png)
 
 ## Zoom
 
@@ -83,7 +76,7 @@ Go deeper:
 - [Use your mouse to&nbsp;zoom](https://support.apple.com/guide/mac-help/mchlp2975)
 - [Use your trackpad to&nbsp;zoom](https://support.apple.com/guide/mac-help/mchlp2976)
 - [Advanced options for Zoom on&nbsp;Mac](https://support.apple.com/guide/mac-help/mh35715)
-[All vision features](/accessibility/vision/)
+[All vision features](https://www.apple.com/accessibility/vision/)
 
 ## Get it done in more ways&nbsp;than&nbsp;one.
 
@@ -92,12 +85,10 @@ Go deeper:
 Clench. Clench. Chat.
 
 Read more about AssistiveTouch + Apple&nbsp;Watch
-![](/v/accessibility/q/images/shared/alternative_input__eawlv2opngom_large_2x.png)
 
 ## AssistiveTouch + Apple&nbsp;Watch
 
 AssistiveTouch for watchOS enables people with upper-body limb differences to use Apple&nbsp;Watch without ever having to touch the display or controls. Using built-in motion sensors and on-device learning, Apple&nbsp;Watch detects subtle differences in muscle movements and tendon activity, letting you control the display through hand gestures like a pinch or a clench. This feature also works with VoiceOver so you can navigate Apple&nbsp;Watch with one hand while using a cane or leading a service animal. Answer incoming calls, control an onscreen motion pointer, and access Notification Center, Control Center, and&nbsp;more.
-[1](#footnote-1)
 
 AssistiveTouch for iOS and iPadOS helps you adapt standard gestures like pinch, rotate, or swipe to make them more comfortable for you. You can make other actions, like changing volume, accessible with just a touch from the AssistiveTouch&nbsp;menu.
 
@@ -114,9 +105,6 @@ Set up AssistiveTouch&nbsp;on:
 
 Tap-tap here.
 
-![](/v/accessibility/q/images/overview/back_tap_glow__gmlvk60imyq2_large_2x.png)
-![Back Tap shown with sideview of iPhone.](/v/accessibility/q/images/overview/back_tap_phone__bxjcd3sev9le_large_2x.png)
-
 Cue
 
 magic
@@ -124,12 +112,10 @@ magic
 here.
 
 Read more about Back Tap
-![](/v/accessibility/q/images/shared/back_tap__bgvshyi7h05e_large_2x.png)
 
 ## Back Tap
 
 A double or triple tap on the back of your iPhone can be set to trigger all kinds of actions, like opening Control Center, taking a screenshot, or cueing a favorite app. A great way to replace standard Home Screen gestures when they become&nbsp;tricky.
-[2](#footnote-2)
 
 Set up Back Tap on:
 
@@ -141,17 +127,11 @@ There’s a shortcut
 
 for that. Ask Siri.
 
-![](/v/accessibility/q/images/overview/siri_shortcuts_row1__nib02ny3n16m_large_2x.jpg)
-![](/v/accessibility/q/images/overview/siri_shortcuts_row2__gg2lye14nfmi_large_2x.jpg)
-![](/v/accessibility/q/images/overview/siri_shortcuts_row3__f6osm9snf1aq_large_2x.jpg)
 Read more about Siri + Shortcuts
-![](/v/accessibility/q/images/shared/siri__cuebqld1dbwy_large_2x.png)
 
 ## Siri + Shortcuts
 
-Siri is a faster, easier way to do all kinds of useful things, including making calls, sending messages, and more.
-[3](#footnote-3)
-You can now choose from two new English Siri voices that sound incredibly natural when reading the news or answering questions. And a new Accessibility Assistant Shortcut helps you discover Apple’s built-in accessibility features and offers resources to help you customize them to your specific&nbsp;needs.
+Siri is a faster, easier way to do all kinds of useful things, including making calls, sending messages, and more. You can now choose from two new English Siri voices that sound incredibly natural when reading the news or answering questions. And a new Accessibility Assistant Shortcut helps you discover Apple’s built-in accessibility features and offers resources to help you customize them to your specific&nbsp;needs.
 
 There’s a shortcut
 
@@ -170,10 +150,10 @@ Set up Siri + Shortcuts&nbsp;on:
 
 Go deeper:
 
-- [Get more out of&nbsp;Siri](/siri/)
+- [Get more out of&nbsp;Siri](https://www.apple.com/siri/)
 - [Use Siri&nbsp;Shortcuts](https://support.apple.com/HT209055)
 - [Use the Accessibility Shortcut for iPhone, iPad, and iPod&nbsp;touch](https://support.apple.com/HT204390)
-[All mobility features](/accessibility/mobility/)
+[All mobility features](https://www.apple.com/accessibility/mobility/)
 
 ## Hear. There. Everywhere.
 
@@ -181,9 +161,7 @@ Go deeper:
 
 Make a sound decision.
 
-![Illustration of AirPods Pro](/v/accessibility/q/images/overview/headphone_accommodations__dip2pb114swi_large_2x.png)
 Read more about Headphone Accommodations
-![](/v/accessibility/q/images/shared/headphone_accommodations__dip2pb114swi_large_2x.png)
 
 ## Headphone Accommodations
 
@@ -207,9 +185,7 @@ Set up Headphone Accommodations&nbsp;on:
 
 Match your levels to&nbsp;your location.
 
-![Ear emoji with hearing aid](/v/accessibility/q/images/overview/hearing_aids__d227qvtjktkm_large_2x.jpg)
 Read more about Made for iPhone hearing&nbsp;aids
-![](/v/accessibility/q/images/shared/live_listen__fll6hokvp9iu_large_2x.png)
 
 ## Made for iPhone hearing&nbsp;aids
 
@@ -237,13 +213,10 @@ All the way
 from the back.
 
 Read more about Live Listen
-![](/v/accessibility/q/images/shared/live_listen__fll6hokvp9iu_large_2x.png)
 
 ## Live Listen
 
-Live&nbsp;Listen can help you hear conversations in loud settings, or amplify someone speaking across the room, by sending audio from iPhone or iPad to supported wireless headphones or Made for iPhone hearing aids.
-[4](#footnote-4)
-Live&nbsp;Listen now supports noise cancellation to better distinguish speakers’ voices from background&nbsp;noise.
+Live&nbsp;Listen can help you hear conversations in loud settings, or amplify someone speaking across the room, by sending audio from iPhone or iPad to supported wireless headphones or Made for iPhone hearing aids. Live&nbsp;Listen now supports noise cancellation to better distinguish speakers’ voices from background&nbsp;noise.
 
 Set up Live Listen&nbsp;on:
 
@@ -255,7 +228,7 @@ Set up Live Listen&nbsp;on:
 - [AirPods](https://support.apple.com/HT209082)
 - [Powerbeats&nbsp;Pro](https://support.apple.com/HT209082)
 - [Made for iPhone hearing aids](https://support.apple.com/HT203990)
-[All hearing features](/accessibility/hearing/)
+[All hearing features](https://www.apple.com/accessibility/hearing/)
 
 ## Create your own
 
@@ -266,7 +239,6 @@ center of&nbsp;attention.
 Be captivated by&nbsp;content, not&nbsp;clutter.
 
 Read more about Safari Reader
-![](/v/accessibility/q/images/shared/safari_reader__eleurexfe3qu_large_2x.png)
 
 ## Safari Reader
 
@@ -289,12 +261,10 @@ into
 easy
 listening.
 Read more about Spoken Content
-![](/v/accessibility/q/images/shared/spoken_content__dwuan76vzuy6_large_2x.png)
 
 ## Spoken Content
 
 If you learn or comprehend better when you can hear what you’re reading or writing, features like Speak Screen, Speak Selection, Typing Feedback, and Predictive Text can help by adding an auditory component to&nbsp;text.
-[5](#footnote-5)
 
 Turn assigned reading into easy listening.
 
@@ -306,13 +276,10 @@ Set up Spoken Content&nbsp;on:
 - [iPod&nbsp;touch](https://support.apple.com/guide/ipod-touch/iph96b214f0)
 
 ### Background Sounds
-![](/v/accessibility/q/images/overview/background_sounds_shell__et4dv8ckyaaa_large_2x.png)
-![](/v/accessibility/q/images/overview/background_sounds_speaker__beukqbdp9682_large_2x.png)
 
 Make your own&nbsp;calm.
 
 Read more about Background Sounds
-![](/v/accessibility/q/images/shared/background_sounds__byuircaraa1y_large_2x.png)
 
 ## Background Sounds
 
@@ -325,7 +292,7 @@ Set up Background Sounds on:
 - [iPhone](https://support.apple.com/guide/iphone/iphb2cfa052c/ios)
 - [iPad](https://support.apple.com/guide/ipad/ipad5117c441/ipados)
 - [iPod touch](https://support.apple.com/guide/ipod-touch/iphb2cfa052c/ios)
-[All cognitive features](/accessibility/cognitive/)
+[All cognitive features](https://www.apple.com/accessibility/cognitive/)
 
 ## Screens that speak&nbsp;volumes.
 
@@ -333,16 +300,11 @@ Set up Background Sounds on:
 
 Puts moments into&nbsp;words.
 
-![VoiceOver describing an image on iPhone and showing speech output. 'Two people smiling and posing for a photo.'](/v/accessibility/q/images/overview/voiceover_phone__eex2qtq6s06e_large_2x.png)
-![](/v/accessibility/q/images/overview/voiceover_bubble_text__f3k3wsew1suy_large_2x.png)
 Read more about VoiceOver
-![](/v/accessibility/q/images/shared/voiceover__e4sa7zp6ku0y_large_2x.png)
 
 ## VoiceOver
 
-VoiceOver is an industry-leading screen reader that describes exactly what’s happening on your iPhone, iPad, Mac, Apple&nbsp;Watch, Apple&nbsp;TV, or iPod&nbsp;touch, so you can navigate just by listening. You can now explore even more details about the people, text, table data, and other objects within images.
-[6](#footnote-6)
-Hear receipts or labels read like a table –– by row and column, complete with headers. VoiceOver can also describe a person’s position in relation to objects within images, so you can relive memories in greater detail. Switching between common actions is even easier with the new Quick Settings menu on iPhone and iPad. VoiceOver actions sync automatically across devices, and its volume adjusts when you speak. And in case you accidentally turn on Flashlight, a new alert lets you know it’s&nbsp;on.
+VoiceOver is an industry-leading screen reader that describes exactly what’s happening on your iPhone, iPad, Mac, Apple&nbsp;Watch, Apple&nbsp;TV, or iPod&nbsp;touch, so you can navigate just by listening. You can now explore even more details about the people, text, table data, and other objects within images. Hear receipts or labels read like a table –– by row and column, complete with headers. VoiceOver can also describe a person’s position in relation to objects within images, so you can relive memories in greater detail. Switching between common actions is even easier with the new Quick Settings menu on iPhone and iPad. VoiceOver actions sync automatically across devices, and its volume adjusts when you speak. And in case you accidentally turn on Flashlight, a new alert lets you know it’s&nbsp;on.
 
 Puts moments into&nbsp;words.
 
@@ -368,9 +330,7 @@ Go deeper:
 
 Descriptions that really make a&nbsp;scene.
 
-![](/v/accessibility/q/images/overview/audio_descriptions__ejb8ddn8vp26_large_2x.jpg)
 Read more about Audio Descriptions
-![](/v/accessibility/q/images/shared/audio_descriptions__ejb8ddn8vp26_large_2x.png)
 
 ## Audio Descriptions
 
@@ -396,7 +356,6 @@ Go deeper:
 - [Find audio-described content in the Apple&nbsp;TV app or iTunes&nbsp;Store](https://support.apple.com/HT205742)
 
 ### Speak Selection
-![Speak bubble](/v/accessibility/q/images/overview/speak_screen_bubble_text__f34h1ash1ia2_large_2x.png)
 
 This
 feature
@@ -404,7 +363,6 @@ speaks for
 itself.
 
 Read more about Speak Selection
-![](/v/accessibility/q/images/shared/spoken_content__dwuan76vzuy6_large_2x.png)
 
 ## Speak Selection
 
@@ -426,7 +384,7 @@ Go deeper:
 
 [Adjust voice and speed for VoiceOver and Speak Screen on your iPhone, iPad, or iPod&nbsp;touch](https://support.apple.com/en-us/HT202362)
 
-[All vision features](/accessibility/vision/)
+[All vision features](https://www.apple.com/accessibility/vision/)
 
 ## Works with every move you&nbsp;make.
 
@@ -434,14 +392,11 @@ Go deeper:
 
 Let your voice call&nbsp;the&nbsp;shots.
 
-![Sequence of Voice Control commands - Open Camera, Tap Take Picture, Tap Photo, Tap Share.](/v/accessibility/q/images/overview/voice_control__fea2pc46p2aa_large_2x.jpg)
 Read more about Voice Control
-![](/v/accessibility/q/images/shared/voice_control__fea2pc46p2aa_large_2x.png)
 
 ## Voice Control
 
 Simple vocal commands let you quickly open and interact with apps using iOS, iPadOS, and macOS. You can also navigate through numbered labels alongside clickable items or by superimposing a grid to precisely select, zoom, and drag. Voice Control is now available in more languages, including Chinese, French, and&nbsp;Japanese.
-[7](#footnote-7)
 
 Let your voice call&nbsp;the&nbsp;shots.
 
@@ -454,17 +409,14 @@ Set up Voice Control&nbsp;on:
 
 Go deeper:
 
-[Voice Control white paper&nbsp;(PDF)](/macos/catalina/docs/Voice_Control_Tech_Brief_Sept_2019.pdf)
+[Voice Control white paper&nbsp;(PDF)](https://www.apple.com/macos/catalina/docs/Voice_Control_Tech_Brief_Sept_2019.pdf)
 
 ### Eye-tracking support for iPadOS
 Read more about Eye-tracking support for iPadOS
-![](/v/accessibility/q/images/shared/alternative_input__eawlv2opngom_large_2x.png)
 
 ## Eye-tracking support for iPadOS
 
-Navigate your iPad with only your eyes. iPadOS now supports third‑party eye‑tracking devices.
-[8](#footnote-8)
-Compatible devices, available at a later date, will track where you’re looking onscreen, and the pointer will move to follow your gaze. Extended eye contact will perform onscreen actions, like a tap to&nbsp;select.
+Navigate your iPad with only your eyes. iPadOS now supports third‑party eye‑tracking devices. Compatible devices, available at a later date, will track where you’re looking onscreen, and the pointer will move to follow your gaze. Extended eye contact will perform onscreen actions, like a tap to&nbsp;select.
 
 Move up two lines.
 Select sentence.
@@ -478,9 +430,7 @@ Set up eye-tracking support&nbsp;on:
 
 Switch it up to&nbsp;get&nbsp;around.
 
-![Search function in Maps shown with Switch Control panel](/v/accessibility/q/images/overview/switch_control__bn1g8tmudd7m_large_2x.png)
 Read more about Switch Control
-![](/v/accessibility/q/images/shared/switch_control__bn1g8tmudd7m_large_2x.png)
 
 ## Switch Control
 
@@ -503,7 +453,7 @@ Go deeper:
 - [Change Switch Control navigation preferences on&nbsp;Mac](https://support.apple.com/guide/mac-help/mh43183)
 - [Change Switch Control typing preferences on&nbsp;Mac](https://support.apple.com/guide/mac-help/mchld1033f77)
 - [Use Switch Control on your device to control another Apple&nbsp;device](https://support.apple.com/HT205644)
-[All mobility features](/accessibility/mobility/)
+[All mobility features](https://www.apple.com/accessibility/mobility/)
 
 ## Must-know is now can’t‑miss.
 
@@ -511,15 +461,11 @@ Go deeper:
 
 Look down for&nbsp;a&nbsp;heads‑up.
 
-![](/v/accessibility/q/images/overview/sound_recognition_iphone__gni3j04w4piu_large_2x.png)
-![Sound Recognition alert for a Fire Alarm on iPhone.](/v/accessibility/q/images/overview/sound_recognition_notification__g6pzvfqexdqy_large_2x.png)
 Read more about Sound Recognition
-![](/v/accessibility/q/images/shared/sound_recognition__ewk6dklqtuaa_large_2x.png)
 
 ## Sound Recognition
 
 Receive a visible and vibrating notification when your iPhone or iPad detects a particular type of sound or alert — such as doorbells or a crying&nbsp;baby.
-[9](#footnote-9)
 
 Look down for&nbsp;a&nbsp;heads‑up.
 
@@ -530,7 +476,6 @@ Set up Sound Recognition&nbsp;on:
 
 ### Sensory Alerts
 Read more about Sensory Alerts
-![](/v/accessibility/q/images/shared/sensory_alerts__wosmmnrye4yi_large_2x.png)
 
 ## Sensory Alerts
 
@@ -554,14 +499,11 @@ Go deeper:
 
 Your conversation, front and center.
 
-![Group FaceTime call with individual using sign language](/v/accessibility/q/images/overview/facetime_live_captions__fdz0i7x4pv2a_large_2x.jpg)
 Read more about FaceTime + Sign Language Prominence
-![](/v/accessibility/q/images/shared/facetime__e5bhxnu62mye_large_2x.png)
 
 ## FaceTime + Sign Language Prominence
 
 If you use sign language, FaceTime is an ideal way to communicate. The high-quality video and fast frame rate help you catch every gesture or expression — and when you join a Group&nbsp;FaceTime&nbsp;call, it will detect your signing and automatically make you&nbsp;prominent.
-[10](#footnote-10)
 
 Your conversation, front and center.
 
@@ -571,29 +513,23 @@ Set up FaceTime&nbsp;on:
 - [iPad](https://support.apple.com/HT204380)
 - [Mac](https://support.apple.com/HT208176)
 - [iPod&nbsp;touch](https://support.apple.com/HT204380)
-[All hearing features](/accessibility/hearing/)
+[All hearing features](https://www.apple.com/accessibility/hearing/)
 
 ## Accessibility starts&nbsp;here.
-![](/v/accessibility/q/images/overview/icon_features__fxpo2wxr6mye_large_2x.png)
 
 ## Get more out of your&nbsp;features.
 
 Learn tips, tricks, and how-tos for accessibility features straight from Apple Support on YouTube.
 
 [Watch now](https://www.youtube.com/playlist?list=PLIl2EzNYri0cLtSlZowttih25VnSvWITu)
-![](/v/accessibility/q/images/overview/icon_support__cw8v9yj8c82u_large_2x.png)
 
 ## Accessibility Support
 
 [Learn more](https://support.apple.com/accessibility)
 
-![](/v/accessibility/q/images/overview/icon_accessories__d966vg6xoziq_large_2x.png)
-
 ## Accessibility Accessories
 
-[Shop](/shop/accessories/all-accessories/accessibility)
-
-![](/v/accessibility/q/images/overview/icon_guides__uu9przdc41ey_large_2x.png)
+[Shop](https://www.apple.com/shop/accessories/all-accessories/accessibility)
 
 ## Developer Guides
 
