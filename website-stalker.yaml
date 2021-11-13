@@ -86,12 +86,10 @@ sites:
           content_editors:
             - css_select: .labels, .opened-by
             - html_textify
-
   - url: "https://blinry.org/"
     editors:
       - css_select: .box
       - html_prettify
-
   - url:
       - "https://jonas.lol/"
       - "https://jonas.lol/projects/"
@@ -102,6 +100,15 @@ sites:
           pattern: class="[^"]+"
           replace: ""
       - html_prettify
+  - url: "https://deno.com/blog"
+    editors:
+      - rss:
+          title: Deno Blog
+          item_selector: main > div > div
+          title_selector: h3
+          content_editors:
+            - css_select: a div
+            - html_textify
 
   - url: "https://www.conventionalcommits.org/en/"
     editors:
