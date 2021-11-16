@@ -6,6 +6,11 @@
 		<description></description>
 		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Slack Introduces New Platform With Help From Deno</title>
+			<link>https://deno.com/blog/slack</link>
+			<content:encoded><![CDATA[Today Slack has announced their next generation development platform. Slack chose Deno for its "secure by default" principles, its web standard APIs, and its first-class TypeScript support.]]></content:encoded>
+		</item>
+		<item>
 			<title>Connecting to Postgres from the edge</title>
 			<link>https://deno.com/blog/deploy-postgres-at-the-edge</link>
 			<content:encoded><![CDATA[Many serverless at edge products can not connect to Postgres because they don't support TCP. Deno Deploy can.]]></content:encoded>
