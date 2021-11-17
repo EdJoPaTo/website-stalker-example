@@ -277,16 +277,6 @@ Discover new engraving options for AirPods. Mix emoji, text, and&nbsp;numbers.
 
 [Learn more](https://www.apple.com/apple-card/monthly-installments/)
 
-### [Online](https://www.apple.com/us/shop/goto/personal_session)
-
-[Personal Session](https://www.apple.com/us/shop/goto/personal_session)
-
-[From basics to pro tips, get](https://www.apple.com/us/shop/goto/personal_session)
-
-[more out of your new Apple Watch with the help of a Specialist.](https://www.apple.com/us/shop/goto/personal_session)
-
-[Learn more](https://www.apple.com/us/shop/goto/personal_session)
-
 ### Get more out of Apple Watch
 
 ## Apple One
