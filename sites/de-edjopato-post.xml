@@ -6,6 +6,13 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Tabs vs. Spaces</title>
+			<link>https://edjopato.de/post/2021/11/18-tabs-spaces/</link>
+			<content:encoded><![CDATA[2021-11-18
+
+Tabs vs. Spaces]]></content:encoded>
+		</item>
+		<item>
 			<title>Hallo an das Open-Source-Blog-Netzwerk</title>
 			<link>https://edjopato.de/post/2021/11/04-osbn/</link>
 			<content:encoded><![CDATA[2021-11-04
@@ -81,13 +88,6 @@ ISOs booten mit Ventoy]]></content:encoded>
 			<content:encoded><![CDATA[2021-09-17
 
 Cloud-sync per Command-Line mit Rclone]]></content:encoded>
-		</item>
-		<item>
-			<title>Google Stadia</title>
-			<link>https://edjopato.de/post/2021/07/25-stadia/</link>
-			<content:encoded><![CDATA[2021-07-25
-
-Google Stadia]]></content:encoded>
 		</item>
 	</channel>
 </rss>
