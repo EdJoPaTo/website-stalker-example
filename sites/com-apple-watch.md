@@ -14,6 +14,17 @@ Full screen ahead.
 
 [Watch the film](https://www.apple.com/105/media/us/watch/2021/20f85018-9d9d-48b1-aac2-a94c043057fe/films/answers/watch-answers-tpl-us-2021_16x9.m3u8)
 
+Series 7
+Series 3
+
+Our largest display&nbsp;yet.
+
+## Over 50% more
+
+screen area than
+
+Series&nbsp;3.
+
 ## Apple Watch SE
 
 Heavy on features.
@@ -27,7 +38,7 @@ Light on price.
 ## Which Apple Watch
 
 is right for&nbsp;you?
--
+
 +6 more
 
 New
@@ -38,7 +49,8 @@ Series&nbsp;7
 
 [Buy](https://www.apple.com/us/shop/goto/buy_watch/apple_watch_series_7)
 [Learn more](https://www.apple.com/apple-watch-series-7/)
-	-
+[View in AR](https://www.apple.com/105/media/us/apple-watch-series-7/2021/a5affa3e-7ae5-424a-824e-6e7c997829b2/ar/watch_S7_gps_alum_green_l_sport_loop_green_ios15.usdz)
+
 #### 45mm or 41mm
 
 Swimproof
@@ -49,22 +61,20 @@ front crystal
 
 Certified IP6X dust resistant
 
-	-
 Always-On Retina display
 
-Nearly 20% larger than Apple&nbsp;Watch&nbsp;SE
+Nearly 20% larger than
+
+Apple&nbsp;Watch&nbsp;SE
 
 Over 50% larger
 
 than Series 3
 
-	-
 Blood Oxygen app
 
-	-
 ECG app
 
-	-
 High and low heart
 
 rate notifications
@@ -73,7 +83,6 @@ Irregular heart
 
 rhythm notification
 
-	-
 Emergency SOS
 
 International
@@ -82,37 +91,34 @@ emergency calling
 
 Fall detection
 
-	-
 Cellular available
 
-Family Setup — pair multiple
+Family Setup — pair
 
-watches with one iPhone
+multiple
 
--
+watches
+
+with one iPhone
+
 ### Apple Watch
 
 SE
 
 [Buy](https://www.apple.com/us/shop/goto/buy_watch/apple_watch_se)
 [Learn more](https://www.apple.com/apple-watch-se/)
-	-
+[View in AR](https://www.apple.com/105/media/us/apple-watch-se/2020/a2e86bd7-8c1e-4214-952e-80385aba937d/quick-look/gps/modern/watch_SE_gps_alum_silver_l_sport_band_abyss_blue_ios15.usdz)
+
 #### 44mm or 40mm
 
 Swimproof
 
-	-
 Retina display
 
 Over 30% larger
 
 than Series 3
 
-	-
-
-	-
-
-	-
 High and low heart
 
 rate notifications
@@ -121,7 +127,6 @@ Irregular heart
 
 rhythm notification
 
-	-
 Emergency SOS
 
 International
@@ -130,33 +135,30 @@ emergency calling
 
 Fall detection
 
-	-
 Cellular available
 
-Family Setup — pair multiple
+Family Setup — pair
 
-watches with one iPhone
+multiple
 
--
+watches
+
+with one iPhone
+
 ### Apple Watch
 
-Series&nbsp;3
+Series 3
 
 [Buy](https://www.apple.com/us/shop/goto/buy_watch/apple_watch_series_3)
 [Learn more](https://www.apple.com/apple-watch-series-3/)
-	-
+[View in AR](https://www.apple.com/105/media/us/apple-watch-series-3/2020/6ac0cb6a-6c6a-49c9-ab52-f297386c9122/quick-look/gps/modern/apple-watch-series-3.usdz)
+
 #### 42mm or 38mm
 
 Swimproof
 
-	-
 Retina display
 
-	-
-
-	-
-
-	-
 High and low heart
 
 rate notifications
@@ -165,10 +167,7 @@ Irregular heart
 
 rhythm notification
 
-	-
 Emergency SOS
-
-	-
 
 [Compare all models](https://www.apple.com/watch/compare/)
 [Shop Apple Watch](https://www.apple.com/us/shop/goto/buy_watch)
