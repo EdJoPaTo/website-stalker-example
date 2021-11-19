@@ -177,7 +177,7 @@ MagSafe not-available
 ### Special carrier deals at&nbsp;Apple
 
 Save up to
-								$800
+								$1000
 								on
 
 the newest
@@ -189,7 +189,7 @@ after trade‑in.
 #### AT&amp;T
 
 Save up to
-									$800
+									$1000
 
 #### T-Mobile/Sprint, now part of T-Mobile
 
