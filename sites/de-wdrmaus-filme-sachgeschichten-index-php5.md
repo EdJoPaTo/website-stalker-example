@@ -147,6 +147,7 @@
 - [Deutschlandreise: Seifenblasen](https://www.wdrmaus.de/filme/sachgeschichten/deutschlandreise_seifenblasen.php5)
 - [Deutschlandreise: Ulmer Münster](https://www.wdrmaus.de/filme/sachgeschichten/deutschlandreise_ulmer_muenster.php5)
 - [Diabetes](https://www.wdrmaus.de/filme/sachgeschichten/diabetes.php5)
+- [Diebstahlsicherung](https://www.wdrmaus.de/filme/sachgeschichten/diebstahlsicherung.php5)
 - [Digitaler Sprachassistent](https://www.wdrmaus.de/filme/sachgeschichten/digitaler_sprachassistent.php5)
 - [DIN A4](https://www.wdrmaus.de/filme/sachgeschichten/dina4.php5)
 - [Dinosaurier](https://www.wdrmaus.de/filme/sachgeschichten/dinosaurier.php5)
