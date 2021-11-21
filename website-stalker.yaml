@@ -95,11 +95,9 @@ sites:
       - "https://jonas.lol/projects/"
     editors:
       - css_select: body
-      - css_remove: script
-      - regex_replace:
-          pattern: class="[^"]+"
-          replace: ""
-      - html_prettify
+      - css_remove: "script, img"
+      - html_url_canonicalize
+      - html_markdownify
   - url: "https://deno.com/blog"
     editors:
       - rss:
@@ -116,7 +114,7 @@ sites:
   - url: "https://www.conventionalcommits.org/en/v1.0.0/"
     editors:
       - css_select: article
-      - html_prettify
+      - html_markdownify
 
   - url:
       - "https://www.apple.com/"
@@ -223,7 +221,13 @@ sites:
     editors:
       - css_select: .product
       - css_remove: img, a.button, .woocommerce-Price-currencySymbol
+      - regex_replace:
+          pattern: h\d
+          replace: span
       - html_markdownify
+      - regex_replace:
+          pattern: \[([^\]]+)\]\(
+          replace: "\n[$1]("
   - url: "https://www.pine64.org/availability-and-shipping-status/"
     editors:
       - css_select: .elementor-widget-wrap
