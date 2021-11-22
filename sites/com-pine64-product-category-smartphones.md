@@ -1,4 +1,4 @@
-[PINEPHONE – Beta Edition Linux SmartPhone](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/)
+[PINEPHONE – Beta Edition Linux SmartPhone [Out of Stock]](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/)
 
 [149.99](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/)
 
