@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Top Black Week deals - Selected servers have no setup fees!</title>
+			<link>https://www.hetzner.com/news/11-21-black-week/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					22. November 2021
+				</small>
+			</p>
+			<h4>
+			Top Black Week deals - Selected servers have no setup fees!
+			</h4>
+			<p class="list-card-preview">
+			Our world famous no setup fee sale has returned just in time for Black Week! You can get almost all of our AX or PX dedicated root servers without a...
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/11-21-black-week/">
+        Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Hetzner Goes USA! – Hetzner opens new location for cloud servers</title>
 			<link>https://www.hetzner.com/news/11-21-usa-cloud/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 			Virtualisation, AI, machine learning and creative applications — all of these use cases require high performance computing from a dedicated root server.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/12-20-px93/">
-        Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Black Weekend - No setup fee on select dedicated root servers</title>
-			<link>https://www.hetzner.com/news/11-20-black-weekend/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					27. November 2020
-				</small>
-			</p>
-			<h4>
-			Black Weekend - No setup fee on select dedicated root servers
-			</h4>
-			<p class="list-card-preview">
-			It's that time of the year again. Our deals will be the highlight of your Black Weekend.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/11-20-black-weekend/">
         Show more
 			</a>
 		</li>
