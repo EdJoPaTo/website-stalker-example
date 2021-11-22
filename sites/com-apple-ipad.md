@@ -1,5 +1,8 @@
 # iPad
 
+Get ready for the Apple Shopping Event. Starts&nbsp;Friday.
+[Get an early look](https://www.apple.com/us/shop/goto/gifts/shopping_event)
+
 Get your holiday gifts on time.
 [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
 

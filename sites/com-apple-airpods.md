@@ -1,7 +1,7 @@
 # AirPods
 
-Get 6 months of Apple&nbsp;Music free with your AirPods.
-[Learn more](https://offers.applemusic.apple/six-month-offer)
+Get ready for the Apple Shopping Event. Starts&nbsp;Friday.
+[Get an early look](https://www.apple.com/us/shop/goto/gifts/shopping_event)
 
 New
 
