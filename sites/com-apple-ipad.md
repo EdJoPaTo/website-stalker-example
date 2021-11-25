@@ -1,57 +1,65 @@
-# iPad
-
-Get ready for the Apple Shopping Event. Starts&nbsp;Friday.
-[Get an early look](https://www.apple.com/us/shop/goto/gifts/shopping_event)
-
-Get your holiday gifts on time.
-[See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
-
-## New
 iPad
-mini
+==========
+
+ Get ready for the Apple Shopping Event. Starts Friday. [Get an early look](https://www.apple.com/us/shop/goto/gifts/shopping_event)
+
+ Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
+
+[](https://www.apple.com/ipad-mini/)
+
+New iPad mini
+----------
 
 Mega power.
-
-Mini&nbsp;sized.
+Mini sized.
 
 [Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_mini)
 
 [Learn more](https://www.apple.com/ipad-mini/)
 
-## New
-iPad
+[](https://www.apple.com/ipad-10.2/)
 
-Delightfully capable. Surprisingly&nbsp;affordable.
+New iPad
+----------
+
+Delightfully capable. Surprisingly affordable.
 
 [Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_10_2)
 
 [Learn more](https://www.apple.com/ipad-10.2/)
 
-## iPad Air
+[](https://www.apple.com/ipad-air/)
+
+ iPad Air
+----------
 
 Powerful. Colorful.
-
 Wonderful.
 
 [Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
 
 [Learn more](https://www.apple.com/ipad-air/)
 
-## iPad Pro
+[](https://www.apple.com/ipad-pro/)
+
+ iPad Pro
+----------
 
 The ultimate
-
 iPad experience.
 
 [Buy](https://www.apple.com/us/shop/goto/ipad_pro/select)
 
 [Learn more](https://www.apple.com/ipad-pro/)
 
-## Which iPad is right for you?
+Which iPad is right for you?
+----------
 
-### iPad Pro
+[](https://www.apple.com/ipad-pro/)
 
-The ultimate iPad&nbsp;experience.
+###  iPad Pro  ###
+
+The ultimate iPad experience.
 
 [Buy](https://www.apple.com/us/shop/goto/ipad_pro/select)
 
@@ -72,12 +80,13 @@ USB-C connector with support for Thunderbolt / USB 4
 5G cellular
 
 Works with
+Apple Pencil (2nd generation)
 
-Apple&nbsp;Pencil (2nd&nbsp;generation)
+Works with Magic Keyboard and Smart Keyboard Folio
 
-Works with Magic&nbsp;Keyboard and Smart Keyboard&nbsp;Folio
+[](https://www.apple.com/ipad-air/)
 
-### iPad Air
+###  iPad Air  ###
 
 Powerful. Colorful. Wonderful.
 
@@ -98,13 +107,13 @@ USB-C connector
 4G LTE cellular
 
 Works with
+Apple Pencil (2nd generation)
 
-Apple&nbsp;Pencil (2nd&nbsp;generation)
+Works with Magic Keyboard and Smart Keyboard Folio
 
-Works with Magic&nbsp;Keyboard and Smart Keyboard&nbsp;Folio
+[](https://www.apple.com/ipad-10.2/)
 
-### New
-iPad
+### New iPad  ###
 
 Delightfully capable. Surprisingly affordable.
 
@@ -125,19 +134,17 @@ Lightning connector
 4G LTE cellular
 
 Works with
-
-Apple&nbsp;Pencil (1st&nbsp;generation)
+Apple Pencil (1st generation)
 
 Works with
+Smart Keyboard
 
-Smart&nbsp;Keyboard
+[](https://www.apple.com/ipad-mini/)
 
-### New
-iPad mini
+### New iPad mini  ###
 
-Mega&nbsp;power.
-
-Mini&nbsp;sized.
+Mega power.
+Mini sized.
 
 [Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_mini)
 
@@ -156,23 +163,23 @@ USB-C connector
 5G cellular
 
 Works with
-
-Apple&nbsp;Pencil (2nd&nbsp;generation)
+Apple Pencil (2nd generation)
 
 Works with
+ Bluetooth keyboards
 
-Bluetooth&nbsp;keyboards
+* [Compare all iPad models](https://www.apple.com/ipad/compare/)
+* [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
-- [Compare all iPad models](https://www.apple.com/ipad/compare/)
-- [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
-
-## Let the holidays be filled with great&nbsp;gifts.
+ Let the holidays be filled with great gifts.
+----------
 
 [Shop now](https://www.apple.com/us/shop/goto/gifts)
 
-Special carrier deals at&nbsp;Apple
+Special carrier deals at Apple
 
-## Buy an iPad with Wi‑Fi + Cellular. Get up to $200 back after activation.
+Buy an iPad with Wi‑Fi + Cellular. Get up to $200 back after activation.
+----------
 
 [Buy iPad Pro](https://www.apple.com/us/shop/goto/ipad_pro/select)
 
@@ -182,196 +189,191 @@ Special carrier deals at&nbsp;Apple
 
 [Buy iPad mini](https://www.apple.com/us/shop/goto/buy_ipad/ipad_mini)
 
-## Get 3%
-
+Get 3%
 Daily Cash
 
-back
-
-with Apple&nbsp;Card.
+ back
+with Apple Card.
+----------
 
 And pay over time, interest‑free
-
 when you choose to check out with
-
 Apple Card Monthly Installments.
 
 [Learn more](https://www.apple.com/apple-card/monthly-installments/)
 
-## Trade in your current iPad and get credit toward a new one.
+Trade in your current iPad and get credit toward a new one.
+----------
 
-With Apple Trade In, just give us your eligible iPad and get credit for a new one. It’s good for you and&nbsp;the&nbsp;planet.
+With Apple Trade In, just give us your eligible iPad and get credit for a new one. It’s good for you and the planet.
 
 [Learn more](https://www.apple.com/us/shop/goto/trade_in#tradeup-app)
 
-## Free delivery
+Free delivery
+----------
 
 And free returns. See checkout
 
-for delivery&nbsp;dates.
+for delivery dates.
 
 [Learn more](https://www.apple.com/us/shop/goto/shipping_pickup)
 
-## Pay monthly&nbsp;at 0% APR
+Pay monthly at 0% APR
+----------
 
-You can pay over time when you choose to check out with Apple&nbsp;Card Monthly Installments.
+You can pay over time when you choose to check out with Apple Card Monthly Installments.
 
 [Learn more](https://www.apple.com/apple-card/monthly-installments/)
 
-## Personalize it
+Personalize it
+----------
 
-Engrave your iPad with your name or a personal note — free. Only&nbsp;at&nbsp;Apple.
+Engrave your iPad with your name or a personal note — free. Only at Apple.
 
 [Learn more](https://www.apple.com/us/shop/goto/engraving_and_gift_wrap)
 
-## iPad essentials
+iPad essentials
+----------
 
-### Apple&nbsp;Pencil
+### Apple Pencil ###
 
 Dream it up. Jot it down.
 
-- [Shop](https://www.apple.com/us/shop/goto/buy_ipad/pencil)
-- [Learn more](https://www.apple.com/apple-pencil/)
+* [Shop](https://www.apple.com/us/shop/goto/buy_ipad/pencil)
+* [Learn more](https://www.apple.com/apple-pencil/)
 
-### Keyboards for iPad
+### Keyboards for iPad ###
 
-Keyboards that have you&nbsp;covered.
+Keyboards that have you covered.
 
-- [Shop](https://www.apple.com/us/shop/goto/buy_ipad/keyboards)
-- [Learn more](https://www.apple.com/ipad-keyboards/)
+* [Shop](https://www.apple.com/us/shop/goto/buy_ipad/keyboards)
+* [Learn more](https://www.apple.com/ipad-keyboards/)
 
-### Accessories
+### Accessories ###
 
-Explore covers, cases, and more to help you get the most from your&nbsp;iPad.
+Explore covers, cases, and more to help you get the most from your iPad.
 
 [Shop iPad accessories](https://www.apple.com/us/shop/goto/ipad/accessories)
 
 ### Say it in a way
+only you can. ###
 
-only you can.
-
-Discover new engraving options for AirPods. Mix emoji, text, and&nbsp;numbers.
+Discover new engraving options for AirPods. Mix emoji, text, and numbers.
 
 [Learn more](https://www.apple.com/shop/engraving-and-gift-wrap)
 
-## What makes an iPad&nbsp;an&nbsp;iPad?
+What makes an iPad an iPad?
+----------
 
-### Why iPad
+### Why iPad ###
 
 Yes, it does that.
 
-And&nbsp;then&nbsp;some.
+And then some.
 
 [Learn more](https://www.apple.com/ipad/why-ipad/)
 
-## iPadOS&nbsp;15
+iPadOS 15
+----------
 
-Work wonders. With&nbsp;ease.
+Work wonders. With ease.
 
-[Learn more](https://www.apple.com/ipados/ipados-15/)
-[of what’s new in iPadOS 15](https://www.apple.com/ipados/ipados-15/)
+[Learn more of what’s new in iPadOS 15](https://www.apple.com/ipados/ipados-15/)
 
-### iCloud
+### iCloud ###
 
-The best place for all your photos, files, and&nbsp;more.
+The best place for all your photos, files, and more.
 
 [Learn more](https://www.apple.com/icloud/)
 
-### Apple Pay
+### Apple Pay ###
 
 The safer way to make
+ secure,
 
-secure,
-
-contactless purchases
-
-in stores and&nbsp;online.
+ contactless purchases
+ in stores and online.
 
 [Learn more](https://www.apple.com/apple-pay/)
 
-## Get more out of your&nbsp;iPad
+Get more out of your iPad
+----------
 
-### Today at Apple
+### Today at Apple ###
 
-#### Virtual Sessions
+#### Virtual Sessions ####
 
-Learn the basics of using iPad live with Apple&nbsp;Creatives.
+Learn the basics of using iPad live with Apple Creatives.
 
 [Sign up](https://www.apple.com/today/event/virtual-session-product-skills-ipad/)
 
-### Apple&nbsp;One
+### Apple One ###
 
-Bundle up to six Apple&nbsp;services. And enjoy more for less.
+Bundle up to six Apple services. And enjoy more for less.
 
-- [Try it free](https://one.apple.com/us?itscg=10000&amp;itsct=one-NA-ipad-tile-apl-avl-102020)
-- [Learn more](https://www.apple.com/apple-one/)
+* [Try it free](https://one.apple.com/us?itscg=10000&itsct=one-NA-ipad-tile-apl-avl-102020)
+* [Learn more](https://www.apple.com/apple-one/)
 
-### Apple TV Plus
+### Apple TV Plus ###
 
-Get 3&nbsp;months of Apple&nbsp;TV+ free
-
+Get 3 months of Apple TV+ free
 when you buy an iPad.
 
-- [Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&amp;itsct=atv-0-ipf_fp-tle_stm-apl-avl-191111)
-- [Learn more](https://www.apple.com/apple-tv-plus/)
-[about Apple TV Plus](https://www.apple.com/apple-tv-plus/)
+* [Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-0-ipf_fp-tle_stm-apl-avl-191111)
+* [Learn moreabout Apple TV Plus](https://www.apple.com/apple-tv-plus/)
 
-### Apple Music
+### Apple Music ###
 
 Over 75 million songs. 3 months on us.
 
-- [Try it free](https://music.apple.com/deeplink?app=music&amp;p=subscribe&amp;at=1000l4QJ&amp;ct=418&amp;itscg=10000&amp;itsct=418n)
-- [Learn more](https://www.apple.com/apple-music/)
+* [Try it free](https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=418&itscg=10000&itsct=418n)
+* [Learn more](https://www.apple.com/apple-music/)
 
-### Apple Fitness Plus
+### Apple Fitness Plus ###
 
 The first fitness service
+ powered by Apple Watch.
 
-powered by Apple&nbsp;Watch.
+* [Try it free](https://fitness.apple.com/subscribe?itscg=10000&itsct=fit-promo-ipd_fp-apl-avl-201111)
+* [Learn more](https://www.apple.com/apple-fitness-plus/)
 
-- [Try it free](https://fitness.apple.com/subscribe?itscg=10000&amp;itsct=fit-promo-ipd_fp-apl-avl-201111)
-- [Learn more](https://www.apple.com/apple-fitness-plus/)
-
-### Apple Arcade
+### Apple Arcade ###
 
 Get 3 months of Apple Arcade free
-
 when you buy an iPad.
 
-- [Try it free](https://www.apple.com/ipad/#modal)
-- [Learn more](https://www.apple.com/apple-arcade/)
-[about Apple Arcade](https://www.apple.com/apple-arcade/)
+* [Try it free](https://www.apple.com/ipad/#modal)
+* [Learn moreabout Apple Arcade](https://www.apple.com/apple-arcade/)
 
-## Upgrade to start your free trial.
-- [Get the latest iOS](https://support.apple.com/ios/update)
-- [Get the latest iPadOS](https://support.apple.com/ios/update)
-- [Get the latest tvOS](https://support.apple.com/en-us/HT202716)
-- [Get the latest macOS](https://www.apple.com/macos/how-to-upgrade/)
+Upgrade to start your free trial.
+----------
 
-### Apple News Plus
+* [Get the latest iOS](https://support.apple.com/ios/update)
+* [Get the latest iPadOS](https://support.apple.com/ios/update)
+* [Get the latest tvOS](https://support.apple.com/en-us/HT202716)
+* [Get the latest macOS](https://www.apple.com/macos/how-to-upgrade/)
+
+### Apple News Plus ###
 
 Hundreds of magazines and
+leading newspapers. One subscription.
 
-leading&nbsp;newspapers. One&nbsp;subscription.
+* [Try it free](applenewss://apple.news/subscription?itscg=10000&itsct=nws-00-ipad_fp-try_tle-apl-lch-190325&campaign_id=AN_Marcom_iPad_Free)
+* [Learn moreabout Apple News Plus](https://www.apple.com/apple-news/)
 
-- [Try it free](applenewss://apple.news/subscription?itscg=10000&amp;itsct=nws-00-ipad_fp-try_tle-apl-lch-190325&amp;campaign_id=AN_Marcom_iPad_Free)
-- [Learn more](https://www.apple.com/apple-news/)
-[about Apple News Plus](https://www.apple.com/apple-news/)
-
-### Apple&nbsp;Gift&nbsp;Card
+### Apple Gift Card ###
 
 For everything and everyone.
 
-- [Learn more](https://www.apple.com/us/shop/goto/giftcards)
-[about Apple Gift Card](https://www.apple.com/us/shop/goto/giftcards)
-- [Buy](https://www.apple.com/us/shop/goto/buy_giftcard/giftcard)
+* [Learn moreabout Apple Gift Card](https://www.apple.com/us/shop/goto/giftcards)
+* [Buy](https://www.apple.com/us/shop/goto/buy_giftcard/giftcard)
 
-### Apple and Education
+### Apple and Education ###
 
-Empowering educators and students to move the world&nbsp;forward.
+Empowering educators and students to move the world forward.
 
 [Learn more](https://www.apple.com/education/)
 
-### Apple at Work
+### Apple at Work ###
 
 [Learn more](https://www.apple.com/ipad/business/)

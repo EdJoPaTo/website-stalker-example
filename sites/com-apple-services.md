@@ -1,218 +1,172 @@
-Get up to six services in one subscription with Apple&nbsp;One.
-[Learn&nbsp;more](https://www.apple.com/apple-one/)
+Get up to six services in one subscription with Apple One. [Learn more](https://www.apple.com/apple-one/)
 
-# The best
-
-experiences.
-Only on Apple.
+The best
+experiences. Only on Apple.
+==========
 
 Get the most out of the devices you love with high‑quality content and services. Award‑winning shows and movies, amazing music in spatial audio, world-class workouts and meditations, trusted news publications, superfun games —
+even the ways you pay for things. And they’re only on Apple.
 
-even the ways you pay for things. And they’re only on&nbsp;Apple.
+Apple TV+
+----------
 
-## Apple TV+
-Bundle with
-One
-Bundle with Apple one
+Bundle with One Bundle with Apple one
 
 ### Stream award-winning
-
 Apple Originals on
+every screen. ###
 
-every screen.
-[Try it free](https://tv.apple.com/?itscg=10000&amp;itsct=pod-ovp-nav-apl-ann-21_1019)
-[Learn more](https://www.apple.com/apple-tv-plus/)
-Some titles come
+[Try it free](https://tv.apple.com/?itscg=10000&itsct=pod-ovp-nav-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-tv-plus/)
 
+ Some titles come
 to Apple TV+ later.
-Finch
-The Shrink Next Door
-Ted Lasso
-Truth Be Told
-The Morning Show
-See
-CODA
-Foundation
-Acapulco
-Blush
 
-## Apple Music
-Bundle with
-Apple
-One
-Bundle with Apple one
+ Finch
+
+ The Shrink Next Door
+
+ Ted Lasso
+
+ Truth Be Told
+
+ The Morning Show
+
+ See
+
+ CODA
+
+ Foundation
+
+ Acapulco
+
+ Blush
+
+Apple Music
+----------
+
+Bundle with Apple One Bundle with Apple one
 
 ### Listen to music you love
-
 in
 
 spatial audio
+with Dolby Atmos. ###
 
-with Dolby Atmos.
-[Try it free](https://music.apple.com/?itscg=10000&amp;itsct=pod-ovp-music-apl-ann-21_1019)
-[Learn more](https://www.apple.com/apple-music/)
+[Try it free](https://music.apple.com/?itscg=10000&itsct=pod-ovp-music-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-music/)
 
-## Apple Fitness+
-Bundle with
-Apple
-One
-Bundle with Apple one
+Apple Fitness+
+----------
+
+Bundle with Apple One Bundle with Apple one
 
 ### From HIIT to Meditation,
+there’s something for everyone. ###
 
-there’s something for everyone.
-[Try it free](https://fitness.apple.com/us/subscribe?itscg=10000&amp;itsct=pod-services-fitness-apl-ann-21_1019)
-[Learn more](https://www.apple.com/apple-fitness-plus/)
+[Try it free](https://fitness.apple.com/us/subscribe?itscg=10000&itsct=pod-services-fitness-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-fitness-plus/)
 
-## Apple Arcade
-Bundle with
-Apple
-One
-Bundle with Apple one
+Apple Arcade
+----------
+
+Bundle with Apple One Bundle with Apple one
 
 ### Best collection of mobile
+games for every player. ###
 
-games for every player.
-[Try it free](https://apps.apple.com/arcade?itscg=10000&amp;itsct=pod-services-arcade-apl-ann-21_1019)
-[Learn more](https://www.apple.com/apple-arcade/)
+[Try it free](https://apps.apple.com/arcade?itscg=10000&itsct=pod-services-arcade-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-arcade/)
 
-## Apple News+
-Bundle with
-Apple
-One
-Bundle with Apple one
+Apple News+
+----------
+
+Bundle with Apple One Bundle with Apple one
 
 ### Hundreds of magazines
 
 and leading
-
 newspapers.
 
-One subscription.
-[Try it free](https://news.apple.com/?itscg=10000&amp;itsct=pod-ovp-news-apl-ann-21_1019)
-[Learn more](https://www.apple.com/apple-news/)
+One subscription. ###
 
-## iCloud
-Bundle with
-Apple
-One
-Bundle with Apple one
+[Try it free](https://news.apple.com/?itscg=10000&itsct=pod-ovp-news-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-news/)
+
+iCloud
+----------
+
+Bundle with Apple One Bundle with Apple one
 
 ### The best place for
-
 photos
-
 and files.
-
 Great
-
 features to
-
 protect
+your privacy. ###
 
-your privacy.
-[Upgrade to iCloud+](https://icq.icloud.com/?context=ZXh0ZXJuYWxBcHBfY29tLmFwcGxlLm1vYmlsZW1haWxfZW1haWxUb0ZyZWVVc2Vy)
-[Learn more](https://www.apple.com/icloud/)
--
-A lifetime of photos on all your devices.
+[Upgrade to iCloud+](https://icq.icloud.com/?context=ZXh0ZXJuYWxBcHBfY29tLmFwcGxlLm1vYmlsZW1haWxfZW1haWxUb0ZyZWVVc2Vy) [Learn more](https://www.apple.com/icloud/)
 
--
-Record home security video. View it from anywhere.
+* A lifetime of photos on all your devices.
 
--
-Share photos, folders, and files with&nbsp;ease.
+* Record home security video. View it from anywhere.
 
--
-Store files in the cloud. Keep them safe. Access them from anywhere.
+* Share photos, folders, and files with ease.
 
--
-Automatic backups give you peace of&nbsp;mind.
+* Store files in the cloud. Keep them safe. Access them from anywhere.
 
--
-Browse like it’s nobody’s business. Because it isn’t.
+* Automatic backups give you peace of mind.
 
-## Apple&nbsp;One
+* Browse like it’s nobody’s business. Because it isn’t.
 
-Bundle up to six Apple services and enjoy more for&nbsp;less.
+Apple One
+----------
 
-- [Try it free](https://one.apple.com/?itscg=10000&amp;itsct=pod-ovp-apple_one-apl-ann-21_1019)
-- [Learn more](https://www.apple.com/apple-one/)
+Bundle up to six Apple services and enjoy more for less.
 
-## Apple Podcasts
+* [Try it free](https://one.apple.com/?itscg=10000&itsct=pod-ovp-apple_one-apl-ann-21_1019)
+* [Learn more](https://www.apple.com/apple-one/)
+
+Apple Podcasts
+----------
 
 ### Millions of shows, from
 
 the biggest
-
 names to the
 
-best independents.
-[Open the app](https://podcasts.apple.com/?itscg=10000&amp;itsct=pod-ovp-podcasts-apl-ann-21_1019)
-[Learn more](https://www.apple.com/apple-podcasts/)
+best independents. ###
 
-## Apple Books
+[Open the app](https://podcasts.apple.com/?itscg=10000&itsct=pod-ovp-podcasts-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-podcasts/)
+
+Apple Books
+----------
 
 ### Read, listen, discover.
+All in one place. ###
 
-All in one place.
-[Open the app](https://books.apple.com/reading-now?itscg=10000&amp;itsct=pod-ovp-books-apl-ann-21_1019&amp;campaign_id=AB_marcom_ownmedia_All)
-[Learn more](https://www.apple.com/apple-books/)
+[Open the app](https://books.apple.com/reading-now?itscg=10000&itsct=pod-ovp-books-apl-ann-21_1019&campaign_id=AB_marcom_ownmedia_All) [Learn more](https://www.apple.com/apple-books/)
 
-## Apple Card
+Apple Card
+----------
 
 ### The simplicity of Apple.
+In a credit card. ###
 
-In a credit card.
-[Apply now](https://card.apple.com/?itscg=10000&amp;itsct=pod-ovp-apple_card-apl-ann-21_1019)
-[Learn more](https://www.apple.com/apple-card/)
--
-No fees. Not even hidden ones.
+[Apply now](https://card.apple.com/?itscg=10000&itsct=pod-ovp-apple_card-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-card/)
 
--
-Up to 3% unlimited Daily Cash back on every purchase.
+* No fees. Not even hidden ones.
 
--
-Apply in minutes to see if you are approved, with no impact to your credit&nbsp;score.
+* Up to 3% unlimited Daily Cash back on every purchase.
 
--
-The first credit card&nbsp;that encourages you to pay less interest.
+* Apply in minutes to see if you are approved, with no impact to your credit score.
 
--
-Built for privacy and&nbsp;security.
+* The first credit card that encourages you to pay less interest.
 
--
-Interest‑free payments on Apple purchases if you choose to pay with Apple Card Monthly Installments.
+* Built for privacy and security.
 
-## Even more
+* Interest‑free payments on Apple purchases if you choose to pay with Apple Card Monthly Installments.
 
-experiences,
-
+Even more
+ experiences,
 at
+ your service.
+----------
 
-your service.
-
-[Apple Pay](https://www.apple.com/apple-pay/)
-
-[Today’s](https://www.apple.com/apple-pay/)
-
-[way](https://www.apple.com/apple-pay/)
-
-[to pay.](https://www.apple.com/apple-pay/)
-
-[Learn more](https://www.apple.com/apple-pay/)
-
-[Wallet](https://www.apple.com/wallet/)
-
-[Credit cards, boarding passes, and more.](https://www.apple.com/wallet/)
-
-[All in one&nbsp;place.](https://www.apple.com/wallet/)
-
-[Learn more](https://www.apple.com/wallet/)
-
-[Apple Cash](https://www.apple.com/apple-cash/)
-
-[Spend it. Send it.](https://www.apple.com/apple-cash/)
-
-[Stash&nbsp;it.](https://www.apple.com/apple-cash/)
-
-[Learn more](https://www.apple.com/apple-cash/)
+[Apple Pay Today’s way to pay. Learn more](https://www.apple.com/apple-pay/) [Wallet Credit cards, boarding passes, and more. All in one place. Learn more](https://www.apple.com/wallet/) [Apple Cash Spend it. Send it. Stash it. Learn more](https://www.apple.com/apple-cash/)

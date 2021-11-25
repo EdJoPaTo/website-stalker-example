@@ -4,10 +4,11 @@
 		<title>EdJoPaTos Blog</title>
 		<link>https://edjopato.de/post/</link>
 		<description>Ein Blog über Dinge. Mit Typos.</description>
-		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Tabs vs. Spaces</title>
 			<link>https://edjopato.de/post/2021/11/18-tabs-spaces/</link>
+			<pubDate>Thu, 18 Nov 2021 15:12:00 +0100</pubDate>
 			<content:encoded><![CDATA[2021-11-18
 
 Tabs vs. Spaces]]></content:encoded>
@@ -15,6 +16,7 @@ Tabs vs. Spaces]]></content:encoded>
 		<item>
 			<title>Hallo an das Open-Source-Blog-Netzwerk</title>
 			<link>https://edjopato.de/post/2021/11/04-osbn/</link>
+			<pubDate>Thu, 04 Nov 2021 19:37:00 +0100</pubDate>
 			<content:encoded><![CDATA[2021-11-04
 
 Hallo an das Open-Source-Blog-Netzwerk]]></content:encoded>
@@ -22,6 +24,7 @@ Hallo an das Open-Source-Blog-Netzwerk]]></content:encoded>
 		<item>
 			<title>Fusselfreier Quellcode - so nervig wie möglich bitte</title>
 			<link>https://edjopato.de/post/2021/11/02-sourcecode-linter/</link>
+			<pubDate>Tue, 02 Nov 2021 20:10:00 +0100</pubDate>
 			<content:encoded><![CDATA[2021-11-02
 
 Fusselfreier Quellcode - so nervig wie möglich bitte]]></content:encoded>
@@ -29,6 +32,7 @@ Fusselfreier Quellcode - so nervig wie möglich bitte]]></content:encoded>
 		<item>
 			<title>Von alles nach alles konvertieren</title>
 			<link>https://edjopato.de/post/2021/11/02-convert-everything/</link>
+			<pubDate>Tue, 02 Nov 2021 17:28:00 +0100</pubDate>
 			<content:encoded><![CDATA[2021-11-02
 
 Von alles nach alles konvertieren]]></content:encoded>
@@ -36,6 +40,7 @@ Von alles nach alles konvertieren]]></content:encoded>
 		<item>
 			<title>Zocken in einem eigenen Windows am Arbeitslaptop</title>
 			<link>https://edjopato.de/post/2021/10/20-windows-to-go/</link>
+			<pubDate>Wed, 20 Oct 2021 22:04:00 +0200</pubDate>
 			<content:encoded><![CDATA[2021-10-20
 
 Zocken in einem eigenen Windows am Arbeitslaptop]]></content:encoded>
@@ -43,6 +48,7 @@ Zocken in einem eigenen Windows am Arbeitslaptop]]></content:encoded>
 		<item>
 			<title>Hacker*Innen Ethik und die Cloud</title>
 			<link>https://edjopato.de/post/2021/10/20-hackerinnen-ethik-cloud/</link>
+			<pubDate>Wed, 20 Oct 2021 02:17:00 +0200</pubDate>
 			<content:encoded><![CDATA[2021-10-20
 
 Hacker*Innen Ethik und die Cloud]]></content:encoded>
@@ -50,6 +56,7 @@ Hacker*Innen Ethik und die Cloud]]></content:encoded>
 		<item>
 			<title>Die Cloud - Computer fremder Menschen</title>
 			<link>https://edjopato.de/post/2021/10/18-cloud/</link>
+			<pubDate>Mon, 18 Oct 2021 23:45:00 +0200</pubDate>
 			<content:encoded><![CDATA[2021-10-18
 
 Die Cloud - Computer fremder Menschen]]></content:encoded>
@@ -57,6 +64,7 @@ Die Cloud - Computer fremder Menschen]]></content:encoded>
 		<item>
 			<title>Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung</title>
 			<link>https://edjopato.de/post/2021/10/07-webcam-blur/</link>
+			<pubDate>Thu, 07 Oct 2021 19:25:00 +0200</pubDate>
 			<content:encoded><![CDATA[2021-10-07
 
 Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung]]></content:encoded>
@@ -64,6 +72,7 @@ Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung]]></
 		<item>
 			<title>Rust hilft dabei, nur valide Zustände abzubilden</title>
 			<link>https://edjopato.de/post/2021/10/04-rust-safe-state/</link>
+			<pubDate>Mon, 04 Oct 2021 15:20:00 +0200</pubDate>
 			<content:encoded><![CDATA[2021-10-04
 
 Rust hilft dabei, nur valide Zustände abzubilden]]></content:encoded>
@@ -71,6 +80,7 @@ Rust hilft dabei, nur valide Zustände abzubilden]]></content:encoded>
 		<item>
 			<title>Ein neuer Monitor und ungewöhnliche Experimente</title>
 			<link>https://edjopato.de/post/2021/09/21-monitor/</link>
+			<pubDate>Tue, 21 Sep 2021 23:31:00 +0200</pubDate>
 			<content:encoded><![CDATA[2021-09-21
 
 Ein neuer Monitor und ungewöhnliche Experimente]]></content:encoded>
@@ -78,6 +88,7 @@ Ein neuer Monitor und ungewöhnliche Experimente]]></content:encoded>
 		<item>
 			<title>ISOs booten mit Ventoy</title>
 			<link>https://edjopato.de/post/2021/09/20-ventoy/</link>
+			<pubDate>Mon, 20 Sep 2021 12:34:00 +0200</pubDate>
 			<content:encoded><![CDATA[2021-09-20
 
 ISOs booten mit Ventoy]]></content:encoded>
@@ -85,6 +96,7 @@ ISOs booten mit Ventoy]]></content:encoded>
 		<item>
 			<title>Cloud-sync per Command-Line mit Rclone</title>
 			<link>https://edjopato.de/post/2021/07/17-rclone/</link>
+			<pubDate>Fri, 17 Sep 2021 23:24:00 +0200</pubDate>
 			<content:encoded><![CDATA[2021-09-17
 
 Cloud-sync per Command-Line mit Rclone]]></content:encoded>

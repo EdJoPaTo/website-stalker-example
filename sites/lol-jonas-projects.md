@@ -1,18 +1,19 @@
 [JONAS.LOL](https://jonas.lol/)
 
-[PROJECTS](https://jonas.lol/projects)
+[PROJECTS](https://jonas.lol/projects) [GUIDES](https://jonas.lol/guides)
 
-[GUIDES](https://jonas.lol/guides)
-
-# Projects
+Projects
+==========
 
 some stuff I worked on
 
-[RunReview](https://jonas.lol/runreview)
+[](https://jonas.lol/runreview) [RunReview](https://jonas.lol/runreview)
 
 iOS App visualizing and summarizing running statistics per year
 
 [more](https://jonas.lol/runreview)
+
+[](https://tastytunes.app/)
 
 a micro-social network to share music on iOS
 
@@ -48,12 +49,8 @@ a command-line interface for Elgato Avea light bulbs
 
 a macOS application, suggesting songs to mix when using Traktor Pro DJ
 
-[JONAS](https://jonas.lol/)
-
-[LOL](https://jonas.lol/)
+[JONAS LOL](https://jonas.lol/)
 
 from Hamburg with love
 
-[Twitter logo](https://twitter.com/vfuc42)
-[GitHub logo](https://github.com/vfuc)
-[Email icon](mailto:hello@jonas.lol)
+[Twitter logo](https://twitter.com/vfuc42) [GitHub logo](https://github.com/vfuc) [Email icon](mailto:hello@jonas.lol)

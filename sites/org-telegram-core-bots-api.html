@@ -35,7 +35,7 @@
 									Introduction to Bots
 								</strong>
 							</a>
-							 and
+							and
 							<a href="/bots/faq">
 								<strong>
 									Bot FAQ
@@ -57,7 +57,7 @@
 							<a href="https://t.me/botnews">
 								@BotNews
 							</a>
-							 to be the first to know about the latest updates and join the discussion in
+							to be the first to know about the latest updates and join the discussion in
 							<a href="https://t.me/bottalk">
 								@BotTalk
 							</a>
@@ -81,15 +81,15 @@
 							<code>
 								creates_join_request
 							</code>
-							 to the methods
+							to the methods
 							<a href="#createchatinvitelink">
 								createChatInviteLink
 							</a>
-							 and
+							and
 							<a href="#editchatinvitelink">
 								editChatInviteLink
 							</a>
-							 for managing chat invite links that create join requests (read more about this on our
+							for managing chat invite links that create join requests (read more about this on our
 							<a href="https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more#join-requests-for-groups-and-channels">
 								blog
 							</a>
@@ -100,11 +100,11 @@
 							<code>
 								creates_join_request
 							</code>
-							 and
+							and
 							<code>
 								pending_join_request_count
 							</code>
-							 to the class
+							to the class
 							<a href="#chatinvitelink">
 								ChatInviteLink
 							</a>
@@ -115,23 +115,23 @@
 							<code>
 								name
 							</code>
-							 to the class
+							to the class
 							<a href="#chatinvitelink">
 								ChatInviteLink
 							</a>
-							 and the parameters
+							and the parameters
 							<code>
 								name
 							</code>
-							 to the methods
+							to the methods
 							<a href="#createchatinvitelink">
 								createChatInviteLink
 							</a>
-							 and
+							and
 							<a href="#editchatinvitelink">
 								editChatInviteLink
 							</a>
-							 for managing
+							for managing
 							<a href="https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more#unique-names-for-invite-links">
 								invite link names
 							</a>
@@ -142,37 +142,37 @@
 							<a href="#chatjoinrequest">
 								ChatJoinRequest
 							</a>
-							 and the field
+							and the field
 							<em>
 								chat_join_request
 							</em>
-							 in the
+							in the
 							<a href="#update">
 								Update
 							</a>
-							 class. The bot must be an administrator in the chat with the
+							class. The bot must be an administrator in the chat with the
 							<em>
 								can_invite_users
 							</em>
-							 administrator right to receive these updates.
+							administrator right to receive these updates.
 						</li>
 						<li>
 							Added the methods
 							<a href="#approvechatjoinrequest">
 								approveChatJoinRequest
 							</a>
-							 and
+							and
 							<a href="#declinechatjoinrequest">
 								declineChatJoinRequest
 							</a>
-							 for managing requests to join the chat.
+							for managing requests to join the chat.
 						</li>
 						<li>
 							Added support for the
 							<em>
 								choose_sticker
 							</em>
-							 action in the method
+							action in the method
 							<a href="#sendchataction">
 								sendChatAction
 							</a>
@@ -184,7 +184,7 @@
 						<p>
 							<strong>
 								<img alt="⚠️" class="emoji" height="20" src="//telegram.org/img/emoji/40/E29AA0.png" width="20">
-								 WARNING!
+								WARNING!
 								<img alt="⚠️" class="emoji" height="20" src="//telegram.org/img/emoji/40/E29AA0.png" width="20">
 							</strong>
 							<br>
@@ -192,7 +192,7 @@
 							<code>
 								2^31 - 1
 							</code>
-							 before the end of this year and it will be no longer possible to store them in a signed 32-bit integer type. User identifiers will have up to 52 significant bits, so a 64-bit integer or double-precision float type would still be safe for storing them. Please make sure that your code can correctly handle such user identifiers.
+							before the end of this year and it will be no longer possible to store them in a signed 32-bit integer type. User identifiers will have up to 52 significant bits, so a 64-bit integer or double-precision float type would still be safe for storing them. Please make sure that your code can correctly handle such user identifiers.
 						</p>
 					</blockquote>
 					<hr>
@@ -229,26 +229,26 @@
 							<code>
 								scope
 							</code>
-							 and
+							and
 							<code>
 								language_code
 							</code>
-							 to the method
+							to the method
 							<a href="#setmycommands">
 								setMyCommands
 							</a>
-							 to allow bots specify different commands for different chats and users.
+							to allow bots specify different commands for different chats and users.
 						</li>
 						<li>
 							Added the parameters
 							<code>
 								scope
 							</code>
-							 and
+							and
 							<code>
 								language_code
 							</code>
-							 to the method
+							to the method
 							<a href="#getmycommands">
 								getMyCommands
 							</a>
@@ -259,7 +259,7 @@
 							<a href="#deletemycommands">
 								deleteMyCommands
 							</a>
-							 to allow deletion of the bot's commands for the given scope and user language.
+							to allow deletion of the bot's commands for the given scope and user language.
 						</li>
 						<li>
 							Improved visibility of bot commands in Telegram apps with the new 'Menu' button in chats with bots, read more on the
@@ -280,7 +280,7 @@
 							<a href="#replykeyboardmarkup">
 								ReplyKeyboardMarkup
 							</a>
-							 and
+							and
 							<a href="#forcereply">
 								ForceReply
 							</a>
@@ -298,14 +298,14 @@
 							<a href="#chatmember">
 								ChatMember
 							</a>
-							 by splitting it into 6 subclasses.
+							by splitting it into 6 subclasses.
 						</li>
 						<li>
 							Renamed the method
 							<code>
 								kickChatMember
 							</code>
-							 to
+							to
 							<a href="#banchatmember">
 								banChatMember
 							</a>
@@ -316,7 +316,7 @@
 							<code>
 								getChatMembersCount
 							</code>
-							 to
+							to
 							<a href="#getchatmembercount">
 								getChatMemberCount
 							</a>
@@ -327,23 +327,23 @@
 							<code>
 								file_unique_id
 							</code>
-							 in objects of the type
+							in objects of the type
 							<a href="#photosize">
 								PhotoSize
 							</a>
-							 and of the fields
+							and of the fields
 							<code>
 								small_file_unique_id
 							</code>
-							 and
+							and
 							<code>
 								big_file_unique_id
 							</code>
-							 in objects of the type
+							in objects of the type
 							<a href="#chatphoto">
 								ChatPhoto
 							</a>
-							 were changed.
+							were changed.
 						</li>
 					</ul>
 					<hr>
@@ -351,7 +351,7 @@
 						<p>
 							<strong>
 								<img alt="⚠️" class="emoji" height="20" src="//telegram.org/img/emoji/40/E29AA0.png" width="20">
-								 WARNING!
+								WARNING!
 								<img alt="⚠️" class="emoji" height="20" src="//telegram.org/img/emoji/40/E29AA0.png" width="20">
 							</strong>
 							<br>
@@ -359,7 +359,7 @@
 							<code>
 								2^31 - 1
 							</code>
-							 and it will be no longer possible to store them in a signed 32-bit integer type. User identifiers will have up to 52 significant bits, so a 64-bit integer or double-precision float type would still be safe for storing them. Please make sure that your code can correctly handle such user identifiers.
+							and it will be no longer possible to store them in a signed 32-bit integer type. User identifiers will have up to 52 significant bits, so a 64-bit integer or double-precision float type would still be safe for storing them. Please make sure that your code can correctly handle such user identifiers.
 						</p>
 					</blockquote>
 					<hr>
@@ -385,7 +385,7 @@
 							<a href="https://core.telegram.org/bots/payments">
 								this manual
 							</a>
-							 for more details about the
+							for more details about the
 							<strong>
 								Bot Payments API
 							</strong>
@@ -396,7 +396,7 @@
 							<a href="#inputinvoicemessagecontent">
 								InputInvoiceMessageContent
 							</a>
-							 to support sending invoices as inline query results.
+							to support sending invoices as inline query results.
 						</li>
 						<li>
 							Allowed sending invoices to group, supergroup and channel chats.
@@ -406,33 +406,33 @@
 							<em>
 								max_tip_amount
 							</em>
-							 and
+							and
 							<em>
 								suggested_tip_amounts
 							</em>
-							 to the method
+							to the method
 							<a href="#sendinvoice">
 								sendInvoice
 							</a>
-							 to allow adding optional tips to the payment.
+							to allow adding optional tips to the payment.
 						</li>
 						<li>
 							The parameter
 							<em>
 								start_parameter
 							</em>
-							 of the method
+							of the method
 							<a href="#sendinvoice">
 								sendInvoice
 							</a>
-							 became optional. If the parameter isn't specified, the invoice can be paid directly from forwarded messages.
+							became optional. If the parameter isn't specified, the invoice can be paid directly from forwarded messages.
 						</li>
 						<li>
 							Added the field
 							<em>
 								chat_type
 							</em>
-							 to the class
+							to the class
 							<a href="#inlinequery">
 								InlineQuery
 							</a>
@@ -443,11 +443,11 @@
 							<a href="#voicechatscheduled">
 								VoiceChatScheduled
 							</a>
-							 and the field
+							and the field
 							<em>
 								voice_chat_scheduled
 							</em>
-							 to the class
+							to the class
 							<a href="#message">
 								Message
 							</a>
@@ -458,7 +458,7 @@
 							<a href="#sendchataction">
 								sendChatAction
 							</a>
-							 documentation to correctly mention “record_voice” and “upload_voice” instead of “record_audio” and “upload_audio” for related to voice note actions. Old action names will still work for backward compatibility.
+							documentation to correctly mention “record_voice” and “upload_voice” instead of “record_audio” and “upload_audio” for related to voice note actions. Old action names will still work for backward compatibility.
 						</li>
 					</ul>
 					<p>
@@ -486,9 +486,9 @@
 						</code>
 						, but we'll use simply
 						<strong>
-							&lt;token&gt;
+							<token>
 						</strong>
-						 in this document instead. You can learn about obtaining tokens and generating new ones in
+						in this document instead. You can learn about obtaining tokens and generating new ones in
 						<a href="https://core.telegram.org/bots#6-botfather">
 							this document
 						</a>
@@ -504,7 +504,7 @@
 					<p>
 						All queries to the Telegram Bot API must be served over HTTPS and need to be presented in this form:
 						<code>
-							https://api.telegram.org/bot&lt;token&gt;/METHOD_NAME
+							https://api.telegram.org/bot<token>/METHOD_NAME
 						</code>
 						. Like this for example:
 					</p>
@@ -518,11 +518,11 @@
 						<strong>
 							GET
 						</strong>
-						 and
+						and
 						<strong>
 							POST
 						</strong>
-						 HTTP methods. We support four ways of passing parameters in Bot API requests:
+						HTTP methods. We support four ways of passing parameters in Bot API requests:
 					</p>
 					<ul>
 						<li>
@@ -577,19 +577,19 @@
 						<em>
 							application/json
 						</em>
-						 or
+						or
 						<em>
 							application/x-www-form-urlencoded
 						</em>
-						 or
+						or
 						<em>
 							multipart/form-data
 						</em>
-						 response content type for passing parameters. Specify the method to be invoked in the
+						response content type for passing parameters. Specify the method to be invoked in the
 						<em>
 							method
 						</em>
-						 parameter of the request. It's not possible to know that such a request was successful or get its result.
+						parameter of the request. It's not possible to know that such a request was successful or get its result.
 					</p>
 					<blockquote>
 						<p>
@@ -597,7 +597,7 @@
 							<a href="/bots/faq#how-can-i-make-requests-in-response-to-updates">
 								FAQ
 							</a>
-							 for examples.
+							for examples.
 						</p>
 					</blockquote>
 					<h3>
@@ -646,18 +646,18 @@
 							<em>
 								max_webhook_connections
 							</em>
-							 up to 100000.
+							up to 100000.
 						</li>
 						<li>
 							Receive the absolute local path as a value of the
 							<em>
 								file_path
 							</em>
-							 field without the need to download the file after a
+							field without the need to download the file after a
 							<a href="#getfile">
 								getFile
 							</a>
-							 request.
+							request.
 						</li>
 					</ul>
 					<h4>
@@ -686,18 +686,18 @@
 						<a href="#getupdates">
 							getUpdates
 						</a>
-						 method on one hand and
+						method on one hand and
 						<a href="#setwebhook">
 							Webhooks
 						</a>
-						 on the other. Incoming updates are stored on the server until the bot receives them either way, but they will not be kept longer than 24 hours.
+						on the other. Incoming updates are stored on the server until the bot receives them either way, but they will not be kept longer than 24 hours.
 					</p>
 					<p>
 						Regardless of which option you choose, you will receive JSON-serialized
 						<a href="#update">
 							Update
 						</a>
-						 objects as a result.
+						objects as a result.
 					</p>
 					<h4>
 						<a class="anchor" href="#update" name="update">
@@ -711,13 +711,13 @@
 						<a href="#available-types">
 							object
 						</a>
-						 represents an incoming update.
+						represents an incoming update.
 						<br>
 						At most
 						<strong>
 							one
 						</strong>
-						 of the optional parameters can be present in any given update.
+						of the optional parameters can be present in any given update.
 					</p>
 					<table class="table">
 						<thead>
@@ -830,7 +830,7 @@
 									<a href="#inline-mode">
 										inline
 									</a>
-									 query
+									query
 								</td>
 							</tr>
 							<tr>
@@ -850,11 +850,11 @@
 									<a href="#inline-mode">
 										inline
 									</a>
-									 query that was chosen by a user and sent to their chat partner. Please see our documentation on the
+									query that was chosen by a user and sent to their chat partner. Please see our documentation on the
 									<a href="/bots/inline#collecting-feedback">
 										feedback collecting
 									</a>
-									 for details on how to enable these updates for your bot.
+									for details on how to enable these updates for your bot.
 								</td>
 							</tr>
 							<tr>
@@ -970,7 +970,7 @@
 									<em>
 										allowed_updates
 									</em>
-									 to receive these updates.
+									to receive these updates.
 								</td>
 							</tr>
 							<tr>
@@ -990,7 +990,7 @@
 									<em>
 										can_invite_users
 									</em>
-									 administrator right in the chat to receive these updates.
+									administrator right in the chat to receive these updates.
 								</td>
 							</tr>
 						</tbody>
@@ -1011,7 +1011,7 @@
 						<a href="#update">
 							Update
 						</a>
-						 objects is returned.
+						objects is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -1046,11 +1046,11 @@
 									<a href="#getupdates">
 										getUpdates
 									</a>
-									 is called with an
+									is called with an
 									<em>
 										offset
 									</em>
-									 higher than its
+									higher than its
 									<em>
 										update_id
 									</em>
@@ -1058,7 +1058,7 @@
 									<em>
 										-offset
 									</em>
-									 update from the end of the updates queue. All previous updates will forgotten.
+									update from the end of the updates queue. All previous updates will forgotten.
 								</td>
 							</tr>
 							<tr>
@@ -1104,11 +1104,11 @@
 									<a href="#update">
 										Update
 									</a>
-									 for a complete list of available update types. Specify an empty list to receive all update types except
+									for a complete list of available update types. Specify an empty list to receive all update types except
 									<em>
 										chat_member
 									</em>
-									 (default). If not specified, the previous setting will be used.
+									(default). If not specified, the previous setting will be used.
 									<br>
 									<br>
 									Please note that this parameter doesn't affect updates created before the call to the getUpdates, so unwanted updates may be received for a short period of time.
@@ -1125,16 +1125,16 @@
 							<strong>
 								1.
 							</strong>
-							 This method will not work if an outgoing webhook is set up.
+							This method will not work if an outgoing webhook is set up.
 							<br>
 							<strong>
 								2.
 							</strong>
-							 In order to avoid getting duplicate updates, recalculate
+							In order to avoid getting duplicate updates, recalculate
 							<em>
 								offset
 							</em>
-							 after each server response.
+							after each server response.
 						</p>
 					</blockquote>
 					<h4>
@@ -1153,12 +1153,12 @@
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<p>
 						If you'd like to make sure that the Webhook request comes from Telegram, we recommend using a secret path in the URL, e.g.
 						<code>
-							https://www.example.com/&lt;token&gt;
+							https://www.example.com/<token>
 						</code>
 						. Since nobody else knows your bot's token, you can be pretty sure it's us.
 					</p>
@@ -1211,7 +1211,7 @@
 									<a href="/bots/self-signed">
 										self-signed guide
 									</a>
-									 for details.
+									for details.
 								</td>
 							</tr>
 							<tr>
@@ -1261,11 +1261,11 @@
 									<a href="#update">
 										Update
 									</a>
-									 for a complete list of available update types. Specify an empty list to receive all update types except
+									for a complete list of available update types. Specify an empty list to receive all update types except
 									<em>
 										chat_member
 									</em>
-									 (default). If not specified, the previous setting will be used.
+									(default). If not specified, the previous setting will be used.
 									<br>
 									Please note that this parameter doesn't affect updates created before the call to the setWebhook, so unwanted updates may be received for a short period of time.
 								</td>
@@ -1285,7 +1285,7 @@
 									<em>
 										True
 									</em>
-									 to drop all pending updates
+									to drop all pending updates
 								</td>
 							</tr>
 						</tbody>
@@ -1299,29 +1299,29 @@
 							<strong>
 								1.
 							</strong>
-							 You will not be able to receive updates using
+							You will not be able to receive updates using
 							<a href="#getupdates">
 								getUpdates
 							</a>
-							 for as long as an outgoing webhook is set up.
+							for as long as an outgoing webhook is set up.
 							<br>
 							<strong>
 								2.
 							</strong>
-							 To use a self-signed certificate, you need to upload your
+							To use a self-signed certificate, you need to upload your
 							<a href="/bots/self-signed">
 								public key certificate
 							</a>
-							 using
+							using
 							<em>
 								certificate
 							</em>
-							 parameter. Please upload as InputFile, sending a String will not work.
+							parameter. Please upload as InputFile, sending a String will not work.
 							<br>
 							<strong>
 								3.
 							</strong>
-							 Ports currently supported
+							Ports currently supported
 							<em>
 								for Webhooks
 							</em>
@@ -1335,7 +1335,7 @@
 							<strong>
 								NEW!
 							</strong>
-							 If you're having any trouble setting up webhooks, please check out this
+							If you're having any trouble setting up webhooks, please check out this
 							<a href="/bots/webhooks">
 								amazing guide to Webhooks
 							</a>
@@ -1358,7 +1358,7 @@
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -1393,7 +1393,7 @@
 									<em>
 										True
 									</em>
-									 to drop all pending updates
+									to drop all pending updates
 								</td>
 							</tr>
 						</tbody>
@@ -1410,7 +1410,7 @@
 						<a href="#webhookinfo">
 							WebhookInfo
 						</a>
-						 object. If the bot is using
+						object. If the bot is using
 						<a href="#getupdates">
 							getUpdates
 						</a>
@@ -1418,7 +1418,7 @@
 						<em>
 							url
 						</em>
-						 field empty.
+						field empty.
 					</p>
 					<h4>
 						<a class="anchor" href="#webhookinfo" name="webhookinfo">
@@ -1571,14 +1571,14 @@
 						<strong>
 							Integer
 						</strong>
-						 fields unless otherwise noted.
+						fields unless otherwise noted.
 					</p>
 					<blockquote>
 						<p>
 							<strong>
 								Optional
 							</strong>
-							 fields may be not returned when irrelevant.
+							fields may be not returned when irrelevant.
 						</p>
 					</blockquote>
 					<h4>
@@ -1685,7 +1685,7 @@
 									<a href="https://en.wikipedia.org/wiki/IETF_language_tag">
 										IETF language tag
 									</a>
-									 of the user's language
+									of the user's language
 								</td>
 							</tr>
 							<tr>
@@ -1729,7 +1729,7 @@
 									<a href="https://core.telegram.org/bots#privacy-mode">
 										privacy mode
 									</a>
-									 is disabled for the bot. Returned only in
+									is disabled for the bot. Returned only in
 									<a href="#getme">
 										getMe
 									</a>
@@ -2290,7 +2290,7 @@
 									<em>
 										reply_to_message
 									</em>
-									 fields even if it itself is a reply.
+									fields even if it itself is a reply.
 								</td>
 							</tr>
 							<tr>
@@ -2399,7 +2399,7 @@
 									<em>
 										document
 									</em>
-									 field will also be set
+									field will also be set
 								</td>
 							</tr>
 							<tr>
@@ -2634,7 +2634,7 @@
 									<em>
 										location
 									</em>
-									 field will also be set
+									field will also be set
 								</td>
 							</tr>
 							<tr>
@@ -2834,7 +2834,7 @@
 									<em>
 										reply_to_message
 									</em>
-									 fields even if it is itself a reply.
+									fields even if it is itself a reply.
 								</td>
 							</tr>
 							<tr>
@@ -3009,11 +3009,11 @@
 									<code>
 										login_url
 									</code>
-									 buttons are represented as ordinary
+									buttons are represented as ordinary
 									<code>
 										url
 									</code>
-									 buttons.
+									buttons.
 								</td>
 							</tr>
 						</tbody>
@@ -3212,11 +3212,11 @@
 						<a href="#document">
 							file
 						</a>
-						 /
+						/
 						<a href="#sticker">
 							sticker
 						</a>
-						 thumbnail.
+						thumbnail.
 					</p>
 					<table class="table">
 						<thead>
@@ -3595,7 +3595,7 @@
 						<a href="#voice">
 							voice messages
 						</a>
-						 and
+						and
 						<a href="#audio">
 							audio files
 						</a>
@@ -3850,7 +3850,7 @@
 						<a href="https://telegram.org/blog/video-messages-and-telescope">
 							video message
 						</a>
-						 (available in Telegram apps as of
+						(available in Telegram apps as of
 						<a href="https://telegram.org/blog/video-messages-and-telescope">
 							v.4.0
 						</a>
@@ -5025,7 +5025,7 @@
 					<p>
 						This object represents a file ready to be downloaded. The file can be downloaded via the link
 						<code>
-							https://api.telegram.org/file/bot&lt;token&gt;/&lt;file_path&gt;
+							https://api.telegram.org/file/bot<token>/<file_path>
 						</code>
 						. It is guaranteed that the link will be valid for at least 1 hour. When the link expires, a new one can be requested by calling
 						<a href="#getfile">
@@ -5102,9 +5102,9 @@
 									</em>
 									. File path. Use
 									<code>
-										https://api.telegram.org/file/bot&lt;token&gt;/&lt;file_path&gt;
+										https://api.telegram.org/file/bot<token>/<file_path>
 									</code>
-									 to get the file.
+									to get the file.
 								</td>
 							</tr>
 						</tbody>
@@ -5121,11 +5121,11 @@
 						<a href="https://core.telegram.org/bots#keyboards">
 							custom keyboard
 						</a>
-						 with reply options (see
+						with reply options (see
 						<a href="https://core.telegram.org/bots#keyboards">
 							Introduction to bots
 						</a>
-						 for details and examples).
+						for details and examples).
 					</p>
 					<table class="table">
 						<thead>
@@ -5157,7 +5157,7 @@
 									<a href="#keyboardbutton">
 										KeyboardButton
 									</a>
-									 objects
+									objects
 								</td>
 							</tr>
 							<tr>
@@ -5225,11 +5225,11 @@
 									<em>
 										text
 									</em>
-									 of the
+									of the
 									<a href="#message">
 										Message
 									</a>
-									 object; 2) if the bot's message is a reply (has
+									object; 2) if the bot's message is a reply (has
 									<em>
 										reply_to_message_id
 									</em>
@@ -5239,7 +5239,7 @@
 									<em>
 										Example:
 									</em>
-									 A user requests to change the bot's language, bot replies to the request with a keyboard to select the new language. Other users in the group don't see the keyboard.
+									A user requests to change the bot's language, bot replies to the request with a keyboard to select the new language. Other users in the group don't see the keyboard.
 								</td>
 							</tr>
 						</tbody>
@@ -5256,7 +5256,7 @@
 						<em>
 							String
 						</em>
-						 can be used instead of this object to specify text of the button. Optional fields
+						can be used instead of this object to specify text of the button. Optional fields
 						<em>
 							request_contact
 						</em>
@@ -5268,7 +5268,7 @@
 						<em>
 							request_poll
 						</em>
-						 are mutually exclusive.
+						are mutually exclusive.
 					</p>
 					<table class="table">
 						<thead>
@@ -5357,11 +5357,11 @@
 						<em>
 							request_contact
 						</em>
-						 and
+						and
 						<em>
 							request_location
 						</em>
-						 options will only work in Telegram versions released after 9 April, 2016. Older clients will display
+						options will only work in Telegram versions released after 9 April, 2016. Older clients will display
 						<em>
 							unsupported message
 						</em>
@@ -5373,7 +5373,7 @@
 						<em>
 							request_poll
 						</em>
-						 option will only work in Telegram versions released after 23 January, 2020. Older clients will display
+						option will only work in Telegram versions released after 23 January, 2020. Older clients will display
 						<em>
 							unsupported message
 						</em>
@@ -5419,11 +5419,11 @@
 									<em>
 										quiz
 									</em>
-									 is passed, the user will be allowed to create only polls in the quiz mode. If
+									is passed, the user will be allowed to create only polls in the quiz mode. If
 									<em>
 										regular
 									</em>
-									 is passed, only regular polls will be allowed. Otherwise, the user will be allowed to create a poll of any type.
+									is passed, only regular polls will be allowed. Otherwise, the user will be allowed to create a poll of any type.
 								</td>
 							</tr>
 						</tbody>
@@ -5469,7 +5469,7 @@
 									<em>
 										one_time_keyboard
 									</em>
-									 in
+									in
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
@@ -5491,11 +5491,11 @@
 									<em>
 										text
 									</em>
-									 of the
+									of the
 									<a href="#message">
 										Message
 									</a>
-									 object; 2) if the bot's message is a reply (has
+									object; 2) if the bot's message is a reply (has
 									<em>
 										reply_to_message_id
 									</em>
@@ -5505,7 +5505,7 @@
 									<em>
 										Example:
 									</em>
-									 A user votes in a poll, bot returns confirmation message in reply to the vote and removes the keyboard for that user, while still showing the keyboard with poll options to users who haven't voted yet.
+									A user votes in a poll, bot returns confirmation message in reply to the vote and removes the keyboard for that user, while still showing the keyboard with poll options to users who haven't voted yet.
 								</td>
 							</tr>
 						</tbody>
@@ -5522,7 +5522,7 @@
 						<a href="https://core.telegram.org/bots#inline-keyboards-and-on-the-fly-updating">
 							inline keyboard
 						</a>
-						 that appears right next to the message it belongs to.
+						that appears right next to the message it belongs to.
 					</p>
 					<table class="table">
 						<thead>
@@ -5554,7 +5554,7 @@
 									<a href="#inlinekeyboardbutton">
 										InlineKeyboardButton
 									</a>
-									 objects
+									objects
 								</td>
 							</tr>
 						</tbody>
@@ -5563,7 +5563,7 @@
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will display
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will display
 						<em>
 							unsupported message
 						</em>
@@ -5581,7 +5581,7 @@
 						<strong>
 							must
 						</strong>
-						 use exactly one of the optional fields.
+						use exactly one of the optional fields.
 					</p>
 					<table class="table">
 						<thead>
@@ -5658,7 +5658,7 @@
 									<a href="#callbackquery">
 										callback query
 									</a>
-									 to the bot when button is pressed, 1-64 bytes
+									to the bot when button is pressed, 1-64 bytes
 								</td>
 							</tr>
 							<tr>
@@ -5678,17 +5678,17 @@
 									<strong>
 										Note:
 									</strong>
-									 This offers an easy way for users to start using your bot in
+									This offers an easy way for users to start using your bot in
 									<a href="/bots/inline">
 										inline mode
 									</a>
-									 when they are currently in a private chat with it. Especially useful when combined with
+									when they are currently in a private chat with it. Especially useful when combined with
 									<a href="#answerinlinequery">
 										<em>
 											switch_pm…
 										</em>
 									</a>
-									 actions – in this case the user will be automatically returned to the chat they switched from, skipping the chat selection screen.
+									actions – in this case the user will be automatically returned to the chat they switched from, skipping the chat selection screen.
 								</td>
 							</tr>
 							<tr>
@@ -5727,11 +5727,11 @@
 									<strong>
 										NOTE:
 									</strong>
-									 This type of button
+									This type of button
 									<strong>
 										must
 									</strong>
-									 always be the first button in the first row.
+									always be the first button in the first row.
 								</td>
 							</tr>
 							<tr>
@@ -5759,11 +5759,11 @@
 									<strong>
 										NOTE:
 									</strong>
-									 This type of button
+									This type of button
 									<strong>
 										must
 									</strong>
-									 always be the first button in the first row.
+									always be the first button in the first row.
 								</td>
 							</tr>
 						</tbody>
@@ -5780,7 +5780,7 @@
 						<a href="https://core.telegram.org/widgets/login">
 							Telegram Login Widget
 						</a>
-						 when the user is coming from Telegram. All the user needs to do is tap/click a button and confirm that they want to log in:
+						when the user is coming from Telegram. All the user needs to do is tap/click a button and confirm that they want to log in:
 					</p>
 					<div class="blog_image_wrap">
 						<a href="/file/811140015/1734/8VZFkwWXalM.97872/6127fa62d8a0bf2b3c" target="_blank">
@@ -5835,11 +5835,11 @@
 									<strong>
 										NOTE:
 									</strong>
-									 You
+									You
 									<strong>
 										must
 									</strong>
-									 always check the hash of the received data to verify the authentication and the integrity of the data as described in
+									always check the hash of the received data to verify the authentication and the integrity of the data as described in
 									<a href="https://core.telegram.org/widgets/login#checking-authorization">
 										Checking authorization
 									</a>
@@ -5875,7 +5875,7 @@
 									<a href="https://core.telegram.org/widgets/login#setting-up-a-bot">
 										Setting up a bot
 									</a>
-									 for more details. If not specified, the current bot's username will be assumed. The
+									for more details. If not specified, the current bot's username will be assumed. The
 									<em>
 										url
 									</em>
@@ -5883,7 +5883,7 @@
 									<a href="https://core.telegram.org/widgets/login#linking-your-domain-to-the-bot">
 										Linking your domain to the bot
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -5901,7 +5901,7 @@
 									<em>
 										True
 									</em>
-									 to request the permission for your bot to send messages to the user.
+									to request the permission for your bot to send messages to the user.
 								</td>
 							</tr>
 						</tbody>
@@ -5922,7 +5922,7 @@
 						<em>
 							message
 						</em>
-						 will be present. If the button was attached to a message sent via the bot (in
+						will be present. If the button was attached to a message sent via the bot (in
 						<a href="#inline-mode">
 							inline mode
 						</a>
@@ -5930,15 +5930,15 @@
 						<em>
 							inline_message_id
 						</em>
-						 will be present. Exactly one of the fields
+						will be present. Exactly one of the fields
 						<em>
 							data
 						</em>
-						 or
+						or
 						<em>
 							game_short_name
 						</em>
-						 will be present.
+						will be present.
 					</p>
 					<table class="table">
 						<thead>
@@ -6053,7 +6053,7 @@
 									<a href="#games">
 										Game
 									</a>
-									 to be returned, serves as the unique identifier for the game
+									to be returned, serves as the unique identifier for the game
 								</td>
 							</tr>
 						</tbody>
@@ -6063,7 +6063,7 @@
 							<strong>
 								NOTE:
 							</strong>
-							 After the user presses a callback button, Telegram clients will display a progress bar until you call
+							After the user presses a callback button, Telegram clients will display a progress bar until you call
 							<a href="#answercallbackquery">
 								answerCallbackQuery
 							</a>
@@ -6071,7 +6071,7 @@
 							<a href="#answercallbackquery">
 								answerCallbackQuery
 							</a>
-							 even if no notification to the user is needed (e.g., without specifying any of the optional parameters).
+							even if no notification to the user is needed (e.g., without specifying any of the optional parameters).
 						</p>
 					</blockquote>
 					<h4>
@@ -6143,11 +6143,11 @@
 									<em>
 										text
 									</em>
-									 of the
+									of the
 									<a href="#message">
 										Message
 									</a>
-									 object; 2) if the bot's message is a reply (has
+									object; 2) if the bot's message is a reply (has
 									<em>
 										reply_to_message_id
 									</em>
@@ -6161,11 +6161,11 @@
 							<strong>
 								Example:
 							</strong>
-							 A
+							A
 							<a href="https://t.me/PollBot">
 								poll bot
 							</a>
-							 for groups runs in privacy mode (only receives commands, replies to its messages and mentions). There could be two ways to create a new poll:
+							for groups runs in privacy mode (only receives commands, replies to its messages and mentions). There could be two ways to create a new poll:
 						</p>
 						<ul>
 							<li>
@@ -6180,7 +6180,7 @@
 							<a href="#forcereply">
 								ForceReply
 							</a>
-							 in your bot's questions, it will receive the user's answers even if it only receives replies, commands and mentions — without any extra work for the user.
+							in your bot's questions, it will receive the user's answers even if it only receives replies, commands and mentions — without any extra work for the user.
 						</p>
 					</blockquote>
 					<h4>
@@ -6457,7 +6457,7 @@
 						<a href="#chatmember">
 							chat member
 						</a>
-						 that owns the chat and has all administrator privileges.
+						that owns the chat and has all administrator privileges.
 					</p>
 					<table class="table">
 						<thead>
@@ -6540,7 +6540,7 @@
 						<a href="#chatmember">
 							chat member
 						</a>
-						 that has some additional privileges.
+						that has some additional privileges.
 					</p>
 					<table class="table">
 						<thead>
@@ -6789,7 +6789,7 @@
 						<a href="#chatmember">
 							chat member
 						</a>
-						 that has no additional privileges or restrictions.
+						that has no additional privileges or restrictions.
 					</p>
 					<table class="table">
 						<thead>
@@ -6844,7 +6844,7 @@
 						<a href="#chatmember">
 							chat member
 						</a>
-						 that is under certain restrictions in the chat. Supergroups only.
+						that is under certain restrictions in the chat. Supergroups only.
 					</p>
 					<table class="table">
 						<thead>
@@ -7036,7 +7036,7 @@
 						<a href="#chatmember">
 							chat member
 						</a>
-						 that isn't currently a member of the chat, but may join it themselves.
+						that isn't currently a member of the chat, but may join it themselves.
 					</p>
 					<table class="table">
 						<thead>
@@ -7091,7 +7091,7 @@
 						<a href="#chatmember">
 							chat member
 						</a>
-						 that was banned in the chat and can't return to the chat or view chat messages.
+						that was banned in the chat and can't return to the chat or view chat messages.
 					</p>
 					<table class="table">
 						<thead>
@@ -7753,11 +7753,11 @@
 						<a href="#botcommandscope">
 							scope
 						</a>
-						 of bot commands. Default commands are used if no commands with a
+						of bot commands. Default commands are used if no commands with a
 						<a href="#determining-list-of-commands">
 							narrower scope
 						</a>
-						 are specified for the user.
+						are specified for the user.
 					</p>
 					<table class="table">
 						<thead>
@@ -7802,7 +7802,7 @@
 						<a href="#botcommandscope">
 							scope
 						</a>
-						 of bot commands, covering all private chats.
+						of bot commands, covering all private chats.
 					</p>
 					<table class="table">
 						<thead>
@@ -7847,7 +7847,7 @@
 						<a href="#botcommandscope">
 							scope
 						</a>
-						 of bot commands, covering all group and supergroup chats.
+						of bot commands, covering all group and supergroup chats.
 					</p>
 					<table class="table">
 						<thead>
@@ -7892,7 +7892,7 @@
 						<a href="#botcommandscope">
 							scope
 						</a>
-						 of bot commands, covering all group and supergroup chat administrators.
+						of bot commands, covering all group and supergroup chat administrators.
 					</p>
 					<table class="table">
 						<thead>
@@ -7937,7 +7937,7 @@
 						<a href="#botcommandscope">
 							scope
 						</a>
-						 of bot commands, covering a specific chat.
+						of bot commands, covering a specific chat.
 					</p>
 					<table class="table">
 						<thead>
@@ -7997,7 +7997,7 @@
 						<a href="#botcommandscope">
 							scope
 						</a>
-						 of bot commands, covering all administrators of a specific group or supergroup chat.
+						of bot commands, covering all administrators of a specific group or supergroup chat.
 					</p>
 					<table class="table">
 						<thead>
@@ -8057,7 +8057,7 @@
 						<a href="#botcommandscope">
 							scope
 						</a>
-						 of bot commands, covering a specific member of a group or supergroup chat.
+						of bot commands, covering a specific member of a group or supergroup chat.
 					</p>
 					<table class="table">
 						<thead>
@@ -8255,7 +8255,7 @@
 									String
 								</td>
 								<td>
-									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://&lt;file_attach_name&gt;” to upload a new one using multipart/form-data under &lt;file_attach_name&gt; name.
+									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8290,7 +8290,7 @@
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -8362,7 +8362,7 @@
 									String
 								</td>
 								<td>
-									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://&lt;file_attach_name&gt;” to upload a new one using multipart/form-data under &lt;file_attach_name&gt; name.
+									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8376,13 +8376,13 @@
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									<em>
 										Optional
 									</em>
-									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8417,7 +8417,7 @@
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -8549,7 +8549,7 @@
 									String
 								</td>
 								<td>
-									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://&lt;file_attach_name&gt;” to upload a new one using multipart/form-data under &lt;file_attach_name&gt; name.
+									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8563,13 +8563,13 @@
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									<em>
 										Optional
 									</em>
-									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8604,7 +8604,7 @@
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -8718,7 +8718,7 @@
 									String
 								</td>
 								<td>
-									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://&lt;file_attach_name&gt;” to upload a new one using multipart/form-data under &lt;file_attach_name&gt; name.
+									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8732,13 +8732,13 @@
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									<em>
 										Optional
 									</em>
-									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8773,7 +8773,7 @@
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -8887,7 +8887,7 @@
 									String
 								</td>
 								<td>
-									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://&lt;file_attach_name&gt;” to upload a new one using multipart/form-data under &lt;file_attach_name&gt; name.
+									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8901,13 +8901,13 @@
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									<em>
 										Optional
 									</em>
-									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -8942,7 +8942,7 @@
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -9003,7 +9003,7 @@
 						Sending files
 					</h4>
 					<p>
-						 There are three ways to send files (photos, stickers, audio, media, etc.):
+						There are three ways to send files (photos, stickers, audio, media, etc.):
 					</p>
 					<ol>
 						<li>
@@ -9011,15 +9011,15 @@
 							<strong>
 								file_id
 							</strong>
-							 field, simply pass this
+							field, simply pass this
 							<strong>
 								file_id
 							</strong>
-							 as a parameter instead of uploading. There are
+							as a parameter instead of uploading. There are
 							<strong>
 								no limits
 							</strong>
-							 for files sent this way.
+							for files sent this way.
 						</li>
 						<li>
 							Provide Telegram with an HTTP URL for the file to be sent. Telegram will download and send the file. 5 MB max size for photos and 20 MB max for other types of content.
@@ -9043,7 +9043,7 @@
 							<a href="#video">
 								video
 							</a>
-							 can't be
+							can't be
 							<a href="#sendphoto">
 								sent as a photo
 							</a>
@@ -9051,7 +9051,7 @@
 							<a href="#photosize">
 								photo
 							</a>
-							 can't be
+							can't be
 							<a href="#senddocument">
 								sent as a document
 							</a>
@@ -9065,7 +9065,7 @@
 							<strong>
 								file_id
 							</strong>
-							 will send all of its
+							will send all of its
 							<a href="#photosize">
 								sizes
 							</a>
@@ -9075,17 +9075,17 @@
 							<strong>
 								file_id
 							</strong>
-							 is unique for each individual bot and
+							is unique for each individual bot and
 							<strong>
 								can't
 							</strong>
-							 be transferred from one bot to another.
+							be transferred from one bot to another.
 						</li>
 						<li>
 							<strong>
 								file_id
 							</strong>
-							 uniquely identifies a file, but a file can have different valid
+							uniquely identifies a file, but a file can have different valid
 							<strong>
 								file_id
 							</strong>
@@ -9118,11 +9118,11 @@
 							<strong>
 								PDF
 							</strong>
-							 and
+							and
 							<strong>
 								ZIP
 							</strong>
-							 files.
+							files.
 						</li>
 						<li>
 							To use
@@ -9162,27 +9162,27 @@
 							<strong>
 								GET
 							</strong>
-							 and
+							and
 							<strong>
 								POST
 							</strong>
-							 HTTP methods. Use either
+							HTTP methods. Use either
 							<a href="https://en.wikipedia.org/wiki/Query_string">
 								URL query string
 							</a>
-							 or
+							or
 							<em>
 								application/json
 							</em>
-							 or
+							or
 							<em>
 								application/x-www-form-urlencoded
 							</em>
-							 or
+							or
 							<em>
 								multipart/form-data
 							</em>
-							 for passing parameters in Bot API requests.
+							for passing parameters in Bot API requests.
 							<br>
 							On successful call, a JSON-object containing the result will be returned.
 						</p>
@@ -9199,7 +9199,7 @@
 						<a href="#user">
 							User
 						</a>
-						 object.
+						object.
 					</p>
 					<h4>
 						<a class="anchor" href="#logout" name="logout">
@@ -9213,11 +9213,11 @@
 						<strong>
 							must
 						</strong>
-						 log out the bot before running it locally, otherwise there is no guarantee that the bot will receive updates. After a successful call, you can immediately log in on a local server, but will not be able to log in back to the cloud Bot API server for 10 minutes. Returns
+						log out the bot before running it locally, otherwise there is no guarantee that the bot will receive updates. After a successful call, you can immediately log in on a local server, but will not be able to log in back to the cloud Bot API server for 10 minutes. Returns
 						<em>
 							True
 						</em>
-						 on success. Requires no parameters.
+						on success. Requires no parameters.
 					</p>
 					<h4>
 						<a class="anchor" href="#close" name="close">
@@ -9231,7 +9231,7 @@
 						<em>
 							True
 						</em>
-						 on success. Requires no parameters.
+						on success. Requires no parameters.
 					</p>
 					<h4>
 						<a class="anchor" href="#sendmessage" name="sendmessage">
@@ -9245,7 +9245,7 @@
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -9312,7 +9312,7 @@
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -9407,15 +9407,15 @@
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -9452,7 +9452,7 @@
 						<strong>
 							alert
 						</strong>
-						 to the user before opening an inline link ('Open this link?' together with the full URL).
+						to the user before opening an inline link ('Open this link?' together with the full URL).
 					</p>
 					<p>
 						Message entities can be nested, providing following restrictions are met:
@@ -9471,15 +9471,15 @@
 						<em>
 							underline
 						</em>
-						 and
+						and
 						<em>
 							strikethrough
 						</em>
-						 entities can contain and to be contained in any other entities, except
+						entities can contain and to be contained in any other entities, except
 						<em>
 							pre
 						</em>
-						 and
+						and
 						<em>
 							code
 						</em>
@@ -9490,9 +9490,9 @@
 					<p>
 						Links
 						<code>
-							tg://user?id=&lt;user_id&gt;
+							tg://user?id=<user_id>
 						</code>
-						 can be used to mention a user by their ID without using a username. Please note:
+						can be used to mention a user by their ID without using a username. Please note:
 					</p>
 					<ul>
 						<li>
@@ -9500,7 +9500,7 @@
 							<strong>
 								only
 							</strong>
-							 if they are used inside an inline link. For example, they will not work, when used in an inline keyboard button or in a message text.
+							if they are used inside an inline link. For example, they will not work, when used in an inline keyboard button or in a message text.
 						</li>
 						<li>
 							These mentions are only guaranteed to work if the user has contacted the bot in the past, has sent a callback query to the bot via inline button or is a member in the group where he was mentioned.
@@ -9518,11 +9518,11 @@
 						<em>
 							MarkdownV2
 						</em>
-						 in the
+						in the
 						<em>
 							parse_mode
 						</em>
-						 field. Use the following syntax in your message:
+						field. Use the following syntax in your message:
 					</p>
 					<pre>
 						<code>
@@ -9554,44 +9554,44 @@ pre-formatted fixed-width code block written in the Python programming language
 							<code>
 								pre
 							</code>
-							 and
+							and
 							<code>
 								code
 							</code>
-							 entities, all '`' and '\' characters must be escaped with a preceding '\' character.
+							entities, all '`' and '\' characters must be escaped with a preceding '\' character.
 						</li>
 						<li>
 							Inside
 							<code>
 								(...)
 							</code>
-							 part of inline link definition, all ')' and '\' must be escaped with a preceding '\' character.
+							part of inline link definition, all ')' and '\' must be escaped with a preceding '\' character.
 						</li>
 						<li>
-							In all other places characters '_', '*', '[', ']', '(', ')', '~', '`', '&gt;', '#', '+', '-', '=', '|', '{', '}', '.', '!' must be escaped with the preceding character '\'.
+							In all other places characters '_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!' must be escaped with the preceding character '\'.
 						</li>
 						<li>
 							In case of ambiguity between
 							<code>
 								italic
 							</code>
-							 and
+							and
 							<code>
 								underline
 							</code>
-							 entities
+							entities
 							<code>
 								__
 							</code>
-							 is always greadily treated from left to right as beginning or end of
+							is always greadily treated from left to right as beginning or end of
 							<code>
 								underline
 							</code>
-							 entity, so instead of
+							entity, so instead of
 							<code>
 								___italic underline___
 							</code>
-							 use
+							use
 							<code>
 								___italic underline_\r__
 							</code>
@@ -9599,7 +9599,7 @@ pre-formatted fixed-width code block written in the Python programming language
 							<code>
 								\r
 							</code>
-							 is a character with code 13, which will be ignored.
+							is a character with code 13, which will be ignored.
 						</li>
 					</ul>
 					<h6>
@@ -9614,24 +9614,24 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							HTML
 						</em>
-						 in the
+						in the
 						<em>
 							parse_mode
 						</em>
-						 field. The following tags are currently supported:
+						field. The following tags are currently supported:
 					</p>
 					<pre>
 						<code>
-							&lt;b&gt;bold&lt;/b&gt;, &lt;strong&gt;bold&lt;/strong&gt;
-&lt;i&gt;italic&lt;/i&gt;, &lt;em&gt;italic&lt;/em&gt;
-&lt;u&gt;underline&lt;/u&gt;, &lt;ins&gt;underline&lt;/ins&gt;
-&lt;s&gt;strikethrough&lt;/s&gt;, &lt;strike&gt;strikethrough&lt;/strike&gt;, &lt;del&gt;strikethrough&lt;/del&gt;
-&lt;b&gt;bold &lt;i&gt;italic bold &lt;s&gt;italic bold strikethrough&lt;/s&gt; &lt;u&gt;underline italic bold&lt;/u&gt;&lt;/i&gt; bold&lt;/b&gt;
-&lt;a href="http://www.example.com/"&gt;inline URL&lt;/a&gt;
-&lt;a href="tg://user?id=123456789"&gt;inline mention of a user&lt;/a&gt;
-&lt;code&gt;inline fixed-width code&lt;/code&gt;
-&lt;pre&gt;pre-formatted fixed-width code block&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-python"&gt;pre-formatted fixed-width code block written in the Python programming language&lt;/code&gt;&lt;/pre&gt;
+							<b>bold</b>, <strong>bold</strong>
+<i>italic</i>, <em>italic</em>
+<u>underline</u>, <ins>underline</ins>
+<s>strikethrough</s>, <strike>strikethrough</strike>, <del>strikethrough</del>
+<b>bold <i>italic bold <s>italic bold strikethrough</s> <u>underline italic bold</u></i> bold</b>
+<a href="http://www.example.com/">inline URL</a>
+<a href="tg://user?id=123456789">inline mention of a user</a>
+<code>inline fixed-width code</code>
+<pre>pre-formatted fixed-width code block</pre>
+<pre><code class="language-python">pre-formatted fixed-width code block written in the Python programming language</code></pre>
 						</code>
 					</pre>
 					<p>
@@ -9644,39 +9644,39 @@ pre-formatted fixed-width code block written in the Python programming language
 						<li>
 							All
 							<code>
+								<
+							</code>
+							,
+							<code>
+								>
+							</code>
+							and
+							<code>
+								&
+							</code>
+							symbols that are not a part of a tag or an HTML entity must be replaced with the corresponding HTML entities (
+							<code>
+								<
+							</code>
+							with
+							<code>
 								&lt;
 							</code>
 							,
 							<code>
-								&gt;
+								>
 							</code>
-							 and
-							<code>
-								&amp;
-							</code>
-							 symbols that are not a part of a tag or an HTML entity must be replaced with the corresponding HTML entities (
-							<code>
-								&lt;
-							</code>
-							 with
-							<code>
-								&amp;lt;
-							</code>
-							,
+							with
 							<code>
 								&gt;
 							</code>
-							 with
+							and
 							<code>
-								&amp;gt;
+								&
 							</code>
-							 and
+							with
 							<code>
 								&amp;
-							</code>
-							 with
-							<code>
-								&amp;amp;
 							</code>
 							).
 						</li>
@@ -9686,19 +9686,19 @@ pre-formatted fixed-width code block written in the Python programming language
 						<li>
 							The API currently supports only the following named HTML entities:
 							<code>
-								&amp;lt;
+								&lt;
 							</code>
 							,
 							<code>
-								&amp;gt;
+								&gt;
 							</code>
 							,
 							<code>
-								&amp;amp;
+								&amp;
 							</code>
-							 and
+							and
 							<code>
-								&amp;quot;
+								&quot;
 							</code>
 							.
 						</li>
@@ -9707,22 +9707,22 @@ pre-formatted fixed-width code block written in the Python programming language
 							<code>
 								pre
 							</code>
-							 and
+							and
 							<code>
 								code
 							</code>
-							 tags, to define programming language for
+							tags, to define programming language for
 							<code>
 								pre
 							</code>
-							 entity.
+							entity.
 						</li>
 						<li>
 							Programming language can't be specified for standalone
 							<code>
 								code
 							</code>
-							 tags.
+							tags.
 						</li>
 					</ul>
 					<h6>
@@ -9737,11 +9737,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							Markdown
 						</em>
-						 in the
+						in the
 						<em>
 							parse_mode
 						</em>
-						 field. Use the following syntax in your message:
+						field. Use the following syntax in your message:
 					</p>
 					<pre>
 						<code>
@@ -9767,14 +9767,14 @@ pre-formatted fixed-width code block written in the Python programming language
 							<a href="#markdownv2-style">
 								MarkdownV2
 							</a>
-							 instead.
+							instead.
 						</li>
 						<li>
 							There is no way to specify underline and strikethrough entities, use parse mode
 							<a href="#markdownv2-style">
 								MarkdownV2
 							</a>
-							 instead.
+							instead.
 						</li>
 						<li>
 							To escape characters '_', '*', '`', '[' outside of an entity, prepend the characters '\' before them.
@@ -9784,15 +9784,15 @@ pre-formatted fixed-width code block written in the Python programming language
 							<code>
 								_snake_\__case_
 							</code>
-							 for italic
+							for italic
 							<code>
 								snake_case
 							</code>
-							 and
+							and
 							<code>
 								*2*\**2=4*
 							</code>
-							 for bold
+							for bold
 							<code>
 								2*2=4
 							</code>
@@ -9811,7 +9811,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -9920,7 +9920,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#messageid">
 							MessageId
 						</a>
-						 of the sent message on success.
+						of the sent message on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -10022,7 +10022,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -10103,15 +10103,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -10145,7 +10145,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -10191,7 +10191,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Yes
@@ -10236,7 +10236,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -10317,15 +10317,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -10359,14 +10359,14 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned. Bots can currently send audio files of up to 50 MB in size, this limit may be changed in the future.
+						is returned. Bots can currently send audio files of up to 50 MB in size, this limit may be changed in the future.
 					</p>
 					<p>
 						For sending voice messages, use the
 						<a href="#sendvoice">
 							sendVoice
 						</a>
-						 method instead.
+						method instead.
 					</p>
 					<table class="table">
 						<thead>
@@ -10412,7 +10412,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Yes
@@ -10453,7 +10453,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -10526,13 +10526,13 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Optional
 								</td>
 								<td>
-									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -10596,15 +10596,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -10638,7 +10638,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned. Bots can currently send files of any type of up to 50 MB in size, this limit may be changed in the future.
+						is returned. Bots can currently send files of any type of up to 50 MB in size, this limit may be changed in the future.
 					</p>
 					<table class="table">
 						<thead>
@@ -10684,7 +10684,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Yes
@@ -10704,13 +10704,13 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Optional
 								</td>
 								<td>
-									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -10749,7 +10749,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -10844,15 +10844,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -10890,7 +10890,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned. Bots can currently send video files of up to 50 MB in size, this limit may be changed in the future.
+						is returned. Bots can currently send video files of up to 50 MB in size, this limit may be changed in the future.
 					</p>
 					<table class="table">
 						<thead>
@@ -10936,7 +10936,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Yes
@@ -10998,13 +10998,13 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Optional
 								</td>
 								<td>
-									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -11043,7 +11043,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -11142,15 +11142,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -11184,7 +11184,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned. Bots can currently send animation files of up to 50 MB in size, this limit may be changed in the future.
+						is returned. Bots can currently send animation files of up to 50 MB in size, this limit may be changed in the future.
 					</p>
 					<table class="table">
 						<thead>
@@ -11230,7 +11230,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Yes
@@ -11292,13 +11292,13 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Optional
 								</td>
 								<td>
-									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -11337,7 +11337,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -11418,15 +11418,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -11460,7 +11460,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#audio">
 							Audio
 						</a>
-						 or
+						or
 						<a href="#document">
 							Document
 						</a>
@@ -11468,7 +11468,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned. Bots can currently send voice messages of up to 50 MB in size, this limit may be changed in the future.
+						is returned. Bots can currently send voice messages of up to 50 MB in size, this limit may be changed in the future.
 					</p>
 					<table class="table">
 						<thead>
@@ -11514,7 +11514,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Yes
@@ -11555,7 +11555,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -11650,15 +11650,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -11696,7 +11696,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -11742,7 +11742,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Yes
@@ -11791,13 +11791,13 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Optional
 								</td>
 								<td>
-									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://&lt;file_attach_name&gt;” if the thumbnail was uploaded using multipart/form-data under &lt;file_attach_name&gt;.
+									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -11861,15 +11861,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -11903,7 +11903,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Messages
 						</a>
-						 that were sent is returned.
+						that were sent is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -11958,7 +11958,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputmediaphoto">
 										InputMediaPhoto
 									</a>
-									 and
+									and
 									<a href="#inputmediavideo">
 										InputMediaVideo
 									</a>
@@ -12034,7 +12034,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -12218,15 +12218,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -12260,7 +12260,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							live_period
 						</em>
-						 expires or editing is explicitly disabled by a call to
+						expires or editing is explicitly disabled by a call to
 						<a href="#stopmessagelivelocation">
 							stopMessageLiveLocation
 						</a>
@@ -12268,11 +12268,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned, otherwise
+						is returned, otherwise
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -12307,7 +12307,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Unique identifier for the target chat or username of the target channel (in the format
+									is not specified. Unique identifier for the target chat or username of the target channel (in the format
 									<code>
 										@channelusername
 									</code>
@@ -12329,7 +12329,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Identifier of the message to edit
+									is not specified. Identifier of the message to edit
 								</td>
 							</tr>
 							<tr>
@@ -12347,11 +12347,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										chat_id
 									</em>
-									 and
+									and
 									<em>
 										message_id
 									</em>
-									 are not specified. Identifier of the inline message
+									are not specified. Identifier of the inline message
 								</td>
 							</tr>
 							<tr>
@@ -12458,15 +12458,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							live_period
 						</em>
-						 expires. On success, if the message is not an inline message, the edited
+						expires. On success, if the message is not an inline message, the edited
 						<a href="#message">
 							Message
 						</a>
-						 is returned, otherwise
+						is returned, otherwise
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -12501,7 +12501,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Unique identifier for the target chat or username of the target channel (in the format
+									is not specified. Unique identifier for the target chat or username of the target channel (in the format
 									<code>
 										@channelusername
 									</code>
@@ -12523,7 +12523,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Identifier of the message with live location to stop
+									is not specified. Identifier of the message with live location to stop
 								</td>
 							</tr>
 							<tr>
@@ -12541,11 +12541,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										chat_id
 									</em>
-									 and
+									and
 									<em>
 										message_id
 									</em>
-									 are not specified. Identifier of the inline message
+									are not specified. Identifier of the inline message
 								</td>
 							</tr>
 							<tr>
@@ -12582,7 +12582,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -12794,15 +12794,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -12836,7 +12836,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -12992,15 +12992,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -13034,7 +13034,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -13197,7 +13197,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -13332,15 +13332,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -13374,7 +13374,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -13510,15 +13510,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -13552,7 +13552,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<blockquote>
 						<p>
@@ -13560,15 +13560,15 @@ pre-formatted fixed-width code block written in the Python programming language
 							<a href="https://t.me/imagebot">
 								ImageBot
 							</a>
-							 needs some time to process a request and upload the image. Instead of sending a text message along the lines of “Retrieving image, please wait…”, the bot may use
+							needs some time to process a request and upload the image. Instead of sending a text message along the lines of “Retrieving image, please wait…”, the bot may use
 							<a href="#sendchataction">
 								sendChatAction
 							</a>
-							 with
+							with
 							<em>
 								action
 							</em>
-							 =
+							=
 							<em>
 								upload_photo
 							</em>
@@ -13580,7 +13580,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							noticeable
 						</strong>
-						 amount of time to arrive.
+						amount of time to arrive.
 					</p>
 					<table class="table">
 						<thead>
@@ -13633,7 +13633,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										typing
 									</em>
-									 for
+									for
 									<a href="#sendmessage">
 										text messages
 									</a>
@@ -13641,7 +13641,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										upload_photo
 									</em>
-									 for
+									for
 									<a href="#sendphoto">
 										photos
 									</a>
@@ -13649,11 +13649,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										record_video
 									</em>
-									 or
+									or
 									<em>
 										upload_video
 									</em>
-									 for
+									for
 									<a href="#sendvideo">
 										videos
 									</a>
@@ -13661,11 +13661,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										record_voice
 									</em>
-									 or
+									or
 									<em>
 										upload_voice
 									</em>
-									 for
+									for
 									<a href="#sendvoice">
 										voice notes
 									</a>
@@ -13673,7 +13673,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										upload_document
 									</em>
-									 for
+									for
 									<a href="#senddocument">
 										general files
 									</a>
@@ -13681,7 +13681,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										choose_sticker
 									</em>
-									 for
+									for
 									<a href="#sendsticker">
 										stickers
 									</a>
@@ -13689,7 +13689,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										find_location
 									</em>
-									 for
+									for
 									<a href="#sendlocation">
 										location data
 									</a>
@@ -13697,11 +13697,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										record_video_note
 									</em>
-									 or
+									or
 									<em>
 										upload_video_note
 									</em>
-									 for
+									for
 									<a href="#sendvideonote">
 										video notes
 									</a>
@@ -13722,7 +13722,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#userprofilephotos">
 							UserProfilePhotos
 						</a>
-						 object.
+						object.
 					</p>
 					<table class="table">
 						<thead>
@@ -13798,19 +13798,19 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#file">
 							File
 						</a>
-						 object is returned. The file can then be downloaded via the link
+						object is returned. The file can then be downloaded via the link
 						<code>
-							https://api.telegram.org/file/bot&lt;token&gt;/&lt;file_path&gt;
+							https://api.telegram.org/file/bot<token>/<file_path>
 						</code>
 						, where
 						<code>
-							&lt;file_path&gt;
+							<file_path>
 						</code>
-						 is taken from the response. It is guaranteed that the link will be valid for at least 1 hour. When the link expires, a new one can be requested by calling
+						is taken from the response. It is guaranteed that the link will be valid for at least 1 hour. When the link expires, a new one can be requested by calling
 						<a href="#getfile">
 							getFile
 						</a>
-						 again.
+						again.
 					</p>
 					<table class="table">
 						<thead>
@@ -13850,7 +13850,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This function may not preserve the original file name and MIME type. You should save the file's MIME type and name (if available) when the File object is received.
+						This function may not preserve the original file name and MIME type. You should save the file's MIME type and name (if available) when the File object is received.
 					</p>
 					<h4>
 						<a class="anchor" href="#banchatmember" name="banchatmember">
@@ -13864,11 +13864,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#unbanchatmember">
 							unbanned
 						</a>
-						 first. The bot must be an administrator in the chat for this to work and must have the appropriate administrator rights. Returns
+						first. The bot must be an administrator in the chat for this to work and must have the appropriate administrator rights. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -13949,7 +13949,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									 to delete all messages from the chat for the user that is being removed. If
+									to delete all messages from the chat for the user that is being removed. If
 									<em>
 										False
 									</em>
@@ -13957,7 +13957,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									 for supergroups and channels.
+									for supergroups and channels.
 								</td>
 							</tr>
 						</tbody>
@@ -13974,11 +13974,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							not
 						</strong>
-						 return to the group or channel automatically, but will be able to join via link, etc. The bot must be an administrator for this to work. By default, this method guarantees that after the call the user is not a member of the chat, but will be able to join it. So if the user is a member of the chat they will also be
+						return to the group or channel automatically, but will be able to join via link, etc. The bot must be an administrator for this to work. By default, this method guarantees that after the call the user is not a member of the chat, but will be able to join it. So if the user is a member of the chat they will also be
 						<strong>
 							removed
 						</strong>
-						 from the chat. If you don't want this, use the parameter
+						from the chat. If you don't want this, use the parameter
 						<em>
 							only_if_banned
 						</em>
@@ -13986,7 +13986,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -14066,11 +14066,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 for all permissions to lift restrictions from a user. Returns
+						for all permissions to lift restrictions from a user. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -14166,11 +14166,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							False
 						</em>
-						 for all boolean parameters to demote a user. Returns
+						for all boolean parameters to demote a user. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -14434,7 +14434,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -14514,11 +14514,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							can_restrict_members
 						</em>
-						 administrator rights. Returns
+						administrator rights. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -14586,7 +14586,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							String
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -14632,15 +14632,15 @@ pre-formatted fixed-width code block written in the Python programming language
 							<a href="#exportchatinvitelink">
 								exportChatInviteLink
 							</a>
-							 or by calling the
+							or by calling the
 							<a href="#getchat">
 								getChat
 							</a>
-							 method. If your bot needs to generate a new primary invite link replacing its previous one, use
+							method. If your bot needs to generate a new primary invite link replacing its previous one, use
 							<a href="#exportchatinvitelink">
 								exportChatInviteLink
 							</a>
-							 again.
+							again.
 						</p>
 					</blockquote>
 					<h4>
@@ -14659,7 +14659,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#chatinvitelink">
 							ChatInviteLink
 						</a>
-						 object.
+						object.
 					</p>
 					<table class="table">
 						<thead>
@@ -14761,7 +14761,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										member_limit
 									</em>
-									 can't be specified
+									can't be specified
 								</td>
 							</tr>
 						</tbody>
@@ -14778,7 +14778,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#chatinvitelink">
 							ChatInviteLink
 						</a>
-						 object.
+						object.
 					</p>
 					<table class="table">
 						<thead>
@@ -14894,7 +14894,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										member_limit
 									</em>
-									 can't be specified
+									can't be specified
 								</td>
 							</tr>
 						</tbody>
@@ -14911,7 +14911,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#chatinvitelink">
 							ChatInviteLink
 						</a>
-						 object.
+						object.
 					</p>
 					<table class="table">
 						<thead>
@@ -14977,11 +14977,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							can_invite_users
 						</em>
-						 administrator right. Returns
+						administrator right. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15047,11 +15047,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							can_invite_users
 						</em>
-						 administrator right. Returns
+						administrator right. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15117,7 +15117,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15185,7 +15185,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15237,7 +15237,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15303,7 +15303,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15369,7 +15369,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15453,7 +15453,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15519,7 +15519,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15571,7 +15571,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15623,7 +15623,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#chat">
 							Chat
 						</a>
-						 object on success.
+						object on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15675,7 +15675,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#chatmember">
 							ChatMember
 						</a>
-						 objects that contains information about all chat administrators except other bots. If the chat is a group or a supergroup and no administrators were appointed, only the creator will be returned.
+						objects that contains information about all chat administrators except other bots. If the chat is a group or a supergroup and no administrators were appointed, only the creator will be returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -15727,7 +15727,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							Int
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15779,7 +15779,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#chatmember">
 							ChatMember
 						</a>
-						 object on success.
+						object on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15845,15 +15845,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							can_set_sticker_set
 						</em>
-						 optionally returned in
+						optionally returned in
 						<a href="#getchat">
 							getChat
 						</a>
-						 requests to check if the bot can use this method. Returns
+						requests to check if the bot can use this method. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15919,15 +15919,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							can_set_sticker_set
 						</em>
-						 optionally returned in
+						optionally returned in
 						<a href="#getchat">
 							getChat
 						</a>
-						 requests to check if the bot can use this method. Returns
+						requests to check if the bot can use this method. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -15983,7 +15983,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 					</p>
 					<blockquote>
 						<p>
@@ -15991,11 +15991,11 @@ pre-formatted fixed-width code block written in the Python programming language
 							<a href="https://t.me/botfather">
 								@Botfather
 							</a>
-							 and accept the terms. Otherwise, you may use links like
+							and accept the terms. Otherwise, you may use links like
 							<code>
 								t.me/your_bot?start=XXXX
 							</code>
-							 that open your bot with a parameter.
+							that open your bot with a parameter.
 						</p>
 					</blockquote>
 					<table class="table">
@@ -16081,7 +16081,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#game">
 										Game
 									</a>
-									 and accepted the conditions via
+									and accepted the conditions via
 									<a href="https://t.me/botfather">
 										@Botfather
 									</a>
@@ -16091,14 +16091,14 @@ pre-formatted fixed-width code block written in the Python programming language
 											callback_game
 										</em>
 									</a>
-									 button.
+									button.
 									<br>
 									<br>
 									Otherwise, you may use links like
 									<code>
 										t.me/your_bot?start=XXXX
 									</code>
-									 that open your bot with a parameter.
+									that open your bot with a parameter.
 								</td>
 							</tr>
 							<tr>
@@ -16131,11 +16131,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="https://core.telegram.org/bots#commands">
 							https://core.telegram.org/bots#commands
 						</a>
-						 for more details about bot commands. Returns
+						for more details about bot commands. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -16220,11 +16220,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#determining-list-of-commands">
 							higher level commands
 						</a>
-						 will be shown to affected users. Returns
+						will be shown to affected users. Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -16292,7 +16292,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#botcommand">
 							BotCommand
 						</a>
-						 on success. If commands aren't set, an empty list is returned.
+						on success. If commands aren't set, an empty list is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -16374,14 +16374,14 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 							inline keyboards
 						</a>
-						 using callback queries, but can also help reduce clutter in conversations with regular chat bots.
+						using callback queries, but can also help reduce clutter in conversations with regular chat bots.
 					</p>
 					<p>
 						Please note, that it is currently only possible to edit messages without
 						<em>
 							reply_markup
 						</em>
-						 or with
+						or with
 						<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 							inline keyboards
 						</a>
@@ -16399,15 +16399,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#games">
 							game
 						</a>
-						 messages. On success, if the edited message is not an inline message, the edited
+						messages. On success, if the edited message is not an inline message, the edited
 						<a href="#message">
 							Message
 						</a>
-						 is returned, otherwise
+						is returned, otherwise
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -16442,7 +16442,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Unique identifier for the target chat or username of the target channel (in the format
+									is not specified. Unique identifier for the target chat or username of the target channel (in the format
 									<code>
 										@channelusername
 									</code>
@@ -16464,7 +16464,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Identifier of the message to edit
+									is not specified. Identifier of the message to edit
 								</td>
 							</tr>
 							<tr>
@@ -16482,11 +16482,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										chat_id
 									</em>
-									 and
+									and
 									<em>
 										message_id
 									</em>
-									 are not specified. Identifier of the inline message
+									are not specified. Identifier of the inline message
 								</td>
 							</tr>
 							<tr>
@@ -16518,7 +16518,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -16589,11 +16589,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned, otherwise
+						is returned, otherwise
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -16628,7 +16628,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Unique identifier for the target chat or username of the target channel (in the format
+									is not specified. Unique identifier for the target chat or username of the target channel (in the format
 									<code>
 										@channelusername
 									</code>
@@ -16650,7 +16650,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Identifier of the message to edit
+									is not specified. Identifier of the message to edit
 								</td>
 							</tr>
 							<tr>
@@ -16668,11 +16668,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										chat_id
 									</em>
-									 and
+									and
 									<em>
 										message_id
 									</em>
-									 are not specified. Identifier of the inline message
+									are not specified. Identifier of the inline message
 								</td>
 							</tr>
 							<tr>
@@ -16704,7 +16704,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -16761,11 +16761,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned, otherwise
+						is returned, otherwise
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -16800,7 +16800,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Unique identifier for the target chat or username of the target channel (in the format
+									is not specified. Unique identifier for the target chat or username of the target channel (in the format
 									<code>
 										@channelusername
 									</code>
@@ -16822,7 +16822,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Identifier of the message to edit
+									is not specified. Identifier of the message to edit
 								</td>
 							</tr>
 							<tr>
@@ -16840,11 +16840,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										chat_id
 									</em>
-									 and
+									and
 									<em>
 										message_id
 									</em>
-									 are not specified. Identifier of the inline message
+									are not specified. Identifier of the inline message
 								</td>
 							</tr>
 							<tr>
@@ -16897,11 +16897,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned, otherwise
+						is returned, otherwise
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -16936,7 +16936,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Unique identifier for the target chat or username of the target channel (in the format
+									is not specified. Unique identifier for the target chat or username of the target channel (in the format
 									<code>
 										@channelusername
 									</code>
@@ -16958,7 +16958,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Identifier of the message to edit
+									is not specified. Identifier of the message to edit
 								</td>
 							</tr>
 							<tr>
@@ -16976,11 +16976,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										chat_id
 									</em>
-									 and
+									and
 									<em>
 										message_id
 									</em>
-									 are not specified. Identifier of the inline message
+									are not specified. Identifier of the inline message
 								</td>
 							</tr>
 							<tr>
@@ -17017,7 +17017,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#poll">
 							Poll
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -17113,7 +17113,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							can_post_messages
 						</em>
-						 permissions can delete outgoing messages in channels.
+						permissions can delete outgoing messages in channels.
 						<br>
 						- If the bot is an administrator of a group, it can delete any message there.
 						<br>
@@ -17121,13 +17121,13 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							can_delete_messages
 						</em>
-						 permission in a supergroup or a channel, it can delete any message there.
+						permission in a supergroup or a channel, it can delete any message there.
 						<br>
 						Returns
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -17546,11 +17546,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="https://telegram.org/blog/animated-stickers">
 							animated
 						</a>
-						 .TGS stickers. On success, the sent
+						.TGS stickers. On success, the sent
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -17596,7 +17596,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Yes
@@ -17666,15 +17666,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										InlineKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardmarkup">
 										ReplyKeyboardMarkup
 									</a>
-									 or
+									or
 									<a href="#replykeyboardremove">
 										ReplyKeyboardRemove
 									</a>
-									 or
+									or
 									<a href="#forcereply">
 										ForceReply
 									</a>
@@ -17708,7 +17708,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#stickerset">
 							StickerSet
 						</a>
-						 object is returned.
+						object is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -17756,15 +17756,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							createNewStickerSet
 						</em>
-						 and
+						and
 						<em>
 							addStickerToSet
 						</em>
-						 methods (can be used multiple times). Returns the uploaded
+						methods (can be used multiple times). Returns the uploaded
 						<a href="#file">
 							File
 						</a>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -17814,7 +17814,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										PNG
 									</strong>
-									 image with the sticker, must be up to 512 kilobytes in size, dimensions must not exceed 512px, and either width or height must be exactly 512px.
+									image with the sticker, must be up to 512 kilobytes in size, dimensions must not exceed 512px, and either width or height must be exactly 512px.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -17834,11 +17834,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							must
 						</strong>
-						 use exactly one of the fields
+						use exactly one of the fields
 						<em>
 							png_sticker
 						</em>
-						 or
+						or
 						<em>
 							tgs_sticker
 						</em>
@@ -17846,7 +17846,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -17895,19 +17895,19 @@ pre-formatted fixed-width code block written in the Python programming language
 									<code>
 										t.me/addstickers/
 									</code>
-									 URLs (e.g.,
+									URLs (e.g.,
 									<em>
 										animals
 									</em>
 									). Can contain only english letters, digits and underscores. Must begin with a letter, can't contain consecutive underscores and must end in
 									<em>
-										“_by_&lt;bot username&gt;”
+										“_by_<bot username>”
 									</em>
 									.
 									<em>
-										&lt;bot_username&gt;
+										<bot_username>
 									</em>
-									 is case insensitive. 1-64 characters.
+									is case insensitive. 1-64 characters.
 								</td>
 							</tr>
 							<tr>
@@ -17932,7 +17932,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Optional
@@ -17941,11 +17941,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										PNG
 									</strong>
-									 image with the sticker, must be up to 512 kilobytes in size, dimensions must not exceed 512px, and either width or height must be exactly 512px. Pass a
+									image with the sticker, must be up to 512 kilobytes in size, dimensions must not exceed 512px, and either width or height must be exactly 512px. Pass a
 									<em>
 										file_id
 									</em>
-									 as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
+									as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -17967,13 +17967,13 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										TGS
 									</strong>
-									 animation with the sticker, uploaded using multipart/form-data. See
+									animation with the sticker, uploaded using multipart/form-data. See
 									<a href="https://core.telegram.org/animated_stickers#technical-requirements">
 									</a>
 									<a href="https://core.telegram.org/animated_stickers#technical-requirements">
 										https://core.telegram.org/animated_stickers#technical-requirements
 									</a>
-									 for technical requirements
+									for technical requirements
 								</td>
 							</tr>
 							<tr>
@@ -18038,11 +18038,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							must
 						</strong>
-						 use exactly one of the fields
+						use exactly one of the fields
 						<em>
 							png_sticker
 						</em>
-						 or
+						or
 						<em>
 							tgs_sticker
 						</em>
@@ -18050,7 +18050,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -18106,7 +18106,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Optional
@@ -18115,11 +18115,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										PNG
 									</strong>
-									 image with the sticker, must be up to 512 kilobytes in size, dimensions must not exceed 512px, and either width or height must be exactly 512px. Pass a
+									image with the sticker, must be up to 512 kilobytes in size, dimensions must not exceed 512px, and either width or height must be exactly 512px. Pass a
 									<em>
 										file_id
 									</em>
-									 as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
+									as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -18141,13 +18141,13 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										TGS
 									</strong>
-									 animation with the sticker, uploaded using multipart/form-data. See
+									animation with the sticker, uploaded using multipart/form-data. See
 									<a href="https://core.telegram.org/animated_stickers#technical-requirements">
 									</a>
 									<a href="https://core.telegram.org/animated_stickers#technical-requirements">
 										https://core.telegram.org/animated_stickers#technical-requirements
 									</a>
-									 for technical requirements
+									for technical requirements
 								</td>
 							</tr>
 							<tr>
@@ -18194,7 +18194,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -18256,7 +18256,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -18304,7 +18304,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<table class="table">
 						<thead>
@@ -18360,7 +18360,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inputfile">
 										InputFile
 									</a>
-									 or String
+									or String
 								</td>
 								<td>
 									Optional
@@ -18370,21 +18370,21 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										PNG
 									</strong>
-									 image with the thumbnail, must be up to 128 kilobytes in size and have width and height exactly 100px, or a
+									image with the thumbnail, must be up to 128 kilobytes in size and have width and height exactly 100px, or a
 									<strong>
 										TGS
 									</strong>
-									 animation with the thumbnail up to 32 kilobytes in size; see
+									animation with the thumbnail up to 32 kilobytes in size; see
 									<a href="https://core.telegram.org/animated_stickers#technical-requirements">
 									</a>
 									<a href="https://core.telegram.org/animated_stickers#technical-requirements">
 										https://core.telegram.org/animated_stickers#technical-requirements
 									</a>
-									 for animated sticker technical requirements. Pass a
+									for animated sticker technical requirements. Pass a
 									<em>
 										file_id
 									</em>
-									 as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
+									as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
 										More info on Sending Files »
 									</a>
@@ -18411,18 +18411,18 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="/bots/inline">
 							Introduction to Inline bots
 						</a>
-						 for more details.
+						for more details.
 					</p>
 					<p>
 						To enable this option, send the
 						<code>
 							/setinline
 						</code>
-						 command to
+						command to
 						<a href="https://t.me/botfather">
 							@BotFather
 						</a>
-						 and provide the placeholder text that the user will see in the input field after typing your bot's name.
+						and provide the placeholder text that the user will see in the input field after typing your bot's name.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequery" name="inlinequery">
@@ -18539,13 +18539,13 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 						<br>
 						No more than
 						<strong>
 							50
 						</strong>
-						 results per query are allowed.
+						results per query are allowed.
 					</p>
 					<table class="table">
 						<thead>
@@ -18673,7 +18673,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#deep-linking">
 										Deep-linking
 									</a>
-									 parameter for the /start message sent to the bot when user presses the switch button. 1-64 characters, only
+									parameter for the /start message sent to the bot when user presses the switch button. 1-64 characters, only
 									<code>
 										A-Z
 									</code>
@@ -18689,23 +18689,23 @@ pre-formatted fixed-width code block written in the Python programming language
 									<code>
 										_
 									</code>
-									 and
+									and
 									<code>
 										-
 									</code>
-									 are allowed.
+									are allowed.
 									<br>
 									<br>
 									<em>
 										Example:
 									</em>
-									 An inline bot that sends YouTube videos can ask the user to connect the bot to their YouTube account to adapt search results accordingly. To do this, it displays a 'Connect your YouTube account' button above the results, or even before showing any. The user presses the button, switches to a private chat with the bot and, in doing so, passes a start parameter that instructs the bot to return an OAuth link. Once done, the bot can offer a
+									An inline bot that sends YouTube videos can ask the user to connect the bot to their YouTube account to adapt search results accordingly. To do this, it displays a 'Connect your YouTube account' button above the results, or even before showing any. The user presses the button, switches to a private chat with the bot and, in doing so, passes a start parameter that instructs the bot to return an OAuth link. Once done, the bot can offer a
 									<a href="#inlinekeyboardmarkup">
 										<em>
 											switch_inline
 										</em>
 									</a>
-									 button so that the user can easily return to the chat where they wanted to use the bot's inline capabilities.
+									button so that the user can easily return to the chat where they wanted to use the bot's inline capabilities.
 								</td>
 							</tr>
 						</tbody>
@@ -18826,7 +18826,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 All URLs passed in inline query results will be available to end users and therefore must be assumed to be
+						All URLs passed in inline query results will be available to end users and therefore must be assumed to be
 						<strong>
 							public
 						</strong>
@@ -18923,7 +18923,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -19028,7 +19028,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the photo.
+						to send a message with the specified content instead of the photo.
 					</p>
 					<table class="table">
 						<thead>
@@ -19082,7 +19082,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										JPEG
 									</strong>
-									 format. Photo size must not exceed 5MB
+									format. Photo size must not exceed 5MB
 								</td>
 							</tr>
 							<tr>
@@ -19181,7 +19181,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -19221,7 +19221,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -19254,7 +19254,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the animation.
+						to send a message with the specified content instead of the animation.
 					</p>
 					<table class="table">
 						<thead>
@@ -19417,7 +19417,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -19457,7 +19457,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -19490,7 +19490,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the animation.
+						to send a message with the specified content instead of the animation.
 					</p>
 					<table class="table">
 						<thead>
@@ -19653,7 +19653,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -19693,7 +19693,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -19726,7 +19726,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the video.
+						to send a message with the specified content instead of the video.
 					</p>
 					<blockquote>
 						<p>
@@ -19734,7 +19734,7 @@ pre-formatted fixed-width code block written in the Python programming language
 							<strong>
 								must
 							</strong>
-							 replace its content using
+							replace its content using
 							<em>
 								input_message_content
 							</em>
@@ -19854,7 +19854,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -19950,7 +19950,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -19970,7 +19970,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										required
 									</strong>
-									 if InlineQueryResultVideo is used to send an HTML-page as a result (e.g., a YouTube video).
+									if InlineQueryResultVideo is used to send an HTML-page as a result (e.g., a YouTube video).
 								</td>
 							</tr>
 						</tbody>
@@ -19987,7 +19987,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the audio.
+						to send a message with the specified content instead of the audio.
 					</p>
 					<table class="table">
 						<thead>
@@ -20080,7 +20080,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -20148,7 +20148,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -20173,7 +20173,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultvoice" name="inlinequeryresultvoice">
@@ -20187,7 +20187,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the the voice message.
+						to send a message with the specified content instead of the the voice message.
 					</p>
 					<table class="table">
 						<thead>
@@ -20280,7 +20280,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -20334,7 +20334,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -20359,7 +20359,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultdocument" name="inlinequeryresultdocument">
@@ -20373,15 +20373,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the file. Currently, only
+						to send a message with the specified content instead of the file. Currently, only
 						<strong>
 							.PDF
 						</strong>
-						 and
+						and
 						<strong>
 							.ZIP
 						</strong>
-						 files can be sent using this method.
+						files can be sent using this method.
 					</p>
 					<table class="table">
 						<thead>
@@ -20463,7 +20463,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -20602,7 +20602,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultlocation" name="inlinequeryresultlocation">
@@ -20616,7 +20616,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the location.
+						to send a message with the specified content instead of the location.
 					</p>
 					<table class="table">
 						<thead>
@@ -20764,7 +20764,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -20831,7 +20831,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultvenue" name="inlinequeryresultvenue">
@@ -20845,7 +20845,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the venue.
+						to send a message with the specified content instead of the venue.
 					</p>
 					<table class="table">
 						<thead>
@@ -21008,7 +21008,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -21075,7 +21075,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultcontact" name="inlinequeryresultcontact">
@@ -21089,7 +21089,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the contact.
+						to send a message with the specified content instead of the contact.
 					</p>
 					<table class="table">
 						<thead>
@@ -21202,7 +21202,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -21269,7 +21269,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultgame" name="inlinequeryresultgame">
@@ -21353,7 +21353,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 						</tbody>
@@ -21362,7 +21362,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after October 1, 2016. Older clients will not display any inline results if a game result is among them.
+						This will only work in Telegram versions released after October 1, 2016. Older clients will not display any inline results if a game result is among them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultcachedphoto" name="inlinequeryresultcachedphoto">
@@ -21376,7 +21376,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the photo.
+						to send a message with the specified content instead of the photo.
 					</p>
 					<table class="table">
 						<thead>
@@ -21486,7 +21486,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -21526,7 +21526,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -21559,7 +21559,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with specified content instead of the animation.
+						to send a message with specified content instead of the animation.
 					</p>
 					<table class="table">
 						<thead>
@@ -21655,7 +21655,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -21695,7 +21695,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -21728,7 +21728,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the animation.
+						to send a message with the specified content instead of the animation.
 					</p>
 					<table class="table">
 						<thead>
@@ -21824,7 +21824,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -21864,7 +21864,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -21897,7 +21897,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the sticker.
+						to send a message with the specified content instead of the sticker.
 					</p>
 					<table class="table">
 						<thead>
@@ -21967,7 +21967,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -21992,7 +21992,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016 for static stickers and after 06 July, 2019 for
+						This will only work in Telegram versions released after 9 April, 2016 for static stickers and after 06 July, 2019 for
 						<a href="https://telegram.org/blog/animated-stickers">
 							animated stickers
 						</a>
@@ -22010,7 +22010,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the file.
+						to send a message with the specified content instead of the file.
 					</p>
 					<table class="table">
 						<thead>
@@ -22117,7 +22117,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -22157,7 +22157,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -22182,7 +22182,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultcachedvideo" name="inlinequeryresultcachedvideo">
@@ -22196,7 +22196,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the video.
+						to send a message with the specified content instead of the video.
 					</p>
 					<table class="table">
 						<thead>
@@ -22303,7 +22303,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -22343,7 +22343,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -22376,7 +22376,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the voice message.
+						to send a message with the specified content instead of the voice message.
 					</p>
 					<table class="table">
 						<thead>
@@ -22469,7 +22469,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -22509,7 +22509,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -22534,7 +22534,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inlinequeryresultcachedaudio" name="inlinequeryresultcachedaudio">
@@ -22548,7 +22548,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							input_message_content
 						</em>
-						 to send a message with the specified content instead of the audio.
+						to send a message with the specified content instead of the audio.
 					</p>
 					<table class="table">
 						<thead>
@@ -22630,7 +22630,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -22670,7 +22670,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots#inline-keyboards-and-on-the-fly-updating">
 										Inline keyboard
 									</a>
-									 attached to the message
+									attached to the message
 								</td>
 							</tr>
 							<tr>
@@ -22695,7 +22695,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
+						This will only work in Telegram versions released after 9 April, 2016. Older clients will ignore them.
 					</p>
 					<h4>
 						<a class="anchor" href="#inputmessagecontent" name="inputmessagecontent">
@@ -22746,7 +22746,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#inputmessagecontent">
 							content
 						</a>
-						 of a text message to be sent as the result of an inline query.
+						of a text message to be sent as the result of an inline query.
 					</p>
 					<table class="table">
 						<thead>
@@ -22789,7 +22789,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#formatting-options">
 										formatting options
 									</a>
-									 for more details.
+									for more details.
 								</td>
 							</tr>
 							<tr>
@@ -22840,7 +22840,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#inputmessagecontent">
 							content
 						</a>
-						 of a location message to be sent as the result of an inline query.
+						of a location message to be sent as the result of an inline query.
 					</p>
 					<table class="table">
 						<thead>
@@ -22949,7 +22949,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#inputmessagecontent">
 							content
 						</a>
-						 of a venue message to be sent as the result of an inline query.
+						of a venue message to be sent as the result of an inline query.
 					</p>
 					<table class="table">
 						<thead>
@@ -23084,7 +23084,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#inputmessagecontent">
 							content
 						</a>
-						 of a contact message to be sent as the result of an inline query.
+						of a contact message to be sent as the result of an inline query.
 					</p>
 					<table class="table">
 						<thead>
@@ -23169,7 +23169,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#inputmessagecontent">
 							content
 						</a>
-						 of an invoice message to be sent as the result of an inline query.
+						of an invoice message to be sent as the result of an inline query.
 					</p>
 					<table class="table">
 						<thead>
@@ -23276,15 +23276,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										smallest units
 									</em>
-									 of the currency (integer,
+									of the currency (integer,
 									<strong>
 										not
 									</strong>
-									 float/double). For example, for a maximum tip of
+									float/double). For example, for a maximum tip of
 									<code>
 										US$ 1.45
 									</code>
-									 pass
+									pass
 									<code>
 										max_tip_amount = 145
 									</code>
@@ -23292,7 +23292,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										exp
 									</em>
-									 parameter in
+									parameter in
 									<a href="https://core.telegram.org/bots/payments/currencies.json">
 										currencies.json
 									</a>
@@ -23314,11 +23314,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										smallest units
 									</em>
-									 of the currency (integer,
+									of the currency (integer,
 									<strong>
 										not
 									</strong>
-									 float/double). At most 4 suggested tip amounts can be specified. The suggested tip amounts must be positive, passed in a strictly increased order and must not exceed
+									float/double). At most 4 suggested tip amounts can be specified. The suggested tip amounts must be positive, passed in a strictly increased order and must not exceed
 									<em>
 										max_tip_amount
 									</em>
@@ -23535,7 +23535,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#inlinequeryresult">
 							result
 						</a>
-						 of an inline query that was chosen by the user and sent to their chat partner.
+						of an inline query that was chosen by the user and sent to their chat partner.
 					</p>
 					<table class="table">
 						<thead>
@@ -23607,15 +23607,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#inlinekeyboardmarkup">
 										inline keyboard
 									</a>
-									 attached to the message. Will be also received in
+									attached to the message. Will be also received in
 									<a href="#callbackquery">
 										callback queries
 									</a>
-									 and can be used to
+									and can be used to
 									<a href="#updating-messages">
 										edit
 									</a>
-									 the message.
+									the message.
 								</td>
 							</tr>
 							<tr>
@@ -23635,15 +23635,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Note:
 						</strong>
-						 It is necessary to enable
+						It is necessary to enable
 						<a href="/bots/inline#collecting-feedback">
 							inline feedback
 						</a>
-						 via
+						via
 						<a href="https://t.me/botfather">
 							@Botfather
 						</a>
-						 in order to receive these objects in updates.
+						in order to receive these objects in updates.
 					</p>
 					<h3>
 						<a class="anchor" href="#payments" name="payments">
@@ -23657,7 +23657,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="/bots/payments">
 							introduction to payments
 						</a>
-						 for more details on the process and how to set up payments for your bot. Please note that users will need Telegram v.4.0 or higher to use payments (released on May 18, 2017).
+						for more details on the process and how to set up payments for your bot. Please note that users will need Telegram v.4.0 or higher to use payments (released on May 18, 2017).
 					</p>
 					<h4>
 						<a class="anchor" href="#sendinvoice" name="sendinvoice">
@@ -23671,7 +23671,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -23817,15 +23817,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										smallest units
 									</em>
-									 of the currency (integer,
+									of the currency (integer,
 									<strong>
 										not
 									</strong>
-									 float/double). For example, for a maximum tip of
+									float/double). For example, for a maximum tip of
 									<code>
 										US$ 1.45
 									</code>
-									 pass
+									pass
 									<code>
 										max_tip_amount = 145
 									</code>
@@ -23833,7 +23833,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										exp
 									</em>
-									 parameter in
+									parameter in
 									<a href="https://core.telegram.org/bots/payments/currencies.json">
 										currencies.json
 									</a>
@@ -23855,11 +23855,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										smallest units
 									</em>
-									 of the currency (integer,
+									of the currency (integer,
 									<strong>
 										not
 									</strong>
-									 float/double). At most 4 suggested tip amounts can be specified. The suggested tip amounts must be positive, passed in a strictly increased order and must not exceed
+									float/double). At most 4 suggested tip amounts can be specified. The suggested tip amounts must be positive, passed in a strictly increased order and must not exceed
 									<em>
 										max_tip_amount
 									</em>
@@ -23881,19 +23881,19 @@ pre-formatted fixed-width code block written in the Python programming language
 									<strong>
 										forwarded copies
 									</strong>
-									 of the sent message will have a
+									of the sent message will have a
 									<em>
 										Pay
 									</em>
-									 button, allowing multiple users to pay directly from the forwarded message, using the same invoice. If non-empty, forwarded copies of the sent message will have a
+									button, allowing multiple users to pay directly from the forwarded message, using the same invoice. If non-empty, forwarded copies of the sent message will have a
 									<em>
 										URL
 									</em>
-									 button with a deep link to the bot (instead of a
+									button with a deep link to the bot (instead of a
 									<em>
 										Pay
 									</em>
-									 button), with the value used as the start parameter
+									button), with the value used as the start parameter
 								</td>
 							</tr>
 							<tr>
@@ -24180,19 +24180,19 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							is_flexible
 						</em>
-						 was specified, the Bot API will send an
+						was specified, the Bot API will send an
 						<a href="#update">
 							Update
 						</a>
-						 with a
+						with a
 						<em>
 							shipping_query
 						</em>
-						 field to the bot. Use this method to reply to shipping queries. On success,
+						field to the bot. Use this method to reply to shipping queries. On success,
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -24241,7 +24241,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									 if delivery to the specified address is possible and False if there are any problems (for example, if delivery to the specified address is not possible)
+									if delivery to the specified address is possible and False if there are any problems (for example, if delivery to the specified address is not possible)
 								</td>
 							</tr>
 							<tr>
@@ -24262,7 +24262,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										ok
 									</em>
-									 is
+									is
 									<em>
 										True
 									</em>
@@ -24284,7 +24284,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										ok
 									</em>
-									 is False. Error message in human readable form that explains why it is impossible to complete the order (e.g. "Sorry, delivery to your desired address is unavailable'). Telegram will display this message to the user.
+									is False. Error message in human readable form that explains why it is impossible to complete the order (e.g. "Sorry, delivery to your desired address is unavailable'). Telegram will display this message to the user.
 								</td>
 							</tr>
 						</tbody>
@@ -24301,7 +24301,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#update">
 							Update
 						</a>
-						 with the field
+						with the field
 						<em>
 							pre_checkout_query
 						</em>
@@ -24309,11 +24309,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 is returned.
+						is returned.
 						<strong>
 							Note:
 						</strong>
-						 The Bot API must receive an answer within 10 seconds after the pre-checkout query was sent.
+						The Bot API must receive an answer within 10 seconds after the pre-checkout query was sent.
 					</p>
 					<table class="table">
 						<thead>
@@ -24362,11 +24362,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									 if everything is alright (goods are available, etc.) and the bot is ready to proceed with the order. Use
+									if everything is alright (goods are available, etc.) and the bot is ready to proceed with the order. Use
 									<em>
 										False
 									</em>
-									 if there are any problems.
+									if there are any problems.
 								</td>
 							</tr>
 							<tr>
@@ -24384,7 +24384,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										ok
 									</em>
-									 is
+									is
 									<em>
 										False
 									</em>
@@ -24441,19 +24441,19 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										smallest units
 									</em>
-									 of the
+									of the
 									<a href="/bots/payments#supported-currencies">
 										currency
 									</a>
-									 (integer,
+									(integer,
 									<strong>
 										not
 									</strong>
-									 float/double). For example, for a price of
+									float/double). For example, for a price of
 									<code>
 										US$ 1.45
 									</code>
-									 pass
+									pass
 									<code>
 										amount = 145
 									</code>
@@ -24461,7 +24461,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										exp
 									</em>
-									 parameter in
+									parameter in
 									<a href="https://core.telegram.org/bots/payments/currencies.json">
 										currencies.json
 									</a>
@@ -24540,7 +24540,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots/payments#supported-currencies">
 										currency
 									</a>
-									 code
+									code
 								</td>
 							</tr>
 							<tr>
@@ -24555,15 +24555,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										smallest units
 									</em>
-									 of the currency (integer,
+									of the currency (integer,
 									<strong>
 										not
 									</strong>
-									 float/double). For example, for a price of
+									float/double). For example, for a price of
 									<code>
 										US$ 1.45
 									</code>
-									 pass
+									pass
 									<code>
 										amount = 145
 									</code>
@@ -24571,7 +24571,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										exp
 									</em>
-									 parameter in
+									parameter in
 									<a href="https://core.telegram.org/bots/payments/currencies.json">
 										currencies.json
 									</a>
@@ -24858,7 +24858,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots/payments#supported-currencies">
 										currency
 									</a>
-									 code
+									code
 								</td>
 							</tr>
 							<tr>
@@ -24873,15 +24873,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										smallest units
 									</em>
-									 of the currency (integer,
+									of the currency (integer,
 									<strong>
 										not
 									</strong>
-									 float/double). For example, for a price of
+									float/double). For example, for a price of
 									<code>
 										US$ 1.45
 									</code>
-									 pass
+									pass
 									<code>
 										amount = 145
 									</code>
@@ -24889,7 +24889,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										exp
 									</em>
-									 parameter in
+									parameter in
 									<a href="https://core.telegram.org/bots/payments/currencies.json">
 										currencies.json
 									</a>
@@ -25097,7 +25097,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="/bots/payments#supported-currencies">
 										currency
 									</a>
-									 code
+									code
 								</td>
 							</tr>
 							<tr>
@@ -25112,15 +25112,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										smallest units
 									</em>
-									 of the currency (integer,
+									of the currency (integer,
 									<strong>
 										not
 									</strong>
-									 float/double). For example, for a price of
+									float/double). For example, for a price of
 									<code>
 										US$ 1.45
 									</code>
-									 pass
+									pass
 									<code>
 										amount = 145
 									</code>
@@ -25128,7 +25128,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										exp
 									</em>
-									 parameter in
+									parameter in
 									<a href="https://core.telegram.org/bots/payments/currencies.json">
 										currencies.json
 									</a>
@@ -25189,11 +25189,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							Telegram Passport
 						</strong>
-						 is a unified authorization method for services that require personal identification. Users can upload their documents once, then instantly share their data with services that require real-world ID (finance, ICOs, etc.). Please see the
+						is a unified authorization method for services that require personal identification. Users can upload their documents once, then instantly share their data with services that require real-world ID (finance, ICOs, etc.). Please see the
 						<a href="/passport">
 							manual
 						</a>
-						 for details.
+						for details.
 					</p>
 					<h4>
 						<a class="anchor" href="#passportdata" name="passportdata">
@@ -25536,7 +25536,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="https://core.telegram.org/passport#receiving-information">
 							Telegram Passport Documentation
 						</a>
-						 for a complete description of the data decryption and authentication processes.
+						for a complete description of the data decryption and authentication processes.
 					</p>
 					<table class="table">
 						<thead>
@@ -25565,7 +25565,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="#encryptedpassportelement">
 										EncryptedPassportElement
 									</a>
-									 decryption and authentication
+									decryption and authentication
 								</td>
 							</tr>
 							<tr>
@@ -25604,7 +25604,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							True
 						</em>
-						 on success.
+						on success.
 					</p>
 					<p>
 						Use this if the data submitted by the user doesn't satisfy the standards your service requires for any reason. For example, if a birthday date seems invalid, a submitted document is blurry, a scan shows evidence of tampering, etc. Supply some details in the error message to make sure the user knows how to correct the issues.
@@ -26406,15 +26406,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<strong>
 							HTML5 games
 						</strong>
-						 to play solo or to compete against each other in groups and one-on-one chats. Create games via
+						to play solo or to compete against each other in groups and one-on-one chats. Create games via
 						<a href="https://t.me/botfather">
 							@BotFather
 						</a>
-						 using the
+						using the
 						<em>
 							/newgame
 						</em>
-						 command. Please note that this kind of power requires responsibility: you will need to accept the terms for each game that your bots will be offering.
+						command. Please note that this kind of power requires responsibility: you will need to accept the terms for each game that your bots will be offering.
 					</p>
 					<ul>
 						<li>
@@ -26422,11 +26422,11 @@ pre-formatted fixed-width code block written in the Python programming language
 							<a href="#game">
 								Game
 							</a>
-							 and
+							and
 							<a href="#inlinequeryresultgame">
 								InlineQueryResultGame
 							</a>
-							 objects.
+							objects.
 						</li>
 						<li>
 							Once you've created a game via
@@ -26437,11 +26437,11 @@ pre-formatted fixed-width code block written in the Python programming language
 							<a href="#sendgame">
 								sendGame
 							</a>
-							 method, or use
+							method, or use
 							<a href="#inline-mode">
 								inline mode
 							</a>
-							 with
+							with
 							<a href="#inlinequeryresultgame">
 								InlineQueryResultGame
 							</a>
@@ -26456,22 +26456,22 @@ pre-formatted fixed-width code block written in the Python programming language
 							<a href="#callbackquery">
 								CallbackQuery
 							</a>
-							 with the
+							with the
 							<em>
 								game_short_name
 							</em>
-							 of the requested game. You provide the correct URL for this particular user and the app opens the game in the in-app browser.
+							of the requested game. You provide the correct URL for this particular user and the app opens the game in the in-app browser.
 						</li>
 						<li>
 							You can manually add multiple buttons to your game message. Please note that the first button in the first row
 							<strong>
 								must always
 							</strong>
-							 launch the game, using the field
+							launch the game, using the field
 							<em>
 								callback_game
 							</em>
-							 in
+							in
 							<a href="#inlinekeyboardbutton">
 								InlineKeyboardButton
 							</a>
@@ -26482,47 +26482,47 @@ pre-formatted fixed-width code block written in the Python programming language
 							<a href="https://t.me/botfather">
 								BotFather
 							</a>
-							 (see
+							(see
 							<a href="https://t.me/gamebot?game=lumberjack">
 								Lumberjack
 							</a>
-							 for example).
+							for example).
 						</li>
 						<li>
 							A game message will also display high scores for the current chat. Use
 							<a href="#setgamescore">
 								setGameScore
 							</a>
-							 to post high scores to the chat with the game, add the
+							to post high scores to the chat with the game, add the
 							<em>
 								edit_message
 							</em>
-							 parameter to automatically update the message with the current scoreboard.
+							parameter to automatically update the message with the current scoreboard.
 						</li>
 						<li>
 							Use
 							<a href="#getgamehighscores">
 								getGameHighScores
 							</a>
-							 to get data for in-game high score tables.
+							to get data for in-game high score tables.
 						</li>
 						<li>
 							You can also add an extra
 							<a href="/bots/games#sharing-your-game-to-telegram-chats">
 								sharing button
 							</a>
-							 for users to share their best score to different chats.
+							for users to share their best score to different chats.
 						</li>
 						<li>
 							For examples of what can be done using this new stuff, check the
 							<a href="https://t.me/gamebot">
 								@gamebot
 							</a>
-							 and
+							and
 							<a href="https://t.me/gamee">
 								@gamee
 							</a>
-							 bots.
+							bots.
 						</li>
 					</ul>
 					<h4>
@@ -26537,7 +26537,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned.
+						is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -26798,7 +26798,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="https://t.me/botfather">
 							BotFather
 						</a>
-						 to set up your game.
+						to set up your game.
 					</p>
 					<h4>
 						<a class="anchor" href="#setgamescore" name="setgamescore">
@@ -26812,15 +26812,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="#message">
 							Message
 						</a>
-						 is returned, otherwise
+						is returned, otherwise
 						<em>
 							True
 						</em>
-						 is returned. Returns an error, if the new score is not greater than the user's current score in the chat and
+						is returned. Returns an error, if the new score is not greater than the user's current score in the chat and
 						<em>
 							force
 						</em>
-						 is
+						is
 						<em>
 							False
 						</em>
@@ -26923,7 +26923,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Unique identifier for the target chat
+									is not specified. Unique identifier for the target chat
 								</td>
 							</tr>
 							<tr>
@@ -26941,7 +26941,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Identifier of the sent message
+									is not specified. Identifier of the sent message
 								</td>
 							</tr>
 							<tr>
@@ -26959,11 +26959,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										chat_id
 									</em>
-									 and
+									and
 									<em>
 										message_id
 									</em>
-									 are not specified. Identifier of the inline message
+									are not specified. Identifier of the inline message
 								</td>
 							</tr>
 						</tbody>
@@ -26980,11 +26980,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						<em>
 							Array
 						</em>
-						 of
+						of
 						<a href="#gamehighscore">
 							GameHighScore
 						</a>
-						 objects.
+						objects.
 					</p>
 					<blockquote>
 						<p>
@@ -27038,7 +27038,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Unique identifier for the target chat
+									is not specified. Unique identifier for the target chat
 								</td>
 							</tr>
 							<tr>
@@ -27056,7 +27056,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										inline_message_id
 									</em>
-									 is not specified. Identifier of the sent message
+									is not specified. Identifier of the sent message
 								</td>
 							</tr>
 							<tr>
@@ -27074,11 +27074,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										chat_id
 									</em>
-									 and
+									and
 									<em>
 										message_id
 									</em>
-									 are not specified. Identifier of the inline message
+									are not specified. Identifier of the inline message
 								</td>
 							</tr>
 						</tbody>

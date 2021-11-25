@@ -4,7 +4,7 @@
 		<title>Telegram Blog</title>
 		<link>https://telegram.org/blog</link>
 		<description></description>
-		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Hyper-Speed Scrolling and Calendar View for Shared Media, Join Requests, Global Chat Themes on iOS and More</title>
 			<link>https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more</link>
@@ -147,7 +147,7 @@
 				<img class="dev_blog_card_image" src="https://telegram.org/file/464001689/5/LAdUj8JXG_c.61616/b196801953bc54ecd5">
 				<div class="dev_blog_card_alltext_wrap">
 					<h4 class="dev_blog_card_title">
-						 Animated Backgrounds
+						Animated Backgrounds
 					</h4>
 					<div class="dev_blog_card_lead">
 						In addition to Group Video Calls, this update adds animated backgrounds and message sending animations, as well as a new menu button for bots, new ways to import stickers, reminders…

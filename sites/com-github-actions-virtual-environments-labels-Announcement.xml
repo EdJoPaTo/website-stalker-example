@@ -4,10 +4,11 @@
 		<title>GitHub Actions virtual-environments Announcements</title>
 		<link>https://github.com/actions/virtual-environments/labels/Announcement</link>
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
-		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Windows Server 2022 with Visual Studio 2022 is generally available starting from November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4488</link>
+			<pubDate>Thu, 11 Nov 2021 19:55:58 +0000</pubDate>
 			<content:encoded><![CDATA[Announcement
 
 OS: Windows
@@ -22,6 +23,7 @@ miketimofeev]]></content:encoded>
 		<item>
 			<title>[all OSs] Default Nodejs version will be set to 16 on November, 29</title>
 			<link>https://github.com/actions/virtual-environments/issues/4446</link>
+			<pubDate>Tue, 09 Nov 2021 13:52:50 +0000</pubDate>
 			<content:encoded><![CDATA[Announcement
 
 OS: macOS
@@ -40,6 +42,7 @@ miketimofeev]]></content:encoded>
 		<item>
 			<title>[all OSs] Selenium server version will be upgraded from 3 to 4 on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4376</link>
+			<pubDate>Fri, 29 Oct 2021 08:31:56 +0000</pubDate>
 			<content:encoded><![CDATA[Announcement
 
 awaiting-deployment
@@ -60,6 +63,7 @@ miketimofeev]]></content:encoded>
 		<item>
 			<title>[All OSs] Node.js version 10 will be removed from the images on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4356</link>
+			<pubDate>Wed, 27 Oct 2021 12:29:10 +0000</pubDate>
 			<content:encoded><![CDATA[Announcement
 
 awaiting-deployment
@@ -80,6 +84,7 @@ miketimofeev]]></content:encoded>
 		<item>
 			<title>Windows-2016 environment will be removed on March 15, 2022</title>
 			<link>https://github.com/actions/virtual-environments/issues/4312</link>
+			<pubDate>Tue, 19 Oct 2021 21:23:55 +0000</pubDate>
 			<content:encoded><![CDATA[Announcement
 
 OS: Windows
@@ -94,6 +99,7 @@ miketimofeev]]></content:encoded>
 		<item>
 			<title>macOS-latest workflows will use macOS-11</title>
 			<link>https://github.com/actions/virtual-environments/issues/4060</link>
+			<pubDate>Fri, 10 Sep 2021 11:57:28 +0000</pubDate>
 			<content:encoded><![CDATA[Announcement
 
 OS: macOS

@@ -1,1345 +1,1119 @@
-# We’re carbon neutral.
-And by
-*2030*
-, every product you love will be&nbsp;too.
-- How it’s designed.
-- How it’s made.
-- How it’s shipped.
-- How it’s used.
-- How it’s recycled.
+We’re carbon neutral.
+    ==========
 
-## Apple
-has a plan.
-[Watch the film](https://www.apple.com/105/media/us/environment/2021/5af205b0-70bb-4d01-bf6f-0ccd605bfbb9/films/apple-has-a-plan/environment-apple-has-a-plan-tpl-us-2021_16x9.m3u8)
+    And by *2030*, every product you love will be too.
 
-### Earth won’t wait. Neither will&nbsp;we.
-Find out more
+    * How it’s designed.
+    * How it’s made.
+    * How it’s shipped.
+    * How it’s used.
+    * How it’s recycled.
 
-#### Our plan to reach carbon neutrality by 2030.
+    Apple  has a plan.
+    ----------
 
-**Designing for low carbon.**
-We’re making products with more recycled materials and working to reduce the amount of energy these devices&nbsp;use.
+    [Watch the film](https://www.apple.com/105/media/us/environment/2021/5af205b0-70bb-4d01-bf6f-0ccd605bfbb9/films/apple-has-a-plan/environment-apple-has-a-plan-tpl-us-2021_16x9.m3u8)
 
-**Increasing energy efficiency.**
-We’re using energy more efficiently across retail stores, offices, data centers, and manufacturing&nbsp;sites.
+    ### Earth won’t wait. Neither will we. ###
 
-**Using renewable energy.**
-We’re committed to transitioning our entire manufacturing supply chain to 100% renewable electricity generated from solar, wind, and other renewable&nbsp;projects.
+    Find out more
 
-**Avoiding direct emissions.**
-We’re innovating the processes in our facilities and supply chain to avoid greenhouse gas&nbsp;emissions.
+    #### Our plan to reach carbon neutrality by 2030. ####
 
-**Investing in nature-based solutions.**
-We’re investing in working forests and ecosystem restoration in ways that respect communities and remove carbon from the&nbsp;atmosphere.
+    **Designing for low carbon.** We’re making products with more recycled materials and working to reduce the amount of energy these devices use.
 
-### Using
-electricity from renewable sources
-to&nbsp;make
-Apple Products
-Find out why
+    **Increasing energy efficiency.** We’re using energy more efficiently across retail stores, offices, data centers, and manufacturing sites.
 
-#### Clean energy is
+    **Using renewable energy.** We’re committed to transitioning our entire manufacturing supply chain to 100% renewable electricity generated from solar, wind, and other renewable projects.
 
-no longer optional.
+    **Avoiding direct emissions.** We’re innovating the processes in our facilities and supply chain to avoid greenhouse gas emissions.
 
-The biggest part of our carbon footprint comes from the electricity used to build the products you love. By switching to clean energy across our supply chain, we can erase the majority of that footprint. Since 2015, Apple’s Supplier Clean Energy Program has helped our manufacturing suppliers transition to renewable electricity generated from solar, wind, and other renewable projects. And by 2030, all our products will be made with 100% clean&nbsp;energy.
+    **Investing in nature-based solutions.** We’re investing in working forests and ecosystem restoration in ways that respect communities and remove carbon from the atmosphere.
 
-110
-+
-More than 110 Apple&nbsp;suppliers have committed to clean&nbsp;energy.
-4
-GW
-We’ve added over 4&nbsp;gigawatts of renewable electricity online to our supply&nbsp;chain.
-8.6
-MMT
-Renewable energy brought online to our supply chain has helped avoid over 8&nbsp;million metric tons of carbon&nbsp;emissions.
+    ### Using electricity from renewable sources to make Apple Products ###
 
-### In the fight against&nbsp;climate change, every voice&nbsp;matters.
-Find out why
+    Find out why
 
-#### Climate solutions can help dismantle systemic barriers.
+    #### Clean energy is
+     no longer optional. ####
 
-Communities of color around the world often bear the greatest impact of climate change. But environmental solutions can help advance equity for these communities. Apple’s Impact Accelerator supports Black-&nbsp;and Brown‑owned businesses and innovations that can also drive positive outcomes in our supply chain. The Impact Accelerator is part of our Racial&nbsp;Equity and Justice Initiative&nbsp;(REJI), which focuses on efforts that address education, economic equality, and criminal justice reform in the United States. REJI’s Impact Accelerator can help bring opportunity to Black and Brown businesses while creating innovative solutions to climate&nbsp;change.
+    The biggest part of our carbon footprint comes from the electricity used to build the products you love. By switching to clean energy across our supply chain, we can erase the majority of that footprint. Since 2015, Apple’s Supplier Clean Energy Program has helped our manufacturing suppliers transition to renewable electricity generated from solar, wind, and other renewable projects. And by 2030, all our products will be made with 100% clean energy.
 
-### iPhone has&nbsp;guts.
-Find out more
+    110+More than 110 Apple suppliers have committed to clean energy.
 
-#### iPhone is 100% committed to using 100% recycled materials.
+    4GWWe’ve added over 4 gigawatts of renewable electricity online to our supply chain.
 
-iPhone relies on the availability of high-quality materials. Our goal is to one day source all of these valuable resources only from renewable and recycled alternatives. We’ve recently transitioned to 100% recycled gold in the plating of the main logic board and the wire in the front camera and rear cameras. We now use 100% recycled rare earth elements in all magnets, 100% recycled tungsten in the Taptic&nbsp;Engine, and 100% recycled tin in the solder of the main logic board and battery management unit. We’ve also redesigned the packaging to create an unboxing experience that’s better for the environment, and just as delightful for&nbsp;you.
+    8.6MMTRenewable energy brought online to our supply chain has helped avoid over 8 million metric tons of carbon emissions.
 
-90
-%
-iPhone 13 packaging uses 90% less plastic than iPhone&nbsp;6s packaging.
-2.6
-MMT
-2.6 million metric tons of mined rock equivalent have been avoided by using recycled content in iPhone&nbsp;13.
+    ### In the fight against climate change, every voice matters. ###
 
-### Our products use less power.
-That’s powerful.
-Find out why
+    Find out why
 
-#### Energy-saving products reduce our carbon footprint. And yours.
+    #### Climate solutions can help dismantle systemic barriers. ####
 
-Product energy use makes up 19% of our carbon footprint and affects the carbon footprint of each customer. Designing products that require less energy is one of the major ways we can lower their carbon impact, even as they’re being used. Innovations in energy efficiency in one product can influence another. When you multiply these improvements by all the Apple devices in the world, you’ll see the difference it can&nbsp;make.
+    Communities of color around the world often bear the greatest impact of climate change. But environmental solutions can help advance equity for these communities. Apple’s Impact Accelerator supports Black- and Brown‑owned businesses and innovations that can also drive positive outcomes in our supply chain. The Impact Accelerator is part of our Racial Equity and Justice Initiative (REJI), which focuses on efforts that address education, economic equality, and criminal justice reform in the United States. REJI’s Impact Accelerator can help bring opportunity to Black and Brown businesses while creating innovative solutions to climate change.
 
-70
-%
-In 12 years, we’ve reduced average product energy use by more than 70%.
-63
-%
-iPad (9th generation) consumes 63% less energy than the ENERGY STAR® requirement.
+    ### iPhone has guts. ###
 
-### We’re investing in some wild ideas for carbon removal.
-Find out how
+    Find out more
 
-#### Nature can help us get&nbsp;to&nbsp;neutral.
+    #### iPhone is 100% committed to using 100% recycled materials. ####
 
-Apple strives to bring our emissions down as low as possible. But there are some emissions we can’t yet avoid. To remove unavoidable carbon emissions from the atmosphere, we are looking to nature‑based solutions. With Conservation International (CI) and Goldman Sachs, we have created the $200&nbsp;million Restore Fund to make investments in natural climate solutions while seeking to generate a financial return. The world’s forests, wetlands, and grasslands have an important role to play in achieving global climate targets. We’re already working with CI to naturally restore the degraded savannas of the Chyulu Hills in Kenya, demonstrate innovative new models with mangroves in coastal Colombia, and protect more Amazon rainforest from loss in the Rio Nieva Reserve Zone of northern Peru. All of these efforts combined will help sequester carbon and restore ecosystems while helping us along the way to our 2030 goal of carbon&nbsp;neutrality.
+    iPhone relies on the availability of high-quality materials. Our goal is to one day source all of these valuable resources only from renewable and recycled alternatives. We’ve recently transitioned to 100% recycled gold in the plating of the main logic board and the wire in the front camera and rear cameras. We now use 100% recycled rare earth elements in all magnets, 100% recycled tungsten in the Taptic Engine, and 100% recycled tin in the solder of the main logic board and battery management unit. We’ve also redesigned the packaging to create an unboxing experience that’s better for the environment, and just as delightful for you.
 
-2
-B
-Over 2 billion acres of restored savanna can remove hundreds of millions of tons of carbon from the atmosphere every&nbsp;year.
-94
-K
-94,000 acres have&nbsp;been added to Peru’s&nbsp;Alto Mayo Protected&nbsp;Area.
-27
-K
-27,000 acres of restored mangrove forest can store up to 1 million metric tons of carbon over its&nbsp;lifetime.
+    90%iPhone 13 packaging uses 90% less plastic than iPhone 6s packaging.
 
-### iMac brings us&nbsp;closer to&nbsp;net&nbsp;zero.
-Find out how
+    2.6MMT2.6 million metric tons of mined rock equivalent have been avoided by using recycled content in iPhone 13.
 
-#### iMac is designed to take&nbsp;carbon out of the&nbsp;equation.
+    ### Our products use less power. That’s powerful. ###
 
-We design our products to have a lighter environmental footprint. The 24‑inch&nbsp;iMac is evidence. Not only is its enclosure made with low-carbon aluminum, but it also uses recycled plastic, recycled tin, and recycled rare earth elements. The M1&nbsp;chip, now in the 24‑inch&nbsp;iMac, is the first chip designed specifically for Mac. M1 is designed to run tasks as efficiently as possible, delivering outstanding performance while using significantly less power. This change, along with our efforts to use recycled and low‑carbon materials, has decreased the carbon footprint of iMac by about 20% compared with the previous&nbsp;generation.
+    Find out why
 
-### One
-*less*
-thing.
-Find out why
-
-#### Fewer chargers mean less environmental impact.
-
-Power adapters use the largest amounts of certain materials, including plastic, copper, tin, and zinc. Since removing them from iPhone and Apple Watch packaging, we’ve avoided mining a significant amount of materials from the earth, and we’ve eliminated the emissions that come from processing and transporting them. Using smaller, lighter packaging lets us ship more boxes at once, which helps reduce our carbon footprint. Leaving out adapters was a bold change for Apple, and a necessary one for our planet.
+    #### Energy-saving products reduce our carbon footprint. And yours. ####
 
-861
-K
-861,000 metric tons of copper, tin, and zinc ore are expected to be saved by&nbsp;removing power&nbsp;adapters.
+    Product energy use makes up 19% of our carbon footprint and affects the carbon footprint of each customer. Designing products that require less energy is one of the major ways we can lower their carbon impact, even as they’re being used. Innovations in energy efficiency in one product can influence another. When you multiply these improvements by all the Apple devices in the world, you’ll see the difference it can make.
 
-### *Siri*
-runs on&nbsp;clean energy.
-Any question
-s
-?
-Find out how
+    70%In 12 years, we’ve reduced average product energy use by more than 70%.
 
-#### Apple services are powered by renewable electricity.
+    63%iPad (9th generation) consumes 63% less energy than the ENERGY STAR® requirement.
 
-Our data centers are filled with servers that help run your favorite Apple apps and services like Siri, iMessage, and iCloud. These facilities also represent our largest corporate energy loads, which is why we use 100% renewable electricity to power them. So no matter how many questions you ask Siri, every answer will be as clean as the&nbsp;last.
+    ### We’re investing in some wild ideas for carbon removal. ###
 
-### *100%*
-recycled aluminum.
-*1000%*
-here for it.
-Find out how
+    Find out how
 
-#### Using recycled aluminum in devices lowers their carbon impact. And&nbsp;yours.
+    #### Nature can help us get to neutral. ####
 
-Many Apple products use aluminum as a primary material. It’s strong and durable, and it helps your devices last longer. While all Apple devices with aluminum enclosures contain some recycled aluminum, making every product carbon neutral by 2030 means incorporating even more recycled content. To achieve this, we’ve engineered our own 100% recycled aluminum alloy that can be recycled indefinitely while maintaining performance and durability. It has allowed us to transition to using 100% recycled aluminum in the enclosures of many devices. And when we have to use virgin aluminum, we work with our suppliers to source aluminum smelted primarily with low-carbon sources of electricity, like hydroelectricity, further reducing our carbon footprint.
+    Apple strives to bring our emissions down as low as possible. But there are some emissions we can’t yet avoid. To remove unavoidable carbon emissions from the atmosphere, we are looking to nature‑based solutions. With Conservation International (CI) and Goldman Sachs, we have created the $200 million Restore Fund to make investments in natural climate solutions while seeking to generate a financial return. The world’s forests, wetlands, and grasslands have an important role to play in achieving global climate targets. We’re already working with CI to naturally restore the degraded savannas of the Chyulu Hills in Kenya, demonstrate innovative new models with mangroves in coastal Colombia, and protect more Amazon rainforest from loss in the Rio Nieva Reserve Zone of northern Peru. All of these efforts combined will help sequester carbon and restore ecosystems while helping us along the way to our 2030 goal of carbon neutrality.
 
-100
-%
-MacBook&nbsp;Air, Apple&nbsp;Watch, Mac&nbsp;mini, and all iPad devices use 100% recycled aluminum in the enclosures.
-72
-%
-Since 2015, we’ve decreased our carbon emissions associated with aluminum by 72%.
+    2BOver 2 billion acres of restored savanna can remove hundreds of millions of tons of carbon from the atmosphere every year.
 
-### *Daisy*
-wants a piece of your iPhone.
-Find out why
+    94K94,000 acres have been added to Peru’s Alto Mayo Protected Area.
 
-#### Recycled iPhone materials are the building blocks for new&nbsp;devices.
+    27K27,000 acres of restored mangrove forest can store up to 1 million metric tons of carbon over its lifetime.
 
-Every Apple product contains materials that can be used to build new products. And research from our Material Recovery Lab in Texas is helping us reclaim more of those building blocks with transformative tools and technologies. Our own disassembly robots, Daisy and Dave, take apart iPhone devices and components to enable the recovery of materials like rare earth elements, steel, and tungsten. These materials make it back to the raw materials marketplace so that we, and others, can use recycled materials for the next generation of&nbsp;products.
+    ### iMac brings us closer to net zero. ###
 
-1
-MT
-1 metric ton of iPhone components removed by Daisy contains as much gold and copper as 150 metric tons of mined&nbsp;ore.
-39
-K
-39,000 metric tons of&nbsp;e-waste were diverted from landfills&nbsp;in&nbsp;2020.
-200
-/hr
-Daisy can recover materials from 15 different iPhone models at a rate of 200 devices per hour.
+    Find out how
 
-### More power.
-To you.
-Find out how
+    #### iMac is designed to take carbon out of the equation. ####
 
-#### Clean energy works best when&nbsp;shared.
+    We design our products to have a lighter environmental footprint. The 24‑inch iMac is evidence. Not only is its enclosure made with low-carbon aluminum, but it also uses recycled plastic, recycled tin, and recycled rare earth elements. The M1 chip, now in the 24‑inch iMac, is the first chip designed specifically for Mac. M1 is designed to run tasks as efficiently as possible, delivering outstanding performance while using significantly less power. This change, along with our efforts to use recycled and low‑carbon materials, has decreased the carbon footprint of iMac by about 20% compared with the previous generation.
 
-Now that Apple Inc. runs on 100% clean energy, we’ve turned our efforts to democratizing access to renewable electricity around the world. Since 2019, our Power for Impact program has funded projects with clear carbon, ecological, and social benefits. Solar projects in the Philippines, Thailand, and South Africa help provide cost-effective clean energy to us and to communities facing energy access challenges. And this year we announced our investment in the world’s largest onshore wind turbines in Denmark. We’re powering people and progress one renewable energy project at&nbsp;a&nbsp;time.
+    ### One *less* thing. ###
 
-152
-kW
-152 kilowatts of solar power and 830 kilowatt hours of storage systems in Diepsloot, South Africa, deliver power to 3600&nbsp;households.
-90
-%
-90% of the renewable energy for Apple facilities comes&nbsp;from Apple‑created&nbsp;projects.
-20
-K
-Apple’s wind turbines in Esbjerg, Denmark, produce enough energy each year to power almost 20,000&nbsp;homes.
+    Find out why
 
-### Apple Inc. Officially in the&nbsp;green.
-Find out how
+    #### Fewer chargers mean less environmental impact. ####
 
-#### We’ve made it our business to be 100% carbon neutral.
+    Power adapters use the largest amounts of certain materials, including plastic, copper, tin, and zinc. Since removing them from iPhone and Apple Watch packaging, we’ve avoided mining a significant amount of materials from the earth, and we’ve eliminated the emissions that come from processing and transporting them. Using smaller, lighter packaging lets us ship more boxes at once, which helps reduce our carbon footprint. Leaving out adapters was a bold change for Apple, and a necessary one for our planet.
 
-In April 2020, Apple achieved the exciting milestone of becoming 100% carbon neutral across all of our corporate operations. A big part of this achievement was transitioning in 2018 to 100% renewable electricity in all the retail stores you visit and the Apple data centers that run your devices. We’re taking our commitment to green technologies even further by investing in the development of new renewables around the world. And to help address emissions that we can’t avoid now, we’ve partnered with Conservation International on projects that protect and restore grasslands, wetlands, and forests.
+    861K861,000 metric tons of copper, tin, and zinc ore are expected to be saved by removing power adapters.
 
-4.6
-MMT
-In 2020, over 4.6 million metric tons of emissions from corporate operations were avoided.
-73
-%
-Since 2011, scope 1 and 2 emissions have been reduced by 73%.
+    ### *Siri* runs on clean energy. Any questions? ###
 
-## There’s always more to do.
+    Find out how
 
-Our environmental efforts go beyond carbon.
+    #### Apple services are powered by renewable electricity. ####
 
--
-###
-*No*
-Mercury
-*No*
-PVC
-*No*
-Beryllium
-*No*
-BFR
+    Our data centers are filled with servers that help run your favorite Apple apps and services like Siri, iMessage, and iCloud. These facilities also represent our largest corporate energy loads, which is why we use 100% renewable electricity to power them. So no matter how many questions you ask Siri, every answer will be as clean as the last.
 
-Find out why
+    ### *100%* recycled aluminum.*1000%* here for it. ###
 
-#### Products created with safety&nbsp;in mind.
+    Find out how
 
-Apple focuses on safety in product designs and strives to protect the people who design, make, use, and recycle our products. We’re conducting industry-leading work to map, test, and switch to safer chemicals in our products and manufacturing processes. The materials in Apple products are tested to evaluate their compliance with our list of regulated substances. We’re in the process of collecting the chemical composition of all the materials in our products to further assess their effect on human health and the environment. Today more than 700 parts and material suppliers share chemical information with Apple.
+    #### Using recycled aluminum in devices lowers their carbon impact. And yours. ####
 
--
-### Apple’s commitment to&nbsp;water runs deep.
-Find out how
+    Many Apple products use aluminum as a primary material. It’s strong and durable, and it helps your devices last longer. While all Apple devices with aluminum enclosures contain some recycled aluminum, making every product carbon neutral by 2030 means incorporating even more recycled content. To achieve this, we’ve engineered our own 100% recycled aluminum alloy that can be recycled indefinitely while maintaining performance and durability. It has allowed us to transition to using 100% recycled aluminum in the enclosures of many devices. And when we have to use virgin aluminum, we work with our suppliers to source aluminum smelted primarily with low-carbon sources of electricity, like hydroelectricity, further reducing our carbon footprint.
 
-#### Using water wisely, wherever we are.
+    100%MacBook Air, Apple Watch, Mac mini, and all iPad devices use 100% recycled aluminum in the enclosures.
 
-Water is a precious resource. It’s also a community resource, which is why we’re committed to reducing, reusing, and returning as much water as possible to the local environments where we work. Our operations use water in many different ways, from relatively low‑impact retail stores to data centers and suppliers’ manufacturing facilities, which rely more heavily on water for cooling and processing. We’re taking several steps to reduce our water impact, starting with selecting the right sites and designing for water efficiency and reuse.  We’re also expanding our use of alternative water sources like recycled water, rainwater, and condensate. Finally, we are engaging with external stakeholders in the places we operate to ensure that our&nbsp;water stewardship plans meet local shared water&nbsp;challenges.
+    72%Since 2015, we’ve decreased our carbon emissions associated with aluminum by 72%.
 
--
-### Our trees work for a&nbsp;living.
-Find out how
+    ### *Daisy* wants a piece of your iPhone. ###
 
-#### Paper packaging you can feel good about.
+    Find out why
 
-We have successfully closed the loop on our paper supply chain. Since 2017, 100% of the wood fiber in our paper and packaging comes from recycled or responsible sources. When virgin fiber is needed, we source wood from responsibly managed forests. Through partnership with The Conservation Fund and World Wildlife Fund, we have protected and improved the management of over one million acres of working forests in the United States and China. And when forests thrive, so do local communities and&nbsp;wildlife.
+    #### Recycled iPhone materials are the building blocks for new devices. ####
 
--
-### Durability you could
+    Every Apple product contains materials that can be used to build new products. And research from our Material Recovery Lab in Texas is helping us reclaim more of those building blocks with transformative tools and technologies. Our own disassembly robots, Daisy and Dave, take apart iPhone devices and components to enable the recovery of materials like rare earth elements, steel, and tungsten. These materials make it back to the raw materials marketplace so that we, and others, can use recycled materials for the next generation of products.
 
-fall
-fall
-for.
-Find out how
+    1MT1 metric ton of iPhone components removed by Daisy contains as much gold and copper as 150 metric tons of mined ore.
 
-#### Built to last as long as you&nbsp;love&nbsp;it.
+    39K39,000 metric tons of e-waste were diverted from landfills in 2020.
 
-Durability is central to Apple’s product design. Our goal is to build long-lasting products that you can rely on to handle the rigors of everyday use. At the Reliability Testing Lab, our engineers design customized, automated jigs that recreate the repetitive actions and interactions a device might undergo, such as repeatedly pressing an individual key. Free software updates can also increase product longevity by offering access to new features and functionality for both the latest devices and older ones. And when repairs are needed, we provide easy access to high-quality repairs through Apple retail stores, through our worldwide network of over 5000 Apple Authorized Service Providers, and through shipment to Apple Repair Centers. This year, our Independent Repair Provider program has grown to include more than 1500 providers across the United States, Canada, and Europe, and it has expanded service capabilities to include Mac in addition to&nbsp;iPhone.
+    200/hrDaisy can recover materials from 15 different iPhone models at a rate of 200 devices per hour.
 
--
-### Working toward a waste-free
-world
-Find out how
+    ### More power.To you. ###
 
-#### At final assembly sites, nothing goes to waste.
+    Find out how
 
-Apple’s Zero Waste Program for suppliers provides support to eliminate waste going to landfills through reduction, reuse, and recycling. We started by focusing on our highest waste producers: final assembly facilities. Apple has already achieved zero waste certifications for all established final assembly facilities across iPhone, iPad, Mac, Apple Watch, AirPods, HomePod, Apple TV, and Beats. We’re continuing to expand our program beyond final assembly sites to include component manufacturers, and we won’t stop until we reach our goal of zero&nbsp;waste.
+    #### Clean energy works best when shared. ####
 
-- -
-We don’t pretend to have all the answers. What we do have are goals to strive for, and a global community of businesses committed to doing the right thing by people and the&nbsp;planet.
+    Now that Apple Inc. runs on 100% clean energy, we’ve turned our efforts to democratizing access to renewable electricity around the world. Since 2019, our Power for Impact program has funded projects with clear carbon, ecological, and social benefits. Solar projects in the Philippines, Thailand, and South Africa help provide cost-effective clean energy to us and to communities facing energy access challenges. And this year we announced our investment in the world’s largest onshore wind turbines in Denmark. We’re powering people and progress one renewable energy project at a time.
 
-Lisa Jackson, Vice President
-Environment, Policy and Social&nbsp;Initiatives
+    152kW152 kilowatts of solar power and 830 kilowatt hours of storage systems in Diepsloot, South Africa, deliver power to 3600 households.
 
-## Trade it in.
+    90%90% of the renewable energy for Apple facilities comes from Apple‑created projects.
 
-Help the planet&nbsp;out.
+    20KApple’s wind turbines in Esbjerg, Denmark, produce enough energy each year to power almost 20,000 homes.
 
-With Apple Trade In, you can exchange your old device for credit toward your next purchase, or get an Apple Gift Card you can use anytime. If eligible, your device can have a second life with another owner. If not, we’ll recycle it free of charge. A win-win for you and the&nbsp;planet.
+    ### Apple Inc. Officially in the green. ###
 
-[Learn more](https://www.apple.com/us/shop/goto/trade_in)
+    Find out how
 
-## More from Apple&nbsp;on the environment.
-- -
-###
+    #### We’ve made it our business to be 100% carbon neutral. ####
 
-## Your product’s
+    In April 2020, Apple achieved the exciting milestone of becoming 100% carbon neutral across all of our corporate operations. A big part of this achievement was transitioning in 2018 to 100% renewable electricity in all the retail stores you visit and the Apple data centers that run your devices. We’re taking our commitment to green technologies even further by investing in the development of new renewables around the world. And to help address emissions that we can’t avoid now, we’ve partnered with Conservation International on projects that protect and restore grasslands, wetlands, and forests.
 
-environmental report&nbsp;card.
-- [iPhone](https://www.apple.com/environment/#product-reports-gallery-item-iphone-update)
-- [iPad](https://www.apple.com/environment/#product-reports-gallery-item-ipad)
-- [Apple Watch](https://www.apple.com/environment/#product-reports-gallery-item-watch)
-- [Notebooks](https://www.apple.com/environment/#product-reports-gallery-item-notebooks)
-- [Desktops](https://www.apple.com/environment/#product-reports-gallery-item-desktops)
-- [Displays](https://www.apple.com/environment/#product-reports-gallery-item-displays)
-- [HomePod](https://www.apple.com/environment/#product-reports-gallery-item-homepod-dual)
-- [Apple TV](https://www.apple.com/environment/#product-reports-gallery-item-appletv)
-- [iPod](https://www.apple.com/environment/#product-reports-gallery-item-ipod)
+    4.6MMTIn 2020, over 4.6 million metric tons of emissions from corporate operations were avoided.
 
-### iPhone
--
-iPhone 13
-Pro&nbsp;Max
+    73%Since 2011, scope 1 and 2 emissions have been reduced by 73%.
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_13_Pro_Max_PER_Sept2021.pdf)
+    There’s always more to do.
+    ----------
 
--
-iPhone 13 Pro
+    Our environmental efforts go beyond carbon.
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_13_Pro_PER_Sept2021.pdf)
+    * ###
 
--
-iPhone 13
+      *No* Mercury*No* PVC *No* Beryllium*No* BFR
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_13_PER_Sept2021.pdf)
+       ###
 
--
-iPhone 13 mini
+      Find out why
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_13_mini_PER_Sept2021.pdf)
+      #### Products created with safety in mind. ####
 
--
-iPhone 12
+      Apple focuses on safety in product designs and strives to protect the people who design, make, use, and recycle our products. We’re conducting industry-leading work to map, test, and switch to safer chemicals in our products and manufacturing processes. The materials in Apple products are tested to evaluate their compliance with our list of regulated substances. We’re in the process of collecting the chemical composition of all the materials in our products to further assess their effect on human health and the environment. Today more than 700 parts and material suppliers share chemical information with Apple.
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_12_PER_Oct2020.pdf)
+    * ### Apple’s commitment to water runs deep. ###
 
--
-iPhone 12 mini
+      Find out how
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_12_mini_PER_Oct2020.pdf)
+      #### Using water wisely, wherever we are. ####
 
--
-iPhone&nbsp;11
+      Water is a precious resource. It’s also a community resource, which is why we’re committed to reducing, reusing, and returning as much water as possible to the local environments where we work. Our operations use water in many different ways, from relatively low‑impact retail stores to data centers and suppliers’ manufacturing facilities, which rely more heavily on water for cooling and processing. We’re taking several steps to reduce our water impact, starting with selecting the right sites and designing for water efficiency and reuse. We’re also expanding our use of alternative water sources like recycled water, rainwater, and condensate. Finally, we are engaging with external stakeholders in the places we operate to ensure that our water stewardship plans meet local shared water challenges.
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_11_PER_sept2019.pdf)
+    * ### Our trees work for a living. ###
 
--
-iPhone&nbsp;SE (2nd generation)
+      Find out how
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_April2020.pdf)
+      #### Paper packaging you can feel good about. ####
 
-### iPad
--
-iPad Pro 12.9-inch (5th&nbsp;generation)
+      We have successfully closed the loop on our paper supply chain. Since 2017, 100% of the wood fiber in our paper and packaging comes from recycled or responsible sources. When virgin fiber is needed, we source wood from responsibly managed forests. Through partnership with The Conservation Fund and World Wildlife Fund, we have protected and improved the management of over one million acres of working forests in the United States and China. And when forests thrive, so do local communities and wildlife.
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_Apr2021.pdf)
+    * ### Durability you could
+      fallfall for. ###
 
--
-iPad Pro 11-inch (3rd&nbsp;generation)
+      Find out how
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_Apr2021.pdf)
+      #### Built to last as long as you love it. ####
 
--
-iPad Air (4th generation)
+      Durability is central to Apple’s product design. Our goal is to build long-lasting products that you can rely on to handle the rigors of everyday use. At the Reliability Testing Lab, our engineers design customized, automated jigs that recreate the repetitive actions and interactions a device might undergo, such as repeatedly pressing an individual key. Free software updates can also increase product longevity by offering access to new features and functionality for both the latest devices and older ones. And when repairs are needed, we provide easy access to high-quality repairs through Apple retail stores, through our worldwide network of over 5000 Apple Authorized Service Providers, and through shipment to Apple Repair Centers. This year, our Independent Repair Provider program has grown to include more than 1500 providers across the United States, Canada, and Europe, and it has expanded service capabilities to include Mac in addition to iPhone.
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadAir_PER_sept2020.pdf)
+    * ### Working toward a waste-free world ###
 
--
-iPad (9th generation)
+      Find out how
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_Sept2021.pdf)
+      #### At final assembly sites, nothing goes to waste. ####
 
--
-iPad mini (6th generation)
+      Apple’s Zero Waste Program for suppliers provides support to eliminate waste going to landfills through reduction, reuse, and recycling. We started by focusing on our highest waste producers: final assembly facilities. Apple has already achieved zero waste certifications for all established final assembly facilities across iPhone, iPad, Mac, Apple Watch, AirPods, HomePod, Apple TV, and Beats. We’re continuing to expand our program beyond final assembly sites to include component manufacturers, and we won’t stop until we reach our goal of zero waste.
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_mini_PER_Sept2021.pdf)
+    *
+    *
 
-### Apple Watch
--
-Apple&nbsp;Watch Series 7 (GPS + Cellular, GPS)
+    >
+    >
+    > We don’t pretend to have all the answers. What we do have are goals to strive for, and a global community of businesses committed to doing the right thing by people and the planet.
+    >
+    >
+    > > Lisa Jackson, Vice President Environment, Policy and Social Initiatives
+    >
+    >
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series7_PER_Sept2021.pdf)
+    Trade it in.
 
--
-Apple&nbsp;Watch Series 6 (GPS + Cellular, GPS)
+     Help the planet out.
+    ----------
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series6_PER_sept2020.pdf)
+    With Apple Trade In, you can exchange your old device for credit toward your next purchase, or get an Apple Gift Card you can use anytime. If eligible, your device can have a second life with another owner. If not, we’ll recycle it free of charge. A win-win for you and the planet.
 
--
-Apple&nbsp;Watch SE (GPS&nbsp;+&nbsp;Cellular, GPS)
+    [Learn more](https://www.apple.com/us/shop/goto/trade_in)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_SE_PER_sept2020.pdf)
+    More from Apple on the environment.
+    ----------
 
--
-Apple&nbsp;Watch Series 3 (GPS)
+    *
+    *
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPS_PER_sept2018.pdf)
+    [### ###](https://www.apple.com/environment/#)
 
-### Notebooks
--
-MacBook&nbsp;Pro 16-inch
+Your product’s
+environmental report card.
+----------
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)
+* [iPhone](https://www.apple.com/environment/#product-reports-gallery-item-iphone-update)
+* [iPad](https://www.apple.com/environment/#product-reports-gallery-item-ipad)
+* [Apple Watch](https://www.apple.com/environment/#product-reports-gallery-item-watch)
+* [Notebooks](https://www.apple.com/environment/#product-reports-gallery-item-notebooks)
+* [Desktops](https://www.apple.com/environment/#product-reports-gallery-item-desktops)
+* [Displays](https://www.apple.com/environment/#product-reports-gallery-item-displays)
+* [HomePod](https://www.apple.com/environment/#product-reports-gallery-item-homepod-dual)
+* [Apple TV](https://www.apple.com/environment/#product-reports-gallery-item-appletv)
+* [iPod](https://www.apple.com/environment/#product-reports-gallery-item-ipod)
 
--
-MacBook&nbsp;Pro 14-inch
+### iPhone ###
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2021.pdf)
+* iPhone 13 Pro Max
 
--
-MacBook&nbsp;Pro 13-inch
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_13_Pro_Max_PER_Sept2021.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_Nov2020.pdf)
+* iPhone 13 Pro
 
--
-MacBook&nbsp;Air 13-inch
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_13_Pro_PER_Sept2021.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf)
+* iPhone 13
 
-### Desktops
--
-27-inch iMac with Retina&nbsp;5K
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_13_PER_Sept2021.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Aug2020.pdf)
+* iPhone 13 mini
 
--
-24-inch iMac
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_13_mini_PER_Sept2021.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/desktops/24-inch_iMac_PER_Apr2021.pdf)
+* iPhone 12
 
--
-21.5-inch iMac
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_12_PER_Oct2020.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2017.pdf)
+* iPhone 12 mini
 
--
-iMac Pro
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_12_mini_PER_Oct2020.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/desktops/iMac_Pro_PER_June2019.pdf)
+* iPhone 11
 
--
-Mac Pro
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_11_PER_sept2019.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Mac_Pro_PER_Dec2019.pdf)
+* iPhone SE (2nd generation)
 
--
-Mac mini
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_April2020.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_Nov2020.pdf)
+### iPad ###
 
-### Displays
--
-Pro Display XDR
+* iPad Pro 12.9-inch (5th generation)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Pro_Display_XDR_PER_Dec2019.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_Apr2021.pdf)
 
-### HomePod
--
-HomePod
+* iPad Pro 11-inch (3rd generation)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/homepod/HomePod_PER_feb2018.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_Apr2021.pdf)
 
--
-HomePod mini
+* iPad Air (4th generation)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/homepod/HomePod_mini_PER_Oct2020.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadAir_PER_sept2020.pdf)
 
-### Apple TV
--
-Apple&nbsp;TV 4K (2nd&nbsp;generation)
+* iPad (9th generation)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/appletv/Apple_TV_4K_PER_apr2021.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_Sept2021.pdf)
 
--
-Apple&nbsp;TV HD
+* iPad mini (6th generation)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/appletv/Apple_TV_HD_PER_apr2021.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_mini_PER_Sept2021.pdf)
 
-### iPod
--
-iPod touch
+### Apple Watch ###
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/ipod/iPodtouch_PER_may2019.pdf)
+* Apple Watch Series 7 (GPS + Cellular, GPS)
 
-### Archived reports
--
-iPhone 12
-Pro&nbsp;Max
+  [View (PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series7_PER_Sept2021.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_12_Pro_Max_PER_Oct2020.pdf)
+* Apple Watch Series 6 (GPS + Cellular, GPS)
 
--
-iPhone 12 Pro
+  [View (PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series6_PER_sept2020.pdf)
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_12_Pro_PER_Oct2020.pdf)
+* Apple Watch SE (GPS + Cellular, GPS)
 
--
-iPhone&nbsp;11
-Pro&nbsp;Max
+  [View (PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_SE_PER_sept2020.pdf)
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_11_Pro_Max_PER_sept2019.pdf)
+* Apple Watch Series 3 (GPS)
 
--
-iPhone&nbsp;11&nbsp;Pro
+  [View (PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPS_PER_sept2018.pdf)
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_11_Pro_PER_sept2019.pdf)
+### Notebooks ###
 
--
-iPhone X
-S
-Max
+* MacBook Pro 16-inch
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_Max_PER_sept2018.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)
 
--
-iPhone X
-S
+* MacBook Pro 14-inch
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_PER_sept2018.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2021.pdf)
 
--
-iPhone X
-R
+* MacBook Pro 13-inch
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_XR_PER_sept2018.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_Nov2020.pdf)
 
--
-iPhone&nbsp;X
+* MacBook Air 13-inch
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_X_PER_sept2017.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf)
 
--
-iPhone&nbsp;8
+### Desktops ###
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_8_PER_sept2017.pdf)
+* 27-inch iMac with Retina 5K
 
--
-iPhone&nbsp;8&nbsp;Plus
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Aug2020.pdf)
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_8_Plus_PER_sept2017.pdf)
+* 24-inch iMac
 
--
-iPhone&nbsp;7
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/24-inch_iMac_PER_Apr2021.pdf)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_7_PER_sept2017.pdf)
+* 21.5-inch iMac
 
--
-iPhone&nbsp;7&nbsp;Plus
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2017.pdf)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_7_Plus_PER_sept2017.pdf)
+* iMac Pro
 
--
-iPhone&nbsp;SE (1st generation)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/iMac_Pro_PER_June2019.pdf)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_sept2017.pdf)
+* Mac Pro
 
--
-iPhone 6s Plus
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Mac_Pro_PER_Dec2019.pdf)
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone6sPlus_PER_sept2015.pdf)
+* Mac mini
 
--
-iPhone 6s
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_Nov2020.pdf)
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone6s_PER_sept2015.pdf)
+### Displays ###
 
--
-iPhone 6
+* Pro Display XDR
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPhone6_PER_sept2014.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Pro_Display_XDR_PER_Dec2019.pdf)
 
--
-iPhone 5c
+### HomePod ###
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPhone5c_PER_Sept2014.pdf)
+* HomePod
 
--
-iPhone 5s
+  [View (PDF)](https://www.apple.com/environment/pdf/products/homepod/HomePod_PER_feb2018.pdf)
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/iPhone5s_PER_sept2013.pdf)
+* HomePod mini
 
--
-iPhone 5
+  [View (PDF)](https://www.apple.com/environment/pdf/products/homepod/HomePod_mini_PER_Oct2020.pdf)
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPhone5_PER_sept2012.pdf)
+### Apple TV ###
 
--
-iPhone 4s
+* Apple TV 4K (2nd generation)
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPhone4S_product_environmental_report_sept2012.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/appletv/Apple_TV_4K_PER_apr2021.pdf)
 
--
-iPhone 4
+* Apple TV HD
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/iPhone_4_Product_Environmental_Report.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/appletv/Apple_TV_HD_PER_apr2021.pdf)
 
--
-iPhone 3G
+### iPod ###
 
-[View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPhone-3G-Environmental-Report.pdf)
+* iPod touch
 
--
-iPhone 3GS
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipod/iPodtouch_PER_may2019.pdf)
 
-[View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPhone_3GS-Environmental-Report.pdf)
+### Archived reports ###
 
--
-iPad&nbsp;(8th generation)
+* iPhone 12 Pro Max
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_sept2020.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_12_Pro_Max_PER_Oct2020.pdf)
 
--
-iPad&nbsp;Pro&nbsp;12.9-inch (4th&nbsp;generation)
+* iPhone 12 Pro
 
-[View (2020 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_Mar2020.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_12_Pro_PER_Oct2020.pdf)
 
--
-iPad&nbsp;Pro&nbsp;11-inch (2nd&nbsp;generation)
+* iPhone 11 Pro Max
 
-[View (2020 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_Mar2020.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_11_Pro_Max_PER_sept2019.pdf)
 
--
-iPad&nbsp;(7th generation)
+* iPhone 11 Pro
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_sept2019.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_11_Pro_PER_sept2019.pdf)
 
--
-iPad&nbsp;mini (5th generation)
+* iPhone XS Max
 
-[View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadmini_PER_Mar2019.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_Max_PER_sept2018.pdf)
 
--
-iPad&nbsp;Air (3rd&nbsp;generation)
+* iPhone XS
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadAir_PER_Mar2019.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_PER_sept2018.pdf)
 
--
-iPad&nbsp;Pro 12.9-inch (3rd generation)
+* iPhone XR
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_June2019.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_XR_PER_sept2018.pdf)
 
--
-iPad&nbsp;Pro 11-inch (1st&nbsp;generation)
+* iPhone X
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_June2019.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_X_PER_sept2017.pdf)
 
--
-iPad&nbsp;(6th generation)
+* iPhone 8
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_June2019.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_8_PER_sept2017.pdf)
 
--
-iPad&nbsp;Pro 12.9-inch (2nd generation)
+* iPhone 8 Plus
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_June2017.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_8_Plus_PER_sept2017.pdf)
 
--
-iPad&nbsp;(5th generation)
+* iPhone 7
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_mar2017.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_7_PER_sept2017.pdf)
 
--
-iPad&nbsp;Pro 10.5-inch
+* iPhone 7 Plus
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_10.5-inch_PER_June2017.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_7_Plus_PER_sept2017.pdf)
 
--
-iPad&nbsp;Pro 9.7-inch
+* iPhone SE (1st generation)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/ipad/9.7-inch_iPadPro_PER_mar2016.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_sept2017.pdf)
 
--
-iPad&nbsp;Pro 12.9-inch
+* iPhone 6s Plus
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/ipad/12.9-inch_iPad_Pro_PER_nov2015.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone6sPlus_PER_sept2015.pdf)
 
--
-iPad&nbsp;mini 4
+* iPhone 6s
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadmini4_PER_sept2015.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone6s_PER_sept2015.pdf)
 
--
-iPad&nbsp;Air 2
+* iPhone 6
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPadAir2_PER_oct2014.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPhone6_PER_sept2014.pdf)
 
--
-iPad&nbsp;mini 3
+* iPhone 5c
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPadmini3_PER_oct2014.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPhone5c_PER_Sept2014.pdf)
 
--
-iPad&nbsp;Air
+* iPhone 5s
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/iPadAir_PER_oct2013.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/iPhone5s_PER_sept2013.pdf)
 
--
-iPad&nbsp;mini 2
+* iPhone 5
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadmini_wRetinaDisplay_PER_Oct2013.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPhone5_PER_sept2012.pdf)
 
--
-iPad&nbsp;mini
+* iPhone 4s
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadmini_PER_Oct2013.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPhone4S_product_environmental_report_sept2012.pdf)
 
--
-iPad&nbsp;mini
+* iPhone 4
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPadmini_PER_oct2012.pdf)
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/iPhone_4_Product_Environmental_Report.pdf)
 
--
-iPad&nbsp;(4th generation)
+* iPhone 3G
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPad_Retina_PER_oct2012.pdf)
+  [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPhone-3G-Environmental-Report.pdf)
 
--
-iPad&nbsp;(3rd generation)
+* iPhone 3GS
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPad_Product_Environmental_Report_March2012.pdf)
+  [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPhone_3GS-Environmental-Report.pdf)
 
--
-iPad&nbsp;2
+* iPad (8th generation)
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPad2_Product_Environmental_Report_2012.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_sept2020.pdf)
 
--
-iPad&nbsp;2
+* iPad Pro 12.9-inch (4th generation)
 
-[View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/iPad_2_Environmental_Report.pdf)
+  [View (2020 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_Mar2020.pdf)
 
--
-Apple&nbsp;Watch Series 5 (GPS + Cellular, GPS)
+* iPad Pro 11-inch (2nd generation)
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series5_PER_sept2019.pdf)
+  [View (2020 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_Mar2020.pdf)
 
--
-Apple Watch Series 4 (GPS + Cellular)
+* iPad (7th generation)
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series4_GPSCellular_PER_sept2018.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_sept2019.pdf)
 
--
-Apple Watch Series 4 (GPS)
+* iPad mini (5th generation)
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series4_GPS_PER_sept2018.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadmini_PER_Mar2019.pdf)
 
--
-Apple&nbsp;Watch Series 3 (GPS + Cellular)
+* iPad Air (3rd generation)
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPSCellular_PER_sept2018.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadAir_PER_Mar2019.pdf)
 
--
-Apple&nbsp;Watch Series 3 (GPS + Cellular)
+* iPad Pro 12.9-inch (3rd generation)
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPSCellular_PER_sept2017.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_June2019.pdf)
 
--
-Apple&nbsp;Watch Series 3 (GPS)
+* iPad Pro 11-inch (1st generation)
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPS_PER_sept2017.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_June2019.pdf)
 
--
-Apple Watch Series 2
+* iPad (6th generation)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series2_PER_sept2016.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_June2019.pdf)
 
--
-Apple Watch Series 1
+* iPad Pro 12.9-inch (2nd generation)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series1_PER_sept2016.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_June2017.pdf)
 
--
-Apple Watch
+* iPad (5th generation)
 
-[View (September 2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/AppleWatch_PER_sept2015.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_PER_mar2017.pdf)
 
--
-Apple Watch
+* iPad Pro 10.5-inch
 
-[View (April 2015 PDF)](https://www.apple.com/environment/pdf/products/watch/AppleWatch_PER_april2015.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_10.5-inch_PER_June2017.pdf)
 
--
-MacBook&nbsp;Pro 16-inch
+* iPad Pro 9.7-inch
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBookPro_PER_Nov2019.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/ipad/9.7-inch_iPadPro_PER_mar2016.pdf)
 
--
-MacBook&nbsp;Air 13-inch with Retina display
+* iPad Pro 12.9-inch
 
-[View (March 2020 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_July2020.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/ipad/12.9-inch_iPad_Pro_PER_nov2015.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Thunderbolt 3
+* iPad mini 4
 
-[View (May 2020 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_May2020.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadmini4_PER_sept2015.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Thunderbolt 3
+* iPad Air 2
 
-[View (July 2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_June2019.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPadAir2_PER_oct2014.pdf)
 
--
-MacBook&nbsp;Air 13-inch with Retina display
+* iPad mini 3
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_June2019.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPadmini3_PER_oct2014.pdf)
 
--
-MacBook&nbsp;Pro 15-inch with Thunderbolt 3
+* iPad Air
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_PER_may2019.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/iPadAir_PER_oct2013.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Thunderbolt 3
+* iPad mini 2
 
-[View (May 2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_may2019.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadmini_wRetinaDisplay_PER_Oct2013.pdf)
 
--
-MacBook
+* iPad mini
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/notebooks/12inch_MacBook_PER_June2019.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadmini_PER_Oct2013.pdf)
 
--
-MacBook&nbsp;Air 13-inch with Retina display
+* iPad mini
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_oct2018.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPadmini_PER_oct2012.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Thunderbolt 3
+* iPad (4th generation)
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_w_Thunderbolt3_PER_July2018.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPad_Retina_PER_oct2012.pdf)
 
--
-MacBook&nbsp;Pro 15-inch with Thunderbolt 3
+* iPad (3rd generation)
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_w_Thunderbolt3_PER_July2018.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPad_Product_Environmental_Report_March2012.pdf)
 
--
-MacBook&nbsp;Air 13-inch
+* iPad 2
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_June2019.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPad2_Product_Environmental_Report_2012.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Thunderbolt 3
+* iPad 2
 
-[View (June 2017 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_w_Thunderbolt3_PER_June2017.pdf)
+  [View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/iPad_2_Environmental_Report.pdf)
 
--
-MacBook&nbsp;Pro 15-inch with Thunderbolt 3
+* Apple Watch Series 5 (GPS + Cellular, GPS)
 
-[View (June 2017 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_w_Thunderbolt3_PER_June2017.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series5_PER_sept2019.pdf)
 
--
-MacBook
+* Apple Watch Series 4 (GPS + Cellular)
 
-[View (June 2017 PDF)](https://www.apple.com/environment/pdf/products/notebooks/12-inch_MacBook_PER_June2017.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series4_GPSCellular_PER_sept2018.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Thunderbolt
+* Apple Watch Series 4 (GPS)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inchMBP_wTB3_PER_Oct2016.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series4_GPS_PER_sept2018.pdf)
 
--
-MacBook&nbsp;Pro 15-inch with Thunderbolt
+* Apple Watch Series 3 (GPS + Cellular)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15inchMBP_wTB3_PER_Oct2016.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPSCellular_PER_sept2018.pdf)
 
--
-MacBook
+* Apple Watch Series 3 (GPS + Cellular)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/MacBook_PER_April2016.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPSCellular_PER_sept2017.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Retina display
+* Apple Watch Series 3 (GPS)
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inchMBP_wRetinaDisplay_PER_Oct2016.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPS_PER_sept2017.pdf)
 
--
-MacBook&nbsp;Pro 15-inch with Retina display
+* Apple Watch Series 2
 
-[View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15inchMBP_wRetinaDisplay_PER_2016.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series2_PER_sept2016.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Retina display
+* Apple Watch Series 1
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inchMacBookPro_wRetinaDisplay_PER_march2015.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series1_PER_sept2016.pdf)
 
--
-MacBook&nbsp;Pro 15-inch with Retina display
+* Apple Watch
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15inchMacBookPro_wRetinaDisplay_PER_may2015.pdf)
+  [View (September 2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/AppleWatch_PER_sept2015.pdf)
 
--
-MacBook
+* Apple Watch
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/12inch_MacBook_PER_march2015.pdf)
+  [View (April 2015 PDF)](https://www.apple.com/environment/pdf/products/watch/AppleWatch_PER_april2015.pdf)
 
--
-MacBook&nbsp;Air 11-inch
+* MacBook Pro 16-inch
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/notebooks/11inch_MacBookAir_PER_march2015.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBookPro_PER_Nov2019.pdf)
 
--
-MacBook&nbsp;Air 13-inch
+* MacBook Air 13-inch with Retina display
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inch_MacBookAir_PER_march2015.pdf)
+  [View (March 2020 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_July2020.pdf)
 
--
-MacBook Pro 13-inch with Retina display
+* MacBook Pro 13-inch with Thunderbolt 3
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/13inch_MacBookPro_wRetina_PER_July2014.pdf)
+  [View (May 2020 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_May2020.pdf)
 
--
-11-inch MacBook&nbsp;Air
+* MacBook Pro 13-inch with Thunderbolt 3
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/11inch_MacBookAir_PER_april2014.pdf)
+  [View (July 2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_June2019.pdf)
 
--
-13-inch MacBook&nbsp;Air
+* MacBook Air 13-inch with Retina display
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/13inch_MacBookAir_PER_april2014.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_June2019.pdf)
 
--
-MacBook Pro 13-inch with Retina display
+* MacBook Pro 15-inch with Thunderbolt 3
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/13inch_macbookpro_retina_per_feb2013.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_PER_may2019.pdf)
 
--
-MacBook Pro 15-inch with Retina display
+* MacBook Pro 13-inch with Thunderbolt 3
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/15inch_macbookpro_retina_per_feb2013.pdf)
+  [View (May 2019 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_may2019.pdf)
 
--
-11-inch MacBook&nbsp;Air
+* MacBook
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/11inch_macbookair_product_environmental_report_june2013.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/notebooks/12inch_MacBook_PER_June2019.pdf)
 
--
-13-inch MacBook&nbsp;Air
+* MacBook Air 13-inch with Retina display
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/13inch_macbookair_product_environmental_report_june2013.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_oct2018.pdf)
 
--
-MacBook&nbsp;Pro 13-inch with Retina display
+* MacBook Pro 13-inch with Thunderbolt 3
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/13inch_macbookpro_retina_per_oct2012.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_w_Thunderbolt3_PER_July2018.pdf)
 
--
-MacBook&nbsp;Pro 15-inch with Retina display
+* MacBook Pro 15-inch with Thunderbolt 3
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/macbookpro_retinadisplay_per_june2012.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_w_Thunderbolt3_PER_July2018.pdf)
 
--
-13-inch MacBook&nbsp;Pro
+* MacBook Air 13-inch
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inchMacBookPro_PER_june2012.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_June2019.pdf)
 
--
-15-inch MacBook&nbsp;Pro
+* MacBook Pro 13-inch with Thunderbolt 3
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/15inch_macbookpro_per_june2012.pdf)
+  [View (June 2017 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_w_Thunderbolt3_PER_June2017.pdf)
 
--
-11-inch MacBook&nbsp;Air
+* MacBook Pro 15-inch with Thunderbolt 3
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/11inch_macbookair_per_june2012.pdf)
+  [View (June 2017 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_w_Thunderbolt3_PER_June2017.pdf)
 
--
-13-inch MacBook&nbsp;Air
+* MacBook
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/13inch_macbookair_per_june2012.pdf)
+  [View (June 2017 PDF)](https://www.apple.com/environment/pdf/products/notebooks/12-inch_MacBook_PER_June2017.pdf)
 
--
-13-inch MacBook&nbsp;Pro
+* MacBook Pro 13-inch with Thunderbolt
 
-[View (October 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_13-inch_Product_Environmental_Report_Oct2011.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inchMBP_wTB3_PER_Oct2016.pdf)
 
--
-15-inch MacBook&nbsp;Pro
+* MacBook Pro 15-inch with Thunderbolt
 
-[View (October 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_15-inch_Product_Environmental_Report_Oct2011.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15inchMBP_wTB3_PER_Oct2016.pdf)
 
--
-17-inch MacBook&nbsp;Pro
+* MacBook
 
-[View (October 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_17-inch_Product_Environmental_Report_Oct2011.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/MacBook_PER_April2016.pdf)
 
--
-13-inch MacBook&nbsp;Pro
+* MacBook Pro 13-inch with Retina display
 
-[View (February 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-13-inch-Environmental-Report-Feb2011.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inchMBP_wRetinaDisplay_PER_Oct2016.pdf)
 
--
-15-inch MacBook&nbsp;Pro
+* MacBook Pro 15-inch with Retina display
 
-[View (February 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-15-inch-Environmental-Report-Feb2011.pdf)
+  [View (2016 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15inchMBP_wRetinaDisplay_PER_2016.pdf)
 
--
-17-inch MacBook&nbsp;Pro
+* MacBook Pro 13-inch with Retina display
 
-[View (February 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-17-inch-Environmental-Report-Feb2011.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inchMacBookPro_wRetinaDisplay_PER_march2015.pdf)
 
--
-11-inch MacBook&nbsp;Air
+* MacBook Pro 15-inch with Retina display
 
-[View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookAir_11-inch_PER_20110720.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/notebooks/15inchMacBookPro_wRetinaDisplay_PER_may2015.pdf)
 
--
-13-inch MacBook&nbsp;Air
+* MacBook
 
-[View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookAir_13-inch_PER_20110720.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/12inch_MacBook_PER_march2015.pdf)
 
--
-11-inch MacBook&nbsp;Air
+* MacBook Air 11-inch
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/11inch_MacBookAir_Product_Environmental_Report.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/notebooks/11inch_MacBookAir_PER_march2015.pdf)
 
--
-13-inch MacBook&nbsp;Air
+* MacBook Air 13-inch
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/13inch_MacBookAir_Product_Environmental_Report.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inch_MacBookAir_PER_march2015.pdf)
 
--
-MacBook
+* MacBook Pro 13-inch with Retina display
 
-[View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/MacBook-White_Environmental_Report_20091020.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/13inch_MacBookPro_wRetina_PER_July2014.pdf)
 
--
-21.5-inch iMac with Retina&nbsp;4K
+* 11-inch MacBook Air
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_with_Retina4KDisplay_PER_Mar2019.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/11inch_MacBookAir_PER_april2014.pdf)
 
--
-27-inch iMac with Retina 5K display
+* 13-inch MacBook Air
 
-[View (2019 PDF)](https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Mar2019.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/13inch_MacBookAir_PER_april2014.pdf)
 
--
-Mac mini
+* MacBook Pro 13-inch with Retina display
 
-[View (2018 PDF)](https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_Mar2020.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/13inch_macbookpro_retina_per_feb2013.pdf)
 
--
-Mac Pro
+* MacBook Pro 15-inch with Retina display
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/desktops/MacPro_PER_June2017.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/15inch_macbookpro_retina_per_feb2013.pdf)
 
--
-21.5-inch iMac with Retina&nbsp;4K
+* 11-inch MacBook Air
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2019.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/11inch_macbookair_product_environmental_report_june2013.pdf)
 
--
-27-inch iMac with Retina&nbsp;5K
+* 13-inch MacBook Air
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_June2017.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/13inch_macbookair_product_environmental_report_june2013.pdf)
 
--
-21.5-inch iMac
+* MacBook Pro 13-inch with Retina display
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/desktops/21_5inch_iMac_PER_Oct2015.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/13inch_macbookpro_retina_per_oct2012.pdf)
 
--
-27-inch iMac with Retina&nbsp;5K
+* MacBook Pro 15-inch with Retina display
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/desktops/27inch_iMacR5K_PER_Oct2015.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/macbookpro_retinadisplay_per_june2012.pdf)
 
--
-21.5-inch iMac
+* 13-inch MacBook Pro
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/21_5inch_iMac_PER_june2014.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13inchMacBookPro_PER_june2012.pdf)
 
--
-Mac mini
+* 15-inch MacBook Pro
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_oct2014.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/15inch_macbookpro_per_june2012.pdf)
 
--
-21.5-inch iMac
+* 11-inch MacBook Air
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/21_5inch_iMac_product_environmental_report_sept2013.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/11inch_macbookair_per_june2012.pdf)
 
--
-27-inch iMac
+* 13-inch MacBook Air
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/27inch_iMac_product_environmental_report_sept2013.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/13inch_macbookair_per_june2012.pdf)
 
--
-Mac Pro
+* 13-inch MacBook Pro
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/desktops/MacPro_PER_oct2013.pdf)
+  [View (October 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_13-inch_Product_Environmental_Report_Oct2011.pdf)
 
--
-21.5-inch iMac
+* 15-inch MacBook Pro
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/imac_21.5inch_oct2012.pdf)
+  [View (October 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_15-inch_Product_Environmental_Report_Oct2011.pdf)
 
--
-27-inch iMac
+* 17-inch MacBook Pro
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/imac_27inch_oct2012.pdf)
+  [View (October 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_17-inch_Product_Environmental_Report_Oct2011.pdf)
 
--
-Mac mini
+* 13-inch MacBook Pro
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/macmini_oct2012.pdf)
+  [View (February 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-13-inch-Environmental-Report-Feb2011.pdf)
 
--
-Mac mini with OS X Server
+* 15-inch MacBook Pro
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/macmini_server_oct2012.pdf)
+  [View (February 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-15-inch-Environmental-Report-Feb2011.pdf)
 
--
-21.5-inch iMac
+* 17-inch MacBook Pro
 
-[View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/imac_21.5inch_per_may2011.pdf)
+  [View (February 2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-17-inch-Environmental-Report-Feb2011.pdf)
 
--
-27-inch iMac
+* 11-inch MacBook Air
 
-[View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/imac_27inch_per_may2011.pdf)
+  [View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookAir_11-inch_PER_20110720.pdf)
 
--
-Mac mini
+* 13-inch MacBook Air
 
-[View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/macmini_per_july2011.pdf)
+  [View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/MacBookAir_13-inch_PER_20110720.pdf)
 
--
-Mac mini with Lion Server
+* 11-inch MacBook Air
 
-[View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/macmini_lion_server_per_july2011.pdf)
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/11inch_MacBookAir_Product_Environmental_Report.pdf)
 
--
-21.5-inch iMac
+* 13-inch MacBook Air
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/21.5inch_iMac_Product_Environmental_Report_20100727.pdf)
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/13inch_MacBookAir_Product_Environmental_Report.pdf)
 
--
-27-inch iMac
+* MacBook
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/27inch_iMac_Product_Environmental_Report__20100727.pdf)
+  [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/MacBook-White_Environmental_Report_20091020.pdf)
 
--
-Mac mini
+* 21.5-inch iMac with Retina 4K
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/Macmini-Product_Environmental_Report_2010615.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_with_Retina4KDisplay_PER_Mar2019.pdf)
 
--
-Mac mini with Snow Leopard Server
+* 27-inch iMac with Retina 5K display
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/Macminiserver-Product_Environmental_Report_20100615.pdf)
+  [View (2019 PDF)](https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Mar2019.pdf)
 
--
-Mac Pro
+* Mac mini
 
-[View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/Mac-Pro-Environmental-Report.pdf)
+  [View (2018 PDF)](https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_Mar2020.pdf)
 
--
-Apple Thunderbolt Display
+* Mac Pro
 
-[View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/ThunderboltDisplay_PER_july2011.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/desktops/MacPro_PER_June2017.pdf)
 
--
-27-inch Apple LED Cinema Display
+* 21.5-inch iMac with Retina 4K
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/27inch_led_display_per_july2010.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2019.pdf)
 
--
-24-inch Apple LED Cinema Display
+* 27-inch iMac with Retina 5K
 
-[View (2008 PDF)](https://www.apple.com/environment/pdf/products/archive/2008/LED-Cinema-Display-Environmental-Report-20091120.pdf)
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_June2017.pdf)
 
--
-Apple&nbsp;TV 4K
+* 21.5-inch iMac
 
-[View (2017 PDF)](https://www.apple.com/environment/pdf/products/appletv/Apple_TV_4K_PER_sept2017.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/desktops/21_5inch_iMac_PER_Oct2015.pdf)
 
--
-Apple&nbsp;TV (4th&nbsp;generation)
+* 27-inch iMac with Retina 5K
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/appletv/Apple_TV_PER_sept2017.pdf)
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/desktops/27inch_iMacR5K_PER_Oct2015.pdf)
 
--
-Apple TV (3rd&nbsp;generation)
+* 21.5-inch iMac
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/appletv/AppleTV_PER_march2012.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/21_5inch_iMac_PER_june2014.pdf)
 
--
-Apple TV
+* Mac mini
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/AppleTV_Product_Environmental_Report_20110323.pdf)
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_oct2014.pdf)
 
--
-iPod touch
+* 21.5-inch iMac
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/iPodtouch_PER_july2015.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/21_5inch_iMac_product_environmental_report_sept2013.pdf)
 
--
-iPod nano
+* 27-inch iMac
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/iPodnano_PER_july2015.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2013/27inch_iMac_product_environmental_report_sept2013.pdf)
 
--
-iPod shuffle
+* Mac Pro
 
-[View (2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/iPodshuffle_PER_july2015.pdf)
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/desktops/MacPro_PER_oct2013.pdf)
 
--
-iPod touch 32GB/64GB
+* 21.5-inch iMac
 
-[View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPodtouch_PER_june2014.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/imac_21.5inch_oct2012.pdf)
 
--
-iPod touch 16GB
+* 27-inch iMac
 
-[View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPodtouch_16GB_product_environmental_report_may2013.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/imac_27inch_oct2012.pdf)
 
--
-iPod nano
+* Mac mini
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPodnano_product_environmental_report_sept2012.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/macmini_oct2012.pdf)
 
--
-iPod shuffle
+* Mac mini with OS X Server
 
-[View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPodshuffle_product_environmental_report_sept2012.pdf)
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/macmini_server_oct2012.pdf)
 
--
-iPod nano
+* 21.5-inch iMac
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/iPodnano_Product_Environmental_Report_2010.pdf)
+  [View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/imac_21.5inch_per_may2011.pdf)
 
--
-iPod shuffle
+* 27-inch iMac
 
-[View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/iPodshuffle_Product_Environmental_Report_2010.pdf)
+  [View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/imac_27inch_per_may2011.pdf)
 
--
-iPod touch
+* Mac mini
 
-[View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPod_touch_Environmental_Report.pdf)
+  [View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/macmini_per_july2011.pdf)
 
--
-iPod nano
+* Mac mini with Lion Server
 
-[View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPod_nano_Environmental_Report.pdf)
+  [View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/macmini_lion_server_per_july2011.pdf)
 
--
-iPod shuffle
+* 21.5-inch iMac
 
-[View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPod-shuffle-Environmental-Report_March_2009.pdf)
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/21.5inch_iMac_Product_Environmental_Report_20100727.pdf)
 
--
-iPod classic
+* 27-inch iMac
 
-[View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPod_Classic_Environmental_Report.pdf)
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/27inch_iMac_Product_Environmental_Report__20100727.pdf)
+
+* Mac mini
+
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/Macmini-Product_Environmental_Report_2010615.pdf)
+
+* Mac mini with Snow Leopard Server
+
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/Macminiserver-Product_Environmental_Report_20100615.pdf)
+
+* Mac Pro
+
+  [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/Mac-Pro-Environmental-Report.pdf)
+
+* Apple Thunderbolt Display
+
+  [View (2011 PDF)](https://www.apple.com/environment/pdf/products/archive/2011/ThunderboltDisplay_PER_july2011.pdf)
+
+* 27-inch Apple LED Cinema Display
+
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/27inch_led_display_per_july2010.pdf)
+
+* 24-inch Apple LED Cinema Display
+
+  [View (2008 PDF)](https://www.apple.com/environment/pdf/products/archive/2008/LED-Cinema-Display-Environmental-Report-20091120.pdf)
+
+* Apple TV 4K
+
+  [View (2017 PDF)](https://www.apple.com/environment/pdf/products/appletv/Apple_TV_4K_PER_sept2017.pdf)
+
+* Apple TV (4th generation)
+
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/appletv/Apple_TV_PER_sept2017.pdf)
+
+* Apple TV (3rd generation)
+
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/appletv/AppleTV_PER_march2012.pdf)
+
+* Apple TV
+
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/AppleTV_Product_Environmental_Report_20110323.pdf)
+
+* iPod touch
+
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/iPodtouch_PER_july2015.pdf)
+
+* iPod nano
+
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/iPodnano_PER_july2015.pdf)
+
+* iPod shuffle
+
+  [View (2015 PDF)](https://www.apple.com/environment/pdf/products/archive/2015/iPodshuffle_PER_july2015.pdf)
+
+* iPod touch 32GB/64GB
+
+  [View (2014 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPodtouch_PER_june2014.pdf)
+
+* iPod touch 16GB
+
+  [View (2013 PDF)](https://www.apple.com/environment/pdf/products/archive/2014/iPodtouch_16GB_product_environmental_report_may2013.pdf)
+
+* iPod nano
+
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPodnano_product_environmental_report_sept2012.pdf)
+
+* iPod shuffle
+
+  [View (2012 PDF)](https://www.apple.com/environment/pdf/products/archive/2012/iPodshuffle_product_environmental_report_sept2012.pdf)
+
+* iPod nano
+
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/iPodnano_Product_Environmental_Report_2010.pdf)
+
+* iPod shuffle
+
+  [View (2010 PDF)](https://www.apple.com/environment/pdf/products/archive/2010/iPodshuffle_Product_Environmental_Report_2010.pdf)
+
+* iPod touch
+
+  [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPod_touch_Environmental_Report.pdf)
+
+* iPod nano
+
+  [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPod_nano_Environmental_Report.pdf)
+
+* iPod shuffle
+
+  [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPod-shuffle-Environmental-Report_March_2009.pdf)
+
+* iPod classic
+
+  [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPod_Classic_Environmental_Report.pdf)
 
 [View previous reports](https://www.apple.com/environment/)
 
-## 2021 Progress Report
+2021 Progress Report
+----------
 
 In our current report, you’ll find more detailed information about our efforts, how we measure our overall environmental footprint, and the progress we’ve made over the past year.
 
 [View the 2021 Environmental Progress Report (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2021.pdf)
 
--
-2020 Progress Report
+* 2020 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2020.pdf)
--
-2019 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2020.pdf)
+* 2019 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf)
--
-2018 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf)
+* 2018 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2018.pdf)
--
-2017 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2018.pdf)
+* 2017 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf)
--
-2016 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf)
+* 2016 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2016.pdf)
--
-2015 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2016.pdf)
+* 2015 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf)
--
-2014 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf)
+* 2014 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2014.pdf)
--
-2013 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2014.pdf)
+* 2013 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2013.pdf)
--
-2012 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2013.pdf)
+* 2012 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2012.pdf)
--
-2011 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2012.pdf)
+* 2011 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2011.pdf)
--
-2010 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2011.pdf)
+* 2010 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2010.pdf)
--
-2009 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2010.pdf)
+* 2009 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2009.pdf)
--
-2008 Progress Report
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2009.pdf)
+* 2008 Progress Report
 
-[View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2008.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Facilities_Report_2008.pdf)
 
 [View previous reports](https://www.apple.com/environment/)
 
-## Additional Reports and&nbsp;Resources
+Additional Reports and Resources
+----------
 
-### Circular Economy
+### Circular Economy ###
 
-Our aim is to make products using only renewable resources or recycled materials — so we prioritize, responsibly source, and recover&nbsp;materials.
+Our aim is to make products using only renewable resources or recycled materials — so we prioritize, responsibly source, and recover materials.
 
-- [Learn how we prioritize materials with our Material Impact Profiles&nbsp;(PDF)](https://www.apple.com/environment/pdf/Apple_Material_Impact_Profiles_April2019.pdf)
-- [Read our white paper on Apple’s Paper and Packaging Strategy&nbsp;(PDF)](https://www.apple.com/environment/pdf/Packaging_and_Forestry_September_2017.pdf)
-- [Read our Sustainable Fiber Specification&nbsp;(PDF)](https://www.apple.com/environment/pdf/Sustainable_Fiber_Specification_April2016.pdf)
-- [Read about our first product disassembly robot, Liam&nbsp;(PDF)](https://www.apple.com/environment/pdf/Liam_white_paper_Sept2016.pdf)
-- [Learn how to trade in or recycle your&nbsp;device](https://www.apple.com/us/shop/goto/trade_in)
-- [Learn more about disassembly for professional&nbsp;recyclers](https://www.apple.com/recycling/recycler-guides/)
+* [Learn how we prioritize materials with our Material Impact Profiles (PDF)](https://www.apple.com/environment/pdf/Apple_Material_Impact_Profiles_April2019.pdf)
+* [Read our white paper on Apple’s Paper and Packaging Strategy (PDF)](https://www.apple.com/environment/pdf/Packaging_and_Forestry_September_2017.pdf)
+* [Read our Sustainable Fiber Specification (PDF)](https://www.apple.com/environment/pdf/Sustainable_Fiber_Specification_April2016.pdf)
+* [Read about our first product disassembly robot, Liam (PDF)](https://www.apple.com/environment/pdf/Liam_white_paper_Sept2016.pdf)
+* [Learn how to trade in or recycle your device](https://www.apple.com/us/shop/goto/trade_in)
+* [Learn more about disassembly for professional recyclers](https://www.apple.com/recycling/recycler-guides/)
 
-### Smarter Chemistry
+### Smarter Chemistry ###
 
-Apple has a rigorous program to ensure the safety of chemicals used in our products. Learn about Apple’s strict standards, detailed toxicological assessments, and methodology for assessing chemicals of&nbsp;concern.
+Apple has a rigorous program to ensure the safety of chemicals used in our products. Learn about Apple’s strict standards, detailed toxicological assessments, and methodology for assessing chemicals of concern.
 
-- [Read the Regulated Substances Specification&nbsp;(PDF)](https://www.apple.com/environment/pdf/Apple_Regulated_Substances_Specification_March2021.pdf)
-- [Read our white paper on Integrating Toxicological Assessments in Material Selection for Apple Products&nbsp;(PDF)](https://www.apple.com/environment/pdf/Toxicology_in_Material_Selection_Sept2016.pdf)
-- [Read our Protocol for Prioritizing Chemicals of Concern in the Electronics Industry&nbsp;(PDF)](https://www.apple.com/environment/pdf/Apple_Prioritizing_Chemicals_2018.pdf)
+* [Read the Regulated Substances Specification (PDF)](https://www.apple.com/environment/pdf/Apple_Regulated_Substances_Specification_March2021.pdf)
+* [Read our white paper on Integrating Toxicological Assessments in Material Selection for Apple Products (PDF)](https://www.apple.com/environment/pdf/Toxicology_in_Material_Selection_Sept2016.pdf)
+* [Read our Protocol for Prioritizing Chemicals of Concern in the Electronics Industry (PDF)](https://www.apple.com/environment/pdf/Apple_Prioritizing_Chemicals_2018.pdf)
 
-### Climate Change
+### Climate Change ###
 
-Climate change is a defining issue of our time. Our goal is to achieve complete carbon neutrality by 2030. Below are detailed updates on our&nbsp;progress.
+Climate change is a defining issue of our time. Our goal is to achieve complete carbon neutrality by 2030. Below are detailed updates on our progress.
 
-- [Read about how our suppliers are transitioning to clean energy&nbsp;(PDF)](https://www.apple.com/environment/pdf/Apple_Supplier_Clean_Energy_Program_Update_2021.pdf)
-- [Apple received an A rating for its efforts from CDP Climate Change in 2020 (PDF)](https://www.apple.com/environment/pdf/Apple_CDP-Climate-Change-Questionnaire_2020.pdf)
+* [Read about how our suppliers are transitioning to clean energy (PDF)](https://www.apple.com/environment/pdf/Apple_Supplier_Clean_Energy_Program_Update_2021.pdf)
+* [Apple received an A rating for its efforts from CDP Climate Change in 2020 (PDF)](https://www.apple.com/environment/pdf/Apple_CDP-Climate-Change-Questionnaire_2020.pdf)
 
-### People and Environment in our Supply Chain
+### People and Environment in our Supply Chain ###
 
-We hold ourselves and our suppliers to the highest standards for labor and human rights protections, health and safety in the workplace, environmental practices, and the responsible sourcing of&nbsp;materials.
+We hold ourselves and our suppliers to the highest standards for labor and human rights protections, health and safety in the workplace, environmental practices, and the responsible sourcing of materials.
 
-[Visit the Supplier Responsibility&nbsp;site](https://www.apple.com/supplier-responsibility/)
+[Visit the Supplier Responsibility site](https://www.apple.com/supplier-responsibility/)
 
-### Frequently Asked Questions
+### Frequently Asked Questions ###
 
-Find out the answers to common questions about Apple and the&nbsp;environment.
+Find out the answers to common questions about Apple and the environment.
 
 [Read the FAQs](https://www.apple.com/environment/answers/)

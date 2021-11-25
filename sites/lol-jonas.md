@@ -1,8 +1,11 @@
-# JONAS
+JONAS
+==========
 
-# welcome to my personal web page
+welcome to my personal web page
+==========
 
-## [Projects](https://jonas.lol/projects)
+[Projects ----------](https://jonas.lol/projects)
+
 [RunReview](https://jonas.lol/runreview)
 
 iOS App visualizing and summarizing running statistics per year
@@ -17,9 +20,7 @@ micro-social network to share music on iOS
 
 [MORE](https://jonas.lol/projects)
 
-## [Guides](https://jonas.lol/guides)
-
-[Remote app configuration powered by SwiftPM](https://jonas.lol/guides/remote-config-using-swiftpm/)
+[Guides ----------](https://jonas.lol/guides) [Remote app configuration powered by SwiftPM](https://jonas.lol/guides/remote-config-using-swiftpm/)
 
 ★ ★ ★
 
@@ -33,12 +34,8 @@ micro-social network to share music on iOS
 
 [Keep your command-line tools up to date](https://jonas.lol/guides/check-yourself-before-you-wreck-yourself/)
 
-[JONAS](https://jonas.lol/)
-
-[LOL](https://jonas.lol/)
+[JONAS LOL](https://jonas.lol/)
 
 from Hamburg with love
 
-[Twitter logo](https://twitter.com/vfuc42)
-[GitHub logo](https://github.com/vfuc)
-[Email icon](mailto:hello@jonas.lol)
+[Twitter logo](https://twitter.com/vfuc42) [GitHub logo](https://github.com/vfuc) [Email icon](mailto:hello@jonas.lol)

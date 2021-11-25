@@ -4,7 +4,7 @@
 		<title>News - Hetzner Online GmbH</title>
 		<link>https://www.hetzner.com/news/</link>
 		<description></description>
-		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Top Black Week deals - Selected servers have no setup fees!</title>
 			<link>https://www.hetzner.com/news/11-21-black-week/</link>
@@ -19,13 +19,13 @@
 				</small>
 			</p>
 			<h4>
-			Top Black Week deals - Selected servers have no setup fees!
+				Top Black Week deals - Selected servers have no setup fees!
 			</h4>
 			<p class="list-card-preview">
-			Our world famous no setup fee sale has returned just in time for Black Week! You can get almost all of our AX or PX dedicated root servers without a...
+				Our world famous no setup fee sale has returned just in time for Black Week! You can get almost all of our AX or PX dedicated root servers without a...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/11-21-black-week/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -45,13 +45,13 @@
 				</small>
 			</p>
 			<h4>
-			Hetzner Goes USA! – Hetzner opens new location for cloud servers
+				Hetzner Goes USA! – Hetzner opens new location for cloud servers
 			</h4>
 			<p class="list-card-preview">
-			Our first location in the USA is live! Hetzner cloud servers are now available in Ashburn.
+				Our first location in the USA is live! Hetzner cloud servers are now available in Ashburn.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/11-21-usa-cloud/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -71,13 +71,13 @@
 				</small>
 			</p>
 			<h4>
-			New Possibilities: Apple Mac mini M1
+				New Possibilities: Apple Mac mini M1
 			</h4>
 			<p class="list-card-preview">
-			Get ready for Apple Mac mini M1 (2020) with 16GB RAM, 256GB SSD and optional 2x 1TB NVMe SSD.
+				Get ready for Apple Mac mini M1 (2020) with 16GB RAM, 256GB SSD and optional 2x 1TB NVMe SSD.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/10-21-apple-mac-mini-m1/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -97,13 +97,13 @@
 				</small>
 			</p>
 			<h4>
-			Need a price hero? The September setup special will save your wallet!
+				Need a price hero? The September setup special will save your wallet!
 			</h4>
 			<p class="list-card-preview">
-			You all have waited with heroic patience for the next free setup sale, and the time has finally come! We've removed the setup fees on three of our most popular...
+				You all have waited with heroic patience for the next free setup sale, and the time has finally come! We've removed the setup fees on three of our most popular...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/09-21-setup-special/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -123,13 +123,13 @@
 				</small>
 			</p>
 			<h4>
-			Running out of space? The new SX-line has arrived.
+				Running out of space? The new SX-line has arrived.
 			</h4>
 			<p class="list-card-preview">
-			Have you been hunting high and low for storage? Good news! The new and improved SX-Line dedicated servers are here.
+				Have you been hunting high and low for storage? Good news! The new and improved SX-Line dedicated servers are here.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/06-21-sx-line/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -149,13 +149,13 @@
 				</small>
 			</p>
 			<h4>
-			Nothing stacks up to EPYC™: New dedicated vCPU servers with the AMD EPYC™ 7003 Series processor are now available
+				Nothing stacks up to EPYC™: New dedicated vCPU servers with the AMD EPYC™ 7003 Series processor are now available
 			</h4>
 			<p class="list-card-preview">
-			 We are now offering six new models of dedicated vCPU cloud servers which are equipped with the newest AMD EPYC™ processors.
+				We are now offering six new models of dedicated vCPU cloud servers which are equipped with the newest AMD EPYC™ processors.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/03-21-cloud-amd/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -175,13 +175,13 @@
 				</small>
 			</p>
 			<h4>
-			Firewall Beta for Hetzner Cloud available
+				Firewall Beta for Hetzner Cloud available
 			</h4>
 			<p class="list-card-preview">
-			Firewalls, the new feature for Hetzner Cloud, has just arrived. Many of our customers have requested this feature, so we're hoping that you'll take this opportunity to be one of...
+				Firewalls, the new feature for Hetzner Cloud, has just arrived. Many of our customers have requested this feature, so we're hoping that you'll take this opportunity to be one of...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/03-21-firewall-beta/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -201,13 +201,13 @@
 				</small>
 			</p>
 			<h4>
-			Break through to new dimensions with the Dedicated Root Server AX101
+				Break through to new dimensions with the Dedicated Root Server AX101
 			</h4>
 			<p class="list-card-preview">
-			From virtualization to content creation — nothing stands between you and the horizon with our new Dedicated Root Server AX101.
+				From virtualization to content creation — nothing stands between you and the horizon with our new Dedicated Root Server AX101.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/02-21-ax101/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -227,13 +227,13 @@
 				</small>
 			</p>
 			<h4>
-			The new storage giants — Perfect for large amounts of data
+				The new storage giants — Perfect for large amounts of data
 			</h4>
 			<p class="list-card-preview">
-			Do you need a large amount of secure storage resources for your sensitive data? Our line of high-capacity fifth-generation storage servers are waiting for you.
+				Do you need a large amount of secure storage resources for your sensitive data? Our line of high-capacity fifth-generation storage servers are waiting for you.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/01-21-storage-server/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -253,13 +253,13 @@
 				</small>
 			</p>
 			<h4>
-			The new Dedicated Root Server PX93: High performance computing for intense workloads
+				The new Dedicated Root Server PX93: High performance computing for intense workloads
 			</h4>
 			<p class="list-card-preview">
-			Virtualisation, AI, machine learning and creative applications — all of these use cases require high performance computing from a dedicated root server.
+				Virtualisation, AI, machine learning and creative applications — all of these use cases require high performance computing from a dedicated root server.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/12-20-px93/">
-        Show more
+				Show more
 			</a>
 		</li>
 	</body>

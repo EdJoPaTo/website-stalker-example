@@ -1,27 +1,29 @@
-# Mac
+Mac
+==========
 
-Get ready for the Apple Shopping Event. Starts&nbsp;Friday.
-[Get an early look](https://www.apple.com/us/shop/goto/gifts/shopping_event)
+ Get ready for the Apple Shopping Event. Starts Friday. [Get an early look](https://www.apple.com/us/shop/goto/gifts/shopping_event)
 
-Get your holiday gifts on time.
-[See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
+ Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
 
-## New
-MacBook Pro
+NewMacBook Pro
+----------
 
-Supercharged for&nbsp;pros.
+Supercharged for pros.
 
 [Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_14)
 
 [Learn more](https://www.apple.com/macbook-pro-14-and-16/)
 
-## Which Mac is
+Which Mac is
+right for you?
+----------
 
-right for&nbsp;you?
-- [Notebook](https://www.apple.com/mac/#compare-gallery-notebook)
-- [Desktop](https://www.apple.com/mac/#compare-gallery-desktop)
+* [Notebook](https://www.apple.com/mac/#compare-gallery-notebook)
+* [Desktop](https://www.apple.com/mac/#compare-gallery-desktop)
 
-### MacBook Air
+[](https://www.apple.com/macbook-air/)
+
+### MacBook Air ###
 
 [View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_air_m1_chip_silver_ios15.usdz)
 
@@ -31,39 +33,40 @@ right for&nbsp;you?
 
 Apple M1 chip
 
-#### 8-core
+#### 8-core ####
 
 CPU
 
 Up to
 
-#### 8-core
+#### 8-core ####
 
 GPU
 
 Up to 16GB
-
 unified memory
 
-#### 2TB
+#### 2TB ####
 
 Maximum configurable storage
 
-#### 13.3”
+#### 13.3” ####
 
 Retina display
 
-Up to 18 hours battery&nbsp;life
+Up to 18 hours battery life
 
-720p FaceTime&nbsp;HD camera
+720p FaceTime HD camera
 
-#### 2.8 lb.
+#### 2.8 lb. ####
 
 Weight
 
 Touch ID
 
-### MacBook Pro 13”
+[](https://www.apple.com/macbook-pro-13/)
+
+### MacBook Pro 13” ###
 
 [View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_13in_2port_m1_chip_silver_ios15.usdz)
 
@@ -73,39 +76,40 @@ Touch ID
 
 Apple M1 chip
 
-#### 8-core
+#### 8-core ####
 
 CPU
 
-#### 8-core
+#### 8-core ####
 
 GPU
 
 Up to 16GB
-
 unified memory
 
-#### 2TB
+#### 2TB ####
 
 Maximum configurable storage
 
-#### 13.3”
+#### 13.3” ####
 
 Retina display
 
-Up to 20 hours battery&nbsp;life
+Up to 20 hours battery life
 
-720p FaceTime&nbsp;HD camera
+720p FaceTime HD camera
 
-#### 3.0 lb.
+#### 3.0 lb. ####
 
 Weight
 
-Touch Bar and Touch&nbsp;ID
+Touch Bar and Touch ID
+
+[](https://www.apple.com/macbook-pro-14-and-16/)
 
 New
 
-### MacBook Pro 14”&nbsp;and&nbsp;16”
+### MacBook Pro 14” and 16” ###
 
 [View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_16_silver.usdz)
 
@@ -113,45 +117,45 @@ New
 
 [Learn more](https://www.apple.com/macbook-pro-14-and-16/)
 
-Apple&nbsp;M1&nbsp;Pro&nbsp;chip or
-
-Apple&nbsp;M1&nbsp;Max&nbsp;chip
+Apple M1 Pro chip or
+Apple M1 Max chip
 
 Up to
 
-#### 10-core
+#### 10-core ####
 
 CPU
 
 Up to
 
-#### 32-core
+#### 32-core ####
 
 GPU
 
 Up to 64GB
-
 unified memory
 
-#### 8TB
+#### 8TB ####
 
 Maximum configurable storage
 
-#### 14.2” or 16.2”
+#### 14.2” or 16.2” ####
 
 Liquid Retina XDR display
 
-Up to 21 hours battery&nbsp;life
+Up to 21 hours battery life
 
-1080p FaceTime&nbsp;HD camera
+1080p FaceTime HD camera
 
-#### 3.5 lb. or 4.7 lb.
+#### 3.5 lb. or 4.7 lb. ####
 
 Weight
 
-Touch&nbsp;ID
+Touch ID
 
-### iMac 24”
+[](https://www.apple.com/imac-24/)
+
+### iMac 24” ###
 
 [View in AR](https://www.apple.com/105/media/us/mac/2021/5e004d75-3ad6-4bb9-ab59-41f891fc52f0/ar/imac-24/imac24_blue_ios14.usdz)
 
@@ -161,65 +165,69 @@ Touch&nbsp;ID
 
 Apple M1 chip
 
-#### 8-core
+#### 8-core ####
 
 CPU
 
 Up to
 
-#### 8-core
+#### 8-core ####
 
 GPU
 
 Up to 16GB unified memory
 
-#### 2TB
+#### 2TB ####
 
 Maximum configurable storage
 
-#### 4.5K
+#### 4.5K ####
 
 Retina display
 
-1080p FaceTime&nbsp;HD camera
+1080p FaceTime HD camera
 
-Configurable with Magic&nbsp;Keyboard with Touch&nbsp;ID and Numeric&nbsp;Keypad
+Configurable with Magic Keyboard with Touch ID and Numeric Keypad
 
-### iMac 27”
+[](https://www.apple.com/imac-27/)
+
+### iMac 27” ###
 
 [Buy](https://www.apple.com/us/shop/goto/buy_mac/imac_27)
 
 [Learn more](https://www.apple.com/imac-27/)
 
-Up to Intel&nbsp;Core&nbsp;i9
+Up to Intel Core i9
 
 Up to
 
-#### 10-core
+#### 10-core ####
 
 CPU
 
 Up to
 
-#### AMD
+#### AMD ####
 
-Radeon Pro 5700 XT&nbsp;GPU
+Radeon Pro 5700 XT GPU
 
 Up to 128GB memory
 
-#### 8TB
+#### 8TB ####
 
 Maximum configurable storage
 
-#### 5K
+#### 5K ####
 
 Retina display
 
-1080p FaceTime&nbsp;HD camera
+1080p FaceTime HD camera
 
-Configurable with Magic&nbsp;Keyboard with Numeric&nbsp;Keypad
+Configurable with Magic Keyboard with Numeric Keypad
 
-### Mac Pro
+[](https://www.apple.com/mac-pro/)
+
+### Mac Pro ###
 
 [View in AR](https://www.apple.com/105/media/us/mac/2019/36178e80-30fd-441c-9a5b-349c6365bb36/ar/mac-pro/case-on.usdz)
 
@@ -231,31 +239,31 @@ Intel Xeon W processor
 
 Up to
 
-#### 28-core
+#### 28-core ####
 
 CPU
 
 Up to
 
-#### AMD
+#### AMD ####
 
-Radeon&nbsp;Pro W6800X Duo GPU
+Radeon Pro W6800X Duo GPU
 
 Up to 1.5TB memory
 
-#### 8TB
+#### 8TB ####
 
 Maximum configurable storage
 
-—
-Not available
+—Not available
 
-—
-Not available
+—Not available
 
-Magic Keyboard with Numeric&nbsp;Keypad
+Magic Keyboard with Numeric Keypad
 
-### Mac mini
+[](https://www.apple.com/mac-mini/)
+
+### Mac mini ###
 
 [Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_mini)
 
@@ -265,138 +273,141 @@ Apple M1 chip
 
 Also available with Intel Core i5 or i7 processor
 
-#### 8-core
+#### 8-core ####
 
 CPU
 
-#### 8-core
+#### 8-core ####
 
 GPU
 
 Up to 16GB unified memory
 
-#### 2TB
+#### 2TB ####
 
 Maximum configurable storage
 
-—
-Not available
+—Not available
 
-—
-Not available
+—Not available
 
-—
-Not available
+—Not available
 
-[Compare all Mac models](https://www.apple.com/mac/compare/)
-[Shop&nbsp;Mac](https://www.apple.com/us/shop/goto/buy_mac)
+[Compare all Mac models](https://www.apple.com/mac/compare/) [Shop Mac](https://www.apple.com/us/shop/goto/buy_mac)
 
-### Let the holidays be filled with great&nbsp;gifts.
+###  Let the holidays be filled with great gifts.  ###
+
 [Shop now](https://www.apple.com/us/shop/goto/gifts)
 
-## Get 3%
+Get 3%
 
-Daily&nbsp;Cash
-
+Daily Cash
 back
+with Apple Card.
+----------
 
-with&nbsp;Apple&nbsp;Card.
+And pay for your new Mac over 12 months,
+ interest‑free when you choose to check out
 
-And pay for your new Mac over 12&nbsp;months,
-
-interest‑free when you&nbsp;choose to check out
-
-with Apple&nbsp;Card Monthly&nbsp;Installments.
+ with Apple Card Monthly Installments.
 
 [Learn more](https://www.apple.com/apple-card/)
 
-## Accessories
+Accessories
+----------
 
-### Explore Mac accessories.
+### Explore Mac accessories. ###
 
-###
+###  ###
+
 [Shop](https://www.apple.com/us/shop/goto/mac/accessories)
 
-## Apple Trade In
+Apple Trade In
+----------
 
-### Get credit toward a new&nbsp;Mac.
+### Get credit toward a new Mac. ###
 
-### Just trade in your eligible computer for credit or recycle it for free. It’s good for you and the planet.
-- [Find your trade‑in value](https://www.apple.com/us/shop/goto/trade_in)
+### Just trade in your eligible computer for credit or recycle it for free. It’s good for you and the planet. ###
 
-## Free delivery
+* [Find your trade‑in value](https://www.apple.com/us/shop/goto/trade_in)
+
+Free delivery
+----------
 
 And free returns. See checkout
 
-for delivery&nbsp;dates.
+for delivery dates.
 
-[Learn more](https://www.apple.com/us/shop/goto/shipping_pickup)
-[about free delivery](https://www.apple.com/us/shop/goto/shipping_pickup)
+[Learn more about free delivery](https://www.apple.com/us/shop/goto/shipping_pickup)
 
-## Get 3% Daily Cash back with Apple&nbsp;Card
+Get 3% Daily Cash back with Apple Card
+----------
 
-And pay over time, interest‑free when you choose to check out with Apple&nbsp;Card Monthly&nbsp;Installments.
+And pay over time, interest‑free when you choose to check out with Apple Card Monthly Installments.
 
-[Learn more](https://www.apple.com/apple-card/monthly-installments/)
-[about Monthly Installments](https://www.apple.com/apple-card/monthly-installments/)
+[Learn more about Monthly Installments](https://www.apple.com/apple-card/monthly-installments/)
 
-## Get help buying
+Get help buying
+----------
 
 Have a question? Call a Specialist or chat online.
+Call 1‑800-MY‑APPLE.
 
-Call&nbsp;1‑800-MY‑APPLE.
+[Contact us](https://contactretail.apple.com/?pg=COM:imac&ap=COM&c=us&l=en)
 
-[Contact us](https://contactretail.apple.com/?pg=COM:imac&amp;ap=COM&amp;c=us&amp;l=en)
-
-## What makes
-
+What makes
 a Mac a Mac?
+----------
 
-## Why Mac
+Why Mac
+----------
 
-### Incredible&nbsp;power.
+### Incredible power.
+Incredibly simple. ###
 
-Incredibly&nbsp;simple.
 [Learn more](https://www.apple.com/mac/why-mac/)
 
-## Continuity
+Continuity
+----------
 
 ### All your devices.
-
 One seamless
+experience. ###
 
-experience.
-[Learn more](https://www.apple.com/macos/continuity/)
-[about your devices working together](https://www.apple.com/macos/continuity/)
+[Learn moreabout your devices working together](https://www.apple.com/macos/continuity/)
 
-## macOS Monterey
+macOS Monterey
+----------
 
 ### High powered meets
+ “Hi everyone.” ###
 
-“Hi&nbsp;everyone.”
 [Update now](https://apps.apple.com/us/app/macos-monterey/id1576738294)
+
 [Learn more](https://www.apple.com/macos/monterey/)
 
-## Built-in Apps
+Built-in Apps
+----------
 
-Powerful creativity and productivity tools live inside every Mac — apps that help you explore, connect, and work more&nbsp;efficiently.
+Powerful creativity and productivity tools live inside every Mac — apps that help you explore, connect, and work more efficiently.
 
-- [Safari](https://www.apple.com/mac/#built-in-apps-gallery-slide-safari)
-- [Photos](https://www.apple.com/mac/#built-in-apps-gallery-slide-photos)
-- [iMovie](https://www.apple.com/mac/#built-in-apps-gallery-slide-imovie)
-- [GarageBand](https://www.apple.com/mac/#built-in-apps-gallery-slide-garageband)
-- [Pages](https://www.apple.com/mac/#built-in-apps-gallery-slide-pages)
-- [Numbers](https://www.apple.com/mac/#built-in-apps-gallery-slide-numbers)
-- [Keynote](https://www.apple.com/mac/#built-in-apps-gallery-slide-keynote)
+* [Safari](https://www.apple.com/mac/#built-in-apps-gallery-slide-safari)
+* [Photos](https://www.apple.com/mac/#built-in-apps-gallery-slide-photos)
+* [iMovie](https://www.apple.com/mac/#built-in-apps-gallery-slide-imovie)
+* [GarageBand](https://www.apple.com/mac/#built-in-apps-gallery-slide-garageband)
+* [Pages](https://www.apple.com/mac/#built-in-apps-gallery-slide-pages)
+* [Numbers](https://www.apple.com/mac/#built-in-apps-gallery-slide-numbers)
+* [Keynote](https://www.apple.com/mac/#built-in-apps-gallery-slide-keynote)
+
 Safari
 
-Safari has innovative features that let you enjoy more of the web. In even more ways. Built-in privacy features help protect your information and keep your Mac secure. An updated start page helps you easily and quickly save, find, and share your favorite sites. And Siri suggestions surface bookmarks, links from your reading list, iCloud Tabs, links you receive in Messages, and&nbsp;more.
+Safari has innovative features that let you enjoy more of the web. In even more ways. Built-in privacy features help protect your information and keep your Mac secure. An updated start page helps you easily and quickly save, find, and share your favorite sites. And Siri suggestions surface bookmarks, links from your reading list, iCloud Tabs, links you receive in Messages, and more.
 
 [Learn more about Safari](https://www.apple.com/safari/)
 
 Photos
 
-Keep your growing library organized and accessible. Perfect your images and create beautiful gifts for sharing. And with iCloud&nbsp;Photos, you can store a lifetime’s worth of photos and videos in the&nbsp;cloud.
+Keep your growing library organized and accessible. Perfect your images and create beautiful gifts for sharing. And with iCloud Photos, you can store a lifetime’s worth of photos and videos in the cloud.
 
 [Learn more about Photos](https://www.apple.com/macos/photos/)
 
@@ -408,165 +419,173 @@ Tell stories like never before. A simple design and intuitive editing features m
 
 GarageBand
 
-The easiest way to create great-sounding songs on your Mac. With an intuitive interface and access to a complete sound library, it’s never been easier to learn, play, record, and share music like a&nbsp;pro.
+The easiest way to create great-sounding songs on your Mac. With an intuitive interface and access to a complete sound library, it’s never been easier to learn, play, record, and share music like a pro.
 
 [Learn more about GarageBand](https://www.apple.com/mac/garageband/)
 
 Pages
 
-This powerful word processor gives you everything you need to create documents that look beautiful. And read beautifully. It lets you work seamlessly between Mac, iOS, and iPadOS devices. And work effortlessly with people who use Microsoft&nbsp;Word.
+This powerful word processor gives you everything you need to create documents that look beautiful. And read beautifully. It lets you work seamlessly between Mac, iOS, and iPadOS devices. And work effortlessly with people who use Microsoft Word.
 
 [Learn more about Pages](https://www.apple.com/pages/)
 
 Numbers
 
-Create sophisticated spreadsheets with dramatic interactive charts, tables, and images that paint a revealing picture of your data. Work seamlessly between Mac, iOS, and iPadOS devices. And work effortlessly with people who use Microsoft&nbsp;Excel.
+Create sophisticated spreadsheets with dramatic interactive charts, tables, and images that paint a revealing picture of your data. Work seamlessly between Mac, iOS, and iPadOS devices. And work effortlessly with people who use Microsoft Excel.
 
 [Learn more about Numbers](https://www.apple.com/numbers/)
 
 Keynote
 
-Bring your ideas to life with beautiful presentations. Employ powerful tools and dazzling effects that keep your audience engaged. Work seamlessly between Mac, iOS, and iPadOS devices. And work effortlessly with people who use Microsoft&nbsp;PowerPoint.
+Bring your ideas to life with beautiful presentations. Employ powerful tools and dazzling effects that keep your audience engaged. Work seamlessly between Mac, iOS, and iPadOS devices. And work effortlessly with people who use Microsoft PowerPoint.
 
 [Learn more about Keynote](https://www.apple.com/keynote/)
 
-- [Safari](https://www.apple.com/mac/#built-in-apps-gallery-slide-safari)
-- [Photos](https://www.apple.com/mac/#built-in-apps-gallery-slide-photos)
-- [iMovie](https://www.apple.com/mac/#built-in-apps-gallery-slide-imovie)
-- [GarageBand](https://www.apple.com/mac/#built-in-apps-gallery-slide-garageband)
-- [Pages](https://www.apple.com/mac/#built-in-apps-gallery-slide-pages)
-- [Numbers](https://www.apple.com/mac/#built-in-apps-gallery-slide-numbers)
-- [Keynote](https://www.apple.com/mac/#built-in-apps-gallery-slide-keynote)
+* [Safari](https://www.apple.com/mac/#built-in-apps-gallery-slide-safari)
+* [Photos](https://www.apple.com/mac/#built-in-apps-gallery-slide-photos)
+* [iMovie](https://www.apple.com/mac/#built-in-apps-gallery-slide-imovie)
+* [GarageBand](https://www.apple.com/mac/#built-in-apps-gallery-slide-garageband)
+* [Pages](https://www.apple.com/mac/#built-in-apps-gallery-slide-pages)
+* [Numbers](https://www.apple.com/mac/#built-in-apps-gallery-slide-numbers)
+* [Keynote](https://www.apple.com/mac/#built-in-apps-gallery-slide-keynote)
 
-## Pro Apps
+Pro Apps
+----------
 
-For professionals ready to push their creativity, these industry-leading apps offer maximum control over editing, processing, and output of music and&nbsp;film.
+For professionals ready to push their creativity, these industry-leading apps offer maximum control over editing, processing, and output of music and film.
 
-- [Logic Pro](https://www.apple.com/mac/#pro-apps-gallery-slide-logicpro)
-- [MainStage](https://www.apple.com/mac/#pro-apps-gallery-slide-mainstage)
-- [Final Cut Pro](https://www.apple.com/mac/#pro-apps-gallery-slide-finalcut)
-- [Motion](https://www.apple.com/mac/#pro-apps-gallery-slide-motion)
-- [Compressor](https://www.apple.com/mac/#pro-apps-gallery-slide-compressor)
+* [Logic Pro](https://www.apple.com/mac/#pro-apps-gallery-slide-logicpro)
+* [MainStage](https://www.apple.com/mac/#pro-apps-gallery-slide-mainstage)
+* [Final Cut Pro](https://www.apple.com/mac/#pro-apps-gallery-slide-finalcut)
+* [Motion](https://www.apple.com/mac/#pro-apps-gallery-slide-motion)
+* [Compressor](https://www.apple.com/mac/#pro-apps-gallery-slide-compressor)
+
 Logic Pro
 
-Logic&nbsp;Pro puts a complete recording and MIDI production studio on your Mac, with everything you need to write, record, edit, and mix like never before. And with a huge collection of full-featured plug-ins along with thousands of sounds and loops, you’ll have everything you need to go from first inspiration to final master, no matter what kind of music you want to&nbsp;create.
+Logic Pro puts a complete recording and MIDI production studio on your Mac, with everything you need to write, record, edit, and mix like never before. And with a huge collection of full-featured plug-ins along with thousands of sounds and loops, you’ll have everything you need to go from first inspiration to final master, no matter what kind of music you want to create.
 
-[Learn more about Logic&nbsp;Pro](https://www.apple.com/logic-pro/)
+[Learn more about Logic Pro](https://www.apple.com/logic-pro/)
 
 MainStage
 
-Take your Mac to the stage with a full-screen interface optimized for live performance, flexible hardware control, and a massive collection of plug-ins and sounds that are fully compatible with&nbsp;Logic&nbsp;Pro.
+Take your Mac to the stage with a full-screen interface optimized for live performance, flexible hardware control, and a massive collection of plug-ins and sounds that are fully compatible with Logic Pro.
 
-[Learn more about&nbsp;MainStage](https://www.apple.com/mainstage/)
+[Learn more about MainStage](https://www.apple.com/mainstage/)
 
 Final Cut Pro
 
-Built to meet the needs of today’s creative editors, Final&nbsp;Cut&nbsp;Pro offers revolutionary video editing, powerful media organization, and incredible performance optimized for Mac computers and&nbsp;macOS&nbsp;Monterey.
+Built to meet the needs of today’s creative editors, Final Cut Pro offers revolutionary video editing, powerful media organization, and incredible performance optimized for Mac computers and macOS Monterey.
 
-[Learn more about Final&nbsp;Cut&nbsp;Pro](https://www.apple.com/final-cut-pro/)
+[Learn more about Final Cut Pro](https://www.apple.com/final-cut-pro/)
 
 Motion
 
-Motion is a powerful motion graphics tool that makes it easy to create cinematic 2D and 3D titles, fluid transitions, and realistic effects in real&nbsp;time.
+Motion is a powerful motion graphics tool that makes it easy to create cinematic 2D and 3D titles, fluid transitions, and realistic effects in real time.
 
 [Learn more about Motion](https://www.apple.com/final-cut-pro/motion/)
 
 Compressor
 
-Add power and flexibility for exporting projects from Final&nbsp;Cut&nbsp;Pro. Customize output settings, work faster with distributed encoding, and easily package your film for the iTunes&nbsp;Store.
+Add power and flexibility for exporting projects from Final Cut Pro. Customize output settings, work faster with distributed encoding, and easily package your film for the iTunes Store.
 
 [Learn more about Compressor](https://www.apple.com/final-cut-pro/compressor/)
 
-- [Logic Pro](https://www.apple.com/mac/#pro-apps-gallery-slide-logicpro)
-- [MainStage](https://www.apple.com/mac/#pro-apps-gallery-slide-mainstage)
-- [Final Cut Pro](https://www.apple.com/mac/#pro-apps-gallery-slide-finalcut)
-- [Motion](https://www.apple.com/mac/#pro-apps-gallery-slide-motion)
-- [Compressor](https://www.apple.com/mac/#pro-apps-gallery-slide-compressor)
+* [Logic Pro](https://www.apple.com/mac/#pro-apps-gallery-slide-logicpro)
+* [MainStage](https://www.apple.com/mac/#pro-apps-gallery-slide-mainstage)
+* [Final Cut Pro](https://www.apple.com/mac/#pro-apps-gallery-slide-finalcut)
+* [Motion](https://www.apple.com/mac/#pro-apps-gallery-slide-motion)
+* [Compressor](https://www.apple.com/mac/#pro-apps-gallery-slide-compressor)
 
-The Mac App Store features rich editorial content and great apps&nbsp;for&nbsp;Mac.
-[Explore the Mac App&nbsp;Store](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?id=&amp;mt=12&amp;ls=1)
+The Mac App Store features rich editorial content and great apps for Mac.	[Explore the Mac App Store](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?id=&mt=12&ls=1)
 
-## Get more out of&nbsp;Mac
+Get more out of Mac
+----------
 
-## Today at Apple
+Today at Apple
+----------
 
-### Virtual Sessions
+### Virtual Sessions ###
 
 ### Learn the basics of using Mac
+live with Apple Creatives. ###
 
-live with Apple Creatives.
-- [Sign up](https://www.apple.com/today/event/virtual-session-product-skills-mac/)
+* [Sign up](https://www.apple.com/today/event/virtual-session-product-skills-mac/)
 
-## Apple&nbsp;One
+Apple One
+----------
 
-Bundle up to six Apple&nbsp;services.
+Bundle up to six Apple services.
 
 And enjoy more for less.
 
-- [Try it free](https://one.apple.com/us?itscg=10000&amp;itsct=one-NA-mac-tile-apl-avl-102020)
-- [Learn more](https://www.apple.com/apple-one/)
+* [Try it free](https://one.apple.com/us?itscg=10000&itsct=one-NA-mac-tile-apl-avl-102020)
+* [Learn more](https://www.apple.com/apple-one/)
 
-## Apple&nbsp;TV&nbsp;Plus
+Apple TV Plus
+----------
 
-Get 3&nbsp;months of Apple&nbsp;TV+ free
-
+Get 3 months of Apple TV+ free
 when you buy a Mac.
 
-- [Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&amp;itsct=atv-0-mac_fp-tle_stm-apl-avl-191111)
-- [Learn more](https://www.apple.com/apple-tv-plus/)
-[about Apple TV Plus](https://www.apple.com/apple-tv-plus/)
+* [Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-0-mac_fp-tle_stm-apl-avl-191111)
+* [Learn moreabout Apple TV Plus](https://www.apple.com/apple-tv-plus/)
 
-## Apple Pay
+Apple Pay
+----------
 
 The safer way to make
+ secure,
 
-secure,
+ contactless purchases
+ in stores and online.
 
-contactless purchases
+* [Learn moreabout Apple Pay](https://www.apple.com/apple-pay/)
 
-in stores and online.
-
-- [Learn more](https://www.apple.com/apple-pay/)
-[about Apple Pay](https://www.apple.com/apple-pay/)
-
-## Apple Arcade
+Apple Arcade
+----------
 
 ### Get 3 months of Apple Arcade free
+when you buy a Mac. ###
 
-when you buy a Mac.
-- [Try it free](https://apps.apple.com/arcade/offers?itscg=10000&amp;itsct=arc-0-mac_fp-promo-apl-offer-191019)
-- [Learn more](https://www.apple.com/apple-arcade/)
+* [Try it free](https://apps.apple.com/arcade/offers?itscg=10000&itsct=arc-0-mac_fp-promo-apl-offer-191019)
+* [Learn more](https://www.apple.com/apple-arcade/)
 
-## Apple News Plus
+Apple News Plus
+----------
 
 ### Hundreds of magazines and
+leading newspapers. One subscription. ###
 
-leading&nbsp;newspapers. One&nbsp;subscription.
-- [Try it free](applenewss://apple.news/subscription?itscg=10000&amp;itsct=nws-00-mac_fp-try_tle-apl-lch-190325&amp;campaign_id=AN_Marcom_Mac_Free)
-- [Learn&nbsp;more](https://www.apple.com/apple-news/)
-[about Apple News Plus](https://www.apple.com/apple-news/)
+* [Try it free](applenewss://apple.news/subscription?itscg=10000&itsct=nws-00-mac_fp-try_tle-apl-lch-190325&campaign_id=AN_Marcom_Mac_Free)
+* [Learn moreabout Apple News Plus](https://www.apple.com/apple-news/)
 
-## Apple&nbsp;Gift&nbsp;Card
+Apple Gift Card
+----------
 
 For everything and everyone.
 
-- [Learn more](https://www.apple.com/us/shop/goto/giftcards)
-[about Apple Gift Card](https://www.apple.com/us/shop/goto/giftcards)
-- [Buy](https://www.apple.com/us/shop/goto/buy_giftcard/giftcard)
+* [Learn moreabout Apple Gift Card](https://www.apple.com/us/shop/goto/giftcards)
+* [Buy](https://www.apple.com/us/shop/goto/buy_giftcard/giftcard)
 
-## Apple at Work
+Apple at Work
+----------
 
-### Get the power to take your business to the next&nbsp;level.
-- [Learn about Apple at&nbsp;Work](https://www.apple.com/business/)
-- [See why Mac means business](https://www.apple.com/business/mac/)
+### Get the power to take your business to the next level. ###
 
-## Apple and Education
+* [Learn about Apple at Work](https://www.apple.com/business/)
+* [See why Mac means business](https://www.apple.com/business/mac/)
 
-### Empowering educators and students to move the world&nbsp;forward.
-- [Learn about Apple and Education](https://www.apple.com/education/)
+Apple and Education
+----------
 
-## Upgrade to start your free trial.
-- [Get the latest iOS](https://support.apple.com/ios/update)
-- [Get the latest iPadOS](https://support.apple.com/ios/update)
-- [Get the latest tvOS](https://support.apple.com/en-us/HT202716)
-- [Get the latest macOS](https://www.apple.com/macos/how-to-upgrade/)
+### Empowering educators and students to move the world forward. ###
+
+* [Learn about Apple and Education](https://www.apple.com/education/)
+
+Upgrade to start your free trial.
+----------
+
+* [Get the latest iOS](https://support.apple.com/ios/update)
+* [Get the latest iPadOS](https://support.apple.com/ios/update)
+* [Get the latest tvOS](https://support.apple.com/en-us/HT202716)
+* [Get the latest macOS](https://www.apple.com/macos/how-to-upgrade/)

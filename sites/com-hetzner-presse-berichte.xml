@@ -4,7 +4,7 @@
 		<title>Press Releases - Hetzner Online GmbH</title>
 		<link>https://www.hetzner.com/presse-berichte/</link>
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
-		<generator>website-stalker/0.16.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Hetzner Data Center Park Helsinki has expanded with a new data center</title>
 			<link>https://www.hetzner.com/presse-berichte/2021/11/166528</link>
@@ -25,7 +25,7 @@
 				Hetzner Data Center Park Helsinki in southern Tuusula - recently expanded to include another new data center, which was put into operation in July 2021.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/11/166528">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -51,7 +51,7 @@
 				Hetzner Cloud now also has servers in Ashburn, Virgina, their first location outside of Europe. This means that in addition to Nuremberg, Falkenstein and Helsinki, customers can now also choose...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/11/166514">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -77,7 +77,7 @@
 				Hetzner Online once again earned the top place on the winners' podium this year in the "Cloud Server" category and took home the "Platinum" prize.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/09/166057">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -103,7 +103,7 @@
 				This September, Hetzner Online has slashed prices for several of their dedicated root servers.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/09/166050">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -129,7 +129,7 @@
 				Hetzner Online is now offering six new models of dedicated vCPU cloud servers which are equipped with the newest AMD EPYC™ Series processor.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/03/165926">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -155,7 +155,7 @@
 				Hetzner's Data Center Park in southern Tuusula will expand again with a new data center at the end of 2020.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/10/165434">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -178,10 +178,10 @@
 				Platinum for Hetzner Online at the Service Provider Awards 2020
 			</h4>
 			<p class="list-card-preview">
-				 Hetzner Online achieved 1st place at the Service Provider Awards in the category Cloud Server.
+				Hetzner Online achieved 1st place at the Service Provider Awards in the category Cloud Server.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/09/165426">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -207,7 +207,7 @@
 				Today, Hetzner expanded the product set of its Cloud platform to include Load Balancers. Curious customers can join the free beta-test for Load Balancers and experiment with how they improve...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/06/165268">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -233,7 +233,7 @@
 				The self-help contact organization "Kiss Mittelfranken" has created a platform for digital communication called Kiss.On. (In German, "Kiss" is short for "contact information for self-help"; the group operates in Central...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/04/165030">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>
@@ -259,7 +259,7 @@
 				The web hosting company and data center operator Hetzner has expanded its line of servers with AMD's third generation of Ryzen CPUs.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2019/10/164324">
-                Show more
+				Show more
 			</a>
 		</li>
 	</body>

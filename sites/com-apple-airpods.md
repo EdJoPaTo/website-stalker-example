@@ -1,94 +1,100 @@
-# AirPods
+AirPods
+==========
 
-Get ready for the Apple Shopping Event. Starts&nbsp;Friday.
-[Get an early look](https://www.apple.com/us/shop/goto/gifts/shopping_event)
+ Get ready for the Apple Shopping Event. Starts Friday. [Get an early look](https://www.apple.com/us/shop/goto/gifts/shopping_event)
 
 New
 
-## AirPods
+AirPods
+----------
 
 3rd generation
 
-- [Buy](https://www.apple.com/us/shop/goto/product/MME73)
-- [Learn more](https://www.apple.com/airpods-3rd-generation/)
+* [Buy](https://www.apple.com/us/shop/goto/product/MME73)
+* [Learn more](https://www.apple.com/airpods-3rd-generation/)
 
-## AirPods Pro
+AirPods Pro
+----------
 
-- [Buy](https://www.apple.com/us/shop/goto/product/MLWK3)
-- [Learn more](https://www.apple.com/airpods-pro/)
+* [Buy](https://www.apple.com/us/shop/goto/product/MLWK3)
+* [Learn more](https://www.apple.com/airpods-pro/)
 
-## AirPods&nbsp;Max
+AirPods Max
+----------
 
-## AirPods&nbsp;Max
+AirPods Max
+----------
 
-- [Buy](https://www.apple.com/us/shop/goto/buy_airpods/airpods_max)
-- [Learn more](https://www.apple.com/airpods-max/)
+* [Buy](https://www.apple.com/us/shop/goto/buy_airpods/airpods_max)
+* [Learn more](https://www.apple.com/airpods-max/)
 
-## AirPods
+AirPods
+----------
 
 2nd generation
 
-- [Buy](https://www.apple.com/us/shop/goto/product/MV7N2)
-- [Learn more](https://www.apple.com/airpods-2nd-generation/)
+* [Buy](https://www.apple.com/us/shop/goto/product/MV7N2)
+* [Learn more](https://www.apple.com/airpods-2nd-generation/)
 
-### A magical connection to your devices.
--
-#### One-tap setup
-More about One-tap setup
+### A magical connection to your devices. ###
 
-#### One-tap setup
+* #### One-tap setup ####
 
-Connect immediately to your iPhone or iPad.
+  More about One-tap setup
 
--
-#### Automatic switching
-More about Automatic switching
+  #### One-tap setup ####
 
-#### Automatic switching
+  Connect immediately to your iPhone or iPad.
 
-Automatic switching allows sound to move seamlessly between your iPhone, Apple&nbsp;Watch, iPad, Mac, and Apple&nbsp;TV.
+* #### Automatic switching ####
 
--
-#### Audio Sharing
-More about Audio Sharing
+  More about Automatic switching
 
-#### Audio Sharing
+  #### Automatic switching ####
 
-Share a song, podcast, or other audio between two sets of AirPods with Audio Sharing.
+  Automatic switching allows sound to move seamlessly between your iPhone, Apple Watch, iPad, Mac, and Apple TV.
 
--
-#### Always-on Siri
+* #### Audio Sharing ####
 
-Hey Siri, play some workout music
+  More about Audio Sharing
 
-More about Always-on Siri
+  #### Audio Sharing ####
 
-#### Always-on Siri
+  Share a song, podcast, or other audio between two sets of AirPods with Audio Sharing.
 
-A simple “Hey Siri” summons your favorite personal assistant. Control your music, calls, volume, directions, and more — without lifting a finger.
+* #### Always-on Siri ####
 
--
-#### Announce Notifications
+  Hey Siri, play some workout music
 
-Skyler said: “Heading to the store. Need anything?”
+  More about Always-on Siri
 
-More about Announce Notifications
+  #### Always-on Siri ####
 
-#### Announce Notifications
+  A simple “Hey Siri” summons your favorite personal assistant. Control your music, calls, volume, directions, and more — without lifting a finger.
 
-Siri can read your important messages or alerts as they arrive — unless you're on a call or listening to music. You can even reply to messages without opening your device.
+* #### Announce Notifications ####
 
-- -
+  Skyler said: “Heading to the store. Need anything?”
 
-## Which AirPods are
+  More about Announce Notifications
 
+  #### Announce Notifications ####
+
+  Siri can read your important messages or alerts as they arrive — unless you're on a call or listening to music. You can even reply to messages without opening your device.
+
+*
+*
+
+Which AirPods are
 right for you?
+----------
 
-### AirPods
-2nd generation
+[](https://www.apple.com/airpods-2nd-generation/)
 
-- [Buy](https://www.apple.com/us/shop/goto/product/MV7N2)
-- [Learn more](https://www.apple.com/airpods-2nd-generation/)
+### AirPods 2nd generation  ###
+
+* [Buy](https://www.apple.com/us/shop/goto/product/MV7N2)
+* [Learn more](https://www.apple.com/airpods-2nd-generation/)
 
 —
 
@@ -108,17 +114,17 @@ Lightning charging
 
 Up to 5 hours of listening time with a single charge
 
+[](https://www.apple.com/airpods-3rd-generation/)
+
 New
 
-### AirPods
-3rd generation
+### AirPods 3rd generation  ###
 
-- [Buy](https://www.apple.com/us/shop/goto/product/MME73)
-- [Learn more](https://www.apple.com/airpods-3rd-generation/)
-- [View in AR](https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/ar/airpods_magsafe_charging_ios15.usdz)
+* [Buy](https://www.apple.com/us/shop/goto/product/MME73)
+* [Learn more](https://www.apple.com/airpods-3rd-generation/)
+* [View in AR](https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/ar/airpods_magsafe_charging_ios15.usdz)
 
 Spatial audio with
-
 dynamic head tracking
 
 —
@@ -126,59 +132,53 @@ dynamic head tracking
 Active Noise Cancellation and Transparency mode unavailable
 
 Sweat and
-
 water resistant
 
 MagSafe, wireless, and
-
 Lightning charging
 
 6 hrs
 
 Up to 6 hours of listening time with a single charge
 
-### AirPods&nbsp;Pro
+[](https://www.apple.com/airpods-pro/)
 
-- [Buy](https://www.apple.com/us/shop/goto/product/MLWK3)
-- [Learn more](https://www.apple.com/airpods-pro/)
-- [View in AR](https://www.apple.com/105/media/us/airpods-pro/2021/8d0b339b-f0f9-4522-aaa5-e047097ea8ec/ar/airpods_pro_ios15.usdz)
+### AirPods Pro  ###
+
+* [Buy](https://www.apple.com/us/shop/goto/product/MLWK3)
+* [Learn more](https://www.apple.com/airpods-pro/)
+* [View in AR](https://www.apple.com/105/media/us/airpods-pro/2021/8d0b339b-f0f9-4522-aaa5-e047097ea8ec/ar/airpods_pro_ios15.usdz)
 
 Spatial audio with
-
 dynamic head tracking
 
 Active Noise
-
 Cancellation and
-
 Transparency mode
 
 Sweat and
-
 water resistant
 
 MagSafe, wireless, and
-
 Lightning charging
 
 4.5 hrs
 
 Up to 4.5 hours of listening time with a single charge
 
-### AirPods&nbsp;Max
+[](https://www.apple.com/airpods-max/)
 
-- [Buy](https://www.apple.com/us/shop/goto/buy_airpods/airpods_max)
-- [Learn more](https://www.apple.com/airpods-max/)
-- [View in AR](https://www.apple.com/105/media/us/airpods-max/2020/996b980b-3131-44f1-af6c-fe72f9b3bfb5/quick-look/airpods_max_green_ios14_rev1.usdz)
+### AirPods Max  ###
+
+* [Buy](https://www.apple.com/us/shop/goto/buy_airpods/airpods_max)
+* [Learn more](https://www.apple.com/airpods-max/)
+* [View in AR](https://www.apple.com/105/media/us/airpods-max/2020/996b980b-3131-44f1-af6c-fe72f9b3bfb5/quick-look/airpods_max_green_ios14_rev1.usdz)
 
 Spatial audio with
-
 dynamic head tracking
 
 Active Noise
-
 Cancellation and
-
 Transparency mode
 
 —
@@ -193,5 +193,6 @@ Up to 20 hours of listening time with a single charge
 
 [Compare all AirPods models](https://www.apple.com/airpods/compare/)
 
-### Let the holidays be filled with great&nbsp;gifts.
+###  Let the holidays be filled with great gifts.  ###
+
 [Shop now](https://www.apple.com/us/shop/goto/gifts)
