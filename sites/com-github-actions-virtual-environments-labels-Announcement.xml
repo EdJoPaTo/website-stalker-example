@@ -40,27 +40,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>[all OSs] Selenium server version will be upgraded from 3 to 4 on November, 15</title>
-			<link>https://github.com/actions/virtual-environments/issues/4376</link>
-			<pubDate>Fri, 29 Oct 2021 08:31:56 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-awaiting-deployment
-
-OS: macOS
-
-OS: Ubuntu
-
-OS: Windows
-
-#4376
-opened
-Oct 29, 2021
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>[All OSs] Node.js version 10 will be removed from the images on November, 15</title>
 			<link>https://github.com/actions/virtual-environments/issues/4356</link>
 			<pubDate>Wed, 27 Oct 2021 12:29:10 +0000</pubDate>
