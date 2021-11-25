@@ -173,23 +173,29 @@ sites:
       - html_markdownify
 
   - url:
-      - "https://www.netcup.de/vserver/vps.php"
-      - "https://www.netcup.de/vserver/"
-      - "https://www.netcup.de/vserver/vstorage.php"
-      - "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
-      - "https://www.netcup.de/vserver/root-server-erweiterungen.php"
       - "https://www.netcup-sonderangebote.de/"
       - "https://www.netcup.de/adventskalender/"
+      - "https://www.netcup.de/vserver/"
+      - "https://www.netcup.de/vserver/root-server-erweiterungen.php"
+      - "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
+      - "https://www.netcup.de/vserver/vps.php"
+      - "https://www.netcup.de/vserver/vstorage.php"
     editors:
-      - css_select: .card
+      - css_select: .card, table
+      - css_remove: img
+      - css_remove: .card--content--image
+      - html_url_canonicalize
       - html_prettify
   - url: "https://www.netcup.de/vserver/storagespace.php"
     editors:
+      - css_remove: img, .main-navigation-wrapper
       - css_select: main > .container
+      - html_url_canonicalize
       - html_prettify
   - url: "https://www.netcup.de/vserver/vserver_images.php"
     editors:
       - css_select: table
+      - html_url_canonicalize
       - html_prettify
 
 
