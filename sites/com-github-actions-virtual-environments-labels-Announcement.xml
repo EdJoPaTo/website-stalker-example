@@ -40,27 +40,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>[All OSs] Node.js version 10 will be removed from the images on November, 15</title>
-			<link>https://github.com/actions/virtual-environments/issues/4356</link>
-			<pubDate>Wed, 27 Oct 2021 12:29:10 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-awaiting-deployment
-
-OS: macOS
-
-OS: Ubuntu
-
-OS: Windows
-
-#4356
-opened
-Oct 27, 2021
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>Windows-2016 environment will be removed on March 15, 2022</title>
 			<link>https://github.com/actions/virtual-environments/issues/4312</link>
 			<pubDate>Tue, 19 Oct 2021 21:23:55 +0000</pubDate>
