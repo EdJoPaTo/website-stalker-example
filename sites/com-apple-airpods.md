@@ -1,7 +1,7 @@
 AirPods
 ==========
 
- Get up to a $75 Apple Gift Card when you buy AirPods.<sup class="ribbon-ase-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/airpods/#footnote-ase">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/shopping_event)
+ Last day to get up to a $75 Apple Gift Card when you buy AirPods.<sup class="ribbon-ase-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/airpods/#footnote-ase">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/shopping_event)
 
 New
 

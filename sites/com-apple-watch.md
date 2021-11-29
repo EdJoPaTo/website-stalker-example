@@ -1,4 +1,4 @@
-Get a $50 Apple Gift Card when you buy an eligible Apple Watch.<sup class="ribbon-ase-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/watch/#footnote-ase">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/shopping_event)
+Last day to get a $50 Apple Gift Card when you buy an eligible Apple Watch.<sup class="ribbon-ase-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/watch/#footnote-ase">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/shopping_event)
 
  Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
 
