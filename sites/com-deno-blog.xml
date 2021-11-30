@@ -6,6 +6,12 @@
 		<description></description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Web Streams at the Edge</title>
+			<link>https://deno.com/blog/deploy-streams</link>
+			<pubDate>Tue, 30 Nov 2021 10:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[Deno Deploy provides web standard streaming infrastructure to easily whip up real-time applications.]]></content:encoded>
+		</item>
+		<item>
 			<title>Slack Introduces New Platform With Help From Deno</title>
 			<link>https://deno.com/blog/slack</link>
 			<pubDate>Tue, 16 Nov 2021 10:00:00 +0000</pubDate>
