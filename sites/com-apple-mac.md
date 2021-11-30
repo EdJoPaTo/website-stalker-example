@@ -1,8 +1,6 @@
 Mac
 ==========
 
- Last day to get a $100 Apple Gift Card when you buy an eligible Mac notebook or Mac mini. And get $200 with a 27‑inch iMac.<sup class="ribbon-ase-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/mac/#footnote-ase">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/shopping_event)
-
  Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
 
 NewMacBook Pro

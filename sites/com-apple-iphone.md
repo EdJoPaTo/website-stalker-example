@@ -1,8 +1,6 @@
 iPhone
 ==========
 
- Last day to get a $50 Apple Gift Card when you buy an eligible iPhone.<sup class="ribbon-ase-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/iphone/#footnote-ase">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/shopping_event)
-
  Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
 
 iPhone 13 Pro
@@ -232,6 +230,13 @@ You can choose a payment option that works for you, pay less with a trade‑in, 
 You can also chat with a Specialist anytime.
 
 [Learn more](https://www.apple.com/iphone/buy/)
+
+### Choose (RED).
+Save lives. ###
+
+Every Apple (PRODUCT)RED purchase helps fight global health emergencies.
+
+[Shop the collection](https://www.apple.com/product-red/)
 
 Featured
 accessories

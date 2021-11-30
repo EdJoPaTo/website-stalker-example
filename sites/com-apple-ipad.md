@@ -1,8 +1,6 @@
 iPad
 ==========
 
- Last day to get a $100 Apple Gift Card when you buy an iPad Pro.<sup class="ribbon-ase-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/ipad/#footnote-ase">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/shopping_event)
-
  Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
 
 [](https://www.apple.com/ipad-mini/)

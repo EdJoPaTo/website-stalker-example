@@ -13,7 +13,7 @@ It’s money, made modern.
 
 [Add a card](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
 
-Use Apple Card with Apple Pay and get 2% Daily Cash back on every purchase. [Learn more about Apple Card](https://www.apple.com/apple-card/)
+Use Apple Pay to purchase Apple products online or in stores through 12/6 and Apple will donate to the Global Fund to support the fight against AIDS and COVID‑19. [Shop now](https://www.apple.com/store)
 
 Faster and easier
  than
