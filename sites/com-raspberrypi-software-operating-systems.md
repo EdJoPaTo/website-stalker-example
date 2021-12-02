@@ -14,21 +14,11 @@ Download:
 Raspberry Pi OS
 ----------
 
+Our recommended operating system for most users.
+
 Compatible with:
 
 * [All Raspberry Pi models](/products/)
-
-### Raspberry Pi OS with desktop and recommended software ###
-
-* Release date: October 30th 2021
-* Kernel version: 5.10
-* Size: 3,045MB
-
-Show SHA256 file integrity hash:77952abf31ed745275d5d20180f60dac7328f95fafbb9b83a91d1b350fc3ad76
-
-[Release notes](https://downloads.raspberrypi.org/raspios_full_armhf/release_notes.txt)
-
-[Download](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip.torrent)
 
 ### Raspberry Pi OS with desktop ###
 
@@ -42,6 +32,18 @@ Show SHA256 file integrity hash:6e9faca69564c47702d4564b2b15997b87d60483aceef790
 
 [Download](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf.zip.torrent)
 
+### Raspberry Pi OS with desktop and recommended software ###
+
+* Release date: October 30th 2021
+* Kernel version: 5.10
+* Size: 3,045MB
+
+Show SHA256 file integrity hash:77952abf31ed745275d5d20180f60dac7328f95fafbb9b83a91d1b350fc3ad76
+
+[Release notes](https://downloads.raspberrypi.org/raspios_full_armhf/release_notes.txt)
+
+[Download](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip.torrent)
+
 ### Raspberry Pi OS Lite ###
 
 * Release date: October 30th 2021
@@ -53,6 +55,40 @@ Show SHA256 file integrity hash:008d7377b8c8b853a6663448a3f7688ba98e2805949127a1
 [Release notes](https://downloads.raspberrypi.org/raspios_lite_armhf/release_notes.txt)
 
 [Download](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-lite.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-lite.zip.torrent)
+
+Raspberry Pi OS (Legacy)
+----------
+
+A stable legacy version of Raspberry Pi OS Buster for people who need the Raspicam apps, the Picamera Python library, or OMXPlayer.
+Not sure which version to download? Read [this](/news/new-old-functionality-with-raspberry-pi-os-legacy/) to help you decide.
+
+Compatible with:
+
+* [All Raspberry Pi models](/products/)
+
+### Raspberry Pi OS (Legacy) with desktop ###
+
+* Release date: December 2nd 2021
+* Kernel version: 5.10
+* Size: 1,115MB
+
+Show SHA256 file integrity hash:77691119762302fcf6ad93e101c25573f21ac4d554244ec5d891b70c5d99a1d5
+
+[Release notes](https://downloads.raspberrypi.org/raspios_oldstable_armhf/release_notes.txt)
+
+[Download](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2021-12-02/2021-12-02-raspios-buster-armhf.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2021-12-02/2021-12-02-raspios-buster-armhf.zip.torrent)
+
+### Raspberry Pi OS Lite (Legacy) ###
+
+* Release date: December 2nd 2021
+* Kernel version: 5.10
+* Size: 450MB
+
+Show SHA256 file integrity hash:9276d71a4793accb4e29ad337f58865fcb92f831716305fc93adf0adb4784129
+
+[Release notes](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/release_notes.txt)
+
+[Download](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2021-12-02/2021-12-02-raspios-buster-armhf-lite.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2021-12-02/2021-12-02-raspios-buster-armhf-lite.zip.torrent)
 
 Raspberry Pi Desktop
 ----------
