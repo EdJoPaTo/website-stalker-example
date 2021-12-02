@@ -1,9 +1,9 @@
 Install
 ----------
 
-From the user’s point of view, BigBlueButton is a virtual classroom for online teaching and learning. It was built for online learning, has a large community of teachers and developers that constantly work to improve it, and is deeply embedded into the world’s major leanrning management system. Users run BigBlueButton within their [browsers](https://docs.bigbluebutton.org/support/faq.html#what-are-the-minimum-bandwidth-requirements-for-a-user) with no additional software to install.
+From the user’s point of view, BigBlueButton is a virtual classroom for online teaching and learning. It was built for online learning, has a large community of teachers and developers that constantly work to improve it, and is deeply embedded into the world’s major learning management system. Users run BigBlueButton within their [browsers](https://docs.bigbluebutton.org/support/faq.html#what-are-the-minimum-bandwidth-requirements-for-a-user) with no additional software to install.
 
-From the administrator’s point of view, BigBlueButton web-based application. The BigBlueButton server runs a number of back-end processes to handle media, incoming [API calls](https://docs.bigbluebutton.org/dev/api.html), processing of uploaded slides, and conversion of captured media into [recordings](https://docs.bigbluebutton.org/dev/recording.html). Administrators install BigBlueButton on a Ubunt 18.04 64-bit server. This document shows you how to install.
+From the administrator’s point of view, BigBlueButton web-based application. The BigBlueButton server runs a number of back-end processes to handle media, incoming [API calls](https://docs.bigbluebutton.org/dev/api.html), processing of uploaded slides, and conversion of captured media into [recordings](https://docs.bigbluebutton.org/dev/recording.html). Administrators install BigBlueButton on a Ubuntu 18.04 64-bit server. This document shows you how to install.
 
 Before you install
 ==========
@@ -295,7 +295,7 @@ With the API demos installed (that was the `-a` option), you can open https:/// 
 
 You can remove them with the command `sudo apt-get purge bbb-demo`.
 
-You can integrate BigBlueButton with one of the 3rd party integrations by providing the integration the server’s address and shared secret. You can use `bbb-conf` to display this information using `bbb-conf --secret`.
+You can integrate BigBlueButton with one of the 3rd party integrations by providing the integration of the server’s address and shared secret. You can use `bbb-conf` to display this information using `bbb-conf --secret`.
 
 ```
 $ sudo bbb-conf --secret
