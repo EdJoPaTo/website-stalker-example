@@ -6,6 +6,11 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Season 25 | The Lords of Hell | Preview Blog</title>
+			<link>https://us.diablo3.com/en-us/blog/23746130/season-25-%7C-the-lords-of-hell-%7C-preview-blog-12-3-2021</link>
+			<content:encoded><![CDATA[Season 25 will begin on December 10! Read on to learn more about Soul Shards and new balance changes in Patch 2.7.2!]]></content:encoded>
+		</item>
+		<item>
 			<title>Diablo 3 PTR 2.7.2 | Has ended</title>
 			<link>https://us.diablo3.com/en-us/blog/23730897/diablo-3-ptr-272-%7C-has-ended-11-1-2021</link>
 			<content:encoded><![CDATA[Our two-week PTR testing period for the 2.7.2 update begins on November 4, and we're asking for your help to quell the tides of surging demons.]]></content:encoded>
@@ -54,11 +59,6 @@
 			<title>Diablo 3 PTR 2.7.0 Has Ended</title>
 			<link>https://us.diablo3.com/en-us/blog/23623166/diablo-3-ptr-270-has-ended-2-23-2021</link>
 			<content:encoded><![CDATA[Our two-week PTR testing period for the 2.7.0 update begins February 25 and we're asking for your help to quell the tides of surging demons.]]></content:encoded>
-		</item>
-		<item>
-			<title>Diablo Deep Dive Panel Recap</title>
-			<link>https://us.diablo3.com/en-us/blog/23624696/diablo-deep-dive-panel-recap-2-19-2021</link>
-			<content:encoded><![CDATA[Get caught up and dive deeper into all the latest news revolving around Diablo II: Resurrected, Diablo IV, and Diablo Immortal.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
