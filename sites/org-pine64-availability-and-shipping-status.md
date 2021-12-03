@@ -14,11 +14,11 @@ For more information about our strategy and reasoning pertaining to device and p
 
  **Updated:**
 
-*October 21, 2021*
+*December 3, 2021*
 
 #### PinePhone (2GB/16GB & 3GB/32GB) ####
 
- 50 %
+ 17 %
 
 **Estimated availability**
 
@@ -26,7 +26,7 @@ Continued availability throughout 2021/ 2022
 
 #### PineNote (Dev Units) ####
 
- 100 %
+ 70 %
 
 **Estimated availability**
 
@@ -34,7 +34,7 @@ Continued availability throughout 2022
 
 #### PinePhone Pro (Dev Units) ####
 
- 100 %
+ 0 %
 
 **Estimated availability**
 
@@ -42,7 +42,7 @@ Continued availability throughout 2022
 
 #### ROCKPro64 (2GB / 4GB) ####
 
- 47 %
+ 84 %
 
 **Estimated availability**
 
@@ -50,7 +50,7 @@ Continued availability throughout 2022
 
 #### Quartz64 A & B (2GB/4GB/8GB) ####
 
- 33 %
+ 47 %
 
 **Estimated availability**
 
@@ -58,15 +58,15 @@ Continued availability throughout 2021/ 2022
 
 #### SOPine ####
 
- 0 %
+ 16 %
 
 **Estimated availability**
 
-Q4 2021
+Spotty availability until late Q1 2022
 
 #### PineTime (sealed, twin pack, dev kit) ####
 
- 5 %
+ 40 %
 
 **Estimated availability**
 
@@ -74,7 +74,15 @@ Continued availability throughout 2021 / 2022
 
 #### Pinecil ####
 
- 24 %
+ 76 %
+
+**Estimated availability**
+
+Continued availability throughout 2021/ 2022
+
+#### SOQuartz ####
+
+ 78 %
 
 **Estimated availability**
 
@@ -86,7 +94,7 @@ Continued availability throughout 2021/ 2022
 
 **Estimated availability**
 
-Q4 2021/ Q1 2022
+Q1 2022 – after CNY
 
 #### Pinebook Pro ####
 
@@ -94,12 +102,18 @@ Q4 2021/ Q1 2022
 
 **Estimated availability**
 
-Q1 2022
+Q1 2022 – after CNY
 
-### **Shipping status updates**
+### **Shipping status updates (Batch sold devices only)**
  ###
 
 #### PinePhone ####
+
+[December 3, 2021]()
+
+Global shipment: PinePhones ordered from late October to November 26, 2021.
+
+EU shipment: orders dispatched weekly.
 
 [October 25, 2021]()
 
@@ -171,7 +185,19 @@ Pinebook Pro shipment is ongoing. Units with DHL out for delivery.
 
 #### PinePhone Pro ####
 
+[December 3, 2021]()
+
+PinePhone Pro Dev Edition dispatched – en route to Hong Kong for DHL pick-up.
+
+Expect email/ SMS from DHL soon.
+
 #### PineNote ####
+
+[December 3, 2021]()
+
+PineNote Dev Edition dispatched – en route to Hong Kong for DHL pick-up.
+
+Expect email/ SMS from DHL soon.
 
 **Join the discussion on the ongoing shipping on the** [PINE64 forum](https://forum.pine64.org/showthread.php?tid=14063)
 
