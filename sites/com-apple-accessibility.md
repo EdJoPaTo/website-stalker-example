@@ -429,7 +429,7 @@ Apple Accessibility
     Eye-tracking support for iPadOS
     ----------
 
-    Navigate your iPad with only your eyes. iPadOS now supports third‑party eye‑tracking devices. Compatible devices, available at a later date, will track where you’re looking onscreen, and the pointer will move to follow your gaze. Extended eye contact will perform onscreen actions, like a tap to select.
+    Navigate your iPad with only your eyes. iPadOS supports third‑party eye‑tracking devices. Compatible devices track where you’re looking onscreen, and the pointer moves to follow your gaze. Extended eye contact performs onscreen actions, like a tap to select.
 
     Move up two lines.Select sentence.CAPITALIZE THAT.
 

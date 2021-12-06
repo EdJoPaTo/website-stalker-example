@@ -196,13 +196,6 @@ when
 
 [Learn more](https://www.apple.com/apple-card/)
 
-Choose (RED). Save lives.
-----------
-
-Every Apple (PRODUCT)RED purchase helps fight global health emergencies.
-
-[Shop the collection](https://www.apple.com/product-red/)
-
 Apple Watch Studio
 ----------
 

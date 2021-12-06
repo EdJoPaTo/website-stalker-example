@@ -231,13 +231,6 @@ You can also chat with a Specialist anytime.
 
 [Learn more](https://www.apple.com/iphone/buy/)
 
-### Choose (RED).
-Save lives. ###
-
-Every Apple (PRODUCT)RED purchase helps fight global health emergencies.
-
-[Shop the collection](https://www.apple.com/product-red/)
-
 Featured
 accessories
 ----------
