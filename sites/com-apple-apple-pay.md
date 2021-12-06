@@ -13,7 +13,7 @@ It’s money, made modern.
 
 [Add a card](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
 
-Use Apple Pay to purchase Apple products online or in stores through 12/6 and Apple will donate to the Global Fund to support the fight against AIDS and COVID‑19. [Shop now](https://www.apple.com/store)
+Shop with Apple Pay now through 12/15 and get exclusive deals from Ray‑Ban, Columbia, and more. [See offers](https://offers.applepay.apple/holiday)
 
 Faster and easier
  than
