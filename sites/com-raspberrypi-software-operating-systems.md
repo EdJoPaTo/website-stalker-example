@@ -7,9 +7,10 @@ Many operating systems are available for Raspberry Pi, including Raspberry Pi OS
 
 Download:
 
-* [Raspberry Pi OS (32-bit)](#raspberry-pi-os-32-bit)
+* [Raspberry Pi OS](#raspberry-pi-os-32-bit)
+* [Raspberry Pi OS (Legacy)](#raspberry-pi-os-legacy)
 * [Raspberry Pi Desktop](#raspberry-pi-desktop)
-* [Third-Party operating systems](#third-party-software)
+* [Third-party software](#third-party-software)
 
 Raspberry Pi OS
 ----------
