@@ -126,6 +126,12 @@ Chat messages sent by moderators stand out in the public chat, allowing to be di
 
 ![Moderator bolded text](https://docs.bigbluebutton.org/images/24-chat-font-moderator.png)
 
+### Alerts when user leaves ###
+
+The Notifications section in Settings has a new option for audio/popup alert when a user leaves the session.
+
+![User leaves alert](https://docs.bigbluebutton.org/images/24-user-leaves-alert.png)
+
 ### Webcam background blur ###
 
 In the webcam preview window prior to sharing webcam you can select between several backgrounds (or no background blur)
