@@ -19,9 +19,9 @@ May-June 2021 - development
 
 July, August 2021 - beta versions
 
-September/October 2021 - release candidates
+September-November 2021 - release candidates
 
-November 2021 - official release (2.4.0) and afterwards minor releases (2.4.1, etc.) with security updates + bug fixes
+December 2021 - official release (2.4.0) and afterwards minor releases (2.4.1, etc.) with security updates + bug fixes
 
 What’s new
 ----------
