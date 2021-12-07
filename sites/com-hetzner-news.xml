@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>IPv6 only option for dedicated root servers</title>
+			<link>https://www.hetzner.com/news/12-21-ipv6-only/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					07. December 2021
+				</small>
+			</p>
+			<h4>
+				IPv6 only option for dedicated root servers
+			</h4>
+			<p class="list-card-preview">
+				We are always working on providing you with the best solutions. Therefore, to make things more flexible for you, our dedicated root servers support IPv6 only.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/12-21-ipv6-only/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Top Black Week deals - Selected servers have no setup fees!</title>
 			<link>https://www.hetzner.com/news/11-21-black-week/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Do you need a large amount of secure storage resources for your sensitive data? Our line of high-capacity fifth-generation storage servers are waiting for you.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/01-21-storage-server/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>The new Dedicated Root Server PX93: High performance computing for intense workloads</title>
-			<link>https://www.hetzner.com/news/12-20-px93/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					14. December 2020
-				</small>
-			</p>
-			<h4>
-				The new Dedicated Root Server PX93: High performance computing for intense workloads
-			</h4>
-			<p class="list-card-preview">
-				Virtualisation, AI, machine learning and creative applications — all of these use cases require high performance computing from a dedicated root server.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/12-20-px93/">
 				Show more
 			</a>
 		</li>
