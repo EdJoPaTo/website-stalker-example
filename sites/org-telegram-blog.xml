@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Protected Content, Delete by Date, Device Management and More</title>
+			<link>https://telegram.org/blog/protected-content-delete-by-date-and-more</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<a class="dev_blog_card_link_wrap" href="/blog/protected-content-delete-by-date-and-more">
+			<div class="dev_blog_card_wrap">
+				<img class="dev_blog_card_image" src="https://telegram.org/file/464001572/2/u_lvhH-CjJ0.99595/a7fca60f9c9e6e193c">
+				<div class="dev_blog_card_alltext_wrap">
+					<h4 class="dev_blog_card_title">
+						Protected Content, Delete by Date, Device Management and More
+					</h4>
+					<div class="dev_blog_card_lead">
+						Today's update brings tools to prevent others from saving content from groups and channels, the ability to delete messages for specific…
+					</div>
+				</div>
+				<div class="dev_blog_card_date">
+					Dec 7, 2021
+				</div>
+			</div>
+		</a>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Hyper-Speed Scrolling and Calendar View for Shared Media, Join Requests, Global Chat Themes on iOS and More</title>
 			<link>https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more</link>
 			<content:encoded><![CDATA[<html>
@@ -493,32 +519,6 @@
 				</div>
 				<div class="dev_blog_card_date">
 					Mar 30, 2020
-				</div>
-			</div>
-		</a>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>New Profiles, Fast Media Viewer and People Nearby 2.0</title>
-			<link>https://telegram.org/blog/new-profiles-people-nearby</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<a class="dev_blog_card_link_wrap" href="/blog/new-profiles-people-nearby">
-			<div class="dev_blog_card_wrap">
-				<img class="dev_blog_card_image" src="https://telegram.org/file/464001232/1/-8xU2lIG8zc.76550/dfb1d4642cc6cdf20e">
-				<div class="dev_blog_card_alltext_wrap">
-					<h4 class="dev_blog_card_title">
-						New Profiles, Fast Media Viewer and People Nearby 2.0
-					</h4>
-					<div class="dev_blog_card_lead">
-						Hundreds of millions rely on Telegram to share precious moments with their loved ones. Today we're making it easier to relive shared memories…
-					</div>
-				</div>
-				<div class="dev_blog_card_date">
-					Feb 13, 2020
 				</div>
 			</div>
 		</a>
