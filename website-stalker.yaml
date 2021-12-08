@@ -315,3 +315,19 @@ sites:
       - css_select: "#content"
       - html_url_canonicalize
       - html_markdownify
+
+  - url: https://www.engelbert-strauss.de/
+    editors:
+      - css_select: body
+      - css_remove: img, script, header, .imagemap
+      - html_url_canonicalize
+      - html_markdownify
+  - url: https://www.engelbert-strauss.de/Unternehmen/Presse/Presseberichte
+    editors:
+      - rss:
+          title: Engelbert Strauss
+          item_selector: .press-release
+          content_editors:
+            - css_remove: h2, .icon-button-list, .show-more-button
+            - html_url_canonicalize
+            - html_prettify
