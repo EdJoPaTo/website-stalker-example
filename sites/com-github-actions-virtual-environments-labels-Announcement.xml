@@ -6,21 +6,6 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>Windows Server 2022 with Visual Studio 2022 is generally available starting from November, 15</title>
-			<link>https://github.com/actions/virtual-environments/issues/4488</link>
-			<pubDate>Thu, 11 Nov 2021 19:55:58 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-OS: Windows
-
-#4488
-opened
-Nov 11, 2021
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>Windows-2016 environment will be removed on March 15, 2022</title>
 			<link>https://github.com/actions/virtual-environments/issues/4312</link>
 			<pubDate>Tue, 19 Oct 2021 21:23:55 +0000</pubDate>
