@@ -169,7 +169,7 @@ Works with
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
- Let the holidays be filled with great gifts.
+ Last-minute gifts for every last one.
 ----------
 
 [Shop now](https://www.apple.com/us/shop/goto/gifts)

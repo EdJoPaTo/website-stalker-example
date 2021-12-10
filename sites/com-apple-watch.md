@@ -148,7 +148,7 @@ Emergency SOS
 
 [Compare all models](https://www.apple.com/watch/compare/) [Shop Apple Watch](https://www.apple.com/us/shop/goto/buy_watch)
 
-###  Let the holidays be filled with great gifts.  ###
+###  Last-minute gifts for every last one.  ###
 
 [Shop now](https://www.apple.com/us/shop/goto/gifts)
 

@@ -293,7 +293,7 @@ Maximum configurable storage
 
 [Compare all Mac models](https://www.apple.com/mac/compare/) [Shop Mac](https://www.apple.com/us/shop/goto/buy_mac)
 
-###  Let the holidays be filled with great gifts.  ###
+###  Last-minute gifts for every last one.  ###
 
 [Shop now](https://www.apple.com/us/shop/goto/gifts)
 
