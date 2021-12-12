@@ -381,6 +381,7 @@
 * [Läuse](https://www.wdrmaus.de/filme/sachgeschichten/laeuse.php5)
 * [Lakritz](https://www.wdrmaus.de/filme/sachgeschichten/lakritz.php5)
 * [Laminat](https://www.wdrmaus.de/filme/sachgeschichten/laminat.php5)
+* [Laser](https://www.wdrmaus.de/filme/sachgeschichten/laser.php5)
 * [Laubhüttenfest](https://www.wdrmaus.de/filme/sachgeschichten/laubhuettenfest.php5)
 * [Lauras Machgeschichten: Badewannenboot](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_badewannenboot.php5)
 * [Lauras Machgeschichten: Keksdose](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_keksdose.php5)
