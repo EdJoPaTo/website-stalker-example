@@ -6,6 +6,12 @@
 		<description></description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Deno joins TC39</title>
+			<link>https://deno.com/blog/deno-joins-tc39</link>
+			<pubDate>Mon, 13 Dec 2021 11:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[Deno has joined the JavaScript standards committee to improve the language for everyone.]]></content:encoded>
+		</item>
+		<item>
 			<title>Web Streams at the Edge</title>
 			<link>https://deno.com/blog/deploy-streams</link>
 			<pubDate>Tue, 30 Nov 2021 10:00:00 +0000</pubDate>
