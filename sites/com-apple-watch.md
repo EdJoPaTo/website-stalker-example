@@ -226,13 +226,12 @@ Smooth styles
 
 [Shop the latest bands](https://www.apple.com/us/shop/goto/watch/bands)
 
-Say it in a way
- only you can.
+Magic runs in the family.
 ----------
 
-Discover new engraving options for AirPods. Mix emoji, text, and numbers.
+Explore all AirPods models and find the best ones for you.
 
-[Learn more](https://www.apple.com/shop/engraving-and-gift-wrap)
+[Learn more](https://www.apple.com/airpods/)
 
 [### Free delivery ### And free returns. See checkout for delivery dates. Learn more](https://www.apple.com/us/shop/goto/shipping_pickup)
 

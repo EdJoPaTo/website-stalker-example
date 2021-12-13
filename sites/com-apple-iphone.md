@@ -250,10 +250,9 @@ Attach one to your keys. Slip another in your backpack. Then easily keep track o
 
 ### AirPods ###
 
-Discover new engraving options for AirPods. Mix emoji, text, and numbers.
+Explore all AirPods models and find the best ones for you.
 
-* [Shop](https://www.apple.com/airpods/)
-* [Learn more](https://www.apple.com/shop/engraving-and-gift-wrap)
+* [Learn more](https://www.apple.com/airpods/)
 
 [Shop all iPhone accessories](https://www.apple.com/us/shop/goto/iphone/accessories)
 
@@ -323,8 +322,7 @@ Bundle up to six Apple services. And enjoy more for less.
 * [Try it free](https://one.apple.com/us?itscg=10000&itsct=one-NA-iphone-tile-apl-avl-102020)
 * [Learn more](https://www.apple.com/apple-one/)
 
-Apple TV Plus
-----------
+### Apple TV Plus ###
 
 Get 3 months of Apple TV+ free
 when you buy an iPhone.

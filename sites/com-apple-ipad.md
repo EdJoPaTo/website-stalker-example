@@ -253,12 +253,11 @@ Explore covers, cases, and more to help you get the most from your iPad.
 
 [Shop iPad accessories](https://www.apple.com/us/shop/goto/ipad/accessories)
 
-### Say it in a way
-only you can. ###
+### Magic runs in the family. ###
 
-Discover new engraving options for AirPods. Mix emoji, text, and numbers.
+Explore all AirPods models and find the best ones for you.
 
-[Learn more](https://www.apple.com/shop/engraving-and-gift-wrap)
+[Learn more](https://www.apple.com/airpods/)
 
 What makes an iPad an iPad?
 ----------
@@ -312,7 +311,7 @@ Bundle up to six Apple services. And enjoy more for less.
 * [Try it free](https://one.apple.com/us?itscg=10000&itsct=one-NA-ipad-tile-apl-avl-102020)
 * [Learn more](https://www.apple.com/apple-one/)
 
-### Apple TV Plus ###
+### Apple TV Plus  ###
 
 Get 3 months of Apple TV+ free
 when you buy an iPad.
