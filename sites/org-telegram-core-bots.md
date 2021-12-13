@@ -1,7 +1,13 @@
 Bots: An introduction for developers
 ==========
 
-Bots are third-party applications that run inside Telegram. Users can interact with bots by sending them messages, commands and [inline requests](#inline-mode). You control your bots using HTTPS requests to our [Bot API](/bots/api).
+Bots are third-party applications that run inside Telegram. Users can interact with bots by sending them messages, commands and [inline requests](#inline-mode). You control your bots using HTTPS requests to Telegram's [Bot API](/bots/api).
+
+>
+>
+> The [full API reference](/bots/api) for **developers** is available [here](/bots/api).
+>
+>
 
 ### [](#1-what-can-i-do-with-bots)1. What can I do with bots? ###
 
