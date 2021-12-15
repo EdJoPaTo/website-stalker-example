@@ -232,7 +232,6 @@ If you want to try this (keep in mind it is still experimental), you need to add
       options:
         # inboundChannel: to-sfu-audio
         # outboundChannel: from-sfu-audio
-    # media-server-adapters: path could refer to a npm module
 
 ```
 
@@ -281,7 +280,6 @@ modules:
       options:
         # inboundChannel: to-sfu-audio
         # outboundChannel: from-sfu-audio
-    # media-server-adapters: path could refer to a npm module
 
 ```
 

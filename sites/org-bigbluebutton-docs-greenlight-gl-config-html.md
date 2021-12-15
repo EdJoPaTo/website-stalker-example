@@ -762,7 +762,7 @@ image: postgres:9.5
 With:
 
 ```
-image: postgres:13.2-alpine
+image: postgres:13-alpine
 
 ```
 
