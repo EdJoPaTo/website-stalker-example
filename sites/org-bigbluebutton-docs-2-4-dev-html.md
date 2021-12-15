@@ -272,10 +272,10 @@ $ curl https://install.meteor.com/ | sh
 
 ```
 
-The HTML5 client in BigBlueButton 2.4 depends on Meteor version 2.3.6. Navigate to `bigbluebutton-html5/` and set the appropriate version of Meteor.
+The HTML5 client in BigBlueButton 2.4 depends on Meteor version 2.5. Navigate to `bigbluebutton-html5/` and set the appropriate version of Meteor.
 
 ```
-meteor update --allow-superuser --release 2.3.6
+meteor update --allow-superuser --release 2.5
 
 ```
 
