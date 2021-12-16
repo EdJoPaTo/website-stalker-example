@@ -13,7 +13,7 @@ It’s money, made modern.
 
 [Add a card](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
 
-Shop with Apple Pay now through 12/15 and get exclusive deals from Ray‑Ban, Columbia, and more. [See offers](https://offers.applepay.apple/holiday)
+Use Apple Card with Apple Pay and get 2% Daily Cash back on every purchase. [Learn more about Apple Card](https://www.apple.com/apple-card/)
 
 Faster and easier
  than
