@@ -22,29 +22,16 @@ Faster and easier
  or cash.
 ----------
 
-Accepted at
- over
-
- 85 percent
- of
-
- retailers
- in the U.S.
-----------
-
-Safer than
- touching
- buttons
- and
-
- exchanging
- cash.
-----------
-
-Privacy and
- security
-
+Privacy and security
  built in.
+----------
+
+Accepted on millions
+ of websites and apps.
+----------
+
+Checkout is easier
+ online with Apple Pay.
 ----------
 
 It’s ready
@@ -90,7 +77,7 @@ you check out.
 
 At stores and more. Apple Pay is accepted at over 85 percent of retailers in the U.S., so you can likely use it wherever and however you want. If you’re not sure, just ask. Apple Pay works anywhere that takes contactless payments — from vending machines and grocery stores to taxis and subway stations.
 
-Online and in apps. Use Apple Pay for purchases in Safari on your iPhone, iPad, or Mac. You can skip the lengthy checkout forms and pay with just a touch or a glance. Or use Apple Pay to subscribe to services like Apple Music, Apple News+, and Apple TV+, buy apps and games on the App Store, and upgrade your iCloud storage.
+In apps and online. Use Apple Pay for purchases in Safari on your iPhone, iPad, or Mac. You can skip the lengthy checkout forms and pay with just a touch or a glance. Or use Apple Pay to subscribe to services like Apple Music, Apple News+, and Apple TV+, buy apps and games on the App Store, and upgrade your iCloud storage.
 
 Safe and
  sound.
@@ -120,6 +107,8 @@ In case you
   You can use Apple Pay to make purchases in stores, on websites, and in apps. It’s widely accepted, simple, safe, secure, and private.
 
   * [Learn how to use Apple Pay in stores](https://support.apple.com/en-us/HT201239#stores)
+  * [How to make a purchase with Touch ID](https://www.apple.com/105/media/us/apple-pay/2017/1b3e5430_fafc_4e9d_8114_4ba5eacf00f4/overview/films/pay-in-store/apple-pay-pay-in-store-cc-us-20170912_720x1280h.mp4)
+  * [How to make a purchase with Face ID](https://www.apple.com/105/media/us/apple-pay/2017/1b3e5430_fafc_4e9d_8114_4ba5eacf00f4/overview/films/face-id/apple-pay-face-id-cc-us-20171103_720x1280h.mp4)
   * [Learn how to use Apple Pay on websites](https://support.apple.com/en-us/HT201239#safari)
   * [Learn how to use Apple Pay in apps](https://support.apple.com/en-us/HT201239#inapp)
 
@@ -137,6 +126,8 @@ In case you
 
   It’s simple. Just add a credit, debit, or prepaid card to the Wallet app on your iPhone. And remember to add your cards to any other Apple devices you want to use with Apple Pay. It works on iPhone, Apple Watch, Mac, and iPad.
 
+  * [Add a card](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
+
 * ### Which banks support Apple Pay?  ###
 
   Apple Pay works with major credit and debit cards from banks around the world, with more added all the time. You can see all the banks that support Apple Pay [here](https://support.apple.com/en-us/HT204916). If your card does not yet support Apple Pay, contact your bank for more information.
@@ -151,7 +142,9 @@ In case you
 
 * ### How can my business accept Apple Pay?  ###
 
-  If your business already accepts credit and debit cards, simply contact your payment provider to start accepting Apple Pay. Contact [merchant support](https://developer.apple.com/contact/apple-pay/) for more information. If you want to accept Apple Pay on your website or in your app, visit [Apple Pay for developers](https://developer.apple.com/apple-pay/).
+  If your business already accepts credit and debit cards, simply contact your [payment provider](https://developer.apple.com/apple-pay/payment-platforms/)
+  to start accepting Apple Pay. If you want to accept Apple Pay on your website or in your app,
+  visit [Apple Pay for developers](https://developer.apple.com/apple-pay/).
 
 * ### How do I let my customers know I accept Apple Pay?  ###
 
