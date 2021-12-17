@@ -18,7 +18,7 @@ To facilitate more informed conversations, your patients can choose to share cer
 
 ### Adding verifiable health records to the Health app. ###
 
-Users around the world have an option for storing medical records of verifiable immunizations and test results directly in the Health app. If a vaccine provider or medical location supports the SMART Health Cards specification, it can allow your patients to download verifiable COVID-19 vaccination or test result records from an online browser or by scanning a QR code, so they can easily access them at any time.
+If a vaccine provider or health system supports the SMART Health Cards specification, it can allow your patients to store verifiable COVID‑19 vaccination or test result records in the Health app. Your patients can add these records by downloading a file or scanning a QR code, so they can easily access them at any time. Verifiable COVID‑19 vaccination information can also be added as a vaccination card to Wallet.
 
 ### Complement your patient portal. ###
 
@@ -66,13 +66,13 @@ We’ve worked closely with multiple EHR vendors and others in the healthcare co
 
 ### Built with industry standards. ###
 
-Apple is using the SMART on FHIR (Fast Healthcare Interoperability Resources) standard which enables users to download their health records and share available health data with participating organizations. Downloadable data types include allergies, conditions, immunizations, lab results, medications, and vitals. Data types for sharing with providers include exercise minutes, heart rate, blood pressure, lab results, and immunizations.
+Apple is using the SMART on FHIR (Fast Healthcare Interoperability Resources) standard which enables users to download their health records and share available health data with participating organizations. Downloadable data types include allergies, conditions, immunizations, lab results, medications, and vitals. Data types for sharing with providers include exercise minutes, heart rate, blood pressure, lab results, immunizations, and more.
 
-### Designed to protect privacy. ###
+### Designed to protect privacy. ###
 
 With Health Records on iPhone, your patients health data is encrypted in transit and at rest. Apple is providing a user the ability to request and download their health records utilizing a direct, encrypted connection between the user’s iPhone and the APIs provided by the health system or clinic. When your patients share Health app data with a provider, the data is encrypted in transit and at rest, and Apple cannot access or view any health data stored in connection with Health app data sharing with provider.
 
-### Encrypted and secure throughout. ###
+### Encrypted and secure throughout. ###
 
 When health record data is transferred from a healthcare institution to the Health app through the Health Records feature, it is encrypted and does not traverse Apple’s network. When your patients share Health app data with a provider, the data is encrypted end-to-end with the healthcare organization. Apple does not maintain or have access to the encryption keys used to encrypt or decrypt a user’s health data.
 

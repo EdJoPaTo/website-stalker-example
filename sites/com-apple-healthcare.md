@@ -19,10 +19,15 @@ Our products transform the way doctors and nurses work with their patients. Apps
 
 [Watch the video](https://www.apple.com/105/media/us/business/2015/6d4fa492_02f8_41e8_9da0_f8d2d46a3fc0/oschner/inpatient/ochsner-inpatient-cc-us-20151217_r848-9dwc.mov)
 
-Continue patient care at home.
+### Building a vaccination
+program at UCHealth. ###
+
+[Watch the video](https://www.apple.com/105/media/us/healthcare/2021/ccd38ad2-d15c-45c7-aa18-84d6f0557c40/films/uc-health-animation/healthcare-uc-health-animation-tpl-us-2021_1280x720h.mp4)
+
+Continue patient care at home.
 ----------
 
-At home, iOS and iPadOS apps enable patients to stay connected to their care teams between office visits. Healthcare organizations can use off-the-shelf apps or use CareKit to create apps that empower patients to manage their health. iPhone, Apple Watch, the Health app, and HealthKit-enabled apps and medical devices make it easy for patients to record their health data and share it with their care teams.
+At home, iOS and iPadOS apps enable patients to stay connected to their care teams between office visits. Healthcare organizations can use off-the-shelf apps or use CareKit to create apps that empower patients to manage their health. iPhone, Apple Watch, the Health app, and HealthKit-enabled apps and medical devices make it easy for patients to record their health data and share it with their care teams.
 
 ---
 

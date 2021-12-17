@@ -6,6 +6,12 @@
 		<description></description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Deno 1.17 Release Notes</title>
+			<link>https://deno.com/blog/v1.17</link>
+			<pubDate>Thu, 16 Dec 2021 12:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[Deno 1.17 adds JSON imports, import completions in the REPL, and much more.]]></content:encoded>
+		</item>
+		<item>
 			<title>Deno joins TC39</title>
 			<link>https://deno.com/blog/deno-joins-tc39</link>
 			<pubDate>Mon, 13 Dec 2021 11:00:00 +0000</pubDate>

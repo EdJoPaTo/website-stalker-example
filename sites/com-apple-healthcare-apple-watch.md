@@ -28,15 +28,15 @@ The irregular notification feature has been granted De Novo classification by th
 
 #### Validation of irregular rhythm notification feature. ####
 
-In 2017 and 2018, researchers at Stanford University School of Medicine worked with Apple to conduct the Apple Heart Study on the detection of atrial fibrillation, a heartbeat irregularity that is a leading cause of stroke and hospitalization. Over 400,000 Apple Watch users participated and helped validate the ability of wearable technology to aid in the early detection of this condition, which often goes undiagnosed. And the study led to the availability of the irregular rhythm notification that is now on Apple Watch.
+In 2017 and 2018, researchers at Stanford University School of Medicine worked with Apple to conduct the Apple Heart Study on the detection of atrial fibrillation, a heartbeat irregularity that is a leading cause of stroke and hospitalization. Over 400,000 Apple Watch users participated and helped validate the ability of wearable technology to aid in the early detection of this condition, which often goes undiagnosed. And the study led to the availability of the irregular rhythm notification that is now on Apple Watch.
 
 [See the results of the Apple Heart Study](https://www.nejm.org/doi/full/10.1056/NEJMoa1901183)
 
 ### ECG app. ###
 
-With the ECG app on Apple Watch Series 4 or later, patients who experience symptoms such as rapid or skipped heartbeat, or receive the irregular rhythm notification, can capture an ECG and record their symptoms. This real world data can enable you to make more informed and timely decisions regarding further evaluation and care.
+With the ECG app on Apple Watch Series 4 or later<sup><a href="https://www.apple.com/healthcare/apple-watch/#footnote-1">*</a></sup>, patients who experience symptoms such as rapid or skipped heartbeat, or receive the irregular rhythm notification, can capture an ECG and record their symptoms. This real world data can enable you to make more informed and timely decisions regarding further evaluation and care.
 
-The ECG app uses the electrical heart sensor built into the Digital Crown and the back crystal of Apple Watch Series 4 or later to record a single lead ECG similar to a Lead I ECG. The ECG app then provides a result of sinus rhythm, atrial fibrillation, atrial fibrillation with high heart rate, or poor recording, and prompts the user to enter any symptoms such as rapid or pounding heartbeat, dizziness, or fatigue. The waveform, results, date, time, and any symptoms are recorded and can be exported from the Health app as a PDF to share with a clinician. If the patient notes symptoms that indicate a serious condition, they are prompted to immediately call emergency services.
+The ECG app uses the electrical heart sensor built into the Digital Crown and the back crystal of Apple Watch Series 4 or later<sup><a href="https://www.apple.com/healthcare/apple-watch/#footnote-1">*</a></sup> to record a single lead ECG similar to a Lead I ECG. The ECG app then provides a result of sinus rhythm, atrial fibrillation, atrial fibrillation with high heart rate, or poor recording, and prompts the user to enter any symptoms such as rapid or pounding heartbeat, dizziness, or fatigue. The waveform, results, date, time, and any symptoms are recorded and can be exported from the Health app as a PDF to share with a clinician. If the patient notes symptoms that indicate a serious condition, they are prompted to immediately call emergency services.
 
 The updated ECG app with additional rhythm classification received 510(k) clearance from FDA for users 22 years or older.
 
@@ -55,7 +55,7 @@ The updated ECG app with additional rhythm classification received 510(k) cleara
 *
 *
 
- 1. Launch the ECG app on Apple Watch Series 4 or later.
+ 1. Launch the ECG app on Apple Watch Series 4 or later<sup><a href="https://www.apple.com/healthcare/apple-watch/#footnote-1">*</a></sup>.
 
  2. Rest your arms on a table or in your lap, and hold your index finger on the Digital Crown for about 30 seconds.
 
@@ -71,7 +71,7 @@ The ECG app waveform is similar to a Lead I ECG, which can enable classification
 
 After taking an ECG reading, the ECG app will check for sinus rhythm or AFib. If the heart rate is under 50 bpm or over 150 bpm, the app is unable to check for AFib, but will note the heart rate and save the ECG recording. The ECG app may provide an inconclusive result if, for example, there is presence of arrhythmias other than Afib, presence of an ICD or pacemaker, or poor electrical signal in the recording which can occur as a result of right axis deviation. The ECG app may also provide a poor recording result if there is poor signal due to motion artifacts or poor electrode contact.
 
-In a clinical study, the rhythm classification by the ECG app of a single lead ECG on Apple Watch was compared to the rhythm classification by a cardiologist of a simultaneously collected 12-lead ECG. The ECG app demonstrated 99.3% specificity in classifying sinus rhythm and 98.5% sensitivity in classifying AFib for the classifiable results.
+In a clinical study, the rhythm classification by the ECG app of a single lead ECG on Apple Watch was compared to the rhythm classification by a cardiologist of a simultaneously collected 12-lead ECG. The ECG app demonstrated 99.3% specificity in classifying sinus rhythm and 98.5% sensitivity in classifying AFib for the classifiable results.
 
 [Learn more about arrhythmia detection (PDF)](https://www.apple.com/healthcare/docs/site/Apple_Watch_Arrhythmia_Detection.pdf)
 
@@ -92,7 +92,7 @@ Dr. Richard Milani Professor of Medicine, Vice-Chairman for Cardiovascular Disea
 
 >
 >
-> Products that seek to provide deeper health insights, like the Apple Watch, have the potential to be significant in new clinical care models and shared decision making between people and their healthcare providers.
+> Products that seek to provide deeper health insights, like the Apple Watch, have the potential to be significant in new clinical care models and shared decision making between people and their healthcare providers.
 >
 >
 
@@ -132,7 +132,7 @@ Compare Apple Watch Models.
 * ECG App Electrical heart sensor / electrodes
 * Fall Detection Next generation accelerometer and gyroscope
 
-* **Apple Watch SE**
+* **Apple Watch SE**
 * High Heart Rate Notification Optical heart sensor / PPG
 * Low Heart Rate Notification Optical heart sensor / PPG
 * Irregular Rhythm Notification Optical heart sensor / PPG
@@ -163,13 +163,13 @@ Learn more about how these metrics were developed and validated:
 
 ### Fall Detection. ###
 
-When a hard fall is detected with Apple Watch Series 4 or later, an alert appears and allows the user to easily call emergency services or dismiss the alert. If the user is unresponsive for about a minute, an emergency call will be placed automatically and a message will be sent to the user’s emergency contacts. All falls detected are recorded in the Health app. This feature is automatically enabled for users 55 years and older and can be turned on for anyone in the Apple Watch app on iPhone.
+When a hard fall is detected with Apple Watch Series 4 or later<sup><a href="https://www.apple.com/healthcare/apple-watch/#footnote-1">*</a></sup>, an alert appears and allows the user to easily call emergency services or dismiss the alert. If the user is unresponsive for about a minute, an emergency call will be placed automatically and a message will be sent to the user’s emergency contacts. All falls detected are recorded in the Health app. This feature is automatically enabled for users 55 years and older and can be turned on for anyone in the Apple Watch app on iPhone.
 
 [Learn more about Fall Detection](https://support.apple.com/en-us/HT208944)
 
 ### Medical ID. ###
 
-Medical ID allows first responders and emergency room clinicians to access critical medical information from a patient’s iPhone lock screen or Apple Watch without requiring a passcode, and without compromising patient privacy. Patients can list important information such as allergies, medications, conditions, organ donor preferences, and emergency contacts by setting up Medical ID in the Health app on iPhone.
+Medical ID allows first responders and emergency room clinicians to access critical medical information from a patient’s iPhone lock screen or Apple Watch without requiring a passcode, and without compromising patient privacy. Patients can list important information such as allergies, medications, conditions, organ donor preferences, and emergency contacts by setting up Medical ID in the Health app on iPhone.
 
 [Learn more about accessing Medical ID on Apple Watch](https://support.apple.com/en-us/HT206983)
 
@@ -181,7 +181,7 @@ The Health app on iPhone makes it easier than ever for your patients to visualiz
 
 ### Designed with security and privacy in mind. ###
 
-When a user’s iPhone is locked with a passcode, Touch ID, or Face ID, their health data in the Health app is encrypted on‑device. If a user chooses to sync their health data with iCloud, it is encrypted while in transit and at rest.
+When a user’s iPhone is locked with a passcode, Touch ID, or Face ID, their health data in the Health app is encrypted on‑device. If a user chooses to sync their health data with iCloud, it is encrypted while in transit and at rest.
 
 The future of healthcare is in your hands.
 ----------
