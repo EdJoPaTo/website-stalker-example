@@ -98,15 +98,6 @@ sites:
       - css_remove: "script, img"
       - html_url_canonicalize
       - html_markdownify
-  - url: "https://deno.com/blog"
-    editors:
-      - rss:
-          title: Deno Blog
-          item_selector: main > div > div
-          title_selector: h3
-          content_editors:
-            - css_select: a div
-            - html_textify
 
   - url: "https://www.conventionalcommits.org/en/"
     editors:
