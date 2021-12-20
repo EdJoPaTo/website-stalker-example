@@ -9,14 +9,42 @@ von kuschelig bequem bis wahnsinnig praktisch!
 
 [mehr erfahren](https://www.engelbert-strauss.de/weihnachten/)
 
- Neuheiten
+ Last Minute
+Geschenkidee
 ----------
 
 ---
 
-Kuschelige Homewear für Sie, Ihn und die Kleinen
+Jetzt einfach Gutschein ausdrucken & verschenken
 
-[mehr erfahren](https://www.engelbert-strauss.de/geschenkideen-neuheiten/)
+[jetzt bestellen](https://gutschein.strauss.de/)
+
+ In 3 einfachen Schritten:
+==========
+
+---
+
+ Sofort per E-Mail verfügbar
+==========
+
+---
+
+ Wunschmotiv im Strauss-Style wählen
+==========
+
+---
+
+ Gutscheinwert auswählen & persönlichen Grußtext eingeben
+==========
+
+---
+
+ Ausdrucken, Falten und Verschenken
+==========
+
+---
+
+[jetzt bestellen](https://gutschein.strauss.de/)
 
  Sets
 ----------
