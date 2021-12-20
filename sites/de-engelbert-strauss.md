@@ -39,7 +39,7 @@ Jetzt einfach Gutschein ausdrucken & verschenken
 
 ---
 
- Ausdrucken, Falten und Verschenken
+ Ausdrucken, falten und verschenken
 ==========
 
 ---
