@@ -310,7 +310,7 @@ Reverting to the default options can be achieved by removing the override sectio
 Installation
 ----------
 
-For server requirements, BigBlueButton 2.4 needs similar [minimum server requirements](https://docs.bigbluebutton.org/2.3/install.html#minimum-server-requirements) as 2.3.
+For server requirements, BigBlueButton 2.4 needs similar [minimum server requirements](https://docs.bigbluebutton.org/2.4/install.html#minimum-server-requirements) as 2.3.
 
 To install 2.4, use [bbb-install.sh](https://github.com/bigbluebutton/bbb-install). For example, the following command installs BigBlueButton 2.4-dev using `bbb.example.com` as the hostname and `notice@example.com` as the email for Let’s Encrypt (you would substitute these values for your own hostname and email address). Notice the version is `-v bionic-240`, which will install the latest officially published release (alpha/beta/etc) of BigBlueButton 2.4. If you instead use `-v bionic-24-dev`, you will be installing/updating to the very latest build tracking the source code from branch `v2.4.x-release`.
 

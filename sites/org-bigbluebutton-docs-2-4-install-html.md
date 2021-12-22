@@ -401,7 +401,7 @@ Customizations
 Increase number of processes for nodejs
 ----------
 
-See [the HTML5 section on the Architecture page](https://docs.bigbluebutton.org/2.3/architecture.html#scalability-of-html5-server-component)
+See [the HTML5 section on the Architecture page](https://docs.bigbluebutton.org/2.4/architecture.html#scalability-of-html5-server-component)
 
 Increase number of recording workers
 ----------

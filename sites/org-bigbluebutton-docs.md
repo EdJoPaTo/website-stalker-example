@@ -1,12 +1,12 @@
 * [Home](https://docs.bigbluebutton.org/)
-* 2.3 Latest Version
-* [Testing a release](https://docs.bigbluebutton.org/2.3/release-tests.html)
-* [Development](https://docs.bigbluebutton.org/2.3/dev.html)
-* [What's New](https://docs.bigbluebutton.org/2.3/new.html)
-* [Install](https://docs.bigbluebutton.org/2.3/install.html)
-* [Architecture](https://docs.bigbluebutton.org/2.3/architecture.html)
-* [HTML5 Tests](https://docs.bigbluebutton.org/2.3/html5-tests.html)
-* [Accessibility](https://docs.bigbluebutton.org/2.3/html5-accessibility.html)
+* 2.4 Latest Version
+* [Install](https://docs.bigbluebutton.org/2.4/install.html)
+* [Development](https://docs.bigbluebutton.org/2.4/dev.html)
+* [Testing a release](https://docs.bigbluebutton.org/2.4/release-tests.html)
+* [What's New](https://docs.bigbluebutton.org/2.4/new.html)
+* [Architecture](https://docs.bigbluebutton.org/2.4/architecture.html)
+* [HTML5 Tests](https://docs.bigbluebutton.org/2.4/html5-tests.html)
+* [Accessibility](https://docs.bigbluebutton.org/2.4/html5-accessibility.html)
 * Develop
 * [Design](https://docs.bigbluebutton.org/dev/design.html)
 * [WebHooks](https://docs.bigbluebutton.org/dev/webhooks.html)
@@ -28,23 +28,20 @@
 * [Customize](https://docs.bigbluebutton.org/greenlight/gl-customize.html)
 * [Configure](https://docs.bigbluebutton.org/greenlight/gl-config.html)
 * [Admin](https://docs.bigbluebutton.org/greenlight/gl-admin.html)
-* 2.4 Under Development
-* [Install](https://docs.bigbluebutton.org/2.4/install.html)
-* [Development](https://docs.bigbluebutton.org/2.4/dev.html)
-* [Testing a release](https://docs.bigbluebutton.org/2.4/release-tests.html)
-* [What's New](https://docs.bigbluebutton.org/2.4/new.html)
 * Support
 * [Getting help](https://docs.bigbluebutton.org/support/getting-help.html)
 * [Troubleshooting](https://docs.bigbluebutton.org/support/troubleshooting.html)
 * [Road Map](https://docs.bigbluebutton.org/support/road-map.html)
 * [FAQ](https://docs.bigbluebutton.org/support/faq.html)
 * [Release Notes](https://docs.bigbluebutton.org/support/release-notes.html)
-* 2.2 Legacy
-* [Install](https://docs.bigbluebutton.org/2.2/install.html)
-* [Development](https://docs.bigbluebutton.org/2.2/dev.html)
-* [HTML5 Tests](https://docs.bigbluebutton.org/2.2/html5-tests.html)
-* [Architecture](https://docs.bigbluebutton.org/2.2/architecture.html)
-* [Accessibility](https://docs.bigbluebutton.org/2.2/html5-accessibility.html)
+* 2.3 Legacy
+* [Testing a release](https://docs.bigbluebutton.org/2.3/release-tests.html)
+* [Development](https://docs.bigbluebutton.org/2.3/dev.html)
+* [Improvements](https://docs.bigbluebutton.org/2.3/new.html)
+* [Install](https://docs.bigbluebutton.org/2.3/install.html)
+* [Architecture](https://docs.bigbluebutton.org/2.3/architecture.html)
+* [HTML5 Tests](https://docs.bigbluebutton.org/2.3/html5-tests.html)
+* [Accessibility](https://docs.bigbluebutton.org/2.3/html5-accessibility.html)
 
 ![](https://docs.bigbluebutton.org/images/logo.png)
 
@@ -166,7 +163,7 @@ If your interested in using BigBlueButton in a production environment, there are
 Latest release
 ----------
 
-The latest version of BigBlueButton is BigBlueButton 2.3. See [install BigBlueButton](https://docs.bigbluebutton.org/2.3/install.html).
+The latest version of BigBlueButton is BigBlueButton 2.4. See [install BigBlueButton](https://docs.bigbluebutton.org/2.4/install.html).
 
 Overview for Viewers (click image below to watch YouTube video):
 

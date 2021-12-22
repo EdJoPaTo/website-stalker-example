@@ -488,10 +488,10 @@ For example, here are the stock steps in BigBlueButton 2.3 with the `presentatio
 
 ```
 steps:
-  archive: "sanity"
-  sanity: "captions"
-  captions: "process:presentation"
-  "process:presentation": "publish:presentation"
+  archive: 'sanity'
+  sanity: 'captions'
+  captions: 'process:presentation'
+  'process:presentation': 'publish:presentation'
 
 ```
 
@@ -499,13 +499,13 @@ If you additionally enable the `notes` recording format, the steps will have to 
 
 ```
 steps:
-  archive: "sanity"
-  sanity: "captions"
+  archive: 'sanity'
+  sanity: 'captions'
   captions:
-    - "process:presentation"
-    - "process:notes"
-  "process:presentation": "publish:presentation"
-  "process:notes": "publish:notes"
+    - 'process:presentation'
+    - 'process:notes'
+  'process:presentation': 'publish:presentation'
+  'process:notes': 'publish:notes'
 
 ```
 

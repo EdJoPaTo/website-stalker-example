@@ -197,7 +197,8 @@ Slide and whiteboard tests
   label with the name of the user who this cursor belongs to
 * Each user with whiteboard access should be able to draw
 * Revoke whiteboard access from a user which is not presenter. Only the
-  presenter should be able to do this. It must not be possible to revoke whiteboard access from the presenter
+  presenter should be able to do this. It must not be possible to revoke
+  whiteboard access from the presenter
 * The presenter should see the number of users with whiteboard access in the
   toolbar
 

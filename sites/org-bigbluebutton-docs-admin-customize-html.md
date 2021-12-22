@@ -412,7 +412,7 @@ chown meteor:meteor $HTML5_CONFIG
 
 ### Run three parallel Kurento media servers ###
 
-[ Available in BigBluebutton 2.2.24+ and 2.3 ]
+[ Available since BigBluebutton 2.2.24+ ]
 
 Kurento media server handles three different types of media streams: listen only, webcams, and screen share.
 
@@ -505,7 +505,7 @@ Thus, we recommend you [enable multiple Kurento](https://docs.bigbluebutton.org/
 
 BigBlueButton will dynamically reduce the number of webcams in a meeting as the meeting grows larger. These are set in `/usr/share/meteor/bundle/programs/server/assets/app/config/settings.yml`, but you can override them by placing them in `/etc/bigbluebutton/bbb-html5.yml`.
 
-For example, the follwing `/etc/bigbluebutton/bbb-html5.yml` file would ensure that no single meeting will have more than 300 streams. For example, in a meeting with 30 users, the moderator will see 25 webcams and the viewers 6 webcams. This gives 25 + 29 \* 6 = 196 webcam streams. If the meeting grows to 100 users, the moderator will see 8 webcams and viewers will see 2 webcams. This gives 8 + 99 \* 2 = 206 webcam streams.
+For example, the follwing `/etc/bigbluebutton/bbb-html5.yml` file would ensure that no single meeting will have more than 300 streams. For example, in a meeting with 30 users, the moderator will see 25 webcams and the viewers 6 webcams. This gives 25 + 29 \_ 6 = 196 webcam streams. If the meeting grows to 100 users, the moderator will see 8 webcams and viewers will see 2 webcams. This gives 8 + 99 \_ 2 = 206 webcam streams.
 
 ```
 public:
@@ -938,7 +938,7 @@ Restart BigBlueButton with `sudo bbb-conf --restart`. You should now be able to 
 
 ### Add custom fonts for presentation conversion ###
 
-In BigBlueButton 2.3 we added support for using additional fonts when converting presentation files.
+Starting with BigBlueButton 2.3 we added support for using additional fonts when converting presentation files.
 
 On the server where you want the new fonts supported you would want to download the fonts (.ttf) file. For example:
 

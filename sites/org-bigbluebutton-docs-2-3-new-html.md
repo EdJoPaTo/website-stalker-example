@@ -1,15 +1,15 @@
-What's New
+Improvements
 ----------
 
 ![](https://docs.bigbluebutton.org/images/23-header.png)
 
-This document gives you an overview of BigBlueButton 2.3, the latest release of BigBlueButton. BigBlueButton 2.3 offers users improved usability, increased engagement, and more performance.
+This document gives you an overview of BigBlueButton 2.3, (maintained in until BigBlueButton 2.5.0 is released). When picking which release to install we recommend to select the latest released stable version - as of December 2021 this is BigBlueButton 2.4. Compared to the previous BigBlueButton 2.2, BigBlueButton 2.3 offers users improved usability, increased engagement, and more performance.
 
 * **Usability** - making common functions (such as raise hand) easier
 * **Engagement** - giving the instructor more ways to engage students
 * **Performance** - increasing overall performance and scalability
 
-Here’s a breakdown of what’s new in 2.3
+Here’s a breakdown of what was improved/added in 2.3
 
 * **Usability**
 

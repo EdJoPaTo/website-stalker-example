@@ -263,7 +263,7 @@ A bit of context is needed to fully explain what the HTML5 client is, why it has
 
 The HTML5 client in BigBlueButton is build using the framework [Meteor](https://meteor.com/). Meteor wraps around a NodeJS server component, MongoDB server database, React frontend user interface library and MiniMongo frontend instance of MongoDB storing a subset of MongoDB’s data. When deployed, these same components are split into independently running pieces - NodeJS instance, MongoDB database and a browser optimized client files served by NginX. There is no “Meteor” in a production deployment, but rather separate components.
 
-Make sure to check the HTML5 portion of the [Architecture page](https://docs.bigbluebutton.org/2.3/architecture.html#html5-client).
+Make sure to check the HTML5 portion of the [Architecture page](https://docs.bigbluebutton.org/2.4/architecture.html#html5-client).
 
 Install Meteor.js.
 
