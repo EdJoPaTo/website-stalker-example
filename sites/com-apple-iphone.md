@@ -1,7 +1,7 @@
 iPhone
 ==========
 
- Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
+ Last chance to shop holiday gifts. Buy online and choose free two-hour courier delivery or pickup from an Apple Store.<sup class="ribbon-obdb-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/iphone/#footnote-obdb">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts)
 
 iPhone 13 Pro
 ----------
@@ -215,12 +215,12 @@ It’s good for you and the planet.
 
 [Learn more](https://www.apple.com/us/shop/goto/trade_in)
 
-### Get 3% Daily
+###  Get 3% Daily
 
 Cash
-back with Apple Card. ###
+back with Apple Card.  ###
 
-And pay for your new iPhone over 24 months, interest‑free when you choose to check out with Apple Card Monthly Installments.
+ And pay for your new iPhone over 24 months, interest‑free when you choose to check out with Apple Card Monthly Installments.
 
 [Learn more](https://www.apple.com/apple-card/)
 
