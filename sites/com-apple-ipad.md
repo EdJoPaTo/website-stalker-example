@@ -1,7 +1,7 @@
 iPad
 ==========
 
- Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
+ Last chance to shop holiday gifts. Buy online and choose free two-hour courier delivery or pickup from an Apple Store.<sup class="ribbon-obdb-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/ipad/#footnote-obdb">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts)
 
 [](https://www.apple.com/ipad-mini/)
 

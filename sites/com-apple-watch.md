@@ -1,4 +1,4 @@
-Get your holiday gifts on time. [See when to order](https://www.apple.com/us/shop/goto/gifts/holiday_shipping)
+Last chance to shop holiday gifts. Buy online and choose free two-hour courier delivery or pickup from an Apple Store.<sup class="ribbon-obdb-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/watch/#footnote-obdb">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts)
 
 Apple Watch
 ==========
@@ -179,7 +179,7 @@ With Apple Trade In, just give us your eligible Apple Watch and get credit for a
 
 [Find your trade-in value](https://www.apple.com/us/shop/goto/trade_in)
 
-Get 3%
+ Get 3%
 
  Daily Cash back
 
