@@ -1,15 +1,4 @@
-Weihnachts
-Highlights
-----------
-
----
-
-Für jeden genau das Richtige –
-von kuschelig bequem bis wahnsinnig praktisch!
-
-[mehr erfahren](https://www.engelbert-strauss.de/weihnachten/)
-
- Last Minute
+Last Minute
 Geschenkidee
 ----------
 
@@ -46,106 +35,12 @@ Jetzt einfach Gutschein ausdrucken & verschenken
 
 [jetzt bestellen](https://gutschein.strauss.de/)
 
- Sets
-----------
+strauss wünscht
 
 ---
 
-Entdecken Sie alle Spar-Sets und viele tolle gratis Zugaben
-
-[mehr erfahren](https://www.engelbert-strauss.de/weihnachts-aktions-sets/)
-
- 1x Bundhose
-e.s.motion
-**\+**
-1x Bundhose
-e.s.motion Winter
-==========
-
+ Frohe Weihnachten
 ---
-
-**\+ GRATIS**
-==========
-
----
-
- 1x Workertasche
- e.s.motion
-1x Gürtel e.s.motion
-1x e.s. Kniepolster
-==========
-
----
-
-[Set kaufen](https://www.engelbert-strauss.de/weihnachts-aktions-sets/set-bundhose-winter-bundhose-e-s-motion-3310060-14072-1.html?itemorigin=startseite_weihnachten_21)
-
-Verlängerter Umtausch in der Adventszeit
-
-bis Weihnachten bestellen - bis 31.01.2022 kostenfrei zurück schicken (innerhalb Deutschlands)
-
-Informationen zu unseren Workwearstores
-
- Geschenkideen
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/geschenkideen/)
-
- Neuheiten
----
-
-[alle Produkte](https://www.engelbert-strauss.de/geschenkideen-neuheiten/)
-
-gutscheine
-verschenken
-
----
-
-für kurzentschlossene
-Gutschein per Mail
-
----
-
-[jetzt kaufen](https://gutschein.strauss.de/)
-
-Gutscheinkarte
-klassisch per Paket
-
----
-
-[jetzt bestellen](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_weihnachten_21)
-
-weihnachts-
-sets
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/weihnachts-aktions-sets/)
-
-Für die kleinen
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/geschenkideen-fuer-die-kleinen/)
-
-[e.s. Funktions Longsleeve](https://www.engelbert-strauss.de/kinder-funktionsunterwaesche/e-s-funktions-longsleeve-seamless-warm-kinder-3411440-87802-641.html?itemorigin=startseite_weihnachten_21)
-
-[e.s. Funktions Long-Pants](https://www.engelbert-strauss.de/kinder-funktionsunterwaesche/e-s-funktions-long-pants-seamless-warm-kinder-3411430-87812-641.html?itemorigin=startseite_hw21)
-
-###
-
-Herzlich
-willkommen
-
- ###
-
----
-
-ZU EINEM SHOPPING-ERLEBNIS DER GANZ BESONDEREN ART
-
-Online-Shopping mit Store-Feeling: Unser virtueller Shop ist ab sofort geöffnet!
-Strauss tourt durch Europa - und Sie sind mit dabei! Aktueller Halt: Prag
-
-[360 ° Shopping-Tour starten](https://www.engelbert-strauss.de/popupstore/popupstore_praha/virtualstore_praha)
 
 []()
 
