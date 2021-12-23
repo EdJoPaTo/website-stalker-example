@@ -6,6 +6,23 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[macOS] Default Xcode on Big Sur image will be set to Xcode 13.2.1 on January, 24</title>
+			<link>https://github.com/actions/virtual-environments/issues/4800</link>
+			<pubDate>Thu, 23 Dec 2021 14:43:02 +0000</pubDate>
+			<content:encoded><![CDATA[Announcement
+
+Area: Apple
+
+OS: macOS
+
+#4800
+opened
+Dec 23, 2021
+by
+
+miketimofeev]]></content:encoded>
+		</item>
+		<item>
 			<title>[Ubuntu] Issue with libstdc++ cannot allocate memory in static TLS block</title>
 			<link>https://github.com/actions/virtual-environments/issues/4799</link>
 			<pubDate>Thu, 23 Dec 2021 12:57:09 +0000</pubDate>
