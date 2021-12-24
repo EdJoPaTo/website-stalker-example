@@ -69,7 +69,7 @@ Community projects
 
   [Details](https://opensource.apple.com/projects/kubernetes) [Website](https://kubernetes.io/)
 
-* Cassandra
+* Apache Cassandra
   ==========
 
   Java
@@ -87,7 +87,7 @@ Community projects
 
   [Details](https://opensource.apple.com/projects/llvm-clang) [LLVM Website](https://llvm.org/)
 
-* Spark
+* Apache Spark
   ==========
 
   Scala, Java, Python, HiveQL, R
@@ -105,7 +105,7 @@ Community projects
 
   [Details](https://opensource.apple.com/projects/netty) [Website](https://netty.io/)
 
-* Solr
+* Apache Solr
   ==========
 
   Java, Go
