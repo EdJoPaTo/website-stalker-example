@@ -1,4 +1,4 @@
-Last chance to shop holiday gifts. Buy online and choose free two-hour courier delivery or pickup from an Apple Store.<sup class="ribbon-obdb-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/watch/#footnote-obdb">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts)
+Get 3% Daily Cash back with Apple Card. And pay for your new Apple Watch over 24 months, interest‑free when you choose to check out with Apple Card Monthly Installments. [Learn more](https://www.apple.com/apple-card/monthly-installments/)
 
 Apple Watch
 ==========
