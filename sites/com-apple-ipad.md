@@ -172,10 +172,10 @@ Works with
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
- Last-minute gifts for every last one.
+ Get the gift you've always wanted.
 ----------
 
-[Shop now](https://www.apple.com/us/shop/goto/gifts)
+[Shop](https://www.apple.com/us/shop/goto/gifts)
 
 Special carrier deals at Apple
 

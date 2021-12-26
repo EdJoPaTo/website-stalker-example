@@ -193,6 +193,6 @@ Up to 20 hours of listening time with a single charge
 
 [Compare all AirPods models](https://www.apple.com/airpods/compare/)
 
-###  Last-minute gifts for every last one.  ###
+###  Get the gift you’ve always wanted.  ###
 
-[Shop now](https://www.apple.com/us/shop/goto/gifts)
+[Shop](https://www.apple.com/us/shop/goto/gifts)

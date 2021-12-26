@@ -124,6 +124,6 @@ Over 200 incredibly fun games. No ads. No in-app purchases.
 
 [Try it free](https://apps.apple.com/arcade?itscg=10000&itsct=pod-services-arcade-apl-tvhm-21_1019) [Learn more](https://www.apple.com/apple-arcade/)
 
-###  Last-minute gifts for every last one.  ###
+###  Get the gift you've always wanted.  ###
 
-[Shop now](https://www.apple.com/us/shop/goto/gifts)
+[Shop](https://www.apple.com/us/shop/goto/gifts)

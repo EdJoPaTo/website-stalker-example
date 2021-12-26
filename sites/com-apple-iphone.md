@@ -175,9 +175,9 @@ playback
 * [Compare all iPhone models](https://www.apple.com/iphone/compare/)
 * [Shop iPhone](https://www.apple.com/us/shop/goto/buy_iphone)
 
-###  Last-minute gifts for every last one.  ###
+###  Get the gift you've always wanted.  ###
 
-[Shop now](https://www.apple.com/us/shop/goto/gifts)
+[Shop](https://www.apple.com/us/shop/goto/gifts)
 
 Ways to Buy iPhone
 ----------
