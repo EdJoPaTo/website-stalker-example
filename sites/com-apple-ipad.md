@@ -1,8 +1,10 @@
 iPad
 ==========
 
- Get 3% Daily Cash back with Apple Card. And pay for your new iPad over 12 months,
-interest-free when you choose to check out with Apple Card Monthly Installments. [Learn more](https://www.apple.com/apple-card/monthly-installments/)
+ Save 5% on iPad with a new Apple Card
+through January 31.
+Only at Apple.
+Exclusions and terms apply. [Learn more](https://www.apple.com/apple-card/#promotion)
 
 [](https://www.apple.com/ipad-mini/)
 
@@ -188,18 +190,16 @@ Buy an iPad with Wi‑Fi + Cellular. Get up to $200 back after activation.
 
 [Buy iPad mini](https://www.apple.com/us/shop/goto/buy_ipad/ipad_mini)
 
-Get 3%
-Daily Cash
-
- back
-with Apple Card.
+Save 5% on
+ iPad with a new
+Apple Card.
 ----------
 
-And pay over time, interest‑free
-when you choose to check out with
-Apple Card Monthly Installments.
+Shop in stores or online now through January 31. Only at Apple.
+ Exclusions and terms apply.
 
-[Learn more](https://www.apple.com/apple-card/monthly-installments/)
+* [Apply now](https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-200-100025)
+* [Learn more](https://www.apple.com/apple-card/#promotion)
 
 Trade in your current iPad and get credit toward a new one.
 ----------

@@ -1,7 +1,7 @@
 Mac
 ==========
 
-Get 3% Daily Cash back with Apple Card. And pay for your new Mac over 12 months, interest‑free when you choose to check out with Apple Card Monthly Installments. [Learn more](https://www.apple.com/apple-card/monthly-installments/)
+Save 5% on Mac with a new Apple Card through January 31. Only at Apple. Exclusions and terms apply. [Learn more](https://www.apple.com/apple-card/#promotion)
 
 NewMacBook Pro
 ----------
@@ -297,19 +297,17 @@ Maximum configurable storage
 
 [Shop now](https://www.apple.com/us/shop/goto/gifts)
 
-Get 3%
-
-Daily Cash
-back
-with Apple Card.
+Save 5% on
+Mac
+with a new Apple Card.
 ----------
 
-And pay for your new Mac over 12 months,
- interest‑free when you choose to check out
+Shop in stores or online now
+through January 31.
+Only at Apple. Exclusions and terms apply.
 
- with Apple Card Monthly Installments.
-
-[Learn more](https://www.apple.com/apple-card/)
+* [Apply now](https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-200-100026)
+* [Learn more](https://www.apple.com/apple-card/#promotion)
 
 Accessories
 ----------

@@ -1,8 +1,10 @@
 iPhone
 ==========
 
- Get 3% Daily Cash back with Apple Card. And pay for your new iPhone over 24 months,
-interest‑free when you choose to check out with Apple Card Monthly Installments. [Learn more](https://www.apple.com/apple-card/monthly-installments/)
+ Save 5% on iPhone with a new Apple Card
+through January 31.
+Only at Apple.
+Exclusions and terms apply. [Learn more](https://www.apple.com/apple-card/#promotion)
 
 iPhone 13 Pro
 ----------
@@ -216,14 +218,24 @@ It’s good for you and the planet.
 
 [Learn more](https://www.apple.com/us/shop/goto/trade_in)
 
-###  Get 3% Daily
+### Save 5% on
 
-Cash
-back with Apple Card.  ###
+ iPhone
+ with a new
 
- And pay for your new iPhone over 24 months, interest‑free when you choose to check out with Apple Card Monthly Installments.
+ Apple Card.  ###
 
-[Learn more](https://www.apple.com/apple-card/)
+ Shop in stores or online now
+
+ through
+ January 31. Only
+ at Apple.
+
+ Exclusions and
+ terms apply.
+
+* [Apply now](https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-200-100022)
+* [Learn more](https://www.apple.com/apple-card/#promotion)
 
 ### Why Apple is the best place to buy iPhone. ###
 
