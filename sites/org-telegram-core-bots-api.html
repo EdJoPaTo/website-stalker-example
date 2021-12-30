@@ -64,6 +64,139 @@
 						</p>
 					</blockquote>
 					<h4>
+						<a class="anchor" href="#december-30-2021" name="december-30-2021">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						December 30, 2021
+					</h4>
+					<p>
+						<strong>
+							Bot API 5.6
+						</strong>
+					</p>
+					<ul>
+						<li>
+							Improved support for
+							<a href="https://telegram.org/blog/protected-content-delete-by-date-and-more#protected-content-in-groups-and-channels">
+								Protected Content
+							</a>
+							.
+						</li>
+						<li>
+							Added the parameter
+							<em>
+								protect_content
+							</em>
+							to the methods
+							<a href="#sendmessage">
+								sendMessage
+							</a>
+							,
+							<a href="#sendphoto">
+								sendPhoto
+							</a>
+							,
+							<a href="#sendvideo">
+								sendVideo
+							</a>
+							,
+							<a href="#sendanimation">
+								sendAnimation
+							</a>
+							,
+							<a href="#sendaudio">
+								sendAudio
+							</a>
+							,
+							<a href="#senddocument">
+								sendDocument
+							</a>
+							,
+							<a href="#sendsticker">
+								sendSticker
+							</a>
+							,
+							<a href="#sendvideonote">
+								sendVideoNote
+							</a>
+							,
+							<a href="#sendvoice">
+								sendVoice
+							</a>
+							,
+							<a href="#sendlocation">
+								sendLocation
+							</a>
+							,
+							<a href="#sendvenue">
+								sendVenue
+							</a>
+							,
+							<a href="#sendcontact">
+								sendContact
+							</a>
+							,
+							<a href="#sendpoll">
+								sendPoll
+							</a>
+							,
+							<a href="#senddice">
+								sendDice
+							</a>
+							,
+							<a href="#sendinvoice">
+								sendInvoice
+							</a>
+							,
+							<a href="#sendgame">
+								sendGame
+							</a>
+							,
+							<a href="#sendmediagroup">
+								sendMediaGroup
+							</a>
+							,
+							<a href="#copymessage">
+								copyMessage
+							</a>
+							,
+							<a href="#forwardmessage">
+								forwardMessage
+							</a>
+							to allow sending messages with protected content to any chat.
+						</li>
+						<li>
+							Added support for
+							<a href="https://telegram.org/blog/reactions-spoilers-translations#spoilers">
+								spoiler entities
+							</a>
+							, which will work in Telegram versions released after December 30, 2021. Older clients will display
+							<em>
+								unsupported message
+							</em>
+							.
+						</li>
+						<li>
+							Added new
+							<a href="#messageentity">
+								MessageEntity
+							</a>
+							type “spoiler”.
+						</li>
+						<li>
+							Added the ability to specify spoiler entities using
+							<a href="#html-style">
+								HTML
+							</a>
+							and
+							<a href="#markdownv2-style">
+								MarkdownV2
+							</a>
+							formatting options.
+						</li>
+					</ul>
+					<h4>
 						<a class="anchor" href="#december-7-2021" name="december-7-2021">
 							<i class="anchor-icon">
 							</i>
@@ -3275,7 +3408,7 @@
 									String
 								</td>
 								<td>
-									Type of the entity. Can be “mention” (
+									Type of the entity. Currently, can be “mention” (
 									<code>
 										@username
 									</code>
@@ -3311,7 +3444,7 @@
 									<em>
 										italic text
 									</em>
-									), “underline” (underlined text), “strikethrough” (strikethrough text), “code” (monowidth string), “pre” (monowidth block), “text_link” (for clickable text URLs), “text_mention” (for users
+									), “underline” (underlined text), “strikethrough” (strikethrough text), “spoiler” (spoiler message), “code” (monowidth string), “pre” (monowidth block), “text_link” (for clickable text URLs), “text_mention” (for users
 									<a href="https://telegram.org/blog/edit#new-mentions">
 										without usernames
 									</a>
@@ -9559,6 +9692,20 @@
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of sent messages from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -9635,7 +9782,7 @@
 						Formatting options
 					</h4>
 					<p>
-						The Bot API supports basic formatting for messages. You can use bold, italic, underlined and strikethrough text, as well as inline links and pre-formatted code in your bots' messages. Telegram clients will render them accordingly. You can use either markdown-style or HTML-style formatting.
+						The Bot API supports basic formatting for messages. You can use bold, italic, underlined, strikethrough, and spoiler text, as well as inline links and pre-formatted code in your bots' messages. Telegram clients will render them accordingly. You can use either markdown-style or HTML-style formatting.
 					</p>
 					<p>
 						Note that Telegram clients will display an
@@ -9661,11 +9808,15 @@
 						<em>
 							underline
 						</em>
-						and
+						,
 						<em>
 							strikethrough
 						</em>
-						entities can contain and to be contained in any other entities, except
+						, and
+						<em>
+							spoiler
+						</em>
+						entities can contain and can be part of any other entities, except
 						<em>
 							pre
 						</em>
@@ -9720,7 +9871,8 @@
 _italic \*text_
 __underline__
 ~strikethrough~
-*bold _italic bold ~italic bold strikethrough~ __underline italic bold___ bold*
+||spoiler||
+*bold _italic bold ~italic bold strikethrough ||italic bold strikethrough spoiler||~ __underline italic bold___ bold*
 [inline URL](http://www.example.com/)
 [inline mention of a user](tg://user?id=123456789)
 `inline fixed-width code`
@@ -9816,7 +9968,8 @@ pre-formatted fixed-width code block written in the Python programming language
 <i>italic</i>, <em>italic</em>
 <u>underline</u>, <ins>underline</ins>
 <s>strikethrough</s>, <strike>strikethrough</strike>, <del>strikethrough</del>
-<b>bold <i>italic bold <s>italic bold strikethrough</s> <u>underline italic bold</u></i> bold</b>
+<span class="tg-spoiler">spoiler</span>
+<b>bold <i>italic bold <s>italic bold strikethrough <span class="tg-spoiler">italic bold strikethrough spoiler</span></s> <u>underline italic bold</u></i> bold</b>
 <a href="http://www.example.com/">inline URL</a>
 <a href="tg://user?id=123456789">inline mention of a user</a>
 <code>inline fixed-width code</code>
@@ -10077,6 +10230,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the forwarded message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									message_id
 								</td>
 								<td>
@@ -10251,6 +10418,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
 								</td>
 							</tr>
 							<tr>
@@ -10465,6 +10646,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
 								</td>
 							</tr>
 							<tr>
@@ -10748,6 +10943,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -10992,6 +11201,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
 								</td>
 							</tr>
 							<tr>
@@ -11294,6 +11517,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -11570,6 +11807,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -11802,6 +12053,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -12013,6 +12278,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -12176,6 +12455,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent messages from forwarding and saving
 								</td>
 							</tr>
 							<tr>
@@ -12366,6 +12659,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
 								</td>
 							</tr>
 							<tr>
@@ -12946,6 +13253,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -13140,6 +13461,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
 								</td>
 							</tr>
 							<tr>
@@ -13484,6 +13819,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -13658,6 +14007,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding
 								</td>
 							</tr>
 							<tr>
@@ -17954,6 +18317,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
 								</td>
 							</tr>
 							<tr>
@@ -24442,6 +24819,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
+								</td>
+							</tr>
+							<tr>
+								<td>
 									reply_to_message_id
 								</td>
 								<td>
@@ -26935,6 +27326,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										silently
 									</a>
 									. Users will receive a notification with no sound.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									protect_content
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Protects the contents of the sent message from forwarding and saving
 								</td>
 							</tr>
 							<tr>
