@@ -10,7 +10,7 @@ Before you install
 
 We recommend installing BigBlueButton with a ‘clean’ and dedicated Ubuntu 18.04 64-bit server with no prior software installed. If you want to upgrade from BigBlueButton 2.3, you can upgrade your existing server using the bbb-install.sh script and passing `bionic-240` instead of `bionic-230` as a repository.  If you want to upgrade from BigBlueButton 2.2, we recommend setting up a clean server for BigBlueButton 2.4 and, after setup, [migrate over your existing recordings](https://docs.bigbluebutton.org/admin/customize.html#transfer-published-recordings-from-another-server).
 
-A ‘clean’ server does not have any previous web applications installed (such as plesk, webadmin, or apache) that are [binding to port 80/443](https://docs.bigbluebutton.org/support/faq.html#we-recommend-running-bigbluebutton-on-port-80443). By ‘dedicated’ we mean that this server won’t be used for anything else besides BigBlueButton (and possibly BigBlueButton-related applications such as [Greenlight](https://docs.bigbluebutton.org/greenlight/gl-install.html)).
+A ‘clean’ server does not have any previous web servers installed (such as apache) or web applications (such as plesk or webadmin) that are [binding to port 80/443](https://docs.bigbluebutton.org/support/faq.html#we-recommend-running-bigbluebutton-on-port-80443). By ‘dedicated’ we mean that this server won’t be used for anything else besides BigBlueButton (and possibly BigBlueButton-related applications such as [Greenlight](https://docs.bigbluebutton.org/greenlight/gl-install.html)).
 
 Minimum server requirements
 ----------
@@ -25,7 +25,7 @@ For production, we recommend the following minimum requirements
 * TCP ports 80 and 443 are accessible
 * UDP ports 16384 - 32768 are accessible
 * 250 Mbits/sec bandwidth (symmetrical) or more
-* TCP port 80 and 443 are **not** in use by another web application or reverse proxy
+* TCP port 80 and 443 are **not** in use by another web server or reverse proxy
 * A hostname (such as bbb.example.com) for setup of a SSL certificate
 * IPV4 and IPV6 addres
 
