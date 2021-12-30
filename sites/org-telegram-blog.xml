@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Reactions, Spoilers, Translation and QR Codes</title>
+			<link>https://telegram.org/blog/reactions-spoilers-translations</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<a class="dev_blog_card_link_wrap" href="/blog/reactions-spoilers-translations">
+			<div class="dev_blog_card_wrap">
+				<img class="dev_blog_card_image" src="https://telegram.org/file/464001488/d35b/oNi_rR0In0o.124097/c74f7d759893b78bfb">
+				<div class="dev_blog_card_alltext_wrap">
+					<h4 class="dev_blog_card_title">
+						Reactions, Spoilers, Translation and QR Codes
+					</h4>
+					<div class="dev_blog_card_lead">
+						Telegram's 12th update of the year introduces reactions, message translation, themed QR codes, hidden text (spoilers), and more.
+					</div>
+				</div>
+				<div class="dev_blog_card_date">
+					Dec 30, 2021
+				</div>
+			</div>
+		</a>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Protected Content, Delete by Date, Device Management and More</title>
 			<link>https://telegram.org/blog/protected-content-delete-by-date-and-more</link>
 			<content:encoded><![CDATA[<html>
@@ -493,32 +519,6 @@
 				</div>
 				<div class="dev_blog_card_date">
 					Apr 3, 2020
-				</div>
-			</div>
-		</a>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Chat Folders, Archive, Channel Stats and More</title>
-			<link>https://telegram.org/blog/folders</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<a class="dev_blog_card_link_wrap" href="/blog/folders">
-			<div class="dev_blog_card_wrap">
-				<img class="dev_blog_card_image" src="https://telegram.org//file/464001733/2/yIk_VZst65A.206330/2a44567f3f712767a8">
-				<div class="dev_blog_card_alltext_wrap">
-					<h4 class="dev_blog_card_title">
-						Chat Folders, Archive, Channel Stats and More
-					</h4>
-					<div class="dev_blog_card_lead">
-						Many of our users rely on Telegram for their work and studies, even more so in the last weeks. To make sure everyone's chat lists can handle…
-					</div>
-				</div>
-				<div class="dev_blog_card_date">
-					Mar 30, 2020
 				</div>
 			</div>
 		</a>
