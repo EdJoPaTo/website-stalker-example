@@ -7,6 +7,7 @@
 [USB TYPE-C TO USB TYPE-C SILICONE POWER CHARGING CABLE – 1 meter length 3.49](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-meter-length/) 
 [USB TYPE-C TO USB TYPE-C SILICONE POWER CHARGING CABLE – 1.5 meter length 3.99](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/) 
 [Pinecone – BL602 Evaluation Board 3.99](https://pine64.com/product/pinecone-bl602-evaluation-board/) 
+[PineDio USB LoRa Adapter 14.99](https://pine64.com/product/pinedio-usb-lora-adapter/) 
 [Pinenut – 01S USB Programmer 1.99](https://pine64.com/product/pinenut-01s-usb-programmer/) 
 [Pinenut – Model:01S Wifi/BLE5 Module 1.99](https://pine64.com/product/pinenut-model01s-wifi-ble5-module/) 
 [Pinenut – Model:12S Wifi/BLE5 Stamp 1.99](https://pine64.com/product/pinenut-model12s-wifi-ble5-stamp/) 
