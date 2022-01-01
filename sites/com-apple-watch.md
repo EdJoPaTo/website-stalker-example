@@ -162,16 +162,6 @@ Get 3 months free when you
 
 [Learn about Apple Fitness+](https://www.apple.com/apple-fitness-plus/)
 
-Special Carrier Deals at Apple
-----------
-
-Buy an Apple Watch with
- GPS + Cellular.
-
-Get up to $100 back after activation.
-
-[Shop Apple Watch](https://www.apple.com/us/shop/goto/buy_watch)
-
 Get credit toward a new Apple Watch.
 ----------
 
