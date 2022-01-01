@@ -177,19 +177,6 @@ Works with
 
 [Shop](https://www.apple.com/us/shop/goto/gifts)
 
-Special carrier deals at Apple
-
-Buy an iPad with Wi‑Fi + Cellular. Get up to $200 back after activation.
-----------
-
-[Buy iPad Pro](https://www.apple.com/us/shop/goto/ipad_pro/select)
-
-[Buy iPad Air](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
-
-[Buy iPad](https://www.apple.com/us/shop/goto/buy_ipad/ipad_10_2)
-
-[Buy iPad mini](https://www.apple.com/us/shop/goto/buy_ipad/ipad_mini)
-
 Save 5% on
  iPad with a new
 Apple Card.
