@@ -6,6 +6,13 @@ through January 31.
 Only at Apple.
 Exclusions and terms apply. [Learn more](https://www.apple.com/apple-card/#promotion)
 
+Switch to iPhone
+----------
+
+### Switching to iPhone is super simple. ###
+
+[Learn more about switching to iPhone](https://www.apple.com/iphone/switch/)
+
 iPhone 13 Pro
 ----------
 
@@ -296,6 +303,12 @@ Call 1‑800‑MY‑APPLE.
 
 What makes an iPhone an iPhone?
 ----------
+
+### iOS 15 ###
+
+In touch. In the moment.
+
+[Learn moreabout iOS 15](https://www.apple.com/ios/ios-15/)
 
 ### iOS 15 ###
 
