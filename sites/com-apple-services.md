@@ -4,7 +4,7 @@ The best
 experiences. Only on Apple.
 ==========
 
-Get the most out of the devices you love with high‑quality content and services. Award‑winning shows and movies, amazing music in spatial audio, world-class workouts and meditations, trusted news publications, superfun games —
+Get the most out of the devices you love with high‑quality content and services. Award‑winning series and films, amazing music in spatial audio, world-class workouts and meditations, trusted news publications, superfun games —
 even the ways you pay for things. And they’re only on Apple.
 
 Apple TV+
