@@ -192,7 +192,3 @@ Lightning charging
 Up to 20 hours of listening time with a single charge
 
 [Compare all AirPods models](https://www.apple.com/airpods/compare/)
-
-###  Get the gift you’ve always wanted.  ###
-
-[Shop](https://www.apple.com/us/shop/goto/gifts)

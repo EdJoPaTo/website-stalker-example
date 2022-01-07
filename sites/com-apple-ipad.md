@@ -172,11 +172,6 @@ Works with
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
- Get the gift you've always wanted.
-----------
-
-[Shop](https://www.apple.com/us/shop/goto/gifts)
-
 Save 5% on
  iPad with a new
 Apple Card.

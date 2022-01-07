@@ -293,10 +293,6 @@ Maximum configurable storage
 
 [Compare all Mac models](https://www.apple.com/mac/compare/) [Shop Mac](https://www.apple.com/us/shop/goto/buy_mac)
 
-###  Get the gift you've always wanted.  ###
-
-[Shop](https://www.apple.com/us/shop/goto/gifts)
-
 Save 5% on
 Mac
 with a new Apple Card.
