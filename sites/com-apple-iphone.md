@@ -191,7 +191,7 @@ Ways to Buy iPhone
 
 ### Special carrier deals at Apple ###
 
-Save up to $1000 on
+Save up to $800 on
 the newest
 
 iPhone
@@ -199,7 +199,7 @@ iPhone
 
 #### AT&T  ####
 
-Save up to $1000
+Save up to $800
 
 #### T-Mobile/Sprint, now part of T-Mobile  ####
 
