@@ -2,7 +2,6 @@
 
 [Ideen zum Schutz der Umwelt](https://www.wdrmaus.de/extras/mausthemen/umwelt/index.php5)
 
-* [Öffne jeden Tag ein Türchen](https://www.wdrmaus.de/extras/mausthemen/adventskalender/2021/index.php5)
 * [Die ersten Schneeflocken sind unterwegs](https://www.wdrmaus.de/extras/mausthemen/polarstern/index.php5)
 * [Die Olympische Spiele in Tokio](https://www.wdrmaus.de/extras/mausthemen/olympia/index.php5)
 * [Was ist jetzt wichtig?](https://www.wdrmaus.de/extras/mausthemen/corona/index.php5)
@@ -43,4 +42,4 @@ Reisen
 * [Wissen macht Ah!](http://www.wissenmachtah.de/)
 * [KiRaKa Dein Entdeckerradio](http://www.kiraka.de/)
 
-[©WDR 2021](https://www.wdrmaus.de/copyright.php5) | [Datenschutz](https://www.wdrmaus.de/datenschutz.php5)
+[©WDR 2022](https://www.wdrmaus.de/copyright.php5) | [Datenschutz](https://www.wdrmaus.de/datenschutz.php5)
