@@ -172,6 +172,7 @@
 * [Euroherstellung](https://www.wdrmaus.de/filme/sachgeschichten/euroherstellung.php5)
 * [Europalette](https://www.wdrmaus.de/filme/sachgeschichten/europalette.php5)
 * [Fagott-Mundstück](https://www.wdrmaus.de/filme/sachgeschichten/fagott_mundstueck.php5)
+* [Fahrbahnstreifen](https://www.wdrmaus.de/filme/sachgeschichten/fahrbahnstreifen.php5)
 * [Fahrlader](https://www.wdrmaus.de/filme/sachgeschichten/fahrlader.php5)
 * [Fahrrad korrigiert](https://www.wdrmaus.de/filme/sachgeschichten/fahrrad_korrigiert.php5)
 * [Fahrradbau (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/fahrradbau_teil1.php5)
