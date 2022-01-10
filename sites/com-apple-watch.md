@@ -156,7 +156,7 @@ Get 3 months free when you
 
 [Shop Apple Watch](https://www.apple.com/us/shop/goto/buy_watch)
 
-[Learn about Apple Fitness+](https://www.apple.com/apple-fitness-plus/)
+[Learn about Apple Fitness+](https://www.apple.com/apple-fitness-plus/) [See what’s new](https://www.apple.com/apple-fitness-plus/)
 
 Get credit toward a new Apple Watch.
 ----------
