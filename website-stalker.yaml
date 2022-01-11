@@ -328,3 +328,22 @@ sites:
             - css_remove: h2, .icon-button-list, .show-more-button
             - html_url_canonicalize
             - html_prettify
+  - url: https://purpose-economy.org/en/
+    editors:
+      - css_remove: style, script, img
+      - html_markdownify
+  - url:
+      - https://purpose-economy.org/en/media-press/
+      - https://purpose-economy.org/en/ressources/
+    editors:
+      - css_select: main
+      - css_remove: style, script, img
+      - html_markdownify
+  - url: https://purpose-economy.org/en/companies/
+    editors:
+      - css_select: article
+      - css_remove: .teaser_image, .teaser_link_text
+      - html_markdownify
+      - regex_replace:
+          pattern: \) \[
+          replace: ")\n["
