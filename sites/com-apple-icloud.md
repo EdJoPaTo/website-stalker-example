@@ -1,9 +1,6 @@
 iCloud
 ==========
 
-Upgrade to iCloud+ for more powerful features and storage.
- Starting at just $0.99/mo. [Learn more](https://www.apple.com/icloud/#plus)
-
 The best place for all your photos, files, and more.
 ----------
 

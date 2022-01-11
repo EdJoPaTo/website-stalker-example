@@ -1,5 +1,3 @@
-Save 5% on Apple Watch with a new Apple Card through January 31. Only at Apple. Exclusions and terms apply. [Learn more](https://www.apple.com/apple-card/#promotion)
-
 Apple Watch
 ==========
 

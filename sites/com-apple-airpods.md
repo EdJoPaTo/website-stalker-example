@@ -1,8 +1,6 @@
 AirPods
 ==========
 
-Get 6 months of Apple Music free with your AirPods. [Learn more](https://offers.applemusic.apple/six-month-offer)
-
 New
 
 AirPods

@@ -1,5 +1,3 @@
-Get up to six services in one subscription with Apple One. [Learn more](https://www.apple.com/apple-one/)
-
 The best
 experiences. Only on Apple.
 ==========

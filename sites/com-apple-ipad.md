@@ -1,11 +1,6 @@
 iPad
 ==========
 
- Save 5% on iPad with a new Apple Card
-through January 31.
-Only at Apple.
-Exclusions and terms apply. [Learn more](https://www.apple.com/apple-card/#promotion)
-
 [](https://www.apple.com/ipad-mini/)
 
 New iPad mini

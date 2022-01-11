@@ -144,7 +144,7 @@ sites:
       - "https://opensource.apple.com/projects/"
     editors:
       - css_select: main
-      - css_remove: noscript, img, picture, .footnote
+      - css_remove: noscript, img, picture, .footnote, .ribbon
       - html_url_canonicalize
       - html_markdownify
   - url:
