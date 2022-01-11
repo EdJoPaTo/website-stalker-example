@@ -6,6 +6,21 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>windows-latest workflows will use Windows Server 2022</title>
+			<link>https://github.com/actions/virtual-environments/issues/4856</link>
+			<pubDate>Tue, 11 Jan 2022 11:33:05 +0000</pubDate>
+			<content:encoded><![CDATA[Announcement
+
+OS: Windows
+
+#4856
+opened
+Jan 11, 2022
+by
+
+miketimofeev]]></content:encoded>
+		</item>
+		<item>
 			<title>[All OSs] Az PowerShell Module will be upgraded to 7.1.0 on January, 17</title>
 			<link>https://github.com/actions/virtual-environments/issues/4841</link>
 			<pubDate>Thu, 06 Jan 2022 21:48:25 +0000</pubDate>
