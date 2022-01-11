@@ -1,15 +1,15 @@
 iCloud
 ==========
 
+Upgrade to iCloud+ for more powerful features and storage.
+ Starting at just $0.99/mo. [Learn more](https://www.apple.com/icloud/#plus)
+
 The best place for all your photos, files, and more.
 ----------
 
 iCloud is built into every Apple device. That means all your stuff — photos, files, notes, and more — is safe, up to date, and available wherever you are. Everyone gets 5GB of free iCloud storage to start. And you can upgrade to iCloud+ anytime for powerful new features and more storage.
 
 [Upgrade to iCloud+](https://icq.icloud.com/?context=ZXh0ZXJuYWxBcHBfY29tLmFwcGxlLm1vYmlsZXNhZmFyaV9hcHBsZS5jb20=)
-
-Upgrade to iCloud+ for more powerful features and storage.
- Starting at just $0.99/mo. [Learn more](https://www.apple.com/icloud/#plus)
 
 iCloud Photos
 ----------
