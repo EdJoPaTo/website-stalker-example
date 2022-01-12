@@ -14,11 +14,11 @@ For more information about our strategy and reasoning pertaining to device and p
 
  **Updated:**
 
-*December 3, 2021*
+*January 12, 2022*
 
 #### PinePhone (2GB/16GB & 3GB/32GB) ####
 
- 17 %
+ 34 %
 
 **Estimated availability**
 
@@ -26,15 +26,15 @@ Continued availability throughout 2021/ 2022
 
 #### PineNote (Dev Units) ####
 
- 70 %
+ 59 %
 
 **Estimated availability**
 
 Continued availability throughout 2022
 
-#### PinePhone Pro (Dev Units) ####
+#### PinePhone Pro Explorer Edition ####
 
- 0 %
+ 66 %
 
 **Estimated availability**
 
@@ -46,7 +46,7 @@ Continued availability throughout 2022
 
 **Estimated availability**
 
-4GB model in stock; continued availability throughout 2022
+Continued availability throughout 2022
 
 #### Quartz64 A & B (2GB/4GB/8GB) ####
 
@@ -54,11 +54,11 @@ Continued availability throughout 2022
 
 **Estimated availability**
 
-Continued availability throughout 2021/ 2022
+Continued availability throughout 2022
 
 #### SOPine ####
 
- 16 %
+ 0 %
 
 **Estimated availability**
 
@@ -66,19 +66,19 @@ Spotty availability until late Q1 2022
 
 #### PineTime (sealed, twin pack, dev kit) ####
 
- 40 %
+ 26 %
 
 **Estimated availability**
 
-Continued availability throughout 2021 / 2022
+Continued availability throughout 2022
 
 #### Pinecil ####
 
- 76 %
+ 21 %
 
 **Estimated availability**
 
-Continued availability throughout 2021/ 2022
+Continued availability throughout 2022
 
 #### SOQuartz ####
 
@@ -86,7 +86,7 @@ Continued availability throughout 2021/ 2022
 
 **Estimated availability**
 
-Continued availability throughout 2021/ 2022
+Continued availability throughout 2022
 
 #### PineTab ####
 
@@ -94,7 +94,7 @@ Continued availability throughout 2021/ 2022
 
 **Estimated availability**
 
-Q1 2022 – after CNY
+Q1 2022 (after CNY)
 
 #### Pinebook Pro ####
 
@@ -102,12 +102,26 @@ Q1 2022 – after CNY
 
 **Estimated availability**
 
-Q1 2022 – after CNY
+Q1 2022 (after CNY)
 
-### **Shipping status updates (Batch sold devices only)**
+#### PinePhone (Pro) keyboard case ####
+
+ 59 %
+
+**Estimated availability**
+
+Continued availability throughout 2022
+
+### **Shipping status updates**
  ###
 
 #### PinePhone ####
+
+[January 12, 2022]()
+
+Global shipment: PinePhones ordered in period late December – late January, 2022 ship out late January.
+
+EU shipment: orders dispatched weekly.
 
 [December 3, 2021]()
 
@@ -183,7 +197,15 @@ All units shipped.
 
 Pinebook Pro shipment is ongoing. Units with DHL out for delivery.
 
-#### PinePhone Pro ####
+#### PinePhone Pro  ####
+
+[January 12, 2022]()
+
+Global shipment of PinePhone Pro Explorer edition:
+
+Orders placed between January 11-17 ship out late January
+
+Orders placed on January 18 and later ship out late February / early March
 
 [December 3, 2021]()
 
@@ -193,11 +215,29 @@ Expect email/ SMS from DHL soon.
 
 #### PineNote ####
 
+[January 12, 2022]()
+
+Ongoing shipment of PineNote dev units.
+
+Next shipment scheduled for late January 2022
+
+Orders placed after January 18 will ship in late February
+
 [December 3, 2021]()
 
 PineNote Dev Edition dispatched – en route to Hong Kong for DHL pick-up.
 
 Expect email/ SMS from DHL soon.
+
+#### PinePhone (Pro) keyboard ####
+
+[January 12, 2022]()
+
+Ongoing shipment of PinePhone/ PinePhone Pro keyboard case.
+
+Orders ship continually until late January.
+
+Orders placed in late January and throughout February will ship in late February or early March
 
 **Join the discussion on the ongoing shipping on the** [PINE64 forum](https://forum.pine64.org/showthread.php?tid=14063)
 
