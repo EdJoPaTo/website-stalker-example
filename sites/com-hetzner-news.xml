@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>CPU performance redefined: The EX100 with Intel® Core™ i9-12900K processor</title>
+			<link>https://www.hetzner.com/news/12-21-ex100/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					12. January 2022
+				</small>
+			</p>
+			<h4>
+				CPU performance redefined: The EX100 with Intel® Core™ i9-12900K processor
+			</h4>
+			<p class="list-card-preview">
+				We are now expanding our EX line with the Dedicated Root Server EX100, which houses the Intel® Core™ i9-12900K processor from Intel's new "Alder Lake-S" generation.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/12-21-ex100/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>IPv6 only option for dedicated root servers</title>
 			<link>https://www.hetzner.com/news/12-21-ipv6-only/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				From virtualization to content creation — nothing stands between you and the horizon with our new Dedicated Root Server AX101.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/02-21-ax101/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>The new storage giants — Perfect for large amounts of data</title>
-			<link>https://www.hetzner.com/news/01-21-storage-server/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					18. January 2021
-				</small>
-			</p>
-			<h4>
-				The new storage giants — Perfect for large amounts of data
-			</h4>
-			<p class="list-card-preview">
-				Do you need a large amount of secure storage resources for your sensitive data? Our line of high-capacity fifth-generation storage servers are waiting for you.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/01-21-storage-server/">
 				Show more
 			</a>
 		</li>
