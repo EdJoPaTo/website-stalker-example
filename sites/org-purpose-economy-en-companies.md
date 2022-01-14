@@ -11,7 +11,7 @@
 [somigo ---------- 12/2021 | Business consultancy, Cologne, Startup](https://purpose-economy.org/en/companies/somigo/)
 [NIDISI ---------- 01/2022](https://purpose-economy.org/en/companies/nidisi/)
 [one4good ---------- 08/2021 | Startup, Platform, Munich](https://purpose-economy.org/en/companies/one4good/)
-[Fair Trade Power ---------- 10/2021 | climate protection, renewable energies, Berlin, Startup, Munich](https://purpose-economy.org/en/companies/fairtradepower/)
+[Fair Trade Power ---------- 01/2022 | climate protection, renewable energies, Berlin, Startup, Munich](https://purpose-economy.org/en/companies/fairtradepower/)
 [pack&satt ---------- 12/2021 | Cologne, Food&Ag, Startup](https://purpose-economy.org/en/companies/packsatt/)
 [Planetgroups ---------- 04/2021 | climate protection, Business consultancy, Berlin, Startup, London](https://purpose-economy.org/en/companies/planetgroups/)
 [ARCHE Naturprodukte GmbH ---------- 06/2021 | Food&Ag, Mature, Hilden](https://purpose-economy.org/en/companies/arche-naturprodukte/)
