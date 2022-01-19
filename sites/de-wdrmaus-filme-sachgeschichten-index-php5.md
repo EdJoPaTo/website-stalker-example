@@ -223,6 +223,7 @@
 * [Frankreich-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/frankreich_spezial.php5)
 * [Freiformschmiede](https://www.wdrmaus.de/filme/sachgeschichten/freiformschmiede.php5)
 * [Früher-Heute-Geschichten: Brötchen](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_broetchen.php5)
+* [Früher-Heute-Geschichten: Brötchen (DGS)](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_broetchen_dgs.php5)
 * [Früher-Heute-Geschichten: Eine Woche Müll von 66 Familien](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_eine_woche_muell.php5)
 * [Früher-Heute-Geschichten: Im Auto hinten sitzen](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_im_auto_hinten_sitzen.php5)
 * [Früher-Heute-Geschichten: Kohle und Sonne](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_kohle_und_sonne.php5)
