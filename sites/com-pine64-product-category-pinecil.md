@@ -4,7 +4,6 @@
 [PINECIL Break Out Board 3.99](https://pine64.com/product/pinecil-break-out-board/) 
 [PINECIL Portable Mini Stand 1.99](https://pine64.com/product/pinecil-portable-mini-stand/) 
 [PINECIL Replacement Tip Contacts 1.00](https://pine64.com/product/pinecil-copper-clips/) 
-[PINECIL Preheater Hammerhead Tip 24.99](https://pine64.com/product/pinecil-preheater-hammer-head-tip/) 
 [PINECIL Replacement Shell – Black Color 5.99](https://pine64.com/product/pinecil-shell-black-color/) 
 [PINECIL Replacement Shell – Red Color 5.99](https://pine64.com/product/pinecil-replacement-shell-red-color/) 
 [PINECIL Replacement Shell – Transparent 5.99](https://pine64.com/product/pinecil-replacement-shell-transparent/) 
