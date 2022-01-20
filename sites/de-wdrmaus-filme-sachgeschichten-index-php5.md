@@ -285,6 +285,7 @@
 * [Heizung](https://www.wdrmaus.de/filme/sachgeschichten/heizung.php5)
 * [Helilandeplatz](https://www.wdrmaus.de/filme/sachgeschichten/helilandeplatz.php5)
 * [Hermannsdenkmal](https://www.wdrmaus.de/filme/sachgeschichten/hermansdenkmal.php5)
+* [Herr Wehrli räumt auf: Bruegel](https://www.wdrmaus.de/filme/sachgeschichten/herr_wehrli_raeumt_auf_bruegel.php5)
 * [Herr Wehrli räumt auf: Gogh](https://www.wdrmaus.de/filme/sachgeschichten/herr_wehrli_raeumt_auf_van_gogh.php5)
 * [Herr Wehrli räumt auf: Kandinsky](https://www.wdrmaus.de/filme/sachgeschichten/herr_wehrli_raeumt_auf_kandinsky.php5)
 * [Herr Wehrli räumt auf: Magritte](https://www.wdrmaus.de/filme/sachgeschichten/herr_wehrli_raeumt_auf_magritte.php5)
