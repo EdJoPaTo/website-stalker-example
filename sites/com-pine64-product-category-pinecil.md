@@ -1,4 +1,4 @@
-[PINECIL – Smart Mini Portable Soldering Iron 25.99](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) 
+[PINECIL – Smart Mini Portable Soldering Iron [Schedule back in stock on February 10, 2022] 25.99](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) 
 [USB TYPE-C TO USB TYPE-C SILICONE POWER CHARGING CABLE – 1 meter length 3.49](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-meter-length/) 
 [USB TYPE-C TO USB TYPE-C SILICONE POWER CHARGING CABLE – 1.5 meter length 3.99](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/) 
 [PINECIL Break Out Board 3.99](https://pine64.com/product/pinecil-break-out-board/) 
