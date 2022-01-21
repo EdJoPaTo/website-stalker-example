@@ -374,6 +374,7 @@
 * [Kresse](https://www.wdrmaus.de/filme/sachgeschichten/kresse.php5)
 * [Kriminalistik](https://www.wdrmaus.de/filme/sachgeschichten/kriminalistik.php5)
 * [Krötenzaun](https://www.wdrmaus.de/filme/sachgeschichten/kroetenzaun.php5)
+* [Krötenzaun (DGS)](https://www.wdrmaus.de/filme/sachgeschichten/kroetenzaun_dgs.php5)
 * [Kronkorken](https://www.wdrmaus.de/filme/sachgeschichten/kronkorken.php5)
 * [Kronkorkenzacken](https://www.wdrmaus.de/filme/sachgeschichten/kronkorkenzacken.php5)
 * [Kronleuchter](https://www.wdrmaus.de/filme/sachgeschichten/kronleuchter.php5)
