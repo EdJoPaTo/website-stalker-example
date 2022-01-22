@@ -65,6 +65,7 @@ sites:
   - url: "https://raspi.debian.net/tested-images/"
     editors:
       - css_select: "#content"
+      - css_remove: .filedata
       - html_prettify
   - url: "https://files.teamspeak-services.com/releases/server/"
     editors:
