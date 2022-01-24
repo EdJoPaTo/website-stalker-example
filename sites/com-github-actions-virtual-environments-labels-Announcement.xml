@@ -42,29 +42,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>[All OSs] Az PowerShell Module will be upgraded to 7.1.0 on January, 17</title>
-			<link>https://github.com/actions/virtual-environments/issues/4841</link>
-			<pubDate>Thu, 06 Jan 2022 21:48:25 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-Area: Scripting and command line
-
-awaiting-deployment
-
-OS: macOS
-
-OS: Ubuntu
-
-OS: Windows
-
-#4841
-opened
-Jan 6, 2022
-by
-
-MaksimZhukov]]></content:encoded>
-		</item>
-		<item>
 			<title>[macOS] Default Xcode on Big Sur image will be set to Xcode 13.2.1 on January, 24</title>
 			<link>https://github.com/actions/virtual-environments/issues/4800</link>
 			<pubDate>Thu, 23 Dec 2021 14:43:02 +0000</pubDate>
