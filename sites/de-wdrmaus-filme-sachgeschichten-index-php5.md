@@ -455,7 +455,7 @@
 * [Mein Gebet: Judentum](https://www.wdrmaus.de/filme/sachgeschichten/mein_gebet_judentum.php5)
 * [Meisenknödel](https://www.wdrmaus.de/filme/sachgeschichten/meisenknoedel.php5)
 * [Melkroboter](https://www.wdrmaus.de/filme/sachgeschichten/melkroboter.php5)
-* [Microfasertuch](https://www.wdrmaus.de/filme/sachgeschichten/microfasertuch.php5)
+* [Mikrofasertuch](https://www.wdrmaus.de/filme/sachgeschichten/microfasertuch.php5)
 * [Mikrofon-Kamera](https://www.wdrmaus.de/filme/sachgeschichten/mikrofon_kamera.php5)
 * [Mikrowelle](https://www.wdrmaus.de/filme/sachgeschichten/mikrowelle.php5)
 * [Milch](https://www.wdrmaus.de/filme/sachgeschichten/milch.php5)
