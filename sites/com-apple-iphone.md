@@ -15,6 +15,7 @@ Oh. So. Pro.
 
 * [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13_pro)
 * [Learn more](https://www.apple.com/iphone-13-pro/)
+* [Learn more](https://www.apple.com/iphone-13-pro/key-features/)
 
 ### See it from every angle. ###
 
@@ -32,6 +33,7 @@ Your new superpower.
 
 * [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13)
 * [Learn more](https://www.apple.com/iphone-13/)
+* [Learn more](https://www.apple.com/iphone-13/key-features/)
 
 ### See it from every angle. ###
 
@@ -54,6 +56,8 @@ Which iPhone is right for you?
 
 [](https://www.apple.com/iphone-13-pro/)
 
+[](https://www.apple.com/iphone-13-pro/key-features/)
+
 ### New iPhone 13 Pro  ###
 
 The ultimate iPhone.
@@ -61,6 +65,8 @@ The ultimate iPhone.
 [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13_pro)
 
 [Learn more](https://www.apple.com/iphone-13-pro/)
+
+[Learn more](https://www.apple.com/iphone-13-pro/key-features/)
 
 [View in AR](https://www.apple.com/105/media/us/iphone/2021/ee60dffb-9cc8-4079-985e-ce5159ac2589/quick-look/iphone-13-pro/iphone_13_pro_iphone_13_pro_max_sierra_blue_5G_ios15.usdz)
 
@@ -86,6 +92,8 @@ Compatible with MagSafe accessories
 
 [](https://www.apple.com/iphone-13/)
 
+[](https://www.apple.com/iphone-13/key-features/)
+
 ### New iPhone 13  ###
 
 A total powerhouse.
@@ -93,6 +101,8 @@ A total powerhouse.
 [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13)
 
 [Learn more](https://www.apple.com/iphone-13/)
+
+[Learn more](https://www.apple.com/iphone-13/key-features/)
 
 [View in AR](https://www.apple.com/105/media/us/iphone/2021/ee60dffb-9cc8-4079-985e-ce5159ac2589/quick-look/iphone-13/iphone_13_mini_iphone_13_pink_5G_ios15.usdz)
 
@@ -117,11 +127,15 @@ Compatible with MagSafe accessories
 
 [](https://www.apple.com/iphone-12/key-features/)
 
+[](https://www.apple.com/iphone-12/key-features/)
+
 ### iPhone 12  ###
 
 As amazing as ever.
 
 [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_12)
+
+[Learn more](https://www.apple.com/iphone-12/key-features/)
 
 [Learn more](https://www.apple.com/iphone-12/key-features/)
 
@@ -146,12 +160,16 @@ Compatible with MagSafe accessories
 
 [](https://www.apple.com/iphone-se/)
 
+[](https://www.apple.com/iphone-se/)
+
 ### iPhone SE  ###
 
 Lots to love.
 Less to spend.
 
 [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
+
+[Learn more](https://www.apple.com/iphone-se/)
 
 [Learn more](https://www.apple.com/iphone-se/)
 
