@@ -28,7 +28,7 @@ Open source software is at the heart of Apple platforms and developer tools. App
 
   FoundationDB is a distributed key-value store that provides strong ACID transactions while scaling to support massive workloads.
 
-  [Details](https://opensource.apple.com/projects/foundationdb) [Website](https://foundationdb.org/)
+  [Details](https://opensource.apple.com/projects/foundationdb) [Website](https://www.foundationdb.org/)
 
 * ResearchKit
   ==========
@@ -37,7 +37,7 @@ Open source software is at the heart of Apple platforms and developer tools. App
 
   ResearchKit is an open source framework that allows developers and researchers to create powerful apps for medical research.
 
-  [Details](https://opensource.apple.com/projects/researchkit) [Website](https://www.researchandcare.org/)
+  [Details](https://opensource.apple.com/projects/researchkit) [Website](https://www.researchandcare.org/researchkit/)
 
 * CareKit
   ==========
@@ -46,7 +46,7 @@ Open source software is at the heart of Apple platforms and developer tools. App
 
   CareKit is an open source framework for creating apps that help people better understand and manage their care plans and communication with their care team.
 
-  [Details](https://opensource.apple.com/projects/carekit) [Website](https://www.researchandcare.org/)
+  [Details](https://opensource.apple.com/projects/carekit) [Website](https://www.researchandcare.org/carekit/)
 
 * Password Manager Resources
   ==========
