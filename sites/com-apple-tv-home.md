@@ -86,7 +86,7 @@ Turn up the heat or keep your cool with temperature controls and fans.
 
 [Shop Thermostats](https://www.apple.com/us/shop/goto/accessories/homekit?page=1&f=thermostat&fh=482b%2B465a)
 
-ecobee3 lite Smart Thermostat
+ecobee SmartThermostat with Voice Control
 
 #### Entry ####
 
