@@ -26,7 +26,7 @@
 [unternehmen mitte ---------- 06/2021 | Basel, Culture, Mature, Platform](https://purpose-economy.org/en/companies/unternehmenmitte/)
 [Nevi GmbH ---------- 06/2020 | Startup, Görlitz, Consumer products](https://purpose-economy.org/en/companies/nevi/)
 [VERTRAGSWERK ---------- 03/2021 | Startup, Business Solutions, Dresden](https://purpose-economy.org/en/companies/vertragswerk/)
-[Payactive ---------- 11/2020 | Startup, Dresden, FinTech](https://purpose-economy.org/en/companies/payactive/)
+[Payactive ---------- 01/2022 | Startup, Dresden, FinTech](https://purpose-economy.org/en/companies/payactive/)
 [PranaHaus GmbH ---------- 06/2020 | Mature, E-Commerce, Riegel](https://purpose-economy.org/en/companies/pranahaus/)
 [Räubersachen ---------- 06/2020 | Startup, E-Commerce, Halle](https://purpose-economy.org/en/companies/raubersachen/)
 [your.company ---------- 03/2021 | Startup, Platform, Business Solutions](https://purpose-economy.org/en/companies/your-company/)
