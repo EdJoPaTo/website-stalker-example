@@ -121,20 +121,5 @@ by
 
 miketimofeev]]></content:encoded>
 		</item>
-		<item>
-			<title>macOS-latest workflows will use macOS-11</title>
-			<link>https://github.com/actions/virtual-environments/issues/4060</link>
-			<pubDate>Fri, 10 Sep 2021 11:57:28 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-OS: macOS
-
-#4060
-opened
-Sep 10, 2021
-by
-
-miketimofeev]]></content:encoded>
-		</item>
 	</channel>
 </rss>
