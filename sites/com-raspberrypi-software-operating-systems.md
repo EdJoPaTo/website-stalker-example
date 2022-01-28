@@ -23,39 +23,45 @@ Compatible with:
 
 ### Raspberry Pi OS with desktop ###
 
-* Release date: October 30th 2021
+* Release date: January 28th 2022
+* System: 32-bit
 * Kernel version: 5.10
-* Size: 1,148MB
+* Debian version: 11 (bullseye)
+* Size: 1,246MB
 
-Show SHA256 file integrity hash:6e9faca69564c47702d4564b2b15997b87d60483aceef7905ef20ba63b9c6b2b
+Show SHA256 file integrity hash:a67e372dc8b3a66a00756b13031cb0be894483fc45ee9a27a2fc1bf2720eddeb
 
 [Release notes](https://downloads.raspberrypi.org/raspios_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf.zip.torrent)
+[Download](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf.zip.torrent)[Archive](https://downloads.raspberrypi.org/raspios_armhf/images/)
 
 ### Raspberry Pi OS with desktop and recommended software ###
 
-* Release date: October 30th 2021
+* Release date: January 28th 2022
+* System: 32-bit
 * Kernel version: 5.10
-* Size: 3,045MB
+* Debian version: 11 (bullseye)
+* Size: 3,267MB
 
-Show SHA256 file integrity hash:77952abf31ed745275d5d20180f60dac7328f95fafbb9b83a91d1b350fc3ad76
+Show SHA256 file integrity hash:cfe1aca4190beb5803ecbe4125891d32ef38a11df85d06a6b3db364225f9cc96
 
 [Release notes](https://downloads.raspberrypi.org/raspios_full_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip.torrent)
+[Download](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-full.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-full.zip.torrent)[Archive](https://downloads.raspberrypi.org/raspios_full_armhf/images/)
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: October 30th 2021
+* Release date: January 28th 2022
+* System: 32-bit
 * Kernel version: 5.10
-* Size: 463MB
+* Debian version: 11 (bullseye)
+* Size: 482MB
 
-Show SHA256 file integrity hash:008d7377b8c8b853a6663448a3f7688ba98e2805949127a1d9e8859ff96ee1a9
+Show SHA256 file integrity hash:f6e2a3e907789ac25b61f7acfcbf5708a6d224cf28ae12535a2dc1d76a62efbc
 
 [Release notes](https://downloads.raspberrypi.org/raspios_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-lite.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-lite.zip.torrent)
+[Download](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip.torrent)[Archive](https://downloads.raspberrypi.org/raspios_lite_armhf/images/)
 
 Raspberry Pi OS (Legacy)
 ----------
@@ -69,27 +75,31 @@ Compatible with:
 
 ### Raspberry Pi OS (Legacy) with desktop ###
 
-* Release date: December 2nd 2021
+* Release date: January 28th 2022
+* System: 32-bit
 * Kernel version: 5.10
-* Size: 1,115MB
+* Debian version: 10 (buster)
+* Size: 1,116MB
 
-Show SHA256 file integrity hash:77691119762302fcf6ad93e101c25573f21ac4d554244ec5d891b70c5d99a1d5
+Show SHA256 file integrity hash:281914c65cffd855feda798276185d9f1925eabb0f2d2b0321d4c6398dad69c0
 
 [Release notes](https://downloads.raspberrypi.org/raspios_oldstable_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2021-12-02/2021-12-02-raspios-buster-armhf.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2021-12-02/2021-12-02-raspios-buster-armhf.zip.torrent)
+[Download](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2022-01-28/2022-01-28-raspios-buster-armhf.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2022-01-28/2022-01-28-raspios-buster-armhf.zip.torrent)[Archive](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/)
 
 ### Raspberry Pi OS Lite (Legacy) ###
 
-* Release date: December 2nd 2021
+* Release date: January 28th 2022
+* System: 32-bit
 * Kernel version: 5.10
-* Size: 450MB
+* Debian version: 10 (buster)
+* Size: 451MB
 
-Show SHA256 file integrity hash:9276d71a4793accb4e29ad337f58865fcb92f831716305fc93adf0adb4784129
+Show SHA256 file integrity hash:84c7d41b6d0a9fc8e6163045842a1bae7cc57cef36808d3d350fdf18e9b3f50e
 
 [Release notes](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2021-12-02/2021-12-02-raspios-buster-armhf-lite.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2021-12-02/2021-12-02-raspios-buster-armhf-lite.zip.torrent)
+[Download](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2022-01-28/2022-01-28-raspios-buster-armhf-lite.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2022-01-28/2022-01-28-raspios-buster-armhf-lite.zip.torrent)[Archive](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/)
 
 Raspberry Pi Desktop
 ----------
@@ -101,12 +111,14 @@ Compatible with:
 ### Debian Buster with Raspberry Pi Desktop ###
 
 * Release date: January 11th 2021
+* System: 32-bit
 * Kernel version: 4.19
+* Debian version: 10 (buster)
 * Size: 2,948MB
 
 Show SHA256 file integrity hash:c78c8dca8ca80ffbac90f4cedfedb6793b37b06df307b0c87e778eef3842a9be
 
-[Download](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso)[Download torrent](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso.torrent)
+[Download](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso)[Download torrent](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso.torrent)[Archive](https://downloads.raspberrypi.org/rpd_x86/images/)
 
 Third-party software
 ----------
