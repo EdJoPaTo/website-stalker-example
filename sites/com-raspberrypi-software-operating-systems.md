@@ -60,8 +60,8 @@ Show SHA256 file integrity hash:008d7377b8c8b853a6663448a3f7688ba98e2805949127a1
 Raspberry Pi OS (Legacy)
 ----------
 
-A stable legacy version of Raspberry Pi OS Buster for people who need the Raspicam apps, the Picamera Python library, or OMXPlayer.
-Not sure which version to download? Read [this](/news/new-old-functionality-with-raspberry-pi-os-legacy/) to help you decide.
+A stable legacy version of Raspberry Pi OS Buster.
+[Not sure which version to download?](/news/new-old-functionality-with-raspberry-pi-os-legacy/)
 
 Compatible with:
 
