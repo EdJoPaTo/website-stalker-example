@@ -14,6 +14,7 @@
 * [API](https://docs.bigbluebutton.org/dev/api.html)
 * [Recording](https://docs.bigbluebutton.org/dev/recording.html)
 * Administration
+* [Cluster Proxy Setup](https://docs.bigbluebutton.org/admin/clusterproxy.html)
 * [Monitoring](https://docs.bigbluebutton.org/admin/monitoring.html)
 * [Privacy](https://docs.bigbluebutton.org/admin/privacy.html)
 * [Configure TURN](https://docs.bigbluebutton.org/admin/setup-turn-server.html)
