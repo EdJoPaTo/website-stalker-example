@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.17.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Video Stickers, Better Reactions and More</title>
+			<link>https://telegram.org/blog/video-stickers-better-reactions</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<a class="dev_blog_card_link_wrap" href="/blog/video-stickers-better-reactions">
+			<div class="dev_blog_card_wrap">
+				<img class="dev_blog_card_image" src="https://telegram.org/file/464001234/e805/Z0pNrCJET-E.104373/a38ce74977bc53b064">
+				<div class="dev_blog_card_alltext_wrap">
+					<h4 class="dev_blog_card_title">
+						Video Stickers, Better Reactions and More
+					</h4>
+					<div class="dev_blog_card_lead">
+						This update brings easy-to-make video stickers, better reactions with more compact animations and extra emoji, a button to review unseen…
+					</div>
+				</div>
+				<div class="dev_blog_card_date">
+					Jan 31, 2022
+				</div>
+			</div>
+		</a>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Reactions, Spoilers, Translation and QR Codes</title>
 			<link>https://telegram.org/blog/reactions-spoilers-translations</link>
 			<content:encoded><![CDATA[<html>
@@ -493,32 +519,6 @@
 				</div>
 				<div class="dev_blog_card_date">
 					Apr 24, 2020
-				</div>
-			</div>
-		</a>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Coronavirus News and Verified Channels</title>
-			<link>https://telegram.org/blog/coronavirus</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<a class="dev_blog_card_link_wrap" href="/blog/coronavirus">
-			<div class="dev_blog_card_wrap">
-				<img class="dev_blog_card_image" src="https://telegram.org/file/464001885/4/L7NIiYhsWv8.56582/1301fc90889c583bf0">
-				<div class="dev_blog_card_alltext_wrap">
-					<h4 class="dev_blog_card_title">
-						Coronavirus News and Verified Channels
-					</h4>
-					<div class="dev_blog_card_lead">
-						Channels are a tool for broadcasting your public messages to large audiences. They offer a unique opportunity to reach people directly, sending a notification to their phones with…
-					</div>
-				</div>
-				<div class="dev_blog_card_date">
-					Apr 3, 2020
 				</div>
 			</div>
 		</a>
