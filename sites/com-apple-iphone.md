@@ -195,6 +195,61 @@ playback
 * [Compare all iPhone models](https://www.apple.com/iphone/compare/)
 * [Shop iPhone](https://www.apple.com/us/shop/goto/buy_iphone)
 
+Ways to Buy iPhone
+----------
+
+### Special carrier deals at Apple ###
+
+Save up to $800 on
+the newest
+
+iPhone
+ after trade‑in.
+
+#### AT&T  ####
+
+Save up to $800
+
+#### T-Mobile/Sprint, now part of T-Mobile  ####
+
+Get $400 ‑ $900 in credit
+
+#### Verizon  ####
+
+Save up to $440
+
+[Find your deal](https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers)
+
+ Our Specialists can help you
+shop — online or in store.
+
+[Connect with an iPhone Specialist](https://contactretail.apple.com/?pg=COM:iphone&ap=COM&c=us&l=en)
+
+### Trade in your smartphone
+for credit. ###
+
+With Apple Trade In, you can get credit toward a new Phone when you trade in an eligible smartphone.
+
+It’s good for you and the planet.
+
+[Learn more](https://www.apple.com/us/shop/goto/trade_in)
+
+###  Get 3% Daily
+
+Cash
+back with Apple Card.  ###
+
+ And pay for your new iPhone over 24 months, interest‑free when you choose to check out with Apple Card Monthly Installments.
+
+[Learn more](https://www.apple.com/apple-card/)
+
+### Why Apple is the best place to buy iPhone. ###
+
+You can choose a payment option that works for you, pay less with a trade‑in, connect your new iPhone to your carrier, and get set up quickly.
+You can also chat with a Specialist anytime.
+
+[Learn more](https://www.apple.com/iphone/buy/)
+
 Featured
 accessories
 ----------
