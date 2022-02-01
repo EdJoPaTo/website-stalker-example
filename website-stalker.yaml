@@ -145,7 +145,7 @@ sites:
       - "https://opensource.apple.com/projects/"
     editors:
       - css_select: main
-      - css_remove: noscript, img, picture, .footnote, .ribbon
+      - css_remove: noscript, img, picture, .footnote, .ribbon, .services-subsection, .apple-one-tile, .section-retail
       - html_url_canonicalize
       - html_markdownify
   - url:
@@ -180,8 +180,7 @@ sites:
       - "https://www.netcup.de/vserver/vstorage.php"
     editors:
       - css_select: .card, table
-      - css_remove: img
-      - css_remove: .card--content--image
+      - css_remove: img, .card--content--image
       - html_url_canonicalize
       - html_prettify
   - url: "https://www.netcup.de/vserver/storagespace.php"

@@ -167,26 +167,6 @@ Works with
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
-Get 3%
-Daily Cash
-
- back
-with Apple Card.
-----------
-
-And pay over time, interest‑free
-when you choose to check out with
-Apple Card Monthly Installments.
-
-[Learn more](https://www.apple.com/apple-card/monthly-installments/)
-
-Trade in your current iPad and get credit toward a new one.
-----------
-
-With Apple Trade In, just give us your eligible iPad and get credit for a new one. It’s good for you and the planet.
-
-[Learn more](https://www.apple.com/us/shop/goto/trade_in#tradeup-app)
-
 Free delivery
 ----------
 
@@ -283,67 +263,6 @@ Get more out of your iPad
 Learn the basics of using iPad live with Apple Creatives.
 
 [Sign up](https://www.apple.com/today/event/virtual-session-product-skills-ipad/)
-
-### Apple One ###
-
-Bundle up to six Apple services. And enjoy more for less.
-
-* [Try it free](https://one.apple.com/us?itscg=10000&itsct=one-NA-ipad-tile-apl-avl-102020)
-* [Learn more](https://www.apple.com/apple-one/)
-
-### Apple TV Plus  ###
-
-Get 3 months of Apple TV+ free
-when you buy an iPad.
-
-* [Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-0-ipf_fp-tle_stm-apl-avl-191111)
-* [Learn moreabout Apple TV Plus](https://www.apple.com/apple-tv-plus/)
-
-### Apple Music ###
-
-Over 75 million songs. 3 months on us.
-
-* [Try it free](https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=418&itscg=10000&itsct=418n)
-* [Learn more](https://www.apple.com/apple-music/)
-
-### Apple Fitness Plus ###
-
-The first fitness service
- powered by Apple Watch.
-
-* [Try it free](https://fitness.apple.com/subscribe?itscg=10000&itsct=fit-promo-ipd_fp-apl-avl-201111)
-* [Learn more](https://www.apple.com/apple-fitness-plus/)
-
-### Apple Arcade ###
-
-Get 3 months of Apple Arcade free
-when you buy an iPad.
-
-* [Try it free](https://www.apple.com/ipad/#modal)
-* [Learn moreabout Apple Arcade](https://www.apple.com/apple-arcade/)
-
-Upgrade to start your free trial.
-----------
-
-* [Get the latest iOS](https://support.apple.com/ios/update)
-* [Get the latest iPadOS](https://support.apple.com/ios/update)
-* [Get the latest tvOS](https://support.apple.com/en-us/HT202716)
-* [Get the latest macOS](https://www.apple.com/macos/how-to-upgrade/)
-
-### Apple News Plus ###
-
-Hundreds of magazines and
-leading newspapers. One subscription.
-
-* [Try it free](applenewss://apple.news/subscription?itscg=10000&itsct=nws-00-ipad_fp-try_tle-apl-lch-190325&campaign_id=AN_Marcom_iPad_Free)
-* [Learn moreabout Apple News Plus](https://www.apple.com/apple-news/)
-
-### Apple Gift Card ###
-
-For everything and everyone.
-
-* [Learn moreabout Apple Gift Card](https://www.apple.com/us/shop/goto/giftcards)
-* [Buy](https://www.apple.com/us/shop/goto/buy_giftcard/giftcard)
 
 ### Apple and Education ###
 
