@@ -781,7 +781,6 @@
 * [Zahnklammer](https://www.wdrmaus.de/filme/sachgeschichten/zahnklammer.php5)
 * [Zahnloch](https://www.wdrmaus.de/filme/sachgeschichten/zahnloch.php5)
 * [Zahnstocher](https://www.wdrmaus.de/filme/sachgeschichten/zahnstocher.php5)
-* [Zange](https://www.wdrmaus.de/filme/sachgeschichten/zange.php5)
 * [Zaubergummis](https://www.wdrmaus.de/filme/sachgeschichten/zaubergummis.php5)
 * [Zaubersand](https://www.wdrmaus.de/filme/sachgeschichten/zaubersand.php5)
 * [Zauberstifte](https://www.wdrmaus.de/filme/sachgeschichten/zauberstifte.php5)
