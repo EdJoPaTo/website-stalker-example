@@ -225,15 +225,22 @@ With Apple Trade In, just give us your eligible Apple Watch and get credit for a
 
 [Find your trade-in value](https://www.apple.com/us/shop/goto/trade_in)
 
- Save 5% on
-Apple Watch with
- a new Apple Card.
+ Get 3%
+
+ Daily Cash back
+
+ with Apple Card.
 ----------
 
- Shop in stores or online now through January 31. Only at Apple. Exclusions and terms apply.
+And pay for your new Apple Watch
+ over
+ 24 months, interest‑free
+when
+ you choose to
+ check out with
+ Apple Card Monthly Installments.
 
-* [Apply now](https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-200-100027)
-* [Learn more](https://www.apple.com/apple-card/#promotion)
+[Learn more](https://www.apple.com/apple-card/)
 
 Apple Watch Studio
 ----------

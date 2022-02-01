@@ -167,16 +167,18 @@ Works with
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
-Save 5% on
- iPad with a new
-Apple Card.
+Get 3%
+Daily Cash
+
+ back
+with Apple Card.
 ----------
 
-Shop in stores or online now through January 31. Only at Apple.
- Exclusions and terms apply.
+And pay over time, interest‑free
+when you choose to check out with
+Apple Card Monthly Installments.
 
-* [Apply now](https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-200-100025)
-* [Learn more](https://www.apple.com/apple-card/#promotion)
+[Learn more](https://www.apple.com/apple-card/monthly-installments/)
 
 Trade in your current iPad and get credit toward a new one.
 ----------

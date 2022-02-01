@@ -291,17 +291,19 @@ Maximum configurable storage
 
 [Compare all Mac models](https://www.apple.com/mac/compare/) [Shop Mac](https://www.apple.com/us/shop/goto/buy_mac)
 
-Save 5% on
-Mac
-with a new Apple Card.
+Get 3%
+
+Daily Cash
+back
+with Apple Card.
 ----------
 
-Shop in stores or online now
-through January 31.
-Only at Apple. Exclusions and terms apply.
+And pay for your new Mac over 12 months,
+ interest‑free when you choose to check out
 
-* [Apply now](https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-200-100026)
-* [Learn more](https://www.apple.com/apple-card/#promotion)
+ with Apple Card Monthly Installments.
+
+[Learn more](https://www.apple.com/apple-card/)
 
 Accessories
 ----------
