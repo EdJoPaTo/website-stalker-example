@@ -291,38 +291,6 @@ Maximum configurable storage
 
 [Compare all Mac models](https://www.apple.com/mac/compare/) [Shop Mac](https://www.apple.com/us/shop/goto/buy_mac)
 
-Get 3%
-
-Daily Cash
-back
-with Apple Card.
-----------
-
-And pay for your new Mac over 12 months,
- interest‑free when you choose to check out
-
- with Apple Card Monthly Installments.
-
-[Learn more](https://www.apple.com/apple-card/)
-
-Accessories
-----------
-
-### Explore Mac accessories. ###
-
-###  ###
-
-[Shop](https://www.apple.com/us/shop/goto/mac/accessories)
-
-Apple Trade In
-----------
-
-### Get credit toward a new Mac. ###
-
-### Just trade in your eligible computer for credit or recycle it for free. It’s good for you and the planet. ###
-
-* [Find your trade‑in value](https://www.apple.com/us/shop/goto/trade_in)
-
 Free delivery
 ----------
 

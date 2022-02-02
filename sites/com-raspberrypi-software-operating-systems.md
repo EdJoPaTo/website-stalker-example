@@ -8,6 +8,7 @@ Many operating systems are available for Raspberry Pi, including Raspberry Pi OS
 Download:
 
 * [Raspberry Pi OS](#raspberry-pi-os-32-bit)
+* [Raspberry Pi OS (64-bit)](#raspberry-pi-os-64-bit)
 * [Raspberry Pi OS (Legacy)](#raspberry-pi-os-legacy)
 * [Raspberry Pi Desktop](#raspberry-pi-desktop)
 * [Third-party software](#third-party-software)
@@ -62,6 +63,49 @@ Show SHA256 file integrity hash:f6e2a3e907789ac25b61f7acfcbf5708a6d224cf28ae1253
 [Release notes](https://downloads.raspberrypi.org/raspios_lite_armhf/release_notes.txt)
 
 [Download](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip.torrent)[Archive](https://downloads.raspberrypi.org/raspios_lite_armhf/images/)
+
+Raspberry Pi OS (64-bit)
+----------
+
+Compatible with:
+
+* [3B](/products/raspberry-pi-3-model-b/)
+* [3B+](/products/raspberry-pi-3-model-b-plus/)
+* [3A+](/products/raspberry-pi-3-model-a-plus/)
+* [4](/products/raspberry-pi-4-model-b/)
+* [400](/products/raspberry-pi-400/)
+* [CM3](/products/compute-module-io-board-v3/)
+* [CM3+](/products/compute-module-3-plus/)
+* [CM4](/products/compute-module-4/)
+* [Zero 2 W](/products/raspberry-pi-zero-2-w/)
+
+### Raspberry Pi OS with desktop ###
+
+* Release date: January 28th 2022
+* System: 64-bit
+* Kernel version: 5.10
+* Debian version: 11 (bullseye)
+* Size: 1,135MB
+
+Show SHA256 file integrity hash:c6f583fab8ed8d84bdf272d095c821fa70d2a0b434ba78432648f69b661d3783
+
+[Release notes](https://downloads.raspberrypi.org/raspios_arm64/release_notes.txt)
+
+[Download](https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2022-01-28/2022-01-28-raspios-bullseye-arm64.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2022-01-28/2022-01-28-raspios-bullseye-arm64.zip.torrent)[Archive](https://downloads.raspberrypi.org/raspios_arm64/images/)
+
+### Raspberry Pi OS Lite ###
+
+* Release date: January 28th 2022
+* System: 64-bit
+* Kernel version: 5.10
+* Debian version: 11 (bullseye)
+* Size: 435MB
+
+Show SHA256 file integrity hash:d694d2838018cf0d152fe81031dba83182cee79f785c033844b520d222ac12f5
+
+[Release notes](https://downloads.raspberrypi.org/raspios_lite_arm64/release_notes.txt)
+
+[Download](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2022-01-28/2022-01-28-raspios-bullseye-arm64-lite.zip)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2022-01-28/2022-01-28-raspios-bullseye-arm64-lite.zip.torrent)[Archive](https://downloads.raspberrypi.org/raspios_lite_arm64/images/)
 
 Raspberry Pi OS (Legacy)
 ----------

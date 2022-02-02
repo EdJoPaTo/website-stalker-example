@@ -4,7 +4,7 @@
 		<title>GitHub Actions virtual-environments Announcements</title>
 		<link>https://github.com/actions/virtual-environments/labels/Announcement</link>
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
-		<generator>website-stalker/0.18.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>[All OSs] .NET 2.1 will be removed from the images on February, 21</title>
 			<link>https://github.com/actions/virtual-environments/issues/4871</link>
