@@ -109,7 +109,7 @@ Stream award-winning Apple Originals on every screen.
 
 [Try it free](https://tv.apple.com/?itscg=10000&itsct=pod-services-tv-apl-tvhm-21_1019) [Learn more](https://www.apple.com/apple-tv-plus/)
 
-Access over 90 million songs, and sing along with lyrics view.
+Access all your favorite songs and sing along with lyrics view.
 ----------
 
 [Try it free](https://music.apple.com/?itscg=10000&itsct=pod-services-music-apl-tvhm-21_1019) [Learn more](https://www.apple.com/apple-music/)

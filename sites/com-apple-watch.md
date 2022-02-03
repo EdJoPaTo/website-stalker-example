@@ -310,8 +310,8 @@ Bundle up to six
 Apple Music
 ----------
 
-Over 75 million songs.
-3 months on us.
+Over 90 million songs.
+Start listening for free today.
 
 [Try it free](https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=413&itscg=10000&itsct=413n)
 
