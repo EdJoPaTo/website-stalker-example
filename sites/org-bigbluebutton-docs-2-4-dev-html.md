@@ -358,6 +358,32 @@ A symptom of running `npm start` with the incompatible `poolhtml5servers` NginX 
 
 When you switch back to running the `bbb-html5` packaged version you would want to revert your change so the `poolhtml5servers` are used for spreading the load of the client sessions.
 
+### Switch NginX static resource requests to Meteor ###
+
+Locales requests are served by NginX by default, but you may want to disable that feature in development mode (if you want to be able to edit the files located in `/public/locales` and see the changes being applied).
+
+You would want to make a change in `/etc/bigbluebutton/nginx/bbb-html5.nginx` in the lines related to locales.
+
+The default - used for production mode (locales files will be served by NginX):
+
+```
+  location /html5client/locales {
+    alias /usr/share/meteor/bundle/programs/web.browser/app/locales;
+  }
+
+```
+
+Development mode (locales files will be served by Meteor):
+
+```
+  #location /html5client/locales {
+  #  alias /usr/share/meteor/bundle/programs/web.browser/app/locales;
+  #}
+
+```
+
+After this change, reload NginX’s configuration with `sudo systemctl reload nginx`
+
 Audio configuration for development environment
 ----------
 
