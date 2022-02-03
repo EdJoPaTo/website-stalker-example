@@ -1,5 +1,3 @@
-Get Valentine’s Day gifts now. Choose two-hour courier<sup class="ribbon-vday-2022-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/airpods/#footnote-vday-2022">◊</a></sup> or free delivery, or pick up at your Apple Store. [Shop now](https://www.apple.com/us/shop/goto/gifts/valentines_day)
-
 AirPods
 ==========
 

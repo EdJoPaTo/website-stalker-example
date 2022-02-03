@@ -145,7 +145,7 @@ sites:
       - "https://opensource.apple.com/projects/"
     editors:
       - css_select: main
-      - css_remove: noscript, img, picture, .footnote, .ribbon, .services-subsection, .apple-one-tile, .section-retail
+      - css_remove: noscript, img, picture, .footnote, .ribbon, .services-subsection, .apple-one-tile, .section-retail, *[data-analytics-activitymap-region-id=ribbon]
       - html_url_canonicalize
       - html_markdownify
   - url:
