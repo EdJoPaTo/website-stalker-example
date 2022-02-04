@@ -35,6 +35,11 @@
 * [Road Map](https://docs.bigbluebutton.org/support/road-map.html)
 * [FAQ](https://docs.bigbluebutton.org/support/faq.html)
 * [Release Notes](https://docs.bigbluebutton.org/support/release-notes.html)
+* 2.5 In the works
+* [Install](https://docs.bigbluebutton.org/2.5/install.html)
+* [Development](https://docs.bigbluebutton.org/2.5/dev.html)
+* [What's New](https://docs.bigbluebutton.org/2.5/new.html)
+* [Accessibility](https://docs.bigbluebutton.org/2.5/html5-accessibility.html)
 * 2.3 Legacy
 * [Testing a release](https://docs.bigbluebutton.org/2.3/release-tests.html)
 * [Development](https://docs.bigbluebutton.org/2.3/dev.html)

@@ -203,7 +203,7 @@ Performance
 
 This release also contains initial support for using [mediasoup](https://mediasoup.org/) instead of Kurento for handling WebRTC video streams (webcams and screenshare) and listen only. See these [steps](https://github.com/bigbluebutton/bbb-webrtc-sfu/wiki/Back-of-the-envelope-calculations:-mediasoup) for enabling mediasoup on your setup of 2.4-rc-2 (or later).
 
-For analysis on Medisoup vs. Kurento, see [BigBlueButton World - BigBlueButton’s Media Stack and the Road Ahead](https://youtu.be/SBO5iWLs0KE).
+For analysis on mediasoup vs. Kurento, see [BigBlueButton World - BigBlueButton’s Media Stack and the Road Ahead](https://youtu.be/SBO5iWLs0KE).
 
 Experimental
 ----------
@@ -331,8 +331,6 @@ ii  bbb-webrtc-sfu            1:2.4.0-5    amd64  BigBlueButton WebRTC SFU
 ```
 
 This installs the latest version of BigBlueButton 2.4-dev with Let’s encrypt certificate and the API demos. With the API demos installed, you can open https:/// in a browser (where  is the hostname you specified in the `bbb-install.sh` command), enter your name, and click 'Join' to join 'Demo Meeting'. For more information, see the [bbb-install.sh](https://github.com/bigbluebutton/bbb-install) documentation.
-
-BigBlueButton 2.4-dev is under active development. While we don’t recommend setting it up in a production environment, we do encourage administrators to try out the build with others and give us feedback on [our bigbluebutton-dev mailing list](https://groups.google.com/g/bigbluebutton-dev).
 
 Development
 ----------
