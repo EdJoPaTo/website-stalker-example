@@ -100,10 +100,14 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: "https://www.conventionalcommits.org/en/"
+  - url:
+      - "https://www.conventionalcommits.org/en/"
+      - "https://keepachangelog.com/en/"
     editors:
       - html_prettify
-  - url: "https://www.conventionalcommits.org/en/v1.0.0/"
+  - url:
+      - "https://www.conventionalcommits.org/en/v1.0.0/"
+      - "https://keepachangelog.com/en/1.1.0/"
     editors:
       - css_select: article
       - html_markdownify
