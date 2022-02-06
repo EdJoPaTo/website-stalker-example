@@ -47,7 +47,7 @@ Pre-installation checks
 
 Got a Ubuntu 18.04 64-bit server ready for installation? Great! But, before jumping into the installation section below, let’s do a few quick configuration checks to make sure your server meets the minimum requirements.
 
-Doning these checks will significantly reduce the chances you’ll hit a problem during installation.
+Doing these checks will significantly reduce the chances you’ll hit a problem during installation.
 
 First, check that the locale of the server is `en_US.UTF-8`.
 
