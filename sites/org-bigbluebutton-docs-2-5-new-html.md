@@ -8,6 +8,8 @@ Overview
 
 This document gives you an overview of BigBlueButton 2.5.
 
+*Note:* This document is DRAFT and will be expanded upon as 2.5 development goes through alpha, beta, and release.
+
 What’s new
 ----------
 
