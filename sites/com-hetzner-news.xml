@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner Storage Share and Storage Box: Data storage and management made easy</title>
+			<link>https://www.hetzner.com/news/02-22-storage/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					07. February 2022
+				</small>
+			</p>
+			<h4>
+				Hetzner Storage Share and Storage Box: Data storage and management made easy
+			</h4>
+			<p class="list-card-preview">
+				Making backups of your data is essential for preventing data loss. And more and more people are using online storage services to share images, videos, and documents, and for backing...
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/02-22-storage/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>CPU performance redefined: The EX100 with Intel® Core™ i9-12900K processor</title>
 			<link>https://www.hetzner.com/news/12-21-ex100/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Firewalls, the new feature for Hetzner Cloud, has just arrived. Many of our customers have requested this feature, so we're hoping that you'll take this opportunity to be one of...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/03-21-firewall-beta/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Break through to new dimensions with the Dedicated Root Server AX101</title>
-			<link>https://www.hetzner.com/news/02-21-ax101/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					01. February 2021
-				</small>
-			</p>
-			<h4>
-				Break through to new dimensions with the Dedicated Root Server AX101
-			</h4>
-			<p class="list-card-preview">
-				From virtualization to content creation — nothing stands between you and the horizon with our new Dedicated Root Server AX101.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/02-21-ax101/">
 				Show more
 			</a>
 		</li>
