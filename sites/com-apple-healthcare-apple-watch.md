@@ -163,7 +163,7 @@ Learn more about how these metrics were developed and validated:
 
 ### Fall Detection. ###
 
-When a hard fall is detected with Apple Watch Series 4 or later<sup><a href="https://www.apple.com/healthcare/apple-watch/#footnote-1">*</a></sup>, an alert appears and allows the user to easily call emergency services or dismiss the alert. If the user is unresponsive for about a minute, an emergency call will be placed automatically and a message will be sent to the user’s emergency contacts. All falls detected are recorded in the Health app. This feature is automatically enabled for users 55 years and older and can be turned on for anyone in the Apple Watch app on iPhone.
+When a hard fall is detected with Apple Watch Series 4 or later, an alert appears and allows the user to easily call emergency services or dismiss the alert. If the user is unresponsive for about a minute, an emergency call will be placed automatically and a message will be sent to the user’s emergency contacts. All falls detected are recorded in the Health app. This feature is automatically enabled for users 55 years and older and can be turned on for anyone in the Apple Watch app on iPhone.
 
 [Learn more about Fall Detection](https://support.apple.com/en-us/HT208944)
 

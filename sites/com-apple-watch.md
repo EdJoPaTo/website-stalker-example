@@ -235,7 +235,7 @@ With Apple Trade In, just give us your eligible Apple Watch and get credit for a
 
 [Find your trade-in value](https://www.apple.com/us/shop/goto/trade_in)
 
- Get 3%
+Get 3%
 
  Daily Cash back
 
