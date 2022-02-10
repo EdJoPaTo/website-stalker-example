@@ -36,6 +36,7 @@
 * [FAQ](https://docs.bigbluebutton.org/support/faq.html)
 * [Release Notes](https://docs.bigbluebutton.org/support/release-notes.html)
 * 2.5 In the works
+* [Testing a release](https://docs.bigbluebutton.org/2.5/release-tests.html)
 * [Install](https://docs.bigbluebutton.org/2.5/install.html)
 * [Development](https://docs.bigbluebutton.org/2.5/dev.html)
 * [What's New](https://docs.bigbluebutton.org/2.5/new.html)
