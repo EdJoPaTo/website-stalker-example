@@ -379,6 +379,7 @@
 * [Kronkorkenzacken](https://www.wdrmaus.de/filme/sachgeschichten/kronkorkenzacken.php5)
 * [Kronleuchter](https://www.wdrmaus.de/filme/sachgeschichten/kronleuchter.php5)
 * [Kuchengabel](https://www.wdrmaus.de/filme/sachgeschichten/kuchengabel.php5)
+* [Kühlschrankgründe](https://www.wdrmaus.de/filme/sachgeschichten/kuehlschrankgruende.php5)
 * [Kuh Lena (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/kuh_lena.php5)
 * [Kuh Lena (Teil 2)](https://www.wdrmaus.de/filme/sachgeschichten/kuh_lena_teil2.php5)
 * [Kuh Lena (Teil 3)](https://www.wdrmaus.de/filme/sachgeschichten/kuh_lena_teil3.php5)
