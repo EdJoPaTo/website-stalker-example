@@ -1104,7 +1104,7 @@ Apple has a rigorous program to ensure the safety of chemicals used in our produ
 Climate change is a defining issue of our time. Our goal is to achieve complete carbon neutrality by 2030. Below are detailed updates on our progress.
 
 * [Read about how our suppliers are transitioning to clean energy (PDF)](https://www.apple.com/environment/pdf/Apple_Supplier_Clean_Energy_Program_Update_2021.pdf)
-* [Apple received an A- rating from CDP Climate Change in 2021 (PDF)](https://www.apple.com/environment/pdf/Apple_CDP-Climate-Change-Questionnaire_2021.pdf)
+* [Apple received an A- from CDP Climate Change in 2021 (PDF)](https://www.apple.com/environment/pdf/Apple_CDP-Climate-Change-Questionnaire_2021.pdf)
 
 ### People and Environment in our Supply Chain ###
 
