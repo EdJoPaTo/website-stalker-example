@@ -70,7 +70,7 @@ sites:
   - url: "https://files.teamspeak-services.com/releases/server/"
     editors:
       - html_prettify
-  - url: "https://us.diablo3.com/en-us/"
+  - url: "https://us.diablo3.blizzard.com/en-us/"
     editors:
       - rss:
           item_selector: .article-wrapper
