@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Metronom Aktuell</title>
+		<link>https://www.der-metronom.de/aktuell/</link>
+		<description>Hier erhältst du alle wichtigen Informationen zum metronom.</description>
+		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
+		<item>
+			<title>Bis einschließlich Samstag ist mit gravierenden Einschränkungen im Zugverkehr zu rechnen</title>
+			<link>https://www.der-metronom.de/aktuell/bis-zum-wochenende-einschraenkungen-und-heute-nacht-betriebseinstellung-bei-metronom/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<time content="2022-02-16T15:11:00+01:00" itemprop="datePublished">
+			16.02.2022
+		</time>
+		<div class="news-text-outer">
+			<p>
+				+++ Update 18.02.2022, 10:45 Uhr +++ Zugverkehr wird am Nachmittag eingestellt, SEV wird eingerichtet +++ Aufgrund von Sturmschäden sind auf der Linie RE3/RB31 wieder Busse als Schienenersatzverkehr auf der gesamten Strecke zwischen Uelzen und Lüneburg unterwegs. Der Zugverkehr des metronom...
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Corona bedingte Zugausfälle</title>
+			<link>https://www.der-metronom.de/aktuell/voraussichtlich-corona-bedingte-zugausfaelle-am-wochenende/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<time content="2022-02-14T12:00:00+01:00" itemprop="datePublished">
+			14.02.2022
+		</time>
+		<div class="news-text-outer">
+			<p>
+				Aufgrund Corona bedingter Personalengpässe kann es in den nächsten Tagen auf allen metronom-Linien zu Zugausfällen kommen. Für einzelne Fahrten wird nach Verfügbarkeit ein Schienenersatzverkehr eingerichtet, es werden aber leider auch Verbindungen ersatzlos entfallen. Wir bitten alle Fahrgäste zu prüfen, ob...
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Seit 24.11. gilt 3-G-Regel in allen Zügen</title>
+			<link>https://www.der-metronom.de/aktuell/ab-24-11-gilt-3-g-regel-in-allen-zuegen/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<time content="2021-11-23T16:44:00+01:00" itemprop="datePublished">
+			23.11.2021
+		</time>
+		<div class="news-text-outer">
+			<p>
+				Liebe Fahrgäste, wer mit Bus und Bahn unterwegs ist, muss laut geändertem Infektionsschutzgesetz (IfSG) ab 24. November, neben einer zulässigen Mund-Nasen-Bedeckung, auch einen aktuellen 3G Nachweis mit sich führen. Grund der Änderung des Infektionsschutzgesetzes sind die anhaltend hohen Inzidenzen in...
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+	</channel>
+</rss>
