@@ -1,4 +1,4 @@
-Apple Pay
+Apple Pay
 ==========
 
 Wie bezahlen. Nur besser.
@@ -9,24 +9,19 @@ Apple Pay ist die moderne Art zu bezahlen. Es ersetzt Bankkarten und Bargeld d
 [Karte hinzufügen](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
 
 Schneller und einfacher
- als Karten oder
+ als Karten oder
  Bargeld.
 ----------
 
-Akzeptiert von vielen Händlern weltweit.
-----------
-
-Sicherer als
- Tasten
- drücken
-und bar zahlen.
-
-----------
-
-Privatsphäre und
- Datenschutz sind
-
+Privatsphäre und Datenschutz sind
  schon eingebaut.
+----------
+
+Akzeptiert von Millionen Websites und Apps.
+----------
+
+Online bezahlen ist
+ einfacher mit Apple Pay.
 ----------
 
 Kurz
@@ -51,7 +46,7 @@ Hol dir einen  an der Ecke. Bestell einen neuen  online. Lass dir  liefern. Abon
 
 In Geschäften und mehr. Apple Pay wird von vielen Händlern akzeptiert, du kannst es also praktisch überall nutzen und genau so, wie du willst. Wenn du dir nicht sicher bist, frag einfach. Apple Pay funktio­niert überall dort, wo du kontaktlos bezahlen kannst – von Verkaufs­automaten und Lebens­mittel­läden bis zu Taxi und U‑Bahn.
 
-Online und in Apps. Nutze Apple Pay für Einkäufe in Safari auf deinem iPhone, iPad oder Mac. Erspar dir komplizierte Bezahl­formulare und zahle einfach mit einer Berührung oder einem Blick. Oder nutze Apple Pay, um Abos für Services wie Apple Music und Apple TV+ abzu­schließen. Oder kaufe Apps und Spiele im App Store. Oder mach ein Upgrade für deinen iCloud Speicher.
+In Apps und online. Nutze Apple Pay für Einkäufe in Safari auf deinem iPhone, iPad oder Mac. Spar dir komplizierte Bezahl­formulare und zahle einfach mit einer Berührung oder einem Blick. Oder nutze Apple Pay, um Abos für Services wie Apple Music und Apple TV+ abzu­schlie­ßen. Oder kaufe Apps und Spiele im App Store. Oder mach ein Upgrade für deinen iCloud Speicher.
 
 Sicher ist
  sicher.
@@ -81,6 +76,8 @@ Nur falls du was
   Du kannst mit Apple Pay in Geschäften, auf Websites und in Apps einkaufen. Es wird an vielen Orten akzeptiert, ist einfach, sicher und privat.
 
   * [So nutzt du Apple Pay in Geschäften](https://support.apple.com/de-de/HT201239#stores)
+  * [So zahlst du in Geschäften mit Touch ID](https://www.apple.com/105/media/de/apple-pay/2017/1b3e5430_fafc_4e9d_8114_4ba5eacf00f4/overview/films/pay-in-store/apple-pay-pay-in-store-tpl-de-20170912_720x1280h.mp4)
+  * [So zahlst du in Geschäften mit Face ID](https://www.apple.com/105/media/de/apple-pay/2017/1b3e5430_fafc_4e9d_8114_4ba5eacf00f4/overview/films/face-id/apple-pay-face-id-tpl-de-20171103_720x1280h.mp4)
   * [So nutzt du Apple Pay auf Websites](https://support.apple.com/de-de/HT201239#safari)
   * [So nutzt du Apple Pay in Apps](https://support.apple.com/de-de/HT201239#inapp)
 
@@ -112,7 +109,8 @@ Nur falls du was
 
 * ### Wie kann mein Unter­nehmen Apple Pay akzeptieren?  ###
 
-  Dein Geschäft akzeptiert bereits Kredit­karten und Debitkarten? Dann kontaktiere einfach deinen Zahlungs­anbieter, um Apple Pay zu deinen akzep­tierten Zahlungs­methoden hinzuzufügen. Kontaktiere den [Support für Händler](https://developer.apple.com/contact/apple-pay/) für weitere Infos. Wenn du Apple Pay auf deiner Website oder in deiner App akzeptieren möchtest, gehe zu [Apple Pay für Entwickler](https://developer.apple.com/apple-pay/).
+  Dein Geschäft akzeptiert bereits Kredit­karten und Debitkarten? Dann kontaktiere einfach deinen
+  [Zahlungs­anbieter](https://developer.apple.com/apple-pay/payment-platforms/), um Apple Pay zu deinen akzep­tierten Zahlungs­methoden hinzuzufügen. Wenn du Apple Pay auf deiner Website oder in deiner App akzeptieren möchtest, gehe zu [Apple Pay für Entwickler](https://developer.apple.com/apple-pay/).
 
 * ### Wie informiere ich Kund:innen darüber, dass ich Apple Pay akzeptiere?  ###
 

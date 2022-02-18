@@ -113,11 +113,11 @@ Companies we helped transition towards steward-ownership.
 
 € 250 m
 
-#### Capital ####
+#### Activated Capital ####
 
 Committed capital for investments into steward-owned companies.
 
-1000 +
+100 +
 
 #### Entrepreneurs ####
 
