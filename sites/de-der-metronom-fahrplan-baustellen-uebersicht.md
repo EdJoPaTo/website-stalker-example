@@ -48,23 +48,3 @@ RE2 Hannover - Northeim - Göttingen
 
 Dein persönlicher Baustellen-Newsletter
 ----------
-
- Bitte überprüfe die rot markierten Felder.
-
-Anrede\* Frau Herr Divers
-
-**Bitte wähle die gewünschten Strecken aus\***
-
-RE3/RB31 Hamburg - Lüneburg - Uelzen
-
-RE2 Uelzen - Hannover - Göttingen
-
-RE4/RB41 Hamburg - Rotenburg - Bremen
-
-wichtige Fahrgastinformationen
-
- Ich stimme zu, dass meine Angaben aus dem Formular zur Beantwortung meiner Anfrage erhoben und verarbeitet werden. Die Daten werden nach abgeschlossener Bearbeitung deiner Anfrage gelöscht. Weitere Informationen findest du in unserer [Datenschutzerklärung](https://www.der-metronom.de/datenschutzerklaerung/)\*
-
----
-
- Anmelden
