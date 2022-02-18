@@ -85,7 +85,7 @@ It includes all you need to be able to run a local BigBlueButton development env
 First, you need to install the core development tools.
 
 ```
-sudo apt-get install git-core ant ant-contrib openjdk-8-jdk-headless
+sudo apt-get install git-core openjdk-8-jdk-headless
 
 ```
 
