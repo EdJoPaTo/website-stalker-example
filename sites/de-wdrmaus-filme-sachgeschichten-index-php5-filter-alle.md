@@ -31,6 +31,7 @@
 * [Arcimboldo](https://www.wdrmaus.de/filme/sachgeschichten/arcimboldo.php5)
 * [Armin zum 75. Geburtstag](https://www.wdrmaus.de/filme/sachgeschichten/armin_zum_75_geburtstag.php5)
 * [Astronautenfragen](https://www.wdrmaus.de/filme/sachgeschichten/astronautenfragen.php5)
+* [Astronautentraining](https://www.wdrmaus.de/filme/sachgeschichten/astronautentraining.php5)
 * [Atlas](https://www.wdrmaus.de/filme/sachgeschichten/atlas.php5)
 * [AtomMaus](https://www.wdrmaus.de/filme/sachgeschichten/atommaus.php5)
 * [Aufzug-Testturm](https://www.wdrmaus.de/filme/sachgeschichten/aufzug_testturm.php5)
