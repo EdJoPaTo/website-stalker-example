@@ -30,8 +30,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [05.02.2022 - 27.02.2022 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg an den Wochenenden](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-an-den-wochenenden/)
 
-[23.02.2022 - 24.02.2022 RB31 nächtlicher Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-ashausen/)
-
 [05.03.2022 - 18.03.2022 RE3/RB31 weitere Teilausfälle im Bereich Hamburg Hbf - Hamburg-Harburg und zwischen Winsen (L.) und Lüneburg](https://www.der-metronom.de/baustellen/re3-rb31-weitere-teilausfaelle-im-bereich-hamburg-hbf-hamburg-harburg/)
 
 RE2 Uelzen - Celle - Hannover
