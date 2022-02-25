@@ -6,29 +6,6 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>[All OSs] .NET 2.1 will be removed from the images on February, 21</title>
-			<link>https://github.com/actions/virtual-environments/issues/4871</link>
-			<pubDate>Wed, 12 Jan 2022 11:02:31 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-Area: .NET Core
-
-awaiting-deployment
-
-OS: macOS
-
-OS: Ubuntu
-
-OS: Windows
-
-#4871
-opened
-Jan 12, 2022
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>windows-latest workflows will use Windows Server 2022</title>
 			<link>https://github.com/actions/virtual-environments/issues/4856</link>
 			<pubDate>Tue, 11 Jan 2022 11:33:05 +0000</pubDate>
