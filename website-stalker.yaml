@@ -383,5 +383,5 @@ sites:
       - "https://www.steamdeck.com/en/tech"
     editors:
       - css_select: "#content"
-      - css_remove: "video, img, .footnote, .home"
+      - css_remove: "video, img, .footnote, .home, .verified_app_card"
       - html_markdownify

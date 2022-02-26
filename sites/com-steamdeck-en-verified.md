@@ -12,8 +12,6 @@ Learn more about the Steam Deck Compatibility program.
 Recently Verified
 ----------
 
-[](https://store.steampowered.com/app/1245620) [](https://store.steampowered.com/app/1659040) [](https://store.steampowered.com/app/1644960) [](https://store.steampowered.com/app/1593500) [](https://store.steampowered.com/app/1145360) [](https://store.steampowered.com/app/346110) [](https://store.steampowered.com/app/275850) [](https://store.steampowered.com/app/979690) [](https://store.steampowered.com/app/1151640) [](https://store.steampowered.com/app/268910) [](https://store.steampowered.com/app/413150) [](https://store.steampowered.com/app/1135690) [](https://store.steampowered.com/app/105600) [](https://store.steampowered.com/app/814380) [](https://store.steampowered.com/app/632360) [](https://store.steampowered.com/app/218620) [](https://store.steampowered.com/app/1290000) [](https://store.steampowered.com/app/374320) [](https://store.steampowered.com/app/613100) [](https://store.steampowered.com/app/322500) [](https://store.steampowered.com/app/1490890) [](https://store.steampowered.com/app/239140) [](https://store.steampowered.com/app/1552350) [](https://store.steampowered.com/app/627690) [](https://store.steampowered.com/app/502500) [](https://store.steampowered.com/app/250900) [](https://store.steampowered.com/app/1794680)
-
 [See all verified games on Steam](https://store.steampowered.com/greatondeck)
 
 Valve is reviewing the entire Steam catalog on Deck.
