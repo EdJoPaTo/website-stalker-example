@@ -373,3 +373,15 @@ sites:
       - regex_replace:
           pattern: \) \[
           replace: ")\n["
+
+  - url:
+      - "https://www.steamdeck.com/en/"
+      - "https://www.steamdeck.com/en/hardware"
+      - "https://www.steamdeck.com/en/software"
+      - "https://www.steamdeck.com/en/verified"
+      - "https://www.steamdeck.com/en/faq"
+      - "https://www.steamdeck.com/en/tech"
+    editors:
+      - css_select: "#content"
+      - css_remove: "video, img, .footnote, .home"
+      - html_markdownify
