@@ -609,6 +609,7 @@
 * [Schmetterlingshochzeit](https://www.wdrmaus.de/filme/sachgeschichten/schmetterlingshochzeit.php5)
 * [Schneemann](https://www.wdrmaus.de/filme/sachgeschichten/schneemann.php5)
 * [Schnürsenkel](https://www.wdrmaus.de/filme/sachgeschichten/schnuersenkel.php5)
+* [Schokolade](https://www.wdrmaus.de/filme/sachgeschichten/schokolade.php5)
 * [Schokoladenhohlfigur](https://www.wdrmaus.de/filme/sachgeschichten/schokoladenhohlfigur.php5)
 * [Schraubenmutter Gewindeschneider](https://www.wdrmaus.de/filme/sachgeschichten/schraubenmutter_gewindeschneider.php5)
 * [Schulexperiment](https://www.wdrmaus.de/filme/sachgeschichten/schulexperiment.php5)
