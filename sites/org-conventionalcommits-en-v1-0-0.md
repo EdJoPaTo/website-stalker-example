@@ -82,7 +82,7 @@ docs: correct spelling of CHANGELOG
 ### Commit message with scope ###
 
 ```
-feat(lang): add polish language
+feat(lang): add Polish language
 
 ```
 
