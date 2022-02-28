@@ -104,6 +104,7 @@ sites:
       - rss:
           title: OpenTalk
           item_selector: .grid article
+          title_selector: h3
           content_editors:
             - css_select: article > div
             - html_prettify
