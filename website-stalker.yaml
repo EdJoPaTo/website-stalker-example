@@ -99,6 +99,14 @@ sites:
       - css_remove: "script, img"
       - html_url_canonicalize
       - html_markdownify
+  - url: "https://opentalk.eu/de/news-presse"
+    editors:
+      - rss:
+          title: OpenTalk
+          item_selector: .grid article
+          content_editors:
+            - css_select: article > div
+            - html_prettify
 
   - url:
       - "https://www.conventionalcommits.org/en/"

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>OpenTalk</title>
+		<link>https://opentalk.eu/de/news-presse</link>
+		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
+		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
+		<item>
+			<link>https://opentalk.eu/de/news/opentalk-auf-dem-cloudfest-vom-22-24-maerz-2022</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				11.02.2022
+			</time>
+		</div>
+		<div>
+			<div>
+				<p>
+					Vom 22.-24. März 2022 trifft sich die Branche zum Cloudfest im EUROPA-PARK in Rust. Auch OpenTalk wird als Aussteller vor Ort sein und freut sich auf viele gute Gespräche.
+				</p>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<link>https://opentalk.eu/de/news/chemnitzer-linux-tage-vom-12-13-maerz-2022</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				04.02.2022
+			</time>
+		</div>
+		<div>
+			<div>
+				<p>
+					Unter dem Motto "Voll verteilt" treffen sich vom 12.-13. März 2022 wieder Linux-Profis und solche die es werden wollen, auf den virtuellen Chemnitzer Linux-Tagen. OpenTalk ist als Sponsor und Aussteller mit dabei und wird auch zwei Vorträge zu OpenTalk und der Technik hinter Videokonferenzlösungen halten.
+				</p>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<link>https://opentalk.eu/de/news/opentalk-auf-dem-kgst-forum-bonn</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				01.10.2021
+			</time>
+		</div>
+		<div>
+			<div>
+				<p>
+					Wir präsentieren vom 6. bis 8. Oktober 2021 auf dem Verwaltungskongress KGSt-Forum in Bonn erstmals die innovative Videokonferenzlösung OpenTalk. Das neue Produkt bietet sichere Videokonferenzen für alle Nutzer, die Wert auf Skalierbarkeit, digitale Souveränität und Datenschutz legen.
+				</p>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<link>https://opentalk.eu/de/presse/digitale-souve-raenitaet-und-hoechster-daten-schutz-mit-opentalk</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				04.10.2021
+			</time>
+		</div>
+		<div>
+			<div>
+				<p>
+					Heinlein Support präsentiert auf dem KGSt-Forum die neue sichere Video­konferenz­lösung OpenTalk.
+				</p>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+	</channel>
+</rss>
