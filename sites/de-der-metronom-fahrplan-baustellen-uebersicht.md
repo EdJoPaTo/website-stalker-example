@@ -20,15 +20,11 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [12.12.2021 - 31.05.2022 RB41 nächtliche Bauarbeiten Hamburger Hauptbahnhof](https://www.der-metronom.de/baustellen/rb41-naechtliche-bauarbeiten-hamburger-hauptbahnhof/)
 
-[05.02.2022 - 27.02.2022 RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg an den Wochenenden](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-an-den-wochenenden/)
-
 [05.03.2022 - 18.03.2022 RE4/RB41 weitere Teilausfälle im Bereich Hamburg Hbf - Hamburg-Harburg sowie nachts zwischen Sottrum und Lauenbrück](https://www.der-metronom.de/baustellen/re4-rb41-weitere-teilausfaelle-im-bereich-hamburg-hbf-hamburg-harburg/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [28.01.2022 - 27.02.2022 RE3 nächtliche Bauarbeiten](https://www.der-metronom.de/baustellen/re3-naechtliche-bauarbeiten/)
-
-[05.02.2022 - 27.02.2022 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg an den Wochenenden](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-an-den-wochenenden/)
 
 [05.03.2022 - 18.03.2022 RE3/RB31 weitere Teilausfälle im Bereich Hamburg Hbf - Hamburg-Harburg und zwischen Winsen (L.) und Lüneburg](https://www.der-metronom.de/baustellen/re3-rb31-weitere-teilausfaelle-im-bereich-hamburg-hbf-hamburg-harburg/)
 
@@ -39,8 +35,6 @@ RE2 Uelzen - Celle - Hannover
 [28.02.2022 - 27.03.2022 RE2/RE3 nächtliche Bahnsteig- und Oberleitungsarbeiten (Haltausfälle)](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-bahnsteig-und-oberleitungsarbeiten-haltausfaelle/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[28.01.2022 - 27.02.2022 RE2 nächtliche Bauarbeiten](https://www.der-metronom.de/baustellen/re2-naechtliche-bauarbeiten-1/)
 
 [28.02.2022 - 27.03.2022 RE2/RE3 nächtliche Bahnsteig- und Oberleitungsarbeiten (Haltausfälle)](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-bahnsteig-und-oberleitungsarbeiten-haltausfaelle-1/)
 
