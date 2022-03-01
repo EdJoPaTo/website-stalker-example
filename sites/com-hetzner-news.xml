@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Seasons special: Skip the setup fee on selected AX servers!</title>
+			<link>https://www.hetzner.com/news/03-22-seasons-special/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					01. March 2022
+				</small>
+			</p>
+			<h4>
+				Seasons special: Skip the setup fee on selected AX servers!
+			</h4>
+			<p class="list-card-preview">
+				We want to help you grow this spring. You can now get a Hetzner dedicated root server with an AMD Ryzen™ CPU and skip the setup fees.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/03-22-seasons-special/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Maximize performance and minimize admin overhead: The new Hetzner managed servers</title>
 			<link>https://www.hetzner.com/news/02-22-managed-server/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Have you been hunting high and low for storage? Good news! The new and improved SX-Line dedicated servers are here.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/06-21-sx-line/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Nothing stacks up to EPYC™: New dedicated vCPU servers with the AMD EPYC™ 7003 Series processor are now available</title>
-			<link>https://www.hetzner.com/news/03-21-cloud-amd/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					31. March 2021
-				</small>
-			</p>
-			<h4>
-				Nothing stacks up to EPYC™: New dedicated vCPU servers with the AMD EPYC™ 7003 Series processor are now available
-			</h4>
-			<p class="list-card-preview">
-				We are now offering six new models of dedicated vCPU cloud servers which are equipped with the newest AMD EPYC™ processors.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/03-21-cloud-amd/">
 				Show more
 			</a>
 		</li>
