@@ -1,5 +1,3 @@
-Get up to $235 with extra trade‑in savings on Apple Watch Series 7 when you upgrade during Heart Month. [Shop](https://www.apple.com/us/shop/goto/buy_watch/apple_watch_series_7)
-
 New
 
 Apple Watch Series 7
@@ -144,14 +142,6 @@ rhythm notification
 Emergency SOS
 
 [Compare all models](https://www.apple.com/watch/compare/) [Shop Apple Watch](https://www.apple.com/us/shop/goto/buy_watch)
-
-Limited‑time offer
-
-###  Give more to your heart.  ###
-
-Get up to $235 with extra trade‑in savings on Apple Watch Series 7 when you upgrade during Heart Month.
-
-[Shop](https://www.apple.com/us/shop/goto/buy_watch/apple_watch_series_7)
 
 Apple Fitness Plus
 ----------
