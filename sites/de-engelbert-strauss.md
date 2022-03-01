@@ -1,272 +1,205 @@
-Winter-
-hosen
+DIE NEUEN 18 VOLT POWER-TOOLS
+
+==========
+
+---
+
+Bohr-
+schrauber
 
 ----------
 
 ---
 
-Winter-
-jacken
+Profi-Akku-Bohrschrauber in drei Varianten. Besonders nachhaltig durch das geniale CAS-Akku-System.
+
+[Jetzt nachbohren](https://www.engelbert-strauss.de/akku-bohrschrauber)
+
+[Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
+
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+
+[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
+
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide4)
+
+NEUE KOLLEKTION
+
+==========
+
+---
+
+e.s.Trail
 
 ----------
 
 ---
 
-winter-
-schuhe
+Die neue e.s.trail Kollektion kombiniert High-End Fasern, Komfort und Outdoor-Toughness. So vielseitig und flexibel kann Workwear sein!
+
+[Mehr erfahren](https://www.engelbert-strauss.de/trail)
+
+[Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
+
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+
+[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
+
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide4)
+
+NEUE KOLLEKTION
+
+==========
+
+---
+
+e.s.motion ten sommer
 
 ----------
 
 ---
+
+Luftige Stoffe, lässige Farben und die gewohnte Taschenvielfalt steigern die Vorfreude auf Projekte zur heißen Jahreszeit.
+
+[Mehr erfahren](https://www.engelbert-strauss.de/motion_ten)
+
+[Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
+
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+
+[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
+
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide4)
+
+ENDLICH WIEDER DA - LIMITED EDITION
+
+==========
+
+---
+
+e.s. ventura vintage
+
+----------
+
+---
+
+Diese Saison feiern wir ihr großes Comeback! Und wieder lohnt es sich schnell zu sein, denn auch diese Edition ist limitiert.
+
+[Jetzt neu entdecken](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/)
+
+[Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
+
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+
+[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
+
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide4)
 
 Informationen zu unseren Workwearstores
 
-###
+[Hier informieren](https://www.engelbert-strauss.de/Unternehmen/workwearstore)
 
-Winter-
-handschuhe
+ Neuheiten
 
- ###
+[Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
 
----
-
-###
-
-MULTINORM
-HIGH-VIS
-
- ###
+ WERKZEUGTASCHEN & -GÜRTEL
+==========
 
 ---
 
 ###
 
-Herzlich
-willkommen
+TOOLS IMMER GRIFFBEREIT
 
  ###
 
 ---
 
-ZU EINEM SHOPPING-ERLEBNIS DER GANZ BESONDEREN ART
+[Jetzt zugreifen](https://www.engelbert-strauss.de/heavy_duty)
 
-Online-Shopping mit Store-Feeling: Unser virtueller Shop ist ab sofort geöffnet!
-Strauss tourt durch Europa - und Sie sind mit dabei! Aktueller Halt: Prag
+ NEUE SCHUHE, NEUE STYLES
+==========
 
-[360 ° Shopping-Tour starten](https://www.engelbert-strauss.de/popupstore/popupstore_praha/virtualstore_praha)
-
-DAS NEUESTE VOM STRAUSS
+---
 
 ###
 
-BRAND NEWS
+HANDWERK TRIFFT SCHUHWERK
 
  ###
 
 ---
 
-PFADFINDER:IN
-GESUCHT
+[Mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
-Strauss sucht Bahnbrecher - Mach mit!
-
-[mehr lesen](https://www.engelbert-strauss.de/Unternehmen/Karriere)
-
-MARKEN-OSCAR
-FÜR STRAUSS
-
-Goldenes Brandeisen für wegweisende Marke
-
-[mehr lesen](https://www.engelbert-strauss.de/#)
-
-EVOLUTION NOW
-
-Strauss weiß: Evolution ist immer
-
-[mehr lesen](https://www.engelbert-strauss.de/#)
-
- DEUTSCHLAND
-
-MARKEN-OSCAR
-FÜR STRAUSS
+ NEUHEITEN FÜR
+HERREN
+==========
 
 ---
 
-**Goldenes Brandeisen für wegweisende Marke**
+[Mehr entdecken](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Herren/)
 
- Und der Marken-Oscar goes to: Engelbert Strauss!
-Wir haben bei der Marken Gala in der Alten Oper Frankfurt abgeräumt.
-Das Goldene Brandeisen würdigt wegweisende Markenmacher. Wissen wir zu schätzen! Wir sind überzeugt: Marken schaffen Wert.
-Und wir haben weitere brandheiße Thesen auf Lager.
-
-Marke braucht Mut.
-Marke ist Metamorphose.
-Marke ist Magie.
-To be continued.
-
- POLEN
-
-Pop Up
-in Polen
+ NEUHEITEN FÜR
+DAMEN
+==========
 
 ---
 
-**Kattowitz, Strauss kommt!**
+[Mehr entdecken](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
 
- Der Vogel landet in Polen. Los geht’s mit unserem brandneuen Pop Up-Konzept. Unsere polnischen Fans zieht’s in die Zinkschmelze.
-
-[VIRTUAL POPUP STORE](https://www.engelbert-strauss.de/popupstore/popupstore_katowice/virtualstore_katowice)
-
- Next Level: Shopping per QR-Scan. Alle Features auf dem Display. Finaler Farbvergleich. Check!
-Der Scan sagt, was passt: Digitales Size Screening vor der LED-Wall.
-
-On top: Wir lassen den Store auf deinem Device zuhause aufpoppen. Virtual Shopping – da ist sie, die Zukunft.
-
- E.S.BAR, BIEBERGEMÜND
-
-„IMPFBURGER“, AUFGEPASST!
+ NEUHEITEN FÜR
+KINDER
+==========
 
 ---
 
-**Gratis Burger für alle Impflinge & Begleitpersonen!
- Sonntag, 12.09., 11:00 - 15:00 Uhr**
+[Mehr entdecken](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Kinder/)
 
- Erst Pieks, dann Burger. Klar, wir machen’s schmackhaft.
-
-Alle wollen wieder normal – deshalb pusht Strauss die Impfquote (intern wie extern).
-
-An unserer preisgekrönten e.s.BAR gibt’s ein Burger-Menü für Impfling inklusive Freund!
-
-Wähle weise: Fancy Falafel, Camembert oder Cheeseburger klassisch? Pommes, hausgemachtes Eis und Drink packen wir obendrauf.
-
- ISLAND
-
-Evolution now
+###  Auf der Suche nach der richtigen Hose?  ###
 
 ---
 
-**Strauss weiß: Evolution ist immer**
+ In wenigen Schritten zur perfekten Hose
 
- Uns neu erfinden ist sozusagen Tagesgeschäft – zuletzt haben wir den Vogel geupdatet.
+[Jetzt starten](https://www.engelbert-strauss.de/arbeitshosen/?trouserfinder=open)
 
-**Nächster Halt: Incredible Iceland!**
-Auf der Vulkaninsel kann man fantastische Fotos schießen. Elementarer aber wirkte die Energie im Land von Feuer und Eis auf uns. Fast mystisch, wie heimisch sich der Strauss am Polarkreis fühlte.
-Denn: Island pulsiert. Island ist inselgewordene Evolution. Island ist eine Naturgewalt, ist Energie und Vorwärtsdrang.Die Energie nehmen wir mit – und leiten sie direkt in unsere Brand Evolution. Evolution ist jetzt!
+[Hosenfinder](https://www.engelbert-strauss.de/#!productfinder/trouserfinder)
 
-[![Embedded YouTube video](https://img.youtube.com/vi/khws5Sh8JbI/0.jpg)](https://www.youtube.com/watch?v=khws5Sh8JbI)
+[Jackenfinder](https://www.engelbert-strauss.de/#!productfinder/jacketfinder)
 
- DEUTSCHLAND
-
-Strauss x
-FC Bayern
+###  AUF DER SUCHE NACH DER RICHTIGEN JACKE?  ###
 
 ---
 
-**Masterpieces für den Rekordmeister**
+ In wenigen Schritten zur perfekten Jacke
 
- Safety Shoes made in Germany für den deutschen Rekordmeister!
-Erster prominenter Brand Partner in unserer CI:
-Die Weltmarke aus München.
+[Jetzt starten](https://www.engelbert-strauss.de/arbeitsjacken/?jacketfinder=open)
 
- Die Greenkeeper an der Säbener schwören schon lange auf den Vogel. Jetzt gibt’s die ersten gemeinsamen Masterpieces für Millionen Fans weltweit.
-Die FCB Safety Shoes fertigen wir in unserer CI Factory an der A66.
+[Hosenfinder](https://www.engelbert-strauss.de/#!productfinder/trouserfinder)
 
- EUROPA
+[Jackenfinder](https://www.engelbert-strauss.de/#!productfinder/jacketfinder)
 
-Farmers Cup
+ Newsletter abonnieren
 
----
+ und exklusive Aktionen, Gutscheine & Schnäppchen sichern
 
-**Meisterwerke der Vogelperspektive**
+[Jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
 
- Unsere Profi-Farmer haben’s gerockt: bei unserem Farmers Cup haben sechs Landwirte aus Europa um die Wette gepflügt und gesät.
+ Bestellvorteile auf einen Blick
 
-Ihre Aufgabe: den brandneuen Straussenvogel zum Blühen bringen – und zwar in Übergröße. Aus der Vogelperspektive: echte Meisterwerke!
+ 30 TAGE RÜCKGABERECHT
 
-[![Embedded YouTube video](https://img.youtube.com/vi/6Igm2nN3oW8/0.jpg)](https://www.youtube.com/watch?v=6Igm2nN3oW8)
+[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
 
- Die Chance für die Agrar-Asse, ihr ganzes Können aufzufahren: mit althergebrachter Expertise und modernster GPS-Technik haben sie Monumentales geschaffen.
+ KOSTENLOSE RÜCKSENDUNGEN
 
-Zehn Millionen Fans feierten mit – und voteten Grzegorz Bardowski aus Polen zum Europameister!
+[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
 
- EUROPA
+ KAUF AUF RECHNUNG
 
-UEFA
-
----
-
-**Strauss spielt international**
-
- Rom, Mailand oder London – wenn der Club europäisch spielt, schlägt jedes Fan-Herz höher. Die Euphorie ist zurück in den Stadien. Strauss ist dabei.
-
- Als Official Partner der UEFA Europa League und der brandneuen Conference League pushen wir unser Premium-Portfolio mit internationaler Reichweite der Spitzenklasse!
-
- CI-FACTORY
-
-Special Award
-Workwear Couture
-
----
-
-**Strauss magnetisiert die Modewelt**
-
- It’s a Magnetic World. Mode ist Magnet. Textil zieht an.
-Und im Kosmos gelten eigene Gesetze.
-Fashion ist Feingeist. Workwear ist resolut.
-Fashion ist Form. Workwear ist Function.
-
-Aber Workwear kann sowohl als auch.
-Strauss überwindet die Naturgesetze und vereint
- Function und Fashion.
-Workwear ist Wechselwirkung.
-Strauss sagt: Die Welt braucht beides.
-
-[![Embedded YouTube video](https://img.youtube.com/vi/-Zx8Hg4pqik/0.jpg)](https://www.youtube.com/watch?v=-Zx8Hg4pqik)
-
- Und die Welt braucht eine neue Generation von Schneider-Künstlern. Sie braucht Geist und Geschick, Phantasie und handwerkliche Umsetzung.
-
-Deshalb gibt’s den Special Award Workwear Couture – den haben wir beim European Fashion Award FASH im Rahmen der Frankfurt Fashion Week erstmalig vergeben.
-
-Die 15 Finalist\*innen haben mit unserer Mystery Toolbox Magnetic Statement Pieces kreiert. Unsere Bewertungskriterien: Handwerkliche Umsetzung, Funktionalität, Materialauswahl, Innovation, Nachhaltigkeit und Entwicklungspotenzial.
-
-Vom Hocker gehauen haben uns alle Finalist\*innen – ganz besonders Award Winner Juan Montes!
-
- BIEBERGEMÜND
-
-About Strauss
-
----
-
-**Europas führende Work und Utility Brand**
-
- Die Produkte mit Utilitycharakter haben mittlerweile regelrechten Lifestyle- und Kultstatus unter den Fans.
-
-Den Großteil des Umsatzes, der 2019 erstmals die Milliardengrenze überschritten hat, erwirtschaftet Strauss online und gehört so zu den Top 5 der Onlinehändler in Deutschland. Das Unternehmen mit Sitz im hessischen Main-Kinzig-Kreis beschäftigt 1400 Mitarbeiter und fertigt in 27 Ländern weltweit mit Schwerpunkt in Südostasien.
-
-Strauss ist seit Jahrzehnten führend im Bereich Customizing und Branding und zählt zu den Top 5 Onlinehändlern in Deutschland. Der neueste Meilenstein: Die CI-Factory in unmittelbarer Nähe zum Headquarter an der A66 mit einer Investitionssumme von rund 200 Millionen Euro.
-
- Am neuen Produktionsstandort schafft das Familienunternehmen durch modernste Logistik, Laser-Technik und Robotik neue Möglichkeiten zur Individualisierung von Shirts, Hosen und Schuhen in Wunschfarbe. Besonderes Highlight ist die gläserne Schuhfabrik.
-
-Bereits in den vergangenen Jahren hat Strauss mit außergewöhnlichen Partnerschaften in Sport und Entertainment für Aufsehen gesorgt - darunter Kollaborationen mit den Weltstars von Metallica oder der Stuntmen`s Association in Hollywood.
-
-Die strategische Ausrichtung im Sportsponsoring konzentriert sich auf den Premiumbereich - Strauss ist offizieller Partner der Deutschen Fußballnationalmannschaft und des DFB-Pokals, Official Partner des FC Bayern München sowie Presenting Partner der Champions Hockey League und Offizieller Partner der Eishockey WM 2021. Der Vogel ziert außerdem die FIFA 21 InGame-Banden und kooperiert als Kit Supplier und Nachwuchsförderer mit der esports player foundation.
-
- BAD ORB
-
-ALEA PARK
-
----
-
-**Alea Park – Life in Balance**
-
- Unternehmensresort? Klingt fancy. Ist fancy!
-
-Strauss baut ein Hideaway inklusive Spa & Fitness für Strausse (und wer’s noch werden will).
-Look & Feel: Kosmopolitische Baukunst, heimische Flora inklusive.
-
-Highend-Hospitality: Unsere neue Venue für Strategie-Sessions und Symposien.
-On top: Add-On für die preisgekrönte Kulinarik im Ivy.
-Strausse in Balance – Strauss in Balance.
+[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
 
 []()
 
