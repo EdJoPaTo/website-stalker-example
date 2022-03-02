@@ -13,7 +13,7 @@ schrauber
 
 Profi-Akku-Bohrschrauber in drei Varianten. Besonders nachhaltig durch das geniale CAS-Akku-System.
 
-[Jetzt nachbohren](https://www.engelbert-strauss.de/akku-bohrschrauber)
+[Jetzt nachbohren](https://www.engelbert-strauss.de/akku-bohrschrauber?ItemOrigin=StartFS22)
 
 [Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
 
@@ -37,7 +37,7 @@ e.s.Trail
 
 Die neue e.s.trail Kollektion kombiniert High-End Fasern, Komfort und Outdoor-Toughness. So vielseitig und flexibel kann Workwear sein!
 
-[Mehr erfahren](https://www.engelbert-strauss.de/trail)
+[Mehr erfahren](https://www.engelbert-strauss.de/trail?ItemOrigin=StartFS22)
 
 [Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
 
@@ -61,7 +61,7 @@ e.s.motion ten sommer
 
 Luftige Stoffe, lässige Farben und die gewohnte Taschenvielfalt steigern die Vorfreude auf Projekte zur heißen Jahreszeit.
 
-[Mehr erfahren](https://www.engelbert-strauss.de/motion_ten)
+[Mehr erfahren](https://www.engelbert-strauss.de/motion_ten?ItemOrigin=StartFS22)
 
 [Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
 
@@ -85,7 +85,7 @@ e.s. ventura vintage
 
 Diese Saison feiern wir ihr großes Comeback! Und wieder lohnt es sich schnell zu sein, denn auch diese Edition ist limitiert.
 
-[Jetzt neu entdecken](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/)
+[Jetzt neu entdecken](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/?ItemOrigin=StartFS22)
 
 [Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
 
@@ -97,11 +97,11 @@ Diese Saison feiern wir ihr großes Comeback! Und wieder lohnt es sich schnell z
 
 Informationen zu unseren Workwearstores
 
-[Hier informieren](https://www.engelbert-strauss.de/Unternehmen/workwearstore)
+[Hier informieren](https://www.engelbert-strauss.de/Unternehmen/workwearstore?ItemOrigin=StartFS22)
 
  Neuheiten
 
-[Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
+[Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/?ItemOrigin=StartFS22)
 
  WERKZEUGTASCHEN & -GÜRTEL
 ==========
@@ -116,7 +116,7 @@ TOOLS IMMER GRIFFBEREIT
 
 ---
 
-[Jetzt zugreifen](https://www.engelbert-strauss.de/heavy_duty)
+[Jetzt zugreifen](https://www.engelbert-strauss.de/heavy_duty?ItemOrigin=StartFS22)
 
  NEUE SCHUHE, NEUE STYLES
 ==========
@@ -131,7 +131,7 @@ HANDWERK TRIFFT SCHUHWERK
 
 ---
 
-[Mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
+[Mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten?ItemOrigin=StartFS22)
 
  NEUHEITEN FÜR
 HERREN
@@ -185,21 +185,21 @@ KINDER
 
  und exklusive Aktionen, Gutscheine & Schnäppchen sichern
 
-[Jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
+[Jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?ItemOrigin=StartFS22)
 
  Bestellvorteile auf einen Blick
 
  30 TAGE RÜCKGABERECHT
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch?ItemOrigin=StartFS22)
 
  KOSTENLOSE RÜCKSENDUNGEN
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch?ItemOrigin=StartFS22)
 
  KAUF AUF RECHNUNG
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
+[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen?ItemOrigin=StartFS22)
 
 []()
 
