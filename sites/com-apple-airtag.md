@@ -4,7 +4,7 @@ AirTag
 Lose your knack
 for losing things.
 
-AirTag is a supereasy way to keep track of your stuff. Attach one to your keys, slip another in your backpack. And just like that, they’re on your radar in the Find My app, where you can also track down your Apple devices and keep up with friends and family.
+AirTag is a supereasy way to keep track of your stuff. Attach one to your keys. Put another in your backpack. And just like that, they’re on your radar in the Find My app, where you can also track down your Apple devices and keep up with friends and family.
 
 [Buy AirTag](https://www.apple.com/us/shop/goto/buy_airtag/airtag)
 
