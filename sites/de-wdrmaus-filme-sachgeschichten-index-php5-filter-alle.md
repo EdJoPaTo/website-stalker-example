@@ -238,6 +238,7 @@
 * [Forelle](https://www.wdrmaus.de/filme/sachgeschichten/forelle.php5)
 * [Formel 1: Boxenstopp](https://www.wdrmaus.de/filme/sachgeschichten/formel1_boxenstopp.php5)
 * [Formel 1: Vergleich](https://www.wdrmaus.de/filme/sachgeschichten/formel1_vergleich.php5)
+* [Fototasse](https://www.wdrmaus.de/filme/sachgeschichten/fototasse.php5)
 * [Frankreich-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/frankreich_spezial.php5)
 * [Freiformschmiede](https://www.wdrmaus.de/filme/sachgeschichten/freiformschmiede.php5)
 * [Früher-Heute-Geschichten: Brötchen](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_broetchen.php5)
