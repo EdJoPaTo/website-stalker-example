@@ -1,12 +1,23 @@
+[](https://www.apple.com/105/media/us/apple-events/2022/ec8c635b-2e18-4090-88a5-f74e3b1021cb/quick-look/apple_event.reality#callToAction=Add%20to%20calendar&checkoutTitle=Apple%20Event&checkoutSubtitle=March%208%20at%2010%20a.m.%20PST.&canonicalWebPageURL=https%3A%2F%2Fapple.com%2Fapple-events%2F&price=)
+
 Apple Event
 ==========
 
-Introducing the new MacBook Pro with M1 Pro or M1 Max chip, all-new AirPods, and HomePod mini in five bold colors.
+Watch on 3/8 at 10 a.m. PST.
+View online at apple.com or on the Apple TV app.
 
-[Learn more](https://www.apple.com/apple-events/october-2021/)
+[Add to your calendar](https://www.apple.com/v/apple-events/home/u/built/assets/event/event.ics)
+
+Copied to clipboard
 
 View recent Apple events
 ----------
+
+### Apple Event October 18, 2021 ###
+
+Introducing the new MacBook Pro with M1 Pro or M1 Max, all-new AirPods, and HomePod mini in five bold colors.
+
+[Learn more](https://www.apple.com/apple-events/october-2021/)
 
 ### Apple Event September 14, 2021 ###
 
@@ -14,11 +25,11 @@ Introducing iPhone 13 Pro, iPhone 13, Apple Watch Series 7, and the new iP
 
 [Learn more](https://www.apple.com/apple-events/september-2021/)
 
+[](https://p-events-delivery.akamaized.net/1805asrvgvurxcrkewleraugwqathmvg/m3u8/vod_index-YVvsDudyWzBdgmtcMPabYTdjaWWmbLaA.m3u8)
+
 ### WWDC June 7, 2021 ###
 
 Introducing iOS 15, iPadOS 15, macOS Monterey, and watchOS 8.
-
-[Learn more](https://www.apple.com/apple-events/june-2021/)
 
 [](https://p-events-delivery.akamaized.net/2503gakrdvgbtjurznurjjqymkcddibq/m3u8/vod_index-K6CoBBbf8HHUAvAfk9LyGj2iaPiGyi9d.m3u8)
 
@@ -37,12 +48,6 @@ Introducing the new MacBook Air, 13‑inch MacBook Pro, and Mac mini, all wi
 ### Apple Event October 13, 2020 ###
 
 Introducing iPhone 12 and iPhone 12 Pro with 5G, MagSafe accessories, and HomePod mini.
-
-[](https://p-events-delivery.akamaized.net/1108byjxmnoakagswdphbwatymztxxew/m3u8/vod_index.m3u8)
-
-### Apple Event September 15, 2020 ###
-
-Introducing Apple Watch Series 6, Apple Watch SE, Apple Fitness+, the new iPad Air and iPad, and Apple One — the all-new Apple services bundle.
 
 [View all Apple events](https://podcasts.apple.com/us/podcast/apple-events-video/id275834665/)
 ----------
