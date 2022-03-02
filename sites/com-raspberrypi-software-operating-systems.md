@@ -11,7 +11,6 @@ Download:
 * [Raspberry Pi OS (64-bit)](#raspberry-pi-os-64-bit)
 * [Raspberry Pi OS (Legacy)](#raspberry-pi-os-legacy)
 * [Raspberry Pi Desktop](#raspberry-pi-desktop)
-* [Third-party software](#third-party-software)
 
 Raspberry Pi OS
 ----------
@@ -163,46 +162,5 @@ Compatible with:
 Show SHA256 file integrity hash:c78c8dca8ca80ffbac90f4cedfedb6793b37b06df307b0c87e778eef3842a9be
 
 [Download](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso)[Download torrent](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso.torrent)[Archive](https://downloads.raspberrypi.org/rpd_x86/images/)
-
-Third-party software
-----------
-
-Here are some other operating systems you can use with your Raspberry Pi
-
-### LibreElec ###
-
-A Kodi Entertainment Center distribution
-
-[Download](https://libreelec.tv/)
-
-### Ubuntu Desktop ###
-
-An open source desktop operating system that's widely used around the world, complete with all the essential applications for home, school, and work
-
-[Download](https://ubuntu.com/download/raspberry-pi)
-
-### Ubuntu Server ###
-
-A popular flavour of Linux for cloud and data centre environments
-
-[Download](https://ubuntu.com/download/raspberry-pi)
-
-### Ubuntu Core ###
-
-Ubuntu for embedded environments, optimised for security and reliable updates
-
-[Download](https://ubuntu.com/download/raspberry-pi-core)
-
-### RetroPie ###
-
-Turn your Raspberry Pi into a retro-gaming machine
-
-[Download](https://retropie.org.uk/)
-
-### TLXOS ###
-
-30-day trial of ThinLinX's Debian-based thin client for Raspberry Pi
-
-[Download](https://thinlinx.com/)
 
 Note: Mathematica and the Wolfram Language are included in this release under license and with permission of Wolfram Research, Inc. and may be used for non-commercial purposes only. By using this software you agree to be bound by [the Wolfram Raspberry Pi Bundle License Agreement](http://www.wolfram.com/legal/agreements/wolfram-mathematica-raspberry-pi.html).
