@@ -7,6 +7,7 @@
 
 * [180 Grad Artistic](https://www.wdrmaus.de/filme/sachgeschichten/180_grad_artistic.php5)
 * [360-Grad](https://www.wdrmaus.de/filme/sachgeschichten/360_grad.php5)
+* [3D Maus](https://www.wdrmaus.de/filme/sachgeschichten/3d_maus.php5)
 * [3D-Druck](https://www.wdrmaus.de/filme/sachgeschichten/3d_druck.php5)
 * [Abblendspiegel](https://www.wdrmaus.de/filme/sachgeschichten/abblendspiegel.php5)
 * [Abwasser](https://www.wdrmaus.de/filme/sachgeschichten/abwasser.php5)
