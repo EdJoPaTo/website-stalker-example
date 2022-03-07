@@ -6,6 +6,11 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Diablo 3 PTR 2.7.3 | Preview Blog</title>
+			<link>https://us.diablo3.blizzard.com/en-us/blog/23774698/diablo-3-ptr-273-%7C-preview-blog-3-7-2022</link>
+			<content:encoded><![CDATA[Our two-week PTR testing period for the 2.7.3 update begins on March 10, and we're asking for your help to quell the tides of surging demons.]]></content:encoded>
+		</item>
+		<item>
 			<title>Diablo IV Quarterly Update—December 2021</title>
 			<link>https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021-12-20-2021</link>
 			<content:encoded><![CDATA[Learn more about itemization, Paragon updates, and the visual effects of Diablo IV in this next Quarterly Developer Update.]]></content:encoded>
@@ -54,11 +59,6 @@
 			<title>DIABLO IMMORTAL CLOSED ALPHA — THE CRUSADE BEGINS</title>
 			<link>https://news.blizzard.com/en-us/diablo-immortal/23657317/diablo-immortal-closed-alpha-the-crusade-begins-4-21-2021</link>
 			<content:encoded><![CDATA[Learn more about the Diablo Immortal Closed Alpha. Get all the details and answers to your most pressing questions about the limited public Closed Alpha.]]></content:encoded>
-		</item>
-		<item>
-			<title>Diablo® II: Resurrected™ Technical Alpha — Experience the Legend</title>
-			<link>https://news.blizzard.com/en-us/diablo2/23658118/diablo%C2%AE-ii-resurrected%E2%84%A2-technical-alpha-experience-the-legend-4-6-2021</link>
-			<content:encoded><![CDATA[Learn more about the Diablo II: Resurrected Technical Alpha. Get all the details and answers to your most pressing questions about the limited public Technical Alpha.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
