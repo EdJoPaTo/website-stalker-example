@@ -44,6 +44,12 @@ Open Menu
 
  A new economy is **possible.** We’re enabling its **pioneers.**
 
+Purpose & the Foundation for Steward-Ownership are hosting a big conference on steward-ownership on **September 5th & 6th, 2022.**
+
+[Click here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnRrYmw4cHJkN25zZnVncDZiNHBrNnRlcHMgaGFsbG9wdXJwb3NlQHB1cnBvc2UuYWc&tmsrc=hallopurpose%40purpose.ag) to save the date in your calendar already or visit the [conference 2022 website](https://www.steward-ownership2022.org/en)for more information.
+
+We look forward to seeing you there!
+
 A more equitable and sustainable economy is possible. We enable the pioneering founders, business leaders, and investors who are building it, by re-envisioning the nature of corporate ownership.
 
 [](https://www.business-punk.com/2018/10/ecosia/)
