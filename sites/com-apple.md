@@ -1,4 +1,4 @@
-* [Global Nav Open Menu](https://www.apple.com/#ac-gn-menustate) [Global Nav Close Menu](https://www.apple.com/#)
+* [Global Nav Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gn-menustate) [Global Nav Close Menu](https://www.apple.com/apple-events/event-stream/#)
 * [Apple](https://www.apple.com/)
 * [Shopping Bag](https://www.apple.com/us/shop/goto/bag) +
 
@@ -20,9 +20,14 @@
 
  Cancel
 
+[ Apple](https://www.apple.com/)
+
+1. [Apple Events](https://www.apple.com/apple-events/)
+2. Apple Special Event Stream
+
 ### Shop and Learn ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-products) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-products) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Store](https://www.apple.com/us/shop/goto/store)
 * [Mac](https://www.apple.com/mac/)
@@ -38,7 +43,7 @@
 
 ### Services ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-services) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-services) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Apple Music](https://www.apple.com/apple-music/)
 * [Apple TV+](https://www.apple.com/apple-tv-plus/)
@@ -54,7 +59,7 @@
 
 ### Account ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-accounts) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-accounts) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Manage Your Apple ID](https://appleid.apple.com/us/)
 * [Apple Store Account](https://www.apple.com/us/shop/goto/account)
@@ -62,7 +67,7 @@
 
 ### Apple Store ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-storeservices) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-storeservices) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Find a Store](https://www.apple.com/retail/)
 * [Genius Bar](https://www.apple.com/retail/geniusbar/)
@@ -77,14 +82,14 @@
 
 ### For Business ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-business) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-business) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Apple and Business](https://www.apple.com/business/)
 * [Shop for Business](https://www.apple.com/retail/business/)
 
 ### For Education ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-education) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-education) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Apple and Education](https://www.apple.com/education/)
 * [Shop for K-12](https://www.apple.com/education/k12/how-to-buy/)
@@ -92,7 +97,7 @@
 
 ### For Healthcare ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-healthcare) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-healthcare) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Apple in Healthcare](https://www.apple.com/healthcare/)
 * [Health on Apple Watch](https://www.apple.com/healthcare/apple-watch/)
@@ -100,14 +105,14 @@
 
 ### For Government ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-government) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-government) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Shop for Government](https://www.apple.com/r/store/government/)
 * [Shop for Veterans and Military](https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary)
 
 ### Apple Values ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-responsibility) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-responsibility) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Accessibility](https://www.apple.com/accessibility/)
 * [Education](https://www.apple.com/education/connectED/)
@@ -119,7 +124,7 @@
 
 ### About Apple ###
 
-[Open Menu](https://www.apple.com/#ac-gf-directory-column-section-state-about) [Close Menu](https://www.apple.com/#)
+[Open Menu](https://www.apple.com/apple-events/event-stream/#ac-gf-directory-column-section-state-about) [Close Menu](https://www.apple.com/apple-events/event-stream/#)
 
 * [Newsroom](https://www.apple.com/newsroom/)
 * [Apple Leadership](https://www.apple.com/leadership/)
