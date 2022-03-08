@@ -3,7 +3,7 @@
 Apple Event
 ==========
 
-Watch tomorrow at 10 a.m. PST.
+Watch today at 10 a.m. PST.
 View online at apple.com or on the Apple TV app.
 
 [Add to your calendar](https://www.apple.com/v/apple-events/home/u/built/assets/event/event.ics)
