@@ -292,9 +292,9 @@ environmental report card.
 
   [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_11_PER_sept2019.pdf)
 
-* iPhone SE (2nd generation)
+* iPhone SE (3rd generation)
 
-  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_April2020.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_March2022.pdf)
 
 ### iPad ###
 
@@ -306,9 +306,9 @@ environmental report card.
 
   [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_Apr2021.pdf)
 
-* iPad Air (4th generation)
+* iPad Air (5th generation)
 
-  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadAir_PER_sept2020.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPad_Air_PER_March2022.pdf)
 
 * iPad (9th generation)
 
@@ -356,31 +356,27 @@ environmental report card.
 
 ### Desktops ###
 
-* 27-inch iMac with Retina 5K
-
-  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Aug2020.pdf)
-
 * 24-inch iMac
 
   [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/24-inch_iMac_PER_Apr2021.pdf)
-
-* 21.5-inch iMac
-
-  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2017.pdf)
-
-* iMac Pro
-
-  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/iMac_Pro_PER_June2019.pdf)
-
-* Mac Pro
-
-  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Mac_Pro_PER_Dec2019.pdf)
 
 * Mac mini
 
   [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_Nov2020.pdf)
 
+* Mac Studio
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Mac_Studio_PER_March2022.pdf)
+
+* Mac Pro
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/Mac_Pro_PER_Dec2019.pdf)
+
 ### Displays ###
+
+* Studio Display
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/displays/Apple_Studio_Display_PER_March2022.pdf)
 
 * Pro Display XDR
 
@@ -413,6 +409,10 @@ environmental report card.
   [View (PDF)](https://www.apple.com/environment/pdf/products/ipod/iPodtouch_PER_may2019.pdf)
 
 ### Archived reports ###
+
+* iPhone SE (2nd generation)
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_April2020.pdf)
 
 * iPhone 12 Pro Max
 
@@ -505,6 +505,10 @@ environmental report card.
 * iPhone 3GS
 
   [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/iPhone_3GS-Environmental-Report.pdf)
+
+* iPad Air (4th generation)
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/ipad/iPadAir_PER_sept2020.pdf)
 
 * iPad (8th generation)
 
@@ -841,6 +845,18 @@ environmental report card.
 * MacBook
 
   [View (2009 PDF)](https://www.apple.com/environment/pdf/products/archive/2009/MacBook-White_Environmental_Report_20091020.pdf)
+
+* 27-inch iMac with Retina 5K
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Aug2020.pdf)
+
+* 21.5-inch iMac
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2017.pdf)
+
+* iMac Pro
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/desktops/iMac_Pro_PER_June2019.pdf)
 
 * 21.5-inch iMac with Retina 4K
 

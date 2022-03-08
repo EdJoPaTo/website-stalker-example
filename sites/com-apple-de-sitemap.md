@@ -78,14 +78,15 @@ Apple Sitemap
   * [MacBook Air](https://www.apple.com/de/macbook-air/)
   * [13" MacBook Pro](https://www.apple.com/de/macbook-pro-13/)
   * [14" und 16" MacBook Pro](https://www.apple.com/de/macbook-pro-14-and-16/)
-  * [Mac mini](https://www.apple.com/de/mac-mini/)
   * [24” iMac](https://www.apple.com/de/imac-24/)
-  * [27" iMac](https://www.apple.com/de/imac-27/)
+  * [Mac mini](https://www.apple.com/de/mac-mini/)
+  * [Mac Studio](https://www.apple.com/de/mac-studio/)
   * [Mac Pro](https://www.apple.com/de/mac-pro/)
   * [Mac Modelle vergleichen](https://www.apple.com/de/mac/compare/)
 
 * ###  Apple Zubehör  ###
 
+  * [Studio Display](https://www.apple.com/de/studio-display/)
   * [Pro Display XDR](https://www.apple.com/de/pro-display-xdr/)
 
 * ###  Mac Zubehör  ###
@@ -387,6 +388,7 @@ Apple Sitemap
 * ###  TV & Home Zubehör  ###
 
   * [Apple TV Zubehör Startseite](https://www.apple.com/de/shop/goto/smart_home/accessories)
+  * [Apple TV Halterungen](https://www.apple.com/de/shop/goto/tv/tv_accessories/mounts)
   * [Kopfhörer & Lautsprecher](https://www.apple.com/de/shop/goto/tv/tv_accessories/headphones_speakers)
   * [HomeKit](https://www.apple.com/de/shop/goto/accessories/homekit)
   * [Mesh WLAN](https://www.apple.com/de/shop/goto/tv/tv_accessories/networking)
@@ -476,6 +478,7 @@ Apple Sitemap
   * [iPad Zubehör](https://www.apple.com/de/shop/goto/ipad/accessories)
   * [iPhone Zubehör](https://www.apple.com/de/shop/goto/iphone/accessories)
   * [Watch Zubehör](https://www.apple.com/de/shop/goto/watch/accessories)
+  * [Apple TV & Home Zubehör](https://www.apple.com/de/shop/goto/smart_home/accessories)
 
 * ###  Nach Kategorie einkaufen  ###
 
@@ -493,7 +496,6 @@ Apple Sitemap
   * [Mäuse & Tastaturen](https://www.apple.com/de/shop/goto/buy_accessories/mice_keyboards)
   * [Netzwerkbetrieb](https://www.apple.com/de/shop/goto/buy_accessories/networking)
   * [Fotografie](https://www.apple.com/de/shop/goto/accessories/all_accessories/photography)
-  * [POS-Zubehör](https://www.apple.com/de/shop/goto/accessories/all_accessories/point_of_sale)
   * [Strom & Kabel](https://www.apple.com/de/shop/goto/accessories/power_cables)
   * [Drucker & Scanner](https://www.apple.com/de/shop/goto/accessories/printers_scanners)
   * [Software](https://www.apple.com/de/shop/goto/buy_accessories/software)

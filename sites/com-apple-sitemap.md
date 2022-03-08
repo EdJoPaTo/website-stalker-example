@@ -80,14 +80,15 @@ Apple Site Map
   * [MacBook Air](https://www.apple.com/macbook-air/)
   * [MacBook Pro 13”](https://www.apple.com/macbook-pro-13/)
   * [MacBook Pro 14” and 16”](https://www.apple.com/macbook-pro-14-and-16/)
-  * [Mac mini](https://www.apple.com/mac-mini/)
   * [iMac 24”](https://www.apple.com/imac-24/)
-  * [iMac 27”](https://www.apple.com/imac-27/)
+  * [Mac mini](https://www.apple.com/mac-mini/)
+  * [Mac Studio](https://www.apple.com/mac-studio/)
   * [Mac Pro](https://www.apple.com/mac-pro/)
   * [Compare Mac Models](https://www.apple.com/mac/compare/)
 
 * ###  Apple Accessories  ###
 
+  * [Studio Display](https://www.apple.com/studio-display/)
   * [Pro Display XDR](https://www.apple.com/pro-display-xdr/)
 
 * ###  Mac Accessories  ###
@@ -398,6 +399,7 @@ Apple Site Map
 * ###  TV & Home Accessories  ###
 
   * [All Apple TV & Home Accessories](https://www.apple.com/us/shop/goto/smart_home/accessories)
+  * [Apple TV Mounts](https://www.apple.com/us/shop/goto/tv/tv_accessories/mounts)
   * [Gaming](https://www.apple.com/us/shop/goto/tv/tv_accessories/gaming)
   * [Headphones & Speakers](https://www.apple.com/us/shop/goto/tv/tv_accessories/headphones_speakers)
   * [HomeKit](https://www.apple.com/us/shop/goto/accessories/homekit)

@@ -1,7 +1,29 @@
 Mac
 ==========
 
-NewMacBook Pro
+New Mac Studio
+----------
+
+Empower station.
+
+[Order now](https://www.apple.com/us/shop/goto/buy_mac/mac_studio)
+
+[Learn more](https://www.apple.com/mac-studio/)
+
+Available starting 3.18
+
+New Studio Display
+----------
+
+A sight to be bold.
+
+[Order now](https://www.apple.com/us/shop/goto/buy_mac/mac_studio_display)
+
+[Learn more](https://www.apple.com/studio-display/)
+
+Available starting 3.18
+
+MacBook Pro
 ----------
 
 Supercharged for pros.
@@ -21,11 +43,11 @@ right for you?
 
 ### MacBook Air ###
 
-[View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_air_m1_chip_silver_ios15.usdz)
-
 [Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_air)
 
 [Learn more](https://www.apple.com/macbook-air/)
+
+[View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_air_m1_chip_silver_ios15.usdz)
 
 Apple M1 chip
 
@@ -64,11 +86,11 @@ Touch ID
 
 ### MacBook Pro 13” ###
 
-[View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_13in_2port_m1_chip_silver_ios15.usdz)
-
 [Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_13)
 
 [Learn more](https://www.apple.com/macbook-pro-13/)
+
+[View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_13in_2port_m1_chip_silver_ios15.usdz)
 
 Apple M1 chip
 
@@ -103,15 +125,13 @@ Touch Bar and Touch ID
 
 [](https://www.apple.com/macbook-pro-14-and-16/)
 
-New
-
 ### MacBook Pro 14” and 16” ###
-
-[View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_16_silver.usdz)
 
 [Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_14)
 
 [Learn more](https://www.apple.com/macbook-pro-14-and-16/)
+
+[View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_16_silver.usdz)
 
 Apple M1 Pro chip or
 Apple M1 Max chip
@@ -153,11 +173,11 @@ Touch ID
 
 ### iMac 24” ###
 
-[View in AR](https://www.apple.com/105/media/us/mac/2021/5e004d75-3ad6-4bb9-ab59-41f891fc52f0/ar/imac-24/imac24_blue_ios14.usdz)
-
 [Buy](https://www.apple.com/us/shop/goto/imac)
 
 [Learn more](https://www.apple.com/imac-24/)
+
+[View in AR](https://www.apple.com/105/media/us/mac/2021/5e004d75-3ad6-4bb9-ab59-41f891fc52f0/ar/imac-24/imac24_blue_ios14.usdz)
 
 Apple M1 chip
 
@@ -173,6 +193,8 @@ GPU
 
 Up to 16GB unified memory
 
+For increased performance and power efficiency
+
 #### 2TB ####
 
 Maximum configurable storage
@@ -181,55 +203,100 @@ Maximum configurable storage
 
 Retina display
 
+218 ppi
+
 1080p FaceTime HD camera
+
+With the image signal processor of M1 for drastically improved performance
 
 Configurable with Magic Keyboard with Touch ID and Numeric Keypad
 
-[](https://www.apple.com/imac-27/)
+[](https://www.apple.com/mac-mini/)
 
-### iMac 27” ###
+### Mac mini ###
 
-[Buy](https://www.apple.com/us/shop/goto/buy_mac/imac_27)
+[Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_mini)
 
-[Learn more](https://www.apple.com/imac-27/)
+[Learn more](https://www.apple.com/mac-mini/)
 
-Up to Intel Core i9
+[View in AR](https://www.apple.com/105/media/us/mac/2022/12f656e7-6146-4e9c-8f16-a5ecd454b56f/ar/mac_mini_m1_chip_silver.usdz)
+
+Apple M1 chip
+
+Also available with Intel Core i5 or i7 processor
+
+#### 8-core ####
+
+CPU
+
+#### 8-core ####
+
+GPU
+
+Up to 16GB unified memory
+
+For increased performance and power efficiency
+
+#### 2TB ####
+
+Maximum configurable storage
+
+—Not available
+
+—Not available
+
+—Not available
+
+[](https://www.apple.com/mac-studio/)
+
+New
+
+### Mac Studio ###
+
+[Order now](https://www.apple.com/us/shop/goto/buy_mac/mac_studio)
+
+[Learn more](https://www.apple.com/mac-studio/)
+
+[View in AR](https://www.apple.com/105/media/us/mac/2022/12f656e7-6146-4e9c-8f16-a5ecd454b56f/ar/mac_studio.usdz)
+
+Apple M1 Max chip or
+Apple M1 Ultra chip
 
 Up to
 
-#### 10-core ####
+#### 20-core ####
 
 CPU
 
 Up to
 
-#### AMD ####
+#### 64-core ####
 
-Radeon Pro 5700 XT GPU
+GPU
 
-Up to 128GB memory
+Up to 128GB unified memory
+
+For increased performance and power efficiency
 
 #### 8TB ####
 
 Maximum configurable storage
 
-#### 5K ####
+—Not available
 
-Retina display
+—Not available
 
-1080p FaceTime HD camera
-
-Configurable with Magic Keyboard with Numeric Keypad
+—Not available
 
 [](https://www.apple.com/mac-pro/)
 
 ### Mac Pro ###
 
-[View in AR](https://www.apple.com/105/media/us/mac/2019/36178e80-30fd-441c-9a5b-349c6365bb36/ar/mac-pro/case-on.usdz)
-
 [Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_pro)
 
 [Learn more](https://www.apple.com/mac-pro/)
+
+[View in AR](https://www.apple.com/105/media/us/mac/2019/36178e80-30fd-441c-9a5b-349c6365bb36/ar/mac-pro/case-on.usdz)
 
 Intel Xeon W processor
 
@@ -257,38 +324,6 @@ Maximum configurable storage
 
 Magic Keyboard with Numeric Keypad
 
-[](https://www.apple.com/mac-mini/)
-
-### Mac mini ###
-
-[Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_mini)
-
-[Learn more](https://www.apple.com/mac-mini/)
-
-Apple M1 chip
-
-Also available with Intel Core i5 or i7 processor
-
-#### 8-core ####
-
-CPU
-
-#### 8-core ####
-
-GPU
-
-Up to 16GB unified memory
-
-#### 2TB ####
-
-Maximum configurable storage
-
-—Not available
-
-—Not available
-
-—Not available
-
 [Compare all Mac models](https://www.apple.com/mac/compare/) [Shop Mac](https://www.apple.com/us/shop/goto/buy_mac)
 
 Free delivery
@@ -300,10 +335,10 @@ for delivery dates.
 
 [Learn more about free delivery](https://www.apple.com/us/shop/goto/shipping_pickup)
 
-Get 3% Daily Cash back with Apple Card
+Pay monthly at 0% APR
 ----------
 
-And pay over time, interest‑free when you choose to check out with Apple Card Monthly Installments.
+You can pay over time when you choose to check out with Apple Card Monthly Installments.
 
 [Learn more about Monthly Installments](https://www.apple.com/apple-card/monthly-installments/)
 

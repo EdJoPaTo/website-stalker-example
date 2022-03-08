@@ -1,40 +1,20 @@
 iPad
 ==========
 
-[](https://www.apple.com/ipad-mini/)
-
-New iPad mini
-----------
-
-Mega power.
-Mini sized.
-
-[Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_mini)
-
-[Learn more](https://www.apple.com/ipad-mini/)
-
-[](https://www.apple.com/ipad-10.2/)
-
-New iPad
-----------
-
-Delightfully capable. Surprisingly affordable.
-
-[Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_10_2)
-
-[Learn more](https://www.apple.com/ipad-10.2/)
-
 [](https://www.apple.com/ipad-air/)
 
- iPad Air
+New iPad Air
 ----------
 
-Powerful. Colorful.
-Wonderful.
+Light. Bright.
+Full of might.
 
-[Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
+[View pricing](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
 
 [Learn more](https://www.apple.com/ipad-air/)
+
+Order March 11th, Available starting March 18thOrder 3.11
+ Available starting 3.18
 
 [](https://www.apple.com/ipad-pro/)
 
@@ -47,6 +27,29 @@ iPad experience.
 [Buy](https://www.apple.com/us/shop/goto/ipad_pro/select)
 
 [Learn more](https://www.apple.com/ipad-pro/)
+
+[](https://www.apple.com/ipad-10.2/)
+
+ iPad
+----------
+
+Delightfully capable. Surprisingly affordable.
+
+[Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_10_2)
+
+[Learn more](https://www.apple.com/ipad-10.2/)
+
+[](https://www.apple.com/ipad-mini/)
+
+ iPad mini
+----------
+
+Mega power.
+Mini sized.
+
+[Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_mini)
+
+[Learn more](https://www.apple.com/ipad-mini/)
 
 Which iPad is right for you?
 ----------
@@ -71,6 +74,14 @@ The ultimate iPad experience.
 
 M1 chip
 
+12MP Wide and
+ 10MP
+ Ultra Wide back cameras
+
+12MP
+
+TrueDepth front camera with Center Stage
+
 USB-C connector with support for Thunderbolt / USB 4
 
 5G cellular
@@ -82,25 +93,31 @@ Works with Magic Keyboard and Smart Keyboard Folio
 
 [](https://www.apple.com/ipad-air/)
 
-###  iPad Air  ###
+### New iPad Air  ###
 
 Powerful. Colorful. Wonderful.
 
-[Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
+[View pricing](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
 
 [Learn more](https://www.apple.com/ipad-air/)
 
-[View in AR](https://www.apple.com/105/media/us/ipad/2021/08087f4b-7539-4b1e-ae8a-adc18f4242ae/ar/ipad-air/ipad_air_ios13.usdz)
+[View in AR](https://www.apple.com/105/media/us/ipad-air/2022/5abf2ff6-ee5b-4a99-849c-a127722124cc/ar/ipad_air_purple_wifi.usdz)
 
 10.9”
 
 Liquid Retina display
 
-A14 Bionic chip
+M1 chip
+
+12MP Wide back camera
+
+12MP
+
+Ultra Wide front camera with Center Stage
 
 USB-C connector
 
-4G LTE cellular
+5G cellular
 
 Works with
 Apple Pencil (2nd generation)
@@ -109,7 +126,7 @@ Works with Magic Keyboard and Smart Keyboard Folio
 
 [](https://www.apple.com/ipad-10.2/)
 
-### New iPad  ###
+###  iPad  ###
 
 Delightfully capable. Surprisingly affordable.
 
@@ -117,13 +134,19 @@ Delightfully capable. Surprisingly affordable.
 
 [Learn more](https://www.apple.com/ipad-10.2/)
 
-[View in AR](https://www.apple.com/105/media/us/ipad/2021/08087f4b-7539-4b1e-ae8a-adc18f4242ae/ar/ipad-10.2/ipad_10.2_ios15_silver_wifi.usdz)
+[View in AR](https://www.apple.com/105/media/us/ipad-10.2/2021/c9a1f2ef-697b-49e1-832e-922fd1f294cf/ar/ipad_10.2_ios15_silver_wifi.usdz)
 
 10.2”
 
 Retina display
 
 A13 Bionic chip
+
+8MP Wide back camera
+
+12MP
+
+Ultra Wide front camera with Center Stage
 
 Lightning connector
 
@@ -137,7 +160,7 @@ Smart Keyboard
 
 [](https://www.apple.com/ipad-mini/)
 
-### New iPad mini  ###
+###  iPad mini  ###
 
 Mega power.
 Mini sized.
@@ -146,13 +169,19 @@ Mini sized.
 
 [Learn more](https://www.apple.com/ipad-mini/)
 
-[View in AR](https://www.apple.com/105/media/us/ipad/2021/08087f4b-7539-4b1e-ae8a-adc18f4242ae/ar/ipad-mini/ipad_mini_ios15_purple_wifi.usdz)
+[View in AR](https://www.apple.com/105/media/us/ipad-mini/2021/9748fc88-97dc-4617-9360-dfc27305ae3e/ar/ipad_mini_ios15_purple_wifi.usdz)
 
 8.3”
 
 Liquid Retina display
 
 A15 Bionic chip
+
+12MP Wide back camera
+
+12MP
+
+Ultra Wide front camera with Center Stage
 
 USB-C connector
 
@@ -167,12 +196,10 @@ Works with
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
-Free delivery
+Fast, free delivery
 ----------
 
-And free returns. See checkout
-
-for delivery dates.
+Choose free delivery or pick up available items at an Apple Store.
 
 [Learn more](https://www.apple.com/us/shop/goto/shipping_pickup)
 
@@ -209,15 +236,9 @@ Keyboards that have you covered.
 
 ### Accessories ###
 
-Explore covers, cases, and more to help you get the most from your iPad.
+Explore cases, covers, keyboards, Apple Pencil, AirPods, and more.
 
 [Shop iPad accessories](https://www.apple.com/us/shop/goto/ipad/accessories)
-
-### Magic runs in the family. ###
-
-Explore all AirPods models and find the best ones for you.
-
-[Learn more](https://www.apple.com/airpods/)
 
 What makes an iPad an iPad?
 ----------
