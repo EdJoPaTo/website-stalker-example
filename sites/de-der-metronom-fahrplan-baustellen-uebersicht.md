@@ -22,13 +22,15 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [05.03.2022 - 18.03.2022 RE4/RB41 weitere Teilausfälle im Bereich Hamburg Hbf - Hamburg-Harburg sowie nachts zwischen Sottrum und Lauenbrück](https://www.der-metronom.de/baustellen/re4-rb41-weitere-teilausfaelle-im-bereich-hamburg-hbf-hamburg-harburg/)
 
+[22.03.2022 - 24.03.2022 RB41 nächtlicher Teilausfall 81940 zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-naechtlicher-teilausfall-81940-zwischen-hamburg-harburg-und-hamburg-hbf/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [05.03.2022 - 18.03.2022 RE3/RB31 weitere Teilausfälle im Bereich Hamburg Hbf - Hamburg-Harburg und zwischen Winsen (L.) und Lüneburg](https://www.der-metronom.de/baustellen/re3-rb31-weitere-teilausfaelle-im-bereich-hamburg-hbf-hamburg-harburg/)
 
 [18.03.2022 - 03.04.2022 RE3/RB31 Gleiserneuerung in Lüneburg und Uelzen an den Wochenenden](https://www.der-metronom.de/baustellen/re3-rb31-gleiserneuerung-in-lueneburg-und-uelzen-an-den-wochenenden/)
 
-[22.03.2022 - 24.03.2022 RB31 nächtlicher Teilausfall 81645 Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtlicher-teilausfall-81645-hamburg-hbf-und-hamburg-harburg/)
+[22.03.2022 - 25.03.2022 RE3/RB31 nächtliche Teilausfälle Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtlicher-teilausfall-81645-hamburg-hbf-und-hamburg-harburg/)
 
 RE2 Uelzen - Celle - Hannover
 
