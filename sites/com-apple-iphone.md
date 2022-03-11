@@ -6,9 +6,7 @@ iPhone 13 Pro
 
 Oh. So. Pro.
 
-Pre‑order in Alpine Green starting at
-5:00 a.m. PST on 3.11
-Available starting 3.18
+Alpine Green available starting 3.18
 
 * [Shop](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13_pro)
 * [Learn more](https://www.apple.com/iphone-13-pro/)
@@ -29,9 +27,7 @@ iPhone 13
 
 Your new superpower.
 
-Pre‑order in Green starting at
-5:00 a.m. PST on 3.11
-Available starting 3.18
+Green available starting 3.18
 
 * [Shop](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13)
 * [Learn more](https://www.apple.com/iphone-13/)
@@ -56,11 +52,9 @@ iPhone SE
 Love the power.
 Love the price.
 
-Pre‑order starting at
-5:00 a.m. PST on 3.11
-Available starting 3.18
+Available starting 3.18
 
-* [View pricing](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
+* [Pre-order](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
 * [Learn more](https://www.apple.com/iphone-se/)
 
 ### Take it for a spin. ###
@@ -158,7 +152,7 @@ Face ID
 
 Serious power. Serious value.
 
-[View pricing](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
+[Pre-order](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
 
 [Learn more](https://www.apple.com/iphone-se/)
 
