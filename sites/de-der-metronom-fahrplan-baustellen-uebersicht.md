@@ -24,6 +24,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [22.03.2022 - 24.03.2022 RB41 nächtlicher Teilausfall 81940 zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-naechtlicher-teilausfall-81940-zwischen-hamburg-harburg-und-hamburg-hbf/)
 
+[24.03.2022 RB41 nächtliche Verspätung 81940 ab Buchholz (N.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-verspaetung-81940/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [05.03.2022 - 18.03.2022 RE3/RB31 weitere Teilausfälle im Bereich Hamburg Hbf - Hamburg-Harburg und zwischen Winsen (L.) und Lüneburg](https://www.der-metronom.de/baustellen/re3-rb31-weitere-teilausfaelle-im-bereich-hamburg-hbf-hamburg-harburg/)

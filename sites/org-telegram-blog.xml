@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Download Manager, New Attachment Menu, Live Streaming With Other Apps and More</title>
+			<link>https://telegram.org/blog/downloads-attachments-streaming</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<a class="dev_blog_card_link_wrap" href="/blog/downloads-attachments-streaming">
+			<div class="dev_blog_card_wrap">
+				<img class="dev_blog_card_image" src="https://telegram.org/file/464001418/12513/cF-RXvZE-6U.103646/9abb402fe4e74b126f">
+				<div class="dev_blog_card_alltext_wrap">
+					<h4 class="dev_blog_card_title">
+						Download Manager, New Attachment Menu, Live Streaming With Other Apps and More
+					</h4>
+					<div class="dev_blog_card_lead">
+						Today's update brings tools to help you control your downloads, send documents with a tap, re-arrange media albums before sending, turn…
+					</div>
+				</div>
+				<div class="dev_blog_card_date">
+					Mar 11, 2022
+				</div>
+			</div>
+		</a>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Video Stickers, Better Reactions and More</title>
 			<link>https://telegram.org/blog/video-stickers-better-reactions</link>
 			<content:encoded><![CDATA[<html>
@@ -493,32 +519,6 @@
 				</div>
 				<div class="dev_blog_card_date">
 					Jun 4, 2020
-				</div>
-			</div>
-		</a>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>400 Million Users, 20,000 Stickers, Quizzes 2.0 and €400K for Creators of Educational Tests</title>
-			<link>https://telegram.org/blog/400-million</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<a class="dev_blog_card_link_wrap" href="/blog/400-million">
-			<div class="dev_blog_card_wrap">
-				<img class="dev_blog_card_image" src="https://telegram.org/file/464001203/2/XmPHuiOyJME.220492/57fb79cc8f9c73faa6">
-				<div class="dev_blog_card_alltext_wrap">
-					<h4 class="dev_blog_card_title">
-						400 Million Users, 20,000 Stickers, Quizzes 2.0 and €400K for Creators of Educational Tests
-					</h4>
-					<div class="dev_blog_card_lead">
-						Telegram has reached 400,000,000 monthly users, up from 300 million a year ago. Every day…
-					</div>
-				</div>
-				<div class="dev_blog_card_date">
-					Apr 24, 2020
 				</div>
 			</div>
 		</a>
