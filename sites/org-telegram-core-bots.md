@@ -17,17 +17,13 @@ To name just a few things, you could use bots to:
 
 * **Get customized notifications and news**. A bot can act as a smart newspaper, sending you relevant content as soon as it's published.
 
-* **Integrate with other services**. A bot can enrich Telegram chats with content from external services.
-  [**Gmail Bot**](https://t.me/gmailbot), [**GIF bot**](https://t.me/gif), [**IMDB bot**](https://t.me/imdb), [**Wiki bot**](https://t.me/wiki), [**Music bot**](https://t.me/music), [**Youtube bot**](https://t.me/youtube), [**GitHubBot**](https://t.me/githubbot)
+* **Integrate with other services**. A bot can enrich Telegram chats with content from external services.[**Gmail Bot**](https://t.me/gmailbot), [**GIF bot**](https://t.me/gif), [**IMDB bot**](https://t.me/imdb), [**Wiki bot**](https://t.me/wiki), [**Music bot**](https://t.me/music), [**Youtube bot**](https://t.me/youtube), [**GitHubBot**](https://t.me/githubbot)
 
-* **Accept payments from Telegram users**. A bot can offer paid services or work as a virtual storefront. [Read more »](/bots/payments)
-  [**Demo Shop Bot**](https://t.me/shopbot), [**Demo Store**](https://t.me/teststore)
+* **Accept payments from Telegram users**. A bot can offer paid services or work as a virtual storefront. [Read more »](/bots/payments)[**Demo Shop Bot**](https://t.me/shopbot), [**Demo Store**](https://t.me/teststore)
 
-* **Create custom tools**. A bot may provide you with alerts, weather forecasts, translations, formatting or other services.
-  [**Markdown bot**](https://t.me/Bold), [**Sticker bot**](https://t.me/sticker), [**Vote bot**](https://t.me/vote), [**Like bot**](https://t.me/like)
+* **Create custom tools**. A bot may provide you with alerts, weather forecasts, translations, formatting or other services.[**Markdown bot**](https://t.me/Bold), [**Sticker bot**](https://t.me/sticker), [**Vote bot**](https://t.me/vote), [**Like bot**](https://t.me/like)
 
-* **Build single- and multiplayer games**. A bot can offer rich [HTML5 experiences](/bots/games), from simple arcades and puzzles to 3D-shooters and real-time strategy games.
-  [**GameBot**](https://t.me/gamebot), [**Gamee**](https://t.me/gamee)
+* **Build single- and multiplayer games**. A bot can offer rich [HTML5 experiences](/bots/games), from simple arcades and puzzles to 3D-shooters and real-time strategy games.[**GameBot**](https://t.me/gamebot), [**Gamee**](https://t.me/gamee)
 
 * **Build social services**. A bot could connect people looking for conversation partners based on common interests or proximity.
 
@@ -52,7 +48,7 @@ Messages, commands and requests sent by users are passed to the software running
 
 [![](/file/811140763/1/PihKNbjT8UE/03b57814e13713da37 "The Botfather. Click for hi-res picture")](/file/811140327/1/zlN4goPTupk/9ff2f2f01c4bd1b013)
 
-There's a… bot for that. Just talk to [BotFather](https://t.me/botfather) (described [below](#6-botfather)) and follow a few simple steps. Once you've created a bot and received your authentication token, head down to the [Bot API manual](/bots/api) to see what you can teach your bot to do.
+There's a... bot for that. Just talk to [BotFather](https://t.me/botfather) (described [below](#6-botfather)) and follow a few simple steps. Once you've created a bot and received your authentication token, head down to the [Bot API manual](/bots/api) to see what you can teach your bot to do.
 
 >
 >
@@ -63,7 +59,7 @@ There's a… bot for that. Just talk to [BotFather](https://t.me/botfather) (des
 ### [](#4-how-are-bots-different-from-humans)4. How are bots different from humans? ###
 
 * Bots have no online status and no last seen timestamps, the interface shows the label **'bot'** instead.
-* Bots have limited cloud storage — older messages may be removed by the server shortly after they have been processed.
+* Bots have limited cloud storage — older messages may be removed by the server shortly after they have been processed.
 * Bots can't initiate conversations with users. A user **must** either add them to a group or send them a message first. People can use `t.me/<bot_username>` links or username search to find your bot.
 * Bot usernames always end in 'bot' (e.g. [@TriviaBot](https://t.me/triviabot), [@GitHub\_bot](https://t.me/githubbot)).
 * When added to a group, bots do not receive all messages by default (see [Privacy mode](#privacy-mode)).
@@ -102,7 +98,7 @@ You can use bots to **accept payments** from Telegram users around the world.
 * Use [inline mode](/bots/inline) to help users show your goods and services to their friends and communities.
 * Allow **tips** from users with preset and custom amounts.
 * Accept payments from users on mobile or **desktop apps**.
-* Try [@ShopBot](https://t.me/shopbot) to create a test invoice – or start a message with `@ShopBot ...` in any chat for an **inline invoice**.
+* Try [@ShopBot](https://t.me/shopbot) to create a test invoice – or start a message with `@ShopBot ...` in any chat for an **inline invoice**.
 * Check out [Demo Shop](https://telegram.org/teststore) for an example of a [Telegram Channel](https://telegram.org/tour/channels) used as **virtual storefront**.
 
 >
@@ -139,7 +135,13 @@ Whenever your bot sends a message, it can pass along a special keyboard with pre
 
 We currently support text and emoji for your buttons. Here are some custom keyboard examples:
 
-[![](/file/811140184/1/5YJxx-rostA/ad3f74094485fb97bd "Keyboard for a poll bot")](/file/811140184/1/5YJxx-rostA/ad3f74094485fb97bd) [![](/file/811140880/1/jS-YSVkDCNQ/b397dfcefc6da0dc70 "Keyboard for a calculator bot. Because you can.")](/file/811140880/1/jS-YSVkDCNQ/b397dfcefc6da0dc70) [![](/file/811140733/2/KoysqJKQ_kI/a1ee46a377796c3961 "Keyboard for a trivia bot")](/file/811140733/2/KoysqJKQ_kI/a1ee46a377796c3961)
+[![](/file/811140184/1/5YJxx-rostA/ad3f74094485fb97bd "Keyboard for a poll bot")](/file/811140184/1/5YJxx-rostA/ad3f74094485fb97bd)
+
+```
+<a href="/file/811140880/1/jS-YSVkDCNQ/b397dfcefc6da0dc70" target="_blank"><img src="/file/811140880/1/jS-YSVkDCNQ/b397dfcefc6da0dc70" title="Keyboard for a calculator bot. Because you can." style="max-height: 300px; padding: 10px 5px" /></a>
+
+<a href="/file/811140733/2/KoysqJKQ_kI/a1ee46a377796c3961" target="_blank"><img src="/file/811140733/2/KoysqJKQ_kI/a1ee46a377796c3961" title="Keyboard for a trivia bot" style="max-height: 300px; padding: 10px 5px" /></a>
+```
 
 >
 >
@@ -185,7 +187,13 @@ Messages that start with a slash are always passed to the bot (along with replie
 * Show an additional **(/)** button in the input field in all chats with bots. Tapping it types a '/' and shows the list of commands.
 * Highlight **/commands** in messages. When the user taps a highlighted command, the command is sent at once.
 
-[![](/file/811140845/2/rNUxpcGDeQU/05eaaf20b0dbaf9cb3 "Suggested commands")](/file/811140845/2/rNUxpcGDeQU/05eaaf20b0dbaf9cb3) [![](/file/811140315/2/gf7_D2HbeyM/e3ca2de4de7918f826 "Notice the new button in the input field, right next to the sticker button")](/file/811140315/2/gf7_D2HbeyM/e3ca2de4de7918f826) [![](/file/811140029/1/s5zv4fbWdhw/a04aefa0ee0557f16a "Suggested commands for multiple bots")](/file/811140029/1/s5zv4fbWdhw/a04aefa0ee0557f16a)
+[![](/file/811140845/2/rNUxpcGDeQU/05eaaf20b0dbaf9cb3 "Suggested commands")](/file/811140845/2/rNUxpcGDeQU/05eaaf20b0dbaf9cb3)
+
+```
+<a href="/file/811140315/2/gf7_D2HbeyM/e3ca2de4de7918f826" target="_blank"><img src="/file/811140315/2/gf7_D2HbeyM/e3ca2de4de7918f826" title="Notice the new button in the input field, right next to the sticker button" style="width: 230px; padding: 10px 5px" /></a>
+
+<a href="/file/811140029/1/s5zv4fbWdhw/a04aefa0ee0557f16a" target="_blank"><img src="/file/811140029/1/s5zv4fbWdhw/a04aefa0ee0557f16a" title="Suggested commands for multiple bots" style="width: 230px; padding: 10px 5px" /></a>
+```
 
 If multiple bots are in a group, it is possible to add bot usernames to commands in order to avoid confusion:
 
@@ -206,7 +214,11 @@ In order to make it easier for users to navigate the bot multiverse, we ask all 
 
 Users will see a **Start** button when they first open a conversation with your bot. **Help** and **Settings** links will be available in the menu on the bot's profile page.
 
-[![](/file/811140979/2/yD8AphHbahk/7662d14f4e0442ae3a "An empty conversation with a bot")](/file/811140979/2/yD8AphHbahk/7662d14f4e0442ae3a) [![](/file/811140479/2/1c2zUWhR7sA/98889b2a45f8e42a35 "A bot's profile page, featuring 'Help' and 'Settings' buttons")](/file/811140479/2/1c2zUWhR7sA/98889b2a45f8e42a35)
+[![](/file/811140979/2/yD8AphHbahk/7662d14f4e0442ae3a "An empty conversation with a bot")](/file/811140979/2/yD8AphHbahk/7662d14f4e0442ae3a)
+
+```
+<a href="/file/811140479/2/1c2zUWhR7sA/98889b2a45f8e42a35" target="_blank"><img src="/file/811140479/2/1c2zUWhR7sA/98889b2a45f8e42a35" title="A bot's profile page, featuring 'Help' and 'Settings' buttons" style="width: 250px; padding: 10px 5px" /></a>
+```
 
 #### [](#formatting-bold-italic-fixed-width-text-and-inline-links)Formatting: bold, italic, fixed-width text and inline links ####
 
@@ -220,7 +232,7 @@ You can use bold, italic or fixed-width text, as well as inline links in your bo
 
 #### [](#privacy-mode)Privacy mode ####
 
-Bots are frequently added to groups in order to augment communication between human users, e.g. by providing news, notifications from external services or additional search functionality. This is especially true for work-related groups. Now, when you share a group with a bot, you tend to ask yourself “How can I be sure that the little rascal isn't selling my chat history to my competitors?” The answer is — **privacy mode**.
+Bots are frequently added to groups in order to augment communication between human users, e.g. by providing news, notifications from external services or additional search functionality. This is especially true for work-related groups. Now, when you share a group with a bot, you tend to ask yourself "How can I be sure that the little rascal isn't selling my chat history to my competitors?" The answer is — **privacy mode**.
 
 A bot running in privacy mode will not receive all messages that people send to the group. Instead, it will only receive:
 
@@ -231,7 +243,7 @@ A bot running in privacy mode will not receive all messages that people send to 
 
 On one hand, this helps some of us sleep better at night (in our tinfoil nightcaps), on the other — it allows the bot developer to save a lot of resources, since they won't need to process tens of thousands irrelevant messages each day.
 
-Privacy mode is enabled by default for all bots, except bots that were added to the group as **admins** (bot admins always receive all messages). It can be disabled, so that the bot receives all messages like an ordinary user (the bot will need to be **re-added** to the group for this change to take effect). We only recommend doing this in cases where it is absolutely necessary for your bot to work — users can always see a bot's current privacy setting in the group members list. In most cases, using the [force reply](/bots/api#forcereply) option for the bot's messages should be more than enough.
+Privacy mode is enabled by default for all bots, except bots that were added to the group as **admins** (bot admins always receive all messages). It can be disabled, so that the bot receives all messages like an ordinary user (the bot will need to be **re-added** to the group for this change to take effect). We only recommend doing this in cases where it is absolutely necessary for your bot to work — users can always see a bot's current privacy setting in the group members list. In most cases, using the [force reply](/bots/api#forcereply) option for the bot's messages should be more than enough.
 
 [So what messages exactly will my bot get? »](/bots/faq#what-messages-will-my-bot-get)
 
@@ -313,7 +325,7 @@ If your existing token is compromised or you lost it for some reason, use the **
 
 The remaining commands are pretty self-explanatory:
 
-* **/mybots** — returns a list of your bots with handy controls to edit their settings
+* **/mybots** — returns a list of your bots with handy controls to edit their settings
 * **/mygames** — does the same for your games
 
 **Edit bots**
@@ -336,7 +348,7 @@ The remaining commands are pretty self-explanatory:
 
 * **/newgame** — create a new [game](/bots/games).
 * **/listgames** — get a list of your games.
-* **/editgame** — edit a game.
+* **/editgame** — edit a game.
 * **/deletegame** — delete an existing game.
 
 >
@@ -353,7 +365,7 @@ We will be checking the number of replies and the request/response conversion ra
 
 ##### [](#responding-to-alerts)Responding to alerts #####
 
-By default, you will only get one alert per bot per hour. Each alert has the following buttons:
+By default, you will only get one alert per bot per hour. Each alert has the following buttons:
 
 * **Fixed.** Use this if you found an issue with your bot and fixed it. If you press the fix button, we will resume sending alerts in the regular way so that you can see if your fix worked within 5-10 minutes instead of having to wait for an hour.
 * **Support.** Use this to open a chat with [@BotSupport](https://t.me/botsupport) if you don't see any issues with your bot or if you think the problem is on our side.
@@ -377,7 +389,7 @@ Your bot is sending much fewer messages than it did in the previous weeks. This 
 Too few replies to incoming **private messages**. Conversion rate: **{value}**
 ```
 
-Your bot is not replying to all messages that are being sent to it (the request/response conversion rate for your bot was too low for at least two of the last three 5-minute periods). To provide a good user experience, please respond to all messages that are sent to your bot. Respond to *message* [updates](https://core.telegram.org/bots/api#update) by calling *send…* methods (e.g. [sendMessage](https://core.telegram.org/bots/api#sendmessage)).
+Your bot is not replying to all messages that are being sent to it (the request/response conversion rate for your bot was too low for at least two of the last three 5-minute periods). To provide a good user experience, please respond to all messages that are sent to your bot. Respond to *message* [updates](https://core.telegram.org/bots/api#update) by calling *send...* methods (e.g. [sendMessage](https://core.telegram.org/bots/api#sendmessage)).
 
 **3.**
 
