@@ -260,10 +260,18 @@ sites:
   - url: "https://www.wdrmaus.de/extras/"
     editors:
       - css_select: "#content"
-      - css_remove: "script, img"
+      - css_remove: "script, img, .promoteaser, #footer"
       - html_url_canonicalize
       - html_markdownify
-  - url: "https://www.wdrmaus.de/filme/sachgeschichten/index.php5?filter=alle"
+  - url:
+      - "https://www.wdrmaus.de/extras/mausthemen/corona/"
+      - "https://www.wdrmaus.de/extras/mausthemen/ukraine/"
+    editors:
+      - css_select: "#content"
+      - css_remove: "script, img, .promoteaser, #footer, .imagecontainer, .imageSlider"
+      - html_url_canonicalize
+      - html_markdownify
+  - url: "https://www.wdrmaus.de/filme/sachgeschichten/?filter=alle"
     editors:
       - css_select: ".links"
       - css_remove: "script, img"

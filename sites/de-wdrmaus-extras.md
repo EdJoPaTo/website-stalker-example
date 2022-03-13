@@ -36,10 +36,3 @@ Reisen
 
 * [Ralphs Tagebücher](https://www.wdrmaus.de/extras/ralphs_tagebuecher.php5)
 * [Armins Sommerreisen](https://www.wdrmaus.de/extras/armins_sommerreise.php5)
-
-* [Die MausApp für unterwegs ...](https://www.wdrmaus.de/extras/mausapp.php5)
-* [WDR für Kinder](http://www1.wdr.de/kinder/index.html)
-* [Wissen macht Ah!](http://www.wissenmachtah.de/)
-* [KiRaKa Dein Entdeckerradio](http://www.kiraka.de/)
-
-[©WDR 2022](https://www.wdrmaus.de/copyright.php5) | [Datenschutz](https://www.wdrmaus.de/datenschutz.php5)
