@@ -169,7 +169,7 @@ Use your Mac and iPad together to unlock faster, easier, and amazingly creative 
 
 A single keyboard and mouse or trackpad now work seamlessly between your Mac and iPad — they’ll even connect to more than one Mac or iPad. Move your cursor from your Mac to your iPad, type on your Mac and watch the words show up on your iPad, or even drag and drop content from one Mac to another.
 
-Available this spring
+Beta
 
 #### No setup required ####
 
@@ -324,7 +324,7 @@ And so much more.
 
 ### AirPods audio updates. ###
 
-Spatial audio and dynamic head tracking help AirPods deliver theater-like sound to macOS. Spatial audio creates a surround sound experience when you connect AirPods Pro or AirPods Max to Mac models with the M1 chip. And with dynamic head tracking, sound stays fixed to the device even as you move your head. If you’re watching a movie, you’ll hear the engine roar right from the car, or hear dialogue straight from the actors’ mouths.
+When you connect AirPods Pro, AirPods Max, or AirPods (3rd generation) to Mac models with the M1 chip, Spatial Audio and dynamic head tracking help deliver a theater‑like experience with sound that surrounds you. Sound stays fixed to the device even as you move your head. If you’re watching a movie, you’ll hear the engine roar right from the car, or hear dialogue straight from the actors’ mouths. With music, you’ll hear the mix exactly as intended.
 
 ### Low Power Mode. ###
 

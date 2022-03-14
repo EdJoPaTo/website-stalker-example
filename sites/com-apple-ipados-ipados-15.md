@@ -329,7 +329,7 @@ More about Submit to App Store
 
 Create apps for your iPhone and iPad right on your iPad. Build and submit apps to the App Store directly from the Swift Playgrounds app.
 
-Available this spring
+Beta
 
 Universal Control
 ----------
@@ -451,6 +451,7 @@ iPadOS is compatible with these devices.
 * iPad mini (6th generation)
 * iPad mini (5th generation)
 * iPad mini 4
+* iPad Air (5th generation)
 * iPad Air (4th generation)
 * iPad Air (3rd generation)
 * iPad Air 2

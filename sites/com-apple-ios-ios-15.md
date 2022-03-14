@@ -6,6 +6,13 @@ In the moment.
 
 iOS 15 is packed with new features that help you connect with others, be more present and in the moment, explore the world, and use powerful intelligence to do more with iPhone than ever before.
 
+Face ID
+----------
+
+### Use Face ID with a mask ###
+
+With iOS 15.4, you can use Face ID while wearing a mask. Easily unlock your iPhone, use Apple Pay, and authorize apps and passwords. Even when your mouth and nose are covered, your iPhone can now recognize you by analyzing the unique characteristics around your eyes.
+
 New experiences.
 True connections.
 ----------
@@ -387,6 +394,7 @@ iOS 15 is compatible with these devices.
 * iPhone 6s Plus
 * iPhone SE (1st generation)
 * iPhone SE (2nd generation)
+* iPhone SE (3rd generation)
 * iPod touch (7th generation)
 
 See how to update to iOS 15.
