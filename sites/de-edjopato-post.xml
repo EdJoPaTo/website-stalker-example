@@ -6,6 +6,14 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Audio Input mittels Pipewire auf den Kopfhörern ausgeben</title>
+			<link>https://edjopato.de/post/2022/03/15-pipewire-line-in/</link>
+			<pubDate>Tue, 15 Mar 2022 14:47:00 +0100</pubDate>
+			<content:encoded><![CDATA[2022-03-15
+
+Audio Input mittels Pipewire auf den Kopfhörern ausgeben]]></content:encoded>
+		</item>
+		<item>
 			<title>Eigenes Tool - Website Stalker</title>
 			<link>https://edjopato.de/post/2022/02/24-website-stalker/</link>
 			<pubDate>Thu, 24 Feb 2022 16:16:00 +0100</pubDate>
@@ -92,14 +100,6 @@ Hacker*Innen Ethik und die Cloud]]></content:encoded>
 			<content:encoded><![CDATA[2021-10-18
 
 Die Cloud - Computer fremder Menschen]]></content:encoded>
-		</item>
-		<item>
-			<title>Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung</title>
-			<link>https://edjopato.de/post/2021/10/07-webcam-blur/</link>
-			<pubDate>Thu, 07 Oct 2021 19:25:00 +0200</pubDate>
-			<content:encoded><![CDATA[2021-10-07
-
-Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung]]></content:encoded>
 		</item>
 	</channel>
 </rss>
