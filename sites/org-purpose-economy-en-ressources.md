@@ -39,6 +39,8 @@ Information
 ### Articles & booklets
  ###
 
+Purpose 2022: [“Effects of steward-ownership as a corporate ownership structure: evidence from Denmark.”](https://purpose-economy.org/content/uploads/purpose_white-paper_effects-of-s-o-in-denmark.pdf)
+
 Creative Economy 2021: [Aligned capital for creative entrepreneurs](https://impactalpha.com/aligned-capital-for-creative-entrepreneurs/?mc_cid=da59553c21&mc_eid=0612c7ae26)
 
 Purpose 2020: [Steward-ownership: A short guidebook to legal frameworks](https://purpose-economy.org/content/uploads/purpose-guidebook-for-lawyers10022021.pdf)
