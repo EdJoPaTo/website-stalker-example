@@ -2,15 +2,13 @@
 
 See the full video
 
+[See the full video](https://www.youtube.com/watch?v=AvokyBOYe8Y)
+
 STEAM DECK IS HERE!
 ==========
 
  Steam Deck™ is shipping now.
 [Reserve yours](http://store.steampowered.com/steamdeck) starting at $399.
-
-[](https://www.youtube.com/watch?v=AvokyBOYe8Y)
-
-See the full video
 
 All-in-one portable PC gaming
 ----------
