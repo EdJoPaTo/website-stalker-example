@@ -44,5 +44,5 @@ Introducing the new MacBook Air, 13‑inch MacBook Pro, and Mac mini, all wi
 
 Introducing iPhone 12 and iPhone 12 Pro with 5G, MagSafe accessories, and HomePod mini.
 
-[View all Apple events](https://podcasts.apple.com/us/podcast/apple-events-video/id275834665/)
+[View all Apple events](https://podcasts.apple.com/us/channel/apple-events/id6442627105?hasPaidContent=false)
 ----------
