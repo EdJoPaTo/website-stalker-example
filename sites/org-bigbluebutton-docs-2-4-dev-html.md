@@ -532,7 +532,7 @@ The `war` application is generated under `build/libs/bigbluebutton-0.10.0.war`.
 Create a new directory and open it.
 
 ```
-mkdir exploded && cd exploded
+rm -r exploded && mkdir exploded && cd exploded
 
 ```
 
@@ -550,7 +550,7 @@ cp ../run-prod.sh .
 
 ```
 
-In the next step we will make a copy of the current production directory for `bbb-web`
+In the next step we will make a copy of the current production directory for `bbb-web`. You only need to do this if your current version of bbb-web is worth keeping.
 
 ```
 sudo cp -R /usr/share/bbb-web /usr/share/bbb-web-old
@@ -574,8 +574,8 @@ sudo cp -R . /usr/share/bbb-web/
 Make sure the copied files have the right user ownership.
 
 ```
-$ sudo chown bigbluebutton:bigbluebutton /usr/share/bbb-web
-$ sudo chown -R bigbluebutton:bigbluebutton /usr/share/bbb-web/assets/ /usr/share/bbb-web/META-INF/ /usr/share/bbb-web/org/ /usr/share/bbb-web/run-prod.sh /usr/share/bbb-web/WEB-INF/
+sudo chown bigbluebutton:bigbluebutton /usr/share/bbb-web
+sudo chown -R bigbluebutton:bigbluebutton /usr/share/bbb-web/assets/ /usr/share/bbb-web/META-INF/ /usr/share/bbb-web/org/ /usr/share/bbb-web/run-prod.sh /usr/share/bbb-web/WEB-INF/
 
 ```
 
