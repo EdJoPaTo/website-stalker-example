@@ -40,9 +40,13 @@ RE2 Uelzen - Celle - Hannover
 
 [28.02.2022 - 27.03.2022 RE2/RE3 nächtliche Bahnsteig- und Oberleitungsarbeiten (Haltausfälle)](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-bahnsteig-und-oberleitungsarbeiten-haltausfaelle/)
 
+[01.04.2022 - 19.04.2022 RE2/RE3/RB31 keine direkte Verbindung von Uelzen nach Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direkte-verbindung-von-uelzen-nach-goettingen/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [28.02.2022 - 27.03.2022 RE2/RE3 nächtliche Bahnsteig- und Oberleitungsarbeiten (Haltausfälle)](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-bahnsteig-und-oberleitungsarbeiten-haltausfaelle-1/)
+
+[01.04.2022 - 19.04.2022 RE2/RE3/RB31 keine direkte Verbindung von Uelzen nach Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direkte-verbindung-von-uelzen-nach-goettingen-1/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
