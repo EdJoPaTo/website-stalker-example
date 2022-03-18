@@ -6,22 +6,18 @@ New Mac Studio
 
 Empower station.
 
-[Order now](https://www.apple.com/us/shop/goto/buy_mac/mac_studio)
+[Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_studio)
 
 [Learn more](https://www.apple.com/mac-studio/)
-
-Available starting 3.18
 
 New Studio Display
 ----------
 
 A sight to be bold.
 
-[Order now](https://www.apple.com/us/shop/goto/buy_mac/mac_studio_display)
+[Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_studio_display)
 
 [Learn more](https://www.apple.com/studio-display/)
-
-Available starting 3.18
 
 MacBook Pro
 ----------
@@ -253,7 +249,7 @@ New
 
 ### Mac Studio ###
 
-[Order now](https://www.apple.com/us/shop/goto/buy_mac/mac_studio)
+[Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_studio)
 
 [Learn more](https://www.apple.com/mac-studio/)
 

@@ -6,9 +6,7 @@ iPhone 13 Pro
 
 Oh. So. Pro.
 
-Alpine Green available starting 3.18
-
-* [Shop](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13_pro)
+* [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13_pro)
 * [Learn more](https://www.apple.com/iphone-13-pro/)
 * [Learn more](https://www.apple.com/iphone-13-pro/key-features/)
 
@@ -27,9 +25,7 @@ iPhone 13
 
 Your new superpower.
 
-Green available starting 3.18
-
-* [Shop](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13)
+* [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13)
 * [Learn more](https://www.apple.com/iphone-13/)
 * [Learn more](https://www.apple.com/iphone-13/key-features/)
 
@@ -52,9 +48,7 @@ iPhone SE
 Love the power.
 Love the price.
 
-Available starting 3.18
-
-* [Pre-order](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
+* [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
 * [Learn more](https://www.apple.com/iphone-se/)
 
 ### Take it for a spin. ###
@@ -82,7 +76,7 @@ Which iPhone is right for you?
 
 The ultimate iPhone.
 
-[Shop](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13_pro)
+[Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13_pro)
 
 [Learn more](https://www.apple.com/iphone-13-pro/)
 
@@ -117,7 +111,7 @@ Face ID
 
 A total powerhouse.
 
-[Shop](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13)
+[Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13)
 
 [Learn more](https://www.apple.com/iphone-13/)
 
@@ -152,7 +146,7 @@ Face ID
 
 Serious power. Serious value.
 
-[Pre-order](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
+[Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_se)
 
 [Learn more](https://www.apple.com/iphone-se/)
 

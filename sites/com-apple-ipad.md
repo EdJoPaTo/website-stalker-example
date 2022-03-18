@@ -9,11 +9,9 @@ New iPad Air
 Light. Bright.
 Full of might.
 
-[Order now](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
+[Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
 
 [Learn more](https://www.apple.com/ipad-air/)
-
-Available starting March 18thAvailable starting 3.18
 
 [](https://www.apple.com/ipad-pro/)
 
@@ -96,7 +94,7 @@ Works with Magic Keyboard and Smart Keyboard Folio
 
 Powerful. Colorful. Wonderful.
 
-[Order now](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
+[Buy](https://www.apple.com/us/shop/goto/buy_ipad/ipad_air)
 
 [Learn more](https://www.apple.com/ipad-air/)
 
