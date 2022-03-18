@@ -56,6 +56,8 @@ A more equitable and sustainable economy is possible. We enable the pioneering f
 
 [](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/marketing/waschbaer-umweltversand-should-we-fuck-capitalism)
 
+[](https://www.newyorker.com/business/currency/can-companies-force-themselves-to-do-good)
+
 [](https://www.tagesspiegel.de/wirtschaft/eigentum-verpflichtet-was-stiftungsfirmen-anders-machen/25263512.html)
 
 [](https://www.faz.net/einspruch/einspruch-exklusiv-eigentum-trifft-verantwortung-16618406.html?GEPC=s3&premium=0x1f4088ef537700f9ac1352430ef1d4e8)
