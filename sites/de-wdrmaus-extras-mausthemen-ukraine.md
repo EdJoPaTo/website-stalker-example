@@ -106,3 +106,5 @@ Wenn du noch mehr wissen möchtest
 * [KiKA](https://www.kika.de/index.html)
 * [Kiraka](https://kinder.wdr.de/radio/kiraka/audio/klicker/index.html)
 * [ZDF Logo](https://www.zdf.de/kinder/logo/streit-zwischen-ukraine-und-russland-100.html)
+
+* [Lach- und Sachgeschichten auf Ukrainisch](https://www.wdrmaus.de/extras/maus_international/ukrainisch.php5)
