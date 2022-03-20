@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '17 */2 * * *' # every two hours at minute 17
+    - cron: '7/30 * * * *' # every half an hour at minute 7 and 37
 
 jobs:
   website-stalker:
