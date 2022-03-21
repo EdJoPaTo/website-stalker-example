@@ -9,9 +9,7 @@
 			<title>Windows-2016 environment removal postponed until April 1st, 2022</title>
 			<link>https://github.com/actions/virtual-environments/issues/5238</link>
 			<pubDate>Tue, 15 Mar 2022 20:46:40 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-#5238
+			<content:encoded><![CDATA[#5238
 opened
 Mar 15, 2022
 by
@@ -22,11 +20,7 @@ alepauly]]></content:encoded>
 			<title>windows-latest workflows will use Windows Server 2022</title>
 			<link>https://github.com/actions/virtual-environments/issues/4856</link>
 			<pubDate>Tue, 11 Jan 2022 11:33:05 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-OS: Windows
-
-#4856
+			<content:encoded><![CDATA[#4856
 opened
 Jan 11, 2022
 by
@@ -37,19 +31,7 @@ miketimofeev]]></content:encoded>
 			<title>[Ubuntu] Issue with libstdc++ cannot allocate memory in static TLS block</title>
 			<link>https://github.com/actions/virtual-environments/issues/4799</link>
 			<pubDate>Thu, 23 Dec 2021 12:57:09 +0000</pubDate>
-			<content:encoded><![CDATA[Announcement
-
-Area: C/C++
-
-Area: Databases
-
-Area: Python
-
-bug
-
-OS: Ubuntu
-
-#4799
+			<content:encoded><![CDATA[#4799
 opened
 Dec 23, 2021
 by
