@@ -6,6 +6,24 @@
 		<description>Hier erhältst du alle wichtigen Informationen zum metronom.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Sicher Zug fahren: FFP2-Maskenpflicht gilt weiterhin</title>
+			<link>https://www.der-metronom.de/aktuell/sicher-zug-fahren-corona-regeln-fuer-unsere-fahrgaeste/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<time content="2022-03-21T08:50:00+01:00" itemprop="datePublished">
+			21.03.2022
+		</time>
+		<div class="news-text-outer">
+			<p>
+				nach wie vor gilt in all unseren Zügen eine FFP2-MASKENPFLICHT. Einzige Ausnahme: Fahrgäste unter 14 Jahren, hier ist eine OP-Maske ausreichend. Hinweis zum Wegfall der 3G-Regel: Die Vorgabe der 3G-Regel für Fahrgäste im ÖPNV entfällt in den Bundesländern Niedersachsen (ab...
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Zeitumstellung auf Sommerzeit in der Nacht vom 26. auf den 27.03.2022</title>
 			<link>https://www.der-metronom.de/aktuell/zeitumstellung-auf-sommerzeit-in-der-nacht-vom-26-auf-den-27-03-2022/</link>
 			<content:encoded><![CDATA[<html>
@@ -44,24 +62,6 @@ Euer metronom Team
 		<div class="news-text-outer">
 			<p>
 				Erste Geflüchtete aus der Ukraine sind in Deutschland angekommen. Um ihnen die sichere und schnelle Weiterreise zu Angehörigen, Freunden oder Aufnahmestellen zu erleichtern, können sie ab sofort metronom, enno und erixx entgeltfrei nutzen. Ukrainische Geflüchtete müssen im Zug auf Nachfrage...
-			</p>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Sicher Zug fahren: Corona-Regeln für unsere Fahrgäste</title>
-			<link>https://www.der-metronom.de/aktuell/sicher-zug-fahren-corona-regeln-fuer-unsere-fahrgaeste/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<time content="2022-02-22T14:49:00+01:00" itemprop="datePublished">
-			22.02.2022
-		</time>
-		<div class="news-text-outer">
-			<p>
-				Aufgrund gesetzlicher Vorgaben gelten für Fahrgäste aktuell die 3G-REGEL und eine FFP2-MASKENPFLICHT. Maskenpflicht:Alle Fahrgäste müssen eine FFP2-Maske tragen. Einzige Ausnahme: Fahrgäste unter 14 Jahren, hier ist eine OP-Maske ausreichend.3G-Regel: Alle Fahrgäste müssen entweder vollständig geimpft, genesen oder offiziell negativ getestet...
 			</p>
 		</div>
 	</body>
