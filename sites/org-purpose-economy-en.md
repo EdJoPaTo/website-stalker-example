@@ -70,6 +70,12 @@ A more equitable and sustainable economy is possible. We enable the pioneering f
 
 [](https://www.zeit.de/zeit-fuer-unternehmer/2019/04/unternehmenseigentum-eigentumsfrage-mitarbeiter-beteiligung)
 
+[](https://www.youtube.com/watch?v=0zNYTNiXoVs)
+
+[](https://www.sueddeutsche.de/wirtschaft/unternehmen-wenn-nicht-nur-der-profit-zaehlt-1.5055526)
+
+[](https://www.welt.de/wirtschaft/article228655091/Verantwortungseigentum-Wertvoll-fuer-die-soziale-Marktwirtschaft.html?cid=onsite.onsitesearch)
+
 OWNERSHIP FOR A SUSTAINABLE ECONOMY
 ----------
 

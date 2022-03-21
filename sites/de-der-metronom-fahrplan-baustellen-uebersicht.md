@@ -32,6 +32,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [22.03.2022 - 25.03.2022 RE3/RB31 nächtliche Teilausfälle Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtlicher-teilausfall-81645-hamburg-hbf-und-hamburg-harburg/)
 
+[04.04.2022 - 12.04.2022 RE3/RB31 nächtliche Gleis- und Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-gleis-und-weichenbauarbeiten/)
+
 RE2 Uelzen - Celle - Hannover
 
 [28.02.2022 - 27.03.2022 RE2/RE3 nächtliche Bahnsteig- und Oberleitungsarbeiten (Haltausfälle)](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-bahnsteig-und-oberleitungsarbeiten-haltausfaelle/)
