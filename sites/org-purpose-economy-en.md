@@ -13,6 +13,7 @@ A new economy is possible. We're enabling its pioneers. - Purpose
 * [Purpose Evergreen Capital](https://purpose-economy.org/en/pec/)
 
 * [Who we are](https://purpose-economy.org/en/who-we-are/)
+* [Work with Purpose](https://purpose-economy.org/en/jobs/)
 * [Companies](https://purpose-economy.org/en/companies/)
 * [Media & Press](https://purpose-economy.org/en/media-press/)
 
