@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Focused on a low price and strong performance: the new Hetzner Dedicated Root Server EX43</title>
+			<link>https://www.hetzner.com/news/03-22-ex43/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					22. March 2022
+				</small>
+			</p>
+			<h4>
+				Focused on a low price and strong performance: the new Hetzner Dedicated Root Server EX43
+			</h4>
+			<p class="list-card-preview">
+				The Hetzner Dedicated Root Server EX43 puts the new Intel® Core™ i5 12500 processor in the spotlight. This chip is from the twelfth generation, nicknamed "Alder Lake".
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/03-22-ex43/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Seasons special: Skip the setup fee on selected AX servers!</title>
 			<link>https://www.hetzner.com/news/03-22-seasons-special/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				You all have waited with heroic patience for the next free setup sale, and the time has finally come! We've removed the setup fees on three of our most popular...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/09-21-setup-special/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Running out of space? The new SX-line has arrived.</title>
-			<link>https://www.hetzner.com/news/06-21-sx-line/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					29. June 2021
-				</small>
-			</p>
-			<h4>
-				Running out of space? The new SX-line has arrived.
-			</h4>
-			<p class="list-card-preview">
-				Have you been hunting high and low for storage? Good news! The new and improved SX-Line dedicated servers are here.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/06-21-sx-line/">
 				Show more
 			</a>
 		</li>
