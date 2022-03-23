@@ -89,9 +89,7 @@ Now you can safely share a digital key with family, guests, or even a contractor
 
 ####  Put your license in your Wallet  ####
 
-In select states, now you can have a verified digital ID to present to the Transportation Security Administration at airport security checkpoints. Just like Apple Pay, your information remains encrypted and secure.
-
-Coming early 2022.
+In select states, now you can have a digital ID to present to the TSA at airport checkpoints. Driver’s licenses and state IDs in Wallet take full advantage of the privacy and security built into Apple Watch.
 
 Messages and Mail
 ----------
