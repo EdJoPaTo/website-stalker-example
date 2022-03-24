@@ -89,6 +89,39 @@ Usability
 Engagement
 ----------
 
+Experimental
+----------
+
+***Note*** These features below are experimental and incomplete and should *not* be used for a production server. They are primarily included for developers testing new capabilities that may appear in subsequent releases to 2.5.
+
+### Experimental microphone bridge updates ###
+
+The experimental microphone bridge introduced in 2.4 is feature complete in 2.5. Support for the following features has been added:
+
+* mediasoup
+* Echo test
+* Input and output device switching
+* Audio filters
+
+For a list of pending issues for the experimental audio bridge to be considered production-grade, check this [Depends on](https://github.com/bigbluebutton/bigbluebutton/issues/14021#fullaudio-depends-on) section in GitHub.
+
+Moreover, the steps for enabling this have changed slightly since 2.4. If you want to try this (keep in mind it is still experimental), you need to add the `fullAudioEnabled: true` flag in bbb-webrtc-sfu’s configuration (/etc/bigbluebutton/bbb-webrtc-sfu/production.yml).
+
+Once that flag is enabled in bbb-webrtc-sfu, there are two ways of opting in:
+
+1. Using API parameters you can have specific meetings use the experimental bridge by passing: CREATE parameter `meta_fullaudio-bridge=fullaudio` to override the default `sipjs` value
+2. You can change the defaults in the settings for bbb-html5 by adding the following to `/etc/bigbluebutton/bbb-html5.yml` (you will likely want to merge it carefully with your existing file):
+
+   ```
+     public:
+    media:
+      audio:
+        defaultFullAudioBridge: fullaudio
+
+   ```
+
+After a restart of BigBlueButton (`sudo bbb-conf --restart`), it should be ready to test. Reverting to the default options can be achieved by removing the override sections (and passed API parameters) and restart of BigBlueButton.
+
 Installation
 ----------
 
