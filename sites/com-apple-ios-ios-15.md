@@ -189,8 +189,6 @@ Now you can install Safari extensions on your iPhone. And just like on Mac, you 
 
 Add your driver’s license or state ID to Wallet for use when you travel and, in the future, at retailers and venues.
 
-Coming early 2022.
-
 More about ID cards
 
 #### ID cards ####
