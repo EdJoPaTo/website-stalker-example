@@ -52,9 +52,9 @@ To develop BigBlueButton from within Windows, you have two options:
 * use Windows Subsystem for Linux
 * use VMWare Player or VirtualBox to create a virtual machine (VM).
 
-Choose the OS to be Ubuntu 18.04 64-bit. The associated documentation for VMWare Player and VirtualBox or WSL will guide you on setting up a new 18.04 64-bit VM.
+Choose the OS to be Ubuntu 20.04 64-bit. The associated documentation for VMWare Player and VirtualBox or WSL will guide you on setting up a new 20.04 64-bit VM.
 
-**Note:** When setting up the VM, it does not matter to BigBlueButton if you set up Ubuntu 18.04 server or desktop. If you install desktop, you’ll have the option of using a graphical interface to edit files. When running the VM, you will need a host operating system capable of running a [64-bit virtual machine](http://stackoverflow.com/questions/56124/can-i-run-a-64-bit-vmware-image-on-a-32-bit-machine).
+**Note:** When setting up the VM, it does not matter to BigBlueButton if you set up Ubuntu 20.04 server or desktop. If you install desktop, you’ll have the option of using a graphical interface to edit files. When running the VM, you will need a host operating system capable of running a [64-bit virtual machine](http://stackoverflow.com/questions/56124/can-i-run-a-64-bit-vmware-image-on-a-32-bit-machine).
 
 ### Developing on Linux host via container ###
 
@@ -85,7 +85,7 @@ It includes all you need to be able to run a local BigBlueButton development env
 First, you need to install the core development tools.
 
 ```
-sudo apt-get install git-core openjdk-8-jdk-headless
+sudo apt-get install git-core openjdk-11-jdk-headless
 
 ```
 
@@ -99,7 +99,7 @@ vi ~/.profile
 Add the following line at the end of the file
 
 ```
-export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
 
 ```
 
@@ -114,7 +114,7 @@ Do a quick test to ensure JAVA\_HOME is set.
 
 ```
 $ echo $JAVA_HOME
-/usr/lib/jvm/java-8-openjdk-amd64
+/usr/lib/jvm/java-11-openjdk-amd64
 
 ```
 
@@ -124,9 +124,9 @@ In the next step, you need to install a number of tools using sdkman.
 curl -s "https://get.sdkman.io" | bash
 source "$HOME/.sdkman/bin/sdkman-init.sh"
 
-sdk install gradle 5.5.1
-sdk install grails 3.3.9
-sdk install sbt 1.2.8
+sdk install gradle 7.3.1
+sdk install grails 5.0.1
+sdk install sbt 1.6.2
 sdk install maven 3.5.0
 
 ```
