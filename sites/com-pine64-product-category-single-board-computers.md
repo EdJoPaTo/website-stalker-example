@@ -1,7 +1,5 @@
 [PINE A64-LTS Single Board Computer 32.00](https://pine64.com/product/pine-a64-lts/) 
-[ROCK64-1GB Single Board Computer 24.95](https://pine64.com/product/rock64-single-board-computer/) 
-[ROCK64-2GB Single Board Computer 34.95](https://pine64.com/product/rock64-2gb-single-board-computer/) 
-[ROCK64-4GB Single Board Computer 44.95](https://pine64.com/product/rock64-4gb-single-board-computer/) 
+[ROCK64-1GB Single Board Computer 24.95](https://pine64.com/product/rock64-single-board-computer/) [ROCK64-2GB Single Board Computer[Restocking around late April] 34.95](https://pine64.com/product/rock64-2gb-single-board-computer/) [ROCK64-4GB Single Board Computer[Restocking around late April] 44.95](https://pine64.com/product/rock64-4gb-single-board-computer/) 
 [PINE A64+ 1GB Single Board Computer 21.00](https://pine64.com/product/pine-a64-1gb-board/) 
 [ROCKPro64 2GB Single Board Computer 59.99](https://pine64.com/product/rockpro64-2gb-single-board-computer/) 
 [PINE A64 512MB Single Board Computer 15.00](https://pine64.com/product/pine-a64-512mb-board/) 
