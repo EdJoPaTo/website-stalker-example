@@ -20,8 +20,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [12.12.2021 - 31.05.2022 RB41 nächtliche Bauarbeiten Hamburger Hauptbahnhof](https://www.der-metronom.de/baustellen/rb41-naechtliche-bauarbeiten-hamburger-hauptbahnhof/)
 
-[24.03.2022 RB41 nächtliche Verspätung 81940 ab Buchholz (N.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-verspaetung-81940/)
-
 [27.03.2022 - 03.04.2022 RE4/RB41 Ersatzverkehr mit Bussen zwischen Bremen Hbf und Rotenburg (Wümme)](https://www.der-metronom.de/baustellen/re4-rb41-ersatzverkehr-mit-bussen-zwischen-bremen-hbf-und-rotenburg-wuemme/)
 
 [07.04.2022 - 09.04.2022 RE4/RB41 Ersatzverkehr mit Bussen zwischen Bremen Hbf und Rotenburg (Wümme)](https://www.der-metronom.de/baustellen/re4-rb41-ersatzverkehr-mit-bussen-zwischen-bremen-hbf-und-rotenburg-wuemme-1/)
@@ -29,8 +27,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [18.03.2022 - 03.04.2022 RE3/RB31 Gleiserneuerung in Lüneburg und Uelzen an den Wochenenden](https://www.der-metronom.de/baustellen/re3-rb31-gleiserneuerung-in-lueneburg-und-uelzen-an-den-wochenenden/)
-
-[22.03.2022 - 25.03.2022 RE3/RB31 nächtliche Teilausfälle Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtlicher-teilausfall-81645-hamburg-hbf-und-hamburg-harburg/)
 
 [04.04.2022 - 12.04.2022 RE3/RB31 nächtliche Gleis- und Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-gleis-und-weichenbauarbeiten/)
 

@@ -6,12 +6,9 @@ What's New
 Overview
 ==========
 
-This document gives you an overview of BigBlueButton 2.5.
+This document gives you an overview of BigBlueButton 2.5, the latest version of BigBlueButton now in development.
 
 *Note:* This document is DRAFT and will be expanded upon as 2.5 development goes through alpha, beta, and release.
-
-What’s new
-----------
 
 BigBlueButton 2.5 offers users improved usability, increased engagement, and more performance.
 
@@ -19,52 +16,102 @@ BigBlueButton 2.5 offers users improved usability, increased engagement, and mor
 * **Engagement** - giving the instructor more ways to engage students
 * **Performance** - increasing overall performance and scalability
 
-Here’s a breakdown of what’s new in 2.5
+Here’s a breakdown of what’s new in 2.5.
 
-* **Usability**
+Usability
+----------
 
 ### Screenshot of current slide with annotations ###
 
+To capture the current slide with annotations, you can now have BigBlueButton give you a PNG image of the current slide.
+
+![Download Annotations](https://docs.bigbluebutton.org/images/25-download-annotations.png)
+
 ### Easier setup of breakout rooms ###
 
-Breakout rooms remember previous rooms assignments and can automatically populate the rooms
+Breakout rooms remember your previous rooms assignments within the current session. This lets you re-use the existing breakout rooms.
 
-### Improved experience when changing the duration of breakout rooms after their creation ###
+### Change time of breakout rooms ###
 
-Support for both extending and reducing the duration, notification in the main room and in each breakout room
+You can now easily change the duration of a breakout rooms to a new time.
 
-### Whiteboard improvements ###
+![Change time](https://docs.bigbluebutton.org/images/25-change-time.gif)
 
-Fill shape
+When you change the duration of breakout rooms, BigBlueButton will notify each breakout room in the public chat of the new duration.
+
+![New duration](https://docs.bigbluebutton.org/images/25-new-duration.png)
 
 ### Webcam pinning ###
+
+You can now pin a webcam so it always stays visible. This is useful if one on of the webcams is showing sign language, for example, and you always want it to be visible.
+
+![Pin webcam](https://docs.bigbluebutton.org/images/25-pin-webcam.png)
 
 ### Improvements to Guest Lobby ###
 
 Private guest lobby message, display of waiting time, moving users back to the lobby, display position in waiting line
 
-* **Engagement**
+Engagement
+----------
 
 ### Text message broadcasting to breakout rooms ###
 
-### Randomly select user without repetitions ###
+You can now broadcast a text message to all breakout rooms. This message will appear in the public chat of each breakout room.
 
-### Learning Analytics Dashboard improvements ###
-
-Newly introduced Timeline with slide thumbnails and improved display of user emoji timing
-
-* **Administration**
-
-### All package scripts are included in the source code repository ###
+![Message breakout rooms](https://docs.bigbluebutton.org/images/25-message.gif)
 
 ### Polling support for multiple answers per question ###
 
-* **Performance**
+### Randomly select user without repetitions ###
+
+Analytics
+----------
+
+### Learning Analytics Dashboard improvements ###
+
+Newly introduced Timeline with slide thumbnails and improved display of user emoji timing.
+
+Performance
+----------
 
 ### Improved scaling of webcams and screenshare ###
 
-We have switched to a different media server - [mediasoup](https://mediasoup.org/) (instead of Kurento) for handling WebRTC video streams (webcams and screenshare) and listen only.
+BigBlueButton now uses [mediasoup](https://mediasoup.org/) (instead of Kurento) as its default WebRTC media server. You’ll find mediasoup able to handle more audio and video streams (including screenshare) using less memory and CPU.
+
 For analysis on mediasoup vs. Kurento, see [BigBlueButton World - BigBlueButton’s Media Stack and the Road Ahead](https://youtu.be/SBO5iWLs0KE). Note that Kurento is still installed on the system and still plays a role in the recording of media.
+
+### Two-way microphone connections using Mediasoup ###
+
+FreeSWITCH is awesome, but it doesn’t support dual-stack IPV4 and IPV6 (we bridge this with nginx). It does not support trickle ICE for quick connections.
+
+The experimental microphone bridge introduced in 2.4 is moving towards feature complete in 2.5. Support for the following features are now in 2.5:
+
+* mediasoup now proxies audio connections for FreeSWITCH
+* Echo test
+* Input and output device switching
+* Audio filters
+
+For a list of pending issues for the experimental audio bridge to be considered production-grade, check this [Depends on](https://github.com/bigbluebutton/bigbluebutton/issues/14021#fullaudio-depends-on) section in GitHub.
+
+Moreover, the steps for enabling this have changed slightly since 2.4. If you want to try this (keep in mind it is still experimental), you need to add the `fullAudioEnabled: true` flag in bbb-webrtc-sfu’s configuration (/etc/bigbluebutton/bbb-webrtc-sfu/production.yml).
+
+Once that flag is enabled in bbb-webrtc-sfu, there are two ways of opting in:
+
+1. Using API parameters you can have specific meetings use the experimental bridge by passing: CREATE parameter `meta_fullaudio-bridge=fullaudio` to override the default `sipjs` value
+
+2. You can change the defaults in the settings for bbb-html5 by adding the following to `/etc/bigbluebutton/bbb-html5.yml` (you will likely want to merge it carefully with your existing file):
+
+```
+  public:
+    media:
+      audio:
+        defaultFullAudioBridge: fullaudio
+
+```
+
+After a restart of BigBlueButton (`sudo bbb-conf --restart`), it should be ready to test. Reverting to the default options can be achieved by removing the override sections (and passed API parameters) and restart of BigBlueButton.
+
+### Ubuntu 20.04 ###
 
 Under the hood, BigBlueButton 2.5 installs on Ubuntu 20.04 64-bit, and the following key components have been updated
 
@@ -78,58 +125,14 @@ Under the hood, BigBlueButton 2.5 installs on Ubuntu 20.04 64-bit, and the follo
 
 For full details on what is new in BigBlueButton 2.5, see the release notes. Recent releases:
 
-* [alpha.5](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.0-alpha.5)
+* [alpha-5](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.0-alpha.5)
 * [alpha-4](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5-alpha-4)
 * [alpha-3](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5-alpha-3)
 * [alpha-2](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5-alpha-2)
 * [alpha-1](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5-alpha-1)
 
-Features
-==========
-
-The following sections give details of the new features.
-
-Usability
-----------
-
-Engagement
-----------
-
-Experimental
-----------
-
-***Note*** These features below are experimental and incomplete and should *not* be used for a production server. They are primarily included for developers testing new capabilities that may appear in subsequent releases to 2.5.
-
-### Experimental microphone bridge updates ###
-
-The experimental microphone bridge introduced in 2.4 is feature complete in 2.5. Support for the following features has been added:
-
-* mediasoup
-* Echo test
-* Input and output device switching
-* Audio filters
-
-For a list of pending issues for the experimental audio bridge to be considered production-grade, check this [Depends on](https://github.com/bigbluebutton/bigbluebutton/issues/14021#fullaudio-depends-on) section in GitHub.
-
-Moreover, the steps for enabling this have changed slightly since 2.4. If you want to try this (keep in mind it is still experimental), you need to add the `fullAudioEnabled: true` flag in bbb-webrtc-sfu’s configuration (/etc/bigbluebutton/bbb-webrtc-sfu/production.yml).
-
-Once that flag is enabled in bbb-webrtc-sfu, there are two ways of opting in:
-
-1. Using API parameters you can have specific meetings use the experimental bridge by passing: CREATE parameter `meta_fullaudio-bridge=fullaudio` to override the default `sipjs` value
-2. You can change the defaults in the settings for bbb-html5 by adding the following to `/etc/bigbluebutton/bbb-html5.yml` (you will likely want to merge it carefully with your existing file):
-
-   ```
-     public:
-    media:
-      audio:
-        defaultFullAudioBridge: fullaudio
-
-   ```
-
-After a restart of BigBlueButton (`sudo bbb-conf --restart`), it should be ready to test. Reverting to the default options can be achieved by removing the override sections (and passed API parameters) and restart of BigBlueButton.
-
 Installation
-----------
+==========
 
 For server requirements, BigBlueButton 2.5 needs similar [minimum server requirements](https://docs.bigbluebutton.org/2.5/install.html#minimum-server-requirements) as 2.4.
 
@@ -165,20 +168,21 @@ ii  bbb-webrtc-sfu             1:2.5-6       amd64        BigBlueButton WebRTC S
 
 ```
 
-This installs the latest version of BigBlueButton 2.5-dev with Let’s encrypt certificate and the API demos. With the API demos installed, you can open https:/// in a browser (where  is the hostname you specified in the `bbb-install-2.5.sh` command), enter your name, and click 'Join' to join 'Demo Meeting'. For more information, see the [bbb-install-2.5.sh](https://github.com/bigbluebutton/bbb-install/blob/master/bbb-install-2.5.sh) documentation.
+This installs the latest version of BigBlueButton 2.5-dev with Let’s encrypt certificate and the API demos. With the API demos installed, you can open `https:///` in a browser (where `` is the hostname you specified in the `bbb-install-2.5.sh` command), enter your name, and click ‘Join’ to join ‘Demo Meeting’. For more information, see the [bbb-install-2.5.sh](https://github.com/bigbluebutton/bbb-install/blob/master/bbb-install-2.5.sh) documentation.
 
-BigBlueButton 2.5-dev is under active development. While we don’t recommend setting it up in a production environment, we do encourage administrators to try out the build with others and give us feedback on [our bigbluebutton-dev mailing list](https://groups.google.com/g/bigbluebutton-dev).
+BigBlueButton 2.5-dev is under active development. While we don’t recommend setting it up in a production environment yet, we do encourage administrators to try out the build with others and give us feedback on [our bigbluebutton-dev mailing list](https://groups.google.com/g/bigbluebutton-dev).
 
 Development
 ----------
 
-Follow [Development for 2.5](https://docs.bigbluebutton.org/2.5/dev.html)
+For information on developing in BigBlueButton, see [setting up a development environment for 2.5](https://docs.bigbluebutton.org/2.5/dev.html).
+
+The build scripts for packaging 2.5 (using fpm) are located in the GitHub repository [here](https://github.com/bigbluebutton/bigbluebutton/tree/v2.5.x-release/build).
 
 Contribution
 ----------
 
-We welcome contributors to BigBlueButton 2.5!
-The best ways to contribute at the current time are:
+We welcome contributors to BigBlueButton 2.5! The best ways to contribute at the current time are:
 
-* Try out installing BigBlueButton 2.5 and see if you spot any issues
-* Help test a [2.5 pull request](https://github.com/bigbluebutton/bigbluebutton/pulls?q=is%3Aopen+is%3Apr+milestone%3A%22Release+2.5%22) in your development environment
+* Try out [installing BigBlueButton 2.5](https://docs.bigbluebutton.org/2.5/new.html#installation) and see if you spot any issues.
+* Help test a [2.5 pull request](https://github.com/bigbluebutton/bigbluebutton/pulls?q=is%3Aopen+is%3Apr+milestone%3A%22Release+2.5%22) in your development environment.
