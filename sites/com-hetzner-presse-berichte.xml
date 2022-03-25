@@ -6,6 +6,32 @@
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner Online announces cooperation with Ampere</title>
+			<link>https://www.hetzner.com/presse-berichte/2022/03/167137</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Gunzenhausen, Germany – 25. March 2022
+				</small>
+			</p>
+			<h4>
+				Hetzner Online announces cooperation with Ampere
+			</h4>
+			<p class="list-card-preview">
+				In order to meet the requirements of a modern infrastructure, Hetzner Online relies, as one of the first hosters in Europe, on the expertise of the CPU manufacturer Ampere Computing...
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2022/03/167137">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Statement concerning the website war.ukraine.ua</title>
 			<link>https://www.hetzner.com/presse-berichte/2022/03/166980</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Today, Hetzner expanded the product set of its Cloud platform to include Load Balancers. Curious customers can join the free beta-test for Load Balancers and experiment with how they improve...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/06/165268">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Corona crisis: Hetzner Online supports self-help contact organization &quot;Kiss Mittelfranken&quot; with up to 100 Storage Share instances</title>
-			<link>https://www.hetzner.com/presse-berichte/2020/04/165030</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Gunzenhausen, Germany – 15. April 2020
-				</small>
-			</p>
-			<h4>
-				Corona crisis: Hetzner Online supports self-help contact organization "Kiss Mittelfranken" with up to 100 Storage Share instances
-			</h4>
-			<p class="list-card-preview">
-				The self-help contact organization "Kiss Mittelfranken" has created a platform for digital communication called Kiss.On. (In German, "Kiss" is short for "contact information for self-help"; the group operates in Central...
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/04/165030">
 				Show more
 			</a>
 		</li>
