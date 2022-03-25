@@ -17,7 +17,7 @@ Minimum server requirements
 
 For production, we recommend the following minimum requirements
 
-* Ubuntu 20.04 64-bit OS running Linux kernel 4.x
+* Ubuntu 20.04 64-bit OS running Linux kernel 5.x
 * Latest version of docker installed
 * 16 GB of memory with swap enabled
 * 8 CPU cores, with high single-thread performance
@@ -124,11 +124,11 @@ inet6 ::1/128 scope host
 
 If you do not see the line `inet6 ::1/128 scope host` then after you install BigBlueButton you will need to modify the configuration for FreeSWITCH to [disable support for IPV6](https://docs.bigbluebutton.org/support/troubleshooting.html#freeswitch-fails-to-bind-to-port-8021).
 
-Next, check that your server is running Linux kernel 4.x.
+Next, check that your server is running Linux kernel 5.x.
 
 ```
 $ uname -r
-4.15.0-NNN-generic
+5.4.x-xx-generic
 
 ```
 
