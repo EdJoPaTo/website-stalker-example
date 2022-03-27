@@ -242,7 +242,7 @@ nothing to commit (working directory clean)
 (Optional) Install bbb-demo
 ----------
 
-Note that at this point we recommend installing and using [GreenLight](https://docs.bigbluebutton.org/greenlight/install.html) or using API-MATE (link can be found when you run `$ bbb-conf --salt`).
+Note that at this point we recommend installing and using [GreenLight](https://docs.bigbluebutton.org/greenlight/gl-install.html) or using API-MATE (link can be found when you run `$ bbb-conf --salt`).
 
 If you want to test the installation or to easily start/join meetings while you are developing, you can alternatively install `bbb-demos`:
 
