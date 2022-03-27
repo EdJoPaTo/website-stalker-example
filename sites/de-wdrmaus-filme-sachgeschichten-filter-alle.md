@@ -184,6 +184,7 @@
 * [Erdbeeren](https://www.wdrmaus.de/filme/sachgeschichten/erdbeeren.php5)
 * [Erdnussflips](https://www.wdrmaus.de/filme/sachgeschichten/erdnussflips.php5)
 * [Erdöl](https://www.wdrmaus.de/filme/sachgeschichten/erdoel.php5)
+* [Erik ist jetzt Katja](https://www.wdrmaus.de/filme/sachgeschichten/erik_ist_jetzt_katja.php5)
 * [Erziehungstipps](https://www.wdrmaus.de/filme/sachgeschichten/erziehungstipps.php5)
 * [Euroherstellung](https://www.wdrmaus.de/filme/sachgeschichten/euroherstellung.php5)
 * [Europalette](https://www.wdrmaus.de/filme/sachgeschichten/europalette.php5)
