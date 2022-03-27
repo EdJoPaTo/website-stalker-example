@@ -210,4 +210,4 @@ See also
 * [Install](https://docs.bigbluebutton.org/greenlight/gl-install.html)
 * [Admin Guide](https://docs.bigbluebutton.org/greenlight/gl-admin.html)
 * [Customize](https://docs.bigbluebutton.org/greenlight/gl-customize.html)
-* [Configure](https://docs.bigbluebutton.org/greenlight/gl-configure.html)
+* [Configure](https://docs.bigbluebutton.org/greenlight/gl-config.html)
