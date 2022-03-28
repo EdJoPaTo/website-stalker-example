@@ -30,6 +30,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [04.04.2022 - 12.04.2022 RE3/RB31 nächtliche Gleis- und Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-gleis-und-weichenbauarbeiten/)
 
+[16.04.2022 RE3/RB31 Arbeiten an den Weichen im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-arbeiten-an-den-weichen/)
+
 RE2 Uelzen - Celle - Hannover
 
 [01.04.2022 - 19.04.2022 RE2/RE3/RB31 keine direkte Verbindung von Uelzen nach Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direkte-verbindung-von-uelzen-nach-goettingen/)
