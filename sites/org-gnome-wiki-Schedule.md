@@ -19,7 +19,7 @@ None.
 Release Schedule
 ----------
 
-See the [official release schedule page for GNOME 42](/FortyTwo).
+See the [official release schedule page for GNOME 43](/FortyTwo).
 
 ### Stable Branch ###
 
@@ -27,15 +27,15 @@ See the [official release schedule page for GNOME 42](/FortyTwo).
 
 ### Freezes on Development Branch ###
 
-Current freezes in place for the [GNOME 42 development cycle](/FortyTwo):
+Current freezes in place for the [GNOME 43 development cycle](/FortyTwo):
 
 |**Freeze**|**Freeze Start on...**|
 |----------|----------------------|
-| API/ABI  |     Feb 12, 2022     |
-| Feature  |     Feb 12, 2022     |
-|    UI    |     Feb 12, 2022     |
-|  String  |     Feb 26, 2022     |
-|   Code   |     Mar 05, 2022     |
+| API/ABI  |      Aug 6, 2022     |
+| Feature  |      Aug 6, 2022     |
+|    UI    |      Aug 6, 2022     |
+|  String  |     Aug 27, 2022     |
+|   Code   |      Sep 3, 2022     |
 
 Major Upcoming Conferences
 ----------
