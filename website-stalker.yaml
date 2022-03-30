@@ -78,7 +78,7 @@ sites:
             - css_select: .article-content
             - css_remove: h2
             - html_textify
-  - url: "https://www.thatskygame.com/news"
+  - url: "https://www.thatskygame.com/news/"
     editors:
        - rss:
           title: Sky Game News
