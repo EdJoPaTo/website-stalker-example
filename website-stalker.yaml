@@ -78,6 +78,16 @@ sites:
             - css_select: .article-content
             - css_remove: h2
             - html_textify
+  - url: "https://www.thatskygame.com/news"
+    editors:
+       - rss:
+          title: Sky Game News
+          item_selector: article.article
+          title_selector: h1
+          content_editors:
+            - css_select: .article-content
+            - css_remove: h1
+            - html_prettify
   - url: "https://github.com/actions/virtual-environments/labels/Announcement"
     editors:
       - rss:
