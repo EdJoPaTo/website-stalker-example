@@ -6,6 +6,24 @@
 		<description>Hier erhältst du alle wichtigen Informationen zum metronom.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Witterungsbedingte (Teil-)Ausfälle zwischen Hamburg Hbf - Hamburg-Harburg</title>
+			<link>https://www.der-metronom.de/aktuell/witterungsbedingte-teil-ausfaelle-zwischen-hamburg-hbf-hamburg-harburg/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<time content="2022-03-31T10:14:00+02:00" itemprop="datePublished">
+			31.03.2022
+		</time>
+		<div class="news-text-outer">
+			<p>
+				Aufgrund extremer Witterung gibt es aktuell größere Einschränkungen und Störungen im Streckenabschnitt Hamburg Hbf - Hamburg-Harburg! Bitte erkundigt euch auch in den elektronischen Fahrplanauskünften auf dieser Webseite oder in der metronom App über eure Verbindung. Sobald wir ergänzende Informationen haben...
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Streckensperrung am 31.03.2022 zwischen Celle - Hannover Hauptbahnhof</title>
 			<link>https://www.der-metronom.de/aktuell/streckensperrung-am-31-03-2022-zwischen-celle-hannover-hbf/</link>
 			<content:encoded><![CDATA[<html>
