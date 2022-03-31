@@ -6,6 +6,14 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Die Gnome 42 Console spart Strom</title>
+			<link>https://edjopato.de/post/2022/03/31-bright-console-brightness-power-usage/</link>
+			<pubDate>Thu, 31 Mar 2022 23:37:00 +0200</pubDate>
+			<content:encoded><![CDATA[2022-03-31
+
+Die Gnome 42 Console spart Strom]]></content:encoded>
+		</item>
+		<item>
 			<title>Meine Anpassungen und Erfahrungen mit Gnome 42</title>
 			<link>https://edjopato.de/post/2022/03/27-gnome42/</link>
 			<pubDate>Sun, 27 Mar 2022 13:49:00 +0200</pubDate>
@@ -92,14 +100,6 @@ Von alles nach alles konvertieren]]></content:encoded>
 			<content:encoded><![CDATA[2021-10-20
 
 Zocken in einem eigenen Windows am Arbeitslaptop]]></content:encoded>
-		</item>
-		<item>
-			<title>Hacker*Innen Ethik und die Cloud</title>
-			<link>https://edjopato.de/post/2021/10/20-hackerinnen-ethik-cloud/</link>
-			<pubDate>Wed, 20 Oct 2021 02:17:00 +0200</pubDate>
-			<content:encoded><![CDATA[2021-10-20
-
-Hacker*Innen Ethik und die Cloud]]></content:encoded>
 		</item>
 	</channel>
 </rss>
