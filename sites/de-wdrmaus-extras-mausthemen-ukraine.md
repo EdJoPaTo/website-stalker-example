@@ -107,4 +107,11 @@ Wenn du noch mehr wissen möchtest
 * [Kiraka](https://kinder.wdr.de/radio/kiraka/audio/klicker/index.html)
 * [ZDF Logo](https://www.zdf.de/kinder/logo/streit-zwischen-ukraine-und-russland-100.html)
 
+Tipps für Eltern
+----------
+
+ Auch für Erwachsene kann es schwierig sein, mit Kindern über den Krieg zu sprechen. Für sie hat die Sendung mit dem Elefanten auf ihren Elternseiten einige wichtige Tipps zusammengestellt.
+
+* [Hier gehts zu den Elternseiten](https://www.wdrmaus.de/elefantenseite/elternseiten/kinderthemen/mit-kindern-ueber-krieg-sprechen/)
+
 * [Lach- und Sachgeschichten auf Ukrainisch](https://www.wdrmaus.de/extras/maus_international/ukrainisch.php5)
