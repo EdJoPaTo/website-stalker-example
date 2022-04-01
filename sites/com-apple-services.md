@@ -25,25 +25,19 @@ every screen. ###
  Some titles come
 to Apple TV+ later.
 
- Finch
-
- The Shrink Next Door
-
  Ted Lasso
 
- Truth Be Told
+ WeCrashed
 
- The Morning Show
+ Severance
 
- See
+ The Afterparty
 
- CODA
+ The Tragedy of Macbeth
 
- Foundation
+ Finch
 
- Acapulco
-
- Blush
+ Swan Song
 
 Apple Music
 ----------
