@@ -24,6 +24,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [07.04.2022 - 09.04.2022 RE4/RB41 Ersatzverkehr mit Bussen zwischen Bremen Hbf und Rotenburg (Wümme)](https://www.der-metronom.de/baustellen/re4-rb41-ersatzverkehr-mit-bussen-zwischen-bremen-hbf-und-rotenburg-wuemme-1/)
 
+[15.04.2022 - 18.04.2022 RB41 nächtliche Weichenbauarbeiten zw. Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-naechtliche-weichenbauarbeiten-zw-hamburg-hbf-und-hamburg-harburg/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [18.03.2022 - 03.04.2022 RE3/RB31 Gleiserneuerung in Lüneburg und Uelzen an den Wochenenden](https://www.der-metronom.de/baustellen/re3-rb31-gleiserneuerung-in-lueneburg-und-uelzen-an-den-wochenenden/)
