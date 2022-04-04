@@ -1,28 +1,3 @@
-DIE NEUEN 18 VOLT POWER-TOOLS
-
-==========
-
----
-
-Bohr-
-schrauber
-
-----------
-
----
-
-Profi-Akku-Bohrschrauber in drei Varianten. Besonders nachhaltig durch das geniale CAS-Akku-System.
-
-[Jetzt nachbohren](https://www.engelbert-strauss.de/akku-bohrschrauber?ItemOrigin=StartFS22)
-
-[Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
-
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
-
-[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
-
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide4)
-
 NEUE KOLLEKTION
 
 ==========
@@ -39,13 +14,41 @@ Die neue e.s.trail Kollektion kombiniert High-End Fasern, Komfort und Outdoor-To
 
 [Mehr erfahren](https://www.engelbert-strauss.de/trail?ItemOrigin=StartFS22)
 
-[Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide1)
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
 
 [e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
 
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide4)
+BOA® Fit System für
+eine schnelle,
+fein-einstellbare,
+präzise Passform,
+optimale Haltbarkeit
+und beste Stabilität.
+
+HANDWERK TRIFFT SCHUHWERK
+
+==========
+
+---
+
+NEUE SCHUHE,
+NEUE STYLES
+
+----------
+
+---
+
+Sicherheit geht vor – aber wir gehen noch einen Schritt weiter: Bei unseren neuen Berufs- und Sicherheitsschuhen trifft modernste Technik auf sportliche Styles.
+
+[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten?ItemOrigin=StartFS22)
+
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide1)
+
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
+
+[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
 
 NEUE KOLLEKTION
 
@@ -63,45 +66,77 @@ Luftige Stoffe, lässige Farben und die gewohnte Taschenvielfalt steigern die Vo
 
 [Mehr erfahren](https://www.engelbert-strauss.de/motion_ten?ItemOrigin=StartFS22)
 
-[Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide1)
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
 
 [e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
 
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide4)
+ Neuheiten
 
-ENDLICH WIEDER DA - LIMITED EDITION
+[Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/?ItemOrigin=StartFS22)
+
+PROFI-SCHRAUBER
+TRIFFT PROFI-AKKU
+
+---
+
+ DIE NEUEN 18 VOLT POWER-TOOLS
+==========
+
+---
+
+###
+
+Bohr-
+schrauber
+
+ ###
+
+---
+
+[Jetzt nachbohren](https://www.engelbert-strauss.de/akku-bohrschrauber?ItemOrigin=StartFS22)
+
+[Alle Schrauber](https://www.engelbert-strauss.de/f/elektroartikel/Akku-Bohrschrauber:Akku-Bohrschrauber_S,Akku-Multi_Bohrschrauber_M,Akku-Schlagbohrschrauber_L/)
+
+ 1
+==========
+
+---
+
+Werkzeug-Set
+auswählen
 
 ==========
 
 ---
 
-e.s. ventura vintage
-
-----------
+ 2
+==========
 
 ---
 
-Diese Saison feiern wir ihr großes Comeback! Und wieder lohnt es sich schnell zu sein, denn auch diese Edition ist limitiert.
+Schrauber & Akkus
+ergänzen
 
-[Jetzt neu entdecken](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/?ItemOrigin=StartFS22)
+==========
 
-[Bohrschrauber](https://www.engelbert-strauss.de/#!start/slide1)
+---
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+###  = Kombi-Spar-Set  ###
 
-[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
+---
 
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide4)
+ wählen Sie ihr passendes aus 72 Spar Sets:
+==========
 
-Informationen zu unseren Workwearstores
+---
 
-[Hier informieren](https://www.engelbert-strauss.de/Unternehmen/workwearstore?ItemOrigin=StartFS22)
+[Schrauber S Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Bohrschrauber_S/)
 
- Neuheiten
+[Schrauber M Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Multi_Bohrschrauber_M/)
 
-[Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/?ItemOrigin=StartFS22)
+[Schrauber L Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Schlagbohrschrauber_L/)
 
  WERKZEUGTASCHEN & -GÜRTEL
 ==========
@@ -118,20 +153,23 @@ TOOLS IMMER GRIFFBEREIT
 
 [Jetzt zugreifen](https://www.engelbert-strauss.de/heavy_duty?ItemOrigin=StartFS22)
 
- NEUE SCHUHE, NEUE STYLES
+ SICHERHEIT, DIE SICH GUT ANFÜHLT.
 ==========
 
 ---
 
 ###
 
-HANDWERK TRIFFT SCHUHWERK
+DIE KOPFSCHUTZ-
+REVOLUTION
 
  ###
 
 ---
 
-[Mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten?ItemOrigin=StartFS22)
+[Mehr erfahren](https://www.engelbert-strauss.de/helme_protos?ItemOrigin=StartFS22)
+
+[jetzt kaufen](https://www.engelbert-strauss.de/schutzhelme/e-s-forsthelm-protos-7000380-7576562-147.html?itemorigin=StartFS22)
 
  NEUHEITEN FÜR
 HERREN
