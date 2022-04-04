@@ -6,6 +6,11 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Season 26 | The Fall of the Nephalem | Patch 2.7.3 Preview Blog</title>
+			<link>https://us.diablo3.blizzard.com/en-us/blog/23785083/season-26-%7C-the-fall-of-the-nephalem-%7C-patch-273-preview-blog-4-4-2022</link>
+			<content:encoded><![CDATA[Read on to learn more about the new seasonal theme and new balance changes in Patch 2.7.3!]]></content:encoded>
+		</item>
+		<item>
 			<title>Diablo 3 PTR 2.7.3 | Has Ended</title>
 			<link>https://us.diablo3.blizzard.com/en-us/blog/23774698/diablo-3-ptr-273-%7C-has-ended-3-7-2022</link>
 			<content:encoded><![CDATA[Our two-week PTR testing period for the 2.7.3 update begins on March 10, and we're asking for your help to quell the tides of surging demons.]]></content:encoded>
@@ -54,11 +59,6 @@
 			<title>DIABLO III PTR 2.7.1 | Has Ended</title>
 			<link>https://us.diablo3.blizzard.com/en-us/blog/23679609/diablo-iii-ptr-271-%7C-has-ended-6-10-2021</link>
 			<content:encoded><![CDATA[Our two-week PTR testing period for the 2.7.1 update begins June 17, and we're asking for your help to quell the tides of surging demons.]]></content:encoded>
-		</item>
-		<item>
-			<title>DIABLO IMMORTAL CLOSED ALPHA — THE CRUSADE BEGINS</title>
-			<link>https://news.blizzard.com/en-us/diablo-immortal/23657317/diablo-immortal-closed-alpha-the-crusade-begins-4-21-2021</link>
-			<content:encoded><![CDATA[Learn more about the Diablo Immortal Closed Alpha. Get all the details and answers to your most pressing questions about the limited public Closed Alpha.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
