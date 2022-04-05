@@ -6,7 +6,7 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>[macOS] Default Xcode on Monterey image will be set to Xcode 13.3 on April, 11</title>
+			<title>[macOS] Default Xcode on Monterey image will be set to Xcode 13.3 on April, 4</title>
 			<link>https://github.com/actions/virtual-environments/issues/5328</link>
 			<pubDate>Thu, 31 Mar 2022 16:08:11 +0000</pubDate>
 			<content:encoded><![CDATA[#5328
@@ -28,7 +28,7 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>[All OSs] Go versions less than 1.16 will be removed on April, 11</title>
+			<title>[All OSs] Go versions less than 1.16 will be removed and the default will be set to 1.17 on April, 11</title>
 			<link>https://github.com/actions/virtual-environments/issues/5280</link>
 			<pubDate>Fri, 25 Mar 2022 07:32:51 +0000</pubDate>
 			<content:encoded><![CDATA[#5280
