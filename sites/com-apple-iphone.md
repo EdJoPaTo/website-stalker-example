@@ -309,7 +309,7 @@ Bundle up to six Apple services. And enjoy more for less.
 Get 3 months of Apple TV+ free
 when you buy an iPhone.
 
-[Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-0-iph_fp-tle_stm-apl-avl-191111)
+[Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-iphone_fp-pmo_try-atv-220405)
 
 [Learn moreabout Apple TV Plus](https://www.apple.com/apple-tv-plus/)
 
@@ -319,9 +319,8 @@ Apple Music
 Over 90 million songs.
 Start listening for free today.
 
-[Try it free](https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=417&itscg=10000&itsct=417n)
-
-[Learn more](https://www.apple.com/apple-music/)
+* [Try it free](https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=417&itscg=10000&itsct=mus-0-try_it_free-iphone-apl-220405)
+* [Learn more](https://www.apple.com/apple-music/)
 
 Apple News Plus
 ----------

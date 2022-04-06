@@ -281,9 +281,8 @@ Apple Music
 Over 90 million songs.
 Start listening for free today.
 
-[Try it free](https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=413&itscg=10000&itsct=413n)
-
-[Learn more](https://www.apple.com/apple-music/)
+* [Try it free](https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=413&itscg=10000&itsct=mus-0-try_it_free-watch-apl-220405)
+* [Learn more](https://www.apple.com/apple-music/)
 
 Three rings. One goal.
 ----------

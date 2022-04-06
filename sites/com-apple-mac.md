@@ -512,12 +512,13 @@ And enjoy more for less.
 * [Try it free](https://one.apple.com/us?itscg=10000&itsct=one-NA-mac-tile-apl-avl-102020)
 * [Learn more](https://www.apple.com/apple-one/)
 
-### Apple TV Plus ###
+Apple TV Plus
+----------
 
 ### Get 3 months of Apple TV+ free
 when you buy a Mac. ###
 
-* [Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-0-mac_fp-tle_stm-apl-avl-191111)
+* [Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-mac_fp-pmo_try-atv-220405)
 * [Learn moreabout Apple TV Plus](https://www.apple.com/apple-tv-plus/)
 
 Apple Pay

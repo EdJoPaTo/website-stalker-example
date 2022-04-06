@@ -1,8 +1,6 @@
 AirPods
 ==========
 
-New
-
 AirPods
 ----------
 
@@ -113,8 +111,6 @@ Lightning charging
 Up to 5 hours of listening time with a single charge
 
 [](https://www.apple.com/airpods-3rd-generation/)
-
-New
 
 ### AirPods 3rd generation  ###
 
