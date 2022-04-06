@@ -50,17 +50,6 @@ by
 alepauly]]></content:encoded>
 		</item>
 		<item>
-			<title>windows-latest workflows will use Windows Server 2022</title>
-			<link>https://github.com/actions/virtual-environments/issues/4856</link>
-			<pubDate>Tue, 11 Jan 2022 11:33:05 +0000</pubDate>
-			<content:encoded><![CDATA[#4856
-opened
-Jan 11, 2022
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>[Ubuntu] Issue with libstdc++ cannot allocate memory in static TLS block</title>
 			<link>https://github.com/actions/virtual-environments/issues/4799</link>
 			<pubDate>Thu, 23 Dec 2021 12:57:09 +0000</pubDate>
