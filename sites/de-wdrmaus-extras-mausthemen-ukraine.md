@@ -115,4 +115,4 @@ Tipps für Eltern
 * [Hier gehts zu den Elternseiten](https://www.wdrmaus.de/elefantenseite/elternseiten/kinderthemen/mit-kindern-ueber-krieg-sprechen/)
 
 * [Lach- und Sachgeschichten auf Ukrainisch](https://www.wdrmaus.de/extras/maus_international/ukrainisch.php5)
-* [Sprachkurs Ukrainisch mit Yulia](https://www.wdrmaus.de/hoeren/MausLive/ukrainisch_index.php5)
+* [Ukrainisch - Sprachkurs mit Yulia](https://www.wdrmaus.de/hoeren/MausLive/ukrainisch_index.php5)
