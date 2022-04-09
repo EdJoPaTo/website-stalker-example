@@ -6,17 +6,6 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>.github/workflows/hexlet-check.yml</title>
-			<link>https://github.com/actions/virtual-environments/issues/5374</link>
-			<pubDate>Sat, 09 Apr 2022 11:11:25 +0000</pubDate>
-			<content:encoded><![CDATA[#5374
-opened
-Apr 9, 2022
-by
-
-voti06]]></content:encoded>
-		</item>
-		<item>
 			<title>[Ubuntu] PHP 7.1 will be removed from Ubuntu 18 on April, 18</title>
 			<link>https://github.com/actions/virtual-environments/issues/5326</link>
 			<pubDate>Thu, 31 Mar 2022 15:41:33 +0000</pubDate>
