@@ -26,8 +26,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[04.04.2022 - 12.04.2022 RE3/RB31 nächtliche Gleis- und Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-gleis-und-weichenbauarbeiten/)
-
 [16.04.2022 RE3/RB31 Arbeiten an den Weichen im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-arbeiten-an-den-weichen/)
 
 [19.04.2022 - 20.04.2022 RE3/RB31 Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-weichenerneuerung-im-bereich-hamburg-harburg/)
