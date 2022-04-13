@@ -317,6 +317,7 @@
 * [Gefängnis](https://www.wdrmaus.de/filme/sachgeschichten/gefaengnis.php5)
 * [Gefriertrocknen](https://www.wdrmaus.de/filme/sachgeschichten/gefriertrocknen.php5)
 * [Geigenbogen](https://www.wdrmaus.de/filme/sachgeschichten/geigenbogen.php5)
+* [Geld](https://www.wdrmaus.de/filme/sachgeschichten/geld.php5)
 * [Geldautomat](https://www.wdrmaus.de/filme/sachgeschichten/geldautomat.php5)
 * [Geldschein](https://www.wdrmaus.de/filme/sachgeschichten/geldschein.php5)
 * [Gemüseorchester](https://www.wdrmaus.de/filme/sachgeschichten/gemueseorchester.php5)
