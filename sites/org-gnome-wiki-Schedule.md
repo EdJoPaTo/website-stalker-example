@@ -19,7 +19,7 @@ None.
 Release Schedule
 ----------
 
-See the [official release schedule page for GNOME 43](/FortyTwo).
+See the [official release schedule page for GNOME 43](/FortyThree).
 
 ### Stable Branch ###
 
@@ -27,7 +27,7 @@ See the [official release schedule page for GNOME 43](/FortyTwo).
 
 ### Freezes on Development Branch ###
 
-Current freezes in place for the [GNOME 43 development cycle](/FortyTwo):
+Current freezes in place for the [GNOME 43 development cycle](/FortyThree):
 
 |**Freeze**|**Freeze Start on...**|
 |----------|----------------------|
