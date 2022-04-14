@@ -24,6 +24,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [19.04.2022 - 20.04.2022 RE4/RB41 Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-weichenerneuerung-im-bereich-hamburg-harburg/)
 
+[09.05.2022 - 12.05.2022 RE4/RB41 Brückenbauarbeiten im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten-im-bereich-hamburg-harburg/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [16.04.2022 RE3/RB31 Arbeiten an den Weichen im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-arbeiten-an-den-weichen/)
