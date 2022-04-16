@@ -64,6 +64,210 @@
 						</p>
 					</blockquote>
 					<h4>
+						<a class="anchor" href="#april-16-2022" name="april-16-2022">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						April 16, 2022
+					</h4>
+					<p>
+						<strong>
+							Bot API 6.0
+						</strong>
+					</p>
+					<ul>
+						<li>
+							Added support for
+							<strong>
+								Web Apps
+							</strong>
+							, see the
+							<a href="/bots/webapps">
+								detailed manual here
+							</a>
+							. (
+							<a href="https://telegram.org/blog/notifications-bots">
+								blog announcement
+							</a>
+							)
+						</li>
+						<li>
+							Added the class
+							<a href="#webappinfo">
+								WebAppInfo
+							</a>
+							and the fields
+							<em>
+								web_app
+							</em>
+							to the classes
+							<a href="#keyboardbutton">
+								KeyboardButton
+							</a>
+							and
+							<a href="#inlinekeyboardbutton">
+								InlineKeyboardButton
+							</a>
+							.
+						</li>
+						<li>
+							Added the class
+							<a href="#sentwebappmessage">
+								SentWebAppMessage
+							</a>
+							and the method
+							<a href="#answerwebappquery">
+								answerWebAppQuery
+							</a>
+							for sending an answer to a Web App query, which originated from an inline button of the 'web_app' type.
+						</li>
+						<li>
+							Added the class
+							<a href="#webappdata">
+								WebAppData
+							</a>
+							and the field
+							<em>
+								web_app_data
+							</em>
+							to the class
+							<a href="#message">
+								Message
+							</a>
+							.
+						</li>
+						<li>
+							Added the class
+							<a href="#menubutton">
+								MenuButton
+							</a>
+							and the methods
+							<a href="#setchatmenubutton">
+								setChatMenuButton
+							</a>
+							and
+							<a href="#getchatmenubutton">
+								getChatMenuButton
+							</a>
+							for managing the behavior of the bot's menu button in private chats.
+						</li>
+						<li>
+							Added the class
+							<a href="#chatadministratorrights">
+								ChatAdministratorRights
+							</a>
+							and the methods
+							<a href="#setmydefaultadministratorrights">
+								setMyDefaultAdministratorRights
+							</a>
+							and
+							<a href="#getmydefaultadministratorrights">
+								getMyDefaultAdministratorRights
+							</a>
+							for managing the bot's default administrator rights.
+						</li>
+						<li>
+							Added support for t.me links that can be used to add the bot to groups and channels as an administrator.
+						</li>
+						<li>
+							Added the field
+							<em>
+								last_synchronization_error_date
+							</em>
+							to the class
+							<a href="#webhookinfo">
+								WebhookInfo
+							</a>
+							.
+						</li>
+						<li>
+							Renamed the field
+							<em>
+								can_manage_voice_chats
+							</em>
+							to
+							<em>
+								can_manage_video_chats
+							</em>
+							in the class
+							<a href="#chatmemberadministrator">
+								ChatMemberAdministrator
+							</a>
+							. The old field will remain temporarily available.
+						</li>
+						<li>
+							Renamed the parameter
+							<em>
+								can_manage_voice_chats
+							</em>
+							to
+							<em>
+								can_manage_video_chats
+							</em>
+							in the method
+							<a href="#promotechatmember">
+								promoteChatMember
+							</a>
+							. The old parameter will remain temporarily available.
+						</li>
+						<li>
+							Renamed the fields
+							<em>
+								voice_chat_scheduled
+							</em>
+							,
+							<em>
+								voice_chat_started
+							</em>
+							,
+							<em>
+								voice_chat_ended
+							</em>
+							, and
+							<em>
+								voice_chat_participants_invited
+							</em>
+							to
+							<em>
+								video_chat_scheduled
+							</em>
+							,
+							<em>
+								video_chat_started
+							</em>
+							,
+							<em>
+								video_chat_ended
+							</em>
+							, and
+							<em>
+								video_chat_participants_invited
+							</em>
+							in the class
+							<a href="#message">
+								Message
+							</a>
+							. The old fields will remain temporarily available.
+						</li>
+					</ul>
+					<hr>
+					<blockquote>
+						<p>
+							<strong>
+								<img alt="⚠️" class="emoji" height="20" src="//telegram.org/img/emoji/40/E29AA0.png" width="20">
+								WARNING!
+								<img alt="⚠️" class="emoji" height="20" src="//telegram.org/img/emoji/40/E29AA0.png" width="20">
+							</strong>
+							<br>
+							After the next update, only HTTPS links will be allowed in
+							<em>
+								login_url
+							</em>
+							inline keyboard buttons.
+						</p>
+					</blockquote>
+					<hr>
+					<h4>
 						<a class="anchor" href="#january-31-2022" name="january-31-2022">
 							<i class="anchor-icon">
 							</i>
@@ -361,122 +565,6 @@
 						</strong>
 						As previously announced, user identifiers can now have up to 52 significant bits and require a 64-bit integer or double-precision float type to be stored safely.
 					</p>
-					<h4>
-						<a class="anchor" href="#november-5-2021" name="november-5-2021">
-							<i class="anchor-icon">
-							</i>
-						</a>
-						November 5, 2021
-					</h4>
-					<p>
-						<strong>
-							Bot API 5.4
-						</strong>
-					</p>
-					<ul>
-						<li>
-							Added the the parameter
-							<code>
-								creates_join_request
-							</code>
-							to the methods
-							<a href="#createchatinvitelink">
-								createChatInviteLink
-							</a>
-							and
-							<a href="#editchatinvitelink">
-								editChatInviteLink
-							</a>
-							for managing chat invite links that create join requests (read more about this on our
-							<a href="https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more#join-requests-for-groups-and-channels">
-								blog
-							</a>
-							).
-						</li>
-						<li>
-							Added the fields
-							<code>
-								creates_join_request
-							</code>
-							and
-							<code>
-								pending_join_request_count
-							</code>
-							to the class
-							<a href="#chatinvitelink">
-								ChatInviteLink
-							</a>
-							.
-						</li>
-						<li>
-							Added the field
-							<code>
-								name
-							</code>
-							to the class
-							<a href="#chatinvitelink">
-								ChatInviteLink
-							</a>
-							and the parameters
-							<code>
-								name
-							</code>
-							to the methods
-							<a href="#createchatinvitelink">
-								createChatInviteLink
-							</a>
-							and
-							<a href="#editchatinvitelink">
-								editChatInviteLink
-							</a>
-							for managing
-							<a href="https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more#unique-names-for-invite-links">
-								invite link names
-							</a>
-							.
-						</li>
-						<li>
-							Added updates about new requests to join the chat, represented by the class
-							<a href="#chatjoinrequest">
-								ChatJoinRequest
-							</a>
-							and the field
-							<em>
-								chat_join_request
-							</em>
-							in the
-							<a href="#update">
-								Update
-							</a>
-							class. The bot must be an administrator in the chat with the
-							<em>
-								can_invite_users
-							</em>
-							administrator right to receive these updates.
-						</li>
-						<li>
-							Added the methods
-							<a href="#approvechatjoinrequest">
-								approveChatJoinRequest
-							</a>
-							and
-							<a href="#declinechatjoinrequest">
-								declineChatJoinRequest
-							</a>
-							for managing requests to join the chat.
-						</li>
-						<li>
-							Added support for the
-							<em>
-								choose_sticker
-							</em>
-							action in the method
-							<a href="#sendchataction">
-								sendChatAction
-							</a>
-							.
-						</li>
-					</ul>
 					<p>
 						<strong>
 							<a href="/bots/api-changelog">
@@ -1537,6 +1625,20 @@
 										Optional
 									</em>
 									. Error message in human-readable format for the most recent error that happened when trying to deliver an update via webhook
+								</td>
+							</tr>
+							<tr>
+								<td>
+									last_synchronization_error_date
+								</td>
+								<td>
+									Integer
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									. Unix time of the most recent error that happened when trying to synchronize available updates with Telegram datacenters
 								</td>
 							</tr>
 							<tr>
@@ -3018,66 +3120,82 @@
 							</tr>
 							<tr>
 								<td>
-									voice_chat_scheduled
+									video_chat_scheduled
 								</td>
 								<td>
-									<a href="#voicechatscheduled">
-										VoiceChatScheduled
+									<a href="#videochatscheduled">
+										VideoChatScheduled
 									</a>
 								</td>
 								<td>
 									<em>
 										Optional
 									</em>
-									. Service message: voice chat scheduled
+									. Service message: video chat scheduled
 								</td>
 							</tr>
 							<tr>
 								<td>
-									voice_chat_started
+									video_chat_started
 								</td>
 								<td>
-									<a href="#voicechatstarted">
-										VoiceChatStarted
+									<a href="#videochatstarted">
+										VideoChatStarted
 									</a>
 								</td>
 								<td>
 									<em>
 										Optional
 									</em>
-									. Service message: voice chat started
+									. Service message: video chat started
 								</td>
 							</tr>
 							<tr>
 								<td>
-									voice_chat_ended
+									video_chat_ended
 								</td>
 								<td>
-									<a href="#voicechatended">
-										VoiceChatEnded
+									<a href="#videochatended">
+										VideoChatEnded
 									</a>
 								</td>
 								<td>
 									<em>
 										Optional
 									</em>
-									. Service message: voice chat ended
+									. Service message: video chat ended
 								</td>
 							</tr>
 							<tr>
 								<td>
-									voice_chat_participants_invited
+									video_chat_participants_invited
 								</td>
 								<td>
-									<a href="#voicechatparticipantsinvited">
-										VoiceChatParticipantsInvited
+									<a href="#videochatparticipantsinvited">
+										VideoChatParticipantsInvited
 									</a>
 								</td>
 								<td>
 									<em>
 										Optional
 									</em>
-									. Service message: new participants invited to a voice chat
+									. Service message: new participants invited to a video chat
+								</td>
+							</tr>
+							<tr>
+								<td>
+									web_app_data
+								</td>
+								<td>
+									<a href="#webappdata">
+										WebAppData
+									</a>
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									. Service message: data sent by a Web App
 								</td>
 							</tr>
 							<tr>
@@ -4820,6 +4938,63 @@
 						</tbody>
 					</table>
 					<h4>
+						<a class="anchor" href="#webappdata" name="webappdata">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						WebAppData
+					</h4>
+					<p>
+						Contains data sent from a
+						<a href="/bots/webapps">
+							Web App
+						</a>
+						to the bot.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Field
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									data
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									The data. Be aware that a bad client can send arbitrary data in this field.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									button_text
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Text of the
+									<em>
+										web_app
+									</em>
+									keyboard button, from which the Web App was opened. Be aware that a bad client can send arbitrary data in this field.
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
 						<a class="anchor" href="#proximityalerttriggered" name="proximityalerttriggered">
 							<i class="anchor-icon">
 							</i>
@@ -4922,14 +5097,14 @@
 						</tbody>
 					</table>
 					<h4>
-						<a class="anchor" href="#voicechatscheduled" name="voicechatscheduled">
+						<a class="anchor" href="#videochatscheduled" name="videochatscheduled">
 							<i class="anchor-icon">
 							</i>
 						</a>
-						VoiceChatScheduled
+						VideoChatScheduled
 					</h4>
 					<p>
-						This object represents a service message about a voice chat scheduled in the chat.
+						This object represents a service message about a video chat scheduled in the chat.
 					</p>
 					<table class="table">
 						<thead>
@@ -4954,30 +5129,30 @@
 									Integer
 								</td>
 								<td>
-									Point in time (Unix timestamp) when the voice chat is supposed to be started by a chat administrator
+									Point in time (Unix timestamp) when the video chat is supposed to be started by a chat administrator
 								</td>
 							</tr>
 						</tbody>
 					</table>
 					<h4>
-						<a class="anchor" href="#voicechatstarted" name="voicechatstarted">
+						<a class="anchor" href="#videochatstarted" name="videochatstarted">
 							<i class="anchor-icon">
 							</i>
 						</a>
-						VoiceChatStarted
+						VideoChatStarted
 					</h4>
 					<p>
-						This object represents a service message about a voice chat started in the chat. Currently holds no information.
+						This object represents a service message about a video chat started in the chat. Currently holds no information.
 					</p>
 					<h4>
-						<a class="anchor" href="#voicechatended" name="voicechatended">
+						<a class="anchor" href="#videochatended" name="videochatended">
 							<i class="anchor-icon">
 							</i>
 						</a>
-						VoiceChatEnded
+						VideoChatEnded
 					</h4>
 					<p>
-						This object represents a service message about a voice chat ended in the chat.
+						This object represents a service message about a video chat ended in the chat.
 					</p>
 					<table class="table">
 						<thead>
@@ -5002,20 +5177,20 @@
 									Integer
 								</td>
 								<td>
-									Voice chat duration in seconds
+									Video chat duration in seconds
 								</td>
 							</tr>
 						</tbody>
 					</table>
 					<h4>
-						<a class="anchor" href="#voicechatparticipantsinvited" name="voicechatparticipantsinvited">
+						<a class="anchor" href="#videochatparticipantsinvited" name="videochatparticipantsinvited">
 							<i class="anchor-icon">
 							</i>
 						</a>
-						VoiceChatParticipantsInvited
+						VideoChatParticipantsInvited
 					</h4>
 					<p>
-						This object represents a service message about new members invited to a voice chat.
+						This object represents a service message about new members invited to a video chat.
 					</p>
 					<table class="table">
 						<thead>
@@ -5043,10 +5218,7 @@
 									</a>
 								</td>
 								<td>
-									<em>
-										Optional
-									</em>
-									. New members that were invited to the voice chat
+									New members that were invited to the video chat
 								</td>
 							</tr>
 						</tbody>
@@ -5193,6 +5365,51 @@
 										https://api.telegram.org/file/bot<token>/<file_path>
 									</code>
 									to get the file.
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#webappinfo" name="webappinfo">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						WebAppInfo
+					</h4>
+					<p>
+						Contains information about a
+						<a href="/bots/webapps">
+							Web App
+						</a>
+						.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Field
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									url
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									An HTTPS URL of a Web App to be opened with additional data as specified in
+									<a href="/bots/webapps#initializing-web-apps">
+										Initializing Web Apps
+									</a>
 								</td>
 							</tr>
 						</tbody>
@@ -5346,6 +5563,10 @@
 						</em>
 						can be used instead of this object to specify text of the button. Optional fields
 						<em>
+							web_app
+						</em>
+						,
+						<em>
 							request_contact
 						</em>
 						,
@@ -5399,7 +5620,7 @@
 									<em>
 										True
 									</em>
-									, the user's phone number will be sent as a contact when the button is pressed. Available in private chats only
+									, the user's phone number will be sent as a contact when the button is pressed. Available in private chats only.
 								</td>
 							</tr>
 							<tr>
@@ -5417,7 +5638,7 @@
 									<em>
 										True
 									</em>
-									, the user's current location will be sent when the button is pressed. Available in private chats only
+									, the user's current location will be sent when the button is pressed. Available in private chats only.
 								</td>
 							</tr>
 							<tr>
@@ -5433,7 +5654,27 @@
 									<em>
 										Optional
 									</em>
-									. If specified, the user will be asked to create a poll and send it to the bot when the button is pressed. Available in private chats only
+									. If specified, the user will be asked to create a poll and send it to the bot when the button is pressed. Available in private chats only.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									web_app
+								</td>
+								<td>
+									<a href="#webappinfo">
+										WebAppInfo
+									</a>
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									. If specified, the described
+									<a href="/bots/webapps">
+										Web App
+									</a>
+									will be launched when the button is pressed. The Web App will be able to send a “web_app_data” service message. Available in private chats only.
 								</td>
 							</tr>
 						</tbody>
@@ -5462,6 +5703,18 @@
 							request_poll
 						</em>
 						option will only work in Telegram versions released after 23 January, 2020. Older clients will display
+						<em>
+							unsupported message
+						</em>
+						.
+						<br>
+						<strong>
+							Note:
+						</strong>
+						<em>
+							web_app
+						</em>
+						option will only work in Telegram versions released after 16 April, 2022. Older clients will display
 						<em>
 							unsupported message
 						</em>
@@ -5717,6 +5970,48 @@
 							</tr>
 							<tr>
 								<td>
+									callback_data
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									. Data to be sent in a
+									<a href="#callbackquery">
+										callback query
+									</a>
+									to the bot when button is pressed, 1-64 bytes
+								</td>
+							</tr>
+							<tr>
+								<td>
+									web_app
+								</td>
+								<td>
+									<a href="#webappinfo">
+										WebAppInfo
+									</a>
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									. Description of the
+									<a href="/bots/webapps">
+										Web App
+									</a>
+									that will be launched when the user presses the button. The Web App will be able to send an arbitrary message on behalf of the user using the method
+									<a href="#answerwebappquery">
+										answerWebAppQuery
+									</a>
+									. Available only in private chats between a user and the bot.
+								</td>
+							</tr>
+							<tr>
+								<td>
 									login_url
 								</td>
 								<td>
@@ -5733,24 +6028,6 @@
 										Telegram Login Widget
 									</a>
 									.
-								</td>
-							</tr>
-							<tr>
-								<td>
-									callback_data
-								</td>
-								<td>
-									String
-								</td>
-								<td>
-									<em>
-										Optional
-									</em>
-									. Data to be sent in a
-									<a href="#callbackquery">
-										callback query
-									</a>
-									to the bot when button is pressed, 1-64 bytes
 								</td>
 							</tr>
 							<tr>
@@ -6496,6 +6773,199 @@
 						</tbody>
 					</table>
 					<h4>
+						<a class="anchor" href="#chatadministratorrights" name="chatadministratorrights">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						ChatAdministratorRights
+					</h4>
+					<p>
+						Represents the rights of an administrator in a chat.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Field
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									is_anonymous
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										True
+									</em>
+									, if the user's presence in the chat is hidden
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_manage_chat
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										True
+									</em>
+									, if the administrator can access the chat event log, chat statistics, message statistics in channels, see channel members, see anonymous administrators in supergroups and ignore slow mode. Implied by any other administrator privilege
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_delete_messages
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										True
+									</em>
+									, if the administrator can delete messages of other users
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_manage_video_chats
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										True
+									</em>
+									, if the administrator can manage video chats
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_restrict_members
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										True
+									</em>
+									, if the administrator can restrict, ban or unban chat members
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_promote_members
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										True
+									</em>
+									, if the administrator can add new administrators with a subset of their own privileges or demote administrators that he has promoted, directly or indirectly (promoted by administrators that were appointed by the user)
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_change_info
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										True
+									</em>
+									, if the user is allowed to change the chat title, photo and other settings
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_invite_users
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										True
+									</em>
+									, if the user is allowed to invite new users to the chat
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_post_messages
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									.
+									<em>
+										True
+									</em>
+									, if the administrator can post in the channel; channels only
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_edit_messages
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									.
+									<em>
+										True
+									</em>
+									, if the administrator can edit messages of other users and can pin messages; channels only
+								</td>
+							</tr>
+							<tr>
+								<td>
+									can_pin_messages
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									.
+									<em>
+										True
+									</em>
+									, if the user is allowed to pin messages; groups and supergroups only
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
 						<a class="anchor" href="#chatmember" name="chatmember">
 							<i class="anchor-icon">
 							</i>
@@ -6731,7 +7201,7 @@
 							</tr>
 							<tr>
 								<td>
-									can_manage_voice_chats
+									can_manage_video_chats
 								</td>
 								<td>
 									Boolean
@@ -6740,7 +7210,7 @@
 									<em>
 										True
 									</em>
-									, if the administrator can manage voice chats
+									, if the administrator can manage video chats
 								</td>
 							</tr>
 							<tr>
@@ -8204,6 +8674,195 @@
 								</td>
 								<td>
 									Unique identifier of the target user
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#menubutton" name="menubutton">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						MenuButton
+					</h4>
+					<p>
+						This object describes the bot's menu button in a private chat. It should be one of
+					</p>
+					<ul>
+						<li>
+							<a href="#menubuttoncommands">
+								MenuButtonCommands
+							</a>
+						</li>
+						<li>
+							<a href="#menubuttonwebapp">
+								MenuButtonWebApp
+							</a>
+						</li>
+						<li>
+							<a href="#menubuttondefault">
+								MenuButtonDefault
+							</a>
+						</li>
+					</ul>
+					<p>
+						If a menu button other than
+						<a href="#menubuttondefault">
+							MenuButtonDefault
+						</a>
+						is set for a private chat, then it is applied in the chat. Otherwise the default menu button is applied. By default, the menu button opens the list of bot commands.
+					</p>
+					<h4>
+						<a class="anchor" href="#menubuttoncommands" name="menubuttoncommands">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						MenuButtonCommands
+					</h4>
+					<p>
+						Represents a menu button, which opens the bot's list of commands.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Field
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									type
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Type of the button, must be
+									<em>
+										commands
+									</em>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#menubuttonwebapp" name="menubuttonwebapp">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						MenuButtonWebApp
+					</h4>
+					<p>
+						Represents a menu button, which launches a
+						<a href="/bots/webapps">
+							Web App
+						</a>
+						.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Field
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									type
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Type of the button, must be
+									<em>
+										web_app
+									</em>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									text
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Text on the button
+								</td>
+							</tr>
+							<tr>
+								<td>
+									web_app
+								</td>
+								<td>
+									<a href="#webappinfo">
+										WebAppInfo
+									</a>
+								</td>
+								<td>
+									Description of the Web App that will be launched when the user presses the button. The Web App will be able to send an arbitrary message on behalf of the user using the method
+									<a href="#answerwebappquery">
+										answerWebAppQuery
+									</a>
+									.
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#menubuttondefault" name="menubuttondefault">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						MenuButtonDefault
+					</h4>
+					<p>
+						Describes that no specific value for the menu button was set.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Field
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									type
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Type of the button, must be
+									<em>
+										default
+									</em>
 								</td>
 							</tr>
 						</tbody>
@@ -14636,7 +15295,7 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
-									can_manage_voice_chats
+									can_manage_video_chats
 								</td>
 								<td>
 									Boolean
@@ -14649,7 +15308,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can manage voice chats
+									, if the administrator can manage video chats
 								</td>
 							</tr>
 							<tr>
@@ -16806,6 +17465,241 @@ pre-formatted fixed-width code block written in the Python programming language
 								</td>
 								<td>
 									A two-letter ISO 639-1 language code or an empty string
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#setchatmenubutton" name="setchatmenubutton">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						setChatMenuButton
+					</h4>
+					<p>
+						Use this method to change the bot's menu button in a private chat, or the default menu button. Returns
+						<em>
+							True
+						</em>
+						on success.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Parameter
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Required
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									chat_id
+								</td>
+								<td>
+									Integer
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Unique identifier for the target private chat. If not specified, default bot's menu button will be changed
+								</td>
+							</tr>
+							<tr>
+								<td>
+									menu_button
+								</td>
+								<td>
+									<a href="#menubutton">
+										MenuButton
+									</a>
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									A JSON-serialized object for the new bot's menu button. Defaults to
+									<a href="#menubuttondefault">
+										MenuButtonDefault
+									</a>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#getchatmenubutton" name="getchatmenubutton">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						getChatMenuButton
+					</h4>
+					<p>
+						Use this method to get the current value of the bot's menu button in a private chat, or the default menu button. Returns
+						<a href="#menubutton">
+							MenuButton
+						</a>
+						on success.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Parameter
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Required
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									chat_id
+								</td>
+								<td>
+									Integer
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Unique identifier for the target private chat. If not specified, default bot's menu button will be returned
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#setmydefaultadministratorrights" name="setmydefaultadministratorrights">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						setMyDefaultAdministratorRights
+					</h4>
+					<p>
+						Use this method to change the default administrator rights requested by the bot when it's added as an administrator to groups or channels. These rights will be suggested to users, but they are are free to modify the list before adding the bot. Returns
+						<em>
+							True
+						</em>
+						on success.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Parameter
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Required
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									rights
+								</td>
+								<td>
+									<a href="#chatadministratorrights">
+										ChatAdministratorRights
+									</a>
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									A JSON-serialized object describing new default administrator rights. If not specified, the default administrator rights will be cleared.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									for_channels
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Pass
+									<em>
+										True
+									</em>
+									to change the default administrator rights of the bot in channels. Otherwise, the default administrator rights of the bot for groups and supergroups will be changed.
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#getmydefaultadministratorrights" name="getmydefaultadministratorrights">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						getMyDefaultAdministratorRights
+					</h4>
+					<p>
+						Use this method to get the current default administrator rights of the bot. Returns
+						<a href="#chatadministratorrights">
+							ChatAdministratorRights
+						</a>
+						on success.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Parameter
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Required
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									for_channels
+								</td>
+								<td>
+									Boolean
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Pass
+									<em>
+										True
+									</em>
+									to get default administrator rights of the bot in channels. Otherwise, default administrator rights of the bot for groups and supergroups will be returned.
 								</td>
 							</tr>
 						</tbody>
@@ -24227,6 +25121,123 @@ pre-formatted fixed-width code block written in the Python programming language
 						</a>
 						in order to receive these objects in updates.
 					</p>
+					<h4>
+						<a class="anchor" href="#answerwebappquery" name="answerwebappquery">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						answerWebAppQuery
+					</h4>
+					<p>
+						Use this method to set the result of an interaction with a
+						<a href="/bots/webapps">
+							Web App
+						</a>
+						and send a corresponding message on behalf of the user to the chat from which the query originated. On success, a
+						<a href="#sentwebappmessage">
+							SentWebAppMessage
+						</a>
+						object is returned.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Parameter
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Required
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									web_app_query_id
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Yes
+								</td>
+								<td>
+									Unique identifier for the query to be answered
+								</td>
+							</tr>
+							<tr>
+								<td>
+									result
+								</td>
+								<td>
+									<a href="#inlinequeryresult">
+										InlineQueryResult
+									</a>
+								</td>
+								<td>
+									Yes
+								</td>
+								<td>
+									A JSON-serialized object describing the message to be sent
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#sentwebappmessage" name="sentwebappmessage">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						SentWebAppMessage
+					</h4>
+					<p>
+						Contains information about an inline message sent by a
+						<a href="/bots/webapps">
+							Web App
+						</a>
+						on behalf of a user.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Field
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									inline_message_id
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									. Identifier of the sent inline message. Available only if there is an
+									<a href="#inlinekeyboardmarkup">
+										inline keyboard
+									</a>
+									attached to the message.
+								</td>
+							</tr>
+						</tbody>
+					</table>
 					<h3>
 						<a class="anchor" href="#payments" name="payments">
 							<i class="anchor-icon">
