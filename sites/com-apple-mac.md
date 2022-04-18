@@ -538,7 +538,7 @@ Apple Arcade
 ### Get 3 months of Apple Arcade free
 when you buy a Mac. ###
 
-* [Try it free](https://apps.apple.com/arcade/offers?itscg=10000&itsct=arc-0-mac_fp-promo-apl-offer-191019)
+* [Try it free](itms-apps://?action=arcade&itscg=10000&itsct=arc-0-mac_fp-try_tle-apl-ref-220412)
 * [Learn more](https://www.apple.com/apple-arcade/)
 
 Apple News Plus

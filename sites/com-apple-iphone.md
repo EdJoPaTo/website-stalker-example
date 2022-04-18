@@ -337,7 +337,7 @@ Apple Arcade
 
 Get 3 months of Apple Arcade free when you buy an iPhone.
 
-* [Try it free](https://apps.apple.com/arcade/offers?itscg=10000&itsct=arc-0-iph_fp-promo-apl-offer-191019)
+* [Try it free](itms-apps://?action=arcade&itscg=10000&itsct=arc-0-iph_fp-try_tle-apl-ref-220412)
 * [Learn more](https://www.apple.com/apple-arcade/)
 
 Fitness+
