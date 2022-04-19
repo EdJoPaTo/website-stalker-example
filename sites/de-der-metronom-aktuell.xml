@@ -6,24 +6,6 @@
 		<description>Hier erhältst du alle wichtigen Informationen zum metronom.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>RE3: Stellwerksstörung bei Uelzen</title>
-			<link>https://www.der-metronom.de/aktuell/re3-stellwerksstoerung-bei-uelzen/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<time content="2022-04-19T14:44:00+02:00" itemprop="datePublished">
-			19.04.2022
-		</time>
-		<div class="news-text-outer">
-			<p>
-				Aufgrund einer Stellwerksstörung bei Uelzen kommt es in auf der Strecke Uelzen-Hamburg Hbf in beiden Richtungen zu Verspätungen auf unbestimmte Zeit.
-			</p>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
 			<title>Sicher Zug fahren: Bei uns gilt weiterhin die FFP2-Maskenpflicht</title>
 			<link>https://www.der-metronom.de/aktuell/sicher-zug-fahren-corona-regeln-fuer-unsere-fahrgaeste/</link>
 			<content:encoded><![CDATA[<html>
