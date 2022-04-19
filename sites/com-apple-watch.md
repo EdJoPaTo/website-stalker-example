@@ -142,6 +142,11 @@ Emergency SOS
 
 [Compare all models](https://www.apple.com/watch/compare/) [Shop Apple Watch](https://www.apple.com/us/shop/goto/buy_watch)
 
+Discover gifts that will make Mom’s year.
+----------
+
+[Shop Mother’s Day](https://www.apple.com/us/shop/goto/gifts/mothers_day)
+
 Family Setup
 ----------
 

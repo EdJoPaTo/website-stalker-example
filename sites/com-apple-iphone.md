@@ -209,6 +209,10 @@ Face ID
 * [Compare all iPhone models](https://www.apple.com/iphone/compare/)
 * [Shop iPhone](https://www.apple.com/us/shop/goto/buy_iphone)
 
+###  Discover gifts that will make Mom’s year.  ###
+
+[Shop Mother’s Day](https://www.apple.com/us/shop/goto/gifts/mothers_day)
+
 Featured
 accessories
 ----------

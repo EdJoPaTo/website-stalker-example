@@ -193,6 +193,10 @@ Works with
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
+###  Discover gifts that will make Mom’s year.  ###
+
+[Shop Mother’s Day](https://www.apple.com/us/shop/goto/gifts/mothers_day)
+
 Fast, free delivery
 ----------
 

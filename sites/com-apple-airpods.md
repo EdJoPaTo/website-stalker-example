@@ -186,3 +186,7 @@ Lightning charging
 Up to 20 hours of listening time with a single charge
 
 [Compare all AirPods models](https://www.apple.com/airpods/compare/)
+
+###  Discover gifts that will make Mom’s year.  ###
+
+[Shop Mother’s Day](https://www.apple.com/us/shop/goto/gifts/mothers_day)
