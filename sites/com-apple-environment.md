@@ -1,256 +1,172 @@
-We’re carbon neutral.
-    ==========
+The products
+you love
+also love the
+*planet.*
+==========
 
-    And by *2030*, every product you love will be too.
+34% reduction in carbon footprint with M1
 
-    * How it’s designed.
-    * How it’s made.
-    * How it’s shipped.
-    * How it’s used.
-    * How it’s recycled.
+100% recycled tungsten in the Taptic Engine
 
-    Apple  has a plan.
-    ----------
+100% final assembly sites verified certified zero waste
 
-    [Watch the film](https://www.apple.com/105/media/us/environment/2021/5af205b0-70bb-4d01-bf6f-0ccd605bfbb9/films/apple-has-a-plan/environment-apple-has-a-plan-tpl-us-2021_16x9.m3u8)
+No mercury, no PVC, no beryllium, no BRFs
 
-    ### Earth won’t wait. Neither will we. ###
+No outer plastic wrap
 
-    Find out more
+100% recycled aluminum enclosure
 
-    #### Our plan to reach carbon neutrality by 2030. ####
+100% recycled polyester yarn
 
-    **Designing for low carbon.** We’re making products with more recycled materials and working to reduce the amount of energy these devices use.
-
-    **Increasing energy efficiency.** We’re using energy more efficiently across retail stores, offices, data centers, and manufacturing sites.
-
-    **Using renewable energy.** We’re committed to transitioning our entire manufacturing supply chain to 100% renewable electricity generated from solar, wind, and other renewable projects.
-
-    **Avoiding direct emissions.** We’re innovating the processes in our facilities and supply chain to avoid greenhouse gas emissions.
-
-    **Investing in nature-based solutions.** We’re investing in working forests and ecosystem restoration in ways that respect communities and remove carbon from the atmosphere.
-
-    ### Using electricity from renewable sources to make Apple Products ###
-
-    Find out why
-
-    #### Clean energy is
-     no longer optional. ####
-
-    The biggest part of our carbon footprint comes from the electricity used to build the products you love. By switching to clean energy across our supply chain, we can erase the majority of that footprint. Since 2015, Apple’s Supplier Clean Energy Program has helped our manufacturing suppliers transition to renewable electricity generated from solar, wind, and other renewable projects. And by 2030, all our products will be made with 100% clean energy.
-
-    110+More than 110 Apple suppliers have committed to clean energy.
-
-    4GWWe’ve added over 4 gigawatts of renewable electricity online to our supply chain.
-
-    8.6MMTRenewable energy brought online to our supply chain has helped avoid over 8 million metric tons of carbon emissions.
-
-    ### In the fight against climate change, every voice matters. ###
-
-    Find out why
-
-    #### Climate solutions can help dismantle systemic barriers. ####
-
-    Communities of color around the world often bear the greatest impact of climate change. But environmental solutions can help advance equity for these communities. Apple’s Impact Accelerator supports Black- and Brown‑owned businesses and innovations that can also drive positive outcomes in our supply chain. The Impact Accelerator is part of our Racial Equity and Justice Initiative (REJI), which focuses on efforts that address education, economic equality, and criminal justice reform in the United States. REJI’s Impact Accelerator can help bring opportunity to Black and Brown businesses while creating innovative solutions to climate change.
-
-    ### iPhone has guts. ###
-
-    Find out more
-
-    #### iPhone is 100% committed to using 100% recycled materials. ####
-
-    iPhone relies on the availability of high-quality materials. Our goal is to one day source all of these valuable resources only from renewable and recycled alternatives. We’ve recently transitioned to 100% recycled gold in the plating of the main logic board and the wire in the front camera and rear cameras. We now use 100% recycled rare earth elements in all magnets, 100% recycled tungsten in the Taptic Engine, and 100% recycled tin in the solder of the main logic board and battery management unit. We’ve also redesigned the packaging to create an unboxing experience that’s better for the environment, and just as delightful for you.
-
-    90%iPhone 13 packaging uses 90% less plastic than iPhone 6s packaging.
-
-    2.6MMT2.6 million metric tons of mined rock equivalent have been avoided by using recycled content in iPhone 13.
-
-    ### Our products use less power. That’s powerful. ###
-
-    Find out why
-
-    #### Energy-saving products reduce our carbon footprint. And yours. ####
-
-    Product energy use makes up 19% of our carbon footprint and affects the carbon footprint of each customer. Designing products that require less energy is one of the major ways we can lower their carbon impact, even as they’re being used. Innovations in energy efficiency in one product can influence another. When you multiply these improvements by all the Apple devices in the world, you’ll see the difference it can make.
-
-    70%In 12 years, we’ve reduced average product energy use by more than 70%.
-
-    63%iPad (9th generation) consumes 63% less energy than the ENERGY STAR® requirement.
-
-    ### We’re investing in some wild ideas for carbon removal. ###
-
-    Find out how
-
-    #### Nature can help us get to neutral. ####
-
-    Apple strives to bring our emissions down as low as possible. But there are some emissions we can’t yet avoid. To remove unavoidable carbon emissions from the atmosphere, we are looking to nature‑based solutions. With Conservation International (CI) and Goldman Sachs, we have created the $200 million Restore Fund to make investments in natural climate solutions while seeking to generate a financial return. The world’s forests, wetlands, and grasslands have an important role to play in achieving global climate targets. We’re already working with CI to naturally restore the degraded savannas of the Chyulu Hills in Kenya, demonstrate innovative new models with mangroves in coastal Colombia, and protect more Amazon rainforest from loss in the Rio Nieva Reserve Zone of northern Peru. All of these efforts combined will help sequester carbon and restore ecosystems while helping us along the way to our 2030 goal of carbon neutrality.
-
-    2BOver 2 billion acres of restored savanna can remove hundreds of millions of tons of carbon from the atmosphere every year.
-
-    94K94,000 acres have been added to Peru’s Alto Mayo Protected Area.
-
-    27K27,000 acres of restored mangrove forest can store up to 1 million metric tons of carbon over its lifetime.
-
-    ### iMac brings us closer to net zero. ###
-
-    Find out how
-
-    #### iMac is designed to take carbon out of the equation. ####
-
-    We design our products to have a lighter environmental footprint. The 24‑inch iMac is evidence. Not only is its enclosure made with low-carbon aluminum, but it also uses recycled plastic, recycled tin, and recycled rare earth elements. The M1 chip, now in the 24‑inch iMac, is the first chip designed specifically for Mac. M1 is designed to run tasks as efficiently as possible, delivering outstanding performance while using significantly less power. This change, along with our efforts to use recycled and low‑carbon materials, has decreased the carbon footprint of iMac by about 20% compared with the previous generation.
-
-    ### One *less* thing. ###
-
-    Find out why
-
-    #### Fewer chargers mean less environmental impact. ####
-
-    Power adapters use the largest amounts of certain materials, including plastic, copper, tin, and zinc. Since removing them from iPhone and Apple Watch packaging, we’ve avoided mining a significant amount of materials from the earth, and we’ve eliminated the emissions that come from processing and transporting them. Using smaller, lighter packaging lets us ship more boxes at once, which helps reduce our carbon footprint. Leaving out adapters was a bold change for Apple, and a necessary one for our planet.
-
-    861K861,000 metric tons of copper, tin, and zinc ore are expected to be saved by removing power adapters.
-
-    ### *Siri* runs on clean energy. Any questions? ###
-
-    Find out how
-
-    #### Apple services are powered by renewable electricity. ####
-
-    Our data centers are filled with servers that help run your favorite Apple apps and services like Siri, iMessage, and iCloud. These facilities also represent our largest corporate energy loads, which is why we use 100% renewable electricity to power them. So no matter how many questions you ask Siri, every answer will be as clean as the last.
-
-    ### *100%* recycled aluminum.*1000%* here for it. ###
-
-    Find out how
-
-    #### Using recycled aluminum in devices lowers their carbon impact. And yours. ####
-
-    Many Apple products use aluminum as a primary material. It’s strong and durable, and it helps your devices last longer. While all Apple devices with aluminum enclosures contain some recycled aluminum, making every product carbon neutral by 2030 means incorporating even more recycled content. To achieve this, we’ve engineered our own 100% recycled aluminum alloy that can be recycled indefinitely while maintaining performance and durability. It has allowed us to transition to using 100% recycled aluminum in the enclosures of many devices. And when we have to use virgin aluminum, we work with our suppliers to source aluminum smelted primarily with low-carbon sources of electricity, like hydroelectricity, further reducing our carbon footprint.
-
-    100%MacBook Air, Apple Watch, Mac mini, and all iPad devices use 100% recycled aluminum in the enclosures.
-
-    72%Since 2015, we’ve decreased our carbon emissions associated with aluminum by 72%.
-
-    ### *Daisy* wants a piece of your iPhone. ###
-
-    Find out why
-
-    #### Recycled iPhone materials are the building blocks for new devices. ####
-
-    Every Apple product contains materials that can be used to build new products. And research from our Material Recovery Lab in Texas is helping us reclaim more of those building blocks with transformative tools and technologies. Our own disassembly robots, Daisy and Dave, take apart iPhone devices and components to enable the recovery of materials like rare earth elements, steel, and tungsten. These materials make it back to the raw materials marketplace so that we, and others, can use recycled materials for the next generation of products.
-
-    1MT1 metric ton of iPhone components removed by Daisy contains as much gold and copper as 150 metric tons of mined ore.
-
-    39K39,000 metric tons of e-waste were diverted from landfills in 2020.
-
-    200/hrDaisy can recover materials from 15 different iPhone models at a rate of 200 devices per hour.
-
-    ### More power.To you. ###
-
-    Find out how
-
-    #### Clean energy works best when shared. ####
-
-    Now that Apple Inc. runs on 100% clean energy, we’ve turned our efforts to democratizing access to renewable electricity around the world. Since 2019, our Power for Impact program has funded projects with clear carbon, ecological, and social benefits. Solar projects in the Philippines, Thailand, and South Africa help provide cost-effective clean energy to us and to communities facing energy access challenges. And this year we announced our investment in the world’s largest onshore wind turbines in Denmark. We’re powering people and progress one renewable energy project at a time.
-
-    152kW152 kilowatts of solar power and 830 kilowatt hours of storage systems in Diepsloot, South Africa, deliver power to 3600 households.
-
-    90%90% of the renewable energy for Apple facilities comes from Apple‑created projects.
-
-    20KApple’s wind turbines in Esbjerg, Denmark, produce enough energy each year to power almost 20,000 homes.
-
-    ### Apple Inc. Officially in the green. ###
-
-    Find out how
-
-    #### We’ve made it our business to be 100% carbon neutral. ####
-
-    In April 2020, Apple achieved the exciting milestone of becoming 100% carbon neutral across all of our corporate operations. A big part of this achievement was transitioning in 2018 to 100% renewable electricity in all the retail stores you visit and the Apple data centers that run your devices. We’re taking our commitment to green technologies even further by investing in the development of new renewables around the world. And to help address emissions that we can’t avoid now, we’ve partnered with Conservation International on projects that protect and restore grasslands, wetlands, and forests.
-
-    4.6MMTIn 2020, over 4.6 million metric tons of emissions from corporate operations were avoided.
-
-    73%Since 2011, scope 1 and 2 emissions have been reduced by 73%.
-
-    There’s always more to do.
-    ----------
-
-    Our environmental efforts go beyond carbon.
-
-    * ###
-
-      *No* Mercury*No* PVC *No* Beryllium*No* BFR
-
-       ###
-
-      Find out why
-
-      #### Products created with safety in mind. ####
-
-      Apple focuses on safety in product designs and strives to protect the people who design, make, use, and recycle our products. We’re conducting industry-leading work to map, test, and switch to safer chemicals in our products and manufacturing processes. The materials in Apple products are tested to evaluate their compliance with our list of regulated substances. We’re in the process of collecting the chemical composition of all the materials in our products to further assess their effect on human health and the environment. Today more than 700 parts and material suppliers share chemical information with Apple.
-
-    * ### Apple’s commitment to water runs deep. ###
-
-      Find out how
-
-      #### Using water wisely, wherever we are. ####
-
-      Water is a precious resource. It’s also a community resource, which is why we’re committed to reducing, reusing, and returning as much water as possible to the local environments where we work. Our operations use water in many different ways, from relatively low‑impact retail stores to data centers and suppliers’ manufacturing facilities, which rely more heavily on water for cooling and processing. We’re taking several steps to reduce our water impact, starting with selecting the right sites and designing for water efficiency and reuse. We’re also expanding our use of alternative water sources like recycled water, rainwater, and condensate. Finally, we are engaging with external stakeholders in the places we operate to ensure that our water stewardship plans meet local shared water challenges.
-
-    * ### Our trees work for a living. ###
-
-      Find out how
-
-      #### Paper packaging you can feel good about. ####
-
-      We have successfully closed the loop on our paper supply chain. Since 2017, 100% of the wood fiber in our paper and packaging comes from recycled or responsible sources. When virgin fiber is needed, we source wood from responsibly managed forests. Through partnership with The Conservation Fund and World Wildlife Fund, we have protected and improved the management of over one million acres of working forests in the United States and China. And when forests thrive, so do local communities and wildlife.
-
-    * ### Durability you could
-      fallfall for. ###
-
-      Find out how
-
-      #### Built to last as long as you love it. ####
-
-      Durability is central to Apple’s product design. Our goal is to build long-lasting products that you can rely on to handle the rigors of everyday use. At the Reliability Testing Lab, our engineers design customized, automated jigs that recreate the repetitive actions and interactions a device might undergo, such as repeatedly pressing an individual key. Free software updates can also increase product longevity by offering access to new features and functionality for both the latest devices and older ones. And when repairs are needed, we provide easy access to high-quality repairs through Apple retail stores, through our worldwide network of over 5000 Apple Authorized Service Providers, and through shipment to Apple Repair Centers. This year, our Independent Repair Provider program has grown to include more than 1500 providers across the United States, Canada, and Europe, and it has expanded service capabilities to include Mac in addition to iPhone.
-
-    * ### Working toward a waste-free world ###
-
-      Find out how
-
-      #### At final assembly sites, nothing goes to waste. ####
-
-      Apple’s Zero Waste Program for suppliers provides support to eliminate waste going to landfills through reduction, reuse, and recycling. We started by focusing on our highest waste producers: final assembly facilities. Apple has already achieved zero waste certifications for all established final assembly facilities across iPhone, iPad, Mac, Apple Watch, AirPods, HomePod, Apple TV, and Beats. We’re continuing to expand our program beyond final assembly sites to include component manufacturers, and we won’t stop until we reach our goal of zero waste.
-
-    *
-    *
-
-    >
-    >
-    > We don’t pretend to have all the answers. What we do have are goals to strive for, and a global community of businesses committed to doing the right thing by people and the planet.
-    >
-    >
-    > > Lisa Jackson, Vice President Environment, Policy and Social Initiatives
-    >
-    >
-
-    Trade it in.
-
-     Help the planet out.
-    ----------
-
-    With Apple Trade In, you can exchange your old device for credit toward your next purchase, or get an Apple Gift Card you can use anytime. If eligible, your device can have a second life with another owner. If not, we’ll recycle it free of charge. A win-win for you and the planet.
-
-    [Learn more](https://www.apple.com/us/shop/goto/trade_in)
-
-    More from Apple on the environment.
-    ----------
-
-    *
-    *
-
-    [### ###](https://www.apple.com/environment/#)
-
-Your product’s
-environmental report card.
+Apple  has a plan.
 ----------
+
+We’ve been carbon neutral since 2020. By 2030, all our products will be too.
+
+*See the plan*
+
+Behind every Apple product is a plan for the future.
+----------
+
+Our goal of making products with net zero carbon impact by 2030 goes hand in hand with our commitment to those most affected by climate change — and to global communities who are finding solutions and taking inclusive action to fight it.
+
+### Low-carbon design ###
+
+We’re designing carbon impact out of our products by increasing recycled content, using material more efficiently, and reducing the amount of energy they use.
+
+### Energy efficiency ###
+
+We’re finding more ways to increase energy efficiency across all our retail stores, data centers, offices, and manufacturing sites.
+
+### Renewable electricity ###
+
+Our corporate operations already run on 100% renewable electricity generated from solar, wind, and other renewable sources. By 2030, clean energy will be used to make every Apple product and will account for customers’ product energy use as well.
+
+### Avoiding direct emissions ###
+
+We’re finding solutions for manufacturing and shipping materials, components, and products in ways that reduce direct greenhouse gas emissions.
+
+### Carbon removal ###
+
+By investing in nature, we’re working to remove carbon from the atmosphere to address the emissions we can’t yet avoid, while also supporting local communities and restoring biodiversity.
+
+### Designing to leave the world better than we found it. ###
+
+* [](https://www.apple.com/environment/#iphone-gallery-item-1)
+* [](https://www.apple.com/environment/#iphone-gallery-item-2)
+
+100% recycled gold in plating of main logic board and wire in front camera and rear cameras
+
+100% recycled tin in solder of main logic board and battery management unit
+
+100% recycled rare earth elements in all magnets
+
+Antenna lines are made from upcycled water bottles
+
+Oops-*resistant* .
+
+Durable design withstands spills, splashes, and drops for more years of use
+
+Daisy the robot disassembles iPhone into recyclable parts
+
+### The fight against climate change is a fight for economic equality. ###
+
+Find out why
+
+#### Climate solutions can help dismantle systemic barriers. ####
+
+Communities of color often bear the greatest impact of climate change. Environmental solutions can help advance equity for these communities. In July 2020, Apple announced the inaugural Impact Accelerator program to support 15 Black-, Hispanic/Latinx-, and Indigenous-owned businesses at the cutting edge of green technology and clean energy to champion equity and opportunity in the environmental sector. As part of Apple’s Racial Equity and Justice Initiative (REJI), this program helps combat systemic barriers to opportunity while advancing innovative solutions for communities most affected by climate change. The businesses are based across the United States — from Silicon Valley in California, to Detroit, Michigan, to tribal nations in the Midwest — and are driving innovation in energy efficiency, solar, green chemistry, recycling, and other environmental areas. Many are focused on bringing clean energy, opportunity, and vital services to vulnerable and underserved communities. The three-month Impact Accelerator program includes one-on-one mentorship with Apple experts on topics like renewable energy and responsible sourcing. By connecting innovators, both in our inaugural class and at Apple, we’re creating more opportunities for progress in our shared goals. The next cohort of Impact Accelerator participants will start in fall 2022.
+
+[Learn more about REJI](https://www.apple.com/racial-equity-justice-initiative/)
+
+### Using electricity from renewable sources to make Apple Products  ###
+
+Find out why
+
+#### Clean energy is
+ no longer optional. ####
+
+The emissions from manufacturing our products account for about 70% of our carbon footprint. By transitioning to clean energy across our supply chain, we can erase the majority of that footprint. Since 2015 Apple’s Supplier Clean Energy Program has helped our manufacturing suppliers switch to renewable electricity generated from solar, wind, and other renewable projects. In 2021 the renewable energy online in our supply chain generated 18.3 million megawatt-hours of clean energy, avoiding almost 14 million metric tons of carbon emissions. Today 213 suppliers have committed to 100% renewable electricity for Apple production, representing the majority of Apple’s direct worldwide spending for materials, manufacturing, and assembly of products. And by 2030, every Apple product will be made with 100% clean energy.
+
+### Our products use less power. That’s powerful. ###
+
+Find out why
+
+#### Energy-saving products reduce our carbon footprint. And yours. ####
+
+The electricity our customers use to power their Apple devices makes up 22% of our carbon footprint and affects the carbon footprint of each customer. Designing products that require less energy is one of the major ways we can lower their carbon impact, even as they’re being used. Software and power-efficient components in our devices intelligently manage the amount of power they consume. Apple devices consistently rank among the high-performing products rated by ENERGY STAR®. And the transition to Apple silicon in Mac computers has significantly increased product energy efficiency — Mac mini consumes up to 60% less energy while in active use than the previous generation. Innovations in energy efficiency in one product can influence those in another. When you multiply these improvements by all the Apple devices in the world, you’ll see the difference it can make.
+
+more recycled tungsten, rare earth elements, and cobalt used in our products in 2021
+
+less single-use plastic in packaging compared with 2015
+
+### One *less*  thing. ###
+
+Find out why
+
+#### Fewer chargers mean less environmental impact. ####
+
+Power adapters use the largest amounts of certain materials, including plastic, copper, tin, and zinc. By removing them from iPhone 12 packaging, we estimate that we avoided mining over 550,000 metric tons of copper, tin, and zinc ore. Using smaller, lighter packaging lets us fit up to 70% more iPhone boxes per shipping pallet, which helps further reduce our carbon footprint. Eliminating power adapters from device packaging lets us avoid more than 2 million metric tons of carbon emissions, equivalent to removing 500,000 cars from the road for a year. Leaving out those adapters was a bold change for Apple and a necessary one for our planet.
+
+### Siri runs on clean energy. Any questions?*Siri*  runs on clean energy. Any questions?  ###
+
+Find out how
+
+#### Apple services and features are powered by renewable electricity. ####
+
+Our data centers are filled with servers that help run your favorite Apple apps and services like Siri, iMessage, and iCloud. These facilities also represent our largest corporate energy loads, which is why we use 100% renewable electricity to power them. Our servers are powered by high-efficiency power supplies, which means they are able to work while using less energy overall. So no matter how many questions you ask Siri, every answer will be as clean as the last.
+
+### We’re investing in some wild ideas for carbon removal. ###
+
+Find out why
+
+#### Nature can help us get to neutral. ####
+
+We’re striving to bring our emissions down as low as possible. But there are some emissions we can’t yet avoid. To remove unavoidable carbon emissions from the atmosphere, we are starting with nature-based solutions. With Conservation International (CI) and Goldman Sachs, we created the $200 million Restore Fund to make investments in natural climate solutions while seeking to generate a financial return. The world’s forests, wetlands, and grasslands have an important role to play in achieving global climate targets. We’re already working with CI to naturally restore the degraded savannas of the Chyulu Hills in Kenya, demonstrate innovative new models with 27,000 acres of mangrove forest in coastal Colombia, and conserve the Amazon rainforest from loss in the Rio Nieva Reserve Zone of northern Peru. Through the Restore Fund, we’re aiming to remove at least 1 million metric tons of carbon dioxide per year. All of these efforts combined will help sequester carbon, restore ecosystems, and engage local and Indigenous communities while helping us along the way to our 2030 goal of carbon neutrality.
+
+### It takes guts
+to erase our footprint.  ###
+
+Find out why
+
+#### Using recycled materials lowers the carbon impact of our products. ####
+
+Our goal is to one day make every Apple product with 100% recycled or renewable materials. To achieve that, we need to design devices to use more recycled content and make sure these materials get recovered when products reach end-of-life. When we use recycled and renewable materials, we lower our reliance on mining, shipping, and processing raw materials, thereby reducing our carbon footprint and conserving precious natural resources. Aluminum is one of our most widely used materials, and it represented over a quarter of our product manufacturing footprint in 2015. So we developed a 100% recycled alloy that still meets our high standards for performance and durability. All iPad models in our lineup, including the new iPad Air, use 100% recycled aluminum in their enclosures — joining Apple Watch Series 7, Apple Watch SE, MacBook Air, Mac mini, and the 14‑inch and 16‑inch MacBook Pro models. Aluminum now makes up less than 10% of our product manufacturing footprint.
+
+Every Apple product contains materials that can be used to build new ones. And research from our Material Recovery Lab in Texas helps us reclaim more of those building blocks with innovative tools and technologies. Daisy and Dave, our disassembly robots, take apart iPhone devices and components to recover crucial materials like gold, cobalt, steel, and tungsten. These collected materials make it back to the raw materials marketplace so that we, and others, can use recycled materials for the next generation of products.
+
+of clean energy brought online in our manufacturing supply chain
+
+reduction in average product energy use since 2008
+
+### Creating positive impact with clean energy. ###
+
+Find out how
+
+#### Clean energy benefits our company, commun­ities, and the environ­ment. ####
+
+As Apple continues the journey to becoming fully carbon neutral by 2030, we’re also focusing our efforts on democratizing access to renewable electricity around the world. Since 2019 our Power for Impact program has funded projects with clear carbon, ecological, and social benefits, giving local communities and organizations access to cost-effective energy while we retain the environmental attributes of each project. Solar projects in the Philippines, Thailand, Nigeria, Vietnam, Colombia, Israel, and South Africa help provide cost-effective energy to communities facing energy challenges. Recently Apple brought renewable energy to over 3500 South African households that previously lacked access. We are also helping to reduce electricity costs for the Pioneer School for the Visually Impaired by funding rooftop solar panel installations at three schools across South Africa. And in October 2021 we announced a partnership with the Oceti Sakowin Power Authority, a 500-megawatt clean energy project put forward by six Sioux tribes in the Dakotas, to develop tribal renewable energy resources for the wholesale market. This project will support a large-scale wind power development in the Midwest. We’re continuing to find more ways to expand access to clean, affordable energy solutions around the world, empowering people and progress one renewable energy project at a time.
+
+### Good for you.
+Good for the *planet.*  ###
+
+[Learn more about Apple Trade In](https://www.apple.com/us/shop/goto/trade_in)
+
+>
+>
+> We consider our impact on people and the planet in everything we do. And we continue to ask ourselves how we can make our work an even greater force for good in the world.
+>
+>
+> > Lisa Jackson, Vice President Environment, Policy and Social Initiatives
+>
+>
+
+The proof is in
+
+the *products.*
+----------
+
+Learn more about the progress of your Apple devices with our product environmental reports.
 
 * [iPhone](https://www.apple.com/environment/#product-reports-gallery-item-iphone-update)
 * [iPad](https://www.apple.com/environment/#product-reports-gallery-item-ipad)
@@ -1044,13 +960,16 @@ environmental report card.
 
 [View previous reports](https://www.apple.com/environment/)
 
-2021 Progress Report
+Closer to 100% *carbon neutral.*
 ----------
 
-In our current report, you’ll find more detailed information about our efforts, how we measure our overall environmental footprint, and the progress we’ve made over the past year.
+We’re already carbon neutral across our corporate operations and are on the way to making carbon neutral products by 2030. Learn more about our latest efforts to reduce our remaining carbon footprint, fight climate change, and support equity.
 
-[View the 2021 Environmental Progress Report (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2021.pdf)
+[View the 2022 Environmental Progress Report (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2022.pdf)
 
+* 2021 Progress Report
+
+  [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2021.pdf)
 * 2020 Progress Report
 
   [View (PDF)](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2020.pdf)
@@ -1119,10 +1038,10 @@ Apple has a rigorous program to ensure the safety of chemicals used in our produ
 
 Climate change is a defining issue of our time. Our goal is to achieve complete carbon neutrality by 2030. Below are detailed updates on our progress.
 
-* [Read about how our suppliers are transitioning to clean energy (PDF)](https://www.apple.com/environment/pdf/Apple_Supplier_Clean_Energy_Program_Update_2021.pdf)
-* [Apple received an A- from CDP Climate Change in 2021 (PDF)](https://www.apple.com/environment/pdf/Apple_CDP-Climate-Change-Questionnaire_2021.pdf)
+* [Read about how our suppliers are transitioning to clean energy (PDF)](https://www.apple.com/environment/pdf/Apple_Supplier_Clean_Energy_Program_Update_2022.pdf)
+* [Apple received an A– from CDP in 2021 (PDF)](https://www.apple.com/environment/pdf/Apple_CDP-Climate-Change-Questionnaire_2021.pdf)
 
-### People and Environment in our Supply Chain ###
+### People and Environment in Our Supply Chain ###
 
 We hold ourselves and our suppliers to the highest standards for labor and human rights protections, health and safety in the workplace, environmental practices, and the responsible sourcing of materials.
 
@@ -1133,3 +1052,6 @@ We hold ourselves and our suppliers to the highest standards for labor and human
 Find out the answers to common questions about Apple and the environment.
 
 [Read the FAQs](https://www.apple.com/environment/answers/)
+
+More from Apple on the environment.
+----------
