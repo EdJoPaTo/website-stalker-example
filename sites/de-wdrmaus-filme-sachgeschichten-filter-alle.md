@@ -427,6 +427,7 @@
 * [Kartenspiel](https://www.wdrmaus.de/filme/sachgeschichten/kartenspiel.php5)
 * [Kartoffelchips](https://www.wdrmaus.de/filme/sachgeschichten/kartoffelchips.php5)
 * [Kartoffelerntemaschine](https://www.wdrmaus.de/filme/sachgeschichten/kartoffelerntemaschine.php5)
+* [Kartoffelpflanzmaschine](https://www.wdrmaus.de/filme/sachgeschichten/kartoffelpflanzmaschine.php5)
 * [Kartoffelpüree](https://www.wdrmaus.de/filme/sachgeschichten/kartoffelpueree.php5)
 * [Karussellstrom](https://www.wdrmaus.de/filme/sachgeschichten/karussellstrom.php5)
 * [Katalysator](https://www.wdrmaus.de/filme/sachgeschichten/katalysator.php5)
