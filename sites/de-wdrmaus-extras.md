@@ -1,8 +1,7 @@
-[In der Stadt und auf dem Land](https://www.wdrmaus.de/extras/mausthemen/zukunft/index.php5)
+[So vielseitig ist das nasse Element](https://www.wdrmaus.de/extras/mausthemen/wasser/index.php5)
 
 [Was ist da los?](https://www.wdrmaus.de/extras/mausthemen/ukraine/index.php5)
 
-* [Die ersten Schneeflocken sind unterwegs](https://www.wdrmaus.de/extras/mausthemen/polarstern/index.php5)
 * [Die Olympische Spiele in Tokio](https://www.wdrmaus.de/extras/mausthemen/olympia/index.php5)
 * [Was ist jetzt wichtig?](https://www.wdrmaus.de/extras/mausthemen/corona/index.php5)
 * [Wie verbringst du deine Zeit?](https://www.wdrmaus.de/spiel-und-spass/hobbyraum/index.php5)
