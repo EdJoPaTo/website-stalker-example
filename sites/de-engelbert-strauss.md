@@ -219,52 +219,6 @@ KINDER
 
 [Jackenfinder](https://www.engelbert-strauss.de/#!productfinder/jacketfinder)
 
- Brand News
-
-[Alle News anzeigen](https://www.engelbert-strauss.de/brand-news?ItemOrigin=Startseite)
-
- PROUDLY MADE IN BANGLADESH
-==========
-
----
-
- STRAUSS X DFB
-==========
-
----
-
- DEUTSCHLAND
-
-PFADFINDER:IN
-GESUCHT
-
----
-
-**Strauss sucht Bahnbrecher - Mach mit!**
-
- Wohin des Weges, Strauss?
-Immer weiter. Immer vorwärts.
-Pfade finden. Bahnen brechen. Suchen. Finden?
-Dafür braucht’s Pioniere und Macher.
-Einsteiger und Umsteiger. Aufsteiger!
-Unser Ziel: Der Weg!
-Finden im Gehen.
-Lernen im Machen.
-Mach mit!
-Strauss.Works
-
- DEUTSCHLAND
-
-Strauss x DFB
-
----
-
-**GEMEINSAM IN DIE VERLÄNGERUNG**
-
- Offizieller Workwear-Partner bis 2026: Strauss und der DFB bauen ihre bestehende Partnerschaft aus. Im Zuge der Vertragsverlängerung bis 2026 wird Engelbert Strauss ab Juli 2022 offizieller Workwear-Partner des DFB und des DFB-Pokals. Die Kooperation erstreckt sich über den Gesamt-Verband des DFB, die Nationalmannschaften der Frauen, Männer und U21, sowie über das DFB-Pokalfinale der Frauen und den DFB-Pokal der Männer, bei dem Strauss als einer von sechs exklusiven Partnern auftritt.
-
-Neu dabei im Premium-Portfolio: Der DFB-ePokal, mit dem wir die Weiterentwicklung des weltweit einzigartigen eFootball-Pokalwettbewerb für Amateur- und Profigamer unterstützen. Als offizieller Workwear-Partner ist Strauss auf zahlreichen TV-relevanten Werbeflächen präsent, erhält prominente Sichtbarkeit in den Stadien und setzt auf gemeinsam mit dem DFB kreierte Social Media Formate. Wir freuen uns auf den Anpfiff!
-
  Newsletter abonnieren
 
  und exklusive Aktionen, Gutscheine & Schnäppchen sichern
