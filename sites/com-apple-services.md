@@ -147,7 +147,7 @@ Apple Card
 ### The simplicity of Apple.
 In a credit card. ###
 
-[Apply now](https://card.apple.com/?itscg=10000&itsct=pod-ovp-apple_card-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-card/)
+[Apply now](https://card.apple.com/apply/start?itscg=10000&itsct=pod-ovp-apple_card-apl-ann-21_1019) [Learn more](https://www.apple.com/apple-card/)
 
 * No fees. Not even hidden ones.
 
