@@ -1,3 +1,5 @@
+Last chance to shop for Mother’s Day. Choose two‑hour courier delivery and get your gifts in no time.<sup class="ribbon-mday-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/watch/#footnote-mday-2022">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/mothers_day)
+
 Apple Watch
 ==========
 
