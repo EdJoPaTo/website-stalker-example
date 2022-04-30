@@ -127,7 +127,8 @@ Under the hood, BigBlueButton 2.5 installs on Ubuntu 20.04 64-bit, and the follo
 
 * Tomcat 9
 * Java 11
-* Meteor 2.6.1
+* Meteor 2.7.1
+* NodeJS 14.19.1 (for bbb-html5-\*)
 * SBT 1.6.2
 * Grails 5.0.1
 * Gradle 7.3.1
@@ -135,6 +136,7 @@ Under the hood, BigBlueButton 2.5 installs on Ubuntu 20.04 64-bit, and the follo
 
 For full details on what is new in BigBlueButton 2.5, see the release notes. Recent releases:
 
+* [beta.2](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.0-beta.2)
 * [beta.1](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.0-beta.1)
 * [alpha.6](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.0-alpha.6)
 * [alpha.5](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.0-alpha.5)
