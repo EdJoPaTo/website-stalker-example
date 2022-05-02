@@ -6,6 +6,17 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[macOS] Xcode versions 13.2 &amp; 13.3 will be removed, 13.3.1 will be set as the default one on May, 16</title>
+			<link>https://github.com/actions/virtual-environments/issues/5463</link>
+			<pubDate>Mon, 02 May 2022 13:23:19 +0000</pubDate>
+			<content:encoded><![CDATA[#5463
+opened
+May 2, 2022
+by
+
+miketimofeev]]></content:encoded>
+		</item>
+		<item>
 			<title>macOS 12 (Monterey) is available as a public beta in GitHub Actions</title>
 			<link>https://github.com/actions/virtual-environments/issues/5446</link>
 			<pubDate>Wed, 27 Apr 2022 08:33:18 +0000</pubDate>
