@@ -40,7 +40,7 @@ Current freezes in place for the [GNOME 43 development cycle](/FortyThree):
 Major Upcoming Conferences
 ----------
 
-See [GnomeEvents](/GnomeEvents) for a complete list of major and minor events and links to information on planning such events.
+See [Events](/Events) for a complete list of major and minor events and links to information on planning such events.
 
 Other Major Events
 ----------
