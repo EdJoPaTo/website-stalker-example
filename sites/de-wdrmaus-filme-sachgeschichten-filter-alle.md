@@ -52,7 +52,6 @@
 * [Autopilot](https://www.wdrmaus.de/filme/sachgeschichten/autopilot.php5)
 * [Autowaschanlage](https://www.wdrmaus.de/filme/sachgeschichten/autowaschanlage.php5)
 * [Axtherstellung](https://www.wdrmaus.de/filme/sachgeschichten/axtherstellung.php5)
-* [Babycreme](https://www.wdrmaus.de/filme/sachgeschichten/babycreme.php5)
 * [Bagger](https://www.wdrmaus.de/filme/sachgeschichten/bagger.php5)
 * [Bahnschienen](https://www.wdrmaus.de/filme/sachgeschichten/bahnschienen.php5)
 * [Bahnschranke](https://www.wdrmaus.de/filme/sachgeschichten/bahnschranke.php5)
