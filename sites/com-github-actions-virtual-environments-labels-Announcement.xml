@@ -6,6 +6,17 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.18.1 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>(Public Beta) Ubuntu 22.04 is now available</title>
+			<link>https://github.com/actions/virtual-environments/issues/5490</link>
+			<pubDate>Thu, 05 May 2022 07:45:37 +0000</pubDate>
+			<content:encoded><![CDATA[#5490
+opened
+May 5, 2022
+by
+
+miketimofeev]]></content:encoded>
+		</item>
+		<item>
 			<title>[macOS] Xcode versions 13.2 &amp; 13.3 will be removed, 13.3.1 will be set as the default one on May, 16</title>
 			<link>https://github.com/actions/virtual-environments/issues/5463</link>
 			<pubDate>Mon, 02 May 2022 13:23:19 +0000</pubDate>
