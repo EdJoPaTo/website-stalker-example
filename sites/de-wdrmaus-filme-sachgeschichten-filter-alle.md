@@ -490,6 +490,7 @@
 * [Laser](https://www.wdrmaus.de/filme/sachgeschichten/laser.php5)
 * [Laubhüttenfest](https://www.wdrmaus.de/filme/sachgeschichten/laubhuettenfest.php5)
 * [Lauras Machgeschichten: Badewannenboot](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_badewannenboot.php5)
+* [Lauras Machgeschichten: Hängematte](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_haengematte.php5)
 * [Lauras Machgeschichten: Keksdose](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_keksdose.php5)
 * [Lauras Machgeschichten: Leuchtender Regenschirm](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_leuchtender_regenschirm.php5)
 * [Lauras Machgeschichten: Nudelholz-Rollstempel](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_nudelholz_rollstempel.php5)
