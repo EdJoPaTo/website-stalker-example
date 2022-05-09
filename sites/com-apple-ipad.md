@@ -1,8 +1,6 @@
 iPad
 ==========
 
- Last chance to shop for Mother’s Day. Choose two‑hour courier delivery and get your gifts in no time.<sup class="ribbon-mday-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/ipad/#footnote-mday-2022">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/mothers_day)
-
 [](https://www.apple.com/ipad-air/)
 
 New iPad Air
@@ -194,10 +192,6 @@ Works with
 
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
-
-###  Discover gifts that will make Mom’s year.  ###
-
-[Shop Mother’s Day](https://www.apple.com/us/shop/goto/gifts/mothers_day)
 
 Fast, free delivery
 ----------

@@ -1,8 +1,6 @@
 iPhone
 ==========
 
- Last chance to shop for Mother’s Day. Choose two‑hour courier delivery and get your gifts in no time.<sup class="ribbon-mday-footnote"><a aria-label="Footnote diamond symbol" href="https://www.apple.com/iphone/#footnote-mday-2022">◊</a></sup> [Shop now](https://www.apple.com/us/shop/goto/gifts/mothers_day)
-
 iPhone 13 Pro
 ----------
 
@@ -210,10 +208,6 @@ Face ID
 
 * [Compare all iPhone models](https://www.apple.com/iphone/compare/)
 * [Shop iPhone](https://www.apple.com/us/shop/goto/buy_iphone)
-
-###  Discover gifts that will make Mom’s year.  ###
-
-[Shop Mother’s Day](https://www.apple.com/us/shop/goto/gifts/mothers_day)
 
 Featured
 accessories
