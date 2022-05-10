@@ -38,9 +38,13 @@ RE2 Uelzen - Celle - Hannover
 
 [06.05.2022 - 20.05.2022 RE2/RE3/RB31 keine direkte Verbindung von Uelzen nach Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direkte-verbindung-von-uelzen-nach-goettingen-nn/)
 
+[21.05.2022 - 23.05.2022 RE2/RE3 nächtliche Oberleitungsarbeiten](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-oberleitungsarbeiten/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [06.05.2022 - 20.05.2022 RE2/RE3/RB31 keine direkte Verbindung von Uelzen nach Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direkte-verbindung-von-uelzen-nach-goettingen-2/)
+
+[21.05.2022 - 23.05.2022 RE2/RE3 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtlicher-ersatzverkehr-mit-bussen/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
