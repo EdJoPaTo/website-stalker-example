@@ -4,6 +4,29 @@ NEUE KOLLEKTION
 
 ---
 
+e.s.motion
+ten sommer
+
+----------
+
+---
+
+Luftige Stoffe, lässige Farben und die gewohnte Taschenvielfalt steigern die Vorfreude auf Projekte zur heißen Jahreszeit.
+
+[Mehr erfahren](https://www.engelbert-strauss.de/motion_ten?ItemOrigin=StartFS22)
+
+[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide1)
+
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+
+[heavy duty](https://www.engelbert-strauss.de/#!start/slide3)
+
+NEUE KOLLEKTION
+
+==========
+
+---
+
 e.s.Trail
 
 ----------
@@ -14,67 +37,100 @@ Die neue e.s.trail Kollektion kombiniert High-End Fasern, Komfort und Outdoor-To
 
 [Mehr erfahren](https://www.engelbert-strauss.de/trail?ItemOrigin=StartFS22)
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide1)
 
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
 
-[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
+[heavy duty](https://www.engelbert-strauss.de/#!start/slide3)
 
-BOA® Fit System für
-eine schnelle,
-fein-einstellbare,
-präzise Passform,
-optimale Haltbarkeit
-und beste Stabilität.
-
-HANDWERK TRIFFT SCHUHWERK
+TOOLS IMMER GRIFFBEREIT
 
 ==========
 
 ---
 
-NEUE SCHUHE,
-NEUE STYLES
-
+ HEAVY DUTY
 ----------
 
 ---
 
-Sicherheit geht vor – aber wir gehen noch einen Schritt weiter: Bei unseren neuen Berufs- und Sicherheitsschuhen trifft modernste Technik auf sportliche Styles.
+Gürtel, Tasche, Lunchbag: Wer auf der Arbeit viele Werkzeuge braucht, muss nicht automatisch zum Koffer greifen.
 
-[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten?ItemOrigin=StartFS22)
+[mehr erfahren](https://www.engelbert-strauss.de/heavy_duty?ItemOrigin=StartFS22)
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide1)
 
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
 
-[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
-
-NEUE KOLLEKTION
-
-==========
-
----
-
-e.s.motion ten sommer
-
-----------
-
----
-
-Luftige Stoffe, lässige Farben und die gewohnte Taschenvielfalt steigern die Vorfreude auf Projekte zur heißen Jahreszeit.
-
-[Mehr erfahren](https://www.engelbert-strauss.de/motion_ten?ItemOrigin=StartFS22)
-
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide1)
-
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
-
-[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide3)
+[heavy duty](https://www.engelbert-strauss.de/#!start/slide3)
 
  Neuheiten
 
 [Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/?ItemOrigin=StartFS22)
+
+ neu
+==========
+
+---
+
+###  Handschuhe
+e.s. trail, light  ###
+
+---
+
+[Jetzt zugreifen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-light-2200770-76190-1657.html?itemorigin=StartFS22)
+
+[light](https://www.engelbert-strauss.de/#!gloves/light)
+
+[short](https://www.engelbert-strauss.de/#!gloves/short)
+
+ neu
+==========
+
+---
+
+###  Handschuhe
+e.s. trail, short  ###
+
+---
+
+[Jetzt zugreifen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-short-2200780-76195-1657.html?itemorigin=StartFS22)
+
+[light](https://www.engelbert-strauss.de/#!gloves/light)
+
+[short](https://www.engelbert-strauss.de/#!gloves/short)
+
+ KLIMAREGULIEREND & ATMUNGSAKTIV
+==========
+
+---
+
+###
+
+PERFORMANCE
+SHIRTS
+
+ ###
+
+---
+
+[jetzt kaufen](https://www.engelbert-strauss.de/arbeitsshirts/t-shirt-merino-e-s-trail-3411460-21714-1624.html?itemorigin=StartFS22)
+
+ SIEHT GUT AUS, FÜHLT SICH GUT AN!
+==========
+
+---
+
+###
+
+BEQUEME
+SWEAT-SHORT
+
+ ###
+
+---
+
+[jetzt kaufen](https://www.engelbert-strauss.de/arbeitsshorts/sweat-short-e-s-trail-3162320-96157-1621.html?itemorigin=StartFS22)
 
 PROFI-SCHRAUBER
 TRIFFT PROFI-AKKU
@@ -137,87 +193,6 @@ ergänzen
 [Schrauber M Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Multi_Bohrschrauber_M/)
 
 [Schrauber L Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Schlagbohrschrauber_L/)
-
- WERKZEUGTASCHEN & -GÜRTEL
-==========
-
----
-
-###
-
-TOOLS IMMER GRIFFBEREIT
-
- ###
-
----
-
-[Jetzt zugreifen](https://www.engelbert-strauss.de/heavy_duty?ItemOrigin=StartFS22)
-
- SICHERHEIT, DIE SICH GUT ANFÜHLT.
-==========
-
----
-
-###
-
-DIE KOPFSCHUTZ-
-REVOLUTION
-
- ###
-
----
-
-[Mehr erfahren](https://www.engelbert-strauss.de/helme_protos?ItemOrigin=StartFS22)
-
-[jetzt kaufen](https://www.engelbert-strauss.de/schutzhelme/e-s-forsthelm-protos-7000380-7576562-147.html?itemorigin=StartFS22)
-
- NEUHEITEN FÜR
-HERREN
-==========
-
----
-
-[Mehr entdecken](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Herren/)
-
- NEUHEITEN FÜR
-DAMEN
-==========
-
----
-
-[Mehr entdecken](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
-
- NEUHEITEN FÜR
-KINDER
-==========
-
----
-
-[Mehr entdecken](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Kinder/)
-
-###  Auf der Suche nach der richtigen Hose?  ###
-
----
-
- In wenigen Schritten zur perfekten Hose
-
-[Jetzt starten](https://www.engelbert-strauss.de/arbeitshosen/?trouserfinder=open)
-
-[Hosenfinder](https://www.engelbert-strauss.de/#!productfinder/trouserfinder)
-
-[Jackenfinder](https://www.engelbert-strauss.de/#!productfinder/jacketfinder)
-
-###  AUF DER SUCHE NACH DER RICHTIGEN JACKE?  ###
-
----
-
- In wenigen Schritten zur perfekten Jacke
-
-[Jetzt starten](https://www.engelbert-strauss.de/arbeitsjacken/?jacketfinder=open)
-
-[Hosenfinder](https://www.engelbert-strauss.de/#!productfinder/trouserfinder)
-
-[Jackenfinder](https://www.engelbert-strauss.de/#!productfinder/jacketfinder)
 
  Newsletter abonnieren
 
