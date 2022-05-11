@@ -1,6 +1,8 @@
 iPad
 ==========
 
+Get extra credit now through May 31. Save $40–$695 when you trade in an eligible iPad toward a new one.Get extra credit now through May 31. Save $40 to $695 when you trade in an eligible iPad toward a new one.<sup class="ac-ribbon__trade-in-event-2022-footnote"><a aria-label="Footnote ◊ symbol" href="https://www.apple.com/ipad/#footnote-extra-trade-in-credit">◊</a></sup>
+
 [](https://www.apple.com/ipad-air/)
 
 New iPad Air

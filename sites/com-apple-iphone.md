@@ -1,6 +1,8 @@
 iPhone
 ==========
 
+Get extra credit now through May 31. Save $40–$700 when you trade in an eligible iPhone toward a new one.Get extra credit now through May 31. Save $40 to $700 when you trade in an eligible iPhone toward a new one.<sup class="ac-ribbon__trade-in-event-2022-footnote"><a aria-label="Footnote ◊ symbol" href="https://www.apple.com/iphone/#footnote-extra-trade-in-credit">◊</a></sup>
+
 iPhone 13 Pro
 ----------
 
