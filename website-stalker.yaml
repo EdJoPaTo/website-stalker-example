@@ -110,6 +110,7 @@ sites:
       - html_url_canonicalize
       - html_markdownify
   - url: "https://opentalk.eu/de/news-presse"
+    ignore_error: true
     editors:
       - rss:
           title: OpenTalk
@@ -220,6 +221,7 @@ sites:
 
 
   - url: "https://www.hetzner.com/news/"
+    ignore_error: true
     editors:
       - rss:
           item_selector: .list-card li
