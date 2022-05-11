@@ -127,6 +127,8 @@ nobody’s business. Because it isn’t. ####
 
 iCloud Private Relay lets you browse with Safari on different networks in an even more secure and private way — whether that’s at home, a hotel, or a cafe. It’s designed so that websites, network providers, and even Apple can’t use your IP address, location, and browsing activity to create a detailed profile about you.
 
+[Learn how Private Relay protects your privacy online (PDF)](https://www.apple.com/icloud/docs/iCloud_Private_Relay_Overview_Dec2021.pdf)
+
 ##### Hide My Email  #####
 
 #### Keep your personal email address personal. ####
