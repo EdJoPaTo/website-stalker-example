@@ -20,8 +20,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [12.12.2021 - 31.05.2022 RB41 nächtliche Bauarbeiten Hamburger Hauptbahnhof](https://www.der-metronom.de/baustellen/rb41-naechtliche-bauarbeiten-hamburger-hauptbahnhof/)
 
-[09.05.2022 - 12.05.2022 RE4/RB41 Brückenbauarbeiten im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten-im-bereich-hamburg-harburg/)
-
 [13.05.2022 RE4/RB41 Brückenbauarbeiten im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten-im-bereich-hamburg-harburg-2/)
 
 [15.05.2022 RB41 nächtlicher Teilausfall zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-naechtlicher-teilausfall-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
