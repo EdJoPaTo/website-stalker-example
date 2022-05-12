@@ -6,6 +6,11 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Diablo III Celebrates 10 Years</title>
+			<link>https://us.diablo3.blizzard.com/en-us/blog/23788296/diablo-iii-celebrates-10-years-5-12-2022</link>
+			<content:encoded><![CDATA[Diablo III turns 10! Join us in celebrating this remarkably hellish entry to the Diablo storyline.]]></content:encoded>
+		</item>
+		<item>
 			<title>Season 26 | The Fall of the Nephalem | Now Live</title>
 			<link>https://us.diablo3.blizzard.com/en-us/blog/23785083/season-26-%7C-the-fall-of-the-nephalem-%7C-now-live-4-4-2022</link>
 			<content:encoded><![CDATA[Read on to learn more about the new seasonal theme and new balance changes in Patch 2.7.3!]]></content:encoded>
@@ -54,11 +59,6 @@
 			<title>Diablo® II: Resurrected™: The Gates of Hell Open September 23</title>
 			<link>https://news.blizzard.com/en-us/diablo2/23679610/diablo%C2%AE-ii-resurrected%E2%84%A2-the-gates-of-hell-open-september-23-6-13-2021</link>
 			<content:encoded><![CDATA[Diablo II: Resurrected™ is coming soon, a definitive remastering of Diablo II alongside its Lord of Destruction® expansion!]]></content:encoded>
-		</item>
-		<item>
-			<title>DIABLO III PTR 2.7.1 | Has Ended</title>
-			<link>https://us.diablo3.blizzard.com/en-us/blog/23679609/diablo-iii-ptr-271-%7C-has-ended-6-10-2021</link>
-			<content:encoded><![CDATA[Our two-week PTR testing period for the 2.7.1 update begins June 17, and we're asking for your help to quell the tides of surging demons.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
