@@ -333,11 +333,13 @@ sites:
             - css_remove: a.news-more
             - html_url_canonicalize
             - html_prettify
-  - url: "https://www.der-metronom.de/fahrplan/baustellen-uebersicht/"
+  - url:
+      - "https://www.der-metronom.de/fahrkarten/9-euro-ticket/"
+      - "https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/"
+      - "https://www.der-metronom.de/fahrplan/baustellen-uebersicht/"
     editors:
       - css_select: "#content .right"
-      - css_remove: form
-      # - html_prettify
+      - css_remove: form, script, .img-left
       - html_url_canonicalize
       - html_markdownify
 
