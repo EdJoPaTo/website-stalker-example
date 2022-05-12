@@ -30,8 +30,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[08.05.2022 - 12.05.2022 RE3/RB31 Brückenbau- und Weichenarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-brueckenbauarbeiten/)
-
 [15.05.2022 RB31 nächtlicher Teilausfall zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtlicher-teilausfall-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 RE2 Uelzen - Celle - Hannover
