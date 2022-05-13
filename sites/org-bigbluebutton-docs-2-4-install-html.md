@@ -330,6 +330,8 @@ Upgrading from BigBlueButton 2.3
 
 if you are upgrading BigBlueButton 2.3, you can simply re-run the bbb-install command you used for 2.3 but replacing the repository `bionic-230` with `bionic-240`.
 
+After that, if the command `sudo bbb-conf --check` complains about a “Webhooks API Shared Secret mismatch”, reinstall the webhooks: `sudo apt-get install --reinstall bbb-webhooks`
+
 Restart your server
 ----------
 
