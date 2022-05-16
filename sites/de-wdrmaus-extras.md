@@ -2,6 +2,7 @@
 
 [Was ist da los?](https://www.wdrmaus.de/extras/mausthemen/ukraine/index.php5)
 
+* [Wie wollen wir leben?](https://www.wdrmaus.de/extras/mausthemen/zukunft/index.php5)
 * [Die Olympische Spiele in Tokio](https://www.wdrmaus.de/extras/mausthemen/olympia/index.php5)
 * [Was ist jetzt wichtig?](https://www.wdrmaus.de/extras/mausthemen/corona/index.php5)
 * [Wie verbringst du deine Zeit?](https://www.wdrmaus.de/spiel-und-spass/hobbyraum/index.php5)
