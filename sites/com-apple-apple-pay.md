@@ -4,7 +4,7 @@ Apple Pay
 Here to pay.
 ----------
 
-Apple Pay is the one way to pay. It replaces your
+Apple Pay is the one way to pay. It replaces your
 physical cards
 and cash with an easier, safer, more
 secure, and private payment method — whether you’re
@@ -29,7 +29,7 @@ Accepted on millions
 ----------
 
 Checkout is easier
- online with Apple Pay.
+ online with Apple Pay.
 ----------
 
 It’s ready
@@ -43,10 +43,10 @@ Setup in seconds. Apple Pay is simple to set up. Just add your credit or debit 
 
 Apple Pay is already on your device. Apple Pay is built into iPhone, Apple Watch, Mac, and iPad. No separate app to download. No complicated processes to complete. No hassles.
 
-Use Apple Cash with Apple Pay. Apple Pay powers Apple Cash, which works a lot like a debit card and lets you send and receive money right in Messages. Just set up your Apple Cash card in the Wallet app and send money to your squad for brunch — or ask them to pay you back.
+Use Apple Cash with Apple Pay. Apple Cash is a digital card that lives in Wallet — it stores the cash you receive or want to send. You can send money right in Wallet or Messages — pay your squad for brunch or chip in for a coworker’s gift. You can also spend it in stores, in apps, or online with Apple Pay.
 
 * [Learn more about Apple Cash](https://www.apple.com/apple-cash/)
-* [How to send money](https://www.apple.com/105/media/us/apple-pay/2017/1b3e5430_fafc_4e9d_8114_4ba5eacf00f4/overview/films/send-and-receive-money/apple-pay-send-receive-money-tpl-cc-us-20170912_720x1280h.mp4)
+* [How to send money](https://support.apple.com/en-us/HT207875)
 
 Easy.
  Does it all.
@@ -96,8 +96,7 @@ Apple Pay.
 
 [Add a card](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
 
-In case you
- missed anything.
+Questions? Answers.
 ----------
 
 * ### How do I use Apple Pay?  ###
@@ -153,6 +152,12 @@ In case you
   * [Order Apple Pay decals for your store](https://www.applepaysupplies.com/)
   * [Add Apple Pay to your Maps listing](https://mapsconnect.apple.com/)
 
+* ### What’s the difference between Apple Cash and Apple Pay?  ###
+
+  Apple Cash is a digital card in Wallet that lets you send and receive money in Messages or Wallet. The money you receive appears on your Apple Cash card in Wallet. You can spend it however you like in stores, online, and in apps with Apple Pay.
+
+  Apple Pay enables you to make secure, contactless purchases using Apple Cash, Apple Card, and any other credit and debit cards that you add to Wallet.
+
 Wallet
 ----------
 
@@ -177,7 +182,7 @@ Apple Cash
 
 Use it to send and receive
 
-money in Messages and wherever
+money, and spend wherever
 
 Apple Pay is accepted.
 
