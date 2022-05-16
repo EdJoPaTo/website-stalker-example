@@ -329,8 +329,6 @@ More about Submit to App Store
 
 Create apps for your iPhone and iPad right on your iPad. Build and submit apps to the App Store directly from the Swift Playgrounds app.
 
-Beta
-
 Universal Control
 ----------
 

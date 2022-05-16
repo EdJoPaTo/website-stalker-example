@@ -169,8 +169,6 @@ Use your Mac and iPad together to unlock faster, easier, and amazingly creative 
 
 A single keyboard and mouse or trackpad now work seamlessly between your Mac and iPad — they’ll even connect to more than one Mac or iPad. Move your cursor from your Mac to your iPad, type on your Mac and watch the words show up on your iPad, or even drag and drop content from one Mac to another.
 
-Beta
-
 #### No setup required ####
 
 Just put your devices next to each other and move your cursor seamlessly between them.
