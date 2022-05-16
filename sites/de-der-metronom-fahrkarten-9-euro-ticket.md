@@ -3,7 +3,7 @@ Das 9-Euro-Ticket
 
 ### ... wie es funktioniert und wo es gültig ist. ###
 
-metronom ist eines der größten privaten Eisenbahnunternehmen in Deutschland. Unsere Züge fahren zwischen Hamburg, Bremen, Hannover und Göttingen sowie unter der Marke [enno](https://www.der-enno.de/) zwischen Hannover, Wolfsburg, Braunschweig und Hildesheim. Für uns sind transparente Kommunikation und regionales Engagement Teil unseres Selbstverständnisses. Als Mobilitätsgarant für die Menschen im Norden übernimmt jeder von uns Verantwortung für unsere Fahrgäste und auch die Kolleginnen und Kollegen. Wir wollen nicht nur nach außen einen hervorragenden Job machen. Uns verbindet das Gefühl von Offenheit, Erfolg und Verantwortung.
+metronom ist eines der größten privaten Eisenbahnunternehmen in Deutschland. Unsere Züge fahren zwischen Hamburg, Bremen, Hannover und Göttingen sowie unter der Marke [enno](https://www.der-enno.de/) zwischen Hannover, Wolfsburg, Braunschweig und Hildesheim. Für uns sind transparente Kommunikation und regionales Engagement Teil unseres Selbstverständnisses. Als Mobilitätsgarant für die Menschen im Norden übernimmt jeder von uns Verantwortung für unsere Fahrgäste und auch die Kolleginnen und Kollegen.
 
 **Wir haben für euch die wichtigsten Fragen zum 9-Euro-Ticket zusammengestellt und in aller Kürze beantwortet!**
 
