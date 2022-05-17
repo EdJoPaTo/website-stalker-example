@@ -63,7 +63,15 @@ Nein, denn:
 
 Das 9-Euro-Ticket ist eine einmalige Sondermaßnahme, die vom Bund im Entlastungspaket beschlossen und durch ihn finanziert wurde. Für Abonnentinnen und Abonnenten gelten ab dem 1. September wieder die gewohnten Preise.
 
-#### [Was gibt es zu beachten?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-12)  ####
+#### [Umtausch und Erstattung](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-12)  ####
+
+Umtausch und Erstattung des „9-Euro-Tickets“ sind ausgeschlossen.
+
+#### [Fahrgastrechte im Eisenbahnverkehr](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-13)  ####
+
+Es gelten die gesetzlichen Fahrgastrechte im Eisenbahnverkehr. Für Verspätungsentschädigungen gem. Art. 17 der Verordnung (EG) Nr. 1371/2007 gelten die Entschädigungsbedingungen für Zeitkarten der Eisenbahnverkehrsunternehmen gem. der Tarifbestimmungen des Deutschlandtarifs Teil C Nr. 8.1. Eine Auszahlung von Verspätungsentschädigungen erfolgt demnach nicht, dader maximal auszahlbare Entschädigungsbetrag die „Bagatellgrenze“ unterschreitet.
+
+#### [Was gibt es zu beachten?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-14)  ####
 
 Der Aktionszeitraum des 9-Euro-Tickets fällt in die Sommerferien, die zur Entlastung der Pendler:innen regelmäßig verschiedene Baumaßnahmen im Streckennetz umfassen. Diese Baumaßnahmen sind langfristig von den Infrastrukturunternehmen geplant und können nicht kurzfristig adaptiert werden. Wir bitten deshalb alle Teilnehmer/-innen an der Aktion „9-Euro-Ticket“, sich im Vorhinein über Reiserouten zu informieren und flexibel zu sein. Geplante Baumaßnahmen werden vorab in unseren Informationsmedien hinterlegt.
 
