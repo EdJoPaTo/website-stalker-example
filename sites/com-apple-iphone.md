@@ -279,10 +279,8 @@ is super simple. ###
 
 [Learn more](https://www.apple.com/iphone/switch/)
 
-### Privacy ###
-
-What you share
-should be up to you.
+### Privacy.
+That’s iPhone. ###
 
 [Learn more](https://www.apple.com/privacy/)
 
