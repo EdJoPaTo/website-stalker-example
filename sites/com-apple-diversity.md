@@ -188,9 +188,9 @@ Read more about Kayode.
 Kayode Adegeye
 ----------
 
-He/him, Partner Communications Manager, Member of the People Engagement Committee
+He/him, Brand Manager, Co-chair Black@Apple (ALAC)
 
-Kayode leads initiatives that raise awareness around challenges facing Brazil’s Black community, with a focus on institutional racism in business and education. He applies skills he has mastered as a partner communications manager to create content that prompts others inside and outside Apple to inform more inclusive views on race in Brazil.
+Kayode leads initiatives that raise awareness around challenges facing Brazil’s Black community, with a focus on institutional racism in business and education. He applies skills he has mastered as a communications manager to create content that prompts others inside and outside Apple to inform more inclusive views on race in Brazil.
 
 > quote by Kayode
 
@@ -428,7 +428,7 @@ Apple Store team members offer Today at Apple programs as a free resource for 
 
 ### Empowering creatives through career building. ###
 
-This past year, Apple launched an innovative new community program, Today at Apple Creative Studios, to provide career-building mentorship and training for young people facing barriers to meaningful artistic education and resources. Working in partnership with nonprofit community organizations, Creative Studios has amplified emerging artists’ voices in Beijing, Chicago, London, Los Angeles, New York, Paris, Rome, and Washington, D.C.
+This past year, Apple launched an innovative new community program, Today at Apple Creative Studios, to provide career-building mentorship and training for young people facing barriers to meaningful artistic education and resources. Working in partnership with nonprofit community organizations, Creative Studios has amplified emerging artists’ voices in Bangkok, Beijing, Chicago, London, Los Angeles, New York, Paris, Rome, and Washington, D.C.
 
 ### Designed
  with

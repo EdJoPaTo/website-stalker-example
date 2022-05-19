@@ -292,7 +292,7 @@ Virtual Sessions
 
 Learn the basics of using iPhone live with Apple Creatives.
 
-[Sign up](https://www.apple.com/today/event/virtual-session-getting-started-iphone/)
+[Sign up](https://www.apple.com/today/event/learn-the-basics-iphone?cid=rem-us-taa-iphone-familly-ltb)
 
 Apple One
 ----------

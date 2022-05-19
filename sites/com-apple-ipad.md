@@ -282,7 +282,7 @@ Get more out of your iPad
 
 Learn the basics of using iPad live with Apple Creatives.
 
-[Sign up](https://www.apple.com/today/event/virtual-session-product-skills-ipad/)
+[Sign up](https://www.apple.com/today/event/learn-the-basics-ipad?cid=rem-us-taa-ipad-family-ltb)
 
 ### Apple and Education ###
 

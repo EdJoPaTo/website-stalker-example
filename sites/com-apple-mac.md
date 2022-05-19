@@ -502,7 +502,7 @@ Today at Apple
 ### Learn the basics of using Mac
 live with Apple Creatives. ###
 
-* [Sign up](https://www.apple.com/today/event/virtual-session-product-skills-mac/)
+* [Sign up](https://www.apple.com/today/event/learn-the-basics-mac?cid=rem-us-taa-mac-family-ltb)
 
 Apple One
 ----------
