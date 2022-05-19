@@ -24,7 +24,7 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[11.06.2022 - 15.07.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
 
 RE2 Uelzen - Celle - Hannover
 
