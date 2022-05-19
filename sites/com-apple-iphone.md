@@ -10,7 +10,6 @@ Oh. So. Pro.
 
 * [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13_pro)
 * [Learn more](https://www.apple.com/iphone-13-pro/)
-* [Learn more](https://www.apple.com/iphone-13-pro/key-features/)
 
 ### Take it for a spin. ###
 
@@ -29,7 +28,6 @@ Your new superpower.
 
 * [Buy](https://www.apple.com/us/shop/goto/buy_iphone/iphone_13)
 * [Learn more](https://www.apple.com/iphone-13/)
-* [Learn more](https://www.apple.com/iphone-13/key-features/)
 
 ### Take it for a spin. ###
 
@@ -72,7 +70,7 @@ Which iPhone is right for you?
 
 [](https://www.apple.com/iphone-13-pro/)
 
-[](https://www.apple.com/iphone-13-pro/key-features/)
+[](https://www.apple.com/iphone-13-pro/)
 
 ### New iPhone 13 Pro  ###
 
@@ -82,7 +80,7 @@ The ultimate iPhone.
 
 [Learn more](https://www.apple.com/iphone-13-pro/)
 
-[Learn more](https://www.apple.com/iphone-13-pro/key-features/)
+[Learn more](https://www.apple.com/iphone-13-pro/)
 
 [View in AR](https://www.apple.com/105/media/us/iphone-13-pro/2022/e79ab92e-2755-493d-9590-3f5d2c50216d/quick-look/iphone_13_pro_iphone_13_pro_max_alpine_green_5G_ios15.usdz)
 
@@ -107,7 +105,7 @@ Face ID
 
 [](https://www.apple.com/iphone-13/)
 
-[](https://www.apple.com/iphone-13/key-features/)
+[](https://www.apple.com/iphone-13/)
 
 ### New iPhone 13  ###
 
@@ -117,7 +115,7 @@ A total powerhouse.
 
 [Learn more](https://www.apple.com/iphone-13/)
 
-[Learn more](https://www.apple.com/iphone-13/key-features/)
+[Learn more](https://www.apple.com/iphone-13/)
 
 [View in AR](https://www.apple.com/105/media/us/iphone-13/2022/27e04412-ebb9-4d9b-8ac5-ff1fad0ebb40/quick-look/iphone_13_mini_iphone_13_green_5G_ios15.usdz)
 
@@ -177,7 +175,7 @@ Touch ID
 
 [](https://www.apple.com/iphone-12/key-features/)
 
-[](https://www.apple.com/iphone-12/key-features/)
+[](https://www.apple.com/us/shop/goto/buy_iphone/iphone_12)
 
 ### iPhone 12  ###
 
@@ -187,7 +185,7 @@ As amazing as ever.
 
 [Learn more](https://www.apple.com/iphone-12/key-features/)
 
-[Learn more](https://www.apple.com/iphone-12/key-features/)
+[Learn more](https://www.apple.com/us/shop/goto/buy_iphone/iphone_12)
 
 [View in AR](https://www.apple.com/105/media/us/iphone/2021/ee60dffb-9cc8-4079-985e-ce5159ac2589/quick-look/iphone-12/iphone_12_mini_v_iphone_12_purple_5G_ios14.usdz)
 
