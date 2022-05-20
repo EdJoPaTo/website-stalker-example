@@ -6,6 +6,24 @@
 		<description>Hier erhältst du alle wichtigen Informationen zum metronom.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Bahnhof Celle gegenwärtig gesperrt!</title>
+			<link>https://www.der-metronom.de/aktuell/bahnhof-celle-gegenwaertig-gesperrt/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<time content="2022-05-20T10:48:00+02:00" itemprop="datePublished">
+			20.05.2022
+		</time>
+		<div class="news-text-outer">
+			<p>
+				Aufgrund eines gefährlichen Ereignisses ist der Bahnhof Celle bis auf Weiteres gesperrt. Der metronom wendet von Uelzen kommend in Eschede zurück nach Uelzen. Zwischen Eschede und Langenhagen wird ein Busnotverkehr jeweils ab 11:15 Uhr und 11:30 Uhr eingerichtet. Ab Langenhagen...
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Den ganzen Sommer über massive Beeinträchtigungen auf der RE3/RB31: Weichen- und Gleisbauarbeiten zwischen Uelzen – Hamburg Hbf</title>
 			<link>https://www.der-metronom.de/aktuell/massive-beeintraechtigungen-ab-juni-andauernd-bis-september-zwischen-uelzen-hamburg-hbf/</link>
 			<content:encoded><![CDATA[<html>
