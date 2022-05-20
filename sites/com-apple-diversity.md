@@ -658,7 +658,7 @@ Data supplied by the People team at Apple. Totals may not add up to 100% due to 
 
 To align with U.S. government reporting requirements, data on this website uses the traditional gender categories of male and female. Apple deeply respects that gender is not binary.
 
-Though we do not use the [Federal Employer Information Report EEO-1](https://www.apple.com/diversity/pdf/2020-Final-Certified-Apple-EEO-1-Report.pdf) to measure progress, our most recent filing is publicly available.
+Though we do not use the [Federal Employer Information Report EEO-1](https://www.apple.com/diversity/pdf/2021-Consolidated-EEO-1-Certified.pdf) to measure progress, our most recent filing is publicly available.
 
 > quote by
 >
