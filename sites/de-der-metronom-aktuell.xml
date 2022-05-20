@@ -6,7 +6,27 @@
 		<description>Hier erhältst du alle wichtigen Informationen zum metronom.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>Bahnhof Celle gegenwärtig gesperrt!</title>
+			<title>Unwetterwarnung: Beeinträchtigungen im Schienenpersonennahverkehr möglich</title>
+			<link>https://www.der-metronom.de/aktuell/unwetterwarnung-beeintraechtigungen-im-schienenpersonennahverkehr-moeglich/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<time content="2022-05-20T11:30:00+02:00" itemprop="datePublished">
+			20.05.2022
+		</time>
+		<div class="news-text-outer">
+			<p>
+				Aufgrund der aktuellen Wetterwarnungen des Deutschen Wetterdienstes (DWD) kann es am Freitagnachmittag, den 20.05.22 bis in den Samstag, den 21.05.22, hinein zu Beeinträchtigungen beim Regionalverkehr in Niedersachsen, Bremen kommen.
+Derzeit liegen keine Einschränkungen wegen des Sturmtiefs vor.
+Letzte Aktualisierung 20.05.2022 11:30 Uhr
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Celle: Sperrung aufgehoben!</title>
 			<link>https://www.der-metronom.de/aktuell/bahnhof-celle-gegenwaertig-gesperrt/</link>
 			<content:encoded><![CDATA[<html>
 	<head>
@@ -17,7 +37,7 @@
 		</time>
 		<div class="news-text-outer">
 			<p>
-				Aufgrund eines gefährlichen Ereignisses ist der Bahnhof Celle bis auf Weiteres gesperrt. Der metronom wendet von Uelzen kommend in Eschede zurück nach Uelzen. Zwischen Eschede und Langenhagen wird ein Busnotverkehr jeweils ab 11:15 Uhr und 11:30 Uhr eingerichtet. Ab Langenhagen...
+				Die Sperrung des Bahnhofs Celle ist aufgehoben. Es kann noch zu Folgeverspätungen kommen. Bitte erkundigt euch in den elektronischen Fahrplanauskünften auf dieser Website oder in der metronom App über eure Verbindung. Sobald wir ergänzende Informationen haben, werden wir euch auch...
 			</p>
 		</div>
 	</body>
