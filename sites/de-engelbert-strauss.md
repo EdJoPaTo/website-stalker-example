@@ -194,6 +194,16 @@ ergänzen
 
 [Schrauber L Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Schlagbohrschrauber_L/)
 
+###  Metallica
+ Works  ###
+
+---
+
+[Hit the Stage](https://www.engelbert-strauss.de/metallica-works?ItemOrigin=startseite_fs22)
+
+ Credit: Jeff Yeager
+---
+
  Newsletter abonnieren
 
  und exklusive Aktionen, Gutscheine & Schnäppchen sichern
