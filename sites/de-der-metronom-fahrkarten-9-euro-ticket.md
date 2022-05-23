@@ -27,11 +27,9 @@ Das 9-Euro-Ticket gilt bundesweit im Öffentlichen Personennahverkehr (U-Bahnen,
 
 #### [Ab wann und wo ist das 9-Euro-Ticket erhältlich?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-5)  ####
 
-Neukundinnen und Neukunden kaufen das 9-Euro-Ticket am besten online über unsere Website.
+Ab sofort kannst du dein 9-Euro-Ticket ganz einfach digital kaufen. Für den Juni, den Juli und den August – oder alle drei Monatstickets gemeinsam! Das geht über die bekannten Apps, Online-Ticketshops, Kundencenter und Automaten der Verkehrsunternehmen und Verbünde bei dir vor Ort. In Kürze geht dies auch über die deutschlandweite App „9-Euro-Ticket“: Sie steht dir ab dem 30. Mai auf der Website gemeinsam#besserweiter unter [www.ticket.besserweiter.de](https://ticket.besserweiter.de/) und in den App-Stores zur Verfügung.
 
-Dort findest du rechtzeitig zum Verkaufsstart einen Link zum Webshop unseres Schwesterunternehmens der Länderbahn GmbH DLB. Nach einmaliger Registrierung kannst Du das Ticket direkt bequem zuhause ausdrucken und losfahren. Auch bei den Verkehrsverbünden wird das Ticket erhältlich sein (Online/App).
-
-Und natürlich kannst Du das 9-Euro-Ticket ab Verkaufsstart in unseren Kundenzentren in Uelzen und Gifhorn, bei den Servicestellen in den Bahnhöfen und an all unseren Automaten erwerben.
+Und natürlich kannst Du das 9-Euro-Ticket ab Verkaufsstart in unseren metronom Kundenzentren in Uelzen und bei enno in Gifhorn, bei den Servicestellen in den Bahnhöfen und an all unseren Automaten erwerben. Oder bequem von überall aus über den Fahrplaner in unserer App oder im Web unter [www.fahrplaner.info](https://fahrplaner.info/landing).
 
 #### [Ist das 9-Euro-Ticket personengebunden?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-6)  ####
 
