@@ -307,9 +307,8 @@ Bundle up to six Apple services. And enjoy more for less.
 Get 3 months of Apple TV+ free
 when you buy an iPhone.
 
-[Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-iphone_fp-pmo_try-atv-220405)
-
-[Learn moreabout Apple TV Plus](https://www.apple.com/apple-tv-plus/)
+* [Try it free](https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-iphone_fp-pmo_try-atv-220405)
+* [Learn moreabout Apple TV Plus](https://www.apple.com/apple-tv-plus/)
 
 Apple Music
 ----------
