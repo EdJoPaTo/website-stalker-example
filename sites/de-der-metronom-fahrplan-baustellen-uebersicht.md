@@ -28,11 +28,11 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[21.05.2022 - 23.05.2022 RE2/RE3 nächtliche Oberleitungsarbeiten](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-oberleitungsarbeiten/)
+Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 RE2 Hannover - Northeim - Göttingen
 
-[21.05.2022 - 23.05.2022 RE2/RE3 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtlicher-ersatzverkehr-mit-bussen/)
+Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 Dein persönlicher Baustellen-Newsletter
 ----------
