@@ -447,20 +447,6 @@ Apple Sitemap
   * [App Store Support](https://support.apple.com/de-de/apps)
   * [Books Support](https://support.apple.com/de-de/books)
 
- iPod touch
-----------
-
-* ###  Einkaufen und mehr  ###
-
-  * [Überblick](https://www.apple.com/de/ipod-touch/)
-  * [Technische Daten](https://www.apple.com/de/ipod-touch/specs/)
-
-* ###  Support  ###
-
-  * [AppleCare+](https://www.apple.com/de/support/products/ipod/)
-  * [iPod touch Support](https://support.apple.com/de-de/ipod/ipod-touch)
-  * [iPod Handbücher](https://support.apple.com/de_DE/manuals/ipod)
-
  Zubehör
 ----------
 
