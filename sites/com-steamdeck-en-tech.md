@@ -55,11 +55,12 @@ RAM
 Storage
 
 64 GB eMMC (PCIe Gen 2 x1)
-256 GB NVMe SSD (PCIe Gen 3 x4)
-512 GB high-speed NVMe SSD (PCIe Gen 3 x4)
+256 GB NVMe SSD (PCIe Gen 3 x4 or PCIe Gen 3 x2\*)
+512 GB high-speed NVMe SSD (PCIe Gen 3 x4 or PCIe Gen 3 x2\*)
 
 *All models use socketed 2230 m.2 modules (not intended for end-user replacement)*
 *All models include high-speed microSD card slot*
+*\*Some 256GB and 512GB models ship with a PCIe Gen 3 x2 SSD. In our testing, we did not see any impact to gaming performance between x2 and x4.*
 
 #### Controls and Input ####
 
