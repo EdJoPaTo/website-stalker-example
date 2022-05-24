@@ -51,11 +51,13 @@ All models have a glass screen (optically bonded IPS LCD). The 512 GB model's sc
 
 The Steam Deck has dual LRA motors, one under each trackpad.
 
+###### Can I purchase replacement parts for Steam Deck? ######
+
+Yep! We've collaborated with the folks at iFixit, and replacement parts and repair guides for Steam Deck can be found [on their website](https://www.ifixit.com/Device/Steam_Deck#).
+
 ###### How easy is it for end-users to replace the thumbsticks / SSD? ######
 
-This is one of the most frequently asked questions we received, but the answer is a bit complicated so in this case we're answering with a video. (Spoiler alert: we don't recommend replacing parts yourself, but we still want you to have all of the relevant information about Steam Deck's components.)
-
-[![Embedded YouTube video](https://img.youtube.com/vi/Dxnr2FAADAs/0.jpg)](https://www.youtube.com/watch?v=Dxnr2FAADAs)
+This is one of the most frequently asked questions we received, but the answer is a bit complicated so in this case we're answering with a video. [Check it out here](https://www.youtube.com/watch?v=Dxnr2FAADAs).
 
 ###### Does the audio jack support audio + mic? ######
 
