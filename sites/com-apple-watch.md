@@ -1,7 +1,30 @@
 Get extra credit now through May 31. Save $70–$190 when you trade in an eligible Apple Watch toward a new one.Get extra credit now through May 31. Save $70 to $190 when you trade in an eligible Apple Watch toward a new one.<sup class="ac-ribbon__trade-in-event-2022-footnote"><a aria-label="Footnote ◊ symbol" href="https://www.apple.com/watch/#footnote-extra-trade-in-credit">◊</a></sup>
 
-Apple Watch
+Threads of
+
 ==========
+
+Celebrate all year long with new
+ Pride Edition watch bands and faces.
+
+* ### New ###
+
+  #### Pride Edition Sport Loop ####
+
+  [Buy](https://www.apple.com/us/shop/goto/product/MN6L3)
+
+* ### New ###
+
+  #### Pride Edition Nike Sport Loop ####
+
+  [Buy](https://www.apple.com/us/shop/goto/product/MN6N3)
+
+* ### Open this page on your iPhone
+   to download the watch face. ###
+
+  [Add Apple Watch face](https://www.apple.com/v/watch/av/downloads/PrideThreads.watchface)
+
+  Requires Apple Watch Series 4 or later with watchOS 8.6, and iPhone 6s or later with iOS 15.5.
 
 Apple Watch Series 7
 ----------

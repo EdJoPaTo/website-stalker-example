@@ -6,6 +6,28 @@
 		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Wir suchen Verstärkung für unser OpenTalk-Team</title>
+			<link>https://opentalk.eu/de/news/wir-suchen-verstaerkung-fuer-unser-opentalk-team</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				24.05.2022
+			</time>
+		</div>
+		<div>
+			<div>
+				<p>
+					Dich begeistern Open Source und freie, sichere Kommunikation? Und Du hast Lust, in einem tollen Team gemeinsam etwas Neues aufzubauen? Dann bist Du bei uns herzliche willkommen und genau richtig.
+				</p>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>OpenTalk auf dem Digitalen Staat vom 3.-4. Mai 2022</title>
 			<link>https://opentalk.eu/de/news/opentalk-auf-dem-digitalen-staat-vom-3-5-mai-2022</link>
 			<content:encoded><![CDATA[<html>
@@ -65,28 +87,6 @@
 			<div>
 				<p>
 					Unter dem Motto "Voll verteilt" treffen sich vom 12.-13. März 2022 wieder Linux-Profis und solche die es werden wollen, auf den virtuellen Chemnitzer Linux-Tagen. OpenTalk ist als Sponsor und Aussteller mit dabei und wird auch zwei Vorträge zu OpenTalk und der Technik hinter Videokonferenzlösungen halten.
-				</p>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>OpenTalk vom 6.-8.10.21 auf dem KGSt-Forum in Bonn</title>
-			<link>https://opentalk.eu/de/news/opentalk-auf-dem-kgst-forum-bonn</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="pleaser__date">
-			<time>
-				01.10.2021
-			</time>
-		</div>
-		<div>
-			<div>
-				<p>
-					Wir präsentieren vom 6. bis 8. Oktober 2021 auf dem Verwaltungskongress KGSt-Forum in Bonn erstmals die innovative Videokonferenzlösung OpenTalk. Das neue Produkt bietet sichere Videokonferenzen für alle Nutzer, die Wert auf Skalierbarkeit, digitale Souveränität und Datenschutz legen.
 				</p>
 			</div>
 		</div>
