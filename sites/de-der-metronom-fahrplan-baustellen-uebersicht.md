@@ -36,9 +36,11 @@ RE2 Uelzen - Celle - Hannover
 
 [06.06.2022 RE2 nächtliche Verspätungen zwischen Uelzen und Hannover Hbf](https://www.der-metronom.de/baustellen/re2-naechtliche-verspaetungen-zwischen-uelzen-und-hannover-hbf/)
 
+[11.06.2022 - 19.06.2022 RE2 keine direkten Wochenendverbindungen von und nach Uelzen](https://www.der-metronom.de/baustellen/re2-keine-direkten-wochenendverbindungen-von-und-nach-uelzen/)
+
 RE2 Hannover - Northeim - Göttingen
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[11.06.2022 - 19.06.2022 RE2 keine direkten Wochenendverbindungen von und nach Uelzen](https://www.der-metronom.de/baustellen/re2-keine-direkten-wochenendverbindungen-von-und-nach-uelzen-2/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
