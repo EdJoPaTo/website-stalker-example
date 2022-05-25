@@ -23,7 +23,9 @@ Weitere Ermäßigungen können aufgrund des subventionierten Kaufpreises nicht g
 
 #### [Wo gilt das 9-Euro-Ticket?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-4)  ####
 
-Das 9-Euro-Ticket gilt bundesweit im Öffentlichen Personennahverkehr (U-Bahnen, S-Bahnen, Straßenbahnen, Linienbusse und z. T. Fähren) und in Regionalzügen. Es gilt nicht im Fernverkehr (beispielsweise ICE, IC, EC) oder bei anderen Fernbahn/Fernbusbetreibern (z. B. FlixTrain/FlixBus). Es ist ein personengebundener Fahrschein der 2. Klasse. Für Bestandsabos ändert sich außer dem Preis an den Konditionen im vertraglich abgeschlossenen Tarif- und Bediengebiet nichts.
+Das 9-Euro-Ticket gilt bundesweit im Öffentlichen Personennahverkehr (U-Bahnen, S-Bahnen, Straßenbahnen, Linienbusse und z. T. Fähren) und in Regionalzügen. Also auch im metronom und im enno.
+
+Es gilt nicht im Fernverkehr (beispielsweise ICE, IC, EC) oder bei anderen Fernbahn/Fernbusbetreibern (z. B. FlixTrain/FlixBus). Es ist ein personengebundener Fahrschein der 2. Klasse. Für Bestandsabos ändert sich außer dem Preis an den Konditionen im vertraglich abgeschlossenen Tarif- und Bediengebiet nichts.
 
 #### [Ab wann und wo ist das 9-Euro-Ticket erhältlich?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-5)  ####
 
