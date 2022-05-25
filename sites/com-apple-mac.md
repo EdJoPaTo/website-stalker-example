@@ -1,8 +1,6 @@
 Mac
 ==========
 
-Get extra credit now through May 31. Save $25–$2010 when you trade in an eligible Mac toward a new one.Get extra credit now through May 31. Save $25 to $2010 when you trade in an eligible Mac toward a new one.<sup class="ac-ribbon__trade-in-event-2022-footnote"><a aria-label="Footnote ◊ symbol" href="https://www.apple.com/mac/#footnote-extra-trade-in-credit">◊</a></sup>
-
 New Mac Studio
 ----------
 

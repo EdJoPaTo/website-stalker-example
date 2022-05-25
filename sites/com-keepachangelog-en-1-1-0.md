@@ -1,5 +1,3 @@
-1.0.0 Čeština  1.0.0 Deutsch  1.0.0 English  1.0.0 Español  1.0.0 Français  1.0.0 Hrvatski  1.0.0 Indonesia  1.0.0 Italiano  1.0.0 日本語  1.0.0 Nederlands  1.0.0 polski  1.0.0 Português do Brasil  1.0.0 Pyccкий  1.0.0 Slovenčina  0.3.0 Slovenščina  1.0.0 Srpski  1.0.0 Svenska  1.0.0 Türkçe  1.0.0 Українська  1.0.0 简体中文  1.0.0 正體中文  1.0.0 한국어  1.0.0 فارسی
-
 Keep a Changelog
 ==========
 

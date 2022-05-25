@@ -317,8 +317,6 @@ Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 EUR Warenwert.
 
  Schnäppchen
 
-.a{fill:#fff;}
-
 Ich bin einverstanden, dass die Engelbert Strauss GmbH & Co. KG mir regelmäßig Informationen zu ihrem Produktsortiment per E-Mail sendet. Dies beinhaltet Informationen zu Schuhen, Bekleidung, Arbeitsschutz, Betriebsbedarf und Büroartikeln sowie branchenspezifischen Veranstaltungen. Meine Einwilligung kann ich jederzeit gegenüber der Engelbert Strauss GmbH & Co. KG widerrufen. Weitere Informationen siehe [Datenschutzerklärung](https://www.engelbert-strauss.de/Rechtliches/Datenschutz).
 
 Jetzt anmelden
