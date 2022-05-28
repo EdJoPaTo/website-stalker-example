@@ -26,8 +26,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[28.05.2022 RB31 in der Nacht kein Halt in Bardowick und Radbruch für den 81642](https://www.der-metronom.de/baustellen/rb31-in-der-nacht-kein-halt-in-bardowick-und-radbruch-fuer-den-81642/)
-
 [05.06.2022 - 10.06.2022 RE3/RB31 nächtliche Verspätungen und Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-verspaetungen-und-haltausfall-in-ashausen/)
 
 [11.06.2022 - 15.07.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
