@@ -744,6 +744,7 @@
 * [Shadowland Teil I](https://www.wdrmaus.de/filme/sachgeschichten/shadowland_teil1.php5)
 * [Shadowland Teil II](https://www.wdrmaus.de/filme/sachgeschichten/shadowland_teil2.php5)
 * [Sicherheitsschloss](https://www.wdrmaus.de/filme/sachgeschichten/sicherheitsschloss.php5)
+* [Sitzschale für Kinderrollstuhl](https://www.wdrmaus.de/filme/sachgeschichten/sitzschale_fuer_kinderrollstuhl.php5)
 * [Skilift](https://www.wdrmaus.de/filme/sachgeschichten/skilift.php5)
 * [Sky Sail](https://www.wdrmaus.de/filme/sachgeschichten/skysail.php5)
 * [Smarthome](https://www.wdrmaus.de/filme/sachgeschichten/smarthome.php5)
