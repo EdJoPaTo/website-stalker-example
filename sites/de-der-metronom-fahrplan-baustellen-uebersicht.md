@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[12.12.2021 - 31.05.2022 RB41 nächtliche Bauarbeiten Hamburger Hauptbahnhof](https://www.der-metronom.de/baustellen/rb41-naechtliche-bauarbeiten-hamburger-hauptbahnhof/)
-
 [16.05.2022 - 10.06.2022 RE4/RB41 Brückenbauarbeiten im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten-im-bereich-hamburg-harburg-3/)
 
 [03.06.2022 - 07.06.2022 RB41 Fahrzeitenänderungen ab Buchholz (N.) in Fahrtrichtung Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-fahrzeitenaenderungen-ab-buchholz-n-in-fahrtrichtung-hamburg-hbf/)
