@@ -1,12 +1,23 @@
-Apple Event
+[](https://www.apple.com/105/media/us/apple-events/2022/a58ceb3c-1695-4b46-8b70-a8e67e5450ba/quick-look/apple_event_en_1.usdz#callToAction=Add%20to%20calendar&checkoutTitle=WWDC22&checkoutSubtitle=June%206-10%20at%2010%3A00%20a.m.%20PT.&canonicalWebPageURL=https%3A%2F%2Fapple.com%2Fapple-events%2F&price=)
+
+Apple Worldwide Developers Conference 2022
 ==========
+
+Watch June 6 at 10:00 a.m. PT.
+View online at apple.com or on the Apple TV app.
+
+[Add to your calendar](https://events.apple.com/services/public/params/ical?summary=WWDC22+Apple+Keynote&location=https://www.apple.com/apple-events/event-stream/&storeUrl=https://www.apple.com/apple-events/event-stream/&timeZone=America/Los_Angeles&startDate=06/06/202210:00:00&endDate=06/06/202212:00:00&descriptionHeader=Join+us+for+the+WWDC22+Apple+Keynote+broadcasting+from+Apple+Park.+Watch+it+online+at+apple.com)
+
+Copied to clipboard
+
+View recent Apple events
+----------
+
+### Apple Event March 8, 2022 ###
 
 Introducing the all-new Mac Studio and Studio Display, new iPad Air, new iPhone SE, and iPhone 13 and iPhone 13 Pro in two new shades of green.
 
 [Learn more](https://www.apple.com/apple-events/march-2022/)
-
-View recent Apple events
-----------
 
 ### Apple Event October 18, 2021 ###
 
@@ -14,11 +25,11 @@ Introducing the new MacBook Pro with M1 Pro or M1 Max, all-new AirPods, and H
 
 [Learn more](https://www.apple.com/apple-events/october-2021/)
 
+[](https://p-events-delivery.akamaized.net/1608dybnfpdpxtjascmtuvqexvyggavm/m3u8/vod_index-sMoFLPWqoKYiqpMDonkKjMGsbqGnKWso.m3u8)
+
 ### Apple Event September 14, 2021 ###
 
 Introducing iPhone 13 Pro, iPhone 13, Apple Watch Series 7, and the new iPad mini and iPad.
-
-[Learn more](https://www.apple.com/apple-events/september-2021/)
 
 [](https://p-events-delivery.akamaized.net/1805asrvgvurxcrkewleraugwqathmvg/m3u8/vod_index-YVvsDudyWzBdgmtcMPabYTdjaWWmbLaA.m3u8)
 
@@ -37,12 +48,6 @@ Introducing the new iMac, iPad Pro, iPhone 12 in purple, AirTag, and Apple TV
 ### Apple Event November 10, 2020 ###
 
 Introducing the new MacBook Air, 13‑inch MacBook Pro, and Mac mini, all with the Apple M1 chip.
-
-[](https://p-events-delivery.akamaized.net/2109isftrwvmiekgrjkbbhxhfbkxjkoj/m3u8/vod_index.m3u8)
-
-### Apple Event October 13, 2020 ###
-
-Introducing iPhone 12 and iPhone 12 Pro with 5G, MagSafe accessories, and HomePod mini.
 
 [View all Apple events](https://podcasts.apple.com/us/channel/apple-events/id6442627105?hasPaidContent=false)
 ----------
