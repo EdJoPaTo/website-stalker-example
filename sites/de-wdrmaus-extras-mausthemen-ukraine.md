@@ -1,6 +1,6 @@
 Blendet die Maus aus.
 
- Seit Wochen ist Krieg in der Ukraine. Hier findest du nach und nach Antworten auf Fragen, die Kinder an die Maus gestellt haben. Alle Informationen, die wir euch in unseren Antworten weitergeben, haben wir sehr genau geprüft. Viele Fragen zu dem, was gerade in der Ukraine geschieht und was in Zukunft passieren wird, lassen sich momentan jedoch nicht endgültig beantworten.
+ Seit Monaten ist Krieg in der Ukraine. Hier findest du nach und nach Antworten auf Fragen, die Kinder an die Maus gestellt haben. Alle Informationen, die wir euch in unseren Antworten weitergeben, haben wir sehr genau geprüft. Viele Fragen zu dem, was gerade in der Ukraine geschieht und was in Zukunft passieren wird, lassen sich momentan jedoch nicht endgültig beantworten.
 
 * [Johannes trifft Melanie, die sich um Kinder in der Ukraine und in Deutschland kümmert.](https://www.wdrmaus.de/extras/mausthemen/ukraine/filme/mausblick_4.php5)
 * [Julian kennt sich gut mit Gefühlen aus. Hier gibt er Tipps, was du tun kannst, wenn du dich gerade hilflos fühlst.](https://www.wdrmaus.de/extras/mausthemen/ukraine/filme/mausblick_6.php5)
@@ -28,7 +28,7 @@ Die größte Stadt ist die Hauptstadt Kiew. Sie liegt nur 1200 Kilometer von der
 
 Es gibt noch andere große Städte, aber auch weite ländliche Gebiete mit nur wenigen kleinen Dörfern sowie Wälder und Berge.
 
-Die Flagge der Ukraine ist blau und gelb. Das Gelb steht für die reifen Kornfelder des Landes und das Blau für den Himmel.
+Die Flagge der Ukraine ist blau und gelb. Das Gelb steht für die reifen Getreidefelder des Landes und das Blau für den Himmel.
 
 Die Ukraine ist nach Russland das flächenmäßig zweitgrößte Land Europas. Hier leben 44 Millionen Menschen, ungefähr halb so viel wie in Deutschland. Das Land grenzt an Russland, Belarus, Polen, Moldawien, Rumänien, Ungarn und die Slowakei. An einer Seite grenzt die Ukraine an das Asowsche Meer und das Schwarze Meer, wo auch die Halbinsel Krim liegt. Sie gehört eigentlich zur Ukraine, wird aber seit 2014 von Russland besetzt. Die Landessprache ist Ukrainisch, im Osten des Landes wird auch Russisch gesprochen.
 
@@ -36,14 +36,14 @@ Die Ukraine ist nach Russland das flächenmäßig zweitgrößte Land Europas. Hi
 
  Es gibt noch andere große Städte, aber auch weite ländliche Gebiete mit nur wenigen kleinen Dörfern sowie Wälder und Berge.
 
- Die Flagge der Ukraine ist blau und gelb. Das Gelb steht für die reifen Kornfelder des Landes und das Blau für den Himmel.
+ Die Flagge der Ukraine ist blau und gelb. Das Gelb steht für die reifen Getreidefelder des Landes und das Blau für den Himmel.
 
 Was bedeutet das für die Menschen in der Ukraine?
 ----------
 
  Alle Menschen in der Ukraine haben große Angst. In den Städten bringen sich die Bewohner in Bunkern, U-Bahn-Tunneln und Kellern vor den Angriffen in Sicherheit. Nur noch Frauen, Kinder und alte Menschen können zur Zeit das Land verlassen. Die Männer zwischen 18 und 60 Jahren müssen in der Ukraine bleiben, um zu kämpfen. Es gibt auch Ukrainer, die in anderen Ländern leben und nun in die Ukraine zurückkehren, um bei der Verteidigung ihres Landes zu helfen.
 
- Viele versuchen in kleinen Dörfern auf dem Land Unterschlupf zu finden. Bereits nach einer Woche sind über 1 Million Ukrainer und Ukrainerinnen vor den Kämpfen aus ihrem Heimatland geflohen. Viele Ukrainer arbeiten in Ungarn, der Slowakei, Rumänien, Moldawien oder Polen und haben dort Freunde und Verwandte. Deshalb fliehen die meisten in diese Länder und werden bereits an den Grenzen in Empfang genommen, mit Lebensmitteln und Medikamenten versorgt und in Unterkünfte gebracht. Deutschland und auch die anderen Länder der Europäischen Union wollen die direkten Nachbarländer der Ukraine bei der Versorgung der Geflüchteten unterstützen. Auch in Deutschland kommen immer mehr Menschen aus der Ukraine an.
+ Viele versuchen in kleinen Dörfern auf dem Land Unterschlupf zu finden. Inzwischen sind über 6 Millionen Ukrainer und Ukrainerinnen vor den Kämpfen aus ihrem Heimatland geflohen. Viele Ukrainer arbeiten in Ungarn, der Slowakei, Rumänien, Moldawien oder Polen und haben dort Freunde und Verwandte. Deshalb fliehen die meisten in diese Länder und werden bereits an den Grenzen in Empfang genommen, mit Lebensmitteln und Medikamenten versorgt und in Unterkünfte gebracht. Deutschland und auch die anderen Länder der Europäischen Union wollen die direkten Nachbarländer der Ukraine bei der Versorgung der Geflüchteten unterstützen. Auch in Deutschland kommen viele Menschen aus der Ukraine an.
 
 Wie reagieren die anderen Länder?
 ----------
