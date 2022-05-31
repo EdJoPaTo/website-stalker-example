@@ -7,6 +7,16 @@ metronom ist eines der größten privaten Eisenbahnunternehmen in Deutschland. U
 
 **Wir haben für euch die wichtigsten Fragen zum 9-Euro-Ticket zusammengestellt und in aller Kürze beantwortet!**
 
+### Darf ich mit dem 9-Euro-Ticket auch den metronom nutzen? Ja! Ihr dürft alle metronom Züge mit dem 9-Euro-Ticket nutzen. Rund um die Uhr, auf jeder Linie. ###
+
+Trotzdem für euch ein paar wichtige Hinweise:
+
+* Stellt euch auf volle Züge ein und rechnet damit, dass ihr vor allem in Stoßzeiten nicht unbedingt einen Sitzplatz bekommen werdet.
+* Das gilt ganz besonders für die Zeit von 11.6. bis 15.7., also in der Zeit der [Baustelle von DB Netz zwischen Hamburg und Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/). Bitte meidet in diesem Zeitraum Fahrten auf dieser Strecke, wenn es nicht unbedingt nötig ist und lasst die begrenzten Plätze den Berufspendler\*innen.
+* Mobilitätseingeschränkte Reisende mit Rollatoren oder Rollstühlen sowie Kinderwagen haben Vorrang vor Fahrrädern. Eine Mitnahme von [Fahrrädern kann nicht garantiert werden](https://www.der-metronom.de/fahrkarten/mit-fahrrad-reisen/).
+* Wie immer gilt: erst Aussteigen, dann Einsteigen.
+* Weitere Informationen zum metronom erhaltet ihr bei unseren [Fragen und Antworten](https://www.der-metronom.de/service/fragen-und-antworten/).
+
 #### [Was ist der Hintergrund der 9-Euro-Ticket-Aktion?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-1)  ####
 
 Das 9-Euro-Ticket ist eine einmalig und zeitlich limitierte Sondermaßnahme der Bundesregierung. Es ist Teil des Entlastungspaketes der Bundesregierung und eine Reaktion auf die stark gestiegenen Kraftstoff- und Energiepreise. Bürgerinnen und Bürger werden mit diesem Paket auf vielfältige Weise finanziell entlastet: Bei den Strom- und Energiekosten, bei den Kraftstoffkosten an der Tankstelle – und eben auch im Rahmen der Nutzung des Öffentlichen Personennahverkehrs (ÖPNV) in Deutschland.
