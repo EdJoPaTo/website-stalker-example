@@ -180,13 +180,13 @@ sites:
       - "https://www.apple.com/airpods/compare/"
     editors:
       - css_select: "#backport-data"
-      - css_remove: noscript, img, picture, .footnote
+      - css_remove: noscript, img, picture, .footnote, .ribbon, *[data-analytics-activitymap-region-id~=ribbon]
       - html_url_canonicalize
       - html_prettify
   - url: "https://www.apple.com/watch/compare/"
     editors:
       - css_select: main
-      - css_remove: noscript, img, picture, .footnote
+      - css_remove: noscript, img, picture, .footnote, .ribbon, *[data-analytics-activitymap-region-id~=ribbon]
       - html_url_canonicalize
       - html_prettify
   - url: "https://beta.apple.com/sp/betaprogram"
