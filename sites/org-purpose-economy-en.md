@@ -159,8 +159,6 @@ Companies we've supported
 
 [](https://www.arche-naturkueche.de/)
 
-[](https://creativeaction.network)
-
 [](https://www.ecosia.org)
 
 [](https://www.waschbaer.de)
@@ -168,8 +166,6 @@ Companies we've supported
 [](https://www.sharetribe.com)
 
 [](https://www.organicgrown.com)
-
-[](https://www.zielwear.com)
 
 [](https://www.ableton.com)
 
@@ -180,6 +176,8 @@ Companies we've supported
 [](https://www.bkconnection.com)
 
 [](https://einhorn.my)
+
+[](https://www.soulbottles.de/en)
 
 >
 >
