@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>25 years of Hetzner - join the fun &amp; win one of 25 prizes!</title>
+			<link>https://www.hetzner.com/news/06-22-sweepstakes/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					01. June 2022
+				</small>
+			</p>
+			<h4>
+				25 years of Hetzner - join the fun & win one of 25 prizes!
+			</h4>
+			<p class="list-card-preview">
+				We're celebrating 25 years of being your home for the Internet. We've got 25 reasons to say "Thank you" to our loyal customers, and are giving you the chance to...
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/06-22-sweepstakes/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Focused on a low price and strong performance: the new Hetzner Dedicated Root Server EX43</title>
 			<link>https://www.hetzner.com/news/03-22-ex43/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Get ready for Apple Mac mini M1 (2020) with 16GB RAM, 256GB SSD and optional 2x 1TB NVMe SSD.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/10-21-apple-mac-mini-m1/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Need a price hero? The September setup special will save your wallet!</title>
-			<link>https://www.hetzner.com/news/09-21-setup-special/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					01. September 2021
-				</small>
-			</p>
-			<h4>
-				Need a price hero? The September setup special will save your wallet!
-			</h4>
-			<p class="list-card-preview">
-				You all have waited with heroic patience for the next free setup sale, and the time has finally come! We've removed the setup fees on three of our most popular...
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/09-21-setup-special/">
 				Show more
 			</a>
 		</li>
