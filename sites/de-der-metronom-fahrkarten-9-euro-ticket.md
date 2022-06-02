@@ -57,11 +57,15 @@ Das 9-Euro-Ticket gilt immer nur für die Person, für die es ausgestellt wurde.
 
 Für Fahrgäste mit bereits bestehendem Abo ändert sich somit in ihrem vertraglich abgeschlossenen Tarif- bzw. Bediengebiet nichts.
 
-#### [Muss gekündigt werden oder endet das 9-Euro-Ticket automatisch?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-9)  ####
+#### [Verlieren Abonnentinnen und Abonnenten durch das 9-Euro-Ticket – etwa Mitnahmeregelungen, 1.Klasse-Berechtigung oder Weiteres?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-9)  ####
+
+Für Abonnent:innen ändert sich im vertraglich abgeschlossenen Tarif- bzw. Bediengebiet nichts. Außerhalb dieses Gebietes gilt das 9-Euro-Ticket als **persönlicher Fahrschein der 2. Klasse** ohne erweiterte Regelungen.
+
+#### [Muss gekündigt werden oder endet das 9-Euro-Ticket automatisch?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-10)  ####
 
 Das 9-Euro-Ticket ist wie eine Monatskarte zeitlich begrenzt und endet automatisch zum jeweiligen Monatsende.
 
-#### [Werden die Verkehrsunternehmen dauerhaft ihre Preise senken?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-10)  ####
+#### [Werden die Verkehrsunternehmen dauerhaft ihre Preise senken?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-11)  ####
 
 Nein, denn:
 
@@ -69,19 +73,19 @@ Nein, denn:
 * Die Preisgestaltung liegt in der Regel bei den ÖPNV-Aufgabenträgern (Länder und Kommunen).
 * Die Verkehrsunternehmen können die Preise nicht dauerhaft senken, da sonst - nach gegenwärtigem Finanzierungsmodell - das Verkehrsangebot mit Bus und Bahn nicht aufrechterhalten werden kann. Takte müssten ausgedünnt, Linien müssten gestrichen werden. Zudem würden auch wichtige Mittel fehlen, um den ÖPNV in Deutschland weiter auszubauen – der entscheidende Schlüssel, um die Klimaschutzziele bis 2030 zu erreichen und die Abhängigkeit von Energieimporten zu mindern.
 
-#### [Was passiert nach dem 31. August 2022?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-11)  ####
+#### [Was passiert nach dem 31. August 2022?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-12)  ####
 
 Das 9-Euro-Ticket ist eine einmalige Sondermaßnahme, die vom Bund im Entlastungspaket beschlossen und durch ihn finanziert wurde. Für Abonnentinnen und Abonnenten gelten ab dem 1. September wieder die gewohnten Preise.
 
-#### [Umtausch und Erstattung](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-12)  ####
+#### [Umtausch und Erstattung](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-13)  ####
 
 Umtausch und Erstattung des „9-Euro-Tickets“ sind ausgeschlossen.
 
-#### [Fahrgastrechte im Eisenbahnverkehr](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-13)  ####
+#### [Fahrgastrechte im Eisenbahnverkehr](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-14)  ####
 
 Es gelten die gesetzlichen Fahrgastrechte im Eisenbahnverkehr. Für Verspätungsentschädigungen gem. Art. 17 der Verordnung (EG) Nr. 1371/2007 gelten die Entschädigungsbedingungen für Zeitkarten der Eisenbahnverkehrsunternehmen gem. der Tarifbestimmungen des Deutschlandtarifs Teil C Nr. 8.1. Eine Auszahlung von Verspätungsentschädigungen erfolgt demnach nicht, da der maximal auszahlbare Entschädigungsbetrag die „Bagatellgrenze“ unterschreitet.
 
-#### [Was gibt es zu beachten?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-14)  ####
+#### [Was gibt es zu beachten?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-15)  ####
 
 Der Aktionszeitraum des 9-Euro-Tickets fällt in die Sommerferien, die zur Entlastung der Pendler:innen regelmäßig verschiedene Baumaßnahmen im Streckennetz umfassen. Diese Baumaßnahmen sind langfristig von den Infrastrukturunternehmen geplant und können nicht kurzfristig adaptiert werden. Wir bitten deshalb alle Teilnehmer/-innen an der Aktion „9-Euro-Ticket“, sich im Vorhinein über Reiserouten zu informieren und flexibel zu sein. Geplante Baumaßnahmen werden vorab in unseren Informationsmedien hinterlegt.
 

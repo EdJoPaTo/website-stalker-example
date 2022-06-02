@@ -137,6 +137,8 @@ Replacing the background![Background blur for webcam](https://docs.bigbluebutton
 
 Blurring the background![Background blur for webcam](https://docs.bigbluebutton.org/images/24-background-blur-3.png)
 
+\###
+
 Engagement
 ----------
 
@@ -351,3 +353,32 @@ The best ways to contribute at the current time are:
 * Help localize BigBlueButton 2.4 on [Transifex project for BBB 2.4](https://www.transifex.com/bigbluebutton/bigbluebutton-v24-html5-client/dashboard/)
 * Try out installing BigBlueButton 2.4 and see if you spot any issues
 * Help test a [2.4 pull request](https://github.com/bigbluebutton/bigbluebutton/pulls?q=is%3Aopen+is%3Apr+milestone%3A%22Release+2.4%22) in your development environment
+
+API
+----------
+
+### Deprecation of password ###
+
+Even though it is still possible to create a meeting with a password, it is now being deprecated, and it is not required anymore. So here are some explanations to better illustrate this update:
+
+* **Create** - It is possible and recommended to not use the passwords while creating the request:
+
+```
+https://bbb.example.com/bigbluebutton/api/create?allowStartStopRecording=true&attendeePW=ap&moderatorPW=mp&... &checksum=
+
+```
+
+or
+
+```
+https://bbb.example.com/bigbluebutton/api/create?allowStartStopRecording=true&... &checksum=
+
+```
+
+* **Join** - These requests don’t need to follow the `/create` endpoint, on the grounds that it has its own parameter to know the role of the user. See the explanation down below:
+
+  * In any cases, if the `role` parameter is sent along, it will be respected, even if `password` is passed too;
+  * If the `role` parameter is not passed in the request, and the password exists (i.e., it has been sent in `/create` endpoint), then the password is mandatory for the `/join` endpoint to identify which role the user has.
+  * If the password does not exist (i.e., it was not defined in `/create` endpoint), then the `role` parameter is mandatory, otherwise it is not possible to enter a meeting.
+
+* **End** - the password is really not used here. But, if it was set (in the `/create` endpoint) and passed along in the `end` endpoint, it will be validated, otherwise, it won’t.

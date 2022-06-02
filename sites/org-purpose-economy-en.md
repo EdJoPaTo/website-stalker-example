@@ -47,7 +47,7 @@ Open Menu
 
 Purpose & the Foundation for Steward-Ownership are hosting a big conference on steward-ownership on **September 5th & 6th, 2022.**
 
-[Click here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnRrYmw4cHJkN25zZnVncDZiNHBrNnRlcHMgaGFsbG9wdXJwb3NlQHB1cnBvc2UuYWc&tmsrc=hallopurpose%40purpose.ag) to save the date in your calendar already or visit the [conference 2022 website](https://www.steward-ownership2022.org/en)for more information.
+[Click here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnRrYmw4cHJkN25zZnVncDZiNHBrNnRlcHMgaGFsbG9wdXJwb3NlQHB1cnBvc2UuYWc&tmsrc=hallopurpose%40purpose.ag) to save the date in your calendar already or visit the [conference 2022 website](https://ve22.org/?lang=en)for more information.
 
 We look forward to seeing you there!
 
