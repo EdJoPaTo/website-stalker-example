@@ -6,6 +6,32 @@
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner in the spotlight for the Readers’ Choice Service Provider Award</title>
+			<link>https://www.hetzner.com/presse-berichte/2022/06/167176</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Gunzenhausen/Frankfurt, Germany – 03. June 2022
+				</small>
+			</p>
+			<h4>
+				Hetzner in the spotlight for the Readers’ Choice Service Provider Award
+			</h4>
+			<p class="list-card-preview">
+				Every year, the 10 online platforms from Vogel IT-Medien call on their readers to participate in a readers’ choice survey to decide who are the best of the best in IT.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2022/06/167176">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Hetzner Online announces cooperation with Ampere</title>
 			<link>https://www.hetzner.com/presse-berichte/2022/03/167137</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Hetzner Online achieved 1st place at the Service Provider Awards in the category Cloud Server.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/09/165426">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Hetzner introduces Load Balancers to its Cloud platform</title>
-			<link>https://www.hetzner.com/presse-berichte/2020/06/165268</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Gunzenhausen, Germany – 22. June 2020
-				</small>
-			</p>
-			<h4>
-				Hetzner introduces Load Balancers to its Cloud platform
-			</h4>
-			<p class="list-card-preview">
-				Today, Hetzner expanded the product set of its Cloud platform to include Load Balancers. Curious customers can join the free beta-test for Load Balancers and experiment with how they improve...
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/06/165268">
 				Show more
 			</a>
 		</li>
