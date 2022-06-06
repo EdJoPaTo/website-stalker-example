@@ -264,9 +264,13 @@ Learn more about the progress of your Apple devices with our product environment
 
 * MacBook Pro 13-inch
 
-  [View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_Nov2020.pdf)
+  [View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBook_Pro_PER_June2022.pdf)
 
-* MacBook Air 13-inch
+* MacBook Air with M2 chip
+
+  [View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/M2_MacBook_Air_PER_June2022.pdf)
+
+* MacBook Air with M1 chip
 
   [View (PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf)
 
@@ -565,6 +569,10 @@ Learn more about the progress of your Apple devices with our product environment
 * Apple Watch
 
   [View (April 2015 PDF)](https://www.apple.com/environment/pdf/products/watch/AppleWatch_PER_april2015.pdf)
+
+* MacBook Pro 13-inch
+
+  [View (November 2020 PDF)](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_Nov2020.pdf)
 
 * MacBook Pro 16-inch
 

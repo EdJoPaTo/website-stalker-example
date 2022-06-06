@@ -7,6 +7,8 @@ A look inward.
 
 watchOS 8 helps you stay connected, active, and healthy like never before. Share your favorite memories with the enhanced Photos app. Put more fun into your texts. Find new ways to center yourself and be present. And that’s just the start.
 
+[See the preview of watchOS 9](https://www.apple.com/watchos/watchos-preview/)
+
 Connected to you, through and through.
 ----------
 

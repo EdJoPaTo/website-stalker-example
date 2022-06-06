@@ -75,7 +75,8 @@ Apple Sitemap
 * ###  Einkaufen und mehr  ###
 
   * [Mac Startseite](https://www.apple.com/de/mac/)
-  * [MacBook Air](https://www.apple.com/de/macbook-air/)
+  * [MacBook Air (M1)](https://www.apple.com/de/macbook-air-m1/)
+  * [MacBook Air (M2)](https://www.apple.com/de/macbook-air-m2/)
   * [13" MacBook Pro](https://www.apple.com/de/macbook-pro-13/)
   * [14" und 16" MacBook Pro](https://www.apple.com/de/macbook-pro-14-and-16/)
   * [24” iMac](https://www.apple.com/de/imac-24/)

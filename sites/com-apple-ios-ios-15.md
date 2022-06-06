@@ -6,6 +6,8 @@ In the moment.
 
 iOS 15 is packed with new features that help you connect with others, be more present and in the moment, explore the world, and use powerful intelligence to do more with iPhone than ever before.
 
+[See the preview of iOS 16](https://www.apple.com/ios/ios-16-preview/)
+
 Face ID
 ----------
 

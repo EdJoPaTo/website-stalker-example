@@ -20,7 +20,7 @@ Celebrate all year long with new
 * ### Open this page on your iPhone
    to download the watch face. ###
 
-  [Add Apple Watch face](https://www.apple.com/v/watch/av/downloads/PrideThreads.watchface)
+  [Add Apple Watch face](https://www.apple.com/v/watch/aw/downloads/PrideThreads.watchface)
 
   Requires Apple Watch Series 4 or later with watchOS 8.6, and iPhone 6s or later with iOS 15.5.
 
@@ -165,6 +165,13 @@ Emergency SOS
 
 [Compare all models](https://www.apple.com/watch/compare/) [Shop Apple Watch](https://www.apple.com/us/shop/goto/buy_watch)
 
+watchOS 9
+----------
+
+Extremely insightful. Exceptionally personal.
+
+[See the preview](https://www.apple.com/watchos/watchos-preview/)
+
 Family Setup
 ----------
 
@@ -264,7 +271,7 @@ watchOS 8
 
 A look inward. A leap forward.
 
-[See what’s new](https://www.apple.com/watchos/watchos-8/)
+[Learn more](https://www.apple.com/watchos/watchos-8/)
 
 ### Apple Watch essentials ###
 

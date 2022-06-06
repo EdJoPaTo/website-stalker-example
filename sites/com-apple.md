@@ -31,7 +31,6 @@
 * [Watch](https://www.apple.com/watch/)
 * [AirPods](https://www.apple.com/airpods/)
 * [TV & Home](https://www.apple.com/tv-home/)
-* [iPod touch](https://www.apple.com/ipod-touch/)
 * [AirTag](https://www.apple.com/airtag/)
 * [Accessories](https://www.apple.com/us/shop/goto/buy_accessories)
 * [Gift Cards](https://www.apple.com/us/shop/goto/giftcards)

@@ -1,32 +1,27 @@
 Mac
 ==========
 
-New Mac Studio
+New MacBook Air
 ----------
 
-Empower station.
+Don’t take it lightly.
 
-[Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_studio)
+[View pricing](https://www.apple.com/us/shop/goto/buy_mac/macbook_air_m2)
 
-[Learn more](https://www.apple.com/mac-studio/)
+[Learn more](https://www.apple.com/macbook-air-m2/)
 
-New Studio Display
+Available next month
+
+New MacBook Pro 13”
 ----------
 
-A sight to be bold.
+Pro anywhere.
 
-[Buy](https://www.apple.com/us/shop/goto/buy_mac/mac_studio_display)
+[View pricing](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_13)
 
-[Learn more](https://www.apple.com/studio-display/)
+[Learn more](https://www.apple.com/macbook-pro-13/)
 
-MacBook Pro
-----------
-
-Supercharged for pros.
-
-[Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_14)
-
-[Learn more](https://www.apple.com/macbook-pro-14-and-16/)
+Available next month
 
 Which Mac is
 right for you?
@@ -35,15 +30,21 @@ right for you?
 * [Notebook](https://www.apple.com/mac/#compare-gallery-notebook)
 * [Desktop](https://www.apple.com/mac/#compare-gallery-desktop)
 
-[](https://www.apple.com/macbook-air/)
+[](https://www.apple.com/macbook-air-m1/)
 
 ### MacBook Air ###
 
-[Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_air)
+M1 chip
 
-[Learn more](https://www.apple.com/macbook-air/)
+[Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_air_m1)
+
+[Learn more](https://www.apple.com/macbook-air-m1/)
 
 [View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_air_m1_chip_silver_ios15.usdz)
+
+#### 13.3” ####
+
+Retina display
 
 Apple M1 chip
 
@@ -51,9 +52,7 @@ Apple M1 chip
 
 CPU
 
-Up to
-
-#### 8-core ####
+#### 7-core ####
 
 GPU
 
@@ -64,13 +63,12 @@ unified memory
 
 Maximum configurable storage
 
-#### 13.3” ####
-
-Retina display
-
 Up to 18 hours battery life
 
 720p FaceTime HD camera
+
+Three‑mic array
+Stereo speakers
 
 #### 2.8 lb. ####
 
@@ -78,40 +76,96 @@ Weight
 
 Touch ID
 
-[](https://www.apple.com/macbook-pro-13/)
+[](https://www.apple.com/macbook-air-m2/)
 
-### MacBook Pro 13” ###
+New
 
-[Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_13)
+### MacBook Air ###
 
-[Learn more](https://www.apple.com/macbook-pro-13/)
+M2 chip
 
-[View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_13in_2port_m1_chip_silver_ios15.usdz)
+[View pricing](https://www.apple.com/us/shop/goto/buy_mac/macbook_air_m2)
 
-Apple M1 chip
+[Learn more](https://www.apple.com/macbook-air-m2/)
+
+[View in AR](https://www.apple.com/105/media/us/mac/2022/d5e35819-ca63-4761-830e-cbe51085137f/ar/macbook_air_m2_chip_silver_ios15.usdz)
+
+#### 13.6” ####
+
+Liquid Retina display
+
+Apple M2 chip
 
 #### 8-core ####
 
 CPU
 
-#### 8-core ####
+Up to
+
+#### 10-core ####
 
 GPU
 
-Up to 16GB
+Up to 24GB
 unified memory
 
 #### 2TB ####
 
 Maximum configurable storage
 
+Up to 18 hours battery life
+
+1080p FaceTime HD camera
+
+Three‑mic array
+Four-speaker sound system with Spatial Audio
+
+#### 2.7 lb. ####
+
+Weight
+
+Touch ID
+
+[](https://www.apple.com/macbook-pro-13/)
+
+New
+
+### MacBook Pro 13” ###
+
+[View pricing](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_13)
+
+[Learn more](https://www.apple.com/macbook-pro-13/)
+
+[View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_13in_2port_m1_chip_silver_ios15.usdz)
+
 #### 13.3” ####
 
 Retina display
 
+Apple M2 chip
+
+#### 8-core ####
+
+CPU
+
+#### 10-core ####
+
+GPU
+
+Up to 24GB
+unified memory
+
+#### 2TB ####
+
+Maximum configurable storage
+
 Up to 20 hours battery life
 
 720p FaceTime HD camera
+
+Studio-quality
+three‑mic array
+Stereo speakers with Spatial Audio
 
 #### 3.0 lb. ####
 
@@ -121,13 +175,18 @@ Touch Bar and Touch ID
 
 [](https://www.apple.com/macbook-pro-14-and-16/)
 
-### MacBook Pro 14” and 16” ###
+### MacBook Pro
+14” and 16” ###
 
 [Buy](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_14)
 
 [Learn more](https://www.apple.com/macbook-pro-14-and-16/)
 
 [View in AR](https://www.apple.com/105/media/us/mac/2021/66c72c48-df88-4e84-b8c5-186de9a05c49/ar/macbook_pro_16_silver.usdz)
+
+#### 14.2” or 16.2” ####
+
+Liquid Retina XDR display
 
 Apple M1 Pro chip or
 Apple M1 Max chip
@@ -151,13 +210,13 @@ unified memory
 
 Maximum configurable storage
 
-#### 14.2” or 16.2” ####
-
-Liquid Retina XDR display
-
 Up to 21 hours battery life
 
 1080p FaceTime HD camera
+
+Studio-quality
+three‑mic array
+Six-speaker sound system with Spatial Audio
 
 #### 3.5 lb. or 4.7 lb. ####
 
@@ -244,8 +303,6 @@ Maximum configurable storage
 —Not available
 
 [](https://www.apple.com/mac-studio/)
-
-New
 
 ### Mac Studio ###
 
@@ -367,15 +424,14 @@ experience. ###
 
 [Learn moreabout your devices working together](https://www.apple.com/macos/continuity/)
 
-macOS Monterey
+macOS Ventura
 ----------
 
-### High powered meets
- “Hi everyone.” ###
+### Works smarter.
+Plays harder.
+Goes further. ###
 
-[Update now](https://apps.apple.com/us/app/macos-monterey/id1576738294)
-
-[Learn more](https://www.apple.com/macos/monterey/)
+[See the preview](https://www.apple.com/macos/macos-ventura-preview/)
 
 Built-in Apps
 ----------

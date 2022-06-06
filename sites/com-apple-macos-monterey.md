@@ -13,6 +13,8 @@ Connect, share, and create like never before. Say hello to exciting new FaceTime
 
 [Upgrade now](https://itunes.apple.com/us/app/macos-monterey/id1576738294)
 
+[See the preview of macOS Ventura](https://www.apple.com/macos/macos-ventura-preview/)
+
 New experiences.
 True connections.
 ----------

@@ -193,6 +193,13 @@ Works with
 * [Compare all iPad models](https://www.apple.com/ipad/compare/)
 * [Shop iPad](https://www.apple.com/us/shop/goto/buy_ipad)
 
+iPadOS 16
+----------
+
+Incredibly capable. Unmistakably iPad.
+
+[See the preview of iPadOS 16](https://www.apple.com/ipados/ipados-16-preview/)
+
 Fast, free delivery
 ----------
 
@@ -253,7 +260,7 @@ iPadOS 15
 
 Work wonders. With ease.
 
-[Learn more of what’s new in iPadOS 15](https://www.apple.com/ipados/ipados-15/)
+[Learn more about iPadOS 15](https://www.apple.com/ipados/ipados-15/)
 
 ### iCloud ###
 

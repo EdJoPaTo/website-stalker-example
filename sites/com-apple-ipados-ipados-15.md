@@ -6,6 +6,8 @@ Work wonders.
 
 iPad enables you to do so much, so easily. iPadOS 15 takes this versatility further, making it easier to get things done, find and organize information, and make iPad even more capable.
 
+[See the preview of iPadOS 16](https://www.apple.com/ipados/ipados-16-preview/)
+
 Multitasking
 ----------
 

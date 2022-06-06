@@ -77,7 +77,8 @@ Apple Site Map
 * ###  Shop and Learn  ###
 
   * [All Mac](https://www.apple.com/mac/)
-  * [MacBook Air](https://www.apple.com/macbook-air/)
+  * [MacBook Air (M1)](https://www.apple.com/macbook-air-m1/)
+  * [MacBook Air (M2)](https://www.apple.com/macbook-air-m2/)
   * [MacBook Pro 13”](https://www.apple.com/macbook-pro-13/)
   * [MacBook Pro 14” and 16”](https://www.apple.com/macbook-pro-14-and-16/)
   * [iMac 24”](https://www.apple.com/imac-24/)
@@ -464,20 +465,6 @@ Apple Site Map
   * [Billing and Subscriptions](https://support.apple.com/billing)
   * [App Store Support](https://support.apple.com/apps)
   * [Books Support](https://support.apple.com/books)
-
- iPod touch
-----------
-
-* ###  Shop and Learn  ###
-
-  * [Overview](https://www.apple.com/ipod-touch/)
-  * [Tech Specs](https://www.apple.com/ipod-touch/specs/)
-
-* ###  Support  ###
-
-  * [AppleCare+](https://www.apple.com/support/products/ipod/)
-  * [iPod touch Support](https://support.apple.com/ipod/ipod-touch)
-  * [iPod Manuals](https://support.apple.com/en_US/manuals/ipod)
 
  Accessories
 ----------
