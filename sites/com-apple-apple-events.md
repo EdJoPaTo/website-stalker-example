@@ -1,53 +1,14 @@
-[](https://www.apple.com/105/media/us/apple-events/2022/a58ceb3c-1695-4b46-8b70-a8e67e5450ba/quick-look/apple_event_en_1.usdz#callToAction=Add%20to%20calendar&checkoutTitle=WWDC22&checkoutSubtitle=June%206-10%20at%2010%3A00%20a.m.%20PT.&canonicalWebPageURL=https%3A%2F%2Fapple.com%2Fapple-events%2F&price=)
-
-Apple Worldwide Developers Conference 2022
+Apple Keynote
 ==========
 
-Watch today at 10:00 a.m. PT.
-View online at apple.com or on the Apple TV app.
+June 6, 2022
 
-[Add to your calendar](https://events.apple.com/services/public/params/ical?summary=WWDC22+Apple+Keynote&location=https://www.apple.com/apple-events/event-stream/&storeUrl=https://www.apple.com/apple-events/event-stream/&timeZone=America/Los_Angeles&startDate=06/06/202210:00:00&endDate=06/06/202212:00:00&descriptionHeader=Join+us+for+the+WWDC22+Apple+Keynote+broadcasting+from+Apple+Park.+Watch+it+online+at+apple.com)
+Watch on June 6 at 10 a.m. PT.Pacific Time
 
-Copied to clipboard
+Video replay of today’s event will be available shortly.
 
-View recent Apple events
-----------
+The live video feed is currently unavailable.
 
-### Apple Event March 8, 2022 ###
+The live video feed is currently unavailable.
 
-Introducing the all-new Mac Studio and Studio Display, new iPad Air, new iPhone SE, and iPhone 13 and iPhone 13 Pro in two new shades of green.
-
-[Learn more](https://www.apple.com/apple-events/march-2022/)
-
-### Apple Event October 18, 2021 ###
-
-Introducing the new MacBook Pro with M1 Pro or M1 Max, all-new AirPods, and HomePod mini in five bold colors.
-
-[Learn more](https://www.apple.com/apple-events/october-2021/)
-
-[](https://p-events-delivery.akamaized.net/1608dybnfpdpxtjascmtuvqexvyggavm/m3u8/vod_index-sMoFLPWqoKYiqpMDonkKjMGsbqGnKWso.m3u8)
-
-### Apple Event September 14, 2021 ###
-
-Introducing iPhone 13 Pro, iPhone 13, Apple Watch Series 7, and the new iPad mini and iPad.
-
-[](https://p-events-delivery.akamaized.net/1805asrvgvurxcrkewleraugwqathmvg/m3u8/vod_index-YVvsDudyWzBdgmtcMPabYTdjaWWmbLaA.m3u8)
-
-### WWDC June 7, 2021 ###
-
-Introducing iOS 15, iPadOS 15, macOS Monterey, and watchOS 8.
-
-[](https://p-events-delivery.akamaized.net/2503gakrdvgbtjurznurjjqymkcddibq/m3u8/vod_index-K6CoBBbf8HHUAvAfk9LyGj2iaPiGyi9d.m3u8)
-
-### Apple Event April 20, 2021 ###
-
-Introducing the new iMac, iPad Pro, iPhone 12 in purple, AirTag, and Apple TV 4K.
-
-[](https://p-events-delivery.akamaized.net/2010ayctcrodak763xivpxn4htcuhco9/m3u8/vod_index-2MxnV7vcNFJoAHxqBcV9CU3w3JsXVVgh.m3u8)
-
-### Apple Event November 10, 2020 ###
-
-Introducing the new MacBook Air, 13‑inch MacBook Pro, and Mac mini, all with the Apple M1 chip.
-
-[View all Apple events](https://podcasts.apple.com/us/channel/apple-events/id6442627105?hasPaidContent=false)
-----------
+[Watch our ASL stream](https://www.apple.com/apple-events/event-stream/?useASL=true) [Watch our non-ASL stream](https://www.apple.com/apple-events/event-stream/)
