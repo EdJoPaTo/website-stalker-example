@@ -3,7 +3,7 @@
 Apple Worldwide Developers Conference 2022
 ==========
 
-Watch tomorrow at 10:00 a.m. PT.
+Watch today at 10:00 a.m. PT.
 View online at apple.com or on the Apple TV app.
 
 [Add to your calendar](https://events.apple.com/services/public/params/ical?summary=WWDC22+Apple+Keynote&location=https://www.apple.com/apple-events/event-stream/&storeUrl=https://www.apple.com/apple-events/event-stream/&timeZone=America/Los_Angeles&startDate=06/06/202210:00:00&endDate=06/06/202212:00:00&descriptionHeader=Join+us+for+the+WWDC22+Apple+Keynote+broadcasting+from+Apple+Park.+Watch+it+online+at+apple.com)
