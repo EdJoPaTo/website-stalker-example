@@ -1,15 +1,16 @@
-Apple Beta Software Program
+Coming Soon
 ----------
 
-Help make the next releases of iOS, iPadOS, macOS, tvOS and watchOS our best yet. As a member of the Apple Beta Software Program, you can take part in shaping Apple software by test-driving pre-release versions and letting us know what you think.
+New public betas for iOS 16, iPadOS 16, macOS Ventura, tvOS 16, HomePod software version 16 and watchOS 9 are coming soon. As a member of the Apple Beta Software Program, you can take part in shaping Apple software by test-driving pre-release versions and letting us know what you think.
 
 Learn more about the next releases.
 
-* [iOS 15](https://www.apple.com/ios/ios-15-preview/)
-* [iPadOS 15](https://www.apple.com/ipados/ipados-preview/)
-* [macOS Monterey](https://www.apple.com/macos/monterey-preview/)
-* [tvOS 15](https://www.apple.com/apple-tv-4k/)
-* [watchOS 8](https://www.apple.com/watchos/watchos-preview/)
+* [iOS 16](https://www.apple.com/ios/ios-16-preview/)
+* [iPadOS 16](https://www.apple.com/ipados/ipados-16-preview/)
+* [macOS Ventura](https://www.apple.com/macos/macos-ventura-preview/)
+* [tvOS 16](https://www.apple.com/apple-tv-4k/)
+* [watchOS 9](https://www.apple.com/watchos/watchos-preview/)
+* [HomePod Software 16](https://www.apple.com/homepod-mini/)
 
 [Sign up](https://beta.apple.com/sp/betaprogram/legal?lo=y)
 
