@@ -30,8 +30,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[06.06.2022 RE2 nächtliche Verspätungen zwischen Uelzen und Hannover Hbf](https://www.der-metronom.de/baustellen/re2-naechtliche-verspaetungen-zwischen-uelzen-und-hannover-hbf/)
-
 [11.06.2022 - 19.06.2022 RE2 keine direkten Wochenendverbindungen von und nach Uelzen](https://www.der-metronom.de/baustellen/re2-keine-direkten-wochenendverbindungen-von-und-nach-uelzen/)
 
 [17.06.2022 - 22.07.2022 Gleisarbeiten zum Erhalt der Infrastruktur im Bereich Hamburg hat teilweise Auswirkungen auf die Fahrzeiten der RE2](https://www.der-metronom.de/baustellen/gleisarbeiten-zum-erhalt-der-infrastruktur-im-bereich-hamburg-hat-teilweise-auswirkungen-auf-die-fahrzeiten-der-re2/)
