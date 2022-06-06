@@ -150,8 +150,6 @@ A 30-minute documentary about Purpose companies and steward-ownership. Please ch
 Steward-owned Companies
 ----------
 
-[Ecosia ---------- 02/2021 | Berlin, Mature, Tech View company profile](https://purpose-economy.org/en/companies/ecosia/) [Sharetribe ---------- 06/2020 | Mature, Tech, Helsinki View company profile](https://purpose-economy.org/en/companies/sharetribe/) [Organically Grown Company ---------- 06/2020 | Mature, Oregon View company profile](https://purpose-economy.org/en/companies/organically-grown-company/) [Ziel ---------- 06/2020 | Startup, Fashion, New York View company profile](https://purpose-economy.org/en/companies/ziel/)
-
 [All Companies](https://purpose-economy.org/en/companies/)
 
 Companies we've supported
