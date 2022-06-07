@@ -163,9 +163,12 @@ sites:
       - "https://www.apple.com/apple-pay/"
       - "https://www.apple.com/de/apple-pay/"
       - "https://www.apple.com/macos/monterey/"
-      - "https://www.apple.com/ipados/ipados-15/"
       - "https://www.apple.com/ios/ios-15/"
+      - "https://www.apple.com/ios/ios-16-preview/"
+      - "https://www.apple.com/ipados/ipados-15/"
+      - "https://www.apple.com/ipados/ipados-16-preview/"
       - "https://www.apple.com/watchos/watchos-8/"
+      - "https://www.apple.com/watchos/watchos-preview/"
       - "https://opensource.apple.com/"
       - "https://opensource.apple.com/projects/"
     editors:
