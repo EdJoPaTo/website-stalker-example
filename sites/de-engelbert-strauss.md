@@ -1,214 +1,124 @@
-NEUE KOLLEKTION
+Leichtigkeit im casual style
 
 ==========
 
 ---
 
-e.s.motion
-ten sommer
+e.s. ventura
+vintage
 
 ----------
 
 ---
 
-Luftige Stoffe, lässige Farben und die gewohnte Taschenvielfalt steigern die Vorfreude auf Projekte zur heißen Jahreszeit.
+Entdecken Sie den lässigen Cargo-Style unserer vintage Kollektion in einem völlig neuen Design. Genau richtig für alle, die immer auf Achse sind!
 
-[Mehr erfahren](https://www.engelbert-strauss.de/motion_ten?ItemOrigin=StartFS22)
+[Mehr erfahren](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/?ItemOrigin=StartFS22)
 
-[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide1)
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
 
-[heavy duty](https://www.engelbert-strauss.de/#!start/slide3)
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide3)
 
-NEUE KOLLEKTION
+next generation
 
 ==========
 
 ---
 
-e.s.Trail
+RECYCLING
+WORKS!
 
 ----------
 
 ---
 
-Die neue e.s.trail Kollektion kombiniert High-End Fasern, Komfort und Outdoor-Toughness. So vielseitig und flexibel kann Workwear sein!
+Neu im Team der Worker-Sneaker: Die extra leichten Allroundschuhe e.s. Bani next. Unsere ersten Worker-Sneaker mit Recycling-Anteil in Sohle und Obermaterial.
+
+[Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten?ItemOrigin=StartFS22)
+
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide1)
+
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
+
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide3)
+
+FUNKTIONS-WORKWEAR IM RACE-DESIGN
+
+==========
+
+---
+
+e.s.trail
+
+----------
+
+---
+
+Die e.s.trail Kollektion kombiniert High-End Fasern, Komfort und Outdoor-Toughness. So vielseitig und flexibel kann Workwear sein!
 
 [Mehr erfahren](https://www.engelbert-strauss.de/trail?ItemOrigin=StartFS22)
 
-[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide1)
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
 
-[heavy duty](https://www.engelbert-strauss.de/#!start/slide3)
+[e.s.trail](https://www.engelbert-strauss.de/#!start/slide3)
 
-TOOLS IMMER GRIFFBEREIT
-
-==========
-
+ Workwear-Looks für heiße Arbeitstage
 ---
 
- HEAVY DUTY
-----------
-
----
-
-Gürtel, Tasche, Lunchbag: Wer auf der Arbeit viele Werkzeuge braucht, muss nicht automatisch zum Koffer greifen.
-
-[mehr erfahren](https://www.engelbert-strauss.de/heavy_duty?ItemOrigin=StartFS22)
-
-[e.s.motion ten sommer](https://www.engelbert-strauss.de/#!start/slide1)
-
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide2)
-
-[heavy duty](https://www.engelbert-strauss.de/#!start/slide3)
-
- Neuheiten
-
-[Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/?ItemOrigin=StartFS22)
-
- neu
-==========
-
----
-
-###  Handschuhe
-e.s. trail, light  ###
-
----
-
-[Jetzt zugreifen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-light-2200770-76190-1657.html?itemorigin=StartFS22)
-
-[light](https://www.engelbert-strauss.de/#!gloves/light)
-
-[short](https://www.engelbert-strauss.de/#!gloves/short)
-
- neu
-==========
-
----
-
-###  Handschuhe
-e.s. trail, short  ###
-
----
-
-[Jetzt zugreifen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-short-2200780-76195-1657.html?itemorigin=StartFS22)
-
-[light](https://www.engelbert-strauss.de/#!gloves/light)
-
-[short](https://www.engelbert-strauss.de/#!gloves/short)
-
- KLIMAREGULIEREND & ATMUNGSAKTIV
+ Leicht und lässig
 ==========
 
 ---
 
 ###
 
-PERFORMANCE
-SHIRTS
+Shirts
 
  ###
 
 ---
 
-[jetzt kaufen](https://www.engelbert-strauss.de/arbeitsshirts/t-shirt-merino-e-s-trail-3411460-21714-1624.html?itemorigin=StartFS22)
+[für Herren](https://www.engelbert-strauss.de/arbeitsshirts/)
 
- SIEHT GUT AUS, FÜHLT SICH GUT AN!
+[für Damen](https://www.engelbert-strauss.de/arbeitsshirts-damen/)
+
+ Perfekt für den Sommer
 ==========
 
 ---
 
 ###
 
-BEQUEME
-SWEAT-SHORT
+Shorts
 
  ###
 
 ---
 
-[jetzt kaufen](https://www.engelbert-strauss.de/arbeitsshorts/sweat-short-e-s-trail-3162320-96157-1621.html?itemorigin=StartFS22)
+[für Herren](https://www.engelbert-strauss.de/arbeitsshorts/)
 
-PROFI-SCHRAUBER
-TRIFFT PROFI-AKKU
+[für Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
+
+###  UV-Schutz an warmen Tagen  ###
 
 ---
 
- DIE NEUEN 18 VOLT POWER-TOOLS
+ Stylish und gleichzeitig sicher – das ist die Workwear, die man braucht!
+
+[Mehr entdecken](https://www.engelbert-strauss.de/s/suche?query=uv-schutz)
+
+ Idealer UV-Schutz
 ==========
 
 ---
 
-###
-
-Bohr-
-schrauber
-
- ###
-
----
-
-[Jetzt nachbohren](https://www.engelbert-strauss.de/akku-bohrschrauber?ItemOrigin=StartFS22)
-
-[Alle Schrauber](https://www.engelbert-strauss.de/f/elektroartikel/Akku-Bohrschrauber:Akku-Bohrschrauber_S,Akku-Multi_Bohrschrauber_M,Akku-Schlagbohrschrauber_L/)
-
- 1
-==========
-
----
-
-Werkzeug-Set
-auswählen
-
-==========
-
----
-
- 2
-==========
-
----
-
-Schrauber & Akkus
-ergänzen
-
-==========
-
----
-
-###  = Kombi-Spar-Set  ###
-
----
-
- wählen Sie ihr passendes aus 72 Spar Sets:
-==========
-
----
-
-[Schrauber S Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Bohrschrauber_S/)
-
-[Schrauber M Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Multi_Bohrschrauber_M/)
-
-[Schrauber L Set's](https://www.engelbert-strauss.de/f/akku-geraete/Akku-Bohrschrauber:Akku-Schlagbohrschrauber_L/)
-
-###
-
-POP UP
-STORE
-
- ###
-
----
-
-STRAUSS IN BREMEN
-SCHUPPEN EINS 20.6. - 9.7.2022
-
-Moin, Bremen! Wir setzen die Segel und freuen uns schon riesig, wenn wir bei Euch anlegen.
-
-[mehr erfahren](https://www.engelbert-strauss.de/popupstore/popupstore_bremen)
+ \+ UV-Schutzfaktor 50+ nach AS/NZS 4399:2017
+\+ atmungsaktiv und schnelltrocknend
+\+ leicht auf der Haut
 
 ###  Metallica
  Works  ###
@@ -218,7 +128,21 @@ Moin, Bremen! Wir setzen die Segel und freuen uns schon riesig, wenn wir bei Euc
 [Hit the Stage](https://www.engelbert-strauss.de/metallica-works?ItemOrigin=startseite_fs22)
 
  Credit: Jeff Yeager
+
+###  POP UP
+STORE  ###
+
 ---
+
+ STRAUSS IN BREMEN
+SCHUPPEN EINS 20.6. - 9.7.2022
+==========
+
+---
+
+ Moin, Bremen! Wir setzen die Segel und freuen uns schon riesig, wenn wir bei Euch anlegen.
+
+[Mehr erfahren](https://www.engelbert-strauss.de/popupstore/popupstore_bremen)
 
  Newsletter abonnieren
 
