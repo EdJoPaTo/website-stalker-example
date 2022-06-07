@@ -20,8 +20,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [16.05.2022 - 10.06.2022 RE4/RB41 Brückenbauarbeiten im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten-im-bereich-hamburg-harburg-3/)
 
-[03.06.2022 - 07.06.2022 RB41 Fahrzeitenänderungen ab Buchholz (N.) in Fahrtrichtung Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-fahrzeitenaenderungen-ab-buchholz-n-in-fahrtrichtung-hamburg-hbf/)
-
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [05.06.2022 - 10.06.2022 RE3/RB31 nächtliche Verspätungen und Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-verspaetungen-und-haltausfall-in-ashausen/)
