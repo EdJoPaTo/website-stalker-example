@@ -41,7 +41,7 @@ Setup in seconds. Apple Pay is simple to set up. Just add your credit or debit 
 
 [How to add a card](https://www.apple.com/105/media/us/apple-pay/2017/1b3e5430_fafc_4e9d_8114_4ba5eacf00f4/overview/films/add-a-card/apple-pay-add-a-card-tpl-cc-us-20170912_720x1280h.mp4)
 
-Apple Pay is already on your device. Apple Pay is built into iPhone, Apple Watch, Mac, and iPad. No separate app to download. No complicated processes to complete. No hassles.
+Apple Pay is already on your device. Apple Pay is built into iPhone, Apple Watch, Mac, and iPad. No separate app to download. No complicated processes to complete. No hassles.
 
 Use Apple Cash with Apple Pay. Apple Cash is a digital card that lives in Wallet — it stores the cash you receive or want to send. You can send money right in Wallet or Messages — pay your squad for brunch or chip in for a coworker’s gift. You can also spend it in stores, in apps, or online with Apple Pay.
 
@@ -111,7 +111,7 @@ Questions? Answers.
 
 * ### How secure is Apple Pay?  ###
 
-  Apple Pay is safer than using a physical credit, debit, or prepaid card. Face ID, Touch ID, or your passcode are required for purchases on your iPhone, Apple Watch, Mac, or iPad. Your card number and identity aren’t shared with merchants, and your actual card numbers aren’t stored on your device or on Apple servers.
+  Apple Pay is safer than using a physical credit, debit, or prepaid card. Face ID, Touch ID, or your passcode are required for purchases on your iPhone, Apple Watch, Mac, or iPad. Your card number and identity aren’t shared with merchants, and your actual card numbers aren’t stored on your device or on Apple servers.
 
   When you pay in stores, neither Apple nor your device will send your actual card number to merchants. When you pay online in Safari or in apps, the merchant will only receive information you authorize to fulfill your order — such as your name, email address, and billing and shipping addresses.
 
@@ -127,7 +127,7 @@ Questions? Answers.
 
 * ### Which banks support Apple Pay?  ###
 
-  Apple Pay works with major credit and debit cards from banks around the world, with more added all the time. You can see all the banks that support Apple Pay [here](https://support.apple.com/en-us/HT204916). If your card does not yet support Apple Pay, contact your bank for more information.
+  Apple Pay works with major credit and debit cards from banks around the world, with more added all the time. You can see all the banks that support Apple Pay [here](https://support.apple.com/en-us/HT204916). If your card does not yet support Apple Pay, contact your bank for more information.
 
 * ### Does it cost extra to use Apple Pay?  ###
 
@@ -135,13 +135,17 @@ Questions? Answers.
 
 * ### Can I use Apple Pay abroad?  ###
 
-  Apple Pay works in countries and regions that support contactless payments. Confirm with your bank, and ask about any fees they may charge for overseas usage.
+  Apple Pay works in countries and regions that support contactless payments. Confirm with your bank, and ask about any fees they may charge for overseas usage.
 
 * ### How can my business accept Apple Pay?  ###
 
   If your business already accepts credit and debit cards, simply contact your [payment provider](https://developer.apple.com/apple-pay/payment-platforms/)
   to start accepting Apple Pay. If you want to accept Apple Pay on your website or in your app,
   visit [Apple Pay for developers](https://developer.apple.com/apple-pay/).
+
+* ### Does my business need any special equipment to accept Apple Pay?  ###
+
+  With Tap to Pay on iPhone, you can use an iPhone to accept contactless payments through an app supported by any of the [participating payment service providers](https://developer.apple.com/tap-to-pay/). No extra terminal or hardware is required. If you already have a payment terminal, contact your payment service provider to find out if it accepts contactless payments.
 
 * ### How do I let my customers know I accept Apple Pay?  ###
 
