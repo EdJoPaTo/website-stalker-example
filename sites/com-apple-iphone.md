@@ -286,9 +286,9 @@ Get more out of your iPhone.
 Today at Apple
 ----------
 
-Virtual Sessions
+Live Virtual Sessions
 
-Learn the basics of using iPhone live with Apple Creatives.
+Learn the basics on iPhone with us.
 
 [Sign up](https://www.apple.com/today/event/learn-the-basics-iphone?cid=rem-us-taa-iphone-familly-ltb)
 

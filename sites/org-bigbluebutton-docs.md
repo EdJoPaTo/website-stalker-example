@@ -1,12 +1,10 @@
 * [Home](https://docs.bigbluebutton.org/)
-* 2.4 Latest Version
-* [Install](https://docs.bigbluebutton.org/2.4/install.html)
-* [Development](https://docs.bigbluebutton.org/2.4/dev.html)
-* [Testing a release](https://docs.bigbluebutton.org/2.4/release-tests.html)
-* [What's New](https://docs.bigbluebutton.org/2.4/new.html)
-* [Architecture](https://docs.bigbluebutton.org/2.4/architecture.html)
-* [HTML5 Tests](https://docs.bigbluebutton.org/2.4/html5-tests.html)
-* [Accessibility](https://docs.bigbluebutton.org/2.4/html5-accessibility.html)
+* 2.5 Latest version
+* [Testing a release](https://docs.bigbluebutton.org/2.5/release-tests.html)
+* [Install](https://docs.bigbluebutton.org/2.5/install.html)
+* [Development](https://docs.bigbluebutton.org/2.5/dev.html)
+* [What's New](https://docs.bigbluebutton.org/2.5/new.html)
+* [Accessibility](https://docs.bigbluebutton.org/2.5/html5-accessibility.html)
 * Develop
 * [Design](https://docs.bigbluebutton.org/dev/design.html)
 * [WebHooks](https://docs.bigbluebutton.org/dev/webhooks.html)
@@ -35,20 +33,14 @@
 * [Road Map](https://docs.bigbluebutton.org/support/road-map.html)
 * [FAQ](https://docs.bigbluebutton.org/support/faq.html)
 * [Release Notes](https://docs.bigbluebutton.org/support/release-notes.html)
-* 2.5 In the works
-* [Testing a release](https://docs.bigbluebutton.org/2.5/release-tests.html)
-* [Install](https://docs.bigbluebutton.org/2.5/install.html)
-* [Development](https://docs.bigbluebutton.org/2.5/dev.html)
-* [What's New](https://docs.bigbluebutton.org/2.5/new.html)
-* [Accessibility](https://docs.bigbluebutton.org/2.5/html5-accessibility.html)
-* 2.3 Legacy
-* [Testing a release](https://docs.bigbluebutton.org/2.3/release-tests.html)
-* [Development](https://docs.bigbluebutton.org/2.3/dev.html)
-* [Improvements](https://docs.bigbluebutton.org/2.3/new.html)
-* [Install](https://docs.bigbluebutton.org/2.3/install.html)
-* [Architecture](https://docs.bigbluebutton.org/2.3/architecture.html)
-* [HTML5 Tests](https://docs.bigbluebutton.org/2.3/html5-tests.html)
-* [Accessibility](https://docs.bigbluebutton.org/2.3/html5-accessibility.html)
+* 2.4 Legacy
+* [Install](https://docs.bigbluebutton.org/2.4/install.html)
+* [Development](https://docs.bigbluebutton.org/2.4/dev.html)
+* [Testing a release](https://docs.bigbluebutton.org/2.4/release-tests.html)
+* [What's New](https://docs.bigbluebutton.org/2.4/new.html)
+* [Architecture](https://docs.bigbluebutton.org/2.4/architecture.html)
+* [HTML5 Tests](https://docs.bigbluebutton.org/2.4/html5-tests.html)
+* [Accessibility](https://docs.bigbluebutton.org/2.4/html5-accessibility.html)
 
 ![](https://docs.bigbluebutton.org/images/logo.png)
 

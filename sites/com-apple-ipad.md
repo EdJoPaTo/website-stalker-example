@@ -283,9 +283,9 @@ Get more out of your iPad
 
 ### Today at Apple ###
 
-#### Virtual Sessions ####
+#### Live Virtual Sessions ####
 
-Learn the basics of using iPad live with Apple Creatives.
+Learn the basics on iPad with us.
 
 [Sign up](https://www.apple.com/today/event/learn-the-basics-ipad?cid=rem-us-taa-ipad-family-ltb)
 

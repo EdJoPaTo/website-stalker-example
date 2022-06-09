@@ -551,10 +551,9 @@ Get more out of Mac
 Today at Apple
 ----------
 
-### Virtual Sessions ###
+### Live Virtual Sessions ###
 
-### Learn the basics of using Mac
-live with Apple Creatives. ###
+### Learn the basics on Mac with us. ###
 
 * [Sign up](https://www.apple.com/today/event/learn-the-basics-mac?cid=rem-us-taa-mac-family-ltb)
 
