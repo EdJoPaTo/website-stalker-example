@@ -6,6 +6,14 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Mittels Fuzzyfind in Git Ordner springen</title>
+			<link>https://edjopato.de/post/2022/06/09-cdg/</link>
+			<pubDate>Thu, 09 Jun 2022 14:43:00 +0200</pubDate>
+			<content:encoded><![CDATA[2022-06-09
+
+Mittels Fuzzyfind in Git Ordner springen]]></content:encoded>
+		</item>
+		<item>
 			<title>Monitorzustand am Energieverbrauch erkennen</title>
 			<link>https://edjopato.de/post/2022/05/04-monitor-energy/</link>
 			<pubDate>Wed, 04 May 2022 20:50:00 +0200</pubDate>
@@ -92,14 +100,6 @@ Hallo an das Open-Source-Blog-Netzwerk]]></content:encoded>
 			<content:encoded><![CDATA[2021-11-02
 
 Fusselfreier Quellcode - so nervig wie möglich bitte]]></content:encoded>
-		</item>
-		<item>
-			<title>Von alles nach alles konvertieren</title>
-			<link>https://edjopato.de/post/2021/11/02-convert-everything/</link>
-			<pubDate>Tue, 02 Nov 2021 17:28:00 +0100</pubDate>
-			<content:encoded><![CDATA[2021-11-02
-
-Von alles nach alles konvertieren]]></content:encoded>
 		</item>
 	</channel>
 </rss>
