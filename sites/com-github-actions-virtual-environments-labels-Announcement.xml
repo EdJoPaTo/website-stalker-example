@@ -17,17 +17,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>[all OSs] Android NDK 22 will be replaced in favor of 24, version 23 will be set as the default one on June, 6</title>
-			<link>https://github.com/actions/virtual-environments/issues/5595</link>
-			<pubDate>Mon, 23 May 2022 19:41:07 +0000</pubDate>
-			<content:encoded><![CDATA[#5595
-opened
-May 23, 2022
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>The macOS 10.15 Actions runner image will begin deprecation on 5/31/22 and will be fully unsupported by 8/30/22</title>
 			<link>https://github.com/actions/virtual-environments/issues/5583</link>
 			<pubDate>Fri, 20 May 2022 14:05:15 +0000</pubDate>
