@@ -6,10 +6,6 @@ What's New
 Overview
 ==========
 
-This document gives you an overview of BigBlueButton 2.5, the latest version of BigBlueButton now in development.
-
-*Note:* This document is DRAFT and will be expanded upon as 2.5 development goes through alpha, beta, and release.
-
 BigBlueButton 2.5 offers users improved usability, increased engagement, and more performance.
 
 * **Usability** - making common functions (such as raise hand) easier
@@ -163,7 +159,7 @@ Installation
 
 For server requirements, BigBlueButton 2.5 needs similar [minimum server requirements](https://docs.bigbluebutton.org/2.5/install.html#minimum-server-requirements) as 2.4.
 
-To install 2.5, use [bbb-install-2.5.sh](https://github.com/bigbluebutton/bbb-install/blob/master/bbb-install-2.5.sh). For example, the following command installs BigBlueButton 2.5-dev using `bbb.example.com` as the hostname and `notice@example.com` as the email for Let’s Encrypt (you would substitute these values for your own hostname and email address). Notice the version is `-v focal-250`, which will install the latest officially published release (alpha/beta/etc) of BigBlueButton 2.5. If you instead use `-v focal-25-dev`, you will be installing/updating to the very latest build tracking the source code from branch `v2.5.x-release`.
+To install 2.5, use [bbb-install-2.5.sh](https://github.com/bigbluebutton/bbb-install/blob/master/bbb-install-2.5.sh). For example, the following command installs BigBlueButton 2.5 using `bbb.example.com` as the hostname and `notice@example.com` as the email for Let’s Encrypt (you would substitute these values for your own hostname and email address). Notice the version is `-v focal-250`, which will install the latest officially published release (alpha/beta/etc) of BigBlueButton 2.5. If you instead use `-v focal-25-dev`, you will be installing/updating to the very latest build tracking the source code from branch `v2.5.x-release`.
 
 ```
 wget -qO- https://ubuntu.bigbluebutton.org/bbb-install-2.5.sh | bash -s -- -v focal-250 -s bbb.example.com -e notice@example.com  -a -w
@@ -195,9 +191,9 @@ ii  bbb-webrtc-sfu             1:2.5-6       amd64        BigBlueButton WebRTC S
 
 ```
 
-This installs the latest version of BigBlueButton 2.5-dev with Let’s encrypt certificate and the API demos. With the API demos installed, you can open `https:///` in a browser (where `` is the hostname you specified in the `bbb-install-2.5.sh` command), enter your name, and click ‘Join’ to join ‘Demo Meeting’. For more information, see the [bbb-install-2.5.sh](https://github.com/bigbluebutton/bbb-install/blob/master/bbb-install-2.5.sh) documentation.
+This installs the latest version of BigBlueButton 2.5 with Let’s encrypt certificate and the API demos. With the API demos installed, you can open `https:///` in a browser (where `` is the hostname you specified in the `bbb-install-2.5.sh` command), enter your name, and click ‘Join’ to join ‘Demo Meeting’. For more information, see the [bbb-install-2.5.sh](https://github.com/bigbluebutton/bbb-install/blob/master/bbb-install-2.5.sh) documentation.
 
-BigBlueButton 2.5-dev is under active development. While we don’t recommend setting it up in a production environment yet, we do encourage administrators to try out the build with others and give us feedback on [our bigbluebutton-dev mailing list](https://groups.google.com/g/bigbluebutton-dev).
+We welcome feedback on [our bigbluebutton-dev mailing list](https://groups.google.com/g/bigbluebutton-dev).
 
 Development
 ----------
