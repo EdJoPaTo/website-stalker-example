@@ -242,6 +242,8 @@ Many of our community-led initiatives and volunteer engagements drive progress w
 
 We’ll continue to speak openly about our efforts to eradicate systemic racism and injustice. We remain steadfast advocates on behalf of LGBTQ+ people because LGBTQ+ rights are human rights. We stay true to our values by acting when policies unfairly target immigrants and other communities. And we’ll always stand against prejudice in any form.
 
+[Learn more about Apple DNAs](https://www.apple.com/careers/us/dna.html)
+
 55KEmployee members
  of DNA communities
  worldwide
