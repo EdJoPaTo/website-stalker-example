@@ -1,10 +1,11 @@
-iOS 16
+iOS 16 iOS 16
 ==========
 
 Personal is powerful.
-----------
 
 iOS 16 enhances iPhone with all-new personalization features, deeper intelligence, and more seamless ways to communicate and share.
+
+Coming this fall
 
 [Watch the event](https://www.apple.com/apple-events/)
 
@@ -224,7 +225,7 @@ Home
 
 ### Reimagined Home app ###
 
-The Home app is rebuilt from the ground up to be even more efficient and reliable. Navigate all your smart home devices in the redesigned Home tab. New categories for climate, lights, security, and more let you access relevant accessories with just a tap. And a multicamera view puts your smart home cameras front and center.
+The Home app is rebuilt from the ground up to be even more efficient and reliable. Navigate all your smart home accessories in the redesigned Home tab. New categories for climate, lights, security, and more let you access relevant accessories with just a tap. And a multicamera view puts your smart home cameras front and center.
 
 ### Matter support ###
 

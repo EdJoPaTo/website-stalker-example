@@ -1,10 +1,12 @@
-iPadOS 16
+iPadOS 16 iPadOS 16
 ==========
 
 Incredibly capable.
  Unmistakably iPad.
 
 iPadOS 16 gives you powerful new ways to do more than ever. Share and communicate with the people who matter. Level up your productivity. Apps all across the system are more intuitive, more customizable, and more capable.
+
+Coming this fall
 
 [Watch the event](https://www.apple.com/apple-events/)
 
@@ -182,7 +184,7 @@ Home
 
 ### Reimagined Home app ###
 
-The Home app is rebuilt from the ground up to be even more efficient and reliable. Navigate all your smart home devices in the redesigned Home tab. New categories for climate, lights, security, and more let you access relevant accessories with just a tap. And a multicamera view puts your smart home cameras front and center.
+The Home app is rebuilt from the ground up to be even more efficient and reliable. Navigate all your smart home accessories in the redesigned Home tab. New categories for climate, lights, security, and more let you access relevant accessories with just a tap. And a multicamera view puts your smart home cameras front and center.
 
 ### Matter support ###
 
@@ -252,7 +254,7 @@ Now your iPad will get important security improvements between normal software u
 
 ### Locked Hidden album in Photos ###
 
-Hidden and Recently Deleted albums. Locked by default.
+Hidden and Recently Deleted albums. Locked by default.
 
 More about Locked Hidden album in Photos
 

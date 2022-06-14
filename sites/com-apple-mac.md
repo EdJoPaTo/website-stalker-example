@@ -21,7 +21,8 @@ Pro anywhere.
 
 [Learn more](https://www.apple.com/macbook-pro-13/)
 
-Available next month
+Order starting at 5 a.m. PDT on 6.17
+Available starting 6.24
 
 Which Mac is
 right for you?
