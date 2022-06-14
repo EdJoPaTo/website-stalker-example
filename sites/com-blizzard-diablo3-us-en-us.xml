@@ -6,6 +6,11 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Diablo Hell&apos;s Ink Tattoo Shop Takeover Tour</title>
+			<link>https://news.blizzard.com/en-us/diablo4/23817876/diablo-hells-ink-tattoo-shop-takeover-tour-6-14-2022</link>
+			<content:encoded><![CDATA[The Diablo Hell’s Ink tattoo shop takeover tour is your chance to receive a custom tattoo, courtesy of the Burning Hells. Find out how to win!]]></content:encoded>
+		</item>
+		<item>
 			<title>Snatch Up Diablo Immortal Goodies For Your Favorite Games</title>
 			<link>https://news.blizzard.com/en-us/diablo-immortal/23789254/snatch-up-diablo-immortal-goodies-for-your-favorite-games-6-3-2022</link>
 			<content:encoded><![CDATA[In celebration of Diablo Immortal’s launch, Skarn’s forces have placed Immortal-themed goodies in Diablo III, Hearthstone, and Call of Duty: Mobile for you to collect!]]></content:encoded>
@@ -54,11 +59,6 @@
 			<title>Reimagining a legend: Behind Ethereal items in Season 24</title>
 			<link>https://us.diablo3.blizzard.com/en-us/blog/23700738/reimagining-a-legend-behind-ethereal-items-in-season-24-7-21-2021</link>
 			<content:encoded><![CDATA[Discover how the Diablo III team created this season’s theme and sought to pay homage to the lasting legacy of Diablo II.]]></content:encoded>
-		</item>
-		<item>
-			<title>Season 24 | Ethereal Memory | Has Ended!</title>
-			<link>https://us.diablo3.blizzard.com/en-us/blog/23695733/season-24-%7C-ethereal-memory-%7C-has-ended-7-9-2021</link>
-			<content:encoded><![CDATA[Season 24 will begin on July 23! Read on to learn more about the Ethereals and new balance changes in Patch 2.7.1!]]></content:encoded>
 		</item>
 	</channel>
 </rss>
