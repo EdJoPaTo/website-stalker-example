@@ -792,7 +792,7 @@
 						</a>
 						method on one hand and
 						<a href="#setwebhook">
-							Webhooks
+							webhooks
 						</a>
 						on the other. Incoming updates are stored on the server until the bot receives them either way, but they will not be kept longer than 24 hours.
 					</p>
@@ -848,7 +848,7 @@
 								<td>
 									The update's unique identifier. Update identifiers start from a certain positive number and increase sequentially. This ID becomes especially handy if you're using
 									<a href="#setwebhook">
-										Webhooks
+										webhooks
 									</a>
 									, since it allows you to ignore repeated updates or to restore the correct update sequence, should they get out of order. If there are no new updates for at least a week, then identifier of the next update will be chosen randomly instead of sequentially.
 								</td>
@@ -1249,7 +1249,7 @@
 						setWebhook
 					</h4>
 					<p>
-						Use this method to specify a url and receive incoming updates via an outgoing webhook. Whenever there is an update for the bot, we will send an HTTPS POST request to the specified url, containing a JSON-serialized
+						Use this method to specify a URL and receive incoming updates via an outgoing webhook. Whenever there is an update for the bot, we will send an HTTPS POST request to the specified URL, containing a JSON-serialized
 						<a href="#update">
 							Update
 						</a>
@@ -1260,7 +1260,7 @@
 						on success.
 					</p>
 					<p>
-						If you'd like to make sure that the Webhook request comes from Telegram, we recommend using a secret path in the URL, e.g.
+						If you'd like to make sure that the webhook request comes from Telegram, we recommend using a secret path in the URL, e.g.
 						<code>
 							https://www.example.com/<token>
 						</code>
@@ -1295,7 +1295,7 @@
 									Yes
 								</td>
 								<td>
-									HTTPS url to send updates to. Use an empty string to remove webhook integration
+									HTTPS URL to send updates to. Use an empty string to remove webhook integration
 								</td>
 							</tr>
 							<tr>
@@ -1427,7 +1427,7 @@
 							</strong>
 							Ports currently supported
 							<em>
-								for Webhooks
+								for webhooks
 							</em>
 							:
 							<strong>
@@ -1441,7 +1441,7 @@
 							</strong>
 							If you're having any trouble setting up webhooks, please check out this
 							<a href="/bots/webhooks">
-								amazing guide to Webhooks
+								amazing guide to webhooks
 							</a>
 							.
 						</p>
@@ -3371,7 +3371,7 @@
 									<em>
 										Optional
 									</em>
-									. For “text_link” only, url that will be opened after user taps on the text
+									. For “text_link” only, URL that will be opened after user taps on the text
 								</td>
 							</tr>
 							<tr>
@@ -3634,7 +3634,7 @@
 									<em>
 										Optional
 									</em>
-									. File size in bytes
+									. File size in bytes. It can be bigger than 2^31 and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type are safe for storing this value.
 								</td>
 							</tr>
 						</tbody>
@@ -3764,7 +3764,7 @@
 									<em>
 										Optional
 									</em>
-									. File size in bytes
+									. File size in bytes. It can be bigger than 2^31 and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type are safe for storing this value.
 								</td>
 							</tr>
 							<tr>
@@ -3899,7 +3899,7 @@
 									<em>
 										Optional
 									</em>
-									. File size in bytes
+									. File size in bytes. It can be bigger than 2^31 and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type are safe for storing this value.
 								</td>
 							</tr>
 						</tbody>
@@ -4025,7 +4025,7 @@
 									<em>
 										Optional
 									</em>
-									. Mime type of a file as defined by sender
+									. Mime type of the file as defined by sender
 								</td>
 							</tr>
 							<tr>
@@ -4039,7 +4039,7 @@
 									<em>
 										Optional
 									</em>
-									. File size in bytes
+									. File size in bytes. It can be bigger than 2^31 and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type are safe for storing this value.
 								</td>
 							</tr>
 						</tbody>
@@ -4236,7 +4236,7 @@
 									<em>
 										Optional
 									</em>
-									. File size in bytes
+									. File size in bytes. It can be bigger than 2^31 and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type are safe for storing this value.
 								</td>
 							</tr>
 						</tbody>
@@ -5346,7 +5346,7 @@
 									<em>
 										Optional
 									</em>
-									. File size in bytes, if known
+									. File size in bytes. It can be bigger than 2^31 and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type are safe for storing this value.
 								</td>
 							</tr>
 							<tr>
@@ -5961,7 +5961,7 @@
 									<em>
 										Optional
 									</em>
-									. HTTP or tg:// url to be opened when the button is pressed. Links
+									. HTTP or tg:// URL to be opened when the button is pressed. Links
 									<code>
 										tg://user?id=<user_id>
 									</code>
@@ -6404,7 +6404,7 @@
 									<em>
 										Optional
 									</em>
-									. Data associated with the callback button. Be aware that the message, which originated the query, can contain no callback buttons with this data.
+									. Data associated with the callback button. Be aware that the message, from which originated the query, can contain no callback buttons with this data.
 								</td>
 							</tr>
 							<tr>
@@ -17110,7 +17110,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<p>
 							Alternatively, the user can be redirected to the specified Game URL. For this option to work, you must first create a game for your bot via
 							<a href="https://t.me/botfather">
-								@Botfather
+								@BotFather
 							</a>
 							and accept the terms. Otherwise, you may use links like
 							<code>
@@ -17204,7 +17204,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									</a>
 									and accepted the conditions via
 									<a href="https://t.me/botfather">
-										@Botfather
+										@BotFather
 									</a>
 									, specify the URL that opens your game — note that this will only work if the query comes from a
 									<a href="#inlinekeyboardbutton">
@@ -21276,7 +21276,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									String
 								</td>
 								<td>
-									Mime type of the content of video url, “text/html” or “video/mp4”
+									Mime type of the content of the video URL, “text/html” or “video/mp4”
 								</td>
 							</tr>
 							<tr>
@@ -24705,7 +24705,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Payment provider token, obtained via
 									<a href="https://t.me/botfather">
-										Botfather
+										@BotFather
 									</a>
 								</td>
 							</tr>
@@ -24826,7 +24826,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										Optional
 									</em>
-									. URL of the product photo for the invoice. Can be a photo of the goods or a marketing image for a service. People like it better when they see what they are paying for.
+									. URL of the product photo for the invoice. Can be a photo of the goods or a marketing image for a service.
 								</td>
 							</tr>
 							<tr>
@@ -24840,7 +24840,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										Optional
 									</em>
-									. Photo size
+									. Photo size in bytes
 								</td>
 							</tr>
 							<tr>
@@ -24958,7 +24958,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if user's phone number should be sent to provider
+									, if the user's phone number should be sent to provider
 								</td>
 							</tr>
 							<tr>
@@ -24976,7 +24976,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if user's email address should be sent to provider
+									, if the user's email address should be sent to provider
 								</td>
 							</tr>
 							<tr>
@@ -25117,7 +25117,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						</a>
 						via
 						<a href="https://t.me/botfather">
-							@Botfather
+							@BotFather
 						</a>
 						in order to receive these objects in updates.
 					</p>
@@ -25355,9 +25355,9 @@ pre-formatted fixed-width code block written in the Python programming language
 									Yes
 								</td>
 								<td>
-									Payments provider token, obtained via
+									Payment provider token, obtained via
 									<a href="https://t.me/botfather">
-										Botfather
+										@BotFather
 									</a>
 								</td>
 							</tr>
@@ -25500,7 +25500,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									Optional
 								</td>
 								<td>
-									A JSON-serialized data about the invoice, which will be shared with the payment provider. A detailed description of required fields should be provided by the payment provider.
+									JSON-serialized data about the invoice, which will be shared with the payment provider. A detailed description of required fields should be provided by the payment provider.
 								</td>
 							</tr>
 							<tr>
@@ -25528,7 +25528,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									Optional
 								</td>
 								<td>
-									Photo size
+									Photo size in bytes
 								</td>
 							</tr>
 							<tr>
@@ -25646,7 +25646,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if user's phone number should be sent to provider
+									, if the user's phone number should be sent to provider
 								</td>
 							</tr>
 							<tr>
@@ -25664,7 +25664,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if user's email address should be sent to provider
+									, if the user's email address should be sent to provider
 								</td>
 							</tr>
 							<tr>
@@ -28191,7 +28191,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Short name of the game, serves as the unique identifier for the game. Set up your games via
 									<a href="https://t.me/botfather">
-										Botfather
+										@BotFather
 									</a>
 									.
 								</td>
