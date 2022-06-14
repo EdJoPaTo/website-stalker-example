@@ -18,7 +18,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[02.07.2022 - 03.07.2022 RB41 nächtlicher Ersatzverkehr mit Bussen zwischen Bremen Hbf und Bremen-Oberneuland](https://www.der-metronom.de/baustellen/rb41-naechtlicher-ersatzverkehr-mit-bussen-zwischen-bremen-hbf-und-bremen-oberneuland/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
