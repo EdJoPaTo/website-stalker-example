@@ -786,7 +786,7 @@
 						Getting updates
 					</h3>
 					<p>
-						There are two mutually exclusive ways of receiving updates for your bot — the
+						There are two mutually exclusive ways of receiving updates for your bot - the
 						<a href="#getupdates">
 							getUpdates
 						</a>
@@ -866,7 +866,7 @@
 									<em>
 										Optional
 									</em>
-									. New incoming message of any kind — text, photo, sticker, etc.
+									. New incoming message of any kind - text, photo, sticker, etc.
 								</td>
 							</tr>
 							<tr>
@@ -898,7 +898,7 @@
 									<em>
 										Optional
 									</em>
-									. New incoming channel post of any kind — text, photo, sticker, etc.
+									. New incoming channel post of any kind - text, photo, sticker, etc.
 								</td>
 							</tr>
 							<tr>
@@ -1343,7 +1343,7 @@
 									Optional
 								</td>
 								<td>
-									Maximum allowed number of simultaneous HTTPS connections to the webhook for update delivery, 1-100. Defaults to
+									The maximum allowed number of simultaneous HTTPS connections to the webhook for update delivery, 1-100. Defaults to
 									<em>
 										40
 									</em>
@@ -1532,7 +1532,7 @@
 						WebhookInfo
 					</h4>
 					<p>
-						Contains information about the current status of a webhook.
+						Describes the current status of a webhook.
 					</p>
 					<table class="table">
 						<thead>
@@ -1652,7 +1652,7 @@
 									<em>
 										Optional
 									</em>
-									. Maximum allowed number of simultaneous HTTPS connections to the webhook for update delivery
+									. The maximum allowed number of simultaneous HTTPS connections to the webhook for update delivery
 								</td>
 							</tr>
 							<tr>
@@ -2030,7 +2030,11 @@
 									<em>
 										Optional
 									</em>
-									. True, if privacy settings of the other party in the private chat allows to use
+									.
+									<em>
+										True
+									</em>
+									, if privacy settings of the other party in the private chat allows to use
 									<code>
 										tg://user?id=<user_id>
 									</code>
@@ -2164,7 +2168,11 @@
 									<em>
 										Optional
 									</em>
-									. True, if messages from the chat can't be forwarded to other chats. Returned only in
+									.
+									<em>
+										True
+									</em>
+									, if messages from the chat can't be forwarded to other chats. Returned only in
 									<a href="#getchat">
 										getChat
 									</a>
@@ -2316,7 +2324,7 @@
 									<em>
 										Optional
 									</em>
-									. Sender of the message, sent on behalf of a chat. For example, the channel itself for channel posts, the supergroup itself for messages from anonymous group administrators, the linked channel for messages automatically forwarded to the discussion group.  For backward compatibility, the field
+									. Sender of the message, sent on behalf of a chat. For example, the channel itself for channel posts, the supergroup itself for messages from anonymous group administrators, the linked channel for messages automatically forwarded to the discussion group. For backward compatibility, the field
 									<em>
 										from
 									</em>
@@ -2446,7 +2454,11 @@
 									<em>
 										Optional
 									</em>
-									. True, if the message is a channel post that was automatically forwarded to the connected discussion group
+									.
+									<em>
+										True
+									</em>
+									, if the message is a channel post that was automatically forwarded to the connected discussion group
 								</td>
 							</tr>
 							<tr>
@@ -2510,7 +2522,11 @@
 									<em>
 										Optional
 									</em>
-									. True, if the message can't be forwarded
+									.
+									<em>
+										True
+									</em>
+									, if the message can't be forwarded
 								</td>
 							</tr>
 							<tr>
@@ -4025,7 +4041,7 @@
 									<em>
 										Optional
 									</em>
-									. Mime type of the file as defined by sender
+									. MIME type of the file as defined by sender
 								</td>
 							</tr>
 							<tr>
@@ -4810,7 +4826,7 @@
 									<em>
 										Optional
 									</em>
-									. Maximum distance for proximity alerts about approaching another chat member, in meters. For sent live locations only.
+									. The maximum distance for proximity alerts about approaching another chat member, in meters. For sent live locations only.
 								</td>
 							</tr>
 						</tbody>
@@ -4945,7 +4961,7 @@
 						WebAppData
 					</h4>
 					<p>
-						Contains data sent from a
+						Describes data sent from a
 						<a href="/bots/webapps">
 							Web App
 						</a>
@@ -4989,7 +5005,7 @@
 									<em>
 										web_app
 									</em>
-									keyboard button, from which the Web App was opened. Be aware that a bad client can send arbitrary data in this field.
+									keyboard button from which the Web App was opened. Be aware that a bad client can send arbitrary data in this field.
 								</td>
 							</tr>
 						</tbody>
@@ -5295,7 +5311,7 @@
 					</p>
 					<blockquote>
 						<p>
-							Maximum file size to download is 20 MB
+							The maximum file size to download is 20 MB
 						</p>
 					</blockquote>
 					<table class="table">
@@ -5377,7 +5393,7 @@
 						WebAppInfo
 					</h4>
 					<p>
-						Contains information about a
+						Describes a
 						<a href="/bots/webapps">
 							Web App
 						</a>
@@ -5494,7 +5510,7 @@
 									<em>
 										Optional
 									</em>
-									. Requests clients to hide the keyboard as soon as it's been used. The keyboard will still be available, but clients will automatically display the usual letter-keyboard in the chat – the user can press a special button in the input field to see the custom keyboard again. Defaults to
+									. Requests clients to hide the keyboard as soon as it's been used. The keyboard will still be available, but clients will automatically display the usual letter-keyboard in the chat - the user can press a special button in the input field to see the custom keyboard again. Defaults to
 									<em>
 										false
 									</em>
@@ -6041,7 +6057,7 @@
 									<em>
 										Optional
 									</em>
-									. If set, pressing the button will prompt the user to select one of their chats, open that chat and insert the bot's username and the specified inline query in the input field. Can be empty, in which case just the bot's username will be inserted.
+									. If set, pressing the button will prompt the user to select one of their chats, open that chat and insert the bot's username and the specified inline query in the input field. May be empty, in which case just the bot's username will be inserted.
 									<br>
 									<br>
 									<strong>
@@ -6057,7 +6073,7 @@
 											switch_pm…
 										</em>
 									</a>
-									actions – in this case the user will be automatically returned to the chat they switched from, skipping the chat selection screen.
+									actions - in this case the user will be automatically returned to the chat they switched from, skipping the chat selection screen.
 								</td>
 							</tr>
 							<tr>
@@ -6071,10 +6087,10 @@
 									<em>
 										Optional
 									</em>
-									. If set, pressing the button will insert the bot's username and the specified inline query in the current chat's input field. Can be empty, in which case only the bot's username will be inserted.
+									. If set, pressing the button will insert the bot's username and the specified inline query in the current chat's input field. May be empty, in which case only the bot's username will be inserted.
 									<br>
 									<br>
-									This offers a quick way for the user to open your bot in inline mode in the same chat – good for selecting something from multiple options.
+									This offers a quick way for the user to open your bot in inline mode in the same chat - good for selecting something from multiple options.
 								</td>
 							</tr>
 							<tr>
@@ -6404,7 +6420,7 @@
 									<em>
 										Optional
 									</em>
-									. Data associated with the callback button. Be aware that the message, from which originated the query, can contain no callback buttons with this data.
+									. Data associated with the callback button. Be aware that the message originated the query can contain no callback buttons with this data.
 								</td>
 							</tr>
 							<tr>
@@ -6549,7 +6565,7 @@
 							<a href="#forcereply">
 								ForceReply
 							</a>
-							in your bot's questions, it will receive the user's answers even if it only receives replies, commands and mentions — without any extra work for the user.
+							in your bot's questions, it will receive the user's answers even if it only receives replies, commands and mentions - without any extra work for the user.
 						</p>
 					</blockquote>
 					<h4>
@@ -6753,7 +6769,7 @@
 									<em>
 										Optional
 									</em>
-									. Maximum number of users that can be members of the chat simultaneously after joining the chat via this invite link; 1-99999
+									. The maximum number of users that can be members of the chat simultaneously after joining the chat via this invite link; 1-99999
 								</td>
 							</tr>
 							<tr>
@@ -8875,7 +8891,7 @@
 						ResponseParameters
 					</h4>
 					<p>
-						Contains information about why a request was unsuccessful.
+						Describes why a request was unsuccessful.
 					</p>
 					<table class="table">
 						<thead>
@@ -9008,7 +9024,7 @@
 								<td>
 									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -9115,7 +9131,7 @@
 								<td>
 									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -9135,7 +9151,7 @@
 									</em>
 									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -9302,7 +9318,7 @@
 								<td>
 									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -9322,7 +9338,7 @@
 									</em>
 									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -9471,7 +9487,7 @@
 								<td>
 									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -9491,7 +9507,7 @@
 									</em>
 									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -9640,7 +9656,7 @@
 								<td>
 									File to send. Pass a file_id to send a file that exists on the Telegram servers (recommended), pass an HTTP URL for Telegram to get a file from the Internet, or pass “attach://<file_attach_name>” to upload a new one using multipart/form-data under <file_attach_name> name.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -9660,7 +9676,7 @@
 									</em>
 									. Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -10222,7 +10238,7 @@
 					<p>
 						Message entities can be nested, providing following restrictions are met:
 						<br>
-						- If two entities have common characters then one of them is fully contained inside another.
+						- If two entities have common characters, then one of them is fully contained inside another.
 						<br>
 						-
 						<em>
@@ -10998,7 +11014,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Photo to send. Pass a file_id as String to send a photo that exists on the Telegram servers (recommended), pass an HTTP URL as a String for Telegram to get a photo from the Internet, or upload a new photo using multipart/form-data. The photo must be at most 10 MB in size. The photo's width and height must not exceed 10000 in total. Width and height ratio must be at most 20.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -11233,7 +11249,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Audio file to send. Pass a file_id as String to send an audio file that exists on the Telegram servers (recommended), pass an HTTP URL as a String for Telegram to get an audio file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -11347,7 +11363,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -11519,7 +11535,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									File to send. Pass a file_id as String to send a file that exists on the Telegram servers (recommended), pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -11539,7 +11555,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -11723,7 +11739,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						sendVideo
 					</h4>
 					<p>
-						Use this method to send video files, Telegram clients support mp4 videos (other formats may be sent as
+						Use this method to send video files, Telegram clients support MPEG4 videos (other formats may be sent as
 						<a href="#document">
 							Document
 						</a>
@@ -11785,7 +11801,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Video to send. Pass a file_id as String to send a video that exists on the Telegram servers (recommended), pass an HTTP URL as a String for Telegram to get a video from the Internet, or upload a new video using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -11847,7 +11863,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -12093,7 +12109,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Animation to send. Pass a file_id as String to send an animation that exists on the Telegram servers (recommended), pass an HTTP URL as a String for Telegram to get an animation from the Internet, or upload a new animation using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -12155,7 +12171,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -12391,7 +12407,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Audio file to send. Pass a file_id as String to send a file that exists on the Telegram servers (recommended), pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -12575,7 +12591,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						<a href="https://telegram.org/blog/video-messages-and-telescope">
 							v.4.0
 						</a>
-						, Telegram clients support rounded square mp4 videos of up to 1 minute long. Use this method to send video messages. On success, the sent
+						, Telegram clients support rounded square MPEG4 videos of up to 1 minute long. Use this method to send video messages. On success, the sent
 						<a href="#message">
 							Message
 						</a>
@@ -12633,7 +12649,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Video note to send. Pass a file_id as String to send a video note that exists on the Telegram servers (recommended) or upload a new video using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 									. Sending video notes by a URL is currently unsupported
 								</td>
@@ -12682,7 +12698,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -13346,7 +13362,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									Optional
 								</td>
 								<td>
-									Maximum distance for proximity alerts about approaching another chat member, in meters. Must be between 1 and 100000 if specified.
+									The maximum distance for proximity alerts about approaching another chat member, in meters. Must be between 1 and 100000 if specified.
 								</td>
 							</tr>
 							<tr>
@@ -14775,7 +14791,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						getFile
 					</h4>
 					<p>
-						Use this method to get basic info about a file and prepare it for downloading. For the moment, bots can download files of up to 20MB in size. On success, a
+						Use this method to get basic information about a file and prepare it for downloading. For the moment, bots can download files of up to 20MB in size. On success, a
 						<a href="#file">
 							File
 						</a>
@@ -14822,7 +14838,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									Yes
 								</td>
 								<td>
-									File identifier to get info about
+									File identifier to get information about
 								</td>
 							</tr>
 						</tbody>
@@ -15857,7 +15873,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									Optional
 								</td>
 								<td>
-									Maximum number of users that can be members of the chat simultaneously after joining the chat via this invite link; 1-99999
+									The maximum number of users that can be members of the chat simultaneously after joining the chat via this invite link; 1-99999
 								</td>
 							</tr>
 							<tr>
@@ -15990,7 +16006,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									Optional
 								</td>
 								<td>
-									Maximum number of users that can be members of the chat simultaneously after joining the chat via this invite link; 1-99999
+									The maximum number of users that can be members of the chat simultaneously after joining the chat via this invite link; 1-99999
 								</td>
 							</tr>
 							<tr>
@@ -17206,7 +17222,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="https://t.me/botfather">
 										@BotFather
 									</a>
-									, specify the URL that opens your game — note that this will only work if the query comes from a
+									, specify the URL that opens your game - note that this will only work if the query comes from a
 									<a href="#inlinekeyboardbutton">
 										<em>
 											callback_game
@@ -18998,7 +19014,7 @@ pre-formatted fixed-width code block written in the Python programming language
 								<td>
 									Sticker to send. Pass a file_id as String to send a file that exists on the Telegram servers (recommended), pass an HTTP URL as a String for Telegram to get a .WEBP file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -19224,7 +19240,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									</strong>
 									image with the sticker, must be up to 512 kilobytes in size, dimensions must not exceed 512px, and either width or height must be exactly 512px.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -19311,7 +19327,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										animals
 									</em>
-									). Can contain only english letters, digits and underscores. Must begin with a letter, can't contain consecutive underscores and must end in
+									). Can contain only English letters, digits and underscores. Must begin with a letter, can't contain consecutive underscores and must end in
 									<code>
 										"_by_<bot_username>"
 									</code>
@@ -19359,7 +19375,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									</em>
 									as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -19562,7 +19578,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									</em>
 									as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 								</td>
 							</tr>
@@ -19862,7 +19878,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									</em>
 									as a String to send a file that already exists on the Telegram servers, pass an HTTP URL as a String for Telegram to get a file from the Internet, or upload a new one using multipart/form-data.
 									<a href="#sending-files">
-										More info on Sending Files »
+										More information on Sending Files »
 									</a>
 									. Animated sticker set thumbnails can't be uploaded via HTTP URL.
 								</td>
@@ -19982,7 +19998,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										Optional
 									</em>
-									. Type of the chat, from which the inline query was sent. Can be either “sender” for a private chat with the inline query sender, “private”, “group”, “supergroup”, or “channel”. The chat type should be always known for requests sent from official clients and most third-party clients, unless the request was sent from a secret chat
+									. Type of the chat from which the inline query was sent. Can be either “sender” for a private chat with the inline query sender, “private”, “group”, “supergroup”, or “channel”. The chat type should be always known for requests sent from official clients and most third-party clients, unless the request was sent from a secret chat
 								</td>
 							</tr>
 							<tr>
@@ -21016,7 +21032,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									String
 								</td>
 								<td>
-									A valid URL for the MP4 file. File size must not exceed 1MB
+									A valid URL for the MPEG4 file. File size must not exceed 1MB
 								</td>
 							</tr>
 							<tr>
@@ -21276,7 +21292,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									String
 								</td>
 								<td>
-									Mime type of the content of the video URL, “text/html” or “video/mp4”
+									MIME type of the content of the video URL, “text/html” or “video/mp4”
 								</td>
 							</tr>
 							<tr>
@@ -21981,7 +21997,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									String
 								</td>
 								<td>
-									Mime type of the content of the file, either “application/pdf” or “application/zip”
+									MIME type of the content of the file, either “application/pdf” or “application/zip”
 								</td>
 							</tr>
 							<tr>
@@ -23254,7 +23270,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									String
 								</td>
 								<td>
-									A valid file identifier for the MP4 file
+									A valid file identifier for the MPEG4 file
 								</td>
 							</tr>
 							<tr>
@@ -25197,7 +25213,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						SentWebAppMessage
 					</h4>
 					<p>
-						Contains information about an inline message sent by a
+						Describes an inline message sent by a
 						<a href="/bots/webapps">
 							Web App
 						</a>
@@ -26220,7 +26236,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									String
 								</td>
 								<td>
-									ISO 3166-1 alpha-2 country code
+									Two-letter ISO 3166-1 alpha-2 country code
 								</td>
 							</tr>
 							<tr>
@@ -26541,7 +26557,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										Optional
 									</em>
-									. Order info provided by the user
+									. Order information provided by the user
 								</td>
 							</tr>
 							<tr>
@@ -26780,7 +26796,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										Optional
 									</em>
-									. Order info provided by the user
+									. Order information provided by the user
 								</td>
 							</tr>
 						</tbody>
@@ -26810,7 +26826,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						PassportData
 					</h4>
 					<p>
-						Contains information about Telegram Passport data shared with the bot by the user.
+						Describes Telegram Passport data shared with the bot by the user.
 					</p>
 					<table class="table">
 						<thead>
@@ -26935,7 +26951,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						EncryptedPassportElement
 					</h4>
 					<p>
-						Contains information about documents or other Telegram Passport elements shared with the bot by the user.
+						Describes documents or other Telegram Passport elements shared with the bot by the user.
 					</p>
 					<table class="table">
 						<thead>
@@ -27135,7 +27151,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						EncryptedCredentials
 					</h4>
 					<p>
-						Contains data required for decrypting and authenticating
+						Describes data required for decrypting and authenticating
 						<a href="#encryptedpassportelement">
 							EncryptedPassportElement
 						</a>
@@ -28609,7 +28625,7 @@ pre-formatted fixed-width code block written in the Python programming language
 					</p>
 					<blockquote>
 						<p>
-							This method will currently return scores for the target user, plus two of their closest neighbors on each side. Will also return the top three users if the user and his neighbors are not among them. Please note that this behavior is subject to change.
+							This method will currently return scores for the target user, plus two of their closest neighbors on each side. Will also return the top three users if the user and their neighbors are not among them. Please note that this behavior is subject to change.
 						</p>
 					</blockquote>
 					<table class="table">
