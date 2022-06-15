@@ -227,7 +227,7 @@ Apple Accessibility
     Live Listen
     ----------
 
-    Live Listen can help you hear conversations in loud settings, or amplify someone speaking across the room, by sending audio from iPhone or iPad to supported wireless headphones or Made for iPhone hearing aids. Live Listen now supports noise cancellation to better distinguish speakers’ voices from background noise.
+    Live Listen can help you hear conversations in loud settings, or amplify someone speaking across the room, by sending audio from iPhone or iPad to supported wireless headphones or Made for iPhone hearing aids.
 
     Set up Live Listen on:
 
