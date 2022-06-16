@@ -315,8 +315,6 @@ sites:
       - html_url_canonicalize
       - html_markdownify
   - url:
-      - "https://docs.bigbluebutton.org/2.3/install.html"
-      - "https://docs.bigbluebutton.org/2.3/new.html"
       - "https://docs.bigbluebutton.org/2.4/install.html"
       - "https://docs.bigbluebutton.org/2.4/new.html"
       - "https://docs.bigbluebutton.org/2.5/install.html"
