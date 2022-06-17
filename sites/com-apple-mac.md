@@ -17,11 +17,10 @@ New MacBook Pro 13”
 
 Pro anywhere.
 
-[View pricing](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_13)
+[Order now](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_13)
 
 [Learn more](https://www.apple.com/macbook-pro-13/)
 
-Order starting at 5 a.m. PDT on 6.17
 Available starting 6.24
 
 Which Mac is
@@ -133,7 +132,7 @@ New
 
 ### MacBook Pro 13” ###
 
-[View pricing](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_13)
+[Order now](https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_13)
 
 [Learn more](https://www.apple.com/macbook-pro-13/)
 
