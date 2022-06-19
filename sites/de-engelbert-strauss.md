@@ -1,3 +1,28 @@
+e.s.tool concept
+
+==========
+
+---
+
+Werkzeugtaschen
+mit System
+
+----------
+
+---
+
+Unzählige Kombinationen und der innovative Schnell-Wechsel: Mit e.s.tool concept geht´s perfekt ausgestattet in jeden Job.
+
+[Mehr erfahren](https://www.engelbert-strauss.de/tool-concept?ItemOrigin=StartFS22)
+
+Alle Produkte
+
+[e.s.tool concept](https://www.engelbert-strauss.de/#!start/slide1)
+
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
+
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide3)
+
 Leichtigkeit im casual style
 
 ==========
@@ -15,11 +40,11 @@ Entdecken Sie den lässigen Cargo-Style unserer vintage Kollektion in einem völ
 
 [Mehr erfahren](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/?ItemOrigin=StartFS22)
 
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s.tool concept](https://www.engelbert-strauss.de/#!start/slide1)
 
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide3)
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide3)
 
 next generation
 
@@ -38,33 +63,11 @@ Neu im Team der Worker-Sneaker: Die extra leichten Allroundschuhe e.s. Bani next
 
 [Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten?ItemOrigin=StartFS22)
 
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s.tool concept](https://www.engelbert-strauss.de/#!start/slide1)
 
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
+[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
 
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide3)
-
-FUNKTIONS-WORKWEAR IM RACE-DESIGN
-
-==========
-
----
-
-e.s.trail
-
-----------
-
----
-
-Die e.s.trail Kollektion kombiniert High-End Fasern, Komfort und Outdoor-Toughness. So vielseitig und flexibel kann Workwear sein!
-
-[Mehr erfahren](https://www.engelbert-strauss.de/trail?ItemOrigin=StartFS22)
-
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide1)
-
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide2)
-
-[e.s.trail](https://www.engelbert-strauss.de/#!start/slide3)
+[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide3)
 
  Workwear-Looks für heiße Arbeitstage
 ---
