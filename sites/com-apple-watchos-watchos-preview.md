@@ -5,15 +5,15 @@ Extremely insightful.
 Exceptionally personal.
 ----------
 
-watchOS 9 gives you even more to go on. A Workout app
- packed with more features than ever. A new Medications app, along with greater insights into your sleep and heart health. And more watch faces with more personalization to keep everything that’s close to your heart close at hand. [Watch the event](https://www.apple.com/apple-events/)
+ watchOS 9 gives you even more to go on. A Workout app
+ packed with more features than ever. A new Medications app, along with greater insights into your sleep and heart health. And more watch faces with more personalization to keep everything that’s close to your heart close at hand. Coming this fall [Watch the event](https://www.apple.com/apple-events/)
 
 Workout
 ----------
 
-#### New Workout Views. Take it all in. Go all out. ####
+#### New Workout Views ####
 
-The display now lets you see more while working out. Just turn the Digital Crown for new views of metrics like Activity rings, Heart Rate Zones, Power and Elevation.
+The display now lets you see more while working out. Just turn the Digital Crown for new views of metrics like Activity rings, Heart Rate Zones, Power, and Elevation.
 
 #### Heart Rate Zones ####
 
@@ -27,7 +27,7 @@ Tailor work and recovery intervals to suit your training style. Receive alerts f
 
 Instant feedback to know if you’re on pace to meet your goal. And dynamic pacing to help you get there.
 
-#### Race a Route. Repeat it and beat it. ####
+#### Race a Route ####
 
 If it’s an Outdoor Run or Cycle workout you do often, you can choose to race against your last or best result and receive in-the-moment updates to help you get there.
 
@@ -39,7 +39,7 @@ Add Stride Length, Ground Contact Time, and Vertical Oscillation to your Workout
 
 An instantaneous measure of your effort, Running Power helps you stay at a level you can sustain.
 
-#### Multisport. Singularly awesome for triathletes. ####
+#### Multisport ####
 
 Automatically transition between swim, bike, and run
 
@@ -105,7 +105,7 @@ Now you can customize your watch face with a wide range of colors and gradients 
 AFib History
 ----------
 
-#### Track the time your heart shows signs of AFib. ####
+#### Track the time your heart shows signs of AFib ####
 
 If you’ve been diagnosed with atrial fibrillation, turn on AFib History to see an estimate of how frequently your heart is in this arrhythmia. It’s important because it may relate to your risk of serious complications.
 
@@ -202,7 +202,7 @@ later and one of the following Apple Watch models:
 * Apple Watch Series 6
 * Apple Watch Series 7
 
-Not all features are available on all devices, regions or languages.
+Not all features are available on all devices or in all regions or languages.
 
 #### See more of yourself in Health. ####
 

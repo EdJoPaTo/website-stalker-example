@@ -1,29 +1,3 @@
-Threads of
-
-==========
-
-Celebrate all year long with new
- Pride Edition watch bands and faces.
-
-* ### New ###
-
-  #### Pride Edition Sport Loop ####
-
-  [Buy](https://www.apple.com/us/shop/goto/product/MN6L3)
-
-* ### New ###
-
-  #### Pride Edition Nike Sport Loop ####
-
-  [Buy](https://www.apple.com/us/shop/goto/product/MN6N3)
-
-* ### Open this page on your iPhone
-   to download the watch face. ###
-
-  [Add Apple Watch face](https://www.apple.com/v/watch/aw/downloads/PrideThreads.watchface)
-
-  Requires Apple Watch Series 4 or later with watchOS 8.6, and iPhone 6s or later with iOS 15.5.
-
 Apple Watch Series 7
 ----------
 
@@ -171,6 +145,32 @@ watchOS 9
 Extremely insightful. Exceptionally personal.
 
 [See the preview](https://www.apple.com/watchos/watchos-preview/)
+
+Threads of
+
+==========
+
+Celebrate all year long with new
+ Pride Edition watch bands and faces.
+
+* ### New ###
+
+  #### Pride Edition Sport Loop ####
+
+  [Buy](https://www.apple.com/us/shop/goto/product/MN6L3)
+
+* ### New ###
+
+  #### Pride Edition Nike Sport Loop ####
+
+  [Buy](https://www.apple.com/us/shop/goto/product/MN6N3)
+
+* ### Open this page on your iPhone
+   to download the watch face. ###
+
+  [Add Apple Watch face](https://www.apple.com/v/watch/ax/downloads/PrideThreads.watchface)
+
+  Requires Apple Watch Series 4 or later with watchOS 8.6, and iPhone 6s or later with iOS 15.5.
 
 Family Setup
 ----------
