@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>700 Million Users and Telegram Premium</title>
+			<link>https://telegram.org/blog/700-million-and-premium</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<a class="dev_blog_card_link_wrap" href="/blog/700-million-and-premium">
+			<div class="dev_blog_card_wrap">
+				<img class="dev_blog_card_image" src="https://telegram.org/file/464001006/1044e/ZDyna5YyQwE.51909/a7532c511d9bab9ea9">
+				<div class="dev_blog_card_alltext_wrap">
+					<h4 class="dev_blog_card_title">
+						700 Million Users and Telegram Premium
+					</h4>
+					<div class="dev_blog_card_lead">
+						Telegram now has over 700 million monthly active users. Today we're launching Telegram Premium – a subscription that lets you support Telegram's continued development and gives access…
+					</div>
+				</div>
+				<div class="dev_blog_card_date">
+					Jun 21, 2022
+				</div>
+			</div>
+		</a>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Notification Sounds, Bot Revolution and More</title>
 			<link>https://telegram.org/blog/notifications-bots</link>
 			<content:encoded><![CDATA[<html>
@@ -493,32 +519,6 @@
 				</div>
 				<div class="dev_blog_card_date">
 					Aug 14, 2020
-				</div>
-			</div>
-		</a>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Profile Videos, 2 GB File Sharing, Group Stats, Improved People Nearby and More</title>
-			<link>https://telegram.org/blog/profile-videos-people-nearby-and-more</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<a class="dev_blog_card_link_wrap" href="/blog/profile-videos-people-nearby-and-more">
-			<div class="dev_blog_card_wrap">
-				<img class="dev_blog_card_image" src="https://telegram.org/file/464001840/2/LFAUy_p-pXo.79318/d12a4155cb4fcb2735">
-				<div class="dev_blog_card_alltext_wrap">
-					<h4 class="dev_blog_card_title">
-						Profile Videos, 2 GB File Sharing, Group Stats, Improved People Nearby and More
-					</h4>
-					<div class="dev_blog_card_lead">
-						Today's update brings Profile Videos along with improved People Nearby features, unlimited file sharing with up to 2 Gigabytes per file…
-					</div>
-				</div>
-				<div class="dev_blog_card_date">
-					Jul 26, 2020
 				</div>
 			</div>
 		</a>
