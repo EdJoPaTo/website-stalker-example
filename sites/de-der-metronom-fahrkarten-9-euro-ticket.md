@@ -53,7 +53,11 @@ Kinder unter 6 Jahren fahren grundsätzlich mit dem *metronom* kostenfrei. Das b
 
 #### [Kann ich mit dem 9-Euro-Ticket meine/n Partner/in, meine Kinder, meinen Hund, mein Fahrrad o.ä. mitnehmen?](https://www.der-metronom.de/fahrkarten/9-euro-ticket/#faq-8)  ####
 
-Das 9-Euro-Ticket gilt immer nur für die Person, für die es ausgestellt wurde. Es können Kinder unter sechs Jahren, ein Kinderwagen und Gepäck kostenfrei mitgenommen werden. Weitere Personen, Hunde oder Fahrräder können mit dem 9-Euro-Ticket nicht kostenfrei mitgenommen werden. Wir gehen von einem deutlich erhöhten Fahrgastaufkommen im Aktionszeitraum aus, daher nehmt bitte an Gepäck nur mit, was ihr wirklich unbedingt dabeihaben müsst und prüft, ob ihr nicht auch einfach am Zielort ein Fahrrad ausleihen könnt.
+Das 9-Euro-Ticket gilt immer nur für die Person, für die es ausgestellt wurde. Es können Kinder unter sechs Jahren, ein Kinderwagen und Gepäck kostenfrei mitgenommen werden. Weitere Personen oder Fahrräder können mit dem 9-Euro-Ticket nicht kostenfrei mitgenommen werden.
+
+Für Fahrten innerhalb des Gebiets eines Verkehrsverbundes richtet sich die Mitnahmeregelung für Hunde auch mit dem 9-Euro-Ticket nach den Regeln des jeweiligen Verkehrsverbundes. Werden während der Fahrt verschiedene Tarifgebiete durchfahren, ist gegebenenfalls eine reguläre Fahrkarte zum halben Preis (Kinderfahrkarte) für den Hund zu lösen. Wann dies der Fall ist, ist in den [Beförderungsbedingungen & Tarifbestimmungen](https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/#tc-4) der metronom Eisenbahngesellschaft mbH geregelt.
+
+Wir gehen von einem deutlich erhöhten Fahrgastaufkommen im Aktionszeitraum aus, daher nehmt bitte generell an Gepäck nur mit, was ihr wirklich unbedingt dabeihaben müsst und prüft, ob ihr nicht auch einfach am Zielort ein Fahrrad ausleihen könnt.
 
 Für Fahrgäste mit bereits bestehendem Abo ändert sich an den Mitnahmebedingungen in ihrem vertraglich abgeschlossenen Tarif- bzw. Bediengebiet nichts.
 
