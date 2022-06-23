@@ -1,7 +1,9 @@
 Install
 ----------
 
-BigBlueButton 2.5 is under active development. We have tools to make it easy for you, a system administrator, to install BigBlueButton on a dedicated linux server. This document shows you how to install.
+The latest version of [BigBlueButton](https://docs.bigbluebutton.org/) is 2.5 (referred hereafter as simply BigBlueButton).
+
+BigBlueButton 2.5 is production ready. We have tools to make it easy for you, a system administrator, to install BigBlueButton on a dedicated Linux server. This document shows you how to install.
 
 Before you install
 ==========
