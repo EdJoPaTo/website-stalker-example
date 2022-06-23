@@ -6,6 +6,28 @@
 		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>OpenTalk auf der innovaphone CONNECT am 30. Juni 2022</title>
+			<link>https://opentalk.eu/de/news/opentalk-auf-der-innovaphone-connect-am-30-juni-2022</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				23.06.2022
+			</time>
+		</div>
+		<div>
+			<div>
+				<p>
+					Auf der Messe hält OpenTalk-Gründer Peer Heinlein die Vorträge "Digital souveräne Videokonferenzen mit OpenTalk" und "How we built a new video conferencing solution with privacy by design".
+				</p>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Wir suchen Verstärkung für unser OpenTalk-Team</title>
 			<link>https://opentalk.eu/de/news/wir-suchen-verstaerkung-fuer-unser-opentalk-team</link>
 			<content:encoded><![CDATA[<html>
@@ -65,28 +87,6 @@
 			<div>
 				<p>
 					Vom 22.-24. März 2022 trifft sich die Branche zum Cloudfest im EUROPA-PARK in Rust. Auch OpenTalk wird als Aussteller vor Ort sein und freut sich auf viele gute Gespräche.
-				</p>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Vorträge auf den Chemnitzer Linux-Tagen vom 12.-13. März 2022</title>
-			<link>https://opentalk.eu/de/news/chemnitzer-linux-tage-vom-12-13-maerz-2022</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="pleaser__date">
-			<time>
-				04.02.2022
-			</time>
-		</div>
-		<div>
-			<div>
-				<p>
-					Unter dem Motto "Voll verteilt" treffen sich vom 12.-13. März 2022 wieder Linux-Profis und solche die es werden wollen, auf den virtuellen Chemnitzer Linux-Tagen. OpenTalk ist als Sponsor und Aussteller mit dabei und wird auch zwei Vorträge zu OpenTalk und der Technik hinter Videokonferenzlösungen halten.
 				</p>
 			</div>
 		</div>
