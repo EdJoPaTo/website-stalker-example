@@ -1,5 +1,5 @@
 The future of healthcare
-is in your hands.
+is in your hands.
 ==========
 
 Healthcare providers can deliver the best care when they have powerful, intuitive tools. Our technology helps them work effectively within hospitals, connect remotely with patients, and conduct groundbreaking medical research. The result is care that becomes more efficient, more personalized, and ultimately more human.
@@ -7,7 +7,7 @@ Healthcare providers can deliver the best care when they have powerful, intuitiv
 Apple in the hospital.
 ----------
 
-Our products transform the way doctors and nurses work with their patients. Apps on iPhone and iPad allow hospitals to work more efficiently. Clinicians to access health records and data right when they need them. Nurses to ensure better patient safety while administering medication. And patients to stay informed and engaged in their own care by communicating with their medical teams during hospital stays.
+Our products transform the way doctors and nurses work with their patients. Apps on iPhone and iPad allow hospitals to work more efficiently. Clinicians can access health records and data right when they need them. Nurses can ensure better patient safety while administering medication. And patients can stay informed and engaged in their own care by communicating with their medical teams during hospital stays.
 
 ---
 
@@ -19,12 +19,12 @@ Our products transform the way doctors and nurses work with their patients. Apps
 
 [Watch the video](https://www.apple.com/105/media/us/business/2015/6d4fa492_02f8_41e8_9da0_f8d2d46a3fc0/oschner/inpatient/ochsner-inpatient-cc-us-20151217_r848-9dwc.mov)
 
-### Building a vaccination
-program at UCHealth. ###
+### Building a vaccination program at UCHealth. ###
 
 [Watch the video](https://www.apple.com/105/media/us/healthcare/2021/ccd38ad2-d15c-45c7-aa18-84d6f0557c40/films/uc-health-animation/healthcare-uc-health-animation-tpl-us-2021_1280x720h.mp4)
 
-Continue patient care at home.
+Continue patient
+care at home.
 ----------
 
 At home, iOS and iPadOS apps enable patients to stay connected to their care teams between office visits. Healthcare organizations can use off-the-shelf apps or use CareKit to create apps that empower patients to manage their health. iPhone, Apple Watch, the Health app, and HealthKit-enabled apps and medical devices make it easy for patients to record their health data and share it with their care teams.
@@ -39,11 +39,10 @@ At home, iOS and iPadOS apps enable patients to stay connected to their care tea
 
 [Watch the video](https://www.apple.com/105/media/us/business/2015/6d4fa492_02f8_41e8_9da0_f8d2d46a3fc0/oschner/outpatient/ochsner-outpatient-cc-us-20151217_r848-9dwc.mov)
 
-Create custom apps
-for medical research.
+Create custom apps for medical research.
 ----------
 
-Medical researchers can take their studies into the real world by building apps with ResearchKit. The open source framework streamlines the process, making it easier for researchers to enroll participants, capture informed consent, and gather medical information more frequently, rather than only during periodic visits.
+Medical researchers can streamline their studies by building apps with ResearchKit. The open source framework makes it easier for researchers to enroll participants, capture informed consent, and gather medical information more frequently, rather than only during periodic visits.
 
 ---
 
@@ -75,4 +74,4 @@ The Health app makes it easier than ever for users to be engaged in their health
 Contact us.
 ----------
 
-Get expert help from the Apple Business team by calling 1-800-GO-APPLE
+Get expert help from the Apple Business team by calling 1‑800‑GO‑APPLE

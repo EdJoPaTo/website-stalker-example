@@ -22,13 +22,13 @@ The irregular rhythm notification occasionally checks for signs of irregular rhy
 
 Irregular rhythm notifications use the optical heart sensor to detect the pulse wave at the wrist and look for variability in beat‑to‑beat intervals when the user is at rest. If the algorithm repeatedly detects an irregular rhythm suggestive of AFib, your patient will receive a notification and the date, time, and beat‑to‑beat heart rate will be recorded in the Health app.
 
-The irregular notification feature has been granted De Novo classification by the FDA for users 22 years and older in the U.S. with no prior history of AFib.
+The irregular rhythm notification feature is FDA cleared for users 22 years or older with no prior history of atrial fibrillation.
 
 [Learn more about irregular rhythm notifications](https://support.apple.com/kb/HT208931)
 
 #### Validation of irregular rhythm notification feature. ####
 
-In 2017 and 2018, researchers at Stanford University School of Medicine worked with Apple to conduct the Apple Heart Study on the detection of atrial fibrillation, a heartbeat irregularity that is a leading cause of stroke and hospitalization. Over 400,000 Apple Watch users participated and helped validate the ability of wearable technology to aid in the early detection of this condition, which often goes undiagnosed. And the study led to the availability of the irregular rhythm notification that is now on Apple Watch.
+In 2017 and 2018, researchers at Stanford University School of Medicine worked with Apple to conduct the Apple Heart Study on the detection of atrial fibrillation, a heartbeat irregularity that is a leading cause of stroke and hospitalization. Over 400,000 Apple Watch users participated and helped validate the ability of wearable technology to aid in the early detection of this condition. The study led to the initial availability of the irregular rhythm notification. The feature was updated in early 2022 using advanced machine learning methods to improve the AFib identification algorithm.
 
 [See the results of the Apple Heart Study](https://www.nejm.org/doi/full/10.1056/NEJMoa1901183)
 
@@ -38,7 +38,7 @@ With the ECG app on Apple Watch Series 4 or later<sup><a href="https://www.ap
 
 The ECG app uses the electrical heart sensor built into the Digital Crown and the back crystal of Apple Watch Series 4 or later<sup><a href="https://www.apple.com/healthcare/apple-watch/#footnote-1">*</a></sup> to record a single lead ECG similar to a Lead I ECG. The ECG app then provides a result of sinus rhythm, atrial fibrillation, atrial fibrillation with high heart rate, or poor recording, and prompts the user to enter any symptoms such as rapid or pounding heartbeat, dizziness, or fatigue. The waveform, results, date, time, and any symptoms are recorded and can be exported from the Health app as a PDF to share with a clinician. If the patient notes symptoms that indicate a serious condition, they are prompted to immediately call emergency services.
 
-The updated ECG app with additional rhythm classification received 510(k) clearance from FDA for users 22 years or older.
+The ECG app is FDA cleared for users 22 years or older.
 
 [Learn more about the ECG app](https://support.apple.com/kb/HT208955)
 
@@ -69,11 +69,11 @@ The updated ECG app with additional rhythm classification received 510(k) cleara
 
 The ECG app waveform is similar to a Lead I ECG, which can enable classification of atrial fibrillation and sinus rhythm, but cannot identify other conditions, like heart attacks.
 
-After taking an ECG reading, the ECG app will check for sinus rhythm or AFib. If the heart rate is under 50 bpm or over 150 bpm, the app is unable to check for AFib, but will note the heart rate and save the ECG recording. The ECG app may provide an inconclusive result if, for example, there is presence of arrhythmias other than Afib, presence of an ICD or pacemaker, or poor electrical signal in the recording which can occur as a result of right axis deviation. The ECG app may also provide a poor recording result if there is poor signal due to motion artifacts or poor electrode contact.
+After taking an ECG reading, the ECG app will check for sinus rhythm or AFib. If the heart rate is under 50 bpm or over 150 bpm, the app is unable to check for AFib, but will note the heart rate and save the ECG recording. The ECG app may provide an inconclusive result if, for example, there is presence of arrhythmias other than AFib, presence of an ICD or pacemaker, or poor electrical signal in the recording which can occur as a result of right axis deviation. The ECG app may also provide a poor recording result if there is poor signal due to motion artifacts or poor electrode contact.
 
 In a clinical study, the rhythm classification by the ECG app of a single lead ECG on Apple Watch was compared to the rhythm classification by a cardiologist of a simultaneously collected 12-lead ECG. The ECG app demonstrated 99.3% specificity in classifying sinus rhythm and 98.5% sensitivity in classifying AFib for the classifiable results.
 
-[Learn more about arrhythmia detection (PDF)](https://www.apple.com/healthcare/docs/site/Apple_Watch_Arrhythmia_Detection.pdf)
+[Learn more about arrhythmia detection validation (PDF)](https://www.apple.com/healthcare/docs/site/Apple_Watch_Arrhythmia_Detection.pdf)
 
 * [Consectetur](https://www.apple.com/healthcare/apple-watch/#quote-gallery-item-1)
 * [Consectetur](https://www.apple.com/healthcare/apple-watch/#quote-gallery-item-2)
@@ -112,41 +112,52 @@ Compare Apple Watch Models.
 ----------
 
 *
-* **High Heart Rate Notification**
-* **Low Heart Rate Notification**
+* **High and Low Heart Rate Notifications**
 * **Irregular Rhythm Notification**
 * **ECG App**
+* **Low Cardio Fitness Notifications**
+* **Blood Oxygen Level**
 * **Fall Detection**
 
 * **Sensors**
-* Optical heart sensor / PPG
-* Optical heart sensor / PPG
-* Optical heart sensor / PPG
-* Electrical heart sensor / electrodes
-* Next generation accelerometer and gyroscope
+* Optical heart sensor
+* Optical heart sensor
+* Electrical heart sensor
+* Optical heart sensor and location
+* Optical heart sensor
+* Accelerometer and gyroscope
 
-* **Apple Watch Series 1, 2, 3**
-* High Heart Rate Notification Optical heart sensor / PPG
-* Low Heart Rate Notification Optical heart sensor / PPG
-* Irregular Rhythm Notification Optical heart sensor / PPG
-* ECG App Electrical heart sensor / electrodes
-* Fall Detection Next generation accelerometer and gyroscope
+* **Apple Watch Series 3**
+* High and Low Heart Rate Notifications Optical heart sensor
+* Irregular Rhythm Notification Optical heart sensor
+* ECG App Electrical heart sensor
+* Low Cardio Fitness Notifications Optical heart sensor and location
+* Blood Oxygen Level Optical heart sensor
+* Fall Detection Accelerometer and gyroscope
 
 * **Apple Watch SE**
-* High Heart Rate Notification Optical heart sensor / PPG
-* Low Heart Rate Notification Optical heart sensor / PPG
-* Irregular Rhythm Notification Optical heart sensor / PPG
-* ECG App Electrical heart sensor / electrodes
-* Fall Detection Next generation accelerometer and gyroscope
+* High and Low Heart Rate Notifications Optical heart sensor
+* Irregular Rhythm Notification Optical heart sensor
+* ECG App Electrical heart sensor
+* Low Cardio Fitness Notifications Optical heart sensor and location
+* Blood Oxygen Level Optical heart sensor
+* Fall Detection Accelerometer and gyroscope
 
-* **Apple Watch Series 4 or later**
-* High Heart Rate Notification Optical heart sensor / PPG
-* Low Heart Rate Notification Optical heart sensor / PPG
-* Irregular Rhythm Notification Optical heart sensor / PPG
-* ECG App Electrical heart sensor / electrodes
-* Fall Detection Next generation accelerometer and gyroscope
+* **Apple Watch Series 4 and 5**
+* High and Low Heart Rate Notifications Optical heart sensor
+* Irregular Rhythm Notification Optical heart sensor
+* ECG App Electrical heart sensor
+* Low Cardio Fitness Notifications Optical heart sensor and location
+* Blood Oxygen Level Optical heart sensor
+* Fall Detection Accelerometer and gyroscope
 
-Note: Original Apple Watch does not support these functions
+* **Apple Watch Series 6 or later**
+* High and Low Heart Rate Notifications Optical heart sensor
+* Irregular Rhythm Notification Optical heart sensor
+* ECG App Electrical heart sensor
+* Low Cardio Fitness Notifications Optical heart sensor and location
+* Blood Oxygen Level Optical heart sensor
+* Fall Detection Accelerometer and gyroscope
 
 Mobility and Cardio Fitness.
 ----------
@@ -161,11 +172,11 @@ Learn more about how these metrics were developed and validated:
 
 [Measuring Walking Quality Through iPhone Mobility Metrics (PDF)](https://www.apple.com/healthcare/docs/site/Measuring_Walking_Quality_Through_iPhone_Mobility_Metrics.pdf)
 
-### Fall Detection. ###
+### Fall detection. ###
 
-When a hard fall is detected with Apple Watch Series 4 or later, an alert appears and allows the user to easily call emergency services or dismiss the alert. If the user is unresponsive for about a minute, an emergency call will be placed automatically and a message will be sent to the user’s emergency contacts. All falls detected are recorded in the Health app. This feature is automatically enabled for users 55 years and older and can be turned on for anyone in the Apple Watch app on iPhone.
+When a hard fall is detected with Apple Watch Series 4 or later, an alert appears and allows the user to easily call emergency services or dismiss the alert. If the user is unresponsive for about a minute, an emergency call will be placed automatically and a message will be sent to the user’s emergency contacts. All falls detected are recorded in the Health app. This feature is automatically enabled for users 55 years and older and can be turned on for anyone in the Apple Watch app on iPhone.
 
-[Learn more about Fall Detection](https://support.apple.com/en-us/HT208944)
+[Learn more about fall detection](https://support.apple.com/en-us/HT208944)
 
 ### Medical ID. ###
 
