@@ -35,8 +35,8 @@ Aufgrund der zu erwartenden hohen Auslastung in den Zügen der RE3 bitten wir da
 Ergänzende Information zu den SEV Fahrplantabellen:
 
 * **Schnellbus**: Dieser Bus hält am Tage nur in Hamburg-Harburg, Stelle, Ashausen und Winsen und nachts verkehrt dieser bis nach Uelzen.
-* An den Wochenenden verkehrt planmäßig die Buslinie 647 zwischen Hittfeld, Maschen und Meckelfeld, sodass die Fahrgäste nachts mit der Linie RB41 von Hamburg bis nach Hittfeld fahren können und von dort mit der Buslinie 647 zu ihren Zielen Meckelfeld und Maschen gelangen.
-* Der normale **Bus** bedient alle Halte (Hamburg-Harburg, Meckelfeld, Maschen, Stelle, Ashausen und Winsen) und hält in Maschen an der Bushaltestelle am P+R-Parkplatz vorm Bahnhof.
+* An den **Wochenenden** verkehrt planmäßig die **Buslinie 647** zwischen Hittfeld, Maschen und Meckelfeld, sodass die Fahrgäste nachts mit der Linie RB41 von Hamburg bis nach Hittfeld fahren können und von dort mit der Buslinie 647 zu ihren Zielen Meckelfeld und Maschen gelangen.
+* Der normale **Bus** bedient alle Halte (Hamburg-Harburg, Meckelfeld, Maschen, Stelle, Ashausen und Winsen) und hält in Maschen an der Bushaltestelle am P+R-Parkplatz vor dem Bahnhof (ehemalige Haltestelle der Linie 248)
 * **Anschluss an 248**: Dieser SEV verkehrt zwischen Hamburg-Harburg und Meckelfeld. In Meckelfeld ist ein Umstieg in bzw. aus dem Bus der Linie 248 möglich. Die Linie 248 hält in Maschen Milchberg.
 * **RufMobil**: Für die Haltestellen Radbruch und Bardowick besteht bei telefonischer oder Online-Vorabanmeldung nachts die Möglichkeit, sich ein RufMobil zu bestellen: **[KVG Online-Bestellung Anruffahrten LK Harburg](https://www.kvg-bus.de/fahrplaene/landkreis-harburg/bedarfsorientierter-verkehr/online-bestellung-anruffahrten-lk-harburg/)****, Tel: 04161 / 6446-70, Anmeldefrist 60 Minuten vor Abfahrt!**
 * **Amazon**: Diese Busse verkehren nur zwischen Hamburg-Harburg und dem Werk von Amazon in Winsen (Luhe).
