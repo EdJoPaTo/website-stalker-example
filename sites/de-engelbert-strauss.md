@@ -1,23 +1,23 @@
-e.s.tool concept
+Neue Kollektion
 
 ==========
 
 ---
 
-Werkzeugtaschen
-mit System
+Metallica x
+strauss
 
 ----------
 
 ---
 
-Unzählige Kombinationen und der innovative Schnell-Wechsel: Mit e.s.tool concept geht´s perfekt ausgestattet in jeden Job.
+Rock Band trifft Work Brand. Zwei Headliner feiern ihre heiß ersehnte Zugabe mit einer brandneuen Kollektion. Let's rock!
 
-[Mehr erfahren](https://www.engelbert-strauss.de/tool-concept?ItemOrigin=StartFS22)
+[Jetzt kaufen](https://www.engelbert-strauss.de/s/suche?query=metallica)
 
-Alle Produkte
+[Mehr erfahren](https://www.engelbert-strauss.de/metallica-works?ItemOrigin=startseite_fs22)
 
-[e.s.tool concept](https://www.engelbert-strauss.de/#!start/slide1)
+[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide1)
 
 [e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
 
@@ -40,7 +40,7 @@ Entdecken Sie den lässigen Cargo-Style unserer vintage Kollektion in einem völ
 
 [Mehr erfahren](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/?ItemOrigin=StartFS22)
 
-[e.s.tool concept](https://www.engelbert-strauss.de/#!start/slide1)
+[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide1)
 
 [e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
 
@@ -63,11 +63,25 @@ Neu im Team der Worker-Sneaker: Die extra leichten Allroundschuhe e.s. Bani next
 
 [Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten?ItemOrigin=StartFS22)
 
-[e.s.tool concept](https://www.engelbert-strauss.de/#!start/slide1)
+[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide1)
 
 [e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
 
 [Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide3)
+
+ E.S.TOOL CONCEPT
+==========
+
+---
+
+###  Werkzeugtaschen
+mit System  ###
+
+---
+
+[Mehr erfahren](https://www.engelbert-strauss.de/tool-concept?ItemOrigin=StartFS22)
+
+Alle Produkte
 
  Workwear-Looks für heiße Arbeitstage
 ---
@@ -122,15 +136,6 @@ Shorts
  \+ UV-Schutzfaktor 50+ nach AS/NZS 4399:2017
 \+ atmungsaktiv und schnelltrocknend
 \+ leicht auf der Haut
-
-###  Metallica
- Works  ###
-
----
-
-[Hit the Stage](https://www.engelbert-strauss.de/metallica-works?ItemOrigin=startseite_fs22)
-
- Credit: Jeff Yeager
 
 ###  POP UP
 STORE  ###
