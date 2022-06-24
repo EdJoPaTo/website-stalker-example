@@ -143,32 +143,8 @@ sites:
   - url:
       - "https://www.apple.com/sitemap/"
       - "https://www.apple.com/de/sitemap/"
-      - "https://www.apple.com/mac/"
-      - "https://www.apple.com/ipad/"
-      - "https://www.apple.com/iphone/"
-      - "https://www.apple.com/watch/"
-      - "https://www.apple.com/airpods/"
-      - "https://www.apple.com/tv-home/"
-      - "https://www.apple.com/services/"
-      - "https://www.apple.com/airtag/"
-      - "https://www.apple.com/icloud/"
-      - "https://www.apple.com/accessibility/"
-      - "https://www.apple.com/environment/"
-      - "https://www.apple.com/diversity/"
-      - "https://www.apple.com/privacy/"
-      - "https://www.apple.com/apple-events/"
-      - "https://www.apple.com/healthcare/"
-      - "https://www.apple.com/healthcare/apple-watch/"
-      - "https://www.apple.com/healthcare/health-records/"
       - "https://www.apple.com/apple-pay/"
       - "https://www.apple.com/de/apple-pay/"
-      - "https://www.apple.com/macos/monterey/"
-      - "https://www.apple.com/ios/ios-15/"
-      - "https://www.apple.com/ios/ios-16-preview/"
-      - "https://www.apple.com/ipados/ipados-15/"
-      - "https://www.apple.com/ipados/ipados-16-preview/"
-      - "https://www.apple.com/watchos/watchos-8/"
-      - "https://www.apple.com/watchos/watchos-preview/"
       - "https://opensource.apple.com/"
       - "https://opensource.apple.com/projects/"
     editors:
@@ -308,22 +284,6 @@ sites:
     editors:
       - css_select: ".container .dev_page"
       - html_prettify
-
-  - url: "https://docs.bigbluebutton.org/"
-    editors:
-      - css_select: "#navigation, #content"
-      - html_url_canonicalize
-      - html_markdownify
-  - url:
-      - "https://docs.bigbluebutton.org/2.4/install.html"
-      - "https://docs.bigbluebutton.org/2.4/new.html"
-      - "https://docs.bigbluebutton.org/2.5/install.html"
-      - "https://docs.bigbluebutton.org/2.5/new.html"
-      - "https://docs.bigbluebutton.org/admin/privacy.html"
-    editors:
-      - css_select: "#content"
-      - html_url_canonicalize
-      - html_markdownify
 
   - url: "https://www.der-metronom.de/aktuell/"
     editors:
