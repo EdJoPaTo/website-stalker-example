@@ -1,2 +1,2 @@
-[PINEPHONE – Beta Edition Linux SmartPhone 149.99](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/) [PinePhone Pro Explorer Edition [Pre-order start on June 26, schedule delivered on July 18 week] 399.00](https://pine64.com/product/pinephone-pro-explorer-edition/) 
+[PINEPHONE – Beta Edition Linux SmartPhone 149.99](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/) [PinePhone Pro Explorer Edition [Scheduled to ship on July 18 week] 399.00](https://pine64.com/product/pinephone-pro-explorer-edition/) 
 [PINEPHONE – Beta Edition with Convergence Package Linux SmartPhone 199.99](https://pine64.com/product/pinephone-beta-edition-with-convergence-package/)
