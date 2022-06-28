@@ -6,23 +6,38 @@
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>Celebrating Days of Rainbow 2022</title>
-			<link>https://www.thatskygame.com/news/celebrating-days-of-rainbow-2022</link>
+			<title>Sky Assemblies Kicks Off in July!</title>
+			<link>https://www.thatskygame.com/news/sky-assemblies-kicks-off-in-july</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
 		<div class="article-content mt-5" data-v-1916c74b="">
 			<p class="article-date font-regular leading-tight mt-2 text-lg text-text-dark" data-v-1916c74b="">
-				2022-06-23T00:48:12.958Z
+				2022-06-27T23:52:03.676Z
 			</p>
 			<div class="intro leading-loose mt-10 text-content text-text-primary text-xl" data-v-1916c74b="">
 				<p>
-					Bright, vivid colors return overhead as we prepare to welcome Days of Rainbow! From June 30th through 23:59 July 13th (all times PDT, UTC-7), join Event Guide Spirits and fellow players to celebrate the brilliant mosaic that brings life to the world of Sky.
+					Hi Sky kids! We’re writing to you all today because we want to talk about our first Sky Assembly event, taking place on July 21 from 9 AM to 2 PM at Rose Park Roasters’ Pine Avenue location in Long Beach, California. We announced Sky Assemblies back at AnimeJapan in March and have been chomping at the bit to officially get it out in front of you all.
 				</p>
 			</div>
 			<p class="font-bold mt-5 text-xl uppercase" data-v-1916c74b="">
 				Read more
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Celebrating Days of Rainbow 2022</title>
+			<link>https://www.thatskygame.com/news/celebrating-days-of-rainbow-2022</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="article-content mt-5" data-v-63a4c7d0="">
+			<p class="article-date font-regular leading-tight mt-2 text-lg text-text-dark" data-v-63a4c7d0="">
+				2022-06-23T00:48:12.958Z
 			</p>
 		</div>
 	</body>
@@ -143,21 +158,6 @@
 		<div class="article-content mt-5" data-v-63a4c7d0="">
 			<p class="article-date font-regular leading-tight mt-2 text-lg text-text-dark" data-v-63a4c7d0="">
 				2022-03-27T07:05:47.776Z
-			</p>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Coming in 0.17.0: Shared Memories!</title>
-			<link>https://www.thatskygame.com/news/coming-in-0-17-0-shared-memories</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="article-content mt-5" data-v-63a4c7d0="">
-			<p class="article-date font-regular leading-tight mt-2 text-lg text-text-dark" data-v-63a4c7d0="">
-				2022-03-27T07:05:20.935Z
 			</p>
 		</div>
 	</body>
