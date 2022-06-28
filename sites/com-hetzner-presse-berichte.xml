@@ -6,6 +6,32 @@
 		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Flexible networking now also for Hetzner cloud servers</title>
+			<link>https://www.hetzner.com/presse-berichte/2022/06/167256</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Gunzenhausen/Germany – 28 June 2022
+				</small>
+			</p>
+			<h4>
+				Flexible networking now also for Hetzner cloud servers
+			</h4>
+			<p class="list-card-preview">
+				Today, Hetzner expanded the product set of its Cloud platform to include Primary IPs. With this new feature, customers can now choose from three different network options.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2022/06/167256">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Hetzner in the spotlight for the Readers’ Choice Service Provider Award</title>
 			<link>https://www.hetzner.com/presse-berichte/2022/06/167176</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Hetzner's Data Center Park in southern Tuusula will expand again with a new data center at the end of 2020.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/10/165434">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Platinum for Hetzner Online at the Service Provider Awards 2020</title>
-			<link>https://www.hetzner.com/presse-berichte/2020/09/165426</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Frankfurt am Main/Gunzenhausen, Germany – 02 September 2020
-				</small>
-			</p>
-			<h4>
-				Platinum for Hetzner Online at the Service Provider Awards 2020
-			</h4>
-			<p class="list-card-preview">
-				Hetzner Online achieved 1st place at the Service Provider Awards in the category Cloud Server.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/09/165426">
 				Show more
 			</a>
 		</li>

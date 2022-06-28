@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner Cloud: Flexible Networking</title>
+			<link>https://www.hetzner.com/news/06-22-flexibles-networking/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					28 June 2022
+				</small>
+			</p>
+			<h4>
+				Hetzner Cloud: Flexible Networking
+			</h4>
+			<p class="list-card-preview">
+				Three different network options are now available for cloud servers!
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/06-22-flexibles-networking/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>25 years of Hetzner - join the fun &amp; win one of 25 prizes!</title>
 			<link>https://www.hetzner.com/news/06-22-sweepstakes/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Our first location in the USA is live! Hetzner cloud servers are now available in Ashburn.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/11-21-usa-cloud/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>New Possibilities: Apple Mac mini M1</title>
-			<link>https://www.hetzner.com/news/10-21-apple-mac-mini-m1/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					19 October 2021
-				</small>
-			</p>
-			<h4>
-				New Possibilities: Apple Mac mini M1
-			</h4>
-			<p class="list-card-preview">
-				Get ready for Apple Mac mini M1 (2020) with 16GB RAM, 256GB SSD and optional 2x 1TB NVMe SSD.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/10-21-apple-mac-mini-m1/">
 				Show more
 			</a>
 		</li>
