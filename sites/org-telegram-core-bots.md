@@ -9,6 +9,17 @@ Bots are third-party applications that run inside Telegram. Users can interact w
 >
 >
 
+---
+
+>
+>
+> Telegram keeps evolving and adding new features, so this document may contain outdated information.
+> We expect to finish updating the FAQ, Bot Manuals, and other documents by the end of Summer 2022.
+>
+>
+
+---
+
 ### [](#1-what-can-i-do-with-bots)1. What can I do with bots? ###
 
 [![](/file/811140663/1/uHVzwsRJz3Y/a499733c59840694ca "A chat with a bot also showing search results from the @gif inline-bot")](/file/811140081/1/VldnlW70g2I/a140b0216e7d156ebc)
