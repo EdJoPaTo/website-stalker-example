@@ -83,6 +83,23 @@ mit System  ###
 
 Alle Produkte
 
+ Bis zu 49% sparen
+==========
+
+---
+
+###  SOMMER SALE  ###
+
+---
+
+Herren
+
+Damen
+
+Kinder
+
+[Alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest)
+
  Workwear-Looks für heiße Arbeitstage
 ---
 
