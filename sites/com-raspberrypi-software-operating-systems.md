@@ -151,16 +151,16 @@ Compatible with:
 
 * PC and Mac
 
-### Debian Buster with Raspberry Pi Desktop ###
+### Debian Bullseye with Raspberry Pi Desktop ###
 
-* Release date: January 11th 2021
+* Release date: July 1st 2022
 * System: 32-bit
-* Kernel version: 4.19
-* Debian version: 10 (buster)
-* Size: 2,948MB
+* Kernel version: 5.10
+* Debian version: 11 (bullseye)
+* Size: 3,440MB
 
-Show SHA256 file integrity hash:c78c8dca8ca80ffbac90f4cedfedb6793b37b06df307b0c87e778eef3842a9be
+Show SHA256 file integrity hash:5fa906df25e600bf7d7e6a5eb7b0e9b6605e60992ee6c8efe79bc99e7c2452bd
 
-[Download](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso)[Download torrent](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso.torrent)[Archive](https://downloads.raspberrypi.org/rpd_x86/images/)
+[Download](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso)[Download torrent](https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso.torrent)[Archive](https://downloads.raspberrypi.org/rpd_x86/images/)
 
 Note: Mathematica and the Wolfram Language are included in this release under license and with permission of Wolfram Research, Inc. and may be used for non-commercial purposes only. By using this software you agree to be bound by [the Wolfram Raspberry Pi Bundle License Agreement](http://www.wolfram.com/legal/agreements/wolfram-mathematica-raspberry-pi.html).
