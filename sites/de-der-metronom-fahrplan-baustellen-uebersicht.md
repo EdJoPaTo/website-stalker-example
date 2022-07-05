@@ -22,7 +22,7 @@ Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[11.06.2022 - 15.07.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
+[11.06.2022 - 04.08.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
 
 RE2 Uelzen - Celle - Hannover
 
