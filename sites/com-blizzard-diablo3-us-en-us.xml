@@ -6,6 +6,11 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Diablo III PTR 2.7.4 |Preview</title>
+			<link>https://us.diablo3.blizzard.com/en-us/blog/23826543/diablo-iii-ptr-274-%7Cpreview-7-8-2022</link>
+			<content:encoded><![CDATA[The Diablo III 2.7.4 PTR testing period begins on July 12 and will run for two weeks. Join us in testing a new seasonal theme, item changes, and more!]]></content:encoded>
+		</item>
+		<item>
 			<title>Diablo Hell&apos;s Ink Tattoo Shop Takeover Tour</title>
 			<link>https://news.blizzard.com/en-us/diablo4/23817876/diablo-hells-ink-tattoo-shop-takeover-tour-6-14-2022</link>
 			<content:encoded><![CDATA[The Diablo Hell’s Ink tattoo shop takeover tour is your chance to receive a custom tattoo, courtesy of the Burning Hells. Find out how to win!]]></content:encoded>
@@ -54,11 +59,6 @@
 			<title>Play Diablo® II: Resurrected™ During the Early Access &amp; Open Beta</title>
 			<link>https://news.blizzard.com/en-us/diablo2/23688836/play-diablo%C2%AE-ii-resurrected%E2%84%A2-during-the-early-access-open-beta-8-10-2021</link>
 			<content:encoded><![CDATA[Learn more about the Diablo II: Resurrected Early Access & Open Beta. Get all the details and answers to your most pressing questions about these upcoming tests!]]></content:encoded>
-		</item>
-		<item>
-			<title>Reimagining a legend: Behind Ethereal items in Season 24</title>
-			<link>https://us.diablo3.blizzard.com/en-us/blog/23700738/reimagining-a-legend-behind-ethereal-items-in-season-24-7-21-2021</link>
-			<content:encoded><![CDATA[Discover how the Diablo III team created this season’s theme and sought to pay homage to the lasting legacy of Diablo II.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
