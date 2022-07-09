@@ -154,21 +154,6 @@ Shorts
 \+ atmungsaktiv und schnelltrocknend
 \+ leicht auf der Haut
 
-###  POP UP
-STORE  ###
-
----
-
- STRAUSS IN BREMEN
-SCHUPPEN EINS 20.6. - 9.7.2022
-==========
-
----
-
- Moin, Bremen! Wir setzen die Segel und freuen uns schon riesig, wenn wir bei Euch anlegen.
-
-[Mehr erfahren](https://www.engelbert-strauss.de/popupstore/popupstore_bremen)
-
  Newsletter abonnieren
 
  und exklusive Aktionen, Gutscheine & Schnäppchen sichern
