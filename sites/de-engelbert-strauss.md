@@ -1,3 +1,40 @@
+auch für Damen & Kids:
+==========
+
+---
+
+###  Funktions
+Short  ###
+
+---
+
+[Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/funktions-short-e-s-trail-damen-3162280-96162-1621.html?itemorigin=startseite_fs22)
+
+[Kinder](https://www.engelbert-strauss.de/kinder-shorts/funktions-short-e-s-trail-kinder-3162330-96172-1621.html?itemorigin=startseite_fs22)
+
+PERFORMANCE-WORKWEAR
+
+==========
+
+---
+
+ E.S.
+TRAIL
+----------
+
+---
+
+Cool & sportlich durchstarten.
+Die ultraleichten Shirts und Funktionshosen e.s.trail bieten perfekte Funktion für heiße Tage!
+
+[Alle Produkte](https://www.engelbert-strauss.de/e-s-trail/)
+
+[e.s.Trail](https://www.engelbert-strauss.de/#!start/slide1)
+
+[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide2)
+
+[O1 BERUFSSCHUHE](https://www.engelbert-strauss.de/#!start/slide3)
+
 Neue Kollektion
 
 ==========
@@ -17,57 +54,35 @@ Rock Band trifft Work Brand. Zwei Headliner feiern ihre heiß ersehnte Zugabe mi
 
 [Mehr erfahren](https://www.engelbert-strauss.de/metallica-works?ItemOrigin=startseite_fs22)
 
-[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide1)
+[e.s.Trail](https://www.engelbert-strauss.de/#!start/slide1)
 
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
+[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide2)
 
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide3)
+[O1 BERUFSSCHUHE](https://www.engelbert-strauss.de/#!start/slide3)
 
-Leichtigkeit im casual style
-
+ Sprint in den Sommer
 ==========
 
 ---
 
-e.s. ventura
-vintage
+Leicht-
+gewichte
 
 ----------
 
 ---
 
-Entdecken Sie den lässigen Cargo-Style unserer vintage Kollektion in einem völlig neuen Design. Genau richtig für alle, die immer auf Achse sind!
+Weniger ist mehr – gerade im Sommer! Unsere O1 Berufsschuhe setzen auf weniger Gewicht dafür auf viel Komfort. Genau richtig für ein luftig-leichtes Tragegefühl.
 
-[Mehr erfahren](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/?ItemOrigin=StartFS22)
+[e.s. Chete](https://www.engelbert-strauss.de/berufsschuhe-o1/o1-berufsschuhe-e-s-chete-1001030-86975-1493.html?amp;itemorigin=startseite_fs22)
 
-[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide1)
+[Alle O1 Berufsschuhe](https://www.engelbert-strauss.de/berufsschuhe-o1/)
 
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
+[e.s.Trail](https://www.engelbert-strauss.de/#!start/slide1)
 
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide3)
+[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide2)
 
-next generation
-
-==========
-
----
-
-RECYCLING
-WORKS!
-
-----------
-
----
-
-Neu im Team der Worker-Sneaker: Die extra leichten Allroundschuhe e.s. Bani next. Unsere ersten Worker-Sneaker mit Recycling-Anteil in Sohle und Obermaterial.
-
-[Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten?ItemOrigin=StartFS22)
-
-[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide1)
-
-[e.s. ventura vintage](https://www.engelbert-strauss.de/#!start/slide2)
-
-[Schuhneuheiten](https://www.engelbert-strauss.de/#!start/slide3)
+[O1 BERUFSSCHUHE](https://www.engelbert-strauss.de/#!start/slide3)
 
  E.S.TOOL CONCEPT
 ==========
@@ -137,22 +152,24 @@ Shorts
 
 [für Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
 
-###  UV-Schutz an warmen Tagen  ###
+ Teamwear für bewegte Jobs
+---
+
+###  GASTRO  ###
 
 ---
 
- Stylish und gleichzeitig sicher – das ist die Workwear, die man braucht!
+[für Herren](https://www.engelbert-strauss.de/gastronomiebekleidung-kochbekleidung/)
 
-[Mehr entdecken](https://www.engelbert-strauss.de/s/suche?query=uv-schutz)
+[für Damen](https://www.engelbert-strauss.de/gastro-damen/)
 
- Idealer UV-Schutz
-==========
+###  MEDICAL  ###
 
 ---
 
- \+ UV-Schutzfaktor 50+ nach AS/NZS 4399:2017
-\+ atmungsaktiv und schnelltrocknend
-\+ leicht auf der Haut
+[für Herren](https://www.engelbert-strauss.de/klinikbekleidung-pflegebekleidung/)
+
+[für Damen](https://www.engelbert-strauss.de/medical-damen/)
 
  Newsletter abonnieren
 
