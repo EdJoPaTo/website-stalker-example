@@ -18,7 +18,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[23.07.2022 - 24.07.2022 RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Buchholz (Nordheide)](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-buchholz-nordheide/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
