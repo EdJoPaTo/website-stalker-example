@@ -90,7 +90,7 @@ There’s a dock, too.
 
 The Steam Deck™ Docking Station props up your Steam Deck while connecting to external displays, wired networking, USB peripherals, and power. You can also use a powered USB-C hub, if you've got one lying around.
 
-The official dock will be sold separately. Add it to your Steam wishlist to get notified when it's available to order. Coming late Spring 2022.
+The official dock will be sold separately. Add it to your Steam wishlist to get notified when it's available to order.
 
 [Add Docking Station to your Wishlist](https://store.steampowered.com/steamdeck#SaleSection_32435)
 
