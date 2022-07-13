@@ -16,9 +16,9 @@ Uelzen - Hamburg Hbf
 
 #### Art der Einschränkung: ####
 
-Ganztägige (Teil-)Ausfälle von Verbindungen auf den Linien RE3 und RB31 auf der Strecke **Uelzen** - **Hamburg Hbf**. Zwischen **Lüneburg** und **Hamburg Hbf** kommt es so ab dem 11. Juni bis zum 15. Juli zu massiven Beeinträchtigungen, sodass bei metronom, insbesondere während der Hauptverkehrszeit, statt vier nur je eine Verbindung pro Richtung angeboten werden können.
+Ganztägige (Teil-)Ausfälle von Verbindungen auf den Linien RE3 und RB31 auf der Strecke **Uelzen** - **Hamburg Hbf**. Zwischen **Lüneburg** und **Hamburg Hbf** kommt es so ab dem 11. Juni zu massiven Beeinträchtigungen, sodass bei metronom, insbesondere während der Hauptverkehrszeit, statt vier nur je eine Verbindung pro Richtung angeboten werden können.
 
-Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden. Informationen über die Fahrplanänderungen ab 16. Juli werden wir rechtzeitig bereitstellen.
+Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden. Informationen über die Fahrplanänderungen ab 22. Juli werden wir rechtzeitig bereitstellen.
 
 #### Baumaßnahme: ####
 
