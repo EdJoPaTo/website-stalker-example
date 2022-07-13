@@ -17,17 +17,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>[macOS] Default Xcode on Monterey image will be set to Xcode 13.4.1 on July, 11</title>
-			<link>https://github.com/actions/virtual-environments/issues/5836</link>
-			<pubDate>Tue, 28 Jun 2022 12:40:36 +0000</pubDate>
-			<content:encoded><![CDATA[#5836
-opened
-Jun 28, 2022
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>[Windows, macOS] LLVM will be updated to version 14 on July, 11</title>
 			<link>https://github.com/actions/virtual-environments/issues/5835</link>
 			<pubDate>Tue, 28 Jun 2022 12:30:39 +0000</pubDate>
