@@ -62,11 +62,6 @@ sites:
       - css_select: main
       - css_remove: img
       - html_markdownify
-  - url: "https://raspi.debian.net/tested-images/"
-    editors:
-      - css_select: "#content"
-      - css_remove: .filedata
-      - html_prettify
   - url: "https://files.teamspeak-services.com/releases/server/"
     editors:
       - html_prettify
@@ -215,34 +210,6 @@ sites:
           title_selector: h4
           content_editors:
             - html_prettify
-
-  - url:
-      - "https://pine64.com/product-category/single-board-computers/"
-      - "https://pine64.com/product-category/quartz64/"
-      - "https://pine64.com/product-category/laptops/"
-      - "https://pine64.com/product-category/smartphones/"
-      - "https://pine64.com/product-category/tablets/"
-      - "https://pine64.com/product-category/pinecil/"
-      - "https://pine64.com/product-category/iot/"
-      - "https://pine64.com/product-category/pinepower/"
-    editors:
-      - css_select: .product
-      - css_remove: img, a.button, .woocommerce-Price-currencySymbol
-      - regex_replace:
-          pattern: h\d
-          replace: span
-      - html_markdownify
-      - regex_replace:
-          pattern: \[([^\]]+)\]\(
-          replace: "\n[$1]("
-  - url: "https://www.pine64.org/availability-and-shipping-status/"
-    editors:
-      - css_select: .elementor-widget-wrap
-      - css_remove: .elementor-spacer, .elementor-widget-image, .elementor-title, .elementor-progress-bar
-      - regex_replace:
-          pattern: <div[^>]+valuenow="(\d+)[^>]+>[^<]*<.div>
-          replace: $1 %
-      - html_markdownify
 
   - url: "https://www.wdrmaus.de/aktuelle-sendung/"
     editors:

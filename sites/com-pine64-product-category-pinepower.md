@@ -1,6 +1,0 @@
-[PinePower – 120W Desktop Power Supply – AU version 37.99](https://pine64.com/product/pinepower-120w-desktop-power-supply-au-version/) 
-[PinePower – 120W Desktop Power Supply – EU version 37.99](https://pine64.com/product/pinepower-120w-desktop-power-supply-eu-version/) 
-[PinePower – 120W Desktop Power Supply – UK version 37.99](https://pine64.com/product/pinepower-120w-desktop-power-supply-uk-version/) 
-[PinePower – 120W Desktop Power Supply – US version 37.99](https://pine64.com/product/pinepower-120w-desktop-power-supply-us-version/) 
-[USB TYPE-C TO USB TYPE-C SILICONE POWER CHARGING CABLE – 1 meter length 3.49](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-meter-length/) 
-[USB TYPE-C TO USB TYPE-C SILICONE POWER CHARGING CABLE – 1.5 meter length 3.99](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/)
