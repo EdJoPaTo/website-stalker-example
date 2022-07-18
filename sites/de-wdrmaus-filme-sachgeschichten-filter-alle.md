@@ -280,6 +280,8 @@
 * [Flüchtlingskind Tiba (Teil 8)](https://www.wdrmaus.de/filme/sachgeschichten/fluechtlingskind_tiba_teil8.php5)
 * [Flughafenfeuerwehr](https://www.wdrmaus.de/filme/sachgeschichten/flughafenfeuerwehr.php5)
 * [Flugzeug](https://www.wdrmaus.de/filme/sachgeschichten/flugzeug.php5)
+* [Flugzeugbau (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/flugzeugbau_teil1.php5)
+* [Flugzeugbau (Teil 2)](https://www.wdrmaus.de/filme/sachgeschichten/flugzeugbau_teil2.php5)
 * [Flugzeugtür](https://www.wdrmaus.de/filme/sachgeschichten/flugzeugtuer.php5)
 * [Flugzeugturbine](https://www.wdrmaus.de/filme/sachgeschichten/flugzeugturbine.php5)
 * [Flummi](https://www.wdrmaus.de/filme/sachgeschichten/flummi.php5)
