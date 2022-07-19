@@ -195,18 +195,13 @@ sites:
       - html_prettify
 
 
-  - url: "https://www.hetzner.com/news/"
+  - url:
+      - "https://www.hetzner.com/news/"
+      - "https://www.hetzner.com/press-release/"
     ignore_error: true
     editors:
       - rss:
           item_selector: .list-card li
-          title_selector: h4
-          content_editors:
-            - html_prettify
-  - url: "https://www.hetzner.com/presse-berichte/"
-    editors:
-      - rss:
-          item_selector: .list-news li
           title_selector: h4
           content_editors:
             - html_prettify

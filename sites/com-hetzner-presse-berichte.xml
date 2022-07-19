@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
-		<title>Press Releases - Hetzner Online GmbH</title>
-		<link>https://www.hetzner.com/presse-berichte/</link>
-		<description>Our press center contains the latest information about our products and the company Hetzner Online.</description>
+		<title>Press Release - Hetzner Online GmbH</title>
+		<link>https://www.hetzner.com/press-release/</link>
+		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<item>
+			<title>Hetzner: First European hoster with Ampere ® Altra ® based dedicated servers</title>
+			<link>https://www.hetzner.com/press-release/07-22-ampere-altra-based-dedicated-servers/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Gunzenhausen, Germany – 19 July 2022
+				</small>
+			</p>
+			<h4>
+				Hetzner: First European hoster with Ampere ® Altra ® based dedicated servers
+			</h4>
+			<p class="list-card-preview">
+				Hetzner Online just launched two new dedicated servers with an Ampere Arm-based Cloud Native Processor. This makes Hetzner the first on-demand hoster in Europe to provide Arm-based dedicated servers for...
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/press-release/07-22-ampere-altra-based-dedicated-servers/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
 		<item>
 			<title>Flexible networking now also for Hetzner cloud servers</title>
 			<link>https://www.hetzner.com/presse-berichte/2022/06/167256</link>
@@ -233,32 +259,6 @@
 				Hetzner Online is now offering six new models of dedicated vCPU cloud servers which are equipped with the newest AMD EPYC™ Series processor.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/03/165926">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Data Center Park Helsinki is expanding</title>
-			<link>https://www.hetzner.com/presse-berichte/2020/10/165434</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Helsinki, Finland – 06 October 2020
-				</small>
-			</p>
-			<h4>
-				Data Center Park Helsinki is expanding
-			</h4>
-			<p class="list-card-preview">
-				Hetzner's Data Center Park in southern Tuusula will expand again with a new data center at the end of 2020.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2020/10/165434">
 				Show more
 			</a>
 		</li>
