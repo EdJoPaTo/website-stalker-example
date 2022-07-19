@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>RX Line: Pushing the envelop of parallelization</title>
+			<link>https://www.hetzner.com/news/07-22-rx-line/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					19 July 2022
+				</small>
+			</p>
+			<h4>
+				RX Line: Pushing the envelop of parallelization
+			</h4>
+			<p class="list-card-preview">
+				The new RX-line is now available and features the first Arm-based dedicated servers in Europe. The servers house an Ampere ® Altra ® Q80-30 SoC with Arm64 architecture, which gives...
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/07-22-rx-line/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Hetzner Cloud: Flexible Networking</title>
 			<link>https://www.hetzner.com/news/06-22-flexibles-networking/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				Our world famous no setup fee sale has returned just in time for Black Week! You can get almost all of our AX or PX dedicated root servers without a...
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/11-21-black-week/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Hetzner Goes USA! – Hetzner opens new location for cloud servers</title>
-			<link>https://www.hetzner.com/news/11-21-usa-cloud/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					03 November 2021
-				</small>
-			</p>
-			<h4>
-				Hetzner Goes USA! – Hetzner opens new location for cloud servers
-			</h4>
-			<p class="list-card-preview">
-				Our first location in the USA is live! Hetzner cloud servers are now available in Ashburn.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/11-21-usa-cloud/">
 				Show more
 			</a>
 		</li>
