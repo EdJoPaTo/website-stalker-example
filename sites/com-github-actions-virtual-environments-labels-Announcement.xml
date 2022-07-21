@@ -28,17 +28,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>[Windows, macOS] LLVM will be updated to version 14 on July, 11</title>
-			<link>https://github.com/actions/virtual-environments/issues/5835</link>
-			<pubDate>Tue, 28 Jun 2022 12:30:39 +0000</pubDate>
-			<content:encoded><![CDATA[#5835
-opened
-Jun 28, 2022
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>The macOS 10.15 Actions runner image will begin deprecation on 5/31/22 and will be fully unsupported by 8/30/22 in GitHub and by 9/30/22 in ADO</title>
 			<link>https://github.com/actions/virtual-environments/issues/5583</link>
 			<pubDate>Fri, 20 May 2022 14:05:15 +0000</pubDate>
