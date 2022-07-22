@@ -20,6 +20,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [23.07.2022 - 24.07.2022 RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Buchholz (Nordheide)](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-buchholz-nordheide/)
 
+[01.08.2022 - 04.08.2022 RB41 Teilausfall 81965 zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-teilausfall-81965-zwischen-hamburg-hbf-und-hamburg-harburg/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [11.06.2022 - 04.08.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
@@ -30,9 +32,11 @@ RE2 Uelzen - Celle - Hannover
 
 [14.07.2022 - 03.08.2022 RE2 keine direkte Verbindung zwischen Uelzen-Göttingen](https://www.der-metronom.de/baustellen/re2-keine-direkte-verbindung-zwischen-uelzen-goettingen/)
 
+[04.08.2022 - 24.08.2022 RE2 keine direkte Verbindung zwischen Uelzen-Göttingen](https://www.der-metronom.de/baustellen/re2-keine-direkte-verbindung-zwischen-uelzen-goettingen-2/)
+
 RE2 Hannover - Northeim - Göttingen
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[04.08.2022 - 24.08.2022 RE2 keine direkte Verbindung zwischen Uelzen-Göttingen](https://www.der-metronom.de/baustellen/re2-keine-direkte-verbindung-zwischen-uelzen-goettingen-2/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
