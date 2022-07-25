@@ -34,6 +34,8 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
+[30.07.2022 - 31.07.2022 RE2 Ersatzverkehr mit Bussen zwischen Göttingen und Northeim (Han) - beide Richtungen -](https://www.der-metronom.de/baustellen/re2-ersatzverkehr-mit-bussen-zwischen-goettingen-und-northeim-han-beide-richtungen/)
+
 [04.08.2022 - 24.08.2022 RE2 keine direkte Verbindung zwischen Uelzen-Göttingen](https://www.der-metronom.de/baustellen/re2-keine-direkte-verbindung-zwischen-uelzen-goettingen-2/)
 
 Dein persönlicher Baustellen-Newsletter
