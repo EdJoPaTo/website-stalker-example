@@ -394,7 +394,6 @@
 * [Hörspiel](https://www.wdrmaus.de/filme/sachgeschichten/hoerspiel.php5)
 * [Holzbiegen](https://www.wdrmaus.de/filme/sachgeschichten/holzbiegen.php5)
 * [Holzkunststoff](https://www.wdrmaus.de/filme/sachgeschichten/holzkunststoff.php5)
-* [Honig](https://www.wdrmaus.de/filme/sachgeschichten/honig.php5)
 * [Hostien](https://www.wdrmaus.de/filme/sachgeschichten/hostien.php5)
 * [Hubschrauber](https://www.wdrmaus.de/filme/sachgeschichten/hubschrauber.php5)
 * [Hund trinkt Milch Slomo](https://www.wdrmaus.de/filme/sachgeschichten/hund_trinkt_milch_slomo.php5)
