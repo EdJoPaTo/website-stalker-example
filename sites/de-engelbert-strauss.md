@@ -220,7 +220,7 @@ Shorts
 
   * [Kontakt](https://www.engelbert-strauss.de/Informationen/Kontakt)
   * [Hilfe](https://www.engelbert-strauss.de/Informationen/Hilfe)
-  * [Häufige Fragen](https://www.engelbert-strauss.de/Helpcenter-Redirect)
+  * [Häufige Fragen](https://www.engelbert-strauss.de/haeufige-fragen)
   * [Lexikon](https://www.engelbert-strauss.de/Informationen/Lexikon/A)
   * [Ihre Meinung zählt](https://www.engelbert-strauss.de/Survey-Redirect)
 
