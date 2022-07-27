@@ -24,6 +24,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [11.06.2022 - 04.08.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
 
+[05.08.2022 - 12.08.2022 RE2/RB31/RE3 Ersatzverkehr mit Bussen aufgrund diverser Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-rb31-re3-ersatzverkehr-mit-bussen-aufgrund-diverser-weichenbauarbeiten/)
+
 RE2 Uelzen - Celle - Hannover
 
 [17.06.2022 - 04.08.2022 Gleisarbeiten zum Erhalt der Infrastruktur im Bereich Hamburg hat teilweise Auswirkungen auf die Fahrzeiten der RE2](https://www.der-metronom.de/baustellen/gleisarbeiten-zum-erhalt-der-infrastruktur-im-bereich-hamburg-hat-teilweise-auswirkungen-auf-die-fahrzeiten-der-re2/)
@@ -31,6 +33,8 @@ RE2 Uelzen - Celle - Hannover
 [14.07.2022 - 03.08.2022 RE2 keine direkte Verbindung zwischen Uelzen-Göttingen](https://www.der-metronom.de/baustellen/re2-keine-direkte-verbindung-zwischen-uelzen-goettingen/)
 
 [04.08.2022 - 24.08.2022 RE2 keine direkte Verbindung zwischen Uelzen-Göttingen](https://www.der-metronom.de/baustellen/re2-keine-direkte-verbindung-zwischen-uelzen-goettingen-2/)
+
+[05.08.2022 - 12.08.2022 RE2/RB31/RE3 Ersatzverkehr mit Bussen aufgrund diverser Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-rb31-re3-ersatzverkehr-mit-bussen-aufgrund-diverser-weichenbauarbeiten/)
 
 RE2 Hannover - Northeim - Göttingen
 
