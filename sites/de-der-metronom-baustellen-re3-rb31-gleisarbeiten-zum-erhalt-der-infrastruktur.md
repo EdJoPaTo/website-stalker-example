@@ -16,9 +16,9 @@ Uelzen - Hamburg Hbf
 
 #### Art der Einschränkung: ####
 
-Ganztägige (Teil-)Ausfälle von Verbindungen auf den Linien RE3 und RB31 auf der Strecke **Uelzen** - **Hamburg Hbf**. Zwischen **Lüneburg** und **Hamburg Hbf** kommt es so ab dem 11. Juni zu massiven Beeinträchtigungen, sodass bei metronom, insbesondere während der Hauptverkehrszeit, statt vier nur je eine Verbindung pro Richtung angeboten werden können.
+Aufgrund einer Großbaustelle der DB Netz AG kommt es zu ganztägigen (Teil-)Ausfällen von Verbindungen auf den Linien RE3 und RB31 auf der Strecke **Uelzen** - **Hamburg Hbf**. *metronom* kann zwischen Hamburg, Lüneburg und Uelzen statt den gewohnten vier Verbindungen pro Stunde und Richtung nur noch je eine Verbindung anbieten: Die Züge der Linie RB31 entfallen bis auf sehr wenige Ausnahmen komplett. Auch die Verstärkerzüge der RE3 entfallen.
 
-Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden. Informationen über die Fahrplanänderungen ab 22. Juli werden wir rechtzeitig bereitstellen.
+Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden. Informationen über die Fahrplanänderungen ab 5. August werden wir rechtzeitig bereitstellen.
 
 #### Baumaßnahme: ####
 
@@ -26,11 +26,11 @@ Arbeiten zum Erhalt der Infrastruktur an Gleisen, Weichen und Bahnübergängen
 
 #### Alternative: ####
 
-Für die entfallenden Zugverbindungen wird ein Schienenersatzverkehr (SEV) eingerichtet (siehe anhängende SEV Fahrplantabelle).
-
-Die stündlich einmal pro Richtung verkehrenden Züge der Linie RE3 halten zusätzlich in Bardowick und Radbruch.
+Die stündlich einmal pro Richtung verkehrenden **Züge der Linie RE3 halten zusätzlich in Bardowick und Radbruch**.
 
 Aufgrund der zu erwartenden hohen Auslastung in den Zügen der RE3 bitten wir darum, den Halt in Hamburg-Harburg in Richtung Hamburg nur zum Aussteigen und in der Gegenrichtung (Richtung Uelzen) nur zum Einsteigen zu nutzen. Fahrgäste können zwischen Hamburg und Hamburg-Harburg alternativ die Linie RE4 und RB41 nutzen.
+
+Vor allem **zwischen Winsen und Hamburg-Harburg** kommt es zu massiven Beeinträchtigungen, da die Bahnhöfe Ashausen, Stelle, Maschen und Meckelfeld aufgrund der Baumaßnahme gar nicht oder nur selten angefahren werden können. Für die entfallenden Zugverbindungen ist ein **Schienenersatzverkehr** (SEV) eingerichtet (siehe anhängende SEV Fahrplantabelle).
 
 Ergänzende Information zu den SEV Fahrplantabellen:
 
