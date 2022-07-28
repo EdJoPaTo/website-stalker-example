@@ -6,6 +6,32 @@
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Hetzner Online rated one of the best Bavarian companies</title>
+			<link>https://www.hetzner.com/press-release/07-22-bavarias-best-50/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					Oberschleißheim/Germany – 28 July 2022
+				</small>
+			</p>
+			<h4>
+				Hetzner Online rated one of the best Bavarian companies
+			</h4>
+			<p class="list-card-preview">
+				Hetzner Online was awarded the entrepreneur prize by the Bavarian Ministry of Economic Affairs and is one of the 50 best owner-managed companies in Bavaria for the fifth time.
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/press-release/07-22-bavarias-best-50/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Hetzner: First European hoster with Ampere ® Altra ® based dedicated servers</title>
 			<link>https://www.hetzner.com/press-release/07-22-ampere-altra-based-dedicated-servers/</link>
 			<content:encoded><![CDATA[<html>
@@ -233,32 +259,6 @@
 				This September, Hetzner Online has slashed prices for several of their dedicated root servers.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/09/166050">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Hetzner now offering AMD EPYC™ 7003 Series processor powered cloud servers</title>
-			<link>https://www.hetzner.com/presse-berichte/2021/03/165926</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					Gunzenhausen, Germany – 31 March 2021
-				</small>
-			</p>
-			<h4>
-				Hetzner now offering AMD EPYC™ 7003 Series processor powered cloud servers
-			</h4>
-			<p class="list-card-preview">
-				Hetzner Online is now offering six new models of dedicated vCPU cloud servers which are equipped with the newest AMD EPYC™ Series processor.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/presse-berichte/2021/03/165926">
 				Show more
 			</a>
 		</li>
