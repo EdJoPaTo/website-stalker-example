@@ -4,7 +4,7 @@
 
 **Zeitraum:**
 
- 11.06.2022 - 04.08.2022
+ 11.06.2022 - 12.08.2022
 
 **Strecke:**
 
@@ -12,13 +12,17 @@
 
 #### Betroffene Haltestellen: ####
 
-Uelzen - Hamburg Hbf
+Hannover Hbf - Uelzen - Hamburg Hbf
 
 #### Art der Einschränkung: ####
 
 Aufgrund einer Großbaustelle der DB Netz AG kommt es zu ganztägigen (Teil-)Ausfällen von Verbindungen auf den Linien RE3 und RB31 auf der Strecke **Uelzen** - **Hamburg Hbf**. *metronom* kann zwischen Hamburg, Lüneburg und Uelzen statt den gewohnten vier Verbindungen pro Stunde und Richtung nur noch je eine Verbindung anbieten: Die Züge der Linie RB31 entfallen bis auf sehr wenige Ausnahmen komplett. Auch die Verstärkerzüge der RE3 entfallen.
 
 Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden. Informationen über die Fahrplanänderungen ab 5. August werden wir rechtzeitig bereitstellen.
+
+**\+++Update gültig ab dem 05. August 2022+++**
+
+Einige Züge fahren wieder durch. Von Hamburg nach Maschen nutzt bitte weiterhin den Ersatzverkehr mit Bussen bzw. die RE3. Außerdem wird es in den Nächten weitere Besonderheiten geben. Bitte informiert euch in der beigefügten Fahrplantabelle vom 05.08. bis 12.08.2022.
 
 #### Baumaßnahme: ####
 
@@ -45,6 +49,10 @@ Ergänzende Information zu den SEV Fahrplantabellen:
 * **Amazon**: Diese Busse fahren als Werksverkehr nur zwischen Hamburg-Harburg und dem Werk von Amazon in Winsen (Luhe).
 
 Mit Hinblick auf das erwartete zusätzliche Reiseaufkommen im Zusammenhang mit dem "9-Euro-Ticket" empfehlen wir allen Fahrgästen, sich bereits frühzeitig in den elektronischen Fahrplanauskünften auf dieser Website oder in der [metronom App](https://www.der-metronom.de/fahrplan/mein-metronom-app/) zu informieren und insbesondere an den Wochenenden alternative Reisemöglichkeiten zu prüfen.
+
+**\+++Update gültig ab dem 05. August 2022+++**
+
+Einige Züge fahren wieder durch. Von Hamburg nach Maschen nutzt bitte weiterhin den Ersatzverkehr mit Bussen bzw. die RE3. Außerdem wird es in den Nächten weitere Besonderheiten geben. Bitte informiert euch in der beigefügten Fahrplantabelle vom 05.08. bis 12.08.2022.
 
 ---
 [zurück zur Übersicht](https://www.der-metronom.de/fahrplan/baustellen-uebersicht/#route-1375)
