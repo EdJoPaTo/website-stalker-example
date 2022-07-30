@@ -16,33 +16,33 @@ notification_template: |
 
 sites:
   # Basic example
-  - url: "https://edjopato.de/"
+  - url: https://edjopato.de/
     editors:
       - html_prettify
 
   # Example with css selector
-  - url: "https://rain-brainz.de/"
+  - url: https://rain-brainz.de/
     editors:
       - css_select: main a img
       - html_prettify
 
   # Example with html_textify
-  - url: "https://edjopato.de/impressum/"
+  - url: https://edjopato.de/impressum/
     editors:
       - css_select: h1
       - html_textify
 
   # Example with html_markdownify
-  - url: "https://edjopato.de/post/2020/09/16-zsh/"
+  - url: https://edjopato.de/post/2020/09/16-zsh/
     editors:
       - css_select: .content
       - html_markdownify
 
   # Example of a text only entry
-  - url: "https://edjopato.de/robots.txt"
+  - url: https://edjopato.de/robots.txt
 
   # Example with RSS
-  - url: "https://edjopato.de/post/"
+  - url: https://edjopato.de/post/
     editors:
       - rss:
           title: EdJoPaTos Blog
@@ -53,19 +53,19 @@ sites:
             - html_textify
 
 
-  - url: "https://wiki.gnome.org/Schedule"
+  - url: https://wiki.gnome.org/Schedule
     editors:
-      - css_select: "#content"
+      - css_select: '#content'
       - html_markdownify
-  - url: "https://www.raspberrypi.com/software/operating-systems/"
+  - url: https://www.raspberrypi.com/software/operating-systems/
     editors:
       - css_select: main
       - css_remove: img
       - html_markdownify
-  - url: "https://files.teamspeak-services.com/releases/server/"
+  - url: https://files.teamspeak-services.com/releases/server/
     editors:
       - html_prettify
-  - url: "https://us.diablo3.blizzard.com/en-us/"
+  - url: https://us.diablo3.blizzard.com/en-us/
     editors:
       - rss:
           item_selector: .article-wrapper
@@ -73,9 +73,9 @@ sites:
             - css_select: .article-content
             - css_remove: h2
             - html_textify
-  - url: "https://www.thatskygame.com/news/"
+  - url: https://www.thatskygame.com/news/
     editors:
-       - rss:
+      - rss:
           title: Sky Game News
           item_selector: article.article
           title_selector: h1
@@ -83,7 +83,7 @@ sites:
             - css_select: .article-content
             - css_remove: h1
             - html_prettify
-  - url: "https://github.com/actions/virtual-environments/labels/Announcement"
+  - url: https://github.com/actions/virtual-environments/labels/Announcement
     editors:
       - rss:
           title: GitHub Actions virtual-environments Announcements
@@ -92,19 +92,19 @@ sites:
           content_editors:
             - css_select: .labels, .opened-by
             - html_textify
-  - url: "https://blinry.org/"
+  - url: https://blinry.org/
     editors:
       - css_select: .box
       - html_prettify
   - url:
-      - "https://jonas.lol/"
-      - "https://jonas.lol/projects/"
+      - https://jonas.lol/
+      - https://jonas.lol/projects/
     editors:
       - css_select: body
-      - css_remove: "script, img"
+      - css_remove: script, img
       - html_url_canonicalize
       - html_markdownify
-  - url: "https://opentalk.eu/de/news-presse"
+  - url: https://opentalk.eu/de/news-presse
     ignore_error: true
     editors:
       - rss:
@@ -116,79 +116,79 @@ sites:
             - html_prettify
 
   - url:
-      - "https://www.conventionalcommits.org/en/"
-      - "https://keepachangelog.com/en/"
+      - https://www.conventionalcommits.org/en/
+      - https://keepachangelog.com/en/
     editors:
       - html_prettify
   - url:
-      - "https://www.conventionalcommits.org/en/v1.0.0/"
-      - "https://keepachangelog.com/en/1.1.0/"
+      - https://www.conventionalcommits.org/en/v1.0.0/
+      - https://keepachangelog.com/en/1.1.0/
     editors:
       - css_remove: nav.locales
       - css_select: article
       - html_markdownify
 
   - url:
-      - "https://www.apple.com/"
-      - "https://www.apple.com/de/"
+      - https://www.apple.com/
+      - https://www.apple.com/de/
     editors:
       - css_select: nav
       - html_url_canonicalize
       - html_markdownify
   - url:
-      - "https://www.apple.com/sitemap/"
-      - "https://www.apple.com/de/sitemap/"
-      - "https://www.apple.com/apple-pay/"
-      - "https://www.apple.com/de/apple-pay/"
-      - "https://opensource.apple.com/"
-      - "https://opensource.apple.com/projects/"
+      - https://www.apple.com/sitemap/
+      - https://www.apple.com/de/sitemap/
+      - https://www.apple.com/apple-pay/
+      - https://www.apple.com/de/apple-pay/
+      - https://opensource.apple.com/
+      - https://opensource.apple.com/projects/
     editors:
       - css_select: main
       - css_remove: noscript, img, picture, .footnote, .ribbon, .services-subsection, .apple-one-tile, .section-retail, *[data-analytics-activitymap-region-id~=ribbon]
       - html_url_canonicalize
       - html_markdownify
   - url:
-      - "https://www.apple.com/mac/compare/"
-      - "https://www.apple.com/ipad/compare/"
-      - "https://www.apple.com/iphone/compare/"
-      - "https://www.apple.com/airpods/compare/"
+      - https://www.apple.com/mac/compare/
+      - https://www.apple.com/ipad/compare/
+      - https://www.apple.com/iphone/compare/
+      - https://www.apple.com/airpods/compare/
     editors:
-      - css_select: "#backport-data"
+      - css_select: '#backport-data'
       - css_remove: noscript, img, picture, .footnote, .ribbon, *[data-analytics-activitymap-region-id~=ribbon]
       - html_url_canonicalize
       - html_prettify
-  - url: "https://www.apple.com/watch/compare/"
+  - url: https://www.apple.com/watch/compare/
     editors:
       - css_select: main
       - css_remove: noscript, img, picture, .footnote, .ribbon, *[data-analytics-activitymap-region-id~=ribbon]
       - html_url_canonicalize
       - html_prettify
-  - url: "https://beta.apple.com/sp/betaprogram"
+  - url: https://beta.apple.com/sp/betaprogram
     editors:
       - css_select: .content
       - html_url_canonicalize
       - html_markdownify
 
   - url:
-      - "https://www.netcup-sonderangebote.de/"
-      - "https://www.netcup.de/adventskalender/"
-      - "https://www.netcup.de/vserver/"
-      - "https://www.netcup.de/vserver/root-server-erweiterungen.php"
-      - "https://www.netcup.de/vserver/uebersicht_vserver_angebote.php"
-      - "https://www.netcup.de/vserver/vps.php"
-      - "https://www.netcup.de/vserver/vstorage.php"
+      - https://www.netcup-sonderangebote.de/
+      - https://www.netcup.de/adventskalender/
+      - https://www.netcup.de/vserver/
+      - https://www.netcup.de/vserver/root-server-erweiterungen.php
+      - https://www.netcup.de/vserver/uebersicht_vserver_angebote.php
+      - https://www.netcup.de/vserver/vps.php
+      - https://www.netcup.de/vserver/vstorage.php
     editors:
       - css_select: .card, table
       - css_remove: img, .card--content--image
       - html_url_canonicalize
       - html_prettify
-  - url: "https://www.netcup.de/vserver/storagespace.php"
+  - url: https://www.netcup.de/vserver/storagespace.php
     editors:
       - css_remove: img, .main-navigation-wrapper
       - css_select: main > .container
       - html_url_canonicalize
       - html_prettify
-  - url: "https://www.netcup.de/vserver/vserver_images.php"
+  - url: https://www.netcup.de/vserver/vserver_images.php
     editors:
       - css_select: table
       - html_url_canonicalize
@@ -196,8 +196,8 @@ sites:
 
 
   - url:
-      - "https://www.hetzner.com/news/"
-      - "https://www.hetzner.com/press-release/"
+      - https://www.hetzner.com/news/
+      - https://www.hetzner.com/press-release/
     ignore_error: true
     editors:
       - rss:
@@ -206,64 +206,64 @@ sites:
           content_editors:
             - html_prettify
 
-  - url: "https://www.wdrmaus.de/aktuelle-sendung/"
+  - url: https://www.wdrmaus.de/aktuelle-sendung/
     editors:
-      - css_select: "#content"
+      - css_select: '#content'
       - html_prettify
-  - url: "https://www.wdrmaus.de/extras/"
+  - url: https://www.wdrmaus.de/extras/
     editors:
-      - css_select: "#content"
-      - css_remove: "script, img, .promoteaser, #footer"
+      - css_select: '#content'
+      - css_remove: 'script, img, .promoteaser, #footer'
       - html_url_canonicalize
       - html_markdownify
   - url:
-      - "https://www.wdrmaus.de/extras/mausthemen/corona/"
-      - "https://www.wdrmaus.de/extras/mausthemen/ukraine/"
+      - https://www.wdrmaus.de/extras/mausthemen/corona/
+      - https://www.wdrmaus.de/extras/mausthemen/ukraine/
     editors:
-      - css_select: "#content"
-      - css_remove: "script, img, .promoteaser, #footer, .imagecontainer, .imageSlider"
+      - css_select: '#content'
+      - css_remove: 'script, img, .promoteaser, #footer, .imagecontainer, .imageSlider'
       - html_url_canonicalize
       - html_markdownify
-  - url: "https://www.wdrmaus.de/filme/sachgeschichten/?filter=alle"
+  - url: https://www.wdrmaus.de/filme/sachgeschichten/?filter=alle
     editors:
-      - css_select: ".links"
-      - css_remove: "script, img"
+      - css_select: .links
+      - css_remove: script, img
       - html_url_canonicalize
       - html_markdownify
 
-  - url: "https://telegram.org/blog"
+  - url: https://telegram.org/blog
     editors:
       - rss:
-          item_selector: ".dev_blog_card_link_wrap"
+          item_selector: .dev_blog_card_link_wrap
           title_selector: h4
           content_editors:
             - html_prettify
-  - url: "https://core.telegram.org/bots"
+  - url: https://core.telegram.org/bots
     editors:
-      - css_select: ".container .dev_page"
+      - css_select: .container .dev_page
       - html_markdownify
-  - url: "https://core.telegram.org/bots/api"
+  - url: https://core.telegram.org/bots/api
     editors:
-      - css_select: ".container .dev_page"
+      - css_select: .container .dev_page
       - html_prettify
 
-  - url: "https://www.der-metronom.de/aktuell/"
+  - url: https://www.der-metronom.de/aktuell/
     editors:
       - rss:
           title: Metronom Aktuell
-          item_selector: "#content .right .box"
+          item_selector: '#content .right .box'
           content_editors:
             - css_select: time, .news-text-outer
             - css_remove: a.news-more
             - html_url_canonicalize
             - html_prettify
   - url:
-      - "https://www.der-metronom.de/fahrkarten/9-euro-ticket/"
-      - "https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/"
-      - "https://www.der-metronom.de/fahrplan/baustellen-uebersicht/"
-      - "https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/"
+      - https://www.der-metronom.de/fahrkarten/9-euro-ticket/
+      - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
+      - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
+      - https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/
     editors:
-      - css_select: "#content .right"
+      - css_select: '#content .right'
       - css_remove: form, script, .img-left
       - html_url_canonicalize
       - html_markdownify
@@ -304,13 +304,13 @@ sites:
           replace: ")\n["
 
   - url:
-      - "https://www.steamdeck.com/en/"
-      - "https://www.steamdeck.com/en/hardware"
-      - "https://www.steamdeck.com/en/software"
-      - "https://www.steamdeck.com/en/verified"
-      - "https://www.steamdeck.com/en/faq"
-      - "https://www.steamdeck.com/en/tech"
+      - https://www.steamdeck.com/en/
+      - https://www.steamdeck.com/en/hardware
+      - https://www.steamdeck.com/en/software
+      - https://www.steamdeck.com/en/verified
+      - https://www.steamdeck.com/en/faq
+      - https://www.steamdeck.com/en/tech
     editors:
-      - css_select: "#content"
-      - css_remove: "video, img, .footnote, .home, .verified_app_card"
+      - css_select: '#content'
+      - css_remove: video, img, .footnote, .home, .verified_app_card
       - html_markdownify
