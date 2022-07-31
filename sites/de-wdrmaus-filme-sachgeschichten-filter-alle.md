@@ -460,6 +460,7 @@
 * [Klebstoff](https://www.wdrmaus.de/filme/sachgeschichten/klebstoff.php5)
 * [Kleiderausgabe](https://www.wdrmaus.de/filme/sachgeschichten/kleiderausgabe.php5)
 * [Kletterroboter](https://www.wdrmaus.de/filme/sachgeschichten/kletterroboter.php5)
+* [Klimawandel: Energie](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge2.php5)
 * [Klimawandel: Wetter, Klima und der menschliche Einfluss](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge1.php5)
 * [Klöppel](https://www.wdrmaus.de/filme/sachgeschichten/kloeppel.php5)
 * [Knallerbsen](https://www.wdrmaus.de/filme/sachgeschichten/knallerbsen.php5)
