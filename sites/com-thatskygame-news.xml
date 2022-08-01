@@ -6,28 +6,38 @@
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>Introducing Player-Run Sky Assemblies</title>
-			<link>https://www.thatskygame.com/news/introducing-player-run-sky-assemblies</link>
+			<title>A Birthday Letter from Jenova Chen</title>
+			<link>https://www.thatskygame.com/news/a-birthday-letter-from-jenova-chen</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
 		<div class="article-content mt-5" data-v-1916c74b="">
 			<p class="article-date font-regular leading-tight mt-2 text-lg text-text-dark" data-v-1916c74b="">
-				2022-07-27T20:45:40.000Z
+				2022-08-01T00:46:16.689Z
 			</p>
 			<div class="intro leading-loose mt-10 text-content text-text-primary text-xl" data-v-1916c74b="">
 				<p>
-					<i>
-						We shine brighter together!
-					</i>
-				</p>
-				<p>
-					When we came up with the idea for Sky Assemblies, one of our primary motivations was to empower passionate Sky players to build experiences for others in their local communities, in hopes of creating opportunities for the sort of meaningful, uplifting connection that we see every day in Sky.
+					Hello fellow Children of the Light, I’m Jenova Chen, Sky’s Creative Director. When we first started developing Sky, we hoped to create a game that would connect people through kindness. We strived to inspire a sense of awe that breaks down barriers between one other. We aimed to create a game that hard core gamers and casual players could play together, that exceeded the boundaries of gender or generations.
 				</p>
 			</div>
 			<p class="font-bold mt-5 text-xl uppercase" data-v-1916c74b="">
 				Read more
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Introducing Player-Run Sky Assemblies</title>
+			<link>https://www.thatskygame.com/news/introducing-player-run-sky-assemblies</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="article-content mt-5" data-v-63a4c7d0="">
+			<p class="article-date font-regular leading-tight mt-2 text-lg text-text-dark" data-v-63a4c7d0="">
+				2022-07-27T20:45:40.000Z
 			</p>
 		</div>
 	</body>
@@ -148,21 +158,6 @@
 		<div class="article-content mt-5" data-v-63a4c7d0="">
 			<p class="article-date font-regular leading-tight mt-2 text-lg text-text-dark" data-v-63a4c7d0="">
 				2022-05-05T00:45:51.627Z
-			</p>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Crafting Memorable Days of Nature Encounters</title>
-			<link>https://www.thatskygame.com/news/crafting-memorable-days-of-nature-encounters</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="article-content mt-5" data-v-63a4c7d0="">
-			<p class="article-date font-regular leading-tight mt-2 text-lg text-text-dark" data-v-63a4c7d0="">
-				2022-04-29T01:02:37.178Z
 			</p>
 		</div>
 	</body>
