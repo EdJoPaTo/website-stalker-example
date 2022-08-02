@@ -11,7 +11,7 @@ secure, and private payment method — whether you’re
 in a store, online, or sending cash to friends or family.
 It’s money, made modern.
 
-[Add a card](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
+[Add a card](https://support.apple.com/HT204506)
 
 Faster and easier
  than
@@ -94,7 +94,7 @@ with
 Apple Pay.
 ----------
 
-[Add a card](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
+[Add a card](https://support.apple.com/HT204506)
 
 Questions? Answers.
 ----------
@@ -123,7 +123,7 @@ Questions? Answers.
 
   It’s simple. Just add a credit, debit, or prepaid card to the Wallet app on your iPhone. And remember to add your cards to any other Apple devices you want to use with Apple Pay. It works on iPhone, Apple Watch, Mac, and iPad.
 
-  * [Add a card](https://wallet.apple.com/setup/?referrer=cid%3Dapy-200-100016)
+  * [Add a card](https://support.apple.com/HT204506)
 
 * ### Which banks support Apple Pay?  ###
 
