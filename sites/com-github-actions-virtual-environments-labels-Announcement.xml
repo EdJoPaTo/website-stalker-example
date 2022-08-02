@@ -6,6 +6,17 @@
 		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>The Ubuntu 18.04 Actions runner image will begin deprecation on 8/8/22 and will be fully unsupported by 12/1/22</title>
+			<link>https://github.com/actions/virtual-environments/issues/6002</link>
+			<pubDate>Tue, 02 Aug 2022 10:24:59 +0000</pubDate>
+			<content:encoded><![CDATA[#6002
+opened
+Aug 2, 2022
+by
+
+miketimofeev]]></content:encoded>
+		</item>
+		<item>
 			<title>Ubuntu 22.04 is generally available starting from August, 8</title>
 			<link>https://github.com/actions/virtual-environments/issues/5998</link>
 			<pubDate>Tue, 02 Aug 2022 08:40:41 +0000</pubDate>
