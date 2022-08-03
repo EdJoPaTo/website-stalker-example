@@ -20,6 +20,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [01.08.2022 - 04.08.2022 RB41 Teilausfall 81965 zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-teilausfall-81965-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
+[05.08.2022 - 21.08.2022 RE4/RB41 Weichenarbeiten/Brückenbauarbeiten zwischen Buchholz (N.) und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-weichenarbeiten-brueckenbauarbeiten-zwischen-buchholz-n-und-hamburg-harburg/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [11.06.2022 - 12.08.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
