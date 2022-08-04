@@ -102,10 +102,10 @@ Effective storage capacity subject to change based on size of operating system a
 
 [Reserve on Steam](http://store.steampowered.com/steamdeck)
 
-Initial regional availability
+Regional availability
 ----------
 
-Steam Deck is now shipping to the United States, Canada, the European Union, and the United Kingdom. More regions to come—stay tuned for more info.
+Steam Deck is now shipping to the United States, Canada, the European Union, and the United Kingdom. Steam Deck is also available for reservation via Komodo in Japan, South Korea, Taiwan, and Hong Kong. More regions to come—stay tuned for more info.
 
 Speeds and feeds
 ----------

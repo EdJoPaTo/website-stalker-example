@@ -71,9 +71,9 @@ Yes, ten fingers.
 
 1.5 meters, or 4.9 feet.
 
-###### Will Steam Deck be sold in retail stores? ######
+###### Will Steam Deck be available in other regions? ######
 
-Steam Deck is only available directly via Steam. We may be partnering with retailers as we make Steam Deck available in more regions - more information about that soon.
+Steam Deck is available directly via Steam in the US, Canada, UK, and EU. We are working with Komodo to sell Steam Deck in Japan, South Korea, Taiwan, and Hong Kong.
 
 ###### What can you tell us about the BIOS and does it allow dual-boot? ######
 
