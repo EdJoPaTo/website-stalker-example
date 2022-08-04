@@ -1,3 +1,26 @@
+Steam Deck Comes To
+==========
+
+### We're pleased to announce Steam Deck's arrival in Japan, South Korea, Taiwan & Hong Kong!  ###
+
+[Reserve now in these regions](http://steamdeck.komodo.jp/)
+
+Japan
+==========
+
+South Korea
+==========
+
+Taiwan
+==========
+
+Hong Kong
+==========
+
+### We're pleased to announce Steam Deck's arrival in Japan, South Korea, Taiwan & Hong Kong!  ###
+
+[Reserve now in these regions](http://steamdeck.komodo.jp/)
+
 [](https://www.youtube.com/watch?v=AvokyBOYe8Y)
 
 See the full video
