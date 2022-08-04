@@ -18,11 +18,14 @@ Hannover Hbf - Uelzen - Hamburg Hbf
 
 Aufgrund einer Großbaustelle der DB Netz AG kommt es zu ganztägigen (Teil-)Ausfällen von Verbindungen auf den Linien RE3 und RB31 auf der Strecke **Uelzen** - **Hamburg Hbf**. *metronom* kann zwischen Hamburg, Lüneburg und Uelzen statt den gewohnten vier Verbindungen pro Stunde und Richtung nur noch je eine Verbindung anbieten: Die Züge der Linie RB31 entfallen bis auf sehr wenige Ausnahmen komplett. Auch die Verstärkerzüge der RE3 entfallen.
 
-Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden. Informationen über die Fahrplanänderungen ab 5. August werden wir rechtzeitig bereitstellen.
+Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden.
 
 **\+++Update gültig ab dem 05. August 2022+++**
 
-Einige Züge fahren wieder durch. Von Hamburg nach Maschen nutzt bitte weiterhin den Ersatzverkehr mit Bussen bzw. die RE3. Außerdem wird es in den Nächten weitere Besonderheiten geben. Bitte informiert euch in der beigefügten Fahrplantabelle vom 05.08. bis 12.08.2022.
+***Achtung: Aufgrund von Verzögerungen bei den Bauarbeiten der DB Netz AG halten am 5. August bis ca. 18 Uhr keine Züge der RE3/RB31 an den Bahnhöfen Maschen und Meckelfeld! Der hier bereitgestellte Fahrplantabelle gilt für den Zugverkehr also abweichend erst ab 18 Uhr, bis dahin nutzt bitte den SEV.
+(Hinweis vom 4. August, 21:50 Uhr)***
+
+Einige Züge fahren wieder durch. Von Hamburg nach Maschen nutzt bitte weiterhin den Ersatzverkehr mit Bussen bzw. die RE3. Außerdem wird es in den Nächten weitere Besonderheiten geben. Bitte informiert euch in der beigefügten Fahrplantabelle vom 05.08. bis 12.08.2022 – zur besseren Übersicht sind hier sind die Züge und Busse des SEV in einer Tabelle zusammengefasst!
 
 #### Baumaßnahme: ####
 
