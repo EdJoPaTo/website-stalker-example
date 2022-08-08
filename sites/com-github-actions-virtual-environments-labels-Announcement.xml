@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<title>GitHub Actions virtual-environments Announcements</title>
-		<link>https://github.com/actions/virtual-environments/labels/Announcement</link>
-		<description>GitHub Actions virtual environments. Contribute to actions/virtual-environments development by creating an account on GitHub.</description>
+		<link>https://github.com/actions/runner-images/labels/Announcement</link>
+		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>[All OSs] Go version 1.16 will be removed on August, 15th</title>
-			<link>https://github.com/actions/virtual-environments/issues/6024</link>
+			<link>https://github.com/actions/runner-images/issues/6024</link>
 			<pubDate>Fri, 05 Aug 2022 09:19:05 +0000</pubDate>
 			<content:encoded><![CDATA[#6024
 opened
@@ -18,7 +18,7 @@ ddobranic]]></content:encoded>
 		</item>
 		<item>
 			<title>The Ubuntu 18.04 Actions runner image will begin deprecation on 8/8/22 and will be fully unsupported by 12/1/22</title>
-			<link>https://github.com/actions/virtual-environments/issues/6002</link>
+			<link>https://github.com/actions/runner-images/issues/6002</link>
 			<pubDate>Tue, 02 Aug 2022 10:24:59 +0000</pubDate>
 			<content:encoded><![CDATA[#6002
 opened
@@ -29,7 +29,7 @@ miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>Ubuntu 22.04 is generally available starting from August, 8</title>
-			<link>https://github.com/actions/virtual-environments/issues/5998</link>
+			<link>https://github.com/actions/runner-images/issues/5998</link>
 			<pubDate>Tue, 02 Aug 2022 08:40:41 +0000</pubDate>
 			<content:encoded><![CDATA[#5998
 opened
@@ -40,7 +40,7 @@ miketimofeev]]></content:encoded>
 		</item>
 		<item>
 			<title>&apos;virtual-environments&apos; repository name will be changed to &apos;runner-images&apos; on August, 8th</title>
-			<link>https://github.com/actions/virtual-environments/issues/5967</link>
+			<link>https://github.com/actions/runner-images/issues/5967</link>
 			<pubDate>Mon, 25 Jul 2022 17:54:39 +0000</pubDate>
 			<content:encoded><![CDATA[#5967
 opened
@@ -51,7 +51,7 @@ ddobranic]]></content:encoded>
 		</item>
 		<item>
 			<title>[Windows] mongo service will be disabled by default on August, 8th</title>
-			<link>https://github.com/actions/virtual-environments/issues/5949</link>
+			<link>https://github.com/actions/runner-images/issues/5949</link>
 			<pubDate>Fri, 22 Jul 2022 09:51:58 +0000</pubDate>
 			<content:encoded><![CDATA[#5949
 opened
@@ -62,7 +62,7 @@ ddobranic]]></content:encoded>
 		</item>
 		<item>
 			<title>[all OSs] Android NDK 21 will be replaced in favor of 25 on August, 1st</title>
-			<link>https://github.com/actions/virtual-environments/issues/5930</link>
+			<link>https://github.com/actions/runner-images/issues/5930</link>
 			<pubDate>Mon, 18 Jul 2022 14:22:53 +0000</pubDate>
 			<content:encoded><![CDATA[#5930
 opened
@@ -73,7 +73,7 @@ ddobranic]]></content:encoded>
 		</item>
 		<item>
 			<title>The macOS 10.15 Actions runner image will begin deprecation on 5/31/22 and will be fully unsupported by 8/30/22 in GitHub and by 9/30/22 in ADO</title>
-			<link>https://github.com/actions/virtual-environments/issues/5583</link>
+			<link>https://github.com/actions/runner-images/issues/5583</link>
 			<pubDate>Fri, 20 May 2022 14:05:15 +0000</pubDate>
 			<content:encoded><![CDATA[#5583
 opened
