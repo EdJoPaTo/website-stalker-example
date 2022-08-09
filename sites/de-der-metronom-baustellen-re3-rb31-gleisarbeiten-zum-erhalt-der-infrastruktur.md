@@ -4,7 +4,7 @@
 
 **Zeitraum:**
 
- 11.06.2022 - 12.08.2022
+ 11.06.2022 - 21.08.2022
 
 **Strecke:**
 
@@ -20,12 +20,16 @@ Aufgrund einer Großbaustelle der DB Netz AG kommt es zu ganztägigen (Teil-)Aus
 
 Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden.
 
-**\+++Update gültig ab dem 05. August 2022+++**
+**\+++Update gültig ab dem 05. August 2022 bis 12. August 2022+++**
 
 ***Achtung: Aufgrund von Verzögerungen bei den Bauarbeiten der DB Netz AG halten am 5. August bis ca. 18 Uhr keine Züge der RE3/RB31 an den Bahnhöfen Maschen und Meckelfeld! Der hier bereitgestellte Fahrplantabelle gilt für den Zugverkehr also abweichend erst ab 18 Uhr, bis dahin nutzt bitte den SEV.
 (Hinweis vom 4. August, 21:50 Uhr)***
 
 Einige Züge fahren wieder durch. Von Hamburg nach Maschen nutzt bitte weiterhin den Ersatzverkehr mit Bussen bzw. die RE3. Außerdem wird es in den Nächten weitere Besonderheiten geben. Bitte informiert euch in der beigefügten Fahrplantabelle vom 05.08. bis 12.08.2022 – zur besseren Übersicht sind hier sind die Züge und Busse des SEV in einer Tabelle zusammengefasst!
+
+**\+++Update gültig ab dem 13. August 2022 bis 21. August 2022+++**
+
+Etliche Züge der RB31 können weiterhin an unterschiedlichen Tagen nicht komplett durchfahren. Zudem sind nachts die Züge zwischen Unterlüß und Celle bzw. Hannover im Ausfall.
 
 #### Baumaßnahme: ####
 
@@ -53,9 +57,13 @@ Ergänzende Information zu den SEV Fahrplantabellen:
 
 Mit Hinblick auf das erwartete zusätzliche Reiseaufkommen im Zusammenhang mit dem "9-Euro-Ticket" empfehlen wir allen Fahrgästen, sich bereits frühzeitig in den elektronischen Fahrplanauskünften auf dieser Website oder in der [metronom App](https://www.der-metronom.de/fahrplan/mein-metronom-app/) zu informieren und insbesondere an den Wochenenden alternative Reisemöglichkeiten zu prüfen.
 
-**\+++Update gültig ab dem 05. August 2022+++**
+**\+++Update gültig ab dem 05. August 2022 - 12. August 2022+++**
 
 Einige Züge fahren wieder durch. Von Hamburg nach Maschen nutzt bitte weiterhin den Ersatzverkehr mit Bussen bzw. die RE3. Außerdem wird es in den Nächten weitere Besonderheiten geben. Bitte informiert euch in der beigefügten Fahrplantabelle vom 05.08. bis 12.08.2022.
+
+**\+++Update gültig ab dem 13. August 2022 bis 21. August 2022+++**
+
+Bitte nutzt weiterhin den eingerichteten Ersatzverkehr mit Bussen bzw. die RE3 und achtet auf die nächtlichen Besonderheiten gemäß Fahrplantabelle vom 13.08. bis 21.08.2022.
 
 ---
 [zurück zur Übersicht](https://www.der-metronom.de/fahrplan/baustellen-uebersicht/#route-1375)
