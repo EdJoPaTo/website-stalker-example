@@ -22,10 +22,13 @@ Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die 
 
 **\+++Update gültig ab dem 05. August 2022 bis 12. August 2022+++**
 
-***Achtung: Aufgrund von Verzögerungen bei den Bauarbeiten der DB Netz AG halten am 5. August bis ca. 18 Uhr keine Züge der RE3/RB31 an den Bahnhöfen Maschen und Meckelfeld! Der hier bereitgestellte Fahrplantabelle gilt für den Zugverkehr also abweichend erst ab 18 Uhr, bis dahin nutzt bitte den SEV.
-(Hinweis vom 4. August, 21:50 Uhr)***
+***Achtung: ***Hinweis vom 09. August 2022 (13:45 Uhr)******
 
-Einige Züge fahren wieder durch. Von Hamburg nach Maschen nutzt bitte weiterhin den Ersatzverkehr mit Bussen bzw. die RE3. Außerdem wird es in den Nächten weitere Besonderheiten geben. Bitte informiert euch in der beigefügten Fahrplantabelle vom 05.08. bis 12.08.2022 – zur besseren Übersicht sind hier sind die Züge und Busse des SEV in einer Tabelle zusammengefasst!
+***Verzögerungen bei Bauarbeiten der DB Netz AG: Züge der RE3/RB31 in Richtung Norden halten voraussichtlich bis einschließlich zum 10. August 2022 nicht in Stelle, Maschen und Meckelfeld und in Richtung Süden nicht in Maschen und Meckelfeld. Die hier bereitgestellte Fahrplantabelle gilt für den Zugverkehr also abweichend erst ab dem 11. August 2022. Bis dahin nutzt bitte den bereitgestellten Ersatzverkehr mit Bussen.***
+
+Einige Züge fahren wieder durch. Von Hamburg nach Maschen nutzt bitte weiterhin den Ersatzverkehr mit Bussen bzw. die RE3. Außerdem wird es in den Nächten weitere Besonderheiten geben. Bitte informiert euch in der beigefügten Fahrplantabelle vom 05.08. - 12.08.2022 - zur besseren Übersicht sind hier die Züge und Busse des SEV in einer Tabelle zusammengefasst.
+
+----------
 
 **\+++Update gültig ab dem 13. August 2022 bis 21. August 2022+++**
 
