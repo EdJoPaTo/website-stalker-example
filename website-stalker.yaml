@@ -86,7 +86,7 @@ sites:
   - url: https://github.com/actions/runner-images/labels/Announcement
     editors:
       - rss:
-          title: GitHub Actions virtual-environments Announcements
+          title: GitHub actions/runner-images Announcement
           item_selector: .js-issue-row
           title_selector: a
           content_editors:
