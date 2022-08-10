@@ -40,6 +40,7 @@ Apple Sitemap
 * ###  Store Services  ###
 
   * [Today at Apple](https://www.apple.com/de/today/)
+  * [Group Reservations](https://www.apple.com/de/today/groups/)
   * [Apple Sommer Camp](https://www.apple.com/de/today/camp/)
   * [Genius Bar](https://www.apple.com/de/retail/geniusbar/)
   * [Bestellstatus](https://www.apple.com/de/shop/goto/order/list)
@@ -493,6 +494,7 @@ Apple Sitemap
 ----------
 
 * * [Entdecken](https://www.apple.com/de/today/)
+  * [Groups](https://www.apple.com/de/today/groups/)
   * [Meine Reservierungen](https://concierge.apple.com/history/R045/de_DE/)
 
 * ###  Today at Apple Kalender  ###

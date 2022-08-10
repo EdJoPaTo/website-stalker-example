@@ -43,6 +43,7 @@ Apple Site Map
 * ###  Store Services  ###
 
   * [Today at Apple](https://www.apple.com/today/)
+  * [Group Reservations](https://www.apple.com/today/groups/)
   * [Apple Camp](https://www.apple.com/today/camp/)
   * [Genius Bar](https://www.apple.com/retail/geniusbar/)
   * [Order Status](https://www.apple.com/us/shop/goto/order/list)
@@ -512,6 +513,7 @@ Apple Site Map
 ----------
 
 * * [Discover](https://www.apple.com/today/)
+  * [Groups](https://www.apple.com/today/groups/)
   * [My Reservations](https://concierge.apple.com/history/R032/en_US/)
 
 * ###  Today at Apple Calendar  ###
