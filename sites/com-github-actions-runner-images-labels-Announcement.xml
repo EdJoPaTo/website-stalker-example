@@ -39,17 +39,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>&apos;virtual-environments&apos; repository name will be changed to &apos;runner-images&apos; on August, 8th</title>
-			<link>https://github.com/actions/runner-images/issues/5967</link>
-			<pubDate>Mon, 25 Jul 2022 17:54:39 +0000</pubDate>
-			<content:encoded><![CDATA[#5967
-opened
-Jul 25, 2022
-by
-
-ddobranic]]></content:encoded>
-		</item>
-		<item>
 			<title>[Windows] mongo service will be disabled by default on August, 8th</title>
 			<link>https://github.com/actions/runner-images/issues/5949</link>
 			<pubDate>Fri, 22 Jul 2022 09:51:58 +0000</pubDate>
