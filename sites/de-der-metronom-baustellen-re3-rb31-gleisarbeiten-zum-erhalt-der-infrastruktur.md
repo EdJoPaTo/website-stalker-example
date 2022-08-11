@@ -28,7 +28,7 @@ Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die 
 
 Zudem sind die Züge nachts zwischen Unterlüß und Celle bzw. Hannover im Ausfall. Auch hier ist ein SEV eingerichtet.
 
-**Bitte informiert euch am besten in den hier bereitgestellten Fahrplantabellen** oder den elektronischen Auskunftsmedien. Zur besseren Übersicht sind in den Tabellen Züge und Busse des SEV in einer Tabelle zusammengefügt (aufgrund von Verzögerungen bei den Bauarbeiten gilt der Zugfahrplan, der ursprünglich ab 5. August gelten sollte, erst ab dem 11. August).
+**Bitte informiert euch am besten in den hier bereitgestellten Fahrplantabellen oder den elektronis****chen Auskunftsmedien**. Zur besseren Übersicht sind in den Tabellen Züge und Busse des SEV in einer Tabelle zusammengefügt (aufgrund von Verzögerungen bei den Bauarbeiten gilt der Zugfahrplan, der ursprünglich ab 5. August gelten sollte, erst ab dem 11. August).
 
 **\+++**
 
