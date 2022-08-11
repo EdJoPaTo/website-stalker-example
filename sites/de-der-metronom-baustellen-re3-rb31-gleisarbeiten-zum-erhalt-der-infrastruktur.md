@@ -16,7 +16,7 @@ Hannover Hbf - Uelzen - Hamburg Hbf
 
 #### Art der Einschränkung: ####
 
-Aufgrund einer Großbaustelle der DB Netz AG kommt es zu ganztägigen (Teil-)Ausfällen von Verbindungen auf den Linien RE3 und RB31 auf der Strecke **Uelzen** - **Hamburg Hbf**. *metronom* kann zwischen Hamburg, Lüneburg und Uelzen insgesamt deutlich weniger Verbindungen anbieten als gewohnt: Die Züge der Linie RB31 entfallen zunächst bis auf sehr wenige Ausnahmen komplett oder fahren unregelmäßig. Auch die Verstärkerzüge der RE3 entfallen.
+Aufgrund einer Großbaustelle der DB Netz AG kommt es zu ganztägigen (Teil-)Ausfällen von Verbindungen auf den Linien RE3 und RB31 auf der Strecke **Uelzen** - **Hamburg Hbf**. *metronom* kann zwischen Hamburg, Lüneburg und Uelzen insgesamt deutlich weniger Verbindungen anbieten als gewohnt: Die Züge der Linie RB31 entfallen oder fahren unregelmäßig. Auch die Verstärkerzüge der RE3 entfallen.
 
 Vor allem **zwischen Winsen und Hamburg-Harburg** kommt es zu massiven Beeinträchtigungen, da die Bahnhöfe Ashausen, Stelle, Maschen und Meckelfeld aufgrund der Baumaßnahme nur selten angefahren werden können. Für die entfallenden Zugverbindungen ist ein **Schienenersatzverkehr** (SEV) eingerichtet. Ergänzende Infos zum SEV finden Sie weiter unten.
 
@@ -24,7 +24,7 @@ Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die 
 
 **\+++Update gültig ab dem 11. August 2022 bis 21. August 2022+++**
 
-**Einige Züge der RB31 fahren wieder zwischen Lüneburg und Hamburg, allerdings nur sehr unregelmäßig.** Welche Verbindungen durchfahren und welche ausfallen, variiert aufgrund der Bauarbeiten z.T. täglich. **Die RE3 fährt bis auf die Verstärkerzüge wieder planmäßig, das heißt die bisherigen Zusatzhaltestellen der RE3 in Radbruch und Bardowick entfallen.**
+**Einige Züge der RB31 fahren wieder zwischen Lüneburg und Hamburg, allerdings nur sehr unregelmäßig.** Die (Teil-)Ausfälle aufgrund der Bauarbeiten variieren z.T. täglich. **Die RE3 fährt bis auf die Verstärkerzüge wieder planmäßig, das heißt die bisherigen Zusatzhaltestellen der RE3 in Radbruch und Bardowick entfallen.**
 
 Zudem sind die Züge nachts zwischen Unterlüß und Celle bzw. Hannover im Ausfall. Auch hier ist ein SEV eingerichtet.
 
