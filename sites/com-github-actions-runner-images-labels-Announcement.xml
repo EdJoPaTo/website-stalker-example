@@ -28,17 +28,6 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>Ubuntu 22.04 is generally available starting from August, 8</title>
-			<link>https://github.com/actions/runner-images/issues/5998</link>
-			<pubDate>Tue, 02 Aug 2022 08:40:41 +0000</pubDate>
-			<content:encoded><![CDATA[#5998
-opened
-Aug 2, 2022
-by
-
-miketimofeev]]></content:encoded>
-		</item>
-		<item>
 			<title>[Windows] mongo service will be disabled by default on August, 8th</title>
 			<link>https://github.com/actions/runner-images/issues/5949</link>
 			<pubDate>Fri, 22 Jul 2022 09:51:58 +0000</pubDate>
