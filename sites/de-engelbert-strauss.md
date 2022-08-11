@@ -1,195 +1,117 @@
-auch für Damen & Kids:
-==========
+Rock Band meets Work Brand
 
 ---
 
-###  Funktions
-Short  ###
+METALLICA X STRAUSS
 
 ---
 
-[Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/funktions-short-e-s-trail-damen-3162280-96162-1621.html?itemorigin=startseite_fs22)
+[Mehr erfahren](https://www.engelbert-strauss.de/metallica-works)
 
-[Kinder](https://www.engelbert-strauss.de/kinder-shorts/funktions-short-e-s-trail-kinder-3162330-96172-1621.html?itemorigin=startseite_fs22)
-
-PERFORMANCE-WORKWEAR
-
-==========
+Neuheiten Herbst / Winter '22
 
 ---
 
- E.S.
-TRAIL
-----------
+e.s.concrete
 
 ---
 
-Cool & sportlich durchstarten.
-Die ultraleichten Shirts und Funktionshosen e.s.trail bieten perfekte Funktion für heiße Tage!
+[Kollektion entdecken](https://www.engelbert-strauss.de/concrete)
 
-[Alle Produkte](https://www.engelbert-strauss.de/e-s-trail/)
-
-[e.s.Trail](https://www.engelbert-strauss.de/#!start/slide1)
-
-[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide2)
-
-[O1 BERUFSSCHUHE](https://www.engelbert-strauss.de/#!start/slide3)
-
-Neue Kollektion
-
-==========
+Neuheiten Herbst / Winter '22
 
 ---
 
-Metallica x
-strauss
-
-----------
+e.s.motion ten
 
 ---
 
-Rock Band trifft Work Brand. Zwei Headliner feiern ihre heiß ersehnte Zugabe mit einer brandneuen Kollektion. Let's rock!
+[Kollektion entdecken](https://www.engelbert-strauss.de/motion_ten)
 
-[Jetzt kaufen](https://www.engelbert-strauss.de/s/suche?query=metallica)
+ 30 TAGE RÜCKGABERECHT
 
-[Mehr erfahren](https://www.engelbert-strauss.de/metallica-works?ItemOrigin=startseite_fs22)
+[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
 
-[e.s.Trail](https://www.engelbert-strauss.de/#!start/slide1)
+ KOSTENLOSE RÜCKSENDUNGEN
 
-[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide2)
+[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
 
-[O1 BERUFSSCHUHE](https://www.engelbert-strauss.de/#!start/slide3)
+ KAUF AUF RECHNUNG
 
- Sprint in den Sommer
-==========
+[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
+
+ Neuheiten
+---
+
+[Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
+
+ 18,0 V Akku-Winkelschleifer
+---
+
+ STARKER ALLROUNDER
+---
+
+ Egal ob präzise Bohrarbeiten, feines Schleifen oder grobes Trennen von Metall: Der 18,0 V Akku-Winkelschleifer ist ein vielseitiger Helfer in Profi-Qualität
+
+[Mehr erfahren](https://www.engelbert-strauss.de/akku-winkelschleifer)
+
+[Jetzt kaufen](https://www.engelbert-strauss.de/akku-geraete/18-0-v-akku-winkelschleifer-7118230-5521250-0.html?amp;itemorigin=startseite_hw22)
+
+ e.s.Concrete Warnschutz
+---
+
+SICHTBARKEIT, DIE SICH GUT ANFÜHLT
 
 ---
 
-Leicht-
-gewichte
+[Kollektion entdecken](https://www.engelbert-strauss.de/concrete-warnschutz)
 
-----------
+ S1 e.s. Nakuru mid
+---
+
+STYLISCH, SICHER, SPORTLICH
 
 ---
 
-Weniger ist mehr – gerade im Sommer! Unsere O1 Berufsschuhe setzen auf weniger Gewicht dafür auf viel Komfort. Genau richtig für ein luftig-leichtes Tragegefühl.
+[Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
 
-[e.s. Chete](https://www.engelbert-strauss.de/berufsschuhe-o1/o1-berufsschuhe-e-s-chete-1001030-86975-1493.html?amp;itemorigin=startseite_fs22)
+[Jetzt kaufen](https://www.engelbert-strauss.de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-nakuru-mid-1101480-93991-1.html?amp;itemorigin=startseite_hw22)
 
-[Alle O1 Berufsschuhe](https://www.engelbert-strauss.de/berufsschuhe-o1/)
-
-[e.s.Trail](https://www.engelbert-strauss.de/#!start/slide1)
-
-[Metallica x strauss](https://www.engelbert-strauss.de/#!start/slide2)
-
-[O1 BERUFSSCHUHE](https://www.engelbert-strauss.de/#!start/slide3)
-
- E.S.TOOL CONCEPT
-==========
-
+ Werkzeug in innovativen Taschen
 ---
 
-###  Werkzeugtaschen
-mit System  ###
+alle Produkte
 
+[Gürtel](https://www.engelbert-strauss.de/guertel-hosentraeger/guertel-e-s-tool-concept-3401820-8245960-1.html?amp;itemorigin=startseite_hw22)
+
+ e.s.tool concept
+---
+
+ KREIEREN SIE IHRE EIGENE WERKZEUGTASCHE
 ---
 
 [Mehr erfahren](https://www.engelbert-strauss.de/tool-concept?ItemOrigin=StartFS22)
 
-Alle Produkte
+[Ci Configurator](https://cargo-configurator.engelbert-strauss.de/)
 
- Bis zu 49% sparen
-==========
-
+ Noch mehr Strauss-Highlights
 ---
 
-###  SOMMER SALE  ###
+[Bekleidung](https://www.engelbert-strauss.de/arbeitskleidung/)
 
----
+[Schuhe](https://www.engelbert-strauss.de/arbeitsschuhe/)
 
-Herren
+[Werkzeug](https://www.engelbert-strauss.de/sale-werkzeuge/)
 
-Damen
+[Arbeitsschutz](https://www.engelbert-strauss.de/arbeitsschutz/)
 
-Kinder
-
-[Alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest)
-
- Workwear-Looks für heiße Arbeitstage
----
-
- Leicht und lässig
-==========
-
----
-
-###
-
-Shirts
-
- ###
-
----
-
-[für Herren](https://www.engelbert-strauss.de/arbeitsshirts/)
-
-[für Damen](https://www.engelbert-strauss.de/arbeitsshirts-damen/)
-
- Perfekt für den Sommer
-==========
-
----
-
-###
-
-Shorts
-
- ###
-
----
-
-[für Herren](https://www.engelbert-strauss.de/arbeitsshorts/)
-
-[für Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
-
- Teamwear für bewegte Jobs
----
-
-###  GASTRO  ###
-
----
-
-[für Herren](https://www.engelbert-strauss.de/gastronomiebekleidung-kochbekleidung/)
-
-[für Damen](https://www.engelbert-strauss.de/gastro-damen/)
-
-###  MEDICAL  ###
-
----
-
-[für Herren](https://www.engelbert-strauss.de/klinikbekleidung-pflegebekleidung/)
-
-[für Damen](https://www.engelbert-strauss.de/medical-damen/)
+[Betriebsbedarf](https://www.engelbert-strauss.de/betriebsbedarf/)
 
  Newsletter abonnieren
 
  und exklusive Aktionen, Gutscheine & Schnäppchen sichern
 
 [Jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?ItemOrigin=StartFS22)
-
- Bestellvorteile auf einen Blick
-
- 30 TAGE RÜCKGABERECHT
-
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch?ItemOrigin=StartFS22)
-
- KOSTENLOSE RÜCKSENDUNGEN
-
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch?ItemOrigin=StartFS22)
-
- KAUF AUF RECHNUNG
-
-[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen?ItemOrigin=StartFS22)
 
 []()
 
