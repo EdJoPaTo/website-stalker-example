@@ -64,6 +64,195 @@
 						</p>
 					</blockquote>
 					<h4>
+						<a class="anchor" href="#august-12-2022" name="august-12-2022">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						August 12, 2022
+					</h4>
+					<p>
+						<strong>
+							Bot API 6.2
+						</strong>
+					</p>
+					<p>
+						<strong>
+							Custom Emoji Support
+						</strong>
+					</p>
+					<ul>
+						<li>
+							Added the
+							<a href="#messageentity">
+								MessageEntity
+							</a>
+							type “custom_emoji”.
+						</li>
+						<li>
+							Added the field
+							<em>
+								custom_emoji_id
+							</em>
+							to the class
+							<a href="#messageentity">
+								MessageEntity
+							</a>
+							for “custom_emoji” entities.
+						</li>
+						<li>
+							Added the method
+							<a href="#getcustomemojistickers">
+								getCustomEmojiStickers
+							</a>
+							.
+						</li>
+						<li>
+							Added the fields
+							<em>
+								type
+							</em>
+							and
+							<em>
+								custom_emoji_id
+							</em>
+							to the class
+							<a href="#sticker">
+								Sticker
+							</a>
+							.
+						</li>
+						<li>
+							Added the field
+							<em>
+								sticker_type
+							</em>
+							to the class
+							<a href="#stickerset">
+								StickerSet
+							</a>
+							, describing the type of stickers in the set.
+						</li>
+						<li>
+							The field
+							<em>
+								contains_masks
+							</em>
+							has been removed from the documentation of the class
+							<a href="#stickerset">
+								StickerSet
+							</a>
+							. The field is still returned in the object for backward compatibility, but new bots should use the field
+							<em>
+								sticker_type
+							</em>
+							instead.
+						</li>
+						<li>
+							Added the parameter
+							<em>
+								sticker_type
+							</em>
+							to the method
+							<a href="#createnewstickerset">
+								createNewStickerSet
+							</a>
+							.
+						</li>
+						<li>
+							The parameter
+							<em>
+								contains_masks
+							</em>
+							has been removed from the documentation of the method
+							<a href="#createnewstickerset">
+								createNewStickerSet
+							</a>
+							. The parameter will still work for backward compatibility, but new bots should use the parameter
+							<em>
+								sticker_type
+							</em>
+							instead.
+						</li>
+					</ul>
+					<p>
+						<strong>
+							Web App Improvements
+						</strong>
+					</p>
+					<ul>
+						<li>
+							Added the field
+							<em>
+								isClosingConfirmationEnabled
+							</em>
+							and the methods
+							<em>
+								enableClosingConfirmation
+							</em>
+							,
+							<em>
+								disableClosingConfirmation
+							</em>
+							,
+							<em>
+								showPopup
+							</em>
+							,
+							<em>
+								showAlert
+							</em>
+							,
+							<em>
+								showConfirm
+							</em>
+							to the class
+							<a href="/bots/webapps#initializing-web-apps">
+								WebApp
+							</a>
+							.
+						</li>
+						<li>
+							Added the field
+							<em>
+								is_premium
+							</em>
+							to the class
+							<a href="/bots/webapps#webappuser">
+								WebAppUser
+							</a>
+							.
+						</li>
+						<li>
+							Added the event
+							<em>
+								popupClosed
+							</em>
+							.
+						</li>
+					</ul>
+					<p>
+						<strong>
+							Other Changes
+						</strong>
+					</p>
+					<ul>
+						<li>
+							Added the field
+							<em>
+								has_restricted_voice_and_video_messages
+							</em>
+							to the class
+							<a href="#chat">
+								Chat
+							</a>
+							to support the
+							<a href="https://telegram.org/blog/custom-emoji#privacy-settings-for-voice-messages">
+								new setting
+							</a>
+							.
+						</li>
+					</ul>
+					<h4>
 						<a class="anchor" href="#june-20-2022" name="june-20-2022">
 							<i class="anchor-icon">
 							</i>
@@ -606,139 +795,6 @@
 								addStickerToSet
 							</a>
 							.
-						</li>
-					</ul>
-					<h4>
-						<a class="anchor" href="#december-30-2021" name="december-30-2021">
-							<i class="anchor-icon">
-							</i>
-						</a>
-						December 30, 2021
-					</h4>
-					<p>
-						<strong>
-							Bot API 5.6
-						</strong>
-					</p>
-					<ul>
-						<li>
-							Improved support for
-							<a href="https://telegram.org/blog/protected-content-delete-by-date-and-more#protected-content-in-groups-and-channels">
-								Protected Content
-							</a>
-							.
-						</li>
-						<li>
-							Added the parameter
-							<em>
-								protect_content
-							</em>
-							to the methods
-							<a href="#sendmessage">
-								sendMessage
-							</a>
-							,
-							<a href="#sendphoto">
-								sendPhoto
-							</a>
-							,
-							<a href="#sendvideo">
-								sendVideo
-							</a>
-							,
-							<a href="#sendanimation">
-								sendAnimation
-							</a>
-							,
-							<a href="#sendaudio">
-								sendAudio
-							</a>
-							,
-							<a href="#senddocument">
-								sendDocument
-							</a>
-							,
-							<a href="#sendsticker">
-								sendSticker
-							</a>
-							,
-							<a href="#sendvideonote">
-								sendVideoNote
-							</a>
-							,
-							<a href="#sendvoice">
-								sendVoice
-							</a>
-							,
-							<a href="#sendlocation">
-								sendLocation
-							</a>
-							,
-							<a href="#sendvenue">
-								sendVenue
-							</a>
-							,
-							<a href="#sendcontact">
-								sendContact
-							</a>
-							,
-							<a href="#sendpoll">
-								sendPoll
-							</a>
-							,
-							<a href="#senddice">
-								sendDice
-							</a>
-							,
-							<a href="#sendinvoice">
-								sendInvoice
-							</a>
-							,
-							<a href="#sendgame">
-								sendGame
-							</a>
-							,
-							<a href="#sendmediagroup">
-								sendMediaGroup
-							</a>
-							,
-							<a href="#copymessage">
-								copyMessage
-							</a>
-							,
-							<a href="#forwardmessage">
-								forwardMessage
-							</a>
-							to allow sending messages with protected content to any chat.
-						</li>
-						<li>
-							Added support for
-							<a href="https://telegram.org/blog/reactions-spoilers-translations#spoilers">
-								spoiler entities
-							</a>
-							, which will work in Telegram versions released after December 30, 2021. Older clients will display
-							<em>
-								unsupported message
-							</em>
-							.
-						</li>
-						<li>
-							Added new
-							<a href="#messageentity">
-								MessageEntity
-							</a>
-							type “spoiler”.
-						</li>
-						<li>
-							Added the ability to specify spoiler entities using
-							<a href="#html-style">
-								HTML
-							</a>
-							and
-							<a href="#markdownv2-style">
-								MarkdownV2
-							</a>
-							formatting options.
 						</li>
 					</ul>
 					<p>
@@ -1287,11 +1343,11 @@
 						<a href="https://en.wikipedia.org/wiki/Push_technology#Long_polling">
 							wiki
 						</a>
-						). An Array of
+						). Returns an Array of
 						<a href="#update">
 							Update
 						</a>
-						objects is returned.
+						objects.
 					</p>
 					<table class="table">
 						<thead>
@@ -2282,6 +2338,28 @@
 										tg://user?id=<user_id>
 									</code>
 									links only in chats with the user. Returned only in
+									<a href="#getchat">
+										getChat
+									</a>
+									.
+								</td>
+							</tr>
+							<tr>
+								<td>
+									has_restricted_voice_and_video_messages
+								</td>
+								<td>
+									True
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									.
+									<em>
+										True
+									</em>
+									, if the privacy settings of the other party restrict sending voice and video note messages in the private chat. Returned only in
 									<a href="#getchat">
 										getChat
 									</a>
@@ -3638,7 +3716,7 @@
 									<a href="https://telegram.org/blog/edit#new-mentions">
 										without usernames
 									</a>
-									)
+									), “custom_emoji” (for inline custom emoji stickers)
 								</td>
 							</tr>
 							<tr>
@@ -3705,6 +3783,24 @@
 										Optional
 									</em>
 									. For “pre” only, the programming language of the entity text
+								</td>
+							</tr>
+							<tr>
+								<td>
+									custom_emoji_id
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									. For “custom_emoji” only, unique identifier of the custom emoji. Use
+									<a href="#getcustomemojistickers">
+										getCustomEmojiStickers
+									</a>
+									to get full information about the sticker
 								</td>
 							</tr>
 						</tbody>
@@ -9551,7 +9647,7 @@
 									<em>
 										True
 									</em>
-									, if the uploaded video is suitable for streaming
+									if the uploaded video is suitable for streaming
 								</td>
 							</tr>
 						</tbody>
@@ -10464,7 +10560,7 @@
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -11000,7 +11096,15 @@ pre-formatted fixed-width code block written in the Python programming language
 						copyMessage
 					</h4>
 					<p>
-						Use this method to copy messages of any kind. Service messages and invoice messages can't be copied. The method is analogous to the method
+						Use this method to copy messages of any kind. Service messages and invoice messages can't be copied. A quiz
+						<a href="#poll">
+							poll
+						</a>
+						can be copied only if the value of the field
+						<em>
+							correct_option_id
+						</em>
+						is known to the bot. The method is analogous to the method
 						<a href="#forwardmessage">
 							forwardMessage
 						</a>
@@ -11194,7 +11298,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -11422,7 +11526,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -11715,7 +11819,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -11977,7 +12081,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -12225,7 +12329,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the uploaded video is suitable for streaming
+									if the uploaded video is suitable for streaming
 								</td>
 							</tr>
 							<tr>
@@ -12289,7 +12393,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -12579,7 +12683,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -12825,7 +12929,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -13050,7 +13154,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -13231,7 +13335,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 						</tbody>
@@ -13435,7 +13539,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -14025,7 +14129,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -14237,7 +14341,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -14527,7 +14631,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the poll needs to be immediately closed. This can be useful for poll preview.
+									if the poll needs to be immediately closed. This can be useful for poll preview.
 								</td>
 							</tr>
 							<tr>
@@ -14591,7 +14695,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -14783,7 +14887,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -15521,7 +15625,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator's presence in the chat is hidden
+									if the administrator's presence in the chat is hidden
 								</td>
 							</tr>
 							<tr>
@@ -15539,7 +15643,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can access the chat event log, chat statistics, message statistics in channels, see channel members, see anonymous administrators in supergroups and ignore slow mode. Implied by any other administrator privilege
+									if the administrator can access the chat event log, chat statistics, message statistics in channels, see channel members, see anonymous administrators in supergroups and ignore slow mode. Implied by any other administrator privilege
 								</td>
 							</tr>
 							<tr>
@@ -15557,7 +15661,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can create channel posts, channels only
+									if the administrator can create channel posts, channels only
 								</td>
 							</tr>
 							<tr>
@@ -15575,7 +15679,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can edit messages of other users and can pin messages, channels only
+									if the administrator can edit messages of other users and can pin messages, channels only
 								</td>
 							</tr>
 							<tr>
@@ -15593,7 +15697,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can delete messages of other users
+									if the administrator can delete messages of other users
 								</td>
 							</tr>
 							<tr>
@@ -15611,7 +15715,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can manage video chats
+									if the administrator can manage video chats
 								</td>
 							</tr>
 							<tr>
@@ -15629,7 +15733,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can restrict, ban or unban chat members
+									if the administrator can restrict, ban or unban chat members
 								</td>
 							</tr>
 							<tr>
@@ -15647,7 +15751,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can add new administrators with a subset of their own privileges or demote administrators that he has promoted, directly or indirectly (promoted by administrators that were appointed by him)
+									if the administrator can add new administrators with a subset of their own privileges or demote administrators that he has promoted, directly or indirectly (promoted by administrators that were appointed by him)
 								</td>
 							</tr>
 							<tr>
@@ -15665,7 +15769,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can change chat title, photo and other settings
+									if the administrator can change chat title, photo and other settings
 								</td>
 							</tr>
 							<tr>
@@ -15683,7 +15787,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can invite new users to the chat
+									if the administrator can invite new users to the chat
 								</td>
 							</tr>
 							<tr>
@@ -15701,7 +15805,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the administrator can pin messages, supergroups only
+									if the administrator can pin messages, supergroups only
 								</td>
 							</tr>
 						</tbody>
@@ -16860,7 +16964,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if it is not necessary to send a notification to all chat members about the new pinned message. Notifications are always disabled in channels and private chats.
+									if it is not necessary to send a notification to all chat members about the new pinned message. Notifications are always disabled in channels and private chats.
 								</td>
 							</tr>
 						</tbody>
@@ -17095,11 +17199,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						getChatAdministrators
 					</h4>
 					<p>
-						Use this method to get a list of administrators in a chat. On success, returns an Array of
+						Use this method to get a list of administrators in a chat, which aren't bots. Returns an Array of
 						<a href="#chatmember">
 							ChatMember
 						</a>
-						objects that contains information about all chat administrators except other bots. If the chat is a group or a supergroup and no administrators were appointed, only the creator will be returned.
+						objects.
 					</p>
 					<table class="table">
 						<thead>
@@ -17712,11 +17816,11 @@ pre-formatted fixed-width code block written in the Python programming language
 						getMyCommands
 					</h4>
 					<p>
-						Use this method to get the current list of the bot's commands for the given scope and user language. Returns Array of
+						Use this method to get the current list of the bot's commands for the given scope and user language. Returns an Array of
 						<a href="#botcommand">
 							BotCommand
 						</a>
-						on success. If commands aren't set, an empty list is returned.
+						objects. If commands aren't set, an empty list is returned.
 					</p>
 					<table class="table">
 						<thead>
@@ -18899,6 +19003,25 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									type
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Type of the sticker, currently one of “regular”, “mask”, “custom_emoji”. The type of the sticker is independent from its format, which is determined by the fields
+									<em>
+										is_animated
+									</em>
+									and
+									<em>
+										is_video
+									</em>
+									.
+								</td>
+							</tr>
+							<tr>
+								<td>
 									width
 								</td>
 								<td>
@@ -19010,7 +19133,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										Optional
 									</em>
-									. Premium animation for the sticker, if the sticker is premium
+									. For premium regular stickers, premium animation for the sticker
 								</td>
 							</tr>
 							<tr>
@@ -19027,6 +19150,20 @@ pre-formatted fixed-width code block written in the Python programming language
 										Optional
 									</em>
 									. For mask stickers, the position where the mask should be placed
+								</td>
+							</tr>
+							<tr>
+								<td>
+									custom_emoji_id
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									<em>
+										Optional
+									</em>
+									. For custom emoji stickers, unique identifier of the custom emoji
 								</td>
 							</tr>
 							<tr>
@@ -19094,6 +19231,17 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									sticker_type
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Type of stickers in the set, currently one of “regular”, “mask”, “custom_emoji”
+								</td>
+							</tr>
+							<tr>
+								<td>
 									is_animated
 								</td>
 								<td>
@@ -19124,20 +19272,6 @@ pre-formatted fixed-width code block written in the Python programming language
 									<a href="https://telegram.org/blog/video-stickers-better-reactions">
 										video stickers
 									</a>
-								</td>
-							</tr>
-							<tr>
-								<td>
-									contains_masks
-								</td>
-								<td>
-									Boolean
-								</td>
-								<td>
-									<em>
-										True
-									</em>
-									, if the sticker set contains masks
 								</td>
 							</tr>
 							<tr>
@@ -19382,7 +19516,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -19467,6 +19601,54 @@ pre-formatted fixed-width code block written in the Python programming language
 								</td>
 								<td>
 									Name of the sticker set
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<h4>
+						<a class="anchor" href="#getcustomemojistickers" name="getcustomemojistickers">
+							<i class="anchor-icon">
+							</i>
+						</a>
+						getCustomEmojiStickers
+					</h4>
+					<p>
+						Use this method to get information about custom emoji stickers by their identifiers. Returns an Array of
+						<a href="#sticker">
+							Sticker
+						</a>
+						objects.
+					</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>
+									Parameter
+								</th>
+								<th>
+									Type
+								</th>
+								<th>
+									Required
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									custom_emoji_ids
+								</td>
+								<td>
+									Array of String
+								</td>
+								<td>
+									Yes
+								</td>
+								<td>
+									List of custom emoji identifiers. At most 200 custom emoji identifiers can be specified.
 								</td>
 							</tr>
 						</tbody>
@@ -19734,6 +19916,20 @@ pre-formatted fixed-width code block written in the Python programming language
 							</tr>
 							<tr>
 								<td>
+									sticker_type
+								</td>
+								<td>
+									String
+								</td>
+								<td>
+									Optional
+								</td>
+								<td>
+									Type of stickers in the set, pass “regular” or “mask”. Custom emoji sticker sets can't be created via the Bot API at the moment. By default, a regular sticker set is created.
+								</td>
+							</tr>
+							<tr>
+								<td>
 									emojis
 								</td>
 								<td>
@@ -19744,24 +19940,6 @@ pre-formatted fixed-width code block written in the Python programming language
 								</td>
 								<td>
 									One or more emoji corresponding to the sticker
-								</td>
-							</tr>
-							<tr>
-								<td>
-									contains_masks
-								</td>
-								<td>
-									Boolean
-								</td>
-								<td>
-									Optional
-								</td>
-								<td>
-									Pass
-									<em>
-										True
-									</em>
-									, if a set of mask stickers should be created
 								</td>
 							</tr>
 							<tr>
@@ -20420,7 +20598,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if results may be cached on the server side only for the user that sent the query. By default, results may be returned to any user who sends the same query
+									if results may be cached on the server side only for the user that sent the query. By default, results may be returned to any user who sends the same query
 								</td>
 							</tr>
 							<tr>
@@ -20750,7 +20928,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you don't want the URL to be shown in the message
+									if you don't want the URL to be shown in the message
 								</td>
 							</tr>
 							<tr>
@@ -25205,7 +25383,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's full name to complete the order
+									if you require the user's full name to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -25223,7 +25401,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's phone number to complete the order
+									if you require the user's phone number to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -25241,7 +25419,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's email address to complete the order
+									if you require the user's email address to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -25259,7 +25437,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's shipping address to complete the order
+									if you require the user's shipping address to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -25277,7 +25455,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the user's phone number should be sent to provider
+									if the user's phone number should be sent to provider
 								</td>
 							</tr>
 							<tr>
@@ -25295,7 +25473,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the user's email address should be sent to provider
+									if the user's email address should be sent to provider
 								</td>
 							</tr>
 							<tr>
@@ -25313,7 +25491,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the final price depends on the shipping method
+									if the final price depends on the shipping method
 								</td>
 							</tr>
 						</tbody>
@@ -25893,7 +26071,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's full name to complete the order
+									if you require the user's full name to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -25911,7 +26089,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's phone number to complete the order
+									if you require the user's phone number to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -25929,7 +26107,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's email address to complete the order
+									if you require the user's email address to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -25947,7 +26125,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's shipping address to complete the order
+									if you require the user's shipping address to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -25965,7 +26143,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the user's phone number should be sent to provider
+									if the user's phone number should be sent to provider
 								</td>
 							</tr>
 							<tr>
@@ -25983,7 +26161,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the user's email address should be sent to provider
+									if the user's email address should be sent to provider
 								</td>
 							</tr>
 							<tr>
@@ -26001,7 +26179,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the final price depends on the shipping method
+									if the final price depends on the shipping method
 								</td>
 							</tr>
 							<tr>
@@ -26065,7 +26243,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -26368,7 +26546,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's full name to complete the order
+									if you require the user's full name to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -26386,7 +26564,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's phone number to complete the order
+									if you require the user's phone number to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -26404,7 +26582,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's email address to complete the order
+									if you require the user's email address to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -26422,7 +26600,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if you require the user's shipping address to complete the order
+									if you require the user's shipping address to complete the order
 								</td>
 							</tr>
 							<tr>
@@ -26440,7 +26618,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the user's phone number should be sent to the provider
+									if the user's phone number should be sent to the provider
 								</td>
 							</tr>
 							<tr>
@@ -26458,7 +26636,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the user's email address should be sent to the provider
+									if the user's email address should be sent to the provider
 								</td>
 							</tr>
 							<tr>
@@ -26476,7 +26654,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the final price depends on the shipping method
+									if the final price depends on the shipping method
 								</td>
 							</tr>
 						</tbody>
@@ -26550,11 +26728,15 @@ pre-formatted fixed-width code block written in the Python programming language
 									Yes
 								</td>
 								<td>
-									Specify
+									Pass
 									<em>
 										True
 									</em>
-									if delivery to the specified address is possible and False if there are any problems (for example, if delivery to the specified address is not possible)
+									if delivery to the specified address is possible and
+									<em>
+										False
+									</em>
+									if there are any problems (for example, if delivery to the specified address is not possible)
 								</td>
 							</tr>
 							<tr>
@@ -26597,7 +26779,11 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										ok
 									</em>
-									is False. Error message in human readable form that explains why it is impossible to complete the order (e.g. "Sorry, delivery to your desired address is unavailable'). Telegram will display this message to the user.
+									is
+									<em>
+										False
+									</em>
+									. Error message in human readable form that explains why it is impossible to complete the order (e.g. "Sorry, delivery to your desired address is unavailable'). Telegram will display this message to the user.
 								</td>
 							</tr>
 						</tbody>
@@ -28963,7 +29149,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the message should be sent even if the specified replied-to message is not found
+									if the message should be sent even if the specified replied-to message is not found
 								</td>
 							</tr>
 							<tr>
@@ -29214,7 +29400,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the high score is allowed to decrease. This can be useful when fixing mistakes or banning cheaters
+									if the high score is allowed to decrease. This can be useful when fixing mistakes or banning cheaters
 								</td>
 							</tr>
 							<tr>
@@ -29232,7 +29418,7 @@ pre-formatted fixed-width code block written in the Python programming language
 									<em>
 										True
 									</em>
-									, if the game message should not be automatically edited to include the current scoreboard
+									if the game message should not be automatically edited to include the current scoreboard
 								</td>
 							</tr>
 							<tr>
@@ -29303,11 +29489,7 @@ pre-formatted fixed-width code block written in the Python programming language
 						getGameHighScores
 					</h4>
 					<p>
-						Use this method to get data for high score tables. Will return the score of the specified user and several of their neighbors in a game. On success, returns an
-						<em>
-							Array
-						</em>
-						of
+						Use this method to get data for high score tables. Will return the score of the specified user and several of their neighbors in a game. Returns an Array of
 						<a href="#gamehighscore">
 							GameHighScore
 						</a>
