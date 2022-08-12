@@ -55,7 +55,7 @@ e.s.motion ten
 
 [Mehr erfahren](https://www.engelbert-strauss.de/akku-winkelschleifer)
 
-[Jetzt kaufen](https://www.engelbert-strauss.de/akku-geraete/18-0-v-akku-winkelschleifer-7118230-5521250-0.html?amp;itemorigin=startseite_hw22)
+[Jetzt kaufen](https://www.engelbert-strauss.de/akku-geraete/18-0-v-akku-winkelschleifer-125mm-7118230-5521250-0.html?amp;itemorigin=startseite_hw22)
 
  e.s.Concrete Warnschutz
 ---
