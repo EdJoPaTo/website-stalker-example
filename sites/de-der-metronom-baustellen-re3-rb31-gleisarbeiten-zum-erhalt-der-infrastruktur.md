@@ -4,7 +4,7 @@
 
 **Zeitraum:**
 
- 11.06.2022 - 21.08.2022
+ 11.06.2022 - 28.08.2022
 
 **Strecke:**
 
@@ -29,6 +29,14 @@ Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die 
 Zudem sind die Züge nachts zwischen Unterlüß und Celle bzw. Hannover im Ausfall. Auch hier ist ein SEV eingerichtet.
 
 **Bitte informiert euch am besten in den hier bereitgestellten Fahrplantabellen oder den elektronis****chen Auskunftsmedien**. Zur besseren Übersicht sind in den Tabellen Züge und Busse des SEV in einer Tabelle zusammengefügt.
+
+**\+++**
+
+**\+++Update gültig ab dem 22. August 2022 bis 28. August 2022+++**
+
+Auf der Linie RB31 entfallen bei fast allen Zügen (täglich) in Fahrtrichtung Lüneburg \> Hamburg die Halte in Radbruch und Bardowick. Des Weiteren kommt es zu Fahrzeitänderungen auf dem gesamten Streckenabschnitt an verschiedenen Tagen sowie zu Ausfällen zwischen Celle - Unterlüß – Uelzen bzw. Hamburg – Lüneburg in den Nachtstunden.
+
+**Bitte informiert euch am besten in den hier bereitgestellten Fahrplantabellen oder den elektronis****chen Auskunftsmedien**. Zur besseren Übersicht sind auch hier in den Tabellen Züge und Busse des SEV in einer Tabelle zusammengefügt.
 
 **\+++**
 
