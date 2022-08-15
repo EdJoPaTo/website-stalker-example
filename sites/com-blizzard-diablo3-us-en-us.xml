@@ -6,6 +6,11 @@
 		<description>Diablo III is a genre-defining action-RPG set in Sanctuary, a world ravaged by the eternal conflict between angels and demons.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Season 27 Light’s Calling Preview</title>
+			<link>https://us.diablo3.blizzard.com/en-us/blog/23816414/season-27-light%E2%80%99s-calling-preview-8-15-2022</link>
+			<content:encoded><![CDATA[The light is calling in Season 27 of Diablo III. Starting on August 26 at 5 p.m. PDT/CEST/KST, you can transform your Legendary items into Sanctified items, collect two new seasonal cosmetic rewards, and more!]]></content:encoded>
+		</item>
+		<item>
 			<title>Diablo III PTR 2.7.4 | Has Concluded</title>
 			<link>https://us.diablo3.blizzard.com/en-us/blog/23826543/diablo-iii-ptr-274-%7C-has-concluded-7-8-2022</link>
 			<content:encoded><![CDATA[The Diablo III 2.7.4 PTR testing period begins on July 12 and will run for two weeks. Join us in testing a new seasonal theme, item changes, and more!]]></content:encoded>
@@ -54,11 +59,6 @@
 			<title>Diablo 3 PTR 2.7.2 | Has ended</title>
 			<link>https://us.diablo3.blizzard.com/en-us/blog/23730897/diablo-3-ptr-272-%7C-has-ended-11-1-2021</link>
 			<content:encoded><![CDATA[Our two-week PTR testing period for the 2.7.2 update begins on November 4, and we're asking for your help to quell the tides of surging demons.]]></content:encoded>
-		</item>
-		<item>
-			<title>Play Diablo® II: Resurrected™ During the Early Access &amp; Open Beta</title>
-			<link>https://news.blizzard.com/en-us/diablo2/23688836/play-diablo%C2%AE-ii-resurrected%E2%84%A2-during-the-early-access-open-beta-8-10-2021</link>
-			<content:encoded><![CDATA[Learn more about the Diablo II: Resurrected Early Access & Open Beta. Get all the details and answers to your most pressing questions about these upcoming tests!]]></content:encoded>
 		</item>
 	</channel>
 </rss>
