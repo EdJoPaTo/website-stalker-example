@@ -5,8 +5,6 @@
 * [Liftachse](https://www.wdrmaus.de/filme/sachgeschichten/liftachse.php5)
 * [Handy Vibrieren](https://www.wdrmaus.de/filme/sachgeschichten/handy_vibrieren.php5)
 
-* [Honig](https://www.wdrmaus.de/filme/sachgeschichten/honig.php5)
-* [Honig Haltbarkeit](https://www.wdrmaus.de/filme/sachgeschichten/honig_haltbarkeit.php5)
 * [180 Grad Artistic](https://www.wdrmaus.de/filme/sachgeschichten/180_grad_artistic.php5)
 * [360-Grad](https://www.wdrmaus.de/filme/sachgeschichten/360_grad.php5)
 * [3D Maus](https://www.wdrmaus.de/filme/sachgeschichten/3d_maus.php5)
@@ -402,6 +400,8 @@
 * [Holzbiegen](https://www.wdrmaus.de/filme/sachgeschichten/holzbiegen.php5)
 * [Holzbilderbuch](https://www.wdrmaus.de/filme/sachgeschichten/holzbilderbuch.php5)
 * [Holzkunststoff](https://www.wdrmaus.de/filme/sachgeschichten/holzkunststoff.php5)
+* [Honig](https://www.wdrmaus.de/filme/sachgeschichten/honig.php5)
+* [Honig Haltbarkeit](https://www.wdrmaus.de/filme/sachgeschichten/honig_haltbarkeit.php5)
 * [Hopfen](https://www.wdrmaus.de/filme/sachgeschichten/hopfen.php5)
 * [Hostien](https://www.wdrmaus.de/filme/sachgeschichten/hostien.php5)
 * [Hubschrauber](https://www.wdrmaus.de/filme/sachgeschichten/hubschrauber.php5)
