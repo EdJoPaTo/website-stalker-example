@@ -53,10 +53,6 @@ sites:
             - html_textify
 
 
-  - url: https://wiki.gnome.org/Schedule
-    editors:
-      - css_select: '#content'
-      - html_markdownify
   - url: https://www.raspberrypi.com/software/operating-systems/
     editors:
       - css_select: main
@@ -65,33 +61,6 @@ sites:
   - url: https://files.teamspeak-services.com/releases/server/
     editors:
       - html_prettify
-  - url: https://us.diablo3.blizzard.com/en-us/
-    editors:
-      - rss:
-          item_selector: .article-wrapper
-          content_editors:
-            - css_select: .article-content
-            - css_remove: h2
-            - html_textify
-  - url: https://www.thatskygame.com/news/
-    editors:
-      - rss:
-          title: Sky Game News
-          item_selector: article.article
-          title_selector: h1
-          content_editors:
-            - css_select: .article-content
-            - css_remove: h1
-            - html_prettify
-  - url: https://github.com/actions/runner-images/labels/Announcement
-    editors:
-      - rss:
-          title: GitHub actions/runner-images Announcement
-          item_selector: .js-issue-row
-          title_selector: a
-          content_editors:
-            - css_select: .labels, .opened-by
-            - html_textify
   - url: https://blinry.org/
     editors:
       - css_select: .box
@@ -114,60 +83,6 @@ sites:
           content_editors:
             - css_select: article > div
             - html_prettify
-
-  - url:
-      - https://www.conventionalcommits.org/en/
-      - https://keepachangelog.com/en/
-    editors:
-      - html_prettify
-  - url:
-      - https://www.conventionalcommits.org/en/v1.0.0/
-      - https://keepachangelog.com/en/1.1.0/
-    editors:
-      - css_remove: nav.locales
-      - css_select: article
-      - html_markdownify
-
-  - url:
-      - https://www.apple.com/
-      - https://www.apple.com/de/
-    editors:
-      - css_select: nav
-      - html_url_canonicalize
-      - html_markdownify
-  - url:
-      - https://www.apple.com/sitemap/
-      - https://www.apple.com/de/sitemap/
-      - https://www.apple.com/apple-pay/
-      - https://www.apple.com/de/apple-pay/
-      - https://opensource.apple.com/
-      - https://opensource.apple.com/projects/
-    editors:
-      - css_select: main
-      - css_remove: noscript, img, picture, .footnote, .ribbon, .services-subsection, .apple-one-tile, .section-retail, *[data-analytics-activitymap-region-id~=ribbon]
-      - html_url_canonicalize
-      - html_markdownify
-  - url:
-      - https://www.apple.com/mac/compare/
-      - https://www.apple.com/ipad/compare/
-      - https://www.apple.com/iphone/compare/
-      - https://www.apple.com/airpods/compare/
-    editors:
-      - css_select: '#backport-data'
-      - css_remove: noscript, img, picture, .footnote, .ribbon, *[data-analytics-activitymap-region-id~=ribbon]
-      - html_url_canonicalize
-      - html_prettify
-  - url: https://www.apple.com/watch/compare/
-    editors:
-      - css_select: main
-      - css_remove: noscript, img, picture, .footnote, .ribbon, *[data-analytics-activitymap-region-id~=ribbon]
-      - html_url_canonicalize
-      - html_prettify
-  - url: https://beta.apple.com/sp/betaprogram
-    editors:
-      - css_select: .content
-      - html_url_canonicalize
-      - html_markdownify
 
   - url:
       - https://www.netcup-sonderangebote.de/
@@ -195,9 +110,7 @@ sites:
       - html_prettify
 
 
-  - url:
-      - https://www.hetzner.com/news/
-      - https://www.hetzner.com/press-release/
+  - url: https://www.hetzner.com/news/
     ignore_error: true
     editors:
       - rss:
@@ -216,36 +129,12 @@ sites:
       - css_remove: 'script, img, .promoteaser, #footer'
       - html_url_canonicalize
       - html_markdownify
-  - url:
-      - https://www.wdrmaus.de/extras/mausthemen/corona/
-      - https://www.wdrmaus.de/extras/mausthemen/ukraine/
-    editors:
-      - css_select: '#content'
-      - css_remove: 'script, img, .promoteaser, #footer, .imagecontainer, .imageSlider'
-      - html_url_canonicalize
-      - html_markdownify
   - url: https://www.wdrmaus.de/filme/sachgeschichten/?filter=alle
     editors:
       - css_select: .links
       - css_remove: script, img
       - html_url_canonicalize
       - html_markdownify
-
-  - url: https://telegram.org/blog
-    editors:
-      - rss:
-          item_selector: .dev_blog_card_link_wrap
-          title_selector: h4
-          content_editors:
-            - html_prettify
-  - url: https://core.telegram.org/bots
-    editors:
-      - css_select: .container .dev_page
-      - html_markdownify
-  - url: https://core.telegram.org/bots/api
-    editors:
-      - css_select: .container .dev_page
-      - html_prettify
 
   - url: https://www.der-metronom.de/aktuell/
     editors:
@@ -273,44 +162,4 @@ sites:
       - css_select: body
       - css_remove: img, script, style, header, .imagemap
       - html_url_canonicalize
-      - html_markdownify
-  - url: https://www.engelbert-strauss.de/Unternehmen/Presse/Presseberichte
-    editors:
-      - rss:
-          title: Engelbert Strauss
-          item_selector: .press-release
-          content_editors:
-            - css_remove: h2, .icon-button-list, .show-more-button
-            - html_url_canonicalize
-            - html_prettify
-  - url: https://purpose-economy.org/en/
-    editors:
-      - css_remove: style, script, img
-      - html_markdownify
-  - url:
-      - https://purpose-economy.org/en/media-press/
-      - https://purpose-economy.org/en/ressources/
-    editors:
-      - css_select: main
-      - css_remove: style, script, img
-      - html_markdownify
-  - url: https://purpose-economy.org/en/companies/
-    editors:
-      - css_select: article
-      - css_remove: .teaser_image, .teaser_link_text
-      - html_markdownify
-      - regex_replace:
-          pattern: \) \[
-          replace: ")\n["
-
-  - url:
-      - https://www.steamdeck.com/en/
-      - https://www.steamdeck.com/en/hardware
-      - https://www.steamdeck.com/en/software
-      - https://www.steamdeck.com/en/verified
-      - https://www.steamdeck.com/en/faq
-      - https://www.steamdeck.com/en/tech
-    editors:
-      - css_select: '#content'
-      - css_remove: video, img, .footnote, .home, .verified_app_card
       - html_markdownify
