@@ -17,7 +17,7 @@ by
 miketimofeev]]></content:encoded>
 		</item>
 		<item>
-			<title>The macOS 10.15 Actions runner image will begin deprecation on 5/31/22 and will be fully unsupported by 8/30/22 in GitHub and by 9/30/22 in ADO</title>
+			<title>The macOS 10.15 Actions runner image will begin deprecation on 5/31/22 and will be fully unsupported by 12/1/22 for GitHub and ADO</title>
 			<link>https://github.com/actions/runner-images/issues/5583</link>
 			<pubDate>Fri, 20 May 2022 14:05:15 +0000</pubDate>
 			<content:encoded><![CDATA[#5583
