@@ -121,7 +121,7 @@ sites:
   - url: https://docs.hetzner.com/robot/dedicated-server/operating-systems/standard-images/
     editors:
       - css_select: div.article
-      - css_remove: svg
+      - css_remove: svg, a[href^="#"]
       - html_prettify
 
   - url: https://www.wdrmaus.de/aktuelle-sendung/
