@@ -473,6 +473,7 @@
 * [Kletterroboter](https://www.wdrmaus.de/filme/sachgeschichten/kletterroboter.php5)
 * [Klimawandel: Bauen und Wohnen](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge3.php5)
 * [Klimawandel: Energie](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge2.php5)
+* [Klimawandel: Landwirtschaft](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge5.php5)
 * [Klimawandel: Mobilität](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge4.php5)
 * [Klimawandel: Wetter, Klima und der menschliche Einfluss](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge1.php5)
 * [Klöppel](https://www.wdrmaus.de/filme/sachgeschichten/kloeppel.php5)
