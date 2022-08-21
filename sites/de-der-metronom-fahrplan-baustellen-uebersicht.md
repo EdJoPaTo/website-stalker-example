@@ -18,7 +18,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[05.08.2022 - 21.08.2022 RE4/RB41 Weichenarbeiten/Brückenbauarbeiten zwischen Buchholz (N.) und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-weichenarbeiten-brueckenbauarbeiten-zwischen-buchholz-n-und-hamburg-harburg/)
+Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
