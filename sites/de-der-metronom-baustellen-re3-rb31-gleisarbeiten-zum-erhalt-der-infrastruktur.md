@@ -22,16 +22,6 @@ Vor allem **zwischen Winsen und Hamburg-Harburg** kommt es zu massiven Beeinträ
 
 Die Arbeiten sind Teil umfassender Baumaßnahmen auf der genannten Strecke, die insgesamt bis Ende September andauern werden.
 
-**\+++Update gültig ab dem 11. August 2022 bis 21. August 2022+++**
-
-**Einige Züge der RB31 fahren wieder zwischen Lüneburg und Hamburg, allerdings nur sehr unregelmäßig.** Die (Teil-)Ausfälle aufgrund der Bauarbeiten variieren z.T. täglich. **Die RE3 fährt bis auf die Verstärkerzüge wieder planmäßig, das heißt die bisherigen Zusatzhaltestellen der RE3 in Radbruch und Bardowick entfallen.**
-
-Zudem sind die Züge nachts zwischen Unterlüß und Celle bzw. Hannover im Ausfall. Auch hier ist ein SEV eingerichtet.
-
-**Bitte informiert euch am besten in den hier bereitgestellten Fahrplantabellen oder den elektronis****chen Auskunftsmedien**. Zur besseren Übersicht sind in den Tabellen Züge und Busse des SEV in einer Tabelle zusammengefügt.
-
-**\+++**
-
 **\+++Update gültig ab dem 22. August 2022 bis 28. August 2022+++**
 
 Auf der Linie RB31 entfallen bei fast allen Zügen (täglich) in Fahrtrichtung Lüneburg \> Hamburg die Halte in Radbruch und Bardowick. Des Weiteren kommt es zu Fahrzeitänderungen auf dem gesamten Streckenabschnitt an verschiedenen Tagen sowie zu Ausfällen zwischen Celle - Unterlüß – Uelzen bzw. Hamburg – Lüneburg in den Nachtstunden.
