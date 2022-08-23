@@ -26,7 +26,7 @@ Auf der Linie RB31 entfallen bei fast allen Zügen auf der Fahrt von Lüneburg n
 
 Des Weiteren kommt es tagsüber zu Fahrzeitänderungen auf dem gesamten Streckenabschnitt sowie in den Nachtstunden zu Ausfällen zwischen Celle und Unterlüß oder Uelzen in beiden Richtungen sowie zwischen Hamburg und Lüneburg.
 
-**Bitte informiert euch am besten in den hier bereitgestellten Fahrplantabellen oder den elektronis****chen Auskunftsmedien**. Zur besseren Übersicht sind auch hier in den Tabellen Züge und Busse des SEV in einer Tabelle zusammengefügt. Bitte beachtet die leicht unterschiedlichen Fahrzeiten in der Woche vom 22.08.0-028.08. und 29.08.0-004.09.2022 sowie vom 05.09. - 11.09.2022.
+**Bitte informiert euch am besten in den hier bereitgestellten Fahrplantabellen oder den elektronis****chen Auskunftsmedien**. Zur besseren Übersicht sind auch hier in den Tabellen Züge und Busse des SEV in einer Tabelle zusammengefügt. Bitte beachtet die leicht unterschiedlichen Fahrzeiten in der Woche vom 22.08. - 28.08. und 29.08. - 04.09.2022 sowie vom 05.09. - 11.09.2022.
 
 **\+++**
 
