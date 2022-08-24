@@ -34,6 +34,8 @@ RE2 Uelzen - Celle - Hannover
 
 [09.09.2022 - 10.09.2022 RE2 nächtliche Teilausfälle zwischen Unterlüß und Uelzen](https://www.der-metronom.de/baustellen/re2-naechtliche-teilausfaelle-zwischen-unterluess-und-uelzen/)
 
+[12.09.2022 - 13.09.2022 RE2/RB31 nächtlicher Teilausfall zwischen Unterlüß und Uelzen](https://www.der-metronom.de/baustellen/re2-rb31-naechtlicher-teilausfall-zwischen-unterluess-und-uelzen/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [04.08.2022 - 24.08.2022 RE2 keine direkte Verbindung zwischen Uelzen-Göttingen](https://www.der-metronom.de/baustellen/re2-keine-direkte-verbindung-zwischen-uelzen-goettingen-2/)
