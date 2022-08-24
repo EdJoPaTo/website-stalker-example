@@ -18,7 +18,9 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[11.09.2022 - 15.09.2022 RB41 geänderte Fahrzeiten 81940 ab Tostedt](https://www.der-metronom.de/baustellen/rb41-geaenderte-fahrzeiten-81940-ab-tostedt/)
+
+[16.09.2022 - 25.09.2022 RB41 Fahrzeitänderungen an den Wochenenden Bremen Hbf - Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-fahrzeitaenderungen-an-den-wochenenden-bremen-hbf-hamburg-hbf/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
