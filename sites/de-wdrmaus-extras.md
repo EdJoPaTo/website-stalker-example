@@ -34,5 +34,5 @@
 Reisen
 ----------
 
-* [Ralphs TagebÃ¼cher](https://www.wdrmaus.de/extras/ralphs_tagebuecher.php5)
+* [Ralphs Tagebücher](https://www.wdrmaus.de/extras/ralphs_tagebuecher.php5)
 * [Armins Sommerreisen](https://www.wdrmaus.de/extras/armins_sommerreise.php5)
