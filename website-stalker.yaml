@@ -152,7 +152,6 @@ sites:
             - html_url_canonicalize
             - html_prettify
   - url:
-      - https://www.der-metronom.de/fahrkarten/9-euro-ticket/
       - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
       - https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/
