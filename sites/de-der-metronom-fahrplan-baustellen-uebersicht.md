@@ -36,8 +36,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[17.06.2022 - 04.09.2022 Gleisarbeiten zum Erhalt der Infrastruktur im Bereich Hamburg hat teilweise Auswirkungen auf die Fahrten der RE2](https://www.der-metronom.de/baustellen/gleisarbeiten-zum-erhalt-der-infrastruktur-im-bereich-hamburg-hat-teilweise-auswirkungen-auf-die-fahrzeiten-der-re2/)
-
 [09.09.2022 - 10.09.2022 RE2 nächtliche Teilausfälle zwischen Unterlüß und Uelzen](https://www.der-metronom.de/baustellen/re2-naechtliche-teilausfaelle-zwischen-unterluess-und-uelzen/)
 
 [12.09.2022 - 13.09.2022 RE2/RB31 nächtlicher Teilausfall zwischen Unterlüß und Uelzen](https://www.der-metronom.de/baustellen/re2-rb31-naechtlicher-teilausfall-zwischen-unterluess-und-uelzen/)
