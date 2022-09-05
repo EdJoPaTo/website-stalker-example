@@ -24,6 +24,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [19.09.2022 - 23.09.2022 RB41 spätere Abfahrtszeiten für den 81904 ab Buchholz (N.) in Rtg. Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-spaetere-abfahrtszeiten-fuer-den-81904-ab-buchholz-n-in-rtg-hamburg-hbf/)
 
+[23.09.2022 - 07.10.2022 RE4/RB41: Ausfall der Verstärkerzüge](https://www.der-metronom.de/baustellen/re4-rb41-ausfall-der-verstaerkerzuege/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [11.06.2022 - 11.09.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
@@ -33,6 +35,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [12.09.2022 - 18.09.2022 RE3/RB31: Haltausfälle in Radbruch, Bardowick und Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-haltausfaelle-in-radbruch-bardowick-und-ashausen/)
 
 [19.09.2022 - 23.09.2022 RE3/RB31: Ausfall der Verstärkerzüge](https://www.der-metronom.de/baustellen/re3-rb31-ausfall-der-verstaerkerzuege/)
+
+[23.09.2022 - 07.10.2022 RE3/RB31: Ausfall der Verstärkerzüge](https://www.der-metronom.de/baustellen/re3-rb31-ausfall-der-verstaerkerzuege-2/)
 
 RE2 Uelzen - Celle - Hannover
 
