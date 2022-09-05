@@ -1,22 +1,12 @@
-Rock Band meets Work Brand
-
----
-
-METALLICA X STRAUSS
-
----
-
-[Mehr erfahren](https://www.engelbert-strauss.de/metallica-works)
-
 Neuheiten Herbst / Winter '22
 
 ---
 
-e.s.concrete
+e.s.trail
 
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/concrete)
+[Kollektion entdecken](https://www.engelbert-strauss.de/trail)
 
 Neuheiten Herbst / Winter '22
 
@@ -45,6 +35,27 @@ e.s.motion ten
 
 [Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
 
+ e.s.Concrete Warnschutz
+---
+
+SICHTBARKEIT, DIE SICH GUT ANFÜHLT
+
+---
+
+[Kollektion entdecken](https://www.engelbert-strauss.de/concrete-warnschutz)
+
+ e.s.concrete
+---
+
+STARK, STÄRKER –
+UND SUPER BEWEGLICH!
+
+---
+
+[Kollektion entdecken](https://www.engelbert-strauss.de/concrete)
+
+[Latzhose](https://www.engelbert-strauss.de/arbeitslatzhosen/latzhose-e-s-concrete-solid-3320670-61585-1424.html?amp;itemorigin=startseite_hw22)
+
  18,0 V Akku-Winkelschleifer
 ---
 
@@ -56,26 +67,6 @@ e.s.motion ten
 [Mehr erfahren](https://www.engelbert-strauss.de/akku-winkelschleifer)
 
 [Jetzt kaufen](https://www.engelbert-strauss.de/akku-geraete/18-0-v-akku-winkelschleifer-125mm-7118230-5521250-0.html?amp;itemorigin=startseite_hw22)
-
- e.s.Concrete Warnschutz
----
-
-SICHTBARKEIT, DIE SICH GUT ANFÜHLT
-
----
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/concrete-warnschutz)
-
- S1 e.s. Nakuru mid
----
-
-STYLISCH, SICHER, SPORTLICH
-
----
-
-[Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
-
-[Jetzt kaufen](https://www.engelbert-strauss.de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-nakuru-mid-1101480-93991-1.html?amp;itemorigin=startseite_hw22)
 
  Werkzeug in innovativen Taschen
 ---
