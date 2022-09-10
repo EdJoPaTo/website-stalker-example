@@ -40,8 +40,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[09.09.2022 - 10.09.2022 RE2 nächtliche Teilausfälle zwischen Unterlüß und Uelzen](https://www.der-metronom.de/baustellen/re2-naechtliche-teilausfaelle-zwischen-unterluess-und-uelzen/)
-
 [12.09.2022 - 13.09.2022 RE2/RB31 nächtlicher Teilausfall zwischen Unterlüß und Uelzen](https://www.der-metronom.de/baustellen/re2-rb31-naechtlicher-teilausfall-zwischen-unterluess-und-uelzen/)
 
 [17.09.2022 - 18.09.2022 RE2/RB31 spätere Abfahrtszeiten in der Nacht für den 81643](https://www.der-metronom.de/baustellen/re2-rb31-spaetere-abfahrtszeiten-in-der-nacht-fuer-den-81643/)
