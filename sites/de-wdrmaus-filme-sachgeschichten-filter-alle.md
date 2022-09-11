@@ -187,6 +187,7 @@
 * [Digitaler Sprachassistent](https://www.wdrmaus.de/filme/sachgeschichten/digitaler_sprachassistent.php5)
 * [DIN A4](https://www.wdrmaus.de/filme/sachgeschichten/dina4.php5)
 * [Dinosaurier](https://www.wdrmaus.de/filme/sachgeschichten/dinosaurier.php5)
+* [Dinosauriermodell](https://www.wdrmaus.de/filme/sachgeschichten/dinosauriermodell.php5)
 * [Donner](https://www.wdrmaus.de/filme/sachgeschichten/donner.php5)
 * [Dosenöffner](https://www.wdrmaus.de/filme/sachgeschichten/dosenoeffner.php5)
 * [Dresdner Frauenkirche](https://www.wdrmaus.de/filme/sachgeschichten/dresdner_frauenkirche.php5)
