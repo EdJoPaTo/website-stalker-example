@@ -91,7 +91,7 @@ alle Produkte
 
 [Schuhe](https://www.engelbert-strauss.de/arbeitsschuhe/)
 
-[Werkzeug](https://www.engelbert-strauss.de/sale-werkzeuge/)
+[Werkzeug](https://www.engelbert-strauss.de/werkzeuge/)
 
 [Arbeitsschutz](https://www.engelbert-strauss.de/arbeitsschutz/)
 
