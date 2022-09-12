@@ -154,7 +154,6 @@ sites:
   - url:
       - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
-      - https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/
     editors:
       - css_select: '#content .right'
       - css_remove: form, script, .img-left
