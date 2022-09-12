@@ -28,8 +28,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[11.06.2022 - 11.09.2022 RE3/RB31 Gleisarbeiten zum Erhalt der Infrastruktur](https://www.der-metronom.de/baustellen/re3-rb31-gleisarbeiten-zum-erhalt-der-infrastruktur/)
-
 [17.08.2022 RB31: Geänderten Fahrzeiten beim Zug ME 81643 (RB31)](https://www.der-metronom.de/baustellen/rb31-geaenderten-fahrzeiten-beim-zug-me-81643-rb31/)
 
 [12.09.2022 - 18.09.2022 RE3/RB31: Haltausfälle in Radbruch, Bardowick und Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-haltausfaelle-in-radbruch-bardowick-und-ashausen/)
