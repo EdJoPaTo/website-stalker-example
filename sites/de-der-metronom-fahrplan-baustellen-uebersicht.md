@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[11.09.2022 - 15.09.2022 RB41 geänderte Fahrzeiten 81940 ab Tostedt](https://www.der-metronom.de/baustellen/rb41-geaenderte-fahrzeiten-81940-ab-tostedt/)
-
 [16.09.2022 - 25.09.2022 RB41 Fahrzeitänderungen an den Wochenenden Bremen Hbf - Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-fahrzeitaenderungen-an-den-wochenenden-bremen-hbf-hamburg-hbf/)
 
 [19.09.2022 - 23.09.2022 RB41 spätere Abfahrtszeiten für den 81904 ab Buchholz (N.) in Rtg. Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-spaetere-abfahrtszeiten-fuer-den-81904-ab-buchholz-n-in-rtg-hamburg-hbf/)
