@@ -34,7 +34,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[17.09.2022 - 18.09.2022 RE2/RB31 spätere Abfahrtszeiten in der Nacht für den 81643](https://www.der-metronom.de/baustellen/re2-rb31-spaetere-abfahrtszeiten-in-der-nacht-fuer-den-81643/)
+Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 RE2 Hannover - Northeim - Göttingen
 
