@@ -6,6 +6,28 @@
 		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Universität Greifswald simuliert Audimax-Vorlesung mit 300 Teilnehmern</title>
+			<link>https://opentalk.eu/de/news/universitaet-greifswald-simuliert-audimax-vorlesung-mit-300-teilnehmern</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				19.09.2022
+			</time>
+		</div>
+		<div>
+			<div>
+				<p>
+					Last-Tests von Videokonferenzlösungen gehören für Dr. Gordon Grubert, IT-Leiter der Universität Greifswald, zum Alltag. Mit dem heißwassergekühlten "High Performance Compute"-Cluster ("HPC"), welches über ca. 8000 CPU-Kerne und ca. 5 Tbyte RAM verfügt, simuliert das Universitätsrechenzentrum Stresstests und Nutzungsszenarien mit mehreren Hundert oder Tausend Videokonferenz-Teilnehmern in allen Varianten.
+				</p>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>OpenTalk auf Roadshow: 14.09. in Baden (CH)</title>
 			<link>https://opentalk.eu/de/news/opentalk-auf-roadshow-1409-baden-ch</link>
 			<content:encoded><![CDATA[<html>
@@ -65,28 +87,6 @@
 			<div>
 				<p>
 					Dich begeistern Open Source und freie, sichere Kommunikation? Und Du hast Lust, in einem tollen Team gemeinsam etwas Neues aufzubauen? Dann bist Du bei uns herzlich willkommen und genau richtig.
-				</p>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>OpenTalk auf dem Digitalen Staat vom 3.-4. Mai 2022</title>
-			<link>https://opentalk.eu/de/news/opentalk-auf-dem-digitalen-staat-vom-3-5-mai-2022</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="pleaser__date">
-			<time>
-				01.05.2022
-			</time>
-		</div>
-		<div>
-			<div>
-				<p>
-					Digitale Souveränität und die nachhaltige Digitalisierung von Bund, Land und Kommunen sind der Fokus des diesjährigen Digitaler Staat Kongress. - Klar. dass OpenTalk als Aussteller dabei ist.
 				</p>
 			</div>
 		</div>
