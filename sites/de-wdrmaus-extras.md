@@ -1,7 +1,9 @@
-[So vielseitig ist das nasse Element](https://www.wdrmaus.de/extras/mausthemen/wasser/index.php5)
+[Bunte Blätter, Wind und Regen](https://www.wdrmaus.de/extras/mausthemen/herbst/index.php5)
 
 [Was ist da los?](https://www.wdrmaus.de/extras/mausthemen/ukraine/index.php5)
 
+* [So vielseitig ist das nasse Element](https://www.wdrmaus.de/extras/mausthemen/wasser/index.php5)
+* [Unser Einfluss auf das Klima](https://www.wdrmaus.de/extras/mausthemen/klimawandel/index.php5)
 * [Wie wollen wir leben?](https://www.wdrmaus.de/extras/mausthemen/zukunft/index.php5)
 * [Die Olympische Spiele in Tokio](https://www.wdrmaus.de/extras/mausthemen/olympia/index.php5)
 * [Was ist jetzt wichtig?](https://www.wdrmaus.de/extras/mausthemen/corona/index.php5)
