@@ -20,8 +20,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [16.09.2022 - 25.09.2022 RB41 Fahrzeitänderungen an den Wochenenden Bremen Hbf - Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-fahrzeitaenderungen-an-den-wochenenden-bremen-hbf-hamburg-hbf/)
 
-[19.09.2022 - 23.09.2022 RB41 spätere Abfahrtszeiten für den 81904 ab Buchholz (N.) in Rtg. Hamburg Hbf](https://www.der-metronom.de/baustellen/rb41-spaetere-abfahrtszeiten-fuer-den-81904-ab-buchholz-n-in-rtg-hamburg-hbf/)
-
 [23.09.2022 - 07.10.2022 RE4/RB41: Ausfall der Verstärkerzüge](https://www.der-metronom.de/baustellen/re4-rb41-ausfall-der-verstaerkerzuege/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
