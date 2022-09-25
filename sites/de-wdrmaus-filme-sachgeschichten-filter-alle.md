@@ -133,6 +133,7 @@
 * [Brillen aus Wunderbohnen](https://www.wdrmaus.de/filme/sachgeschichten/Brillen_Wunderbohnen.php5)
 * [Brot backen](https://www.wdrmaus.de/filme/sachgeschichten/brot_backen.php5)
 * [Brücke schieben](https://www.wdrmaus.de/filme/sachgeschichten/bruecke_schieben.php5)
+* [Brücke verziehen](https://www.wdrmaus.de/filme/sachgeschichten/bruecke_verziehen.php5)
 * [Brücken](https://www.wdrmaus.de/filme/sachgeschichten/bruecken.php5)
 * [Brückenrollen](https://www.wdrmaus.de/filme/sachgeschichten/brueckenrollen.php5)
 * [Bügeln](https://www.wdrmaus.de/filme/sachgeschichten/buegeln.php5)
