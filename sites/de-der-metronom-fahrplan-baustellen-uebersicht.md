@@ -20,6 +20,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [23.09.2022 - 07.10.2022 RE4/RB41: Ausfall der Verstärkerzüge](https://www.der-metronom.de/baustellen/re4-rb41-ausfall-der-verstaerkerzuege/)
 
+[10.10.2022 - 14.10.2022 RE4/RB41 Ausfall der Verstärkerfahrten zwischen Hamburg Hbf und Tostedt bzw. Rotenburg (W.)](https://www.der-metronom.de/baustellen/re4-rb41-ausfall-der-verstaerkerfahrten-zwischen-hamburg-hbf-und-tostedt-bzw-rotenburg-w/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [23.09.2022 - 07.10.2022 RE3/RB31: Ausfall der Verstärkerzüge](https://www.der-metronom.de/baustellen/re3-rb31-ausfall-der-verstaerkerzuege-2/)
