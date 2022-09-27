@@ -26,7 +26,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [23.09.2022 - 07.10.2022 RE3/RB31: Ausfall der Verstärkerzüge](https://www.der-metronom.de/baustellen/re3-rb31-ausfall-der-verstaerkerzuege-2/)
 
-[07.10.2022 - 14.10.2022 RE3/RB31 Ausfall der Verstärkerfahrten und nächtliche Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-ausfall-der-verstaerkerfahrten-und-naechtliche-teilausfaelle/)
+[07.10.2022 - 16.10.2022 RE3/RB31 Ausfall der Verstärkerfahrten und nächtliche Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-ausfall-der-verstaerkerfahrten-und-naechtliche-teilausfaelle/)
 
 RE2 Uelzen - Celle - Hannover
 
