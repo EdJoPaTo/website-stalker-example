@@ -671,6 +671,7 @@
 * [Muschelkinder](https://www.wdrmaus.de/filme/sachgeschichten/muschelkinder.php5)
 * [Muschelsound](https://www.wdrmaus.de/filme/sachgeschichten/muschelsound.php5)
 * [Museumsrestaurator](https://www.wdrmaus.de/filme/sachgeschichten/museumsrestaurator.php5)
+* [Musik mit Robotern](https://www.wdrmaus.de/filme/sachgeschichten/musik_mit_robotern.php5)
 * [Muskeln](https://www.wdrmaus.de/filme/sachgeschichten/muskeln.php5)
 * [Nadeln im Hemd](https://www.wdrmaus.de/filme/sachgeschichten/nadeln_im_hemd.php5)
 * [Nähmaschine](https://www.wdrmaus.de/filme/sachgeschichten/naehmaschine.php5)
