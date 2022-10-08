@@ -6,6 +6,24 @@
 		<description>Hier erhältst du alle wichtigen Informationen zum metronom.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Starke Beeinträchtigung in Norddeutschland</title>
+			<link>https://www.der-metronom.de/aktuell/zugausfall-auf-allen-strecken/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<time content="2022-10-08T07:22:00+02:00" itemprop="datePublished">
+			08.10.2022
+		</time>
+		<div class="news-text-outer">
+			<p>
+				Aufgrund einer technischen Störung am GSM-R (Zugfunk) an allen Strecken ist in Raum Norddeutschland derzeit kein Zugverkehr im Bahnverkehr möglich. Alle Verbindungen fallen bis auf Weiteres aus! Die ausfallenden Züge werden allerdings nicht in den elektronischen Fahrplanauskünften oder der metronom-App...
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>RE4/RB41 vom 15.10. bis 29.10.2022 kein Halt in Buchholz (N.), Klecken und Hittfeld</title>
 			<link>https://www.der-metronom.de/aktuell/re4-rb41-vom-15-10-bis-29-10-2022-kein-halt-in-buchholz-n-klecken-und-hittfeld/</link>
 			<content:encoded><![CDATA[<html>
