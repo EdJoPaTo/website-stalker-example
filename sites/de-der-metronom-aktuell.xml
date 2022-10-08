@@ -6,7 +6,7 @@
 		<description>Hier erhältst du alle wichtigen Informationen zum metronom.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>Zugausfälle und starke Beeinträchtigung in Norddeutschland</title>
+			<title>Störung behoben: Zugverkehr läuft wieder an</title>
 			<link>https://www.der-metronom.de/aktuell/zugausfall-auf-allen-strecken/</link>
 			<content:encoded><![CDATA[<html>
 	<head>
@@ -17,7 +17,7 @@
 		</time>
 		<div class="news-text-outer">
 			<p>
-				Aufgrund einer technischen Störung am GSM-R (Zugfunk) an allen Strecken ist im Raum Norddeutschland derzeit kein Zugverkehr möglich. Das betrifft alle Züge (Nah- und Fernverkehr) auf allen Strecken im norddeutschen Raum, somit sind auch alle Linien beim metronom (RE2,RE3/RB31,RE4/RB41) betroffen...
+				Die technische Störung am GSM-R (Zugfunk) ist behoben. Der Betrieb kann nun wieder nach und nach aufgenommen werden. Allerdings kommt es mitunter noch zu vereinzelnden Zugausfällen und Verspätungen durch den Rückstau der vielen zurückgehaltenen Züge. Bitte erkundigt euch in den...
 			</p>
 		</div>
 	</body>
