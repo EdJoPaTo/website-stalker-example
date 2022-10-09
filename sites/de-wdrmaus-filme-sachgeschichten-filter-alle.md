@@ -763,6 +763,7 @@
 * [Puzzle: Kirche](https://www.wdrmaus.de/filme/sachgeschichten/puzzle_kirche.php5)
 * [Puzzle: Lok](https://www.wdrmaus.de/filme/sachgeschichten/puzzle_lok.php5)
 * [Puzzleherstellung](https://www.wdrmaus.de/filme/sachgeschichten/puzzleherstellung.php5)
+* [Qualle](https://www.wdrmaus.de/filme/sachgeschichten/qualle.php5)
 * [Quelle](https://www.wdrmaus.de/filme/sachgeschichten/quelle.php5)
 * [Radio Kiraka](https://www.wdrmaus.de/filme/sachgeschichten/radio_kiraka.php5)
 * [Raketentriebwerk](https://www.wdrmaus.de/filme/sachgeschichten/raketentriebwerk.php5)
