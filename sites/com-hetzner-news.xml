@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
-		<title>News - Hetzner Online GmbH</title>
+		<title>News</title>
 		<link>https://www.hetzner.com/news/</link>
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
@@ -15,7 +15,7 @@
 		<li>
 			<p>
 				<small>
-					19 July 2022
+					19. July 2022
 				</small>
 			</p>
 			<h4>
@@ -41,7 +41,7 @@
 		<li>
 			<p>
 				<small>
-					28 June 2022
+					28. June 2022
 				</small>
 			</p>
 			<h4>
@@ -49,6 +49,7 @@
 			</h4>
 			<p class="list-card-preview">
 				Three different network options are now available for cloud servers!
+When you create a cloud server, it will no longer automatically include public IP addresses (IPv4, IPv6).
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/06-22-flexibles-networking/">
 				Show more
@@ -67,14 +68,14 @@
 		<li>
 			<p>
 				<small>
-					01 June 2022
+					1. June 2022
 				</small>
 			</p>
 			<h4>
 				25 years of Hetzner - join the fun & win one of 25 prizes!
 			</h4>
 			<p class="list-card-preview">
-				We're celebrating 25 years of being your home for the Internet. We've got 25 reasons to say "Thank you" to our loyal customers, and are giving you the chance to...
+				We're celebrating 25 years of being your home for the Internet.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/06-22-sweepstakes/">
 				Show more
@@ -93,7 +94,7 @@
 		<li>
 			<p>
 				<small>
-					22 March 2022
+					22. March 2022
 				</small>
 			</p>
 			<h4>
@@ -119,7 +120,7 @@
 		<li>
 			<p>
 				<small>
-					01 March 2022
+					1. March 2022
 				</small>
 			</p>
 			<h4>
@@ -145,7 +146,7 @@
 		<li>
 			<p>
 				<small>
-					21 February 2022
+					21. February 2022
 				</small>
 			</p>
 			<h4>
@@ -171,14 +172,14 @@
 		<li>
 			<p>
 				<small>
-					07 February 2022
+					7. February 2022
 				</small>
 			</p>
 			<h4>
 				Hetzner Storage Share and Storage Box: Data storage and management made easy
 			</h4>
 			<p class="list-card-preview">
-				Making backups of your data is essential for preventing data loss. And more and more people are using online storage services to share images, videos, and documents, and for backing...
+				Making backups of your data is essential for preventing data loss.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/02-22-storage/">
 				Show more
@@ -197,7 +198,7 @@
 		<li>
 			<p>
 				<small>
-					12 January 2022
+					12. January 2022
 				</small>
 			</p>
 			<h4>
@@ -223,14 +224,14 @@
 		<li>
 			<p>
 				<small>
-					07 December 2021
+					7. December 2021
 				</small>
 			</p>
 			<h4>
 				IPv6 only option for dedicated root servers
 			</h4>
 			<p class="list-card-preview">
-				We are always working on providing you with the best solutions. Therefore, to make things more flexible for you, our dedicated root servers support IPv6 only.
+				We are always working on providing you with the best solutions.  Therefore, to make things more flexible for you, our dedicated root servers support IPv6 only.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/12-21-ipv6-only/">
 				Show more
@@ -249,14 +250,14 @@
 		<li>
 			<p>
 				<small>
-					22 November 2021
+					22. November 2021
 				</small>
 			</p>
 			<h4>
 				Top Black Week deals - Selected servers have no setup fees!
 			</h4>
 			<p class="list-card-preview">
-				Our world famous no setup fee sale has returned just in time for Black Week! You can get almost all of our AX or PX dedicated root servers without a...
+				Our world famous no setup fee sale has returned just in time for Black Week! You can get almost all of our AX or PX dedicated root servers without a…
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/11-21-black-week/">
 				Show more
