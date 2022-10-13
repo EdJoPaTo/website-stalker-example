@@ -26,6 +26,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [07.10.2022 - 16.10.2022 RE3/RB31 Ausfall der Verstärkerfahrten und nächtliche Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-ausfall-der-verstaerkerfahrten-und-naechtliche-teilausfaelle/)
 
+[15.10.2022 - 28.10.2022 RB31 Ersatzverkehr mit Bussen - kein Halt in Meckelfeld und Maschen sowie nachts in Radbruch und Bardowick -](https://www.der-metronom.de/baustellen/rb31-ersatzverkehr-mit-bussen-kein-halt-in-meckelfeld-und-maschen/)
+
 [19.10.2022 - 21.10.2022 RB31 nächtliche Haltausfälle in Radbruch und Bardowick - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-in-radbruch-und-bardowick-ersatzverkehr-mit-bussen/)
 
 RE2 Uelzen - Celle - Hannover
