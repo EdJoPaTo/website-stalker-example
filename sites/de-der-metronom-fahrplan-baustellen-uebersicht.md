@@ -26,6 +26,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [19.10.2022 - 21.10.2022 RB31 nächtliche Haltausfälle in Radbruch und Bardowick - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-in-radbruch-und-bardowick-ersatzverkehr-mit-bussen/)
 
+[29.10.2022 - 06.11.2022 RE3/RB31 Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-weichenerneuerung-im-bereich-hamburg-harburg-2/)
+
 RE2 Uelzen - Celle - Hannover
 
 [29.10.2022 - 31.10.2022 RE2/RE3/RB31 nächtliche Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-weichenbauarbeiten/)
