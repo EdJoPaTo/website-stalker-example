@@ -22,7 +22,7 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[15.10.2022 - 28.10.2022 RB31 Ersatzverkehr mit Bussen - kein Halt in Meckelfeld und Maschen sowie nachts in Radbruch und Bardowick -](https://www.der-metronom.de/baustellen/rb31-ersatzverkehr-mit-bussen-kein-halt-in-meckelfeld-und-maschen/)
+[15.10.2022 - 28.10.2022 RB31 Ersatzverkehr mit Bussen - kein Halt in Meckelfeld und Hamburg-Harburg sowie nachts in Radbruch und Bardowick -](https://www.der-metronom.de/baustellen/rb31-ersatzverkehr-mit-bussen-kein-halt-in-meckelfeld-und-maschen/)
 
 [19.10.2022 - 21.10.2022 RB31 nächtliche Haltausfälle in Radbruch und Bardowick - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-in-radbruch-und-bardowick-ersatzverkehr-mit-bussen/)
 
