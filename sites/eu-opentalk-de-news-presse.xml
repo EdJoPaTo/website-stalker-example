@@ -6,6 +6,26 @@
 		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>mailbox.org setzt auf OpenTalk als sichere Videokonferenz</title>
+			<link>https://opentalk.eu/de/news/mailbox-org-setzt-auf-opentalk-als-sichere-videokonferenz</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				20.10.2022
+			</time>
+		</div>
+		<div>
+			<p>
+				Wir freuen uns, den Beginn der Einführungsphase unserer Videokonferenzlösung OpenTalk beim E-Mail-Anbieter mailbox.org bekannt zu geben.
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Universität Greifswald simuliert Audimax-Vorlesung mit 300 Teilnehmern</title>
 			<link>https://opentalk.eu/de/news/universitaet-greifswald-simuliert-audimax-vorlesung-mit-300-teilnehmern</link>
 			<content:encoded><![CDATA[<html>
@@ -66,21 +86,23 @@
 </html>]]></content:encoded>
 		</item>
 		<item>
-			<title>Wir suchen Verstärkung für unser OpenTalk-Team</title>
-			<link>https://opentalk.eu/de/news/wir-suchen-verstaerkung-fuer-unser-opentalk-team</link>
+			<title>mailbox.org integriert OpenTalk für sichere digital souveräne Videokonferenzen</title>
+			<link>https://opentalk.eu/de/presse/mailbox-org-integriert-opentalk-fuer-sichere-digitale-souveraene-videokonferenzen</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
 		<div class="pleaser__date">
 			<time>
-				24.05.2022
+				20.10.2022
 			</time>
 		</div>
 		<div>
-			<p>
-				Dich begeistern Open Source und freie, sichere Kommunikation? Und Du hast Lust, in einem tollen Team gemeinsam etwas Neues aufzubauen? Dann bist Du bei uns herzlich willkommen und genau richtig.
-			</p>
+			<ul>
+				<li>
+					Open Source-basierte Videokonferenz „OpenTalk“ ab sofort für mailbox.org -Kunden nutzbar
+				</li>
+			</ul>
 		</div>
 	</body>
 </html>]]></content:encoded>
