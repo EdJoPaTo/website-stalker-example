@@ -1,4 +1,25 @@
-teilgefüttert
+Alle Jahre wieder...
+
+---
+
+e.s. Advents-
+kalender
+
+---
+
+[Jetzt kaufen](https://www.engelbert-strauss.de/handwerkzeuge/e-s-adventskalender-edition-4-7902790-5576450-0.html?itemorigin=startseite_hw22)
+
+Neuheiten Herbst / Winter '22
+
+---
+
+E.S.CONCRETE
+
+---
+
+[Mehr erfahren](https://www.engelbert-strauss.de/concrete)
+
+ teilgefüttert
 ---
 
  Leichtes Lining vom Bund bis zu den Knien
@@ -19,26 +40,6 @@ CONCRETE
 ---
 
 [Mehr erfahren](https://www.engelbert-strauss.de/concrete/allseason)
-
-Neuheiten Herbst / Winter '22
-
----
-
-e.s.trail
-
----
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/trail)
-
-Neuheiten Herbst / Winter '22
-
----
-
-Warnschutz
-
----
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/concrete-warnschutz)
 
  30 TAGE RÜCKGABERECHT
 
@@ -90,18 +91,6 @@ Casual Style
 [Kollektion entdecken](https://www.engelbert-strauss.de/motion_ten)
 
 [Pilotenjacke](https://www.engelbert-strauss.de/winter-arbeitsjacken/pilotenjacke-e-s-motion-ten-3134140-66120-1199.html?amp;itemorigin=startseite_hw22)
-
- e.s. Adventskalender Edition 4
----
-
- Alle Jahre wieder...
----
-
-Edition 4 versteckt wieder hochwertige Handwerkzeuge hinter jedem Türchen, die in keiner Werkstatt fehlen dürfen.
-
-[Jetzt kaufen](https://www.engelbert-strauss.de/handwerkzeuge/e-s-adventskalender-edition-4-7902790-5576450-0.html?amp;itemorigin=startseite_hw22)
-
-[Mehr erfahren](https://www.engelbert-strauss.de/handwerkzeuge/e-s-adventskalender-edition-4-7902790-5576450-0.html?itemorigin=startseite_hw22)
 
  Noch mehr Strauss-Highlights
 ---
