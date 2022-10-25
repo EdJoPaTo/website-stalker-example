@@ -141,7 +141,6 @@ Casual Style
   * [Kontakt](https://www.engelbert-strauss.de/Informationen/Kontakt)
   * [Häufige Fragen](https://www.engelbert-strauss.de/Helpcenter-Redirect)
   * [Lexikon](https://www.engelbert-strauss.de/Informationen/Lexikon/A)
-  * [Ihre Meinung zählt](https://www.engelbert-strauss.de/Survey-Redirect)
 
 * ### Zahlarten ###
 
