@@ -58,39 +58,37 @@ CONCRETE
 
 [Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
 
- s1 e.s. Nakuru mid
+ e.s.trail
 ---
 
-Stylisch, Sicher,
-Sportlich
-
----
-
-[Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
-
-[Jetzt kaufen](https://www.engelbert-strauss.de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-nakuru-mid-1101480-93991-1.html?amp;itemorigin=startseite_hw22)
-
- e.s.motion ten
----
-
-Einzigartiger
-tie-dye-Look
+Bereit für
+kalte Tage
 
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/motion_ten)
+[Kollektion entdecken](https://www.engelbert-strauss.de/trail)
 
- e.s.motion ten
+Hybrid Strickjacke e.s.trail
+
+ e.s.trail
 ---
 
-Wärme im
-Casual Style
+Sportlich durch
+den Herbst
 
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/motion_ten)
+[Hybrid Kapuzenstrickjacke](https://www.engelbert-strauss.de/hybridjacken-damen/hybrid-kapuzenstrickjacke-e-s-trail-damen-3134220-71511-1623.html?amp;itemorigin=startseite_hw22)
 
-[Pilotenjacke](https://www.engelbert-strauss.de/winter-arbeitsjacken/pilotenjacke-e-s-motion-ten-3134140-66120-1199.html?amp;itemorigin=startseite_hw22)
+ Handschuhe e.s.trail winter
+---
+
+Kälteschutz
+mit Grip
+
+---
+
+[Jetzt kaufen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-winter-2200800-7619707-1623.html?amp;itemorigin=startseite_hw22)
 
  Noch mehr Strauss-Highlights
 ---
