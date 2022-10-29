@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[15.10.2022 - 28.10.2022 RE4/RB41 kein Halt in Buchholz (N.), Klecken und Hittfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re4-rb41-kein-halt-in-buchholz-n-klecken-und-hittfeld-ersatzverkehr-mit-bussen/)
-
 [29.10.2022 - 06.11.2022 RE4/RB41 Weichenerneuerung im Bereich Hamburg-Harburg sowie Bahnsteigarbeiten in Hittfeld und Klecken](https://www.der-metronom.de/baustellen/re4-rb41-weichenerneuerung-im-bereich-hamburg-harburg-sowie-bahnsteigarbeiten-in-hittfeld-und-klecken/)
 
 [07.11.2022 - 13.11.2022 RE4/RB41 Weichenerneuerung im Bereich Hamburg-Harburg sowie Bahnsteigarbeiten in Hittfeld und Klecken](https://www.der-metronom.de/baustellen/re4-rb41-weichenerneuerung-im-bereich-hamburg-harburg-sowie-bahnsteigarbeiten-in-hittfeld-und-klecken-2/)
