@@ -58,6 +58,23 @@ CONCRETE
 
 [Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
 
+ mastergrid 6d
+---
+
+eine neue
+workwear
+dimension
+
+---
+
+[jetzt eintauchen](https://www.engelbert-strauss.de/mastergrid_6D)
+
+O1 Berufsschuhe
+e.s. Master Grid 6D
+
+e.s. Knee Pad
+Master Grid 6D
+
  e.s.trail
 ---
 
