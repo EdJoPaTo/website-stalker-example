@@ -32,8 +32,6 @@ RE2 Uelzen - Celle - Hannover
 
 [07.10.2022 - 14.11.2022 RE2/RE3 nächtliche Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-weichenbauarbeiten/)
 
-[29.10.2022 - 31.10.2022 RE2/RE3/RB31 nächtliche Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-weichenbauarbeiten/)
-
 [06.11.2022 RE2/RE3/RB31 nächtliche Arbeiten an den Schienen](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-arbeiten-an-den-schienen/)
 
 RE2 Hannover - Northeim - Göttingen
