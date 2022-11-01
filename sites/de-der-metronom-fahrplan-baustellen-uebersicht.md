@@ -22,11 +22,13 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [07.11.2022 - 13.11.2022 RE4/RB41 Weichenerneuerung im Bereich Hamburg-Harburg sowie Bahnsteigarbeiten in Hittfeld und Klecken](https://www.der-metronom.de/baustellen/re4-rb41-weichenerneuerung-im-bereich-hamburg-harburg-sowie-bahnsteigarbeiten-in-hittfeld-und-klecken-2/)
 
+[14.11.2022 - 27.11.2022 RE4/RB41: Zugausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-zugausfaelle-wegen-brueckenbauarbeiten/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [29.10.2022 - 06.11.2022 RE3/RB31 Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-weichenerneuerung-im-bereich-hamburg-harburg-2/)
 
-[07.11.2022 - 13.11.2022 RE3/RB31 Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-weichenerneuerung-im-bereich-hamburg-harburg-3/)
+[07.11.2022 - 20.11.2022 RE3/RB31 Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-weichenerneuerung-im-bereich-hamburg-harburg-3/)
 
 [14.11.2022 - 20.11.2022 RE2/RE3/RE31: Fahrzeitveränderungen zwischen Uelzen - Hannover Hbf - Göttingen](https://www.der-metronom.de/baustellen/re2-re3-re31-fahrzeitveraenderungen-zwischen-uelzen-hannover-hbf-goettingen/)
 
