@@ -1,14 +1,3 @@
-Alle Jahre wieder...
-
----
-
-e.s. Advents-
-kalender
-
----
-
-[Jetzt kaufen](https://www.engelbert-strauss.de/handwerkzeuge/e-s-adventskalender-edition-4-7902790-5576450-0.html?itemorigin=startseite_hw22)
-
 Neuheiten Herbst / Winter '22
 
 ---
@@ -40,6 +29,16 @@ CONCRETE
 ---
 
 [Mehr erfahren](https://www.engelbert-strauss.de/concrete/allseason)
+
+Neuheiten Herbst / Winter '22
+
+---
+
+Warnschutz
+
+---
+
+[Kollektion entdecken](https://www.engelbert-strauss.de/concrete-warnschutz)
 
  30 TAGE RÜCKGABERECHT
 
