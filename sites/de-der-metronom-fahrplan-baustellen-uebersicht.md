@@ -22,6 +22,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [14.11.2022 - 27.11.2022 RE4/RB41: Zugausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-zugausfaelle-wegen-brueckenbauarbeiten/)
 
+[28.11.2022 - 05.12.2022 RE4/RB41: Zug- und Haltausfälle wegen Weichenerneuerung in Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-zug-und-haltausfaelle-wegen-weichenerneuerung-in-hamburg-harburg/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [07.11.2022 - 20.11.2022 RE3/RB31 Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-weichenerneuerung-im-bereich-hamburg-harburg-3/)
@@ -31,6 +33,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [21.11.2022 - 05.12.2022 RE3/RB31: Weichenerneuerung in Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31/)
 
 [21.11.2022 - 28.11.2022 RE2/RE3/RB31: Fahrzeitveränderungen und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-fahrzeitveraenderungen-und-haltausfaelle/)
+
+[06.12.2022 - 07.12.2022 RB31: Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-haltausfall-in-ashausen/)
 
 RE2 Uelzen - Celle - Hannover
 
@@ -45,6 +49,8 @@ RE2 Hannover - Northeim - Göttingen
 [14.11.2022 - 20.11.2022 RE2/RE3/RE31: Fahrzeitveränderungen zwischen Uelzen - Hannover Hbf - Göttingen](https://www.der-metronom.de/baustellen/re2-re3-re31-fahrzeitveraenderungen-zwischen-uelzen-hannover-hbf-goettingen/)
 
 [21.11.2022 - 28.11.2022 RE2/RE3/RB31: Fahrzeitveränderungen und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-fahrzeitveraenderungen-und-haltausfaelle/)
+
+[06.12.2022 RE2: Haltausfall in Freden (Leine)](https://www.der-metronom.de/baustellen/re2-haltausfall-in-freden-leine/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
