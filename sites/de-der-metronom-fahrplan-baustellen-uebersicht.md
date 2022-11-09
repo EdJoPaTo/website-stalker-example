@@ -36,6 +36,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [06.12.2022 - 07.12.2022 RB31: Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-haltausfall-in-ashausen/)
 
+[10.12.2022 RB31: Zusätzliche Fahrt aufgrund des Fahrplanwechsels](https://www.der-metronom.de/baustellen/rb31-zusaetzliche-fahrt-aufgrund-des-fahrplanwechsels/)
+
 RE2 Uelzen - Celle - Hannover
 
 [07.10.2022 - 14.11.2022 RE2/RE3 nächtliche Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-weichenbauarbeiten/)
