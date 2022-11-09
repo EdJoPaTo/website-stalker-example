@@ -6,6 +6,14 @@
 		<description>Ein Blog über Dinge. Mit Typos.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>rain-brainz.de mit AVIF und JPEG, aber ohne WebP oder JPEG-XL</title>
+			<link>https://edjopato.de/post/2022/11/09-avif-jpg-jxl-webp/</link>
+			<pubDate>Wed, 09 Nov 2022 19:37:00 +0100</pubDate>
+			<content:encoded><![CDATA[2022-11-09
+
+rain-brainz.de mit AVIF und JPEG, aber ohne WebP oder JPEG-XL]]></content:encoded>
+		</item>
+		<item>
 			<title>Travelynx Erinnerung mit iOS</title>
 			<link>https://edjopato.de/post/2022/10/26-ios-travelynx/</link>
 			<pubDate>Wed, 26 Oct 2022 14:45:00 +0200</pubDate>
@@ -92,14 +100,6 @@ Eigenes Terminal UI für MQTT - mqttui]]></content:encoded>
 			<content:encoded><![CDATA[2022-02-09
 
 Eigenes CLI Tool - project-below]]></content:encoded>
-		</item>
-		<item>
-			<title>Rain Brainz - Eigene Bilder simpel präsentieren</title>
-			<link>https://edjopato.de/post/2021/12/31-rain-brainz/</link>
-			<pubDate>Fri, 31 Dec 2021 15:40:00 +0100</pubDate>
-			<content:encoded><![CDATA[2021-12-31
-
-Rain Brainz - Eigene Bilder simpel präsentieren]]></content:encoded>
 		</item>
 	</channel>
 </rss>
