@@ -168,6 +168,7 @@
 * [Dänemark-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/daenemark_spezial.php5)
 * [Damenschuh](https://www.wdrmaus.de/filme/sachgeschichten/damenschuh.php5)
 * [Dampflok](https://www.wdrmaus.de/filme/sachgeschichten/dampflok.php5)
+* [Dasselbe und das Gleiche](https://www.wdrmaus.de/filme/sachgeschichten/dasselbe_das_gleiche.php5)
 * [Daten](https://www.wdrmaus.de/filme/sachgeschichten/daten.php5)
 * [Dauerwelle](https://www.wdrmaus.de/filme/sachgeschichten/dauerwelle.php5)
 * [Daumenkino](https://www.wdrmaus.de/filme/sachgeschichten/daumenkino.php5)
