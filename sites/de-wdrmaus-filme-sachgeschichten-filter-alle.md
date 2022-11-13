@@ -385,6 +385,7 @@
 * [Handyrecycling](https://www.wdrmaus.de/filme/sachgeschichten/handyrecycling.php5)
 * [Haubentaucher](https://www.wdrmaus.de/filme/sachgeschichten/haubentaucher.php5)
 * [Hauptuntersuchung](https://www.wdrmaus.de/filme/sachgeschichten/hauptuntersuchung.php5)
+* [Haus aus 3D-Drucker](https://www.wdrmaus.de/filme/sachgeschichten/haus_aus_3d_drucker.php5)
 * [Hausstaub](https://www.wdrmaus.de/filme/sachgeschichten/hausstaub.php5)
 * [Heftklammer](https://www.wdrmaus.de/filme/sachgeschichten/heftklammer.php5)
 * [Heftpflaster](https://www.wdrmaus.de/filme/sachgeschichten/heftpflaster.php5)
