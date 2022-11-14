@@ -38,8 +38,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[07.10.2022 - 14.11.2022 RE2/RE3 nächtliche Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-weichenbauarbeiten/)
-
 [14.11.2022 - 20.11.2022 RE2/RE3/RE31: Fahrzeitveränderungen zwischen Uelzen - Hannover Hbf - Göttingen](https://www.der-metronom.de/baustellen/re2-re3-re31-fahrzeitveraenderungen-zwischen-uelzen-hannover-hbf-goettingen/)
 
 [21.11.2022 - 28.11.2022 RE2/RE3/RB31: Fahrzeitveränderungen und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-fahrzeitveraenderungen-und-haltausfaelle/)
