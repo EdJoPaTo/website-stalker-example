@@ -22,6 +22,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [28.11.2022 - 05.12.2022 RE4/RB41: Zug- und Haltausfälle wegen Weichenerneuerung in Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-zug-und-haltausfaelle-wegen-weichenerneuerung-in-hamburg-harburg/)
 
+[11.12.2022 - 11.11.2022 RB41: Veränderte Fahrtzeiten für ME81946](https://www.der-metronom.de/baustellen/rb41-veraenderte-fahrtzeiten-fuer-me81946/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [07.11.2022 - 20.11.2022 RE3/RB31 Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-weichenerneuerung-im-bereich-hamburg-harburg-3/)
