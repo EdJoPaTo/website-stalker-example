@@ -96,16 +96,6 @@ den Herbst
 
 [Hybrid Kapuzenstrickjacke](https://www.engelbert-strauss.de/hybridjacken-damen/hybrid-kapuzenstrickjacke-e-s-trail-damen-3134220-71511-1623.html?amp;itemorigin=startseite_hw22)
 
- Handschuhe e.s.trail winter
----
-
-Kälteschutz
-mit Grip
-
----
-
-[Jetzt kaufen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-winter-2200800-7619707-1623.html?amp;itemorigin=startseite_hw22)
-
  Noch mehr Strauss-Highlights
 ---
 
