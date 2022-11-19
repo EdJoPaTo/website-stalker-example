@@ -134,7 +134,9 @@ sites:
       - css_remove: 'script, img, .promoteaser, #footer'
       - html_url_canonicalize
       - html_markdownify
-  - url: https://www.wdrmaus.de/filme/sachgeschichten/?filter=alle
+  - url:
+      - https://www.wdrmaus.de/filme/sachgeschichten/?filter=alle
+      - https://www.wdrmaus.de/filme/mausspots/index.php5?filter=alle
     editors:
       - css_select: .links
       - css_remove: script, img
