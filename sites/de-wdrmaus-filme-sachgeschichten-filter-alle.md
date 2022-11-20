@@ -536,6 +536,7 @@
 * [Kunstschmied: Amboss](https://www.wdrmaus.de/filme/sachgeschichten/kunstschmied_amboss.php5)
 * [Kunstschmied: Pferd](https://www.wdrmaus.de/filme/sachgeschichten/kunstschmied_pferd.php5)
 * [Kutschfahrschule](https://www.wdrmaus.de/filme/sachgeschichten/kutschfahrschule.php5)
+* [Lärmschutzwand](https://www.wdrmaus.de/filme/sachgeschichten/laermschutzwand.php5)
 * [Läuse](https://www.wdrmaus.de/filme/sachgeschichten/laeuse.php5)
 * [Lakritz](https://www.wdrmaus.de/filme/sachgeschichten/lakritz.php5)
 * [Lametta](https://www.wdrmaus.de/filme/sachgeschichten/lametta.php5)
