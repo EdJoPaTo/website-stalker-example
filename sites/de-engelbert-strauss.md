@@ -1,119 +1,77 @@
-Neuheiten Herbst / Winter '22
-
+Weihnachts-
 ---
 
-E.S.CONCRETE
-
+ Highlights
 ---
 
-[Mehr erfahren](https://www.engelbert-strauss.de/concrete)
+Robuste, wärmende Workwear, die auch in der kalten Jahreszeit Wind und Wetter trotzt. Feierabend-Outfits für ein Rundum-Wohlgefühl und vieles mehr.
 
- teilgefüttert
+[jetzt entdecken](https://www.engelbert-strauss.de/weihnachten/?sort=newest)
+
+ Weihnachts-
 ---
-
- Leichtes Lining vom Bund bis zu den Knien
----
-
- Wärmebereich
----
-
- Leichtes Lining vom Bund bis zu den Knien
----
-
-Allseason
-
----
-
-CONCRETE
-
----
-
-[Mehr erfahren](https://www.engelbert-strauss.de/concrete/allseason)
-
-Neuheiten Herbst / Winter '22
-
----
-
-Warnschutz
-
----
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/concrete-warnschutz)
-
- 30 TAGE RÜCKGABERECHT
-
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
-
- KOSTENLOSE RÜCKSENDUNGEN
-
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
-
- KAUF AUF RECHNUNG
-
-[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
 
  Neuheiten
 ---
 
-[Alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
+So gemütlich wird´s nur an Weihnachten: Bei Strauss finden Sie die perfekten Kuschel-Outfits fürs Fest und die Winterzeit.
 
- mastergrid 6d
+[jetzt entdecken](https://www.engelbert-strauss.de/geschenkideen-neuheiten/)
+
+ Weihnachts-
 ---
 
-eine neue
-workwear
-dimension
-
+ Aktions-
+sets
 ---
 
-[jetzt eintauchen](https://www.engelbert-strauss.de/mastergrid_6D)
+[jetzt entdecken](https://www.engelbert-strauss.de/weihnachts-aktions-sets/)
 
-O1 Berufsschuhe
-e.s. Master Grid 6D
-
-e.s. Knee Pad
-Master Grid 6D
-
- e.s.trail
+ Gratis Versand
 ---
 
-Bereit für
-kalte Tage
+ innerhalb Deutschlands bis zum 22.12.2022
 
+ Verlängertes Umtauschrecht
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/trail)
+ Wir verlängern das Umtauschrecht innerhalb Deutschlands bis zum 31.01.2023.
 
-Hybrid Strickjacke e.s.trail
-
- e.s.trail
+ Weihnachts-
+Sets
 ---
 
-Sportlich durch
-den Herbst
+ Zum Fest haben wir für Sie zahlreiche attraktive Aktions-Sets geschnürt. Sichern Sie sich für kurze Zeit unsere Highlights mit GRATIS Artikeln.
 
+[alle Weihnachts-Sets](https://www.engelbert-strauss.de/weihnachts-aktions-sets/)
+
+ Geschenk
+ideen
 ---
 
-[Hybrid Kapuzenstrickjacke](https://www.engelbert-strauss.de/hybridjacken-damen/hybrid-kapuzenstrickjacke-e-s-trail-damen-3134220-71511-1623.html?amp;itemorigin=startseite_hw22)
+[jetzt entdecken](https://www.engelbert-strauss.de/geschenkideen/?sort=newest)
 
- Noch mehr Strauss-Highlights
+ High-
+lights
 ---
 
-[Bekleidung](https://www.engelbert-strauss.de/arbeitskleidung/)
+[jetzt entdecken](https://www.engelbert-strauss.de/weihnachten/?sort=newest)
 
-[Schuhe](https://www.engelbert-strauss.de/arbeitsschuhe/)
+ Für die
+Kleinen
+---
 
-[Werkzeug](https://www.engelbert-strauss.de/werkzeuge/)
+[jetzt entdecken](https://www.engelbert-strauss.de/geschenkideen-fuer-die-kleinen/?sort=newest)
 
-[Arbeitsschutz](https://www.engelbert-strauss.de/arbeitsschutz/)
+ Gutscheine
+verschenken
+---
 
-[Betriebsbedarf](https://www.engelbert-strauss.de/betriebsbedarf/)
+ Entweder hübsch verpackt als Gutscheinkarte oder für Kurzentschlossene in der Digitalversion zum Sofort-Ausdrucken und Personalisieren.
 
- Newsletter abonnieren
+[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=Startseite_Weihnachten2022)
 
- und exklusive Aktionen, Gutscheine & Schnäppchen sichern
-
-[Jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?ItemOrigin=StartFS22)
+[Gutschein per Mail](https://gutschein.strauss.de/F6161/)
 
 []()
 
