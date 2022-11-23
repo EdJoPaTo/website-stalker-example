@@ -42,7 +42,5 @@ RE2 Hannover - Northeim - Göttingen
 
 [21.11.2022 - 28.11.2022 RE2/RE3/RB31: Fahrzeitveränderungen und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-fahrzeitveraenderungen-und-haltausfaelle/)
 
-[06.12.2022 RE2: Haltausfall in Freden (Leine)](https://www.der-metronom.de/baustellen/re2-haltausfall-in-freden-leine/)
-
 Dein persönlicher Baustellen-Newsletter
 ----------
