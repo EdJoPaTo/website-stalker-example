@@ -15,21 +15,15 @@ jobs:
       TELEGRAM_TARGET_CHAT: "-1001569012086"
       TELEGRAM_DISABLE_WEB_PAGE_PREVIEW: true
     steps:
+      - uses: EdJoPaTo/website-stalker-github-action@v1
+
       - uses: actions/checkout@v3
 
-      # See https://github.com/actions/runner/issues/2033
-      - name: Fix git safe.directory in container
-        run: mkdir -p /home/runner/work/_temp/_github_home && printf "[safe]\n\tdirectory = /github/workspace" > /home/runner/work/_temp/_github_home/.gitconfig
-
       - name: Check website-stalker config
-        uses: docker://ghcr.io/edjopato/website-stalker:latest
-        with:
-          args: check
+        run: website-stalker check
 
       - name: Run website-stalker
-        uses: docker://ghcr.io/edjopato/website-stalker:latest
-        with:
-          args: run --all --commit
+        run: website-stalker run --all --commit
 
       - if: always()
         run: git push
