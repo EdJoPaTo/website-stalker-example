@@ -24,6 +24,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [11.12.2022 RB41: Veränderte Fahrtzeiten für ME81946](https://www.der-metronom.de/baustellen/rb41-veraenderte-fahrtzeiten-fuer-me81946/)
 
+[17.12.2022 - 23.12.2022 RE4/RB41 Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [21.11.2022 - 05.12.2022 RE3/RB31: Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31/)
