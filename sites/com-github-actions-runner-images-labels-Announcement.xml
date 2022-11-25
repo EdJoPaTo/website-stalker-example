@@ -6,17 +6,6 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>[all OSs] Nodejs 12.x will be removed from the images on November, 14</title>
-			<link>https://github.com/actions/runner-images/issues/6482</link>
-			<pubDate>Thu, 27 Oct 2022 12:22:45 +0000</pubDate>
-			<content:encoded><![CDATA[#6482
-opened
-Oct 27, 2022
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
 			<title>Ubuntu-latest workflows will use Ubuntu-22.04</title>
 			<link>https://github.com/actions/runner-images/issues/6399</link>
 			<pubDate>Thu, 13 Oct 2022 11:19:38 +0000</pubDate>
@@ -34,17 +23,6 @@ ddobranic]]></content:encoded>
 			<content:encoded><![CDATA[#6384
 opened
 Oct 11, 2022
-by
-
-ddobranic]]></content:encoded>
-		</item>
-		<item>
-			<title>[all OSs] The VCPKG_ROOT variable will be removed from runner images</title>
-			<link>https://github.com/actions/runner-images/issues/6376</link>
-			<pubDate>Mon, 10 Oct 2022 09:21:59 +0000</pubDate>
-			<content:encoded><![CDATA[#6376
-opened
-Oct 10, 2022
 by
 
 ddobranic]]></content:encoded>
