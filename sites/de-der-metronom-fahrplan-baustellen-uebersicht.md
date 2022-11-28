@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[14.11.2022 - 27.11.2022 RE4/RB41: Halt- und Zugausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-zugausfaelle-wegen-brueckenbauarbeiten/)
-
 [28.11.2022 - 05.12.2022 RE4/RB41: Zug- und Haltausfälle wegen Weichenerneuerung in Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-zug-und-haltausfaelle-wegen-weichenerneuerung-in-hamburg-harburg/)
 
 [11.12.2022 RB41: Veränderte Fahrtzeiten für ME81946](https://www.der-metronom.de/baustellen/rb41-veraenderte-fahrtzeiten-fuer-me81946/)
