@@ -30,8 +30,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [21.11.2022 - 05.12.2022 RE3/RB31: Weichenerneuerung im Bereich Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31/)
 
-[21.11.2022 - 28.11.2022 RE2/RE3/RB31: Fahrzeitveränderungen und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-fahrzeitveraenderungen-und-haltausfaelle/)
-
 [06.12.2022 - 07.12.2022 RB31: Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-haltausfall-in-ashausen/)
 
 [10.12.2022 RB31: Zusätzliche Fahrt aufgrund des Fahrplanwechsels](https://www.der-metronom.de/baustellen/rb31-zusaetzliche-fahrt-aufgrund-des-fahrplanwechsels/)
@@ -40,13 +38,9 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[21.11.2022 - 28.11.2022 RE2/RE3/RB31: Fahrzeitveränderungen und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-fahrzeitveraenderungen-und-haltausfaelle/)
-
 [15.12.2022 - 22.12.2022 RE2 Fahrzeitveränderungen überwiegend in den Nachtstunden sowie Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-fahrzeitveraenderungen-ueberwiegend-in-den-nachtstunden-sowie-ersatzverkehr-mit-bussen/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[21.11.2022 - 28.11.2022 RE2/RE3/RB31: Fahrzeitveränderungen und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-fahrzeitveraenderungen-und-haltausfaelle/)
 
 [15.12.2022 - 22.12.2022 RE2 Fahrzeitveränderungen überwiegend in den Nachtstunden sowie Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-fahrzeitveraenderungen-ueberwiegend-in-den-nachtstunden-sowie-ersatzverkehr-mit-bussen/)
 
