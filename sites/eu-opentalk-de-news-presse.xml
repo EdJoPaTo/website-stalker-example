@@ -6,6 +6,26 @@
 		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Projekt „Reflect EU&amp;US“ des BMWK nutzt OpenTalk</title>
+			<link>https://opentalk.eu/de/news/projekt-reflect-euus-des-bmwk-nutzt-opentalk</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				29.11.2022
+			</time>
+		</div>
+		<div>
+			<p>
+				Mehr Sicherheit und Datensouveränität: Das Projekt „Reflect EU&US“ des Bundesministeriums für Wirtschaft und Klimaschutz nutzt die Videokonferenzlösung OpenTalk.
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>mailbox.org setzt auf OpenTalk als sichere Videokonferenz</title>
 			<link>https://opentalk.eu/de/news/mailbox-org-setzt-auf-opentalk-als-sichere-videokonferenz</link>
 			<content:encoded><![CDATA[<html>
@@ -60,26 +80,6 @@
 		<div>
 			<p>
 				OpenTalk auf Tour: Zusammen mit unserem Partner Innovaphone laden wir am 14. September 2022 nach Baden (Schweiz) ein, vor den Toren von Zürich.
-			</p>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>OpenTalk auf der innovaphone CONNECT am 30. Juni 2022</title>
-			<link>https://opentalk.eu/de/news/opentalk-auf-der-innovaphone-connect-am-30-juni-2022</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="pleaser__date">
-			<time>
-				23.06.2022
-			</time>
-		</div>
-		<div>
-			<p>
-				Auf der Messe hält OpenTalk-Gründer Peer Heinlein die Vorträge "Digital souveräne Videokonferenzen mit OpenTalk" und "How we built a new video conferencing solution with privacy by design".
 			</p>
 		</div>
 	</body>
