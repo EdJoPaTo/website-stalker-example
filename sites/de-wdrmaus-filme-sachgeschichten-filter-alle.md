@@ -961,6 +961,7 @@
 * [Stadtplan](https://www.wdrmaus.de/filme/sachgeschichten/stadtplan.php5)
 * [Stahlbeton](https://www.wdrmaus.de/filme/sachgeschichten/stahlbeton.php5)
 * [Stahlbramme](https://www.wdrmaus.de/filme/sachgeschichten/stahlbramme.php5)
+* [Stahlwerk](https://www.wdrmaus.de/filme/sachgeschichten/stahlwerk.php5)
 * [Stau](https://www.wdrmaus.de/filme/sachgeschichten/stau.php5)
 * [Staubsauger](https://www.wdrmaus.de/filme/sachgeschichten/staubsauger.php5)
 * [Stecknadeln](https://www.wdrmaus.de/filme/sachgeschichten/stecknadeln.php5)
