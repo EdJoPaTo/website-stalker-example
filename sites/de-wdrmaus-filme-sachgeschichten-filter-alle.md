@@ -1043,6 +1043,7 @@
 * [Wackelbild](https://www.wdrmaus.de/filme/sachgeschichten/wackelbild.php5)
 * [Wärmepad](https://www.wdrmaus.de/filme/sachgeschichten/waermepad.php5)
 * [Wärmepumpe](https://www.wdrmaus.de/filme/sachgeschichten/waermepumpe.php5)
+* [Walnuss](https://www.wdrmaus.de/filme/sachgeschichten/walnuss.php5)
 * [Was braucht man zum Leben?](https://www.wdrmaus.de/filme/sachgeschichten/was_braucht_man_zum_leben.php5)
 * [Wasser in der Wüste](https://www.wdrmaus.de/filme/sachgeschichten/wasser_in_der_wueste.php5)
 * [Wasserball](https://www.wdrmaus.de/filme/sachgeschichten/wasserball.php5)
