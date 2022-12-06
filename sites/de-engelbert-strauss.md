@@ -73,6 +73,14 @@ verschenken
 
 [Gutschein per Mail](https://gutschein.strauss.de/F6161/)
 
+###  e.s. Heizweste climafoam  ###
+
+---
+
+ Heißer Tipp für kalte Tage: einstecken, aufwärmen, wohlfühlen
+
+[jetzt entdecken](https://www.engelbert-strauss.de/westen/e-s-heizweste-climafoam-3140530-78441-702.html?itemorigin=Startseite_Weihnachten2022)
+
 []()
 
 [Service 0 60 50 / 97 10 12](tel:+496050971012)
