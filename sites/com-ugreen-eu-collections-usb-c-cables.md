@@ -40,15 +40,15 @@ UGREEN Right Angle USB C Cable 3.0 Type C Charger Cable Fast Charging 5Gbps
 
 UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided
 
+### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
+
+€7,99
+
 ### [Ugreen USB to Micro USB Cable](/products/ugreen-usb-to-micro-usb-cable) ###
 
 €7,99 – €9,99
 
 With 18W max power output and 480Mbps data transferring speed, this USB to Micro USB cable charges your devices as fast as possible with Quick Charge 2.0, 75% faster than...
-
-### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
-
-€7,99
 
 ### [UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Charging](/products/ugreen-usb-c-cable-90-degree-2-pack-right-angle-type-c-charger-lead-fast-charging) ###
 
