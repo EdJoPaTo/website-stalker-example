@@ -1,4 +1,4 @@
-[Bunte Blätter, Wind und Regen](https://www.wdrmaus.de/extras/mausthemen/herbst/index.php5)
+[Öffne jeden Tag ein Türchen](https://www.wdrmaus.de/extras/mausthemen/adventskalender/2022/index.php5)
 
 [Was ist da los?](https://www.wdrmaus.de/extras/mausthemen/ukraine/index.php5)
 
