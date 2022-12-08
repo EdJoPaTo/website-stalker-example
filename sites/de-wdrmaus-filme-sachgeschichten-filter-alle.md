@@ -985,6 +985,7 @@
 * [Straßenbahnfahrer](https://www.wdrmaus.de/filme/sachgeschichten/strassenbahnfahrer.php5)
 * [Streckenläufer](https://www.wdrmaus.de/filme/sachgeschichten/streckenlaeufer.php5)
 * [Strohballenknoter](https://www.wdrmaus.de/filme/sachgeschichten/strohballenknoter.php5)
+* [Strom aus Salzwasser](https://www.wdrmaus.de/filme/sachgeschichten/strom_aus_salzwasser.php5)
 * [Strudel](https://www.wdrmaus.de/filme/sachgeschichten/strudel.php5)
 * [Stunt](https://www.wdrmaus.de/filme/sachgeschichten/stunt.php5)
 * [Suchmaschine](https://www.wdrmaus.de/filme/sachgeschichten/suchmaschine.php5)
