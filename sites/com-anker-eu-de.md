@@ -1,6 +1,6 @@
 []()
 
-[](/eu-de/black-friday-sale)
+[](/eu-de/products/a1780)
 
 Lebenslanger technischer Support
 
