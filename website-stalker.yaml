@@ -186,11 +186,13 @@ sites:
       - regex_replace:
           pattern: \?ref=\w+
           replace: ''
+      - html_url_canonicalize
       - html_markdownify
   - url: https://eu.ugreen.com/
     editors:
       - css_select: body
       - css_remove: svg, picture, img, script, noscript, style, .green-home-picks, .green-home-recommend, .green-home-influencer
+      - html_url_canonicalize
       - html_markdownify
   - url:
       - https://eu.ugreen.com/collections/gan-chargers
@@ -199,4 +201,5 @@ sites:
       - https://eu.ugreen.com/collections/usb-c-cables
     editors:
       - css_select: .t4s-product-info__inner
+      - html_url_canonicalize
       - html_markdownify

@@ -1,30 +1,30 @@
-[Skip to content](#MainContent)
+[Skip to content](https://eu.ugreen.com/#MainContent)
 
 UGREEN
 ==========
 
 Buy Any 2 Items Get Extra 5% OFF
 
-[](/)
+[](https://eu.ugreen.com/)
 
-[](/)
+[](https://eu.ugreen.com/)
 
-* [X-masHOT](/pages/new-christmas)
-* [PRODUCTS](#)
+* [X-masHOT](https://eu.ugreen.com/pages/new-christmas)
+* [PRODUCTS](https://eu.ugreen.com/#)
 
-* [CHARGERS](#)
+* [CHARGERS](https://eu.ugreen.com/#)
 
-* [HUB & ADAPTER](#)
+* [HUB & ADAPTER](https://eu.ugreen.com/#)
 
-* [TO OUR CLIENTS](#)
+* [TO OUR CLIENTS](https://eu.ugreen.com/#)
 
-[](/search)
+[](https://eu.ugreen.com/search)
 
-[](/account)
+[](https://eu.ugreen.com/account)
 
-[0 / €0,00](/cart)
+[0 / €0,00](https://eu.ugreen.com/cart)
 
-[Merry X-Mas Christmas Present From Ugreen Learn More \>](/pages/new-christmas) [STAY CHARGED FOR EVERY GOAL Buy Now \>](https://eu.ugreen.com/collections/stay-charged-for-every-goal) [Superior GaN\* Tech Bolder, Faster Chargers Learn More \>](https://eu.ugreen.com/collections/gan-chargers) [Power Station Survey Participate for a Chance to Win Join Now \>](https://eu.ugreen.com/pages/Power-Station-Survey%20) [Nexode 200W Desktop Charger 6 Ports Support Team Work Shop Now \>](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger?variant=40293723078739) [Nexode 100W Charger 4-in-1 Multiport Charger Shop Now \>](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger?variant=40293741199443)
+[Merry X-Mas Christmas Present From Ugreen Learn More \>](https://eu.ugreen.com/pages/new-christmas) [STAY CHARGED FOR EVERY GOAL Buy Now \>](https://eu.ugreen.com/collections/stay-charged-for-every-goal) [Superior GaN\* Tech Bolder, Faster Chargers Learn More \>](https://eu.ugreen.com/collections/gan-chargers) [Power Station Survey Participate for a Chance to Win Join Now \>](https://eu.ugreen.com/pages/Power-Station-Survey%20) [Nexode 200W Desktop Charger 6 Ports Support Team Work Shop Now \>](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger?variant=40293723078739) [Nexode 100W Charger 4-in-1 Multiport Charger Shop Now \>](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger?variant=40293741199443)
 
  WHY BUY DIRECT
  FROM UGREEN
@@ -43,29 +43,29 @@ Buy Any 2 Items Get Extra 5% OFF
 
 ### ABOUT ###
 
-* [About Ugreen](/pages/about-ugreen)
-* [Contact Us](/pages/contact-us)
-* [Terms of use](/policies/terms-of-service)
-* [Privacy Policy](/policies/privacy-policy)
-* [Impressum](/pages/legal-notice)
+* [About Ugreen](https://eu.ugreen.com/pages/about-ugreen)
+* [Contact Us](https://eu.ugreen.com/pages/contact-us)
+* [Terms of use](https://eu.ugreen.com/policies/terms-of-service)
+* [Privacy Policy](https://eu.ugreen.com/policies/privacy-policy)
+* [Impressum](https://eu.ugreen.com/pages/legal-notice)
 
 ### TO OUR CLIENTS ###
 
 ### TO OUR CLIENTS ###
 
-* [Student Discount](/pages/student-discount)
-* [Wholesale Program](/pages/wholesale-program)
-* [Dropshipping Program](/pages/dropshipping-program)
-* [Download](/pages/download)
+* [Student Discount](https://eu.ugreen.com/pages/student-discount)
+* [Wholesale Program](https://eu.ugreen.com/pages/wholesale-program)
+* [Dropshipping Program](https://eu.ugreen.com/pages/dropshipping-program)
+* [Download](https://eu.ugreen.com/pages/download)
 
 ### SERVICE ###
 
 ### SERVICE ###
 
-* [Payment](/pages/payment)
-* [Warranty](/pages/warranty)
-* [Shipping & Delivery](/policies/shipping-policy)
-* [Return & Exchange](/pages/return-exchange)
+* [Payment](https://eu.ugreen.com/pages/payment)
+* [Warranty](https://eu.ugreen.com/pages/warranty)
+* [Shipping & Delivery](https://eu.ugreen.com/policies/shipping-policy)
+* [Return & Exchange](https://eu.ugreen.com/pages/return-exchange)
 
 ### BE THE FIRST TO KNOW ###
 
@@ -79,8 +79,8 @@ Copyright © 2022 Ugreen Group GmbH
 
 * Choosing a selection results in a full page refresh.
 
-[](#)
+[](https://eu.ugreen.com/#)
 
-[English](#)
+[English](https://eu.ugreen.com/#)
 
-[English](#)[French](#)[German](#)[Italian](#)[Spanish](#)
+[English](https://eu.ugreen.com/#)[French](https://eu.ugreen.com/#)[German](https://eu.ugreen.com/#)[Italian](https://eu.ugreen.com/#)[Spanish](https://eu.ugreen.com/#)

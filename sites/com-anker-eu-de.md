@@ -1,14 +1,14 @@
 []()
 
-[](/eu-de/products/a1780)
+[](https://www.anker.com/eu-de/products/a1780)
 
 Lebenslanger technischer Support
 
-[Black Friday | Bis zu 600 € Rabatt](/eu-de/black-friday-sale)
+[Black Friday | Bis zu 600 € Rabatt](https://www.anker.com/eu-de/black-friday-sale)
 
 Kostenloser Versand.
 
-[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](/eu-de/corporate-purchase)
+[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](https://www.anker.com/eu-de/corporate-purchase)
 
 Kostenloser, rapider Versand
 
@@ -18,11 +18,11 @@ Problemlose Herstellergarantie
 
 Lebenslanger technischer Support
 
-[Black Friday | Bis zu 600 € Rabatt](/eu-de/black-friday-sale)
+[Black Friday | Bis zu 600 € Rabatt](https://www.anker.com/eu-de/black-friday-sale)
 
 Kostenloser Versand.
 
-[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](/eu-de/corporate-purchase)
+[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](https://www.anker.com/eu-de/corporate-purchase)
 
 Kostenloser, rapider Versand
 
@@ -36,7 +36,7 @@ Lebenslanger technischer Support
 
 Kostenloser Versand.
 
-[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](/eu-de/corporate-purchase)
+[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](https://www.anker.com/eu-de/corporate-purchase)
 
 Kostenloser, rapider Versand
 
@@ -48,7 +48,7 @@ Lebenslanger technischer Support
 
 Kostenloser Versand.
 
-[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](/eu-de/corporate-purchase)
+[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](https://www.anker.com/eu-de/corporate-purchase)
 
 Kostenloser, rapider Versand
 
@@ -58,142 +58,142 @@ Problemlose Herstellergarantie
 
 Lebenslanger technischer Support
 
-[Logo](/eu-de)
+[Logo](https://www.anker.com/eu-de)
 
-[Produkte](/)
+[Produkte](https://www.anker.com/)
 
-* [](/eu-de/collections/wandladegerate)
+* [](https://www.anker.com/eu-de/collections/wandladegerate)
 
-  * [Ladegeräte](/eu-de/collections/wandladegerate)
-  * [Für iPhone und mehr](/eu-de/collections/for-iphone-and-more)
-  * [Für Tablets](/eu-de/collections/for-tablets)
-  * [Für Laptops](/eu-de/collections/for-laptops)
+  * [Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate)
+  * [Für iPhone und mehr](https://www.anker.com/eu-de/collections/for-iphone-and-more)
+  * [Für Tablets](https://www.anker.com/eu-de/collections/for-tablets)
+  * [Für Laptops](https://www.anker.com/eu-de/collections/for-laptops)
 
-* [](/eu-de/portable-power-stations)
+* [](https://www.anker.com/eu-de/portable-power-stations)
 
-  * [Powerstation](/eu-de/portable-power-stations)
-  * [Solargenerator](/eu-de/collections/solarstrom-set)
-  * [Tragbare Powerstation](/eu-de/collections/portable-power-stations)
-  * [Solarpanel](/eu-de/collections/solar-panels)
+  * [Powerstation](https://www.anker.com/eu-de/portable-power-stations)
+  * [Solargenerator](https://www.anker.com/eu-de/collections/solarstrom-set)
+  * [Tragbare Powerstation](https://www.anker.com/eu-de/collections/portable-power-stations)
+  * [Solarpanel](https://www.anker.com/eu-de/collections/solar-panels)
 
-* [](/eu-de/collections/powerbanks)
+* [](https://www.anker.com/eu-de/collections/powerbanks)
 
-  * [Powerbanks](/eu-de/collections/powerbanks)
-  * [Bis 3 Smartphone-Ladungen](/eu-de/collections/under-3-phone-charges)
-  * [3-4 Smartphone-Ladungen](/eu-de/collections/3-4-phone-charges)
-  * [Ab 4 Smartphone-Ladungen](/eu-de/collections/4-phone-charges)
-  * [Kabellos](/eu-de/collections/powerbanks-wireless)
+  * [Powerbanks](https://www.anker.com/eu-de/collections/powerbanks)
+  * [Bis 3 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/under-3-phone-charges)
+  * [3-4 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/3-4-phone-charges)
+  * [Ab 4 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/4-phone-charges)
+  * [Kabellos](https://www.anker.com/eu-de/collections/powerbanks-wireless)
 
-* [](/eu-de/collections/kabel)
+* [](https://www.anker.com/eu-de/collections/kabel)
 
-  * [Kabel](/eu-de/collections/kabel)
-  * [Für iPhone (Lightning)](/eu-de/collections/for-iphone-lightning)
-  * [USB-C](/eu-de/collections/usb-c)
+  * [Kabel](https://www.anker.com/eu-de/collections/kabel)
+  * [Für iPhone (Lightning)](https://www.anker.com/eu-de/collections/for-iphone-lightning)
+  * [USB-C](https://www.anker.com/eu-de/collections/usb-c)
 
-* [](/eu-de/collections/kabelloses-zubehor)
+* [](https://www.anker.com/eu-de/collections/kabelloses-zubehor)
 
-  * [Ladepads](/eu-de/collections/kabelloses-zubehor)
-  * [Magnetisch](/eu-de/collections/magnetic)
-  * [Ladeständer](/eu-de/collections/stands)
+  * [Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor)
+  * [Magnetisch](https://www.anker.com/eu-de/collections/magnetic)
+  * [Ladeständer](https://www.anker.com/eu-de/collections/stands)
 
-* [](/eu-de/collections/adapter-hubs)
+* [](https://www.anker.com/eu-de/collections/adapter-hubs)
 
-  * [Adapter & Hubs](/eu-de/collections/adapter-hubs)
-  * [Hubs](/eu-de/collections/hubs)
-  * [Docking-Stationen](/eu-de/collections/docking-stations)
-  * [Adapters](/eu-de/collections/adapters)
+  * [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs)
+  * [Hubs](https://www.anker.com/eu-de/collections/hubs)
+  * [Docking-Stationen](https://www.anker.com/eu-de/collections/docking-stations)
+  * [Adapters](https://www.anker.com/eu-de/collections/adapters)
 
-* [VideoKonferenzen ----------](https://de.ankerwork.com)
+* [VideoKonferenzen ----------](https://de.ankerwork.com/)
 * [New 3D Printer ----------](https://www.ankermake.com/other-3dprinter-v8111)
 
-[Black Friday<sup style="color: #ff7e00;">&nbsp;SALE</sup>](/eu-de/black-friday-sale)
+[Black Friday<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/black-friday-sale)
 
 [Powerstation Angebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/powerhouse-angebote)
 
 [PowerHouse 767<sup style="color: #00a7e1;">&nbsp;NEU</sup>](https://www.anker.com/eu-de/products/a1780)
 
-[Nano 3](/eu-de/nano3)
+[Nano 3](https://www.anker.com/eu-de/nano3)
 
-[GaNPrime™️](/eu-de/ganprime)
+[GaNPrime™️](https://www.anker.com/eu-de/ganprime)
 
-[Hilfe](/)
+[Hilfe](https://www.anker.com/)
 
 [Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase)[Bestellung verfolgen](https://de.anker.com/apps/aftership)[Rücksendungen & Erstattungen](https://de.anker.com/policies/refund-policy)[Herstellergarantie](https://de.anker.com/pages/exchange)[Kontakt](https://de.anker.com/pages/contact)[PowerHouse-Händler werden](https://www.anker.com/eu-de/portable-power-stations#partner)
 
 Search
 
-[](/eu-de/search)
+[](https://www.anker.com/eu-de/search)
 
 [](https://mulpass.anker.com/?app=ankerde)
 
-* [Produkte](/eu-de)
+* [Produkte](https://www.anker.com/eu-de)
 
-  * [Ladegeräte](/eu-de/collections/wandladegerate)
-  * [Für iPhone und mehr](/eu-de/collections/for-iphone-and-more)
-  * [Für Tablets](/eu-de/collections/for-tablets)
-  * [Für Laptops](/eu-de/collections/for-laptops)
+  * [Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate)
+  * [Für iPhone und mehr](https://www.anker.com/eu-de/collections/for-iphone-and-more)
+  * [Für Tablets](https://www.anker.com/eu-de/collections/for-tablets)
+  * [Für Laptops](https://www.anker.com/eu-de/collections/for-laptops)
 
-  * [Powerstation](/eu-de/portable-power-stations)
-  * [Solargenerator](/eu-de/collections/solarstrom-set)
-  * [Tragbare Powerstation](/eu-de/collections/portable-power-stations)
-  * [Solarpanel](/eu-de/collections/solar-panels)
+  * [Powerstation](https://www.anker.com/eu-de/portable-power-stations)
+  * [Solargenerator](https://www.anker.com/eu-de/collections/solarstrom-set)
+  * [Tragbare Powerstation](https://www.anker.com/eu-de/collections/portable-power-stations)
+  * [Solarpanel](https://www.anker.com/eu-de/collections/solar-panels)
 
-  * [Powerbanks](/eu-de/collections/powerbanks)
-  * [Bis 3 Smartphone-Ladungen](/eu-de/collections/under-3-phone-charges)
-  * [3-4 Smartphone-Ladungen](/eu-de/collections/3-4-phone-charges)
-  * [Ab 4 Smartphone-Ladungen](/eu-de/collections/4-phone-charges)
-  * [Kabellos](/eu-de/collections/powerbanks-wireless)
+  * [Powerbanks](https://www.anker.com/eu-de/collections/powerbanks)
+  * [Bis 3 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/under-3-phone-charges)
+  * [3-4 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/3-4-phone-charges)
+  * [Ab 4 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/4-phone-charges)
+  * [Kabellos](https://www.anker.com/eu-de/collections/powerbanks-wireless)
 
-  * [Kabel](/eu-de/collections/kabel)
-  * [Für iPhone (Lightning)](/eu-de/collections/for-iphone-lightning)
-  * [USB-C](/eu-de/collections/usb-c)
+  * [Kabel](https://www.anker.com/eu-de/collections/kabel)
+  * [Für iPhone (Lightning)](https://www.anker.com/eu-de/collections/for-iphone-lightning)
+  * [USB-C](https://www.anker.com/eu-de/collections/usb-c)
 
-  * [Ladepads](/eu-de/collections/kabelloses-zubehor)
-  * [Magnetisch](/eu-de/collections/magnetic)
-  * [Ladeständer](/eu-de/collections/stands)
+  * [Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor)
+  * [Magnetisch](https://www.anker.com/eu-de/collections/magnetic)
+  * [Ladeständer](https://www.anker.com/eu-de/collections/stands)
 
-  * [Adapter & Hubs](/eu-de/collections/adapter-hubs)
-  * [Hubs](/eu-de/collections/hubs)
-  * [Docking-Stationen](/eu-de/collections/docking-stations)
-  * [Adapters](/eu-de/collections/adapters)
+  * [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs)
+  * [Hubs](https://www.anker.com/eu-de/collections/hubs)
+  * [Docking-Stationen](https://www.anker.com/eu-de/collections/docking-stations)
+  * [Adapters](https://www.anker.com/eu-de/collections/adapters)
 
-  * [AnkerWork VideoKonferenzen](https://de.ankerwork.com)
+  * [AnkerWork VideoKonferenzen](https://de.ankerwork.com/)
   * [AnkerMake 3D Printer](https://www.ankermake.com/other-3dprinter-v8111)
 
-* [Black Friday<sup style="color: #ff7e00;">&nbsp;SALE</sup>](/eu-de/black-friday-sale)
+* [Black Friday<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/black-friday-sale)
 * [Powerstation Angebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/powerhouse-angebote)
 * [PowerHouse 767<sup style="color: #00a7e1;">&nbsp;NEU</sup>](https://www.anker.com/eu-de/products/a1780)
-* [Nano 3](/eu-de/nano3)
-* [GaNPrime™️](/eu-de/ganprime)
-* [Hilfe](/eu-de)
+* [Nano 3](https://www.anker.com/eu-de/nano3)
+* [GaNPrime™️](https://www.anker.com/eu-de/ganprime)
+* [Hilfe](https://www.anker.com/eu-de)
 
   [Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase)[Bestellung verfolgen](https://de.anker.com/apps/aftership)[Rücksendungen & Erstattungen](https://de.anker.com/policies/refund-policy)[Herstellergarantie](https://de.anker.com/pages/exchange)[Kontakt](https://de.anker.com/pages/contact)[PowerHouse-Händler werden](https://www.anker.com/eu-de/portable-power-stations#partner)
 
-[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](/eu-de/products/a1760)
+[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
 
 [NEU Anker PowerHouse 767 2048 Wh | 2300 W **Power für alles.** Mehr erfahren](https://www.anker.com/eu-de/products/a1780)
 
-[Mehr erfahren](/eu-de/ganprime)
+[Mehr erfahren](https://www.anker.com/eu-de/ganprime)
 
-[Bis zu 600€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](/eu-de/powerhouse-angebote)
+[Bis zu 600€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](https://www.anker.com/eu-de/powerhouse-angebote)
 
-[Anker Nano 3 Anker Nano 3 Für jedes iPhone ein Nano von Anker Mehr erfahren](/eu-de/nano3)
+[Anker Nano 3 Anker Nano 3 Für jedes iPhone ein Nano von Anker Mehr erfahren](https://www.anker.com/eu-de/nano3)
 
-[Anker Bio-Kabel Anker Bio-Kabel Bio & Belastbar Mehr erfahren](/eu-de/products/a80A2?variant=42864441557155)
+[Anker Bio-Kabel Anker Bio-Kabel Bio & Belastbar Mehr erfahren](https://www.anker.com/eu-de/products/a80A2?variant=42864441557155)
 
-[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](/eu-de/products/a1760)
+[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
 
 [NEU Anker PowerHouse 767 2048 Wh | 2300 W **Power für alles.** Mehr erfahren](https://www.anker.com/eu-de/products/a1780)
 
-[Mehr erfahren](/eu-de/ganprime)
+[Mehr erfahren](https://www.anker.com/eu-de/ganprime)
 
-[Bis zu 600€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](/eu-de/powerhouse-angebote)
+[Bis zu 600€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](https://www.anker.com/eu-de/powerhouse-angebote)
 
-[Anker Nano 3 Anker Nano 3 Für jedes iPhone ein Nano von Anker Mehr erfahren](/eu-de/nano3)
+[Anker Nano 3 Anker Nano 3 Für jedes iPhone ein Nano von Anker Mehr erfahren](https://www.anker.com/eu-de/nano3)
 
-[Anker Bio-Kabel Anker Bio-Kabel Bio & Belastbar Mehr erfahren](/eu-de/products/a80A2?variant=42864441557155)
+[Anker Bio-Kabel Anker Bio-Kabel Bio & Belastbar Mehr erfahren](https://www.anker.com/eu-de/products/a80A2?variant=42864441557155)
 
-[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](/eu-de/products/a1760)
+[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
 
 * 1
 * 2
@@ -202,13 +202,13 @@ Search
 * 5
 * 6
 
-[Mehr erfahren](/eu-de/black-friday-sale)
+[Mehr erfahren](https://www.anker.com/eu-de/black-friday-sale)
 
-[Series **5** | Der Genuss von Qualität Series 5 Der Genuss von Qualität Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung. Mehr erfahren](/eu-de/series5)
+[Series **5** | Der Genuss von Qualität Series 5 Der Genuss von Qualität Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung. Mehr erfahren](https://www.anker.com/eu-de/series5)
 
-[Series **6** | Einzigartige Erfahrungen Series 6 Einzigartige Erfahrungen Smartes Tech-Zubehör mit fortschrittlicher Funktionalität. Mehr erfahren](/eu-de/series6)
+[Series **6** | Einzigartige Erfahrungen Series 6 Einzigartige Erfahrungen Smartes Tech-Zubehör mit fortschrittlicher Funktionalität. Mehr erfahren](https://www.anker.com/eu-de/series6)
 
-[Series **7** | Technologie der Zukunft Series 7 Technologie der Zukunft Leistung und Funktionalität auf dem neuesten Stand. Mehr erfahren](/eu-de/series7)
+[Series **7** | Technologie der Zukunft Series 7 Technologie der Zukunft Leistung und Funktionalität auf dem neuesten Stand. Mehr erfahren](https://www.anker.com/eu-de/series7)
 
 Die beliebteste Lademarke der Welt\*
 ----------
@@ -249,8 +249,8 @@ Mehr entdecken
 Im Trend
 ==========
 
-* [Anker **521** PowerHouse ========== POWER ZUM MITNEHMEN Mehr erfahren](/eu-de/powerhouse_521)
-* [Anker **735** Charger (GaNPrime 65W) ========== kompaktes 3-faches Ladegerät Zum Angebot](/eu-de/products/a2668)
+* [Anker **521** PowerHouse ========== POWER ZUM MITNEHMEN Mehr erfahren](https://www.anker.com/eu-de/powerhouse_521)
+* [Anker **735** Charger (GaNPrime 65W) ========== kompaktes 3-faches Ladegerät Zum Angebot](https://www.anker.com/eu-de/products/a2668)
 
 footer
 ----------
@@ -290,19 +290,19 @@ footer
 
   Deutschland / Deutsch
 
-[](http://www.anker-in.com?locale=en)
+[](http://www.anker-in.com/?locale=en)
 
-[](https://us.anker.com)
+[](https://us.anker.com/)
 
-[](https://us.soundcore.com)
+[](https://us.soundcore.com/)
 
-[](https://us.eufylife.com)
+[](https://us.eufylife.com/)
 
-[](https://us.seenebula.com)
+[](https://us.seenebula.com/)
 
 [](https://us.ankerwork.com/)
 
-[](https://www.ankermake.com)
+[](https://www.ankermake.com/)
 
 Deutschland / Deutsch
 
@@ -310,12 +310,12 @@ Deutschland / Deutsch
 
 Land/Region wählen
 
-* [United States English](https://us.anker.com)
-* [United Kingdom English](https://uk.anker.com)
-* [Deutschland Deutsc](https://de.anker.com)
+* [United States English](https://us.anker.com/)
+* [United Kingdom English](https://uk.anker.com/)
+* [Deutschland Deutsc](https://de.anker.com/)
 * [Europe English](https://www.anker.com/eu-en)
-* [Canada English](https://ca.anker.com)
-* [India English](https://www.ankerindia.com)
+* [Canada English](https://ca.anker.com/)
+* [India English](https://www.ankerindia.com/)
 * [AUnited Arab Emirates English](https://ae.anker.com/)
 
 []()
@@ -325,6 +325,6 @@ Land/Region wählen
 Ihr Warenkorb ist leer
 ----------
 
-[Kaufen Sie weiter ein](/eu-de/collections/all)
+[Kaufen Sie weiter ein](https://www.anker.com/eu-de/collections/all)
 
 Wir verwenden Cookies für eine noch bessere Erfahrung beim Browsen. Das Fortfahren gleicht dem Akzeptieren unserer Datenschutzrichtlinien.Cookies akzeptieren
