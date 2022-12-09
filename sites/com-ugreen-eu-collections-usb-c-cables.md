@@ -12,13 +12,13 @@ Fully charge MacBook Pro 16" in just 90mins, 1.5 times faster than a 60W USB C c
 
 ### [UGREEN USB C to USB C Cable 60W](/products/ugreen-usb-c-to-usb-c-cable-60w) ###
 
-€6,39 – €9,44
+€7,99 – €13,61
 
 UGREEN USB C to USB C Cable 60W
 
 ### [UGREEN USB C to USB C Cable 60W Right Angle](/products/ugreen-usb-c-to-usb-c-cable-60w-1) ###
 
-€7,99 – €10,79
+€7,99 – €11,99
 
 UGREEN USB C to USB C Cable 60W
 
@@ -60,4 +60,4 @@ With 18W max power output and 480Mbps data transferring speed, this USB to Micro
 
 ### [UGREEN USB C Cable 90 Degree 3A Right Angle Type C Charger Cable Fast Charging](/products/ugreen-usb-c-cable-90-degree-3a-right-angle-type-c-charger-cable-fast-charging) ###
 
-€7,49
+€8,99

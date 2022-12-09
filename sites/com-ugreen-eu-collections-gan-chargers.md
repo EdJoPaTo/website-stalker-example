@@ -1,6 +1,6 @@
 ### [Ugreen Nexode 65W USB C Wall Charger - 3 Ports](/products/ugreen-nexode-65w-usb-c-wall-charger-3-ports) ###
 
-€54,95
+~~€54,95~~€43,96
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
 
@@ -12,7 +12,7 @@ UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge
 
 ### [Ugreen Nexode 100W USB C Wall Charger - 2 Ports](/products/ugreen-nexode-100w-usb-c-wall-charger-2-ports) ###
 
-€74,99
+~~€74,99~~€66,99
 
 Ugreen Nexode 100W USB C Wall Charger - 2 Ports
 
@@ -22,7 +22,7 @@ Ugreen Nexode 100W USB C Wall Charger - 2 Ports
 
 ### [Ugreen Nexode 100W USB C Wall Charger - 4 Ports](/products/ugreen-nexode-100w-usb-c-wall-charger) ###
 
-€79,99
+~~€79,17~~€63,33
 
 No more tangled cables! A small and powerful charger solves all charging problems The USB C power supply can be max. 100 W charging power for 4 devices. For a...
 

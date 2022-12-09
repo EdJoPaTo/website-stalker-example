@@ -320,6 +320,8 @@ Land/Region wählen
 
 []()
 
+**Mein Warenkorb** (0)
+
 Ihr Warenkorb ist leer
 ----------
 
