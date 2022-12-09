@@ -6,6 +6,59 @@
 		<description></description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>HETZNER CONTINUES ITS GROWTH IN THE US WITH A NEW LOCATION</title>
+			<link>https://www.hetzner.com/news/12-22-cloud-usa/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					5. December 2022
+				</small>
+			</p>
+			<h4>
+				HETZNER CONTINUES ITS GROWTH IN THE US WITH A NEW LOCATION
+			</h4>
+			<p class="list-card-preview">
+				West Coast - Here we come: Today, we officially launched our second location in the USA for cloud products in Hillsboro, Oregon, just outside of Portland, a location ripe for…
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/12-22-cloud-usa/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Cyber Deals: Hetzner Storage Shares and Dedicated Server AX101 in the spotlight</title>
+			<link>https://www.hetzner.com/news/cyber-deals-2022/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<li>
+			<p>
+				<small>
+					25. November 2022
+				</small>
+			</p>
+			<h4>
+				Cyber Deals: Hetzner Storage Shares and Dedicated Server AX101 in the spotlight
+			</h4>
+			<p class="list-card-preview">
+				This year, we’re offering you a duo of deals: Cyber Deals 2022!
+Starting on 28 November 2022 at 8:00 am (CET), you can order one of 2022 Hetzner Storage Shares and…
+			</p>
+			<a class="btn btn-black-light btn-sm" href="/news/cyber-deals-2022/">
+				Show more
+			</a>
+		</li>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>RX-Line: Pushing the envelop of parallelization</title>
 			<link>https://www.hetzner.com/news/07-22-rx-line/</link>
 			<content:encoded><![CDATA[<html>
@@ -208,58 +261,6 @@ When you create a cloud server, it will no longer automatically include public I
 				We are now expanding our EX line with the Dedicated Root Server EX100, which houses the Intel® Core™ i9-12900K processor from Intel's new "Alder Lake-S" generation.
 			</p>
 			<a class="btn btn-black-light btn-sm" href="/news/12-21-ex100/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>IPv6 only option for dedicated root servers</title>
-			<link>https://www.hetzner.com/news/12-21-ipv6-only/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					7. December 2021
-				</small>
-			</p>
-			<h4>
-				IPv6 only option for dedicated root servers
-			</h4>
-			<p class="list-card-preview">
-				We are always working on providing you with the best solutions.  Therefore, to make things more flexible for you, our dedicated root servers support IPv6 only.
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/12-21-ipv6-only/">
-				Show more
-			</a>
-		</li>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Top Black Week deals - Selected servers have no setup fees!</title>
-			<link>https://www.hetzner.com/news/11-21-black-week/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<li>
-			<p>
-				<small>
-					22. November 2021
-				</small>
-			</p>
-			<h4>
-				Top Black Week deals - Selected servers have no setup fees!
-			</h4>
-			<p class="list-card-preview">
-				Our world famous no setup fee sale has returned just in time for Black Week! You can get almost all of our AX or PX dedicated root servers without a…
-			</p>
-			<a class="btn btn-black-light btn-sm" href="/news/11-21-black-week/">
 				Show more
 			</a>
 		</li>
