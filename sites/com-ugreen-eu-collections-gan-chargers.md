@@ -40,4 +40,4 @@ Universal CompatibilityThis 65W Charger is Compatible with Macbook Pro, MacBook 
 
 ### [Ugreen Nexode Mini 45W Dual USB C Charger](/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
 
-~~€39,99~~€31,99
+~~€45,99~~€31,99
