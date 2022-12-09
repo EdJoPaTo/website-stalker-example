@@ -1,6 +1,6 @@
 ### [UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery](/products/ugreen-2-pack-usb-c-to-usb-c-charger-cable-100w-65w-power-delivery) ###
 
-€12,99 – €17,99
+€15,99 – €21,99
 
 UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery
 
@@ -36,7 +36,7 @@ UGREEN Right Angle USB C Cable 3.0 Type C Charger Cable Fast Charging 5Gbps
 
 ### [UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided](/products/ugreen-usb-c-cable-3a-fast-charging-usb-to-type-c-lead-nylon-braided-1) ###
 
-~~€12,99~~€10,99
+€12,99
 
 UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided
 
@@ -52,7 +52,7 @@ With 18W max power output and 480Mbps data transferring speed, this USB to Micro
 
 ### [UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Charging](/products/ugreen-usb-c-cable-90-degree-2-pack-right-angle-type-c-charger-lead-fast-charging) ###
 
-€10,99
+€12,99
 
 ### [UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0](/products/ugreen-usb-c-usb-c-charging-cable-100w-double-angle-plug-pd-3-0-qc-4-0) ###
 

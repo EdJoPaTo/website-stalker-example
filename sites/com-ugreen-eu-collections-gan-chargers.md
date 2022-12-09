@@ -28,13 +28,13 @@ No more tangled cables! A small and powerful charger solves all charging problem
 
 ### [Ugreen 100W 4-Port USB C Desktop Charger](/products/ugreen-100w-usb-c-desktop-charger) ###
 
-~~€99,99~~€79,99
+~~€99,99~~€89,99
 
 With 100W max output per port, this USB C charger charges most devices at full speed. e.g, This laptop charger fully chargers MacBook Pro 13'' in 1.8hrs. 100W Laptop Charger...
 
 ### [Ugreen 65W USB C PD Charger - 4 Ports](/products/ugreen-65w-usb-c-pd-charger-4-ports) ###
 
-€59,99
+~~€59,99~~€53,75
 
 Universal CompatibilityThis 65W Charger is Compatible with Macbook Pro, MacBook Air, iPad Pro , iPad Air, iPad Mini 6, iPhone 14/13/12/11; Dell XPS 13, Inspiron 3793; ASUS Zenbook S UX391;...
 

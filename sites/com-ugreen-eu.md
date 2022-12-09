@@ -3,9 +3,7 @@
 UGREEN
 ==========
 
-15% OFF For Orders Over €50. code: **XMAS15**
-
-Copy
+Buy Any 2 Items Get Extra 5% OFF
 
 [](/)
 
