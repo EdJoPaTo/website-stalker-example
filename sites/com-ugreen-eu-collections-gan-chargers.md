@@ -6,7 +6,7 @@ Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives 
 
 ### [Ugreen Nexode 200W USB C Wall Charger - 6 Ports](/products/ugreen-nexode-200w-usb-c-desktop-charger) ###
 
-€199,99
+~~€199,99~~€184,99
 
 UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
 
@@ -15,6 +15,10 @@ UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge
 €74,99
 
 Ugreen Nexode 100W USB C Wall Charger - 2 Ports
+
+### [Ugreen Nexode 140W USB C Wall Charger](/products/ugreen-nexode-140w-usb-c-wall-charger) ###
+
+~~€149,99~~€104,99
 
 ### [Ugreen Nexode 100W USB C Wall Charger - 4 Ports](/products/ugreen-nexode-100w-usb-c-wall-charger) ###
 
@@ -33,3 +37,7 @@ With 100W max output per port, this USB C charger charges most devices at full s
 €59,99
 
 Universal CompatibilityThis 65W Charger is Compatible with Macbook Pro, MacBook Air, iPad Pro , iPad Air, iPad Mini 6, iPhone 14/13/12/11; Dell XPS 13, Inspiron 3793; ASUS Zenbook S UX391;...
+
+### [Ugreen Nexode Mini 45W Dual USB C Charger](/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
+
+~~€39,99~~€31,99
