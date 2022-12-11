@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[11.12.2022 RB41: Veränderte Fahrtzeiten für ME81946](https://www.der-metronom.de/baustellen/rb41-veraenderte-fahrtzeiten-fuer-me81946/)
-
 [17.12.2022 - 23.12.2022 RE4/RB41 Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten/)
 
 [18.12.2022 RB41 Gleisbauarbeiten in den frühen Morgenstunden](https://www.der-metronom.de/baustellen/rb41-gleisbauarbeiten-in-den-fruehen-morgenstunden/)
