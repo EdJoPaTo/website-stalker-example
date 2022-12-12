@@ -106,7 +106,7 @@ Lebenslanger technischer Support
 * [VideoKonferenzen ----------](https://de.ankerwork.com/)
 * [New 3D Printer ----------](https://www.ankermake.com/other-3dprinter-v8111)
 
-[Black Friday<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/black-friday-sale)
+[Weihnachtsangebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/christmas-sale)
 
 [Powerstation Angebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/powerhouse-angebote)
 
@@ -160,7 +160,7 @@ Search
   * [AnkerWork VideoKonferenzen](https://de.ankerwork.com/)
   * [AnkerMake 3D Printer](https://www.ankermake.com/other-3dprinter-v8111)
 
-* [Black Friday<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/black-friday-sale)
+* [Weihnachtsangebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/christmas-sale)
 * [Powerstation Angebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/powerhouse-angebote)
 * [PowerHouse 767<sup style="color: #00a7e1;">&nbsp;NEU</sup>](https://www.anker.com/eu-de/products/a1780)
 * [Nano 3](https://www.anker.com/eu-de/nano3)
@@ -170,6 +170,8 @@ Search
   [Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase)[Bestellung verfolgen](https://de.anker.com/apps/aftership)[Rücksendungen & Erstattungen](https://de.anker.com/policies/refund-policy)[Herstellergarantie](https://de.anker.com/pages/exchange)[Kontakt](https://de.anker.com/pages/contact)[PowerHouse-Händler werden](https://www.anker.com/eu-de/portable-power-stations#partner)
 
 [Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
+
+[Bis zu 35% Rabatt Weihnachtsangebote 12. bis 31. Dezember Jetzt entdecken](https://www.anker.com/eu-de/christmas-sale)
 
 [NEU Anker PowerHouse 767 2048 Wh | 2300 W **Power für alles.** Mehr erfahren](https://www.anker.com/eu-de/products/a1780)
 
@@ -182,6 +184,8 @@ Search
 [Anker Bio-Kabel Anker Bio-Kabel Bio & Belastbar Mehr erfahren](https://www.anker.com/eu-de/products/a80A2?variant=42864441557155)
 
 [Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
+
+[Bis zu 35% Rabatt Weihnachtsangebote 12. bis 31. Dezember Jetzt entdecken](https://www.anker.com/eu-de/christmas-sale)
 
 [NEU Anker PowerHouse 767 2048 Wh | 2300 W **Power für alles.** Mehr erfahren](https://www.anker.com/eu-de/products/a1780)
 
@@ -201,8 +205,7 @@ Search
 * 4
 * 5
 * 6
-
-[Mehr erfahren](https://www.anker.com/eu-de/black-friday-sale)
+* 7
 
 [Series **5** | Der Genuss von Qualität Series 5 Der Genuss von Qualität Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung. Mehr erfahren](https://www.anker.com/eu-de/series5)
 
