@@ -4,7 +4,7 @@
 
 Lebenslanger technischer Support
 
-[Black Friday | Bis zu 600 € Rabatt](https://www.anker.com/eu-de/black-friday-sale)
+[Weihnachtsangebote | Bis zu 35% Rabatt](https://www.anker.com/eu-de/christmas-sale)
 
 Kostenloser Versand.
 
@@ -18,7 +18,7 @@ Problemlose Herstellergarantie
 
 Lebenslanger technischer Support
 
-[Black Friday | Bis zu 600 € Rabatt](https://www.anker.com/eu-de/black-friday-sale)
+[Weihnachtsangebote | Bis zu 35% Rabatt](https://www.anker.com/eu-de/christmas-sale)
 
 Kostenloser Versand.
 
