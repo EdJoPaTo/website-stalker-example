@@ -24,6 +24,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [24.12.2022 - 08.01.2023 RE3/RB31 und RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41/)
 
+[10.01.2023 - 21.01.2023 RB31/RB41: Fahrzeitveränderungen zwischen Hamburg und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-rb41-fahrzeitveraenderungen-zwischen-hamburg-und-har/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [16.12.2022 - 23.12.2022 RE3/RB31 Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-brueckenbauarbeiten-2/)
@@ -31,6 +33,10 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [24.12.2022 - 08.01.2023 RE3/RB31 und RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41/)
 
 [03.01.2023 - 02.02.2023 RE2/RE3/RB31: Fahrzeitveränderungen und Ausfällen überwiegend in den Nachtstunden](https://www.der-metronom.de/baustellen/re2-re3-rb31/)
+
+[10.01.2023 - 13.01.2023 RB31: Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/rb31-haltausfall-in-ashausen/)
+
+[10.01.2023 - 21.01.2023 RB31/RB41: Fahrzeitveränderungen zwischen Hamburg und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-rb41-fahrzeitveraenderungen-zwischen-hamburg-und-har/)
 
 RE2 Uelzen - Celle - Hannover
 
