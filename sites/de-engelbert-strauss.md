@@ -1,4 +1,13 @@
-Weihnachts-
+Der Klassiker unter den Geschenken
+---
+
+ Gutscheine
+verschenken
+---
+
+[jetzt entdecken](https://gutschein.strauss.de/F6161/)
+
+ Weihnachts-
 ---
 
  Highlights
@@ -67,9 +76,7 @@ Kleinen
 verschenken
 ---
 
- Entweder hübsch verpackt als Gutscheinkarte oder für Kurzentschlossene in der Digitalversion zum Sofort-Ausdrucken und Personalisieren.
-
-[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=Startseite_Weihnachten2022)
+ Für Kurzentschlossene in der Digitalversion zum Sofort-Ausdrucken und Personalisieren.
 
 [Gutschein per Mail](https://gutschein.strauss.de/F6161/)
 
