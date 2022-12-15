@@ -34,6 +34,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [03.01.2023 - 02.02.2023 RE2/RE3/RB31: Fahrzeitveränderungen und Ausfällen überwiegend in den Nachtstunden](https://www.der-metronom.de/baustellen/re2-re3-rb31/)
 
+[10.01.2023 - 13.01.2023 RB31: Nächtlicher Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/rb31-haltausfall-in-ashausen/)
+
 [10.01.2023 - 21.01.2023 RB31/RB41: Fahrzeitveränderungen zwischen Hamburg und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-rb41-fahrzeitveraenderungen-zwischen-hamburg-und-har/)
 
 RE2 Uelzen - Celle - Hannover
