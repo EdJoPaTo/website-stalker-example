@@ -17,17 +17,6 @@ by
 mikhailkoliada]]></content:encoded>
 		</item>
 		<item>
-			<title>Ubuntu-latest workflows will use Ubuntu-22.04</title>
-			<link>https://github.com/actions/runner-images/issues/6399</link>
-			<pubDate>Thu, 13 Oct 2022 11:19:38 +0000</pubDate>
-			<content:encoded><![CDATA[#6399
-opened
-Oct 13, 2022
-by
-
-ddobranic]]></content:encoded>
-		</item>
-		<item>
 			<title>macOS-latest workflows will use macOS-12</title>
 			<link>https://github.com/actions/runner-images/issues/6384</link>
 			<pubDate>Tue, 11 Oct 2022 11:32:57 +0000</pubDate>
