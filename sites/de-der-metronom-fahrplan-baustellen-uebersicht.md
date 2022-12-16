@@ -18,7 +18,9 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[17.12.2022 - 23.12.2022 RE4/RB41 Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten/)
+[17.12.2022 - 23.12.2022 RE4/RB41 Brückenbauarbeiten zwischen Hamburg Hbf – Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-brueckenbauarbeiten/)
+
+[17.12.2022 - 20.12.2022 RE4/RB41: Streckensperrung zwischen Buchholz und Hamburg-Harburg](https://www.der-metronom.de/baustellen/streckensperrung-zwischen-buchholz-und-hamburg-harburg/)
 
 [18.12.2022 RB41 Gleisbauarbeiten in den frühen Morgenstunden](https://www.der-metronom.de/baustellen/rb41-gleisbauarbeiten-in-den-fruehen-morgenstunden/)
 
