@@ -171,7 +171,7 @@ Search
 
 [Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
 
-[Bis zu 35% Rabatt Weihnachtsangebote 12. bis 31. Dezember Jetzt entdecken](https://www.anker.com/eu-de/christmas-sale)
+[NEU 300€ Off **Anker PowerHouse 767 2048Wh | 2300W** Buy](https://www.anker.com/eu-de/products/a1780)
 
 [Mehr erfahren](https://www.anker.com/eu-de/ganprime)
 
@@ -183,7 +183,7 @@ Search
 
 [Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
 
-[Bis zu 35% Rabatt Weihnachtsangebote 12. bis 31. Dezember Jetzt entdecken](https://www.anker.com/eu-de/christmas-sale)
+[NEU 300€ Off **Anker PowerHouse 767 2048Wh | 2300W** Buy](https://www.anker.com/eu-de/products/a1780)
 
 [Mehr erfahren](https://www.anker.com/eu-de/ganprime)
 
@@ -202,7 +202,7 @@ Search
 * 5
 * 6
 
-[NEU Anker PowerHouse 767 2048 Wh | 2300 W **Power für alles.** Mehr erfahren](https://www.anker.com/eu-de/products/a1780)
+[Bis zu 35% Rabatt Weihnachtsangebote 12. bis 31. Dezember Jetzt entdecken](https://www.anker.com/eu-de/christmas-sale)
 
 [Series **5** | Der Genuss von Qualität Series 5 Der Genuss von Qualität Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung. Mehr erfahren](https://www.anker.com/eu-de/series5)
 
