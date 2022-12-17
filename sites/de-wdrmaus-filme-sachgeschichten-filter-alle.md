@@ -153,6 +153,7 @@
 * [Champagner](https://www.wdrmaus.de/filme/sachgeschichten/champagner.php5)
 * [Chicorée](https://www.wdrmaus.de/filme/sachgeschichten/chicoree.php5)
 * [Chinarose](https://www.wdrmaus.de/filme/sachgeschichten/chinarose.php5)
+* [Christbaumkugel](https://www.wdrmaus.de/filme/sachgeschichten/christbaumkugel.php5)
 * [Christoph schläft](https://www.wdrmaus.de/filme/sachgeschichten/christoph_schlaeft.php5)
 * [Clips](https://www.wdrmaus.de/filme/sachgeschichten/clips.php5)
 * [Cloud-Computing](https://www.wdrmaus.de/filme/sachgeschichten/cloud_computing.php5)
