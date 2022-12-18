@@ -2,10 +2,6 @@
 
 €149,99
 
-### [Ugreen Nexode Mini 45W Dual USB C Charger](https://eu.ugreen.com/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
-
-€45,99
-
 ### [Ugreen Nexode 65W USB C Wall Charger - 3 Ports](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-wall-charger-3-ports) ###
 
 €54,95
