@@ -24,7 +24,7 @@ Buy Any 2 Items Get Extra 5% OFF
 
 [0 / €0,00](https://eu.ugreen.com/cart)
 
-[](https://eu.ugreen.com/pages/new-christmas) [STAY CHARGED FOR EVERY GOAL Buy Now \>](https://eu.ugreen.com/collections/stay-charged-for-every-goal) [Superior GaN\* Tech Bolder, Faster Chargers Learn More \>](https://eu.ugreen.com/collections/gan-chargers) [Power Station Survey Participate for a Chance to Win Join Now \>](https://eu.ugreen.com/pages/Power-Station-Survey%20) [Nexode 200W Desktop Charger 6 Ports Support Team Work Shop Now \>](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger?variant=40293723078739) [Nexode 100W Charger 4-in-1 Multiport Charger Shop Now \>](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger?variant=40293741199443)
+[](https://eu.ugreen.com/pages/new-christmas) [Superior GaN\* Tech Bolder, Faster Chargers Learn More \>](https://eu.ugreen.com/collections/gan-chargers) [Power Station Survey Participate for a Chance to Win Join Now \>](https://eu.ugreen.com/pages/Power-Station-Survey%20) [Nexode 200W Desktop Charger 6 Ports Support Team Work Shop Now \>](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger?variant=40293723078739) [Nexode 100W Charger 4-in-1 Multiport Charger Shop Now \>](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger?variant=40293741199443)
 
  WHY BUY DIRECT
  FROM UGREEN
