@@ -171,7 +171,7 @@ Search
 
 [Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
 
-[NEU 300€ Off **Anker PowerHouse 767 2048Wh | 2300W** Buy](https://www.anker.com/eu-de/products/a1780)
+[NEU **Anker PowerHouse 767 2048Wh | 2300W** Buy](https://www.anker.com/eu-de/products/a1780)
 
 [Mehr erfahren](https://www.anker.com/eu-de/ganprime)
 
@@ -183,7 +183,7 @@ Search
 
 [Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
 
-[NEU 300€ Off **Anker PowerHouse 767 2048Wh | 2300W** Buy](https://www.anker.com/eu-de/products/a1780)
+[NEU **Anker PowerHouse 767 2048Wh | 2300W** Buy](https://www.anker.com/eu-de/products/a1780)
 
 [Mehr erfahren](https://www.anker.com/eu-de/ganprime)
 
