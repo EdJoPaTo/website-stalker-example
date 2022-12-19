@@ -1,6 +1,6 @@
 ### [UGREEN USB C to Lightning Cable MFi Certified Type C iPhone Charger Cable](https://eu.ugreen.com/products/ugreen-usb-c-to-lightning-cable-mfi-certified-type-c-iphone-charger-cable) ###
 
-~~€15,99~~€13,99
+€15,99
 
 UGREEN USB C to Lightning Cable MFi Certified Type C iPhone Charger Cable
 
