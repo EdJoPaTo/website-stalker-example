@@ -175,7 +175,7 @@ Search
 
 [Mehr erfahren](https://www.anker.com/eu-de/ganprime)
 
-[Bis zu 600€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](https://www.anker.com/eu-de/powerhouse-angebote)
+[Bis zu 400€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](https://www.anker.com/eu-de/powerhouse-angebote)
 
 [Anker Nano 3 Anker Nano 3 Für jedes iPhone ein Nano von Anker Mehr erfahren](https://www.anker.com/eu-de/nano3)
 
@@ -187,7 +187,7 @@ Search
 
 [Mehr erfahren](https://www.anker.com/eu-de/ganprime)
 
-[Bis zu 600€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](https://www.anker.com/eu-de/powerhouse-angebote)
+[Bis zu 400€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](https://www.anker.com/eu-de/powerhouse-angebote)
 
 [Anker Nano 3 Anker Nano 3 Für jedes iPhone ein Nano von Anker Mehr erfahren](https://www.anker.com/eu-de/nano3)
 
