@@ -26,6 +26,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [10.01.2023 - 21.01.2023 RB31/RB41: Fahrzeitveränderungen zwischen Hamburg und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-rb41-fahrzeitveraenderungen-zwischen-hamburg-und-har/)
 
+[14.01.2023 - 30.01.2023 RB41 nächtliche Teilausfälle an den Wochenenden zwischen Lauenbrück und Rotenburg (W.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-an-den-wochenenden-zwischen-lauenbrueck-und-rotenburg-w/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [16.12.2022 - 23.12.2022 RE3/RB31 Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-brueckenbauarbeiten-2/)
