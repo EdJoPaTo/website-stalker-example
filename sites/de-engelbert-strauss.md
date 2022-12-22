@@ -36,11 +36,6 @@ sets
 
 [jetzt entdecken](https://www.engelbert-strauss.de/weihnachts-aktions-sets/)
 
- Gratis Versand
----
-
- innerhalb Deutschlands bis zum 22.12.2022
-
  Verlängertes Umtauschrecht
 ---
 
