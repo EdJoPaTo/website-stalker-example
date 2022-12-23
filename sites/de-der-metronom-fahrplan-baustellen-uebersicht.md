@@ -40,13 +40,9 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[15.12.2022 - 22.12.2022 RE2 Fahrzeitveränderungen überwiegend in den Nachtstunden sowie Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-fahrzeitveraenderungen-ueberwiegend-in-den-nachtstunden-sowie-ersatzverkehr-mit-bussen/)
-
 [03.01.2023 - 02.02.2023 RE2/RE3/RB31: Fahrzeitveränderungen und Ausfällen überwiegend in den Nachtstunden](https://www.der-metronom.de/baustellen/re2-re3-rb31/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[15.12.2022 - 22.12.2022 RE2 Fahrzeitveränderungen überwiegend in den Nachtstunden sowie Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-fahrzeitveraenderungen-ueberwiegend-in-den-nachtstunden-sowie-ersatzverkehr-mit-bussen/)
 
 [03.01.2023 - 02.02.2023 RE2/RE3/RB31: Fahrzeitveränderungen und Ausfällen überwiegend in den Nachtstunden](https://www.der-metronom.de/baustellen/re2-re3-rb31/)
 

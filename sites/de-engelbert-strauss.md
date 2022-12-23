@@ -146,7 +146,9 @@ Mail
 
 de en fr
 
- Alle Preise zzgl. gesetzlicher MwSt.
+Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 EUR Warenwert.
+
+ Alle Preise zzgl. gesetzlicher MwSt. zzgl. Versandkosten bei Bestellungen unter 150,00 EUR Warenwert.
 
 * [Datenschutz](https://www.engelbert-strauss.de/Rechtliches/Datenschutz)
 * [AGB](https://www.engelbert-strauss.de/Rechtliches/AGB)
