@@ -1,77 +1,21 @@
-Der Klassiker unter den Geschenken
+Strauss wünscht
 ---
+
+ Frohe
+weihnachten
+---
+
+[Gutscheine verschenken](https://www.engelbert-strauss.de/#!voucher)
+
+[Für alle Kurzentschlossenen!](https://www.engelbert-strauss.de/#!voucher)
 
  Gutscheine
 verschenken
 ---
 
-[jetzt entdecken](https://gutschein.strauss.de/F6161/)
-
- Weihnachts-
+ Für alle kurzentschlossenen!
+Jetzt noch zugreifen und digitalen Gutschein zuhause drucken.
 ---
-
- Highlights
----
-
-Robuste, wärmende Workwear, die auch in der kalten Jahreszeit Wind und Wetter trotzt. Feierabend-Outfits für ein Rundum-Wohlgefühl und vieles mehr.
-
-[jetzt entdecken](https://www.engelbert-strauss.de/weihnachten/?sort=newest)
-
- Weihnachts-
----
-
- Neuheiten
----
-
-So gemütlich wird´s nur an Weihnachten: Bei Strauss finden Sie die perfekten Kuschel-Outfits fürs Fest und die Winterzeit.
-
-[jetzt entdecken](https://www.engelbert-strauss.de/geschenkideen-neuheiten/)
-
- Weihnachts-
----
-
- Aktions-
-sets
----
-
-[jetzt entdecken](https://www.engelbert-strauss.de/weihnachts-aktions-sets/)
-
- Verlängertes Umtauschrecht
----
-
- Wir verlängern das Umtauschrecht innerhalb Deutschlands bis zum 31.01.2023.
-
- Weihnachts-
-Sets
----
-
- Zum Fest haben wir für Sie zahlreiche attraktive Aktions-Sets geschnürt. Sichern Sie sich für kurze Zeit unsere Highlights mit GRATIS Artikeln.
-
-[alle Weihnachts-Sets](https://www.engelbert-strauss.de/weihnachts-aktions-sets/)
-
- Geschenk
-ideen
----
-
-[jetzt entdecken](https://www.engelbert-strauss.de/geschenkideen/?sort=newest)
-
- High-
-lights
----
-
-[jetzt entdecken](https://www.engelbert-strauss.de/weihnachten/?sort=newest)
-
- Für die
-Kleinen
----
-
-[jetzt entdecken](https://www.engelbert-strauss.de/geschenkideen-fuer-die-kleinen/?sort=newest)
-
- Gutscheine
-verschenken
----
-
- Für Kurzentschlossene in der Digitalversion zum Sofort-Ausdrucken und Personalisieren.
 
 [Gutschein per Mail](https://gutschein.strauss.de/F6161/)
 
