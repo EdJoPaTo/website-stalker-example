@@ -193,5 +193,6 @@ sites:
       - https://eu.ugreen.com/collections/usb-c-cables?sort_by=created-descending
     editors:
       - css_select: .t4s-product-info__inner
+      - css_remove: .t4s-product-price
       - html_url_canonicalize
       - html_markdownify
