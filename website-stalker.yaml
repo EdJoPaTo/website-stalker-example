@@ -110,14 +110,6 @@ sites:
       - html_prettify
 
 
-  - url: https://www.hetzner.com/news/
-    ignore_error: true
-    editors:
-      - rss:
-          item_selector: .list-card li
-          title_selector: h4
-          content_editors:
-            - html_prettify
   - url: https://docs.hetzner.com/robot/dedicated-server/operating-systems/standard-images/
     editors:
       - css_select: div.article
