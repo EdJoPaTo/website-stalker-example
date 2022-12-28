@@ -1,7 +1,3 @@
-### [UGREEN Nexode 4 Ports 100W GaN Desktop Charger](https://eu.ugreen.com/products/ugreen-nexode-4-ports-100w-gan-desktop-charger) ###
-
-Support max 100W output via C1/C2 port, the 100W USB C Charger fully charges Macbook Pro in less than 2hrs. 4 USB Ports enable this 100W Charger to fast charge...
-
 ### [Ugreen Nexode 140W USB C Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-140w-usb-c-wall-charger) ###
 
 ### [Ugreen Nexode Mini 45W Dual USB C Charger](https://eu.ugreen.com/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
