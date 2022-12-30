@@ -58,7 +58,7 @@ Du suchst mehr?
 
 Entdecke unsere Ladeserien!
 
-[Ladestationen](https://www.anker.com/eu-de/portable-power-stations)[Ladegeräte](https://www.anker.com/eu-de/collections/chargers)[Powerbanks](https://www.anker.com/eu-de/collections/powerbanks)[Ladekabel](https://www.anker.com/eu-de/collections/kabel)[Ladepads](https://www.anker.com/eu-de/collections/wireless)[Hubs & Docks](https://www.anker.com/eu-de/collections/hubs-and-docks)
+[Ladestationen](https://www.anker.com/eu-de/portable-power-stations)[Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate)[Powerbanks](https://www.anker.com/eu-de/collections/powerbanks)[Ladekabel](https://www.anker.com/eu-de/collections/kabel)[Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor)[Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs)
 
 Du suchst mehr?
 
