@@ -22,7 +22,7 @@ Anker
 
 Unsere beste Multi-Geräte-Ladeserie
 
-Bis zu 25% Rabatt
+Bis zu 10% Rabatt
 
 Mehr erfahren
 
@@ -52,13 +52,13 @@ Das Anker-Erlebnis entdecken
 
   Power für endlose Abenteuer
 
-  [Jetzt kaufen](https://www.anker.com/eu-de/ankerpower/solargenerators)
+  [Jetzt kaufen](https://anker.com/eu-de/ankerpower/solargenerator)
 
 Du suchst mehr?
 
 Entdecke unsere Ladeserien!
 
-[Ladestationen](https://www.anker.com/eu-de/portable-power-stations)[Ladegeräte](https://www.anker.com/eu-de/collections/chargers)[Powerbanks](https://www.anker.com/eu-de/collections/power-banks)[Ladekabel](https://www.anker.com/eu-de/collections/cables)[Ladepads](https://www.anker.com/eu-de/collections/wireless)[Hubs & Docks](https://www.anker.com/eu-de/collections/hubs-and-docks)
+[Ladestationen](https://www.anker.com/eu-de/portable-power-stations)[Ladegeräte](https://www.anker.com/eu-de/collections/chargers)[Powerbanks](https://www.anker.com/eu-de/collections/powerbanks)[Ladekabel](https://www.anker.com/eu-de/collections/kabel)[Ladepads](https://www.anker.com/eu-de/collections/wireless)[Hubs & Docks](https://www.anker.com/eu-de/collections/hubs-and-docks)
 
 Du suchst mehr?
 
