@@ -2,123 +2,9 @@
 
 [](https://www.anker.com/eu-de/products/a1780)
 
-Lebenslanger technischer Support
+ProdukteMobile PowerstationenNeuerscheinungenAngebote
 
-[Weihnachtsangebote | Bis zu 35% Rabatt](https://www.anker.com/eu-de/christmas-sale)
-
-Kostenloser Versand.
-
-[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](https://www.anker.com/eu-de/corporate-purchase)
-
-Kostenloser, rapider Versand
-
-30 Tage Geld-Zurück-Garantie
-
-Problemlose Herstellergarantie
-
-Lebenslanger technischer Support
-
-[Weihnachtsangebote | Bis zu 35% Rabatt](https://www.anker.com/eu-de/christmas-sale)
-
-Kostenloser Versand.
-
-[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](https://www.anker.com/eu-de/corporate-purchase)
-
-Kostenloser, rapider Versand
-
-30 Tage Geld-Zurück-Garantie
-
-Problemlose Herstellergarantie
-
-Lebenslanger technischer Support
-
-Lebenslanger technischer Support
-
-Kostenloser Versand.
-
-[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](https://www.anker.com/eu-de/corporate-purchase)
-
-Kostenloser, rapider Versand
-
-30 Tage Geld-Zurück-Garantie
-
-Problemlose Herstellergarantie
-
-Lebenslanger technischer Support
-
-Kostenloser Versand.
-
-[Smarte Unternehmensangebote mit bis zu 18% Rabatt.](https://www.anker.com/eu-de/corporate-purchase)
-
-Kostenloser, rapider Versand
-
-30 Tage Geld-Zurück-Garantie
-
-Problemlose Herstellergarantie
-
-Lebenslanger technischer Support
-
-[Logo](https://www.anker.com/eu-de)
-
-[Produkte](https://www.anker.com/)
-
-* [](https://www.anker.com/eu-de/collections/wandladegerate)
-
-  * [Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate)
-  * [Für iPhone und mehr](https://www.anker.com/eu-de/collections/for-iphone-and-more)
-  * [Für Tablets](https://www.anker.com/eu-de/collections/for-tablets)
-  * [Für Laptops](https://www.anker.com/eu-de/collections/for-laptops)
-
-* [](https://www.anker.com/eu-de/portable-power-stations)
-
-  * [Powerstation](https://www.anker.com/eu-de/portable-power-stations)
-  * [Solargenerator](https://www.anker.com/eu-de/collections/solarstrom-set)
-  * [Tragbare Powerstation](https://www.anker.com/eu-de/collections/portable-power-stations)
-  * [Solarpanel](https://www.anker.com/eu-de/collections/solar-panels)
-
-* [](https://www.anker.com/eu-de/collections/powerbanks)
-
-  * [Powerbanks](https://www.anker.com/eu-de/collections/powerbanks)
-  * [Bis 3 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/under-3-phone-charges)
-  * [3-4 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/3-4-phone-charges)
-  * [Ab 4 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/4-phone-charges)
-  * [Kabellos](https://www.anker.com/eu-de/collections/powerbanks-wireless)
-
-* [](https://www.anker.com/eu-de/collections/kabel)
-
-  * [Kabel](https://www.anker.com/eu-de/collections/kabel)
-  * [Für iPhone (Lightning)](https://www.anker.com/eu-de/collections/for-iphone-lightning)
-  * [USB-C](https://www.anker.com/eu-de/collections/usb-c)
-
-* [](https://www.anker.com/eu-de/collections/kabelloses-zubehor)
-
-  * [Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor)
-  * [Magnetisch](https://www.anker.com/eu-de/collections/magnetic)
-  * [Ladeständer](https://www.anker.com/eu-de/collections/stands)
-
-* [](https://www.anker.com/eu-de/collections/adapter-hubs)
-
-  * [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs)
-  * [Hubs](https://www.anker.com/eu-de/collections/hubs)
-  * [Docking-Stationen](https://www.anker.com/eu-de/collections/docking-stations)
-  * [Adapters](https://www.anker.com/eu-de/collections/adapters)
-
-* [VideoKonferenzen ----------](https://de.ankerwork.com/)
-* [New 3D Printer ----------](https://www.ankermake.com/other-3dprinter-v8111)
-
-[Weihnachtsangebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/christmas-sale)
-
-[Powerstation Angebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/powerhouse-angebote)
-
-[PowerHouse 767<sup style="color: #00a7e1;">&nbsp;NEU</sup>](https://www.anker.com/eu-de/products/a1780)
-
-[Nano 3](https://www.anker.com/eu-de/nano3)
-
-[GaNPrime™️](https://www.anker.com/eu-de/ganprime)
-
-[Hilfe](https://www.anker.com/)
-
-[Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase)[Bestellung verfolgen](https://de.anker.com/apps/aftership)[Rücksendungen & Erstattungen](https://de.anker.com/policies/refund-policy)[Herstellergarantie](https://de.anker.com/pages/exchange)[Kontakt](https://de.anker.com/pages/contact)[PowerHouse-Händler werden](https://www.anker.com/eu-de/portable-power-stations#partner)
+Schwestermarken & Hilfe
 
 Search
 
@@ -126,187 +12,232 @@ Search
 
 [](https://mulpass.anker.com/?app=ankerde)
 
-* [Produkte](https://www.anker.com/eu-de)
+Anker PowerHouse 767 2048Wh | 2400W
 
-  * [Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate)
-  * [Für iPhone und mehr](https://www.anker.com/eu-de/collections/for-iphone-and-more)
-  * [Für Tablets](https://www.anker.com/eu-de/collections/for-tablets)
-  * [Für Laptops](https://www.anker.com/eu-de/collections/for-laptops)
+Power für alles.
 
-  * [Powerstation](https://www.anker.com/eu-de/portable-power-stations)
-  * [Solargenerator](https://www.anker.com/eu-de/collections/solarstrom-set)
-  * [Tragbare Powerstation](https://www.anker.com/eu-de/collections/portable-power-stations)
-  * [Solarpanel](https://www.anker.com/eu-de/collections/solar-panels)
+Jetzt kaufen
 
-  * [Powerbanks](https://www.anker.com/eu-de/collections/powerbanks)
-  * [Bis 3 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/under-3-phone-charges)
-  * [3-4 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/3-4-phone-charges)
-  * [Ab 4 Smartphone-Ladungen](https://www.anker.com/eu-de/collections/4-phone-charges)
-  * [Kabellos](https://www.anker.com/eu-de/collections/powerbanks-wireless)
+Anker
 
-  * [Kabel](https://www.anker.com/eu-de/collections/kabel)
-  * [Für iPhone (Lightning)](https://www.anker.com/eu-de/collections/for-iphone-lightning)
-  * [USB-C](https://www.anker.com/eu-de/collections/usb-c)
+Unsere beste Multi-Geräte-Ladeserie
 
-  * [Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor)
-  * [Magnetisch](https://www.anker.com/eu-de/collections/magnetic)
-  * [Ladeständer](https://www.anker.com/eu-de/collections/stands)
+Bis zu 25% Rabatt
 
-  * [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs)
-  * [Hubs](https://www.anker.com/eu-de/collections/hubs)
-  * [Docking-Stationen](https://www.anker.com/eu-de/collections/docking-stations)
-  * [Adapters](https://www.anker.com/eu-de/collections/adapters)
+Mehr erfahren
 
-  * [AnkerWork VideoKonferenzen](https://de.ankerwork.com/)
-  * [AnkerMake 3D Printer](https://www.ankermake.com/other-3dprinter-v8111)
+Das Anker-Erlebnis entdecken
 
-* [Weihnachtsangebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/christmas-sale)
-* [Powerstation Angebote<sup style="color: #ff7e00;">&nbsp;SALE</sup>](https://www.anker.com/eu-de/powerhouse-angebote)
-* [PowerHouse 767<sup style="color: #00a7e1;">&nbsp;NEU</sup>](https://www.anker.com/eu-de/products/a1780)
-* [Nano 3](https://www.anker.com/eu-de/nano3)
-* [GaNPrime™️](https://www.anker.com/eu-de/ganprime)
-* [Hilfe](https://www.anker.com/eu-de)
+* Anker Nano 3
 
-  [Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase)[Bestellung verfolgen](https://de.anker.com/apps/aftership)[Rücksendungen & Erstattungen](https://de.anker.com/policies/refund-policy)[Herstellergarantie](https://de.anker.com/pages/exchange)[Kontakt](https://de.anker.com/pages/contact)[PowerHouse-Händler werden](https://www.anker.com/eu-de/portable-power-stations#partner)
+  Das Tech für jedes iPhone
 
-[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
+  [Jetzt kaufen](https://www.anker.com/eu-de/nano3)
 
-[NEU 200€ Rabatt **Anker PowerHouse 767 2048Wh | 2300W** Mehr erfahren](https://www.anker.com/eu-de/products/b1780311)
+* Mehr bestellen. Mehr sparen.
 
-[Mehr erfahren](https://www.anker.com/eu-de/ganprime)
+  Für Sets ab 4 gibt es bis zu 25% Rabatt!
 
-[Bis zu 400€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](https://www.anker.com/eu-de/powerhouse-angebote)
+  [Jetzt kaufen](https://www.anker.com/eu-de/buy-more-save-more)
 
-[Anker Nano 3 Anker Nano 3 Für jedes iPhone ein Nano von Anker Mehr erfahren](https://www.anker.com/eu-de/nano3)
+* Anker 757 PowerHouse
 
-[Anker Bio-Kabel Anker Bio-Kabel Bio & Belastbar Mehr erfahren](https://www.anker.com/eu-de/products/a80A2?variant=42864441557155)
+  1299Wh | 1500W
 
-[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
+  Langlebige Stromquelle für zuhause & unterwegs
 
-[NEU 200€ Rabatt **Anker PowerHouse 767 2048Wh | 2300W** Mehr erfahren](https://www.anker.com/eu-de/products/b1780311)
+  [Jetzt kaufen](https://www.anker.com/eu-de/products/a1770)
 
-[Mehr erfahren](https://www.anker.com/eu-de/ganprime)
+* Anker Solar Generator
 
-[Bis zu 400€ Rabatt Wärme für die kalte Jahreszeit mit Anker PowerHouse Mehr erfahren](https://www.anker.com/eu-de/powerhouse-angebote)
+  Power für endlose Abenteuer
 
-[Anker Nano 3 Anker Nano 3 Für jedes iPhone ein Nano von Anker Mehr erfahren](https://www.anker.com/eu-de/nano3)
+  [Jetzt kaufen](https://www.anker.com/eu-de/ankerpower/solargenerators)
 
-[Anker Bio-Kabel Anker Bio-Kabel Bio & Belastbar Mehr erfahren](https://www.anker.com/eu-de/products/a80A2?variant=42864441557155)
+Du suchst mehr?
 
-[Das brandneue Anker 555 PowerHouse Das brandneue Anker 555 PowerHouse Mehr erfahren](https://www.anker.com/eu-de/products/a1760)
+Entdecke unsere Ladeserien!
 
-* 1
-* 2
-* 3
-* 4
-* 5
-* 6
+[Ladestationen](https://www.anker.com/eu-de/portable-power-stations)[Ladegeräte](https://www.anker.com/eu-de/collections/chargers)[Powerbanks](https://www.anker.com/eu-de/collections/power-banks)[Ladekabel](https://www.anker.com/eu-de/collections/cables)[Ladepads](https://www.anker.com/eu-de/collections/wireless)[Hubs & Docks](https://www.anker.com/eu-de/collections/hubs-and-docks)
 
-[Bis zu 35% Rabatt Weihnachtsangebote 12. bis 31. Dezember Jetzt entdecken](https://www.anker.com/eu-de/christmas-sale)
+Du suchst mehr?
 
-[Series **5** | Der Genuss von Qualität Series 5 Der Genuss von Qualität Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung. Mehr erfahren](https://www.anker.com/eu-de/series5)
+Entdecke unsere Ladeserien!
 
-[Series **6** | Einzigartige Erfahrungen Series 6 Einzigartige Erfahrungen Smartes Tech-Zubehör mit fortschrittlicher Funktionalität. Mehr erfahren](https://www.anker.com/eu-de/series6)
+Serie 7
 
-[Series **7** | Technologie der Zukunft Series 7 Technologie der Zukunft Leistung und Funktionalität auf dem neuesten Stand. Mehr erfahren](https://www.anker.com/eu-de/series7)
+Serie 7
 
-Die beliebteste Lademarke der Welt\*
-----------
+Technologie der Zukunft
 
-* ### 200 Millionen+  ###
+Technologie der Zukunft
 
-  Über 200 Millionen verkaufte Artikel weltweit
+Leistung und Funktionalität auf dem neuesten Stand.
 
-* ### 146 Länder  ###
+Leistung und Funktionalität auf dem neuesten Stand.
 
-  Präsent in 146 Ländern
+[Mehr erfahren \>\>](https://www.anker.com/eu-de/series7)
 
-* ### 10 Jahre Innovation  ###
+[Mehr erfahren \>\>](https://www.anker.com/eu-de/series7)
 
-  Seit 10 Jahren Spitzenreiter in smarter Ladetechnologie
+Serie 6
 
-* \*Bezogen auf den Einzelhandelswert im Jahr 2020.
-* \*Datenquelle: Euromonitor International (Shanghai) Co., Ltd., gemessen am Einzelhandelsumsatz im Jahr 2020, basierend auf einer Studie von 11-2021. Marken werden als mobile Lademarken definiert, wenn mehr als 75% ihres Einzelhandelsumsatzes durch Produkte zum Aufladen von Mobiltelefonen erzielt werden. Zu den Produkten zum Aufladen von Mobiltelefonen gehören Ladegeräte, kabellose Ladegeräte, Powerbanks und Ladekabel, und dieses Zubehör kann auch für andere Unterhaltungselektronikgeräte verwendet werden.
+Serie 6
 
-Getestet und empfohlen von
-==========
+ Einzigartige Erfahrungen
 
-*
-*
-*
-*
-*
-*
+ Einzigartige Erfahrungen
 
-Mehr entdecken
-==========
+Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
 
-* [Das Unternehmensprogramm ========== Jetzt in großen Mengen bestellen und smartes Tech von Anker mit mächtigen Rabatten sichern. Erhältlich bei Anker.com Mehr erfahren](https://www.anker.com/eu-de/corporate-purchase)
-* [Blog ========== Mehr über unsere Produkte und den neuesten Stand der Technik erfahren. Zum Blog](https://de.anker.com/blogs/content)
+Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
 
-[PowerHouse Partner werden PowerHouse Partner werden Jetzt Partner werden und eigene Kunden mit den leistungsstärksten Powerstationen unterstützen. Mitmachen](https://www.anker.com/eu-de/portable-power-stations#partner)
+[Mehr erfahren \>\>](https://www.anker.com/eu-de/series6)
 
-Im Trend
-==========
+[Mehr erfahren \>\>](https://www.anker.com/eu-de/series6)
 
-* [Anker **521** PowerHouse ========== POWER ZUM MITNEHMEN Mehr erfahren](https://www.anker.com/eu-de/powerhouse_521)
-* [Anker **735** Charger (GaNPrime 65W) ========== kompaktes 3-faches Ladegerät Zum Angebot](https://www.anker.com/eu-de/products/a2668)
+Serie 5
 
-footer
-----------
+Serie 5
 
-* ### Über Uns ###
+Der Genuss von Qualität
 
-  * [Bestellung verfolgen](https://de.anker.com/apps/aftership)
-  * [Rechte an geistigem Eigentum](https://de.anker.com/policies/terms-of-service)
-  * [MSA-Erklärung](https://dz02g1kgtiysz.cloudfront.net/MSA_Statement.pdf)
-  * [PowerHouse-Händler werden](https://www.anker.com/eu-de/portable-power-stations#partner)
+Der Genuss von Qualität
 
-* ### Program ###
+Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
 
-  * [Community](https://community.anker.com/)
-  * [Hot Deals](https://de.anker.com/pages/hot-deals)
-  * [Studentenangebote](https://anker-de.connect.studentbeans.com/us)
-  * [Wo finde ich Anker](https://de.anker.com/pages/wheretobuy)
-  * [Affiliate Partnerprogramm](https://de.anker.com/pages/become-an-affiliate)
-  * [Unternehmensprogramm](https://de.anker.com/pages/unternehmensprogramm)
-  * [Blog](https://de.anker.com/blogs/content)
+Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
 
-* ### Support ###
+[Mehr erfahren \>\>](https://www.anker.com/eu-de/series5)
 
-  * [Kontakt](https://de.anker.com/pages/contact)
-  * [Produktprüfung](https://de.anker.com/pages/verify)
-  * [Rücksendungen & Erstattungen](https://de.anker.com/policies/refund-policy)
-  * [Herstellergarantie](https://de.anker.com/pages/exchange)
-  * [Versandbedingungen](https://de.anker.com/policies/shipping-policy)
-  * [Datenschutz](https://de.anker.com/policies/privacy-policy)
-  * [Impressum](https://de.anker.com/pages/imprint)
+[Mehr erfahren \>\>](https://www.anker.com/eu-de/series5)
 
-* ### Abonnieren ###
+Live Charged.
 
-  Für neue Informationen, Neuerscheinungen, Angebote und mehr!
+Zum Video
 
-  Ich stimme den [Nutzungsbedingungen](https://de.anker.com/policies/terms-of-service) und [Datenschutzrechten](https://de.anker.com/policies/privacy-policy) zu.
+Die
 
-  Deutschland / Deutsch
+für mobiles Laden
 
-[](http://www.anker-in.com/?locale=en)
+Über
 
-[](https://us.anker.com/)
+200
 
-[](https://us.soundcore.com/)
+Millionen
 
-[](https://us.eufylife.com/)
+Über 200 Millionen
+ verkaufte Artikel
+weltweit
 
-[](https://us.seenebula.com/)
+146
 
-[](https://us.ankerwork.com/)
+Länder
 
-[](https://www.ankermake.com/)
+Präsent in 146 Ländern
+
+10
+
+Jahre Innovation
+
+Seit 10 Jahren
+Spitzenreiter in smarter
+ Ladetechnologie
+
+Anker ist die Nr. 1 Marke für Handyladegeräte der Welt im Einzelhandelsumsatz in zwei aufeinanderfolgenden Jahren 2020 und 2021" Fußnote: "Datenquelle: Euromonitor International (Shanghai) Co., Ltd., gemessen am Einzelhandelsumsatz 2020 und 2021, basierend auf Forschungsarbeit durchgeführt im Oktober 2022. Handyladegerätemarken sind definiert als Marken, wenn mehr als 75% derer Umsätze von Handyladegeräten stammen. Handyladegeräte beinhalten Ladegeräte, kabellose Ladegeräte, Power Banks und Ladekabel. Diese Zubehöre können auch für andere Unterhaltungselektronikgeräte genutzt werden.
+
+Die
+
+für mobiles Laden
+
+200
+
+Millionen
+
+Über 200 Millionen
+ verkaufte Artikel
+weltweit
+
+146
+
+Länder
+
+Präsent in 146 Ländern
+
+10
+
+Jahre Innovation
+
+Seit 10 Jahren
+Spitzenreiter in smarter
+ Ladetechnologie
+
+Anker ist die Nr. 1 Marke für Handyladegeräte der Welt im Einzelhandelsumsatz in zwei aufeinanderfolgenden Jahren 2020 und 2021" Fußnote: "Datenquelle: Euromonitor International (Shanghai) Co., Ltd., gemessen am Einzelhandelsumsatz 2020 und 2021, basierend auf Forschungsarbeit durchgeführt im Oktober 2022. Handyladegerätemarken sind definiert als Marken, wenn mehr als 75% derer Umsätze von Handyladegeräten stammen. Handyladegeräte beinhalten Ladegeräte, kabellose Ladegeräte, Power Banks und Ladekabel. Diese Zubehöre können auch für andere Unterhaltungselektronikgeräte genutzt werden.
+
+Empfohlen von
+
+Unbox Therapy
+
+"I highly recommend the Anker Nano Pro. This truly is a no-brainer."
+
+Unbox Therapy
+
+"I highly recommend the Anker Nano Pro. This truly is a no-brainer."
+
+Jonathan Morrison
+
+"This packs (Anker Nano) a tremendous amount of power in a super compact package."
+
+ZolloTech
+
+"It (Anker Nano Pro) will work flawlessly with your iPhone or other devices."
+
+JerryRigEverything
+
+"There's no reason not to upgrade to the faster charging Anker Nano which costs less while still charging 3× faster."
+
+Vorgestellt in
+
+Für neue Informationen, Neuerscheinungen, Angebote und mehr jetzt abonnieren!
+
+Neues & Aktuelles
+
+Abonnieren
+
+Success
+
+Ich stimme den[Nutzungsbedingungen](https://de.anker.com/policies/terms-of-service) und [Datenschutzrechten zu.](https://de.anker.com/policies/privacy-policy)
+
+Kontakt
+
+[\+49 (0) 69 9579 7960](https://www.anker.com/undefined)
+
+ 8:00 Uhr bis 17:00 Uhr
+ Montag bis Freitag
+
+[support@anker.com](https://www.anker.com/undefined)
+
+Bei Anker bestellen
+
+[](https://www.anker.com/undefined)
+
+Schnelle, kostenfreie Lieferung
+
+[](https://www.anker.com/undefined)
+
+30 Tage Geld-Zurück-Garantie
+
+[](https://www.anker.com/undefined)
+
+Problemlose Herstellergarantie
+
+[](https://www.anker.com/undefined)
+
+Lebenslanger technischer Support
 
 Deutschland / Deutsch
 
-© Fantasia Trading LLC 2021 20092381027
+[](https://www.facebook.com/Anker.fans)[](https://twitter.com/AnkerOfficial)[](https://www.youtube.com/user/AnkerOceanwing)[](https://www.instagram.com/anker_official/)[](https://www.tiktok.com/@ankerofficial)
 
 Land/Region wählen
 
@@ -317,6 +248,60 @@ Land/Region wählen
 * [Canada English](https://ca.anker.com/)
 * [India English](https://www.ankerindia.com/)
 * [AUnited Arab Emirates English](https://ae.anker.com/)
+
+Über Uns
+
+[Bestellung verfolgen](https://de.anker.com/apps/aftership)
+
+[Rechte an geistigem Eigentum](https://de.anker.com/policies/terms-of-service)
+
+[MSA-Erklärung](https://dz02g1kgtiysz.cloudfront.net/MSA_Statement.pdf)
+
+[PowerHouse-Händler werden](https://www.anker.com/eu-de/portable-power-stations)
+
+Programme
+
+[Community](https://community.anker.com/)
+
+[Hot Deals](https://www.anker.com/eu-de/hot-deals)
+
+[Studentenangebote](https://anker-de.connect.studentbeans.com/us)
+
+[Wo finde ich Anker](https://de.anker.com/pages/wheretobuy)
+
+[Affiliate Partnerprogramm](https://de.anker.com/pages/jetzt-affiliate-partner-werden)
+
+[Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase)
+
+[Blog](https://de.anker.com/blogs/content)
+
+Support
+
+[Kontakt](https://de.anker.com/pages/contact)
+
+[Produktprüfung](https://de.anker.com/pages/verify)
+
+[Rücksendungen & Erstattungen](https://de.anker.com/policies/refund-policy)
+
+[Herstellergarantie](https://de.anker.com/pages/exchange)
+
+[Versandbedingungen](https://de.anker.com/policies/shipping-policy)
+
+[Datenschutz](https://de.anker.com/policies/privacy-policy)
+
+[Impressum](https://de.anker.com/pages/imprint)
+
+[](https://www.facebook.com/Anker.fans)[](https://twitter.com/AnkerOfficial)[](https://www.youtube.com/user/AnkerOceanwing)[](https://www.instagram.com/anker_official/)[](https://www.tiktok.com/@ankerofficial)
+
+Deutschland / Deutsch
+
+[](https://www.anker.com/eu-de)
+
+[](https://anker.com/eu-de)[](https://de.soundcore.com/)[](https://de.eufy.com/)[](https://de.seenebula.com/)[](https://de.ankerwork.com/)[](https://ankermake.com/eu-de)
+
+© Fantasia Trading LLC 2022 200923810277
+
+[Über uns](https://de.anker.com/pages/about)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service)
 
 []()
 
