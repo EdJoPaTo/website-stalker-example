@@ -1,6 +1,7 @@
 * [Sprechende Steine](https://www.wdrmaus.de/filme/sachgeschichten/sprechende_steine.php5)
 * [Walnuss](https://www.wdrmaus.de/filme/sachgeschichten/walnuss.php5)
 * [Hammer](https://www.wdrmaus.de/filme/sachgeschichten/hammer.php5)
+* [Kunstrasen](https://www.wdrmaus.de/filme/sachgeschichten/kunstrasen.php5)
 * [Igelstacheln](https://www.wdrmaus.de/filme/sachgeschichten/igelstacheln.php5)
 * [Nähmaschine](https://www.wdrmaus.de/filme/sachgeschichten/naehmaschine.php5)
 
@@ -533,6 +534,7 @@
 * [Kuh Lena (Teil 3)](https://www.wdrmaus.de/filme/sachgeschichten/kuh_lena_teil3.php5)
 * [Kunstgeschichte: Baselitz](https://www.wdrmaus.de/filme/sachgeschichten/kunstgeschichte_baselitz.php5)
 * [Kunstkopf](https://www.wdrmaus.de/filme/sachgeschichten/kunstkopf.php5)
+* [Kunstrasen](https://www.wdrmaus.de/filme/sachgeschichten/kunstrasen.php5)
 * [Kunstschmied: Amboss](https://www.wdrmaus.de/filme/sachgeschichten/kunstschmied_amboss.php5)
 * [Kunstschmied: Pferd](https://www.wdrmaus.de/filme/sachgeschichten/kunstschmied_pferd.php5)
 * [Kutschfahrschule](https://www.wdrmaus.de/filme/sachgeschichten/kutschfahrschule.php5)
