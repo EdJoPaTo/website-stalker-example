@@ -210,28 +210,28 @@ Ich stimme den[Nutzungsbedingungen](https://de.anker.com/policies/terms-of-servi
 
 Kontakt
 
-[\+49 (0) 69 9579 7960](https://www.anker.com/undefined)
+[\+49 (0) 69 9579 7960](tel:+49 (0) 69 9579 7960)
 
  8:00 Uhr bis 17:00 Uhr
  Montag bis Freitag
 
-[support@anker.com](https://www.anker.com/undefined)
+[support@anker.com](mailto:support@anker.com)
 
 Bei Anker bestellen
 
-[](https://www.anker.com/undefined)
+[](https://www.anker.com/eu-de)
 
 Schnelle, kostenfreie Lieferung
 
-[](https://www.anker.com/undefined)
+[](https://www.anker.com/eu-de)
 
 30 Tage Geld-Zurück-Garantie
 
-[](https://www.anker.com/undefined)
+[](https://www.anker.com/eu-de)
 
 Problemlose Herstellergarantie
 
-[](https://www.anker.com/undefined)
+[](https://www.anker.com/eu-de)
 
 Lebenslanger technischer Support
 
