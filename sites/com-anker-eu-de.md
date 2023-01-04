@@ -263,7 +263,7 @@ Programme
 
 [Community](https://community.anker.com/)
 
-[Hot Deals](https://www.anker.com/eu-de/powerhouse-angebote)
+[Hot Deals](https://www.anker.com/eu-de/hot-deals)
 
 [Studentenangebote](https://anker-de.connect.studentbeans.com/us)
 
