@@ -1,7 +1,5 @@
 []()
 
-[](https://www.anker.com/eu-de/products/a1780)
-
 ProdukteMobile PowerstationenNeuerscheinungenAngebote
 
 Schwestermarken & Hilfe
