@@ -196,3 +196,9 @@ sites:
       - css_remove: .t4s-product-price
       - html_url_canonicalize
       - html_markdownify
+
+  - url: https://www.haw-hamburg.de/newsroom/
+    editors:
+      - css_select: body
+      - css_remove: "img, script, .video-container, a[data-slide], #searchbox, #navbarSearchbarContent, #login"
+      - html_markdownify
