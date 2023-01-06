@@ -1,3 +1,9 @@
+### [UGREEN 65W USB C Charger US/UK/EU Plug for Travel](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-us-uk-eu-plug-for-travel) ###
+
+### [UGREEN Nexode USB C Charger 100W GaN Desktop Charger 4 Ports Laptop Adapter](https://eu.ugreen.com/products/ugreen-nexode-usb-c-charger-100w-gan-desktop-charger-4-ports-laptop-adapter) ###
+
+### [UGREEN 65W USB C Charger Nexode GaN 4-Port Fast Desktop Charger Power Adapter](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-nexode-gan-4-port-fast-desktop-charger-power-adapter) ###
+
 ### [Ugreen Nexode 140W USB C Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-140w-usb-c-wall-charger) ###
 
 ### [Ugreen Nexode Mini 45W Dual USB C Charger](https://eu.ugreen.com/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
