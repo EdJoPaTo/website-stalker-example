@@ -1,5 +1,3 @@
-[Öffne jeden Tag ein Türchen](https://www.wdrmaus.de/extras/mausthemen/adventskalender/2022/index.php5)
-
 [Was ist da los?](https://www.wdrmaus.de/extras/mausthemen/ukraine/index.php5)
 
 * [So vielseitig ist das nasse Element](https://www.wdrmaus.de/extras/mausthemen/wasser/index.php5)
