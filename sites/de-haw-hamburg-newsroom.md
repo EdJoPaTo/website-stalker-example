@@ -45,7 +45,7 @@
   * [Pressespiegel](/hochschule/pressespiegel/)
   * [Stellenangebote](/hochschule/stellenangebote/)
   * [Publikationen](/hochschule/publikationen/)
-  * [Coronavirus-Update](/corona/)
+  * [Angriff auf die IT-Infrastruktur](/cyberangriff/)
 
 * [STUDIUM](/studium/)
 
