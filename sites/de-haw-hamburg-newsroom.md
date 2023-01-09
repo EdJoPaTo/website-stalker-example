@@ -275,7 +275,7 @@ Termine
 
 [zum Kalender](/hochschule/veranstaltungen/)
 
-[Mi, 18.01.2023, 15:00 Uhr Vom Master zum Doktor? Promovieren an der HAW Hamburg](/detail/news/news/show/promotionszentrum-workshops-master-zum-doktor/)
+[Mi, 18.01.2023, 15:00 Uhr Termin entfällt! Vom Master zum Doktor? Promovieren an der HAW Hamburg](/detail/news/news/show/promotionszentrum-workshops-master-zum-doktor/)
 
 [Fr, 20.01.2023, 09:00 Uhr Fürsorgliche Väter](/detail/news/news/show/fuersorgliche-vaeter/)
 
