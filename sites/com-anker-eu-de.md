@@ -308,6 +308,6 @@ Deutschland / Deutsch
 Ihr Warenkorb ist leer
 ----------
 
-[Kaufen Sie weiter ein](https://www.anker.com/eu-de/collections/all)
+[Kaufen Sie weiter ein](https://www.anker.com/eu-de)
 
 Wir verwenden Cookies für eine noch bessere Erfahrung beim Browsen. Das Fortfahren gleicht dem Akzeptieren unserer Datenschutzrichtlinien.Cookies akzeptieren
