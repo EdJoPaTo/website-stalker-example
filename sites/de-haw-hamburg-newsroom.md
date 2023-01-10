@@ -277,6 +277,8 @@ Termine
 
 [Mi, 18.01.2023, 15:00 Uhr Termin entfällt!|Vom Master zum Doktor? Promovieren an der HAW Hamburg](/detail/news/news/show/promotionszentrum-workshops-master-zum-doktor/)
 
+[Fr, 20.01.2023, 09:00 Uhr ENTFÄLLT: Fürsorgliche Väter](/detail/news/news/show/fuersorgliche-vaeter/)
+
 [Di, 24.01.2023, 17:00 Uhr Dual studieren](/detail/news/news/show/dualstudieren-info-chat1215-1/)
 
 [Do, 23.02.2023 – Sa, 25.02.2023 Nutzerstudie zu interaktivem VR-Erlebnis](/detail/news/news/show/nutzerstudie-zu-interaktivem-vr-erlebnis/)
