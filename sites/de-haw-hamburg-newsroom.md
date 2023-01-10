@@ -275,6 +275,8 @@ Termine
 
 [zum Kalender](/hochschule/veranstaltungen/)
 
+[Di, 17.01.2023, 10:00 Uhr Austauschangebot statt Neujahrsempfang](/detail/news/news/show/austauschangebot-statt-neujahrsempfang/)
+
 [Fr, 20.01.2023, 09:00 Uhr ENTFÄLLT: Fürsorgliche Väter](/detail/news/news/show/fuersorgliche-vaeter/)
 
 [Di, 24.01.2023, 17:00 Uhr Dual studieren](/detail/news/news/show/dualstudieren-info-chat1215-1/)
