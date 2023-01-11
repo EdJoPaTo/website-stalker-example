@@ -73,6 +73,10 @@ sites:
       - css_remove: script, img
       - html_url_canonicalize
       - html_markdownify
+  - url: https://bennetblischke.eu/
+    editors:
+      - css_select: body
+      - html_markdownify
   - url: https://opentalk.eu/de/news-presse
     ignore_error: true
     editors:
