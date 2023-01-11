@@ -17,17 +17,6 @@ by
 mikhailkoliada]]></content:encoded>
 		</item>
 		<item>
-			<title>[Windows] OpenSSL version will be upgraded to 3.x on January, 9</title>
-			<link>https://github.com/actions/runner-images/issues/6830</link>
-			<pubDate>Fri, 23 Dec 2022 09:05:22 +0000</pubDate>
-			<content:encoded><![CDATA[#6830
-opened
-Dec 23, 2022
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
 			<title>[macOS] Default Xcode on macOS 12 Monterey will be set to Xcode 14.1 on January, 9</title>
 			<link>https://github.com/actions/runner-images/issues/6746</link>
 			<pubDate>Mon, 12 Dec 2022 08:19:30 +0000</pubDate>
@@ -37,17 +26,6 @@ Dec 12, 2022
 by
 
 mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
-			<title>macOS-latest workflows will use macOS-12</title>
-			<link>https://github.com/actions/runner-images/issues/6384</link>
-			<pubDate>Tue, 11 Oct 2022 11:32:57 +0000</pubDate>
-			<content:encoded><![CDATA[#6384
-opened
-Oct 11, 2022
-by
-
-ddobranic]]></content:encoded>
 		</item>
 		<item>
 			<title>The Ubuntu 18.04 Actions runner image will begin deprecation on 2022/08/08 and will be fully unsupported by 2023/04/01</title>
