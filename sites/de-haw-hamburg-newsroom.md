@@ -277,13 +277,13 @@ Termine
 
 [Di, 17.01.2023, 10:00 Uhr Austauschangebot statt Neujahrsempfang](/detail/news/news/show/austauschangebot-statt-neujahrsempfang/)
 
+[Di, 17.01.2023, 14:00 Uhr PR-Klönschnack](/detail/news/news/show/pr-kloenschnack/)
+
 [Mi, 18.01.2023, 13:00 Uhr TERMINABSAGE! Sicherheitsunterweisung für Beschäftigte](/detail/news/news/show/terminabsage-sicherheitsunterweisung-fuer-beschaeftigte/)
 
 [Fr, 20.01.2023, 09:00 Uhr ENTFÄLLT: Fürsorgliche Väter](/detail/news/news/show/fuersorgliche-vaeter/)
 
 [Di, 24.01.2023, 17:00 Uhr Dual studieren](/detail/news/news/show/dualstudieren-info-chat1215-1/)
-
-[Do, 23.02.2023 – Sa, 25.02.2023 Nutzerstudie zu interaktivem VR-Erlebnis](/detail/news/news/show/nutzerstudie-zu-interaktivem-vr-erlebnis/)
 
 [Mehrlesen Wenigerlesen](javascript:void(0))
 

@@ -206,7 +206,7 @@ Abonnieren
 
 Success
 
-Ich stimme den[Nutzungsbedingungen](https://de.anker.com/policies/terms-of-service) und [Datenschutzrechten zu.](https://de.anker.com/policies/privacy-policy)
+Ich stimme den[Nutzungsbedingungen](https://de.anker.com/policies/terms-of-service) und [Datenschutzrechten](https://de.anker.com/policies/privacy-policy)zu.
 
 Kontakt
 
