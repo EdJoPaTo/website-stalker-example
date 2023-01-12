@@ -198,20 +198,6 @@ JerryRigEverything
 
 Vorgestellt in
 
-Unsere Anker Community
-
-Jetzt mit Experten und Fans vernetzen
-
-[Join Now \>\>](https://community.anker.com/)
-
-\#AnkerForever
-
-Anker On Board | What’s New in 2022?
-
-Check out the latest developments across our brands and get a peek into the future of Anker.
-
-[Mehr erfahren](https://community.anker.com/t/anker-on-board-whats-new-in-2022/95352)
-
 Für neue Informationen, Neuerscheinungen, Angebote und mehr jetzt abonnieren!
 
 Neues & Aktuelles
