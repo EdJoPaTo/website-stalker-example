@@ -32,6 +32,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [10.01.2023 - 13.01.2023 RE2/RE3: Ausfall von Zug ME82853 zwischen Uelzen und Celle](https://www.der-metronom.de/baustellen/re2-re3-ausfall-von-zug-me82853-zwischen-uelzen-und-celle/)
 
+[13.01.2023 - 14.01.2023 RE2/RE3/RB31: kurzfristige Verlängerung der aktuellen Baumaßnahmen zwischen Uelzen und Hannover](https://www.der-metronom.de/baustellen/re2-re3-rb31-kurzfristige-verlaengerung-der-aktuellen-baumassnahmen-zwischen-uelzen-und-hannover/)
+
 [31.01.2023 - 01.02.2023 RB31: Haltausfälle in Ashausen, Stelle, Bardowick und Radbruch](https://www.der-metronom.de/baustellen/rb31-haltausfaelle-in-ashausen-stelle-bardowick-und-radbruch/)
 
 RE2 Uelzen - Celle - Hannover
@@ -39,6 +41,8 @@ RE2 Uelzen - Celle - Hannover
 [03.01.2023 - 02.02.2023 RE2/RE3/RB31: Fahrzeitveränderungen und Ausfällen überwiegend in den Nachtstunden](https://www.der-metronom.de/baustellen/re2-re3-rb31/)
 
 [10.01.2023 - 13.01.2023 RE2/RE3: Ausfall von Zug ME82853 zwischen Uelzen und Celle](https://www.der-metronom.de/baustellen/re2-re3-ausfall-von-zug-me82853-zwischen-uelzen-und-celle/)
+
+[13.01.2023 - 14.01.2023 RE2/RE3/RB31: kurzfristige Verlängerung der aktuellen Baumaßnahmen zwischen Uelzen und Hannover](https://www.der-metronom.de/baustellen/re2-re3-rb31-kurzfristige-verlaengerung-der-aktuellen-baumassnahmen-zwischen-uelzen-und-hannover/)
 
 RE2 Hannover - Northeim - Göttingen
 
