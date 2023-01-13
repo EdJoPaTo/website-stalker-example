@@ -2,7 +2,7 @@
 
 [](https://www.anker.com/eu-deundefined)
 
-[| Erneuerbare Power für alles](https://www.anker.com/eu-de/ankerpower)[Mehr erfahren \>\>](https://www.anker.com/eu-de/ankerpower)
+[| Power für alles.](https://www.anker.com/eu-de/ankerpower)[Mehr erfahren \>\>](https://www.anker.com/eu-de/ankerpower)
 
 ProdukteMobile PowerstationenNeuerscheinungenAngebote
 
@@ -14,7 +14,7 @@ Search
 
 [](https://mulpass.anker.com/?app=ankerde)
 
-Erneuerbare Power für alles.
+Power für alles.
 
 Langlebige Powerstationen: Für Power in jeder Größe
 
