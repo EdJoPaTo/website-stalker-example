@@ -2,6 +2,10 @@
 
 [](https://www.anker.com/eu-deundefined)
 
+ | Erneuerbare Power für alles
+
+[Mehr erfahren \>\>](https://www.anker.com/eu-de/ankerpower)
+
 ProdukteMobile PowerstationenNeuerscheinungenAngebote
 
 Schwestermarken & Hilfe
