@@ -2,9 +2,7 @@
 
 [](https://www.anker.com/eu-deundefined)
 
- | Erneuerbare Power für alles
-
-[Mehr erfahren \>\>](https://www.anker.com/eu-de/ankerpower)
+[| Erneuerbare Power für alles](https://www.anker.com/eu-de/ankerpower)[Mehr erfahren \>\>](https://www.anker.com/eu-de/ankerpower)
 
 ProdukteMobile PowerstationenNeuerscheinungenAngebote
 
@@ -16,11 +14,11 @@ Search
 
 [](https://mulpass.anker.com/?app=ankerde)
 
-Anker PowerHouse 767 2048Wh | 2400W
+Erneuerbare Power für alles.
 
-Power für alles.
+Langlebige Powerstationen: Für Power in jeder Größe
 
-Jetzt kaufen
+Mehr erfahren
 
 Anker
 
