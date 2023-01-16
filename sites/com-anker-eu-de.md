@@ -36,11 +36,17 @@ Das Anker-Erlebnis entdecken
 
   [Jetzt kaufen](https://www.anker.com/eu-de/nano3)
 
-* Mehr bestellen. Mehr sparen.
+* Powervoller Start ins neue Jahr
 
-  Für Sets ab 4 gibt es bis zu 25% Rabatt!
+  Bis zu 50% Rabatt
 
-  [Jetzt kaufen](https://www.anker.com/eu-de/buy-more-save-more)
+  [Mehr erfahren](https://www.anker.com/eu-de/new-year-sale)
+
+* Weiterempfehlen
+
+  20€ für dich. 10% Rabatt für deine Freunde
+
+  [Jetzt mitmachen](https://www.anker.com/eu-de/empfehlung)
 
 * Anker 757 PowerHouse
 
@@ -267,7 +273,7 @@ Programme
 
 [Hot Deals](https://www.anker.com/eu-de/hot-deals)
 
-[Referral](https://www.anker.com/eu-en/referral)
+[Weiterempfehlen](https://www.anker.com/eu-de/empfehlung)
 
 [Studentenangebote](https://anker-de.connect.studentbeans.com/us)
 
