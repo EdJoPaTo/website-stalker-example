@@ -120,10 +120,6 @@ sites:
       - css_remove: svg, a[href^="#"]
       - html_prettify
 
-  - url: https://www.wdrmaus.de/aktuelle-sendung/
-    editors:
-      - css_select: '#content'
-      - html_prettify
   - url: https://www.wdrmaus.de/extras/
     editors:
       - css_select: '#content'
@@ -175,21 +171,6 @@ sites:
             - css_select: .labels, .opened-by
             - html_textify
 
-  - url: https://www.anker.com/eu-de
-    editors:
-      - css_select: body
-      - css_remove: svg, picture, img, script, noscript, style
-      - regex_replace:
-          pattern: \?ref=\w+
-          replace: ''
-      - html_url_canonicalize
-      - html_markdownify
-  - url: https://eu.ugreen.com/
-    editors:
-      - css_select: body
-      - css_remove: svg, picture, img, script, noscript, style, .green-home-picks, .green-home-recommend, .green-home-influencer
-      - html_url_canonicalize
-      - html_markdownify
   - url:
       - https://eu.ugreen.com/collections/gan-chargers?sort_by=created-descending
       - https://eu.ugreen.com/collections/iphone-cables?sort_by=created-descending
