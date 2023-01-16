@@ -267,6 +267,8 @@ Programme
 
 [Hot Deals](https://www.anker.com/eu-de/hot-deals)
 
+[Referral](https://www.anker.com/eu-en/referral)
+
 [Studentenangebote](https://anker-de.connect.studentbeans.com/us)
 
 [Wo finde ich Anker](https://de.anker.com/pages/wheretobuy)
