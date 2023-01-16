@@ -2,7 +2,7 @@
 
 [](https://www.anker.com/eu-deundefined)
 
-[| Power für alles.](https://www.anker.com/eu-de/ankerpower)[Mehr erfahren \>\>](https://www.anker.com/eu-de/ankerpower)
+[](https://www.anker.com/eu-de/ankerpower)[| Power für alles.](https://www.anker.com/eu-de/ankerpower)[Mehr erfahren \>\>](https://www.anker.com/eu-de/ankerpower)
 
 ProdukteMobile PowerstationenNeuerscheinungenAngebote
 
