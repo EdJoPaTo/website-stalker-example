@@ -1008,6 +1008,7 @@
 * [Supratrans](https://www.wdrmaus.de/filme/sachgeschichten/supratranst.php5)
 * [Synagoge](https://www.wdrmaus.de/filme/sachgeschichten/synagoge.php5)
 * [T-Shirt falten](https://www.wdrmaus.de/filme/sachgeschichten/t_shirt_falten.php5)
+* [Taktstock](https://www.wdrmaus.de/filme/sachgeschichten/taktstock.php5)
 * [Taschenlampe](https://www.wdrmaus.de/filme/sachgeschichten/taschenlampe.php5)
 * [Taschenmesser](https://www.wdrmaus.de/filme/sachgeschichten/taschenmesser.php5)
 * [Tasse](https://www.wdrmaus.de/filme/sachgeschichten/tasse.php5)
