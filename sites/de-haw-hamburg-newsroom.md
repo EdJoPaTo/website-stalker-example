@@ -275,8 +275,6 @@ Termine
 
 [zum Kalender](/hochschule/veranstaltungen/)
 
-[Mi, 18.01.2023, 13:00 Uhr TERMINABSAGE! Sicherheitsunterweisung für Beschäftigte](/detail/news/news/show/terminabsage-sicherheitsunterweisung-fuer-beschaeftigte/)
-
 [Fr, 20.01.2023, 09:00 Uhr ENTFÄLLT: Fürsorgliche Väter](/detail/news/news/show/fuersorgliche-vaeter/)
 
 [Di, 24.01.2023, 17:00 Uhr Termin entfällt! Dual studieren](/detail/news/news/show/termin-entfaellt-dual-studieren/)
