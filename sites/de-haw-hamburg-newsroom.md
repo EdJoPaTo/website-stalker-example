@@ -281,9 +281,9 @@ Termine
 
 [Fr, 27.01.2023 – Sa, 28.01.2023 Rundgang Armgartstrasse 2023 - Design, Kunst und Theater im ganzen Haus](/detail/news/news/show/rundgangs-armgartstrasse-2023/)
 
-[Fr, 27.01.2023 – Sa, 28.01.2023 SPECIAL beim Rundgang Armgartstraße: Führungen für Schülerinnen und Schüler](/detail/news/news/show/special-beim-rundgang-armgartstrasse-fuehrungen-fuer-schuelerinnen-und-schueler/)
-
 [Fr, 10.02.2023, 15:30 Uhr Aktionstag Technik "Finde deine Perspektive"](/detail/news/news/show/aktionstag-technik-finde-deine-perspektive/)
+
+[Do, 23.02.2023 – Sa, 25.02.2023 Nutzerstudie zu interaktivem VR-Erlebnis](/detail/news/news/show/nutzerstudie-zu-interaktivem-vr-erlebnis/)
 
 [Mehrlesen Wenigerlesen](javascript:void(0))
 
