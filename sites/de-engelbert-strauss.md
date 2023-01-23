@@ -2,12 +2,23 @@ Winterjacken
 
 ---
 
-Bereit für
-die Kälte
+Warme
+Begleiter
 
 ---
 
 [alle Produkte](https://www.engelbert-strauss.de/s/suche?query=Winterjacke)
+
+Warnschutz
+
+---
+
+Maximale
+Sichtbarkeit
+
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/warnschutzkleidung-en20471/)
 
 Wärmende Winterhosen
 
@@ -19,17 +30,6 @@ und robust
 ---
 
 [alle Produkte](https://www.engelbert-strauss.de/s/suche?query=Winterhosen)
-
-Arbeitskleidung mit Funktion
-
----
-
-Wetterschutz-
-Profis
-
----
-
-alle Produkte
 
  30 TAGE RÜCKGABERECHT
 
@@ -43,6 +43,14 @@ alle Produkte
 
 [mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
 
+ Nur solange der Vorrat reicht!
+---
+
+ Winter Sale
+---
+
+[jetzt entdecken](https://www.engelbert-strauss.de/sale/)
+
  Schuhe
 ---
 
@@ -51,7 +59,7 @@ Wind und Wetter
 
 ---
 
-[e.s.Kobuk mid](https://www.engelbert-strauss.de/berufsschuhe-o2/o2-berufsschuhe-e-s-kobuk-mid-1003000-86027-1593.html?amp;itemorigin=startseite_hw22winter)
+[e.s.Okomu mid](https://www.engelbert-strauss.de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-e-s-okomu-mid-1300100-93584-8.html?amp;itemorigin=startseite_hw22winter)
 
 Mehr entdecken
 
@@ -68,60 +76,15 @@ Mehr entdecken
 PU-Winterhandschuhe
 Comfort
 
- Warnschutz
+ Lampen | Leuchten
 ---
 
-Maximale
-Sichtbarkeit
-
----
-
-Stark gegen Kälte und Nässe.
-Coole Styles für vollen Arbeitseinsatz.
-
-[alle Produkte](https://www.engelbert-strauss.de/warnschutzkleidung-en20471/)
-
-###  Zur perfekten Arbeitshose in nur 3 Schritten  ###
+Macht die Nacht
+zum Tag
 
 ---
 
- der Hosenfinder ermittelt schnell für Sie passende Hosen
-
-[Hose finden](https://www.engelbert-strauss.de/arbeitshosen/?trouserfinder=open)
-
-[Hosenfinder](https://www.engelbert-strauss.de/#!productfinder/trouserfinder)
-
-[Jackenfinder](https://www.engelbert-strauss.de/#!productfinder/jacketfinder)
-
-###  Zur perfekten Arbeitsjacke in nur 3 Schritten  ###
-
----
-
- der Jackenfinder ermittelt schnell für Sie passende Jacken
-
-[Jacke finden](https://www.engelbert-strauss.de/arbeitsjacken/?jacketfinder=open)
-
-[Hosenfinder](https://www.engelbert-strauss.de/#!productfinder/trouserfinder)
-
-[Jackenfinder](https://www.engelbert-strauss.de/#!productfinder/jacketfinder)
-
- Winterbekleidung
----
-
- Herren
----
-
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aHerren&query=winter#filter:closed)
-
- Damen
----
-
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aDamen&query=winter#filter:closed)
-
- Kinder
----
-
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aKinder&query=winter#filter:closed)
+[jetzt entdecken](https://www.engelbert-strauss.de/leuchten/)
 
  Noch mehr Strauss-Highlights
 ---
