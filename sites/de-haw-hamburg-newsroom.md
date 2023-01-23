@@ -258,6 +258,10 @@ Nachrichten
 
 [Zur Übersicht](/newsroom/alle-nachrichten/)
 
+[ChatGPT: Disruptive Veränderungen erwartet Interview zur neuen KI "ChatGPT" mit Experte Peter Kabel vom Department Design der HAW Hamburg.](/detail/news/news/show/chatgpt-disruptive-veraenderungen-erwartet/)
+
+ 23.01.2023 | Forschung
+
 [Angriff auf die IT-Infrastruktur der HAW Hamburg Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden.](/cyberangriff/)
 
  03.01.2023 | Campus
@@ -265,10 +269,6 @@ Nachrichten
 [Lea Berndorfer gewinnt World Illustration Awards 2022 Die junge Illustratorin erhielt die Auszeichung in der Kategorie "New Talent Editorial". Sie studiert Illustration im Master an der HAW Hamburg.](/detail/news/news/show/lea-berndorfer-gewinnt-world-illustration-awards-2022/)
 
  22.12.2022 | Campus
-
-[Ute Lohrentz wird neue Präsidentin der HAW Hamburg Der Senat der HAW Hamburg hat heute, 15. Dezember 2022, Prof. Dr. Ute Lohrentz im ersten Wahlgang zur neuen Präsidentin der Hochschule gewählt.](/detail/news/news/show/ute-lohrentz-wird-neue-praesidentin-der-haw-hamburg/)
-
- 15.12.2022 | Pressemitteilung | Intern
 
 Termine
 ----------
@@ -286,6 +286,10 @@ Termine
 [Sa, 04.02.2023, 20:00 Uhr HOPE - Konzert des Chors der HAW Hamburg](/detail/news/news/show/hope-konzert-des-chors-der-haw-hamburg-1/)
 
 [Mehrlesen Wenigerlesen](javascript:void(0))
+
+[Ute Lohrentz wird neue Präsidentin der HAW Hamburg Der Senat der HAW Hamburg hat heute, 15. Dezember 2022, Prof. Dr. Ute Lohrentz im ersten Wahlgang zur neuen Präsidentin der Hochschule gewählt.](/detail/news/news/show/ute-lohrentz-wird-neue-praesidentin-der-haw-hamburg/)
+
+ 15.12.2022 | Pressemitteilung | Intern
 
 [Weit gereist Professoren aus Vietnam besuchten die HAW Hamburg und tauschten sich zu Forschung und Lehre aus – das Projekt HaMoNee macht es möglich.](/detail/news/news/show/weit-gereist/)
 
@@ -314,10 +318,6 @@ Termine
 [Ausgezeichnete Ideen! Am 28.11. haben vier Projekte von Studierenden der Fakultät DMI Förderpreise der Ditze Stiftung mit einem Preisgeld von jeweils 1000 Euro erhalten.](/detail/news/news/show/ausgezeichnete-ideen/)
 
  30.11.2022 | Campus
-
-[Stipendien für Bachelor-Studentinnen der MINT-Fächer Die Bewerbungsphase für Studentinnen an Hamburger Hochschulen im 1. und 2. Semester startet am 1. Dezember.](/detail/news/news/show/stipendien-fuer-bachelor-studentinnen-der-mint-faecher/)
-
- 24.11.2022 | Campus
 
 Pressemitteilungen
 ----------
