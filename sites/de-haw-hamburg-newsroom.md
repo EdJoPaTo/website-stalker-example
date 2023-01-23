@@ -258,13 +258,13 @@ Nachrichten
 
 [Zur Übersicht](/newsroom/alle-nachrichten/)
 
+[Angriff auf die IT-Infrastruktur der HAW Hamburg Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden.](/cyberangriff/)
+
+ 23.01.2023 | Campus
+
 [ChatGPT: Disruptive Veränderungen erwartet Interview zur neuen KI "ChatGPT" mit Experte Peter Kabel vom Department Design der HAW Hamburg.](/detail/news/news/show/chatgpt-disruptive-veraenderungen-erwartet/)
 
  23.01.2023 | Forschung
-
-[Angriff auf die IT-Infrastruktur der HAW Hamburg Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden.](/cyberangriff/)
-
- 03.01.2023 | Campus
 
 [Lea Berndorfer gewinnt World Illustration Awards 2022 Die junge Illustratorin erhielt die Auszeichung in der Kategorie "New Talent Editorial". Sie studiert Illustration im Master an der HAW Hamburg.](/detail/news/news/show/lea-berndorfer-gewinnt-world-illustration-awards-2022/)
 
