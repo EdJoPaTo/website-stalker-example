@@ -275,8 +275,6 @@ Termine
 
 [zum Kalender](/hochschule/veranstaltungen/)
 
-[Di, 24.01.2023, 17:00 Uhr Termin entfällt! Dual studieren](/detail/news/news/show/termin-entfaellt-dual-studieren/)
-
 [Fr, 27.01.2023 – Sa, 28.01.2023 Rundgang Armgartstrasse 2023 - Design, Kunst und Theater im ganzen Haus](/detail/news/news/show/rundgangs-armgartstrasse-2023/)
 
 [Fr, 03.02.2023, 20:00 Uhr HOPE - Konzert des Chors der HAW Hamburg](/detail/news/news/show/hope-konzert-des-chors-der-haw-hamburg/)
@@ -284,6 +282,8 @@ Termine
 [Sa, 04.02.2023, 20:00 Uhr HOPE - Konzert des Chors der HAW Hamburg](/detail/news/news/show/hope-konzert-des-chors-der-haw-hamburg-1/)
 
 [Fr, 10.02.2023, 15:30 Uhr Aktionstag Technik "Finde deine Perspektive"](/detail/news/news/show/aktionstag-technik-finde-deine-perspektive/)
+
+[Do, 23.02.2023 – Sa, 25.02.2023 Nutzerstudie zu interaktivem VR-Erlebnis](/detail/news/news/show/nutzerstudie-zu-interaktivem-vr-erlebnis/)
 
 [Mehrlesen Wenigerlesen](javascript:void(0))
 
