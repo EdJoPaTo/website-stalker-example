@@ -6,6 +6,17 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[all OSs] Default Nodejs version will be set to 16 on February, 13</title>
+			<link>https://github.com/actions/runner-images/issues/7002</link>
+			<pubDate>Sat, 28 Jan 2023 16:04:41 +0000</pubDate>
+			<content:encoded><![CDATA[#7002
+opened
+Jan 28, 2023
+by
+
+mikhailkoliada]]></content:encoded>
+		</item>
+		<item>
 			<title>[All OSs] .NET 5.x will be removed from the images on February, 6</title>
 			<link>https://github.com/actions/runner-images/issues/6840</link>
 			<pubDate>Mon, 26 Dec 2022 14:46:23 +0000</pubDate>
