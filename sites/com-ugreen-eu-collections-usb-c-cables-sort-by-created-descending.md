@@ -1,10 +1,18 @@
 ### [UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0](https://eu.ugreen.com/products/ugreen-usb-c-usb-c-charging-cable-100w-double-angle-plug-pd-3-0-qc-4-0) ###
 
+UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0
+
 ### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
+
+ UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead
 
 ### [UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Charging](https://eu.ugreen.com/products/ugreen-usb-c-cable-90-degree-2-pack-right-angle-type-c-charger-lead-fast-charging) ###
 
+UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Charging
+
 ### [UGREEN USB C Cable 90 Degree 3A Right Angle Type C Charger Cable Fast Charging](https://eu.ugreen.com/products/ugreen-usb-c-cable-90-degree-3a-right-angle-type-c-charger-cable-fast-charging) ###
+
+UGREEN USB C Cable 90 Degree 3A Right Angle Type C Charger Cable Fast Charging
 
 ### [UGREEN USB C to USB C Cable 60W Right Angle](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w-1) ###
 
@@ -15,6 +23,8 @@ UGREEN USB C to USB C Cable 60W
 UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided
 
 ### [UGREEN USB C Hard Drive Cable, Micro B to Type C Lead Compatible with USB 3.0 External Portable](https://eu.ugreen.com/products/ugreen-usb-c-hard-drive-cable-micro-b-to-type-c-lead-compatible-with-usb-3-0-external-portable) ###
+
+UGREEN USB C Hard Drive Cable, Micro B to Type C Lead Compatible with USB 3.0 External Portable
 
 ### [UGREEN Right Angle USB C Cable 3.0 Type C Charger Cable Fast Charging 5Gbps](https://eu.ugreen.com/products/ugreen-right-angle-usb-c-cable-3-0-type-c-charger-cable-fast-charging-5gbps) ###
 
