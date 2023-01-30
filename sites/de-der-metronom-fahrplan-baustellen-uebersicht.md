@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[14.01.2023 - 30.01.2023 RB41 nächtliche Teilausfälle an den Wochenenden zwischen Lauenbrück und Rotenburg (W.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-an-den-wochenenden-zwischen-lauenbrueck-und-rotenburg-w/)
-
 [11.02.2023 - 12.02.2023 RE3/RB31 sowie RE4/RB41 nächtliche Vollsperrung zwischen 00:00 Uhr - 06:30 Uhr Bahnhof Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-sowie-re4-rb41-naechtliche-vollsperrung-zwischen-0000-uhr-0630-uhr-bahnhof-hamburg-harburg/)
 
 [21.02.2023 RB41geänderte Fahrzeit 81902](https://www.der-metronom.de/baustellen/rb41geaenderte-fahrzeit-81902/)
