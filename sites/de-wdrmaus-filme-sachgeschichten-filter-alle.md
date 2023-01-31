@@ -109,6 +109,7 @@
 * [Bis 1023 zählen](https://www.wdrmaus.de/filme/sachgeschichten/bis_1023_zaehlen.php5)
 * [Blattfarbe](https://www.wdrmaus.de/filme/sachgeschichten/blattfarbe.php5)
 * [Blaue Röhren](https://www.wdrmaus.de/filme/sachgeschichten/blaue_roehren.php5)
+* [Bleistiftmine](https://www.wdrmaus.de/filme/sachgeschichten/bleistiftmine.php5)
 * [Blindenbinde](https://www.wdrmaus.de/filme/sachgeschichten/blindenbinde.php5)
 * [Blindenhund](https://www.wdrmaus.de/filme/sachgeschichten/blindenhund.php5)
 * [Blindenschrift](https://www.wdrmaus.de/filme/sachgeschichten/blindenschrift.php5)
