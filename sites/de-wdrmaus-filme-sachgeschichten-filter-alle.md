@@ -950,7 +950,6 @@
 * [Sprichwörter: Ausspannen](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_ausspannen.php5)
 * [Sprichwörter: Bissen im Hals](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_bissen_im_hals.php5)
 * [Sprichwörter: Blau machen (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_blau_machen_teil1.php5)
-* [Sprichwörter: Blau machen (Teil 2)](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_blau_machen_teil2.php5)
 * [Sprichwörter: Dach und Fach](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_dach_und_fach.php5)
 * [Sprichwörter: Eisen im Feuer](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_eisen_im_feuer.php5)
 * [Sprichwörter: Fettnäpfchen](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_fettnaepfchen.php5)
