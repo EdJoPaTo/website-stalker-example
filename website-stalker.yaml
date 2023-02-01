@@ -174,7 +174,6 @@ sites:
   - url:
       - https://eu.ugreen.com/collections/gan-chargers?sort_by=created-descending
       - https://eu.ugreen.com/collections/iphone-cables?sort_by=created-descending
-      - https://eu.ugreen.com/collections/power-bank?sort_by=created-descending
       - https://eu.ugreen.com/collections/usb-c-cables?sort_by=created-descending
     editors:
       - css_select: .t4s-product-info__inner
