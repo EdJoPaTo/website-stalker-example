@@ -10,6 +10,8 @@ UGREEN Nexode USB C Charger 100W GaN Desktop Charger 4 Ports Laptop Adapter
 
 UGREEN 65W USB C Charger Nexode GaN 4-Port Fast Desktop Charger Power Adapter
 
+### [UGREEN 65W Power Strip DigiNest Cube GaN Extension Lead with USB C Slots](https://eu.ugreen.com/products/ugreen-65w-power-strip-diginest-cube-gan-extension-lead-with-usb-c-slots) ###
+
 ### [Ugreen Nexode 140W USB C Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-140w-usb-c-wall-charger) ###
 
 ### [Ugreen Nexode Mini 45W Dual USB C Charger](https://eu.ugreen.com/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
