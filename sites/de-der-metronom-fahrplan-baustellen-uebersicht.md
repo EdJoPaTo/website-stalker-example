@@ -24,8 +24,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[03.01.2023 - 02.02.2023 RE2/RE3/RB31: Fahrzeitveränderungen und Ausfällen überwiegend in den Nachtstunden](https://www.der-metronom.de/baustellen/re2-re3-rb31/)
-
 [11.02.2023 - 12.02.2023 RE3/RB31 sowie RE4/RB41 nächtliche Vollsperrung zwischen 00:00 Uhr - 06:30 Uhr Bahnhof Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-sowie-re4-rb41-naechtliche-vollsperrung-zwischen-0000-uhr-0630-uhr-bahnhof-hamburg-harburg/)
 
 [12.02.2023 RB31 frühere Abfahrt 81642 ab Uelzen in Richtung Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-fruehere-abfahrt-81642-ab-uelzen-in-richtung-hamburg-hbf/)
@@ -42,13 +40,9 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[03.01.2023 - 02.02.2023 RE2/RE3/RB31: Fahrzeitveränderungen und Ausfällen überwiegend in den Nachtstunden](https://www.der-metronom.de/baustellen/re2-re3-rb31/)
-
 [17.02.2023 - 27.02.2023 RE2/RE3/RB31 geänderte Fahrzeiten und nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-rb31-geaenderte-fahrzeiten-und-naechtlicher-ersatzverkehr-mit-bussen/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[03.01.2023 - 02.02.2023 RE2/RE3/RB31: Fahrzeitveränderungen und Ausfällen überwiegend in den Nachtstunden](https://www.der-metronom.de/baustellen/re2-re3-rb31/)
 
 [17.02.2023 - 27.02.2023 RE2/RE3/RB31 geänderte Fahrzeiten und nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-rb31-geaenderte-fahrzeiten-und-naechtlicher-ersatzverkehr-mit-bussen/)
 
