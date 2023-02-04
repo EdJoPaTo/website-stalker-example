@@ -180,3 +180,17 @@ sites:
       - css_remove: .t4s-product-price
       - html_url_canonicalize
       - html_markdownify
+
+  - url: https://www.cirrus7.com/en/
+    editors:
+      - css_select: section
+      - css_remove: img, sup
+      - html_url_canonicalize
+      - html_markdownify
+  - url:
+      - https://www.cirrus7.com/en/produkte/cirrus7-nimbus/
+      - https://www.cirrus7.com/en/produkte/cirrus7-incus/
+    editors:
+      - css_select: .entry-content
+      - css_remove: img, sup, iframe
+      - html_markdownify
