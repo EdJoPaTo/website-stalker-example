@@ -43,14 +43,6 @@ und robust
 
 [mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
 
- Nur solange der Vorrat reicht!
----
-
- Winter Sale
----
-
-[jetzt entdecken](https://www.engelbert-strauss.de/sale/)
-
  Schuhe
 ---
 
