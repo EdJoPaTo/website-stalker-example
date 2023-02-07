@@ -46,5 +46,7 @@ RE2 Hannover - Northeim - Göttingen
 
 [17.02.2023 - 27.02.2023 RE2/RE3/RB31 geänderte Fahrzeiten und nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-rb31-geaenderte-fahrzeiten-und-naechtlicher-ersatzverkehr-mit-bussen/)
 
+[01.03.2023 - 02.03.2023 RE2 nächtlich geänderte Fahrzeit für den 82839 ab Sarstedt in Richtung Göttingen](https://www.der-metronom.de/baustellen/re2-naechtlich-geaenderte-fahrzeit-fuer-den-82839-ab-sarstedt-in-richtung-goettingen/)
+
 Dein persönlicher Baustellen-Newsletter
 ----------
