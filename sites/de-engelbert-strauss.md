@@ -106,6 +106,8 @@ zum Tag
 
 []()
 
+zzgl. Versandkosten
+
 [Service 0 60 50 / 97 10 12](tel:+496050971012)
 
 * ### Service ###
