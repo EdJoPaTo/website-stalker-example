@@ -6,6 +6,26 @@
 		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>OpenTalk unter Open Source-Lizenz EUPL veröffentlicht</title>
+			<link>https://opentalk.eu/de/news/opentalk-unter-open-source-lizenz-eupl-veroeffentlicht</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				09.02.2023
+			</time>
+		</div>
+		<div>
+			<p>
+				Tolle Neuigkeiten für alle, die digital souverän kommunizieren möchten: Wir haben heute den Quellcode von OpenTalk unter EUPL (European Public License) veröffentlicht.
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>OpenTalk auf dem Univention Summit 2023</title>
 			<link>https://opentalk.eu/de/news/opentalk-auf-dem-univention-summit-2023</link>
 			<content:encoded><![CDATA[<html>
@@ -66,20 +86,20 @@
 </html>]]></content:encoded>
 		</item>
 		<item>
-			<title>Universität Greifswald simuliert Audimax-Vorlesung mit 300 Teilnehmern</title>
-			<link>https://opentalk.eu/de/news/universitaet-greifswald-simuliert-audimax-vorlesung-mit-300-teilnehmern</link>
+			<title>OpenTalk goes Open Source: Video­konferenz­plattform mit Fokus auf Sicherheit legt Code offen</title>
+			<link>https://opentalk.eu/de/presse/opentalk-goes-open-source-video-konferenz-plattform-mit-fokus-auf-sicherheit-legt-code-offen</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
 	<body>
 		<div class="pleaser__date">
 			<time>
-				19.09.2022
+				09.02.2023
 			</time>
 		</div>
 		<div>
 			<p>
-				Geschafft: OpenTalk besteht den Last-Test der Universität Greifswald mit 10 aktiven und 300 passiven Teilnehmern.
+				OpenTalk, der deutsche Anbieter für sichere Videokonferenzen, veröffentlicht den Code seiner gleichnamigen Kommunikationsplattform unter der Open Source-Lizenz „EUPL“ (European Public License) auf OpenCoDE.de.
 			</p>
 		</div>
 	</body>
@@ -142,26 +162,6 @@
 		<div>
 			<p>
 				OpenTalk, der Anbieter für sichere Videokonferenzen, wird in diesem Jahr als Aussteller mit einem eigenen Stand auf dem CloudFest vertreten sein.
-			</p>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Digitale Souve­ränität und höchster Daten­schutz mit OpenTalk</title>
-			<link>https://opentalk.eu/de/presse/digitale-souve-raenitaet-und-hoechster-daten-schutz-mit-opentalk</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="pleaser__date">
-			<time>
-				04.10.2021
-			</time>
-		</div>
-		<div>
-			<p>
-				Heinlein Support präsentiert auf dem KGSt-Forum die neue sichere Video­konferenz­lösung OpenTalk.
 			</p>
 		</div>
 	</body>
