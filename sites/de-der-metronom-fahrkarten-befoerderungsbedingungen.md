@@ -5,7 +5,7 @@ Hier sind unsere *metronom* Beförderungsbedingungen und Tarifbestimmungen aufg
 
 Die pdf-Datei zum Download findest du hier:
 
-[metronom Beförderungsbedingungen gültig ab 11.12.2021 (PDF - 556,493 KB)](https://www.der-metronom.de/downloads/11.12.2022_metronom-Befoerderungsbedingungen.pdf)
+[metronom Beförderungsbedingungen gültig ab 11.12.2022 (PDF - 556,493 KB)](https://www.der-metronom.de/downloads/11.12.2022_metronom-Befoerderungsbedingungen.pdf)
 
 Die Tarif- und Beförderungsbedingungen der einzelnen Verkehrsverbünde und Tarifgeber findest du links in der Sidebar.
 
