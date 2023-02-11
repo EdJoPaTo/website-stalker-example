@@ -17,17 +17,6 @@ by
 mikhailkoliada]]></content:encoded>
 		</item>
 		<item>
-			<title>[All OSs] .NET 5.x will be removed from the images on February, 6</title>
-			<link>https://github.com/actions/runner-images/issues/6840</link>
-			<pubDate>Mon, 26 Dec 2022 14:46:23 +0000</pubDate>
-			<content:encoded><![CDATA[#6840
-opened
-Dec 26, 2022
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
 			<title>The Ubuntu 18.04 Actions runner image will begin deprecation on 2022/08/08 and will be fully unsupported by 2023/04/01</title>
 			<link>https://github.com/actions/runner-images/issues/6002</link>
 			<pubDate>Tue, 02 Aug 2022 10:24:59 +0000</pubDate>
