@@ -22,8 +22,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[12.02.2023 RB31 frühere Abfahrt 81642 ab Uelzen in Richtung Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-fruehere-abfahrt-81642-ab-uelzen-in-richtung-hamburg-hbf/)
-
 [17.02.2023 - 20.02.2023 RB31 nächtlicher Haltausfall Bardowick, Radbruch, Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-bardowick-radbruch-ashausen/)
 
 [17.02.2023 - 27.02.2023 RE2/RE3/RB31 geänderte Fahrzeiten und nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-rb31-geaenderte-fahrzeiten-und-naechtlicher-ersatzverkehr-mit-bussen/)
