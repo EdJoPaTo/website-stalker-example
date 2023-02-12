@@ -1013,6 +1013,7 @@
 * [Stottern](https://www.wdrmaus.de/filme/sachgeschichten/stottern.php5)
 * [Straßenbahnfahrer](https://www.wdrmaus.de/filme/sachgeschichten/strassenbahnfahrer.php5)
 * [Streckenläufer](https://www.wdrmaus.de/filme/sachgeschichten/streckenlaeufer.php5)
+* [Streiten: Kinder- und Erwachsenenantworten](https://www.wdrmaus.de/filme/sachgeschichten/streiten.php5)
 * [Strichcode](https://www.wdrmaus.de/filme/sachgeschichten/strichcode.php5)
 * [Strohballenknoter](https://www.wdrmaus.de/filme/sachgeschichten/strohballenknoter.php5)
 * [Strom aus Salzwasser](https://www.wdrmaus.de/filme/sachgeschichten/strom_aus_salzwasser.php5)
