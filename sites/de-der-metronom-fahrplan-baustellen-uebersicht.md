@@ -18,13 +18,9 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[11.02.2023 - 12.02.2023 RE3/RB31 sowie RE4/RB41 nächtliche Vollsperrung zwischen 00:00 Uhr - 06:30 Uhr Bahnhof Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-sowie-re4-rb41-naechtliche-vollsperrung-zwischen-0000-uhr-0630-uhr-bahnhof-hamburg-harburg/)
-
 [21.02.2023 RB41geänderte Fahrzeit 81902](https://www.der-metronom.de/baustellen/rb41geaenderte-fahrzeit-81902/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
-
-[11.02.2023 - 12.02.2023 RE3/RB31 sowie RE4/RB41 nächtliche Vollsperrung zwischen 00:00 Uhr - 06:30 Uhr Bahnhof Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-sowie-re4-rb41-naechtliche-vollsperrung-zwischen-0000-uhr-0630-uhr-bahnhof-hamburg-harburg/)
 
 [12.02.2023 RB31 frühere Abfahrt 81642 ab Uelzen in Richtung Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-fruehere-abfahrt-81642-ab-uelzen-in-richtung-hamburg-hbf/)
 
