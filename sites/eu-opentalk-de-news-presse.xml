@@ -6,6 +6,26 @@
 		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>OpenTalk auf den Chemnitzer Linux-Tagen 2023</title>
+			<link>https://opentalk.eu/de/news/opentalk-auf-den-chemnitzer-linux-tagen-2023</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				13.02.2023
+			</time>
+		</div>
+		<div>
+			<p>
+				Treffen Sie uns auf den Chemnitzer Linux-Tagen vom 11.-12. März 2023 - an unserem Stand oder bei unserem Vortrag! OpenTalk-CEO Peer Heinlein und Christian Stötzer (Referatsleiter Thüringer Finanzministerium) werden gemeinsamen einen Vortrag zu "Digital souveränen Videokonferenzen in Thüringen" halten.
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>OpenTalk unter Open Source-Lizenz EUPL veröffentlicht</title>
 			<link>https://opentalk.eu/de/news/opentalk-unter-open-source-lizenz-eupl-veroeffentlicht</link>
 			<content:encoded><![CDATA[<html>
@@ -60,26 +80,6 @@
 		<div>
 			<p>
 				Mehr Sicherheit und Datensouveränität: Das Projekt „Reflect EU&US“ des Bundesministeriums für Wirtschaft und Klimaschutz nutzt die Videokonferenzlösung OpenTalk.
-			</p>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>mailbox.org setzt auf OpenTalk als sichere Videokonferenz</title>
-			<link>https://opentalk.eu/de/news/mailbox-org-setzt-auf-opentalk-als-sichere-videokonferenz</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="pleaser__date">
-			<time>
-				20.10.2022
-			</time>
-		</div>
-		<div>
-			<p>
-				Wir freuen uns, den Beginn der Einführungsphase unserer Videokonferenzlösung OpenTalk beim E-Mail-Anbieter mailbox.org bekannt zu geben.
 			</p>
 		</div>
 	</body>
