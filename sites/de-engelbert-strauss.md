@@ -106,8 +106,6 @@ zum Tag
 
 []()
 
-zzgl. Versandkosten
-
 [Service 0 60 50 / 97 10 12](tel:+496050971012)
 
 * ### Service ###
@@ -176,10 +174,6 @@ Mail
 ### Sprachauswahl ###
 
 de en fr
-
-Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 EUR Warenwert.
-
- Alle Preise zzgl. gesetzlicher MwSt. zzgl. Versandkosten bei Bestellungen unter 150,00 EUR Warenwert.
 
 * [Datenschutz](https://www.engelbert-strauss.de/Rechtliches/Datenschutz)
 * [AGB](https://www.engelbert-strauss.de/Rechtliches/AGB)
