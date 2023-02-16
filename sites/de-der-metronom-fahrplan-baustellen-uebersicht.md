@@ -20,6 +20,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.02.2023 RB41geänderte Fahrzeit 81902](https://www.der-metronom.de/baustellen/rb41geaenderte-fahrzeit-81902/)
 
+[04.03.2023 - 19.03.2023 RB41 Gleisbauarbeiten an zwei Wochenenden mit nächtlichen Ausfällen zwischen Rotenburg (W.) und Lauenbrück](https://www.der-metronom.de/baustellen/rb41-gleisbauarbeiten-an-zwei-wochenenden-mit-naechtlichen-ausfaellen-zwischen-rotenburg-w-und-lauenbrueck/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [17.02.2023 - 20.02.2023 RB31 nächtlicher Haltausfall Bardowick, Radbruch, Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-bardowick-radbruch-ashausen/)
