@@ -22,6 +22,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [04.03.2023 - 19.03.2023 RB41 Gleisbauarbeiten an zwei Wochenenden mit nächtlichen Ausfällen zwischen Rotenburg (W.) und Lauenbrück](https://www.der-metronom.de/baustellen/rb41-gleisbauarbeiten-an-zwei-wochenenden-mit-naechtlichen-ausfaellen-zwischen-rotenburg-w-und-lauenbrueck/)
 
+[06.03.2023 - 17.03.2023 RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [17.02.2023 - 20.02.2023 RB31 nächtlicher Haltausfall Bardowick, Radbruch, Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-bardowick-radbruch-ashausen/)
@@ -34,15 +36,21 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [22.02.2023 - 01.03.2023 RB31 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-ersatzverkehr-mit-bussen/)
 
+[04.03.2023 - 19.03.2023 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
+
 RE2 Uelzen - Celle - Hannover
 
 [17.02.2023 - 27.02.2023 RE2/RE3/RB31 geänderte Fahrzeiten und nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-rb31-geaenderte-fahrzeiten-und-naechtlicher-ersatzverkehr-mit-bussen/)
+
+[04.03.2023 - 13.03.2023 RE2/RE3/RB31 nächtliche Fahrplanabweichungen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrplanabweichungen-und-teilausfaelle/)
 
 RE2 Hannover - Northeim - Göttingen
 
 [17.02.2023 - 27.02.2023 RE2/RE3/RB31 geänderte Fahrzeiten und nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-rb31-geaenderte-fahrzeiten-und-naechtlicher-ersatzverkehr-mit-bussen/)
 
 [01.03.2023 - 02.03.2023 RE2 nächtlich geänderte Fahrzeit für den 82839 ab Sarstedt in Richtung Göttingen](https://www.der-metronom.de/baustellen/re2-naechtlich-geaenderte-fahrzeit-fuer-den-82839-ab-sarstedt-in-richtung-goettingen/)
+
+[04.03.2023 - 13.03.2023 RE2/RE3/RB31 nächtliche Fahrplanabweichungen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrplanabweichungen-und-teilausfaelle/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
