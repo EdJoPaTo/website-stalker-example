@@ -6,6 +6,17 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>GCC-9 will be removed from macOS 11 on March, 6</title>
+			<link>https://github.com/actions/runner-images/issues/7136</link>
+			<pubDate>Sat, 18 Feb 2023 02:02:38 +0000</pubDate>
+			<content:encoded><![CDATA[#7136
+opened
+Feb 18, 2023
+by
+
+mikhailkoliada]]></content:encoded>
+		</item>
+		<item>
 			<title>Xcode 13.4 will be pointing to 13.4.1 on February, 28</title>
 			<link>https://github.com/actions/runner-images/issues/7127</link>
 			<pubDate>Thu, 16 Feb 2023 18:57:27 +0000</pubDate>
