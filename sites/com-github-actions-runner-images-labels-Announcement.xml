@@ -28,17 +28,6 @@ by
 mikhailkoliada]]></content:encoded>
 		</item>
 		<item>
-			<title>[all OSs] Default Nodejs version will be set to 18 on February, 13</title>
-			<link>https://github.com/actions/runner-images/issues/7002</link>
-			<pubDate>Sat, 28 Jan 2023 16:04:41 +0000</pubDate>
-			<content:encoded><![CDATA[#7002
-opened
-Jan 28, 2023
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
 			<title>The Ubuntu 18.04 Actions runner image will begin deprecation on 2022/08/08 and will be fully unsupported by 2023/04/01</title>
 			<link>https://github.com/actions/runner-images/issues/6002</link>
 			<pubDate>Tue, 02 Aug 2022 10:24:59 +0000</pubDate>
