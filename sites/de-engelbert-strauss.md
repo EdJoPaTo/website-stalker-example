@@ -43,13 +43,6 @@ und robust
 
 [mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
 
-HOW
-CHIEFS WORK
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/brand-news)
-
  Schuhe
 ---
 
