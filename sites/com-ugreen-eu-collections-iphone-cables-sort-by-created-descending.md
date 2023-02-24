@@ -1,6 +1,6 @@
 ### [UGREEN USB C to Lightning Cable MFi Certified Type C iPhone Charger Cable](https://eu.ugreen.com/products/ugreen-usb-c-to-lightning-cable-mfi-certified-type-c-iphone-charger-cable) ###
 
-WHAT IS MFi ?MFi is a kind of express license for external accessories produced by authorized accessory manufacturers. It is the abbreviation of ‘Made for iPhone / iPod / iPad’....
+WHAT IS MFi ?MFi is a kind of express license for external accessories produced by authorized accessory manufacturers. It is the abbreviation of ‘Made for iPhone / iPod / iPadâ€?...
 
 ### [Ugreen 20W USB C to Lightning Cable](https://eu.ugreen.com/products/ugreen-usb-c-to-lightning-cable) ###
 
