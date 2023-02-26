@@ -1,35 +1,179 @@
-Winterjacken
+###  Neuer Stoff für neue Projekte  ###
 
 ---
 
-Warme
-Begleiter
+ e.s.trail
+----------
 
 ---
 
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=Winterjacke)
+[mehr erfahren](https://www.engelbert-strauss.de/trail)
 
-Warnschutz
+[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
 
----
-
-Maximale
-Sichtbarkeit
+###  ULTRALEICHT MIT ZEHENSCHUTZ  ###
 
 ---
 
-[alle Produkte](https://www.engelbert-strauss.de/warnschutzkleidung-en20471/)
-
-Wärmende Winterhosen
-
----
-
-Sportlich
-und robust
+ Worker-
+Sneaker
+----------
 
 ---
 
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=Winterhosen)
+[Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
+
+[SB Sicherheitshalbschuhe](https://www.engelbert-strauss.de/sicherheitsschuhe-sb/sb-sicherheitshalbschuhe-e-s-comoe-low-1003250-93337-1730.html?itemorigin=StartseiteFS23)
+
+###  ORDNUNG IM GEPÄCK  ###
+
+---
+
+ STRAUSSbox
+System
+----------
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/straussboxensystem-taschen)
+
+[alle Produkte](https://www.engelbert-strauss.de/straussbox-system/)
+
+ Weitere Neuheiten entdecken
+---
+
+[alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
+
+ Designed by nature
+---
+
+ e.s.botanica
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/botanica)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-botanica/)
+
+ Locker aus dem Handgelenk
+---
+
+ e.s.Tool concept
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
+
+ Jetzt auch in Anthrazit
+---
+
+ e.s.concrete light
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-concrete/?sort=newest)
+
+ Endlich wieder da!
+---
+
+ e.s. ventura
+vintage
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/)
+
+[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=ventura%20vintage)
+
+ e.s.motion ten
+sommer
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/motion_ten)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
+
+ Für wen darf es sein?
+---
+
+ Neuheiten für
+---
+
+ Herren
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Herren/)
+
+ Neuheiten für
+---
+
+ Damen
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
+
+ Neuheiten für
+---
+
+ Kinder
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Kinder/)
+
+ finde, was zu
+dir passt
+----------
+
+---
+
+###  Jackenfinder  ###
+
+---
+
+ Zur perfekten Arbeitsjacke in nur 3 Schritten
+
+###  Hosenfinder  ###
+
+---
+
+ finde, was zu
+dir passt
+----------
+
+---
+
+###  Jackenfinder  ###
+
+---
+
+###  Hosenfinder  ###
+
+---
+
+ Der Hosenfinder ermittelt schnell für Sie passende Hosen
+
+ Nach Kategorie shoppen
+---
+
+ Bekleidung
+---
+
+ Schuhe
+---
+
+ Arbeitsschutz
+---
+
+ Werkzeuge
+---
+
+ Betriebsbedarf
+---
+
+ Newsletter abonnieren
+---
+
+ und exklusive Aktionen, Gutscheine & Schnäppchen sichern
+
+[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
 
  30 TAGE RÜCKGABERECHT
 
@@ -42,60 +186,6 @@ und robust
  KAUF AUF RECHNUNG
 
 [mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
-
- Schuhe
----
-
-Robust bei
-Wind und Wetter
-
----
-
-[e.s.Okomu mid](https://www.engelbert-strauss.de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-e-s-okomu-mid-1300100-93584-8.html?amp;itemorigin=startseite_hw22winter)
-
-Mehr entdecken
-
- Winterhandschuhe
----
-
-für die
-kühlen Tage
-
----
-
-Mehr entdecken
-
-PU-Winterhandschuhe
-Comfort
-
- Lampen | Leuchten
----
-
-Macht die Nacht
-zum Tag
-
----
-
-[jetzt entdecken](https://www.engelbert-strauss.de/leuchten/)
-
- Noch mehr Strauss-Highlights
----
-
-[Bekleidung](https://www.engelbert-strauss.de/arbeitskleidung/)
-
-[Schuhe](https://www.engelbert-strauss.de/arbeitsschuhe/)
-
-[Werkzeug](https://www.engelbert-strauss.de/werkzeuge/)
-
-[Arbeitsschutz](https://www.engelbert-strauss.de/arbeitsschutz/)
-
-[Betriebsbedarf](https://www.engelbert-strauss.de/betriebsbedarf/)
-
- Newsletter abonnieren
-
- und exklusive Aktionen, Gutscheine & Schnäppchen sichern
-
-[Jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?ItemOrigin=StartHW22-23_Winter)
 
 []()
 
