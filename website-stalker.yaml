@@ -194,3 +194,8 @@ sites:
       - css_select: .entry-content
       - css_remove: img, sup, iframe
       - html_markdownify
+
+  - url: https://www.stwhh.de/speiseplan/?t=next_week
+    editors:
+      - css_select: .mensainfo__title
+      - html_textify
