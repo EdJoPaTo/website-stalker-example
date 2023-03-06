@@ -326,6 +326,8 @@ Vom 06.03. bis einschließlich 08.03.2023 findet keine Beratung statt.
 
  Berliner Tor  21  20099  Hamburg
 
+ Vom 06. bis 17.03.2023 geschlossen!
+
 ### Café ZessP ###
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
