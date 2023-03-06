@@ -136,6 +136,8 @@ Vom 06.03. bis einschließlich 08.03.2023 findet keine Beratung statt.
 
  Grindelallee  76  20146  Hamburg
 
+ Vom 06. bis 17.03.2022 geschlossen!
+
 ### PizzaBar Harburg ###
 
  Denickestraße  22  21073  Hamburg
