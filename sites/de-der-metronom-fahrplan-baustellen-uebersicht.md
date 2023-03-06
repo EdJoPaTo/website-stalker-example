@@ -26,11 +26,17 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [04.03.2023 - 19.03.2023 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
+[23.03.2023 - 24.03.2023 RB31 nächtlicher Teilausfall für den 81642 in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-teilausfall-fuer-den-81642-in-ashausen/)
+
+[25.03.2023 - 26.03.2023 RE2/RE3/RB31 Gleisbauarbeiten und Zeitumstellung auf Sommerzeit](https://www.der-metronom.de/baustellen/re2-re3-rb31-gleisbauarbeiten-und-zeitumstellung-auf-sommerzeit/)
+
 RE2 Uelzen - Celle - Hannover
 
 [04.03.2023 - 13.03.2023 RE2/RE3/RB31 nächtliche Fahrplanabweichungen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrplanabweichungen-und-teilausfaelle/)
 
 [18.03.2023 - 20.03.2023 RE2/RE3/RB31 nächtliche Fahrplanabweichung und Teilausfälle zwischen Uelzen, Hannover und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrplanabweichung-und-teilausfaelle-zwischen-uelzen-hannover-und-goettingen/)
+
+[25.03.2023 - 26.03.2023 RE2/RE3/RB31 Gleisbauarbeiten und Zeitumstellung auf Sommerzeit](https://www.der-metronom.de/baustellen/re2-re3-rb31-gleisbauarbeiten-und-zeitumstellung-auf-sommerzeit/)
 
 RE2 Hannover - Northeim - Göttingen
 
