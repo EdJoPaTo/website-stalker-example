@@ -135,22 +135,13 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://www.der-metronom.de/aktuell/
-    editors:
-      - rss:
-          title: Metronom Aktuell
-          item_selector: '#content .right .box'
-          content_editors:
-            - css_select: time, .news-text-outer
-            - css_remove: a.news-more
-            - html_url_canonicalize
-            - html_prettify
   - url:
+      - https://www.der-metronom.de/aktuell/
       - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
     editors:
       - css_select: '#content .right'
-      - css_remove: form, script, .img-left
+      - css_remove: form, script, .img-left, a.news-more
       - html_url_canonicalize
       - html_markdownify
 
