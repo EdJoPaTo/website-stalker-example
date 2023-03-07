@@ -22,6 +22,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [06.03.2023 - 17.03.2023 RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
 
+[20.03.2023 - 27.03.2023 RE4/RB41 Fahrzeitenänderungen/nächtliche Teilausfälle zw. Rotenburg (W.) und Lauenbrück sowie Zeitumstellung auf Sommerzeit](https://www.der-metronom.de/baustellen/re4-rb41-fahrzeitenaenderungen-naechtliche-teilausfaelle-zw-rotenburg-w-und-lauenbrueck-sowie-zeitumstellung-auf-sommerzeit/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [04.03.2023 - 19.03.2023 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
