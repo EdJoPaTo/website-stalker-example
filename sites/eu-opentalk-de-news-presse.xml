@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<title>OpenTalk</title>
-		<link>https://opentalk.eu/de/news-presse</link>
-		<description>Aktuelle News und Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
+		<link>https://opentalk.eu/de/presse</link>
+		<description>Aktuelle Pressemitteilungen rund um die sicheren Videokonferenzen von OpenTalk. Die professionelle Videokonferenz-Software für Unternehmen, Behörden und Schulen.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>OpenTalk auf dem Cloudfest vom 21.-23. März 2023</title>
