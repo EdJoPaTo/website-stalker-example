@@ -86,6 +86,26 @@
 </html>]]></content:encoded>
 		</item>
 		<item>
+			<title>mailbox.org und OpenTalk auf dem CloudFest 2023</title>
+			<link>https://opentalk.eu/de/presse/mailboxorg-und-opentalk-auf-dem-cloudfest-2023</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div class="pleaser__date">
+			<time>
+				08.03.2023
+			</time>
+		</div>
+		<div>
+			<p>
+				Vom 21.-23. März 2023 trifft sich die Branche zum Cloudfest in Rust. Auch OpenTalk und mailbox.org werden als Aussteller vor Ort sein und freuen sich auf viele gute Gespräche.
+			</p>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>OpenTalk goes Open Source: Video­konferenz­plattform mit Fokus auf Sicherheit legt Code offen</title>
 			<link>https://opentalk.eu/de/presse/opentalk-goes-open-source-video-konferenz-plattform-mit-fokus-auf-sicherheit-legt-code-offen</link>
 			<content:encoded><![CDATA[<html>
@@ -142,26 +162,6 @@
 		<div>
 			<p>
 				OpenTalk, Anbieter für sichere Videokonferenzen, ernennt Markus Michels zum Geschäftsführer. Gemeinsam mit seinem Team wird er ab sofort die Bekanntheit von OpenTalk als sichere Alternative zu anderen Videokonferenzlösungen steigern.
-			</p>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>OpenTalk auf dem CloudFest 2022</title>
-			<link>https://opentalk.eu/de/presse/opentalk-auf-dem-cloudfest-2022</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div class="pleaser__date">
-			<time>
-				11.03.2022
-			</time>
-		</div>
-		<div>
-			<p>
-				OpenTalk, der Anbieter für sichere Videokonferenzen, wird in diesem Jahr als Aussteller mit einem eigenen Stand auf dem CloudFest vertreten sein.
 			</p>
 		</div>
 	</body>
