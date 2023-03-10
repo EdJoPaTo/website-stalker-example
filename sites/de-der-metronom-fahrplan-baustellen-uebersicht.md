@@ -40,6 +40,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [31.03.2023 - 02.04.2023 RB31 nächtliche Teilausfälle und Fahrzeitänderungen](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-und-fahrzeitaenderungen/)
 
+[02.04.2023 - 05.04.2023 RB31 nächtliche Haltausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ersatzverkehr-mit-bussen/)
+
 RE2 Uelzen - Celle - Hannover
 
 [04.03.2023 - 13.03.2023 RE2/RE3/RB31 nächtliche Fahrplanabweichungen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrplanabweichungen-und-teilausfaelle/)
