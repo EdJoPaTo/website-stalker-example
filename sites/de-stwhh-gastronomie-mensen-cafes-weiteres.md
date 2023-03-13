@@ -1,5 +1,3 @@
-Vom 06.03. bis einschließlich 08.03.2023 findet keine Beratung statt.
-
 ### Beratung für Studierende mit Kind ###
 
  Grindelallee  9  20146  Hamburg

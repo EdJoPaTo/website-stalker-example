@@ -28,6 +28,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [02.04.2023 RB31 und RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-und-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
 
+[04.04.2023 - 05.04.2023 RE4/RB41/RB31 Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re4-rb41-rb31-haltausfaelle/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [04.03.2023 - 19.03.2023 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
@@ -45,6 +47,10 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [02.04.2023 - 05.04.2023 RB31 nächtliche Haltausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ersatzverkehr-mit-bussen/)
 
 [02.04.2023 RB31 und RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-und-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
+
+[04.04.2023 - 05.04.2023 RE4/RB41/RB31 Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re4-rb41-rb31-haltausfaelle/)
+
+[06.04.2023 - 20.04.2023 RB31 nächtlicher Haltausfall in Meckelfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-meckelfeld-ersatzverkehr-mit-bussen/)
 
 RE2 Uelzen - Celle - Hannover
 
