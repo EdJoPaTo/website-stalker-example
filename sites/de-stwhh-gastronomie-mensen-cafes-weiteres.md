@@ -190,8 +190,6 @@ Vom 06.03. bis einschließlich 08.03.2023 findet keine Beratung statt.
 
  Kobestraße  2  20457  Hamburg
 
- Vom 13.02. bis 10.03.2023 geschlossen!
-
 ### Café Alexanderstraße ###
 
  Alexanderstraße  1  20099  Hamburg
@@ -203,8 +201,6 @@ Vom 06.03. bis einschließlich 08.03.2023 findet keine Beratung statt.
 ### Lokstedt ###
 
  Emil-Andresen-Straße  34b/c  22529  Hamburg
-
- Vom 27.02. bis 10.03.2023 geschlossen
 
 ### Café Berliner Tor ###
 
@@ -272,8 +268,6 @@ Vom 06.03. bis einschließlich 08.03.2023 findet keine Beratung statt.
 
  Unnastraße  9  20253  Hamburg
 
- Vom 06.02. bis 17.03.2023 geschlossen!
-
 ### Café Finkenau ###
 
  Finkenau  35  22081  Hamburg
@@ -309,8 +303,6 @@ Vom 06.03. bis einschließlich 08.03.2023 findet keine Beratung statt.
 ### Café (am Mittelweg) ###
 
  Mittelweg  177  20148  Hamburg
-
- Vom 06.02. bis 10.03.2023 geschlossen!
 
 ### Café Student Affairs ###
 

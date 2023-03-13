@@ -26,6 +26,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [30.03.2023 - 31.03.2023 RB41 nächtliche Fahrzeitänderungen 81945 und 81902](https://www.der-metronom.de/baustellen/rb41-naechtliche-fahrzeitaenderungen-81945-und-81902/)
 
+[02.04.2023 RB31 und RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-und-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [04.03.2023 - 19.03.2023 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
@@ -42,6 +44,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [02.04.2023 - 05.04.2023 RB31 nächtliche Haltausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ersatzverkehr-mit-bussen/)
 
+[02.04.2023 RB31 und RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-und-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
+
 RE2 Uelzen - Celle - Hannover
 
 [18.03.2023 - 20.03.2023 RE2/RE3/RB31 nächtliche Fahrplanabweichung und Teilausfälle zwischen Uelzen, Hannover und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrplanabweichung-und-teilausfaelle-zwischen-uelzen-hannover-und-goettingen/)
@@ -57,6 +61,8 @@ RE2 Hannover - Northeim - Göttingen
 [22.03.2023 - 27.03.2023 RE2 Arbeiten an der Leit- und Sicherungstechnik sowie Kampfmittelbeseitigung](https://www.der-metronom.de/baustellen/re2-arbeiten-an-der-leit-und-sicherungstechnik-sowie-kampfmittelbeseitigung/)
 
 [27.03.2023 - 02.04.2023 RE2 nächtlicher Ersatzverkehr mit Bussen und Fahrzeitänderungen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen/)
+
+[05.04.2023 - 10.04.2023 RE2 Haltausfälle zwischen Hannover Hbf und Barnten sowie Zusatzhalte in Barnten](https://www.der-metronom.de/baustellen/re2-haltausfaelle-zwischen-hannover-hbf-und-barnten-sowie-zusatzhalte-in-barnten/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
