@@ -58,13 +58,16 @@ sites:
       - css_select: main
       - css_remove: img
       - html_markdownify
+
   - url: https://files.teamspeak-services.com/releases/server/
     editors:
       - html_prettify
+
   - url: https://blinry.org/
     editors:
       - css_select: .box
       - html_prettify
+
   - url:
       - https://jonas.lol/
       - https://jonas.lol/projects/
@@ -73,6 +76,7 @@ sites:
       - css_remove: script, img
       - html_url_canonicalize
       - html_markdownify
+
   - url: https://bennetblischke.eu/
     editors:
       - css_select: body
@@ -103,7 +107,6 @@ sites:
       - html_url_canonicalize
       - html_prettify
 
-
   - url: https://docs.hetzner.com/robot/dedicated-server/operating-systems/standard-images/
     editors:
       - css_select: div.article
@@ -112,8 +115,8 @@ sites:
 
   - url: https://www.wdrmaus.de/extras/
     editors:
-      - css_select: '#content'
-      - css_remove: 'script, img, .promoteaser, #footer'
+      - css_select: "#content"
+      - css_remove: "script, img, .promoteaser, #footer"
       - html_url_canonicalize
       - html_markdownify
   - url:
@@ -130,7 +133,7 @@ sites:
       - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
     editors:
-      - css_select: '#content .right'
+      - css_select: "#content .right"
       - css_remove: form, script, .img-left, a.news-more
       - html_url_canonicalize
       - html_markdownify
