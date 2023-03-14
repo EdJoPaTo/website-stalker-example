@@ -77,16 +77,6 @@ sites:
     editors:
       - css_select: body
       - html_markdownify
-  - url: https://opentalk.eu/de/news-presse
-    ignore_error: true
-    editors:
-      - rss:
-          title: OpenTalk
-          item_selector: .grid article
-          title_selector: h3
-          content_editors:
-            - css_select: article > div
-            - html_prettify
 
   - url:
       - https://www.netcup-sonderangebote.de/
