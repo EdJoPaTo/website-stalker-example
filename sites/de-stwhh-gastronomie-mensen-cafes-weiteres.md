@@ -244,12 +244,6 @@
 
  Sophie-Schoop-Weg  2 und 30  21035  Hamburg
 
- Bis auf weiteres geschlossen!
-
-### Café Canela ###
-
- Edmund-Siemers-Allee  1  20146  Hamburg
-
 ### Café CFEL ###
 
  Notkestraße  85  22607  Hamburg
@@ -327,7 +321,3 @@
 ### CampusCafé ###
 
  Von-Melle-Park  5  20146  Hamburg
-
-### Café Carl ###
-
- Von-Melle-Park  3  20146  Hamburg
