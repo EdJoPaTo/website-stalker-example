@@ -20,8 +20,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [04.03.2023 - 19.03.2023 RB41 Gleisbauarbeiten an zwei Wochenenden mit nächtlichen Ausfällen zwischen Rotenburg (W.) und Lauenbrück](https://www.der-metronom.de/baustellen/rb41-gleisbauarbeiten-an-zwei-wochenenden-mit-naechtlichen-ausfaellen-zwischen-rotenburg-w-und-lauenbrueck/)
 
-[06.03.2023 - 17.03.2023 RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
-
 [20.03.2023 - 27.03.2023 RE4/RB41 Fahrzeitenänderungen/nächtliche Teilausfälle zw. Rotenburg (W.) und Lauenbrück sowie Zeitumstellung auf Sommerzeit](https://www.der-metronom.de/baustellen/re4-rb41-fahrzeitenaenderungen-naechtliche-teilausfaelle-zw-rotenburg-w-und-lauenbrueck-sowie-zeitumstellung-auf-sommerzeit/)
 
 [30.03.2023 - 31.03.2023 RB41 nächtliche Fahrzeitänderungen 81945 und 81902](https://www.der-metronom.de/baustellen/rb41-naechtliche-fahrzeitaenderungen-81945-und-81902/)
