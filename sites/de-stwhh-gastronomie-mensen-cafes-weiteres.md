@@ -134,8 +134,6 @@
 
  Grindelallee  76  20146  Hamburg
 
- Vom 06. bis 17.03.2022 geschlossen!
-
 ### PizzaBar Harburg ###
 
  Denickestraße  22  21073  Hamburg
@@ -311,8 +309,6 @@
 ### Café-Shop Zahnrad ###
 
  Berliner Tor  21  20099  Hamburg
-
- Vom 06. bis 17.03.2023 geschlossen!
 
 ### Café ZessP ###
 
