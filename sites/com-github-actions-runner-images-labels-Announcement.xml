@@ -6,6 +6,17 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.19.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Edge Browser .deb how done?</title>
+			<link>https://github.com/actions/runner-images/issues/7306</link>
+			<pubDate>Sat, 18 Mar 2023 18:44:24 +0000</pubDate>
+			<content:encoded><![CDATA[#7306
+opened
+Mar 18, 2023
+by
+
+Wassssup-people]]></content:encoded>
+		</item>
+		<item>
 			<title>[All OSes] Go 1.17.x will be removed and 1.20.x set as default on April, 3</title>
 			<link>https://github.com/actions/runner-images/issues/7276</link>
 			<pubDate>Mon, 13 Mar 2023 16:28:17 +0000</pubDate>
