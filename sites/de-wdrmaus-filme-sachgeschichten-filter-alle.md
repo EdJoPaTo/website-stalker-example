@@ -1138,6 +1138,7 @@
 * [Wie sehen Tiere?](https://www.wdrmaus.de/filme/sachgeschichten/wie_sehen_tiere.php5)
 * [Wie wird man Prinzessin?](https://www.wdrmaus.de/filme/sachgeschichten/wie_wird_man_prinzessin.php5)
 * [Wildkräuter](https://www.wdrmaus.de/filme/sachgeschichten/wildkraeuter.php5)
+* [Wildschweine](https://www.wdrmaus.de/filme/sachgeschichten/wildschweine.php5)
 * [Wildwarnreflektoren](https://www.wdrmaus.de/filme/sachgeschichten/wildwarnreflektoren.php5)
 * [Willi gibt es wirklich](https://www.wdrmaus.de/filme/sachgeschichten/willi_gibt_es_wirklich.php5)
 * [Windenenergieanlage](https://www.wdrmaus.de/filme/sachgeschichten/windenenergieanlage.php5)
