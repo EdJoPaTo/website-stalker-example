@@ -242,6 +242,12 @@
 
  Sophie-Schoop-Weg  2 und 30  21035  Hamburg
 
+ Neueröffnung am 27.03.2023
+
+### Café Carl ###
+
+ Von-Melle-Park  3  20146  Hamburg
+
 ### Café CFEL ###
 
  Notkestraße  85  22607  Hamburg
