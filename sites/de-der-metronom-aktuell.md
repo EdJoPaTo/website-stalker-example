@@ -3,10 +3,10 @@ Aktuelle Meldungen
 
 ---
 
- Uelzen 22.03.2023 [EIL: Kampfmittelbeseitigung in Langenhagen Pferdeturm ----------](https://www.der-metronom.de/aktuell/eil-kampfmittelbeseitigung-in-langenhagen-pferdeturm/)
+ Uelzen 22.03.2023 [EIL: Kampfmittelbeseitigung in Langenhagen Pferdemarkt ----------](https://www.der-metronom.de/aktuell/eil-kampfmittelbeseitigung-in-langenhagen/)
 
 Moin liebe Fahrgäste,
-am heutigen Mittwoch, dem 22. März, kommt es in Langenhagen Pferdeturm zu einer Kampfmittelbeseitigung. Infolgedessen entfällt ab voraussichtlich 23:00 Uhr der Halt Langenhagen Mitte. Zug ME82844 (Hannover Hbf ab 22:48 Uhr)...
+am heutigen Mittwochabend, dem 22. März, kommt es in Langenhagen-Pferdemarkt zu einer Kampfmittelbeseitigung. Bei Bauarbeiten im Gewerbegebiet Langenhagen-Pferdemarkt wurde eine Bombe aus dem Zweiten Weltkrieg freigelegt,...
 
 ---
 
