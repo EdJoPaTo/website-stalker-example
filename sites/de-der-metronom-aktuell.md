@@ -3,13 +3,6 @@ Aktuelle Meldungen
 
 ---
 
- Uelzen 22.03.2023 [EIL: Kampfmittelbeseitigung in Langenhagen Pferdemarkt ----------](https://www.der-metronom.de/aktuell/eil-kampfmittelbeseitigung-in-langenhagen/)
-
-Moin liebe Fahrgäste,
-am heutigen Mittwochabend, dem 22. März, kommt es in Langenhagen-Pferdemarkt zu einer Kampfmittelbeseitigung. Bei Bauarbeiten im Gewerbegebiet Langenhagen-Pferdemarkt wurde eine Bombe aus dem Zweiten Weltkrieg freigelegt,...
-
----
-
  Uelzen 20.03.2023 [metronom nicht von den Streiks betroffen – wir fahren wie gewohnt ----------](https://www.der-metronom.de/aktuell/metronom-nicht-vom-streiks-betroffen---wir-fahren-wie-gewohnt/)
 
 Liebe Fahrgäste,
