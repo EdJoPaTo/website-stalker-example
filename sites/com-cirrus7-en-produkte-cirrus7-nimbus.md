@@ -193,7 +193,7 @@ cirrus nimbus
     2 Cores / 2 Threads, 3.4GHz, UHD 710
   * **Intel Pentium Gold G7400 (46W TDP)**
     2 Cores / 4 Threads, 3,7GHz, UHD 710
-  * **Intel Core i3-13100T (60W TDP)**
+  * **Intel Core i3-13100T (35W TDP)**
     4 Cores / 8 Thread, 2.5 – 4.2GHz, UHD 730
   * **Intel Core i5-13400T (35W TDP)**
     10 Cores / 16 Threads (6P-c + 4E-c), 1.3 – 4.4GHz, UHD 730
