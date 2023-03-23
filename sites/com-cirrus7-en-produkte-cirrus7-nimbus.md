@@ -394,7 +394,7 @@ cirrus nimbus
 
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
-  * **Ubuntu 22.10** “Kinetic Kudu”
+  * **Ubuntu 23.04** “Lunar Lobster”
   * **Linux Mint 21.1** “Vera”
   * **Windows 11 Home**
     original OEM Lizenz mit DVD
