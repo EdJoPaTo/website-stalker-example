@@ -3,7 +3,7 @@ Aktuelle Meldungen
 
 ---
 
- Uelzen 23.03.2023 [Sondermeldung zum bundesweiten Warnstreik der EVG & ver.di am Montag, dem 27. März 2023 ----------](https://www.der-metronom.de/aktuell/sondermeldung-zum-bundesweiten-warnstreik-der-evg-ver-di-am-montag-dem-27-maerz-2023/)
+ Uelzen 23.03.2023 [Sondermeldung zum bundesweiten Warnstreik der EVG & ver.di am Montag, den 27. März 2023 ----------](https://www.der-metronom.de/aktuell/sondermeldung-zum-bundesweiten-warnstreik-der-evg-ver-di-am-montag-dem-27-maerz-2023/)
 
 Die Gewerkschaften ver.di und EVG haben für Montag, den 27. März 2023 einen umfassenden Warnstreik angekündigt. Auch wenn metronom nicht direkt bestreikt wird, ist mit massiven Einschränkungen zu rechnen. Aktuell liegen noch keine Informationen...
 
