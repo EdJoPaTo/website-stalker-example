@@ -4,8 +4,6 @@
 
  3. OG
 
- Wegen des Warnstreiks im öffentlichen Dienst bleibt das Beratungszentrum Wohnen am Donnerstag, 23.03.2023, geschlossen.
-
 ### Beratungszentrum Wohnen – BeWo ###
 
  Grindelallee  9  20146  Hamburg
