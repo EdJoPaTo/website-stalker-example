@@ -28,8 +28,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[24.03.2023 RB31 Teilausfall zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-teilausfall-zwischen-hamburg-hbf-und-hamburg-harburg/)
-
 [25.03.2023 - 26.03.2023 RE2/RE3/RB31 Gleisbauarbeiten und Zeitumstellung auf Sommerzeit](https://www.der-metronom.de/baustellen/re2-re3-rb31-gleisbauarbeiten-und-zeitumstellung-auf-sommerzeit/)
 
 [30.03.2023 RE3/RB31 nächtlicher Teilausfall zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-teilausfall-zwischen-hamburg-hbf-und-hamburg-harburg/)
