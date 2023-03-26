@@ -395,6 +395,7 @@
 * [Haarkamm](https://www.wdrmaus.de/filme/sachgeschichten/haarkamm.php5)
 * [Händewaschen](https://www.wdrmaus.de/filme/sachgeschichten/haendewaschen.php5)
 * [Haferflocken](https://www.wdrmaus.de/filme/sachgeschichten/haferflocken.php5)
+* [Haifischhautfolie](https://www.wdrmaus.de/filme/sachgeschichten/haifischhautfolie.php5)
 * [Haltestellenanzeige](https://www.wdrmaus.de/filme/sachgeschichten/haltestellenanzeige.php5)
 * [Hammer](https://www.wdrmaus.de/filme/sachgeschichten/hammer.php5)
 * [Handwerker Walz](https://www.wdrmaus.de/filme/sachgeschichten/handwerker_walz.php5)
