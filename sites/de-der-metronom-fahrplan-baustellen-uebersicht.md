@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[20.03.2023 - 27.03.2023 RE4/RB41 (Update vom 21.03.): Fahrzeitenänderungen/nächtliche Teilausfälle zw. Rotenburg (W.) und Lauenbrück und zwischen Buchholz und Tostedt sowie Zeitumstellung auf Sommerzeit](https://www.der-metronom.de/baustellen/re4-rb41-fahrzeitenaenderungen-naechtliche-teilausfaelle-zw-rotenburg-w-und-lauenbrueck-sowie-zeitumstellung-auf-sommerzeit/)
-
 [28.03.2023 - 03.04.2023 RE4/RB41 Verlängerung Bauarbeiten Teilausfall zw. Tostedt und Buchholz (N.)](https://www.der-metronom.de/baustellen/re4-rb41-verlaengerung-bauarbeiten-teilausfall-zw-tostedt-und-buchholz-n/)
 
 [30.03.2023 - 31.03.2023 RB41 nächtliche Fahrzeitänderungen 81945 und 81902](https://www.der-metronom.de/baustellen/rb41-naechtliche-fahrzeitaenderungen-81945-und-81902/)
