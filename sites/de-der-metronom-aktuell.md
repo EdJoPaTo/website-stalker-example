@@ -3,7 +3,6 @@ Aktuelle Meldungen
 
 ---
 
- Uelzen 24.03.2023 [Großstreik am Montag, den 27. März 2023 - metronom und enno streiken nicht – dennoch sind Beeinträchtigungen zu erwarten ----------](https://www.der-metronom.de/aktuell/grossstreik-am-montag-den-27-maerz-2023-metronom-und-erixx-streiken-nicht---dennoch-sind-beeintraechtigungen-zu-erwarten/)
+27.03.2023 [Großstreik am Montag, dem 27. März 2023: metronom und erixx streiken nicht – Züge müssten trotzdem stehen bleiben ----------](https://www.der-metronom.de/aktuell/grossstreik-am-montag-dem-27-maerz-2023-metronom-und-erixx-streiken-nicht---zuege-muessten-trotzdem-stehen-bleiben/)
 
-(Uelzen, 24. März 2023). metronom und enno sind von den aktuellen EVG- und ver.di-Streikmaßnahmen nicht betroffen und fahren.
-Es ist jedoch davon auszugehen, dass ein Teil der Fahrdienstleiter:innen der DB Netz AG in den Stellwerken sowie das...
+(Celle/Uelzen/Lübeck, 27. März 2023). Obwohl das Personal von metronom und erixx nicht direkt von den aktuellen EVG- und ver.di-Streikmaßnahmen betroffen ist und selbst nicht streikt, können die Fahrten am Montagmorgen, dem 27. März, nicht...
