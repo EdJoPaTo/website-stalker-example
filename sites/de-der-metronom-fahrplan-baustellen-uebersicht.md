@@ -48,8 +48,6 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[22.03.2023 - 27.03.2023 RE2 Arbeiten an der Leit- und Sicherungstechnik sowie Kampfmittelbeseitigung](https://www.der-metronom.de/baustellen/re2-arbeiten-an-der-leit-und-sicherungstechnik-sowie-kampfmittelbeseitigung/)
-
 [27.03.2023 - 02.04.2023 RE2 nächtlicher Ersatzverkehr mit Bussen und Fahrzeitänderungen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen/)
 
 [05.04.2023 - 10.04.2023 RE2 Haltausfälle zwischen Hannover Hbf und Barnten sowie Zusatzhalte in Barnten](https://www.der-metronom.de/baustellen/re2-haltausfaelle-zwischen-hannover-hbf-und-barnten-sowie-zusatzhalte-in-barnten/)
