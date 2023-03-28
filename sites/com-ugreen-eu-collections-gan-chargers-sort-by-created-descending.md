@@ -1,10 +1,10 @@
 ### [UGREEN 65W USB C Charger US/UK/EU Plug for Travel](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-us-uk-eu-plug-for-travel) ###
 
-UGREEN 65W USB C Charger US/UK/EU Plug for Travel
+Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A 65W Max PPS：3.3-21V/3A USB-A 4.5V/5A, 5V/4.5A, 5V/3A, 9V/2A, 12V/1.5A 22.5W Max Fast Load Protocol USB-C: PD3.0, PPS,...
 
 ### [UGREEN Nexode USB C Charger 100W GaN Desktop Charger 4 Ports Laptop Adapter](https://eu.ugreen.com/products/ugreen-nexode-usb-c-charger-100w-gan-desktop-charger-4-ports-laptop-adapter) ###
 
-UGREEN Nexode USB C Charger 100W GaN Desktop Charger 4 Ports Laptop Adapter
+Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A, 9V/3A, 12V/3A,15V/3A, 20V/5A 100W Max; PPS：3.3-21V/5A USB-C3 5V/3A, 9V/2.5A, 12V/1.87A, PPS: 3.3-5.9V/3A 3.3-11V/2A USB-A 5V/3A, 9V/2A, 12V/1.5A, 10V/2.25A 22.5W Max Fast...
 
 ### [UGREEN 65W USB C Charger Nexode GaN 4-Port Fast Desktop Charger Power Adapter](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-nexode-gan-4-port-fast-desktop-charger-power-adapter) ###
 
