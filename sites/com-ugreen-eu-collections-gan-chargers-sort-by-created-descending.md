@@ -6,9 +6,7 @@ Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A
 
 Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A, 9V/3A, 12V/3A,15V/3A, 20V/5A 100W Max; PPS：3.3-21V/5A USB-C3 5V/3A, 9V/2.5A, 12V/1.87A, PPS: 3.3-5.9V/3A 3.3-11V/2A USB-A 5V/3A, 9V/2A, 12V/1.5A, 10V/2.25A 22.5W Max Fast...
 
-### [UGREEN 65W USB C Charger Nexode GaN 4-Port Fast Desktop Charger Power Adapter](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-nexode-gan-4-port-fast-desktop-charger-power-adapter) ###
-
-UGREEN 65W USB C Charger Nexode GaN 4-Port Fast Desktop Charger Power Adapter
+### [UGREEN Nexode 65W USB C GaN Table Charger](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-nexode-gan-4-port-fast-desktop-charger-power-adapter) ###
 
 ### [UGREEN 65W Power Strip DigiNest Cube GaN Extension Lead with USB C Slots](https://eu.ugreen.com/products/ugreen-65w-power-strip-diginest-cube-gan-extension-lead-with-usb-c-slots) ###
 
@@ -36,7 +34,7 @@ Ugreen Nexode 100W USB C Wall Charger - 2 Ports
 
 ### [Ugreen Nexode 100W USB C Wall Charger - 4 Ports](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger) ###
 
-No more tangled cables! A small and powerful charger solves all charging problems The USB C power supply can be max. 100 W charging power for 4 devices. For a...
+Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
 
 ### [Ugreen 100W 4-Port USB C Desktop Charger](https://eu.ugreen.com/products/ugreen-100w-usb-c-desktop-charger) ###
 
