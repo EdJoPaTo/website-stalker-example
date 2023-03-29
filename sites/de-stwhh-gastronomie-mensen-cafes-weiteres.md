@@ -10,8 +10,6 @@
 
  2. OG
 
- Mittwoch, 29.03.2023, fällt die telefonische Sprechzeit aus!
-
 ### Beratungszentrum Studienfinanzierung – BeSt ###
 
  Grindelallee  9  20146  Hamburg
