@@ -28,8 +28,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[30.03.2023 RE3/RB31 nächtlicher Teilausfall zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-teilausfall-zwischen-hamburg-hbf-und-hamburg-harburg/)
-
 [31.03.2023 - 02.04.2023 RB31 nächtliche Teilausfälle und Fahrzeitänderungen](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-und-fahrzeitaenderungen/)
 
 [02.04.2023 - 05.04.2023 RB31 nächtliche Haltausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ersatzverkehr-mit-bussen/)
