@@ -288,8 +288,6 @@
 
  Ohnhorststraße  18  22609  Hamburg
 
- Vom 29.11.2022 bis 02.04.2023 geschlossen!
-
 ### Café insgrüne Harburg ###
 
  Eißendorfer Straße  38  21073  Hamburg
