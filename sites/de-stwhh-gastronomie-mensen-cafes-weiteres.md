@@ -264,8 +264,6 @@
 
  Unnastraße  9  20253  Hamburg
 
- Das Café schließt aktuell bereits um 15 Uhr!
-
 ### Café Finkenau ###
 
  Finkenau  35  22081  Hamburg
