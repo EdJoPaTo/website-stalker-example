@@ -20,15 +20,11 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [28.03.2023 - 03.04.2023 RE4/RB41 Verlängerung Bauarbeiten Teilausfall zw. Tostedt und Buchholz (N.)](https://www.der-metronom.de/baustellen/re4-rb41-verlaengerung-bauarbeiten-teilausfall-zw-tostedt-und-buchholz-n/)
 
-[02.04.2023 RB31 und RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-und-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
-
 [04.04.2023 - 05.04.2023 RE4/RB41/RB31 Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re4-rb41-rb31-haltausfaelle/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [02.04.2023 - 05.04.2023 RB31 nächtliche Haltausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ersatzverkehr-mit-bussen/)
-
-[02.04.2023 RB31 und RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-und-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
 
 [04.04.2023 - 05.04.2023 RE4/RB41/RB31 Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re4-rb41-rb31-haltausfaelle/)
 
