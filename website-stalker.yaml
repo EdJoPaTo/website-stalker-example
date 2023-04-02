@@ -107,6 +107,15 @@ sites:
       - html_url_canonicalize
       - html_prettify
 
+  - url: https://www.hetzner.com/news/
+    editors:
+      - rss:
+          title: Hetzner News
+          item_selector: .list-card li
+          title_selector: h4
+          content_editors:
+            - css_select: p
+            - html_textify
   - url: https://docs.hetzner.com/robot/dedicated-server/operating-systems/standard-images/
     editors:
       - css_select: div.article
