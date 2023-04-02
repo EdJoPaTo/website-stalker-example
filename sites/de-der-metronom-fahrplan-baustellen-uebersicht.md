@@ -26,8 +26,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[31.03.2023 - 02.04.2023 RB31 nächtliche Teilausfälle und Fahrzeitänderungen](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-und-fahrzeitaenderungen/)
-
 [02.04.2023 - 05.04.2023 RB31 nächtliche Haltausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ersatzverkehr-mit-bussen/)
 
 [02.04.2023 RB31 und RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-und-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
@@ -38,7 +36,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[31.03.2023 - 02.04.2023 RB31 nächtliche Teilausfälle und Fahrzeitänderungen](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-und-fahrzeitaenderungen/)
+Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 RE2 Hannover - Northeim - Göttingen
 
