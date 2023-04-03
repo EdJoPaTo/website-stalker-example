@@ -34,6 +34,10 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [21.04.2023 RE3/RB31 nächtlicher Haltausfall in Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall-in-bardowick/)
 
+[23.04.2023 RB31 frühere Abfahrtszeiten 81603 ab Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-fruehere-abfahrtszeiten-81603-ab-hamburg-hbf/)
+
+[26.04.2023 - 28.04.2023 RB31 nächtlicher Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-ashausen-2/)
+
 RE2 Uelzen - Celle - Hannover
 
 Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
