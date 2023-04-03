@@ -27,16 +27,5 @@ by
 
 mikhailkoliada]]></content:encoded>
 		</item>
-		<item>
-			<title>The Ubuntu 18.04 Actions runner image will begin deprecation on 2022/08/08 and will be fully unsupported by 2023/04/03</title>
-			<link>https://github.com/actions/runner-images/issues/6002</link>
-			<pubDate>Tue, 02 Aug 2022 10:24:59 +0000</pubDate>
-			<content:encoded><![CDATA[#6002
-opened
-Aug 2, 2022
-by
-
-miketimofeev]]></content:encoded>
-		</item>
 	</channel>
 </rss>
