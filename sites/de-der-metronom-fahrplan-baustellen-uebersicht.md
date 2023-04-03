@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[28.03.2023 - 03.04.2023 RE4/RB41 Verlängerung Bauarbeiten Teilausfall zw. Tostedt und Buchholz (N.)](https://www.der-metronom.de/baustellen/re4-rb41-verlaengerung-bauarbeiten-teilausfall-zw-tostedt-und-buchholz-n/)
-
 [04.04.2023 - 05.04.2023 RE4/RB41/RB31 Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re4-rb41-rb31-haltausfaelle/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
