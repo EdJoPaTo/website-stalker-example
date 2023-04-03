@@ -32,6 +32,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [14.04.2023 - 16.04.2023 RE2/RE3/RB31 nächtliche Fahrzeitenänderungen zwischen Hannover Hbf und Uelzen in beiden Richtungen](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrzeitenaenderungen-zwischen-hannover-hbf-und-uelzen-in-beiden-richtungen/)
 
+[21.04.2023 RE3/RB31 nächtlicher Haltausfall in Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall-in-bardowick/)
+
 RE2 Uelzen - Celle - Hannover
 
 Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
