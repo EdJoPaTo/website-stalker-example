@@ -36,6 +36,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [26.04.2023 - 28.04.2023 RB31 nächtlicher Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-ashausen-2/)
 
+[29.04.2023 - 01.05.2023 RB31 nächtlicher Haltausfall 81642 in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-81642-in-ashausen/)
+
 RE2 Uelzen - Celle - Hannover
 
 Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
