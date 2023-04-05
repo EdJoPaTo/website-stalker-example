@@ -18,11 +18,9 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[04.04.2023 - 05.04.2023 RE4/RB41/RB31 Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re4-rb41-rb31-haltausfaelle/)
+Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
-
-[04.04.2023 - 05.04.2023 RE4/RB41/RB31 Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re4-rb41-rb31-haltausfaelle/)
 
 [06.04.2023 - 20.04.2023 RB31 nächtlicher Haltausfall in Meckelfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-meckelfeld-ersatzverkehr-mit-bussen/)
 
