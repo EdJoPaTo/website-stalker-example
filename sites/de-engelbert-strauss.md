@@ -1,4 +1,18 @@
-###  Neuer Stoff für neue Projekte  ###
+###  Legends in motion  ###
+
+---
+
+ FAST & FURIOUS
+X STRAUSS
+----------
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/fast-and-furious)
+
+[alle Produkte](https://www.engelbert-strauss.de/fast-furious-x-strauss/)
+
+###  Workwear mit Outdoor-Komfort  ###
 
 ---
 
@@ -11,21 +25,20 @@
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
 
-###  ULTRALEICHT MIT ZEHENSCHUTZ  ###
+###  neue Kollektion aus 100% Naturmaterial  ###
 
 ---
 
- Worker-
-Sneaker
+ e.s.Botanica
 ----------
 
 ---
 
-[Alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
+[mehr erfahren](https://www.engelbert-strauss.de/botanica)
 
-[SB Sicherheitshalbschuhe](https://www.engelbert-strauss.de/sicherheitsschuhe-sb/sb-sicherheitshalbschuhe-e-s-comoe-low-1003250-93337-1730.html?itemorigin=StartseiteFS23)
+[alle Produkte](https://www.engelbert-strauss.de/e-s-botanica/?sort=newest)
 
-###  ORDNUNG IM GEPÄCK  ###
+###  Neue Transportlösungen  ###
 
 ---
 
@@ -39,30 +52,22 @@ System
 
 [alle Produkte](https://www.engelbert-strauss.de/straussbox-system/)
 
+[e.s.trail Kollektion entdecken](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
+
  Weitere Neuheiten entdecken
 ---
 
 [alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
 
- Designed by nature
+ von der Ferse bis zur Spitze
 ---
 
- e.s.botanica
+ S1P-HIGHTECH MADE BY STRAUSS
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/botanica)
+[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-botanica/)
-
- Locker aus dem Handgelenk
----
-
- e.s.Tool concept
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
+[alle Schuhneuheiten](https://www.engelbert-strauss.de/neuheiten-schuhe/?sort=newest)
 
  Jetzt auch in Anthrazit
 ---
@@ -71,6 +76,30 @@ System
 ---
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-concrete/?sort=newest)
+
+ Locker aus dem Handgelenk
+---
+
+ e.s.tool concept
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
+
+ Handschuhe e.s.trail, light graphic
+---
+
+ STARKE FUNKTION IM SPORTLICHEN STYLE
+---
+
+[jetzt kaufen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-light-graphic-2101250-7620107-1740.html?amp;itemorigin=startseite_fs23)
+
+[Glove holder](https://www.engelbert-strauss.de/arbeitshandschuhe-sets/glove-holder-e-s-tool-concept-2300210-5505284-1.html?amp;itemorigin=startseite_fs23)
+
+[Tool leash](https://www.engelbert-strauss.de/e-s-tool-concept-herren/tool-leash-e-s-tool-concept-7071600-5505283-1.html?amp;itemorigin=startseite_fs23)
+
+\*kombinierbar mit Glove holder & Tool leash e.s.tool concept
 
  Endlich wieder da!
 ---
@@ -91,64 +120,10 @@ sommer
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
 
- Für wen darf es sein?
+ Coming soon
 ---
 
- Neuheiten für
----
-
- Herren
----
-
-[alle Produkte](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Herren/)
-
- Neuheiten für
----
-
- Damen
----
-
-[alle Produkte](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
-
- Neuheiten für
----
-
- Kinder
----
-
-[alle Produkte](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Kinder/)
-
- finde, was zu
-dir passt
-----------
-
----
-
-###  Jackenfinder  ###
-
----
-
- Zur perfekten Arbeitsjacke in nur 3 Schritten
-
-###  Hosenfinder  ###
-
----
-
- finde, was zu
-dir passt
-----------
-
----
-
-###  Jackenfinder  ###
-
----
-
-###  Hosenfinder  ###
-
----
-
- Der Hosenfinder ermittelt schnell für Sie passende Hosen
+[jetzt entdecken](https://www.engelbert-strauss.de/supermario)
 
  Nach Kategorie shoppen
 ---
