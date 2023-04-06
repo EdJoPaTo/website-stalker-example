@@ -18,7 +18,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[03.05.2023 RE3/RB31 und RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
@@ -35,6 +35,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [26.04.2023 - 28.04.2023 RB31 nächtlicher Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-ashausen-2/)
 
 [29.04.2023 - 01.05.2023 RB31 nächtlicher Haltausfall 81642 in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-81642-in-ashausen/)
+
+[03.05.2023 RE3/RB31 und RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 RE2 Uelzen - Celle - Hannover
 
