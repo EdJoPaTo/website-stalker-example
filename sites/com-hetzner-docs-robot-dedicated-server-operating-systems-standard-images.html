@@ -2,21 +2,17 @@
 	<head>
 	</head>
 	<body>
-		<div class="article position-relative">
-			<h1 class="font-family-merriweather mb-1 mt-3 text-transform-none">
+		<div>
+			<h1>
 				Standard images
 			</h1>
-			<small class="d-block font-weight-bold mb-5 text-gray-600">
-				Last change on 2023-02-22 •
-				<!-- -->
-				Created on 2020-05-18
-				<!-- -->
-				• ID: RO-5DF50
+			<small>
+				Last change on 2023-02-22 • Created on 2020-05-18 • ID: RO-5DF50
 			</small>
 			<article>
 				<p>
 					You can use the the
-					<a href="/robot/dedicated-server/operating-systems/installimage">
+					<a href="/robot/dedicated-server/operating-systems/installimage" rel="noopener noreferrer">
 						installimage
 					</a>
 					script to install the following operating systems:
@@ -120,31 +116,31 @@
 				</p>
 				<p>
 					The
-					<a href="http://en.wikipedia.org/wiki/LAMP_(software_bundle)" rel="nofollow noopener noreferrer" target="_blank">
+					<a href="http://en.wikipedia.org/wiki/LAMP_(software_bundle)" rel="noopener noreferrer">
 						LAMP
 					</a>
 					images contain "Linux, Apache, MySQL and PHP".
 				</p>
 				<p>
 					You can find more information on how to install these operating systems on your server on
-					<a href="/robot/dedicated-server/operating-systems/installimage">
+					<a href="/robot/dedicated-server/operating-systems/installimage" rel="noopener noreferrer">
 						this page
 					</a>
 					.
 				</p>
-				<h2 id="what-changes-are-made-to-the-distributions" style="position: relative;">
+				<h2>
 					What changes are made to the distributions?
 				</h2>
 				<p>
 					Our standard images generally contain no additional or modified drivers or other software (eg. for RAID controllers). Our support teams update the images regularly.
 				</p>
-				<h3 id="software" style="position: relative;">
+				<h3>
 					Software
 				</h3>
 				<p>
 					Each image contains software for all available installation options (software RAID and LVM) and file systems (ext2/3/4, reiserfs, xfs).
 				</p>
-				<h3 id="boot-loader" style="position: relative;">
+				<h3>
 					Boot loader
 				</h3>
 				<p>
@@ -157,25 +153,25 @@
 					</code>
 					.
 				</p>
-				<h3 id="network" style="position: relative;">
+				<h3>
 					Network
 				</h3>
 				<p>
 					The network configuration is pre-configured so that there are no restrictions. No firewall is enabled by default, but we recommend our users enable one as part of their system setup.
 				</p>
-				<h3 id="drivesraid" style="position: relative;">
+				<h3>
 					Drives/RAID
 				</h3>
 				<p>
 					If software RAID is used, the RAID verification is set to a random time.
 				</p>
-				<h3 id="time-ntpchronysystemd-timesyncd" style="position: relative;">
+				<h3>
 					Time (NTP/Chrony/systemd-timesyncd)
 				</h3>
 				<p>
 					The configuration is adjusted so that the Hetzner NTP servers are used. The preference is to use systemd-timesyncd if available, as it provides a strict client mode.
 				</p>
-				<h3 id="package-repositories" style="position: relative;">
+				<h3>
 					Package repositories
 				</h3>
 				<p>

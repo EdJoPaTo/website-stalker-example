@@ -100,11 +100,13 @@ sites:
       - css_remove: img, .main-navigation-wrapper
       - css_select: main > .container
       - html_url_canonicalize
+      - html_sanitize
       - html_prettify
   - url: https://www.netcup.de/vserver/vserver-images.php
     editors:
       - css_select: table
       - html_url_canonicalize
+      - html_sanitize
       - html_prettify
 
   - url: https://www.hetzner.com/news/
@@ -115,11 +117,13 @@ sites:
           title_selector: h4
           content_editors:
             - css_select: p
-            - html_textify
+            - html_sanitize
+            - html_prettify
   - url: https://docs.hetzner.com/robot/dedicated-server/operating-systems/standard-images/
     editors:
       - css_select: div.article
       - css_remove: svg, a[href^="#"]
+      - html_sanitize
       - html_prettify
 
   - url: https://www.wdrmaus.de/extras/
