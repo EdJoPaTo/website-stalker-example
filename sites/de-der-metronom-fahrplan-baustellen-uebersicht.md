@@ -46,8 +46,6 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[05.04.2023 - 10.04.2023 RE2 Haltausfälle zwischen Hannover Hbf und Barnten sowie Zusatzhalte in Barnten](https://www.der-metronom.de/baustellen/re2-haltausfaelle-zwischen-hannover-hbf-und-barnten-sowie-zusatzhalte-in-barnten/)
-
 [14.04.2023 - 16.04.2023 RE2/RE3/RB31 nächtliche Fahrzeitenänderungen zwischen Hannover Hbf und Uelzen in beiden Richtungen](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrzeitenaenderungen-zwischen-hannover-hbf-und-uelzen-in-beiden-richtungen/)
 
 Dein persönlicher Baustellen-Newsletter
