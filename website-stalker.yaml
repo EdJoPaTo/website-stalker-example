@@ -198,3 +198,26 @@ sites:
           pattern: <div class="tx-epwerkbuilding-list-headline">[\s\n]*(.+)[\s\n]*</div>
           replace: <h3>$1</h3>
       - html_markdownify
+
+  - url: https://www.evehome.com/en/blog
+    editors:
+      - rss:
+          item_selector: .blog-post-teaser
+          title_selector: .title
+          content_editors:
+            - css_select: body > div > div > *
+            - css_remove: img, .title, .text-btn, .read-more-btn
+            - html_textify
+  - url:
+      - https://www.evehome.com/en/matter
+      - https://www.evehome.com/en/thread
+    editors:
+      - css_select: article .content
+      - css_remove: img
+      - html_markdownify
+
+  - url: https://www.shelly.cloud/de/products/product-overview#unfiltered
+    editors:
+      - css_select: .product-box__info
+      - css_remove: .product-box__excl-tax
+      - html_markdownify
