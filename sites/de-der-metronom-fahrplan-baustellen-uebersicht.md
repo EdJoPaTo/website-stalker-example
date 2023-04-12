@@ -20,6 +20,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [03.05.2023 RE3/RB31 und RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
+[05.05.2023 - 12.05.2023 RE3/RB31 und RE4/RB41: Zugausfälle wegen Brückenbauarbeiten und Weichenerneuerung](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-zugausfaelle-wegen-brueckenbauarbeiten-und-weichenerneuerung/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [06.04.2023 - 20.04.2023 RB31 nächtlicher Haltausfall in Meckelfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-meckelfeld-ersatzverkehr-mit-bussen/)
@@ -39,6 +41,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [03.05.2023 RE3/RB31 und RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 [04.05.2023 - 05.05.2023 RE3/RB31 nächtliche Haltausfälle in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-in-ashausen/)
+
+[05.05.2023 - 12.05.2023 RE3/RB31 und RE4/RB41: Zugausfälle wegen Brückenbauarbeiten und Weichenerneuerung](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-zugausfaelle-wegen-brueckenbauarbeiten-und-weichenerneuerung/)
 
 RE2 Uelzen - Celle - Hannover
 
