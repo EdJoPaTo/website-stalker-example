@@ -6,6 +6,24 @@
 		<description></description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Upgrade to the future: The new AX102 Dedicated Server with AMD Ryzen™ 9 7950X3D</title>
+			<link>https://www.hetzner.com/news/new-amd-ryzen-7950-server/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				13. April 2023
+			</small>
+		</p>
+		<p>
+			The new AX102 Dedicated Server is the shiny two-sided coin in our collection.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Rethink your cloud. Rely on our new arm64 CAX servers</title>
 			<link>https://www.hetzner.com/news/arm64-cloud/</link>
 			<content:encoded><![CDATA[<html>
@@ -166,24 +184,6 @@ When you create a cloud server, it will no longer automatically include public I
 		</p>
 		<p>
 			We want to help you grow this spring. You can now get a Hetzner dedicated root server with an AMD Ryzen™ CPU and skip the setup fees.
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Maximize performance and minimize admin overhead: The new Hetzner managed servers</title>
-			<link>https://www.hetzner.com/news/02-22-managed-server/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				21. February 2022
-			</small>
-		</p>
-		<p>
-			Enjoy the powerful performance of two new models and put the responsibility for server administration and maintenance in our hands, letting you relax and focus on your business.
 		</p>
 	</body>
 </html>]]></content:encoded>
