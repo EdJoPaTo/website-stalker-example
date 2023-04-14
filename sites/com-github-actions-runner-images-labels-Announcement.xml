@@ -16,16 +16,5 @@ by
 
 mikhailkoliada]]></content:encoded>
 		</item>
-		<item>
-			<title>GraalVM JDK11 will be removed from agents on April 10, 2023</title>
-			<link>https://github.com/actions/runner-images/issues/7338</link>
-			<pubDate>Sat, 25 Mar 2023 09:05:09 +0000</pubDate>
-			<content:encoded><![CDATA[#7338
-opened
-Mar 25, 2023
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
 	</channel>
 </rss>
