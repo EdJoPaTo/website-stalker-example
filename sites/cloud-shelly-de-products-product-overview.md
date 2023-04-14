@@ -253,3 +253,7 @@
 [Shelly Polo T-Shirt - SIZE S](/de/products/product-overview/shelly-polo-t-shirt-size-s)
 
 16,66 €
+
+[Temperature Sensor DS18B20 3.0m cable](/de/products/product-overview/sw10050-1)
+
+5,90 €
