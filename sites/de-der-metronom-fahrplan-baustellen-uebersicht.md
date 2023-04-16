@@ -26,6 +26,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [13.05.2023 - 21.05.2023 RE3/RB31 + RE4/RB41: Arbeiten an der Leit- und Sicherungstechnik](https://www.der-metronom.de/baustellen/re3-rb31-re4-rb41-arbeiten-an-der-leit-und-sicherungstechnik/)
 
+[15.05.2023 - 16.05.2023 RB31/RB41: Geänderte Fahrtzeiten von Zug ME81645 und ME81902](https://www.der-metronom.de/baustellen/rb31-rb41-geaenderte-fahrtzeiten-von-zug-me81645-und-me81902/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [06.04.2023 - 20.04.2023 RB31 nächtlicher Haltausfall in Meckelfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-meckelfeld-ersatzverkehr-mit-bussen/)
@@ -52,15 +54,21 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [13.05.2023 - 21.05.2023 RE3/RB31 + RE4/RB41: Arbeiten an der Leit- und Sicherungstechnik](https://www.der-metronom.de/baustellen/re3-rb31-re4-rb41-arbeiten-an-der-leit-und-sicherungstechnik/)
 
+[15.05.2023 - 16.05.2023 RB31/RB41: Geänderte Fahrtzeiten von Zug ME81645 und ME81902](https://www.der-metronom.de/baustellen/rb31-rb41-geaenderte-fahrtzeiten-von-zug-me81645-und-me81902/)
+
+[22.05.2023 - 25.05.2023 RE2 und RB31: Fahrtzeitveränderung bei einigen Verbindungen](https://www.der-metronom.de/baustellen/re2-und-rb31-fahrtzeitveraenderung-bei-einigen-verbindungen/)
+
 RE2 Uelzen - Celle - Hannover
 
 [06.05.2023 - 07.05.2023 RE2/RB31 nächtliche Fahrzeitveränderungen](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-fahrzeitveraenderungen/)
 
 [13.05.2023 - 14.05.2023 RE2/RB31: Zug ME81647 entfällt zwischen Suderburg und Eschede](https://www.der-metronom.de/baustellen/re2-rb31-zug-me81647-entfaellt-zwischen-suderburg-und-eschede/)
 
+[22.05.2023 - 25.05.2023 RE2 und RB31: Fahrtzeitveränderung bei einigen Verbindungen](https://www.der-metronom.de/baustellen/re2-und-rb31-fahrtzeitveraenderung-bei-einigen-verbindungen/)
+
 RE2 Hannover - Northeim - Göttingen
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[21.05.2023 - 22.05.2023 RE2: Zusätzlicher Halt einiger Zugverbindungen in Barnten](https://www.der-metronom.de/baustellen/re2-zusaetzlicher-halt-einiger-zugverbindungen-in-barnten/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
