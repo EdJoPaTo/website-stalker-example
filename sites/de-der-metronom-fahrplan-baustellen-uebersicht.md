@@ -28,8 +28,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [06.04.2023 - 20.04.2023 RB31 nächtlicher Haltausfall in Meckelfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-meckelfeld-ersatzverkehr-mit-bussen/)
 
-[14.04.2023 - 16.04.2023 RE2/RE3/RB31 nächtliche Fahrzeitenänderungen zwischen Hannover Hbf und Uelzen in beiden Richtungen](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrzeitenaenderungen-zwischen-hannover-hbf-und-uelzen-in-beiden-richtungen/)
-
 [18.04.2023 - 19.04.2023 RE3/RB31 Teilausfälle 81607 und 82104](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-81607-und-82104/)
 
 [21.04.2023 RE3/RB31 nächtlicher Haltausfall in Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall-in-bardowick/)
@@ -58,7 +56,7 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[14.04.2023 - 16.04.2023 RE2/RE3/RB31 nächtliche Fahrzeitenänderungen zwischen Hannover Hbf und Uelzen in beiden Richtungen](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-fahrzeitenaenderungen-zwischen-hannover-hbf-und-uelzen-in-beiden-richtungen/)
+Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 Dein persönlicher Baustellen-Newsletter
 ----------
