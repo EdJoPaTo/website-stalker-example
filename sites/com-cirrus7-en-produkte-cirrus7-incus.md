@@ -142,7 +142,7 @@ cirrus incus
 
   * NoneHard disk 2.5″ 1TB (59,00 €)Hard disk 2.5″ 2TB (99,00 €)Hard disk 2.5″ 4TB (149,00 €)Hard disk 2.5″ 5TB (199,00 €)
 
-  * NoneSamsung SSD 870 QVO 1TB (119,00 €)Samsung SSD 870 QVO 2TB (199,00 €)Samsung SSD 870 QVO 4TB (389,00 €)Samsung SSD 870 QVO 8TB (759,00 €)Samsung SSD 870 EVO 250GB (79,00 €)Samsung SSD 870 EVO 500GB (99,00 €)Samsung SSD 870 EVO 1TB (159,00 €)Samsung SSD 870 EVO 2TB (269,00 €)Samsung SSD 870 EVO 4TB (499,00 €)
+  * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
   SATA Slot 2
 
@@ -153,7 +153,7 @@ cirrus incus
 
   * NoneHard disk 2.5″ 1TB (59,00 €)Hard disk 2.5″ 2TB (99,00 €)Hard disk 2.5″ 4TB (149,00 €)Hard disk 2.5″ 5TB (199,00 €)
 
-  * NoneSamsung SSD 870 QVO 1TB (119,00 €)Samsung SSD 870 QVO 2TB (199,00 €)Samsung SSD 870 QVO 4TB (389,00 €)Samsung SSD 870 QVO 8TB (759,00 €)Samsung SSD 870 EVO 250GB (79,00 €)Samsung SSD 870 EVO 500GB (99,00 €)Samsung SSD 870 EVO 1TB (159,00 €)Samsung SSD 870 EVO 2TB (269,00 €)Samsung SSD 870 EVO 4TB (499,00 €)
+  * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
   ##### WiFi / Bluetooth #####
 
