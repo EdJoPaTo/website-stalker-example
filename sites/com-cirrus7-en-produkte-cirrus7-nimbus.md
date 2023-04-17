@@ -22,8 +22,8 @@ cirrus nimbus
     H610 Chipsatz – business mainboard
   * **ASRock H670M-ITX (DDR4)**
     H670 Chipsatz – Mini ITX
-  * **ASUS ROG Strix B660-I (DDR5)**
-    B660 Chipsatz – Mini ITX
+  * **ASUS ROG Strix B760-I (DDR5)**
+    B760 Chipsatz – Mini ITX
   * **ASRock Z690M-ITX (DDR4)**
     Z690 Chipsatz – Mini ITX
   * **ASRock Z790M-ITX (DDR5)**
@@ -43,7 +43,7 @@ cirrus nimbus
   **ASRock Z790M-ITX rear ports:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 4x USB-A 3.2, 1x USB-C 3.2, 1x USB-A 2.0, 2x Audio Stereo, 1x Toslink
 
-  **ASUS ROG Strix B660-I rear ports:**
+  **ASUS ROG Strix B760-I rear ports:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x USB-C 3.2, 3x USB-A 3.1, 1x USB-C 3.1, 3x USB-A 2.0, 5x Audio Stereo
 
   **ASRock Z690M-ITX rear ports:**
