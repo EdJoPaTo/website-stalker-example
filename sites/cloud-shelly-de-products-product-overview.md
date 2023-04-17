@@ -6,7 +6,7 @@
 
 14,90 €
 
-[Shelly Plus 2PM](/de/products/product-overview/splus2pm-3)
+[Shelly Plus 2PM](/de/products/product-overview/shelly-plus-2-pm)
 
 25,90 €
 
