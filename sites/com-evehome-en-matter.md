@@ -102,11 +102,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Coming soon
+ Shop now
 
  Your choice
 
-[ Coming soon ]()
+[ Shop now ]()
 
  incl. VAT, plus shipping
 
@@ -155,11 +155,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Coming soon
+ Shop now
 
  Your choice
 
-[ Coming soon ]()
+[ Shop now ]()
 
  incl. VAT, plus shipping
 
@@ -171,7 +171,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Your choice
 
- Available April 17
+ Currently not available
 
  Buy from our partners
 
@@ -328,11 +328,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Coming soon
+ Shop now
 
  Your choice
 
-[ Coming soon ]()
+[ Shop now ]()
 
  incl. VAT, plus shipping
 
@@ -381,11 +381,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Coming soon
+ Shop now
 
  Your choice
 
-[ Coming soon ]()
+[ Shop now ]()
 
  incl. VAT, plus shipping
 
@@ -397,7 +397,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Your choice
 
- Available April 17
+ Currently not available
 
  Buy from our partners
 
