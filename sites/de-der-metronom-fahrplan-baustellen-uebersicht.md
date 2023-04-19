@@ -30,8 +30,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[06.04.2023 - 20.04.2023 RB31 nächtlicher Haltausfall in Meckelfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-meckelfeld-ersatzverkehr-mit-bussen/)
-
 [21.04.2023 RE3/RB31 nächtlicher Haltausfall in Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall-in-bardowick/)
 
 [23.04.2023 RB31 frühere Abfahrtszeiten 81603 ab Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-fruehere-abfahrtszeiten-81603-ab-hamburg-hbf/)
