@@ -90,10 +90,6 @@
 
 22,90 €
 
-[Shelly Plus Smoke](/de/products/product-overview/shelly-plus-smoke)
-
-44,90 €
-
 [Shelly Plus H&T](/de/products/product-overview/shelly-plus-h-t)
 
 29,90 €
