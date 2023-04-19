@@ -254,6 +254,6 @@
 
 16,66 €
 
-[Temperature Sensor DS18B20 3.0m cable](/de/products/product-overview/sw10050-1)
+[Temperature Sensor DS18B20 3.0m cable](/de/products/product-overview/temperature-sensor-ds-18-b20-3-0m-cable)
 
 5,90 €

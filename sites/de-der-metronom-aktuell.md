@@ -6,8 +6,7 @@ Aktuelle Meldungen
 19.04.2023 [Wir streiken nicht! ----------](https://www.der-metronom.de/aktuell/wir-streiken-nicht-2/)
 
 Liebe Fahrgäste,
-wir sind von den aktuell angekündigten EVG-Streikmaßnahmen am 21. April 2023 nicht betroffen und fahren. Durch den Streik kann es aber auch auf unseren Strecken eventuell zu Verzögerungen/Verspätungen kommen.
-Euer metronom Team
+wir sind von den aktuell angekündigten EVG-Streikmaßnahmen am Freitag, den 21. April 2023 nicht betroffen und fahren. Durch den Streik kann es jedoch von Verzögerungen, über Verspätungen und Ausfällen bis hin zur Einstellung...
 
 ---
 
