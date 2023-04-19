@@ -10,8 +10,6 @@
 
  2. OG
 
- Am Mittwoch, 19.04.2023, entfällt die telefonische Sprechzeit.
-
 ### Beratungszentrum Studienfinanzierung – BeSt ###
 
  Grindelallee  9  20146  Hamburg
