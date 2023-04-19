@@ -250,6 +250,15 @@ cirrus incus
   * None
   * VESA wall and screen bracket
 
+  ##### Warranty #####
+
+  Warranty options.
+
+  * **3 years pickup and return**
+    30 days return policy
+  * **5 years pickup and return**
+    45 days return policy
+
   ##### Comment #####
 
   We also try to fulfill your special requests.

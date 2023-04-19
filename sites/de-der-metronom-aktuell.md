@@ -3,10 +3,9 @@ Aktuelle Meldungen
 
 ---
 
-19.04.2023 [Wir streiken nicht! ----------](https://www.der-metronom.de/aktuell/wir-streiken-nicht-2/)
+ Uelzen 19.04.2023 [EVG-Streik am Freitag, den 21. April 2023 zwischen 03:00 und 11:00 Uhr: metronom und enno streiken nicht – Züge müssen in der Zeit wahrscheinlich trotzdem stehen bleiben ----------](https://www.der-metronom.de/aktuell/evg-streik-am-freitag-den-21.-april-2023)
 
-Liebe Fahrgäste,
-wir sind von den aktuell angekündigten EVG-Streikmaßnahmen am Freitag, den 21. April 2023 nicht betroffen und fahren. Durch den Streik kann es jedoch von Verzögerungen, über Verspätungen und Ausfällen bis hin zur Einstellung...
+(Uelzen, 19. April 2023). Obwohl das Fahrpersonal von metronom und enno nicht direkt von den aktuellen Eisenbahn- und Verkehrsgewerkschaft (EVG)-Streikmaßnahmen betroffen ist, werden weitreichende Einschränkungen für die Fahrten am Freitag, des...
 
 ---
 
