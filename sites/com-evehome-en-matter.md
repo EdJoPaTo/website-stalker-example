@@ -218,7 +218,7 @@ If you want to connect your Eve device to an additional platform, you need a hub
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
-If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/identify-your-eve-accessory)in the past, and want to leverage Matter to use your Eve devices from an additional platform, you're eligible for a free firmware upgrade. Upgrades will be available soon, starting with these Thread-enabled Eve devices:
+If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/identify-your-eve-accessory)in the past, and want to leverage Matter to use your Eve devices from an additional platform, you're eligible for a free firmware upgrade. Upgrades are now available for theseThread-enabled Eve devices:
 
 * Eve Energy (Australia, Europe, U.K., U.S. & Canada)
 * Eve Door & Window
