@@ -3,11 +3,10 @@ Aktuelle Meldungen
 
 ---
 
- Uelzen 19.04.2023 [EVG-Streik am Freitag, den 21. April 2023 zwischen 03:00 und 11:00 Uhr: metronom und enno streiken nicht – Züge müssen in der Zeit wahrscheinlich trotzdem stehen bleiben ----------](https://www.der-metronom.de/aktuell/evg-streik-am-freitag-den-21.-april-2023)
+ Uelzen 19.04.2023 [EVG-Streik am Freitag, den 21. April 2023: Zugverkehr läuft langsam wieder an ----------](https://www.der-metronom.de/aktuell/evg-streik-am-freitag-den-21.-april-2023)
 
-\+++UPDATE vom 20. April 2023+++
-Der Busnotverkehr konnte mit einer sehr geringen Kapazität beauftragt werden. Die Busse fahren mit allen Unterwegshalten, jedoch ohne festen Fahrplan.
-Der Busnotverkehr beginnt ab 04:00 Uhr auf folgenden...
+Durch die Auswirkungen kann es weiterhin zu (Teil-)Ausfällen und verspäteten Abfahrten kommen. Informiert euch vor Fahrtantritt und plant mehr Zeit ein
+Bitte erkundigt euch in den elektronischen Fahrplanauskünften auf unserer Website oder in...
 
 ---
 
