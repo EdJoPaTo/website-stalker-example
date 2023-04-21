@@ -1,3 +1,7 @@
+[Shelly BLU Button1](/de/products/product-overview/shelly-blu-button1)
+
+14,90 €
+
 [Shelly Plus 1PM](/de/products/product-overview/2xspl1pm/shelly-plus-1-pm)
 
 16,90 €
@@ -209,10 +213,6 @@
 [Temperature Sensor DS18B20](/de/products/product-overview/ds18b20x1)
 
 4,90 €
-
-[Shelly BLU Button1](/de/products/product-overview/btnblu-wh)
-
-14,90 €
 
 [Shelly 1 + Shelly Button White](/de/products/product-overview/shelly-1-shelly-button-white)
 
