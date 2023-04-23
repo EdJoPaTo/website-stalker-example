@@ -24,10 +24,6 @@ Ugreen Nexode Mini 45W Dual USB C Charger
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
 
-### [Ugreen 65W USB C PD Charger - 4 Ports](https://eu.ugreen.com/products/ugreen-65w-usb-c-pd-charger-4-ports) ###
-
-Universal CompatibilityThis 65W Charger is Compatible with Macbook Pro, MacBook Air, iPad Pro , iPad Air, iPad Mini 6, iPhone 14/13/12/11; Dell XPS 13, Inspiron 3793; ASUS Zenbook S UX391;...
-
 ### [Ugreen Nexode 100W USB C Wall Charger - 2 Ports](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger-2-ports) ###
 
 Ugreen Nexode 100W USB C Wall Charger - 2 Ports
