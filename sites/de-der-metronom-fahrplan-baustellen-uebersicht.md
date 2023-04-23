@@ -30,8 +30,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[23.04.2023 RB31 frühere Abfahrtszeiten 81603 ab Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-fruehere-abfahrtszeiten-81603-ab-hamburg-hbf/)
-
 [24.04.2023 - 28.04.2023 RE3/RB31 und RE4/RB41: Zug- und Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-zug-und-haltausfaelle/)
 
 [26.04.2023 - 28.04.2023 RB31 nächtlicher Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-ashausen-2/)
