@@ -1,4 +1,4 @@
-### [Ugreen 20W USB C to Lightning Cable.](https://eu.ugreen.com/products/ugreen-20w-usb-c-to-lightning-cable-%E7%9A%84%E5%89%AF%E6%9C%AC) ###
+### [Ugreen 20W USB C to Lightning Cable.](https://eu.ugreen.com/products/ugreen-20w-usb-c-to-lightning-cable) ###
 
 PD Fast ChargingUgreen USB C to Lightning Cable delivers full-speed fast charging to your Power Delivery enabled lightning devices, which only takes 30 mins to juice iPhone 13 Mini up...
 
