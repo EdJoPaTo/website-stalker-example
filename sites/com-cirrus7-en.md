@@ -54,7 +54,7 @@ incl. VAT and shipping (within Germany)
 
 The little one with size.
 
-based on Intel® NUC7 / NUC8 / NUC10
+based on Intel® NUC7 / NUC12
 
 up to 64 GB RAM
 
@@ -62,7 +62,7 @@ up to 2x SSDs / HDDs
 
 silent / fanless
 
-* based on Intel® NUC7 / NUC8 / NUC10
+* based on Intel® NUC7 / NUC12
 
 * up to 64 GB RAM
 
