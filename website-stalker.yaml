@@ -187,6 +187,7 @@ sites:
   - url:
       - https://www.cirrus7.com/en/produkte/cirrus7-nimbus/
       - https://www.cirrus7.com/en/produkte/cirrus7-incus/
+      - https://www.cirrus7.com/en/produkte/cirrus7-nimbini/
     editors:
       - css_select: .entry-content
       - css_remove: img, sup, iframe
