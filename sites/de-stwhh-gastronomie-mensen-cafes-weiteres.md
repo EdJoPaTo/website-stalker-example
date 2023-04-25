@@ -94,10 +94,6 @@
 
  Spannskamp  26  22527  Hamburg
 
-### CampusNest Harburg ###
-
- Kasernenstraße  10  21073  Hamburg
-
 ### Mensa Finkenau ###
 
  Finkenau  35  22081  Hamburg
