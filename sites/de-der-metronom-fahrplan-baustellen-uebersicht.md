@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[24.04.2023 - 28.04.2023 RE3/RB31 und RE4/RB41: Zug- und Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-zug-und-haltausfaelle/)
-
 [03.05.2023 RE3/RB31 und RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 [05.05.2023 - 12.05.2023 RE3/RB31 und RE4/RB41: Zugausfälle wegen Brückenbauarbeiten und Weichenerneuerung](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-zugausfaelle-wegen-brueckenbauarbeiten-und-weichenerneuerung/)
@@ -29,8 +27,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 [15.05.2023 - 16.05.2023 RB31/RB41: Geänderte Fahrtzeiten von Zug ME81645 und ME81902](https://www.der-metronom.de/baustellen/rb31-rb41-geaenderte-fahrtzeiten-von-zug-me81645-und-me81902/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
-
-[24.04.2023 - 28.04.2023 RE3/RB31 und RE4/RB41: Zug- und Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-zug-und-haltausfaelle/)
 
 [29.04.2023 - 01.05.2023 RB31 nächtlicher Haltausfall 81642 in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-81642-in-ashausen/)
 
