@@ -118,7 +118,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Your choice
 
- Available April 17
+ Out of stock
 
  Buy from our partners
 
@@ -344,7 +344,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Your choice
 
- Available April 17
+ Out of stock
 
  Buy from our partners
 
