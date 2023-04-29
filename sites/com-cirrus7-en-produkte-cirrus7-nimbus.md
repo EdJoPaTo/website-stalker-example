@@ -20,6 +20,8 @@ cirrus nimbus
 
   * **ASUS Pro H610T (DDR4)**
     H610 Chipsatz – business mainboard
+  * **Mitac PH12ADI (DDR5 SO-DIMM)**
+    H610 Chipsatz – industrial mainboard
   * **ASRock H670M-ITX (DDR4)**
     H670 Chipsatz – Mini ITX
   * **ASUS ROG Strix B760-I (DDR5)**
@@ -36,6 +38,9 @@ cirrus nimbus
 
   **ASUS Pro H610T rear ports:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
+
+  **Mitac PH12ADI rear ports:**
+  1x DisplayPort 1.2 (4K@60Hz), 1x HDMI 1.4b (4K@30Hz), 1x 1GB Ethernet (Intel I219-LM), 1x 2.5GB Ethernet (Intel I225V), 4x USB-A 3.2 Gen1, 2x Audio Stereo
 
   **ASRock H670M-ITX rear ports:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 2x USB-A 3.2, 1x USB-C 3.2, 4x USB-A 2.0, 3x Audio Stereo
@@ -79,10 +84,13 @@ cirrus nimbus
     Front-panel additional port
 
   * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **2x USB-A 3.1**
     Front-panel optional ports
 
   * **1x USB-C 3.2**
-    Front-panel additional port
+    Frontpanel optionale Port
 
   * **2x USB-A 3.1**
     Front-panel optional ports
@@ -193,7 +201,7 @@ cirrus nimbus
     2 Cores / 2 Threads, 3.4GHz, UHD 710
   * **Intel Pentium Gold G7400 (46W TDP)**
     2 Cores / 4 Threads, 3,7GHz, UHD 710
-  * **Intel Core i3-13100T (35W TDP)**
+  * **Intel Core i3-13100T (60W TDP)**
     4 Cores / 8 Thread, 2.5 – 4.2GHz, UHD 730
   * **Intel Core i5-13400T (35W TDP)**
     10 Cores / 16 Threads (6P-c + 4E-c), 1.3 – 4.4GHz, UHD 730
@@ -293,6 +301,23 @@ cirrus nimbus
     LO-DIMM – 5600MHz
   * **96 GB DDR5 (2x 48GB)**
     LO-DIMM – 5600MHz
+
+  ##### Hauptspeicher (RAM) #####
+
+  Wählen Sie die Größe des Hauptspeichers.
+
+  * 4800 MHz
+
+  RAM-Geschwindigkeit auswählen.
+
+  * **8 GB DDR5 (1x 8GB)**
+    SO-DIMM – 4800MHz
+  * **16 GB DDR5 (2x 8GB)**
+    SO-DIMM – 4800MHz
+  * **32 GB DDR5 (2x 16GB)**
+    SO-DIMM – 4800MHz
+  * **64 GB DDR5 (2x 32GB)**
+    SO-DIMM – 4800MHz
 
   ##### SSD (M.2 - NVMe) #####
 
