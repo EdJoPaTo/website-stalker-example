@@ -28,8 +28,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[29.04.2023 - 01.05.2023 RB31 nächtlicher Haltausfall 81642 in Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-81642-in-ashausen/)
-
 [03.05.2023 RE3/RB31 und RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 [04.05.2023 - 05.05.2023 RE3/RB31 nächtliche Haltausfälle in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-in-ashausen/)
