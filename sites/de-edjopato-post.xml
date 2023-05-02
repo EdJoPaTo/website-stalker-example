@@ -6,6 +6,14 @@
 		<description></description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Mensa Gerichte - vegan oder vielleicht auch nicht?</title>
+			<link>https://edjopato.de/post/2023/05/02-mensa-vegan/</link>
+			<pubDate>Tue, 02 May 2023 19:52:00 +0200</pubDate>
+			<content:encoded><![CDATA[2023-05-02
+
+Mensa Gerichte - vegan oder vielleicht auch nicht?]]></content:encoded>
+		</item>
+		<item>
 			<title>Performancevergleich von Hetzners neuen arm64 Cloud Servern</title>
 			<link>https://edjopato.de/post/2023/04/12-hetzner-arm64/</link>
 			<pubDate>Wed, 12 Apr 2023 18:39:00 +0200</pubDate>
@@ -92,14 +100,6 @@ Audio Input mittels Pipewire auf den Kopfhörern ausgeben]]></content:encoded>
 			<content:encoded><![CDATA[2022-02-24
 
 Eigenes Tool - Website Stalker]]></content:encoded>
-		</item>
-		<item>
-			<title>Eigenes Terminal UI für MQTT - mqttui</title>
-			<link>https://edjopato.de/post/2022/02/14-mqttui/</link>
-			<pubDate>Mon, 14 Feb 2022 22:31:00 +0100</pubDate>
-			<content:encoded><![CDATA[2022-02-14
-
-Eigenes Terminal UI für MQTT - mqttui]]></content:encoded>
 		</item>
 	</channel>
 </rss>
