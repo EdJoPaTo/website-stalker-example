@@ -40,6 +40,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [15.05.2023 - 16.05.2023 RB31/RB41: Geänderte Fahrtzeiten von Zug ME81645 und ME81902](https://www.der-metronom.de/baustellen/rb31-rb41-geaenderte-fahrtzeiten-von-zug-me81645-und-me81902/)
 
+[16.05.2023 - 18.05.2023 RE3/RB31 nächtlicher Ersatzverkehr mit Bussen und Fahrzeitänderungen](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-ersatzverkehr-mit-bussen-und-fahrzeitaenderungen/)
+
 [22.05.2023 - 25.05.2023 RE2 und RB31: Fahrtzeitveränderung bei einigen Verbindungen](https://www.der-metronom.de/baustellen/re2-und-rb31-fahrtzeitveraenderung-bei-einigen-verbindungen/)
 
 RE2 Uelzen - Celle - Hannover
