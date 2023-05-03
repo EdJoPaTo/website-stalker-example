@@ -53,6 +53,12 @@ sites:
             - html_textify
 
 
+  - url: https://www.debian.org/releases/
+    editors:
+      - css_select: "#content"
+      - html_url_canonicalize
+      - html_prettify
+
   - url: https://www.raspberrypi.com/software/operating-systems/
     editors:
       - css_select: main
