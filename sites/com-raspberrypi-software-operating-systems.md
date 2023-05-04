@@ -23,45 +23,45 @@ Compatible with:
 
 ### Raspberry Pi OS with desktop ###
 
-* Release date: February 21st 2023
+* Release date: May 3rd 2023
 * System: 32-bit
-* Kernel version: 5.15
+* Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 924MB
+* Size: 872MB
 
-Show SHA256 file integrity hash:ff0ee221581d4f68257f2a78409a16660272a48d3e31b562a8d32a531a335ca2
+Show SHA256 file integrity hash:38a66ed777a1f4e4c07f7dcb2b2feadfda4503d5e139f675758e0e91d34ed75f
 
 [Release notes](https://downloads.raspberrypi.org/raspios_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2023-02-22/2023-02-21-raspios-bullseye-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2023-02-22/2023-02-21-raspios-bullseye-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_armhf/images/)
+[Download](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2023-05-03/2023-05-03-raspios-bullseye-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2023-05-03/2023-05-03-raspios-bullseye-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_armhf/images/)
 
 ### Raspberry Pi OS with desktop and recommended software ###
 
-* Release date: February 21st 2023
+* Release date: May 3rd 2023
 * System: 32-bit
-* Kernel version: 5.15
+* Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 2,752MB
+* Size: 2,701MB
 
-Show SHA256 file integrity hash:3beb87e294b771840cabb289e5e9952cd3ad66a3207bcdf1c4a6243138c9c028
+Show SHA256 file integrity hash:67abd3bc034faf85b59b8e4a28982cb0ab1bc0504877ec3d426e05f6402ed225
 
 [Release notes](https://downloads.raspberrypi.org/raspios_full_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2023-02-22/2023-02-21-raspios-bullseye-armhf-full.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2023-02-22/2023-02-21-raspios-bullseye-armhf-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_full_armhf/images/)
+[Download](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2023-05-03/2023-05-03-raspios-bullseye-armhf-full.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2023-05-03/2023-05-03-raspios-bullseye-armhf-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_full_armhf/images/)
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: February 21st 2023
+* Release date: May 3rd 2023
 * System: 32-bit
-* Kernel version: 5.15
+* Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 362MB
+* Size: 364MB
 
-Show SHA256 file integrity hash:c4582dd776e24066cf008f4ff389c38769a052c46ec63317635694dd767b86c9
+Show SHA256 file integrity hash:b5e3a1d984a7eaa402a6e078d707b506b962f6804d331dcc0daa61debae3a19a
 
 [Release notes](https://downloads.raspberrypi.org/raspios_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2023-02-22/2023-02-21-raspios-bullseye-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2023-02-22/2023-02-21-raspios-bullseye-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_lite_armhf/images/)
+[Download](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2023-05-03/2023-05-03-raspios-bullseye-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2023-05-03/2023-05-03-raspios-bullseye-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_lite_armhf/images/)
 
 Raspberry Pi OS (64-bit)
 ----------
@@ -80,31 +80,31 @@ Compatible with:
 
 ### Raspberry Pi OS with desktop ###
 
-* Release date: February 21st 2023
+* Release date: May 3rd 2023
 * System: 64-bit
-* Kernel version: 5.15
+* Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 816MB
+* Size: 818MB
 
-Show SHA256 file integrity hash:4c963bcd53b9a77fa8235e2dc16785cc7d56372ec83c3090eac9073bd262833f
+Show SHA256 file integrity hash:e7c0c89db32d457298fbe93195e9d11e3e6b4eb9e0683a7beb1598ea39a0a7aa
 
 [Release notes](https://downloads.raspberrypi.org/raspios_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2023-02-22/2023-02-21-raspios-bullseye-arm64.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2023-02-22/2023-02-21-raspios-bullseye-arm64.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_arm64/images/)
+[Download](https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2023-05-03/2023-05-03-raspios-bullseye-arm64.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2023-05-03/2023-05-03-raspios-bullseye-arm64.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_arm64/images/)
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: February 21st 2023
+* Release date: May 3rd 2023
 * System: 64-bit
-* Kernel version: 5.15
+* Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 307MB
+* Size: 308MB
 
-Show SHA256 file integrity hash:883eb0006c8841b7950ef69a7bf55f73c2250ecc15e6bf507f39f0d82fa2ea0a
+Show SHA256 file integrity hash:bf982e56b0374712d93e185780d121e3f5c3d5e33052a95f72f9aed468d58fa7
 
 [Release notes](https://downloads.raspberrypi.org/raspios_lite_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2023-02-22/2023-02-21-raspios-bullseye-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2023-02-22/2023-02-21-raspios-bullseye-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_lite_arm64/images/)
+[Download](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2023-05-03/2023-05-03-raspios-bullseye-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2023-05-03/2023-05-03-raspios-bullseye-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_lite_arm64/images/)
 
 Raspberry Pi OS (Legacy)
 ----------
@@ -118,31 +118,31 @@ Compatible with:
 
 ### Raspberry Pi OS (Legacy) with desktop ###
 
-* Release date: February 21st 2023
+* Release date: May 3rd 2023
 * System: 32-bit
 * Kernel version: 5.10
 * Debian version: 10 (buster)
-* Size: 758MB
+* Size: 788MB
 
-Show SHA256 file integrity hash:ef51402a8051a17d8d0aa9cafaa868f948e9faa9e145f5d756642e2ad4bc0086
+Show SHA256 file integrity hash:9f72726cc19abce9238a0586d5644f6df56378f2214cd55c96d417b2717daf5b
 
 [Release notes](https://downloads.raspberrypi.org/raspios_oldstable_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2023-02-22/2023-02-21-raspios-buster-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2023-02-22/2023-02-21-raspios-buster-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/)
+[Download](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2023-05-03/2023-05-03-raspios-buster-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2023-05-03/2023-05-03-raspios-buster-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/)
 
 ### Raspberry Pi OS Lite (Legacy) ###
 
-* Release date: February 21st 2023
+* Release date: May 3rd 2023
 * System: 32-bit
 * Kernel version: 5.10
 * Debian version: 10 (buster)
-* Size: 286MB
+* Size: 321MB
 
-Show SHA256 file integrity hash:10ee74e3e80789d37e7190701a809c85466adae8f9a1a035cbc171e61f9ccbb5
+Show SHA256 file integrity hash:3d210e61b057de4de90eadb46e28837585a9b24247c221998f5bead04f88624c
 
 [Release notes](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2023-02-22/2023-02-21-raspios-buster-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2023-02-22/2023-02-21-raspios-buster-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/)
+[Download](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2023-05-03/2023-05-03-raspios-buster-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2023-05-03/2023-05-03-raspios-buster-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/)
 
 Raspberry Pi Desktop
 ----------
