@@ -1,18 +1,4 @@
-###  Legends in motion  ###
-
----
-
- FAST & FURIOUS
-X STRAUSS
-----------
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/fast-and-furious)
-
-[alle Produkte](https://www.engelbert-strauss.de/fast-furious-x-strauss/)
-
-###  Workwear mit Outdoor-Komfort  ###
+###  Explore new trails  ###
 
 ---
 
@@ -25,92 +11,50 @@ X STRAUSS
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
 
-###  neue Kollektion aus 100% Naturmaterial  ###
+###  Keep it cool  ###
 
 ---
 
- e.s.Botanica
+ Kühlweste
 ----------
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/botanica)
+[Jetzt kaufen](https://www.engelbert-strauss.de/arbeitswesten/kuehlweste-3140560-78442-1.html?amp;itemorigin=StartseiteFS23)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-botanica/?sort=newest)
-
-###  Neue Transportlösungen  ###
+###  Sportliches Leichtgewicht  ###
 
 ---
 
- STRAUSSbox
-System
+ Worker-
+Sneaker
 ----------
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/straussboxensystem-taschen)
+[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
-[alle Produkte](https://www.engelbert-strauss.de/straussbox-system/)
+[alle Produkte](https://www.engelbert-strauss.de/neuheiten-schuhe/?sort=newest)
 
-[e.s.trail Kollektion entdecken](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
+###  Jetzt auch in Anthrazit  ###
+
+---
+
+ Concrete
+light
+----------
+
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-concrete/)
 
  Weitere Neuheiten entdecken
 ---
 
 [alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
 
- von der Ferse bis zur Spitze
+ Endlich wieder da
 ---
-
- S1P-HIGHTECH MADE BY STRAUSS
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
-
-[alle Schuhneuheiten](https://www.engelbert-strauss.de/neuheiten-schuhe/?sort=newest)
-
- Jetzt auch in Anthrazit
----
-
- e.s.concrete light
----
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-concrete/?sort=newest)
-
- Locker aus dem Handgelenk
----
-
- e.s.tool concept
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
-
- Handschuhe e.s.trail, light graphic
----
-
- STARKE FUNKTION IM SPORTLICHEN STYLE
----
-
-[jetzt kaufen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-light-graphic-2101250-7620107-1740.html?amp;itemorigin=startseite_fs23)
-
-[Glove holder](https://www.engelbert-strauss.de/arbeitshandschuhe-sets/glove-holder-e-s-tool-concept-2300210-5505284-1.html?amp;itemorigin=startseite_fs23)
-
-[Tool leash](https://www.engelbert-strauss.de/e-s-tool-concept-herren/tool-leash-e-s-tool-concept-7071600-5505283-1.html?amp;itemorigin=startseite_fs23)
-
-\*kombinierbar mit Glove holder & Tool leash e.s.tool concept
-
- Endlich wieder da!
----
-
- e.s. ventura
-vintage
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/neuheiten-e-s-ventura-vintage/)
-
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=ventura%20vintage)
 
  e.s.motion ten
 sommer
@@ -120,10 +64,53 @@ sommer
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
 
- Coming soon
+ 100% Naturmaterialien
 ---
 
-[jetzt entdecken](https://www.engelbert-strauss.de/supermario)
+ e.s.Botanica
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/botanica)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-botanica/)
+
+Taschen & Boxen
+
+---
+
+ STRAUSSbox
+System
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/straussboxensystem-taschen)
+
+[alle Produkte](https://www.engelbert-strauss.de/straussbox-taschen/)
+
+[jetzt entdecken](https://www.engelbert-strauss.de/fast-furious-x-strauss-herren/)
+
+ Strauss Produktfinder – finde, was zu dir passt.
+---
+
+###  Schuhfinder  ###
+
+---
+
+In 3 Schritten zum
+perfekten Arbeitsschuh
+
+###  Hosenfinder  ###
+
+---
+
+Deine perfekte Arbeitshose -
+schnell gefunden
+
+###  Jackenfinder  ###
+
+---
+
+In wenigen Klicks zur
+idealen Arbeitsjacke
 
  Nach Kategorie shoppen
 ---
