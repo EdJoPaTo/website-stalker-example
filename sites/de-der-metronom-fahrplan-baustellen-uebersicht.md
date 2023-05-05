@@ -26,8 +26,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[04.05.2023 - 05.05.2023 RE3/RB31 nächtliche Haltausfälle in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-in-ashausen/)
-
 [05.05.2023 - 12.05.2023 RE3/RB31 und RE4/RB41: Zugausfälle wegen Brückenbauarbeiten und Weichenerneuerung](https://www.der-metronom.de/baustellen/re3-rb31-und-re4-rb41-zugausfaelle-wegen-brueckenbauarbeiten-und-weichenerneuerung/)
 
 [13.05.2023 - 14.05.2023 RE2/RB31: Zug ME81647 entfällt zwischen Suderburg und Eschede](https://www.der-metronom.de/baustellen/re2-rb31-zug-me81647-entfaellt-zwischen-suderburg-und-eschede/)
