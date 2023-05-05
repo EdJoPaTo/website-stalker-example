@@ -82,8 +82,6 @@
 
  Bornstraße  2  20146  Hamburg
 
- Freie Krippenplätze!
-
 ### Integrative Kita "Die Stifte" ###
 
  Stiftstraße  69  20099  Hamburg
