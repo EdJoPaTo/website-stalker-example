@@ -1,3 +1,7 @@
+### [UGREEN DigiNest Pro 100 W USB C Power Strip GaN USB C Charger](https://eu.ugreen.com/products/ugreen-diginest-pro-100-w-usb-c-power-strip-gan-usb-c-charger) ###
+
+Specifications and Compatibility USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A PPS adaptive Ladung 100W Max USB-C3 output 5V/3A, 9V/2,5A, 12V/1,88A; PPS adaptive Ladung 22,5W Max USB A output 4.5V/5A, 5V/4.5A,...
+
 ### [UGREEN 65W USB C Charger US/UK/EU Plug for Travel](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-us-uk-eu-plug-for-travel) ###
 
 Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A 65W Max PPS：3.3-21V/3A USB-A 4.5V/5A, 5V/4.5A, 5V/3A, 9V/2A, 12V/1.5A 22.5W Max Fast Load Protocol USB-C: PD3.0, PPS,...
@@ -24,6 +28,10 @@ Ugreen Nexode Mini 45W Dual USB C Charger
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
 
+### [Ugreen 65W USB C PD Charger - 4 Ports](https://eu.ugreen.com/products/ugreen-65w-usb-c-pd-charger-4-ports) ###
+
+Universal CompatibilityThis 65W Charger is Compatible with Macbook Pro, MacBook Air, iPad Pro , iPad Air, iPad Mini 6, iPhone 14/13/12/11; Dell XPS 13, Inspiron 3793; ASUS Zenbook S UX391;...
+
 ### [Ugreen Nexode 100W USB C Wall Charger - 2 Ports](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger-2-ports) ###
 
 Ugreen Nexode 100W USB C Wall Charger - 2 Ports
@@ -35,7 +43,3 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
 ### [Ugreen 100W 4-Port USB C Desktop Charger](https://eu.ugreen.com/products/ugreen-100w-usb-c-desktop-charger) ###
 
 With 100W max output per port, this USB C charger charges most devices at full speed. e.g, This laptop charger fully chargers MacBook Pro 13'' in 1.8hrs. 100W Laptop Charger...
-
-### [Ugreen Nexode 200W USB C Wall Charger - 6 Ports](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger) ###
-
-UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
