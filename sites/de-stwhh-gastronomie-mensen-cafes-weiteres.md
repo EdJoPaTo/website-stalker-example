@@ -48,6 +48,8 @@
 
  Ulmenliet  20  21033  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Mensa Berliner Tor ###
 
  Berliner Tor  7  20099  Hamburg
@@ -61,6 +63,8 @@
 ### Kita Hallerstraße ###
 
  Hallerstraße  58  20146  Hamburg
+
+ Vom 15.05. bis 19.05.2023 geschlossen!
 
 ### Blattwerk - deine vegetarische Mensa ###
 
@@ -104,6 +108,8 @@
 
  Kaulbachstraße  19  22607  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Mensa Geomatikum ###
 
  Bundesstraße  55  20146  Hamburg
@@ -140,6 +146,8 @@
 
  Martinistraße  52  20246  Hamburg
 
+ Am 19.05.2023 von 08:00 bis 14:30 Uhr geöffnet!
+
 ### Mensa HCU ###
 
  Henning-Voscherau-Platz  1  20457  Hamburg
@@ -151,6 +159,8 @@
 ### Hagenbeckstraße ###
 
  Hagenbeckstraße  50-60  22527  Hamburg
+
+ Vom 15.05. bis 19.05.2023 geschlossen!
 
 ### Mensa Stellingen ###
 
@@ -167,6 +177,8 @@
 ### Harburg ###
 
  Schüttstraße  1-5  21073  Hamburg
+
+ Am 19.05.2023 geschlossen!
 
 ### Mensa Überseering ###
 
@@ -186,6 +198,8 @@
 
  Kobestraße  2  20457  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Café Alexanderstraße ###
 
  Alexanderstraße  1  20099  Hamburg
@@ -198,9 +212,13 @@
 
  Emil-Andresen-Straße  34b/c  22529  Hamburg
 
+ Am 19.05.2023 von 08:00 bis 14:30 Uhr geöffnet!
+
 ### Café Berliner Tor ###
 
  Berliner Tor  7  20099  Hamburg
+
+ Am 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### Café-Shop Blueberry ###
 
@@ -246,6 +264,8 @@
 
  Von-Melle-Park  3  20146  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Café CFEL ###
 
  Notkestraße  85  22607  Hamburg
@@ -253,6 +273,8 @@
 ### Triftstraße ###
 
  Triftstraße  102  21075  Hamburg
+
+ Am 19.05.2023 geschlossen!
 
 ### Café dell´Arte ###
 
@@ -262,6 +284,8 @@
 
  Unnastraße  9  20253  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Café Finkenau ###
 
  Finkenau  35  22081  Hamburg
@@ -270,9 +294,13 @@
 
  Bundesstraße  55  20146  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Café Grindel ###
 
  Grindelallee  117  20146  Hamburg
+
+ Am 19.05.2023 geschlossen!
 
 ### Café HCU ###
 
@@ -284,6 +312,8 @@
 
  Ohnhorststraße  18  22609  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Café insgrüne Harburg ###
 
  Eißendorfer Straße  38  21073  Hamburg
@@ -293,6 +323,8 @@
 ### Café Jungiusstraße ###
 
  Jungiusstraße  9  20355  Hamburg
+
+ Am 19.05.2023 geschlossen!
 
 ### Café (am Mittelweg) ###
 
@@ -313,6 +345,8 @@
 ### Café-Shop Zahnrad ###
 
  Berliner Tor  21  20099  Hamburg
+
+ Am 19.05.2023 geschlossen!
 
 ### Café ZessP ###
 
