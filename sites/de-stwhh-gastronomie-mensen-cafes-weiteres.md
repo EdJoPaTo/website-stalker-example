@@ -138,6 +138,8 @@
 
  Grindelallee  76  20146  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### PizzaBar Harburg ###
 
  Denickestraße  22  21073  Hamburg
@@ -244,9 +246,13 @@
 
  Sieker Landstraße  37  22143  Hamburg
 
+ Vom 15.05. bis 19.05.2023 geschlossen!
+
 ### Café-Shop Campus ###
 
  Von-Melle-Park  5  20146  Hamburg
+
+ Vom 15.05. bis 19.05.2023 von 09:00 bis 16:00 Uhr geöffnet!
 
 ### Café CampusBlick ###
 
@@ -259,6 +265,8 @@
 ### Sophie-Schoop-Haus ###
 
  Sophie-Schoop-Weg  2 und 30  21035  Hamburg
+
+ Am 19.05.2023 von 09:00 bis 16:00 Uhr geöffnet!
 
 ### Café Carl ###
 
@@ -289,6 +297,8 @@
 ### Café Finkenau ###
 
  Finkenau  35  22081  Hamburg
+
+ Vom 15.05.2023 bis 17.05.2023 von 08:00 bis 14:30 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Café-Shop Geomatikum ###
 
@@ -330,6 +340,8 @@
 
  Mittelweg  177  20148  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Café Student Affairs ###
 
  Ulmenliet  20  21033  Hamburg
@@ -351,6 +363,8 @@
 ### Café ZessP ###
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
+
+ Am 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### CampusCafé ###
 
