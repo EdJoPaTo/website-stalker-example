@@ -584,6 +584,7 @@
 * [Lauras Machgeschichten: Schlitten](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_schlitten.php5)
 * [Lauras Machgeschichten: Schlüsselbrett](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_schluesselbrett.php5)
 * [Lauras Machgeschichten: Schneemannlampe](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_schneemannlampe.php5)
+* [Lauras Machgeschichten: Stein-Flitsch-Maschine](https://www.wdrmaus.de/filme/sachgeschichten/Lauras_Machgeschichten_Stein_Flitsch_Maschine.php5)
 * [Lauras Machgeschichten: Stockbrotmaschine](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_stockbrotmaschine.php5)
 * [Lauras Machgeschichten: Zuckerwattemaschine](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_zuckerwattemaschine.php5)
 * [Lautlos telefonieren](https://www.wdrmaus.de/filme/sachgeschichten/lautlos_telefonieren.php5)
