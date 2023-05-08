@@ -282,7 +282,7 @@
 
  Triftstraße  102  21075  Hamburg
 
- Am 19.05.2023 geschlossen!
+ Vom 08.05. bis 12.05.2023 von 08:00 bis 15:00 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Café dell´Arte ###
 
@@ -328,7 +328,7 @@
 
  Eißendorfer Straße  38  21073  Hamburg
 
- Am 19.05.2023 geschlossen!
+ Vom 15.05. bis 17.05.23 von 09:30 - 14:00 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Café Jungiusstraße ###
 
