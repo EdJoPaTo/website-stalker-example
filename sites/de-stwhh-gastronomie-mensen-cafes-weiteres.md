@@ -66,6 +66,8 @@
 
  Von-Melle-Park  5  20146  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Mensa Botanischer Garten ###
 
  Ohnhorststraße  18  22609  Hamburg
@@ -173,6 +175,8 @@
 ### Harburger-Häuser ###
 
  Bunatwiete 6, Moorstraße  7, 15  21073  Hamburg
+
+ Am 19.05.2023 von 11:30 bis 18:00 Uhr geöffnet!
 
 ### Schlüters (Pizza & More) ###
 
@@ -283,6 +287,8 @@
 ### Café insgrüne Harburg ###
 
  Eißendorfer Straße  38  21073  Hamburg
+
+ Am 19.05.2023 geschlossen!
 
 ### Café Jungiusstraße ###
 
