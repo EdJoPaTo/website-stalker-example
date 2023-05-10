@@ -201,14 +201,14 @@ cirrus nimbini v4
   * **Ubuntu 22.10** “Kinetic Kudu”
   * **Linux Mint 21.1** “Vera”
   * **Windows 11 Home**
-    original OEM Lizenz mit DVD
+    original OEM Lizenz
   * **Windows 11 Pro**
-    original OEM Lizenz mit DVD
+    original OEM Lizenz
   * **Windows 10 Home**
-    original OEM Lizenz mit DVD
+    original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Home
   * **Windows 10 Pro**
-    original OEM Lizenz mit DVD
+    original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Pro
   * **Different operating system**
     as long as possible we are happy to try to install other operating systems
@@ -218,14 +218,14 @@ cirrus nimbini v4
   * **Ubuntu 23.04** “Lunar Lobster”
   * **Linux Mint 21.1** “Vera”
   * **Windows 11 Home**
-    original OEM license with DVD
+    original OEM license
   * **Windows 11 Pro**
-    original OEM license with DVD
+    original OEM license
   * **Windows 10 Home**
-    original OEM license with DVD
+    original OEM license
     includes free update to Windows 11 Home
   * **Windows 10 Pro**
-    original OEM license with DVD
+    original OEM license
     includes free update to Windows 11 Pro
   * **Different operating system**
     as long as possible we are happy to try to install other operating systems

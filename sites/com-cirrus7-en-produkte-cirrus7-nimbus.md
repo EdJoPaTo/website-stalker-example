@@ -424,14 +424,14 @@ cirrus nimbus
   * **Ubuntu 23.04** “Lunar Lobster”
   * **Linux Mint 21.1** “Vera”
   * **Windows 11 Home**
-    original OEM Lizenz mit DVD
+    original OEM Lizenz
   * **Windows 11 Pro**
-    original OEM Lizenz mit DVD
+    original OEM Lizenz
   * **Windows 10 Home**
-    original OEM Lizenz mit DVD
+    original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Home
   * **Windows 10 Pro**
-    original OEM Lizenz mit DVD
+    original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Pro
   * **anderes Betriebssystem**
     solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
