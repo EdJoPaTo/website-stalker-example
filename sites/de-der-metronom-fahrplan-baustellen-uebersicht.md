@@ -40,6 +40,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [22.05.2023 - 25.05.2023 RE2 und RB31: Fahrtzeitveränderung bei einigen Verbindungen](https://www.der-metronom.de/baustellen/re2-und-rb31-fahrtzeitveraenderung-bei-einigen-verbindungen/)
 
+[30.05.2023 - 05.06.2023 RE3/RB31 Teilausfälle Hamburg Hbf-Hamburg-Harburg sowie Fahrzeitveränderungen und Haltausfall in Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-hamburg-hbf-hamburg-harburg-sowie-fahrzeitveraenderungen-und-haltausfall-in-bardowick/)
+
 RE2 Uelzen - Celle - Hannover
 
 [13.05.2023 - 14.05.2023 RE2/RB31: Zug ME81647 entfällt zwischen Suderburg und Eschede](https://www.der-metronom.de/baustellen/re2-rb31-zug-me81647-entfaellt-zwischen-suderburg-und-eschede/)
