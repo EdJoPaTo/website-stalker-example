@@ -266,7 +266,7 @@
 
  Sophie-Schoop-Weg  2 und 30  21035  Hamburg
 
- Am 19.05.2023 von 09:00 bis 16:00 Uhr geöffnet!
+ Vom 15.05. bis 19.05.23 von 09:00 bis 15:00 Uhr geöffnet!
 
 ### Café Carl ###
 
@@ -282,7 +282,7 @@
 
  Triftstraße  102  21075  Hamburg
 
- Vom 08.05. bis 12.05.2023 von 08:00 bis 15:00 Uhr geöffnet! Am 19.05.2023 geschlossen!
+ Am 19.05.2023 geschlossen!
 
 ### Café dell´Arte ###
 
@@ -364,7 +364,7 @@
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
 
- Am 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
+ Am 11.05. und 12.05.2023 von 08:00 bis 15:00 Uhr geöffnet! Am 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### CampusCafé ###
 
