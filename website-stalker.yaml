@@ -116,6 +116,7 @@ sites:
       - html_prettify
 
   - url: https://www.hetzner.com/news/
+    ignore_error: true
     editors:
       - rss:
           title: Hetzner News
