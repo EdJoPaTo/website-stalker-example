@@ -226,7 +226,7 @@
 
 14,16 €mit MwSt.
 
-[Shelly Wall switch 4 - white + Shelly Plus i4](/de/products/shop/shi4plusws4w)
+[Shelly Wall switch 4 + Shelly Plus i4](/de/products/shop/shelly-wall-switch-4-shelly-plus-i4)
 
 17,19 €
 
