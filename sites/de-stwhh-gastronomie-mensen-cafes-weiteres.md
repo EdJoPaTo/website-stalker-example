@@ -304,7 +304,7 @@
 
  Bundesstraße  55  20146  Hamburg
 
- Am 19.05.2023 geschlossen!
+ Vom 15.05. bis 17.05.2023 von 08:00 bis 14:30 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Café Grindel ###
 
@@ -334,7 +334,7 @@
 
  Jungiusstraße  9  20355  Hamburg
 
- Am 19.05.2023 geschlossen!
+ Vom 15.05. bis 17.05.2023 von 08:00 bis 14:30 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Café (am Mittelweg) ###
 
@@ -364,7 +364,7 @@
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
 
- Am 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
+ Vom 15.05. bis 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### CampusCafé ###
 
