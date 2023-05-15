@@ -328,12 +328,6 @@
 
 5,83 €mit MwSt.
 
-[Shelly 1 + Shelly Button White](/de/products/shop/shelly-1-shelly-button-white)
-
-11,90 €~~14,90 €~~
-
-14,16 €mit MwSt.
-
 [Shelly 1](/de/products/shop/1xs1)
 
 11,90 €
