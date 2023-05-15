@@ -364,7 +364,7 @@
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
 
- Am 11.05. und 12.05.2023 von 08:00 bis 15:00 Uhr geöffnet! Am 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
+ Am 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### CampusCafé ###
 
