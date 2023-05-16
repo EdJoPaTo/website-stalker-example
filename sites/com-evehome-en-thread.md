@@ -64,7 +64,7 @@ If you have purchased a Thread-enabled Eve device in the past, and want to lever
 
  These Eve accessories support Thread
 
-All current Eve devices that support Bluetooth also support Thread, including [Eve Aqua](/en/eve-aqua), [Eve Door & Window](/en/eve-door-window), [Eve Energy](/en/eve-energy), [Eve Light Switch](/en/eve-light-switch), [Eve Motion](/en/eve-motion), [Eve MotionBlinds](/en/eve-motionblinds), [Eve Room](/en/eve-room), [Eve Thermo](/en/eve-thermo), [Eve Water Guard](/en/eve-water-guard) and [Eve Weather](/en/eve-weather). If you already own an Eve device, [discover here](en/identify-your-eve-accessory) if it already supports Thread.
+All current Eve devices that support Bluetooth also support Thread, including [Eve Aqua](/en/eve-aqua), [Eve Door & Window](/en/eve-door-window), [Eve Energy](/en/eve-energy), [Eve Flare](/en/eve-flare), [Eve Light Switch](/en/eve-light-switch), [Eve Motion](/en/eve-motion), [Eve MotionBlinds](/en/eve-motionblinds), [Eve Room](/en/eve-room), [Eve Shutter-Switch](/en/eve-shutter-switch), [Eve Thermo](/en/eve-thermo), [Eve Water Guard](/en/eve-water-guard) and [Eve Weather](/en/eve-weather). If you already own an Eve device, [discover here](en/identify-your-eve-accessory) if it already supports Thread.
 
  These Thread accessories can route data packets in a Thread network
 
