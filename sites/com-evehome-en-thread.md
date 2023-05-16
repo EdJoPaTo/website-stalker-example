@@ -68,7 +68,7 @@ All current Eve devices that support Bluetooth also support Thread, including [
 
  These Thread accessories can route data packets in a Thread network
 
-Mains-powered Thread devices that are always on, such as [Eve Energy](/en/eve-energy), [Eve Light Switch](/en/eve-light-switch), or [Eve Water Guard](/en/eve-water-guard), can act as router nodes within your Thread network and relay data packets. So, the more of these Full Thread Devices (FTDs) you have in your network, the more stable and greater its reach becomes. By contrast, battery-operated Thread devices, such as [Eve Aqua](/en/eve-aqua), [Eve Door & Window,](/en/eve-door-window) [Eve Motion](/en/eve-motion), [Eve MotionBlinds](/en/eve-motionblinds), [Eve Room](/en/eve-room), [Eve Thermo](/en/eve-thermo) and [Eve Weather](/en/eve-weather) represent endpoints in the Thread network (or Minimal Thread Devices – MTDs).
+Mains-powered Thread devices that are always on, such as [Eve Energy](/en/eve-energy), [Eve Light Switch](/en/eve-light-switch), [Eve Shutter Switch](/en/eve-shutter-switch) or [Eve Water Guard](/en/eve-water-guard), can act as router nodes within your Thread network and relay data packets. So, the more of these Full Thread Devices (FTDs) you have in your network, the more stable and greater its reach becomes. By contrast, battery-operated Thread devices, such as [Eve Aqua](/en/eve-aqua), [Eve Door & Window,](/en/eve-door-window) [Eve Flare](/en/eve-flare), [Eve Motion](/en/eve-motion), [Eve MotionBlinds](/en/eve-motionblinds), [Eve Room](/en/eve-room), [Eve Thermo](/en/eve-thermo) and [Eve Weather](/en/eve-weather) represent endpoints in the Thread network (or Minimal Thread Devices – MTDs).
 
  Viewing your thread network structure in the Eve app
 
