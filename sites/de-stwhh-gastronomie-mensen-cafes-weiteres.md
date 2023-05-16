@@ -1,3 +1,5 @@
+Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
+
 ### Beratung für Studierende mit Kind ###
 
  Grindelallee  9  20146  Hamburg
