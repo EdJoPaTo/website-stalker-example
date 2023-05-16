@@ -180,7 +180,7 @@
 
  Schüttstraße  1-5  21073  Hamburg
 
- Am 19.05.2023 geschlossen!
+ Am 16.05. und 17.05.2023 von 11:00 bis 14:30 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Mensa Überseering ###
 

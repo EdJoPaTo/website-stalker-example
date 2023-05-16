@@ -12,7 +12,7 @@ Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A
 
 ### [UGREEN Nexode 65W USB C GaN Table Charger](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-nexode-gan-4-port-fast-desktop-charger-power-adapter) ###
 
-### [UGREEN 65W Power Strip DigiNest Cube GaN Extension Lead with USB C Slots](https://eu.ugreen.com/products/ugreen-65w-power-strip-diginest-cube-gan-extension-lead-with-usb-c-slots) ###
+### [UGREEN 65W Power Strip DigiNest Cube GaN Extension Lead with USB C Slots.](https://eu.ugreen.com/products/ugreen-65w-power-strip-diginest-cube-gan-extension-lead-with-usb-c-slots) ###
 
 Specifications and Compatibility USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A 3.3-21V/3A; PPS Adaptive Ladung 65W Max USB A1/A2 output 5V/3A, 9V/2A, 12V/1.5A; adaptive Ladung 22.5W Max outlet of the sockets...
 
