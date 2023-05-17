@@ -92,7 +92,11 @@ Not available in your country
 
  Learn more
 
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+
 Security
+
+Matter
 
 incl. VAT, plus shipping
 
@@ -104,11 +108,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Shop now
+ Add to cart
 
  Your choice
 
-[ Shop now ]()
+[ Add to cart ]()
 
  incl. VAT, plus shipping
 
@@ -157,11 +161,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Shop now
+ Add to cart
 
  Your choice
 
-[ Shop now ]()
+[ Add to cart ]()
 
  incl. VAT, plus shipping
 
@@ -320,7 +324,11 @@ Not available in your country
 
  Learn more
 
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+
 Security
+
+Matter
 
 incl. VAT, plus shipping
 
@@ -332,11 +340,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Shop now
+ Add to cart
 
  Your choice
 
-[ Shop now ]()
+[ Add to cart ]()
 
  incl. VAT, plus shipping
 
@@ -385,11 +393,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Shop now
+ Add to cart
 
  Your choice
 
-[ Shop now ]()
+[ Add to cart ]()
 
  incl. VAT, plus shipping
 
