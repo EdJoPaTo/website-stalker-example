@@ -32,6 +32,8 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
  Learn more
 
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+
 Energy
 
 Matter
@@ -48,11 +50,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Shop now
+ Add to cart
 
  Your choice
 
-[ Shop now ]()
+[ Add to cart ]()
 
  incl. VAT, plus shipping
 
@@ -258,6 +260,8 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
  Learn more
 
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+
 Energy
 
 Matter
@@ -274,11 +278,11 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Supports Matter & Thread
 
- Shop now
+ Add to cart
 
  Your choice
 
-[ Shop now ]()
+[ Add to cart ]()
 
  incl. VAT, plus shipping
 
