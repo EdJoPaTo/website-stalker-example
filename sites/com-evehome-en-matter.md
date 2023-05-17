@@ -32,7 +32,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
 
 Energy
 
@@ -264,7 +264,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
 
 Energy
 
