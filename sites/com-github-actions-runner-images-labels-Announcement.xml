@@ -6,7 +6,7 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>python2.7 will be removed from the images on May 15, 2023</title>
+			<title>python2.7 will be removed from the images on May 22, 2023</title>
 			<link>https://github.com/actions/runner-images/issues/7401</link>
 			<pubDate>Thu, 06 Apr 2023 16:23:45 +0000</pubDate>
 			<content:encoded><![CDATA[#7401
