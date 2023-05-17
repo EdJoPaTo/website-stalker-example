@@ -46,6 +46,8 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Bieberstraße  6  20146  Hamburg
 
+ Am 19.05.2023 geschlossen!
+
 ### Mensa Bergedorf ###
 
  Ulmenliet  20  21033  Hamburg
