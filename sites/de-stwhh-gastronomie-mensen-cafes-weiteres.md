@@ -46,8 +46,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Bieberstraße  6  20146  Hamburg
 
- Am 19.05.2023 geschlossen!
-
 ### Mensa Bergedorf ###
 
  Ulmenliet  20  21033  Hamburg
@@ -178,8 +176,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Bunatwiete 6, Moorstraße  7, 15  21073  Hamburg
 
- Am 19.05.2023 von 11:30 bis 18:00 Uhr geöffnet!
-
 ### Schlüters (Pizza & More) ###
 
  Von-Melle-Park  2  20146  Hamburg
@@ -264,25 +260,17 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Unnastraße  9  20253  Hamburg
 
- Am 19.05.2023 geschlossen!
-
 ### Café Finkenau ###
 
  Finkenau  35  22081  Hamburg
-
- Vom 15.05.2023 bis 17.05.2023 von 08:00 bis 14:30 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Café-Shop Geomatikum ###
 
  Bundesstraße  55  20146  Hamburg
 
- Vom 15.05. bis 17.05.2023 von 08:00 bis 14:30 Uhr geöffnet! Am 19.05.2023 geschlossen!
-
 ### Café Grindel ###
 
  Grindelallee  117  20146  Hamburg
-
- Am 19.05.2023 geschlossen!
 
 ### Café HCU ###
 
@@ -294,13 +282,9 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Ohnhorststraße  18  22609  Hamburg
 
- Am 19.05.2023 geschlossen!
-
 ### Café insgrüne Harburg ###
 
  Eißendorfer Straße  38  21073  Hamburg
-
- Vom 15.05. bis 17.05.23 von 09:30 - 14:00 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Café Jungiusstraße ###
 
@@ -309,8 +293,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 ### Café (am Mittelweg) ###
 
  Mittelweg  177  20148  Hamburg
-
- Am 19.05.2023 geschlossen!
 
 ### Café Student Affairs ###
 
@@ -328,13 +310,9 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Berliner Tor  21  20099  Hamburg
 
- Am 19.05.2023 geschlossen!
-
 ### Café ZessP ###
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
-
- Vom 15.05. bis 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### CampusCafé ###
 
