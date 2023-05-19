@@ -52,8 +52,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Ulmenliet  20  21033  Hamburg
 
- Am 19.05.2023 geschlossen!
-
 ### Mensa Berliner Tor ###
 
  Berliner Tor  7  20099  Hamburg
@@ -68,13 +66,9 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Hallerstraße  58  20146  Hamburg
 
- Vom 15.05. bis 19.05.2023 geschlossen!
-
 ### Blattwerk - deine vegetarische Mensa ###
 
  Von-Melle-Park  5  20146  Hamburg
-
- Am 19.05.2023 geschlossen!
 
 ### Mensa Botanischer Garten ###
 
@@ -112,8 +106,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Kaulbachstraße  19  22607  Hamburg
 
- Am 19.05.2023 geschlossen!
-
 ### Mensa Geomatikum ###
 
  Bundesstraße  55  20146  Hamburg
@@ -142,8 +134,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Grindelallee  76  20146  Hamburg
 
- Am 19.05.2023 geschlossen!
-
 ### PizzaBar Harburg ###
 
  Denickestraße  22  21073  Hamburg
@@ -151,8 +141,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 ### Integrative Kita UKE – Gastkindbetreuung ###
 
  Martinistraße  52  20246  Hamburg
-
- Am 19.05.2023 von 08:00 bis 14:30 Uhr geöffnet!
 
 ### Mensa HCU ###
 
@@ -165,8 +153,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 ### Hagenbeckstraße ###
 
  Hagenbeckstraße  50-60  22527  Hamburg
-
- Vom 15.05. bis 19.05.2023 geschlossen!
 
 ### Mensa Stellingen ###
 
@@ -183,8 +169,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 ### Harburg ###
 
  Schüttstraße  1-5  21073  Hamburg
-
- Am 16.05. und 17.05.2023 von 11:00 bis 14:30 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Mensa Überseering ###
 
@@ -204,8 +188,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Kobestraße  2  20457  Hamburg
 
- Am 19.05.2023 geschlossen!
-
 ### Café Alexanderstraße ###
 
  Alexanderstraße  1  20099  Hamburg
@@ -218,13 +200,9 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Emil-Andresen-Straße  34b/c  22529  Hamburg
 
- Am 19.05.2023 von 08:00 bis 14:30 Uhr geöffnet!
-
 ### Café Berliner Tor ###
 
  Berliner Tor  7  20099  Hamburg
-
- Am 19.05.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### Café-Shop Blueberry ###
 
@@ -250,13 +228,9 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Sieker Landstraße  37  22143  Hamburg
 
- Vom 15.05. bis 19.05.2023 geschlossen!
-
 ### Café-Shop Campus ###
 
  Von-Melle-Park  5  20146  Hamburg
-
- Vom 15.05. bis 19.05.2023 von 09:00 bis 16:00 Uhr geöffnet!
 
 ### Café CampusBlick ###
 
@@ -270,13 +244,9 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Sophie-Schoop-Weg  2 und 30  21035  Hamburg
 
- Vom 15.05. bis 19.05.23 von 09:00 bis 15:00 Uhr geöffnet!
-
 ### Café Carl ###
 
  Von-Melle-Park  3  20146  Hamburg
-
- Am 19.05.2023 geschlossen!
 
 ### Café CFEL ###
 
@@ -285,8 +255,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 ### Triftstraße ###
 
  Triftstraße  102  21075  Hamburg
-
- Am 19.05.2023 geschlossen!
 
 ### Café dell´Arte ###
 
@@ -337,8 +305,6 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 ### Café Jungiusstraße ###
 
  Jungiusstraße  9  20355  Hamburg
-
- Vom 15.05. bis 17.05.2023 von 08:00 bis 14:30 Uhr geöffnet! Am 19.05.2023 geschlossen!
 
 ### Café (am Mittelweg) ###
 
