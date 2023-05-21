@@ -38,6 +38,7 @@
 * [Archäologische Ausgrabungen](https://www.wdrmaus.de/filme/sachgeschichten/archaeologische_ausgrabungen.php5)
 * [Arcimboldo](https://www.wdrmaus.de/filme/sachgeschichten/arcimboldo.php5)
 * [Armin zum 75. Geburtstag](https://www.wdrmaus.de/filme/sachgeschichten/armin_zum_75_geburtstag.php5)
+* [Artenschutzhund Whisper](https://www.wdrmaus.de/filme/sachgeschichten/artenschutzhund_whisper.php5)
 * [Astronautenfragen](https://www.wdrmaus.de/filme/sachgeschichten/astronautenfragen.php5)
 * [Astronautentoilette](https://www.wdrmaus.de/filme/sachgeschichten/astronautenklo.php5)
 * [Astronautentraining](https://www.wdrmaus.de/filme/sachgeschichten/astronautentraining.php5)
