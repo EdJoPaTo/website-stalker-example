@@ -32,7 +32,7 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[21.05.2023 - 22.05.2023 RE2: Zusätzlicher Halt einiger Zugverbindungen in Barnten](https://www.der-metronom.de/baustellen/re2-zusaetzlicher-halt-einiger-zugverbindungen-in-barnten/)
+Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 Dein persönlicher Baustellen-Newsletter
 ----------
