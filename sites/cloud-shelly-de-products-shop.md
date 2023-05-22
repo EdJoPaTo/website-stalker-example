@@ -154,6 +154,12 @@
 
 24,87 €mit MwSt.
 
+[Shelly H&T Black](/de/products/shop/1xht-b)
+
+20,90 €
+
+24,87 €mit MwSt.
+
 [Shelly Motion 2](/de/products/shop/shelly-motion-2)
 
 39,90 €
@@ -303,12 +309,6 @@
 44,90 €
 
 53,43 €mit MwSt.
-
-[Shelly H&T Black](/de/products/shop/1xht-b)
-
-20,90 €
-
-24,87 €mit MwSt.
 
 [Bypass](/de/products/shop/bypass-1)
 
