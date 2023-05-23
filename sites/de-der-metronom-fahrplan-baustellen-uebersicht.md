@@ -20,6 +20,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [30.05.2023 - 01.06.2023 RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
+[30.05.2023 - 02.06.2023 RE4/RB41 Teilausfall von Hamburg-Harburg bis Hamburg Hbf](https://www.der-metronom.de/baustellen/re4-rb41-teilausfall-von-hamburg-harburg-bis-hamburg-hbf/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [22.05.2023 - 25.05.2023 RE2 und RB31: Fahrtzeitveränderung bei einigen Verbindungen](https://www.der-metronom.de/baustellen/re2-und-rb31-fahrtzeitveraenderung-bei-einigen-verbindungen/)
