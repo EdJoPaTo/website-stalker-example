@@ -80,6 +80,8 @@ Vom 18.05. bis einschließlich 29.05.2023 findet keine Beratung statt!
 
  Jungiusstraße  6  20355  Hamburg
 
+ Aktuell zwei Teilwohnungen für Studentinnen mit Kindern frei!
+
 ### Bornstraße ###
 
  Bornstraße  2  20146  Hamburg
