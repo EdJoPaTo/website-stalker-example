@@ -32,6 +32,10 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [30.05.2023 - 05.06.2023 RE3/RB31 Teilausfälle Hamburg Hbf-Hamburg-Harburg sowie Fahrzeitveränderungen und Haltausfall in Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-hamburg-hbf-hamburg-harburg-sowie-fahrzeitveraenderungen-und-haltausfall-in-bardowick/)
 
+[06.06.2023 - 07.06.2023 RB31 nächtliche Haltausfälle in Ashausen, Radbruch und Bardowick](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-in-ashausen-radbruch-und-bardowick/)
+
+[12.06.2023 - 18.06.2023 RE3/RB31 Fahrzeitenänderungen zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-fahrzeitenaenderungen-zwischen-hamburg-hbf-und-hamburg-harburg/)
+
 RE2 Uelzen - Celle - Hannover
 
 [22.05.2023 - 25.05.2023 RE2 und RB31: Fahrtzeitveränderung bei einigen Verbindungen](https://www.der-metronom.de/baustellen/re2-und-rb31-fahrtzeitveraenderung-bei-einigen-verbindungen/)
