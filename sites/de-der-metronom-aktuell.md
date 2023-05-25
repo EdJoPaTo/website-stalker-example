@@ -3,6 +3,13 @@ Aktuelle Meldungen
 
 ---
 
+ Uelzen 25.05.2023 [Fahrradkapazitäten zu Pfingsten ----------](https://www.der-metronom.de/aktuell/fahrradkapazitaeten-zu-pfingsten/)
+
+Die metronom Eisenbahngesellschaft mbH und die erixx GmbH bitten um Rücksichtnahme bei der Fahrradmitnahme am kommenden Pfingstwochenende.
+Deutschland ist ein Radreiseland. Das beweisen die Ergebnisse der jährlichen ADFC-Radreiseanalyse. Zwei...
+
+---
+
 02.05.2023 [RE4/RB41 Zusatzhalte in Scheeßel zum diesjährigen Hurricane Festival 17. Juni bis 18. Juni 2023 ----------](https://www.der-metronom.de/aktuell/re4-rb41-zusatzhalte-in-scheessel-zum-diesjaehrigen-hurricane-festival-17-juni-bis-18-juni-2023/)
 
 Liebe Fahrgäste,
