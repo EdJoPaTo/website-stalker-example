@@ -5,8 +5,8 @@ Aktuelle Meldungen
 
  Uelzen 25.05.2023 [Fahrradkapazitäten zu Pfingsten ----------](https://www.der-metronom.de/aktuell/fahrradkapazitaeten-zu-pfingsten/)
 
-Die metronom Eisenbahngesellschaft mbH und die erixx GmbH bitten um Rücksichtnahme bei der Fahrradmitnahme am kommenden Pfingstwochenende.
-Deutschland ist ein Radreiseland. Das beweisen die Ergebnisse der jährlichen ADFC-Radreiseanalyse. Zwei...
+Die metronom Eisenbahngesellschaft mbH bittet um Rücksichtnahme bei der Fahrradmitnahme am kommenden Pfingstwochenende. Moin liebe Fahrgäste,
+das nächste lange Wochenende steht vor der Tür und auch im Norden werden sich zahlreiche Menschen mit...
 
 ---
 
