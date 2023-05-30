@@ -880,6 +880,7 @@
 * [Salz](https://www.wdrmaus.de/filme/sachgeschichten/salz.php5)
 * [Salz im Meer](https://www.wdrmaus.de/filme/sachgeschichten/salz_im_meer.php5)
 * [Salzstangen](https://www.wdrmaus.de/filme/sachgeschichten/salzstangen.php5)
+* [Samenflug](https://www.wdrmaus.de/filme/sachgeschichten/samenflug.php5)
 * [Sandpapier](https://www.wdrmaus.de/filme/sachgeschichten/sandpapier.php5)
 * [Sandskulptur](https://www.wdrmaus.de/filme/sachgeschichten/sandskulptur.php5)
 * [Satellitenbau](https://www.wdrmaus.de/filme/sachgeschichten/satellitenbau.php5)
