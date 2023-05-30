@@ -26,6 +26,10 @@ UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided
 
 UGREEN USB C Hard Drive Cable, Micro B to Type C Lead Compatible with USB 3.0 External Portable
 
+### [UGREEN USB C to Lightning Cable MFi Certified Type C iPhone Charger Cable](https://eu.ugreen.com/products/ugreen-usb-c-to-lightning-cable-mfi-certified-type-c-iphone-charger-cable) ###
+
+WHAT IS MFi ?MFi is a kind of express license for external accessories produced by authorized accessory manufacturers. It is the abbreviation of \_\_ade for iPhone / iPod / iPadâ\_?...
+
 ### [UGREEN Right Angle USB C Cable 3.0 Type C Charger Cable Fast Charging 5Gbps](https://eu.ugreen.com/products/ugreen-right-angle-usb-c-cable-3-0-type-c-charger-cable-fast-charging-5gbps) ###
 
 \_ Important Note Before Purchase: 1.Not support the phone case thicker than 2mm. 2.Not support video output 3.Charging speed will depend on the device and the wall charger. We sugget...
@@ -41,7 +45,3 @@ UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery
 ### [UGREEN USB C to USB C Cable 60W](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w) ###
 
 UGREEN USB C to USB C Cable 60W
-
-### [Ugreen USB to Micro USB Cable](https://eu.ugreen.com/products/ugreen-usb-to-micro-usb-cable) ###
-
-With 18W max power output and 480Mbps data transferring speed, this USB to Micro USB cable charges your devices as fast as possible with Quick Charge 2.0, 75% faster than...
