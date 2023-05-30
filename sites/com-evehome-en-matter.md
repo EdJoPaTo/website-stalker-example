@@ -22,7 +22,7 @@ Matter-enabled devices are a breeze to integrate into your smart home. Your enti
 
  Cutting-edge connectivity. ###
 
-Matter devices truly shine when they talk via Thread. This groundbreaking network technology makes your smart home more responsive, robust, and increases its reach. That is why all [Eve devices embrace Thread](https://evehome.teamwork.com/thread).
+Matter devices truly shine when they talk via Thread. This groundbreaking network technology makes your smart home more responsive, robust, and increases its reach. That is why all [Eve devices embrace Thread](/en/thread).
 
 ###  These Eve devices come with Matter compatibility. ###
 
