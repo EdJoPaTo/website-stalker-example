@@ -1,8 +1,22 @@
-###  Explore new trails  ###
+###  starker Stoff, cooler Look  ###
 
 ---
 
- e.s.trail
+ e.s.motion ten
+sommer
+----------
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/motion_ten)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
+
+###  Explore new Trails  ###
+
+---
+
+ e.s.Trail
 ----------
 
 ---
@@ -11,23 +25,11 @@
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
 
-###  Keep it cool  ###
+###  S3 - Baustellen Profis  ###
 
 ---
 
- Kühlweste
-----------
-
----
-
-[Jetzt kaufen](https://www.engelbert-strauss.de/arbeitswesten/kuehlweste-3140560-78442-1.html?amp;itemorigin=StartseiteFS23)
-
-###  Sportliches Leichtgewicht  ###
-
----
-
- Worker-
-Sneaker
+ Schuhe
 ----------
 
 ---
@@ -36,57 +38,69 @@ Sneaker
 
 [alle Produkte](https://www.engelbert-strauss.de/neuheiten-schuhe/?sort=newest)
 
-###  Jetzt auch in Anthrazit  ###
-
+ Funktionshose + Shorts + Badetuch
 ---
 
- Concrete
-light
-----------
-
+ Sommer-Sets
 ---
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-concrete/)
+[Jetzt kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/set-funktionshose-e-s-trail-short-badetuch-3163140-13953-1587.html?amp;itemorigin=StartseiteFS23)
 
- Weitere Neuheiten entdecken
+[alle Produkte](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/)
+
+ Keep it cool
 ---
 
-[alle Neuheiten](https://www.engelbert-strauss.de/neuheiten/)
-
- Endlich wieder da
+ Kühlweste
 ---
 
- e.s.motion ten
-sommer
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/motion_ten)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
-
- 100% Naturmaterialien
----
-
- e.s.Botanica
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/botanica)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-botanica/)
+[Jetzt kaufen](https://www.engelbert-strauss.de/arbeitswesten/kuehlweste-3140560-78442-1.html?amp;itemorigin=StartseiteFS23)
 
 Taschen & Boxen
 
 ---
 
- STRAUSSbox
-System
+straussbox
+system
+
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/straussboxensystem-taschen)
 
 [alle Produkte](https://www.engelbert-strauss.de/straussbox-taschen/)
 
-[jetzt entdecken](https://www.engelbert-strauss.de/fast-furious-x-strauss-herren/)
+ Bestens geschützt
+---
+
+UV-Schutz für
+sonnige Tage
+
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=uv)
+
+[Sommer Test-Set](https://www.engelbert-strauss.de/sale-aktions-sets-betriebsbedarf/sommer-test-set-hautschutz-hautpflege-7620490-1815850-0.html?amp;itemorigin=StartseiteFS23)
+
+ Bereit für den Sommer!
+---
+
+ Shirts
+---
+
+[Herren](https://www.engelbert-strauss.de/arbeitsshirts/)
+
+[Damen](https://www.engelbert-strauss.de/arbeitsshirts-damen/)
+
+[Kinder](https://www.engelbert-strauss.de/kinder-oberbekleidung/)
+
+ Shorts
+---
+
+[Herren](https://www.engelbert-strauss.de/arbeitsshorts/)
+
+[Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
+
+[Kinder](https://www.engelbert-strauss.de/kinder-shorts/)
 
  Strauss Produktfinder – finde, was zu dir passt.
 ---
