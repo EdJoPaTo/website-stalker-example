@@ -11,7 +11,7 @@ For more details on the website-stalker check out [its dedicated repo](https://g
 
 ## GitHub Actions
 
-See the [workflow file](https://github.com/EdJoPaTo/website-stalker-example/blob/main/.github/workflows/website-stalker.yaml) and the [Action history](https://github.com/EdJoPaTo/website-stalker-example/actions/workflows/website-stalker.yaml).
+See the [workflow file](https://github.com/EdJoPaTo/website-stalker-example/blob/main/.github/workflows/website-stalker.yml) and the [Action history](https://github.com/EdJoPaTo/website-stalker-example/actions/workflows/website-stalker.yml).
 (In order to see/unfold job details you need to be logged in to GitHub)
 
 ## Subscribe to Changes
