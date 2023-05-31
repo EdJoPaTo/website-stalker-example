@@ -118,17 +118,17 @@
 
 78,42 €mit MwSt.
 
-[Shelly Plug](/de/products/shop/1xplug)
-
-31,90 €
-
-37,96 €mit MwSt.
-
 [Shelly Plus Plug UK](/de/products/shop/1xpluspluguk-1)
 
 19,90 €
 
 23,68 €mit MwSt.
+
+[Shelly Plug](/de/products/shop/1xplug)
+
+31,90 €
+
+37,96 €mit MwSt.
 
 [Shelly Plus Plug IT](/de/products/shop/shelly-plus-plug-it)
 
