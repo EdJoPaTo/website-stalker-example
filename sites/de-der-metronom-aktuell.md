@@ -3,7 +3,7 @@ Aktuelle Meldungen
 
 ---
 
- Uelzen 31.05.2023 [RB31: Kurzfristige Bahnsteigarbeiten in Winsen(Luhe) ----------](https://www.der-metronom.de/aktuell/rb31-kurzfristige-bahnsteigarbeiten-in-winsenluhe/)
+ Uelzen 31.05.2023 [RB31: Kurzfristige Bahnsteigarbeiten in den Nächten am Bahnhof Winsen(Luhe) ----------](https://www.der-metronom.de/aktuell/rb31-kurzfristige-bahnsteigarbeiten-in-winsenluhe/)
 
 Aufgrund der durch einen Güterzug verursachten Bahnsteigschäden in Winsen(Luhe) kommt es zu kurzfristig angesetzten Baumaßnahmen, um die beschädigten Bahnsteigabschnitte wieder instand zu setzen. Diese Bauarbeiten sind in den Nächten vom 31.05....
 
