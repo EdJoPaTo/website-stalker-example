@@ -48,13 +48,15 @@ sommer
 
 [alle Produkte](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/)
 
- Keep it cool
+ Locker aus dem Handgelenk
 ---
 
- Kühlweste
+ e.s.tool concept
 ---
 
-[Jetzt kaufen](https://www.engelbert-strauss.de/arbeitswesten/kuehlweste-3140560-78442-1.html?amp;itemorigin=StartseiteFS23)
+[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
 
 Taschen & Boxen
 
