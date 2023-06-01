@@ -3,6 +3,13 @@ Aktuelle Meldungen
 
 ---
 
+01.06.2023 [Zugverkehr rollt wieder an ----------](https://www.der-metronom.de/aktuell/eingestellter-zugverkehr-auf-diversen-strecken-in-niedersachsen/)
+
+Die Betriebszentrale ist wieder besetzt – Fahrgäste sollten sich allerdings durch den angestauten Zugverkehr weiter auf Beeinträchtigungen durch Verspätungen einstellen.
+Bitte informiert euch über unsere Website (www.der-metronom.de) oder über...
+
+---
+
  Uelzen 31.05.2023 [RB31: Kurzfristige Bahnsteigarbeiten in den Nächten am Bahnhof Winsen(Luhe) ----------](https://www.der-metronom.de/aktuell/rb31-kurzfristige-bahnsteigarbeiten-in-winsenluhe/)
 
 Aufgrund der durch einen Güterzug verursachten Bahnsteigschäden in Winsen(Luhe) kommt es zu kurzfristig angesetzten Baumaßnahmen, um die beschädigten Bahnsteigabschnitte wieder instand zu setzen. Diese Bauarbeiten sind in den Nächten vom 31.05....
