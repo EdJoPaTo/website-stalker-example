@@ -81,7 +81,7 @@ sonnige Tage
 
 [alle Produkte](https://www.engelbert-strauss.de/s/suche?query=uv)
 
-[Sommer Test-Set](https://www.engelbert-strauss.de/sale-aktions-sets-betriebsbedarf/sommer-test-set-hautschutz-hautpflege-7620490-1815850-0.html?amp;itemorigin=StartseiteFS23)
+[Sommer Test-Set](https://www.engelbert-strauss.de/?amp;itemorigin=StartseiteFS23)
 
  Bereit für den Sommer!
 ---
