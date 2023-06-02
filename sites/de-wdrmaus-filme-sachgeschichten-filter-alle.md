@@ -670,6 +670,7 @@
 * [MausBlick Corona: Woher kommen die krummen Preise?](https://www.wdrmaus.de/filme/sachgeschichten/mausblick_krumme_preise.php5)
 * [MausBlick Klima: CO2-armes Essen](https://www.wdrmaus.de/filme/sachgeschichten/mausblick_co2_armes_essen.php5)
 * [MausBlick Klima: Energiespardetektive](https://www.wdrmaus.de/filme/sachgeschichten/mausblick_energiedetektive.php5)
+* [MausBlick Klima: Forststerben](https://www.wdrmaus.de/filme/sachgeschichten/mausblick_forststerben.php5)
 * [MausBlick Klima: Green Data](https://www.wdrmaus.de/filme/sachgeschichten/mausblick_green_data.php5)
 * [Mausblick Klima: Hochwasser](https://www.wdrmaus.de/filme/sachgeschichten/mausblick_hochwasser.php5)
 * [MausBlick Klima: Klimaangst](https://www.wdrmaus.de/filme/sachgeschichten/mausblick_klimaangst.php5)
