@@ -3,16 +3,6 @@ Aktuelle Meldungen
 
 ---
 
- Uelzen 02.06.2023 [RE4/RB41: Busnotverkehr aufgrund kurzfristiger Personalausfälle ----------](https://www.der-metronom.de/aktuell/re4-rb41-busnotverkehr-aufgrund-kurzfristiger-personalausfaelle/)
-
-Busnotverkehr (BNV) am 02.06.:
-ab Bremen – Harburg Abfahrt 21:40 Uhr, Halt an jedem Unterwegsbahnhof
-ab Bremen - Harburg Abfahrt 23:15 Uhr, Halt an jedem Unterwegsbahnhof
-Busnotverkehr (BNV) am 03.06.:
-ab Harburg – Tostedt Abfahrt 02:00 Uhr,...
-
----
-
  Uelzen 31.05.2023 [RB31: Kurzfristige Bahnsteigarbeiten in den Nächten am Bahnhof Winsen(Luhe) ----------](https://www.der-metronom.de/aktuell/rb31-kurzfristige-bahnsteigarbeiten-in-winsenluhe/)
 
 Aufgrund der durch einen Güterzug verursachten Bahnsteigschäden in Winsen(Luhe) kommt es zu kurzfristig angesetzten Baumaßnahmen, um die beschädigten Bahnsteigabschnitte wieder instand zu setzen. Diese Bauarbeiten sind in den Nächten vom 31.05....
