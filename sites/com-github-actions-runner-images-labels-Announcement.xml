@@ -6,6 +6,17 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[All OSs] .NET 3.1 will be removed from the images on July, 3</title>
+			<link>https://github.com/actions/runner-images/issues/7667</link>
+			<pubDate>Sun, 04 Jun 2023 11:00:24 +0000</pubDate>
+			<content:encoded><![CDATA[#7667
+opened
+Jun 4, 2023
+by
+
+mikhailkoliada]]></content:encoded>
+		</item>
+		<item>
 			<title>Actions runner image scheduled maintenance (June 2 2023 through June 12 20223)</title>
 			<link>https://github.com/actions/runner-images/issues/7660</link>
 			<pubDate>Fri, 02 Jun 2023 09:56:30 +0000</pubDate>
