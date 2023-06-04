@@ -279,6 +279,7 @@
 * [Feuer machen](https://www.wdrmaus.de/filme/sachgeschichten/feuer_machen.php5)
 * [Feuerknistern](https://www.wdrmaus.de/filme/sachgeschichten/feuerknistern.php5)
 * [Feuerlöscher](https://www.wdrmaus.de/filme/sachgeschichten/feuerloescher.php5)
+* [Feuersalamander](https://www.wdrmaus.de/filme/sachgeschichten/feuersalamander.php5)
 * [Feuerwehr](https://www.wdrmaus.de/filme/sachgeschichten/feuerwehr.php5)
 * [Feuerwehrauto (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/feuerwehrauto_teil1.php5)
 * [Feuerwehrauto (Teil 2)](https://www.wdrmaus.de/filme/sachgeschichten/feuerwehrauto_teil2.php5)
