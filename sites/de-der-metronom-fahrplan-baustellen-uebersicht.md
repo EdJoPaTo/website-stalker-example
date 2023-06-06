@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[06.06.2023 RB41 geänderte Fahrzeit Rotenburg (W.) ab 03:48 Uhr](https://www.der-metronom.de/baustellen/rb41-geaenderte-fahrzeit-rotenburg-w-ab-0348-uhr/)
-
 [15.06.2023 - 17.06.2023 RB41 nächtliche Teilausfälle zwischen Rotenburg (W.) und Lauenbrück](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-zwischen-rotenburg-w-und-lauenbrueck/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
