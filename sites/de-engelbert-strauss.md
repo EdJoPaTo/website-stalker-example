@@ -81,8 +81,6 @@ sonnige Tage
 
 [alle Produkte](https://www.engelbert-strauss.de/s/suche?query=uv)
 
-[Sommer Test-Set](https://www.engelbert-strauss.de/?amp;itemorigin=StartseiteFS23)
-
  Bereit für den Sommer!
 ---
 
