@@ -387,9 +387,3 @@
 5,90 €
 
 7,02 €mit MwSt.
-
-[Shelly Scripting Basics voucher](/de/products/shop/voucher-scripting-basics)
-
-63,00 €
-
-74,97 €mit MwSt.
