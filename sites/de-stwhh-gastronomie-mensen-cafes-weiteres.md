@@ -4,7 +4,7 @@
 
  3. OG
 
-### Beratungszentrum Wohnen – BeWo ###
+### Beratungszentrum Wohnen - BeWo ###
 
  Grindelallee  9  20146  Hamburg
 
