@@ -4,6 +4,8 @@
 
  3. OG
 
+ Ab sofort montags Online-Infoveranstaltungen!
+
 ### Beratungszentrum Wohnen - BeWo ###
 
  Grindelallee  9  20146  Hamburg
