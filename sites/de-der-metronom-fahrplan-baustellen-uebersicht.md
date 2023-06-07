@@ -20,11 +20,15 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [15.06.2023 - 17.06.2023 RB41 nächtliche Teilausfälle zwischen Rotenburg (W.) und Lauenbrück](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-zwischen-rotenburg-w-und-lauenbrueck/)
 
+[20.06.2023 RE4/RB41 und RB31 nächtlicher Ersatzverkehr mit Bussen und Haltausfall](https://www.der-metronom.de/baustellen/re4-rb41-und-rb31-naechtlicher-ersatzverkehr-mit-bussen-und-haltausfall/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [31.05.2023 - 09.06.2023 RB31: Kurzfristige Bahnsteigarbeiten in den Nächten am Bahnhof Winsen(Luhe)](https://www.der-metronom.de/baustellen/rb31-kurzfristige-bahnsteigarbeiten-in-winsenluhe/)
 
 [12.06.2023 - 18.06.2023 RE3/RB31 Fahrzeitenänderungen zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-fahrzeitenaenderungen-zwischen-hamburg-hbf-und-hamburg-harburg/)
+
+[20.06.2023 RE4/RB41 und RB31 nächtlicher Ersatzverkehr mit Bussen und Haltausfall](https://www.der-metronom.de/baustellen/re4-rb41-und-rb31-naechtlicher-ersatzverkehr-mit-bussen-und-haltausfall/)
 
 RE2 Uelzen - Celle - Hannover
 
