@@ -1,3 +1,45 @@
+[Ambients Pack](/de/products/shop/ambients-pack)
+
+79,00 €
+
+94,01 €mit MwSt.
+
+[Plus Pack](/de/products/shop/plus-pack)
+
+59,99 €
+
+71,39 €mit MwSt.
+
+[Duo Pack](/de/products/shop/duo-pack)
+
+79,00 €
+
+94,01 €mit MwSt.
+
+[Measurement Pack](/de/products/shop/measurement-pack)
+
+59,00 €
+
+70,21 €mit MwSt.
+
+[Shelly Remote Pack - White](/de/products/shop/sp-remo-w)
+
+69,00 €
+
+82,11 €mit MwSt.
+
+[Din Rail Pack](/de/products/shop/din-rail-pack)
+
+209,00 €
+
+248,71 €mit MwSt.
+
+[EM Pack](/de/products/shop/em-pack)
+
+259,99 €
+
+309,39 €mit MwSt.
+
 [Shelly BLU Button1](/de/products/shop/shelly-blu-button1)
 
 14,90 €
@@ -300,7 +342,7 @@
 
 [Sensor Pack](/de/products/shop/sensor-pack)
 
-119,00 €~~139,60 €~~
+119,00 €
 
 141,61 €mit MwSt.
 
@@ -393,45 +435,3 @@
 5,90 €
 
 7,02 €mit MwSt.
-
-[Ambients Pack](/de/products/shop/ambients-pack)
-
-79,00 €~~97,60 €~~
-
-94,01 €mit MwSt.
-
-[Plus Pack](/de/products/shop/plus-pack)
-
-59,99 €~~69,60 €~~
-
-71,39 €mit MwSt.
-
-[Duo Pack](/de/products/shop/duo-pack)
-
-79,00 €~~95,20 €~~
-
-94,01 €mit MwSt.
-
-[Measurement Pack](/de/products/shop/measurement-pack)
-
-59,00 €~~68,40 €~~
-
-70,21 €mit MwSt.
-
-[Shelly Remote Pack - White](/de/products/shop/sp-remo-w)
-
-69,00 €~~81,60 €~~
-
-82,11 €mit MwSt.
-
-[Din Rail Pack](/de/products/shop/din-rail-pack)
-
-209,00 €~~258,40 €~~
-
-248,71 €mit MwSt.
-
-[EM Pack](/de/products/shop/em-pack)
-
-259,99 €~~327,00 €~~
-
-309,39 €mit MwSt.
