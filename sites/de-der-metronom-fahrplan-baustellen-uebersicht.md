@@ -24,8 +24,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[31.05.2023 - 09.06.2023 RB31: Kurzfristige Bahnsteigarbeiten in den Nächten am Bahnhof Winsen(Luhe)](https://www.der-metronom.de/baustellen/rb31-kurzfristige-bahnsteigarbeiten-in-winsenluhe/)
-
 [12.06.2023 - 18.06.2023 RE3/RB31 Fahrzeitenänderungen zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-fahrzeitenaenderungen-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 [18.06.2023 - 23.06.2023 RB31 kurzfristige Bahnsteigarbeiten - nächtlicher Haltausfall 81647 in Radbruch und Bardowick -](https://www.der-metronom.de/baustellen/rb31-kurzfristige-bahnsteigarbeiten-naechtlicher-haltausfall-81647-in-radbruch-und-bardowick/)
