@@ -936,6 +936,7 @@
 * [Seepferdchen](https://www.wdrmaus.de/filme/sachgeschichten/seepferdchen.php5)
 * [Segeln gegen den Wind](https://www.wdrmaus.de/filme/sachgeschichten/segeln_gegen_den_wind.php5)
 * [Sehchip für Blinde](https://www.wdrmaus.de/filme/sachgeschichten/sehchip_fuer_blinde.php5)
+* [Seife](https://www.wdrmaus.de/filme/sachgeschichten/seife.php5)
 * [Seifenschaum](https://www.wdrmaus.de/filme/sachgeschichten/seifenschaum.php5)
 * [Seifenspender](https://www.wdrmaus.de/filme/sachgeschichten/seifenspender.php5)
 * [Seilspleißen](https://www.wdrmaus.de/filme/sachgeschichten/seilspleissen.php5)
