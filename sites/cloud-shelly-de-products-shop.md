@@ -178,6 +178,12 @@
 
 23,68 €mit MwSt.
 
+[Shelly Plus Plug UK](/de/products/shop/1xpluspluguk-1)
+
+19,90 €
+
+23,68 €mit MwSt.
+
 [Shelly Button 1 - white](/de/products/shop/1xbtn1w)
 
 22,90 €
