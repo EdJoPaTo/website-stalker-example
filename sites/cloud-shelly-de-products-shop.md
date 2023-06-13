@@ -352,6 +352,12 @@
 
 27,25 €mit MwSt.
 
+[Shelly Pro 3EM Switch Add-On](/de/products/shop/shelly-pro-3-em-switch-add-on)
+
+19,90 €
+
+23,68 €mit MwSt.
+
 [Bypass](/de/products/shop/bypass-1)
 
 2,90 €
