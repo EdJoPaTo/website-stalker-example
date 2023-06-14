@@ -38,6 +38,20 @@ sommer
 
 [alle Produkte](https://www.engelbert-strauss.de/neuheiten-schuhe/?sort=newest)
 
+ 365
+TAGE
+---
+
+ 2024
+TEILE
+---
+
+ Die ersten offiziellen Strauss
+UEFA EURO 2024™ Teile
+---
+
+[Anstoß Sonderkollektion](https://www.engelbert-strauss.de/EURO2024-limited)
+
  Funktionshose + Shorts + Badetuch
 ---
 
