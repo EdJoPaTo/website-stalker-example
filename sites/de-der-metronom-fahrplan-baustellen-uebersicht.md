@@ -32,6 +32,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [18.06.2023 - 23.06.2023 RB31 kurzfristige Bahnsteigarbeiten - nächtlicher Haltausfall 81647 in Radbruch und Bardowick -](https://www.der-metronom.de/baustellen/rb31-kurzfristige-bahnsteigarbeiten-naechtlicher-haltausfall-81647-in-radbruch-und-bardowick/)
 
+[18.06.2023 RB31 kurzfristige Fahrzeitenänderung für den 18.06.2023](https://www.der-metronom.de/baustellen/rb31-kurzfristige-fahrzeitenaenderung-fuer-den-18-06-2023/)
+
 [20.06.2023 RE4/RB41 und RB31 nächtlicher Ersatzverkehr mit Bussen und Haltausfall](https://www.der-metronom.de/baustellen/re4-rb41-und-rb31-naechtlicher-ersatzverkehr-mit-bussen-und-haltausfall/)
 
 [26.06.2023 - 27.06.2023 RB31/RB41 nächtlich geänderte Fahrzeiten 81645 und 81902](https://www.der-metronom.de/baustellen/rb31-rb41-naechtlich-geaenderte-fahrzeiten-81645-und-81902/)
@@ -44,7 +46,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[18.06.2023 RB31 kurzfristige Fahrzeitenänderung für den 18.06.2023](https://www.der-metronom.de/baustellen/rb31-kurzfristige-fahrzeitenaenderung-fuer-den-18-06-2023/)
 
 RE2 Hannover - Northeim - Göttingen
 
