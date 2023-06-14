@@ -186,21 +186,27 @@ cirrus incus
 
   If dual-boot configurations - or other distributions are desired - please note in the comment field.
 
+  ##### Please first select a SSD to install the OS #####
+
+  ##### Vorinstalliertes Betriebssystem #####
+
+  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
+
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
   * **Ubuntu 23.04** “Lunar Lobster”
   * **Linux Mint 21.1** “Vera”
   * **Windows 11 Home**
-    original OEM Lizenz
+    original OEM license
   * **Windows 11 Pro**
-    original OEM Lizenz
+    original OEM license
   * **Windows 10 Home**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Home
+    original OEM license
+    includes free update to Windows 11 Home
   * **Windows 10 Pro**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Pro
-  * **Other Operating System**
+    original OEM license
+    includes free update to Windows 11 Pro
+  * **Different operating system**
     as long as possible we are happy to try to install other operating systems
 
   * No pre-installed operating system
@@ -208,16 +214,16 @@ cirrus incus
   * **Ubuntu 23.04** “Lunar Lobster”
   * **Linux Mint 21.1** “Vera”
   * **Windows 11 Home**
-    original OEM Lizenz
+    original OEM license
   * **Windows 11 Pro**
-    original OEM Lizenz
+    original OEM license
   * **Windows 10 Home**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Home
+    original OEM license
+    includes free update to Windows 11 Home
   * **Windows 10 Pro**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Pro
-  * **Other Operating System**
+    original OEM license
+    includes free update to Windows 11 Pro
+  * **Different operating system**
     as long as possible we are happy to try to install other operating systems
 
   *
