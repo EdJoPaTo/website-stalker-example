@@ -230,6 +230,8 @@
 
  Von-Melle-Park  5  20146  Hamburg
 
+ Am 23.06.2023 von 08:00 bis 14:00 Uhr geöffnet!
+
 ### Café CampusBlick ###
 
  Von-Melle-Park  8  20146  Hamburg
@@ -253,6 +255,8 @@
 ### Triftstraße ###
 
  Triftstraße  102  21075  Hamburg
+
+ Am 23.06.2023 von 08:00 bis 14:00 Uhr geöffnet!
 
 ### Café dell´Arte ###
 
@@ -287,6 +291,8 @@
 ### Café insgrüne Harburg ###
 
  Eißendorfer Straße  38  21073  Hamburg
+
+ Am 23.06.2023 geschlossen!
 
 ### Café Jungiusstraße ###
 
