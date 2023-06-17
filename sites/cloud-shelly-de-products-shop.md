@@ -100,11 +100,23 @@
 
 64,14 €mit MwSt.
 
+[Shelly Pro Dual Cover PM](/de/products/shop/shelly-pro-dual-cover-pm)
+
+97,90 €
+
+116,50 €mit MwSt.
+
 [Shelly Pro 4PM](/de/products/shop/shelly-pro-4pm-1)
 
 97,90 €
 
 116,50 €mit MwSt.
+
+[Shelly Pro 3EM](/de/products/shop/pro-3-em)
+
+119,90 €
+
+142,68 €mit MwSt.
 
 [Shelly Pro 3](/de/products/shop/shelly-pro-3-1)
 
@@ -135,12 +147,6 @@
 65,90 €
 
 78,42 €mit MwSt.
-
-[Shelly Pro 3EM](/de/products/shop/pro-3-em)
-
-119,90 €
-
-142,68 €mit MwSt.
 
 [Shelly Dimmer 2](/de/products/shop/1xsd2)
 
@@ -351,12 +357,6 @@
 22,90 €
 
 27,25 €mit MwSt.
-
-[Shelly Pro Dual Cover PM](/de/products/shop/shelly-pro-dual-cover-pm)
-
-97,90 €
-
-116,50 €mit MwSt.
 
 [Shelly Pro 3EM Switch Add-On](/de/products/shop/shelly-pro-3-em-switch-add-on)
 
