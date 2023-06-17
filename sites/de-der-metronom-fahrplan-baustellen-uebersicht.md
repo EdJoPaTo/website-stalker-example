@@ -18,8 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[15.06.2023 - 17.06.2023 RB41 nächtliche Teilausfälle zwischen Rotenburg (W.) und Lauenbrück](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-zwischen-rotenburg-w-und-lauenbrueck/)
-
 [20.06.2023 RE4/RB41 und RB31 nächtlicher Ersatzverkehr mit Bussen und Haltausfall](https://www.der-metronom.de/baustellen/re4-rb41-und-rb31-naechtlicher-ersatzverkehr-mit-bussen-und-haltausfall/)
 
 [26.06.2023 - 27.06.2023 RB31/RB41 nächtlich geänderte Fahrzeiten 81645 und 81902](https://www.der-metronom.de/baustellen/rb31-rb41-naechtlich-geaenderte-fahrzeiten-81645-und-81902/)
