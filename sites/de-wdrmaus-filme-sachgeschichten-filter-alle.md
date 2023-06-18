@@ -1134,6 +1134,7 @@
 * [Was braucht man zum Leben?](https://www.wdrmaus.de/filme/sachgeschichten/was_braucht_man_zum_leben.php5)
 * [Waschmaschine](https://www.wdrmaus.de/filme/sachgeschichten/waschmaschine.php5)
 * [Wasser in der Wüste](https://www.wdrmaus.de/filme/sachgeschichten/wasser_in_der_wueste.php5)
+* [Wasser schneidet Metall](https://www.wdrmaus.de/filme/sachgeschichten/wasser_schneidet_metall.php5)
 * [Wasserball](https://www.wdrmaus.de/filme/sachgeschichten/wasserball.php5)
 * [Wasserhahn](https://www.wdrmaus.de/filme/sachgeschichten/wasserhahn.php5)
 * [Wasserkocher](https://www.wdrmaus.de/filme/sachgeschichten/wasserkocher.php5)
