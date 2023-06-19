@@ -376,31 +376,31 @@
 
 22,49 €mit MwSt.
 
-[Shelly 1L](/de/products/shop/1xs1l)
+[Shelly 1L](/de/products/shop/shelly-1l)
 
 15,50 €
 
 18,45 €mit MwSt.
 
-[Temperature Sensor DS18B20](/de/products/shop/ds18b20x1)
+[Temperature Sensor DS18B20](/de/products/shop/temp-sensor-ds18b20x1)
 
 4,90 €
 
 5,83 €mit MwSt.
 
-[Shelly 1](/de/products/shop/1xs1)
+[Shelly 1](/de/products/shop/shelly-1)
 
 11,90 €
 
 14,16 €mit MwSt.
 
-[Shelly Wall Socket EU - White](/de/products/shop/swsockeu-w)
+[Shelly Wall Socket EU - White](/de/products/shop/shelly-wall-socket-eu-white)
 
 7,20 €
 
 8,57 €mit MwSt.
 
-[Shelly Wall Socket UK - White](/de/products/shop/swsockuk-w)
+[Shelly Wall Socket UK - White](/de/products/shop/shelly-wall-socket-uk-white)
 
 7,20 €
 
@@ -412,25 +412,25 @@
 
 5,94 €mit MwSt.
 
-[Current Transformer 120A](/de/products/shop/ct120ax1)
+[Current Transformer 120A](/de/products/shop/current-transformer-120a)
 
 14,50 €
 
 17,26 €mit MwSt.
 
-[Shelly Button](/de/products/shop/btn-1)
+[Shelly Button](/de/products/shop/shelly-button1-white)
 
 5,90 €
 
 7,02 €mit MwSt.
 
-[CR123A 1500mAh 3.0V battery](/de/products/shop/1xcr123a)
+[CR123A 1500mAh 3.0V battery](/de/products/shop/cr123a)
 
 1,50 €
 
 1,79 €mit MwSt.
 
-[AA 1.5V (LR6) Batterien](/de/products/shop/4xlr6-01)
+[AA 1.5V (LR6) Batterien (4 Pack)](/de/products/shop/lr6-010-4-pack)
 
 1,20 €
 
