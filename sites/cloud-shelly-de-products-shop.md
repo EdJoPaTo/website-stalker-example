@@ -52,7 +52,7 @@
 
 17,73 €mit MwSt.
 
-[Shelly Plus 1PM](/de/products/shop/2xspl1pm/shelly-plus-1-pm)
+[Shelly Plus 1PM](/de/products/shop/shelly-plus-1-pm-2-pack/shelly-plus-1-pm)
 
 16,90 €
 
@@ -70,7 +70,7 @@
 
 30,82 €mit MwSt.
 
-[Shelly Plus i4](/de/products/shop/splusi4x1)
+[Shelly Plus i4](/de/products/shop/shelly-plusi4)
 
 11,90 €
 
@@ -94,7 +94,7 @@
 
 129,71 €mit MwSt.
 
-[Shelly EM + 120A Clamp](/de/products/shop/em-120a-1)
+[Shelly EM + 120A Clamp](/de/products/shop/shelly-em-1x-120a)
 
 53,90 €
 
@@ -112,7 +112,7 @@
 
 116,50 €mit MwSt.
 
-[Shelly Pro 3EM](/de/products/shop/pro-3-em)
+[Shelly Pro 3EM](/de/products/shop/shelly-pro-3-em)
 
 119,90 €
 
@@ -148,19 +148,19 @@
 
 78,42 €mit MwSt.
 
-[Shelly Dimmer 2](/de/products/shop/1xsd2)
+[Shelly Dimmer 2](/de/products/shop/shelly-dimmer2)
 
 28,90 €
 
 34,39 €mit MwSt.
 
-[Shelly RGBW2](/de/products/shop/1xrgbw)
+[Shelly RGBW2](/de/products/shop/shelly-rgbw2-1)
 
 19,90 €
 
 23,68 €mit MwSt.
 
-[Shelly Uni](/de/products/shop/1xuni)
+[Shelly Uni](/de/products/shop/shelly-uni-1)
 
 11,90 €
 
