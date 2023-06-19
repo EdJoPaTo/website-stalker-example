@@ -100,7 +100,7 @@
 
 64,14 €mit MwSt.
 
-[Shelly Pro Dual Cover PM](/de/products/shop/shelly-pro-dual-cover-pm)
+[Shelly Pro Dual Cover / Shutter PM](/de/products/shop/shelly-pro-dual-cover-pm)
 
 97,90 €
 
