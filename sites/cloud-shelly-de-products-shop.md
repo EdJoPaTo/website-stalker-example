@@ -172,7 +172,7 @@
 
 78,42 €mit MwSt.
 
-[Shelly Plug](/de/products/shop/1xplug)
+[Shelly Plug](/de/products/shop/shelly-plug)
 
 31,90 €
 
@@ -184,13 +184,13 @@
 
 23,68 €mit MwSt.
 
-[Shelly Plus Plug UK](/de/products/shop/1xpluspluguk-1)
+[Shelly Plus Plug UK](/de/products/shop/shelly-plus-plug-uk)
 
 19,90 €
 
 23,68 €mit MwSt.
 
-[Shelly Button 1 - white](/de/products/shop/1xbtn1w)
+[Shelly Button 1 - white](/de/products/shop/shelly-button-1-white)
 
 22,90 €
 
@@ -202,13 +202,13 @@
 
 35,58 €mit MwSt.
 
-[Shelly H&T - white](/de/products/shop/ht-w)
+[Shelly H&T - white](/de/products/shop/shelly-ht-w)
 
 20,90 €
 
 24,87 €mit MwSt.
 
-[Shelly H&T Black](/de/products/shop/1xht-b)
+[Shelly H&T Black](/de/products/shop/shelly-ht-b)
 
 20,90 €
 
@@ -220,31 +220,31 @@
 
 47,48 €mit MwSt.
 
-[Shelly Door Window 2](/de/products/shop/1xdw)
+[Shelly Door Window 2](/de/products/shop/shelly-door-window2)
 
 21,90 €
 
 26,06 €mit MwSt.
 
-[Shelly Flood](/de/products/shop/1xflood)
+[Shelly Flood](/de/products/shop/shelly-flood-1)
 
 21,90 €
 
 26,06 €mit MwSt.
 
-[Shelly Gas CNG](/de/products/shop/sg-eu-cng)
+[Shelly Gas CNG](/de/products/shop/shelly-gas-eu-cng)
 
 48,50 €
 
 57,72 €mit MwSt.
 
-[Shelly Gas LPG](/de/products/shop/sg-eu-lpg)
+[Shelly Gas LPG](/de/products/shop/shelly-gas-eu-lpg)
 
 48,50 €
 
 57,72 €mit MwSt.
 
-[Shelly Duo](/de/products/shop/1xduo)
+[Shelly Duo](/de/products/shop/shelly-duo)
 
 11,90 €
 
@@ -256,13 +256,13 @@
 
 14,16 €mit MwSt.
 
-[Shelly Duo GU10](/de/products/shop/1xdgu10)
+[Shelly Duo GU10](/de/products/shop/shelly-duo-gu-10)
 
 11,90 €
 
 14,16 €mit MwSt.
 
-[Shelly Duo - RGBW GU10](/de/products/shop/1xbulbrgbwgu10)
+[Shelly Duo - RGBW GU10](/de/products/shop/shelly-duo-rgbw-gu-10)
 
 11,90 €
 
@@ -274,13 +274,13 @@
 
 24,87 €mit MwSt.
 
-[Shelly Vintage ST64](/de/products/shop/1xst64)
+[Shelly Vintage ST64](/de/products/shop/shelly-vintage-st-64)
 
 11,90 €
 
 14,16 €mit MwSt.
 
-[Shelly Vintage A60](/de/products/shop/1xa60)
+[Shelly Vintage A60](/de/products/shop/shelly-vintage-a60)
 
 11,90 €
 
@@ -292,43 +292,43 @@
 
 20,46 €mit MwSt.
 
-[Shelly Wall Switch 1 - white](/de/products/shop/shws1wh)
+[Shelly Wall Switch 1 - white](/de/products/shop/shelly-wall-switch-1-white)
 
 7,20 €
 
 8,57 €mit MwSt.
 
-[Shelly Wall Switch 2 - white](/de/products/shop/shws2-2)
+[Shelly Wall Switch 2 - white](/de/products/shop/shelly-wall-switch-2-white)
 
 7,20 €
 
 8,57 €mit MwSt.
 
-[Shelly Wall Switch 4 - white](/de/products/shop/shws4wh)
+[Shelly Wall Switch 4 - white](/de/products/shop/shelly-wall-switch-4-white)
 
 7,20 €
 
 8,57 €mit MwSt.
 
-[Shelly Wall Frame 1 for Wall Switch - white](/de/products/shop/shwf1wh)
+[Shelly Wall Frame 1 for Wall Switch - white](/de/products/shop/shelly-wall-frame-1-white)
 
 3,90 €
 
 4,64 €mit MwSt.
 
-[Shelly Wall Frame 2 for Wall Switch - white](/de/products/shop/shwf2wh)
+[Shelly Wall Frame 2 for Wall Switch - white](/de/products/shop/shelly-wall-frame-2-white)
 
 6,90 €
 
 8,21 €mit MwSt.
 
-[Shelly Wall Frame 3 for Wall Switch - white](/de/products/shop/shwf3wh)
+[Shelly Wall Frame 3 for Wall Switch - white](/de/products/shop/shelly-wall-frame-3-white)
 
 8,90 €
 
 10,59 €mit MwSt.
 
-[USB power supply for Shelly H&T](/de/products/shop/htusb-w)
+[USB power supply for Shelly H&T](/de/products/shop/shelly-usb-power-supply-ht-w)
 
 5,90 €
 
@@ -346,13 +346,13 @@
 
 22,02 €mit MwSt.
 
-[Outdoor IP55 AddOn](/de/products/shop/outadduk)
+[Outdoor IP55 AddOn](/de/products/shop/outdoor-ip55-add-on-uk)
 
 7,50 €
 
 8,93 €mit MwSt.
 
-[USB powered UVC LED](/de/products/shop/1xuvc)
+[USB powered UVC LED](/de/products/shop/usb-powered-uvc-led-1)
 
 22,90 €
 
@@ -370,7 +370,7 @@
 
 3,45 €mit MwSt.
 
-[Shelly 1L + Bypass](/de/products/shop/s1l-bp-1)
+[Shelly 1L + Bypass](/de/products/shop/shelly-1l-bypass)
 
 18,90 €
 
