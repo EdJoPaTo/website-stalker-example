@@ -1,3 +1,5 @@
+Am 03. und 04.07.2023 findet keine Beratung statt!
+
 ### Beratung für Studierende mit Kind ###
 
  Grindelallee  9  20146  Hamburg
