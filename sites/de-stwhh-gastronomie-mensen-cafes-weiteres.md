@@ -178,7 +178,7 @@
 
  Bunatwiete 6, Moorstraße  7, 15  21073  Hamburg
 
- Am 23.06.2023 von 11:30 bis 14:30 Uhr geöffnet! Essensausgabe bis 14:00 Uhr!
+ Vom 20.06. bis 22.06.2023 von 11:30 bis 18:00 Uhr geöffnet! Essensausgabe bis 17:30 Uhr! Am 23.06.2023 von 11:30 bis 14:30 Uhr geöffnet! Essensausgabe bis 14:00 Uhr!
 
 ### Schlüters (Pizza & More) ###
 
@@ -227,6 +227,8 @@
 ### Rahlstedt ###
 
  Sieker Landstraße  37  22143  Hamburg
+
+ Am 23.06.2023 von 08:00 bis 13:00 Uhr geöffnet!
 
 ### Café-Shop Campus ###
 
