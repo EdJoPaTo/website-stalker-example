@@ -40,12 +40,6 @@
 
 248,71 €mit MwSt.
 
-[EM Pack](/de/products/shop/em-pack)
-
-259,99 €
-
-309,39 €mit MwSt.
-
 [Shelly BLU Button1](/de/products/shop/shelly-blu-button1)
 
 14,90 €
