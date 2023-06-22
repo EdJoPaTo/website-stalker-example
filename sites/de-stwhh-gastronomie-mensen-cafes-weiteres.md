@@ -294,6 +294,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 
  Ohnhorststraße  18  22609  Hamburg
 
+ Bis einschließlich Freitag, 23.06.2023, aus personellen Gründen geschlossen.
+
 ### Café insgrüne Harburg ###
 
  Eißendorfer Straße  38  21073  Hamburg
