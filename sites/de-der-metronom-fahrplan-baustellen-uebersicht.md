@@ -34,13 +34,17 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [30.06.2023 - 06.07.2023 RB31/RE4/RB41 nächtliche Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/rb31-re4-rb41-naechtliche-haltausfaelle-und-fahrzeitenaenderungen/)
 
+[06.07.2023 - 07.07.2023 RB31 nächtliche Haltausfälle Maschen/Meckelfeld und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-maschen-meckelfeld-und-hamburg-harburg/)
+
+[07.07.2023 - 08.07.2023 RE3 82106 zwischen Winsen und Hamburg Hbf geänderte Fahrzeit](https://www.der-metronom.de/baustellen/re3-82106-zwischen-winsen-und-hamburg-hbf-geaenderte-fahrzeit/)
+
 RE2 Uelzen - Celle - Hannover
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[06.07.2023 - 13.07.2023 RE2/RE3 Uelzen - Göttingen in beiden Richtungen - Umstieg in Hannover Hbf erforderlich](https://www.der-metronom.de/baustellen/re2-re3-uelzen-goettingen-in-beiden-richtungen-umstieg-in-hannover-hbf-erforderlich/)
 
 RE2 Hannover - Northeim - Göttingen
 
-Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[06.07.2023 - 13.07.2023 RE2/RE3 Uelzen - Göttingen in beiden Richtungen - Umstieg in Hannover Hbf erforderlich](https://www.der-metronom.de/baustellen/re2-re3-uelzen-goettingen-in-beiden-richtungen-umstieg-in-hannover-hbf-erforderlich/)
 
 Dein persönlicher Baustellen-Newsletter
 ----------
