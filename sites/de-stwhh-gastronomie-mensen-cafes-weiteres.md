@@ -52,6 +52,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 
  Ulmenliet  20  21033  Hamburg
 
+ Am 23.06.2023 hat der Take away counter "Ofenfrisch" von 14:00 bis 15:00 Uhr geöffnet!
+
 ### Mensa Berliner Tor ###
 
  Berliner Tor  7  20099  Hamburg
@@ -99,6 +101,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 ### Die Burse ###
 
  Spannskamp  26  22527  Hamburg
+
+ Am 23.06.2023 von 11:30 bis 13:00 Uhr geöffnet!
 
 ### Mensa Finkenau ###
 
@@ -309,6 +313,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 ### Café (am Mittelweg) ###
 
  Mittelweg  177  20148  Hamburg
+
+ Am 23.06.2023 von 07:45 bis 14:00 Uhr geöffnet!
 
 ### Café Student Affairs ###
 
