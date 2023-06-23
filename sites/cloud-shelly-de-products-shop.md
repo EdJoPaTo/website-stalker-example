@@ -441,9 +441,3 @@
 5,90 €
 
 7,02 €mit MwSt.
-
-[Energy Metering Pack](/de/products/shop/energy-metering-pack)
-
-138,46 €
-
-164,77 €mit MwSt.
