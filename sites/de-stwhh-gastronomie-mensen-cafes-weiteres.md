@@ -180,7 +180,7 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 
  Bunatwiete 6, Moorstraße  7, 15  21073  Hamburg
 
- Vom 20.06. bis 22.06.2023 von 11:30 bis 18:00 Uhr geöffnet! Essensausgabe bis 17:30 Uhr! Am 23.06.2023 von 11:30 bis 14:30 Uhr geöffnet! Essensausgabe bis 14:00 Uhr!
+ Am 23.06.2023 von 11:30 bis 14:30 Uhr geöffnet! Essensausgabe bis 14:00 Uhr!
 
 ### Schlüters (Pizza & More) ###
 
