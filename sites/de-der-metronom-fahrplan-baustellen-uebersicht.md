@@ -24,8 +24,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[18.06.2023 - 23.06.2023 RB31 kurzfristige Bahnsteigarbeiten - nächtlicher Haltausfall 81647 in Radbruch und Bardowick -](https://www.der-metronom.de/baustellen/rb31-kurzfristige-bahnsteigarbeiten-naechtlicher-haltausfall-81647-in-radbruch-und-bardowick/)
-
 [26.06.2023 - 27.06.2023 RB31/RB41 nächtlich geänderte Fahrzeiten 81645 und 81902](https://www.der-metronom.de/baustellen/rb31-rb41-naechtlich-geaenderte-fahrzeiten-81645-und-81902/)
 
 [26.06.2023 - 03.07.2023 RE3/RB31 Ersatzverkehr mit Bussen in den frühen Morgenstunden an zwei Tagen](https://www.der-metronom.de/baustellen/re3-rb31-ersatzverkehr-mit-bussen-in-den-fruehen-morgenstunden-an-zwei-tagen/)
