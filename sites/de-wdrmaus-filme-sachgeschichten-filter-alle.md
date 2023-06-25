@@ -984,6 +984,7 @@
 * [Sonnenmilch](https://www.wdrmaus.de/filme/sachgeschichten/sonnenmilch.php5)
 * [Sonnenschutz für Bäume](https://www.wdrmaus.de/filme/sachgeschichten/sonnenschutz_fuer_baeume.php5)
 * [Sonnenwärme](https://www.wdrmaus.de/filme/sachgeschichten/sonnenwaerme.php5)
+* [Spaghetti](https://www.wdrmaus.de/filme/sachgeschichten/spaghetti.php5)
 * [Spargel](https://www.wdrmaus.de/filme/sachgeschichten/spargel.php5)
 * [Spaten](https://www.wdrmaus.de/filme/sachgeschichten/spaten.php5)
 * [Spezialeffekte Filmregen](https://www.wdrmaus.de/filme/sachgeschichten/spezialeffekte_filmregen.php5)
