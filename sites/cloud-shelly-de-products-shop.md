@@ -310,6 +310,12 @@
 
 27,25 €mit MwSt.
 
+[Shelly Plus Smoke](/de/products/shop/shelly-plus-smoke)
+
+44,90 €
+
+53,43 €mit MwSt.
+
 [Shelly Pro 3EM Switch Add-On](/de/products/shop/shelly-pro-3-em-switch-add-on)
 
 19,90 €
