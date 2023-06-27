@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<title>Hetzner News</title>
-		<link>https://www.hetzner.com/news/</link>
-		<description></description>
+		<link>https://www.hetzner.com/news</link>
+		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Upgrade to the future: The new AX102 Dedicated Server with AMD Ryzen™ 9 7950X3D</title>
-			<link>https://www.hetzner.com/news/new-amd-ryzen-7950-server/</link>
+			<link>https://www.hetzner.com/news/new-amd-ryzen-7950-server</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -25,7 +25,7 @@
 		</item>
 		<item>
 			<title>Rethink your cloud. Rely on our new arm64 CAX servers</title>
-			<link>https://www.hetzner.com/news/arm64-cloud/</link>
+			<link>https://www.hetzner.com/news/arm64-cloud</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -43,7 +43,7 @@
 		</item>
 		<item>
 			<title>New dedicated servers for almost any use case</title>
-			<link>https://www.hetzner.com/news/neue-dedicated-server-2023/</link>
+			<link>https://www.hetzner.com/news/neue-dedicated-server-2023</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -62,7 +62,7 @@ The new EX101 Dedicated Server from the EX line houses the high-end Intel® i9-1
 		</item>
 		<item>
 			<title>HETZNER CONTINUES ITS GROWTH IN THE US WITH A NEW LOCATION</title>
-			<link>https://www.hetzner.com/news/12-22-cloud-usa/</link>
+			<link>https://www.hetzner.com/news/12-22-cloud-usa</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -73,14 +73,14 @@ The new EX101 Dedicated Server from the EX line houses the high-end Intel® i9-1
 			</small>
 		</p>
 		<p>
-			West Coast - Here we come: Today, we officially launched our second location in the USA for cloud products in Hillsboro, Oregon, just outside of Portland, a location ripe for…
+			Hetzner, the German hosting and cloud provider, officially launched its second location in the USA for cloud products in Hillsboro, Oregon, just outside of Portland, a location ripe for future…
 		</p>
 	</body>
 </html>]]></content:encoded>
 		</item>
 		<item>
 			<title>Cyber Deals: Hetzner Storage Shares and Dedicated Server AX101 in the spotlight</title>
-			<link>https://www.hetzner.com/news/cyber-deals-2022/</link>
+			<link>https://www.hetzner.com/news/cyber-deals-2022</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -99,7 +99,7 @@ Starting on 28 November 2022 at 8:00 am (CET), you can order one of 2022 Hetzner
 		</item>
 		<item>
 			<title>RX-Line: Pushing the envelop of parallelization</title>
-			<link>https://www.hetzner.com/news/07-22-rx-line/</link>
+			<link>https://www.hetzner.com/news/07-22-rx-line</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -117,7 +117,7 @@ Starting on 28 November 2022 at 8:00 am (CET), you can order one of 2022 Hetzner
 		</item>
 		<item>
 			<title>Hetzner Cloud: Flexible Networking</title>
-			<link>https://www.hetzner.com/news/06-22-flexibles-networking/</link>
+			<link>https://www.hetzner.com/news/06-22-flexibles-networking</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -136,7 +136,7 @@ When you create a cloud server, it will no longer automatically include public I
 		</item>
 		<item>
 			<title>25 years of Hetzner - join the fun &amp; win one of 25 prizes!</title>
-			<link>https://www.hetzner.com/news/06-22-sweepstakes/</link>
+			<link>https://www.hetzner.com/news/06-22-sweepstakes</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -154,7 +154,7 @@ When you create a cloud server, it will no longer automatically include public I
 		</item>
 		<item>
 			<title>Focused on a low price and strong performance: the new Hetzner Dedicated Root Server EX43</title>
-			<link>https://www.hetzner.com/news/03-22-ex43/</link>
+			<link>https://www.hetzner.com/news/03-22-ex43</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
@@ -172,7 +172,7 @@ When you create a cloud server, it will no longer automatically include public I
 		</item>
 		<item>
 			<title>Seasons special: Skip the setup fee on selected AX servers!</title>
-			<link>https://www.hetzner.com/news/03-22-seasons-special/</link>
+			<link>https://www.hetzner.com/news/03-22-seasons-special</link>
 			<content:encoded><![CDATA[<html>
 	<head>
 	</head>
