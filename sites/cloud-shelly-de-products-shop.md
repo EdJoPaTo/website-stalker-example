@@ -1,14 +1,26 @@
-[Shelly BLU Button1](/de/products/shop/shelly-blu-button1)
+[Shelly BLU Door/Window](/de/products/shop/shelly-blu-door-window)
 
-14,90 €
+21,90 €
 
-17,73 €mit MwSt.
+26,06 €mit MwSt.
 
 [Shelly Wave 1](/de/products/shop/shelly-wave-1)
 
 23,25 €
 
 27,67 €mit MwSt.
+
+[Shelly Wave 1PM](/de/products/shop/shelly-wave-1-pm)
+
+24,92 €
+
+29,65 €mit MwSt.
+
+[Shelly BLU Button1](/de/products/shop/shelly-blu-button1)
+
+14,90 €
+
+17,73 €mit MwSt.
 
 [Shelly Plus 1PM](/de/products/shop/shelly-plus-1-pm-2-pack/shelly-plus-1-pm)
 
@@ -315,18 +327,6 @@
 22,90 €
 
 27,25 €mit MwSt.
-
-[Shelly BLU Door/Window](/de/products/shop/shelly-blu-door-window)
-
-21,90 €
-
-26,06 €mit MwSt.
-
-[Shelly Wave 1PM](/de/products/shop/shelly-wave-1-pm)
-
-24,92 €
-
-29,65 €mit MwSt.
 
 [Shelly Plus Smoke](/de/products/shop/shelly-plus-smoke)
 
