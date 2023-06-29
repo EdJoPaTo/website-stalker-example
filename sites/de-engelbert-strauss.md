@@ -1,42 +1,68 @@
-###  starker Stoff, cooler Look  ###
-
----
-
- e.s.motion ten
-sommer
+Shirts
 ----------
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/motion_ten)
+[Herren](https://www.engelbert-strauss.de/arbeitsshirts/)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
+[Damen](https://www.engelbert-strauss.de/arbeitsshirts-damen/)
 
-###  Explore new Trails  ###
+[Kinder](https://www.engelbert-strauss.de/kinder-oberbekleidung/)
 
----
-
- e.s.Trail
+ Shorts
 ----------
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/trail)
+[Herren](https://www.engelbert-strauss.de/arbeitsshorts/)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
+[Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
 
-###  S3 - Baustellen Profis  ###
+[Kinder](https://www.engelbert-strauss.de/kinder-shorts/)
+
+###  Sandale  ###
 
 ---
 
- Schuhe
+###  Low  ###
+
+---
+
+###  Mid  ###
+
+---
+
+###  S1p Sicherheitsschuhe e.s. banco  ###
+
+---
+
+ SCHUHE
 ----------
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
+[alle Schuhneuheiten](https://www.engelbert-strauss.de/arbeitsschuhe/?sort=newest)
 
-[alle Produkte](https://www.engelbert-strauss.de/neuheiten-schuhe/?sort=newest)
+###  e.s.tool concept  ###
+
+---
+
+ Werkzeug-
+taschen mit
+System
+----------
+
+---
+
+[so funktioniert's](https://www.engelbert-strauss.de/tool-concept/hafttaschen-system)
+
+###  Direkt einsatzbereit  ###
+
+---
+
+[alle Tool Concept Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
+
+[Taschen selbst gestalten](https://cargo-configurator.engelbert-strauss.de/)
 
  365
 TAGE
@@ -52,38 +78,25 @@ UEFA EURO 2024™ Teile
 
 [Anstoß Sonderkollektion](https://www.engelbert-strauss.de/EURO2024-limited)
 
- Funktionshose + Shorts + Badetuch
+ STRAUSSbox Werkzeug-Set
+215 midi Allround Profi
 ---
 
- Sommer-Sets
+ Für jeden Einsatzbereich das richtige
 ---
 
-[Jetzt kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/set-funktionshose-e-s-trail-short-badetuch-3163140-13953-1587.html?amp;itemorigin=StartseiteFS23)
-
-[alle Produkte](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/)
-
- Locker aus dem Handgelenk
+ Werkzeugset
 ---
 
- e.s.tool concept
+[alle Sets entdecken](https://www.engelbert-strauss.de/elektrowerkzeuge-sets/)
+
+ Sonnenschutz mit Style
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
-
-Taschen & Boxen
-
+ Coole Caps
 ---
 
-straussbox
-system
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/straussboxensystem-taschen)
-
-[alle Produkte](https://www.engelbert-strauss.de/straussbox-taschen/)
+[alle Caps entdecken](https://www.engelbert-strauss.de/caps/)
 
  Bestens geschützt
 ---
@@ -94,27 +107,6 @@ sonnige Tage
 ---
 
 [alle Produkte](https://www.engelbert-strauss.de/s/suche?query=uv)
-
- Bereit für den Sommer!
----
-
- Shirts
----
-
-[Herren](https://www.engelbert-strauss.de/arbeitsshirts/)
-
-[Damen](https://www.engelbert-strauss.de/arbeitsshirts-damen/)
-
-[Kinder](https://www.engelbert-strauss.de/kinder-oberbekleidung/)
-
- Shorts
----
-
-[Herren](https://www.engelbert-strauss.de/arbeitsshorts/)
-
-[Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
-
-[Kinder](https://www.engelbert-strauss.de/kinder-shorts/)
 
  Strauss Produktfinder – finde, was zu dir passt.
 ---
