@@ -6,6 +6,17 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[Ubuntu] Alpine 3.14 &amp; 3.15 docker image will be removed on July, 17</title>
+			<link>https://github.com/actions/runner-images/issues/7824</link>
+			<pubDate>Fri, 30 Jun 2023 10:43:43 +0000</pubDate>
+			<content:encoded><![CDATA[#7824
+opened
+Jun 30, 2023
+by
+
+mikhailkoliada]]></content:encoded>
+		</item>
+		<item>
 			<title>[All OSs] .NET 3.1 will be removed from the images on July, 3</title>
 			<link>https://github.com/actions/runner-images/issues/7667</link>
 			<pubDate>Sun, 04 Jun 2023 11:00:24 +0000</pubDate>
