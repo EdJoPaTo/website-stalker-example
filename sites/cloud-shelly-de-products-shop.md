@@ -1,8 +1,8 @@
 [Shelly BLU Door/Window](/de/products/shop/shelly-blu-door-window)
 
-21,90 €
+16,90 €
 
-26,06 €mit MwSt.
+20,11 €mit MwSt.
 
 [Shelly Wave 1](/de/products/shop/shelly-wave-1)
 
