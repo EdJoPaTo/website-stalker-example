@@ -7,7 +7,9 @@ Aktuelle Meldungen
 
 Abreise Uelzen Open R Festival (30.06.-02.07.)
 Uelzen-Hamburg Hbf
-Die letzten Verbindungen (Zug 81642 und 81644) am gleichen Tag startet als RB31 um 23:06 Uhr und 23:59 Uhr ab Bahnhof Uelzen nach Hamburg Hbf. Uelzen-Hannover Hbf
+Freitag und Samstag:
+Die letzten Verbindungen (Zug 81642 und 81644) am gleichen Tag startet als RB31 um 23:06 Uhr und 23:59 Uhr ab Bahnhof Uelzen nach Hamburg Hbf.
+Sonntag:
 Die...
 
 ---
