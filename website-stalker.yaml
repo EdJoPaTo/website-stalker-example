@@ -115,7 +115,7 @@ sites:
       - html_sanitize
       - html_prettify
 
-  - url: https://www.hetzner.com/news/
+  - url: https://www.hetzner.com/news
     ignore_error: true
     editors:
       - rss:
