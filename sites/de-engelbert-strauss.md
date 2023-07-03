@@ -64,20 +64,6 @@ System
 
 [Taschen selbst gestalten](https://cargo-configurator.engelbert-strauss.de/)
 
- 365
-TAGE
----
-
- 2024
-TEILE
----
-
- Die ersten offiziellen Strauss
-UEFA EURO 2024™ Teile
----
-
-[Anstoß Sonderkollektion](https://www.engelbert-strauss.de/EURO2024-limited)
-
  STRAUSSbox Werkzeug-Set
 215 midi Allround Profi
 ---
