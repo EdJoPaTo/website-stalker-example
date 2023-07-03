@@ -24,8 +24,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[26.06.2023 - 03.07.2023 RE3/RB31 Ersatzverkehr mit Bussen in den frühen Morgenstunden an zwei Tagen](https://www.der-metronom.de/baustellen/re3-rb31-ersatzverkehr-mit-bussen-in-den-fruehen-morgenstunden-an-zwei-tagen/)
-
 [30.06.2023 - 06.07.2023 RB31/RE4/RB41 nächtliche Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/rb31-re4-rb41-naechtliche-haltausfaelle-und-fahrzeitenaenderungen/)
 
 [06.07.2023 - 07.07.2023 RB31 nächtliche Haltausfälle Maschen/Meckelfeld und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-maschen-meckelfeld-und-hamburg-harburg/)
