@@ -50,9 +50,13 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 
  Bieberstraße  6  20146  Hamburg
 
+ Vom 17.07. bis 03.10.2023 von Mo-Do 07:45 bis 14:30 Uhr und Fr 07:45 bis 14:00 Uhr geöffnet!
+
 ### Mensa Bergedorf ###
 
  Ulmenliet  20  21033  Hamburg
+
+ Vom 17.07. bis 25.08.2023 geschlossen!
 
 ### Mensa Berliner Tor ###
 
@@ -101,6 +105,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 ### Die Burse ###
 
  Spannskamp  26  22527  Hamburg
+
+ Vom 17.07. bis 03.10.2023 von 09:00 bis 15:00 Uhr geöffnet!
 
 ### Mensa Finkenau ###
 
@@ -202,6 +208,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 
  Emil-Andresen-Straße  34b/c  22529  Hamburg
 
+ Vom 17.07. bis 25.08.2023 von 08:00 bis 14:30 Uhr geöffnet!
+
 ### Café Berliner Tor ###
 
  Berliner Tor  7  20099  Hamburg
@@ -258,6 +266,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 
  Triftstraße  102  21075  Hamburg
 
+ Vom 17.07. bis 04.08.2023 geschlossen!
+
 ### Café dell´Arte ###
 
  Edmund-Siemers-Allee  1  20146  Hamburg
@@ -265,6 +275,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 ### Unnastraße ###
 
  Unnastraße  9  20253  Hamburg
+
+ Vom 17.07. bis 03.10.2023 geschlossen!
 
 ### Café Finkenau ###
 
@@ -291,6 +303,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 ### Café insgrüne Harburg ###
 
  Eißendorfer Straße  38  21073  Hamburg
+
+ Vom 17.07. bis 28.07.2023 von 09:30 bis 14:00 Uhr geöffnet!
 
 ### Café Jungiusstraße ###
 
