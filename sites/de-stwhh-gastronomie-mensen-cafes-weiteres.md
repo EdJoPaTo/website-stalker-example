@@ -214,6 +214,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 
  Berliner Tor  7  20099  Hamburg
 
+ Vom 17.07. bis 17.09.2023 von 08:00 bis 15:00 Uhr geöffnet!
+
 ### Café-Shop Blueberry ###
 
  Berliner Tor  5  20099  Hamburg
@@ -241,6 +243,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 ### Café-Shop Campus ###
 
  Von-Melle-Park  5  20146  Hamburg
+
+ Vom 17.07. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
 
 ### Café CampusBlick ###
 
@@ -282,6 +286,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 
  Finkenau  35  22081  Hamburg
 
+ Vom 17.07. bis 21.07.2023 von 08:00 bis 14:30 Uhr geöffnet!
+
 ### Café-Shop Geomatikum ###
 
  Bundesstraße  55  20146  Hamburg
@@ -313,6 +319,8 @@ Am 03. und 04.07.2023 findet keine Beratung statt!
 ### Café (am Mittelweg) ###
 
  Mittelweg  177  20148  Hamburg
+
+ Vom 17.07. bis 03.10.2023 geschlossen!
 
 ### Café Student Affairs ###
 
