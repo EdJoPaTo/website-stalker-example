@@ -64,6 +64,20 @@ System
 
 [Taschen selbst gestalten](https://cargo-configurator.engelbert-strauss.de/)
 
+ Bis zu 39% sparen
+---
+
+ SOMMER SALE
+---
+
+Herren
+
+Damen
+
+Kinder
+
+[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest)
+
  STRAUSSbox Werkzeug-Set
 215 midi Allround Profi
 ---
