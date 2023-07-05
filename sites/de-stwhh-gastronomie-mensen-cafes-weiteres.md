@@ -16,8 +16,6 @@
 
  Grindelallee  9  20146  Hamburg
 
- Am Dienstag, 04.07., und Mittwoch, 05.07.2023, fallen die Sprechzeiten aus.
-
 ### Beratungszentrum Soziales & Internationales – BeSI ###
 
  Grindelallee  9  20146  Hamburg
