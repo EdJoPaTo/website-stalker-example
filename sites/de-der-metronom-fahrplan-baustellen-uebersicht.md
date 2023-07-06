@@ -18,13 +18,9 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[30.06.2023 - 06.07.2023 RB31/RE4/RB41 nächtliche Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/rb31-re4-rb41-naechtliche-haltausfaelle-und-fahrzeitenaenderungen/)
-
 [14.07.2023 - 28.07.2023 RE4/RB41 Teilausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-wegen-brueckenbauarbeiten/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
-
-[30.06.2023 - 06.07.2023 RB31/RE4/RB41 nächtliche Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/rb31-re4-rb41-naechtliche-haltausfaelle-und-fahrzeitenaenderungen/)
 
 [06.07.2023 - 07.07.2023 RB31 nächtliche Haltausfälle Maschen/Meckelfeld und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-maschen-meckelfeld-und-hamburg-harburg/)
 
