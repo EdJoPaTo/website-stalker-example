@@ -252,6 +252,8 @@ Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 EUR Warenwert.
 * [Widerrufsbelehrung](https://www.engelbert-strauss.de/Rechtliches/Widerrufsbelehrung)
 * [OS-Plattform](https://www.engelbert-strauss.de/Rechtliches/OS)
 
+[Trustpilot](https://de.trustpilot.com/review/engelbert-strauss.de)
+
  Newsletter abonnieren
 
  Jetzt anmelden und viele Vorteile genießen:
