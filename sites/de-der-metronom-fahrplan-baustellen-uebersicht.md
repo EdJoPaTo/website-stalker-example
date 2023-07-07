@@ -22,8 +22,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[06.07.2023 - 07.07.2023 RB31 nächtliche Haltausfälle Maschen/Meckelfeld und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-maschen-meckelfeld-und-hamburg-harburg/)
-
 [07.07.2023 - 08.07.2023 RE3 82106 zwischen Winsen und Hamburg Hbf geänderte Fahrzeit](https://www.der-metronom.de/baustellen/re3-82106-zwischen-winsen-und-hamburg-hbf-geaenderte-fahrzeit/)
 
 [14.07.2023 - 28.07.2023 RE3/RB31 Teilausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-wegen-brueckenbauarbeiten/)
