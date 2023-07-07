@@ -18,7 +18,7 @@ UGREEN Nexode 65W USB C GaN Table Charger
 
 Specifications and Compatibility USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A 3.3-21V/3A; PPS Adaptive Ladung 65W Max USB A1/A2 output 5V/3A, 9V/2A, 12V/1.5A; adaptive Ladung 22.5W Max outlet of the sockets...
 
-### [Ugreen Nexode 140W USB C Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-140w-usb-c-wall-charger) ###
+### [Ugreen Nexode 140W USB C GaN Charger-3 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-140w-usb-c-wall-charger) ###
 
 Ugreen Nexode 140W USB C Wall Charger
 
@@ -34,7 +34,7 @@ Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives 
 
 Universal CompatibilityThis 65W Charger is Compatible with Macbook Pro, MacBook Air, iPad Pro , iPad Air, iPad Mini 6, iPhone 14/13/12/11; Dell XPS 13, Inspiron 3793; ASUS Zenbook S UX391;...
 
-### [Ugreen Nexode 100W USB C Wall Charger - 4 Ports](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger) ###
+### [Ugreen Nexode 100W USB C GaN Charger-4 Port Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger) ###
 
 Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
 
