@@ -328,6 +328,12 @@
 
 27,25 €mit MwSt.
 
+[Shelly 1PM](/de/products/shop/1xs1pm/2xs1pm)
+
+28,13 €
+
+33,47 €mit MwSt.
+
 [Shelly Plus Smoke](/de/products/shop/shelly-plus-smoke)
 
 44,90 €
@@ -339,12 +345,6 @@
 19,90 €
 
 23,68 €mit MwSt.
-
-[Shelly 1PM](/de/products/shop/1xs1pm/2xs1pm)
-
-28,13 €
-
-33,47 €mit MwSt.
 
 [Bypass](/de/products/shop/bypass-1)
 

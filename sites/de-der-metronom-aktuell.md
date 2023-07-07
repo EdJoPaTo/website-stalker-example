@@ -3,10 +3,9 @@ Aktuelle Meldungen
 
 ---
 
- Uelzen 05.07.2023 [Sicherheit geht vor: metronom reduziert Geschwindigkeit zwischen Hamburg und Bremen ----------](https://www.der-metronom.de/aktuell/sicherheit-geht-vor-metronom-reduziert-geschwindigkeit-zwischen-hamburg-und-bremen/)
+ Uelzen 07.07.2023 [Größte Schlagerparty im Norden: Bitte nehmt Rücksicht aufeinander! ----------](https://www.der-metronom.de/aktuell/groesste-schlagerparty-im-norden-bitte-nehmt-ruecksicht-aufeinander/)
 
-Die metronom Eisenbahngesellschaft mbH reduziert ab 12 Uhr die Geschwindigkeit auf der Strecke zwischen Hamburg und Bremen auf 100 km/h. Grund für diese Maßnahme ist das angekündigte Sturmtief Poly.
-„Sicherheit geht vor“, erklärt Rainer Blüm,...
+Das gute Wetter und die größte Schlagerparty im Norden: der Schlagermove in Hamburg, wird erfahrungsgemäß zu einem hohen Reisendenaufkommen auf unseren Strecken führen. Wir appellieren daher an alle Fahrgäste, rücksichtsvoll miteinander...
 
 ---
 
