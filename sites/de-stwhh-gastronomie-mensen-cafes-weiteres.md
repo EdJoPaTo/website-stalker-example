@@ -338,6 +338,8 @@
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
 
+ Das CampusCafé schließt heute, Freitag, 07.07.2023, bereits um 15 Uhr!
+
 ### CampusCafé ###
 
  Von-Melle-Park  5  20146  Hamburg
