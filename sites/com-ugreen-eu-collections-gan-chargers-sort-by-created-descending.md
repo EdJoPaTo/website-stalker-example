@@ -26,7 +26,7 @@ Ugreen Nexode 140W USB C Wall Charger
 
 Ugreen Nexode Mini 45W Dual USB C Charger
 
-### [Ugreen Nexode 65W USB C Wall Charger - 3 Ports](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-wall-charger-3-ports) ###
+### [Ugreen Nexode 65W USB C GaN Charger-3 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-wall-charger-3-ports) ###
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
 
@@ -42,6 +42,6 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
 
 With 100W max output per port, this USB C charger charges most devices at full speed. e.g, This laptop charger fully chargers MacBook Pro 13'' in 1.8hrs. 100W Laptop Charger...
 
-### [Ugreen Nexode 200W USB C Wall Charger - 6 Ports](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger) ###
+### [Ugreen Nexode 200W USB C GaN Charger-6 Ports Desktop Charger](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger) ###
 
 UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
