@@ -140,6 +140,8 @@
 
  Grindelallee  76  20146  Hamburg
 
+ Vom 24.07. bis 25.08.2023 geschlossen!
+
 ### PizzaBar Harburg ###
 
  Denickestraße  22  21073  Hamburg
@@ -159,6 +161,8 @@
 ### Hagenbeckstraße ###
 
  Hagenbeckstraße  50-60  22527  Hamburg
+
+ Vom 17.07. bis 29.09.2023 von 08:00 bis 15:00 Uhr geöffnet! Essensausgabe von 11:30 bis14:00 Uhr!
 
 ### Mensa Stellingen ###
 
