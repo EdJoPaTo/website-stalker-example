@@ -338,7 +338,7 @@
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
 
- Das CampusCafé schließt heute, Freitag, 07.07.2023, bereits um 15 Uhr!
+ Am 10.07.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### CampusCafé ###
 
