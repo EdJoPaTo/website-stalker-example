@@ -8,11 +8,9 @@ Dann müssen auch wir kürzer treten, damit wir nach Ende der Bauarbeiten auf de
 
 Meistens wissen wir im Vorfeld, was geplant ist und wie lange die jeweiligen Baumaßnahmen dauern. Manchmal hält eine Baustelle aber auch einige Überraschungen bereit. Wenn´s mal wieder länger dauert, müssen wir alle flexibel sein.
 
----
-
 ### Immer gut informiert ###
 
-Informationen über aktuelle Arbeiten an den Strecken erhältst du über unseren Newsletter, Durchsagen in den Zügen, am Bahnsteig, auf Facebook oder Twitter, in der Fahrplanauskunft oder durch unseren Baustellenreport. Natürlich stehen wir dir bei Fragen auch persönlich gern zur Verfügung. Sprich einfach unsere Fahrgastbetreuer an oder frag in unserem Kundenzentrum nach.
+Informationen über aktuelle Arbeiten an den Strecken erhältst du über unseren Newsletter, Durchsagen in den Zügen, am Bahnsteig, auf Facebook oder Twitter, in der Fahrplanauskunft oder durch unseren Baustellenreport. Natürlich stehen wir dir bei Fragen auch persönlich gern zur Verfügung. Sprich einfach unsere Fahrgastbetreuer an oder frag in unserem Kundenzentrum nach.
 
 Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich schon vor Beginn der Bauarbeiten, so kannst du langfristig planen. Aktuelle Infos über zukünftige Baustellen auf den *metronom* Strecken findest du auf der folgenden Übersicht:
 
@@ -38,5 +36,5 @@ RE2 Hannover - Northeim - Göttingen
 
 [14.07.2023 - 03.08.2023 RE2/RE3/RB31 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
 
-Dein persönlicher Baustellen-Newsletter
+DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------

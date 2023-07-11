@@ -149,12 +149,12 @@ sites:
       - html_markdownify
 
   - url:
-      - https://www.der-metronom.de/aktuell/
+      - https://www.der-metronom.de/unternehmen/aktuelle-meldungen/
       - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
     editors:
-      - css_select: "#content .right"
-      - css_remove: form, script, .img-left, a.news-more
+      - css_select: "#content"
+      - css_remove: form, .module-form, script, figure, img, svg, hr, .breadcrumb, a[title=weiterlesen]
       - html_url_canonicalize
       - html_markdownify
 
