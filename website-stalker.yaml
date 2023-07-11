@@ -207,8 +207,14 @@ sites:
       - css_remove: svg, img, .tx-eptemplate-werk-button
       - html_prettify
       - regex_replace:
-          pattern: <div class="tx-epwerkbuilding-list-headline">[\s\n]*(.+)[\s\n]*</div>
-          replace: <h3>$1</h3>
+          pattern: (<div.+tx-epwerkbuilding-element-wrapper)
+          replace: <hr>$1
+      - regex_replace:
+          pattern: '>[\s\n]+'
+          replace: '>'
+      - regex_replace:
+          pattern: '<body><hr>'
+          replace: '<body>'
       - html_markdownify
 
   - url: https://www.evehome.com/en/blog

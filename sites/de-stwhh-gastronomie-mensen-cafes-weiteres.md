@@ -1,361 +1,511 @@
-### Beratung für Studierende mit Kind ###
+Beratung für Studierende mit Kind
 
- Grindelallee  9  20146  Hamburg
+Grindelallee 9 20146 Hamburg
 
- 3. OG
+3. OG
 
- Ab sofort montags Online-Infoveranstaltungen!
+---
 
-### Beratungszentrum Wohnen - BeWo ###
+Ab sofort montags Online-Infoveranstaltungen!
 
- Grindelallee  9  20146  Hamburg
+Beratungszentrum Wohnen - BeWo
 
- 2. OG
+Grindelallee 9 20146 Hamburg
 
-### Beratungszentrum Studienfinanzierung – BeSt ###
+2. OG
 
- Grindelallee  9  20146  Hamburg
+---
 
-### Beratungszentrum Soziales & Internationales – BeSI ###
+Beratungszentrum Studienfinanzierung – BeSt
 
- Grindelallee  9  20146  Hamburg
+Grindelallee 9 20146 Hamburg
 
- 3. OG
+---
 
-### Kita KinderCampus ###
+Beratungszentrum Soziales & Internationales – BeSI
 
- Schlüterstraße  7  20146  Hamburg
+Grindelallee 9 20146 Hamburg
 
-### Integrative Kita UKE ###
+3. OG
 
- Martinistraße  52  20246  Hamburg
+---
 
-### Integrative Kita UKE – Wochenendbetreuung ###
+Kita KinderCampus
 
- Martinistraße  52  20246  Hamburg
+Schlüterstraße 7 20146 Hamburg
 
-### Allermöhe ###
+---
 
- Stellbrinkweg  18-30  21035  Hamburg
+Integrative Kita UKE
 
-### Kita Bornstraße ###
+Martinistraße 52 20246 Hamburg
 
- Bornstraße  2  20146  Hamburg
+---
 
-### Amalie-Dietrich-Haus ###
+Integrative Kita UKE – Wochenendbetreuung
 
- Bieberstraße  6  20146  Hamburg
+Martinistraße 52 20246 Hamburg
 
- Vom 17.07. bis 03.10.2023 von Mo-Do 07:45 bis 14:30 Uhr und Fr 07:45 bis 14:00 Uhr geöffnet!
+---
 
-### Mensa Bergedorf ###
+Allermöhe
 
- Ulmenliet  20  21033  Hamburg
+Stellbrinkweg 18-30 21035 Hamburg
 
- Vom 17.07. bis 25.08.2023 geschlossen!
+---
 
-### Mensa Berliner Tor ###
+Kita Bornstraße
 
- Berliner Tor  7  20099  Hamburg
+Bornstraße 2 20146 Hamburg
 
-### Armgartstraße ###
+---
 
- Armgartstraße  22  22087  Hamburg
+Amalie-Dietrich-Haus
 
- Freie Krippenplätze!
+Bieberstraße 6 20146 Hamburg
 
-### Kita Hallerstraße ###
+---
 
- Hallerstraße  58  20146  Hamburg
+Vom 17.07. bis 03.10.2023 von Mo-Do 07:45 bis 14:30 Uhr und Fr 07:45 bis 14:00 Uhr geöffnet!
 
-### Blattwerk - deine vegetarische Mensa ###
+Mensa Bergedorf
 
- Von-Melle-Park  5  20146  Hamburg
+Ulmenliet 20 21033 Hamburg
 
- Vom 24.07. bis 18.08.2023 geschlossen!
+---
 
-### Mensa Botanischer Garten ###
+Vom 17.07. bis 25.08.2023 geschlossen!
 
- Ohnhorststraße  18  22609  Hamburg
+Mensa Berliner Tor
 
-### Berliner Tor ###
+Berliner Tor 7 20099 Hamburg
 
- Berliner Tor  3  20099  Hamburg
+---
 
-### Mensa Bucerius Law School ###
+Armgartstraße
 
- Jungiusstraße  6  20355  Hamburg
+Armgartstraße 22 22087 Hamburg
 
- Aktuell zwei Teilwohnungen für Studentinnen mit Kindern frei!
+---
 
-### Bornstraße ###
+Freie Krippenplätze!
 
- Bornstraße  2  20146  Hamburg
+Kita Hallerstraße
 
-### Integrative Kita "Die Stifte" ###
+Hallerstraße 58 20146 Hamburg
 
- Stiftstraße  69  20099  Hamburg
+---
 
-### Casper – Campus Spielgruppen ###
+Blattwerk - deine vegetarische Mensa
 
- Schlüterstraße  7  20146  Hamburg
+Von-Melle-Park 5 20146 Hamburg
 
-### Die Burse ###
+---
 
- Spannskamp  26  22527  Hamburg
+Vom 24.07. bis 18.08.2023 geschlossen!
 
- Vom 17.07. bis 03.10.2023 von 09:00 bis 15:00 Uhr geöffnet!
+Mensa Botanischer Garten
 
-### Mensa Finkenau ###
+Ohnhorststraße 18 22609 Hamburg
 
- Finkenau  35  22081  Hamburg
+---
 
-### Emil-Wolff-Haus ###
+Berliner Tor
 
- Kaulbachstraße  19  22607  Hamburg
+Berliner Tor 3 20099 Hamburg
 
-### Mensa Geomatikum ###
+---
 
- Bundesstraße  55  20146  Hamburg
+Mensa Bucerius Law School
 
-### Familienzimmer Stellingen ###
+Jungiusstraße 6 20355 Hamburg
 
- Vogt-Kölln-Straße  30  22527  Hamburg
+---
 
-### Esther-Bejarano-Haus ###
+Aktuell zwei Teilwohnungen für Studentinnen mit Kindern frei!
 
- Grandweg  16  22529  Hamburg
+Bornstraße
 
-### Wochenendbetreuung in der Kita KinderCampus ###
+Bornstraße 2 20146 Hamburg
 
- Schlüterstraße  7  20146  Hamburg
+---
 
-### Mensa Harburg ###
+Integrative Kita "Die Stifte"
 
- Denickestraße  22  21073  Hamburg
+Stiftstraße 69 20099 Hamburg
 
-### Europa- und Georgi-Haus ###
+---
 
- Kaemmererufer  13 –16  22303  Hamburg
+Casper – Campus Spielgruppen
 
-### Grindelallee ###
+Schlüterstraße 7 20146 Hamburg
 
- Grindelallee  76  20146  Hamburg
+---
 
- Vom 24.07. bis 25.08.2023 geschlossen!
+Die Burse
 
-### PizzaBar Harburg ###
+Spannskamp 26 22527 Hamburg
 
- Denickestraße  22  21073  Hamburg
+---
 
-### Integrative Kita UKE – Gastkindbetreuung ###
+Vom 17.07. bis 03.10.2023 von 09:00 bis 15:00 Uhr geöffnet!
 
- Martinistraße  52  20246  Hamburg
+Mensa Finkenau
 
-### Mensa HCU ###
+Finkenau 35 22081 Hamburg
 
- Henning-Voscherau-Platz  1  20457  Hamburg
+---
 
-### Gustav-Radbruch-Haus ###
+Emil-Wolff-Haus
 
- Borgfelder Straße  16  20537  Hamburg
+Kaulbachstraße 19 22607 Hamburg
 
-### Hagenbeckstraße ###
+---
 
- Hagenbeckstraße  50-60  22527  Hamburg
+Mensa Geomatikum
 
- Vom 17.07. bis 29.09.2023 von 08:00 bis 15:00 Uhr geöffnet! Essensausgabe von 11:30 bis14:00 Uhr!
+Bundesstraße 55 20146 Hamburg
 
-### Mensa Stellingen ###
+---
 
- Vogt-Kölln-Str.  30  22527  Hamburg
+Familienzimmer Stellingen
 
-### Mensa Studierendenhaus ###
+Vogt-Kölln-Straße 30 22527 Hamburg
 
- Von-Melle-Park  2  20146  Hamburg
+---
 
-### Hammerbrook ###
+Esther-Bejarano-Haus
 
- Hammerbrookstraße  42a/b  20097  Hamburg
+Grandweg 16 22529 Hamburg
 
-### Harburg ###
+---
 
- Schüttstraße  1-5  21073  Hamburg
+Wochenendbetreuung in der Kita KinderCampus
 
- Ab 17.07.2023 geschlossen!
+Schlüterstraße 7 20146 Hamburg
 
-### Mensa Überseering ###
+---
 
- Überseering  35  22297  Hamburg
+Mensa Harburg
 
-### Harburger-Häuser ###
+Denickestraße 22 21073 Hamburg
 
- Bunatwiete 6, Moorstraße  7, 15  21073  Hamburg
+---
 
-### Schlüters (Pizza & More) ###
+Europa- und Georgi-Haus
 
- Von-Melle-Park  2  20146  Hamburg
+Kaemmererufer 13 –16 22303 Hamburg
 
-### Helmut-Schmidt-Studierendenhaus ###
+---
 
- Kobestraße  2  20457  Hamburg
+Grindelallee
 
- Vom 24.07. bis 03.10.2023 geschlossen!
+Grindelallee 76 20146 Hamburg
 
-### Café Alexanderstraße ###
+---
 
- Alexanderstraße  1  20099  Hamburg
+Vom 24.07. bis 25.08.2023 geschlossen!
 
-### Kiwittsmoor ###
+PizzaBar Harburg
 
- Kiwittsmoor  36-40  22417  Hamburg
+Denickestraße 22 21073 Hamburg
 
-### Lokstedt ###
+---
 
- Emil-Andresen-Straße  34b/c  22529  Hamburg
+Integrative Kita UKE – Gastkindbetreuung
 
- Vom 17.07. bis 25.08.2023 von 08:00 bis 14:30 Uhr geöffnet!
+Martinistraße 52 20246 Hamburg
 
-### Café Berliner Tor ###
+---
 
- Berliner Tor  7  20099  Hamburg
+Mensa HCU
 
- Vom 17.07. bis 17.09.2023 von 08:00 bis 15:00 Uhr geöffnet!
+Henning-Voscherau-Platz 1 20457 Hamburg
 
-### Café-Shop Blueberry ###
+---
 
- Berliner Tor  5  20099  Hamburg
+Gustav-Radbruch-Haus
 
-### Margaretha-Rothe-Haus ###
+Borgfelder Straße 16 20537 Hamburg
 
- Barmbeker Straße  64  22303  Hamburg
+---
 
-### Neuwiedenthal ###
+Hagenbeckstraße
 
- Cuxhavener Straße  188  21149  Hamburg
+Hagenbeckstraße 50-60 22527 Hamburg
 
-### Café Bucerius Law School ###
+---
 
- Jungiusstraße  6  20355  Hamburg
+Vom 17.07. bis 29.09.2023 von 08:00 bis 15:00 Uhr geöffnet! Essensausgabe von 11:30 bis14:00 Uhr!
 
-### Ottersbekallee ###
+Mensa Stellingen
 
- Ottersbekallee  10  20255  Hamburg
+Vogt-Kölln-Str. 30 22527 Hamburg
 
-### Rahlstedt ###
+---
 
- Sieker Landstraße  37  22143  Hamburg
+Mensa Studierendenhaus
 
-### Café-Shop Campus ###
+Von-Melle-Park 2 20146 Hamburg
 
- Von-Melle-Park  5  20146  Hamburg
+---
 
- Vom 17.07. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
+Hammerbrook
 
-### Café CampusBlick ###
+Hammerbrookstraße 42a/b 20097 Hamburg
 
- Von-Melle-Park  8  20146  Hamburg
+---
 
-### Rudolf-Laun-Haus ###
+Harburg
 
- Emil-Andresen-Straße  5  22529  Hamburg
+Schüttstraße 1-5 21073 Hamburg
 
-### Sophie-Schoop-Haus ###
+---
 
- Sophie-Schoop-Weg  2 und 30  21035  Hamburg
+Ab 17.07.2023 geschlossen!
 
-### Café Carl ###
+Mensa Überseering
 
- Von-Melle-Park  3  20146  Hamburg
+Überseering 35 22297 Hamburg
 
-### Café CFEL ###
+---
 
- Notkestraße  85  22607  Hamburg
+Harburger-Häuser
 
-### Triftstraße ###
+Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
- Triftstraße  102  21075  Hamburg
+---
 
- Vom 17.07. bis 04.08.2023 geschlossen!
+Schlüters (Pizza & More)
 
-### Café dell´Arte ###
+Von-Melle-Park 2 20146 Hamburg
 
- Edmund-Siemers-Allee  1  20146  Hamburg
+---
 
-### Unnastraße ###
+Helmut-Schmidt-Studierendenhaus
 
- Unnastraße  9  20253  Hamburg
+Kobestraße 2 20457 Hamburg
 
- Vom 17.07. bis 03.10.2023 geschlossen!
+---
 
-### Café Finkenau ###
+Vom 24.07. bis 03.10.2023 geschlossen!
 
- Finkenau  35  22081  Hamburg
+Café Alexanderstraße
 
- Vom 17.07. bis 21.07.2023 von 08:00 bis 14:30 Uhr geöffnet! Vom 24.07. bis 06.10.2023 geschlossen!
+Alexanderstraße 1 20099 Hamburg
 
-### Café-Shop Geomatikum ###
+---
 
- Bundesstraße  55  20146  Hamburg
+Kiwittsmoor
 
- Vom 24.07. bis 25.08.2023 geschlossen!
+Kiwittsmoor 36-40 22417 Hamburg
 
-### Café Grindel ###
+---
 
- Grindelallee  117  20146  Hamburg
+Lokstedt
 
-### Café HCU ###
+Emil-Andresen-Straße 34b/c 22529 Hamburg
 
- Henning-Voscherau-Platz  1  20457  Hamburg
+---
 
- Bis auf Weiteres geschlossen!
+Vom 17.07. bis 25.08.2023 von 08:00 bis 14:30 Uhr geöffnet!
 
-### Café insgrüne Botanischer Garten ###
+Café Berliner Tor
 
- Ohnhorststraße  18  22609  Hamburg
+Berliner Tor 7 20099 Hamburg
 
- Vom 24.07. bis 29.09.2023 geschlossen!
+---
 
-### Café insgrüne Harburg ###
+Vom 17.07. bis 17.09.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
- Eißendorfer Straße  38  21073  Hamburg
+Café-Shop Blueberry
 
- Vom 17.07. bis 28.07.2023 von 09:30 bis 14:00 Uhr geöffnet!
+Berliner Tor 5 20099 Hamburg
 
-### Café Jungiusstraße ###
+---
 
- Jungiusstraße  9  20355  Hamburg
+Margaretha-Rothe-Haus
 
-### Café (am Mittelweg) ###
+Barmbeker Straße 64 22303 Hamburg
 
- Mittelweg  177  20148  Hamburg
+---
 
- Vom 17.07. bis 03.10.2023 geschlossen!
+Neuwiedenthal
 
-### Café Student Affairs ###
+Cuxhavener Straße 188 21149 Hamburg
 
- Ulmenliet  20  21033  Hamburg
+---
 
- Bis auf Weiteres geschlossen!
+Café Bucerius Law School
 
-### Café Überseering ###
+Jungiusstraße 6 20355 Hamburg
 
- Überseering  35  22297  Hamburg
+---
 
- Bis auf Weiteres geschlossen!
+Ottersbekallee
 
-### Café-Shop Zahnrad ###
+Ottersbekallee 10 20255 Hamburg
 
- Berliner Tor  21  20099  Hamburg
+---
 
- Vom 24.07. bis 11.08.2023 geschlossen!
+Rahlstedt
 
-### Café ZessP ###
+Sieker Landstraße 37 22143 Hamburg
 
- Am Schwarzenberg-Campus  2  21073  Hamburg
+---
 
- Vom 10.07. bis 14.07.2023 von 08:00 bis 15:00 Uhr geöffnet!
+Café-Shop Campus
 
-### CampusCafé ###
+Von-Melle-Park 5 20146 Hamburg
 
- Von-Melle-Park  5  20146  Hamburg
+---
+
+Vom 17.07. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
+
+Café CampusBlick
+
+Von-Melle-Park 8 20146 Hamburg
+
+---
+
+Rudolf-Laun-Haus
+
+Emil-Andresen-Straße 5 22529 Hamburg
+
+---
+
+Sophie-Schoop-Haus
+
+Sophie-Schoop-Weg 2 und 30 21035 Hamburg
+
+---
+
+Café Carl
+
+Von-Melle-Park 3 20146 Hamburg
+
+---
+
+Café CFEL
+
+Notkestraße 85 22607 Hamburg
+
+---
+
+Triftstraße
+
+Triftstraße 102 21075 Hamburg
+
+---
+
+Vom 17.07. bis 04.08.2023 geschlossen!
+
+Café dell´Arte
+
+Edmund-Siemers-Allee 1 20146 Hamburg
+
+---
+
+Unnastraße
+
+Unnastraße 9 20253 Hamburg
+
+---
+
+Vom 17.07. bis 03.10.2023 geschlossen!
+
+Café Finkenau
+
+Finkenau 35 22081 Hamburg
+
+---
+
+Vom 17.07. bis 21.07.2023 von 08:00 bis 14:30 Uhr geöffnet! Vom 24.07. bis 06.10.2023 geschlossen!
+
+Café-Shop Geomatikum
+
+Bundesstraße 55 20146 Hamburg
+
+---
+
+Vom 24.07. bis 25.08.2023 geschlossen!
+
+Café Grindel
+
+Grindelallee 117 20146 Hamburg
+
+---
+
+Café HCU
+
+Henning-Voscherau-Platz 1 20457 Hamburg
+
+---
+
+Bis auf Weiteres geschlossen!
+
+Café insgrüne Botanischer Garten
+
+Ohnhorststraße 18 22609 Hamburg
+
+---
+
+Vom 24.07. bis 29.09.2023 geschlossen!
+
+Café insgrüne Harburg
+
+Eißendorfer Straße 38 21073 Hamburg
+
+---
+
+Vom 17.07. bis 28.07.2023 von 09:30 bis 14:00 Uhr geöffnet!
+
+Café Jungiusstraße
+
+Jungiusstraße 9 20355 Hamburg
+
+---
+
+Café (am Mittelweg)
+
+Mittelweg 177 20148 Hamburg
+
+---
+
+Vom 17.07. bis 03.10.2023 geschlossen!
+
+Café Student Affairs
+
+Ulmenliet 20 21033 Hamburg
+
+---
+
+Bis auf Weiteres geschlossen!
+
+Café Überseering
+
+Überseering 35 22297 Hamburg
+
+---
+
+Bis auf Weiteres geschlossen!
+
+Café-Shop Zahnrad
+
+Berliner Tor 21 20099 Hamburg
+
+---
+
+Vom 24.07. bis 11.08.2023 geschlossen!
+
+Café ZessP
+
+Am Schwarzenberg-Campus 2 21073 Hamburg
+
+---
+
+Vom 10.07. bis 14.07.2023 von 08:00 bis 15:00 Uhr geöffnet!
+
+CampusCafé
+
+Von-Melle-Park 5 20146 Hamburg
