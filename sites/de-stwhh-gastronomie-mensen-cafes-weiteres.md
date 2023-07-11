@@ -72,6 +72,8 @@
 
  Von-Melle-Park  5  20146  Hamburg
 
+ Vom 24.07. bis 18.08.2023 geschlossen!
+
 ### Mensa Botanischer Garten ###
 
  Ohnhorststraße  18  22609  Hamburg
@@ -180,6 +182,8 @@
 
  Schüttstraße  1-5  21073  Hamburg
 
+ Ab 17.07.2023 geschlossen!
+
 ### Mensa Überseering ###
 
  Überseering  35  22297  Hamburg
@@ -195,6 +199,8 @@
 ### Helmut-Schmidt-Studierendenhaus ###
 
  Kobestraße  2  20457  Hamburg
+
+ Vom 24.07. bis 03.10.2023 geschlossen!
 
 ### Café Alexanderstraße ###
 
@@ -286,11 +292,13 @@
 
  Finkenau  35  22081  Hamburg
 
- Vom 17.07. bis 21.07.2023 von 08:00 bis 14:30 Uhr geöffnet!
+ Vom 17.07. bis 21.07.2023 von 08:00 bis 14:30 Uhr geöffnet! Vom 24.07. bis 06.10.2023 geschlossen!
 
 ### Café-Shop Geomatikum ###
 
  Bundesstraße  55  20146  Hamburg
+
+ Vom 24.07. bis 25.08.2023 geschlossen!
 
 ### Café Grindel ###
 
@@ -305,6 +313,8 @@
 ### Café insgrüne Botanischer Garten ###
 
  Ohnhorststraße  18  22609  Hamburg
+
+ Vom 24.07. bis 29.09.2023 geschlossen!
 
 ### Café insgrüne Harburg ###
 
@@ -338,11 +348,13 @@
 
  Berliner Tor  21  20099  Hamburg
 
+ Vom 24.07. bis 11.08.2023 geschlossen!
+
 ### Café ZessP ###
 
  Am Schwarzenberg-Campus  2  21073  Hamburg
 
- Am 10.07.2023 von 08:00 bis 15:00 Uhr geöffnet!
+ Vom 10.07. bis 14.07.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 ### CampusCafé ###
 
