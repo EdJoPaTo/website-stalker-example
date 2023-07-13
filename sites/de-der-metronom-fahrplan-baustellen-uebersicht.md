@@ -28,13 +28,9 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[06.07.2023 - 13.07.2023 RE2/RE3 Uelzen - Göttingen in beiden Richtungen - Umstieg in Hannover Hbf erforderlich](https://www.der-metronom.de/baustellen/re2-re3-uelzen-goettingen-in-beiden-richtungen-umstieg-in-hannover-hbf-erforderlich/)
-
 [14.07.2023 - 03.08.2023 RE2/RE3/RB31 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[06.07.2023 - 13.07.2023 RE2/RE3 Uelzen - Göttingen in beiden Richtungen - Umstieg in Hannover Hbf erforderlich](https://www.der-metronom.de/baustellen/re2-re3-uelzen-goettingen-in-beiden-richtungen-umstieg-in-hannover-hbf-erforderlich/)
 
 [14.07.2023 - 03.08.2023 RE2/RE3/RB31 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
 
