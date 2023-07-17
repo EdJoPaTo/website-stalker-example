@@ -238,7 +238,7 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Vom 17.07. bis 29.09.2023 von 08:00 bis 15:00 Uhr geöffnet! Essensausgabe von 11:30 bis 14:00 Uhr!
+Vom 17.07. bis 29.09.2023 von 08:00 bis 14:30 Uhr geöffnet! Essensausgabe von 11:30 bis 14:00 Uhr!
 
 Mensa Stellingen
 
@@ -501,8 +501,6 @@ Café ZessP
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
-
-Vom 10.07. bis 14.07.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 CampusCafé
 
