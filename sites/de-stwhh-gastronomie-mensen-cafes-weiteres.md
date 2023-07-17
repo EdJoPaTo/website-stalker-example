@@ -96,6 +96,8 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
+Vom 31.07. bis 18.08.2023 geschlossen!
+
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
@@ -346,6 +348,8 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
+Vom 31.07. bis 18.08.2023 geschlossen!
+
 Café-Shop Campus
 
 Von-Melle-Park 5 20146 Hamburg
@@ -428,6 +432,8 @@ Grindelallee 117 20146 Hamburg
 
 ---
 
+Vom 31.07. bis 08.10.2023 geschlossen!
+
 Café HCU
 
 Henning-Voscherau-Platz 1 20457 Hamburg
@@ -450,7 +456,7 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Vom 17.07. bis 28.07.2023 von 09:30 bis 14:00 Uhr geöffnet!
+Vom 17.07. bis 28.07.2023 von 09:30 bis 14:00 Uhr geöffnet! Vom 31.07. bis 22.09.2023 geschlossen!
 
 Café Jungiusstraße
 
