@@ -1,4 +1,31 @@
-Shirts
+###  Explore new trails  ###
+
+---
+
+ e.s.trail
+----------
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/trail)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
+
+###  Sportliches Leichtgewicht  ###
+
+---
+
+ Worker-
+Sneaker
+----------
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
+
+[alle Produkte](https://www.engelbert-strauss.de/neuheiten-schuhe/?sort=newest)
+
+ Shirts
 ----------
 
 ---
@@ -19,50 +46,6 @@ Shirts
 [Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
 
 [Kinder](https://www.engelbert-strauss.de/kinder-shorts/)
-
-###  Sandale  ###
-
----
-
-###  Low  ###
-
----
-
-###  Mid  ###
-
----
-
-###  S1p Sicherheitsschuhe e.s. banco  ###
-
----
-
- SCHUHE
-----------
-
----
-
-[alle Schuhneuheiten](https://www.engelbert-strauss.de/arbeitsschuhe/?sort=newest)
-
-###  e.s.tool concept  ###
-
----
-
- Werkzeug-
-taschen mit
-System
-----------
-
----
-
-[so funktioniert's](https://www.engelbert-strauss.de/tool-concept/hafttaschen-system)
-
-###  Direkt einsatzbereit  ###
-
----
-
-[alle Tool Concept Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
-
-[Taschen selbst gestalten](https://cargo-configurator.engelbert-strauss.de/)
 
  Bis zu 39% sparen
 ---
