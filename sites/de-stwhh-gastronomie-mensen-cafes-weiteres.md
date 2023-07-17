@@ -262,14 +262,6 @@ Schüttstraße 1-5 21073 Hamburg
 
 ---
 
-Ab 17.07.2023 geschlossen!
-
-Mensa Überseering
-
-Überseering 35 22297 Hamburg
-
----
-
 Harburger-Häuser
 
 Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
