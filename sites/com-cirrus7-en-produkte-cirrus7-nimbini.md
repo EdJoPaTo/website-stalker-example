@@ -198,8 +198,8 @@ cirrus nimbini v4
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
-  * **Ubuntu 22.10** “Kinetic Kudu”
-  * **Linux Mint 21.1** “Vera”
+  * **Ubuntu 23.04** “Lunar Lobster”
+  * **Linux Mint 21.2** “Victoria”
   * **Windows 11 Home**
     original OEM Lizenz
   * **Windows 11 Pro**
@@ -216,7 +216,7 @@ cirrus nimbini v4
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
   * **Ubuntu 23.04** “Lunar Lobster”
-  * **Linux Mint 21.1** “Vera”
+  * **Linux Mint 21.2** “Victoria”
   * **Windows 11 Home**
     original OEM license
   * **Windows 11 Pro**
