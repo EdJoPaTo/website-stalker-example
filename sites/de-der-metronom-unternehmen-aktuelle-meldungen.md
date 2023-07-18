@@ -3,7 +3,7 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[EIL: Hinweis für Reisende ab Hamburg-Harburg Richtung Bremen](https://www.der-metronom.de/aktuell/eil-hinweis-fuer-reisende-ab-hamburg-harburg-richtung-bremen/)
+[Hinweis für Reisende ab Hamburg-Harburg Richtung Bremen](https://www.der-metronom.de/aktuell/eil-hinweis-fuer-reisende-ab-hamburg-harburg-richtung-bremen/)
 
  17.07.2023
 
