@@ -646,7 +646,6 @@
 * [Marokko-Maus (Teil 3)](https://www.wdrmaus.de/filme/sachgeschichten/marokko_teil3.php5)
 * [Marokko-Maus (Teil 4)](https://www.wdrmaus.de/filme/sachgeschichten/marokko_teil4.php5)
 * [Marokko-Maus (Teil 5)](https://www.wdrmaus.de/filme/sachgeschichten/marokko_teil5.php5)
-* [Marokko-Maus (Teil 6)](https://www.wdrmaus.de/filme/sachgeschichten/von_marokko_teil6.php5)
 * [Martin Luther](https://www.wdrmaus.de/filme/sachgeschichten/martin_luther.php5)
 * [Maske: Funktion](https://www.wdrmaus.de/filme/sachgeschichten/maske_funktion.php5)
 * [Maßband](https://www.wdrmaus.de/filme/sachgeschichten/massband.php5)
