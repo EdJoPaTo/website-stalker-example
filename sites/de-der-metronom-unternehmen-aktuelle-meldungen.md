@@ -5,7 +5,7 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
 [Hohes Fahrgastaufkommen an Wochenenden](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen-an-wochenenden/)
 
- Uelzen - 09.06.2023
+ Uelzen - 24.07.2023
 
 Liebe Fahrgäste,
-wir wissen, die aktuelle Zeit ist nicht einfach. Schönes Wetter, Wochenenden, bevorstehende Ferien und immer wieder Baustellen auf unseren Strecken. Gerade an den Wochenenden sind viele Fahrgäste mit uns unterwegs. Viele nehmen auch ihr eigenes Fahrrad mit. Alles in allem sorgt...
+wir wissen, die aktuelle Zeit ist nicht einfach. Schönes Wetter, Wochenenden, Ferien und immer wieder Baustellen auf unseren Strecken. Gerade an den Wochenenden sind viele Fahrgäste mit uns unterwegs. Viele nehmen auch ihr Fahrrad mit. Alles in allem sorgt das für volle Züge -...
