@@ -6,6 +6,24 @@
 		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>New Dedicated Server DX182 and DX293 with Dell namebrand hardware</title>
+			<link>https://www.hetzner.com/news/new-dell-servers</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				25. July 2023
+			</small>
+		</p>
+		<p>
+			With the DX182 and DX293, Hetzner has unveiled two new dedicated servers based on tried and true Dell hardware, making them a cut above the rest.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Upgrade to the future: The new AX102 Dedicated Server with AMD Ryzen™ 9 7950X3D</title>
 			<link>https://www.hetzner.com/news/new-amd-ryzen-7950-server</link>
 			<content:encoded><![CDATA[<html>
@@ -166,24 +184,6 @@ When you create a cloud server, it will no longer automatically include public I
 		</p>
 		<p>
 			The Hetzner Dedicated Root Server EX43 puts the new Intel® Core™ i5-12500 processor in the spotlight. This chip is from the twelfth generation, nicknamed "Alder Lake".
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Seasons special: Skip the setup fee on selected AX servers!</title>
-			<link>https://www.hetzner.com/news/03-22-seasons-special</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				1. March 2022
-			</small>
-		</p>
-		<p>
-			We want to help you grow this spring. You can now get a Hetzner dedicated root server with an AMD Ryzen™ CPU and skip the setup fees.
 		</p>
 	</body>
 </html>]]></content:encoded>
