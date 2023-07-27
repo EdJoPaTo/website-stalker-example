@@ -24,21 +24,21 @@
 
 [Shelly Plus 1PM](/de/products/shop/shelly-plus-1-pm-2-pack/shelly-plus-1-pm)
 
-16,90 €
+13,50 €~~16,90 €~~
 
-20,11 €mit MwSt.
+16,07 €mit MwSt.
 
 [Shelly Plus 1](/de/products/shop/shelly-plus-1-1)
 
-14,90 €
+11,90 €~~14,90 €~~
 
-17,73 €mit MwSt.
+14,16 €mit MwSt.
 
 [Shelly Plus 2PM](/de/products/shop/shelly-plus-2-pm)
 
-25,90 €
+20,70 €~~25,90 €~~
 
-30,82 €mit MwSt.
+24,63 €mit MwSt.
 
 [Shelly Plus i4](/de/products/shop/shelly-plusi4)
 
@@ -66,9 +66,9 @@
 
 [Shelly EM + 120A Clamp](/de/products/shop/shelly-em-1x-120a)
 
-53,90 €
+43,10 €~~53,90 €~~
 
-64,14 €mit MwSt.
+51,29 €mit MwSt.
 
 [Shelly Pro Dual Cover / Shutter PM](/de/products/shop/shelly-pro-dual-cover-pm)
 
@@ -174,15 +174,15 @@
 
 [Shelly H&T - white](/de/products/shop/shelly-ht-w)
 
-20,90 €
+16,70 €~~20,90 €~~
 
-24,87 €mit MwSt.
+19,87 €mit MwSt.
 
 [Shelly H&T Black](/de/products/shop/shelly-ht-b)
 
-20,90 €
+16,70 €~~20,90 €~~
 
-24,87 €mit MwSt.
+19,87 €mit MwSt.
 
 [Shelly Motion 2](/de/products/shop/shelly-motion-2)
 
