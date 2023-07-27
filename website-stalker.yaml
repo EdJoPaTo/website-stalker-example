@@ -98,7 +98,7 @@ sites:
       - https://www.netcup.de/vserver/vstorage.php
     editors:
       - css_select: .card, table
-      - css_remove: img, .card--content--image
+      - css_remove: img, .card--content--image, style, script, .input-field
       - html_url_canonicalize
       - html_prettify
   - url: https://www.netcup.de/vserver/storagespace.php
