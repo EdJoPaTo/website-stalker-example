@@ -16,7 +16,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[14.07.2023 - 28.07.2023 RE4/RB41 Teilausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-wegen-brueckenbauarbeiten/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
