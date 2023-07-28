@@ -166,6 +166,7 @@ sites:
       - html_markdownify
 
   - url: https://github.com/actions/runner-images/labels/Announcement
+    ignore_error: true
     editors:
       - rss:
           title: GitHub actions/runner-images Announcement
