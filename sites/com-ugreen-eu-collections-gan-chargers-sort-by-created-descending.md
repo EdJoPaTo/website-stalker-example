@@ -14,7 +14,7 @@ Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A
 
 UGREEN Nexode 65W USB C GaN Table Charger
 
-### [UGREEN 65W Power Strip DigiNest Cube GaN Extension Lead with USB C Slots.](https://eu.ugreen.com/products/ugreen-65w-power-strip-diginest-cube-gan-extension-lead-with-usb-c-slots) ###
+### [Ugreen 65W USB C GaN Charging Station-7 Ports Desktop Charger](https://eu.ugreen.com/products/ugreen-65w-power-strip-diginest-cube-gan-extension-lead-with-usb-c-slots) ###
 
 Specifications and Compatibility USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A 3.3-21V/3A; PPS Adaptive Ladung 65W Max USB A1/A2 output 5V/3A, 9V/2A, 12V/1.5A; adaptive Ladung 22.5W Max outlet of the sockets...
 
@@ -22,9 +22,9 @@ Specifications and Compatibility USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 
 
 Ugreen Nexode 140W USB C Wall Charger
 
-### [Ugreen Nexode Mini 45W Dual USB C Charger](https://eu.ugreen.com/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
+### [Ugreen Nexode 45W USB C GaN Charger-2 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
 
-Ugreen Nexode Mini 45W Dual USB C Charger
+ Previous page
 
 ### [Ugreen Nexode 65W USB C GaN Charger-3 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-wall-charger-3-ports) ###
 
