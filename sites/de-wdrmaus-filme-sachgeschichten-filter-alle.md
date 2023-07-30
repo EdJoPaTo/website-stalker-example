@@ -522,6 +522,7 @@
 * [Klöppel](https://www.wdrmaus.de/filme/sachgeschichten/kloeppel.php5)
 * [Klutz, das Huhn](https://www.wdrmaus.de/filme/sachgeschichten/klutz_das_huhn.php5)
 * [Knallerbsen](https://www.wdrmaus.de/filme/sachgeschichten/knallerbsen.php5)
+* [Knatterboot](https://www.wdrmaus.de/filme/sachgeschichten/knatterboot.php5)
 * [Knete](https://www.wdrmaus.de/filme/sachgeschichten/knete.php5)
 * [Knickampullen](https://www.wdrmaus.de/filme/sachgeschichten/knickampullen.php5)
 * [Knoblauch](https://www.wdrmaus.de/filme/sachgeschichten/knoblauch.php5)
