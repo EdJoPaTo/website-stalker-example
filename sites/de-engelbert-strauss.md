@@ -23,7 +23,7 @@ Sneaker
 
 [mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
-[alle Produkte](https://www.engelbert-strauss.de/neuheiten-schuhe/?sort=newest)
+[alle Produkte](https://www.engelbert-strauss.de/arbeitsschuhe/?sort=newest)
 
  Shirts
 ----------
