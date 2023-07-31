@@ -32,6 +32,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [17.08.2023 - 18.08.2023 RE3/RB31 nächtliche Haltausfälle Hamburg Hbf - Hamburg-Harburg; Haltausfall Ashausen für 81640](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-hamburg-hbf-hamburg-harburg-haltausfall-ashausen-fuer-81640/)
 
+[17.08.2023 - 30.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
+
 RE2 Uelzen - Celle - Hannover
 
 [14.07.2023 - 03.08.2023 RE2/RE3/RB31 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
@@ -40,11 +42,15 @@ RE2 Uelzen - Celle - Hannover
 
 [13.08.2023 RE2/RB31 nächtlicher Ersatzverkehr mit Bus zwischen Uelzen und Unterlüß](https://www.der-metronom.de/baustellen/re2-rb31-naechtlicher-ersatzverkehr-mit-bus-zwischen-uelzen-und-unterluess/)
 
+[17.08.2023 - 30.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [14.07.2023 - 03.08.2023 RE2/RE3/RB31 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
 
 [04.08.2023 - 16.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
+
+[17.08.2023 - 30.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
