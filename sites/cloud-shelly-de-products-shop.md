@@ -429,9 +429,3 @@
 5,90 €
 
 7,02 €mit MwSt.
-
-[Shelly Plus 1](/de/products/shop/sw10079-1)
-
-14,90 €
-
-17,73 €mit MwSt.
