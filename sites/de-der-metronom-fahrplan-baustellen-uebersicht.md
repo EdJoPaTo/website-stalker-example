@@ -20,8 +20,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[14.07.2023 - 03.08.2023 RE2/RE3/RB31 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
-
 [31.07.2023 - 06.08.2023 RE3/RB31 Teilausfall zwischen Hamburg-Harburg und Hamburg Hbf sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-zwischen-hamburg-harburg-und-hamburg-hbf-2/)
 
 [04.08.2023 - 16.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
@@ -36,8 +34,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[14.07.2023 - 03.08.2023 RE2/RE3/RB31 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
-
 [04.08.2023 - 16.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
 
 [13.08.2023 RE2/RB31 nächtlicher Ersatzverkehr mit Bus zwischen Uelzen und Unterlüß](https://www.der-metronom.de/baustellen/re2-rb31-naechtlicher-ersatzverkehr-mit-bus-zwischen-uelzen-und-unterluess/)
@@ -45,8 +41,6 @@ RE2 Uelzen - Celle - Hannover
 [17.08.2023 - 30.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[14.07.2023 - 03.08.2023 RE2/RE3/RB31 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-rb31-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
 
 [04.08.2023 - 16.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
 
