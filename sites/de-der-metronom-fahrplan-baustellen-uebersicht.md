@@ -20,8 +20,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[31.07.2023 - 06.08.2023 RE3/RB31 Teilausfall zwischen Hamburg-Harburg und Hamburg Hbf sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-zwischen-hamburg-harburg-und-hamburg-hbf-2/)
-
 [04.08.2023 - 16.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen/)
 
 [07.08.2023 - 12.08.2023 RE3/RB31 nächtliche Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle/)
