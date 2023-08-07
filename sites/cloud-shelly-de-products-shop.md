@@ -82,12 +82,6 @@
 
 116,50 €mit MwSt.
 
-[Shelly Pro 3EM](/de/products/shop/shelly-pro-3-em)
-
-119,90 €
-
-142,68 €mit MwSt.
-
 [Shelly Pro 3](/de/products/shop/shelly-pro-3-1)
 
 69,90 €
@@ -429,3 +423,9 @@
 5,90 €
 
 7,02 €mit MwSt.
+
+[Shelly Pro 3EM](/de/products/shop/1xpro3em-120)
+
+119,90 €
+
+142,68 €mit MwSt.
