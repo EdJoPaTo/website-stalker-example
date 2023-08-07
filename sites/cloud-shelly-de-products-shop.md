@@ -154,7 +154,7 @@
 
 23,68 €mit MwSt.
 
-[Shelly Button 1 - white](/de/products/shop/shelly-button-1-white)
+[Shelly Button 1](/de/products/shop/shelly-button-1-white)
 
 22,90 €
 
@@ -166,7 +166,7 @@
 
 35,58 €mit MwSt.
 
-[Shelly H&T - white](/de/products/shop/shelly-ht-w)
+[Shelly H&T](/de/products/shop/shelly-ht-w)
 
 20,90 €
 
@@ -250,19 +250,19 @@
 
 20,46 €mit MwSt.
 
-[Shelly Wall Switch 1 - white](/de/products/shop/shelly-wall-switch-1-white)
+[Shelly Wall Switch 1](/de/products/shop/shelly-wall-switch-1-white)
 
 7,20 €
 
 8,57 €mit MwSt.
 
-[Shelly Wall Switch 2 - white](/de/products/shop/shelly-wall-switch-2-white)
+[Shelly Wall Switch 2](/de/products/shop/shelly-wall-switch-2-white)
 
 7,20 €
 
 8,57 €mit MwSt.
 
-[Shelly Wall Switch 4 - white](/de/products/shop/shelly-wall-switch-4-white)
+[Shelly Wall Switch 4](/de/products/shop/shelly-wall-switch-4-white)
 
 7,20 €
 
