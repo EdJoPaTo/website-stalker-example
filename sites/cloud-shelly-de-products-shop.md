@@ -424,7 +424,7 @@
 
 7,02 €mit MwSt.
 
-[Shelly Pro 3EM](/de/products/shop/1xpro3em-120)
+[Shelly Pro 3EM - 120A](/de/products/shop/shelly-pro-3-em-120-a-1)
 
 119,90 €
 
