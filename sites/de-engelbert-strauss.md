@@ -1,119 +1,132 @@
-###  Explore new trails  ###
-
----
-
- e.s.trail
+Iconic
+Chiefs
+Edition
 ----------
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/trail)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
-
-###  Sportliches Leichtgewicht  ###
+###  Touchdown für einen starken Auftritt  ###
 
 ---
 
- Worker-
-Sneaker
+[Limited Edition entdecken](https://www.engelbert-strauss.de/iconic-chiefs)
+
+e.s.
+iconic
+
 ----------
+
+---
+
+###  KERNIGE LOOKS FÜR VOLLEN EINSATZ  ###
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/iconic)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/)
+
+ Schuh-
+neuheiten
+----------
+
+---
+
+###  PASSENDER SCHUTZ FÜR JEDEN JOB  ###
 
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
-[alle Produkte](https://www.engelbert-strauss.de/arbeitsschuhe/?sort=newest)
-
- Shirts
+ STRAUSS
+box
 ----------
 
 ---
 
-[Herren](https://www.engelbert-strauss.de/arbeitsshirts/)
-
-[Damen](https://www.engelbert-strauss.de/arbeitsshirts-damen/)
-
-[Kinder](https://www.engelbert-strauss.de/kinder-oberbekleidung/)
-
- Shorts
+ color
 ----------
 
 ---
 
-[Herren](https://www.engelbert-strauss.de/arbeitsshorts/)
-
-[Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
-
-[Kinder](https://www.engelbert-strauss.de/kinder-shorts/)
-
- Bis zu 39% sparen
----
-
- SOMMER SALE
----
-
-Herren
-
-Damen
-
-Kinder
-
-[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest)
-
- STRAUSSbox Werkzeug-Set
-215 midi Allround Profi
----
-
- Für jeden Einsatzbereich das richtige
----
-
- Werkzeugset
----
-
-[alle Sets entdecken](https://www.engelbert-strauss.de/elektrowerkzeuge-sets/)
-
- Sonnenschutz mit Style
----
-
- Coole Caps
----
-
-[alle Caps entdecken](https://www.engelbert-strauss.de/caps/)
-
- Bestens geschützt
----
-
-UV-Schutz für
-sonnige Tage
+###  IHRE TEAM-FARBEN BIS ZUR BOX: DAS WIRKT!  ###
 
 ---
 
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=uv)
+[mehr erfahren](https://www.engelbert-strauss.de/straussbox_color)
 
- Strauss Produktfinder – finde, was zu dir passt.
+ E.S. Trail
 ---
 
-###  Schuhfinder  ###
+[Kollektion entdecken](https://www.engelbert-strauss.de/trail)
 
+ Herren
 ---
 
-In 3 Schritten zum
-perfekten Arbeitsschuh
-
-###  Hosenfinder  ###
-
+ Damen
 ---
 
-Deine perfekte Arbeitshose -
-schnell gefunden
-
-###  Jackenfinder  ###
-
+ Kinder
 ---
 
-In wenigen Klicks zur
-idealen Arbeitsjacke
+ e.s.tool Concept
+---
+
+[Kollektion entdecken](https://www.engelbert-strauss.de/tool-concept)
+
+ Ein Gürtel, unzählige
+Kombinationen
+---
+
+ Werkzeug-
+gürtel
+---
+
+[jetzt entdecken](https://www.engelbert-strauss.de/handwerkzeuge-e-s-tool-concept/werkzeugguertel-e-s-tool-concept-3402070-8245580-1.html?itemorigin=StartseiteHW23)
+
+ Immer im Blick,
+immer griffbereit
+---
+
+ Werkzeug-
+tasche
+---
+
+[jetzt entdecken](https://www.engelbert-strauss.de/handwerkzeuge-e-s-tool-concept/werkzeugtasche-offen-e-s-tool-concept-7902940-5505286-1.html?itemorigin=StartseiteHW23)
+
+ Hightech in Design
+und Funktion
+---
+
+ Werkzeug-
+Weste
+---
+
+[jetzt entdecken](https://www.engelbert-strauss.de/westen/werkzeugweste-e-s-tool-concept-3140590-78446-1.html?itemorigin=StartseiteHW23)
+
+ CI Configurator
+---
+
+ Mit wenigen Klicks:
+Gestalten Sie Ihre persönliche Werkzeugtasche
+---
+
+[jetzt gestalten](https://cargo-configurator.engelbert-strauss.de/)
+
+ alle Neuheiten
+---
+
+ Herren
+---
+
+ Damen
+---
+
+ Newsletter abonnieren
+
+ und exklusive Aktionen, Gutscheine & Schnäppchen sichern
+
+[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
 
  Nach Kategorie shoppen
 ---
@@ -132,13 +145,6 @@ idealen Arbeitsjacke
 
  Betriebsbedarf
 ---
-
- Newsletter abonnieren
----
-
- und exklusive Aktionen, Gutscheine & Schnäppchen sichern
-
-[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startpage)
 
  30 TAGE RÜCKGABERECHT
 
