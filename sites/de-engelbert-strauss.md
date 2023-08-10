@@ -55,7 +55,7 @@ box
 
 [mehr erfahren](https://www.engelbert-strauss.de/straussbox_color)
 
- E.S. Trail
+ E.S.Trail
 ---
 
 [Kollektion entdecken](https://www.engelbert-strauss.de/trail)
