@@ -218,8 +218,9 @@ sites:
       - css_remove: img
       - html_markdownify
 
-  - url: https://www.shelly.cloud/de/products/shop#unfiltered
+  - url: https://www.shelly.com/de/products/shop#unfiltered
     editors:
       - css_select: .product-box__info
       - css_remove: .product-box__excl-tax
+      - html_url_canonicalize
       - html_markdownify
