@@ -298,12 +298,6 @@
 
 7,02 €mit MwSt.
 
-[RC Snubber](https://www.shelly.com/de/products/shop/rc-snubber)
-
-2,50 €
-
-2,98 €mit MwSt.
-
 [Shelly GAS AddOn Manipulator](https://www.shelly.com/de/products/shop/shelly-gas-addon-manipulator-1)
 
 18,50 €
