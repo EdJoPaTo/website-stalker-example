@@ -99,23 +99,18 @@ cirrus nimbini v4
   * **32 GB DDR4 (2x 16GB)**
     SO-DIMM – 3200MHz
 
-  ##### SSD (M.2)  #####
+  ##### SSD (M.2 - NVMe) #####
 
   Choose between different M.2 SSDs. The NVMe SSDs are also cooled through the case, allowing them to maintain their full speed even under load.
 
   M.2 Slot 1
 
-  * Samsung 970 Evo
-  * Samsung 980
-  * Samsung 980 Pro
+  * PCIe 3.0 x4
+  * PCIe 4.0 x4
 
-  * NoneSamsung SSD 970 EVO Plus 250GB (49,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (119,00 €)Samsung SSD 970 EVO Plus 2TB (179,00 €)
+  * Samsung SSD 980 500GBSamsung SSD 980 1TB (79,00 €)Samsung SSD 970 EVO Plus 500GB (59,00 €)Samsung SSD 970 EVO Plus 1TB (89,00 €)Samsung SSD 970 EVO Plus 2TB (149,00 €)
 
-  * NoneSamsung SSD 970 PRO 512GB (169,00 €)Samsung SSD 970 PRO 1TB (299,00 €)
-
-  * NoneSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)
-
-  * NoneSamsung SSD 980 Pro 500GB (99,00 €)Samsung SSD 980 Pro 1TB (149,00 €)Samsung SSD 980 Pro 2TB (229,00 €)
+  * Samsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)
 
   ##### Hard Disk / SSD #####
 
@@ -128,11 +123,7 @@ cirrus nimbini v4
 
   Choose between a 2.5" SSD or HDD. An SSD is silent and is therefore recommended.
 
-  SATA Slot 1
-
   * NoneHard disk 2.5″ 1TB (59,00 €)Hard disk 2.5″ 2TB (99,00 €)Hard disk 2.5″ 4TB (149,00 €)Hard disk 2.5″ 5TB (199,00 €)
-
-  SATA Slot 1
 
   * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 

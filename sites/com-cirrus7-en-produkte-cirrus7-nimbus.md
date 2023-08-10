@@ -75,10 +75,10 @@ cirrus nimbus
   * **Extreme Cooling Edition**
     (Rendering Usage)
 
+  You can chose a front panel with power button and optional ports.
+
   * None
   * Front-panel with Power-button
-
-  You can chose a front panel with power button and optional ports.
 
   * **2x USB-A 3.1**
     Front-panel additional port
@@ -325,31 +325,21 @@ cirrus nimbus
 
   M.2 Slot 1
 
-  * Samsung 970 Evo
-  * Samsung 980
-  * Samsung 980 Pro
+  * PCIe 3.0 x4
+  * PCIe 4.0 x4
 
-  * NoneSamsung SSD 970 EVO Plus 250GB (49,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (119,00 €)Samsung SSD 970 EVO Plus 2TB (179,00 €)
+  * Samsung SSD 980 500GBSamsung SSD 980 1TB (79,00 €)Samsung SSD 970 EVO Plus 500GB (59,00 €)Samsung SSD 970 EVO Plus 1TB (89,00 €)Samsung SSD 970 EVO Plus 2TB (149,00 €)
 
-  * NoneSamsung SSD 970 PRO 512GB (169,00 €)Samsung SSD 970 PRO 1TB (299,00 €)
-
-  * NoneSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)
-
-  * NoneSamsung SSD 980 Pro 500GB (99,00 €)Samsung SSD 980 Pro 1TB (149,00 €)Samsung SSD 980 Pro 2TB (229,00 €)
+  * Samsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)
 
   M.2 Slot 2
 
-  * Samsung 970 Evo
-  * Samsung 980
-  * Samsung 980 Pro
+  * PCIe 3.0 x4
+  * PCIe 4.0 x4
 
-  * NoneSamsung SSD 970 EVO Plus 250GB (49,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (119,00 €)Samsung SSD 970 EVO Plus 2TB (179,00 €)
+  * NoneSamsung SSD 980 500GB (49,00 €)Samsung SSD 980 1TB (79,00 €)Samsung SSD 970 EVO Plus 500GB (59,00 €)Samsung SSD 970 EVO Plus 1TB (89,00 €)Samsung SSD 970 EVO Plus 2TB (149,00 €)
 
-  * NoneSamsung SSD 970 PRO 512GB (169,00 €)Samsung SSD 970 PRO 1TB (299,00 €)
-
-  * NoneSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)
-
-  * NoneSamsung SSD 980 Pro 500GB (99,00 €)Samsung SSD 980 Pro 1TB (149,00 €)Samsung SSD 980 Pro 2TB (229,00 €)
+  * NoneSamsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)
 
   ##### Hard disk / SSD #####
 
@@ -364,7 +354,7 @@ cirrus nimbus
 
   * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
-  * Nonehard disk 2.5″ 1TB (59,00 €)hard disk 2.5″ 2TB (99,00 €)hard disk 2.5″ 4TB (149,00 €)hard disk 2.5″ 5TB (199,00 €)
+  * NoneHard disk 2.5″ 1TB (59,00 €)Hard disk 2.5″ 2TB (99,00 €)Hard disk 2.5″ 4TB (149,00 €)Hard disk 2.5″ 5TB (199,00 €)
 
   SATA Slot 2
 
@@ -375,7 +365,7 @@ cirrus nimbus
 
   * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
-  * Nonehard disk 2.5″ 1TB (59,00 €)hard disk 2.5″ 2TB (99,00 €)hard disk 2.5″ 4TB (149,00 €)hard disk 2.5″ 5TB (199,00 €)
+  * NoneHard disk 2.5″ 1TB (59,00 €)Hard disk 2.5″ 2TB (99,00 €)Hard disk 2.5″ 4TB (149,00 €)Hard disk 2.5″ 5TB (199,00 €)
 
   ##### WiFi / Bluetooth #####
 
@@ -395,15 +385,15 @@ cirrus nimbus
   * **Additional 2 x USB 2.0 Port**
 
   * **Additional 2 x USB 2.0 Port**
-  * **serielle Schnittstelle** (RS-232)
+  * **serial interface** (RS-232)
 
-  ##### Zusätzliche Schnittstellen #####
+  ##### Additional Interfaces #####
 
-  * keine zusätzlichen Schnittstellen
-  * **serielle Schnittstelle** (RS-232)
+  * None
+  * **serial interface** (RS-232)
   * **2x Thunderbolt 3** (USB-C)
 
-  Es handelt sich hier nicht um einen VGA Anschluss. Der serielle Anschluss wird häufig in Industrieanwendungen eingesetzt. Für den Privatanwender hingegen eher uninteressant.
+  This is not a VGA connection. The serial port is commonly used in industrial applications. For the private user, however, rather uninteresting.
 
   Thunderbolt™ 3 über USB-C mit schafft Geschwindigkeiten von bis zu 40 Gbit/s und einen kompakten Anschluss, der alles kann. Er bietet die schnellste und vielseitigste Verbindung zu jedem Dock, Display oder Datengerät.
 
@@ -421,9 +411,9 @@ cirrus nimbus
 
   ##### Please first select a SSD to install the OS #####
 
-  ##### Vorinstalliertes Betriebssystem #####
+  ##### Preinstalled Operating System #####
 
-  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
+  If dual-boot configurations - or other distributions are desired - please note in the comment field.
 
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
@@ -440,7 +430,7 @@ cirrus nimbus
     original OEM license
     includes free update to Windows 11 Pro
   * **Different operating system**
-    sas long as possible we are happy to try to install other operating systems
+    As long as possible we are happy to try to install other operating systems
 
   *
 

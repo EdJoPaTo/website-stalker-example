@@ -99,35 +99,25 @@ cirrus incus
 
   ##### SSD (M.2 - NVMe)  #####
 
-  Choose between different M.2 SSDs. The NVMe SSDs are also cooled via the case and can therefore maintain their full speed even under load.
+  Choose between different M.2 SSDs. The NVMe SSDs are also cooled through the case, allowing them to maintain their full speed even under load.
 
   M.2 Slot 1
 
-  * Samsung 970 Evo
-  * Samsung 980
-  * Samsung 980 Pro
+  * PCIe 3.0 x4
+  * PCIe 4.0 x4
 
-  * NoneSamsung SSD 970 EVO Plus 250GB (49,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (119,00 €)Samsung SSD 970 EVO Plus 2TB (179,00 €)
+  * Samsung SSD 980 500GBSamsung SSD 980 1TB (79,00 €)Samsung SSD 970 EVO Plus 500GB (59,00 €)Samsung SSD 970 EVO Plus 1TB (89,00 €)Samsung SSD 970 EVO Plus 2TB (149,00 €)
 
-  * NoneSamsung SSD 970 PRO 512GB (169,00 €)Samsung SSD 970 PRO 1TB (299,00 €)
-
-  * NoneSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)
-
-  * NoneSamsung SSD 980 Pro 500GB (99,00 €)Samsung SSD 980 Pro 1TB (149,00 €)Samsung SSD 980 Pro 2TB (229,00 €)
+  * Samsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)
 
   M.2 Slot 2
 
-  * Samsung 970 Evo
-  * Samsung 980
-  * Samsung 980 Pro
+  * PCIe 3.0 x4
+  * PCIe 4.0 x4
 
-  * NoneSamsung SSD 970 EVO Plus 250GB (49,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (119,00 €)Samsung SSD 970 EVO Plus 2TB (179,00 €)
+  * NoneSamsung SSD 980 500GB (49,00 €)Samsung SSD 980 1TB (79,00 €)Samsung SSD 970 EVO Plus 500GB (59,00 €)Samsung SSD 970 EVO Plus 1TB (89,00 €)Samsung SSD 970 EVO Plus 2TB (149,00 €)
 
-  * NoneSamsung SSD 970 PRO 512GB (169,00 €)Samsung SSD 970 PRO 1TB (299,00 €)
-
-  * NoneSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)
-
-  * NoneSamsung SSD 980 Pro 500GB (99,00 €)Samsung SSD 980 Pro 1TB (149,00 €)Samsung SSD 980 Pro 2TB (229,00 €)
+  * NoneSamsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)
 
   ##### Hard Disk / SSD #####
 
@@ -188,9 +178,9 @@ cirrus incus
 
   ##### Please first select a SSD to install the OS #####
 
-  ##### Vorinstalliertes Betriebssystem #####
+  ##### Preinstalled Operating System #####
 
-  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
+  If dual-boot configurations - or other distributions are desired - please note in the comment field.
 
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
