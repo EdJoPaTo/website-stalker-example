@@ -82,7 +82,7 @@ Kombinationen
 gürtel
 ---
 
-[jetzt entdecken](https://www.engelbert-strauss.de/handwerkzeuge-e-s-tool-concept/werkzeugguertel-e-s-tool-concept-3402070-8245580-1.html?itemorigin=StartseiteHW23)
+[jetzt entdecken](https://www.engelbert-strauss.de/guertel-hosentraeger/werkzeugguertel-e-s-tool-concept-3402070-8245580-1.html?itemorigin=StartseiteHW23)
 
  Immer im Blick,
 immer griffbereit
@@ -92,7 +92,7 @@ immer griffbereit
 tasche
 ---
 
-[jetzt entdecken](https://www.engelbert-strauss.de/handwerkzeuge-e-s-tool-concept/werkzeugtasche-offen-e-s-tool-concept-7902940-5505286-1.html?itemorigin=StartseiteHW23)
+[jetzt entdecken](https://www.engelbert-strauss.de/e-s-tool-concept-herren-magnetrast-system/werkzeugtasche-offen-e-s-tool-concept-7902940-5505286-1.html?itemorigin=StartseiteHW23)
 
  Hightech in Design
 und Funktion
