@@ -1,7 +1,17 @@
+[Aktuelle Meldung Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan *****Ab Montag, den 28. August 2023**:*** ***metronom*** **erhöht die Verlässlichkeit durch die vorübergehende Einführung eines sogenannten Ersatzfahrplans.** **Betroffen sind die Linien RE3, RB31, RE4 und RB41, hier entfallen die sogenannten Verstärkerzüge.** **Der** **bis zum 9. Dezember gültige Ersatzfahrplan sowie weitere Informationen sind unter dem unten stehenden Button zu finden.** weitere Informationen](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
+
 AKTUELLE MELDUNGEN
 ==========
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
+
+[Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
+
+ 11.08.2023
+
+Ab Montag, den 28. August 2023, fährt metronom mit einem veränderten
+Fahrplan, dem sogenannten Ersatzfahrplan. Betroffen sind die Linien RE3, RB31, RE4 und RB41, hier entfallen die sogenannten Verstärkerzüge.
+Die sogenannten Verstärkerzüge sind Züge, die metronom im Regelfahrplan normalerweise...
 
 [Erhöhtes Fahrgastaufkommen zu bestimmten Tageszeiten](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen-an-wochenenden/)
 
