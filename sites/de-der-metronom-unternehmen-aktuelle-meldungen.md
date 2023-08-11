@@ -13,7 +13,7 @@ Ab Montag, den 28. August 2023, fährt metronom mit einem veränderten
 Fahrplan, dem sogenannten Ersatzfahrplan. Betroffen sind die Linien RE3, RB31, RE4 und RB41, hier entfallen die sogenannten Verstärkerzüge.
 Die sogenannten Verstärkerzüge sind Züge, die metronom im Regelfahrplan normalerweise...
 
-[Erhöhtes Fahrgastaufkommen zu bestimmten Tageszeiten](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen-an-wochenenden/)
+[Erhöhtes Fahrgastaufkommen](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen-an-wochenenden/)
 
  Uelzen - 24.07.2023
 
