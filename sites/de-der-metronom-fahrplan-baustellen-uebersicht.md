@@ -18,7 +18,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
