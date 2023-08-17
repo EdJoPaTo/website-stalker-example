@@ -250,6 +250,12 @@
 
 14,16 €mit MwSt.
 
+[RC Snubber](https://www.shelly.com/de/products/shop/rc-snubber)
+
+2,50 €
+
+2,98 €mit MwSt.
+
 [Shelly Wall switch 4 + Shelly Plus i4](https://www.shelly.com/de/products/shop/shelly-wall-switch-4-shelly-plus-i4)
 
 17,19 €
