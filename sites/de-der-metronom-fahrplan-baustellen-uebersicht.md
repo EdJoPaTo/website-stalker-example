@@ -24,6 +24,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [17.08.2023 - 30.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
 
+[29.08.2023 - 30.08.2023 RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle/)
+
 RE2 Uelzen - Celle - Hannover
 
 [17.08.2023 - 30.08.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
