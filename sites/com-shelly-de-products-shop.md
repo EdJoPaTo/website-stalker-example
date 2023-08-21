@@ -435,9 +435,3 @@
 119,90 €
 
 142,68 €mit MwSt.
-
-[Shelly BLU Motion](https://www.shelly.com/de/products/shop/1xsbm)
-
-19,90 €
-
-23,68 €mit MwSt.
