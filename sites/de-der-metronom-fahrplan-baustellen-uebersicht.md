@@ -34,5 +34,9 @@ RE2 Hannover - Northeim - Göttingen
 
 [17.08.2023 - 07.09.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
 
+RE2 + RE3 Uelzen - Hannover - Göttingen
+
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
