@@ -50,7 +50,7 @@ Batteries last much longer thanks to Thread’s extremely low power consumption.
 
 **Future-proof**
 
-Thread is a pillar of the new mart home standard Matter. All Thread-enabled Eve devices will receive free firmware updates over time – so if you purchase a Thread-enabled Eve device today, you're already prepared for Matter.
+Thread is a pillar of the new smart home standard Matter. All Thread-enabled Eve devices will receive free firmware updates over time – so if you purchase a Thread-enabled Eve device today, you're already prepared for Matter.
 
 ###  Introducing Matter. ###
 
