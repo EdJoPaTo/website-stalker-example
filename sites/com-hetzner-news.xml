@@ -6,6 +6,24 @@
 		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>New dedicated vCPU cloud servers with AMD Epyc™ cpus at a sensational price!</title>
+			<link>https://www.hetzner.com/news/new-dedicated-vcpu-cloud-server</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				23. August 2023
+			</small>
+		</p>
+		<p>
+			We would like to introduce you to our latest line of six dedicated vCPU Cloud servers.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>New Dedicated Server DX182 and DX293 with Dell namebrand hardware</title>
 			<link>https://www.hetzner.com/news/new-dell-servers</link>
 			<content:encoded><![CDATA[<html>
@@ -166,24 +184,6 @@ When you create a cloud server, it will no longer automatically include public I
 		</p>
 		<p>
 			We're celebrating 25 years of being your home for the Internet.
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Focused on a low price and strong performance: the new Hetzner Dedicated Root Server EX43</title>
-			<link>https://www.hetzner.com/news/03-22-ex43</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				22. March 2022
-			</small>
-		</p>
-		<p>
-			The Hetzner Dedicated Root Server EX43 puts the new Intel® Core™ i5-12500 processor in the spotlight. This chip is from the twelfth generation, nicknamed "Alder Lake".
 		</p>
 	</body>
 </html>]]></content:encoded>
