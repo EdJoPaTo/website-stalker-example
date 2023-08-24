@@ -1,4 +1,4 @@
-[Aktuelle Meldung Starke Auslastung am kommenden Samstag 26.08. 2023- zur An- und Abreise bitte möglichst auch auf andere Verkehrsmittel ausweichen. weitere Informationen](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
+[Aktuelle Meldung RE2/RE3 Starke Auslastung am kommenden Samstag 26. August 2023 - bitte zur An- und Abreise möglichst auch andere Verkehrsmittel nutzen. weitere Informationen](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
 
 Wat mutt, dat mutt: die Baustellen
 ----------

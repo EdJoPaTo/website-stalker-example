@@ -1,17 +1,17 @@
-[Aktuelle Meldung Starke Auslastung am kommenden Samstag 26.08. 2023- zur An- und Abreise bitte möglichst auch auf andere Verkehrsmittel ausweichen. weitere Informationen](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
+[Aktuelle Meldung RE2/RE3 Starke Auslastung am kommenden Samstag 26. August 2023 - bitte zur An- und Abreise möglichst auch andere Verkehrsmittel nutzen. weitere Informationen](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
 
 AKTUELLE MELDUNGEN
 ==========
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[Starke Auslastung am kommenden Samstag 26.08. 2023- zur An- und Abreise bitte möglichst auch auf andere Verkehrsmittel ausweichen.](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
+[RE2/RE3 Starke Auslastung am kommenden Samstag 26. August 2023 - bitte zur An- und Abreise möglichst auch andere Verkehrsmittel nutzen.](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
 
  Uelzen - 24.08.2023
 
 Zum HSV-Auswärtsspiel
-in Hannover am kommenden Samstag (26.08.2023 um 20:30) werden etwa 15.000 HSV-Fans auf den Weg nach Hannover erwartet. Auf Grund der sehr großen Anzahl an zu
-erwartenden Fahrgästen bittet metronom alle Fans und Mitreisende möglichst auch auf andere Verkehrsmittel...
+in Hannover am kommenden Samstag (26. August 2023 um 20:30) werden etwa 15.000 HSV-Fans auf den Weg nach Hannover erwartet. Auf Grund der sehr großen Anzahl an zu
+erwartenden Fahrgästen bittet metronom alle Fans und Mitreisende möglichst auch andere Verkehrsmittel zu...
 
 [Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
