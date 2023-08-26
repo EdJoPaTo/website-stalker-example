@@ -1,4 +1,4 @@
-[Aktuelle Meldung RE2/RE3 Starke Auslastung am kommenden Samstag 26. August 2023 - bitte zur An- und Abreise möglichst auch andere Verkehrsmittel nutzen. weitere Informationen](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
+[Aktuelle Meldung Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan *****Ab Montag, den 28. August 2023**:*** ***metronom*** **erhöht die Verlässlichkeit durch die vorübergehende Einführung eines sogenannten Ersatzfahrplans.** **Betroffen sind die Linien RE3, RB31, RE4 und RB41, hier entfallen die sogenannten Verstärkerzüge.** **Der** **bis zum 9. Dezember gültige Ersatzfahrplan sowie weitere Informationen sind unter dem unten stehenden Button zu finden.** weitere Informationen](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
 Wat mutt, dat mutt: die Baustellen
 ----------

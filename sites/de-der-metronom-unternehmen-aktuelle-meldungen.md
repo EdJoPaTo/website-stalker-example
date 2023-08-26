@@ -1,17 +1,9 @@
-[Aktuelle Meldung RE2/RE3 Starke Auslastung am kommenden Samstag 26. August 2023 - bitte zur An- und Abreise möglichst auch andere Verkehrsmittel nutzen. weitere Informationen](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
+[Aktuelle Meldung Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan *****Ab Montag, den 28. August 2023**:*** ***metronom*** **erhöht die Verlässlichkeit durch die vorübergehende Einführung eines sogenannten Ersatzfahrplans.** **Betroffen sind die Linien RE3, RB31, RE4 und RB41, hier entfallen die sogenannten Verstärkerzüge.** **Der** **bis zum 9. Dezember gültige Ersatzfahrplan sowie weitere Informationen sind unter dem unten stehenden Button zu finden.** weitere Informationen](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
 AKTUELLE MELDUNGEN
 ==========
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
-
-[RE2/RE3 Starke Auslastung am kommenden Samstag 26. August 2023 - bitte zur An- und Abreise möglichst auch andere Verkehrsmittel nutzen.](https://www.der-metronom.de/aktuell/starke-auslastung-am-kommenden-samstag-zur-an-und-abreise-bitte-moeglichst-auch-auf-andere-verkehrsmittel-ausweichen/)
-
- Uelzen - 24.08.2023
-
-Zum HSV-Auswärtsspiel
-in Hannover am kommenden Samstag (26. August 2023 um 20:30) werden etwa 15.000 HSV-Fans auf den Weg nach Hannover erwartet. Auf Grund der sehr großen Anzahl an zu
-erwartenden Fahrgästen bittet metronom alle Fans und Mitreisende möglichst auch andere Verkehrsmittel zu...
 
 [Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
