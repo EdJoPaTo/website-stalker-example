@@ -1,4 +1,4 @@
-[Shelly BLU Door/Window](https://www.shelly.com/de/products/shop/shelly-blu-door-window/sbdw-3)
+[Shelly BLU Door/Window](https://www.shelly.com/de/products/shop/shelly-blu-door-window/shelly-blu-door-window-brown)
 
 16,90 €
 
