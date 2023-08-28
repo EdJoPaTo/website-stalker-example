@@ -6,15 +6,15 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>[All OSes] Adopt OpenJDK will be removed from images on August, 7</title>
-			<link>https://github.com/actions/runner-images/issues/8030</link>
-			<pubDate>Thu, 03 Aug 2023 07:34:20 +0000</pubDate>
-			<content:encoded><![CDATA[#8030
+			<title>Master</title>
+			<link>https://github.com/actions/runner-images/issues/8178</link>
+			<pubDate>Mon, 28 Aug 2023 05:10:54 +0000</pubDate>
+			<content:encoded><![CDATA[#8178
 opened
-Aug 3, 2023
+Aug 28, 2023
 by
 
-mikhailkoliada]]></content:encoded>
+Aein29]]></content:encoded>
 		</item>
 	</channel>
 </rss>
