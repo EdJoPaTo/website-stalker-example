@@ -26,6 +26,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [29.08.2023 - 30.08.2023 RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle/)
 
+[07.09.2023 RE3/RB31 Teilausfall der Haltestellen Bardowick, Radbruch und Ashausen und geänderte Fahrzeiten am 07.09.2023](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-und-geaenderte-fahrzeiten/)
+
 RE2 Uelzen - Celle - Hannover
 
 [17.08.2023 - 07.09.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
@@ -36,7 +38,7 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Hannover - Göttingen
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[08.09.2023 - 14.09.2023 RE2/RE3 Ausfall und Teilausfall auf der Strecke Uelzen über Hannover Hbf und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-ausfall-und-teilausfall-auf-der-strecke-uelzen-ueber-hannover-hbf-und-goettingen/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
