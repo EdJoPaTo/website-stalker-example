@@ -334,6 +334,12 @@
 
 53,43 €mit MwSt.
 
+[Shelly Scripting Basics voucher](https://www.shelly.com/de/products/shop/voucher-scripting-basics)
+
+63,00 €
+
+74,97 €mit MwSt.
+
 [Shelly Pro 3EM Switch Add-On](https://www.shelly.com/de/products/shop/shelly-pro-3-em-switch-add-on)
 
 19,90 €
