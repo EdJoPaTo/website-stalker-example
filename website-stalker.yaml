@@ -54,6 +54,7 @@ sites:
 
 
   - url: https://www.debian.org/releases/
+    ignore_error: true
     editors:
       - css_select: "#content"
       - html_url_canonicalize
