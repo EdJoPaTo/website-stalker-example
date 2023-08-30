@@ -322,6 +322,12 @@
 
 27,25 €mit MwSt.
 
+[Shelly Scripting Basics voucher](https://www.shelly.com/de/products/shop/voucher-scripting-basics)
+
+63,00 €
+
+74,97 €mit MwSt.
+
 [Shelly 1PM](https://www.shelly.com/de/products/shop/1xs1pm/2xs1pm)
 
 28,13 €
