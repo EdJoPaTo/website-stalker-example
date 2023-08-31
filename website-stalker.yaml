@@ -220,6 +220,7 @@ sites:
       - html_markdownify
 
   - url: https://www.shelly.com/de/products/shop#unfiltered
+    ignore_error: true
     editors:
       - css_select: .product-box__info
       - css_remove: .product-box__excl-tax
