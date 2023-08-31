@@ -1,4 +1,4 @@
-[Aktuelle Meldung Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan *****Ab Montag, den 28. August 2023**:*** ***metronom*** **erhöht die Verlässlichkeit durch die vorübergehende Einführung eines sogenannten Ersatzfahrplans.** **Betroffen sind die Linien RE3, RB31, RE4 und RB41, hier entfallen die sogenannten Verstärkerzüge.** **Der** **bis zum 9. Dezember gültige Ersatzfahrplan sowie weitere Informationen sind unter dem unten stehenden Button zu finden.** weitere Informationen](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
+[Aktuelle Meldung St. Pauli-Auswärtsspiel in Braunschweig | metronom bittet Fans aus Hamburg, zur An- und Abreise über Hannover zu fahren weitere Informationen](https://www.der-metronom.de/aktuell/st-pauli-auswaertsspiel-in-braunschweig-metronom-bittet-fans-aus-hamburg-zur-an-und-abreise-ueber-hannover-zu-fahren/)
 
 Wat mutt, dat mutt: die Baustellen
 ----------

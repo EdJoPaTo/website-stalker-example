@@ -1,9 +1,15 @@
-[Aktuelle Meldung Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan *****Ab Montag, den 28. August 2023**:*** ***metronom*** **erhöht die Verlässlichkeit durch die vorübergehende Einführung eines sogenannten Ersatzfahrplans.** **Betroffen sind die Linien RE3, RB31, RE4 und RB41, hier entfallen die sogenannten Verstärkerzüge.** **Der** **bis zum 9. Dezember gültige Ersatzfahrplan sowie weitere Informationen sind unter dem unten stehenden Button zu finden.** weitere Informationen](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
+[Aktuelle Meldung St. Pauli-Auswärtsspiel in Braunschweig | metronom bittet Fans aus Hamburg, zur An- und Abreise über Hannover zu fahren weitere Informationen](https://www.der-metronom.de/aktuell/st-pauli-auswaertsspiel-in-braunschweig-metronom-bittet-fans-aus-hamburg-zur-an-und-abreise-ueber-hannover-zu-fahren/)
 
 AKTUELLE MELDUNGEN
 ==========
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
+
+[St. Pauli-Auswärtsspiel in Braunschweig | metronom bittet Fans aus Hamburg, zur An- und Abreise über Hannover zu fahren](https://www.der-metronom.de/aktuell/st-pauli-auswaertsspiel-in-braunschweig-metronom-bittet-fans-aus-hamburg-zur-an-und-abreise-ueber-hannover-zu-fahren/)
+
+ 31.08.2023
+
+metronom empfiehlt den Fans des FC St. Pauli, zum morgigen Auswärtsspiel nach Braunschweig über Hannover an- und abzureisen. Der Grund: Die erixx-Züge der RB47 zwischen Uelzen und Braunschweig sind in ihrer Größe und Aufnahmekapazität begrenzt, und zudem gibt es einen Busersatzverkehr zwischen...
 
 [Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
