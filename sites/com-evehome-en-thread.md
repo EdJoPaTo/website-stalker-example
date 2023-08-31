@@ -18,19 +18,19 @@ The big difference with this technology is that Thread creates a mesh network. W
 
 ###  ###
 
-**No bridge**
+#### No bridge ####
 
 Thread devices don’t need a proprietary bridge to communicate with each other – they simply need a [Thread Border Router](/en/hub).
 
 ###  ###
 
-**Always in reach**
+#### Always in reach ####
 
 If one of your devices is beyond the actual reach of your Thread Border Router, a mains-powered device placed somewhere in the middle that’s always on, such as Eve Energy, can connect it to the Thread network.
 
 ###  ###
 
-**Robust, self-healing network**
+#### Robust, self-healing network  ####
 
 If one device in your Thread network fails, the next one fills in. Thread scales up easily and actually becomes more robust with every new device, unlike Wi-Fi and Bluetooth networks which become more unreliable and challenging to manage with a high number of devices connected.
 
@@ -42,15 +42,15 @@ Thread was designed specifically to enable both mains-powered and battery-operat
 
 ###  ###
 
-**Longer battery life**
+#### Longer battery life ####
 
 Batteries last much longer thanks to Thread’s extremely low power consumption.
 
 ###  ###
 
-**Future-proof**
+#### Future-proof  ####
 
-Thread is a pillar of the new smart home standard Matter. All Thread-enabled Eve devices will receive free firmware updates over time – so if you purchase a Thread-enabled Eve device today, you're already prepared for Matter.
+Thread is a pillar of the new smart home standard [Matter](/en/matter). All Thread-enabled Eve devices will receive free firmware updates over time – so if you purchase a Thread-enabled Eve device today, you're already prepared for Matter.
 
 ###  Introducing Matter. ###
 

@@ -39,10 +39,17 @@ cirrus nimbini v4
 
   * **Intel® NUC Celeron J4005**
     2.00GHz DualCore, UHD Graphics 600
-    based on NUC7CJYH
+    basierend auf NUC7CJYH
   * **Intel® NUC Pentium Silver J5005**
-     1.50GHz QuadCore, UHD Graphics 605
-     based on NUC7PJYH
+    1.50GHz QuadCore, UHD Graphics 605
+    basierend auf NUC7PJYH
+
+  ##### Intel® NUC Board #####
+
+  Choose between different Intel® NUC boards here. With the board you select the soldered CPU at the same time.
+
+  * NUC12
+  * NUC13
 
   * **Intel® NUC Core™ i3-1220P**
     2P+8E / 12 Threads, max. 4.4Ghz, Intel UHD
@@ -60,15 +67,15 @@ cirrus nimbini v4
     4P+8E / 16 Threads, max. 4.8Ghz, Iris® Xe 96U, vPro
     basierend auf NUC12WSHv7
 
-  * **Intel® NUC Kaby Lake i3-7100U**
-     2.40GHz DualCore + Hyperthreading, UHD 620
-     based on NUC7i3DNH
-  * **Intel® NUC Kaby Lake i5-7300U**
-     2.60 – 3.50GHz DualCore + Hyperthreading, UHD 620
-     based on NUC7i5DNH
-  * **Intel® NUC Kaby Lake i7-8650U**
-     1.90 – 4.20GHz QuadCore + Hyperthreading, UHD 620
-     based on NUC7i7DNH
+  * **Intel® NUC Core™ i3-1315U**
+    2P+4E / 8 Threads, max. 4.5Ghz, Intel UHD
+    basierend auf NUC13ANHi3
+  * **Intel® NUC Core™ i5-1340P**
+    4P+8E / 16 Threads, max. 4.6Ghz, Iris® Xe 80U
+    basierend auf NUC13ANHi5
+  * **Intel® NUC Core™ i7-1360P**
+    4P+8E / 16 Threads, max. 5.0Ghz, Iris® Xe 96U
+    basierend auf NUC13ANHi7
 
   ##### Main memory (RAM) #####
 
@@ -201,8 +208,8 @@ cirrus nimbini v4
   * **Windows 10 Pro**
     original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Pro
-  * **Different operating system**
-    as long as possible we are happy to try to install other operating systems
+  * **anderes Betriebssystem**
+    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
@@ -218,8 +225,8 @@ cirrus nimbini v4
   * **Windows 10 Pro**
     original OEM license
     includes free update to Windows 11 Pro
-  * **Different operating system**
-    as long as possible we are happy to try to install other operating systems
+  * **anderes Betriebssystem**
+    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   *
 
