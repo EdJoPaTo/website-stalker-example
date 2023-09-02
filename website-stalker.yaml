@@ -155,7 +155,7 @@ sites:
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
     editors:
       - css_select: "#content"
-      - css_remove: form, .module-form, script, figure, img, svg, hr, .breadcrumb, a[title=weiterlesen]
+      - css_remove: form, .module-form, script, figure, img, svg, hr, .breadcrumb, .malfunction, a[title=weiterlesen]
       - html_url_canonicalize
       - html_markdownify
 
