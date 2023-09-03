@@ -894,6 +894,7 @@
 * [Sandpapier](https://www.wdrmaus.de/filme/sachgeschichten/sandpapier.php5)
 * [Sandskulptur](https://www.wdrmaus.de/filme/sachgeschichten/sandskulptur.php5)
 * [Satellitenbau](https://www.wdrmaus.de/filme/sachgeschichten/satellitenbau.php5)
+* [Satellitenwettbewerb](https://www.wdrmaus.de/filme/sachgeschichten/Satellitenwettbewerb.php5)
 * [Sattel](https://www.wdrmaus.de/filme/sachgeschichten/sattel.php5)
 * [Saugbagger](https://www.wdrmaus.de/filme/sachgeschichten/saugbagger.php5)
 * [Schallplatte](https://www.wdrmaus.de/filme/sachgeschichten/schallplatte.php5)
