@@ -18,6 +18,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
+[04.09.2023 - 14.09.2023 RE4/RB41 | Aufzugsprüfung und Ausfallzeiten der Aufzüge am Bahnhof Lauenbrück](https://www.der-metronom.de/baustellen/re4-rb41-information-zu-ausfallzeiten-der-aufzuege-am-bahnhof-lauenbrueck/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [17.08.2023 - 07.09.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
