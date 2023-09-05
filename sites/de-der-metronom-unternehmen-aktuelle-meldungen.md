@@ -3,7 +3,7 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[Ab Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
+[Seit Montag, den 28. August 2023: metronom erhöht Verlässlichkeit mit Ersatzfahrplan](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  11.08.2023
 
