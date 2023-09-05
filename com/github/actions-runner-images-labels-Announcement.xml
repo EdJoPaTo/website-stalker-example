@@ -4,7 +4,7 @@
 		<title>GitHub actions/runner-images Announcement</title>
 		<link>https://github.com/actions/runner-images/labels/Announcement</link>
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
-		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Ruby 2.4.x will be removed from the macOS 11 and Windows 2019 images on September 18</title>
 			<link>https://github.com/actions/runner-images/issues/8239</link>

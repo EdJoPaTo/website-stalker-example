@@ -4,7 +4,7 @@
 		<title>EdJoPaTos Blog</title>
 		<link>https://edjopato.de/post/</link>
 		<description></description>
-		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>FFmpeg unter arm64 im Alpine Container schneller als unter Debian</title>
 			<link>https://edjopato.de/post/2023/07/09-ffmpeg-arm64-alpine/</link>
