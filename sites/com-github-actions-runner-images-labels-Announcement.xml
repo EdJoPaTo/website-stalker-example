@@ -6,6 +6,17 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.20.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Ruby 2.4.x will be removed from the macOS 11 and Windows 2019 images on September 18</title>
+			<link>https://github.com/actions/runner-images/issues/8239</link>
+			<pubDate>Tue, 05 Sep 2023 17:53:22 +0000</pubDate>
+			<content:encoded><![CDATA[#8239
+opened
+Sep 5, 2023
+by
+
+mikhailkoliada]]></content:encoded>
+		</item>
+		<item>
 			<title>Python 3.6.x will be removed from Ubuntu 20.04 and Windows 2019 images on September 18</title>
 			<link>https://github.com/actions/runner-images/issues/8238</link>
 			<pubDate>Tue, 05 Sep 2023 14:10:53 +0000</pubDate>
