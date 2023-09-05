@@ -26,7 +26,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [07.09.2023 RE3/RB31 Teilausfall der Haltestellen Bardowick, Radbruch und Ashausen und geänderte Fahrzeiten am 07.09.2023](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-und-geaenderte-fahrzeiten/)
 
-[09.09.2023 RE3/RB31 Teilausfälle Uelzen Richtung Hamburg Hbf. bei Bardowick, Radbruch und Ashausen - 09.09.2023 Abend.](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-uelzen-richtung-hamburg-hbf-bei-bardowick-radbruch-und-ashausen-09-09-2023-abend/)
+[09.09.2023 RE3/RB31 Teilausfälle Uelzen Richtung Hamburg Hbf. bei Bardowick, Radbruch und Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-uelzen-richtung-hamburg-hbf-bei-bardowick-radbruch-und-ashausen-09-09-2023-abend/)
 
 [10.09.2023 - 11.09.2023 RE3/RB31 Teilausfall in der Nacht zwischen Hamburg-Harburg und Maschen in beiden Richtungen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-in-der-nacht/)
 
@@ -35,6 +35,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [19.09.2023 - 20.09.2023 RE3/RB31 Teilausfall der Haltestellen Bardowick, Radbruch und Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-der-haltestellen-bardowick-radbruch-und-ashausen-in-der-nacht-19-20-09-2023/)
 
 [26.09.2023 - 27.09.2023 RB31 nächtliche Teilausfälle zwischen Stelle und Lüneburg](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-zwischen-stelle-lueneburg/)
+
+[28.09.2023 - 29.09.2023 RE3/RB31 nächtliche Fahrzeitänderungen auf der Strecke Uelzen/Hamburg, Haltausfall Ashausen 22:52 Uhr](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-fahrzeitaenderung-dreier-verbindungen-ab-bis-uelzen-und-hamburg/)
 
 RE2 Uelzen - Celle - Hannover
 
