@@ -1,3 +1,5 @@
+### [Ugreen Nexode 300W GaN Wall USB-C Charger 5 Ports](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) ###
+
 ### [UGREEN DigiNest Pro 100 W USB C Power Strip GaN USB C Charger](https://eu.ugreen.com/products/ugreen-diginest-pro-100-w-usb-c-power-strip-gan-usb-c-charger) ###
 
 Specifications and Compatibility USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A PPS adaptive Ladung 100W Max USB-C3 output 5V/3A, 9V/2,5A, 12V/1,88A; PPS adaptive Ladung 22,5W Max USB A output 4.5V/5A, 5V/4.5A,...
