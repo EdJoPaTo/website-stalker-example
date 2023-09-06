@@ -56,5 +56,7 @@ RE2 + RE3 Uelzen - Hannover - Göttingen
 
 [08.09.2023 - 14.09.2023 RE2/RE3 Ausfall und Teilausfall auf der Strecke Uelzen über Hannover Hbf und Göttingen](https://www.der-metronom.de/baustellen/re2-re3-ausfall-und-teilausfall-auf-der-strecke-uelzen-ueber-hannover-hbf-und-goettingen/)
 
+[23.09.2023 - 24.09.2023 RE2 Teilausfälle und Verzögerungen auf der Strecke Hannover \<\> Göttingen](https://www.der-metronom.de/baustellen/re2-re3-teilausfaelle-der-strecken-uelzen-hannover-goettingen/)
+
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
