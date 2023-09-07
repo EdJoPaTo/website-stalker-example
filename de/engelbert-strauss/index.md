@@ -1,19 +1,5 @@
-Iconic
-Chiefs
-Edition
-----------
-
----
-
-###  Touchdown für einen starken Auftritt  ###
-
----
-
-[Limited Edition entdecken](https://www.engelbert-strauss.de/iconic-chiefs)
-
 e.s.
 iconic
-
 ----------
 
 ---
@@ -38,44 +24,40 @@ neuheiten
 
 [mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
- STRAUSS
-box
+ e.s.
+trail
 ----------
 
 ---
 
- color
-----------
+###  NEW SEASON, NEW TRAILS  ###
 
 ---
 
-###  IHRE TEAM-FARBEN BIS ZUR BOX: DAS WIRKT!  ###
+[mehr erfahren](https://www.engelbert-strauss.de/trail)
 
+[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/)
+
+ HOW
+FOOTBALL
+WORKS.
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/NFL)
+
+ straussbox color
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/straussbox_color)
 
- E.S.Trail
----
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/trail)
-
- Herren
----
-
- Damen
----
-
- Kinder
----
+[CI-Boxen in Company Colours](https://www.engelbert-strauss.de/straussbox_color)
 
  e.s.tool Concept
 ---
 
 [Kollektion entdecken](https://www.engelbert-strauss.de/tool-concept)
 
- Ein Gürtel, unzählige
-Kombinationen
+ Ein Gürtel, unzählige Kombinationen
 ---
 
  Werkzeug-
@@ -84,18 +66,15 @@ gürtel
 
 [jetzt entdecken](https://www.engelbert-strauss.de/guertel-hosentraeger/werkzeugguertel-e-s-tool-concept-3402070-8245580-1.html?itemorigin=StartseiteHW23)
 
- Immer im Blick,
-immer griffbereit
+ CI Configurator
 ---
 
- Werkzeug-
-tasche
+ Gestalten Sie Ihre persönliche Werkzeugtasche
 ---
 
-[jetzt entdecken](https://www.engelbert-strauss.de/e-s-tool-concept-herren-magnetrast-system/werkzeugtasche-offen-e-s-tool-concept-7902940-5505286-1.html?itemorigin=StartseiteHW23)
+[jetzt starten](https://cargo-configurator.engelbert-strauss.de/)
 
- Hightech in Design
-und Funktion
+ Hightech in Design und Funktion
 ---
 
  Werkzeug-
@@ -104,23 +83,30 @@ Weste
 
 [jetzt entdecken](https://www.engelbert-strauss.de/westen/werkzeugweste-e-s-tool-concept-3140590-78446-1.html?itemorigin=StartseiteHW23)
 
- CI Configurator
+ Bis zu 32% sparen
 ---
 
- Mit wenigen Klicks:
-Gestalten Sie Ihre persönliche Werkzeugtasche
+ Clever sparen mit den neuen
 ---
 
-[jetzt gestalten](https://cargo-configurator.engelbert-strauss.de/)
+ Werkzeug-sets
+---
+
+[jetzt entdecken](https://www.engelbert-strauss.de/s/suche?query=neuheiten%20werkzeug%20sets)
+
+ ICONIC
+CHIEFS
+EDITION
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/iconic-chiefs)
 
  alle Neuheiten
 ---
 
- Herren
----
+[Herren](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Herren/)
 
- Damen
----
+[Damen](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
 
  Newsletter abonnieren
 
