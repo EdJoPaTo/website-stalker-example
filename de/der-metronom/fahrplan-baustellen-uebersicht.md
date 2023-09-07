@@ -22,8 +22,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[17.08.2023 - 07.09.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
-
 [07.09.2023 RE3/RB31 Teilausfall der Haltestellen Bardowick, Radbruch und Ashausen und geänderte Fahrzeiten](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-und-geaenderte-fahrzeiten/)
 
 [10.09.2023 - 11.09.2023 RE3/RB31 Teilausfall in der Nacht zwischen Hamburg-Harburg und Maschen in beiden Richtungen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-in-der-nacht/)
@@ -38,15 +36,11 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[17.08.2023 - 07.09.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
-
 [15.09.2023 - 22.09.2023 RE2/RE3 Teilausfälle zwischen Göttingen und Hannover Hbf](https://www.der-metronom.de/baustellen/re2-re3-ersatzfahrten-zwischen-goettingen-und-hannover/)
 
 [18.09.2023 - 23.09.2023 RE2 Zusätzlicher Halt in Hannover-Messe/Laatzen](https://www.der-metronom.de/baustellen/re2-zusaetzlicher-halt-in-hannover-messe-laatzen/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[17.08.2023 - 07.09.2023 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen und Teilausfälle](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-2/)
 
 [18.09.2023 - 23.09.2023 RE2 Zusätzlicher Halt in Hannover-Messe/Laatzen](https://www.der-metronom.de/baustellen/re2-zusaetzlicher-halt-in-hannover-messe-laatzen/)
 
