@@ -10,7 +10,7 @@
 * [Fleißige Insekten und wichtige Helfer](https://www.wdrmaus.de/extras/mausthemen/bienen/index.php5)
 * [Wie verbringst du deine Zeit?](https://www.wdrmaus.de/spiel-und-spass/hobbyraum/index.php5)
 * [Der Videokurs mit Penny](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/programmieren.php5)
-* [In der Schule mit der Maus](https://www.wdrmaus.de/extras/mausthemen/schulanfang/index.php5)
+* [In der Schule mit der Maus](https://www.wdrmaus.de/extras/mausthemen/schulanfang/index2.php5)
 * [Ideen zum Schutz der Umwelt](https://www.wdrmaus.de/extras/mausthemen/umwelt/index.php5)
 * [Forschen und Leben am Südpol](https://www.wdrmaus.de/extras/mausthemen/antarktis/index.php5)
 * [Was bedeutet Demokratie?](https://www.wdrmaus.de/extras/mausthemen/demokratie/index.php5)
