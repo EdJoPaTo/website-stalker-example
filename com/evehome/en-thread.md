@@ -36,7 +36,7 @@ If one device in your Thread network fails, the next one fills in. Thread scales
 
 ###  ###
 
-**Ultra-responsive**
+#### Ultra-responsive  ####
 
 Thread was designed specifically to enable both mains-powered and battery-operated devices to be extremely responsive regardless of network size and density.
 
