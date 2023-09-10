@@ -333,6 +333,7 @@
 * [Früher-Heute-Geschichten: Im Auto hinten sitzen](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_im_auto_hinten_sitzen.php5)
 * [Früher-Heute-Geschichten: Kohle und Sonne](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_kohle_und_sonne.php5)
 * [Früher-Heute-Geschichten: Schrankenwärter](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_schrankenwaerter.php5)
+* [Früher-Heute-Geschichten: Schulstuhl](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_schulstuhl.php5)
 * [Früher-Heute-Geschichten: Tankwart](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_tankwart.php5)
 * [Früher-Heute-Geschichten: Zange](https://www.wdrmaus.de/filme/sachgeschichten/frueher_heute_geschichten_zange.php5)
 * [Füller](https://www.wdrmaus.de/filme/sachgeschichten/fueller.php5)
