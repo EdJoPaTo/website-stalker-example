@@ -22,8 +22,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[10.09.2023 - 11.09.2023 RE3/RB31 Teilausfall in der Nacht zwischen Hamburg-Harburg und Maschen in beiden Richtungen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-in-der-nacht/)
-
 [15.09.2023 - 22.09.2023 RE2/RE3 Teilausfälle zwischen Göttingen und Hannover Hbf](https://www.der-metronom.de/baustellen/re2-re3-ersatzfahrten-zwischen-goettingen-und-hannover/)
 
 [19.09.2023 - 20.09.2023 RE3/RB31 Teilausfall der Haltestellen Bardowick, Radbruch und Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfall-der-haltestellen-bardowick-radbruch-und-ashausen-in-der-nacht-19-20-09-2023/)
