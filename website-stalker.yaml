@@ -204,9 +204,13 @@ sites:
 
   - url: https://www.evehome.com/en/blog
     editors:
+      - regex_replace:
+          pattern: "\/index%2Ephp\/"
+          replace: /
       - rss:
           item_selector: .blog-post-teaser
           title_selector: .title
+          link_selector: .read-more-btn
           content_editors:
             - css_select: body > div > div > *
             - css_remove: img, .title, .text-btn, .read-more-btn
@@ -215,6 +219,9 @@ sites:
       - https://www.evehome.com/en/matter
       - https://www.evehome.com/en/thread
     editors:
+      - regex_replace:
+          pattern: "\/index%2Ephp\/"
+          replace: /
       - css_select: article .content
       - css_remove: img
       - html_markdownify
