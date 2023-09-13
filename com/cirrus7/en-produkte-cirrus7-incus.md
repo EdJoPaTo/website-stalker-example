@@ -57,11 +57,11 @@ cirrus incus
   Choose between different AMD CPUs
 
   * **AMD Athlon 3000G**
-    3.5GHz DualCore + Hyperthreading, Vega 3 GPU
+    3,5 – 3,5GHz, 2 Cores / 4 Threads, Vega 3
   * **AMD Ryzen 3 4300G**
     3.8 – 4.0GHz QuadCore + Hyperthreading, Vega 6
-  * **AMD Ryzen 7 5700G**
-    3.8GHz – 4.6GHz OctaCore + Hyperthreading, Radeon 8 GPU
+  * **AMD Ryzen 5 5600G**
+    3.9GHz – 4.4GHz HexaCore + Hyperthreading, Vega 7
   * **AMD Ryzen 7 5700G**
     3.8GHz – 4.6GHz OctaCore + Hyperthreading, Vega 8
 
