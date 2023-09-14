@@ -834,6 +834,7 @@
 * [Puzzleherstellung](https://www.wdrmaus.de/filme/sachgeschichten/puzzleherstellung.php5)
 * [Qualle](https://www.wdrmaus.de/filme/sachgeschichten/qualle.php5)
 * [Quelle](https://www.wdrmaus.de/filme/sachgeschichten/quelle.php5)
+* [Radiergummi](https://www.wdrmaus.de/filme/sachgeschichten/radiergummi.php5)
 * [Radio](https://www.wdrmaus.de/filme/sachgeschichten/radio.php5)
 * [Radio Kiraka](https://www.wdrmaus.de/filme/sachgeschichten/radio_kiraka.php5)
 * [Raketentriebwerk](https://www.wdrmaus.de/filme/sachgeschichten/raketentriebwerk.php5)
