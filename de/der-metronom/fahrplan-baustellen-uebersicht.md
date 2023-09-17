@@ -28,6 +28,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [28.09.2023 - 29.09.2023 RE3/RB31 nächtliche Fahrzeitänderungen auf der Strecke Uelzen/Hamburg, Haltausfall Ashausen 22:52 Uhr](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-fahrzeitaenderung-dreier-verbindungen-ab-bis-uelzen-und-hamburg/)
 
+[01.10.2023 - 02.10.2023 RE3/RB31 Ausfälle in den Tagesrandlagen zwischen Hamburg Hbf und Lüneburg](https://www.der-metronom.de/baustellen/re3-rb31-ausfaelle-in-den-tagesrandlagen-zwischen-hamburg-hbf-und-lueneburg/)
+
 RE2 Uelzen - Celle - Hannover
 
 [15.09.2023 - 22.09.2023 RE2/RE3 Teilausfälle zwischen Göttingen und Hannover Hbf](https://www.der-metronom.de/baustellen/re2-re3-ersatzfahrten-zwischen-goettingen-und-hannover/)

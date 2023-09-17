@@ -861,6 +861,7 @@
 * [Rettungshund Chilli (Teil 3)](https://www.wdrmaus.de/filme/sachgeschichten/rettungshund_chilli_teil3.php5)
 * [Rettungshund Chilli (Teil 4)](https://www.wdrmaus.de/filme/sachgeschichten/rettungshund_chilli_teil4.php5)
 * [Rettungsinsel](https://www.wdrmaus.de/filme/sachgeschichten/rettungsinsel.php5)
+* [Rheinkrake](https://www.wdrmaus.de/filme/sachgeschichten/rheinkrake.php5)
 * [Ring](https://www.wdrmaus.de/filme/sachgeschichten/ring.php5)
 * [Ringschlüssel](https://www.wdrmaus.de/filme/sachgeschichten/ringschluessel.php5)
 * [Ritterrüstung](https://www.wdrmaus.de/filme/sachgeschichten/ritterruestung.php5)
