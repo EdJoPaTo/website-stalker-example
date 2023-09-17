@@ -44,5 +44,7 @@ RE2 + RE3 Uelzen - Hannover - Göttingen
 
 [23.09.2023 - 24.09.2023 RE2 | RE3 Teilausfälle und Ausfälle zwischen Göttingen und Hannover Hbf. in beiden Richtungen](https://www.der-metronom.de/baustellen/re2-re3-teilausfaelle-und-ausfaelle-zwischen-goettingen-und-hannover-hbf/)
 
+[28.09.2023 - 29.09.2023 RE2 | Ab Hannover Zug ME 82848 mit geänderter Fahrzeit](https://www.der-metronom.de/baustellen/re2-ab-hannover-zug-me-82848-mit-geaenderter-fahrzeit-in-der-nacht-28-09-auf-29-09-23/)
+
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
