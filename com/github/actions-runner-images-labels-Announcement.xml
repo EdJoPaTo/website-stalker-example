@@ -28,17 +28,6 @@ by
 mikhailkoliada]]></content:encoded>
 		</item>
 		<item>
-			<title>Python 3.6.x will be removed from Ubuntu 20.04 and Windows 2019 images on September 18</title>
-			<link>https://github.com/actions/runner-images/issues/8238</link>
-			<pubDate>Tue, 05 Sep 2023 14:10:53 +0000</pubDate>
-			<content:encoded><![CDATA[#8238
-opened
-Sep 5, 2023
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
 			<title>[All OSes] Go 1.18.x will be removed on September, 18</title>
 			<link>https://github.com/actions/runner-images/issues/8237</link>
 			<pubDate>Tue, 05 Sep 2023 13:24:09 +0000</pubDate>
