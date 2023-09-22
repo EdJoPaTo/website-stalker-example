@@ -177,9 +177,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Your choice
 
- Currently not available
-
- Buy from our partners
+ Our North American web store is temporarily closed. Please consider the offers from our partners instead.
 
  Only available at the Eve Store
 
@@ -409,9 +407,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Your choice
 
- Currently not available
-
- Buy from our partners
+ Our North American web store is temporarily closed. Please consider the offers from our partners instead.
 
  Only available at the Eve Store
 
