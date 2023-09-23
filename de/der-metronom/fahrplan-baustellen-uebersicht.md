@@ -28,11 +28,11 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[18.09.2023 - 23.09.2023 RE2 Zusätzlicher Halt in Hannover-Messe/Laatzen](https://www.der-metronom.de/baustellen/re2-zusaetzlicher-halt-in-hannover-messe-laatzen/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 Hannover - Northeim - Göttingen
 
-[18.09.2023 - 23.09.2023 RE2 Zusätzlicher Halt in Hannover-Messe/Laatzen](https://www.der-metronom.de/baustellen/re2-zusaetzlicher-halt-in-hannover-messe-laatzen/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 + RE3 Uelzen - Hannover - Göttingen
 
