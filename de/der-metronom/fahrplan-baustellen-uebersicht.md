@@ -36,10 +36,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Hannover - Göttingen
 
-[23.09.2023 - 24.09.2023 RE2 Teilausfälle und Verzögerungen auf der Strecke Hannover \<\> Göttingen](https://www.der-metronom.de/baustellen/re2-re3-teilausfaelle-der-strecken-uelzen-hannover-goettingen/)
-
-[23.09.2023 - 24.09.2023 RE2 | RE3 Teilausfälle und Ausfälle zwischen Göttingen und Hannover Hbf. in beiden Richtungen](https://www.der-metronom.de/baustellen/re2-re3-teilausfaelle-und-ausfaelle-zwischen-goettingen-und-hannover-hbf/)
-
 [28.09.2023 - 29.09.2023 RE2 | Ab Hannover Zug ME 82848 mit geänderter Fahrzeit](https://www.der-metronom.de/baustellen/re2-ab-hannover-zug-me-82848-mit-geaenderter-fahrzeit-in-der-nacht-28-09-auf-29-09-23/)
 
 [29.09.2023 - 30.09.2023 RE2 | Teilausfall Northeim und Nörten-Hardenberg für ME 82839](https://www.der-metronom.de/baustellen/re2-teilausfall-northeim-und-noerten-hardenberg-fuer-me-82839-in-der-nacht-29-09-auf-den-30-09-23/)
