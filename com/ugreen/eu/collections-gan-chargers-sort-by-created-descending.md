@@ -1,4 +1,4 @@
-### [UGREEN Nexode 100W USB-C Ladegerät mit MagSafe 15W USB-C Netzteil GaN Charger 4-in-1 Ladestation](https://eu.ugreen.com/products/15076) ###
+### [Ugreen 100W GaN Mini MagSafe Power Station](https://eu.ugreen.com/products/ugreen-100w-gan-mini-magsafe-power-station) ###
 
 Previous page Next page Previous page Next page Previous page Next page 1 4-Port Ausgang 2 3-Port Ausgang 3 2-Port Ausgang 4 1-Port Ausgang Eingang 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A,...
 
