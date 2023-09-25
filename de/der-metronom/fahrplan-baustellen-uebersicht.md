@@ -36,7 +36,7 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[10.10.2023 - 10.09.2023 RE2 | spätabendlicher Teilausfall Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-teilausfall-northeim-und-noerten-hardenberg/)
+[10.10.2023 - 10.09.2023 RE2 spätabendlicher Teilausfall Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-teilausfall-northeim-und-noerten-hardenberg/)
 
 [13.10.2023 RE2 geänderte Fahrzeit für eine Linie am Freitag Abend von Hannover nach Göttingen](https://www.der-metronom.de/baustellen/re2-geaenderte-fahrzeit-fuer-eine-linie-am-freitag-abend-von-hannover-nach-goettingen/)
 
