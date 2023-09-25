@@ -26,6 +26,10 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [01.10.2023 - 02.10.2023 RE3/RB31 Ausfälle in den Tagesrandlagen zwischen Hamburg Hbf und Lüneburg](https://www.der-metronom.de/baustellen/re3-rb31-ausfaelle-in-den-tagesrandlagen-zwischen-hamburg-hbf-und-lueneburg/)
 
+[04.10.2023 - 05.10.2023 RE3+RB31 nächtliche Halteausfälle Winsen\<\> Hamburg Hbf](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-winsen-hamburg-hbf/)
+
+[06.10.2023 RB31 Fahrplanänderung einer Freitagfrüh-Verbindung Uelzen nach Hamburg](https://www.der-metronom.de/baustellen/rb31-fahrplanaenderung-einer-freitagfrueh-verbindung-uelzen-nach-hamburg/)
+
 RE2 Uelzen - Celle - Hannover
 
 [Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
