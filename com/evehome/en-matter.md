@@ -143,13 +143,21 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Motion]()
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
  Learn more
 
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+
 Security
+
+Outdoor
+
+Thread
+
+Matter
 
 incl. VAT, plus shipping
 
@@ -186,13 +194,14 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion]()
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
-* Place the sensor indoors or outdoors thanks to wireless battery operation and IPX3 water resistance.
-* Control your lights and appliances via movement, and receive notifications when motion is detected (*available on selected platforms).*
-* Monitor large areas thanks to 120° field of view and up to 9 m detection range.
+* Control lights, devices and entire scenes with movement, or even depending on brightness or time of day.
+* Receive notifications when motion is detected; review motion time and durations in the Eve app
+* Set the sensitivity of the motion detector individually by location.
+* [Visit product page](/en/eve-motion)
 
 ### Getting started with your new Eve device. ###
 
@@ -373,13 +382,21 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Motion]()
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
  Learn more
 
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+
 Security
+
+Outdoor
+
+Thread
+
+Matter
 
 incl. VAT, plus shipping
 
@@ -416,10 +433,11 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion]()
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
-* Place the sensor indoors or outdoors thanks to wireless battery operation and IPX3 water resistance.
-* Control your lights and appliances via movement, and receive notifications when motion is detected (*available on selected platforms).*
-* Monitor large areas thanks to 120° field of view and up to 9 m detection range.
+* Control lights, devices and entire scenes with movement, or even depending on brightness or time of day.
+* Receive notifications when motion is detected; review motion time and durations in the Eve app
+* Set the sensitivity of the motion detector individually by location.
+* [Visit product page](/en/eve-motion)
