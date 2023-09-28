@@ -27,16 +27,5 @@ by
 
 vpolikarpov-akvelon]]></content:encoded>
 		</item>
-		<item>
-			<title>Clang 12 will be removed from Ubuntu 22.04 image on September 25</title>
-			<link>https://github.com/actions/runner-images/issues/8263</link>
-			<pubDate>Mon, 11 Sep 2023 10:41:10 +0000</pubDate>
-			<content:encoded><![CDATA[#8263
-opened
-Sep 11, 2023
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
 	</channel>
 </rss>
