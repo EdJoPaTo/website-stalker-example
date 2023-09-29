@@ -3,13 +3,11 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[Seit Montag, den 28. August 2023: metronom fährt mit Ersatzfahrplan](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
+[metronom fährt mit Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  07.09.2023
 
-Ab Montag, den 28. August 2023, fährt metronom mit einem veränderten
-Fahrplan, dem sogenannten Ersatzfahrplan. Betroffen sind die Linien RE3, RB31, RE4 und RB41, hier entfallen die sogenannten Verstärkerzüge.
-Die sogenannten Verstärkerzüge sind Züge, die metronom im Regelfahrplan normalerweise...
+Seit Ende August fährt metronom mit einem veränderten Fahrplan, dem sogenannten Ersatzfahrplan. Betroffen sind die Linien RE3, RB31, RE4 und RB41. Hier entfallen die sogenannten Verstärkerzüge. Dies sind Züge, die metronom im Regelfahrplan normalerweise in den Hauptverkehrszeiten einige Minuten...
 
 [Erhöhtes Fahrgastaufkommen](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen/)
 
