@@ -34,7 +34,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [07.10.2023 - 08.10.2023 RB31 nächtliche Verzögerung zweier Züge von Uelzen nach Hannover](https://www.der-metronom.de/baustellen/rb31-naechtliche-verzoegerung-zweier-zuege-von-uelzen-nach-hannover/)
 
-[13.10.2023 - 20.09.2023 RE3/RB31 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-verbindungen-nur-bis-ab-harburg-auf-der-strecke-hamburg-uelzen/)
+[13.10.2023 - 20.10.2023 RE3/RB31 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-verbindungen-nur-bis-ab-harburg-auf-der-strecke-hamburg-uelzen/)
 
 RE2 Uelzen - Celle - Hannover
 
@@ -42,7 +42,7 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[10.10.2023 - 10.09.2023 RE2 spätabendlicher Teilausfall Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-teilausfall-northeim-und-noerten-hardenberg/)
+[10.10.2023 RE2 spätabendlicher Teilausfall Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-teilausfall-northeim-und-noerten-hardenberg/)
 
 [13.10.2023 RE2 geänderte Fahrzeit für eine Linie am Freitag Abend von Hannover nach Göttingen](https://www.der-metronom.de/baustellen/re2-geaenderte-fahrzeit-fuer-eine-linie-am-freitag-abend-von-hannover-nach-goettingen/)
 
