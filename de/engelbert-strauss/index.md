@@ -12,6 +12,32 @@ iconic
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/)
 
+ Schuh-
+neuheiten
+----------
+
+---
+
+###  PASSENDER SCHUTZ FÜR JEDEN JOB  ###
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
+
+ e.s.
+trail
+----------
+
+---
+
+###  NEW SEASON, NEW TRAILS  ###
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/trail)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/)
+
  HOW
 FOOTBALL
 WORKS.
