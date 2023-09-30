@@ -50,7 +50,7 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Hannover - Göttingen
 
-[29.09.2023 - 30.09.2023 RE2 | Teilausfall Northeim und Nörten-Hardenberg für ME 82839](https://www.der-metronom.de/baustellen/re2-teilausfall-northeim-und-noerten-hardenberg-fuer-me-82839-in-der-nacht-29-09-auf-den-30-09-23/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
