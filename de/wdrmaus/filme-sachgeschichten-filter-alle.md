@@ -48,6 +48,7 @@
 * [Auge und Brille](https://www.wdrmaus.de/filme/sachgeschichten/auge_und_brille.php5)
 * [Augenblick](https://www.wdrmaus.de/filme/sachgeschichten/augenblick.php5)
 * [Auswärtiges Amt](https://www.wdrmaus.de/filme/sachgeschichten/auswaertiges_amt.php5)
+* [Auswandererhaus](https://www.wdrmaus.de/filme/sachgeschichten/auswandererhaus.php5)
 * [Autistin Luzi](https://www.wdrmaus.de/filme/sachgeschichten/autistin_luzi.php5)
 * [Auto schwebt](https://www.wdrmaus.de/filme/sachgeschichten/auto_schwebt.php5)
 * [Auto vom Schiff](https://www.wdrmaus.de/filme/sachgeschichten/auto_vom_schiff.php5)
