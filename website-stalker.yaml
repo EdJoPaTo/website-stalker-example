@@ -202,6 +202,19 @@ sites:
       - css_remove: img, sup, iframe
       - html_markdownify
 
+  - url:
+      - https://de.starlabs.systems/
+      - https://de.starlabs.systems/pages/byte
+      - https://de.starlabs.systems/pages/byte-specification
+      - https://de.starlabs.systems/pages/starlite
+      - https://de.starlabs.systems/pages/starlite-specification
+      - https://de.starlabs.systems/products/byte
+      - https://de.starlabs.systems/products/starlite
+    editors:
+      - css_select: main
+      - css_remove: "script, noscript, style, link, img, svg, .popup-controls-close, .main-image-container, .popup-controls-arrow-next, .popup-controls-arrow-back, #paypal, #paypalcredit, .availability"
+      - html_markdownify
+
   - url: https://www.evehome.com/en/blog
     editors:
       - regex_replace:
@@ -224,4 +237,37 @@ sites:
           replace: /
       - css_select: article .content
       - css_remove: img
+      - html_markdownify
+
+  - url: https://www.wetell.de/
+    editors:
+      # - css_select: body
+      - css_remove: figure, picture, img, svg, noscript, script, style, .loader
+      - html_url_canonicalize
+      - html_markdownify
+  - url: https://www.wetell.de/service/faq/
+    editors:
+      - css_select: .module--faqs__content
+      - css_remove: .faq__content__footer__feedback
+      - regex_replace:
+          pattern: "<button"
+          replace: "<h4"
+      - regex_replace:
+          pattern: "</button"
+          replace: "</h4"
+      - html_markdownify
+  - url: https://www.wetell.de/spotlight/
+    editors:
+      - css_select: .box__content
+      - html_markdownify
+  - url:
+      - https://www.wetell.de/vision/
+      - https://www.wetell.de/vision/klimaschutz/
+      - https://www.wetell.de/vision/datenschutz/
+      - https://www.wetell.de/vision/fairness-und-transparenz/
+      - https://www.wetell.de/vision/purpose/
+      - https://www.wetell.de/vision/gemeinwohl-mobilfunk-bilanz/
+    editors:
+      - css_select: main
+      - css_remove: img, .account-bar, .bar__value, .bar__content__bar__front, .module--faqs__menu, .faq__content__footer__feedback
       - html_markdownify
