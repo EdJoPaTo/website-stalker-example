@@ -16,7 +16,7 @@ StarLite 5
 
 100% faster USB-C.
 
-From €698,53 €585,48
+From €699,72 €585,48
 
 [Explore](/pages/starlite) [Buy now](/products/starlite)
 
@@ -34,15 +34,15 @@ Browse our range
 
 [](/products/starlite)
 
-[StarLite 12.5-inch Convertible From €698,53 €585,48](/products/starlite)
+[StarLite 12.5-inch Convertible From €699,72 €585,48](/products/starlite)
 
 [](/products/starbook)
 
-[StarBook 14-inch Laptop From €1.140,02 €1.119,79](/products/starbook)
+[StarBook 14-inch Laptop From €1.141,21 €1.119,79](/products/starbook)
 
 [](/products/starfighter)
 
-[StarFighter 16-inch Laptop From €1.912,33 €1.787,38](/products/starfighter)
+[StarFighter 16-inch Laptop From €1.913,52 €1.788,57](/products/starfighter)
 
 [](/products/byte)
 
