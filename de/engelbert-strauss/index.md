@@ -4,57 +4,13 @@ iconic
 
 ---
 
-###  Das ist Workwear mit Charakter  ###
+###  KERNIGE LOOKS FÜR VOLLEN EINSATZ  ###
 
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/iconic)
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/)
-
- Schuh-
-neuheiten
-----------
-
----
-
-###  GRIP, STYLE & FUNKTION  ###
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
-
- e.s.
-trail
-----------
-
----
-
-###  Der richtige Style für jeden Einsatz  ###
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/trail)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/)
-
- e.s.tool
-concept
-----------
-
----
-
-###  IMMER PERFEKT AUSGERÜSTET  ###
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
-
-Gestalten Sie Ihre persönliche Werkzeugtasche
-
-[jetzt starten](https://cargo-configurator.engelbert-strauss.de/)
 
  HOW
 FOOTBALL
