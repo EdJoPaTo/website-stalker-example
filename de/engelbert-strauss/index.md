@@ -4,7 +4,7 @@ iconic
 
 ---
 
-###  KERNIGE LOOKS FÜR VOLLEN EINSATZ  ###
+###  Das ist Workwear mit Charakter  ###
 
 ---
 
@@ -18,7 +18,7 @@ neuheiten
 
 ---
 
-###  PASSENDER SCHUTZ FÜR JEDEN JOB  ###
+###  GRIP, STYLE & FUNKTION  ###
 
 ---
 
@@ -30,13 +30,31 @@ trail
 
 ---
 
-###  NEW SEASON, NEW TRAILS  ###
+###  Der richtige Style für jeden Einsatz  ###
 
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/trail)
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-trail/)
+
+ e.s.tool
+concept
+----------
+
+---
+
+###  IMMER PERFEKT AUSGERÜSTET  ###
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
+
+Gestalten Sie Ihre persönliche Werkzeugtasche
+
+[jetzt starten](https://cargo-configurator.engelbert-strauss.de/)
 
  HOW
 FOOTBALL
