@@ -132,6 +132,18 @@ EDITION
  Betriebsbedarf
 ---
 
+ 30 TAGE RÜCKGABERECHT
+
+[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+
+ KOSTENLOSE RÜCKSENDUNGEN
+
+[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+
+ KAUF AUF RECHNUNG
+
+[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
+
 []()
 
 zzgl. Versandkosten
