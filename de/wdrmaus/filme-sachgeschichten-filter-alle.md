@@ -1211,7 +1211,6 @@
 * [Wölfe](https://www.wdrmaus.de/filme/sachgeschichten/woelfe.php5)
 * [Wolle](https://www.wdrmaus.de/filme/sachgeschichten/wolle.php5)
 * [Wollfusseln](https://www.wdrmaus.de/filme/sachgeschichten/wollfusseln.php5)
-* [Wünschelrute](https://www.wdrmaus.de/filme/sachgeschichten/wuenschelrute.php5)
 * [Würfelzucker](https://www.wdrmaus.de/filme/sachgeschichten/wuerfelzucker.php5)
 * [Würstchenknick](https://www.wdrmaus.de/filme/sachgeschichten/wuerstchenknick.php5)
 * [Wüstenbrot](https://www.wdrmaus.de/filme/sachgeschichten/wuestenbrot.php5)
