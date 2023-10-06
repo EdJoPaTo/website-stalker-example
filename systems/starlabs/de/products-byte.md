@@ -175,6 +175,6 @@ From €584,29 €478,38
 [Includes estimated VAT of €76,38 The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-Estimated dispatch in 8 - 9 weeks
+Estimated dispatch in 4 - 5 weeks
 
  Add to Basket

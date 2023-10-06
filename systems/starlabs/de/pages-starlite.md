@@ -249,6 +249,6 @@ From €699,72 €586,67
 [Includes estimated VAT of €93,67 The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-Estimated dispatch in 8 - 9 weeks
+Estimated dispatch in 7 - 8 weeks
 
 [Configure](/products/starlite)
