@@ -4,7 +4,7 @@ iconic
 
 ---
 
-###  KERNIGE LOOKS FÜR VOLLEN EINSATZ  ###
+###  Das ist Workwear mit Charakter  ###
 
 ---
 
@@ -18,7 +18,7 @@ neuheiten
 
 ---
 
-###  PASSENDER SCHUTZ FÜR JEDEN JOB  ###
+###  GRIP, STYLE & FUNKTION  ###
 
 ---
 
@@ -30,13 +30,31 @@ trail
 
 ---
 
-###  NEW SEASON, NEW TRAILS  ###
+###  Der richtige Style für jeden Einsatz  ###
 
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/trail)
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-trail/)
+
+ e.s.tool
+concept
+----------
+
+---
+
+###  IMMER PERFEKT AUSGERÜSTET  ###
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
+
+Gestalten Sie Ihre persönliche Werkzeugtasche
+
+[jetzt starten](https://cargo-configurator.engelbert-strauss.de/)
 
  HOW
 FOOTBALL
@@ -45,43 +63,28 @@ WORKS.
 
 [mehr erfahren](https://www.engelbert-strauss.de/NFL)
 
+ Wärmebereich
+---
+
+Teilgefüttert - Leichtes Lining vom Bund bis zu den Knien
+
+ Allseason
+---
+
+ Concrete
+---
+
+ für das ganze Jahr
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/f/e-s-concrete/Ausstattung:Futter_Fuellung:waermende_Innenseite/#filter:closed)
+
  straussbox color
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/straussbox_color)
 
 [CI-Boxen in Company Colours](https://www.engelbert-strauss.de/straussbox_color)
-
- e.s.tool Concept
----
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/tool-concept)
-
- Ein Gürtel, unzählige Kombinationen
----
-
- Werkzeug-
-gürtel
----
-
-[jetzt entdecken](https://www.engelbert-strauss.de/guertel-hosentraeger/werkzeugguertel-e-s-tool-concept-3402070-8245580-1.html?itemorigin=StartseiteHW23)
-
- CI Configurator
----
-
- Gestalten Sie Ihre persönliche Werkzeugtasche
----
-
-[jetzt starten](https://cargo-configurator.engelbert-strauss.de/)
-
- Hightech in Design und Funktion
----
-
- Werkzeug-
-Weste
----
-
-[jetzt entdecken](https://www.engelbert-strauss.de/westen/werkzeugweste-e-s-tool-concept-3140590-78446-1.html?itemorigin=StartseiteHW23)
 
  Bis zu 32% sparen
 ---
@@ -100,13 +103,6 @@ EDITION
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/iconic-chiefs)
-
- alle Neuheiten
----
-
-[Herren](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Herren/)
-
-[Damen](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
 
  Newsletter abonnieren
 
