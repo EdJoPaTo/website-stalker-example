@@ -38,11 +38,11 @@ Browse our range
 
 [](/products/starbook)
 
-[StarBook 14-inch Laptop From €1.142,40 €1.120,98](/products/starbook)
+[StarBook 14-inch Laptop From €1.141,21 €1.120,98](/products/starbook)
 
 [](/products/starfighter)
 
-[StarFighter 16-inch Laptop From €1.915,90 €1.789,76](/products/starfighter)
+[StarFighter 16-inch Laptop From €1.914,71 €1.789,76](/products/starfighter)
 
 [](/products/byte)
 
