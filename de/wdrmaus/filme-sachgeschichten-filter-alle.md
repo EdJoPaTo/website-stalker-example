@@ -586,6 +586,7 @@
 * [Laser](https://www.wdrmaus.de/filme/sachgeschichten/laser.php5)
 * [Lasso](https://www.wdrmaus.de/filme/sachgeschichten/lasso.php5)
 * [Laubhüttenfest](https://www.wdrmaus.de/filme/sachgeschichten/laubhuettenfest.php5)
+* [Laubkompost](https://www.wdrmaus.de/filme/sachgeschichten/laubkompost.php5)
 * [Lauras Machgeschichten: Autospritzdüse wird Quatschkamera](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_quatschkamera.php5)
 * [Lauras Machgeschichten: Badewannenboot](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_badewannenboot.php5)
 * [Lauras Machgeschichten: Hängematte](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_haengematte.php5)
