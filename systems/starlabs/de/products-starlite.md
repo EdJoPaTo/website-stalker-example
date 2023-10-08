@@ -200,8 +200,6 @@ StarPort 12-port USB-C PD Hub + €98,77
 
  Order now to secure your spot in the production queue!
 
-From €699,72 €585,48
-
 [Includes estimated VAT of €93,48 The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery

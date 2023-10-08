@@ -16,8 +16,6 @@ StarLite 5
 
 100% faster USB-C.
 
-From €699,72 €585,48
-
 [Explore](/pages/starlite) [Buy now](/products/starlite)
 
 Byte 2.0
@@ -26,27 +24,25 @@ Mini PC
 
  With its dual network interface controllers (NICs) and dual video outputs, the Byte Mk II is engineered for unparalleled connectivity. But more than just performance, we know that Linux users value open-source principles and robust security. That's why we've equipped the Byte Mk II with coreboot firmware, an open-source alternative to traditional BIOS, offering advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
 
-From €583,10 €478,38
-
 [Explore](/pages/byte) [Buy now](/products/byte)
 
 Browse our range
 
 [](/products/starlite)
 
-[StarLite 12.5-inch Convertible From €699,72 €585,48](/products/starlite)
+[StarLite 12.5-inch Convertible](/products/starlite)
 
 [](/products/starbook)
 
-[StarBook 14-inch Laptop From €1.141,21 €1.120,98](/products/starbook)
+[StarBook 14-inch Laptop](/products/starbook)
 
 [](/products/starfighter)
 
-[StarFighter 16-inch Laptop From €1.913,52 €1.788,57](/products/starfighter)
+[StarFighter 16-inch Laptop](/products/starfighter)
 
 [](/products/byte)
 
-[Byte Mini PC From €583,10 €478,38](/products/byte)
+[Byte Mini PC](/products/byte)
 
 More than just a licence.
 

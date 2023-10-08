@@ -212,8 +212,11 @@ sites:
       - https://de.starlabs.systems/products/starlite
     editors:
       - css_select: main
-      - css_remove: "script, noscript, style, link, img, svg, .popup-controls-close, .main-image-container, .popup-controls-arrow-next, .popup-controls-arrow-back, #paypal, #paypalcredit, .availability"
+      - css_remove: "script, noscript, style, link, img, svg, .popup-controls-close, .main-image-container, .popup-controls-arrow-next, .popup-controls-arrow-back, .availability, #price, #paypal, #paypalcredit"
       - html_markdownify
+      - regex_replace:
+          pattern: ' *From [€\d., ]+\s*'
+          replace: ''
 
   - url: https://www.evehome.com/en/blog
     editors:
