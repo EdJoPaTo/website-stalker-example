@@ -18,8 +18,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
-[10.10.2023 RB41 eine frühmorgendliche Verbindung HH nach Bremen fährt erst ab Harburg](https://www.der-metronom.de/baustellen/rb41-eine-fruehmorgendliche-verbindung-hh-nach-bremen-faehrt-erst-ab-harburg/)
-
 [13.10.2023 - 30.10.2023 RB41 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Bremen](https://www.der-metronom.de/baustellen/rb41-zuege-nur-bis-ab-harburg-auf-der-strecke-hamburg-bremen/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
@@ -33,8 +31,6 @@ RE2 Uelzen - Celle - Hannover
 [Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 Hannover - Northeim - Göttingen
-
-[10.10.2023 RE2 spätabendlicher Teilausfall Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-teilausfall-northeim-und-noerten-hardenberg/)
 
 [13.10.2023 RE2 geänderte Fahrzeit für eine Linie am Freitag Abend von Hannover nach Göttingen](https://www.der-metronom.de/baustellen/re2-geaenderte-fahrzeit-fuer-eine-linie-am-freitag-abend-von-hannover-nach-goettingen/)
 
