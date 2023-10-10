@@ -22,8 +22,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[06.10.2023 - 11.10.2023 RE3+RB31 Zugausfälle auf der Strecke Lüneburg \<\> Hamburg Hbf](https://www.der-metronom.de/baustellen/re3-rb31-zugausfaelle-auf-der-strecke-lueneburg-hamburg-hbf/)
-
 [13.10.2023 - 20.10.2023 RE3/RB31 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-verbindungen-nur-bis-ab-harburg-auf-der-strecke-hamburg-uelzen/)
 
 RE2 Uelzen - Celle - Hannover
