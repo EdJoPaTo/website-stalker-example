@@ -6,17 +6,6 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>[macOS] Apple Silicon (M1) powered macOS runners are now available in public beta!</title>
-			<link>https://github.com/actions/runner-images/issues/8439</link>
-			<pubDate>Mon, 02 Oct 2023 15:48:27 +0000</pubDate>
-			<content:encoded><![CDATA[#8439
-opened
-Oct 2, 2023
-by
-
-Steve-Glass]]></content:encoded>
-		</item>
-		<item>
 			<title>[All OS] Android NDK r23 will be removed from images on October 9</title>
 			<link>https://github.com/actions/runner-images/issues/8383</link>
 			<pubDate>Mon, 25 Sep 2023 13:37:29 +0000</pubDate>
