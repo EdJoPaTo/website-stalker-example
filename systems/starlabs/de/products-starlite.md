@@ -24,9 +24,9 @@ Storage
 
 512GB SSD  Gen3 PCIe storage
 
-1TB SSD  Gen3 PCIe storage + €64,26
+1TB SSD  Gen3 PCIe storage + €63,07
 
-2TB SSD  Gen3 PCIe storage + €204,68
+2TB SSD  Gen3 PCIe storage + €203,49
 
  Storage
 
@@ -78,7 +78,7 @@ Zorin OS 16.3 Lite
 
 Zorin OS 16.3 Pro + €55,93
 
-Windows 11 Home + €154,70
+Windows 11 Home + €155,89
 
 Windows 11 Professional + €285,60
 
@@ -200,7 +200,7 @@ StarPort 12-port USB-C PD Hub + €98,77
 
  Order now to secure your spot in the production queue!
 
-[Includes estimated VAT of €93,67 The exact amount will be calculated at checkout.](#tax)
+[Includes estimated VAT of €94,05 The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 Estimated dispatch in 7 - 8 weeks
