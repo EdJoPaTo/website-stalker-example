@@ -78,6 +78,7 @@ Compatible with:
 * [CM3](/products/compute-module-io-board-v3/)
 * [CM3+](/products/compute-module-3-plus/)
 * [CM4](/products/compute-module-4/)
+* [CM4S](/products/compute-module-4s/)
 * [Zero 2 W](/products/raspberry-pi-zero-2-w/)
 
 ### Raspberry Pi OS with desktop ###
@@ -125,8 +126,8 @@ Show SHA256 file integrity hash:26ef887212da53d31422b7e7ae3dbc3e21d09f996e69cbb4
 Raspberry Pi OS (Legacy)
 ----------
 
-A stable legacy version of Raspberry Pi OS Buster.
-[Not sure which version to download?](/news/new-old-functionality-with-raspberry-pi-os-legacy/)
+A stable legacy version of Raspberry Pi OS Bullseye.
+[Not sure which version to download?](/news/bookworm-the-new-version-of-raspberry-pi-os/)
 
 Compatible with:
 
@@ -140,9 +141,11 @@ Compatible with:
 * [3A+](/products/raspberry-pi-3-model-a-plus/)
 * [4B](/products/raspberry-pi-4-model-b/)
 * [400](/products/raspberry-pi-400/)
+* [CM1](/products/compute-module-1/)
 * [CM3](/products/compute-module-io-board-v3/)
 * [CM3+](/products/compute-module-3-plus/)
 * [CM4](/products/compute-module-4/)
+* [CM4S](/products/compute-module-4s/)
 * [Zero 2 W](/products/raspberry-pi-zero-2-w/)
 
 ### Raspberry Pi OS (Legacy) with desktop ###
@@ -200,6 +203,7 @@ Compatible with:
 * [CM3](/products/compute-module-io-board-v3/)
 * [CM3+](/products/compute-module-3-plus/)
 * [CM4](/products/compute-module-4/)
+* [CM4S](/products/compute-module-4s/)
 * [Zero 2 W](/products/raspberry-pi-zero-2-w/)
 
 ### Raspberry Pi OS (Legacy) with desktop ###
