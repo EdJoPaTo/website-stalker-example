@@ -184,7 +184,7 @@ cirrus incus
 
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
-  * **Ubuntu 23.04** “Lunar Lobster”
+  * **Ubuntu 23.10** “Mantic Minotaur”
   * **Linux Mint 21.2** “Victoria”
   * **Windows 11 Home**
     original OEM license
@@ -201,7 +201,7 @@ cirrus incus
 
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
-  * **Ubuntu 23.04** “Lunar Lobster”
+  * **Ubuntu 23.10** “Mantic Minotaur”
   * **Linux Mint 21.2** “Victoria”
   * **Windows 11 Home**
     original OEM license
