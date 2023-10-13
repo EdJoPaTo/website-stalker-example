@@ -26,7 +26,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE2 Uelzen - Celle - Hannover
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[21.10.2023 - 22.10.2023 RE2/RB31 nächtliche Fahrzeitenverschiebungen aufgrund von Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-fahrzeitenverschiebungen-aufgrund-von-weichenbauarbeiten/)
 
 RE2 Hannover - Northeim - Göttingen
 
