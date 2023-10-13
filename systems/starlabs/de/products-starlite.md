@@ -76,11 +76,11 @@ Zorin OS 16.3 Core
 
 Zorin OS 16.3 Lite
 
-Zorin OS 16.3 Pro + €55,93
+Zorin OS 16.3 Pro + €54,74
 
-Windows 11 Home + €155,89
+Windows 11 Home + €154,70
 
-Windows 11 Professional + €285,60
+Windows 11 Professional + €284,41
 
 Load more
 
@@ -200,7 +200,7 @@ StarPort 12-port USB-C PD Hub + €98,77
 
  Order now to secure your spot in the production queue!
 
-[Includes estimated VAT of €94,05 The exact amount will be calculated at checkout.](#tax)
+[Includes estimated VAT of €93,67 The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 Estimated dispatch in 7 - 8 weeks

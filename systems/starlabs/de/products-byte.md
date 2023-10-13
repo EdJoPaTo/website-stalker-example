@@ -48,7 +48,7 @@ Memory
 
 8GB  3200MHz memory (1 × 8GB)
 
-16GB  3200MHz memory (2 × 8GB) + €35,70
+16GB  3200MHz memory (2 × 8GB) + €34,51
 
  Memory
 
@@ -98,11 +98,11 @@ Zorin OS 16.3 Core
 
 Zorin OS 16.3 Lite
 
-Zorin OS 16.3 Pro + €55,93
+Zorin OS 16.3 Pro + €54,74
 
-Windows 11 Home + €155,89
+Windows 11 Home + €154,70
 
-Windows 11 Professional + €285,60
+Windows 11 Professional + €284,41
 
 Load more
 
@@ -170,7 +170,7 @@ USB-C 3.1 (5m)  Charge Cable + €32,13
 
  Order now to secure your spot in the production queue!
 
-[Includes estimated VAT of €76,76 The exact amount will be calculated at checkout.](#tax)
+[Includes estimated VAT of €76,38 The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 Estimated dispatch in 4 - 5 weeks

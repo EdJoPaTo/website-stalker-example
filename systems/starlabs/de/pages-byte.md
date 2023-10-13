@@ -242,7 +242,7 @@ Your way.
 
  Order now to secure your spot in the production queue!
 
-[Includes estimated VAT of €76,76 The exact amount will be calculated at checkout.](#tax)
+[Includes estimated VAT of €76,38 The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 Estimated dispatch in 4 - 5 weeks
