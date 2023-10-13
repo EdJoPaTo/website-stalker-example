@@ -212,7 +212,7 @@ sites:
       - https://de.starlabs.systems/products/starlite
     editors:
       - css_select: main
-      - css_remove: "script, noscript, style, link, img, svg, .popup-controls-close, .main-image-container, .popup-controls-arrow-next, .popup-controls-arrow-back, .availability, #price, #paypal, #paypalcredit"
+      - css_remove: "script, noscript, style, link, img, svg, .popup-controls-close, .main-image-container, .popup-controls-arrow-next, .popup-controls-arrow-back, .variantprice, .availability, #price, #taxamount, #paypal, #paypalcredit"
       - html_markdownify
       - regex_replace:
           pattern: ' *From [€\d., ]+\s*'

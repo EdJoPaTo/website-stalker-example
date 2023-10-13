@@ -28,9 +28,9 @@ Storage
 
 512GB SSD  Gen3 PCIe storage
 
-1TB SSD  Gen3 PCIe storage + €63,07
+1TB SSD  Gen3 PCIe storage
 
-2TB SSD  Gen3 PCIe storage + €203,49
+2TB SSD  Gen3 PCIe storage
 
  Storage
 
@@ -48,7 +48,7 @@ Memory
 
 8GB  3200MHz memory (1 × 8GB)
 
-16GB  3200MHz memory (2 × 8GB) + €34,51
+16GB  3200MHz memory (2 × 8GB)
 
  Memory
 
@@ -98,11 +98,11 @@ Zorin OS 16.3 Core
 
 Zorin OS 16.3 Lite
 
-Zorin OS 16.3 Pro + €54,74
+Zorin OS 16.3 Pro
 
-Windows 11 Home + €154,70
+Windows 11 Home
 
-Windows 11 Professional + €284,41
+Windows 11 Professional
 
 Load more
 
@@ -138,13 +138,13 @@ AU Plug  Type I
 
 Optional Accessories
 
-Star Drive USB 3.0 Recovery Drive + €14,28
+Star Drive USB 3.0 Recovery Drive
 
-StarPort 12-port USB-C PD Hub + €98,77
+StarPort 12-port USB-C PD Hub
 
-USB-C 3.1 (2m)  Charge Cable + €17,85
+USB-C 3.1 (2m)  Charge Cable
 
-USB-C 3.1 (5m)  Charge Cable + €32,13
+USB-C 3.1 (5m)  Charge Cable
 
  Optional Accessories
 
@@ -170,7 +170,7 @@ USB-C 3.1 (5m)  Charge Cable + €32,13
 
  Order now to secure your spot in the production queue!
 
-[Includes estimated VAT of €76,38 The exact amount will be calculated at checkout.](#tax)
+[Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 Estimated dispatch in 4 - 5 weeks
