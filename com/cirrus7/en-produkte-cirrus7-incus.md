@@ -169,7 +169,6 @@ cirrus incus
 
   Add additional interfaces
 
-  * Additional stereo audio jack (backside panel)
   * Additional 2 x USB 2.0 ports
 
   ##### Preinstalled Operating System #####
