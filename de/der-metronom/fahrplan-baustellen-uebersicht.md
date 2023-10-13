@@ -24,6 +24,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [13.10.2023 - 20.10.2023 RE3/RB31 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-verbindungen-nur-bis-ab-harburg-auf-der-strecke-hamburg-uelzen/)
 
+[20.10.2023 - 26.10.2023 RE3/RB31 Brücken- und Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-bruecken-und-weichenbauarbeiten/)
+
 RE2 Uelzen - Celle - Hannover
 
 [21.10.2023 - 22.10.2023 RE2/RB31 nächtliche Fahrzeitenverschiebungen aufgrund von Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-fahrzeitenverschiebungen-aufgrund-von-weichenbauarbeiten/)
