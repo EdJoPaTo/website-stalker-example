@@ -60,6 +60,12 @@ sites:
       - html_url_canonicalize
       - html_prettify
 
+  - url: https://apps.gnome.org/
+    editors:
+      - css_select: ".intro, #content"
+      - css_remove: img
+      - html_markdownify
+
   - url: https://www.raspberrypi.com/software/operating-systems/
     editors:
       - css_select: main
