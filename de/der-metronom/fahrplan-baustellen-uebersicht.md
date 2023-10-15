@@ -32,7 +32,7 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[16.10.2023 RE 2 Halteausfälle zweier frühen Verbindungen Göttingen \<\> Hannover](https://www.der-metronom.de/baustellen/re-2-halteausfaelle-zweier-fruehen-verbindungen-goettingen-hannover/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 + RE3 Uelzen - Hannover - Göttingen
 
