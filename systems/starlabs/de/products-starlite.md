@@ -40,15 +40,15 @@ Storage
 
 Operating System
 
- Ubuntu LTS 22.04.02
+ Ubuntu LTS 22.04.03
 
-Ubuntu LTS 22.04.02
+Ubuntu LTS 22.04.03
 
 No Operating System
 
-elementary OS 7 Pantheon
+elementary OS 7.1 Pantheon
 
-KUbuntu LTS 22.04.2
+KUbuntu LTS 22.04.3
 
 Linux Mint 21.2 Cinnamon
 
@@ -68,9 +68,9 @@ MX Linux 23 KDE
 
 MX Linux 23 Fluxbox
 
-Ubuntu LTS 22.04.2 MATE
+Ubuntu LTS 22.04.3 MATE
 
-Xubuntu 22.04.2 LTS
+Xubuntu 22.04.3 LTS
 
 Zorin OS 16.3 Core
 
