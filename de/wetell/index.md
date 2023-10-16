@@ -114,7 +114,7 @@ Daten LTE
 * 19 cent pro Minute
 * 9 cent pro SMS
 
-[15 € /Monat](https://www.wetell.de/tarife/bestellen/?tarif=ultrakurz)
+[15 € /Monat](https://shop.wetell.de/private/ultrakurz/)
 
 * [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Ultrakurz.pdf)
 * [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Ultrakurz.pdf)
@@ -147,7 +147,7 @@ Daten LTE
 
 * Allnet Flat (Telefonie/SMS)
 
-[20 € /Monat](https://www.wetell.de/tarife/bestellen/?tarif=mittelwelle)
+[20 € /Monat](https://shop.wetell.de/private/mittelwelle/)
 
 * [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Mittelwelle.pdf)
 * [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Mittelwelle.pdf)
@@ -175,7 +175,7 @@ Daten LTE
 
 * Allnet Flat (Telefonie/SMS)
 
-[25 € /Monat](https://www.wetell.de/tarife/bestellen/?tarif=superfunk)
+[25 € /Monat](https://shop.wetell.de/private/superfunk/)
 
 * [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Superfunk.pdf)
 * [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Superfunk.pdf)
@@ -203,7 +203,7 @@ Daten LTE
 
 * Allnet Flat (Telefonie/SMS)
 
-[30 € /Monat](https://www.wetell.de/tarife/bestellen/?tarif=megafon)
+[30 € /Monat](https://shop.wetell.de/private/megafon/)
 
 * [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Megafon.pdf)
 * [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Megafon.pdf)
@@ -231,7 +231,7 @@ Daten 5G
 
 * Allnet Flat (Telefonie/SMS)
 
-[45 € /Monat](https://www.wetell.de/tarife/bestellen/?tarif=ueberschall)
+[45 € /Monat](https://shop.wetell.de/private/ueberschall/)
 
 * [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Ueberschall.pdf)
 * [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Ueberschall.pdf)
