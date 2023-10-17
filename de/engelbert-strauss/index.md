@@ -108,7 +108,7 @@ EDITION
 
  und exklusive Aktionen, Gutscheine & Schnäppchen sichern
 
-[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
+[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)
 
  Nach Kategorie shoppen
 ---
