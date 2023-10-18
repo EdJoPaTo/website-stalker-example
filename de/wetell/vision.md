@@ -41,7 +41,7 @@ Wir finden: Ein nachhaltiges Unternehmen muss auch mit seinen Kund\*innen und Mi
 Deswegen setzen wir voll auf Bindung durch Überzeugung und Zufriedenheit.
 Alle unsere Tarife sind monatlich kündbar, voll transparent und unser großartiger Service ist für dich telefonisch und jederzeit per Mail verfügbar.
 Damit Nachhaltigkeit kein Luxusgut bleibt, gibt es den [FAIRstärker](https://www.wetell.de/tarife/fairstaerker/), einen Solitarif den nutzen kann, wer ihn braucht.
-Für mehr Fairness haben wir auch tolle Neuheiten in den Mobilfunk gebracht: Zum Beispiel bieten wir den ersten Kündigungsservice an und konnten durchsetzen, dass Tarifupgrades an alle Kund\*innen weitergeben durften, so dass alle von Tarifverbesserungen profitieren.
+Für mehr Fairness haben wir auch tolle Neuheiten in den Mobilfunk gebracht: Zum Beispiel bieten wir den ersten Kündigungsservice an und konnten durchsetzen, dass wir Tarifupgrades an alle Kund\*innen weitergeben durften, so dass alle von Tarifverbesserungen profitieren.
 
 Du willst noch mehr Info?
 

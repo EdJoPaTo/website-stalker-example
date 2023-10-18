@@ -11,7 +11,7 @@ Es ist Zeit für mehr Fairness und Transparenz in der Mobilfunkbranche! WEtell s
 Warum Fairness & Transparenz?
 ----------
 
-Undurchsichtige Lockangebote, Knebelverträge, versteckte Kosten, ewige Warteschleifen und treue Kund\*innen, die auf veralteten Tarifen sitzen gelassen werden – die Mobilfunkbranche ist geradezu berühmt für zweifelhaften Methoden und schlechten Service. Seit Jahren heißt der Trend „Immer mehr, immer billiger“. Und wer zahlt dafür? Ja genau: Du. Denn was als tolles Schnäppchen daherkommt, wird dir hintenrum wieder abgeknöpft. Oder beim Service eingespart. Oder beim Lohn der Mitarbeitenden. Oder geht voll auf Kosten deiner Flexibilität. Wir finden: Das kann so nicht weitergehen! Und zeigen, dass es sehr wohl auch anders geht. Mit WEtell geht es nämlich voll fair und transparent.
+Undurchsichtige Lockangebote, Knebelverträge, versteckte Kosten, ewige Warteschleifen und treue Kund\*innen, die auf veralteten Tarifen sitzen gelassen werden – die Mobilfunkbranche ist geradezu berühmt für zweifelhafte Methoden und schlechten Service. Seit Jahren heißt der Trend „Immer mehr, immer billiger“. Und wer zahlt dafür? Ja genau: Du. Denn was als tolles Schnäppchen daherkommt, wird dir hintenrum wieder abgeknöpft. Oder beim Service eingespart. Oder beim Lohn der Mitarbeitenden. Oder geht voll auf Kosten deiner Flexibilität. Wir finden: Das kann so nicht weitergehen! Und zeigen, dass es sehr wohl auch anders geht. Mit WEtell geht es nämlich voll fair und transparent.
 
 WEtell ist fair und transparent!
 ----------
@@ -55,7 +55,7 @@ Wie nach außen so nach innen: Fairness und Transparenz gilt nicht nur nach auß
 
 Flache (oder gar keine) Hierarchien
 
-Wir wollen Spaß bei der Arbeit haben und unseren Mitarbeitenden den Respekt, die Verantwortung und die Entlohnung geben, die sie verdienen. Wir setzen mehr auf Identifikation und Verantwortung, als auf Kontrolle und Hierarchie. So sind wir alle zusammen WEtell und wir versuchen jetzt schon alle unseren Entscheidungen zu beteiligen.
+Wir wollen Spaß bei der Arbeit haben und unseren Mitarbeitenden den Respekt, die Verantwortung und die Entlohnung geben, die sie verdienen. Wir setzen mehr auf Identifikation und Verantwortung, als auf Kontrolle und Hierarchie. So sind wir alle zusammen WEtell und wir versuchen jetzt schon alle an unseren Entscheidungen zu beteiligen.
 Aber klar sind wir dabei noch nicht am Ende angekommen. Aktuell gehen wir ganz bewusst den Weg hin zu einer agilen Unternehmensstruktur und immer weiter weg von hierarchischen Ansätzen.
 
 Transparente und faire Löhne
@@ -72,7 +72,7 @@ Wenn du noch mehr zu Fairness und Transparenz im Mobilfunk und bei WEtell wissen
 
 #### Nachhaltige Partnerschaften ####
 
-Kund\*innen, Mitarbeitende, Partner\*innen – immer geht es um Menschen und die sind für uns sind alle gleich wichtig. Daher gilt natürlich auch bei Unternehmens-Partnerschaften ein fairer und transparenter Umgang.
+Kund\*innen, Mitarbeitende, Partner\*innen – immer geht es um Menschen und die sind für uns alle gleich wichtig. Daher gilt natürlich auch bei Unternehmens-Partnerschaften ein fairer und transparenter Umgang.
 
 Langfristige und respektvolle Partnerschaften
 

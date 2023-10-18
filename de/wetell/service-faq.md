@@ -98,7 +98,7 @@ Beachte bitte, dass ausländische Sonderrufnummern nicht zwingend dem EU-Roaming
 
 #### Warum sind die Tarifangebote bis zum Ende des Monats zeitlich begrenzt? ####
 
-Die Vodafone stellt unserem Mobilfunkpartner Tele2 und damit uns immer wieder Sonderaktionen mit Tarifverbesserungen zur Verfügung. Diese Aktionen sind teilweise zeitlich begrenzt und müssen demnach aus wettbewerbsrechtlichen Gründen als solche gekennzeichnet werden. Daher die Formulierung. Für dich gelten die Konditionen, die du am Tag deiner Bestellung ausgewählt hast.
+Die Vodafone stellt unserem Mobilfunkpartner Stroth und damit uns immer wieder Sonderaktionen mit Tarifverbesserungen zur Verfügung. Diese Aktionen sind teilweise zeitlich begrenzt und müssen demnach aus wettbewerbsrechtlichen Gründen als solche gekennzeichnet werden. Daher die Formulierung. Für dich gelten die Konditionen, die du am Tag deiner Bestellung ausgewählt hast.
 Warum das Ganze?
 Auf der einen Seite wollen wir die Leistungsvorteile aus den Sonderaktionen an euch weitergeben. Auf der anderen Seite wollen wir aber vermeiden, dass es durch solche Promo-Aktionen zu einer Kund\*innenbevorteilung bzw. einer Schäppchenjägerei in Lockangebotsmanier kommt. Wir haben uns informiert und gehen davon aus, dass die aktuellen Zusatzpakete nicht kleiner werden und dass wir diese Tarife daher langfristig anbieten können werden.
 
