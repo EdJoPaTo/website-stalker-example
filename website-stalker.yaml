@@ -72,6 +72,14 @@ sites:
       - css_remove: img
       - html_markdownify
 
+  - url:
+      - https://www.hifiberry.com/docs/
+      - https://www.hifiberry.com/docs/software/configuring-linux-3-18-x/
+    editors:
+      - css_select: .regular-content
+      - css_remove: script, .hbguide_taglist
+      - html_markdownify
+
   - url: https://files.teamspeak-services.com/releases/server/
     editors:
       - html_prettify
