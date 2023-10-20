@@ -26,6 +26,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [20.10.2023 - 26.10.2023 RE3/RB31 Brücken- und Weichenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-bruecken-und-weichenbauarbeiten/)
 
+[26.10.2023 - 01.11.2023 RE3/RB31 Brückenbauarbeiten Hamburg Hbf - Hamburg-Harburg sowie Weichenarbeiten zwischen Lüneburg - Hamburg-Harburg und Zeitumstellung](https://www.der-metronom.de/baustellen/re3-rb31-brueckenbauarbeiten-hamburg-hbf-hamburg-harburg-sowie-weichenarbeiten-zwischen-lueneburg-hamburg-harburg-und-zeitumstellung/)
+
 [01.11.2023 - 02.11.2023 RB31 nächtliche Haltausfälle in Radbruch und Bardowick](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-in-radbruch-und-bardowick/)
 
 RE2 Uelzen - Celle - Hannover
