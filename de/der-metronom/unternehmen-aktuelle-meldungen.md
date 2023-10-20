@@ -9,7 +9,7 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
 Liebe Fahrgäste,
 vom 12. bis 18. November 2023 findet die Agritechnica in Hannover Messe/Laatzen statt. Wir haben Zusatzhalte für euch eingerichtet.
-Diese findet ihr in der Datei unten stehenden Datei "Agritechnica".
+Diese findet ihr in der unten stehenden Datei "Agritechnica".
 Euer metronom Team
 
 [metronom fährt mit Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
