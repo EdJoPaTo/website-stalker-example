@@ -1,3 +1,8 @@
+Ver.de
+----------
+
+Der Weg zur ersten nachhaltigen Versicherung ist steinig und lang. Marie Luise Reinhold will ihn trotzdem gehen und hat dafür die Genossenschaft Ver.de gegründet. Wie eine Versicherung genossenschaftlich, gemeinwohl-bilanziert und transparent sein kann, erfährst du in diesem Spotlight.
+
 oekobonus
 ----------
 
