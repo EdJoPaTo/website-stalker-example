@@ -20,6 +20,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [13.10.2023 - 30.10.2023 RB41 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Bremen](https://www.der-metronom.de/baustellen/rb41-zuege-nur-bis-ab-harburg-auf-der-strecke-hamburg-bremen/)
 
+[06.11.2023 - 17.11.2023 RB41 nächtliche Ausfälle zwischen Hamburg-Harburg und Hamburg Hbf für zwei Verbindungen](https://www.der-metronom.de/baustellen/rb41-naechtliche-ausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-fuer-zwei-verbindungen/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [13.10.2023 - 20.10.2023 RE3/RB31 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-verbindungen-nur-bis-ab-harburg-auf-der-strecke-hamburg-uelzen/)
@@ -29,6 +31,10 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [26.10.2023 - 01.11.2023 RE3/RB31 Brückenbauarbeiten Hamburg Hbf - Hamburg-Harburg sowie Weichenarbeiten zwischen Lüneburg - Hamburg-Harburg und Zeitumstellung](https://www.der-metronom.de/baustellen/re3-rb31-brueckenbauarbeiten-hamburg-hbf-hamburg-harburg-sowie-weichenarbeiten-zwischen-lueneburg-hamburg-harburg-und-zeitumstellung/)
 
 [01.11.2023 - 02.11.2023 RB31 nächtliche Haltausfälle in Radbruch und Bardowick](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-in-radbruch-und-bardowick/)
+
+[02.11.2023 - 11.11.2023 RE3/RB31 nächtliche Halt- und Teilausfälle zwischen Uelzen und Lüneburg bzw. Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halt-und-teilausfaelle-zwischen-uelzen-und-lueneburg-bzw-hamburg-harburg-und-hamburg-hbf/)
+
+[13.11.2023 - 17.11.2023 RB31 nächtliche Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
 
 RE2 Uelzen - Celle - Hannover
 
