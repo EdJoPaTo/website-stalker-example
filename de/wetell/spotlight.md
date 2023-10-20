@@ -1,3 +1,9 @@
+naturstrom
+----------
+
+Solarenergie, Windkraft, Ökogasanlagen, Nahwärme mit Biomasse und Solarthermie. naturstrom bietet alles an was mit nachhaltiger Energie zu tun hat. Und das genau seit 25 Jahren.
+Wie naturstrom den Geburtstag feiert erzählt uns Tim Loppe im WEtell Spotlight.
+
 Ver.de
 ----------
 
