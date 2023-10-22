@@ -313,6 +313,7 @@
 * [Flüchtlingskind Tiba (Teil 7)](https://www.wdrmaus.de/filme/sachgeschichten/fluechtlingskind_tiba_teil7.php5)
 * [Flüchtlingskind Tiba (Teil 8)](https://www.wdrmaus.de/filme/sachgeschichten/fluechtlingskind_tiba_teil8.php5)
 * [Flughafenfeuerwehr](https://www.wdrmaus.de/filme/sachgeschichten/flughafenfeuerwehr.php5)
+* [Flugwindkraftanlage](https://www.wdrmaus.de/filme/sachgeschichten/flugwindkraftanlage.php5)
 * [Flugzeug](https://www.wdrmaus.de/filme/sachgeschichten/flugzeug.php5)
 * [Flugzeugbau (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/flugzeugbau_teil1.php5)
 * [Flugzeugbau (Teil 2)](https://www.wdrmaus.de/filme/sachgeschichten/flugzeugbau_teil2.php5)
