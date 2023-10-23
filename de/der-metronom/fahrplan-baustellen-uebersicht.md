@@ -42,9 +42,5 @@ RE2 Hannover - Northeim - Göttingen
 
 [01.11.2023 - 11.11.2023 RE2 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-2/)
 
-RE2 + RE3 Uelzen - Hannover - Göttingen
-
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
-
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
