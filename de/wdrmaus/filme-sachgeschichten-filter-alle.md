@@ -253,6 +253,7 @@
 * [Entropiemotor](https://www.wdrmaus.de/filme/sachgeschichten/entropiemotor.php5)
 * [Entsorgungsanlage](https://www.wdrmaus.de/filme/sachgeschichten/entsorgungsanlage.php5)
 * [Erdbebenwarte](https://www.wdrmaus.de/filme/sachgeschichten/erdbebenwarte.php5)
+* [Erdbeere: Vom Beet in den Laden](https://www.wdrmaus.de/filme/sachgeschichten/erdbeere_vom_beet_in_den_laden.php5)
 * [Erdbeeren](https://www.wdrmaus.de/filme/sachgeschichten/erdbeeren.php5)
 * [Erdnussflips](https://www.wdrmaus.de/filme/sachgeschichten/erdnussflips.php5)
 * [Erdöl](https://www.wdrmaus.de/filme/sachgeschichten/erdoel.php5)
