@@ -14,13 +14,13 @@ Informationen über aktuelle Arbeiten an den Strecken erhältst du über unseren
 
 Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich schon vor Beginn der Bauarbeiten, so kannst du langfristig planen. Aktuelle Infos über zukünftige Baustellen auf den *metronom* Strecken findest du auf der folgenden Übersicht:
 
-RE4 + RB41 Bremen - Rotenburg - Hamburg
+RE2 Uelzen - Celle - Hannover
 
-[21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
-[13.10.2023 - 30.10.2023 RB41 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Bremen](https://www.der-metronom.de/baustellen/rb41-zuege-nur-bis-ab-harburg-auf-der-strecke-hamburg-bremen/)
+RE2 Hannover - Northeim - Göttingen
 
-[06.11.2023 - 17.11.2023 RB41 nächtliche Ausfälle zwischen Hamburg-Harburg und Hamburg Hbf für zwei Verbindungen](https://www.der-metronom.de/baustellen/rb41-naechtliche-ausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-fuer-zwei-verbindungen/)
+[01.11.2023 - 11.11.2023 RE2 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-2/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
@@ -34,13 +34,13 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [13.11.2023 - 17.11.2023 RB31 nächtliche Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
 
-RE2 Uelzen - Celle - Hannover
+RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
-RE2 Hannover - Northeim - Göttingen
+[13.10.2023 - 30.10.2023 RB41 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Bremen](https://www.der-metronom.de/baustellen/rb41-zuege-nur-bis-ab-harburg-auf-der-strecke-hamburg-bremen/)
 
-[01.11.2023 - 11.11.2023 RE2 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-2/)
+[06.11.2023 - 17.11.2023 RB41 nächtliche Ausfälle zwischen Hamburg-Harburg und Hamburg Hbf für zwei Verbindungen](https://www.der-metronom.de/baustellen/rb41-naechtliche-ausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-fuer-zwei-verbindungen/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
