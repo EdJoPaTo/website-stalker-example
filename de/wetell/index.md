@@ -347,6 +347,7 @@ Rechtliches
 * [Impressum](https://www.wetell.de/service/rechtstexte/impressum/)
 * [AGB](https://www.wetell.de/service/dokumente/#agb)
 * [Kündigung](https://www.wetell.de/tarife/kuendigung/)
+* [Privatsphäreneinstellungen](https://www.wetell.de/#)
 
  © 2023 Copyright WEtell. All rights reserved.
 
