@@ -16,7 +16,7 @@ Warum Klimaschutz?
 
 Klimaschutz im Mobilfunk ist absolut relevant. Die Mobilfunkbranche wächst schnell und jeder Like oder gesendete Urlaubsgruß verbraucht Strom und produzieren damit CO2. In einer Branche, die schon jetzt so viel CO2 produziert, wie der innerdeutsche Flugverkehr reichte es nicht einfach ein bisschen Geld zu spenden und zwei, drei Bäumchen zu pflanzen.
 Wenn Unternehmen ihre Prozesse stur beibehalten, ab und zu ein paar Cent für Klimaschutzprojekte spenden und sich dafür dann stolz auf die Schulter klopfen, ändert sich faktisch nichts.
-Echter Klimawandel braucht Veränderung und genau diese Entwicklung will WEtell vorantreiben. Wir setzen ganzheitliche Maßnahmen um und wollen den wirtschaftlichen Wandel in Richtung Klimaneutralität vorantreiben.
+Echter Klimaschutz braucht Veränderung und genau diese will WEtell vorantreiben. Wir setzen ganzheitliche Maßnahmen um und wollen den wirtschaftlichen Wandel in Richtung Klimaneutralität vorantreiben.
 
 WEtell schützt das Klima!
 ----------

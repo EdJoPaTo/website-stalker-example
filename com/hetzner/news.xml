@@ -6,6 +6,24 @@
 		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>New Dedicated Server EX130 cuts through modern workloads</title>
+			<link>https://www.hetzner.com/news/new-ex130</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				25. October 2023
+			</small>
+		</p>
+		<p>
+			Hetzner has strengthened its server selection with the strapping Dedicated Server EX130, which comes in two versions.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>New dedicated vCPU cloud servers with AMD Epyc™ cpus at a sensational price!</title>
 			<link>https://www.hetzner.com/news/new-dedicated-vcpu-cloud-server</link>
 			<content:encoded><![CDATA[<html>
@@ -166,24 +184,6 @@ Starting on 28 November 2022 at 8:00 am (CET), you can order one of 2022 Hetzner
 		<p>
 			Three different network options are now available for cloud servers!
 When you create a cloud server, it will no longer automatically include public IP addresses (IPv4, IPv6).
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>25 years of Hetzner - join the fun &amp; win one of 25 prizes!</title>
-			<link>https://www.hetzner.com/news/06-22-sweepstakes</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				1. June 2022
-			</small>
-		</p>
-		<p>
-			We're celebrating 25 years of being your home for the Internet.
 		</p>
 	</body>
 </html>]]></content:encoded>
