@@ -56,12 +56,24 @@ Gestalten Sie Ihre persönliche Werkzeugtasche
 
 [jetzt starten](https://cargo-configurator.engelbert-strauss.de/)
 
- HOW
-FOOTBALL
-WORKS.
+ Die Partner Kollektion
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/NFL)
+[Kollektion entdecken](https://www.engelbert-strauss.de/eintracht-frankfurt)
+
+ e.s. Adventskalender Edition 5
+---
+
+ Alle Jahre wieder...
+----------
+
+---
+
+24x Werkzeug-Highlights, die an Weihnachten ein „anziehendes“ Rundum-Set für alle Fälle ergeben. Clever verpackt im STRAUSSbox-Style - So praktisch war Vorfreude noch nie!
+
+[Jetzt kaufen](https://www.engelbert-strauss.de/arbeitskleidung/e-s-adventskalender-edition-5-7903020-5576490-0.html?amp;itemorigin=startseite_hw23)
+
+[Mehr erfahren](https://www.engelbert-strauss.de/arbeitskleidung/e-s-adventskalender-edition-5-7903020-5576490-0.html?itemorigin=startseite_hw23)
 
  Wärmebereich
 ---
