@@ -513,6 +513,7 @@
 * [Keulenslomo](https://www.wdrmaus.de/filme/sachgeschichten/keulenslomo.php5)
 * [Kiefernzapfen](https://www.wdrmaus.de/filme/sachgeschichten/kiefernzapfen.php5)
 * [Kikeriki](https://www.wdrmaus.de/filme/sachgeschichten/kikeriki.php5)
+* [Kinderinterviews: Ekel](https://www.wdrmaus.de/filme/sachgeschichten/kinderinterviews_ekel.php5)
 * [Kirmes](https://www.wdrmaus.de/filme/sachgeschichten/kirmes.php5)
 * [Klebestreifen](https://www.wdrmaus.de/filme/sachgeschichten/klebestreifen.php5)
 * [Klebezettel](https://www.wdrmaus.de/filme/sachgeschichten/klebezettel.php5)
