@@ -20,8 +20,6 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[30.10.2023 RE2 Ersatzverkehr mit Bussen für den 82801](https://www.der-metronom.de/baustellen/re2-ersatzverkehr-mit-bussen-fuer-den-82801/)
-
 [01.11.2023 - 11.11.2023 RE2 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-2/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
