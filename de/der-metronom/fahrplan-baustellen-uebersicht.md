@@ -36,8 +36,6 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
-[13.10.2023 - 30.10.2023 RB41 Verbindungen nur bis/ab Harburg auf der Strecke Hamburg \<\> Bremen](https://www.der-metronom.de/baustellen/rb41-zuege-nur-bis-ab-harburg-auf-der-strecke-hamburg-bremen/)
-
 [06.11.2023 - 17.11.2023 RB41 nächtliche Ausfälle zwischen Hamburg-Harburg und Hamburg Hbf für zwei Verbindungen](https://www.der-metronom.de/baustellen/rb41-naechtliche-ausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-fuer-zwei-verbindungen/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
