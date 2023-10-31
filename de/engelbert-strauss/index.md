@@ -4,7 +4,7 @@ iconic
 
 ---
 
-###  Das ist Workwear mit Charakter  ###
+###  URTYPISCH, EHRLICH, KERNIG  ###
 
 ---
 
@@ -18,48 +18,34 @@ neuheiten
 
 ---
 
-###  GRIP, STYLE & FUNKTION  ###
+###  Trittsicher durch die kalte Jahreszeit  ###
 
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
- e.s.
-trail
+ Wärme Per Klick
+---
+
+Schnell aufheizbare Weste
+mit bis zu 8 Stunden Wärmeleistung
+
+ Heiz-
+weste
 ----------
 
 ---
 
-###  Der richtige Style für jeden Einsatz  ###
+###  Wärme Per Klick  ###
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/trail)
+[mehr erfahren](https://www.engelbert-strauss.de/westen/e-s-heizweste-climafoam-3140650-78443-702.html?amp;itemorigin=hw23_startseite)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/)
-
- e.s.tool
-concept
-----------
-
+ limited edition
 ---
 
-###  IMMER PERFEKT AUSGERÜSTET  ###
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/tool-concept)
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-tool-concept-herren/?sort=newest)
-
-Gestalten Sie Ihre persönliche Werkzeugtasche
-
-[jetzt starten](https://cargo-configurator.engelbert-strauss.de/)
-
- Die Partner Kollektion
----
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/eintracht-frankfurt)
+[Kollektion entdecken](https://www.engelbert-strauss.de/supermario)
 
  e.s. Adventskalender Edition 5
 ---
@@ -74,6 +60,37 @@ Gestalten Sie Ihre persönliche Werkzeugtasche
 [Jetzt kaufen](https://www.engelbert-strauss.de/arbeitskleidung/e-s-adventskalender-edition-5-7903020-5576490-0.html?amp;itemorigin=startseite_hw23)
 
 [Mehr erfahren](https://www.engelbert-strauss.de/arbeitskleidung/e-s-adventskalender-edition-5-7903020-5576490-0.html?itemorigin=startseite_hw23)
+
+ e.s. Kniepolstertasche
+---
+
+ Soft
+---
+
+zum Knien auf glatten und empfindlichen Untergründen
+
+[jetzt entdecken](https://www.engelbert-strauss.de/knieschutz-kniepolster/e-s-kniepolstertasche-pro-comfort-soft-7030180-8371584-109.html?amp;itemorigin=StartseiteHW23)
+
+ passende
+---
+
+ Knee Pads
+---
+
+ e.s. Kniepolstertasche
+---
+
+ Rough
+---
+
+zum Knien auf rauen und groben Untergründen
+
+[jetzt entdecken](https://www.engelbert-strauss.de/knieschutz-kniepolster/e-s-kniepolstertasche-pro-comfort-rough-7030190-8371585-109.html?amp;itemorigin=StartseiteHW23)
+
+ Die Partner Kollektion
+---
+
+[Kollektion entdecken](https://www.engelbert-strauss.de/eintracht-frankfurt)
 
  Wärmebereich
 ---
@@ -91,13 +108,6 @@ Teilgefüttert - Leichtes Lining vom Bund bis zu den Knien
 
 [alle Produkte](https://www.engelbert-strauss.de/f/e-s-concrete/Ausstattung:Futter_Fuellung:waermende_Innenseite/#filter:closed)
 
- straussbox color
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/straussbox_color)
-
-[CI-Boxen in Company Colours](https://www.engelbert-strauss.de/straussbox_color)
-
  Bis zu 32% sparen
 ---
 
@@ -108,13 +118,6 @@ Teilgefüttert - Leichtes Lining vom Bund bis zu den Knien
 ---
 
 [jetzt entdecken](https://www.engelbert-strauss.de/s/suche?query=neuheiten%20werkzeug%20sets)
-
- ICONIC
-CHIEFS
-EDITION
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/iconic-chiefs)
 
  Newsletter abonnieren
 
