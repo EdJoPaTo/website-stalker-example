@@ -6,12 +6,12 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>[All OS] Android NDK r23 will be removed from images on October 9</title>
-			<link>https://github.com/actions/runner-images/issues/8383</link>
-			<pubDate>Mon, 25 Sep 2023 13:37:29 +0000</pubDate>
-			<content:encoded><![CDATA[#8383
+			<title>Major Refactoring of GitHub Actions Runner Images Repository</title>
+			<link>https://github.com/actions/runner-images/issues/8706</link>
+			<pubDate>Wed, 01 Nov 2023 18:04:31 +0000</pubDate>
+			<content:encoded><![CDATA[#8706
 opened
-Sep 25, 2023
+Nov 1, 2023
 by
 
 mikhailkoliada]]></content:encoded>
