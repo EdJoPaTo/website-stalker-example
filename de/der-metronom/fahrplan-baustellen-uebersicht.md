@@ -16,7 +16,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[18.11.2023 - 19.11.2023 RE2/RB31 nächtliche Haltausfälle zwischen Hannover Hbf und Celle](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-haltausfaelle-zwischen-hannover-hbf-und-celle/)
 
 RE2 Hannover - Northeim - Göttingen
 
