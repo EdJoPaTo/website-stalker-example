@@ -40,7 +40,7 @@ weste
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/westen/e-s-heizweste-climafoam-3140650-78443-702.html?amp;itemorigin=hw23_startseite)
+[mehr erfahren](https://www.engelbert-strauss.de/westen/e-s-heizweste-climafoam-3140650-78443-702.html?itemorigin=hw23_startseite)
 
  limited edition
 ---
