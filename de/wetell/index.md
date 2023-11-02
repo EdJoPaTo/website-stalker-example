@@ -245,7 +245,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 – Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 – SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
 – 40 GB Inklusiv-Datenvolumen im 5G Netz mit max. 150 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
-– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Megafon.pdf).
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Ueberschall.pdf).
 
 **Tarifwechsel**
 – Wechsel in einen kleineren Tarif (Tarifdowngrade) können wir leider nicht durchführen.
