@@ -24,8 +24,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[01.11.2023 - 02.11.2023 RB31 nächtliche Haltausfälle in Radbruch und Bardowick](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-in-radbruch-und-bardowick/)
-
 [02.11.2023 - 11.11.2023 RE3/RB31 nächtliche Halt- und Teilausfälle zwischen Uelzen und Lüneburg bzw. Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halt-und-teilausfaelle-zwischen-uelzen-und-lueneburg-bzw-hamburg-harburg-und-hamburg-hbf/)
 
 [13.11.2023 - 17.11.2023 RB31 nächtliche Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf/)
