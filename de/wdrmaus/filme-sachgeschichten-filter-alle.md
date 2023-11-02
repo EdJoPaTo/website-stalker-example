@@ -528,7 +528,6 @@
 * [Klimawandel: Leben mit dem Wandel](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge6.php5)
 * [Klimawandel: Mobilität](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge4.php5)
 * [Klimawandel: Wetter, Klima und der menschliche Einfluss](https://www.wdrmaus.de/filme/sachgeschichten/klimawandel_folge1.php5)
-* [Klöppel](https://www.wdrmaus.de/filme/sachgeschichten/kloeppel.php5)
 * [Klutz, das Huhn](https://www.wdrmaus.de/filme/sachgeschichten/klutz_das_huhn.php5)
 * [Knallerbsen](https://www.wdrmaus.de/filme/sachgeschichten/knallerbsen.php5)
 * [Knatterboot](https://www.wdrmaus.de/filme/sachgeschichten/knatterboot.php5)

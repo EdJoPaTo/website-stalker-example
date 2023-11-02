@@ -283,6 +283,12 @@ adc, dac
 
 updated 2022-07-13
 
+[Re-flashing a DSP board](https://www.hifiberry.com/docs/software/re-flashing-a-dsp-board/)
+
+other
+
+updated 2023-11-02
+
 [Projects](https://www.hifiberry.com/docs/projects/)
 
 [Tivoli Squeezebox Radio](https://www.hifiberry.com/docs/projects/tivoli-squeezebox-radio/)
