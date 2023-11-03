@@ -7,8 +7,7 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
  Uelzen - 03.11.2023
 
-Aufgrund von Fahrbahnstörungen und besetzter Gleise in Hamburg-Hbf beginnen und enden unsere Züge in Hamburg-Harburg. Fahrgäste nutzen bitte die S-Bahn und erkundigen sich in den digitalen Fahrplanauskünften nach Alternativen.
-Achtet bitte auf die Ansagen im Zug, am Bahnhof oder am Bahnsteig....
+Aufgrund von Fahrbahnstörungen und besetzter Gleise in Hamburg-Hbf beginnen und enden unsere Züge in Hamburg-Harburg. Fahrgäste nutzen bitte die S-Bahn und erkundigen sich in den digitalen Fahrplanauskünften nach Alternativen. Durch vorzeitiges Wenden und hohes Verkehrsaufkommen im Bahnhof...
 
 [metronom fährt mit Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
