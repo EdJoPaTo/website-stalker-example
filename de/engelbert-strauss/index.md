@@ -42,12 +42,10 @@ weste
 
 [mehr erfahren](https://www.engelbert-strauss.de/westen/e-s-heizweste-climafoam-3140650-78443-702.html?itemorigin=hw23_startseite)
 
- ICONIC
-CHIEFS
-EDITION
+ limited edition
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/iconic-chiefs)
+[Kollektion entdecken](https://www.engelbert-strauss.de/supermario)
 
  e.s. Adventskalender Edition 5
 ---
@@ -89,10 +87,10 @@ zum Knien auf rauen und groben Untergründen
 
 [jetzt entdecken](https://www.engelbert-strauss.de/knieschutz-kniepolster/e-s-kniepolstertasche-pro-comfort-rough-7030190-8371585-109.html?amp;itemorigin=StartseiteHW23)
 
- limited edition
+ Die Partner Kollektion
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/supermario)
+[Kollektion entdecken](https://www.engelbert-strauss.de/eintracht-frankfurt)
 
  Wärmebereich
 ---
