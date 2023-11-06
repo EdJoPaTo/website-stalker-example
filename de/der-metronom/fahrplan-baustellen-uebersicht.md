@@ -18,6 +18,8 @@ RE2 Uelzen - Celle - Hannover
 
 [18.11.2023 - 19.11.2023 RE2/RB31 nächtliche Haltausfälle zwischen Hannover Hbf und Celle](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-haltausfaelle-zwischen-hannover-hbf-und-celle/)
 
+[25.11.2023 - 27.11.2023 RE3/RE3 nächtliche Fahrzeitveränderungen und Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-re3-naechtliche-fahrzeitveraenderungen-und-ersatzverkehr-mit-bussen/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [01.11.2023 - 11.11.2023 RE2 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-2/)
