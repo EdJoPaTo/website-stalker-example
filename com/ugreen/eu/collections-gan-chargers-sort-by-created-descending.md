@@ -1,11 +1,3 @@
-### [Ugreen Nexode 200W USB C GaN Charger-6 Ports Desktop Charger & 2 Pack USB C 100W Charger Cable](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-gan-charger-6-ports-desktop-charger-2-pack-usb-c-100w-charger-cable) ###
-
-UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
-
-### [Ugreen Nexode 4 Port 100W USB C GaN Charger & 2 Pack USB C 65W Charger Cable](https://eu.ugreen.com/products/ugreen-nexode-4-port-100w-usb-c-gan-charger-2-pack-usb-c-100w-charger-cable) ###
-
-Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
-
 ### [Ugreen 100W GaN Mini MagSafe Power Station with 15W Wireless MagSafe Charger](https://eu.ugreen.com/products/ugreen-100w-gan-mini-magsafe-power-station) ###
 
 Previous page Next page Previous page Next page Previous page Next page 1 4-Port Ausgang 2 3-Port Ausgang 3 2-Port Ausgang 4 1-Port Ausgang Eingang 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A,...
@@ -43,3 +35,11 @@ Ugreen Nexode 140W USB C Wall Charger
 ### [Ugreen Nexode 65W USB C GaN Charger-3 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-wall-charger-3-ports) ###
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
+
+### [Ugreen 65W USB C PD Charger - 4 Ports](https://eu.ugreen.com/products/ugreen-65w-usb-c-pd-charger-4-ports) ###
+
+Universal CompatibilityThis 65W Charger is Compatible with Macbook Pro, MacBook Air, iPad Pro , iPad Air, iPad Mini 6, iPhone 14/13/12/11; Dell XPS 13, Inspiron 3793; ASUS Zenbook S UX391;...
+
+### [Ugreen Nexode 100W USB C GaN Charger-4 Port Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger) ###
+
+Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
