@@ -6,6 +6,24 @@
 		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>New Dedicated Server DX153 with Dell dependability</title>
+			<link>https://www.hetzner.com/news/new-dx153</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				7. November 2023
+			</small>
+		</p>
+		<p>
+			The Dedicated Server DX153 has arrived, and compliments Hetzner’s recently revamped line of servers based on Dell’s reputable hardware.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>New Dedicated Server EX130 cuts through modern workloads</title>
 			<link>https://www.hetzner.com/news/new-ex130</link>
 			<content:encoded><![CDATA[<html>
@@ -165,25 +183,6 @@ Starting on 28 November 2022 at 8:00 am (CET), you can order one of 2022 Hetzner
 		</p>
 		<p>
 			The new RX-line is now available and features the first Ampere® Altra® Arm-based dedicated servers in Europe.
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Hetzner Cloud: Flexible Networking</title>
-			<link>https://www.hetzner.com/news/06-22-flexibles-networking</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				28. June 2022
-			</small>
-		</p>
-		<p>
-			Three different network options are now available for cloud servers!
-When you create a cloud server, it will no longer automatically include public IP addresses (IPv4, IPv6).
 		</p>
 	</body>
 </html>]]></content:encoded>
