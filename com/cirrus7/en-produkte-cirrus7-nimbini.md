@@ -225,8 +225,8 @@ cirrus nimbini v4
   * **Windows 10 Pro**
     original OEM license
     includes free update to Windows 11 Pro
-  * **anderes Betriebssystem**
-    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+  * **Different operating system**
+    As long as possible we are happy to try to install other operating systems
 
   *
 
