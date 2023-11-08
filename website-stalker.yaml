@@ -192,6 +192,10 @@ sites:
             - css_select: .labels, .opened-by
             - html_textify
 
+  - url: https://rust-lang.github.io/rust-clippy/stable/lints.json
+    editors:
+      - json_prettify
+
   - url:
       - https://eu.ugreen.com/collections/gan-chargers?sort_by=created-descending
       - https://eu.ugreen.com/collections/iphone-cables?sort_by=created-descending
