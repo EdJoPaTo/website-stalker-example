@@ -206,10 +206,14 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://www.cirrus7.com/en/
+  - url:
+      - https://www.cirrus7.com/en/
+      - https://www.cirrus7.com/en/cirrus7-nimbus/
+      - https://www.cirrus7.com/en/cirrus7-incus/
+      - https://www.cirrus7.com/en/cirrus7-nimbini/
     editors:
       - css_select: section
-      - css_remove: img, sup
+      - css_remove: img, sup, .specs-tab
       - html_url_canonicalize
       - html_markdownify
   - url:
