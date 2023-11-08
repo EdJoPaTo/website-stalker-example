@@ -167,6 +167,7 @@ sites:
       - https://www.der-metronom.de/unternehmen/aktuelle-meldungen/
       - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
+      - https://www.der-metronom.de/aktuell/ersatzfahrplan/
     editors:
       - css_select: "#content"
       - css_remove: form, .module-form, script, figure, img, svg, hr, .breadcrumb, .malfunction, a[title=weiterlesen]
