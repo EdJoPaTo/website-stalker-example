@@ -241,6 +241,25 @@ sites:
           pattern: ' *From [€\d., ]+\s*'
           replace: ''
 
+  - url: https://www.steamdeck.com/en/
+    editors:
+      - css_select: body
+      - css_remove: "style, img, video, #language-dropdown"
+      - html_url_canonicalize
+      - html_markdownify
+  - url:
+      - https://www.steamdeck.com/en/oled
+      - https://www.steamdeck.com/en/software
+    editors:
+      - css_select: "#content"
+      - css_remove: style, img, video, .main_footer
+      - html_url_canonicalize
+      - html_markdownify
+  - url: https://www.steamdeck.com/en/tech
+    editors:
+      - css_select: "#specs"
+      - html_markdownify
+
   - url: https://www.evehome.com/en/blog
     editors:
       - regex_replace:
