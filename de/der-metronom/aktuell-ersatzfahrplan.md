@@ -11,7 +11,7 @@ Der Ersatzfahrplan soll vorübergehend bis zum Fahrplanwechsel am 9. Dezember 20
 
 ----------
 
-Pendlerinnen und Pendler mit Zeitkarten können von Freitag, 10. November 2023, bis Freitag, 8. Dezember 2023, zwischen Lüneburg und Hamburg fünf ausgewählte ICE-Verbindungen täglich aufgrund einer Freigabe-Vereinbarung benutzen. Die Regelung gilt montags bis freitags und ausschließlich für Fahrgäste mit Deutschland-Ticket, Semester-Tickets oder Monats- und Jahreskarten des [HVV](https://www.hvv.de/de/neu). Die Ausnahme-Regelung basiert auf einer Vereinbarung zwischen der[Landesnahverkehrsgesellschaft Niedersachsen (LNVG)](https://www.lnvg.de/),[DB Fernverkehr](https://www.deutschebahn.com/de) und *metronom*.
+Pendlerinnen und Pendler mit Zeitkarten können von Freitag, 10. November 2023, bis Freitag, 8. Dezember 2023, zwischen Lüneburg und Hamburg fünf ausgewählte ICE-Verbindungen täglich aufgrund einer Freigabe-Vereinbarung benutzen. Die Regelung gilt montags bis freitags und ausschließlich für Fahrgäste mit einem Schwerbehindertenausweis inkl. Wertmarke, Deutschland-Ticket, Semester-Tickets oder Monats- und Jahreskarten des [HVV](https://www.hvv.de/de/neu). Die Ausnahme-Regelung basiert auf einer Vereinbarung zwischen der[Landesnahverkehrsgesellschaft Niedersachsen (LNVG)](https://www.lnvg.de/),[DB Fernverkehr](https://www.deutschebahn.com/de) und *metronom*.
 
 Folgende Verbindungen sind für die genannte Ausnahme-Regelung freigegeben:
 
