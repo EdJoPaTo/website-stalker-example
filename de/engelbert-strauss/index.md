@@ -24,24 +24,6 @@ neuheiten
 
 [mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
- Wärme Per Klick
----
-
-Schnell aufheizbare Weste
-mit bis zu 8 Stunden Wärmeleistung
-
- Heiz-
-weste
-----------
-
----
-
-###  Wärme Per Klick  ###
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/westen/e-s-heizweste-climafoam-3140650-78443-702.html?itemorigin=hw23_startseite)
-
  limited edition
 ---
 
