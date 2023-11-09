@@ -199,17 +199,17 @@ cirrus nimbini v4
   * **Ubuntu 23.10** “Mantic Minotaur”
   * **Linux Mint 21.2** “Victoria”
   * **Windows 11 Home**
-    original OEM Lizenz
+    original OEM license
   * **Windows 11 Pro**
-    original OEM Lizenz
+    original OEM license
   * **Windows 10 Home**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Home
+    original OEM license
+    includes free update to Windows 11 Home
   * **Windows 10 Pro**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Pro
-  * **anderes Betriebssystem**
-    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+    original OEM license
+    includes free update to Windows 11 Pro
+  * **Different operating system**
+    As long as possible we are happy to try to install other operating systems
 
   * No pre-installed operating system
   * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
