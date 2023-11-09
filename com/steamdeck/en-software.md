@@ -64,7 +64,7 @@ On Steam Deck, your games run on a different operating system than the one on yo
 
 SteamOS also comes with Proton, a compatibility layer that makes it possible to run your games without any porting work needed from developers. For Deck, we're always working to improve Proton's game compatibility and support, and we are testing all games so players know how they will play on Steam Deck with a program called Deck Verified.
 
-[Learn more about Deck Verified \>]()
+[Learn more about Deck Verified \>](https://www.steamdeck.com/en/verified)
 
 ### It’s a Linux system, you know this! ###
 

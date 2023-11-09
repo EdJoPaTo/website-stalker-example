@@ -73,6 +73,7 @@ All of the rear case screws are now Torx™ type, which screw into metal threads
 * Updated refresh rate to 90Hz (from 60Hz)
 * Updated peak brightness to 1000 nits
 * Updated touchscreen polling rate to 180Hz, improved latency and accuracy
+
 * Updated WiFi / Bluetooth module
 * Added support for WiFi 6E
 * Added support for Bluetooth 5.3, supporting newer codecs such as aptX HD and aptX low-latency
