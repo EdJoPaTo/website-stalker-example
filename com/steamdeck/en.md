@@ -18,6 +18,8 @@ Introducing
 
 ###  Available November 16 [Learn more](https://www.steamdeck.com/en/oled) ###
 
+[See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
+
 Introducing
  Steam Deck OLED
 ==========
