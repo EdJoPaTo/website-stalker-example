@@ -6,6 +6,17 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[all OSs] Nodejs 14.x will be removed from the images on November, 26</title>
+			<link>https://github.com/actions/runner-images/issues/8779</link>
+			<pubDate>Fri, 10 Nov 2023 16:05:33 +0000</pubDate>
+			<content:encoded><![CDATA[#8779
+opened
+Nov 10, 2023
+by
+
+mikhailkoliada]]></content:encoded>
+		</item>
+		<item>
 			<title>[Ubuntu] Ubuntu:16.04 &amp; Ubuntu:18.04 docker images will be removed from runners on November, 19</title>
 			<link>https://github.com/actions/runner-images/issues/8776</link>
 			<pubDate>Thu, 09 Nov 2023 19:42:17 +0000</pubDate>
