@@ -151,26 +151,7 @@ The new EX101 Dedicated Server from the EX line houses the high-end Intel® i9-1
 </html>]]></content:encoded>
 		</item>
 		<item>
-			<title>Cyber Deals: Hetzner Storage Shares and Dedicated Server AX101 in the spotlight</title>
-			<link>https://www.hetzner.com/news/cyber-deals-2022</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				25. November 2022
-			</small>
-		</p>
-		<p>
-			This year, we’re offering you a duo of deals: Cyber Deals 2022!
-Starting on 28 November 2022 at 8:00 am (CET), you can order one of 2022 Hetzner Storage Shares and…
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>RX-Line: Hervorragende Leistung dank 80 Cores</title>
+			<title>RX-Line: Pushing the envelop of parallelization</title>
 			<link>https://www.hetzner.com/news/07-22-rx-line</link>
 			<content:encoded><![CDATA[<html>
 	<head>
@@ -182,7 +163,26 @@ Starting on 28 November 2022 at 8:00 am (CET), you can order one of 2022 Hetzner
 			</small>
 		</p>
 		<p>
-			Die neue RX-Line ist jetzt verfügbar. Damit setzen wir neue Maßstäbe und bieten als erster Hoster in Europa Ampere® Altra® Arm-basierte Dedicated Server an.
+			The new RX-line is now available and features the first Ampere® Altra® Arm-based dedicated servers in Europe.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Hetzner Cloud: Flexible networking</title>
+			<link>https://www.hetzner.com/news/06-22-flexibles-networking</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				28. June 2022
+			</small>
+		</p>
+		<p>
+			Three different network options are now available for cloud servers!
+When you create a cloud server, it will no longer automatically include public IP addresses (IPv4, IPv6).
 		</p>
 	</body>
 </html>]]></content:encoded>
