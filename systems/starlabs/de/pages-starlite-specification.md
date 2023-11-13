@@ -13,10 +13,11 @@ per inch
  3:2 aspect ratio
 
  Brightness: 300cd/m²
- Type: TFT-LCD
+ Type: IPS
  Color Depth (NTSC): 71%
  Color Depth (sRGB): 100%
-Contrast Ratio: 1000:1
+ Contrast
+Ratio: 1000:1
  Haze: 21%
  Coating: 3H Hard Coat
 
