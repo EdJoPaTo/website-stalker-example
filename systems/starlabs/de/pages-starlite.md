@@ -124,9 +124,9 @@ function.
 
 01.
 
- Keyboard
+ Backlit Keyboard
 
-Comfortable keys with snappy scissor mechanisms.
+Comfortable backlit keys with snappy scissor mechanisms.
 
 02.
 

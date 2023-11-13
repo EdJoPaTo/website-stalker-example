@@ -98,7 +98,7 @@ Memory Card Reader
 
  Keyboard and Trackpad
 
- Magnetic keyboard
+ Magnetic Backlit keyboard
  Trackpad for precise cursor control and Multi-Touch gestures
 
  Wireless
