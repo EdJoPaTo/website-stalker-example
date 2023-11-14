@@ -3,26 +3,26 @@ Beförderungsbedingungen & Tarifbestimmungen
 
 Hier sind unsere *metronom* Beförderungsbedingungen und Tarifbestimmungen aufgeführt. Sie geben dir detailliert Auskunft über Regeln und Rechte und über grundsätzliche Bestimmungen zur Fahrt im *metronom*.
 
-[metronom Beförderungsbedingungen gültig ab 11.12.2022 PDF - 556,5 KB](https://www.der-metronom.de/media/metronom/downloads/11.12.2022_metronom-Befoerderungsbedingungen.pdf)
+[metronom Beförderungsbedingungen gültig ab 01.10.2023 PDF - 699,1 KB](https://www.der-metronom.de/media/metronom/downloads/befoerderungsbedingungen/01.10.2023_metronom-Befoerderungsbedingungen.pdf)
 
 Tarifbekanntmachungen
 ----------
 
 Wenn sich etwas an unseren Beförderungsbedingungen ändert, geben wir dies bekannt und legen es hier für dich ab.
 
-[Übersicht Tarifänderungen der metronom Eisenbahngesellschaft mbH PDF - 125,7 KB](https://www.der-metronom.de/media/metronom/downloads/Tarifaenderungen-der-metronom-Eisenbahngesellschaft-mbH-Stand-18.11.2022.pdf)
+[Übersicht Tarifänderungen der metronom Eisenbahngesellschaft mbH PDF - 118,6 KB](https://www.der-metronom.de/media/metronom/downloads/befoerderungsbedingungen/Tarifaenderungen-der-metronom-Eisenbahngesellschaft-mbH-Stand-25.09.2023.pdf)
 
 Archiv Beförderungsbedingungen
 ----------
 
-[201213 metronom Befoerderungsbedingungen PDF - 561,6 KB](https://www.der-metronom.de/media/metronom/downloads/befoerderungsbedingungen/201213_metronom_Befoerderungsbedingungen.pdf) [metronom Beförderungsbedingungen gültig ab 12.12.2021 PDF - 506,1 KB](https://www.der-metronom.de/media/metronom/downloads/befoerderungsbedingungen/12_12_2021_metronom-Befoerderungsbedingungen.pdf)
+[metronom Beförderungsbedingungen gültig ab 13.12.2020 PDF - 561,6 KB](https://www.der-metronom.de/media/metronom/downloads/befoerderungsbedingungen/201213_metronom_Befoerderungsbedingungen.pdf) [metronom Beförderungsbedingungen gültig ab 12.12.2021 PDF - 506,1 KB](https://www.der-metronom.de/media/metronom/downloads/befoerderungsbedingungen/12_12_2021_metronom-Befoerderungsbedingungen.pdf) [metronom Beförderungsbedingungen gültig ab 11.12.2022 PDF - 556,5 KB](https://www.der-metronom.de/media/metronom/downloads/befoerderungsbedingungen/11.12.2022_metronom-Befoerderungsbedingungen.pdf)
 
 Verkehrsverbünde & Tarifgeber
 ----------
 
 Die nachfolgend aufgeführten Tarife kommen bei der *metronom* Eisenbahngesellschaft mbH zur Anwendung. Informationen zu den einzelnen Tarifen erreichst du über den jeweils angegebenen Link.
 
-**Niedersachsentarif**
+**Niedersachsentarif**[](https://www.niedersachsentarif.de/service-kontakt/befoerderungsbedingungen)
 
 [Niedersachsentarif Beförderungsbedingungen](https://www.niedersachsentarif.de/service-kontakt/befoerderungsbedingungen)
 
@@ -30,7 +30,7 @@ Die nachfolgend aufgeführten Tarife kommen bei der *metronom* Eisenbahngesellsc
 
 [HVV Gemeinschaftstarif](https://www.hvv.de/de/gemeinschaftstarif)
 
-**Verkehrsverbund Bremen & Niedersachsen (VBN)**
+**Verkehrsverbund Bremen & Niedersachsen (VBN)**[](https://www.vbn.de/tickets/tarifbestimmungen/)
 
 [VBN Tarifbestimmungen](https://www.vbn.de/tickets/tarifbestimmungen/)
 

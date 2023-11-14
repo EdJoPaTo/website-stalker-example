@@ -34,6 +34,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [26.11.2023 - 01.12.2023 RE3/RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle/)
 
+[03.12.2023 - 04.12.2023 RB31 nächtliche Teilausfälle zwischen Winsen (Luhe) und Lüneburg/Uelzen](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-zwischen-winsen-luhe-und-lueneburg-uelzen/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
