@@ -7,13 +7,14 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
  Uelzen - 15.11.2023
 
-Aufgrund einer vorausgegangenen Zugkollision bei Lauenbrück (nicht metronom) ist die Strecke zwischen Tostedt und Scheeßel gesperrt. Die Sperrung wird voraussichtlich einige Stunden bis in den kommenden Tag andauern. metronom Züge aus Bremen Hbf wenden daher bereits in Scheeßel, Züge aus Hamburg...
+Aufgrund einer vorausgegangenen Zugkollision bei Lauenbrück (nicht metronom) ist die Strecke zwischen Tostedt und Scheeßel voll gesperrt gewesen. Die Sperrung eines Richtungsgleises wird voraussichtlich noch einige Stunden bis in den kommenden Tag andauern. metronom Züge aus Bremen Hbf wenden...
 
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
  15.11.2023
 
-Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für heute, 15. November, ab 22 Uhr zu einem Streik bis Donnerstag, 16. November, 18 Uhr aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH sind nicht zum Streik aufgerufen. Wir gehen daher davon aus, dass...
+Update 15.11., 21:45 Uhr:
+Aufgrund des Streiks in der Fahrdienstleitung Nordstemmen kommt es auf der Strecke Hannover - Göttingen zu Teilausfällen und Verspätungen. Zwischen Sarstedt und Elze können keine Zugfahrten stattfinden. Es wird versucht einen Busnotverkehr (BNV) zu bestellen. Fahrgäste...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
