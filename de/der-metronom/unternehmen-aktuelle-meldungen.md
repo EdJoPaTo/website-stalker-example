@@ -7,7 +7,7 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
  Uelzen - 15.11.2023
 
-Aufgrund eines gefährlichen Ereignisses bei Lauenbrück ist die Strecke zwischen Tostedt und Scheeßel gesperrt. metronom Züge aus Bremen Hbf enden daher bereits in Scheeßel, Züge aus Hamburg Hbf bereits in Tostedt. Ein Busnotverkehr (BNV) zwischen beiden Halten, mit Zwischenhalt in Lauenbrück ist...
+Aufgrund einer vorausgegangenen Zugkollision bei Lauenbrück (nicht metronom!) ist die Strecke zwischen Tostedt und Scheeßel gesperrt. Die Sperrung wird voraussichtlich einige Stunden bis in den kommenden Tag andauern. metronom Züge aus Bremen Hbf wenden daher bereits in Scheeßel, Züge aus Hamburg...
 
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
