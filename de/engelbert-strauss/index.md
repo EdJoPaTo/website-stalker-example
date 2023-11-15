@@ -29,20 +29,6 @@ neuheiten
 
 [Kollektion entdecken](https://www.engelbert-strauss.de/supermario)
 
- e.s. Adventskalender Edition 5
----
-
- Alle Jahre wieder...
-----------
-
----
-
-24x Werkzeug-Highlights, die an Weihnachten ein „anziehendes“ Rundum-Set für alle Fälle ergeben. Clever verpackt im STRAUSSbox-Style - So praktisch war Vorfreude noch nie!
-
-[jetzt kaufen](https://www.engelbert-strauss.de/?amp;itemorigin=startseite_hw23)
-
-[mehr erfahren](https://www.engelbert-strauss.de/?itemorigin=startseite_hw23)
-
  e.s. Kniepolstertasche
 ---
 
