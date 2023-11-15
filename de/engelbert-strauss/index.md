@@ -39,9 +39,9 @@ neuheiten
 
 24x Werkzeug-Highlights, die an Weihnachten ein „anziehendes“ Rundum-Set für alle Fälle ergeben. Clever verpackt im STRAUSSbox-Style - So praktisch war Vorfreude noch nie!
 
-[jetzt kaufen](https://www.engelbert-strauss.de/arbeitskleidung/e-s-adventskalender-edition-5-7903020-5576490-0.html?amp;itemorigin=startseite_hw23)
+[jetzt kaufen](https://www.engelbert-strauss.de/?amp;itemorigin=startseite_hw23)
 
-[mehr erfahren](https://www.engelbert-strauss.de/arbeitskleidung/e-s-adventskalender-edition-5-7903020-5576490-0.html?itemorigin=startseite_hw23)
+[mehr erfahren](https://www.engelbert-strauss.de/?itemorigin=startseite_hw23)
 
  e.s. Kniepolstertasche
 ---
