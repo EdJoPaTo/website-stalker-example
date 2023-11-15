@@ -3,6 +3,12 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
+[Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
+
+ 15.11.2023
+
+Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für den 15. November ab 22 Uhr zu einem Streik bis Donnerstag, 16. November, 18 Uhr aufgerufen. Hervorzuheben ist, dass die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH nicht zum Streik aufgerufen sind. Wir gehen...
+
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  08.11.2023
