@@ -113,15 +113,11 @@ All of the rear case screws are now Torx™ type, which screw into metal threads
 
 Limited Edition
 
-Introducing the Limited Edition Steam Deck OLED, all the specs and perks of the 1TB model, with a smoky translucent colorway!
-
- Available in the United States and Canada, in limited quantities.
+Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
 
 [See moreSee less ]()
 
-Introducing the Limited Edition Steam Deck OLED, all the specs and perks of the 1TB model, with a smoky translucent colorway!
-
- Available in the United States and Canada, in limited quantities.
+Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
 
 The Limited Edition Steam Deck OLED’s carrying case comes with a removable liner (like all 1TB models), but these also have an exclusive design printed on the inside
 
