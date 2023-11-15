@@ -24,10 +24,18 @@ neuheiten
 
 [mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
 
- limited edition
+ Hier trifft Handwerk auf Leidenschaft
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/supermario)
+ FC BAYERN EDITION
+---
+
+[Kollektion entdecken](https://www.engelbert-strauss.de/fc-bayern)
+
+ Adler trifft Strauss
+---
+
+[Kollektion entdecken](https://www.engelbert-strauss.de/eintracht-frankfurt)
 
  e.s. Kniepolstertasche
 ---
@@ -55,10 +63,10 @@ zum Knien auf rauen und groben Untergründen
 
 [jetzt entdecken](https://www.engelbert-strauss.de/knieschutz-kniepolster/e-s-kniepolstertasche-pro-comfort-rough-7030190-8371585-109.html?amp;itemorigin=StartseiteHW23)
 
- Die Partner Kollektion
+ limited edition
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/eintracht-frankfurt)
+[Kollektion entdecken](https://www.engelbert-strauss.de/supermario)
 
  Wärmebereich
 ---
