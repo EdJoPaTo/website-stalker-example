@@ -7,7 +7,7 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
  15.11.2023
 
-Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für den 15. November ab 22 Uhr zu einem Streik bis Donnerstag, 16. November, 18 Uhr aufgerufen. Hervorzuheben ist, dass die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH nicht zum Streik aufgerufen sind. Wir gehen...
+Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für heute, 15. November, ab 22 Uhr zu einem Streik bis Donnerstag, 16. November, 18 Uhr aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH sind nicht zum Streik aufgerufen. Wir gehen daher davon aus, dass...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
