@@ -3,6 +3,12 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
+[Gefährliches Ereignis: Streckensperrung zwischen Hamburg und Bremen](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
+
+ Uelzen - 15.11.2023
+
+Aufgrund eines gefährlichen Ereignisses bei Lauenbrück ist die Strecke zwischen Tostedt und Scheeßel gesperrt. metronom Züge aus Bremen Hbf enden daher bereits in Scheeßel, Züge aus Hamburg Hbf bereits in Tostedt. Ein Busnotverkehr (BNV) zwischen beiden Halten, mit Zwischenhalt in Lauenbrück ist...
+
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
  15.11.2023
