@@ -7,7 +7,7 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
  Uelzen - 15.11.2023
 
-Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für den 15. November, ab 22 Uhr zu einem Streik bis Donnerstag, 16. November, 18 Uhr aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH, zudem auch die Mitarbeitenden von enno gehören, nicht zum Streik...
+Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für den 15. November, ab 22 Uhr zu einem Streik bis Donnerstag, 16. November, 18 Uhr aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH, zudem auch die Mitarbeitenden von enno gehören, sind nicht zum Streik...
 
 [Gefährliches Ereignis (RE4/RB41): Streckensperrung zwischen Tostedt und Scheeßel](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
 
