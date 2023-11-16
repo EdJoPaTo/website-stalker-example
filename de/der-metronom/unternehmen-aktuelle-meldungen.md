@@ -7,14 +7,13 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
  Uelzen - 15.11.2023
 
-Update 16.11., 08:45 Uhr:
-Der metronom hat trotz des Warnstreikaufrufs der Gewerkschaft Deutscher Lokomotivführer (GDL) den Betrieb in seinem Netz seit gestern Abend 22 Uhr bisher fortführen können. In der Nacht gab es lediglich zwischen Hannover und Göttingen Ausfälle und Verspätungen aufgrund...
+Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für den 15. November, ab 22 Uhr zu einem Streik bis Donnerstag, 16. November, 18 Uhr aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH, zudem auch die Mitarbeitenden von enno gehören, nicht zum Streik...
 
 [Gefährliches Ereignis (RE4/RB41): Streckensperrung zwischen Tostedt und Scheeßel](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
 
  Uelzen - 15.11.2023
 
-Aufgrund der gestrigen Kollision eines ICEs mit einem anderen Regionalzug bei Lauenbrück (Kreis Rotenburg) kommt es weiter auf der Strecke Hamburg – Bremen zu Verspätungen und Teilausfällen, denn die Strecke ist zwischen Tostedt und Scheeßel bis auf Weiteres nur ein- statt dreigleisig befahrbar....
+Aufgrund der gestrigen Kollision eines ICEs mit einem anderen Regionalzug (nicht metronom) bei Lauenbrück (Kreis Rotenburg) kommt es weiter auf der Strecke Hamburg – Bremen zu Verspätungen und Teilausfällen, denn die Strecke ist zwischen Tostedt und Scheeßel bis auf Weiteres nur ein- statt...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
