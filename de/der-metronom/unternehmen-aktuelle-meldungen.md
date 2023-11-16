@@ -3,18 +3,19 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[Gefährliches Ereignis (RE4/RB41): Streckensperrung zwischen Tostedt und Scheeßel](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
-
- Uelzen - 15.11.2023
-
-Aufgrund einer vorausgegangenen Zugkollision bei Lauenbrück (nicht metronom) ist die Strecke zwischen Tostedt und Scheeßel voll gesperrt gewesen. Die Sperrung eines Richtungsgleises wird voraussichtlich noch einige Stunden bis in den kommenden Tag andauern. metronom Züge aus Bremen Hbf wenden...
-
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
  15.11.2023
 
 Update 15.11., 21:45 Uhr:
-Aufgrund des Streiks in der Fahrdienstleitung Nordstemmen kommt es auf der Strecke Hannover - Göttingen zu Teilausfällen und Verspätungen. Zwischen Sarstedt und Elze können keine Zugfahrten stattfinden. Es wird versucht einen Busnotverkehr (BNV) zu bestellen. Fahrgäste...
+Aufgrund des Streiks in der Fahrdienstleitung Nordstemmen kommt es in der Nacht auf der Strecke Hannover - Göttingen zu Teilausfällen und Verspätungen. Zwischen Sarstedt und Elze können keine Zugfahrten stattfinden. Es wird versucht einen Busnotverkehr (BNV) zu...
+
+[Gefährliches Ereignis (RE4/RB41): Streckensperrung zwischen Tostedt und Scheeßel](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
+
+ Uelzen - 15.11.2023
+
+Aufgrund einer vorausgegangenen Zugkollision bei Lauenbrück (nicht metronom) ist die Strecke zwischen Tostedt und Scheeßel voll gesperrt gewesen. Die Sperrung eines Richtungsgleises wird voraussichtlich noch einige Stunden bis in den kommenden Tag andauern.
+Seit 21:39 Uhr ist ein Gleis an der...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
