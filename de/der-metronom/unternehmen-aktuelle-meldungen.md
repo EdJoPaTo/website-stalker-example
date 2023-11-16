@@ -3,17 +3,17 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
+[Gefährliches Ereignis (RE4/RB41): Streckensperrung zwischen Tostedt und Scheeßel](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
+
+ Uelzen - 16.11.2023
+
+Aufgrund der gestrigen Kollision eines ICEs mit einem anderen Regionalzug (nicht metronom) bei Lauenbrück (Kreis Rotenburg) kommt es weiter auf der Strecke Hamburg – Bremen zu Verspätungen und Teilausfällen. Die Strecke zwischen Tostedt und Rotenburg (Wümme) bis auf Weiteres für die...
+
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
  Uelzen - 15.11.2023
 
 Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für den 15. November, ab 22 Uhr zu einem Streik bis Donnerstag, 16. November, 18 Uhr aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH, zudem auch die Mitarbeitenden von enno gehören, sind nicht zum Streik...
-
-[Gefährliches Ereignis (RE4/RB41): Streckensperrung zwischen Tostedt und Scheeßel](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
-
- Uelzen - 15.11.2023
-
-Aufgrund der gestrigen Kollision eines ICEs mit einem anderen Regionalzug (nicht metronom) bei Lauenbrück (Kreis Rotenburg) kommt es weiter auf der Strecke Hamburg – Bremen zu Verspätungen und Teilausfällen, denn die Strecke ist zwischen Tostedt und Scheeßel bis auf Weiteres nur ein- statt...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
