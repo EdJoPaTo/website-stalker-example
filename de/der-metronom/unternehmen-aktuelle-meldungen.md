@@ -7,7 +7,7 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
  Uelzen - 16.11.2023
 
-Aufgrund einer vorausgegangenen Zugkollision eines ICEs mit einem anderen Regionalzug (nicht metronom) bei Lauenbrück (Rotenburg) kam es auf der Strecke Hamburg – Bremen zu Verspätungen und Ausfällen. Die Streckensperrung zwischen Tostedt – Rotenburg (Wümme) wurde aufgehoben. Die Züge der...
+Aufgrund einer vorausgegangenen Zugkollision (nicht metronom) bei Lauenbrück (Rotenburg) kam es auf der Strecke Hamburg – Bremen zu massiven Verspätungen und Ausfällen. Die Streckensperrung zwischen Tostedt – Rotenburg (Wümme) wurde gegen 22 Uhr aufgehoben. Die Züge der Linie RE4/RB41...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
