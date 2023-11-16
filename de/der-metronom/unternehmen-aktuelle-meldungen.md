@@ -3,11 +3,11 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[Gefährliches Ereignis (RE4/RB41): Streckensperrung zwischen Tostedt und Scheeßel](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
+[Gefährliches Ereignis (RE4/RB41): Streckensperrung zwischen Tostedt und Rotenburg (Wümme)](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
 
  Uelzen - 16.11.2023
 
-Aufgrund der gestrigen Kollision eines ICEs mit einem anderen Regionalzug (nicht metronom) bei Lauenbrück (Kreis Rotenburg) kommt es weiter auf der Strecke Hamburg – Bremen zu Verspätungen und Teilausfällen. Die Strecke zwischen Tostedt und Rotenburg (Wümme) bis auf Weiteres für die...
+Aufgrund der gestrigen Kollision eines ICEs mit einem anderen Regionalzug (nicht metronom) bei Lauenbrück (Kreis Rotenburg) kommt es weiter auf der Strecke Hamburg – Bremen zu Verspätungen und Ausfällen. Die Strecke zwischen Tostedt und Rotenburg (Wümme) ist bis auf Weiteres für die notwendige...
 
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
