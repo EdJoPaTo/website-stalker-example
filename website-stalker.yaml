@@ -194,6 +194,9 @@ sites:
 
   - url: https://rust-lang.github.io/rust-clippy/stable/lints.json
     editors:
+      - regex_replace:
+          pattern: ',\n\s*"line": \d+'
+          replace: ''
       - json_prettify
 
   - url:
