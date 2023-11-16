@@ -6,27 +6,25 @@
 
 ]()
 
-[Steam Deck OLED New!](https://www.steamdeck.com/en/oled) [Steam Deck LCD](https://www.steamdeck.com/en/deck) [Dock](https://www.steamdeck.com/en/dock) [Software](https://www.steamdeck.com/en/software) [Deck Verified](https://www.steamdeck.com/en/verified) [Tech Specs](https://www.steamdeck.com/en/tech)
+[Steam Deck OLED New!](https://www.steamdeck.com/en/oled) [Steam Deck LCD](https://www.steamdeck.com/en/deck) [Dock](https://www.steamdeck.com/en/dock) [Software](https://www.steamdeck.com/en/software) [Deck Verified](https://www.steamdeck.com/en/verified) [Tech Specs](https://www.steamdeck.com/en/tech) [Buy Now](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
 []()
 
-Introducing
- Steam Deck OLED
+OLED is here
 ==========
 
 ### A high dynamic range screen, a longer-lasting battery, faster downloads, and much more ###
 
-###  Available November 16 [Learn more](https://www.steamdeck.com/en/oled) ###
+### [Learn more](https://www.steamdeck.com/en/oled) ###
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 
-Introducing
- Steam Deck OLED
+OLED is here
 ==========
 
 ### A high dynamic range screen, a longer-lasting battery, faster downloads, and much more ###
 
-###  Available November 16 [Learn more](https://www.steamdeck.com/en/oled) ###
+### [Learn more](https://www.steamdeck.com/en/oled) ###
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 
@@ -41,6 +39,8 @@ Introducing
 Limited Edition
 
 Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
+
+[Get yours](https://store.steampowered.com/sale/steamdeck_2023LE?utm_source=steamdeck_com)
 
 [See moreSee less ]()
 
@@ -67,11 +67,12 @@ $399.00
 
 * 256GB NVMe SSD
 * 1280 x 800 optically bonded LCD display
-* 7" Diagonal display size
+* 7" diagonal display size
+* Up to 60Hz refresh rate
 * 7 nm APU
 * Wi-Fi 5
 * 40Whr battery; 2-8 hrs of gameplay (content dependent)
-* 45W Power supply with 1.5m cable
+* 45W power supply with 1.5m cable
 * Carrying case
 * Steam profile bundle
 
@@ -81,11 +82,12 @@ $549.00
 
 * 512GB NVMe SSD
 * 1280 x 800 HDR OLED display
-* 7.4" Diagonal display size
+* 7.4" diagonal display size
+* Up to 90Hz refresh rate
 * 6 nm APU
 * Wi-Fi 6E
 * 50Whr battery; 3-12 hrs of gameplay (content dependent)
-* 45W Power supply with 2.5m cable
+* 45W power supply with 2.5m cable
 * Carrying case
 * Steam profile bundle
 
@@ -95,12 +97,13 @@ $649.00
 
 * 1TB NVMe SSD
 * 1280 x 800 HDR OLED display
-* 7.4" Diagonal display size
+* 7.4" diagonal display size
+* Up to 90Hz refresh rate
 * Premium anti-glare etched glass
 * 6 nm APU
 * Wi-Fi 6E
 * 50Whr battery; 3-12 hrs of gameplay (content dependent)
-* 45W Power supply with 2.5m cable
+* 45W power supply with 2.5m cable
 * Carrying case with removable liner
 * Steam profile bundle
 * Exclusive startup movie
@@ -114,12 +117,13 @@ Limited Edition
 
 * 1TB NVMe SSD
 * 1280 x 800 HDR OLED display
-* 7.4" Diagonal display size
+* 7.4" diagonal display size
+* Up to 90Hz refresh rate
 * Premium anti-glare etched glass
 * 6 nm APU
 * Wi-Fi 6E
 * 50Whr battery; 3-12 hrs of gameplay (content dependent)
-* 45W Power supply with 2.5m cable
+* 45W power supply with 2.5m cable
 * Limited Edition carrying case with removable printed liner
 * Steam profile bundle
 * Exclusive startup movie

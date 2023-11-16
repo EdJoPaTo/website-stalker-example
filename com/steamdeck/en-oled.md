@@ -4,8 +4,7 @@ Your games in
 a whole new light
 ==========
 
-### Steam Deck OLED starts at $549.00
-Coming November 16[View on Steam](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com) ###
+### Steam Deck OLED starts at $549.00[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com) ###
 
 #### An OLED screen with larger picture, better battery life, faster WiFi—
 on top of world class ergonomics and an intuitive console-like experience ####
@@ -115,6 +114,8 @@ Limited Edition
 
 Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
 
+[Get yours](https://store.steampowered.com/sale/steamdeck_2023LE?utm_source=steamdeck_com)
+
 [See moreSee less ]()
 
 Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
@@ -183,11 +184,12 @@ $399.00
 
 * 256GB NVMe SSD
 * 1280 x 800 optically bonded LCD display
-* 7" Diagonal display size
+* 7" diagonal display size
+* Up to 60Hz refresh rate
 * 7 nm APU
 * Wi-Fi 5
 * 40Whr battery; 2-8 hrs of gameplay (content dependent)
-* 45W Power supply with 1.5m cable
+* 45W power supply with 1.5m cable
 * Carrying case
 * Steam profile bundle
 
@@ -197,11 +199,12 @@ $549.00
 
 * 512GB NVMe SSD
 * 1280 x 800 HDR OLED display
-* 7.4" Diagonal display size
+* 7.4" diagonal display size
+* Up to 90Hz refresh rate
 * 6 nm APU
 * Wi-Fi 6E
 * 50Whr battery; 3-12 hrs of gameplay (content dependent)
-* 45W Power supply with 2.5m cable
+* 45W power supply with 2.5m cable
 * Carrying case
 * Steam profile bundle
 
@@ -211,12 +214,13 @@ $649.00
 
 * 1TB NVMe SSD
 * 1280 x 800 HDR OLED display
-* 7.4" Diagonal display size
+* 7.4" diagonal display size
+* Up to 90Hz refresh rate
 * Premium anti-glare etched glass
 * 6 nm APU
 * Wi-Fi 6E
 * 50Whr battery; 3-12 hrs of gameplay (content dependent)
-* 45W Power supply with 2.5m cable
+* 45W power supply with 2.5m cable
 * Carrying case with removable liner
 * Steam profile bundle
 * Exclusive startup movie
@@ -230,12 +234,13 @@ Limited Edition
 
 * 1TB NVMe SSD
 * 1280 x 800 HDR OLED display
-* 7.4" Diagonal display size
+* 7.4" diagonal display size
+* Up to 90Hz refresh rate
 * Premium anti-glare etched glass
 * 6 nm APU
 * Wi-Fi 6E
 * 50Whr battery; 3-12 hrs of gameplay (content dependent)
-* 45W Power supply with 2.5m cable
+* 45W power supply with 2.5m cable
 * Limited Edition carrying case with removable printed liner
 * Steam profile bundle
 * Exclusive startup movie
