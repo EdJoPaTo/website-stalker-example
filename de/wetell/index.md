@@ -7,7 +7,6 @@ WEtell - Mobilfunk geht auch nachhaltig!
 
 * [Tarife](https://www.wetell.de/tarife/)
   * [Privattarife](https://www.wetell.de/tarife)
-  * [Geschäftstarife](https://www.wetell.de/tarife/geschaeftstarife/)
   * [Wechselservice](https://www.wetell.de/tarife/wechselservice/)
   * [Tarifoptionen](https://www.wetell.de/tarife/tarifoptionen/)
   * [Mobilfunknetz](https://www.wetell.de/tarife/mobilfunknetz/)
