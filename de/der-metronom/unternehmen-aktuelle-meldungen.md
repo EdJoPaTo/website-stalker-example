@@ -3,6 +3,12 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
+[Fehler bei der Verbindungssuche im FahrPlaner](https://www.der-metronom.de/aktuell/fehler-bei-der-verbindungssuche-im-fahrplaner/)
+
+ Uelzen - 17.11.2023
+
+Aktuell ist die Verbindungssuche im VBN-FahrPlaner gestört. Fahrgäste nutzen alternativ bitte den DB-Navigator für die elektronische Verbindungssuche.
+
 [News-Ticker RE4/RB41: Beeinträchtigungen zwischen Tostedt und Rotenburg (Wümme)](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
 
  Uelzen - 16.11.2023
