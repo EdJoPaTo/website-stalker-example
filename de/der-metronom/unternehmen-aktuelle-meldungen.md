@@ -3,18 +3,6 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[Verbindungssuche im FahrPlaner](https://www.der-metronom.de/aktuell/verbindungssuche-im-fahrplaner/)
-
- Uelzen - 17.11.2023
-
-Aktuell werden bei der Verbindungssuche im FahrPlaner neben direkten Zugverbindungen auch Verbindungen mit diversen Busverkehren angezeigt. Fahrgäste nutzen entweder die angegebenen Zugverbindungen oder nutzen alternativ den DB-Navigator für die elektronische Verbindungssuche.
-
-[News-Ticker RE4/RB41: Beeinträchtigungen zwischen Tostedt und Rotenburg (Wümme)](https://www.der-metronom.de/aktuell/gefaehrliches-ereignis-streckensperrung-zwischen-hamburg-und-bremen/)
-
- Uelzen - 16.11.2023
-
-Aufgrund einer vorausgegangenen Zugkollision (nicht metronom) bei Lauenbrück (Rotenburg) kam es auf der Strecke Hamburg – Bremen zu massiven Verspätungen und Ausfällen. Die Streckensperrung zwischen Tostedt – Rotenburg (Wümme) wurde gegen 22 Uhr aufgehoben. Die Züge der Linie RE4/RB41...
-
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  08.11.2023
