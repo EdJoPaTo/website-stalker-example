@@ -15,12 +15,3 @@ Seit Ende August fährt metronom mit einem veränderten Fahrplan, dem sogenannte
 
 Liebe Fahrgäste,
 wir wissen, die aktuelle Zeit ist nicht einfach. Ersatzfahrplan mit reduziertem Angebot, Großveranstaltungen, Jahrmärkte und immer wieder Baustellen auf den Strecken im Norden. Gerade zu den Hauptverkehrszeiten und an den Wochenenden sind viele Fahrgäste mit uns unterwegs. Das...
-
-[Zusatzhalt in Hannover Messe/Laatzen vom 12. bis 18. November 2023](https://www.der-metronom.de/aktuell/zusatzhalt-in-hannover-messe-laatzen-vom-12-bis-18-november-2023/)
-
- 20.10.2023
-
-Liebe Fahrgäste,
-vom 12. bis 18. November 2023 findet die Agritechnica in Hannover Messe/Laatzen statt. Wir haben Zusatzhalte für euch eingerichtet.
-Diese findet ihr in der unten stehenden Datei "Agritechnica".
-Euer metronom Team
