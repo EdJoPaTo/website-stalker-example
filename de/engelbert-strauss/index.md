@@ -1,135 +1,221 @@
-e.s.
-iconic
+Mario-
+Christmas
 ----------
 
 ---
 
-###  URTYPISCH, EHRLICH, KERNIG  ###
+###  Ein Geschenk für Kinder der 90er und von heute  ###
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/iconic)
+[jetzt entdecken](https://www.engelbert-strauss.de/supermario?itemorigin=startseite_xmas23)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/)
+ 01
+---
 
- Schuh-
-neuheiten
+ 04
+---
+
+ Weihnachts-
+highlights
 ----------
 
 ---
 
-###  Trittsicher durch die kalte Jahreszeit  ###
+###  Kleidung für die ganze Familie  ###
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/schuhneuheiten)
+[jetzt entdecken](https://www.engelbert-strauss.de/weihnachten/?itemorigin=startseite_xmas23&sort=newest)
 
- Hier trifft Handwerk auf Leidenschaft
+ 02
 ---
 
- FC BAYERN EDITION
+ 04
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/fc-bayern)
+ Weihnachts-
+Neuheiten
+----------
 
- Adler trifft Strauss
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/eintracht-frankfurt)
+###
 
- e.s. Kniepolstertasche
+Finden Sie die perfekten Kuschel-Outfits für die Winterzeit.
+
+ ###
+
 ---
 
- Soft
+[alle Neuheiten](https://www.engelbert-strauss.de/geschenkideen-neuheiten/?itemorigin=startseite_xmas23&sort=newest)
+
+ 03
 ---
 
-zum Knien auf glatten und empfindlichen Untergründen
-
-[jetzt entdecken](https://www.engelbert-strauss.de/knieschutz-kniepolster/e-s-kniepolstertasche-pro-comfort-soft-7030180-8371584-109.html?amp;itemorigin=StartseiteHW23)
-
- passende
+ 04
 ---
 
- Knee Pads
+ Aktions-
+sets
+----------
+
 ---
 
- e.s. Kniepolstertasche
+###
+
+mit jedem Set ein Gratis Artikel!
+
+ ###
+
 ---
 
- Rough
+[jetzt entdecken](https://www.engelbert-strauss.de/weihnachts-aktions-sets/?itemorigin=startseite_xmas23&sort=newest)
+
+###  Herren-Set  ###
+
 ---
 
-zum Knien auf rauen und groben Untergründen
+1x Bundhose e.s.motion 2020
++ 1x Winterbundhose e.s.motion 2020
 
-[jetzt entdecken](https://www.engelbert-strauss.de/knieschutz-kniepolster/e-s-kniepolstertasche-pro-comfort-rough-7030190-8371585-109.html?amp;itemorigin=StartseiteHW23)
+###  + gratis  ###
 
- limited edition
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/supermario)
+\+ 1x GRATIS Lunchbox Set XL
++ 1x GRATIS e.s. Besteckset
 
- Wärmebereich
+[Set entdecken](https://www.engelbert-strauss.de/weihnachten-bekleidungs-sets/set-bundhose-winter-bundhose-e-s-motion-2020-3163600-15565-1088.html?itemorigin=startseite_xmas23&__mode=stripped)
+
+ 04
 ---
 
-Teilgefüttert - Leichtes Lining vom Bund bis zu den Knien
-
- Allseason
+ 04
 ---
 
- Concrete
+ Gratis Versand
 ---
 
- für das ganze Jahr
+ innerhalb Deutschlands bis zum 21.12.2023
+
+ Verlängertes Umtauschrecht innerhalb Deutschlands bis zum 31.01.2024
 ---
 
-[alle Produkte](https://www.engelbert-strauss.de/f/e-s-concrete/Ausstattung:Futter_Fuellung:waermende_Innenseite/#filter:closed)
-
- Bis zu 32% sparen
+ Verlängertes Umtauschrecht innerhalb Deutschlands bis zum 31.01.2024
 ---
 
- Clever sparen mit den neuen
+ Verlängertes Umtauschrecht innerhalb Deutschlands bis zum 31.01.2024
 ---
 
- Werkzeug-sets
+ Kollaborationen
+----------
+
 ---
 
-[jetzt entdecken](https://www.engelbert-strauss.de/s/suche?query=neuheiten%20werkzeug%20sets)
+ Geschenkidee für echte Metal-Fans
+----------
 
- Newsletter abonnieren
-
- und exklusive Aktionen, Gutscheine & Schnäppchen sichern
-
-[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)
-
- Nach Kategorie shoppen
 ---
 
- Bekleidung
+ Die Kollektion für echte Metal-Fans: Metallica und Strauss zeigen, was möglich ist, wenn sich Headliner zusammentun.
+
+ Geschenkidee für echte FC Bayern Fans
+----------
+
 ---
 
- Schuhe
+ Die beliebtesten Strauss-Kollektionen in der exklusiven FC Bayern Edition. Das ist weitaus mehr als cooles Fan-Design.
+
+ Geschenkidee für echte Chiefs Fans
+----------
+
 ---
 
- Arbeitsschutz
+ Die Kollektion für echte Football-Fans: Toughe Workwear mit CHIEFS X STRAUSS Partnerlogo. Touchdown für unsere kernige e.s.iconic.
+
+ Geschenkidee für echte Eintracht Fans
+----------
+
 ---
 
- Werkzeuge
+ Die limitierte Eintracht x Strauss-Partnerkollektion. Das Best-Of unserer Workwear-Highlights zusammen mit dem Adler. Das perfekte Team.
+
+|[<br/><br/>Metallica X Strauss<br/><br/>](https://www.engelbert-strauss.de/metallica-works?itemorigin=startseite_xmas23)|[<br/><br/>FCB X Strauss<br/><br/>](https://www.engelbert-strauss.de/fc-bayern?itemorigin=startseite_xmas23)|[<br/><br/>Chiefs X Strauss<br/><br/>](https://www.engelbert-strauss.de/iconic-chiefs?itemorigin=startseite_xmas23)|[<br/><br/>Eintracht X Strauss<br/><br/>](https://www.engelbert-strauss.de/eintracht-frankfurt?itemorigin=startseite_xmas23)|[<br/><br/>Super Mario X Strauss<br/><br/>](https://www.engelbert-strauss.de/supermario?itemorigin=startseite_xmas23)| [<br/><br/>Zu allen Fanartikeln<br/><br/>](https://www.engelbert-strauss.de/kollaborationen/?itemorigin=startseite_xmas23)|
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+
+ Werkzeug Weihnachten
+----------
+
 ---
 
- Betriebsbedarf
+|   | [<br/><br/>Kleine Geschenke<br/><br/>UNTER 50 €\*<br/><br/>](https://www.engelbert-strauss.de/werkzeug-geschenkideen_kleine-geschenke?itemorigin=startseite_xmas23)|
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|   | [<br/><br/>Größere Geschenke<br/><br/>VON 50 € bis 100 €\*<br/><br/>](https://www.engelbert-strauss.de/werkzeug-geschenkideen_groessere-geschenke?itemorigin=startseite_xmas23)|
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|   | [<br/><br/>noch größere Geschenke<br/><br/>ÜBER 100 €\*<br/><br/>](https://www.engelbert-strauss.de/werkzeug-geschenkideen_noch-groessere-geschenke?itemorigin=startseite_xmas23)|
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+ \* Die Preisangabe bezieht sich auf den Nettopreis
+
+ Exklusive Werkzeugsets zu Weihnachten. **Nur für kurze Zeit!**
+----------
+
 ---
 
- 30 TAGE RÜCKGABERECHT
+ Beliebte Kategorien
+----------
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+---
 
- KOSTENLOSE RÜCKSENDUNGEN
+| Neuheiten<br/>----------<br/><br/>---|   |
+|--------------------------------------|---|
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+| Geschenkideen<br/>----------<br/><br/>---|   |
+|------------------------------------------|---|
 
- KAUF AUF RECHNUNG
+| Für die Kleinen<br/>----------<br/><br/>---|   |
+|--------------------------------------------|---|
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
+ Weihnachts-Aktions-Sets
+----------
+
+---
+
+###  Set:  ###
+
+---
+
+1x Bundhose e.s.motion 2020
+\+ 1x Bundhose e.s.motion 2020 Winter, Herren
+\+ 1x GRATIS Lunchbox Set XL
+\+ 1x GRATIS e.s. Besteckset
+
+[Set kaufen](https://www.engelbert-strauss.de/weihnachten-bekleidungs-sets/set-bundhose-winter-bundhose-e-s-motion-2020-3163600-15568-962.html?itemorigin=startseite_xmas23)
+
+ Zu jedem Set ein Gratis Artikel!
+----------
+
+---
+
+ Zum Fest haben wir für Sie zahlreiche attraktive Aktions-Sets geschnürt. Sichern Sie sich für kurze Zeit unsere Highlights mit GRATIS Artikeln.
+
+[Alle Weihnachtssets](https://www.engelbert-strauss.de/weihnachts-aktions-sets/?itemorigin=startseite_xmas23)
+
+ Gutscheine verschenken
+----------
+
+---
+
+==========
+
+---
+
+[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_xmas23)
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
 
 []()
 
