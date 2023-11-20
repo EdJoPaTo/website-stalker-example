@@ -61,7 +61,7 @@ Eine Übersicht aller Auslandskonditionen und Reisepakete findest du in unserer 
 
 Insbesondere die Nutzung der mobilen Daten im kostenpflichtigen Ausland kann teuer werden. Aus diesem Grund haben wir RCOCO eingeführt. RCOCO sorgt dafür, dass deine mobilen Daten automatisch gesperrt werden, sobald du dich außerhalb der Tarifzone der EU befindest. Erst, wenn du eines der per SMS angebotenen Reisepakete aktiv buchst, ist es dir wieder möglich, aufs Internet zuzugreifen. So kannst du deine Internetkosten gezielt kontrollieren.
 
-Für einige Länder, bspw. für die Schweiz, können wir dir außerdem die Zusatzoption „EasyTravel Tag“ anbieten. Unter folgendem Link findest du alle Infos, [wie und wo du diese Zusatzoption nutzen kannst](https://www.wetell.de/ueber-uns/news/auslandstarife-all-inklusive/).
+Für einige Länder, bspw. für die Schweiz, können wir dir außerdem die Zusatzoption „EasyTravel“ anbieten. Unter folgendem Link findest du alle [Infos](https://www.wetell.de/service/auslandskonditionen-mobilfunk/#easytravel), wie und wo du diese Zusatzoption nutzen kannst.
 
 #### Bietet WEtell auch Prepaid Tarife an? ####
 
@@ -331,7 +331,7 @@ Alternativ lässt sich der Datenverbrauch für gewöhnlich auch im Handy unter d
 
 #### Bin ich Kund\*in bei WEtell oder bei eurem Mobilfunkpartner? ####
 
-WEtell ist dein „virtueller“ Service Provider. Unser Mobilfunkpartner Tele2 ist der Leistungserbringer der reinen Mobilfunkdienstleistung und damit dein Vertragspartner. Das ist eine Konstruktion, die uns den Einstieg in den Mobilfunkmarkt ermöglicht und für dich sicherstellt, dass wir einen Partner mit langjähriger Erfahrung an unserer Seite haben. Eigenständiger Service Provider wollen wir irgendwann auch werden, aber unsere Reise zum nachhaltigen Mobilfunk geht ja gerade erst los. Hier findest du weitere [Infos zur Kooperation mit Tele2](https://www.wetell.de/tarife/mobilfunkkooperation/).
+WEtell ist dein „virtueller“ Service Provider. Unser Mobilfunkpartner Tele2 ist der Leistungserbringer der reinen Mobilfunkdienstleistung und damit dein Vertragspartner. Das ist eine Konstruktion, die uns den Einstieg in den Mobilfunkmarkt ermöglicht und für dich sicherstellt, dass wir einen Partner mit langjähriger Erfahrung an unserer Seite haben. Eigenständiger Service Provider wollen wir irgendwann auch werden, aber unsere Reise zum nachhaltigen Mobilfunk geht ja gerade erst los. Hier findest du weitere [Infos zur Kooperation mit der STROTH Telecom GmbH](https://www.wetell.de/tarife/mobilfunkkooperation/).
 
 #### Ich möchte meine Daten ändern, wie kann ich das tun? ####
 
@@ -360,3 +360,9 @@ Die Monatsbeiträge werden immer 10-14 Tage nach Versand der Rechnungsinformatio
 #### In welcher Taktung wird abgerechnet? ####
 
 Bei Freiminuten beträgt die Taktung 60/60. Das bedeutet, dass jede angebrochene Minute berechnet wird, auch wenn du nur ein paar Sekunden telefoniert hast.
+
+#### Wo finde ich meine Kund\*innennummer ####
+
+Deine Kund\*innennummer findest du in der E-Mail mit dem Betreff: „Dein WEtell-Login“. Du erhältst diese wenige Tage nach deiner Bestellung.
+
+Kundennummer

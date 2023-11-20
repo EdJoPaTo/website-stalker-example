@@ -350,4 +350,16 @@ Rechtliches
 
  © 2023 Copyright WEtell. All rights reserved.
 
+#### App, App, Hurra. ####
+
+Datenvolumen checken, unsere aktuellen News lesen und sogar Tarife bestellen.
+Das alles geht jetzt ganz einfach:
+In der neuen **WEtell App**.
+
+Jetzt Gratis downloaden im:
+
+[Google Playstore](https://play.google.com/store/apps/details?id=de.appsoluts.wetell)
+
+[Im Appstore für iOS](https://apps.apple.com/de/app/wetell/id6450259024)
+
 [Tarif wählen](https://www.wetell.de/tarife/) [Wechselservice](https://www.wetell.de/tarife/wechselservice/) [Freund\*innen werben](https://wetell.de/youtell/) [FAIRstärker](https://www.wetell.de/fairstaerker/)
