@@ -108,7 +108,7 @@ cirrus incus
 
   * Samsung SSD 980 500GBSamsung SSD 980 1TB (79,00 €)Samsung SSD 970 EVO Plus 500GB (59,00 €)Samsung SSD 970 EVO Plus 1TB (89,00 €)Samsung SSD 970 EVO Plus 2TB (149,00 €)
 
-  * Samsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)
+  * Samsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)Samsung SSD 990 Pro 4TB (389,00 €)
 
   M.2 Slot 2
 
@@ -117,7 +117,7 @@ cirrus incus
 
   * NoneSamsung SSD 980 500GB (49,00 €)Samsung SSD 980 1TB (79,00 €)Samsung SSD 970 EVO Plus 500GB (59,00 €)Samsung SSD 970 EVO Plus 1TB (89,00 €)Samsung SSD 970 EVO Plus 2TB (149,00 €)
 
-  * NoneSamsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)
+  * NoneSamsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)Samsung SSD 990 Pro 4TB (389,00 €)
 
   ##### Hard Disk / SSD #####
 
