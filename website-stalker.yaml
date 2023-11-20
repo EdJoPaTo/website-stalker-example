@@ -80,9 +80,11 @@ sites:
       - css_remove: script, .hbguide_taglist
       - html_markdownify
 
-  - url: https://files.teamspeak-services.com/releases/server/
+  - url: https://www.teamspeak.com/en/downloads/
     editors:
-      - html_prettify
+      - css_select: .tab-content
+      - css_remove: img, *[href="#"]
+      - html_markdownify
 
   - url: https://blinry.org/
     editors:
