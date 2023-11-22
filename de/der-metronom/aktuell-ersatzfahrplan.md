@@ -36,7 +36,7 @@ Fahrgäste werden gebeten, sich tagesaktuell vor Reiseantritt in den elektronisc
 
 [Ersatzfahrplan metronom gesamt 28.08. bis 09.12.2023 PDF - 948,2 KB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/Bauarbeiten/Ersatzfahrplan-metronom-gesamt-28.08.2023-09.12.2023.pdf)
 
-[\+++ UPDATE (11.10.2023) Ersatzfahrplan Hamburg - Lüneburg - Uelzen und Gegenrichtung vom 28.08. bis 09.12.2023 PDF - 690,5 KB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/Ersatzfahrplan-RE3-RB31.pdf)
+[\+++ UPDATE (11.10.2023) Ersatzfahrplan Hamburg - Lüneburg - Uelzen und Gegenrichtung vom 28.08. bis 09.12.2023 PDF - 690,5 KB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/2023/Ersatzfahrplan-RE3-RB31.pdf)
 
 [Ersatzfahrplan Bremen - Hamburg und Gegenrichtung vom 28.08. bis 09.12.2023 PDF - 846,3 KB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/Bauarbeiten/Ersatzfahrplan-Bremen-Hamburg-und-Gegenrichtung.pdf)
 
