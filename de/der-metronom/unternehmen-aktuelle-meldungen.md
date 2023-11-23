@@ -8,7 +8,7 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
  23.11.2023
 
 Liebe Fahrgäste,
-aufgrund einer Oberleitungsstörung in Celle kommt es zwischen Uelzen und Hannover Hbf auf unbestimmte Zeit zu Verspätungen und Teilausfällen. Aktuell ist ein Busnotverkehr zwischen Celle und Eschede eingerichtet. Die Züge aus Hannover wenden in Celle, die aus Uelzen in...
+aufgrund einer Oberleitungsstörung in Celle kommt es zwischen Uelzen und Hannover Hbf voraussichtlich bis Freitagmittag, 24. November, zu Verspätungen und Teilausfällen. Aktuell ist ein Busnotverkehr zwischen Celle und Eschede eingerichtet. Die Züge aus Hannover wenden in Celle,...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
