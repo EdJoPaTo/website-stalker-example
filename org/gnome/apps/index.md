@@ -59,6 +59,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Collision**Check hashes for your files](Collision/)
 * [**Commit**Commit message editor](Commit/)
 * [**Curtail**Compress your images](Curtail/)
+* [**Decibels**Play audio files](Decibels/)
 * [**Decoder**Scan and Generate QR Codes](Decoder/)
 * [**Déjà Dup Backups**Protect yourself from data loss](DejaDup/)
 * [**Dialect**Translate between languages](Dialect/)
