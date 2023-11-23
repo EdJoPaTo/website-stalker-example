@@ -41,6 +41,61 @@ SHA256: c4c74d862464a48bd04f9ac76b6f1c13eb0d8b46c2f07ec32530ef15a185f8bb
  Windows
 ----------
 
+###  Client 64-bit  3.6.1  ###
+
+```
+SHA256: 3b6cf0a99f1686a53c3afc15e502593f50e3822a86dde400fee9ba38242c9532
+```
+
+[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe)
+
+ macOS
+----------
+
+###  Client 64-bit  3.6.1  ###
+
+```
+SHA256: 2312e39ea680da1c728d4589f51fbe80c52e3a33b8b3f9ad485ccd29179cfdf9
+```
+
+[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-macosx-3.6.1.dmg)
+
+ Linux
+----------
+
+###  Client 64-bit  3.6.1  ###
+
+```
+SHA256: 8f8b2067eb49a55e924f4c8b99b2d32e007141370ad4b6681047cc7b74d4002e
+```
+
+[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-linux_amd64-3.6.1.run)
+
+ Android
+----------
+
+###  Mobile Client  ###
+
+Requires Android 4.2 or later
+
+[Download](https://play.google.com/store/apps/details?id=com.teamspeak.ts3client)
+
+[Download](https://play.google.com/store/apps/details?id=com.teamspeak.ts3client)
+
+ iOS
+----------
+
+###  Mobile Client  ###
+
+Requires iOS 12.0 or later
+
+[Download](https://itunes.apple.com/app/teamspeak-3/id577628510)
+
+[Download](https://itunes.apple.com/app/teamspeak-3/id577628510)
+
+ Windows
+----------
+
 ###  Server 32-bit  3.13.7  ###
 
 ```
@@ -151,58 +206,3 @@ SHA256: 5be758eb1d947fff40387d2635a3a7175eb5c03a89c3c9dface0064cd5b4ce36
 [Download](https://github.com/teamspeak/ts3client-pluginsdk)
 
 [Download](https://github.com/teamspeak/ts3client-pluginsdk)
-
- Windows
-----------
-
-###  Client 64-bit  3.6.1  ###
-
-```
-SHA256: 3b6cf0a99f1686a53c3afc15e502593f50e3822a86dde400fee9ba38242c9532
-```
-
-[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe)
-
- macOS
-----------
-
-###  Client 64-bit  3.6.1  ###
-
-```
-SHA256: 2312e39ea680da1c728d4589f51fbe80c52e3a33b8b3f9ad485ccd29179cfdf9
-```
-
-[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-macosx-3.6.1.dmg)
-
- Linux
-----------
-
-###  Client 64-bit  3.6.1  ###
-
-```
-SHA256: 8f8b2067eb49a55e924f4c8b99b2d32e007141370ad4b6681047cc7b74d4002e
-```
-
-[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-linux_amd64-3.6.1.run)
-
- Android
-----------
-
-###  Mobile Client  ###
-
-Requires Android 4.2 or later
-
-[Download](https://play.google.com/store/apps/details?id=com.teamspeak.ts3client)
-
-[Download](https://play.google.com/store/apps/details?id=com.teamspeak.ts3client)
-
- iOS
-----------
-
-###  Mobile Client  ###
-
-Requires iOS 12.0 or later
-
-[Download](https://itunes.apple.com/app/teamspeak-3/id577628510)
-
-[Download](https://itunes.apple.com/app/teamspeak-3/id577628510)
