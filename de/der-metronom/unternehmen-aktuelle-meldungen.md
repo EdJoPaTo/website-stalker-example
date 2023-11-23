@@ -3,6 +3,14 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
+[RE2/RE3 Oberleitungsstörung in Celle - Verspätungen und ggf. Teilausfälle -](https://www.der-metronom.de/aktuell/re2-re3-oberleitungsstoerung-in-celle-verspaetungen-und-ggf-teilausfaelle/)
+
+ 23.11.2023
+
+Liebe Fahrgäste,
+aufgrund einer Oberleitungsstörung in Celle kommt es zwischen Uelzen und Hannover Hbf zu Verspätungen und ggf. Teilausfällen auf unbestimmte Zeit. Ein Busnotverkehr zwischen Celle und Unterlüß mit Halt in Eschede ist eingerichtet.
+Bitte achtet auf die Ansagen und Anzeigen an...
+
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  08.11.2023
