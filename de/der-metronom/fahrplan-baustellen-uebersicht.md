@@ -28,8 +28,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[20.11.2023 - 24.11.2023 RE3/RB31 nächtliche Haltausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ersatzverkehr-mit-bussen/)
-
 [26.11.2023 - 01.12.2023 RE3/RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle/)
 
 [01.12.2023 - 03.12.2023 RE2/RB31 nächtliche Ausfälle und veränderte Fahrtzeiten zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-ausfaelle-und-veraenderte-fahrtzeiten-zwischen-uelzen-und-goettingen/)
