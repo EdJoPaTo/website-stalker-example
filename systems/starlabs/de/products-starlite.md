@@ -197,6 +197,5 @@ StarPort 12-port USB-C PD Hub
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-Estimated dispatch in 7 - 8 weeks
 
- Add to Basket
+ Sold out
