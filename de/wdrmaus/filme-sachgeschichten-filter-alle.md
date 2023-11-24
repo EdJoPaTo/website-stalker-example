@@ -560,6 +560,7 @@
 * [Kran](https://www.wdrmaus.de/filme/sachgeschichten/kran.php5)
 * [Kran klettert](https://www.wdrmaus.de/filme/sachgeschichten/kran_klettert.php5)
 * [Kran: Kippen](https://www.wdrmaus.de/filme/sachgeschichten/kran_kippen.php5)
+* [Kraniche](https://www.wdrmaus.de/filme/sachgeschichten/kraniche.php5)
 * [Krebse](https://www.wdrmaus.de/filme/sachgeschichten/krebse.php5)
 * [Kresse](https://www.wdrmaus.de/filme/sachgeschichten/kresse.php5)
 * [Kriminalistik](https://www.wdrmaus.de/filme/sachgeschichten/kriminalistik.php5)
