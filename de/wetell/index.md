@@ -6,16 +6,15 @@ WEtell - Mobilfunk geht auch nachhaltig!
 * [für Business](https://www.wetell.de/fuer-business/)
 
 * [Tarife](https://www.wetell.de/tarife/)
-  * [Privattarife](https://www.wetell.de/tarife)
   * [Wechselservice](https://www.wetell.de/tarife/wechselservice/)
   * [Tarifoptionen](https://www.wetell.de/tarife/tarifoptionen/)
+  * [FAIRstärker](https://www.wetell.de/tarife/fairstaerker/)
   * [Mobilfunknetz](https://www.wetell.de/tarife/mobilfunknetz/)
 
 * [Warum WEtell?](https://www.wetell.de/vision/)
   * [Klimaschutz](https://www.wetell.de/vision/klimaschutz/)
   * [Datenschutz](https://www.wetell.de/vision/datenschutz/)
   * [Fairness & Transparenz](https://www.wetell.de/vision/fairness-und-transparenz/)
-  * [FAIRstärker](https://www.wetell.de/tarife/fairstaerker/)
   * [Purpose Unternehmen](https://www.wetell.de/vision/purpose/)
   * [Gemeinwohlbilanzierung](https://www.wetell.de/vision/gemeinwohl-mobilfunk-bilanz/)
 
