@@ -72,7 +72,7 @@ Configurable to:
 
  Form Factor: SO-DIMM
  Type: DDR4
-Configuration: 2 × 8GB
+Configuration: 1 × 16GB
 
  Graphics
 
