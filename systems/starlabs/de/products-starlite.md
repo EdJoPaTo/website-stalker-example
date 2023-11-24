@@ -72,12 +72,6 @@ Ubuntu LTS 22.04.3 MATE
 
 Xubuntu 22.04.3 LTS
 
-Zorin OS 16.3 Core
-
-Zorin OS 16.3 Lite
-
-Zorin OS 16.3 Pro
-
 Windows 11 Home
 
 Windows 11 Professional

@@ -224,8 +224,6 @@ Your way.
 
  Zorin OS
 
- Core, Lite, Pro
-
 [Visit Zorin](https://zorinos.com/)
 
  VAT
