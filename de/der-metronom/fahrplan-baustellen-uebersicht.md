@@ -16,8 +16,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[25.11.2023 - 27.11.2023 RE3/RE3 nächtliche Fahrzeitveränderungen und Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-re3-naechtliche-fahrzeitveraenderungen-und-ersatzverkehr-mit-bussen/)
-
 [03.12.2023 RE2/RE3: Verstärkerzug ME 82882 entfällt zwischen Hannover und Uelzen](https://www.der-metronom.de/baustellen/re2-re3-verstaerkerzug-me-82882-entfaellt-zwischen-hannover-und-uelzen/)
 
 [05.12.2023 RE2/RE3: Haltausfall in Unterlüß](https://www.der-metronom.de/baustellen/re2-re3-haltausfall-in-unterluess/)
