@@ -1,4 +1,4 @@
-08.11.2023
+28.11.2023
 
 Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23
 ==========
