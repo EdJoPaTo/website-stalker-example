@@ -114,8 +114,6 @@ Limited Edition
 
 Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
 
-[Get yours](https://store.steampowered.com/sale/steamdeck_2023LE?utm_source=steamdeck_com)
-
 [See moreSee less ]()
 
 Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
@@ -222,24 +220,6 @@ $649.00
 * 50Whr battery; 3-12 hrs of gameplay (content dependent)
 * 45W power supply with 2.5m cable
 * Carrying case with removable liner
-* Steam profile bundle
-* Exclusive startup movie
-* Exclusive virtual keyboard theme
-
-### 1TB OLED ###
-
-Limited Edition
-
-* 1TB NVMe SSD
-* 1280 x 800 HDR OLED display
-* 7.4" diagonal display size
-* Up to 90Hz refresh rate
-* Premium anti-glare etched glass
-* 6 nm APU
-* Wi-Fi 6E
-* 50Whr battery; 3-12 hrs of gameplay (content dependent)
-* 45W power supply with 2.5m cable
-* Limited Edition carrying case with removable printed liner
 * Steam profile bundle
 * Exclusive startup movie
 * Exclusive virtual keyboard theme

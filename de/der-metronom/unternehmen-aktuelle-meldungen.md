@@ -7,14 +7,14 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
  Uelzen - 29.11.2023
 
-Aufgrund eines gefährlichen Ereignisses (nicht metronom) ist die Strecke zwischen Lauenbrück und Tostedt für voraussichtlich 2 Stunden gesperrt. Züge aus Richtung Bremen Hbf wenden bereits in Lauenbrück zurück nach Bremen Hbf. Züge aus Richtung Hamburg Hbf wenden bereits in Tostedt zurück nach...
+Aufgrund eines gefährlichen Ereignisses (nicht metronom) ist die Strecke zwischen Lauenbrück und Tostedt weiterhin gesperrt. Züge aus Richtung Bremen Hbf wenden bereits in Lauenbrück zurück nach Bremen Hbf. Züge aus Richtung Hamburg Hbf wenden bereits in Tostedt zurück nach Hamburg Hbf. Ein...
 
 [Hannover Hbf: Streckensperrungen wegen Oberleitungsschaden](https://www.der-metronom.de/aktuell/hannover-hbf-streckensperrungen-wegen-oberleitungsschaden/)
 
  29.11.2023
 
-Der Hauptbahnhof Hannover kann wegen einer Oberleitungsstörung nur aus Richtung Norden angefahren werden.
-Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof oder auf dem Bahnsteig. Weitere Informationen gibt es auch über die elektronische Fahrplanauskunft auf dieser Website oder in den...
+Der Hauptbahnhof Hannover kann wegen einer Oberleitungsstörung nur aus Richtung Norden und Süden angefahren werden.
+Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof oder auf dem Bahnsteig. Weitere Informationen gibt es auch über die elektronische Fahrplanauskunft auf dieser Website oder...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
