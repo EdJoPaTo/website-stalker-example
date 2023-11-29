@@ -226,8 +226,6 @@ $649.00
 * Exclusive startup movie
 * Exclusive virtual keyboard theme
 
-$679.00
-
 ### 1TB OLED ###
 
 Limited Edition

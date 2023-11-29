@@ -3,13 +3,18 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
+[RE4/RB41: Streckensperrung zwischen Lauenbrück und Tostedt](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-zwischen-lauenbrueck-und-tostedt/)
+
+ Uelzen - 29.11.2023
+
+Aufgrund eines gefährlichen Ereignisses (nicht metronom) ist die Strecke zwischen Lauenbrück und Tostedt für voraussichtlich 2 Stunden gesperrt. Züge aus Richtung Bremen Hbf wenden bereits in Lauenbrück zurück nach Bremen Hbf. Züge aus Richtung Hamburg Hbf wenden bereits in Tostedt zurück nach...
+
 [Hannover Hbf: Streckensperrungen wegen Oberleitungsschaden](https://www.der-metronom.de/aktuell/hannover-hbf-streckensperrungen-wegen-oberleitungsschaden/)
 
  29.11.2023
 
-Der Hauptbahnhof Hannover sowie umliegende Strecken sind bis auf Weiteres gesperrt.
-Bis zur Klärung vor Ort ist kein Zugverkehr im Umkreis vom Hannover Hbf möglich.
-Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof oder auf dem Bahnsteig. Weitere Informationen gibt es auch über die...
+Der Hauptbahnhof Hannover kann wegen einer Oberleitungsstörung nur aus Richtung Norden angefahren werden.
+Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof oder auf dem Bahnsteig. Weitere Informationen gibt es auch über die elektronische Fahrplanauskunft auf dieser Website oder in den...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
