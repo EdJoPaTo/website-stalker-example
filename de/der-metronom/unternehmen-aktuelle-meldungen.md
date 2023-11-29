@@ -3,6 +3,14 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
+[Hannover Hbf: Streckensperrungen wegen Oberleitungsschaden](https://www.der-metronom.de/aktuell/hannover-hbf-streckensperrungen-wegen-oberleitungsschaden/)
+
+ 29.11.2023
+
+Der Hauptbahnhof Hannover sowie umliegende Strecken sind bis auf Weiteres gesperrt.
+Bis zur Klärung vor Ort ist kein Zugverkehr im Umkreis vom Hannover Hbf möglich.
+Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof oder auf dem Bahnsteig. Weitere Informationen gibt es auch über die...
+
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  28.11.2023
