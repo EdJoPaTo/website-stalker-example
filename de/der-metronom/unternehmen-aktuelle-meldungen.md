@@ -3,6 +3,14 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
+[Hannover Hbf: Beeinträchtigungen wegen Oberleitungsschaden](https://www.der-metronom.de/aktuell/hannover-hbf-streckensperrungen-wegen-oberleitungsschaden/)
+
+ Uelzen - 29.11.2023
+
+Am Hauptbahnhof Hannover kam es zu einer Oberleitungsstörung.
+Die Züge aus Richtung Göttingen und Uelzen können den Hauptbahnhof Hannover wieder anfahren. Es muss jedoch weiterhin mit Verspätungen und (Teil-)Ausfällen gerechnet werden.
+Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof...
+
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  28.11.2023
