@@ -11,13 +11,6 @@ Am Hauptbahnhof Hannover kam es zu einer Oberleitungsstörung.
 Die Züge aus Richtung Göttingen und Uelzen können den Hauptbahnhof Hannover wieder anfahren. Es muss jedoch weiterhin mit Verspätungen und (Teil-)Ausfällen gerechnet werden.
 Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof...
 
-[RE4/RB41: Streckensperrung zwischen Lauenbrück und Tostedt aufgehoben](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-zwischen-lauenbrueck-und-tostedt/)
-
- Uelzen - 29.11.2023
-
-Die Streckensperrung zwischen Lauenbrück und Tostedt ist aufgehoben. Es kommt weiterhin zu Folgeverspätungen durch den aufgestauten Zugverkehr und die Zugfolgen.
-Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof oder auf dem Bahnsteig. Weitere Informationen gibt es auch über die...
-
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  28.11.2023
