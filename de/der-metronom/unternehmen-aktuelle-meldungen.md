@@ -3,18 +3,20 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[RE4/RB41: Streckensperrung zwischen Lauenbrück und Tostedt](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-zwischen-lauenbrueck-und-tostedt/)
+[Hannover Hbf: Beeinträchtigungen wegen Oberleitungsschaden](https://www.der-metronom.de/aktuell/hannover-hbf-streckensperrungen-wegen-oberleitungsschaden/)
 
  Uelzen - 29.11.2023
 
-Aufgrund eines gefährlichen Ereignisses (nicht metronom) ist die Strecke zwischen Lauenbrück und Tostedt weiterhin gesperrt. Züge aus Richtung Bremen Hbf wenden bereits in Lauenbrück zurück nach Bremen Hbf. Züge aus Richtung Hamburg Hbf wenden bereits in Tostedt zurück nach Hamburg Hbf. Ein...
+Am Hauptbahnhof Hannover kam es zu einer Oberleitungsstörung.
+Die Züge aus Richtung Göttingen und Uelzen können den Hauptbahnhof Hannover wieder anfahren. Es muss jedoch weiterhin mit Verspätungen und (Teil-)Ausfällen gerechnet werden.
+Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof...
 
-[Hannover Hbf: Streckensperrungen wegen Oberleitungsschaden](https://www.der-metronom.de/aktuell/hannover-hbf-streckensperrungen-wegen-oberleitungsschaden/)
+[RE4/RB41: Streckensperrung zwischen Lauenbrück und Tostedt aufgehoben](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-zwischen-lauenbrueck-und-tostedt/)
 
- 29.11.2023
+ Uelzen - 29.11.2023
 
-Der Hauptbahnhof Hannover kann wegen einer Oberleitungsstörung nur aus Richtung Norden und Süden angefahren werden.
-Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof oder auf dem Bahnsteig. Weitere Informationen gibt es auch über die elektronische Fahrplanauskunft auf dieser Website oder...
+Die Streckensperrung zwischen Lauenbrück und Tostedt ist aufgehoben. Es kommt weiterhin zu Folgeverspätungen durch den aufgestauten Zugverkehr und die Zugfolgen.
+Bitte achtet auch auf die Durchsagen im Zug, im Bahnhof oder auf dem Bahnsteig. Weitere Informationen gibt es auch über die...
 
 [Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
