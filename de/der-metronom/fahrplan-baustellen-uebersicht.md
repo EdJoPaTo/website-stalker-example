@@ -24,6 +24,8 @@ RE2 Hannover - Northeim - Göttingen
 
 [01.12.2023 - 03.12.2023 RE2/RB31 nächtliche Ausfälle und veränderte Fahrtzeiten zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-ausfaelle-und-veraenderte-fahrtzeiten-zwischen-uelzen-und-goettingen/)
 
+[10.12.2023 RE2 nächtlicher Ersatzverkehr mit Bus für den 82846](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bus-fuer-den-82846/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [01.12.2023 - 03.12.2023 RE2/RB31 nächtliche Ausfälle und veränderte Fahrtzeiten zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-ausfaelle-und-veraenderte-fahrtzeiten-zwischen-uelzen-und-goettingen/)
@@ -37,6 +39,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
+
+[10.12.2023 - 14.12.2023 RB41 nächtliche Haltausfälle zwischen Buchholz (N)/Hittfeld/Klecken](https://www.der-metronom.de/baustellen/rb41-naechtliche-haltausfaelle-zwischen-buchholz-n-hittfeld-klecken/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
