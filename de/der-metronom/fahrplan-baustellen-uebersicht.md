@@ -16,8 +16,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[03.12.2023 RE2/RE3: Verstärkerzug ME 82882 entfällt zwischen Hannover und Uelzen](https://www.der-metronom.de/baustellen/re2-re3-verstaerkerzug-me-82882-entfaellt-zwischen-hannover-und-uelzen/)
-
 [05.12.2023 RE2/RE3: Haltausfall in Unterlüß](https://www.der-metronom.de/baustellen/re2-re3-haltausfall-in-unterluess/)
 
 RE2 Hannover - Northeim - Göttingen
@@ -33,8 +31,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [01.12.2023 - 03.12.2023 RE2/RB31 nächtliche Ausfälle und veränderte Fahrtzeiten zwischen Uelzen und Göttingen](https://www.der-metronom.de/baustellen/re2-rb31-naechtliche-ausfaelle-und-veraenderte-fahrtzeiten-zwischen-uelzen-und-goettingen/)
 
 [03.12.2023 - 04.12.2023 RB31 nächtliche Teilausfälle zwischen Winsen (Luhe) und Lüneburg/Uelzen](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-zwischen-winsen-luhe-und-lueneburg-uelzen/)
-
-[03.12.2023 RE2/RE3: Verstärkerzug ME 82882 entfällt zwischen Hannover und Uelzen](https://www.der-metronom.de/baustellen/re2-re3-verstaerkerzug-me-82882-entfaellt-zwischen-hannover-und-uelzen/)
 
 [05.12.2023 RE2/RE3: Haltausfall in Unterlüß](https://www.der-metronom.de/baustellen/re2-re3-haltausfall-in-unterluess/)
 
