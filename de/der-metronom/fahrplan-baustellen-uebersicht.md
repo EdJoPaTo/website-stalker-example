@@ -26,8 +26,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[03.12.2023 - 04.12.2023 RB31 nächtliche Teilausfälle zwischen Winsen (Luhe) und Lüneburg/Uelzen](https://www.der-metronom.de/baustellen/rb31-naechtliche-teilausfaelle-zwischen-winsen-luhe-und-lueneburg-uelzen/)
-
 [05.12.2023 RE2/RE3: Haltausfall in Unterlüß](https://www.der-metronom.de/baustellen/re2-re3-haltausfall-in-unterluess/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
