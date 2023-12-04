@@ -34,5 +34,7 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [10.12.2023 - 14.12.2023 RB41 nächtliche Haltausfälle zwischen Buchholz (N)/Hittfeld/Klecken](https://www.der-metronom.de/baustellen/rb41-naechtliche-haltausfaelle-zwischen-buchholz-n-hittfeld-klecken/)
 
+[15.12.2023 - 20.12.2023 RB41 nächtliche Haltausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-naechtliche-haltausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
+
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
