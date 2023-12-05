@@ -76,17 +76,14 @@ mit jedem Set ein Gratis Artikel!
 
 ---
 
-1x Bundhose e.s.motion 2020
-+ 1x Winterbundhose e.s.motion 2020
+1x Bundhose e.s.motion
++ 1x Bundhose e.s.motion Winter
 
 ###  + gratis  ###
 
 ---
 
-\+ 1x GRATIS Lunchbox Set XL
-+ 1x GRATIS e.s. Besteckset
-
-[Set entdecken](https://www.engelbert-strauss.de/weihnachten-bekleidungs-sets/set-bundhose-winter-bundhose-e-s-motion-2020-3163600-15565-1088.html?itemorigin=startseite_xmas23&__mode=stripped)
+[Set entdecken](https://www.engelbert-strauss.de/weihnachten-bekleidungs-sets/set-bundhose-winter-bundhose-e-s-motion-3163730-15683-281.html?itemorigin=startseite_xmas23&__mode=stripped)
 
  04
 ---
