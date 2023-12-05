@@ -16,7 +16,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[05.12.2023 RE2/RE3: Haltausfall in Unterlüß](https://www.der-metronom.de/baustellen/re2-re3-haltausfall-in-unterluess/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 Hannover - Northeim - Göttingen
 
@@ -26,7 +26,7 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[05.12.2023 RE2/RE3: Haltausfall in Unterlüß](https://www.der-metronom.de/baustellen/re2-re3-haltausfall-in-unterluess/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
