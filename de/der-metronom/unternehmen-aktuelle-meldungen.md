@@ -9,11 +9,11 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
 Seit Ende August fährt metronom mit einem veränderten Fahrplan, dem sogenannten Ersatzfahrplan. Betroffen sind die Linien RE3, RB31, RE4 und RB41. Hier entfallen die sogenannten Verstärkerzüge. Dies sind Züge, die metronom im Regelfahrplan normalerweise in den Hauptverkehrszeiten einige Minuten...
 
-[Bahnhof Uelzen: Ausfall der elektronischen Zugzielanzeiger](https://www.der-metronom.de/aktuell/bahnhof-uelzen-ausfall-der-elektronischen-zugzielanzeiger/)
+[Bahnhof Uelzen: Ausfall der Durchsagen am Bahnhof](https://www.der-metronom.de/aktuell/bahnhof-uelzen-ausfall-der-elektronischen-zugzielanzeiger/)
 
  Uelzen - 27.11.2023
 
-Am Bahnhof Uelzen sind die elektronischen Zugzielanzeiger (Informationstafeln am Gleis) wegen einer technischen Störung außer Betrieb. Bitte beachtet die Lautsprecherdurchsagen im Bahnhof und auf dem Bahnsteig.
+Am Bahnhof Uelzen sind aktuell keine Ansagen (Lautsprecherdurchsagen) wegen einer technischen Störung möglich. Bitte beachtet die Aushänge im Bahnhof und auf dem Bahnsteig, sowie die elektronischen Auskunftsmedien.
 
 [Erhöhtes Fahrgastaufkommen](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen/)
 
