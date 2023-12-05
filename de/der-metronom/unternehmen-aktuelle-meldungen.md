@@ -3,11 +3,12 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[Update: Ergänzende Sonderregelung ab 10. November zum Ersatzfahrplan bis Samstag, 09.12.23](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
+[Update: metronom setzt Ersatzfahrplan bis 03. Februar 2024 fort](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  28.11.2023
 
-Seit Ende August fährt metronom mit einem veränderten Fahrplan, dem sogenannten Ersatzfahrplan. Betroffen sind die Linien RE3, RB31, RE4 und RB41. Hier entfallen die sogenannten Verstärkerzüge. Dies sind Züge, die metronom im Regelfahrplan normalerweise in den Hauptverkehrszeiten einige Minuten...
+Update 05.12.2023:
+Der metronom wird wegen Personalmangels bis Samstag, den 03. Februar 2024 weiter nur eine reduzierte Zahl an Zugfahrten anbieten können: Ab dem 10. Dezember tritt ein neuer Ersatzfahrplan in Kraft. Auch künftig werden unter anderem die sogenannten Verstärkerzüge in den...
 
 [Bahnhof Uelzen: Ausfall der Durchsagen am Bahnhof](https://www.der-metronom.de/aktuell/bahnhof-uelzen-ausfall-der-elektronischen-zugzielanzeiger/)
 
