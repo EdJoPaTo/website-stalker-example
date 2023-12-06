@@ -12,14 +12,6 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 Update 05.12.2023:
 Der metronom wird wegen...
 
-[](https://www.der-metronom.de/aktuell/bahnhof-uelzen-ausfall-der-elektronischen-zugzielanzeiger/)
-
-[Bahnhof Uelzen: Ausfall der Durchsagen am Bahnhof](https://www.der-metronom.de/aktuell/bahnhof-uelzen-ausfall-der-elektronischen-zugzielanzeiger/)
-
- Uelzen - 27.11.2023
-
-Am Bahnhof Uelzen sind aktuell keine Ansagen...
-
 [](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen/)
 
 [Erhöhtes Fahrgastaufkommen](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen/)
@@ -28,3 +20,11 @@ Am Bahnhof Uelzen sind aktuell keine Ansagen...
 
 Liebe Fahrgäste,
 wir wissen, die aktuelle Zeit...
+
+[](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
+
+[Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
+
+ Uelzen - 21.08.2023
+
+Die Deutsche Bahn tauscht am Bahnhof Rotenburg...
