@@ -236,6 +236,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Energy (Australia, Europe, U.K., U.S. & Canada)
 * Eve Door & Window
 * Eve Motion
+* Eve MotionBlinds for Roller Blinds
 
 [How to upgrade](/en/upgrade-to-matter)
 
