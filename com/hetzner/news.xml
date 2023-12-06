@@ -6,6 +6,24 @@
 		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>New managed servers: 100% performance, 100% service</title>
+			<link>https://www.hetzner.com/news/new-managedserver</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				6. December 2023
+			</small>
+		</p>
+		<p>
+			Benefit from stable hardware combined with advantage of having a managed server that is monitored by our expert admins.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Our Cyber Deals have arrived!</title>
 			<link>https://www.hetzner.com/news/cyberdeals-2023</link>
 			<content:encoded><![CDATA[<html>
@@ -170,24 +188,6 @@ The new EX101 Dedicated Server from the EX line houses the high-end Intel® i9-1
 		</p>
 		<p>
 			Hetzner, the German hosting and cloud provider, officially launched its second location in the USA for cloud products in Hillsboro, Oregon, just outside of Portland, a location ripe for future…
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>RX-Line: Pushing the envelop of parallelization</title>
-			<link>https://www.hetzner.com/news/07-22-rx-line</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				19. July 2022
-			</small>
-		</p>
-		<p>
-			The new RX-line is now available and features the first Ampere® Altra® Arm-based dedicated servers in Europe.
 		</p>
 	</body>
 </html>]]></content:encoded>
