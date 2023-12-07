@@ -3,12 +3,13 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[GDL-Streikaufruf gilt nicht für metronom](https://www.der-metronom.de/aktuell/gdl-streikaufruf-gilt-nicht-fuer-metronom/)
+[](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
+
+[Newsticker: GDL-Streikaufruf gilt nicht für metronom](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
 
  Uelzen - 07.12.2023
 
-Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für den 07. Dezember, zu einem Streik bis Freitag, 08. Dezember, aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH, zudem auch die Mitarbeitenden von enno gehören, sind nicht zum Streik aufgerufen.
-Es ist...
+Die Gewerkschaft Deutscher Lokomotivführer...
 
 [](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 

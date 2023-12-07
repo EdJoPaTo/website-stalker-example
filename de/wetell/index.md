@@ -297,7 +297,7 @@ Monatliche Kündigungserinnerung erhalten
 
 [Datenschutzerklärung](https://wetell.de/datenschutz) akzeptiert
 
-[](https://www.instagram.com/wetell.mobilfunk/) [](https://www.facebook.com/WEtell-156996021903053) [](https://twitter.com/WEtellMobilfunk) [](https://digitalcourage.social/@wetell)
+[](https://www.instagram.com/wetell.mobilfunk/) [](https://www.facebook.com/WEtell-156996021903053) [](https://digitalcourage.social/@wetell) [](https://de.trustpilot.com/review/wetell.de)
 
 Tarife
 
@@ -346,6 +346,9 @@ Rechtliches
 * [AGB](https://www.wetell.de/service/dokumente/#agb)
 * [Kündigung](https://www.wetell.de/tarife/kuendigung/)
 * [Privatsphäreneinstellungen](https://www.wetell.de/#)
+
+* [](https://apps.apple.com/de/app/wetell/id6450259024)
+* [](https://play.google.com/store/apps/details?id=de.appsoluts.wetell)
 
  © 2023 Copyright WEtell. All rights reserved.
 
