@@ -5,11 +5,12 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
 [](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
 
-[Newsticker: GDL-Streikaufruf gilt nicht für metronom](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
+[Newsticker: Bisher keine Einschränkungen aufgrund von Streikmaßnahmen](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
 
  Uelzen - 07.12.2023
 
-Die Gewerkschaft Deutscher Lokomotivführer...
+\+++ Update 10:30 Uhr +++
+Trotz der aktuellen...
 
 [](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
