@@ -5,11 +5,11 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
 
 [](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
 
-[Newsticker: Bisher keine Einschränkungen aufgrund von Streikmaßnahmen](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
+[Newsticker: Keine Einschränkungen aufgrund von Streikmaßnahmen](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
 
  Uelzen - 07.12.2023
 
-\+++ Update 10:30 Uhr +++
+\+++ Update 14:30 Uhr +++
 Trotz der aktuellen...
 
 [](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
