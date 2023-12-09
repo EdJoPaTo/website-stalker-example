@@ -3,15 +3,6 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
-
-[Newsticker: Keine Einschränkungen aufgrund von Streikmaßnahmen](https://www.der-metronom.de/aktuell/gdl-streik-nicht-bei-metronom/)
-
- Uelzen - 07.12.2023
-
-\+++ Update 14:30 Uhr +++
-Trotz der aktuellen...
-
 [](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
 [Update: metronom setzt Ersatzfahrplan bis 03. Februar 2024 fort](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
