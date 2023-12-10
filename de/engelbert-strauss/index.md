@@ -16,6 +16,28 @@ Christmas
  04
 ---
 
+ Gutscheine
+verschenken
+----------
+
+---
+
+###  Der Klassiker unter den Geschenken  ###
+
+---
+
+[jetzt entdecken](https://www.engelbert-strauss.de/Gutscheine?itemorigin=startseite_xmas23)
+
+[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_xmas23)
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
+ 02
+---
+
+ 04
+---
+
  Weihnachts-
 highlights
 ----------
@@ -27,28 +49,6 @@ highlights
 ---
 
 [jetzt entdecken](https://www.engelbert-strauss.de/weihnachten/?itemorigin=startseite_xmas23&sort=newest)
-
- 02
----
-
- 04
----
-
- Weihnachts-
-Neuheiten
-----------
-
----
-
-###
-
-Finden Sie die perfekten Kuschel-Outfits für die Winterzeit.
-
- ###
-
----
-
-[alle Neuheiten](https://www.engelbert-strauss.de/geschenkideen-neuheiten/?itemorigin=startseite_xmas23&sort=newest)
 
  03
 ---
