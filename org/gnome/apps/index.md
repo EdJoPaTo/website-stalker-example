@@ -81,7 +81,6 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Letterpress**Create beautiful ASCII art](Letterpress/)
 * [**Lorem**Generate placeholder text](Lorem/)
 * [**Metadata Cleaner**View and clean metadata in files](MetadataCleaner/)
-* [**Metronome**Keep the tempo](Metronome/)
 * [**Mousai**Identify songs in seconds](Mousai/)
 * [**NewsFlash**Keep up with your feeds](NewsFlash/)
 * [**Obfuscate**Censor private information](Obfuscate/)
