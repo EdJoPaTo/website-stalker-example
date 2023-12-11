@@ -268,27 +268,23 @@ Stimmen zu WEtell:
 
 [Wie Svenja Mittelwelle wählen](https://www.wetell.de/tarife/bestellen/?tarif=mittelwelle)
 
-Nach 49 Jahren ohne Mobilfunk hat mir WEtell den Abschied vom Festnetz leicht gemacht. Im Alltag geht es wie in der Politik: Strukturen ändern, damit Klimaschutz „automatisch“ passiert – dauerhaft und wirksam. Anruf genügt - ich bin begeistert!
+[Zu Trustpilot](https://de.trustpilot.com/review/wetell.de)
 
-[Wie Michael Mittelwelle wählen](https://www.wetell.de/tarife/bestellen/?tarif=mittelwelle)
+[Wie Jasper dauerhaft wirksam sein](https://shop.wetell.de/private/mittelwelle/?tarif=mittelwelle)
 
-[Wie Markus Superfunk wählen](https://www.wetell.de/tarife/bestellen/?tarif=superfunk)
-
-Fair, nachhaltig und klimaneutral: Mit hehren moralischen Ansprüchen will das Start-up Wetell den Mobilfunkmarkt aufmischen. Eine ungewöhnliche Gesellschaftervereinbarung soll die Werteorientierung absichern.
-
-[Mehr Pressestimmen zu WEtell lesen](https://www.wetell.de/ueber-uns/medien/)
+[Zu Trustpilot](https://de.trustpilot.com/review/wetell.de)
 
 Wähle ein Feedback:
 
-Svenja WEtell Kundin Dr. Michael Bilharz Sprecher 3 fürs Klima e.V. und Initiator „Die Klimawette“ Markus WEtell Kunde WirtschaftsWoche Das führende Wirtschaftsmagazin
+Svenja WEtell Kundin Trustpilot-Theresa Jasper WEtell Kunde Trustpilot-Thomas
 
 Svenja WEtell Kundin
 
-Dr. Michael Bilharz Sprecher 3 fürs Klima e.V. und Initiator „Die Klimawette“
+Trustpilot-Theresa
 
-Markus WEtell Kunde
+Jasper WEtell Kunde
 
-WirtschaftsWoche Das führende Wirtschaftsmagazin
+Trustpilot-Thomas
 
 Infos gefällig?
 ----------
