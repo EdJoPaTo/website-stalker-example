@@ -89,3 +89,7 @@ Your way.
  Zorin OS
 
 [Visit Zorin](https://zorinos.com/)
+
+ Qubes 4.2.0
+
+[Visit Qubes](https://www.qubes-os.org/)
