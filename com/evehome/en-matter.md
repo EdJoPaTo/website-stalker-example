@@ -143,7 +143,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -194,7 +194,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -383,7 +383,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -434,7 +434,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
