@@ -52,17 +52,17 @@ Show SHA256 file integrity hash:a15f7854c0a8da260389902652c692d3ed7f6c93813ec87e
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: December 5th 2023
+* Release date: December 11th 2023
 * System: 32-bit
 * Kernel version: 6.1
 * Debian version: 12 (bookworm)
-* Size: 567MB
+* Size: 520MB
 
-Show SHA256 file integrity hash:ff3bdda2ac3033cf510a02d497dcaffdbc4a9a544768ea7492e81f625e90d5a4
+Show SHA256 file integrity hash:5df1850573c5e1418f70285c96deea2cfa87105cca976262f023c49b31cdd52b
 
 [Release notes](https://downloads.raspberrypi.com/raspios_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2023-12-06/2023-12-05-raspios-bookworm-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2023-12-06/2023-12-05-raspios-bookworm-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2023-12-11/2023-12-11-raspios-bookworm-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2023-12-11/2023-12-11-raspios-bookworm-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_armhf/images/)
 
 Raspberry Pi OS (64-bit)
 ----------
@@ -111,17 +111,17 @@ Show SHA256 file integrity hash:7c27aab283a1aa2ab1728745995e89c2aa1d2c04ab5813ea
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: December 5th 2023
+* Release date: December 11th 2023
 * System: 64-bit
 * Kernel version: 6.1
 * Debian version: 12 (bookworm)
-* Size: 434MB
+* Size: 433MB
 
-Show SHA256 file integrity hash:44f6b33ef6ff76029c20869372b55bbd685b766a9a10d1015fa07bebb6b8f1e6
+Show SHA256 file integrity hash:9ce5e2c8c6c7637cd2227fdaaf0e34633e6ebedf05f1c88e00f833cbb644db4b
 
 [Release notes](https://downloads.raspberrypi.com/raspios_lite_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2023-12-06/2023-12-05-raspios-bookworm-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2023-12-06/2023-12-05-raspios-bookworm-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2023-12-11/2023-12-11-raspios-bookworm-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2023-12-11/2023-12-11-raspios-bookworm-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_arm64/images/)
 
 Raspberry Pi OS (Legacy)
 ----------
