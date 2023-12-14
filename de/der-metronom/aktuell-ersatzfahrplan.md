@@ -40,14 +40,6 @@ Fahrgäste werden gebeten, sich tagesaktuell vor Reiseantritt in den elektronisc
 
 **Die SEV-Busse in Hamburg-Harburg können aufgrund von Straßenbaustellen nicht mehr den Bahnhofsvorplatz - wie in unserem Baustellenfahrplänen vermerkt - anfahren.** **Ab sofort fahren die Busse vom ZOB, Bereich F ab.**
 
-[Ersatzfahrplan metronom gesamt 10.12.23 bis 03.02.2024 PDF - 3,5 MB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/2024/FP-me-2024-gesamt-web.pdf)
-
-[Ersatzfahrplan metronom gesamt 28.08. bis 09.12.2023 PDF - 948,2 KB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/Bauarbeiten/Ersatzfahrplan-metronom-gesamt-28.08.2023-09.12.2023.pdf)
-
-[\+++ UPDATE (11.10.2023) Ersatzfahrplan Hamburg - Lüneburg - Uelzen und Gegenrichtung vom 28.08. bis 09.12.2023 PDF - 690,5 KB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/2023/Ersatzfahrplan-RE3-RB31.pdf)
-
-[Ersatzfahrplan Bremen - Hamburg und Gegenrichtung vom 28.08. bis 09.12.2023 PDF - 846,3 KB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/Bauarbeiten/Ersatzfahrplan-Bremen-Hamburg-und-Gegenrichtung.pdf)
-
-[Ersatzfahrplan Uelzen - Hannover - Göttingen und Gegenrichtung vom 28.08. bis 09.12.2023 PDF - 2,6 MB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/Bauarbeiten/Ersatzfahrplan-Uelzen-Hannover-Goettingen-und-Gegenrichtung.pdf)
+[Ersatzfahrplan metronom gesamt 10.12.23 bis 03.02.2024 PDF - 3,6 MB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/2024/FP-me-2024-gesamt-web.pdf)
 
 [zurück zur Übersicht](https://www.der-metronom.de/unternehmen/aktuelle-meldungen/)
