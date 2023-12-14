@@ -3,12 +3,12 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[RE4/RB41: Streckensperrung wg. Oberleitungsschaden in Rotenburg](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-wg-oberleitungsschaden-in-rotenburg/)
+[RE4/RB41: Streckensperrung wg. Oberleitungsschaden in Ottersberg](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-wg-oberleitungsschaden-in-rotenburg/)
 
  Uelzen - 14.12.2023
 
-Aufgrund einer Beschädigung der Oberleitung ist die Strecke zwischen Hamburg Hbf – Bremen Hbf bei Rotenburg in beiden Fahrtrichtungen gesperrt.
-Fahrgäste auf der metronom-Linie RE4/RB41 werden gebeten, sich in den digitalen Auskunftsmedien zu informieren. Achtet außerdem auf die Durchsagen im...
+Aufgrund eines Oberleitungsschadens bei Ottersberg ist die Strecke Hamburg Hbf - Bremen Hbf zwischen Ottersberg und Sottrum in beiden Fahrtrichtungen gesperrt.
+Zwischen Bramen Hbf - Rotenburg (Wümme) ist ein Busnotverkehr (BNV) im Pendel mit Halt in Bremen-Oberneuland, Sagehorn, Ottersberg und...
 
 [](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
