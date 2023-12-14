@@ -17,17 +17,6 @@ by
 mikhailkoliada]]></content:encoded>
 		</item>
 		<item>
-			<title>[all OSs] Nodejs 14.x will be removed from the images on November, 26</title>
-			<link>https://github.com/actions/runner-images/issues/8779</link>
-			<pubDate>Fri, 10 Nov 2023 16:05:33 +0000</pubDate>
-			<content:encoded><![CDATA[#8779
-opened
-Nov 10, 2023
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
 			<title>Major Refactoring of GitHub Actions Runner Images Repository</title>
 			<link>https://github.com/actions/runner-images/issues/8706</link>
 			<pubDate>Wed, 01 Nov 2023 18:04:31 +0000</pubDate>
