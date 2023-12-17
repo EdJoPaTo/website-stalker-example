@@ -20,7 +20,7 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[17.12.2023 RE2 nächtlicher Haltausfall 82841 zwischen Hannover Hbf und Banteln](https://www.der-metronom.de/baustellen/re2-naechtlicher-haltausfall-82841-zwischen-hannover-hbf-und-banteln/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
