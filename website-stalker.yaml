@@ -268,7 +268,7 @@ sites:
   - url: https://www.evehome.com/en/blog
     editors:
       - regex_replace:
-          pattern: "\/index%2Ephp\/"
+          pattern: "\/index%2.php\/"
           replace: /
       - rss:
           item_selector: .blog-post-teaser
