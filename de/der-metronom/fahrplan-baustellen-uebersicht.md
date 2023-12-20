@@ -22,11 +22,17 @@ RE2 Hannover - Northeim - Göttingen
 
 [23.01.2024 RE2 veränderte Fahrtzeit](https://www.der-metronom.de/baustellen/re2-veraenderte-fahrtzeit/)
 
+[26.01.2024 RE2 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re2-naechtliche-halteausfaelle/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [08.01.2024 - 12.01.2024 RB31 nächtlicher Haltausfall Ashausen, Radbruch, Bardowick](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-ashausen-radbruch-bardowick/)
 
+[15.01.2024 - 16.01.2024 RE3+RB31 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-2/)
+
 [17.01.2024 - 19.12.2023 RE3+RB31 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle/)
+
+[23.01.2024 - 24.01.2024 RE3+RB31 nächtlicher Haltausfall](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-zugausfall/)
 
 [28.01.2024 - 29.01.2024 RE3/RB31 nächtliche Haltausfälle Ashausen und Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-und-bardowick/)
 
@@ -34,7 +40,7 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
-[15.01.2024 - 20.01.2024 RB41 nächtliche Zugausfälle](https://www.der-metronom.de/baustellen/rb41-naechtliche-zugausfaelle/)
+[15.01.2024 - 20.01.2024 RB41 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/rb41-naechtliche-zugausfaelle/)
 
 [23.01.2024 - 24.01.2024 RB41 nächtlicher Zugausfall](https://www.der-metronom.de/baustellen/rb41-naechtlicher-zugausfall/)
 
