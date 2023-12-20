@@ -6,7 +6,7 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>[Ubuntu] buildpack-deps docker images will be removed from images on January, 8</title>
+			<title>[Ubuntu] buildpack-deps docker images will be removed from runners on January, 8</title>
 			<link>https://github.com/actions/runner-images/issues/9053</link>
 			<pubDate>Wed, 20 Dec 2023 12:29:51 +0000</pubDate>
 			<content:encoded><![CDATA[#9053
