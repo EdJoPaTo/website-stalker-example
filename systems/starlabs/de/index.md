@@ -88,6 +88,8 @@ Your way.
 
  Zorin OS
 
+ Core, Pro
+
 [Visit Zorin](https://zorinos.com/)
 
  Qubes 4.2.0
