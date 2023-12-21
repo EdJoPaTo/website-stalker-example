@@ -100,7 +100,7 @@ mit jedem Set ein Gratis Artikel!
 
 ---
 
-[Set entdecken](https://www.engelbert-strauss.de/weihnachten-bekleidungs-sets/set-bundhose-winter-bundhose-e-s-motion-3163730-15683-281.html?itemorigin=startseite_xmas23&__mode=stripped)
+[Set entdecken](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/set-bundhose-winter-bundhose-e-s-motion-3163730-15683-281.html?itemorigin=startseite_xmas23&__mode=stripped)
 
  04
 ---
