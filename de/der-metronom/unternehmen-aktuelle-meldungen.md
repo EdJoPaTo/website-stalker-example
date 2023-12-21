@@ -8,7 +8,9 @@ Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störun
  21.12.2023
 
 Liebe Fahrgäste,
-aufgrund eines Baums im Gleis kommt es zwischen Hamburg Hauptbahnhof und Tostedt in beiden Richtungen zu Ausfällen. Die Strecke zwischen Hamburg Harburg und Tostedt ist gesperrt. Ein Busnotverkehr ist eingerichtet. Ab Hamburg Harburg verweisen wir auf die S-Bahn oder die...
+RE4/RB41
+Alle Züge fahren eine Umleitung über Jesteburg, da die Stecke zwischen Buchholz und Hamburg Harburg aufgrund eines Baumes im Gleis gesperrt ist. Es entfallen die Halte Hittfeld, Klecken und Buchholz.
+Die Geschwindigkeit wurde witterungsbedingt auf allen Strecke auf 80...
 
 [](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
