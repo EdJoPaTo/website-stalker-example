@@ -207,7 +207,7 @@ mit jedem Set ein Gratis Artikel!
 \+ 1x GRATIS Lunchbox Set XL
 \+ 1x GRATIS e.s. Besteckset
 
-[Set kaufen](https://www.engelbert-strauss.de/weihnachten-bekleidungs-sets/set-bundhose-winter-bundhose-e-s-motion-2020-3163600-15568-962.html?itemorigin=startseite_xmas23)
+[Set kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/set-bundhose-winter-bundhose-e-s-motion-2020-3163600-15568-962.html?itemorigin=startseite_xmas23)
 
  Zu jedem Set ein Gratis Artikel!
 ----------
