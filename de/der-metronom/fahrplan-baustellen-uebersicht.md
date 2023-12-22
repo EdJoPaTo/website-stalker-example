@@ -28,6 +28,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [08.01.2024 - 12.01.2024 RB31 nächtlicher Haltausfall Ashausen, Radbruch, Bardowick](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-ashausen-radbruch-bardowick/)
 
+[15.01.2024 - 16.01.2024 RE3+RB31 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-2/)
+
 [17.01.2024 - 19.12.2023 RE3+RB31 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle/)
 
 [28.01.2024 - 29.01.2024 RE3/RB31 nächtliche Haltausfälle Ashausen und Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-und-bardowick/)
