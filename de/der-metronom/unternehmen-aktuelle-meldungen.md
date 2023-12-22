@@ -3,14 +3,12 @@ AKTUELLE MELDUNGEN
 
 Nicht immer läuft bei der Eisenbahn alles nach Plan. Außerplanmäßige Störungen, Bauarbeiten oder andere Einflüsse können den Fahrplan schon mal ordentlich durcheinander bringen. Um bei solchen Beeinträchtigungen auf dem Laufenden zu bleiben, empfiehlt sich der Blick in unsere aktuellen Meldungen.
 
-[RE4/RB41: Streckenabschnitt zwischen Hamburg Hauptbahnhof und Tostedt aufgrund von Baum im Gleis in beiden Richtungen gesperrt](https://www.der-metronom.de/aktuell/re4-rb41-streckenabschnitt-zwischen-hamburg-hauptbahnhof-und-tostedt-aufgrund-von-baum-im-gleis-in-beiden-richtungen-gesperrt/)
+[Einschränkungen im Bahnverkehr aufgrund Sturmtief Zoltan](https://www.der-metronom.de/aktuell/re4-rb41-streckenabschnitt-zwischen-hamburg-hauptbahnhof-und-tostedt-aufgrund-von-baum-im-gleis-in-beiden-richtungen-gesperrt/)
 
  21.12.2023
 
 Liebe Fahrgäste,
-RE4/RB41
-Alle Züge fahren eine Umleitung über Jesteburg, da die Stecke zwischen Buchholz und Hamburg Harburg aufgrund eines Baumes im Gleis gesperrt ist. Es entfallen die Halte Hittfeld, Klecken und Buchholz.
-Die Geschwindigkeit wurde witterungsbedingt auf allen Strecke auf 80...
+aufgrund des Sturmtiefs Zoltan verkehrt der metronom auf den Strecken Uelzen – Hamburg RE3/RB31 und Hamburg – Bremen RE4/RB41 bis Freitag um 08:00 Uhr mit einer verminderten Geschwindigkeit von 80 Km/h. Dadurch kommt es zu Verspätungen auf allen Strecken. Bitte erkundigen sie...
 
 [](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
