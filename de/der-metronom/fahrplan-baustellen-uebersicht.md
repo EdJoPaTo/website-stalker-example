@@ -30,9 +30,9 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [15.01.2024 - 16.01.2024 RE3+RB31 nächtliche Züge nur bis/ab Harburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-2/)
 
-[17.01.2024 - 19.12.2023 RE3+RB31 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle/)
+[17.01.2024 - 19.12.2023 RB31 nächtliche Halteausfälle LG \<\> HH](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle/)
 
-[28.01.2024 - 29.01.2024 RE3/RB31 nächtliche Haltausfälle Ashausen und Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-und-bardowick/)
+[28.01.2024 - 29.01.2024 RB31 nächtliche Haltausfälle LG \> HH](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-und-bardowick/)
 
 [30.01.2024 - 31.01.2024 RB31 nächtliche Haltausfälle HH \> LG](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall/)
 
