@@ -28,13 +28,15 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [08.01.2024 - 12.01.2024 RB31 nächtlicher Haltausfall Ashausen, Radbruch, Bardowick](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-ashausen-radbruch-bardowick/)
 
-[15.01.2024 - 16.01.2024 RE3+RB31 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-2/)
+[15.01.2024 - 16.01.2024 RE3+RB31 nächtliche Züge nur bis/ab Harburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-2/)
 
 [17.01.2024 - 19.12.2023 RE3+RB31 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle/)
 
 [28.01.2024 - 29.01.2024 RE3/RB31 nächtliche Haltausfälle Ashausen und Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-und-bardowick/)
 
-[30.01.2024 - 31.01.2024 RE3+RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall/)
+[30.01.2024 - 31.01.2024 RB31 nächtliche Haltausfälle HH \> LG](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall/)
+
+[31.01.2024 - 01.02.2024 RB31 nächtliche Haltausfälle Ashausen LG \> HH](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ashausen-lg-hh/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
@@ -43,6 +45,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 [15.01.2024 - 20.01.2024 RB41 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/rb41-naechtliche-zugausfaelle/)
 
 [23.01.2024 - 24.01.2024 RB41 nächtlicher Zugausfall](https://www.der-metronom.de/baustellen/rb41-naechtlicher-zugausfall/)
+
+[29.01.2024 RB 41 Zwei nächtliche Verbindungen nur bis/ab Harburg](https://www.der-metronom.de/baustellen/rb-41-zwei-naechtliche-verbindungen-nur-bis-ab-harburg/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
