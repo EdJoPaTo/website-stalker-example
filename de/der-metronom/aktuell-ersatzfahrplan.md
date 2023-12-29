@@ -27,4 +27,4 @@ Die SEV-Busse in Hamburg-Harburg können aufgrund von Straßenbaustellen nicht m
 
 [Ersatzfahrplan metronom gesamt 10.12.23 bis 03.02.2024 PDF - 3,6 MB](https://www.der-metronom.de/media/metronom/downloads/fahrplan/2024/FP-me-2024-gesamt-web.pdf)
 
-[zurück zur Übersicht](https://www.der-metronom.de/unternehmen/aktuelle-meldungen/)
+[zurück zur Übersicht](https://www.der-metronom.de/unternehmen/aktuelles/)
