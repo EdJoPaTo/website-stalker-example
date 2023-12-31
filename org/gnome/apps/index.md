@@ -34,7 +34,7 @@ GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-
 * [**Music**Play and organize your music collection](Music/)
 * [**Settings**Utility to configure the GNOME desktop](Settings/)
 * [**Software**Install and update apps](Software/)
-* [**System Monitor**View and manage system resources](GnomeSystemMonitor/)
+* [**System Monitor**View and manage system resources](SystemMonitor/)
 * [**Text Editor**Edit text files](TextEditor/)
 * [**Tour**GNOME Tour and Greeter](Tour/)
 * [**Videos**Play movies](Totem/)
