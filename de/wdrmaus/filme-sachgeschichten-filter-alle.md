@@ -656,6 +656,7 @@
 * [Markierte Bäume](https://www.wdrmaus.de/filme/sachgeschichten/markierte_baeume.php5)
 * [Marokko-Maus](https://www.wdrmaus.de/filme/sachgeschichten/marokko.php5)
 * [Martin Luther](https://www.wdrmaus.de/filme/sachgeschichten/martin_luther.php5)
+* [Marzipanschwein](https://www.wdrmaus.de/filme/sachgeschichten/marzipanschwein.php5)
 * [Maske: Funktion](https://www.wdrmaus.de/filme/sachgeschichten/maske_funktion.php5)
 * [Maßband](https://www.wdrmaus.de/filme/sachgeschichten/massband.php5)
 * [Matratze](https://www.wdrmaus.de/filme/sachgeschichten/matratze.php5)
