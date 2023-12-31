@@ -166,13 +166,14 @@ sites:
       - html_markdownify
 
   - url:
-      - https://www.der-metronom.de/unternehmen/aktuelle-meldungen/
-      - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
-      - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
       - https://www.der-metronom.de/aktuell/ersatzfahrplan/
+      - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
+      - https://www.der-metronom.de/fahrplan/aktuelle-verkehrslage/
+      - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
+      - https://www.der-metronom.de/unternehmen/aktuelles/
     editors:
       - css_select: "#content"
-      - css_remove: form, .module-form, script, figure, img, svg, hr, .breadcrumb, .malfunction, a[title=weiterlesen]
+      - css_remove: "form, .module-form, script, figure, img, svg, hr, .breadcrumb, .image, .malfunction, a[title=weiterlesen], #routeContainer"
       - html_url_canonicalize
       - html_markdownify
 
