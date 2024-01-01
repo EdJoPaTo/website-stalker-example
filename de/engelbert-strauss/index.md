@@ -1,19 +1,21 @@
-Motion 2020
+[jetzt selbst gestalten](https://mymotion-configurator.engelbert-strauss.com/)
+
+ e.s.motion 2020
+---
+
+schwarz-
+
 ----------
 
 ---
 
- Winter
+seegrün
+
 ----------
 
 ---
 
-###  Frische Farben, warme Styles: Motion 2020
-setzt ein Statement gegen das Wintergrau  ###
-
----
-
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=motion2020%20winter%20schwarz%20warngelb&itemorigin=startseite_hw23Winter)
+[mehr erfahren](https://www.engelbert-strauss.de/mymotion)
 
  Winter-
 Jacken
