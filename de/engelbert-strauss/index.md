@@ -128,6 +128,29 @@ Profis
 
 [mehr erfahren](https://www.engelbert-strauss.de/funktionsbekleidung/?itemorigin=startseite_hw23Winter)
 
+ Aktions-set:
+----------
+
+---
+
+2x Microfleece Jacke dryplexx Micro
+\+ 1x **GRATIS** e.s. Trinkflasche Tritan
+
+---
+
+[jetzt kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/set-2x-microfleece-jacke-dryplexx-micro-3134810-15640-1.html?amp;itemOrigin=StartseiteHW23Winter)
+
+ Alle
+Aktions-
+sets
+---
+
+Nur noch für kurze Zeit: im Setpreis **bis zu 45 % sparen**, oder tolle **GRATIS Zugaben** erhalten.
+
+---
+
+[Zu allen Aktionssets](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/?sort=newest%3Fitemorigin%3Dstartseitehw23winter)
+
  für Sie, Ihn und für Kids
 ---
 
