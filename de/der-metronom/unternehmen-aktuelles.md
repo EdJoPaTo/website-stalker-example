@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
+
+ 04.01.2024
+
+ Die Landesnahverkehrsgesellschaft Niedersachsen (LNVG) wird ab dem 15. Januar 2024 von Montag bis Freitag sechs Direktzüge von dem Unternehmen Start Unterelbe zwischen Winsen und Harburg einsetzen. Der Ein- und Ausstieg ist aus Zeitgründen nur in Harburg und Winsen möglich.
+Diese Verbindungen...
+
 [Update: metronom setzt Ersatzfahrplan bis 03. Februar 2024 fort](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  28.11.2023
