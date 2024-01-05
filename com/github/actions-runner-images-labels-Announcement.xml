@@ -6,6 +6,17 @@
 		<description>GitHub Actions runner images. Contribute to actions/runner-images development by creating an account on GitHub.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>[All OSes] Powershell Core will be updated to 7.4.x LTS on January, 28</title>
+			<link>https://github.com/actions/runner-images/issues/9115</link>
+			<pubDate>Fri, 05 Jan 2024 13:59:57 +0000</pubDate>
+			<content:encoded><![CDATA[#9115
+opened
+Jan 5, 2024
+by
+
+mikhailkoliada]]></content:encoded>
+		</item>
+		<item>
 			<title>[Ubuntu] buildpack-deps docker images will be removed from runners on January, 8</title>
 			<link>https://github.com/actions/runner-images/issues/9053</link>
 			<pubDate>Wed, 20 Dec 2023 12:29:51 +0000</pubDate>
