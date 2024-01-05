@@ -15,7 +15,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
+[Ab 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
  04.01.2024
 
