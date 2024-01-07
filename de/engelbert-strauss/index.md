@@ -1,23 +1,4 @@
-[jetzt selbst gestalten](https://mymotion-configurator.engelbert-strauss.com/)
-
- e.s.motion 2020
----
-
-schwarz-
-
-----------
-
----
-
-seegrün
-
-----------
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/mymotion)
-
- Winter-
+Winter-
 Jacken
 ----------
 
