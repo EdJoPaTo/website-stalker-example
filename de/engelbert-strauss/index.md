@@ -49,7 +49,7 @@ STRAUSS
  Coming soon
 ---
 
-[Zum Gewinnspiel](https://www.instagram.com/engelbert_strauss/)
+[Zum Gewinnspiel](https://www.instagram.com/p/C1yxIShsbIv/)
 
  Unsere Kälte-Helden
 ---
