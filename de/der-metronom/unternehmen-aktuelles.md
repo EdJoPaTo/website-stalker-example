@@ -22,11 +22,11 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
  Die Landesnahverkehrsgesellschaft Niedersachsen (LNVG) wird ab dem 15. Januar 2024 von Montag bis Freitag sechs Direktzüge von dem Unternehmen Start Unterelbe zwischen Winsen und Harburg einsetzen. Der Ein- und Ausstieg ist aus Zeitgründen nur in Harburg und Winsen möglich.
 Diese Verbindungen...
 
-[RE3/RB31 und RE4/RB41: Züge nach und ab Hamburg Hbf enden und beginnen in Hamburg-Harburg](https://www.der-metronom.de/aktuell/re3-rb31-und-re4-rb41-zuege-nach-und-ab-hamburg-hbf-enden-und-beginnen-in-hamburg-harburg/)
+[RE3/RB31 und RE4/RB41: Züge enden und beginnen wieder in Hamburg Hbf](https://www.der-metronom.de/aktuell/re3-rb31-und-re4-rb41-zuege-nach-und-ab-hamburg-hbf-enden-und-beginnen-in-hamburg-harburg/)
 
  Uelzen - 08.01.2024
 
-Aufgrund einer Störung im Zugfunk (GSM-R) kann der Hauptbahnhof Hamburg aktuell nicht angefahren werden. Die Züge von und nach Hamburg Hbf enden und beginnen daher bereits in Hamburg-Harburg. Fahrgäste können zwischen Hamburg Hbf und Hamburg-Harburg sowie in der Gegenrichtung die S-Bahn nutzen -...
+Die Störung des Zugfunks im Bereich Hamburg ist behoben. Es kommt jedoch noch zu Verspätungen und ggf. zu Teilausfällen.
 
 [Update: metronom setzt Ersatzfahrplan bis 03. Februar 2024 fort](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
