@@ -28,12 +28,6 @@ Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für den 09. Januar, ab 18
  Die Landesnahverkehrsgesellschaft Niedersachsen (LNVG) wird ab dem 15. Januar 2024 von Montag bis Freitag sechs Direktzüge von dem Unternehmen Start Unterelbe zwischen Winsen und Harburg einsetzen. Der Ein- und Ausstieg ist aus Zeitgründen nur in Harburg und Winsen möglich.
 Diese Verbindungen...
 
-[RE3/RB31 und RE4/RB41: Züge enden und beginnen wieder in Hamburg Hbf](https://www.der-metronom.de/aktuell/re3-rb31-und-re4-rb41-zuege-nach-und-ab-hamburg-hbf-enden-und-beginnen-in-hamburg-harburg/)
-
- Uelzen - 08.01.2024
-
-Die Störung des Zugfunks im Bereich Hamburg ist behoben. Es kommt jedoch noch zu Verspätungen und ggf. zu Teilausfällen.
-
 [Update: metronom setzt Ersatzfahrplan bis 03. Februar 2024 fort](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  28.11.2023
