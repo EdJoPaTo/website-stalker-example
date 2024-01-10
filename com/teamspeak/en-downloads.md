@@ -8,35 +8,35 @@ TeamSpeak is the ONLY tool you will need to connect online.
  Windows
 ----------
 
-###  Client 64-Bit  5.0.0-beta76  ###
+###  Client 64-Bit  5.0.0-beta77  ###
 
 ```
-SHA256: 1c4d4f631696b16d2b96b0e3df7d4a2734c2a84250bb21d463f2e7ee4997f276
+SHA256: 44ef7e071d6a5be10ada913a3d40996e202a2b02d3353746ba52dc98771f0604
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta76/teamspeak-client.msi)
+[Download](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta77/teamspeak-client.msi)
 
  macOS
 ----------
 
-###  Client 64-Bit  5.0.0-beta76  ###
+###  Client 64-Bit  5.0.0-beta77  ###
 
 ```
-SHA256: f8668657fca5d8a1c01ad0cc3b96a66072e6cbeacf623e2e824394176c1fe5b9
+SHA256: ab8f4b0f04a514f60a32dc48339aa4608460696f58f3e29ecfcc6f2e16bab86b
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta76/teamspeak-client.dmg)
+[Download](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta77/teamspeak-client.dmg)
 
  Linux
 ----------
 
-###  Client 64-Bit  5.0.0-beta76  ###
+###  Client 64-Bit  5.0.0-beta77  ###
 
 ```
-SHA256: c4c74d862464a48bd04f9ac76b6f1c13eb0d8b46c2f07ec32530ef15a185f8bb
+SHA256: 6f3bf97b120d3c799cefc90c448e45836708a826d7caa07ad32b5c868eb9181b
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta76/teamspeak-client.tar.gz)
+[Download](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta77/teamspeak-client.tar.gz)
 
  Windows
 ----------
