@@ -15,6 +15,12 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE3/RB31: Streckensperrung zwischen Uelzen und Lüneburg](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-uelzen-und-lueneburg/)
+
+ 10.01.2024
+
+Aufgrund einer Signalstörung bei Bienenbüttel ist die Strecke zwischen Lüneburg und Uelzen sowie in Gegenrichtung gesperrt. Es kommt zu erheblichen Verspätungen und kurzfristigen (Teil-)Ausfällen.Züge aus Richtung Hamburg Hbf wenden bereits in Lüneburg zurück nach Hamburg Hbf. Ein Busnotverkehr...
+
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
  Uelzen - 08.01.2024
