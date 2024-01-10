@@ -98,7 +98,7 @@ unterwäsche
 
 [alle Produkte](https://www.engelbert-strauss.de/funktionssocken/?itemorigin=StartseiteHW23Winter)
 
-[jetzt selbst gestalten](https://mymotion-configurator.engelbert-strauss.com/)
+[jetzt selbst gestalten](https://www.engelbert-strauss.de/mymotion)
 
  Warnschutzkleidung
 ---
