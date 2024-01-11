@@ -28,6 +28,12 @@ Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für Dienstag, den 09. Jan
  Die Landesnahverkehrsgesellschaft Niedersachsen (LNVG) wird ab dem 15. Januar 2024 von Montag bis Freitag sechs Direktzüge von dem Unternehmen Start Unterelbe zwischen Winsen und Harburg einsetzen. Der Ein- und Ausstieg ist aus Zeitgründen nur in Harburg und Winsen möglich.
 Diese Verbindungen...
 
+[Lüneburg Gleis 1: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-1-erneuerung-des-aufzuges-barrierefreies-reisen/)
+
+ Uelzen - 08.01.2024
+
+Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
+
 [Update: metronom setzt Ersatzfahrplan bis 03. Februar 2024 fort](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
 
  28.11.2023
