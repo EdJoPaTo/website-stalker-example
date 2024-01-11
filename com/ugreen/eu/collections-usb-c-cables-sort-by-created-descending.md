@@ -38,7 +38,7 @@ WHAT IS MFi ?MFi is a kind of express license for external accessories produced 
 
 UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable
 
-### [UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery](https://eu.ugreen.com/products/ugreen-2-pack-usb-c-to-usb-c-charger-cable-100w-65w-power-delivery) ###
+### [UGREEN 2 Pack USB C to USB C Charger Cable 100W Power Delivery](https://eu.ugreen.com/products/ugreen-2-pack-usb-c-to-usb-c-charger-cable-100w-65w-power-delivery) ###
 
 UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery
 
