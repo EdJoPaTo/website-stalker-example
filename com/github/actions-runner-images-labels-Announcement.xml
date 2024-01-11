@@ -17,34 +17,12 @@ by
 mikhailkoliada]]></content:encoded>
 		</item>
 		<item>
-			<title>[Ubuntu] buildpack-deps docker images will be removed from runners on January, 8</title>
-			<link>https://github.com/actions/runner-images/issues/9053</link>
-			<pubDate>Wed, 20 Dec 2023 12:29:51 +0000</pubDate>
-			<content:encoded><![CDATA[#9053
-opened
-Dec 20, 2023
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
 			<title>Old versions of Android SDK &amp; tools will be removed from images on January, 8</title>
 			<link>https://github.com/actions/runner-images/issues/8952</link>
 			<pubDate>Tue, 05 Dec 2023 12:21:39 +0000</pubDate>
 			<content:encoded><![CDATA[#8952
 opened
 Dec 5, 2023
-by
-
-mikhailkoliada]]></content:encoded>
-		</item>
-		<item>
-			<title>Major Refactoring of GitHub Actions Runner Images Repository</title>
-			<link>https://github.com/actions/runner-images/issues/8706</link>
-			<pubDate>Wed, 01 Nov 2023 18:04:31 +0000</pubDate>
-			<content:encoded><![CDATA[#8706
-opened
-Nov 1, 2023
 by
 
 mikhailkoliada]]></content:encoded>
