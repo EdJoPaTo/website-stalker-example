@@ -15,6 +15,14 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Aktuell keine Verkehr-Echtzeitdaten verfügbar!](https://www.der-metronom.de/aktuell/aktuell-keine-verkehr-echtzeitdaten-verfuegbar/)
+
+ 11.01.2024
+
+Aufgrund einer technischen Störung sind derzeit keine Echtzeitdaten über die jeweiligen Zugverbindungen bzw. Ankünfte und Abfahrten abrufbar.
+Bitte unbedingt die Durchsagen im Bahnhof, auf dem Bahnsteig oder im Zug beachten!
+Der Anbieter der technischen Plattform arbeitet mit Hochdruck an einer...
+
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
  Uelzen - 08.01.2024
@@ -48,8 +56,6 @@ Der metronom wird wegen...
 Liebe Fahrgäste,
 wir wissen, die aktuelle Zeit...
 
-[Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
+ Seite 1 von 2
 
- Uelzen - 21.08.2023
-
-Die Deutsche Bahn tauscht am Bahnhof Rotenburg...
+ 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
