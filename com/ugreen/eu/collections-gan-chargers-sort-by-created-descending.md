@@ -8,6 +8,8 @@
 
 ### [Nexode Pro 65W 3-Port GaN Ultra-Slim Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-65w-ultra-slim-gan-fast-charger) ###
 
+ Previous page Next page Previous page Next page Previous page Next page 1 3-Port Ausgang 2 2-Port Ausgang 3 1-Port Ausgang
+
 ### [Nexode Pro 65W 3-Port GaN Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-65w-gan-fast-charger) ###
 
 ### [Ugreen Nexode 65W 3 Ports USB C GaN Charger + 1M 60W USB C Cable](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-gan-charger-3-ports-wall-charger-1m-60w-usb-c-cable) ###
