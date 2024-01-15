@@ -42,15 +42,6 @@ schuhe
 
 [alle Produkte](https://www.engelbert-strauss.de/sicherheitsstiefel/?itemorigin=startseite_hw23Winter)
 
- NFL X
-STRAUSS
----
-
- Coming soon
----
-
-[Zum Gewinnspiel](https://www.instagram.com/p/C1yxIShsbIv/)
-
  Unsere Kälte-Helden
 ---
 
