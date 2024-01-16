@@ -119,6 +119,12 @@ other
 
 updated 2023-03-24
 
+[Assembling the Pi5 Steel case](https://www.hifiberry.com/docs/hardware/assembling-the-pi5-steel-case/)
+
+other
+
+updated 2024-01-16
+
 [Software](https://www.hifiberry.com/docs/software/)
 
 [Configuring Linux 4.x or higher](https://www.hifiberry.com/docs/software/configuring-linux-3-18-x/)
