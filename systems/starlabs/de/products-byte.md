@@ -72,11 +72,11 @@ elementary OS 7.1 Pantheon
 
 KUbuntu LTS 22.04.3
 
-Linux Mint 21.2 Cinnamon
+Linux Mint 21.3 Cinnamon
 
-Linux Mint 21.2 MATE
+Linux Mint 21.3 MATE
 
-Linux Mint 21.2 XFCE
+Linux Mint 21.3 XFCE
 
 Manjaro 22 GNOME
 
@@ -84,11 +84,11 @@ Manjaro 22 Plasma
 
 Manjaro 22 XFCE
 
-MX Linux 23 XFCE
+MX Linux 23.1 XFCE
 
-MX Linux 23 KDE
+MX Linux 23.1 KDE
 
-MX Linux 23 Fluxbox
+MX Linux 23.1 Fluxbox
 
 Ubuntu LTS 22.04.3 MATE
 
