@@ -649,6 +649,7 @@
 * [Making of Die Sendung mit der Maus](https://www.wdrmaus.de/filme/sachgeschichten/making_of_maus.php5)
 * [Making of Maussong](https://www.wdrmaus.de/filme/sachgeschichten/making_of_maussong.php5)
 * [Making of Shaun das Schaf](https://www.wdrmaus.de/filme/sachgeschichten/making_of_shaun_das_schaf.php5)
+* [Making-of: Varusschlacht](https://www.wdrmaus.de/filme/sachgeschichten/making_of_varusschlacht.php5)
 * [Makkaroni](https://www.wdrmaus.de/filme/sachgeschichten/makkaoni.php5)
 * [Malerfolie](https://www.wdrmaus.de/filme/sachgeschichten/malerfolie.php5)
 * [Malzbier](https://www.wdrmaus.de/filme/sachgeschichten/malzbier.php5)
