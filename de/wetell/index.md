@@ -268,23 +268,23 @@ Stimmen zu WEtell:
 
 [Wie Svenja Mittelwelle wählen](https://www.wetell.de/tarife/bestellen/?tarif=mittelwelle)
 
-[Zu Trustpilot](https://de.trustpilot.com/review/wetell.de)
+Das junge Unternehmen WEtell aus Freiburg ist ein Mobilfunkanbieter mit Visionen. Seit Juli 2020 am Markt, setzt unsere Kundin von Anfang an auf Nachhaltigkeit: 100% Klimaschutz, Datenschutz, Fairness und Transparenz.
 
 [Wie Jasper dauerhaft wirksam sein](https://shop.wetell.de/private/mittelwelle/?tarif=mittelwelle)
 
-[Zu Trustpilot](https://de.trustpilot.com/review/wetell.de)
+Fair, nachhaltig und klimaneutral: Mit hehren moralischen Ansprüchen will das Start-up Wetell den Mobilfunkmarkt aufmischen. Eine ungewöhnliche Gesellschaftervereinbarung soll die Werteorientierung absichern.
 
 Wähle ein Feedback:
 
-Svenja WEtell Kundin Trustpilot-Theresa Jasper WEtell Kunde Trustpilot-Thomas
+Svenja WEtell Kundin GLS Bank GLS Bank Jasper WEtell Kunde WirtschaftsWoche Das führende Wirtschaftsmagazin
 
 Svenja WEtell Kundin
 
-Trustpilot-Theresa
+GLS Bank GLS Bank
 
 Jasper WEtell Kunde
 
-Trustpilot-Thomas
+WirtschaftsWoche Das führende Wirtschaftsmagazin
 
 Infos gefällig?
 ----------
