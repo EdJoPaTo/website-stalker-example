@@ -96,8 +96,11 @@ Dein neuer Mobilfunktarif
 **Inkl. MehrWert Vorteil:**
  25€ Gutschrift auf deine erste Rechnung
 
-**123**
- 123
+**Für Tomorrow Bank Kund\*innen**
+ Ein ganzes Jahr 2€ pro Monat sparen!
+
+**Inkl. DB-Vorteil!**
+ Ein ganzes Jahr 2€ pro Monat sparen!
 
 Wieviel Datenvolumen brauchst Du im Monat?
 
