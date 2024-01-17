@@ -121,9 +121,9 @@ updated 2023-03-24
 
 [Assembling the Pi5 Steel case](https://www.hifiberry.com/docs/hardware/assembling-the-pi5-steel-case/)
 
-other
+assembly, case, first steps, hardware
 
-updated 2024-01-16
+updated 2024-01-17
 
 [Software](https://www.hifiberry.com/docs/software/)
 
