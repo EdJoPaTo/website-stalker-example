@@ -20,8 +20,6 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[20.01.2024 - 21.01.2024 RE2 nächtlicher Ausfall Hannover \> Göttingen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ausfall-hannover-goettingen/)
-
 [23.01.2024 RE2 veränderte Fahrtzeit](https://www.der-metronom.de/baustellen/re2-veraenderte-fahrtzeit/)
 
 [26.01.2024 RE2 nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re2-naechtliche-halteausfaelle/)
