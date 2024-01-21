@@ -1,16 +1,4 @@
-NFL X
- STRAUSS
-----------
-
----
-
-###  Unser nächster Spielzug  ###
-
----
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/NFL)
-
- Winter-
+Winter-
 Jacken
 ----------
 
@@ -53,6 +41,15 @@ schuhe
 ---
 
 [alle Produkte](https://www.engelbert-strauss.de/sicherheitsstiefel/?itemorigin=startseite_hw23Winter)
+
+ NFL X
+STRAUSS
+---
+
+ Unser nächster Spielzug.
+---
+
+[Kollektion entdecken](https://www.engelbert-strauss.de/NFL)
 
  Unsere Kälte-Helden
 ---
