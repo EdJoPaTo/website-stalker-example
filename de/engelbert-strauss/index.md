@@ -46,7 +46,7 @@ schuhe
 STRAUSS
 ---
 
- Unser nächster Spielzug.
+ Unser nächster Spielzug
 ---
 
 [Kollektion entdecken](https://www.engelbert-strauss.de/NFL)
