@@ -19,14 +19,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
  Uelzen - 22.01.2024
 
-Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für Mittwoch, 24.01.2024, 02:00 Uhr bis 29.01.2024, 18:00 Uhr zu einem weiteren Streik aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH, zu dem auch die Mitarbeitenden von enno gehören, sind nicht zum...
+Die Gewerkschaft Deutscher Lokomotivführer...
 
 [Ab 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
  08.01.2024
 
- Die Landesnahverkehrsgesellschaft Niedersachsen (LNVG) wird ab dem 15. Januar 2024 von Montag bis Freitag sechs Direktzüge von dem Unternehmen Start Unterelbe zwischen Winsen und Harburg einsetzen. Der Ein- und Ausstieg ist aus Zeitgründen nur in Harburg und Winsen möglich.
-Diese Verbindungen...
+ Die Landesnahverkehrsgesellschaft...
 
 [Lüneburg Gleis 1: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-1-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
