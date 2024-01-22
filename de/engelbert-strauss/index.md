@@ -1,4 +1,22 @@
-Winter-
+###  WINTER SALE  ###
+
+---
+
+ Bis zu 49 %
+sparen
+----------
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Herren/)
+
+[Damen](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Damen/)
+
+[Kinder](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Kinder/)
+
+[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest%3Famp;itemorigin%3Dstartseite_hw23winter)
+
+ Winter-
 Jacken
 ----------
 
