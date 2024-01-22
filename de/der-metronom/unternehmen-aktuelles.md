@@ -15,6 +15,12 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
+
+ Uelzen - 22.01.2024
+
+Die Gewerkschaft Deutscher Lokomotivführer (GDL) hat für Mittwoch, 24.01.2024, 02:00 Uhr bis 29.01.2024, 18:00 Uhr zu einem weiteren Streik aufgerufen. Die Mitarbeiterinnen und Mitarbeiter der metronom Eisenbahngesellschaft mbH, zu dem auch die Mitarbeitenden von enno gehören, sind nicht zum...
+
 [Ab 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
  08.01.2024
