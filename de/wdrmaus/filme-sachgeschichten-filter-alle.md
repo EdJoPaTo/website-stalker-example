@@ -1131,7 +1131,6 @@
 * [Trägheit](https://www.wdrmaus.de/filme/sachgeschichten/traegheit.php5)
 * [Trampolinspringen](https://www.wdrmaus.de/filme/sachgeschichten/trampolinspringen.php5)
 * [Trapez](https://www.wdrmaus.de/filme/sachgeschichten/trapez.php5)
-* [Trockeneis](https://www.wdrmaus.de/filme/sachgeschichten/trockeneis.php5)
 * [Trüffelschwein](https://www.wdrmaus.de/filme/sachgeschichten/trueffelschwein.php5)
 * [Tube](https://www.wdrmaus.de/filme/sachgeschichten/tube.php5)
 * [Tür](https://www.wdrmaus.de/filme/sachgeschichten/tuer.php5)
