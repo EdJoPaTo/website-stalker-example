@@ -84,11 +84,11 @@ Manjaro 22 Plasma
 
 Manjaro 22 XFCE
 
-MX Linux 23.1 XFCE
+MX Linux 23.2 XFCE
 
-MX Linux 23.1 KDE
+MX Linux 23.2 KDE
 
-MX Linux 23.1 Fluxbox
+MX Linux 23.2 Fluxbox
 
 Ubuntu LTS 22.04.3 MATE
 
