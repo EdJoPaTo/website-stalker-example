@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Sturmwarnung: Einschränkungen und Verspätungen auf allen Strecken](https://www.der-metronom.de/aktuell/sturmwarnung-einschraenkungen-und-verspaetungen-auf-allen-strecken/)
+
+ Uelzen - 24.01.2024
+
+Aufgrund der aktuellen Sturmsituation wurde die Fahrgeschwindigkeit auf den Strecken von metronom auf 120 km/h reduziert. Auf dem Streckenabschnitt der Linie RE3/RB31 zwischen Deutsch Evern und Lüneburg wurde die Geschwindigkeit auf 80km/h herabgesetzt.
+Dadurch kommt es zu Verspätungen zwischen...
+
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
  Uelzen - 22.01.2024
@@ -47,8 +54,6 @@ Der metronom wird wegen...
 Liebe Fahrgäste,
 wir wissen, die aktuelle Zeit...
 
-[Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
+ Seite 1 von 2
 
- Uelzen - 21.08.2023
-
-Die Deutsche Bahn tauscht am Bahnhof Rotenburg...
+ 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
