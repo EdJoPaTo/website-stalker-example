@@ -7,7 +7,7 @@ cirrus nimbini v4
 * silent cooling through passive aluminium heat sink housing with copper cores
 * based on Intel® NUC boards
 
-**Delivery time: 7-9 Working days**
+**Delivery time: 14-21 Working days**
 
 * ##### cirrus7 nimbini - Edition #####
 
