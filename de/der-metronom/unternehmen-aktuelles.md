@@ -15,6 +15,12 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
+
+ Uelzen - 25.01.2024
+
+Es entfallen weiter Fahrten auf den Linien RE3,...
+
 [Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
 
  Uelzen - 22.01.2024
@@ -39,13 +45,6 @@ Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
 
 Update 05.12.2023:
 Der metronom wird wegen...
-
-[Erhöhtes Fahrgastaufkommen](https://www.der-metronom.de/aktuell/hohes-fahrgastaufkommen/)
-
- Uelzen - 06.11.2023
-
-Liebe Fahrgäste,
-wir wissen, die aktuelle Zeit...
 
 [Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
