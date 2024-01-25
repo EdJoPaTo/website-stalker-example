@@ -26,6 +26,8 @@ RE2 Hannover - Northeim - Göttingen
 
 [12.02.2024 - 15.02.2024 RE2 Fahrzeitenänderungen in den frühen Morgenstunden](https://www.der-metronom.de/baustellen/re2-fahrzeitenaenderungen-in-den-fruehen-morgenstunden/)
 
+[17.02.2024 - 18.02.2024 RE3/RE2 keine Durchbindung von Uelzen - Göttingen](https://www.der-metronom.de/baustellen/re3-re2-keine-durchbindung-von-uelzen-goettingen/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [28.01.2024 - 29.01.2024 RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-und-bardowick/)
@@ -40,6 +42,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [14.02.2024 RE3/RB31 Ersatzverkehr mit Bussen zwischen Hamburg Hbf und Hamburg-Harburg in den frühen Morgenstunden](https://www.der-metronom.de/baustellen/re3-rb31-ersatzverkehr-mit-bussen-zwischen-hamburg-hbf-und-hamburg-harburg-in-den-fruehen-morgenstunden/)
 
+[17.02.2024 - 18.02.2024 RE3/RE2 keine Durchbindung von Uelzen - Göttingen](https://www.der-metronom.de/baustellen/re3-re2-keine-durchbindung-von-uelzen-goettingen/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
@@ -47,6 +51,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 [29.01.2024 RB41 zwei nächtliche Verbindungen nur bis/ab Harburg](https://www.der-metronom.de/baustellen/rb-41-zwei-naechtliche-verbindungen-nur-bis-ab-harburg/)
 
 [05.02.2024 RB41 nächtliche Brückenbauarbeiten](https://www.der-metronom.de/baustellen/rb41-naechtliche-brueckenbauarbeiten/)
+
+[16.02.2024 - 23.02.2024 RB41 nächtliche Brückenbauarbeiten - Haltausfälle in Klecken, Hittfeld und Buchholz (N.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-brueckenbauarbeiten-haltausfaelle-in-klecken-hittfeld-und-buchholz-n/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
