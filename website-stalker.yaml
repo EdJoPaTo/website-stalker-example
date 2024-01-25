@@ -265,6 +265,16 @@ sites:
     editors:
       - css_select: "#specs"
       - html_markdownify
+  - url: https://www.steamdeck.com/en/news
+    editors:
+      - rss:
+          item_selector: .announcement_ctn
+          title_selector: h2, h3
+          content_editors:
+            - css_remove: h2, h3, .announcement_toggle
+            - html_sanitize
+            - html_prettify
+
 
   - url: https://www.evehome.com/en/blog
     editors:

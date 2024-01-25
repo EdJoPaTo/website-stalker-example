@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Steam Deck :: News</title>
+		<link>https://www.steamdeck.com/en/news</link>
+		<description>Available now.</description>
+		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<item>
+			<title>Steam Deck Beta Client Update: January 24th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4148445959732093253</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jan 24, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Triggering a Factory Reset will now install a clean version of the OS in addition to deleting user data if the OS image has been modified.
+						<br>
+					</li>
+					<li>
+						When marking a game as private, DLC for the game will also be marked as private.
+						<br>
+					</li>
+					<li>
+						Privacy settings for individual DLC can now be managed from the game's properties, under the privacy tab.
+						<br>
+					</li>
+					<li>
+						Corrected height of low battery notification
+					</li>
+				</ul>
+				<br>
+				<b>
+					Chat
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a case where group chats could get stuck on "Requesting Group Chat Information" after reconnecting to Steam
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed maximize/restore button and window resize grip not updating properly.
+						<br>
+					</li>
+					<li>
+						Fixed "My Games" collection also including games borrowed from other users.
+						<br>
+					</li>
+					<li>
+						Fixed opacity of play bar on game details pages.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added a setting for the player LED for DualSense controllers
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4148445959732093253" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Steam Deck Beta Client Update: January 19th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4139438416058174832</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jan 19, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed drag and drop not working in Downloads view.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed mouse cursor jumping when some browser windows are closed or hidden.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed missing performance graph while streaming
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4139438416058174832" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Steam Deck Beta Client Update: January 18th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4139438126596034468</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jan 18, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Updated embedded Chromium build in Steam to 109.0.5414.120
+						<br>
+					</li>
+					<li>
+						Updated the quick access performance menu with descriptions for each setting, including how they affect the system and the expected power/performance/visual quality tradeoffs.
+						<br>
+					</li>
+					<li>
+						Fixed a case where the sdcard was set as the default install location on reboot.
+						<br>
+					</li>
+					<li>
+						Fixed a case where the network status icon would fail to render for virtual networks.
+						<br>
+					</li>
+					<li>
+						Fixed store button on main menu remaining disabled in Family View even if store permissions were granted to the account.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed occasionally creating an extra virtual controller that is non-responsive
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4139438126596034468" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Steam Deck Client Update: January 11th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6689600878682358145</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jan 11, 2024
+			</h5>
+			<div>
+				<b>
+					Note:
+				</b>
+				This client was re-released on January 12th to fix a regression with controller glyphs for Steam Deck OLED
+				<br>
+				<br>
+				We have just shipped an updated Steam Deck Client to the Stable (default) channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Reduce the amount of black screen flashes that happen when opening the Steam interface while playing a game with a custom screen refresh rate setting.
+						<br>
+					</li>
+					<li>
+						Replaced Nearest scaling mode with Pixel, a pseudo-bandlimited filter for upscaling pixel art to non-integer factors without introducing aliasing. Integer scale factors will still be Nearest.
+						<br>
+					</li>
+					<li>
+						Fixed "Friends who Play" section not refreshing until the client was restarted
+						<br>
+					</li>
+					<li>
+						Fixed a crash in "Call of Duty: Black Ops III" when switching maps.
+						<br>
+					</li>
+					<li>
+						Fixed situations causing the Steam client to only download the Windows version of a title and later attempting to run it without Proton.
+						<br>
+					</li>
+					<li>
+						Reset the HDR Visualization setting to None for all users.
+						<br>
+					</li>
+					<li>
+						Moved the HDR Visualization setting from Display->Advanced to Developer settings.
+						<br>
+					</li>
+					<li>
+						Adjusted the recent games page header so that it's visible when changing selection.
+						<br>
+					</li>
+					<li>
+						Fixed left trackpad haptics triggering at wrong pressure for Steam Deck OLED.
+						<br>
+					</li>
+					<li>
+						Fix "View Additional Artwork" button not properly showing content on soundtrack details pages.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Workshop
+				</b>
+				<br>
+				<ul>
+					<li>
+						Re-designed the Workshop subscriptions list (accessible from Game Properties).  It now includes the ability to sort by subscription date, last updated, size, name, and load order.
+						<br>
+					</li>
+					<li>
+						Added ability to change the local load order of Workshop item subscriptions.
+						<br>
+					</li>
+					<li>
+						Added ability to set the local order based on any Workshop item dependencies (must be set on the Workshop items themselves).
+						<br>
+					</li>
+					<li>
+						Added ability to disable Workshop item subscriptions, which will hide them from the game.
+						<br>
+					</li>
+					<li>
+						Added the ability to filter the Workshop subscriptions list by tag name.  Use the same search field for filtering items by name.
+						<br>
+					</li>
+					<li>
+						Show the name of the Workshop item being download in the game's tooltip on the Downloads page.
+						<br>
+					</li>
+					<li>
+						Added functionality that allows swapping the items in your subscription list quickly using collections:
+						<br>
+						<ul>
+							<li>
+								Added ability to save the filtered list of items to a new or existing Workshop collection.  This will overwrite the contents of the collection with the contents of the list.
+								<br>
+							</li>
+							<li>
+								Added ability to overwrite the user's subscription list to just the contents of a Workshop collection.
+								<br>
+							</li>
+							<li>
+								Added ability to add items from a collection to the user's subscription list.
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Cloud
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fix uploading for some apps which have a very large number of files
+						<br>
+					</li>
+					<li>
+						Fix sync for some apps which store files in the Windows user home directory
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a crash related to non-Steam Shortcuts
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6689600878682358145" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Steam Deck Beta Client Update: January 10th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6689600878679371747</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jan 10, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed left trackpad haptics triggering at wrong pressure for Steam Deck OLED
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6689600878679371747" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+	</channel>
+</rss>
