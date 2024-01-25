@@ -36,18 +36,6 @@ OLED is here
 
 [Learn more about Software](https://www.steamdeck.com/en/software)
 
-Limited Edition
-
-Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
-
-[See moreSee less ]()
-
-Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
-
-The Limited Edition Steam Deck OLED’s carrying case comes with a removable liner (like all 1TB models), but these also have an exclusive design printed on the inside
-
-[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
-
 #### Tech Specs ####
 
 [Learn about the inputs, controls & details that make up Steam Deck](https://www.steamdeck.com/en/tech)
@@ -126,7 +114,11 @@ Steam Deck is shipping now.
 
 [About Us](https://www.valvesoftware.com/about)
 
+[News & Updates](https://www.steamdeck.com/en/news)
+
 [Terms of Use](https://www.valvesoftware.com/legal/site-terms-of-use)
+
+[Press Kit](https://www.steamdeck.com/en/press)
 
 [Jobs](https://www.valvesoftware.com/)
 
@@ -136,13 +128,9 @@ Steam Deck is shipping now.
 
 [Security](https://www.valvesoftware.com/security/)
 
-[Publications](https://www.valvesoftware.com/en/publications)
-
 [Legal](https://store.steampowered.com/legal/?utm_source=steamdeck_com)
 
 [Steam](https://www.steampowered.com/?utm_source=steamdeck_com)
-
-[Press Kit](https://www.steamdeck.com/en/press)
 
 Product specifications are subject to change.
 

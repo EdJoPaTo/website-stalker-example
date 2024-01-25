@@ -110,18 +110,6 @@ All of the rear case screws are now Torx™ type, which screw into metal threads
 * Added preliminary support for open-source BIOS and EC firmware
 * Improved resume time by roughly 30%
 
-Limited Edition
-
-Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
-
-[See moreSee less ]()
-
-Available in limited quantities in the U.S. and Canada: Steam Deck OLED Limited Edition. All the specs and perks of the 1TB model, with a smoky translucent colorway!
-
-The Limited Edition Steam Deck OLED’s carrying case comes with a removable liner (like all 1TB models), but these also have an exclusive design printed on the inside
-
-[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
-
 Core features that define Steam Deck
 ----------
 
