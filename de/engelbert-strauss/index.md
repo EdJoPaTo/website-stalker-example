@@ -1,20 +1,14 @@
-###  WINTER SALE  ###
-
----
-
- Bis zu 49 %
-sparen
+NFL X
+ STRAUSS
 ----------
 
 ---
 
-[Herren](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Herren/)
+###  Unser nächster Spielzug  ###
 
-[Damen](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Damen/)
+---
 
-[Kinder](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Kinder/)
-
-[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest%3Famp;itemorigin%3Dstartseite_hw23winter)
+[Kollektion entdecken](https://www.engelbert-strauss.de/NFL)
 
  Winter-
 Jacken
@@ -60,14 +54,20 @@ schuhe
 
 [alle Produkte](https://www.engelbert-strauss.de/sicherheitsstiefel/?itemorigin=startseite_hw23Winter)
 
- NFL X
-STRAUSS
+ Winter Sale
 ---
 
- Unser nächster Spielzug
+ Bis zu 49 %
+sparen
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/NFL)
+Herren
+
+Damen
+
+Kinder
+
+[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest)
 
  Unsere Kälte-Helden
 ---
