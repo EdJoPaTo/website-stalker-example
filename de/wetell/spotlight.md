@@ -1,3 +1,8 @@
+SuperCoop
+----------
+
+Beste Lebensmittel zu erschwinglichen Preisen aus einem solidarischen Supermarkt. Ein schöner Traum, der in Berlin Wirklichkeit geworden ist. SuperCoop-Mitgründerin Johanna Kühner spricht darüber im neuen WEtell Spotlight.
+
 Volla Phone
 ----------
 
