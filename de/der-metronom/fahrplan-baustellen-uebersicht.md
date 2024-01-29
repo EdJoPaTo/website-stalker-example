@@ -26,6 +26,8 @@ RE2 Hannover - Northeim - Göttingen
 
 [17.02.2024 - 18.02.2024 RE3/RE2 keine Durchbindung von Uelzen - Göttingen](https://www.der-metronom.de/baustellen/re3-re2-keine-durchbindung-von-uelzen-goettingen/)
 
+[23.02.2024 - 24.02.2024 RE2 nächtlicher Ersatzverkehr mit Bussen zwischen Einbeck-Salzderhelden und Göttingen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-zwischen-einbeck-salzderhelden-und-goettingen/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [30.01.2024 - 31.01.2024 RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall/)
