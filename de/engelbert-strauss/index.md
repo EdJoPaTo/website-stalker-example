@@ -2,7 +2,7 @@
 
 ---
 
- Bis zu 49 %
+ Bis zu 47 %
 sparen
 ----------
 
