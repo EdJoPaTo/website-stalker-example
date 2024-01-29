@@ -28,8 +28,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[28.01.2024 - 29.01.2024 RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-und-bardowick/)
-
 [30.01.2024 - 31.01.2024 RB31 nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall/)
 
 [31.01.2024 - 01.02.2024 RB31 nächtliche Haltausfälle Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ashausen-lg-hh/)
@@ -49,8 +47,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
-
-[29.01.2024 RB41 zwei nächtliche Verbindungen nur bis/ab Harburg](https://www.der-metronom.de/baustellen/rb-41-zwei-naechtliche-verbindungen-nur-bis-ab-harburg/)
 
 [05.02.2024 RB41 nächtliche Brückenbauarbeiten](https://www.der-metronom.de/baustellen/rb41-naechtliche-brueckenbauarbeiten/)
 
