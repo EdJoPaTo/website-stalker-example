@@ -16,37 +16,27 @@ sparen
 
 [alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest%3Famp;itemorigin%3Dstartseite_hw23winter)
 
- Winter-
-Jacken
+Allseason
+
+---
+
+CONCRETE
+
 ----------
 
 ---
 
-###  Bereit für die Kälte  ###
+###  Für das ganze Jahr  ###
 
 ---
 
-[Damen](https://www.engelbert-strauss.de/winterjacken-damen/?itemorigin=startseite_hw23Winter)
+[alle Produkte](https://www.engelbert-strauss.de/f/e-s-concrete/Ausstattung:Futter_Fuellung:waermende_Innenseite/#filter:closed)
 
-[Herren](https://www.engelbert-strauss.de/winter-arbeitsjacken/?itemorigin=startseite_hw23Winter)
-
-[Kinder](https://www.engelbert-strauss.de/winterjacken-kinder/?itemorigin=startseite_hw23Winter)
-
- Winter-
-hosen
-----------
-
+ Wärmebereich
 ---
 
-###  Zu Kalt? Nicht mit diesen Wärme-Champions  ###
-
+ Leichtes Lining vom Bund bis zu den Knien
 ---
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitshosen-damen/Ausstattung:Futter_Fuellung:waermende_Innenseite/?itemorigin=startseite_hw23Winter&obfuscate=true)
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitshosen/Ausstattung:Futter_Fuellung:waermende_Innenseite/?itemorigin=startseite_hw23Winter&obfuscate=true)
-
-[Kinder](https://www.engelbert-strauss.de/f/kinderhosen/Ausstattung:Futter_Fuellung:waermende_Innenseite/?itemorigin=startseite_hw23Winter&obfuscate=true)
 
  Winter-
 schuhe
@@ -60,6 +50,18 @@ schuhe
 
 [alle Produkte](https://www.engelbert-strauss.de/sicherheitsstiefel/?itemorigin=startseite_hw23Winter)
 
+ Forst-
+profis
+----------
+
+---
+
+###  Robuster Faserpelz: Wärmend, bequem & sichtbar im Wald-Einsatz  ###
+
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/s/suche?itemorigin=startseite_hw23Winter&query=forst)
+
  NFL X
 STRAUSS
 ---
@@ -69,74 +71,21 @@ STRAUSS
 
 [Kollektion entdecken](https://www.engelbert-strauss.de/NFL)
 
- Unsere Kälte-Helden
+ Clever sparen in unserem
 ---
 
- Wärmend von Kopf bis Fuß
+ Werkzeug
 ---
 
- Winter-
-Handschuhe
+ Sale
 ---
 
-[jetzt entdecken](https://www.engelbert-strauss.de/f/arbeitshandschuhe/?sort=cold%3A5;itemorigin%3Dstartseitehw23winter)
+[alle Produkte](https://www.engelbert-strauss.de/sale-werkzeuge/?itemOrigin=StartseiteHW23Winter)
 
- Winter-
-schuhe
----
+[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets-werkzeuge/?itemOrigin=StartseiteHW23Winter)
 
-[jetzt entdecken](https://www.engelbert-strauss.de/sicherheitsstiefel/?itemorigin=StartseiteHW23Winter)
-
- Winter-
-accessoires
----
-
-[alle Wintermützen](https://www.engelbert-strauss.de/muetzen/?itemorigin=StartseiteHW23Winter)
-
-[alle Tücher / Schals](https://www.engelbert-strauss.de/tuecher-schals/?itemorigin=StartseiteHW23Winter)
-
- Funktions-
-unterwäsche
----
-
- Eine perfekte Basis als maximaler Kälte-Blocker
-
- Damen
----
-
-[alle Produkte](https://www.engelbert-strauss.de/funktionsunterwaesche-damen/?sort=newest%3Fitemorigin%3Dstartseitehw23winter)
-
- Herren
----
-
-[alle Produkte](https://www.engelbert-strauss.de/funktionsunterwaesche/?sort=newest%3Fitemorigin%3Dstartseitehw23winter)
-
- Socken
----
-
-[alle Produkte](https://www.engelbert-strauss.de/funktionssocken/?itemorigin=StartseiteHW23Winter)
-
-[jetzt selbst gestalten](https://www.engelbert-strauss.de/mymotion)
-
- Warnschutzkleidung
----
-
- Maximale
-Sichtbarkeit
----
-
-[alle Produkte](https://www.engelbert-strauss.de/warnschutzkleidung-en20471/?itemorigin=startseite_hw23Winter)
-
- Arbeitskleidung mit Funktion
----
-
- Wetterschutz
-Profis
----
-
-[alle Produkte](https://www.engelbert-strauss.de/f/arbeitskleidung/Funktionsschicht:Wetterschutzschicht/?itemorigin=startseite_hw23Winter&obfuscate=true)
-
-[mehr erfahren](https://www.engelbert-strauss.de/funktionsbekleidung/?itemorigin=startseite_hw23Winter)
+|   | bis zu<br/>---<br/><br/> 26 %<br/>---|   |
+|---|--------------------------------------|---|
 
  für Sie, Ihn und für Kids
 ---
@@ -158,6 +107,32 @@ Profis
 ---
 
 [alle Produkte](https://www.engelbert-strauss.de/f/kinderbekleidung/Funktionsschicht:Basisschicht,Waermeschicht,Wetterschutzschicht/?itemorigin=startseite_hw23Winter&obfuscate=true)
+
+ Die perfekten Begleiter für wechselhaftes Wetter
+---
+
+ Übergangs-
+jacken
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aHerren&query=%c3%bcbergangsjacke&itemorigin=startseite_hw23Winter&obfuscate=true)
+
+ Flexible Allrounder für den ganzen Tag
+---
+
+ Übergangs-
+jacken
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aDamen&query=%c3%bcbergangsjacke&itemorigin=startseite_hw23Winter&obfuscate=true)
+
+###  Zur perfekten Arbeitsjacke in nur 3 Schritten  ###
+
+---
+
+ Der Jackenfinder ermittelt schnell für Sie passende Jacken
+
+[Jacke finden](https://www.engelbert-strauss.de/arbeitsjacken/?jacketfinder=open)
 
  Newsletter abonnieren
 
