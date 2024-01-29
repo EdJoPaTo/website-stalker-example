@@ -21,12 +21,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
 
-[Aktuelle Informationen zum GDL-Streik und dessen Auswirkungen auf den Betrieb von metronom](https://www.der-metronom.de/aktuell/aktuelle-informationen-zum-gdl-streik-und-dessen-auswirkungen-auf-den-betrieb-von-metronom/)
-
- Uelzen - 22.01.2024
-
-Die Gewerkschaft Deutscher Lokomotivführer...
-
 [Ab 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
  08.01.2024
