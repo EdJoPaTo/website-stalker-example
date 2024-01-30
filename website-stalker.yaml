@@ -109,6 +109,7 @@ sites:
       - https://www.netcup-sonderangebote.de/
       - https://www.netcup.de/adventskalender/
       - https://www.netcup.de/vserver/
+      - https://www.netcup.de/vserver/arm-server/
       - https://www.netcup.de/vserver/root-server-erweiterungen.php
       - https://www.netcup.de/vserver/uebersicht-vserver-angebote.php
       - https://www.netcup.de/vserver/vps.php
@@ -118,7 +119,9 @@ sites:
       - css_remove: img, .card--content--image, style, script, .input-field
       - html_url_canonicalize
       - html_prettify
-  - url: https://www.netcup.de/vserver/storagespace.php
+  - url:
+      - https://www.netcup.de/vserver/storagespace.php
+      - https://www.netcup.de/vserver/local-block-storage/
     editors:
       - css_remove: img, .main-navigation-wrapper
       - css_select: main > .container
