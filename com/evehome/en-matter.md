@@ -211,19 +211,13 @@ Adding Eve devices with a Matter logo to your smart home is fast and easy.
 
 ###  Getting started. ###
 
-###  ###
-
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
 [Which hub is right for me?](/en/hub)
 
-###  ###
-
 Now you can easily add your Eve device to your smart home in just a few steps using the app of your favorite platform. On selected platforms, your voice assistant will also offer its help.
 
 And that's it – now you can access your Eve device via your chosen platform.
-
-###  ###
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home.
 
@@ -245,8 +239,6 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 Matter is designed to work entirely locally without a cloud, and so is Eve. Eve will never access, store, or process your personal data and there is no Eve cloud or bridge, so you can always rely on being covered by the privacy frameworks set and enforced by the platform of your choice. Read here on how the individual platforms value your privacy.
 
 [Apple](https://www.apple.com/business/site/docs/iOS_Security_Guide.pdf) [SmartThings](https://eula.samsungiotcloud.com/legal/us/en/pps.html) [Google Home](https://safety.google/nest/) [Amazon Alexa](https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230)
-
-###  ###
 
  What has Thread got to do with Matter?
 

@@ -297,7 +297,7 @@ sites:
           pattern: "\/index%2.php\/"
           replace: /
       - css_select: article .content
-      - css_remove: img
+      - css_remove: img, h3:empty
       - html_markdownify
 
   - url: https://www.wetell.de/
