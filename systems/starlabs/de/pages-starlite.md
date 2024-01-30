@@ -210,7 +210,7 @@ Your way.
 
 [Visit Mint](https://linuxmint.com/)
 
- Manjaro 22
+ Manjaro 23
 
  GNOME, Plasma, XFCE
 

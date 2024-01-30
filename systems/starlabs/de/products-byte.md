@@ -62,9 +62,9 @@ Memory
 
 Operating System
 
- Ubuntu LTS 22.04.03
+ Ubuntu LTS 22.04.3
 
-Ubuntu LTS 22.04.03
+Ubuntu LTS 22.04.3
 
 No Operating System
 
@@ -78,11 +78,11 @@ Linux Mint 21.3 MATE
 
 Linux Mint 21.3 XFCE
 
-Manjaro 22 GNOME
+Manjaro 23 GNOME
 
-Manjaro 22 Plasma
+Manjaro 23 Plasma
 
-Manjaro 22 XFCE
+Manjaro 23 XFCE
 
 MX Linux 23.2 XFCE
 
