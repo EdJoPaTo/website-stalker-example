@@ -19,13 +19,20 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
  Uelzen - 29.01.2024
 
-Die Gewerkschaft ver.di hat für Freitag, den 2. Februar 2024 zu einem ganztägigen Streik aufgerufen. Dieser Streikaufruf richtet sich an die Mitarbeiterinnen und Mitarbeiter im (kommunalen) öffentlichen Personennahverkehr (ÖPNV) – metronom ist von diesem Streikaufruf nicht betroffen! Die Züge...
+Die Gewerkschaft ver.di hat für Freitag, den 2....
 
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
  Uelzen - 25.01.2024
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
+
+[Ab dem 12. Februar: Geänderte Öffnungszeiten im Servicecenter Lüneburg (Verkaufsstelle)](https://www.der-metronom.de/aktuell/ab-dem-12-februar-geaenderte-oeffnungszeiten-im-servicecenter-lueneburg-verkaufsstelle/)
+
+ Uelzen - 22.01.2024
+
+Moin liebe Fahrgäste,
+ab Montag, dem 12. Februar werden die Öffnungszeiten im Servicecenter Lüneburg für den Zeitraum Montag bis Freitag von ursprünglich 7:30 Uhr - 18.30 Uhr auf 7:00 Uhr - 18.00 Uhr geändert. Die Öffnungszeiten am Samstag von 9:00 Uhr bis 14:00 Uhr sowie an Sonn- und Feiertagen...
 
 [Ab 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
@@ -46,8 +53,6 @@ Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
 Update 05.12.2023:
 Der metronom wird wegen...
 
-[Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
+ Seite 1 von 2
 
- Uelzen - 21.08.2023
-
-Die Deutsche Bahn tauscht am Bahnhof Rotenburg...
+ 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
