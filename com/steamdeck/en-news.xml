@@ -6,6 +6,48 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: January 31st</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119288693859382</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jan 31, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the D-pad being unresponsive on some controllers
+						<br>
+					</li>
+					<li>
+						Fixed the face buttons being swapped on some Nintendo Switch Pro controllers
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208119288693859382" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: January 26th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4148446223166330854</link>
 			<content:encoded><![CDATA[<html>
@@ -255,158 +297,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4139438126596034468" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: January 11th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/6689600878682358145</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jan 11, 2024
-			</h5>
-			<div>
-				<b>
-					Note:
-				</b>
-				This client was re-released on January 12th to fix a regression with controller glyphs for Steam Deck OLED
-				<br>
-				<br>
-				We have just shipped an updated Steam Deck Client to the Stable (default) channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reduce the amount of black screen flashes that happen when opening the Steam interface while playing a game with a custom screen refresh rate setting.
-						<br>
-					</li>
-					<li>
-						Replaced Nearest scaling mode with Pixel, a pseudo-bandlimited filter for upscaling pixel art to non-integer factors without introducing aliasing. Integer scale factors will still be Nearest.
-						<br>
-					</li>
-					<li>
-						Fixed "Friends who Play" section not refreshing until the client was restarted
-						<br>
-					</li>
-					<li>
-						Fixed a crash in "Call of Duty: Black Ops III" when switching maps.
-						<br>
-					</li>
-					<li>
-						Fixed situations causing the Steam client to only download the Windows version of a title and later attempting to run it without Proton.
-						<br>
-					</li>
-					<li>
-						Reset the HDR Visualization setting to None for all users.
-						<br>
-					</li>
-					<li>
-						Moved the HDR Visualization setting from Display->Advanced to Developer settings.
-						<br>
-					</li>
-					<li>
-						Adjusted the recent games page header so that it's visible when changing selection.
-						<br>
-					</li>
-					<li>
-						Fixed left trackpad haptics triggering at wrong pressure for Steam Deck OLED.
-						<br>
-					</li>
-					<li>
-						Fix "View Additional Artwork" button not properly showing content on soundtrack details pages.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Workshop
-				</b>
-				<br>
-				<ul>
-					<li>
-						Re-designed the Workshop subscriptions list (accessible from Game Properties).  It now includes the ability to sort by subscription date, last updated, size, name, and load order.
-						<br>
-					</li>
-					<li>
-						Added ability to change the local load order of Workshop item subscriptions.
-						<br>
-					</li>
-					<li>
-						Added ability to set the local order based on any Workshop item dependencies (must be set on the Workshop items themselves).
-						<br>
-					</li>
-					<li>
-						Added ability to disable Workshop item subscriptions, which will hide them from the game.
-						<br>
-					</li>
-					<li>
-						Added the ability to filter the Workshop subscriptions list by tag name.  Use the same search field for filtering items by name.
-						<br>
-					</li>
-					<li>
-						Show the name of the Workshop item being download in the game's tooltip on the Downloads page.
-						<br>
-					</li>
-					<li>
-						Added functionality that allows swapping the items in your subscription list quickly using collections:
-						<br>
-						<ul>
-							<li>
-								Added ability to save the filtered list of items to a new or existing Workshop collection.  This will overwrite the contents of the collection with the contents of the list.
-								<br>
-							</li>
-							<li>
-								Added ability to overwrite the user's subscription list to just the contents of a Workshop collection.
-								<br>
-							</li>
-							<li>
-								Added ability to add items from a collection to the user's subscription list.
-							</li>
-						</ul>
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Cloud
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fix uploading for some apps which have a very large number of files
-						<br>
-					</li>
-					<li>
-						Fix sync for some apps which store files in the Windows user home directory
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a crash related to non-Steam Shortcuts
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6689600878682358145" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
