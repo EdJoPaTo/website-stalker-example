@@ -299,7 +299,7 @@ Monatliche Kündigungserinnerung erhalten
 
 [Datenschutzerklärung](https://wetell.de/datenschutz) akzeptiert
 
-[](https://www.instagram.com/wetell.mobilfunk/) [](https://www.facebook.com/WEtell-156996021903053) [](https://digitalcourage.social/@wetell) [](https://de.trustpilot.com/review/wetell.de)
+[](https://www.instagram.com/wetell.mobilfunk/) [](https://www.facebook.com/WEtell-156996021903053) [](https://digitalcourage.social/@wetell)
 
 Tarife
 
