@@ -16,7 +16,7 @@ WEtell - Mobilfunk geht auch nachhaltig!
   * [Datenschutz](https://www.wetell.de/vision/datenschutz/)
   * [Fairness & Transparenz](https://www.wetell.de/vision/fairness-und-transparenz/)
   * [Purpose Unternehmen](https://www.wetell.de/vision/purpose/)
-  * [Gemeinwohlbilanzierung](https://www.wetell.de/vision/gemeinwohl-mobilfunk-bilanz/)
+  * [Gemeinwohl-Bilanzierung](https://www.wetell.de/vision/gemeinwohl-bilanzierung/)
 
 * [Service](https://www.wetell.de/service/)
   * [FAQ](https://www.wetell.de/service/faq/)
