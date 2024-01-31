@@ -15,12 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE2: Streckensperrung und Busnotverkehr (BNV) zwischen Göttingen und Northeim (Han.)](https://www.der-metronom.de/aktuell/re2-streckensperrung-und-busnotverkehr-bnv-zwischen-goettingen-und-northeim-han/)
-
- Uelzen - 31.01.2024
-
-Aufgrund eines gefährlichen Ereignisses bei Göttingen ist die Strecke zwischen Göttingen und Northeim (Han.) in beiden Richtungen gesperrt. Züge ab Hannover Hbf wenden vorzeitig in Northeim (Han.) und fahren zurück nach Hannover Hbf. Zwischen Göttingen und Northeim (Han.) wurde ein Busnotverkehr...
-
 [Kein ver.di-Streik bei metronom!](https://www.der-metronom.de/aktuell/kein-ver-di-streik-bei-metronom/)
 
  Uelzen - 29.01.2024
@@ -51,6 +45,13 @@ ab Montag, dem 12....
  Uelzen - 08.01.2024
 
 Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
+
+[Update: metronom setzt Ersatzfahrplan bis 03. Februar 2024 fort](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
+
+ 28.11.2023
+
+Update 05.12.2023:
+Der metronom wird wegen...
 
  Seite 1 von 2
 
