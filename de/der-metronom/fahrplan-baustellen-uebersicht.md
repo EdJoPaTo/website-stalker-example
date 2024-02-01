@@ -50,5 +50,7 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [16.02.2024 - 23.02.2024 RB41 nächtliche Brückenbauarbeiten - Haltausfälle in Klecken, Hittfeld und Buchholz (N.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-brueckenbauarbeiten-haltausfaelle-in-klecken-hittfeld-und-buchholz-n/)
 
+[23.02.2024 - 25.02.2024 RE4/RB41 Teilausfälle zwischen Ottersberg und Rotenburg (W.)](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-ottersberg-und-rotenburg-w/)
+
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
