@@ -1084,6 +1084,7 @@
 * [Sternbild Luftpumpe](https://www.wdrmaus.de/filme/sachgeschichten/sternbild_luftpumpe.php5)
 * [Sternbild Orion](https://www.wdrmaus.de/filme/sachgeschichten/sternbild_orion.php5)
 * [Sternenzacken](https://www.wdrmaus.de/filme/sachgeschichten/sternenzacken.php5)
+* [Stimmbänder](https://www.wdrmaus.de/filme/sachgeschichten/stimmbaender.php5)
 * [Stoppschild](https://www.wdrmaus.de/filme/sachgeschichten/stoppschild.php5)
 * [Stottern](https://www.wdrmaus.de/filme/sachgeschichten/stottern.php5)
 * [Straßenbahnfahrer](https://www.wdrmaus.de/filme/sachgeschichten/strassenbahnfahrer.php5)
