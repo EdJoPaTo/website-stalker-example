@@ -30,8 +30,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[31.01.2024 - 01.02.2024 RB31 nächtliche Haltausfälle Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-ashausen-lg-hh/)
-
 [08.02.2024 - 09.02.2024 RE3/RB31 nächtliche Haltausfälle Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen/)
 
 [10.02.2024 - 11.02.2024 RE3/RB31 geänderte Fahrzeiten für zwei nächtliche Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-geaenderte-fahrzeiten-fuer-zwei-naechtliche-verbindungen/)
