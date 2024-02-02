@@ -6,6 +6,56 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.5.14 Preview: Mirror Man</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119548509344812</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 2, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved performance of ray-traced reflections in Persona 3 Reload
+						<br>
+					</li>
+					<li>
+						Slightly improved corner tracking on Steam Deck OLED trackpads
+						<br>
+					</li>
+					<li>
+						Fixed a possible session crash when connecting an HDR display
+						<br>
+					</li>
+					<li>
+						Fixed a rare session crash on application exit
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208119548509344812" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: January 31st</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119288693859382</link>
 			<content:encoded><![CDATA[<html>
@@ -233,70 +283,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4139438416058174832" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: January 18th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4139438126596034468</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jan 18, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Updated embedded Chromium build in Steam to 109.0.5414.120
-						<br>
-					</li>
-					<li>
-						Updated the quick access performance menu with descriptions for each setting, including how they affect the system and the expected power/performance/visual quality tradeoffs.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the sdcard was set as the default install location on reboot.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the network status icon would fail to render for virtual networks.
-						<br>
-					</li>
-					<li>
-						Fixed store button on main menu remaining disabled in Family View even if store permissions were granted to the account.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed occasionally creating an extra virtual controller that is non-responsive
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4139438126596034468" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
