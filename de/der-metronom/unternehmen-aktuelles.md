@@ -40,13 +40,6 @@ ab Montag, dem 12....
 
 Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
 
-[Update: metronom setzt Ersatzfahrplan bis 03. Februar 2024 fort](https://www.der-metronom.de/aktuell/ersatzfahrplan/)
-
- 28.11.2023
-
-Update 05.12.2023:
-Der metronom wird wegen...
-
 [Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
  Uelzen - 21.08.2023
