@@ -68,7 +68,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Emblem**Generate project avatars](Emblem/)
 * [**Errands**Manage your tasks](List/)
 * [**Eyedropper**Pick and format colors](Eyedropper/)
-* [**File Shredder**Securely delete your files](Raider/)
+* [**File Shredder**Permanently delete your files](Raider/)
 * [**Forge Sparks**Get Git forges notifications](ForgeSparks/)
 * [**Fragments**A BitTorrent Client](Fragments/)
 * [**Fretboard**Look up guitar chords](Fretboard/)
