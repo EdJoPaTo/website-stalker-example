@@ -6,6 +6,60 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: February 2nd</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119548509679253</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 2, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed misc. regressions in the screenshot manager
+						<br>
+					</li>
+					<li>
+						Fixed transparency and blur on header and app details play bar
+						<br>
+					</li>
+					<li>
+						Fixed graph height on downloads page
+						<br>
+					</li>
+					<li>
+						Fixed wide game images sometimes failing to load
+						<br>
+					</li>
+					<li>
+						Fix custom logo positions sometimes not applying on app details pages
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208119548509679253" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.5.14 Preview: Mirror Man</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119548509344812</link>
 			<content:encoded><![CDATA[<html>
@@ -225,64 +279,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4148445959732093253" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: January 19th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4139438416058174832</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jan 19, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed drag and drop not working in Downloads view.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed mouse cursor jumping when some browser windows are closed or hidden.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed missing performance graph while streaming
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4139438416058174832" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
