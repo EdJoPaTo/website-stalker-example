@@ -104,7 +104,6 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Webfont Kit Generator**Create @font-face kits easily](WebfontKitGenerator/)
 * [**Wike**Search and read Wikipedia articles](Wike/)
 * [**Workbench**Learn and prototype with GNOME technologies](Workbench/)
-* [**Zap**Play sounds from a soundboard](Zap/)
 
 Development Tools
 ----------
