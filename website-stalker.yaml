@@ -135,7 +135,7 @@ sites:
       - html_sanitize
       - html_prettify
 
-  - url: https://www.hetzner.com/news
+  - url: https://www.hetzner.com/news/
     ignore_error: true
     editors:
       - rss:
@@ -169,7 +169,6 @@ sites:
       - html_markdownify
 
   - url:
-      - https://www.der-metronom.de/aktuell/ersatzfahrplan/
       - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
       - https://www.der-metronom.de/fahrplan/aktuelle-verkehrslage/
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
