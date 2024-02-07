@@ -6,6 +6,62 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: February 6th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119923880497110</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 6, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed issues with popup menus and other popup dialogs
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Controllers can be used to dismiss/continue when controller support information panels appear before a game's launch.
+						<br>
+					</li>
+					<li>
+						Fix for Gyro enable button not being respected.
+						<br>
+					</li>
+					<li>
+						QoL: Gyro Calibration button available in Controller Config Quick settings, and in the Gyro section of the Controller Layout Editor.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208119923880497110" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: February 2nd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119548509679253</link>
 			<content:encoded><![CDATA[<html>
@@ -191,94 +247,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4148446223166330854" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: January 24th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4148445959732093253</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jan 24, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Triggering a Factory Reset will now install a clean version of the OS in addition to deleting user data if the OS image has been modified.
-						<br>
-					</li>
-					<li>
-						When marking a game as private, DLC for the game will also be marked as private.
-						<br>
-					</li>
-					<li>
-						Privacy settings for individual DLC can now be managed from the game's properties, under the privacy tab.
-						<br>
-					</li>
-					<li>
-						Corrected height of low battery notification
-					</li>
-				</ul>
-				<br>
-				<b>
-					Chat
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where group chats could get stuck on "Requesting Group Chat Information" after reconnecting to Steam
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed maximize/restore button and window resize grip not updating properly.
-						<br>
-					</li>
-					<li>
-						Fixed "My Games" collection also including games borrowed from other users.
-						<br>
-					</li>
-					<li>
-						Fixed opacity of play bar on game details pages.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added a setting for the player LED for DualSense controllers
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4148445959732093253" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
