@@ -30,7 +30,7 @@ ab Montag, dem 12....
 
 [Ab 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
- 08.01.2024
+ Uelzen - 08.01.2024
 
  Die Landesnahverkehrsgesellschaft...
 
