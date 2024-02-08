@@ -1,82 +1,263 @@
-WEtell ist Gemeinwohl-Unternehmen!
+* [](https://www.wetell.de)
+* Mobilfunk geht auch nachhaltig
+
+Grünfunken
+ fürs Klima
 ==========
 
-Wir wurden erfolgreich durch die GWÖ bilanziert!
-Hier erfährst du, was das alles bedeutet und
-welches Ergebnis wir erzielt haben!
-
-Für ein ethisches Wirtschaftssystem
+Grünfunken
+ super sicher
 ----------
 
-Die Gemeinwohl-Ökonomie (GWÖ) ist ein Wirtschaftssystem, das auf Werten aufgebaut ist, welche das Gemeinwohl fördern. Zugleich ist die GWÖ eine Bewegung, die sich für die Umsetzung dieses Systems starkmacht. So bietet sie u.a. Unternehmen die Möglichkeit, sich nach Kriterien des Gemeinwohls bilanzieren zu lassen.
-Klar, dass die GWÖ für WEtell total spannend ist. Schließlich haben wir uns seit der ersten Stunde auf die Fahne geschrieben, ein wertebasiertes Mobilfunkunternehmen zu sein. Mit unserer Gemeinwohl-Bilanz geben wir jetzt umfassenden Einblick in unser Unternehmen und legen damit nochmal richtig einen drauf in Sachen Transparenz und Glaubwürdigkeit gegenüber Kund\*innen, Mitarbeiter\*innen und Lieferant\*innen.
-
-[Hier vollständigen Bericht öffnen](https://www.wetell.de/downloads/veroeffentlichungen/2021-10-01_WEtell_GW%C3%96-Bericht.pdf)
-
-Vollständigen GWÖ-Bericht
-herunterladen
+Grünfunken
+ mega fair
 ----------
 
-[Hier kannst du den vollständigen Bericht herunterladen!](https://www.wetell.de/downloads/veroeffentlichungen/2021-10-01_WEtell_GWÖ-Bericht.pdf)
+Lebe Nachhaltigkeit beim Mobilfunken.
+Wir haben klimapositive Tarife für dich.
+Grün machen statt grün waschen.
 
-Gemeinwohlorientierung statt Profitmaximierung
+[Zu den Tarifen](https://www.wetell.de/tarife/)
+
+Lebe Nachhaltigkeit beim Mobilfunken.
+Deine Daten bleiben deine Daten.
+Datenschutz ohne Wenn und Aber.
+
+[Zu den Tarifen](https://www.wetell.de/tarife/)
+
+Lebe Nachhaltigkeit beim Mobilfunken.
+Voller Überblick, nicht nur Schall und Rauch.
+Mit echtem Service von Mensch zu Mensch.
+
+[Zu den Tarifen](https://www.wetell.de/tarife/)
+
+100% Klimaschutz - Datenschutz - Fairness & Transparenz
+
+Dein neuer Mobilfunktarif
 ----------
 
-Die Vision der GWÖ ist, den Erfolg von Unternehmen an ethischem Handeln zu messen und nicht mehr an Gewinnsteigerungen. Werte wie Menschenwürde, Solidarität oder ökologische Nachhaltigkeit sollen feste Größen in der globalen Wirtschaft werden. Zentrales Instrument ist dabei die Gemeinwohl-Bilanz. Mit dieser Bilanz können Unternehmen und Institutionen, aber auch Gemeinden und Privatpersonen messen, wie gemeinwohlorientiert sie wirtschaften und handeln. Mit Fokus auf ethischen Werten ist die GWÖ Bilanzierung ein Gegenentwurf zu konventionellen Handelsbilanzen, die ausschließlich ökonomische Wertekategorien berücksichtigen. Herzstück und Messinstrument der GWÖ Bilanz ist die Gemeinwohl-Matrix.
+* Verlässliches D-Netz [mehr dazu](https://www.wetell.de/tarife/mobilfunknetz/)
+* Wechselservice [mehr dazu](https://www.wetell.de/tarife/wechselservice/)
+* Monatlich kündbar
+* Rufnummernmitnahme
 
-[Lerne mehr über die GWÖ Matrix](#matrix)
+**Inkl. Backmarket Vorteil -**
+ Keine Bereitstellungsgebühr!
 
-Warum
-Gemeinwohl-
-ökonomie?
+**Inkl. DB-Vorteil -**
+ Keine Bereitstellungsgebühr und 1 Monat keine Grundgebühr!
+
+**Für Tomorrow Bank Kund\*innen**
+ 1 Monat Mobilfunk und SIM gratis
+
+**Dein Impact-Solutions Vorteil:**
+ Bereitstellungs- und erste Monatsgrundgebühr entfällt!
+
+**Dein Naturstrom Vorteil:**
+ Bereitstellungs- und erste Monatsgrundgebühr entfällt!
+
+**Inkl. MehrWert Vorteil:**
+ 25€ Gutschrift auf deine erste Rechnung
+
+**Für Tomorrow Bank Kund\*innen**
+ Ein ganzes Jahr 2€ pro Monat sparen!
+
+**Inkl. DB-Vorteil!**
+ Ein ganzes Jahr 2€ pro Monat sparen!
+
+Wieviel Datenvolumen brauchst Du im Monat?
+
+2GB 15GB 25GB 30GB 40GB
+
+[](#rate-info-ultrakurz)
+
+##### Ultrakurz #####
+
+2 GB
+Daten LTE
+
+* 100 Freiminuten
+* 100 Frei-SMS
+* 19 cent pro Minute
+* 9 cent pro SMS
+
+[15 € /Monat](https://shop.wetell.de/private/ultrakurz/)
+
+* [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Ultrakurz.pdf)
+* [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Ultrakurz.pdf)
+
+### Ultrakurz ###
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
+
+**Mobilfunkinfos**
+– 100 Freiminuten, anschließend 19ct pro Minute in alle dt. Netze, ausgenommen Sonderrufnummern.
+– 100 Frei-SMS, anschließend 9 cent pro SMS in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+– 2 GB Inklusiv-Datenvolumen mit max. 50,0 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Ultrakurz.pdf).
+
+**Unsere Empfehlung nur für „Wenig-Telefonierer\*innen“**
+Telefonierst du wirklich so wenig, dass dir 100 Freiminuten reichen? Einige unserer Kund\*innen machen die Erfahrung, dass sich der Tarif „Mittelwelle“ sehr schnell lohnt, sobald man über die 100 Freiminuten kommt. Am besten kannst du dein Telefonier-Verhalten einschätzen und dich in der „Mittelwelle“ ggf. selbst vor ungewollten Kosten schützen.
+
+**Tarifwechsel**
+– Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+
+Lieblingstarif
+
+[](#rate-info-mittelwelle)
+
+##### Mittelwelle #####
+
+15 GB
+Daten LTE
+
+* Allnet Flat (Telefonie/SMS)
+
+[20 € /Monat](https://shop.wetell.de/private/mittelwelle/)
+
+* [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Mittelwelle.pdf)
+* [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Mittelwelle.pdf)
+
+### Mittelwelle ###
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
+
+**Mobilfunkinfos**
+– Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+– SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+– 15 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Mittelwelle.pdf).
+
+**Tarifwechsel**
+– Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+
+[](#rate-info-superfunk)
+
+##### Superfunk #####
+
+25 GB
+Daten LTE
+
+* Allnet Flat (Telefonie/SMS)
+
+[25 € /Monat](https://shop.wetell.de/private/superfunk/)
+
+* [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Superfunk.pdf)
+* [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Superfunk.pdf)
+
+### Superfunk ###
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
+
+**Mobilfunkinfos**
+– Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+– SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+– 25 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Superfunk.pdf).
+
+**Tarifwechsel**
+– Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+
+[](#rate-info-megafon)
+
+##### Megafon #####
+
+30 GB
+Daten LTE
+
+* Allnet Flat (Telefonie/SMS)
+
+[30 € /Monat](https://shop.wetell.de/private/megafon/)
+
+* [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Megafon.pdf)
+* [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Megafon.pdf)
+
+### Megafon ###
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
+
+**Mobilfunkinfos**
+– Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+– SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+– 30 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Megafon.pdf).
+
+**Tarifwechsel**
+– Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+
+[](#rate-info-ueberschall)
+
+##### Überschall #####
+
+40 GB
+Daten 5G
+
+* Allnet Flat (Telefonie/SMS)
+
+[45 € /Monat](https://shop.wetell.de/private/ueberschall/)
+
+* [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Ueberschall.pdf)
+* [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Ueberschall.pdf)
+
+### Überschall ###
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
+
+**Mobilfunkinfos**
+– Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+– SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+– 40 GB Inklusiv-Datenvolumen im 5G Netz mit max. 150 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Ueberschall.pdf).
+
+**Tarifwechsel**
+– Wechsel in einen kleineren Tarif (Tarifdowngrade) können wir leider nicht durchführen.
+
+Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr und ggf. FAIRstärker Option: -5 € bis + 5 € / Monat
+
+Mobilfunk geht auch nachhaltig!
 ----------
 
-„**Seit Unternehmensgründung war uns klar, dass wir ein wertebasiertes Unternehmen sein wollen. Als nachhaltiger Mobilfunkanbieter fokussieren wir uns auf Klimaschutz, Datenschutz, Fairness und Transparenz. Teil der Gemeinwohl-Ökonomie zu werden, bedeutet für uns, diese Werte noch fester verankern und transparenter machen zu können.**“
-*Nico Tucher, Gründungsteam*
+* Mobil telefonieren und surfen in D-Netz-Qualität
+* Alle Tarife klimaneutral
+* Alle Tarife monatlich kündbar
+* Freundlicher Service aus Freiburg und Preistransparenz statt versteckter Kosten und Warteschleifen
+* Speicherung aller Daten auf deutschen Servern
 
-Wie lässt sich Gemeinwohl messen?
+[Mehr Details zur Nachhaltigkeit](https://www.wetell.de/vision/)
+
+[](https://vimeo.com/535767464)
+
+Stimmen zu WEtell:
 ----------
 
-Genau diese Frage hat sich die GWÖ gestellt und eine Matrix entworfen. Sie beschreibt 20 Gemeinwohl-Themen inhaltlich und gibt Anleitungen zur Bewertung. Dabei werden fünf Berührungsgruppen mit jeweils vier Werten abgeglichen. Berührungsgruppen sind alle, die mit dem Unternehmen, das den Gemeinwohl-Bericht anfertigt, in Berührung kommen, z.B. Lieferant\*innen oder Kund\*innen. Bei den Werten handelt es sich um ethische Aspekte, wie Menschenwürde oder ökologische Nachhaltigkeit.
+[Wie Svenja Mittelwelle wählen](https://www.wetell.de/tarife/bestellen/?tarif=mittelwelle)
 
-[Hier ein Beispiel](#beispiel)
+Das junge Unternehmen WEtell aus Freiburg ist ein Mobilfunkanbieter mit Visionen. Seit Juli 2020 am Markt, setzt unsere Kundin von Anfang an auf Nachhaltigkeit: 100% Klimaschutz, Datenschutz, Fairness und Transparenz.
 
-Wir lassen die Hüllen fallen!
+[Wie Jasper dauerhaft wirksam sein](https://shop.wetell.de/private/mittelwelle/?tarif=mittelwelle)
+
+Fair, nachhaltig und klimaneutral: Mit hehren moralischen Ansprüchen will das Start-up Wetell den Mobilfunkmarkt aufmischen. Eine ungewöhnliche Gesellschaftervereinbarung soll die Werteorientierung absichern.
+
+Wähle ein Feedback:
+
+Svenja WEtell Kundin GLS Bank GLS Bank Jasper WEtell Kunde WirtschaftsWoche Das führende Wirtschaftsmagazin
+
+Svenja WEtell Kundin
+
+GLS Bank GLS Bank
+
+Jasper WEtell Kunde
+
+WirtschaftsWoche Das führende Wirtschaftsmagazin
+
+Infos gefällig?
 ----------
 
-**In [unserem GWÖ-Bericht](https://www.wetell.de/downloads/veroeffentlichungen/2021-10-01_WEtell_GWÖ-Bericht.pdf) wird nichts versteckt! Alle Details von Arbeitsbedingungen bis Umwelteinflüsse kannst du hier unter die Lupe nehmen!**
+Monatliche Kündigungserinnerung erhalten
 
-Worum geht es in der Matrix?
-----------
-
-Mit der Matrix werden alle Bereiche unternehmerischen Handelns auf Gemeinwohlorientierung geprüft. In C1 „Menschenwürde am Arbeitsplatz“, geht es zum Beispiel um Themen wie Diversität, Chancengleichheit oder Gesundheitsförderung am Arbeitsplatz. Bei E3 „Reduktion ökologischer Auswirkungen“ stellen sich hingegen Fragen wie: „Hat die Tätigkeit des Unternehmens negative Auswirkungen auf die Umwelt? Und wenn ja, was wird getan, um diese zu verringern oder auszugleichen? Diese und viele andere Fragen hat WEtell bei der GWÖ Bilanzierung beantwortet.
-
-[Wie funktioniert das mit der Bilanzierung?](#bilanzierung)
-
-Der Bilanzierungsprozess
-----------
-
-Zuerst haben wir uns zur GWÖ und dem Prozess schlau gemacht, indem wir Kontakt zu einer Regionalgruppe aufgenommen haben – die gibt es in zahlreichen Städten. Als für uns klar war „Yay, das wollen wir machen“, sind wir den nächsten Schritt gegangen und Vereinsmitglied bei der GWÖ geworden. Dann hieß es Ärmel hochkrempeln und ran an den Gemeinwohl-Bericht. Diesen haben wir mit Hilfe eines vorgegebenen Fragenkatalogs erstellt, der alle Aspekte der Gemeinwohl-Orientierung abklopft. Bei der Erstellung hatten wir Unterstützung einer erfahrenen GWÖ-Beraterin, die uns mit Rat und Tat zur Seite stand. Unser fertiger Bericht wurde durch einen Gutachter der GWÖ geprüft und bewertet.
-
-### FAQ zur Gemeinwohl-Ökonomie ###
-
-Wo erfahre ich mehr über die Gemeinwohl-Ökonomie?
-
-Die GWÖ hat [eine Webseite](https://germany.ecogood.org/), auf der du dich schlau machen kannst.
-
-Mit welchem Programm habt ihr euren Bericht erstellt?
-
-Wir haben mit dem [goodbalancer](https://www.goodbalancer.org/) gearbeitet, der uns geholfen hat, beim Erstellen des umfangreichen Berichts den Überblick nicht zu verlieren.
-
-Könnt ihr Bücher oder weiterführende Berichte empfehlen?
-
-Für eine umfassende Einführung in die Idee der GWÖ empfehlen wir das Buch „Gemeinwohl-Ökonomie“ von GWÖ-Mitgründer Christian Felber.
-Wenn du mehr über die GWÖ in der Praxis erfahren willst, empfehlen wir das Buch „24 wahre Geschichten vom Tun und vom Lassen“, herausgegeben von Karsten Hoffmann, Gitta Walchner und Lutz Dudek.
-
-Wo kann ich Kontakt mit der GWÖ aufnehmen?
-
-Auf [der Seite der GWÖ](https://germany.ecogood.org/ueber-uns/regionalgruppen/)findest du Kontakte zu GWÖ-Vereinen und Regionalgruppen in deiner Nähe
-
-Kann ich mich auch für die GWÖ engagieren, wenn ich gar kein Unternehmen habe?
-
-Klar kannst du das. Die GWÖ finanziert sich über Mitglieder und Spenden. Du kannst auch ganz einfach mit deiner Unterschrift unterstützen, in einer der Regionalgruppen aktiv werden oder gar selbst eine gründen. Auf [der Seite der GWÖ](https://germany.ecogood.org/) findest du alle Infos und kannst selbst aktiv werden.
+[Datenschutzerklärung](https://wetell.de/datenschutz) akzeptiert
