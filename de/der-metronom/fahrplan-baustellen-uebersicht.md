@@ -30,8 +30,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[08.02.2024 - 09.02.2024 RE3/RB31 nächtliche Haltausfälle Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen/)
-
 [10.02.2024 - 11.02.2024 RE3/RB31 geänderte Fahrzeiten für zwei nächtliche Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-geaenderte-fahrzeiten-fuer-zwei-naechtliche-verbindungen/)
 
 [14.02.2024 RE3/RB31 Ersatzverkehr mit Bussen zwischen Hamburg Hbf und Hamburg-Harburg in den frühen Morgenstunden](https://www.der-metronom.de/baustellen/re3-rb31-ersatzverkehr-mit-bussen-zwischen-hamburg-hbf-und-hamburg-harburg-in-den-fruehen-morgenstunden/)
