@@ -18,6 +18,8 @@ RE2 Uelzen - Celle - Hannover
 
 [10.02.2024 - 11.02.2024 RE3/RB31 geänderte Fahrzeiten für zwei nächtliche Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-geaenderte-fahrzeiten-fuer-zwei-naechtliche-verbindungen/)
 
+[28.02.2024 - 01.03.2024 RE3/RE2 Haltausfall Celle bis Hannover mit allen Unterwegshalten in beiden Richtungen in Tagesrandlage](https://www.der-metronom.de/baustellen/re3-re2-haltausfall-celle-bis-hannover-mit-allen-unterwegshalten-in-beiden-richtungen-in-tagesrandlage/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [11.02.2024 RE2 nächtlicher Ersatzverkehr mit Bussen zwischen Hannover Hbf und Alfeld (L.) für den 82841](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-zwischen-hannover-hbf-und-alfeld-l-fuer-den-82841/)
