@@ -20,8 +20,6 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[11.02.2024 RE2 nächtlicher Ersatzverkehr mit Bussen zwischen Hannover Hbf und Alfeld (L.) für den 82841](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-zwischen-hannover-hbf-und-alfeld-l-fuer-den-82841/)
-
 [12.02.2024 - 15.02.2024 RE2 Fahrzeitenänderungen in den frühen Morgenstunden](https://www.der-metronom.de/baustellen/re2-fahrzeitenaenderungen-in-den-fruehen-morgenstunden/)
 
 [17.02.2024 - 18.02.2024 RE3/RE2 keine Durchbindung von Uelzen - Göttingen](https://www.der-metronom.de/baustellen/re3-re2-keine-durchbindung-von-uelzen-goettingen/)
