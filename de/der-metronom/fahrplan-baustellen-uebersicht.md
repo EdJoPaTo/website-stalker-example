@@ -16,8 +16,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[10.02.2024 - 11.02.2024 RE3/RB31 geänderte Fahrzeiten für zwei nächtliche Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-geaenderte-fahrzeiten-fuer-zwei-naechtliche-verbindungen/)
-
 [28.02.2024 - 01.03.2024 RE3/RE2 Haltausfall Celle bis Hannover mit allen Unterwegshalten in beiden Richtungen in Tagesrandlage](https://www.der-metronom.de/baustellen/re3-re2-haltausfall-celle-bis-hannover-mit-allen-unterwegshalten-in-beiden-richtungen-in-tagesrandlage/)
 
 RE2 Hannover - Northeim - Göttingen
@@ -31,8 +29,6 @@ RE2 Hannover - Northeim - Göttingen
 [23.02.2024 - 24.02.2024 RE2 nächtlicher Ersatzverkehr mit Bussen zwischen Einbeck-Salzderhelden und Göttingen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-zwischen-einbeck-salzderhelden-und-goettingen/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
-
-[10.02.2024 - 11.02.2024 RE3/RB31 geänderte Fahrzeiten für zwei nächtliche Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-geaenderte-fahrzeiten-fuer-zwei-naechtliche-verbindungen/)
 
 [14.02.2024 RE3/RB31 Ersatzverkehr mit Bussen zwischen Hamburg Hbf und Hamburg-Harburg in den frühen Morgenstunden](https://www.der-metronom.de/baustellen/re3-rb31-ersatzverkehr-mit-bussen-zwischen-hamburg-hbf-und-hamburg-harburg-in-den-fruehen-morgenstunden/)
 
