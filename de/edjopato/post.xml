@@ -6,6 +6,14 @@
 		<description></description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Minimale Traefik Konfiguration</title>
+			<link>https://edjopato.de/post/2024/02/10-traefik-minimal-config/</link>
+			<pubDate>Sun, 11 Feb 2024 11:13:00 +0100</pubDate>
+			<content:encoded><![CDATA[2024-02-11
+
+Minimale Traefik Konfiguration]]></content:encoded>
+		</item>
+		<item>
 			<title>Raspberry Pi Activity Leds abstellen</title>
 			<link>https://edjopato.de/post/2023/10/29-raspberry-pi-leds/</link>
 			<pubDate>Sun, 29 Oct 2023 22:54:00 +0100</pubDate>
@@ -92,14 +100,6 @@ Monitorzustand am Energieverbrauch erkennen]]></content:encoded>
 			<content:encoded><![CDATA[2022-03-31
 
 Die Gnome 42 Console spart Strom]]></content:encoded>
-		</item>
-		<item>
-			<title>Meine Anpassungen und Erfahrungen mit Gnome 42</title>
-			<link>https://edjopato.de/post/2022/03/27-gnome42/</link>
-			<pubDate>Sun, 27 Mar 2022 13:49:00 +0200</pubDate>
-			<content:encoded><![CDATA[2022-03-27
-
-Meine Anpassungen und Erfahrungen mit Gnome 42]]></content:encoded>
 		</item>
 	</channel>
 </rss>
