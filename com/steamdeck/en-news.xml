@@ -6,6 +6,44 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.5.16 Preview: Three Five One Six</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4208120382993150032</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 12, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Further improved performance in Persona 3 Reload
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208120382993150032" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.5.15 Preview: Three Five One Five</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4208120159992813163</link>
 			<content:encoded><![CDATA[<html>
@@ -195,56 +233,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208119548509679253" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.5.14 Preview: Mirror Man</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119548509344812</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 2, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved performance of ray-traced reflections in Persona 3 Reload
-						<br>
-					</li>
-					<li>
-						Slightly improved corner tracking on Steam Deck OLED trackpads
-						<br>
-					</li>
-					<li>
-						Fixed a possible session crash when connecting an HDR display
-						<br>
-					</li>
-					<li>
-						Fixed a rare session crash on application exit
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208119548509344812" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
