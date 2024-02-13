@@ -4,7 +4,7 @@
 		<title>EdJoPaTos Blog</title>
 		<link>https://edjopato.de/post/</link>
 		<description></description>
-		<generator>website-stalker/0.21.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Mal eben Webserver mit miniserve</title>
 			<link>https://edjopato.de/post/2024/02/12-miniserve/</link>
@@ -32,7 +32,7 @@ Raspberry Pi Activity Leds abstellen]]></content:encoded>
 		<item>
 			<title>FFmpeg unter arm64 im Alpine Container schneller als unter Debian</title>
 			<link>https://edjopato.de/post/2023/07/09-ffmpeg-arm64-alpine/</link>
-			<pubDate>Sun, 09 Jul 2023 17:15:00 +0200</pubDate>
+			<pubDate>Sun, 9 Jul 2023 17:15:00 +0200</pubDate>
 			<content:encoded><![CDATA[2023-07-09
 
 FFmpeg unter arm64 im Alpine Container schneller als unter Debian]]></content:encoded>
@@ -40,7 +40,7 @@ FFmpeg unter arm64 im Alpine Container schneller als unter Debian]]></content:en
 		<item>
 			<title>Mensa Gerichte - vegan oder vielleicht auch nicht?</title>
 			<link>https://edjopato.de/post/2023/05/02-mensa-vegan/</link>
-			<pubDate>Tue, 02 May 2023 19:52:00 +0200</pubDate>
+			<pubDate>Tue, 2 May 2023 19:52:00 +0200</pubDate>
 			<content:encoded><![CDATA[2023-05-02
 
 Mensa Gerichte - vegan oder vielleicht auch nicht?]]></content:encoded>
@@ -56,7 +56,7 @@ Performancevergleich von Hetzners neuen arm64 Cloud Servern]]></content:encoded>
 		<item>
 			<title>rain-brainz.de mit JPEG, kein AVIF, WebP oder JPEG-XL</title>
 			<link>https://edjopato.de/post/2022/11/09-avif-jpg-jxl-webp/</link>
-			<pubDate>Wed, 09 Nov 2022 19:37:00 +0100</pubDate>
+			<pubDate>Wed, 9 Nov 2022 19:37:00 +0100</pubDate>
 			<content:encoded><![CDATA[2022-11-09
 
 rain-brainz.de mit JPEG, kein AVIF, WebP oder JPEG-XL]]></content:encoded>
@@ -72,7 +72,7 @@ Travelynx Erinnerung mit iOS]]></content:encoded>
 		<item>
 			<title>Environment Variablen Secrets in der Command Line</title>
 			<link>https://edjopato.de/post/2022/08/04-env-secrets/</link>
-			<pubDate>Thu, 04 Aug 2022 08:36:00 +0200</pubDate>
+			<pubDate>Thu, 4 Aug 2022 08:36:00 +0200</pubDate>
 			<content:encoded><![CDATA[2022-08-04
 
 Environment Variablen Secrets in der Command Line]]></content:encoded>
@@ -88,7 +88,7 @@ JSON Daten überprüfen mit JSON Schema]]></content:encoded>
 		<item>
 			<title>Mittels Fuzzyfind in Git Ordner springen</title>
 			<link>https://edjopato.de/post/2022/06/09-cdg/</link>
-			<pubDate>Thu, 09 Jun 2022 14:43:00 +0200</pubDate>
+			<pubDate>Thu, 9 Jun 2022 14:43:00 +0200</pubDate>
 			<content:encoded><![CDATA[2022-06-09
 
 Mittels Fuzzyfind in Git Ordner springen]]></content:encoded>
@@ -96,7 +96,7 @@ Mittels Fuzzyfind in Git Ordner springen]]></content:encoded>
 		<item>
 			<title>Monitorzustand am Energieverbrauch erkennen</title>
 			<link>https://edjopato.de/post/2022/05/04-monitor-energy/</link>
-			<pubDate>Wed, 04 May 2022 20:50:00 +0200</pubDate>
+			<pubDate>Wed, 4 May 2022 20:50:00 +0200</pubDate>
 			<content:encoded><![CDATA[2022-05-04
 
 Monitorzustand am Energieverbrauch erkennen]]></content:encoded>
