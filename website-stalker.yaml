@@ -329,7 +329,7 @@ sites:
       - https://www.wetell.de/vision/datenschutz/
       - https://www.wetell.de/vision/fairness-und-transparenz/
       - https://www.wetell.de/vision/purpose/
-      - https://www.wetell.de/vision/gemeinwohl-mobilfunk-bilanz/
+      - https://www.wetell.de/vision/gemeinwohl-bilanzierung/
     editors:
       - css_select: main
       - css_remove: img, .account-bar, .bar__value, .bar__content__bar__front, .module--faqs__menu, .faq__content__footer__feedback
