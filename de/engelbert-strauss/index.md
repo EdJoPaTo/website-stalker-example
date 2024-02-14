@@ -1,14 +1,20 @@
-NFL X
- STRAUSS
+###  WINTER SALE  ###
+
+---
+
+ Bis zu 47 %
+sparen
 ----------
 
 ---
 
-###  Unser nächster Spielzug  ###
+[Herren](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Herren/)
 
----
+[Damen](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Damen/)
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/NFL)
+[Kinder](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Kinder/)
+
+[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest%3Famp;itemorigin%3Dstartseite_hw23winter)
 
 Allseason
 
@@ -55,21 +61,6 @@ profis
 ---
 
 [alle Produkte](https://www.engelbert-strauss.de/s/suche?itemorigin=startseite_hw23Winter&query=forst)
-
- Winter Sale
----
-
- Bis zu 47 %
-sparen
----
-
-Herren
-
-Damen
-
-Kinder
-
-[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest)
 
  Clever sparen in unserem
 ---
