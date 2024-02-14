@@ -28,8 +28,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[14.02.2024 RE3/RB31 Ersatzverkehr mit Bussen zwischen Hamburg Hbf und Hamburg-Harburg in den frühen Morgenstunden](https://www.der-metronom.de/baustellen/re3-rb31-ersatzverkehr-mit-bussen-zwischen-hamburg-hbf-und-hamburg-harburg-in-den-fruehen-morgenstunden/)
-
 [17.02.2024 - 18.02.2024 RE3/RE2 keine Durchbindung von Uelzen - Göttingen](https://www.der-metronom.de/baustellen/re3-re2-keine-durchbindung-von-uelzen-goettingen/)
 
 [18.02.2024 RB31 nächtlicher Haltausfall Bardowick, Radbruch und Ashausen in Fahrtrichtung Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-bardowick-radbruch-und-ashausen-in-fahrtrichtung-hamburg-hbf/)
