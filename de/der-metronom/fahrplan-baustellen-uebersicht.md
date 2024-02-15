@@ -44,6 +44,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [08.03.2024 RE3/RB31 morgendliche Haltausfälle in Radbruch und Bardowick Fahrtrichtung Hamburg - Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-morgendliche-haltausfaelle-in-radbruch-und-bardowick-fahrtrichtung-hamburg-uelzen/)
 
+[08.03.2024 RB31 nächtlicher Haltausfall in Bardowick 81642](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-bardowick-81642/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [21.08.2023 - 15.02.2024 Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/baustellen/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)

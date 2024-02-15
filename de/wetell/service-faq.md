@@ -228,15 +228,17 @@ Am einfachsten findest du dein PIN (Persönliche Identifikationsnummer) sowie de
 Deine Mailbox findest und steuerst du ganz einfach über die kostenfreie Rufnummer 5500. Folge den telefonischen Ansagen.
 Die Tastaturbelegung für die Aktivierung und Deaktivierung deiner Mobilbox funktioniert sowohl im In- als auch im Ausland.
 
-Klappt die Mailbox-Abfrage im Ausland nicht, lass dich über +49 172 22 85 mit deiner Mailbox verbinden. Das ist unser internationaler Mailbox-Operator. Dafür **bezahlst** du den **Gesprächspreis nach Deutschland**.
+Klappt die Mailbox-Abfrage im Ausland nicht, lass dich über +49 172 22 85 mit deiner Mailbox verbinden. Das ist unser internationaler Mailbox-Operator. Dafür **bezahlst du den Gesprächspreis nach Deutschland**.
 
-Weitere [Informationen zu deiner Mailbox](https://www.vodafone.de/hilfe/alles-zur-mailbox.html)findest du auf den Seiten der Vodafone, da die Mailbox im Vodafone-Netz einheitlich funktioniert.
+Weitere Informationen zu deiner Mailbox findest du auf den Seiten der Vodafone, da die Mailbox im Vodafone-Netz einheitlich funktioniert:
+[Zur Infoseite](https://www.vodafone.de/hilfe/alles-zur-mailbox.html)
 
 **Achtung:** Per SMS kann die 5500 **nicht** kontaktiert werden.
 
 #### Wie kann ich eine Anrufumleitung einstellen? ####
 
-Anrufumleitungen lassen sich durch [festgelegte Tastenkombinationen](https://www.vodafone.de/infofaxe/320.pdf) einrichten.
+Anrufumleitungen lassen sich durch festgelegte Tastenkombinationen einrichten:
+[Zur Infoseite](https://www.vodafone.de/hilfe/mobiles-telefonieren/telefonieren.html#wie-schalte-ich-eine-rufumleitung-am-handy-ein-und-aus)
 
 Wenn du den Ultrakurz-Tarif nutzt, belastet jede angefangene Minute, in der ein Gespräch umgeleitet wird, deine 100 Freiminuten. Sind diese verbraucht, kostet die Umleitung pro Minute 0,19 €.
 
