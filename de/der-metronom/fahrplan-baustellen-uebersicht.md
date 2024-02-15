@@ -18,11 +18,15 @@ RE2 Uelzen - Celle - Hannover
 
 [28.02.2024 - 01.03.2024 RE3/RE2 Haltausfall Celle bis Hannover mit allen Unterwegshalten in beiden Richtungen in Tagesrandlage](https://www.der-metronom.de/baustellen/re3-re2-haltausfall-celle-bis-hannover-mit-allen-unterwegshalten-in-beiden-richtungen-in-tagesrandlage/)
 
+[05.03.2024 - 08.03.2024 RE2 nächtliche Haltausfälle in Nordstemmen und Sarstedt und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-naechtliche-haltausfaelle-in-nordstemmen-und-sarstedt-und-fahrzeitenaenderungen/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [17.02.2024 - 18.02.2024 RE3/RE2 keine Durchbindung von Uelzen - Göttingen](https://www.der-metronom.de/baustellen/re3-re2-keine-durchbindung-von-uelzen-goettingen/)
 
 [23.02.2024 - 24.02.2024 RE2 nächtlicher Ersatzverkehr mit Bussen zwischen Einbeck-Salzderhelden und Göttingen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-zwischen-einbeck-salzderhelden-und-goettingen/)
+
+[05.03.2024 - 08.03.2024 RE2 nächtliche Haltausfälle in Nordstemmen und Sarstedt und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-naechtliche-haltausfaelle-in-nordstemmen-und-sarstedt-und-fahrzeitenaenderungen/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
