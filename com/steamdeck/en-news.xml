@@ -6,6 +6,75 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: February 14th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4365746543858878934</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 14, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a case where no element would be selected in the UI when closing the quick access menu.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a case where mouse click input could stop working when starting to drag operation on a steam window.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Preview Only
+				</b>
+				<br>
+				<br>
+				As part of today’s update, we are adding SteamOS Crash Report functionality. This feature is
+				<b>
+					turned off by default
+				</b>
+				– if you’d like to help us with collecting crash reports to continue improving SteamOS, please turn it on in
+				<b>
+					Settings > System
+				</b>
+				.
+				<br>
+				<br>
+				When this feature is enabled, if your Steam Deck crashes, it will send crash reports and system information to Valve (the next time it's connected to the internet). You will have granular control over what types of information will be sent in the settings for this feature (in Settings > System).
+				<br>
+				<br>
+				Thank you for helping us improve SteamOS.
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4365746543858878934" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: February 13th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4365746543855424977</link>
 			<content:encoded><![CDATA[<html>
@@ -187,62 +256,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208120159992676952" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: February 6th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4208119923880497110</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 6, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed issues with popup menus and other popup dialogs
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Controllers can be used to dismiss/continue when controller support information panels appear before a game's launch.
-						<br>
-					</li>
-					<li>
-						Fix for Gyro enable button not being respected.
-						<br>
-					</li>
-					<li>
-						QoL: Gyro Calibration button available in Controller Config Quick settings, and in the Gyro section of the Controller Layout Editor.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208119923880497110" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
