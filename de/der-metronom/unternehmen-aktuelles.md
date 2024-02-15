@@ -40,7 +40,7 @@ ab Montag, dem 12....
 
 Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
 
-[Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
+[Update: Erneuerung der Aufzüge in Rotenburg - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
 
  Uelzen - 21.08.2023
 
