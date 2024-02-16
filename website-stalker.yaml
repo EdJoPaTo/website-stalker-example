@@ -67,6 +67,7 @@ sites:
       - html_markdownify
 
   - url: https://www.raspberrypi.com/software/operating-systems/
+    ignore_error: true
     editors:
       - css_select: main
       - css_remove: img
