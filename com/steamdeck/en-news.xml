@@ -6,6 +6,48 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: February 16th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/7198510808230796455</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 16, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed downloading content with long file names in some cases.
+						<br>
+					</li>
+					<li>
+						Fixed a case where the client could get stuck in the shutting down screen.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/7198510808230796455" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: February 14th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4365746543858878934</link>
 			<content:encoded><![CDATA[<html>
@@ -210,52 +252,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208120159992813163" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: February 9th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4208120159992676952</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 9, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed game news sometimes appearing out of order in game details activity feed.
-						<br>
-					</li>
-					<li>
-						Removed duplicate friend counter on game capsules
-						<br>
-					</li>
-					<li>
-						Added a privacy icon to your own in-game status at the top of the friends list if you are in a private game to indicate the status is shown only to you.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208120159992676952" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
