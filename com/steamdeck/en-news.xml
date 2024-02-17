@@ -33,6 +33,8 @@
 						Fixed a case where the client could get stuck in the shutting down screen.
 					</li>
 				</ul>
+				<br>
+				Note: this client was re-released to fix excessive file access on shutdown.
 			</div>
 			<div>
 				<div>
