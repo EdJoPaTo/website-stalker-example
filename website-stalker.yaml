@@ -170,9 +170,9 @@ sites:
       - html_markdownify
 
   - url:
-      - https://www.der-metronom.de/fahrkarten/befoerderungsbedingungen/
       - https://www.der-metronom.de/fahrplan/aktuelle-verkehrslage/
       - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
+      - https://www.der-metronom.de/service/befoerderungsbedingungen/
       - https://www.der-metronom.de/unternehmen/aktuelles/
     editors:
       - css_select: "#content"
