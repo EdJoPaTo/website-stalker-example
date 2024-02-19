@@ -112,7 +112,7 @@ sites:
       - https://www.netcup.de/vserver/
       - https://www.netcup.de/vserver/arm-server/
       - https://www.netcup.de/vserver/root-server-erweiterungen.php
-      - https://www.netcup.de/vserver/uebersicht-vserver-angebote.php
+      - https://www.netcup.de/vserver/vps-mini.php
       - https://www.netcup.de/vserver/vps.php
       - https://www.netcup.de/vserver/vstorage.php
     editors:
