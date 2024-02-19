@@ -21,13 +21,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
 
-[Ab dem 12. Februar: Geänderte Öffnungszeiten im Servicecenter Lüneburg (Verkaufsstelle)](https://www.der-metronom.de/aktuell/ab-dem-12-februar-geaenderte-oeffnungszeiten-im-servicecenter-lueneburg-verkaufsstelle/)
-
- Uelzen - 22.01.2024
-
-Moin liebe Fahrgäste,
-ab Montag, dem 12....
-
 [Ab 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
  Uelzen - 08.01.2024

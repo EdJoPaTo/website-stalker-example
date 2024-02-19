@@ -22,17 +22,11 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[17.02.2024 - 18.02.2024 RE3/RE2 keine Durchbindung von Uelzen - Göttingen](https://www.der-metronom.de/baustellen/re3-re2-keine-durchbindung-von-uelzen-goettingen/)
-
 [23.02.2024 - 24.02.2024 RE2 nächtlicher Ersatzverkehr mit Bussen zwischen Einbeck-Salzderhelden und Göttingen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-zwischen-einbeck-salzderhelden-und-goettingen/)
 
 [05.03.2024 - 08.03.2024 RE2 nächtliche Haltausfälle in Nordstemmen und Sarstedt und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-naechtliche-haltausfaelle-in-nordstemmen-und-sarstedt-und-fahrzeitenaenderungen/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
-
-[17.02.2024 - 18.02.2024 RE3/RE2 keine Durchbindung von Uelzen - Göttingen](https://www.der-metronom.de/baustellen/re3-re2-keine-durchbindung-von-uelzen-goettingen/)
-
-[18.02.2024 RB31 nächtlicher Haltausfall Bardowick, Radbruch und Ashausen in Fahrtrichtung Hamburg Hbf](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-bardowick-radbruch-und-ashausen-in-fahrtrichtung-hamburg-hbf/)
 
 [20.02.2024 - 23.02.2024 RE3/RB31 nächtliche Ausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie Haltausfälle Ashausen, Radbruch und Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-ausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-haltausfaelle-ashausen-radbruch-und-bardowick/)
 
