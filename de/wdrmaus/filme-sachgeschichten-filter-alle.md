@@ -942,6 +942,7 @@
 * [Schrauben](https://www.wdrmaus.de/filme/sachgeschichten/schrauben.php5)
 * [Schraubenmutter](https://www.wdrmaus.de/filme/sachgeschichten/schraubenmutter.php5)
 * [Schraubenmutter Gewindeschneider](https://www.wdrmaus.de/filme/sachgeschichten/schraubenmutter_gewindeschneider.php5)
+* [Schuhgrößen](https://www.wdrmaus.de/filme/sachgeschichten/schuhgroessen.php5)
 * [Schulexperiment](https://www.wdrmaus.de/filme/sachgeschichten/schulexperiment.php5)
 * [Schulkantine](https://www.wdrmaus.de/filme/sachgeschichten/schulkantine.php5)
 * [Schulkreide](https://www.wdrmaus.de/filme/sachgeschichten/schulkreide.php5)
