@@ -6,6 +6,66 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: February 20th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4338725580138075821</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 20, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed creation of erroneous steamwebhelper processes when steamwebhelper crashes
+						<br>
+					</li>
+					<li>
+						Fixed on-screen text input to show the game in the background.
+						<br>
+					</li>
+					<li>
+						Fixed EULA dialog extending off the screen
+						<br>
+					</li>
+					<li>
+						Fixed friends list not showing which friend was selected
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed user avatar in title bar momentarily switching back to default during startup.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4338725580138075821" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: February 16th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/7198510808230796455</link>
 			<content:encoded><![CDATA[<html>
@@ -212,48 +272,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208120382993150032" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.5.15 Preview: Three Five One Five</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4208120159992813163</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 9, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved gamut mapping for HDR titles on Deck OLED
-						<br>
-					</li>
-					<li>
-						Improved handling of GPU crashes
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4208120159992813163" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
