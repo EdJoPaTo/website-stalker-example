@@ -22,6 +22,8 @@ RE2 Uelzen - Celle - Hannover
 
 [09.03.2024 - 10.03.2024 RE2/RE3/RB31 abendlicher/nächtlicher Ersatzverkehr mit Bussen zwischen Suderburg und Bad Bevensen](https://www.der-metronom.de/baustellen/re2-re3-rb31-abendlicher-naechtlicher-ersatzverkehr-mit-bussen-zwischen-suderburg-und-bad-bevensen/)
 
+[11.03.2024 RE2/RE3 geänderte Fahrzeit Uelzen bis Unterlüß 82853 sowie Ersatzverkehr mit Bus zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-geaenderte-fahrzeit-uelzen-bis-unterluess-82853-sowie-ersatzverkehr-mit-bus-zwischen-uelzen-und-suderburg/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [23.02.2024 - 24.02.2024 RE2 nächtlicher Ersatzverkehr mit Bussen zwischen Einbeck-Salzderhelden und Göttingen](https://www.der-metronom.de/baustellen/re2-naechtlicher-ersatzverkehr-mit-bussen-zwischen-einbeck-salzderhelden-und-goettingen/)
