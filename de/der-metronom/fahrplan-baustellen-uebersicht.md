@@ -44,6 +44,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [09.03.2024 - 10.03.2024 RE2/RE3/RB31 abendlicher/nächtlicher Ersatzverkehr mit Bussen zwischen Suderburg und Bad Bevensen](https://www.der-metronom.de/baustellen/re2-re3-rb31-abendlicher-naechtlicher-ersatzverkehr-mit-bussen-zwischen-suderburg-und-bad-bevensen/)
 
+[10.03.2024 - 13.03.2024 RB31 nächtlicher Ersatzverkehr mit Bussen (Haltausfall Bardowick, Radbruch und Ashausen)](https://www.der-metronom.de/baustellen/rb31-naechtlicher-ersatzverkehr-mit-bussen-haltausfall-bardowick-radbruch-und-ashausen/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [16.02.2024 - 23.02.2024 RB41 nächtliche Brückenbauarbeiten - Haltausfälle in Klecken, Hittfeld und Buchholz (N.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-brueckenbauarbeiten-haltausfaelle-in-klecken-hittfeld-und-buchholz-n/)
