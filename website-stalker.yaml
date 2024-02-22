@@ -114,7 +114,6 @@ sites:
       - https://www.netcup.de/vserver/root-server-erweiterungen.php
       - https://www.netcup.de/vserver/vps-mini.php
       - https://www.netcup.de/vserver/vps.php
-      - https://www.netcup.de/vserver/vstorage.php
     editors:
       - css_select: .card, table
       - css_remove: img, .card--content--image, style, script, .input-field
