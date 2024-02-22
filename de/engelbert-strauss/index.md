@@ -1,135 +1,128 @@
-###  WINTER SALE  ###
-
----
-
- Bis zu 47 %
-sparen
-----------
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Herren/)
-
-[Damen](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Damen/)
-
-[Kinder](https://www.engelbert-strauss.de/f/sale/Herren_Damen_Kinder:Kinder/)
-
-[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest%3Famp;itemorigin%3Dstartseite_hw23winter)
-
-Allseason
-
----
-
-CONCRETE
+Athletisch luftig
 
 ----------
 
 ---
 
-###  Für das ganze Jahr  ###
+ e.s.ambition – die neue Kollektion mit Ventilations-Effekt.
+Farbstarke Outfits, sportliche Schnitte.
 
----
+[zur e.s.ambition Kollektion](https://www.engelbert-strauss.de/ambition)
 
-[alle Produkte](https://www.engelbert-strauss.de/f/e-s-concrete/Ausstattung:Futter_Fuellung:waermende_Innenseite/#filter:closed)
+Endlich da!
 
- Wärmebereich
----
-
- Leichtes Lining vom Bund bis zu den Knien
----
-
- Winter-
-schuhe
 ----------
 
 ---
 
-###  Sichere Sache: Mehr Grip in Eis und Schnee  ###
+ Die neuen Berufs- und Sicherheitsschuhe:
+Schutz & Komfort für jeden Einsatz!
 
----
+[alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
 
-[alle Produkte](https://www.engelbert-strauss.de/sicherheitsstiefel/?itemorigin=startseite_hw23Winter)
+Kernige Styles
 
- Forst-
-profis
 ----------
 
 ---
 
-###  Robuster Faserpelz: Wärmend, bequem & sichtbar im Wald-Einsatz  ###
+ Weiter geht’s im kernigen Iconic-Style:
+Die neuen Teile sind da!
+
+[zur e.s.iconic Kollektion](https://www.engelbert-strauss.de/iconic)
+
+ Neuheiten
+----------
 
 ---
 
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?itemorigin=startseite_hw23Winter&query=forst)
-
- Clever sparen in unserem
----
-
- Werkzeug
----
-
- Sale
----
-
-[alle Produkte](https://www.engelbert-strauss.de/sale-werkzeuge/?itemOrigin=StartseiteHW23Winter)
-
-[alle Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets-werkzeuge/?itemOrigin=StartseiteHW23Winter)
-
-|   | bis zu<br/>---<br/><br/> 26 %<br/>---|   |
-|---|--------------------------------------|---|
-
- für Sie, Ihn und für Kids
----
-
- Wärmende Winterbekleidung
----
-
- Herren
----
-
-[alle Produkte](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Funktionsschicht:Basisschicht,Waermeschicht,Wetterschutzschicht/?itemorigin=startseite_hw23Winter&obfuscate=true)
-
- Damen
----
-
-[alle Produkte](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Funktionsschicht:Basisschicht,Waermeschicht,Wetterschutzschicht/?itemorigin=startseite_hw23Winter&obfuscate=true)
-
- Kinder
----
-
-[alle Produkte](https://www.engelbert-strauss.de/f/kinderbekleidung/Funktionsschicht:Basisschicht,Waermeschicht,Wetterschutzschicht/?itemorigin=startseite_hw23Winter&obfuscate=true)
-
- Die perfekten Begleiter für wechselhaftes Wetter
----
-
- Übergangs-
-jacken
----
-
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aHerren&query=%c3%bcbergangsjacke&itemorigin=startseite_hw23Winter&obfuscate=true)
-
- Flexible Allrounder für den ganzen Tag
----
-
- Übergangs-
-jacken
----
-
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aDamen&query=%c3%bcbergangsjacke&itemorigin=startseite_hw23Winter&obfuscate=true)
-
-###  Zur perfekten Arbeitsjacke in nur 3 Schritten  ###
+ Neue Taschen-Lösungen
+----------
 
 ---
 
- Der Jackenfinder ermittelt schnell für Sie passende Jacken
+ Kompakt, sicher verstaut, direkt griffbereit
 
-[Jacke finden](https://www.engelbert-strauss.de/arbeitsjacken/?jacketfinder=open)
+[alle neuen e.s.ambition Taschen](https://www.engelbert-strauss.de/ambition_taschen)
 
- Newsletter abonnieren
+|   | Werkzeugtasche e.s.ambition|
+|---|----------------------------|
 
- und exklusive Aktionen, Gutscheine & Schnäppchen sichern
+|   | Rucksack   <br/>e.s.ambition|
+|---|-----------------------------|
 
-[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)
+ Neue Taschen-Lösungen
+----------
+
+---
+
+ Kompakt, sicher verstaut, direkt griffbereit
+
+[alle neuen e.s.ambition Taschen](https://www.engelbert-strauss.de/ambition_taschen)
+
+|   | Werkzeugtasche e.s.ambition|
+|---|----------------------------|
+
+|   | Werkzeug-Schultertasche   <br/>e.s.ambition|
+|---|--------------------------------------------|
+
+| Die neue Saison startet: Jetzt!<br/>----------<br/><br/>---| Entdecken Sie neue Workwear, neue Schuhe, neues Equipment und viele Saisonartikel – nur solange der Vorrat reicht!<br/><br/>[<br/><br/>alle Neuheiten<br/><br/>](https://www.engelbert-strauss.de/neuheiten/?sort=newest)|
+|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+ Explore new Trails
+----------
+
+---
+
+ Ab sofort neue Farben, neue Modelle im e.s.trail-Style
+
+[zur e.s.trail Kollektion](https://www.engelbert-strauss.de/trail)
+
+ High-Tech für die Hände
+----------
+
+---
+
+ Montage-Handschuhe Protect: jetzt neu!
+
+[jetzt zugreifen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/e-s-montage-handschuhe-protect-2101310-7620407-1.html?amp;itemorigin=Startseite_FS24)
+
+[mehr Details](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/e-s-montage-handschuhe-protect-2101310-7620407-1.html?itemorigin=Startseite_FS24)
+
+ Kollaborationen
+----------
+
+---
+
+ Bereit fürs nächste Level?
+---
+
+[alle Produkte](https://www.engelbert-strauss.de/super-mario-x-strauss/?sort=newest)
+
+|   | JETZT  <br/>NEU!<br/>---|   |
+|---|-------------------------|---|
+
+ Strauss Produktfinder – finde, was zu dir passt.
+----------
+
+---
+
+ Jackenfinder
+----------
+
+---
+
+[jetzt starten](https://www.engelbert-strauss.de/arbeitsjacken/?jacketfinder=open)
+
+ Hosenfinder
+---
+
+[jetzt starten](https://www.engelbert-strauss.de/arbeitshosen/?trouserfinder=open)
+
+ Schuhfinder
+---
+
+[jetzt starten](https://www.engelbert-strauss.de/arbeitsschuhe/?shoefinder=open)
 
  Nach Kategorie shoppen
 ---
@@ -148,6 +141,12 @@ jacken
 
  Betriebsbedarf
 ---
+
+ Newsletter abonnieren
+
+ und exklusive Aktionen, Gutscheine & Schnäppchen sichern
+
+[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)
 
  30 TAGE RÜCKGABERECHT
 
