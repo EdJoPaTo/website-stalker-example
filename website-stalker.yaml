@@ -186,17 +186,6 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://github.com/actions/runner-images/labels/Announcement
-    ignore_error: true
-    editors:
-      - rss:
-          title: GitHub actions/runner-images Announcement
-          item_selector: .js-issue-row
-          title_selector: a
-          content_editors:
-            - css_select: .labels, .opened-by
-            - html_textify
-
   - url: https://rust-lang.github.io/rust-clippy/stable/lints.json
     editors:
       - regex_replace:
