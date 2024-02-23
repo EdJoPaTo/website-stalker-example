@@ -48,8 +48,8 @@ Die neuen Teile sind da!
 |   | Werkzeugtasche e.s.ambition|
 |---|----------------------------|
 
-|   | Rucksack   <br/>e.s.ambition|
-|---|-----------------------------|
+|   |
+|---|
 
  Neue Taschen-Lösungen
 ----------
@@ -63,8 +63,8 @@ Die neuen Teile sind da!
 |   | Werkzeugtasche e.s.ambition|
 |---|----------------------------|
 
-|   | Werkzeug-Schultertasche   <br/>e.s.ambition|
-|---|--------------------------------------------|
+|   |
+|---|
 
 | Die neue Saison startet: Jetzt!<br/>----------<br/><br/>---| Entdecken Sie neue Workwear, neue Schuhe, neues Equipment und viele Saisonartikel – nur solange der Vorrat reicht!<br/><br/>[<br/><br/>alle Neuheiten<br/><br/>](https://www.engelbert-strauss.de/neuheiten/?sort=newest)|
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
