@@ -119,7 +119,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does.\nThis lint warns when you use `Arc` with a type that does not implement `Send` or `Sync`.\n\n### Why is this bad?\n`Arc<T>` is only `Send`/`Sync` when `T` is [both `Send` and `Sync`](https://doc.rust-lang.org/std/sync/struct.Arc.html#impl-Send-for-Arc%3CT%3E),\neither `T` should be made `Send + Sync` or an `Rc` should be used instead of an `Arc`\n\n### Example\n```rust\n\nfn main() {\n    // This is fine, as `i32` implements `Send` and `Sync`.\n    let a = Arc::new(42);\n\n    // `RefCell` is `!Sync`, so either the `Arc` should be replaced with an `Rc`\n    // or the `RefCell` replaced with something like a `RwLock`\n    let b = Arc::new(RefCell::new(42));\n}\n```",
+		"docs": "\n### What it does.\nThis lint warns when you use `Arc` with a type that does not implement `Send` or `Sync`.\n\n### Why is this bad?\n`Arc<T>` is an Atomic `RC<T>` and guarantees that updates to the reference counter are\nAtomic. This is useful in multiprocessing scenarios. To send an `Arc<T>` across processes\nand make use of the atomic ref counter, `T` must be [both `Send` and `Sync`](https://doc.rust-lang.org/std/sync/struct.Arc.html#impl-Send-for-Arc%3CT%3E),\neither `T` should be made `Send + Sync` or an `Rc` should be used instead of an `Arc`\n\n### Example\n```rust\n\nfn main() {\n    // This is fine, as `i32` implements `Send` and `Sync`.\n    let a = Arc::new(42);\n\n    // `RefCell` is `!Sync`, so either the `Arc` should be replaced with an `Rc`\n    // or the `RefCell` replaced with something like a `RwLock`\n    let b = Arc::new(RefCell::new(42));\n}\n```",
 		"group": "suspicious",
 		"id": "arc_with_non_send_sync",
 		"id_span": {
@@ -363,15 +363,16 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for `if` conditions that use blocks containing an\nexpression, statements or conditions that use closures with blocks.\n\n### Why is this bad?\nStyle, using blocks in the condition makes it hard to read.\n\n### Examples\n```rust\nif { true } { /* ... */ }\n\nif { let x = somefunc(); x } { /* ... */ }\n```\n\nUse instead:\n```rust\nif true { /* ... */ }\n\nlet res = { let x = somefunc(); x };\nif res { /* ... */ }\n```\n### Past names\n\n* `block_in_if_condition_expr`\n* `block_in_if_condition_stmt`\n\n",
+		"docs": "\n### What it does\nChecks for `if` conditions that use blocks containing an\nexpression, statements or conditions that use closures with blocks.\n\n### Why is this bad?\nStyle, using blocks in the condition makes it hard to read.\n\n### Examples\n```rust\nif { true } { /* ... */ }\n\nif { let x = somefunc(); x } { /* ... */ }\n```\n\nUse instead:\n```rust\nif true { /* ... */ }\n\nlet res = { let x = somefunc(); x };\nif res { /* ... */ }\n```\n### Past names\n\n* `block_in_if_condition_expr`\n* `block_in_if_condition_stmt`\n* `blocks_in_if_conditions`\n\n",
 		"former_ids": [
 			"block_in_if_condition_expr",
-			"block_in_if_condition_stmt"
+			"block_in_if_condition_stmt",
+			"blocks_in_if_conditions"
 		],
 		"group": "style",
-		"id": "blocks_in_if_conditions",
+		"id": "blocks_in_conditions",
 		"id_span": {
-			"path": "src/blocks_in_if_conditions.rs"
+			"path": "src/blocks_in_conditions.rs"
 		},
 		"level": "warn",
 		"version": "1.45.0"
@@ -1227,7 +1228,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for `#[deprecated]` annotations with a `since`\nfield that is not a valid semantic version.\n\n### Why is this bad?\nFor checking the version of the deprecation, it must be\na valid semver. Failing that, the contained information is useless.\n\n### Example\n```rust\n#[deprecated(since = \"forever\")]\nfn something_else() { /* ... */ }\n```",
+		"docs": "\n### What it does\nChecks for `#[deprecated]` annotations with a `since`\nfield that is not a valid semantic version. Also allows \"TBD\" to signal\nfuture deprecation.\n\n### Why is this bad?\nFor checking the version of the deprecation, it must be\na valid semver. Failing that, the contained information is useless.\n\n### Example\n```rust\n#[deprecated(since = \"forever\")]\nfn something_else() { /* ... */ }\n```",
 		"group": "correctness",
 		"id": "deprecated_semver",
 		"id_span": {
@@ -1425,21 +1426,21 @@
 		"group": "pedantic",
 		"id": "doc_link_with_quotes",
 		"id_span": {
-			"path": "src/doc.rs"
+			"path": "src/doc/mod.rs"
 		},
 		"level": "allow",
 		"version": "1.63.0"
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for the presence of `_`, `::` or camel-case words\noutside ticks in documentation.\n\n### Why is this bad?\n*Rustdoc* supports markdown formatting, `_`, `::` and\ncamel-case probably indicates some code which should be included between\nticks. `_` can also be used for emphasis in markdown, this lint tries to\nconsider that.\n\n### Known problems\nLots of bad docs won’t be fixed, what the lint checks\nfor is limited, and there are still false positives. HTML elements and their\ncontent are not linted.\n\nIn addition, when writing documentation comments, including `[]` brackets\ninside a link text would trip the parser. Therefore, documenting link with\n`[`SmallVec<[T; INLINE_CAPACITY]>`]` and then [`SmallVec<[T; INLINE_CAPACITY]>`]: SmallVec\nwould fail.\n\n### Examples\n```rust\n/// Do something with the foo_bar parameter. See also\n/// that::other::module::foo.\n// ^ `foo_bar` and `that::other::module::foo` should be ticked.\nfn doit(foo_bar: usize) {}\n```\n\n```rust\n// Link text with `[]` brackets should be written as following:\n/// Consume the array and return the inner\n/// [`SmallVec<[T; INLINE_CAPACITY]>`][SmallVec].\n/// [SmallVec]: SmallVec\nfn main() {}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `doc-valid-idents`: The list of words this lint should not consider as identifiers needing ticks. The value\n   `\"..\"` can be used as part of the list to indicate, that the configured values should be appended to the\n   default configuration of Clippy. By default, any configuration will replace the default value. For example:\n   * `doc-valid-idents = [\"ClipPy\"]` would replace the default list with `[\"ClipPy\"]`.\n   * `doc-valid-idents = [\"ClipPy\", \"..\"]` would append `ClipPy` to the default list. (default: `[\"KiB\", \"MiB\", \"GiB\", \"TiB\", \"PiB\", \"EiB\", \"DirectX\", \"ECMAScript\", \"GPLv2\", \"GPLv3\", \"GitHub\", \"GitLab\", \"IPv4\", \"IPv6\", \"ClojureScript\", \"CoffeeScript\", \"JavaScript\", \"PureScript\", \"TypeScript\", \"WebAssembly\", \"NaN\", \"NaNs\", \"OAuth\", \"GraphQL\", \"OCaml\", \"OpenGL\", \"OpenMP\", \"OpenSSH\", \"OpenSSL\", \"OpenStreetMap\", \"OpenDNS\", \"WebGL\", \"TensorFlow\", \"TrueType\", \"iOS\", \"macOS\", \"FreeBSD\", \"TeX\", \"LaTeX\", \"BibTeX\", \"BibLaTeX\", \"MinGW\", \"CamelCase\"]`)",
 		"group": "pedantic",
 		"id": "doc_markdown",
 		"id_span": {
-			"path": "src/doc.rs"
+			"path": "src/doc/mod.rs"
 		},
 		"level": "allow",
 		"version": "pre 1.29.0"
@@ -1971,7 +1972,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for usage of `write!()` / `writeln()!` which can be\nreplaced with `(e)print!()` / `(e)println!()`\n\n### Why is this bad?\nUsing `(e)println! is clearer and more concise\n\n### Example\n```rust\nwriteln!(&mut std::io::stderr(), \"foo: {:?}\", bar).unwrap();\nwriteln!(&mut std::io::stdout(), \"foo: {:?}\", bar).unwrap();\n```\n\nUse instead:\n```rust\neprintln!(\"foo: {:?}\", bar);\nprintln!(\"foo: {:?}\", bar);\n```",
+		"docs": "\n### What it does\nChecks for usage of `write!()` / `writeln()!` which can be\nreplaced with `(e)print!()` / `(e)println!()`\n\n### Why is this bad?\nUsing `(e)println!` is clearer and more concise\n\n### Example\n```rust\nwriteln!(&mut std::io::stderr(), \"foo: {:?}\", bar).unwrap();\nwriteln!(&mut std::io::stdout(), \"foo: {:?}\", bar).unwrap();\n```\n\nUse instead:\n```rust\neprintln!(\"foo: {:?}\", bar);\nprintln!(\"foo: {:?}\", bar);\n```",
 		"group": "complexity",
 		"id": "explicit_write",
 		"id_span": {
@@ -2588,12 +2589,12 @@
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for `if/else` with the same body as the *then* part\nand the *else* part.\n\n### Why is this bad?\nThis is probably a copy & paste error.\n\n### Example\n```rust\nlet foo = if … {\n    42\n} else {\n    42\n};\n```",
-		"group": "correctness",
+		"group": "style",
 		"id": "if_same_then_else",
 		"id_span": {
 			"path": "src/copies.rs"
 		},
-		"level": "deny",
+		"level": "warn",
 		"version": "pre 1.29.0"
 	},
 	{
@@ -2637,6 +2638,20 @@
 		},
 		"level": "allow",
 		"version": "1.73.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\n\nThis lint is concerned with the semantics of `Borrow` and `Hash` for a\ntype that implements all three of `Hash`, `Borrow<str>` and `Borrow<[u8]>`\nas it is impossible to satisfy the semantics of Borrow and `Hash` for\nboth `Borrow<str>` and `Borrow<[u8]>`.\n\n### Why is this bad?\n\nWhen providing implementations for `Borrow<T>`, one should consider whether the different\nimplementations should act as facets or representations of the underlying type. Generic code\ntypically uses `Borrow<T>` when it relies on the identical behavior of these additional trait\nimplementations. These traits will likely appear as additional trait bounds.\n\nIn particular `Eq`, `Ord` and `Hash` must be equivalent for borrowed and owned values:\n`x.borrow() == y.borrow()` should give the same result as `x == y`.\nIt follows then that the following equivalence must hold:\n`hash(x) == hash((x as Borrow<[u8]>).borrow()) == hash((x as Borrow<str>).borrow())`\n\nUnfortunately it doesn't hold as `hash(\"abc\") != hash(\"abc\".as_bytes())`.\nThis happens because the `Hash` impl for str passes an additional `0xFF` byte to\nthe hasher to avoid collisions. For example, given the tuples `(\"a\", \"bc\")`, and `(\"ab\", \"c\")`,\nthe two tuples would have the same hash value if the `0xFF` byte was not added.\n\n### Example\n\n```rust\nuse std::borrow::Borrow;\nuse std::hash::{Hash, Hasher};\n\nstruct ExampleType {\n    data: String\n}\n\nimpl Hash for ExampleType {\n    fn hash<H: Hasher>(&self, state: &mut H) {\n        self.data.hash(state);\n    }\n}\n\nimpl Borrow<str> for ExampleType {\n    fn borrow(&self) -> &str {\n        &self.data\n    }\n}\n\nimpl Borrow<[u8]> for ExampleType {\n    fn borrow(&self) -> &[u8] {\n        self.data.as_bytes()\n    }\n}\n```\nAs a consequence, hashing a `&ExampleType` and hashing the result of the two\nborrows will result in different values.\n",
+		"group": "correctness",
+		"id": "impl_hash_borrow_with_str_and_bytes",
+		"id_span": {
+			"path": "src/impl_hash_with_borrow_str_and_bytes.rs"
+		},
+		"level": "deny",
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -2728,13 +2743,13 @@
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nLooks for bounds in `impl Trait` in return position that are implied by other bounds.\nThis can happen when a trait is specified that another trait already has as a supertrait\n(e.g. `fn() -> impl Deref + DerefMut<Target = i32>` has an unnecessary `Deref` bound,\nbecause `Deref` is a supertrait of `DerefMut`)\n\n### Why is this bad?\nSpecifying more bounds than necessary adds needless complexity for the reader.\n\n### Limitations\nThis lint does not check for implied bounds transitively. Meaning that\nit does't check for implied bounds from supertraits of supertraits\n(e.g. `trait A {} trait B: A {} trait C: B {}`, then having an `fn() -> impl A + C`)\n\n### Example\n```rust\nfn f() -> impl Deref<Target = i32> + DerefMut<Target = i32> {\n//             ^^^^^^^^^^^^^^^^^^^ unnecessary bound, already implied by the `DerefMut` trait bound\n    Box::new(123)\n}\n```\nUse instead:\n```rust\nfn f() -> impl DerefMut<Target = i32> {\n    Box::new(123)\n}\n```",
-		"group": "nursery",
+		"group": "complexity",
 		"id": "implied_bounds_in_impls",
 		"id_span": {
 			"path": "src/implied_bounds_in_impls.rs"
 		},
-		"level": "allow",
-		"version": "1.73.0"
+		"level": "warn",
+		"version": "1.74.0"
 	},
 	{
 		"applicability": {
@@ -2839,6 +2854,20 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
+		"docs": "\n### What it does\nChecks if both `.write(true)` and `.append(true)` methods are called\non a same `OpenOptions`.\n\n### Why is this bad?\n`.append(true)` already enables `write(true)`, making this one\nsuperflous.\n\n### Example\n```rust\nlet _ = OpenOptions::new()\n           .write(true)\n           .append(true)\n           .create(true)\n           .open(\"file.json\");\n```\nUse instead:\n```rust\nlet _ = OpenOptions::new()\n           .append(true)\n           .create(true)\n           .open(\"file.json\");\n```",
+		"group": "suspicious",
+		"id": "ineffective_open_options",
+		"id_span": {
+			"path": "src/ineffective_open_options.rs"
+		},
+		"level": "warn",
+		"version": "1.76.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
 		"docs": "\n### What it does\nChecks for usage of `.to_string()` on an `&&T` where\n`T` implements `ToString` directly (like `&&str` or `&&String`).\n\n### Why is this bad?\nThis bypasses the specialized implementation of\n`ToString` and instead goes through the more expensive string formatting\nfacilities.\n\n### Example\n```rust\n// Generic implementation for `T: Display` is used (slow)\n[\"foo\", \"bar\"].iter().map(|s| s.to_string());\n\n// OK, the specialized impl is used\n[\"foo\", \"bar\"].iter().map(|&s| s.to_string());\n```",
 		"group": "pedantic",
 		"id": "inefficient_to_string",
@@ -2875,6 +2904,20 @@
 		},
 		"level": "deny",
 		"version": "pre 1.29.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for infinite loops in a function where the return type is not `!`\nand lint accordingly.\n\n### Why is this bad?\nA loop should be gently exited somewhere, or at least mark its parent function as\nnever return (`!`).\n\n### Example\n```rust\nfn run_forever() {\n    loop {\n        // do something\n    }\n}\n```\nIf infinite loops are as intended:\n```rust\nfn run_forever() -> ! {\n    loop {\n        // do something\n    }\n}\n```\nOtherwise add a `break` or `return` condition:\n```rust\nfn run_forever() {\n    loop {\n        // do something\n        if condition {\n            break;\n        }\n    }\n}\n```",
+		"group": "restriction",
+		"id": "infinite_loop",
+		"id_span": {
+			"path": "src/loops/mod.rs"
+		},
+		"level": "allow",
+		"version": "1.75.0"
 	},
 	{
 		"applicability": {
@@ -3178,7 +3221,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\n\nChecks for iterating a map (`HashMap` or `BTreeMap`) and\nignoring either the keys or values.\n\n### Why is this bad?\n\nReadability. There are `keys` and `values` methods that\ncan be used to express that we only need the keys or the values.\n\n### Example\n\n```rust\nlet map: HashMap<u32, u32> = HashMap::new();\nlet values = map.iter().map(|(_, value)| value).collect::<Vec<_>>();\n```\n\nUse instead:\n```rust\nlet map: HashMap<u32, u32> = HashMap::new();\nlet values = map.values().collect::<Vec<_>>();\n```",
+		"docs": "\n### What it does\n\nChecks for iterating a map (`HashMap` or `BTreeMap`) and\nignoring either the keys or values.\n\n### Why is this bad?\n\nReadability. There are `keys` and `values` methods that\ncan be used to express that we only need the keys or the values.\n\n### Example\n\n```rust\nlet map: HashMap<u32, u32> = HashMap::new();\nlet values = map.iter().map(|(_, value)| value).collect::<Vec<_>>();\n```\n\nUse instead:\n```rust\nlet map: HashMap<u32, u32> = HashMap::new();\nlet values = map.values().collect::<Vec<_>>();\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "complexity",
 		"id": "iter_kv_map",
 		"id_span": {
@@ -3301,6 +3344,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nThis is a restriction lint which prevents the use of hash types (i.e., `HashSet` and `HashMap`) in for loops.\n\n### Why is this bad?\nBecause hash types are unordered, when iterated through such as in a for loop, the values are returned in\nan undefined order. As a result, on redundant systems this may cause inconsistencies and anomalies.\nIn addition, the unknown order of the elements may reduce readability or introduce other undesired\nside effects.\n\n### Example\n```rust\n    let my_map = std::collections::HashMap::<i32, String>::new();\n    for (key, value) in my_map { /* ... */ }\n```\nUse instead:\n```rust\n    let my_map = std::collections::HashMap::<i32, String>::new();\n    let mut keys = my_map.keys().clone().collect::<Vec<_>>();\n    keys.sort();\n    for key in keys {\n        let value = &my_map[key];\n    }\n```",
+		"group": "restriction",
+		"id": "iter_over_hash_type",
+		"id_span": {
+			"path": "src/iter_over_hash_type.rs"
+		},
+		"level": "allow",
+		"version": "1.75.0"
+	},
+	{
+		"applicability": {
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
@@ -3382,6 +3439,20 @@
 		},
 		"level": "deny",
 		"version": "pre 1.29.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unspecified",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for calls to `Path::join` that start with a path separator (`\\\\` or `/`).\n\n### Why is this bad?\nIf the argument to `Path::join` starts with a separator, it will overwrite\nthe original path. If this is intentional, prefer using `Path::new` instead.\n\nNote the behavior is platform dependent. A leading `\\\\` will be accepted\non unix systems as part of the file name\n\nSee [`Path::join`](https://doc.rust-lang.org/std/path/struct.Path.html#method.join)\n\n### Example\n```rust\nlet path = Path::new(\"/bin\");\nlet joined_path = path.join(\"/sh\");\nassert_eq!(joined_path, PathBuf::from(\"/sh\"));\n```\n\nUse instead;\n```rust\nlet path = Path::new(\"/bin\");\n\n// If this was unintentional, remove the leading separator\nlet joined_path = path.join(\"sh\");\nassert_eq!(joined_path, PathBuf::from(\"/bin/sh\"));\n\n// If this was intentional, create a new path instead\nlet new = Path::new(\"/sh\");\nassert_eq!(new, PathBuf::from(\"/sh\"));\n```",
+		"group": "suspicious",
+		"id": "join_absolute_paths",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -4516,7 +4587,7 @@
 			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for `#[cfg(features = \"...\")]` and suggests to replace it with\n`#[cfg(feature = \"...\")]`.\n\n### Why is this bad?\nMisspelling `feature` as `features` can be sometimes hard to spot. It\nmay cause conditional compilation not work quietly.\n\n### Example\n```rust\n#[cfg(features = \"some-feature\")]\nfn conditional() { }\n```\n\nUse instead:\n```rust\n#[cfg(feature = \"some-feature\")]\nfn conditional() { }\n```",
+		"docs": "\n### What it does\nChecks for `#[cfg(features = \"...\")]` and suggests to replace it with\n`#[cfg(feature = \"...\")]`.\n\nIt also checks if `cfg(test)` was misspelled.\n\n### Why is this bad?\nMisspelling `feature` as `features` or `test` as `tests` can be sometimes hard to spot. It\nmay cause conditional compilation not work quietly.\n\n### Example\n```rust\n#[cfg(features = \"some-feature\")]\nfn conditional() { }\n#[cfg(tests)]\nmod tests { }\n```\n\nUse instead:\n```rust\n#[cfg(feature = \"some-feature\")]\nfn conditional() { }\n#[cfg(test)]\nmod tests { }\n```",
 		"group": "suspicious",
 		"id": "maybe_misused_cfg",
 		"id_span": {
@@ -4698,14 +4769,14 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for repeated slice indexing without asserting beforehand that the length\nis greater than the largest index used to index into the slice.\n\n### Why is this bad?\nIn the general case where the compiler does not have a lot of information\nabout the length of a slice, indexing it repeatedly will generate a bounds check\nfor every single index.\n\nAsserting that the length of the slice is at least as large as the largest value\nto index beforehand gives the compiler enough information to elide the bounds checks,\neffectively reducing the number of bounds checks from however many times\nthe slice was indexed to just one (the assert).\n\n### Drawbacks\nFalse positives. It is, in general, very difficult to predict how well\nthe optimizer will be able to elide bounds checks and it very much depends on\nthe surrounding code. For example, indexing into the slice yielded by the\n[`slice::chunks_exact`](https://doc.rust-lang.org/stable/std/primitive.slice.html#method.chunks_exact)\niterator will likely have all of the bounds checks elided even without an assert\nif the `chunk_size` is a constant.\n\nAsserts are not tracked across function calls. Asserting the length of a slice\nin a different function likely gives the optimizer enough information\nabout the length of a slice, but this lint will not detect that.\n\n### Example\n```rust\nfn sum(v: &[u8]) -> u8 {\n    // 4 bounds checks\n    v[0] + v[1] + v[2] + v[3]\n}\n```\nUse instead:\n```rust\nfn sum(v: &[u8]) -> u8 {\n    assert!(v.len() > 4);\n    // no bounds checks\n    v[0] + v[1] + v[2] + v[3]\n}\n```",
+		"docs": "\n### What it does\nChecks for repeated slice indexing without asserting beforehand that the length\nis greater than the largest index used to index into the slice.\n\n### Why is this bad?\nIn the general case where the compiler does not have a lot of information\nabout the length of a slice, indexing it repeatedly will generate a bounds check\nfor every single index.\n\nAsserting that the length of the slice is at least as large as the largest value\nto index beforehand gives the compiler enough information to elide the bounds checks,\neffectively reducing the number of bounds checks from however many times\nthe slice was indexed to just one (the assert).\n\n### Drawbacks\nFalse positives. It is, in general, very difficult to predict how well\nthe optimizer will be able to elide bounds checks and it very much depends on\nthe surrounding code. For example, indexing into the slice yielded by the\n[`slice::chunks_exact`](https://doc.rust-lang.org/stable/std/primitive.slice.html#method.chunks_exact)\niterator will likely have all of the bounds checks elided even without an assert\nif the `chunk_size` is a constant.\n\nAsserts are not tracked across function calls. Asserting the length of a slice\nin a different function likely gives the optimizer enough information\nabout the length of a slice, but this lint will not detect that.\n\n### Example\n```rust\nfn sum(v: &[u8]) -> u8 {\n    // 4 bounds checks\n    v[0] + v[1] + v[2] + v[3]\n}\n```\nUse instead:\n```rust\nfn sum(v: &[u8]) -> u8 {\n    assert!(v.len() > 3);\n    // no bounds checks\n    v[0] + v[1] + v[2] + v[3]\n}\n```",
 		"group": "restriction",
 		"id": "missing_asserts_for_indexing",
 		"id_span": {
 			"path": "src/missing_asserts_for_indexing.rs"
 		},
 		"level": "allow",
-		"version": "1.70.0"
+		"version": "1.74.0"
 	},
 	{
 		"applicability": {
@@ -4758,7 +4829,7 @@
 		"group": "pedantic",
 		"id": "missing_errors_doc",
 		"id_span": {
-			"path": "src/doc.rs"
+			"path": "src/doc/mod.rs"
 		},
 		"level": "allow",
 		"version": "1.41.0"
@@ -4796,11 +4867,11 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks the doc comments of publicly visible functions that\nmay panic and warns if there is no `# Panics` section.\n\n### Why is this bad?\nDocumenting the scenarios in which panicking occurs\ncan help callers who do not want to panic to avoid those situations.\n\n### Examples\nSince the following function may panic it has a `# Panics` section in\nits doc comment:\n\n```rust\n/// # Panics\n///\n/// Will panic if y is 0\npub fn divide_by(x: i32, y: i32) -> i32 {\n    if y == 0 {\n        panic!(\"Cannot divide by 0\")\n    } else {\n        x / y\n    }\n}\n```",
+		"docs": "\n### What it does\nChecks the doc comments of publicly visible functions that\nmay panic and warns if there is no `# Panics` section.\n\n### Why is this bad?\nDocumenting the scenarios in which panicking occurs\ncan help callers who do not want to panic to avoid those situations.\n\n### Examples\nSince the following function may panic it has a `# Panics` section in\nits doc comment:\n\n```rust\n/// # Panics\n///\n/// Will panic if y is 0\npub fn divide_by(x: i32, y: i32) -> i32 {\n    if y == 0 {\n        panic!(\"Cannot divide by 0\")\n    } else {\n        x / y\n    }\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`:  (default: `false`)",
 		"group": "pedantic",
 		"id": "missing_panics_doc",
 		"id_span": {
-			"path": "src/doc.rs"
+			"path": "src/doc/mod.rs"
 		},
 		"level": "allow",
 		"version": "1.51.0"
@@ -4810,11 +4881,11 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for the doc comments of publicly visible\nunsafe functions and warns if there is no `# Safety` section.\n\n### Why is this bad?\nUnsafe functions should document their safety\npreconditions, so that users can be sure they are using them safely.\n\n### Examples\n```rust\n/// This function should really be documented\npub unsafe fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\nAt least write a line about safety:\n\n```rust\n/// # Safety\n///\n/// This function should not be called before the horsemen are ready.\npub unsafe fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```",
+		"docs": "\n### What it does\nChecks for the doc comments of publicly visible\nunsafe functions and warns if there is no `# Safety` section.\n\n### Why is this bad?\nUnsafe functions should document their safety\npreconditions, so that users can be sure they are using them safely.\n\n### Examples\n```rust\n/// This function should really be documented\npub unsafe fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\nAt least write a line about safety:\n\n```rust\n/// # Safety\n///\n/// This function should not be called before the horsemen are ready.\npub unsafe fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`:  (default: `false`)",
 		"group": "style",
 		"id": "missing_safety_doc",
 		"id_span": {
-			"path": "src/doc.rs"
+			"path": "src/doc/mod.rs"
 		},
 		"level": "warn",
 		"version": "1.39.0"
@@ -5260,7 +5331,7 @@
 			"path": "src/needless_borrows_for_generic_args.rs"
 		},
 		"level": "warn",
-		"version": "pre 1.29.0"
+		"version": "1.74.0"
 	},
 	{
 		"applicability": {
@@ -5299,7 +5370,7 @@
 		"group": "style",
 		"id": "needless_doctest_main",
 		"id_span": {
-			"path": "src/doc.rs"
+			"path": "src/doc/mod.rs"
 		},
 		"level": "warn",
 		"version": "1.40.0"
@@ -6004,6 +6075,20 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
+		"docs": "\n### What it does\nChecks for usage of `_.map_or(Err(_), Ok)`.\n\n### Why is this bad?\nReadability, this can be written more concisely as\n`_.ok_or(_)`.\n\n### Example\n```rust\nopt.map_or(Err(\"error\"), Ok);\n```\n\nUse instead:\n```rust\nopt.ok_or(\"error\");\n```",
+		"group": "style",
+		"id": "option_map_or_err_ok",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.76.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
 		"docs": "\n### What it does\nChecks for usage of `_.map_or(None, _)`.\n\n### Why is this bad?\nReadability, this can be written more concisely as\n`_.and_then(_)`.\n\n### Known problems\nThe order of the arguments is not in execution order.\n\n### Example\n```rust\nopt.map_or(None, |a| Some(a + 1));\n```\n\nUse instead:\n```rust\nopt.and_then(|a| Some(a + 1));\n```",
 		"group": "style",
 		"id": "option_map_or_none",
@@ -6696,7 +6781,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for usage of `as_str()` on a `String`` chained with a method available on the `String` itself.\n\n### Why is this bad?\nThe `as_str()` conversion is pointless and can be removed for simplicity and cleanliness.\n\n### Example\n```rust\nlet owned_string = \"This is a string\".to_owned();\nowned_string.as_str().as_bytes();\n```\n\nUse instead:\n```rust\nlet owned_string = \"This is a string\".to_owned();\nowned_string.as_bytes();\n```",
+		"docs": "\n### What it does\nChecks for usage of `as_str()` on a `String` chained with a method available on the `String` itself.\n\n### Why is this bad?\nThe `as_str()` conversion is pointless and can be removed for simplicity and cleanliness.\n\n### Example\n```rust\nlet owned_string = \"This is a string\".to_owned();\nowned_string.as_str().as_bytes()\n```\n\nUse instead:\n```rust\nlet owned_string = \"This is a string\".to_owned();\nowned_string.as_bytes()\n```",
 		"group": "complexity",
 		"id": "redundant_as_str",
 		"id_span": {
@@ -7032,6 +7117,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nLooks for patterns such as `vec![Vec::with_capacity(x); n]` or `iter::repeat(Vec::with_capacity(x))`.\n\n### Why is this bad?\nThese constructs work by cloning the element, but cloning a `Vec<_>` does not\nrespect the old vector's capacity and effectively discards it.\n\nThis makes `iter::repeat(Vec::with_capacity(x))` especially suspicious because the user most certainly\nexpected that the yielded `Vec<_>` will have the requested capacity, otherwise one can simply write\n`iter::repeat(Vec::new())` instead and it will have the same effect.\n\nSimilarly for `vec![x; n]`, the element `x` is cloned to fill the vec.\nUnlike `iter::repeat` however, the vec repeat macro does not have to clone the value `n` times\nbut just `n - 1` times, because it can reuse the passed value for the last slot.\nThat means that the last `Vec<_>` gets the requested capacity but all other ones do not.\n\n### Example\n```rust\n\nlet _: Vec<Vec<u8>> = vec![Vec::with_capacity(42); 123];\nlet _: Vec<Vec<u8>> = iter::repeat(Vec::with_capacity(42)).take(123).collect();\n```\nUse instead:\n```rust\n\nlet _: Vec<Vec<u8>> = iter::repeat_with(|| Vec::with_capacity(42)).take(123).collect();\n//                                      ^^^ this closure executes 123 times\n//                                          and the vecs will have the expected capacity\n```",
+		"group": "suspicious",
+		"id": "repeat_vec_with_capacity",
+		"id_span": {
+			"path": "src/repeat_vec_with_capacity.rs"
+		},
+		"level": "warn",
+		"version": "1.74.0"
+	},
+	{
+		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
@@ -7056,7 +7155,7 @@
 			"path": "src/reserve_after_initialization.rs"
 		},
 		"level": "warn",
-		"version": "1.73.0"
+		"version": "1.74.0"
 	},
 	{
 		"applicability": {
@@ -7284,7 +7383,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nLooks for blocks of expressions and fires if the last expression returns\n`()` but is not followed by a semicolon.\n\n### Why is this bad?\nThe semicolon might be optional but when extending the block with new\ncode, it doesn't require a change in previous last line.\n\n### Example\n```rust\nfn main() {\n    println!(\"Hello world\")\n}\n```\nUse instead:\n```rust\nfn main() {\n    println!(\"Hello world\");\n}\n```",
@@ -7448,7 +7547,7 @@
 			"path": "src/attrs.rs"
 		},
 		"level": "allow",
-		"version": "1.73.0"
+		"version": "1.74.0"
 	},
 	{
 		"applicability": {
@@ -7539,7 +7638,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for string methods that receive a single-character\n`str` as an argument, e.g., `_.split(\"x\")`.\n\n### Why is this bad?\nPerforming these methods using a `char` is faster than\nusing a `str`.\n\n### Known problems\nDoes not catch multi-byte unicode characters.\n\n### Example\n```rust\n_.split(\"x\");\n```\n\nUse instead:\n```rust\n_.split('x');\n```",
@@ -7952,7 +8051,7 @@
 		"group": "suspicious",
 		"id": "suspicious_doc_comments",
 		"id_span": {
-			"path": "src/suspicious_doc_comments.rs"
+			"path": "src/doc/mod.rs"
 		},
 		"level": "warn",
 		"version": "1.70.0"
@@ -8110,6 +8209,20 @@
 		},
 		"level": "warn",
 		"version": "pre 1.29.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for `#[test]` in doctests unless they are marked with\neither `ignore`, `no_run` or `compile_fail`.\n\n### Why is this bad?\nCode in examples marked as `#[test]` will somewhat\nsurprisingly not be run by `cargo test`. If you really want\nto show how to test stuff in an example, mark it `no_run` to\nmake the intent clear.\n\n### Examples\n```rust\n/// An example of a doctest with a `main()` function\n///\n/// # Examples\n///\n/// ```\n/// #[test]\n/// fn equality_works() {\n///     assert_eq!(1_u8, 1);\n/// }\n/// ```\nfn test_attr_in_doctest() {\n    unimplemented!();\n}\n```",
+		"group": "suspicious",
+		"id": "test_attr_in_doctest",
+		"id_span": {
+			"path": "src/doc/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.40.0"
 	},
 	{
 		"applicability": {
@@ -8592,6 +8705,20 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
+		"docs": "\n### What it does\nIt detects references to uninhabited types, such as `!` and\nwarns when those are either dereferenced or returned from a function.\n\n### Why is this bad?\nDereferencing a reference to an uninhabited type would create\nan instance of such a type, which cannot exist. This constitutes\nundefined behaviour. Such a reference could have been created\nby `unsafe` code.\n\n### Example\nThe following function can return a reference to an uninhabited type\n(`Infallible`) because it uses `unsafe` code to create it. However,\nthe user of such a function could dereference the return value and\ntrigger an undefined behavior from safe code.\n\n```rust\nfn create_ref() -> &'static std::convert::Infallible {\n    unsafe { std::mem::transmute(&()) }\n}\n```",
+		"group": "suspicious",
+		"id": "uninhabited_references",
+		"id_span": {
+			"path": "src/uninhabited_references.rs"
+		},
+		"level": "warn",
+		"version": "1.76.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
 		"docs": "\n### What it does\nChecks for `MaybeUninit::uninit().assume_init()`.\n\n### Why is this bad?\nFor most types, this is undefined behavior.\n\n### Known problems\nFor now, we accept empty tuples and tuples / arrays\nof `MaybeUninit`. There may be other types that allow uninitialized\ndata, but those are not yet rigorously defined.\n\n### Example\n```rust\n// Beware the UB\nuse std::mem::MaybeUninit;\n\nlet _: usize = unsafe { MaybeUninit::uninit().assume_init() };\n```\n\nNote that the following is OK:\n\n```rust\nuse std::mem::MaybeUninit;\n\nlet _: [MaybeUninit<bool>; 5] = unsafe {\n    MaybeUninit::uninit().assume_init()\n};\n```",
 		"group": "correctness",
 		"id": "uninit_assumed_init",
@@ -8816,14 +8943,14 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nSuggest removing the use of a may (or map_err) method when an Option or Result is being constructed.\n\n### Why is this bad?\nIt introduces unnecessary complexity. In this case the function can be used directly and\nconstruct the Option or Result from the output.\n\n### Example\n```rust\nSome(4).map(i32::swap_bytes);\n```\nUse instead:\n```rust\nSome(i32::swap_bytes(4));\n```",
+		"docs": "\n### What it does\nSuggests removing the use of a `map()` (or `map_err()`) method when an `Option` or `Result`\nis being constructed.\n\n### Why is this bad?\nIt introduces unnecessary complexity. Instead, the function can be called before\nconstructing the `Option` or `Result` from its return value.\n\n### Example\n```rust\nSome(4).map(i32::swap_bytes)\n```\nUse instead:\n```rust\nSome(i32::swap_bytes(4))\n```",
 		"group": "complexity",
 		"id": "unnecessary_map_on_constructor",
 		"id_span": {
 			"path": "src/unnecessary_map_on_constructor.rs"
 		},
 		"level": "warn",
-		"version": "1.73.0"
+		"version": "1.74.0"
 	},
 	{
 		"applicability": {
@@ -8886,11 +9013,11 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for the doc comments of publicly visible\nsafe functions and traits and warns if there is a `# Safety` section.\n\n### Why is this bad?\nSafe functions and traits are safe to implement and therefore do not\nneed to describe safety preconditions that users are required to uphold.\n\n### Examples\n```rust\n/// # Safety\n///\n/// This function should not be called before the horsemen are ready.\npub fn start_apocalypse_but_safely(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\nThe function is safe, so there shouldn't be any preconditions\nthat have to be explained for safety reasons.\n\n```rust\n/// This function should really be documented\npub fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```",
+		"docs": "\n### What it does\nChecks for the doc comments of publicly visible\nsafe functions and traits and warns if there is a `# Safety` section.\n\n### Why is this bad?\nSafe functions and traits are safe to implement and therefore do not\nneed to describe safety preconditions that users are required to uphold.\n\n### Examples\n```rust\n/// # Safety\n///\n/// This function should not be called before the horsemen are ready.\npub fn start_apocalypse_but_safely(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\nThe function is safe, so there shouldn't be any preconditions\nthat have to be explained for safety reasons.\n\n```rust\n/// This function should really be documented\npub fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`:  (default: `false`)",
 		"group": "restriction",
 		"id": "unnecessary_safety_doc",
 		"id_span": {
-			"path": "src/doc.rs"
+			"path": "src/doc/mod.rs"
 		},
 		"level": "allow",
 		"version": "1.67.0"
@@ -9481,7 +9608,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for usage of `vec![..]` when using `[..]` would\nbe possible.\n\n### Why is this bad?\nThis is less efficient.\n\n### Example\n```rust\nfn foo(_x: &[u8]) {}\n\nfoo(&vec![1, 2]);\n```\n\nUse instead:\n```rust\nfoo(&[1, 2]);\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `too-large-for-stack`: The maximum size of objects (in bytes) that will be linted. Larger objects are ok on the heap (default: `200`)",
@@ -9495,7 +9622,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unspecified",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for usage of `Vec<Box<T>>` where T: Sized anywhere in the code.\nCheck the [Box documentation](https://doc.rust-lang.org/std/boxed/index.html) for more information.\n\n### Why is this bad?\n`Vec` already keeps its contents in a separate area on\nthe heap. So if you `Box` its contents, you just add another level of indirection.\n\n### Known problems\nVec<Box<T: Sized>> makes sense if T is a large type (see [#3530](https://github.com/rust-lang/rust-clippy/issues/3530),\n1st comment).\n\n### Example\n```rust\nstruct X {\n    values: Vec<Box<i32>>,\n}\n```\n\nBetter:\n\n```rust\nstruct X {\n    values: Vec<i32>,\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `avoid-breaking-exported-api`: Suppress lints whenever the suggested change would cause breakage for other crates. (default: `true`)- `vec-box-size-threshold`: The size of the boxed type in bytes, where boxing in a `Vec` is allowed (default: `4096`)",
@@ -9561,20 +9688,6 @@
 			"path": "src/methods/mod.rs"
 		},
 		"level": "allow",
-		"version": "1.44.0"
-	},
-	{
-		"applicability": {
-			"applicability": "Unresolved",
-			"is_multi_part_suggestion": false
-		},
-		"docs": "\n### What it does\nChecks for comparisons with an address of a trait vtable.\n\n### Why is this bad?\nComparing trait objects pointers compares an vtable addresses which\nare not guaranteed to be unique and could vary between different code generation units.\nFurthermore vtables for different types could have the same address after being merged\ntogether.\n\n### Example\n```rust\nlet a: Rc<dyn Trait> = ...\nlet b: Rc<dyn Trait> = ...\nif Rc::ptr_eq(&a, &b) {\n    ...\n}\n```",
-		"group": "correctness",
-		"id": "vtable_address_comparisons",
-		"id_span": {
-			"path": "src/unnamed_address.rs"
-		},
-		"level": "deny",
 		"version": "1.44.0"
 	},
 	{
