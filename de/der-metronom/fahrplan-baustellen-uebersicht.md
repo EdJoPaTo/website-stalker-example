@@ -32,8 +32,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[20.02.2024 - 23.02.2024 RE3/RB31 nächtliche Ausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie Haltausfälle Ashausen, Radbruch und Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-ausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-haltausfaelle-ashausen-radbruch-und-bardowick/)
-
 [26.02.2024 - 01.03.2024 RE3/RB31 nächtliche Teilausfälle Hamburg Hbf und Hamburg-Harburg sowie Haltausfälle Meckelfeld, Maschen, Stelle sowie Ashausen, Radbruch und Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-hamburg-hbf-und-hamburg-harburg-sowie-haltausfaelle-meckelfeld-maschen-stelle-sowie-ashausen-radbruch-und-bardowick/)
 
 [28.02.2024 - 29.02.2024 RB31/RB41 Ausfälle zwischen Hamburg Hbf und Hamburg-Harburg 81617 und 81912](https://www.der-metronom.de/baustellen/rb31-rb41-naechtliche-ausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-81617-und-81912/)
@@ -49,8 +47,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [10.03.2024 - 13.03.2024 RB31 nächtlicher Ersatzverkehr mit Bussen (Haltausfall Bardowick, Radbruch und Ashausen)](https://www.der-metronom.de/baustellen/rb31-naechtlicher-ersatzverkehr-mit-bussen-haltausfall-bardowick-radbruch-und-ashausen/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
-
-[16.02.2024 - 23.02.2024 RB41 nächtliche Brückenbauarbeiten - Haltausfälle in Klecken, Hittfeld und Buchholz (N.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-brueckenbauarbeiten-haltausfaelle-in-klecken-hittfeld-und-buchholz-n/)
 
 [23.02.2024 - 25.02.2024 RE4/RB41 Teilausfälle zwischen Ottersberg und Rotenburg (W.)](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-ottersberg-und-rotenburg-w/)
 
