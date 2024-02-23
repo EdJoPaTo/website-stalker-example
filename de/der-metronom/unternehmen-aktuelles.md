@@ -15,13 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE2/RE3/RB31/RE4/RB41: Reduzierte Geschwindigkeit und Verspätungen](https://www.der-metronom.de/aktuell/re2-re3-rb31-re4-rb41-reduzierte-geschwindigkeit-und-verspaetung/)
-
- Uelzen - 22.02.2024
-
-Moin liebe Fahrgäste, Pendlerinnen und Pendler,
-aufgrund der aktuell vorhergesagten Sturmböen in der Nacht von Donnerstag auf Freitag wird die Fahrgeschwindigkeit der metronom Züge am Donnerstag, 22. Februar, ab 23:00 Uhr auf 120 km/h reduziert. Auf dem Streckenabschnitt der Linie RE3/RB31...
-
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
  Uelzen - 25.01.2024
