@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE50: Kein Zugverkehr zwischen Hildesheim und Braunschweig Hbf!](https://www.der-metronom.de/aktuell/re50-kein-zugverkehr-zwischen-hildesheim-und-braunschweig-hbf/)
+
+ Uelzen - 29.02.2024
+
+Liebe Pendlerinnen und Pendler, liebe Fahrgäste der enno-Linie RE50.
+Aufgrund einer vorangegangenen Zugentgleisung im Baugleis (nicht enno) in Hoheneggelsen (Lkr. Hildesheim) ist der Zugverkehr zwischen Hildesheim und Braunschweig Hbf in beiden Richtungen eingestellt worden. Wegen der...
+
 [Kein ver.di-Streik bei metronom!](https://www.der-metronom.de/aktuell/kein-ver-di-streik-bei-metronom/)
 
  Uelzen - 23.02.2024
