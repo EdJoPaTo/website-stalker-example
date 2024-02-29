@@ -6,6 +6,102 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: February 28th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4300445619228315331</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 28, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable (default) channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the 'Verifying Installation' message incorrectly showing on every startup.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed infinite loading animation when streaming from another PC
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4300445619228315331" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Steam Deck Beta Client Update: February 28th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4300445619228264461</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 28, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the 'Verifying Installation' message incorrectly showing on every startup.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed infinite loading animation when streaming from another PC
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4300445619228264461" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: February 27th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4338726151304267515</link>
 			<content:encoded><![CDATA[<html>
@@ -323,119 +419,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4338725580138075821" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: February 16th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/7198510808230796455</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 16, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed downloading content with long file names in some cases.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the client could get stuck in the shutting down screen.
-					</li>
-				</ul>
-				<br>
-				Note: this client was re-released to fix excessive file access on shutdown.
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/7198510808230796455" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: February 14th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4365746543858878934</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 14, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where no element would be selected in the UI when closing the quick access menu.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where mouse click input could stop working when starting to drag operation on a steam window.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Preview Only
-				</b>
-				<br>
-				<br>
-				As part of today’s update, we are adding SteamOS Crash Report functionality. This feature is
-				<b>
-					turned off by default
-				</b>
-				– if you’d like to help us with collecting crash reports to continue improving SteamOS, please turn it on in
-				<b>
-					Settings > System
-				</b>
-				.
-				<br>
-				<br>
-				When this feature is enabled, if your Steam Deck crashes, it will send crash reports and system information to Valve (the next time it's connected to the internet). You will have granular control over what types of information will be sent in the settings for this feature (in Settings > System).
-				<br>
-				<br>
-				Thank you for helping us improve SteamOS.
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4365746543858878934" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
