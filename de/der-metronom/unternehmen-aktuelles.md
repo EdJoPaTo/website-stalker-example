@@ -27,7 +27,7 @@ Die Gewerkschaft ver.di hat zu einem Streik...
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
 
-[Ab 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
+[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
  Uelzen - 08.01.2024
 
