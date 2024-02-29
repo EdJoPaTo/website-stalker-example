@@ -36,8 +36,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [26.02.2024 - 01.03.2024 RE3/RB31 nächtliche Teilausfälle Hamburg Hbf und Hamburg-Harburg sowie Haltausfälle Meckelfeld, Maschen, Stelle sowie Ashausen, Radbruch und Bardowick](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-hamburg-hbf-und-hamburg-harburg-sowie-haltausfaelle-meckelfeld-maschen-stelle-sowie-ashausen-radbruch-und-bardowick/)
 
-[28.02.2024 - 29.02.2024 RB31/RB41 Ausfälle zwischen Hamburg Hbf und Hamburg-Harburg 81617 und 81912](https://www.der-metronom.de/baustellen/rb31-rb41-naechtliche-ausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-81617-und-81912/)
-
 [04.03.2024 RB31 abendlicher Haltausfall in Radbruch und Bardowick für den 81639](https://www.der-metronom.de/baustellen/rb31-abendlicher-haltausfall-in-radbruch-und-bardowick-fuer-den-81639/)
 
 [08.03.2024 RE3/RB31 morgendliche Haltausfälle in Radbruch und Bardowick Fahrtrichtung Hamburg - Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-morgendliche-haltausfaelle-in-radbruch-und-bardowick-fahrtrichtung-hamburg-uelzen/)
@@ -51,8 +49,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [26.02.2024 - 01.03.2024 RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
-
-[28.02.2024 - 29.02.2024 RB31/RB41 Ausfälle zwischen Hamburg Hbf und Hamburg-Harburg 81617 und 81912](https://www.der-metronom.de/baustellen/rb31-rb41-naechtliche-ausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-81617-und-81912/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
