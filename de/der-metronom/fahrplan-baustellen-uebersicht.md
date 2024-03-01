@@ -24,11 +24,15 @@ RE2 Uelzen - Celle - Hannover
 
 [14.03.2024 - 16.03.2024 RE2/RE3 nächtliche Teilausfälle zwischen Elze und Göttingen sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3/)
 
+[16.03.2024 - 01.04.2024 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen - Haltausfälle Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-haltausfaelle-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-uelzen-und-suderburg/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [05.03.2024 - 08.03.2024 RE2 nächtliche Haltausfälle in Nordstemmen und Sarstedt und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-naechtliche-haltausfaelle-in-nordstemmen-und-sarstedt-und-fahrzeitenaenderungen/)
 
 [14.03.2024 - 16.03.2024 RE2/RE3 nächtliche Teilausfälle zwischen Elze und Göttingen sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3/)
+
+[16.03.2024 - 01.04.2024 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen - Haltausfälle Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-haltausfaelle-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-uelzen-und-suderburg/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
@@ -42,9 +46,11 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [10.03.2024 - 13.03.2024 RB31 nächtlicher Ersatzverkehr mit Bussen (Haltausfall Bardowick, Radbruch und Ashausen)](https://www.der-metronom.de/baustellen/rb31-naechtlicher-ersatzverkehr-mit-bussen-haltausfall-bardowick-radbruch-und-ashausen/)
 
+[15.03.2024 - 28.03.2024 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie Haltausfälle Ashausen, Bardowick und Radbruch](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-haltausfaelle-ashausen-bardowick-und-radbruch/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[15.03.2024 - 29.03.2024 RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
