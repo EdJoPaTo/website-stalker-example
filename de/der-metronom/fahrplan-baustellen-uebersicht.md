@@ -16,8 +16,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[28.02.2024 - 01.03.2024 RE3/RE2 Haltausfall Celle bis Hannover mit allen Unterwegshalten in beiden Richtungen in Tagesrandlage](https://www.der-metronom.de/baustellen/re3-re2-haltausfall-celle-bis-hannover-mit-allen-unterwegshalten-in-beiden-richtungen-in-tagesrandlage/)
-
 [05.03.2024 - 08.03.2024 RE2 nächtliche Haltausfälle in Nordstemmen und Sarstedt und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-naechtliche-haltausfaelle-in-nordstemmen-und-sarstedt-und-fahrzeitenaenderungen/)
 
 [09.03.2024 - 10.03.2024 RE2/RE3/RB31 abendlicher/nächtlicher Ersatzverkehr mit Bussen zwischen Suderburg und Bad Bevensen](https://www.der-metronom.de/baustellen/re2-re3-rb31-abendlicher-naechtlicher-ersatzverkehr-mit-bussen-zwischen-suderburg-und-bad-bevensen/)
