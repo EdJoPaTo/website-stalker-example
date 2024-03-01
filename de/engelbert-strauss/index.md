@@ -31,6 +31,23 @@ Die neuen Teile sind da!
 
 [zur e.s.iconic Kollektion](https://www.engelbert-strauss.de/iconic)
 
+ Ballkid
+----------
+
+---
+
+ Bewirb dich jetzt und werde Strauss Ballkid bei der UEFA EURO 2024™ in Deutschland!
+----------
+
+---
+
+[mehr Informationen](https://www.engelbert-strauss.de/ballkids)
+
+ 14-18 Jahre alt?
+---
+
+[Dann melde dich hier an](https://www.strauss-ballkids.de/anmeldung)
+
  Neuheiten
 ----------
 
