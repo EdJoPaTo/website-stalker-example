@@ -165,7 +165,7 @@ Wenn du deine Rufnummer zu uns mitnimmst und eine eSIM bestellt hast, kannst du 
 
 #### Wann startet mein Vertrag? ####
 
-Falls du eine neue Rufnummer bekommst, geht alles ganz fix. Deine eSIM ist bereits wenige Stunden nach Bestellung über deinen SIM-QR-Code aktivierbar. Die psychische SIM-Karte bekommst du wenige Tage nach der Bestellung zugeschickt und dann kann es gleich losgehen. Dein Vertrag beginnt einen Tag nach dem Versanddatum.
+Falls du eine neue Rufnummer bekommst, geht alles ganz fix. Deine eSIM ist bereits wenige Stunden nach Bestellung über deinen SIM-QR-Code aktivierbar. Die physische SIM-Karte bekommst du wenige Tage nach der Bestellung zugeschickt und dann kann es gleich losgehen. Dein Vertrag beginnt einen Tag nach dem Versanddatum.
 Wenn du die Rufnummernmitnahme mit einem Laufzeitvertrag beantragst, beginnt dein Vertrag bei uns automatisch einen Tag nachdem dein Alter endet. Bei einem Prepaid-Vertrag beginnt dein Vertrag bei uns zu dem Zeitpunkt, zu dem dein bisheriger Anbieter deine Nummer zur Portierung freigibt. Dies dauert in der Regel ein bis zwei Wochen ab Vertragsbestellung.
 
 **Wichtig:**
