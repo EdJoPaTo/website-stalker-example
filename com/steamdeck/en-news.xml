@@ -6,6 +6,204 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.5.17 Update: Pip Watch</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4300445619231660921</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Feb 29, 2024
+			</h5>
+			<div>
+				SteamOS 3.5.17 has been released to the Stable channel for Deck with the following changes:
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed black screen when launching Forza Horizon 4 and other titles on Steam Deck OLED.
+						<br>
+					</li>
+					<li>
+						Fixed an issue where modifying settings in the desktop partition manager could prevent the SD card from being mounted and visible in Steam.
+						<br>
+					</li>
+					<li>
+						Fixed an issue in desktop mode where dropping a folder on the desktop would erroneously create a shortcut for every item within the folder.
+						<br>
+					</li>
+					<li>
+						Fixed crashes when streaming to/from the Deck with Steam Remote Play.
+						<br>
+					</li>
+					<li>
+						Added a timeout to the boot selection screen.
+						<br>
+					</li>
+					<li>
+						Fixed a WiFi crash occurring where certain bands would cause the driver to attempt to set an incorrect spatial stream count.
+						<br>
+					</li>
+					<li>
+						Added a slider to control the brightness of the Status LED (Charger LED). This setting can be found under Settings -> Display.
+						<br>
+					</li>
+					<li>
+						Fixed a case where WiFi would fail to connect in certain conditions.
+						<br>
+					</li>
+					<li>
+						Fixed a possible session crash when connecting an HDR display.
+						<br>
+					</li>
+					<li>
+						Fixed a rare session crash on application exit.
+						<br>
+					</li>
+					<li>
+						Improved handling of GPU crashes.
+					</li>
+				</ul>
+				<b>
+					Performance
+				</b>
+				<br>
+				<ul>
+					<li>
+						Multiple performance improvements for Persona 3 Reload.
+						<br>
+					</li>
+					<li>
+						Fixed the performance overlay displaying GPU clock speed as an instantaneous measurement rather than an average, resulting in misleading numbers.
+						<br>
+						<ul>
+							<li>
+								This matches behavior of SteamOS 3.4.11.
+							</li>
+						</ul>
+					</li>
+					<li>
+						Improved a situation where a game's frame presentation could block because of buffers submitted by Steam or other windows, removing a potential source of game stutters.
+						<br>
+					</li>
+					<li>
+						Added an additional frame timing plot to the level four performance overlay. When the frame limiter or vsync is enabled, this shows timings of when frames are flipped to the display, rather than application-side rendering times.
+						<br>
+					</li>
+					<li>
+						Fixed an issue causing stutter in certain games that buffer multiple frames in advance.
+						<br>
+					</li>
+					<li>
+						Miscellaneous compositor performance improvements.
+						<br>
+					</li>
+					<li>
+						Reduced stutters when the upscale filter was set to FSR or NIS under high GPU load.
+						<br>
+					</li>
+					<li>
+						Fixed an issue regarding frame-pacing and stutter, especially affecting some external displays.
+						<br>
+					</li>
+					<li>
+						Fixed display sometimes getting stuck at 60Hz after returning from sleep on the Steam UI.
+						<br>
+					</li>
+					<li>
+						Fixed an issue where a core could be stuck at 100% CPU if a game's window closed in an unclean way.
+					</li>
+				</ul>
+				<b>
+					Graphics
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed HDR on some external DisplayPort displays being slightly desaturated.
+						<br>
+					</li>
+					<li>
+						Improved gamut mapping for HDR titles on Deck OLED.
+						<br>
+					</li>
+					<li>
+						Fixed an issue in certain HDR titles wherein wiggling the cursor on the same frame as closing the game would cause incorrect colors in subsequent game launches.
+						<br>
+					</li>
+					<li>
+						Fixed incorrect colors (gamma) when using Steam In-Home Streaming.
+						<br>
+					</li>
+					<li>
+						Fixed consistency of application fade-ins/fade-outs.
+						<br>
+					</li>
+					<li>
+						Fixed slightly blurry image when streaming from the Deck with Steam Remote Play.
+					</li>
+				</ul>
+				<b>
+					Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved controller's mouse and keyboard emulation when Steam is not running, including including vertical and horizontal scrolling support on left trackpad.
+						<br>
+					</li>
+					<li>
+						Added support for the HyperX Clutch Gladiate controllers.
+						<br>
+					</li>
+					<li>
+						Fixed a system restart when Joy-Con controllers are connected.
+						<br>
+					</li>
+					<li>
+						Slightly improved corner tracking on Steam Deck OLED trackpads.
+						<br>
+					</li>
+					<li>
+						Fixed a problem with elevated noise levels for trackpad pressure sensors.  Affects only certain configurations.
+					</li>
+				</ul>
+				<b>
+					Firmware 120 (LCD) / 107 (OLED)
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed several USB compatibility issues.
+						<br>
+					</li>
+					<li>
+						<b>
+							Developer note:
+						</b>
+						This changes the default USB mode back to XHCI (host-only) while issues with dual-role device mode are investigated.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4300445619231660921" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.5.17 Preview: The Thin Green Line</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4300445619230863086</link>
 			<content:encoded><![CDATA[<html>
@@ -349,54 +547,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4338726151304267515" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: February 22nd</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4338725580145248447</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 22, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed some Steam chat views not indicating which item was selected
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fix styling of the controller mode settings page
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4338725580145248447" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>

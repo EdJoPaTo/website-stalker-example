@@ -48,7 +48,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[26.02.2024 - 01.03.2024 RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
