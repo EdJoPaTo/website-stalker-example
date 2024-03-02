@@ -1,4 +1,0 @@
-root = true
-
-[*.{yml,yaml}]
-tab_width = 2
