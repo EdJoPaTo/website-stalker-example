@@ -22,12 +22,6 @@ cirrus nimbus
     H610 Chipsatz – business mainboard
   * **Mitac PH12ADI (DDR5 SO-DIMM)**
     H610 Chipsatz – industrial mainboard
-  * **ASRock H670M-ITX (DDR4)**
-    H670 Chipsatz – Mini ITX
-  * **ASUS ROG Strix B760-I (DDR5)**
-    B760 Chipsatz – Mini ITX
-  * **ASRock Z690M-ITX (DDR4)**
-    Z690 Chipsatz – Mini ITX
   * **ASRock Z790M-ITX (DDR5)**
     Z790 Chipsatz – Mini ITX
 
