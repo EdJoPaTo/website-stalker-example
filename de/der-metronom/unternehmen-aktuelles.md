@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[unverändert gültig: metronom ist nicht vom angekündigten Streik betroffen](https://www.der-metronom.de/aktuell/kein-streik-bei-metronom/)
+
+ Uelzen - 04.03.2024
+
+Liebe Fahrgäste,
+trotz der Streikwellen der Gewerkschaft Deutscher Lokomotivführer (GDL) oder der ver.di, die momentan durch die Nachrichten schwappen – bei metronom wird nicht gestreikt. Der Grund? Wir sind Teil der NETINERA-Gruppe und die hat schon am 12. Dezember 2023 einen Tarifabschluss mit...
+
 [„Wir sind und wir bleiben“ – Aktuelles von metronom](https://www.der-metronom.de/aktuell/wir-sind-und-wir-bleiben---aktuelles-von-metronom/)
 
  Uelzen/Hannover - 04.03.2024
