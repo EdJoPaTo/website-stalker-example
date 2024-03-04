@@ -15,11 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Kein ver.di-Streik bei metronom!](https://www.der-metronom.de/aktuell/kein-ver-di-streik-bei-metronom/)
+[„Wir sind und wir bleiben“ – Aktuelles von metronom](https://www.der-metronom.de/aktuell/wir-sind-und-wir-bleiben---aktuelles-von-metronom/)
 
- Uelzen - 23.02.2024
+ Uelzen/Hannover - 04.03.2024
 
-Die Gewerkschaft ver.di hat zu einem Streik...
+Uelzen, Hannover 04. März 2024
+In den letzten Wochen gab es zahlreiche Fragen und Meldungen zur aktuellen Situation und der Zukunft des metronom. Auch die ein oder andere falsche Meldung hatte sich eingeschlichen.
+Wir klären auf und informieren. Wie immer offen, ehrlich und transparent. Das...
 
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
