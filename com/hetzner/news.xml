@@ -6,6 +6,28 @@
 		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Make a giant leap forward with the new GPU server GEX44</title>
+			<link>https://www.hetzner.com/news/new-gpu-server/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				4. March 2024
+			</small>
+		</p>
+		<p>
+		</p>
+		<p>
+			With the new Dedicated Server GEX44, you’ll experience the epic performance and computing power of a GPU; its processing architecture enables it to process many tasks in parallel, …
+		</p>
+		<p>
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Multitasking at its finest: the new Dedicated Server AX162 with AMD EPYC™ 9454P</title>
 			<link>https://www.hetzner.com/news/new-ax162/</link>
 			<content:encoded><![CDATA[<html>
@@ -179,24 +201,6 @@
 		</p>
 		<p>
 			The new AX102 Dedicated Server is the shiny two-sided coin in our collection.
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Rethink your cloud. Rely on our new arm64 CAX servers</title>
-			<link>https://www.hetzner.com/news/arm64-cloud/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				12. April 2023
-			</small>
-		</p>
-		<p>
-			Creating a cloud server has never been so easy and cheap.
 		</p>
 	</body>
 </html>]]></content:encoded>
