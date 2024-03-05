@@ -121,9 +121,9 @@ updated 2023-03-24
 
 [Assembling the Pi5 Steel case](https://www.hifiberry.com/docs/hardware/assembling-the-pi5-steel-case/)
 
-assembly, case, first steps, hardware
+assembly, case, hardware
 
-updated 2024-01-17
+updated 2024-03-05
 
 [Software](https://www.hifiberry.com/docs/software/)
 
@@ -574,6 +574,12 @@ updated 2021-06-15
 amp, datasheet
 
 updated 2023-09-13
+
+[Datasheet Amp4 Pro](https://www.hifiberry.com/docs/data-sheets/datasheet-amp4-pro/)
+
+other
+
+updated 2024-03-05
 
 [HiFiBerryOS](https://www.hifiberry.com/docs/hifiberryos/)
 
