@@ -6,6 +6,64 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: March 6th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4295942652152881302</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Mar 6, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the on screen keyboard disappearing if the Cangjie input method was selected.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a rare crash when starting a streaming session.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the D-pad not responding on some controllers.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295942652152881302" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.5.17 Update: Pip Watch</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4300445619231660921</link>
 			<content:encoded><![CDATA[<html>
@@ -329,224 +387,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4300445619228264461" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: February 27th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4338726151304267515</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 27, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable (default) channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Updated embedded Chromium build in Steam, clearing path for further updates soon.
-						<br>
-					</li>
-					<li>
-						Improved UI performance while navigating Steam interface.
-						<br>
-					</li>
-					<li>
-						Updated the quick access performance menu with descriptions for each setting, including how they affect the system and the expected power/performance/visual quality tradeoffs.
-						<br>
-					</li>
-					<li>
-						Triggering a Factory Reset will now install a clean version of the OS in addition to deleting user data if the OS image has been modified.
-						<br>
-					</li>
-					<li>
-						Improved performance when adding/removing multiple games to/from Family View in the library.
-						<br>
-					</li>
-					<li>
-						Corrected height of low battery notification.
-						<br>
-					</li>
-					<li>
-						Removed duplicate friend counter on game capsules.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the sdcard was set as the default install location on reboot.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the network status icon would fail to render for virtual networks.
-						<br>
-					</li>
-					<li>
-						Fixed store button on main menu remaining disabled in Family View even if store permissions were granted to the account.
-						<br>
-					</li>
-					<li>
-						Fixed creation of erroneous steamwebhelper processes when steamwebhelper crashes.
-						<br>
-					</li>
-					<li>
-						Fixed on-screen text input to show the game in the background.
-						<br>
-					</li>
-					<li>
-						Fixed downloading content with long file names in some cases.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the client could get stuck in the shutting down screen.
-						<br>
-					</li>
-					<li>
-						Fixed a case where no element would be selected in the UI when closing the quick access menu.
-						<br>
-					</li>
-					<li>
-						Fixed CD Keys popup not appearing during launch for games that request it.
-						<br>
-					</li>
-					<li>
-						Fixed failing to switch to Japanese keyboard layout.
-						<br>
-					</li>
-					<li>
-						Fixed some extraneous disk reads that could impact performance.
-						<br>
-					</li>
-					<li>
-						Fixed game news sometimes appearing out of order in game details activity feed.
-						<br>
-					</li>
-					<li>
-						Fixed miscellaneous regressions in the screenshot manager.
-						<br>
-					</li>
-					<li>
-						Fixed wide game images sometimes failing to load.
-						<br>
-					</li>
-					<li>
-						Fixed custom logo positions sometimes not applying on app details pages.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added a setting for the player LED for DualSense controllers.
-						<br>
-					</li>
-					<li>
-						Controllers can be used to dismiss/continue when controller support information panels appear before a game's launch.
-						<br>
-					</li>
-					<li>
-						QoL: Gyro Calibration button available in Controller Config Quick settings, and in the Gyro section of the Controller Layout Editor.
-						<br>
-					</li>
-					<li>
-						Fixed styling of the controller mode settings page.
-						<br>
-					</li>
-					<li>
-						Fixed Gyro enable button not being respected.
-						<br>
-					</li>
-					<li>
-						Fixed occasionally creating an extra virtual controller that is non-responsive.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Friends & Chat
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where group chats could get stuck on "Requesting Group Chat Information" after reconnecting to Steam.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed missing performance graph while streaming.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Stopped showing ready-to-play icon on Recent Games shelf, which does not filter to ready-to-play.
-						<br>
-					</li>
-					<li>
-						Fixed user avatar in title bar momentarily switching back to default during startup.
-						<br>
-					</li>
-					<li>
-						Fixed a case where mouse click input could stop working when starting to drag operation on a steam window.
-						<br>
-					</li>
-					<li>
-						Fixed main Steam window re-opening when closed if small mode has been entered or exited.
-						<br>
-					</li>
-					<li>
-						Fixed Steam windows sometimes freezing until resized.
-						<br>
-					</li>
-					<li>
-						Fixed maximize/restore button and window resize grip not updating properly.
-						<br>
-					</li>
-					<li>
-						Fixed "My Games" collection also including games borrowed from other users.
-						<br>
-					</li>
-					<li>
-						Fixed opacity of play bar on game details pages.
-						<br>
-					</li>
-					<li>
-						Fixed overlay notes window controls scrolling off the top and new note/delete note buttons not being visible.
-						<br>
-					</li>
-					<li>
-						Fixed mouse cursor jumping when some browser windows are closed or hidden.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4338726151304267515" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
