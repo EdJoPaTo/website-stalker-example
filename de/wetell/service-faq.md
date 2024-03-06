@@ -231,7 +231,7 @@ Die Tastaturbelegung für die Aktivierung und Deaktivierung deiner Mobilbox funk
 Klappt die Mailbox-Abfrage im Ausland nicht, lass dich über +49 172 22 85 mit deiner Mailbox verbinden. Das ist unser internationaler Mailbox-Operator. Dafür **bezahlst du den Gesprächspreis nach Deutschland**.
 
 Weitere Informationen zu deiner Mailbox findest du auf den Seiten der Vodafone, da die Mailbox im Vodafone-Netz einheitlich funktioniert:
-[Zur Infoseite](https://www.vodafone.de/hilfe/alles-zur-mailbox.html)
+https://www.vodafone.de/hilfe/alles-zur-mailbox.html
 
 **Achtung:** Per SMS kann die 5500 **nicht** kontaktiert werden.
 
