@@ -198,8 +198,6 @@ Your way.
 
 [Visit Ubuntu](https://ubuntu.com/)
 
-Liquid error (snippets/picture line 52): invalid url input
-
  elementary OS
 
  Pantheon

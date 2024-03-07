@@ -6,6 +6,68 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: March 7th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4295942652156706771</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Mar 7, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable (default) channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the on screen keyboard disappearing if the Cangjie input method was selected.
+						<br>
+					</li>
+					<li>
+						Fixed the on screen keyboard predictions misbehaving for Japanese, Chinese and Korean languages.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a rare crash when starting a streaming session.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the D-pad not responding on some controllers.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295942652156706771" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: March 7th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4295942652156525356</link>
 			<content:encoded><![CDATA[<html>
@@ -329,54 +391,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4300445619230863086" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: February 28th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4300445619228315331</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 28, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable (default) channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed the 'Verifying Installation' message incorrectly showing on every startup.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed infinite loading animation when streaming from another PC
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4300445619228315331" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
