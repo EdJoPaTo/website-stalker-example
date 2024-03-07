@@ -20,15 +20,14 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
  Uelzen - 04.03.2024
 
 Liebe Fahrgäste,
-trotz der Streikwellen der Gewerkschaft Deutscher Lokomotivführer (GDL) oder der ver.di, die momentan durch die Nachrichten schwappen – bei metronom wird nicht gestreikt. Der Grund? Wir sind Teil der NETINERA-Gruppe und die hat schon am 12. Dezember 2023 einen Tarifabschluss mit...
+trotz der Streikwellen der...
 
 [„Wir sind und wir bleiben“ – Aktuelles von metronom](https://www.der-metronom.de/aktuell/wir-sind-und-wir-bleiben---aktuelles-von-metronom/)
 
  Uelzen/Hannover - 04.03.2024
 
 Uelzen, Hannover 04. März 2024
-In den letzten Wochen gab es zahlreiche Fragen und Meldungen zur aktuellen Situation und der Zukunft des metronom. Auch die ein oder andere falsche Meldung hatte sich eingeschlichen.
-Wir klären auf und informieren. Wie immer offen, ehrlich und transparent. Das...
+In den letzten...
 
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
