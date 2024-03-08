@@ -6,6 +6,58 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: March 8th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4295942652159636416</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Mar 8, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Modified CSS classnames to reduce package size and reduce feature leaks
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						If a game failed to update, show why on the details page as well as the downloads page.
+						<br>
+					</li>
+					<li>
+						Fixed embedded browser views showing with high contrast settings when enabled on Windows.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295942652159636416" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: March 7th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4295942652156706771</link>
 			<content:encoded><![CDATA[<html>
@@ -353,44 +405,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4300445619231660921" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.5.17 Preview: The Thin Green Line</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4300445619230863086</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Feb 29, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Restored the application framerate graph as the default graph in the performance overlay.  The new frame timing graph is still visible in overlay level 4.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4300445619230863086" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
