@@ -44,8 +44,15 @@
 					</li>
 				</ul>
 				<br>
+				<b>
+					Steam Input
+				</b>
 				<br>
-				<br>
+				<ul>
+					<li>
+						New: "Reset to Horizon" action (found in "Mouse" action tab):  This helper can reset your camera to the horizon by sending 180 degrees down, and then 90 degrees up after a very short delay. This action can be bound to any activator slot. It is complementary to Gyro to Mouse mode, and re-uses the "Dots Per 360" value - if this value calibrated correctly for in game angles, then the "Reset to Horizon" action should snap your view to the horizon. For games which do not allow the camera to rotate all the way to the ground (e.g. Helldivers 2) there is a tunable "Horizon Reset Angle". The Delay is also tunable - increase the value if you end up looking at the floor or ceiling.
+					</li>
+				</ul>
 			</div>
 			<div>
 				<div>
