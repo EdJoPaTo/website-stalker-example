@@ -16,8 +16,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[05.03.2024 - 08.03.2024 RE2 nächtliche Haltausfälle in Nordstemmen und Sarstedt und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-naechtliche-haltausfaelle-in-nordstemmen-und-sarstedt-und-fahrzeitenaenderungen/)
-
 [09.03.2024 - 10.03.2024 RE2/RE3/RB31 abendlicher/nächtlicher Ersatzverkehr mit Bussen zwischen Suderburg und Bad Bevensen](https://www.der-metronom.de/baustellen/re2-re3-rb31-abendlicher-naechtlicher-ersatzverkehr-mit-bussen-zwischen-suderburg-und-bad-bevensen/)
 
 [11.03.2024 RE2/RE3 geänderte Fahrzeit Uelzen bis Unterlüß 82853 sowie Ersatzverkehr mit Bus zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-geaenderte-fahrzeit-uelzen-bis-unterluess-82853-sowie-ersatzverkehr-mit-bus-zwischen-uelzen-und-suderburg/)
@@ -27,8 +25,6 @@ RE2 Uelzen - Celle - Hannover
 [16.03.2024 - 01.04.2024 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen - Haltausfälle Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-haltausfaelle-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-uelzen-und-suderburg/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[05.03.2024 - 08.03.2024 RE2 nächtliche Haltausfälle in Nordstemmen und Sarstedt und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-naechtliche-haltausfaelle-in-nordstemmen-und-sarstedt-und-fahrzeitenaenderungen/)
 
 [14.03.2024 - 16.03.2024 RE2/RE3 nächtliche Teilausfälle zwischen Elze und Göttingen sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3/)
 
