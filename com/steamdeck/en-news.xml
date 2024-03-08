@@ -26,6 +26,10 @@
 				<br>
 				<ul>
 					<li>
+						Made taking screenshots more responsive.
+						<br>
+					</li>
+					<li>
 						Modified CSS classnames to reduce package size and reduce feature leaks
 					</li>
 				</ul>
@@ -37,12 +41,11 @@
 				<ul>
 					<li>
 						If a game failed to update, show why on the details page as well as the downloads page.
-						<br>
-					</li>
-					<li>
-						Fixed embedded browser views showing with high contrast settings when enabled on Windows.
 					</li>
 				</ul>
+				<br>
+				<br>
+				<br>
 			</div>
 			<div>
 				<div>
