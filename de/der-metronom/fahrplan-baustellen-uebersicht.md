@@ -32,8 +32,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[08.03.2024 RB31 nächtlicher Haltausfall in Bardowick 81642](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-bardowick-81642/)
-
 [09.03.2024 - 10.03.2024 RE2/RE3/RB31 abendlicher/nächtlicher Ersatzverkehr mit Bussen zwischen Suderburg und Bad Bevensen](https://www.der-metronom.de/baustellen/re2-re3-rb31-abendlicher-naechtlicher-ersatzverkehr-mit-bussen-zwischen-suderburg-und-bad-bevensen/)
 
 [10.03.2024 - 13.03.2024 RB31 nächtlicher Ersatzverkehr mit Bussen (Haltausfall Bardowick, Radbruch und Ashausen)](https://www.der-metronom.de/baustellen/rb31-naechtlicher-ersatzverkehr-mit-bussen-haltausfall-bardowick-radbruch-und-ashausen/)
