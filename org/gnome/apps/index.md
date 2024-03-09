@@ -12,6 +12,7 @@ Core Apps
 
 GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-installed on your GNOME system.
 
+* [**Calculator**Perform arithmetic, scientific or financial calculations](Calculator/)
 * [**Calendar**Calendar for GNOME](Calendar/)
 * [**Camera**Take pictures and videos](Snapshot/)
 * [**Characters**Character map application](Characters/)
@@ -19,27 +20,26 @@ GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-
 * [**Connections**View and use other desktops](Connections/)
 * [**Console**Terminal Emulator](Console/)
 * [**Contacts**Manage your contacts](Contacts/)
-* [**Disk Usage Analyser**𐑗𐑧𐑒 𐑓𐑴𐑤𐑛𐑼 𐑕𐑲𐑟𐑩𐑟 𐑯 𐑩𐑝𐑱𐑤𐑩𐑚𐑩𐑤 𐑛𐑦𐑕𐑒 𐑕𐑐𐑱𐑕](Baobab/)
+* [**Disk Usage Analyzer**Check folder sizes and available disk space](Baobab/)
 * [**Disks**Disk management utility for GNOME](DiskUtility/)
 * [**Document Scanner**Make a digital copy of your photos and documents](SimpleScan/)
+* [**Document Viewer**Document viewer for popular document formats](Evince/)
 * [**Extensions**Manage your GNOME Extensions](Extensions/)
-* [**Files**Access and organise files](Nautilus/)
+* [**Files**Access and organize files](Nautilus/)
 * [**Fonts**View fonts on your system](FontViewer/)
 * [**Help**Help viewer for GNOME](Yelp/)
 * [**Image Viewer**View images](Loupe/)
 * [**Logs**View detailed event logs for the system](Logs/)
 * [**Maps**Find places around the world](Maps/)
-* [**Music**Play and organise your music collection](Music/)
+* [**Music**Play and organize your music collection](Music/)
 * [**Settings**Utility to configure the GNOME desktop](Settings/)
 * [**Software**Install and update apps](Software/)
 * [**System Monitor**View and manage system resources](SystemMonitor/)
 * [**Text Editor**Edit text files](TextEditor/)
 * [**Tour**GNOME Tour and Greeter](Tour/)
+* [**Videos**Play movies](Totem/)
 * [**Weather**Show weather conditions and forecast](Weather/)
-* [**Web**Browse the Web](Epiphany/)
-* [**𐑒𐑨𐑤𐑒𐑿𐑤𐑱𐑑𐑼**𐑐𐑼𐑓𐑹𐑥 𐑼𐑦𐑔𐑥𐑩𐑑𐑦𐑒, 𐑕𐑲𐑩𐑯𐑑𐑦𐑓𐑦𐑒 𐑹 𐑓𐑲𐑯𐑨𐑯𐑖𐑩𐑤 𐑒𐑨𐑤𐑒𐑿𐑤𐑱𐑖𐑩𐑯𐑟](Calculator/)
-* [**𐑛𐑪𐑒𐑿𐑥𐑩𐑯𐑑 𐑝𐑿𐑼**Document viewer for popular document formats](Evince/)
-* [**𐑝𐑦𐑛𐑰𐑴𐑟**Play movies](Totem/)
+* [**Web**Browse the web](Epiphany/)
 
 Circle Apps
 ----------
@@ -111,9 +111,9 @@ Development Tools
 
 GNOME Development tools help develop and design new apps and make it easy to contribute to existing ones.
 
-* [**·𐑛𐑧𐑝𐑣𐑧𐑤𐑐**A developer tool for browsing and searching API documentation](Devhelp/)
-* [**Boxes**Virtualisation made simple](Boxes/)
+* [**Boxes**Virtualization made simple](Boxes/)
 * [**Builder**An IDE for GNOME](Builder/)
 * [**D-Spy**A D-Bus explorer for GNOME](Dspy/)
 * [**Dconf Editor**A graphical tool for editing the dconf database](DconfEditor/)
+* [**Devhelp**A developer tool for browsing and searching API documentation](Devhelp/)
 * [**Sysprof**Profile an application or entire system](Sysprof/)
