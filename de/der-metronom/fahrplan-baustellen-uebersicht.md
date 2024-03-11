@@ -16,8 +16,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[11.03.2024 RE2/RE3 geänderte Fahrzeit Uelzen bis Unterlüß 82853 sowie Ersatzverkehr mit Bus zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-geaenderte-fahrzeit-uelzen-bis-unterluess-82853-sowie-ersatzverkehr-mit-bus-zwischen-uelzen-und-suderburg/)
-
 [14.03.2024 - 16.03.2024 RE2/RE3 nächtliche Teilausfälle zwischen Elze und Göttingen sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3/)
 
 [16.03.2024 - 01.04.2024 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen - Haltausfälle Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-haltausfaelle-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-uelzen-und-suderburg/)
