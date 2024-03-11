@@ -17,7 +17,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [unverändert gültig: metronom ist nicht vom angekündigten Streik betroffen](https://www.der-metronom.de/aktuell/kein-streik-bei-metronom/)
 
- Uelzen - 04.03.2024
+ Uelzen - 11.03.2024
 
 Liebe Fahrgäste,
 trotz der Streikwellen der...
