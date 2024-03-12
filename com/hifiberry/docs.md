@@ -581,6 +581,12 @@ other
 
 updated 2024-03-05
 
+[Datasheet DAC8x](https://www.hifiberry.com/docs/data-sheets/datasheet-dac8x/)
+
+other
+
+updated 2024-03-12
+
 [HiFiBerryOS](https://www.hifiberry.com/docs/hifiberryos/)
 
 [HiFiBerryOS: Initial setup](https://www.hifiberry.com/docs/hifiberryos/setup-hifiberryos/)
