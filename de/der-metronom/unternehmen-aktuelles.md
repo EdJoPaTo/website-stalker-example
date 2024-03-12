@@ -22,13 +22,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 Liebe Fahrgäste,
 trotz der Streikwellen der...
 
-[„Wir sind und wir bleiben“ – Aktuelles von metronom](https://www.der-metronom.de/aktuell/wir-sind-und-wir-bleiben---aktuelles-von-metronom/)
-
- Uelzen/Hannover - 04.03.2024
-
-Uelzen, Hannover 04. März 2024
-In den letzten...
-
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
  Uelzen - 25.01.2024
