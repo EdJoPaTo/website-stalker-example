@@ -15,7 +15,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[unverändert gültig: metronom ist nicht vom angekündigten Streik betroffen](https://www.der-metronom.de/aktuell/kein-streik-bei-metronom/)
+[Update: metronom streikt nicht - RE3/RB31: Streikauswirkungen zwischen Winsen (Luhe) und Hamburg-Harburg](https://www.der-metronom.de/aktuell/kein-streik-bei-metronom/)
 
  Uelzen - 11.03.2024
 
