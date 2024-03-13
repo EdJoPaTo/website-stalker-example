@@ -14,9 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       WEBSITE_STALKER_FROM: ${{ secrets.WEBSITE_STALKER_FROM }}
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_TARGET_CHAT: "-1001569012086"
-      TELEGRAM_DISABLE_WEB_PAGE_PREVIEW: true
     steps:
       - uses: EdJoPaTo/website-stalker-github-action@v1
 
