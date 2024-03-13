@@ -18,6 +18,7 @@ sites:
   # Basic example
   - url: https://edjopato.de/
     editors:
+      - css_select: nothing
       - html_prettify
 
   # Example with css selector
