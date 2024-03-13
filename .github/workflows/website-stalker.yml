@@ -22,6 +22,8 @@ jobs:
       - name: Check website-stalker config
         run: website-stalker check
 
+      - run: 'false'
+
       - name: Run website-stalker
         id: website-stalker
         run: website-stalker run --all --commit
