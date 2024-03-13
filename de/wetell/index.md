@@ -83,12 +83,6 @@ Dein neuer Mobilfunktarif
 **Inkl. Backmarket Vorteil -**
  Keine Bereitstellungsgebühr!
 
-**Inkl. DB-Vorteil -**
- Keine Bereitstellungsgebühr und 1 Monat keine Grundgebühr!
-
-**Für Tomorrow Bank Kund\*innen**
- 1 Monat Mobilfunk und SIM gratis
-
 **Dein Impact-Solutions Vorteil:**
  Bereitstellungs- und erste Monatsgrundgebühr entfällt!
 
@@ -345,7 +339,7 @@ Service
 Rechtliches
 
 * [Kontakt](https://www.wetell.de/service/kontakt/)
-* [Datenschutz](https://www.wetell.de/service/rechtstexte/datenschutz/)
+* [Datenschutzerklärung](https://www.wetell.de/service/rechtstexte/datenschutz/)
 * [Impressum](https://www.wetell.de/service/rechtstexte/impressum/)
 * [AGB](https://www.wetell.de/service/dokumente/#agb)
 * [Kündigung](https://www.wetell.de/tarife/kuendigung/)
