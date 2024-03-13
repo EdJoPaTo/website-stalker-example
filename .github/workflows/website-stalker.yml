@@ -26,7 +26,8 @@ jobs:
         run: website-stalker check
 
       - name: Run website-stalker
+        id: website-stalker
         run: website-stalker run --all --commit
 
-      - if: always()
+      - if: success() || steps.website-stalker.outcome == 'failure'
         run: git push
