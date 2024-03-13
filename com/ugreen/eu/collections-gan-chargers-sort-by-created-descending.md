@@ -2,7 +2,7 @@
 
  Previous page Next page Previous page Next page Previous page Next page
 
-### [Nexode RG 65W GaN Charger (Grey)](https://eu.ugreen.com/products/nexode-rg-65w-charger-grey) ###
+### [Nexode RG 65W GaN Charger (Black)](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
 
 Previous page Next page 1 3-in-1 Alleskönner 2 Spaß von RG 3 Power von RG Previous page Next page 1 Smart-Design 2 Bereite Kompatibilität 3 Für Vision Pro Batterie 4...
 
