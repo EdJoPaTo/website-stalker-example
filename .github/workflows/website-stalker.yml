@@ -29,5 +29,5 @@ jobs:
       - if: always()
         run: echo '${{ toJSON(steps.website-stalker) }}' | jq
 
-      - if: steps.website-stalker.outcome != 'skipped'
+      - if: success() || steps.website-stalker.outcome == 'failure'
         run: git push
