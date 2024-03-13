@@ -27,7 +27,7 @@ jobs:
         run: website-stalker run --all --commit
 
       - if: always()
-        run: echo '${{ toJSON(steps.website-stalker) }}'
+        run: echo '${{ toJSON(steps.website-stalker) }}' | jq
 
-      - if: steps.website-stalker.outcome == 'success' || steps.website-stalker.outcome == 'failure'
+      - if: steps.website-stalker.outcome != 'skipped'
         run: git push
