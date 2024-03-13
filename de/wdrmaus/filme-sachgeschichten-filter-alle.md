@@ -479,7 +479,6 @@
 * [Jagd nach dem Maulwurf](https://www.wdrmaus.de/filme/sachgeschichten/jagd_nach_dem_maulwurf.php5)
 * [Jagdhund](https://www.wdrmaus.de/filme/sachgeschichten/jagdhund.php5)
 * [Japan-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/japan_spezial.php5)
-* [Japanische Eissorten](https://www.wdrmaus.de/filme/sachgeschichten/japanische_eissorten.php5)
 * [Jeans](https://www.wdrmaus.de/filme/sachgeschichten/jeans.php5)
 * [Jodeln](https://www.wdrmaus.de/filme/sachgeschichten/jodeln.php5)
 * [Jugendgericht](https://www.wdrmaus.de/filme/sachgeschichten/jugendgericht.php5)

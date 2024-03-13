@@ -69,7 +69,7 @@ updated 2019-10-04
 
 3d, amp, dac, digi, dsp
 
-updated 2022-01-28
+updated 2024-03-13
 
 [Use your HiFiBerry sound card with your Mac or PC](https://www.hifiberry.com/docs/hardware/use-your-hifiberry-sound-card-with-your-mac-or-pc/)
 
@@ -585,7 +585,7 @@ updated 2024-03-05
 
 other
 
-updated 2024-03-12
+updated 2024-03-13
 
 [HiFiBerryOS](https://www.hifiberry.com/docs/hifiberryos/)
 
