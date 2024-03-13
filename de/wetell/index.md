@@ -80,9 +80,6 @@ Dein neuer Mobilfunktarif
 * Monatlich kündbar
 * Rufnummernmitnahme
 
-**Inkl. Backmarket Vorteil -**
- Keine Bereitstellungsgebühr!
-
 **Dein Impact-Solutions Vorteil:**
  Bereitstellungs- und erste Monatsgrundgebühr entfällt!
 
