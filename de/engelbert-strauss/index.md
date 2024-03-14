@@ -9,16 +9,15 @@ Farbstarke Outfits, sportliche Schnitte.
 
 [zur e.s.ambition Kollektion](https://www.engelbert-strauss.de/ambition)
 
-Endlich da!
+Explore new Trails
 
 ----------
 
 ---
 
- Die neuen Berufs- und Sicherheitsschuhe:
-Schutz & Komfort für jeden Einsatz!
+ Ab sofort neue Farben, neue Modelle im e.s.trail-Style
 
-[alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
+[zur e.s.trail Kollektion](https://www.engelbert-strauss.de/trail)
 
 Kernige Styles
 
@@ -48,98 +47,72 @@ Die neuen Teile sind da!
 
 [Dann melde dich hier an](https://www.strauss-ballkids.de/anmeldung)
 
- Neuheiten
+ Aktions-Sets
+==========
+
+---
+
+ Limitiertes Angebot
+
+ EURO 2024™
+Aktions-Sets
 ----------
 
 ---
 
- Neue Taschen-Lösungen
-----------
+ Set bestehend aus:
 
----
+ Softshelljacke e.s.motion 2020
+\+ Softshellweste e.s.motion 2020
+**\+ GRATIS UEFA EURO 2024™ FAN-SHIRT**
 
- Kompakt, sicher verstaut, direkt griffbereit
+[Set für Herren](https://www.engelbert-strauss.de/uefa-euro2024-x-strauss/set-softshelljacke-weste-e-s-motion-2020-shirt-3135000-16146-1086.html?amp;itemorigin=Startseite_FS24)
 
-[alle neuen e.s.ambition Taschen](https://www.engelbert-strauss.de/ambition_taschen)
+[Set für Damen](https://www.engelbert-strauss.de/uefa-euro2024-x-strauss-damen/set-softshelljacke-weste-e-s-motion-2020-damen-3135010-16151-722.html?amp;itemorigin=Startseite_FS24)
 
-|   | Werkzeugtasche e.s.ambition|
-|---|----------------------------|
-
-|   |
-|---|
-
- Neue Taschen-Lösungen
-----------
-
----
-
- Kompakt, sicher verstaut, direkt griffbereit
-
-[alle neuen e.s.ambition Taschen](https://www.engelbert-strauss.de/ambition_taschen)
-
-|   | Werkzeugtasche e.s.ambition|
-|---|----------------------------|
-
-|   |
-|---|
+|   | gratis<br/>---|   |
+|---|---------------|---|
 
 | Die neue Saison startet: Jetzt!<br/>----------<br/><br/>---| Entdecken Sie neue Workwear, neue Schuhe, neues Equipment und viele Saisonartikel – nur solange der Vorrat reicht!<br/><br/>[<br/><br/>alle Neuheiten<br/><br/>](https://www.engelbert-strauss.de/neuheiten/?sort=newest)|
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
- Explore new Trails
+ Endlich da!
 ----------
 
 ---
 
- Ab sofort neue Farben, neue Modelle im e.s.trail-Style
+ Die neuen Berufs- und Sicherheitsschuhe:
+Schutz & Komfort für jeden Einsatz!
 
-[zur e.s.trail Kollektion](https://www.engelbert-strauss.de/trail)
+[Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
 
- High-Tech für die Hände
+ Work & Travel
 ----------
 
 ---
 
- Montage-Handschuhe Protect: jetzt neu!
+ Worker-Chinos im Business-Style: pflegeleicht & knitterarm!
 
-[jetzt zugreifen](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/e-s-montage-handschuhe-protect-2101310-7620407-1.html?amp;itemorigin=Startseite_FS24)
+[mehr Details](https://www.engelbert-strauss.de/s/suche?query=work%26travel)
 
-[mehr Details](https://www.engelbert-strauss.de/mechanikerhandschuhe-montagehandschuhe/e-s-montage-handschuhe-protect-2101310-7620407-1.html?itemorigin=Startseite_FS24)
+ Perfekt für Ostern
+==========
 
- Kollaborationen
+---
+
+ Gutscheine verschenken
 ----------
 
 ---
 
- Bereit fürs nächste Level?
----
-
-[alle Produkte](https://www.engelbert-strauss.de/super-mario-x-strauss/?sort=newest)
-
-|   | JETZT  <br/>NEU!<br/>---|   |
-|---|-------------------------|---|
-
- Strauss Produktfinder – finde, was zu dir passt.
-----------
+ Verschenke Freude mit einem Strauss Gutschein
+==========
 
 ---
 
- Jackenfinder
-----------
+[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs24)
 
----
-
-[jetzt starten](https://www.engelbert-strauss.de/arbeitsjacken/?jacketfinder=open)
-
- Hosenfinder
----
-
-[jetzt starten](https://www.engelbert-strauss.de/arbeitshosen/?trouserfinder=open)
-
- Schuhfinder
----
-
-[jetzt starten](https://www.engelbert-strauss.de/arbeitsschuhe/?shoefinder=open)
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
 
 [jetzt selbst gestalten](https://www.engelbert-strauss.de/mymotion)
 
