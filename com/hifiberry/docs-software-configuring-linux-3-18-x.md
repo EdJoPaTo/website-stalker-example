@@ -21,15 +21,33 @@ Newer system will probably use the vc4-kms-v3d (without the “f”), the syntax
 
 ### Configure device tree overlay file ###
 
+With the Pi5, some overlays had to be adapted. If you’re using a DAC+ Standard, DAC+ Pro, DAC2 Pro, DAC+ ADC please see the changes here: [Changes in HifiBerry drivers](https://www.hifiberry.com/blog/changes-in-hifiberry-drivers/)
+
 You don’t have to edit /etc/modules anymore, but need to load the correct device tree file. To do this, you must edit /boot/config.txt and add the following line
 
 #### DAC for Raspberry Pi 1/DAC+ Light/DAC Zero/MiniAmp/Beocreate/DAC+ DSP/DAC+ RTC ####
 
 `dtoverlay=hifiberry-dac`
 
-#### DAC+ Standard/Pro/Amp2 ####
+#### DAC+ Standard/Amp2/Amp4 ####
+
+Kernel \< 6.1.77
 
 `dtoverlay=hifiberry-dacplus`
+
+Kernel \>= 6.1.77
+
+`dtoverlay=hifiberry-dacplus-std`
+
+#### DAC+ Pro/DAC2 Pro: ####
+
+Kernel \< 6.1.77
+
+`dtoverlay=hifiberry-dacplus`
+
+Kernel \>= 6.1.77
+
+`dtoverlay=hifiberry-dacplus-pro`
 
 #### DAC2 HD ####
 
@@ -58,6 +76,12 @@ You don’t have to edit /etc/modules anymore, but need to load the correct devi
 #### Amp3 ####
 
 `dtoverlay=hifiberry-amp3`
+
+#### Amp4 Pro ####
+
+`dtoverlay=hifiberry-amp4pro`
+
+###  ###
 
 ### Linux 5.4 and higher ###
 
@@ -122,4 +146,4 @@ and the output of
 
 `sudo vcdbg log msg`
 
-##### Last updated: January 30, 2023 #####
+##### Last updated: March 14, 2024 #####

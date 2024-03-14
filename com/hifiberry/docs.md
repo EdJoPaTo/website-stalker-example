@@ -131,7 +131,7 @@ updated 2024-03-05
 
 amp, configuration, dac, digi, first steps
 
-updated 2023-01-30
+updated 2024-03-14
 
 [Updating the Linux kernel](https://www.hifiberry.com/docs/software/updating-the-linux-kernel/)
 
