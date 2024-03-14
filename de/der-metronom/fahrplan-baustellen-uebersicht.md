@@ -20,11 +20,15 @@ RE2 Uelzen - Celle - Hannover
 
 [16.03.2024 - 01.04.2024 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen - Haltausfälle Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-haltausfaelle-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-uelzen-und-suderburg/)
 
+[06.04.2024 - 07.04.2024 RE2 Ersatzverkehr mit Bussen zwischen Hannover Hbf und Alfeld (Leine)](https://www.der-metronom.de/baustellen/re2-ersatzverkehr-mit-bussen-zwischen-hannover-hbf-und-alfeld-leine/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [14.03.2024 - 16.03.2024 RE2/RE3 nächtliche Teilausfälle zwischen Elze und Göttingen sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3/)
 
 [16.03.2024 - 01.04.2024 RE2/RE3 keine Direktverbindung zwischen Uelzen und Göttingen - Haltausfälle Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Uelzen und Suderburg](https://www.der-metronom.de/baustellen/re2-re3-keine-direktverbindung-zwischen-uelzen-und-goettingen-haltausfaelle-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-uelzen-und-suderburg/)
+
+[06.04.2024 - 07.04.2024 RE2 Ersatzverkehr mit Bussen zwischen Hannover Hbf und Alfeld (Leine)](https://www.der-metronom.de/baustellen/re2-ersatzverkehr-mit-bussen-zwischen-hannover-hbf-und-alfeld-leine/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
