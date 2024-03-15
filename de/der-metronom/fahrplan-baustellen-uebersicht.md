@@ -22,6 +22,8 @@ RE2 Uelzen - Celle - Hannover
 
 [06.04.2024 - 07.04.2024 RE2 Ersatzverkehr mit Bussen zwischen Hannover Hbf und Alfeld (Leine)](https://www.der-metronom.de/baustellen/re2-ersatzverkehr-mit-bussen-zwischen-hannover-hbf-und-alfeld-leine/)
 
+[08.04.2024 - 15.04.2024 RE2/RE3 nächtlicher Ersatzverkehr mit Bussen und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtlicher-ersatzverkehr-mit-bussen-und-fahrzeitenaenderungen/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [14.03.2024 - 16.03.2024 RE2/RE3 nächtliche Teilausfälle zwischen Elze und Göttingen sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3/)
@@ -30,15 +32,27 @@ RE2 Hannover - Northeim - Göttingen
 
 [06.04.2024 - 07.04.2024 RE2 Ersatzverkehr mit Bussen zwischen Hannover Hbf und Alfeld (Leine)](https://www.der-metronom.de/baustellen/re2-ersatzverkehr-mit-bussen-zwischen-hannover-hbf-und-alfeld-leine/)
 
+[08.04.2024 - 15.04.2024 RE2/RE3 nächtlicher Ersatzverkehr mit Bussen und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtlicher-ersatzverkehr-mit-bussen-und-fahrzeitenaenderungen/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [15.03.2024 - 28.03.2024 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie Haltausfälle Ashausen, Bardowick und Radbruch](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-haltausfaelle-ashausen-bardowick-und-radbruch/)
 
 [29.03.2024 - 04.04.2024 RE3/RB31 nächtliche Haltausfälle Bardowick, Radbruch, Ashausen sowie Meckelfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-bardowick-radbruch-ashausen-sowie-meckelfeld-ersatzverkehr-mit-bussen/)
 
+[08.04.2024 - 09.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
+
+[11.04.2024 - 12.04.2024 RE3/RB31 nächtlicher Haltausfall in Ashausen für eine Verbindung](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall-in-ashausen-fuer-eine-verbindung/)
+
+[14.04.2024 - 18.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [15.03.2024 - 29.03.2024 RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
+
+[08.04.2024 - 09.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
+
+[14.04.2024 - 18.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
