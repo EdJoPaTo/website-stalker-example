@@ -30,8 +30,8 @@ WEtell - Mobilfunk geht auch nachhaltig!
   * [Newsblog](https://www.wetell.de/ueber-uns/news/)
   * [Podcasts](https://www.wetell.de/ueber-uns/podcasts/)
   * [Spotlight](https://www.wetell.de/spotlight/)
+  * [Whitepaper](https://www.wetell.de/nachhaltige_smartphones_uebersicht/)
   * [Webinare](https://www.wetell.de/ueber-uns/webinare/)
-  * [Whitepaper](https://www.wetell.de/ueber-uns/whitepaper/)
   * [Team](https://www.wetell.de/ueber-uns/team/)
 
 [Jetzt wechseln!](https://www.wetell.de/tarife)
