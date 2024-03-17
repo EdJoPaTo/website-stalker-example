@@ -1,3 +1,8 @@
+Silbernetz
+----------
+
+Einfach mal reden. Selbstverständlich für viele von uns, aber gerade im Alter nimmt die Einsamkeit für viele zu. Mit über 200 Ehrenamtlichen bietet das Silbertelefon und eine Vermittlung für Silbernetz-Freundschaften. Also haben wir Silbernetz-Leitung André Henselmann eingeladen sich ins Spotlight zu setzen.
+
 SuperCoop
 ----------
 
