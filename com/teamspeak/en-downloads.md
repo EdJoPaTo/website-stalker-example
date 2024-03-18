@@ -41,35 +41,35 @@ SHA256: 6f3bf97b120d3c799cefc90c448e45836708a826d7caa07ad32b5c868eb9181b
  Windows
 ----------
 
-###  Client 64-bit  3.6.1  ###
+###  Client 64-bit  3.6.2  ###
 
 ```
-SHA256: 3b6cf0a99f1686a53c3afc15e502593f50e3822a86dde400fee9ba38242c9532
+SHA256: eab9e0c1a7134643e5f7116b7e0e58faffb20d6db528f8b333d2c2b5d1ab68ae
 ```
 
-[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe)
+[Download](https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-win64-3.6.2.exe)
 
  macOS
 ----------
 
-###  Client 64-bit  3.6.1  ###
+###  Client 64-bit  3.6.2  ###
 
 ```
-SHA256: 2312e39ea680da1c728d4589f51fbe80c52e3a33b8b3f9ad485ccd29179cfdf9
+SHA256: 8a6873589aeb98fdbd9509f2a1163662770f1426aed0757704203de40d71d4d6
 ```
 
-[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-macosx-3.6.1.dmg)
+[Download](https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-macosx-3.6.2.dmg)
 
  Linux
 ----------
 
-###  Client 64-bit  3.6.1  ###
+###  Client 64-bit  3.6.2  ###
 
 ```
-SHA256: 8f8b2067eb49a55e924f4c8b99b2d32e007141370ad4b6681047cc7b74d4002e
+SHA256: 59f110438971a23f904a700e7dd0a811cf99d4e6b975ba3aa45962d43b006422
 ```
 
-[Download](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-linux_amd64-3.6.1.run)
+[Download](https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-linux_amd64-3.6.2.run)
 
  Android
 ----------
