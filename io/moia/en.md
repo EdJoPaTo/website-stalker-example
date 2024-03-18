@@ -30,14 +30,14 @@ Absolutely transparent
 
 You will find out the cost of your ride before booking. You can pay using the app.
 
-From 7:00 p.m. to 5:00 a.m.
+The new movement
 
-Our weekend price is nice
+We want to move all people forward.
 ----------
 
-Grab two good friends and ride through the night on the weekend comfortably, safely and at a great value for money. For three people you can get from Osterstraße to the Hamburger Kiez for ⌀ €15.60\*, from Uhlenhorst to a movie night at Dammtor for ⌀ €15.30\* and for just ⌀ €18.30\* from Mühlenkamp to dinner in the Schanze. It's even cheaper if you are four, five or six people. Happy riding, happy weekend!
+We believe that it's better when six people share one MOIA instead of six people driving in six cars. Riding together connects: people with people and people with places. It strengthens the sense of community and makes our city more livable and loveable. Because more MOIA means fewer cars, noise, local emissions, parking fees and looking for parking spots. Ain‘t bad at all, this mobility revolution.
 
-[Launch App](https://moia.go.link/?adj_t=1awk2yao)
+Let‘s ride the change. The more people join in, the better it gets.
 
 How MOIA works
 ----------
@@ -165,5 +165,3 @@ Frequently asked questions
 [What is Smart Saver?](https://help.moia.io/hc/en-us/articles/4418377901073-Smart-Saver-for-Thrifty-Travellers-)
 
 [Find out more](https://help.moia.io/hc/en-us)
-
-\* The indicated average prices were calculated over different time periods. The fares for the shown routes were recorded on two different days of the week (Friday and Saturday), at different times of day (between 19:00 - 24:00) and for different group sizes. The average price was then calculated for each route and group size. Our prices are dynamic and may vary from the indicated amounts. All average prices include VAT.
