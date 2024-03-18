@@ -6,6 +6,48 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: March 18th</title>
+			<link>https://store.steampowered.com/news/app/593110/view/4149575031735702628</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Mar 18, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Steam Families is now in beta, with updates and improvements to family sharing, parental controls, and child purchase requests.
+						<a href="https://store.steampowered.com/news/app/593110/view/4149575031735702628" rel="noopener noreferrer">
+							See all the details at the announcement blog post here
+						</a>
+						.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6051221522003500064" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: March 12th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4295943285926637032</link>
 			<content:encoded><![CDATA[<html>
@@ -232,44 +274,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295942652156706771" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: March 7th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4295942652156525356</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Mar 7, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed the on screen keyboard predictions misbehaving for Japanese, Chinese and Korean languages.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295942652156525356" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
