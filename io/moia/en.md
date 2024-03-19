@@ -30,14 +30,16 @@ Absolutely transparent
 
 You will find out the cost of your ride before booking. You can pay using the app.
 
-The new movement
+MOIA friend bonus
 
-We want to move all people forward.
+For friends of all kinds
 ----------
 
-We believe that it's better when six people share one MOIA instead of six people driving in six cars. Riding together connects: people with people and people with places. It strengthens the sense of community and makes our city more livable and loveable. Because more MOIA means fewer cars, noise, local emissions, parking fees and looking for parking spots. Ain‘t bad at all, this mobility revolution.
+With the **MOIA friend bonus**, both you and your friends get a **3 x 25% discount**\* as soon as they become active MOIA users. Maybe a good opportunity to grow your social circle? How about inviting your friendly neighbor, the favorite coworker, or even your mom's friend? You’ve probably already got more potential friends popping into your mind. Because sharing is what friends are for.
 
-Let‘s ride the change. The more people join in, the better it gets.
+The MOIA friend bonus, a 3 x 25% discount\* for the both of you.
+
+[Learn more](https://www.moia.io/en/friend-bonus)
 
 How MOIA works
 ----------
@@ -165,3 +167,5 @@ Frequently asked questions
 [What is Smart Saver?](https://help.moia.io/hc/en-us/articles/4418377901073-Smart-Saver-for-Thrifty-Travellers-)
 
 [Find out more](https://help.moia.io/hc/en-us)
+
+\* Friend bonus coupons are valid for 90 days. For a referral to be considered successful and the coupons to be activated, the recipient must register in the MOIA app, enter the invitation code within seven days and then book the first ride within 90 days. You can find our general coupon conditions [here](http://www.moia.io/en/voucher_conditions).
