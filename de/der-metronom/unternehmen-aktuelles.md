@@ -15,13 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[unverändert gültig: metronom streikt nicht](https://www.der-metronom.de/aktuell/kein-streik-bei-metronom/)
-
- Uelzen - 11.03.2024
-
-Liebe Fahrgäste,
-trotz der Streikwellen der...
-
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
  Uelzen - 25.01.2024
