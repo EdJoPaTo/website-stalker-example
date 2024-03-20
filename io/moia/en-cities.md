@@ -191,15 +191,6 @@ Save on every ride for 30 days.
 
 [](https://www.moia.io/en/smart-saver)
 
-Because every move counts
-
-Make a difference with MOIA Move
-----------
-
-For the environment, your city and everyone who shares it with you: Together we can make a difference! Become part of MOIA Move now, fulfil new missions and look forward to special rewards.
-
-[Learn more](https://www.moia.io/en/moia-move)
-
 Load the app. And book your first ride.
 ----------
 
@@ -207,7 +198,7 @@ App Store
 
  hat 4.8
 
-74k+ ratings
+75k+ ratings
 
 [](https://itunes.apple.com/de/app/moia/id1373271535?mt=8/)
 
@@ -215,7 +206,7 @@ Google Play
 
  hat 4.8
 
-32k+ ratings
+33k+ ratings
 
 [](https://play.google.com/store/apps/details?id=io.moia.neptune)
 
