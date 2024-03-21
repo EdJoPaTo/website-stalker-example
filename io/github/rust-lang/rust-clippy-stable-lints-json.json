@@ -119,7 +119,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does.\nThis lint warns when you use `Arc` with a type that does not implement `Send` or `Sync`.\n\n### Why is this bad?\n`Arc<T>` is an Atomic `RC<T>` and guarantees that updates to the reference counter are\nAtomic. This is useful in multiprocessing scenarios. To send an `Arc<T>` across processes\nand make use of the atomic ref counter, `T` must be [both `Send` and `Sync`](https://doc.rust-lang.org/std/sync/struct.Arc.html#impl-Send-for-Arc%3CT%3E),\neither `T` should be made `Send + Sync` or an `Rc` should be used instead of an `Arc`\n\n### Example\n```rust\n\nfn main() {\n    // This is fine, as `i32` implements `Send` and `Sync`.\n    let a = Arc::new(42);\n\n    // `RefCell` is `!Sync`, so either the `Arc` should be replaced with an `Rc`\n    // or the `RefCell` replaced with something like a `RwLock`\n    let b = Arc::new(RefCell::new(42));\n}\n```",
+		"docs": "\n### What it does.\nThis lint warns when you use `Arc` with a type that does not implement `Send` or `Sync`.\n\n### Why is this bad?\n`Arc<T>` is a thread-safe `Rc<T>` and guarantees that updates to the reference counter\nuse atomic operations. To send an `Arc<T>` across thread boundaries and\nshare ownership between multiple threads, `T` must be [both `Send` and `Sync`](https://doc.rust-lang.org/std/sync/struct.Arc.html#thread-safety),\nso either `T` should be made `Send + Sync` or an `Rc` should be used instead of an `Arc`\n\n### Example\n```rust\n\nfn main() {\n    // This is fine, as `i32` implements `Send` and `Sync`.\n    let a = Arc::new(42);\n\n    // `RefCell` is `!Sync`, so either the `Arc` should be replaced with an `Rc`\n    // or the `RefCell` replaced with something like a `RwLock`\n    let b = Arc::new(RefCell::new(42));\n}\n```",
 		"group": "suspicious",
 		"id": "arc_with_non_send_sync",
 		"id_span": {
@@ -1436,7 +1436,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for the presence of `_`, `::` or camel-case words\noutside ticks in documentation.\n\n### Why is this bad?\n*Rustdoc* supports markdown formatting, `_`, `::` and\ncamel-case probably indicates some code which should be included between\nticks. `_` can also be used for emphasis in markdown, this lint tries to\nconsider that.\n\n### Known problems\nLots of bad docs won’t be fixed, what the lint checks\nfor is limited, and there are still false positives. HTML elements and their\ncontent are not linted.\n\nIn addition, when writing documentation comments, including `[]` brackets\ninside a link text would trip the parser. Therefore, documenting link with\n`[`SmallVec<[T; INLINE_CAPACITY]>`]` and then [`SmallVec<[T; INLINE_CAPACITY]>`]: SmallVec\nwould fail.\n\n### Examples\n```rust\n/// Do something with the foo_bar parameter. See also\n/// that::other::module::foo.\n// ^ `foo_bar` and `that::other::module::foo` should be ticked.\nfn doit(foo_bar: usize) {}\n```\n\n```rust\n// Link text with `[]` brackets should be written as following:\n/// Consume the array and return the inner\n/// [`SmallVec<[T; INLINE_CAPACITY]>`][SmallVec].\n/// [SmallVec]: SmallVec\nfn main() {}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `doc-valid-idents`: The list of words this lint should not consider as identifiers needing ticks. The value\n   `\"..\"` can be used as part of the list to indicate, that the configured values should be appended to the\n   default configuration of Clippy. By default, any configuration will replace the default value. For example:\n   * `doc-valid-idents = [\"ClipPy\"]` would replace the default list with `[\"ClipPy\"]`.\n   * `doc-valid-idents = [\"ClipPy\", \"..\"]` would append `ClipPy` to the default list. (default: `[\"KiB\", \"MiB\", \"GiB\", \"TiB\", \"PiB\", \"EiB\", \"DirectX\", \"ECMAScript\", \"GPLv2\", \"GPLv3\", \"GitHub\", \"GitLab\", \"IPv4\", \"IPv6\", \"ClojureScript\", \"CoffeeScript\", \"JavaScript\", \"PureScript\", \"TypeScript\", \"WebAssembly\", \"NaN\", \"NaNs\", \"OAuth\", \"GraphQL\", \"OCaml\", \"OpenGL\", \"OpenMP\", \"OpenSSH\", \"OpenSSL\", \"OpenStreetMap\", \"OpenDNS\", \"WebGL\", \"TensorFlow\", \"TrueType\", \"iOS\", \"macOS\", \"FreeBSD\", \"TeX\", \"LaTeX\", \"BibTeX\", \"BibLaTeX\", \"MinGW\", \"CamelCase\"]`)",
+		"docs": "\n### What it does\nChecks for the presence of `_`, `::` or camel-case words\noutside ticks in documentation.\n\n### Why is this bad?\n*Rustdoc* supports markdown formatting, `_`, `::` and\ncamel-case probably indicates some code which should be included between\nticks. `_` can also be used for emphasis in markdown, this lint tries to\nconsider that.\n\n### Known problems\nLots of bad docs won’t be fixed, what the lint checks\nfor is limited, and there are still false positives. HTML elements and their\ncontent are not linted.\n\nIn addition, when writing documentation comments, including `[]` brackets\ninside a link text would trip the parser. Therefore, documenting link with\n`[`SmallVec<[T; INLINE_CAPACITY]>`]` and then [`SmallVec<[T; INLINE_CAPACITY]>`]: SmallVec\nwould fail.\n\n### Examples\n```rust\n/// Do something with the foo_bar parameter. See also\n/// that::other::module::foo.\n// ^ `foo_bar` and `that::other::module::foo` should be ticked.\nfn doit(foo_bar: usize) {}\n```\n\n```rust\n// Link text with `[]` brackets should be written as following:\n/// Consume the array and return the inner\n/// [`SmallVec<[T; INLINE_CAPACITY]>`][SmallVec].\n/// [SmallVec]: SmallVec\nfn main() {}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `doc-valid-idents`: The list of words this lint should not consider as identifiers needing ticks. The value\n   `\"..\"` can be used as part of the list to indicate, that the configured values should be appended to the\n   default configuration of Clippy. By default, any configuration will replace the default value. For example:\n   * `doc-valid-idents = [\"ClipPy\"]` would replace the default list with `[\"ClipPy\"]`.\n   * `doc-valid-idents = [\"ClipPy\", \"..\"]` would append `ClipPy` to the default list. (default: `[\"KiB\", \"MiB\", \"GiB\", \"TiB\", \"PiB\", \"EiB\", \"DirectX\", \"ECMAScript\", \"GPLv2\", \"GPLv3\", \"GitHub\", \"GitLab\", \"IPv4\", \"IPv6\", \"ClojureScript\", \"CoffeeScript\", \"JavaScript\", \"PureScript\", \"TypeScript\", \"WebAssembly\", \"NaN\", \"NaNs\", \"OAuth\", \"GraphQL\", \"OCaml\", \"OpenDNS\", \"OpenGL\", \"OpenMP\", \"OpenSSH\", \"OpenSSL\", \"OpenStreetMap\", \"OpenTelemetry\", \"WebGL\", \"WebGL2\", \"WebGPU\", \"TensorFlow\", \"TrueType\", \"iOS\", \"macOS\", \"FreeBSD\", \"TeX\", \"LaTeX\", \"BibTeX\", \"BibLaTeX\", \"MinGW\", \"CamelCase\"]`)",
 		"group": "pedantic",
 		"id": "doc_markdown",
 		"id_span": {
@@ -1573,6 +1573,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for integer validity checks, followed by a transmute that is (incorrectly) evaluated\neagerly (e.g. using `bool::then_some`).\n\n### Why is this bad?\nEager evaluation means that the `transmute` call is executed regardless of whether the condition is true or false.\nThis can introduce unsoundness and other subtle bugs.\n\n### Example\nConsider the following function which is meant to convert an unsigned integer to its enum equivalent via transmute.\n\n```rust\n#[repr(u8)]\nenum Opcode {\n    Add = 0,\n    Sub = 1,\n    Mul = 2,\n    Div = 3\n}\n\nfn int_to_opcode(op: u8) -> Option<Opcode> {\n    (op < 4).then_some(unsafe { std::mem::transmute(op) })\n}\n```\nThis may appear fine at first given that it checks that the `u8` is within the validity range of the enum,\n*however* the transmute is evaluated eagerly, meaning that it executes even if `op >= 4`!\n\nThis makes the function unsound, because it is possible for the caller to cause undefined behavior\n(creating an enum with an invalid bitpattern) entirely in safe code only by passing an incorrect value,\nwhich is normally only a bug that is possible in unsafe code.\n\nOne possible way in which this can go wrong practically is that the compiler sees it as:\n```rust\nlet temp: Foo = unsafe { std::mem::transmute(op) };\n(0 < 4).then_some(temp)\n```\nand optimizes away the `(0 < 4)` check based on the assumption that since a `Foo` was created from `op` with the validity range `0..3`,\nit is **impossible** for this condition to be false.\n\nIn short, it is possible for this function to be optimized in a way that makes it [never return `None`](https://godbolt.org/z/ocrcenevq),\neven if passed the value `4`.\n\nThis can be avoided by instead using lazy evaluation. For the example above, this should be written:\n```rust\nfn int_to_opcode(op: u8) -> Option<Opcode> {\n    (op < 4).then(|| unsafe { std::mem::transmute(op) })\n             ^^^^ ^^ `bool::then` only executes the closure if the condition is true!\n}\n```",
+		"group": "correctness",
+		"id": "eager_transmute",
+		"id_span": {
+			"path": "src/transmute/mod.rs"
+		},
+		"level": "deny",
+		"version": "1.76.0"
+	},
+	{
+		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
@@ -1612,6 +1626,20 @@
 		},
 		"level": "allow",
 		"version": "pre 1.29.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nFinds enum variants without fields that are declared with empty brackets.\n\n### Why is this bad?\nEmpty brackets while defining enum variants are redundant and can be omitted.\n\n### Example\n```rust\nenum MyEnum {\n    HasData(u8),\n    HasNoData(), // redundant parentheses\n}\n```\n\nUse instead:\n```rust\nenum MyEnum {\n    HasData(u8),\n    HasNoData,\n}\n```",
+		"group": "restriction",
+		"id": "empty_enum_variants_with_brackets",
+		"id_span": {
+			"path": "src/empty_with_brackets.rs"
+		},
+		"level": "allow",
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -1664,7 +1692,7 @@
 		"group": "restriction",
 		"id": "empty_structs_with_brackets",
 		"id_span": {
-			"path": "src/empty_structs_with_brackets.rs"
+			"path": "src/empty_with_brackets.rs"
 		},
 		"level": "allow",
 		"version": "1.62.0"
@@ -1958,7 +1986,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for loops on `x.iter()` where `&x` will do, and\nsuggests the latter.\n\n### Why is this bad?\nReadability.\n\n### Known problems\nFalse negatives. We currently only warn on some known\ntypes.\n\n### Example\n```rust\n// with `y` a `Vec` or slice:\nfor x in y.iter() {\n    // ..\n}\n```\n\nUse instead:\n```rust\nfor x in &y {\n    // ..\n}\n```",
+		"docs": "\n### What it does\nChecks for loops on `x.iter()` where `&x` will do, and\nsuggests the latter.\n\n### Why is this bad?\nReadability.\n\n### Known problems\nFalse negatives. We currently only warn on some known\ntypes.\n\n### Example\n```rust\n// with `y` a `Vec` or slice:\nfor x in y.iter() {\n    // ..\n}\n```\n\nUse instead:\n```rust\nfor x in &y {\n    // ..\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `enforce-iter-loop-reborrow`: Whether to recommend using implicit into iter for reborrowed values.\n\n   #### Example\n```rust\n   let mut vec = vec![1, 2, 3];\n   let rmvec = &mut vec;\n   for _ in rmvec.iter() {}\n   for _ in rmvec.iter_mut() {}\n   ```\n\n   Use instead:\n```rust\n   let mut vec = vec![1, 2, 3];\n   let rmvec = &mut vec;\n   for _ in &*rmvec {}\n   for _ in &mut *rmvec {}\n   ``` (default: `false`)",
 		"group": "pedantic",
 		"id": "explicit_iter_loop",
 		"id_span": {
@@ -2476,7 +2504,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for usage of `x.get(0)` instead of\n`x.first()`.\n\n### Why is this bad?\nUsing `x.first()` is easier to read and has the same\nresult.\n\n### Example\n```rust\nlet x = vec![2, 3, 5];\nlet first_element = x.get(0);\n```\n\nUse instead:\n```rust\nlet x = vec![2, 3, 5];\nlet first_element = x.first();\n```",
+		"docs": "\n### What it does\nChecks for usage of `x.get(0)` instead of\n`x.first()` or `x.front()`.\n\n### Why is this bad?\nUsing `x.first()` for `Vec`s and slices or `x.front()`\nfor `VecDeque`s is easier to read and has the same result.\n\n### Example\n```rust\nlet x = vec![2, 3, 5];\nlet first_element = x.get(0);\n```\n\nUse instead:\n```rust\nlet x = vec![2, 3, 5];\nlet first_element = x.first();\n```",
 		"group": "style",
 		"id": "get_first",
 		"id_span": {
@@ -2854,7 +2882,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks if both `.write(true)` and `.append(true)` methods are called\non a same `OpenOptions`.\n\n### Why is this bad?\n`.append(true)` already enables `write(true)`, making this one\nsuperflous.\n\n### Example\n```rust\nlet _ = OpenOptions::new()\n           .write(true)\n           .append(true)\n           .create(true)\n           .open(\"file.json\");\n```\nUse instead:\n```rust\nlet _ = OpenOptions::new()\n           .append(true)\n           .create(true)\n           .open(\"file.json\");\n```",
+		"docs": "\n### What it does\nChecks if both `.write(true)` and `.append(true)` methods are called\non a same `OpenOptions`.\n\n### Why is this bad?\n`.append(true)` already enables `write(true)`, making this one\nsuperfluous.\n\n### Example\n```rust\nlet _ = OpenOptions::new()\n           .write(true)\n           .append(true)\n           .create(true)\n           .open(\"file.json\");\n```\nUse instead:\n```rust\nlet _ = OpenOptions::new()\n           .append(true)\n           .create(true)\n           .open(\"file.json\");\n```",
 		"group": "suspicious",
 		"id": "ineffective_open_options",
 		"id_span": {
@@ -3085,7 +3113,7 @@
 			"path": "src/iter_without_into_iter.rs"
 		},
 		"level": "allow",
-		"version": "1.74.0"
+		"version": "1.75.0"
 	},
 	{
 		"applicability": {
@@ -3215,6 +3243,34 @@
 		},
 		"level": "warn",
 		"version": "1.52.0"
+	},
+	{
+		"applicability": {
+			"applicability": "HasPlaceholders",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for usage of `.filter(Result::is_ok)` that may be replaced with a `.flatten()` call.\nThis lint will require additional changes to the follow-up calls as it appects the type.\n\n### Why is this bad?\nThis pattern is often followed by manual unwrapping of `Result`. The simplification\nresults in more readable and succinct code without the need for manual unwrapping.\n\n### Example\n```rust\n// example code where clippy issues a warning\nvec![Ok::<i32, String>(1)].into_iter().filter(Result::is_ok);\n\n```\nUse instead:\n```rust\n// example code which does not raise clippy warning\nvec![Ok::<i32, String>(1)].into_iter().flatten();\n```",
+		"group": "pedantic",
+		"id": "iter_filter_is_ok",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "allow",
+		"version": "1.76.0"
+	},
+	{
+		"applicability": {
+			"applicability": "HasPlaceholders",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for usage of `.filter(Option::is_some)` that may be replaced with a `.flatten()` call.\nThis lint will require additional changes to the follow-up calls as it appects the type.\n\n### Why is this bad?\nThis pattern is often followed by manual unwrapping of the `Option`. The simplification\nresults in more readable and succinct code without the need for manual unwrapping.\n\n### Example\n```rust\n// example code where clippy issues a warning\nvec![Some(1)].into_iter().filter(Option::is_some);\n\n```\nUse instead:\n```rust\n// example code which does not raise clippy warning\nvec![Some(1)].into_iter().flatten();\n```",
+		"group": "pedantic",
+		"id": "iter_filter_is_some",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "allow",
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -3424,7 +3480,7 @@
 			"path": "src/iter_without_into_iter.rs"
 		},
 		"level": "allow",
-		"version": "1.74.0"
+		"version": "1.75.0"
 	},
 	{
 		"applicability": {
@@ -3928,7 +3984,7 @@
 			"path": "src/manual_hash_one.rs"
 		},
 		"level": "warn",
-		"version": "1.74.0"
+		"version": "1.75.0"
 	},
 	{
 		"applicability": {
@@ -3985,6 +4041,20 @@
 		},
 		"level": "warn",
 		"version": "1.73.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\nChecks for usage of `option.map(f).unwrap_or_default()` and `result.map(f).unwrap_or_default()` where f is a function or closure that returns the `bool` type.\n\n### Why is this bad?\nReadability. These can be written more concisely as `option.is_some_and(f)` and `result.is_ok_and(f)`.\n\n### Example\n```rust\noption.map(|a| a > 10).unwrap_or_default();\nresult.map(|a| a > 10).unwrap_or_default();\n```\nUse instead:\n```rust\noption.is_some_and(|a| a > 10);\nresult.is_ok_and(|a| a > 10);\n```",
+		"group": "pedantic",
+		"id": "manual_is_variant_and",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "allow",
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -4811,7 +4881,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for imports that do not rename the item as specified\nin the `enforce-import-renames` config option.\n\nNote: Even though this lint is warn-by-default, it will only trigger if\nimport renames are defined in the clippy.toml file.\n\n### Why is this bad?\nConsistency is important, if a project has defined import\nrenames they should be followed. More practically, some item names are too\nvague outside of their defining scope this can enforce a more meaningful naming.\n\n### Example\nAn example clippy.toml configuration:\n```toml\n# clippy.toml\nenforced-import-renames = [ { path = \"serde_json::Value\", rename = \"JsonValue\" }]\n```\n\n```rust\nuse serde_json::Value;\n```\nUse instead:\n```rust\nuse serde_json::Value as JsonValue;\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `enforced-import-renames`: The list of imports to always rename, a fully qualified path followed by the rename. (default: `[]`)",
+		"docs": "\n### What it does\nChecks for imports that do not rename the item as specified\nin the `enforced-import-renames` config option.\n\nNote: Even though this lint is warn-by-default, it will only trigger if\nimport renames are defined in the `clippy.toml` file.\n\n### Why is this bad?\nConsistency is important; if a project has defined import renames, then they should be\nfollowed. More practically, some item names are too vague outside of their defining scope,\nin which case this can enforce a more meaningful naming.\n\n### Example\nAn example clippy.toml configuration:\n```toml\n# clippy.toml\nenforced-import-renames = [\n    { path = \"serde_json::Value\", rename = \"JsonValue\" },\n]\n```\n\n```rust\nuse serde_json::Value;\n```\nUse instead:\n```rust\nuse serde_json::Value as JsonValue;\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `enforced-import-renames`: The list of imports to always rename, a fully qualified path followed by the rename. (default: `[]`)",
 		"group": "style",
 		"id": "missing_enforced_import_renames",
 		"id_span": {
@@ -4825,7 +4895,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks the doc comments of publicly visible functions that\nreturn a `Result` type and warns if there is no `# Errors` section.\n\n### Why is this bad?\nDocumenting the type of errors that can be returned from a\nfunction can help callers write code to handle the errors appropriately.\n\n### Examples\nSince the following function returns a `Result` it has an `# Errors` section in\nits doc comment:\n\n```rust\n/// # Errors\n///\n/// Will return `Err` if `filename` does not exist or the user does not have\n/// permission to read it.\npub fn read(filename: String) -> io::Result<String> {\n    unimplemented!();\n}\n```",
+		"docs": "\n### What it does\nChecks the doc comments of publicly visible functions that\nreturn a `Result` type and warns if there is no `# Errors` section.\n\n### Why is this bad?\nDocumenting the type of errors that can be returned from a\nfunction can help callers write code to handle the errors appropriately.\n\n### Examples\nSince the following function returns a `Result` it has an `# Errors` section in\nits doc comment:\n\n```rust\n/// # Errors\n///\n/// Will return `Err` if `filename` does not exist or the user does not have\n/// permission to read it.\npub fn read(filename: String) -> io::Result<String> {\n    unimplemented!();\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`: Whether to also run the listed lints on private items. (default: `false`)",
 		"group": "pedantic",
 		"id": "missing_errors_doc",
 		"id_span": {
@@ -4867,7 +4937,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks the doc comments of publicly visible functions that\nmay panic and warns if there is no `# Panics` section.\n\n### Why is this bad?\nDocumenting the scenarios in which panicking occurs\ncan help callers who do not want to panic to avoid those situations.\n\n### Examples\nSince the following function may panic it has a `# Panics` section in\nits doc comment:\n\n```rust\n/// # Panics\n///\n/// Will panic if y is 0\npub fn divide_by(x: i32, y: i32) -> i32 {\n    if y == 0 {\n        panic!(\"Cannot divide by 0\")\n    } else {\n        x / y\n    }\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`:  (default: `false`)",
+		"docs": "\n### What it does\nChecks the doc comments of publicly visible functions that\nmay panic and warns if there is no `# Panics` section.\n\n### Why is this bad?\nDocumenting the scenarios in which panicking occurs\ncan help callers who do not want to panic to avoid those situations.\n\n### Examples\nSince the following function may panic it has a `# Panics` section in\nits doc comment:\n\n```rust\n/// # Panics\n///\n/// Will panic if y is 0\npub fn divide_by(x: i32, y: i32) -> i32 {\n    if y == 0 {\n        panic!(\"Cannot divide by 0\")\n    } else {\n        x / y\n    }\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`: Whether to also run the listed lints on private items. (default: `false`)",
 		"group": "pedantic",
 		"id": "missing_panics_doc",
 		"id_span": {
@@ -4881,7 +4951,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for the doc comments of publicly visible\nunsafe functions and warns if there is no `# Safety` section.\n\n### Why is this bad?\nUnsafe functions should document their safety\npreconditions, so that users can be sure they are using them safely.\n\n### Examples\n```rust\n/// This function should really be documented\npub unsafe fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\nAt least write a line about safety:\n\n```rust\n/// # Safety\n///\n/// This function should not be called before the horsemen are ready.\npub unsafe fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`:  (default: `false`)",
+		"docs": "\n### What it does\nChecks for the doc comments of publicly visible\nunsafe functions and warns if there is no `# Safety` section.\n\n### Why is this bad?\nUnsafe functions should document their safety\npreconditions, so that users can be sure they are using them safely.\n\n### Examples\n```rust\n/// This function should really be documented\npub unsafe fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\nAt least write a line about safety:\n\n```rust\n/// # Safety\n///\n/// This function should not be called before the horsemen are ready.\npub unsafe fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`: Whether to also run the listed lints on private items. (default: `false`)",
 		"group": "style",
 		"id": "missing_safety_doc",
 		"id_span": {
@@ -5055,7 +5125,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks to see if multiple versions of a crate are being\nused.\n\n### Why is this bad?\nThis bloats the size of targets, and can lead to\nconfusing error messages when structs or traits are used interchangeably\nbetween different versions of a crate.\n\n### Known problems\nBecause this can be caused purely by the dependencies\nthemselves, it's not always possible to fix this issue.\n\n### Example\n```toml\n# This will pull in both winapi v0.3.x and v0.2.x, triggering a warning.\n[dependencies]\nctrlc = \"=3.1.0\"\nansi_term = \"=0.11.0\"\n```",
+		"docs": "\n### What it does\nChecks to see if multiple versions of a crate are being\nused.\n\n### Why is this bad?\nThis bloats the size of targets, and can lead to\nconfusing error messages when structs or traits are used interchangeably\nbetween different versions of a crate.\n\n### Known problems\nBecause this can be caused purely by the dependencies\nthemselves, it's not always possible to fix this issue.\nIn those cases, you can allow that specific crate using\nthe `allowed_duplicate_crates` configuration option.\n\n### Example\n```toml\n# This will pull in both winapi v0.3.x and v0.2.x, triggering a warning.\n[dependencies]\nctrlc = \"=3.1.0\"\nansi_term = \"=0.11.0\"\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `allowed-duplicate-crates`: A list of crate names to allow duplicates of (default: `[]`)",
 		"group": "cargo",
 		"id": "multiple_crate_versions",
 		"id_span": {
@@ -6019,6 +6089,20 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
+		"docs": "\n### What it does\nChecks for usage of `.as_ref().cloned()` and `.as_mut().cloned()` on `Option`s\n\n### Why is this bad?\nThis can be written more concisely by cloning the `Option` directly.\n\n### Example\n```rust\nfn foo(bar: &Option<Vec<u8>>) -> Option<Vec<u8>> {\n    bar.as_ref().cloned()\n}\n```\nUse instead:\n```rust\nfn foo(bar: &Option<Vec<u8>>) -> Option<Vec<u8>> {\n    bar.clone()\n}\n```",
+		"group": "pedantic",
+		"id": "option_as_ref_cloned",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "allow",
+		"version": "1.77.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
 		"docs": "\n### What it does\nChecks for usage of `_.as_ref().map(Deref::deref)` or its aliases (such as String::as_str).\n\n### Why is this bad?\nReadability, this can be written more concisely as\n`_.as_deref()`.\n\n### Example\n```rust\nopt.as_ref().map(String::as_str)\n```\nCan be written as\n```rust\nopt.as_deref()\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "complexity",
 		"id": "option_as_ref_deref",
@@ -6047,7 +6131,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for indirect collection of populated `Option`\n\n### Why is this bad?\n`Option` is like a collection of 0-1 things, so `flatten`\nautomatically does this without suspicious-looking `unwrap` calls.\n\n### Example\n```rust\nlet _ = std::iter::empty::<Option<i32>>().filter(Option::is_some).map(Option::unwrap);\n```\nUse instead:\n```rust\nlet _ = std::iter::empty::<Option<i32>>().flatten();\n```",
+		"docs": "\n### What it does\nChecks for iterators of `Option`s using `.filter(Option::is_some).map(Option::unwrap)` that may\nbe replaced with a `.flatten()` call.\n\n### Why is this bad?\n`Option` is like a collection of 0-1 things, so `flatten`\nautomatically does this without suspicious-looking `unwrap` calls.\n\n### Example\n```rust\nlet _ = std::iter::empty::<Option<i32>>().filter(Option::is_some).map(Option::unwrap);\n```\nUse instead:\n```rust\nlet _ = std::iter::empty::<Option<i32>>().flatten();\n```",
 		"group": "complexity",
 		"id": "option_filter_map",
 		"id_span": {
@@ -6540,6 +6624,20 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
+		"docs": "\n### What it does\nChecks whether any field of the struct is prefixed with an `_` (underscore) and also marked\n`pub` (public)\n\n### Why is this bad?\nFields prefixed with an `_` are inferred as unused, which suggests it should not be marked\nas `pub`, because marking it as `pub` infers it will be used.\n\n### Example\n```rust\nstruct FileHandle {\n    pub _descriptor: usize,\n}\n```\nUse instead:\n```rust\nstruct FileHandle {\n    _descriptor: usize,\n}\n```\n\nOR\n\n```rust\nstruct FileHandle {\n    pub descriptor: usize,\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `pub-underscore-fields-behavior`: Lint \"public\" fields in a struct that are prefixed with an underscore based on their\n   exported visibility, or whether they are marked as \"pub\". (default: `\"PubliclyExported\"`)",
+		"group": "pedantic",
+		"id": "pub_underscore_fields",
+		"id_span": {
+			"path": "src/pub_underscore_fields.rs"
+		},
+		"level": "allow",
+		"version": "1.77.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
 		"docs": "\n### What it does\n\nRestricts the usage of `pub use ...`\n\n### Why is this bad?\n\n`pub use` is usually fine, but a project may wish to limit `pub use` instances to prevent\nunintentional exports or to encourage placing exported items directly in public modules\n\n### Example\n```rust\npub mod outer {\n    mod inner {\n        pub struct Test {}\n    }\n    pub use inner::Test;\n}\n\nuse outer::Test;\n```\nUse instead:\n```rust\npub mod outer {\n    pub struct Test {}\n}\n\nuse outer::Test;\n```",
 		"group": "restriction",
 		"id": "pub_use",
@@ -6977,7 +7075,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nLint for redundant pattern matching over `Result`, `Option`,\n`std::task::Poll` or `std::net::IpAddr`\n\n### Why is this bad?\nIt's more concise and clear to just use the proper\nutility function\n\n### Known problems\nThis will change the drop order for the matched type. Both `if let` and\n`while let` will drop the value at the end of the block, both `if` and `while` will drop the\nvalue before entering the block. For most types this change will not matter, but for a few\ntypes this will not be an acceptable change (e.g. locks). See the\n[reference](https://doc.rust-lang.org/reference/destructors.html#drop-scopes) for more about\ndrop order.\n\n### Example\n```rust\nif let Ok(_) = Ok::<i32, i32>(42) {}\nif let Err(_) = Err::<i32, i32>(42) {}\nif let None = None::<()> {}\nif let Some(_) = Some(42) {}\nif let Poll::Pending = Poll::Pending::<()> {}\nif let Poll::Ready(_) = Poll::Ready(42) {}\nif let IpAddr::V4(_) = IpAddr::V4(Ipv4Addr::LOCALHOST) {}\nif let IpAddr::V6(_) = IpAddr::V6(Ipv6Addr::LOCALHOST) {}\nmatch Ok::<i32, i32>(42) {\n    Ok(_) => true,\n    Err(_) => false,\n};\n```\n\nThe more idiomatic use would be:\n\n```rust\nif Ok::<i32, i32>(42).is_ok() {}\nif Err::<i32, i32>(42).is_err() {}\nif None::<()>.is_none() {}\nif Some(42).is_some() {}\nif Poll::Pending::<()>.is_pending() {}\nif Poll::Ready(42).is_ready() {}\nif IpAddr::V4(Ipv4Addr::LOCALHOST).is_ipv4() {}\nif IpAddr::V6(Ipv6Addr::LOCALHOST).is_ipv6() {}\nOk::<i32, i32>(42).is_ok();\n```",
+		"docs": "\n### What it does\nLint for redundant pattern matching over `Result`, `Option`,\n`std::task::Poll`, `std::net::IpAddr` or `bool`s\n\n### Why is this bad?\nIt's more concise and clear to just use the proper\nutility function or using the condition directly\n\n### Known problems\nFor suggestions involving bindings in patterns, this will change the drop order for the matched type.\nBoth `if let` and `while let` will drop the value at the end of the block, both `if` and `while` will drop the\nvalue before entering the block. For most types this change will not matter, but for a few\ntypes this will not be an acceptable change (e.g. locks). See the\n[reference](https://doc.rust-lang.org/reference/destructors.html#drop-scopes) for more about\ndrop order.\n\n### Example\n```rust\nif let Ok(_) = Ok::<i32, i32>(42) {}\nif let Err(_) = Err::<i32, i32>(42) {}\nif let None = None::<()> {}\nif let Some(_) = Some(42) {}\nif let Poll::Pending = Poll::Pending::<()> {}\nif let Poll::Ready(_) = Poll::Ready(42) {}\nif let IpAddr::V4(_) = IpAddr::V4(Ipv4Addr::LOCALHOST) {}\nif let IpAddr::V6(_) = IpAddr::V6(Ipv6Addr::LOCALHOST) {}\nmatch Ok::<i32, i32>(42) {\n    Ok(_) => true,\n    Err(_) => false,\n};\n\nlet cond = true;\nif let true = cond {}\nmatches!(cond, true);\n```\n\nThe more idiomatic use would be:\n\n```rust\nif Ok::<i32, i32>(42).is_ok() {}\nif Err::<i32, i32>(42).is_err() {}\nif None::<()>.is_none() {}\nif Some(42).is_some() {}\nif Poll::Pending::<()>.is_pending() {}\nif Poll::Ready(42).is_ready() {}\nif IpAddr::V4(Ipv4Addr::LOCALHOST).is_ipv4() {}\nif IpAddr::V6(Ipv6Addr::LOCALHOST).is_ipv6() {}\nOk::<i32, i32>(42).is_ok();\n\nlet cond = true;\nif cond {}\ncond;\n```",
 		"group": "style",
 		"id": "redundant_pattern_matching",
 		"id_span": {
@@ -7170,6 +7268,20 @@
 		},
 		"level": "allow",
 		"version": "1.43.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for iterators of `Result`s using `.filter(Result::is_ok).map(Result::unwrap)` that may\nbe replaced with a `.flatten()` call.\n\n### Why is this bad?\n`Result` implements `IntoIterator<Item = T>`. This means that `Result` can be flattened\nautomatically without suspicious-looking `unwrap` calls.\n\n### Example\n```rust\nlet _ = std::iter::empty::<Result<i32, ()>>().filter(Result::is_ok).map(Result::unwrap);\n```\nUse instead:\n```rust\nlet _ = std::iter::empty::<Result<i32, ()>>().flatten();\n```",
+		"group": "complexity",
+		"id": "result_filter_map",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -7442,7 +7554,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for mis-uses of the serde API.\n\n### Why is this bad?\nSerde is very finnicky about how its API should be\nused, but the type system can't be used to enforce it (yet?).\n\n### Example\nImplementing `Visitor::visit_string` but not\n`Visitor::visit_str`.",
+		"docs": "\n### What it does\nChecks for misuses of the serde API.\n\n### Why is this bad?\nSerde is very finnicky about how its API should be\nused, but the type system can't be used to enforce it (yet?).\n\n### Example\nImplementing `Visitor::visit_string` but not\n`Visitor::visit_str`.",
 		"group": "correctness",
 		"id": "serde_api_misuse",
 		"id_span": {
@@ -7820,6 +7932,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\n\nChecks for usages of `str.trim().split(\"\\n\")` and `str.trim().split(\"\\r\\n\")`.\n\n### Why is this bad?\n\nHard-coding the line endings makes the code less compatible. `str.lines` should be used instead.\n\n### Example\n```rust\n\"some\\ntext\\nwith\\nnewlines\\n\".trim().split('\\n');\n```\nUse instead:\n```rust\n\"some\\ntext\\nwith\\nnewlines\\n\".lines();\n```\n\n### Known Problems\n\nThis lint cannot detect if the split is intentionally restricted to a single type of newline (`\"\\n\"` or\n`\"\\r\\n\"`), for example during the parsing of a specific file format in which precisely one newline type is\nvalid.\n```rust",
+		"group": "pedantic",
+		"id": "str_split_at_newline",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "allow",
+		"version": "1.76.0"
+	},
+	{
+		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
@@ -8103,6 +8229,20 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
+		"docs": "\n### What it does\nChecks for the suspicious use of `OpenOptions::create()`\nwithout an explicit `OpenOptions::truncate()`.\n\n### Why is this bad?\n`create()` alone will either create a new file or open an\nexisting file. If the file already exists, it will be\noverwritten when written to, but the file will not be\ntruncated by default.\nIf less data is written to the file\nthan it already contains, the remainder of the file will\nremain unchanged, and the end of the file will contain old\ndata.\nIn most cases, one should either use `create_new` to ensure\nthe file is created from scratch, or ensure `truncate` is\ncalled so that the truncation behaviour is explicit. `truncate(true)`\nwill ensure the file is entirely overwritten with new data, whereas\n`truncate(false)` will explicitely keep the default behavior.\n\n### Example\n```rust\nuse std::fs::OpenOptions;\n\nOpenOptions::new().create(true);\n```\nUse instead:\n```rust\nuse std::fs::OpenOptions;\n\nOpenOptions::new().create(true).truncate(true);\n```",
+		"group": "suspicious",
+		"id": "suspicious_open_options",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.75.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
 		"docs": "\n### What it does\nChecks for unlikely usages of binary operators that are almost\ncertainly typos and/or copy/paste errors, given the other usages\nof binary operators nearby.\n\n### Why is this bad?\nThey are probably bugs and if they aren't then they look like bugs\nand you should add a comment explaining why you are doing such an\nodd set of operations.\n\n### Known problems\nThere may be some false positives if you are trying to do something\nunusual that happens to look like a typo.\n\n### Example\n```rust\nstruct Vec3 {\n    x: f64,\n    y: f64,\n    z: f64,\n}\n\nimpl Eq for Vec3 {}\n\nimpl PartialEq for Vec3 {\n    fn eq(&self, other: &Self) -> bool {\n        // This should trigger the lint because `self.x` is compared to `other.y`\n        self.x == other.y && self.y == other.y && self.z == other.z\n    }\n}\n```\nUse instead:\n```rust\n// same as above except:\nimpl PartialEq for Vec3 {\n    fn eq(&self, other: &Self) -> bool {\n        // Note we now compare other.x to self.x\n        self.x == other.x && self.y == other.y && self.z == other.z\n    }\n}\n```",
 		"group": "nursery",
 		"id": "suspicious_operation_groupings",
@@ -8237,6 +8377,20 @@
 		},
 		"level": "allow",
 		"version": "1.70.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nSuggests to use `const` in `thread_local!` macro if possible.\n### Why is this bad?\n\nThe `thread_local!` macro wraps static declarations and makes them thread-local.\nIt supports using a `const` keyword that may be used for declarations that can\nbe evaluated as a constant expression. This can enable a more efficient thread\nlocal implementation that can avoid lazy initialization. For types that do not\nneed to be dropped, this can enable an even more efficient implementation that\ndoes not need to track any additional state.\n\nhttps://doc.rust-lang.org/std/macro.thread_local.html\n\n### Example\n```rust\n// example code where clippy issues a warning\nthread_local! {\n    static BUF: String = String::new();\n}\n```\nUse instead:\n```rust\n// example code which does not raise clippy warning\nthread_local! {\n    static BUF: String = const { String::new() };\n}\n```",
+		"group": "perf",
+		"id": "thread_local_initializer_can_be_made_const",
+		"id_span": {
+			"path": "src/thread_local_initializer_can_be_made_const.rs"
+		},
+		"level": "warn",
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -8649,7 +8803,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nLints subtraction between an [`Instant`] and a [`Duration`].\n\n### Why is this bad?\nUnchecked subtraction could cause underflow on certain platforms, leading to\nunintentional panics.\n\n### Example\n```rust\nlet time_passed = Instant::now() - Duration::from_secs(5);\n```\n\nUse instead:\n```rust\nlet time_passed = Instant::now().checked_sub(Duration::from_secs(5));\n```\n\n[`Duration`]: std::time::Duration\n[`Instant::now()`]: std::time::Instant::now;\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
+		"docs": "\n### What it does\nLints subtraction between an `Instant` and a `Duration`.\n\n### Why is this bad?\nUnchecked subtraction could cause underflow on certain platforms, leading to\nunintentional panics.\n\n### Example\n```rust\nlet time_passed = Instant::now() - Duration::from_secs(5);\n```\n\nUse instead:\n```rust\nlet time_passed = Instant::now().checked_sub(Duration::from_secs(5));\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "pedantic",
 		"id": "unchecked_duration_subtraction",
 		"id_span": {
@@ -8657,6 +8811,20 @@
 		},
 		"level": "allow",
 		"version": "1.67.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks that there isn't an infinite recursion in `PartialEq` trait\nimplementation.\n\n### Why is this bad?\nThis is a hard to find infinite recursion which will crashing any code\nusing it.\n\n### Example\n```rust\nenum Foo {\n    A,\n    B,\n}\n\nimpl PartialEq for Foo {\n    fn eq(&self, other: &Self) -> bool {\n        self == other // bad!\n    }\n}\n```\nUse instead:\n\nIn such cases, either use `#[derive(PartialEq)]` or don't implement it.",
+		"group": "suspicious",
+		"id": "unconditional_recursion",
+		"id_span": {
+			"path": "src/unconditional_recursion.rs"
+		},
+		"level": "warn",
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -8706,12 +8874,12 @@
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nIt detects references to uninhabited types, such as `!` and\nwarns when those are either dereferenced or returned from a function.\n\n### Why is this bad?\nDereferencing a reference to an uninhabited type would create\nan instance of such a type, which cannot exist. This constitutes\nundefined behaviour. Such a reference could have been created\nby `unsafe` code.\n\n### Example\nThe following function can return a reference to an uninhabited type\n(`Infallible`) because it uses `unsafe` code to create it. However,\nthe user of such a function could dereference the return value and\ntrigger an undefined behavior from safe code.\n\n```rust\nfn create_ref() -> &'static std::convert::Infallible {\n    unsafe { std::mem::transmute(&()) }\n}\n```",
-		"group": "suspicious",
+		"group": "nursery",
 		"id": "uninhabited_references",
 		"id_span": {
 			"path": "src/uninhabited_references.rs"
 		},
-		"level": "warn",
+		"level": "allow",
 		"version": "1.76.0"
 	},
 	{
@@ -9013,7 +9181,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for the doc comments of publicly visible\nsafe functions and traits and warns if there is a `# Safety` section.\n\n### Why is this bad?\nSafe functions and traits are safe to implement and therefore do not\nneed to describe safety preconditions that users are required to uphold.\n\n### Examples\n```rust\n/// # Safety\n///\n/// This function should not be called before the horsemen are ready.\npub fn start_apocalypse_but_safely(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\nThe function is safe, so there shouldn't be any preconditions\nthat have to be explained for safety reasons.\n\n```rust\n/// This function should really be documented\npub fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`:  (default: `false`)",
+		"docs": "\n### What it does\nChecks for the doc comments of publicly visible\nsafe functions and traits and warns if there is a `# Safety` section.\n\n### Why is this bad?\nSafe functions and traits are safe to implement and therefore do not\nneed to describe safety preconditions that users are required to uphold.\n\n### Examples\n```rust\n/// # Safety\n///\n/// This function should not be called before the horsemen are ready.\npub fn start_apocalypse_but_safely(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\nThe function is safe, so there shouldn't be any preconditions\nthat have to be explained for safety reasons.\n\n```rust\n/// This function should really be documented\npub fn start_apocalypse(u: &mut Universe) {\n    unimplemented!();\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `check-private-items`: Whether to also run the listed lints on private items. (default: `false`)",
 		"group": "restriction",
 		"id": "unnecessary_safety_doc",
 		"id_span": {
