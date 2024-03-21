@@ -13,7 +13,7 @@ Core Apps
 GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-installed on your GNOME system.
 
 * [**Calculator**Perform arithmetic, scientific or financial calculations](Calculator/)
-* [**Calendar**Calendar for GNOME](Calendar/)
+* [**Calendar**Manage your schedule](Calendar/)
 * [**Camera**Take pictures and videos](Snapshot/)
 * [**Characters**Character map application](Characters/)
 * [**Clocks**Keep track of time](Clocks/)
@@ -79,7 +79,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Impression**Create bootable drives](Impression/)
 * [**Junction**Application chooser](Junction/)
 * [**Khronos**Log the time it took to do tasks](Khronos/)
-* [**Komikku**Read your favorite manga](Komikku/)
+* [**Komikku**Discover and read manga, webtoons, comics, and more](Komikku/)
 * [**Letterpress**Create beautiful ASCII art](Letterpress/)
 * [**Lorem**Generate placeholder text](Lorem/)
 * [**Metadata Cleaner**View and clean metadata in files](MetadataCleaner/)
@@ -104,7 +104,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Warp**Fast and secure file transfer](Warp/)
 * [**Webfont Kit Generator**Create @font-face kits easily](WebfontKitGenerator/)
 * [**Wike**Search and read Wikipedia articles](Wike/)
-* [**Workbench**Learn and prototype with GNOME technologies](Workbench/)
+* [**Workbench**Prototype with GNOME technologies](Workbench/)
 
 Development Tools
 ----------
