@@ -100,7 +100,7 @@ Schutz & Komfort für jeden Einsatz!
 
 [mehr Details](https://www.engelbert-strauss.de/s/suche?query=work%26travel)
 
- Perfekt für Ostern
+ Last Minute Ostergeschenk!
 ==========
 
 ---
@@ -110,12 +110,10 @@ Schutz & Komfort für jeden Einsatz!
 
 ---
 
- Verschenke Freude mit einem Strauss Gutschein
+ Für alle kurzentschlossenen!
 ==========
 
 ---
-
-[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs24)
 
 [Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
 
