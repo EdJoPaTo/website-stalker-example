@@ -22,9 +22,6 @@ jobs:
 
       - uses: actions/checkout@v4
 
-      - name: Check website-stalker config
-        run: website-stalker check
-
       - name: Run website-stalker
         id: website-stalker
         run: website-stalker run --all --commit
