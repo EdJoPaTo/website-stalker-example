@@ -15,6 +15,12 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Wir bleiben … transparent: Baumaßnahmen erfordern einen Personalmehrbedarf, der nicht abdeckt werden kann und somit zu Fahrtausfällen führen kann](https://www.der-metronom.de/aktuell/wir-bleiben-...-transparent-baumassnahmen-erfordern-einen-personalmehrbedarf-der-nicht-abdeckt-werden-kann-und-somit-zu-fahrtausfaellen-fuehren-kann)
+
+ Uelzen - 21.03.2024
+
+Uelzen, 21. März 2024. In den kommenden zwei Wochen wird es aufgrund besonderer Umstände wie Bauarbeiten, Urlaubszeit und einem leicht erhöhten Krankenstand zu Einschränkungen in unserem Fahrplan kommen. Wir ergreifen bereits Maßnahmen, um die Auswirkungen so gering wie möglich zu halten....
+
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
  Uelzen - 25.01.2024
