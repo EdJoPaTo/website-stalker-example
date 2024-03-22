@@ -53,6 +53,10 @@
 					</li>
 					<li>
 						Added Dualsense and Dualshock Gyro Enable/Disable/Toggle "center touch" and "center click" for completeness/to help with certain Paddle Mods.
+						<br>
+					</li>
+					<li>
+						Fix for Quick Settings "Enable Grip" Toggle.
 					</li>
 				</ul>
 				<br>
