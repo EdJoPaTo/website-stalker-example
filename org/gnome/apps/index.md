@@ -98,7 +98,6 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Solanum**Balance working time and break time](Solanum/)
 * [**Switcheroo**Convert and manipulate images](Converter/)
 * [**Tangram**Browser for your pinned tabs](Tangram/)
-* [**Telegraph**Write and decode morse](Telegraph/)
 * [**Text Pieces**Transform text without using random websites](Textpieces/)
 * [**Video Trimmer**Trim videos quickly](VideoTrimmer/)
 * [**Warp**Fast and secure file transfer](Warp/)
