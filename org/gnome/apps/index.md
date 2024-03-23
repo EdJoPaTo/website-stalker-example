@@ -112,7 +112,7 @@ GNOME Development tools help develop and design new apps and make it easy to con
 
 * [**Boxes**Virtualization made simple](Boxes/)
 * [**Builder**An IDE for GNOME](Builder/)
-* [**D-Spy**A D-Bus explorer for GNOME](Dspy/)
+* [**D-Spy**Analyze D-Bus connections](Dspy/)
 * [**Dconf Editor**A graphical tool for editing the dconf database](DconfEditor/)
 * [**Devhelp**A developer tool for browsing and searching API documentation](Devhelp/)
 * [**Sysprof**Profile an application or entire system](Sysprof/)
