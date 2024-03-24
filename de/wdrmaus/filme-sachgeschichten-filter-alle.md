@@ -299,6 +299,7 @@
 * [Feuerwerksrakete](https://www.wdrmaus.de/filme/sachgeschichten/feuerwerksrakete.php5)
 * [Filtertüte](https://www.wdrmaus.de/filme/sachgeschichten/filtertuete.php5)
 * [Fingerabdruck](https://www.wdrmaus.de/filme/sachgeschichten/fingerabdruck.php5)
+* [Fische hören](https://www.wdrmaus.de/filme/sachgeschichten/fische_hoeren.php5)
 * [Fische zählen](https://www.wdrmaus.de/filme/sachgeschichten/fische_zaehlen.php5)
 * [Fischernetz](https://www.wdrmaus.de/filme/sachgeschichten/fischernetz.php5)
 * [Fischstäbchen](https://www.wdrmaus.de/filme/sachgeschichten/fischstaebchen.php5)
