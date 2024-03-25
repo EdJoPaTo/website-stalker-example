@@ -30,6 +30,8 @@ RE2 Hannover - Northeim - Göttingen
 
 [08.04.2024 - 15.04.2024 RE2/RE3 nächtlicher Ersatzverkehr mit Bussen und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtlicher-ersatzverkehr-mit-bussen-und-fahrzeitenaenderungen/)
 
+[20.04.2024 - 28.04.2024 RE2/RE3: Teilausfälle in den Nächsten](https://www.der-metronom.de/baustellen/re2-re3-teilausfaelle-in-den-naechsten/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [15.03.2024 - 28.03.2024 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie Haltausfälle Ashausen, Bardowick und Radbruch](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-haltausfaelle-ashausen-bardowick-und-radbruch/)
@@ -42,6 +44,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [14.04.2024 - 18.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
 
+[19.04.2024 - 22.04.2024 RB31: nächtliche Zugausfälle des ME81642](https://www.der-metronom.de/baustellen/rb31-naechtliche-zugausfaelle-des-me81642/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [15.03.2024 - 29.03.2024 RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
@@ -49,6 +53,8 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 [08.04.2024 - 09.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 [14.04.2024 - 18.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
+
+[20.04.2024 - 21.04.2024 RB41: nächtliche Ausfälle zwischen Rotenburg - Sottrum](https://www.der-metronom.de/baustellen/rb41-naechtliche-ausfaelle-zwischen-rotenburg-sottrum/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
