@@ -1,7 +1,5 @@
 ### [Nexode RG 65W GaN Charger (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
 
- Previous page Next page Previous page Next page Previous page Next page
-
 ### [Nexode RG 65W GaN Charger (Black)](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
 
 ### [Nexode Pro 160W 4-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) ###
