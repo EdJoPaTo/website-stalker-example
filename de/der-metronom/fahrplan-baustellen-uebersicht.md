@@ -46,6 +46,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [19.04.2024 - 22.04.2024 RB31: nächtliche Zugausfälle des ME81642](https://www.der-metronom.de/baustellen/rb31-naechtliche-zugausfaelle-des-me81642/)
 
+[23.04.2024 - 24.04.2024 RB31: nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-2/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [15.03.2024 - 29.03.2024 RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
