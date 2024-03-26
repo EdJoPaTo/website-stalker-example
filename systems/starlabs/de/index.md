@@ -36,13 +36,13 @@ Browse our range
 
 [StarBook 14-inch Laptop](/products/starbook)
 
-[](/products/starfighter)
-
-[StarFighter 16-inch Laptop](/products/starfighter)
-
 [](/products/byte)
 
 [Byte Mini PC](/products/byte)
+
+[](/products/starfighter)
+
+[StarFighter 16-inch Laptop](/products/starfighter)
 
 More than just a licence.
 
