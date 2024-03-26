@@ -152,7 +152,7 @@ Crystal clarity. Touch precision.
 
  Experience 3k resolution brought to life with intuitive touch controls. Designed for seamless interactions and stunning visuals.
 
-2880x1920
+2160x1440
 
 resolution
 

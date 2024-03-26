@@ -8,7 +8,7 @@ Chassis
  Display
 
  12.5-inch (diagonal) LED-backlit 10-point touch display with IPS technology
- 2880x1920 resolution at 276 pixels
+ 2160x1440 resolution at 208 pixels
 per inch
  3:2 aspect ratio
 
