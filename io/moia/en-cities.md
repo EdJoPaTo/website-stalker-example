@@ -44,10 +44,10 @@ Hamburg
 
 Our shuttle service will drive you across Hamburg - from Altona to Bramfeld and from Fuhlsbüttel to the Hafencity.
 
-This is new for you now:
+What to expect in Hamburg:
 ----------
 
-[### Our service area is growing ### By a whole 70 km2! With the leap across the Elbe, we now also drive to Wilhelmsburg. Billbrook/Billstedt, Osdorf/Lurup and Rahlstedt have also been extended.](https://www.moia.io/en/cities#service-area-hh)
+[### Our service area ### From Lurup to Jenfeld or from Wilhelmsburg to Wellingsbüttel - we serve around two-thirds of Hamburg's residential area and are available to around 1.3 million people.](https://www.moia.io/en/cities#service-area-hh)
 
 [### Funded areas are discounted ### The areas Osdorf/Lurup, Billbrook/Billstedt/Jenfeld and Wilhelmsburg are partially funded by the state. You get a 1€ discount on journeys to and from these areas.](https://help.moia.io/hc/en-us/articles/360000988738)
 
