@@ -6,6 +6,70 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: March 27th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4361246746316540036</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Mar 27, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Reduced network traffic at startup and reconnect
+						<br>
+					</li>
+					<li>
+						Fixed support alert messages intermittently producing an error at startup.
+						<br>
+					</li>
+					<li>
+						Fixed sometimes not being able to access the Steam Family Management profile page.
+						<br>
+					</li>
+					<li>
+						Fixed a case where the SD card library would not be detected if added via Desktop Mode.
+						<br>
+					</li>
+					<li>
+						Fixed some applications not appearing in library when shared by a family member.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed regression causing Steam News button to not work
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4361246746316540036" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: March 22nd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4298195945332897750</link>
 			<content:encoded><![CDATA[<html>
@@ -243,68 +307,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295943164870840362" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: March 8th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4295942652159636416</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Mar 8, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Made taking screenshots more responsive.
-						<br>
-					</li>
-					<li>
-						Modified CSS classnames to reduce package size and reduce feature leaks
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						If a game failed to update, show why on the details page as well as the downloads page.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						New: "Reset to Horizon" action (found in "Mouse" action tab):  This helper can reset your camera to the horizon by sending 180 degrees down, and then 90 degrees up after a very short delay. This action can be bound to any activator slot. It is complementary to Gyro to Mouse mode, and re-uses the "Dots Per 360" value - if this value calibrated correctly for in game angles, then the "Reset to Horizon" action should snap your view to the horizon. For games which do not allow the camera to rotate all the way to the ground (e.g. Helldivers 2) there is a tunable "Horizon Reset Angle". The Delay is also tunable - increase the value if you end up looking at the floor or ceiling.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295942652159636416" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
