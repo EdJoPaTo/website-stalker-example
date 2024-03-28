@@ -80,7 +80,7 @@ Office Doggo
 Meet the cute woofs and wiggles of our colleagues.
 
 We are a
-community of 61 nationalities
+community of 60 nationalities
 
 Gender Split
 
@@ -88,11 +88,11 @@ Gender Split
 
  32% Female
 
-343 Employees
+368 Employees
 
- 239 Hamburg
+ 249 Hamburg
 
- 104 Berlin
+ 119 Berlin
 
 Average Age
 
