@@ -1,3 +1,11 @@
+### [UGREEN Nexode 30W USB C Ladegerät With GaN II Tech](https://eu.ugreen.com/products/ugreen-nexode-30w-usb-c-ladegerat-mini-usb-c-netzteil-gan-ii-tech-adapter-kompatibel-mit-macbook-air-iphone-14-pro-max-14-plus-13-12-galaxy-s22-s21-fe-ipad-pro-tab-s8-a8-pixel-7-airpods) ###
+
+Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A, 20V/1.5A, 5V/2.4A, 5V/2A, 5V/1A; 30W Max. PPS adaptive Ladung Schnellladen-Protokoll PD3.0, PPS, QC4+/4.0/3.0, SCP(10V2.25A), FCP, AFC, 5V2.4A, BC1.2 Multi-Schutz Thermal...
+
+### [UGREEN 30W USB C Ladegerät GaN II Tech Schnellladegerät](https://eu.ugreen.com/products/ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat) ###
+
+ Previous page Next page Previous page Next page Previous page Next page
+
 ### [Nexode RG 65W GaN Charger (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
 
 ### [Nexode RG 65W GaN Charger (Black)](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
@@ -29,9 +37,3 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
 ### [Ugreen 100W GaN Mini MagSafe Power Station with 15W Wireless MagSafe Charger](https://eu.ugreen.com/products/ugreen-100w-gan-mini-magsafe-power-station) ###
 
 Previous page Next page Previous page Next page Previous page Next page 1 4-Port Ausgang 2 3-Port Ausgang 3 2-Port Ausgang 4 1-Port Ausgang Eingang 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A,...
-
-### [Ugreen Nexode 300W GaN Wall USB-C Charger 5 Ports](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) ###
-
-### [UGREEN DigiNest Pro 100 W USB C Power Strip GaN USB C Charger](https://eu.ugreen.com/products/ugreen-diginest-pro-100-w-usb-c-power-strip-gan-usb-c-charger) ###
-
-Specifications and Compatibility USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A PPS adaptive Ladung 100W Max USB-C3 output 5V/3A, 9V/2,5A, 12V/1,88A; PPS adaptive Ladung 22,5W Max USB A output 4.5V/5A, 5V/4.5A,...
