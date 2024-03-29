@@ -28,7 +28,7 @@ design
 
 12.5-inch
 
-3k
+2k
 
 touch display
 
@@ -150,7 +150,7 @@ Magnetic keyboard sold separately.
 
 Crystal clarity. Touch precision.
 
- Experience 3k resolution brought to life with intuitive touch controls. Designed for seamless interactions and stunning visuals.
+ Experience 2k resolution brought to life with intuitive touch controls. Designed for seamless interactions and stunning visuals.
 
 2160x1440
 
