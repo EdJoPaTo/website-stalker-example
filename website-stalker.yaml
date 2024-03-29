@@ -72,6 +72,10 @@ sites:
       - css_select: main
       - css_remove: img
       - html_markdownify
+  - url: https://assets.raspberrypi.com/page-data/software/operating-systems/page-data.json
+    ignore_error: true
+    editors:
+      - json_prettify
 
   - url:
       - https://www.hifiberry.com/docs/
