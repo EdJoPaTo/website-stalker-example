@@ -6,6 +6,44 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: March 28th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4361246920742636858</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Mar 29, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed notifications intermittently being queued until a game is launched.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4361246920742636858" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: March 27th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4361246746316540036</link>
 			<content:encoded><![CDATA[<html>
@@ -243,70 +281,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295943285926637032" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: March 11th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4295943164870840362</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Mar 11, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a bug that prevented the framerate limiter from applying changes.
-						<br>
-					</li>
-					<li>
-						Fixed screenshots not including Steam user interface elements.
-						<br>
-					</li>
-					<li>
-						Added an option to Settings->In Game to hide Steam user interface elements from screenshots.
-						<br>
-					</li>
-					<li>
-						Fix an error when launching some games that was introduced in the previous beta
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed swapped A/B buttons when using Nintendo GameCube controllers
-						<br>
-					</li>
-					<li>
-						Reset Camera Horizon: Increase maximum delay to allow for a more consistent behavior on lower/less consistent frame-rates.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295943164870840362" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
