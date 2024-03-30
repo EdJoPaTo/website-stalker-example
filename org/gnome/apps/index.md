@@ -80,7 +80,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Impression**Create bootable drives](Impression/)
 * [**Junction**Application chooser](Junction/)
 * [**Khronos**Log the time it took to do tasks](Khronos/)
-* [**Komikku**Discover and read manga, webtoons, comics, and more](Komikku/)
+* [**Komikku**Discover and read manga & comics](Komikku/)
 * [**Letterpress**Create beautiful ASCII art](Letterpress/)
 * [**Lorem**Generate placeholder text](Lorem/)
 * [**Metadata Cleaner**View and clean metadata in files](MetadataCleaner/)
