@@ -38,9 +38,3 @@ Es entfallen weiter Fahrten auf den Linien RE3,...
  Uelzen - 08.01.2024
 
 Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
-
-[Update Barrierefreies Reisen: Erneuerung der Aufzüge in Rotenburg dauert an](https://www.der-metronom.de/aktuell/erneuerung-der-aufzuege-in-rotenburg-barrierefreies-reisen/)
-
- Uelzen - 21.08.2023
-
-Aufgrund eines Brandschadens in der...
