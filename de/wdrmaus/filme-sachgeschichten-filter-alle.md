@@ -151,6 +151,7 @@
 * [Brillen aus Wunderbohnen](https://www.wdrmaus.de/filme/sachgeschichten/Brillen_Wunderbohnen.php5)
 * [Brötchen](https://www.wdrmaus.de/filme/sachgeschichten/broetchen.php5)
 * [Brot backen](https://www.wdrmaus.de/filme/sachgeschichten/brot_backen.php5)
+* [Bruder Jakob](https://www.wdrmaus.de/filme/sachgeschichten/bruder_jakob.php5)
 * [Brücke schieben](https://www.wdrmaus.de/filme/sachgeschichten/bruecke_schieben.php5)
 * [Brücke verziehen](https://www.wdrmaus.de/filme/sachgeschichten/bruecke_verziehen.php5)
 * [Brücken](https://www.wdrmaus.de/filme/sachgeschichten/bruecken.php5)
