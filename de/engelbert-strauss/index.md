@@ -100,23 +100,6 @@ Schutz & Komfort für jeden Einsatz!
 
 [mehr Details](https://www.engelbert-strauss.de/s/suche?query=work%26travel)
 
- Last Minute Ostergeschenk!
-==========
-
----
-
- Gutscheine verschenken
-----------
-
----
-
- Für alle kurzentschlossenen!
-==========
-
----
-
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
-
 [jetzt selbst gestalten](https://www.engelbert-strauss.de/mymotion)
 
  Nach Kategorie shoppen
