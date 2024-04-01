@@ -6,25 +6,25 @@
 
 ]()
 
-[Steam Deck OLED New!](https://www.steamdeck.com/en/oled) [Steam Deck LCD](https://www.steamdeck.com/en/deck) [Dock](https://www.steamdeck.com/en/dock) [Software](https://www.steamdeck.com/en/software) [Deck Verified](https://www.steamdeck.com/en/verified) [Tech Specs](https://www.steamdeck.com/en/tech) [Buy Now](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
+[Steam Deck OLED](https://www.steamdeck.com/en/oled) [Steam Deck LCD](https://www.steamdeck.com/en/deck) [Dock](https://www.steamdeck.com/en/dock) [Software](https://www.steamdeck.com/en/software) [Deck Verified](https://www.steamdeck.com/en/verified) [Tech Specs](https://www.steamdeck.com/en/tech) [Buy Now](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
 []()
 
-OLED is here
+Your games, everywhere
 ==========
 
-### A high dynamic range screen, a longer-lasting battery, faster downloads, and much more ###
+### Powerful, portable PC gaming, designed for comfort and a console-like user experience ###
 
-### [Learn more](https://www.steamdeck.com/en/oled) ###
+### [Get yours](https://store.steampowered.com/steamdeck) ###
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 
-OLED is here
+Your games, everywhere
 ==========
 
-### A high dynamic range screen, a longer-lasting battery, faster downloads, and much more ###
+### Powerful, portable PC gaming, designed for comfort and a console-like user experience ###
 
-### [Learn more](https://www.steamdeck.com/en/oled) ###
+### [Get yours](https://www.steamdeck.com/en/oled) ###
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 
