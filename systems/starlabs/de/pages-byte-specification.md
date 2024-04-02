@@ -203,6 +203,6 @@ later
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-Estimated dispatch in 2 - 3 weeks
+Dispatch in 7 - 8 working days
 
 [Configure](/products/byte)
