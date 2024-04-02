@@ -28,15 +28,6 @@ Absolutely transparent
 
 You find out how much your journey will cost before you book. You can pay using the app.
 
-This is how we ride this Easter
-
-Hop to it, service hours are here
-----------
-
-The long Easter weekend offers plenty of time to do things in your city. Take your family to the Easter bonfire or turn Easter night into day with good friends. During the holidays, we are on the road at adjusted service hours.
-
-[View service hours](https://www.moia.io/en/cities#christmas)
-
 Our service area
 
 Hamburg
@@ -77,12 +68,6 @@ Thursday to Sunday
 Thu 5:00 am – Mon 1:00 am
 
 The discounted funding areas (marked in blue).
-
-This is how we ride this Easter
-
-During the Easter holidays, we are on the road at adjusted service hours.
-
-[Learn more](https://www.moia.io/en/cities#christmas)
 
 Our service area
 
@@ -137,41 +122,6 @@ Our electric shuttles not only offer emission-free local travel, but also a grea
 * Free Wi-Fi and USB ports
 * An air conditioner for hot days
 * Child seats and luggage rack
-
-This is how we ride this Easter
-----------
-
-**Hamburg**
-
-**28.03. to 01.04.**
-
-Thu 5:00 a.m. – Tue 1:00 a.m.
-
-(continuous service)
-
-**Hanover**
-
-****Thursday, 28.03****
-
-Thu 7:00 a.m. - Fri 2:00 a.m.
-
-​
-
-**Friday, 29.03**
-
-Fri 10:00 a.m. - Sat 2:00 a.m.
-
-**Saturday, 30.03.**
-
-Sat 10:00 a.m. - Sun 2:00 a.m.
-
-**Sunday, 31.03.**
-
-Sun 10:00 a.m. - Mon 2:00 a.m.
-
-****Monday, 01.04.****
-
-Mon 10:00 a.m. - Mon 10:00 p.m.
 
 How MOIA works
 ----------
