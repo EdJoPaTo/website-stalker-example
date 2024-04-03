@@ -163,11 +163,11 @@ Sascha Meyer 2 Images
 
 [](https://www.moia.io/news-center/downloads/sascha-meyer/Sascha%20Meyer/CEO%20MOIA_Sascha%20Meyer_im%20MOIA.jpg)
 
-Ridepooling As The Next Pillar of Public Transportation - A MOIA White Paper 1
+Autonomous ridepooling as the next pillar of public transportation 1 Document
 
-[Download all (.ZIP 25.07 MB)](https://www.moia.io/news-center/downloads/Ridepooling_as_the_next_pillar_of_public_transportation.pdf)
+[Download all (.ZIP 3.79 MB)](https://www.moia.io/news-center/downloads/MOIA_autonomous-ridepooling_white-paper_EN.pdf)
 
-Report on the results of the MOIA study
+Report on the results of the MOIA study 1 Document
 
 [Download all (.ZIP 1.78 MB)](https://www.moia.io/news-center/downloads/220201_MOIA_Report_Results_MOIA-study.pdf)
 
