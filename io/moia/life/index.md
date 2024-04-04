@@ -10,7 +10,7 @@ Who
 
 Hi!
 
- We are the MOIA Development Company, the tech company behind our mobility services. We are a collective of tech enthusiasts, industry specialists and designers. We design and build the digital products that make MOIA possible.
+ We are the tech company behind our ridepooling service. We're a colorful community of developers, product managers, designers, quality specialists, data scientists, marketing experts, and more, united by our mission to making our cities a better place to live in. Our goal is to turn autonomous vehicles into intelligent tools for safe, affordable and sustainable mobility in cities.
 
 [![Embedded YouTube video](https://img.youtube.com/vi/PWbApctlmpE/0.jpg)](https://www.youtube.com/watch?v=PWbApctlmpE)
 
