@@ -34,8 +34,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[29.03.2024 - 04.04.2024 RE3/RB31 nächtliche Haltausfälle Bardowick, Radbruch, Ashausen sowie Meckelfeld - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-bardowick-radbruch-ashausen-sowie-meckelfeld-ersatzverkehr-mit-bussen/)
-
 [08.04.2024 - 09.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg/)
 
 [11.04.2024 - 12.04.2024 RE3/RB31 nächtlicher Haltausfall in Ashausen für eine Verbindung](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall-in-ashausen-fuer-eine-verbindung/)
