@@ -99,7 +99,7 @@ Reach your destination in a more direct way.
 
 ###  MOIA Prebooking  ###
 
-Book trips up to 24 hours in advance.
+Book your trips in advance.
 
 [](https://www.moia.io/en/prebooking)
 
