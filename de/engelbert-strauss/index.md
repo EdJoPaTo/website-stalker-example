@@ -1,3 +1,28 @@
+WIN
+---
+
+ TICKETS FÜR ALLE SPIELE
+DER UEFA EURO 2024™
+---
+
+ EXKLUSIV IM NEWSLETTER
+
+ anmelden \> ab Mai Gewinnspiel-News erhalten \> mitmachen & gewinnen
+
+[zum Newsletter](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)
+
+Sportlich!
+
+----------
+
+---
+
+ Die neuen Leichtgewicht-Allrounder mit Drehverschluss
+
+[jetzt kaufen](https://www.engelbert-strauss.de/sonstige-berufsschuhe/allroundschuhe-e-s-toledo-low-1003330-86152-538.html?amp;itemorigin=Startseite)
+
+[alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
+
 Athletisch luftig
 
 ----------
@@ -9,16 +34,6 @@ Farbstarke Outfits, sportliche Schnitte.
 
 [zur e.s.ambition Kollektion](https://www.engelbert-strauss.de/ambition)
 
-Explore new Trails
-
-----------
-
----
-
- Ab sofort neue Farben, neue Modelle im e.s.trail-Style
-
-[zur e.s.trail Kollektion](https://www.engelbert-strauss.de/trail)
-
 Kernige Styles
 
 ----------
@@ -29,28 +44,6 @@ Kernige Styles
 Die neuen Teile sind da!
 
 [zur e.s.iconic Kollektion](https://www.engelbert-strauss.de/iconic)
-
- Kollaborationen
-----------
-
----
-
- Ballkid
-----------
-
----
-
- Bewirb dich jetzt und werde Strauss Ballkid bei der UEFA EURO 2024™ in Deutschland!
-----------
-
----
-
-[mehr Informationen](https://www.engelbert-strauss.de/ballkids)
-
- 14-18 Jahre alt?
----
-
-[Dann melde dich hier an](https://www.strauss-ballkids.de/anmeldung)
 
  Aktions-Sets
 ==========
@@ -65,6 +58,8 @@ Aktions-Sets
 
 ---
 
+[alle Aktions-Sets entdecken](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest%3Famp;itemorigin%3Dstartseite_fs24)
+
  Set bestehend aus:
 
  Softshelljacke e.s.motion 2020
@@ -78,27 +73,64 @@ Aktions-Sets
 |   | gratis<br/>---|   |
 |---|---------------|---|
 
-| Die neue Saison startet: Jetzt!<br/>----------<br/><br/>---| Entdecken Sie neue Workwear, neue Schuhe, neues Equipment und viele Saisonartikel – nur solange der Vorrat reicht!<br/><br/>[<br/><br/>alle Neuheiten<br/><br/>](https://www.engelbert-strauss.de/neuheiten/?sort=newest)|
-|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+ Arbeitskleidung für warme Tage
+==========
 
- Endlich da!
+---
+
+ Shirts
 ----------
 
 ---
 
- Die neuen Berufs- und Sicherheitsschuhe:
-Schutz & Komfort für jeden Einsatz!
+[Herren](https://www.engelbert-strauss.de/arbeitsshirts/)
 
-[Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
+[Damen](https://www.engelbert-strauss.de/arbeitsshirts-damen/)
 
- Work & Travel
+[Kinder](https://www.engelbert-strauss.de/kinder-oberbekleidung/)
+
+ Shorts
 ----------
 
 ---
 
- Worker-Chinos im Business-Style: pflegeleicht & knitterarm!
+[Herren](https://www.engelbert-strauss.de/arbeitsshorts/)
 
-[mehr Details](https://www.engelbert-strauss.de/s/suche?query=work%26travel)
+[Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
+
+[Kinder](https://www.engelbert-strauss.de/kinder-shorts/)
+
+ Teamwear
+----------
+
+---
+
+ Einheitlicher Look - für das ganze Team!
+
+[Teamwear für Herren](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aHerren&query=teamwear)
+
+[Teamwear für Damen](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aDamen&query=teamwear)
+
+ Neue Taschen-Lösungen
+----------
+
+---
+
+ Kompakt, sicher verstaut, direkt griffbereit
+
+[alle neuen e.s.ambition Taschen](https://www.engelbert-strauss.de/ambition_taschen)
+
+ Coming Soon
+---
+
+|   |   |
+|---|---|
+
+ Coming Soon
+---
+
+| E.S. MOTION 24/7<br/>---<br/><br/> Die neue Kollektion ist einer der strahlenden Stars in unserem TV-Spot und macht sich jetzt schon warm für die Herbst/Winter Saison 2024.  <br/><br/>Exklusiv: Im Farbweg Kornblau / Warngelb bereits vorab erhältlich - ab Mai 2024!  <br/><br/>Jetzt den Strauss Newsletter abonnieren und rechtzeitig erinnert werden.<br/><br/>[<br/><br/>zum Newsletter<br/><br/>](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)|   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 
 [jetzt selbst gestalten](https://www.engelbert-strauss.de/mymotion)
 
