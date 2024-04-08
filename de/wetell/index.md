@@ -39,6 +39,10 @@ WEtell - Mobilfunk geht auch nachhaltig!
 * [](https://www.wetell.de/)
 * Mobilfunk geht auch nachhaltig
 
+Grünfunken
+ mega fair
+----------
+
 Bling, bling,
 geil!
 ==========
@@ -47,9 +51,11 @@ Grünfunken
  fürs Klima
 ==========
 
-Grünfunken
- mega fair
-----------
+Lebe Nachhaltigkeit beim Mobilfunken.
+Voller Überblick, nicht nur Schall und Rauch.
+Mit echtem Service von Mensch zu Mensch.
+
+[Zu den Tarifen](https://www.wetell.de/tarife/)
 
 Neues Handy!? Kauf uns das nicht ab.
 Das nachhaltigste Handy ist das,
@@ -61,12 +67,6 @@ Und wenn du doch eins brauchst?
 Lebe Nachhaltigkeit beim Mobilfunken.
 Wir haben klimapositive Tarife für dich.
 Grün machen statt grün waschen.
-
-[Zu den Tarifen](https://www.wetell.de/tarife/)
-
-Lebe Nachhaltigkeit beim Mobilfunken.
-Voller Überblick, nicht nur Schall und Rauch.
-Mit echtem Service von Mensch zu Mensch.
 
 [Zu den Tarifen](https://www.wetell.de/tarife/)
 
