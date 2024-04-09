@@ -92,4 +92,4 @@ Uncompromising performance can now finally be experienced fanless and silent. Su
 
 ##### Do you need more information about the cirrus incus. #####
 
-All specifications may change due to version update. Please check with the configurator page for the exact specs available or [contact us](https://www.cirrus7.com/contacts). if you need special configurations. Brand and product names mentioned are trademarks of their respective companies.
+All specifications may change due to version update. Please check with the configurator page for the exact specs available or [contact us](https://www.cirrus7.com/en/contacts). if you need special configurations. Brand and product names mentioned are trademarks of their respective companies.
