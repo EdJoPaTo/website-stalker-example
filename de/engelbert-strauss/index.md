@@ -9,7 +9,7 @@ DER UEFA EURO 2024™
 
  anmelden \> ab Mai Gewinnspiel-News erhalten \> mitmachen & gewinnen
 
-[zum Newsletter](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)
+[zum Newsletter](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_UefaTicketverlosung)
 
 Sportlich!
 
