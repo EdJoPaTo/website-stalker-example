@@ -6,6 +6,50 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: April 10th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4361248014260451315</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Apr 10, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed touch screen switching to mouse cursor mode when the virtual keyboard is opened.
+						<br>
+					</li>
+					<li>
+						No longer listing incompatible options under an application's Compatibility settings.
+					</li>
+				</ul>
+				<br>
+				<br>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4361248014260451315" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: March 28th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4361246920742636858</link>
 			<content:encoded><![CDATA[<html>
@@ -239,48 +283,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/6051221522003500064" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: March 12th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4295943285926637032</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Mar 12, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed missing audio while streaming
-						<br>
-					</li>
-					<li>
-						Fixed continually being prompted for the PIN when pairing a device
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4295943285926637032" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
