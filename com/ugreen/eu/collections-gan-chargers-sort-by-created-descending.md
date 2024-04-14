@@ -30,7 +30,7 @@ Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives 
 
 UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
 
-### [Ugreen Nexode 4 Port 100W USB C GaN Charger & 2 Pack USB C 65W Charger Cable](https://eu.ugreen.com/products/ugreen-nexode-4-port-100w-usb-c-gan-charger-2-pack-usb-c-100w-charger-cable) ###
+### [Ugreen Nexode 4 Port 100W USB C GaN Charger & 2 Pack USB C 60W Charger Cable](https://eu.ugreen.com/products/ugreen-nexode-4-port-100w-usb-c-gan-charger-2-pack-usb-c-100w-charger-cable) ###
 
 Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
 
