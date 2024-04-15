@@ -16,15 +16,11 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[08.04.2024 - 15.04.2024 RE2/RE3 nächtlicher Ersatzverkehr mit Bussen und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtlicher-ersatzverkehr-mit-bussen-und-fahrzeitenaenderungen/)
-
 [22.04.2024 - 26.04.2024 RE2/RE3 Zusatzhalte in Hannover Messe/Laatzen zur Hannover Messe vom 22.04. bis 26.04.2024](https://www.der-metronom.de/baustellen/re2-re3-zusatzhalte-in-hannover-messe-laatzen-zur-hannover-messe-vom-22-04-bis-26-04-2024/)
 
 [29.04.2024 - 06.05.2024 RE2/RE3 nächtliche Teilausfälle zwischen Kreiensen \<\> Hannover Hbf](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-kreiensen-hannover-hbf/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[08.04.2024 - 15.04.2024 RE2/RE3 nächtlicher Ersatzverkehr mit Bussen und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtlicher-ersatzverkehr-mit-bussen-und-fahrzeitenaenderungen/)
 
 [20.04.2024 - 28.04.2024 RE2/RE3: Teilausfälle in den Nächten](https://www.der-metronom.de/baustellen/re2-re3-teilausfaelle-in-den-naechsten/)
 
