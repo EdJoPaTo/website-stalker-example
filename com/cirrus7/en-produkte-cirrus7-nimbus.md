@@ -187,24 +187,24 @@ cirrus nimbus
   * **Intel Core i9-11900 (65W TDP)**
     2.5 – 5.1GHz OctaCore + Hyperthreading – UHD 750
 
-  ##### Processor (CPU) - 13th Gen #####
+  ##### Processor (CPU) - 14th Gen #####
 
-  Choose between different Intel® Raptor Lake CPUs.
+  Choose between different Intel® Raptor Lake Refresh CPUs.
 
   * **Intel Celeron G6900 (46W TDP)**
     2 Cores / 2 Threads, 3.4GHz, UHD 710
   * **Intel Pentium Gold G7400 (46W TDP)**
     2 Cores / 4 Threads, 3,7GHz, UHD 710
-  * **Intel Core i3-13100T (60W TDP)**
-    4 Cores / 8 Thread, 2.5 – 4.2GHz, UHD 730
-  * **Intel Core i5-13400T (35W TDP)**
-    10 Cores / 16 Threads (6P-c + 4E-c), 1.3 – 4.4GHz, UHD 730
-  * **Intel Core i5-13500T (35W TDP)**
-    14 Cores / 20 Threads (6P-c + 8E-c), 1.6 – 4.6GHz, UHD 770
-  * **Intel Core i7-13700T (35W TDP)**
-    16 Cores / 24 Threads (8P-c + 8E-c), 1.4 – 4.9GHz, UHD 770
-  * **Intel Core i9-13900T (35W TDP)**
-    24 Cores / 32 Threads (8P-c + 16E-c), 1.1 – 5.3GHz, UHD 770
+  * **Intel Core i3-14100T**
+    4C/8T, 2.7 – 4.4GHz – UHD 730
+  * **Intel Core i5-14400T**
+    6+4C/16T, 1.5 – 4.5GHz – UHD 730
+  * **Intel Core i5-14500T**
+    6+8C/20T, 1.7 – 4.8GHz – UHD 770
+  * **Intel Core i7-14700T**
+    8+12C/28T, 1.3 – 5.0GHz – UHD 770
+  * **Intel Core i9-14900T**
+    8+16C/32T, 1.1 – 5.5GHz – UHD 770
 
   ##### Processor (CPU) - AMD #####
 

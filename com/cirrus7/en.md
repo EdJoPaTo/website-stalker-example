@@ -2,17 +2,17 @@
 
 Completely silent by fanless cooling.
 
-powerful Intel® Core™ Raptor Lake CPU up to i9-13900T
+powerful Intel® Core™ Raptor Lake CPU up to i9-14900T
 
-up to 64 GB RAM
+up to 96 GB RAM
 
 up to 4x SSDs / HDDs
 
 passively cooled and silent
 
-* powerful Intel® Core™ Raptor Lake CPU up to i9-13900T
+* powerful Intel® Core™ Raptor Lake CPU up to i9-14900T
 
-* up to 64 GB RAM
+* up to 96 GB RAM
 
 * up to 4x SSDs / HDDs
 
@@ -35,7 +35,7 @@ silent and fanless cooling
 
 up to 4x SSDx / HDDx
 
- based on ASRock DeskMini X300 and B660
+ based on ASRock DeskMini X300 and B760
 
 * with AMD Ryzen Renoir / Intel Raptor Lake CPU
 
@@ -43,7 +43,7 @@ up to 4x SSDx / HDDx
 
 * up to 4x SSDx / HDDx
 
-* based on ASRock DeskMini X300 and B660
+* based on ASRock DeskMini X300 and B760
 
 starts at 499,00 €
 incl. VAT and shipping (within Germany)
