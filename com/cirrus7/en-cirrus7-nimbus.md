@@ -66,7 +66,7 @@ The cirrus nimbus has a modular structure. The heart of the cooling system is a 
 
 |     DIMM Type      |DDR4 SO-DIMM / DDR4 LO-DIMM / DDR5 LO-DIMM|
 |--------------------|------------------------------------------|
-|  Memory capacity   |   8-64 GB (depending on configuration)   |
+|  Memory capacity   |   8-96 GB (depending on configuration)   |
 |  Clock frequency   |            3200MHz / 4800 MHz            |
 |Number of DIMM slots|             2 (Dual Channel)             |
 

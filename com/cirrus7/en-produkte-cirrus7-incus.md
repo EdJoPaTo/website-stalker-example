@@ -7,7 +7,7 @@ cirrus incus
 * fanless mini-PC
 * silent cooling due to passive aluminium heat sink housing with copper cores
 * with AMD Ryzen CPU or Intel Raptor Lake CPU
-* based on ASRock DeskMini X300 and B660
+* based on ASRock DeskMini X300 and B760
 
 **Delivery time: 7-9 working days**
 
@@ -15,8 +15,8 @@ cirrus incus
 
   * **AMD X300**
     Based on DeskMini X300
-  * **Intel B660**
-    Based on DeskMini B660
+  * **Intel B760**
+    Based on DeskMini B760
 
   **Front:** 1x USB 3.1 Gen1 Type-C, 1x USB 3.1 Gen1 Type-A, 1x Mic-In, 1x Headset
   **Back:** 1xVGA, 1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB 3.1 Gen1 Type-A Port, 1x USB 2.0 Type-A Port, 1x Gigabit LAN
