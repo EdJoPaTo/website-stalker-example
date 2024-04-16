@@ -489,7 +489,7 @@ updated 2021-04-20
 
 adc, dac, datasheet
 
-updated 2020-11-10
+updated 2024-04-16
 
 [Datasheet MiniAmp](https://www.hifiberry.com/docs/data-sheets/datasheet-miniamp/)
 
@@ -586,6 +586,12 @@ updated 2024-03-05
 other
 
 updated 2024-03-13
+
+[Datasheet DAC2 ADC Pro](https://www.hifiberry.com/docs/data-sheets/datasheet-dac2-adc-pro/)
+
+other
+
+updated 2024-04-16
 
 [HiFiBerryOS](https://www.hifiberry.com/docs/hifiberryos/)
 
