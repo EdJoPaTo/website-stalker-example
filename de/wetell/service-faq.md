@@ -199,7 +199,7 @@ Ein SIM-Kartentausch auf eSIM kostet einmalig 15€.
 
 #### Kann ich eine zweite SIM-Karte oder Multi-SIM bekommen? ####
 
-Ja, inzwischen kannst du bei uns weitere SIM-Karten für deine Rufnummer erhalten. Wir nennen das OneNumber, Preise und Leistungsdetails findest du auf unserer [Infoseite](https://www.wetell.de/service/onenumber-multisim/).
+Ja, inzwischen kannst du bei uns weitere SIM-Karten für deine Rufnummer erhalten. Wir nennen das OneNumber, Preise und Leistungsdetails findest du auf unserer [Infoseite.](https://www.wetell.de/service/onenumber-multisim/)
 
 #### Kann ich Voice over LTE (VoLTE) nutzen? ####
 
