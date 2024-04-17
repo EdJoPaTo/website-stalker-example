@@ -6,6 +6,54 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: April 16th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745048751322882</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Apr 17, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed gamepad controls intermittently not working in store browser
+						<br>
+					</li>
+					<li>
+						Fixed crash when playing back certain media in Steam music player
+						<br>
+					</li>
+					<li>
+						Fixed some causes of steamwebhelper crashes
+					</li>
+				</ul>
+				<br>
+				<br>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745048751322882" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: April 10th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4361248014260451315</link>
 			<content:encoded><![CDATA[<html>
@@ -241,48 +289,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4298195945332897750" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: March 18th</title>
-			<link>https://store.steampowered.com/news/app/593110/view/4149575031735702628</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Mar 18, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Steam Families is now in beta, with updates and improvements to family sharing, parental controls, and child purchase requests.
-						<a href="https://store.steampowered.com/news/app/593110/view/4149575031735702628" rel="noopener noreferrer">
-							See all the details at the announcement blog post here
-						</a>
-						.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6051221522003500064" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
