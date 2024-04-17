@@ -18,7 +18,9 @@ cirrus nimbus
   * Intel
   * AMD
 
-  * **ASUS Pro H610T (DDR4)**
+  * **ASUS Pro H610T (DDR4 SO-DIMM)**
+    H610 Chipsatz – business mainboard
+  * **ASUS Pro H610T (DDR5 SO-DIMM)**
     H610 Chipsatz – business mainboard
   * **Mitac PH12ADI (DDR5 SO-DIMM)**
     H610 Chipsatz – industrial mainboard
@@ -32,6 +34,9 @@ cirrus nimbus
 
   **ASUS Pro H610T rear ports:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
+
+  **ASUS Pro H610T rear ports:**
+  1x DisplayPort 1.2 (4K@60Hz), 1x HDMI 1.4b (4K@30Hz), 1x 1GB Ethernet (Intel I219-LM), 1x 2.5GB Ethernet (Intel I225V), 4x USB-A 3.2 Gen1, 2x Audio Stereo
 
   **Mitac PH12ADI rear ports:**
   1x DisplayPort 1.2 (4K@60Hz), 1x HDMI 1.4b (4K@30Hz), 1x 1GB Ethernet (Intel I219-LM), 1x 2.5GB Ethernet (Intel I225V), 4x USB-A 3.2 Gen1, 2x Audio Stereo
@@ -72,43 +77,43 @@ cirrus nimbus
   You can chose a front panel with power button and optional ports.
 
   * None
-  * Front-panel with Power-button
+  * Frontpanel mit Power-Taster
 
   * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **1x USB-C 3.2**
+    Frontpanel optionale Port
+
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **1x USB-C 3.2**
+    Frontpanel optionale Port
+
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **1x USB-C 3.2**
+    Frontpanel optionale Port
+
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **1x USB-C 3.2**
     Front-panel additional port
 
   * **2x USB-A 3.1**
     Frontpanel optionale Ports
 
   * **2x USB-A 3.1**
-    Front-panel optional ports
-
-  * **1x USB-C 3.2**
-    Frontpanel optionale Port
-
-  * **2x USB-A 3.1**
-    Front-panel optional ports
-
-  * **1x USB-C 3.2**
-    Front-panel additional port
-
-  * **2x USB-A 3.1**
-    Front-panel optional ports
-
-  * **1x USB-C 3.2**
-    Front-panel additional port
-
-  * **2x USB-A 3.1**
-    Front-panel optional ports
-
-  * **1x USB-C 3.2**
-    Front-panel additional port
-
-  * **2x USB-A 3.1**
-    Front-panel additional port
-
-  * **2x USB-A 3.1**
-    Front-panel additional port
+    Frontpanel optionale Ports
 
   ##### Plattform wählen #####
 
@@ -150,7 +155,7 @@ cirrus nimbus
   * **Intel Core i9-10900 (65W TDP)**
     2.8 – 5.2GHz DecaCore + Hyperthreading, UHD 630
 
-  ##### Processor (CPU) - 11th Gen #####
+  ##### Prozessor (CPU) - 11th Gen #####
 
   Wählen Sie hier zwischen verschiedenen Intel® 11th Gen CPUs.
 
@@ -187,9 +192,9 @@ cirrus nimbus
   * **Intel Core i9-11900 (65W TDP)**
     2.5 – 5.1GHz OctaCore + Hyperthreading – UHD 750
 
-  ##### Processor (CPU) - 14th Gen #####
+  ##### Prozessor (CPU) - 14th Gen #####
 
-  Choose between different Intel® Raptor Lake Refresh CPUs.
+  Choose between different Intel® Raptor Lake CPUs.
 
   * **Intel Celeron G6900 (46W TDP)**
     2 Cores / 2 Threads, 3.4GHz, UHD 710
@@ -206,16 +211,16 @@ cirrus nimbus
   * **Intel Core i9-14900T**
     8+16C/32T, 1.1 – 5.5GHz – UHD 770
 
-  ##### Processor (CPU) - AMD #####
+  ##### Prozessor (CPU) - AMD #####
 
-  Equipped with additional cooling fins for a waste heat of 65W.
+  Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
   * 35W
   * 65W
 
-  ##### Processor (CPU) - AMD #####
+  ##### Prozessor (CPU) - AMD #####
 
-  Choose between different AMD CPUs
+  Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
   * **AMD Athlon 3000G (35W TDP)**
     3,5 – 3,5GHz, 2 Cores / 4 Threads, Vega 3
@@ -226,9 +231,9 @@ cirrus nimbus
   * **AMD Ryzen 7 5700G (65W TDP)**
     3.8GHz – 4.6GHz OctaCore + Hyperthreading, Vega 8
 
-  ##### Hauptspeicher (RAM) #####
+  ##### Main Memory (RAM) #####
 
-  Wählen Sie die Größe des Hauptspeichers.
+  Choose the size of the main memory.
 
   * **4 GB DDR4 (1x 4GB)**
     SO-DIMM – 3200MHz
@@ -296,13 +301,13 @@ cirrus nimbus
   * **96 GB DDR5 (2x 48GB)**
     LO-DIMM – 5600MHz
 
-  ##### Hauptspeicher (RAM) #####
+  ##### Main Memory (RAM) #####
 
-  Wählen Sie die Größe des Hauptspeichers.
+  Choose the size of the main memory.
 
   * 4800 MHz
 
-  RAM-Geschwindigkeit auswählen.
+  Choose the memory speed.
 
   * **8 GB DDR5 (1x 8GB)**
     SO-DIMM – 4800MHz
@@ -348,7 +353,7 @@ cirrus nimbus
 
   * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
-  * NoneHard disk 2.5″ 1TB (59,00 €)Hard disk 2.5″ 2TB (99,00 €)Hard disk 2.5″ 4TB (149,00 €)Hard disk 2.5″ 5TB (199,00 €)
+  * NoneFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
 
   SATA Slot 2
 
@@ -359,7 +364,7 @@ cirrus nimbus
 
   * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
-  * NoneHard disk 2.5″ 1TB (59,00 €)Hard disk 2.5″ 2TB (99,00 €)Hard disk 2.5″ 4TB (149,00 €)Hard disk 2.5″ 5TB (199,00 €)
+  * NoneFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
 
   ##### WiFi / Bluetooth #####
 
@@ -379,33 +384,31 @@ cirrus nimbus
   * **Additional 2 x USB 2.0 Port**
 
   * **Additional 2 x USB 2.0 Port**
-  * **serial interface** (RS-232)
+  * **serielle Schnittstelle** (RS-232)
 
   ##### Additional Interfaces #####
 
-  * None
-  * **serial interface** (RS-232)
+  * None zusätzlichen Schnittstellen
+  * **serielle Schnittstelle** (RS-232)
   * **2x Thunderbolt 3** (USB-C)
 
-  This is not a VGA connection. The serial port is commonly used in industrial applications. For the private user, however, rather uninteresting.
+  Es handelt sich hier nicht um einen VGA Anschluss. Der serielle Anschluss wird häufig in Industrieanwendungen eingesetzt. Für den Privatanwender hingegen eher uninteressant.
 
   Thunderbolt™ 3 über USB-C mit schafft Geschwindigkeiten von bis zu 40 Gbit/s und einen kompakten Anschluss, der alles kann. Er bietet die schnellste und vielseitigste Verbindung zu jedem Dock, Display oder Datengerät.
-
-  ##### Additional PCIe Card #####
 
   An optional PCIe card can also be installed
 
   * None
   * 2.5GB Ethernet Card
-  * 10GB Ethernet Karte
+  * 10GB Ethernet Card
 
-  ##### Preinstalled Operating System #####
+  ##### Vorinstalliertes Betriebssystem #####
 
   If dual-boot configurations - or other distributions are desired - please note in the comment field.
 
-  ##### Please first select a SSD to install the OS #####
+  ##### Bitte zuerst eine SSD auswählen, auf die das Betriebsssystem installiert wird. #####
 
-  ##### Preinstalled Operating System #####
+  ##### Vorinstalliertes Betriebssystem #####
 
   If dual-boot configurations - or other distributions are desired - please note in the comment field.
 
@@ -414,14 +417,14 @@ cirrus nimbus
   * **Ubuntu 23.10** “Mantic Minotaur”
   * **Linux Mint 21.2** “Victoria”
   * **Windows 11 Home**
-    original OEM license
+    original OEM License
   * **Windows 11 Pro**
-    original OEM license
+    original OEM License
   * **Windows 10 Home**
-    original OEM license
+    original OEM License
     includes free update to Windows 11 Home
   * **Windows 10 Pro**
-    original OEM license
+    original OEM License
     includes free update to Windows 11 Pro
   * **Different operating system**
     As long as possible we are happy to try to install other operating systems
@@ -435,9 +438,9 @@ cirrus nimbus
   * No dust protection
   * Ventilation slots closed (dust protection)
 
-  ##### VESA wall and screen mount #####
+  ##### VESA wall and screen bracket #####
 
-  VESA mounting bracket for wall and screen mounting..
+  VESA mounting bracket for wall and screen mounting.
 
   * None
   * VESA wall and screen bracket
@@ -446,9 +449,9 @@ cirrus nimbus
 
   Warranty options.
 
-  * **3 years pickup and return**
+  * **3 Years Pickup and Return**
     30 days return policy
-  * **5 years pickup and return**
+  * **5 Years Pickup and Return**
     45 days return policy
 
   ##### Comment #####
