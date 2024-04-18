@@ -38,8 +38,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[14.04.2024 - 18.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
-
 [19.04.2024 - 22.04.2024 RB31: nächtliche Zugausfälle des ME81642](https://www.der-metronom.de/baustellen/rb31-naechtliche-zugausfaelle-des-me81642/)
 
 [23.04.2024 - 24.04.2024 RB31: nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-2/)
@@ -47,8 +45,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [10.05.2024 - 12.05.2024 RB31 nächtlicher Haltausfall in Bardowick, Radbruch und Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-bardowick-radbruch-und-ashausen/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
-
-[14.04.2024 - 18.04.2024 RE3/RB31/RB41 nächtliche Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-rb41-naechtliche-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
 
 [20.04.2024 - 21.04.2024 RB41: nächtliche Ausfälle zwischen Rotenburg - Sottrum](https://www.der-metronom.de/baustellen/rb41-naechtliche-ausfaelle-zwischen-rotenburg-sottrum/)
 
