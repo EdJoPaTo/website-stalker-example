@@ -47,11 +47,11 @@ Uncompromising performance can now finally be experienced fanless and silent. Su
 
 ### Main memory ###
 
-|      DIMM Type     |            DDR4 SO-DIMM            |
-|--------------------|------------------------------------|
-|  Memory capacity   |8-64 GB (depending on configuration)|
-|  Clock frequency   |              3000 MHz              |
-|Number of DIMM slots|          2 (Dual Channel)          |
+|      DIMM Type     |               DDR4 SO-DIMM                |
+|--------------------|-------------------------------------------|
+|  Memory capacity   |   8-64 GB (depending on configuration)    |
+|  Clock frequency   |up to 3200 MHz (depending on configuration)|
+|Number of DIMM slots|             2 (Dual Channel)              |
 
 ### SSDs / hard drives ###
 
