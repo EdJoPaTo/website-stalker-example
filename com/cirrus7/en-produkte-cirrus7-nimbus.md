@@ -21,11 +21,11 @@ cirrus nimbus
   * **ASUS Pro H610T (DDR4 SO-DIMM)**
     H610 Chipset – business mainboard
   * **ASUS Pro H610T (DDR5 SO-DIMM)**
-    H610 Chipsatz – business mainboard
+    H610 Chipset – business mainboard
   * **Mitac PH12ADI (DDR5 SO-DIMM)**
-    H610 Chipsatz – industrial mainboard
+    H610 Chipset – industrial mainboard
   * **ASRock Z790M-ITX (DDR5)**
-    Z790 Chipsatz – Mini ITX
+    Z790 Chipset – Mini ITX
 
   * **ASRock B550M-ITX**
     B550 Chipsatz – Mini ITX
