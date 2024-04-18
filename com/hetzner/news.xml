@@ -6,24 +6,6 @@
 		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>The new Dedicated Server AX42 - The ideal ratio of price, performance and power consumption</title>
-			<link>https://www.hetzner.com/news/new-ax42/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				18. April 2024
-			</small>
-		</p>
-		<p>
-			Hetzner Online has just unveiled its new dedicated server, which not only delivers power, but also an impressive level of efficiency and exceptionally low energy footprint.
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
 			<title>Make a giant leap forward with the new GPU server GEX44</title>
 			<link>https://www.hetzner.com/news/new-gpu-server/</link>
 			<content:encoded><![CDATA[<html>
@@ -201,6 +183,24 @@
 		</p>
 		<p>
 			With the DX182 and DX293, Hetzner has unveiled two new dedicated servers based on tried and true Dell hardware, making them a cut above the rest.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Upgrade to the future: The new AX102 Dedicated Server with AMD Ryzen™ 9 7950X3D</title>
+			<link>https://www.hetzner.com/news/new-amd-ryzen-7950-server/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				13. April 2023
+			</small>
+		</p>
+		<p>
+			The new AX102 Dedicated Server is the shiny two-sided coin in our collection.
 		</p>
 	</body>
 </html>]]></content:encoded>
