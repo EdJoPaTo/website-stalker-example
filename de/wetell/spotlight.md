@@ -1,3 +1,8 @@
+WECHANGE
+----------
+
+Daten, Daten, Daten und noch viel mehr Daten. Deine Daten sind eine häufig gehandelte Währung, über die du kaum selbst entscheiden kannst. WECHANGE bietet dir Plattform, mit der du dich in Gruppen und Projekten vernetzen kannst, ohne dass deine Daten weiterverkauft werden. Jane Telkmann sitzt im WEtell Spotlicht und erzählt uns mehr dazu
+
 Silbernetz
 ----------
 
