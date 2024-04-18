@@ -19,7 +19,7 @@ cirrus nimbus
   * AMD
 
   * **ASUS Pro H610T (DDR4 SO-DIMM)**
-    H610 Chipsatz – business mainboard
+    H610 Chipset – business mainboard
   * **ASUS Pro H610T (DDR5 SO-DIMM)**
     H610 Chipsatz – business mainboard
   * **Mitac PH12ADI (DDR5 SO-DIMM)**
@@ -32,11 +32,11 @@ cirrus nimbus
   * **GIGABYTE B550I AORUS Pro**
     B550 Chipsatz – Mini ITX
 
-  **ASUS Pro H610T rear ports:**
+  **ASUS Pro H610T rear port:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
 
-  **ASUS Pro H610T rear ports:**
-  1x DisplayPort 1.2 (4K@60Hz), 1x HDMI 1.4b (4K@30Hz), 1x 1GB Ethernet (Intel I219-LM), 1x 2.5GB Ethernet (Intel I225V), 4x USB-A 3.2 Gen1, 2x Audio Stereo
+  **ASUS Pro H610T rear port:**
+  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
 
   **Mitac PH12ADI rear ports:**
   1x DisplayPort 1.2 (4K@60Hz), 1x HDMI 1.4b (4K@30Hz), 1x 1GB Ethernet (Intel I219-LM), 1x 2.5GB Ethernet (Intel I225V), 4x USB-A 3.2 Gen1, 2x Audio Stereo
