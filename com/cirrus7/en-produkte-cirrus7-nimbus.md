@@ -384,17 +384,19 @@ cirrus nimbus
   * **Additional 2 x USB 2.0 Port**
 
   * **Additional 2 x USB 2.0 Port**
-  * **serielle Schnittstelle** (RS-232)
+  * **Serial Port** (RS-232)
 
   ##### Additional Interfaces #####
 
   * None zusätzlichen Schnittstellen
-  * **serielle Schnittstelle** (RS-232)
+  * **Serial Port** (RS-232)
   * **2x Thunderbolt 3** (USB-C)
 
   Es handelt sich hier nicht um einen VGA Anschluss. Der serielle Anschluss wird häufig in Industrieanwendungen eingesetzt. Für den Privatanwender hingegen eher uninteressant.
 
   Thunderbolt™ 3 über USB-C mit schafft Geschwindigkeiten von bis zu 40 Gbit/s und einen kompakten Anschluss, der alles kann. Er bietet die schnellste und vielseitigste Verbindung zu jedem Dock, Display oder Datengerät.
+
+  ##### Additional PCIe Card #####
 
   An optional PCIe card can also be installed
 
@@ -402,13 +404,13 @@ cirrus nimbus
   * 2.5GB Ethernet Card
   * 10GB Ethernet Card
 
-  ##### Vorinstalliertes Betriebssystem #####
+  ##### Preinstalled Operating System #####
 
   If dual-boot configurations - or other distributions are desired - please note in the comment field.
 
-  ##### Bitte zuerst eine SSD auswählen, auf die das Betriebsssystem installiert wird. #####
+  ##### Please first select a SSD to install the OS #####
 
-  ##### Vorinstalliertes Betriebssystem #####
+  ##### Preinstalled Operating System #####
 
   If dual-boot configurations - or other distributions are desired - please note in the comment field.
 
