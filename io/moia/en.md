@@ -109,7 +109,7 @@ Save on every ride for 30, 90 oder 180 days.
 
 [](https://www.moia.io/en/smart-saver)
 
-Load the app. And book your first ride.
+Download the app. And book your first ride.
 ----------
 
 App Store
