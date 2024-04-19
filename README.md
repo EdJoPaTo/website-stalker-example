@@ -4,8 +4,8 @@ This repo utilizes the [website-stalker](https://github.com/EdJoPaTo/website-sta
 
 ## Website-Stalker
 
-The website-stalker runs basically from the [config file](https://github.com/EdJoPaTo/website-stalker-example/blob/main/website-stalker.yaml) and commits the results into the [`sites` folder](https://github.com/EdJoPaTo/website-stalker-example/tree/main/sites).
-Also check the [commit history](https://github.com/EdJoPaTo/website-stalker-example/commits/main/sites).
+The website-stalker runs with the [config file](https://github.com/EdJoPaTo/website-stalker-example/blob/main/website-stalker.yaml) and commits the results.
+Also check the [commit history](https://github.com/EdJoPaTo/website-stalker-example/commits/main).
 
 For more details on the website-stalker check out [its dedicated repo](https://github.com/EdJoPaTo/website-stalker).
 
