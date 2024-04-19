@@ -46,9 +46,9 @@ Memory
 
  8GB
 
-8GB  3200MHz memory (1 × 8GB)
+8GB  3200MHz memory
 
-16GB  3200MHz memory (2 × 8GB)
+16GB  3200MHz memory
 
  Memory
 
