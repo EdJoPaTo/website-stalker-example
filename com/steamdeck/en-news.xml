@@ -6,6 +6,48 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.5.18 Preview: Old Enough to Vote</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745301338355770</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Apr 19, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue causing no sound output in games that open and close audio devices quickly like Super Blood Hockey
+						<br>
+					</li>
+					<li>
+						Stability and security improvements
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745301338355770" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: April 16th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745048751322882</link>
 			<content:encoded><![CDATA[<html>
@@ -191,104 +233,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4361246746316540036" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: March 22nd</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4298195945332897750</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Mar 22, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed corrupted fonts showing during early startup for Thai language and a few others
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed inverted axes when using "Setup Device Inputs"
-						<br>
-					</li>
-					<li>
-						Reverted change to default Conversion Style as "PlayerSpace" in "GyroToMouse" mode as it changed existing configs.
-						<br>
-					</li>
-					<li>
-						Fixed SteamDeck Configurator Templates' FlickStick default bindings.
-						<br>
-					</li>
-					<li>
-						(On those controllers with haptics support) a haptic bump will occur when gyroscope is turned on and off due to the Gyro Enable/Disable/Toggle Button, if haptics are not set to "Off".
-						<br>
-					</li>
-					<li>
-						Added Dualsense and Dualshock Gyro Enable/Disable/Toggle "center touch" and "center click" for completeness/to help with certain Paddle Mods.
-						<br>
-					</li>
-					<li>
-						Fix for Quick Settings "Enable Grip" Toggle.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved recovery from network disconnections before starting the stream
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Cloud
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed case where files for one Steam account could be overwritten by files from another Steam account if the first account had logged in but not played the game yet on the device.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Linux
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a situation where Steam would attempt to execute the Windows version of a title without using Steam Play
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4298195945332897750" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
