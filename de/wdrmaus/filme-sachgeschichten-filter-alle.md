@@ -833,6 +833,7 @@
 * [Pokal](https://www.wdrmaus.de/filme/sachgeschichten/pokal.php5)
 * [Polarstern](https://www.wdrmaus.de/filme/sachgeschichten/polarstern.php5)
 * [Polen-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/polen_spezial.php5)
+* [Polizeiausrüstung](https://www.wdrmaus.de/filme/sachgeschichten/polizeiausruestung.php5)
 * [Pollenflugvorhersage](https://www.wdrmaus.de/filme/sachgeschichten/pollenflugvorhersage.php5)
 * [Pop-up-Haus](https://www.wdrmaus.de/filme/sachgeschichten/pop_up_haus.php5)
 * [Porträt Elisabeth Seitz](https://www.wdrmaus.de/filme/sachgeschichten/portraet_elisabeth_seitz.php5)
