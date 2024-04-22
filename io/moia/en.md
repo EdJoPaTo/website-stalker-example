@@ -107,6 +107,17 @@ Save on every ride for 30, 90 oder 180 days.
 
 [](https://www.moia.io/en/smart-saver)
 
+MOIA friend bonus
+
+For friends of all kinds
+----------
+
+With the **MOIA friend bonus**, both you and your friends get a **3 x 25% discount**\* as soon as they become active MOIA users. Maybe a good opportunity to grow your social circle? How about inviting your friendly neighbor, the favorite coworker, or even your mom's friend? You’ve probably already got more potential friends popping into your mind. Because sharing is what friends are for.
+
+The MOIA friend bonus, a 3 x 25% discount\* for the both of you.
+
+[Learn more](https://www.moia.io/en/friend-bonus)
+
 Download the app. And book your first ride.
 ----------
 
