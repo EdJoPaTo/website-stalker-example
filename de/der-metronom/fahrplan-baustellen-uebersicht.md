@@ -42,6 +42,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [10.05.2024 - 12.05.2024 RB31 nächtlicher Haltausfall in Bardowick, Radbruch und Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-bardowick-radbruch-und-ashausen/)
 
+[14.05.2024 - 15.05.2024 RB31 nächtliche Haltausfälle Bardowick, Radbruch und Ashausen für drei Verbindungen](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-bardowick-radbruch-und-ashausen-fuer-drei-verbindungen/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [29.04.2024 - 30.04.2024 RE4/RB41 nächtliche Teilausfälle zwischen Rotenburg (W.) und Bremen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-teilausfaelle-zwischen-rotenburg-w-und-bremen/)
