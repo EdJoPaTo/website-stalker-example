@@ -30,16 +30,14 @@ Absolutely transparent
 
 You will find out the cost of your ride before booking. You can pay using the app.
 
-MOIA friend bonus
+That’s why: MOIA
 
-For friends of all kinds
+9 out of 10 hairstyles look better when dry
 ----------
 
-With the **MOIA friend bonus**, both you and your friends get a **3 x 25% discount**\* as soon as they become active MOIA users. Maybe a good opportunity to grow your social circle? How about inviting your friendly neighbor, the favorite coworker, or even your mom's friend? You’ve probably already got more potential friends popping into your mind. Because sharing is what friends are for.
+They say: April is the month of surprises. Join in and discover exciting new spring destinations in Hamburg. To prevent any rain shower from catching you off guard, we're here for you. With fully electric drive - and more than 17,500 stops in your city.
 
-The MOIA friend bonus, a 3 x 25% discount\* for the both of you.
-
-[Learn more](https://www.moia.io/en/friend-bonus)
+[Launch App](https://moia.go.link/?adj_t=1bk61y15)
 
 How MOIA works
 ----------
