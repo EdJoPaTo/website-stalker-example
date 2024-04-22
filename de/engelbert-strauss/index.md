@@ -58,7 +58,7 @@ Aktions-Sets
 
 ---
 
-[alle Aktions-Sets entdecken](https://www.engelbert-strauss.de/sale-aktions-sets/?sort=newest%3Famp;itemorigin%3Dstartseite_fs24)
+[alle Aktions-Sets entdecken](https://www.engelbert-strauss.de/s/suche?query=EURO24)
 
  Set bestehend aus:
 
