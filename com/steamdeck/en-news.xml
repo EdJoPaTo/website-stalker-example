@@ -6,6 +6,44 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.5.19 Preview: I&apos;m Running Out of Witty Names for These</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745470645387060</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Apr 22, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Additional stability and security improvements
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745470645387060" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.5.18 Preview: Old Enough to Vote</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745301338355770</link>
 			<content:encoded><![CDATA[<html>
@@ -169,70 +207,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4361246920742636858" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: March 27th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4361246746316540036</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Mar 27, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reduced network traffic at startup and reconnect
-						<br>
-					</li>
-					<li>
-						Fixed support alert messages intermittently producing an error at startup.
-						<br>
-					</li>
-					<li>
-						Fixed sometimes not being able to access the Steam Family Management profile page.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the SD card library would not be detected if added via Desktop Mode.
-						<br>
-					</li>
-					<li>
-						Fixed some applications not appearing in library when shared by a family member.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed regression causing Steam News button to not work
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4361246746316540036" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
