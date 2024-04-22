@@ -15,13 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[2. Bundesliga-Spieltag in Hannover: Wir erwarten ein volles Spielfeld an Bord unserer Züge](https://www.der-metronom.de/aktuell/2-bundesliga-spieltag/)
-
- Uelzen - 19.04.2024
-
-Moin liebe Fahrgäste,
-am Sonntag spielt...
-
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
  Uelzen - 25.01.2024

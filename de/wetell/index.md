@@ -131,7 +131,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 Telefonierst du wirklich so wenig, dass dir 100 Freiminuten reichen? Einige unserer Kund\*innen machen die Erfahrung, dass sich der Tarif „Mittelwelle“ sehr schnell lohnt, sobald man über die 100 Freiminuten kommt. Am besten kannst du dein Telefonier-Verhalten einschätzen und dich in der „Mittelwelle“ ggf. selbst vor ungewollten Kosten schützen.
 
 **Tarifwechsel**
-– Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+– Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service.
 
 Lieblingstarif
 
@@ -245,7 +245,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 – Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Ueberschall.pdf).
 
 **Tarifwechsel**
-– Wechsel in einen kleineren Tarif (Tarifdowngrade) können wir leider nicht durchführen.
+– Wenn du später in einen anderen Tarif wechseln willst, melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr und ggf. FAIRstärker Option: -5 € bis + 5 € / Monat
 
