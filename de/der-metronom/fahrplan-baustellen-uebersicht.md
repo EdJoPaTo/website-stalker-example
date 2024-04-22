@@ -38,8 +38,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[19.04.2024 - 22.04.2024 RB31: nächtliche Zugausfälle des ME81642](https://www.der-metronom.de/baustellen/rb31-naechtliche-zugausfaelle-des-me81642/)
-
 [23.04.2024 - 24.04.2024 RB31: nächtliche Haltausfälle](https://www.der-metronom.de/baustellen/rb31-naechtliche-haltausfaelle-2/)
 
 [10.05.2024 - 12.05.2024 RB31 nächtlicher Haltausfall in Bardowick, Radbruch und Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-bardowick-radbruch-und-ashausen/)
