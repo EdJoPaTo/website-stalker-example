@@ -46,6 +46,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
+[24.04.2024 - 25.04.2024 IN DER NACHT 24. auf den 25.04.2024 - RB41 kurzfristige nächtliche Streckensperrung wegen Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/rb41-kurzfristige-naechtliche-streckensperrung-wegen-instandhaltungsarbeiten/)
+
 [29.04.2024 - 30.04.2024 RE4/RB41 nächtliche Teilausfälle zwischen Rotenburg (W.) und Bremen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-teilausfaelle-zwischen-rotenburg-w-und-bremen/)
 
 [01.05.2024 - 02.05.2024 RB41 nächtliche Teilausfälle für den 81945 und 81947 zwischen Scheeßel und Rotenburg (W.)](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-fuer-den-81945-und-81947-zwischen-scheessel-und-rotenburg-w/)
