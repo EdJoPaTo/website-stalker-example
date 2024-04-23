@@ -376,3 +376,15 @@ sites:
       - css_remove: figure, picture, img, svg, script, nav, .anchor, .newsletter-signup
       - html_url_canonicalize
       - html_markdownify
+
+  - url:
+      - https://www.openhomefoundation.org/
+      - https://www.openhomefoundation.org/projects/
+    editors:
+      - css_select: section
+      - css_remove: img, svg
+      - html_url_canonicalize
+      - regex_replace:
+          pattern: </a>
+          replace: </a><br />
+      - html_markdownify
