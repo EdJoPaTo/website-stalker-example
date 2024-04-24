@@ -6,6 +6,48 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.5.19 Update: Grey Park Seagull</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4353367983027414980</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Apr 24, 2024
+			</h5>
+			<div>
+				SteamOS 3.5.19 has been released to the Stable channel for Deck with the following changes:
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue causing no sound output in games that open and close audio devices quickly like Super Blood Hockey
+						<br>
+					</li>
+					<li>
+						Stability and security improvements
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353367983027414980" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: April 22nd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745470645537691</link>
 			<content:encoded><![CDATA[<html>
@@ -174,50 +216,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745048751322882" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: April 10th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4361248014260451315</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Apr 10, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed touch screen switching to mouse cursor mode when the virtual keyboard is opened.
-						<br>
-					</li>
-					<li>
-						No longer listing incompatible options under an application's Compatibility settings.
-					</li>
-				</ul>
-				<br>
-				<br>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4361248014260451315" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
