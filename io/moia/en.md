@@ -142,30 +142,3 @@ Play Store
  Download the app
 
  Scan the QR code and download the app
-
-Frequently asked questions
-----------
-
-[How much does the service cost?](https://help.moia.io/hc/en-us/articles/360001347785-How-much-does-the-service-cost-)
-
-[How do I order a trip?](https://help.moia.io/hc/en-us/articles/360000796149-How-do-I-order-a-trip-)
-
-[What are MOIA stops?](https://help.moia.io/hc/en-us/articles/360000792145-What-are-MOIA-stops-)
-
-[When will my MOIA pick me up?](https://help.moia.io/hc/en-us/articles/360000796289-When-will-my-MOIA-pick-me-up-)
-
-[What is MOIA Express?](https://help.moia.io/hc/en-us/articles/360020795318-MOIA-Express-booking)
-
-[Can children ride with MOIA?](https://help.moia.io/hc/en-us/articles/360001438925-Can-children-ride-with-MOIA-)
-
-[Can I take luggage with me in the vehicle?](https://help.moia.io/hc/en-us/articles/360000796269-Can-I-take-luggage-with-me-in-the-vehicle-)
-
-[Can I book a trip in advance?](https://help.moia.io/hc/en-us/articles/4409227201297)
-
-[At what times can I use MOIA?](https://help.moia.io/hc/en-us/articles/360001336037-At-what-times-can-I-use-MOIA-)
-
-[What is Smart Saver?](https://help.moia.io/hc/en-us/articles/4418377901073-Smart-Saver-for-Thrifty-Travellers-)
-
-[Find out more](https://help.moia.io/hc/en-us)
-
-\* Friend bonus coupons are valid for 90 days. For a referral to be considered successful and the coupons to be activated, the recipient must register in the MOIA app, enter the invitation code within seven days and then book the first ride within 90 days. You can find our general coupon conditions [here](http://www.moia.io/en/voucher_conditions).
