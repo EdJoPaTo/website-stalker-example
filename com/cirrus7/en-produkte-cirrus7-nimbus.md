@@ -130,9 +130,9 @@ cirrus nimbus
 
   1xHDMI 2.0a, 2xDisplayPort 1.2, 1x1 Gigabit LAN, 1x2.5 Gigabit LAN, 4x USB 3.2 Gen1, 2 (Mic-in, Line-out), 1xDC Jack
 
-  ##### Prozessor (CPU) - Comet Lake  #####
+  ##### Processor (CPU) - Comet Lake  #####
 
-  Wählen Sie hier zwischen verschiedenen Intel® Comet Lake CPUs.
+  Choose between different Intel® Raptor Lake Refresh CPUs.
 
   * 35W
   * 65W
@@ -155,9 +155,9 @@ cirrus nimbus
   * **Intel Core i9-10900 (65W TDP)**
     2.8 – 5.2GHz DecaCore + Hyperthreading, UHD 630
 
-  ##### Prozessor (CPU) - 11th Gen #####
+  ##### Processor (CPU) - 11th Gen #####
 
-  Wählen Sie hier zwischen verschiedenen Intel® 11th Gen CPUs.
+  Choose between different Intel® Raptor Lake Refresh CPUs.
 
   * 35W
   * 65W
@@ -192,9 +192,9 @@ cirrus nimbus
   * **Intel Core i9-11900 (65W TDP)**
     2.5 – 5.1GHz OctaCore + Hyperthreading – UHD 750
 
-  ##### Prozessor (CPU) - 14th Gen #####
+  ##### Processor (CPU) - 14th Gen #####
 
-  Choose between different Intel® Raptor Lake CPUs.
+  Choose between different Intel® Raptor Lake Refresh CPUs.
 
   * **Intel Celeron G6900 (46W TDP)**
     2 Cores / 2 Threads, 3.4GHz, UHD 710
@@ -211,14 +211,14 @@ cirrus nimbus
   * **Intel Core i9-14900T**
     8+16C/32T, 1.1 – 5.5GHz – UHD 770
 
-  ##### Prozessor (CPU) - AMD #####
+  ##### Processor (CPU) - AMD #####
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
   * 35W
   * 65W
 
-  ##### Prozessor (CPU) - AMD #####
+  ##### Processor (CPU) - AMD #####
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 

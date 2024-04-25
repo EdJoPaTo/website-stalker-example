@@ -28,7 +28,7 @@ Repurpose your hardware.
 Our work
 ----------
 
- The Open Home Foundation owns and governs over **240 open-source projects, standards, drivers, and libraries** like Home Assistant, ESPHome, Zigpy, Piper, and more.
+ The Open Home Foundation owns and governs over **240 open-source projects, standards, drivers, and libraries** like *Home Assistant*, *ESPHome*, *Zigpy*, *Piper*, and more.
 
  In the future, we aim to play a greater role as a political advocate for smart home privacy, choice, and sustainability.
 
@@ -46,10 +46,10 @@ Our work
 
 [See more](https://www.openhomefoundation.org/projects/#projects)
 
- Our collabs
+Our collabs
 ----------
 
- Thanks to support from our partner Nabu Casa, we also collaborate on external member projects that align with our principles. These include Z-Wave JS, WLED, Rhasspy, and Zigbee2MQTT.
+ Thanks to support from our partner **Nabu Casa**, we also collaborate on external member projects that align with our principles. These include *Z-Wave JS*, *WLED*, *Rhasspy*, and *Zigbee2MQTT*.
 
 [Learn more](https://www.openhomefoundation.org/projects/#collabs)
 
