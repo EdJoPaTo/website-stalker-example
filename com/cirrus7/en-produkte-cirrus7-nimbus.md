@@ -415,9 +415,8 @@ cirrus nimbus
   If dual-boot configurations - or other distributions are desired - please note in the comment field.
 
   * No pre-installed operating system
-  * **Ubuntu 22.04 LTS** “Jammy Jellyfish”
-  * **Ubuntu 23.10** “Mantic Minotaur”
-  * **Linux Mint 21.2** “Victoria”
+  * **Ubuntu 24.04 LTS** “Noble Numbat”
+  * **Linux Mint 21.3** “Virginia”
   * **Windows 11 Home**
     original OEM License
   * **Windows 11 Pro**
