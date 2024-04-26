@@ -62,9 +62,9 @@ Memory
 
 Operating System
 
- Ubuntu LTS 22.04.3
+ Ubuntu LTS 24.04
 
-Ubuntu LTS 22.04.3
+Ubuntu LTS 24.04
 
 No Operating System
 
@@ -90,9 +90,9 @@ MX Linux 23.2 KDE
 
 MX Linux 23.2 Fluxbox
 
-Ubuntu LTS 22.04.3 MATE
+Ubuntu LTS 24.04 MATE
 
-Xubuntu 22.04.3 LTS
+Xubuntu 24.04 LTS
 
 Zorin OS 17 Core
 
