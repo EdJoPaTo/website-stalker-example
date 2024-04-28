@@ -24,8 +24,6 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[20.04.2024 - 28.04.2024 RE2/RE3: Teilausfälle in den Nächten](https://www.der-metronom.de/baustellen/re2-re3-teilausfaelle-in-den-naechsten/)
-
 [29.04.2024 - 06.05.2024 RE2/RE3 nächtliche Teilausfälle zwischen Kreiensen \<\> Hannover Hbf](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-kreiensen-hannover-hbf/)
 
 [06.05.2024 - 13.05.2024 RE2/RE3 nächtliche Teilausfälle zwischen Hannover Hbf und Kreiensen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-hannover-hbf-und-kreiensen/)
