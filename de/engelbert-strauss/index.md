@@ -5,23 +5,11 @@ WIN
 DER UEFA EURO 2024™
 ---
 
- EXKLUSIV IM NEWSLETTER
+ Exklusiv im Newsletter
 
  anmelden \> ab Mai Gewinnspiel-News erhalten \> mitmachen & gewinnen
 
 [zum Newsletter](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_UefaTicketverlosung)
-
-Sportlich!
-
-----------
-
----
-
- Die neuen Leichtgewicht-Allrounder mit Drehverschluss
-
-[jetzt kaufen](https://www.engelbert-strauss.de/sonstige-berufsschuhe/allroundschuhe-e-s-toledo-low-1003330-86152-538.html?amp;itemorigin=Startseite)
-
-[alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
 
 Athletisch luftig
 
@@ -34,16 +22,30 @@ Farbstarke Outfits, sportliche Schnitte.
 
 [zur e.s.ambition Kollektion](https://www.engelbert-strauss.de/ambition)
 
-Kernige Styles
+ S3 e.s. Kastra II low
+
+Perfekter Halt!
 
 ----------
 
 ---
 
- Weiter geht’s im kernigen Iconic-Style:
-Die neuen Teile sind da!
+ S3-zertifiziertes Rundum-Schutzpaket
+mit praktischem Drehverschluss.
 
-[zur e.s.iconic Kollektion](https://www.engelbert-strauss.de/iconic)
+[jetzt kaufen](https://www.engelbert-strauss.de/sicherheitsschuhe-s3/s3-sicherheitshalbschuhe-e-s-kastra-ii-low-1302050-93789-1498.html?amp;itemorigin=Startseite)
+
+[alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
+
+ e.s.motion 2020
+----------
+
+---
+
+ Raffiniertes Design, extrem bequem und immer
+ein farbenfroher Hingucker: Das ist die e.s.motion 2020.
+
+[zur e.s.motion 2020](https://www.engelbert-strauss.de/e-s-motion-2020/)
 
  Aktions-Sets
 ==========
@@ -54,83 +56,78 @@ Die neuen Teile sind da!
 
  EURO 2024™
 Aktions-Sets
+---
+
+[alle Aktions-Sets entdecken](https://www.engelbert-strauss.de/s/suche?itemorigin=startseite_fs24&query=EURO24)
+
+| \+<br/>---| Gratis   <br/>Artikel<br/>---|   |
+|-----------|------------------------------|---|
+
+ Arbeitskleidung für warme Tage
+---
+
+ Race Sonnenbrille
 ----------
 
 ---
 
-[alle Aktions-Sets entdecken](https://www.engelbert-strauss.de/s/suche?query=EURO24)
+ Echtes Highlight für den ganzen Tag
 
- Set bestehend aus:
+[jetzt kaufen](https://www.engelbert-strauss.de/schutzbrillen/race-sonnenbrille-e-s-ambition-7040610-7476192-7.html?amp;itemorigin=startseite)
 
- Softshelljacke e.s.motion 2020
-\+ Softshellweste e.s.motion 2020
-**\+ GRATIS UEFA EURO 2024™ FAN-SHIRT**
+ Idealer UV-Schutz
+----------
 
-[Set für Herren](https://www.engelbert-strauss.de/uefa-euro2024-x-strauss/set-softshelljacke-weste-e-s-motion-2020-shirt-3135000-16146-1086.html?amp;itemorigin=Startseite_FS24)
+---
 
-[Set für Damen](https://www.engelbert-strauss.de/uefa-euro2024-x-strauss-damen/set-softshelljacke-weste-e-s-motion-2020-damen-3135010-16151-722.html?amp;itemorigin=Startseite_FS24)
+ Stylish und gleichzeitig sicher – das ist die Workwear, die man braucht!
 
-|   | gratis<br/>---|   |
-|---|---------------|---|
+[Produktübersicht](https://www.engelbert-strauss.de/f/arbeitskleidung/Ausstattung:Besonderheiten:UV-Schutz/)
 
- Arbeitskleidung für warme Tage
+ Strauss-Fans glücklich machen
+---
+
+ Gutscheine verschenken
+----------
+
+---
+
+ Verschenke Freude mit einem Strauss-Gutschein
 ==========
 
 ---
 
- Shirts
-----------
+[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=Startseite)
 
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
+ Brandneu: e.s.motion 24/7
 ---
 
-[Herren](https://www.engelbert-strauss.de/arbeitsshirts/)
-
-[Damen](https://www.engelbert-strauss.de/arbeitsshirts-damen/)
-
-[Kinder](https://www.engelbert-strauss.de/kinder-oberbekleidung/)
-
- Shorts
-----------
-
+ Out now
 ---
 
-[Herren](https://www.engelbert-strauss.de/arbeitsshorts/)
-
-[Damen](https://www.engelbert-strauss.de/arbeitsshorts-damen/)
-
-[Kinder](https://www.engelbert-strauss.de/kinder-shorts/)
-
- Teamwear
-----------
-
+ e.s.motion 24/7
 ---
 
- Einheitlicher Look - für das ganze Team!
-
-[Teamwear für Herren](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aHerren&query=teamwear)
-
-[Teamwear für Damen](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aDamen&query=teamwear)
-
- Neue Taschen-Lösungen
-----------
-
----
-
- Kompakt, sicher verstaut, direkt griffbereit
-
-[alle neuen e.s.ambition Taschen](https://www.engelbert-strauss.de/ambition_taschen)
-
- Coming Soon
----
+[zur e.s.motion 24/7](https://www.engelbert-strauss.de/s/suche?query=e.s.motion%2024/7)
 
 |   |   |
 |---|---|
 
- Coming Soon
+ Brandneu: e.s.motion 24/7
 ---
 
-| E.S. MOTION 24/7<br/>---<br/><br/> Die neue Kollektion ist einer der strahlenden Stars in unserem TV-Spot und macht sich jetzt schon warm für die Herbst/Winter Saison 2024.  <br/><br/>Exklusiv: Im Farbweg Kornblau / Warngelb bereits vorab erhältlich - ab Mai 2024!  <br/><br/>Jetzt den Strauss Newsletter abonnieren und rechtzeitig erinnert werden.<br/><br/>[<br/><br/>zum Newsletter<br/><br/>](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)|   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+ Out now
+---
+
+ e.s.motion 24/7
+---
+
+[zur e.s.motion 24/7](https://www.engelbert-strauss.de/s/suche?query=e.s.motion%2024/7)
+
+| E.S. MOTION 24/7<br/>---<br/><br/> Die neue Kollektion ist einer der strahlenden Stars in unserem TV-Spot und macht sich jetzt schon warm für die Herbst/Winter Saison 2024.  <br/><br/>Im exklusiven Farbweg Kornblau/Warngelb bereits ab sofort erhältlich!  <br/><br/>Motion mit Warnschutz - das ist motion 24/7. Jetzt entdecken!|   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 
 [jetzt selbst gestalten](https://www.engelbert-strauss.de/mymotion)
 
