@@ -50,6 +50,8 @@ Memory
 
 16GB  3200MHz memory
 
+32GB  3200MHz memory
+
  Memory
 
  Your Byte will come with 8GB 3200MHz memory (1 × 8GB) by default.
