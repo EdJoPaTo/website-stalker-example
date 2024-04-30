@@ -97,7 +97,7 @@ cirrus incus
   * **64 GB DDR4 (2x32GB)**
     SO-DIMM – 3200MHz
 
-  ##### SSD (M.2 - NVMe)  #####
+  ##### SSD (M.2 - NVMe) #####
 
   Choose between different M.2 SSDs. The NVMe SSDs are also cooled through the case, allowing them to maintain their full speed even under load.
 
