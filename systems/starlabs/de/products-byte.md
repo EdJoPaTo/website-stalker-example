@@ -46,17 +46,23 @@ Memory
 
  8GB
 
-8GB  3200MHz memory
+8GB  3200MHz memory (1 × 8GB)
 
-16GB  3200MHz memory
+16GB  3200MHz memory (1 × 16GB)
 
-32GB  3200MHz memory
+32GB  3200MHz memory (1 × 32GB)
+
+16GB  3200MHz memory (2 × 8GB)
+
+32GB  3200MHz memory (2 × 16GB)
+
+64GB  3200MHz memory (2 × 32GB)
 
  Memory
 
  Your Byte will come with 8GB 3200MHz memory (1 × 8GB) by default.
 
- You can upgrade this to 16GB 3200MHz memory (2 × 8GB).
+ You can upgrade this to 32GB 3200MHz memory (1 × 32GB).
 
  You can upgrade the memory at anytime.
 
@@ -130,11 +136,33 @@ AU Plug  Type I
 
  Power Plug
 
- Your Byte will charge via the USB-C port or the DC Jack and comes with a 65W USB-C charger. It includes one detachable plug, and you choose from UK, Europe, Australia and the USA.
-
- You can purchase [additional plugs](/collections/power-cables).
+ Your Byte can be powered via the USB-C port or the DC Jack and comes with a 36W DC charger. You choose from a UK, Europe, Australia and the USA plug.
 
 [Learn more about Power Plug](#power-plug)
+
+Optional Storage
+
+None
+
+None
+
+1TB SSD  SATA storage
+
+2TB SSD  SATA storage
+
+4TB SSD  SATA storage
+
+8TB SSD  SATA storage
+
+ Storage
+
+ Your Byte will come with 1TB SATA SSD storage by default, which features a sequential read speed of up to 560MB/s. Over-provisioning increases performance and IOPS (Input/Output Operations per Second) whilst enhancing reliability and endurance.
+
+ You can configure it with 8TB SATA SSD storage, giving you more storage capacity and increased performance with sequential read speeds up to 560MB/s.
+
+ You can upgrade or replace the SSD; this requires a small Philips screwdriver.
+
+[Learn more about Storage](#storage)
 
 Optional Accessories
 

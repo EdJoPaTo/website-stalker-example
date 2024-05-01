@@ -28,13 +28,13 @@ Thermal Design Power
 
 Up to
 
- 16  GB
+ 32  GB
 
 3200MHz memory
 
 Up to
 
- 6  TB
+ 8  TB
 
 storage
 

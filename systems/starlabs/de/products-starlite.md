@@ -114,7 +114,7 @@ AU Plug  Type I
 
  Power Plug
 
- Your StarLite will charge via the USB-C port or the DC Jack and comes with a 65W USB-C charger. It includes one detachable plug, and you choose from UK, Europe, Australia and the USA.
+ Your StarLite will charge via the USB-C port and comes with a 65W USB-C charger. It includes one detachable plug, and you choose from UK, Europe, Australia and the USA.
 
  You can purchase [additional plugs](/collections/power-cables).
 
