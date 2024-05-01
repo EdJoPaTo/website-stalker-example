@@ -52,12 +52,6 @@ Memory
 
 32GB  3200MHz memory (1 × 32GB)
 
-16GB  3200MHz memory (2 × 8GB)
-
-32GB  3200MHz memory (2 × 16GB)
-
-64GB  3200MHz memory (2 × 32GB)
-
  Memory
 
  Your Byte will come with 8GB 3200MHz memory (1 × 8GB) by default.
