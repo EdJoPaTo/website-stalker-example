@@ -6,6 +6,70 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: April 30th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4353368616863057116</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Apr 30, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed search showing family games as "From the Store" instead of "In library"
+						<br>
+					</li>
+					<li>
+						Fixed incorrect counts on the search tabs in search results
+						<br>
+					</li>
+					<li>
+						Added "View More in the Store" button to "All" tab in search
+					</li>
+				</ul>
+				<br>
+				<b>
+					SteamInput
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed Regression: Reset to Horizon works again
+						<br>
+					</li>
+					<li>
+						Turn to Face Direction: Added option to allow you to face the last known input direction if no direction is pressed. Will only fire once before a new direction input is required. This emulates "Facing the direction of the character" for many third person games.
+						<br>
+					</li>
+					<li>
+						Renamed "Calibrate Dots per 360" action to "Turn Camera 360" to better describe its function. The numeric changes to reflect the chosen number of angles, so you can easily use this to make a "Turn Camera 180" button (Note: you will always have to calibrate the Dots per 360 value in either Gyro to Mouse or FlickStick modes for each game for this turn to be accurate).
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353368616863057116" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: April 26th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4353368163568940219</link>
 			<content:encoded><![CDATA[<html>
@@ -200,48 +264,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745470645387060" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.5.18 Preview: Old Enough to Vote</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745301338355770</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Apr 19, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue causing no sound output in games that open and close audio devices quickly like Super Blood Hockey
-						<br>
-					</li>
-					<li>
-						Stability and security improvements
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745301338355770" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
