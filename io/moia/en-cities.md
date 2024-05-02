@@ -28,20 +28,6 @@ Absolutely transparent
 
 You find out how much your journey will cost before you book. You can pay using the app.
 
-Extended service hours
-
-We're going all the way to May 1st
-----------
-
-We'll be on the road all night in Hamburg and Hanover, so you can dance into May with ease. Have a blast at the party and get home safely!
-
-**Hamburg**
-**30.04.** Tue 5:00 a.m. – Thu 1:00 a.m.
-
-**Hanover**
-**30.04.** Tue 7:00 a.m. – Wed 4:00 a.m.
-**01.05.** Wed 10:00 a.m. – Wed 10:00 p.m.
-
 Our service area
 
 Hamburg
