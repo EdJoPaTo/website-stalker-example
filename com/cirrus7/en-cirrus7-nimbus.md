@@ -6,7 +6,7 @@ I have never had a higher quality manufactured PC than this one.
 
 [configure now](https://www.cirrus7.com/produkte/cirrus7-nimbus/)
 
-### The cirrus nimbus is extremely energy-efficient thanks to an Intel® CPU with intelligent power-saving functions and an integrated UHD graphics unit. ###
+### The cirrus nimbus is extremely energy-efficient thanks to an Intel® CPU with intelligent power-saving functions and an integrated UHD graphics unit.  ###
 
 ### completely silent due to fanless cooling ###
 
