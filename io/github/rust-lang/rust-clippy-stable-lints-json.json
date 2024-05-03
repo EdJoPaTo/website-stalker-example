@@ -4,7 +4,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for usage of items through absolute paths, like `std::env::current_dir`.\n\n### Why is this bad?\nMany codebases have their own style when it comes to importing, but one that is seldom used\nis using absolute paths *everywhere*. This is generally considered unidiomatic, and you\nshould add a `use` statement.\n\nThe default maximum segments (2) is pretty strict, you may want to increase this in\n`clippy.toml`.\n\nNote: One exception to this is code from macro expansion - this does not lint such cases, as\nusing absolute paths is the proper way of referencing items in one.\n\n### Example\n```rust\nlet x = std::f64::consts::PI;\n```\nUse any of the below instead, or anything else:\n```rust\nuse std::f64;\nuse std::f64::consts;\nuse std::f64::consts::PI;\nlet x = f64::consts::PI;\nlet x = consts::PI;\nlet x = PI;\nuse std::f64::consts as f64_consts;\nlet x = f64_consts::PI;\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `absolute-paths-max-segments`: The maximum number of segments a path can have before being linted, anything above this will\n   be linted. (default: `2`)- `absolute-paths-allowed-crates`: Which crates to allow absolute paths from (default: `[]`)",
+		"docs": "\n### What it does\nChecks for usage of items through absolute paths, like `std::env::current_dir`.\n\n### Why is this bad?\nMany codebases have their own style when it comes to importing, but one that is seldom used\nis using absolute paths *everywhere*. This is generally considered unidiomatic, and you\nshould add a `use` statement.\n\nThe default maximum segments (2) is pretty strict, you may want to increase this in\n`clippy.toml`.\n\nNote: One exception to this is code from macro expansion - this does not lint such cases, as\nusing absolute paths is the proper way of referencing items in one.\n\n### Example\n```rust\nlet x = std::f64::consts::PI;\n```\nUse any of the below instead, or anything else:\n```rust\nuse std::f64;\nuse std::f64::consts;\nuse std::f64::consts::PI;\nlet x = f64::consts::PI;\nlet x = consts::PI;\nlet x = PI;\nuse std::f64::consts as f64_consts;\nlet x = f64_consts::PI;\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `absolute-paths-allowed-crates`: Which crates to allow absolute paths from (default: `[]`)- `absolute-paths-max-segments`: The maximum number of segments a path can have before being linted, anything above this will\n   be linted. (default: `2`)",
 		"group": "restriction",
 		"id": "absolute_paths",
 		"id_span": {
@@ -64,7 +64,7 @@
 		"group": "restriction",
 		"id": "allow_attributes_without_reason",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "allow",
 		"version": "1.61.0"
@@ -245,6 +245,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for code like `foo = bar.clone();`\n\n### Why is this bad?\nCustom `Clone::clone_from()` or `ToOwned::clone_into` implementations allow the objects\nto share resources and therefore avoid allocations.\n\n### Example\n```rust\nstruct Thing;\n\nimpl Clone for Thing {\n    fn clone(&self) -> Self { todo!() }\n    fn clone_from(&mut self, other: &Self) { todo!() }\n}\n\npub fn assign_to_ref(a: &mut Thing, b: Thing) {\n    *a = b.clone();\n}\n```\nUse instead:\n```rust\nstruct Thing;\nimpl Clone for Thing {\n    fn clone(&self) -> Self { todo!() }\n    fn clone_from(&mut self, other: &Self) { todo!() }\n}\n\npub fn assign_to_ref(a: &mut Thing, b: Thing) {\n    a.clone_from(&b);\n}\n```",
+		"group": "perf",
+		"id": "assigning_clones",
+		"id_span": {
+			"path": "src/assigning_clones.rs"
+		},
+		"level": "warn",
+		"version": "1.77.0"
+	},
+	{
+		"applicability": {
 			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
@@ -353,7 +367,7 @@
 		"group": "suspicious",
 		"id": "blanket_clippy_restriction_lints",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "warn",
 		"version": "1.47.0"
@@ -363,7 +377,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for `if` conditions that use blocks containing an\nexpression, statements or conditions that use closures with blocks.\n\n### Why is this bad?\nStyle, using blocks in the condition makes it hard to read.\n\n### Examples\n```rust\nif { true } { /* ... */ }\n\nif { let x = somefunc(); x } { /* ... */ }\n```\n\nUse instead:\n```rust\nif true { /* ... */ }\n\nlet res = { let x = somefunc(); x };\nif res { /* ... */ }\n```\n### Past names\n\n* `block_in_if_condition_expr`\n* `block_in_if_condition_stmt`\n* `blocks_in_if_conditions`\n\n",
+		"docs": "\n### What it does\nChecks for `if` and `match` conditions that use blocks containing an\nexpression, statements or conditions that use closures with blocks.\n\n### Why is this bad?\nStyle, using blocks in the condition makes it hard to read.\n\n### Examples\n```rust\nif { true } { /* ... */ }\n\nif { let x = somefunc(); x } { /* ... */ }\n\nmatch { let e = somefunc(); e } {\n    // ...\n}\n```\n\nUse instead:\n```rust\nif true { /* ... */ }\n\nlet res = { let x = somefunc(); x };\nif res { /* ... */ }\n\nlet res = { let e = somefunc(); e };\nmatch res {\n    // ...\n}\n```\n### Past names\n\n* `block_in_if_condition_expr`\n* `block_in_if_condition_stmt`\n* `blocks_in_if_conditions`\n\n",
 		"former_ids": [
 			"block_in_if_condition_expr",
 			"block_in_if_condition_stmt",
@@ -1218,10 +1232,24 @@
 		"group": "complexity",
 		"id": "deprecated_cfg_attr",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "warn",
 		"version": "1.32.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for `#[cfg_attr(feature = \"cargo-clippy\", ...)]` and for\n`#[cfg(feature = \"cargo-clippy\")]` and suggests to replace it with\n`#[cfg_attr(clippy, ...)]` or `#[cfg(clippy)]`.\n\n### Why is this bad?\nThis feature has been deprecated for years and shouldn't be used anymore.\n\n### Example\n```rust\n#[cfg(feature = \"cargo-clippy\")]\nstruct Bar;\n```\n\nUse instead:\n```rust\n#[cfg(clippy)]\nstruct Bar;\n```",
+		"group": "suspicious",
+		"id": "deprecated_clippy_cfg_attr",
+		"id_span": {
+			"path": "src/attrs/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
 	},
 	{
 		"applicability": {
@@ -1232,7 +1260,7 @@
 		"group": "correctness",
 		"id": "deprecated_semver",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "deny",
 		"version": "pre 1.29.0"
@@ -1601,6 +1629,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nDetects documentation that is empty.\n### Why is this bad?\nEmpty docs clutter code without adding value, reducing readability and maintainability.\n### Example\n```rust\n///\nfn returns_true() -> bool {\n    true\n}\n```\nUse instead:\n```rust\nfn returns_true() -> bool {\n    true\n}\n```",
+		"group": "suspicious",
+		"id": "empty_docs",
+		"id_span": {
+			"path": "src/doc/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
+	},
+	{
+		"applicability": {
 			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
@@ -1650,7 +1692,7 @@
 		"group": "nursery",
 		"id": "empty_line_after_doc_comments",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "allow",
 		"version": "1.70.0"
@@ -1664,7 +1706,7 @@
 		"group": "nursery",
 		"id": "empty_line_after_outer_attr",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "allow",
 		"version": "pre 1.29.0"
@@ -2809,6 +2851,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\n\nThis lint checks that no function newer than the defined MSRV (minimum\nsupported rust version) is used in the crate.\n\n### Why is this bad?\n\nIt would prevent the crate to be actually used with the specified MSRV.\n\n### Example\n```rust\n// MSRV of 1.3.0\nuse std::thread::sleep;\nuse std::time::Duration;\n\n// Sleep was defined in `1.4.0`.\nsleep(Duration::new(1, 0));\n```\n\nTo fix this problem, either increase your MSRV or use another item\navailable in your current MSRV.",
+		"group": "suspicious",
+		"id": "incompatible_msrv",
+		"id_span": {
+			"path": "src/incompatible_msrv.rs"
+		},
+		"level": "warn",
+		"version": "1.77.0"
+	},
+	{
+		"applicability": {
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
@@ -2840,7 +2896,7 @@
 			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nThe lint checks for slice bindings in patterns that are only used to\naccess individual slice values.\n\n### Why is this bad?\nAccessing slice values using indices can lead to panics. Using refutable\npatterns can avoid these. Binding to individual values also improves the\nreadability as they can be named.\n\n### Limitations\nThis lint currently only checks for immutable access inside `if let`\npatterns.\n\n### Example\n```rust\nlet slice: Option<&[u32]> = Some(&[1, 2, 3]);\n\nif let Some(slice) = slice {\n    println!(\"{}\", slice[0]);\n}\n```\nUse instead:\n```rust\nlet slice: Option<&[u32]> = Some(&[1, 2, 3]);\n\nif let Some(&[first, ..]) = slice {\n    println!(\"{}\", first);\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`- `max-suggested-slice-pattern-length`: When Clippy suggests using a slice pattern, this is the maximum number of elements allowed in\n   the slice pattern that is suggested. If more elements are necessary, the lint is suppressed.\n   For example, `[_, _, _, e, ..]` is a slice pattern with 4 elements. (default: `3`)",
+		"docs": "\n### What it does\nThe lint checks for slice bindings in patterns that are only used to\naccess individual slice values.\n\n### Why is this bad?\nAccessing slice values using indices can lead to panics. Using refutable\npatterns can avoid these. Binding to individual values also improves the\nreadability as they can be named.\n\n### Limitations\nThis lint currently only checks for immutable access inside `if let`\npatterns.\n\n### Example\n```rust\nlet slice: Option<&[u32]> = Some(&[1, 2, 3]);\n\nif let Some(slice) = slice {\n    println!(\"{}\", slice[0]);\n}\n```\nUse instead:\n```rust\nlet slice: Option<&[u32]> = Some(&[1, 2, 3]);\n\nif let Some(&[first, ..]) = slice {\n    println!(\"{}\", first);\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `max-suggested-slice-pattern-length`: When Clippy suggests using a slice pattern, this is the maximum number of elements allowed in\n   the slice pattern that is suggested. If more elements are necessary, the lint is suppressed.\n   For example, `[_, _, _, e, ..]` is a slice pattern with 4 elements. (default: `3`)- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "pedantic",
 		"id": "index_refutable_slice",
 		"id_span": {
@@ -2945,7 +3001,7 @@
 			"path": "src/loops/mod.rs"
 		},
 		"level": "allow",
-		"version": "1.75.0"
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -2998,7 +3054,7 @@
 		"group": "pedantic",
 		"id": "inline_always",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "allow",
 		"version": "pre 1.29.0"
@@ -3410,7 +3466,7 @@
 			"path": "src/iter_over_hash_type.rs"
 		},
 		"level": "allow",
-		"version": "1.75.0"
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -3792,6 +3848,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for lint groups with the same priority as lints in the `Cargo.toml`\n[`[lints]` table](https://doc.rust-lang.org/cargo/reference/manifest.html#the-lints-section).\n\nThis lint will be removed once [cargo#12918](https://github.com/rust-lang/cargo/issues/12918)\nis resolved.\n\n### Why is this bad?\nThe order of lints in the `[lints]` is ignored, to have a lint override a group the\n`priority` field needs to be used, otherwise the sort order is undefined.\n\n### Known problems\nDoes not check lints inherited using `lints.workspace = true`\n\n### Example\n```toml\n# Passed as `--allow=clippy::similar_names --warn=clippy::pedantic`\n# which results in `similar_names` being `warn`\n[lints.clippy]\npedantic = \"warn\"\nsimilar_names = \"allow\"\n```\nUse instead:\n```toml\n# Passed as `--warn=clippy::pedantic --allow=clippy::similar_names`\n# which results in `similar_names` being `allow`\n[lints.clippy]\npedantic = { level = \"warn\", priority = -1 }\nsimilar_names = \"allow\"\n```",
+		"group": "correctness",
+		"id": "lint_groups_priority",
+		"id_span": {
+			"path": "src/cargo/mod.rs"
+		},
+		"level": "deny",
+		"version": "1.76.0"
+	},
+	{
+		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
@@ -3887,6 +3957,20 @@
 		},
 		"level": "warn",
 		"version": "1.60.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for the manual creation of C strings (a string with a `NUL` byte at the end), either\nthrough one of the `CStr` constructor functions, or more plainly by calling `.as_ptr()`\non a (byte) string literal with a hardcoded `\\0` byte at the end.\n\n### Why is this bad?\nThis can be written more concisely using `c\"str\"` literals and is also less error-prone,\nbecause the compiler checks for interior `NUL` bytes and the terminating `NUL` byte is inserted automatically.\n\n### Example\n```rust\nfn needs_cstr(_: &CStr) {}\n\nneeds_cstr(CStr::from_bytes_with_nul(b\"Hello\\0\").unwrap());\nunsafe { libc::puts(\"World\\0\".as_ptr().cast()) }\n```\nUse instead:\n```rust\nfn needs_cstr(_: &CStr) {}\n\nneeds_cstr(c\"Hello\");\nunsafe { libc::puts(c\"World\".as_ptr()) }\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
+		"group": "pedantic",
+		"id": "manual_c_str_literals",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "allow",
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -4047,7 +4131,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\nChecks for usage of `option.map(f).unwrap_or_default()` and `result.map(f).unwrap_or_default()` where f is a function or closure that returns the `bool` type.\n\n### Why is this bad?\nReadability. These can be written more concisely as `option.is_some_and(f)` and `result.is_ok_and(f)`.\n\n### Example\n```rust\noption.map(|a| a > 10).unwrap_or_default();\nresult.map(|a| a > 10).unwrap_or_default();\n```\nUse instead:\n```rust\noption.is_some_and(|a| a > 10);\nresult.is_ok_and(|a| a > 10);\n```",
+		"docs": "\n### What it does\nChecks for usage of `option.map(f).unwrap_or_default()` and `result.map(f).unwrap_or_default()` where f is a function or closure that returns the `bool` type.\n\n### Why is this bad?\nReadability. These can be written more concisely as `option.is_some_and(f)` and `result.is_ok_and(f)`.\n\n### Example\n```rust\noption.map(|a| a > 10).unwrap_or_default();\nresult.map(|a| a > 10).unwrap_or_default();\n```\nUse instead:\n```rust\noption.is_some_and(|a| a > 10);\nresult.is_ok_and(|a| a > 10);\n```",
 		"group": "pedantic",
 		"id": "manual_is_variant_and",
 		"id_span": {
@@ -4061,7 +4145,7 @@
 			"applicability": "HasPlaceholders",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\n\nWarn of cases where `let...else` could be used\n\n### Why is this bad?\n\n`let...else` provides a standard construct for this pattern\nthat people can easily recognize. It's also more compact.\n\n### Example\n\n```rust\nlet v = if let Some(v) = w { v } else { return };\n```\n\nCould be written:\n\n```rust\nlet Some(v) = w else { return };\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`- `matches-for-let-else`: Whether the matches should be considered by the lint, and whether there should\n   be filtering for common types. (default: `\"WellKnownTypes\"`)",
+		"docs": "\n### What it does\n\nWarn of cases where `let...else` could be used\n\n### Why is this bad?\n\n`let...else` provides a standard construct for this pattern\nthat people can easily recognize. It's also more compact.\n\n### Example\n\n```rust\nlet v = if let Some(v) = w { v } else { return };\n```\n\nCould be written:\n\n```rust\nlet Some(v) = w else { return };\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `matches-for-let-else`: Whether the matches should be considered by the lint, and whether there should\n   be filtering for common types. (default: `\"WellKnownTypes\"`)- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "pedantic",
 		"id": "manual_let_else",
 		"id_span": {
@@ -4201,7 +4285,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for code to be replaced by `.retain()`.\n### Why is this bad?\n`.retain()` is simpler and avoids needless allocation.\n### Example\n```rust\nlet mut vec = vec![0, 1, 2];\nvec = vec.iter().filter(|&x| x % 2 == 0).copied().collect();\nvec = vec.into_iter().filter(|x| x % 2 == 0).collect();\n```\nUse instead:\n```rust\nlet mut vec = vec![0, 1, 2];\nvec.retain(|x| x % 2 == 0);\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
+		"docs": "\n### What it does\nChecks for code to be replaced by `.retain()`.\n### Why is this bad?\n`.retain()` is simpler and avoids needless allocation.\n### Example\n```rust\nlet mut vec = vec![0, 1, 2];\nvec = vec.iter().filter(|&x| x % 2 == 0).copied().collect();\nvec = vec.into_iter().filter(|x| x % 2 == 0).collect();\n```\nUse instead:\n```rust\nlet mut vec = vec![0, 1, 2];\nvec.retain(|x| x % 2 == 0);\nvec.retain(|x| x % 2 == 0);\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "perf",
 		"id": "manual_retain",
 		"id_span": {
@@ -4661,7 +4745,7 @@
 		"group": "suspicious",
 		"id": "maybe_misused_cfg",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "warn",
 		"version": "1.69.0"
@@ -4773,7 +4857,7 @@
 		"group": "correctness",
 		"id": "mismatched_target_os",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "deny",
 		"version": "1.45.0"
@@ -5007,6 +5091,20 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
+		"docs": "\n### What it does\nChecks that an item has only one kind of attributes.\n\n### Why is this bad?\nHaving both kinds of attributes makes it more complicated to read code.\n\n### Example\n```rust\n#[cfg(linux)]\npub fn foo() {\n    #![cfg(windows)]\n}\n```\nUse instead:\n```rust\n#[cfg(linux)]\n#[cfg(windows)]\npub fn foo() {\n}\n```",
+		"group": "suspicious",
+		"id": "mixed_attributes_style",
+		"id_span": {
+			"path": "src/attrs/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
 		"docs": "\n### What it does\nWarns on hexadecimal literals with mixed-case letter\ndigits.\n\n### Why is this bad?\nIt looks confusing.\n\n### Example\n```rust\n0x1a9BAcD\n```\n\nUse instead:\n```rust\n0x1A9BACD\n```",
 		"group": "style",
 		"id": "mixed_case_hex_literals",
@@ -5083,7 +5181,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for modulo arithmetic.\n\n### Why is this bad?\nThe results of modulo (%) operation might differ\ndepending on the language, when negative numbers are involved.\nIf you interop with different languages it might be beneficial\nto double check all places that use modulo arithmetic.\n\nFor example, in Rust `17 % -3 = 2`, but in Python `17 % -3 = -1`.\n\n### Example\n```rust\nlet x = -17 % 3;\n```",
+		"docs": "\n### What it does\nChecks for modulo arithmetic.\n\n### Why is this bad?\nThe results of modulo (%) operation might differ\ndepending on the language, when negative numbers are involved.\nIf you interop with different languages it might be beneficial\nto double check all places that use modulo arithmetic.\n\nFor example, in Rust `17 % -3 = 2`, but in Python `17 % -3 = -1`.\n\n### Example\n```rust\nlet x = -17 % 3;\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `allow-comparison-to-zero`: Don't lint when comparing the result of a modulo operation to zero. (default: `true`)",
 		"group": "restriction",
 		"id": "modulo_arithmetic",
 		"id_span": {
@@ -5119,6 +5217,20 @@
 		},
 		"level": "warn",
 		"version": "1.65.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nCheck if a generic is defined both in the bound predicate and in the `where` clause.\n\n### Why is this bad?\nIt can be confusing for developers when seeing bounds for a generic in multiple places.\n\n### Example\n```rust\nfn ty<F: std::fmt::Debug>(a: F)\nwhere\n    F: Sized,\n{}\n```\nUse instead:\n```rust\nfn ty<F>(a: F)\nwhere\n    F: Sized + std::fmt::Debug,\n{}\n```",
+		"group": "suspicious",
+		"id": "multiple_bound_locations",
+		"id_span": {
+			"path": "src/multiple_bound_locations.rs"
+		},
+		"level": "warn",
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -5845,7 +5957,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for binding to underscore prefixed variable without side-effects.\n\n### Why is this bad?\nUnlike dead code, these bindings are actually\nexecuted. However, as they have no effect and shouldn't be used further on, all they\ndo is make the code less readable.\n\n### Known problems\nFurther usage of this variable is not checked, which can lead to false positives if it is\nused later in the code.\n\n### Example\n```rust\nlet _i_serve_no_purpose = 1;\n```",
+		"docs": "\n### What it does\nChecks for binding to underscore prefixed variable without side-effects.\n\n### Why is this bad?\nUnlike dead code, these bindings are actually\nexecuted. However, as they have no effect and shouldn't be used further on, all they\ndo is make the code less readable.\n\n### Example\n```rust\nlet _i_serve_no_purpose = 1;\n```",
 		"group": "pedantic",
 		"id": "no_effect_underscore_binding",
 		"id_span": {
@@ -5925,7 +6037,7 @@
 		"group": "style",
 		"id": "non_minimal_cfg",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "warn",
 		"version": "1.71.0"
@@ -6806,7 +6918,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nLooks for calls to [`Stdin::read_line`] to read a line from the standard input\ninto a string, then later attempting to parse this string into a type without first trimming it, which will\nalways fail because the string has a trailing newline in it.\n\n### Why is this bad?\nThe `.parse()` call will always fail.\n\n### Example\n```rust\nlet mut input = String::new();\nstd::io::stdin().read_line(&mut input).expect(\"Failed to read a line\");\nlet num: i32 = input.parse().expect(\"Not a number!\");\nassert_eq!(num, 42); // we never even get here!\n```\nUse instead:\n```rust\nlet mut input = String::new();\nstd::io::stdin().read_line(&mut input).expect(\"Failed to read a line\");\nlet num: i32 = input.trim_end().parse().expect(\"Not a number!\");\n//                  ^^^^^^^^^^^ remove the trailing newline\nassert_eq!(num, 42);\n```",
+		"docs": "\n### What it does\nLooks for calls to [`Stdin::read_line`] to read a line from the standard input\ninto a string, then later attempting to use that string for an operation that will never\nwork for strings with a trailing newline character in it (e.g. parsing into a `i32`).\n\n### Why is this bad?\nThe operation will always fail at runtime no matter what the user enters, thus\nmaking it a useless operation.\n\n### Example\n```rust\nlet mut input = String::new();\nstd::io::stdin().read_line(&mut input).expect(\"Failed to read a line\");\nlet num: i32 = input.parse().expect(\"Not a number!\");\nassert_eq!(num, 42); // we never even get here!\n```\nUse instead:\n```rust\nlet mut input = String::new();\nstd::io::stdin().read_line(&mut input).expect(\"Failed to read a line\");\nlet num: i32 = input.trim_end().parse().expect(\"Not a number!\");\n//                  ^^^^^^^^^^^ remove the trailing newline\nassert_eq!(num, 42);\n```",
 		"group": "correctness",
 		"id": "read_line_without_trim",
 		"id_span": {
@@ -6935,7 +7047,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for closures which just call another function where\nthe function can be called directly. `unsafe` functions or calls where types\nget adjusted are ignored.\n\n### Why is this bad?\nNeedlessly creating a closure adds code for no benefit\nand gives the optimizer more work.\n\n### Known problems\nIf creating the closure inside the closure has a side-\neffect then moving the closure creation out will change when that side-\neffect runs.\nSee [#1439](https://github.com/rust-lang/rust-clippy/issues/1439) for more details.\n\n### Example\n```rust\nxs.map(|x| foo(x))\n```\n\nUse instead:\n```rust\n// where `foo(_)` is a plain function that takes the exact argument type of `x`.\nxs.map(foo)\n```",
+		"docs": "\n### What it does\nChecks for closures which just call another function where\nthe function can be called directly. `unsafe` functions, calls where types\nget adjusted or where the callee is marked `#[track_caller]` are ignored.\n\n### Why is this bad?\nNeedlessly creating a closure adds code for no benefit\nand gives the optimizer more work.\n\n### Known problems\nIf creating the closure inside the closure has a side-\neffect then moving the closure creation out will change when that side-\neffect runs.\nSee [#1439](https://github.com/rust-lang/rust-clippy/issues/1439) for more details.\n\n### Example\n```rust\nxs.map(|x| foo(x))\n```\n\nUse instead:\n```rust\n// where `foo(_)` is a plain function that takes the exact argument type of `x`.\nxs.map(foo)\n```",
 		"group": "style",
 		"id": "redundant_closure",
 		"id_span": {
@@ -7145,6 +7257,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for casts of references to pointer using `as`\nand suggests `std::ptr::from_ref` and `std::ptr::from_mut` instead.\n\n### Why is this bad?\nUsing `as` casts may result in silently changing mutability or type.\n\n### Example\n```rust\nlet a_ref = &1;\nlet a_ptr = a_ref as *const _;\n```\nUse instead:\n```rust\nlet a_ref = &1;\nlet a_ptr = std::ptr::from_ref(a_ref);\n```",
+		"group": "pedantic",
+		"id": "ref_as_ptr",
+		"id_span": {
+			"path": "src/casts/mod.rs"
+		},
+		"level": "allow",
+		"version": "1.77.0"
+	},
+	{
+		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
@@ -7225,7 +7351,7 @@
 			"path": "src/repeat_vec_with_capacity.rs"
 		},
 		"level": "warn",
-		"version": "1.74.0"
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -7656,7 +7782,7 @@
 		"group": "pedantic",
 		"id": "should_panic_without_expect",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "allow",
 		"version": "1.74.0"
@@ -8103,7 +8229,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nDetects struct fields that are prefixed or suffixed\nby the same characters or the name of the struct itself.\n\n### Why is this bad?\nInformation common to all struct fields is better represented in the struct name.\n\n### Limitations\nCharacters with no casing will be considered when comparing prefixes/suffixes\nThis applies to numbers and non-ascii characters without casing\ne.g. `foo1` and `foo2` is considered to have different prefixes\n(the prefixes are `foo1` and `foo2` respectively), as also `bar螃`, `bar蟹`\n\n### Example\n```rust\nstruct Cake {\n    cake_sugar: u8,\n    cake_flour: u8,\n    cake_eggs: u8\n}\n```\nUse instead:\n```rust\nstruct Cake {\n    sugar: u8,\n    flour: u8,\n    eggs: u8\n}\n```",
+		"docs": "\n### What it does\nDetects struct fields that are prefixed or suffixed\nby the same characters or the name of the struct itself.\n\n### Why is this bad?\nInformation common to all struct fields is better represented in the struct name.\n\n### Limitations\nCharacters with no casing will be considered when comparing prefixes/suffixes\nThis applies to numbers and non-ascii characters without casing\ne.g. `foo1` and `foo2` is considered to have different prefixes\n(the prefixes are `foo1` and `foo2` respectively), as also `bar螃`, `bar蟹`\n\n### Example\n```rust\nstruct Cake {\n    cake_sugar: u8,\n    cake_flour: u8,\n    cake_eggs: u8\n}\n```\nUse instead:\n```rust\nstruct Cake {\n    sugar: u8,\n    flour: u8,\n    eggs: u8\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `struct-field-name-threshold`: The minimum number of struct fields for the lints about field names to trigger (default: `3`)",
 		"group": "pedantic",
 		"id": "struct_field_names",
 		"id_span": {
@@ -8362,7 +8488,7 @@
 			"path": "src/doc/mod.rs"
 		},
 		"level": "warn",
-		"version": "1.40.0"
+		"version": "1.76.0"
 	},
 	{
 		"applicability": {
@@ -8419,6 +8545,20 @@
 		},
 		"level": "warn",
 		"version": "1.58.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for direct implementations of `ToString`.\n### Why is this bad?\nThis trait is automatically implemented for any type which implements the `Display` trait.\nAs such, `ToString` shouldn’t be implemented directly: `Display` should be implemented instead,\nand you get the `ToString` implementation for free.\n### Example\n```rust\nstruct Point {\n  x: usize,\n  y: usize,\n}\n\nimpl ToString for Point {\n  fn to_string(&self) -> String {\n    format!(\"({}, {})\", self.x, self.y)\n  }\n}\n```\nUse instead:\n```rust\nstruct Point {\n  x: usize,\n  y: usize,\n}\n\nimpl std::fmt::Display for Point {\n  fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {\n    write!(f, \"({}, {})\", self.x, self.y)\n  }\n}\n```",
+		"group": "style",
+		"id": "to_string_trait_impl",
+		"id_span": {
+			"path": "src/to_string_trait_impl.rs"
+		},
+		"level": "warn",
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -8789,7 +8929,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nThis lint warns about unnecessary type repetitions in trait bounds\n\n### Why is this bad?\nRepeating the type for every bound makes the code\nless readable than combining the bounds\n\n### Example\n```rust\npub fn foo<T>(t: T) where T: Copy, T: Clone {}\n```\n\nUse instead:\n```rust\npub fn foo<T>(t: T) where T: Copy + Clone {}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`- `max-trait-bounds`: The maximum number of bounds a trait can have to be linted (default: `3`)",
+		"docs": "\n### What it does\nThis lint warns about unnecessary type repetitions in trait bounds\n\n### Why is this bad?\nRepeating the type for every bound makes the code\nless readable than combining the bounds\n\n### Example\n```rust\npub fn foo<T>(t: T) where T: Copy, T: Clone {}\n```\n\nUse instead:\n```rust\npub fn foo<T>(t: T) where T: Copy + Clone {}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `max-trait-bounds`: The maximum number of bounds a trait can have to be linted (default: `3`)- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "nursery",
 		"id": "type_repetition_in_bounds",
 		"id_span": {
@@ -8831,7 +8971,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for `unsafe` blocks and impls without a `// SAFETY: ` comment\nexplaining why the unsafe operations performed inside\nthe block are safe.\n\nNote the comment must appear on the line(s) preceding the unsafe block\nwith nothing appearing in between. The following is ok:\n```rust\nfoo(\n    // SAFETY:\n    // This is a valid safety comment\n    unsafe { *x }\n)\n```\nBut neither of these are:\n```rust\n// SAFETY:\n// This is not a valid safety comment\nfoo(\n    /* SAFETY: Neither is this */ unsafe { *x },\n);\n```\n\n### Why is this bad?\nUndocumented unsafe blocks and impls can make it difficult to\nread and maintain code, as well as uncover unsoundness\nand bugs.\n\n### Example\n```rust\nuse std::ptr::NonNull;\nlet a = &mut 42;\n\nlet ptr = unsafe { NonNull::new_unchecked(a) };\n```\nUse instead:\n```rust\nuse std::ptr::NonNull;\nlet a = &mut 42;\n\n// SAFETY: references are guaranteed to be non-null.\nlet ptr = unsafe { NonNull::new_unchecked(a) };\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `accept-comment-above-statement`: Whether to accept a safety comment to be placed above the statement containing the `unsafe` block (default: `true`)- `accept-comment-above-attributes`: Whether to accept a safety comment to be placed above the attributes for the `unsafe` block (default: `true`)",
+		"docs": "\n### What it does\nChecks for `unsafe` blocks and impls without a `// SAFETY: ` comment\nexplaining why the unsafe operations performed inside\nthe block are safe.\n\nNote the comment must appear on the line(s) preceding the unsafe block\nwith nothing appearing in between. The following is ok:\n```rust\nfoo(\n    // SAFETY:\n    // This is a valid safety comment\n    unsafe { *x }\n)\n```\nBut neither of these are:\n```rust\n// SAFETY:\n// This is not a valid safety comment\nfoo(\n    /* SAFETY: Neither is this */ unsafe { *x },\n);\n```\n\n### Why is this bad?\nUndocumented unsafe blocks and impls can make it difficult to\nread and maintain code, as well as uncover unsoundness\nand bugs.\n\n### Example\n```rust\nuse std::ptr::NonNull;\nlet a = &mut 42;\n\nlet ptr = unsafe { NonNull::new_unchecked(a) };\n```\nUse instead:\n```rust\nuse std::ptr::NonNull;\nlet a = &mut 42;\n\n// SAFETY: references are guaranteed to be non-null.\nlet ptr = unsafe { NonNull::new_unchecked(a) };\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `accept-comment-above-attributes`: Whether to accept a safety comment to be placed above the attributes for the `unsafe` block (default: `true`)- `accept-comment-above-statement`: Whether to accept a safety comment to be placed above the statement containing the `unsafe` block (default: `true`)",
 		"group": "restriction",
 		"id": "undocumented_unsafe_blocks",
 		"id_span": {
@@ -8915,7 +9055,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nDetect when a variable is not inlined in a format string,\nand suggests to inline it.\n\n### Why is this bad?\nNon-inlined code is slightly more difficult to read and understand,\nas it requires arguments to be matched against the format string.\nThe inlined syntax, where allowed, is simpler.\n\n### Example\n```rust\nformat!(\"{}\", var);\nformat!(\"{v:?}\", v = var);\nformat!(\"{0} {0}\", var);\nformat!(\"{0:1$}\", var, width);\nformat!(\"{:.*}\", prec, var);\n```\nUse instead:\n```rust\nformat!(\"{var}\");\nformat!(\"{var:?}\");\nformat!(\"{var} {var}\");\nformat!(\"{var:width$}\");\nformat!(\"{var:.prec$}\");\n```\n\nIf allow-mixed-uninlined-format-args is set to false in clippy.toml,\nthe following code will also trigger the lint:\n```rust\nformat!(\"{} {}\", var, 1+2);\n```\nUse instead:\n```rust\nformat!(\"{var} {}\", 1+2);\n```\n\n### Known Problems\n\nIf a format string contains a numbered argument that cannot be inlined\nnothing will be suggested, e.g. `println!(\"{0}={1}\", var, 1+2)`.\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`- `allow-mixed-uninlined-format-args`: Whether to allow mixed uninlined format args, e.g. `format!(\"{} {}\", a, foo.bar)` (default: `true`)",
+		"docs": "\n### What it does\nDetect when a variable is not inlined in a format string,\nand suggests to inline it.\n\n### Why is this bad?\nNon-inlined code is slightly more difficult to read and understand,\nas it requires arguments to be matched against the format string.\nThe inlined syntax, where allowed, is simpler.\n\n### Example\n```rust\nformat!(\"{}\", var);\nformat!(\"{v:?}\", v = var);\nformat!(\"{0} {0}\", var);\nformat!(\"{0:1$}\", var, width);\nformat!(\"{:.*}\", prec, var);\n```\nUse instead:\n```rust\nformat!(\"{var}\");\nformat!(\"{var:?}\");\nformat!(\"{var} {var}\");\nformat!(\"{var:width$}\");\nformat!(\"{var:.prec$}\");\n```\n\nIf allow-mixed-uninlined-format-args is set to false in clippy.toml,\nthe following code will also trigger the lint:\n```rust\nformat!(\"{} {}\", var, 1+2);\n```\nUse instead:\n```rust\nformat!(\"{var} {}\", 1+2);\n```\n\n### Known Problems\n\nIf a format string contains a numbered argument that cannot be inlined\nnothing will be suggested, e.g. `println!(\"{0}={1}\", var, 1+2)`.\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `allow-mixed-uninlined-format-args`: Whether to allow mixed uninlined format args, e.g. `format!(\"{} {}\", a, foo.bar)` (default: `true`)- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "pedantic",
 		"id": "uninlined_format_args",
 		"id_span": {
@@ -9010,7 +9150,21 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for `#[cfg_attr(clippy, allow(clippy::lint))]`\nand suggests to replace it with `#[allow(clippy::lint)]`.\n\n### Why is this bad?\nThere is no reason to put clippy attributes behind a clippy `cfg` as they are not\nrun by anything else than clippy.\n\n### Example\n```rust\n#![cfg_attr(clippy, allow(clippy::deprecated_cfg_attr))]\n```\n\nUse instead:\n```rust\n#![allow(clippy::deprecated_cfg_attr)]\n```",
+		"group": "suspicious",
+		"id": "unnecessary_clippy_cfg",
+		"id_span": {
+			"path": "src/attrs/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for calls to `TryInto::try_into` and `TryFrom::try_from` when their infallible counterparts\ncould be used.\n\n### Why is this bad?\nIn those cases, the `TryInto` and `TryFrom` trait implementation is a blanket impl that forwards\nto `Into` or `From`, which always succeeds.\nThe returned `Result<_, Infallible>` requires error handling to get the contained value\neven though the conversion can never fail.\n\n### Example\n```rust\nlet _: Result<i64, _> = 1i32.try_into();\nlet _: Result<i64, _> = <_>::try_from(1i32);\n```\nUse `from`/`into` instead:\n```rust\nlet _: i64 = 1i32.into();\nlet _: i64 = <_>::from(1i32);\n```",
@@ -9063,6 +9217,20 @@
 		},
 		"level": "warn",
 		"version": "pre 1.29.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks the usage of `.get().is_some()` or `.get().is_none()` on std map types.\n\n### Why is this bad?\nIt can be done in one call with `.contains()`/`.contains_keys()`.\n\n### Example\n```rust\nlet s: HashSet<String> = HashSet::new();\nif s.get(\"a\").is_some() {\n    // code\n}\n```\nUse instead:\n```rust\nlet s: HashSet<String> = HashSet::new();\nif s.contains(\"a\") {\n    // code\n}\n```",
+		"group": "suspicious",
+		"id": "unnecessary_get_then_check",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
 	},
 	{
 		"applicability": {
@@ -9164,6 +9332,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for usage of `.map_or_else()` \"map closure\" for `Result` type.\n\n### Why is this bad?\nThis can be written more concisely by using `unwrap_or_else()`.\n\n### Example\n```rust\nlet x: Result<u32, ()> = Ok(0);\nlet y = x.map_or_else(|err| handle_error(err), |n| n);\n```\nUse instead:\n```rust\nlet x: Result<u32, ()> = Ok(0);\nlet y = x.unwrap_or_else(|err| handle_error(err));\n```",
+		"group": "suspicious",
+		"id": "unnecessary_result_map_or_else",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.77.0"
+	},
+	{
+		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
@@ -9234,7 +9416,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for unnecessary calls to [`ToOwned::to_owned`](https://doc.rust-lang.org/std/borrow/trait.ToOwned.html#tymethod.to_owned)\nand other `to_owned`-like functions.\n\n### Why is this bad?\nThe unnecessary calls result in useless allocations.\n\n### Known problems\n`unnecessary_to_owned` can falsely trigger if `IntoIterator::into_iter` is applied to an\nowned copy of a resource and the resource is later used mutably. See\n[#8148](https://github.com/rust-lang/rust-clippy/issues/8148).\n\n### Example\n```rust\nlet path = std::path::Path::new(\"x\");\nfoo(&path.to_string_lossy().to_string());\nfn foo(s: &str) {}\n```\nUse instead:\n```rust\nlet path = std::path::Path::new(\"x\");\nfoo(&path.to_string_lossy());\nfn foo(s: &str) {}\n```",
@@ -9710,7 +9892,7 @@
 		"group": "correctness",
 		"id": "useless_attribute",
 		"id_span": {
-			"path": "src/attrs.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "deny",
 		"version": "pre 1.29.0"
@@ -9947,7 +10129,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for wildcard imports `use _::*`.\n\n### Why is this bad?\nwildcard imports can pollute the namespace. This is especially bad if\nyou try to import something through a wildcard, that already has been imported by name from\na different source:\n\n```rust\nuse crate1::foo; // Imports a function named foo\nuse crate2::*; // Has a function named foo\n\nfoo(); // Calls crate1::foo\n```\n\nThis can lead to confusing error messages at best and to unexpected behavior at worst.\n\n### Exceptions\nWildcard imports are allowed from modules that their name contains `prelude`. Many crates\n(including the standard library) provide modules named \"prelude\" specifically designed\nfor wildcard import.\n\n`use super::*` is allowed in test modules. This is defined as any module with \"test\" in the name.\n\nThese exceptions can be disabled using the `warn-on-all-wildcard-imports` configuration flag.\n\n### Known problems\nIf macros are imported through the wildcard, this macro is not included\nby the suggestion and has to be added by hand.\n\nApplying the suggestion when explicit imports of the things imported with a glob import\nexist, may result in `unused_imports` warnings.\n\n### Example\n```rust\nuse crate1::*;\n\nfoo();\n```\n\nUse instead:\n```rust\nuse crate1::foo;\n\nfoo();\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `warn-on-all-wildcard-imports`: Whether to allow certain wildcard imports (prelude, super in tests). (default: `false`)",
+		"docs": "\n### What it does\nChecks for wildcard imports `use _::*`.\n\n### Why is this bad?\nwildcard imports can pollute the namespace. This is especially bad if\nyou try to import something through a wildcard, that already has been imported by name from\na different source:\n\n```rust\nuse crate1::foo; // Imports a function named foo\nuse crate2::*; // Has a function named foo\n\nfoo(); // Calls crate1::foo\n```\n\nThis can lead to confusing error messages at best and to unexpected behavior at worst.\n\n### Exceptions\nWildcard imports are allowed from modules that their name contains `prelude`. Many crates\n(including the standard library) provide modules named \"prelude\" specifically designed\nfor wildcard import.\n\n`use super::*` is allowed in test modules. This is defined as any module with \"test\" in the name.\n\nThese exceptions can be disabled using the `warn-on-all-wildcard-imports` configuration flag.\n\n### Known problems\nIf macros are imported through the wildcard, this macro is not included\nby the suggestion and has to be added by hand.\n\nApplying the suggestion when explicit imports of the things imported with a glob import\nexist, may result in `unused_imports` warnings.\n\n### Example\n```rust\nuse crate1::*;\n\nfoo();\n```\n\nUse instead:\n```rust\nuse crate1::foo;\n\nfoo();\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `allowed-wildcard-imports`: List of path segments allowed to have wildcard imports.\n\n   #### Example\n\n```toml\n   allowed-wildcard-imports = [ \"utils\", \"common\" ]\n   ```\n\n   #### Noteworthy\n\n   1. This configuration has no effects if used with `warn_on_all_wildcard_imports = true`.\n   2. Paths with any segment that containing the word 'prelude'\n   are already allowed by default. (default: `[]`)- `warn-on-all-wildcard-imports`: Whether to allow certain wildcard imports (prelude, super in tests). (default: `false`)",
 		"group": "pedantic",
 		"id": "wildcard_imports",
 		"id_span": {
