@@ -6,6 +6,90 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: May 3rd</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4353368787464084133</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 3, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed download notification for newly downloaded DLC not showing the correct name.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed desktop notifications no longer displaying after editing notes for a game
+					</li>
+				</ul>
+				<br>
+				<b>
+					Linux
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed problems downloading Proton 9.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fix Regression for "Custom Deadzones" not applying correctly.
+						<br>
+					</li>
+					<li>
+						UI: Joystick Mouse Deadzone controls now use the common Deadzone Editor.
+						<br>
+					</li>
+					<li>
+						Added "Invert Command Binding" for FlickStick's Outer Ring Command.
+						<br>
+					</li>
+					<li>
+						Added an option to allow the FlickStick to trigger a Flick Turn if the stick is thrown when the action set/action layer/mode shift is activated.
+						<br>
+					</li>
+					<li>
+						Reset Camera to Horizon/Turn Camera to Face Direction/ Turn Camera 360: these actions will still work even if Flick Stick or Gyro to Mouse are removed from your settings. Dots per 360 must first be calibrated using those two modes, however.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353368787464084133" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: April 30th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4353368616863057116</link>
 			<content:encoded><![CDATA[<html>
@@ -226,44 +310,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745470645537691" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.5.19 Preview: I&apos;m Running Out of Witty Names for These</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745470645387060</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Apr 22, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Additional stability and security improvements
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745470645387060" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
