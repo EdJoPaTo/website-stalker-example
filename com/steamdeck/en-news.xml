@@ -75,6 +75,11 @@
 						Reset Camera to Horizon/Turn Camera to Face Direction/ Turn Camera 360: these actions will still work even if Flick Stick or Gyro to Mouse are removed from your settings. Dots per 360 must first be calibrated using those two modes, however.
 					</li>
 				</ul>
+				<br>
+				<b>
+					Note:
+				</b>
+				this beta was re-released to fix a regression in opening the onscreen keyboard in Desktop Mode.
 			</div>
 			<div>
 				<div>
