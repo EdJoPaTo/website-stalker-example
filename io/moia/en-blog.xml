@@ -6,6 +6,22 @@
 		<description>The MOIA blog you will learn everything that moves the MOIA community and get exciting insights into the world of MOIA.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Accessibility Hamburg: MOIA&apos;s barrier-free service</title>
+			<link>https://www.moia.io/en/blog/accessibility-hamburg</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<span>
+				04.05.2024
+			</span>
+			At the beginning of 2023, we added 15 accessible vehicles to our ridepooling fleet. And the current figures show: The demand for our service among wheelchair users and people with disabilities is enormous.
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Autonomy recap: strong partnerships for the mobility transition</title>
 			<link>https://www.moia.io/en/blog/Autonomy-in-Paris</link>
 			<content:encoded><![CDATA[<html>
@@ -129,22 +145,6 @@
 				17.09.2023
 			</span>
 			Around a third of the kilometres travelled in Germany are for work. Corporate mobility therefore plays an important role in the mobility revolution. Olga Nevska aims to electrify Telekom's entire fleet and talks about the challenges of this change and her own MaaS app "goodride" in an interview.
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>A simple explanation of mobility terms: What are the differences between carsharing, ridepooling, ridesharing, ridehailing, and carpooling?</title>
-			<link>https://www.moia.io/en/blog/explainer-ridepooling-ridehailing-carsharing-carpooling</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<span>
-				27.08.2023
-			</span>
-			In a time, when traffic jams, parking problems, and high CO2 emissions are an afterthought, we will live in a world where people can get from place to place efficiently, comfortably and in an environmentally friendly way. We explain how on-demand concepts are already contributing to the mobility revolution today.
 		</div>
 	</body>
 </html>]]></content:encoded>
