@@ -6,6 +6,236 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: May 7th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4353369145003418738</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 7, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable (default) channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed Steam client menus opening in separate windows from main window after sleep/account change.
+						<br>
+					</li>
+					<li>
+						Fixed crash when playing back certain media in Steam music player
+						<br>
+					</li>
+					<li>
+						Fixed issue loading and saving the app achievement cache file which in some cases caused excessive memory usage in steamwebhelper.
+						<br>
+					</li>
+					<li>
+						Fixed notifications intermittently being queued until a game is launched.
+						<br>
+					</li>
+					<li>
+						Reduced network traffic at startup and reconnect
+						<br>
+					</li>
+					<li>
+						Fixed regression causing Steam News button to not work
+						<br>
+					</li>
+					<li>
+						Fixed secondary context menu opening when right-clicking open context menu.
+						<br>
+					</li>
+					<li>
+						Fix an error when launching some games that was introduced in the previous beta
+						<br>
+					</li>
+					<li>
+						If a game failed to update, show why on the details page as well as the downloads page.
+						<br>
+					</li>
+					<li>
+						Made taking screenshots more responsive
+						<br>
+					</li>
+					<li>
+						Modified CSS classnames to reduce package size and reduce feature leaks
+						<br>
+					</li>
+					<li>
+						Fixed some causes of steamwebhelper crashes
+						<br>
+					</li>
+					<li>
+						Fixed slow startup on busy systems
+						<br>
+					</li>
+					<li>
+						Fixed startup delays when running in flatpak environments.
+						<br>
+					</li>
+					<li>
+						Changed the default scale from 200% to 150% on a 4K monitor
+						<br>
+					</li>
+					<li>
+						Fixed a case where the store tab would fail to display any content after maximizing the steam window.
+						<br>
+					</li>
+					<li>
+						Fixed a case where the window may become unresponsive until resized.
+						<br>
+					</li>
+					<li>
+						No longer listing incompatible options under an application's Compatibility settings
+						<br>
+					</li>
+					<li>
+						Fixed a situation where Steam would attempt to execute the Windows version of a title without using Steam Play
+					</li>
+				</ul>
+				<br>
+				<b>
+					Big Picture
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue where after playing a game it would require extra B button presses to back out of the game's library page.
+						<br>
+					</li>
+					<li>
+						Fixed support alert messages intermittently producing an error at startup.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Cloud
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed case where files for one Steam account could be overwritten by files from another Steam account if the first account had logged in but not played the game yet on the device.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						New Configurator feature "Swap Left with Right": While editing a Controller Configuration, you can Swap the behavior of the Left Stick and the Right Stick, or Left Trackpad and Right Trackpad etc. Highlight the source you want to swap in the "Edit Layout" page, and the "Y" button should appear to allow the swap. This should be handy for "South Paws".
+						<br>
+					</li>
+					<li>
+						New Mouse Action: "Reset to Horizon". This helper can reset your camera to the horizon by sending 180 degrees down, and then 90 degrees up after a very short delay. This action can be bound to any activator slot.
+						<br>
+					</li>
+					<li>
+						New Mouse Action: "Turn Camera 360". By default this will generate 360 degrees of rotation.
+						<br>
+					</li>
+					<li>
+						New Mouse Action: "Turn to Face Direction". When activating this, the camera will turn to face the direction you are pushing on the Left Stick (default - Track pads, DPads and Buttons can also be used). Can be combined with "Reset to Horizon" to produce a behavior similar to Splatoon's camera reset button.
+						<br>
+					</li>
+					<li>
+						Note: The New Mouse actions all require Dots per 360 to calibrated for any of them to be accurate. To do this, use "Turn Camera 360" in combination with either "FlickStick" or "Gyro to Mouse", and make sure that one press of your "Turn Camera 360" makes one 360 turn in game. If it does not, tune the Dots per 360 setting from the Controller Quick Settings menu. You do not have to use Gyro to Mouse or FlickStick after this step.
+						<br>
+					</li>
+					<li>
+						FlickStick mode's templates will now default to binding to the correct "Stick Click", but only in Mouse only or Mixed config templates.
+						<br>
+					</li>
+					<li>
+						Added "Invert Command Binding" for FlickStick's Outer Ring Command.
+						<br>
+					</li>
+					<li>
+						Added an option to allow the FlickStick to trigger a Flick Turn if the stick is thrown when the action set/action layer/mode shift is activate.
+						<br>
+					</li>
+					<li>
+						Fixed SteamDeck Configurator Templates' FlickStick default bindings.
+						<br>
+					</li>
+					<li>
+						Gyro Button Picker: you can now choose from any combination of pre-existing gyro enabling buttons. This replaces the "Gyro Activation" Dropdown.
+						<br>
+					</li>
+					<li>
+						Config Defaults: Mouse templates, and "Mixed" Mouse and Gamepad Templates now use "Gyro to Mouse" instead of "As Mouse".
+						<br>
+					</li>
+					<li>
+						Gyro to Joystick modes now no longer generate haptic events when outside the active range.
+						<br>
+					</li>
+					<li>
+						(On those controllers with haptics support) a haptic bump will occur when gyroscope is turned on and off due to the Gyro Enable/Disable/Toggle Button, if haptics are not set to "Off". Choose to disable/enable this from the Gyro Button Picker.
+						<br>
+					</li>
+					<li>
+						Added Dualsense and Dualshock Gyro Enable/Disable/Toggle "center touch" and "center click" for completeness/to help with certain Paddle Mods.
+						<br>
+					</li>
+					<li>
+						Fixed inverted axes when using "Setup Device Inputs"
+						<br>
+					</li>
+					<li>
+						Fixed swapped A/B buttons when using Nintendo GameCube controllers
+						<br>
+					</li>
+					<li>
+						UI: Joystick Mouse Deadzone controls now use the common Deadzone Editor.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the streaming button staying stuck on "Stop" when the streaming client exits quickly
+						<br>
+					</li>
+					<li>
+						Improved recovery from network disconnections before starting the stream
+						<br>
+					</li>
+					<li>
+						Fixed continually being prompted for the PIN when pairing a device
+						<br>
+					</li>
+					<li>
+						Fixed the performance graph being reset to icons when changing to Enhanced 1080p or Enhanced 4K
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353369145003418738" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: May 3rd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4353368787464084133</link>
 			<content:encoded><![CDATA[<html>
@@ -266,55 +496,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353367983027414980" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: April 22nd</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4356745470645537691</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Apr 22, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed slow startup on busy systems
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed the streaming button staying stuck on "Stop" when the streaming client exits quickly
-					</li>
-				</ul>
-				<br>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4356745470645537691" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
