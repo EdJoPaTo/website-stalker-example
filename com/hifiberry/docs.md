@@ -525,7 +525,7 @@ updated 2020-10-21
 
 adc, dac, datasheet
 
-updated 2020-10-21
+updated 2024-05-07
 
 [Datasheet Amp100](https://www.hifiberry.com/docs/data-sheets/datasheet-amp100/)
 
