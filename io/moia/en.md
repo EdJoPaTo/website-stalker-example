@@ -30,15 +30,6 @@ Absolutely transparent
 
 You will find out the cost of your ride before booking. You can pay using the app.
 
-That’s why: MOIA
-
-9 out of 10 hairstyles look better dry
-----------
-
-They say: April is the month of surprises. Join in and discover exciting new spring destinations in Hamburg. To prevent any rain shower from catching you off guard, we're here for you. With fully electric drive - and more than 17,500 stops in your city.
-
-[Launch App](https://moia.go.link/?adj_t=1bk61y15)
-
 How MOIA works
 ----------
 

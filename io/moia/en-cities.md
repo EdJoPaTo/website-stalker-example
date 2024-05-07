@@ -28,6 +28,20 @@ Absolutely transparent
 
 You find out how much your journey will cost before you book. You can pay using the app.
 
+We're extending the ride
+
+Ride away for Ascension Day
+----------
+
+Plenty of time for a truly great time. Make your plans for Ascension Day with us, as we're here for you with **extended service hours.**
+
+**Hamburg**
+**08.05.** Wed 5:00 a.m. – Mon 1:00 a.m.
+
+**Hanover**
+**08.05.** Wed 7:00 a.m. – Thu 2:00 a.m.
+**09.05.** Thu 10:00 a.m. – Fri 0:00 a.m.
+
 Our service area
 
 Hamburg
