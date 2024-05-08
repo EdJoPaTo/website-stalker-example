@@ -44,7 +44,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [27.05.2024 - 31.05.2024 RE3/RB31 und RB41: Instandhaltungsarbeiten in der Nacht](https://www.der-metronom.de/baustellen/re3-rb31-und-rb41-instandhaltungsarbeiten-in-der-nacht/)
 
-[02.06.2024 - 03.06.2024 RE3/Rb31: Instandhaltungsarbeiten in der Nacht](https://www.der-metronom.de/baustellen/re3-rb31-instandhaltungsarbeiten-in-der-nacht-2/)
+[02.06.2024 - 03.06.2024 RE3/RB31: Instandhaltungsarbeiten in der Nacht](https://www.der-metronom.de/baustellen/re3-rb31-instandhaltungsarbeiten-in-der-nacht-2/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
