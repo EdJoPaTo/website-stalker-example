@@ -26,6 +26,12 @@ RE2 Hannover - Northeim - Göttingen
 
 [13.05.2024 - 20.05.2024 RE2/RE3 nächtliche Teilausfälle zwischen Kreiensen/Banteln \<\> Nordstemmen/Hannover Hbf und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-kreiensen-banteln-nordstemmen-hannover-hbf-und-fahrzeitenaenderungen/)
 
+[20.05.2024 - 27.05.2024 RE2: Gleisbauarbeiten in den Nächten](https://www.der-metronom.de/baustellen/re2-gleisbauarbeiten-in-den-naechten/)
+
+[27.05.2024 - 03.06.2024 RE2: Arbeiten an der Leit- und Sicherungstechnik in der Nacht](https://www.der-metronom.de/baustellen/re2-arbeiten-an-der-leit-und-sicherungstechnik-in-der-nacht/)
+
+[08.06.2024 - 16.06.2024 RE2: Zusätzliche Halte zur IdeenExpo](https://www.der-metronom.de/baustellen/re2-zusaetzliche-halte-zur-ideenexpo/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [10.05.2024 - 12.05.2024 RB31 nächtlicher Haltausfall in Bardowick, Radbruch und Ashausen](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-bardowick-radbruch-und-ashausen/)
@@ -34,9 +40,17 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [18.05.2024 - 19.05.2024 RB31/RB41 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-rb41-naechtlicher-ersatzverkehr-mit-bussen/)
 
+[20.05.2024 - 27.05.2024 RE3/RB31: Instandhaltungsarbeiten in der Nacht](https://www.der-metronom.de/baustellen/re3-rb31-instandhaltungsarbeiten-in-der-nacht/)
+
+[27.05.2024 - 31.05.2024 RE3/RB31 und RB41: Instandhaltungsarbeiten in der Nacht](https://www.der-metronom.de/baustellen/re3-rb31-und-rb41-instandhaltungsarbeiten-in-der-nacht/)
+
+[02.06.2024 - 03.06.2024 RE3/Rb31: Instandhaltungsarbeiten in der Nacht](https://www.der-metronom.de/baustellen/re3-rb31-instandhaltungsarbeiten-in-der-nacht-2/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [18.05.2024 - 19.05.2024 RB31/RB41 nächtlicher Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/rb31-rb41-naechtlicher-ersatzverkehr-mit-bussen/)
+
+[27.05.2024 - 31.05.2024 RE3/RB31 und RB41: Instandhaltungsarbeiten in der Nacht](https://www.der-metronom.de/baustellen/re3-rb31-und-rb41-instandhaltungsarbeiten-in-der-nacht/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
