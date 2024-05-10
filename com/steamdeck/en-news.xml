@@ -6,6 +6,248 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.0 Preview: Remote-Controlled</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4357872852123559086</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 9, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Updated to a more recent Arch Linux base
+						<br>
+					</li>
+					<li>
+						Improved pairing experience with Apple AirPods
+						<br>
+					</li>
+					<li>
+						Improved session recovery speed after GPU crashes
+						<br>
+					</li>
+					<li>
+						Fixed some connectivity failures with access points supporting WPA3 security
+						<br>
+					</li>
+					<li>
+						Updated Linux kernel to version 6.5
+						<br>
+					</li>
+					<li>
+						Improved speed of subsequent OS updates
+						<br>
+					</li>
+					<li>
+						Improved reliability of certain microSD card usage scenarios
+						<br>
+					</li>
+					<li>
+						Fixed game session cursor offset alignment
+						<br>
+					</li>
+					<li>
+						Worked around misdetection of some SanDisk microSD cards
+						<br>
+					</li>
+					<li>
+						Fixed an issue where a thin grey line could appear at the bottom of the screen during boot in some situations
+						<br>
+					</li>
+					<li>
+						Fixed an issue causing temporary files to accrue when using Flatpak
+						<br>
+					</li>
+					<li>
+						Enabled support for Bluetooth A2DP and BAP profiles
+						<br>
+					</li>
+					<li>
+						Improved connection speed of some Bluetooth devices
+						<br>
+					</li>
+					<li>
+						Improved performance and stability in memory pressure situations
+						<br>
+					</li>
+					<li>
+						Fixed an issue where the Performance Overlay would spuriously enable itself under certain conditions
+						<br>
+					</li>
+					<li>
+						Added mechanism to configure which Bluetooth device categories are allowed to wake the system from suspend
+						<ul>
+							<li>
+								By default, controllers are the only devices that can wake the system from sleep
+								<br>
+							</li>
+							<li>
+								Finer-grained UI configuration options will be available as part of a future update
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<br>
+				<b>
+					Display
+				</b>
+				<ul>
+					<li>
+						Improved display uniformity, under some conditions (Mura Compensation)
+						<br>
+					</li>
+					<li>
+						Improved display color balance (reduced green tint) at lower brightness levels, under some conditions
+						<br>
+					</li>
+					<li>
+						Improved gamma uniformity (yellow tint), under some conditions
+					</li>
+				</ul>
+				<br>
+				<b>
+					Graphics and Performance
+				</b>
+				<ul>
+					<li>
+						Updated graphics driver to Mesa 24.1, with many performance and correctness improvements
+						<br>
+					</li>
+					<li>
+						Improved responsiveness of the Steam UI
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<ul>
+					<li>
+						Updated to KDE Plasma 5.27.10
+						<br>
+					</li>
+					<li>
+						Enabled thumbnail previews for videos in the file browser
+						<br>
+					</li>
+					<li>
+						Fixed an issue with desktop use that could cause subsequent microSD card auto-mount to fail
+					</li>
+				</ul>
+				<br>
+				<b>
+					Deck Dock
+				</b>
+				<ul>
+					<li>
+						Added support for some HDMI CEC features:
+						<ul>
+							<li>
+								TV remote input
+								<br>
+							</li>
+							<li>
+								TV wake up
+								<br>
+							</li>
+							<li>
+								TV input switching
+							</li>
+						</ul>
+					</li>
+					<li>
+						Updated Dock firmware, with compatibility fixes for high-refresh-rate VRR displays
+					</li>
+				</ul>
+				<br>
+				<b>
+					BIOS
+				</b>
+				<ul>
+					<li>
+						Added overclocking controls on Steam Deck LCD
+						<br>
+					</li>
+					<li>
+						Fixed not being able to set the SDCard as default boot device
+						<br>
+					</li>
+					<li>
+						Adjusted power LED slow charging threshold
+						<br>
+					</li>
+					<li>
+						Fixed spurious power LED blinking in S5
+					</li>
+				</ul>
+				<br>
+				<b>
+					Development and Modding
+				</b>
+				<ul>
+					<li>
+						Modified files in /etc are now migrated to new OS versions based on a whitelist
+						<ul>
+							<li>
+								Fixes numerous issues with incidentally touched /etc files becoming 'sticky' and persisting unexpectedly
+								<br>
+							</li>
+							<li>
+								Additional whitelist entries can be added via config fragments
+								<ul>
+									<li>
+										See /etc/atomic-update.conf.d/example-additional-keep-list.conf
+									</li>
+								</ul>
+							</li>
+							<li>
+								Added /etc/previous/ containing modifications from the previous update to prevent unexpected data loss
+								<ul>
+									<li>
+										Up to five previous snaphots of /etc modifications will additionally be retained in /var/lib/steamos-atomupd/etc_backup/
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						Added support for {ssh,sshd}_config fragments
+					</li>
+				</ul>
+				<br>
+				<b>
+					Known Issues
+				</b>
+				<ul>
+					<li>
+						Frequent session switches can result in the sound driver crashing, needing a system reboot
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4357872852123559086" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: May 7th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4353369145003418738</link>
 			<content:encoded><![CDATA[<html>
@@ -454,48 +696,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353368163568940219" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.5.19 Update: Grey Park Seagull</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4353367983027414980</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Apr 24, 2024
-			</h5>
-			<div>
-				SteamOS 3.5.19 has been released to the Stable channel for Deck with the following changes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue causing no sound output in games that open and close audio devices quickly like Super Blood Hockey
-						<br>
-					</li>
-					<li>
-						Stability and security improvements
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353367983027414980" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
