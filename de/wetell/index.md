@@ -77,6 +77,7 @@ Dein neuer Mobilfunktarif
 
 * Verlässliches D-Netz [mehr dazu](https://www.wetell.de/tarife/mobilfunknetz/)
 * Wechselservice [mehr dazu](https://www.wetell.de/tarife/wechselservice/)
+* EU-Roaming [mehr dazu](https://www.wetell.de/service/auslandskonditionen-mobilfunk/)
 * Monatlich kündbar
 * Rufnummernmitnahme
 
