@@ -6,6 +6,66 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: May 13th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4357873276731786770</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 13, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an error when viewing a screenshot notification for a screenshot that is no longer available.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Gyro On/Off Haptic bump now defaults to "Off". Moved the option to the Haptics area of each mode settings page. Haptic intensity defines how strong the Haptic Bump is.
+						<br>
+					</li>
+					<li>
+						Camera Angle related actions (Turn 360, Reset Camera, and Face Direction) have been moved out of the "Mouse" binding tab into their own "Camera" tab.
+						<br>
+					</li>
+					<li>
+						Fix: removed "Mute" button option on Gyro Button Picker for DualShock
+						<br>
+					</li>
+					<li>
+						Minor UI Tweaks.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4357873276731786770" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.0 Preview: Remote-Controlled</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4357872852123559086</link>
 			<content:encoded><![CDATA[<html>
@@ -622,80 +682,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353368616863057116" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: April 26th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4353368163568940219</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Apr 26, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue where after playing a game it would require extra B button presses to back out of the game's library page.
-						<br>
-					</li>
-					<li>
-						Settings->Storage will now display drives that are missing a steam library as format targets.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where the store tab would fail to display any content after maximizing the steam window.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						New Configurator feature "Swap Left with Right": While editing a Controller Configuration, you can Swap the behavior of the Left Stick and the Right Stick, or Left Trackpad and Right Trackpad etc. Highlight the source you want to swap in the "Edit Layout" page, and the "Y" button should appear to allow the swap. This should be handy for "South Paws".
-						<br>
-					</li>
-					<li>
-						New Mouse Action: "Turn to Face Direction". When activating this, the camera will turn to face the direction you are pushing on the Left Stick (default - Track pads, Dpads and Buttons can also be used). Can be combined with "Reset to Horizon" to produce a behavior similar to Splatoon's camera reset button.  Note: Dots per 360 must be calibrated for this to be accurate.
-						<br>
-					</li>
-					<li>
-						New Mouse Action: "Dots per 360 Calibration". By default this will generate 360 degrees of rotation. You can use this to tune the Dots per 360 value in the Flick Stick / Gyro To Mouse modes. This can also be adjusted to produce perfect 180 turns once the "Dots per 360" value is properly calibrated.
-						<br>
-					</li>
-					<li>
-						Gyro to Joystick modes now no longer generate haptic events when outside the active range.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353368163568940219" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
