@@ -6,6 +6,70 @@
 		<description>Available now.</description>
 		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: May 13th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4357873276732230763</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 13, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an error when viewing a screenshot notification for a screenshot that is no longer available.
+						<br>
+					</li>
+					<li>
+						Restored missing soundtrack controls when viewing a soundtrack in the library.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Gyro On/Off Haptic bump now defaults to "Off". Moved the option to the Haptics area of each mode settings page. Haptic intensity defines how strong the Haptic Bump is.
+						<br>
+					</li>
+					<li>
+						Camera Angle related actions (Turn 360, Reset Camera, and Face Direction) have been moved out of the "Mouse" binding tab into their own "Camera" tab.
+						<br>
+					</li>
+					<li>
+						Fix: removed "Mute" button option on Gyro Button Picker for DualShock
+						<br>
+					</li>
+					<li>
+						Minor UI Tweaks.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4357873276732230763" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: May 13th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4357873276731786770</link>
 			<content:encoded><![CDATA[<html>
@@ -622,70 +686,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353368787464084133" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: April 30th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4353368616863057116</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Apr 30, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed search showing family games as "From the Store" instead of "In library"
-						<br>
-					</li>
-					<li>
-						Fixed incorrect counts on the search tabs in search results
-						<br>
-					</li>
-					<li>
-						Added "View More in the Store" button to "All" tab in search
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed Regression: Reset to Horizon works again
-						<br>
-					</li>
-					<li>
-						Turn to Face Direction: Added option to allow you to face the last known input direction if no direction is pressed. Will only fire once before a new direction input is required. This emulates "Facing the direction of the character" for many third person games.
-						<br>
-					</li>
-					<li>
-						Renamed "Calibrate Dots per 360" action to "Turn Camera 360" to better describe its function. The numeric changes to reflect the chosen number of angles, so you can easily use this to make a "Turn Camera 180" button (Note: you will always have to calibrate the Dots per 360 value in either Gyro to Mouse or FlickStick modes for each game for this turn to be accurate).
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4353368616863057116" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
