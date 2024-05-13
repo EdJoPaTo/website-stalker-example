@@ -27,6 +27,10 @@
 				<ul>
 					<li>
 						Fixed an error when viewing a screenshot notification for a screenshot that is no longer available.
+						<br>
+					</li>
+					<li>
+						Restored missing soundtrack controls when viewing a soundtrack in the library.
 					</li>
 				</ul>
 				<br>
