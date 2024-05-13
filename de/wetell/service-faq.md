@@ -207,8 +207,8 @@ Wenn dein Smartphone VoLTE-Anrufe zulässt, kannst du das auch mit einem WEtell 
 
 #### Bietet ihr Wifi-Assisted Calling (Voice over Wifi) an? ####
 
-Bei unseren Tarifen Mittelwelle, Superfunk, Megafon und Überschall kannst du Wifi-Assisted Calling nutzen. Damit kannst du über das W-Lan Netz telefonieren und SMS schreiben und bist unabhängig vom Empfang des Mobilfunknetzes. Auf den Seiten der Vodafone findest du weitere Infos:
-https://www.vodafone.de/hilfe/wifi-calling.html
+Bei unseren Tarifen Mittelwelle, Superfunk, Megafon und Überschall kannst du Wifi-Assisted Calling nutzen. Damit kannst du über das W-Lan Netz telefonieren und SMS schreiben. Damit bist du unabhängig vom Empfang des Mobilfunknetzes. Auf den Seiten der Vodafone findest du weitere Infos:
+<https://www.vodafone.de/hilfe/wifi-calling.html>
 
 Für den Ultrakurz-Tarif können wir kein Wifi-Assisted Calling anbieten.
 
