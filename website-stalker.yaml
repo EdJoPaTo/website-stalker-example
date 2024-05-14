@@ -1,19 +1,9 @@
 # This is an example config
-# The filename should be `website-stalker.yaml`
-# and it should be in the working directory where you run website-stalker.
+# The filename has to be `website-stalker.yaml`
+# and it has to be in the working directory where you run website-stalker.
 #
-# For example run `website-stalker example-config > website-stalker.yaml`.
-# And then do a run via `website-stalker run`.
+# Adapt the config to your needs, then do a run via `website-stalker run`.
 ---
-notification_template: |
-  {{#sites}}
-  - {{.}}
-  {{/sites}}
-
-  {{#commit}}
-  https://github.com/EdJoPaTo/website-stalker-example/commit/{{.}}
-  {{/commit}}
-
 sites:
   # Basic example
   - url: https://edjopato.de/
@@ -67,12 +57,14 @@ sites:
       - html_markdownify
 
   - url: https://www.raspberrypi.com/software/operating-systems/
+    http1_only: true
     ignore_error: true
     editors:
       - css_select: main
       - css_remove: img
       - html_markdownify
   - url: https://assets.raspberrypi.com/page-data/software/operating-systems/page-data.json
+    http1_only: true
     ignore_error: true
     editors:
       - json_prettify
