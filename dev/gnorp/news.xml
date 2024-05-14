@@ -4,7 +4,7 @@
 		<title>Gnorp News</title>
 		<link>https://gnorp.dev/news/</link>
 		<description>(the) Gnorp Apologue Website</description>
-		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>15 — 200k, Saves Update &amp; Wiki</title>
 			<link>https://gnorp.dev/news/15-200k,-Saves-Update-&amp;-Wiki.html</link>

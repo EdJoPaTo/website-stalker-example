@@ -4,7 +4,7 @@
 		<title>Steam Deck :: News</title>
 		<link>https://www.steamdeck.com/en/news</link>
 		<description>Available now.</description>
-		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Steam Deck Client Update: May 13th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4357873276732230763</link>

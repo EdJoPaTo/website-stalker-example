@@ -4,7 +4,7 @@
 		<title>EdJoPaTos Blog</title>
 		<link>https://edjopato.de/post/</link>
 		<description></description>
-		<generator>website-stalker/0.22.0 https://github.com/EdJoPaTo/website-stalker</generator>
+		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
 			<title>Statische Webseiten von nginx zu Caddy</title>
 			<link>https://edjopato.de/post/2024/02/14-nginx-to-caddy/</link>
