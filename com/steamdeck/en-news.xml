@@ -6,6 +6,55 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.3 Preview: Third Time&apos;s the Charm</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350791831342</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 16, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed an issue with 3.6.2 where the session could crash after using Keyboard/Mouse Steam Input bindings
+						<br>
+					</li>
+					<li>
+						Worked around a bug where HDR couldn't be selected in Halo Infinite
+					</li>
+				</ul>
+				<b>
+					Known Issues
+				</b>
+				<ul>
+					<li>
+						Frequent session switches can result in the sound driver crashing, needing a system reboot
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350791831342" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: May 16th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350791130652</link>
 			<content:encoded><![CDATA[<html>
@@ -203,7 +252,7 @@
 </html>]]></content:encoded>
 		</item>
 		<item>
-			<title>SteamOS 3.6.2 Preview: Double Double Jeopardy</title>
+			<title>SteamOS 3.6.3 Preview: Third Time&apos;s the Charm</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4357873276735677035</link>
 			<content:encoded><![CDATA[<html>
 	<head>
@@ -222,11 +271,11 @@
 				</b>
 				<ul>
 					<li>
-						Fixed an issue where external controller input could be doubled if CEC control was enabled
+						Fixed an issue with 3.6.2 where the session could crash after using Keyboard/Mouse Steam Input bindings
 						<br>
 					</li>
 					<li>
-						Fixed an issue where scroll wheel Steam Input bindings weren't functional
+						Worked around a bug where HDR couldn't be selected in Halo Infinite
 					</li>
 				</ul>
 				<b>
@@ -243,70 +292,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4357873276735677035" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: May 13th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4357873276732230763</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 13, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an error when viewing a screenshot notification for a screenshot that is no longer available.
-						<br>
-					</li>
-					<li>
-						Restored missing soundtrack controls when viewing a soundtrack in the library.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Gyro On/Off Haptic bump now defaults to "Off". Moved the option to the Haptics area of each mode settings page. Haptic intensity defines how strong the Haptic Bump is.
-						<br>
-					</li>
-					<li>
-						Camera Angle related actions (Turn 360, Reset Camera, and Face Direction) have been moved out of the "Mouse" binding tab into their own "Camera" tab.
-						<br>
-					</li>
-					<li>
-						Fix: removed "Mute" button option on Gyro Button Picker for DualShock
-						<br>
-					</li>
-					<li>
-						Minor UI Tweaks.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4357873276732230763" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
