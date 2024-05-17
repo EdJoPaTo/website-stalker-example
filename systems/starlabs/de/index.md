@@ -1,3 +1,11 @@
+Byte 2.0
+
+Mini PC
+
+ With its dual network interface controllers (NICs) and dual video outputs, the Byte Mk II is engineered for unparalleled connectivity. But more than just performance, we know that Linux users value open-source principles and robust security. That's why we've equipped the Byte Mk II with coreboot firmware, an open-source alternative to traditional BIOS, offering advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
+
+[Explore](/pages/byte) [Buy now](/products/byte)
+
 StarLite 5
 
 100% more performance.
@@ -17,14 +25,6 @@ StarLite 5
 100% faster USB-C.
 
 [Explore](/pages/starlite) [Buy now](/products/starlite)
-
-Byte 2.0
-
-Mini PC
-
- With its dual network interface controllers (NICs) and dual video outputs, the Byte Mk II is engineered for unparalleled connectivity. But more than just performance, we know that Linux users value open-source principles and robust security. That's why we've equipped the Byte Mk II with coreboot firmware, an open-source alternative to traditional BIOS, offering advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
-
-[Explore](/pages/byte) [Buy now](/products/byte)
 
 Browse our range
 

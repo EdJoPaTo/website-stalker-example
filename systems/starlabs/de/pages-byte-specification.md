@@ -74,6 +74,13 @@ Configurable to:
  Type: DDR4
 Configuration: 1 × 16GB
 
+Configurable to:
+ 32GB of 3200MHz DDR4 memory
+
+ Form Factor: SO-DIMM
+ Type: DDR4
+Configuration: 1 × 32GB
+
  Graphics
 
  Intel UHD Graphics
