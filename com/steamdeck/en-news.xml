@@ -6,6 +6,44 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: May 17th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350794803851</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 17, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a case where the non-steam game list could load from an invalid user profile.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350794803851" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.3 Preview: Third Time&apos;s the Charm</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350791831342</link>
 			<content:encoded><![CDATA[<html>
@@ -243,55 +281,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4336481387155992084" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.3 Preview: Third Time&apos;s the Charm</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4357873276735677035</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 14, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed an issue with 3.6.2 where the session could crash after using Keyboard/Mouse Steam Input bindings
-						<br>
-					</li>
-					<li>
-						Worked around a bug where HDR couldn't be selected in Halo Infinite
-					</li>
-				</ul>
-				<b>
-					Known Issues
-				</b>
-				<ul>
-					<li>
-						Frequent session switches can result in the sound driver crashing, needing a system reboot
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4357873276735677035" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
