@@ -6,7 +6,7 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>Steam Deck Client Update: May 17th</title>
+			<title>Steam Deck Beta Client Update: May 17th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350794803851</link>
 			<content:encoded><![CDATA[<html>
 	<head>
@@ -17,7 +17,7 @@
 				May 17, 2024
 			</h5>
 			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
 				<br>
 				<br>
 				<b>
