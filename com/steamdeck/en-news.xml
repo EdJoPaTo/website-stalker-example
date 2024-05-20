@@ -6,6 +6,44 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: May 20th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810789004864735</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 20, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the "Enable overlay" setting reading showing the wrong default value
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810789004864735" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: May 17th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350794803851</link>
 			<content:encoded><![CDATA[<html>
@@ -217,70 +255,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350790001396" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: May 15th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4336481387155992084</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 15, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a bug that could result in non-primary steam library folders to be forgotten.
-						<br>
-					</li>
-					<li>
-						Fixed a 'long_value' error when playing a game that uses certain gyro configuration.
-						<br>
-					</li>
-					<li>
-						Added a popup when trying to launch a game after playtime limits have been reached.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed Controller Settings Joystick Deadzone Preference using minimum value instead of default value.
-						<br>
-					</li>
-					<li>
-						Fixed invisible glyphs in Gyro Button Picker Interface for Sony DualShock.
-						<br>
-					</li>
-					<li>
-						Switch Pro controller: Restored "Capture" button as an available Gyro Activation Button
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4336481387155992084" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
