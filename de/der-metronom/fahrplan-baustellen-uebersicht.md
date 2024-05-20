@@ -16,11 +16,9 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[13.05.2024 - 20.05.2024 RE2/RE3 nächtliche Teilausfälle zwischen Kreiensen/Banteln \<\> Nordstemmen/Hannover Hbf und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-kreiensen-banteln-nordstemmen-hannover-hbf-und-fahrzeitenaenderungen/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 Hannover - Northeim - Göttingen
-
-[13.05.2024 - 20.05.2024 RE2/RE3 nächtliche Teilausfälle zwischen Kreiensen/Banteln \<\> Nordstemmen/Hannover Hbf und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-kreiensen-banteln-nordstemmen-hannover-hbf-und-fahrzeitenaenderungen/)
 
 [20.05.2024 - 27.05.2024 RE2: Gleisbauarbeiten in den Nächten](https://www.der-metronom.de/baustellen/re2-gleisbauarbeiten-in-den-naechten/)
 
