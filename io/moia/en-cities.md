@@ -28,20 +28,6 @@ Absolutely transparent
 
 You find out how much your journey will cost before you book. You can pay using the app.
 
-Extended service hours
-
-Long, longer, Pentecost weekend
-----------
-
-This is why we love May. On Whit Monday, it gifts us yet another day of leisure. We'll be here for you with extended service hours on Pentecost Sunday so you can enjoy the extended weekend.
-
-**Hamburg**
-**16.05.** Thu 5:00 a.m. – Tue 1:00 a.m.
-
-**Hanover**
-**19.05.** Sun 10:00 a.m. – Mon 2:00 a.m.
-**20.05.** Mon 10:00 a.m. – Mon 10:00 p.m.
-
 Our service area
 
 Hamburg
