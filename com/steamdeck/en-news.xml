@@ -6,6 +6,54 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: May 20th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810789005213860</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 20, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the "Enable overlay" setting reading showing the wrong default value
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Restored the previous default of no deadzone for gamepad outputs bound to joystick
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810789005213860" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: May 20th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810789004864735</link>
 			<content:encoded><![CDATA[<html>
@@ -194,67 +242,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350791130652" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: May 16th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350790001396</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 16, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				This update was re-released with the follow additional fix:
-				<br>
-				<ul>
-					<li>
-						Fixed non-steam games not showing in search results.
-					</li>
-				</ul>
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a 'long_value' error when viewing the controller configurator under some conditions.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reverted Joystick Deadzone "Raw/None" behavior to "Controller Default"
-						<br>
-					</li>
-					<li>
-						Fixed Radial Menu selection on Release when bound to Joystick.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350790001396" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
