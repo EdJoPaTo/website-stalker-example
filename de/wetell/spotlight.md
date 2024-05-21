@@ -1,3 +1,8 @@
+iFixit
+----------
+
+„Wenn du es nicht reparieren kannst, dann gehört es dir nicht.“ Hinter iFixit steht eine Community mit ca. 3 Millionen Mitgliedern, die inzwischen über 100.000 kostenlosen Reparaturanleitungen für deine elektronischen Geräte zur Verfügung stellt. Klar, dass wir hier mehr erfahren wollen und haben iFixits Manuel Häusermann in unser Spotlight eingeladen.
+
 Silbernetz
 ----------
 
