@@ -3,6 +3,11 @@ iFixit
 
 „Wenn du es nicht reparieren kannst, dann gehört es dir nicht.“ Hinter iFixit steht eine Community mit ca. 3 Millionen Mitgliedern, die inzwischen über 100.000 kostenlosen Reparaturanleitungen für deine elektronischen Geräte zur Verfügung stellt. Klar, dass wir hier mehr erfahren wollen und haben iFixits Manuel Häusermann in unser Spotlight eingeladen.
 
+WECHANGE
+----------
+
+Daten, Daten, Daten und noch viel mehr Daten. Deine Daten sind eine häufig gehandelte Währung, über die du kaum selbst entscheiden kannst. WECHANGE bietet dir eine offene und werbefreie Plattform, mit der du dich in Gruppen und Projekten vernetzen und in diesen zusammenarbeiten kannst. Wir haben mit Jane Telkmann gesprochen, um mehr über WECHANGE herauszufinden.
+
 Silbernetz
 ----------
 
