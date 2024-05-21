@@ -6,6 +6,14 @@
 		<description></description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Von WLAN, AirTags und Eltern…</title>
+			<link>https://edjopato.de/post/2024/05/21-wlan-airtag-eltern/</link>
+			<pubDate>Tue, 21 May 2024 21:57:00 +0200</pubDate>
+			<content:encoded><![CDATA[2024-05-21
+
+Von WLAN, AirTags und Eltern…]]></content:encoded>
+		</item>
+		<item>
 			<title>Statische Webseiten von nginx zu Caddy</title>
 			<link>https://edjopato.de/post/2024/02/14-nginx-to-caddy/</link>
 			<pubDate>Wed, 14 Feb 2024 23:00:00 +0100</pubDate>
@@ -92,14 +100,6 @@ Environment Variablen Secrets in der Command Line]]></content:encoded>
 			<content:encoded><![CDATA[2022-07-19
 
 JSON Daten überprüfen mit JSON Schema]]></content:encoded>
-		</item>
-		<item>
-			<title>Mittels Fuzzyfind in Git Ordner springen</title>
-			<link>https://edjopato.de/post/2022/06/09-cdg/</link>
-			<pubDate>Thu, 9 Jun 2022 14:43:00 +0200</pubDate>
-			<content:encoded><![CDATA[2022-06-09
-
-Mittels Fuzzyfind in Git Ordner springen]]></content:encoded>
 		</item>
 	</channel>
 </rss>
