@@ -32,11 +32,13 @@ Storage
 
 2TB SSD  Gen3 PCIe storage
 
+4TB SSD  Gen3 PCIe storage
+
  Storage
 
  Your Byte will come with 512GB Gen3 PCIe SSD storage by default, which features a sequential read speed of up to 3370MB/s. Over-provisioning increases performance and IOPS (Input/Output Operations per Second) whilst enhancing reliability and endurance.
 
- You can configure it with 2TB Gen3 PCIe SSD storage, giving you more storage capacity and increased performance with sequential read speeds up to 3370MB/s.
+ You can configure it with 4TB Gen3 PCIe SSD storage, giving you more storage capacity and increased performance with sequential read speeds up to 3370MB/s.
 
  You can upgrade or replace the SSD; this requires a small Philips screwdriver.
 
