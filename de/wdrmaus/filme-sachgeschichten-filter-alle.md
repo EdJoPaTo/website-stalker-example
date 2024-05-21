@@ -406,7 +406,7 @@
 * [Großmutter](https://www.wdrmaus.de/filme/sachgeschichten/grossmutter.php5)
 * [Großtierrettung](https://www.wdrmaus.de/filme/sachgeschichten/grosstierrettung.php5)
 * [Grundgesetz](https://www.wdrmaus.de/filme/sachgeschichten/grundgesetz.php5)
-* [Grundgesetzgirl](https://www.wdrmaus.de/filme/sachgeschichten/grundgesetzgirl.php5)
+* [Grundgesetz-Girl](https://www.wdrmaus.de/filme/sachgeschichten/grundgesetzgirl.php5)
 * [Gülleorgel](https://www.wdrmaus.de/filme/sachgeschichten/guelleorgel.php5)
 * [Gullydeckel](https://www.wdrmaus.de/filme/sachgeschichten/gullydeckel.php5)
 * [Gummibärchen](https://www.wdrmaus.de/filme/sachgeschichten/gummibaerchen.php5)

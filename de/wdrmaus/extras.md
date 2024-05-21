@@ -1,6 +1,6 @@
 [Bauwerke, die uns verbinden](https://www.wdrmaus.de/extras/mausthemen/bauwerke/bruecken.php5)
 
-[Öffne jeden Tag ein Türchen](https://www.wdrmaus.de/extras/mausthemen/polarstern/index.php5)
+[Starte in dein digitales Abenteuer](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/index.php5)
 
 * [Große Maschinen und Gebäude](https://www.wdrmaus.de/extras/mausthemen/baustelle/index.php5)
 * [So vielseitig ist das nasse Element](https://www.wdrmaus.de/extras/mausthemen/wasser/index.php5)
