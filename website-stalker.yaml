@@ -179,6 +179,11 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
+  - url: https://events.ccc.de/calendar/
+    editors:
+      - css_select: .events-list
+      - html_prettify
+
   - url: https://www.engelbert-strauss.de/
     editors:
       - css_select: body
