@@ -43,6 +43,23 @@ sites:
             - html_textify
 
 
+  - url: https://archlinuxarm.org/forum/viewforum.php?f=3
+    editors:
+      - css_select: .forumbg
+      - css_remove: img, .posts, .views, .lastpost, .pagination
+      - regex_replace:
+          pattern: '&amp;sid=[a-f\d]+'
+          replace: ''
+      - html_url_canonicalize
+      - html_markdownify
+
+  - url: https://archriscv.felixc.at/
+    editors:
+      - css_select: body
+      - css_remove: script, img, *[hx-get]
+      - html_url_canonicalize
+      - html_prettify
+
   - url: https://www.debian.org/releases/
     ignore_error: true
     editors:
