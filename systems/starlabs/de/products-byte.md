@@ -1,3 +1,9 @@
+SAVE 20%¹ when you purchase the Byte today.
+
+ Don't miss out! Use discount code BYTEDOWN at checkout.
+
+¹ Whilst stocks last. Discount limited to one use per customer.
+
 About
 
 Byte
