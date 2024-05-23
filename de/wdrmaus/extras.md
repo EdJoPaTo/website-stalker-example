@@ -13,7 +13,7 @@
 * [In der Schule mit der Maus](https://www.wdrmaus.de/extras/mausthemen/schulanfang/index2.php5)
 * [Ideen zum Schutz der Umwelt](https://www.wdrmaus.de/extras/mausthemen/umwelt/index.php5)
 * [Forschen und Leben am Südpol](https://www.wdrmaus.de/extras/mausthemen/antarktis/index.php5)
-* [Was bedeutet Demokratie?](https://www.wdrmaus.de/extras/mausthemen/demokratie/index.php5)
+* [Unser Grundgesetz wird 75 Jahre alt!](https://www.wdrmaus.de/extras/mausthemen/demokratie/index.php5)
 * [Vier Kinder erzählen ihre Geschichte](https://www.wdrmaus.de/extras/mausthemen/unsichtbare_krankheit/index.php5)
 * [Starte in dein digitales Abenteuer!](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/index.php5)
 * [Was isst du gerne?](https://www.wdrmaus.de/extras/mausthemen/lebensmittel/index-php5.php5)
