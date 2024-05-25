@@ -6,6 +6,58 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: May 24th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4330852793646007793</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 25, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed startup in game mode intermittently hanging on boot logo
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed detecting the touchpad button on Qanba PS4/PS5 arcade sticks
+						<br>
+					</li>
+					<li>
+						Fixed the 8BitDo Wireless 2.4G controller showing up as two controllers on Linux
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330852793646007793" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: May 20th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810789005213860</link>
 			<content:encoded><![CDATA[<html>
@@ -37,36 +89,6 @@
 				<ul>
 					<li>
 						Restored the previous default of no deadzone for gamepad outputs bound to joystick
-					</li>
-				</ul>
-				<br>
-				<b>
-					Note:
-				</b>
-				this beta was re-released with the following additional fixes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed startup in game mode intermittently hanging on boot logo
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed detecting the touchpad button on Qanba PS4/PS5 arcade sticks
-						<br>
-					</li>
-					<li>
-						Fixed the 8BitDo Wireless 2.4G controller showing up as two controllers on Linux
 					</li>
 				</ul>
 			</div>
@@ -200,78 +222,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350791831342" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: May 16th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350791130652</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 16, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed non-steam games not showing in search results.
-						<br>
-					</li>
-					<li>
-						Fixed a bug that could result in non-primary steam library folders to be forgotten.
-						<br>
-					</li>
-					<li>
-						Fixed a 'long_value' error when viewing the controller configurator under some conditions.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reverted Joystick Deadzone "Raw/None" behavior to "Controller Default"
-						<br>
-					</li>
-					<li>
-						Fixed Radial Menu selection on Release when bound to Joystick.
-						<br>
-					</li>
-					<li>
-						Fixed Controller Settings Joystick Deadzone Preference using minimum value instead of default value.
-						<br>
-					</li>
-					<li>
-						Fixed invisible glyphs in Gyro Button Picker Interface for Sony DualShock.
-						<br>
-					</li>
-					<li>
-						Switch Pro controller: Restored "Capture" button as an available Gyro Activation Button
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350791130652" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
