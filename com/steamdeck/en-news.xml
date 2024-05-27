@@ -6,6 +6,58 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: May 20th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4330852965820787337</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 27, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed startup in game mode intermittently hanging on boot logo
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed detecting the touchpad button on Qanba PS4/PS5 arcade sticks
+						<br>
+					</li>
+					<li>
+						Fixed the 8BitDo Wireless 2.4G controller showing up as two controllers on Linux
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330852965820787337" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: May 24th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4330852793646007793</link>
 			<content:encoded><![CDATA[<html>
@@ -173,55 +225,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350794803851" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.3 Preview: Third Time&apos;s the Charm</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350791831342</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 16, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed an issue with 3.6.2 where the session could crash after using Keyboard/Mouse Steam Input bindings
-						<br>
-					</li>
-					<li>
-						Worked around a bug where HDR couldn't be selected in Halo Infinite
-					</li>
-				</ul>
-				<b>
-					Known Issues
-				</b>
-				<ul>
-					<li>
-						Frequent session switches can result in the sound driver crashing, needing a system reboot
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350791831342" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
