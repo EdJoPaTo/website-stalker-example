@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE4/RB41: Zusätzlicher Halt der RE4 zum Hurricane-Festival in Scheeßel](https://www.der-metronom.de/aktuell/re4-rb41-zusaetzlicher-halt-der-re4-zum-hurricane-festival-in-scheessel/)
+
+ Uelzen - 27.05.2024
+
+Ahoi liebe Festival-Fanatiker,
+endlich ist es wieder soweit! In diesem Jahr bebt der Eichenring während dem Hurricane Festival vom Freitag, 21. Juni 2024 – Sonntag, 23. Juni 2024. Mit mehr als 80.000 Besuchern zählt das Hurricane zu den größten Musikfestivals in Deutschland. Auch deshalb haben...
+
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
  Uelzen - 25.01.2024
