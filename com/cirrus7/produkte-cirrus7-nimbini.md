@@ -1,0 +1,250 @@
+cirrus7 nimbini
+==========
+
+cirrus nimbini v4
+----------
+
+* lautlose Kühlung durch passives Aluminium-Kühlkörpergehäuse mit Kupferkernen
+* basierend auf Intel® NUC Boards
+
+**Lieferzeit: 14-21 Werktage**
+
+* ##### cirrus7 nimbini - Edition #####
+
+  * Gemini Edition
+  * Pro Edition
+
+  * basierend auf Intel Gemini-Lake NUC7xJYB Board mit Ultra HD-60x Graphics
+  * geeignet für 2x 4K-Monitore bei 60Hz über HDMI 2.0a
+  * 2x HDMI 2.0a, 4x USB 3.0, 1xGBit LAN
+
+  * basierend auf Intel NUC12 Pro
+  * Intel® Xe GPU
+  * geeignet für 4x 4K-Monitore bei 60Hz
+  * 2x HDMI 2.0b, 3x USB--A 3.1 (10Gb/s), 1x USB-A 2.0 (480Mb/s), 2x Thunderbolt 4, 1x 2.5GBase-T
+
+  * basierend auf Intel NUC7ixBEB Board mit Kaby Lake i3/i5/i7 CPU
+  * Intel UHD-620 Graphics
+  * geeignet für 2x 4K-Monitore bei 60Hz über HDMI 2.0a
+  * 2x HDMI 2.0, 4x USB 3.0, 1xGBit LAN
+
+  ##### Cooling Edition #####
+
+  * **Standard Cooling Edition**
+  * **Extended Cooling Edition**
+
+  ##### Intel® NUC Board #####
+
+  Wählen Sie hier zwischen verschiedenen Intel® NUC Boards aus. Mit dem Board wählen sie gleichzeitig die verlötete CPU aus.
+
+  * **Intel® NUC Celeron J4005**
+    2.00GHz DualCore, UHD Graphics 600
+    basierend auf NUC7CJYH
+  * **Intel® NUC Pentium Silver J5005**
+    1.50GHz QuadCore, UHD Graphics 605
+    basierend auf NUC7PJYH
+
+  ##### Intel® NUC Board #####
+
+  Wählen Sie hier zwischen verschiedenen Intel® NUC Boards aus. Mit dem Board wählen sie gleichzeitig die verlötete CPU aus.
+
+  * NUC12
+  * NUC13
+
+  * **Intel® NUC Core™ i3-1220P**
+    2P+8E / 12 Threads, max. 4.4Ghz, Intel UHD
+    basierend auf NUC12WSHi3
+  * **Intel® NUC Core™ i5-1240P**
+    4P+8E / 16 Threads, max. 4.4Ghz, Iris® Xe 80U
+    basierend auf NUC12WSHi5
+  * **Intel® NUC Core™ i5-1250P**
+    4P+8E / 16 Threads, max. 4.4Ghz, Iris® Xe 80U, vPro
+    basierend auf NUC12WSHv5
+  * **Intel® NUC Core™ i7-1260P**
+    4P+8E / 16 Threads, max. 4.7Ghz, Iris® Xe 96U
+    basierend auf NUC12WSHi7
+  * **Intel® NUC Core™ i7-1270P**
+    4P+8E / 16 Threads, max. 4.8Ghz, Iris® Xe 96U, vPro
+    basierend auf NUC12WSHv7
+
+  * **Intel® NUC Core™ i3-1315U**
+    2P+4E / 8 Threads, max. 4.5Ghz, Intel UHD
+    basierend auf NUC13ANHi3
+  * **Intel® NUC Core™ i5-1340P**
+    4P+8E / 16 Threads, max. 4.6Ghz, Iris® Xe 80U
+    basierend auf NUC13ANHi5
+  * **Intel® NUC Core™ i7-1360P**
+    4P+8E / 16 Threads, max. 5.0Ghz, Iris® Xe 96U
+    basierend auf NUC13ANHi7
+
+  ##### Hauptspeicher (RAM) #####
+
+  Wählen Sie die Größe des Hauptspeichers.
+
+  * **4 GB DDR4 (1x 4GB)**
+    SO-DIMM – 3200MHz
+  * **8 GB DDR4 (2x 4GB)**
+    SO-DIMM – 3200MHz
+  * **16 GB DDR4 (2x 8GB)**
+    SO-DIMM – 3200MHz
+
+  * **8 GB DDR4 (1x 8GB)**
+    SO-DIMM – 3200MHz
+  * **16 GB DDR4 (2x8GB)**
+    SO-DIMM – 3200MHz
+  * **32 GB DDR4 (2x16GB)**
+    SO-DIMM – 3200MHz
+  * **64 GB DDR4 (2x32GB)**
+    SO-DIMM – 3200MHz
+
+  * **4 GB DDR4 (1x 4GB)**
+    SO-DIMM – 3200MHz
+  * **8 GB DDR4 (2x 4GB)**
+    SO-DIMM – 3200MHz
+  * **16 GB DDR4 (2x 8GB)**
+    SO-DIMM – 3200MHz
+  * **32 GB DDR4 (2x 16GB)**
+    SO-DIMM – 3200MHz
+
+  ##### SSD (M.2 - NVMe) #####
+
+  Wählen Sie hier zwischen verschiedenen M.2 SSDs. Die NVMe SSDs werden ebenfalls über das Gehäuse gekühlt und können so ihre volle Geschwindigkeit auch unter Belastung halten.
+
+  M.2 Slot 1
+
+  * PCIe 3.0 x4
+  * PCIe 4.0 x4
+
+  * Samsung SSD 980 250GBSamsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (109,00 €)Samsung SSD 970 EVO Plus 2TB (169,00 €)
+
+  * Samsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)Samsung SSD 990 Pro 4TB (389,00 €)
+
+  ##### Festplatte / SSD #####
+
+  Es passt 1x 2.5" SSD / HDD in den cirrus nimbini
+
+  SATA Slot 1
+
+  * SSD
+  * HDD
+
+  Wählen sie zwischen einer 2.5" SSD oder HDD. Eine SSD ist lautlos und wird daher empfohlen.
+
+  * KeineFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
+
+  * KeineSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
+
+  ##### VESA Wand- und Bildschirmhalterung #####
+
+  VESA Halterung für die Montage an Wand und Bildschirmen.
+
+  * Keine
+  * VESA Wand- und Bildschirmhalterung
+
+  ##### WiFi / Bluetooth #####
+
+  WiFi und Bluetooth 5.0 sind bei der Gemini-Edition bereits enthalten. Antennen gehören zum Lieferumfang
+
+  * **Intel DualBand Wireless-AC 9462**
+    2.4GHz/5GHz WLAN, Bluetooth 5.0 **YES\_WLAN**
+
+  ##### WiFi / Bluetooth #####
+
+  Bei ausgewählter WiFi Option werden passende Antennen für 2,4GHz / 5GHz mitgeliefert.
+
+  * Keine
+  * **Intel DualBand Wireless-AC 9260**
+    2.4GHz/5GHz WLAN, Bluetooth 5.0
+  * **Intel Wi-Fi 6E AX211**
+    2.4GHz/5GHz/6GHz, Bluetooth 5.3
+
+  ##### WiFi / Bluetooth #####
+
+  WiFi und Bluetooth 5.0 sind bei der Business-Edition optional.
+
+  * Keine **NO\_WLAN**
+  * **Intel DualBand Wireless-AC 9260**
+    2.4GHz/5GHz WLAN, Bluetooth 5.0 **YES\_WLAN**
+  * **Intel Wi-Fi 6 AX201**
+    2.4GHz/5GHz WLAN, Bluetooth 5.0 **YES\_WLAN**
+
+  ##### Zusätzliche Schnittstellen #####
+
+  Es handelt sich hier nicht um einen VGA Anschluss. Der serielle Anschluss wird häufig in Industrieanwendungen eingesetzt. Für den Privatanwender hingegen eher uninteressant.
+
+  * keine zusätzlichen Schnittstellen
+  * serielle Schnittstelle (RS-232)
+  * serielle Schnittstelle + USB 2.0 Port
+
+  ##### Zusätzliche Schnittstellen #####
+
+  Zusätzliche Anschlüsse an der Rückblende.
+
+  * keine zusätzlichen Schnittstellen
+  * zusätzlich 1x 2.5GBase-T (Intel I225-LM) + 2x USB 2.0
+
+  ##### Vorinstalliertes Betriebssystem #####
+
+  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
+
+  ##### Bitte zuerst eine SSD auswählen, auf die das Betriebsssystem installiert wird. #####
+
+  ##### Vorinstalliertes Betriebssystem #####
+
+  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
+
+  * Kein vorinstalliertes Betriebssystem
+  * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Linux Mint 21.3** „Virginia“
+  * **Windows 11 Home**
+    original OEM Lizenz
+  * **Windows 11 Pro**
+    original OEM Lizenz
+  * **Windows 10 Home**
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Home
+  * **Windows 10 Pro**
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Pro
+  * **anderes Betriebssystem**
+    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+
+  * Kein vorinstalliertes Betriebssystem
+  * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Linux Mint 21.3** „Virginia“
+  * **Windows 11 Home**
+    original OEM Lizenz
+  * **Windows 11 Pro**
+    original OEM Lizenz
+  * **Windows 10 Home**
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Home
+  * **Windows 10 Pro**
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Pro
+  * **anderes Betriebssystem**
+    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+
+  *
+
+  ##### Staubschutz #####
+
+  Ohne Staubschutz befinden sich Belüftungsschlitze zwischen den einzelnen Kühlschichten. Ohne Lüfter dringt jedoch kaum Staub ins Gehäuse. Für sehr staubige Umgebungen, oder Industrielle Umgebungen gibt es daher eine Staubschutzoption.
+
+  * keine Staubschutz
+  * Belüftungsschlitze geschlossen (Staubschutz)
+
+  ##### Garantie #####
+
+  Garantie-Optionen
+
+  * **3 Jahre Pickup and Return**
+    30 Tage verlängertes Widerrufsrecht
+  * **5 Jahre Pickup and Return**
+    45 Tage verlängertes Widerrufsrecht
+
+  ##### Kommentar #####
+
+  Wir versuchen auch Ihre Sonderwünsche zu erfüllen.
+
+  *

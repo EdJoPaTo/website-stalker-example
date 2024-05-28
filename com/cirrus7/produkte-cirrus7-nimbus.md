@@ -4,12 +4,12 @@ cirrus7 nimbus
 cirrus nimbus
 ----------
 
-* silent due to passive aluminium heat sink housing with copper core
-* with Intel Core Pentium/i3/i5/i7/i9 Raptor Lake CPU – up to 16 cores Or Ryzen 3/5/7 Cezanne
-* multiple application possibilities – desktop PC, HTCP or server
-* compact dimensions: 24,6 x 24,6 x 9 cm / 24,6 x 24,6 x 10,6 cm / 24,6 x 24,6 x 12,2 cm
+* lautlos aufgrund passivem Aluminium-Kühlkörpergehäuse mit Kupferkern
+* mit Intel Core Pentium/i3/i5/i7/i9 Raptor Lake CPU – bis zu 16 Kernen oder Ryzen 3/5/7 Cezanne
+* vielseitige Einsatzmöglichkeiten – Desktop-PC, HTCP oder Server
+* kompakte Abmessungen: 24,6 x 24,6 x 9 cm / 24,6 x 24,6 x 10,6 cm / 24,6 x 24,6 x 12,2 cm
 
-**Delivery time: 7-9 Working days**
+**Lieferzeit: 7-9 Werktage**
 
 * ##### Mainboard #####
 
@@ -19,64 +19,64 @@ cirrus nimbus
   * AMD
 
   * **ASUS Pro H610T (DDR4 SO-DIMM)**
-    H610 Chipset – business mainboard
+    H610 Chipsatz – business mainboard
   * **ASUS Pro H610T (DDR5 SO-DIMM)**
-    H610 Chipset – business mainboard
+    H610 Chipsatz – business mainboard
   * **Mitac PH12ADI (DDR5 SO-DIMM)**
-    H610 Chipset – industrial mainboard
+    H610 Chipsatz – industrial mainboard
   * **ASRock Z790M-ITX (DDR5)**
-    Z790 Chipset – Mini ITX
+    Z790 Chipsatz – Mini ITX
 
   * **ASRock B550M-ITX**
     B550 Chipsatz – Mini ITX
   * **GIGABYTE B550I AORUS Pro**
     B550 Chipsatz – Mini ITX
 
-  **ASUS Pro H610T rear port:**
+  **ASUS Pro H610T Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
 
-  **ASUS Pro H610T rear port:**
+  **ASUS Pro H610T Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
 
-  **Mitac PH12ADI rear ports:**
+  **Mitac PH12ADI Anschlüsse Rückseite:**
   1x DisplayPort 1.2 (4K@60Hz), 1x HDMI 1.4b (4K@30Hz), 1x 1GB Ethernet (Intel I219-LM), 1x 2.5GB Ethernet (Intel I225V), 4x USB-A 3.2 Gen1, 2x Audio Stereo
 
-  **ASRock H670M-ITX rear ports:**
+  **ASRock H670M-ITX Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 2x USB-A 3.2, 1x USB-C 3.2, 4x USB-A 2.0, 3x Audio Stereo
 
-  **ASRock Z790M-ITX rear ports:**
+  **ASRock Z790M-ITX Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 4x USB-A 3.2, 1x USB-C 3.2, 1x USB-A 2.0, 2x Audio Stereo, 1x Toslink
 
-  **ASUS ROG Strix B760-I rear ports:**
+  **ASUS ROG Strix B760-I Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x USB-C 3.2, 3x USB-A 3.1, 1x USB-C 3.1, 3x USB-A 2.0, 5x Audio Stereo
 
-  **ASRock Z690M-ITX rear ports:**
+  **ASRock Z690M-ITX Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 4x USB-A 3.2, 1x USB-C 3.2, 2x USB-A 2.0, 3x Audio Stereo
 
-  **ASRock B550M-ITX rear ports:**
+  **ASRock B550M-ITX Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 3x USB-A 3.1, 1x USB-C 3.1, 2x USB-A 2.0, 1x PS2, 3x Audio Stereo
 
-  **GIGABYTE B550I AORUS Pro rear ports:**
+  **GIGABYTE B550I AORUS Pro Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 2x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x USB-A 3.2, 4x USB-A 3.1, 1x USB-C 3.1, 3x Audio Stereo
 
-  ##### Nimbus Housing #####
+  ##### Nimbus Gehäuse #####
 
-  Housing options.
+  Gehäuseoptionen.
 
   ##### Cooling Edition #####
 
-  The Cooling Edtion determines the cooling performance of the case and should be chosen according to your work profile.
+  Die Cooling-Edtion bestimmt die Kühl-Leistung des Gehäuses und sollte entsprechend Ihrem Nutzungs-Profil gewählt werden.
 
   * **Standard Cooling Edition**
-    (Office Usage)
+    (Office Nutzung)
   * **Extended Cooling Edition**
-    (Media Usage)
+    (Media Nutzung)
   * **Extreme Cooling Edition**
-    (Rendering Usage)
+    (Rendering Nutzung)
 
-  You can chose a front panel with power button and optional ports.
+  Sie können den cirrus7 nimbus mit einer Frontblende und optionalen vorderseitigen USB Anschlüssen ausstatten.
 
-  * None
+  * Keine
   * Frontpanel mit Power-Taster
 
   * **2x USB-A 3.1**
@@ -130,9 +130,9 @@ cirrus nimbus
 
   1xHDMI 2.0a, 2xDisplayPort 1.2, 1x1 Gigabit LAN, 1x2.5 Gigabit LAN, 4x USB 3.2 Gen1, 2 (Mic-in, Line-out), 1xDC Jack
 
-  ##### Processor (CPU) - Comet Lake  #####
+  ##### Prozessor (CPU) - Comet Lake  #####
 
-  Choose between different Intel® Raptor Lake Refresh CPUs.
+  Wählen Sie hier zwischen verschiedenen Intel® Comet Lake CPUs.
 
   * 35W
   * 65W
@@ -155,9 +155,9 @@ cirrus nimbus
   * **Intel Core i9-10900 (65W TDP)**
     2.8 – 5.2GHz DecaCore + Hyperthreading, UHD 630
 
-  ##### Processor (CPU) - 11th Gen #####
+  ##### Prozessor (CPU) - 11th Gen #####
 
-  Choose between different Intel® Raptor Lake Refresh CPUs.
+  Wählen Sie hier zwischen verschiedenen Intel® 11th Gen CPUs.
 
   * 35W
   * 65W
@@ -192,9 +192,9 @@ cirrus nimbus
   * **Intel Core i9-11900 (65W TDP)**
     2.5 – 5.1GHz OctaCore + Hyperthreading – UHD 750
 
-  ##### Processor (CPU) - 14th Gen #####
+  ##### Prozessor (CPU) - 14th Gen #####
 
-  Choose between different Intel® Raptor Lake Refresh CPUs.
+  Wählen Sie hier zwischen verschiedenen Intel® Raptor Lake Refresh CPUs
 
   * **Intel Celeron G6900 (46W TDP)**
     2 Cores / 2 Threads, 3.4GHz, UHD 710
@@ -211,14 +211,14 @@ cirrus nimbus
   * **Intel Core i9-14900T**
     8+16C/32T, 1.1 – 5.5GHz – UHD 770
 
-  ##### Processor (CPU) - AMD #####
+  ##### Prozessor (CPU) - AMD #####
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
   * 35W
   * 65W
 
-  ##### Processor (CPU) - AMD #####
+  ##### Prozessor (CPU) - AMD #####
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
@@ -231,9 +231,9 @@ cirrus nimbus
   * **AMD Ryzen 7 5700G (65W TDP)**
     3.8GHz – 4.6GHz OctaCore + Hyperthreading, Vega 8
 
-  ##### Main Memory (RAM) #####
+  ##### Hauptspeicher (RAM) #####
 
-  Choose the size of the main memory.
+  Wählen Sie die Größe des Hauptspeichers.
 
   * **4 GB DDR4 (1x 4GB)**
     SO-DIMM – 3200MHz
@@ -246,9 +246,9 @@ cirrus nimbus
   * **64 GB DDR4 (2x 32GB)**
     SO-DIMM – 3200MHz
 
-  ##### Main Memory (RAM) #####
+  ##### Hauptspeicher (RAM) #####
 
-  Choose the size of the main memory.
+  Wählen Sie die Größe des Hauptspeichers.
 
   * **8 GB DDR4 (1x 8GB)**
     LO-DIMM – 3200MHz
@@ -259,9 +259,9 @@ cirrus nimbus
   * **64 GB DDR4 (2x 32GB)**
     LO-DIMM – 3200MHz
 
-  ##### Main Memory (RAM) #####
+  ##### Hauptspeicher (RAM) #####
 
-  Choose the size of the main memory.
+  Wählen Sie die Größe des Hauptspeichers.
 
   * **8 GB DDR4 (1x 8GB)**
     SO-DIMM – 3200MHz
@@ -272,14 +272,14 @@ cirrus nimbus
   * **64 GB DDR4 (2x 32GB)**
     SO-DIMM – 3200MHz
 
-  ##### Main Memory (RAM) #####
+  ##### Hauptspeicher (RAM) #####
 
-  Choose the size of the main memory.
+  Wählen Sie die Größe des Hauptspeichers.
 
   * 4800 MHz
   * 5600 MHz
 
-  Choose the memory speed.
+  RAM-Geschwindigkeit auswählen.
 
   * **8 GB DDR5 (1x 8GB)**
     LO-DIMM – 4800MHz
@@ -301,13 +301,13 @@ cirrus nimbus
   * **96 GB DDR5 (2x 48GB)**
     LO-DIMM – 5600MHz
 
-  ##### Main Memory (RAM) #####
+  ##### Hauptspeicher (RAM) #####
 
-  Choose the size of the main memory.
+  Wählen Sie die Größe des Hauptspeichers.
 
   * 4800 MHz
 
-  Choose the memory speed.
+  RAM-Geschwindigkeit auswählen.
 
   * **8 GB DDR5 (1x 8GB)**
     SO-DIMM – 4800MHz
@@ -320,7 +320,7 @@ cirrus nimbus
 
   ##### SSD (M.2 - NVMe) #####
 
-  Choose between different M.2 SSDs. The NVMe SSDs are also cooled through the case, allowing them to maintain their full speed even under load.
+  Wählen Sie hier zwischen verschiedenen M.2 SSDs. Die NVMe SSDs werden ebenfalls über das Gehäuse gekühlt und können so ihre volle Geschwindigkeit auch unter Belastung halten.
 
   M.2 Slot 1
 
@@ -336,127 +336,127 @@ cirrus nimbus
   * PCIe 3.0 x4
   * PCIe 4.0 x4
 
-  * NoneSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (109,00 €)Samsung SSD 970 EVO Plus 2TB (169,00 €)
+  * KeineSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (109,00 €)Samsung SSD 970 EVO Plus 2TB (169,00 €)
 
-  * NoneSamsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)Samsung SSD 990 Pro 4TB (389,00 €)
+  * KeineSamsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)Samsung SSD 990 Pro 4TB (389,00 €)
 
-  ##### Hard disk / SSD #####
+  ##### Festplatte / SSD #####
 
-  In addition, or instead of a M.2 SSD, up to two 2.5 "SSDs / HDDs can be installed.
+  Es können zusätzlich, oder anstatt einer M.2 SSD, bis zu zwei 2.5" SSDs / HDDs verbaut werden.
 
   SATA Slot 1
 
   * SSD
   * HDD
 
-  Choose between a 2.5" SSD or HDD. An SSD is silent and is therefore recommended.
+  Wählen sie zwischen einer 2.5" SSD oder HDD. Eine SSD ist lautlos und wird daher empfohlen.
 
-  * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
+  * KeineSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
-  * NoneFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
+  * KeineFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
 
   SATA Slot 2
 
   * SSD
   * HDD
 
-  Choose between a 2.5" SSD or HDD. An SSD is silent and is therefore recommended.
+  Wählen sie zwischen einer 2.5" SSD oder HDD. Eine SSD ist lautlos und wird daher empfohlen.
 
-  * NoneSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
+  * KeineSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
-  * NoneFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
+  * KeineFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
 
   ##### WiFi / Bluetooth #####
 
-  If the WiFi option is selected, suitable antennas for 2.4GHz / 5GHz are included.
+  Bei ausgewählter WiFi Option werden passende Antennen für 2,4GHz / 5GHz mitgeliefert.
 
-  * None **NO\_WLAN**
+  * Keine **NO\_WLAN**
   * **Intel DualBand Wireless-AC 9260**
     2.4GHz/5GHz WLAN, Bluetooth 5.0
   * **Intel Wi-Fi 6 AX210**
     2.5GHz/5GHz/6GHz, Bluetooth 5.2
 
-  ##### Additional Interfaces #####
+  ##### Zusätzliche Schnittstellen #####
 
-  Add additional interfaces.
+  Zusätzliche Schnittstellen konfigurieren.
 
-  * None
-  * **Additional 2 x USB 2.0 Port**
+  * Keine
+  * **zusätzlich 2 x USB 2.0 Port**
 
-  * **Additional 2 x USB 2.0 Port**
-  * **Serial Port** (RS-232)
+  * **zusätzlich 2 x USB 2.0 Port**
+  * **serielle Schnittstelle** (RS-232)
 
-  ##### Additional Interfaces #####
+  ##### Zusätzliche Schnittstellen #####
 
-  * None zusätzlichen Schnittstellen
-  * **Serial Port** (RS-232)
+  * keine zusätzlichen Schnittstellen
+  * **serielle Schnittstelle** (RS-232)
   * **2x Thunderbolt 3** (USB-C)
 
   Es handelt sich hier nicht um einen VGA Anschluss. Der serielle Anschluss wird häufig in Industrieanwendungen eingesetzt. Für den Privatanwender hingegen eher uninteressant.
 
   Thunderbolt™ 3 über USB-C mit schafft Geschwindigkeiten von bis zu 40 Gbit/s und einen kompakten Anschluss, der alles kann. Er bietet die schnellste und vielseitigste Verbindung zu jedem Dock, Display oder Datengerät.
 
-  ##### Additional PCIe Card #####
+  ##### Zusätzliche PCIe Karte #####
 
-  An optional PCIe card can also be installed
+  optional kann zusätzlich eine PCIe Karte verbaut werden
 
-  * None
-  * 2.5GB Ethernet Card
-  * 10GB Ethernet Card
+  * Keine
+  * 2.5GB Ethernet Karte
+  * 10GB Ethernet Karte
 
-  ##### Preinstalled Operating System #####
+  ##### Vorinstalliertes Betriebssystem #####
 
-  If dual-boot configurations - or other distributions are desired - please note in the comment field.
+  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
 
-  ##### Please first select a SSD to install the OS #####
+  ##### Bitte zuerst eine SSD auswählen, auf die das Betriebsssystem installiert wird. #####
 
-  ##### Preinstalled Operating System #####
+  ##### Vorinstalliertes Betriebssystem #####
 
-  If dual-boot configurations - or other distributions are desired - please note in the comment field.
+  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
 
-  * No pre-installed operating system
-  * **Ubuntu 24.04 LTS** “Noble Numbat”
-  * **Linux Mint 21.3** “Virginia”
+  * Kein vorinstalliertes Betriebssystem
+  * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Linux Mint 21.3** „Virginia“
   * **Windows 11 Home**
-    original OEM License
+    original OEM Lizenz
   * **Windows 11 Pro**
-    original OEM License
+    original OEM Lizenz
   * **Windows 10 Home**
-    original OEM License
-    includes free update to Windows 11 Home
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Home
   * **Windows 10 Pro**
-    original OEM License
-    includes free update to Windows 11 Pro
-  * **Different operating system**
-    As long as possible we are happy to try to install other operating systems
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Pro
+  * **anderes Betriebssystem**
+    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   *
 
-  ##### Dust protection #####
+  ##### Staubschutz #####
 
-  Without dust protection there are ventilation slots between the individual cooling layers. Without a fan, however, hardly any dust penetrates into the housing. For very dusty environments, or industrial environments, there is therefore a dust protection option.
+  Ohne Staubschutz befinden sich Belüftungsschlitze zwischen den einzelnen Kühlschichten. Ohne Lüfter dringt jedoch kaum Staub ins Gehäuse. Für sehr staubige Umgebungen, oder Industrielle Umgebungen gibt es daher eine Staubschutzoption.
 
-  * No dust protection
-  * Ventilation slots closed (dust protection)
+  * kein Staubschutz
+  * Belüftungsschlitze geschlossen (Staubschutz)
 
-  ##### VESA wall and screen bracket #####
+  ##### VESA Wand- und Bildschirmhalterung #####
 
-  VESA mounting bracket for wall and screen mounting.
+  VESA Halterung für die Montage an Wand und Bildschirmen.
 
-  * None
-  * VESA wall and screen bracket
+  * Keine
+  * VESA Wand- und Bildschirmhalterung
 
-  ##### Warranty #####
+  ##### Garantie #####
 
-  Warranty options.
+  Garantie-Optionen
 
-  * **3 Years Pickup and Return**
-    30 days return policy
-  * **5 Years Pickup and Return**
-    45 days return policy
+  * **3 Jahre Pickup and Return**
+    30 Tage verlängertes Widerrufsrecht
+  * **5 Jahre Pickup and Return**
+    45 Tage verlängertes Widerrufsrecht
 
-  ##### Comment #####
+  ##### Kommentar #####
 
-  We also try to fulfill your special requests.
+  Wir versuchen auch Ihre Sonderwünsche zu erfüllen.
 
   *

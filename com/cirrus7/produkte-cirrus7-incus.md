@@ -1,0 +1,259 @@
+cirrus7 incus
+==========
+
+cirrus incus
+----------
+
+* lüfterloser mini-PC
+* lautlose Kühlung durch passives Aluminium-Kühlkörpergehäuse mit Kupferkernen
+* mit AMD Ryzen CPU oder Intel Raptor Lake CPU
+* basierend auf ASRock DeskMini X300 und B760
+
+**Lieferzeit: 7-9 Werktage**
+
+* ##### Plattform wählen #####
+
+  * **AMD X300**
+    Basiert auf DeskMini X300
+  * **Intel B760**
+    Basiert auf DeskMini B760
+
+  **Vorne:** 1x USB 3.1 Gen1 Type-C, 1x USB 3.1 Gen1 Type-A, 1x Mic-In, 1x Headset
+  **Hinten:** 1xVGA, 1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB 3.1 Gen1 Type-A Port, 1x USB 2.0 Type-A Port, 1x Gigabit LAN
+
+  **Vorne:** 1x USB 3.2 Gen1 Type-C, 1x USB 3.2 Gen2 Type-A, 1x Mic-In, 1x Headset
+  **Hinten:** 1xVGA, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x USB 3.2 Gen1 Type-C Port (USB-C / DP Alt mode), 2x USB 3.2 Gen1 Type-A Ports, 2x USB 2.0 Ports, 1x Gigabit LAN
+
+  ##### Komplettsystem oder Gehäuse #####
+
+  Wählen sie zwischen einem Komplettsystem oder dem reinen Kühlkörpergehäuse für den Einbau bereits vorhandener Komponenten.
+
+  * **Komplettsystem**
+    inkl. Mainboard, CPU, RAM, etc.
+  * nur das Kühlkörpergehäuse
+    komplett ohne Elektronik
+
+  Das Komplettsystem beinhaltet **3 Jahre Garantie** auf alle konfigurierten Komponenten. Das System wird mit neuester BIOS Version ausgeliefert. Vor Auslieferung führen wir einen Burn-In Test durch.
+
+  Zum Betrieb benötigen Sie mindestens: **ASRock DeskMini X300**, kompatible Ryzen CPU, RAM.
+
+  Zum Betrieb benötigen Sie mindestens: **ASRock DeskMini B660**, kompatible Intel CPU, RAM.
+
+  ##### Incus Gehäuse #####
+
+  Gehäuseoptionen.
+
+  ##### Cooling Edition #####
+
+  Die Cooling-Edtion bestimmt die Kühl-Leistung des Gehäuses und sollte entsprechend Ihrem Nutzungs-Profil gewählt werden.
+
+  * **Standard Cooling Edition**
+    (Office Nutzung)35W\_Trigger
+  * **Extended Cooling Edition**
+    (Media Nutzung)65W\_Trigger
+
+  ##### Prozessor (CPU) #####
+
+  Wählen Sie hier zwischen verschiedenen AMD CPUs.
+
+  * **AMD Athlon 3000G**
+    3,5 – 3,5GHz, 2 Cores / 4 Threads, Vega 3
+  * **AMD Ryzen 3 4300G**
+    3.8 – 4.0GHz QuadCore + Hyperthreading, Vega 6
+  * **AMD Ryzen 5 5600G**
+    3.9GHz – 4.4GHz HexaCore + Hyperthreading, Vega 7
+  * **AMD Ryzen 7 5700G**
+    3.8GHz – 4.6GHz OctaCore + Hyperthreading, Vega 8
+
+  ##### Prozessor (CPU) #####
+
+  Wählen Sie hier zwischen verschiedenen Intel® Raptor Lake Refresh CPUs
+
+  * **Intel Celeron G6900 (46W TDP)**
+    2 Cores / 2 Threads, 3.4GHz, UHD 710
+  * **Intel Pentium Gold G7400 (46W TDP)**
+    2 Cores / 4 Threads, 3,7GHz, UHD 710
+  * **Intel Core i3-14100T**
+    4C/8T, 2.7 – 4.4GHz – UHD 730
+  * **Intel Core i5-14400T**
+    6+4C/16T, 1.5 – 4.5GHz – UHD 730
+  * **Intel Core i5-14500T**
+    6+8C/20T, 1.7 – 4.8GHz – UHD 770
+  * **Intel Core i7-14700T**
+    8+12C/28T, 1.3 – 5.0GHz – UHD 770
+  * **Intel Core i9-14900T**
+    8+16C/32T, 1.1 – 5.5GHz – UHD 770
+
+  ##### Hauptspeicher (RAM) #####
+
+  Wählen Sie die Größe des Hauptspeichers.
+
+  * **8 GB DDR4 (1x 8GB)**
+    SO-DIMM – 3200MHz
+  * **16 GB DDR4 (2x8GB)**
+    SO-DIMM – 3200MHz
+  * **32 GB DDR4 (2x16GB)**
+    SO-DIMM – 3200MHz
+  * **64 GB DDR4 (2x32GB)**
+    SO-DIMM – 3200MHz
+
+  ##### SSD (M.2 - NVMe)  #####
+
+  Wählen Sie hier zwischen verschiedenen M.2 SSDs. Die NVMe SSDs werden ebenfalls über das Gehäuse gekühlt und können so ihre volle Geschwindigkeit auch unter Belastung halten.
+
+  M.2 Slot 1
+
+  * PCIe 3.0 x4
+  * PCIe 4.0 x4
+
+  * Samsung SSD 980 250GBSamsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (109,00 €)Samsung SSD 970 EVO Plus 2TB (169,00 €)
+
+  * Samsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)Samsung SSD 990 Pro 4TB (389,00 €)
+
+  M.2 Slot 2
+
+  * PCIe 3.0 x4
+  * PCIe 4.0 x4
+
+  * KeineSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (109,00 €)Samsung SSD 970 EVO Plus 2TB (169,00 €)
+
+  * KeineSamsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)Samsung SSD 990 Pro 4TB (389,00 €)
+
+  ##### Festplatte / SSD #####
+
+  Es können zusätzlich, oder anstatt einer M.2 SSD, bis zu zwei 2.5" SSDs / HDDs verbaut werden.
+
+  SATA Slot 1
+
+  * SSD
+  * HDD
+
+  Wählen sie zwischen einer 2.5" SSD oder HDD. Eine SSD ist lautlos und wird daher empfohlen.
+
+  * KeineFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
+
+  * KeineSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
+
+  SATA Slot 2
+
+  * SSD
+  * HDD
+
+  Wählen sie zwischen einer 2.5" SSD oder HDD. Eine SSD ist lautlos und wird daher empfohlen.
+
+  * KeineFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
+
+  * KeineSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
+
+  ##### WiFi / Bluetooth #####
+
+  Bei ausgewählter WiFi Option werden passende Antennen für 2,4GHz / 5GHz mitgeliefert.
+
+  * Keine
+  * **Intel DualBand Wireless-AC 9260**
+    2.4GHz/5GHz WLAN, Bluetooth 5.0
+  * **Intel Wi-Fi 6 AX210**
+    2.5GHz/5GHz/6GHz WLAN, Bluetooth 5.2
+
+  ##### WiFi / Bluetooth #####
+
+  Bei ausgewählter WiFi Option werden passende Antennen für 2,4GHz / 5GHz mitgeliefert.
+
+  * Keine
+  * **Intel DualBand Wireless-AC 9260**
+    2.4GHz/5GHz WLAN, Bluetooth 5.0
+  * **Intel Wi-Fi 6 AX210**
+    2.5GHz/5GHz/6GHz WLAN, Bluetooth 5.2
+
+  ##### Zusätzliche Schnittstellen #####
+
+  Zusätzliche Schnittstellen konfigurieren.
+
+  * zusätzlich 2 x USB 2.0 Port
+
+  ##### Vorinstalliertes Betriebssystem #####
+
+  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
+
+  ##### Bitte zuerst eine SSD auswählen, auf die das Betriebsssystem installiert wird. #####
+
+  ##### Vorinstalliertes Betriebssystem #####
+
+  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
+
+  * Kein vorinstalliertes Betriebssystem
+  * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Linux Mint 21.3** „Virginia“
+  * **Windows 11 Home**
+    original OEM Lizenz
+  * **Windows 11 Pro**
+    original OEM Lizenz
+  * **Windows 10 Home**
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Home
+  * **Windows 10 Pro**
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Pro
+  * **anderes Betriebssystem**
+    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+
+  * Kein vorinstalliertes Betriebssystem
+  * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Linux Mint 21.3** „Virginia“
+  * **Windows 11 Home**
+    original OEM Lizenz
+  * **Windows 11 Pro**
+    original OEM Lizenz
+  * **Windows 10 Home**
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Home
+  * **Windows 10 Pro**
+    original OEM Lizenz
+    beinhaltet kostenloses Update auf Windows 11 Pro
+  * **anderes Betriebssystem**
+    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+
+  *
+
+  ##### Vorinstalliertes Betriebssystem #####
+
+  Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
+
+  * Kein vorinstalliertes Betriebssystem
+  * **Ubuntu 20.10** „Groovy Gorilla“
+  * **Linux Mint 20.1** „Ulyssa“
+  * **Windows 10 Home**
+  * **Windows 10 Pro**
+  * **anderes Betriebssystem**
+    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+
+  *
+
+  ##### Staubschutz #####
+
+  Ohne Staubschutz befinden sich Belüftungsschlitze zwischen den einzelnen Kühlschichten. Ohne Lüfter dringt jedoch kaum Staub ins Gehäuse. Für sehr staubige Umgebungen, oder Industrielle Umgebungen gibt es daher eine Staubschutzoption.
+
+  * keine Staubschutz
+  * Belüftungsschlitze geschlossen (Staubschutz)
+
+  ##### VESA Wand- und Bildschirmhalterung #####
+
+  VESA Halterung für die Montage an Wand und Bildschirmen.
+
+  * Keine
+  * VESA Wand- und Bildschirmhalterung
+
+  ##### Garantie #####
+
+  Garantie-Optionen
+
+  * **3 Jahre Pickup and Return**
+    30 Tage verlängertes Widerrufsrecht
+  * **5 Jahre Pickup and Return**
+    45 Tage verlängertes Widerrufsrecht
+
+  ##### Kommentar #####
+
+  Wir versuchen auch Ihre Sonderwünsche zu erfüllen.
+
+  *
