@@ -6,6 +6,130 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: May 28th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4330853156156201200</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 28, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Beta/Preview channels.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Show battery information for connected Bluetooth devices under Settings->Bluetooth and in the Quick Access menu.
+						<br>
+					</li>
+					<li>
+						Added a per-device toggle to Settings->Bluetooth that controls whether a device is allowed to wake SteamDeck from sleep.
+						<br>
+					</li>
+					<li>
+						Fixed a bug that would cause the UI to show stale data for Bluetooth devices.
+						<br>
+					</li>
+					<li>
+						Fixed web browsers showing blank page entries when navigating back
+					</li>
+				</ul>
+				<br>
+				<b>
+					Library
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed app activity feed to refresh more reliably
+						<br>
+					</li>
+					<li>
+						Fixed comments sometimes getting lost on achievement unlock events in the app activity feed
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Families
+				</b>
+				<br>
+				<ul>
+					<li>
+						Made client settings visible but generally unchangeable when parental settings are applied. Child accounts can request parental access to settings to make changes.
+						<br>
+					</li>
+					<li>
+						Fixed playtime limits sometimes being applied even if "set playtime limits" was not selected in the settings UI.
+						<br>
+					</li>
+					<li>
+						Display a copy count badge on game capsules for games that have more than one copy in a Steam Family.
+						<br>
+					</li>
+					<li>
+						Fixed family member names sometimes not displaying while in offline mode or disconnected from Steam.
+						<br>
+					</li>
+					<li>
+						Add "date acquired" for games owned by other family members.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Friends / Chat
+				</b>
+				<br>
+				<ul>
+					<li>
+						Reduced network traffic on connect and reconnect
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved Gyro To Mouse behavior when connected over bluetooth.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added a one time pairing step when streaming from a remote computer
+						<br>
+					</li>
+					<li>
+						The Remote Play Together UI is always available in the Steam overlay for supported games
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330853156156201200" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: May 27th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4330852965820787337</link>
 			<content:encoded><![CDATA[<html>
@@ -187,44 +311,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810789004864735" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: May 17th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810350794803851</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 17, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where the non-steam game list could load from an invalid user profile.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810350794803851" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
