@@ -20,8 +20,6 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[20.05.2024 - 27.05.2024 RE2: Gleisbauarbeiten in den Nächten](https://www.der-metronom.de/baustellen/re2-gleisbauarbeiten-in-den-naechten/)
-
 [27.05.2024 - 03.06.2024 RE2: Arbeiten an der Leit- und Sicherungstechnik in der Nacht](https://www.der-metronom.de/baustellen/re2-arbeiten-an-der-leit-und-sicherungstechnik-in-der-nacht/)
 
 [03.06.2024 - 14.06.2024 RE2: Teilausfälle in den Nächten](https://www.der-metronom.de/baustellen/re2-teilausfaelle-in-den-naechten/)
