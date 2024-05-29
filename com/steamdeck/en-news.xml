@@ -45,6 +45,10 @@
 					</li>
 					<li>
 						Fixed web browsers showing blank page entries when navigating back
+						<br>
+					</li>
+					<li>
+						Fixed games with file names containing spaces not exiting when forced
 					</li>
 				</ul>
 				<br>
