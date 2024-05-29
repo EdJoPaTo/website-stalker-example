@@ -105,6 +105,14 @@
 				<ul>
 					<li>
 						Improved Gyro To Mouse behavior when connected over bluetooth.
+						<br>
+					</li>
+					<li>
+						Fixed incorrect glyphs displaying for Nintendo controllers in configurator.
+						<br>
+					</li>
+					<li>
+						Added "Universal Face Button Glyphs" toggle in controller settings.
 					</li>
 				</ul>
 				<br>
