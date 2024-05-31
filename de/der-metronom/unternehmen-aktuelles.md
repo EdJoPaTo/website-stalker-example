@@ -15,11 +15,12 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE2 und RE3/RB31: Streckenvollsperrung zwischen Uelzen - Suderburg aufgehoben / Ein Gleis frei](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-uelzen-suderburg/)
+[RE2 und RE3/RB31: Streckenvollsperrung zwischen Uelzen - Suderburg aufgehoben](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-uelzen-suderburg/)
 
  Uelzen - 31.05.2024
 
-Die wichtigsten Informationen zur Streckensperrung:Die Streckenvollsperrung zwischen Uelzen und Suderburg ist aufgehoben! Ein Gleis ist nun wieder befahrbar. In den nächsten Stunden kommt es vereinzelt zu spürbaren Einschränkungen in Form von Verspätungen durch aufgestauten und umgeleiteten...
+Die wichtigsten Informationen zur Streckensperrung:
+Die Streckenvollsperrung zwischen Uelzen und Suderburg ist seit 9:40 Uhr aufgehoben! In den nächsten Stunden kommt es vereinzelt zu Einschränkungen in Form von Verspätungen durch aufgestauten und umgeleiteten Verkehr auf der...
 
 [RE4/RB41: Zusätzlicher Halt der RE4 zum Hurricane-Festival in Scheeßel](https://www.der-metronom.de/aktuell/re4-rb41-zusaetzlicher-halt-der-re4-zum-hurricane-festival-in-scheessel/)
 
