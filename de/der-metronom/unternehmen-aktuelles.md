@@ -15,6 +15,14 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE3/RB31: Streckensperrung zwischen Uelzen - Suderburg](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-uelzen-suderburg/)
+
+ Uelzen - 31.05.2024
+
+Moin liebe Fahrgäste,
+aufgrund eines Feuerwehreinsatzes und einer Oberleitungsstörung bei Klein Süstedt ist die Strecke zwischen Uelzen und Suderburg in beiden Fahrtrichtungen gesperrt.
+Es kommt dadurch zu Beeinträchtigungen in Form von Verspätungen und Teilausfällen. Züge aus Hannover Hbf...
+
 [RE4/RB41: Zusätzlicher Halt der RE4 zum Hurricane-Festival in Scheeßel](https://www.der-metronom.de/aktuell/re4-rb41-zusaetzlicher-halt-der-re4-zum-hurricane-festival-in-scheessel/)
 
  Uelzen - 27.05.2024
