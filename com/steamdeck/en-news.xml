@@ -6,6 +6,64 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: May 31st</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4330853251141456172</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				May 31, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue causing Apex Legends multiplayer to not work when in "invisible" mode
+					</li>
+				</ul>
+				<br>
+				<b>
+					Big Picture
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fix some cases where the Guide Button/Steam button would require two presses to open the Steam menu
+					</li>
+				</ul>
+				<br>
+				<b>
+					MacOS
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed context menus spawning in the wrong position
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330853251141456172" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: May 30th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4330853251138040623</link>
 			<content:encoded><![CDATA[<html>
@@ -321,54 +379,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330852793646007793" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: May 20th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/7093810789005213860</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 20, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed the "Enable overlay" setting reading showing the wrong default value
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Restored the previous default of no deadzone for gamepad outputs bound to joystick
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/7093810789005213860" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
