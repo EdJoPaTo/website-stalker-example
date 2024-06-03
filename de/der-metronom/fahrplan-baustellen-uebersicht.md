@@ -28,8 +28,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[02.06.2024 - 03.06.2024 RE3/RB31: Instandhaltungsarbeiten in der Nacht](https://www.der-metronom.de/baustellen/re3-rb31-instandhaltungsarbeiten-in-der-nacht-2/)
-
 [03.06.2024 - 07.06.2024 RE3+RB31: Nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-instandhaltungsarbeiten/)
 
 [13.06.2024 - 14.06.2024 RE3/RB31: ME81642 Haltausfall in Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-me81642-haltausfall-in-ashausen/)
@@ -37,8 +35,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [17.06.2024 - 23.06.2024 RE3+RB31: nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-3/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
-
-[02.06.2024 - 03.06.2024 RB41: geänderte Fahrzeit bei ME81945](https://www.der-metronom.de/baustellen/rb41-geaenderte-fahrzeit-bei-me81945/)
 
 [03.06.2024 - 07.06.2024 RB41: nächtliche Instandshaltungsarbeiten](https://www.der-metronom.de/baustellen/rb41-naechtliche-instandshaltungsarbeiten/)
 
