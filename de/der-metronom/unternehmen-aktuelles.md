@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE2 und RE3/RB31: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle](https://www.der-metronom.de/aktuell/re2-und-re3-rb31-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle/)
+
+ Uelzen - 03.06.2024
+
+Liebe Fahrgäste,
+das Eisenbahninfrastrukturunternehmen (DBInfraGo AG) muss auf der Strecke zwischen Uelzen und Hannover Hauptbahnhof aufgrund eines Oberbaumangels nach einem Starkregenereignis Ad-hoc-Baumaßnahmen durchführen.Ab heute, 3. Juni, ist der betroffene Streckenabschnitt zwischen...
+
 [RE4/RB41: Zusätzlicher Halt der RE4 zum Hurricane-Festival in Scheeßel](https://www.der-metronom.de/aktuell/re4-rb41-zusaetzlicher-halt-der-re4-zum-hurricane-festival-in-scheessel/)
 
  Uelzen - 27.05.2024
