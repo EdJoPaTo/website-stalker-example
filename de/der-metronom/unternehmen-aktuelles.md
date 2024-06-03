@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Aktuell keine Verkehrsdaten verfügbar!](https://www.der-metronom.de/aktuell/aktuell-keine-verkehsdaten-verfuegbar/)
+
+ Uelzen - 03.06.2024
+
+Aufgrund einer technischen Störung sind derzeit keine Echtzeitdaten über die jeweiligen Zugverbindungen bzw. Ankünfte und Abfahrten abrufbar. Die Apps wie z.B. die FahrPlaner-App oder der DB-Navigator sind nicht betroffen!
+Bitte unbedingt die Durchsagen im Bahnhof, auf dem Bahnsteig oder im Zug...
+
 [RE2 und RE3/RB31: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle](https://www.der-metronom.de/aktuell/re2-und-re3-rb31-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle/)
 
  Uelzen - 03.06.2024
