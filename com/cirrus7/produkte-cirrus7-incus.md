@@ -248,9 +248,9 @@ cirrus incus
   Garantie-Optionen
 
   * **3 Jahre Pickup and Return**
-    30 Tage verlängertes Widerrufsrecht
+    [30 Tage verlängertes Widerrufsrecht](/agb/)
   * **5 Jahre Pickup and Return**
-    45 Tage verlängertes Widerrufsrecht
+    [45 Tage verlängertes Widerrufsrecht](/agb/)
 
   ##### Kommentar #####
 
