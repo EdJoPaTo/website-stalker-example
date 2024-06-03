@@ -66,8 +66,6 @@ MX Linux 23.2 XFCE
 
 MX Linux 23.2 KDE
 
-MX Linux 23.2 Fluxbox
-
 Ubuntu LTS 24.04 MATE
 
 Xubuntu 24.04 LTS

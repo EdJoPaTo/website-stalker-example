@@ -218,7 +218,7 @@ Your way.
 
  MX Linux
 
- XFCE, KDE, Fluxbox
+ XFCE, KDE
 
 [Visit MX](https://mxlinux.org/)
 
