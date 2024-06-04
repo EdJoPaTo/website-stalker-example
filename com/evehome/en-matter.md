@@ -257,6 +257,64 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
+[Eve MotionBlinds](/en/eve-motionblinds)
+
+ Upgrade Kit for Roller Blinds
+
+ Learn more
+
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+
+Matter
+
+Shutters & Shades
+
+incl. VAT, plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve MotionBlinds](/en/eve-motionblinds)
+
+ Upgrade Kit for Roller Blinds
+
+* Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
+* Effortlessly set automations to open and close your blinds according to your daily routine.
+* Automated insulation against heat and cold increases your home's energy efficiency.
+* [Visit product page](/en/eve-motionblinds)
+
 ### Getting started with your new Eve device. ###
 
 Adding Eve devices with a Matter logo to your smart home is fast and easy.
@@ -542,3 +600,61 @@ Not available in your country
 * Control your appliances on the go or based on presence.
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
+
+[Eve MotionBlinds](/en/eve-motionblinds)
+
+ Upgrade Kit for Roller Blinds
+
+ Learn more
+
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+
+Matter
+
+Shutters & Shades
+
+incl. VAT, plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve MotionBlinds](/en/eve-motionblinds)
+
+ Upgrade Kit for Roller Blinds
+
+* Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
+* Effortlessly set automations to open and close your blinds according to your daily routine.
+* Automated insulation against heat and cold increases your home's energy efficiency.
+* [Visit product page](/en/eve-motionblinds)
