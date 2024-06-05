@@ -20,7 +20,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
  Uelzen - 03.06.2024
 
 Liebe Fahrgäste,
-das Eisenbahninfrastrukturunternehmen (DBInfraGo AG) muss auf der Strecke zwischen Uelzen und Hannover Hauptbahnhof aufgrund eines Oberbaumangels nach einem Starkregenereignis Ad-hoc-Baumaßnahmen durchführen.Ab heute, 3. Juni, ist der betroffene Streckenabschnitt zwischen...
+das Eisenbahninfrastrukturunternehmen (DBInfraGo AG) muss auf der Strecke zwischen Uelzen und Hannover Hauptbahnhof aufgrund eines Oberbaumangels nach einem Starkregenereignis Ad-hoc-Baumaßnahmen durchführen.Seit dem 3. Juni, ist der betroffene Streckenabschnitt zwischen Eschede...
 
 [RE4/RB41: Zusätzlicher Halt der RE4 zum Hurricane-Festival in Scheeßel](https://www.der-metronom.de/aktuell/re4-rb41-zusaetzlicher-halt-der-re4-zum-hurricane-festival-in-scheessel/)
 
