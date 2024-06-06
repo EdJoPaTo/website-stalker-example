@@ -15,12 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RB31 und RB41: Fahrtbeginn/Fahrtende in Hamburg-Harburg](https://www.der-metronom.de/aktuell/rb31-und-rb41-fahrtbeginn-fahrtende-in-hamburg-harburg/)
-
- Uelzen - 06.06.2024
-
-Aufgrund einer Weichenstörung in Hamburg Hauptbahnhof stehen noch weniger Gleise als üblich zur Verfügung. Einige Züge der Linien RB31 und RB41 beginnen und enden daher bereits in Hamburg-Harburg, da im Hamburger Hauptbahnhof keine Kapazitäten zur Verfügung stehen. Die Reparatur der betroffenen...
-
 [RE2 und RE3/RB31: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle](https://www.der-metronom.de/aktuell/re2-und-re3-rb31-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle/)
 
  Uelzen - 03.06.2024

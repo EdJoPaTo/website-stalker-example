@@ -1,7 +1,7 @@
 Ridepooling with MOIA in Hamburg and Hanover
 ==========
 
-We get you relaxed from A to B. Download the app. Book your ride. And arrive safely at your destination.
+Arrive at your destination stress-free. Download the MOIA app and book your ride.
 
 [](https://itunes.apple.com/de/app/moia/id1373271535?mt=8/)
 
@@ -13,40 +13,16 @@ We get you relaxed from A to B. Download the app. Book your ride. And arrive saf
 
  Scan the QR code and download the app
 
-Fully electric
+MOIA in Hamburg
+
+Hamburg, we take you further
 ----------
 
-MOIA is emission-free - so you're not only doing something good for yourself, as well as for others.
+Whether it's a theater night at Jungfernstieg, the holiday excitement on the way to the airport, or taking the party vibes to Reeperbahn, MOIA gets you there sustainably. Share your ride with others and book your fully electric MOIA via the app.
 
-Perfectly easy
-----------
+[Download app now](https://moia.go.link/?adj_t=1dqe9atu)
 
-Simply book via the app, hop on near you and sit back.
-
-Absolutely transparent
-----------
-
-You find out how much your journey will cost before you book. You can pay using the app.
-
-Our service area
-
-Hamburg
-----------
-
-Our shuttle service will drive you across Hamburg - from Altona to Bramfeld and from Fuhlsbüttel to the Hafencity.
-
-What to expect in Hamburg:
-----------
-
-[### Our service area ### From Lurup to Jenfeld or from Wilhelmsburg to Wellingsbüttel - we serve around two-thirds of Hamburg's residential area and are available to around 1.3 million people.](https://www.moia.io/en/cities#service-area-hh)
-
-[### Funded areas are discounted ### The areas Osdorf/Lurup, Billbrook/Billstedt/Jenfeld and Wilhelmsburg are partially funded by the state. You get a 1€ discount on journeys to and from these areas.](https://help.moia.io/hc/en-us/articles/360000988738)
-
-[### hvv subscribers save ### We are now part of public transport. With a hvv all year season ticket you get a discount of 1€ per trip.](https://moiahelp.zendesk.com/knowledge/articles/6773883111069)
-
-[### We are now also barrier-free ### To make our service more accessible, we now also have integrated newly developed MOIAs for wheelchair users into our fleet.](https://help.moia.io/hc/en-us/articles/360000437078)
-
-Service area Hamburg
+This is how we ride in Hamburg
 ----------
 
 **Regular service hours**
@@ -67,16 +43,29 @@ Thursday to Sunday
 
 Thu 5:00 am – Mon 1:00 am
 
-The discounted funding areas (marked in blue).
+Rides to and from [funded areas](https://help.moia.io/hc/en-us/articles/360000988738-Service-area-Hamburg) (blue) are discounted.
 
-Our service area
-
-Hanover
+Your benefits in Hamburg
 ----------
 
-With MOIA you can move easily and comfortably through Hanover - from Linden to Kleefeld and from the Bult to Badenstedt.
+[### Save as an hvv ticket holder ### Since 2023, we've been part of Hamburg's public transportation network. This means that as a full-time hvv ticket holder, you enjoy a €1 discount on every MOIA ride.](https://help.moia.io/hc/en-us/articles/6773883111069-hvv-partnership)
 
-Service area Hanover
+[### Bring your kid for free ### Kids up to 14 years old ride for free when accompanied by an adult. And only in Hamburg, kids get a 50% discount when riding MOIA alone.](https://www.moia.io/en/family)
+
+[### Save up to 50% per ride ### Are you a regular MOIA rider? With Smart Saver 25 or 50, you save on every ride in Hamburg. Get it in your MOIA app and start saving right away — without subscription.](https://www.moia.io/en/smart-saver)
+
+[### Ride barrier-free ### In Hamburg, we've integrated MOIAs for wheelchair users into our fleet. Simply book an accessible vehicle with a rear lift through the MOIA app.](https://help.moia.io/hc/en-us/articles/360000437078-Can-I-take-wheelchairs-or-walking-aids-with-me)
+
+MOIA in Hanover
+
+Hanover, we’ve got you covered
+----------
+
+Whether it's a movie night at Raschplatz, a family trip to the zoo, or a comfortable ride to the central station, MOIA gets you there sustainably. Share your ride with others and book your fully electric MOIA via the app.
+
+[Download app now](https://moia.go.link/?adj_t=1dqe9atu)
+
+This is how we ride in Hanover
 ----------
 
 **Regular service hours**
@@ -109,84 +98,72 @@ Sunday and holidays
 
 10:00 am – 10:00 pm
 
-Experience MOIA
-
-Make your city a comfort zone
+Your benefits in Hanover
 ----------
 
-Our electric shuttles not only offer emission-free local travel, but also a great deal of comfort along the way. Once you’ve experienced your first MOIA ride you won’t want to do without it again.
+[### Ride within the entire city ### From Ahlem to Anderten, from Bothfeld to Bemerode. Our service area in Hanover covers 204 square kilometers and also includes less central districts.](https://www.moia.io/en/cities)
 
-* Quiet, fully electric, emission-free local travel
-* Six seats with privacy and plenty of legroom
-* Electric door for easier boarding
-* Free Wi-Fi and USB ports
-* An air conditioner for hot days
-* Child seats and luggage rack
+[### Get to the trade fair with comfort ### Book your MOIA and travel comfortably and eco-friendly to the fairgrounds and back. We have stops close to entrances and exits.](https://www.moia.io/en/cities)
 
-How MOIA works
+[### Bring your kid for free ### Kids up to 14 years old ride for free when accompanied by an adult. And if needed, you can book a child seat or booster seat through the MOIA app.](https://www.moia.io/en/family)
+
+[### Preorder and ride later ### With your MOIA app, you can easily pre-book rides to the station, appointments, or concerts. This way, you can plan ahead and leave at your preferred time.](https://www.moia.io/en/prebooking)
+
+ Book your ride now
+
+ Here’s how
 ----------
 
- Our idea
+1. Download the app, register, enter your start, destination and the number of passengers.
+2. Choose from six offers with guaranteed fares and estimated arrival times and pay via app.
+3. Your MOIA picks you up at a stop near you - the app guides you there. Get on board, sit back and arrive relaxed!
 
- Ridepooling with MOIA
+Download the app. And book your first ride.
 ----------
 
-Shared ride – that means that you share a MOIA with up to five other people - who want to travel in the same direction. This means that there are fewer cars on the streets, and the quality of life in our city improves.
+App Store
 
-Environmentally friendly, thanks to shared rides.
+ hat 4,8
 
-You’re doing something positive for our city
+76k+ ratings
 
- Our app
+[](https://itunes.apple.com/de/app/moia/id1373271535?mt=8/)
 
- Ridepooling redefined
+Play Store
+
+ hat 4,8
+
+34k+ ratings
+
+[](https://play.google.com/store/apps/details?id=io.moia.neptune)
+
+[Scan the QR code and download the app ]() [Scan the QR code and download the app ]()
+
+ Download the app
+
+ Scan the QR code and download the app
+
+Frequently asked questions
 ----------
 
-Your ride with MOIA is super easy: Download the app, register, enter your start, destination and the number of passengers - and you'll receive up to three offers with the guaranteed fare and estimated time of arrival. Now you just have to decide. The payment is easy via the app.
+[How much does the service cost?](https://help.moia.io/hc/en-us/articles/360001347785-How-much-does-the-service-cost-)
 
-Average 200-metre walking on foot
+[How do I order a trip?](https://help.moia.io/hc/en-us/articles/360000796149-How-do-I-order-a-trip-)
 
-Find out your arrival time before the booking
+[What are MOIA stops?](https://help.moia.io/hc/en-us/articles/360000792145-What-are-MOIA-stops-)
 
-Kids now always travel for free\*!
+[When will my MOIA pick me up?](https://help.moia.io/hc/en-us/articles/360000796289-When-will-my-MOIA-pick-me-up-)
 
-Children up to the age of 14 can now travel free of charge at any time when accompanied by an adult.
+[What is MOIA Express?](https://help.moia.io/hc/en-us/articles/360020795318-MOIA-Express-booking)
 
-[More info](https://www.moia.io/en/family)
+[Can children ride with MOIA?](https://help.moia.io/hc/en-us/articles/360001438925-Can-children-ride-with-MOIA-)
 
- Your ride
+[Can I take luggage with me in the vehicle?](https://help.moia.io/hc/en-us/articles/360000796269-Can-I-take-luggage-with-me-in-the-vehicle-)
 
- So convenient, so relaxed
-----------
+[Can I book a trip in advance?](https://help.moia.io/hc/en-us/articles/4409227201297)
 
-Your MOIA picks you up at a stop near you - and the app guides you there. The app also shows you the pick-up and journey time, the virtual stops, the duration of the walk and the vehicle number three minutes before departure. And then? Get in, sit back and relax without having to search for a parking space. A screen in the MOIA shows you when you have reached your exit point.
+[At what times can I use MOIA?](https://help.moia.io/hc/en-us/articles/360001336037-At-what-times-can-I-use-MOIA-)
 
-Relax and ride with privacy seats
+[What is Smart Saver?](https://help.moia.io/hc/en-us/articles/4418377901073-Smart-Saver-for-Thrifty-Travellers-)
 
-Alternative to carsharing, public transport and taxi
-
-Do you have any other questions?
-----------
-
-[Find out more](https://help.moia.io/hc/en-us/articles/360000796149-How-do-I-order-a-trip-)
-
- You will love these three features
-----------
-
-###  MOIA Express  ###
-
-Reach your destination in a more direct way.
-
-[](https://www.moia.io/en/express)
-
-###  MOIA Prebooking  ###
-
-Book your trips in advance.
-
-[](https://www.moia.io/en/prebooking)
-
-###  MOIA Smart Saver  ###
-
-Save on every ride for 30 days.
-
-[](https://www.moia.io/en/smart-saver)
+[Find out more](https://help.moia.io/hc/en-us)

@@ -24,9 +24,9 @@ Storage
 
 512GB SSD  Gen3 PCIe storage
 
-1TB SSD  Gen3 PCIe storage
+1TB SSD  Gen3 PCIe storage  Sold Out - Get Notified When Available
 
-2TB SSD  Gen3 PCIe storage
+2TB SSD  Gen3 PCIe storage  Sold Out - Get Notified When Available
 
  Storage
 
@@ -128,11 +128,11 @@ English (UK)
 
 English (US)
 
-German
+German  Sold Out - Get Notified When Available
 
 Spanish
 
-French
+French  Sold Out - Get Notified When Available
 
 Nordic
 
