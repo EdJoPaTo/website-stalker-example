@@ -6,6 +6,48 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: June 7th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4335357576657162643</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 7, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						The magnifier scale can now be configured in Settings->Display.
+						<br>
+					</li>
+					<li>
+						FIxed temporary family feature grants not applying to child accounts.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4335357576657162643" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: May 31st</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4330853251141456172</link>
 			<content:encoded><![CDATA[<html>
@@ -317,58 +359,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330852965820787337" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: May 24th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4330852793646007793</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 25, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed startup in game mode intermittently hanging on boot logo
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed detecting the touchpad button on Qanba PS4/PS5 arcade sticks
-						<br>
-					</li>
-					<li>
-						Fixed the 8BitDo Wireless 2.4G controller showing up as two controllers on Linux
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330852793646007793" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
