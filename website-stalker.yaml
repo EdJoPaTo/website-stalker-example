@@ -61,7 +61,6 @@ sites:
       - html_prettify
 
   - url: https://www.debian.org/releases/
-    ignore_error: true
     editors:
       - css_select: "#content"
       - html_url_canonicalize
@@ -88,7 +87,6 @@ sites:
   - url:
       - https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt
       - https://downloads.raspberrypi.com/raspios_lite_armhf/release_notes.txt
-    ignore_error: true
 
   - url:
       - https://www.hifiberry.com/docs/
@@ -153,7 +151,6 @@ sites:
       - html_prettify
 
   - url: https://www.hetzner.com/news/
-    ignore_error: true
     editors:
       - rss:
           title: Hetzner News
