@@ -15,14 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[﻿Wir wünschen Euch ein schönes Wochenende – und bitten um Geduld](https://www.der-metronom.de/aktuell/wir-wuenschen-euch-ein-schoenes-wochenende---und-bitten-um-geduld/)
-
- Uelzen - 07.06.2024
-
-Liebe Fahrgäste,
-wir möchten uns bei euch entschuldigen, denn am Wochenende werden ein paar Züge nicht fahren können.
-Mehr Lokführer als üblich mussten sich leider krankmelden. „Jeder der fahren kann, fährt auch“ - aber es hat trotzdem nicht gereicht. Zusammen mit den ohnehin offenen Stellen...
-
 [RE2 und RE3/RB31: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle](https://www.der-metronom.de/aktuell/re2-und-re3-rb31-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle/)
 
  Uelzen - 03.06.2024
