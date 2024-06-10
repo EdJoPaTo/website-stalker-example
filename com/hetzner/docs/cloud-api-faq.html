@@ -1,0 +1,108 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h1>
+				FAQ
+			</h1>
+			<small>
+				Last change on 2023-03-22 • Created on 2020-07-02 • ID: CL-85E5D
+			</small>
+			<article>
+				<h2>
+					Can I access your service using an API?
+				</h2>
+				<p>
+					Of course! You can find our API documentation at
+					<a href="https://docs.hetzner.cloud" rel="noopener noreferrer">
+						docs.hetzner.cloud
+					</a>
+					.
+				</p>
+				<p>
+					If you used our API to develop something, we would appreciate your feedback. Please let us know about it by writing a support request using your Cloud Console account.
+				</p>
+				<h2>
+					How are API tokens stored?
+				</h2>
+				<p>
+					In order to access our API, you will need to generate an API token, which is a 64 byte string. The last 32 bytes of this key are secret. The first 32 bytes are a prefix which is used for identification, similar to a username. When the token is created, we will display the full version only once.
+				</p>
+				<p>
+					After that, your token cannot be retrieved in full again since the secret portion is only stored in a hashed format. The prefix can be retrieved again to identify the token, for example, in the list of account activities.
+				</p>
+				<p>
+					The prefix part itself does not enable access to the API since the secret part is needed as well.
+				</p>
+				<h2>
+					Do you sponsor efforts to integrate Hetzner Cloud into Open Source libs?
+				</h2>
+				<p>
+					Yes, we do! If you are developing integrations based on our API, and your product is Open Source, you may be eligible for a free one time € 50 (excl. VAT) credit on your account. Please contact us by writing a support request from your Cloud Console account, and let us know the following:
+				</p>
+				<ul>
+					<li>
+						The type of integration you would like to develop
+					</li>
+					<li>
+						The link to the GitHub repo you will use for the project
+					</li>
+					<li>
+						Link(s) to some other Open Source work you have already done (if you have done so)
+					</li>
+				</ul>
+				<p>
+					You can find a list of integrations that are already done or are being worked on here:
+				</p>
+				<p>
+					<a href="https://github.com/hetznercloud/awesome-hcloud" rel="noopener noreferrer">
+						https://github.com/hetznercloud/awesome-hcloud
+					</a>
+				</p>
+				<p>
+					We'd love to hear from you! :)
+				</p>
+				<h2>
+					Is there a command line (CLI) tool to access Hetzner Cloud?
+				</h2>
+				<p>
+					Yes. We provide it as an Open Source project here:
+					<a href="https://github.com/hetznercloud/cli" rel="noopener noreferrer">
+						https://github.com/hetznercloud/cli
+					</a>
+				</p>
+				<p>
+					If you would like to contribute or extend it, please do so by opening pull requests.
+				</p>
+				<h2>
+					Is there a library that lets me access Hetzner Cloud using my programming language?
+				</h2>
+				<p>
+					We currently provide Open Source libraries for
+					<a href="https://github.com/hetznercloud/hcloud-go" rel="noopener noreferrer">
+						Go
+					</a>
+					and
+					<a href="https://github.com/hetznercloud/hcloud-python" rel="noopener noreferrer">
+						Python
+					</a>
+					.
+				</p>
+				<p>
+					You can find inofficial libraries for many languages at our integrations list:
+					<a href="https://github.com/hetznercloud/awesome-hcloud" rel="noopener noreferrer">
+						https://github.com/hetznercloud/awesome-hcloud
+					</a>
+				</p>
+				<p>
+					Since our API is very easy to use, you may not even need a full lib — a quick HTTPS request may be enough. Check out our API documentation at
+					<a href="https://docs.hetzner.cloud" rel="noopener noreferrer">
+						docs.hetzner.cloud
+					</a>
+					.
+				</p>
+			</article>
+		</div>
+	</body>
+</html>

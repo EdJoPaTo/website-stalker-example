@@ -1,0 +1,995 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h1>
+				Using the API
+			</h1>
+			<small>
+				Last change on 2023-07-25 • Created on 2022-11-21 • ID: CL-09EB0
+			</small>
+			<article>
+				<ol>
+					<li>
+						<p>
+							Get your API token ready
+						</p>
+						<p>
+							In order to use the
+							<a href="https://docs.hetzner.cloud/" rel="noopener noreferrer">
+								API
+							</a>
+							, you will need an API token. Make sure to create a separate API token for each project, as each API token is bound to the project it was created in and cannot be used for other projects.
+						</p>
+						<p>
+							If you haven't created an API token yet, do this now. The getting started
+							<a href="/cloud/api/getting-started/generating-api-token/" rel="noopener noreferrer">
+								"Generating an API token"
+							</a>
+							explains step by step how this is done. Make sure to copy and save the API token after it was created, as it will not be possible to view the token again.
+						</p>
+						<blockquote>
+							<p>
+								In all example commands,
+								<code>
+									$API_TOKEN
+								</code>
+								will be used as a placeholder. Remember that you will have to replace
+								<code>
+									$API_TOKEN
+								</code>
+								with your actual API token. Example:
+							</p>
+							<div>
+								<pre>
+									<code>
+										-H "Authorization: Bearer $API_TOKEN" \
+									</code>
+									<span>
+										<span>
+										</span>
+									</span>
+								</pre>
+							</div>
+							<div>
+								<pre>
+									<code>
+										-H "Authorization: Bearer jEheVytlAoFl7F8MqUQ7jAo2hOXASztX" \
+									</code>
+									<span>
+										<span>
+										</span>
+									</span>
+								</pre>
+							</div>
+						</blockquote>
+						<details>
+							<summary>
+								<b>
+									Example project
+								</b>
+							</summary>
+							<div>
+								<div>
+									<div>
+										<div>
+											<b>
+												Project 1
+											</b>
+										</div>
+									</div>
+									<div>
+										<div>
+											<code>
+												$API_TOKEN_1
+											</code>
+										</div>
+									</div>
+									<div>
+										<div>
+											2x
+										</div>
+										<div>
+											Server
+										</div>
+										<div>
+											2x
+										</div>
+										<div>
+											Primary IP
+										</div>
+										<div>
+											1x
+										</div>
+										<div>
+											Private Network
+										</div>
+									</div>
+								</div>
+								<div>
+									<div>
+										<div>
+											<b>
+												Project 2
+											</b>
+										</div>
+									</div>
+									<div>
+										<div>
+											<code>
+												$API_TOKEN_2
+											</code>
+										</div>
+									</div>
+									<div>
+										<div>
+											1x
+										</div>
+										<div>
+											Server
+										</div>
+										<div>
+											1x
+										</div>
+										<div>
+											Primary IP
+										</div>
+										<div>
+											1x
+										</div>
+										<div>
+											Firewall
+										</div>
+									</div>
+								</div>
+							</div>
+							<p>
+								<br>
+								To request information about the two servers in "Project 1", you will have to add
+								<code>
+									$API_TOKEN_1
+								</code>
+								to the curl command:
+								<br>
+							</p>
+							<div>
+								<div>
+									<div>
+										curl \
+										<br>
+										-H "Authorization: Bearer $API_TOKEN_1" \
+										<br>
+										'https://api.hetzner.cloud/v1/servers'
+									</div>
+								</div>
+							</div>
+						</details>
+					</li>
+				</ol>
+				<br>
+				<ol start="2">
+					<li>
+						<p>
+							Refer to the documentation
+						</p>
+						<p>
+							Go to the
+							<a href="https://docs.hetzner.cloud/" rel="noopener noreferrer">
+								Cloud API documentation
+							</a>
+							and use the menu bar on the left to navigate to the request that you would like to perform.
+						</p>
+						<p>
+							<span>
+								<span>
+								</span>
+								<img alt="cloud-api-docs" src="/static/7e2e83f03cade8edd0b7ff1efe9db3d6/5a190/api-docs-get-server.png" title="cloud-api-docs">
+							</span>
+						</p>
+						<p>
+							Depending on the action, you will have to make one of four requests.
+						</p>
+						<details>
+							<summary>
+								<b>
+									The four request types
+								</b>
+							</summary>
+							<div>
+								<div>
+									<div>
+										<div>
+											<b>
+												GET
+												<br>
+												<kbd>
+													Read
+												</kbd>
+											</b>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div>
+										<div>
+											curl \
+											<br>
+											<ol>
+												-H "Authorization: Bearer $API_TOKEN" \
+												<br>
+												'https://api.hetzner.cloud/v1/{api-url-ending}'
+											</ol>
+										</div>
+									</div>
+									<div>
+										Get information about available tariffs, a resource, a location, or something else
+									</div>
+								</div>
+							</div>
+							<br>
+							<div>
+								<div>
+									<div>
+										<div>
+											<b>
+												POST
+											</b>
+											<br>
+											<kbd>
+												Read & Write
+											</kbd>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div>
+										<div>
+											curl \
+											<br>
+											<ol>
+												-X POST \
+												<br>
+												-H "Authorization: Bearer $API_TOKEN" \
+												<br>
+												-H "Content-Type: application/json" \
+												<br>
+												-d '{"property":value,"property":value,...}' \
+												<br>
+												'https://api.hetzner.cloud/v1/{api-url-ending}'
+											</ol>
+										</div>
+									</div>
+									<div>
+										Create new resources and/or configure them
+									</div>
+								</div>
+							</div>
+							<br>
+							<div>
+								<div>
+									<div>
+										<div>
+											<b>
+												PUT
+											</b>
+											<br>
+											<kbd>
+												Read & Write
+											</kbd>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div>
+										<div>
+											curl \
+											<br>
+											<ol>
+												-X PUT \
+												<br>
+												-H "Authorization: Bearer $API_TOKEN" \
+												<br>
+												-H "Content-Type: application/json" \
+												<br>
+												-d '{"property":value,"property":value,...}' \
+												<br>
+												'https://api.hetzner.cloud/v1/{api-url-ending}/{id}'
+											</ol>
+										</div>
+									</div>
+									<div>
+										Update the properties of an existing resource
+									</div>
+								</div>
+							</div>
+							<br>
+							<div>
+								<div>
+									<div>
+										<div>
+											<b>
+												DELETE
+											</b>
+											<br>
+											<kbd>
+												Read & Write
+											</kbd>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div>
+										<div>
+											curl \
+											<br>
+											<ol>
+												-X DELETE \
+												<br>
+												-H "Authorization: Bearer $API_TOKEN" \
+												<br>
+												'https://api.hetzner.cloud/v1/{api-url-ending}/{id}'
+											</ol>
+										</div>
+									</div>
+									<div>
+										Delete an existing resource
+									</div>
+								</div>
+							</div>
+						</details>
+					</li>
+				</ol>
+				<br>
+				<ol start="3">
+					<li>
+						<p>
+							Copy the curl command
+						</p>
+						<p>
+							After you have navigated to the action that you would like to perform, look for "HTTP Request":
+						</p>
+						<p>
+							<span>
+								<span>
+								</span>
+								<img alt="api-request" src="/static/e73ffddc6cb90b47f106ab6cc0e54cc1/5a190/api-docs-get-server-request.png" title="api-request">
+							</span>
+						</p>
+						<p>
+							The basic structure of "HTTP Request" is
+							<code>
+								<request-type> <api-url-ending>
+							</code>
+							.
+						</p>
+						<p>
+							This tells you which curl request you will have to use. There is also an example for every request on the right of the API documentation. In this example ("HTTP Request":
+							<code>
+								GET /servers
+							</code>
+							), the curl command would look like this:
+						</p>
+						<p>
+							<span>
+								<span>
+								</span>
+								<img alt="api-request" src="/static/9671626810c700bcfa66cdaa941adb1f/5a190/api-docs-get-example-curl.png" title="api-request">
+							</span>
+						</p>
+						<div>
+							<pre>
+								<code>
+									curl \
+    -H "Authorization: Bearer $API_TOKEN" \
+    'https://api.hetzner.cloud/v1/servers'
+								</code>
+								<span>
+									<span>
+									</span>
+									<span>
+									</span>
+									<span>
+									</span>
+								</span>
+							</pre>
+						</div>
+						<blockquote>
+							<p>
+								Note that you have to replace
+								<code>
+									$API_TOKEN
+								</code>
+								with your own API token.
+							</p>
+						</blockquote>
+						<details>
+							<summary>
+								<b>
+									The curl command explained
+								</b>
+							</summary>
+							<ul>
+								<li>
+									<code>
+										-X {request-type}
+									</code>
+									The first line usually specifies the type of request. However, for
+									<code>
+										GET
+									</code>
+									requests you do not need this line.
+								</li>
+							</ul>
+							<ul>
+								<li>
+									<code>
+										-H "Authorization: Bearer $API_TOKEN"
+									</code>
+									This line is where you have to add the API token. The API token is bound to a specific project. Therefore, this line defines in which project the request should be performed.
+								</li>
+							</ul>
+							<ul>
+								<li>
+									For
+									<code>
+										POST
+									</code>
+									and
+									<code>
+										PUT
+									</code>
+									requests, you will sometimes need to define certain properties that are needed to create or modify a resource. A property could be a name (
+									<code>
+										"name":"unique-name"
+									</code>
+									), or a type (
+									<code>
+										"type":"ipv4"
+									</code>
+									), for example. To add this information, two additional lines are needed:
+								</li>
+							</ul>
+							<ul>
+								<div>
+									<div>
+										<div>
+											curl \
+											<br>
+											-X POST \
+											<br>
+											-H "Authorization: Bearer $API_TOKEN" \
+											<br>
+											+  -H "Content-Type: application/json" \
+											<br>
+											+  -d '{"property":value,"property":value,...}' \
+											<br>
+											'https://api.hetzner.cloud/v1/servers'
+										</div>
+									</div>
+								</div>
+							</ul>
+						</details>
+					</li>
+				</ol>
+				<br>
+				<ol start="4">
+					<li>
+						<p>
+							Add properties to a POST or PUT request
+						</p>
+						<p>
+							When you create a new resource, or update an existing one, you will probably want to specify certain properties, such as a name or location.
+						</p>
+						<p>
+							To get started quickly, you can simply copy the example curl on the right. The example curl includes the most essential properties, and you can simply edit the values, or delete properties that you don't want to specify. Note, however, that some properties are mandatory and you
+							<strong>
+								have to
+							</strong>
+							specify them in the curl command. To learn more about the properties, you can look at the explanations given below the "Request" caption. Mandatory properties are marked as
+							<code>
+								required
+							</code>
+							.
+						</p>
+						<p>
+							<span>
+								<span>
+								</span>
+								<img alt="api-properties" src="/static/47dd0113731a4c35b7b81bb09de421de/5a190/api-docs-create-properties.png" title="api-properties">
+							</span>
+						</p>
+						<p>
+							Instead of copying the curl command, you can also use the documentation below the "Request" caption. It gives you a list of all available properties along with their value type and a short description of what the property is used for.
+						</p>
+						<blockquote>
+							<b>
+								property
+							</b>
+							<small>
+								<b>
+									value
+								</b>
+							</small>
+							<br>
+							Description of the property
+						</blockquote>
+						<p>
+							To add a property to the curl command, use this format:
+						</p>
+						<div>
+							<div>
+								<div>
+									curl \
+									<br>
+									-X {request-type} \
+									<br>
+									-H "Authorization: Bearer $API_TOKEN" \
+									<br>
+									-H "Content-Type: application/json" \
+									<br>
+									-d '{"property":value,"property":value,...}' \
+									<br>
+									'https://api.hetzner.cloud/v1/{api-url-ending}'
+								</div>
+							</div>
+						</div>
+						<br>
+						<p>
+							<strong>
+								The different value types:
+							</strong>
+						</p>
+						<table>
+							<thead>
+								<tr>
+									<th>
+										value
+									</th>
+									<th>
+										format
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>
+										string
+									</td>
+									<td>
+										<kbd>
+											"any-text"
+										</kbd>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										integer
+									</td>
+									<td>
+										<kbd>
+											12
+										</kbd>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										object
+									</td>
+									<td>
+										<kbd>
+											{"property":value}
+										</kbd>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										boolean
+									</td>
+									<td>
+										<kbd>
+											true
+										</kbd>
+										<br>
+										<kbd>
+											false
+										</kbd>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										nullable
+									</td>
+									<td>
+										<kbd>
+											null
+										</kbd>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<details>
+							<summary>
+								<b>
+									Example request
+								</b>
+							</summary>
+							<blockquote>
+								<p>
+									Create Resource X
+								</p>
+								<small>
+									<b>
+										Request
+									</b>
+									<hr>
+									<b>
+										name
+									</b>
+									<small>
+										string
+									</small>
+									<br>
+									Name of resource
+									<hr>
+									<b>
+										resource_y
+									</b>
+									<small>
+										integer
+									</small>
+									<br>
+									ID of Resource Y which you would like to add to Resource X
+									<hr>
+									<b>
+										labels
+									</b>
+									<small>
+										object
+									</small>
+									<br>
+									User-defined labels (key-value pairs)
+									<ul>
+										<hr>
+										<b>
+											labelkey
+										</b>
+										<small>
+											string
+										</small>
+										<br>
+										New label
+									</ul>
+									<hr>
+									<b>
+										delete
+									</b>
+									<small>
+										boolean
+									</small>
+									<br>
+									If true, prevents the resource from being deleted
+									<hr>
+									<b>
+										description
+									</b>
+									<small>
+										string – nullable
+									</small>
+									<br>
+									Description of the resource
+								</small>
+							</blockquote>
+							<ul>
+								<br>
+								<b>
+									Example
+									<kbd>
+										-d
+									</kbd>
+									line in curl command:
+								</b>
+								<br>
+							</ul>
+							<blockquote>
+								<div>
+									<div>
+										<div>
+											-d '{"name":"my-resource","resource_y":18,"labels":{"labelkey":"my-label"},"delete":true,"description":null}'
+										</div>
+									</div>
+								</div>
+							</blockquote>
+						</details>
+						<br>
+						<p>
+							When it says
+							<code>
+								array of ...
+							</code>
+							, you can simply use the format
+							<code>
+								"property":[value]
+							</code>
+							. The individual values are separated by comma:
+						</p>
+						<table>
+							<thead>
+								<tr>
+									<th>
+										array of ...
+									</th>
+									<th>
+										format
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>
+										strings
+									</td>
+									<td>
+										<kbd>
+											["any-text","any-text"]
+										</kbd>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										integers
+									</td>
+									<td>
+										<kbd>
+											[12,43]
+										</kbd>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										objects
+									</td>
+									<td>
+										<kbd>
+											[{"property":value,"property":value}]
+										</kbd>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</li>
+				</ol>
+				<br>
+				<ol start="5">
+					<li>
+						<p>
+							Query Parameters
+						</p>
+						<p>
+							Query parameters make it possible to refine the results that are shown for a request. For example, you could specify that only resources with a certain label should be returned.
+						</p>
+						<p>
+							<strong>
+								Format to refine the results:
+							</strong>
+						</p>
+						<ul>
+							<li>
+								<p>
+									<strong>
+										A simple query parameter
+									</strong>
+									<br>
+								</p>
+								<div>
+									<div>
+										<div>
+											https://api.hetzner.cloud/v1/{api-url-ending}?parameter=value
+										</div>
+									</div>
+								</div>
+							</li>
+							<li>
+								<p>
+									<strong>
+										A query parameter with an enum value
+									</strong>
+									<br>
+									"enum values" are predefined values that you can just copy and paste to the URL.
+								</p>
+								<div>
+									<div>
+										<div>
+											https://api.hetzner.cloud/v1/{api-url-ending}?parameter={enum-value}
+										</div>
+									</div>
+								</div>
+							</li>
+							<li>
+								<p>
+									<strong>
+										Two or more query parameters
+									</strong>
+									<br>
+									The first parameter that is added to the URL begins with a question mark
+									<code>
+										?
+									</code>
+									. Every other parameter that follows begins with an "and" sign
+									<code>
+										&
+									</code>
+									.
+								</p>
+								<div>
+									<div>
+										<div>
+											https://api.hetzner.cloud/v1/{api-url-ending}?parameter=value
+											<span>
+												&pa
+											</span>
+											rameter=value
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+						<p>
+							If you want to refine the results to a certain request, you can refer to "Query Parameters". This section gives you a list of any parameters that are available for a specific request.
+						</p>
+						<p>
+							<span>
+								<span>
+								</span>
+								<img alt="api-query-parameters" src="/static/ebef5524a28fcd1198ca8edb2a1a0d20/5a190/api-docs-query-parameters.png" title="api-query-parameters">
+							</span>
+						</p>
+						<blockquote>
+							<b>
+								parameter
+							</b>
+							<small>
+								<b>
+									value
+								</b>
+							</small>
+							<br>
+							Description of the parameter
+						</blockquote>
+						<details>
+							<summary>
+								<b>
+									Examples
+								</b>
+							</summary>
+							<blockquote>
+								<ul>
+									<li>
+										<b>
+											Label selectors
+											<br>
+										</b>
+										Resources can have simple labels that only consist of the
+										<kbd>
+											key
+										</kbd>
+										part, and they can have
+										<kbd>
+											key
+											<kbd>
+												value
+											</kbd>
+										</kbd>
+										pairs ("key=value"). You can filter your resources by specifying either the "key" only, or both the "key" and the "value".
+										<div>
+											<div>
+												<div>
+													https://api.hetzner.cloud/v1/floating_ips?label_selector=env
+												</div>
+											</div>
+										</div>
+										In this example, the request could return resources with labels such as
+										<kbd>
+											env
+											<kbd>
+												production
+											</kbd>
+										</kbd>
+										,
+										<kbd>
+											env
+											<kbd>
+												testing
+											</kbd>
+										</kbd>
+										, or with a simple
+										<kbd>
+											env
+										</kbd>
+										label. For more information, refer to the official
+										<a href="https://docs.hetzner.cloud/#label-selector" rel="noopener noreferrer">
+											documentation on label selectors
+										</a>
+										.
+										<br>
+										<br>
+									</li>
+									<li>
+										<b>
+											Sort
+											<br>
+										</b>
+										In the example image above, it says that you can sort your resources by ID or by their creation date. To sort the results by ID in an ascending ("asc") order, you can simply copy and paste the corresponding enum value.
+										<div>
+											<div>
+												<div>
+													https://api.hetzner.cloud/v1/floating_ips?sort=id:asc
+												</div>
+											</div>
+										</div>
+										For more information, refer to the official
+										<a href="https://docs.hetzner.cloud/#sorting" rel="noopener noreferrer">
+											documentation on sorting
+										</a>
+										.
+										<br>
+										<br>
+									</li>
+									<li>
+										<b>
+											Two parameters in one request
+											<br>
+										</b>
+										<div>
+											<div>
+												<div>
+													https://api.hetzner.cloud/v1/floating_ips?label_selector=env&sort=id:asc
+												</div>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</blockquote>
+						</details>
+					</li>
+				</ol>
+				<br>
+				<ol start="6">
+					<li>
+						<p>
+							Execute the curl command
+						</p>
+						<p>
+							After you have copied and modified the curl command, make sure you have also added the correct API token. Then, execute the command using a command-line interface (CLI).
+						</p>
+					</li>
+				</ol>
+				<p>
+					After you executed the command, you will get a response that will let you know if the request was successful. Any changes you make via the API are also displayed in the Cloud Console.
+				</p>
+				<br>
+				<p>
+					<strong>
+						Next:
+					</strong>
+				</p>
+				<ul>
+					<li>
+						<p>
+							<a href="/cloud/api/getting-started/generating-api-token" rel="noopener noreferrer">
+								Generating an API token
+							</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<a href="/cloud/servers/getting-started/connecting-to-the-server" rel="noopener noreferrer">
+								Connecting to a Server
+							</a>
+						</p>
+					</li>
+				</ul>
+			</article>
+		</div>
+	</body>
+</html>

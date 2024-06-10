@@ -160,7 +160,24 @@ sites:
             - css_select: p
             - html_sanitize
             - html_prettify
-  - url: https://docs.hetzner.com/robot/dedicated-server/operating-systems/standard-images/
+  - url:
+      - https://www.hetzner.com/cloud/
+      - https://www.hetzner.com/storage/storage-box/
+      - https://www.hetzner.com/storage/storage-share/
+    editors:
+      - css_select: main
+      - css_remove: script, nav, picture, img, svg
+      - html_url_canonicalize
+      - html_markdownify
+      - regex_replace:
+          pattern: '\n\s+~\$ '
+          replace: "\n~$ "
+  - url:
+      - https://docs.hetzner.com/cloud/api/faq
+      - https://docs.hetzner.com/cloud/api/getting-started/using-api/
+      - https://docs.hetzner.com/cloud/servers/overview/
+      - https://docs.hetzner.com/cloud/technical-details/faq/
+      - https://docs.hetzner.com/robot/dedicated-server/operating-systems/standard-images/
     editors:
       - css_select: div.article
       - css_remove: svg, a[href^="#"]

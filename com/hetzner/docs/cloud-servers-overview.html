@@ -1,0 +1,856 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h1>
+				Overview
+			</h1>
+			<small>
+				Last change on 2024-06-06 • Created on 2022-06-28 • ID: CL-B8510
+			</small>
+			<article>
+				<h2>
+					Servers
+				</h2>
+				<p>
+					Cloud servers are virtual machines that run on physical servers and are used to run an operating system and computer programs. The physical servers are located in the USA and in our data centers in Europe. The virtualization makes it possible for you to adjust the scale of your servers at any time. And you can easily add or remove other features if needed. Our cloud servers do not include public IP addresses but you can add Primary IPs if you would like to have a public network interface. You can choose to use existing Primary IPs (IPv4, IPv6) from your project or to create a new one with the server.
+				</p>
+				<p>
+					You can create your own cloud server quickly and easily in the
+					<a href="https://console.hetzner.cloud" rel="noopener noreferrer">
+						Cloud Console
+					</a>
+					and add features such as Firewalls and Volumes. You also have the option to create a new server from a snapshot.
+				</p>
+				<h2>
+					Pricing
+				</h2>
+				<p>
+					Cloud server prices vary depending on the  (Shared vCPU, Dedicated vCPU) and do not include public IP addresses. Per server, you can add one Primary IP of each type (IPv4, IPv6), see .
+				</p>
+				<h4>
+					Server types
+				</h4>
+				<p>
+					You can choose between
+					<strong>
+						Shared vCPU
+					</strong>
+					and
+					<strong>
+						Dedicated vCPU
+					</strong>
+					cloud servers.
+				</p>
+				<div>
+					<div>
+						<b>
+							Shared vCPU
+						</b>
+						<li>
+							For best performance, hypervisors are used to distribute usage rights of CPU resources among several virtual servers
+						</li>
+						<li>
+							Ideal for individual applications or development environments
+						</li>
+						<br>
+					</div>
+					<div>
+						<h3>
+						</h3>
+						<br>
+						<br>
+						<br>
+					</div>
+					<div>
+						<b>
+							Dedicated vCPU
+						</b>
+						<li>
+							Every dedicated vCPU instance has its own dedicated CPU resources
+						</li>
+						<li>
+							Ideal for CPU intensive applications or research calculations
+						</li>
+						<br>
+						<br>
+						<br>
+					</div>
+				</div>
+				<p>
+					Following plans are available for each of those two types, excluding the additional cost for a Primary IPv4:
+				</p>
+				<h5>
+					Shared vCPU
+				</h5>
+				<p>
+					<strong>
+						With x86 architecture:
+					</strong>
+				</p>
+				<table>
+					<thead>
+						<tr>
+							<th>
+								Name
+							</th>
+							<th>
+								vCPUs
+							</th>
+							<th>
+								Ram
+							</th>
+							<th>
+								SSD
+							</th>
+							<th>
+								Traffic
+							</th>
+							<th>
+								Price*
+							</th>
+							<th>
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								CPX11
+							</td>
+							<td>
+								2 AMD
+							</td>
+							<td>
+								2 GB
+							</td>
+							<td>
+								40 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0063 / h
+							</td>
+							<td>
+								€ 3.85 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CX22
+							</td>
+							<td>
+								2 Intel
+							</td>
+							<td>
+								4 GB
+							</td>
+							<td>
+								40 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0052 / h
+							</td>
+							<td>
+								€ 3.29 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CPX21
+							</td>
+							<td>
+								3 AMD
+							</td>
+							<td>
+								4 GB
+							</td>
+							<td>
+								80 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0112 / h
+							</td>
+							<td>
+								€ 7.05 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CX32
+							</td>
+							<td>
+								4 Intel
+							</td>
+							<td>
+								8 GB
+							</td>
+							<td>
+								80 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0105 / h
+							</td>
+							<td>
+								€ 6.30 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CPX31
+							</td>
+							<td>
+								4 AMD
+							</td>
+							<td>
+								8 GB
+							</td>
+							<td>
+								160 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0211 / h
+							</td>
+							<td>
+								€ 13.10 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CX42
+							</td>
+							<td>
+								8 Intel
+							</td>
+							<td>
+								16 GB
+							</td>
+							<td>
+								160 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0265 / h
+							</td>
+							<td>
+								€ 15.90 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CPX41
+							</td>
+							<td>
+								8 AMD
+							</td>
+							<td>
+								16 GB
+							</td>
+							<td>
+								240 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0409 / h
+							</td>
+							<td>
+								€ 24.70 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CX52
+							</td>
+							<td>
+								16 Intel
+							</td>
+							<td>
+								32 GB
+							</td>
+							<td>
+								320 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0532 / h
+							</td>
+							<td>
+								€ 31.90 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CPX51
+							</td>
+							<td>
+								16 AMD
+							</td>
+							<td>
+								32 GB
+							</td>
+							<td>
+								360 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0872 / h
+							</td>
+							<td>
+								€ 54.40 / mo
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p>
+					*All prices excl. VAT
+				</p>
+				<p>
+					<strong>
+						With Arm64 architecture:
+					</strong>
+				</p>
+				<table>
+					<thead>
+						<tr>
+							<th>
+								Name
+							</th>
+							<th>
+								vCPUs
+							</th>
+							<th>
+								Ram
+							</th>
+							<th>
+								SSD
+							</th>
+							<th>
+								Traffic
+							</th>
+							<th>
+								Price*
+							</th>
+							<th>
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								CAX11
+							</td>
+							<td>
+								2 Ampere
+							</td>
+							<td>
+								4 GB
+							</td>
+							<td>
+								40 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0053 / h
+							</td>
+							<td>
+								€ 3.29 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CAX21
+							</td>
+							<td>
+								4 Ampere
+							</td>
+							<td>
+								8 GB
+							</td>
+							<td>
+								80 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0096 / h
+							</td>
+							<td>
+								€ 5.99 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CAX31
+							</td>
+							<td>
+								8 Ampere
+							</td>
+							<td>
+								16 GB
+							</td>
+							<td>
+								160 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0192 / h
+							</td>
+							<td>
+								€ 11.99 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CAX41
+							</td>
+							<td>
+								16 Ampere
+							</td>
+							<td>
+								32 GB
+							</td>
+							<td>
+								320 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0384 / h
+							</td>
+							<td>
+								€ 23.99 / mo
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p>
+					*All prices excl. VAT
+				</p>
+				<h5>
+					Dedicated vCPU
+				</h5>
+				<p>
+					<strong>
+						With x86 architecture:
+					</strong>
+				</p>
+				<table>
+					<thead>
+						<tr>
+							<th>
+								Name
+							</th>
+							<th>
+								vCPUs
+							</th>
+							<th>
+								Ram
+							</th>
+							<th>
+								SSD
+							</th>
+							<th>
+								Traffic
+							</th>
+							<th>
+								Price*
+							</th>
+							<th>
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								CCX13
+							</td>
+							<td>
+								2 AMD
+							</td>
+							<td>
+								8 GB
+							</td>
+							<td>
+								80 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0192 / h
+							</td>
+							<td>
+								€ 11.99 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CCX23
+							</td>
+							<td>
+								4 AMD
+							</td>
+							<td>
+								16 GB
+							</td>
+							<td>
+								160 GB
+							</td>
+							<td>
+								20 TB
+							</td>
+							<td>
+								€ 0.0384 / h
+							</td>
+							<td>
+								€ 23.99 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CCX33
+							</td>
+							<td>
+								8 AMD
+							</td>
+							<td>
+								32 GB
+							</td>
+							<td>
+								240 GB
+							</td>
+							<td>
+								30 TB
+							</td>
+							<td>
+								€ 0.0769 / h
+							</td>
+							<td>
+								€ 47.99 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CCX43
+							</td>
+							<td>
+								16 AMD
+							</td>
+							<td>
+								64 GB
+							</td>
+							<td>
+								360 GB
+							</td>
+							<td>
+								40 TB
+							</td>
+							<td>
+								€ 0.1538 / h
+							</td>
+							<td>
+								€ 95.99 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CCX53
+							</td>
+							<td>
+								32 AMD
+							</td>
+							<td>
+								128 GB
+							</td>
+							<td>
+								600 GB
+							</td>
+							<td>
+								50 TB
+							</td>
+							<td>
+								€ 0.3077 / h
+							</td>
+							<td>
+								€ 191.99 / mo
+							</td>
+						</tr>
+						<tr>
+							<td>
+								CCX63
+							</td>
+							<td>
+								48 AMD
+							</td>
+							<td>
+								192 GB
+							</td>
+							<td>
+								960 GB
+							</td>
+							<td>
+								60 TB
+							</td>
+							<td>
+								€ 0.4615 / h
+							</td>
+							<td>
+								€ 287.99 / mo
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p>
+					*All prices excl. VAT
+				</p>
+				<h2>
+					Network options
+				</h2>
+				<p>
+					Cloud servers do not include public IP addresses. Therefore, a
+					<a href="/cloud/servers/primary-ips/overview" rel="noopener noreferrer">
+						Primary IP
+					</a>
+					has to be added to the server to establish a connection to the internet.
+				</p>
+				<ul>
+					<li>
+						<p>
+							We do not charge for our Primary IPs of type IPv6.
+						</p>
+					</li>
+					<li>
+						<p>
+							We charge an additional cost of
+							<strong>
+								€ 0.50/month (excl. VAT)
+							</strong>
+							for our Primary IPs of type IPv4.
+						</p>
+					</li>
+				</ul>
+				<p>
+					When creating a server, you can choose from three network options. At least one of those three options has to be selected.
+				</p>
+				<table>
+					<thead>
+						<tr>
+							<th align="left">
+								Option
+							</th>
+							<th>
+							</th>
+							<th>
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td align="left">
+								Private network
+							</td>
+							<td>
+								no Primary IP
+							</td>
+							<td>
+								at least one pvt IP
+							</td>
+						</tr>
+						<tr>
+							<td align="left">
+								Public network
+							</td>
+							<td>
+								one Primary IP (IPv4
+								<strong>
+									or
+								</strong>
+								IPv6 )
+							</td>
+							<td>
+								pvt IP optional
+							</td>
+						</tr>
+						<tr>
+							<td align="left">
+								Public network
+							</td>
+							<td>
+								two Primary IPs (IPv4
+								<strong>
+									and
+								</strong>
+								IPv6)
+							</td>
+							<td>
+								pvt IP optional
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p>
+					If you create a server with a public IP address and do not select an existing Primary IP from your project, our system will auto-create one for you.
+				</p>
+				<h2>
+					Operating systems
+				</h2>
+				<p>
+					You can choose from
+					<strong>
+						Ubuntu
+					</strong>
+					,
+					<strong>
+						Fedora
+					</strong>
+					,
+					<strong>
+						Debian
+					</strong>
+					,
+					<strong>
+						CentOS
+					</strong>
+					,
+					<strong>
+						Rocky Linux
+					</strong>
+					, and
+					<strong>
+						AlmaLinux
+					</strong>
+					as your operating system.
+				</p>
+				<h2>
+					Resources and attributes
+				</h2>
+				<p>
+					The following resources and attributes are associated with this feature:
+				</p>
+				<ul>
+					<li>
+						<a href="/cloud/servers/primary-ips/overview" rel="noopener noreferrer">
+							Primary IPs
+						</a>
+					</li>
+					<li>
+						<a href="/cloud/apps/overview" rel="noopener noreferrer">
+							Apps
+						</a>
+					</li>
+					<li>
+						<a href="/cloud/volumes/overview" rel="noopener noreferrer">
+							Volumes
+						</a>
+					</li>
+					<li>
+						Floating IPs
+					</li>
+					<li>
+						<a href="/cloud/firewalls/overview" rel="noopener noreferrer">
+							Firewalls
+						</a>
+					</li>
+					<li>
+						<a href="/cloud/load-balancers/overview" rel="noopener noreferrer">
+							Load Balancers
+						</a>
+					</li>
+					<li>
+						<a href="/cloud/networks/overview" rel="noopener noreferrer">
+							Networks
+						</a>
+					</li>
+					<li>
+						<a href="/cloud/servers/backups-snapshots/overview" rel="noopener noreferrer">
+							Backups
+						</a>
+					</li>
+					<li>
+						<a href="/cloud/servers/backups-snapshots/overview" rel="noopener noreferrer">
+							Snapshots
+						</a>
+					</li>
+					<li>
+						<a href="/cloud/placement-groups/overview" rel="noopener noreferrer">
+							Placement Groups
+						</a>
+					</li>
+					<li>
+						Name
+					</li>
+					<li>
+						Labels
+					</li>
+				</ul>
+				<h2>
+					Limits
+				</h2>
+				<ul>
+					<li>
+						By default, up to 10 servers
+					</li>
+					<li>
+						By default, up to 8 dedicated vCPU servers
+					</li>
+					<li>
+						Up to 1 Primary IPv4 per server
+					</li>
+					<li>
+						Up to 1 Primary IPv6 per server
+					</li>
+					<li>
+						Up to 1 App per server
+					</li>
+					<li>
+						Up to 1 Placement Group per server
+					</li>
+					<li>
+						Up to 3 Networks per server
+					</li>
+					<li>
+						Up to 5 Firewalls per server
+					</li>
+					<li>
+						Up to 16 Volumes per server
+					</li>
+				</ul>
+				<p>
+					<strong>
+						Please note:
+					</strong>
+					It can be possible to increase default limits if requested.
+				</p>
+			</article>
+		</div>
+	</body>
+</html>

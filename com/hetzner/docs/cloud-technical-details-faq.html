@@ -1,0 +1,99 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h1>
+				FAQ
+			</h1>
+			<small>
+				Last change on 2024-05-24 • Created on 2020-07-02 • ID: CL-7B205
+			</small>
+			<article>
+				<h2>
+					What hardware do my servers run on?
+				</h2>
+				<p>
+					The CX line Hetzner Cloud servers run on the first generation of Intel® Xeon® Scalable CPUs. We also have a line of cloud servers, the CPX line, which are based on AMD 2nd generation EPYC CPUs. The CAX line is based on Ampere® Altra® CPUs. And there are also models (the CCX line) that have dedicated vCPUs (AMD EPYC). For local storage, we use NVMe SSDs. All Hetzner Cloud servers use ECC RAM.
+				</p>
+				<h2>
+					What hypervisor and NIC/disk drivers do you use?
+				</h2>
+				<p>
+					We are running KVM as a hypervisor. We use virtio for both virtual NICs and disks.
+				</p>
+				<h2>
+					Is there any way to get a custom configuration?
+				</h2>
+				<p>
+					Customized virtual servers are not currently available. However, you can mount additional disks, called Volumes, which are flexible block storage drives with up to 10 TB storage. And you can add RAM and CPU resources with the Rescale feature.
+				</p>
+				<h2>
+					How are your images set up?
+				</h2>
+				<p>
+					The images we provide use cloud-init to set up networking and other options.
+				</p>
+				<p>
+					They come with QEMU guest agent preinstalled. It is used for:
+				</p>
+				<ul>
+					<li>
+						Resetting the root password upon your request
+					</li>
+				</ul>
+				<p>
+					If you do not want to have QEMU guest agent running, feel free to uninstall it. However, you will lose the functionality mentioned above.
+				</p>
+				<h2>
+					Can I install Windows?
+				</h2>
+				<p>
+					Right now, we are focusing on support for Linux as an operating system. You can install Windows manually on your own using an ISO image. For more information, please see
+					<a href="/cloud/servers/windows-on-cloud" rel="noopener noreferrer">
+						here
+					</a>
+					.
+				</p>
+				<p>
+					Important note: We do not provide any support for Windows.
+				</p>
+				<h2>
+					How and when are you patching vulnerabilities like Zenbleed or Downfall?
+				</h2>
+				<p>
+					We apply all currently released stable patches and microcode updates. Depending on the update the mitigation becomes either active immediately or is activated as part of the continous maintenance and update cycle of our platform. If the update provides additional CPU flags or features (e.g. IBRS or SSBD), a stop and start of the instance is required to make these available.
+				</p>
+				<ul>
+					<li>
+						also applies to: Meltdown Spectre, Foreshadow, Fallout, Zombieload, RIDL
+					</li>
+				</ul>
+				<h2>
+					For your Debian and Centos images — What is the minor version?
+				</h2>
+				<p>
+					We automatically update our images to be the latest minor version within two weeks after the release. This means that our existing Debian 9 image will always contain the latest Debian 9.X version within two weeks after its release.
+				</p>
+				<p>
+					<strong>
+						More details:
+					</strong>
+					:
+				</p>
+				<p>
+					For Debian and Centos, the versioning scheme is MAJOR.MINOR, e.g. Debian 9.1 is Debian with major version 9 and minor version 1.
+				</p>
+				<p>
+					For both Debian and Centos, updating a minor version (e.g. Debian 9.3 -> 9.4) is done implicitly when updating your software packages. Therefore, the minor version will change during the lifetime of your server. To avoid confusion, our image descriptions do not contain the minor version, only the major one (e.g. "Debian 9" instead of "Debian 9.1").
+				</p>
+				<h2>
+					What kind of connection do the instances have?
+				</h2>
+				<p>
+					The host systems for our Cloud instances all have a redundant 10 Gbits connection. This connection is shared by all instances on the host. We do not offer bandwidth guarantees for our Cloud servers, but you can expect about 300-500 Mbits.
+				</p>
+			</article>
+		</div>
+	</body>
+</html>
