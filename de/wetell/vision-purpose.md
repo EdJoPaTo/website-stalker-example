@@ -48,3 +48,10 @@ Was bedeutet das für die WEtell-Kund\*innen?
 Wir haben unseren Kund\*innen ein Versprechen gegeben: Unsere Tarife sollen monatlich kündbar bleiben – unsere Werte nicht! Als Purpose Unternehmen lösen wir dieses Versprechen ein – wir sind verpflichtet, weiterhin werteorientiert zu arbeiten. Meinung ändern ist dann nicht mehr. Das Ganze kann nicht rückgängig gemacht werden.
 Für uns im WEtell Team ist das mega toll, weil wir wissen, dass unsere Energie und Arbeit auch in Zukunft in ein gemeinwohlorientiertes Unternehmen fließen wird.
 Aber auch für dich und unsere gesamte Community ist das großartig! Denn egal was da kommt, dein Mobilfunk bleibt klimaneutral, nachhaltig und fair. Da gibt’s nichts mehr dran zu rütteln!
+
+Voller Einblick
+----------
+
+Grundsätzlich müssen AGB Satzungen in Deutschland öffentlich gemacht werden. Die Einsicht ist allerdings häufig mit Kosten verbunden. Nicht bei uns. Klicke auf den Link, um Zugang zu unserer Satzung zu erhalten.
+
+[Hier geht's zu unserer Satzung!](https://www.wetell.de/downloads/veroeffentlichungen/2022-Satzung_Anteile_Purpose.pdf)
