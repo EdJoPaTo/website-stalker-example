@@ -15,7 +15,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE2 und RE3/RB31: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle](https://www.der-metronom.de/aktuell/re2-und-re3-rb31-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle/)
+[Bis mindestens 13. Juni: Einschränkungen durch Ad-hoc-Baumaßnahme zwischen Uelzen und Celle (RE2/RE3/RB31)](https://www.der-metronom.de/aktuell/re2-und-re3-rb31-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle/)
 
  Uelzen - 03.06.2024
 
