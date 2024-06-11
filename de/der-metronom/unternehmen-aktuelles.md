@@ -29,6 +29,14 @@ das Eisenbahninfrastrukturunternehmen (DBInfraGo AG) muss auf der Strecke zwisch
 Ahoi liebe Festival-Fanatiker,
 endlich ist es wieder soweit! In diesem Jahr bebt der Eichenring während dem Hurricane Festival vom Freitag, 21. Juni 2024 – Sonntag, 23. Juni 2024. Mit mehr als 80.000 Besuchern zählt das Hurricane zu den größten Musikfestivals in Deutschland. Auch deshalb haben...
 
+[Endstation für die metronom-App](https://www.der-metronom.de/aktuell/endstation-fuer-die-metronom-app/)
+
+ Uelzen - 01.02.2024
+
+Ahoi zusammen!
+Der zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen gehäuft. Ärgerlich für euch als Fahrgäste und Herausforderung für uns als Anbieter der App.
+Aufgrund vermehrter...
+
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
 
  Uelzen - 25.01.2024
