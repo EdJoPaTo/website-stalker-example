@@ -24,7 +24,7 @@ Storage
 
 512GB SSD  Gen3 PCIe storage
 
-1TB SSD  Gen3 PCIe storage  Sold Out - Get Notified When Available
+1TB SSD  Gen3 PCIe storage
 
 2TB SSD  Gen3 PCIe storage  Sold Out - Get Notified When Available
 
@@ -142,7 +142,7 @@ None
 
 None
 
-MPP Active Pen  Sold Out - Get Notified When Available
+MPP Active Pen
 
 Charge Cable
 
