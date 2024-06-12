@@ -52,6 +52,6 @@ Aber auch für dich und unsere gesamte Community ist das großartig! Denn egal w
 Voller Einblick
 ----------
 
-Grundsätzlich müssen AGB Satzungen in Deutschland öffentlich gemacht werden. Häufig ist das mit Kosten verbunden. Nicht bei uns. Klicke auf den Link, um Zugang zu unserer Satzung zu erhalten.
+Wenn es dich interessiert, wie genau das Thema Verantwortungseigentum in der WEtell Satzung geregelt ist, klicke auf den folgenden Link und lade unsere Satzung herunter.
 
 [Hier geht's zu unserer Satzung!](https://www.wetell.de/downloads/veroeffentlichungen/2022-Satzung_Anteile_Purpose.pdf)
