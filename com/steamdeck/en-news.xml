@@ -6,6 +6,44 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: June 13th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6579276631059156422</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 13, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed input when using Nintendo Joy-Con controllers
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6579276631059156422" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.4 Preview: Stability Now</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/6579276631056443790</link>
 			<content:encoded><![CDATA[<html>
@@ -178,84 +216,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330853251141456172" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: May 30th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4330853251138040623</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 30, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed clickable screenshots in the post-game summary and library screenshot section not opening the screenshot dialog to the correct item.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed rumble not working on the DualSense controller when connected over BT.
-						<br>
-					</li>
-					<li>
-						Fixed Some binds (System, ActionSets, Camera) not appearing in Activator Slots.
-						<br>
-					</li>
-					<li>
-						Added exclusion of Gyro Activation Buttons from controller configs that don't have those buttons.
-						<br>
-					</li>
-					<li>
-						Fixed issue with stale bindings on Quick Settings menu when multiple controllers are plugged in.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed friends & chat buttons sometimes not working when starting in Family View.
-						<br>
-					</li>
-					<li>
-						Fixed user persona not displaying in title bar when starting in Family View.
-						<br>
-					</li>
-					<li>
-						Fixed PIN entry dialog not getting input focus when unlocking Family View.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330853251138040623" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
