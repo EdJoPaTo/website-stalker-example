@@ -15,11 +15,16 @@ cirrus incus
 
   * **AMD X300**
     Basiert auf DeskMini X300
+  * **AMD X600**
+    Basiert auf DeskMini X600
   * **Intel B760**
     Basiert auf DeskMini B760
 
   **Vorne:** 1x USB 3.1 Gen1 Type-C, 1x USB 3.1 Gen1 Type-A, 1x Mic-In, 1x Headset
   **Hinten:** 1xVGA, 1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB 3.1 Gen1 Type-A Port, 1x USB 2.0 Type-A Port, 1x Gigabit LAN
+
+  **Vorne:** 1x USB 3.1 Gen1 Type-C, 1x USB 3.1 Gen1 Type-A, 1x Mic-In, 1x Headset
+  **Hinten:** 1xVGA, 1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB 3.1 Gen1 Type-A Port, 1x USB 2.0 Type-A Port, 1x 2.5GB LAN
 
   **Vorne:** 1x USB 3.2 Gen1 Type-C, 1x USB 3.2 Gen2 Type-A, 1x Mic-In, 1x Headset
   **Hinten:** 1xVGA, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x USB 3.2 Gen1 Type-C Port (USB-C / DP Alt mode), 2x USB 3.2 Gen1 Type-A Ports, 2x USB 2.0 Ports, 1x Gigabit LAN
@@ -67,6 +72,17 @@ cirrus incus
 
   ##### Prozessor (CPU) #####
 
+  Wählen Sie hier zwischen verschiedenen AMD CPUs.
+
+  * **AMD Ryzen 5 8500G**
+    2C+4c/12T, 3.50 – 5.00GHz – Radeon 740M
+  * **AMD Ryzen 5 8600G**
+    6C/12T, 4.30 – 5.00GHz – Radeon 760M
+  * **AMD Ryzen 7 8700G**
+    8C/16T, 4.20 – 5.10GHz – Radeon 780M
+
+  ##### Prozessor (CPU) #####
+
   Wählen Sie hier zwischen verschiedenen Intel® Raptor Lake Refresh CPUs
 
   * **Intel Celeron G6900 (46W TDP)**
@@ -96,6 +112,35 @@ cirrus incus
     SO-DIMM – 3200MHz
   * **64 GB DDR4 (2x32GB)**
     SO-DIMM – 3200MHz
+
+  ##### Hauptspeicher (RAM) #####
+
+  Wählen Sie die Größe des Hauptspeichers.
+
+  * 4800 MHz
+  * 5600 MHz
+
+  RAM-Geschwindigkeit auswählen.
+
+  * **8 GB DDR5 (1x 8GB)**
+    SO-DIMM – 4800MHz
+  * **16 GB DDR5 (2x 8GB)**
+    SO-DIMM – 4800MHz
+  * **32 GB DDR5 (2x 16GB)**
+    SO-DIMM – 4800MHz
+  * **64 GB DDR5 (2x 32GB)**
+    SO-DIMM – 4800MHz
+
+  * **8 GB DDR5 (1x 8GB)**
+    SO-DIMM – 5600MHz
+  * **16 GB DDR5 (2x 8GB)**
+    SO-DIMM – 5600MHz
+  * **32 GB DDR5 (2x 16GB)**
+    SO-DIMM – 5600MHz
+  * **64 GB DDR5 (2x 32GB)**
+    SO-DIMM – 5600MHz
+  * **96 GB DDR5 (2x 48GB)**
+    SO-DIMM – 5600MHz
 
   ##### SSD (M.2 - NVMe)  #####
 
