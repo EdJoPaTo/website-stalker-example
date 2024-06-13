@@ -6,6 +6,59 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.4 Preview: Stability Now</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6579276631056443790</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 12, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed a regression with DualSense controllers over Bluetooth
+						<br>
+					</li>
+					<li>
+						Fixed an issue where the system could crash on wakeup if an external DisplayPort monitor was connected
+						<br>
+					</li>
+					<li>
+						Fixed an issue preventing sleep on some types of aftermarket SSDs
+						<br>
+					</li>
+					<li>
+						Fixed an issue preventing update checks from working properly on network with an invalid IPv6 configuration
+						<br>
+					</li>
+					<li>
+						Fixed an issue where touching the left trackpad after sleep could result in a spurious haptic click
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6579276631056443790" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: June 10th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4335357901529345003</link>
 			<content:encoded><![CDATA[<html>
@@ -203,148 +256,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330853251138040623" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: May 28th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4330853156156201200</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 28, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Beta/Preview channels.
-				<br>
-				<br>
-				<b>
-					Note:
-				</b>
-				This beta was re-released to fix SteamVR launching unintentionally when Steam is started
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Show battery information for connected Bluetooth devices under Settings->Bluetooth and in the Quick Access menu.
-						<br>
-					</li>
-					<li>
-						Added a per-device toggle to Settings->Bluetooth that controls whether a device is allowed to wake SteamDeck from sleep.
-						<br>
-					</li>
-					<li>
-						Fixed a bug that would cause the UI to show stale data for Bluetooth devices.
-						<br>
-					</li>
-					<li>
-						Fixed web browsers showing blank page entries when navigating back
-						<br>
-					</li>
-					<li>
-						Fixed games with file names containing spaces not exiting when forced
-					</li>
-				</ul>
-				<br>
-				<b>
-					Library
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed app activity feed to refresh more reliably
-						<br>
-					</li>
-					<li>
-						Fixed comments sometimes getting lost on achievement unlock events in the app activity feed
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Families
-				</b>
-				<br>
-				<ul>
-					<li>
-						Made client settings visible but generally unchangeable when parental settings are applied. Child accounts can request parental access to settings to make changes.
-						<br>
-					</li>
-					<li>
-						Fixed playtime limits sometimes being applied even if "set playtime limits" was not selected in the settings UI.
-						<br>
-					</li>
-					<li>
-						Display a copy count badge on game capsules for games that have more than one copy in a Steam Family.
-						<br>
-					</li>
-					<li>
-						Fixed family member names sometimes not displaying while in offline mode or disconnected from Steam.
-						<br>
-					</li>
-					<li>
-						Add "date acquired" for games owned by other family members.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Friends / Chat
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reduced network traffic on connect and reconnect
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved Gyro To Mouse behavior when connected over bluetooth.
-						<br>
-					</li>
-					<li>
-						Fixed incorrect glyphs displaying for Nintendo controllers in configurator.
-						<br>
-					</li>
-					<li>
-						Added "Universal Face Button Glyphs" toggle in controller settings.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added a one time pairing step when streaming from a remote computer
-						<br>
-					</li>
-					<li>
-						The Remote Play Together UI is always available in the Steam overlay for supported games
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330853156156201200" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
