@@ -52,6 +52,16 @@ starkes Material. Auch als Sommer-Edition erhältlich!
 
 [Kollektion entdecken](https://www.engelbert-strauss.de/motion_ten)
 
+ Brand Partnerships
+---
+
+ Entdecke unsere globale Brand!
+---
+
+[Brand Partnerships](https://www.engelbert-strauss.de/brand_partnerships)
+
+[Brand News](https://www.engelbert-strauss.de/brand-news)
+
  Highlights
 ---
 
