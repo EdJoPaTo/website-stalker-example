@@ -27,10 +27,10 @@ cirrus nimbus
   * **ASRock Z790M-ITX (DDR5)**
     Z790 Chipsatz – Mini ITX
 
-  * **ASRock B550M-ITX**
+  * **GIGABYTE B550I AORUS Pro (DDR4 – AM4 Socket)**
     B550 Chipsatz – Mini ITX
-  * **GIGABYTE B550I AORUS Pro**
-    B550 Chipsatz – Mini ITX
+  * **GIGABYTE A620I (DDR5 – AM5 Socket)**
+    A620 Chipset
 
   **ASUS Pro H610T Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
@@ -55,6 +55,9 @@ cirrus nimbus
 
   **ASRock B550M-ITX Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 3x USB-A 3.1, 1x USB-C 3.1, 2x USB-A 2.0, 1x PS2, 3x Audio Stereo
+
+  **GIGABYTE A620I Anschlüsse Rückseite:**
+  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1, 1x USB-A 3.1 Gen2, 1x USB-C 3.0, 1x USB-A 3.0, 3x USB-A 2.0, 1x 2.5GB LAN, 3x Audio Stereo
 
   **GIGABYTE B550I AORUS Pro Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 2x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x USB-A 3.2, 4x USB-A 3.1, 1x USB-C 3.1, 3x Audio Stereo
@@ -234,6 +237,15 @@ cirrus nimbus
   * **AMD Ryzen 7 5700G (65W TDP)**
     3.8GHz – 4.6GHz OctaCore + Hyperthreading, Vega 8
 
+  ##### Prozessor (CPU) - AMD #####
+
+  Wählen Sie hier zwischen verschiedenen AMD CPUs.
+
+  * **AMD Ryzen 5 8600G**
+    6C/12T, 4.30 – 5.00GHz – Radeon 760M
+  * **AMD Ryzen 7 8700G**
+    8C/16T, 4.20 – 5.10GHz – Radeon 780M
+
   ##### Hauptspeicher (RAM) #####
 
   Wählen Sie die Größe des Hauptspeichers.
@@ -309,6 +321,7 @@ cirrus nimbus
   Wählen Sie die Größe des Hauptspeichers.
 
   * 4800 MHz
+  * 5600 MHz
 
   RAM-Geschwindigkeit auswählen.
 
@@ -320,6 +333,15 @@ cirrus nimbus
     SO-DIMM – 4800MHz
   * **64 GB DDR5 (2x 32GB)**
     SO-DIMM – 4800MHz
+
+  * **16 GB DDR5 (2x 8GB)**
+    SO-DIMM – 5600MHz
+  * **32 GB DDR5 (2x 16GB)**
+    SO-DIMM – 5600MHz
+  * **64 GB DDR5 (2x 32GB)**
+    SO-DIMM – 5600MHz
+  * **96 GB DDR5 (2x 48GB)**
+    SO-DIMM – 5600MHz
 
   ##### SSD (M.2 - NVMe) #####
 
