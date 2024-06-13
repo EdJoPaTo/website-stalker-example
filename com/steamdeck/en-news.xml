@@ -6,6 +6,173 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: June 13th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6579276631059748106</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 13, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Show battery information for connected Bluetooth devices under Settings->Bluetooth and in the Quick Access menu.
+						<br>
+					</li>
+					<li>
+						Added a per-device toggle to Settings->Bluetooth that controls whether a device is allowed to wake SteamDeck from sleep.
+						<br>
+					</li>
+					<li>
+						Fixed a bug that would cause the UI to show stale data for Bluetooth devices.
+						<br>
+					</li>
+					<li>
+						Fixed web browsers showing blank page entries when navigating back.
+						<br>
+					</li>
+					<li>
+						Fixed games with file names containing spaces not exiting when forced.
+						<br>
+					</li>
+					<li>
+						Fixed clickable screenshots in the post-game summary and library screenshot section not opening the screenshot dialog to the correct item.
+						<br>
+					</li>
+					<li>
+						Fixed some cases where the Guide Button/Steam button would require two presses to open the Steam menu.
+						<br>
+					</li>
+					<li>
+						The magnifier scale can now be configured in Settings->Display.
+						<br>
+					</li>
+					<li>
+						Made client settings visible but generally unchangeable when Family View is active.
+						<br>
+					</li>
+					<li>
+						Fixed chat notification sounds sometimes playing even if friends & chat was disabled in Family View.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved Gyro To Mouse behavior when connected over bluetooth.
+						<br>
+					</li>
+					<li>
+						Fixed incorrect glyphs displaying for Nintendo controllers in configurator.
+						<br>
+					</li>
+					<li>
+						Added "Universal Face Button Glyphs" toggle in controller settings.
+						<br>
+					</li>
+					<li>
+						Fixed rumble not working on the DualSense controller when connected over BT.
+						<br>
+					</li>
+					<li>
+						Fixed Some binds (System, ActionSets, Camera) not appearing in Activator Slots.
+						<br>
+					</li>
+					<li>
+						Added exclusion of Gyro Activation Buttons from controller configs that don't have those buttons.
+						<br>
+					</li>
+					<li>
+						Fixed issue with stale bindings on Quick Settings menu when multiple controllers are plugged in.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Library
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed app activity feed to refresh more reliably.
+						<br>
+					</li>
+					<li>
+						Fixed comments sometimes getting lost on achievement unlock events in the app activity feed.
+					</li>
+				</ul>
+				<br>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed friends & chat buttons sometimes not working when starting in Family View.
+						<br>
+					</li>
+					<li>
+						Fixed user persona not displaying in title bar when starting in Family View.
+						<br>
+					</li>
+					<li>
+						Fixed PIN entry dialog not getting input focus when unlocking Family View.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Friends / Chat
+				</b>
+				<br>
+				<ul>
+					<li>
+						Reduced network traffic on connect and reconnect.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added a one time pairing step when streaming from a remote computer.
+						<br>
+					</li>
+					<li>
+						The Remote Play Together UI is always available in the Steam overlay for supported games.
+					</li>
+				</ul>
+				<br>
+				<br>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6579276631059748106" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: June 13th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/6579276631059156422</link>
 			<content:encoded><![CDATA[<html>
@@ -168,54 +335,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4335357576657162643" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: May 31st</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4330853251141456172</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				May 31, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue causing Apex Legends multiplayer to not work when in "invisible" mode
-					</li>
-				</ul>
-				<br>
-				<b>
-					Big Picture
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fix some cases where the Guide Button/Steam button would require two presses to open the Steam menu
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4330853251141456172" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
