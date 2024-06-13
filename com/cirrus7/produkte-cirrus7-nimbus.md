@@ -5,7 +5,7 @@ cirrus nimbus
 ----------
 
 * lautlos aufgrund passivem Aluminium-Kühlkörpergehäuse mit Kupferkern
-* mit Intel Core Pentium/i3/i5/i7/i9 Raptor Lake CPU – bis zu 16 Kernen oder Ryzen 3/5/7 Cezanne
+* mit Intel Core Pentium/i3/i5/i7/i9 Raptor Lake CPU – bis zu 16 Kernen oder Ryzen 3/5/7
 * vielseitige Einsatzmöglichkeiten – Desktop-PC, HTCP oder Server
 * kompakte Abmessungen: 24,6 x 24,6 x 9 cm / 24,6 x 24,6 x 10,6 cm / 24,6 x 24,6 x 12,2 cm
 
@@ -230,13 +230,11 @@ cirrus nimbus
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
-  * **AMD Athlon 3000G (35W TDP)**
-    3,5 – 3,5GHz, 2 Cores / 4 Threads, Vega 3
-  * **AMD Ryzen 3 PRO 4350G (65W TDP)**
+  * **AMD Ryzen 3 4300G**
     3.8 – 4.0GHz QuadCore + Hyperthreading, Vega 6
-  * **AMD Ryzen 5 5600G (65W TDP)**
+  * **AMD Ryzen 5 5600G**
     3.9GHz – 4.4GHz HexaCore + Hyperthreading, Vega 7
-  * **AMD Ryzen 7 5700G (65W TDP)**
+  * **AMD Ryzen 7 5700G**
     3.8GHz – 4.6GHz OctaCore + Hyperthreading, Vega 8
 
   ##### Prozessor (CPU) - AMD #####

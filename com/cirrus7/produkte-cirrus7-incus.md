@@ -7,7 +7,7 @@ cirrus incus
 * lüfterloser mini-PC
 * lautlose Kühlung durch passives Aluminium-Kühlkörpergehäuse mit Kupferkernen
 * mit AMD Ryzen CPU oder Intel Raptor Lake CPU
-* basierend auf ASRock DeskMini X300 und B760
+* basierend auf ASRock DeskMini X300, X600 und B760
 
 **Lieferzeit: 7-9 Werktage**
 
@@ -61,8 +61,6 @@ cirrus incus
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
-  * **AMD Athlon 3000G**
-    3,5 – 3,5GHz, 2 Cores / 4 Threads, Vega 3
   * **AMD Ryzen 3 4300G**
     3.8 – 4.0GHz QuadCore + Hyperthreading, Vega 6
   * **AMD Ryzen 5 5600G**
