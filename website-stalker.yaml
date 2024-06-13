@@ -183,6 +183,13 @@ sites:
       - css_remove: svg, a[href^="#"]
       - html_sanitize
       - html_prettify
+  - url:
+      - https://docs.hetzner.cloud/whats-new
+    editors:
+      - css_select: body > div > div
+      - css_remove: img
+      - html_url_canonicalize
+      - html_markdownify
 
   - url: https://www.wdrmaus.de/extras/
     editors:
