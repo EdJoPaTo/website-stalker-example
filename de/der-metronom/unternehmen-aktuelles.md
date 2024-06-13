@@ -17,7 +17,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Beendet: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle (RE2/RE3/RB31)](https://www.der-metronom.de/aktuell/beendet-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle-re2-re3-rb31/)
 
- Uelzen - 03.06.2024
+ Uelzen - 13.06.2024
 
 Liebe Fahrgäste,
 das Eisenbahninfrastrukturunternehmen (DBInfraGo AG) musste auf der Strecke zwischen Uelzen und Hannover Hauptbahnhof aufgrund eines Oberbaumangels nach einem Starkregenereignis Ad-hoc-Baumaßnahmen durchführen.
