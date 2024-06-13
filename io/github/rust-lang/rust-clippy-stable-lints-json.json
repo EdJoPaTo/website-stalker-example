@@ -245,10 +245,10 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unspecified",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for code like `foo = bar.clone();`\n\n### Why is this bad?\nCustom `Clone::clone_from()` or `ToOwned::clone_into` implementations allow the objects\nto share resources and therefore avoid allocations.\n\n### Example\n```rust\nstruct Thing;\n\nimpl Clone for Thing {\n    fn clone(&self) -> Self { todo!() }\n    fn clone_from(&mut self, other: &Self) { todo!() }\n}\n\npub fn assign_to_ref(a: &mut Thing, b: Thing) {\n    *a = b.clone();\n}\n```\nUse instead:\n```rust\nstruct Thing;\nimpl Clone for Thing {\n    fn clone(&self) -> Self { todo!() }\n    fn clone_from(&mut self, other: &Self) { todo!() }\n}\n\npub fn assign_to_ref(a: &mut Thing, b: Thing) {\n    a.clone_from(&b);\n}\n```",
+		"docs": "\n### What it does\nChecks for code like `foo = bar.clone();`\n\n### Why is this bad?\nCustom `Clone::clone_from()` or `ToOwned::clone_into` implementations allow the objects\nto share resources and therefore avoid allocations.\n\n### Example\n```rust\nstruct Thing;\n\nimpl Clone for Thing {\n    fn clone(&self) -> Self { todo!() }\n    fn clone_from(&mut self, other: &Self) { todo!() }\n}\n\npub fn assign_to_ref(a: &mut Thing, b: Thing) {\n    *a = b.clone();\n}\n```\nUse instead:\n```rust\nstruct Thing;\nimpl Clone for Thing {\n    fn clone(&self) -> Self { todo!() }\n    fn clone_from(&mut self, other: &Self) { todo!() }\n}\n\npub fn assign_to_ref(a: &mut Thing, b: Thing) {\n    a.clone_from(&b);\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "perf",
 		"id": "assigning_clones",
 		"id_span": {
@@ -511,8 +511,8 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nchecks for `Box::new(T::default())`, which is better written as\n`Box::<T>::default()`.\n\n### Why is this bad?\nFirst, it's more complex, involving two calls instead of one.\nSecond, `Box::default()` can be faster\n[in certain cases](https://nnethercote.github.io/perf-book/standard-library-types.html#box).\n\n### Example\n```rust\nlet x: Box<String> = Box::new(Default::default());\n```\nUse instead:\n```rust\nlet x: Box<String> = Box::default();\n```",
-		"group": "perf",
+		"docs": "\n### What it does\nchecks for `Box::new(Default::default())`, which can be written as\n`Box::default()`.\n\n### Why is this bad?\n`Box::default()` is equivalent and more concise.\n\n### Example\n```rust\nlet x: Box<String> = Box::new(Default::default());\n```\nUse instead:\n```rust\nlet x: Box<String> = Box::default();\n```",
+		"group": "style",
 		"id": "box_default",
 		"id_span": {
 			"path": "src/box_default.rs"
@@ -1040,6 +1040,20 @@
 		},
 		"level": "warn",
 		"version": "1.49.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nIt identifies calls to `.is_empty()` on constant values.\n\n### Why is this bad?\nString literals and constant values are known at compile time. Checking if they\nare empty will always return the same value. This might not be the intention of\nthe expression.\n\n### Example\n```rust\nlet value = \"\";\nif value.is_empty() {\n    println!(\"the string is empty\");\n}\n```\nUse instead:\n```rust\nprintln!(\"the string is empty\");\n```",
+		"group": "suspicious",
+		"id": "const_is_empty",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
 	},
 	{
 		"applicability": {
@@ -1587,6 +1601,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for attributes that appear two or more times.\n\n### Why is this bad?\nRepeating an attribute on the same item (or globally on the same crate)\nis unnecessary and doesn't have an effect.\n\n### Example\n```rust\n#[allow(dead_code)]\n#[allow(dead_code)]\nfn foo() {}\n```\n\nUse instead:\n```rust\n#[allow(dead_code)]\nfn foo() {}\n```",
+		"group": "suspicious",
+		"id": "duplicated_attributes",
+		"id_span": {
+			"path": "src/attrs/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
+	},
+	{
+		"applicability": {
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
@@ -1611,7 +1639,7 @@
 			"path": "src/transmute/mod.rs"
 		},
 		"level": "deny",
-		"version": "1.76.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -1898,7 +1926,7 @@
 			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nWarns on any exported `structs`s that are not tagged `#[non_exhaustive]`\n\n### Why is this bad?\nExhaustive structs are typically fine, but a project which does\nnot wish to make a stability commitment around exported structs may wish to\ndisable them by default.\n\n### Example\n```rust\nstruct Foo {\n    bar: u8,\n    baz: String,\n}\n```\nUse instead:\n```rust\n#[non_exhaustive]\nstruct Foo {\n    bar: u8,\n    baz: String,\n}\n```",
+		"docs": "\n### What it does\nWarns on any exported `struct`s that are not tagged `#[non_exhaustive]`\n\n### Why is this bad?\nExhaustive structs are typically fine, but a project which does\nnot wish to make a stability commitment around exported structs may wish to\ndisable them by default.\n\n### Example\n```rust\nstruct Foo {\n    bar: u8,\n    baz: String,\n}\n```\nUse instead:\n```rust\n#[non_exhaustive]\nstruct Foo {\n    bar: u8,\n    baz: String,\n}\n```",
 		"group": "restriction",
 		"id": "exhaustive_structs",
 		"id_span": {
@@ -2179,7 +2207,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for usage of `filter_map(|x| x)`.\n\n### Why is this bad?\nReadability, this can be written more concisely by using `flatten`.\n\n### Example\n```rust\niter.filter_map(|x| x);\n```\nUse instead:\n```rust\niter.flatten();\n```",
@@ -2252,7 +2280,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for usage of `Iterator::flat_map()` where `filter_map()` could be\nused instead.\n\n### Why is this bad?\nWhen applicable, `filter_map()` is more clear since it shows that\n`Option` is used to produce 0 or 1 items.\n\n### Example\n```rust\nlet nums: Vec<i32> = [\"1\", \"2\", \"whee!\"].iter().flat_map(|x| x.parse().ok()).collect();\n```\nUse instead:\n```rust\nlet nums: Vec<i32> = [\"1\", \"2\", \"whee!\"].iter().filter_map(|x| x.parse().ok()).collect();\n```",
+		"docs": "\n### What it does\nChecks for usage of `Iterator::flat_map()` where `filter_map()` could be\nused instead.\n\n### Why is this bad?\n`filter_map()` is known to always produce 0 or 1 output items per input item,\nrather than however many the inner iterator type produces.\nTherefore, it maintains the upper bound in `Iterator::size_hint()`,\nand communicates to the reader that the input items are not being expanded into\nmultiple output items without their having to notice that the mapping function\nreturns an `Option`.\n\n### Example\n```rust\nlet nums: Vec<i32> = [\"1\", \"2\", \"whee!\"].iter().flat_map(|x| x.parse().ok()).collect();\n```\nUse instead:\n```rust\nlet nums: Vec<i32> = [\"1\", \"2\", \"whee!\"].iter().filter_map(|x| x.parse().ok()).collect();\n```",
 		"group": "pedantic",
 		"id": "flat_map_option",
 		"id_span": {
@@ -2861,7 +2889,7 @@
 			"path": "src/incompatible_msrv.rs"
 		},
 		"level": "warn",
-		"version": "1.77.0"
+		"version": "1.78.0"
 	},
 	{
 		"applicability": {
@@ -3145,6 +3173,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for the usage of division (/) and remainder (%) operations\nwhen performed on any integer types using the default Div and Rem trait implementations.\n\n### Why is this bad?\nIn cryptographic contexts, division can result in timing sidechannel vulnerabilities,\nand needs to be replaced with constant-time code instead (e.g. Barrett reduction).\n\n### Example\n```rust\nlet my_div = 10 / 2;\n```\nUse instead:\n```rust\nlet my_div = 10 >> 1;\n```",
+		"group": "restriction",
+		"id": "integer_division_remainder_used",
+		"id_span": {
+			"path": "src/integer_division_remainder_used.rs"
+		},
+		"level": "allow",
+		"version": "1.78.0"
+	},
+	{
+		"applicability": {
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
@@ -3305,28 +3347,28 @@
 			"applicability": "HasPlaceholders",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for usage of `.filter(Result::is_ok)` that may be replaced with a `.flatten()` call.\nThis lint will require additional changes to the follow-up calls as it appects the type.\n\n### Why is this bad?\nThis pattern is often followed by manual unwrapping of `Result`. The simplification\nresults in more readable and succinct code without the need for manual unwrapping.\n\n### Example\n```rust\n// example code where clippy issues a warning\nvec![Ok::<i32, String>(1)].into_iter().filter(Result::is_ok);\n\n```\nUse instead:\n```rust\n// example code which does not raise clippy warning\nvec![Ok::<i32, String>(1)].into_iter().flatten();\n```",
+		"docs": "\n### What it does\nChecks for usage of `.filter(Result::is_ok)` that may be replaced with a `.flatten()` call.\nThis lint will require additional changes to the follow-up calls as it affects the type.\n\n### Why is this bad?\nThis pattern is often followed by manual unwrapping of `Result`. The simplification\nresults in more readable and succinct code without the need for manual unwrapping.\n\n### Example\n```rust\n// example code where clippy issues a warning\nvec![Ok::<i32, String>(1)].into_iter().filter(Result::is_ok);\n\n```\nUse instead:\n```rust\n// example code which does not raise clippy warning\nvec![Ok::<i32, String>(1)].into_iter().flatten();\n```",
 		"group": "pedantic",
 		"id": "iter_filter_is_ok",
 		"id_span": {
 			"path": "src/methods/mod.rs"
 		},
 		"level": "allow",
-		"version": "1.76.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
 			"applicability": "HasPlaceholders",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for usage of `.filter(Option::is_some)` that may be replaced with a `.flatten()` call.\nThis lint will require additional changes to the follow-up calls as it appects the type.\n\n### Why is this bad?\nThis pattern is often followed by manual unwrapping of the `Option`. The simplification\nresults in more readable and succinct code without the need for manual unwrapping.\n\n### Example\n```rust\n// example code where clippy issues a warning\nvec![Some(1)].into_iter().filter(Option::is_some);\n\n```\nUse instead:\n```rust\n// example code which does not raise clippy warning\nvec![Some(1)].into_iter().flatten();\n```",
+		"docs": "\n### What it does\nChecks for usage of `.filter(Option::is_some)` that may be replaced with a `.flatten()` call.\nThis lint will require additional changes to the follow-up calls as it affects the type.\n\n### Why is this bad?\nThis pattern is often followed by manual unwrapping of the `Option`. The simplification\nresults in more readable and succinct code without the need for manual unwrapping.\n\n### Example\n```rust\n// example code where clippy issues a warning\nvec![Some(1)].into_iter().filter(Option::is_some);\n\n```\nUse instead:\n```rust\n// example code which does not raise clippy warning\nvec![Some(1)].into_iter().flatten();\n```",
 		"group": "pedantic",
 		"id": "iter_filter_is_some",
 		"id_span": {
 			"path": "src/methods/mod.rs"
 		},
 		"level": "allow",
-		"version": "1.76.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -3386,11 +3428,11 @@
 	},
 	{
 		"applicability": {
-			"applicability": "Unresolved",
+			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for usage of `.iter().nth()` (and the related\n`.iter_mut().nth()`) on standard library types with *O*(1) element access.\n\n### Why is this bad?\n`.get()` and `.get_mut()` are more efficient and more\nreadable.\n\n### Example\n```rust\nlet some_vec = vec![0, 1, 2, 3];\nlet bad_vec = some_vec.iter().nth(3);\nlet bad_slice = &some_vec[..].iter().nth(3);\n```\nThe correct use would be:\n```rust\nlet some_vec = vec![0, 1, 2, 3];\nlet bad_vec = some_vec.get(3);\nlet bad_slice = &some_vec[..].get(3);\n```",
-		"group": "perf",
+		"docs": "\n### What it does\nChecks for usage of `.iter().nth()`/`.iter_mut().nth()` on standard library types that have\nequivalent `.get()`/`.get_mut()` methods.\n\n### Why is this bad?\n`.get()` and `.get_mut()` are equivalent but more concise.\n\n### Example\n```rust\nlet some_vec = vec![0, 1, 2, 3];\nlet bad_vec = some_vec.iter().nth(3);\nlet bad_slice = &some_vec[..].iter().nth(3);\n```\nThe correct use would be:\n```rust\nlet some_vec = vec![0, 1, 2, 3];\nlet bad_vec = some_vec.get(3);\nlet bad_slice = &some_vec[..].get(3);\n```",
+		"group": "style",
 		"id": "iter_nth",
 		"id_span": {
 			"path": "src/methods/mod.rs"
@@ -3694,6 +3736,20 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for usage of `<integer>::max_value()`, `std::<integer>::MAX`,\n`std::<float>::EPSILON`, etc.\n\n### Why is this bad?\nAll of these have been superseded by the associated constants on their respective types,\nsuch as `i128::MAX`. These legacy items may be deprecated in a future version of rust.\n\n### Example\n```rust\nlet eps = std::f32::EPSILON;\n```\nUse instead:\n```rust\nlet eps = f32::EPSILON;\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
+		"group": "style",
+		"id": "legacy_numeric_constants",
+		"id_span": {
+			"path": "src/legacy_numeric_constants.rs"
+		},
+		"level": "warn",
+		"version": "1.72.0"
+	},
+	{
+		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
@@ -3977,13 +4033,13 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nIdentifies good opportunities for a clamp function from std or core, and suggests using it.\n\n### Why is this bad?\nclamp is much shorter, easier to read, and doesn't use any control flow.\n\n### Known issue(s)\nIf the clamped variable is NaN this suggestion will cause the code to propagate NaN\nrather than returning either `max` or `min`.\n\n`clamp` functions will panic if `max < min`, `max.is_nan()`, or `min.is_nan()`.\nSome may consider panicking in these situations to be desirable, but it also may\nintroduce panicking where there wasn't any before.\n\nSee also [the discussion in the\nPR](https://github.com/rust-lang/rust-clippy/pull/9484#issuecomment-1278922613).\n\n### Examples\n```rust\nif input > max {\n    max\n} else if input < min {\n    min\n} else {\n    input\n}\n```\n\n```rust\ninput.max(min).min(max)\n```\n\n```rust\nmatch input {\n    x if x > max => max,\n    x if x < min => min,\n    x => x,\n}\n```\n\n```rust\nlet mut x = input;\nif x < min { x = min; }\nif x > max { x = max; }\n```\nUse instead:\n```rust\ninput.clamp(min, max)\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
-		"group": "nursery",
+		"docs": "\n### What it does\nIdentifies good opportunities for a clamp function from std or core, and suggests using it.\n\n### Why is this bad?\nclamp is much shorter, easier to read, and doesn't use any control flow.\n\n### Limitations\n\nThis lint will only trigger if max and min are known at compile time, and max is\ngreater than min.\n\n### Known issue(s)\nIf the clamped variable is NaN this suggestion will cause the code to propagate NaN\nrather than returning either `max` or `min`.\n\n`clamp` functions will panic if `max < min`, `max.is_nan()`, or `min.is_nan()`.\nSome may consider panicking in these situations to be desirable, but it also may\nintroduce panicking where there wasn't any before.\n\nSee also [the discussion in the\nPR](https://github.com/rust-lang/rust-clippy/pull/9484#issuecomment-1278922613).\n\n### Examples\n```rust\nif input > max {\n    max\n} else if input < min {\n    min\n} else {\n    input\n}\n```\n\n```rust\ninput.max(min).min(max)\n```\n\n```rust\nmatch input {\n    x if x > max => max,\n    x if x < min => min,\n    x => x,\n}\n```\n\n```rust\nlet mut x = input;\nif x < min { x = min; }\nif x > max { x = max; }\n```\nUse instead:\n```rust\ninput.clamp(min, max)\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
+		"group": "complexity",
 		"id": "manual_clamp",
 		"id_span": {
 			"path": "src/manual_clamp.rs"
 		},
-		"level": "allow",
+		"level": "warn",
 		"version": "1.66.0"
 	},
 	{
@@ -4138,7 +4194,7 @@
 			"path": "src/methods/mod.rs"
 		},
 		"level": "allow",
-		"version": "1.76.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -4419,6 +4475,20 @@
 		},
 		"level": "warn",
 		"version": "1.49.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks if a `match` or `if let` expression can be simplified using\n`.unwrap_or_default()`.\n\n### Why is this bad?\nIt can be done in one call with `.unwrap_or_default()`.\n\n### Example\n```rust\nlet x: Option<String> = Some(String::new());\nlet y: String = match x {\n    Some(v) => v,\n    None => String::new(),\n};\n\nlet x: Option<Vec<String>> = Some(Vec::new());\nlet y: Vec<String> = if let Some(v) = x {\n    v\n} else {\n    Vec::new()\n};\n```\nUse instead:\n```rust\nlet x: Option<String> = Some(String::new());\nlet y: String = x.unwrap_or_default();\n\nlet x: Option<Vec<String>> = Some(Vec::new());\nlet y: Vec<String> = x.unwrap_or_default();\n```",
+		"group": "suspicious",
+		"id": "manual_unwrap_or_default",
+		"id_span": {
+			"path": "src/manual_unwrap_or_default.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
 	},
 	{
 		"applicability": {
@@ -5077,6 +5147,20 @@
 			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
+		"docs": "\n### What it does\nChecks if transmute calls have all generics specified.\n\n### Why is this bad?\nIf not set, some unexpected output type could be retrieved instead of the expected one,\npotentially leading to invalid code.\n\nThis is particularly dangerous in case a seemingly innocent/unrelated change can cause type\ninference to start inferring a different type. E.g. the transmute is the tail expression of\nan `if` branch, and a different branches type changes, causing the transmute to silently\nhave a different type, instead of a proper error.\n\n### Example\n```rust\nlet x: i32 = std::mem::transmute([1u16, 2u16]);\n```\nUse instead:\n```rust\nlet x = std::mem::transmute::<[u16; 2], i32>([1u16, 2u16]);\n```",
+		"group": "suspicious",
+		"id": "missing_transmute_annotations",
+		"id_span": {
+			"path": "src/transmute/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.77.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
 		"docs": "\n### What it does\nWarns for mistyped suffix in literals\n\n### Why is this bad?\nThis is most probably a typo\n\n### Known problems\n- Does not match on integers too large to fit in the corresponding unsigned type\n- Does not match on `_127` since that is a valid grouping for decimal and octal numbers\n\n### Example\n```rust\n`2_32` => `2_i32`\n`250_8 => `250_u8`\n```",
 		"group": "correctness",
 		"id": "mistyped_literal_suffixes",
@@ -5091,8 +5175,8 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks that an item has only one kind of attributes.\n\n### Why is this bad?\nHaving both kinds of attributes makes it more complicated to read code.\n\n### Example\n```rust\n#[cfg(linux)]\npub fn foo() {\n    #![cfg(windows)]\n}\n```\nUse instead:\n```rust\n#[cfg(linux)]\n#[cfg(windows)]\npub fn foo() {\n}\n```",
-		"group": "suspicious",
+		"docs": "\n### What it does\nChecks for items that have the same kind of attributes with mixed styles (inner/outer).\n\n### Why is this bad?\nHaving both style of said attributes makes it more complicated to read code.\n\n### Known problems\nThis lint currently has false-negatives when mixing same attributes\nbut they have different path symbols, for example:\n```rust\n#[custom_attribute]\npub fn foo() {\n    #![my_crate::custom_attribute]\n}\n```\n\n### Example\n```rust\n#[cfg(linux)]\npub fn foo() {\n    #![cfg(windows)]\n}\n```\nUse instead:\n```rust\n#[cfg(linux)]\n#[cfg(windows)]\npub fn foo() {\n}\n```",
+		"group": "style",
 		"id": "mixed_attributes_style",
 		"id_span": {
 			"path": "src/attrs/mod.rs"
@@ -5164,7 +5248,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nDetects type names that are prefixed or suffixed by the\ncontaining module's name.\n\n### Why is this bad?\nIt requires the user to type the module name twice.\n\n### Example\n```rust\nmod cake {\n    struct BlackForestCake;\n}\n```\n\nUse instead:\n```rust\nmod cake {\n    struct BlackForest;\n}\n```\n### Past names\n\n* `stutter`\n\n",
+		"docs": "\n### What it does\nDetects type names that are prefixed or suffixed by the\ncontaining module's name.\n\n### Why is this bad?\nIt requires the user to type the module name twice.\n\n### Example\n```rust\nmod cake {\n    struct BlackForestCake;\n}\n```\n\nUse instead:\n```rust\nmod cake {\n    struct BlackForest;\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `allowed-prefixes`: List of prefixes to allow when determining whether an item's name ends with the module's name.\n   If the rest of an item's name is an allowed prefix (e.g. item `ToFoo` or `to_foo` in module `foo`),\n   then don't emit a warning.\n\n   #### Example\n\n```toml\n   allowed-prefixes = [ \"to\", \"from\" ]\n   ```\n\n   #### Noteworthy\n\n   - By default, the following prefixes are allowed: `to`, `as`, `into`, `from`, `try_into` and `try_from`\n   - PascalCase variant is included automatically for each snake_case variant (e.g. if `try_into` is included,\n     `TryInto` will also be included)\n   - Use `\"..\"` as part of the list to indicate that the configured values should be appended to the\n   default configuration of Clippy. By default, any configuration will replace the default value (default: `[\"to\", \"as\", \"into\", \"from\", \"try_into\", \"try_from\"]`)\n### Past names\n\n* `stutter`\n\n",
 		"former_ids": [
 			"stutter"
 		],
@@ -5506,7 +5590,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for borrow operations (`&`) that used as a generic argument to a\nfunction when the borrowed value could be used.\n\n### Why is this bad?\nSuggests that the receiver of the expression borrows\nthe expression.\n\n### Known problems\nThe lint cannot tell when the implementation of a trait\nfor `&T` and `T` do different things. Removing a borrow\nin such a case can change the semantics of the code.\n\n### Example\n```rust\nfn f(_: impl AsRef<str>) {}\n\nlet x = \"foo\";\nf(&x);\n```\n\nUse instead:\n```rust\nfn f(_: impl AsRef<str>) {}\n\nlet x = \"foo\";\nf(x);\n```",
+		"docs": "\n### What it does\nChecks for borrow operations (`&`) that are used as a generic argument to a\nfunction when the borrowed value could be used.\n\n### Why is this bad?\nSuggests that the receiver of the expression borrows\nthe expression.\n\n### Known problems\nThe lint cannot tell when the implementation of a trait\nfor `&T` and `T` do different things. Removing a borrow\nin such a case can change the semantics of the code.\n\n### Example\n```rust\nfn f(_: impl AsRef<str>) {}\n\nlet x = \"foo\";\nf(&x);\n```\n\nUse instead:\n```rust\nfn f(_: impl AsRef<str>) {}\n\nlet x = \"foo\";\nf(x);\n```",
 		"group": "style",
 		"id": "needless_borrows_for_generic_args",
 		"id_span": {
@@ -6947,12 +7031,12 @@
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nLooks for calls to `RwLock::write` where the lock is only used for reading.\n\n### Why is this bad?\nThe write portion of `RwLock` is exclusive, meaning that no other thread\ncan access the lock while this writer is active.\n\n### Example\n```rust\nuse std::sync::RwLock;\nfn assert_is_zero(lock: &RwLock<i32>) {\n    let num = lock.write().unwrap();\n    assert_eq!(*num, 0);\n}\n```\n\nUse instead:\n```rust\nuse std::sync::RwLock;\nfn assert_is_zero(lock: &RwLock<i32>) {\n    let num = lock.read().unwrap();\n    assert_eq!(*num, 0);\n}\n```",
-		"group": "nursery",
+		"group": "perf",
 		"id": "readonly_write_lock",
 		"id_span": {
 			"path": "src/methods/mod.rs"
 		},
-		"level": "allow",
+		"level": "warn",
 		"version": "1.73.0"
 	},
 	{
@@ -7407,14 +7491,14 @@
 			"path": "src/methods/mod.rs"
 		},
 		"level": "warn",
-		"version": "1.76.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for functions that return `Result` with an unusually large\n`Err`-variant.\n\n### Why is this bad?\nA `Result` is at least as large as the `Err`-variant. While we\nexpect that variant to be seldomly used, the compiler needs to reserve\nand move that much memory every single time.\nFurthermore, errors are often simply passed up the call-stack, making\nuse of the `?`-operator and its type-conversion mechanics. If the\n`Err`-variant further up the call-stack stores the `Err`-variant in\nquestion (as library code often does), it itself needs to be at least\nas large, propagating the problem.\n\n### Known problems\nThe size determined by Clippy is platform-dependent.\n\n### Examples\n```rust\npub enum ParseError {\n    UnparsedBytes([u8; 512]),\n    UnexpectedEof,\n}\n\n// The `Result` has at least 512 bytes, even in the `Ok`-case\npub fn parse() -> Result<(), ParseError> {\n    Ok(())\n}\n```\nshould be\n```rust\npub enum ParseError {\n    UnparsedBytes(Box<[u8; 512]>),\n    UnexpectedEof,\n}\n\n// The `Result` is slightly larger than a pointer\npub fn parse() -> Result<(), ParseError> {\n    Ok(())\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `large-error-threshold`: The maximum size of the `Err`-variant in a `Result` returned from a function (default: `128`)",
+		"docs": "\n### What it does\nChecks for functions that return `Result` with an unusually large\n`Err`-variant.\n\n### Why is this bad?\nA `Result` is at least as large as the `Err`-variant. While we\nexpect that variant to be seldom used, the compiler needs to reserve\nand move that much memory every single time.\nFurthermore, errors are often simply passed up the call-stack, making\nuse of the `?`-operator and its type-conversion mechanics. If the\n`Err`-variant further up the call-stack stores the `Err`-variant in\nquestion (as library code often does), it itself needs to be at least\nas large, propagating the problem.\n\n### Known problems\nThe size determined by Clippy is platform-dependent.\n\n### Examples\n```rust\npub enum ParseError {\n    UnparsedBytes([u8; 512]),\n    UnexpectedEof,\n}\n\n// The `Result` has at least 512 bytes, even in the `Ok`-case\npub fn parse() -> Result<(), ParseError> {\n    Ok(())\n}\n```\nshould be\n```rust\npub enum ParseError {\n    UnparsedBytes(Box<[u8; 512]>),\n    UnexpectedEof,\n}\n\n// The `Result` is slightly larger than a pointer\npub fn parse() -> Result<(), ParseError> {\n    Ok(())\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `large-error-threshold`: The maximum size of the `Err`-variant in a `Result` returned from a function (default: `128`)",
 		"group": "perf",
 		"id": "result_large_err",
 		"id_span": {
@@ -7554,7 +7638,7 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\n\nChecks an argument of `seek` method of `Seek` trait\nand if it start seek from `SeekFrom::Current(0)`, suggests `stream_position` instead.\n\n### Why is this bad?\n\nReadability. Use dedicated method.\n\n### Example\n\n```rust\nuse std::fs::File;\nuse std::io::{self, Write, Seek, SeekFrom};\n\nfn main() -> io::Result<()> {\n    let mut f = File::create(\"foo.txt\")?;\n    f.write_all(b\"Hello\")?;\n    eprintln!(\"Written {} bytes\", f.seek(SeekFrom::Current(0))?);\n\n    Ok(())\n}\n```\nUse instead:\n```rust\nuse std::fs::File;\nuse std::io::{self, Write, Seek, SeekFrom};\n\nfn main() -> io::Result<()> {\n    let mut f = File::create(\"foo.txt\")?;\n    f.write_all(b\"Hello\")?;\n    eprintln!(\"Written {} bytes\", f.stream_position()?);\n\n    Ok(())\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
+		"docs": "\n### What it does\n\nChecks if the `seek` method of the `Seek` trait is called with `SeekFrom::Current(0)`,\nand if it is, suggests using `stream_position` instead.\n\n### Why is this bad?\n\nReadability. Use dedicated method.\n\n### Example\n\n```rust\nuse std::fs::File;\nuse std::io::{self, Write, Seek, SeekFrom};\n\nfn main() -> io::Result<()> {\n    let mut f = File::create(\"foo.txt\")?;\n    f.write_all(b\"Hello\")?;\n    eprintln!(\"Written {} bytes\", f.seek(SeekFrom::Current(0))?);\n\n    Ok(())\n}\n```\nUse instead:\n```rust\nuse std::fs::File;\nuse std::io::{self, Write, Seek, SeekFrom};\n\nfn main() -> io::Result<()> {\n    let mut f = File::create(\"foo.txt\")?;\n    f.write_all(b\"Hello\")?;\n    eprintln!(\"Written {} bytes\", f.stream_position()?);\n\n    Ok(())\n}\n```\n\n### Configuration\nThis lint has the following configuration variables:\n\n- `msrv`: The minimum rust version that the project supports. Defaults to the `rust-version` field in `Cargo.toml`",
 		"group": "complexity",
 		"id": "seek_from_current",
 		"id_span": {
@@ -7680,7 +7764,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for misuses of the serde API.\n\n### Why is this bad?\nSerde is very finnicky about how its API should be\nused, but the type system can't be used to enforce it (yet?).\n\n### Example\nImplementing `Visitor::visit_string` but not\n`Visitor::visit_str`.",
+		"docs": "\n### What it does\nChecks for misuses of the serde API.\n\n### Why is this bad?\nSerde is very finicky about how its API should be\nused, but the type system can't be used to enforce it (yet?).\n\n### Example\nImplementing `Visitor::visit_string` but not\n`Visitor::visit_str`.",
 		"group": "correctness",
 		"id": "serde_api_misuse",
 		"id_span": {
@@ -8061,14 +8145,14 @@
 			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\n\nChecks for usages of `str.trim().split(\"\\n\")` and `str.trim().split(\"\\r\\n\")`.\n\n### Why is this bad?\n\nHard-coding the line endings makes the code less compatible. `str.lines` should be used instead.\n\n### Example\n```rust\n\"some\\ntext\\nwith\\nnewlines\\n\".trim().split('\\n');\n```\nUse instead:\n```rust\n\"some\\ntext\\nwith\\nnewlines\\n\".lines();\n```\n\n### Known Problems\n\nThis lint cannot detect if the split is intentionally restricted to a single type of newline (`\"\\n\"` or\n`\"\\r\\n\"`), for example during the parsing of a specific file format in which precisely one newline type is\nvalid.\n```rust",
+		"docs": "\n### What it does\n\nChecks for usages of `str.trim().split(\"\\n\")` and `str.trim().split(\"\\r\\n\")`.\n\n### Why is this bad?\n\nHard-coding the line endings makes the code less compatible. `str.lines` should be used instead.\n\n### Example\n```rust\n\"some\\ntext\\nwith\\nnewlines\\n\".trim().split('\\n');\n```\nUse instead:\n```rust\n\"some\\ntext\\nwith\\nnewlines\\n\".lines();\n```\n\n### Known Problems\n\nThis lint cannot detect if the split is intentionally restricted to a single type of newline (`\"\\n\"` or\n`\"\\r\\n\"`), for example during the parsing of a specific file format in which precisely one newline type is\nvalid.",
 		"group": "pedantic",
 		"id": "str_split_at_newline",
 		"id_span": {
 			"path": "src/methods/mod.rs"
 		},
 		"level": "allow",
-		"version": "1.76.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -8355,14 +8439,14 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for the suspicious use of `OpenOptions::create()`\nwithout an explicit `OpenOptions::truncate()`.\n\n### Why is this bad?\n`create()` alone will either create a new file or open an\nexisting file. If the file already exists, it will be\noverwritten when written to, but the file will not be\ntruncated by default.\nIf less data is written to the file\nthan it already contains, the remainder of the file will\nremain unchanged, and the end of the file will contain old\ndata.\nIn most cases, one should either use `create_new` to ensure\nthe file is created from scratch, or ensure `truncate` is\ncalled so that the truncation behaviour is explicit. `truncate(true)`\nwill ensure the file is entirely overwritten with new data, whereas\n`truncate(false)` will explicitely keep the default behavior.\n\n### Example\n```rust\nuse std::fs::OpenOptions;\n\nOpenOptions::new().create(true);\n```\nUse instead:\n```rust\nuse std::fs::OpenOptions;\n\nOpenOptions::new().create(true).truncate(true);\n```",
+		"docs": "\n### What it does\nChecks for the suspicious use of `OpenOptions::create()`\nwithout an explicit `OpenOptions::truncate()`.\n\n### Why is this bad?\n`create()` alone will either create a new file or open an\nexisting file. If the file already exists, it will be\noverwritten when written to, but the file will not be\ntruncated by default.\nIf less data is written to the file\nthan it already contains, the remainder of the file will\nremain unchanged, and the end of the file will contain old\ndata.\nIn most cases, one should either use `create_new` to ensure\nthe file is created from scratch, or ensure `truncate` is\ncalled so that the truncation behaviour is explicit. `truncate(true)`\nwill ensure the file is entirely overwritten with new data, whereas\n`truncate(false)` will explicitly keep the default behavior.\n\n### Example\n```rust\nuse std::fs::OpenOptions;\n\nOpenOptions::new().create(true);\n```\nUse instead:\n```rust\nuse std::fs::OpenOptions;\n\nOpenOptions::new().create(true).truncate(true);\n```",
 		"group": "suspicious",
 		"id": "suspicious_open_options",
 		"id_span": {
 			"path": "src/methods/mod.rs"
 		},
 		"level": "warn",
-		"version": "1.75.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -8516,7 +8600,7 @@
 			"path": "src/thread_local_initializer_can_be_made_const.rs"
 		},
 		"level": "warn",
-		"version": "1.76.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -8915,7 +8999,7 @@
 			"applicability": "MaybeIncorrect",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nLooks for calls to `<Box<dyn Any> as Any>::type_id`.\n\n### Why is this bad?\nThis most certainly does not do what the user expects and is very easy to miss.\nCalling `type_id` on a `Box<dyn Any>` calls `type_id` on the `Box<..>` itself,\nso this will return the `TypeId` of the `Box<dyn Any>` type (not the type id\nof the value referenced by the box!).\n\n### Example\n```rust\nuse std::any::{Any, TypeId};\n\nlet any_box: Box<dyn Any> = Box::new(42_i32);\nassert_eq!(any_box.type_id(), TypeId::of::<i32>()); // ⚠️ this fails!\n```\nUse instead:\n```rust\nuse std::any::{Any, TypeId};\n\nlet any_box: Box<dyn Any> = Box::new(42_i32);\nassert_eq!((*any_box).type_id(), TypeId::of::<i32>());\n//          ^ dereference first, to call `type_id` on `dyn Any`\n```",
+		"docs": "\n### What it does\nLooks for calls to `.type_id()` on a `Box<dyn _>`.\n\n### Why is this bad?\nThis almost certainly does not do what the user expects and can lead to subtle bugs.\nCalling `.type_id()` on a `Box<dyn Trait>` returns a fixed `TypeId` of the `Box` itself,\nrather than returning the `TypeId` of the underlying type behind the trait object.\n\nFor `Box<dyn Any>` specifically (and trait objects that have `Any` as its supertrait),\nthis lint will provide a suggestion, which is to dereference the receiver explicitly\nto go from `Box<dyn Any>` to `dyn Any`.\nThis makes sure that `.type_id()` resolves to a dynamic call on the trait object\nand not on the box.\n\nIf the fixed `TypeId` of the `Box` is the intended behavior, it's better to be explicit about it\nand write `TypeId::of::<Box<dyn Trait>>()`:\nthis makes it clear that a fixed `TypeId` is returned and not the `TypeId` of the implementor.\n\n### Example\n```rust\nuse std::any::{Any, TypeId};\n\nlet any_box: Box<dyn Any> = Box::new(42_i32);\nassert_eq!(any_box.type_id(), TypeId::of::<i32>()); // ⚠️ this fails!\n```\nUse instead:\n```rust\nuse std::any::{Any, TypeId};\n\nlet any_box: Box<dyn Any> = Box::new(42_i32);\nassert_eq!((*any_box).type_id(), TypeId::of::<i32>());\n//          ^ dereference first, to call `type_id` on `dyn Any`\n```",
 		"group": "suspicious",
 		"id": "type_id_on_box",
 		"id_span": {
@@ -8957,14 +9041,14 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks that there isn't an infinite recursion in `PartialEq` trait\nimplementation.\n\n### Why is this bad?\nThis is a hard to find infinite recursion which will crashing any code\nusing it.\n\n### Example\n```rust\nenum Foo {\n    A,\n    B,\n}\n\nimpl PartialEq for Foo {\n    fn eq(&self, other: &Self) -> bool {\n        self == other // bad!\n    }\n}\n```\nUse instead:\n\nIn such cases, either use `#[derive(PartialEq)]` or don't implement it.",
+		"docs": "\n### What it does\nChecks that there isn't an infinite recursion in trait\nimplementations.\n\n### Why is this bad?\nThis is a hard to find infinite recursion that will crash any code\nusing it.\n\n### Example\n```rust\nenum Foo {\n    A,\n    B,\n}\n\nimpl PartialEq for Foo {\n    fn eq(&self, other: &Self) -> bool {\n        self == other // bad!\n    }\n}\n```\nUse instead:\n\nIn such cases, either use `#[derive(PartialEq)]` or don't implement it.",
 		"group": "suspicious",
 		"id": "unconditional_recursion",
 		"id_span": {
 			"path": "src/unconditional_recursion.rs"
 		},
 		"level": "warn",
-		"version": "1.76.0"
+		"version": "1.77.0"
 	},
 	{
 		"applicability": {
@@ -9531,7 +9615,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for deriving `serde::Deserialize` on a type that\nhas methods using `unsafe`.\n\n### Why is this bad?\nDeriving `serde::Deserialize` will create a constructor\nthat may violate invariants hold by another constructor.\n\n### Example\n```rust\nuse serde::Deserialize;\n\n#[derive(Deserialize)]\npub struct Foo {\n    // ..\n}\n\nimpl Foo {\n    pub fn new() -> Self {\n        // setup here ..\n    }\n\n    pub unsafe fn parts() -> (&str, &str) {\n        // assumes invariants hold\n    }\n}\n```",
+		"docs": "\n### What it does\nChecks for deriving `serde::Deserialize` on a type that\nhas methods using `unsafe`.\n\n### Why is this bad?\nDeriving `serde::Deserialize` will create a constructor\nthat may violate invariants held by another constructor.\n\n### Example\n```rust\nuse serde::Deserialize;\n\n#[derive(Deserialize)]\npub struct Foo {\n    // ..\n}\n\nimpl Foo {\n    pub fn new() -> Self {\n        // setup here ..\n    }\n\n    pub unsafe fn parts() -> (&str, &str) {\n        // assumes invariants hold\n    }\n}\n```",
 		"group": "pedantic",
 		"id": "unsafe_derive_deserialize",
 		"id_span": {
@@ -9654,7 +9738,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "Unresolved",
+			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
 		"docs": "\n### What it does\nChecks for uses of the `enumerate` method where the index is unused (`_`)\n\n### Why is this bad?\nThe index from `.enumerate()` is immediately dropped.\n\n### Example\n```rust\nlet v = vec![1, 2, 3, 4];\nfor (_, x) in v.iter().enumerate() {\n    println!(\"{x}\");\n}\n```\nUse instead:\n```rust\nlet v = vec![1, 2, 3, 4];\nfor x in v.iter() {\n    println!(\"{x}\");\n}\n```",
@@ -9860,7 +9944,7 @@
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"docs": "\n### What it does\nChecks for the use of bindings with a single leading\nunderscore.\n\n### Why is this bad?\nA single leading underscore is usually used to indicate\nthat a binding will not be used. Using such a binding breaks this\nexpectation.\n\n### Known problems\nThe lint does not work properly with desugaring and\nmacro, it has been allowed in the mean time.\n\n### Example\n```rust\nlet _x = 0;\nlet y = _x + 1; // Here we are using `_x`, even though it has a leading\n                // underscore. We should rename `_x` to `x`\n```",
+		"docs": "\n### What it does\nChecks for the use of bindings with a single leading\nunderscore.\n\n### Why is this bad?\nA single leading underscore is usually used to indicate\nthat a binding will not be used. Using such a binding breaks this\nexpectation.\n\n### Known problems\nThe lint does not work properly with desugaring and\nmacro, it has been allowed in the meantime.\n\n### Example\n```rust\nlet _x = 0;\nlet y = _x + 1; // Here we are using `_x`, even though it has a leading\n                // underscore. We should rename `_x` to `x`\n```",
 		"group": "pedantic",
 		"id": "used_underscore_binding",
 		"id_span": {
@@ -10277,6 +10361,20 @@
 		},
 		"level": "warn",
 		"version": "pre 1.29.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unspecified",
+			"is_multi_part_suggestion": false
+		},
+		"docs": "\n### What it does\nChecks for array or vec initializations which call a function or method,\nbut which have a repeat count of zero.\n\n### Why is this bad?\nSuch an initialization, despite having a repeat length of 0, will still call the inner function.\nThis may not be obvious and as such there may be unintended side effects in code.\n\n### Example\n```rust\nfn side_effect() -> i32 {\n    println!(\"side effect\");\n    10\n}\nlet a = [side_effect(); 0];\n```\nUse instead:\n```rust\nfn side_effect() -> i32 {\n    println!(\"side effect\");\n    10\n}\nside_effect();\nlet a: [i32; 0] = [];\n```",
+		"group": "suspicious",
+		"id": "zero_repeat_side_effects",
+		"id_span": {
+			"path": "src/zero_repeat_side_effects.rs"
+		},
+		"level": "warn",
+		"version": "1.75.0"
 	},
 	{
 		"applicability": {
