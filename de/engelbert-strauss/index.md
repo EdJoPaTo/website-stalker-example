@@ -57,8 +57,6 @@ starkes Material. Auch als Sommer-Edition erhältlich!
 
  Sicher verstaut,
 direkt griffbereit.
-----------
-
 ---
 
  Sportlich & kompakt: die neue Umhängetasche e.s.ambition.
@@ -68,8 +66,6 @@ direkt griffbereit.
 [zu allen Taschen](https://www.engelbert-strauss.de/taschen/)
 
  It's Mario Time
-----------
-
 ---
 
  Für Groß und Klein: Das ist die Strauss x Super Mario Familienkollektion.
