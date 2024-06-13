@@ -91,13 +91,16 @@ direkt griffbereit.
 
 ---
 
- EURO 2024™
+ Limitiertes Angebot
+---
+
+ Sommer
 Aktions-Sets
 ---
 
- Workwear kaufen und UEFA EURO 2024™ Artikel GRATIS erhalten
+ Workwear kaufen und tolle Zugabe-Artikel GRATIS erhalten.
 
-[alle Aktions-Sets entdecken](https://www.engelbert-strauss.de/s/suche?itemorigin=startseite_fs24&query=EURO24)
+[alle Aktions-Sets entdecken](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/?sort=newest)
 
 | \+<br/>---| Gratis   <br/>Artikel<br/>---|   |
 |-----------|------------------------------|---|
