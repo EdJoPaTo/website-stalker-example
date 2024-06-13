@@ -27,6 +27,8 @@ cirrus nimbus
   * **ASRock Z790M-ITX (DDR5)**
     Z790 Chipsatz – Mini ITX
 
+  * **ASRock B550M-ITX (DDR4 – AM4 Socket)**
+    B550 Chipsatz – Mini ITX
   * **GIGABYTE B550I AORUS Pro (DDR4 – AM4 Socket)**
     B550 Chipsatz – Mini ITX
   * **GIGABYTE A620I (DDR5 – AM5 Socket)**
@@ -241,6 +243,8 @@ cirrus nimbus
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
+  * **AMD Ryzen 5 8500G**
+    2C+4c/12T, 3.50 – 5.00GHz – Radeon 740M
   * **AMD Ryzen 5 8600G**
     6C/12T, 4.30 – 5.00GHz – Radeon 760M
   * **AMD Ryzen 7 8700G**
@@ -334,6 +338,8 @@ cirrus nimbus
   * **64 GB DDR5 (2x 32GB)**
     SO-DIMM – 4800MHz
 
+  * **8 GB DDR5 (1x 8GB)**
+    SO-DIMM – 5600MHz
   * **16 GB DDR5 (2x 8GB)**
     SO-DIMM – 5600MHz
   * **32 GB DDR5 (2x 16GB)**
