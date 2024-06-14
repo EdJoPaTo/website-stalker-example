@@ -55,7 +55,8 @@ starkes Material. Auch als Sommer-Edition erhältlich!
  Brand Partnerships
 ---
 
- Entdecke unsere globale Brand!
+ Entdecke unsere
+globale Brand!
 ---
 
 [Brand Partnerships](https://www.engelbert-strauss.de/brand_partnerships)
