@@ -142,7 +142,7 @@ None
 
 None
 
-MPP Active Pen  Sold Out - Get Notified When Available
+MPP Active Pen
 
 Charge Cable
 
