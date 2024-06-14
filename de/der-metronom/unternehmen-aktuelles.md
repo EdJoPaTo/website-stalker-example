@@ -20,7 +20,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
  Uelzen - 14.06.2024
 
 Ein herzliches Gut Kick in die Runde!
-Die Fußball-Europameisterschaft steigt im eigenen Land und die Chancen auf ein zweites Sommermärchen (bei bestem norddeutschen Wetter) stehen gut. Klar, dass wir da vom metronom bei jedem Spiel mit unserer Nationalmannschaft mitfiebern! Aber eines müssen wir...
+Die Fußball-Europameisterschaft steigt im eigenen Land und die Chancen auf ein zweites Sommermärchen (bei bestem norddeutschen Wetter) stehen gut. Klar, dass wir da vom metronom bei jedem Spiel mitfiebern! Aber eines müssen wir vorab klarstellen: Unsere Züge...
 
 [Beendet: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle (RE2/RE3/RB31)](https://www.der-metronom.de/aktuell/beendet-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle-re2-re3-rb31/)
 
