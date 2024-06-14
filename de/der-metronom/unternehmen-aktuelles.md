@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Die Fußball-Europameisterschaft im metronom](https://www.der-metronom.de/aktuell/die-fussball-europameisterschaft-im-metronom/)
+
+ Uelzen - 14.06.2024
+
+Ein herzliches Gut Kick in die Runde!
+Die Fußball-Europameisterschaft steigt im eigenen Land und die Chancen auf ein zweites Sommermärchen (bei bestem norddeutschen Wetter) stehen gut. Klar, dass wir da vom metronom bei jedem Spiel mit unserer Nationalmannschaft mitfiebern! Aber eines müssen wir...
+
 [Beendet: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle (RE2/RE3/RB31)](https://www.der-metronom.de/aktuell/beendet-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle-re2-re3-rb31/)
 
  Uelzen - 13.06.2024
@@ -50,8 +57,6 @@ Es entfallen weiter Fahrten auf den Linien RE3,...
 
  Die Landesnahverkehrsgesellschaft...
 
-[Lüneburg Gleis 1: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-1-erneuerung-des-aufzuges-barrierefreies-reisen/)
+ Seite 1 von 2
 
- Uelzen - 08.01.2024
-
-Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
+ 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
