@@ -22,14 +22,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 Ein herzliches Gut Kick in die Runde!
 Die Fußball-Europameisterschaft steigt im eigenen Land und die Chancen auf ein zweites Sommermärchen (bei bestem norddeutschen Wetter) stehen gut. Klar, dass wir da vom metronom bei jedem Spiel mitfiebern! Aber eines müssen wir vorab klarstellen: Unsere Züge...
 
-[Beendet: Ad-hoc-Baumaßnahme zwischen Uelzen und Celle (RE2/RE3/RB31)](https://www.der-metronom.de/aktuell/beendet-ad-hoc-bauma%C3%9Fnahme-zwischen-uelzen-und-celle-re2-re3-rb31/)
-
- Uelzen - 13.06.2024
-
-Liebe Fahrgäste,
-das Eisenbahninfrastrukturunternehmen (DBInfraGo AG) musste auf der Strecke zwischen Uelzen und Hannover Hauptbahnhof aufgrund eines Oberbaumangels nach einem Starkregenereignis Ad-hoc-Baumaßnahmen durchführen.
-Inzwischen konnten die Arbeiten abgeschlossen werden, die Strecke...
-
 [RE4/RB41: Zusätzlicher Halt der RE4 zum Hurricane-Festival in Scheeßel](https://www.der-metronom.de/aktuell/re4-rb41-zusaetzlicher-halt-der-re4-zum-hurricane-festival-in-scheessel/)
 
  Uelzen - 27.05.2024
@@ -57,6 +49,8 @@ Es entfallen weiter Fahrten auf den Linien RE3,...
 
  Die Landesnahverkehrsgesellschaft...
 
- Seite 1 von 2
+[Lüneburg Gleis 1: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-1-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
- 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
+ Uelzen - 08.01.2024
+
+Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
