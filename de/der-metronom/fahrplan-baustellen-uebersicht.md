@@ -20,7 +20,7 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[08.06.2024 - 16.06.2024 RE2: Zusätzliche Halte zur IdeenExpo](https://www.der-metronom.de/baustellen/re2-zusaetzliche-halte-zur-ideenexpo/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
