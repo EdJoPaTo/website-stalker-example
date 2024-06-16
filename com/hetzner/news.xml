@@ -6,6 +6,24 @@
 		<description>In the news section you will find all the latest news about the products and the company Hetzner Online.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Get the wow-effect: The new Cloud plans are here!</title>
+			<link>https://www.hetzner.com/news/new-cx-plans/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<p>
+			<small>
+				6. June 2024
+			</small>
+		</p>
+		<p>
+			In just a few seconds, you could deploy one of our four new shared vCPU Cloud plans.
+		</p>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Speeds meets space: discover the new Hetzner dedicated storage servers</title>
 			<link>https://www.hetzner.com/news/new-sx-line/</link>
 			<content:encoded><![CDATA[<html>
@@ -183,24 +201,6 @@
 		</p>
 		<p>
 			Hetzner has strengthened its server selection with the strapping Dedicated Server EX130, which comes in two versions.
-		</p>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>New dedicated vCPU cloud servers with AMD Epyc™ cpus at a sensational price!</title>
-			<link>https://www.hetzner.com/news/new-dedicated-vcpu-cloud-server/</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<p>
-			<small>
-				23. August 2023
-			</small>
-		</p>
-		<p>
-			We would like to introduce you to our latest line of six dedicated vCPU Cloud servers.
 		</p>
 	</body>
 </html>]]></content:encoded>
