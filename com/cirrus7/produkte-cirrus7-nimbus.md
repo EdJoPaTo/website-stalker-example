@@ -96,32 +96,29 @@ cirrus nimbus
   * **2x USB-A 3.1**
     Frontpanel optionale Ports
 
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
   * **1x USB-C 3.2**
     Frontpanel optionale Port
 
   * **2x USB-A 3.1**
     Frontpanel optionale Ports
 
-  * **1x USB-C 3.2**
-    Frontpanel optionale Port
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
+
+  * **2x USB-A 3.1**
+    Frontpanel optionale Ports
 
   * **2x USB-A 3.1**
     Frontpanel optionale Ports
 
   * **1x USB-C 3.2**
     Frontpanel optionale Port
-
-  * **2x USB-A 3.1**
-    Frontpanel optionale Ports
-
-  * **1x USB-C 3.2**
-    Front-panel additional port
-
-  * **2x USB-A 3.1**
-    Frontpanel optionale Ports
-
-  * **2x USB-A 3.1**
-    Frontpanel optionale Ports
 
   ##### Plattform wählen #####
 
