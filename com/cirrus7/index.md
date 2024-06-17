@@ -29,21 +29,21 @@ inkl. MwSt. und Versand
 
 Passiv gekühlter mini-PC mit AMD Ryzen CPU
 
-mit AMD Ryzen Renoir / Intel Raptor Lake CPU
+mit AMD Ryzen / Intel Raptor Lake CPU
 
 lüfterlose / lautlose Kühlung
 
 bis zu 4 x SSDs / HDDs
 
-basierend auf ASRock DeskMini X300 und B760
+basierend auf ASRock DeskMini X300, X600 und B760
 
-* mit AMD Ryzen Renoir / Intel Raptor Lake CPU
+* mit AMD Ryzen / Intel Raptor Lake CPU
 
 * lüfterlose / lautlose Kühlung
 
 * bis zu 4 x SSDs / HDDs
 
-* basierend auf ASRock DeskMini X300 und B760
+* basierend auf ASRock DeskMini X300, X600 und B760
 
 ab € 499,00
 inkl. MwSt. und Versand
@@ -54,7 +54,7 @@ inkl. MwSt. und Versand
 
 Der Kleine mit der Größe.
 
-basierend auf Intel® NUC7 / NUC12
+basierend auf Intel® NUC12 / NUC13
 
 bis zu 64 GB RAM
 
@@ -62,7 +62,7 @@ bis zu 2x SSDs / HDDs
 
 lautlose / lüfterlose Kühlung
 
-* basierend auf Intel® NUC7 / NUC12
+* basierend auf Intel® NUC12 / NUC13
 
 * bis zu 64 GB RAM
 
@@ -72,7 +72,7 @@ lautlose / lüfterlose Kühlung
 
 * vielseitige Anwendungen
 
-ab € 299,00
+ab € 599,00
 inkl. MwSt. und Versand
 
 [mehr erfahren ...](https://www.cirrus7.com/cirrus7-nimbini/)

@@ -1,7 +1,7 @@
 cirrus7 nimbini
 ==========
 
-cirrus nimbini v4
+cirrus nimbini v4 - Pro Edition
 ----------
 
 * lautlose Kühlung durch passives Aluminium-Kühlkörpergehäuse mit Kupferkernen
@@ -11,14 +11,13 @@ cirrus nimbini v4
 
 * ##### cirrus7 nimbini - Edition #####
 
-  * Gemini Edition
   * Pro Edition
 
   * basierend auf Intel Gemini-Lake NUC7xJYB Board mit Ultra HD-60x Graphics
   * geeignet für 2x 4K-Monitore bei 60Hz über HDMI 2.0a
   * 2x HDMI 2.0a, 4x USB 3.0, 1xGBit LAN
 
-  * basierend auf Intel NUC12 Pro
+  * basierend auf Intel NUC12 Pro / NUC13 Pro
   * Intel® Xe GPU
   * geeignet für 4x 4K-Monitore bei 60Hz
   * 2x HDMI 2.0b, 3x USB--A 3.1 (10Gb/s), 1x USB-A 2.0 (480Mb/s), 2x Thunderbolt 4, 1x 2.5GBase-T
