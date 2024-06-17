@@ -1,3 +1,8 @@
+WeDoSolar
+----------
+
+ „Haushalte sollen über 50% ihres Energiebedarfs durch Solarenergie decken können, und das zu einem Bruchteil der Kosten, die Solarteure verlangen.“ Mit genial einfachen und kostengünstigen Lösungen bringt das Berliner Unternehmen WeDoSolar die Solarenergie in die Breite. Da wollten wir natürlich mehr wissen und haben Mitgründerin und CEO Karolina Attspodina ins WEtell Spotlight gesetzt.
+
 iFixit
 ----------
 
