@@ -150,16 +150,6 @@ sites:
       - html_sanitize
       - html_prettify
 
-  - url: https://www.hetzner.com/news/
-    editors:
-      - rss:
-          title: Hetzner News
-          item_selector: .list-card li
-          title_selector: h4
-          content_editors:
-            - css_select: p
-            - html_sanitize
-            - html_prettify
   - url:
       - https://www.hetzner.com/cloud/
       - https://www.hetzner.com/storage/storage-box/
