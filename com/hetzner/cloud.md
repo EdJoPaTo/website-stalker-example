@@ -831,7 +831,7 @@ Volumes offer highly available and reliable SSD storage for your cloud servers. 
 
 ### PERFORMANCE ###
 
-Ampere® Altra®, AMD EPYC™ 2nd Gen and Intel® Xeon® Gold processors together with speedy NVMe SSDs in a local RAID10 mean you’ll profit from high performance hardware. And you’ll benefit from the redundant 10 Gbit network connection of our host systems.
+Ampere® Altra®, AMD EPYC™ 2nd Gen and Intel® Xeon® Gold processors together with **speedy NVMe SSDs** in a local RAID10 mean you’ll profit from high performance hardware. And you’ll benefit from the redundant 10 Gbit network connection of our host systems.
 
 ### DOCUMENTATION & API ###
 
