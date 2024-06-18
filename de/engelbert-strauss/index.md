@@ -24,6 +24,19 @@ Farbstarke Outfits, sportliche Schnitte.
 
 [Kollektion entdecken](https://www.engelbert-strauss.de/ambition)
 
+Kernige Styles
+
+----------
+
+---
+
+ Weiter geht’s im kernigen Iconic-Style:
+Die neuen Teile sind da!
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/)
+
+[zur e.s.iconic Kollektion](https://www.engelbert-strauss.de/iconic)
+
  S1 Sicherheitshalbschuhe
 e.s. Padua low
 
@@ -39,18 +52,6 @@ das ist sportlicher Komfort mit S1-Schutzpaket.
 [jetzt kaufen](https://www.engelbert-strauss.de/sicherheitsschuhe-s1/s1-sicherheitshalbschuhe-e-s-padua-low-1101590-93381-1426.html?amp;itemorigin=Startseite)
 
 [alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
-
- Sommer workwear
-----------
-
----
-
- e.s.motion ten – natürliche Vintage-Farben, lässige Schnitte und
-starkes Material. Auch als Sommer-Edition erhältlich!
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/motion_ten)
 
  Brand Partnerships
 ---
@@ -106,24 +107,127 @@ Aktions-Sets
 | \+<br/>---| Gratis   <br/>Artikel<br/>---|   |
 |-----------|------------------------------|---|
 
- Sommer-Styles
+ Wählen Sie die Farbe für Ihr Team
 ---
 
- Der Sommer kann kommen!
-----------
+Grüntöne
 
 ---
 
- Leicht und trotzdem robust – dazu noch lässig, bequem und sportlich: Das ist Workwear für den Sommer!
+[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Gruentoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_image,e_s_classic,e_s_prestige,Basics/)
 
-[Hosen & Shorts](https://www.engelbert-strauss.de/s/suche?itemorigin=startseite_fs24&query=Sommerhose)
+[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Gruentoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_concrete,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_classic,Basics/)
 
-[T-Shirts](https://www.engelbert-strauss.de/s/suche?itemorigin=startseite_fs24&query=T-Shirts)
-
- Ihr Style, Ihre Farbe, Ihr Logo.
+ Wählen Sie die Farbe für Ihr Team
 ---
 
-[jetzt selbst gestalten](https://www.engelbert-strauss.de/mymotion)
+Blautöne
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Blautoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_classic,e_s_prestige,e_s_industry,Basics/)
+
+[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Blautoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_classic,Basics/)
+
+ Wählen Sie die Farbe für Ihr Team
+---
+
+Gelbtöne
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Gelbtoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_concrete,e_s_vintage,e_s_trail,e_s_ambition,e_s_image,e_s_prestige,Basics/)
+
+[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Gelbtoene/e_s_Kollektionslinien:e_s_motion_ten,e_s_motion2020,e_s_trail,e_s_ambition,Basics/)
+
+ Wählen Sie die Farbe für Ihr Team
+---
+
+Orangetöne
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Orangetoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_ambition,e_s_roughtough,e_s_image,e_s_prestige,Basics/)
+
+[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Orangetoene/e_s_Kollektionslinien:e_s_motion2020,Basics/)
+
+ Wählen Sie die Farbe für Ihr Team
+---
+
+Rottöne
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Rottoene/e_s_Kollektionslinien:e_s_motion,e_s_motion2020,e_s_active,e_s_vision,e_s_vintage,e_s_iconic,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_image,e_s_classic,Basics/)
+
+[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Rottoene/e_s_Kollektionslinien:e_s_motion,e_s_motion2020,e_s_vision,e_s_classic,Basics/)
+
+ Wählen Sie die Farbe für Ihr Team
+---
+
+Brauntöne
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Brauntoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_vision,e_s_vintage,e_s_iconic,e_s_dynashield,e_s_roughtough,e_s_image,e_s_classic,Basics/)
+
+[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Brauntoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_vintage,e_s_iconic,e_s_dynashield,e_s_roughtough,Basics/)
+
+ Wählen Sie die Farbe für Ihr Team
+---
+
+Grautöne
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Grautoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_image,e_s_classic,e_s_prestige,e_s_industry,Basics/)
+
+[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Grautoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_classic,Basics/)
+
+ Wählen Sie die Farbe für Ihr Team
+---
+
+Weißtöne
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Weisstoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_trail,e_s_ambition,e_s_image,e_s_classic,e_s_industry,Basics/)
+
+[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Weisstoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_classic,Basics/)
+
+Sie gestalten
+Wir sticken
+
+==========
+
+---
+
+ Ihr Wunschmotiv ab 1 Stück
+==========
+
+---
+
+[mehr erfahren](https://www.engelbert-strauss.de/Service/Logoservice/selbst_gestalten)
+
+schnell &
+unkompliziert
+
+---
+
+150 Motive
+zur Auswahl
+
+---
+
+Schriftzug
+selbst gestalten
+
+---
+
+ab 1 Stück
+bestellbar
+
+---
 
  Nach Kategorie shoppen
 ---

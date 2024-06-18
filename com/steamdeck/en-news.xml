@@ -6,6 +6,54 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: June 18th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6579277080416446898</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 18, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed in-game purchase browser not loading properly.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Linux
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed disk write failures reported in the logs when starting games with the shader manager disabled.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6579277080416446898" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: June 16th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/6579276804424517905</link>
 			<content:encoded><![CDATA[<html>
@@ -277,44 +325,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/6579276631059748106" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: June 13th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/6579276631059156422</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 13, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed input when using Nintendo Joy-Con controllers
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6579276631059156422" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
