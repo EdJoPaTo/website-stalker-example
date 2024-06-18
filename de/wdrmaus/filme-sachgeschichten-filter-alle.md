@@ -1202,7 +1202,6 @@
 * [Wasserwaage](https://www.wdrmaus.de/filme/sachgeschichten/wasserwaage.php5)
 * [Wattpostbote](https://www.wdrmaus.de/filme/sachgeschichten/wattpostbote.php5)
 * [Weckmann](https://www.wdrmaus.de/filme/sachgeschichten/weckmann.php5)
-* [Weihnachtsbaum schmückt sich selbst](https://www.wdrmaus.de/filme/sachgeschichten/weihnachtsbaum_schmueckt_sich_selbst.php5)
 * [Weihnachtsbaumleasing](https://www.wdrmaus.de/filme/sachgeschichten/weihnachtsbaumleasing.php5)
 * [Weihnachtsfrucht](https://www.wdrmaus.de/filme/sachgeschichten/weihnachtsfrucht.php5)
 * [Weihnachtsgeschenkpapier](https://www.wdrmaus.de/filme/sachgeschichten/weihnachtsgeschenkpapier.php5)
