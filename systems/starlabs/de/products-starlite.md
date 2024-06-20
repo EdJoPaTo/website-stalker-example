@@ -128,7 +128,7 @@ English (UK)
 
 English (US)
 
-German
+German  Sold Out - Get Notified When Available
 
 Spanish
 
