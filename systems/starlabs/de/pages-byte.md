@@ -208,7 +208,7 @@ Your way.
 
 [Visit Mint](https://linuxmint.com/)
 
- Manjaro 23
+ Manjaro 24
 
  GNOME, Plasma, XFCE
 

@@ -82,11 +82,11 @@ Linux Mint 21.3 MATE
 
 Linux Mint 21.3 XFCE
 
-Manjaro 23 GNOME
+Manjaro 24 GNOME
 
-Manjaro 23 Plasma
+Manjaro 24 Plasma
 
-Manjaro 23 XFCE
+Manjaro 24 XFCE
 
 MX Linux 23.2 XFCE
 
