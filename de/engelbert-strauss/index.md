@@ -73,7 +73,7 @@ direkt griffbereit.
 
  Sportlich & kompakt: die neue Umhängetasche e.s.ambition.
 
-[jetzt kaufen](https://www.engelbert-strauss.de/taschen/umhaengetasche-e-s-ambition-7072380-5505352-1.html?amp;itemorigin=Startseite)
+[jetzt kaufen](https://www.engelbert-strauss.de/allroundtaschen/umhaengetasche-e-s-ambition-7072380-5505352-1.html?amp;itemorigin=Startseite)
 
 [zu allen Taschen](https://www.engelbert-strauss.de/taschen/)
 
