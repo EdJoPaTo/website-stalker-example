@@ -1,3 +1,8 @@
+Murena
+----------
+
+Dienste, die deine Daten schützen, sind wie dünne Scheiben Emmentaler Käse. Eine Scheibe hat noch mehrere Löcher, aber stapelst du viele davon übereinander, so bleiben immer weniger Löcher übrig. Das französische Unternehmen Murena arbeitet ständig daran, diese Datenlöcher für dich zu schließen. Also haben wir Gründer und Linux-Pionier Gaël Duval ins WEtell Spotlight gesetzt.
+
 WeDoSolar
 ----------
 
