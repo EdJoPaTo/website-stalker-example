@@ -1,3 +1,11 @@
+Summer @ StarLabs¹ for the Byte on 21st June.
+
+ YOU MISSED OUT ON OUR BEST SALE!
+ We dropped the price an extra £75 AND YOU DIDN'T KNOW!
+ Not again, we auto-applied your discount at checkout.
+
+¹ Whilst stocks last. Discount limited to one use per customer.
+
 About
 
 Byte

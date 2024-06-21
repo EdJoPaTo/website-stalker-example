@@ -15,6 +15,12 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Gleichbleibende Wagenreihung: Wo ist der Fahrradwagen?](https://www.der-metronom.de/aktuell/gleichbleibende-wagenreihung-wo-ist-der-fahrradwagen/)
+
+ 21.06.2024
+
+Das Wetter zeigt sich in diesen Tagen leider nicht von seiner besten Seite. Während die Chancen auf ein Fußball-Sommermärchen gut stehen, macht der Sommer insgesamt mit grauem Himmel einen eher trüben Eindruck. Trotzdem lassen sich Radprofis und Freizeitradler nicht entmutigen und nutzen jede...
+
 [Die Fußball-Europameisterschaft im metronom](https://www.der-metronom.de/aktuell/die-fussball-europameisterschaft-im-metronom/)
 
  Uelzen - 14.06.2024
@@ -49,8 +55,6 @@ Es entfallen weiter Fahrten auf den Linien RE3,...
 
  Die Landesnahverkehrsgesellschaft...
 
-[Lüneburg Gleis 1: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-1-erneuerung-des-aufzuges-barrierefreies-reisen/)
+ Seite 1 von 2
 
- Uelzen - 08.01.2024
-
-Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
+ 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
