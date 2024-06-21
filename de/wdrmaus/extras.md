@@ -6,9 +6,7 @@
 * [So vielseitig ist das nasse Element](https://www.wdrmaus.de/extras/mausthemen/wasser/index.php5)
 * [Wie wollen wir leben?](https://www.wdrmaus.de/extras/mausthemen/zukunft/index.php5)
 * [Unser Einfluss auf das Klima](https://www.wdrmaus.de/extras/mausthemen/klimawandel/index.php5)
-* [Die Olympische Spiele in Tokio](https://www.wdrmaus.de/extras/mausthemen/olympia/index.php5)
 * [Fleißige Insekten und wichtige Helfer](https://www.wdrmaus.de/extras/mausthemen/bienen/index.php5)
-* [Wie verbringst du deine Zeit?](https://www.wdrmaus.de/spiel-und-spass/hobbyraum/index.php5)
 * [Der Videokurs mit Penny](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/programmieren.php5)
 * [In der Schule mit der Maus](https://www.wdrmaus.de/extras/mausthemen/schulanfang/index2.php5)
 * [Ideen zum Schutz der Umwelt](https://www.wdrmaus.de/extras/mausthemen/umwelt/index.php5)
@@ -21,19 +19,16 @@
 * [Besondere Bauwerke](https://www.wdrmaus.de/extras/mausthemen/bauwerke/index.php5)
 * [Die Maus im Weltall](https://www.wdrmaus.de/extras/mausthemen/weltall/index.php5)
 * [Über Tiere zu Land, Wasser oder in der Luft](https://www.wdrmaus.de/extras/mausthemen/tiere/index.php5)
-* [Die fünfte Jahreszeit](https://www.wdrmaus.de/extras/mausthemen/karneval/karneval.php5)
 
 * [Interessantes zum Thema Eisenbahn](https://www.wdrmaus.de/extras/mausthemen/eisenbahn/index.php5)
 * [Was macht ein Bauer auf dem Bauernhof?](https://www.wdrmaus.de/extras/mausthemen/bauernhof/index.php5)
 * [Kranich Grusini fliegt in den Süden](https://www.wdrmaus.de/extras/mausthemen/kranich/index.php5)
 * [Entdecke die Welt der Musik](https://www.wdrmaus.de/extras/mausthemen/musik/index.php5)
-* [Mit der Maus durch den Winter](https://www.wdrmaus.de/extras/mausthemen/polarstern/index.php5)
 * [Geschichten über Glaube, Religion und Wissen](https://www.wdrmaus.de/extras/mausthemen/glaube/index.php5)
 * [Wissenswertes zum "Drahtesel"](https://www.wdrmaus.de/extras/mausthemen/fahrrad/index.php5)
 * [Die Titelmelodie gespielt von MausFans](https://www.wdrmaus.de/extras/mausthemen/geburtstag_posegga/index.php5)
-* [Zum 30. Geburtstag der Ente](https://www.wdrmaus.de/extras/mausthemen/entengeburtstag/index.php5)
 * [Unsere Umwelt](https://www.wdrmaus.de/extras/mausthemen/umwelt/index.php5)
-* [Was ist da wichtig?](https://www.wdrmaus.de/extras/mausthemen/corona/index.php5)
+* [Krieg in der Ukraine](https://www.wdrmaus.de/extras/mausthemen/ukraine/index.php5)
 
 Reisen
 ----------
