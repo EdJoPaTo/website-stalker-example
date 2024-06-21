@@ -34,7 +34,7 @@ endlich ist es wieder soweit! In diesem Jahr bebt der Eichenring während dem Hu
  Uelzen - 01.02.2024
 
 Ahoi zusammen!
-Der zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen gehäuft. Ärgerlich für euch als Fahrgäste und Herausforderung für uns als Anbieter der App.
+Der Zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen gehäuft. Ärgerlich für euch als Fahrgäste und Herausforderung für uns als Anbieter der App.
 Aufgrund vermehrter...
 
 [Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)

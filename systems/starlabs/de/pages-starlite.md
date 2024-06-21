@@ -88,7 +88,8 @@ For simple connectivity.
 
 For audio output.
 
-Open-source firmware
+Open-source
+firmware
 
 powered by
 
