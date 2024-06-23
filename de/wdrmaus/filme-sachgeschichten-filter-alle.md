@@ -26,6 +26,7 @@
 * [Alpaka](https://www.wdrmaus.de/filme/sachgeschichten/alpaka.php5)
 * [Aluminiumfolie](https://www.wdrmaus.de/filme/sachgeschichten/aluminiumfolie.php5)
 * [Alurecycling](https://www.wdrmaus.de/filme/sachgeschichten/alurecycling.php5)
+* [Ameisenlöwe](https://www.wdrmaus.de/filme/sachgeschichten/ameisenloewe.php5)
 * [Ameisensturz vom Hochhaus](https://www.wdrmaus.de/filme/sachgeschichten/ameisensturz_vom_hochhaus.php5)
 * [Ampelschaltung für Rettungswagen](https://www.wdrmaus.de/filme/sachgeschichten/ampelschaltung_fuer_rettungswagen.php5)
 * [Amsel](https://www.wdrmaus.de/filme/sachgeschichten/amsel.php5)
