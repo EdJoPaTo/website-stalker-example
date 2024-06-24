@@ -34,5 +34,7 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [28.06.2024 - 29.06.2024 RB41 nächtliche Weichenbauarbeiten](https://www.der-metronom.de/baustellen/rb41-naechtliche-weichenbauarbeiten/)
 
+[10.07.2024 - 11.07.2024 RB41 nächtlicher Haltausfall in Buchholz (N.), Klecken und Hittfeld für den 81942](https://www.der-metronom.de/baustellen/rb41-naechtlicher-haltausfall-in-buchholz-n-klecken-und-hittfeld-fuer-den-81942/)
+
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
