@@ -6,6 +6,48 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: June 24th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4352247531898708762</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 24, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a potential crash when a bluetooth device pairing request times out.
+						<br>
+					</li>
+					<li>
+						Fixed a case where the battery status and "Allow wake from sleep" toggle would fail to show for supported bluetooth devices.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4352247531898708762" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: June 21st</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4352247346365030349</link>
 			<content:encoded><![CDATA[<html>
@@ -213,54 +255,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4352247156430451151" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: June 18th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/6579277080416446898</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 18, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed in-game purchase browser not loading properly.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Linux
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed disk write failures reported in the logs when starting games with the shader manager disabled.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6579277080416446898" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
