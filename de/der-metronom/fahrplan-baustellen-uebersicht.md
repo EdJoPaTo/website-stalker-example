@@ -24,8 +24,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[17.06.2024 - 23.06.2024 RE3+RB31: nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-3/)
-
 [23.06.2024 - 26.06.2024 RE3+RB31: nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-halteausfaelle-4/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
