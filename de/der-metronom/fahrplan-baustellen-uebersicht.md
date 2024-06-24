@@ -28,8 +28,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[16.06.2024 - 23.06.2024 RB41: Nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/rb41-naechtliche-halteausfaelle/)
-
 [20.06.2024 - 24.06.2024 RE4/RB41: Zusätzlicher Halt der RE4 zum Hurricane-Festival in Scheeßel](https://www.der-metronom.de/baustellen/re4-rb41-zusaetzlicher-halt-zum-hurricane-festival-in-scheessel/)
 
 [28.06.2024 - 29.06.2024 RB41: Nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/rb41-naechtliche-halteausfaelle-2/)
