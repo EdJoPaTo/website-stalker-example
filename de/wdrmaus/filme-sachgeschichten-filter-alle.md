@@ -225,7 +225,6 @@
 * [Durchschreibepapier](https://www.wdrmaus.de/filme/sachgeschichten/durchschreibepapier.php5)
 * [Duschen](https://www.wdrmaus.de/filme/sachgeschichten/duschen.php5)
 * [E-Gitarre](https://www.wdrmaus.de/filme/sachgeschichten/e_gitarre.php5)
-* [Ebbe und Flut](https://www.wdrmaus.de/filme/sachgeschichten/ebbe_und_flut.php5)
 * [Ei aus Huhn](https://www.wdrmaus.de/filme/sachgeschichten/ei_aus_huhn.php5)
 * [Eichamteier](https://www.wdrmaus.de/filme/sachgeschichten/eichamteier.php5)
 * [Eichhörnchen](https://www.wdrmaus.de/filme/sachgeschichten/eichhoernchen.php5)
