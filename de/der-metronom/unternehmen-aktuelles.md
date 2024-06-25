@@ -15,6 +15,12 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
+
+ Uelzen - 25.06.2024
+
+Moin liebe Fahrgäste,aufgrund einer Baustelle im Hauptbahnhof Hannover steht dort derzeit planmäßig nur ein Gleis für die ankommenden und abfahrenden metronom-Züge zur Verfügung. Das bedeutet, dass alle Züge in Hannover Hbf wenden und in entgegengesetzter Richtung zurückfahren müssen. Ausgenommen...
+
 [Gleichbleibende Wagenreihung: Wo ist der Fahrradwagen?](https://www.der-metronom.de/aktuell/gleichbleibende-wagenreihung-wo-ist-der-fahrradwagen/)
 
  21.06.2024
@@ -48,8 +54,6 @@ Es entfallen weiter Fahrten auf den Linien RE3,...
 
  Die Landesnahverkehrsgesellschaft...
 
-[Lüneburg Gleis 1: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-1-erneuerung-des-aufzuges-barrierefreies-reisen/)
+ Seite 1 von 2
 
- Uelzen - 08.01.2024
-
-Die Deutsche Bahn erneuert im Bahnhof Lüneburg...
+ 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
