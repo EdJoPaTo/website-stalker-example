@@ -6,6 +6,85 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: June 26th</title>
+			<link>https://store.steampowered.com/gamerecording</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 26, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				Today we’ve launched Steam Game Recording into Beta, a new built-in system for creating and sharing your gameplay footage, that works on any game on Steam.
+				<br>
+				<br>
+				Go to the
+				<a href="https://store.steampowered.com/gamerecording" rel="noopener noreferrer">
+					Game Recording website
+				</a>
+				to learn all about it and how to try it out.
+				<br>
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Client and OS beta settings been updated to include a new "Preview" build of SteamOS when available for testing.
+						<br>
+					</li>
+					<li>
+						New Recording & Screenshot manager
+						<br>
+					</li>
+					<li>
+						Improved startup and library performance for users with large libraries.
+						<br>
+					</li>
+					<li>
+						Fixed collections based on friends not updating properly.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed mispositioned background glow on hover in app grids.
+						<br>
+					</li>
+					<li>
+						Fixed trading card hover effect
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298185444917153" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.7 Preview: Colorspaaaaace</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298185442373286</link>
 			<content:encoded><![CDATA[<html>
@@ -167,66 +246,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4352247346361621344" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: June 20th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4352247156433049662</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 20, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Prevented some duplicate network traffic if ISteamInventory service calls are duplicated in error by Steamworks SDK games.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed missing input with some third party Nintendo Switch controllers.
-						<br>
-					</li>
-					<li>
-						Fixed hang waiting for controller testing after initial setup.
-						<br>
-					</li>
-					<li>
-						Fixed being unable to cancel initial controller setup.
-						<br>
-					</li>
-					<li>
-						Fixed touch controller being unresponsive after changing mouse mode, or other settings in the Steam Link app.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4352247156433049662" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
