@@ -96,6 +96,9 @@ Dein neuer Mobilfunktarif
 **Inkl. DB-Vorteil!**
  Ein ganzes Jahr 2€ pro Monat sparen!
 
+**Für GASAG Kund\*innen und Mitarbeitende**
+ Ein ganzes Jahr 2€ pro Monat sparen!
+
 Wieviel Datenvolumen brauchst Du im Monat?
 
 2GB 15GB 25GB 30GB 40GB

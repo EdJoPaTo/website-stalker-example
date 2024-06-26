@@ -20,7 +20,7 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[13.07.2024 - 14.07.2024 RE2 nächtlicher Teilausfall zwischen Einbeck-Salzderhelden und Göttingen für den 82841](https://www.der-metronom.de/baustellen/re2-naechtlicher-teilausfall-zwischen-einbeck-salzderhelden-und-goettingen-fuer-den-82841/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
