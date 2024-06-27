@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Wind und Wetter entlang unserer Strecken: Fahrplan könnte durcheinander geraten](https://www.der-metronom.de/aktuell/wind-und-wetter-entlang-unserer-strecken-fahrplan-k%C3%B6nnte-durcheinander-geraten/)
+
+ Uelzen - 27.06.2024
+
+Moin liebe Fahrgäste!
+Jaahaa … das Wetter und die Eisenbahn. Wir kennen mittlerweile alle Witze und Sprüche darüber. Aber im Ernst: Die Sicherheit unserer Fahrgäste und unserer Mitarbeiterinnen und Mitarbeiter liegt uns einfach am Herzen. Deshalb gehen wir – wie alle anderen auf der Schiene auch...
+
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
  Uelzen - 25.06.2024
@@ -47,12 +54,6 @@ Aufgrund vermehrter...
  Uelzen - 25.01.2024
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
-
-[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
-
- Uelzen - 08.01.2024
-
- Die Landesnahverkehrsgesellschaft...
 
  Seite 1 von 2
 
