@@ -6,6 +6,67 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.8 Beta: Updates for your Updates</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298185446588911</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 26, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed an issue causing a "Update Error" message when attempting to interact with the update menu on the 'Preview' update channel.
+						<br>
+						<br>
+						An upcoming Steam Client beta update will unstick users encountering this issue.  In the meantime, users encountering this issue wishing to switch update channels can follow the following steps:
+						<ol>
+							<li>
+								Select Power -> Shutdown
+								<br>
+							</li>
+							<li>
+								Wait for the Steam Deck to power off
+								<br>
+							</li>
+							<li>
+								While holding the quick access menu key ("..."), turn the Steam Deck on with the power button
+								<br>
+							</li>
+							<li>
+								On the boot menu that appears, select the second option ("Previous SteamOS")
+								<br>
+							</li>
+							<li>
+								Once booted, check for updates as normal
+							</li>
+						</ol>
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298185446588911" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: June 26th</title>
 			<link>https://store.steampowered.com/gamerecording</link>
 			<content:encoded><![CDATA[<html>
@@ -254,59 +315,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4352247346365030349" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.6 Preview: Shadow of the Beta</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4352247346361621344</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 20, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed a an issue with a rare session crash during early startup of ELDEN RING
-						<br>
-					</li>
-					<li>
-						Fixed a general issue affecting all units on 3.6, and OLED units on 3.5, causing a slow memory leak during gameplay
-						<br>
-					</li>
-					<li>
-						Fixed a DSP firmware crash with previous 3.6 versions that could result in internal sound disappearing until next reboot
-						<br>
-					</li>
-					<li>
-						Improved responsiveness of session restart in case of session crashes caused by certain GPU errors
-						<br>
-					</li>
-					<li>
-						Fixed an issue that could cause videos to stutter in titles such as BlazBlue Centralfiction
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4352247346361621344" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
