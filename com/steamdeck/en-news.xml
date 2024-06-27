@@ -17,6 +17,9 @@
 				Jun 26, 2024
 			</h5>
 			<div>
+				Note: The Preview/Beta channel has been updated the evening of June 26 with some bug fixes. Please see below for more information.
+				<br>
+				<br>
 				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
 				<br>
 				<br>
@@ -68,6 +71,64 @@
 					</li>
 					<li>
 						Fixed trading card hover effect
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed incorrect formatting on clip cancel button in some languages.
+						<br>
+					</li>
+					<li>
+						Fixed spurious game recording toggle and timeline marker shortcut keys being processed in some directinput8 games.
+						<br>
+					</li>
+					<li>
+						Fixed recording of microphone.
+						<br>
+					</li>
+					<li>
+						Fixed NaN showing in media manager confirmation dialog when deleting local screenshot.
+						<br>
+					</li>
+					<li>
+						Fixed media manager delete button tooltip.
+						<br>
+					</li>
+					<li>
+						Fixed Recording and screenshots context menu opening in its own window.
+						<br>
+					</li>
+					<li>
+						Fixed default clip file name not being set in overlay file dialog.
+						<br>
+					</li>
+					<li>
+						Improved display recording UI when at smaller sizes.
+						<br>
+					</li>
+					<li>
+						Fixed deleting screenshots sometimes not immediately updating the Recordings and Screenshots grid.
+						<br>
+					</li>
+					<li>
+						Fixed multi-select screenshot upload from the Recordings and Screenshots grids sometimes showing an error after the upload completed.
+						<br>
+					</li>
+					<li>
+						Added support for non-latin character file paths for the game recording folder and exported clips locations.
+						<br>
+					</li>
+					<li>
+						If recording is disabled, display in the overlay a button explaining it is disabled with a link to enable it, rather than a nonfunctional recording toggle button.
+						<br>
+					</li>
+					<li>
+						(Linux) Fixed export clip dialog not allowing saving.
 					</li>
 				</ul>
 			</div>
