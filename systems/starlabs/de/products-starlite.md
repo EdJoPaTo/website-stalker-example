@@ -164,13 +164,13 @@ USB-C 3.1 (5m)  Charge Cable
 
 Optional Accessories
 
-Star Drive USB 3.0 Recovery Drive
-
 USB-C 3.1 (2m)  Charge Cable
 
 USB-C 3.1 (5m)  Charge Cable
 
 StarPort 12-port USB-C PD Hub
+
+Star Drive Reversible USB 3.2 Recovery Drive
 
  Optional Accessories
 
