@@ -19,9 +19,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
  Uelzen - 27.06.2024
 
-Update 19:30 Uhr
-Unterspülte Gleise und kein Strom: metronom-Verkehr zwischen Hamburg und Tostedt kommt zum erliegen!
-Liebe Fahrgäste,wegen des angekündigten Starkregens und örtlichen Unwetters ist die metronom-Strecke •	RE4 / RB41 zwischen Hamburg Hbf – Harburg – Buchholz – Lauenbrück in beide...
+Update um 21:45 Uhr: Mittlerweile sind rund 10 Busse im Busnotverkehr im Einsatz um Fahrgäste sicher weiter zu bringen. Die Busse pendeln dabei zwischen Buchholz und Lauenbrück.Unterspülte Gleise und kein Strom: metronom-Verkehr zwischen Hamburg und Tostedt steht still: die Lage um 19:30...
 
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
