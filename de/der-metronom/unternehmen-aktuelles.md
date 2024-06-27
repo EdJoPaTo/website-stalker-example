@@ -15,12 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Wind und Wetter entlang unserer Strecken: Fahrplan könnte durcheinander geraten](https://www.der-metronom.de/aktuell/wind-und-wetter-entlang-unserer-strecken-fahrplan-k%C3%B6nnte-durcheinander-geraten/)
+[Einschränkungen durch Witterung: Strecke Hamburg - Bremen betroffen](https://www.der-metronom.de/aktuell/einschr%C3%A4nkungen-durch-witterung-strecke-hamburg---bremen-betroffen/)
 
  Uelzen - 27.06.2024
 
-Moin liebe Fahrgäste!
-Jaahaa … das Wetter und die Eisenbahn. Wir kennen mittlerweile alle Witze und Sprüche darüber. Aber im Ernst: Die Sicherheit unserer Fahrgäste und unserer Mitarbeiterinnen und Mitarbeiter liegt uns einfach am Herzen. Deshalb gehen wir – wie alle anderen auf der Schiene auch...
+Update 19:30 Uhr
+Unterspülte Gleise und kein Strom: metronom-Verkehr zwischen Hamburg und Tostedt kommt zum erliegen!
+Liebe Fahrgäste,wegen des angekündigten Starkregens und örtlichen Unwetters ist die metronom-Strecke •	RE4 / RB41 zwischen Hamburg Hbf – Harburg – Buchholz – Lauenbrück in beide...
 
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
