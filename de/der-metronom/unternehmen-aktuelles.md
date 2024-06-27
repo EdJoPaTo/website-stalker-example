@@ -19,7 +19,8 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
  Uelzen - 27.06.2024
 
-Update um 21:45 Uhr: Mittlerweile sind rund 10 Busse im Busnotverkehr im Einsatz um Fahrgäste sicher weiter zu bringen. Die Busse pendeln dabei zwischen Buchholz und Lauenbrück.Unterspülte Gleise und kein Strom: metronom-Verkehr zwischen Hamburg und Tostedt steht still: die Lage um 19:30...
+Update um 22:45
+Die Einschränkungen auf der...
 
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
