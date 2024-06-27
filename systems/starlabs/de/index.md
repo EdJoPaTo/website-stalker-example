@@ -24,6 +24,8 @@ StarLite 5
 
 100% faster USB-C.
 
+[](https://mastodon.social/@starlabssystems)
+
 [Explore](/pages/starlite) [Buy now](/products/starlite)
 
 Browse our range
