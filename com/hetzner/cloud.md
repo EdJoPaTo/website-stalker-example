@@ -94,7 +94,7 @@ Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 pr
 
  RAM
 
- Disk Space
+ NVMe SSD
 
  Traffic
 
@@ -108,7 +108,7 @@ Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 pr
 
  Your server's bill will never exceed its monthly price cap. If you delete your cloud server before the end of the billing month, we will only bill you for the hourly rate. We will bill you for each cloud server until you choose to delete them.
 
-Monthly Starting from
+Monthly
 
  Server
 
@@ -122,7 +122,7 @@ Monthly Starting from
 
  4 GB
 
- Disk Space
+ NVMe SSD
 
  40 GB
 
@@ -137,8 +137,6 @@ Monthly Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0071  € 0.0061
 
@@ -156,7 +154,7 @@ Starting from
 
  8 GB
 
- Disk Space
+ NVMe SSD
 
  80 GB
 
@@ -171,8 +169,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0134  € 0.0124
 
@@ -190,7 +186,7 @@ Starting from
 
  16 GB
 
- Disk Space
+ NVMe SSD
 
  160 GB
 
@@ -205,8 +201,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0325  € 0.0315
 
@@ -224,7 +218,7 @@ Starting from
 
  32 GB
 
- Disk Space
+ NVMe SSD
 
  320 GB
 
@@ -239,8 +233,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0643  € 0.0633
 
@@ -258,7 +250,7 @@ Starting from
 
  2 GB
 
- Disk Space
+ NVMe SSD
 
  40 GB
 
@@ -273,8 +265,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0084  € 0.0074
 
@@ -292,7 +282,7 @@ Starting from
 
  4 GB
 
- Disk Space
+ NVMe SSD
 
  80 GB
 
@@ -307,8 +297,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0143  € 0.0133
 
@@ -326,7 +314,7 @@ Starting from
 
  8 GB
 
- Disk Space
+ NVMe SSD
 
  160 GB
 
@@ -341,8 +329,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0261  € 0.0251
 
@@ -360,7 +346,7 @@ Starting from
 
  16 GB
 
- Disk Space
+ NVMe SSD
 
  240 GB
 
@@ -375,8 +361,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0496  € 0.0486
 
@@ -394,7 +378,7 @@ Starting from
 
  32 GB
 
- Disk Space
+ NVMe SSD
 
  360 GB
 
@@ -409,8 +393,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.1047  € 0.1037
 
@@ -428,7 +410,7 @@ Starting from
 
  4 GB
 
- Disk Space
+ NVMe SSD
 
  40 GB
 
@@ -443,8 +425,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0070  € 0.0060
 
@@ -462,7 +442,7 @@ Starting from
 
  8 GB
 
- Disk Space
+ NVMe SSD
 
  80 GB
 
@@ -477,8 +457,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0120  € 0.0110
 
@@ -496,7 +474,7 @@ Starting from
 
  16 GB
 
- Disk Space
+ NVMe SSD
 
  160 GB
 
@@ -511,8 +489,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0240  € 0.0230
 
@@ -530,7 +506,7 @@ Starting from
 
  32 GB
 
- Disk Space
+ NVMe SSD
 
  320 GB
 
@@ -545,8 +521,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0470  € 0.0460
 
@@ -564,7 +538,7 @@ Starting from
 
  8 GB
 
- Disk Space
+ NVMe SSD
 
  80 GB
 
@@ -579,8 +553,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0238  € 0.0228
 
@@ -598,7 +570,7 @@ Starting from
 
  16 GB
 
- Disk Space
+ NVMe SSD
 
  160 GB
 
@@ -613,8 +585,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0466  € 0.0456
 
@@ -632,7 +602,7 @@ Starting from
 
  32 GB
 
- Disk Space
+ NVMe SSD
 
  240 GB
 
@@ -647,8 +617,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.0925  € 0.0915
 
@@ -666,7 +634,7 @@ Starting from
 
  64 GB
 
- Disk Space
+ NVMe SSD
 
  360 GB
 
@@ -681,8 +649,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.1840  € 0.1830
 
@@ -700,7 +666,7 @@ Starting from
 
  128 GB
 
- Disk Space
+ NVMe SSD
 
  600 GB
 
@@ -715,8 +681,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.3671  € 0.3661
 
@@ -734,7 +698,7 @@ Starting from
 
  192 GB
 
- Disk Space
+ NVMe SSD
 
  960 GB
 
@@ -749,8 +713,6 @@ Starting from
  Hourly []()
 
 Monthly
-
-Starting from
 
  € 0.5501  € 0.5491
 

@@ -13,7 +13,7 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
  81  max/mo.
 
-€ 0.0088  /hr
+ € 0.0061  /hr
 
 [Order](https://robot.hetzner.com/order/storage/product/1333/category/storage/culture/en_GB/country/DE)  incl. 19 % VAT
 
@@ -31,7 +31,7 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
  97  max/mo.
 
-€ 0.0235  /hr
+ € 0.0208  /hr
 
 [Order](https://robot.hetzner.com/order/storage/product/1334/category/storage/culture/en_GB/country/DE)  incl. 19 % VAT
 
@@ -49,7 +49,7 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
  75  max/mo.
 
-€ 0.0423  /hr
+ € 0.0396  /hr
 
 [Order](https://robot.hetzner.com/order/storage/product/1335/category/storage/culture/en_GB/country/DE)  incl. 19 % VAT
 
@@ -67,7 +67,7 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
  31  max/mo.
 
-€ 0.0802  /hr
+ € 0.0775  /hr
 
 [Order](https://robot.hetzner.com/order/storage/product/1336/category/storage/culture/en_GB/country/DE)  incl. 19 % VAT
 

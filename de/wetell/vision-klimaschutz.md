@@ -54,7 +54,7 @@ Förderung der Energiewende
 
 **3. Balkonkraftwerke für unsere Community**
 
-* Wir verlosen Balkon-Solarkraftwerke an unsere Community.
+* Wir verlosen [Balkon-Solarkraftwerke](https://www.wetell.de/ueber-uns/news/balkonkraftwerk/) an unsere Community.
 * Dadurch ermöglichen wir es Menschen, sich aktiv an der Energiewende zu beteiligen.
 
 Lobby für den Klimaschutz
