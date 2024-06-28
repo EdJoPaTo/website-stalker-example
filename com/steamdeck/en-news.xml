@@ -35,6 +35,10 @@
 					</li>
 					<li>
 						Fixed mispositioned background glow on game capsules in grids.
+						<br>
+					</li>
+					<li>
+						Fixed error when entering multiple words into search box
 					</li>
 				</ul>
 				<br>
