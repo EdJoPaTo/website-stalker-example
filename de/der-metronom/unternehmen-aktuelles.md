@@ -19,8 +19,8 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
  Uelzen - 27.06.2024
 
-Update um 22:45
-Die Einschränkungen auf der...
+Update 28.6., 6.00 Uhr
+Wie angekündigt kommt...
 
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
