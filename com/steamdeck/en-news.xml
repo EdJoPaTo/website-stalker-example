@@ -6,6 +6,62 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: June 27th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298372645253183</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 27, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue preventing SteamOS from updating from version 3.6.7 when opted in to the 'Preview' update channel.
+						<br>
+					</li>
+					<li>
+						Fixed errors while displaying certain collections for some users.
+						<br>
+					</li>
+					<li>
+						Fixed mispositioned background glow on game capsules in grids.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed "Soundtracks" and "All Games" shelves on home page applying the app type filter from the top of the games list. This would lead to Soundtracks showing no items if Soundtracks was not selected at the top of the games list, as an example.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298372645253183" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.8 Beta: Updates for your Updates</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298185446588911</link>
 			<content:encoded><![CDATA[<html>
@@ -277,44 +333,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4352247531898708762" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: June 21st</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4352247346365030349</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 21, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed on-screen keyboard failing to hide fully after entering text in-game.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4352247346365030349" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
