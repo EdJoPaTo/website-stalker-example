@@ -214,6 +214,6 @@ EU, US and AU available)
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-Estimated dispatch in 4 - 5 weeks
+Estimated dispatch in 3 - 4 weeks
 
 [Configure](/products/starlite)
