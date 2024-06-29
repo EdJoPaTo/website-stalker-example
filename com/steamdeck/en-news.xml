@@ -6,6 +6,58 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: June 28th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298372648962795</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jun 28, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed bug that prevented Send To Phone from working if the user had not also signed in from a second desktop machine.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed Recordings & Screenshots dialog context menu sometimes opening in new window.
+						<br>
+					</li>
+					<li>
+						Fixed file extension not being applied automatically when saving files.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298372648962795" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: June 28th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298372647985053</link>
 			<content:encoded><![CDATA[<html>
@@ -304,43 +356,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298185444917153" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.7 Preview: Colorspaaaaace</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298185442373286</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 25, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed an issue where colors could appear washed out when using Steam Remote Play as a client
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298185442373286" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
