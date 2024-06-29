@@ -28,8 +28,6 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[28.06.2024 - 29.06.2024 RB41: Nächtliche Halteausfälle](https://www.der-metronom.de/baustellen/rb41-naechtliche-halteausfaelle-2/)
-
 [10.07.2024 - 11.07.2024 RB41 nächtlicher Haltausfall in Buchholz (N.), Klecken und Hittfeld für den 81942](https://www.der-metronom.de/baustellen/rb41-naechtlicher-haltausfall-in-buchholz-n-klecken-und-hittfeld-fuer-den-81942/)
 
 [12.07.2024 - 16.07.2024 RE4/RB41 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-3/)
