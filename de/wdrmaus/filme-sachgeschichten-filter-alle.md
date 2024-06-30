@@ -34,6 +34,7 @@
 * [Anstreicher](https://www.wdrmaus.de/filme/sachgeschichten/anstreicher.php5)
 * [Apfelessig](https://www.wdrmaus.de/filme/sachgeschichten/apfelessig.php5)
 * [Apfelplantage: Frühling](https://www.wdrmaus.de/filme/sachgeschichten/apfelplantage_fruehling.php5)
+* [Apfelplantage: Sommer](https://www.wdrmaus.de/filme/sachgeschichten/apfelplantage_sommer.php5)
 * [Apfelstiel](https://www.wdrmaus.de/filme/sachgeschichten/apfelstiel.php5)
 * [Apollofalter](https://www.wdrmaus.de/filme/sachgeschichten/apollofalter.php5)
 * [Aquaponik](https://www.wdrmaus.de/filme/sachgeschichten/aquaponik.php5)
