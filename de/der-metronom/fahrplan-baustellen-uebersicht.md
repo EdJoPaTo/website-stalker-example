@@ -22,9 +22,13 @@ RE2 Hannover - Northeim - Göttingen
 
 [13.07.2024 - 14.07.2024 RE2 nächtlicher Teilausfall zwischen Einbeck-Salzderhelden und Göttingen für den 82841](https://www.der-metronom.de/baustellen/re2-naechtlicher-teilausfall-zwischen-einbeck-salzderhelden-und-goettingen-fuer-den-82841/)
 
+[20.07.2024 RE2/RE3 morgendliche Teilausfälle zwischen Banteln und Alfeld sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-morgendliche-teilausfaelle-zwischen-banteln-und-alfeld-sowie-fahrzeitenaenderungen/)
+
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [12.07.2024 - 16.07.2024 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
+
+[20.07.2024 RE2/RE3 morgendliche Teilausfälle zwischen Banteln und Alfeld sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-morgendliche-teilausfaelle-zwischen-banteln-und-alfeld-sowie-fahrzeitenaenderungen/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
