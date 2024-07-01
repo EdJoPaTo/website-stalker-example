@@ -137,12 +137,6 @@ Media keys for playback, volume, brightness, screenshots and more.
 
 03.
 
- Function Lock
-
-Switch between media and traditional function keys with one tap.
-
-04.
-
  International Layouts
 
 Available in US English, UK English, French, German, Nordic and Spanish layouts.

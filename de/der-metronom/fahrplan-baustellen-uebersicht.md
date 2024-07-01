@@ -16,7 +16,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[20.07.2024 RE2/RE3 morgendliche Teilausfälle zwischen Banteln und Alfeld sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-morgendliche-teilausfaelle-zwischen-banteln-und-alfeld-sowie-fahrzeitenaenderungen/)
 
 RE2 Hannover - Northeim - Göttingen
 
@@ -27,8 +27,6 @@ RE2 Hannover - Northeim - Göttingen
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [12.07.2024 - 16.07.2024 RE3/RB31 Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-2/)
-
-[20.07.2024 RE2/RE3 morgendliche Teilausfälle zwischen Banteln und Alfeld sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-morgendliche-teilausfaelle-zwischen-banteln-und-alfeld-sowie-fahrzeitenaenderungen/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
