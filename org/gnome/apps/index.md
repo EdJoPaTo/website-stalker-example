@@ -1,4 +1,4 @@
-[Queer Pride Month](https://en.wikipedia.org/wiki/Pride_Month), displaying the [intersex](https://en.wikipedia.org/wiki/Intersex_flag), [trans](https://en.wikipedia.org/wiki/Transgender_flag), and [rainbow](https://en.wikipedia.org/wiki/Rainbow_flag_(LGBT)), flags.
+[Disability Pride Month](https://en.wikipedia.org/wiki/Disability_Pride_Month), displaying two [disability flags](https://en.wikipedia.org/wiki/Disability_flag) and an [autistic flag](https://en.wikipedia.org/wiki/Autistic_Pride_Day).
 
 Apps for GNOME
 ==========
