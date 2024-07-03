@@ -6,6 +6,58 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: July 2nd</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298705122049152</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jul 2, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed bug that prevented creating clips from working on exFAT filesystems.
+						<br>
+					</li>
+					<li>
+						Fixed a couple of cases that could cause an empty entry to appear in the Post-Game Summary on a game's library page, instead of a background recording highlight.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed collection names not being editable.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298705122049152" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: June 28th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298372648962795</link>
 			<content:encoded><![CDATA[<html>
@@ -216,146 +268,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298185446588911" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: June 26th</title>
-			<link>https://store.steampowered.com/gamerecording</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 26, 2024
-			</h5>
-			<div>
-				Note: The Preview/Beta channel has been updated the evening of June 26 with some bug fixes. Please see below for more information.
-				<br>
-				<br>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				Today we’ve launched Steam Game Recording into Beta, a new built-in system for creating and sharing your gameplay footage, that works on any game on Steam.
-				<br>
-				<br>
-				Go to the
-				<a href="https://store.steampowered.com/gamerecording" rel="noopener noreferrer">
-					Game Recording website
-				</a>
-				to learn all about it and how to try it out.
-				<br>
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Client and OS beta settings been updated to include a new "Preview" build of SteamOS when available for testing.
-						<br>
-					</li>
-					<li>
-						New Recording & Screenshot manager
-						<br>
-					</li>
-					<li>
-						Improved startup and library performance for users with large libraries.
-						<br>
-					</li>
-					<li>
-						Fixed collections based on friends not updating properly.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed mispositioned background glow on hover in app grids.
-						<br>
-					</li>
-					<li>
-						Fixed trading card hover effect
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed incorrect formatting on clip cancel button in some languages.
-						<br>
-					</li>
-					<li>
-						Fixed spurious game recording toggle and timeline marker shortcut keys being processed in some directinput8 games.
-						<br>
-					</li>
-					<li>
-						Fixed recording of microphone.
-						<br>
-					</li>
-					<li>
-						Fixed NaN showing in media manager confirmation dialog when deleting local screenshot.
-						<br>
-					</li>
-					<li>
-						Fixed media manager delete button tooltip.
-						<br>
-					</li>
-					<li>
-						Fixed Recording and screenshots context menu opening in its own window.
-						<br>
-					</li>
-					<li>
-						Fixed default clip file name not being set in overlay file dialog.
-						<br>
-					</li>
-					<li>
-						Improved display recording UI when at smaller sizes.
-						<br>
-					</li>
-					<li>
-						Fixed deleting screenshots sometimes not immediately updating the Recordings and Screenshots grid.
-						<br>
-					</li>
-					<li>
-						Fixed multi-select screenshot upload from the Recordings and Screenshots grids sometimes showing an error after the upload completed.
-						<br>
-					</li>
-					<li>
-						Added support for non-latin character file paths for the game recording folder and exported clips locations.
-						<br>
-					</li>
-					<li>
-						If recording is disabled, display in the overlay a button explaining it is disabled with a link to enable it, rather than a nonfunctional recording toggle button.
-						<br>
-					</li>
-					<li>
-						(Linux) Fixed export clip dialog not allowing saving.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298185444917153" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
