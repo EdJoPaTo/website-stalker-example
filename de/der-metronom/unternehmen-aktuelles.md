@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE2 Zusatzhalte für alle Fans und Ticktinhaber von ACDC in Hannover Messe/Laatzen](https://www.der-metronom.de/aktuell/re2-zusatzhalte-fuer-alle-fans-und-ticktinhaber-von-acdc-in-hannover-messe-laatzen/)
+
+ 04.07.2024
+
+Liebe Fahrgäste,
+am 31.07. und 04.08.2024 finden ACDC Konzerte in Hannover auf dem Messegelände statt. Wir haben für alle Ticketinhaber einen Zusatzhalt in Hannover Messe/Laatzen eingerichtet. Wir wünschen euch viel Spaß bei den Konzerten und allen eine gute Fahrt. Den Fahrplan für den 31.07....
+
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
  Uelzen - 25.06.2024
@@ -47,12 +54,6 @@ Aufgrund vermehrter...
  Uelzen - 25.01.2024
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
-
-[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
-
- Uelzen - 08.01.2024
-
- Die Landesnahverkehrsgesellschaft...
 
  Seite 1 von 2
 
