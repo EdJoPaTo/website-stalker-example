@@ -3,6 +3,21 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner Cloud platform.
 
+July 2024
+----------
+
+Jul 04
+
+### Reworked activities page ###
+
+[](https://docs.hetzner.cloud/whats-new#2024-07-04-reworked-activities-page)
+
+The activities page has been reworked and now comes with an improved design.
+
+* **BETTER OVERVIEW**To give you a clearer overview, the activities are now sorted by month and you can easily switch between the months as you need.
+* **EASY NAVIGATION**More activities are automatically loaded as you scroll down, eliminating the need to switch between different pages and enhancing load times for a smoother user experience.
+* **DOWNLOAD AS CSV**We only show activities from the past 90 days. To view all activities at any time, you can now download the activities of the selected month as CSV file.
+
 June 2024
 ----------
 
@@ -277,11 +292,11 @@ Sep 29
 
 For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
 
-### Redesign of the server, Load Balancer, and Firewall creation pages ###
+### Improved user experience for notifications ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-09-29-redesign-of-the-server-load-balancer-and-firewall-creation-pages)
+[](https://docs.hetzner.cloud/whats-new#2022-09-29-improved-user-experience-for-notifications)
 
-The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
+For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
 
 July 2022
 ----------
