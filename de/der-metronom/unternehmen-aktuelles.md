@@ -15,6 +15,15 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE10 Wird über Lehrte umgeleitet](https://www.der-metronom.de/aktuell/re10-wird-ueber-lehrte-umgeleitet/)
+
+ 04.07.2024
+
+Liebe Fahrgäste,
+aufgrund von Unregelmäßigkeiten auf der Strecke wird die RE10 derzeit über Lehrte umgeleitet. Bitte richten Sie sich auf längere Fahrzeiten und Verspätungen ein.
+Sobald wir Neuigkeiten haben, werden wir weiter informieren.
+Eurer erixx Team
+
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
  Uelzen - 25.06.2024
@@ -47,12 +56,6 @@ Aufgrund vermehrter...
  Uelzen - 25.01.2024
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
-
-[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
-
- Uelzen - 08.01.2024
-
- Die Landesnahverkehrsgesellschaft...
 
  Seite 1 von 2
 
