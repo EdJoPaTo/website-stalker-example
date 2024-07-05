@@ -24,45 +24,45 @@ Compatible with:
 
 ### Raspberry Pi OS with desktop ###
 
-* Release date: March 15th 2024
+* Release date: July 4th 2024
 * System: 32-bit
 * Kernel version: 6.6
 * Debian version: 12 (bookworm)
-* Size: 1,158MB
+* Size: 1,205MB
 
-Show SHA256 file integrity hash:52a807d37a894dfcb09274382762f8274c7044ce3d98040aba474e0af93b85ab
+Show SHA256 file integrity hash:00d94d923de5d5904492d6132eddf5e3fa51795c9328493daefa5f608fd3bdd3
 
 [Release notes](https://downloads.raspberrypi.com/raspios_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2024-07-04/2024-07-04-raspios-bookworm-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2024-07-04/2024-07-04-raspios-bookworm-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_armhf/images/)
 
 ### Raspberry Pi OS with desktop and recommended software ###
 
-* Release date: March 15th 2024
+* Release date: July 4th 2024
 * System: 32-bit
 * Kernel version: 6.6
 * Debian version: 12 (bookworm)
-* Size: 2,678MB
+* Size: 2,694MB
 
-Show SHA256 file integrity hash:41f0d2590da06b62141b5441cf56478b3590679b85a123abeb9f60182516766d
+Show SHA256 file integrity hash:ca4954b2173ad3a9b18bbe4a913b2efc8937ebfa6902bf6b423e3ff6702c9f2a
 
 [Release notes](https://downloads.raspberrypi.com/raspios_full_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_full_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2024-07-04/2024-07-04-raspios-bookworm-armhf-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2024-07-04/2024-07-04-raspios-bookworm-armhf-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_full_armhf/images/)
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: March 15th 2024
+* Release date: July 4th 2024
 * System: 32-bit
 * Kernel version: 6.6
 * Debian version: 12 (bookworm)
-* Size: 474MB
+* Size: 500MB
 
-Show SHA256 file integrity hash:4fa99737265ac338a9ed0643f502246b97b928e5dfffa92939242e26e290638d
+Show SHA256 file integrity hash:df9c192d66d35e1ce67acde33a5b5f2b81ff02d2b986ea52f1f6ea211d646a1b
 
 [Release notes](https://downloads.raspberrypi.com/raspios_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-07-04/2024-07-04-raspios-bookworm-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-07-04/2024-07-04-raspios-bookworm-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_armhf/images/)
 
 Raspberry Pi OS (64-bit)
 ----------
@@ -83,45 +83,45 @@ Compatible with:
 
 ### Raspberry Pi OS with desktop ###
 
-* Release date: March 15th 2024
+* Release date: July 4th 2024
 * System: 64-bit
 * Kernel version: 6.6
 * Debian version: 12 (bookworm)
-* Size: 1,105MB
+* Size: 1,142MB
 
-Show SHA256 file integrity hash:7e53a46aab92051d523d7283c080532bebb52ce86758629bf1951be9b4b0560f
+Show SHA256 file integrity hash:5b2c3203d9e32b5c816badc41eb3d9d3f25fb90cb0d11b7eeb59c26f6e90aeec
 
 [Release notes](https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_arm64/images/)
 
 ### Raspberry Pi OS with desktop and recommended software ###
 
-* Release date: March 15th 2024
+* Release date: July 4th 2024
 * System: 64-bit
 * Kernel version: 6.6
 * Debian version: 12 (bookworm)
-* Size: 2,803MB
+* Size: 2,890MB
 
-Show SHA256 file integrity hash:42c232ad7b1c97778c5acceff46ea45586604f70fcd06bcae5a68d92ef886691
+Show SHA256 file integrity hash:4b70573d7b63b74d5e204217f3df386048b3fd79e9f268c10b495f52544d85a2
 
 [Release notes](https://downloads.raspberrypi.com/raspios_full_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_full_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_full_arm64/images/)
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: March 15th 2024
+* Release date: July 4th 2024
 * System: 64-bit
 * Kernel version: 6.6
 * Debian version: 12 (bookworm)
-* Size: 414MB
+* Size: 432MB
 
-Show SHA256 file integrity hash:58a3ec57402c86332e67789a6b8f149aeeb4e7bb0a16c9388a66ea6e07012e45
+Show SHA256 file integrity hash:43d150e7901583919e4eb1f0fa83fe0363af2d1e9777a5bb707d696d535e2599
 
 [Release notes](https://downloads.raspberrypi.com/raspios_lite_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_arm64/images/)
 
 Raspberry Pi OS (Legacy)
 ----------
@@ -150,45 +150,45 @@ Compatible with:
 
 ### Raspberry Pi OS (Legacy) with desktop ###
 
-* Release date: March 12th 2024
+* Release date: July 4th 2024
 * System: 32-bit
 * Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 904MB
+* Size: 902MB
 
-Show SHA256 file integrity hash:160061efc7dd2ed48d44dcc782747b8d8df01f71a9ddf1220f8b25190ca14156
+Show SHA256 file integrity hash:97236859db75a2119aefa2f39f3b5ad057d723a5ddda79a814034b2f0b123ef1
 
 [Release notes](https://downloads.raspberrypi.com/raspios_oldstable_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2024-03-12/2024-03-12-raspios-bullseye-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2024-03-12/2024-03-12-raspios-bullseye-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2024-07-04/2024-07-04-raspios-bullseye-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2024-07-04/2024-07-04-raspios-bullseye-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/)
 
 ### Raspberry Pi OS (Legacy) with desktop and recommended software ###
 
-* Release date: March 12th 2024
+* Release date: July 4th 2024
 * System: 32-bit
 * Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 2,469MB
+* Size: 2,482MB
 
-Show SHA256 file integrity hash:9b8423cabd5880eee01383aadd7895db937f3b14b703048c32897ba3f8e0c4de
+Show SHA256 file integrity hash:28f2b326c959c6b83a98911051e79dd6d9bc75bf89bb34c6e34638c64672f9b5
 
 [Release notes](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2024-03-12/2024-03-12-raspios-bullseye-armhf-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2024-03-12/2024-03-12-raspios-bullseye-armhf-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2024-07-04/2024-07-04-raspios-bullseye-armhf-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2024-07-04/2024-07-04-raspios-bullseye-armhf-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/)
 
 ### Raspberry Pi OS (Legacy) Lite ###
 
-* Release date: March 12th 2024
+* Release date: July 4th 2024
 * System: 32-bit
 * Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 365MB
+* Size: 366MB
 
-Show SHA256 file integrity hash:51faf3c91a940b26ad344965b5a7c4b5b389cbccfd796040f4fb7c0dcf4dd860
+Show SHA256 file integrity hash:10a44eeb5f5bfd000b755425b93914add6c8f0590294189abdf7a9ac7297dc3b
 
 [Release notes](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2024-03-12/2024-03-12-raspios-bullseye-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2024-03-12/2024-03-12-raspios-bullseye-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2024-07-04/2024-07-04-raspios-bullseye-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2024-07-04/2024-07-04-raspios-bullseye-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/)
 
 Raspberry Pi OS (Legacy, 64-bit)
 ----------
@@ -208,45 +208,45 @@ Compatible with:
 
 ### Raspberry Pi OS (Legacy) with desktop ###
 
-* Release date: March 12th 2024
+* Release date: July 4th 2024
 * System: 64-bit
 * Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 853MB
+* Size: 866MB
 
-Show SHA256 file integrity hash:f484fee9bd3e14d9337aaa09f2d26b0051dcd70b04d2f65cd74c0a632573d22d
+Show SHA256 file integrity hash:05de494b667628ded56d420fadfca42f47915a743a280a30db16a005debde5f1
 
 [Release notes](https://downloads.raspberrypi.com/raspios_oldstable_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2024-03-12/2024-03-12-raspios-bullseye-arm64.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2024-03-12/2024-03-12-raspios-bullseye-arm64.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2024-07-04/2024-07-04-raspios-bullseye-arm64.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2024-07-04/2024-07-04-raspios-bullseye-arm64.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/)
 
 ### Raspberry Pi OS (Legacy) with desktop and recommended software ###
 
-* Release date: March 12th 2024
+* Release date: July 4th 2024
 * System: 64-bit
 * Kernel version: 6.1
 * Debian version: 11 (bullseye)
-* Size: 2,396MB
+* Size: 2,429MB
 
-Show SHA256 file integrity hash:d94ba2f1eba3a940f5cd0a89b8a787e44cfaaa0613b323dfcde61cbc082d594f
+Show SHA256 file integrity hash:9a69e2b8db511f080b0aa6ef47e8c334cb255a648e6e21e2eb805f42ea1c14eb
 
 [Release notes](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2024-03-12/2024-03-12-raspios-bullseye-arm64-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2024-03-12/2024-03-12-raspios-bullseye-arm64-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2024-07-04/2024-07-04-raspios-bullseye-arm64-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2024-07-04/2024-07-04-raspios-bullseye-arm64-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/)
 
 ### Raspberry Pi OS (Legacy) Lite ###
 
-* Release date: March 12th 2024
+* Release date: July 4th 2024
 * System: 64-bit
 * Kernel version: 6.1
 * Debian version: 11 (bullseye)
 * Size: 309MB
 
-Show SHA256 file integrity hash:97ecb10a79acd60e96e2a2a29312a351306acdbf6493888bf20e90f5ff666bf8
+Show SHA256 file integrity hash:999437f8e1f3f31669deaaeb01aefb94303694e929d0f4c276379383e9169ac4
 
 [Release notes](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2024-03-12/2024-03-12-raspios-bullseye-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2024-03-12/2024-03-12-raspios-bullseye-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2024-07-04/2024-07-04-raspios-bullseye-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2024-07-04/2024-07-04-raspios-bullseye-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/)
 
 Raspberry Pi Desktop
 ----------
