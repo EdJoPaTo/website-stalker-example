@@ -263,8 +263,11 @@ bestellbar
  Betriebsbedarf
 ---
 
-|   | Newsletter<br/><br/>**Newsletter abonnieren** und exklusive Aktionen zur EURO 2024™, Gutscheine & Schnäppchen sichern.  <br/><br/>[<br/><br/>jetzt anmelden<br/><br/>](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)|
-|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+ Newsletter abonnieren
+
+ und exklusive Aktionen, Gutscheine & Schnäppchen sichern
+
+[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)
 
  30 TAGE RÜCKGABERECHT
 
