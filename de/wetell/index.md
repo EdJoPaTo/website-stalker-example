@@ -97,7 +97,7 @@ Dein neuer Mobilfunktarif
  Ein ganzes Jahr 2€ pro Monat sparen!
 
 **Für GASAG Kund\*innen und Mitarbeitende**
- Ein ganzes Jahr 2€ pro Monat sparen!
+ Ein ganzes Jahr 2€ pro Monat und die Bereitstellungsgebühr sparen!
 
 Wieviel Datenvolumen brauchst Du im Monat?
 
