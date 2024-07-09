@@ -1,16 +1,3 @@
-WIN
----
-
-VIP-TICKETS FÜRS FINALE
-DER UEFA EURO 2024™
----
-
- Exklusiv im Newsletter
-
- anmelden \> Gewinnspiel-News erhalten \> mitmachen & gewinnen
-
-[zum Newsletter](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_UefaTicketverlosung)
-
 Athletisch luftig
 
 ----------
