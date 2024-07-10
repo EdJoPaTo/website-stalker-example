@@ -3,6 +3,11 @@ Murena
 
 Dienste, die deine Daten schützen, sind wie dünne Scheiben Emmentaler Käse. Eine Scheibe hat noch mehrere Löcher, aber stapelst du viele davon übereinander, so bleiben immer weniger Löcher übrig. Das französische Unternehmen Murena arbeitet ständig daran, diese Datenlöcher für dich zu schließen. Also haben wir Gründer und Linux-Pionier Gaël Duval ins WEtell Spotlight gesetzt.
 
+Waschbär
+----------
+
+Unnachgiebig grün und sozial eingestellt. Der Freiburger Versandhandel Waschbär hat vor 35 Jahren eine nachhaltige Putzmittelkiste vertrieben und vertreibt heute ein Sortiment mit über 10.000 Artikeln. Geschäftsführerin Katharina Hupfer erzählt uns mehr darüber.
+
 WeDoSolar
 ----------
 
@@ -78,11 +83,6 @@ Regionalwert AG
 ----------
 
 “Eine zukunftsfähige Land- und Ernährungswirtschaft, Ausbildung und Arbeitsplätze, Biodiversität und Bodenfruchtbarkeit.“ Solche Worte hört man von einer AG wohl eher selten. Andreas ist Vorstand der Regionalwert AG Freiburg und spricht im WEtell Spotlight über die Bürgeraktie, Verkettung von regionalen Betrieben und davon beste Bio-Erzeugnisse vom Feld auf den Teller oder in die Biokiste zu stecken.
-
-Waschbär
-----------
-
-Unnachgiebig grün und sozial eingestellt. Der Freiburger Versandhandel Waschbär hat vor 35 Jahren eine nachhaltige Putzmittelkiste vertrieben und vertreibt heute ein Sortiment mit über 10.000 Artikeln. Geschäftsführerin Katharina Hupfer erzählt uns mehr darüber.
 
 Goldeimer
 ----------
