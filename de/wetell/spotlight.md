@@ -1,3 +1,8 @@
+4peoplewhocare
+----------
+
+4peoplewhocare hat die Mission, die biologische Vielfalt vor deiner Haustür zu schützen. Als Kosmetikhersteller sind Cremes bei ihnen fester Bestandteil. Buchstäblich, denn diese kommen fest, handlich und plastikfrei verpackt zu dir nach Hause. Außerdem sind sie so ergiebig wie drei Plastiktuben einer vergleichbaren weichen Creme. Wir haben Gründer Fritz ins WEtell Spotlight gesetzt, um mit ihm über Verantwortung im Unternehmertum zu sprechen.
+
 Murena
 ----------
 
