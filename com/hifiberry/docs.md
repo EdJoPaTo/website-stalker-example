@@ -477,7 +477,7 @@ updated 2019-10-04
 
 adc, dac, datasheet
 
-updated 2020-10-21
+updated 2024-07-11
 
 [Datasheet DAC+ DSP](https://www.hifiberry.com/docs/data-sheets/datasheet-dac-dsp/)
 
