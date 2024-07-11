@@ -1,6 +1,6 @@
 [Eine Eiche für die Maus](https://www.wdrmaus.de/extras/mausthemen/mausbaum/index.php5)
 
-[Starte in dein digitales Abenteuer](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/index.php5)
+[Endlich sind Sommerferien!](https://www.wdrmaus.de/extras/mausthemen/sommer/index_2.php5)
 
 * [Wissenwertes zum "Drahtesel"](https://www.wdrmaus.de/extras/mausthemen/fahrrad/index.php5)
 * [Große Maschinen und Gebäude](https://www.wdrmaus.de/extras/mausthemen/baustelle/index.php5)
