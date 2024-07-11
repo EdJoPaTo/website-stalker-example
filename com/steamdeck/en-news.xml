@@ -6,6 +6,98 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: July 10th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4415299511823893810</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jul 10, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a bug that could cause some local screenshots not to appear in the media manager, if the user had few screenshots saved to steam
+						<br>
+					</li>
+					<li>
+						Fixed a bug that could delete a workshop file if the file had failed a file validation check and had been reacquired
+						<br>
+					</li>
+					<li>
+						Fixed a bug that could leave some local screenshots undeleted after attempting to delete multiple at one time
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improvements to UI behaviors when finalizing the beginning and end of a clip
+						<br>
+					</li>
+					<li>
+						No longer warp the play head to the beginning/end of a clip when setting the beginning/end of a clip via the UI buttons
+						<br>
+					</li>
+					<li>
+						Fixed a bug where using the hotkey to add a user marker would drop the marker at the wrong location
+						<br>
+					</li>
+					<li>
+						Increased the minimum background recording time to 15 minutes, to give the user time to edit recent clips before the recorded video ages out
+						<br>
+					</li>
+					<li>
+						Added a warning to the user if game recording has been turned off to prioritize broadcasting
+						<br>
+					</li>
+					<li>
+						Ignore user marker shortcut key if game recording is disabled
+						<br>
+					</li>
+					<li>
+						Added the ability to save a specific frame of a video as a steam screenshot
+						<br>
+					</li>
+					<li>
+						Improved default naming of clip files to improve readability and sortability. Steam will also scan game state descriptions to apply to default clip filename, if available
+						<br>
+					</li>
+					<li>
+						Fixed an exception thrown if the user canceled a clip save in the file picker dialog
+						<br>
+					</li>
+					<li>
+						Updated message displayed when there is no recent other session where the user can send a clip
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415299511823893810" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: July 2nd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298705122049152</link>
 			<content:encoded><![CDATA[<html>
@@ -207,67 +299,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298372645253183" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.8 Beta: Updates for your Updates</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298185446588911</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 26, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed an issue causing a "Update Error" message when attempting to interact with the update menu on the 'Preview' update channel.
-						<br>
-						<br>
-						An upcoming Steam Client beta update will unstick users encountering this issue.  In the meantime, users encountering this issue wishing to switch update channels can follow the following steps:
-						<ol>
-							<li>
-								Select Power -> Shutdown
-								<br>
-							</li>
-							<li>
-								Wait for the Steam Deck to power off
-								<br>
-							</li>
-							<li>
-								While holding the quick access menu key ("..."), turn the Steam Deck on with the power button
-								<br>
-							</li>
-							<li>
-								On the boot menu that appears, select the second option ("Previous SteamOS")
-								<br>
-							</li>
-							<li>
-								Once booted, check for updates as normal
-							</li>
-						</ol>
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298185446588911" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
