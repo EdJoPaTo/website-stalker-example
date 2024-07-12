@@ -142,7 +142,7 @@ None
 
 None
 
-MPP Active Pen
+MPP Active Pen  Sold Out - Get Notified When Available
 
 Charge Cable
 
@@ -174,6 +174,8 @@ Star Drive Reversible USB 3.2 Recovery Drive
 
 Micro HDMI to HDMI Adapter
 
+USB-C to USB-A Adapter
+
  Optional Accessories
 
  Your StarLite will come with everything you need. We have accessories such as recovery drives, which you can use to recover or re-install the Operating System.
@@ -201,6 +203,6 @@ Micro HDMI to HDMI Adapter
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-Estimated dispatch in 3 - 4 weeks
+Estimated dispatch in 2 - 3 weeks
 
  Add to Basket
