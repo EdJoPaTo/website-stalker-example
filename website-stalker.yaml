@@ -163,7 +163,7 @@ sites:
           pattern: '\n\s+~\$ '
           replace: "\n~$ "
   - url:
-      - https://docs.hetzner.com/cloud/api/faq
+      - https://docs.hetzner.com/cloud/api/faq/
       - https://docs.hetzner.com/cloud/api/getting-started/using-api/
       - https://docs.hetzner.com/cloud/servers/overview/
       - https://docs.hetzner.com/cloud/technical-details/faq/
