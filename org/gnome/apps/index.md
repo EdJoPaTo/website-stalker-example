@@ -88,7 +88,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Lorem**Generate placeholder text](Lorem/)
 * [**Metadata Cleaner**View and clean metadata in files](MetadataCleaner/)
 * [**Mousai**Identify songs in seconds](Mousai/)
-* [**NewsFlash**Keep up with your feeds](NewsFlash/)
+* [**Newsflash**Keep up with your feeds](NewsFlash/)
 * [**Obfuscate**Censor private information](Obfuscate/)
 * [**Paper Clip**Edit PDF document metadata](PdfMetadataEditor/)
 * [**Pika Backup**Keep your data safe](PikaBackup/)
