@@ -172,6 +172,8 @@ StarPort 12-port USB-C PD Hub
 
 Star Drive Reversible USB 3.2 Recovery Drive
 
+Micro HDMI to HDMI Adapter
+
  Optional Accessories
 
  Your StarLite will come with everything you need. We have accessories such as recovery drives, which you can use to recover or re-install the Operating System.
