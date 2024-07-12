@@ -24,7 +24,7 @@ Storage
 
 512GB SSD  Gen3 PCIe storage
 
-1TB SSD  Gen3 PCIe storage  Sold Out - Get Notified When Available
+1TB SSD  Gen3 PCIe storage
 
 2TB SSD  Gen3 PCIe storage  Sold Out - Get Notified When Available
 
@@ -128,9 +128,9 @@ English (UK)
 
 English (US)
 
-German  Sold Out - Get Notified When Available
+German
 
-Spanish  Sold Out - Get Notified When Available
+Spanish
 
 French  Sold Out - Get Notified When Available
 
@@ -203,6 +203,6 @@ USB-C to USB-A Adapter
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-Estimated dispatch in 2 - 3 weeks
+Dispatch in 7 - 8 working days
 
  Add to Basket
