@@ -1,202 +1,111 @@
-Athletisch luftig
+###  SOMMER SALE  ###
 
+---
+
+ Bis zu 50%
+sparen
 ----------
 
 ---
 
- e.s.ambition – die neue Kollektion mit Ventilations-Effekt.
-Farbstarke Outfits, sportliche Schnitte.
+[% Schuhe](https://www.engelbert-strauss.de/sale-schuhe/?itemorigin=startseite&sort=newest)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-ambition/)
+[% Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?itemorigin=startseite&sort=newest)
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/ambition)
+[% Bekleidung](https://www.engelbert-strauss.de/sale-bekleidung/?itemorigin=startseite&sort=newest)
 
-Kernige Styles
+[% zu allen Angeboten](https://www.engelbert-strauss.de/sale/?itemorigin=startseite&sort=newest)
 
+ Für harte Arbeit
+an heissen Tagen
 ----------
 
 ---
 
- Weiter geht’s im kernigen Iconic-Style:
-Die neuen Teile sind da!
+ Unsere e.s.iconic - jetzt auch mit Sommer-Styles
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/)
 
 [zur e.s.iconic Kollektion](https://www.engelbert-strauss.de/iconic)
 
- S1 Sicherheitshalbschuhe
-e.s. Padua low
+ Luftig, sportlich,
+beweglich
+----------
 
-Leicht & Luftig
+---
+
+ Komfort für heiße Tage: neue Sommer-Trends im coolen e.s.trail-Style.
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-trail-damen/)
+
+[zur e.s.trail Kollektion](https://www.engelbert-strauss.de/trail)
+
+ Sommer, Sonne,
+Leichtigkeit
+----------
+
+---
+
+ Mit der e.s.motion ten Sommer Kollektion fallen heiße Phasen besonders leicht.
+
+[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
+
+ Sommer-Hits
+---
+
+ Stylischer
+UV-Schutz
+---
+
+ Mit der Race Sonnenbrille e.s.ambition
+
+[jetzt kaufen](https://www.engelbert-strauss.de/schutzbrillen/race-sonnenbrille-e-s-ambition-7040610-7476193-57.html?amp;itemorigin=startseite)
+
+ Bleibt
+lange Cool
+---
+
+ Mit der e.s. Lunchbag
+
+[jetzt kaufen](https://www.engelbert-strauss.de/allroundtaschen/e-s-lunchbag-3000700-5505241-1088.html?amp;itemorigin=startseite)
+
+ Abkühlung für heiße Tage
+---
+
+ Die neuen Badeshorts e.s.trail
+
+[Badeshort e.s.trail](https://www.engelbert-strauss.de/arbeitsshorts/badeshort-e-s-trail-3350750-87838-1587.html?amp;itemorigin=startseite)
+
+[e.s.trail Kollektion entdecken](https://www.engelbert-strauss.de/trail?amp;itemorigin=startseite)
+
+Akku-Kühlbox
 
 ----------
 
 ---
 
- Carbonfaser verstärkte Schutzkappe, ultra-luftiges Mesh-Material -
-das ist sportlicher Komfort mit S1-Schutzpaket.
-
-[jetzt kaufen](https://www.engelbert-strauss.de/sicherheitsschuhe-s1/s1-sicherheitshalbschuhe-e-s-padua-low-1101590-93381-1426.html?amp;itemorigin=Startseite)
-
-[alle Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
-
- Brand Partnerships
+ 3 in 1 - Kühlbox
+für den Sommer
 ---
 
- Entdecke unsere
-globale Brand!
+ Praktisch für unterwegs: mit CAS-Akku, KFZ-Anschluss und Netzkabel
+
+[jetzt kaufen](https://www.engelbert-strauss.de/kueche-haushalt/18-0-v-akku-kuehlbox-brushless-hybrid-7117390-5520590-0.html?itemorigin=Startseite)
+
+[mehr Details](https://www.engelbert-strauss.de/kueche-haushalt/18-0-v-akku-kuehlbox-brushless-hybrid-7117390-5520590-0.html?itemorigin=Startseite)
+
+ Highlight
 ---
 
-[Brand Partnerships](https://www.engelbert-strauss.de/brand_partnerships)
+Cooles Shirt gesucht?
 
-[Brand News](https://www.engelbert-strauss.de/brand-news)
-
- Highlights
----
-
- Sicher verstaut,
-direkt griffbereit.
----
-
- Sportlich & kompakt: die neue Umhängetasche e.s.ambition.
-
-[jetzt kaufen](https://www.engelbert-strauss.de/allroundtaschen/umhaengetasche-e-s-ambition-7072380-5505352-1.html?amp;itemorigin=Startseite)
-
-[zu allen Taschen](https://www.engelbert-strauss.de/taschen/)
-
- It's Mario Time
----
-
- Für Groß und Klein: Das ist die Strauss x Super Mario Familienkollektion.
-
-[Herren](https://www.engelbert-strauss.de/super-mario-x-strauss/)
-
-[Damen](https://www.engelbert-strauss.de/super-mario-x-strauss-damen/)
-
-[Kinder](https://www.engelbert-strauss.de/super-mario-x-strauss-kinder/)
-
- Aktions-Sets
-==========
+Strauss.Works!
 
 ---
 
- Limitiertes Angebot
----
+[jetzt kaufen](https://www.engelbert-strauss.de/arbeitsshirts/t-shirt-e-s-iconic-works-3107210-21855-1479.html?amp;itemorigin=Startseite)
 
- Sommer
-Aktions-Sets
----
-
- Workwear kaufen und tolle Zugabe-Artikel GRATIS erhalten.
-
-[alle Aktions-Sets entdecken](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/?sort=newest)
-
-| \+<br/>---| Gratis   <br/>Artikel<br/>---|   |
-|-----------|------------------------------|---|
-
- Wählen Sie die Farbe für Ihr Team
----
-
-Grüntöne
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Gruentoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_image,e_s_classic,e_s_prestige,Basics/)
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Gruentoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_concrete,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_classic,Basics/)
-
-[Jetzt e.s.motion2020 selbst gestalten](https://www.engelbert-strauss.de/mymotion)
-
- Wählen Sie die Farbe für Ihr Team
----
-
-Blautöne
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Blautoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_classic,e_s_prestige,e_s_industry,Basics/)
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Blautoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_classic,Basics/)
-
-[Jetzt e.s.motion2020 selbst gestalten](https://www.engelbert-strauss.de/mymotion)
-
- Wählen Sie die Farbe für Ihr Team
----
-
-Gelbtöne
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Gelbtoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_concrete,e_s_vintage,e_s_trail,e_s_ambition,e_s_image,e_s_prestige,Basics/)
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Gelbtoene/e_s_Kollektionslinien:e_s_motion_ten,e_s_motion2020,e_s_trail,e_s_ambition,Basics/)
-
-[Jetzt e.s.motion2020 selbst gestalten](https://www.engelbert-strauss.de/mymotion)
-
- Wählen Sie die Farbe für Ihr Team
----
-
-Orangetöne
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Orangetoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_ambition,e_s_roughtough,e_s_image,e_s_prestige,Basics/)
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Orangetoene/e_s_Kollektionslinien:e_s_motion2020,Basics/)
-
-[Jetzt e.s.motion2020 selbst gestalten](https://www.engelbert-strauss.de/mymotion)
-
- Wählen Sie die Farbe für Ihr Team
----
-
-Rottöne
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Rottoene/e_s_Kollektionslinien:e_s_motion,e_s_motion2020,e_s_active,e_s_vision,e_s_vintage,e_s_iconic,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_image,e_s_classic,Basics/)
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Rottoene/e_s_Kollektionslinien:e_s_motion,e_s_motion2020,e_s_vision,e_s_classic,Basics/)
-
-[Jetzt e.s.motion2020 selbst gestalten](https://www.engelbert-strauss.de/mymotion)
-
- Wählen Sie die Farbe für Ihr Team
----
-
-Brauntöne
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Brauntoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_vision,e_s_vintage,e_s_iconic,e_s_dynashield,e_s_roughtough,e_s_image,e_s_classic,Basics/)
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Brauntoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_vintage,e_s_iconic,e_s_dynashield,e_s_roughtough,Basics/)
-
-[Jetzt e.s.motion2020 selbst gestalten](https://www.engelbert-strauss.de/mymotion)
-
- Wählen Sie die Farbe für Ihr Team
----
-
-Grautöne
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Grautoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_image,e_s_classic,e_s_prestige,e_s_industry,Basics/)
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Grautoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_vision,e_s_concrete,e_s_vintage,e_s_iconic,e_s_trail,e_s_ambition,e_s_dynashield,e_s_roughtough,e_s_classic,Basics/)
-
-[Jetzt e.s.motion2020 selbst gestalten](https://www.engelbert-strauss.de/mymotion)
-
- Wählen Sie die Farbe für Ihr Team
----
-
-Weißtöne
-
----
-
-[Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Farbe:Weisstoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_active,e_s_trail,e_s_ambition,e_s_image,e_s_classic,e_s_industry,Basics/)
-
-[Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Farbe:Weisstoene/e_s_Kollektionslinien:e_s_motion,e_s_motion_ten,e_s_motion2020,e_s_classic,Basics/)
-
-[Jetzt e.s.motion2020 selbst gestalten](https://www.engelbert-strauss.de/mymotion)
+[alle T-Shirts entdecken](https://www.engelbert-strauss.de/arbeitsshirts/?itemorigin=startseite&sort=newest)
 
 Sie gestalten
 Wir sticken
@@ -231,6 +140,31 @@ ab 1 Stück
 bestellbar
 
 ---
+
+ Teamwear
+==========
+
+---
+
+Gastro
+
+----------
+
+---
+
+[Herren](https://www.engelbert-strauss.de/gastronomiebekleidung-kochbekleidung/?itemorigin=startseite&sort=newest)
+
+[Damen](https://www.engelbert-strauss.de/gastro-damen/?itemorigin=startseite&sort=newest)
+
+Medical
+
+----------
+
+---
+
+[Herren](https://www.engelbert-strauss.de/klinikbekleidung-pflegebekleidung/?itemorigin=startseite&sort=newest)
+
+[Damen](https://www.engelbert-strauss.de/medical-damen/?itemorigin=startseite&sort=newest)
 
  Nach Kategorie shoppen
 ---
