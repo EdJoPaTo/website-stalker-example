@@ -22,8 +22,6 @@ RE2 Uelzen - Celle - Hannover
 
 RE2 Hannover - Northeim - Göttingen
 
-[13.07.2024 - 14.07.2024 RE2 nächtlicher Teilausfall zwischen Einbeck-Salzderhelden und Göttingen für den 82841](https://www.der-metronom.de/baustellen/re2-naechtlicher-teilausfall-zwischen-einbeck-salzderhelden-und-goettingen-fuer-den-82841/)
-
 [20.07.2024 RE2/RE3 morgendliche Teilausfälle zwischen Banteln und Alfeld sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-morgendliche-teilausfaelle-zwischen-banteln-und-alfeld-sowie-fahrzeitenaenderungen/)
 
 [21.07.2024 - 22.07.2024 RE2 nächtlicher Haltausfall in Sarstedt und Nordstemmen](https://www.der-metronom.de/baustellen/re2-naechtlicher-haltausfall-in-sarstedt-und-nordstemmen/)
