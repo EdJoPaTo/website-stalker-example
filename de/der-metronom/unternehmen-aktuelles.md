@@ -34,13 +34,6 @@ Moin liebe Fahrgäste,aufgrund einer Baustelle im Hauptbahnhof Hannover steht do
 
 Das Wetter zeigt sich in diesen Tagen leider nicht von seiner besten Seite. Während die Chancen auf ein Fußball-Sommermärchen gut stehen, macht der Sommer insgesamt mit grauem Himmel einen eher trüben Eindruck. Trotzdem lassen sich Radprofis und Freizeitradler nicht entmutigen und nutzen jede...
 
-[Die Fußball-Europameisterschaft im metronom](https://www.der-metronom.de/aktuell/die-fussball-europameisterschaft-im-metronom/)
-
- Uelzen - 14.06.2024
-
-Ein herzliches Gut Kick in die Runde!
-Die Fußball-Europameisterschaft steigt im eigenen Land und die Chancen auf ein zweites Sommermärchen (bei bestem norddeutschen Wetter) stehen gut. Klar, dass wir da vom metronom bei jedem Spiel mitfiebern! Aber eines müssen wir vorab klarstellen: Unsere Züge...
-
 [Endstation für die metronom-App](https://www.der-metronom.de/aktuell/endstation-fuer-die-metronom-app/)
 
  Uelzen - 01.02.2024
@@ -55,6 +48,8 @@ Aufgrund vermehrter...
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
 
- Seite 1 von 2
+[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
- 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
+ Uelzen - 08.01.2024
+
+ Die Landesnahverkehrsgesellschaft...
