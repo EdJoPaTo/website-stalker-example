@@ -30,15 +30,6 @@ Absolutely transparent
 
 You will find out the cost of your ride before booking. You can pay using the app.
 
-Your MOIA home advantage
-
-Comfortably through the football summer
-----------
-
-Whether you're a football fan or not – all Hamburg residents have one thing in common: the MOIA home advantage. With MOIA, you can travel comfortably through the exciting football summer and have the chance to win one of 5 Hamburg experience vouchers or one of 10 Smart Saver 50.
-
-[Learn more](https://www.moia.io/en/home-advantage)
-
 How MOIA works
 ----------
 
