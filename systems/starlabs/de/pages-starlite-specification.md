@@ -11,6 +11,7 @@ Chassis
  2160x1440 resolution at 208 pixels
 per inch
  3:2 aspect ratio
+ Pen Support: MPP
 
  Brightness: 300cd/m²
  Type: IPS
