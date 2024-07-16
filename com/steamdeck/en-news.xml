@@ -6,6 +6,160 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: July 16th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4517756980044068772</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jul 16, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improvements to keyboard event tracking and audio latency in updated SDL build
+						<br>
+					</li>
+					<li>
+						Improved timeout logic when establishing initial connection from UI layer to steam client's API layer
+						<br>
+					</li>
+					<li>
+						Improved client startup performance
+						<br>
+					</li>
+					<li>
+						Fixed controller input no longer going to game after resuming from sleep if a wake movie is set.
+						<br>
+					</li>
+					<li>
+						Fixed broken thumbnail for screenshots from non-steam game shortcuts uploaded to steam, when viewed from another computer
+						<br>
+					</li>
+					<li>
+						Fixed a case that game server / server browser lists would re-fetch when only re-ping on existing list was requested
+						<br>
+					</li>
+					<li>
+						Fixed a crash that could occur at exit while cleaning up websockets
+						<br>
+					</li>
+					<li>
+						Fixed some games with achievements showing as "No Achievements" when sorting grids or shelves by achievement percentage.
+						<br>
+					</li>
+					<li>
+						Fixed certain apps disappearing from Recent Games after a client restart.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved thumbnail smoothness when mouse tracking across different highlights / regions on the timeline
+						<br>
+					</li>
+					<li>
+						Added a max framerate setting. Currently supports 30 or 60 fps.
+						<br>
+					</li>
+					<li>
+						Fixed issue preventing default .mp4 file extension from being applied to user saved files if the user did not type an extension along with the filename
+						<br>
+					</li>
+					<li>
+						Fixed a bug causing the live timeline edge to deviate from the actual live edge of the current recording
+						<br>
+					</li>
+					<li>
+						Fixed a bug that caused clips to lose their thumbnails when sent from one computer to another.
+						<br>
+					</li>
+					<li>
+						Fixed game timeline markers not being downloaded in rare cases.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed Ctrl-F not focusing search box in library
+					</li>
+				</ul>
+				<br>
+				<b>
+					Clock and Timer
+				</b>
+				<br>
+				<ul>
+					<li>
+						New Clock app in the Steam Overlay that can optionally be pinned on top of games.
+						<br>
+					</li>
+					<li>
+						Improved Timer UI.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Big Picture
+				</b>
+				<br>
+				<ul>
+					<li>
+						Add warnings to game recording overlay page when broadcasting / remote playing
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Simplify encoding options to a hardware encoding enable checkbox
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input/b]
+					<br>
+					<ul>
+						<li>
+							Fixed some issues with motion data for controllers other than the first one plugged in
+						</li>
+					</ul>
+				</b>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4517756980044068772" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: July 10th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4415299511823893810</link>
 			<content:encoded><![CDATA[<html>
@@ -239,66 +393,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298372647985053" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: June 27th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298372645253183</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 27, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue preventing SteamOS from updating from version 3.6.7 when opted in to the 'Preview' update channel.
-						<br>
-					</li>
-					<li>
-						Fixed errors while displaying certain collections for some users.
-						<br>
-					</li>
-					<li>
-						Fixed mispositioned background glow on game capsules in grids.
-						<br>
-					</li>
-					<li>
-						Fixed error when entering multiple words into search box
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed "Soundtracks" and "All Games" shelves on home page applying the app type filter from the top of the games list. This would lead to Soundtracks showing no items if Soundtracks was not selected at the top of the games list, as an example.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298372645253183" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
