@@ -6,6 +6,22 @@
 		<description>The MOIA blog you will learn everything that moves the MOIA community and get exciting insights into the world of MOIA.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>An Interview with MOIA-Safety Driver Nicholas</title>
+			<link>https://www.moia.io/en/blog/interview-safety-driver</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<span>
+				16.07.2024
+			</span>
+			We at MOIA want to bring autonomous shuttles to the streets of Hamburg for public use. Currently, we are in the test phase. For testing purposes one or two safety drivers are in the vehicle. One of them is Nicholas, who tells us in an interview more about his job as a safety driver.
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Accessibility Hamburg: MOIA&apos;s barrier-free service</title>
 			<link>https://www.moia.io/en/blog/accessibility-hamburg</link>
 			<content:encoded><![CDATA[<html>
@@ -129,22 +145,6 @@
 				28.09.2023
 			</span>
 			Whenever a MOIA is on the road in Hamburg or Hanover, people are curious. Our vehicle clearly stands out from the other cars not only because of its pluto yellow colour, but also because of its size and noise. But these are by no means all the special features of our MOIA. In this article, you will find out everything about the first vehicle specially developed for ridepooling.
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>How does Corporate Mobility work?</title>
-			<link>https://www.moia.io/en/blog/moia-talks-olga-nevska</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<span>
-				18.09.2023
-			</span>
-			Around a third of the kilometres travelled in Germany are for work. Corporate mobility therefore plays an important role in the mobility revolution. Olga Nevska aims to electrify Telekom's entire fleet and talks about the challenges of this change and her own MaaS app "goodride" in an interview.
 		</div>
 	</body>
 </html>]]></content:encoded>
