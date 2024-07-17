@@ -6,6 +6,44 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: July 16th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4517756980044337063</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jul 16, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue where demos would not show a play button after changing accounts.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4517756980044337063" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: July 16th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4517756980044068772</link>
 			<content:encoded><![CDATA[<html>
@@ -137,14 +175,30 @@
 				</ul>
 				<br>
 				<b>
-					Steam Input/b]
-					<br>
-					<ul>
-						<li>
-							Fixed some issues with motion data for controllers other than the first one plugged in
-						</li>
-					</ul>
+					Steam Input
 				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed for SIAPI GetMotionData not returning any information on every controller but the first one plugged in.
+						<br>
+					</li>
+					<li>
+						Fix for Okami HD Brush and Fishing Rod game actions
+					</li>
+				</ul>
+				<br>
+				Note: This beta was re-released with additional changes:
+				<br>
+				<ul>
+					<li>
+						Fixed save file dialog in overlay sometimes replacing part of the file name with the file extension.
+						<br>
+					</li>
+					<li>
+						Fixed an issue where demos would not show a play button after changing accounts.
+					</li>
+				</ul>
 			</div>
 			<div>
 				<div>
@@ -347,52 +401,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298372648962795" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: June 28th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298372647985053</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 28, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a potential crash when a bluetooth device pairing request times out.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the battery status and "Allow wake from sleep" toggle would fail to show for supported bluetooth devices.
-						<br>
-					</li>
-					<li>
-						Fixed on-screen keyboard failing to hide fully after entering text in-game.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298372647985053" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
