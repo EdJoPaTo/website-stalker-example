@@ -130,7 +130,7 @@ English (US)
 
 German  Sold Out - Get Notified When Available
 
-Spanish
+Spanish  Sold Out - Get Notified When Available
 
 French  Sold Out - Get Notified When Available
 
