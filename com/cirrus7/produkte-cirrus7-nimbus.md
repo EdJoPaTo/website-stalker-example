@@ -31,8 +31,8 @@ cirrus nimbus
     B550 Chipsatz – Mini ITX
   * **GIGABYTE B550I AORUS Pro (DDR4 – AM4 Socket)**
     B550 Chipsatz – Mini ITX
-  * **GIGABYTE A620I (DDR5 – AM5 Socket)**
-    A620 Chipset
+  * **GIGABYTE B650I (DDR5 – AM5 Socket)**
+    B650 Chipset
 
   **ASUS Pro H610T Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
@@ -58,7 +58,7 @@ cirrus nimbus
   **ASRock B550M-ITX Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 3x USB-A 3.1, 1x USB-C 3.1, 2x USB-A 2.0, 1x PS2, 3x Audio Stereo
 
-  **GIGABYTE A620I Anschlüsse Rückseite:**
+  **GIGABYTE B650I Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1, 1x USB-A 3.1 Gen2, 1x USB-C 3.0, 1x USB-A 3.0, 3x USB-A 2.0, 1x 2.5GB LAN, 3x Audio Stereo
 
   **GIGABYTE B550I AORUS Pro Anschlüsse Rückseite:**
