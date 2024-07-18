@@ -15,6 +15,17 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE4 / RB41: Bremen Hbf kann nicht angefahren werden](https://www.der-metronom.de/aktuell/re4-rb41-bremen-hbf-kann-nicht-angefahren-werden/)
+
+ Bremen - Hamburg - 18.07.2024
+
+Liebe Fahrgäste,
+in Bremen Hbf ist der Strom - und damit das Stellwerk - ausgefallen. Das heißt, wir können keine Züge von und nach Bremen fahren.
+Alle Züge der Linien
+Linien RB41 / RE4 (Bremen - Rotenburg - Buchholz - Hamburg)
+beginnen und enden in Bremen-Oberneuland.
+Ein Busnotverkehr ist...
+
 [RE2 Zusatzhalte für alle Fans und Ticketinhaber von AC/DC in Hannover Messe/Laatzen](https://www.der-metronom.de/aktuell/re2-zusatzhalte-fuer-alle-fans-und-ticktinhaber-von-acdc-in-hannover-messe-laatzen/)
 
  04.07.2024
@@ -48,8 +59,6 @@ Aufgrund vermehrter...
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
 
-[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
+ Seite 1 von 2
 
- Uelzen - 08.01.2024
-
- Die Landesnahverkehrsgesellschaft...
+ 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
