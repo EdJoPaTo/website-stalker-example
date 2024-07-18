@@ -15,16 +15,14 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE4 / RB41: Bremen Hbf kann nicht angefahren werden](https://www.der-metronom.de/aktuell/re4-rb41-bremen-hbf-kann-nicht-angefahren-werden/)
+[update 14:35 Uhr: Bremen Hbf. kann wieder angefahren werden // RE4 / RB41: Bremen Hbf. kann nicht angefahren werden](https://www.der-metronom.de/aktuell/re4-rb41-bremen-hbf-kann-nicht-angefahren-werden/)
 
  Bremen - Hamburg - 18.07.2024
 
-Liebe Fahrgäste,
-in Bremen Hbf ist der Strom - und damit das Stellwerk - ausgefallen. Das heißt, wir können keine Züge von und nach Bremen fahren.
-Alle Züge der Linien
-Linien RB41 / RE4 (Bremen - Rotenburg - Buchholz - Hamburg)
-beginnen und enden in Bremen-Oberneuland.
-Ein Busnotverkehr ist...
+update 14:35 (Abschlussmeldung):
+die Störung ist behoben, Bremen Hbf. kann wieder angefahren werden
+Alle Züge des metronom auf der Strecke RE4 / RB41 können zwischen Bremen - Rotenburg - Buchholz - Hamburg wieder fahren.
+Es kommt jedoch noch zu Verspätungen und einzelnen Störungen, bis sich...
 
 [RE2 Zusatzhalte für alle Fans und Ticketinhaber von AC/DC in Hannover Messe/Laatzen](https://www.der-metronom.de/aktuell/re2-zusatzhalte-fuer-alle-fans-und-ticktinhaber-von-acdc-in-hannover-messe-laatzen/)
 
