@@ -92,7 +92,7 @@ Unsere Wirkung in Zahlen
 * 2020: Solaranlage mit Ecosia & Naturstrom
   570 kWp = ca .500 MWh/a
 * 2024: Windkraftanlage mit Prokon
-  Fertigstellung: November, Danach ca. 645.000 kWh sauberem Ökostrom pro Jahr, was etwa 170 4-Personen Haushalten entspricht.
+  Fertigstellung: November, Danach ca. 645.000 kWh/a
 
 **Investitionen in Start-ups:**
 

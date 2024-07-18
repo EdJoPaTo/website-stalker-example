@@ -112,7 +112,7 @@ Monthly
 
  Server
 
- CX22  New
+ CX22
 
  VCPU
 
@@ -144,7 +144,7 @@ Monthly
 
  Server
 
- CX32  New
+ CX32
 
  VCPU
 
@@ -176,7 +176,7 @@ Monthly
 
  Server
 
- CX42  New
+ CX42
 
  VCPU
 
@@ -208,7 +208,7 @@ Monthly
 
  Server
 
- CX52  New
+ CX52
 
  VCPU
 

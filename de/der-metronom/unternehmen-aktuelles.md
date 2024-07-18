@@ -15,7 +15,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[update 14:35 Uhr: Bremen Hbf. kann wieder angefahren werden // RE4 / RB41: Bremen Hbf. kann nicht angefahren werden](https://www.der-metronom.de/aktuell/re4-rb41-bremen-hbf-kann-nicht-angefahren-werden/)
+[update 14:35 Uhr: Bremen Hbf. kann wieder angefahren werden // RE4 / RB41](https://www.der-metronom.de/aktuell/re4-rb41-bremen-hbf-kann-nicht-angefahren-werden/)
 
  Bremen - Hamburg - 18.07.2024
 
