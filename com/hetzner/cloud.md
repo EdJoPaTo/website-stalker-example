@@ -68,8 +68,6 @@ High quality Cloud – unbeatable prices
 
 Pay only for the hours you use, if you have a server for less than a month. No minimum contract period required!
 
- New
-
  Shared vCPU  Intel®
 
  Shared vCPU  AMD
