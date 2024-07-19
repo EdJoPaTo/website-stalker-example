@@ -1,3 +1,9 @@
+SAVE 25%¹ when you purchase the StarLite.
+
+ Don't miss out! Discount automatically applied at checkout.
+
+¹ Whilst stocks last. Discount limited to one use per customer.
+
 About
 
 StarLite
@@ -24,9 +30,9 @@ Storage
 
 512GB SSD  Gen3 PCIe storage
 
-1TB SSD  Gen3 PCIe storage  Sold Out - Get Notified When Available
+1TB SSD  Gen3 PCIe storage
 
-2TB SSD  Gen3 PCIe storage  Sold Out - Get Notified When Available
+2TB SSD  Gen3 PCIe storage
 
  Storage
 
@@ -124,15 +130,15 @@ None
 
 None
 
-English (UK)  Sold Out - Get Notified When Available
+English (UK)
 
 English (US)
 
-German  Sold Out - Get Notified When Available
+German
 
-Spanish  Sold Out - Get Notified When Available
+Spanish
 
-French  Sold Out - Get Notified When Available
+French
 
 Nordic
 
