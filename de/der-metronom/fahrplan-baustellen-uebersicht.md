@@ -34,7 +34,5 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [16.07.2024 - 29.07.2024 RE4/RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf sowie Ausfall der Verstärkerfahrten](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-sowie-ausfall-der-verstaerkerfahrten/)
 
-[18.07.2024 update 14:35 Uhr: Bremen Hbf wieder frei // RE4 und RB41](https://www.der-metronom.de/baustellen/re4-und-rb41-bremen-hbf-kann-nicht-angefahren-werden/)
-
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
