@@ -57,16 +57,6 @@
 						Timer no longer has a Clear button since the new UI doesn't need it.
 					</li>
 				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Steam Input API: a fix in mid June intended to fix a bug with layered actions had unintentionally affected certain Steam Input API games with complex action sets. This change has been reverted until we can find a more robust fix.
-					</li>
-				</ul>
 			</div>
 			<div>
 				<div>
