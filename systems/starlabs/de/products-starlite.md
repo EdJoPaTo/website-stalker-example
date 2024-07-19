@@ -1,8 +1,9 @@
-SAVE 25%¹ when you purchase the StarLite.
+SAVE £100 Super Early Bird Discount¹ on StarLite orders.
 
- Don't miss out! Discount automatically applied at checkout.
+ Today You are a Super Early Bird!
+ Tomorrow you'd only be a Slighlty Early Bird.
 
-¹ Whilst stocks last. Discount limited to one use per customer.
+¹ Whilst stocks last. Discount only available for Super Early Birds.
 
 About
 
