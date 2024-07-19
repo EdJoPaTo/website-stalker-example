@@ -6,6 +6,82 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: July 19th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4517757187692809078</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jul 19, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed formatting of links in news posts
+						<br>
+					</li>
+					<li>
+						Fixed a beta client only issue where a game may freeze while trying to set an achievement. This could affect games such as Elden Ring and Dark Souls.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved the display of background recordings in the Post Game Summary on library game pages, especially for footage recorded at 21:9 or wider aspect ratios.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Timer UI updated to use icons for buttons so that it works better across all languages.
+						<br>
+					</li>
+					<li>
+						Timer no longer has a Clear button since the new UI doesn't need it.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Steam Input API: a fix in mid June intended to fix a bug with layered actions had unintentionally affected certain Steam Input API games with complex action sets. This change has been reverted until we can find a more robust fix.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4517757187692809078" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: July 16th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4517756980044337063</link>
 			<content:encoded><![CDATA[<html>
@@ -349,58 +425,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298705122049152" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: June 28th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298372648962795</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jun 28, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed bug that prevented Send To Phone from working if the user had not also signed in from a second desktop machine.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed Recordings & Screenshots dialog context menu sometimes opening in new window.
-						<br>
-					</li>
-					<li>
-						Fixed file extension not being applied automatically when saving files.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298372648962795" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
