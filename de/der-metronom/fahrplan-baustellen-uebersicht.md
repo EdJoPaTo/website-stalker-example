@@ -16,13 +16,9 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[20.07.2024 RE2/RE3 morgendliche Teilausfälle zwischen Banteln und Alfeld sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-morgendliche-teilausfaelle-zwischen-banteln-und-alfeld-sowie-fahrzeitenaenderungen/)
-
 [21.07.2024 - 22.07.2024 RE2 nächtlicher Haltausfall in Sarstedt und Nordstemmen](https://www.der-metronom.de/baustellen/re2-naechtlicher-haltausfall-in-sarstedt-und-nordstemmen/)
 
 RE2 Hannover - Northeim - Göttingen
-
-[20.07.2024 RE2/RE3 morgendliche Teilausfälle zwischen Banteln und Alfeld sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-morgendliche-teilausfaelle-zwischen-banteln-und-alfeld-sowie-fahrzeitenaenderungen/)
 
 [21.07.2024 - 22.07.2024 RE2 nächtlicher Haltausfall in Sarstedt und Nordstemmen](https://www.der-metronom.de/baustellen/re2-naechtlicher-haltausfall-in-sarstedt-und-nordstemmen/)
 
