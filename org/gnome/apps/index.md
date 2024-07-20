@@ -51,7 +51,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Amberol**Plays music, and nothing else](Amberol/)
 * [**Apostrophe**Edit Markdown in style](Apostrophe/)
 * [**Audio Sharing**Share your computer audio](AudioSharing/)
-* [**Authenticator**Generate Two-Factor Codes](Authenticator/)
+* [**Authenticator**Generate two-factor codes](Authenticator/)
 * [**Biblioteca**Read GNOME documentation offline](Biblioteca/)
 * [**Blanket**Listen to ambient sounds](Blanket/)
 * [**Boatswain**Control your Elgato Stream Decks](Boatswain/)
