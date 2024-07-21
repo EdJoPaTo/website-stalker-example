@@ -494,6 +494,7 @@
 * [Japan-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/japan_spezial.php5)
 * [Jeans](https://www.wdrmaus.de/filme/sachgeschichten/jeans.php5)
 * [Jodeln](https://www.wdrmaus.de/filme/sachgeschichten/jodeln.php5)
+* [Johannes Olympia Top Ten](https://www.wdrmaus.de/filme/sachgeschichten/johannes_olympia_top_ten.php5)
 * [Jugendgericht](https://www.wdrmaus.de/filme/sachgeschichten/jugendgericht.php5)
 * [Kängurus](https://www.wdrmaus.de/filme/sachgeschichten/kaengurus.php5)
 * [Käsescheiben](https://www.wdrmaus.de/filme/sachgeschichten/kaesescheiben.php5)
