@@ -16,11 +16,11 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[21.07.2024 - 22.07.2024 RE2 nächtlicher Haltausfall in Sarstedt und Nordstemmen](https://www.der-metronom.de/baustellen/re2-naechtlicher-haltausfall-in-sarstedt-und-nordstemmen/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 Hannover - Northeim - Göttingen
 
-[21.07.2024 - 22.07.2024 RE2 nächtlicher Haltausfall in Sarstedt und Nordstemmen](https://www.der-metronom.de/baustellen/re2-naechtlicher-haltausfall-in-sarstedt-und-nordstemmen/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
