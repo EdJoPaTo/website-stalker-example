@@ -11,10 +11,10 @@
 
 * Topics
 
-* [Testing kernel available RPi5](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=16144)
-   by [graysky](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=5766) » Sat Aug 20, 2022 9:36 am
 * [New kernel package for RPi5: linux-rpi-16k](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=16696)
    by [graysky](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=5766) » Sun Dec 10, 2023 8:01 pm
+* [Testing kernel available RPi5](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=16144)
+   by [graysky](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=5766) » Sat Aug 20, 2022 9:36 am
 * [VLC with hw accel decoding is out (RPis only)](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=16153)
    by [graysky](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=5766) » Thu Aug 25, 2022 5:18 pm
 * [5.15.y aarch64 testing kernel available RPi 2/3/4/400/Zero2W](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=15634)
