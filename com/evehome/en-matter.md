@@ -315,6 +315,60 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
+[Eve Weather](/en/eve-weather)
+
+ Connected Weather Station
+
+ Learn more
+
+Requires iPhone or iPad with the latest version of iOS/iPadOS and Apple TV 4K (2nd gen / 3rd gen 128 GB), HomePod (2nd gen), or HomePod mini as a home hub
+
+Matter
+
+Outdoor
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Weather](/en/eve-weather)
+
+ Connected Weather Station
+
+* Track your local outdoor temperature, humidity and barometric pressure over time, and see the weather trend at a glance.
+* Ask your voice assistant for the temperature and humidity level right on your doorstep.
+* Gain insights and view your data by day, month, or year in the Eve app for iPhone and iPad.
+* [Visit product page](/en/eve-weather)
+
 ### Getting started with your new Eve device. ###
 
 Adding Eve devices with a Matter logo to your smart home is fast and easy.
@@ -658,3 +712,57 @@ Not available in your country
 * Effortlessly set automations to open and close your blinds according to your daily routine.
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
+
+[Eve Weather](/en/eve-weather)
+
+ Connected Weather Station
+
+ Learn more
+
+Requires iPhone or iPad with the latest version of iOS/iPadOS and Apple TV 4K (2nd gen / 3rd gen 128 GB), HomePod (2nd gen), or HomePod mini as a home hub
+
+Matter
+
+Outdoor
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Weather](/en/eve-weather)
+
+ Connected Weather Station
+
+* Track your local outdoor temperature, humidity and barometric pressure over time, and see the weather trend at a glance.
+* Ask your voice assistant for the temperature and humidity level right on your doorstep.
+* Gain insights and view your data by day, month, or year in the Eve app for iPhone and iPad.
+* [Visit product page](/en/eve-weather)
