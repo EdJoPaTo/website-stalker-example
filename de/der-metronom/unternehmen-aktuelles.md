@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Bahnhof Buchholz (in der Nordheide) stromlos: kein Fahrkartenverkauf und keine elektronischen Ansagen/Anzeigen](https://www.der-metronom.de/aktuell/bahnhof-buchholz-in-der-nordheide-stromlos-kein-fahrkartenverkauf-und-keine-elektronischen-ansagen-anzeigen/)
+
+ Uelzen - 23.07.2024
+
+Moin liebe Fahrgäste,
+aufgrund von Unregelmäßigkeiten bei Bauarbeiten ist der Bahnhof Buchholz (in der Nordheide) derzeit ohne Stromversorgung. Daher ist kein Fahrkartenverkauf möglich. Außerdem stehen die elektronischen Anzeigen und Ansagen nicht zur Verfügung. Der Halt unserer Züge der Linie...
+
 [RE2 Zusatzhalte für alle Fans und Ticketinhaber von AC/DC in Hannover Messe/Laatzen](https://www.der-metronom.de/aktuell/re2-zusatzhalte-fuer-alle-fans-und-ticktinhaber-von-acdc-in-hannover-messe-laatzen/)
 
  04.07.2024
@@ -48,8 +55,6 @@ Aufgrund vermehrter...
 
 Es entfallen weiter Fahrten auf den Linien RE3,...
 
-[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
+ Seite 1 von 2
 
- Uelzen - 08.01.2024
-
- Die Landesnahverkehrsgesellschaft...
+ 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
