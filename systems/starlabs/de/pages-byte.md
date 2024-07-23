@@ -118,8 +118,8 @@ For display out.
 
 5.5mm power connector.
 
-Open-source
-firmware
+ Open-source
+ firmware
 
 powered by
 

@@ -16,9 +16,9 @@ per inch
  Brightness: 300cd/m²
  Type: IPS
  Color Depth (NTSC): 71%
- Color Depth (sRGB): 100%
- Contrast
-Ratio: 1000:1
+ Color Depth
+(sRGB): 100%
+ Contrast Ratio: 1000:1
  Haze: 21%
  Coating: 3H Hard Coat
 

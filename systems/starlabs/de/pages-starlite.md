@@ -88,8 +88,8 @@ For simple connectivity.
 
 For audio output.
 
-Open-source
-firmware
+ Open-source
+ firmware
 
 powered by
 
@@ -135,7 +135,7 @@ Comfortable backlit keys with snappy scissor mechanisms.
 
 Media keys for playback, volume, brightness, screenshots and more.
 
-03.
+ 03.
 
  International Layouts
 

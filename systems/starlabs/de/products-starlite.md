@@ -1,10 +1,10 @@
-SAVE €119,00 Super Early Bird Discount¹ on StarLite orders.
+Super Early Bird Discount - Save €119,00¹ today!
 
- Today, you are a Super Early Bird!
- Tomorrow, you'd only be a Slightly Early Bird.
- Discount applies automatically at checkout.
+ This exclusive offer is available for a limited time. The discount is automatically applied at checkout.
 
-¹ Whilst stocks last. Discount only available for Super Early Birds.
+ Shop Now and Secure Your Savings!
+
+¹ Whilst stocks last.
 
 About
 
