@@ -42,12 +42,6 @@ Ahoi zusammen!
 Der Zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen gehäuft. Ärgerlich für euch als Fahrgäste und Herausforderung für uns als Anbieter der App.
 Aufgrund vermehrter...
 
-[Neuer metronom-Ersatzfahrplan mit weniger Zugausfällen ab Sonntag, den 4. Februar 2024](https://www.der-metronom.de/aktuell/neuer-metronom-ersatzfahrplan-mit-weniger-zugausfaellen-ab-sonntag-den-4-februar-2024/)
-
- Uelzen - 25.01.2024
-
-Es entfallen weiter Fahrten auf den Linien RE3,...
-
 [Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
  Uelzen - 08.01.2024
