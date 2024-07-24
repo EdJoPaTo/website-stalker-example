@@ -6,6 +6,58 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: July 23rd</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4513254014339923764</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jul 23, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					Genera
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed collection names being displayed in all uppercase in edit controls.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						SIAPI: Fix for analog actions from other action sets incorrectly reporting as active. This affected some titles including Okami HD.
+						<br>
+					</li>
+					<li>
+						Added "Rotate Output" slider to "Joystick" and "Joystick Mouse" mode settings. This can be useful for certain shmups, or simply to find a more natural "Up" direction on your joystick.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513254014339923764" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: July 19th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4517757187692809078</link>
 			<content:encoded><![CDATA[<html>
@@ -363,58 +415,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415299511823893810" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: July 2nd</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4415298705122049152</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jul 2, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed bug that prevented creating clips from working on exFAT filesystems.
-						<br>
-					</li>
-					<li>
-						Fixed a couple of cases that could cause an empty entry to appear in the Post-Game Summary on a game's library page, instead of a background recording highlight.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed collection names not being editable.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4415298705122049152" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
