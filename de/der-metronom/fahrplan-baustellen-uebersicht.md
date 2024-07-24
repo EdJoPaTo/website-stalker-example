@@ -16,19 +16,23 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[29.07.2024 - 03.08.2024 RE2/RE3 nächtliche Teilausfälle zwischen Uelzen - Celle - Hannover sowie Haltausfälle in Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-sowie-haltausfaelle-in-northeim-und-noerten-hardenberg/)
 
 RE2 Hannover - Northeim - Göttingen
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[29.07.2024 - 03.08.2024 RE2/RE3 nächtliche Teilausfälle zwischen Uelzen - Celle - Hannover sowie Haltausfälle in Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-sowie-haltausfaelle-in-northeim-und-noerten-hardenberg/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [16.07.2024 - 29.07.2024 RE3/RB31 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf sowie Ausfall der Verstärkerfahrten](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-sowie-ausfall-der-verstaerkerfahrten/)
 
+[30.07.2024 - 15.08.2024 RE3/RB31 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf; Haltausfälle Bardowick, Radbruch und Ashausen sowie Stelle, Maschen und Meckelfeld](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-haltausfaelle-bardowick-radbruch-und-ashausen-sowie-stelle-maschen-und-meckelfeld/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [16.07.2024 - 29.07.2024 RE4/RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf sowie Ausfall der Verstärkerfahrten](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-sowie-ausfall-der-verstaerkerfahrten/)
+
+[30.07.2024 - 15.08.2024 RE4/RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf und zwischen Bremen und Rotenburg sowie Buchholz (N.) und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-und-zwischen-bremen-und-rotenburg-sowie-buchholz-n-und-hamburg-harburg/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
