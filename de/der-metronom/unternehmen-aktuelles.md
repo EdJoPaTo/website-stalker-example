@@ -15,6 +15,16 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Wir bleiben … ehrlich: ab 30.07. „stabiles Angebot“ für alle metronom-Strecken](https://www.der-metronom.de/aktuell/wir-bleiben-...-ehrlich-ab-30-07-stabiles-angebot-fuer-alle-metronom-strecken)
+
+ Uelzen - 24.07.2024
+
+Liebe Fahrgäste,
+so macht Bahnfahren keinen Spaß – weder Euch noch uns!
+Wir sind uns bewusst, dass die letzten Wochen für viele von Euch nervenaufreibend und frustrierend waren. Es sind einfach zu viele Züge ausgefallen.
+Um ehrlich zu sein:
+Für die Anzahl der (geplanten) Zugfahrten gibt es...
+
 [RE2 Zusatzhalte für alle Fans und Ticketinhaber von AC/DC in Hannover Messe/Laatzen](https://www.der-metronom.de/aktuell/re2-zusatzhalte-fuer-alle-fans-und-ticktinhaber-von-acdc-in-hannover-messe-laatzen/)
 
  04.07.2024
@@ -32,7 +42,7 @@ Moin liebe Fahrgäste,aufgrund einer Baustelle im Hauptbahnhof Hannover steht do
 
  21.06.2024
 
-Das Wetter zeigt sich in diesen Tagen leider nicht von seiner besten Seite. Während die Chancen auf ein Fußball-Sommermärchen gut stehen, macht der Sommer insgesamt mit grauem Himmel einen eher trüben Eindruck. Trotzdem lassen sich Radprofis und Freizeitradler nicht entmutigen und nutzen jede...
+Das Wetter zeigt sich in diesen Tagen leider nicht von seiner besten Seite. Der Sommer macht insgesamt einen eher trüben Eindruck. Trotzdem lassen sich Radprofis und Freizeitradler nicht entmutigen und nutzen jede trockene Phase für Ausflüge mit dem Fahrrad. Ein beliebtes Verkehrsmittel ist...
 
 [Endstation für die metronom-App](https://www.der-metronom.de/aktuell/endstation-fuer-die-metronom-app/)
 
