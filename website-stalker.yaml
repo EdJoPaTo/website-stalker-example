@@ -223,8 +223,11 @@ sites:
     editors:
       - regex_replace:
           pattern: ',\n\s*"line": \d+'
-          replace: ''
+          replace: ""
       - json_prettify
+      - regex_replace:
+          pattern: '\n\s*"docs": ".+'
+          replace: ""
 
   - url:
       - https://eu.ugreen.com/collections/gan-chargers?sort_by=created-descending
