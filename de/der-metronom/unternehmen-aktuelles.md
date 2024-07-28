@@ -21,7 +21,7 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 Moin liebe Fahrgäste,
 auf unseren Strecken kommt es am heutigen Sonntag aufgrund von liegengebliebenen Zügen zu Beeinträchtigungen in Form von Verspätungen und (Teil-)Ausfällen.
-In diesem Fall müssen die betroffenen Strecken komplett gesperrt werden, um eine Gefährdung der Reisenden und des...
+In diesem Fall mussten die betroffenen Strecken komplett gesperrt werden, um eine Gefährdung der Reisenden und des...
 
 [Wir bleiben … ehrlich: ab 30.07. „stabiles Angebot“ für alle metronom-Strecken](https://www.der-metronom.de/aktuell/wir-bleiben-...-ehrlich-ab-30-07-stabiles-angebot-fuer-alle-metronom-strecken)
 
