@@ -51,9 +51,3 @@ Das Wetter zeigt sich in diesen Tagen leider nicht von seiner besten Seite. Der 
 Ahoi zusammen!
 Der Zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen gehäuft. Ärgerlich für euch als Fahrgäste und Herausforderung für uns als Anbieter der App.
 Aufgrund vermehrter...
-
-[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
-
- Uelzen - 08.01.2024
-
- Die Landesnahverkehrsgesellschaft...
