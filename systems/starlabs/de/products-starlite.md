@@ -1,8 +1,9 @@
-Super Early Bird Discount - Save €119,00¹ today!
+Fast shipping or Save €119,00¹!
 
- This exclusive offer is available for a limited time. The discount is automatically applied at checkout.
+In-Stock: Ships within 7 days
+In-Production: Super Early Bird Savings
 
- Shop Now and Secure Your Savings!
+This exclusive offer is available for a limited time. The discount is automatically applied at checkout.
 
 ¹ Whilst stocks last.
 
