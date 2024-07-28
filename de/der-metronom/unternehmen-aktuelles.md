@@ -15,14 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Aktuell: Beeinträchtigungen durch liegengebliebene Züge auf unseren Strecken](https://www.der-metronom.de/aktuell/beeintraechtigungen-durch-liegengebliebene-zuege-auf-unseren-strecken/)
-
- Uelzen - 28.07.2024
-
-Moin liebe Fahrgäste,
-auf unseren Strecken kommt es am heutigen Sonntag aufgrund von liegengebliebenen Zügen zu Beeinträchtigungen in Form von Verspätungen und (Teil-)Ausfällen.
-In diesem Fall mussten die betroffenen Strecken komplett gesperrt werden, um eine Gefährdung der Reisenden und des...
-
 [Wir bleiben … ehrlich: ab 30.07. „stabiles Angebot“ für alle metronom-Strecken](https://www.der-metronom.de/aktuell/wir-bleiben-...-ehrlich-ab-30-07-stabiles-angebot-fuer-alle-metronom-strecken)
 
  Uelzen - 24.07.2024
@@ -60,6 +52,8 @@ Ahoi zusammen!
 Der Zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen gehäuft. Ärgerlich für euch als Fahrgäste und Herausforderung für uns als Anbieter der App.
 Aufgrund vermehrter...
 
- Seite 1 von 2
+[Seit 15. Januar: LNVG stellt zusätzliche Fahrten zwischen Winsen und Harburg](https://www.der-metronom.de/aktuell/lnvg-stellt-zusaetzliche-fahrten-zwischen-winsen-und-harburg/)
 
- 1 [2](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/) [\>](https://www.der-metronom.de/unternehmen/aktuelles/seite/2/)
+ Uelzen - 08.01.2024
+
+ Die Landesnahverkehrsgesellschaft...
