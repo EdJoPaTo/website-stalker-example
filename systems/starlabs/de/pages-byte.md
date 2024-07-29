@@ -118,16 +118,7 @@ For display out.
 
 5.5mm power connector.
 
- Open-source
- firmware
-
-powered by
-
-coreboot
-
-and
-
-edk II.
+Open-source firmware powered by coreboot and edk II.
 
 Measured Boot
 

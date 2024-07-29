@@ -88,16 +88,7 @@ For simple connectivity.
 
 For audio output.
 
- Open-source
- firmware
-
-powered by
-
-coreboot
-
-and
-
-edk II.
+Open-source firmware powered by coreboot and edk II.
 
 Measured Boot
 
@@ -246,6 +237,6 @@ Your way.
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-Dispatch in 7 - 8 working days
+Dispatch in 1 - 2 working days
 
 [Configure](/products/starlite)
