@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Fehlerhafte elektronische Auskunft](https://www.der-metronom.de/aktuell/fehlerhafte-elektronische-auskunft/)
+
+ Uelzen - 30.07.2024
+
+Moin zusammen!
+Seit Dienstagmorgen gibt es einen Fehler in der Schnittstelle zwischen den Fahrplandaten der Züge und unserer Website. Daher sind keine aktuellen Verkehrsmeldungen und keine korrekten Daten in der Abfahrtstafel verfügbar. Unser Dienstleister, der die Daten an die Schnittstelle...
+
 [Wir bleiben … ehrlich: ab 30.07. „stabiles Angebot“ für alle metronom-Strecken](https://www.der-metronom.de/aktuell/wir-bleiben-...-ehrlich-ab-30-07-stabiles-angebot-fuer-alle-metronom-strecken)
 
  Uelzen - 24.07.2024

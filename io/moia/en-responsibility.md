@@ -30,9 +30,3 @@ We take action for a better life in the cities
 Corporate responsibility has been our driving force for as long as we have existed. Sustainable commitment therefore goes beyond our own service and is defined with clear goals and areas of action in our Corporate Responsibility Guidelines\*. We are also involved in four of the 17 United Nations Sustainable Development Goals (09, 11, 13, 17) and are committed to climate-friendly mobility for sustainable cities, industries and infrastructures, among other things.
 
 We also promote social sustainability by supporting local initiatives that work for a better life in the city in the long term. We even get involved in campaigns for Environment Day or sustainable events such as the Green City in Hamburg. And beyond that, we rely on regular dialogue with our stakeholders to create a common awareness of current sustainability issues, to share knowledge - and to grow together as a result.
-
-### Good to know ###
-
-\*) Find more insights about our Corporate Responsibility Guidelines.
-
-[Guidelines PDF](https://www.moia.io/umweltrichtlinie/220802-Legal_Compliance_Richtlinie17_EN.pdf)
