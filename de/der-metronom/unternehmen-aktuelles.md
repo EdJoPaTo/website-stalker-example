@@ -43,11 +43,3 @@ Moin liebe Fahrgäste,aufgrund einer Baustelle im Hauptbahnhof Hannover steht do
  21.06.2024
 
 Das Wetter zeigt sich in diesen Tagen leider nicht von seiner besten Seite. Der Sommer macht insgesamt einen eher trüben Eindruck. Trotzdem lassen sich Radprofis und Freizeitradler nicht entmutigen und nutzen jede trockene Phase für Ausflüge mit dem Fahrrad. Ein beliebtes Verkehrsmittel ist...
-
-[Endstation für die metronom-App](https://www.der-metronom.de/aktuell/endstation-fuer-die-metronom-app/)
-
- Uelzen - 01.02.2024
-
-Ahoi zusammen!
-Der Zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen gehäuft. Ärgerlich für euch als Fahrgäste und Herausforderung für uns als Anbieter der App.
-Aufgrund vermehrter...
