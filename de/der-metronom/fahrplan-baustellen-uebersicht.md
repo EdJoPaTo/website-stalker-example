@@ -18,9 +18,17 @@ RE2 Uelzen - Celle - Hannover
 
 [29.07.2024 - 03.08.2024 RE2/RE3 nächtliche Teilausfälle zwischen Uelzen - Celle - Hannover sowie Haltausfälle in Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-sowie-haltausfaelle-in-northeim-und-noerten-hardenberg/)
 
+[08.08.2024 - 12.08.2024 RE2/RE3 nächtliche Teilausfälle Hannover \<\> Sarstedt \<\> Banteln und Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-hannover-sarstedt-banteln-und-hannover-celle-uelzen/)
+
+[14.08.2024 - 18.08.2024 RE2/RE3 nächtliche Haltausfälle in Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-haltausfaelle-in-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-hannover-celle-uelzen/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [29.07.2024 - 03.08.2024 RE2/RE3 nächtliche Teilausfälle zwischen Uelzen - Celle - Hannover sowie Haltausfälle in Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-sowie-haltausfaelle-in-northeim-und-noerten-hardenberg/)
+
+[08.08.2024 - 12.08.2024 RE2/RE3 nächtliche Teilausfälle Hannover \<\> Sarstedt \<\> Banteln und Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-hannover-sarstedt-banteln-und-hannover-celle-uelzen/)
+
+[14.08.2024 - 18.08.2024 RE2/RE3 nächtliche Haltausfälle in Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-haltausfaelle-in-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-hannover-celle-uelzen/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
