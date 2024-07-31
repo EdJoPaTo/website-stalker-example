@@ -806,7 +806,6 @@
 * [Osterhase](https://www.wdrmaus.de/filme/sachgeschichten/osterhase.php5)
 * [Pantomine Karamelbonbon](https://www.wdrmaus.de/filme/sachgeschichten/pantomime_karamelbonbon.php5)
 * [Papageien](https://www.wdrmaus.de/filme/sachgeschichten/papageien.php5)
-* [Papageien](https://www.wdrmaus.de/extras/mausthemen/tiere/filme/papageien.php5)
 * [Papierboot](https://www.wdrmaus.de/filme/sachgeschichten/papierboot.php5)
 * [Papierfalten](https://www.wdrmaus.de/filme/sachgeschichten/papierfalten.php5)
 * [Papierrecycling](https://www.wdrmaus.de/filme/sachgeschichten/papierrecycling.php5)
