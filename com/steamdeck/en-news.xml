@@ -6,6 +6,80 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: July 30th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4513254648320322043</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jul 30, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						The friends list will now show a Steam Deck icon, instead of a gamepad icon, if the other user is playing on a Steam Deck
+						<br>
+					</li>
+					<li>
+						Replaced the friends list VR icon with a new graphic that also matches the in-game or online friend state color
+						<br>
+					</li>
+					<li>
+						Fixed a few spots where tooltips were causing unexpected word wrap
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording Beta
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed instances of failing to capture video data after multiple game launches.
+						<br>
+					</li>
+					<li>
+						Fixed cropped video capture when an external display is connected or disconnected after startup.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Recordings & Screenshots
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed error that could happen when opening the Recordings & Screenshots dialog before necessary data had loaded in
+						<br>
+					</li>
+					<li>
+						Added support for "Send to Phone" share option to screenshots
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513254648320322043" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: July 26th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4513254014350467571</link>
 			<content:encoded><![CDATA[<html>
@@ -209,176 +283,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4517756980044337063" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: July 16th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4517756980044068772</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jul 16, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improvements to keyboard event tracking and audio latency in updated SDL build
-						<br>
-					</li>
-					<li>
-						Improved timeout logic when establishing initial connection from UI layer to steam client's API layer
-						<br>
-					</li>
-					<li>
-						Improved client startup performance
-						<br>
-					</li>
-					<li>
-						Fixed controller input no longer going to game after resuming from sleep if a wake movie is set.
-						<br>
-					</li>
-					<li>
-						Fixed broken thumbnail for screenshots from non-steam game shortcuts uploaded to steam, when viewed from another computer
-						<br>
-					</li>
-					<li>
-						Fixed a case that game server / server browser lists would re-fetch when only re-ping on existing list was requested
-						<br>
-					</li>
-					<li>
-						Fixed a crash that could occur at exit while cleaning up websockets
-						<br>
-					</li>
-					<li>
-						Fixed some games with achievements showing as "No Achievements" when sorting grids or shelves by achievement percentage.
-						<br>
-					</li>
-					<li>
-						Fixed certain apps disappearing from Recent Games after a client restart.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved thumbnail smoothness when mouse tracking across different highlights / regions on the timeline
-						<br>
-					</li>
-					<li>
-						Added a max framerate setting. Currently supports 30 or 60 fps.
-						<br>
-					</li>
-					<li>
-						Fixed issue preventing default .mp4 file extension from being applied to user saved files if the user did not type an extension along with the filename
-						<br>
-					</li>
-					<li>
-						Fixed a bug causing the live timeline edge to deviate from the actual live edge of the current recording
-						<br>
-					</li>
-					<li>
-						Fixed a bug that caused clips to lose their thumbnails when sent from one computer to another.
-						<br>
-					</li>
-					<li>
-						Fixed game timeline markers not being downloaded in rare cases.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed Ctrl-F not focusing search box in library
-					</li>
-				</ul>
-				<br>
-				<b>
-					Clock and Timer
-				</b>
-				<br>
-				<ul>
-					<li>
-						New Clock app in the Steam Overlay that can optionally be pinned on top of games.
-						<br>
-					</li>
-					<li>
-						Improved Timer UI.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Big Picture
-				</b>
-				<br>
-				<ul>
-					<li>
-						Add warnings to game recording overlay page when broadcasting / remote playing
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Simplify encoding options to a hardware encoding enable checkbox
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed for SIAPI GetMotionData not returning any information on every controller but the first one plugged in.
-						<br>
-					</li>
-					<li>
-						Fix for Okami HD Brush and Fishing Rod game actions
-					</li>
-				</ul>
-				<br>
-				Note: This beta was re-released with additional changes:
-				<br>
-				<ul>
-					<li>
-						Fixed save file dialog in overlay sometimes replacing part of the file name with the file extension.
-						<br>
-					</li>
-					<li>
-						Fixed an issue where demos would not show a play button after changing accounts.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4517756980044068772" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
