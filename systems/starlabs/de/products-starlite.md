@@ -1,9 +1,11 @@
-Fast shipping or Save €119,00¹!
+Availability
+
+Limited configurations are available for immediate shipping. Other configurations are In-Production and available to order with a discount.
 
 In-Stock: Same-day shipping
-In-Production: Super Early Bird Savings
+In-Production: Super Early Bird Savings - Save €119,00!¹
 
-This exclusive offer is available for a limited time. The discount is automatically applied at checkout.
+In-Production offer is available for a limited time and automatically applied at checkout.
 
 ¹ Whilst stocks last.
 
@@ -212,6 +214,7 @@ USB-C to USB-A Adapter
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
+
 Dispatch in 1 - 2 working days
 
  Add to Basket
