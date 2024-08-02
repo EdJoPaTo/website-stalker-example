@@ -1,10 +1,8 @@
-Byte 2.0
+StarBook 7
 
-Mini PC
+625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Thunderbolt 4 PortsAvailable with Intel Ultra 7 ProcessorsUp to 96GB of DDR5 memory
 
- With its dual network interface controllers (NICs) and dual video outputs, the Byte Mk II is engineered for unparalleled connectivity. But more than just performance, we know that Linux users value open-source principles and robust security. That's why we've equipped the Byte Mk II with coreboot firmware, an open-source alternative to traditional BIOS, offering advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
-
-[Explore](/pages/byte) [Buy now](/products/byte)
+[Learn more](/pages/starbook)  Notify Me When Available
 
 StarLite 5
 
@@ -27,6 +25,8 @@ StarLite 5
 [](https://mastodon.social/@starlabssystems)
 
 [Explore](/pages/starlite) [Buy now](/products/starlite)
+
+Limited configurations available for same-day dispatch!
 
 Browse our range
 
