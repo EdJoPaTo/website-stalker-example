@@ -20,8 +20,6 @@ Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A,
 
 ### [UGREEN Nexode Pro 65W 3-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/nexode-pro-65w-3-port-gan-mini-fast-charger) ###
 
-### [UGREEN Nexode Pro 65W 3-Port Ultra-Slim GaN Fast Charger](https://eu.ugreen.com/products/nexode-pro-65w-3-port-ultra-slim-gan-fast-charger) ###
-
 ### [Ugreen Nexode 65W 3 Ports USB C GaN Charger + 1M 60W USB C Cable](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-gan-charger-3-ports-wall-charger-1m-60w-usb-c-cable) ###
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
@@ -37,3 +35,5 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
 ### [Ugreen 145W GaN MagSafe Power Bank 20000mAh](https://eu.ugreen.com/products/ugreen-100w-gan-mini-magsafe-power-station) ###
 
 Previous page Next page Previous page Next page Previous page Next page 1 4-Port Ausgang 2 3-Port Ausgang 3 2-Port Ausgang 4 1-Port Ausgang Eingang 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A,...
+
+### [Ugreen Nexode 300W GaN Wall USB-C Charger 5 Ports](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) ###
