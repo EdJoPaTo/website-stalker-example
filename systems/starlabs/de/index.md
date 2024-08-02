@@ -34,9 +34,9 @@ Browse our range
 
 [StarLite 12.5-inch Convertible](/products/starlite)
 
-[](/products/starbook)
+[](/products/starbook-mk-vi-1)
 
-[StarBook 14-inch Laptop](/products/starbook)
+[StarBook Mk VI 14-inch Laptop](/products/starbook-mk-vi-1)
 
 [](/products/byte)
 
