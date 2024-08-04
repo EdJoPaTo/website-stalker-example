@@ -285,6 +285,7 @@
 * [Fahrradkette](https://www.wdrmaus.de/filme/sachgeschichten/fahrradkette.php5)
 * [Fahrradreifen](https://www.wdrmaus.de/filme/sachgeschichten/fahrradreifen.php5)
 * [Fahrradreifen aus Löwenzahn](https://www.wdrmaus.de/filme/sachgeschichten/fahrradreifen_aus_loewenzahn.php5)
+* [Fahrradreifen: Pannenschutz](https://www.wdrmaus.de/filme/sachgeschichten/fahrradreifen_pannenschutz.php5)
 * [Fallschirm](https://www.wdrmaus.de/filme/sachgeschichten/fallschirm.php5)
 * [Faltenrock](https://www.wdrmaus.de/filme/sachgeschichten/faltenrock.php5)
 * [Faultier](https://www.wdrmaus.de/filme/sachgeschichten/faultier.php5)
