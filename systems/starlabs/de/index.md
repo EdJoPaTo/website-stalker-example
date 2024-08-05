@@ -1,6 +1,6 @@
 StarBook 7
 
-625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Thunderbolt 4 Ports\*Available with Intel Ultra 7 ProcessorsUp to 96GB of DDR5 memory
+625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Thunderbolt 4 Ports\*Available with Intel Ultra 7 ProcessorsUp to 96GB of DDR5 memory\*
 
 [Learn more](/pages/starbook)  Notify Me When Available
 
