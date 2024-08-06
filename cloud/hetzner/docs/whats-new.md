@@ -3,6 +3,22 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner Cloud platform.
 
+August 2024
+----------
+
+Aug 06
+
+### Hetzner Goes Singapore! – New location available ###
+
+[](https://docs.hetzner.cloud/whats-new#2024-08-06-hetzner-goes-singapore--new-location-available)
+
+In addition to our five existing locations, Singapore is now also available!
+
+* **Available for many products**Singapore is available for all cloud servers with AMD processors, and all cloud features.
+* **First location in Southeast Asia**Singapore, a data center hub, provides exceptional network connectivity that caters to both local and overseas connections. It also expands our offer to a total of six locations in four different countries and on three continents.
+* **Fair prices**This connectivity comes at a higher price for our products in Singapore compared to other locations. This also applies to charges for exceeding the included traffic limit. Of course, fair prices are still vital to us at Hetzner, and we always strive to provide attractive prices at all of our locations!
+* **Raffle**To celebrate the new location, we will hold a raffle with a chance to win a merch package. The top three winners will also receive either a Lego Hero or a Lego data center model. All you need to do to get your name in the hat is order a server in the new location in Singapore, test it for a month, and send a mail with your account number to "[socialmedia@hetzner.com](mailto:socialmedia@hetzner.com)". For more information, see our [terms of participation](https://www.hetzner.com/legal/giveaway).
+
 July 2024
 ----------
 
@@ -59,17 +75,17 @@ Up until now, the key combination **"ctrl / ⌘ + K"** was used to open the filt
 
 Feb 13
 
-### Duplicate Firewalls ###
-
-[](https://docs.hetzner.cloud/whats-new#2024-02-13-duplicate-firewalls)
-
-The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
-
 ### Default settings for server creation ###
 
 [](https://docs.hetzner.cloud/whats-new#2024-02-13-default-settings-for-server-creation)
 
 The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
+
+### Duplicate Firewalls ###
+
+[](https://docs.hetzner.cloud/whats-new#2024-02-13-duplicate-firewalls)
+
+The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
 
 December 2023
 ----------
@@ -286,11 +302,11 @@ September 2022
 
 Sep 29
 
-### Improved user experience for notifications ###
+### Redesign of the server, Load Balancer, and Firewall creation pages ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-09-29-improved-user-experience-for-notifications)
+[](https://docs.hetzner.cloud/whats-new#2022-09-29-redesign-of-the-server-load-balancer-and-firewall-creation-pages)
 
-For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
+The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
 
 ### Improved user experience for notifications ###
 

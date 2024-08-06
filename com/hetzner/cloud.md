@@ -2,12 +2,16 @@ Hetzner Cloud
 
 AWARD-WINNING VPS HOSTING
 
-AT IMPOSSIBLY LOW PRICES!
+AT incredibly LOW PRICES!
 
 ==========
 
  The best simple cloud solution that your demanding
 projects deserve.
+
+ New Location:
+
+ Hetzner goes Singapore
 
  Choose your favorite Cloud Server
 ----------
@@ -63,6 +67,10 @@ In our shared vCPU plans, you share the hardware resources with "neighbors", so 
 
  Your server's bill will never exceed its monthly price cap. If you delete your cloud server before the end of the billing month, we will only bill you for the hourly rate. We will bill you for each cloud server until you choose to delete them.
 
+×
+
+ You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)
+
 High quality Cloud – unbeatable prices
 ----------
 
@@ -84,6 +92,12 @@ Efficient Arm64 architecture with Ampere® Altra® processors.
 
 Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 processors.
 
+ Location
+
+ Germany  Finland  Germany  Finland  United States  Singapore  Germany  Finland  Germany  Finland  United States  Singapore
+
+FSN-1 NBG-1 HEL-1 HIL ASH SIN
+
  Primary IPv4 IPv6 only
 
  save € 0.60
@@ -96,9 +110,11 @@ Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 pr
 
  Traffic
 
- IPv4
+[]()
 
- Locations
+ You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)
+
+ IPv4
 
  Hourly
 
@@ -124,21 +140,19 @@ Monthly
 
  40 GB
 
- Traffic
+ Traffic []()
 
  20 TB
 
  IPv4
 
- Locations
-
  Hourly []()
 
 Monthly
 
- € 0.0071  € 0.0061
+ € 0.0071  € 0.0061  € 0.0071  € 0.0061
 
- € 4.51  € 3.92  max.
+ € 4.51  € 3.92  € 4.51  € 3.92  max.
 
  Server
 
@@ -156,21 +170,19 @@ Monthly
 
  80 GB
 
- Traffic
+ Traffic []()
 
  20 TB
 
  IPv4
 
- Locations
-
  Hourly []()
 
 Monthly
 
- € 0.0134  € 0.0124
+ € 0.0134  € 0.0124  € 0.0134  € 0.0124
 
- € 8.09  € 7.50  max.
+ € 8.09  € 7.50  € 8.09  € 7.50  max.
 
  Server
 
@@ -188,21 +200,19 @@ Monthly
 
  160 GB
 
- Traffic
+ Traffic []()
 
  20 TB
 
  IPv4
 
- Locations
-
  Hourly []()
 
 Monthly
 
- € 0.0325  € 0.0315
+ € 0.0325  € 0.0315  € 0.0325  € 0.0315
 
- € 19.52  € 18.92  max.
+ € 19.52  € 18.92  € 19.52  € 18.92  max.
 
  Server
 
@@ -220,21 +230,19 @@ Monthly
 
  320 GB
 
- Traffic
+ Traffic []()
 
  20 TB
 
  IPv4
 
- Locations
-
  Hourly []()
 
 Monthly
 
- € 0.0643  € 0.0633
+ € 0.0643  € 0.0633  € 0.0643  € 0.0633
 
- € 38.56  € 37.96  max.
+ € 38.56  € 37.96  € 38.56  € 37.96  max.
 
  Server
 
@@ -252,21 +260,19 @@ Monthly
 
  40 GB
 
- Traffic
+ Traffic []()
 
- 20 TB
+ 1TB  20 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.0084  € 0.0074
+ € 0.0084  € 0.0074  € 0.0084  € 0.0074  € 0.0084  € 0.0074  € 0.0151  € 0.0141
 
- € 5.18  € 4.59  max.
+ € 5.18  € 4.59  € 5.18  € 4.59  € 5.18  € 4.59  € 9.40  € 8.81  max.
 
  Server
 
@@ -284,21 +290,19 @@ Monthly
 
  80 GB
 
- Traffic
+ Traffic []()
 
- 20 TB
+ 2TB  20 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.0143  € 0.0133
+ € 0.0143  € 0.0133  € 0.0143  € 0.0133  € 0.0143  € 0.0133  € 0.0278  € 0.0268
 
- € 8.98  € 8.39  max.
+ € 8.98  € 8.39  € 8.98  € 8.39  € 8.98  € 8.39  € 17.37  € 16.78  max.
 
  Server
 
@@ -316,21 +320,19 @@ Monthly
 
  160 GB
 
- Traffic
+ Traffic []()
 
- 20 TB
+ 3TB  20 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.0261  € 0.0251
+ € 0.0261  € 0.0251  € 0.0261  € 0.0251  € 0.0261  € 0.0251  € 0.0482  € 0.0472
 
- € 16.18  € 15.59  max.
+ € 16.18  € 15.59  € 16.18  € 15.59  € 16.18  € 15.59  € 30.11  € 29.51  max.
 
  Server
 
@@ -348,21 +350,19 @@ Monthly
 
  240 GB
 
- Traffic
+ Traffic []()
 
- 20 TB
+ 4TB  20 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.0496  € 0.0486
+ € 0.0496  € 0.0486  € 0.0496  € 0.0486  € 0.0496  € 0.0486  € 0.0822  € 0.0812
 
- € 29.99  € 29.40  max.
+ € 29.99  € 29.40  € 29.99  € 29.40  € 29.99  € 29.40  € 51.29  € 50.69  max.
 
  Server
 
@@ -380,21 +380,19 @@ Monthly
 
  360 GB
 
- Traffic
+ Traffic []()
 
- 20 TB
+ 5 TB  20 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.1047  € 0.1037
+ € 0.1047  € 0.1037  € 0.1047  € 0.1037  € 0.1047  € 0.1037  € 0.1476  € 0.1466
 
- € 65.33  € 64.74  max.
+ € 65.33  € 64.74  € 65.33  € 64.74  € 65.33  € 64.74  € 92.11  € 91.51  max.
 
  Server
 
@@ -412,21 +410,19 @@ Monthly
 
  40 GB
 
- Traffic
+ Traffic []()
 
  20 TB
 
  IPv4
 
- Locations
-
  Hourly []()
 
 Monthly
 
- € 0.0070  € 0.0060
+ € 0.0070  € 0.0060  € 0.0070  € 0.0060
 
- € 4.51  € 3.92  max.
+ € 4.51  € 3.92  € 4.51  € 3.92  max.
 
  Server
 
@@ -444,21 +440,19 @@ Monthly
 
  80 GB
 
- Traffic
+ Traffic []()
 
  20 TB
 
  IPv4
 
- Locations
-
  Hourly []()
 
 Monthly
 
- € 0.0120  € 0.0110
+ € 0.0120  € 0.0110  € 0.0120  € 0.0110
 
- € 7.72  € 7.13  max.
+ € 7.72  € 7.13  € 7.72  € 7.13  max.
 
  Server
 
@@ -476,21 +470,19 @@ Monthly
 
  160 GB
 
- Traffic
+ Traffic []()
 
  20 TB
 
  IPv4
 
- Locations
-
  Hourly []()
 
 Monthly
 
- € 0.0240  € 0.0230
+ € 0.0240  € 0.0230  € 0.0240  € 0.0230
 
- € 14.86  € 14.27  max.
+ € 14.86  € 14.27  € 14.86  € 14.27  max.
 
  Server
 
@@ -508,21 +500,19 @@ Monthly
 
  320 GB
 
- Traffic
+ Traffic []()
 
  20 TB
 
  IPv4
 
- Locations
-
  Hourly []()
 
 Monthly
 
- € 0.0470  € 0.0460
+ € 0.0470  € 0.0460  € 0.0470  € 0.0460
 
- € 29.14  € 28.55  max.
+ € 29.14  € 28.55  € 29.14  € 28.55  max.
 
  Server
 
@@ -540,21 +530,19 @@ Monthly
 
  80 GB
 
- Traffic
+ Traffic []()
 
- 20 TB
+ 1TB  20 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.0238  € 0.0228
+ € 0.0238  € 0.0228  € 0.0238  € 0.0228  € 0.0238  € 0.0228  € 0.0411  € 0.0401
 
- € 14.86  € 14.27  max.
+ € 14.86  € 14.27  € 14.86  € 14.27  € 14.86  € 14.27  € 25.59  € 24.99  max.
 
  Server
 
@@ -572,21 +560,19 @@ Monthly
 
  160 GB
 
- Traffic
+ Traffic []()
 
- 20 TB
+ 2TB  20 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.0466  € 0.0456
+ € 0.0466  € 0.0456  € 0.0466  € 0.0456  € 0.0466  € 0.0456  € 0.0760  € 0.0750
 
- € 29.14  € 28.55  max.
+ € 29.14  € 28.55  € 29.14  € 28.55  € 29.14  € 28.55  € 47.48  € 46.89  max.
 
  Server
 
@@ -604,21 +590,19 @@ Monthly
 
  240 GB
 
- Traffic
+ Traffic []()
 
- 30 TB
+ 3TB  30 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.0925  € 0.0915
+ € 0.0925  € 0.0915  € 0.0925  € 0.0915  € 0.0925  € 0.0915  € 0.1428  € 0.1418
 
- € 57.70  € 57.11  max.
+ € 57.70  € 57.11  € 57.70  € 57.11  € 57.70  € 57.11  € 89.13  € 88.54  max.
 
  Server
 
@@ -636,21 +620,19 @@ Monthly
 
  360 GB
 
- Traffic
+ Traffic []()
 
- 40 TB
+ 4TB  40 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.1840  € 0.1830
+ € 0.1840  € 0.1830  € 0.1840  € 0.1830  € 0.1840  € 0.1830  € 0.2623  € 0.2613
 
- € 114.82  € 114.23  max.
+ € 114.82  € 114.23  € 114.82  € 114.23  € 114.82  € 114.23  € 163.63  € 163.03  max.
 
  Server
 
@@ -668,21 +650,19 @@ Monthly
 
  600 GB
 
- Traffic
+ Traffic []()
 
- 50 TB
+ 6TB  50 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.3671  € 0.3661
+ € 0.3671  € 0.3661  € 0.3671  € 0.3661  € 0.3671  € 0.3661  € 0.5617  € 0.5607
 
- € 229.06  € 228.47  max.
+ € 229.06  € 228.47  € 229.06  € 228.47  € 229.06  € 228.47  € 350.46  € 349.86  max.
 
  Server
 
@@ -700,21 +680,19 @@ Monthly
 
  960 GB
 
- Traffic
+ Traffic []()
 
- 60 TB
+ 8TB  60 TB
 
  IPv4
-
- Locations
 
  Hourly []()
 
 Monthly
 
- € 0.5501  € 0.5491
+ € 0.5501  € 0.5491  € 0.5501  € 0.5491  € 0.5501  € 0.5491  € 0.9201  € 0.9191
 
- € 343.30  € 342.71  max.
+ € 343.30  € 342.71  € 343.30  € 342.71  € 343.30  € 342.71  € 574.18  € 573.58  max.
 
 [Get started](https://console.hetzner.cloud/)
 
@@ -742,6 +720,10 @@ Cloud Locations
 
  USA
 
+ New
+
+ Singapore
+
 Hetzner Cloud products in Nuremberg and Falkenstein run on servers in our own Hetzner data center parks in Germany.
 
 A video-monitored, high-security perimeter surrounding the entire data center park and access control systems guarantee the highest security level.
@@ -761,6 +743,12 @@ Hetzner Cloud products in Ashburn, Virginia, and Hillsboro, Oregon, run on our o
  Data security is our top priority. For this reason, we are the only ones in control over the usage of our Hetzner servers in the data centers in Ashburn and Hillsboro.
 
  At both locations, we provide AMD-based cloud servers and cloud features. The Ashburn location is in a region nicknamed "Data Center Alley", which is one of the most highly trafficked regions in North America. The Hillsboro location is in a region nicknamed "Silicon Forest", and is also already known for an exceptional network, making our proximity to both locations ideal.
+
+We operate Hetzner Cloud products in Singapore on Hetzner’s own servers in third-party data centers. With this first location in the Asia-Pacific region, we are expanding our offering and ensuring low latency for even more customers.
+
+Data security is our top priority. That’s why only we are using our own servers in Singapore.
+
+In Singapore our shared and dedicated VPS with AMD processors and cloud features are available. The location in the heart of Asia enables fast connections to important markets such as China, India and Japan. With a sophisticated network infrastructure and numerous international submarine cable connections, Singapore offers exceptionally high data speeds and excellent connectivity throughout the Asia-Pacific region.
 
 FEATURES
 ----------
@@ -819,15 +807,11 @@ Ubuntu, Debian, Fedora, and more – you have a wide variety of operating system
 
 ### TRAFFIC ###
 
-With at least 20 TB of included traffic, you’ll have lots of bandwidth for your projects, regardless of which Hetzner Cloud package you choose. But if you need, you may add more for an extra € 1.19 a month per TB.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.19 in the EU and US, and € 8.81 in Singapore.
 
 ### APPS ###
 
 Docker, WordPress, Nextcloud, and more – Our apps provide you easy access to often used software. Simply select an app when creating your server and get started with ready to use software already preinstalled.
-
-### LOCATION ###
-
-We host our cloud instances in our own data centers in Nuremberg and Falkenstein (Germany) and in Helsinki (Finland). In Ashburn, Virginia and Hillsboro, Oregon (USA), we also provide AMD-based cloud servers and cloud features. We operate all of our data centers in accordance with strict European data protection regulations.
 
 ### DDoS protection ###
 
@@ -901,7 +885,7 @@ Frequently Asked Questions
 
 * **Will you add additional locations in different geographic regions?**
 
-  We recently added Ashburn, Virginia and Hillsboro, Oregon (USA) as new locations for Hetzner Cloud servers and other Cloud features. Our development team is always on the lookout for other geographic locations where we might provide Hetzner Cloud services in the future.
+  We have continuously expanded our cloud locations in recent years. In addition to Germany and Finland, we now also have international locations in Ashburn, Virginia; Hillsboro, Oregon (USA) and Singapore. We are constantly examining possible future locations. If you don’t want to miss the opening of a new location, subscribe to our [newsletter](https://www.hetzner.com/newsroom/newsletter/) or follow us on our social media channels.
 
 * **Is there a library to access Hetzner Cloud from my programming language?**
 
