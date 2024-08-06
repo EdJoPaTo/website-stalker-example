@@ -8,9 +8,9 @@ August 2024
 
 Aug 06
 
-### Hetzner Goes Singapore! – New location available ###
+### Hetzner Goes Singapore – New location available 🇸🇬 ###
 
-[](https://docs.hetzner.cloud/whats-new#2024-08-06-hetzner-goes-singapore--new-location-available)
+[](https://docs.hetzner.cloud/whats-new#2024-08-06-hetzner-goes-singapore---new-location-available-)
 
 In addition to our five existing locations, Singapore is now also available!
 
