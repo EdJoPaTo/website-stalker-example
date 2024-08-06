@@ -182,7 +182,7 @@ Head of Communications for PR and Public Affairs
 
 David Gölnitz
 
-Communications Manager
+Pressesprecher / Senior Communications Manager
 
 [\+4915228465411](tel:+4915228465411)
 
