@@ -22,16 +22,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 Moin zusammen!
 Der Zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen und Monaten der Nutzung gehäuft. Immer wieder habt Ihr Euch deshalb und auch zurecht bei unserem Kundenservice beschwert....
 
-[Wir bleiben … ehrlich: ab 30.07. „stabiles Angebot“ für alle metronom-Strecken](https://www.der-metronom.de/aktuell/wir-bleiben-...-ehrlich-ab-30-07-stabiles-angebot-fuer-alle-metronom-strecken)
-
- Uelzen - 24.07.2024
-
-Liebe Fahrgäste,
-so macht Bahnfahren keinen Spaß – weder Euch noch uns!
-Wir sind uns bewusst, dass die letzten Wochen für viele von Euch nervenaufreibend und frustrierend waren. Es sind einfach zu viele Züge ausgefallen.
-Um ehrlich zu sein:
-Für die Anzahl der (geplanten) Zugfahrten gibt es...
-
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
  Uelzen - 25.06.2024
