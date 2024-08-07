@@ -27,9 +27,3 @@ Der Zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze
  Uelzen - 25.06.2024
 
 Moin liebe Fahrgäste,aufgrund einer Baustelle im Hauptbahnhof Hannover steht dort derzeit planmäßig nur ein Gleis für die ankommenden und abfahrenden metronom-Züge zur Verfügung. Das bedeutet, dass alle Züge in Hannover Hbf wenden und in entgegengesetzter Richtung zurückfahren müssen. Ausgenommen...
-
-[Gleichbleibende Wagenreihung: Wo ist der Fahrradwagen?](https://www.der-metronom.de/aktuell/gleichbleibende-wagenreihung-wo-ist-der-fahrradwagen/)
-
- 21.06.2024
-
-Das Wetter zeigt sich in diesen Tagen leider nicht von seiner besten Seite. Der Sommer macht insgesamt einen eher trüben Eindruck. Trotzdem lassen sich Radprofis und Freizeitradler nicht entmutigen und nutzen jede trockene Phase für Ausflüge mit dem Fahrrad. Ein beliebtes Verkehrsmittel ist...
