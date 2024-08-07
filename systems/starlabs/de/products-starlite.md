@@ -5,7 +5,7 @@ Limited configurations are available for immediate shipping. Other configuration
 In-Stock: Same-day shipping
 In-Production: Super Early Bird Savings - Save €119,00!¹
 
-In-Production offer is available for a limited time and automatically applied at checkout.
+ In-Production offer is available for a limited time and automatically applied at checkout.
 
 ¹ Whilst stocks last.
 
