@@ -94,7 +94,7 @@ Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 pr
 
  Location
 
- Germany  Finland  Germany  Finland  United States  Singapore  Germany  Finland  Germany  Finland  United States  Singapore
+ Germany  Finland  Germany  Finland  USA  Singapore  Germany  Finland  Germany  Finland  USA  Singapore
 
 FSN-1 NBG-1 HEL-1 HIL ASH SIN
 
@@ -108,7 +108,7 @@ FSN-1 NBG-1 HEL-1 HIL ASH SIN
 
  NVMe SSD
 
- Traffic
+ Traffic incl.
 
 []()
 
@@ -140,7 +140,7 @@ Monthly
 
  40 GB
 
- Traffic []()
+ Traffic incl. []()
 
  20 TB
 
@@ -170,7 +170,7 @@ Monthly
 
  80 GB
 
- Traffic []()
+ Traffic incl. []()
 
  20 TB
 
@@ -200,7 +200,7 @@ Monthly
 
  160 GB
 
- Traffic []()
+ Traffic incl. []()
 
  20 TB
 
@@ -230,7 +230,7 @@ Monthly
 
  320 GB
 
- Traffic []()
+ Traffic incl. []()
 
  20 TB
 
@@ -260,7 +260,7 @@ Monthly
 
  40 GB
 
- Traffic []()
+ Traffic incl. []()
 
  1TB  20 TB
 
@@ -290,7 +290,7 @@ Monthly
 
  80 GB
 
- Traffic []()
+ Traffic incl. []()
 
  2TB  20 TB
 
@@ -320,7 +320,7 @@ Monthly
 
  160 GB
 
- Traffic []()
+ Traffic incl. []()
 
  3TB  20 TB
 
@@ -350,7 +350,7 @@ Monthly
 
  240 GB
 
- Traffic []()
+ Traffic incl. []()
 
  4TB  20 TB
 
@@ -380,7 +380,7 @@ Monthly
 
  360 GB
 
- Traffic []()
+ Traffic incl. []()
 
  5 TB  20 TB
 
@@ -410,7 +410,7 @@ Monthly
 
  40 GB
 
- Traffic []()
+ Traffic incl. []()
 
  20 TB
 
@@ -440,7 +440,7 @@ Monthly
 
  80 GB
 
- Traffic []()
+ Traffic incl. []()
 
  20 TB
 
@@ -470,7 +470,7 @@ Monthly
 
  160 GB
 
- Traffic []()
+ Traffic incl. []()
 
  20 TB
 
@@ -500,7 +500,7 @@ Monthly
 
  320 GB
 
- Traffic []()
+ Traffic incl. []()
 
  20 TB
 
@@ -530,7 +530,7 @@ Monthly
 
  80 GB
 
- Traffic []()
+ Traffic incl. []()
 
  1TB  20 TB
 
@@ -560,7 +560,7 @@ Monthly
 
  160 GB
 
- Traffic []()
+ Traffic incl. []()
 
  2TB  20 TB
 
@@ -590,7 +590,7 @@ Monthly
 
  240 GB
 
- Traffic []()
+ Traffic incl. []()
 
  3TB  30 TB
 
@@ -620,7 +620,7 @@ Monthly
 
  360 GB
 
- Traffic []()
+ Traffic incl. []()
 
  4TB  40 TB
 
@@ -650,7 +650,7 @@ Monthly
 
  600 GB
 
- Traffic []()
+ Traffic incl. []()
 
  6TB  50 TB
 
@@ -680,7 +680,7 @@ Monthly
 
  960 GB
 
- Traffic []()
+ Traffic incl. []()
 
  8TB  60 TB
 
@@ -711,18 +711,10 @@ Expand your cloud instance with high-availability SSD block storage for € 0.05
 
 [Get started](https://console.hetzner.cloud/)
 
-Cloud Locations
+ Cloud Locations
 ----------
 
- Germany
-
- Finland
-
- USA
-
- New
-
- Singapore
+ Germany  Finland  USA  New  Singapore
 
 Hetzner Cloud products in Nuremberg and Falkenstein run on servers in our own Hetzner data center parks in Germany.
 
