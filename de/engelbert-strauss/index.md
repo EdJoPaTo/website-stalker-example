@@ -1,111 +1,76 @@
-###  SOMMER SALE  ###
+[The perfect match: Bundhose e.s.iconic](https://www.engelbert-strauss.de/bundhosen/bundhose-e-s-iconic-3163230-66661-1845.html?itemorigin=StartseiteHW24)
 
----
+ Jetzt auch ungefärbt in der neuen Farbe RAW COTTON
 
- Bis zu 50%
-sparen
+ limited edition
+
+ NFL X Strauss
 ----------
 
 ---
 
-[% Schuhe](https://www.engelbert-strauss.de/sale-schuhe/?itemorigin=startseite&sort=newest)
+ Comeback: NFL X Strauss geht endlich weiter!
+Mit neuen Highlights für Herren, Damen und Kinder.
 
-[% Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?itemorigin=startseite&sort=newest)
+[jetzt entdecken](https://www.engelbert-strauss.de/NFL)
 
-[% Bekleidung](https://www.engelbert-strauss.de/sale-bekleidung/?itemorigin=startseite&sort=newest)
+[alle Produkte](https://www.engelbert-strauss.de/nfl-x-strauss/)
 
-[% zu allen Angeboten](https://www.engelbert-strauss.de/sale/?itemorigin=startseite&sort=newest)
-
- Für harte Arbeit
-an heissen Tagen
-----------
+###  Weitere Neuheiten entdecken  ###
 
 ---
 
- Unsere e.s.iconic - jetzt auch mit Sommer-Styles
+ Neue Warnschutz-Teamwear
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/)
-
-[zur e.s.iconic Kollektion](https://www.engelbert-strauss.de/iconic)
-
- Luftig, sportlich,
-beweglich
-----------
+###  e.s.motion 24/7  ###
 
 ---
 
- Komfort für heiße Tage: neue Sommer-Trends im coolen e.s.trail-Style.
+[jetzt entdecken](https://www.engelbert-strauss.de/motion-24-7)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-trail-damen/)
+[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-24-7/?sort=newest)
 
-[zur e.s.trail Kollektion](https://www.engelbert-strauss.de/trail)
+[Warnschutz jetzt auch im Damenschnitt!](https://www.engelbert-strauss.de/e-s-motion-24-7-damen/)
 
- Sommer, Sonne,
-Leichtigkeit
-----------
+ vielseitige Reisetaschen
 
----
-
- Mit der e.s.motion ten Sommer Kollektion fallen heiße Phasen besonders leicht.
-
-[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-ten/)
-
- Sommer-Hits
----
-
- Stylischer
-UV-Schutz
----
-
- Mit der Race Sonnenbrille e.s.ambition
-
-[jetzt kaufen](https://www.engelbert-strauss.de/schutzbrillen/race-sonnenbrille-e-s-ambition-7040610-7476193-57.html?amp;itemorigin=startseite)
-
- Bleibt
-lange Cool
----
-
- Mit der e.s. Lunchbag
-
-[jetzt kaufen](https://www.engelbert-strauss.de/allroundtaschen/e-s-lunchbag-3000700-5505241-1088.html?amp;itemorigin=startseite)
-
- Abkühlung für heiße Tage
----
-
- Die neuen Badeshorts e.s.trail
-
-[Badeshort e.s.trail](https://www.engelbert-strauss.de/arbeitsshorts/badeshort-e-s-trail-3350750-87838-1587.html?amp;itemorigin=startseite)
-
-[e.s.trail Kollektion entdecken](https://www.engelbert-strauss.de/trail?amp;itemorigin=startseite)
-
-Akku-Kühlbox
-
-----------
+###  work&travel  ###
 
 ---
 
- 3 in 1 - Kühlbox
-für den Sommer
----
+[jetzt entdecken](https://www.engelbert-strauss.de/workandtravel)
 
- Praktisch für unterwegs: mit CAS-Akku, KFZ-Anschluss und Netzkabel
+[alle Produkte](https://www.engelbert-strauss.de/e-s-work-travel/?sort=newest)
 
-[jetzt kaufen](https://www.engelbert-strauss.de/kueche-haushalt/18-0-v-akku-kuehlbox-brushless-hybrid-7117390-5520590-0.html?itemorigin=Startseite)
+ schon ab
 
-[mehr Details](https://www.engelbert-strauss.de/kueche-haushalt/18-0-v-akku-kuehlbox-brushless-hybrid-7117390-5520590-0.html?itemorigin=Startseite)
+ 59,38 €
 
- Highlight
----
+ mit MwSt.
 
-Cooles Shirt gesucht?
-
-Strauss.Works!
+####  Neue Outdoor-Allrounder für Arbeit & Abenteuer  ####
 
 ---
 
-[jetzt kaufen](https://www.engelbert-strauss.de/arbeitsshirts/t-shirt-e-s-iconic-works-3107210-21855-1479.html?amp;itemorigin=Startseite)
+[e.s.trail entdecken](https://www.engelbert-strauss.de/trail)
 
-[alle T-Shirts entdecken](https://www.engelbert-strauss.de/arbeitsshirts/?itemorigin=startseite&sort=newest)
+###  Highlights  ###
+
+---
+
+[Herren](https://www.engelbert-strauss.de/#!highlights/men) [Damen](https://www.engelbert-strauss.de/#!highlights/women)
+
+[Hybrid Funktionshose e.s.trail, Herren](https://www.engelbert-strauss.de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96085-1730.html?itemorigin=StartseiteHW24)
+
+###  Alle Neuheiten entdecken  ###
+
+---
+
+[Herren](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Herren/)
+
+[Damen](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
+
+[Kinder](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Kinder/)
 
 Sie gestalten
 Wir sticken
@@ -141,54 +106,37 @@ bestellbar
 
 ---
 
- Teamwear
-==========
+Jetzt mit neuen Motiven!
 
 ---
 
-Gastro
-
-----------
+####  Brand Partnerships  ####
 
 ---
 
-[Herren](https://www.engelbert-strauss.de/gastronomiebekleidung-kochbekleidung/?itemorigin=startseite&sort=newest)
+[alle Kooperationen entdecken](https://www.engelbert-strauss.de/brand_partnerships)
 
-[Damen](https://www.engelbert-strauss.de/gastro-damen/?itemorigin=startseite&sort=newest)
-
-Medical
-
-----------
+###  Nach Kategorie shoppen  ###
 
 ---
 
-[Herren](https://www.engelbert-strauss.de/klinikbekleidung-pflegebekleidung/?itemorigin=startseite&sort=newest)
+[Bekleidung](https://www.engelbert-strauss.de/arbeitskleidung/?sort=newest)
 
-[Damen](https://www.engelbert-strauss.de/medical-damen/?itemorigin=startseite&sort=newest)
+[Schuhe](https://www.engelbert-strauss.de/arbeitsschuhe/?sort=newest)
 
- Nach Kategorie shoppen
+[Arbeitsschutz](https://www.engelbert-strauss.de/arbeitsschutz/?sort=newest)
+
+[Werkzeuge](https://www.engelbert-strauss.de/werkzeuge/?sort=newest)
+
+[Betriebsbedarf](https://www.engelbert-strauss.de/betriebsbedarf/?sort=newest)
+
+####  Newsletter abonnieren  ####
+
 ---
 
- Bekleidung
----
+ Immer als Erstes informiert sein mit dem kostenlosen Engelbert Strauss-Newsletter
 
- Schuhe
----
-
- Arbeitsschutz
----
-
- Werkzeuge
----
-
- Betriebsbedarf
----
-
- Newsletter abonnieren
-
- und exklusive Aktionen, Gutscheine & Schnäppchen sichern
-
-[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter?itemOrigin=Startseite_Strauss)
+[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
 
  30 TAGE RÜCKGABERECHT
 
