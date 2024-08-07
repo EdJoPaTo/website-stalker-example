@@ -153,7 +153,7 @@ Choose an option
 * British English
 * International English
 * Belgian
-* Danish
+* Danish(Out of stock)
 * French
 * French Canadian
 * Italian
@@ -178,7 +178,7 @@ Choose an option
 * British English
 * International English
 * Belgian
-* Danish
+* Danish(Out of stock)
 * French
 * French Canadian
 * Italian
