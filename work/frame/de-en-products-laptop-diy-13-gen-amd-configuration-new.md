@@ -337,7 +337,7 @@ The USB-C Expansion Card passes through the supported protocols on the processor
 
 Close
 
-(Out of stock)+€10
+\+€10
 
 USB-C (Green)
 
@@ -363,7 +363,7 @@ The USB-C Expansion Card passes through the supported protocols on the processor
 
 Close
 
-(Out of stock)+€10
+\+€10
 
 Additional Port Expansion Cards
 
