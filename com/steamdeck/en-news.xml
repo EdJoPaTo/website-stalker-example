@@ -6,6 +6,131 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.9 Beta: Megafixer</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4513255283370098037</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Aug 7, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Improved recovery from situations where the Steam installation could get corrupted
+						<br>
+					</li>
+					<li>
+						Fixed the frame limiter not properly applying in certain situations
+						<br>
+					</li>
+					<li>
+						Fixed certain specific refresh rates failing to apply on the OLED Limited Edition model
+						<br>
+					</li>
+					<li>
+						Fixed an issue where block corruption could appear on screen on certain state transitions
+						<br>
+					</li>
+					<li>
+						Slightly improved cold boot time
+						<br>
+					</li>
+					<li>
+						Fixed an issue where updating the built-in controller firmware could result in a blank screen during boot
+						<br>
+					</li>
+					<li>
+						Fixed rare situations where switching to Desktop Mode or back could result in a blank screen, or wrong colors
+						<br>
+					</li>
+					<li>
+						Fixed a regression with Simplified Chinese IME
+						<br>
+					</li>
+					<li>
+						Fixed a rare issue where sound output could be corrupted on certain boots
+						<br>
+					</li>
+					<li>
+						Fixed Zenity dialog boxes in Desktop Mode
+						<br>
+					</li>
+					<li>
+						openssh: Fix remote code execution bug (CVE-2024-6387)
+					</li>
+				</ul>
+				<b>
+					External Display
+				</b>
+				<ul>
+					<li>
+						Fixed several issues where an external display could remain blank after resuming
+						<br>
+					</li>
+					<li>
+						Fixed an issue where an external display could remain blank if its mode required chroma subsampling
+					</li>
+				</ul>
+				<b>
+					Input
+				</b>
+				<ul>
+					<li>
+						Fixed an issue where DualShock 4 and DualSense controllers would sometimes not function properly on their first connection
+						<br>
+					</li>
+					<li>
+						Added support for the ASUS ROG Raikiri Pro controller
+						<br>
+					</li>
+					<li>
+						Added support for the Machenike G5 Pro controller
+						<br>
+					</li>
+					<li>
+						Fixed calibration on some third-party DualShock 4 controllers
+						<br>
+					</li>
+					<li>
+						Added support for the Steam Deck motion sensors to the built-in non-Steam kernel driver
+						<br>
+					</li>
+					<li>
+						Added support for extra ROG Ally keys
+					</li>
+				</ul>
+				<b>
+					OLED firmware 112
+				</b>
+				<ul>
+					<li>
+						Added support for the Windows Bluetooth driver
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513255283370098037" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: July 30th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4513254648320322043</link>
 			<content:encoded><![CDATA[<html>
@@ -245,44 +370,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4517757187692809078" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: July 16th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4517756980044337063</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jul 16, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue where demos would not show a play button after changing accounts.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4517756980044337063" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
