@@ -74,17 +74,6 @@ Choose an option
 
 Choose an option
 
-FAQ
-
-FAQs
-----------
-
-* Can I add more memory or storage later?
-
-  Yes! The Framework Laptop 13 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step by step guides you can follow to do the upgrade yourself.
-
-Close
-
 * DDR5-5600 - 8GB (1 x 8GB) +€45
 * DDR5-5600 - 16GB (1 x 16GB) +€90
 * DDR5-5600 - 16GB (2 x 8GB) +€90
@@ -109,17 +98,6 @@ Choose an option
 **Operating System**
 
 Choose an option
-
-FAQ
-
-FAQs
-----------
-
-* Can I use a different Operating System?
-
-  Base and Performance configurations ship with Windows 11 Home pre-installed and Professional ships with Windows 11 Pro pre-installed. You can also load your own operating system later, like a Linux distribution.
-
-Close
 
 * Windows 11 Home (Download) +€145
 * Windows 11 Pro (Download) +€259
