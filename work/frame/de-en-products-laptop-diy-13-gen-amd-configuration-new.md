@@ -235,7 +235,7 @@ Close
 
 \+€20
 
-Ethernet – Ethernet Expansion Card
+Ethernet Expansion Card
 
 Details
 
@@ -261,7 +261,7 @@ Close
 
 \+€20
 
-MicroSD – MicroSD Expansion Card
+MicroSD Expansion Card
 
 Details
 
@@ -393,7 +393,7 @@ Close
 
 \+€20
 
-Ethernet – Ethernet Expansion Card
+Ethernet Expansion Card
 
 Details
 
@@ -419,7 +419,7 @@ Close
 
 \+€20
 
-MicroSD – MicroSD Expansion Card
+MicroSD Expansion Card
 
 Details
 
