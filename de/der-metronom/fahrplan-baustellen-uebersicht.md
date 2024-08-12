@@ -14,6 +14,10 @@ Informationen über aktuelle Arbeiten an den Strecken erhältst du über unseren
 
 Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich schon vor Beginn der Bauarbeiten, so kannst du langfristig planen. Aktuelle Infos über zukünftige Baustellen auf den *metronom* Strecken findest du auf der folgenden Übersicht:
 
+[Alle Meldungen](https://www.der-metronom.de/fahrplan/baustellen-uebersicht/)
+[Heute](https://www.der-metronom.de/fahrplan/baustellen-uebersicht/)
+[Reisetag](https://www.der-metronom.de/fahrplan/baustellen-uebersicht/)
+
 RE2 Uelzen - Celle - Hannover
 
 [14.08.2024 - 18.08.2024 RE2/RE3 nächtliche Haltausfälle in Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-haltausfaelle-in-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-hannover-celle-uelzen/)
