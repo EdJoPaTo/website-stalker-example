@@ -1,3 +1,8 @@
+Polarstern
+----------
+
+„Ein bunter Haufen voller die Ärmel hochkrempelnder Energiewende-Verwirklicher und Weltveränderer.“ So sehen sich die Menschen bei Polarstern und haben sich deshalb den Titel #teamwirklich gegeben. Was Polarstern alles macht, um diesem Spitznamen gerecht zu werden, erzählt dir Marketingleiterin Anna Zipse in diesem WEtell Spotlight.
+
 4peoplewhocare
 ----------
 
