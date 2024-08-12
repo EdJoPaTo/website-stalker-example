@@ -589,9 +589,9 @@ updated 2024-03-13
 
 [Datasheet DAC2 ADC Pro](https://www.hifiberry.com/docs/data-sheets/datasheet-dac2-adc-pro/)
 
-other
+adc, dac, datasheet
 
-updated 2024-04-16
+updated 2024-08-12
 
 [HiFiBerryOS](https://www.hifiberry.com/docs/hifiberryos/)
 
