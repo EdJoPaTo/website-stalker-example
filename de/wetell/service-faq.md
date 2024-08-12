@@ -53,7 +53,7 @@ Welche Sonderrufnummern in welchem Land gebührenpflichtig sind, findest du in d
 
 #### Kann ich zu meinem Vertrag auch ein Handy bei euch erhalten?  ####
 
-Nein, aktuell kannst du keine Handys bei uns kaufen. WEtell bietet ausschließlich Mobilfunkverträge an. Wenn dir Nachhaltigkeit wichtig ist, versuche dein altes zum Laufen zu bringen oder schau mal bei SHIFT oder Fairphone vorbei. Vielleicht ist ein gebrauchtes Modell auch was für dich.
+Ja, bei uns kannst du deinen WEtell Tarif auch mit dem passenden, nachhaltigen Smartphone bestellen. Unser Angebot dazu findest du [hier](https://www.wetell.de/tarif-mit-handy/).
 
 #### Welche Konditionen gelten außerhalb der EU, z.B. in der Schweiz? ####
 
