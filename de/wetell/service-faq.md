@@ -81,7 +81,7 @@ Einen DSL/Breitband-Anschluss bieten wir bisher nicht an, sondern ausschließlic
 
 #### Bietet ihr Ermäßigungen auf eure Tarife an? ####
 
-Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es den „FAIRstärker“, er bietet die Möglichkeit, sich mit 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1, 2, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du unter auf der [FAIRstärker-Seite](https://www.wetell.de/fairstaerker/).
+Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es den „FAIRstärker“, er bietet die Möglichkeit, sich mit 1, 3 oder 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1, 3, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du unter auf der [FAIRstärker-Seite](https://www.wetell.de/fairstaerker/).
 
 #### Gilt das monatliche Datenvolumen sowohl für Down- als auch für Uploads? ####
 
@@ -252,6 +252,7 @@ Solange dein Smartphone es zulässt, kannst du klar auch mit uns deine Visual Vo
 Nein, du benötigst keine neue SIM-Karte. Eventuell brauchst du aber eine andere SIM-Kartengröße. Das ist jedoch kein Problem und wenig Aufwand. Du hast zwei Optionen:
 1. Du kannst eine kleine Karte mit den mitgelieferten Rahmen vergrößern. Falls dir diese nicht mehr vorliegen, mach dich auf den Weg zu deinem Elektrodealer um die Ecke. Dort findest du einen passenden Adapter.
 2. Du kannst eine größere Karte einfach verkleinern, indem du sie an den vorgestanzten Stellen herauslöst.
+Wenn du eine eSIM hast, musst du diese am alten Gerät deaktivieren und am neuen aktivieren, wie das geht erklären wir dir in diesem [Artikel zur eSIM](https://www.wetell.de/service/esim/):
 
 #### Was ist RCS und wie kann ich diese Funktion bei WEtell nutzen? ####
 
@@ -293,9 +294,9 @@ Es gibt verschiedene Technologien, auf denen das Mobilfunknetz beruht, z.B. GSM 
 #### Wie kann ich 5G nutzen und wo habe ich 5G Empfang? ####
 
 Für die Nutzung von 5G brauchst du:
-–	ein 5G-fähiges Handy,
-–	einen Tarif, der 5G beinhaltet (bei uns aktuell der Tarif Überschall)
-–	5G-Netzabdeckung (die kannst du hier checken: <https://www.breitband-monitor.de/mobilfunkmonitoring/karte>)
+– ein 5G-fähiges Handy,
+– einen Tarif, der 5G beinhaltet
+– 5G-Netzabdeckung (die kannst du hier checken: <https://www.breitband-monitor.de/mobilfunkmonitoring/karte>)
 
 #### Ist 5G nachhaltig? ####
 
@@ -308,7 +309,7 @@ Hier erfährst du mehr dazu: <https://www.wetell.de/ueber-uns/news/5g/>
 Nach jetzigem Stand der Forschung bringt der neue Mobilfunkstandard 5G laut [Bundesamt für Strahlenschutz keine belegbaren neuen Gesundheitsrisiken mit sich](https://www.deutschland-spricht-ueber-5g.de/magazin/die-gesundheitsrelevanten-wirkungen-sind-sehr-gut-erforscht/). Alle aktuell für 5G verwendeten Frequenzbereiche wurden bereits früher für andere Zwecke verwendet und sind gut erforscht. Eine neue Antennentechnik funkt bei Verwendung von 5G die Personen, die den Mobilfunk nutzen, direkter an. Wer gerade digitale Pause macht, bekommt dabei dann weniger Strahlung ab. Die wichtigste Strahlungsquelle ist bei 5G, wie auch bei allen anderen Mobilfunkstandards, die Antenne im Handy selbst, da wir es nah bei uns tragen. Zur Reduktion der Strahlung hilft daher z.B. eine Freisprecheinrichtung oder die Verwendung von Kopfhörern beim Telefonieren, um Abstand zum Handy zu behalten.
 Trotz allem bleibt 5G eine neue Technologie und nicht alle Konsequenzen einer steigenden Nutzung können zum jetzigen Zeitpunkt abschließend geklärt werden. Daher verfolgen wir die Forschungen dazu aufmerksam und berichten, sobald es neues dazu gibt.
 
-#### Kann ich den Überschall Tarif auch ohne 5G bzw. ohne 5G-fähiges Handy nutzen? ####
+#### Kann ich Tarife mit 5G auch ohne 5G bzw. ohne 5G-fähiges Handy nutzen? ####
 
 Na klar.
 Du bist dann ganz einfach im LTE (4G) Netz damit unterwegs.
