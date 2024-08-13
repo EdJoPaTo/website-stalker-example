@@ -101,14 +101,14 @@ Dein neuer Mobilfunktarif
 
 Wieviel Datenvolumen brauchst Du im Monat?
 
-2GB 15GB 25GB 30GB 40GB
+2GB 20GB 30GB 40GB 40GB
 
 [](https://www.wetell.de/#rate-info-ultrakurz)
 
 ##### Ultrakurz #####
 
 2 GB
-Daten LTE
+LTE
 
 * 100 Freiminuten
 * 100 Frei-SMS
@@ -143,8 +143,8 @@ Lieblingstarif
 
 ##### Mittelwelle #####
 
-15 GB
-Daten LTE
+20 GB
+LTE
 
 * Allnet Flat (Telefonie/SMS)
 
@@ -161,7 +161,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 **Mobilfunkinfos**
 – Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 – SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-– 15 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– 20 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
 – Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Mittelwelle.pdf).
 
 **Tarifwechsel**
@@ -171,8 +171,8 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 
 ##### Superfunk #####
 
-25 GB
-Daten LTE
+30 GB
+5G
 
 * Allnet Flat (Telefonie/SMS)
 
@@ -189,7 +189,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 **Mobilfunkinfos**
 – Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 – SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-– 25 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– 30 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
 – Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Superfunk.pdf).
 
 **Tarifwechsel**
@@ -199,8 +199,8 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 
 ##### Megafon #####
 
-30 GB
-Daten LTE
+40 GB
+5G
 
 * Allnet Flat (Telefonie/SMS)
 
@@ -217,7 +217,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 **Mobilfunkinfos**
 – Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 – SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-– 30 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– 40 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
 – Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Megafon.pdf).
 
 **Tarifwechsel**
@@ -228,7 +228,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 ##### Überschall #####
 
 40 GB
-Daten 5G
+5G
 
 * Allnet Flat (Telefonie/SMS)
 
