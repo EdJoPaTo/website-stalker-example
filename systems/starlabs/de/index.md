@@ -36,10 +36,6 @@ Browse our range
 
 [StarLite 12.5-inch Convertible](/products/starlite)
 
-[](/products/starbook-mk-vi-1)
-
-[StarBook Mk VI 14-inch Laptop](/products/starbook-mk-vi-1)
-
 [](/products/byte)
 
 [Byte Mini PC](/products/byte)
@@ -47,6 +43,10 @@ Browse our range
 [](/products/starfighter)
 
 [StarFighter 16-inch Laptop](/products/starfighter)
+
+[](/products/starbook)
+
+[StarBook 14-inch Laptop](/products/starbook)
 
 More than just a licence.
 
