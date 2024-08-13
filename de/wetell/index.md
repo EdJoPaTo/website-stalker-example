@@ -101,7 +101,7 @@ Dein neuer Mobilfunktarif
 
 Wieviel Datenvolumen brauchst Du im Monat?
 
-2GB 20GB 30GB 40GB 40GB
+2GB 20GB 30GB 40GB
 
 [](https://www.wetell.de/#rate-info-ultrakurz)
 
@@ -222,34 +222,6 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 
 **Tarifwechsel**
 – Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
-
-[](https://www.wetell.de/#rate-info-ueberschall)
-
-##### Überschall #####
-
-40 GB
-5G
-
-* Allnet Flat (Telefonie/SMS)
-
-[45 € /Monat](https://shop.wetell.de/private/ueberschall/)
-
-* [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Ueberschall.pdf)
-* [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Ueberschall.pdf)
-
-### Überschall ###
-
-**Angebot!?**
-Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
-
-**Mobilfunkinfos**
-– Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
-– SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-– 40 GB Inklusiv-Datenvolumen im 5G Netz mit max. 150 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
-– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Ueberschall.pdf).
-
-**Tarifwechsel**
-– Wenn du später in einen anderen Tarif wechseln willst, melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr und ggf. FAIRstärker Option: -5 € bis + 5 € / Monat
 
