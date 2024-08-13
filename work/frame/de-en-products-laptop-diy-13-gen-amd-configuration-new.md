@@ -142,31 +142,6 @@ Choose an option
 * Swedish/Finnish
 * Traditional Chinese (Cangjie & Zhuyin)
 
-**Keyboard**
-
-Choose an option
-
-* German
-* International English - Linux
-* US English
-* Blank ANSI +€10
-* Blank ISO +€10
-* Clear ANSI +€10
-* Clear ISO +€10
-* British English
-* International English
-* Belgian
-* Danish(Out of stock)
-* French
-* French Canadian
-* Italian
-* Japanese
-* Korean
-* Spanish (Latin American)
-* Spanish (Spain)
-* Swedish/Finnish
-* Traditional Chinese (Cangjie & Zhuyin)
-
 **Power Adapter**
 
 Choose an option
@@ -179,110 +154,6 @@ Choose an option
 
 Expansion Cards
 ----------
-
-**Expansion Cards**
-
-Choose any number
-
-Customize your ports with the Expansion Card system. The Framework Laptop 13 can fit up to 4 Expansion Cards.
-
-We suggest ordering at least 4 Expansion Cards. If you order fewer than 4, you will have empty bays in the bottom of your laptop. At least 1 Expansion Card should be USB-C to charge the laptop.
-
-Most popular combination
-
-2x USB-C (Aluminum), USB-A, HDMI (3rd Gen)
-
-Quick select
-
-Port Expansion Cards
-
-USB-C (Aluminum)
-
-Details
-
-USB-C Expansion Card - Aluminum
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
-Close
-
-\+€10
-
-USB-A
-
-Details
-
-USB-A Expansion Card
-----------
-
-Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
-
-Close
-
-\+€10
-
-HDMI (3rd Gen)
-
-Details
-
-HDMI (3rd Gen) Expansion Card
-----------
-
-The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
-
-Close
-
-\+€20
-
-Ethernet Expansion Card
-
-Details
-
-Ethernet Expansion Card
-----------
-
-Supporting 2.5Gbit/s and 10/100/1000Mbit/s Ethernet, the Ethernet Expansion Card gives you ultra fast and reliable networking over an RJ45 jack. The clear housing lets you peek at the RTL8156 controller that powers it.
-
-Close
-
-\+€45
-
-DisplayPort (2nd Gen)
-
-Details
-
-DisplayPort (2nd Gen) Expansion Card
-----------
-
-The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
-
-Close
-
-\+€20
-
-MicroSD Expansion Card
-
-Details
-
-MicroSD Expansion Card
-----------
-
-Supporting MicroSD UHS-I cards as well as the new UFS Card standard for huge performance improvements on read, write, and random access.
-
-Close
-
-\+€20
-
-Storage Expansion Cards
-
-1TB (2nd Gen)
-
-\+€140
-
-250GB (2nd Gen)
-
-\+€50
 
 **Expansion Cards**
 
@@ -443,7 +314,7 @@ The SD Expansion Card supports UHS-I and UHS-II, letting you transfer data to an
 
 Close
 
-(Out of stock)+€29
+\+€29
 
 Storage Expansion Cards
 
