@@ -22,6 +22,8 @@ RE2 Uelzen - Celle - Hannover
 
 [14.08.2024 - 18.08.2024 RE2/RE3 nächtliche Haltausfälle in Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-haltausfaelle-in-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-hannover-celle-uelzen/)
 
+[26.08.2024 - 29.08.2024 RE2/RE3 nächtliche Teilausfälle zwischen Uelzen \<\> Celle \<\> Hannover Hbf - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf-ersatzverkehr-mit-bussen/)
+
 RE2 Hannover - Northeim - Göttingen
 
 [14.08.2024 - 18.08.2024 RE2/RE3 nächtliche Haltausfälle in Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-haltausfaelle-in-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-hannover-celle-uelzen/)
@@ -31,6 +33,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 [30.07.2024 - 15.08.2024 RE3/RB31 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf; Haltausfälle Bardowick, Radbruch und Ashausen sowie Stelle, Maschen und Meckelfeld](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-haltausfaelle-bardowick-radbruch-und-ashausen-sowie-stelle-maschen-und-meckelfeld/)
 
 [15.08.2024 - 19.08.2024 RE3/RB31 nächtliche Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teil-und-haltausfaelle/)
+
+[25.08.2024 - 30.08.2024 RE3/RB31 nächtliche Teilausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-ersatzverkehr-mit-bussen/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
