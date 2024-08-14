@@ -219,6 +219,11 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
+  - url: https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html
+    editors:
+      - css_select: main
+      - css_remove: ul:has(li a code)
+      - html_markdownify
   - url: https://rust-lang.github.io/rust-clippy/stable/lints.json
     editors:
       - regex_replace:
