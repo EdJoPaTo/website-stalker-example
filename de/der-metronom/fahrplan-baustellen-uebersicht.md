@@ -40,5 +40,7 @@ RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [30.07.2024 - 15.08.2024 RE4/RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf und zwischen Bremen und Rotenburg sowie Buchholz (N.) und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-und-zwischen-bremen-und-rotenburg-sowie-buchholz-n-und-hamburg-harburg/)
 
+[27.08.2024 - 01.09.2024 RE4/RB41 nächtliche Umleitungen/Teilausfälle zwischen Rotenburg (W.) und Bremen Hbf sowie Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-umleitungen-teilausfaelle-zwischen-rotenburg-w-und-bremen-hbf-sowie-haltausfaelle-und-fahrzeitenaenderungen/)
+
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
