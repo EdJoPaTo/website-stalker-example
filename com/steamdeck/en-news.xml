@@ -6,6 +6,59 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.10 Beta: Tenth time&apos;s the charm</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6929437211293286233</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Aug 14, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					Bluetooth
+				</b>
+				<ul>
+					<li>
+						Fixed a 3.6 regression with the Steam Controller and some other third-party controllers causing session crashes
+						<br>
+					</li>
+					<li>
+						Fixed an issue where Bluetooth peripherals would disconnect on session switch
+					</li>
+				</ul>
+				<b>
+					Display
+				</b>
+				<ul>
+					<li>
+						Fixed an issue where the internal display could remain blank after disconnecting an external display
+						<br>
+					</li>
+					<li>
+						Fixed a 3.6 regression where the selected refresh rate setting would sometimes not apply immediately
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6929437211293286233" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: August 13th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4425435723658749909</link>
 			<content:encoded><![CDATA[<html>
@@ -17,6 +70,12 @@
 				Aug 13, 2024
 			</h5>
 			<div>
+				<b>
+					Note:
+				</b>
+				this beta was rereleased on August 14th with additional fixes for Steam Input and Remote Play
+				<br>
+				<br>
 				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
 				<br>
 				<br>
@@ -326,58 +385,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513254014350467571" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: July 23rd</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4513254014339923764</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jul 23, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed collection names being displayed in all uppercase in edit controls.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						SIAPI: Fix for analog actions from other action sets incorrectly reporting as active. This affected some titles including Okami HD.
-						<br>
-					</li>
-					<li>
-						Added "Rotate Output" slider to "Joystick" and "Joystick Mouse" mode settings. This can be useful for certain shmups, or simply to find a more natural "Up" direction on your joystick.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513254014339923764" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
