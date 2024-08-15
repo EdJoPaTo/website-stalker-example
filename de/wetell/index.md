@@ -112,8 +112,8 @@ LTE
 
 * 100 Freiminuten
 * 100 Frei-SMS
-* 19 cent pro Minute
-* 9 cent pro SMS
+* 19 Cent pro Minute
+* 9 Cent pro SMS
 
 [15 € /Monat](https://shop.wetell.de/private/ultrakurz/)
 
