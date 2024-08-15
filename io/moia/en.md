@@ -116,7 +116,7 @@ App Store
 
  hat 4,8
 
-76k+ ratings
+77k+ ratings
 
 [](https://itunes.apple.com/de/app/moia/id1373271535?mt=8/)
 
@@ -124,7 +124,7 @@ Play Store
 
  hat 4,8
 
-34k+ ratings
+35k+ ratings
 
 [](https://play.google.com/store/apps/details?id=io.moia.neptune)
 
