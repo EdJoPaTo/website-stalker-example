@@ -30,15 +30,11 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[30.07.2024 - 15.08.2024 RE3/RB31 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf; Haltausfälle Bardowick, Radbruch und Ashausen sowie Stelle, Maschen und Meckelfeld](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-haltausfaelle-bardowick-radbruch-und-ashausen-sowie-stelle-maschen-und-meckelfeld/)
-
 [15.08.2024 - 19.08.2024 RE3/RB31 nächtliche Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teil-und-haltausfaelle/)
 
 [25.08.2024 - 30.08.2024 RE3/RB31 nächtliche Teilausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-ersatzverkehr-mit-bussen/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
-
-[30.07.2024 - 15.08.2024 RE4/RB41 Teilausfälle zwischen Hamburg-Harburg und Hamburg Hbf und zwischen Bremen und Rotenburg sowie Buchholz (N.) und Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-harburg-und-hamburg-hbf-und-zwischen-bremen-und-rotenburg-sowie-buchholz-n-und-hamburg-harburg/)
 
 [27.08.2024 - 01.09.2024 RE4/RB41 nächtliche Umleitungen/Teilausfälle zwischen Rotenburg (W.) und Bremen Hbf sowie Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-umleitungen-teilausfaelle-zwischen-rotenburg-w-und-bremen-hbf-sowie-haltausfaelle-und-fahrzeitenaenderungen/)
 
