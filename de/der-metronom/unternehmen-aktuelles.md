@@ -22,13 +22,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 Moin liebe Fahrgäste und Musikfans!
 Endlich wieder Open-R in Uelzen. In dieser Woche steigt das große Festival mit Musikgrößen aus allen Genres. Mit dem metronom ist das Festival-Gelände in Uelzen im Herzen der Lüneburger Heide aus allen Richtungen zu erreichen – aus Hamburg, Lüneburg, Celle und...
 
-[Endstation für die metronom-App: Alternative Informationsmedien](https://www.der-metronom.de/aktuell/endstation-fuer-die-metronom-app/)
-
- Uelzen - 01.08.2024
-
-Moin zusammen!
-Der Zahn der Zeit nagt auch an der bisher bekannten mein metronom-App: Abstürze, Falschmeldungen oder verzögerte Informationen haben sich in den letzten Wochen und Monaten der Nutzung gehäuft. Immer wieder habt Ihr Euch deshalb und auch zurecht bei unserem Kundenservice beschwert....
-
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
  Uelzen - 25.06.2024
