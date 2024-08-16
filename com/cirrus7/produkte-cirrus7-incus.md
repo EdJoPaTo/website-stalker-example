@@ -173,7 +173,7 @@ cirrus incus
 
   Wählen sie zwischen einer 2.5" SSD oder HDD. Eine SSD ist lautlos und wird daher empfohlen.
 
-  * KeineFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
+  * KeineHard disk drive 2.5″ 1TB (59,00 €)Hard disk drive 2.5″ 2TB (99,00 €)Hard disk drive 2.5″ 4TB (149,00 €)Hard disk drive 2.5″ 5TB (199,00 €)
 
   * KeineSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
@@ -184,7 +184,7 @@ cirrus incus
 
   Wählen sie zwischen einer 2.5" SSD oder HDD. Eine SSD ist lautlos und wird daher empfohlen.
 
-  * KeineFestplatte 2.5″ 1TB (59,00 €)Festplatte 2.5″ 2TB (99,00 €)Festplatte 2.5″ 4TB (149,00 €)Festplatte 2.5″ 5TB (199,00 €)
+  * KeineHard disk drive 2.5″ 1TB (59,00 €)Hard disk drive 2.5″ 2TB (99,00 €)Hard disk drive 2.5″ 4TB (149,00 €)Hard disk drive 2.5″ 5TB (199,00 €)
 
   * KeineSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
 
