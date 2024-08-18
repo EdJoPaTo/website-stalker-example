@@ -15,13 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Uelzen Open-R-Festival: Hinweise zur An- und Abreise](https://www.der-metronom.de/aktuell/hinweise-zur-an-und-abreise-uelzen-open-r-festival/)
-
- Uelzen - 13.08.2024
-
-Moin liebe Fahrgäste und Musikfans!
-Endlich wieder Open-R in Uelzen. An diesem Wochenende steigt das große Festival mit Musikgrößen aus allen Genres. Mit dem metronom ist das Festival-Gelände in Uelzen im Herzen der Lüneburger Heide aus allen Richtungen zu erreichen – aus Hamburg, Lüneburg,...
-
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
  Uelzen - 25.06.2024
