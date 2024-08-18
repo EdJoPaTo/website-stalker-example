@@ -20,13 +20,11 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[14.08.2024 - 18.08.2024 RE2/RE3 nächtliche Haltausfälle in Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-haltausfaelle-in-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-hannover-celle-uelzen/)
-
 [26.08.2024 - 29.08.2024 RE2/RE3 nächtliche Teilausfälle zwischen Uelzen \<\> Celle \<\> Hannover Hbf - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf-ersatzverkehr-mit-bussen/)
 
 RE2 Hannover - Northeim - Göttingen
 
-[14.08.2024 - 18.08.2024 RE2/RE3 nächtliche Haltausfälle in Northeim und Nörten-Hardenberg sowie Teilausfälle zwischen Hannover \<\> Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-haltausfaelle-in-northeim-und-noerten-hardenberg-sowie-teilausfaelle-zwischen-hannover-celle-uelzen/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
