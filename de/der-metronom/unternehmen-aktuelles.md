@@ -15,6 +15,14 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Wichtige Information: Telefonie im Kundenservice derzeit gestört](https://www.der-metronom.de/aktuell/wichtige-information-telefonie-im-kundenservice-derzeit-gestoert/)
+
+ Uelzen - 19.08.2024
+
+Wichtige Information: Telefonie im Kundenservice derzeit gestört
+Aufgrund einer großflächigen Störung beim Telefonanbieter Telekom ist unser Kundenservice aktuell telefonisch nur eingeschränkt erreichbar. Der Anbieter arbeitet bereits daran, das Problem so schnell wie möglich zu beheben.
+Bitte...
+
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
  Uelzen - 25.06.2024
