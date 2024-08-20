@@ -11,8 +11,6 @@ cirrus nimbus
 
 **Lieferzeit: 7-9 Werktage**
 
-xxx
-
 * ##### Mainboard #####
 
   Mainboards

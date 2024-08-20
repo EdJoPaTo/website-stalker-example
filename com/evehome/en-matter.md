@@ -26,6 +26,63 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
+[Eve Door & Window]()
+
+ Wireless Contact Sensor
+
+ Learn more
+
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+
+Security
+
+Matter
+
+incl. VAT, plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Door & Window]()
+
+ Wireless Contact Sensor
+
+* Check your door or window: See the current open/closed state at a glance
+* Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
+* Receive activity notifications to stay informed *(available* *on selected platforms)*
+
 [Eve Energy](/en/eve-energy)
 
  Smart plug
@@ -84,19 +141,23 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Door & Window]()
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
- Wireless Contact Sensor
+ Smart Outdoor Outlet & Power Meter
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
 
-Security
+Energy
+
+Outdoor
+
+Thread
 
 Matter
 
-incl. VAT, plus shipping
+inkl. MwSt., zzgl. Versandkosten
 
 Free FedEx Ground shipping to US locations with $99 purchase
 
@@ -126,6 +187,60 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Buy from our partners
 
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
+
+ Smart Outdoor Outlet & Power Meter
+
+* Switch your lights, pumps, and other outdoor equipment on and off using your voice or an app, and control them on the go or based on presence.
+* Automate your outdoor appliances to switch on and off at a preferred time, and create scenes to make multiple connected appliances work in sync.
+* Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
+* [Visit product page](/en/eve-energy-outdoor)
+
+[Eve Energy Outlet](/en/eve-energy-outlet)
+
+ Smart Outlet & Power Meter
+
+ Learn more
+
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+
+Energy
+
+Matter
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
  Only available at the Eve Store
 
 Not available in your country
@@ -133,13 +248,14 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window]()
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
- Wireless Contact Sensor
+ Smart Outlet & Power Meter
 
-* Check your door or window: See the current open/closed state at a glance
-* Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
-* Receive activity notifications to stay informed *(available* *on selected platforms)*
+* Individually control your power outlets using your voice or an app.
+* Control your appliances on the go or based on presence.
+* Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
+* [Visit product page](/en/eve-energy-outlet)
 
 [Eve Motion](/en/eve-motion)
 
@@ -200,62 +316,6 @@ Not available in your country
 * Receive notifications when motion is detected; review motion time and durations in the Eve app
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
-
-[Eve Energy Outlet](/en/eve-energy-outlet)
-
- Smart Outlet & Power Meter
-
- Learn more
-
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
-
-Energy
-
-Matter
-
-incl. VAT plus shipping
-
-Free FedEx Ground shipping to US locations with $99 purchase
-
-Free shipping in Germany, incl. VAT
-
-Plus shipping. Duties and taxes not included in shipping.
-
- Add to cart
-
- Your choice
-
-[ Add to cart ]()
-
- incl. VAT, plus shipping
-
- Free FedEx Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping.
-
- Your choice
-
- Out of stock
-
- Buy from our partners
-
- Only available at the Eve Store
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Energy Outlet](/en/eve-energy-outlet)
-
- Smart Outlet & Power Meter
-
-* Individually control your power outlets using your voice or an app.
-* Control your appliances on the go or based on presence.
-* Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
-* [Visit product page](/en/eve-energy-outlet)
 
 [Eve MotionBlinds](/en/eve-motionblinds)
 
@@ -424,6 +484,63 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
+[Eve Door & Window]()
+
+ Wireless Contact Sensor
+
+ Learn more
+
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+
+Security
+
+Matter
+
+incl. VAT, plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Door & Window]()
+
+ Wireless Contact Sensor
+
+* Check your door or window: See the current open/closed state at a glance
+* Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
+* Receive activity notifications to stay informed *(available* *on selected platforms)*
+
 [Eve Energy](/en/eve-energy)
 
  Smart plug
@@ -482,19 +599,23 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Door & Window]()
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
- Wireless Contact Sensor
+ Smart Outdoor Outlet & Power Meter
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
 
-Security
+Energy
+
+Outdoor
+
+Thread
 
 Matter
 
-incl. VAT, plus shipping
+inkl. MwSt., zzgl. Versandkosten
 
 Free FedEx Ground shipping to US locations with $99 purchase
 
@@ -524,6 +645,60 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Buy from our partners
 
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
+
+ Smart Outdoor Outlet & Power Meter
+
+* Switch your lights, pumps, and other outdoor equipment on and off using your voice or an app, and control them on the go or based on presence.
+* Automate your outdoor appliances to switch on and off at a preferred time, and create scenes to make multiple connected appliances work in sync.
+* Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
+* [Visit product page](/en/eve-energy-outdoor)
+
+[Eve Energy Outlet](/en/eve-energy-outlet)
+
+ Smart Outlet & Power Meter
+
+ Learn more
+
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+
+Energy
+
+Matter
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
  Only available at the Eve Store
 
 Not available in your country
@@ -531,13 +706,14 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window]()
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
- Wireless Contact Sensor
+ Smart Outlet & Power Meter
 
-* Check your door or window: See the current open/closed state at a glance
-* Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
-* Receive activity notifications to stay informed *(available* *on selected platforms)*
+* Individually control your power outlets using your voice or an app.
+* Control your appliances on the go or based on presence.
+* Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
+* [Visit product page](/en/eve-energy-outlet)
 
 [Eve Motion](/en/eve-motion)
 
@@ -598,62 +774,6 @@ Not available in your country
 * Receive notifications when motion is detected; review motion time and durations in the Eve app
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
-
-[Eve Energy Outlet](/en/eve-energy-outlet)
-
- Smart Outlet & Power Meter
-
- Learn more
-
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
-
-Energy
-
-Matter
-
-incl. VAT plus shipping
-
-Free FedEx Ground shipping to US locations with $99 purchase
-
-Free shipping in Germany, incl. VAT
-
-Plus shipping. Duties and taxes not included in shipping.
-
- Add to cart
-
- Your choice
-
-[ Add to cart ]()
-
- incl. VAT, plus shipping
-
- Free FedEx Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping.
-
- Your choice
-
- Out of stock
-
- Buy from our partners
-
- Only available at the Eve Store
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Energy Outlet](/en/eve-energy-outlet)
-
- Smart Outlet & Power Meter
-
-* Individually control your power outlets using your voice or an app.
-* Control your appliances on the go or based on presence.
-* Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
-* [Visit product page](/en/eve-energy-outlet)
 
 [Eve MotionBlinds](/en/eve-motionblinds)
 

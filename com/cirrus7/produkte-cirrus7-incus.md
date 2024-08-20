@@ -11,8 +11,6 @@ cirrus incus
 
 **Lieferzeit: 7-9 Werktage**
 
-xxx
-
 * ##### Plattform wählen #####
 
   * **AMD X300**
