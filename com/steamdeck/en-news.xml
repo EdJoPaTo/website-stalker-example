@@ -6,6 +6,54 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: August 13th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6929437446240967559</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Aug 19, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a crash when removing a non-Steam game from a parental controlled account
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Reduce CPU usage when using both Gyro and Joystick or Trackpad for mouse input
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6929437446240967559" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.10 Beta: Tenth time&apos;s the charm</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/6929437211293286233</link>
 			<content:encoded><![CDATA[<html>
@@ -329,62 +377,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513254648320322043" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: July 26th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4513254014350467571</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jul 26, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Game Recording Beta
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue preventing recordings from working when the device boots up offline
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording Beta - Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed some timeline UI blocking mouse clicks to seek the video player
-						<br>
-					</li>
-					<li>
-						Fixed mouse cursor changing styles when dragging clip start and end range markers
-						<br>
-					</li>
-					<li>
-						Slight improvement to the time it takes to generate a video thumbnail when hovering over the timeline
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513254014350467571" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
