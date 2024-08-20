@@ -28,8 +28,6 @@ StarLite 5
 
 [Explore](/pages/starlite) [Buy now](/products/starlite)
 
-Limited configurations available for same-day dispatch!
-
 Browse our range
 
 [](/products/starlite)
