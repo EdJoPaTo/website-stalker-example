@@ -125,4 +125,4 @@ Welche Ziele wir mit WEtell in Sachen Klimaschutz verfolgen hast du gerade geles
 
 Alle unsere Ziele sind hier dargestellt und du kannst genau nachschauen, wie viel Prozent des Weges wir schon geschafft haben.
 
-Eine ausführliche Darstellung unserer Klimaschutzaktivitäten findest du auch in unserer [Gemeinwohlbilanz](https://www.wetell.de/downloads/veroeffentlichungen/2021-10-01_WEtell_GW%C3%96-Bericht.pdf), insbesondere in den Abschnitten D3 und E3.
+Eine ausführliche Darstellung unserer Klimaschutzaktivitäten findest du auch in unserer [Gemeinwohlbilanz](https://www.wetell.de/downloads/veroeffentlichungen/2023_WEtell_Gemeinwohl-Bilanz.pdf), insbesondere in den Abschnitten D3 und E3.
