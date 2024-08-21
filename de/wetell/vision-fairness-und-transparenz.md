@@ -94,7 +94,7 @@ Alle Finanzmittel bei nachhaltigen Banken
 
 „Geld regiert die Welt“ – zumindest spielt es eine wichtige Rolle, wie Finanzmittel eingesetzt werden. Bei WEtell pflegen wir einen konsequent ethischen Umgang mit Geld. Deswegen haben wir alle unsere Geldmittel bei einer nachhaltigen Bank, der GLS Bank.
 
-Wir werden Purpose-Unternehmen
+Wir sind ein Purpose-Unternehmen
 
 Als Purpose Unternehmen ist WEtell Teil einer großartigen Strömung der New Economy, die sich für eine gesunde und nachhaltige Wirtschaft einsetzt. Da kann der Turbokapitalismus mit all seinen hässlichen Auswüchsen abstinken! Als erster Mobilfunkanbieter in Deutschland haben wir diesen Schritt gewagt und uns auf ewig unserer Werteorientierung verschrieben.
 
