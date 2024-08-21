@@ -1,20 +1,13 @@
-[The perfect match: Bundhose e.s.iconic](https://www.engelbert-strauss.de/bundhosen/bundhose-e-s-iconic-3163230-66661-1845.html?itemorigin=StartseiteHW24)
-
- Jetzt auch ungefärbt in der neuen Farbe RAW COTTON
-
- limited edition
-
- NFL X Strauss
+e.s.iconic
 ----------
 
 ---
 
- Comeback: NFL X Strauss geht endlich weiter!
-Mit neuen Highlights für Herren, Damen und Kinder.
+ Urtypisch, kernig, einfach authentisch: Die toughe Workwear gibt es jetzt auch für Damen und Kinder.
 
-[jetzt entdecken](https://www.engelbert-strauss.de/NFL)
+[jetzt entdecken](https://www.engelbert-strauss.de/iconic)
 
-[alle Produkte](https://www.engelbert-strauss.de/nfl-x-strauss/)
+[alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/?sort=newest)
 
 ###  Weitere Neuheiten entdecken  ###
 
