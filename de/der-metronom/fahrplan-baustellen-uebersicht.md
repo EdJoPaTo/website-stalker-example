@@ -20,7 +20,7 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
-[26.08.2024 - 29.08.2024 RE2/RE3 nächtliche Teilausfälle zwischen Uelzen \<\> Celle \<\> Hannover Hbf - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf-ersatzverkehr-mit-bussen/)
+[26.08.2024 - 29.08.2024 RE2/RE3: nächtliche Teilausfälle zwischen Uelzen \<\> Celle \<\> Hannover Hbf - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf-ersatzverkehr-mit-bussen/)
 
 RE2 Hannover - Northeim - Göttingen
 
@@ -28,13 +28,13 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[25.08.2024 - 30.08.2024 RE3/RB31 nächtliche Teilausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-ersatzverkehr-mit-bussen/)
+[25.08.2024 - 30.08.2024 RE3/RB31: nächtliche Teilausfälle - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-ersatzverkehr-mit-bussen/)
 
-[01.09.2024 RE3/RB31 abendlicher Teilausfall zwischen Lüneburg \<\> Uelzen für zwei Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-abendlicher-teilausfall-zwischen-lueneburg-uelzen-fuer-zwei-verbindungen/)
+[01.09.2024 RE3/RB31: abendlicher Teilausfall zwischen Lüneburg \<\> Uelzen für zwei Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-abendlicher-teilausfall-zwischen-lueneburg-uelzen-fuer-zwei-verbindungen/)
 
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
-[27.08.2024 - 01.09.2024 RE4/RB41 nächtliche Umleitungen/Teilausfälle zwischen Rotenburg (W.) und Bremen Hbf sowie Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-umleitungen-teilausfaelle-zwischen-rotenburg-w-und-bremen-hbf-sowie-haltausfaelle-und-fahrzeitenaenderungen/)
+[27.08.2024 - 01.09.2024 RE4/RB41: nächtliche Umleitungen/Teilausfälle zwischen Rotenburg (W.) und Bremen Hbf sowie Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-umleitungen-teilausfaelle-zwischen-rotenburg-w-und-bremen-hbf-sowie-haltausfaelle-und-fahrzeitenaenderungen/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
