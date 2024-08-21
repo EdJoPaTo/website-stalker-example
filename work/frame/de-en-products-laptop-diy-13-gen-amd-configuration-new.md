@@ -147,8 +147,6 @@ Choose an option
 Choose an option
 
 * Power Adapter - 60W - UK +€49
-* Power Adapter - 60W - AU +€49
-* Power Adapter - 60W - US/Canada +€49
 * Power Adapter - 60W - EU +€49
 * None (bring your own)
 
@@ -159,9 +157,9 @@ Expansion Cards
 
 Choose any number
 
-Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13.
+Customize your ports with the Expansion Card system.
 
-We suggest ordering 4 or more Expansion Cards, and that at least one is a USB-C Expansion Card for charging the laptop.
+We suggest ordering at least 4 Expansion Cards. If you order fewer than 4, you will have empty bays in the bottom of your laptop. At least 1 Expansion Card should be USB-C to charge the laptop.
 
 Most popular combination
 
