@@ -1,3 +1,7 @@
+### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
+
+Fast Charge Almost All USB C Devices UGREEN USB C Charger Cable delivers power up to 240W, and is backward compatible with 140W (28V/5A), 100W (20V/5A), 60W (20V/3A), 45W (15V/3A),...
+
 ### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
 
 No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
@@ -41,7 +45,3 @@ WHAT IS MFi ?MFi is a kind of express license for external accessories produced 
 ### [UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable](https://eu.ugreen.com/products/ugreen-usb-c-90-degree-cable-3a-right-angle-type-c-charger-cable) ###
 
 UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable
-
-### [UGREEN 2 Pack USB C to USB C Charger Cable 100W Power Delivery](https://eu.ugreen.com/products/ugreen-2-pack-usb-c-to-usb-c-charger-cable-100w-65w-power-delivery) ###
-
-UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery
