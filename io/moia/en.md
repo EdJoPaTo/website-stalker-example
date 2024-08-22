@@ -107,17 +107,6 @@ Save on every ride for 30, 90 oder 180 days.
 
 [](https://www.moia.io/en/smart-saver)
 
-MOIA friend bonus
-
-For friends of all kinds
-----------
-
-With the **MOIA friend bonus**, both you and your friends get a **3 x 25% discount**\* as soon as they become active MOIA users. Maybe a good opportunity to grow your social circle? How about inviting your friendly neighbor, the favorite coworker, or even your mom's friend? You’ve probably already got more potential friends popping into your mind. Because sharing is what friends are for.
-
-The MOIA friend bonus, a 3 x 25% discount\* for the both of you.
-
-[Learn more](https://www.moia.io/en/friend-bonus)
-
 Download the app. And book your first ride.
 ----------
 
@@ -142,6 +131,15 @@ Play Store
  Download the app
 
  Scan the QR code and download the app
+
+Golden Summer Deal
+
+2 x 30% off for your summer
+----------
+
+Enjoy Hamburg’s highlights without the parking hassle. Save **30% on your next two MOIA rides** with our summer deal until September 1. Just enter the code **GOLDEN30** in the ‘coupons’ section of the MOIA app and you’re good to go.\*
+
+[Claim now](https://moia.go.link/?adj_t=1fketet2)
 
 Frequently asked questions
 ----------
@@ -168,7 +166,7 @@ Frequently asked questions
 
 [Find out more](https://help.moia.io/hc/en-us)
 
-\* Friend bonus coupons are valid for 90 days. For a referral to be considered successful and the coupons to be activated, the recipient must register in the MOIA app, enter the invitation code within seven days and then book the first ride within 90 days. You can find our general coupon conditions [here](http://www.moia.io/en/voucher_conditions).
+\*Save your coupon code once and it entitles you to two rides in Hamburg at a 30% discount. The coupon code is valid until 01.09.2024 and cannot be combined with other coupons. You can find our general coupon conditions [here](https://www.moia.io/en/voucher_conditions).
 
 \*\*When purchasing the regular Smart Saver 25, customers receive a 25% discount on every booked MOIA ride for a period of 30 days at the price of €9.90. During the promotional period from August 15, 2024, to November 14, 2024, customers who have not previously purchased a Smart Saver have the opportunity to buy a trial Smart Saver 25 at a reduced price of €4.95. The trial offer for the Smart Saver 25 is exclusively available to customers who have never purchased a Smart Saver before. Customers who have previously purchased a Smart Saver are excluded from this trial offer. After the 30-day validity period of the trial Smart Saver 25 expires, the discount will no longer apply. Purchasing a new Smart Saver 25 will then only be possible at the regular price of €9.90.
 

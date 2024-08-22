@@ -1,3 +1,7 @@
+### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
+
+No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
+
 ### [UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0](https://eu.ugreen.com/products/ugreen-usb-c-usb-c-charging-cable-100w-double-angle-plug-pd-3-0-qc-4-0) ###
 
 UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0 \_\_PD 3.0 E-marker Smart Chip: usb c cable fast charging is equipped with an exclusive...
@@ -41,7 +45,3 @@ UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable
 ### [UGREEN 2 Pack USB C to USB C Charger Cable 100W Power Delivery](https://eu.ugreen.com/products/ugreen-2-pack-usb-c-to-usb-c-charger-cable-100w-65w-power-delivery) ###
 
 UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery
-
-### [UGREEN USB C to USB C Cable 60W](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w) ###
-
-UGREEN USB C to USB C Cable 60W

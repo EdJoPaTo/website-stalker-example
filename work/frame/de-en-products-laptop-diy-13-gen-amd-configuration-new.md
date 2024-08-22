@@ -131,7 +131,7 @@ Choose an option
 * British English
 * International English
 * Belgian
-* Danish
+* Danish(Out of stock)
 * French
 * French Canadian
 * Italian
@@ -147,7 +147,7 @@ Choose an option
 Choose an option
 
 * Power Adapter - 60W - UK +€49
-* Power Adapter - 60W - EU +€49
+* Power Adapter - 60W - EU(Out of stock)+€49
 * None (bring your own)
 
 Expansion Cards
