@@ -15,12 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE3/RB31: Strecke zwischen Uelzen und Lüneburg wegen Stellwerksausfall gesperrt](https://www.der-metronom.de/aktuell/re3-rb31-strecke-zwischen-uelzen-und-lueneburg-wegen-stellwerksausfall-gesperrt/)
+[Update: Streckensperrung zwischen Uelzen und Lüneburg aufgehoben!](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-uelzen-und-l%C3%BCneburg-aufgehoben/)
 
  Uelzen - 22.08.2024
 
-Hallo liebe Fahrgäste,
-aufgrund eines Kabelschadens ist das Stellwerk Bienenbüttel derzeit außer Betrieb. Dies hat zur Folge, dass der Zugverkehr zwischen Uelzen und Lüneburg komplett eingestellt werden muss.Der Zugverkehr auf den Linien RE3 und RB31 zwischen Uelzen und Lüneburg ist bis auf...
+Moin liebe Fahrgäste,
+die Streckensperrung zwischen Uelzen und Lüneburg ist wieder aufgehoben. Durch den Rückstau der wartenden Züge und die aufgelaufenen Verspätungen kommt es weiter zu Verspätungen und (Teil-)Ausfällen auf den metronom-Linien.
+Aufgrund eines Kabelschadens fiel das Stellwerk...
 
 [metronom appelliert an Fußballfans: Gewaltfrei zum Stadion!](https://www.der-metronom.de/aktuell/metronom-appelliert-an-fussballfans-gewaltfrei-zum-stadion/)
 
