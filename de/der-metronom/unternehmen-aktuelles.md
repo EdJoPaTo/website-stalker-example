@@ -15,14 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Update: Streckensperrung zwischen Uelzen und Lüneburg aufgehoben!](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-uelzen-und-l%C3%BCneburg-aufgehoben/)
-
- Uelzen - 22.08.2024
-
-Moin liebe Fahrgäste,
-die Streckensperrung zwischen Uelzen und Lüneburg ist wieder aufgehoben. Durch den Rückstau der wartenden Züge und die aufgelaufenen Verspätungen kommt es weiter zu Verspätungen und (Teil-)Ausfällen auf den metronom-Linien.
-Aufgrund eines Kabelschadens fiel das Stellwerk...
-
 [metronom appelliert an Fußballfans: Gewaltfrei zum Stadion!](https://www.der-metronom.de/aktuell/metronom-appelliert-an-fussballfans-gewaltfrei-zum-stadion/)
 
  Uelzen - 21.08.2024
