@@ -6,6 +6,88 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: August 22nd</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4425436537574287788</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Aug 22, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added a dropdown to Settings->Display->Advanced to select the maximum resolution allowed to be used by games. This is the global version of the 'Game Resolution' dropdown already available under Game Settings->General.
+						<br>
+					</li>
+					<li>
+						Added Sign Out to the power menu on Deck.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue where automatic cursor visibility actionset changes did not work on the Steam Link App Mobile Touch Controller
+						<br>
+					</li>
+					<li>
+						Fixed an issue where modifying a config could result in a crash when returning to the game
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added a list view to media manager to provide a view of all the play sessions and media from each session.
+						<br>
+					</li>
+					<li>
+						Added setting to enable turning recording on/off per game.
+						<br>
+					</li>
+					<li>
+						Added setting to control the duration and bitrate of background recording per game.
+						<br>
+					</li>
+					<li>
+						Improved error reporting in the save/share sheet.
+						<br>
+					</li>
+					<li>
+						Fixed an issue where you couldn't unpause in the last second of a clip or recording
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4425436537574287788" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: August 19th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/6929437446240967559</link>
 			<content:encoded><![CDATA[<html>
@@ -303,80 +385,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513255283370098037" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: July 30th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4513254648320322043</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Jul 30, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						The friends list will now show a Steam Deck icon, instead of a gamepad icon, if the other user is playing on a Steam Deck
-						<br>
-					</li>
-					<li>
-						Replaced the friends list VR icon with a new graphic that also matches the in-game or online friend state color
-						<br>
-					</li>
-					<li>
-						Fixed a few spots where tooltips were causing unexpected word wrap
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording Beta
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed instances of failing to capture video data after multiple game launches.
-						<br>
-					</li>
-					<li>
-						Fixed cropped video capture when an external display is connected or disconnected after startup.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Recordings & Screenshots
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed error that could happen when opening the Recordings & Screenshots dialog before necessary data had loaded in
-						<br>
-					</li>
-					<li>
-						Added support for "Send to Phone" share option to screenshots
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4513254648320322043" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
