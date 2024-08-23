@@ -99,7 +99,7 @@ Choose an option
 
 Choose an option
 
-* Windows 11 Home (Download)(Out of stock)+€145
+* Windows 11 Home (Download) +€145
 * Windows 11 Pro (Download) +€259
 * None (bring your own)
 
