@@ -15,12 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[metronom appelliert an Fußballfans: Gewaltfrei zum Stadion!](https://www.der-metronom.de/aktuell/metronom-appelliert-an-fussballfans-gewaltfrei-zum-stadion/)
-
- Uelzen - 21.08.2024
-
-metronom ruft Fußballfans zu Gewaltverzicht auf.Uelzen, 21. August 2024. Auch wir freuen uns auf spannende Spiele unserer Nordclubs in den Stadien entlang unserer Strecken. Wir wollen unvergessliche Momente in den Fankurven ermöglichen. Das wird aber nur gelingen, wenn sich alle an Bord der Züge...
-
 [Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
 
  Uelzen - 25.06.2024
