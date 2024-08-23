@@ -121,6 +121,25 @@ Choose an option
 
 Choose an option
 
+FAQ
+
+FAQs
+----------
+
+* What is an Expansion Card?
+
+  Framework Expansion Cards allow you to customize the ports and functionality of the Framework Laptop 13. Unlike other notebooks that require adapters and dongles to get to the ports you need, you can select the ones you want at order time and change them whenever you’d like. The Framework Laptop 13 supports four simultaneous Expansion Cards, with two on each side. Expansion Cards are hot swappable; simply slide and click them into your Framework Laptop with no tools needed.
+
+* Will you be adding additional Expansion Card types?
+
+  Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
+
+* Do I need to have a USB-C Expansion Card to charge the Framework Laptop 13?
+
+  The Framework Laptop 13 charges over USB-C from any one of the four Expansion Card bays. We suggest configuring with at least one USB-C Expansion Card, since it is difficult to directly plug into the recessed USB-C receptacle that is inside the bay.
+
+Close
+
 * German
 * International English - Linux
 * US English
@@ -145,6 +164,17 @@ Choose an option
 **Power Adapter**
 
 Choose an option
+
+FAQ
+
+FAQs
+----------
+
+* Can I use a different Operating System?
+
+  Base and Performance configurations ship with Windows 11 Home pre-installed and Professional ships with Windows 11 Pro pre-installed. You can also load your own operating system later, like a Linux distribution.
+
+Close
 
 * Power Adapter - 60W - UK +€49
 * Power Adapter - 60W - EU(Out of stock)+€49
