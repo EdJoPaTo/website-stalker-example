@@ -95,6 +95,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Podcasts**Listen to your favorite shows](Podcasts/)
 * [**Polari**Talk to people on IRC](Polari/)
 * [**Railway**Find all your travel information](DieBahn/)
+* [**Resources**Keep an eye on system resources](Resources/)
 * [**Secrets**Manage your passwords](Secrets/)
 * [**Share Preview**Test social media cards locally](SharePreview/)
 * [**Shortwave**Listen to internet radio](Shortwave/)
