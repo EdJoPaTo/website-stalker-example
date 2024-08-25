@@ -270,6 +270,7 @@
 * [Erik ist jetzt Katja](https://www.wdrmaus.de/filme/sachgeschichten/erik_ist_jetzt_katja.php5)
 * [Erste Hilfe](https://www.wdrmaus.de/filme/sachgeschichten/erste_hilfe.php5)
 * [Erziehungstipps](https://www.wdrmaus.de/filme/sachgeschichten/erziehungstipps.php5)
+* [Esel](https://www.wdrmaus.de/filme/sachgeschichten/esel.php5)
 * [Euroherstellung](https://www.wdrmaus.de/filme/sachgeschichten/euroherstellung.php5)
 * [Europalette](https://www.wdrmaus.de/filme/sachgeschichten/europalette.php5)
 * [Fadenstück](https://www.wdrmaus.de/filme/sachgeschichten/fadenstueck.php5)
