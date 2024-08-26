@@ -15,12 +15,11 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE3/RB31: Streckensperrung nach einem gefährlichen Ereignis - Busnotverkehr](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-nach-einem-gefaehrlichen-ereignis/)
+[RE3/RB31: Streckensperrung nach einem gefährlichen Ereignis - Strecke wieder freigegeben](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-nach-einem-gefaehrlichen-ereignis/)
 
  Uelzen - 26.08.2024
 
-Aufgrund eines gefährlichen Ereignisses (nicht metronom) bei Winsen (Luhe) ist die Strecke zwischen Stelle und Lüneburg in beiden Richtungen gesperrt. Es kommt zu Verspätungen und (Teil-)Ausfällen.
-Züge aus Richtung Uelzen wenden bereits in Lüneburg zurück nach Uelzen. Die Züge aus Hamburg Hbf...
+Die Streckensperrung nach einem gefährlichen Ereignis (nicht metronom) zwischen Stelle und Lüneburg in beiden Richtungen ist teilweise aufgehoben. Vereinzelt kommt es in den folgenden Nachtstunden noch zu Verspätungen und (Teil-)Ausfällen durch Einschränkungen im Betriebsablauf und den Rückstau...
 
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
