@@ -15,6 +15,12 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE3/RB31: Verspätungen aufgrund der Auswirkungen von Fremdeinwirkung](https://www.der-metronom.de/aktuell/re3-rb31-verspaetungen-aufgrund-der-auswirkungen-von-fremdeinwirkung/)
+
+ Uelzen - 26.08.2024
+
+Auf der Strecke Bad Bevensen - Bienenbüttel ist es auf einer Länge von 1000 - 1500 m zu einem Kabeldiebstahl gekommen. Aufgrund der nun kurzfristig notwendigen Bauarbeiten bei Bienenbüttel kommt es zu Verspätungen auf der Strecke zwischen Uelzen - Hamburg Hbf - Uelzen. Diese Arbeiten werden...
+
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
  26.08.2024
