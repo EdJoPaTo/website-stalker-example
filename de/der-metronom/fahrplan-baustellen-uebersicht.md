@@ -24,9 +24,11 @@ RE2 Uelzen - Celle - Hannover
 
 [06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
 
+[16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
+
 RE2 Hannover - Northeim - Göttingen
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
