@@ -362,7 +362,7 @@ cirrus nimbus
   * PCIe 3.0 x4
   * PCIe 4.0 x4
 
-  * Wählen Sie Ihre M2 SSDsSamsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (109,00 €)Samsung SSD 970 EVO Plus 2TB (169,00 €)
+  * Wählen Sie Ihre M2 SSDsSamsung SSD 980 250GB (49,00 €)Samsung SSD 980 500GB (69,00 €)Samsung SSD 980 1TB (99,00 €)Samsung SSD 970 EVO Plus 500GB (79,00 €)Samsung SSD 970 EVO Plus 1TB (109,00 €)Samsung SSD 970 EVO Plus 2TB (169,00 €)
 
   * Samsung SSD 980 Pro 500GB (79,00 €)Samsung SSD 980 Pro 1TB (119,00 €)Samsung SSD 980 Pro 2TB (179,00 €)Samsung SSD 990 Pro 1TB (139,00 €)Samsung SSD 990 Pro 2TB (219,00 €)Samsung SSD 990 Pro 4TB (389,00 €)
 
