@@ -15,6 +15,14 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE4/RB41 ACHTUNG bei SEV: Abfahrt der Busse in Bremen abweichend vom Bussteig R vor dem Cinemaxx](https://www.der-metronom.de/aktuell/re4-rb41-achtung-bei-sev-abfahrt-der-busse-in-bremen-abweichend-vom-bussteig-r-vor-dem-cinemaxx/)
+
+ 27.08.2024
+
+Liebe Fahrgäste,
+aufgrund einer Totalsperrung der Regionalbushaltestellenanlage inkl. des SEV-Bussteiges am Hbf Bremen fahren die Busse bis auf Weiteres abweichend vom Bussteig R vor dem Cinemaxx in Bremen ab.
+Euer metronom Team
+
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
  26.08.2024
