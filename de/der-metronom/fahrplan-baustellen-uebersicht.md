@@ -46,6 +46,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
 
+[12.09.2024 - 16.09.2024 RE3/RB31: nächtliche Teilausfälle Uelzen \<\> Lüneburg sowie Haltausfälle in Ashausen, Bardowick und Radbruch](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-uelzen-lueneburg-sowie-haltausfaelle-in-ashausen-bardowick-und-radbruch/)
+
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [27.08.2024 - 01.09.2024 RE4/RB41: nächtliche Umleitungen/Teilausfälle zwischen Rotenburg (W.) und Bremen Hbf sowie Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-umleitungen-teilausfaelle-zwischen-rotenburg-w-und-bremen-hbf-sowie-haltausfaelle-und-fahrzeitenaenderungen/)
