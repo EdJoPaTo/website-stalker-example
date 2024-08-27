@@ -103,6 +103,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Switcheroo**Convert and manipulate images](Converter/)
 * [**Tangram**Browser for your pinned tabs](Tangram/)
 * [**Text Pieces**Developer's scratchpad](TextPieces/)
+* [**Tuba**Browse the Fediverse](Tuba/)
 * [**Valuta**Convert between currencies](Valuta/)
 * [**Video Trimmer**Trim videos quickly](VideoTrimmer/)
 * [**Warp**Fast and secure file transfer](Warp/)
