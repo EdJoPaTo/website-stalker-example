@@ -20,6 +20,8 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Uelzen - Celle - Hannover
 
+[30.07.2024 - 09.09.2024 Stabilisierungsfahrplan metronom RE2 (ab 30.08.)](https://www.der-metronom.de/baustellen/stabilisierungsfahrplan-metronom-re2/)
+
 [26.08.2024 - 29.08.2024 RE2/RE3: nächtliche Teilausfälle zwischen Uelzen \<\> Celle \<\> Hannover Hbf - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf-ersatzverkehr-mit-bussen/)
 
 [06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
@@ -27,6 +29,8 @@ RE2 Uelzen - Celle - Hannover
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
 RE2 Hannover - Northeim - Göttingen
+
+[30.07.2024 - 09.09.2024 Stabilisierungsfahrplan metronom RE2 (ab 30.08.)](https://www.der-metronom.de/baustellen/stabilisierungsfahrplan-metronom-re2/)
 
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
@@ -41,6 +45,8 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 RE4 + RB41 Bremen - Rotenburg - Hamburg
 
 [27.08.2024 - 01.09.2024 RE4/RB41: nächtliche Umleitungen/Teilausfälle zwischen Rotenburg (W.) und Bremen Hbf sowie Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-umleitungen-teilausfaelle-zwischen-rotenburg-w-und-bremen-hbf-sowie-haltausfaelle-und-fahrzeitenaenderungen/)
+
+[06.09.2024 - 15.09.2024 RE4/RB41: Teilausfälle zwischen Hamburg Hbf \<\> Hamburg-Harburg, Fahrzeitenänderungen sowie voraussichtlich hohe Verspätungen](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-hamburg-harburg-fahrzeitenaenderungen-sowie-voraussichtlich-hohe-verspaetungen/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------
