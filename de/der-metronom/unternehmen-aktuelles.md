@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Kundenservice: aktuell nur per Telefon erreichbar!](https://www.der-metronom.de/aktuell/kundenservice-aktuell-nur-per-telefon-erreichbar/)
+
+ Uelzen - 28.08.2024
+
+Moin liebe Fahrgäste,
+unser Kundenservice ist derzeit nur telefonisch erreichbar. Die Kontaktformulare auf dieser Website stehen derzeit nicht zur Verfügung!
+
 [RE4/RB41 ACHTUNG bei SEV: Abfahrt der Busse in Bremen abweichend vom Bussteig R vor dem Cinemaxx](https://www.der-metronom.de/aktuell/re4-rb41-achtung-bei-sev-abfahrt-der-busse-in-bremen-abweichend-vom-bussteig-r-vor-dem-cinemaxx/)
 
  27.08.2024
