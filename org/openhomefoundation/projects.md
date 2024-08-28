@@ -33,9 +33,21 @@ Collabs
 
 [Learn more](https://www.zigbee2mqtt.io/)
 
+ The Home Assistant Community Store (HACS) gives users a streamlined interface to access hundreds of community-made integrations, cards, themes, and more.
+
+[Learn more](https://www.hacs.xyz/)
+
+ Music Assistant is a music library manager for your offline and online music sources which can easily stream your favourite music to a wide range of supported players and be combined with the power of Home Assistant!
+
+[Learn more](https://music-assistant.io/)
+
  Z-Wave JS is an open-source Z-Wave device driver, supported by a small team of smart home enthusiasts. Thanks to resources directed to the project by the Open Home Foundation, Dominic Griesel is employed to work on Z-Wave JS on a full-time basis.
 
-[Learn more](https://github.com/zwave-js)
+[Learn more](https://zwave-js.github.io/node-zwave-js/)
+
+ microWakeWord is an open-source wakeword library for detecting custom wake words on low power devices. It produces models that are suitable for using TensorFlow Lite for Microcontrollers. The models are suitable for real-world usage with low false accept and false reject rates.
+
+[Learn more](https://github.com/kahrendt/microWakeWord)
 
  Standards, drivers, and libraries
 ----------

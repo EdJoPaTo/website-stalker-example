@@ -49,7 +49,7 @@ Our work
 Our collabs
 ----------
 
- Thanks to support from our partner **Nabu Casa**, we also collaborate on external member projects that align with our principles. These include *Z-Wave JS*, *WLED*, *Rhasspy*, and *Zigbee2MQTT*.
+ Thanks to support from our partner **Nabu Casa**, we also collaborate on external member projects that align with our principles. These include *Z-Wave JS*, *WLED*, *HACS*, *Music Assistant* and *Zigbee2MQTT*.
 
 [Learn more](https://www.openhomefoundation.org/projects/#collabs)
 
