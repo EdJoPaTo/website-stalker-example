@@ -22,8 +22,6 @@ RE2 Uelzen - Celle - Hannover
 
 [30.07.2024 - 09.09.2024 Stabilisierungsfahrplan metronom RE2 (ab 30.08.)](https://www.der-metronom.de/baustellen/stabilisierungsfahrplan-metronom-re2/)
 
-[26.08.2024 - 29.08.2024 RE2/RE3: nächtliche Teilausfälle zwischen Uelzen \<\> Celle \<\> Hannover Hbf - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf-ersatzverkehr-mit-bussen/)
-
 [06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
 
 [11.09.2024 - 15.09.2024 RE2/RE3: nächtliche Teilausfälle Uelzen \<\> Celle \<\> Hannover sowie Haltausfälle Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-uelzen-celle-hannover-sowie-haltausfaelle-northeim-und-noerten-hardenberg/)
