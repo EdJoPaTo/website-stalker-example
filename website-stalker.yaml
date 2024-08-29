@@ -121,8 +121,13 @@ sites:
       - css_select: body
       - html_markdownify
 
+  - url: https://www.netcup-sonderangebote.de/
+    editors:
+      - css_remove: img, .card--content--image, style, script, .newsletter-widget-card
+      - css_select: .card
+      - html_url_canonicalize
+      - html_markdownify
   - url:
-      - https://www.netcup-sonderangebote.de/
       - https://www.netcup.de/adventskalender/
       - https://www.netcup.de/vserver/
       - https://www.netcup.de/vserver/arm-server/
@@ -131,7 +136,8 @@ sites:
       - https://www.netcup.de/vserver/vps.php
     editors:
       - css_select: .card, table
-      - css_remove: img, .card--content--image, style, script, .input-field
+      - css_remove: img, .card--content--image, style, script
+      - css_remove: ".card:has(#storage-calculator)"
       - html_url_canonicalize
       - html_prettify
   - url:
