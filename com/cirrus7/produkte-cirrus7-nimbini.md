@@ -118,20 +118,13 @@ cirrus nimbini v4 - Pro Edition
 
   * Samsung SSD 990 EVO 1TB (109,00 €)Samsung SSD 990 EVO 2TB (169,00 €)Samsung SSD 990 Pro 1TB (129,00 €)Samsung SSD 990 Pro 2TB (199,00 €)Samsung SSD 990 Pro 4TB (359,00 €)
 
-  ##### Festplatte / SSD #####
+  ##### SSD #####
 
-  Es passt 1x 2.5" SSD / HDD in den cirrus nimbini
+  Es passt 1x 2.5" SSD in den cirrus nimbini
 
   SATA Slot 1
 
-  * SSD
-  * HDD
-
-  Wählen sie zwischen einer 2.5" SSD oder HDD. Eine SSD ist lautlos und wird daher empfohlen.
-
-  * KeineHard disk drive 2.5″ 1TB (59,00 €)Hard disk drive 2.5″ 2TB (99,00 €)Hard disk drive 2.5″ 4TB (149,00 €)Hard disk drive 2.5″ 5TB (199,00 €)
-
-  * KeineSamsung SSD 870 QVO 1TB (99,00 €)Samsung SSD 870 QVO 2TB (159,00 €)Samsung SSD 870 QVO 4TB (279,00 €)Samsung SSD 870 QVO 8TB (529,00 €)Samsung SSD 870 EVO 250GB (49,00 €)Samsung SSD 870 EVO 500GB (69,00 €)Samsung SSD 870 EVO 1TB (109,00 €)Samsung SSD 870 EVO 2TB (189,00 €)Samsung SSD 870 EVO 4TB (399,00 €)
+  * KeineSamsung 870 EVO 250GB (49,00 €)Samsung 870 EVO 500GB (69,00 €)Samsung 870 EVO 1TB (109,00 €)Samsung 870 EVO 2TB (189,00 €)Samsung 870 EVO 4TB (359,00 €)Samsung 870 QVO 1TB (99,00 €)Samsung 870 QVO 2TB (169,00 €)Samsung 870 QVO 4TB (319,00 €)Samsung 870 QVO 8TB (629,00 €)
 
   ##### VESA Wand- und Bildschirmhalterung #####
 
