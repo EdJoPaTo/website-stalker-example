@@ -214,10 +214,6 @@ Your way.
 
 [Visit Zorin](https://zorinos.com/)
 
- Qubes 4.2.0
-
-[Visit Qubes](https://www.qubes-os.org/)
-
  VAT
 
  The price that you see includes estimated VAT. The exact amount will be calculated at checkout.
