@@ -2,7 +2,7 @@ Availability
 
 All configurations are In-Production and available to order with a discount.
 
-Early Bird Savings - Save up to €95,20!¹
+Slightly Early Bird Savings - Save up to €71,40!¹
 
  In-Production offer is automatically applied at checkout and ends in
 
