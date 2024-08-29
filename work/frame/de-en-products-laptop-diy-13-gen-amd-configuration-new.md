@@ -51,7 +51,7 @@ Choose an option
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-  Batch 1Sold OutBatch 2Sold OutBatch 3Ships SeptemberPast Batches
+  Batch 1ShippedBatch 2ShippedBatch 3Ships SeptemberPast Batches
 
 * 7840U 6% Off€1,289
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
@@ -68,7 +68,7 @@ Choose an option
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-  Batch 1Sold OutBatch 2Sold OutBatch 3Ships SeptemberPast Batches
+  Batch 1ShippedBatch 2ShippedBatch 3Ships SeptemberPast Batches
 
 **Memory**
 
