@@ -82,15 +82,15 @@ Was wir bisher für das Klima bewirkt haben
 Unsere Wirkung in Zahlen
 ----------
 
-**CO2-Einsparung seit Marktstart:**
+**CO2-Kompensation seit Marktstart:**
 
-* 475t seit Marktstart
-* 760t Forecast bis Ende 2025
+* 825t seit Marktstart
+* weitere 500t geplant bis Ende 2025
 
 **Investitionen in Erneuerbare Energien:**
 
-* 2020: Solaranlage mit Ecosia & Naturstrom
-  570 kWp = ca .500 MWh/a
+* 2020: Solaranlage mit Ecosia, GLS & Naturstrom
+  570 kWp = ca. 500 MWh/a
 * 2024: Windkraftanlage mit Prokon
   Fertigstellung: November, Danach ca. 645.000 kWh/a
 
