@@ -219,7 +219,10 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html
+  - url:
+      - https://doc.rust-lang.org/cargo/reference/semver.html
+      - https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html
+      - https://doc.rust-lang.org/rustdoc/lints.html
     editors:
       - css_select: main
       - css_remove: ul:has(li a code)
