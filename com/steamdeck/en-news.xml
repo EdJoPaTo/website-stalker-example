@@ -6,6 +6,78 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: August 28th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4759829264964738392</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Aug 28, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a rare bug that could cause the login page to continuously fail with "error 11" until the client was restarted.
+						<br>
+					</li>
+					<li>
+						Fixed game resolution overrides failing to apply for non-steam games.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added Output Icons to all Mode/Behavior dropdown menus. These indicate if the mode (by default) generates OS Mouse output, XInput (controller) Output, Steam Input API Action Output, or is a remapping tool/Overlay Menu (Touch, Radial, Hotbar).
+						<br>
+					</li>
+					<li>
+						Steam Input API Analog Actions that can have multiple modes i.e. "Camera | Camera as FlickStick" are now labelled as "... (via FlickStick)"
+						<br>
+					</li>
+					<li>
+						Steam Input API Analog Actions can now optionally be used "... (via Gyro To Mouse)" (default is still "As Mouse" or "As Joystick Mouse" depending on source).
+						<br>
+					</li>
+					<li>
+						Fix rare issue where Gyro Processing occurred before controller type is established.
+						<br>
+					</li>
+					<li>
+						Fix for Track Pad as Button Behavior not displaying any glyphs.
+						<br>
+					</li>
+					<li>
+						Fix "Gyro Calibration" Button appearing twice on Gyro config screen if there is a mode shift applied to the Gyro.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759829264964738392" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: August 23rd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4425436537577880271</link>
 			<content:encoded><![CDATA[<html>
@@ -232,86 +304,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/6929437211293286233" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: August 13th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4425435723658749909</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Aug 13, 2024
-			</h5>
-			<div>
-				<b>
-					Note:
-				</b>
-				this beta was rereleased on August 14th with additional fixes for Steam Input and Remote Play
-				<br>
-				<br>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Adults in Steam Families can now right click games in their library and allow/disallow those games for children with parental controls in their family. Also works with multiple games selected.
-						<br>
-					</li>
-					<li>
-						Fixed a rare bug that could result in SteamDeck failing to boot due to invalid symlinks in ~/.steam
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added support for disabling game recording on a per-game basis.
-						<br>
-					</li>
-					<li>
-						Fixed a rare crash on Steam Client shutdown.
-						<br>
-					</li>
-					<li>
-						Fixed an issue where the Jump 10 seconds forward/backward buttons could get stuck when viewing a clip or game recording
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reduced latency of Steam Input API Action Set/Action Set Layer commands. If any input issues are noticed in Steam Input API games please report them in the forums.
-						<br>
-					</li>
-					<li>
-						Reduced latency of Steam Input API rumble/haptics commands
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4425435723658749909" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
