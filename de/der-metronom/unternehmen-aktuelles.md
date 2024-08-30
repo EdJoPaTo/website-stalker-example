@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE2: Beeinträchtigungen durch Stellwerksstörungen (Störung beendet)](https://www.der-metronom.de/aktuell/re2-beeintraechtigungen-durch-stellwerksstoerungen/)
+
+ Uelzen - 30.08.2024
+
+Moin liebe Fahrgäste,
+die technische Störung im Stellwerk Kreiensen ist behoben. Die Strecken zwischen Göttingen - Hannover Hauptbahnhof - Göttingen sind wieder freigegeben. Durch den Rückstau der wartenden Züge und die aufgelaufenen Verspätungen kommt es weiter zu Verspätungen und...
+
 [RE4/RB41 ACHTUNG bei SEV: Abfahrt der Busse in Bremen abweichend vom Bussteig R vor dem Cinemaxx](https://www.der-metronom.de/aktuell/re4-rb41-achtung-bei-sev-abfahrt-der-busse-in-bremen-abweichend-vom-bussteig-r-vor-dem-cinemaxx/)
 
  27.08.2024
