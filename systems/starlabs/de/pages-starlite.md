@@ -8,7 +8,7 @@ N200
 
 processor
 
-4800MHz
+4800MT/s
 
 16 GB
 

@@ -77,7 +77,7 @@ Configurable to:
 
  Memory
 
- 16GB of 4800MHz LPDDR5 onboard memory
+ 16GB of 4800MT/s LPDDR5 onboard memory
 
  Graphics
 
