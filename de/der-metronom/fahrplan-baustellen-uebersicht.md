@@ -38,8 +38,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
-[01.09.2024 RE3/RB31: abendlicher Teilausfall zwischen Lüneburg \<\> Uelzen für zwei Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-abendlicher-teilausfall-zwischen-lueneburg-uelzen-fuer-zwei-verbindungen/)
-
 [06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
 
 [12.09.2024 - 16.09.2024 RE3/RB31: nächtliche Teilausfälle Uelzen \<\> Lüneburg sowie Haltausfälle in Ashausen, Bardowick und Radbruch](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-uelzen-lueneburg-sowie-haltausfaelle-in-ashausen-bardowick-und-radbruch/)
