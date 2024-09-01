@@ -1007,6 +1007,7 @@
 * [Solarbus](https://www.wdrmaus.de/filme/sachgeschichten/solarbus.php5)
 * [Solarmaus](https://www.wdrmaus.de/filme/sachgeschichten/solarmaus.php5)
 * [Solarofen](https://www.wdrmaus.de/filme/sachgeschichten/solarofen.php5)
+* [Solidarische Landwirtschaft](https://www.wdrmaus.de/filme/sachgeschichten/solidarische_landwirtschaft.php5)
 * [Sommerreise 2008: Elbreise (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/sommerreise2008_teil1.php5)
 * [Sommerreise 2008: Elbreise (Teil 2)](https://www.wdrmaus.de/filme/sachgeschichten/sommerreise2008_teil2.php5)
 * [Sommerreise 2008: Elbreise (Teil 3)](https://www.wdrmaus.de/filme/sachgeschichten/sommerreise2008_teil3.php5)
