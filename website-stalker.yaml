@@ -250,6 +250,10 @@ sites:
     editors:
       - css_select: .t4s-product-info__inner
       - css_remove: .t4s-product-price
+      - css_sort:
+          selector: .t4s-product-info__inner
+          sort_by:
+            - html_textify
       - html_url_canonicalize
       - html_markdownify
 

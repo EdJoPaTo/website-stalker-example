@@ -34,6 +34,10 @@ No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Lapto
 
 \_ Important Note Before Purchase: 1.Not support the phone case thicker than 2mm. 2.Not support video output 3.Charging speed will depend on the device and the wall charger. We sugget...
 
+### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
+
+ UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead
+
 ### [UGREEN USB A to USB C Cable (Nylon Braided )](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-cable-nylon-braided) ###
 
 Multi Function With this USB A to USB C Cable, you can achieve charging and data syncing at a fast speed. Previous page Next page 1 480Mbps Data Transfer 2...
@@ -41,7 +45,3 @@ Multi Function With this USB A to USB C Cable, you can achieve charging and data
 ### [UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable](https://eu.ugreen.com/products/ugreen-usb-c-90-degree-cable-3a-right-angle-type-c-charger-cable) ###
 
 UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable
-
-### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
-
- UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead
