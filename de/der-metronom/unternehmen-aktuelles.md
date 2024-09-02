@@ -19,9 +19,9 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
  27.08.2024
 
-Liebe Fahrgäste,
-aufgrund einer Totalsperrung der Regionalbushaltestellenanlage inkl. des SEV-Bussteiges am Hbf Bremen fahren die Busse bis auf Weiteres abweichend vom Bussteig R vor dem Cinemaxx in Bremen ab.
-Euer metronom Team
+Moin liebe Fahrgäste,
+bitte beachtet, dass die Busse in Bremen bis auf Weiteres nicht vom Bussteig J, sondern vom Bussteig R vor dem Cinemaxx abfahren.
+Vielen Dank für euer Verständnis.euer metronom-Team
 
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
