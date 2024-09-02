@@ -22,6 +22,10 @@ UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to mee
 
 2 Pack with Different Length Comes with 2 different lengths charging cables(1m & 2m), This Type C Cable is a cost-effective choice for you whether to charge at home or...
 
+### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
+
+Fast Charge Almost All USB C Devices UGREEN USB C Charger Cable delivers power up to 240W, and is backward compatible with 140W (28V/5A), 100W (20V/5A), 60W (20V/3A), 45W (15V/3A),...
+
 ### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
 
 No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
@@ -37,10 +41,6 @@ Multi Function With this USB A to USB C Cable, you can achieve charging and data
 ### [UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable](https://eu.ugreen.com/products/ugreen-usb-c-90-degree-cable-3a-right-angle-type-c-charger-cable) ###
 
 UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable
-
-### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
-
-Fast Charge Almost All USB C Devices UGREEN USB C Charger Cable delivers power up to 240W, and is backward compatible with 140W (28V/5A), 100W (20V/5A), 60W (20V/3A), 45W (15V/3A),...
 
 ### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
 
