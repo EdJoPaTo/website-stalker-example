@@ -160,6 +160,7 @@
 * [Brücke verziehen](https://www.wdrmaus.de/filme/sachgeschichten/bruecke_verziehen.php5)
 * [Brücken](https://www.wdrmaus.de/filme/sachgeschichten/bruecken.php5)
 * [Brückenrollen](https://www.wdrmaus.de/filme/sachgeschichten/brueckenrollen.php5)
+* [Brückenseil](https://www.wdrmaus.de/filme/sachgeschichten/brueckenseil.php5)
 * [Büroklammer](https://www.wdrmaus.de/filme/sachgeschichten/bueroklammer.php5)
 * [Bumerang](https://www.wdrmaus.de/filme/sachgeschichten/bumerang.php5)
 * [Bundestagswahl](https://www.wdrmaus.de/filme/sachgeschichten/wahlmaus.php5)
