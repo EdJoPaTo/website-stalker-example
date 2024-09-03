@@ -214,6 +214,6 @@ USB-C to USB-A Adapter
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Estimated dispatch in 8 - 9 weeks
+Estimated dispatch in 6 - 7 weeks
 
  Add to Basket

@@ -216,6 +216,6 @@ EU, US and AU available)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Estimated dispatch in 8 - 9 weeks
+Estimated dispatch in 6 - 7 weeks
 
 [Configure](/products/starlite)
