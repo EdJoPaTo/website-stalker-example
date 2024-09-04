@@ -1,17 +1,45 @@
-e.s.iconic
+e.s.trail
 ----------
 
 ---
 
- Urtypisch, kernig, einfach authentisch: Die toughe Workwear gibt es jetzt auch für Damen und Kinder.
+ Bereit für jedes Abenteuer:
+die neue e.s.trail Outdoor-Workwear
 
-[jetzt entdecken](https://www.engelbert-strauss.de/iconic)
+[jetzt entdecken](https://www.engelbert-strauss.de/trail)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-iconic/?sort=newest)
+[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
+
+ Highlight
+
+ Hybrid Funktionshose e.s.trail
+
+[für Herren](https://www.engelbert-strauss.de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96085-1730.html?itemorigin=StartseiteHW24)
+
+[für Damen](https://www.engelbert-strauss.de/berufshosen-damen/hybrid-funktionshose-e-s-trail-damen-3164220-96095-1730.html?itemorigin=StartseiteHW24)
+
+###  Brand Partnerships  ###
+
+---
+
+[alle Kooperationen](https://www.engelbert-strauss.de/brand_partnerships)
+
+###  Football
+is family  ###
+
+---
+
+ Endlich geht es in die nächste Saison - jetzt auch für Damen und Kinder!
+
+[jetzt entdecken](https://www.engelbert-strauss.de/NFL)
+
+[alle Produkte](https://www.engelbert-strauss.de/nfl-x-strauss/)
 
 ###  Weitere Neuheiten entdecken  ###
 
 ---
+
+[Warnschutz jetzt auch im Damenschnitt!](https://www.engelbert-strauss.de/e-s-motion-24-7-damen/)
 
  Neue Warnschutz-Teamwear
 
@@ -23,37 +51,15 @@ e.s.iconic
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-motion-24-7/?sort=newest)
 
-[Warnschutz jetzt auch im Damenschnitt!](https://www.engelbert-strauss.de/e-s-motion-24-7-damen/)
+ coole Outfits für Café & Co.
 
- vielseitige Reisetaschen
-
-###  work&travel  ###
+###  Gastro  ###
 
 ---
 
-[jetzt entdecken](https://www.engelbert-strauss.de/workandtravel)
+[für Damen](https://www.engelbert-strauss.de/gastro-damen/?sort=newest)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-work-travel/?sort=newest)
-
- schon ab
-
- 59,38 €
-
- mit MwSt.
-
-####  Neue Outdoor-Allrounder für Arbeit & Abenteuer  ####
-
----
-
-[e.s.trail entdecken](https://www.engelbert-strauss.de/trail)
-
-###  Highlights  ###
-
----
-
-[Herren](https://www.engelbert-strauss.de/#!highlights/men) [Damen](https://www.engelbert-strauss.de/#!highlights/women)
-
-[Hybrid Funktionshose e.s.trail, Herren](https://www.engelbert-strauss.de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96085-1730.html?itemorigin=StartseiteHW24)
+[für Herren](https://www.engelbert-strauss.de/gastronomiebekleidung-kochbekleidung/?sort=newest)
 
 ###  Alle Neuheiten entdecken  ###
 
@@ -64,6 +70,24 @@ e.s.iconic
 [Damen](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
 
 [Kinder](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Kinder/)
+
+###  Ausstattung für Forst-Profis  ###
+
+---
+
+####  Optimal ausrüsten
+und sparen  ####
+
+---
+
+[alle Forst Sets](https://www.engelbert-strauss.de/s/suche?query=forst%20set%20sale)
+
+ Setpreis
+\-18%
+
+[SET: Forsthelm Protos + STRAUSSbox 340 midi](https://www.engelbert-strauss.de/sale-aktions-sets-arbeitsschutz/set-forsthelm-protos-straussbox-340-midi-7000370-7576619-685.html?itemorigin=StartseiteHW24)
+
+[jetzt kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-arbeitsschutz/set-forsthelm-protos-straussbox-340-midi-7000370-7576619-685.html?itemorigin=StartseiteHW24)
 
 Sie gestalten
 Wir sticken
@@ -84,7 +108,7 @@ unkompliziert
 
 ---
 
-170 Motive
+190 Motive
 zur Auswahl
 
 ---
