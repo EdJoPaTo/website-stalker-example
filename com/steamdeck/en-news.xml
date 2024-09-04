@@ -6,6 +6,54 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: September 3rd</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4759829899290166423</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Sep 3, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed missing or out of date game logos in chat
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the mouse position selector being opaque instead of displaying the game's UI on Deck
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759829899290166423" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: August 28th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4759829264964738392</link>
 			<content:encoded><![CDATA[<html>
@@ -251,59 +299,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/6929437446240967559" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.10 Beta: Tenth time&apos;s the charm</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/6929437211293286233</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Aug 14, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					Bluetooth
-				</b>
-				<ul>
-					<li>
-						Fixed a 3.6 regression with the Steam Controller and some other third-party controllers causing session crashes
-						<br>
-					</li>
-					<li>
-						Fixed an issue where Bluetooth peripherals would disconnect on session switch
-					</li>
-				</ul>
-				<b>
-					Display
-				</b>
-				<ul>
-					<li>
-						Fixed an issue where the internal display could remain blank after disconnecting an external display
-						<br>
-					</li>
-					<li>
-						Fixed a 3.6 regression where the selected refresh rate setting would sometimes not apply immediately
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6929437211293286233" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
