@@ -381,7 +381,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 17.6 (or newer), Apple Home Hub with Thread (Apple TV 4K (2nd generation) Apple TV 4K (3rd generation, 128 GB) HomePod (2nd generation) or HomePod mini) Eve Thermo (4th generation)
+Requires iOS/iPadOS 17.6 (or newer); Apple TV 4K (2nd gen.), Apple TV 4K (3rd gen. 128 GB), HomePod (2nd gen.) or HomePod mini); Eve Thermo (4th gen.)
 
 Matter
 
@@ -897,7 +897,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 17.6 (or newer), Apple Home Hub with Thread (Apple TV 4K (2nd generation) Apple TV 4K (3rd generation, 128 GB) HomePod (2nd generation) or HomePod mini) Eve Thermo (4th generation)
+Requires iOS/iPadOS 17.6 (or newer); Apple TV 4K (2nd gen.), Apple TV 4K (3rd gen. 128 GB), HomePod (2nd gen.) or HomePod mini); Eve Thermo (4th gen.)
 
 Matter
 

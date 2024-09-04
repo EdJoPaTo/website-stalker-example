@@ -3,6 +3,22 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner Cloud platform.
 
+September 2024
+----------
+
+Sep 04
+
+### New entry point in your projects: The dashboard is live 🚀 ###
+
+[](https://docs.hetzner.cloud/whats-new#2024-09-04-new-entry-point-in-your-projects-the-dashboard-is-live-)
+
+When you open a project, the new dashboard provides an overview of all resources, activities, and important information.
+
+* **Quick actions**Add common actions like "Create Server," or "Invite Member" as quick action buttons that take you directly to the creation process.
+* **Custom cards**Use custom cards to organize your resources based on labels.
+* **Status Card**Stay informed about server outages or important updates. When everything is running smoothly, the card is hidden.
+* **Customize the dashboard**Show or hide sections, change their order, or create and delete cards. Click the gear icon in the top right to personalize your dashboard. Settings are saved individually for each user and project.
+
 August 2024
 ----------
 
@@ -75,17 +91,17 @@ Up until now, the key combination **"ctrl / ⌘ + K"** was used to open the filt
 
 Feb 13
 
-### Default settings for server creation ###
-
-[](https://docs.hetzner.cloud/whats-new#2024-02-13-default-settings-for-server-creation)
-
-The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
-
 ### Duplicate Firewalls ###
 
 [](https://docs.hetzner.cloud/whats-new#2024-02-13-duplicate-firewalls)
 
 The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
+
+### Default settings for server creation ###
+
+[](https://docs.hetzner.cloud/whats-new#2024-02-13-default-settings-for-server-creation)
+
+The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
 
 December 2023
 ----------
@@ -302,17 +318,17 @@ September 2022
 
 Sep 29
 
-### Redesign of the server, Load Balancer, and Firewall creation pages ###
-
-[](https://docs.hetzner.cloud/whats-new#2022-09-29-redesign-of-the-server-load-balancer-and-firewall-creation-pages)
-
-The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
-
 ### Improved user experience for notifications ###
 
 [](https://docs.hetzner.cloud/whats-new#2022-09-29-improved-user-experience-for-notifications)
 
 For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
+
+### Redesign of the server, Load Balancer, and Firewall creation pages ###
+
+[](https://docs.hetzner.cloud/whats-new#2022-09-29-redesign-of-the-server-load-balancer-and-firewall-creation-pages)
+
+The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
 
 July 2022
 ----------

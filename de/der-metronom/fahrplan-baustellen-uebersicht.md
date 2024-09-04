@@ -18,16 +18,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 [Heute](https://www.der-metronom.de/fahrplan/baustellen-uebersicht/)
 [Reisetag](https://www.der-metronom.de/fahrplan/baustellen-uebersicht/)
 
-RE2 Uelzen - Celle - Hannover
-
-[30.07.2024 - 09.09.2024 Stabilisierungsfahrplan metronom RE2 (ab 30.08.)](https://www.der-metronom.de/baustellen/stabilisierungsfahrplan-metronom-re2/)
-
-[06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
-
-[11.09.2024 - 15.09.2024 RE2/RE3: nächtliche Teilausfälle Uelzen \<\> Celle \<\> Hannover sowie Haltausfälle Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-uelzen-celle-hannover-sowie-haltausfaelle-northeim-und-noerten-hardenberg/)
-
-[16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
-
 RE2 Hannover - Northeim - Göttingen
 
 [30.07.2024 - 09.09.2024 Stabilisierungsfahrplan metronom RE2 (ab 30.08.)](https://www.der-metronom.de/baustellen/stabilisierungsfahrplan-metronom-re2/)
@@ -36,7 +26,17 @@ RE2 Hannover - Northeim - Göttingen
 
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
-RE3 + RB31 Hamburg - Lüneburg - Uelzen
+RE2 + RE3 Uelzen - Celle - Hannover
+
+[30.07.2024 - 09.09.2024 Stabilisierungsfahrplan metronom RE2 (ab 30.08.)](https://www.der-metronom.de/baustellen/stabilisierungsfahrplan-metronom-re2/)
+
+[06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
+
+[11.09.2024 - 15.09.2024 RE2/RE3: nächtliche Teilausfälle Uelzen \<\> Celle \<\> Hannover sowie Haltausfälle Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-uelzen-celle-hannover-sowie-haltausfaelle-northeim-und-noerten-hardenberg/)
+
+[16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
+
+RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
 
@@ -44,7 +44,7 @@ RE3 + RB31 Hamburg - Lüneburg - Uelzen
 
 [22.09.2024 - 24.09.2024 RE3/RB31: nächtliche Teilausfälle zwischen Lüneburg und Uelzen sowie Haltausfälle Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-zwischen-lueneburg-und-uelzen-sowie-haltausfaelle-ashausen/)
 
-RE4 + RB41 Bremen - Rotenburg - Hamburg
+RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [06.09.2024 - 15.09.2024 RE4/RB41: Teilausfälle zwischen Hamburg Hbf \<\> Hamburg-Harburg, Fahrzeitenänderungen sowie voraussichtlich hohe Verspätungen](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-hamburg-harburg-fahrzeitenaenderungen-sowie-voraussichtlich-hohe-verspaetungen/)
 
