@@ -15,12 +15,11 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Bahnhof Uelzen: Der Bahnhof Uelzen ist nach einem gefährlichen Ereignis gesperrt.](https://www.der-metronom.de/aktuell/bahnhof-uelzen-der-bahnhof-uelzen-ist-nach-einem-gefaehrlichen-ereignis-gesperrt/)
+[Bahnhof Uelzen: Der Bahnhof Uelzen ist nach einem gefährlichen Ereignis wieder freigegeben.](https://www.der-metronom.de/aktuell/bahnhof-uelzen-der-bahnhof-uelzen-ist-nach-einem-gefaehrlichen-ereignis-gesperrt/)
 
  Uelzen - 05.09.2024
 
-Aufgrund eines gefährlichen Ereignisses (nicht metronom) im Bahnhof Uelzen ist der Bahnhof Uelzen in beiden Richtungen gesperrt. Es kommt zu Verspätungen und (Teil-)Ausfällen.
-Züge aus Richtung Süden enden bereits in Suderburg. Die Züge aus Hamburg Hbf enden in Bad Bevensen oder in Bienenbüttel....
+Die Streckensperrung nach einem gefährlichen Ereignis (nicht metronom) am Bahnhof Uelzen in beiden Richtungen ist teilweise aufgehoben. Vereinzelt kommt es in den folgenden Stunden noch zu Verspätungen und (Teil-)Ausfällen durch Einschränkungen im Betriebsablauf und den Rückstau wartender...
 
 [RE4/RB41 ACHTUNG bei SEV: Abfahrt der Busse in Bremen abweichend vom Bussteig R vor dem Cinemaxx](https://www.der-metronom.de/aktuell/re4-rb41-achtung-bei-sev-abfahrt-der-busse-in-bremen-abweichend-vom-bussteig-r-vor-dem-cinemaxx/)
 
