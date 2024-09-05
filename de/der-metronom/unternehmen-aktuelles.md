@@ -15,11 +15,11 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Bahnhof Uelzen: Der Bahnhof Uelzen ist nach einem gefährlichen Ereignis wieder freigegeben.](https://www.der-metronom.de/aktuell/bahnhof-uelzen-der-bahnhof-uelzen-ist-nach-einem-gefaehrlichen-ereignis-gesperrt/)
+[Information zur kostenlosen Telefonseelsorge für Augenzeugen des Vorfalls am Bahnhof Uelzen](https://www.der-metronom.de/aktuell/information-zur-kostenlosen-telefonseelsorge-fuer-augenzeugen-des-vorfalls-am-bahnhof-uelzen/)
 
  Uelzen - 05.09.2024
 
-Die Streckensperrung nach einem gefährlichen Ereignis (nicht metronom) am Bahnhof Uelzen in beiden Richtungen ist teilweise aufgehoben. Vereinzelt kommt es in den folgenden Stunden noch zu Verspätungen und (Teil-)Ausfällen durch Einschränkungen im Betriebsablauf und den Rückstau wartender...
+Am 05. September kam es am Bahnhof Uelzen zu einem Vorfall, der für Anwesende und Augenzeugen belastend sein kann. Menschen, die sich in einer emotionalen Ausnahmesituation befinden, sollten die Telefonseelsorge kontaktieren. Unter der kostenlosen Rufnummer (0 800) 111 0 111 oder (0800) 111 0 222...
 
 [RE4/RB41 ACHTUNG bei SEV: Abfahrt der Busse in Bremen abweichend vom Bussteig R vor dem Cinemaxx](https://www.der-metronom.de/aktuell/re4-rb41-achtung-bei-sev-abfahrt-der-busse-in-bremen-abweichend-vom-bussteig-r-vor-dem-cinemaxx/)
 
