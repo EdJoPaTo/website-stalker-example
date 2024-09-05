@@ -128,33 +128,24 @@ sites:
       - html_url_canonicalize
       - html_markdownify
   - url:
-      - https://www.netcup.de/adventskalender/
-      - https://www.netcup.de/vserver/
-      - https://www.netcup.de/vserver/arm-server/
-      - https://www.netcup.de/vserver/root-server-erweiterungen.php
-      - https://www.netcup.de/vserver/vps-mini.php
-      - https://www.netcup.de/vserver/vps.php
+      - https://www.netcup.com/de/domains/domain-kaufen
+      - https://www.netcup.com/de/server/arm-server
+      - https://www.netcup.com/de/server/guenstige-vserver-angebote
+      - https://www.netcup.com/de/server/kvm-server-erweiterungen
+      - https://www.netcup.com/de/server/local-block-storage
+      - https://www.netcup.com/de/server/root-server
+      - https://www.netcup.com/de/server/server-storage
+      - https://www.netcup.com/de/server/vps
+      - https://www.netcup.com/de/server/vserver-guenstig-qualitaet
+      - https://www.netcup.com/de/server/vserver-images
     editors:
-      - css_select: .card, table
-      - css_remove: img, .card--content--image, style, script
-      - css_remove: ".card:has(#storage-calculator)"
+      - css_select: '#main'
+      - css_remove: img, svg, style, script, a:not([href])
+      - css_remove: article:has(section .submenu__item a.no-link-style) # nav
+      - css_remove: div > .grid-container:has(h3):has(a.no-link-style) # footer
+      - css_remove: .grid-container:has(input) # Local Block Storage Preisrechner
       - html_url_canonicalize
-      - html_prettify
-  - url:
-      - https://www.netcup.de/vserver/storagespace.php
-      - https://www.netcup.de/vserver/local-block-storage/
-    editors:
-      - css_remove: img, .main-navigation-wrapper
-      - css_select: main > .container
-      - html_url_canonicalize
-      - html_sanitize
-      - html_prettify
-  - url: https://www.netcup.de/vserver/vserver-images.php
-    editors:
-      - css_select: table
-      - html_url_canonicalize
-      - html_sanitize
-      - html_prettify
+      - html_markdownify
 
   - url:
       - https://www.hetzner.com/cloud/
