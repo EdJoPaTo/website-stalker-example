@@ -29,6 +29,10 @@ You don’t have to edit /etc/modules anymore, but need to load the correct devi
 
 `dtoverlay=hifiberry-dac`
 
+#### DAC8x ####
+
+`dtoverlay=hifiberry-dac8x`
+
 #### DAC+ Standard/Amp2/Amp4 ####
 
 Kernel \< 6.1.77
@@ -61,11 +65,11 @@ Kernel \>= 6.1.77
 
 `dtoverlay=hifiberry-dacplusadcpro`
 
-#### Digi+ ####
+#### Digi+, Digi 2 Standard ####
 
 `dtoverlay=hifiberry-digi`
 
-#### Digi+ Pro ####
+#### Digi+ Pro, Digi 2 Pro ####
 
 `dtoverlay=hifiberry-digi-pro`
 
@@ -146,4 +150,4 @@ and the output of
 
 `sudo vcdbg log msg`
 
-##### Last updated: March 14, 2024 #####
+##### Last updated: September 5, 2024 #####

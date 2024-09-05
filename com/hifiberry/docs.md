@@ -127,12 +127,6 @@ updated 2024-03-05
 
 [Software](https://www.hifiberry.com/docs/software/)
 
-[Configuring Linux 4.x or higher](https://www.hifiberry.com/docs/software/configuring-linux-3-18-x/)
-
-amp, configuration, dac, digi, first steps
-
-updated 2024-03-14
-
 [Updating the Linux kernel](https://www.hifiberry.com/docs/software/updating-the-linux-kernel/)
 
 linux, update
@@ -144,6 +138,12 @@ updated 2019-10-04
 alsa
 
 updated 2019-10-04
+
+[Configuring Linux 4.x or higher](https://www.hifiberry.com/docs/software/configuring-linux-3-18-x/)
+
+amp, configuration, dac, digi, first steps
+
+updated 2024-09-05
 
 [How to run a Roon Bridge on a HiFiBerry DAC+ equipped Raspberry Pi](https://www.hifiberry.com/docs/software/how-to-run-a-roon-bridge-on-a-hifiberry-dac-equipped-raspberry-pi/)
 
