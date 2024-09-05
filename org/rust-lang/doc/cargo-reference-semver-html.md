@@ -297,7 +297,7 @@ fn main() {
 #### [Minor: Adding `repr(C)` to a default representation](#repr-c-add) ####
 
 It is safe to add `repr(C)` to a struct, union, or enum with [the default representation](../../reference/type-layout.html#the-default-representation).
-This is safe because users should not make assumptions about the alignment, layout, or size of types with with the default representation.
+This is safe because users should not make assumptions about the alignment, layout, or size of types with the default representation.
 
 ```
 // MINOR CHANGE

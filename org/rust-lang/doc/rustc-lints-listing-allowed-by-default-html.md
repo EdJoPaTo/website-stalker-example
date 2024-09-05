@@ -68,41 +68,66 @@ edition.
 
 The lint `async-idents` has been renamed to [`keyword-idents`](#keyword-idents).
 
-[box-pointers](#box-pointers)
+[closure-returning-async-block](#closure-returning-async-block)
 ----------
 
-The `box_pointers` lints use of the Box type.
+The `closure_returning_async_block` lint detects cases where users
+write a closure that returns an async block.
 
 ### [Example](#example-1) ###
 
 ```
-#![deny(box_pointers)]
-struct Foo {
-    x: Box<isize>,
-}
+#![warn(closure_returning_async_block)]
+let c = |x: &str| async {};
 ```
 
 This will produce:
 
 ```
-error: type uses owned (Box type) pointers: Box<isize>
- --> lint_example.rs:4:5
+warning: unknown lint: `closure_returning_async_block`
+ --> lint_example.rs:1:1
   |
-4 |     x: Box<isize>,
-  |     ^^^^^^^^^^^^^
+1 | #![warn(closure_returning_async_block)]
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   |
-note: the lint level is defined here
- --> lint_example.rs:1:9
-  |
-1 | #![deny(box_pointers)]
-  |         ^^^^^^^^^^^^
+  = note: the `closure_returning_async_block` lint is unstable
+  = note: see issue #62290 <https://github.com/rust-lang/rust/issues/62290> for more information
+  = help: add `#![feature(async_closure)]` to the crate attributes to enable
+  = note: this compiler was built on 2024-09-04; consider upgrading it if it is out of date
+  = note: `#[warn(unknown_lints)]` on by default
 
 ```
 
 ### [Explanation](#explanation-1) ###
 
-This lint is mostly historical, and not particularly useful. `Box<T>`used to be built into the language, and the only way to do heap
-allocation. Today's Rust can call into other allocators, etc.
+Using an async closure is preferable over a closure that returns an
+async block, since async closures are less restrictive in how its
+captures are allowed to be used.
+
+For example, this code does not work with a closure returning an async
+block:
+
+```
+async fn callback(x: &str) {}
+
+let captured_str = String::new();
+let c = move || async {
+    callback(&captured_str).await;
+};
+```
+
+But it does work with async closures:
+
+```
+#![feature(async_closure)]
+
+async fn callback(x: &str) {}
+
+let captured_str = String::new();
+let c = async move || {
+    callback(&captured_str).await;
+};
+```
 
 [deprecated-safe](#deprecated-safe)
 ----------
@@ -139,8 +164,9 @@ note: the lint level is defined here
   |         ^^^^^^^^^^^^^^^
 help: you can wrap the call in an `unsafe` block if you can guarantee the code is only ever called from single-threaded code
   |
-6 |     unsafe { env::set_var("RUST_BACKTRACE", "1") };
-  |     ++++++++                                     +
+6 +     // TODO: Audit that the environment access only happens in single-threaded code.
+7 ~     unsafe { env::set_var("RUST_BACKTRACE", "1") };
+  |
 
 ```
 
@@ -168,6 +194,79 @@ future.
 
 The lint `disjoint-capture-migration` has been renamed to [`rust-2021-incompatible-closure-captures`](#rust-2021-incompatible-closure-captures).
 
+[edition-2024-expr-fragment-specifier](#edition-2024-expr-fragment-specifier)
+----------
+
+The `edition_2024_expr_fragment_specifier` lint detects the use of`expr` fragments in macros during migration to the 2024 edition.
+
+The `expr` fragment specifier will accept more expressions in the 2024
+edition. To maintain the behavior from the 2021 edition and earlier, use
+the `expr_2021` fragment specifier.
+
+### [Example](#example-3) ###
+
+```
+#![deny(edition_2024_expr_fragment_specifier)]
+macro_rules! m {
+  ($e:expr) => {
+      $e
+  }
+}
+
+fn main() {
+   m!(1);
+}
+```
+
+This will produce:
+
+```
+error: the `expr` fragment specifier will accept more expressions in the 2024 edition
+ --> lint_example.rs:3:7
+  |
+3 |   ($e:expr) => {
+  |       ^^^^
+  |
+  = warning: this changes meaning in Rust 2024
+  = note: for more information, see Migration Guide <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/macro-fragment-specifiers.html>
+note: the lint level is defined here
+ --> lint_example.rs:1:9
+  |
+1 | #![deny(edition_2024_expr_fragment_specifier)]
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+help: to keep the existing behavior, use the `expr_2021` fragment specifier
+  |
+3 |   ($e:expr_2021) => {
+  |       ~~~~~~~~~
+
+```
+
+### [Explanation](#explanation-3) ###
+
+Rust [editions](https://doc.rust-lang.org/edition-guide/) allow the language to evolve without breaking backwards
+compatibility. This lint catches code that uses [macro matcher fragment specifiers](https://doc.rust-lang.org/nightly/edition-guide/rust-2024/macro-fragment-specifiers.html) that have changed meaning in the 2024 edition. If you switch
+to the new edition without updating the code, your macros may behave
+differently.
+
+In the 2024 edition, the `expr` fragment specifier `expr` will also
+match `const { ... }` blocks. This means if a macro had a pattern that
+matched `$e:expr` and another that matches `const { $e: expr }`, for
+example, that under the 2024 edition the first pattern would match while
+in the 2021 and earlier editions the second pattern would match. To keep
+the old behavior, use the `expr_2021` fragment specifier.
+
+This lint detects macros whose behavior might change due to the changing
+meaning of the `expr` fragment specifier. It is "allow" by default
+because the code is perfectly valid in older editions. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html)tool with the `--edition` flag will switch this lint to "warn" and
+automatically apply the suggested fix from the compiler. This provides a
+completely automated way to update old code for a new edition.
+
+Using `cargo fix --edition` with this lint will ensure that your code
+retains the same behavior. This may not be the desired, as macro authors
+often will want their macros to use the latest grammar for matching
+expressions. Be sure to carefully review changes introduced by this lint
+to ensure the macros implement the desired behavior.
+
 [elided-lifetime-in-path](#elided-lifetime-in-path)
 ----------
 
@@ -179,7 +278,7 @@ The lint `elided-lifetime-in-path` has been renamed to [`elided-lifetimes-in-pat
 The `elided_lifetimes_in_paths` lint detects the use of hidden
 lifetime parameters.
 
-### [Example](#example-3) ###
+### [Example](#example-4) ###
 
 ```
 #![deny(elided_lifetimes_in_paths)]
@@ -213,7 +312,7 @@ help: indicate the anonymous lifetime
 
 ```
 
-### [Explanation](#explanation-3) ###
+### [Explanation](#explanation-4) ###
 
 Elided lifetime parameters can make it difficult to see at a glance
 that borrowing is occurring. This lint ensures that lifetime
@@ -228,7 +327,7 @@ may require a significant transition for old code.
 The `explicit_outlives_requirements` lint detects unnecessary
 lifetime bounds that can be inferred.
 
-### [Example](#example-4) ###
+### [Example](#example-5) ###
 
 ```
 #![allow(unused)]
@@ -263,7 +362,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-4) ###
+### [Explanation](#explanation-5) ###
 
 If a `struct` contains a reference, such as `&'a T`, the compiler
 requires that `T` outlives the lifetime `'a`. This historically
@@ -285,7 +384,7 @@ See [RFC 2093](https://github.com/rust-lang/rfcs/blob/master/text/2093-infer-out
 
 The `ffi_unwind_calls` lint detects calls to foreign functions or function pointers with`C-unwind` or other FFI-unwind ABIs.
 
-### [Example](#example-5) ###
+### [Example](#example-6) ###
 
 ```
 #![warn(ffi_unwind_calls)]
@@ -324,7 +423,7 @@ warning: call to function pointer with FFI-unwind ABI
 
 ```
 
-### [Explanation](#explanation-5) ###
+### [Explanation](#explanation-6) ###
 
 For crates containing such calls, if they are compiled with `-C panic=unwind` then the
 produced library cannot be linked with crates compiled with `-C panic=abort`. For crates
@@ -336,7 +435,7 @@ that desire this ability it is therefore necessary to avoid such calls.
 The `fuzzy_provenance_casts` lint detects an `as` cast between an integer
 and a pointer.
 
-### [Example](#example-6) ###
+### [Example](#example-7) ###
 
 ```
 #![feature(strict_provenance)]
@@ -369,7 +468,7 @@ help: use `.with_addr()` to adjust a valid pointer in the same allocation, to th
 
 ```
 
-### [Explanation](#explanation-6) ###
+### [Explanation](#explanation-7) ###
 
 This lint is part of the strict provenance effort, see [issue #95228](https://github.com/rust-lang/rust/issues/95228).
 Casting an integer to a pointer is considered bad style, as a pointer
@@ -397,7 +496,7 @@ rather than just the lifetimes that are mentioned in the bounds of the type.
 Often these sets are equal, but if not, it means that the `impl Trait` may
 cause erroneous borrow-checker errors.
 
-### [Example](#example-7) ###
+### [Example](#example-8) ###
 
 ```
 #![feature(precise_capturing)]
@@ -438,19 +537,19 @@ note: the lint level is defined here
   |         ^^^^^^^^^^^^^^^^^^^^^^^
 help: use the precise capturing `use<...>` syntax to make the captures explicit
   |
-9 | fn test(x: &Vec<i32>) -> impl use<> Display {
-  |                               +++++
+9 | fn test(x: &Vec<i32>) -> impl Display + use<> {
+  |                                       +++++++
 
 ```
 
-### [Explanation](#explanation-7) ###
+### [Explanation](#explanation-8) ###
 
 In edition \< 2024, the returned `impl Display` doesn't capture the
 lifetime from the `&Vec<i32>`, so the vector can be mutably borrowed
 while the `impl Display` is live.
 
 To fix this, we can explicitly state that the `impl Display` doesn't
-capture any lifetimes, using `impl use<> Display`.
+capture any lifetimes, using `impl Display + use<>`.
 
 [keyword-idents](#keyword-idents)
 ----------
@@ -463,7 +562,7 @@ The lint `keyword-idents` has been renamed to [`keyword-idents-2018`](#keyword-i
 The `keyword_idents_2018` lint detects edition keywords being used as an
 identifier.
 
-### [Example](#example-8) ###
+### [Example](#example-9) ###
 
 ```
 #![deny(keyword_idents_2018)]
@@ -490,7 +589,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-8) ###
+### [Explanation](#explanation-9) ###
 
 Rust [editions](https://doc.rust-lang.org/edition-guide/) allow the language to evolve without breaking
 backwards compatibility. This lint catches code that uses new keywords
@@ -513,7 +612,7 @@ update old code for a new edition.
 The `keyword_idents_2024` lint detects edition keywords being used as an
 identifier.
 
-### [Example](#example-9) ###
+### [Example](#example-10) ###
 
 ```
 #![deny(keyword_idents_2024)]
@@ -540,7 +639,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-9) ###
+### [Explanation](#explanation-10) ###
 
 Rust [editions](https://doc.rust-lang.org/edition-guide/) allow the language to evolve without breaking
 backwards compatibility. This lint catches code that uses new keywords
@@ -565,7 +664,7 @@ an expression which has a non-trivial Drop implementation to anything,
 causing the expression to be dropped immediately instead of at end of
 scope.
 
-### [Example](#example-10) ###
+### [Example](#example-11) ###
 
 ```
 struct SomeStruct;
@@ -611,7 +710,7 @@ help: consider immediately dropping the value
 
 ```
 
-### [Explanation](#explanation-10) ###
+### [Explanation](#explanation-11) ###
 
 Statements which assign an expression to an underscore causes the
 expression to immediately drop instead of extending the expression's
@@ -631,7 +730,7 @@ intent.
 The `lossy_provenance_casts` lint detects an `as` cast between a pointer
 and an integer.
 
-### [Example](#example-11) ###
+### [Example](#example-12) ###
 
 ```
 #![feature(strict_provenance)]
@@ -665,7 +764,7 @@ help: use `.addr()` to obtain the address of a pointer
 
 ```
 
-### [Explanation](#explanation-11) ###
+### [Explanation](#explanation-12) ###
 
 This lint is part of the strict provenance effort, see [issue #95228](https://github.com/rust-lang/rust/issues/95228).
 Casting a pointer to an integer is a lossy operation, because beyond
@@ -685,9 +784,9 @@ about the semantics.
 [macro-use-extern-crate](#macro-use-extern-crate)
 ----------
 
-The `macro_use_extern_crate` lint detects the use of the[`macro_use` attribute](https://doc.rust-lang.org/reference/macros-by-example.html#the-macro_use-attribute).
+The `macro_use_extern_crate` lint detects the use of the [`macro_use` attribute](https://doc.rust-lang.org/reference/macros-by-example.html#the-macro_use-attribute).
 
-### [Example](#example-12) ###
+### [Example](#example-13) ###
 
 ```
 #![deny(macro_use_extern_crate)]
@@ -703,12 +802,13 @@ fn main() {
 This will produce:
 
 ```
-error: deprecated `#[macro_use]` attribute used to import macros should be replaced at use sites with a `use` item to import the macro instead
+error: applying the `#[macro_use]` attribute to an `extern crate` item is deprecated
  --> src/main.rs:3:1
   |
 3 | #[macro_use]
   | ^^^^^^^^^^^^
   |
+  = help: remove it and import macros at use sites with a `use` item instead
 note: the lint level is defined here
  --> src/main.rs:1:9
   |
@@ -717,7 +817,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-12) ###
+### [Explanation](#explanation-13) ###
 
 The [`macro_use` attribute](https://doc.rust-lang.org/reference/macros-by-example.html#the-macro_use-attribute) on an [`extern crate`](https://doc.rust-lang.org/reference/items/extern-crates.html) item causes
 macros in that external crate to be brought into the prelude of the
@@ -734,7 +834,7 @@ that has not been settled, see [issue #52043](https://github.com/rust-lang/rust/
 The `meta_variable_misuse` lint detects possible meta-variable misuse
 in macro definitions.
 
-### [Example](#example-13) ###
+### [Example](#example-14) ###
 
 ```
 #![deny(meta_variable_misuse)]
@@ -766,7 +866,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-13) ###
+### [Explanation](#explanation-14) ###
 
 There are quite a few different ways a [`macro_rules`](https://doc.rust-lang.org/reference/macros-by-example.html) macro can be
 improperly defined. Many of these errors were previously only detected
@@ -782,7 +882,7 @@ and other issues. See [issue #61053](https://github.com/rust-lang/rust/issues/61
 The `missing_abi` lint detects cases where the ABI is omitted from
 extern declarations.
 
-### [Example](#example-14) ###
+### [Example](#example-15) ###
 
 ```
 #![deny(missing_abi)]
@@ -808,7 +908,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-14) ###
+### [Explanation](#explanation-15) ###
 
 Historically, Rust implicitly selected C as the ABI for extern
 declarations. We expect to add new ABIs, like `C-unwind`, in the future,
@@ -821,7 +921,7 @@ seeing the ABI easily will make code review easier.
 The `missing_copy_implementations` lint detects potentially-forgotten
 implementations of [`Copy`](https://doc.rust-lang.org/std/marker/trait.Copy.html) for public types.
 
-### [Example](#example-15) ###
+### [Example](#example-16) ###
 
 ```
 #![deny(missing_copy_implementations)]
@@ -850,7 +950,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-15) ###
+### [Explanation](#explanation-16) ###
 
 Historically (before 1.0), types were automatically marked as `Copy`if possible. This was changed so that it required an explicit opt-in
 by implementing the `Copy` trait. As part of this change, a lint was
@@ -867,7 +967,7 @@ large data which can impact performance.
 The `missing_debug_implementations` lint detects missing
 implementations of [`fmt::Debug`](https://doc.rust-lang.org/std/fmt/trait.Debug.html) for public types.
 
-### [Example](#example-16) ###
+### [Example](#example-17) ###
 
 ```
 #![deny(missing_debug_implementations)]
@@ -892,7 +992,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-16) ###
+### [Explanation](#explanation-17) ###
 
 Having a `Debug` implementation on all types can assist with
 debugging, as it provides a convenient way to format and display a
@@ -909,7 +1009,7 @@ boilerplate to be added to every type, which can be an impediment.
 
 The `missing_docs` lint detects missing documentation for public items.
 
-### [Example](#example-17) ###
+### [Example](#example-18) ###
 
 ```
 #![deny(missing_docs)]
@@ -936,7 +1036,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-17) ###
+### [Explanation](#explanation-18) ###
 
 This lint is intended to ensure that a library is well-documented.
 Items without documentation can be difficult for users to understand
@@ -950,7 +1050,7 @@ projects may want to enforce everything to be documented.
 
 The `missing_unsafe_on_extern` lint detects missing unsafe keyword on extern declarations.
 
-### [Example](#example-18) ###
+### [Example](#example-19) ###
 
 ```
 #![feature(unsafe_extern_blocks)]
@@ -989,7 +1089,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-18) ###
+### [Explanation](#explanation-19) ###
 
 Declaring extern items, even without ever using them, can cause Undefined Behavior. We
 should consider all sources of Undefined Behavior to be unsafe.
@@ -1003,7 +1103,7 @@ hard error in the future.
 The `multiple_supertrait_upcastable` lint detects when an object-safe trait has multiple
 supertraits.
 
-### [Example](#example-19) ###
+### [Example](#example-20) ###
 
 ```
 #![feature(multiple_supertrait_upcastable)]
@@ -1031,7 +1131,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-19) ###
+### [Explanation](#explanation-20) ###
 
 To support upcasting with multiple supertraits, we need to store multiple vtables and this
 can result in extra space overhead, even if no code actually uses upcasting.
@@ -1044,7 +1144,7 @@ additional overhead is justified.
 The `must_not_suspend` lint guards against values that shouldn't be held across suspend points
 (`.await`)
 
-### [Example](#example-20) ###
+### [Example](#example-21) ###
 
 ```
 #![feature(must_not_suspend)]
@@ -1086,7 +1186,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-20) ###
+### [Explanation](#explanation-21) ###
 
 The `must_not_suspend` lint detects values that are marked with the `#[must_not_suspend]`attribute being held across suspend points. A "suspend" point is usually a `.await` in an async
 function.
@@ -1100,7 +1200,7 @@ regularly cause problems with the `Send`-ness of async fn's returned futures (li
 
 The `non_ascii_idents` lint detects non-ASCII identifiers.
 
-### [Example](#example-21) ###
+### [Example](#example-22) ###
 
 ```
 #![allow(unused)]
@@ -1127,7 +1227,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-21) ###
+### [Explanation](#explanation-22) ###
 
 This lint allows projects that wish to retain the limit of only using
 ASCII characters to switch this lint to "forbid" (for example to ease
@@ -1144,7 +1244,7 @@ checking cannot be used to ensure that all fields/variants are matched explicitl
 this, this allow-by-default lint warns the user when a match mentions some but not all of
 the fields/variants of a `#[non_exhaustive]` struct or enum.
 
-### [Example](#example-22) ###
+### [Example](#example-23) ###
 
 ```
 // crate A
@@ -1186,7 +1286,7 @@ Warning: setting this to `deny` will make upstream non-breaking changes (adding 
 variants to a `#[non_exhaustive]` struct or enum) break your crate. This goes against
 expected semver behavior.
 
-### [Explanation](#explanation-22) ###
+### [Explanation](#explanation-23) ###
 
 Structs and enums tagged with `#[non_exhaustive]` force the user to add a (potentially
 redundant) wildcard when pattern-matching, to allow for future addition of fields or
@@ -1199,7 +1299,7 @@ would not be exhaustive. This lets the user be informed if new fields/variants w
 
 The `non_local_definitions` lint checks for `impl` blocks and `#[macro_export]`macro inside bodies (functions, enum discriminant, ...).
 
-### [Example](#example-23) ###
+### [Example](#example-24) ###
 
 ```
 #![warn(non_local_definitions)]
@@ -1236,7 +1336,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-23) ###
+### [Explanation](#explanation-24) ###
 
 Creating non-local definitions go against expectation and can create discrepancies
 in tooling. It should be avoided. It may become deny-by-default in edition 2024
@@ -1258,7 +1358,7 @@ The lint `or-patterns-back-compat` has been renamed to [`rust-2021-incompatible-
 The `redundant_lifetimes` lint detects lifetime parameters that are
 redundant because they are equal to another named lifetime.
 
-### [Example](#example-24) ###
+### [Example](#example-25) ###
 
 ```
 #[deny(redundant_lifetimes)]
@@ -1288,7 +1388,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-24) ###
+### [Explanation](#explanation-25) ###
 
 Unused lifetime parameters may signal a mistake or unfinished code.
 Consider removing the parameter.
@@ -1361,7 +1461,7 @@ help: add a dummy let to cause `p` to be fully captured
 
 ```
 
-### [Explanation](#explanation-25) ###
+### [Explanation](#explanation-26) ###
 
 In the above example, `p.y` will be dropped at the end of `f` instead of
 with `c` in Rust 2021.
@@ -1410,7 +1510,7 @@ help: add a dummy let to cause `fptr` to be fully captured
 
 ```
 
-### [Explanation](#explanation-26) ###
+### [Explanation](#explanation-27) ###
 
 In the above example, only `fptr.0` is captured in Rust 2021.
 The field is of type `*mut i32`, which doesn't implement `Send`,
@@ -1421,7 +1521,7 @@ making the code invalid as the field cannot be sent between threads safely.
 
 The `rust_2021_incompatible_or_patterns` lint detects usage of old versions of or-patterns.
 
-### [Example](#example-25) ###
+### [Example](#example-26) ###
 
 ```
 #![deny(rust_2021_incompatible_or_patterns)]
@@ -1462,7 +1562,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-27) ###
+### [Explanation](#explanation-28) ###
 
 In Rust 2021, the `pat` matcher will match additional patterns, which include the `|` character.
 
@@ -1472,7 +1572,7 @@ In Rust 2021, the `pat` matcher will match additional patterns, which include th
 The `rust_2021_prefixes_incompatible_syntax` lint detects identifiers that will be parsed as a
 prefix instead in Rust 2021.
 
-### [Example](#example-26) ###
+### [Example](#example-27) ###
 
 ```
 #![deny(rust_2021_prefixes_incompatible_syntax)]
@@ -1507,7 +1607,7 @@ help: insert whitespace here to avoid this being parsed as a prefix in Rust 2021
 
 ```
 
-### [Explanation](#explanation-28) ###
+### [Explanation](#explanation-29) ###
 
 In Rust 2015 and 2018, `z"hey"` is two tokens: the identifier `z`followed by the string literal `"hey"`. In Rust 2021, the `z` is
 considered a prefix for `"hey"`.
@@ -1521,7 +1621,7 @@ to keep them separated in Rust 2021.
 The `rust_2021_prelude_collisions` lint detects the usage of trait methods which are ambiguous
 with traits added to the prelude in future editions.
 
-### [Example](#example-27) ###
+### [Example](#example-28) ###
 
 ```
 #![deny(rust_2021_prelude_collisions)]
@@ -1564,7 +1664,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-29) ###
+### [Explanation](#explanation-30) ###
 
 In Rust 2021, one of the important introductions is the [prelude changes](https://blog.rust-lang.org/inside-rust/2021/03/04/planning-rust-2021.html#prelude-changes), which add`TryFrom`, `TryInto`, and `FromIterator` into the standard library's prelude. Since this
 results in an ambiguity as to which method/function to call when an existing `try_into`method is called via dot-call syntax or a `try_from`/`from_iter` associated function
@@ -1576,7 +1676,7 @@ is called directly on a type.
 The `rust_2024_incompatible_pat` lint
 detects patterns whose meaning will change in the Rust 2024 edition.
 
-### [Example](#example-28) ###
+### [Example](#example-29) ###
 
 ```
 #![feature(ref_pat_eat_one_layer_2024)]
@@ -1617,7 +1717,7 @@ warning: the semantics of this pattern will change in edition 2024
 
 ```
 
-### [Explanation](#explanation-30) ###
+### [Explanation](#explanation-31) ###
 
 In Rust 2024 and above, the `mut` keyword does not reset the pattern binding mode,
 and nor do `&` or `&mut` patterns. The lint will suggest code that
@@ -1634,7 +1734,7 @@ The lint `single-use-lifetime` has been renamed to [`single-use-lifetimes`](#sin
 The `single_use_lifetimes` lint detects lifetimes that are only used
 once.
 
-### [Example](#example-29) ###
+### [Example](#example-30) ###
 
 ```
 #![deny(single_use_lifetimes)]
@@ -1666,7 +1766,7 @@ help: elide the single-use lifetime
 
 ```
 
-### [Explanation](#explanation-31) ###
+### [Explanation](#explanation-32) ###
 
 Specifying an explicit lifetime like `'a` in a function or `impl`should only be used to link together two things. Otherwise, you should
 just use `'_` to indicate that the lifetime is not linked to anything,
@@ -1683,7 +1783,7 @@ that it produces. See [RFC 2115](https://github.com/rust-lang/rfcs/blob/master/t
 The `trivial_casts` lint detects trivial casts which could be replaced
 with coercion, which may require a temporary variable.
 
-### [Example](#example-30) ###
+### [Example](#example-31) ###
 
 ```
 #![deny(trivial_casts)]
@@ -1709,7 +1809,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-32) ###
+### [Explanation](#explanation-33) ###
 
 A trivial cast is a cast `e as T` where `e` has type `U` and `U` is a
 subtype of `T`. This type of cast is usually unnecessary, as it can be
@@ -1729,7 +1829,7 @@ See [RFC 401 (coercions)](https://github.com/rust-lang/rfcs/blob/master/text/040
 The `trivial_numeric_casts` lint detects trivial numeric casts of types
 which could be removed.
 
-### [Example](#example-31) ###
+### [Example](#example-32) ###
 
 ```
 #![deny(trivial_numeric_casts)]
@@ -1754,7 +1854,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-33) ###
+### [Explanation](#explanation-34) ###
 
 A trivial numeric cast is a cast of a numeric type to the same numeric
 type. This type of cast is usually unnecessary.
@@ -1775,7 +1875,7 @@ the unit type `()` as their inferred type. The lint is suppressed if the user ex
 annotates the let binding with the unit type `()`, or if the let binding uses an underscore
 wildcard pattern, i.e. `let _ = expr`, or if the binding is produced from macro expansions.
 
-### [Example](#example-32) ###
+### [Example](#example-33) ###
 
 ```
 #![deny(unit_bindings)]
@@ -1808,7 +1908,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-34) ###
+### [Explanation](#explanation-35) ###
 
 Creating a local binding with the unit type `()` does not do much and can be a sign of a
 user error, such as in this example:
@@ -1828,7 +1928,7 @@ fn main() {
 The `unnameable_types` lint detects types for which you can get objects of that type,
 but cannot name the type itself.
 
-### [Example](#example-33) ###
+### [Example](#example-34) ###
 
 ```
 #![allow(unused)]
@@ -1858,7 +1958,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-35) ###
+### [Explanation](#explanation-36) ###
 
 It is often expected that if you can obtain an object of type `T`, then
 you can name the type `T` as well, this lint attempts to enforce this rule.
@@ -1875,7 +1975,7 @@ The `unreachable_pub` lint triggers for `pub` items not reachable from other cra
 means neither directly accessible, nor reexported, nor leaked through things like return
 types.
 
-### [Example](#example-34) ###
+### [Example](#example-35) ###
 
 ```
 #![deny(unreachable_pub)]
@@ -1906,7 +2006,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-36) ###
+### [Explanation](#explanation-37) ###
 
 The `pub` keyword both expresses an intent for an item to be publicly available, and also
 signals to the compiler to make the item publicly accessible. The intent can only be
@@ -1920,6 +2020,58 @@ This lint is "allow" by default because it will trigger for a large
 amount existing Rust code, and has some false-positives. Eventually it
 is desired for this to become warn-by-default.
 
+[unsafe-attr-outside-unsafe](#unsafe-attr-outside-unsafe)
+----------
+
+The `unsafe_attr_outside_unsafe` lint detects a missing unsafe keyword
+on attributes considered unsafe.
+
+### [Example](#example-36) ###
+
+```
+#![feature(unsafe_attributes)]
+#![warn(unsafe_attr_outside_unsafe)]
+
+#[no_mangle]
+extern "C" fn foo() {}
+
+fn main() {}
+```
+
+This will produce:
+
+```
+warning: unsafe attribute used without unsafe
+ --> lint_example.rs:4:3
+  |
+4 | #[no_mangle]
+  |   ^^^^^^^^^ usage of unsafe attribute
+  |
+  = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
+  = note: for more information, see issue #123757 <https://github.com/rust-lang/rust/issues/123757>
+note: the lint level is defined here
+ --> lint_example.rs:2:9
+  |
+2 | #![warn(unsafe_attr_outside_unsafe)]
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+help: wrap the attribute in `unsafe(...)`
+  |
+4 | #[unsafe(no_mangle)]
+  |   +++++++         +
+
+```
+
+### [Explanation](#explanation-38) ###
+
+Some attributes (e.g. `no_mangle`, `export_name`, `link_section` -- see[issue #82499](https://github.com/rust-lang/rust/issues/82499) for a more complete list) are considered "unsafe" attributes.
+An unsafe attribute must only be used inside unsafe(...).
+
+This lint can automatically wrap the attributes in `unsafe(...)` , but this
+obviously cannot verify that the preconditions of the `unsafe`attributes are fulfilled, so that is still up to the user.
+
+The lint is currently "allow" by default, but that might change in the
+future.
+
 [unsafe-code](#unsafe-code)
 ----------
 
@@ -1927,7 +2079,7 @@ The `unsafe_code` lint catches usage of `unsafe` code and other
 potentially unsound constructs like `no_mangle`, `export_name`,
 and `link_section`.
 
-### [Example](#example-35) ###
+### [Example](#example-37) ###
 
 ```
 #![deny(unsafe_code)]
@@ -1999,7 +2151,7 @@ error: declaration of a static with `link_section`
 
 ```
 
-### [Explanation](#explanation-37) ###
+### [Explanation](#explanation-39) ###
 
 This lint is intended to restrict the usage of `unsafe` blocks and other
 constructs (including, but not limited to `no_mangle`, `link_section`and `export_name` attributes) wrong usage of which causes undefined
@@ -2011,7 +2163,7 @@ behavior.
 The `unsafe_op_in_unsafe_fn` lint detects unsafe operations in unsafe
 functions without an explicit unsafe block.
 
-### [Example](#example-36) ###
+### [Example](#example-38) ###
 
 ```
 #![deny(unsafe_op_in_unsafe_fn)]
@@ -2049,7 +2201,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-38) ###
+### [Explanation](#explanation-40) ###
 
 Currently, an [`unsafe fn`](https://doc.rust-lang.org/reference/unsafe-functions.html) allows any [unsafe](https://doc.rust-lang.org/reference/unsafety.html) operation within its
 body. However, this can increase the surface area of code that needs
@@ -2070,7 +2222,7 @@ details.
 
 The `unstable_features` lint detects uses of `#![feature]`.
 
-### [Example](#example-37) ###
+### [Example](#example-39) ###
 
 ```
 #![deny(unstable_features)]
@@ -2094,7 +2246,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-39) ###
+### [Explanation](#explanation-41) ###
 
 In larger nightly-based projects which
 
@@ -2111,7 +2263,7 @@ this lint may come in handy to enforce policies of these kinds.
 The `unused_crate_dependencies` lint detects crate dependencies that
 are never used.
 
-### [Example](#example-38) ###
+### [Example](#example-40) ###
 
 ```
 #![deny(unused_crate_dependencies)]
@@ -2120,8 +2272,9 @@ are never used.
 This will produce:
 
 ```
-error: external crate `regex` unused in `lint_example`: remove the dependency or add `use regex as _;`
+error: extern crate `regex` is unused in crate `lint_example`
   |
+  = help: remove the dependency or add `use regex as _;` to the crate root
 note: the lint level is defined here
  --> src/lib.rs:1:9
   |
@@ -2130,7 +2283,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-40) ###
+### [Explanation](#explanation-42) ###
 
 After removing the code that uses a dependency, this usually also
 requires removing the dependency from the build configuration.
@@ -2154,7 +2307,7 @@ in the library.
 The `unused_extern_crates` lint guards against `extern crate` items
 that are never used.
 
-### [Example](#example-39) ###
+### [Example](#example-41) ###
 
 ```
 #![deny(unused_extern_crates)]
@@ -2179,7 +2332,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-41) ###
+### [Explanation](#explanation-43) ###
 
 `extern crate` items that are unused have no effect and should be
 removed. Note that there are some cases where specifying an `extern crate` is desired for the side effect of ensuring the given crate is
@@ -2198,7 +2351,7 @@ is recommended to remove it from the build configuration (such as`Cargo.toml`) t
 The `unused_import_braces` lint catches unnecessary braces around an
 imported item.
 
-### [Example](#example-40) ###
+### [Example](#example-42) ###
 
 ```
 #![deny(unused_import_braces)]
@@ -2227,7 +2380,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-42) ###
+### [Explanation](#explanation-44) ###
 
 If there is only a single item, then remove the braces (`use test::A;`for example).
 
@@ -2240,7 +2393,7 @@ stylistic choice.
 The `unused_lifetimes` lint detects lifetime parameters that are never
 used.
 
-### [Example](#example-41) ###
+### [Example](#example-43) ###
 
 ```
 #[deny(unused_lifetimes)]
@@ -2265,7 +2418,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-43) ###
+### [Explanation](#explanation-45) ###
 
 Unused lifetime parameters may signal a mistake or unfinished code.
 Consider removing the parameter.
@@ -2279,7 +2432,7 @@ Note that the lint is distinct from the `unused_macros` lint, which
 fires if the entire macro is never called, while this lint fires for
 single unused rules of the macro that is otherwise used.`unused_macro_rules` fires only if `unused_macros` wouldn't fire.
 
-### [Example](#example-42) ###
+### [Example](#example-44) ###
 
 ```
 #[warn(unused_macro_rules)]
@@ -2310,7 +2463,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-44) ###
+### [Explanation](#explanation-46) ###
 
 Unused macro rules may signal a mistake or unfinished code. Furthermore,
 they slow down compilation. Right now, silencing the warning is not
@@ -2326,7 +2479,7 @@ available outside of the crate, use the [`macro_export` attribute](https://doc.r
 The `unused_qualifications` lint detects unnecessarily qualified
 names.
 
-### [Example](#example-43) ###
+### [Example](#example-45) ###
 
 ```
 #![deny(unused_qualifications)]
@@ -2363,7 +2516,7 @@ help: remove the unnecessary path segments
 
 ```
 
-### [Explanation](#explanation-45) ###
+### [Explanation](#explanation-47) ###
 
 If an item from another module is already brought into scope, then
 there is no need to qualify it in this case. You can call `bar()`directly, without the `foo::`.
@@ -2378,7 +2531,7 @@ can be noisy when refactoring or moving around code.
 The `unused_results` lint checks for the unused result of an
 expression in a statement.
 
-### [Example](#example-44) ###
+### [Example](#example-46) ###
 
 ```
 #![deny(unused_results)]
@@ -2406,7 +2559,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-46) ###
+### [Explanation](#explanation-48) ###
 
 Ignoring the return value of a function may indicate a mistake. In
 cases were it is almost certain that the result should be used, it is
@@ -2425,7 +2578,7 @@ values.
 The `variant_size_differences` lint detects enums with widely varying
 variant sizes.
 
-### [Example](#example-45) ###
+### [Example](#example-47) ###
 
 ```
 #![deny(variant_size_differences)]
@@ -2452,7 +2605,7 @@ note: the lint level is defined here
 
 ```
 
-### [Explanation](#explanation-47) ###
+### [Explanation](#explanation-49) ###
 
 It can be a mistake to add a variant to an enum that is much larger
 than the other variants, bloating the overall size required for all
