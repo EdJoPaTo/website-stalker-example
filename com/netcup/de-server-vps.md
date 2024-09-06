@@ -135,9 +135,9 @@ inkl. 0% MwSt.
 
 VPS 8000 G11
 
-* 12 vCore (x86)
-* 32 GB DDR ECC
-* 1024 GB SSD
+* 16 vCore (x86)
+* 64 GB DDR ECC
+* 2048 GB SSD
 * Traffic inklusive
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
