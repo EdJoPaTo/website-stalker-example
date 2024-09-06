@@ -26,6 +26,8 @@ RE2 Hannover - Northeim - Göttingen
 
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
+[28.09.2024 - 30.09.2024 RE2/RE3: Zugausfälle in den Nächten](https://www.der-metronom.de/baustellen/re2-re3-zugausfaelle-in-den-naechten/)
+
 RE2 + RE3 Uelzen - Celle - Hannover
 
 [30.07.2024 - 09.09.2024 Stabilisierungsfahrplan metronom RE2 (ab 30.08.)](https://www.der-metronom.de/baustellen/stabilisierungsfahrplan-metronom-re2/)
@@ -36,6 +38,8 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
+[25.09.2024 RE2/RE3: Zugausfall am Mittwochabend](https://www.der-metronom.de/baustellen/re2-re3-zugausfall-am-mittwochabend/)
+
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
@@ -44,9 +48,13 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [22.09.2024 - 24.09.2024 RE3/RB31: nächtliche Teilausfälle zwischen Lüneburg und Uelzen sowie Haltausfälle Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-zwischen-lueneburg-und-uelzen-sowie-haltausfaelle-ashausen/)
 
+[26.09.2024 - 06.10.2024 RE3/RB31: Teil- und Haltausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-teil-und-haltausfaelle-wegen-brueckenbauarbeiten/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [06.09.2024 - 15.09.2024 RE4/RB41: Teilausfälle zwischen Hamburg Hbf \<\> Hamburg-Harburg, Fahrzeitenänderungen sowie voraussichtlich hohe Verspätungen](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-hamburg-harburg-fahrzeitenaenderungen-sowie-voraussichtlich-hohe-verspaetungen/)
+
+[26.09.2024 - 06.10.2024 RE4/RB41: Teil- und Haltausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-teil-und-haltausfaelle-wegen-brueckenbauarbeiten/)
 
 DEIN PERSÖNLICHER BAUSTELLEN-NEWSLETTER
 ----------

@@ -51,9 +51,9 @@ inkl. 0% MwSt.
 VPS 1000 G11
 
 * 4 vCore (x86)
-* 8 GB RAM
-* 256 GB SSD (RAID10)
-* 80 TB Traffic
+* 8 GB ECC RAM
+* 256 GB SSD
+* Traffic inklusive
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
@@ -102,7 +102,7 @@ inkl. 0% MwSt.
 VPS 4000 G11
 
 * 12 vCore (x86)
-* 32GB DDR ECC
+* 32 GB ECC RAM
 * 1024 GB SSD
 * Traffic inklusive
 * Snapshots (Copy-On-Write)
@@ -136,7 +136,7 @@ inkl. 0% MwSt.
 VPS 8000 G11
 
 * 12 vCore (x86)
-* 32GB DDR ECC
+* 32 GB DDR ECC
 * 1024 GB SSD
 * Traffic inklusive
 * Snapshots (Copy-On-Write)
