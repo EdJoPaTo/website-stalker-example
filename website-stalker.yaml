@@ -174,7 +174,7 @@ sites:
       - https://docs.hetzner.cloud/whats-new
     editors:
       - css_select: body > div > div
-      - css_remove: img
+      - css_remove: img, a[href^="#"]:has(button svg)
       - html_url_canonicalize
       - html_markdownify
 

@@ -10,8 +10,6 @@ Sep 04
 
 ### New entry point in your projects: The dashboard is live 🚀 ###
 
-[](https://docs.hetzner.cloud/whats-new#2024-09-04-new-entry-point-in-your-projects-the-dashboard-is-live-)
-
 When you open a project, the new dashboard provides an overview of all resources, activities, and important information.
 
 * **Quick actions**Add common actions like "Create Server," or "Invite Member" as quick action buttons that take you directly to the creation process.
@@ -25,8 +23,6 @@ August 2024
 Aug 06
 
 ### Hetzner Goes Singapore – New location available 🇸🇬 ###
-
-[](https://docs.hetzner.cloud/whats-new#2024-08-06-hetzner-goes-singapore---new-location-available-)
 
 In addition to our five existing locations, Singapore is now also available!
 
@@ -42,8 +38,6 @@ Jul 04
 
 ### Reworked activities page ###
 
-[](https://docs.hetzner.cloud/whats-new#2024-07-04-reworked-activities-page)
-
 The activities page has been reworked and now comes with an improved design.
 
 * **BETTER OVERVIEW**To give you a clearer overview, the activities are now sorted by month and you can easily switch between the months as you need.
@@ -57,15 +51,11 @@ Jun 17
 
 ### Removal of old activities ###
 
-[](https://docs.hetzner.cloud/whats-new#2024-06-17-removal-of-old-activities)
-
 We are currently reworking the activities page and plan to introduce the changes at the beginning of July. From this time on, we will only show activities from the past 90 days and you will no longer be able to view activities that are older than that. If you still need your old activities, we recommend you manually save them yourself by the end of June. With the reworked activities page, you will get the new option to download the activities from the past 3 months as CSV file, which will make it easier for you in the future to save and access your activities.
 
 Jun 06
 
 ### New shared vCPU servers with Intel® processors ###
-
-[](https://docs.hetzner.cloud/whats-new#2024-06-06-new-shared-vcpu-servers-with-intel-processors)
 
 New server plans with shared Intel® vCPUs are now available! The new servers will officially replace the current shared Intel® vCPU server plans which are now deprecated\*.
 
@@ -81,8 +71,6 @@ Feb 27
 
 ### Global Search: Label search now possible ###
 
-[](https://docs.hetzner.cloud/whats-new#2024-02-27-global-search-label-search-now-possible)
-
 We added the new search criterion "label" to our global search, which means you can now search resources by our [label selector query language](https://docs.hetzner.cloud/#labels). In the global search bar, you can use **"ctrl / ⌘ + K"** to switch between name/IP search and label search.
 
 **Changes regarding existing shortcuts**
@@ -93,13 +81,9 @@ Feb 13
 
 ### Duplicate Firewalls ###
 
-[](https://docs.hetzner.cloud/whats-new#2024-02-13-duplicate-firewalls)
-
 The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
 
 ### Default settings for server creation ###
-
-[](https://docs.hetzner.cloud/whats-new#2024-02-13-default-settings-for-server-creation)
 
 The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
 
@@ -109,8 +93,6 @@ December 2023
 Dec 08
 
 ### New main navigation on small screens ###
-
-[](https://docs.hetzner.cloud/whats-new#2023-12-08-new-main-navigation-on-small-screens)
 
 As part of our ongoing effort to improve our responsive design, we redesigned our main navigation for small screens.
 
@@ -124,8 +106,6 @@ Sep 19
 
 ### CAX servers with Arm64 architecture now available in three locations ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-09-19-cax-servers-with-arm64-architecture-now-available-in-three-locations)
-
 Up until now, server plans with Arm64 architecture were only available in Falkenstein. We are happy to announce that the CAX server plans are now also available in Nuremberg and Helsinki.
 
 August 2023
@@ -134,8 +114,6 @@ August 2023
 Aug 23
 
 ### New dedicated vCPU servers with AMD processors ###
-
-[](https://docs.hetzner.cloud/whats-new#2023-08-23-new-dedicated-vcpu-servers-with-amd-processors)
 
 New server plans with dedicated AMD vCPUs are now available! The new servers will officially replace the current dedicated AMD vCPU server plans which are now deprecated\*.
 
@@ -149,8 +127,6 @@ Aug 07
 
 ### "Deploy to Hetzner Cloud" button ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-08-07-deploy-to-hetzner-cloud-button)
-
 If you would like to link to one of our Apps, you can do it now using this new URL: "https://console.hetzner.cloud/deploy/{app-name}". When you click it, you are taken to Cloud Console and prompted to select a project. After that, you are directly forwarded to the server create page on which the App specified for "{app-name}" is automatically preselected. You can use the new link in combination with the new "Deploy to Hetzner Cloud" button, which is available in 2 different sizes. [Learn more about the button](https://docs.hetzner.com/cloud/apps/overview/#deploy-to-hetzner-cloud)
 
 July 2023
@@ -160,15 +136,11 @@ Jul 26
 
 ### Technical changelog now available ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-07-26-technical-changelog-now-available)
-
 A technical changelog is now available at [docs.hetzner.cloud/changelog](https://docs.hetzner.cloud/changelog/). It offers an extensive overview of changes and includes announcements about our API, open-source integrations, and other relevant topics. Additionally, this page also includes an overview of all announcements from our »What's New« dialog. Next to adding the new changelogs, we also redesigned the original content at [docs.hetzner.cloud](https://docs.hetzner.cloud/). The improved design of the API docs now allows you to switch between dark and light mode.
 
 Jul 20
 
 ### API: New endpoint for actions available ###
-
-[](https://docs.hetzner.cloud/whats-new#2023-07-20-api-new-endpoint-for-actions-available)
 
 The Cloud API now includes the new endpoint **"GET /{resource}/actions"** for all resources that return actions in API calls. This new endpoint replaces the deprecated **"GET /actions"** endpoint and you can use it to list all actions of a specific resource (e.g. of all servers or of all Load Balancers). Starting on 1 October 2023, the **"GET /actions"** endpoint will no longer be available. After that, it won't be possible anymore to list all actions across all resources.
 
@@ -181,23 +153,17 @@ Jun 23
 
 ### Networks: Expose routes to vSwitch ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-06-23-networks-expose-routes-to-vswitch)
-
 Networks with vSwitch subnets now come with a new option that allows you to use your routes not only for cloud servers but also for dedicated servers. For this, we have added "Expose routes to vSwitch" to the action menus of those networks and vSwitch subnets. As long as the routes are exposed to the vSwitch, they also become reachable for all dedicated servers that are assigned to the vSwitch.
 
 Jun 20
 
 ### Search bar for apps ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-06-20-search-bar-for-apps)
-
 We updated the create page for servers to include a new search bar for apps. This way, you no longer have to look through the entire list of apps. Instead, you can just use the search bar to filter the results, making it quick and easy to find the apps you're looking for.
 
 Jun 19
 
 ### Servers with dedicated Intel® vCPUs are deprecated ###
-
-[](https://docs.hetzner.cloud/whats-new#2023-06-19-servers-with-dedicated-intel-vcpus-are-deprecated)
 
 Starting on 18 July 2023, all server plans with Intel® vCPUs (CCX11, CCX21, CCX31, CCX41, CCX51) will no longer be available for order. Existing servers are not affected by this deprecation and they will continue to work. If you want to migrate an existing server with Intel® vCPUs to a server plan with AMD vCPUs, you can use the rescale option.
 
@@ -207,8 +173,6 @@ May 2023
 May 15
 
 ### Upcoming change regarding our API ###
-
-[](https://docs.hetzner.cloud/whats-new#2023-05-15-upcoming-change-regarding-our-api)
 
 Please note that there will be a change regarding the **id** fields in our API. At the moment, the **id** fields are only 32 bit wide. However, this is no longer sufficient. As a result, we will use larger IDs in future. This change will not affect IDs of existing resources.
 
@@ -226,8 +190,6 @@ Apr 12
 
 ### New server plans with Arm64 architecture ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-04-12-new-server-plans-with-arm64-architecture)
-
 In addition to the existing servers with x86-based architecture (Intel & AMD), you can now also create servers with Arm-based architecture (Ampere).
 
 * **New CAX plans**The 4 new CAX plans all come with shared vCPUs.
@@ -242,15 +204,11 @@ Mar 27
 
 ### New OS image available ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-03-27-new-os-image-available)
-
 Great news for all those AlmaLinux lovers out there! The RHEL-compatible Linux distribution is now available for all cloud servers. In total, you can now choose from 6 different OS images.
 
 Mar 10
 
 ### New Apps available ###
-
-[](https://docs.hetzner.cloud/whats-new#2023-03-10-new-apps-available)
 
 We have added three new Apps. With [Owncast](https://docs.hetzner.com/cloud/apps/list/owncast), you can now start your own live stream immediately after server creation. The [PhotoPrism installation](https://docs.hetzner.com/cloud/apps/list/photoprism) allows you to manage your pictures with AI functionality. And the [RustDesk App](https://docs.hetzner.com/cloud/apps/list/rustdesk) turns your server into a ready-to-go remote desktop server.
 
@@ -261,8 +219,6 @@ Feb 15
 
 ### Redesign of the status bar ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-02-15-redesign-of-the-status-bar)
-
 We redesigned the detail pages for servers, Load Balancers, Firewalls and Networks. The status bar at the top now comes with an improved design, and the resource menu bar is now horizontal and part of the sticky header at the top, allowing for quick and easy navigation between the different resource pages.
 
 January 2023
@@ -272,8 +228,6 @@ Jan 12
 
 ### Improved loading states ###
 
-[](https://docs.hetzner.cloud/whats-new#2023-01-12-improved-loading-states)
-
 For an even better user experience, we have improved the loading states, a change which now makes page transitions even smoother.
 
 December 2022
@@ -282,8 +236,6 @@ December 2022
 Dec 05
 
 ### West Coast – Here We Come! ###
-
-[](https://docs.hetzner.cloud/whats-new#2022-12-05-west-coast--here-we-come)
 
 In addition to the four existing locations, Hillsboro, Oregon, is now also available!
 
@@ -298,8 +250,6 @@ Nov 09
 
 ### Add labels at creation process ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-11-09-add-labels-at-creation-process)
-
 The create pages for servers, Load Balancers, and Firewalls have been updated and now also include a seperate option to add labels. This way, you no longer have to add them in an extra step after the resourses were already created.
 
 October 2022
@@ -308,8 +258,6 @@ October 2022
 Oct 27
 
 ### New hotkey ###
-
-[](https://docs.hetzner.cloud/whats-new#2022-10-27-new-hotkey)
 
 Bulk edit now comes with a keyboard hotkey that allows you to deselect all resources with the press of a key. So when you are done editing, or if you want to start a new selection, simply hit esc, and your current selection will be cleared.
 
@@ -320,13 +268,9 @@ Sep 29
 
 ### Improved user experience for notifications ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-09-29-improved-user-experience-for-notifications)
-
 For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
 
 ### Redesign of the server, Load Balancer, and Firewall creation pages ###
-
-[](https://docs.hetzner.cloud/whats-new#2022-09-29-redesign-of-the-server-load-balancer-and-firewall-creation-pages)
 
 The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
 
@@ -337,8 +281,6 @@ Jul 21
 
 ### Add several labels or IPs at the same time ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-07-21-add-several-labels-or-ips-at-the-same-time)
-
 Up until now, IP addresses for firewall rules and labels had to be added one by one. Now, you can add several labels and IP addresses at the same time. Simply separate them by comma or with a space. This will make it easier for you to manage long IP lists, for example.
 
 June 2022
@@ -348,23 +290,17 @@ Jun 23
 
 ### New project overview ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-06-23-new-project-overview)
-
 You can now also browse your projects in a list view. The new design can be helpful if you have to manage projects with very long names, for example. You can use the new toggle next to the filter on the top right to switch between both views.
 
 Jun 22
 
 ### New Apps available ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-06-22-new-apps-available)
-
 We have added four new Apps. You can now choose from the programming language Apps Go and Ruby, and start developing immediately after server creation. You could also use the Prometheus-Grafana installation to visualize metrics and display them graphically. Our CollaborationToolCollection App includes [HedgeDoc](https://hedgedoc.org/), [transfer.sh](https://github.com/dutchcoders/transfer.sh//) and [whiteboard](https://github.com/cracker0dks/whiteboard//), and makes working on files in a team more dynamic and simple. BigBlueButton is no longer available.
 
 Jun 08
 
 ### Flexible networking options and Primary IPs ###
-
-[](https://docs.hetzner.cloud/whats-new#2022-06-08-flexible-networking-options-and-primary-ips)
 
 You can now decide for yourself which networking option you want, and use Primary IPs to manage your server’s public IPs. Because of the new options, servers and IPs are now billed separately.
 
@@ -379,15 +315,11 @@ May 18
 
 ### Default SSH keys ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-05-18-default-ssh-keys)
-
 With the new option to set individual SSH keys as default, you no longer have to manually select often-used SSH keys every time you create a new server. Instead, any SSH keys that have been set as default within a project will automatically be preselected for you.
 
 May 03
 
 ### Bulk edit now available ###
-
-[](https://docs.hetzner.cloud/whats-new#2022-05-03-bulk-edit-now-available)
 
 Within a list view, it is now possible to select several resources at the same time and to run a certain action on all selected resources simultaneously. You can use the new multiselection to delete resources, disable/enable protection, and to power servers on or off.
 
@@ -398,8 +330,6 @@ Mar 07
 
 ### Session-based filter and sort settings ###
 
-[](https://docs.hetzner.cloud/whats-new#2022-03-07-session-based-filter-and-sort-settings)
-
 Any filter options and sort settings you set within a project now remain active for the entire session and are saved even if you switch between several list views. An automatic reset of your projects' filter settings is therefore only performed after the session was ended.
 
 February 2022
@@ -408,8 +338,6 @@ February 2022
 Feb 01
 
 ### Display confirmed onboarding hints again ###
-
-[](https://docs.hetzner.cloud/whats-new#2022-02-01-display-confirmed-onboarding-hints-again)
 
 Up until now, it was not possible to display hints again after confirming them. The hints draw attention to useful shortcuts and highlight helpful functionalities that can not only be helpful at the beginning. Therefore, it is now possible to display all onboarding hints again after they have already been read. You can find this option in the user menu under "Settings".
 
@@ -420,8 +348,6 @@ Dec 01
 
 ### Ceph server types not available anymore ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-12-01-ceph-server-types-not-available-anymore)
-
 We have deprecated the network storage based server types. Starting 1 Dec 2021, they will no longer be available. All of your existing ceph based servers will continue to work like they used to and there is no action necessary on your side regarding these servers. It is possible to rescale existing network storage based servers to local storage based servers.
 
 November 2021
@@ -430,8 +356,6 @@ November 2021
 Nov 03
 
 ### Hetzner Goes USA! - New location available ###
-
-[](https://docs.hetzner.cloud/whats-new#2021-11-03-hetzner-goes-usa---new-location-available)
 
 On 3 November, we launched our new location Ashburn, Virginia, for all cloud servers with AMD processors and all cloud features. The new U.S. location is one of the most important data center capitals in the world. Now, you can also profit from the strategic location and the global interconnectivity of the location.
 
@@ -442,8 +366,6 @@ Oct 13
 
 ### Placement Groups: Maximum availability for your servers ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-10-13-placement-groups-maximum-availability-for-your-servers)
-
 Our newest feature "Placement Groups" now makes it possible for you to influence the location of your cloud servers. Simply create a group of type "Spread" and all your virtual servers will be hosted on different physical servers. This will decrease the probability of some instances failing together.
 
 September 2021
@@ -453,15 +375,11 @@ Sep 28
 
 ### Global Search: New search criteria added ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-09-28-global-search-new-search-criteria-added)
-
 We have added new search criteria to our global search tool. This means that you can now also search for snapshots by name, certificates by name and networks by ranges.
 
 Sep 17
 
 ### Firewalls: Now in general availability ###
-
-[](https://docs.hetzner.cloud/whats-new#2021-09-17-firewalls-now-in-general-availability)
 
 Firewalls are now in general availability! You have not tried it out yet? Check it out now and use this feature to easily secure your servers by restricting certain TCP, UDP ICMP, ESP and GRE traffic. You can even add descriptions to distinguish between your individual rules after you create them.
 
@@ -472,8 +390,6 @@ Aug 24
 
 ### Global Search ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-08-24-global-search)
-
 Our Global Search now makes it possible for you to search resources beyond the list view and therefore across all projects based on names or IP addresses and to navigate to them with just a few clicks.
 
 * **User-friendly keyboard navigation**The search mask opens with a click on the search bar, or by simply pressing the / key. Keyboard navigation is also integrated in the search.
@@ -483,15 +399,11 @@ Aug 17
 
 ### Load Balancers: Allow setting of DNS PTR records ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-08-17-load-balancers-allow-setting-of-dns-ptr-records)
-
 The reverse DNS entries for the public IPv4 and IPv6 addresses of the Load Balancers are no longer fixed and can now be changed to look more professional. Simply select your Load Balancer and define the reverse DNS (rDNS) of each IP address under the "Networking" tab.
 
 Aug 04
 
 ### Firewalls: Description field for rules ###
-
-[](https://docs.hetzner.cloud/whats-new#2021-08-04-firewalls-description-field-for-rules)
 
 We have added a new description field per rule to make it easier for you to distinguish between individual firewall rules. Simply specify a certain purpose, for example, and use the description later to identify your rules.
 
@@ -502,15 +414,11 @@ Jul 19
 
 ### Load Balancer: Dedicated private IP targets ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-07-19-load-balancer-dedicated-private-ip-targets)
-
 Next to public IPs, our Load Balancers now also support private IPs of Dedicated Root Servers (Hetzner Robot account) as targets. Simply add a network that has a subnet of type vSwitch and you will be able to define a private IP for your Dedicated Root Server within the IP range of this vSwitch subnet.
 
 Jul 13
 
 ### New filter ###
-
-[](https://docs.hetzner.cloud/whats-new#2021-07-13-new-filter)
 
 Our search bar has been replaced with a new filter on all list views in our panel. This way, you can use new search criteria that will help you narrow down your results even further, and you will be able to find your desired resources even faster. The previous key combination Ctrl / ⌘ + K can now be used to open the fiter and, as before, to switch between label search and name search.
 
@@ -521,8 +429,6 @@ Jun 30
 
 ### Quickstart with apps ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-06-30-quickstart-with-apps)
-
 We’re constantly working on making it as easy as possible for you to set up a server. Apps allow you to create a server with software already preinstalled. This way, you no longer have to struggle with setting up a server yourself. Instead, you can get started immediately with ready to use software such as Docker, WordPress or Nextcloud.[Learn more about Apps](https://docs.hetzner.com/cloud/apps/overview/)
 
 May 2021
@@ -532,15 +438,11 @@ May 19
 
 ### Apply firewalls using labels ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-05-19-apply-firewalls-using-labels)
-
 Firewalls can now be applied to servers using label selectors. The firewall is automatically activated, as soon as a server has the matching labels.
 
 May 07
 
 ### Show What's New dialog again ###
-
-[](https://docs.hetzner.cloud/whats-new#2021-05-07-show-whats-new-dialog-again)
 
 We added a new menu item »What's New« to the user dropdown. That way you can reopen this dialog if you closed it accidentally.
 
@@ -551,15 +453,11 @@ Apr 27
 
 ### Project overview optimisations ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-04-27-project-overview-optimisations)
-
 In order to better differentiate between projects where you are not the owner, the project owner is now also shown.
 
 Apr 15
 
 ### Improved Hetzner status integration ###
-
-[](https://docs.hetzner.cloud/whats-new#2021-04-15-improved-hetzner-status-integration)
 
 With the relaunch of [status.hetzner.com](https://status.hetzner.com/de), the display of status messages has also been improved. For example, messages are now also displayed if your other Hetzner resources like dedicated servers are affected by outages.
 
@@ -570,8 +468,6 @@ Feb 24
 
 ### New design of the projects overview page ###
 
-[](https://docs.hetzner.cloud/whats-new#2021-02-24-new-design-of-the-projects-overview-page)
-
 The improved design makes it easy to keep track of your chargeable services.
 
 October 2020
@@ -581,8 +477,6 @@ Oct 28
 
 ### Let's Encrypt™ support for Load Balancer services ###
 
-[](https://docs.hetzner.cloud/whats-new#2020-10-28-lets-encrypt-support-for-load-balancer-services)
-
 We have started to support the frequently requested automatic generation of Let's Encrypt™ certificates for Load Balancers. All certificates are automatically renewed as long as they are assigned to a Load Balancer.
 
 August 2020
@@ -591,8 +485,6 @@ August 2020
 Aug 11
 
 ### Firewalls Beta is now available ###
-
-[](https://docs.hetzner.cloud/whats-new#2020-08-11-firewalls-beta-is-now-available)
 
 * **Simple configuration**Our firewalls are "stateful" and thus allow easy configuration.
 * **Easy administration**No need to manage every servers firewall independently – create your configuration once and assign it comfortably to as many of your servers as you like.
