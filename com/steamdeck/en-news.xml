@@ -6,6 +6,83 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.12 Beta: We Don&apos;t Talk About Eleven</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4759830079696369630</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Sep 5, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed a rare 3.6 issue that could cause filesystem corruption on Steam Deck 64GB
+						<br>
+					</li>
+					<li>
+						Fixed a 3.6 regression where an already-inserted SD card would not always be detected on cold boot and would require re-insertion
+						<br>
+					</li>
+					<li>
+						Fixed an issue where updates would could sometimes be applied incorrectly if the unit was powered off abruptly near the end of an OS update
+						<br>
+					</li>
+					<li>
+						Fixed an issue with copy-pasting UTF-8 text across applications
+					</li>
+				</ul>
+				<b>
+					Display
+				</b>
+				<ul>
+					<li>
+						Improved frame pacing with VRR on external displays
+						<br>
+					</li>
+					<li>
+						Fixed an issue where internal display could be abnormally limited to a lower frame rate after disconnecting an external display with VRR enabled
+						<br>
+					</li>
+					<li>
+						Fixed a 3.6 regression where the screen would be blank during part of the boot sequence
+						<br>
+					</li>
+					<li>
+						Fixed a 3.6 regression where the frame limit would not apply properly in specific conditions
+					</li>
+				</ul>
+				<b>
+					Developer
+				</b>
+				<ul>
+					<li>
+						Split package reinstallation step out of `steamos-devmode` command and into new `steamos-unminimize` command.  `steamos-devmode` now simply enters read-write mode and initializes the pacman keyring for use, and is much quicker.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759830079696369630" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: September 3rd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4759829899290166423</link>
 			<content:encoded><![CDATA[<html>
@@ -251,54 +328,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4425436537574287788" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: August 19th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/6929437446240967559</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Aug 19, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a crash when removing a non-Steam game from a parental controlled account
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reduce CPU usage when using both Gyro and Joystick or Trackpad for mouse input
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6929437446240967559" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
