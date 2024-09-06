@@ -21,14 +21,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 Am 05. September kam es am Bahnhof Uelzen zu einem Vorfall, der für Anwesende und Augenzeugen belastend sein kann. Menschen, die sich in einer emotionalen Ausnahmesituation befinden, sollten die Telefonseelsorge kontaktieren. Unter der kostenlosen Rufnummer (0 800) 111 0 111 oder (0800) 111 0 222...
 
-[RE4/RB41 ACHTUNG bei SEV: Abfahrt der Busse in Bremen abweichend vom Bussteig R vor dem Cinemaxx](https://www.der-metronom.de/aktuell/re4-rb41-achtung-bei-sev-abfahrt-der-busse-in-bremen-abweichend-vom-bussteig-r-vor-dem-cinemaxx/)
-
- 27.08.2024
-
-Moin liebe Fahrgäste,
-bitte beachtet, dass die Busse in Bremen bis auf Weiteres nicht vom Bussteig J, sondern vom Bussteig R vor dem Cinemaxx abfahren.
-Vielen Dank für euer Verständnis.euer metronom-Team
-
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
  26.08.2024
