@@ -47,7 +47,7 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 ### Main memory ###
 
-|   Speichertyp   |            DDR4 SO-DIMM             |
+|   Speichertyp   |         DDR4 SO-DIMM / DDR5         |
 |-----------------|-------------------------------------|
 |  Speichergröße  |   8-64GB (konfigurationsabhängig)   |
 |  Taktfrequenz   |bis 3200 MHz (konfigurationsabhängig)|
@@ -55,9 +55,9 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 ### SSDs / hard drives ###
 
-|2.5" SSDs / HDDs|  2x (mit 15mm Bauhöhe)  |
-|----------------|-------------------------|
-|    M.2 NVMe    |2x (über Gehäuse gekühlt)|
+|2.5" SSDs|  2x (mit 15mm Bauhöhe)  |
+|---------|-------------------------|
+|M.2 NVMe |2x (über Gehäuse gekühlt)|
 
 ### Optical drive ###
 
@@ -70,8 +70,8 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 |  Monitore   |    1x DisplayPort 1.2, 1x HDMI 2.0, 1x VGA    |
 |-------------|-----------------------------------------------|
-|USB (hinten) |            1x USB 3.0 / 1x USB 2.0            |
-| USB (vorne) |         1x USB 3.0 / 1x USB 3.0 Typ C         |
+|USB (hinten) |            1x USB 3.2 / 1x USB 2.0            |
+| USB (vorne) |         1x USB 3.2 / 1x USB 3.0 Typ C         |
 |Audio (vorne)|        2x Stereo 3.5mm Klinkenbuchsen         |
 |  Netzwerk   |1x Gigabit Ethernet / Wifi + Bluetooth optional|
 

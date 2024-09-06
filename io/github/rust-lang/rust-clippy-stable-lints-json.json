@@ -46,7 +46,7 @@
 		"group": "restriction",
 		"id": "allow_attributes",
 		"id_span": {
-			"path": "src/allow_attributes.rs"
+			"path": "src/attrs/mod.rs"
 		},
 		"level": "allow",
 		"version": "1.70.0"
@@ -348,7 +348,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "Unresolved",
+			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
 		"former_ids": [
@@ -979,7 +979,7 @@
 			"path": "src/methods/mod.rs"
 		},
 		"level": "warn",
-		"version": "1.78.0"
+		"version": "1.79.0"
 	},
 	{
 		"applicability": {
@@ -1511,7 +1511,7 @@
 			"path": "src/attrs/mod.rs"
 		},
 		"level": "warn",
-		"version": "1.78.0"
+		"version": "1.79.0"
 	},
 	{
 		"applicability": {
@@ -2023,6 +2023,19 @@
 		},
 		"level": "warn",
 		"version": "1.49.0"
+	},
+	{
+		"applicability": {
+			"applicability": "Unresolved",
+			"is_multi_part_suggestion": false
+		},
+		"group": "restriction",
+		"id": "field_scoped_visibility_modifiers",
+		"id_span": {
+			"path": "src/field_scoped_visibility_modifiers.rs"
+		},
+		"level": "allow",
+		"version": "1.78.0"
 	},
 	{
 		"applicability": {
@@ -2971,7 +2984,7 @@
 			"path": "src/integer_division_remainder_used.rs"
 		},
 		"level": "allow",
-		"version": "1.78.0"
+		"version": "1.79.0"
 	},
 	{
 		"applicability": {
@@ -3494,7 +3507,7 @@
 			"path": "src/legacy_numeric_constants.rs"
 		},
 		"level": "warn",
-		"version": "1.72.0"
+		"version": "1.79.0"
 	},
 	{
 		"applicability": {
@@ -3865,6 +3878,19 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
+		"group": "complexity",
+		"id": "manual_inspect",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.81.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
 		"group": "pedantic",
 		"id": "manual_instant_elapsed",
 		"id_span": {
@@ -4022,6 +4048,19 @@
 			"is_multi_part_suggestion": false
 		},
 		"group": "style",
+		"id": "manual_pattern_char_comparison",
+		"id_span": {
+			"path": "src/string_patterns.rs"
+		},
+		"level": "warn",
+		"version": "1.80.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"group": "style",
 		"id": "manual_range_contains",
 		"id_span": {
 			"path": "src/ranges.rs"
@@ -4067,6 +4106,19 @@
 		},
 		"level": "warn",
 		"version": "1.64.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"group": "style",
+		"id": "manual_rotate",
+		"id_span": {
+			"path": "src/manual_rotate.rs"
+		},
+		"level": "warn",
+		"version": "1.81.0"
 	},
 	{
 		"applicability": {
@@ -4196,7 +4248,7 @@
 			"path": "src/manual_unwrap_or_default.rs"
 		},
 		"level": "warn",
-		"version": "1.78.0"
+		"version": "1.79.0"
 	},
 	{
 		"applicability": {
@@ -4494,16 +4546,16 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MaybeIncorrect",
+			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"group": "suspicious",
+		"group": "deprecated",
 		"id": "maybe_misused_cfg",
 		"id_span": {
-			"path": "src/attrs/mod.rs"
+			"path": "src/deprecated_lints.rs"
 		},
-		"level": "warn",
-		"version": "1.69.0"
+		"level": "none",
+		"version": "1.80.0"
 	},
 	{
 		"applicability": {
@@ -4598,16 +4650,16 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MaybeIncorrect",
+			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
-		"group": "correctness",
+		"group": "deprecated",
 		"id": "mismatched_target_os",
 		"id_span": {
-			"path": "src/attrs/mod.rs"
+			"path": "src/deprecated_lints.rs"
 		},
-		"level": "deny",
-		"version": "1.45.0"
+		"level": "none",
+		"version": "1.80.0"
 	},
 	{
 		"applicability": {
@@ -4676,7 +4728,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "Unresolved",
+			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
 		"group": "nursery",
@@ -4815,7 +4867,7 @@
 			"path": "src/transmute/mod.rs"
 		},
 		"level": "warn",
-		"version": "1.77.0"
+		"version": "1.79.0"
 	},
 	{
 		"applicability": {
@@ -5234,6 +5286,19 @@
 			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
+		"group": "suspicious",
+		"id": "needless_character_iteration",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.80.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
 		"group": "nursery",
 		"id": "needless_collect",
 		"id_span": {
@@ -5345,6 +5410,19 @@
 		},
 		"level": "warn",
 		"version": "1.61.0"
+	},
+	{
+		"applicability": {
+			"applicability": "MaybeIncorrect",
+			"is_multi_part_suggestion": false
+		},
+		"group": "suspicious",
+		"id": "needless_maybe_sized",
+		"id_span": {
+			"path": "src/needless_maybe_sized.rs"
+		},
+		"level": "warn",
+		"version": "1.79.0"
 	},
 	{
 		"applicability": {
@@ -5747,7 +5825,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "MachineApplicable",
+			"applicability": "Unspecified",
 			"is_multi_part_suggestion": false
 		},
 		"group": "complexity",
@@ -7436,13 +7514,13 @@
 	},
 	{
 		"applicability": {
-			"applicability": "Unresolved",
+			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
 		"group": "pedantic",
 		"id": "single_char_pattern",
 		"id_span": {
-			"path": "src/methods/mod.rs"
+			"path": "src/string_patterns.rs"
 		},
 		"level": "allow",
 		"version": "pre 1.29.0"
@@ -7618,7 +7696,7 @@
 	},
 	{
 		"applicability": {
-			"applicability": "Unresolved",
+			"applicability": "MachineApplicable",
 			"is_multi_part_suggestion": false
 		},
 		"group": "restriction",
@@ -8749,6 +8827,19 @@
 	},
 	{
 		"applicability": {
+			"applicability": "MachineApplicable",
+			"is_multi_part_suggestion": false
+		},
+		"group": "complexity",
+		"id": "unnecessary_min_or_max",
+		"id_span": {
+			"path": "src/methods/mod.rs"
+		},
+		"level": "warn",
+		"version": "1.78.0"
+	},
+	{
+		"applicability": {
 			"applicability": "Unresolved",
 			"is_multi_part_suggestion": false
 		},
@@ -9691,7 +9782,7 @@
 			"path": "src/zero_repeat_side_effects.rs"
 		},
 		"level": "warn",
-		"version": "1.75.0"
+		"version": "1.79.0"
 	},
 	{
 		"applicability": {

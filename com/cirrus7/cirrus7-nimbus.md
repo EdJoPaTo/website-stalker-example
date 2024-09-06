@@ -60,21 +60,21 @@ Der cirrus nimbus ist modular aufgebaut. Das Herzstück des Kühlsystems ist ein
 
 |  CPU   |Intel core i3 / i5 / i7 / i9 (konfigurationsabhängig)|
 |--------|-----------------------------------------------------|
-|Chipsatz|     Intel H610 / B660 / H670 / Z690 / AMD B550      |
+|Chipsatz|         Intel H610 / Z790 / AMD B550 / 650          |
 
 ### Main memory ###
 
-|   Speichertyp   |DDR4 SO-DIMM / DDR4 LO-DIMM / DDR5 LO-DIMM|
+|   Speichertyp   |DDR4 SO-DIMM / DDR5 SO-DIMM / DDR5 LO-DIMM|
 |-----------------|------------------------------------------|
 |  Speichergröße  |     8-96 GB (konfigurationsabhängig)     |
-|  Taktfrequenz   |            3200MHz / 4800 MHz            |
+|  Taktfrequenz   |      3200 MHz / 4800 MHz / 5600 MHz      |
 |Anzahl DIMM-Slots|             2 (Dual Channel)             |
 
 ### SSDs / hard drives ###
 
-|2.5" SSDs / HDDs|  2x (mit 7mm Bauhöhe)   |
-|----------------|-------------------------|
-|    M.2 NVMe    |2x (über Gehäuse gekühlt)|
+|2.5" SSDs|  2x (mit 7mm Bauhöhe)   |
+|---------|-------------------------|
+|M.2 NVMe |2x (über Gehäuse gekühlt)|
 
 ### Optical drive ###
 

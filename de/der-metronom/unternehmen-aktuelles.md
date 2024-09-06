@@ -15,12 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Information zur kostenlosen Telefonseelsorge für Augenzeugen des Vorfalls am Bahnhof Uelzen](https://www.der-metronom.de/aktuell/information-zur-kostenlosen-telefonseelsorge-fuer-augenzeugen-des-vorfalls-am-bahnhof-uelzen/)
-
- Uelzen - 05.09.2024
-
-Am 05. September kam es am Bahnhof Uelzen zu einem Vorfall, der für Anwesende und Augenzeugen belastend sein kann. Menschen, die sich in einer emotionalen Ausnahmesituation befinden, sollten die Telefonseelsorge kontaktieren. Unter der kostenlosen Rufnummer (0 800) 111 0 111 oder (0800) 111 0 222...
-
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
  26.08.2024
