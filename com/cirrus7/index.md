@@ -6,7 +6,7 @@ leistungsstarke Intel® Core™ Raptor Lake CPU bis i9-14900T
 
 bis zu 96 GB RAM
 
-bis zu 4x SSDs / HDDs
+bis zu 4x SSDs
 
 lüfterlos und lautlos
 
@@ -14,7 +14,7 @@ lüfterlos und lautlos
 
 * bis zu 96 GB RAM
 
-* bis zu 4x SSDs / HDDs
+* bis zu 4x SSDs
 
 * lüfterlos und lautlos
 
@@ -33,7 +33,7 @@ mit AMD Ryzen / Intel Raptor Lake CPU
 
 lüfterlose / lautlose Kühlung
 
-bis zu 4 x SSDs / HDDs
+bis zu 4 x SSDs
 
 basierend auf ASRock DeskMini X300, X600 und B760
 
@@ -41,7 +41,7 @@ basierend auf ASRock DeskMini X300, X600 und B760
 
 * lüfterlose / lautlose Kühlung
 
-* bis zu 4 x SSDs / HDDs
+* bis zu 4 x SSDs
 
 * basierend auf ASRock DeskMini X300, X600 und B760
 
@@ -58,7 +58,7 @@ basierend auf Intel® NUC12 / NUC13
 
 bis zu 64 GB RAM
 
-bis zu 2x SSDs / HDDs
+bis zu 2x SSDs
 
 lautlose / lüfterlose Kühlung
 
@@ -66,7 +66,7 @@ lautlose / lüfterlose Kühlung
 
 * bis zu 64 GB RAM
 
-* bis zu 2x SSDs / HDDs
+* bis zu 2x SSDs
 
 * lautlose / lüfterlose Kühlung
 

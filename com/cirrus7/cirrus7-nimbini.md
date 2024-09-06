@@ -15,9 +15,7 @@ Mit nur 157x157x81mm ist der cirrus nimbini der kleinste Spross der cirrus - Min
 
 Die neue Pro Edition v4 ist mit einer aktuellen Intel® Xe ausgestattet. Mit 2x HDMI 2.0b, 3x USB--A 3.1 (10Gb/s), 1x USB-A 2.0 (480Mb/s), 2x Thunderbolt 4, 1x 2.5GBase-T und IR-Empfänger eignet sich die Pro Edition sowohl für die Wiedergabe von Medieninhalten als auch als leiser Mini-Arbeitsplatz am Arbeitsplatz. Von der i5-CPU verfügt die Media Edition bereits über 4 CPU-Kerne inklusive Hyperthreading. Die massive passive Kühlung einschließlich 5 Kupferkernen sorgt auch für eine bessere Kühlung als die luftgekühlte Intel NUC-Version.
 
-### cirrus nimbini v2 - Gemini Edition ###
-
-Ausgestattet mit einer Intel® Gemini Lake Dual- oder Quad-Core-CPU bietet dieses Nimbini-Modell eine solide Desktop-Leistung. Natürlich ist es, wie alle unsere Cirrus 7 Nimbini v2-Modelle, völlig lüfterlos und geräuschlos. Mit 2xHDMI 2.0a können auch bei diesem Einstiegsmodell 2x 4K-Monitore mit 60 Hz betrieben werden.
+###  ###
 
 ##### Benötigen Sie zusätzliche Informationen zum cirrus nimbini ? #####
 
