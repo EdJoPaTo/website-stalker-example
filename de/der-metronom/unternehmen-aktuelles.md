@@ -22,9 +22,3 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 Liebe Fahrgäste,
 wir haben Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024 vom 16. bis 22.09.2024 eingerichtet. Den Fahrplan findet ihr hier.
 Euer metronom Team
-
-[Bis 9. September Umstieg in Uelzen erforderlich: Keine Durchbindung der Züge zwischen Hamburg und Hannover (und in Gegenrichtung)](https://www.der-metronom.de/aktuell/bis-9-september-umstieg-in-uelzen-erforderlich-keine-durchbindung-der-zuege-zwischen-hamburg-und-hannover-und-in-gegenrichtung/)
-
- Uelzen - 25.06.2024
-
-Moin liebe Fahrgäste,aufgrund einer Baustelle im Hauptbahnhof Hannover steht dort derzeit planmäßig nur ein Gleis für die ankommenden und abfahrenden metronom-Züge zur Verfügung. Das bedeutet, dass alle Züge in Hannover Hbf wenden und in entgegengesetzter Richtung zurückfahren müssen. Ausgenommen...
