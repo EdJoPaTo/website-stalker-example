@@ -15,7 +15,7 @@ ab 0,01 € pro Monat
 **Local Block Storage**
 ----------
 
-Local Block Storage bietet jedem Anwender eine **einfache und kostengünstige** Option weitere **Disken** in seine virtuelle Maschine hinzuzufügen. Die Disken können später einfach vergrößert werden und das **ganze ohne Laufzeit**.
+Local Block Storage bietet jedem Anwender eine **einfache und kostengünstige** Option weitere **Disks** in seine virtuelle Maschine hinzuzufügen. Die Disks können später einfach vergrößert werden und das **ganze ohne Laufzeit**.
 
 Local Block Storage ist verfügbar für unsere Produkte [Root-Server ab G9](https://www.netcup.com/de/server/root-server), [VPS x86 G10](https://www.netcup.com/de/server/vps) (bis max. 8 TB) und [VPS ARM64 G11](https://www.netcup.com/de/server/arm-server) (bis max. 8 TB).
 
@@ -90,7 +90,7 @@ Nein, dies ist leider nicht möglich.
 
 Nein, du kannst ab 1 GB deinen Speicherbedarf beliebig anpassen. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab G9, VPS x86 ab G10 und ARM64 G11 (bis max. 8 TB).
 
-### Ist es möglich die Disken zu verkleinern? ###
+### Ist es möglich die Disks zu verkleinern? ###
 
 Nein, dies ist nicht möglich. Möchte man seine gewählte Speicherkapazität reduzieren, so ist hierzu eine neue, kleinere Speichereinheit zu wählen, die Dateien der bestehenden Einheit in die neue, kleinere Kapazitätsgröße zu übertragen, um im Anschluss die bestehende, größere Speichereinheit zu kündigen.
 
