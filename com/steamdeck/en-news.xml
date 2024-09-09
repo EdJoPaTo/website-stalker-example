@@ -101,7 +101,7 @@
 						<br>
 					</li>
 					<li>
-						Fixed an issue where updates would could sometimes be applied incorrectly if the unit was powered off abruptly near the end of an OS update
+						Fixed an issue where updates would sometimes be applied incorrectly if the unit was powered off abruptly near the end of an OS update
 						<br>
 					</li>
 					<li>
