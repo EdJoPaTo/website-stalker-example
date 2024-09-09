@@ -272,7 +272,7 @@ Ein VPS x86 basiert auf der x86-Architektur und ist ideal für eine breite Palet
 
 ### Wo ist der Standort meines VPS? ###
 
-Bei netcup bieten wir Ihnen Wien (Österreich), Nürnberg (Deutschland) oder Manassas (USA) als Standort für Ihren vServer an. Sie können beim Kauf Ihres Servers den Standort auswählen. Die Bezeichnung 'VIE', 'NUE' bzw. 'MNZ' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna) Nürnberg (Nuremberg) oder Manassas (Manassas) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der VPS je nach freien Kapazitäten entweder in Wien oder Nürnberg gehostet wird.
+Bei netcup bieten wir dir Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) und Amsterdam (Niederlande) als Standort für deinen vServer an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS 'bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) oder Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der VPS je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
 
 ### Was sind die Vorteile eines VPS? ###
 

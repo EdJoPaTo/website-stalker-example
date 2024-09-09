@@ -215,7 +215,7 @@ Ein dedizierter Server bietet exklusiven Zugang zu einem physischen Server für 
 
 ### Wo ist der Standort meines Root-Servers? ###
 
-Bei netcup bieten wir Ihnen Wien (Österreich), Nürnberg (Deutschland) oder Manassas (USA) als Standort für Ihren Root-Server an. Sie können beim Kauf Ihres Servers den Standort auswählen. Die Bezeichnung 'VIE', 'NUE' bzw. 'MNZ' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna) Nürnberg (Nuremberg) oder Manassas (Manassas) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root-Server je nach freien Kapazitäten entweder in Wien oder Nürnberg gehostet wird.
+Bei netcup bieten wir Ihnen Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) oder Amsterdam (Niederlande) als Standort für deinen Root-Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) bzw. Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root-Server je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
 
 ### Was sind die Vorteile eines Root-Servers? ###
 
