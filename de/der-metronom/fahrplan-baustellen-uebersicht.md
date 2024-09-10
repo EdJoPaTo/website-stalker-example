@@ -28,8 +28,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
-[06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
-
 [11.09.2024 - 15.09.2024 RE2/RE3: nächtliche Teilausfälle Uelzen \<\> Celle \<\> Hannover sowie Haltausfälle Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-uelzen-celle-hannover-sowie-haltausfaelle-northeim-und-noerten-hardenberg/)
 
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
@@ -37,8 +35,6 @@ RE2 + RE3 Uelzen - Celle - Hannover
 [25.09.2024 RE2/RE3: Zugausfall am Mittwochabend](https://www.der-metronom.de/baustellen/re2-re3-zugausfall-am-mittwochabend/)
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
-
-[06.09.2024 - 10.09.2024 RE3/RB31/RE2: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-re2-naechtliche-instandhaltungsarbeiten/)
 
 [12.09.2024 - 16.09.2024 RE3/RB31: nächtliche Teilausfälle Uelzen \<\> Lüneburg sowie Haltausfälle in Ashausen, Bardowick und Radbruch](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-uelzen-lueneburg-sowie-haltausfaelle-in-ashausen-bardowick-und-radbruch/)
 
