@@ -158,7 +158,7 @@ Close
 * Korean
 * Spanish (Latin American)
 * Spanish (Spain)
-* Swedish/Finnish(Out of stock)
+* Swedish/Finnish
 * Traditional Chinese (Cangjie & Zhuyin)
 
 **Power Adapter**
