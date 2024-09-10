@@ -29,7 +29,6 @@ In addition to our five existing locations, Singapore is now also available!
 * **Available for many products**Singapore is available for all cloud servers with AMD processors, and all cloud features.
 * **First location in Southeast Asia**Singapore, a data center hub, provides exceptional network connectivity that caters to both local and overseas connections. It also expands our offer to a total of six locations in four different countries and on three continents.
 * **Fair prices**This connectivity comes at a higher price for our products in Singapore compared to other locations. This also applies to charges for exceeding the included traffic limit. Of course, fair prices are still vital to us at Hetzner, and we always strive to provide attractive prices at all of our locations!
-* **Raffle**To celebrate the new location, we will hold a raffle with a chance to win a merch package. The top three winners will also receive either a Lego Hero or a Lego data center model. All you need to do to get your name in the hat is order a server in the new location in Singapore, test it for a month, and send a mail with your account number to "[socialmedia@hetzner.com](mailto:socialmedia@hetzner.com)". For more information, see our [terms of participation](https://www.hetzner.com/legal/giveaway).
 
 July 2024
 ----------
