@@ -15,15 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[\+++ Update 16:15 +++ metronom-Verkehr normalisiert sich wieder](https://www.der-metronom.de/aktuell/update-1615-metronom-verkehr-normalisiert-sich-wieder/)
-
- Uelzen - 10.09.2024
-
-Liebe Fahrgäste,
-die Einschränkungen im Hamburger Stadtgebiet (Harburg und Hamburg Hbf.) nehmen deutlich ab:
-RE3/RB31: Hamburg-Lüneburg-Uelzen:
-viele Züge der RE3 fahren wieder von und nach Hamburg Hbf. Einige enden jedoch noch in Hamburg-Harburg.nicht mehr alle Züge der RE3 halten zusätzlich...
-
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
  26.08.2024
