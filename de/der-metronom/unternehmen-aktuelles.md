@@ -23,22 +23,6 @@ Liebe Fahrgäste,
 die Einschränkungen im Hamburger Stadtgebiet (Harburg und Hamburg Hbf.) dauern an:
 RE3/RB31: Hamburg-Lüneburg-Uelzen: viele Züge der RE3 fahren wieder von und nach Hamburg Hbf., haben jedoch massive Verspätungen von bis zu 60min alle Züge der RE3 halten zusätzlich an...
 
-[\+++ Update 12:20 +++ RE3 und RE4 fahren wieder bis Hamburg Hbf.](https://www.der-metronom.de/aktuell/update-1220-re3-und-re4-fahren-wieder-bis-hamburg-hbf/)
-
- Hamburg - 10.09.2024
-
-Liebe Fahrgäste,
-die Einschränkungen im Hamburger Stadtgebiet (Harburg und Hamburg Hbf.) haben sich reduziert:
-viele Züge der RE3 fahren wieder von und nach Hamburg Hbf.alle Züge der RE3 halten zusätzlich an allen UnterwegsbahnhöfenZüge der RB31 entfallenviele Züge der RE4 fahren wieder von und...
-
-[RE3/RB31 + RE4/RB41: Hamburg-Harburg und Hamburg Hbf können bis auf weiteres nicht angefahren werden](https://www.der-metronom.de/aktuell/re3-rb31-re4-rb41-hamburg-harburg-und-hamburg-hbf-koennen-bis-auf-weiteres-nicht-angefahren-werden/)
-
- Hamburg - 10.09.2024
-
-Liebe Fahrgäste,
-wegen einer behördlichen Sperrung der Gleisanlagen können Harburg und Hamburg Hbf derzeit nicht angefahren werden.
-alle Züge der Linien RE3 und RB31 (Uelzen-Lüneburg-Hamburg) beginnen und enden in Maschenalle Züge der Linien RE4 und BR41 (Bremen-Buchholz-Hamburg) beginnen und...
-
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
  26.08.2024
