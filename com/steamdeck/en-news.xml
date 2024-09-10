@@ -6,6 +6,48 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: September 9th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4759830416344908169</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Sep 9, 2024
+			</h5>
+			<div>
+				The Steam Deck Client Beta has been updated with the following changes:
+				<br>
+				<br>
+				<b>
+					Recordings & Screenshots
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a bug where sometimes attempting to open a specific media item would open the Recordings & Screenshots dialog to the grid view
+						<br>
+					</li>
+					<li>
+						Fixed date portion of default suggested filename when exporting a clip
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759830416344908169" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: September 6th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4759830079699504320</link>
 			<content:encoded><![CDATA[<html>
@@ -262,58 +304,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759829264964738392" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: August 23rd</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4425436537577880271</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Aug 23, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Desktop
-				</b>
-				<br>
-				<ul>
-					<li>
-						The controller configurator in the desktop overlay will now receive escape key presses instead of the key press automatically dismissing the whole overlay
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a regression in the game recording per-game settings, which would use the compiled-in default minutes to keep, or use the compiled-in default bit rate, instead of the user's preferences
-						<br>
-					</li>
-					<li>
-						Fixed list view not updating when a game exits.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4425436537577880271" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
