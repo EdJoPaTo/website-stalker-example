@@ -143,6 +143,21 @@ Choose an option
 
 Choose an option
 
+FAQ
+
+FAQs
+----------
+
+* Can I replace the keyboard?
+
+  Yes! If you ever want to to move to a different keyboard language or need to replace your keyboard for any other reason, you can do that. Both individual keyboards and replacement Input Covers are available in the Framework Marketplace.
+
+* When will other keyboard options be available?
+
+  Keyboard options available at configuration time depend on the region you are ordering from. We'll continue to increase the number of configurations available as we enter new countries and regions. You can also easily replace the keyboard or Input Cover with other keyboard languages and layouts, with all options available in the Framework Marketplace.
+
+Close
+
 * German
 * International English - Linux
 * US English
