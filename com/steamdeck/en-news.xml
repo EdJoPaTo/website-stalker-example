@@ -6,6 +6,259 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: September 11th</title>
+			<link>https://store.steampowered.com/news/app/593110/view/4605582245626919823?snr=2_groups_partnerevents_</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Sep 11, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Steam Families is now available for all users. For more info about Steam Families, you can read our
+						<a href="https://store.steampowered.com/news/app/593110/view/4605582245626919823?snr=2_groups_partnerevents_" rel="noopener noreferrer">
+							news post
+						</a>
+						, check out our
+						<a href="https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4" rel="noopener noreferrer">
+							Support FAQ
+						</a>
+						<br>
+					</li>
+					<li>
+						Added a dropdown to Settings->Display->Advanced to select the maximum resolution allowed to be used by games. This is the global version of the 'Game Resolution' dropdown already available under Game Settings->General.
+						<br>
+					</li>
+					<li>
+						Added Sign Out to the power menu on Deck.
+						<br>
+					</li>
+					<li>
+						The friends list will now show a Steam Deck icon, instead of a gamepad icon, if the other user is playing on a Steam Deck
+						<br>
+					</li>
+					<li>
+						Replaced the friends list VR icon with a new graphic that also matches the in-game or online friend state color
+						<br>
+					</li>
+					<li>
+						Improvements to keyboard event tracking and audio latency in updated SDL build
+						<br>
+					</li>
+					<li>
+						Improved client startup performance
+						<br>
+					</li>
+					<li>
+						Improved reliability of "games in common" collections in library
+						<br>
+					</li>
+					<li>
+						Fixed controller input no longer going to game after resuming from sleep if a wake movie is set.
+						<br>
+					</li>
+					<li>
+						Fixed broken thumbnail for screenshots from non-steam game shortcuts uploaded to steam, when viewed from another computer
+						<br>
+					</li>
+					<li>
+						Fixed a case that game server / server browser lists would re-fetch when only re-ping on existing list was requested
+						<br>
+					</li>
+					<li>
+						Fixed some games with achievements showing as "No Achievements" when sorting grids or shelves by achievement percentage.
+						<br>
+					</li>
+					<li>
+						Fixed certain apps disappearing from Recent Games after a client restart
+						<br>
+					</li>
+					<li>
+						Fixed formatting of links in news posts
+						<br>
+					</li>
+					<li>
+						Fixed collection names being displayed in all uppercase in edit controls
+						<br>
+					</li>
+					<li>
+						Fixed a few spots where tooltips were causing unexpected word wrap
+						<br>
+					</li>
+					<li>
+						Fixed an issue with padding for friends in the game invite dialog
+					</li>
+				</ul>
+				<br>
+				<b>
+					Screenshots
+				</b>
+				<br>
+				<ul>
+					<li>
+						Redesigned the screenshots manager
+						<br>
+					</li>
+					<li>
+						Added easier ways to share screenshots directly from Steam, including:
+						<br>
+						<ul>
+							<li>
+								Copy directly to your clipboard
+								<br>
+							</li>
+							<li>
+								Send to friend or chat group via Steam chat
+								<br>
+							</li>
+							<li>
+								Send to your phone via the Steam Mobile App
+								<br>
+							</li>
+							<li>
+								Export as a new file on your computer
+							</li>
+						</ul>
+					</li>
+					<li>
+						Improved the performance and reliability of the screenshots manager
+						<br>
+					</li>
+					<li>
+						Added the ability to search within the app filter dropdown
+						<br>
+					</li>
+					<li>
+						Pre-emptive work to provide future support for recordings and clips to integrate with the screenshots manager when
+						<a href="https://store.steampowered.com/gamerecording" rel="noopener noreferrer">
+							Steam Game Recording
+						</a>
+						releases out of beta
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed Ctrl-F not focusing search box in library
+					</li>
+				</ul>
+				<br>
+				<b>
+					Clock and Timer
+				</b>
+				<br>
+				<ul>
+					<li>
+						New Clock app in the Steam Overlay that can optionally be pinned on top of games.
+						<br>
+					</li>
+					<li>
+						Improved Timer UI.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Simplify encoding options to a hardware encoding enable checkbox
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Reduce CPU usage when using both Gyro and Joystick or Trackpad for mouse input
+						<br>
+					</li>
+					<li>
+						Fixed for SIAPI GetMotionData not returning any information on every controller but the first one plugged in.
+						<br>
+					</li>
+					<li>
+						Fix for Okami HD Brush and Fishing Rod game actions
+						<br>
+					</li>
+					<li>
+						SIAPI: Fix for analog actions from other action sets incorrectly reporting as active. This affected some titles including Okami HD.
+						<br>
+					</li>
+					<li>
+						Added "Rotate Output" slider to "Joystick" and "Joystick Mouse" mode settings. This can be useful for certain shmups, or simply to find a more natural "Up" direction on your joystick.
+						<br>
+					</li>
+					<li>
+						Added Output Icons to all Mode/Behavior dropdown menus. These indicate if the mode (by default) generates OS Mouse output, XInput (controller) Output, Steam Input API Action Output, or is a remapping tool/Overlay Menu (Touch, Radial, Hotbar).
+						<br>
+					</li>
+					<li>
+						Steam Input API Analog Actions that can have multiple modes i.e. "Camera | Camera as FlickStick" are now labelled as "... (via FlickStick)"
+						<br>
+					</li>
+					<li>
+						Steam Input API Analog Actions can now optionally be used "... (via Gyro To Mouse)" (default is still "As Mouse" or "As Joystick Mouse" depending on source).
+						<br>
+					</li>
+					<li>
+						Fix rare issue where Gyro Processing occurred before controller type is established.
+						<br>
+					</li>
+					<li>
+						Fix for Track Pad as Button Behavior not displaying any glyphs.
+						<br>
+					</li>
+					<li>
+						Fix "Gyro Calibration" Button appearing twice on Gyro config screen if there is a mode shift applied to the Gyro.
+						<br>
+					</li>
+					<li>
+						Fixed regression: "Dots per 360" was having no effect on FlickStick or Gyro to Mouse modes
+						<br>
+					</li>
+					<li>
+						Fixed a bug where PlayStation controllers connected over BT could be shown as connected over USB
+						<br>
+					</li>
+					<li>
+						Fixed a case where exiting a non-Steam game could leave controllers w/o input until you hit the guide button or QAM button
+					</li>
+				</ul>
+				<br>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4754201033330491054" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: September 11th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4754201033330340386</link>
 			<content:encoded><![CDATA[<html>
@@ -206,83 +459,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759830079699504320" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.12 Beta: We Don&apos;t Talk About Eleven</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4759830079696369630</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Sep 5, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed a rare 3.6 issue that could cause filesystem corruption on Steam Deck 64GB
-						<br>
-					</li>
-					<li>
-						Fixed a 3.6 regression where an already-inserted SD card would not always be detected on cold boot and would require re-insertion
-						<br>
-					</li>
-					<li>
-						Fixed an issue where updates would sometimes be applied incorrectly if the unit was powered off abruptly near the end of an OS update
-						<br>
-					</li>
-					<li>
-						Fixed an issue with copy-pasting UTF-8 text across applications
-					</li>
-				</ul>
-				<b>
-					Display
-				</b>
-				<ul>
-					<li>
-						Improved frame pacing with VRR on external displays
-						<br>
-					</li>
-					<li>
-						Fixed an issue where internal display could be abnormally limited to a lower frame rate after disconnecting an external display with VRR enabled
-						<br>
-					</li>
-					<li>
-						Fixed a 3.6 regression where the screen would be blank during part of the boot sequence
-						<br>
-					</li>
-					<li>
-						Fixed a 3.6 regression where the frame limit would not apply properly in specific conditions
-					</li>
-				</ul>
-				<b>
-					Developer
-				</b>
-				<ul>
-					<li>
-						Split package reinstallation step out of `steamos-devmode` command and into new `steamos-unminimize` command.  `steamos-devmode` now simply enters read-write mode and initializes the pacman keyring for use, and is much quicker.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759830079696369630" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>

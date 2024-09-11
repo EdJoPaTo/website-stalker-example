@@ -79,6 +79,12 @@ FAQ
 FAQs
 ----------
 
+* What DRAM/memory is supported?
+
+  Framework Laptop 13 (AMD Ryzen 7040 Series) supports two slots of DDR5 SO-DIMM memory at the recommended native DDR5-5600 speed. We've tested compatibility with Framework-branded DDR5 modules and a number of select retail modules from Samsung, SK Hynix, ADATA, ACPIm Mushkin, Crucial, Kingston Fury, and F.Skill Ripjaws.
+
+  Please note that while 24GB and 48GB DDR5-5600 modules seem to function, they are not officially supported by the Ryzen 7040 Series platform, so we can't guarantee compatibility. DDR5 modules have on-die ECC support and ECC modules will allow the system to function, however, ECC parity functionality is not supported by the non-Pro series APUs that Framework offers.
+
 * Can I add more memory or storage later?
 
   Yes! The Framework Laptop 13 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step by step guides you can follow to do the upgrade yourself.
