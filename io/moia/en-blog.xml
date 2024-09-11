@@ -6,6 +6,22 @@
 		<description>The MOIA blog you will learn everything that moves the MOIA community and get exciting insights into the world of MOIA.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>AI takes over Safety Tasks from Driving Personnel in Autonomous Operations</title>
+			<link>https://www.moia.io/en/blog/interior-analysis</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<span>
+				10.09.2024
+			</span>
+			In collaboration with emotion3D, MOIA has developed an AI solution for interior analysis in the self-driving, fully electric ID. Buzz AD from Volkswagen. The software automates safety tasks previously performed by the driving personnel, such as checking whether passengers have properly fastened their seat belts.
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>An Interview with MOIA-Safety Driver Nicholas</title>
 			<link>https://www.moia.io/en/blog/interview-safety-driver</link>
 			<content:encoded><![CDATA[<html>
@@ -129,22 +145,6 @@
 				20.11.2023
 			</span>
 			With the ALIKE project, we are bringing autonomous ridepooling to the streets of Hamburg together with Hamburger Hochbahn and other partners. MOIA is taking on the role of both operator and tech provider for all vehicles. Federal Transport Minister Volker Wissing personally handed over the €26 million funding decision for ALIKE at the end of October and took a test drive in the ID. Buzz AD.
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Our MOIA vehicle in the spotlight</title>
-			<link>https://www.moia.io/en/blog/moia-vehicle-in-the-spotlight</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<span>
-				28.09.2023
-			</span>
-			Whenever a MOIA is on the road in Hamburg or Hanover, people are curious. Our vehicle clearly stands out from the other cars not only because of its pluto yellow colour, but also because of its size and noise. But these are by no means all the special features of our MOIA. In this article, you will find out everything about the first vehicle specially developed for ridepooling.
 		</div>
 	</body>
 </html>]]></content:encoded>
