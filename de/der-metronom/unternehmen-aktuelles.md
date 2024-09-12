@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE2 / RE3: Streckensperrung / Umleitungen zwischen Celle und Hannover](https://www.der-metronom.de/aktuell/re2-re3-streckensperrung-umleitungen-zwischen-celle-und-hannover/)
+
+ 12.09.2024
+
+Liebe Fahrgäste,
+aufgrund einer Oberleitungsstörung ist die Strecke des RE2 / RE3 zwischen Celle und Hannover Hbf aktuell in beiden Richtungen gesperrt. Es kommt zu Verlängerungen der Fahrzeit, Verspätungen und Teilausfällen. Der RE 2 und RE 3 werden über Lehrte umgeleitet und haben dort einen...
+
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
  26.08.2024
