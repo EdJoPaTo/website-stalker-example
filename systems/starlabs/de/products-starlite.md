@@ -60,11 +60,11 @@ elementary OS 7.1 Pantheon
 
 KUbuntu LTS 22.04.3
 
-Linux Mint 21.3 Cinnamon
+Linux Mint 22 Cinnamon
 
-Linux Mint 21.3 MATE
+Linux Mint 22 MATE
 
-Linux Mint 21.3 XFCE
+Linux Mint 22 XFCE
 
 Manjaro 24 GNOME
 
