@@ -6,6 +6,58 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: September 13th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6610810166135847729</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Sep 13, 2024
+			</h5>
+			<div>
+				The Steam Deck Client Beta has been updated with the following changes:
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed game recording not working for non-Steam games.
+						<br>
+					</li>
+					<li>
+						Fixed instances where post-game events for the new Game Recording feature could show outside of the Steam Client Beta.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed controller input sometimes becoming unresponsive after changing the Switch controller layout setting.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6610810166135847729" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: September 11th</title>
 			<link>https://store.steampowered.com/news/app/593110/view/4605582245626919823?snr=2_groups_partnerevents_</link>
 			<content:encoded><![CDATA[<html>
@@ -20,6 +72,20 @@
 				We have just shipped an updated Steam Deck Client to the Stable channel.
 				<br>
 				<br>
+				<b>
+					Note:
+				</b>
+				This update was re-released September 13th with these additional changes:
+				<br>
+				<ul>
+					<li>
+						Fixed instances where post-game events for the new Game Recording feature could show outside of the Steam Client Beta.
+						<br>
+					</li>
+					<li>
+						Fixed controller input sometimes becoming unresponsive after changing the Switch controller layout setting.
+					</li>
+				</ul>
 				<b>
 					General
 				</b>
@@ -391,74 +457,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759830416344908169" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: September 6th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4759830079699504320</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Sep 6, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed regression when rendering game invites in chat
-						<br>
-					</li>
-					<li>
-						Fixed a rare crash when trying to connect to a WiFi network for the first time
-						<br>
-					</li>
-					<li>
-						Fixed a rare crash when checking for updates
-						<br>
-					</li>
-					<li>
-						Improved reliability of "games in common" collections in library
-						<br>
-					</li>
-					<li>
-						Rewrite of shortcut key binding in settings UI, including the ability to unbind a hotkey
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed regression: "Dots per 360" was having no effect on FlickStick or Gyro to Mouse modes
-						<br>
-					</li>
-					<li>
-						Fixed a bug where PlayStation controllers connected over BT could be shown as connected over USB
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4759830079699504320" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
