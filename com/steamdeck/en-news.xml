@@ -289,7 +289,7 @@
 				<br>
 				<ul>
 					<li>
-						Fix a potential 30s stall when a Steam window closes.
+						Fix a potential 30s stall when a steam window closes.
 					</li>
 				</ul>
 			</div>
