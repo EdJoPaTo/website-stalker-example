@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
+
+ Uelzen - 13.09.2024
+
+Die Deutsche Bahn baut den Aufzug an Gleis 2/3 im Bahnhof Lüneburg neu auf. Die Arbeiten beginnen am 7. Oktober 2024 und dauern voraussichtlich sechs Monate bis April 2025.
+Wenn Du ↗ mobilitätseingeschränkt bist und Unterstützung brauchst, melde Deine Reise bitte 48 Stunden vorher bei der ↗...
+
 [RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
  26.08.2024
