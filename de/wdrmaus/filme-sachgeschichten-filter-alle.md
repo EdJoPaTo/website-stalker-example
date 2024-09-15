@@ -824,6 +824,7 @@
 * [Passivhaus](https://www.wdrmaus.de/filme/sachgeschichten/passivhaus.php5)
 * [Pellets](https://www.wdrmaus.de/filme/sachgeschichten/pellets.php5)
 * [PET-Recycling](https://www.wdrmaus.de/filme/sachgeschichten/pet_recycling.php5)
+* [Pfadfinder](https://www.wdrmaus.de/filme/sachgeschichten/pfadfinder.php5)
 * [Pfahlbau](https://www.wdrmaus.de/filme/sachgeschichten/pfahlbau.php5)
 * [Pferde lenken](https://www.wdrmaus.de/filme/sachgeschichten/pferde_lenken.php5)
 * [Pferde schlafen](https://www.wdrmaus.de/filme/sachgeschichten/pferde_schlafen.php5)
