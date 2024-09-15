@@ -20,15 +20,11 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Hannover - Northeim - Göttingen
 
-[11.09.2024 - 15.09.2024 RE2/RE3: nächtliche Teilausfälle Uelzen \<\> Celle \<\> Hannover sowie Haltausfälle Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-uelzen-celle-hannover-sowie-haltausfaelle-northeim-und-noerten-hardenberg/)
-
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
 [28.09.2024 - 30.09.2024 RE2/RE3: Zugausfälle in den Nächten](https://www.der-metronom.de/baustellen/re2-re3-zugausfaelle-in-den-naechten/)
 
 RE2 + RE3 Uelzen - Celle - Hannover
-
-[11.09.2024 - 15.09.2024 RE2/RE3: nächtliche Teilausfälle Uelzen \<\> Celle \<\> Hannover sowie Haltausfälle Northeim und Nörten-Hardenberg](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-uelzen-celle-hannover-sowie-haltausfaelle-northeim-und-noerten-hardenberg/)
 
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
 
