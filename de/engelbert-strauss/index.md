@@ -24,28 +24,12 @@ die neue e.s.trail Outdoor-Workwear
 
 [alle Kooperationen](https://www.engelbert-strauss.de/brand_partnerships)
 
-###  WIN  ###
-
----
-
- mit etwas Glück
-3x2 Tickets + Flüge gewinnen
-
-[jetzt mitmachen\*](https://www.instagram.com/p/C_hnBj5iD8v/)
-
-[jetzt mitmachen\*](https://www.instagram.com/p/C_hnBj5iD8v/)
-
- \*Teilnahme über Instagram
-
-[Teilnahmebedingungen](https://www.engelbert-strauss.de/Rechtliches/Teilnahmebedingungen_I)
-
 ###  Football
 is family  ###
 
 ---
 
- Endlich geht es in die nächste Saison
-\- jetzt auch für Damen und Kinder!
+ Endlich geht es in die nächste Saison - jetzt auch für Damen und Kinder!
 
 [jetzt entdecken](https://www.engelbert-strauss.de/NFL)
 
