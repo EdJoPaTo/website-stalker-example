@@ -2,7 +2,7 @@ Availability
 
 All configurations are In-Production and available to order with a discount.
 
-Slightly Early Bird Savings - Save up to €71,40!¹
+Early Bird Savings - Save up to €47,60!¹
 
  In-Production offer is automatically applied at checkout and ends in
 
@@ -214,6 +214,6 @@ USB-C to USB-A Adapter
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Estimated dispatch in 6 - 7 weeks
+Estimated dispatch in 4 - 5 weeks
 
  Add to Basket
