@@ -176,7 +176,7 @@ Media and political inquiries
 
 Christoph Ziegenmeyer
 
-Head of Communications for PR and Public Affairs
+VP Communications & Public Affairs
 
 [press@moia.io](tel:press@moia.io)
 
