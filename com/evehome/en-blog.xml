@@ -13,6 +13,13 @@
 A smart home without any limitations: discover how HomePod mini, Eve and Thread bring your smart home to the next level.]]></content:encoded>
 		</item>
 		<item>
+			<title>New: Control Matter devices from Eve directly and locally from your iPhone, without a home hub</title>
+			<link>https://www.evehome.com/en/blog/iOS-18</link>
+			<content:encoded><![CDATA[Product Features
+
+iOS 18 is a comprehensive update that contains a number of improvements for Eve devices under Apple Home. In particular, getting started is easier than ever: with iOS 18 and an iPhone 15 Pro (and later), selected Eve devices can now be added and controlled locally and directly. A home hub is not required.]]></content:encoded>
+		</item>
+		<item>
 			<title>Cut your power consumption at home in three simple steps</title>
 			<link>https://www.evehome.com/en/blog/cut-your-power-consumption-with-eve-energy</link>
 			<content:encoded><![CDATA[Use Cases
@@ -76,14 +83,6 @@ Enjoy a cozy home when you’re there, and save energy when you’re not – tha
 			<content:encoded><![CDATA[Use Cases
 
 A parent-run initiative like ours consumes a great deal of time and effort, plus we need to keep a constant eye on our operating costs. However, as we don’t just want to save money, but also lighten the load on our staff and the environment, we’ve recently started using smart radiator valves to intelligently control the indoor temperature. In this post we share the lessons we’ve learned.]]></content:encoded>
-		</item>
-		<item>
-			<title>All features of Eve Aqua</title>
-			<link>https://www.evehome.com/en/blog/eve-aqua-all-features</link>
-			<content:encoded><![CDATA[Product Features
-HomeKit
-
-Eve Aqua is a slick piece of hardware with software that takes ease of use to the next level. This feature-packed solution is effortless to fit, and makes it a breeze to connect your irrigation system to your HomeKit home.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
