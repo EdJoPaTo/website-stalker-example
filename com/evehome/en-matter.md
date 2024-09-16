@@ -503,7 +503,7 @@ Now you can easily add your Eve device to your smart home in just a few steps u
 
 And that's it – now you can access your Eve device via your chosen platform.
 
-If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home.
+If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
 [Learn more](/en/hub)
 
@@ -515,6 +515,8 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Door & Window
 * Eve Motion
 * Eve MotionBlinds for Roller Blinds
+* Eve Thermo
+* Eve Weather
 
 [How to upgrade](/en/upgrade-to-matter)
 
