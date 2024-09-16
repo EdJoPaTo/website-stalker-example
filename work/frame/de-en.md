@@ -56,3 +56,83 @@ Framework Marketplace
 **Pick up new modules for upgrade, replacement, and customization of your Framework Laptop in the Framework Marketplace.**
 
 [Explore our Marketplace](/de/en/marketplace)
+
+Colorful USB-C Expansion Cards
+----------
+
+TEST TEST TEST
+
+[Shop now](https://frame.work/products/usb-c-expansion-card?v=FRACCQ0005)
+
+Cooler Master Mainboard Case
+----------
+
+TEST TEST TEST
+
+[Shop now](https://frame.work/products/cooler-master-mainboard-case)
+
+Bezel - Orange
+----------
+
+TEST TEST TEST
+
+[Shop now](https://frame.work/products/bezel?v=FRANCB0013)
+
+TEST
+----------
+
+[Storage Expansion Card - 250GB](https://frame.work/products/storage-expansion-card-2nd-gen?v=FRACCFBZ0AR)
+
+[](/de/en/products/microsd-expansion-card?v=FRACCMBZ01)
+
+Quick Add
+
+[### MicroSD Expansion Card ### €20](/de/en/products/microsd-expansion-card?v=FRACCMBZ01)
+
+[](/de/en/products/usb-a-expansion-card)
+
+Quick Add
+
+[### USB-A Expansion Card ### €10](/de/en/products/usb-a-expansion-card)
+
+[](/de/en/products/usb-c-expansion-card?v=FRACCKBZ01)
+
+Quick Add
+
+[### USB-C Expansion Card - Aluminum ### €10](/de/en/products/usb-c-expansion-card?v=FRACCKBZ01)
+
+[](/de/en/products/ethernet-expansion-card?v=FRACCTBZ00)
+
+Quick Add
+
+[### Ethernet Expansion Card ### €45](/de/en/products/ethernet-expansion-card?v=FRACCTBZ00)
+
+[](/de/en/products/audio-expansion-card)
+
+Quick Add
+
+[### Audio Expansion Card ### €20](/de/en/products/audio-expansion-card)
+
+[](/de/en/products/displayport-2nd-gen-expansion-card)
+
+Quick Add
+
+[### DisplayPort (2nd Gen) Expansion Card ### €20](/de/en/products/displayport-2nd-gen-expansion-card)
+
+[](/de/en/products/hdmi-expansion-card-3rd-gen)
+
+Quick Add
+
+[### HDMI (3rd Gen) Expansion Card ### €20](/de/en/products/hdmi-expansion-card-3rd-gen)
+
+[](/de/en/products/sd-expansion-card)
+
+Quick Add
+
+[### SD Expansion Card ### €29](/de/en/products/sd-expansion-card)
+
+[](/de/en/products/storage-expansion-card-2nd-gen?v=FRACCFBZ0A-2)
+
+Quick Add
+
+[### 1TB (2nd Gen) Expansion Card ### €140](/de/en/products/storage-expansion-card-2nd-gen?v=FRACCFBZ0A-2)
