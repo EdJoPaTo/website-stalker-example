@@ -79,7 +79,7 @@ inkl. MwSt. und Versand
 
 ### cirrus AI-box ###
 
-#### Kompaktes lüfterloses Embedded-Edge-System mit NVIDIA® JETSON™ TX1/TX2 ####
+#### Kompaktes lüfterloses Embedded-Edge-System mit NVIDIA® JETSON™ TX2/TX2i ####
 
 Die cirrus7 AI-box ist ein leistungsstarkes, energiesparendes Bildverarbeitungs- und Automatisierungssystem. Seine parallelen CUDA-Kerne mit NVIDIA® Jetson™TX2 GPU-beschleunigten parallelen CUDA-Kernen machen es zu einem leistungsstarken AI-System für industrielle Embedded-Projekte.
 
