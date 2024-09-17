@@ -257,6 +257,64 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
+[Eve Light Switch](/en/eve-light-switch)
+
+ Connected Wall Switch
+
+ Learn more
+
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+
+Lighting
+
+Matter
+
+Thread
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Currently not available.
+----------
+
+ Choose your Country
+
+[Eve Light Switch](/en/eve-light-switch)
+
+ Connected Wall Switch
+
+* Transform your existing lights into a smart lighting system, and turn them on or off using your voice, an app or the light switch itself.
+* Automate your lights to switch on and off at a preferred time, control them on the go or based on presence and create scenes to make multiple connected devices work in sync.
+* Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
+* [Visit product page](/en/eve-light-switch)
+
 [Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
@@ -513,6 +571,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 
 * Eve Energy (Australia, Europe, U.K., U.S. & Canada)
 * Eve Door & Window
+* Eve Light Switch (U.S. & Canada)
 * Eve Motion
 * Eve MotionBlinds for Roller Blinds
 * Eve Thermo
@@ -774,6 +833,64 @@ Not available in your country
 * Control your appliances on the go or based on presence.
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
+
+[Eve Light Switch](/en/eve-light-switch)
+
+ Connected Wall Switch
+
+ Learn more
+
+Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+
+Lighting
+
+Matter
+
+Thread
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Currently not available.
+----------
+
+ Choose your Country
+
+[Eve Light Switch](/en/eve-light-switch)
+
+ Connected Wall Switch
+
+* Transform your existing lights into a smart lighting system, and turn them on or off using your voice, an app or the light switch itself.
+* Automate your lights to switch on and off at a preferred time, control them on the go or based on presence and create scenes to make multiple connected devices work in sync.
+* Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
+* [Visit product page](/en/eve-light-switch)
 
 [Eve Motion](/en/eve-motion)
 
