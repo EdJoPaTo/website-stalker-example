@@ -38,6 +38,8 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [26.09.2024 - 06.10.2024 RE3/RB31: Teil- und Haltausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-teil-und-haltausfaelle-wegen-brueckenbauarbeiten/)
 
+[07.10.2024 - 14.10.2024 RE3/RB31: Brückenbauarbeiten Halt- und Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-brueckenbauarbeiten-halt-und-teilausfaelle/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [26.09.2024 - 06.10.2024 RE4/RB41: Teil- und Haltausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-teil-und-haltausfaelle-wegen-brueckenbauarbeiten/)
