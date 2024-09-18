@@ -301,7 +301,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Buy from our partners
 
-Currently not available.
+Not available in your country
 ----------
 
  Choose your Country
@@ -878,7 +878,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Buy from our partners
 
-Currently not available.
+Not available in your country
 ----------
 
  Choose your Country
