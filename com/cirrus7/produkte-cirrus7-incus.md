@@ -76,8 +76,12 @@ cirrus incus
     2C+4c/12T, 3.50 – 5.00GHz – Radeon 740M
   * **AMD Ryzen 5 8600G**
     6C/12T, 4.30 – 5.00GHz – Radeon 760M
+  * **AMD Ryzen 5 9600X**
+    3.9GHz – 5.4GHz 6 Cores / 12 Threads, Radeon RDNA 2
   * **AMD Ryzen 7 8700G**
     8C/16T, 4.20 – 5.10GHz – Radeon 780M
+  * **AMD Ryzen 7 9700X**
+    3.8GHz – 5.5GHz 8 Cores / 16 Threads, Radeon RDNA 2
 
   ##### Prozessor (CPU) #####
 
