@@ -24,6 +24,8 @@ RE2 Hannover - Northeim - Göttingen
 
 [28.09.2024 - 30.09.2024 RE2/RE3: Zugausfälle in den Nächten](https://www.der-metronom.de/baustellen/re2-re3-zugausfaelle-in-den-naechten/)
 
+[09.10.2024 - 12.10.2024 RE2/RE3/RB31 diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle/)
+
 RE2 + RE3 Uelzen - Celle - Hannover
 
 [16.09.2024 - 22.09.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
@@ -31,6 +33,8 @@ RE2 + RE3 Uelzen - Celle - Hannover
 [25.09.2024 RE2/RE3: Zugausfall am Mittwochabend](https://www.der-metronom.de/baustellen/re2-re3-zugausfall-am-mittwochabend/)
 
 [05.10.2024 - 06.10.2024 RE2+RE3: Zugausfall (ME81647) und verspätete Abfahrt (ME82217)](https://www.der-metronom.de/baustellen/re2-re3-zugausfall-me81647-und-verspaetete-abfahrt-me82217/)
+
+[09.10.2024 - 12.10.2024 RE2/RE3/RB31 diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle/)
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
