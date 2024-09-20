@@ -60,7 +60,7 @@ Memory
 
  You can upgrade this to 32GB 3200MHz memory (1 × 32GB).
 
- You can upgrade the memory at anytime.
+ You can upgrade or replace the memory whenever you want as it is removable.
 
 [Learn more about Memory options](#memory)
 
