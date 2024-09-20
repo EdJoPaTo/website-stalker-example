@@ -6,6 +6,52 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.14 Beta: Less Lucky</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4844273853946580000</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Sep 20, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Security fix for Flatpak (CVE-2024-42472)
+					</li>
+				</ul>
+				<b>
+					Developer
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed nested desktop crashing on launch
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4844273853946580000" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: September 18th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4844273660401598339</link>
 			<content:encoded><![CDATA[<html>
@@ -172,48 +218,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/6610810473932840458" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: September 16th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/6610810473929778510</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Sep 16, 2024
-			</h5>
-			<div>
-				The Steam Deck Client Beta has been updated with the following changes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a rare case where the UI could get stuck showing a loading throbber at startup while in Offline Mode.
-						<br>
-					</li>
-					<li>
-						Fixed startup movie intermittently failing to play at launch.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6610810473929778510" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
