@@ -15,15 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Gucken, staunen, anfassen: Tag der offenen Tür bei der Eisenbahn](https://www.der-metronom.de/aktuell/gucken-staunen-anfassen-tag-der-offenen-tuer-bei-der-eisenbahn/)
-
- Uelzen/Celle - 17.09.2024
-
-Gucken, staunen, anfassen: Tag der offenen Tür bei der Eisenbahn in Uelzen
-„Aus wie vielen Einzelteilen besteht ein erixx“?„Darf ich auch mal fahren?“„Was ist ein Zwei-Wege-Bagger?“
-Da fragst Du am besten jemanden, der sich damit auskennt!
-Die Eisenbahnerinnen und Eisenbahner von metronom,...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
  Uelzen - 13.09.2024
