@@ -21,11 +21,3 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 Die Deutsche Bahn baut den Aufzug an Gleis 2/3 im Bahnhof Lüneburg neu auf. Die Arbeiten beginnen am 7. Oktober 2024 und dauern voraussichtlich sechs Monate bis April 2025.
 Wenn Du ↗ mobilitätseingeschränkt bist und Unterstützung brauchst, melde Deine Reise bitte 48 Stunden vorher bei der ↗...
-
-[RE2: Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024](https://www.der-metronom.de/aktuell/re2-zusatzhalte-in-hannover-messe-laatzen-zur-iaa-transportation-2024/)
-
- 26.08.2024
-
-Liebe Fahrgäste,
-wir haben Zusatzhalte in Hannover Messe/Laatzen zur IAA TRANSPORTATION 2024 vom 16. bis 22.09.2024 eingerichtet. Den Fahrplan findet ihr hier.
-Euer metronom Team
