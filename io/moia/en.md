@@ -30,14 +30,14 @@ Absolutely transparent
 
 You will find out the cost of your ride before booking. You can pay using the app.
 
-Smart saving
+Experience MOIA
 
-Test the Smart Saver 25 for €4.95
+Tomorrow's mobility for you
 ----------
 
-Try the **Smart Saver 25 for the first** **30 days** **at half price** and get 25% off all your rides in Hamburg – for **just €4.95 instead of** **€9.****90!**\*\* On average, the Smart Saver 25 pays off with the second ride!\*\*\* Plus, the Smart Saver doesn’t renew automatically - you can decide if you want to continue saving.
+Do you want to spend less time searching for parking, reduce emissions, and cut down on stress? MOIA’s fully electric ridepooling services get you to your destination with maximum comfort and flexibility. Try it out for yourself: use the code **TESTEMOIA** in the app until October 6 for **50% off your first ride.\*** Experience the mobility of tomorrow, today.
 
-[Select now](https://jesz.adj.st/app/payment-packages?&adjust_t=1fbva2ng&adjust_deeplink=https%3A%2F%2Fwww.moia.io%2Fen%2Fapp%2Fpayment-packages)
+[Redeem now](https://jesz.adj.st/app/coupon?code=testemoia&adjust_t=1gqoha2p&adjust_deeplink=https%3A%2F%2Fwww.moia.io%2Fen%2Fapp%2Fcoupon%3Fcode%3Dtestemoia)
 
 How MOIA works
 ----------
@@ -157,6 +157,4 @@ Frequently asked questions
 
 [Find out more](https://help.moia.io/hc/en-us)
 
-\*\*When purchasing the regular Smart Saver 25, customers receive a 25% discount on every booked MOIA ride for a period of 30 days at the price of €9.90. During the promotional period from August 15, 2024, to November 14, 2024, customers who have not previously purchased a Smart Saver have the opportunity to buy a trial Smart Saver 25 at a reduced price of €4.95. The trial offer for the Smart Saver 25 is exclusively available to customers who have never purchased a Smart Saver before. Customers who have previously purchased a Smart Saver are excluded from this trial offer. After the 30-day validity period of the trial Smart Saver 25 expires, the discount will no longer apply. Purchasing a new Smart Saver 25 will then only be possible at the regular price of €9.90.
-
-\*\*\*Calculated for the Smart Saver 25 with a 30-day duration for €4.95, based on the average fares of a MOIA ride.
+\*Your coupon code entitles you to a 50% discount on your first MOIA ride, which must be booked and completed within the promotional period from September 23 to October 6. It is only valid in Hamburg and can only be redeemed if you have not yet taken a ride with your MOIA account. You can find our general coupon conditions [here](https://www.moia.io/en/voucher_conditions).
