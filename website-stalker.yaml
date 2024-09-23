@@ -121,13 +121,8 @@ sites:
       - css_select: body
       - html_markdownify
 
-  - url: https://www.netcup-sonderangebote.de/
-    editors:
-      - css_remove: img, .card--content--image, style, script, .newsletter-widget-card
-      - css_select: .card
-      - html_url_canonicalize
-      - html_markdownify
   - url:
+      - https://www.netcup.com/de/deals
       - https://www.netcup.com/de/domains/domain-kaufen
       - https://www.netcup.com/de/server/arm-server
       - https://www.netcup.com/de/server/guenstige-vserver-angebote
