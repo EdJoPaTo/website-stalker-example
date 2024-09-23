@@ -34,8 +34,6 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
-[22.09.2024 - 24.09.2024 RE3/RB31: nächtliche Teilausfälle zwischen Lüneburg und Uelzen sowie Haltausfälle Ashausen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-teilausfaelle-zwischen-lueneburg-und-uelzen-sowie-haltausfaelle-ashausen/)
-
 [26.09.2024 - 06.10.2024 RE3/RB31: Teil- und Haltausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re3-rb31-teil-und-haltausfaelle-wegen-brueckenbauarbeiten/)
 
 [07.10.2024 - 14.10.2024 RE3/RB31: Brückenbauarbeiten Halt- und Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-brueckenbauarbeiten-halt-und-teilausfaelle/)
