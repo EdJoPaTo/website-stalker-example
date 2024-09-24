@@ -6,6 +6,15 @@ This page tracks major releases and incremental improvements for the Hetzner Clo
 September 2024
 ----------
 
+Sep 24
+
+### Join the beta test for Object Storage  ###
+
+We’re thrilled to announce the upcoming launch of Object Storage and the beginning of its beta phase!
+
+* **How to participate**Click [here](https://docs.hetzner.cloud/(modal:object-storage-beta)) to request access. If you meet our criteria and we still have spots available, we'll activate the feature for your account.
+* **About the beta test**Until the end of October, Object Storage will be free of charge. On 1 November 2024, you can either continue using the feature or delete your Buckets and their data. The service will be charged from this point on. See [our Docs](https://docs.hetzner.com/storage/object-storage/overview#pricing) to learn more about the billing model. At the beginning of beta, Object Storage is only available in Falkenstein. We can't guarantee flawless performance at this stage. If you run into issues, please let us know via the [forum](https://forum.hetzner.com/index.php?board/120-object-storage/).
+
 Sep 04
 
 ### New entry point in your projects: The dashboard is live 🚀 ###
@@ -265,13 +274,13 @@ September 2022
 
 Sep 29
 
-### Improved user experience for notifications ###
-
-For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
-
 ### Redesign of the server, Load Balancer, and Firewall creation pages ###
 
 The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
+
+### Improved user experience for notifications ###
+
+For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
 
 July 2022
 ----------
