@@ -1,65 +1,66 @@
-e.s.trail
+S7S Sicherheitsschuhe
+
+ e.s. Turin mid
 ----------
 
 ---
 
- Bereit für jedes Abenteuer:
-die neue e.s.trail Outdoor-Workwear
+ Modernste Sicherheit im traditionellen Design:
+mit S7S-Schutz fit für jedes Gelände
 
-[jetzt entdecken](https://www.engelbert-strauss.de/trail)
+[zum e.s. Turin mid](https://www.engelbert-strauss.de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-turin-mid-1400090-93838-1758.html?itemorigin=startseite_hw24_step3)
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-trail/?sort=newest)
+[Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
 
- Highlight
+[Karo-Kapuzenjacke e.s.iconic, Herren](https://www.engelbert-strauss.de/fleecejacken-strickjacken/karo-kapuzenjacke-e-s-iconic-3134620-88278-1761.html?itemorigin=StartseiteHW24)
 
- Hybrid Funktionshose e.s.trail
+[für Herren](https://www.engelbert-strauss.de/#!midlayer/men) [für Damen](https://www.engelbert-strauss.de/#!midlayer/women)
 
-[für Herren](https://www.engelbert-strauss.de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96085-1730.html?itemorigin=StartseiteHW24)
+ Wohlige Wärme trifft kernigen Look
 
-[für Damen](https://www.engelbert-strauss.de/berufshosen-damen/hybrid-funktionshose-e-s-trail-damen-3164220-96095-1730.html?itemorigin=StartseiteHW24)
-
-###  Brand Partnerships  ###
+###  Midlayer  ###
 
 ---
 
-[alle Kooperationen](https://www.engelbert-strauss.de/brand_partnerships)
+für Herren
 
-###  Football
-is family  ###
+ Ganzjahreskomfort – teilgefüttert, robust, flexibel
 
----
-
- Endlich geht es in die nächste Saison - jetzt auch für Damen und Kinder!
-
-[jetzt entdecken](https://www.engelbert-strauss.de/NFL)
-
-[alle Produkte](https://www.engelbert-strauss.de/nfl-x-strauss/)
-
-###  Weitere Neuheiten entdecken  ###
+###  Concrete Allseason  ###
 
 ---
 
-[Warnschutz jetzt auch im Damenschnitt!](https://www.engelbert-strauss.de/e-s-motion-24-7-damen/)
+[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=concrete%20allseason)
 
- Neue Warnschutz-Teamwear
+ Gefüttert vom Bund bis zu den Knien
 
-###  e.s.motion 24/7  ###
+ Kompakte Taschen-Allrounder für Beruf und Freizeit
 
----
+###
 
-[jetzt entdecken](https://www.engelbert-strauss.de/motion-24-7)
+Work&Travel
 
-[alle Produkte](https://www.engelbert-strauss.de/e-s-motion-24-7/?sort=newest)
-
- coole Outfits für Café & Co.
-
-###  Gastro  ###
+ ###
 
 ---
 
-[für Damen](https://www.engelbert-strauss.de/gastro-damen/?sort=newest)
+[Kollektion entdecken](https://www.engelbert-strauss.de/workandtravel)
 
-[für Herren](https://www.engelbert-strauss.de/gastronomiebekleidung-kochbekleidung/?sort=newest)
+alle Produkte
+
+###  e.s. Adventskalender Edition 6  ###
+
+---
+
+ 24X STRAUSS WEIHNACHT IN DER BOX!
+
+###  Alle Jahre wieder  ###
+
+---
+
+ Der e.s. Adventskalender überrascht alle fleißigen Tüftler, Handwerker, Heimwerker und Hobbyschrauber mit 33 Teilen für alle großen und kleinen Projekte.
+
+[zum Adventskalender](https://www.engelbert-strauss.de/handwerkzeuge/e-s-adventskalender-edition-6-7903200-5576500-0.html?itemorigin=StartseiteHW24)
 
 ###  Alle Neuheiten entdecken  ###
 
@@ -70,24 +71,6 @@ is family  ###
 [Damen](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Damen/)
 
 [Kinder](https://www.engelbert-strauss.de/f/neuheiten-bekleidung/Herren_Damen_Kinder:Kinder/)
-
-###  Ausstattung für Forst-Profis  ###
-
----
-
-####  Optimal ausrüsten
-und sparen  ####
-
----
-
-[alle Forst Sets](https://www.engelbert-strauss.de/s/suche?query=forst%20set%20sale)
-
- Setpreis
-\-18%
-
-[SET: Forsthelm Protos + STRAUSSbox 340 midi](https://www.engelbert-strauss.de/sale-aktions-sets-arbeitsschutz/set-forsthelm-protos-straussbox-340-midi-7000370-7576619-685.html?itemorigin=StartseiteHW24)
-
-[jetzt kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-arbeitsschutz/set-forsthelm-protos-straussbox-340-midi-7000370-7576619-685.html?itemorigin=StartseiteHW24)
 
 Sie gestalten
 Wir sticken
