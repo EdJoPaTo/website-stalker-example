@@ -137,7 +137,6 @@ sites:
       - css_select: '#main'
       - css_remove: img, svg, style, script, a:not([href])
       - css_remove: article:has(section .submenu__item a.no-link-style) # nav
-      - css_remove: div > .grid-container:has(h3):has(a.no-link-style) # footer
       - css_remove: .grid-container:has(input) # Local Block Storage Preisrechner
       - html_url_canonicalize
       - html_markdownify

@@ -179,3 +179,27 @@ Eigene CD-ROMs / DVDs und Images
 ----------
 
 Über das SCP können auch eigene CD-ROMs / DVDs oder Images geladen werden. Hierzu stellen wir einen FTP-Zugang bereit.
+
+### Weitere Angebote ###
+
+[Root-Server Generation 11](https://www.netcup.com/de/server/root-server)
+
+[Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
+
+[Storagespace](https://www.netcup.com/de/server/server-storage)
+
+[Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
+
+[VPS (x86) Generation 11](https://www.netcup.com/de/server/vps)
+
+[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+
+[CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
+
+[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
+
+[VPS (ARM64) Generation 11](https://www.netcup.com/de/server/arm-server)
+
+[Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
+
+[Betriebssysteme / Images](https://www.netcup.com/de/server/vserver-images)

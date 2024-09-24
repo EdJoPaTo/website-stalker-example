@@ -10,6 +10,226 @@ Deals
 
 Nicht verpassen!
 
+* Alle
+
+VPS
+
+### VPS 2000 G11 SE TTF24 ###
+
+ \+ 100% SSD
+
+statt 14,50 €
+
+* 8 vCore
+* Standort: Nürnberg
+* 16 GB ECC RAM
+* Verfügbar bis: 25.09. 10 Uhr
+* 1 TB SSD (statt 512 GB)
+
+pro Monat
+
+12,60 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-ttf24)
+
+VPS
+
+### VPS 4000 G11 SE TTF24 ###
+
+ \+ 100% SSD
+
+statt 24,75 €
+
+* 12 vCore
+* Standort: Nürnberg
+* 32 GB ECC RAM
+* Verfügbar bis: 25.09. 10 Uhr
+* 2 TB SSD (statt 1 TB)
+
+pro Monat
+
+21,50 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-ttf24)
+
+VPS
+
+### VPS 8000 G11 SE TTF24 ###
+
+ \+ 4 vCore / + 50% SSD
+
+statt 36,79 €
+
+* 20 vCore (statt 16)
+* Standort: Nürnberg
+* 64 GB ECC RAM
+* Verfügbar bis: 25.09. 10 Uhr
+* 3.072 GB SSD (statt 2.048 GB)
+
+pro Monat
+
+32,00 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-8000-g11-se-nue-ttf24)
+
+Webhosting
+
+### Webhosting 2000 TTF24 ###
+
+ 20 % Rabatt
+
+statt 2,73 €
+
+* 3 .de Domains inklusive
+* Standort: Nürnberg
+* SSL-Zertifikate inklusive
+* Verfügbar bis: 25.09. 10 Uhr
+* 150 GB SSD Speicherplatz
+
+pro Monat
+
+2,17 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-ttf24)
+
+Root-Server
+
+ AUSVERKAUFT
+
+### RS 2000 G11 SE TTF24 ###
+
+ \+ 100% SSD
+
+statt 19,59 €
+
+* 8 dedizierte Kerne
+* Standort: Nürnberg
+* 16 GB DDR5 RAM (ECC)
+* Verfügbar bis: 25.09. 10 Uhr
+* 1 TB NVMe SSD (statt 512 GB)
+
+pro Monat
+
+16,29 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[AUSVERKAUFT \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-ttf24)
+
+Domains
+
+### .de-Domain 13 Cent TTF24 ###
+
+ 69 % Rabatt
+
+statt 0,35 €
+
+* DNSSEC, API
+* 2 € Setup Gebühr
+* Umfangreiches DNS-Management
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,11 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-de-domain-13-cent-ttf24)
+
+Domains
+
+### .beer-Domain TTF24 ###
+
+ 14 % Rabatt
+
+statt 2,89 €
+
+* DNS API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+2,48 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-beer-domain-ttf24)
+
+Domains
+
+### .bayern-Domain TTF24 ###
+
+ 14 % Rabatt
+
+statt 3,32 €
+
+* DNS API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+2,84 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-bayern-domain-ttf24)
+
+Domains
+
+### .eu-Domain TTF24 ###
+
+ 46 % Rabatt
+
+statt 0,66 €
+
+* DNSSEC, API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,35 €
+
+0,00 €
+
+inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-eu-domain-42-cent-ttf24)
+
 Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
 netcup Angebote zu VPS und Root-Server

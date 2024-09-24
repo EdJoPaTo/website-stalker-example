@@ -51,3 +51,27 @@ Falls der Kunde nicht die erforderliche Zeit oder Erfahrung mitbringt, um ein Sy
 Freiheit will gebändigt werden
 
 Vor einer Bestellung bitten wir zu bedenken, dass ein unmanaged vServer zwar viele Freiheiten mit sich bringt, gleichzeitig der Kunde einen enormen Teil der Verantwortung übernimmt. Ein unmanaged vServer, egal über welche Firma er bezogen wird, erfordert konsequente Datenpflege, die mindestens gute bis sehr gute Linuxkenntnisse voraussetzt. Ein fehlerhaft konfigurierter und dadurch unsicherer vServer birgt ein hohes Schadensrisiko. Für eventuelle Schäden haftet in jedem Fall der Systemadministrator. Bei einem unmanaged vServer ist dies der Kunde. Wir möchten als verantwortungsbewusste Firma unsere Kunden auf dieses persönliche Risiko ausdrücklich hinweisen, obwohl wir uns darüber bewusst sind, dass es andere Hostingfirmen gibt, die diese Risiken verschweigen, um potentielle Kundenaufträge nicht zu verlieren.
+
+### Weitere Angebote ###
+
+[Root-Server Generation 11](https://www.netcup.com/de/server/root-server)
+
+[Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
+
+[Storagespace](https://www.netcup.com/de/server/server-storage)
+
+[Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
+
+[VPS (x86) Generation 11](https://www.netcup.com/de/server/vps)
+
+[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+
+[CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
+
+[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
+
+[VPS (ARM64) Generation 11](https://www.netcup.com/de/server/arm-server)
+
+[Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
+
+[Betriebssysteme / Images](https://www.netcup.com/de/server/vserver-images)
