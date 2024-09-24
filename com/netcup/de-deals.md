@@ -10,8 +10,6 @@ Deals
 
 Nicht verpassen!
 
-Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
-
 netcup Angebote zu VPS und Root-Server
 ----------
 
