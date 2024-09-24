@@ -1,21 +1,14 @@
 netcup Deals
 ==========
 
-Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains.
 
-[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+[Jetzt Deal sichern](https://www.netcup.com/de/deals#deals)
 
 Techtoberfest
 Deals
 
-Die nächste Aktion startet in Kürze
-
-Coming next: Schnappe dir deine "Techtoberfest" Deals am 24. September 2024
-----------
-
-#### Aktionsstart 24. September 10:00 Uhr // Aktionsdauer: 24h ####
-
-Zwar gibt es bei uns keine Brezen oder kühlen Hopfengetränke, aber wir haben einige Schnäppchen "angezapft". Im "Germany-Special" erwarten dich Produkte aus beliebten Kategorien mit Schwerpunkt Deutschland. Mehr Infos und Details zu den Angeboten gibt es ab Aktionsstart hier auf der Seite. Folge uns auf [X](https://x.com/netcup), [Facebook](https://www.facebook.com/netcup) und [Mastodon](https://netcup.cafe/@netcup) oder abonniere den [netcup Newsletter](https://newsletter.netcup.com/), um keine Updates zu verpassen.
+Nicht verpassen!
 
 netcup Angebote zu VPS und Root-Server
 ----------
