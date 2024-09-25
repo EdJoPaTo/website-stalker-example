@@ -27,8 +27,6 @@ pro Monat
 
 12,60 €
 
-0,00 €
-
 inkl. 0% MwSt.
 
 [Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-ttf24)
@@ -52,8 +50,6 @@ statt 24,75 €
 pro Monat
 
 21,50 €
-
-0,00 €
 
 inkl. 0% MwSt.
 
@@ -79,8 +75,6 @@ pro Monat
 
 32,00 €
 
-0,00 €
-
 inkl. 0% MwSt.
 
 [Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-8000-g11-se-nue-ttf24)
@@ -104,8 +98,6 @@ statt 2,73 €
 pro Monat
 
 2,17 €
-
-0,00 €
 
 inkl. 0% MwSt.
 
@@ -131,8 +123,6 @@ pro Monat
 
 16,29 €
 
-0,00 €
-
 inkl. 0% MwSt.
 
 [Jetzt Deal sichern \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-ttf24)
@@ -156,8 +146,6 @@ statt 0,35 €
 pro Monat dauerhaft
 
 0,11 €
-
-0,00 €
 
 inkl. 0% MwSt.
 
@@ -183,8 +171,6 @@ pro Monat dauerhaft
 
 2,48 €
 
-0,00 €
-
 inkl. 0% MwSt.
 
 [Jetzt Deal sichern \>](https://www.netcup.com/en/domain/aktion-beer-domain-ttf24)
@@ -209,8 +195,6 @@ pro Monat dauerhaft
 
 2,84 €
 
-0,00 €
-
 inkl. 0% MwSt.
 
 [Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-bayern-domain-ttf24)
@@ -234,8 +218,6 @@ statt 0,66 €
 pro Monat dauerhaft
 
 0,35 €
-
-0,00 €
 
 inkl. 0% MwSt.
 
