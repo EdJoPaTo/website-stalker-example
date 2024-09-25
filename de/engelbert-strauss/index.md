@@ -10,7 +10,7 @@ mit S7S-Schutz fit für jedes Gelände
 
 [zum e.s. Turin mid](https://www.engelbert-strauss.de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-turin-mid-1400090-93838-1758.html?itemorigin=startseite_hw24_step3)
 
-[Schuhneuheiten](https://www.engelbert-strauss.de/schuhneuheiten)
+[Schuhneuheiten](https://www.engelbert-strauss.de/)
 
 [Karo-Kapuzenjacke e.s.iconic, Herren](https://www.engelbert-strauss.de/fleecejacken-strickjacken/karo-kapuzenjacke-e-s-iconic-3134620-88278-1761.html?itemorigin=StartseiteHW24)
 
@@ -30,7 +30,7 @@ für Herren
 
 ---
 
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=concrete%20allseason)
+[alle Produkte](https://www.engelbert-strauss.de/%20allseason)
 
  Gefüttert vom Bund bis zu den Knien
 
@@ -44,7 +44,7 @@ Work&Travel
 
 ---
 
-[Kollektion entdecken](https://www.engelbert-strauss.de/workandtravel)
+[Kollektion entdecken](https://www.engelbert-strauss.de/)
 
 alle Produkte
 
@@ -84,7 +84,7 @@ Wir sticken
 
 ---
 
-[mehr erfahren](https://www.engelbert-strauss.de/Service/Logoservice/selbst_gestalten)
+[mehr erfahren](https://www.engelbert-strauss.de/)
 
 schnell &
 unkompliziert
@@ -114,7 +114,7 @@ Jetzt mit neuen Motiven!
 
 ---
 
-[alle Kooperationen entdecken](https://www.engelbert-strauss.de/brand_partnerships)
+[alle Kooperationen entdecken](https://www.engelbert-strauss.de/)
 
 ###  Nach Kategorie shoppen  ###
 
@@ -136,19 +136,19 @@ Jetzt mit neuen Motiven!
 
  Immer als Erstes informiert sein mit dem kostenlosen Engelbert Strauss-Newsletter
 
-[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
+[jetzt anmelden](https://www.engelbert-strauss.de/)
 
  30 TAGE RÜCKGABERECHT
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+[mehr Infos](https://www.engelbert-strauss.de/)
 
  KOSTENLOSE RÜCKSENDUNGEN
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+[mehr Infos](https://www.engelbert-strauss.de/)
 
  KAUF AUF RECHNUNG
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
+[mehr Infos](https://www.engelbert-strauss.de/)
 
 []()
 
@@ -159,36 +159,36 @@ zzgl. Versandkosten
 * ### Service ###
 
   * [Home](https://www.engelbert-strauss.de/)
-  * [Lieferung](https://www.engelbert-strauss.de/Service/Lieferung)
-  * [Umtausch](https://www.engelbert-strauss.de/Service/Umtausch)
-  * [Bezahlen](https://www.engelbert-strauss.de/Service/Bezahlen)
-  * [Katalog](https://www.engelbert-strauss.de/Service/Katalog)
-  * [Logoservice](https://www.engelbert-strauss.de/Service/Logoservice)
-  * [Newsletter](https://www.engelbert-strauss.de/Service/Newsletter)
+  * [Lieferung](https://www.engelbert-strauss.de/)
+  * [Umtausch](https://www.engelbert-strauss.de/)
+  * [Bezahlen](https://www.engelbert-strauss.de/)
+  * [Katalog](https://www.engelbert-strauss.de/)
+  * [Logoservice](https://www.engelbert-strauss.de/)
+  * [Newsletter](https://www.engelbert-strauss.de/)
 
 * ### Unternehmen ###
 
-  * [Brand News](https://www.engelbert-strauss.de/brand-news)
-  * [Karriere](https://www.engelbert-strauss.de/Unternehmen/Karriere)
-  * [Ausbildung](https://www.engelbert-strauss.de/Unternehmen/Karriere/Ausbildung)
-  * [Presse](https://www.engelbert-strauss.de/Unternehmen/Presse/Presseberichte)
-  * [Nachhaltigkeit](https://www.engelbert-strauss.de/Nachhaltigkeit)
-  * [Messen](https://www.engelbert-strauss.de/Unternehmen/Messen)
-  * [Workwearstore](https://www.engelbert-strauss.de/Unternehmen/workwearstore)
+  * [Brand News](https://www.engelbert-strauss.de/)
+  * [Karriere](https://www.engelbert-strauss.de/)
+  * [Ausbildung](https://www.engelbert-strauss.de/)
+  * [Presse](https://www.engelbert-strauss.de/)
+  * [Nachhaltigkeit](https://www.engelbert-strauss.de/)
+  * [Messen](https://www.engelbert-strauss.de/)
+  * [Workwearstore](https://www.engelbert-strauss.de/)
 
 * ### Informationen ###
 
-  * [Kontakt](https://www.engelbert-strauss.de/Informationen/Kontakt)
-  * [Häufige Fragen](https://www.engelbert-strauss.de/Helpcenter-Redirect)
-  * [Lexikon](https://www.engelbert-strauss.de/Informationen/Lexikon/A)
+  * [Kontakt](https://www.engelbert-strauss.de/)
+  * [Häufige Fragen](https://www.engelbert-strauss.de/)
+  * [Lexikon](https://www.engelbert-strauss.de/)
 
 * ### Zahlarten ###
 
-  * [PayPal](https://www.engelbert-strauss.de/Service/Bezahlen)
-  * [Kreditkarte](https://www.engelbert-strauss.de/Service/Bezahlen)
-  * [Bankeinzug](https://www.engelbert-strauss.de/Service/Bezahlen)
-  * [Vorauskasse](https://www.engelbert-strauss.de/Service/Bezahlen)
-  * [Rechnung](https://www.engelbert-strauss.de/Service/Bezahlen)
+  * [PayPal](https://www.engelbert-strauss.de/)
+  * [Kreditkarte](https://www.engelbert-strauss.de/)
+  * [Bankeinzug](https://www.engelbert-strauss.de/)
+  * [Vorauskasse](https://www.engelbert-strauss.de/)
+  * [Rechnung](https://www.engelbert-strauss.de/)
 
 **Engelbert Strauss**
 
@@ -210,7 +210,7 @@ Mail
 
 [info@strauss.de](mailto:info@strauss.de)
 
-[ Newsletter-Anmeldung ]() [](https://www.engelbert-strauss.de/Service/Newsletter)
+[ Newsletter-Anmeldung ]() [](https://www.engelbert-strauss.de/)
 
 ###  STRAUSS FOLGEN  ###
 
@@ -226,11 +226,11 @@ Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
 
  Alle Preise zzgl. gesetzlicher MwSt. zzgl. Versandkosten bei Bestellungen unter 150,00 € Warenwert.
 
-* [Datenschutz](https://www.engelbert-strauss.de/Rechtliches/Datenschutz)
-* [AGB](https://www.engelbert-strauss.de/Rechtliches/AGB)
-* [Impressum](https://www.engelbert-strauss.de/Rechtliches/Impressum)
-* [Widerrufsbelehrung](https://www.engelbert-strauss.de/Rechtliches/Widerrufsbelehrung)
-* [OS-Plattform](https://www.engelbert-strauss.de/Rechtliches/OS)
+* [Datenschutz](https://www.engelbert-strauss.de/)
+* [AGB](https://www.engelbert-strauss.de/)
+* [Impressum](https://www.engelbert-strauss.de/)
+* [Widerrufsbelehrung](https://www.engelbert-strauss.de/)
+* [OS-Plattform](https://www.engelbert-strauss.de/)
 
 [Trustpilot](https://de.trustpilot.com/review/engelbert-strauss.de)
 
@@ -244,6 +244,6 @@ Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
 
  Schnäppchen
 
-Ich bin einverstanden, dass die Engelbert Strauss GmbH & Co. KG mir regelmäßig Informationen zu ihrem Produktsortiment per E-Mail sendet. Dies beinhaltet Informationen zu Schuhen, Bekleidung, Arbeitsschutz, Betriebsbedarf und Büroartikeln sowie branchenspezifischen Veranstaltungen. Meine Einwilligung kann ich jederzeit gegenüber der Engelbert Strauss GmbH & Co. KG widerrufen. Weitere Informationen siehe [Datenschutzerklärung](https://www.engelbert-strauss.de/Rechtliches/Datenschutz).
+Ich bin einverstanden, dass die Engelbert Strauss GmbH & Co. KG mir regelmäßig Informationen zu ihrem Produktsortiment per E-Mail sendet. Dies beinhaltet Informationen zu Schuhen, Bekleidung, Arbeitsschutz, Betriebsbedarf und Büroartikeln sowie branchenspezifischen Veranstaltungen. Meine Einwilligung kann ich jederzeit gegenüber der Engelbert Strauss GmbH & Co. KG widerrufen. Weitere Informationen siehe [Datenschutzerklärung](https://www.engelbert-strauss.de/).
 
 Jetzt anmelden
