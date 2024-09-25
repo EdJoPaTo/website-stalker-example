@@ -1,18 +1,15 @@
 netcup Deals
 ==========
 
-Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains.
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Jetzt Deal sichern](https://www.netcup.com/de/deals#deals)
-
-Techtoberfest
-Deals
-
-Nicht verpassen!
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 * Alle
 
 VPS
+
+ DEAL ABGELAUFEN
 
 ### VPS 2000 G11 SE TTF24 ###
 
@@ -38,6 +35,8 @@ inkl. 0% MwSt.
 
 VPS
 
+ DEAL ABGELAUFEN
+
 ### VPS 4000 G11 SE TTF24 ###
 
  \+ 100% SSD
@@ -61,6 +60,8 @@ inkl. 0% MwSt.
 [Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-ttf24)
 
 VPS
+
+ DEAL ABGELAUFEN
 
 ### VPS 8000 G11 SE TTF24 ###
 
@@ -86,6 +87,8 @@ inkl. 0% MwSt.
 
 Webhosting
 
+ DEAL ABGELAUFEN
+
 ### Webhosting 2000 TTF24 ###
 
  20 % Rabatt
@@ -110,7 +113,7 @@ inkl. 0% MwSt.
 
 Root-Server
 
- AUSVERKAUFT
+ DEAL ABGELAUFEN
 
 ### RS 2000 G11 SE TTF24 ###
 
@@ -132,9 +135,11 @@ pro Monat
 
 inkl. 0% MwSt.
 
-[AUSVERKAUFT \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-ttf24)
+[Jetzt Deal sichern \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-ttf24)
 
 Domains
+
+ DEAL ABGELAUFEN
 
 ### .de-Domain 13 Cent TTF24 ###
 
@@ -156,9 +161,11 @@ pro Monat dauerhaft
 
 inkl. 0% MwSt.
 
-[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-de-domain-13-cent-ttf24)
+[Jetzt Deal sichern \>](https://www.netcup.com/en/domain/aktion-de-domain-13-cent-ttf24)
 
 Domains
+
+ DEAL ABGELAUFEN
 
 ### .beer-Domain TTF24 ###
 
@@ -180,9 +187,11 @@ pro Monat dauerhaft
 
 inkl. 0% MwSt.
 
-[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-beer-domain-ttf24)
+[Jetzt Deal sichern \>](https://www.netcup.com/en/domain/aktion-beer-domain-ttf24)
 
 Domains
+
+ DEAL ABGELAUFEN
 
 ### .bayern-Domain TTF24 ###
 
@@ -208,6 +217,8 @@ inkl. 0% MwSt.
 
 Domains
 
+ DEAL ABGELAUFEN
+
 ### .eu-Domain TTF24 ###
 
  46 % Rabatt
@@ -229,8 +240,6 @@ pro Monat dauerhaft
 inkl. 0% MwSt.
 
 [Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-eu-domain-42-cent-ttf24)
-
-Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
 netcup Angebote zu VPS und Root-Server
 ----------
