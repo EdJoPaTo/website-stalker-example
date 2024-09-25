@@ -110,7 +110,7 @@ inkl. 0% MwSt.
 
 Root-Server
 
- AUSVERKAUFT
+ STARK LIMITIERT
 
 ### RS 2000 G11 SE TTF24 ###
 
@@ -132,7 +132,7 @@ pro Monat
 
 inkl. 0% MwSt.
 
-[AUSVERKAUFT \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-ttf24)
+[Jetzt Deal sichern \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-ttf24)
 
 Domains
 
