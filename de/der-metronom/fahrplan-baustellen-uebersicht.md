@@ -26,8 +26,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
-[25.09.2024 RE2/RE3: Zugausfall am Mittwochabend](https://www.der-metronom.de/baustellen/re2-re3-zugausfall-am-mittwochabend/)
-
 [05.10.2024 - 06.10.2024 RE2+RE3: Zugausfall (ME81647) und verspätete Abfahrt (ME82217)](https://www.der-metronom.de/baustellen/re2-re3-zugausfall-me81647-und-verspaetete-abfahrt-me82217/)
 
 [09.10.2024 - 12.10.2024 RE2/RE3/RB31 diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle/)
