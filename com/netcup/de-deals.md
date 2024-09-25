@@ -223,8 +223,6 @@ inkl. 0% MwSt.
 
 [Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-eu-domain-42-cent-ttf24)
 
-Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
-
 netcup Angebote zu VPS und Root-Server
 ----------
 
