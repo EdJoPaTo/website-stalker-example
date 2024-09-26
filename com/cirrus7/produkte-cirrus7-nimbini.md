@@ -61,6 +61,13 @@ cirrus nimbini v4 - Pro Edition
     4P+8E / 16 Threads, max. 5.0Ghz, Iris® Xe 96U
     basierend auf NUC13ANHi7
 
+  * **ASUS NUC 14 Pro Core 3 100U**
+    2P+2E / 8T Threads, max. 4.7GHz, Intel Arc 4Xe
+  * **ASUS NUC 14 Pro Core Ultra 5 125H**
+    4P+8E+2e / 18 Threads, max. 4.5GHz, Intel Arc 7Xe
+  * **ASUS NUC 14 Pro Core Ultra 7 155H**
+    6P+8E+2e / 22 Threads, max. 4.80GHz, Intel Arc 8Xe
+
   ##### Hauptspeicher (RAM) #####
 
   Wählen Sie die Größe des Hauptspeichers.
