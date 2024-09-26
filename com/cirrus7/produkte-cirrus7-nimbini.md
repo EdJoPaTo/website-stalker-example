@@ -31,6 +31,7 @@ cirrus nimbini v4 - Pro Edition
 
   * **Standard Cooling Edition**
   * **Extended Cooling Edition**
+  * **Extreme Cooling Edition**
 
   ##### Intel® NUC Board #####
 
@@ -47,24 +48,8 @@ cirrus nimbini v4 - Pro Edition
 
   Wählen Sie hier zwischen verschiedenen Intel® NUC Boards aus. Mit dem Board wählen sie gleichzeitig die verlötete CPU aus.
 
-  * NUC12
   * NUC13
-
-  * **Intel® NUC Core™ i3-1220P**
-    2P+8E / 12 Threads, max. 4.4Ghz, Intel UHD
-    basierend auf NUC12WSHi3
-  * **Intel® NUC Core™ i5-1240P**
-    4P+8E / 16 Threads, max. 4.4Ghz, Iris® Xe 80U
-    basierend auf NUC12WSHi5
-  * **Intel® NUC Core™ i5-1250P**
-    4P+8E / 16 Threads, max. 4.4Ghz, Iris® Xe 80U, vPro
-    basierend auf NUC12WSHv5
-  * **Intel® NUC Core™ i7-1260P**
-    4P+8E / 16 Threads, max. 4.7Ghz, Iris® Xe 96U
-    basierend auf NUC12WSHi7
-  * **Intel® NUC Core™ i7-1270P**
-    4P+8E / 16 Threads, max. 4.8Ghz, Iris® Xe 96U, vPro
-    basierend auf NUC12WSHv7
+  * NUC14
 
   * **Intel® NUC Core™ i3-1315U**
     2P+4E / 8 Threads, max. 4.5Ghz, Intel UHD
