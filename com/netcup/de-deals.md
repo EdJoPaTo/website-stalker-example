@@ -5,6 +5,8 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
+Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
+
 * Alle
 
 VPS
@@ -145,11 +147,9 @@ statt 0,35 €
 
 pro Monat dauerhaft
 
-0,11 €
+0,00 €
 
 inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-de-domain-13-cent-ttf24)
 
 Domains
 
@@ -169,11 +169,9 @@ statt 2,89 €
 
 pro Monat dauerhaft
 
-2,48 €
+0,00 €
 
 inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-beer-domain-ttf24)
 
 Domains
 
@@ -222,8 +220,6 @@ pro Monat dauerhaft
 inkl. 0% MwSt.
 
 [Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-eu-domain-42-cent-ttf24)
-
-Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
 netcup Angebote zu VPS und Root-Server
 ----------
