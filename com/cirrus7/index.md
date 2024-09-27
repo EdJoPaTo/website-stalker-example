@@ -4,7 +4,7 @@ Durch passive Kühlung absolut lautlos
 
 leistungsstarke Intel® Core™ Raptor Lake CPU bis i9-14900T
 
-bis zu 96 GB RAM
+bis zu 64 GB RAM
 
 bis zu 4x SSDs
 
@@ -12,7 +12,7 @@ lüfterlos und lautlos
 
 * leistungsstarke Intel® Core™ Raptor Lake CPU bis i9-14900T
 
-* bis zu 96 GB RAM
+* bis zu 64 GB RAM
 
 * bis zu 4x SSDs
 
@@ -54,7 +54,7 @@ inkl. MwSt. und Versand
 
 Der Kleine mit der Größe.
 
-basierend auf Intel® NUC12 / NUC13
+basierend auf Intel® NUC13 / NUC14 Pro
 
 bis zu 64 GB RAM
 
@@ -62,7 +62,7 @@ bis zu 2x SSDs
 
 lautlose / lüfterlose Kühlung
 
-* basierend auf Intel® NUC12 / NUC13
+* basierend auf Intel® NUC13 / NUC14 Pro
 
 * bis zu 64 GB RAM
 
@@ -72,7 +72,7 @@ lautlose / lüfterlose Kühlung
 
 * vielseitige Anwendungen
 
-ab € 599,00
+ab € 699,00
 inkl. MwSt. und Versand
 
 [mehr erfahren ...](https://www.cirrus7.com/cirrus7-nimbini/)
