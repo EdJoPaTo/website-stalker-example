@@ -155,6 +155,9 @@ cirrus nimbini v4 - Pro Edition
   * **Intel Wi-Fi 6E AX211**
     2.4GHz/5GHz/6GHz, Bluetooth 5.3
 
+  * **Intel Wi-Fi 6E AX211**
+    2.4GHz/5GHz/6GHz, Bluetooth 5.3
+
   ##### WiFi / Bluetooth #####
 
   WiFi und Bluetooth 5.0 sind bei der Business-Edition optional.
