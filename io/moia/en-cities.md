@@ -125,7 +125,7 @@ App Store
 
  hat 4,8
 
-77k+ ratings
+78k+ ratings
 
 [](https://itunes.apple.com/de/app/moia/id1373271535?mt=8/)
 
