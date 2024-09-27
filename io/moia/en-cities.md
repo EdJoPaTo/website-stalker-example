@@ -45,6 +45,22 @@ Thu 5:00 am – Mon 1:00 am
 
 Rides to and from [funded areas](https://help.moia.io/hc/en-us/articles/360000988738-Service-area-Hamburg) (blue) are discounted.
 
+### Service hour adjustments ###
+
+ German Unity Day
+----------
+
+**02.10. – 07.10.** Wed 5:00 a.m. – Mon 1:00 a.m.
+
+(continuous service)
+
+ Reformation Day
+----------
+
+**30.10. – 04.11.** Wed 5:00 a.m. – Mon 1:00 a.m.
+
+(continuous service)
+
 Your benefits in Hamburg
 ----------
 
@@ -97,6 +113,20 @@ Sat 10:00 am – Sun 4:00 am
 Sunday and holidays
 
 10:00 am – 10:00 pm
+
+### Service hour adjustments ###
+
+ German Unity Day
+----------
+
+**02.10.** Wed 7:00 a.m. – Thu 2:00 a.m.
+**03.10.** Thu 10:00 a.m. – Thu 10:00 p.m.
+
+ Reformation Day
+----------
+
+**30.10.** Wed 7:00 a.m. - Thu 2:00 a.m.
+**31.10.** Thu 10:00 a.m. - Thu 10:00 p.m.
 
 Your benefits in Hanover
 ----------

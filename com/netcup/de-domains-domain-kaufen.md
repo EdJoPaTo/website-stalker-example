@@ -12,11 +12,11 @@ Ist deine Wunschdomain noch frei? Jetzt Domain Check starten!
 
 .de Domain
 
-ab 0,35 € pro Monat
+0,42 € pro Monat
 
 pro Jahr
 
-5,04 €
+4,23 €
 
 inkl. 0% MwSt.
 
