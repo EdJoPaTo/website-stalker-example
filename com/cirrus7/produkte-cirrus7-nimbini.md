@@ -72,13 +72,6 @@ cirrus nimbini v4 - Pro Edition
 
   Wählen Sie die Größe des Hauptspeichers.
 
-  * **4 GB DDR4 (1x 4GB)**
-    SO-DIMM – 3200MHz
-  * **8 GB DDR4 (2x 4GB)**
-    SO-DIMM – 3200MHz
-  * **16 GB DDR4 (2x 8GB)**
-    SO-DIMM – 3200MHz
-
   * **8 GB DDR4 (1x 8GB)**
     SO-DIMM – 3200MHz
   * **16 GB DDR4 (2x8GB)**
@@ -88,14 +81,34 @@ cirrus nimbini v4 - Pro Edition
   * **64 GB DDR4 (2x32GB)**
     SO-DIMM – 3200MHz
 
-  * **4 GB DDR4 (1x 4GB)**
-    SO-DIMM – 3200MHz
-  * **8 GB DDR4 (2x 4GB)**
-    SO-DIMM – 3200MHz
-  * **16 GB DDR4 (2x 8GB)**
-    SO-DIMM – 3200MHz
-  * **32 GB DDR4 (2x 16GB)**
-    SO-DIMM – 3200MHz
+  ##### Hauptspeicher (RAM) #####
+
+  Wählen Sie die Größe des Hauptspeichers.
+
+  * 4800 MHz
+  * 5600 MHz
+
+  RAM-Geschwindigkeit auswählen.
+
+  * **8 GB DDR5 (1x 8GB)**
+    SO-DIMM – 4800MHz
+  * **16 GB DDR5 (2x 8GB)**
+    SO-DIMM – 4800MHz
+  * **32 GB DDR5 (2x 16GB)**
+    SO-DIMM – 4800MHz
+  * **64 GB DDR5 (2x 32GB)**
+    SO-DIMM – 4800MHz
+
+  * **8 GB DDR5 (1x 8GB)**
+    SO-DIMM – 5600MHz
+  * **16 GB DDR5 (2x 8GB)**
+    SO-DIMM – 5600MHz
+  * **32 GB DDR5 (2x 16GB)**
+    SO-DIMM – 5600MHz
+  * **64 GB DDR5 (2x 32GB)**
+    SO-DIMM – 5600MHz
+  * **96 GB DDR5 (2x 48GB)**
+    SO-DIMM – 5600MHz
 
   ##### SSD (M.2 - NVMe) #####
 
