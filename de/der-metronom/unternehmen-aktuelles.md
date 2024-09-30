@@ -15,13 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE2: Züge verkehren wegen Baumaßnahme nur zwischen Göttingen und Northeim!](https://www.der-metronom.de/aktuell/re2-zuege-verkehren-wegen-baumassnahme-nur-zwischen-goettingen-und-northeim/)
-
- Uelzen - 29.09.2024
-
-Moin liebe Fahrgäste,
-entgegen der ursprünglichen Baustellenmeldung RE2/RE3: Zugausfälle in den Nächten gibt es wegen kurzfristiger Bauarbeiten am Stellwerk Kreiensen eine kurzfristige Änderung im Ersatzverkehr: Die Züge der metronom-Linie RE2 verkehren am Sonntagabend, in der Nacht zum Montag...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
  Uelzen - 13.09.2024
