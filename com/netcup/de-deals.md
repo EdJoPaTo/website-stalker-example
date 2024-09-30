@@ -314,4 +314,4 @@ Nein, der Preis der Aktion ist dauerhaft gültig. Eine Ausnahme besteht für not
 
 ### Was soll ich tun, wenn mein Gutscheincode bei netcup nicht funktioniert? ###
 
-In diesem Fall würden wir dich bitten, dich an unseren Support unter folgender E-Mail-Adresse zu melden. Unser Support hilft dir bei diesem Anliegen gerne weiter.
+In diesem Fall würden wir dich bitten, dich an unseren Support unter folgender E-Mail-Adresse zu melden. Unser [Support](https://helpcenter.netcup.com/de/support)hilft dir bei diesem Anliegen gerne weiter.
