@@ -12,11 +12,11 @@ Ist deine Wunschdomain noch frei? Jetzt Domain Check starten!
 
 .de Domain
 
-0,42 € pro Monat
+0,35 € pro Monat
 
-pro Jahr
+pro Monat
 
-4,23 €
+0,35 €
 
 inkl. 0% MwSt.
 
@@ -24,11 +24,11 @@ inkl. 0% MwSt.
 
 Länder Domains
 
-ab 1,05 € pro Monat
+ab 0,88 € pro Monat
 
-pro Jahr
+pro Monat ab
 
-12,60 €
+0,88 €
 
 inkl. 0% MwSt.
 
@@ -36,11 +36,11 @@ inkl. 0% MwSt.
 
 Globale Domains
 
-ab 1,23 € pro Monat
+ab 1,03 € pro Monat
 
-pro Jahr
+pro Monat ab
 
-14,76 €
+1,03 €
 
 inkl. 0% MwSt.
 
@@ -48,11 +48,11 @@ inkl. 0% MwSt.
 
 neue Domains
 
-ab 1,08 € im Monat
+ab 0,90 € pro Monat
 
-pro Jahr
+pro Monat ab
 
-12,96 €
+0,90 €
 
 inkl. 0% MwSt.
 
