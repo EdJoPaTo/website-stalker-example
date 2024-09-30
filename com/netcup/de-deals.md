@@ -147,9 +147,11 @@ statt 0,35 €
 
 pro Monat dauerhaft
 
-0,00 €
+0,11 €
 
 inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-de-domain-13-cent-ttf24)
 
 Domains
 
@@ -169,9 +171,11 @@ statt 2,89 €
 
 pro Monat dauerhaft
 
-0,00 €
+2,48 €
 
 inkl. 0% MwSt.
+
+[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-beer-domain-ttf24)
 
 Domains
 
