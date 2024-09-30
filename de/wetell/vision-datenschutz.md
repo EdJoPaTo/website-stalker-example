@@ -25,7 +25,7 @@ Und auch den Datenkraken machen wir es schwer, denn über uns gelangen deine Dat
 Voller Überblick!
 ----------
 
-Welche Ziele wir mit WEtell im Datenschutz verfolgen hast du ja jetzt schon gelesen. Wie weit wir auf dem Weg zum ultimativen Datenschutzes schon gekommen sind, zeigen dir unsere Visions-Balken.
+Welche Ziele wir mit WEtell im Datenschutz verfolgen hast du ja jetzt schon gelesen. Wie weit wir auf dem Weg zum ultimativen Datenschutz schon gekommen sind, zeigen dir unsere Visions-Balken.
 
 Alle unsere Datenschutzziele sind hier dargestellt und du kannst genau nachschauen, wie viel Prozent des Weges wir schon geschafft haben.
 
@@ -82,7 +82,7 @@ Verschlüsselte Speicherung aller Daten
 
 Alle personenbezogenen Daten werden bei WEtell verschlüsselt gespeichert – egal ob auf dem Server, auf dem Laptop oder auf dem Handy – nirgendwo gibt es Zugang ohne starkes Passwort.
 
-Datenspeicherung in Deutschland und Dienstleister Unter Kontrolle der DSGVO
+Datenspeicherung in Deutschland und Dienstleister unter Kontrolle der DSGVO
 
 Der Speicherort der Daten und der Firmensitz der Unternehmen, die mit den Daten zu tun haben, sind relevant für die Frage, unter welches Datenschutz-Recht die gespeicherten Daten fallen. Daher speichern wir und unser Mobilfunkpartner alle Daten auf Servern innerhalb der EU bzw. mit wenigen Ausnahmen komplett in Deutschland. Lediglich zum Schutz vor betrügerischen Aktivitäten und zum Schutz vor ungewollt zu hohen Rechnungen werden Mobilfunk-Daten in Riga/Lettland von einer internationalen Einheit unseres Mobilfunkpartners gecheckt – das betrifft aber nur Mobilfunknummer und Nutzungsverhalten, ohne Verknüpfung zu den jeweiligen Stammdaten.
 Weiterhin haben alle Dienstleister ihren Firmensitz innerhalb der EU bzw. mit wenigen Ausnahmen sogar in Deutschland. Damit fallen alle unter die DSGVO, eine der weltweit strengsten Datenschutzgesetzgebungen. Außerdem ist damit ausgeschlossen, dass Dienstleister dabei sind, die z.B. wegen des Patriot Act/Cloud Act Daten an amerikanische Geheimdienste weitergeben müssen.

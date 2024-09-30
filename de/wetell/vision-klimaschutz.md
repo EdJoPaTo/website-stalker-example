@@ -72,10 +72,10 @@ Lobby für den Klimaschutz
 * Wir unterstützen im legalen Rahmen Klimaaktivismus.
 * Dabei gehen wir auch selbst auf die Straße, um für den Klimaschutz laut zu werden, und beteiligen uns an anderen öffentlichkeitswirksamen Aktionen.
 
-**3. Unterstützung andere Unternehmen**
+**3. Unterstützung anderer Unternehmen**
 
 * Wir beraten andere Unternehmen pro bono auf ihrem Weg zur Klimaneutralität.
-* Wir setzen wir auf Kooperation statt Konkurrenz.
+* Wir setzen auf Kooperation statt Konkurrenz.
 
 Was wir bisher für das Klima bewirkt haben
 

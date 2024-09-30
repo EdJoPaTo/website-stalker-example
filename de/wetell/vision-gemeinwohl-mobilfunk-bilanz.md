@@ -13,7 +13,7 @@ Mit der Gemeinwohl-Ökonomie haben wir eine gute Kompassnadel gefunden, die uns 
 Zum zweiten Mal haben wir uns jetzt bilanzieren lassen. Dafür haben wir einen ausführlichen Bericht erstellt, unser Handeln fürs Gemeinwohl nach Punkten bewertet und durch einen Auditor bestätigen lassen.
 
 Und wir haben vollen Grund zur Freude: Seit der letzten Bilanz haben wir uns mächtig weiterentwickelt.
-Die Überführung von WEtell in Verantwortungseigentum war dabei sicherlich eine die bedeutendsten Schritte. Auch auf die Einführung unseres FAIRstärkers sind wir sehr stolz. Und auch teamintern konnten wir Arbeitsprozesse und Transparenz verbessern.
+Die Überführung von WEtell in Verantwortungseigentum war dabei sicherlich einer der bedeutendsten Schritte. Auch auf die Einführung unseres FAIRstärkers sind wir sehr stolz. Und auch teamintern konnten wir Arbeitsprozesse und Transparenz verbessern.
 
 Wenn du es genau wissen willst, lade dir hier den gesamten Bericht herunter:
 
@@ -32,7 +32,7 @@ Was ist die GWÖ?
 
 Die Gemeinwohl-Ökonomie (GWÖ) ist ein Wirtschaftssystem, das auf Werten aufgebaut ist, welche das Gemeinwohl fördern. Gleichzeitig ist die GWÖ eine europaweites Netzwerk, das sich für die Umsetzung so eines Systems starkmacht. So bietet sie u.a. Unternehmen die Möglichkeit, sich bilanzieren zu lassen.
 Dadurch können Verbraucher\*innen einen genauen und standardisierten Blick auf die Unternehmen werfen, bei denen sie konsumieren.
-Von Architekten, über Banken, Lebensmittelproduzenten, Hotels und natürlich Mobilfunkanbietern, gibt es schon aus so gut wie allen Gewerben Unternehmen, die so eine Bilanzerstellt haben.
+Von Architekten, über Banken, Lebensmittelproduzenten, Hotels und natürlich Mobilfunkanbietern, gibt es schon aus so gut wie allen Gewerben Unternehmen, die so eine Bilanz erstellt haben.
 
 Endlich ein Nachhaltigkeits-Label
 ----------
