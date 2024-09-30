@@ -50,7 +50,7 @@ inkl. 0% MwSt.
 
 VPS 1000 G11
 
-* 4 vCore (x86)
+* 6 vCore (x86)
 * 8 GB ECC RAM
 * 256 GB SSD
 * Traffic inklusive

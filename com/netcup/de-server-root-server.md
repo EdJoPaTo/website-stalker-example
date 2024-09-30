@@ -125,7 +125,7 @@ Mit unseren Root Servern bieten wir leistungsstarke vServer auf Basis von KVM mi
 
 Weitere Features wie die Möglichkeit, **Snapshots** anzulegen oder den vServer aus der Ferne per **VNC-Console** zu warten, eröffnen dir ein breites Spektrum von Anwendungsfällen. Durch die generelle Verwendung von **Markenhardware, redundanten Uplinks** und einer redundanten **Stromversorgung** bieten unsere vServer eine optimale Verfügbarkeit für den professionellen Einsatz.
 
-Bestimme selbst, welches Betriebssystem und Managementsystem du auf deinem vServer nutzen möchtest. **Per SSH** und **Web-VNC-Console** kannst du alle Serverdienste individuell nach deinen Wünschen anpassen und selbst Software installieren. Starten, stoppen, rebooten sowie **Images einspielen** kannst du mit unserer Software SCP (Server Control Panel). Das SCP stellt dir auch umfangreiche **Traffic-Statistiken** zur Verfügung, die Möglichkeit, eine CD-ROM oder DVD einzulegen, sowie **Snapshots** von den Festplatten des vServers zu erstellen. Mit dem SCP wird das Management eines vServers besonders einfach.
+Bestimme selbst, welches Betriebssystem und Managementsystem du auf deinem vServer nutzen möchtest. **Per SSH** und **Web-VNC-Console** kannst du alle Serverdienste individuell nach deinen Wünschen anpassen und selbst Software installieren. Starten, stoppen, rebooten sowie **Images einspielen** kannst du mit unserem Admin Panel SCP (Server Control Panel). Das SCP stellt dir auch umfangreiche **Traffic-Statistiken** zur Verfügung, die Möglichkeit, eine CD-ROM oder DVD einzulegen, sowie **Snapshots** von den Festplatten des vServers zu erstellen. Mit dem SCP wird das Management eines vServers besonders einfach.
 
 Root Server Anwendungsfälle
 ----------
