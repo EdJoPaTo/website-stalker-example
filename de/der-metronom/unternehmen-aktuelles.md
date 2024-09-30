@@ -15,13 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE2/RE3: Diverse Störungen auf der Strecke](https://www.der-metronom.de/aktuell/re2-re3-diverse-stoerungen/)
-
- Uelzen - 30.09.2024
-
-Aufgrund verschiedener Störungen zwischen Hannover Hbf - Uelzen und Hannover Hbf - Göttingen kommt es zu Verspätungen und mitunter zu (Teil-)Ausfällen.
-Im Einzelnen:Aufgrund einer Streckensperrung beim Fernverkehr kommt es durch deren Umleitung über den Fahrweg der metronom-Linie RE 2 zwischen...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
  Uelzen - 13.09.2024
