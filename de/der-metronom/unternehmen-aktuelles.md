@@ -15,6 +15,13 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE4/RB41: Beeinträchtigungen durch Streckensperrung](https://www.der-metronom.de/aktuell/re4-rb41-beeintraechtigungen-durch-streckensperrung/)
+
+ Uelzen - 01.10.2024
+
+Moin liebe Fahrgäste,
+die Strecke Hamburg Hbf – Bremen Hbf ist zwischen Tostedt und Rotenburg (Wümme) teilweise gesperrt. Aufgrund eines gefährlichen Ereignisses (und Feuerwehreinsatz) kommt es daher aktuell zu Verspätungen und (Teil-)Ausfällen auf der metronom-Linie RE4/RB41. Diese...
+
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
  Uelzen - 13.09.2024
