@@ -44,14 +44,14 @@ Choose an option
 
   Ships within 5 business days.
 
-* 7640U - 2.8K DisplayPre-order €1,099
+* 7640U - 2.8K Display €1,099
   * AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
   * Battery - 61Wh
   * Webcam Module (2nd Gen)
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-  Batch 1ShippedBatch 2ShippedBatch 3Sold OutBatch 4Sold OutBatch 5Sold OutBatch 6Ships OctoberPast Batches
+  Ships within 5 business days.
 
 * 7840U 6% Off€1,289
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
@@ -61,14 +61,14 @@ Choose an option
 
   Ships within 5 business days.
 
-* 7840U - 2.8K DisplayPre-order €1,429
+* 7840U - 2.8K Display €1,429
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
   * Battery - 61Wh
   * Webcam Module (2nd Gen)
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-  Batch 1ShippedBatch 2ShippedBatch 3Sold OutBatch 4Sold OutBatch 5Sold OutBatch 6Ships OctoberPast Batches
+  Ships within 5 business days.
 
 **Memory**
 
