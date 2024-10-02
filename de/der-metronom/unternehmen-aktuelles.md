@@ -15,14 +15,6 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Kundenzentrum und Fundbüro in Uelzen: derzeit nicht barrierefrei zugänglich](https://www.der-metronom.de/aktuell/kundenzentrum-und-fundbuero-in-uelzen-derzeit-nicht-barrierefrei-zugaenglich/)
-
- Uelzen - 02.10.2024
-
-Moin liebe Fahrgäste,
-aufgrund eines technischen Defekts am Aufzug sind das Kundenzentrum und das Fundbüro in Uelzen derzeit leider nicht barrierefrei erreichbar. Wir und externe Fachleute arbeiten mit Hochdruck an der Behebung des Problems und bitten um euer Verständnis.
-Solltet ihr...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
  Uelzen - 13.09.2024
