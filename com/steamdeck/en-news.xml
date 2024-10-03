@@ -6,6 +6,43 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.17 Beta: End of the End of the Line</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4842023128332665162</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 3, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					Wireless
+				</b>
+				<ul>
+					<li>
+						Fixed a problem where Steam Deck would be unable to connect to certain Wi-Fi 7 access points
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4842023128332665162" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.16 Beta: End of the Line</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4842023128329574719</link>
 			<content:encoded><![CDATA[<html>
@@ -211,44 +248,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4844273853946580000" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: September 18th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4844273660401598339</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Sep 18, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a bug that could prevent Offline Mode login on the first restart after installing an update.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4844273660401598339" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
