@@ -503,6 +503,7 @@
 * [Jugendgericht](https://www.wdrmaus.de/filme/sachgeschichten/jugendgericht.php5)
 * [Kängurus](https://www.wdrmaus.de/filme/sachgeschichten/kaengurus.php5)
 * [Käsescheiben](https://www.wdrmaus.de/filme/sachgeschichten/kaesescheiben.php5)
+* [Kaffeebecher aus Kaffeesatz](https://www.wdrmaus.de/filme/sachgeschichten/kaffeebecher_aus_kaffeesatz.php5)
 * [Kaleidoskop](https://www.wdrmaus.de/filme/sachgeschichten/kaleidoskop.php5)
 * [Kalorien](https://www.wdrmaus.de/filme/sachgeschichten/kalorien.php5)
 * [Kamineffekt](https://www.wdrmaus.de/filme/sachgeschichten/kamineffekt.php5)
