@@ -159,6 +159,17 @@
 						Fixed crash occurring when querying community controller configurations in the configurator.
 					</li>
 				</ul>
+				<br>
+				<b>
+					Note:
+				</b>
+				This update was re-released October 3rd with the following additional change:
+				<br>
+				<ul>
+					<li>
+						Fixed regression in beta that prevented game recording and remote play from using the GPU encoder.
+					</li>
+				</ul>
 			</div>
 			<div>
 				<div>
