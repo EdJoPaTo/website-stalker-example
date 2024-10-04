@@ -56,6 +56,8 @@ cirrus incus
     (Office Nutzung)35W\_Trigger
   * **Extended Cooling Edition**
     (Media Nutzung)65W\_Trigger
+  * **Extreme Cooling Edition**
+    (Rendering Nutzung)
 
   ##### Prozessor (CPU) #####
 
