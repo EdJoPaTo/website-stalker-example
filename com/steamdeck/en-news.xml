@@ -6,6 +6,74 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: October 4th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4842023333104144157</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 4, 2024
+			</h5>
+			<div>
+				The Steam Deck Client Beta has been updated with the following changes:
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed Steam not being able to connect to SteamVR with error "SteamVR Failed to initialize: VR API not loaded (101)"
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a regression from October 2nd's beta client which was causing some recordings to incorrectly fall back to using the CPU to encode video while playing a game, resulting in an increase in CPU usage.
+						<br>
+					</li>
+					<li>
+						Fixed an issue causing exporting a clip to file, clipboard or chat to fail or sometimes crash.
+						<br>
+					</li>
+					<li>
+						Fixes some cases where the clip export dialog did not appear.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a regression from the October 1st Beta Update which caused per-controller preferences to not get loaded in some cases.
+					</li>
+				</ul>
+				<br>
+				<br>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4842023333104144157" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.17 Beta: End of the End of the Line</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4842023128332665162</link>
 			<content:encoded><![CDATA[<html>
@@ -213,52 +281,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4844274022647657814" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.14 Beta: Less Lucky</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4844273853946580000</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Sep 20, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Security fix for Flatpak (CVE-2024-42472)
-					</li>
-				</ul>
-				<b>
-					Developer
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed nested desktop crashing on launch
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4844273853946580000" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
