@@ -26,8 +26,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
-[05.10.2024 - 06.10.2024 RE2+RE3: Zugausfall (ME81647) und verspätete Abfahrt (ME82217)](https://www.der-metronom.de/baustellen/re2-re3-zugausfall-me81647-und-verspaetete-abfahrt-me82217/)
-
 [09.10.2024 - 12.10.2024 RE2/RE3/RB31: diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle/)
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
@@ -39,8 +37,6 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 [15.10.2024 - 16.10.2024 RE3/RB31: nächtliche Haltausfälle in Bardowick bei zwei Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-in-bardowick-bei-zwei-verbindungen/)
 
 RE4/RB41 Bremen - Rotenburg - Hamburg
-
-[26.09.2024 - 06.10.2024 RE4/RB41: Teil- und Haltausfälle wegen Brückenbauarbeiten](https://www.der-metronom.de/baustellen/re4-rb41-teil-und-haltausfaelle-wegen-brueckenbauarbeiten/)
 
 [07.10.2024 - 14.10.2024 RE4/RB41: Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re4-rb41-teil-und-haltausfaelle/)
 
