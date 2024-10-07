@@ -537,7 +537,7 @@ updated 2022-03-18
 
 dac, datasheet, rtc
 
-updated 2021-01-19
+updated 2024-10-07
 
 [Datasheet Aamp60](https://www.hifiberry.com/docs/data-sheets/datasheet-aamp60/)
 
