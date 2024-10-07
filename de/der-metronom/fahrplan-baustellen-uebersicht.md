@@ -20,8 +20,6 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Hannover - Northeim - Göttingen
 
-[07.10.2024 RE2: frühere Abfahrt 82810 (bereits um 03:15 Uhr ab Göttingen)](https://www.der-metronom.de/baustellen/re2-fruehere-abfahrt-82810-bereits-um-0315-uhr-ab-goettingen/)
-
 [09.10.2024 - 12.10.2024 RE2/RE3/RB31: diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle/)
 
 RE2 + RE3 Uelzen - Celle - Hannover
