@@ -20,7 +20,7 @@ pro Monat
 
 inkl. 0% MwSt.
 
-[jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
+[Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
 
 Länder Domains
 
