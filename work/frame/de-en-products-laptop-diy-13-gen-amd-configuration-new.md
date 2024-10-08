@@ -174,13 +174,16 @@ Close
 * British English
 * International English
 * Belgian
+* Czech/Slovak
 * Danish
 * French
 * French Canadian
 * Italian
 * Japanese
 * Korean
+* Portuguese
 * Spanish (Latin American)
+* Slovenian/Croatian
 * Spanish (Spain)
 * Swedish/Finnish
 * Traditional Chinese (Cangjie & Zhuyin)
