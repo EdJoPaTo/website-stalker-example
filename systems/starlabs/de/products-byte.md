@@ -94,7 +94,7 @@ MX Linux 23.2 KDE
 
 Ubuntu LTS 24.04 MATE
 
-Xubuntu 24.04 LTS
+Xubuntu 22.04.4 LTS
 
 Zorin OS 17 Core
 
