@@ -28,7 +28,7 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
 
 ### [Ugreen Nexode 140W USB C GaN Charger-3 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-140w-usb-c-wall-charger) ###
 
-Ugreen Nexode 140W USB C Wall Charger
+Ugreen Nexode 140W USB C Wall Charger Click here to learn about 2024's latest UGREEN Chargers: UGREEN Uno.
 
 ### [Ugreen Nexode 200W USB C GaN Charger-6 Ports Desktop Charger](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger) ###
 
