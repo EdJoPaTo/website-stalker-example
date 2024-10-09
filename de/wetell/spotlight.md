@@ -1,3 +1,8 @@
+memo
+----------
+
+Nachhaltigkeit im Büroalltag ist keine Kür mehr, sondern moralische Pflicht. Bei memo kriegst du alles dafür. Nachhaltig produziert, in einer Mehrwegkiste verpackt und klimaneutral geliefert. Also haben wir memo Vorstand Henning Rook auf unseren superbequemen Bürostuhl gesetzt und ein paar Runden drehen lassen. Click auf den Link und zwar jetzt bitte.
+
 Polarstern
 ----------
 
