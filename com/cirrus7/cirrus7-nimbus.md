@@ -6,7 +6,7 @@ Ich hatte noch nie einen besser verarbeiteten PC als diesen.
 
 [jetzt konfigurieren](https://www.cirrus7.com/produkte/cirrus7-nimbus/)
 
-### Der cirrus nimbus ist dank einer Intel®-CPU mit intelligenten Stromsparfunktionen und einer integrierten HD-Grafikeinheit äußerst sparsam im Stromverbrauch. ###
+### Der cirrus nimbus ist dank einer Intel®-CPU mit intelligenten Stromsparfunktionen und einer integrierten HD-Grafikeinheit äußerst sparsam im Stromverbrauch.  ###
 
 ### vollkommen lautlos durch lüfterlose Kühlung ###
 
