@@ -135,7 +135,7 @@ cirrus nimbus
 
   1xHDMI 2.0a, 2xDisplayPort 1.2, 1x1 Gigabit LAN, 1x2.5 Gigabit LAN, 4x USB 3.2 Gen1, 2 (Mic-in, Line-out), 1xDC Jack
 
-  ##### Prozessor (CPU) - Comet Lake  #####
+  ##### Prozessor (CPU) - Comet Lake #####
 
   Wählen Sie hier zwischen verschiedenen Intel® Comet Lake CPUs.
 
