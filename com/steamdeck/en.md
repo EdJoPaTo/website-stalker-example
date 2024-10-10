@@ -15,7 +15,7 @@ Your games, everywhere
 
 ### Powerful, portable PC gaming, designed for comfort and a console-like user experience ###
 
-### [Get yours](https://store.steampowered.com/steamdeck) ###
+### [Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com) ###
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 
@@ -27,6 +27,20 @@ Your games, everywhere
 ### [Get yours](https://www.steamdeck.com/en/oled) ###
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
+
+Steam Deck Comes To
+==========
+
+### Your games, down under ###
+
+November 2024
+
+Australia
+==========
+
+### Your games, down under ###
+
+November 2024
 
 #### Find great gaming experiences on Deck ####
 
