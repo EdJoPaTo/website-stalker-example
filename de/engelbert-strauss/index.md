@@ -22,7 +22,7 @@ mit S7S-Schutz fit für jedes Gelände
 
 ---
 
-für Herren
+[für Herren](https://www.engelbert-strauss.de/s/suche?filterParams=Herren_Damen_Kinder%3aHerren&query=midlayer)
 
  Ganzjahreskomfort – teilgefüttert, robust, flexibel
 
