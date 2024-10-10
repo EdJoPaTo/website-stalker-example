@@ -114,7 +114,7 @@ Frequently asked questions
 
 * **Can I use domains besides "nx\*.your-storageshare.de"?**
 
-  Yes, you can activate a subdomain on your konsoleH account. Before you do that, though, you will need your own domain and you will need to set CNAME records for it in the DNS. After that, choose the correct Storage Share instance, then click on the menu tabs "Settings; Configuration; Subdomains" on the left. You can now enter your subdomain. Find detailed instructions in [Hetzner Docs](https://docs.hetzner.com/konsoleh/storage-share/configuration/subdomain).
+  Yes, you can activate a subdomain on your konsoleH account. Before you do that, though, you will need your own domain and you will need to set CNAME records for it in the DNS. After that, choose the correct Storage Share instance, then click on the menu tabs "Settings; Configuration; Subdomains" on the left. You can now enter your subdomain. Find detailed instructions in [Hetzner Docs](https://docs.hetzner.com/storage/storage-share/configuration/subdomain).
 
 * **Can Hetzner add the feature "x"?**
 
