@@ -3,6 +3,11 @@ memo
 
 Nachhaltigkeit im Büroalltag ist keine Kür mehr, sondern moralische Pflicht. Bei memo kriegst du alles dafür. Nachhaltig produziert, in einer Mehrwegkiste verpackt und klimaneutral geliefert. Also haben wir memo Vorstand Henning Rook auf unseren superbequemen Bürostuhl gesetzt und ein paar Runden drehen lassen. Click auf den Link und zwar jetzt bitte.
 
+Charge Horizons
+----------
+
+Egal ob geringer CO2-Ausstoß, veganes Essen, oder glückliche Mitarbeiter\*innen. Mit der App „ChargeHolidays“ kannst du schnell deine Reisen nach den Kriterien buchen, die dir wichtig sind. Wie du einfach neue Horizonte erstürmen kannst, ohne die Natur dafür zahlen zu lassen, erfährst du von Gründerin Lilith im brandneuen WEtell Spotlight.
+
 Polarstern
 ----------
 
