@@ -6,6 +6,82 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: October 10th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6781949392681204780</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 10, 2024
+			</h5>
+			<div>
+				The Steam Deck Client Beta has been updated with the following changes:
+				<br>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						(Desktop Mode) Fixed issue where the overlay would be unresponsive in games which have Game Recording disabled
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a case where Steam Deck personalization settings would get reset on device restart
+						<br>
+					</li>
+					<li>
+						Mode Shifts now support Track Pad Touch on DualSense/Edge, DualShock, SteamController and SteamDeck
+						<br>
+					</li>
+					<li>
+						SIAPI DualSense Glyphs are now Monochrome to match controller and BigPicture UI
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed black screen when streaming HEVC from Steam Deck
+					</li>
+				</ul>
+				<br>
+				<b>
+					Discovery Queue
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improve the animation when scrolling through the discovery queue
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6781949392681204780" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: October 8th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4845401462970436126</link>
 			<content:encoded><![CDATA[<html>
@@ -221,111 +297,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4842023128329574719" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: October 2nd</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4842023128329348918</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 2, 2024
-			</h5>
-			<div>
-				The Steam Deck Client Beta has been updated with the following changes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Updated embedded Chromium build in Steam to 126.0.6478.183
-						<br>
-					</li>
-					<li>
-						Fixed games stored on an external drive still showing as available when the drive is removed.
-						<br>
-					</li>
-					<li>
-						Fixed some miscellaneous common crashes.
-						<br>
-					</li>
-					<li>
-						Make the enter action on the login password entry attempt to login rather than requiring navigation to the "submit" button.
-						<br>
-					</li>
-					<li>
-						Detecting and passing commands to an already running Steam client is significantly faster.
-						<br>
-					</li>
-					<li>
-						Improve compatibility for native titles that have not been reviewed yet by launching them in the same runtime environment as reviewed titles.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added video previews to the Background Recording items in the media manager when hovering them with a mouse or focusing them in BPM.
-						<br>
-					</li>
-					<li>
-						Added video previews to the Background Recording items in the app details page's screenshot section  when hovering them with a mouse or focusing them in BPM.
-						<br>
-					</li>
-					<li>
-						Added a setting to record microphone input alongside gameplay audio.
-						<br>
-					</li>
-					<li>
-						In per-game settings, add the ability to record a specified game indefinitely with no specified time limit.
-						<br>
-					</li>
-					<li>
-						Integrated the list of games where recording is disabled into the per-game settings.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed crash occurring when querying community controller configurations in the configurator.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Note:
-				</b>
-				This update was re-released October 3rd with the following additional change:
-				<br>
-				<ul>
-					<li>
-						Fixed regression in beta that prevented game recording and remote play from using the GPU encoder.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4842023128329348918" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>

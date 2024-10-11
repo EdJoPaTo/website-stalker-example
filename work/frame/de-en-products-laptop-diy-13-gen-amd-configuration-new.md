@@ -51,7 +51,7 @@ Choose an option
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-  Ships within 1-2 weeks.
+  Ships within 5 business days.
 
 * 7840U 6% Off€1,289
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
