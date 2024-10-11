@@ -15,6 +15,14 @@ Wähle deinen Startbahnhof aus und lasse dir die Abfahrtszeit, die Zugnummer und
 
 [Abfahrt!](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE2 Göttingen - Northeim: SEV wegen Kampfmittelbeseitigung](https://www.der-metronom.de/aktuell/re2-goettingen-northeim-sev-wegen-kampfmittelbeseitigung/)
+
+ Göttingen - 11.10.2024
+
+Liebe Fahrgäste,
+aufgrund einer Kampfmittelbeseitigung in Göttingen werden am Samstag, den 12.10.2024 ab 06:00 Uhr bis in die späten Abendstunden alle Züge der Linie RE2 zwischen Göttingen – Northeim und zurück entfallen.
+Der Bahnhof und ZOB in Göttingen sind von der Kampfmittelbeseitigung...
+
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
  Uelzen - 13.09.2024
