@@ -20,11 +20,11 @@ Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich scho
 
 RE2 Hannover - Northeim - Göttingen
 
-[09.10.2024 - 12.10.2024 RE2/RE3/RB31: diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
-[09.10.2024 - 12.10.2024 RE2/RE3/RB31: diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
