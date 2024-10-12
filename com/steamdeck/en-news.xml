@@ -6,6 +6,51 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.18 Beta: The Color at the End of the End of the Line</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4697908845433562217</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 11, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed a possible crash when using Steam Deck as the Remote Play host
+						<br>
+					</li>
+					<li>
+						Fixed colorspace for Game Recording
+						<br>
+					</li>
+					<li>
+						Improved color range when using Remote Play to Steam Deck
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4697908845433562217" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: October 11th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4697908845433273570</link>
 			<content:encoded><![CDATA[<html>
@@ -267,43 +312,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4842023333104144157" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.17 Beta: End of the End of the Line</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4842023128332665162</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 3, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					Wireless
-				</b>
-				<ul>
-					<li>
-						Fixed a problem where Steam Deck would be unable to connect to certain Wi-Fi 7 access points
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4842023128332665162" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
