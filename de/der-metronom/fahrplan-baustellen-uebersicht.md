@@ -33,8 +33,6 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
-[07.10.2024 - 14.10.2024 RE3/RB31: Brückenbauarbeiten Halt- und Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-brueckenbauarbeiten-halt-und-teilausfaelle/)
-
 [15.10.2024 - 16.10.2024 RE3/RB31: nächtliche Haltausfälle in Bardowick bei zwei Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-in-bardowick-bei-zwei-verbindungen/)
 
 [20.10.2024 - 28.10.2024 RE3/RB31: diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-diverse-teil-und-haltausfaelle/)
