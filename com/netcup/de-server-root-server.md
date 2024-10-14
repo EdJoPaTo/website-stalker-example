@@ -207,7 +207,7 @@ Bei einem Root-Server handelt es sich um einen Server, bei dem du vollständigen
 
 ### Was kann ich mit einem Root-Server machen? ###
 
-Root-Server eignen sich ideal für Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agirst du mit höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.
+Root-Server eignen sich ideal für Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agierst du mit höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.
 
 ### Was ist der Unterschied zwischen einem dedizierten Server, einem Root-Server und einem VPS? ###
 

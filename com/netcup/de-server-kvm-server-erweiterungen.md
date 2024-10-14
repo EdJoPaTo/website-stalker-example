@@ -35,8 +35,6 @@ Cloud vLAN Free 100 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server,
 
 Cloud vLAN Starter 250 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
-[pro Monat inkl. 0% MwSt. 4,19 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/cloud-vlan-starter)
-
 Cloud vLAN Medium 500 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
 [pro Monat inkl. 0% MwSt. 6,71 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/cloud-vlan-medium)
