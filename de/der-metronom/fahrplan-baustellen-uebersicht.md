@@ -1,9 +1,9 @@
 Wat mutt, dat mutt: die Baustellen auf der Schiene.
 ----------
 
-Wenn die Deutsche Bahn auf ihren Strecken baut, wird's auch für *metronom* eng.
+**Wenn die Deutsche Bahn auf ihren Strecken baut, wird's auch für *metronom* eng.**
 
-*metronom* nutzt – wie alle anderen Eisenbahnverkehrsunternehmen auch – das [↗ Schienennetz der Deutschen Bahn](https://www.der-metronom.de/service/fragen-und-antworten/). Die Schienen sind teilweise alt und müssen repariert werden, damit alles sicher und gut läuft. Vieles wird in der Nacht gemacht, aber leider nicht alles. Auch *metronom* muss dann langsamer oder überhaupt nicht fahren, damit nach den Bauarbeiten alles wieder gut funktioniert.
+*metronom* nutzt – wie alle anderen Eisenbahnverkehrsunternehmen auch – das [↗ Schienennetz der Deutschen Bahn](https://www.der-metronom.de/service/faq/). Die Schienen sind teilweise alt und müssen repariert werden, damit alles sicher und gut läuft. Vieles wird in der Nacht gemacht, aber leider nicht alles. Auch *metronom* muss dann langsamer oder überhaupt nicht fahren, damit nach den Bauarbeiten alles wieder gut funktioniert.
 
 Meistens wissen wir vorher, wann gebaut wird und wie lange es dauert. Manchmal gibt es aber Überraschungen, und die Baustelle dauert länger. Dann müssen wir alle flexibel sein. Damit du von neuen Baustellen nicht überrascht wirst, informieren wir dich schon vor Beginn der Bauarbeiten, so kannst du langfristig planen.
 
