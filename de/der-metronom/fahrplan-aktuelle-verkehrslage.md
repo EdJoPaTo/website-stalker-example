@@ -2,7 +2,7 @@ AKTUELLE VERKEHRSLAGE
 ==========
 
 **Um über Störungen oder Verspätungen auf deiner metronom-Strecke informiert zu bleiben, wähle einfach deine Strecke aus.**
-Du siehst dann alle aktuellen Infos zum Verkehr. Gibt es keine Infos, fährt der Zug wie geplant.
+Du siehst dann alle aktuellen Infos zum Verkehr. Gibt es keine Infos, fahren die Züge wie geplant.
 
 **Unsere Züge fahren mit 160 km/h durch Norddeutschland und bringen dich sicher ans Ziel.**
 Manchmal sind wir aber nicht pünktlich. Das ist für euch ärgerlich, und für uns auch.
