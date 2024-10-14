@@ -22,11 +22,11 @@ Facts about MOIA's ridepooling service in Hamburg: How many passengers has Moia 
 Press releases
 ----------
 
+[14.10.2024 ### UITP and Team Hamburg Present Their Concept for the International Mobility Congress 2025 in Hamburg ### Hamburg is preparing for the most important global mobility event of the coming year: Today, the concept for the UITP Summit 2025 was officially presented.](https://www.moia.io/en/news-center/uitp-and-team-hamburg-present-their-concept-for-the-international-mobility-congress-2025-in-hamburg)
 [24.07.2024 ### MOIA and emotion3D: AI solution takes over driver safety tasks for autonomous operation with the ID. Buzz AD ### MOIA and automotive software provider emotion3D have developed an AI solution for interior analysis for Volkswagen's self-driving, all-electric ID. Buzz AD from Volkswagen.](https://www.moia.io/en/news-center/ai-takes-over-safety-tasks-from-the-driver)
 [06.02.2024 ### On the way to the Hamburg Takt: MOIA reports positive results ### MOIAs resume after the first year of wheelchair-accessible service](https://www.moia.io/en/news-center/moia-reports-positive-results)
 [24.10.2023 ### Federal government and Hamburg put autonomous ridepooling project on the road ### MOIA is part of the new ALIKE project](https://www.moia.io/en/news-center/federal-government-and-hamburg-put-autonomous-ridepooling-on-the-road)
 [20.09.2023 ### New licensing model: MOIA opens ridepooling ecosystem to cities and local transport operators ### Introduction of a licensing model for MOIA's ridepooling solution](https://www.moia.io/en/news-center/new-licensing-model-moia-opens-ridepooling-ecosystem-to-cities-and-local-transport-operators)
-[25.05.2023 ### Autonomous driving: MOIA counts on Apex.AI software for Passenger Management Development ### MOIA is using Apex.AI's operating system for the market-ready development of the Passenger Management System for the autonomous-driving ID. Buzz AD](https://www.moia.io/en/news-center/autonomous-driving-moia-counts-on-apex-ai-software-for-passenger-management-development)
 
 Downloads
 ----------
