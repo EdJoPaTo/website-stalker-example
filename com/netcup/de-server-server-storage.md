@@ -1,90 +1,102 @@
-Amsterdam Hosting, without the red lights
+Storagespace
 ==========
 
-Top server offers for more than a brief pleasure.
-
-[Discover the new location](https://www.netcup.com/en/server/vps)
-
-HOSTtest is looking for the web host of the year.
-
-Vote for netcup in the categories web hosting, domains and vServer.
-
-[Vote now](https://anx.io/PcILg)
-
-vServer (x86)
-
-VPS Generation 11
-
-from per hour
-
-€0.005
-
-(incl. 0% VAT)
-
-[VPS x86-plans](https://www.netcup.com/en/server/vps)
-
-vServer (ARM64)
-
-New VPS Generation 11
-
-from per month
-
-€5.26
-
-(incl. 0% VAT)
-
-[VPS ARM64-plans](https://www.netcup.com/en/server/arm-server)
-
-Root-Server
-
-Generation 11: AMD EPYC™
-
-from per month
-
-€8.24
-
-(incl. 0% VAT)
-
-[Root-Server-plans](https://www.netcup.com/en/server/root-server)
-
-Web Hosting
-
-Discount campaign
-
-from per month
-
-€1.82
-
-(incl. 0% VAT)
-
-[Web hosting-plans](https://www.netcup.com/en/hosting)
-
- About netcup
+Storagespace für vServer / Root-Server
 ----------
 
-netcup.com is the sales platform of netcup GmbH, your partner for quality [web hosting](https://www.netcup.com/en/hosting), server management, [colocation](https://www.netcup.com/en/professional/colocation-housing) and other Internet services for a successful, reliable and secure Internet presence.
+Zu jedem aktuellen vServer / Root-Server kannst du optional Storagespace buchen. Der Storagespace liegt auf einem externen Storage-Verbund und kann gemeinsam, also von mehreren Servern und auch von externen Clients, genutzt werden. Der Storagespace wird mittels NFS angesprochen. Die entsprechenden Clients müssen dabei IP-basiert freigeschaltet werden.
 
-[More about netcup \>](https://www.netcup.com/en/about-netcup)
-
-Currently at netcup
+Neue Abrechnungsvarianten:
 ----------
 
-#### Nomination at the Service Provider Awards 2022 ####
+Du kannst zwischen verschiedenen Abrechnungstarifen wählen. Jeder Tarif enthält ein Grundvolumen. Darüber hinaus gehender Speicherplatz wird nach Verbrauch je GB abgerechnet.
 
-Once again, netcup has been nominated for the popular Service Provider Award of the Vogel IT Academy in 2022 - this year in the categories Cloud Hosting and Cloud Server. The survey is already running and ends on May 2, 2022. If you think that netcup deserves an award in the categories - Cloud Hosting and Cloud [...]
+**Bereits ab 0,015 Euro / GB im Tarif C!**
 
-[Read more \>](https://www.netcup-news.de/)
+Tarif A
 
-Awarded Multiple Times
-----------
+Tarif B
 
-Our products and our services have been awarded to be VERY GOOD several times. Read more about our awards and customer opinions.
+Tarif C
 
-[To the awards \>](https://www.netcup.com/en/about-netcup/awards)
+Speicherplatz inklusive
 
-Top Certified
-----------
+250,0 GB
 
-Our regular certifications guarantee that you can rely on quality and stability with netcup.
+500,0 GB
 
-[To the certifications \>](https://www.netcup.com/en/about-netcup/certifications)
+1,00 TB
+
+Kosten weiteres GB
+
+0,03 €
+
+0,03 €
+
+0,02 €
+
+Traffic / Monat
+
+2,5 TB
+
+5,0 TB
+
+10,0 TB
+
+IP-Freischaltungen
+
+unbegrenzt
+
+unbegrenzt
+
+unbegrenzt
+
+Redundante Speicherung
+
+JA
+
+JA
+
+JA
+
+Storage
+
+NetApp ®
+
+NetApp ®
+
+NetApp ®
+
+Preis / Monat
+
+5,00 €
+
+8,00 €
+
+15,00 €
+
+Der Storagespace kann zu einem bestehenden Server über das CCP gebucht werden. Bestandskunden können kostenlos auf die neue Abrechnungsvariante wechseln. Kontaktiere dazu bitte unseren Support.
+
+### Weitere Angebote ###
+
+[Root-Server Generation 11](https://www.netcup.com/de/server/root-server)
+
+[Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
+
+[Storagespace](https://www.netcup.com/de/server/server-storage)
+
+[Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
+
+[VPS (x86) Generation 11](https://www.netcup.com/de/server/vps)
+
+[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+
+[CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
+
+[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
+
+[VPS (ARM64) Generation 11](https://www.netcup.com/de/server/arm-server)
+
+[Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
+
+[Betriebssysteme / Images](https://www.netcup.com/de/server/vserver-images)
