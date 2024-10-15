@@ -1,80 +1,90 @@
-Übersicht aller vServer Angebote
+Amsterdam Hosting, without the red lights
 ==========
 
-* Schnelles und sicheres Hardware-RAID
-* Redundante Strom- und Netzwerkanbindung
-* Flexible Vertragslaufzeit
-* DDos-Schutz inklusive
-* und vieles mehr...
+Top server offers for more than a brief pleasure.
 
-VPS piko G11s
+[Discover the new location](https://www.netcup.com/en/server/vps)
 
-* 1 vCore (x86)
-* 1 GB RAM
-* 30 GB SSD
-* Snapshots (Copy-On-Write)
-* Remote-Konsole uvm...
+HOSTtest is looking for the web host of the year.
 
-pro Monat
+Vote for netcup in the categories web hosting, domains and vServer.
 
-0,84 €
+[Vote now](https://anx.io/PcILg)
 
-inkl. 0% MwSt.
+vServer (x86)
 
-[Details / bestellen](https://www.netcup.com/de/server/vps/vps-piko-g11s-12m)
+VPS Generation 11
 
-VPS nano G11s
+from per hour
 
-* 2 vCore (x86)
-* 2 GB RAM
-* 60 GB SSD
-* Snapshots (Copy-On-Write)
-* Remote-Konsole uvm...
+€0.005
 
-pro Monat
+(incl. 0% VAT)
 
-1,68 €
+[VPS x86-plans](https://www.netcup.com/en/server/vps)
 
-inkl. 0% MwSt.
+vServer (ARM64)
 
-[Details / bestellen](https://www.netcup.com/de/server/vps/vps-nano-g11s-6m)
+New VPS Generation 11
 
-VPS mikro G11s
+from per month
 
-* 4 vCore (x86)
-* 4 GB RAM
-* 120 GB SSD
-* Snapshots (Copy-On-Write)
-* Remote-Konsole uvm...
+€5.26
 
-pro Monat
+(incl. 0% VAT)
 
-3,36 €
+[VPS ARM64-plans](https://www.netcup.com/en/server/arm-server)
 
-inkl. 0% MwSt.
+Root-Server
 
-[Details / bestellen](https://www.netcup.com/de/server/vps/vps-mikro-g11s-3m)
+Generation 11: AMD EPYC™
 
-### Weitere Angebote ###
+from per month
 
-[Root-Server Generation 11](https://www.netcup.com/de/server/root-server)
+€8.24
 
-[Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
+(incl. 0% VAT)
 
-[Storagespace](https://www.netcup.com/de/server/server-storage)
+[Root-Server-plans](https://www.netcup.com/en/server/root-server)
 
-[Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
+Web Hosting
 
-[VPS (x86) Generation 11](https://www.netcup.com/de/server/vps)
+Discount campaign
 
-[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+from per month
 
-[CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
+€1.82
 
-[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
+(incl. 0% VAT)
 
-[VPS (ARM64) Generation 11](https://www.netcup.com/de/server/arm-server)
+[Web hosting-plans](https://www.netcup.com/en/hosting)
 
-[Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
+ About netcup
+----------
 
-[Betriebssysteme / Images](https://www.netcup.com/de/server/vserver-images)
+netcup.com is the sales platform of netcup GmbH, your partner for quality [web hosting](https://www.netcup.com/en/hosting), server management, [colocation](https://www.netcup.com/en/professional/colocation-housing) and other Internet services for a successful, reliable and secure Internet presence.
+
+[More about netcup \>](https://www.netcup.com/en/about-netcup)
+
+Currently at netcup
+----------
+
+#### Nomination at the Service Provider Awards 2022 ####
+
+Once again, netcup has been nominated for the popular Service Provider Award of the Vogel IT Academy in 2022 - this year in the categories Cloud Hosting and Cloud Server. The survey is already running and ends on May 2, 2022. If you think that netcup deserves an award in the categories - Cloud Hosting and Cloud [...]
+
+[Read more \>](https://www.netcup-news.de/)
+
+Awarded Multiple Times
+----------
+
+Our products and our services have been awarded to be VERY GOOD several times. Read more about our awards and customer opinions.
+
+[To the awards \>](https://www.netcup.com/en/about-netcup/awards)
+
+Top Certified
+----------
+
+Our regular certifications guarantee that you can rely on quality and stability with netcup.
+
+[To the certifications \>](https://www.netcup.com/en/about-netcup/certifications)

@@ -1,87 +1,90 @@
-Erweiterungen für KVM-Server
+Amsterdam Hosting, without the red lights
 ==========
 
-* Zusätzliche IP-Adressen
-* Failover-IP-Adressen
-* Netzwerkkarten
-* Eigene VLANs
+Top server offers for more than a brief pleasure.
 
-Netzwerk
+[Discover the new location](https://www.netcup.com/en/server/vps)
 
-Service Level
+HOSTtest is looking for the web host of the year.
 
-Netzwerk Erweiterungen
+Vote for netcup in the categories web hosting, domains and vServer.
+
+[Vote now](https://anx.io/PcILg)
+
+vServer (x86)
+
+VPS Generation 11
+
+from per hour
+
+€0.005
+
+(incl. 0% VAT)
+
+[VPS x86-plans](https://www.netcup.com/en/server/vps)
+
+vServer (ARM64)
+
+New VPS Generation 11
+
+from per month
+
+€5.26
+
+(incl. 0% VAT)
+
+[VPS ARM64-plans](https://www.netcup.com/en/server/arm-server)
+
+Root-Server
+
+Generation 11: AMD EPYC™
+
+from per month
+
+€8.24
+
+(incl. 0% VAT)
+
+[Root-Server-plans](https://www.netcup.com/en/server/root-server)
+
+Web Hosting
+
+Discount campaign
+
+from per month
+
+€1.82
+
+(incl. 0% VAT)
+
+[Web hosting-plans](https://www.netcup.com/en/hosting)
+
+ About netcup
 ----------
 
-Zusätzliche IPv4-AdresseZusätzliche IPv4-Adresse, die auf einen Root-Server, Storage-Server oder VPS gebunden werden kann.
+netcup.com is the sales platform of netcup GmbH, your partner for quality [web hosting](https://www.netcup.com/en/hosting), server management, [colocation](https://www.netcup.com/en/professional/colocation-housing) and other Internet services for a successful, reliable and secure Internet presence.
 
-[pro Monat inkl. 0% MwSt. 1,68 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/zusaetzliche-ipv4)
+[More about netcup \>](https://www.netcup.com/en/about-netcup)
 
-Failover IPv4-AdresseIPv4-Adresse, die auf mehreren Root-Server, Storage-Server oder VPS genutzt werden kann.
-
-[pro Monat inkl. 0% MwSt. 4,20 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/failover-ipv4)
-
- Zusätzliches /64 IPv6 SubnetZusätzliches /64 IPv6-Subnet, das auf einen Root-Server, Storage-Server oder VPS gebunden werden kann.
-
-[pro Monat inkl. 0% MwSt. 0,84 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/zusaetzliches-ipv6-subnet)
-
-Failover IPv6-SubnetIPv6-Subnet, das auf mehreren Root-Servern, Storage-Server oder VPS genutzt werden kann.
-
-[pro Monat inkl. 0% MwSt. 4,20 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/failover-ipv6-subnet)
-
-Cloud vLAN Free 100 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
-
-[pro Monat inkl. 0% MwSt. 0,00 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/cloud-vlan-free)
-
-Cloud vLAN Starter 250 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
-
-[pro Monat inkl. 0% MwSt. 4,19 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/cloud-vlan-starter)
-
-Cloud vLAN Medium 500 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
-
-[pro Monat inkl. 0% MwSt. 6,71 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/cloud-vlan-medium)
-
-Cloud vLAN 2,5 Gbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
-
-[pro Monat inkl. 0% MwSt. 17,23 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/cloud-vlan-2-5-gbits)
-
-Service Level Erweiterungen
+Currently at netcup
 ----------
 
-Service Level A+99,9% garantierte Mindestverfügbarkeit, Sofortige Reaktionszeit uvm...
+#### Nomination at the Service Provider Awards 2022 ####
 
-[pro Monat inkl. 0% MwSt. 1,67 € Jetzt buchen! \>](https://www.netcup.com/de/server/root-server/root-server-service-level-a)
+Once again, netcup has been nominated for the popular Service Provider Award of the Vogel IT Academy in 2022 - this year in the categories Cloud Hosting and Cloud Server. The survey is already running and ends on May 2, 2022. If you think that netcup deserves an award in the categories - Cloud Hosting and Cloud [...]
 
-**Tipp: Hohe Verfügbarkeit**
+[Read more \>](https://www.netcup-news.de/)
+
+Awarded Multiple Times
 ----------
 
-So machst du deine Website hoch verfügbar: Eine Failover-IP lässt sich auf verschiedenen Servern einbinden. Fällt ein Server aus, kann die IP von einem anderen Server automatisch eingebunden werden. Du kannst die Failover-IP-Adressen entweder per Webinterface oder per SOAP-Webservice konfigurieren.
+Our products and our services have been awarded to be VERY GOOD several times. Read more about our awards and customer opinions.
 
-**Neu: Service Level**
+[To the awards \>](https://www.netcup.com/en/about-netcup/awards)
+
+Top Certified
 ----------
 
-Wir bieten dir Service Level an, die die regulären Garantien zur Verfügbarkeit, Reaktionszeit und Erreichbarkeit erhöhen. Gegen eine geringe Gebühr kannst du die garantierte Mindestverfügbarkeit auf mehr als 99,9% im Jahresmittel erhöhen.
+Our regular certifications guarantee that you can rely on quality and stability with netcup.
 
-### Weitere Angebote ###
-
-[Root-Server Generation 11](https://www.netcup.com/de/server/root-server)
-
-[Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
-
-[Storagespace](https://www.netcup.com/de/server/server-storage)
-
-[Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
-
-[VPS (x86) Generation 11](https://www.netcup.com/de/server/vps)
-
-[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
-
-[CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
-
-[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
-
-[VPS (ARM64) Generation 11](https://www.netcup.com/de/server/arm-server)
-
-[Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
-
-[Betriebssysteme / Images](https://www.netcup.com/de/server/vserver-images)
+[To the certifications \>](https://www.netcup.com/en/about-netcup/certifications)

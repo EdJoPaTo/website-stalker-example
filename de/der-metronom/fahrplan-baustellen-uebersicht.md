@@ -15,7 +15,7 @@ Du bekommst dann alle Infos zu Baustellen per E-Mail. Außerdem erhältst du akt
 
 ### Immer gut informiert ###
 
-Du bekommst Infos zu Arbeiten an den Strecken über unseren Newsletter, Durchsagen in den Zügen, am Bahnsteig, in der Fahrplanauskunft oder durch unsere Baustellen-Übersicht. Bei Fragen helfen wir dir auch gerne persönlich weiter. Sprich einfach unsere Mitarbeiter im Zug an oder frage im [↗ Kundenzentrum](https://www.der-metronom.de/service-kontakt/)nach.
+Du bekommst Infos zu Arbeiten an den Strecken über unseren Newsletter, Durchsagen in den Zügen, am Bahnsteig, in der Fahrplanauskunft oder durch unsere Baustellen-Übersicht. Bei Fragen helfen wir dir auch gerne persönlich weiter. Sprich einfach unsere Mitarbeiter im Zug an oder frage im [↗ Kundenzentrum](https://www.der-metronom.de/hilfe-kontakt/)nach.
 
 Damit du nicht von neuen Baustellen überrascht wirst, informieren wir dich schon vor Beginn der Arbeiten. So kannst du gut planen. Aktuelle Infos zu zukünftigen Baustellen auf den *[↗ metronom-Strecken](https://www.der-metronom.de/fahrplan/streckennetz/)* findest du in dieser Übersicht. Dort kannst du die Baustellen auch nach Reisetag und Zeitraum filtern und als Kalenderdatei herunterladen, um sie z.B. bequem in deinen Handykalender zu übertragen.
 

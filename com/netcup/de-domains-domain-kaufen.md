@@ -1,134 +1,90 @@
-Domain kaufen und registrieren
+Amsterdam Hosting, without the red lights
 ==========
 
-* Über 450 Top Level Domains
-* Individuelle Domain Registrierung
-* DENIC eG, nic.at, Eurid, Switch-Mitgliedschaften
-* Dauerhaft günstige Domain Preise
-* Konstanter Preis über die gesamte Vertragslaufzeit
+Top server offers for more than a brief pleasure.
 
-Ist deine Wunschdomain noch frei? Jetzt Domain Check starten!
+[Discover the new location](https://www.netcup.com/en/server/vps)
+
+HOSTtest is looking for the web host of the year.
+
+Vote for netcup in the categories web hosting, domains and vServer.
+
+[Vote now](https://anx.io/PcILg)
+
+vServer (x86)
+
+VPS Generation 11
+
+from per hour
+
+€0.005
+
+(incl. 0% VAT)
+
+[VPS x86-plans](https://www.netcup.com/en/server/vps)
+
+vServer (ARM64)
+
+New VPS Generation 11
+
+from per month
+
+€5.26
+
+(incl. 0% VAT)
+
+[VPS ARM64-plans](https://www.netcup.com/en/server/arm-server)
+
+Root-Server
+
+Generation 11: AMD EPYC™
+
+from per month
+
+€8.24
+
+(incl. 0% VAT)
+
+[Root-Server-plans](https://www.netcup.com/en/server/root-server)
+
+Web Hosting
+
+Discount campaign
+
+from per month
+
+€1.82
+
+(incl. 0% VAT)
+
+[Web hosting-plans](https://www.netcup.com/en/hosting)
+
+ About netcup
 ----------
 
-.de Domain
+netcup.com is the sales platform of netcup GmbH, your partner for quality [web hosting](https://www.netcup.com/en/hosting), server management, [colocation](https://www.netcup.com/en/professional/colocation-housing) and other Internet services for a successful, reliable and secure Internet presence.
 
-0,35 € pro Monat
+[More about netcup \>](https://www.netcup.com/en/about-netcup)
 
-pro Monat
-
-0,35 €
-
-inkl. 0% MwSt.
-
-[Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
-
-Länder Domains
-
-ab 0,88 € pro Monat
-
-pro Monat ab
-
-0,88 €
-
-inkl. 0% MwSt.
-
-[Domains anzeigen](https://www.netcup.com/de/domain/zusaetzliche-domain-at)
-
-Globale Domains
-
-ab 1,03 € pro Monat
-
-pro Monat ab
-
-1,03 €
-
-inkl. 0% MwSt.
-
-[Domains anzeigen](https://www.netcup.com/de/domain/zusaetzliche-domain-com)
-
-neue Domains
-
-ab 0,90 € pro Monat
-
-pro Monat ab
-
-0,90 €
-
-inkl. 0% MwSt.
-
-[Domains anzeigen](https://www.netcup.com/de/domains/domain-endungen)
-
-Domain registrieren – Worauf soll ich achten?
+Currently at netcup
 ----------
 
-Bist du auf der Domainsuche für deine Website fündig geworden? Ist die gewünschte Internet-Domain noch frei? Dann solltest du dir den perfekten Domainnamen schnell sichern und ihn registrieren. Mit der Domain Registrierung garantierst du dir deine individuelle Adresse im Netz. So geht es weiter:
+#### Nomination at the Service Provider Awards 2022 ####
 
-**Domain-Endungen auswählen**
+Once again, netcup has been nominated for the popular Service Provider Award of the Vogel IT Academy in 2022 - this year in the categories Cloud Hosting and Cloud Server. The survey is already running and ends on May 2, 2022. If you think that netcup deserves an award in the categories - Cloud Hosting and Cloud [...]
 
-Eine Domain-Endung, auch TLD ([Top-Level-Domain](https://www.netcup.com/de/domains/domain-endungen)) genannt, nach Typ, Standort oder Geschäftsmodell (.info, .de, .blog) aussuchen und in den Warenkorb legen.
+[Read more \>](https://www.netcup-news.de/)
 
-**Domain beantragen**
-
-Bei der Domain Registrierung die richtigen und vollständigen Daten ausfüllen.
-
-**Relevanten Domain Name Registrar (DNR) informieren**
-
-Da jede Registrierungsstelle seine eigenen Anforderungen hat, übernehmen wir den Aufwand für unsere Kunden. Wir kennen uns mit den häufigsten Fehlern und rechtlichen Fallstricken aus und führen die Domain-Registrierung für Sie durch.
-
-**Wie lange dauert eine Domain-Registrierung?**
-
-In der Regel dauert es zwischen wenigen Minuten und mehreren Stunden: wir halten dich auf den Laufenden.
-
-Unterschiedliche Domain-Preise
+Awarded Multiple Times
 ----------
 
-Die Preise einer Domain werden durch verschiedene Faktoren beeinflusst. Eine der wichtigsten Faktoren ist die Beliebtheit der Domain-Endung wie .com, .net, .org, etc.
+Our products and our services have been awarded to be VERY GOOD several times. Read more about our awards and customer opinions.
 
-Die Kosten für die Verwaltung der Domains sind je nach Registrierungsstelle unterschiedlich.
+[To the awards \>](https://www.netcup.com/en/about-netcup/awards)
 
-Es gibt Top-Level-Domains, die auf bestimmte Zielgruppen ausgerichtet sind und aus diesem Grund einen höheren Preis haben. Bei Länderdomains bestimmen die Länder selbst welchen Preis die Registry für ihre Domains verlangt. Die Geschäftsmodelle der Registriers unterschreiden sich sehr stark. Manche sind gewinnorientiert und andere arbeiten lediglich kostendeckend.
-
-Die Registry kann sich entscheiden, bestimmte Domains zu Premium Domains zu erklären. Der Preis dafür ist dann sehr viel höher als der reguläre Preis.
-
-Günstige Domains werden häufig durch zeitweise Marketingaktionen unterstützt. Je weniger bekannt eine Top-Level-Domain ist, desto größer sind die Vorbehalte einiger Internetnutzer, ob es sich bei der URL um eine vertrauenswürdige Quelle handelt.
-
-Kostenlose Domains
+Top Certified
 ----------
 
-Wir raten von kostenlosen Domains ab, da diese oft eine schlechtere Sichtbarkeit in Suchmaschinen haben und weniger vertrauenswürdig erscheinen. Außerdem hast du nie die volle Kontrolle über deine Domain, und kannst sie zum Teil nicht einfach auf einen anderen Provider übertragen. Wenn du eine professionelle Website erstellst, ist es wichtig eine eigene Domain zu besitzen. Es zahlt sich immer aus, eine bezahlte Internet-Domain zu erwerben und dadurch alle damit verbundenen Vorteile und Funktionen zu sichern.
+Our regular certifications guarantee that you can rely on quality and stability with netcup.
 
-Eigene Domain kaufen
-----------
-
-Wenn du bereit bist, dir eine eigene Internet-Domain zu kaufen, kannst du dies schnell und einfach über unsere Website tun. Wenn du bereits ein Kunde bist, empfehlen wir dir deine Domain über das netcup Customer Control Panel zu bestellen. Bei vielen Registries wird die Bestellung dort in Echtzeit ausgeführt. Wir bieten eine große Auswahl an Domain-Endungen zu fairen Preisen, so dass du sicher eine eigene Domain finden kannst, die zu deinem Unternehmen oder deiner Marke passt. Wir freuen uns darauf, dich dadurch beim Aufbau deiner Online-Präsenz zu unterstützen.
-
-Domain kaufen - FAQ
-----------
-
-### Was ist eine Domain? ###
-
-Eine Internet-Domain ist der Name, unter dem eine Website im Internet erreichbar ist. Jede Webseite oder jeder Internetdienst hat eine eindeutige Nummer, die so genannte IP-Adresse. Da es aber schwierig ist, sich lange Nummern zu merken und zu unterscheiden, wurden Domain-Namen eingeführt. Dabei handelt es sich um ein frei wählbares Wort, welches durch einen Punkt von der Top-Level-Domain getrennt ist. Das Wort bzw. die Domain in Verbindung mit der Top-Level-Domain kann weltweit nur einmal registriert werden, um die eindeutige Zuordnung zu einer eindeutigen IP-Adresse zu gewährleisten.
-
-Wenn jemand eine Webseite besuchen möchte, gibt die Person den Domainnamen in den Browser ein. Der Browser sucht dann automatisch nach der zugehörigen IP-Adresse und zeigt den Inhalt der Webseite an.
-
-Domains werden auch verwendet, um individuelle und unverwechselbare E-Mail-Adressen zu erstellen. Eine E-Mail-Adresse besteht typischerweise aus einem Benutzernamen, gefolgt von einem @-Symbol und der Domain-Endung.
-
-Zusammenfassend kann festgestellt werden, dass eine Internet-Domain ein wichtiger Bestandteil des Internets ist, der ein einfaches und intuitives Auffinden von Websites und Online-Diensten ermöglicht.
-
-### Kann ich eine Domain für immer kaufen? ###
-
-Eine Domain kann nicht für immer gekauft werden, sondern ist je nach den Bedingungen der jeweiligen Registrierungsstelle nur für einen begrenzten Zeitraum nutzbar. Nach Ablauf des Registrierungszeitraums muss die Domain erneut verlängert werden, um weiter genutzt werden zu können.
-
-Es ist jedoch möglich, eine Domain über einen längeren Zeitraum zu besitzen, indem man sie regelmäßig verlängert und die entsprechenden Gebühren bezahlt. Viele Domain-Registrare bieten auch automatische Verlängerungsoptionen an, die sicherstellen, dass die Domain nicht versehentlich ausläuft und verloren geht.
-
-### Wie geht es, günstig eine Domain zu registrieren? ###
-
-Der Preis einer Domain hängt in erster Linie von der gewünschten Top-Level-Domain ab. Je nach Verfügbarkeit und Beliebtheit variieren die Preise stark. Netcup bietet viele verschiedene Top-Level-Domains zu sehr günstigen Jahresgebühren an.
-
-### Wie kann ich eine bereits vergebene Domain kaufen? ###
-
-Wenn du eine vergebene Domain kaufen möchtest, musst du den aktuellen Inhaber kontaktieren und diesem ein Kaufangebot unterbreiten.
-
-In der Regel ist der Kauf einer bereits vergebenen Domain wesentlich teurer als der Kauf einer neuen Domain, da der aktuelle Inhaber sehr wahrscheinlich einen höheren Preis für die Abgabe der Domain verlangt. Außerdem kann es sein, dass der aktuelle Inhaber die gewünschte Domain nicht verkaufen möchte.
-
-Wenn du eine vergebene Domain kaufst, stelle auf jeden Fall sicher, dass alle Bedingungen vom Verkäufer erfüllt werden und die Domain erfolgreich auf dich übertragen wird.
+[To the certifications \>](https://www.netcup.com/en/about-netcup/certifications)
