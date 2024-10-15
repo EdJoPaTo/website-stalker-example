@@ -174,6 +174,8 @@ USB-C 3.1 (5m)  Charge Cable
 
 Optional Accessories
 
+Tempered Glass Screen Protector – 2-Pack
+
 USB-C 3.1 (2m)  Charge Cable
 
 USB-C 3.1 (5m)  Charge Cable
