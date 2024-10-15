@@ -15,6 +15,12 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Kundenzentrum und Fundbüro in Uelzen wegen Umbau vom 22. bis 24. Oktober geschlossen.](https://www.der-metronom.de/aktuell/kundenzentrum-und-fundbuero-in-uelzen-wegen-umbau-vom-22-bis-24-oktober-geschlossen/)
+
+ Uelzen - 15.10.2024
+
+Moin liebe Fahrgäste,↗ das Kundenzentrum und das Fundbüro in Uelzen sind wegen Umbauarbeiten vom Dienstag, dem 22., bis Donnerstag, dem 24. Oktober 2024, geschlossen. In dieser Zeit können keine persönlichen Beratungen oder Fundanfragen vor Ort bearbeitet werden. Bei dringenden Fragen nutze bitte...
+
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
 
  Uelzen - 13.09.2024

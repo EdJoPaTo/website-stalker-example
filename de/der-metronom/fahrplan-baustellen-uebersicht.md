@@ -31,6 +31,10 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 [21.10.2024 - 28.10.2024 RE2/RE3/RB31: diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle-2/)
 
+[31.10.2024 - 03.11.2024 RE2/RE3/RB31: Teilausfälle bei verschiedenen Zügen zwischen Uelzen \<\> Suderburg/Celle](https://www.der-metronom.de/baustellen/re2-re3-rb31-teilausfaelle-bei-verschiedenen-zuegen-zwischen-uelzen-suderburg-celle/)
+
+[04.11.2024 - 10.11.2024 RE2/RE3/RB31: Veränderte Fahrzeiten und Zugausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-veraenderte-fahrzeiten-und-zugausfaelle/)
+
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [15.10.2024 - 16.10.2024 RE3/RB31: nächtliche Haltausfälle in Bardowick bei zwei Verbindungen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-in-bardowick-bei-zwei-verbindungen/)
@@ -39,9 +43,21 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [21.10.2024 - 28.10.2024 RE2/RE3/RB31: diverse Teil- und Haltausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-diverse-teil-und-haltausfaelle-2/)
 
+[30.10.2024 - 03.11.2024 RE3/RB31: Haltausfällen in Ashausen, Bardowick und Radbruch und Teilausfälle zwischen Hamburg Hbf \<\> Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-haltausfaellen-in-ashausen-bardowick-und-radbruch-und-teilausfaelle-zwischen-hamburg-hbf-hamburg-harburg/)
+
+[31.10.2024 - 03.11.2024 RE2/RE3/RB31: Teilausfälle bei verschiedenen Zügen zwischen Uelzen \<\> Suderburg/Celle](https://www.der-metronom.de/baustellen/re2-re3-rb31-teilausfaelle-bei-verschiedenen-zuegen-zwischen-uelzen-suderburg-celle/)
+
+[04.11.2024 - 11.11.2024 RE3/RB31: Haltausfällen in Ashausen, Bardowick und Radbruch (Fahrtrichtung Uelzen)](https://www.der-metronom.de/baustellen/re3-rb31-haltausfaellen-in-ashausen-bardowick-und-radbruch-fahrtrichtung-uelzen/)
+
+[04.11.2024 - 10.11.2024 RE2/RE3/RB31: Veränderte Fahrzeiten und Zugausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-veraenderte-fahrzeiten-und-zugausfaelle/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[24.10.2024 - 27.10.2024 RE4/RB41: Teilausfälle zwischen Rotenburg - Bremen](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-rotenburg-bremen/)
+
+[31.10.2024 - 03.11.2024 RE4/RB41: Teilausfälle zwischen Hamburg Hbf \<\> Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-hamburg-harburg/)
+
+[04.11.2024 - 10.11.2024 RE4/RB41: Teilausfälle zwischen Rotenburg und Bremen und vereinzelnd zwischen Hamburg-Harburg \<\> Hamburg Hbf](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-rotenburg-und-bremen-und-vereinzelnd-zwischen-hamburg-harburg-hamburg-hbf/)
 
 **Barrierefrei ohne PDF-Datei**
 Wir arbeiten gerade daran, die Fahrplantabellen nicht mehr als PDF-Dateien anzubieten. Unser Ziel ist es, die Tabellen in einem Format bereitzustellen, das für alle einfach zugänglich ist. So kann jeder, egal mit welchem Gerät, die Informationen leicht abrufen. Das macht es einfacher für Menschen mit mobilen Geräten und für Menschen mit besonderen Bedürfnissen. Damit wollen wir die Informationen moderner und für alle nutzerfreundlich machen.
