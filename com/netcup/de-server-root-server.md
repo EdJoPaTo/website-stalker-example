@@ -178,7 +178,7 @@ Wer sowohl die Vorteile dedizierter Server als auch virtualisierter Server schä
 Vorteile unserer Root Server-Angebote
 ----------
 
-Unsere Root Server vereinen die Vorteile virtueller und dedizierter Server. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 7702 CPU-Kerne und schnellen DDR4 Arbeitsspeicher (RAM).
+Unsere Root Server vereinen die Vorteile virtueller und dedizierter Server. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9634 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM).
 Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie einfach bedienbar. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr.
 
  Speichererweiterung für Root Server
@@ -211,7 +211,7 @@ Root-Server eignen sich ideal für Shop-Lösungen, große Websites, Mobile App S
 
 ### Was ist der Unterschied zwischen einem dedizierten Server, einem Root-Server und einem VPS? ###
 
-Ein dedizierter Server bietet exklusiven Zugang zu einem physischen Server für deine Anwendungen, während ein Root-Server zusätzlich vollen Root-Zugriff auf das Betriebssystem ermöglicht. Der Root-Server eignet sich für erfahrenere Administratoren, die volle Kontrolle bevorzugen. Bei einem VPS hingegen erhältst du virtuelle CPU Kerne.
+Die Begriffe dedizierter Server und Root-Server werden in der IT-Branche oft synonym verwendet und stellen ähnliche Konzepte dar: Mit einem dedizierten Server erhältst du exklusiven Zugriff auf einen physischen Server. Bei VPS und Root-Server handelt es sich bei netcup um virtualisierte Server mit Root-Zugriff. Während bei einem VPS die CPU-Leistung nicht garantiert werden kann, vereint ein Root-Server jedoch die Vorteile dedizierter Server und virtualisierter Server: Einem Root-Server wird die angegebene CPU-Leistung garantiert zugewiesen, zudem ist das Anlegen von Snapshots sowie die Verwaltung über ein Panel durch die Virtualisierung wie auch bei VPS möglich.
 
 ### Wo ist der Standort meines Root-Servers? ###
 
