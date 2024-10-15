@@ -1,6 +1,6 @@
 ### [UGREEN 145W GaN MagSafe Power Bank 20000mAh](https://eu.ugreen.com/products/ugreen-100w-gan-mini-magsafe-power-station) ###
 
-### [UGREEN 30W USB C Ladeger?t GaN II Tech Schnellladeger?t](https://eu.ugreen.com/products/ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat) ###
+### [UGREEN 30 W USB-C GaN II Tech Fast Charger](https://eu.ugreen.com/products/ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat) ###
 
  Previous page Next page Previous page Next page Previous page Next page
 
@@ -34,6 +34,6 @@ UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge
 
 ### [UGREEN Nexode 300W GaN Wall USB-C Charger 5 Ports](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) ###
 
-### [UGREEN Nexode 30W USB C Ladeger?t With GaN II Tech](https://eu.ugreen.com/products/ugreen-nexode-30w-usb-c-ladegerat-mini-usb-c-netzteil-gan-ii-tech-adapter-kompatibel-mit-macbook-air-iphone-14-pro-max-14-plus-13-12-galaxy-s22-s21-fe-ipad-pro-tab-s8-a8-pixel-7-airpods) ###
+### [UGREEN Nexode 30W USB C Charger With GaN II Tech](https://eu.ugreen.com/products/ugreen-nexode-30w-usb-c-ladegerat-mini-usb-c-netzteil-gan-ii-tech-adapter-kompatibel-mit-macbook-air-iphone-14-pro-max-14-plus-13-12-galaxy-s22-s21-fe-ipad-pro-tab-s8-a8-pixel-7-airpods) ###
 
 Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A, 20V/1.5A, 5V/2.4A, 5V/2A, 5V/1A; 30W Max. PPS adaptive Ladung Schnellladen-Protokoll PD3.0, PPS, QC4+/4.0/3.0, SCP(10V2.25A), FCP, AFC, 5V2.4A, BC1.2 Multi-Schutz Thermal...
