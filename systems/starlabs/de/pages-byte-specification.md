@@ -113,7 +113,7 @@ Back
  Display Port version: 1.4
  Ethernet 1: 1000 Mbps (Realtek
 8111H)
- Ethernet 2: 2500 Mbps (Realtek 8125GB)
+ Ethernet 2: 2500 Mbps (Realtek 8125BG)
  DC Input: 12V 3A 5.5mm
  Minimum Wattage: 36W
 

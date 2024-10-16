@@ -21,7 +21,7 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 Moin liebe Fahrgäste,↗ das Kundenzentrum und das Fundbüro in Uelzen sind wegen Umbauarbeiten vom Montag, dem 21., bis Donnerstag, dem 24. Oktober 2024, geschlossen. In dieser Zeit können keine persönlichen Beratungen oder Fundanfragen vor Ort bearbeitet werden. Bei dringenden Fragen nutze bitte...
 
-[Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefreies Reisen](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefreies-reisen/)
+[Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
  Uelzen - 13.09.2024
 
