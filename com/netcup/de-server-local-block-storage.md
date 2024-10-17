@@ -1,4 +1,5 @@
 Local Block Storage
+
 ==========
 
 * Einfache und kostengünstige Speichererweiterung
@@ -8,7 +9,11 @@ Local Block Storage
 * Hohe Performance in der Datensicherung
 * Skalierbare Infrastruktur
 
-ab 0,01 € pro Monat
+ab
+
+0,01 €
+
+ pro Monat
 
 [Im Kundenbereich bestellen](https://www.netcup.com/de/server/local-block-storage#details)
 

@@ -29,9 +29,7 @@ pro Monat
 
 12,60 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-ttf24)
+(incl. 0% VAT)
 
 VPS
 
@@ -53,9 +51,7 @@ pro Monat
 
 21,50 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-ttf24)
+(incl. 0% VAT)
 
 VPS
 
@@ -77,9 +73,7 @@ pro Monat
 
 32,00 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/server/vps/vps-8000-g11-se-nue-ttf24)
+(incl. 0% VAT)
 
 Webhosting
 
@@ -101,9 +95,7 @@ pro Monat
 
 2,17 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-ttf24)
+(incl. 0% VAT)
 
 Root-Server
 
@@ -125,9 +117,7 @@ pro Monat
 
 16,29 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-ttf24)
+(incl. 0% VAT)
 
 Domains
 
@@ -149,9 +139,7 @@ pro Monat dauerhaft
 
 0,11 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-de-domain-13-cent-ttf24)
+(incl. 0% VAT)
 
 Domains
 
@@ -173,9 +161,7 @@ pro Monat dauerhaft
 
 2,48 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-beer-domain-ttf24)
+(incl. 0% VAT)
 
 Domains
 
@@ -197,9 +183,7 @@ pro Monat dauerhaft
 
 2,84 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-bayern-domain-ttf24)
+(incl. 0% VAT)
 
 Domains
 
@@ -221,9 +205,7 @@ pro Monat dauerhaft
 
 0,35 €
 
-inkl. 0% MwSt.
-
-[Jetzt Deal sichern \>](https://www.netcup.com/de/domain/aktion-eu-domain-42-cent-ttf24)
+(incl. 0% VAT)
 
 netcup Angebote zu VPS und Root-Server
 ----------

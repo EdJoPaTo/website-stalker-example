@@ -1,4 +1,5 @@
 Übersicht aller vServer Angebote
+
 ==========
 
 * Schnelles und sicheres Hardware-RAID
@@ -19,7 +20,7 @@ pro Monat
 
 0,84 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Details / bestellen](https://www.netcup.com/de/server/vps/vps-piko-g11s-12m)
 
@@ -35,7 +36,7 @@ pro Monat
 
 1,68 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Details / bestellen](https://www.netcup.com/de/server/vps/vps-nano-g11s-6m)
 
@@ -51,7 +52,7 @@ pro Monat
 
 3,36 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Details / bestellen](https://www.netcup.com/de/server/vps/vps-mikro-g11s-3m)
 

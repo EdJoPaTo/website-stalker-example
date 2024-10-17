@@ -1,4 +1,5 @@
 Root Server auf KVM-Basis
+
 ==========
 
 * Vereint die Vorteile dedizierter und virtueller Server
@@ -28,7 +29,7 @@ bereits ab monatlich
 
 8,24 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m)
 
@@ -45,7 +46,7 @@ bereits ab monatlich
 
 14,19 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m)
 
@@ -62,7 +63,7 @@ bereits ab monatlich
 
 26,55 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m)
 
@@ -80,7 +81,7 @@ bereits ab monatlich
 
 47,62 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m)
 
@@ -97,7 +98,7 @@ bereits ab monatlich
 
 68,91 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-12000-g11-12m)
 
@@ -114,7 +115,7 @@ bereits ab monatlich
 
 90,76 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-16000-g11-12m)
 

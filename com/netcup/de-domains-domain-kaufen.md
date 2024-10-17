@@ -1,4 +1,5 @@
 Domain kaufen und registrieren
+
 ==========
 
 * Über 450 Top Level Domains
@@ -18,7 +19,7 @@ pro Monat
 
 0,35 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
 
@@ -30,7 +31,7 @@ pro Monat ab
 
 0,88 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Domains anzeigen](https://www.netcup.com/de/domain/zusaetzliche-domain-at)
 
@@ -42,7 +43,7 @@ pro Monat ab
 
 1,03 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Domains anzeigen](https://www.netcup.com/de/domain/zusaetzliche-domain-com)
 
@@ -54,7 +55,7 @@ pro Monat ab
 
 0,90 €
 
-inkl. 0% MwSt.
+(incl. 0% VAT)
 
 [Domains anzeigen](https://www.netcup.com/de/domains/domain-endungen)
 
