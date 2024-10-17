@@ -195,6 +195,7 @@ cirrus nimbini v4 - Pro Edition
 
   * Kein vorinstalliertes Betriebssystem
   * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Ubuntu 24.10** „Oracular Oriole“
   * **Linux Mint 22**
   * **Windows 11 Home**
     original OEM Lizenz
@@ -204,10 +205,11 @@ cirrus nimbini v4 - Pro Edition
     original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Pro
   * **anderes Betriebssystem**
-    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+    solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   * Kein vorinstalliertes Betriebssystem
   * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Ubuntu 24.10** „Oracular Oriole“
   * **Linux Mint 22**
   * **Windows 11 Home**
     original OEM Lizenz
@@ -217,7 +219,7 @@ cirrus nimbini v4 - Pro Edition
     original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Pro
   * **anderes Betriebssystem**
-    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+    solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   *
 

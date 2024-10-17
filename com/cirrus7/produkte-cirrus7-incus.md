@@ -228,7 +228,7 @@ cirrus incus
     original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Pro
   * **anderes Betriebssystem**
-    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+    solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   * Kein vorinstalliertes Betriebssystem
   * **Ubuntu 24.04 LTS** „Noble Numbat“
@@ -242,7 +242,7 @@ cirrus incus
     original OEM Lizenz
     beinhaltet kostenloses Update auf Windows 11 Pro
   * **anderes Betriebssystem**
-    solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
+    solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   *
 
