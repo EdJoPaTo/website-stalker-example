@@ -239,7 +239,6 @@
 * [Eiertitschen](https://www.wdrmaus.de/filme/sachgeschichten/eiertitschen.php5)
 * [Ein Baum](https://www.wdrmaus.de/filme/sachgeschichten/baum.php5)
 * [Ein Quadratmeter Natur](https://www.wdrmaus.de/filme/sachgeschichten/ein_quadratmeter_natur.php5)
-* [Ein Quadratmeter Natur](https://www.wdrmaus.de/extras/mausthemen/tiere/filme/ein_quadratmeter_natur.php5)
 * [Ein Quadratmeter Natur: Landschaftspark Nord](https://www.wdrmaus.de/filme/sachgeschichten/ein_quadratmeter_natur_landschaftspark.php5)
 * [Ein Quadratmeter Natur: Rheinufer](https://www.wdrmaus.de/filme/sachgeschichten/ein_quadratmeter_natur_rheinufer.php5)
 * [Ein-Cent-Münze](https://www.wdrmaus.de/filme/sachgeschichten/ein_centmuenze.php5)
