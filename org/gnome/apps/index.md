@@ -62,7 +62,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Commit**Commit message editor](Commit/)
 * [**Curtail**Compress your images](Curtail/)
 * [**Decibels**Play audio files](Decibels/)
-* [**Decoder**Scan and Generate QR Codes](Decoder/)
+* [**Decoder**Scan and generate QR codes](Decoder/)
 * [**Déjà Dup Backups**Protect yourself from data loss](DejaDup/)
 * [**Dialect**Translate between languages](Dialect/)
 * [**Ear Tag**Edit audio file tags](EarTag/)
