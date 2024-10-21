@@ -549,7 +549,7 @@ Not available in your country
 
 Adding Eve devices with a Matter logo to your smart home is fast and easy.
 
-##### Watch the video #####
+Watch the video
 
 ###  Getting started. ###
 

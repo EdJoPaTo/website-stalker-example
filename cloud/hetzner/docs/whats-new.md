@@ -12,7 +12,7 @@ Sep 24
 
 We’re thrilled to announce the upcoming launch of Object Storage and the beginning of its beta phase!
 
-* **How to participate**Click [here](https://docs.hetzner.cloud/(modal:object-storage-beta)) to request access. If you meet our criteria and we still have spots available, we'll activate the feature for your account.
+* **How to participate**Click [here](https://console.hetzner.cloud/(modal:object-storage-beta)) to request access. If you meet our criteria and we still have spots available, we'll activate the feature for your account.
 * **About the beta test**Until the end of October, Object Storage will be free of charge. On 1 November 2024, you can either continue using the feature or delete your Buckets and their data. The service will be charged from this point on. See [our Docs](https://docs.hetzner.com/storage/object-storage/overview#pricing) to learn more about the billing model. At the beginning of beta, Object Storage is only available in Falkenstein. We can't guarantee flawless performance at this stage. If you run into issues, please let us know via the [forum](https://forum.hetzner.com/index.php?board/120-object-storage/).
 
 Sep 04

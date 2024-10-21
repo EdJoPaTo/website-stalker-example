@@ -22,6 +22,7 @@ statt 14,50 €
 * 8 vCore
 * Standort: Nürnberg
 * 16 GB ECC RAM
+
 * Verfügbar bis: 25.09. 10 Uhr
 * 1 TB SSD (statt 512 GB)
 
@@ -44,6 +45,7 @@ statt 24,75 €
 * 12 vCore
 * Standort: Nürnberg
 * 32 GB ECC RAM
+
 * Verfügbar bis: 25.09. 10 Uhr
 * 2 TB SSD (statt 1 TB)
 
@@ -66,6 +68,7 @@ statt 36,79 €
 * 20 vCore (statt 16)
 * Standort: Nürnberg
 * 64 GB ECC RAM
+
 * Verfügbar bis: 25.09. 10 Uhr
 * 3.072 GB SSD (statt 2.048 GB)
 
@@ -88,6 +91,7 @@ statt 2,73 €
 * 3 .de Domains inklusive
 * Standort: Nürnberg
 * SSL-Zertifikate inklusive
+
 * Verfügbar bis: 25.09. 10 Uhr
 * 150 GB SSD Speicherplatz
 
@@ -110,6 +114,7 @@ statt 19,59 €
 * 8 dedizierte Kerne
 * Standort: Nürnberg
 * 16 GB DDR5 RAM (ECC)
+
 * Verfügbar bis: 25.09. 10 Uhr
 * 1 TB NVMe SSD (statt 512 GB)
 
@@ -132,6 +137,7 @@ statt 0,35 €
 * DNSSEC, API
 * 2 € Setup Gebühr
 * Umfangreiches DNS-Management
+
 * Redundant verteilte Nameserver
 * Für Neu- und Bestandskunden
 
@@ -154,6 +160,7 @@ statt 2,89 €
 * DNS API
 * 0 € Setup-Gebühr
 * Umfangreiches DNS-Management
+
 * Redundant verteilte Nameserver
 * Für Neu- und Bestandskunden
 
@@ -176,6 +183,7 @@ statt 3,32 €
 * DNS API
 * 0 € Setup-Gebühr
 * Umfangreiches DNS-Management
+
 * Redundant verteilte Nameserver
 * Für Neu- und Bestandskunden
 
@@ -198,6 +206,7 @@ statt 0,66 €
 * DNSSEC, API
 * 0 € Setup-Gebühr
 * Umfangreiches DNS-Management
+
 * Redundant verteilte Nameserver
 * Für Neu- und Bestandskunden
 
