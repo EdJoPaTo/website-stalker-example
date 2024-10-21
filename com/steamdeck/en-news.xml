@@ -6,6 +6,47 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.19 Beta: Quiet Stability</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4695657936515505235</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 21, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed a rare issue where 3.5mm headphones could produce elevated background noise on reconnection until next sleep/resume
+						<br>
+					</li>
+					<li>
+						Fixed an issue where certain games could crash with a 'page allocation failure' after a long play ession
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695657936515505235" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: October 17th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4695657593802065002</link>
 			<content:encoded><![CDATA[<html>
@@ -207,78 +248,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4697908845433273570" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: October 10th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/6781949392681204780</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 10, 2024
-			</h5>
-			<div>
-				The Steam Deck Client Beta has been updated with the following changes:
-				<br>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						(Desktop Mode) Fixed issue where the overlay would be unresponsive in games which have Game Recording disabled
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where Steam Deck personalization settings would get reset on device restart
-						<br>
-					</li>
-					<li>
-						Mode Shifts now support Track Pad Touch on DualSense/Edge, DualShock, SteamController and SteamDeck
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed black screen when streaming HEVC from Steam Deck
-					</li>
-				</ul>
-				<br>
-				<b>
-					Discovery Queue
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improve the animation when scrolling through the discovery queue
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6781949392681204780" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
