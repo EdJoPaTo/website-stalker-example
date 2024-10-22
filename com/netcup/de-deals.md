@@ -5,6 +5,13 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
+Sichere dir schaurig gute Deals ab 29. Oktober
+----------
+
+Es ist wieder soweit: Passend zur Halloween-Woche gibt es ab 29.10. 10 Uhr wieder unheimlich gute Angebote. Mit dabei sind einige Domain-Deals, VPS und VPS ARM Produkte, sowie Webhosting an den beliebtesten Standorten. Weitere Details erfährst du ab Aktionsstart hier auf dieser Seite. Folge uns auf [X](https://x.com/netcup_global), [Facebook](https://www.facebook.com/profile.php?id=61560847662410) und [Mastodon](https://netcup.cafe/@netcup_global) oder abonniere den [netcup Newsletter](https://mautic.netcup.news/newsletter-anmeldung) sowie [WhatsApp-Channel](https://whatsapp.com/channel/0029VafK8WZKgsNvSJ1ws32p) um keine Updates zu verpassen.
+
+Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
+
 netcup Angebote zu VPS und Root-Server
 ----------
 
