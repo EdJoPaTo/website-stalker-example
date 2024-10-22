@@ -6,6 +6,22 @@
 		<description>The MOIA blog you will learn everything that moves the MOIA community and get exciting insights into the world of MOIA.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Autonomous Driving Level 4: A Glimpse into the Future of Public Transportation</title>
+			<link>https://www.moia.io/en/blog/autonomous-driving-level-4</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<span>
+				22.10.2024
+			</span>
+			Autonomous driving at Level 4 – a term that is increasingly becoming common even outside the mobility industry and raising high expectations. But what exactly does this classification entail, and what prerequisites must be met to truly achieve Level 4 in public transportation?
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Autonomous Ridepooling: What is it?</title>
 			<link>https://www.moia.io/en/blog/autonomous-ridepooling</link>
 			<content:encoded><![CDATA[<html>
@@ -129,22 +145,6 @@
 				15.12.2023
 			</span>
 			Prof Dr Jochen Eckart is a transport ecologist and, as a scientist, was involved in the ARD #besserBahnfahren campaign, which examined the importance of public transport in rural and urban areas, among other things. In this interview, he reveals the results of the survey that surprised him, the role he attributes to ridepooling services in the mobility transition and which mobility measure he currently considers to be the most urgent in order to protect the environment and climate.
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>MOIA opens ridepooling ecosystem to cities and local transport operators</title>
-			<link>https://www.moia.io/en/blog/new-licensing-model-moia-opens-ridepooling-ecosystems-for-cities-and-transport-companies</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<span>
-				08.12.2023
-			</span>
-			By introducing a licensing model, we are expanding our revenue model: in the future, we will also offer cities, transport companies and authorities all the necessary services related to ridepooling.
 		</div>
 	</body>
 </html>]]></content:encoded>
