@@ -217,6 +217,7 @@ sites:
     editors:
       - css_select: main
       - css_remove: ul:has(li a code)
+      - css_flatten: a[href^="#example"], a[href^="#explanation"]
       - html_markdownify
   - url: https://rust-lang.github.io/rust-clippy/stable/lints.json
     editors:
