@@ -220,10 +220,10 @@ sites:
       - html_markdownify
   - url: https://rust-lang.github.io/rust-clippy/stable/lints.json
     editors:
-      - regex_replace:
-          pattern: ',\n\s*"line": \d+'
-          replace: ""
       - json_prettify
+      - regex_replace:
+          pattern: '\n\s*"id_location": ".+'
+          replace: ""
       - regex_replace:
           pattern: '\n\s*"docs": ".+'
           replace: ""
