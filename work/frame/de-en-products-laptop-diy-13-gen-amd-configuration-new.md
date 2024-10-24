@@ -1,23 +1,23 @@
 Framework Laptop 13
 ==========
 
-Framework Laptop 13 DIY Edition (AMD Ryzen™ 7040 Series)
+ Framework Laptop 13 DIY Edition (AMD Ryzen™ 7040 Series)
 
-[DIY EditionBuild it yourself and bring your OS, including Linux.](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
+[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
 
-[Pre-builtReady to use with Windows pre-installed.](/de/en/products/laptop-13-gen-amd/configuration/new)
+[Pre-built Ready to use with Windows pre-installed.](/de/en/products/laptop-13-gen-amd/configuration/new)
 
 [Intel® Core™](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new)
 
 [AMD Ryzen™](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
 
-[5% off 7040 SeriesStarting at€929.00was: €979](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
+[5% off 7040 Series Starting at €929.00 was: €979](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
 
 [View product details](/de/en/products/laptop-diy-13-gen-amd?tab=specs)
 
 Ordering more than 1 laptop?
 
-Ordering more than 1 laptop?
+ Ordering more than 1 laptop?
 
 For in-stock laptop configurations: You can add up to 5 laptops per order.
 
@@ -25,56 +25,56 @@ For pre-order laptop configurations: We only allow one laptop per pre-order, but
 
 If you are a business customer, need more than five laptops per order, or have other special requests, please contact us through our [support form](/de/en/framework-for-business#contact-us) and we’ll get in contact with you.
 
-Close
+ Close
 
-Configuration
+ Configuration
 ----------
 
 **System**
 
-Choose an option
+ Choose an option
 
 [Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
 
-* 7640U 5% Off€929
+* 7640U  5% Off  €929
   * AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
   * Battery - 55Wh
   * Webcam Module (1st Gen)
   * 13.5" 2256x1504 60Hz matte display
 
-  Ships within 5 business days.
+   Ships within 5 business days.
 
-* 7640U - 2.8K Display €1,099
+* 7640U - 2.8K Display  €1,099
   * AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
   * Battery - 61Wh
   * Webcam Module (2nd Gen)
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-  Ships within 5 business days.
+   Ships within 5 business days.
 
-* 7840U 6% Off€1,289
+* 7840U  6% Off  €1,289
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
   * Battery - 61Wh
   * Webcam Module (1st Gen)
   * 13.5" 2256 x 1504 60Hz matte display
 
-  Ships within 5 business days.
+   Ships within 5 business days.
 
-* 7840U - 2.8K Display €1,429
+* 7840U - 2.8K Display  €1,429
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
   * Battery - 61Wh
   * Webcam Module (2nd Gen)
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-  Ships within 1-2 weeks.
+   Ships within 1-2 weeks.
 
 **Memory**
 
-Choose an option
+ Choose an option
 
-FAQ
+ FAQ
 
 FAQs
 ----------
@@ -103,7 +103,7 @@ Close
 
 **Storage**
 
-Choose an option
+ Choose an option
 
 * WD\_BLACK™ SN770 NVMe™- M.2 2280 - 250GB +€45
 * WD\_BLACK™ SN770 NVMe™- M.2 2280 - 500GB +€65
@@ -116,9 +116,9 @@ Choose an option
 
 **Operating System**
 
-Choose an option
+ Choose an option
 
-FAQ
+ FAQ
 
 FAQs
 ----------
@@ -133,12 +133,12 @@ Close
 * Windows 11 Pro (Download) +€259
 * None (bring your own)
 
-Customization
+ Customization
 ----------
 
 **Bezel**
 
-Choose an option
+ Choose an option
 
 * Black
 * Gray +€10
@@ -149,9 +149,9 @@ Choose an option
 
 **Keyboard**
 
-Choose an option
+ Choose an option
 
-FAQ
+ FAQ
 
 FAQs
 ----------
@@ -192,20 +192,20 @@ Close
 
 **Power Adapter**
 
-Choose an option
+ Choose an option
 
 * Power Adapter - 60W - EU +€49
 * Power Adapter - 60W - UK +€49
 * None (bring your own)
 
-Expansion Cards
+ Expansion Cards
 ----------
 
 **Expansion Cards**
 
-Choose any number
+ Choose any number
 
-FAQ
+ FAQ
 
 FAQs
 ----------
@@ -230,165 +230,165 @@ We suggest ordering 4 or more Expansion Cards, and that at least one is a USB-C 
 
 Most popular combination
 
-2x USB-C (Aluminum), USB-A, HDMI (3rd Gen)
+ 2x USB-C (Aluminum), USB-A, HDMI (3rd Gen)
 
 Quick select
 
-USB-C Expansion Cards (multiple colors available)
+ USB-C Expansion Cards (multiple colors available)
 
-USB-C (Aluminum)
+ USB-C (Aluminum)
 
-Details
+ Details
 
-USB-C Expansion Card - Aluminum
+ USB-C Expansion Card - Aluminum
 ----------
 
 The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
 Close
 
-\+€10
+ \+€10
 
-USB-C (Orange)
+ USB-C (Orange)
 
-Details
+ Details
 
-USB-C Expansion Card - Orange
+ USB-C Expansion Card - Orange
 ----------
 
 The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
 Close
 
-\+€10
+ \+€10
 
-USB-C (Lavender)
+ USB-C (Lavender)
 
-Details
+ Details
 
-USB-C Expansion Card - Lavender
+ USB-C Expansion Card - Lavender
 ----------
 
 The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
 Close
 
-\+€10
+ \+€10
 
-USB-C (Green)
+ USB-C (Green)
 
-Details
+ Details
 
-USB-C Expansion Card - Green
+ USB-C Expansion Card - Green
 ----------
 
 The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
 Close
 
-\+€10
+ \+€10
 
-USB-C (Red)
+ USB-C (Red)
 
-Details
+ Details
 
-USB-C Expansion Card - Red
+ USB-C Expansion Card - Red
 ----------
 
 The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
 Close
 
-\+€10
+ \+€10
 
-Additional Port Expansion Cards
+ Additional Port Expansion Cards
 
-USB-A
+ USB-A
 
-Details
+ Details
 
-USB-A Expansion Card
+ USB-A Expansion Card
 ----------
 
-Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
+ Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
 
 Close
 
-\+€10
+ \+€10
 
-HDMI (3rd Gen)
+ HDMI (3rd Gen)
 
-Details
+ Details
 
-HDMI (3rd Gen) Expansion Card
+ HDMI (3rd Gen) Expansion Card
 ----------
 
-The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
+ The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
 
 Close
 
-\+€20
+ \+€20
 
-Ethernet Expansion Card
+ Ethernet Expansion Card
 
-Details
+ Details
 
-Ethernet Expansion Card
+ Ethernet Expansion Card
 ----------
 
-Supporting 2.5Gbit/s and 10/100/1000Mbit/s Ethernet, the Ethernet Expansion Card gives you ultra fast and reliable networking over an RJ45 jack. The clear housing lets you peek at the RTL8156 controller that powers it.
+ Supporting 2.5Gbit/s and 10/100/1000Mbit/s Ethernet, the Ethernet Expansion Card gives you ultra fast and reliable networking over an RJ45 jack. The clear housing lets you peek at the RTL8156 controller that powers it.
 
 Close
 
-\+€45
+ \+€45
 
-DisplayPort (2nd Gen)
+ DisplayPort (2nd Gen)
 
-Details
+ Details
 
-DisplayPort (2nd Gen) Expansion Card
+ DisplayPort (2nd Gen) Expansion Card
 ----------
 
-The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
+ The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
 
 Close
 
-\+€20
+ \+€20
 
-MicroSD Expansion Card
+ MicroSD Expansion Card
 
-Details
+ Details
 
-MicroSD Expansion Card
+ MicroSD Expansion Card
 ----------
 
-Supporting MicroSD UHS-I cards as well as the new UFS Card standard for huge performance improvements on read, write, and random access.
+ Supporting MicroSD UHS-I cards as well as the new UFS Card standard for huge performance improvements on read, write, and random access.
 
 Close
 
-\+€20
+ \+€20
 
-SD
+ SD
 
-Details
+ Details
 
-SD Expansion Card
+ SD Expansion Card
 ----------
 
 The SD Expansion Card supports UHS-I and UHS-II, letting you transfer data to and from SD Cards of all available capacities.
 
 Close
 
-\+€29
+ \+€29
 
-Storage Expansion Cards
+ Storage Expansion Cards
 
-250GB (2nd Gen)
+ 250GB (2nd Gen)
 
-\+€50
+ \+€50
 
-1TB (2nd Gen)
+ 1TB (2nd Gen)
 
-\+€140
+ \+€140
 
-Ships within 5 business days. [30-day return guarantee + limited warranty](/de/en/warranty) Free shipping on laptop orders
+ Ships within 5 business days. [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop orders

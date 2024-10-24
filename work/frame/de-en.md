@@ -3,7 +3,7 @@
 
 **Customize, upgrade, repair. Now with the latest Intel® processors.**
 
-[Shop now](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new)[Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
+[Shop now](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new) [Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
 
 [##### “The Framework Laptop is the best—and so far only—option if you want a laptop you can easily upgrade and repair.” #####](https://www.nytimes.com/wirecutter/reviews/best-laptops/#the-most-repairable-laptop)
 
@@ -46,7 +46,7 @@ AMD-powered with upgradeable, modular, latest-generation graphics.
 Get the latest news and product updates from Framework
 ----------
 
-Subscribe
+ Subscribe
 
 Monthly-ish
 
