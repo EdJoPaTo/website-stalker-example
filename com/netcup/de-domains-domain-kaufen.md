@@ -23,7 +23,7 @@ pro Monat
 
 [Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
 
-Länder Domains
+.at Domain
 
 ab 0,88 € pro Monat
 
@@ -33,9 +33,9 @@ pro Monat ab
 
 (incl. 0% VAT)
 
-[Domains anzeigen](https://www.netcup.com/de/domain/zusaetzliche-domain-at)
+[Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-at)
 
-Globale Domains
+.com Domain
 
 ab 1,03 € pro Monat
 
@@ -45,7 +45,7 @@ pro Monat ab
 
 (incl. 0% VAT)
 
-[Domains anzeigen](https://www.netcup.com/de/domain/zusaetzliche-domain-com)
+[Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-com)
 
 neue Domains
 
@@ -57,7 +57,7 @@ pro Monat ab
 
 (incl. 0% VAT)
 
-[Domains anzeigen](https://www.netcup.com/de/domains/domain-endungen)
+[Jetzt bestellen](https://www.netcup.com/de/domains/domain-endungen)
 
 Domain registrieren – Worauf soll ich achten?
 ----------
