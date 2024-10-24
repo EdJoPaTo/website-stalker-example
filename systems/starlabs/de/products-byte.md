@@ -2,11 +2,21 @@ About
 
 Byte
 
- Welcome to a new era of Linux computing with the Byte Mk II. This compact solution doesn't compromise on the flexibility and control you've come to expect as a Linux user.
+##### Our Latest Mini PC is built for Linux. Mount it behind your monitor to keep your workspace clean, or use the two NICs to make it a server.  #####
 
-With its dual network interface controllers (NICs) and dual video outputs, the Byte Mk II is engineered for unparalleled connectivity. But more than just performance, we know that Linux users value open-source principles and robust security. That's why we've equipped the Byte Mk II with coreboot firmware, an open-source alternative to traditional BIOS, offering advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
+#####
+ #####
 
-The Byte Mk II integrates seamlessly with your Linux operating systems, delivering a smooth, reliable computing experience without the usual hardware compatibility issues. It's not just a machine; it's a testament to what's possible when hardware and software work together harmoniously.
+##### Setup in Minutes (not hours), with Linux pre-installed, it’s designed to work flawlessly out-the-box. #####
+
+#####
+ #####
+
+##### Uncompromising on our open-source principles, this machine runs coreboot firmware, an open-source alternative to traditional BIOS that offers advanced security features such as BIOS Lock, Secure Boot, and Measured Boot. #####
+
+#####
+**BUT DON’T just take our word for it, see what our customers have to say on [Trustpilot](https://www.trustpilot.com/review/starlabs.systems?languages=all&search=byte)**
+ #####
 
 Processor
 

@@ -102,3 +102,15 @@ Nein, der Preis der Aktion ist dauerhaft gültig. Eine Ausnahme besteht für not
 ### Was soll ich tun, wenn mein Gutscheincode bei netcup nicht funktioniert? ###
 
 In diesem Fall würden wir dich bitten, dich an unseren Support unter folgender E-Mail-Adresse zu melden. Unser [Support](https://helpcenter.netcup.com/de/support)hilft dir bei diesem Anliegen gerne weiter.
+
+### Sind Deals durch limitierte Stückzahlen begrenzt? ###
+
+Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann jedoch vorkommen, dass gewisse Angebote aus diversen Gründen nur bis zu einem gewissen Limit bestellt werden können. In diesem Fall weisen wir jedoch auf der Aktionsseite darauf hin.
+
+### Gibt es ein Bestelllimit pro Person? ###
+
+Grundsätzlich gibt es kein Bestelllimit. Für einige sehr beliebte Produkte gibt aber eine zeitliche Wartefrist nach der Bestellung, bis das Produkt erneut bestellt werden kann. Damit stellen wir sicher, dass alle Kund:innen eine faire Chance auf ein Produkt erhalten.
+
+### Ist die Bestpreis- und Zufriedenheitsgarantie auf die Aktionen anwendbar? ###
+
+Nein, die Bestpreisgarantie ist nicht auf die Aktionen anwendbar. Die Zufriedenheitsgarantie ist allerdings für Aktionen zu Webhosting- und Root-Server-Produkten gültig.
