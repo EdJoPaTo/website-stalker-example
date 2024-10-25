@@ -428,3 +428,18 @@ sites:
           pattern: </a>
           replace: </a><br />
       - html_markdownify
+
+  - url:
+      - https://www.shelly.com/de/collections/smart-lights
+      - https://www.shelly.com/de/collections/smart-monitoring-saving-energy
+      - https://www.shelly.com/de/collections/switching-triggering
+      - https://www.shelly.com/de/collections/smart-heating-climate-control-hvac
+    editors:
+      - css_select: product-card .card__content:has(h3)
+      - css_remove: svg, picture, img, script
+      - css_sort:
+          selector: body > *
+          sort_by:
+            - css_select: h3
+            - html_textify
+      - html_markdownify
