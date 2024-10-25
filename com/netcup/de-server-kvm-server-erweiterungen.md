@@ -20,7 +20,7 @@ Zusätzliche IPv4-AdresseZusätzliche IPv4-Adresse, die auf einen Root-Server, S
 
 Failover IPv4-AdresseIPv4-Adresse, die auf mehreren Root-Server, Storage-Server oder VPS genutzt werden kann.
 
-[pro Monat inkl. 0% MwSt. 4,20 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/failover-ipv4)
+[pro Monat inkl. 0% MwSt. 4,20 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/failover-ipv4)
 
  Zusätzliches /64 IPv6 SubnetZusätzliches /64 IPv6-Subnet, das auf einen Root-Server, Storage-Server oder VPS gebunden werden kann.
 
