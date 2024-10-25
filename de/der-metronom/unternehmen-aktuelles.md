@@ -15,7 +15,7 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE4/RB41: Streckensperrung zwischen Hamburg Hbf und Bremen Hbf](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-zwischen-hamburg-hbf-und-bremen-hbf/)
+[RE4/RB41(/RE3/RB31/RE2): Streckensperrung zwischen Hamburg Hbf und Bremen Hbf](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-zwischen-hamburg-hbf-und-bremen-hbf/)
 
  Uelzen - 25.10.2024
 
