@@ -6,6 +6,84 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: October 25th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4695658272798048189</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 25, 2024
+			</h5>
+			<div>
+				The Steam Deck Client Beta has been updated with the following changes:
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed multi-line mode support in the dialog shown by the ShowGamepadTextInput API call in Steamworks
+						<br>
+					</li>
+					<li>
+						Fix keyboard input dialog in-game failing to close/re-open properly if Steam Overlay is toggled while visible
+						<br>
+					</li>
+					<li>
+						Fix progress bar not updating during game update and move operations involving large files
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added support for automatic gain control for recording microphone
+						<br>
+					</li>
+					<li>
+						Added support for forcing microphone input to mono for misconfigured stereo mic setups
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Always allow the Steam client to fallback to X11 when SDL_VIDEODRIVER/SDL_VIDERO_DRIVER is set to wayland.
+						<br>
+					</li>
+					<li>
+						Remove the UI toggle to disable Steam Play globally, correctly reflecting that Steam Play is always enabled on Linux. Steam Play was always partially active even when set to off in the UI as it is a requirement for Steam client operation.
+						<br>
+					</li>
+					<li>
+						Fix overlay hanging for some games in Desktop mode after the game restarts itself
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695658272798048189" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.19 Stable Release</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4695658043402145760</link>
 			<content:encoded><![CDATA[<html>
@@ -612,51 +690,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4697909023285567488" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.18 Beta: The Color at the End of the End of the Line</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4697908845433562217</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 11, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed a possible crash when using Steam Deck as the Remote Play host
-						<br>
-					</li>
-					<li>
-						Fixed colorspace for Game Recording
-						<br>
-					</li>
-					<li>
-						Improved color range when using Remote Play to Steam Deck
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4697908845433562217" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
