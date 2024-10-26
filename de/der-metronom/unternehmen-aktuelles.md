@@ -15,13 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE4/RB41: Beeinträchtigungen zwischen Hamburg Hbf und Bremen Hbf](https://www.der-metronom.de/aktuell/re4-rb41-streckensperrung-zwischen-hamburg-hbf-und-bremen-hbf/)
-
- Uelzen - 25.10.2024
-
-Moin liebe Fahrgäste,
-aufgrund einer Fahrzeug- und einer Oberleitungsstörung kommt es zu Einschränkungen auf der metronom-Linie RE4/RB41. Diese Einschränkungen werden vermutlich bis Betriebsschluss am frühen Samstagmorgen andauern. Informiert euch daher vor Fahrtantritt und plant mehr...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
  Uelzen - 13.09.2024
