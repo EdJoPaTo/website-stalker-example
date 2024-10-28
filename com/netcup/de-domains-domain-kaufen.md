@@ -19,7 +19,7 @@ pro Monat
 
 0,35 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
 
@@ -31,7 +31,7 @@ pro Monat ab
 
 0,88 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-at)
 
@@ -43,7 +43,7 @@ pro Monat ab
 
 1,03 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-com)
 
@@ -55,7 +55,7 @@ pro Monat ab
 
 0,90 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/domains/domain-endungen)
 
