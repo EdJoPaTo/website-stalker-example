@@ -51,8 +51,6 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
-[24.10.2024 - 27.10.2024 RE4/RB41: Teilausfälle zwischen Rotenburg - Bremen](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-rotenburg-bremen/)
-
 [31.10.2024 - 03.11.2024 RE4/RB41: Teilausfälle zwischen Hamburg Hbf \<\> Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-hamburg-harburg/)
 
 [04.11.2024 - 10.11.2024 RE4/RB41: Teilausfälle zwischen Rotenburg und Bremen und vereinzelnd zwischen Hamburg-Harburg \<\> Hamburg Hbf](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-rotenburg-und-bremen-und-vereinzelnd-zwischen-hamburg-harburg-hamburg-hbf/)
