@@ -185,7 +185,7 @@ zzgl. Versandkosten
   * [Brand News](https://www.engelbert-strauss.de/brand-news)
   * [Karriere](https://www.engelbert-strauss.de/Unternehmen/Karriere)
   * [Ausbildung](https://www.engelbert-strauss.de/Unternehmen/Karriere/Ausbildung)
-  * [Presse](https://www.engelbert-strauss.de/Unternehmen/Presse/Presseberichte)
+  * [Presse](https://presse.strauss.com/)
   * [Nachhaltigkeit](https://www.engelbert-strauss.de/Nachhaltigkeit)
   * [Messen](https://www.engelbert-strauss.de/Unternehmen/Messen)
   * [Workwearstore](https://www.engelbert-strauss.de/Unternehmen/workwearstore)
