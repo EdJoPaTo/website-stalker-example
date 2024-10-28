@@ -28,7 +28,7 @@ VPS 250 G11s
 
 3,35 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-200-g11s)
 
@@ -45,7 +45,7 @@ VPS 500 G11s
 
 4,00 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-500-g11s)
 
@@ -62,7 +62,7 @@ VPS 1000 G11
 
 5,75 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-1000-g11-12m)
 
@@ -79,7 +79,7 @@ VPS 2000 G11
 
 12,60 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-2000-g11-12m)
 
@@ -96,7 +96,7 @@ VPS 3000 G11
 
 17,00 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-3000-g11-12m)
 
@@ -113,7 +113,7 @@ VPS 4000 G11
 
 21,50 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-4000-g11-12m)
 
@@ -130,7 +130,7 @@ VPS 6000 G11
 
 26,00 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-6000-g11-12m)
 
@@ -147,7 +147,7 @@ VPS 8000 G11
 
 32,00 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-8000-g11-12m)
 
