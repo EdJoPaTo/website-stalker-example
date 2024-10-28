@@ -58,7 +58,7 @@
 				<br>
 				<ul>
 					<li>
-						Always allow the Steam client to fallback to X11 when SDL_VIDEODRIVER/SDL_VIDERO_DRIVER is set to wayland.
+						Always allow the Steam client to fallback to X11 when SDL_VIDEODRIVER/SDL_VIDEO_DRIVER is set to wayland.
 						<br>
 					</li>
 					<li>
