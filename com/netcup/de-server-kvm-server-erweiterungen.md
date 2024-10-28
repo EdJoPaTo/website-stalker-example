@@ -16,7 +16,7 @@ Netzwerk Erweiterungen
 
 Zusätzliche IPv4-AdresseZusätzliche IPv4-Adresse, die auf einen Root-Server, Storage-Server oder VPS gebunden werden kann.
 
-[pro Monat inkl. 0% MwSt. 1,68 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/zusaetzliche-ipv4)
+[pro Monat inkl. 0% MwSt. 1,68 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/zusaetzliche-ipv4)
 
 Failover IPv4-AdresseIPv4-Adresse, die auf mehreren Root-Server, Storage-Server oder VPS genutzt werden kann.
 
@@ -24,7 +24,7 @@ Failover IPv4-AdresseIPv4-Adresse, die auf mehreren Root-Server, Storage-Server 
 
  Zusätzliches /64 IPv6 SubnetZusätzliches /64 IPv6-Subnet, das auf einen Root-Server, Storage-Server oder VPS gebunden werden kann.
 
-[pro Monat inkl. 0% MwSt. 0,84 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen/zusaetzliches-ipv6-subnet)
+[pro Monat inkl. 0% MwSt. 0,84 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/zusaetzliches-ipv6-subnet)
 
 Failover IPv6-SubnetIPv6-Subnet, das auf mehreren Root-Servern, Storage-Server oder VPS genutzt werden kann.
 
