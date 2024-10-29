@@ -25,7 +25,7 @@ Damit du nicht von neuen Baustellen überrascht wirst, informieren wir dich scho
 
 RE2 Hannover - Northeim - Göttingen
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+[12.11.2024 - 15.11.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur Euro Tier Messe vom 12. - 15.11.2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-euro-tier-messe-vom-12-15-11-2024/)
 
 RE2 + RE3 Uelzen - Celle - Hannover
 

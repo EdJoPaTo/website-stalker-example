@@ -1,14 +1,191 @@
 netcup Deals
 ==========
 
-Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains.
 
-[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+[Jetzt Deal sichern](https://www.netcup.com/de/deals#deals)
 
-Sichere dir schaurig gute Deals ab 29. Oktober
-----------
+* Alle (0)
 
-Es ist wieder soweit: Passend zur Halloween-Woche gibt es ab 29.10. 10 Uhr wieder unheimlich gute Angebote. Mit dabei sind einige Domain-Deals, VPS und VPS ARM Produkte, sowie Webhosting an den beliebtesten Standorten. Weitere Details erfährst du ab Aktionsstart hier auf dieser Seite. Folge uns auf [X](https://x.com/netcup_global), [Facebook](https://www.facebook.com/profile.php?id=61560847662410) und [Mastodon](https://netcup.cafe/@netcup_global) oder abonniere den [netcup Newsletter](https://mautic.netcup.news/newsletter-anmeldung) sowie [WhatsApp-Channel](https://whatsapp.com/channel/0029VafK8WZKgsNvSJ1ws32p) um keine Updates zu verpassen.
+VPS
+
+### VPS 1000 ARM G11 SE SPS24 ###
+
+ \+ 100 % SSD
+
+* 6 vCore (ARM64)
+* Standort: Nürnberg oder Wien
+* 8 GB RAM
+
+* Verfügbar bis: 30.10. 10 Uhr
+* 512 GB NVMe SSD (statt 256 GB)
+
+monatlich ab
+
+5,84 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/arm-server/vps-1000-arm-g11-se-vie-sps24)
+
+VPS
+
+### VPS 3000 ARM G11 SE SPS24 ###
+
+ \+ 100 % SSD
+
+* 12 vCore (ARM64)
+* Standort: Nürnberg oder Wien
+* 24 GB RAM
+
+* Verfügbar bis: 30.10. 10 Uhr
+* 1536 GB NVMe SSD (statt 768 GB)
+
+monatlich ab
+
+14,24 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/arm-server/vps-3000-arm-g11-se-vie-sps24)
+
+VPS
+
+### VPS 8000 ARM G11 SE SPS24 ###
+
+ \+ 4 vCores / + 50 % SSD
+
+* 22 vCore (statt 18 vCore), ARM64
+* Standort: Nürnberg oder Wien
+* 64 GB RAM
+
+* Verfügbar bis: 30.10. 10 Uhr
+* 3072 GB NVMe SSD (statt 2048 GB)
+
+monatlich ab
+
+30,03 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deals sichern](https://www.netcup.com/de/server/arm-server/vps-8000-arm-g11-se-vie-sps24)
+
+VPS
+
+### VPS 2000 G11 SE SPS24 ###
+
+ \+ 100 % SSD
+
+statt ab 13,85 €
+
+* 8 vCore (x86)
+* Standort: Nürnberg oder Wien
+* 16 GB ECC RAM
+
+* Verfügbar bis: 30.10. 10 Uhr
+* 1024 GB NVMe SSD (statt 512 GB)
+
+pro Monat
+
+12,60 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-sps24)
+
+Webhosting
+
+### Webhosting 4000 SPS24 ###
+
+ 42 % Rabatt
+
+statt 5,48 €
+
+* 500 GB SSD Speicherplatz
+* Standort: Nürnberg oder Wien
+* SSL-Zertifikate inklusive
+
+* SSH Zugang vorhanden
+* bis zu 6 .de-Domains oder
+  2 Alternativdomains inklusive
+* Verfügbar bis: 30.10. 10 Uhr
+
+pro Monat
+
+3,16 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-sps24)
+
+Domains
+
+### AKTION .com Domain SPS24 ###
+
+ 18 % Rabatt
+
+statt 1,16 €
+
+* DNSSEC, API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,95 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-com-domain-sps24)
+
+Domains
+
+### AKTION .eu Domain SPS24 ###
+
+ 46 % Rabatt
+
+statt ab 0,66 €
+
+* DNSSEC, API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,35 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-eu-domain-sps24)
+
+Domains
+
+### AKTION .cloud-Domain SPS24 ###
+
+ 14 % Rabatt
+
+statt ab 1,95 €
+
+* DNSSEC, API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+1,66 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-cloud-domain-sps24)
 
 Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 

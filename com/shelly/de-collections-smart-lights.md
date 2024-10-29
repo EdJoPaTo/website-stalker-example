@@ -186,7 +186,7 @@ Grundpreis /  pro
 
  Lichter
 
-### [Shelly Plus 1 x1](/de/products/shelly-plus-1-x1)  ###
+### [Shelly Plus 1](/de/products/shelly-plus-1-x1)  ###
 
 Normaler Preis  €17,73
 
