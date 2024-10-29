@@ -6,6 +6,49 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: October 28th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4695658570140633674</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 28, 2024
+			</h5>
+			<div>
+				The Steam Deck Client Beta has been updated with the following changes:
+				<br>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Reduced clip export/share time in many cases when exporting native resolution, codec, and frame rate.
+						<br>
+					</li>
+					<li>
+						Added ability to start/stop recording of a clip via manual recording shortcut key, when in background recording mode
+					</li>
+				</ul>
+				<br>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695658570140633674" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: October 25th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4695658272798048189</link>
 			<content:encoded><![CDATA[<html>
@@ -638,58 +681,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695657593802065002" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: October 15th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4697909023285567488</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 15, 2024
-			</h5>
-			<div>
-				The Steam Deck Client Beta has been updated with the following changes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where the Bluetooth settings tab would disappear if the system was in sleep mode for an extended period of time and resumed without an internet connection.
-						<br>
-					</li>
-					<li>
-						Re-enabled remote install from Steam client via the streaming dropdown.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue where bindings that were present from converting a configuration from one controller type to another could be active but not removable due to being filtered out of the binding interface.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4697909023285567488" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
