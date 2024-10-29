@@ -43,6 +43,8 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [04.11.2024 - 10.11.2024 RE2/RE3/RB31: Veränderte Fahrzeiten und Zugausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-veraenderte-fahrzeiten-und-zugausfaelle/)
 
+[12.11.2024 - 17.11.2024 RE3/RB31: einzelne Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-einzelne-haltausfaelle/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [31.10.2024 - 03.11.2024 RE4/RB41: Teilausfälle zwischen Hamburg Hbf \<\> Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-hamburg-hbf-hamburg-harburg/)

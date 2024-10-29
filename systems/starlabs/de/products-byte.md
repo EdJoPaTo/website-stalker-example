@@ -2,21 +2,11 @@ About
 
 Byte
 
-##### Our Latest Mini PC is built for Linux. Mount it behind your monitor to keep your workspace clean, or use the two NICs to make it a server.  #####
+Our Latest Mini PC is built for Linux. Mount it behind your monitor to keep your workspace clean, or use the two NICs to make it a server.
 
-#####
- #####
+Setup in Minutes (not hours), with Linux pre-installed, it’s designed to work flawlessly out-the-box.
 
-##### Setup in Minutes (not hours), with Linux pre-installed, it’s designed to work flawlessly out-the-box. #####
-
-#####
- #####
-
-##### Uncompromising on our open-source principles, this machine runs coreboot firmware, an open-source alternative to traditional BIOS that offers advanced security features such as BIOS Lock, Secure Boot, and Measured Boot. #####
-
-#####
-**BUT DON’T just take our word for it, see what our customers have to say on [Trustpilot](https://www.trustpilot.com/review/starlabs.systems?languages=all&search=byte)**
- #####
+Uncompromising on our open-source principles, this machine runs coreboot firmware, an open-source alternative to traditional BIOS that offers advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
 
 Processor
 
