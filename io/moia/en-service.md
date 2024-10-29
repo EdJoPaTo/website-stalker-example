@@ -3,44 +3,34 @@ Working together towards the mobility transition
 
 Ridepooling is already making a significant contribution to the mobility transition in cities.
 
-**At MOIA, we want to make an important contribution to the mobility transition in cities. Because we are convinced that ridepooling makes our cities more liveable, safer and more beautiful - for everyone.**
+**At MOIA, we’re passionate about contributing to the mobility transition in cities. Ridepooling offers a flexible and dependable alternative to owning a car. Our mission is to complement public transport and reduce reliance on personal vehicles. By working hand-in-hand with both public and private mobility providers, we’re shaping urban travel to be more sustainable and comfortable, driving the change towards better mobility.**
 
-Our Service: ridepooling
+Our service: smart mobility solutions for you and the planet
 ----------
 
-Comfortable, affordable and environmentally friendly: Ridepooling is already making a significant contribution to the mobility transition in cities. It involves people pooling their journeys with others who want to go in a similar direction, the number of cars on the roads is cut, existing infrastructure is used more efficiently and traffic problems, such as air pollution, congestion, noise and lack of space, are reduced. However, ridepooling only becomes a real alternative to owning a car when it complements public transport in a worthwhile and optimum way.
+Ridepooling brings together passengers heading in similar directions, making shared journeys easy. With our app, you can book and pay for rides effortlessly. A smart algorithm creates fast and efficient routes, making ridepooling not just convenient, but also a greener way to get around. It reduces the number of cars on the road, makes better use of the existing infrastructure, and helps cut air pollution, noise, and traffic.
 
- Together to the goal: ridepooling in public transport
-
-Our driving force: partnership
+Our vision: making cities even more livable
 ----------
 
-As a partner for cities, we work closely with public and private mobility providers who share our vision: Focused on the user, we want to shape mobility in cities to be so demand-oriented, flexible and attractive that we can succeed together in the mobility transition. The amendment to the Passenger Transport Act (PBefG) also lays down in law the new digital mobility services in the cities.
+We work closely with mobility providers to shape urban transportation that is both flexible and responsive. As an on-demand transport service, we play a key role in Hamburg’s public transport network and actively support the Hamburg-Takt initiative. This initiative aims for 80% of all trips by 2030 to be made using eco-friendly modes of transport, such as buses, trains, bicycles, and walking, instead of motorised individual traffic. As bus and rail services continue to expand, our on-demand ridepooling helps fill the gaps, making it easier to reach this important goal.
 
-And with innovative, integrative service offers, we are taking the next steps together with our partners - when, for example, passengers can also book their MOIA via the Hamburger Hochbahn’s [hvv switch app](https://hvv-switch.de/en/). When our [night service](https://www.moia.io/en/news-center/moia-enhances-night-time-mobility-options-on-behalf-of-the-city-of-hamburg) supports the public transport system of the city of Hamburg during the pandemic lockdown. Or when we team up with Volkswagen Commercial Vehicles and Mobileye to develop autonomous ridepooling on Hamburg's roads.
-
-Our vision: scaling
+Our users: co-creation with the best
 ----------
 
-Together with our partners, we can quickly develop new concepts and service models and actively shape the mobility market of the future. So we are already thinking big - but by focusing on the cities of Hamburg and Hanover, we first concentrate on our development: In a service area totalling around 470 km² we are developing the "blueprint" for how ridepooling can be best integrated into our urban mobility as a sustainable alternative.
+To provide our users with a comfortable electric mobility experience, it’s essential for us to truly understand their needs. In our co-creation processes, we collaborate with our customers to develop innovative ideas and solutions and place great emphasis on understanding their user habits. Many of the suggestions generated during these sessions have already made their way into our vehicles and services. We also plan to conduct extensive tests with our users on autonomous ridepooling to gain valuable insights and further enhance the MOIA experience—ensuring that our mobility offerings are enjoyed by everyone.
 
-We are constantly evaluating how we can expand our service in the future in order to effectively improve the mobility system as we know it today. We are not only optimizing our existing services, but also investigating autonomous ridepooling in new cities with the help of scientifically sound simulation models.
-
- At MOIA we create ridepooling holistically
-
-The whole journey from one source
+Our evolution: from driver-based to autonomous ridepooling
 ----------
 
-Ridepooling is an important building block for the flexible, sustainable and multimodal mobility of tomorrow. And at MOIA, we think along the entire value chain from start to finish: Digital product development comes from the same source as the operational management of vehicles, fleet and drivers and is deeply rooted in software and hardware.
+We’re constantly evolving our service to make our mobility solution even more efficient and flexible. At the heart of this transformation is autonomous driving, which offers a larger ridepooling fleet that, in turn, not only helps us advance the mobility transition but also allows us to effectively implement the Hamburg-Takt initiative.
 
-The fact that we are taking such a comprehensive approach here not only offers our users an especially seamless riding experience in our all-electric MOIAs, which have been specially developed for ridepooling. It also makes us more efficient, more flexible and faster - for example, when it concerns working with leading industry partners to bring autonomous driving technologies to the road as on-demand ride-pooling.
+Thanks to our partnership with Volkswagen Commercial Vehicles and Mobileye, we’re bringing autonomous driving right to the streets of Hamburg. This collaboration enables us to fully harness the benefits of autonomous ridepooling, making a valuable contribution to innovative urban mobility.
 
-Co-creation with the best: our users
+Hamburg: the blueprint for the future of autonomous mobility
 ----------
 
-In order to provide our users with comfortable and affordable electromobility, we need to understand our customers needs. Within their individual everyday mobile life - and across all age groups. In our continuous co-creation processes, we therefore put research into user behaviour at the centre of our product development. Many ideas have already been incorporated into our emission-free cars and into the service we provide.
-
-In addition to this, comprehensive empirical data\* gives us new insights into how we can optimise the MOIA experience and thus influence the mobility behaviour of our users so that they choose sustainable mobility solutions much more often. High customer satisfaction shows that we are already on the right track.
+Drawing from our valuable experiences in Hamburg and Hannover, we’re supporting other cities and transport operators in successfully adopting advanced and eco-friendly on-demand mobility solutions. Our licensing model offers a comprehensive package — ranging from operational and software solutions to personalised consulting. It’s flexible and adaptable, making it suitable for both driver-operated and future autonomous ridepooling services. This way, we ensure that each city can achieve its mobility goals in the best possible way.
 
 ### Good to know ###
 

@@ -3,65 +3,65 @@ The transformation has begun
 
 New mobility solutions are technical, but above all social innovations.
 
-**At MOIA, we are using autonomous driving as a key technology to accelerate the expansion of ridepooling. As a tech company, our goal is to turn autonomous vehicles into intelligent tools for safe, affordable and sustainable mobility in cities.**
+**At MOIA, we see autonomous driving as the key technology for shaping the future of ridepooling. As an innovative tech company, we aim to develop autonomous vehicles to deliver cutting-edge solutions that ensure safe, affordable, and sustainable mobility in our cities.**
 
->
->
->
->
->
->
-> *"* An important piece of the puzzle is missing in order to be able to offer public transport at the same level throughout Hamburg in a few years and, in perspective, to be able to give every Hamburg resident access to a public mobility service within 5 minutes, so that public transport becomes even more attractive and a good alternative to the private car. This piece of the puzzle can be on-demand ridepooling offers.*"*
-> ----------
->
->
-> >  Dr Anjes Tjarks, Senator for Transport and Mobility Change of the Free and Hanseatic City of Hamburg
->
->
->
->
->
->
-
-Together with Volkswagen Commercial Vehicles we have made it our goal to develop an autonomous, internationally scalable ridepooling system in Hamburg. Because there is great potential in autonomous ridepooling services in particular: It reduces traffic, increases road safety, and thus makes a greater contribution to the mobility revolution and even more liveable cities. On top of the technological and legal challenges we face with autonomous ridepooling, we still have to work above all on its acceptance by city dwellers and future users.
-
-From the autonomous vehicle to autonomous service
+What is autonomous driving?
 ----------
 
-For modern transport systems, integrated, digitised processes, electric fleets and autonomous driving systems are today becoming a prerequisite. For us, however, they are also an important building block for our further development as MOIA. Autonomous driving allows us to expand our existing fleet to make our service accessible to even more people and be more flexible in adapting to their needs. Because, for example, we can then be on the road in outlying districts as well - or offer even more trips at peak times.
+Autonomous driving opens up an exciting future where vehicles become increasingly self-sufficient. By incorporating advanced automation systems into vehicles, we enable an accurate awareness of the surrounding environment. Radar, Lidar, and cameras continuously gather data, which is processed by powerful computers using intelligent algorithms. The result? Vehicles navigate safely and reliably through complex traffic situations, allowing passengers to sit back and relax.
 
-Close partnerships are particularly important for the whole thing to find its way onto the streets commercially in the future: The vehicle, the ID. Buzz AD, was developed by [Volkswagen Commercial Vehicles](https://www.volkswagen-nutzfahrzeuge.de/de.html). And we at MOIA take care of turning the autonomous vehicles into efficient tools for an autonomous mobility service. The city of Hamburg is our "blueprint" for laying the foundations for the development and testing of technologies and operational processes along a multi-layered value chain.
+Nowadays, integrated digital processes, electric fleets, and autonomous driving systems are essential for modern transportation. For us, these elements are also crucial building blocks for our evolution. Autonomous driving enables us to expand our existing fleet, making our service even more accessible and adaptable to the needs of more people. For instance, it allows us to serve outer districts and offer more rides during peak times.
 
- The simplified MaaS (Mobility as a Service) value chain
+This technology has the potential to enhance traffic safety while making urban mobility both more efficient and sustainable.
 
-Because we are talking about a completely new technology with autonomous ridepooling, we cannot fully rely on existing empirical values. A special feature of the pilot project is therefore the early combination of technology, operation and customer experience. It allows us to test the operating procedures under real conditions in a safe and systematic setup. We will start in an initial test area in Hamburg: East of the Alster, it includes parts of Winterhude, Uhlenhorst and Hohenfelde and a route network of about 50 kilometres.
-
-With complex road conditions and many traffic challenges, it offers ideal conditions for us. In addition to public transport, autonomous ridepooling can also relieve traffic congestion. To prepare for the deployment of the autonomous driving vehicles, it has already been started surveying (mapping) the service area. Intensive test drives with and without passengers as well as testing of the now increasingly automated tasks in the vehicle, which are currently performed by our drivers, will also follow.
-
-**From departure to arrival autonomously**
+The benefits of autonomous ridepooling
 ----------
 
-For autonomous ridepooling to be successful, it needs more than just a vehicle and a self-driving system (SDS). At MOIA, we are looking at how to automate service and fleet management processes so that the autonomous product experience runs smoothly - and remains positive throughout. This is not just about building trust in the new technology. In order to offer a comprehensive service, autonomous ridepooling must also be able to deal with any situation that a driver might otherwise deal with on board.
+Autonomous ridepooling brings a wide array of advantages for urban mobility:
 
- We ride ahead: our vision of autonomous ridepooling
+* **Less t****raffic:** With large fleets of autonomous vehicles, we can reduce the number of private cars on the road, alleviating traffic while making a positive contribution to climate protection.
+* **Eco-friendliness:** Electrically operated autonomous vehicles help lower CO2 emissions, improve air quality, and reduce noise pollution – creating a cleaner, quieter environment.
+* **Enhanced safety****:** Thanks to advanced sensors and intelligent algorithms, autonomous vehicles can detect and avoid hazards faster than human drivers, leading to safer roads for everyone.
+* **Equitable mobility:** Autonomous vehicles provide reliable transportation options that are available around the clock, improving access to mobility for everyone.
+* **Innovative business models:** This technology supports sustainable business models for local transport providers and fosters a future-ready public transportation system.
 
-Is the right person getting on? Is the number of people correct? Is everyone sitting in their seats? Is the luggage well stowed? But the autonomous system also has to master new stops, road works and closures, the automated departure, the break to load the vehicle and the return journey to the hub just as much as it does the matter of whether all passengers on board are happy. With our current expertise, we already know what is important in all these challenges. And in the future, autonomous operation will continue to exist alongside driver-driven vehicles. Only in this way can we continue to develop MOIA as a service as it is today, on all levels, in order to take it to a whole new level autonomously.
+* **Solutions for driver shortages:** Automating vehicles helps address the growing shortage of drivers, ensuring that public transport remains reliable for all.
 
- The ID.Buzz from VWN in test operation Hamburg
-
-With simulations that create knowledge ...
+Autonomous from A to B
 ----------
 
-New mobility solutions are technical, but above all social innovations too. At MOIA, therefore, we have a responsibility to also research their complex effects on transport, the environment and spatial structure. The MOIA accompanying research\* is Europe’s first, largest and scientifically independent long-term study on ridepooling. Together with the Karlsruhe Institute of Technology (KIT) and the Technical University of Munich, we have collected comprehensive findings on the use of MOIA and, using the example of Hamburg, modelled and analysed the effects on an urban transport system - today and for the future.
+For autonomous ridepooling to thrive, it requires more than just a vehicle and a self-driving system (SDS). We focus on automating processes in service and fleet management to ensure that the autonomous product experience runs smoothly and remains consistently positive.
 
-It is very clear that close cooperation between ridepooling, traditional public transport and the city is necessary in order to achieve the mobility transition. New mobility services ideally complement a strong public transport system and thus offer a comprehensive mobility service that can replace the private car. MOIA Mobility Consulting builds on the knowledge gained and evaluates autonomous ridepooling in new cities with the help of scientifically sound simulation models.
+Building trust in this new technology is essential; however, to offer comprehensive service, autonomous ridepooling must effectively manage all situations previously handled by drivers. This includes navigating through construction zones and traffic diversions, reaching new stops, planning charging breaks, and returning to the hub.
+
+It also addresses key questions like:
+
+* Is the right person getting in?
+* Is the number of passengers correct?
+* Are all passengers seated securely?
+* Is the luggage properly stowed?
+* Are all passengers on board feeling well?
+
+Our vision for autonomous ridepooling is rooted in solid expertise and extensive experience. Given our current capabilities, we already understand the essential aspects of these challenges. Advancing MOIA on all fronts is the goal – transforming the service it is today into a whole new level of autonomous mobility.
+
+Current status of testing in Hamburg
+----------
+
+Our ongoing tests in Hamburg mark an exciting step towards evaluating the performance and safety of our autonomous ridepooling service under real-world conditions. We aim to find out how our system functions across different traffic scenarios and pinpoint necessary adjustments to further improve the service. A key objective of these tests is to strengthen trust in the technology and lay the groundwork for a broad rollout of autonomous ride services.
+
+We have selected a testing area that offers typical urban conditions – ranging from busy city streets to quieter residential neighbourhoods. This allows us to assess the autonomous system in different traffic situations and ensure it operates reliably.
+
+Testing will take place over several months. During this period, we'll conduct regular driving tests alongside specialised scenario tests to thoroughly examine all aspects of autonomous driving. Driving tests will evaluate the overall performance of the vehicle, while scenario tests will simulate challenging situations to ensure the system's reliability and safety.
+
+A select group of test participants will have the opportunity to experience autonomous driving in realistic conditions and provide valuable feedback. This testing phase will help us gain practical insights and identify potential improvements early on, allowing us to optimise our service further and prepare it for the market. We’re excited about the results and look forward to embarking on the next phase of our thrilling journey.
+
+Creating knowledge through simulations
+----------
+
+New mobility solutions aren’t just technical innovations - they also represent social progress. We’re committed to understanding how our solutions impact transportation, the environment, and urban landscapes. We recognise the far-reaching effects of these innovations and take our responsibility to investigate them seriously: our MOIA companion research\* is Europe’s largest scientifically independent long-term study on ridepooling. In collaboration with the Karlsruhe Institute of Technology (KIT) and the Technical University of Munich, we've collected extensive data on MOIA usage and examined its impact on the urban transportation system in Hamburg – both now and in the future.
 
 ### Good to know ###
 
 \*) Find more insights about our research.
 
 [Research PDF](https://www.moia.io/news-center/downloads/220201_MOIA_Report_Results_MOIA-study.pdf)
-
- Our scientific partnerships
-
- We use simulations to test and explore future mobility scenarios
