@@ -1,13 +1,17 @@
 netcup Deals
 ==========
 
-Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains.
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Jetzt Deal sichern](https://www.netcup.com/de/deals#deals)
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+
+Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
 * Alle (0)
 
 VPS
+
+ Deal abgelaufen
 
 ### VPS 1000 ARM G11 SE SPS24 ###
 
@@ -26,9 +30,9 @@ monatlich ab
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/arm-server/vps-1000-arm-g11-se-vie-sps24)
-
 VPS
+
+ Deal abgelaufen
 
 ### VPS 3000 ARM G11 SE SPS24 ###
 
@@ -47,9 +51,9 @@ monatlich ab
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/arm-server/vps-3000-arm-g11-se-vie-sps24)
-
 VPS
+
+ Deal abgelaufen
 
 ### VPS 8000 ARM G11 SE SPS24 ###
 
@@ -68,9 +72,9 @@ monatlich ab
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deals sichern](https://www.netcup.com/de/server/arm-server/vps-8000-arm-g11-se-vie-sps24)
-
 VPS
+
+ Deal abgelaufen
 
 ### VPS 2000 G11 SE SPS24 ###
 
@@ -91,9 +95,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-sps24)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 4000 SPS24 ###
 
@@ -116,9 +120,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-sps24)
-
 Domains
+
+ Deal abgelaufen
 
 ### AKTION .com Domain SPS24 ###
 
@@ -139,9 +143,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-com-domain-sps24)
-
 Domains
+
+ Deal abgelaufen
 
 ### AKTION .eu Domain SPS24 ###
 
@@ -162,9 +166,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-eu-domain-sps24)
-
 Domains
+
+ Deal abgelaufen
 
 ### AKTION .cloud-Domain SPS24 ###
 
@@ -184,10 +188,6 @@ pro Monat dauerhaft
 1,66 €
 
 (inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-cloud-domain-sps24)
-
-Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
 netcup Angebote zu VPS und Root-Server
 ----------

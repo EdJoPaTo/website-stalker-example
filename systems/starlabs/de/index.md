@@ -46,18 +46,6 @@ Browse our range
 
 [StarFighter 16-inch Laptop](/products/starfighter)
 
-[](/products/starbook-pro)
-
-[StarBook Pro 14-inch Laptop](/products/starbook-pro)
-
-[](/products/starbook-everyday)
-
-[StarBook Everyday 14-inch Laptop](/products/starbook-everyday)
-
-[](/products/starbook-eco)
-
-[StarBook Eco 14-inch Laptop](/products/starbook-eco)
-
 More than just a licence.
 
  A machine you can craft to suit your workflow with our ever-evolving open-source code, that's upstreamed and tuned to perfection. Combined with our unbeatable support, the experience will exceed expections.
