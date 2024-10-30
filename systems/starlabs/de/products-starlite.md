@@ -176,6 +176,8 @@ Optional Accessories
 
 Tempered Glass Screen Protector – 2-Pack
 
+StarLite Mk V Protective Case
+
 USB-C 3.1 (2m)  Charge Cable
 
 USB-C 3.1 (5m)  Charge Cable
