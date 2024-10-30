@@ -6,6 +6,64 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: October 29th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734182370024927</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 29, 2024
+			</h5>
+			<div>
+				The Steam Deck Client Beta has been updated with the following changes:
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed steamwebhelper deleting temp directories that it may not have previously created.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved navigation of Game Recording Settings in Big Picture
+					</li>
+				</ul>
+				<br>
+				<b>
+					Linux
+				</b>
+				<br>
+				<ul>
+					<li>
+						Extend recent Steam Play fixes to third party compatibility tools.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734182370024927" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: October 28th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4695658570140633674</link>
 			<content:encoded><![CDATA[<html>
@@ -616,71 +674,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695657936515505235" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: October 17th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4695657593802065002</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 17, 2024
-			</h5>
-			<div>
-				The Steam Deck Client Beta has been updated with the following changes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Steam developers can now select which Steam for Linux runtime to use for native titles. Please consult the partner site for more details.
-						<br>
-					</li>
-					<li>
-						Native titles will execute in 'Steam for Linux runtime 1.0 (scout)' by default, instead of the legacy runtime environment.
-						<br>
-						This behavior is consistent with Steam Deck and promotes better compatibility across all Linux desktop distributions.
-						<br>
-						Note that this new feature can be turned off globally with "-compat-force-slr off" on the Steam client command line.
-					</li>
-				</ul>
-				<br>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Always show the controller tab in app properties for non-Steam shortcuts
-						<br>
-					</li>
-					<li>
-						Added Invert X and Invert Y to Mouse Regions
-						<br>
-					</li>
-					<li>
-						Scroll Wheel mode can now be chosen from the dropdown in SIAPI games (Inside of Edit Loadout, not Quick Settings)
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695657593802065002" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
