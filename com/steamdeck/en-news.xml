@@ -6,6 +6,51 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.20 Beta: Encore</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734182370070239</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 30, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed an issue where the updater could repeatedly revert you to the previous OS version if certain configuration files were user-modified
+						<br>
+					</li>
+					<li>
+						Fixed an issue with taking multiple screenshots if Game Recording is on
+						<br>
+					</li>
+					<li>
+						Improved performance in Metaphor: ReFantazio by up to 20%
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734182370070239" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: October 29th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734182370024927</link>
 			<content:encoded><![CDATA[<html>
@@ -633,47 +678,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695658043402145760" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.19 Beta: Quiet Stability</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4695657936515505235</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 21, 2024
-			</h5>
-			<div>
-				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed a rare issue where 3.5mm headphones could produce elevated background noise on reconnection until next sleep/resume
-						<br>
-					</li>
-					<li>
-						Fixed an issue where certain games could crash with a 'page allocation failure' after a long play session
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695657936515505235" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
