@@ -60,14 +60,11 @@ Support us
 
 [Join the fight](https://www.openhomefoundation.org/organization/#support-our-work)
 
-More news
-----------
-
 [](https://www.openhomefoundation.org/blog/announcing-the-open-home-foundation/)
 
 Saturday, April 20, 2024
 
-Blog: Announcing the Open Home Foundation
+Announcing the Open Home Foundation
 
  Actions speak louder than words. Which is why we created the Open Home Foundation to secure the radical principles of privacy, choice, and sustainability for smart homes. Read more...
 
