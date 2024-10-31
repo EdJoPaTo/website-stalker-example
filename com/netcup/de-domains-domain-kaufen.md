@@ -37,11 +37,11 @@ pro Monat ab
 
 .com Domain
 
-ab 1,03 € pro Monat
+ab 1,16 € pro Monat
 
 pro Monat ab
 
-1,03 €
+1,16 €
 
 (inkl. 0% MwSt.)
 
