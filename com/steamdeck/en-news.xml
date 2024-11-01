@@ -6,6 +6,76 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: October 31st</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734182370121112</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Oct 31, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed the on-screen keyboard not immediately popping up when games invoke the text entry dialog.
+						<br>
+					</li>
+					<li>
+						Fixed a case where the text entry dialog could lose focus and require moving focus to the buttons and back to the text entry
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added a confirmation dialog to "Delete Recordings" button in settings UI
+						<br>
+					</li>
+					<li>
+						Rearranged some of the game recording settings to better reflect the organization
+						<br>
+					</li>
+					<li>
+						Updated some labels and titles in the session list view of the media manager
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue where using a Steam/QAM button chord in a non-Steam game could leave the desktop config loaded instead of the game's config
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734182370121112" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.20 Beta: Encore</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734182370070239</link>
 			<content:encoded><![CDATA[<html>
@@ -221,463 +291,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695658272798048189" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.19 Stable Release</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4695658043402145760</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 23, 2024
-			</h5>
-			<div>
-				<img src="https://clan.cloudflare.steamstatic.com/images/40893422/ae21a94c8cc7bd4b4ba625e406b82fc0e2656d5b.png">
-				<br>
-				SteamOS 3.6.19 has been released to the Stable channel for Deck with the following changes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Updated to a more recent Arch Linux base, and updated Linux kernel to version 6.5
-						<br>
-						<ul>
-							<li>
-								These updates improve hardware compatibility, system performance, security, and overall system stability
-							</li>
-						</ul>
-					</li>
-					<li>
-						Improved speed of subsequent OS updates
-						<br>
-					</li>
-					<li>
-						Improved reliability of certain microSD card usage scenarios
-						<br>
-					</li>
-					<li>
-						Worked around misdetection of some SanDisk microSD cards
-						<br>
-					</li>
-					<li>
-						Improved responsiveness of session restart in case of session crashes caused by certain GPU errors
-						<br>
-					</li>
-					<li>
-						Fixed an issue where certain games could crash with a 'page allocation failure' after a long play session
-						<br>
-					</li>
-					<li>
-						Improved recovery from situations where the Steam installation could get corrupted
-						<br>
-					</li>
-					<li>
-						Fixed some connectivity failures with access points supporting WPA3 security
-						<br>
-					</li>
-					<li>
-						Fixed a problem where Steam Deck would be unable to connect to certain Wi-Fi 7 access points
-						<br>
-					</li>
-					<li>
-						Fixed game session cursor offset alignment
-						<br>
-					</li>
-					<li>
-						Fixed an issue where a thin grey line could appear at the bottom of the screen during boot in some situations
-						<br>
-					</li>
-					<li>
-						Fixed an issue where the Performance Overlay would spuriously enable itself under certain conditions
-						<br>
-					</li>
-					<li>
-						Fixed an issue preventing sleep on some types of aftermarket SSDs
-						<br>
-					</li>
-					<li>
-						Fixed an issue preventing update checks from working properly on networks with an invalid IPv6 configuration
-						<br>
-					</li>
-					<li>
-						Fixed an issue where touching the left trackpad after sleep could result in a spurious haptic click
-						<br>
-					</li>
-					<li>
-						Fixed a general issue affecting OLED units on 3.5, causing a slow memory leak during gameplay
-						<br>
-					</li>
-					<li>
-						Fixed an issue causing a "Update Error" message when attempting to interact with the update menu on the 'Preview' update channel.
-						<br>
-					</li>
-					<li>
-						Fixed the frame limiter not properly applying in certain situations
-						<br>
-					</li>
-					<li>
-						Fixed an issue where block corruption could appear on screen on certain state transitions
-						<br>
-					</li>
-					<li>
-						Fixed an issue where updating the built-in controller firmware could result in a blank screen during boot
-						<br>
-					</li>
-					<li>
-						Fixed a rare issue where sound output could be corrupted on certain boots
-						<br>
-					</li>
-					<li>
-						Fixed a rare issue where 3.5mm headphones could produce elevated background noise on reconnection until next sleep/resume
-						<br>
-					</li>
-					<li>
-						Fixed an issue where updates would sometimes be applied incorrectly if the unit was powered off abruptly near the end of an OS update
-						<br>
-					</li>
-					<li>
-						Fixed an issue with copy-pasting UTF-8 text across applications
-						<br>
-					</li>
-					<li>
-						Fixed a problem where a Game Recording capture failing could cause subsequent captures to also fail
-						<br>
-					</li>
-					<li>
-						Fixed a crash when using the magnifier tool while game recording is active
-						<br>
-					</li>
-					<li>
-						Fixed colorspace for Game Recording
-						<br>
-					</li>
-					<li>
-						Fixed an issue where colors could appear washed out when using Steam Remote Play as a client
-						<br>
-					</li>
-					<li>
-						Fixed a possible crash when using Steam Deck as the Remote Play host
-						<br>
-					</li>
-					<li>
-						Fixed an issue that could cause videos to stutter in titles such as BlazBlue Centralfiction
-						<br>
-					</li>
-					<li>
-						Fixed an issue with a rare session crash during early startup of ELDEN RING
-						<br>
-					</li>
-					<li>
-						Fixed display regressions with certain titles such as Warriors All-Stars, Disgaea 5 Complete, Vampire: The Masquerade - Reckoning of New York
-						<br>
-					</li>
-					<li>
-						Worked around a bug where HDR couldn't be selected in Halo Infinite
-						<br>
-					</li>
-					<li>
-						Fixed an issue causing temporary files to accrue when using Flatpak
-						<br>
-					</li>
-					<li>
-						Security fix for Flatpak (CVE-2024-42472)
-					</li>
-				</ul>
-				<b>
-					Graphics and Performance
-				</b>
-				<br>
-				<ul>
-					<li>
-						Updated graphics driver to Mesa 24.1, with many performance and other improvements
-						<br>
-					</li>
-					<li>
-						Improved responsiveness of the Steam UI
-						<br>
-					</li>
-					<li>
-						Improved performance and stability in memory pressure situations
-						<br>
-					</li>
-					<li>
-						Slightly improved cold boot time
-					</li>
-				</ul>
-				<b>
-					Display
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved display uniformity, under some conditions (Mura Compensation)
-						<br>
-					</li>
-					<li>
-						Improved display color balance (reduced green tint) at lower brightness levels, under some conditions
-						<br>
-					</li>
-					<li>
-						Improved gamma uniformity (yellow tint), under some conditions
-						<br>
-					</li>
-					<li>
-						Fixed certain specific refresh rates failing to apply on the OLED Limited Edition model
-						<br>
-					</li>
-					<li>
-						Fixed an issue where the internal display could remain blank after disconnecting an external display
-						<br>
-					</li>
-					<li>
-						Fixed an issue where internal display could be abnormally limited to a lower frame rate after disconnecting an external display with VRR enabled
-						<br>
-					</li>
-					<li>
-						Fixed rare situations where switching to Desktop Mode or back could result in a blank screen, or wrong colors
-					</li>
-				</ul>
-				<b>
-					External Display
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed several issues where an external display could remain blank after resuming
-						<br>
-					</li>
-					<li>
-						Fixed an issue where an external display could remain blank if its mode required chroma subsampling
-						<br>
-					</li>
-					<li>
-						Fixed an issue where the system could crash on wakeup if an external DisplayPort monitor was connected
-						<br>
-					</li>
-					<li>
-						Fixed a system crash when hotplugging a second display in Desktop mode
-						<br>
-					</li>
-					<li>
-						Improved frame pacing with VRR on external displays
-					</li>
-				</ul>
-				<b>
-					Bluetooth
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved pairing experience with Apple AirPods
-						<br>
-					</li>
-					<li>
-						Enabled support for Bluetooth HFP and BAP profiles
-						<br>
-					</li>
-					<li>
-						Added mechanism to configure which Bluetooth device categories are allowed to wake the system from suspend
-						<ul>
-							<li>
-								By default, controllers are the only devices that can wake the system from sleep
-								<br>
-							</li>
-							<li>
-								Finer-grained UI configuration options will be available as part of a future update
-							</li>
-						</ul>
-					</li>
-					<li>
-						Improved connection speed of some Bluetooth devices
-						<br>
-					</li>
-					<li>
-						Fixed an issue where Bluetooth peripherals would disconnect on session switch
-					</li>
-				</ul>
-				<b>
-					Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added support for extra ROG Ally keys
-						<br>
-					</li>
-					<li>
-						Added support for the ASUS ROG Raikiri Pro controller
-						<br>
-					</li>
-					<li>
-						Added support for the Machenike G5 Pro controller
-						<br>
-					</li>
-					<li>
-						Added support for the Steam Deck motion sensors to the built-in non-Steam kernel driver
-						<br>
-					</li>
-					<li>
-						Fixed an issue where scroll wheel Steam Input bindings weren't functional
-						<br>
-					</li>
-					<li>
-						Fixed an issue where DualShock 4 and DualSense controllers would sometimes not function properly on their first connection
-						<br>
-					</li>
-					<li>
-						Fixed calibration on some third-party DualShock 4 controllers
-					</li>
-				</ul>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Updated to KDE Plasma 5.27.10
-						<br>
-					</li>
-					<li>
-						Enabled thumbnail previews for videos in the file browser
-						<br>
-					</li>
-					<li>
-						Fixed an issue with desktop use that could cause subsequent microSD card auto-mount to fail
-						<br>
-					</li>
-					<li>
-						Fixed Zenity dialog boxes
-						<br>
-					</li>
-					<li>
-						Fixed nested desktop crashing on launch
-					</li>
-				</ul>
-				<b>
-					BIOS / Firmware
-				</b>
-				<br>
-				<ul>
-					<li>
-						Adjusted power LED slow charging threshold
-						<br>
-					</li>
-					<li>
-						Fixed not being able to set the SDCard as default boot device
-						<br>
-					</li>
-					<li>
-						Fixed spurious power LED blinking in S5
-						<br>
-					</li>
-					<li>
-						Steam Deck OLED only
-						<ul>
-							<li>
-								Added support for the Windows Bluetooth driver (LCD models already have Windows Bluetooth support)
-							</li>
-						</ul>
-					</li>
-					<li>
-						Steam Deck LCD only
-						<ul>
-							<li>
-								Improved battery life by up to 10% in light load situations
-								<br>
-							</li>
-							<li>
-								Added overclocking controls
-							</li>
-						</ul>
-					</li>
-				</ul>
-				<b>
-					Steam Deck Docking Station
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added support for some HDMI CEC features:
-						<br>
-						<ul>
-							<li>
-								TV remote input
-								<br>
-							</li>
-							<li>
-								TV wake up
-								<br>
-							</li>
-							<li>
-								TV input switching
-							</li>
-						</ul>
-					</li>
-					<li>
-						Updated Dock firmware, with compatibility fixes for high-refresh-rate VRR displays, and fixing several issues where displays could remain blank
-					</li>
-				</ul>
-				<b>
-					Development and Modding
-				</b>
-				<br>
-				<ul>
-					<li>
-						Modified files in /etc are now migrated to new OS versions based on a whitelist
-						<br>
-						<ul>
-							<li>
-								Fixes numerous issues with incidentally touched /etc files becoming 'sticky' and persisting unexpectedly
-								<br>
-							</li>
-							<li>
-								Additional whitelist entries can be added via config fragments
-								<br>
-							</li>
-							<li>
-								See /etc/atomic-update.conf.d/example-additional-keep-list.conf
-								<br>
-							</li>
-							<li>
-								Added /etc/previous/ containing modifications from the previous update to prevent unexpected data loss
-								<br>
-							</li>
-							<li>
-								Up to five previous snaphots of /etc modifications will additionally be retained in /var/lib/steamos-atomupd/etc_backup/
-							</li>
-						</ul>
-					</li>
-					<li>
-						Added support for {ssh,sshd}_config fragments
-						<br>
-					</li>
-					<li>
-						Split package reinstallation step out of `steamos-devmode` command and into new `steamos-unminimize` command. `steamos-devmode` now simply enters read-write mode and initializes the pacman keyring for use, and is much quicker.
-						<br>
-					</li>
-					<li>
-						openssh: Fix remote code execution bug (CVE-2024-6387)
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695658043402145760" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
