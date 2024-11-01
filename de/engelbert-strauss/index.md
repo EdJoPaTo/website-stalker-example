@@ -78,13 +78,31 @@ is family  ###
 
 [alle Produkte](https://www.engelbert-strauss.de/nfl-x-strauss/)
 
- Pop-up-Store
+Hey **Hannover**
+
 ----------
 
 ---
 
-| Hey Hannover<br/>---<br/><br/> 13.11. - 07.12.2024<br/>---<br/><br/> In unseren Pop-up-Stores finden Sie alle Strauss-Highlights - live, zum Anfassen & Anprobieren!<br/><br/>[<br/><br/>mehr Informationen<br/><br/>](https://www.engelbert-strauss.de/popupstore/popupstore_hannover)|   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+ pop-up-store
+---
+
+ 13.11. - 07.12.2024 | Hannover
+---
+
+ Entdecken Sie alle Strauss Highlights in unserem Pop-up-Store – zum Anfassen, Anprobieren & direkt Mitnehmen!
+
+[mehr Informationen](https://www.engelbert-strauss.de/popupstore/popupstore_hannover?itemOrigin=StartseiteHW24)
+
+ Messe eurotier
+---
+
+ 12.11. - 15.11.2024 | Hannover
+---
+
+ Strauss Workwear zum Anfassen. Erleben Sie neue Highlights speziell für die Profis der Landwirtschaft.
+
+[mehr Informationen](https://www.engelbert-strauss.de/Unternehmen/Messen?itemOrigin=StartseiteHW24)
 
 ####  Brand Partnerships  ####
 
