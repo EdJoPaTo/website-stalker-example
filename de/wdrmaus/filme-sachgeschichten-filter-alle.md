@@ -1253,6 +1253,7 @@
 * [Willi gibt es wirklich](https://www.wdrmaus.de/filme/sachgeschichten/willi_gibt_es_wirklich.php5)
 * [Windenenergieanlage](https://www.wdrmaus.de/filme/sachgeschichten/windenenergieanlage.php5)
 * [Windrad Reparatur](https://www.wdrmaus.de/filme/sachgeschichten/windrad_reparatur.php5)
+* [Windrad Umdrehung](https://www.wdrmaus.de/filme/sachgeschichten/windrad_umdrehung.php5)
 * [Windräder](https://www.wdrmaus.de/filme/sachgeschichten/windraeder.php5)
 * [Winkemann](https://www.wdrmaus.de/filme/sachgeschichten/winkemann.php5)
 * [Wo findet man Antworten?](https://www.wdrmaus.de/filme/sachgeschichten/wo_findet_man_antworten.php5)
