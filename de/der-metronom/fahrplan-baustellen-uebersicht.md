@@ -39,6 +39,8 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [12.11.2024 - 17.11.2024 RE3/RB31: einzelne Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-einzelne-haltausfaelle/)
 
+[18.11.2024 - 30.11.2024 RE3/RB31: Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-rb31-ersatzverkehr-mit-bussen/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [04.11.2024 - 10.11.2024 RE4/RB41: Teilausfälle zwischen Rotenburg und Bremen und vereinzelnd zwischen Hamburg-Harburg \<\> Hamburg Hbf](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-zwischen-rotenburg-und-bremen-und-vereinzelnd-zwischen-hamburg-harburg-hamburg-hbf/)
