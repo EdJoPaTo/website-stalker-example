@@ -13,7 +13,7 @@ Eis & Schnee
 
  Wärme & Wetterschutz: Leichte und flexible Workwear für alpine Einsätze
 
-[alle Produkte](https://www.engelbert-strauss.de/trail?itemOrigin=StartseiteHW24)
+[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=e.s.trail%20snow&itemOrigin=StartseiteHW24)
 
 Maximale **Sichtbarkeit**
 
