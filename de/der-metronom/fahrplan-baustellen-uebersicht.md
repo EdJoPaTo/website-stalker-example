@@ -31,6 +31,8 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 [04.11.2024 - 10.11.2024 RE2/RE3/RB31: Veränderte Fahrzeiten und Zugausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-veraenderte-fahrzeiten-und-zugausfaelle/)
 
+[19.11.2024 RE2/RE3/RB31 Ersatzverkehr mit Bussen Uelzen \<\> Celle](https://www.der-metronom.de/baustellen/re2-re3-rb31-ersatzverkehr-mit-bussen-uelzen-celle/)
+
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [04.11.2024 - 11.11.2024 RE3/RB31: Haltausfällen in Ashausen, Bardowick und Radbruch (Fahrtrichtung Uelzen)](https://www.der-metronom.de/baustellen/re3-rb31-haltausfaellen-in-ashausen-bardowick-und-radbruch-fahrtrichtung-uelzen/)
