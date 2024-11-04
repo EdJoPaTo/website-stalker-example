@@ -27,7 +27,7 @@ bereits ab monatlich
 
 5,26 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/arm-server/vps-1000-arm-g11-mnz)
 
@@ -44,7 +44,7 @@ bereits ab monatlich
 
 9,07 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/arm-server/vps-2000-arm-g11-mnz)
 
@@ -61,7 +61,7 @@ bereits ab monatlich
 
 12,82 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/arm-server/vps-3000-arm-g11-mnz)
 
@@ -78,7 +78,7 @@ bereits ab monatlich
 
 16,94 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/arm-server/vps-4000-arm-g11-mnz)
 
@@ -96,7 +96,7 @@ bereits ab monatlich
 
 21,78 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/arm-server/vps-6000-arm-g11-mnz)
 
@@ -113,7 +113,7 @@ bereits ab monatlich
 
 27,03 €
 
-(incl. 0% VAT)
+(inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/arm-server/vps-8000-arm-g11-mnz)
 
