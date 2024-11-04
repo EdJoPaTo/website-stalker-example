@@ -196,7 +196,7 @@ Grundpreis /  pro
 
  Lichter
 
-### [Shelly Plug S Gen3 White](/de/products/shelly-plug-s-gen3)  ###
+### [Shelly Plug S Gen3 Black](/de/products/shelly-plug-s-gen3-1)  ###
 
 Normaler Preis  €23,68
 
@@ -216,7 +216,7 @@ Grundpreis /  pro
 
  Heizung & Kühlung
 
- Color: White White
+ Color: Black White Black
 
 ### [Shelly Plus 0-10V Dimmer](/de/products/shelly-plus-0-10v-dimmer)  ###
 
