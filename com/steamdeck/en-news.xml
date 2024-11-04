@@ -6,6 +6,53 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.20 Stable Update</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734546101196200</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Nov 4, 2024
+			</h5>
+			<div>
+				<img src="https://clan.cloudflare.steamstatic.com/images/40893422/ae21a94c8cc7bd4b4ba625e406b82fc0e2656d5b.png">
+				<br>
+				SteamOS 3.6.20 has been released to the Stable channel for Deck with the following changes:
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed an issue where the updater could repeatedly revert you to the previous OS version if certain configuration files were user-modified
+						<br>
+					</li>
+					<li>
+						Fixed an issue with taking multiple screenshots if Game Recording is on
+						<br>
+					</li>
+					<li>
+						Improved performance in Metaphor: ReFantazio by up to 20%
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734546101196200" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: November 4th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734546101192901</link>
 			<content:encoded><![CDATA[<html>
@@ -218,49 +265,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734182370024927" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: October 28th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4695658570140633674</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 28, 2024
-			</h5>
-			<div>
-				The Steam Deck Client Beta has been updated with the following changes:
-				<br>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reduced clip export/share time in many cases when exporting native resolution, codec, and frame rate.
-						<br>
-					</li>
-					<li>
-						Added ability to start/stop recording of a clip via manual recording shortcut key, when in background recording mode
-					</li>
-				</ul>
-				<br>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4695658570140633674" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
