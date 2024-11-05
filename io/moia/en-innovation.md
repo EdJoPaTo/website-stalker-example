@@ -20,12 +20,11 @@ The benefits of autonomous ridepooling
 Autonomous ridepooling brings a wide array of advantages for urban mobility:
 
 * **Less t****raffic:** With large fleets of autonomous vehicles, we can reduce the number of private cars on the road, alleviating traffic while making a positive contribution to climate protection.
-* **Eco-friendliness:** Electrically operated autonomous vehicles help lower CO2 emissions, improve air quality, and reduce noise pollution – creating a cleaner, quieter environment.
+* **Eco-friendliness:** Electrically operated autonomous vehicles help lower CO<sub>2</sub> emissions, improve air quality, and reduce noise pollution – creating a cleaner, quieter environment.
 * **Enhanced safety****:** Thanks to advanced sensors and intelligent algorithms, autonomous vehicles can detect and avoid hazards faster than human drivers, leading to safer roads for everyone.
 * **Equitable mobility:** Autonomous vehicles provide reliable transportation options that are available around the clock, improving access to mobility for everyone.
 * **Innovative business models:** This technology supports sustainable business models for local transport providers and fosters a future-ready public transportation system.
-
-* **Solutions for driver shortages:** Automating vehicles helps address the growing shortage of drivers, ensuring that public transport remains reliable for all.
+* **Solutions for driver shortages:** Automating vehicles helps address the growing shortage of drivers, ensuring that public transport remains reliable for all.
 
 Autonomous from A to B
 ----------
