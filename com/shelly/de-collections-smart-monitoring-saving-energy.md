@@ -242,7 +242,7 @@ Grundpreis /  pro
 
  Ladegerät für Elektrofahrzeuge
 
- Variant: 120A  120AVariante ausverkauft oder nicht verfügbar  400AVariante ausverkauft oder nicht verfügbar
+ Variante: 120A  120AVariante ausverkauft oder nicht verfügbar  400AVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly Pro 3EM Switch Add-on](/de/products/shelly-pro-3em-switch-add-on)  ###
 
@@ -294,7 +294,7 @@ Grundpreis /  pro
 
  Auf DIN-Schiene montierbarer, Smart-Dimmer mit Energiemessung. Steuere das Dimmen und messe die Leistung von Halogenlampen, dimmbaren LEDs und ferromagnetischen Transformatoren.
 
- Variant: 1 channel  1 channelVariante ausverkauft oder nicht verfügbar  2 channelsVariante ausverkauft oder nicht verfügbar
+ Variante: 1 channel  1 channelVariante ausverkauft oder nicht verfügbar  2 channelsVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly Pro Dual Cover / Shutter PM](/de/products/shelly-pro-dual-cover-shutter-pm)  ###
 

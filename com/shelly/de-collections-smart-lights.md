@@ -390,7 +390,7 @@ Grundpreis /  pro
 
  Auf DIN-Schiene montierbarer, Smart-Dimmer mit Energiemessung. Steuere das Dimmen und messe die Leistung von Halogenlampen, dimmbaren LEDs und ferromagnetischen Transformatoren.
 
- Variant: 1 channel  1 channelVariante ausverkauft oder nicht verfügbar  2 channelsVariante ausverkauft oder nicht verfügbar
+ Variante: 1 channel  1 channelVariante ausverkauft oder nicht verfügbar  2 channelsVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly RGBW2](/de/products/shelly-rgbw2)  ###
 
