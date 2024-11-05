@@ -6,6 +6,80 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: November 5th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734719581768282</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Nov 5, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved speed of export / copy to clipboard of videos/clips in some scenarios
+						<br>
+					</li>
+					<li>
+						Fixed issue that caused some of the options on the Save/Share button in the overlay to not do anything
+						<br>
+					</li>
+					<li>
+						Fixed issue with upload progress not showing correctly when creating a shareable link to a clip
+						<br>
+					</li>
+					<li>
+						Added range for disk space estimate from 1080p to 4k
+						<br>
+					</li>
+					<li>
+						Fixed a case where exporting to file could fail
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added support for the PowerA OPS v1, v3 Pro, Fusion Pro 4, and Fusion Pro Wireless controllers
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Immediately change codecs if HEVC or AV1 are enabled or disabled while streaming
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734719581768282" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.20 Stable Update</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734546101196200</link>
 			<content:encoded><![CDATA[<html>
@@ -214,64 +288,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734182370070239" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: October 29th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734182370024927</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 29, 2024
-			</h5>
-			<div>
-				The Steam Deck Client Beta has been updated with the following changes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed steamwebhelper deleting temp directories that it may not have previously created.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved navigation of Game Recording Settings in Big Picture
-					</li>
-				</ul>
-				<br>
-				<b>
-					Linux
-				</b>
-				<br>
-				<ul>
-					<li>
-						Extend recent Steam Play fixes to third party compatibility tools.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734182370024927" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
