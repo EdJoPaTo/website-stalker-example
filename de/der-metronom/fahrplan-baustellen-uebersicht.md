@@ -25,11 +25,15 @@ Damit du nicht von neuen Baustellen überrascht wirst, informieren wir dich scho
 
 RE2 Hannover - Northeim - Göttingen
 
+[09.11.2024 - 17.11.2024 RE2/RE3/RB31 weitere nächtliche Teilausfälle zwischen Hannover Hbf/Northeim und Göttingen an den Wochenenden](https://www.der-metronom.de/baustellen/re2-re3-rb31-weitere-naechtliche-teilausfaelle-zwischen-hannover-hbf-northeim-und-goettingen-an-den-wochenenden/)
+
 [12.11.2024 - 15.11.2024 RE2: Zusatzhalte in Hannover Messe/Laatzen zur Euro Tier Messe vom 12. - 15.11.2024](https://www.der-metronom.de/baustellen/re2-zusatzhalte-in-hannover-messe-laatzen-zur-euro-tier-messe-vom-12-15-11-2024/)
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
 [04.11.2024 - 10.11.2024 RE2/RE3/RB31: Veränderte Fahrzeiten und Zugausfälle](https://www.der-metronom.de/baustellen/re2-re3-rb31-veraenderte-fahrzeiten-und-zugausfaelle/)
+
+[09.11.2024 - 17.11.2024 RE2/RE3/RB31 weitere nächtliche Teilausfälle zwischen Hannover Hbf/Northeim und Göttingen an den Wochenenden](https://www.der-metronom.de/baustellen/re2-re3-rb31-weitere-naechtliche-teilausfaelle-zwischen-hannover-hbf-northeim-und-goettingen-an-den-wochenenden/)
 
 [19.11.2024 RE2/RE3/RB31 Ersatzverkehr mit Bussen Uelzen \<\> Celle](https://www.der-metronom.de/baustellen/re2-re3-rb31-ersatzverkehr-mit-bussen-uelzen-celle/)
 
