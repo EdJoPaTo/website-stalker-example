@@ -28,20 +28,6 @@ Your games, everywhere
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 
-Steam Deck Comes To
-==========
-
-### Your games, down under ###
-
-November 2024
-
-Australia
-==========
-
-### Your games, down under ###
-
-November 2024
-
 #### Find great gaming experiences on Deck ####
 
 [Learn more about Deck Verified](https://www.steamdeck.com/en/verified)
