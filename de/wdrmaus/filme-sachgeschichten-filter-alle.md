@@ -1070,7 +1070,7 @@
 * [Sprechende Steine](https://www.wdrmaus.de/filme/sachgeschichten/sprechende_steine.php5)
 * [Sprengung](https://www.wdrmaus.de/filme/sachgeschichten/sprengung.php5)
 * [Sprengung danach](https://www.wdrmaus.de/filme/sachgeschichten/sprengung_danach.php5)
-* [Sprichwörter: Abknüpfen](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_abknoepfen.php5)
+* [Sprichwörter: Abknöpfen](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_abknoepfen.php5)
 * [Sprichwörter: Aus dem Stegreif](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_aus_dem_stegreif.php5)
 * [Sprichwörter: Ausbaden](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_ausbaden.php5)
 * [Sprichwörter: Ausspannen](https://www.wdrmaus.de/filme/sachgeschichten/sprichwoerter_ausspannen.php5)
