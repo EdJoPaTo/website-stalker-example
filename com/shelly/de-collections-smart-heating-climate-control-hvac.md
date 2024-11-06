@@ -54,11 +54,11 @@ Grundpreis /  pro
 
  Farben: Black Black Ivory Mocha
 
-### [Shelly BLU TRV](/de/products/shelly-blu-trv-two-pack)  ###
+### [Shelly BLU TRV](/de/products/shelly-blu-trv-single-pack)  ###
 
-Normaler Preis  €106,98
+Normaler Preis  €53,43
 
-Verkaufspreis  €106,98 Normaler Preis
+Verkaufspreis  €53,43 Normaler Preis
 
 Grundpreis /  pro
 
