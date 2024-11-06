@@ -15,14 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Streckensperrung zwischen Eschede und Isernhagen](https://www.der-metronom.de/aktuell/streckensperrung-zwischen-eschede-und-isernhagen/)
-
- 06.11.2024
-
-Die Strecke zwischen Celle nach Hannover ist inzwischen wieder freigegeben. Zwischen Celle und Eschede besteht weiterhin der Busnotverkehr (BNV).
-Informiert euch daher vor Fahrtantritt und plant mehr Zeit ein:
-Bitte erkundigt euch in den elektronischen Fahrplanauskünften auf unserer Website, in...
-
 [EIL: Zugausfälle und Schienenersatzverkehr aufgrund notwendiger Arbeiten an dem Elektronischen Stellwerk Kreiensen auf der Strecke Hannover-Northeim-Göttingen](https://www.der-metronom.de/aktuell/eil-zugausf%C3%A4lle-und-schienenersatzverkehr-aufgrund-notwendiger-arbeiten-an-dem-elektronischen-stellwerk-kreiensen-auf-der-strecke-hannover-northeim-g%C3%B6ttingen/)
 
  Uelzen - 05.11.2024
