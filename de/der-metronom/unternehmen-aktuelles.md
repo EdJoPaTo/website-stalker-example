@@ -15,7 +15,14 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[EIL: Zugausfälle und Schienenersatzverkehr aufgrund notwendiger Arbeiten an dem Elektronischen Stellwerk Kreiensen auf der Strecke Hannover-Northeim-Göttingen](https://www.der-metronom.de/aktuell/eil-zugausf%C3%A4lle-und-schienenersatzverkehr-aufgrund-notwendiger-arbeiten-an-dem-elektronischen-stellwerk-kreiensen-auf-der-strecke-hannover-northeim-g%C3%B6ttingen/)
+[RE4/RB41: Stellwerksstörung in Lauenbrück - auch Verspätungen auf der Linie RE3/RB31](https://www.der-metronom.de/aktuell/re4-rb41-stellwerksstoerung-in-lauenbrueck/)
+
+ Uelzen - 07.11.2024
+
+Moin liebe Fahrgäste,die Strecke bei Lauenbrück ist derzeit wegen einer Stellwerksstörung gesperrt:
+Es kommt wegen der Stellwerksstörung zu erheblichen Einschränkungen im Zugverkehr auf der Strecke Hamburg Hbf - Bremen Hbf - Hamburg Hbf.Der Bahnhof Lauenbrück ist für den Zugverkehr gesperrt....
+
+[Zugausfälle und Schienenersatzverkehr aufgrund notwendiger Arbeiten an dem Elektronischen Stellwerk Kreiensen auf der Strecke Hannover-Northeim-Göttingen](https://www.der-metronom.de/aktuell/eil-zugausf%C3%A4lle-und-schienenersatzverkehr-aufgrund-notwendiger-arbeiten-an-dem-elektronischen-stellwerk-kreiensen-auf-der-strecke-hannover-northeim-g%C3%B6ttingen/)
 
  Uelzen - 05.11.2024
 
