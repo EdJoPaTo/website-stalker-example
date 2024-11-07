@@ -15,12 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE4/RB41: Stellwerksstörung in Lauenbrück - auch Verspätungen auf der Linie RE3/RB31](https://www.der-metronom.de/aktuell/re4-rb41-stellwerksstoerung-in-lauenbrueck/)
-
- Uelzen - 07.11.2024
-
-Moin liebe Fahrgäste,die Streckensperrung wurde aufgehoben. Durch den Rückstau der wartenden Züge und die aufgelaufenen Verspätungen kommt es weiter zu Verspätungen und (Teil-)Ausfällen.Die Einschränkungen und Verspätungen der Züge auf der direkt betroffenen Linie RE4/RB41 wirken sich durch die...
-
 [Zugausfälle und Schienenersatzverkehr aufgrund notwendiger Arbeiten an dem Elektronischen Stellwerk Kreiensen auf der Strecke Hannover-Northeim-Göttingen](https://www.der-metronom.de/aktuell/eil-zugausf%C3%A4lle-und-schienenersatzverkehr-aufgrund-notwendiger-arbeiten-an-dem-elektronischen-stellwerk-kreiensen-auf-der-strecke-hannover-northeim-g%C3%B6ttingen/)
 
  Uelzen - 05.11.2024
