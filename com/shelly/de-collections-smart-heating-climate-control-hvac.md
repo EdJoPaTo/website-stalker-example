@@ -96,6 +96,18 @@ Grundpreis /  pro
 
  Color: White White Black
 
+### [Shelly Plus Add-On](/de/products/shelly-plus-add-on)  ###
+
+Normaler Preis  €16,07
+
+Verkaufspreis  €16,07 Normaler Preis
+
+Grundpreis /  pro
+
+ Shelly Plus AddOn
+
+ Variants:  Shelly Plus Add-OnVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 1x Sensor DSVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 2x Sensor DSVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 3x Sensor DSVariante ausverkauft oder nicht verfügbar
+
 ### [Shelly Plus H&T](/de/products/shelly-plus-h-t)  ###
 
 Normaler Preis  €35,58
