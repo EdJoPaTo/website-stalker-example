@@ -55,5 +55,7 @@ RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [21.11.2024 - 23.11.2024 RE4/RB41 Teilausfälle Rotenburg (W.) \<\> Bremen Hbf sowie Hamburg-Harburg \> Hamburg Hbf](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-rotenburg-w-bremen-hbf-sowie-hamburg-harburg-hamburg-hbf/)
 
+[24.11.2024 - 01.12.2024 RE4/RB41 Teilausfall Bremen Hbf \<\> Ottersberg/Rotenburg und Hamburg Hbf \<\>Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfall-bremen-hbf-ottersberg-rotenburg-und-hamburg-hbf-hamburg-harburg/)
+
 **Barrierefrei ohne PDF-Datei**
 Wir arbeiten gerade daran, die Fahrplantabellen nicht mehr als PDF-Dateien anzubieten. Unser Ziel ist es, die Tabellen in einem Format bereitzustellen, das für alle einfach zugänglich ist. So kann jeder, egal mit welchem Gerät, die Informationen leicht abrufen. Das macht es einfacher für Menschen mit mobilen Geräten und für Menschen mit besonderen Bedürfnissen. Damit wollen wir die Informationen moderner und für alle nutzerfreundlich machen.

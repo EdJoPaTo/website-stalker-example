@@ -1,7 +1,7 @@
 Aktiv fürs Klima: Unser Klimaschutzkonzept
 ==========
 
-Wir haben den Anspruch, regenerativ zu wirken. Sprich: Mehr für das Klima zu tun als nur Schaden zu vermeiden. Daher wird unsere Klimaschutzkonzept von drei Säulen getragen:
+Wir haben den Anspruch, regenerativ zu wirken. Sprich: Mehr für das Klima zu tun als nur Schaden zu vermeiden. Daher wird unser Klimaschutzkonzept von drei Säulen getragen:
 
 [Klimaneutraler Mobilfunk ---------- Wir vermeiden wo immer möglich das Entstehen von CO2-Emissionen. Alle unvermeidbaren holen wir aus der Atmosphäre zurück. **Wir sind bilanziell klimaneutral.**](#Klimaneutral)
 
