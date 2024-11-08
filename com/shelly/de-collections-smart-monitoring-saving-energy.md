@@ -38,6 +38,14 @@ Grundpreis /  pro
 
  Ventilator
 
+### [Shelly 1PM Mini Gen3 x2](/de/products/shelly-1pm-mini-gen3-x2)  ###
+
+Normaler Preis  €31,49
+
+Verkaufspreis  €31,49 Normaler Preis
+
+Grundpreis /  pro
+
 ### [Shelly 2PM Gen3](/de/products/shelly-2pm-gen3-1)  ###
 
 Normaler Preis  €32,01
@@ -73,6 +81,16 @@ Grundpreis /  pro
  Schützsteuerung
 
  Leistungsüberwachung
+
+### [Shelly Dimmer2 x4](/de/products/shelly-dimmer2-x4)  ###
+
+Normaler Preis  €132,07
+
+Verkaufspreis  €132,07 Normaler Preis
+
+Grundpreis /  pro
+
+ Shelly Dimmer2 - Pack x4
 
 ### [Shelly EM + 50A Clamp](/de/products/shelly-em-50a-clamp-1)  ###
 
@@ -207,6 +225,16 @@ Grundpreis /  pro
 
  Lichter
 
+### [Shelly Plus RGBW PM x2](/de/products/shelly-plus-rgbw-pm-x2)  ###
+
+Normaler Preis  €53,41
+
+Verkaufspreis  €53,41 Normaler Preis
+
+Grundpreis /  pro
+
+ Shelly Plus RGBW PM
+
 ### [Shelly Pro 1PM](/de/products/shelly-pro-1pm)  ###
 
 Normaler Preis  €72,00
@@ -257,14 +285,6 @@ Grundpreis /  pro
 
  Der Shelly Pro 3EM ist ein WLAN-betriebenes, DIN-montierbares 3-Phasen-Stromverbrauchsmessgerät mit WLAN-, Bluetooth- und LAN-Konnektivität.
 
- Energieeinsparung
-
- Leistungsüberwachung
-
- PV-Systeme
-
- Ladegerät für Elektrofahrzeuge
-
  Variante: 120A  120AVariante ausverkauft oder nicht verfügbar  400AVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly Pro 3EM](/de/products/shelly-pro-3em-x1)  ###
@@ -276,6 +296,14 @@ Verkaufspreis  €142,68 Normaler Preis
 Grundpreis /  pro
 
  Der Shelly Pro 3EM ist ein WLAN-betriebenes, DIN-montierbares 3-Phasen-Stromverbrauchsmessgerät mit WLAN-, Bluetooth- und LAN-Konnektivität.
+
+ Energieeinsparung
+
+ Leistungsüberwachung
+
+ PV-Systeme
+
+ Ladegerät für Elektrofahrzeuge
 
  Variante: 120A  120AVariante ausverkauft oder nicht verfügbar  400AVariante ausverkauft oder nicht verfügbar
 
