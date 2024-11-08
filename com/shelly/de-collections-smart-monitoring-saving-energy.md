@@ -74,6 +74,18 @@ Grundpreis /  pro
 
  Leistungsüberwachung
 
+### [Shelly EM + 50A Clamp](/de/products/shelly-em-50a-clamp-1)  ###
+
+Normaler Preis  €72,35
+
+Verkaufspreis  €72,35 Normaler Preis
+
+Grundpreis /  pro
+
+ WLAN-betriebener Energiemesser zur Überwachung des Verbrauchs von Haushaltsgeräten in zwei Stromkreisen.
+
+ Variants:  Shelly EM + 50A ClampVariante ausverkauft oder nicht verfügbar  Shelly EM + 120A ClampVariante ausverkauft oder nicht verfügbar  Shelly EM + 2 x 120A ClampVariante ausverkauft oder nicht verfügbar  Shelly EM + 2x 50A ClampVariante ausverkauft oder nicht verfügbar  Shelly EM + 120A + 50A ClampsVariante ausverkauft oder nicht verfügbar
+
 ### [Shelly PM Mini Gen3](/de/products/shelly-pm-mini-gen3)  ###
 
 Normaler Preis  €15,35
@@ -87,6 +99,17 @@ Grundpreis /  pro
  Leistungsmessung
 
  Energieeinsparung
+
+### [Shelly PM Mini Gen3 x2](/de/products/shelly-pm-mini-gen3-x2)  ###
+
+Normaler Preis  €30,08
+
+Verkaufspreis  €30,08 Normaler Preis
+
+Grundpreis /  pro
+
+ Wi-Fi-operated smart power meter, 1 channel 16 A
+The smallest power meter in the world for precise power monitoring. Automate your lights or electrical appliances in less than 10 minutes and monito...
 
 ### [Shelly PRO EM-50](/de/products/shelly-pro-em-50)  ###
 
@@ -241,6 +264,18 @@ Grundpreis /  pro
  PV-Systeme
 
  Ladegerät für Elektrofahrzeuge
+
+ Variante: 120A  120AVariante ausverkauft oder nicht verfügbar  400AVariante ausverkauft oder nicht verfügbar
+
+### [Shelly Pro 3EM](/de/products/shelly-pro-3em-x1)  ###
+
+Normaler Preis  €142,68
+
+Verkaufspreis  €142,68 Normaler Preis
+
+Grundpreis /  pro
+
+ Der Shelly Pro 3EM ist ein WLAN-betriebenes, DIN-montierbares 3-Phasen-Stromverbrauchsmessgerät mit WLAN-, Bluetooth- und LAN-Konnektivität.
 
  Variante: 120A  120AVariante ausverkauft oder nicht verfügbar  400AVariante ausverkauft oder nicht verfügbar
 
