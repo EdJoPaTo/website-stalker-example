@@ -19,6 +19,15 @@ Facts about MOIA's ridepooling service in Hamburg: How many passengers has Moia 
 
 [Download our Factsheet](https://www.moia.io/news-center/MOIA_Factsheet_Hamburg_EN.pdf)
 
+Autonomous Ridepooling
+
+ALIKE-Project in Hamburg
+----------
+
+In the ALIKE pilot project, MOIA is working with partners to develop a modern, app-based system for autonomous ridepooling that complements the city’s existing public transit system of buses and trains, thus making an important contribution to the mobility transition in cities.
+
+[More about the project](https://www.moia.io/en/alike)
+
 Press releases
 ----------
 
