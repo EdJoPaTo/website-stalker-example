@@ -6,6 +6,64 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: November 8th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4629231414252975266</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Nov 8, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a case where WiFi power management settings could fail to be applied at startup.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue with the layout of the recording player in Big Picture.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a case where a controller could not show up in the UI the very first time it was connected for an account.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629231414252975266" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: November 5th</title>
 			<link>https://store.steampowered.com/gamerecording</link>
 			<content:encoded><![CDATA[<html>
@@ -467,76 +525,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734546101192901" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: October 31st</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734182370121112</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Oct 31, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed the on-screen keyboard not immediately popping up when games invoke the text entry dialog.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the text entry dialog could lose focus and require moving focus to the buttons and back to the text entry
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added a confirmation dialog to "Delete Recordings" button in settings UI
-						<br>
-					</li>
-					<li>
-						Rearranged some of the game recording settings to better reflect the organization
-						<br>
-					</li>
-					<li>
-						Updated some labels and titles in the session list view of the media manager
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed an issue where using a Steam/QAM button chord in a non-Steam game could leave the desktop config loaded instead of the game's config
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734182370121112" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
