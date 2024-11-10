@@ -15,24 +15,6 @@ Eis & Schnee
 
 [alle Produkte](https://www.engelbert-strauss.de/s/suche?query=e.s.trail%20snow&itemOrigin=StartseiteHW24)
 
-###  Brand Partnerships  ###
-
----
-
-[alle Kooperationen](https://www.engelbert-strauss.de/brand_partnerships)
-
-###  Touchdown
-für alle
-Football Fans  ###
-
----
-
- Das Comeback unserer beliebten Kollektion im NFL Fan-Design
-
-[alle Produkte](https://www.engelbert-strauss.de/nfl-x-strauss/)
-
-[NFL X Strauss entdecken](https://www.engelbert-strauss.de/NFL)
-
 Maximale **Sichtbarkeit**
 
 ----------
