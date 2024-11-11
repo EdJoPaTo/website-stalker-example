@@ -15,6 +15,12 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE2: Verspätungen durch Streckenstörung](https://www.der-metronom.de/aktuell/re2-verspaetungen-durch-streckenstoerung/)
+
+ Uelzen - 11.11.2024
+
+Aufgrund einer Streckenstörung zwischen Elze (Han) und Nordstemmen kommt es auf der metronom-Linie RE2 zwischen Göttingen und Hannover Hauptbahnhof in beiden Richtungen zu erheblichen Verspätungen. Aufgrund der Streckenstörung können die Züge nur langsam und auf Sicht fahren, wodurch es zu...
+
 [Zugausfälle und Schienenersatzverkehr aufgrund notwendiger Arbeiten an dem Elektronischen Stellwerk Kreiensen auf der Strecke Hannover-Northeim-Göttingen](https://www.der-metronom.de/aktuell/eil-zugausf%C3%A4lle-und-schienenersatzverkehr-aufgrund-notwendiger-arbeiten-an-dem-elektronischen-stellwerk-kreiensen-auf-der-strecke-hannover-northeim-g%C3%B6ttingen/)
 
  Uelzen - 05.11.2024
