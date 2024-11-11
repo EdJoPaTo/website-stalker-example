@@ -6,6 +6,67 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck OLED: Limited Edition White - Launching Worldwide Next Week</title>
+			<link>https://steamdeck.komodo.jp/</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Nov 11, 2024
+			</h5>
+			<div>
+				<img src="https://clan.cloudflare.steamstatic.com/images/40893422/46c6d1293d98976096d749c68297f26a6114fb56.jpg">
+				<br>
+				<br>
+				<b>
+					Steam Deck OLED: Limited Edition White
+				</b>
+				will be available worldwide on November 18th, 2024 at 3PM PST. This model will cost $679 USD, and will be available in all Steam Deck shipping regions, including Japan, South Korea, Taiwan, and Hong Kong via
+				<a href="https://steamdeck.komodo.jp/" rel="noopener noreferrer">
+					<b>
+						Komodo
+					</b>
+				</a>
+				.
+				<br>
+				<br>
+				Our new customers in Australia are included as well! The Limited Edition White model will ship alongside all other Steam Deck models at the same time (in Australia, this translates to November 19th, at 10:00AM AEDT).
+				<br>
+				<br>
+				Steam Deck OLED: Limited Edition White has all the same specs as the Steam Deck OLED 1TB model, but in white and grey. It also comes with an exclusive white carrying case and white microfiber cleaning cloth.
+				<br>
+				<br>
+				This model will only be available in limited quantities, with stock allocated proportionally across each region. This means separate availability for US, CA, UK, EU, AU, and the Komodo regions. To ensure that as many customers who wish to purchase a Steam Deck OLED: Limited Edition White can get their hands on one, we are restricting purchases to 1 unit per account. Accounts must have made a Steam purchase before November 2024 and be in good standing to be eligible.
+				<br>
+				<br>
+				As this is a limited edition release, we will not be making more of this particular design. Once we are sold out, we will be sold out.
+				<br>
+				<br>
+				Click the links below to add a reminder to your calendar - these links will automatically adjust to your local timezone for the worldwide simultaneous release.
+				<br>
+				<br>
+				[calendarevent title="Steam Deck OLED: Limited Edition White Release" datetime="2024-11-18T23:00Z" body="Steam Deck OLED: Limited Edition White becomes available for purchase. Order yours at
+				<a href="http://store.steampowered.com/steamdeck&quot;" rel="noopener noreferrer">
+					http://store.steampowered.com/steamdeck"
+				</a>
+				][/calendarevent]
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629231591254763701" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: November 8th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4629231414252975266</link>
 			<content:encoded><![CDATA[<html>
@@ -470,61 +531,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734546101196200" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: November 4th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734546101192901</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 4, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed issue that could cause game-provided timeline icons to not appear the first time Steam tries to show them
-						<br>
-					</li>
-					<li>
-						Fixed case where exporting a clip could fail if the clip was across two play sessions
-						<br>
-					</li>
-					<li>
-						Fixed rare crash when deleting background video
-					</li>
-				</ul>
-				<br>
-				Note: This update was re-released with additional changes:
-				<br>
-				<ul>
-					<li>
-						Fixed game portraits flashing on home screen when switching from a game with no background image.
-					</li>
-				</ul>
-				<br>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734546101192901" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>

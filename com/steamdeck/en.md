@@ -28,6 +28,20 @@ Your games, everywhere
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 
+ Available worldwide on November 18, 2024 @ 3:00pm PST for $679.00
+
+Add to your calendar:
+
+[Apple](data:text/plain;charset=utf-8;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOlRlc3QgTmFtZQ0KQkVHSU46VkVWRU5UDQpEVFNUQVJUOjIwMjQxMTE4VDIzMDAwMFoNCkRURU5EOjIwMjQxMTE4VDIzMTUwMFoNClNVTU1BUlk6U3RlYW0gRGVjayBPTEVEOiBMaW1pdGVkIEVkaXRpb24gV2hpdGUgUmVsZWFzZQ0KREVTQ1JJUFRJT046U3RlYW0gRGVjayBPTEVEOiBMaW1pdGVkIEVkaXRpb24gV2hpdGUgYmVjb21lcyBhdmFpbGFibGUgZm9yIHB1cmNoYXNlLiBPcmRlciB5b3VycyBhdCBodHRwOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9zdGVhbWRlY2sNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==) [Google](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Steam+Deck+OLED%3A+Limited+Edition+White+Release&details=Steam+Deck+OLED%3A+Limited+Edition+White+becomes+available+for+purchase.+Order+yours+at+http%3A%2F%2Fstore.steampowered.com%2Fsteamdeck&dates=20241118T230000Z%2F20241118T231500Z) [Outlook](data:text/plain;charset=utf-8;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOlRlc3QgTmFtZQ0KQkVHSU46VkVWRU5UDQpEVFNUQVJUOjIwMjQxMTE4VDIzMDAwMFoNCkRURU5EOjIwMjQxMTE4VDIzMTUwMFoNClNVTU1BUlk6U3RlYW0gRGVjayBPTEVEOiBMaW1pdGVkIEVkaXRpb24gV2hpdGUgUmVsZWFzZQ0KREVTQ1JJUFRJT046U3RlYW0gRGVjayBPTEVEOiBMaW1pdGVkIEVkaXRpb24gV2hpdGUgYmVjb21lcyBhdmFpbGFibGUgZm9yIHB1cmNoYXNlLiBPcmRlciB5b3VycyBhdCBodHRwOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9zdGVhbWRlY2sNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==)
+
+###  Steam Deck OLED: Limited Edition White, shipping in limited quantities.  ###
+
+### Available worldwide on November 18, 2024 @ 3:00pm PST ###
+
+Add to your calendar:
+
+[Apple](data:text/plain;charset=utf-8;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOlRlc3QgTmFtZQ0KQkVHSU46VkVWRU5UDQpEVFNUQVJUOjIwMjQxMTE4VDIzMDAwMFoNCkRURU5EOjIwMjQxMTE4VDIzMTUwMFoNClNVTU1BUlk6U3RlYW0gRGVjayBPTEVEOiBMaW1pdGVkIEVkaXRpb24gV2hpdGUgUmVsZWFzZQ0KREVTQ1JJUFRJT046U3RlYW0gRGVjayBPTEVEOiBMaW1pdGVkIEVkaXRpb24gV2hpdGUgYmVjb21lcyBhdmFpbGFibGUgZm9yIHB1cmNoYXNlLiBPcmRlciB5b3VycyBhdCBodHRwOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9zdGVhbWRlY2sNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==) [Google](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Steam+Deck+OLED%3A+Limited+Edition+White+Release&details=Steam+Deck+OLED%3A+Limited+Edition+White+becomes+available+for+purchase.+Order+yours+at+http%3A%2F%2Fstore.steampowered.com%2Fsteamdeck&dates=20241118T230000Z%2F20241118T231500Z) [Outlook](data:text/plain;charset=utf-8;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOlRlc3QgTmFtZQ0KQkVHSU46VkVWRU5UDQpEVFNUQVJUOjIwMjQxMTE4VDIzMDAwMFoNCkRURU5EOjIwMjQxMTE4VDIzMTUwMFoNClNVTU1BUlk6U3RlYW0gRGVjayBPTEVEOiBMaW1pdGVkIEVkaXRpb24gV2hpdGUgUmVsZWFzZQ0KREVTQ1JJUFRJT046U3RlYW0gRGVjayBPTEVEOiBMaW1pdGVkIEVkaXRpb24gV2hpdGUgYmVjb21lcyBhdmFpbGFibGUgZm9yIHB1cmNoYXNlLiBPcmRlciB5b3VycyBhdCBodHRwOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9zdGVhbWRlY2sNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==)
+
 #### Find great gaming experiences on Deck ####
 
 [Learn more about Deck Verified](https://www.steamdeck.com/en/verified)
