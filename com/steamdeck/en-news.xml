@@ -6,6 +6,76 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: November 11th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4629231591254773284</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Nov 11, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed some outdated or missing strings in non-english languages.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed layout issues in the BPM Game Recording settings page.
+						<br>
+					</li>
+					<li>
+						Added export time to the progress bar in the send to phone dialog.
+						<br>
+					</li>
+					<li>
+						Instant clip default duration increased from 10s to 20s.
+						<br>
+					</li>
+					<li>
+						Instant clip duration is now configurable in gaming mode.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Linux
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed native titles occasionally running in the wrong runtime.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629231591254773284" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck OLED: Limited Edition White - Launching Worldwide Next Week</title>
 			<link>https://steamdeck.komodo.jp/</link>
 			<content:encoded><![CDATA[<html>
@@ -484,53 +554,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734719581768282" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>SteamOS 3.6.20 Stable Update</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734546101196200</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 4, 2024
-			</h5>
-			<div>
-				<img src="https://clan.cloudflare.steamstatic.com/images/40893422/ae21a94c8cc7bd4b4ba625e406b82fc0e2656d5b.png">
-				<br>
-				SteamOS 3.6.20 has been released to the Stable channel for Deck with the following changes:
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<ul>
-					<li>
-						Fixed an issue where the updater could repeatedly revert you to the previous OS version if certain configuration files were user-modified
-						<br>
-					</li>
-					<li>
-						Fixed an issue with taking multiple screenshots if Game Recording is on
-						<br>
-					</li>
-					<li>
-						Improved performance in Metaphor: ReFantazio by up to 20%
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734546101196200" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
