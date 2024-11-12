@@ -160,7 +160,7 @@ None
 
 Optional Accessories
 
-Star Drive USB 3.0 Recovery Drive
+Star Drive Reversible USB 3.2 Recovery Drive
 
 StarPort 12-port USB-C PD Hub
 
