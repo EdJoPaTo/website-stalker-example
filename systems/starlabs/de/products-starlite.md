@@ -12,7 +12,7 @@ About
 
 StarLite
 
- Please note - the magnetic keyboard is not included by default.
+Please note - the magnetic keyboard is not included by default.
 
 Processor
 
