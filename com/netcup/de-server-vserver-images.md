@@ -13,27 +13,43 @@ Verfügbare Betriebssysteme als Image installierbar
 
 Details
 
-Alma Linux 9
+ArchLinux
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-AlmaLinux 8
+CentOS 8
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Archlinux
+CentOS 7
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Debian (11) Bullseye
+CentOS 7 + Plesk ®
+
+CentOS 7 mit vorinstalliertem Plesk ®
+
+CentOS 7 + Webuzo
+
+CentOS 7 mit vorinstalliertem Webuzo Control Panel
+
+Debian Stretch
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Debian (12) Bookworm
+Debian Stretch + OpenVPN Access Server
 
-Minimal System, lediglich SSH ist vorinstalliert
+Debian Stretch mit vorinstalliertem OpenVPN Access Server (inkl. 2 User Lizenz)
 
-FreeBSD 12
+Debian Stretch + Plesk ®
+
+Debian Stretch mit installiertem und vorkonfiguriertem Plesk ®
+
+Debian Stretch + PowerDNS
+
+Debian Stretch mit vorinstalliertem PowerDNS (automatische Slave-Konfiguration möglich)
+
+Fedora 34 Server
 
 Minimal System, lediglich SSH ist vorinstalliert
 
@@ -41,15 +57,11 @@ FreeBSD 13
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-OpenSUSE Leap 15.4
+FreeBSD 12
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Rocky Linux 8
-
-Minimal System, lediglich SSH ist vorinstalliert
-
-Rocky Linux 9
+OpenSUSE Leap 15.2
 
 Minimal System, lediglich SSH ist vorinstalliert
 
@@ -57,25 +69,29 @@ Ubuntu 20.04 LTS
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Ubuntu 22.04 LTS
+Ubuntu 18.04 LTS
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Ubuntu 24.04 LTS
+Ubuntu 18.04 LTS + Cloudron
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 18.04 LTS mit vorinstalliertem Cloudron Panel
 
-Debian (12) Bookworm arm64
+Ubuntu 18.04 LTS + Docker-CE
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 18.04 LTS mit vorinstalliertem Docker-CE für Linux Container
 
-Ubuntu 22.04 LTS arm64
+Ubuntu 18.04 LTS + NextCloud
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 18.04 LTS mit installierter und vorkonfiguriertem NextCloud
 
-Ubuntu 24.04 LTS arm64
+Ubuntu 18.04 LTS + OpenVPN Access Server
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 18.04 LTS mit vorinstalliertem OpenVPN Access Server (inkl. 2 User Lizenz)
+
+Ubuntu 18.04 LTS + Seafile
+
+Ubuntu 18.04 LTS mit vorinstalliertem Seafile
 
 CD-ROMs / DVDs zur Installation
 ----------
