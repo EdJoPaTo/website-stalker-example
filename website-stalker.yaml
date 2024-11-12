@@ -443,3 +443,29 @@ sites:
             - css_select: h3
             - html_textify
       - html_markdownify
+
+  - url:
+      - https://www.inuru.com/
+      - https://www.inuru.com/about/company
+      - https://www.inuru.com/solutions/clothing
+      - https://www.inuru.com/sustainability
+      - https://www.inuru.com/technology
+    editors:
+      - css_select: body
+      - css_remove: style, script, img, svg, video, iframe, .navbar, .section-footer, .footer-div, .cookies, .cta_component
+      - css_flatten: a.w-tab-link, a[href^="#"]
+      - html_markdownify
+
+  - url:
+      - https://www.inuru.com/about/news
+    editors:
+      - css_remove: style, script, img, svg, video, iframe, .navbar, .section-footer, .footer-div
+      - rss:
+          title: Inuru
+          item_selector: .w-dyn-item
+          title_selector: .title
+          content_editors:
+            - css_select: .blog-post-content
+            - css_flatten: div
+            - html_sanitize
+            - html_prettify
