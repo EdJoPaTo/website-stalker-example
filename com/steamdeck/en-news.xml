@@ -6,6 +6,90 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Client Update: November 12th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4629231855272462879</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Nov 12, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					Deck Specific Changes
+				</b>
+				<br>
+				<ul>
+					<li>
+						Game recording instant clip duration is now configurable in gaming mode.
+						<br>
+					</li>
+					<li>
+						Fixed native titles occasionally running in the wrong runtime.
+						<br>
+					</li>
+					<li>
+						Fixed a case where WiFi power management settings could fail to be applied at startup.
+					</li>
+				</ul>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed some outdated or missing strings in non-English languages.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed layout issues in the BPM Game Recording settings page.
+						<br>
+					</li>
+					<li>
+						Added export time to the progress bar in the send to phone dialog.
+						<br>
+					</li>
+					<li>
+						Instant clip default duration increased from 10s to 20s.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a case where a controller could not show up in the UI the very first time it was connected for an account.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629231855272462879" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: November 11th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4629231591254773284</link>
 			<content:encoded><![CDATA[<html>
@@ -480,80 +564,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734719581770606" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: November 5th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4633734719581768282</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 5, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved speed of export / copy to clipboard of videos/clips in some scenarios
-						<br>
-					</li>
-					<li>
-						Fixed issue that caused some of the options on the Save/Share button in the overlay to not do anything
-						<br>
-					</li>
-					<li>
-						Fixed issue with upload progress not showing correctly when creating a shareable link to a clip
-						<br>
-					</li>
-					<li>
-						Added range for disk space estimate from 1080p to 4k
-						<br>
-					</li>
-					<li>
-						Fixed a case where exporting to file could fail
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added support for the PowerA OPS v1, v3 Pro, Fusion Pro 4, and Fusion Pro Wireless controllers
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Immediately change codecs if HEVC or AV1 are enabled or disabled while streaming
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734719581768282" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
