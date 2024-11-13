@@ -6,6 +6,14 @@
 		<description></description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Manchmal hilft ein Lötkolben in der Waschmaschine</title>
+			<link>https://edjopato.de/post/2024/11/13-waschmaschine/</link>
+			<pubDate>Wed, 13 Nov 2024 19:12:00 +0100</pubDate>
+			<content:encoded><![CDATA[2024-11-13
+
+Manchmal hilft ein Lötkolben in der Waschmaschine]]></content:encoded>
+		</item>
+		<item>
 			<title>Meine Container mit Podman, systemd und Ansible</title>
 			<link>https://edjopato.de/post/2024/08/09-podman-systemd-ansible/</link>
 			<pubDate>Fri, 9 Aug 2024 13:13:00 +0200</pubDate>
@@ -100,6 +108,302 @@ Travelynx Erinnerung mit iOS]]></content:encoded>
 			<content:encoded><![CDATA[2022-08-04
 
 Environment Variablen Secrets in der Command Line]]></content:encoded>
+		</item>
+		<item>
+			<title>JSON Daten überprüfen mit JSON Schema</title>
+			<link>https://edjopato.de/post/2022/07/19-json-schema/</link>
+			<pubDate>Tue, 19 Jul 2022 18:19:00 +0200</pubDate>
+			<content:encoded><![CDATA[2022-07-19
+
+JSON Daten überprüfen mit JSON Schema]]></content:encoded>
+		</item>
+		<item>
+			<title>Mittels Fuzzyfind in Git Ordner springen</title>
+			<link>https://edjopato.de/post/2022/06/09-cdg/</link>
+			<pubDate>Thu, 9 Jun 2022 14:43:00 +0200</pubDate>
+			<content:encoded><![CDATA[2022-06-09
+
+Mittels Fuzzyfind in Git Ordner springen]]></content:encoded>
+		</item>
+		<item>
+			<title>Monitorzustand am Energieverbrauch erkennen</title>
+			<link>https://edjopato.de/post/2022/05/04-monitor-energy/</link>
+			<pubDate>Wed, 4 May 2022 20:50:00 +0200</pubDate>
+			<content:encoded><![CDATA[2022-05-04
+
+Monitorzustand am Energieverbrauch erkennen]]></content:encoded>
+		</item>
+		<item>
+			<title>Die Gnome 42 Console spart Strom</title>
+			<link>https://edjopato.de/post/2022/03/31-bright-console-brightness-power-usage/</link>
+			<pubDate>Thu, 31 Mar 2022 23:37:00 +0200</pubDate>
+			<content:encoded><![CDATA[2022-03-31
+
+Die Gnome 42 Console spart Strom]]></content:encoded>
+		</item>
+		<item>
+			<title>Meine Anpassungen und Erfahrungen mit Gnome 42</title>
+			<link>https://edjopato.de/post/2022/03/27-gnome42/</link>
+			<pubDate>Sun, 27 Mar 2022 13:49:00 +0200</pubDate>
+			<content:encoded><![CDATA[2022-03-27
+
+Meine Anpassungen und Erfahrungen mit Gnome 42]]></content:encoded>
+		</item>
+		<item>
+			<title>Audio Input mittels Pipewire auf den Kopfhörern ausgeben</title>
+			<link>https://edjopato.de/post/2022/03/15-pipewire-line-in/</link>
+			<pubDate>Tue, 15 Mar 2022 14:47:00 +0100</pubDate>
+			<content:encoded><![CDATA[2022-03-15
+
+Audio Input mittels Pipewire auf den Kopfhörern ausgeben]]></content:encoded>
+		</item>
+		<item>
+			<title>Eigenes Tool - Website Stalker</title>
+			<link>https://edjopato.de/post/2022/02/24-website-stalker/</link>
+			<pubDate>Thu, 24 Feb 2022 16:16:00 +0100</pubDate>
+			<content:encoded><![CDATA[2022-02-24
+
+Eigenes Tool - Website Stalker]]></content:encoded>
+		</item>
+		<item>
+			<title>Eigenes Terminal UI für MQTT - mqttui</title>
+			<link>https://edjopato.de/post/2022/02/14-mqttui/</link>
+			<pubDate>Mon, 14 Feb 2022 22:31:00 +0100</pubDate>
+			<content:encoded><![CDATA[2022-02-14
+
+Eigenes Terminal UI für MQTT - mqttui]]></content:encoded>
+		</item>
+		<item>
+			<title>Eigenes CLI Tool - project-below</title>
+			<link>https://edjopato.de/post/2022/02/09-project-below/</link>
+			<pubDate>Wed, 9 Feb 2022 02:00:00 +0100</pubDate>
+			<content:encoded><![CDATA[2022-02-09
+
+Eigenes CLI Tool - project-below]]></content:encoded>
+		</item>
+		<item>
+			<title>Rain Brainz - Eigene Bilder simpel präsentieren</title>
+			<link>https://edjopato.de/post/2021/12/31-rain-brainz/</link>
+			<pubDate>Fri, 31 Dec 2021 15:40:00 +0100</pubDate>
+			<content:encoded><![CDATA[2021-12-31
+
+Rain Brainz - Eigene Bilder simpel präsentieren]]></content:encoded>
+		</item>
+		<item>
+			<title>Tabs vs. Spaces</title>
+			<link>https://edjopato.de/post/2021/11/18-tabs-spaces/</link>
+			<pubDate>Thu, 18 Nov 2021 15:12:00 +0100</pubDate>
+			<content:encoded><![CDATA[2021-11-18
+
+Tabs vs. Spaces]]></content:encoded>
+		</item>
+		<item>
+			<title>Hallo an das Open-Source-Blog-Netzwerk</title>
+			<link>https://edjopato.de/post/2021/11/04-osbn/</link>
+			<pubDate>Thu, 4 Nov 2021 19:37:00 +0100</pubDate>
+			<content:encoded><![CDATA[2021-11-04
+
+Hallo an das Open-Source-Blog-Netzwerk]]></content:encoded>
+		</item>
+		<item>
+			<title>Fusselfreier Quellcode - so nervig wie möglich bitte</title>
+			<link>https://edjopato.de/post/2021/11/02-sourcecode-linter/</link>
+			<pubDate>Tue, 2 Nov 2021 20:10:00 +0100</pubDate>
+			<content:encoded><![CDATA[2021-11-02
+
+Fusselfreier Quellcode - so nervig wie möglich bitte]]></content:encoded>
+		</item>
+		<item>
+			<title>Von alles nach alles konvertieren</title>
+			<link>https://edjopato.de/post/2021/11/02-convert-everything/</link>
+			<pubDate>Tue, 2 Nov 2021 17:28:00 +0100</pubDate>
+			<content:encoded><![CDATA[2021-11-02
+
+Von alles nach alles konvertieren]]></content:encoded>
+		</item>
+		<item>
+			<title>Zocken in einem eigenen Windows am Arbeitslaptop</title>
+			<link>https://edjopato.de/post/2021/10/20-windows-to-go/</link>
+			<pubDate>Wed, 20 Oct 2021 22:04:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-10-20
+
+Zocken in einem eigenen Windows am Arbeitslaptop]]></content:encoded>
+		</item>
+		<item>
+			<title>Hacker*Innen Ethik und die Cloud</title>
+			<link>https://edjopato.de/post/2021/10/20-hackerinnen-ethik-cloud/</link>
+			<pubDate>Wed, 20 Oct 2021 02:17:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-10-20
+
+Hacker*Innen Ethik und die Cloud]]></content:encoded>
+		</item>
+		<item>
+			<title>Die Cloud - Computer fremder Menschen</title>
+			<link>https://edjopato.de/post/2021/10/18-cloud/</link>
+			<pubDate>Mon, 18 Oct 2021 23:45:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-10-18
+
+Die Cloud - Computer fremder Menschen]]></content:encoded>
+		</item>
+		<item>
+			<title>Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung</title>
+			<link>https://edjopato.de/post/2021/10/07-webcam-blur/</link>
+			<pubDate>Thu, 7 Oct 2021 19:25:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-10-07
+
+Webcam Blur und Backgrounds - Eine riesige, dezentrale Energieverschwendung]]></content:encoded>
+		</item>
+		<item>
+			<title>Rust hilft dabei, nur valide Zustände abzubilden</title>
+			<link>https://edjopato.de/post/2021/10/04-rust-safe-state/</link>
+			<pubDate>Mon, 4 Oct 2021 15:20:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-10-04
+
+Rust hilft dabei, nur valide Zustände abzubilden]]></content:encoded>
+		</item>
+		<item>
+			<title>Ein neuer Monitor und ungewöhnliche Experimente</title>
+			<link>https://edjopato.de/post/2021/09/21-monitor/</link>
+			<pubDate>Tue, 21 Sep 2021 23:31:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-09-21
+
+Ein neuer Monitor und ungewöhnliche Experimente]]></content:encoded>
+		</item>
+		<item>
+			<title>ISOs booten mit Ventoy</title>
+			<link>https://edjopato.de/post/2021/09/20-ventoy/</link>
+			<pubDate>Mon, 20 Sep 2021 12:34:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-09-20
+
+ISOs booten mit Ventoy]]></content:encoded>
+		</item>
+		<item>
+			<title>Cloud-sync per Command-Line mit Rclone</title>
+			<link>https://edjopato.de/post/2021/09/17-rclone/</link>
+			<pubDate>Fri, 17 Sep 2021 23:24:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-09-17
+
+Cloud-sync per Command-Line mit Rclone]]></content:encoded>
+		</item>
+		<item>
+			<title>Google Stadia</title>
+			<link>https://edjopato.de/post/2021/07/25-stadia/</link>
+			<pubDate>Sun, 25 Jul 2021 22:57:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-07-25
+
+Google Stadia]]></content:encoded>
+		</item>
+		<item>
+			<title>Gedanken zu effizienter Software</title>
+			<link>https://edjopato.de/post/2021/07/18-efficient-software/</link>
+			<pubDate>Sun, 18 Jul 2021 17:12:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-07-18
+
+Gedanken zu effizienter Software]]></content:encoded>
+		</item>
+		<item>
+			<title>LED-Pixelring Uhr</title>
+			<link>https://edjopato.de/post/2021/07/16-esp-pixelring-clock/</link>
+			<pubDate>Fri, 16 Jul 2021 14:57:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-07-16
+
+LED-Pixelring Uhr]]></content:encoded>
+		</item>
+		<item>
+			<title>Qualitätschecks von Webseiten</title>
+			<link>https://edjopato.de/post/2021/07/06-website-quality-checks/</link>
+			<pubDate>Tue, 6 Jul 2021 22:40:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-07-06
+
+Qualitätschecks von Webseiten]]></content:encoded>
+		</item>
+		<item>
+			<title>Browser Erweiterungen</title>
+			<link>https://edjopato.de/post/2021/06/29-browser-extensions/</link>
+			<pubDate>Tue, 29 Jun 2021 18:42:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-06-29
+
+Browser Erweiterungen]]></content:encoded>
+		</item>
+		<item>
+			<title>Strömekraft - Power Delivery in Netzteilen und portablen USB Akkus</title>
+			<link>https://edjopato.de/post/2021/06/20-powerdelivery/</link>
+			<pubDate>Sun, 20 Jun 2021 19:14:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-06-20
+
+Strömekraft - Power Delivery in Netzteilen und portablen USB Akkus]]></content:encoded>
+		</item>
+		<item>
+			<title>RSS lesen synchronisieren mit Miniflux</title>
+			<link>https://edjopato.de/post/2021/06/13-rss-miniflux/</link>
+			<pubDate>Sun, 13 Jun 2021 18:16:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-06-13
+
+RSS lesen synchronisieren mit Miniflux]]></content:encoded>
+		</item>
+		<item>
+			<title>Vergleich einiger Netcup und Hetzner Cloud Server</title>
+			<link>https://edjopato.de/post/2021/05/28-cloud-performance/</link>
+			<pubDate>Fri, 28 May 2021 17:55:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-05-28
+
+Vergleich einiger Netcup und Hetzner Cloud Server]]></content:encoded>
+		</item>
+		<item>
+			<title>Visionen von Projekten und Firmen</title>
+			<link>https://edjopato.de/post/2021/04/13-visions/</link>
+			<pubDate>Tue, 13 Apr 2021 13:22:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-04-13
+
+Visionen von Projekten und Firmen]]></content:encoded>
+		</item>
+		<item>
+			<title>Open Source Lizenzen</title>
+			<link>https://edjopato.de/post/2021/04/11-open-source-licenses/</link>
+			<pubDate>Sun, 11 Apr 2021 15:10:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-04-11
+
+Open Source Lizenzen]]></content:encoded>
+		</item>
+		<item>
+			<title>PinePhone als RSS und Mastodon Reader</title>
+			<link>https://edjopato.de/post/2021/04/08-pinephone-rss-reader/</link>
+			<pubDate>Thu, 8 Apr 2021 00:21:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-04-08
+
+PinePhone als RSS und Mastodon Reader]]></content:encoded>
+		</item>
+		<item>
+			<title>Raspberry Pi 4 als Hauptgerät</title>
+			<link>https://edjopato.de/post/2021/04/07-raspi-4-main-device/</link>
+			<pubDate>Wed, 7 Apr 2021 22:23:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-04-07
+
+Raspberry Pi 4 als Hauptgerät]]></content:encoded>
+		</item>
+		<item>
+			<title>Mal eben Videos und Sound bearbeiten</title>
+			<link>https://edjopato.de/post/2021/04/07-ffmpeg-aliases/</link>
+			<pubDate>Wed, 7 Apr 2021 21:28:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-04-07
+
+Mal eben Videos und Sound bearbeiten]]></content:encoded>
+		</item>
+		<item>
+			<title>Schnelle Suche in und nach Dateien in *nix Systemen</title>
+			<link>https://edjopato.de/post/2021/04/07-fd-ripgrep/</link>
+			<pubDate>Wed, 7 Apr 2021 20:30:00 +0200</pubDate>
+			<content:encoded><![CDATA[2021-04-07
+
+Schnelle Suche in und nach Dateien in *nix Systemen]]></content:encoded>
+		</item>
+		<item>
+			<title>Erste BL602 Experimente mit Rust</title>
+			<link>https://edjopato.de/post/2021/01/30-bl602-rust-experiments/</link>
+			<pubDate>Sat, 30 Jan 2021 18:56:00 +0100</pubDate>
+			<content:encoded><![CDATA[2021-01-30
+
+Erste BL602 Experimente mit Rust]]></content:encoded>
 		</item>
 	</channel>
 </rss>
