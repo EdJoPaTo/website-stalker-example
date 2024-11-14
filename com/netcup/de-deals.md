@@ -266,7 +266,7 @@ Auf dieser Seite findest du alle Informationen zu unseren Sonderangeboten bzw. D
 
 ### Können Gutscheine auf netcup Deals angewendet werden? ###
 
-Die Kombination von Gutscheinen und Deals ist bei netcup im Bestellprozess möglich, wenn auch vereinzelt dies an gewisse Bestimmungen verknüpft ist. Hierzu lohnt es sich die jeweiligen Aktionsbestimmungen zu betrachten, wo du detailliertere Informationen bekommst.
+Deals können unter gewissen Bestimmungen mit Gutscheinen kombiniert werden. Für einzelne Produkte können Ausnahmen gelten. Sollte dies der Fall sein, weisen wir darauf hin. Bitte beachte daher mögliche Hinweise auf der Produktseite.
 
 ### Wo finde ich günstige Domains und Webhostings bei netcup?  ###
 
