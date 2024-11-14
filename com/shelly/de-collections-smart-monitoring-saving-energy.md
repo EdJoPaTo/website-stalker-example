@@ -46,26 +46,6 @@ Verkaufspreis  €31,49 Normaler Preis
 
 Grundpreis /  pro
 
-### [Shelly 2PM Gen3](/de/products/shelly-2pm-gen3-1)  ###
-
-Normaler Preis  €32,01
-
-Verkaufspreis  €32,01 Normaler Preis
-
-Grundpreis /  pro
-
- Steuere und überwache zwei verschiedene Stromkreise oder Rollläden, Jalousien und andere bidirektionale Motoren - egal, wo Du bist. Mit integrierter Leistungsmessung.
-
- Abdeckungen und Jalousien
-
- Leistungsüberwachung
-
- Lichter
-
- Elektrogeräte
-
- Garagentor
-
 ### [Shelly 3EM](/de/products/shelly-3em)  ###
 
 Normaler Preis  €129,71
@@ -165,6 +145,42 @@ Grundpreis /  pro
 
  Lichter
 
+### [Shelly Plus 0-10V Dimmer](/de/products/shelly-plus-0-10v-dimmer)  ###
+
+Normaler Preis  €17,73
+
+Verkaufspreis  €17,73 Normaler Preis
+
+Grundpreis /  pro
+
+ Ermöglicht die Nutzung eigener Lichtschalter und die nahtlose Integration von Dimmfunktionen in Dein bestehendes Setup.
+
+ Dimmen
+
+ LED-Treiber
+
+ Lichter
+
+### [Shelly Plus 1](/de/products/shelly-plus-1-x1)  ###
+
+Normaler Preis  €17,73
+
+Verkaufspreis  €17,73 Normaler Preis
+
+Grundpreis /  pro
+
+ Shelly Plus 1
+
+### [Shelly Plus 1 x2](/de/products/shelly-plus-1-x2)  ###
+
+Normaler Preis  €34,75
+
+Verkaufspreis  €34,75 Normaler Preis
+
+Grundpreis /  pro
+
+ Shelly Plus 1 - Pack x2
+
 ### [Shelly Plus 1PM](/de/products/shelly-plus-1pm)  ###
 
 Normaler Preis  €20,11
@@ -173,17 +189,29 @@ Verkaufspreis  €20,11 Normaler Preis
 
 Grundpreis /  pro
 
- WLAN-Smart-Schalter mit präziser Energiemessung und kostenlosem Cloud-Datenspeicher. Bietet vielfältige Automatisierungsmöglichkeiten.
+ Shelly Plus 1PM
 
- Leistungsüberwachung
+### [Shelly Plus 1PM x2](/de/products/shelly-plus-1pm-x2)  ###
 
- Lichter
+Normaler Preis  €39,39
 
- Elektrogeräte
+Verkaufspreis  €39,39 Normaler Preis
 
- Heizung
+Grundpreis /  pro
 
- Fußbodenheizung
+ Wi-Fi-operated smart relay, 1 channel 16A, with Power Metering
+Control and measure power consumption for a wide range of home appliances and office equipment (lights, power lines, security systems,...
+
+### [Shelly Plus 1PM x4](/de/products/shelly-plus-1pm-x4)  ###
+
+Normaler Preis  €77,23
+
+Verkaufspreis  €77,23 Normaler Preis
+
+Grundpreis /  pro
+
+ Wi-Fi-operated smart relay, 1 channel 16A, with Power Metering
+Control and measure power consumption for a wide range of home appliances and office equipment (lights, power lines, security systems,...
 
 ### [Shelly Plus 2PM](/de/products/shelly-plus-2pm)  ###
 
@@ -193,17 +221,29 @@ Verkaufspreis  €30,82 Normaler Preis
 
 Grundpreis /  pro
 
- Ein Gerät, viele Möglichkeiten: Automatisiere die Beleuchtung, überwache den Echtzeit-Stromverbrauch oder steuere Rollläden, Vorhänge usw.
+ Shelly Plus 2PM
 
- Abdeckungen und Jalousien
+### [Shelly Plus 2PM x2](/de/products/shelly-plus-2pm-x2)  ###
 
- Leistungsüberwachung
+Normaler Preis  €60,40
 
- Lichter
+Verkaufspreis  €60,40 Normaler Preis
 
- Garagentor
+Grundpreis /  pro
 
- Elektrogeräte
+ Shelly Plus 2PM - Pack x2
+
+### [Shelly Plus Add-On](/de/products/shelly-plus-add-on)  ###
+
+Normaler Preis  €16,07
+
+Verkaufspreis  €16,07 Normaler Preis
+
+Grundpreis /  pro
+
+ Shelly Plus AddOn
+
+ Variants:  Shelly Plus Add-OnVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 1x Sensor DSVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 2x Sensor DSVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 3x Sensor DSVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly Plus Plug IT](/de/products/shelly-plus-plug-it)  ###
 
@@ -234,6 +274,38 @@ Verkaufspreis  €53,41 Normaler Preis
 Grundpreis /  pro
 
  Shelly Plus RGBW PM
+
+### [Shelly Plus Uni](/de/products/shelly-plus-uni)  ###
+
+Normaler Preis  €17,73
+
+Verkaufspreis  €17,73 Normaler Preis
+
+Grundpreis /  pro
+
+ Bringt Deinen alten Geräten smarte Funktionen. Geeignet für Niederspannungsanwendungen. Seine neue Impulszählung ermöglicht detaillierte Überwachung Deines Verbrauchs.
+
+ Sensordaten
+
+ Türklingel
+
+ Türschloss
+
+ Camper Van
+
+ Elektrogeräte
+
+### [Shelly Plus i4 DC](/de/products/shelly-plus-i4-dc)  ###
+
+Normaler Preis  €14,16
+
+Verkaufspreis  €14,16 Normaler Preis
+
+Grundpreis /  pro
+
+ WLAN-betriebener Controller mit 4 digitalen Eingängen, ermöglicht manuelle Aktivierung oder Deaktivierung jeder Szene und Ausführung komplexer Trigger-Szenarien.
+
+ Szenenaktivierung
 
 ### [Shelly Pro 1PM](/de/products/shelly-pro-1pm)  ###
 
@@ -373,21 +445,129 @@ Grundpreis /  pro
 
  Leistungsüberwachung
 
-### [Shelly Wall Display + H&T White](/de/products/shelly-wall-display-white)  ###
+### [Shelly Temp. Sensor DS18B20 3m cable](/de/products/shelly-temp-sensor-ds18b20-3m-cable)  ###
 
-Normaler Preis  €148,75
+Normaler Preis  €7,02
 
-Verkaufspreis  €148,75 Normaler Preis
+Verkaufspreis  €7,02 Normaler Preis
 
 Grundpreis /  pro
 
- Steuere Deine smarten Geräte mit dem Shelly Wall Display von einem zentralen Ort aus, jetzt in Kombination mit dem Shelly BLU H&T für eine präzise Klimasteuerung
+ Temperature Sensor DS18B20 for Shelly AddOn - 3.0m cable
 
- Raumverwaltung
+ Variante: 3 meters  1 meterVariante ausverkauft oder nicht verfügbar  3 metersVariante ausverkauft oder nicht verfügbar
 
- Thermostat
+### [Shelly Wall Frame 1 for Wall Switch](/de/products/shelly-frame-for-wall-switch-black)  ###
 
- Zentralisierte Kontrolle
+Normaler Preis  €4,64
+
+Verkaufspreis  €4,64 Normaler Preis
+
+Grundpreis /  pro
+
+ 1-fach Halterrahmen für Shelly-Wandschalter
+Dieser Halterrahmen muss am Shelly-Wandschalter (Tasten) befestigt werden. Der Halterrahmen wird mit einer Rahmenplatte in der gleichen Farbe geliefert,...
+
+ Variante: Wall Frame 1 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: Black Black White
+
+### [Shelly Wall Frame 1 for Wall Switch](/de/products/shelly-frame-for-wall-switch-white)  ###
+
+Normaler Preis  €4,64
+
+Verkaufspreis  €4,64 Normaler Preis
+
+Grundpreis /  pro
+
+ 1 holder switch frame for Shelly Wall Switch This switch frame needs to be attached to the Shelly Wall Switch (buttons). The switch frame comes with a frame plate in the same color for a stylish f...
+
+ Variante: Wall Frame 1 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: White Black White
+
+### [Shelly Wall Frame 2 for Wall Switch](/de/products/shelly-frame-for-wall-switch-black-x2)  ###
+
+Normaler Preis  €8,21
+
+Verkaufspreis  €8,21 Normaler Preis
+
+Grundpreis /  pro
+
+ 2-fach Halterrahmen für Shelly-Wandschalter
+Dieser Halterrahmen muss am Shelly-Wandschalter (Tasten) befestigt werden. Der Halterrahmen wird mit einer Rahmenplatte in der gleichen Farbe geliefert,...
+
+ Variante: Wall Frame 2 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: Black Black White
+
+### [Shelly Wall Frame 2 for Wall Switch](/de/products/shelly-frame-for-wall-switch-white-x2)  ###
+
+Normaler Preis  €8,21
+
+Verkaufspreis  €8,21 Normaler Preis
+
+Grundpreis /  pro
+
+ 2-fach Halterrahmen für Shelly-Wandschalter
+Dieser Halterrahmen muss am Shelly-Wandschalter (Tasten) befestigt werden. Der Halterrahmen wird mit einer Rahmenplatte in der gleichen Farbe geliefert,...
+
+ Variante: Wall Frame 2 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: White Black White
+
+### [Shelly Wall Frame 3 for Wall Switch](/de/products/shelly-frame-for-wall-switch-black-x3)  ###
+
+Normaler Preis  €10,59
+
+Verkaufspreis  €10,59 Normaler Preis
+
+Grundpreis /  pro
+
+ 3-fach Halterrahmen für Shelly-Wandschalter
+Dieser Halterrahmen muss am Shelly-Wandschalter (Tasten) befestigt werden. Der Halterrahmen wird mit einer Rahmenplatte in der gleichen Farbe geliefert,...
+
+ Variante: Wall Frame 3 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: Black Black White
+
+### [Shelly Wall Frame 3 for Wall Switch](/de/products/shelly-frame-for-wall-switch-white-x3)  ###
+
+Normaler Preis  €10,59
+
+Verkaufspreis  €10,59 Normaler Preis
+
+Grundpreis /  pro
+
+ Schalterrahmen mit 3 Haltern für Shelly Wall Switch Dieser Schalterrahmen muss an den Shelly-Wandschalter (Tasten) angebracht werden. Der Schalterrahmen wird mit einer Rahmenplatte in der gleichen...
+
+ Variante: Wall Frame 3 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: White Black White
+
+### [Shelly Wall Socket EU Black](/de/products/shelly-wall-socket-eu-black)  ###
+
+Normaler Preis  €8,57
+
+Verkaufspreis  €8,57 Normaler Preis
+
+Grundpreis /  pro
+
+ Shelly Wall Socket for Smart Relays
+Shelly Wall Socket can fit into any existing wall socket console or even the tiniest spaces due to its compact dimensions and simple wiring. When combined with t...
+
+ Color: Black White Black
+
+### [Shelly Wall Socket EU White](/de/products/shelly-wall-socket-eu-white)  ###
+
+Normaler Preis  €8,57
+
+Verkaufspreis  €8,57 Normaler Preis
+
+Grundpreis /  pro
+
+ Shelly Wall Socket for Smart Relays
+Shelly Wall Socket can fit into any existing wall socket console or even the tiniest spaces due to its compact dimensions and simple wiring. When combined with t...
+
+ Color: White White Black
+
+### [Shelly Wall Socket EU White](/de/products/shelly-wall-socket-eu-white)  ###
+
+Normaler Preis  €8,57
+
+Verkaufspreis  €8,57 Normaler Preis
+
+Grundpreis /  pro
+
+ Passt in jede bestehende Wandsteckdosenkonsole oder auch in kleinste Räume dank kompakter Größe und einfacher Verkabelung. Kein Relais im Paket.
 
  Color: White White Black
 
