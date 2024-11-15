@@ -74,20 +74,6 @@ bei Tag & Nacht
 
 [alle Funktionssocken](https://www.engelbert-strauss.de/funktionssocken/?itemOrigin=StartseiteHW24)
 
-###  e.s. Adventskalender Edition 6  ###
-
----
-
- 24X STRAUSS WEIHNACHT IN DER BOX!
-
-###  Alle Jahre wieder  ###
-
----
-
- Der e.s. Adventskalender überrascht alle fleißigen Tüftler, Handwerker, Heimwerker und Hobbyschrauber mit 33 Teilen für alle großen und kleinen Projekte.
-
-[zum Adventskalender](https://www.engelbert-strauss.de/handwerkzeuge/e-s-adventskalender-edition-6-7903200-5576500-0.html?itemorigin=StartseiteHW24)
-
 Sie gestalten
 Wir sticken
 
