@@ -37,6 +37,8 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 [19.11.2024 RE2/RE3/RB31 Ersatzverkehr mit Bussen Uelzen \<\> Celle](https://www.der-metronom.de/baustellen/re2-re3-rb31-ersatzverkehr-mit-bussen-uelzen-celle/)
 
+[04.12.2024 - 08.12.2024 RE2/RE3: nächtliche Teilausfälle zwischen Uelzen \<\> Celle/Hannover Hbf](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf/)
+
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [12.11.2024 - 17.11.2024 RE3/RB31: einzelne Haltausfälle](https://www.der-metronom.de/baustellen/re3-rb31-einzelne-haltausfaelle/)
@@ -45,11 +47,15 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [01.12.2024 - 02.12.2024 RE3/RB31: Teilausfälle zwischen Lüneburg \<\> Uelzen und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-lueneburg-uelzen-und-fahrzeitenaenderungen/)
 
+[04.12.2024 - 09.12.2024 RE3/RB31: diverse nächtliche Halt- und Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-diverse-naechtliche-halt-und-teilausfaelle/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [21.11.2024 - 23.11.2024 RE4/RB41 Teilausfälle Rotenburg (W.) \<\> Bremen Hbf sowie Hamburg-Harburg \> Hamburg Hbf](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-rotenburg-w-bremen-hbf-sowie-hamburg-harburg-hamburg-hbf/)
 
 [24.11.2024 - 01.12.2024 RE4/RB41 Teilausfall Bremen Hbf \<\> Ottersberg/Rotenburg und Hamburg Hbf \<\>Hamburg-Harburg](https://www.der-metronom.de/baustellen/re4-rb41-teilausfall-bremen-hbf-ottersberg-rotenburg-und-hamburg-hbf-hamburg-harburg/)
+
+[02.12.2024 - 05.12.2024 RE4/RB41 nächtliche Teilausfälle zwischen Rotenburg (W.) \<\> Bremen Hbf](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-teilausfaelle-zwischen-rotenburg-w-bremen-hbf/)
 
 **Barrierefrei ohne PDF-Datei**
 Wir arbeiten gerade daran, die Fahrplantabellen nicht mehr als PDF-Dateien anzubieten. Unser Ziel ist es, die Tabellen in einem Format bereitzustellen, das für alle einfach zugänglich ist. So kann jeder, egal mit welchem Gerät, die Informationen leicht abrufen. Das macht es einfacher für Menschen mit mobilen Geräten und für Menschen mit besonderen Bedürfnissen. Damit wollen wir die Informationen moderner und für alle nutzerfreundlich machen.
