@@ -106,7 +106,7 @@ Grundpreis /  pro
 
  Shelly Plus AddOn
 
- Variants:  Shelly Plus Add-OnVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 1x Sensor DSVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 2x Sensor DSVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 3x Sensor DSVariante ausverkauft oder nicht verfügbar
+ Variants:  Shelly Plus Add-OnVariante ausverkauft oder nicht verfügbar  1x Sensor DSVariante ausverkauft oder nicht verfügbar  2x Sensor DSVariante ausverkauft oder nicht verfügbar  3x Sensor DSVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly Plus H&T](/de/products/shelly-plus-h-t)  ###
 

@@ -16,8 +16,7 @@ Verkaufspreis  €18,45 Normaler Preis
 
 Grundpreis /  pro
 
- WLAN-gesteuerter Smart-Schalter, 1-Kanal, 16 A
-Der Shelly 1 Gen3 ist ein kompakter Smart-Schalter mit potentialfreien Kontakten. Steuere eine Vielzahl von Haushalts- und Bürogeräten (Lampen, Stromk...
+ WLAN-betriebener Smart-Schalter zur Fernsteuerung einer Vielzahl von Haushalts- und Bürogeräten (Licht, Stromleitungen, Sicherheitssysteme, Heizungen, Heizkörper, Steckdosen, LED-Leisten usw.) von ...
 
  Lichter
 
@@ -29,14 +28,6 @@ Der Shelly 1 Gen3 ist ein kompakter Smart-Schalter mit potentialfreien Kontakten
 
  Bewässerung
 
-### [Shelly 1 Gen3 x2](/de/products/shelly-1-gen3-x2)  ###
-
-Normaler Preis  €36,15
-
-Verkaufspreis  €36,15 Normaler Preis
-
-Grundpreis /  pro
-
 ### [Shelly 1 Mini Gen3](/de/products/shelly-1-mini-gen3)  ###
 
 Normaler Preis  €14,16
@@ -45,18 +36,17 @@ Verkaufspreis  €14,16 Normaler Preis
 
 Grundpreis /  pro
 
- Wi-Fi-operated smart switch, 1 channel 8 AThe smallest relay switch in the world for smart control. Automate your lights, garage door, irrigation system, or other small electrical appliances in les...
+ Ausgestattet mit neuem Prozessor & mehr Flash-Speicher. Ein WLAN-Smart-Schalter für nahtlose Integration in engste Räume und Schalterboxen.
 
-### [Shelly 1 Mini Gen3 x2](/de/products/shelly-1-mini-gen3-x2)  ###
+ Lichter
 
-Normaler Preis  €27,73
+ Elektrogeräte
 
-Verkaufspreis  €27,73 Normaler Preis
+ Türschloss
 
-Grundpreis /  pro
+ Türklingel
 
- Wi-Fi-operated smart switch, 1 channel 8 A
-The smallest relay switch in the world for smart control. Automate your lights, garage door, irrigation system, or other small electrical appliances in le...
+ Ventilator
 
 ### [Shelly 1PM Gen3](/de/products/shelly-1pm-gen3)  ###
 
@@ -65,6 +55,8 @@ Normaler Preis  €20,83
 Verkaufspreis  €20,83 Normaler Preis
 
 Grundpreis /  pro
+
+ WLAN-gesteuerter Smart-Schalter mit Leistungsmessung für die Fernsteuerung einer Vielzahl von Haushalts- und Bürogeräten.
 
  Leistungsüberwachung
 
@@ -75,22 +67,6 @@ Grundpreis /  pro
  Heizung
 
  Fußbodenheizung
-
-### [Shelly 1PM Gen3 x2](/de/products/shelly-1pm-gen3-x-2)  ###
-
-Normaler Preis  €40,82
-
-Verkaufspreis  €40,82 Normaler Preis
-
-Grundpreis /  pro
-
-### [Shelly 1PM Gen3 x4](/de/products/shelly-1pm-gen3-x-4)  ###
-
-Normaler Preis  €79,97
-
-Verkaufspreis  €79,97 Normaler Preis
-
-Grundpreis /  pro
 
 ### [Shelly 1PM Mini Gen3](/de/products/shelly-1pm-mini-gen3)  ###
 
@@ -112,77 +88,11 @@ Grundpreis /  pro
 
  Ventilator
 
-### [Shelly 1PM Mini Gen3](/de/products/shelly-1pm-mini-gen3)  ###
-
-Normaler Preis  €16,07
-
-Verkaufspreis  €16,07 Normaler Preis
-
-Grundpreis /  pro
-
- Lichter
-
- Elektrogeräte
-
- Türschloss
-
- Türklingel
-
- Ventilator
-
-### [Shelly 1PM Mini Gen3 x2](/de/products/shelly-1pm-mini-gen3-x2)  ###
-
-Normaler Preis  €31,49
-
-Verkaufspreis  €31,49 Normaler Preis
-
-Grundpreis /  pro
-
 ### [Shelly 2PM Gen3](/de/products/shelly-2pm-gen3-1)  ###
 
 Normaler Preis  €32,01
 
 Verkaufspreis  €32,01 Normaler Preis
-
-Grundpreis /  pro
-
- Steuere und überwache zwei verschiedene Stromkreise oder Rollläden, Jalousien und andere bidirektionale Motoren - egal, wo Du bist. Mit integrierter Leistungsmessung.
-
- Abdeckungen und Jalousien
-
- Leistungsüberwachung
-
- Lichter
-
- Elektrogeräte
-
- Garagentor
-
-### [Shelly 2PM Gen3](/de/products/shelly-2pm-gen3)  ###
-
-Normaler Preis  €62,74
-
-Verkaufspreis  €62,74 Normaler Preis
-
-Grundpreis /  pro
-
- Steuere und überwache zwei verschiedene Stromkreise oder Rollläden, Jalousien und andere bidirektionale Motoren - egal, wo Du bist. Mit integrierter Leistungsmessung.
-
- Abdeckungen und Jalousien
-
- Leistungsüberwachung
-
- Lichter
-
- Elektrogeräte
-
- Garagentor
-
-### [Shelly 2PM Gen3](/de/products/shelly-2pm-gen3-2)  ###
-
-Normaler Preis  €122,93
-
-Verkaufspreis  €122,93 Normaler Preis
 
 Grundpreis /  pro
 
@@ -214,6 +124,16 @@ Grundpreis /  pro
 
  Leistungsüberwachung
 
+### [Shelly DALI Dimmer Gen3](/de/products/shelly-dali-dimmer-gen3)  ###
+
+Normaler Preis  €53,55
+
+Verkaufspreis  €53,55 Normaler Preis
+
+Grundpreis /  pro
+
+ Verbessere Deine Beleuchtungssteuerung mit dem Shelly DALI Dimmer Gen3 - Deinem ultimativen Gerät für die Helligkeitssteuerung eines DALI-Netzwerks von Leuchten.
+
 ### [Shelly Dimmer 0/1-10V PM Gen3](/de/products/shelly-0-1-10v-dimmer-pm-gen3)  ###
 
 Normaler Preis  €18,92
@@ -238,17 +158,13 @@ Verkaufspreis  €34,39 Normaler Preis
 
 Grundpreis /  pro
 
- Shelly Dimmer2
+ Smarter Dimmer zur Helligkeitseinstellung mit präziser Energiemessung, passend für alle elektrischen Installationen - sogar in Häusern ohne Neutralleiter.
 
-### [Shelly Dimmer2 x2](/de/products/shelly-dimmer2-x2)  ###
+ Dimmen
 
-Normaler Preis  €68,78
+ LED-Treiber
 
-Verkaufspreis  €68,78 Normaler Preis
-
-Grundpreis /  pro
-
- Shelly Dimmer2 - Pack x2
+ Lichter
 
 ### [Shelly EM + 50A Clamp](/de/products/shelly-em-50a-clamp-1)  ###
 
@@ -260,18 +176,25 @@ Grundpreis /  pro
 
  WLAN-betriebener Energiemesser zur Überwachung des Verbrauchs von Haushaltsgeräten in zwei Stromkreisen.
 
- Variants:  Shelly EM + 50A ClampVariante ausverkauft oder nicht verfügbar  Shelly EM + 120A ClampVariante ausverkauft oder nicht verfügbar  Shelly EM + 2 x 120A ClampVariante ausverkauft oder nicht verfügbar  Shelly EM + 2x 50A ClampVariante ausverkauft oder nicht verfügbar  Shelly EM + 120A + 50A ClampsVariante ausverkauft oder nicht verfügbar
+ Variants:  50A ClampVariante ausverkauft oder nicht verfügbar  120A ClampVariante ausverkauft oder nicht verfügbar  2 x 120A ClampVariante ausverkauft oder nicht verfügbar  2x 50A ClampVariante ausverkauft oder nicht verfügbar  50A ClampsVariante ausverkauft oder nicht verfügbar
 
-### [Shelly PM Mini Gen3](/de/products/shelly-pm-mini-gen3)  ###
+### [Shelly EM Gen3](/de/products/shelly-em-gen3)  ###
 
-Normaler Preis  €15,35
+Normaler Preis  €73,66
 
-Verkaufspreis  €15,35 Normaler Preis
+Verkaufspreis  €73,66 Normaler Preis
 
 Grundpreis /  pro
 
- Wi-Fi-operated smart power meter, 1 channel 16 A
-The smallest power meter in the world for precise power monitoring. Automate your lights or electrical appliances in less than 10 minutes and monito...
+ Erhalte Echtzeiteinblicke in den Verbrauch Deiner verbundenen Geräte mit dem Shelly EM Gen3. Mit der Überwachung des Energieverbrauchs in Echtzeit erkennst Du sehr schnell, welche Möglichkeiten zur...
+
+ Energieeinsparung
+
+ Schützsteuerung
+
+ Leistungsüberwachung
+
+ Varianten: 50-A-Stromzange  50-A-StromzangeVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly PM Mini Gen3](/de/products/shelly-pm-mini-gen3)  ###
 
@@ -286,17 +209,6 @@ Grundpreis /  pro
  Leistungsmessung
 
  Energieeinsparung
-
-### [Shelly PM Mini Gen3 x2](/de/products/shelly-pm-mini-gen3-x2)  ###
-
-Normaler Preis  €30,08
-
-Verkaufspreis  €30,08 Normaler Preis
-
-Grundpreis /  pro
-
- Wi-Fi-operated smart power meter, 1 channel 16 A
-The smallest power meter in the world for precise power monitoring. Automate your lights or electrical appliances in less than 10 minutes and monito...
 
 ### [Shelly PRO EM-50](/de/products/shelly-pro-em-50)  ###
 
@@ -358,17 +270,17 @@ Verkaufspreis  €17,73 Normaler Preis
 
 Grundpreis /  pro
 
- Shelly Plus 1
+ WLAN-Smart-Schalter zur Steuerung einer breiten Palette von Haushaltsgeräten und Büroausrüstung von überall.
 
-### [Shelly Plus 1 x2](/de/products/shelly-plus-1-x2)  ###
+ Lichter
 
-Normaler Preis  €34,75
+ Bewässerung
 
-Verkaufspreis  €34,75 Normaler Preis
+ Türschloss
 
-Grundpreis /  pro
+ Heizung & Kühlung
 
- Shelly Plus 1 - Pack x2
+ Wasserverteiler
 
 ### [Shelly Plus 1PM](/de/products/shelly-plus-1pm)  ###
 
@@ -378,18 +290,17 @@ Verkaufspreis  €20,11 Normaler Preis
 
 Grundpreis /  pro
 
- Shelly Plus 1PM
+ WLAN-Smart-Schalter mit präziser Energiemessung und kostenlosem Cloud-Datenspeicher. Bietet vielfältige Automatisierungsmöglichkeiten.
 
-### [Shelly Plus 1PM x4](/de/products/shelly-plus-1pm-x4)  ###
+ Leistungsüberwachung
 
-Normaler Preis  €77,23
+ Lichter
 
-Verkaufspreis  €77,23 Normaler Preis
+ Elektrogeräte
 
-Grundpreis /  pro
+ Heizung
 
- Wi-Fi-operated smart relay, 1 channel 16A, with Power Metering
-Control and measure power consumption for a wide range of home appliances and office equipment (lights, power lines, security systems,...
+ Fußbodenheizung
 
 ### [Shelly Plus 2PM](/de/products/shelly-plus-2pm)  ###
 
@@ -399,17 +310,17 @@ Verkaufspreis  €30,82 Normaler Preis
 
 Grundpreis /  pro
 
- Shelly Plus 2PM
+ Ein Gerät, viele Möglichkeiten: Automatisiere die Beleuchtung, überwache den Echtzeit-Stromverbrauch oder steuere Rollläden, Vorhänge usw.
 
-### [Shelly Plus 2PM x2](/de/products/shelly-plus-2pm-x2)  ###
+ Abdeckungen und Jalousien
 
-Normaler Preis  €60,40
+ Leistungsüberwachung
 
-Verkaufspreis  €60,40 Normaler Preis
+ Lichter
 
-Grundpreis /  pro
+ Garagentor
 
- Shelly Plus 2PM - Pack x2
+ Elektrogeräte
 
 ### [Shelly Plus Add-On](/de/products/shelly-plus-add-on)  ###
 
@@ -421,7 +332,44 @@ Grundpreis /  pro
 
  Shelly Plus AddOn
 
- Variants:  Shelly Plus Add-OnVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 1x Sensor DSVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 2x Sensor DSVariante ausverkauft oder nicht verfügbar  Shelly Plus Add-On + 3x Sensor DSVariante ausverkauft oder nicht verfügbar
+ Variants:  Shelly Plus Add-OnVariante ausverkauft oder nicht verfügbar  1x Sensor DSVariante ausverkauft oder nicht verfügbar  2x Sensor DSVariante ausverkauft oder nicht verfügbar  3x Sensor DSVariante ausverkauft oder nicht verfügbar
+
+### [Shelly Plus PM Mini](/de/products/shelly-plus-pm-mini)  ###
+
+Normaler Preis  €15,35
+
+Verkaufspreis  €15,35 Normaler Preis
+
+Grundpreis /  pro
+
+ Wi-Fi-operated smart power meter, 1 channel 16 A
+The smallest power meter in the world for precise power monitoring. Automate your lights or electrical appliances in less than 10 minutes and monito...
+
+ Leistungsüberwachung
+
+ Szenenaktivierung
+
+ Elektrogeräte
+
+### [Shelly Plus Plug IT](/de/products/shelly-plus-plug-it)  ###
+
+Normaler Preis  €23,68
+
+Verkaufspreis  €23,68 Normaler Preis
+
+Grundpreis /  pro
+
+ Smart-Stecker mit WLAN, Bluetooth und Energiemessung. Steuert und überwacht Beleuchtung und Geräte bis 2300W.
+
+ Elektrogeräte
+
+ Leistungsüberwachung
+
+ Energieeinsparung
+
+ Heizung & Kühlung
+
+ Lichter
 
 ### [Shelly Plus RGBW PM](/de/products/shelly-plus-rgbw-pm)  ###
 
@@ -431,17 +379,15 @@ Verkaufspreis  €27,25 Normaler Preis
 
 Grundpreis /  pro
 
- Shelly Plus RGBW PM
+ Ein kompakter und vielseitiger RGBW-Controller, der für mühelose Steuerung von LED-Streifen entwickelt wurde. Mit Unterstützung für RGBW, RGB und Licht profile.
 
-### [Shelly Plus RGBW PM x2](/de/products/shelly-plus-rgbw-pm-x2)  ###
+ LED-Streifen
 
-Normaler Preis  €53,41
+ Leistungsmessung
 
-Verkaufspreis  €53,41 Normaler Preis
+ Dimmen
 
-Grundpreis /  pro
-
- Shelly Plus RGBW PM
+ Farbe
 
 ### [Shelly Plus Uni](/de/products/shelly-plus-uni)  ###
 
@@ -495,6 +441,26 @@ Grundpreis /  pro
 
  ...& andere
 
+### [Shelly Pro 2PM](/de/products/shelly-pro-2pm)  ###
+
+Normaler Preis  €98,18
+
+Verkaufspreis  €98,18 Normaler Preis
+
+Grundpreis /  pro
+
+ 1-Phasen, 2-Kanal-Relais mit zwei präzisen Energiemessern zur separaten Steuerung und Überwachung des Verbrauchs pro Kanal. Ideal für Rollladenautomatisierung.
+
+ Abdeckungen und Jalousien
+
+ Lichter
+
+ Elektrogeräte
+
+ Leistungsüberwachung
+
+ ...& andere
+
 ### [Shelly Pro 3EM](/de/products/shelly-pro-3em-x1)  ###
 
 Normaler Preis  €142,68
@@ -527,6 +493,28 @@ Grundpreis /  pro
 
  Variante: 120A  120AVariante ausverkauft oder nicht verfügbar  400AVariante ausverkauft oder nicht verfügbar
 
+### [Shelly Pro 3EM Switch Add-on](/de/products/shelly-pro-3em-switch-add-on)  ###
+
+Normaler Preis  €23,68
+
+Verkaufspreis  €23,68 Normaler Preis
+
+Grundpreis /  pro
+
+ Galvanisch isolierter Schalter zur Erweiterung der Funktionen des Shelly Pro 3EM Geräts. Ermöglicht flexiblere Kontrolle und Überwachung des Verbrauchs.
+
+ Schützsteuerung
+
+### [Shelly Pro 3EM-3CT63](/de/products/shelly-pro-3em-3ct63)  ###
+
+Normaler Preis  €117,81
+
+Verkaufspreis  €117,81 Normaler Preis
+
+Grundpreis /  pro
+
+ Ein- oder dreiphasiger Energiezähler der nächsten Generation mit einem kombinierten 63-A- und dreiphasigen Stromwandler.
+
 ### [Shelly Pro 4PM](/de/products/shelly-pro-4pm)  ###
 
 Normaler Preis  €116,50
@@ -545,6 +533,32 @@ Grundpreis /  pro
 
  Lastabwurf
 
+### [Shelly Pro Dimmer 1PM](/de/products/shelly-pro-dimmer-1pm)  ###
+
+Normaler Preis  €66,52
+
+Verkaufspreis  €66,52 Normaler Preis
+
+Grundpreis /  pro
+
+ Auf DIN-Schiene montierbarer, Smart-Dimmer mit Energiemessung. Steuere das Dimmen und messe die Leistung von Halogenlampen, dimmbaren LEDs und ferromagnetischen Transformatoren.
+
+ Variante: 1 channel  1 channelVariante ausverkauft oder nicht verfügbar  2 channelsVariante ausverkauft oder nicht verfügbar
+
+### [Shelly Pro Dual Cover / Shutter PM](/de/products/shelly-pro-dual-cover-shutter-pm)  ###
+
+Normaler Preis  €116,50
+
+Verkaufspreis  €116,50 Normaler Preis
+
+Grundpreis /  pro
+
+ Dual-Cover-Smart-Controller mit integrierten präzisen Energiemessern - steuert und überwacht den Verbrauch jeder Abdeckung separat. Perfekt für die Automatisierung von Rollläden, Vorhängen, Toren usw.
+
+ Abdeckungen und Jalousien
+
+ Leistungsüberwachung
+
 ### [Shelly Temp. Sensor DS18B20 1m cable](/de/products/shelly-temp-sensor-ds18b20-1m-cable)  ###
 
 Normaler Preis  €3,45
@@ -553,34 +567,9 @@ Verkaufspreis  €3,45 Normaler Preis
 
 Grundpreis /  pro
 
- Temperature Sensor DS18B20 for Shelly AddOn
+ Kann mit dem Shelly Plus Add-on verwendet werden, um die Temperatur präzise zu messen.
 
  Variante: 1 meter  1 meterVariante ausverkauft oder nicht verfügbar  3 metersVariante ausverkauft oder nicht verfügbar
-
-### [Shelly Temp. Sensor DS18B20 3m cable](/de/products/shelly-temp-sensor-ds18b20-3m-cable)  ###
-
-Normaler Preis  €7,02
-
-Verkaufspreis  €7,02 Normaler Preis
-
-Grundpreis /  pro
-
- Temperature Sensor DS18B20 for Shelly AddOn - 3.0m cable
-
- Variante: 3 meters  1 meterVariante ausverkauft oder nicht verfügbar  3 metersVariante ausverkauft oder nicht verfügbar
-
-### [Shelly Wall Display + H&T Black](/de/products/shelly-wall-display-black)  ###
-
-Normaler Preis  €148,75
-
-Verkaufspreis  €148,75 Normaler Preis
-
-Grundpreis /  pro
-
- Complete Smart Control and Environmental Monitoring bundle
-Control all your devices from one centralized place with Shelly Wall Display, now combined with Shelly BLU H&T for precise climate con...
-
- Color: Black White Black
 
 ### [Shelly Wall Display + H&T White](/de/products/shelly-wall-display-white)  ###
 
@@ -595,17 +584,23 @@ Control all your devices from one centralized place with Shelly Wall Display, no
 
  Color: White White Black
 
-### [Shelly Wall Frame 1 for Wall Switch](/de/products/shelly-frame-for-wall-switch-white)  ###
+### [Shelly Wall Display + H&T White](/de/products/shelly-wall-display-white)  ###
 
-Normaler Preis  €4,64
+Normaler Preis  €148,75
 
-Verkaufspreis  €4,64 Normaler Preis
+Verkaufspreis  €148,75 Normaler Preis
 
 Grundpreis /  pro
 
- 1 holder switch frame for Shelly Wall Switch This switch frame needs to be attached to the Shelly Wall Switch (buttons). The switch frame comes with a frame plate in the same color for a stylish f...
+ Steuere Deine smarten Geräte mit dem Shelly Wall Display von einem zentralen Ort aus, jetzt in Kombination mit dem Shelly BLU H&T für eine präzise Klimasteuerung
 
- Variante: Wall Frame 1 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: White Black White
+ Raumverwaltung
+
+ Thermostat
+
+ Zentralisierte Kontrolle
+
+ Color: White White Black
 
 ### [Shelly Wall Frame 1 for Wall Switch](/de/products/shelly-frame-for-wall-switch-black)  ###
 
@@ -615,23 +610,59 @@ Verkaufspreis  €4,64 Normaler Preis
 
 Grundpreis /  pro
 
- 1-fach Halterrahmen für Shelly-Wandschalter
-Dieser Halterrahmen muss am Shelly-Wandschalter (Tasten) befestigt werden. Der Halterrahmen wird mit einer Rahmenplatte in der gleichen Farbe geliefert,...
+ 1, 2 oder 3 Halterungsschalterrahmen für Shelly Wandschalter. Muss am Shelly Wall Switch befestigt werden. Inklusive Rahmenplatte in derselben Farbe, die für einen stilvollen Touch sorgt.
 
  Variante: Wall Frame 1 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: Black Black White
 
-### [Shelly Wall Frame 2 for Wall Switch](/de/products/shelly-frame-for-wall-switch-white-x2)  ###
+### [Shelly Wall Socket EU White](/de/products/shelly-wall-socket-eu-white)  ###
 
-Normaler Preis  €8,21
+Normaler Preis  €8,57
 
-Verkaufspreis  €8,21 Normaler Preis
+Verkaufspreis  €8,57 Normaler Preis
 
 Grundpreis /  pro
 
- 2-fach Halterrahmen für Shelly-Wandschalter
-Dieser Halterrahmen muss am Shelly-Wandschalter (Tasten) befestigt werden. Der Halterrahmen wird mit einer Rahmenplatte in der gleichen Farbe geliefert,...
+ Passt in jede bestehende Wandsteckdosenkonsole oder auch in kleinste Räume dank kompakter Größe und einfacher Verkabelung. Kein Relais im Paket.
 
- Variante: Wall Frame 2 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: White Black White
+ Color: White White Black
+
+### [Shelly Wave 1PM](/de/products/shelly-qubino-wave-1pm)  ###
+
+Normaler Preis  €29,65
+
+Verkaufspreis  €29,65 Normaler Preis
+
+Grundpreis /  pro
+
+ Mit diesem Z-Wave-Smart-Schalter lassen sich verschiedene elektrische Geräte automatisieren und aus der Ferne steuern, während Du gleichzeitig deren Energieverbrauch verfolgen und optimieren kannst.
+
+ Leistungsüberwachung
+
+ Lichter
+
+ Elektrogeräte
+
+ Heizung
+
+ Fußbodenheizung
+
+### [Shelly Wave 1PM Mini](/de/products/shelly-qubino-wave-1pm-mini)  ###
+
+Normaler Preis  €26,06
+
+Verkaufspreis  €26,06 Normaler Preis
+
+Grundpreis /  pro
+
+ Der weltweit kleinste Z-Wave-Smart-Schalter mit Energiemessung. Fernsteuerung Deiner Lichter oder einer breiten Palette kleiner elektrischer Geräte und Messung ihres Stromverbrauchs.
+
+ Lichter
+
+ Elektrogeräte
+
+ Leistungsmessung
+
+ ...& andere
 
 ### [Shelly Wave 2PM](/de/products/shelly-qubino-wave-2pm)  ###
 
@@ -650,6 +681,74 @@ Grundpreis /  pro
  Elektrogeräte
 
  ...& andere
+
+### [Shelly Wave PM Mini](/de/products/shelly-qubino-wave-pm-mini)  ###
+
+Normaler Preis  €24,87
+
+Verkaufspreis  €24,87 Normaler Preis
+
+Grundpreis /  pro
+
+ Der weltweit kleinste Z-Wave-Strommesser für präzise Stromüberwachung. Verfolgt den Stromverbrauch elektrischer Geräte von überall und optimiert Deinen Energieverbrauch.
+
+ Leistungsmessung
+
+ Energieeinsparung
+
+### [Shelly Wave Pro 1PM](/de/products/shelly-wave-pro-1-pm)  ###
+
+Normaler Preis  €72,00
+
+Verkaufspreis  €72,00 Normaler Preis
+
+Grundpreis /  pro
+
+ Smarter professioneller 1-Kanal-DIN-Schienen-Z-Wave-Schalter mit einer Kapazität von bis zu 16 A. Der integrierte Leistungsmesser misst den Stromverbrauch aller automatisierten Lichter oder Geräte.
+
+ Leistungsüberwachung
+
+ Elektrogeräte
+
+ Lichter
+
+ Heizung
+
+ Fußbodenheizung
+
+### [Shelly Wave Pro 2PM](/de/products/shelly-qubino-wave-pro-2pm)  ###
+
+Normaler Preis  €98,18
+
+Verkaufspreis  €98,18 Normaler Preis
+
+Grundpreis /  pro
+
+ Smarter professioneller 2-Kanal-DIN-Schienen-Z-Wave-Schalter, max. 25 A. Der integrierte Leistungsmesser, ermöglicht es, den Stromverbrauch für jeden Kanal separat oder zusammen zu messen.
+
+ Leistungsüberwachung
+
+ Elektrogeräte
+
+ Lichter
+
+ Heizung
+
+ Fußbodenheizung
+
+### [Shelly Wave Pro Shutter](/de/products/shelly-qubino-wave-pro-shutter)  ###
+
+Normaler Preis  €116,50
+
+Verkaufspreis  €116,50 Normaler Preis
+
+Grundpreis /  pro
+
+ Professionelle Z-Wave® Rollladensteuerung auf DIN-Schiene mit Leistungsmessung, geeignet für die Haus- und Gebäudeautomation mit Fernsteuerung von motorisierten Jalousien, Rollläden, Markisen...
+
+ Abdeckungen und Jalousien
+
+ Leistungsüberwachung
 
 ### [Shelly Wave Shutter](/de/products/shelly-qubino-wave-shutter)  ###
 
