@@ -6,6 +6,54 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: November 15th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/6955341154010372716</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Nov 15, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed some causes of rare crashes in Steam Client.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Desktop Mode
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed successive game recording exports after the first one sometimes exporting the wrong clip.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/6955341154010372716" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: November 12th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4629231855272462879</link>
 			<content:encoded><![CDATA[<html>
@@ -270,300 +318,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629231414252975266" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: November 5th</title>
-			<link>https://store.steampowered.com/gamerecording</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 5, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					Steam Game Recording
-				</b>
-				<br>
-				<br>
-				Steam Game Recording is now available to all users! It's a new built-in system for creating and sharing your gameplay footage, which runs in the background so you never miss a moment.
-				<br>
-				<br>
-				There are many ways to use this all-new set of features, from capturing your highlights to documenting entire campaigns. It's easy to find, clip, and share your gameplay.
-				<br>
-				<br>
-				For more info, visit the
-				<a href="https://store.steampowered.com/gamerecording" rel="noopener noreferrer">
-					Game Recording website
-				</a>
-				.
-				<br>
-				<br>
-				<b>
-					Deck Specific Changes
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed games stored on an external drive still showing as available when the drive is removed.
-						<br>
-					</li>
-					<li>
-						Changed the enter action on the login password entry to attempt login rather than requiring navigation to the "submit" button.
-						<br>
-					</li>
-					<li>
-						Improve compatibility for native titles that have not been reviewed yet by launching them in the same runtime environment as reviewed titles.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the Bluetooth settings tab would disappear if the system was in sleep mode for an extended period of time and resumed without an internet connection.
-						<br>
-					</li>
-					<li>
-						Fixed a case where controllers were unresponsive if a malfunctioning third party compatibility tool was installed.
-					</li>
-				</ul>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Windows 7, Windows 8, macOS 10.13 and 10.14 will not receive this update. See the general Steam Client update notes for more information.
-						<br>
-					</li>
-					<li>
-						Updated embedded Chromium build in Steam to 126.0.6478.183.
-						<br>
-					</li>
-					<li>
-						Fixed issue where drag-and-drop of text into a chat would send the text immediately instead of dropping it into the edit area.
-						<br>
-					</li>
-					<li>
-						Re-enabled remote install from Steam client via the streaming dropdown.
-						<br>
-					</li>
-					<li>
-						Improved detection of other computers for streaming and peer downloading when using a secondary wireless interface.
-						<br>
-					</li>
-					<li>
-						Fixed progress bar not updating during game update and move operations involving large files.
-						<br>
-					</li>
-					<li>
-						Fixed overlay hanging in some games on macOS and Linux after a game restarts itself.
-						<br>
-					</li>
-					<li>
-						Fixed the names of manually added or removed games not appearing in the collection filter header if the game had been removed from the user's library.
-						<br>
-					</li>
-					<li>
-						Fixed steamwebhelper deleting temp directories that it may not have previously created.
-						<br>
-					</li>
-					<li>
-						Fixed a bug that could prevent Offline Mode login on the first restart after installing an update.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added support for AV1 video streaming on high end systems.
-						<br>
-					</li>
-					<li>
-						Fixed the cursor being too small when streaming from a PC with desktop scaling enabled.
-						<br>
-					</li>
-					<li>
-						Fixed using software encoding instead of hardware H.264 when HEVC is enabled and unavailable.
-						<br>
-					</li>
-					<li>
-						Fixed black screen when streaming HEVC from Steam Deck.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Overlay
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed crash in some games using D3D9.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed crash occurring when querying community controller configurations in the configurator.
-						<br>
-					</li>
-					<li>
-						Added support for wired XBox controllers on macOS Sequoia.
-						<br>
-					</li>
-					<li>
-						Fixed the "Turn off Controller" action causing Steam to launch BPM if the main window was focused.
-						<br>
-					</li>
-					<li>
-						Increased maximum sensitivity of Joystick Mouse mode.
-						<br>
-					</li>
-					<li>
-						Mode Shifts now support D-Pad directions and Right Joystick.
-						<br>
-					</li>
-					<li>
-						Mode Shifts now support Track Pad Touch on DualSense/Edge, DualShock, SteamController and SteamDeck.
-						<br>
-					</li>
-					<li>
-						SIAPI Glyphs for Playstation Dualsense are now monochrome to match Icons in Big Picture Mode.
-						<br>
-					</li>
-					<li>
-						Fixed an issue where bindings that were present from converting a configuration from one controller type to another could be active but not removable due to being filtered out of the binding interface.
-						<br>
-					</li>
-					<li>
-						Always show the controller tab in app properties for non-Steam shortcuts.
-						<br>
-					</li>
-					<li>
-						Added Invert X and Invert Y to Mouse Regions.
-						<br>
-					</li>
-					<li>
-						Scroll Wheel mode can now be chosen from the dropdown in SIAPI games (Inside of Edit Loadout, not Quick Settings).
-						<br>
-					</li>
-					<li>
-						Fixed an issue where using a Steam/QAM button chord in a non-Steam game could leave the desktop config loaded instead of the game's config.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Linux
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed some miscellaneous common crashes.
-						<br>
-					</li>
-					<li>
-						Fixed slow startup on systems where the reverse hostname lookup for the loopback interface is not localhost.
-						<br>
-					</li>
-					<li>
-						Detecting and passing commands to an already running Steam client is significantly faster.
-						<br>
-					</li>
-					<li>
-						Added a -disable-screensaver-inhibit command line option to prevent Steam from inhibiting the screen saver when activity is detected.
-						<br>
-					</li>
-					<li>
-						Fixed Linux crash launching steamwebhelper occurring with some system configurations.
-						<br>
-					</li>
-					<li>
-						Steam developers can now select which Steam for Linux runtime to use for native titles. Please consult the partner site for more details.
-						<br>
-					</li>
-					<li>
-						Native titles will execute in 'Steam for Linux runtime 1.0 (scout)' by default, instead of the legacy runtime environment.
-						<br>
-						This behavior is consistent with Steam Deck and promotes better compatibility across all Linux desktop distributions.
-						<br>
-						Note that this new feature can be turned off globally with "-compat-force-slr off" on the Steam client command line.
-						<br>
-					</li>
-					<li>
-						Always allow the Steam client to fallback to X11 when SDL_VIDEODRIVER/SDL_VIDERO_DRIVER is set to wayland.
-						<br>
-					</li>
-					<li>
-						Remove the UI toggle to disable Steam Play globally, correctly reflecting that Steam Play is always enabled on Linux. Steam Play was always partially active even when set to off in the UI as it is a requirement for Steam client operation.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the wrong DPI scaling factor would be used for systems using a non-gnome based session with an active gnome-desktop-portal service.
-						<br>
-					</li>
-					<li>
-						Extend recent Steam Play fixes to third party compatibility tools.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Discovery Queue
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed the Discovery Queue presentation so that the elements around the videos show correctly.
-						<br>
-					</li>
-					<li>
-						Improve the animation when scrolling through the discovery queue.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Big Picture Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed keyboard input dialog in-game failing to close/re-open properly if Steam Overlay is toggled while visible.
-						<br>
-					</li>
-					<li>
-						Fixed multi-line mode support in the dialog shown by the ShowGamepadTextInput API call in Steamworks.
-						<br>
-					</li>
-					<li>
-						Fixed the on-screen keyboard not immediately popping up when games invoke the text entry dialog.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the text entry dialog could lose focus and require moving focus to the buttons and back to the text entry.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4633734719581770606" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
