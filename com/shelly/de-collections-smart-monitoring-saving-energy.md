@@ -176,7 +176,7 @@ Grundpreis /  pro
 
  WLAN-betriebener Energiemesser zur Überwachung des Verbrauchs von Haushaltsgeräten in zwei Stromkreisen.
 
- Variants:  50A ClampVariante ausverkauft oder nicht verfügbar  120A ClampVariante ausverkauft oder nicht verfügbar  2 x 120A ClampVariante ausverkauft oder nicht verfügbar  2x 50A ClampVariante ausverkauft oder nicht verfügbar  50A ClampsVariante ausverkauft oder nicht verfügbar
+ Variants:  50A ClampVariante ausverkauft oder nicht verfügbar  120A ClampVariante ausverkauft oder nicht verfügbar  2x 120A ClampVariante ausverkauft oder nicht verfügbar  2x 50A ClampVariante ausverkauft oder nicht verfügbar  50A + 120A ClampsVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly EM Gen3](/de/products/shelly-em-gen3)  ###
 
