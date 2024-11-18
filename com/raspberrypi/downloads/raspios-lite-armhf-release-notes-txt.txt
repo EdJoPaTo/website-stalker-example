@@ -1,3 +1,32 @@
+2024-11-13:
+  * labwc updated to version 0.7.4
+  * Some wayfire keybindings migrated to labwc
+  * Code the Classics 2 added to Recommended Software
+  * raspi-config - added some additional bootloader options
+  * Bug fix - timing issue in network plugin sometimes causing menu to fail to
+    appear
+  * Bug fix - crash on repeated setting of mouse and keyboard values
+  * Bug fix - allow setting of very slow mouse speed
+  * Bug fix - some icons not displaying in main menu and taskbar launcher
+  * Bug fix - right-click panel menus being displayed instead of left-click in
+    some situations
+  * Bug fix - allow non-wireless network menu items to be accessed when wifi
+    country not set
+  * Bug fix - file rename dialog shown in error on multiple double-clicks in
+    file manager list view
+  * Bug fix - greeter background graphic restored
+  * Bump swap to 512MB by default
+  * Set initramfs to update for the latest kernel
+  * Removed default rc.local file that was used to print the IP address
+      - This is now handled by /etc/issue.d/IP.issue instead
+  * Removed ifupdown from default install as it is not used and slows down boot
+  * rfkill and NetworkManager defaults to blocking all devices by default
+      - On-board adapters devices are whitelisted
+      - WLAN devices are unblocked after the regulatory domain is set
+  * Chromium updated to 130.0.6723.116
+  * Firefox updated to 132.0
+  * Raspberry Pi firmware a2e586ba98ce68f7d11b1c717ad8329b95dcb3b6
+  * Linux kernel 6.6.51 - 5aeecea9f4a45248bcf564dec924965e066a7bfd
 2024-10-22:
   * labwc compositor now used as the default on all models of Raspberry Pi
   * wf-panel-pi now loads plugins dynamically at runtime
