@@ -31,13 +31,14 @@ In the ALIKE pilot project, MOIA is working with partners to develop a modern, a
 Press releases
 ----------
 
+[15.11.2024 ### MOIA and Volkswagen ADMT pilot autonomous ridepooling in Hamburg’s dense urban traffic ### The future of mobility is here in Hamburg, with autonomous driving now a tangible experience](https://www.moia.io/en/news-center/moia-and-volkswagen-admt-pilot-autonomous-ridepooling-in-hamburgs-dense-urban-traffic)
 [08.11.2024 ### Operating Area for Autonomous Driving ### Starting in mid-2025, Project ALIKE will gradually begin testing autonomous on-demand ridepooling in Hamburg. The aim is to make autonomous mobility accessible and to test a new form of service.](https://www.moia.io/en/news-center/operating-area-for-autonomous-driving)
 [15.10.2024 ### UITP and Team Hamburg Present Their Concept for the International Mobility Congress 2025 in Hamburg ### Hamburg is preparing for the most important global mobility event of the coming year: Today, the concept for the UITP Summit 2025 was officially presented.](https://www.moia.io/en/news-center/uitp-and-team-hamburg-present-their-concept-for-the-international-mobility-congress-2025-in-hamburg)
 [24.07.2024 ### MOIA and emotion3D: AI solution takes over driver safety tasks for autonomous operation with the ID. Buzz AD ### MOIA and automotive software provider emotion3D have developed an AI solution for interior analysis for Volkswagen's self-driving, all-electric ID. Buzz AD from Volkswagen.](https://www.moia.io/en/news-center/ai-takes-over-safety-tasks-from-the-driver)
 [06.02.2024 ### On the way to the Hamburg Takt: MOIA reports positive results ### MOIAs resume after the first year of wheelchair-accessible service](https://www.moia.io/en/news-center/moia-reports-positive-results)
-[24.10.2023 ### Federal government and Hamburg put autonomous ridepooling project on the road ### MOIA is part of the new ALIKE project](https://www.moia.io/en/news-center/federal-government-and-hamburg-put-autonomous-ridepooling-on-the-road)
 
-Downloads
+Downloads & Images
+
 ----------
 
 Hamburg 8 Images
@@ -112,11 +113,43 @@ Hanover 8 Images
 
 [Download all (.ZIP 28.96 MB)](https://www.moia.io/news-center/downloads/hannover/MOIA%20in%20Hannover.zip)
 
-ID BUZZ vehicle 1 Image
+ID. BUZZ AD 9 Images
 
 [.JPG 15.1 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/230315_MOIA_Pressebild_ID.jpg)
 
 [](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/230315_MOIA_Pressebild_ID.jpg)
+
+[.JPG 10.32 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht1.jpg)
+
+[](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht1.jpg)
+
+[.JPG 5.51 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht2.jpg)
+
+[](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht2.jpg)
+
+[.JPG 21.67 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht3.jpg)
+
+[](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht3.jpg)
+
+[.JPG 12.06 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht4.jpg)
+
+[](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht4.jpg)
+
+[.JPG 7.23 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht5.jpg)
+
+[](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht5.jpg)
+
+[.JPG 17.72 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht6.jpg)
+
+[](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Ansicht6.jpg)
+
+[.JPG 12.89 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Interieur.jpg)
+
+[](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Interieur.jpg)
+
+[.JPG 12.1 MB](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Safety_Driver.jpg)
+
+[](https://www.moia.io/news-center/downloads/ID%20Buzz%20Fahrzeug/ID_Buzz_AD_Safety_Driver.jpg)
 
 Logos 10 Images
 
