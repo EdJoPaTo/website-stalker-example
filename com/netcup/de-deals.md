@@ -5,14 +5,189 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-Black Coffee Week bei netcup
-----------
-
-Vom 25. bis 29. November erwarten dich täglich frische Deals aus verschiedenen Produktkategorien – verfügbar immer von 8 bis 20 Uhr. Die regulären Monatsaktionen sind ab Jänner wieder für dich da. ^
-
-[Mehr Infos \>](https://www.netcup.com/de/deals/black-friday)
-
 Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
+
+* Alle (0)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 1000 ARM G11 SE SPS24 ###
+
+ \+ 100 % SSD
+
+* 6 vCore (ARM64)
+* Standort: Nürnberg oder Wien
+* 8 GB RAM
+
+* Verfügbar bis: 30.10. 10 Uhr
+* 512 GB NVMe SSD (statt 256 GB)
+
+monatlich ab
+
+5,84 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 3000 ARM G11 SE SPS24 ###
+
+ \+ 100 % SSD
+
+* 12 vCore (ARM64)
+* Standort: Nürnberg oder Wien
+* 24 GB RAM
+
+* Verfügbar bis: 30.10. 10 Uhr
+* 1536 GB NVMe SSD (statt 768 GB)
+
+monatlich ab
+
+14,24 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 8000 ARM G11 SE SPS24 ###
+
+ \+ 4 vCores / + 50 % SSD
+
+* 22 vCore (statt 18 vCore), ARM64
+* Standort: Nürnberg oder Wien
+* 64 GB RAM
+
+* Verfügbar bis: 30.10. 10 Uhr
+* 3072 GB NVMe SSD (statt 2048 GB)
+
+monatlich ab
+
+30,03 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 2000 G11 SE SPS24 ###
+
+ \+ 100 % SSD
+
+statt ab 13,85 €
+
+* 8 vCore (x86)
+* Standort: Nürnberg oder Wien
+* 16 GB ECC RAM
+
+* Verfügbar bis: 30.10. 10 Uhr
+* 1024 GB NVMe SSD (statt 512 GB)
+
+pro Monat
+
+12,60 €
+
+(inkl. 0% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 4000 SPS24 ###
+
+ 42 % Rabatt
+
+statt 5,48 €
+
+* 500 GB SSD Speicherplatz
+* Standort: Nürnberg oder Wien
+* SSL-Zertifikate inklusive
+
+* SSH Zugang vorhanden
+* bis zu 6 .de-Domains oder
+  2 Alternativdomains inklusive
+* Verfügbar bis: 30.10. 10 Uhr
+
+pro Monat
+
+3,16 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### AKTION .com Domain SPS24 ###
+
+ 18 % Rabatt
+
+statt 1,16 €
+
+* DNSSEC, API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,95 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### AKTION .eu Domain SPS24 ###
+
+ 46 % Rabatt
+
+statt ab 0,66 €
+
+* DNSSEC, API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,35 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### AKTION .cloud-Domain SPS24 ###
+
+ 14 % Rabatt
+
+statt ab 1,95 €
+
+* DNSSEC, API
+* 0 € Setup-Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+1,66 €
+
+(inkl. 0% MwSt.)
 
 netcup Angebote zu VPS und Root-Server
 ----------
@@ -91,7 +266,7 @@ Auf dieser Seite findest du alle Informationen zu unseren Sonderangeboten bzw. D
 
 ### Können Gutscheine auf netcup Deals angewendet werden? ###
 
-Deals können unter gewissen Bestimmungen mit Gutscheinen kombiniert werden. Für einzelne Produkte können Ausnahmen gelten. Sollte dies der Fall sein, weisen wir darauf hin. Bitte beachte daher mögliche Hinweise auf der Produktseite.
+Die Kombination von Gutscheinen und Deals ist bei netcup im Bestellprozess möglich, wenn auch vereinzelt dies an gewisse Bestimmungen verknüpft ist. Hierzu lohnt es sich die jeweiligen Aktionsbestimmungen zu betrachten, wo du detailliertere Informationen bekommst.
 
 ### Wo finde ich günstige Domains und Webhostings bei netcup?  ###
 

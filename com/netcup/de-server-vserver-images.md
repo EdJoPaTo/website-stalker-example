@@ -13,27 +13,43 @@ Verfügbare Betriebssysteme als Image installierbar
 
 Details
 
-Alma Linux 9
+ArchLinux
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-AlmaLinux 8
+CentOS 8
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Archlinux
+CentOS 7
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Debian (11) Bullseye
+CentOS 7 + Plesk ®
+
+CentOS 7 mit vorinstalliertem Plesk ®
+
+CentOS 7 + Webuzo
+
+CentOS 7 mit vorinstalliertem Webuzo Control Panel
+
+Debian Stretch
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Debian (12) Bookworm
+Debian Stretch + OpenVPN Access Server
 
-Minimal System, lediglich SSH ist vorinstalliert
+Debian Stretch mit vorinstalliertem OpenVPN Access Server (inkl. 2 User Lizenz)
 
-FreeBSD 12
+Debian Stretch + Plesk ®
+
+Debian Stretch mit installiertem und vorkonfiguriertem Plesk ®
+
+Debian Stretch + PowerDNS
+
+Debian Stretch mit vorinstalliertem PowerDNS (automatische Slave-Konfiguration möglich)
+
+Fedora 34 Server
 
 Minimal System, lediglich SSH ist vorinstalliert
 
@@ -41,15 +57,11 @@ FreeBSD 13
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-OpenSUSE Leap 15.4
+FreeBSD 12
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Rocky Linux 8
-
-Minimal System, lediglich SSH ist vorinstalliert
-
-Rocky Linux 9
+OpenSUSE Leap 15.2
 
 Minimal System, lediglich SSH ist vorinstalliert
 
@@ -57,25 +69,29 @@ Ubuntu 20.04 LTS
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Ubuntu 22.04 LTS
+Ubuntu 18.04 LTS
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-Ubuntu 24.04 LTS
+Ubuntu 18.04 LTS + Cloudron
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 18.04 LTS mit vorinstalliertem Cloudron Panel
 
-Debian (12) Bookworm arm64
+Ubuntu 18.04 LTS + Docker-CE
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 18.04 LTS mit vorinstalliertem Docker-CE für Linux Container
 
-Ubuntu 22.04 LTS arm64
+Ubuntu 18.04 LTS + NextCloud
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 18.04 LTS mit installierter und vorkonfiguriertem NextCloud
 
-Ubuntu 24.04 LTS arm64
+Ubuntu 18.04 LTS + OpenVPN Access Server
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 18.04 LTS mit vorinstalliertem OpenVPN Access Server (inkl. 2 User Lizenz)
+
+Ubuntu 18.04 LTS + Seafile
+
+Ubuntu 18.04 LTS mit vorinstalliertem Seafile
 
 CD-ROMs / DVDs zur Installation
 ----------
@@ -84,51 +100,81 @@ Neben Images, stellen wir im SCP auch Installations-CD-ROMs bereit. Von diesen k
 
 Verfügbare CD-ROMs / DVDs
 
-AlmaLinux 8.7
+Arch Linux
 
-AlmaLinux 9.1
+Bootbare Installations-CD
 
-Arch Linux 2024.05.01
+CentOS 8 Netinstall
 
-Debian 10.12 Buster Netinstall
+Installations-CD, Programme werden aus dem Internet nachgeladen
 
-Debian 11.9 Bullseye Netinstall
+CentOS 7 Netinstall
 
-Debian 12.5 Bookworm Netinstall
+Installations-CD, Programme werden aus dem Internet nachgeladen
+
+Debian Buster Netinstall
+
+Installations-CD, Programme werden aus dem Internet nachgeladen
+
+Debian Stretch Netinstall
+
+Installations-CD, Programme werden aus dem Internet nachgeladen
+
+Fedora 34 Server Netinstall
+
+Installations-CD, Programme werden aus dem Internet nachgeladen
+
+FreeBSD 13
+
+Installations-CD, Programme werden aus dem Internet nachgeladen
+
+FreeBSD 12
+
+Installations-CD, Programme werden aus dem Internet nachgeladen
 
 Finnix
 
-FreeBSD 12.2
+Ein Debian basiertes Live Linux
 
-FreeBSD 13.1
+Gentoo
 
-GParted Live CD 1.3.0
+Installations-CD, Programme werden aus dem Internet nachgeladen
 
 Grml Live Linux
 
-NetBSD 9.2
+Ein Debian basiertes Live Linux
 
-OpenBSD 6.8
+Gparted Live CD
 
-openSUSE LEAP 15.6 Netinstall
+Ein Debian basiertes Live Linux
 
-Rocky Linux 8.7
+NetBSD 9
 
-Rocky Linux 9.1
+Installations-CD, Programme werden aus dem Internet nachgeladen
 
-System Rescue CD 9.03
+System Rescue CD
 
-Ubuntu 20.04.6 Live Server
+Ein Linux basiertes Rettungssystem
 
-Ubuntu 22.04.4 Live Server
+openSUSE Leap 15.2
 
-Ubuntu 24.04 Live Server
+Installations-CD, Programme werden aus dem Internet nachgeladen
 
-Windows Server 2019 DE-DE zur Evaluierung (180 Tage)
+Ubuntu 20.04 Server
 
-Windows Server 2019 EN-US for Evaluation (180 Days)
+Bootbare Installations-CD
 
-Windows Treiber / Driver
+Ubuntu 18.04 Server
+
+Bootbare Installations-CD
+
+Windows Server 2019 DE-DE
+
+zur Evaluierung (180 Tage Trial Lizenz)
+
+Windows Server 2019 EN\_US
+
+zur Evaluierung (180 Tage Trial Lizenz)
 
 Eigene CD-ROMs / DVDs und Images
 ----------

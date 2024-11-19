@@ -1,3 +1,8 @@
+2024-11-19:
+  * Fix bluetooth rfkill whitelisting
+  * Fix Imager NM WLAN unblocking
+  * Raspberry Pi firmware a2e586ba98ce68f7d11b1c717ad8329b95dcb3b6
+  * Linux kernel 6.6.51 - 5aeecea9f4a45248bcf564dec924965e066a7bfd
 2024-11-13:
   * labwc updated to version 0.7.4
   * Some wayfire keybindings migrated to labwc
