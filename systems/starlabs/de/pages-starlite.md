@@ -234,6 +234,6 @@ Your way.
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Estimated dispatch in 3 - 4 weeks
+Estimated dispatch in 2 - 3 weeks
 
 [Configure](/products/starlite)
