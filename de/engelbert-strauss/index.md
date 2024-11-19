@@ -1,164 +1,262 @@
-3 in 1 Funktionsjacke e.s.trail snow
-\+ abnehmbare wärmende Innenjacke
-
- Funktionshose
-
- e.s.trail snow
-
- Ideal bei
-Eis & Schnee
+Geschenk
+ideen
 ----------
 
 ---
-
- Wärme & Wetterschutz: Leichte und flexible Workwear für alpine Einsätze
-
-[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=e.s.trail%20snow&itemOrigin=StartseiteHW24)
-
-Maximale **Sichtbarkeit**
-
-----------
-
----
-
-###  Sicher
-unterwegs  ###
-
----
-
- Sichtbar bis auf 400 Meter - leuchtstarker Rucksack mit Powerbank-Betrieb
-
-[e.s. OLED Backpack](https://www.engelbert-strauss.de/allroundtaschen/e-s-oled-backpack-7072520-5505359-1.html?amp;itemOrigin=StartseiteHW24)
-
-[mehr Details](https://www.engelbert-strauss.de/allroundtaschen/e-s-oled-backpack-7072520-5505359-1.html?itemorigin=StartseiteHW24)
-
-###  Power-Bank gleich mitbestellen  ###
-
----
-
-[e.s. Power-Bank](https://www.engelbert-strauss.de/ladegeraete/power-bank-pd-10-000-mah-7100610-8371578-0.html?amp;itemOrigin=StartseiteHW24)
-
-[Warnschutz jetzt auch im Damenschnitt!](https://www.engelbert-strauss.de/e-s-motion-24-7-damen/)
-
- Auffällig Leuchtstark
-bei Tag & Nacht
-----------
-
----
-
- Robuster motion-Style trifft High-Vis: die Warnschutz Kollektion e.s.motion 24/7 in coolen Farbkombis und im perfekt angepassten Damen-Schnitt
-
-[Herren](https://www.engelbert-strauss.de/e-s-motion-24-7/?itemOrigin=StartseiteHW24&sort=newest)
-
-[Damen](https://www.engelbert-strauss.de/e-s-motion-24-7-damen/?itemOrigin=StartseiteHW24&sort=newest)
-
-[Kollektion entdecken](https://www.engelbert-strauss.de/motion-24-7?itemOrigin=StartseiteHW24)
 
 ###
 
-**Funktionswäsche** für die kalten Tage
+Für Freudestrahlen zum Fest
 
  ###
 
 ---
 
-[Herren](https://www.engelbert-strauss.de/f/funktionsunterwaesche/Herren_Damen_Kinder:Herren/?itemOrigin=StartseiteHW24)
+[zu den Geschenken](https://www.engelbert-strauss.de/geschenkideen/?itemorigin=startseite_weihnachten24&sort=newest)
 
-[zur Funktionswäsche](https://www.engelbert-strauss.de/f/funktionsunterwaesche/Herren_Damen_Kinder:Herren/?itemOrigin=StartseiteHW24)
-
-[Damen](https://www.engelbert-strauss.de/f/funktionsunterwaesche-damen/Herren_Damen_Kinder:Damen/?itemOrigin=StartseiteHW24)
-
-[zur Funktionswäsche](https://www.engelbert-strauss.de/f/funktionsunterwaesche-damen/Herren_Damen_Kinder:Damen/?itemOrigin=StartseiteHW24)
-
-[Socken](https://www.engelbert-strauss.de/funktionssocken/?itemOrigin=StartseiteHW24)
-
-[alle Funktionssocken](https://www.engelbert-strauss.de/funktionssocken/?itemOrigin=StartseiteHW24)
-
-Sie gestalten
-Wir sticken
-
-==========
-
----
-
- Ihr Wunschmotiv ab 1 Stück
-==========
-
----
-
-[mehr erfahren](https://www.engelbert-strauss.de/Service/Logoservice/selbst_gestalten)
-
-schnell &
-unkompliziert
-
----
-
-190 Motive
-zur Auswahl
-
----
-
-Schriftzug
-selbst gestalten
-
----
-
-ab 1 Stück
-bestellbar
-
----
-
-Jetzt mit neuen Motiven!
-
----
-
- Pop-up-Store
+ Super
+Mario
 ----------
 
 ---
 
-| Hey Hannover<br/>---<br/><br/> 13.11. - 07.12.2024<br/>---<br/><br/> In unseren Pop-up-Stores finden Sie alle Strauss-Highlights - live, zum Anfassen & Anprobieren!<br/><br/>[<br/><br/>mehr Informationen<br/><br/>](https://www.engelbert-strauss.de/popupstore/popupstore_hannover)|   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+###
 
-####  Brand Partnerships  ####
+Frohe Weihnachten mit Mario und seinen Freunden
 
----
-
-[alle Kooperationen entdecken](https://www.engelbert-strauss.de/brand_partnerships)
-
-###  Nach Kategorie shoppen  ###
+ ###
 
 ---
 
-[Bekleidung](https://www.engelbert-strauss.de/arbeitskleidung/?sort=newest)
+[alle Highlights](https://www.engelbert-strauss.de/super-mario-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)
 
-[Schuhe](https://www.engelbert-strauss.de/arbeitsschuhe/?sort=newest)
-
-[Arbeitsschutz](https://www.engelbert-strauss.de/arbeitsschutz/?sort=newest)
-
-[Werkzeuge](https://www.engelbert-strauss.de/werkzeuge/?sort=newest)
-
-[Betriebsbedarf](https://www.engelbert-strauss.de/betriebsbedarf/?sort=newest)
-
-####  Newsletter abonnieren  ####
+ Weihnachts-
+Sets
+----------
 
 ---
 
- Immer als Erstes informiert sein mit dem kostenlosen Engelbert Strauss-Newsletter
+###
 
-[jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
+mit tollen Gratis Produkten!
 
- 30 TAGE RÜCKGABERECHT
+ ###
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+---
 
- KOSTENLOSE RÜCKSENDUNGEN
+[alle Weihnachtssets](https://www.engelbert-strauss.de/geschenkideen-weihnachts-sets/?itemorigin=startseite_weihnachten24&sort=newest)
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Umtausch)
+**SET:**
 
- KAUF AUF RECHNUNG
+1x Bundhose e.s.motion 2020
+\+ 1x Bundhose e.s.motion 2020 Winter
+\+ 1x **GRATIS** Isolierflasche
+\+ 1x **GRATIS** Brotdose midi
 
-[mehr Infos](https://www.engelbert-strauss.de/Service/Bezahlen)
+[Set kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/set-bundhose-winter-bundhose-e-s-motion-2020-3312210-16266-722.html?amp;itemorigin=startseite_weihnachten24)
+
+ gratis
+---
+
+ Neuheiten
+----------
+
+---
+
+###
+
+Ein Geschenk für alle, die es gemütlich lieben
+
+ ###
+
+---
+
+[alle Neuheiten](https://www.engelbert-strauss.de/geschenkideen/?itemorigin=startseite_weihnachten24&sort=newest)
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb Deutschlands bis zum 31.01.2025
+
+ Gratis Versand
+---
+
+ innerhalb Deutschlands bis zum 22.12.2024
+
+ Kollaborationen
+----------
+
+---
+
+###  Power-Up unterm
+ Weihnachtsbaum  ###
+
+---
+
+Jetzt mit tollen Neuheiten: die SUPER MARIO X STRAUSS Kollektion
+
+###  Football
+ is family  ###
+
+---
+
+… und Weihnachten ist Family Time! Die NFL X STRAUSS Kollektion
+
+– das perfekte Geschenk für alle Football-Fans
+
+###  Adler trifft
+ Strauss zum Fest  ###
+
+---
+
+Die EINTRACHT X STRAUSS Kollektion
+
+– das perfekte Geschenk für alle Eintracht-Fans
+
+###  Weltklasse zu
+ Weihnachten  ###
+
+---
+
+Die FC BAYERN X STRAUSS Kollektion
+
+– das perfekte Geschenk für alle FC Bayern-Fans
+
+|[<br/><br/>Strauss X Super Mario<br/><br/>](https://www.engelbert-strauss.de/super-mario-x-strauss/)|[<br/><br/>Strauss X NFL<br/><br/>](https://www.engelbert-strauss.de/nfl-x-strauss/)|[<br/><br/>Strauss X Eintracht<br/><br/>](https://www.engelbert-strauss.de/eintracht-x-strauss/)|[<br/><br/>Strauss X FCB<br/><br/>](https://www.engelbert-strauss.de/fcb/?itemorigin=)|
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+
+----------
+
+---
+
+ Beliebte Kategorien
+----------
+
+---
+
+###  Weihnachts-
+Specials  ###
+
+---
+
+ Exklusive Geschenkideen zu Weihnachten.
+**Nur für kurze Zeit!**
+---
+
+ Kleine Geschenke
+
+ UNTER 50 €
+
+ Größere Geschenke
+
+ VON 50 € bis 100 €
+
+ Noch größere Geschenke
+
+ ÜBER 100 €
+
+| Neuheiten<br/>----------<br/><br/>---|   |
+|--------------------------------------|---|
+
+| Für Freunde   <br/>& Kollegen<br/>----------<br/><br/>---|   |
+|----------------------------------------------------------|---|
+
+| Für die   <br/> Kleinen<br/>----------<br/><br/>---|   |
+|----------------------------------------------------|---|
+
+ Zum Fest haben wir für Sie zahlreiche attraktive Aktions-Sets geschnürt.
+ Sichern Sie sich für kurze Zeit unsere Highlights mit GRATIS Artikeln.
+
+###  Weihnachts-
+Sets  ###
+
+---
+
+ Tolle gratis Artikel in jedem Weihnachtsset
+---
+
+[alle Weihnachtssets](https://www.engelbert-strauss.de/geschenkideen-weihnachts-sets/?itemorigin=startseite_weihnachten24)
+
+###  Gutscheine verschenken  ###
+
+---
+
+ Der Klassiker unter den Geschenken
+---
+
+[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_weihnachten24)
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
 
 []()
 
