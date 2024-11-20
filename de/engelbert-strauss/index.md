@@ -50,10 +50,10 @@ mit tollen Gratis Produkten!
 
 1x Bundhose e.s.motion 2020
 \+ 1x Bundhose e.s.motion 2020 Winter
-\+ 1x **GRATIS** Isolierflasche
-\+ 1x **GRATIS** Brotdose midi
+\+ 1x **GRATIS** e.s. Isolierflasche
+\+ 1x **GRATIS** e.s. Brotdose midi
 
-[Set kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/set-bundhose-winter-bundhose-e-s-motion-2020-3312210-16266-722.html?amp;itemorigin=startseite_weihnachten24)
+[Set kaufen](https://www.engelbert-strauss.de/sale-aktions-sets-bekleidung/set-bundhose-winter-bundhose-e-s-motion-2020-3312210-16266-722.html?itemorigin=startseite_weihnachten24)
 
  gratis
 ---
