@@ -1,13 +1,3 @@
-Availability
-
-All configurations are In-Production and available to order with a discount.
-
-Early Bird Savings - Save up to €23,80!¹
-
- In-Production offer is automatically applied at checkout and ends in
-
-¹ Whilst stocks last.
-
 About
 
 StarLite
