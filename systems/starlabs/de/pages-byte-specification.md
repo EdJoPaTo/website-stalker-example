@@ -140,7 +140,7 @@ Back
 
  Power
 
- 36w DC Power Adapter
+ 36W DC Power Adapter
 
  Technology: Fixed Voltage
  DC Input: 12V 3A 5.5mm
@@ -171,15 +171,13 @@ pounds)
 
  Ubuntu 22.04 LTS (64-bit) or later
  elementary OS 6.1 (64-bit) or later
- Linux Mint 21 (64-bit) or
-later
+ Linux Mint 21 (64-bit) or later
  Manjaro 21.3.7 (64-bit) or later
  MX Linux 21.1 (64-bit) or later
  Zorin OS 16.1 (64-bit) or later
- Windows 11
-22H1 (64-bit) or later
+ Windows 11 22H1 (64-bit) or later
 
- Whats in the Box
+What's in the Box
 
  Byte
  36W DC Power Adapter
