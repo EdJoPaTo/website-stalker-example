@@ -295,6 +295,12 @@ other
 
 updated 2023-11-02
 
+[Multi-channel test tones](https://www.hifiberry.com/docs/software/multi-channel-test-tones/)
+
+adc, configuration, dac, multichannel
+
+updated 2024-11-20
+
 [Projects](https://www.hifiberry.com/docs/projects/)
 
 [Tivoli Squeezebox Radio](https://www.hifiberry.com/docs/projects/tivoli-squeezebox-radio/)
