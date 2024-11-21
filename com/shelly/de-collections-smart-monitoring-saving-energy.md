@@ -579,19 +579,6 @@ Verkaufspreis  €148,75 Normaler Preis
 
 Grundpreis /  pro
 
- Complete Smart Control and Environmental Monitoring bundle
-Control all your devices from one centralized place with Shelly Wall Display, now combined with Shelly BLU H&T for precise climate con...
-
- Color: Weiß Weiß Schwarz
-
-### [Shelly Wall Display + H&T White](/de/products/shelly-wall-display-white)  ###
-
-Normaler Preis  €148,75
-
-Verkaufspreis  €148,75 Normaler Preis
-
-Grundpreis /  pro
-
  Steuere Deine smarten Geräte mit dem Shelly Wall Display von einem zentralen Ort aus, jetzt in Kombination mit dem Shelly BLU H&T für eine präzise Klimasteuerung
 
  Raumverwaltung
