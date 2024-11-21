@@ -30,7 +30,7 @@ Your games, everywhere
 
  Available **now** in limited quantities
 
-###  Steam Deck OLED: Limited Edition White, shipping in limited quantities.  ###
+###  Available **now** in limited quantities  ###
 
 $679.00
 ==========
@@ -48,14 +48,6 @@ The same specs as the 1TB OLED model, plus an exclusive Limited Edition White ca
 #### Bring Steam with you, wherever you go! ####
 
 [Learn more about Software](https://www.steamdeck.com/en/software)
-
-#### Tech Specs ####
-
-[Learn about the inputs, controls & details that make up Steam Deck](https://www.steamdeck.com/en/tech)
-
-#### Connect your Deck ####
-
-[Learn more about the Docking Station](https://www.steamdeck.com/en/dock)
 
 Compare Steam Decks
 ----------

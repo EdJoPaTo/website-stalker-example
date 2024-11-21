@@ -182,8 +182,8 @@ What's in the Box
  12.5-inch Star Lite
  65W USB‑C Power Adapter
  USB-C to USB-C Charging Cable (2m)
- Detachable plug (UK,
-EU, US and AU available)
+ Detachable plug
+(UK, EU, US and AU available)
 
  Quick Start Guide
  Protective Sleeve
