@@ -44,7 +44,7 @@ Verkaufspreis  €21,30 Normaler Preis
 
 Grundpreis /  pro
 
- Ein wasser- und staubresistenter Bluetooth-Sensor, der Temperatur und Luftfeuchtigkeit präzise misst.
+ A water/dust-resilient Bluetooth sensor that precisely measures temperature and humidity levels
 
  Temperatur
 

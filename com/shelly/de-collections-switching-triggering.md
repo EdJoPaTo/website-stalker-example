@@ -204,7 +204,7 @@ Verkaufspreis  €23,68 Normaler Preis
 
 Grundpreis /  pro
 
- Smarter, Matter-kompatibler Stecker mit Leistungsmessung. Ermöglicht die Steuerung von Beleuchtung, Heizung oder von anderen angeschlossenen Geräten - egal, wo Du bist.
+ Matter-compatible smart plug with power monitoring that enables control of lighting, heating, or any other connected appliance, no matter where you are.
 
  Elektrogeräte
 
