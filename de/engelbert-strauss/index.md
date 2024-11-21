@@ -38,7 +38,7 @@ Sets
 
 ###
 
-mit tollen Gratis Produkten!
+mit tollen Gratis-Produkten!
 
  ###
 
@@ -215,7 +215,7 @@ Specials  ###
 
  Größere Geschenke
 
- VON 50 € bis 100 €
+ VON 50 € BIS 100 €
 
  Noch größere Geschenke
 
