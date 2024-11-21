@@ -543,7 +543,7 @@ Grundpreis /  pro
 
  Auf DIN-Schiene montierbarer, Smart-Dimmer mit Energiemessung. Steuere das Dimmen und messe die Leistung von Halogenlampen, dimmbaren LEDs und ferromagnetischen Transformatoren.
 
- Variante: 1 channel  1 channelVariante ausverkauft oder nicht verfügbar  2 channelsVariante ausverkauft oder nicht verfügbar
+ Variante: 1 Kanal  1 KanalVariante ausverkauft oder nicht verfügbar  2 KanäleVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly Pro Dual Cover / Shutter PM](/de/products/shelly-pro-dual-cover-shutter-pm)  ###
 
@@ -582,7 +582,7 @@ Grundpreis /  pro
  Complete Smart Control and Environmental Monitoring bundle
 Control all your devices from one centralized place with Shelly Wall Display, now combined with Shelly BLU H&T for precise climate con...
 
- Color: White White Black
+ Color: Weiß Weiß Schwarz
 
 ### [Shelly Wall Display + H&T White](/de/products/shelly-wall-display-white)  ###
 
@@ -600,7 +600,7 @@ Grundpreis /  pro
 
  Zentralisierte Kontrolle
 
- Color: White White Black
+ Color: Weiß Weiß Schwarz
 
 ### [Shelly Wall Frame 1 for Wall Switch](/de/products/shelly-frame-for-wall-switch-black)  ###
 
@@ -612,7 +612,7 @@ Grundpreis /  pro
 
  1, 2 oder 3 Halterungsschalterrahmen für Shelly Wandschalter. Muss am Shelly Wall Switch befestigt werden. Inklusive Rahmenplatte in derselben Farbe, die für einen stilvollen Touch sorgt.
 
- Variante: Wall Frame 1 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: Black Black White
+ Variante: Wall Frame 1 for Wall Switch  Wall Frame 1 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 2 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Wall Frame 3 for Wall SwitchVariante ausverkauft oder nicht verfügbar  Color: Schwarz Schwarz Weiß
 
 ### [Shelly Wall Socket EU White](/de/products/shelly-wall-socket-eu-white)  ###
 
@@ -624,7 +624,7 @@ Grundpreis /  pro
 
  Passt in jede bestehende Wandsteckdosenkonsole oder auch in kleinste Räume dank kompakter Größe und einfacher Verkabelung. Kein Relais im Paket.
 
- Color: White White Black
+ Color: Weiß Weiß Schwarz
 
 ### [Shelly Wave 1PM](/de/products/shelly-qubino-wave-1pm)  ###
 

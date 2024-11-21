@@ -126,7 +126,7 @@ Grundpreis /  pro
 
  Szenenaktivierung
 
- Color: White White Black
+ Color: Weiß Weiß Schwarz
 
 ### [Shelly Dimmer 0/1-10V PM Gen3](/de/products/shelly-0-1-10v-dimmer-pm-gen3)  ###
 
@@ -216,7 +216,7 @@ Grundpreis /  pro
 
  Heizung & Kühlung
 
- Color: White White Black
+ Color: Weiß Weiß Schwarz
 
 ### [Shelly Plus 0-10V Dimmer](/de/products/shelly-plus-0-10v-dimmer)  ###
 
@@ -572,7 +572,7 @@ Grundpreis /  pro
 
  Zentralisierte Kontrolle
 
- Color: White White Black
+ Color: Weiß Weiß Schwarz
 
 ### [Shelly Wave 1](/de/products/shelly-qubino-wave-1)  ###
 

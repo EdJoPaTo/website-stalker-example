@@ -52,7 +52,7 @@ Grundpreis /  pro
 
  Szenenaktivierung
 
- Farben: Black Black Ivory Mocha
+ Farben: Schwarz Schwarz Ivory Mocha
 
 ### [Shelly BLU TRV](/de/products/shelly-blu-trv-single-pack)  ###
 
@@ -78,7 +78,7 @@ Grundpreis /  pro
 
  Luftfeuchtigkeit
 
- Farben: White White Black Ivory Mocha
+ Farben: Weiß Weiß Schwarz Ivory Mocha
 
 ### [Shelly H&T White](/de/products/shelly-h-t-white)  ###
 
@@ -94,7 +94,7 @@ Grundpreis /  pro
 
  Luftfeuchtigkeit
 
- Color: White White Black
+ Color: Weiß Weiß Schwarz
 
 ### [Shelly Plus Add-On](/de/products/shelly-plus-add-on)  ###
 
