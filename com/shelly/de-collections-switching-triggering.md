@@ -728,6 +728,42 @@ Grundpreis /  pro
 
  Heizung & Kühlung
 
+### [Shelly Wave Pro Dimmer 1PM](/de/products/shelly-wave-pro-dimmer-1pm)  ###
+
+Normaler Preis  €66,52
+
+Verkaufspreis  €66,52 Normaler Preis
+
+Grundpreis /  pro
+
+ Ein-Kanal-Smart-Dimmer mit Energiemessung. Wird zur Steuerung, Dimmung und Leistungsüberwachung einer Vielzahl von Halogenlampen, dimmbaren LEDs und ferromagnetischen Transformatoren zwischen 110 u...
+
+ Dimmen
+
+ Energieeinsparung
+
+ Leistungsmessung
+
+ Variant:: 1 Kanal  1 KanalVariante ausverkauft oder nicht verfügbar  2 KanäleVariante ausverkauft oder nicht verfügbar
+
+### [Shelly Wave Pro Dimmer 2PM](/de/products/shelly-wave-pro-dimmer-2pm)  ###
+
+Normaler Preis  €77,23
+
+Verkaufspreis  €77,23 Normaler Preis
+
+Grundpreis /  pro
+
+ Professioneller 2-Kanal-DIN-Schienen-Smart-Dimmer mit Leistungsüberwachung Mit Fernsteuerung, für Haus- und Gebäudeautomation geeignet. Montage auf DIN-Schiene in einem Unterbrecherkasten. Verbesse...
+
+ Dimmen
+
+ Energieeinsparung
+
+ Leistungsmessung
+
+ Variant:: 2 Kanäle  1 KanalVariante ausverkauft oder nicht verfügbar  2 KanäleVariante ausverkauft oder nicht verfügbar
+
 ### [Shelly Wave Pro Shutter](/de/products/shelly-qubino-wave-pro-shutter)  ###
 
 Normaler Preis  €116,50
