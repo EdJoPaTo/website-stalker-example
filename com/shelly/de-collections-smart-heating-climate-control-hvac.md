@@ -36,7 +36,7 @@ Grundpreis /  pro
 
  Fußbodenheizung
 
-### [Shelly BLU H&T Black](/de/products/shelly-blu-h-t-black)  ###
+### [Shelly BLU H&T Mocha](/de/products/shelly-blu-h-t-mocha)  ###
 
 Normaler Preis  €21,30
 
@@ -52,7 +52,7 @@ Grundpreis /  pro
 
  Szenenaktivierung
 
- Farben: Schwarz Schwarz Ivory Mocha
+ Farben: Mocha Schwarz Ivory Mocha
 
 ### [Shelly BLU TRV](/de/products/shelly-blu-trv-single-pack)  ###
 
