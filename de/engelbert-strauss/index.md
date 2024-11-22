@@ -28,7 +28,7 @@ Frohe Weihnachten mit Mario und seinen Freunden
 
 ---
 
-[alle Highlights](https://www.engelbert-strauss.de/super-mario-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)
+[alle Highlights](https://www.engelbert-strauss.de/geschenkideen-super-mario-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)
 
  Weihnachts-
 Sets
@@ -192,8 +192,8 @@ Die FC BAYERN X STRAUSS Kollektion
 
 – das perfekte Geschenk für alle FC Bayern-Fans
 
-|[<br/><br/>Strauss X Super Mario<br/><br/>](https://www.engelbert-strauss.de/super-mario-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)|[<br/><br/>Strauss X NFL<br/><br/>](https://www.engelbert-strauss.de/nfl-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)|[<br/><br/>Strauss X Eintracht<br/><br/>](https://www.engelbert-strauss.de/eintracht-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)|[<br/><br/>Strauss X FCB<br/><br/>](https://www.engelbert-strauss.de/fcb/?itemorigin=startseite_weihnachten24&sort=newest)|
-|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|[<br/><br/>Strauss X Super Mario<br/><br/>](https://www.engelbert-strauss.de/geschenkideen-super-mario-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)|[<br/><br/>Strauss X NFL<br/><br/>](https://www.engelbert-strauss.de/nfl-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)|[<br/><br/>Strauss X Eintracht<br/><br/>](https://www.engelbert-strauss.de/eintracht-x-strauss/?itemorigin=startseite_weihnachten24&sort=newest)|[<br/><br/>Strauss X FCB<br/><br/>](https://www.engelbert-strauss.de/fcb/?itemorigin=startseite_weihnachten24&sort=newest)|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 
  Beliebte Kategorien
 ----------
