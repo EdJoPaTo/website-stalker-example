@@ -8,7 +8,7 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 Black Coffee Week bei netcup
 ----------
 
-Vom 25. bis 29. November erwarten dich täglich frische Deals aus verschiedenen Produktkategorien – verfügbar immer von 8 bis 20 Uhr. Die regulären Monatsaktionen sind ab Jänner wieder für dich da. ^
+Vom 25. bis 29. November erwarten dich täglich frische Deals aus verschiedenen Produktkategorien – verfügbar immer von 8 bis 20 Uhr. Die regulären Monatsaktionen sind ab Jänner wieder für dich da.
 
 [Mehr Infos \>](https://www.netcup.com/de/deals/black-friday)
 
