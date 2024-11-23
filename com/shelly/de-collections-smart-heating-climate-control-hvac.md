@@ -26,6 +26,8 @@ Verkaufspreis  €20,83 Normaler Preis
 
 Grundpreis /  pro
 
+ WLAN-gesteuerter Smart-Schalter mit Leistungsmessung für die Fernsteuerung einer Vielzahl von Haushalts- und Bürogeräten.
+
  Leistungsüberwachung
 
  Lichter
