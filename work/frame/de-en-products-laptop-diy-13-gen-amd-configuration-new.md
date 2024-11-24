@@ -183,7 +183,7 @@ Close
 * Italian
 * Japanese
 * Korean
-* Portuguese  (Out of stock)
+* Portuguese
 * Spanish (Latin American)
 * Slovenian/Croatian
 * Spanish (Spain)
