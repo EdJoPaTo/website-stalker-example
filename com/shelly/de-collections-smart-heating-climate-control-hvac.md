@@ -106,7 +106,7 @@ Verkaufspreis  €16,07 Normaler Preis
 
 Grundpreis /  pro
 
- Shelly Plus AddOn
+ Galvanisch isolierte Sensor-Schnittstelle für alle Shelly Plus Relais. Zur Messung von Temperatur und Feuchtigkeit oder zum Anschluss verschiedener Sensoren.
 
  Variants:  Shelly Plus Add-OnVariante ausverkauft oder nicht verfügbar  1x Sensor DSVariante ausverkauft oder nicht verfügbar  2x Sensor DSVariante ausverkauft oder nicht verfügbar  3x Sensor DSVariante ausverkauft oder nicht verfügbar
 
