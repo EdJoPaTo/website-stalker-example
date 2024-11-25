@@ -243,6 +243,26 @@ Sets  ###
 
 [alle Weihnachtssets](https://www.engelbert-strauss.de/geschenkideen-weihnachts-sets/?itemorigin=startseite_weihnachten24)
 
+###  e.s. Karo-Highloftdecke  ###
+
+---
+
+ Weiches Highloft mit besonders hohem Kuschel-Faktor
+
+[jetzt kaufen](https://www.engelbert-strauss.de/homewear-pyjamas/e-s-karo-highloftdecke-7072580-1517202-1.html?itemorigin=startseite_weihnachten24)
+
+[mehr erfahren](https://www.engelbert-strauss.de/homewear-pyjamas/e-s-karo-highloftdecke-7072580-1517202-1.html?itemorigin=startseite_weihnachten24)
+
+###  e.s. Karo-Fransendecke  ###
+
+---
+
+ Warme Wohlfühldecke im coolen Wende-Style
+
+[jetzt kaufen](https://www.engelbert-strauss.de/homewear-pyjamas/e-s-karo-fransendecke-7072570-1517203-1627.html?itemorigin=startseite_weihnachten24)
+
+[mehr erfahren](https://www.engelbert-strauss.de/homewear-pyjamas/e-s-karo-fransendecke-7072570-1517203-1627.html?itemorigin=startseite_weihnachten24)
+
 ###  Gutscheine verschenken  ###
 
 ---
