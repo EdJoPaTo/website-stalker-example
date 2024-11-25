@@ -100,9 +100,9 @@ Grundpreis /  pro
 
 ### [Shelly 3EM](/de/products/shelly-3em)  ###
 
-Normaler Preis  €129,71
+Normaler Preis  €97,28
 
-Verkaufspreis  €129,71 Normaler Preis
+Verkaufspreis  €97,28 Normaler Preis  ~~€129,71~~
 
 Grundpreis /  pro
 
@@ -276,9 +276,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus 2PM](/de/products/shelly-plus-2pm)  ###
 
-Normaler Preis  €18,49
+Normaler Preis  €30,82
 
-Verkaufspreis  €18,49 Normaler Preis  ~~€30,82~~
+Verkaufspreis  €30,82 Normaler Preis
 
 Grundpreis /  pro
 

@@ -110,9 +110,9 @@ Grundpreis /  pro
 
 ### [Shelly 3EM](/de/products/shelly-3em)  ###
 
-Normaler Preis  €129,71
+Normaler Preis  €97,28
 
-Verkaufspreis  €129,71 Normaler Preis
+Verkaufspreis  €97,28 Normaler Preis  ~~€129,71~~
 
 Grundpreis /  pro
 
@@ -168,9 +168,9 @@ Grundpreis /  pro
 
 ### [Shelly EM + 50A Clamp](/de/products/shelly-em-50a-clamp-1)  ###
 
-Normaler Preis  €72,35
+Normaler Preis  €36,18
 
-Verkaufspreis  €72,35 Normaler Preis  ~~€36,18~~
+Verkaufspreis  €36,18 Normaler Preis  ~~€72,35~~
 
 Grundpreis /  pro
 
@@ -304,9 +304,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus 2PM](/de/products/shelly-plus-2pm)  ###
 
-Normaler Preis  €18,49
+Normaler Preis  €30,82
 
-Verkaufspreis  €18,49 Normaler Preis  ~~€30,82~~
+Verkaufspreis  €30,82 Normaler Preis
 
 Grundpreis /  pro
 

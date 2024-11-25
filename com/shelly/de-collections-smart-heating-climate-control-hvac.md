@@ -58,9 +58,9 @@ Grundpreis /  pro
 
 ### [Shelly BLU TRV](/de/products/shelly-blu-trv-single-pack)  ###
 
-Normaler Preis  €42,74
+Normaler Preis  €50,75
 
-Verkaufspreis  €42,74 Normaler Preis  ~~€53,43~~
+Verkaufspreis  €50,75 Normaler Preis  ~~€53,43~~
 
 Grundpreis /  pro
 

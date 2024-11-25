@@ -140,26 +140,6 @@ Grundpreis /  pro
 
  Smarte WLAN-betriebene Glühbirne mit warmen und kühlen Farbtönen. Sie ist dimmbar und kann Deinem persönlichen Zeitplan folgen, um Dir Komfort zu bieten und Dein Zuhause energieeffizienter zu machen.
 
-### [Shelly Duo - RGBW](/de/products/shelly-duo-rgbw-2)  ###
-
-Normaler Preis  €12,04
-
-Verkaufspreis  €12,04 Normaler Preis  ~~€14,16~~
-
-Grundpreis /  pro
-
- Smarte WLAN-betriebene Glühbirne mit 16 Millionen Farben zur Auswahl. Sie ist dimmbar und kann Deinem persönlichen Zeitplan folgen, um Dir Komfort zu bieten und Dein Zuhause energieeffizienter zu m...
-
-### [Shelly Duo GU10 RGBW](/de/products/shelly-duo-rgbw-gu10)  ###
-
-Normaler Preis  €12,04
-
-Verkaufspreis  €12,04 Normaler Preis  ~~€14,16~~
-
-Grundpreis /  pro
-
- Smart Wi-Fi betriebene Glühbirne mit 16 Millionen Farben zur Auswahl. Sie lässt sich dimmen und kann Ihrem persönlichen Zeitplan folgen, um Ihnen Komfort zu bieten und Ihr Zuhause energieeffiziente...
-
 ### [Shelly Duo GU10 White](/de/products/shelly-duo-gu10-white)  ###
 
 Normaler Preis  €12,04
@@ -228,9 +208,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus 2PM](/de/products/shelly-plus-2pm)  ###
 
-Normaler Preis  €18,49
+Normaler Preis  €30,82
 
-Verkaufspreis  €18,49 Normaler Preis  ~~€30,82~~
+Verkaufspreis  €30,82 Normaler Preis
 
 Grundpreis /  pro
 
