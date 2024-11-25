@@ -1,8 +1,8 @@
 ### [Shelly 1 Gen3](/de/products/shelly-1-gen3)  ###
 
-Normaler Preis  €18,45
+Normaler Preis  €17,53
 
-Verkaufspreis  €18,45 Normaler Preis
+Verkaufspreis  €17,53 Normaler Preis  ~~€18,45~~
 
 Grundpreis /  pro
 
@@ -20,9 +20,9 @@ Grundpreis /  pro
 
 ### [Shelly 1PM Gen3](/de/products/shelly-1pm-gen3)  ###
 
-Normaler Preis  €20,83
+Normaler Preis  €19,79
 
-Verkaufspreis  €20,83 Normaler Preis
+Verkaufspreis  €19,79 Normaler Preis  ~~€20,83~~
 
 Grundpreis /  pro
 
@@ -40,9 +40,9 @@ Grundpreis /  pro
 
 ### [Shelly BLU H&T Black](/de/products/shelly-blu-h-t-black)  ###
 
-Normaler Preis  €21,30
+Normaler Preis  €17,04
 
-Verkaufspreis  €21,30 Normaler Preis
+Verkaufspreis  €17,04 Normaler Preis  ~~€21,30~~
 
 Grundpreis /  pro
 
@@ -58,9 +58,9 @@ Grundpreis /  pro
 
 ### [Shelly BLU TRV](/de/products/shelly-blu-trv-single-pack)  ###
 
-Normaler Preis  €53,43
+Normaler Preis  €42,74
 
-Verkaufspreis  €53,43 Normaler Preis
+Verkaufspreis  €42,74 Normaler Preis  ~~€53,43~~
 
 Grundpreis /  pro
 
@@ -68,9 +68,9 @@ Grundpreis /  pro
 
 ### [Shelly H&T Gen3 White](/de/products/shelly-h-t-gen3-matte-white)  ###
 
-Normaler Preis  €37,96
+Normaler Preis  €30,37
 
-Verkaufspreis  €37,96 Normaler Preis
+Verkaufspreis  €30,37 Normaler Preis  ~~€37,96~~
 
 Grundpreis /  pro
 
@@ -84,9 +84,9 @@ Grundpreis /  pro
 
 ### [Shelly H&T White](/de/products/shelly-h-t-white)  ###
 
-Normaler Preis  €24,87
+Normaler Preis  €12,44
 
-Verkaufspreis  €24,87 Normaler Preis
+Verkaufspreis  €12,44 Normaler Preis  ~~€24,87~~
 
 Grundpreis /  pro
 
@@ -100,9 +100,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus Add-On](/de/products/shelly-plus-add-on)  ###
 
-Normaler Preis  €16,07
+Normaler Preis  €8,03
 
-Verkaufspreis  €16,07 Normaler Preis
+Verkaufspreis  €8,03 Normaler Preis  ~~€16,07~~
 
 Grundpreis /  pro
 
@@ -126,9 +126,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus Uni](/de/products/shelly-plus-uni)  ###
 
-Normaler Preis  €17,73
+Normaler Preis  €8,87
 
-Verkaufspreis  €17,73 Normaler Preis
+Verkaufspreis  €8,87 Normaler Preis  ~~€17,73~~
 
 Grundpreis /  pro
 
@@ -146,9 +146,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 1](/de/products/shelly-pro-1)  ###
 
-Normaler Preis  €58,91
+Normaler Preis  €47,12
 
-Verkaufspreis  €58,91 Normaler Preis
+Verkaufspreis  €47,12 Normaler Preis  ~~€58,91~~
 
 Grundpreis /  pro
 
@@ -166,9 +166,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 1PM](/de/products/shelly-pro-1pm)  ###
 
-Normaler Preis  €72,00
+Normaler Preis  €57,60
 
-Verkaufspreis  €72,00 Normaler Preis
+Verkaufspreis  €57,60 Normaler Preis  ~~€72,00~~
 
 Grundpreis /  pro
 
@@ -186,9 +186,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 3](/de/products/shelly-pro-3)  ###
 
-Normaler Preis  €83,18
+Normaler Preis  €66,54
 
-Verkaufspreis  €83,18 Normaler Preis
+Verkaufspreis  €66,54 Normaler Preis  ~~€83,18~~
 
 Grundpreis /  pro
 
@@ -204,9 +204,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 4PM](/de/products/shelly-pro-4pm)  ###
 
-Normaler Preis  €116,50
+Normaler Preis  €93,20
 
-Verkaufspreis  €116,50 Normaler Preis
+Verkaufspreis  €93,20 Normaler Preis  ~~€116,50~~
 
 Grundpreis /  pro
 

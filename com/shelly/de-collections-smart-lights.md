@@ -1,8 +1,8 @@
 ### [Shelly 1 Gen3](/de/products/shelly-1-gen3)  ###
 
-Normaler Preis  €18,45
+Normaler Preis  €17,53
 
-Verkaufspreis  €18,45 Normaler Preis
+Verkaufspreis  €17,53 Normaler Preis  ~~€18,45~~
 
 Grundpreis /  pro
 
@@ -20,9 +20,9 @@ Grundpreis /  pro
 
 ### [Shelly 1 Mini Gen3](/de/products/shelly-1-mini-gen3)  ###
 
-Normaler Preis  €14,16
+Normaler Preis  €11,33
 
-Verkaufspreis  €14,16 Normaler Preis
+Verkaufspreis  €11,33 Normaler Preis  ~~€14,16~~
 
 Grundpreis /  pro
 
@@ -40,9 +40,9 @@ Grundpreis /  pro
 
 ### [Shelly 1PM Gen3](/de/products/shelly-1pm-gen3)  ###
 
-Normaler Preis  €20,83
+Normaler Preis  €19,79
 
-Verkaufspreis  €20,83 Normaler Preis
+Verkaufspreis  €19,79 Normaler Preis  ~~€20,83~~
 
 Grundpreis /  pro
 
@@ -60,9 +60,9 @@ Grundpreis /  pro
 
 ### [Shelly 1PM Mini Gen3](/de/products/shelly-1pm-mini-gen3)  ###
 
-Normaler Preis  €16,07
+Normaler Preis  €12,85
 
-Verkaufspreis  €16,07 Normaler Preis
+Verkaufspreis  €12,85 Normaler Preis  ~~€16,07~~
 
 Grundpreis /  pro
 
@@ -80,9 +80,9 @@ Grundpreis /  pro
 
 ### [Shelly 2PM Gen3](/de/products/shelly-2pm-gen3-1)  ###
 
-Normaler Preis  €32,01
+Normaler Preis  €30,42
 
-Verkaufspreis  €32,01 Normaler Preis
+Verkaufspreis  €30,42 Normaler Preis  ~~€32,01~~
 
 Grundpreis /  pro
 
@@ -100,9 +100,9 @@ Grundpreis /  pro
 
 ### [Shelly Dimmer 0/1-10V PM Gen3](/de/products/shelly-0-1-10v-dimmer-pm-gen3)  ###
 
-Normaler Preis  €18,92
+Normaler Preis  €17,03
 
-Verkaufspreis  €18,92 Normaler Preis
+Verkaufspreis  €17,03 Normaler Preis  ~~€18,92~~
 
 Grundpreis /  pro
 
@@ -116,9 +116,9 @@ Grundpreis /  pro
 
 ### [Shelly Dimmer2](/de/products/shelly-dimmer2)  ###
 
-Normaler Preis  €34,39
+Normaler Preis  €25,80
 
-Verkaufspreis  €34,39 Normaler Preis
+Verkaufspreis  €25,80 Normaler Preis  ~~€34,39~~
 
 Grundpreis /  pro
 
@@ -132,9 +132,9 @@ Grundpreis /  pro
 
 ### [Shelly Duo](/de/products/shelly-duo)  ###
 
-Normaler Preis  €14,16
+Normaler Preis  €12,04
 
-Verkaufspreis  €14,16 Normaler Preis
+Verkaufspreis  €12,04 Normaler Preis  ~~€14,16~~
 
 Grundpreis /  pro
 
@@ -142,9 +142,9 @@ Grundpreis /  pro
 
 ### [Shelly Duo - RGBW](/de/products/shelly-duo-rgbw-2)  ###
 
-Normaler Preis  €14,16
+Normaler Preis  €12,04
 
-Verkaufspreis  €14,16 Normaler Preis
+Verkaufspreis  €12,04 Normaler Preis  ~~€14,16~~
 
 Grundpreis /  pro
 
@@ -152,9 +152,9 @@ Grundpreis /  pro
 
 ### [Shelly Duo GU10 RGBW](/de/products/shelly-duo-rgbw-gu10)  ###
 
-Normaler Preis  €14,16
+Normaler Preis  €12,04
 
-Verkaufspreis  €14,16 Normaler Preis
+Verkaufspreis  €12,04 Normaler Preis  ~~€14,16~~
 
 Grundpreis /  pro
 
@@ -162,9 +162,9 @@ Grundpreis /  pro
 
 ### [Shelly Duo GU10 White](/de/products/shelly-duo-gu10-white)  ###
 
-Normaler Preis  €14,16
+Normaler Preis  €12,04
 
-Verkaufspreis  €14,16 Normaler Preis
+Verkaufspreis  €12,04 Normaler Preis  ~~€14,16~~
 
 Grundpreis /  pro
 
@@ -172,9 +172,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus 0-10V Dimmer](/de/products/shelly-plus-0-10v-dimmer)  ###
 
-Normaler Preis  €17,73
+Normaler Preis  €8,87
 
-Verkaufspreis  €17,73 Normaler Preis
+Verkaufspreis  €8,87 Normaler Preis  ~~€17,73~~
 
 Grundpreis /  pro
 
@@ -228,9 +228,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus 2PM](/de/products/shelly-plus-2pm)  ###
 
-Normaler Preis  €30,82
+Normaler Preis  €18,49
 
-Verkaufspreis  €30,82 Normaler Preis
+Verkaufspreis  €18,49 Normaler Preis  ~~€30,82~~
 
 Grundpreis /  pro
 
@@ -248,9 +248,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus RGBW PM](/de/products/shelly-plus-rgbw-pm)  ###
 
-Normaler Preis  €27,25
+Normaler Preis  €24,53
 
-Verkaufspreis  €27,25 Normaler Preis
+Verkaufspreis  €24,53 Normaler Preis  ~~€27,25~~
 
 Grundpreis /  pro
 
@@ -266,9 +266,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 1](/de/products/shelly-pro-1)  ###
 
-Normaler Preis  €58,91
+Normaler Preis  €47,12
 
-Verkaufspreis  €58,91 Normaler Preis
+Verkaufspreis  €47,12 Normaler Preis  ~~€58,91~~
 
 Grundpreis /  pro
 
@@ -286,9 +286,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 1PM](/de/products/shelly-pro-1pm)  ###
 
-Normaler Preis  €72,00
+Normaler Preis  €57,60
 
-Verkaufspreis  €72,00 Normaler Preis
+Verkaufspreis  €57,60 Normaler Preis  ~~€72,00~~
 
 Grundpreis /  pro
 
@@ -306,9 +306,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 2](/de/products/shelly-pro-2)  ###
 
-Normaler Preis  €78,42
+Normaler Preis  €70,58
 
-Verkaufspreis  €78,42 Normaler Preis
+Verkaufspreis  €70,58 Normaler Preis  ~~€78,42~~
 
 Grundpreis /  pro
 
@@ -326,9 +326,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 2PM](/de/products/shelly-pro-2pm)  ###
 
-Normaler Preis  €98,18
+Normaler Preis  €88,36
 
-Verkaufspreis  €98,18 Normaler Preis
+Verkaufspreis  €88,36 Normaler Preis  ~~€98,18~~
 
 Grundpreis /  pro
 
@@ -346,9 +346,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 3](/de/products/shelly-pro-3)  ###
 
-Normaler Preis  €83,18
+Normaler Preis  €66,54
 
-Verkaufspreis  €83,18 Normaler Preis
+Verkaufspreis  €66,54 Normaler Preis  ~~€83,18~~
 
 Grundpreis /  pro
 
@@ -364,9 +364,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro 4PM](/de/products/shelly-pro-4pm)  ###
 
-Normaler Preis  €116,50
+Normaler Preis  €93,20
 
-Verkaufspreis  €116,50 Normaler Preis
+Verkaufspreis  €93,20 Normaler Preis  ~~€116,50~~
 
 Grundpreis /  pro
 
@@ -382,9 +382,9 @@ Grundpreis /  pro
 
 ### [Shelly Pro Dimmer 1PM](/de/products/shelly-pro-dimmer-1pm)  ###
 
-Normaler Preis  €66,52
+Normaler Preis  €53,22
 
-Verkaufspreis  €66,52 Normaler Preis
+Verkaufspreis  €53,22 Normaler Preis  ~~€66,52~~
 
 Grundpreis /  pro
 
@@ -410,9 +410,9 @@ Grundpreis /  pro
 
 ### [Shelly Vintage A60](/de/products/shelly-vintage-a60)  ###
 
-Normaler Preis  €14,16
+Normaler Preis  €12,04
 
-Verkaufspreis  €14,16 Normaler Preis
+Verkaufspreis  €12,04 Normaler Preis  ~~€14,16~~
 
 Grundpreis /  pro
 
@@ -428,9 +428,9 @@ Grundpreis /  pro
 
 ### [Shelly Vintage G125](/de/products/shelly-vintage-g125)  ###
 
-Normaler Preis  €24,87
+Normaler Preis  €21,15
 
-Verkaufspreis  €24,87 Normaler Preis
+Verkaufspreis  €21,15 Normaler Preis  ~~€24,87~~
 
 Grundpreis /  pro
 
@@ -446,9 +446,9 @@ Grundpreis /  pro
 
 ### [Shelly Vintage ST64](/de/products/shelly-vintage-st64)  ###
 
-Normaler Preis  €14,16
+Normaler Preis  €12,04
 
-Verkaufspreis  €14,16 Normaler Preis
+Verkaufspreis  €12,04 Normaler Preis  ~~€14,16~~
 
 Grundpreis /  pro
 
@@ -464,9 +464,9 @@ Grundpreis /  pro
 
 ### [Shelly Wall Display + H&T White](/de/products/shelly-wall-display-white)  ###
 
-Normaler Preis  €148,75
+Normaler Preis  €119,00
 
-Verkaufspreis  €148,75 Normaler Preis
+Verkaufspreis  €119,00 Normaler Preis  ~~€148,75~~
 
 Grundpreis /  pro
 
@@ -482,9 +482,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave 1](/de/products/shelly-qubino-wave-1)  ###
 
-Normaler Preis  €27,67
+Normaler Preis  €16,60
 
-Verkaufspreis  €27,67 Normaler Preis
+Verkaufspreis  €16,60 Normaler Preis  ~~€27,67~~
 
 Grundpreis /  pro
 
@@ -502,9 +502,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave 1 Mini](/de/products/shelly-qubino-wave-1-mini)  ###
 
-Normaler Preis  €23,68
+Normaler Preis  €14,21
 
-Verkaufspreis  €23,68 Normaler Preis
+Verkaufspreis  €14,21 Normaler Preis  ~~€23,68~~
 
 Grundpreis /  pro
 
@@ -522,9 +522,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave 1PM](/de/products/shelly-qubino-wave-1pm)  ###
 
-Normaler Preis  €29,65
+Normaler Preis  €17,79
 
-Verkaufspreis  €29,65 Normaler Preis
+Verkaufspreis  €17,79 Normaler Preis  ~~€29,65~~
 
 Grundpreis /  pro
 
@@ -542,9 +542,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave 1PM Mini](/de/products/shelly-qubino-wave-1pm-mini)  ###
 
-Normaler Preis  €26,06
+Normaler Preis  €15,64
 
-Verkaufspreis  €26,06 Normaler Preis
+Verkaufspreis  €15,64 Normaler Preis  ~~€26,06~~
 
 Grundpreis /  pro
 
@@ -560,9 +560,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave 2PM](/de/products/shelly-qubino-wave-2pm)  ###
 
-Normaler Preis  €34,61
+Normaler Preis  €20,77
 
-Verkaufspreis  €34,61 Normaler Preis
+Verkaufspreis  €20,77 Normaler Preis  ~~€34,61~~
 
 Grundpreis /  pro
 
@@ -578,9 +578,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Pro 1](/de/products/shelly-wave-pro-1)  ###
 
-Normaler Preis  €58,91
+Normaler Preis  €29,45
 
-Verkaufspreis  €58,91 Normaler Preis
+Verkaufspreis  €29,45 Normaler Preis  ~~€58,91~~
 
 Grundpreis /  pro
 
@@ -598,9 +598,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Pro 1PM](/de/products/shelly-wave-pro-1-pm)  ###
 
-Normaler Preis  €72,00
+Normaler Preis  €36,00
 
-Verkaufspreis  €72,00 Normaler Preis
+Verkaufspreis  €36,00 Normaler Preis  ~~€72,00~~
 
 Grundpreis /  pro
 
@@ -618,9 +618,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Pro 2](/de/products/shelly-wave-pro-2)  ###
 
-Normaler Preis  €78,42
+Normaler Preis  €39,21
 
-Verkaufspreis  €78,42 Normaler Preis
+Verkaufspreis  €39,21 Normaler Preis  ~~€78,42~~
 
 Grundpreis /  pro
 
@@ -638,9 +638,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Pro 2PM](/de/products/shelly-qubino-wave-pro-2pm)  ###
 
-Normaler Preis  €98,18
+Normaler Preis  €49,09
 
-Verkaufspreis  €98,18 Normaler Preis
+Verkaufspreis  €49,09 Normaler Preis  ~~€98,18~~
 
 Grundpreis /  pro
 
@@ -658,9 +658,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Pro 3](/de/products/shelly-qubino-wave-pro-3)  ###
 
-Normaler Preis  €83,18
+Normaler Preis  €41,59
 
-Verkaufspreis  €83,18 Normaler Preis
+Verkaufspreis  €41,59 Normaler Preis  ~~€83,18~~
 
 Grundpreis /  pro
 
@@ -676,9 +676,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Pro Dimmer 1PM](/de/products/shelly-wave-pro-dimmer-1pm)  ###
 
-Normaler Preis  €66,52
+Normaler Preis  €33,26
 
-Verkaufspreis  €66,52 Normaler Preis
+Verkaufspreis  €33,26 Normaler Preis  ~~€66,52~~
 
 Grundpreis /  pro
 
@@ -694,9 +694,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Pro Dimmer 2PM](/de/products/shelly-wave-pro-dimmer-2pm)  ###
 
-Normaler Preis  €77,23
+Normaler Preis  €38,62
 
-Verkaufspreis  €77,23 Normaler Preis
+Verkaufspreis  €38,62 Normaler Preis  ~~€77,23~~
 
 Grundpreis /  pro
 
@@ -712,9 +712,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Pro Shutter](/de/products/shelly-qubino-wave-pro-shutter)  ###
 
-Normaler Preis  €116,50
+Normaler Preis  €58,25
 
-Verkaufspreis  €116,50 Normaler Preis
+Verkaufspreis  €58,25 Normaler Preis  ~~€116,50~~
 
 Grundpreis /  pro
 
@@ -726,9 +726,9 @@ Grundpreis /  pro
 
 ### [Shelly Wave Shutter](/de/products/shelly-qubino-wave-shutter)  ###
 
-Normaler Preis  €34,61
+Normaler Preis  €20,77
 
-Verkaufspreis  €34,61 Normaler Preis
+Verkaufspreis  €20,77 Normaler Preis  ~~€34,61~~
 
 Grundpreis /  pro
 
