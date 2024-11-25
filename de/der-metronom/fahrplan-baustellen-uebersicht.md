@@ -25,7 +25,7 @@ Damit du nicht von neuen Baustellen überrascht wirst, informieren wir dich scho
 
 RE2 Hannover - Northeim - Göttingen
 
-[22.11.2024 - 25.11.2024 RE2/RE3: Teilausfälle zwischen Hannover Hbf\<\> Banteln/Alfeld (L.)/Göttingen](https://www.der-metronom.de/baustellen/re2-re3-teilausfaelle-zwischen-hannover-hbf-banteln-alfeld-l-goettingen/)
+[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
