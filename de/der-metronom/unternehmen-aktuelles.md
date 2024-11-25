@@ -15,6 +15,12 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
+
+ Uelzen - 25.11.2024
+
+Die Baumaßnahme zur Errichtung eines elektronischen Stellwerks in Kreiensen musste aufgrund von Unregelmäßigkeiten während der Bauarbeiten erneut und bis zum 2. Dezember verlängert werden. Ein verkehrliches Konzept wird aktuell erarbeitet. Weitere Informationen findet ihr in Kürze auf der...
+
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
  Uelzen - 13.09.2024

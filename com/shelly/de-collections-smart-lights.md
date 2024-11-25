@@ -58,25 +58,25 @@ Grundpreis /  pro
 
  Fußbodenheizung
 
-### [Shelly 1PM Mini Gen3 x2](/de/products/shelly-1pm-mini-gen3-x2)  ###
+### [Shelly 1PM Mini Gen3](/de/products/shelly-1pm-mini-gen3)  ###
 
-Normaler Preis  €23,62
+Normaler Preis  €12,85
 
-Verkaufspreis  €23,62 Normaler Preis  ~~€31,49~~
+Verkaufspreis  €12,85 Normaler Preis  ~~€16,07~~
 
 Grundpreis /  pro
 
  Ausgestattet mit unserem leistungsstarken Shelly Chip mit 8MB Speicher. Einer der kleinsten WLAN-Smart-Schalter mit Energiemessung.
 
- Leistungsüberwachung
-
  Lichter
 
  Elektrogeräte
 
- Heizung
+ Türschloss
 
- Fußbodenheizung
+ Türklingel
+
+ Ventilator
 
 ### [Shelly 2PM Gen3](/de/products/shelly-2pm-gen3-1)  ###
 
