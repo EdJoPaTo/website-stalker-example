@@ -6,6 +6,76 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: November 25th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4629232886909851177</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Nov 25, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed game notes being reset sometimes when enabling/disabling spell checking.
+						<br>
+					</li>
+					<li>
+						Fixed hardware video acceleration setting showing as enabled when GPU accelerated rendering in webviews is disabled (both must be enabled for hardware video acceleration to work).
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording (Desktop Changes)
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed issue preventing audio capture by the steam overlay in some games on Windows
+						<br>
+					</li>
+					<li>
+						Fixed issue preventing Linux users with Nvidia cards from using their GPU to accelerate video encoding
+						<br>
+					</li>
+					<li>
+						Fixed issue causing some users to encounter failures while exporting video clips
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play (Desktop Changes)
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed issue preventing Linux users with Nvidia cards from using their GPU to accelerate video encoding
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629232886909851177" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: November 20th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4629232489537263985</link>
 			<content:encoded><![CDATA[<html>
@@ -214,90 +284,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/6955341154010372716" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: November 12th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4629231855272462879</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 12, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					Deck Specific Changes
-				</b>
-				<br>
-				<ul>
-					<li>
-						Game recording instant clip duration is now configurable in gaming mode.
-						<br>
-					</li>
-					<li>
-						Fixed native titles occasionally running in the wrong runtime.
-						<br>
-					</li>
-					<li>
-						Fixed a case where WiFi power management settings could fail to be applied at startup.
-					</li>
-				</ul>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed some outdated or missing strings in non-English languages.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed layout issues in the BPM Game Recording settings page.
-						<br>
-					</li>
-					<li>
-						Added export time to the progress bar in the send to phone dialog.
-						<br>
-					</li>
-					<li>
-						Instant clip default duration increased from 10s to 20s.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a case where a controller could not show up in the UI the very first time it was connected for an account.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629231855272462879" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
