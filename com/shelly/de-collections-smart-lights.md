@@ -168,9 +168,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus 1](/de/products/shelly-plus-1-x1)  ###
 
-Normaler Preis  €17,73
+Normaler Preis  €10,64
 
-Verkaufspreis  €17,73 Normaler Preis
+Verkaufspreis  €10,64 Normaler Preis  ~~€17,73~~
 
 Grundpreis /  pro
 
@@ -188,9 +188,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus 1PM](/de/products/shelly-plus-1pm)  ###
 
-Normaler Preis  €20,11
+Normaler Preis  €12,07
 
-Verkaufspreis  €20,11 Normaler Preis
+Verkaufspreis  €12,07 Normaler Preis  ~~€20,11~~
 
 Grundpreis /  pro
 
@@ -208,9 +208,9 @@ Grundpreis /  pro
 
 ### [Shelly Plus 2PM](/de/products/shelly-plus-2pm)  ###
 
-Normaler Preis  €30,82
+Normaler Preis  €18,49
 
-Verkaufspreis  €30,82 Normaler Preis
+Verkaufspreis  €18,49 Normaler Preis  ~~€30,82~~
 
 Grundpreis /  pro
 

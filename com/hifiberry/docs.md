@@ -599,6 +599,12 @@ adc, dac, datasheet
 
 updated 2024-08-12
 
+[Datasheet Studio ADC](https://www.hifiberry.com/docs/data-sheets/datasheet-studio-adc/)
+
+other
+
+updated 2024-11-26
+
 [HiFiBerryOS](https://www.hifiberry.com/docs/hifiberryos/)
 
 [HiFiBerryOS: Initial setup](https://www.hifiberry.com/docs/hifiberryos/setup-hifiberryos/)
