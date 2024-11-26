@@ -15,6 +15,14 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE3/RB31: Streckensperrung zwischen Lüneburg - Uelzen!](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-lueneburg-uelzen/)
+
+ Uelzen - 26.11.2024
+
+Liebe Fahrgäste,
+aufgrund einer witterungsbedingten Streckenstörung ist die Strecke der metronom-Linie RE3/RB31 zwischen Lüneburg - Uelzen in beiden Fahrtrichtungen gesperrt.
+Reisende auf diesem Streckenabschnitt müssen auf den Busnotverkehr umsteigen.Die Busse pendeln zwischen Lüneburg und...
+
 [Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
  Uelzen - 25.11.2024
