@@ -195,6 +195,7 @@ sites:
     editors:
       - css_select: "#content"
       - css_remove: "form, .module-form, script, figure, img, svg, hr, .breadcrumb, .image, .malfunction, a[title=weiterlesen], #routeContainer"
+      - css_flatten: a:not([href])
       - html_url_canonicalize
       - html_markdownify
 

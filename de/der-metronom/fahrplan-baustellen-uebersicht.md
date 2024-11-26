@@ -25,7 +25,7 @@ Damit du nicht von neuen Baustellen überrascht wirst, informieren wir dich scho
 
 RE2 Hannover - Northeim - Göttingen
 
-[Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.]()
+ Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
