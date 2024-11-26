@@ -601,7 +601,7 @@ updated 2024-08-12
 
 [Datasheet Studio ADC](https://www.hifiberry.com/docs/data-sheets/datasheet-studio-adc/)
 
-other
+adc, datasheet
 
 updated 2024-11-26
 
