@@ -15,12 +15,12 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
+[Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
  Uelzen - 27.11.2024
 
 Die Baumaßnahme zur Errichtung eines elektronischen Stellwerks in Kreiensen musste aufgrund von Unregelmäßigkeiten bei den Bauarbeiten durch die DB InfraGO AG erneut verlängert werden.
-Die durchgängigen Züge der RE2 Uelzen \<\> Hannover \<\> Göttingen werden (alle 2 Stunden) über...
+Details zum Ersatzverkehr mit Bussen zwischen Hannover und Elze können aus dem Baufahrplan entnommen werden:...
 
 [RE3/RB31: Streckensperrung zwischen Lüneburg - Uelzen aufgehoben](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-lueneburg-uelzen/)
 
