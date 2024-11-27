@@ -25,9 +25,11 @@ Damit du nicht von neuen Baustellen überrascht wirst, informieren wir dich scho
 
 RE2 Hannover - Northeim - Göttingen
 
- Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[27.11.2024 - 14.12.2024 RE2/RE3 umfangreiche Fahrplanänderungen Uelzen \<\> Hannover \<\> Göttingen](https://www.der-metronom.de/baustellen/re2-re3-umfangreiche-fahrplanaenderungen-uelzen-hannover-goettingen/)
 
 RE2 + RE3 Uelzen - Celle - Hannover
+
+[27.11.2024 - 14.12.2024 RE2/RE3 umfangreiche Fahrplanänderungen Uelzen \<\> Hannover \<\> Göttingen](https://www.der-metronom.de/baustellen/re2-re3-umfangreiche-fahrplanaenderungen-uelzen-hannover-goettingen/)
 
 [04.12.2024 - 08.12.2024 RE2/RE3: nächtliche Teilausfälle zwischen Uelzen \<\> Celle/Hannover Hbf](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf/)
 

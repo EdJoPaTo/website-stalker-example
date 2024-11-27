@@ -15,20 +15,20 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE3/RB31: Streckensperrung zwischen Lüneburg - Uelzen](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-lueneburg-uelzen/)
+[Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
+
+ Uelzen - 27.11.2024
+
+Die Baumaßnahme zur Errichtung eines elektronischen Stellwerks in Kreiensen musste aufgrund von Unregelmäßigkeiten bei den Bauarbeiten durch die DB InfraGO AG erneut verlängert werden.
+Die durchgängigen Züge der RE2 Uelzen \<\> Hannover \<\> Göttingen werden (alle 2 Stunden) über...
+
+[RE3/RB31: Streckensperrung zwischen Lüneburg - Uelzen aufgehoben](https://www.der-metronom.de/aktuell/re3-rb31-streckensperrung-zwischen-lueneburg-uelzen/)
 
  Uelzen - 26.11.2024
 
 Liebe Fahrgäste,
 aufgrund einer witterungsbedingten Streckenstörung (Blitzeinschläge und umgestürzter Baum) war die Strecke der metronom-Linie RE3/RB31 seit Dienstagabend um 18:00 Uhr zwischen Lüneburg - Uelzen in beiden Fahrtrichtungen voll gesperrt.
-Aktuell ist die Strecke auf einem der...
-
-[Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
-
- Uelzen - 25.11.2024
-
-Die Baumaßnahme zur Errichtung eines elektronischen Stellwerks in Kreiensen musste aufgrund von Unregelmäßigkeiten bei den Bauarbeiten erneut verlängert werden.
-Daher entfallen derzeit die Halte in Sarstedt und Nordstemmen. Die Umleitung der metronom-Züge erfolgt über Lehrte mit Halt in...
+Die Streckensperrung wurde inzwischen in...
 
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
