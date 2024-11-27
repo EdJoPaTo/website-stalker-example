@@ -15,6 +15,14 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[Fehlerhafte Echtzeitdaten in der elektronischen Fahrplanauskunft](https://www.der-metronom.de/aktuell/fehlerhafte-echtzeitdaten-in-der-elektronischen-fahrplanauskunft/)
+
+ Uelzen - 27.11.2024
+
+Liebe Fahrgäste,
+seit dem Dienstagabend ist der Zugverkehr auf unseren Strecken von Teilausfällen, Ersatzverkehren und Verspätungen geprägt. Den Störungen und Beeinträchtigungen liegen verschiedene Ursachen zu Grunde.
+In den vorherigen Mitteilungen haben wir auf die Selbstinformation per...
+
 [Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
  Uelzen - 27.11.2024
