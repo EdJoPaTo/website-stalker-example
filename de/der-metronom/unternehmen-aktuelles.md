@@ -15,6 +15,13 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE3/RB31: Verspätungen und Ausfälle zwischen Bienenbüttel und Deutsch Evern](https://www.der-metronom.de/aktuell/re3-rb31-verspaetungen-und-ausfaelle-zwischen-bienenbuettel-und-deutsch-evern/)
+
+ Uelzen - 27.11.2024
+
+Liebe Fahrgäste,
+zu der vorherigen ↗ Störung mit Streckensperrung zwischen Lüneburg und Uelzen ist nun auch zwischen Bienenbüttel und Deutsch Evern ein Güterzug liegen geblieben. Dadurch kommt es derzeit wieder zu Verspätungen und Zugausfällen auf der Strecke Hamburg Hbf - Uelzen (- Hannover...
+
 [Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
  Uelzen - 27.11.2024
