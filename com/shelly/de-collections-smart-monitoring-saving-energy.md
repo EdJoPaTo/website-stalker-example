@@ -559,17 +559,17 @@ Grundpreis /  pro
 
  Leistungsüberwachung
 
-### [Shelly Temp. Sensor DS18B20 1m cable](/de/products/shelly-temp-sensor-ds18b20-1m-cable)  ###
+### [Shelly Temp. Sensor DS18B20 3m cable](/de/products/shelly-temp-sensor-ds18b20-3m-cable)  ###
 
-Normaler Preis  €2,42
+Normaler Preis  €4,91
 
-Verkaufspreis  €2,42 Normaler Preis  ~~€3,45~~
+Verkaufspreis  €4,91 Normaler Preis  ~~€7,02~~
 
 Grundpreis /  pro
 
  Kann mit dem Shelly Plus Add-on verwendet werden, um die Temperatur präzise zu messen.
 
- Variante: 1 meter  1 meterVariante ausverkauft oder nicht verfügbar  3 metersVariante ausverkauft oder nicht verfügbar
+ Variante: 3 meters  1 meterVariante ausverkauft oder nicht verfügbar  3 metersVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly Wall Display + H&T White](/de/products/shelly-wall-display-white)  ###
 
