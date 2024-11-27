@@ -46,7 +46,7 @@ Ubuntu LTS 24.04
 
 No Operating System
 
-elementary OS 7.1 Pantheon
+elementary OS 8 Pantheon
 
 KUbuntu LTS 22.04.3
 
