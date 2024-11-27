@@ -15,19 +15,19 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE3/RB31: Verspätungen zwischen Bienenbüttel und Deutsch Evern](https://www.der-metronom.de/aktuell/re3-rb31-verspaetungen-und-ausfaelle-zwischen-bienenbuettel-und-deutsch-evern/)
-
- Uelzen - 27.11.2024
-
-Liebe Fahrgäste,
-aufgrund einer witterungsbedingten Streckenstörung (Blitzeinschläge und umgestürzter Baum) war die Strecke der metronom-Linie RE3/RB31 seit Dienstagabend um 18:00 Uhr zwischen Lüneburg - Uelzen in beiden Fahrtrichtungen voll gesperrt. Am Mittwoch blieb gegen 15:00 Uhr zudem ein...
-
 [Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
  Uelzen - 27.11.2024
 
 Die Baumaßnahme zur Errichtung eines elektronischen Stellwerks in Kreiensen musste aufgrund von Unregelmäßigkeiten bei den Bauarbeiten durch die DB InfraGO AG erneut verlängert werden.
 Details zum Ersatzverkehr mit Bussen zwischen Hannover und Elze können aus dem Baufahrplan entnommen werden:...
+
+[RE3/RB31: Verspätungen zwischen Bienenbüttel und Deutsch Evern](https://www.der-metronom.de/aktuell/re3-rb31-verspaetungen-und-ausfaelle-zwischen-bienenbuettel-und-deutsch-evern/)
+
+ Uelzen - 27.11.2024
+
+Liebe Fahrgäste,
+aufgrund einer witterungsbedingten Streckenstörung (Blitzeinschläge und umgestürzter Baum) war die Strecke der metronom-Linie RE3/RB31 seit Dienstagabend um 18:00 Uhr zwischen Lüneburg - Uelzen in beiden Fahrtrichtungen voll gesperrt. Am Mittwoch blieb gegen 15:00 Uhr zudem ein...
 
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
