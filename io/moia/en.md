@@ -30,6 +30,15 @@ Absolutely transparent
 
 You will find out the cost of your ride before booking. You can pay using the app.
 
+Daily gifts and fun surprises
+
+The MOIA Advent Calendar
+----------
+
+Get into the holiday spirit with MOIA! Starting December 1st, 24 of our MOIAs will transform into Hamburg’s only advent calendar on wheels. If the right door opens for you on the right day, you'll receive a little surprise on board. Good luck!
+
+[Learn more](https://www.moia.io/en/adventcalendar)
+
 How MOIA works
 ----------
 
