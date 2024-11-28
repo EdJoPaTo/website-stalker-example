@@ -48,12 +48,13 @@ Configurable to:
  4TB Gen3 PCIe SSD
 
  Read Speed (CDM): 3370MB/s
- Write Speed (CDM): 3030MB/s
+ Write Speed (CDM):
+3030MB/s
  Key Type: M
  Size: M2 2280
  Design: Single-Sided
 
-Expandable Storage
+ Expandable Storage
 
  Detachable 2.5" HDD/SSD (via optional connector included)
 
