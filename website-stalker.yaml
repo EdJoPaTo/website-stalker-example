@@ -437,7 +437,7 @@ sites:
       - https://www.shelly.com/de/collections/smart-heating-climate-control-hvac
     editors:
       - css_select: product-card .card__content:has(h3)
-      - css_remove: svg, picture, img, script
+      - css_remove: svg, picture, img, script, .price
       - css_sort:
           selector: body > *
           sort_by:
