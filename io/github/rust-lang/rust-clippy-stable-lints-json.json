@@ -278,7 +278,7 @@
 		"group": "style",
 		"id": "byte_char_slices",
 		"level": "warn",
-		"version": "1.68.0"
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "MachineApplicable",
@@ -397,7 +397,7 @@
 		"group": "restriction",
 		"id": "cfg_not_test",
 		"level": "allow",
-		"version": "1.73.0"
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "MachineApplicable",
@@ -862,17 +862,17 @@
 		"version": "1.77.0"
 	},
 	{
-		"applicability": "Unspecified",
-		"group": "nursery",
+		"applicability": "MaybeIncorrect",
+		"group": "suspicious",
 		"id": "empty_line_after_doc_comments",
-		"level": "allow",
+		"level": "warn",
 		"version": "1.70.0"
 	},
 	{
-		"applicability": "Unspecified",
-		"group": "nursery",
+		"applicability": "MaybeIncorrect",
+		"group": "suspicious",
 		"id": "empty_line_after_outer_attr",
-		"level": "allow",
+		"level": "warn",
 		"version": "pre 1.29.0"
 	},
 	{
@@ -1091,7 +1091,7 @@
 		"group": "restriction",
 		"id": "field_scoped_visibility_modifiers",
 		"level": "allow",
-		"version": "1.78.0"
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "Unspecified",
@@ -1619,6 +1619,13 @@
 		"version": "pre 1.29.0"
 	},
 	{
+		"applicability": "MaybeIncorrect",
+		"group": "correctness",
+		"id": "inverted_saturating_sub",
+		"level": "deny",
+		"version": "1.44.0"
+	},
+	{
 		"applicability": "MachineApplicable",
 		"group": "correctness",
 		"id": "invisible_characters",
@@ -2005,9 +2012,9 @@
 	},
 	{
 		"applicability": "MachineApplicable",
-		"group": "pedantic",
+		"group": "complexity",
 		"id": "manual_c_str_literals",
-		"level": "allow",
+		"level": "warn",
 		"version": "1.78.0"
 	},
 	{
@@ -2016,6 +2023,13 @@
 		"id": "manual_clamp",
 		"level": "warn",
 		"version": "1.66.0"
+	},
+	{
+		"applicability": "MachineApplicable",
+		"group": "complexity",
+		"id": "manual_div_ceil",
+		"level": "warn",
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "MachineApplicable",
@@ -2096,6 +2110,13 @@
 	},
 	{
 		"applicability": "MachineApplicable",
+		"group": "complexity",
+		"id": "manual_is_power_of_two",
+		"level": "warn",
+		"version": "1.82.0"
+	},
+	{
+		"applicability": "MachineApplicable",
 		"group": "pedantic",
 		"id": "manual_is_variant_and",
 		"level": "allow",
@@ -2137,7 +2158,7 @@
 		"version": "1.71.0"
 	},
 	{
-		"applicability": "Unspecified",
+		"applicability": "MaybeIncorrect",
 		"group": "style",
 		"id": "manual_non_exhaustive",
 		"level": "warn",
@@ -2155,7 +2176,7 @@
 		"group": "style",
 		"id": "manual_pattern_char_comparison",
 		"level": "warn",
-		"version": "1.80.0"
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "MachineApplicable",
@@ -2807,7 +2828,7 @@
 		"group": "suspicious",
 		"id": "needless_character_iteration",
 		"level": "warn",
-		"version": "1.80.0"
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "MachineApplicable",
@@ -2877,7 +2898,7 @@
 		"group": "suspicious",
 		"id": "needless_maybe_sized",
 		"level": "warn",
-		"version": "1.79.0"
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "MachineApplicable",
@@ -3088,6 +3109,13 @@
 		"id": "non_send_fields_in_send_ty",
 		"level": "allow",
 		"version": "1.57.0"
+	},
+	{
+		"applicability": "MachineApplicable",
+		"group": "restriction",
+		"id": "non_zero_suggestions",
+		"level": "allow",
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "MachineApplicable",
@@ -3326,6 +3354,13 @@
 		"id": "permissions_set_readonly_false",
 		"level": "warn",
 		"version": "1.68.0"
+	},
+	{
+		"applicability": "Unspecified",
+		"group": "suspicious",
+		"id": "pointers_in_nomem_asm_block",
+		"level": "warn",
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "Unspecified",
@@ -3701,6 +3736,13 @@
 		"version": "1.54.0"
 	},
 	{
+		"applicability": "Unspecified",
+		"group": "pedantic",
+		"id": "ref_option",
+		"level": "allow",
+		"version": "1.82.0"
+	},
+	{
 		"applicability": "MaybeIncorrect",
 		"group": "pedantic",
 		"id": "ref_option_ref",
@@ -3917,7 +3959,7 @@
 		"group": "nursery",
 		"id": "set_contains_or_insert",
 		"level": "allow",
-		"version": "1.80.0"
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "Unspecified",
@@ -4359,7 +4401,7 @@
 		"group": "style",
 		"id": "too_long_first_doc_paragraph",
 		"level": "warn",
-		"version": "1.81.0"
+		"version": "1.82.0"
 	},
 	{
 		"applicability": "Unspecified",
@@ -4677,6 +4719,13 @@
 		"version": "1.61.0"
 	},
 	{
+		"applicability": "MaybeIncorrect",
+		"group": "complexity",
+		"id": "unnecessary_first_then_check",
+		"level": "warn",
+		"version": "1.83.0"
+	},
+	{
 		"applicability": "MachineApplicable",
 		"group": "style",
 		"id": "unnecessary_fold",
@@ -4723,7 +4772,7 @@
 		"group": "complexity",
 		"id": "unnecessary_min_or_max",
 		"level": "warn",
-		"version": "1.78.0"
+		"version": "1.81.0"
 	},
 	{
 		"applicability": "Unspecified",
@@ -4962,6 +5011,13 @@
 	},
 	{
 		"applicability": "MachineApplicable",
+		"group": "restriction",
+		"id": "unused_trait_names",
+		"level": "allow",
+		"version": "1.83.0"
+	},
+	{
+		"applicability": "MachineApplicable",
 		"group": "style",
 		"id": "unused_unit",
 		"level": "warn",
@@ -5020,6 +5076,13 @@
 		"applicability": "Unspecified",
 		"group": "pedantic",
 		"id": "used_underscore_binding",
+		"level": "allow",
+		"version": "pre 1.29.0"
+	},
+	{
+		"applicability": "Unspecified",
+		"group": "pedantic",
+		"id": "used_underscore_items",
 		"level": "allow",
 		"version": "pre 1.29.0"
 	},
@@ -5247,6 +5310,13 @@
 		"id": "zero_sized_map_values",
 		"level": "allow",
 		"version": "1.50.0"
+	},
+	{
+		"applicability": "MaybeIncorrect",
+		"group": "suspicious",
+		"id": "zombie_processes",
+		"level": "warn",
+		"version": "1.74.0"
 	},
 	{
 		"applicability": "Unspecified",
