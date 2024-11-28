@@ -15,11 +15,12 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Bahnstrecke Uelzen – Hannover: wegen eines Unfalls bis auf weiteres gesperrt](https://www.der-metronom.de/aktuell/bahnstrecke-uelzen---hannover-wegen-eines-unfalls-bis-auf-weiteres-gesperrt/)
+[update 8:00 Uhr: unverändert // Bahnstrecke Uelzen – Hannover: wegen eines Unfalls bis auf weiteres gesperrt](https://www.der-metronom.de/aktuell/bahnstrecke-uelzen---hannover-wegen-eines-unfalls-bis-auf-weiteres-gesperrt/)
 
  Uelzen, Celle, Hannover - 28.11.2024
 
-In der Nacht von Mittwoch auf Donnerstag gegen...
+update 8:00 Uhr:
+Die Situation ist...
 
 [Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
