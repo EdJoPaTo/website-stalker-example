@@ -147,7 +147,6 @@ Compatible with:
 * [CM3+](/products/compute-module-3-plus/)
 * [CM4](/products/compute-module-4/)
 * [CM4S](/products/compute-module-4s/)
-* [CM5](/products/compute-module-5/)
 * [Zero 2 W](/products/raspberry-pi-zero-2-w/)
 
 ### Raspberry Pi OS (Legacy) with desktop ###
