@@ -29,13 +29,6 @@ die Situation hat sich...
 Die Baumaßnahme zur Errichtung eines elektronischen Stellwerks in Kreiensen musste aufgrund von Unregelmäßigkeiten bei den Bauarbeiten durch die DB InfraGO AG erneut verlängert werden.
 Details zum Ersatzverkehr mit Bussen zwischen Hannover und Elze können aus dem Baufahrplan entnommen werden:...
 
-[Beeinträchtigungen bis Donnerstagnachmittag erwartet: Verspätungen und Ausfälle zwischen Hamburg Hauptbahnhof und Hannover Hauptbahnhof](https://www.der-metronom.de/aktuell/re3-rb31-verspaetungen-und-ausfaelle-zwischen-bienenbuettel-und-deutsch-evern/)
-
- Uelzen - 27.11.2024
-
-Moin liebe Fahrgäste,
-aufgrund einer witterungsbedingten Streckenstörung (Blitzeinschläge, umgestürzter Baum, liegengebliebener Fernverkehrszug) war die Strecke der metronom-Linie RE3/RB31 seit Dienstagabend um 18:00 Uhr zwischen Lüneburg - Uelzen in beiden Fahrtrichtungen voll gesperrt. Am...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
  Uelzen - 13.09.2024
