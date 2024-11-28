@@ -123,6 +123,7 @@ write a closure that returns an async block.
 ### Example ###
 
 ```
+#![feature(async_closure)]
 #![warn(closure_returning_async_block)]
 let c = |x: &str| async {};
 ```
@@ -130,17 +131,22 @@ let c = |x: &str| async {};
 This will produce:
 
 ```
-warning: unknown lint: `closure_returning_async_block`
- --> lint_example.rs:1:1
+warning: closure returning async block can be made into an async closure
+ --> lint_example.rs:4:9
   |
-1 | #![warn(closure_returning_async_block)]
-  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+4 | let c = |x: &str| async {};
+  |         ^^^^^^^^^ ----- this async block can be removed, and the closure can be turned into an async closure
   |
-  = note: the `closure_returning_async_block` lint is unstable
-  = note: see issue #62290 <https://github.com/rust-lang/rust/issues/62290> for more information
-  = help: add `#![feature(async_closure)]` to the crate attributes to enable
-  = note: this compiler was built on 2024-10-15; consider upgrading it if it is out of date
-  = note: `#[warn(unknown_lints)]` on by default
+note: the lint level is defined here
+ --> lint_example.rs:2:9
+  |
+2 | #![warn(closure_returning_async_block)]
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+help: turn this into an async closure
+  |
+4 - let c = |x: &str| async {};
+4 + let c = async |x: &str| {};
+  |
 
 ```
 
@@ -532,6 +538,101 @@ It is much better to use [`ptr::with_addr`](https://doc.rust-lang.org/core/primi
 provenance you want. If using this function is not possible because the
 code relies on exposed provenance then there is as an escape hatch[`ptr::with_exposed_provenance`](https://doc.rust-lang.org/core/ptr/fn.with_exposed_provenance.html).
 
+[if-let-rescope](#if-let-rescope)
+----------
+
+The `if_let_rescope` lint detects cases where a temporary value with
+significant drop is generated on the right hand side of `if let`and suggests a rewrite into `match` when possible.
+
+### Example ###
+
+```
+#![cfg_attr(not(bootstrap), feature(if_let_rescope))] // Simplify this in bootstrap bump.
+#![warn(if_let_rescope)]
+#![allow(unused_variables)]
+
+struct Droppy;
+impl Drop for Droppy {
+    fn drop(&mut self) {
+        // Custom destructor, including this `drop` implementation, is considered
+        // significant.
+        // Rust does not check whether this destructor emits side-effects that can
+        // lead to observable change in program semantics, when the drop order changes.
+        // Rust biases to be on the safe side, so that you can apply discretion whether
+        // this change indeed breaches any contract or specification that your code needs
+        // to honour.
+        println!("dropped");
+    }
+}
+impl Droppy {
+    fn get(&self) -> Option<u8> {
+        None
+    }
+}
+
+fn main() {
+    if let Some(value) = Droppy.get() {
+        // do something
+    } else {
+        // do something else
+    }
+}
+```
+
+This will produce:
+
+```
+warning: `if let` assigns a shorter lifetime since Edition 2024
+  --> lint_example.rs:25:8
+   |
+25 |     if let Some(value) = Droppy.get() {
+   |        ^^^^^^^^^^^^^^^^^^------^^^^^^
+   |                          |
+   |                          this value has a significant drop implementation which may observe a major change in drop order and requires your discretion
+   |
+   = warning: this changes meaning in Rust 2024
+   = note: for more information, see issue #124085 <https://github.com/rust-lang/rust/issues/124085>
+help: the value is now dropped here in Edition 2024
+  --> lint_example.rs:27:5
+   |
+27 |     } else {
+   |     ^
+note: the lint level is defined here
+  --> lint_example.rs:2:9
+   |
+2  | #![warn(if_let_rescope)]
+   |         ^^^^^^^^^^^^^^
+help: a `match` with a single arm can preserve the drop order up to Edition 2021
+   |
+25 ~     match Droppy.get() { Some(value) => {
+26 |         // do something
+27 ~     } _ => {
+28 |         // do something else
+29 ~     }}
+   |
+
+```
+
+### Explanation ###
+
+With Edition 2024, temporaries generated while evaluating `if let`s
+will be dropped before the `else` block.
+This lint captures a possible change in runtime behaviour due to
+a change in sequence of calls to significant `Drop::drop` destructors.
+
+A significant [`Drop::drop`](https://doc.rust-lang.org/std/ops/trait.Drop.html)destructor here refers to an explicit, arbitrary implementation of the `Drop` trait on the type
+with exceptions including `Vec`, `Box`, `Rc`, `BTreeMap` and `HashMap`that are marked by the compiler otherwise so long that the generic types have
+no significant destructor recursively.
+In other words, a type has a significant drop destructor when it has a `Drop` implementation
+or its destructor invokes a significant destructor on a type.
+Since we cannot completely reason about the change by just inspecting the existence of
+a significant destructor, this lint remains only a suggestion and is set to `allow` by default.
+
+Whenever possible, a rewrite into an equivalent `match` expression that
+observe the same order of calls to such destructors is proposed by this lint.
+Authors may take their own discretion whether the rewrite suggestion shall be
+accepted, or rejected to continue the use of the `if let` expression.
+
 [impl-trait-overcaptures](#impl-trait-overcaptures)
 ----------
 
@@ -735,7 +836,7 @@ fn main() {
 This will produce:
 
 ```
-warning: non-binding let on a type that implements `Drop`
+warning: non-binding let on a type that has a destructor
   --> lint_example.rs:14:5
    |
 14 |     let _ = SomeStruct;
@@ -926,8 +1027,7 @@ and other issues. See [issue #61053](https://github.com/rust-lang/rust/issues/61
 [missing-abi](#missing-abi)
 ----------
 
-The `missing_abi` lint detects cases where the ABI is omitted from
-extern declarations.
+The `missing_abi` lint detects cases where the ABI is omitted from`extern` declarations.
 
 ### Example ###
 
@@ -957,10 +1057,9 @@ note: the lint level is defined here
 
 ### Explanation ###
 
-Historically, Rust implicitly selected C as the ABI for extern
-declarations. We expect to add new ABIs, like `C-unwind`, in the future,
-though this has not yet happened, and especially with their addition
-seeing the ABI easily will make code review easier.
+For historic reasons, Rust implicitly selects `C` as the default ABI for`extern` declarations. [Other ABIs](https://doc.rust-lang.org/reference/items/external-blocks.html#abi) like `C-unwind` and `system` have
+been added since then, and especially with their addition seeing the ABI
+easily makes code review easier.
 
 [missing-copy-implementations](#missing-copy-implementations)
 ----------
@@ -1146,7 +1245,7 @@ hard error in the future.
 [multiple-supertrait-upcastable](#multiple-supertrait-upcastable)
 ----------
 
-The `multiple_supertrait_upcastable` lint detects when an object-safe trait has multiple
+The `multiple_supertrait_upcastable` lint detects when a dyn-compatible trait has multiple
 supertraits.
 
 ### Example ###
@@ -1163,7 +1262,7 @@ trait C: A + B {}
 This will produce:
 
 ```
-warning: `C` is object-safe and has multiple supertraits
+warning: `C` is dyn-compatible and has multiple supertraits
  --> lint_example.rs:7:1
   |
 7 | trait C: A + B {}
@@ -1339,59 +1438,6 @@ redundant) wildcard when pattern-matching, to allow for future addition of field
 variants. The `non_exhaustive_omitted_patterns` lint detects when such a wildcard happens to
 actually catch some fields/variants. In other words, when the match without the wildcard
 would not be exhaustive. This lets the user be informed if new fields/variants were added.
-
-[non-local-definitions](#non-local-definitions)
-----------
-
-The `non_local_definitions` lint checks for `impl` blocks and `#[macro_export]`macro inside bodies (functions, enum discriminant, ...).
-
-### Example ###
-
-```
-#![warn(non_local_definitions)]
-trait MyTrait {}
-struct MyStruct;
-
-fn foo() {
-    impl MyTrait for MyStruct {}
-}
-```
-
-This will produce:
-
-```
-warning: non-local `impl` definition, `impl` blocks should be written at the same level as their item
- --> lint_example.rs:7:5
-  |
-6 | fn foo() {
-  | -------- move the `impl` block outside of this function `foo` and up 2 bodies
-7 |     impl MyTrait for MyStruct {}
-  |     ^^^^^-------^^^^^--------
-  |          |           |
-  |          |           `MyStruct` is not local
-  |          `MyTrait` is not local
-  |
-  = note: `impl` may be usable in bounds, etc. from outside the expression, which might e.g. make something constructible that previously wasn't, because it's still on a publicly-visible type
-  = note: an `impl` is never scoped, even when it is nested inside an item, as it may impact type checking outside of that item, which can be the case if neither the trait or the self type are at the same nesting level as the `impl`
-  = note: this lint may become deny-by-default in the edition 2024 and higher, see the tracking issue <https://github.com/rust-lang/rust/issues/120363>
-note: the lint level is defined here
- --> lint_example.rs:1:9
-  |
-1 | #![warn(non_local_definitions)]
-  |         ^^^^^^^^^^^^^^^^^^^^^
-
-```
-
-### Explanation ###
-
-Creating non-local definitions go against expectation and can create discrepancies
-in tooling. It should be avoided. It may become deny-by-default in edition 2024
-and higher, see the tracking issue <https://github.com/rust-lang/rust/issues/120363>.
-
-An `impl` definition is non-local if it is nested inside an item and neither
-the type nor the trait are at the same nesting level as the `impl` block.
-
-All nested bodies (functions, enum discriminant, array length, consts) (expect for`const _: Ty = { ... }` in top-level module, which is still undecided) are checked.
 
 [or-patterns-back-compat](#or-patterns-back-compat)
 ----------
@@ -1758,6 +1804,69 @@ note: the lint level is defined here
 In Rust 2021, one of the important introductions is the [prelude changes](https://blog.rust-lang.org/inside-rust/2021/03/04/planning-rust-2021.html#prelude-changes), which add`TryFrom`, `TryInto`, and `FromIterator` into the standard library's prelude. Since this
 results in an ambiguity as to which method/function to call when an existing `try_into`method is called via dot-call syntax or a `try_from`/`from_iter` associated function
 is called directly on a type.
+
+[rust-2024-guarded-string-incompatible-syntax](#rust-2024-guarded-string-incompatible-syntax)
+----------
+
+The `rust_2024_guarded_string_incompatible_syntax` lint detects `#` tokens
+that will be parsed as part of a guarded string literal in Rust 2024.
+
+### Example ###
+
+```
+#![deny(rust_2024_guarded_string_incompatible_syntax)]
+
+macro_rules! m {
+    (# $x:expr #) => ();
+    (# $x:expr) => ();
+}
+
+m!(#"hey"#);
+m!(#"hello");
+```
+
+This will produce:
+
+```
+error: will be parsed as a guarded string in Rust 2024
+ --> lint_example.rs:9:4
+  |
+9 | m!(#"hey"#);
+  |    ^^^^^^^
+  |
+  = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
+  = note: for more information, see issue #123735 <https://github.com/rust-lang/rust/issues/123735>
+note: the lint level is defined here
+ --> lint_example.rs:1:9
+  |
+1 | #![deny(rust_2024_guarded_string_incompatible_syntax)]
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+help: insert whitespace here to avoid this being parsed as a guarded string in Rust 2024
+  |
+9 | m!(# "hey"#);
+  |     +
+
+error: will be parsed as a guarded string in Rust 2024
+  --> lint_example.rs:10:4
+   |
+10 | m!(#"hello");
+   |    ^^^^^^^^
+   |
+   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
+   = note: for more information, see issue #123735 <https://github.com/rust-lang/rust/issues/123735>
+help: insert whitespace here to avoid this being parsed as a guarded string in Rust 2024
+   |
+10 | m!(# "hello");
+   |     +
+
+```
+
+### Explanation ###
+
+Prior to Rust 2024, `#"hey"#` is three tokens: the first `#`followed by the string literal `"hey"` then the final `#`.
+In Rust 2024, the whole sequence is considered a single token.
+
+This lint suggests to add whitespace between the leading `#`and the string to keep them separated in Rust 2024.
 
 [rust-2024-incompatible-pat](#rust-2024-incompatible-pat)
 ----------
@@ -2195,6 +2304,52 @@ or document that users are not supposed to be able to name it for one reason or 
 
 Besides types, this lint applies to traits because traits can also leak through signatures,
 and you may obtain objects of their `dyn Trait` or `impl Trait` types.
+
+[unqualified-local-imports](#unqualified-local-imports)
+----------
+
+The `unqualified_local_imports` lint checks for `use` items that import a local item using a
+path that does not start with `self::`, `super::`, or `crate::`.
+
+### Example ###
+
+```
+#![warn(unqualified_local_imports)]
+
+mod localmod {
+    pub struct S;
+}
+
+use localmod::S;
+// We have to actually use `S`, or else the `unused` warnings suppress the lint we care about.
+pub fn main() {
+    let _x = S;
+}
+```
+
+This will produce:
+
+```
+warning: unknown lint: `unqualified_local_imports`
+ --> lint_example.rs:1:1
+  |
+1 | #![warn(unqualified_local_imports)]
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |
+  = note: the `unqualified_local_imports` lint is unstable
+  = help: add `#![feature(unqualified_local_imports)]` to the crate attributes to enable
+  = note: this compiler was built on 2024-11-26; consider upgrading it if it is out of date
+  = note: `#[warn(unknown_lints)]` on by default
+
+```
+
+### Explanation ###
+
+This lint is meant to be used with the (unstable) rustfmt setting `group_imports = "StdExternalCrate"`.
+That setting makes rustfmt group `self::`, `super::`, and `crate::` imports separately from those
+refering to other crates. However, rustfmt cannot know whether `use c::S;` refers to a local module `c`or an external crate `c`, so it always gets categorized as an import from another crate.
+To ensure consistent grouping of imports from the local crate, all local imports must
+start with `self::`, `super::`, or `crate::`. This lint can be used to enforce that style.
 
 [unreachable-pub](#unreachable-pub)
 ----------
