@@ -66,8 +66,6 @@
 
  Elektrogeräte
 
- Garagentor
-
 ### [Shelly 3EM](/de/products/shelly-3em)  ###
 
  Professioneller 3-Phasen Energiemesser zur Echtzeit-Überwachung des Stromverbrauchs mit Benachrichtigung bei Überschreitung eines Grenzwerts.
@@ -193,8 +191,6 @@
  Leistungsüberwachung
 
  Lichter
-
- Garagentor
 
  Elektrogeräte
 

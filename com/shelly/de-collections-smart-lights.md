@@ -66,8 +66,6 @@
 
  Elektrogeräte
 
- Garagentor
-
 ### [Shelly Dimmer 0/1-10V PM Gen3](/de/products/shelly-0-1-10v-dimmer-pm-gen3)  ###
 
  Smartes Dimmsteuergerät mit Leistungsmessung. Bietet Unterstützung für 0-10V und 1-10V-Treiber.
@@ -143,8 +141,6 @@
  Leistungsüberwachung
 
  Lichter
-
- Garagentor
 
  Elektrogeräte
 
