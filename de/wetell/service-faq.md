@@ -49,7 +49,7 @@ Die aktuellen Preislisten und AGB findest du in unserem [Downloadbereich](https:
 
 Selbstverständlich kannst du WEtell auch im Ausland nutzen. Je nach Land fallen unterschiedliche Gebühren an. Preisinformationen im Detail findest du in unserer [Roaming-Preisliste](https://www.wetell.de/downloads/preislisten/Preisliste_Roaming.pdf).
 
-Welche Sonderrufnummern in welchem Land gebührenpflichtig sind, findest du in der Übersicht über [Sonderrufnummern](https://www.vodafone.de/roaming/eu-sonderrufnummern.pdf).
+Das übliche EU-Roaming ist natürlich auch bei uns inklusive. VORSICHT: Anrufe aus Deutschland in ein anderes EU-Land fallen nicht unter die EU-Roaming-Regelung, sind also kostenpflichtig.
 
 #### Kann ich zu meinem Vertrag auch ein Handy bei euch erhalten?  ####
 
@@ -67,9 +67,9 @@ Für einige Länder, bspw. für die Schweiz, können wir dir außerdem die Zusat
 
 Nein, wir haben gerade ausschließlich Postpaid Verträge im Angebot. Allerdings sind die alle monatlich kündbar und begleiten dich so lange wie du es willst. Das ist also fast wie Prepaid.
 
-#### Gibt es auch Tarife ohne oder mit weniger Datenvolumen? ####
+#### Gibt es auch einen Tarif ohne Datenvolumen? ####
 
-Mit den angebotenen Tarifen sind wir an das Angebot des Netzbetreibers und Mobilfunkpartners gebunden. Wir möchten aber gerne selbst z.B. Voice only Tarife ganz ohne Datenvolumen anbieten und werden uns dafür einsetzen.
+Mit den angebotenen Tarifen sind wir an das Angebot des Netzbetreibers und Mobilfunkpartners gebunden. Wir möchten aber gerne selbst Voice only Tarife ganz ohne Datenvolumen anbieten und werden uns dafür einsetzen.
 
 #### Bekomme ich bei WEtell eine Festnetznummer? ####
 
@@ -81,7 +81,7 @@ Einen DSL/Breitband-Anschluss bieten wir bisher nicht an, sondern ausschließlic
 
 #### Bietet ihr Ermäßigungen auf eure Tarife an? ####
 
-Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es den „FAIRstärker“, er bietet die Möglichkeit, sich mit 1, 3 oder 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1, 3, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du unter auf der [FAIRstärker-Seite](https://www.wetell.de/fairstaerker/).
+Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es den „FAIRstärker“, er bietet die Möglichkeit, sich mit 1, 3 oder 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1, 3, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du auf der [FAIRstärker-Seite](https://www.wetell.de/fairstaerker/).
 
 #### Gilt das monatliche Datenvolumen sowohl für Down- als auch für Uploads? ####
 
@@ -89,7 +89,7 @@ Ja, das Datenvolumen gilt zusammengenommenfür Down- und Uploads.
 
 #### Wie hoch ist die maximale Datenübertragungsrate? ####
 
-Das hängt von deinem Tarif ab. Die entsprechende Datenübertragungsrate findest du im [Produktinformationsblatt (PIB)](https://www.wetell.de/service/dokumente/) deines Tarifes oder der entsprechenden [Preisliste](https://www.wetell.de/service/dokumente/).
+Die Tarife Ultrakurz und Mikrofon übertragen mit bis zu 50 Mbit/s. Die Tarife Mittelwelle und Megafon, verfügen über eine Datenübertragungsrate von bis zu 100 Mbit/s und der Tarif Überschall überträgt mit bis zu 150 Mbit/s. Zur Einschätzung: für Streamen von hochaufgelösten 4K/UHD Videos wird eine Übertragungsrate von 25 Mbit/s empfohlen.
 
 #### Was kosten Anrufe zu Sonderrufnummern (0180, 0900 etc.)? ####
 
@@ -153,7 +153,7 @@ Falls du der\*die Vertragspartner\*in bist, informiere dich bei deinem bisherige
 
 Da gibt es verschiedene Möglichkeiten:
 
-1. Kündigen nervt! Deswegen helfen wir dir! Du kannst direkt beim Abschließen deines WEtell-Tarifs in der Bestellstrecke anklicken, dass dein alter Vertrag gekündigt werden soll. Wir machen die Kündigung dann für dich fertig und schicken sie an deinen alten Anbieter. Worauf also warten: Los geht’s zu den [Tarifen](https://www.wetell.de/tarife/).
+1. Kündigen nervt! Deswegen helfen wir dir! Du kannst direkt beim Abschließen deines WEtell-Tarifs in der Bestellstrecke anklicken, dass dein alter Vertrag gekündigt werden soll (nachträglich können wir das leider nicht mehr für dich veranlassen). Wir machen die Kündigung dann für dich fertig und schicken sie an deinen alten Anbieter. Beachte dabei bitte, dass dein alter Vertrag auch auf deinen Namen laufen muss, die Kündigung wird sonst vom alten Anbieter nicht akzeptiert. Worauf also warten: Los geht’s zu den [Tarifen](https://www.wetell.de/tarife).
 2. Online: Jeder Mobilfunkanbieter muss ein Kündigungsformular auf seiner Website anbieten, bei dem du deine persönlichen Daten einträgst du direkt kündigen kannst. Bei den meisten Anbietern gibt es auch im Login Bereich eine Möglichkeit zu Kündigung. Wenn die Kündigung sehr zügig bearbeitet werden soll, ist das die schnellste Variante.
 3. Per Mail: Schreib eine Mail an den Kundenservice deines alten Anbieters.
 
@@ -238,10 +238,9 @@ https://www.vodafone.de/hilfe/alles-zur-mailbox.html
 
 #### Wie kann ich eine Anrufumleitung einstellen? ####
 
-Anrufumleitungen lassen sich durch festgelegte Tastenkombinationen einrichten:
-[Zur Infoseite](https://www.vodafone.de/hilfe/mobiles-telefonieren/telefonieren.html#wie-schalte-ich-eine-rufumleitung-am-handy-ein-und-aus)
+Anrufumleitungen lassen sich durch [festgelegte Tastenkombinationen](https://www.vodafone.de/infofaxe/320.pdf) einrichten.
 
-Wenn du den Ultrakurz-Tarif nutzt, belastet jede angefangene Minute, in der ein Gespräch umgeleitet wird, deine 100 Freiminuten. Sind diese verbraucht, kostet die Umleitung pro Minute 0,19 €.
+Wenn du den Ultrakurz-Tarif 2GB nutzt, belastet jede angefangene Minute, in der ein Gespräch umgeleitet wird, deine 100 Freiminuten. Sind diese verbraucht, kostet die Umleitung pro Minute 0,19 €. Du möchtest gern deinen Tarif wechseln? Trage dich in unsere [Wechselwunschliste](https://www.wetell.de/wechselwunsch/) ein.
 
 #### Wie kann ich Visual Voicemail nutzen? ####
 
@@ -250,9 +249,11 @@ Solange dein Smartphone es zulässt, kannst du klar auch mit uns deine Visual Vo
 #### Ich habe ein neues Handy – benötige ich nun eine andere SIM-Karte?  ####
 
 Nein, du benötigst keine neue SIM-Karte. Eventuell brauchst du aber eine andere SIM-Kartengröße. Das ist jedoch kein Problem und wenig Aufwand. Du hast zwei Optionen:
+
 1. Du kannst eine kleine Karte mit den mitgelieferten Rahmen vergrößern. Falls dir diese nicht mehr vorliegen, mach dich auf den Weg zu deinem Elektrodealer um die Ecke. Dort findest du einen passenden Adapter.
 2. Du kannst eine größere Karte einfach verkleinern, indem du sie an den vorgestanzten Stellen herauslöst.
-Wenn du eine eSIM hast, musst du diese am alten Gerät deaktivieren und am neuen aktivieren, wie das geht erklären wir dir in diesem [Artikel zur eSIM](https://www.wetell.de/service/esim/):
+
+Wenn du eine eSIM hast, musst du diese am alten Gerät entfernen und am Neuen aktivieren. Wichtig ist, dass du währenddessen eine aktive Internetverbindung z. B. über WLAN hast.
 
 #### Was ist RCS und wie kann ich diese Funktion bei WEtell nutzen? ####
 
@@ -315,10 +316,6 @@ Na klar.
 Du bist dann ganz einfach im LTE (4G) Netz damit unterwegs.
 Wenn dein Handy nicht 5G-fähig ist oder du dich an einem Ort befindest, wo 5G nicht verfügbar ist, passiert das ganz automatisch.
 Wenn du ein 5G-fähiges Handy hast und 5G nicht nutzen magst, kannst du in den Einstellungen auswählen, welcher Netzwerktyp genutzt werden soll.
-
-#### Warum bietet WEtell für die anderen Tarife kein 5G an? ####
-
-Bei unserem Tarifangebot sind wir daran gebunden, was uns Netzbetreiber und Mobilfunkpartner an Möglichkeiten anbieten. Und darunter gibt es momentan leider keine weiteren 5G Tarife. So wie der Mobilfunkmarkt sich entwickelt, gehen wir aber davon aus, dass über kurz oder lange auch weitere Tarife mit 5G verfügbar sein werden.
 
 ### Vertragsfragen und Änderungen ###
 
