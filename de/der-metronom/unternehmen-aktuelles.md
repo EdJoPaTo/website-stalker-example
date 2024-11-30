@@ -15,13 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[update 13:30 Uhr// gute Nachrichten: Bahnverkehr läuft langsam wieder an](https://www.der-metronom.de/aktuell/bahnstrecke-uelzen---hannover-wegen-eines-unfalls-bis-auf-weiteres-gesperrt/)
-
- Uelzen, Celle, Hannover - 28.11.2024
-
-update 13:30 Uhr:
-die Situation hat sich...
-
 [Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
  Uelzen - 27.11.2024
