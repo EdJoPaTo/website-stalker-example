@@ -35,8 +35,6 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
-[18.11.2024 - 30.11.2024 RE3/RB31: Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re3-rb31-ersatzverkehr-mit-bussen/)
-
 [01.12.2024 - 02.12.2024 RE3/RB31: Teilausfälle zwischen Lüneburg \<\> Uelzen und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re3-rb31-teilausfaelle-zwischen-lueneburg-uelzen-und-fahrzeitenaenderungen/)
 
 [04.12.2024 - 09.12.2024 RE3/RB31: diverse nächtliche Halt- und Teilausfälle](https://www.der-metronom.de/baustellen/re3-rb31-diverse-naechtliche-halt-und-teilausfaelle/)
