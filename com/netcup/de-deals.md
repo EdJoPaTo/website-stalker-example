@@ -5,12 +5,12 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-Black Coffee Week bei netcup
+Entdecke den netcup Adventskalender
 ----------
 
-Vom 25. bis 29. November erwarten dich täglich frische Deals aus verschiedenen Produktkategorien – verfügbar immer von 8 bis 20 Uhr. Die regulären Monatsaktionen sind ab Jänner wieder für dich da.
+Der netcup Adventskalender hält von 1. bis zum 24. Dezember jeden Tag einen neuen Deal für dich bereit. Nicht verpassen!
 
-[Mehr Infos \>](https://www.netcup.com/de/deals/black-friday)
+[Zum Kalender](https://www.netcup.com/de/deals/adventskalender)
 
 Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
