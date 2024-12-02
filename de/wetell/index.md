@@ -72,7 +72,7 @@ Grün machen statt grün waschen.
 
 100% Klimaschutz - Datenschutz - Fairness & Transparenz
 
-Dein neuer Mobilfunktarif
+Dein grüner Mobilfunktarif
 ----------
 
 * Verlässliches D-Netz [mehr dazu](https://www.wetell.de/tarife/mobilfunknetz/)

@@ -71,7 +71,7 @@ Ein Geschenk für alle, die es gemütlich lieben
 
 ---
 
-[alle Neuheiten](https://www.engelbert-strauss.de/geschenkideen/?itemorigin=startseite_weihnachten24&sort=newest)
+[alle Neuheiten](https://www.engelbert-strauss.de/geschenkideen-neuheiten/?itemorigin=startseite_weihnachten24&sort=newest)
 
  Verlängertes Umtauschrecht
 ---
