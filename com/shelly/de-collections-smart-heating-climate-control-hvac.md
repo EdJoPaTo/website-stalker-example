@@ -42,6 +42,16 @@
 
  Unvergleichlicher Komfort und atemberaubende Effizienz: Mit dem smarten Thermostatventil von Shelly kommst Du in den Genuss präziser Temperaturregelung. Das Ganze mit einem kleinen Gerät, das perfe...
 
+### [Shelly H&T Black](/de/products/shelly-h-t-black)  ###
+
+ Überwacht Temperatur und Feuchtigkeit in Deinem Zuhause, um Trockenheit oder Schimmel vorzubeugen.
+
+ Temperatur
+
+ Luftfeuchtigkeit
+
+ Color: Schwarz Weiß Schwarz
+
 ### [Shelly H&T Gen3 White](/de/products/shelly-h-t-gen3-matte-white)  ###
 
  Next-Gen WLAN-Temperatur- & Feuchtigkeitssensor. Entdecke die Kraft des erweiterten Speichers mit unserem Shelly-Chip, der über 8MB Speicher verfügt.
@@ -51,16 +61,6 @@
  Luftfeuchtigkeit
 
  Farben: Weiß Weiß Schwarz Ivory Mocha
-
-### [Shelly H&T White](/de/products/shelly-h-t-white)  ###
-
- Überwacht Temperatur und Feuchtigkeit in Deinem Zuhause, um Trockenheit oder Schimmel vorzubeugen.
-
- Temperatur
-
- Luftfeuchtigkeit
-
- Color: Weiß Weiß Schwarz
 
 ### [Shelly Plus Add-On](/de/products/shelly-plus-add-on)  ###
 
