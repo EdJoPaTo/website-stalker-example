@@ -71,7 +71,7 @@ Use these shared instances for development and test applications with low to med
 
 ×
 
- You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)
+ You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations . For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)
 
 High quality Cloud – unbeatable prices
 ----------
@@ -114,7 +114,7 @@ FSN-1 NBG-1 HEL-1 HIL ASH SIN
 
 []()
 
- You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)
+ You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations . For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)
 
  IPv4
 
@@ -801,7 +801,7 @@ Ubuntu, Debian, Fedora, and more – you have a wide variety of operating system
 
 ### TRAFFIC ###
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU and US locations and 1 TB in Singapore. For each additional TB, we charge € 1.19 in the EU and US, and € 8.81 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.19 in the EU and US, and € 8.81 in Singapore.
 
 ### APPS ###
 
