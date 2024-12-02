@@ -15,14 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Hannover Hbf: Sperrung aufgrund behördlicher Anordnung](https://www.der-metronom.de/aktuell/hannover-hbf-sperrung-aufgrund-behoerdlicher-anordnung/)
-
- Uelzen - 02.12.2024
-
-Liebe Fahrgäste,
-der Hauptbahnhof Hannover ist aufgrund einer behördlichen Anordnung vorübergehend komplett für den Zugverkehr gesperrt. Daher kommt es auf den metronom-Linien RE2 und RE3/RB31 zwischen Göttingen - Hannover - Uelzen (- Hamburg Hbf) zu Verspätungen und Teilausfällen.
-Informiert...
-
 [Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
  Uelzen - 27.11.2024
