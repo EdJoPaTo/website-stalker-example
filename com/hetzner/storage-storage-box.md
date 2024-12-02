@@ -9,107 +9,107 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
  BX11
 
- € 3.
+ starting from
 
- 81  max/mo.
+3 4 20 00  max/mo.
 
- € 0.0061  /hr
+0.0051 0.0064  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1333/category/storage/culture/en_GB/country/DE)  incl. 19 % VAT
+[Order](https://robot.hetzner.com/order/storage/product/1333/category/storage/culture/en_GB/country/OTHER)
 
  setup fee
 
  once
 
- € 0.00
+0.00 0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx11/)
 
  BX21
 
- € 12.
+ starting from
 
- 97  max/mo.
+10 13 90 00  max/mo.
 
- € 0.0208  /hr
+0.0175 0.0208  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1334/category/storage/culture/en_GB/country/DE)  incl. 19 % VAT
+[Order](https://robot.hetzner.com/order/storage/product/1334/category/storage/culture/en_GB/country/OTHER)
 
  setup fee
 
  once
 
- € 0.00
+0.00 0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx21/)
 
  BX31
 
- € 24.
+ starting from
 
- 75  max/mo.
+20 24 80 00  max/mo.
 
- € 0.0396  /hr
+0.0333 0.0385  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1335/category/storage/culture/en_GB/country/DE)  incl. 19 % VAT
+[Order](https://robot.hetzner.com/order/storage/product/1335/category/storage/culture/en_GB/country/OTHER)
 
  setup fee
 
  once
 
- € 0.00
+0.00 0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx31/)
 
  BX41
 
- € 48.
+ starting from
 
- 31  max/mo.
+40 46 60 00  max/mo.
 
- € 0.0775  /hr
+0.0651 0.0737  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1336/category/storage/culture/en_GB/country/DE)  incl. 19 % VAT
+[Order](https://robot.hetzner.com/order/storage/product/1336/category/storage/culture/en_GB/country/OTHER)
 
  setup fee
 
  once
 
- € 0.00
+0.00 0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx41/)
 
 [Compare Product Details](https://www.hetzner.com/storage/storage-box/storage/storage-box-mobile/)
 
-Features
+ Features
 
-|                                                                                                                                        Available storage                                                                                                                                        |                                          * 1 TB                                           |* 5 TB|* 10 TB|* 20 TB|
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------|-------|-------|
-|                                                                                                                                        Upgrade/Downgrade                                                                                                                                        |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                             Traffic                                                                                                                                             |                                        * Unlimited                                        |      |       |       |
-|                                                                                                                                      Free Internal Traffic                                                                                                                                      |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                      Concurrent connections                                                                                                                                     |                                           * 10                                            | * 10 | * 10  | * 10  |
-|                                  Sub-Accounts<br/><br/>[]()<br/><br/> With a sub-account, you can create another user and assign a directory for this user. When the user logs in, they will only be able to access the files that are saved in this directory.                                 |                                           * 100                                           |* 100 | * 100 | * 100 |
-|                               Snapshots<br/><br/>[]()<br/><br/> Using the snapshot function, you can create an image of your Storage Box and, if necessary, restore your Storage Box from this snapshot. Number of snapshots included in each Storage Box product.                              |                                           * 10                                            | * 20 | * 30  | * 40  |
-|                                                      Automated snapshots<br/><br/>[]()<br/><br/> With automated snapshots, you can define a specific time (for example, Tuesdays at 5 PM) for when snapshots will be automatically created.                                                     |                                           * 10                                            | * 20 | * 30  | * 40  |
-|                                                                                                                                               FTP                                                                                                                                               |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                               FTPS                                                                                                                                              |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                               SFTP                                                                                                                                              |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                               SCP                                                                                                                                               |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                            Samba/CIFS                                                                                                                                           |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                            BorgBackup                                                                                                                                           |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                              Restic                                                                                                                                             |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                              Rclone                                                                                                                                             |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                          rsync via SSH                                                                                                                                          |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                              HTTPS                                                                                                                                              |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                              WebDAV                                                                                                                                             |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                     Useable as network drive                                                                                                                                    |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                         Storage location                                                                                                                                        |                               * optional Germany or Finland                               |      |       |       |
-|                                                                                                                                        Free Email Support                                                                                                                                       |                                             *                                             |  *   |   *   |   *   |
-|                                                                                                                                     Possible payment methods                                                                                                                                    |* bank transfer, credit card, Paypal and SEPA direct debit for accounts from SEPA countries|      |       |       |
-|                                                                                                                                     Minimum Contract Period                                                                                                                                     |                                          * none                                           |      |       |       |
-|                                                                                                                                       Cancellation period                                                                                                                                       |                             * 30 days to the end of the month                             |      |       |       |
-| [Data Processing Agreement](https://docs.hetzner.com/general/general-terms-and-conditions/data-privacy-faq/#data-processing)<br/><br/>[]()<br/><br/> Data Processing Agreement (DPA) in accordance with Article 28 of the GDPR (General Data Protection Regulation, a European Union regulation)|                                        * optional                                         |      |       |       |
+|                                                                                                                                                          Available storage                                                                                                                                                          |                                          * 1 TB                                           |* 5 TB|* 10 TB|* 20 TB|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------|-------|-------|
+|                                                                                                                                                          Upgrade/Downgrade                                                                                                                                                          |                                             *                                             |      |       |       |
+|                                                                                                                                                               Traffic                                                                                                                                                               |                                        * Unlimited                                        |      |       |       |
+|                                                                                                                                                        Free Internal Traffic                                                                                                                                                        |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                        Concurrent connections                                                                                                                                                       |                                           * 10                                            | * 10 | * 10  | * 10  |
+|                                                    Sub-Accounts<br/><br/>[]()<br/><br/> With a sub-account, you can create another user and assign a directory for this user. When the user logs in, they will only be able to access the files that are saved in this directory.                                                   |                                           * 100                                           |* 100 | * 100 | * 100 |
+|                                                 Snapshots<br/><br/>[]()<br/><br/> Using the snapshot function, you can create an image of your Storage Box and, if necessary, restore your Storage Box from this snapshot. Number of snapshots included in each Storage Box product.                                                |                                           * 10                                            | * 20 | * 30  | * 40  |
+|                                                                        Automated snapshots<br/><br/>[]()<br/><br/> With automated snapshots, you can define a specific time (for example, Tuesdays at 5 PM) for when snapshots will be automatically created.                                                                       |                                           * 10                                            | * 20 | * 30  | * 40  |
+|                                                                                                                                                                 FTP                                                                                                                                                                 |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                                 FTPS                                                                                                                                                                |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                                 SFTP                                                                                                                                                                |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                                 SCP                                                                                                                                                                 |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                              Samba/CIFS                                                                                                                                                             |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                              BorgBackup                                                                                                                                                             |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                                Restic                                                                                                                                                               |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                                Rclone                                                                                                                                                               |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                            rsync via SSH                                                                                                                                                            |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                                HTTPS                                                                                                                                                                |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                                WebDAV                                                                                                                                                               |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                       Usable as network drive                                                                                                                                                       |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                           Storage location                                                                                                                                                          |                               * optional Germany or Finland                               |      |       |       |
+|                                                                                                                                                          Free Email Support                                                                                                                                                         |                                             *                                             |  *   |   *   |   *   |
+|                                                                                                                                                       Possible payment methods                                                                                                                                                      |* bank transfer, credit card, Paypal and SEPA direct debit for accounts from SEPA countries|      |       |       |
+|                                                                                                                                                       Minimum Contract Period                                                                                                                                                       |                                          * none                                           |      |       |       |
+|                                                                                                                                                       Minimum Contract Period                                                                                                                                                       |                                          * none                                           |      |       |       |
+| [Data Processing Agreement](https://www.hetzner.com/storage/storage-box/docs.hetzner.com/general/general-terms-and-conditions/data-privacy-faq/#data-processing)<br/><br/>[]()<br/><br/> Data Processing Agreement (DPA) in accordance with Article 28 of the GDPR (General Data Protection Regulation, a European Union regulation)|                                        * optional                                         |      |       |       |
 
 Features
 ----------

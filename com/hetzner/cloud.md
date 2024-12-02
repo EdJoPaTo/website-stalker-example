@@ -22,7 +22,7 @@ projects deserve.
 
  CX: Best price-performance ratio
 
- from € 4.51
+from 3.79 4.59
 
  See all plans
 
@@ -30,7 +30,7 @@ projects deserve.
 
  CPX: VPS based on AMD Epyc™
 
- from € 5.18
+from 4.35 5.09
 
  See all plans
 
@@ -38,7 +38,7 @@ projects deserve.
 
  CAX: Efficient Arm64 architecture
 
- from € 4.51
+from 3.79 4.59
 
  See all plans
 
@@ -46,7 +46,7 @@ projects deserve.
 
  CCX: Best for production workloads
 
- from € 14.86
+from 12.49 14.09
 
  See all plans
 
@@ -71,7 +71,7 @@ Use these shared instances for development and test applications with low to med
 
 ×
 
- You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations . For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge €1.00$1.20 in the EU and US, and €7.40$8.49 in Singapore.
 
 High quality Cloud – unbeatable prices
 ----------
@@ -96,13 +96,13 @@ Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 pr
 
  Location
 
- Germany  Finland  Germany  Finland  USA  Singapore  Germany  Finland  Germany  Finland  USA  Singapore
+ Germany  Finland  Germany  Finland  Singapore  USA  Germany  Finland  Germany  Finland  Singapore  USA
 
 FSN-1 NBG-1 HEL-1 HIL ASH SIN
 
  Primary IPv4 IPv6 only
 
- save € 0.60
+save 0.50 0.60
 
  VCPU
 
@@ -114,7 +114,7 @@ FSN-1 NBG-1 HEL-1 HIL ASH SIN
 
 []()
 
- You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations . For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore. (Prices excl. VAT)
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge €1.00$1.20 in the EU and US, and €7.40$8.49 in Singapore.
 
  IPv4
 
@@ -144,7 +144,7 @@ Monthly
 
  Traffic incl. []()
 
- 20 TB
+ TB  20 TB
 
  IPv4
 
@@ -152,9 +152,9 @@ Monthly
 
 Monthly
 
- € 0.0071  € 0.0061  € 0.0071  € 0.0061
+0.0060 0.0074 0.0052 0.0064 0.0060 0.0074 0.0052 0.0064
 
- € 4.51  € 3.92  € 4.51  € 3.92  max.
+3.79 4.59 3.29 3.99 3.79 4.59 3.29 3.99  max.
 
  Server
 
@@ -174,7 +174,7 @@ Monthly
 
  Traffic incl. []()
 
- 20 TB
+ TB  20 TB
 
  IPv4
 
@@ -182,9 +182,9 @@ Monthly
 
 Monthly
 
- € 0.0134  € 0.0124  € 0.0134  € 0.0124
+0.0113 0.0127 0.0105 0.0117 0.0113 0.0127 0.0105 0.0117
 
- € 8.09  € 7.50  € 8.09  € 7.50  max.
+6.80 7.59 6.3 6.99 6.80 7.59 6.3 6.99  max.
 
  Server
 
@@ -204,7 +204,7 @@ Monthly
 
  Traffic incl. []()
 
- 20 TB
+ TB  20 TB
 
  IPv4
 
@@ -212,9 +212,9 @@ Monthly
 
 Monthly
 
- € 0.0325  € 0.0315  € 0.0325  € 0.0315
+0.0273 0.0304 0.0265 0.0294 0.0273 0.0304 0.0265 0.0294
 
- € 19.52  € 18.92  € 19.52  € 18.92  max.
+16.40 18.59 15.9 17.99 16.40 18.59 15.9 17.99  max.
 
  Server
 
@@ -234,7 +234,7 @@ Monthly
 
  Traffic incl. []()
 
- 20 TB
+ TB  20 TB
 
  IPv4
 
@@ -242,9 +242,9 @@ Monthly
 
 Monthly
 
- € 0.0643  € 0.0633  € 0.0643  € 0.0633
+0.0540 0.0611 0.0532 0.0601 0.0540 0.0611 0.0532 0.0601
 
- € 38.56  € 37.96  € 38.56  € 37.96  max.
+32.40 36.09 31.9 35.49 32.40 36.09 31.9 35.49  max.
 
  Server
 
@@ -264,7 +264,7 @@ Monthly
 
  Traffic incl. []()
 
- 1TB  20 TB (US 1 TB)
+ 1 TB  1 TB  20 TB
 
  IPv4
 
@@ -272,9 +272,9 @@ Monthly
 
 Monthly
 
- € 0.0084  € 0.0074  € 0.0086  € 0.0076  € 0.0084  € 0.0074  € 0.0151  € 0.0141
+0.0071 0.0082 0.0063 0.0072 0.0080 0.0090 0.0072 0.008 0.0071 0.0082 0.0063 0.0072 0.0127 0.0146 0.0119 0.0136
 
- € 5.18  € 4.59  € 5.34  € 4.75  € 5.18  € 4.59  € 9.40  € 8.81  max.
+4.35 5.09 3.85 4.49 4.99 5.59 4.49 4.99 4.35 5.09 3.85 4.49 7.90 9.09 7.4 8.49  max.
 
  Server
 
@@ -294,7 +294,7 @@ Monthly
 
  Traffic incl. []()
 
- 2TB  20 TB (US 2 TB)
+ 2 TB  2 TB  20 TB
 
  IPv4
 
@@ -302,9 +302,9 @@ Monthly
 
 Monthly
 
- € 0.0143  € 0.0133  € 0.0173  € 0.0163  € 0.0143  € 0.0133  € 0.0278  € 0.0268
+0.0120 0.0138 0.0112 0.0128 0.0153 0.0171 0.0145 0.0161 0.0120 0.0138 0.0112 0.0128 0.0234 0.0266 0.0226 0.0256
 
- € 8.98  € 8.39  € 10.70  € 10.11  € 8.98  € 8.39  € 17.37  € 16.78  max.
+7.55 8.59 7.05 7.99 9.49 10.59 8.99 9.99 7.55 8.59 7.05 7.99 14.60 16.59 14.1 15.99  max.
 
  Server
 
@@ -324,7 +324,7 @@ Monthly
 
  Traffic incl. []()
 
- 3TB  20 TB (US 3 TB)
+ 3 TB  3 TB  20 TB
 
  IPv4
 
@@ -332,9 +332,9 @@ Monthly
 
 Monthly
 
- € 0.0261  € 0.0251  € 0.0306  € 0.0296  € 0.0261  € 0.0251  € 0.0482  € 0.0472
+0.0219 0.0250 0.0211 0.024 0.0265 0.0299 0.0257 0.0289 0.0219 0.0250 0.0211 0.024 0.0405 0.0459 0.0397 0.0449
 
- € 16.18  € 15.59  € 19.03  € 18.44  € 16.18  € 15.59  € 30.11  € 29.51  max.
+13.60 15.59 13.1 14.99 16.49 18.59 15.99 17.99 13.60 15.59 13.1 14.99 25.30 28.59 24.8 27.99  max.
 
  Server
 
@@ -354,7 +354,7 @@ Monthly
 
  Traffic incl. []()
 
- 4TB  20 TB (US 4 TB)
+ 4 TB  4 TB  20 TB
 
  IPv4
 
@@ -362,9 +362,9 @@ Monthly
 
 Monthly
 
- € 0.0496  € 0.0486  € 0.0572  € 0.0562  € 0.0496  € 0.0486  € 0.0822  € 0.0812
+0.0417 0.0464 0.0409 0.0454 0.0489 0.0547 0.0481 0.0537 0.0691 0.0787 0.0683 0.0777 0.0417 0.0464 0.0409 0.0454
 
- € 29.99  € 29.40  € 35.68  € 35.09  € 29.99  € 29.40  € 51.29  € 50.69  max.
+25.20 28.09 24.7 27.49 30.49 34.09 29.99 33.49 43.10 48.09 42.6 47.49 25.20 28.09 24.7 27.49  max.
 
  Server
 
@@ -384,7 +384,7 @@ Monthly
 
  Traffic incl. []()
 
- 5 TB  20 TB (US 5 TB)
+ 5 TB  5 TB  20 TB
 
  IPv4
 
@@ -392,9 +392,9 @@ Monthly
 
 Monthly
 
- € 0.1047  € 0.1037  € 0.1145  € 0.1135  € 0.1047  € 0.1037  € 0.1476  € 0.1466
+0.0880 0.0979 0.0872 0.0969 0.0970 0.1084 0.0962 0.1074 0.0880 0.0979 0.0872 0.0969 0.1240 0.1380 0.1232 0.137
 
- € 65.33  € 64.74  € 71.39  € 70.80  € 65.33  € 64.74  € 92.11  € 91.51  max.
+54.90 61.09 54.4 60.49 60.49 67.59 59.99 66.99 54.90 61.09 54.4 60.49 77.40 86.09 76.9 85.49  max.
 
  Server
 
@@ -414,7 +414,7 @@ Monthly
 
  Traffic incl. []()
 
- 20 TB
+ TB  20 TB
 
  IPv4
 
@@ -422,9 +422,9 @@ Monthly
 
 Monthly
 
- € 0.0070  € 0.0060  € 0.0070  € 0.0060
+0.0061 0.0074 0.0053 0.0064 0.0008 0.0010 0 0 0.0061 0.0074 0.0053 0.0064
 
- € 4.51  € 3.92  € 4.51  € 3.92  max.
+3.79 4.59 3.29 3.99 3.79 4.59 3.29 3.99  max.
 
  Server
 
@@ -444,7 +444,7 @@ Monthly
 
  Traffic incl. []()
 
- 20 TB
+ TB  20 TB
 
  IPv4
 
@@ -452,9 +452,9 @@ Monthly
 
 Monthly
 
- € 0.0120  € 0.0110  € 0.0120  € 0.0110
+0.0104 0.0122 0.0096 0.0112 0.0008 0.0010 0 0 0.0104 0.0122 0.0096 0.0112
 
- € 7.72  € 7.13  € 7.72  € 7.13  max.
+6.49 7.59 5.99 6.99 6.49 7.59 5.99 6.99  max.
 
  Server
 
@@ -474,7 +474,7 @@ Monthly
 
  Traffic incl. []()
 
- 20 TB
+ TB  20 TB
 
  IPv4
 
@@ -482,9 +482,9 @@ Monthly
 
 Monthly
 
- € 0.0240  € 0.0230  € 0.0240  € 0.0230
+0.0200 0.0226 0.0192 0.0216 0.0008 0.0010 0 0 0.0200 0.0226 0.0192 0.0216
 
- € 14.86  € 14.27  € 14.86  € 14.27  max.
+12.49 14.09 11.99 13.49 12.49 14.09 11.99 13.49  max.
 
  Server
 
@@ -504,7 +504,7 @@ Monthly
 
  Traffic incl. []()
 
- 20 TB
+ TB  20 TB
 
  IPv4
 
@@ -512,9 +512,9 @@ Monthly
 
 Monthly
 
- € 0.0470  € 0.0460  € 0.0470  € 0.0460
+0.0392 0.0443 0.0384 0.0433 0.0008 0.0010 0 0 0.0392 0.0443 0.0384 0.0433
 
- € 29.14  € 28.55  € 29.14  € 28.55  max.
+24.49 27.59 23.99 26.99 24.49 27.59 23.99 26.99  max.
 
  Server
 
@@ -534,7 +534,7 @@ Monthly
 
  Traffic incl. []()
 
- 1TB  20 TB (US 1 TB)
+ 1 TB  1 TB  20 TB
 
  IPv4
 
@@ -542,9 +542,9 @@ Monthly
 
 Monthly
 
- € 0.0238  € 0.0228  € 0.0249  € 0.0239  € 0.0238  € 0.0228  € 0.0411  € 0.0401
+0.0200 0.0226 0.0192 0.0216 0.0217 0.0243 0.0209 0.0233 0.0200 0.0226 0.0192 0.0216 0.0345 0.0386 0.0337 0.0376
 
- € 14.86  € 14.27  € 15.46  € 14.87  € 14.86  € 14.27  € 25.59  € 24.99  max.
+12.49 14.09 11.99 13.49 13.49 15.09 12.99 14.49 12.49 14.09 11.99 13.49 21.50 24.09 21 23.49  max.
 
  Server
 
@@ -564,7 +564,7 @@ Monthly
 
  Traffic incl. []()
 
- 2TB  20 TB (US 2 TB)
+ 2 TB  2 TB  20 TB
 
  IPv4
 
@@ -572,9 +572,9 @@ Monthly
 
 Monthly
 
- € 0.0466  € 0.0456  € 0.0496  € 0.0486  € 0.0466  € 0.0456  € 0.0760  € 0.0750
+0.0392 0.0435 0.0384 0.0425 0.0425 0.0475 0.0417 0.0465 0.0639 0.0715 0.0631 0.0705 0.0392 0.0435 0.0384 0.0425
 
- € 29.14  € 28.55  € 30.93  € 30.34  € 29.14  € 28.55  € 47.48  € 46.89  max.
+24.49 27.09 23.99 26.49 26.49 29.59 25.99 28.99 39.90 44.59 39.4 43.99 24.49 27.09 23.99 26.49  max.
 
  Server
 
@@ -594,7 +594,7 @@ Monthly
 
  Traffic incl. []()
 
- 3TB  30 TB (US 3 TB)
+ 3 TB  3 TB  30 TB
 
  IPv4
 
@@ -602,9 +602,9 @@ Monthly
 
 Monthly
 
- € 0.0925  € 0.0915  € 0.0954  € 0.0944  € 0.0925  € 0.0915  € 0.1428  € 0.1418
+0.0777 0.0867 0.0769 0.0857 0.0810 0.0900 0.0802 0.089 0.1200 0.1340 0.1192 0.133 0.0777 0.0867 0.0769 0.0857
 
- € 57.70  € 57.11  € 59.49  € 58.90  € 57.70  € 57.11  € 89.13  € 88.54  max.
+48.49 54.09 47.99 53.49 50.49 56.09 49.99 55.49 74.90 83.59 74.4 82.99 48.49 54.09 47.99 53.49  max.
 
  Server
 
@@ -624,7 +624,7 @@ Monthly
 
  Traffic incl. []()
 
- 4TB  40 TB (US 4 TB)
+ 4 TB  4 TB  40 TB
 
  IPv4
 
@@ -632,9 +632,9 @@ Monthly
 
 Monthly
 
- € 0.1840  € 0.1830  € 0.1908  € 0.1898  € 0.1840  € 0.1830  € 0.2623  € 0.2613
+0.1546 0.1725 0.1538 0.1715 0.1611 0.1789 0.1603 0.1779 0.2204 0.2454 0.2196 0.2444 0.1546 0.1725 0.1538 0.1715
 
- € 114.82  € 114.23  € 118.99  € 118.40  € 114.82  € 114.23  € 163.63  € 163.03  max.
+96.49 107.59 95.99 106.99 100.49 111.59 99.99 110.99 137.50 153.09 137 152.49 96.49 107.59 95.99 106.99  max.
 
  Server
 
@@ -654,7 +654,7 @@ Monthly
 
  Traffic incl. []()
 
- 6TB  50 TB (US 6 TB)
+ 6 TB  6 TB  50 TB
 
  IPv4
 
@@ -662,9 +662,9 @@ Monthly
 
 Monthly
 
- € 0.3671  € 0.3661  € 0.3662  € 0.3652  € 0.3671  € 0.3661  € 0.5617  € 0.5607
+0.3085 0.3431 0.3077 0.3421 0.3213 0.3568 0.3205 0.3558 0.3085 0.3431 0.3077 0.3421 0.4720 0.5242 0.4712 0.5232
 
- € 229.06  € 228.47  € 228.47  € 227.88  € 229.06  € 228.47  € 350.46  € 349.86  max.
+192.49 214.09 191.99 213.49 200.49 222.59 199.99 221.99 192.49 214.09 191.99 213.49 294.50 327.09 294 326.49  max.
 
  Server
 
@@ -684,7 +684,7 @@ Monthly
 
  Traffic incl. []()
 
- 8TB  60 TB (US 8 TB)
+ 8 TB  8 TB  60 TB
 
  IPv4
 
@@ -692,24 +692,22 @@ Monthly
 
 Monthly
 
- € 0.5501  € 0.5491  € 0.5722  € 0.5712  € 0.5501  € 0.5491  € 0.9201  € 0.9191
+0.4623 0.5138 0.4615 0.5128 0.4816 0.5347 0.4808 0.5337 0.4623 0.5138 0.4615 0.5128 0.7732 0.8592 0.7724 0.8582
 
- € 343.30  € 342.71  € 356.99  € 356.40  € 343.30  € 342.71  € 574.18  € 573.58  max.
+288.49 320.59 287.99 319.99 300.49 333.59 299.99 332.99 288.49 320.59 287.99 319.99 482.50 536.09 482 535.49  max.
 
 [Get started](https://console.hetzner.cloud/)
-
- incl. 19 % VAT
 
  Block Storage Volumes
 ----------
 
  With our flexible and scalable Volumes, you can add SSD-based storage as needed to each of your cloud servers. You can expand Volumes to up to 10TB in size and add up to 16 Volumes per cloud server, making them suitable for storage-heavy applications.
 
-### Volumes  ###
+###  Volumes  ###
 
-Expand your cloud instance with high-availability SSD block storage for € 0.0524  / GB per month.
+Expand your cloud instance with high-availability SSD block storage for €0.044$0.0484 / GBper month.
 
-/ month Billing on an hourly basis
+0.0440 0.0500 / month Billing on an hourly basis
 
 [Get started](https://console.hetzner.cloud/)
 
@@ -753,7 +751,7 @@ FEATURES
 
 Load Balancers let you scale your applications easily by automatically distributing traffic across your infrastructure. Handle common use-cases like TLS termination or create an internet-facing entry point to route traffic into your Hetzner Cloud Networks.
 
-### Primary IPs ###
+### Primäre IPs ###
 
 Assign Primary IPs to your server to establish a connection to the internet. Or create a private-network-only cloud server by not adding any Primary IPs at all. You can change the selected network option at any time.
 
@@ -769,7 +767,7 @@ Our stateful Firewalls make it easy to secure your infrastructure at no addition
 
 Volumes offer highly available and reliable SSD storage for your cloud servers. You can expand each Volume to up to 10 TB at any time and you can connect them to your Hetzner cloud servers.
 
-€ 0.052 / GB per month
+0.0440 0.0500  / GB per Month
 
 ### PERFORMANCE ###
 
@@ -783,13 +781,13 @@ There is a wide variety of features at your fingertips to help you manage your c
 
 With our Snapshot feature, you can make manual backups of your servers. You can use our Snapshots to restore your server to a saved image, use saved images to create new cloud servers, or transfer images during a project.
 
-€ 0.0131/GB per month
+0.0110 0.0130  / GB per Month
 
 ### BACKUPS ###
 
 Backups are copies of your server that we make automatically to keep your data safe. You can store up to 7 of them.
 
-20% of instance price
+ 20% of instance price
 
 ### FLOATING IPS ###
 
@@ -801,7 +799,9 @@ Ubuntu, Debian, Fedora, and more – you have a wide variety of operating system
 
 ### TRAFFIC ###
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.19 in the EU and US, and € 8.81 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge1$1.20 in the EU and US, and 7.4$8.49 in Singapore.
+
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge1$1.20 in the EU and US, and 7.4$8.49 in Singapore.
 
 ### APPS ###
 
@@ -822,7 +822,7 @@ GDPR compliancy for your Cloud. You can create a Data Processing Agreement (DPA)
 ALL FEATURES ALSO AVAILABLE VIA REST API
 ----------
 
-All of the Hetzner Cloud features are also available via a [REST API](https://docs.hetzner.cloud/) and a [CLI tool](https://github.com/hetznercloud/cli) for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50. For more information, click [here](https://docs.hetzner.com/cloud/api/faq#do-you-sponsor-efforts-to-integrate-hetzner-cloud-into-open-source-libs).
+All of the Hetzner Cloud features are also available via a [REST API](https://docs.hetzner.cloud/) and a [CLI tool](https://github.com/hetznercloud/cli) for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to €50.00$50.00 . For more information, click [here](https://docs.hetzner.com/cloud/api/faq#do-you-sponsor-efforts-to-integrate-hetzner-cloud-into-open-source-libs).
 
 Curl
 

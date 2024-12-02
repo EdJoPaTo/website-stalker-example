@@ -6,7 +6,7 @@
 
 Collaborate with others and share and secure all your documents, images, and more – all in one place.
 
-* [Go to the deals](https://www.hetzner.com/storage/storage-share/#pricing)
+* [Go to the deals](https://www.hetzner.com/storage/storage-share/dev/tasks/DevTasks-GenerateStaticPageTask#pricing)
 
 ### Simple ###
 
@@ -29,18 +29,16 @@ Create user groups, define individual quotas for single users and share files pr
 Storage Share
 ----------
 
-Powered by Nextcloud. Easily store and share files.
+ Powered by Nextcloud. Easily store and share files.
 No minimum contract period. Monthly cancellation period.
 
-[#### NX11 #### € 5.11per month € 0.0082 /hr 1 TB Storage 3 Subdomain ∞ Users 50 Simultaneous Connections Location](https://konsoleh.hetzner.com/)
+[NX11 starting from 4 5 29 00 max/mo. 0.0069 0.0080 /hr Storage 1 TB Subdomain 3 Users ∞ Simultaneous Connections 50 FSN-1](https://konsoleh.hetzner.com/)
 
-[#### NX21 #### € 16.89per month € 0.0270 /hr 5 TB Storage 7 Subdomain ∞ Users 100 Simultaneous Connections Location](https://konsoleh.hetzner.com/)
+[NX21 starting from 14 16 19 00 max/mo. 0.0227 0.0256 /hr Storage 5 TB Subdomain 7 Users ∞ Simultaneous Connections 100 FSN-1](https://konsoleh.hetzner.com/)
 
-[#### NX31 #### € 32.59per month € 0.0522 /hr 10 TB Storage 10 Subdomain ∞ Users 200 Simultaneous Connections Location](https://konsoleh.hetzner.com/)
+[NX31 starting from 27 31 39 00 max/mo. 0.0439 0.0497 /hr Storage 10 TB Subdomain 10 Users ∞ Simultaneous Connections 200 FSN-1](https://konsoleh.hetzner.com/)
 
 [Get started](https://konsoleh.hetzner.com/)
-
- incl. 19 % VAT
 
 Features
 ----------
@@ -81,7 +79,7 @@ Our team of technicians takes care of the administration of your Storage Shares 
 
 Your Storage Share will be hosted in our own data center in Falkenstein, Germany. We guarantee that its operation complies with EU's data protection regulations (GDPR). You can also generate a data processing agreement (DPA) that complies with article 28 of the GDPR on konsoleH.
 
-[Go to the deals](https://www.hetzner.com/storage/storage-share/#pricing)
+[Go to the deals](https://www.hetzner.com/storage/storage-share/dev/tasks/DevTasks-GenerateStaticPageTask#pricing)
 
 Frequently asked questions
 ----------
