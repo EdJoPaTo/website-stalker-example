@@ -101,41 +101,35 @@ Dein neuer Mobilfunktarif
 
 Wieviel Datenvolumen brauchst Du im Monat?
 
-2GB 20GB 30GB 40GB
+3GB 20GB 30GB 40GB
 
 [](https://www.wetell.de/#rate-info-ultrakurz)
 
 ##### Ultrakurz #####
 
-2 GB
-LTE
+3 GB
+5G
 
-* 100 Freiminuten
-* 100 Frei-SMS
-* 19 Cent pro Minute
-* 9 Cent pro SMS
+* Allnet Flat (Telefonie/SMS)
 
 [15 € /Monat](https://shop.wetell.de/private/ultrakurz/)
 
 * [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Ultrakurz.pdf)
 * [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Ultrakurz.pdf)
 
-### Ultrakurz ###
+### Mittelwelle ###
 
 **Angebot!?**
 Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
 
 **Mobilfunkinfos**
-– 100 Freiminuten, anschließend 19ct pro Minute in alle dt. Netze, ausgenommen Sonderrufnummern.
-– 100 Frei-SMS, anschließend 9 cent pro SMS in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-– 2 GB Inklusiv-Datenvolumen mit max. 50,0 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
-– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Ultrakurz.pdf).
-
-**Unsere Empfehlung nur für „Wenig-Telefonierer\*innen“**
-Telefonierst du wirklich so wenig, dass dir 100 Freiminuten reichen? Einige unserer Kund\*innen machen die Erfahrung, dass sich der Tarif „Mittelwelle“ sehr schnell lohnt, sobald man über die 100 Freiminuten kommt. Am besten kannst du dein Telefonier-Verhalten einschätzen und dich in der „Mittelwelle“ ggf. selbst vor ungewollten Kosten schützen.
+– Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+– SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+– 3 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Mittelwelle.pdf).
 
 **Tarifwechsel**
-– Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service.
+– Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
 
 Lieblingstarif
 
