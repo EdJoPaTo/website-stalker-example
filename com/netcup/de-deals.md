@@ -8,7 +8,7 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 Entdecke den netcup Adventskalender
 ----------
 
-Der netcup Adventskalender hält von 1. bis zum 24. Dezember jeden Tag einen neuen Deal für dich bereit. Nicht verpassen!
+Der netcup Adventskalender hält vom 1. bis zum 24. Dezember jeden Tag einen neuen Deal für dich bereit. Nicht verpassen!
 
 [Zum Kalender](https://www.netcup.com/de/deals/adventskalender)
 

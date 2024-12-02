@@ -117,7 +117,7 @@ Wieviel Datenvolumen brauchst Du im Monat?
 * [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Ultrakurz.pdf)
 * [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Ultrakurz.pdf)
 
-### Mittelwelle ###
+### Ultrakurz ###
 
 **Angebot!?**
 Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
@@ -145,7 +145,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 * [Preisliste](https://wetell.de/downloads/preislisten/Preisliste_Mikrofon.pdf)
 * [Produktinformationsblatt](https://wetell.de/downloads/produktinformation/PIB_Mikrofon.pdf)
 
-### Superfunk ###
+### Mikrofon ###
 
 **Angebot!?**
 Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/?faq=warum-sind-die-tarifangebote-bis-zum-ende-des-monat-zeitlich-begrenzt).
