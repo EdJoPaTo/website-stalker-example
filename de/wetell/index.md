@@ -108,7 +108,7 @@ Wieviel Datenvolumen brauchst Du im Monat?
 ##### Ultrakurz #####
 
 3 GB
-5G
+Daten 5G
 
 * Allnet Flat (Telefonie/SMS)
 
@@ -126,7 +126,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 – Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 – SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
 – 3 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
-– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Mittelwelle.pdf).
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Ultrakurz.pdf).
 
 **Tarifwechsel**
 – Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
@@ -136,7 +136,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 ##### Mikrofon #####
 
 7 GB
-5G
+Daten 5G
 
 * Allnet Flat (Telefonie/SMS)
 
@@ -154,7 +154,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 – Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 – SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
 – 7 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
-– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Superfunk.pdf).
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Mikrofon.pdf).
 
 **Tarifwechsel**
 – Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
@@ -166,7 +166,7 @@ Lieblingstarif
 ##### Mittelwelle #####
 
 20 GB
-5G
+Daten 5G
 
 * Allnet Flat (Telefonie/SMS)
 
@@ -194,7 +194,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 ##### Megafon #####
 
 40 GB
-5G
+Daten 5G
 
 * Allnet Flat (Telefonie/SMS)
 
@@ -222,7 +222,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 ##### Überschall #####
 
 100 GB
-5G
+Daten 5G
 
 * Allnet Flat (Telefonie/SMS)
 
@@ -240,7 +240,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 – Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 – SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
 – 100 GB Inklusiv-Datenvolumen mit max. 150 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
-– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Megafon.pdf).
+– Mehr Details findest du in der [Preisliste des Tarifs](https://wetell.de/downloads/preislisten/Preisliste_Ueberschall.pdf).
 
 **Tarifwechsel**
 – Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.

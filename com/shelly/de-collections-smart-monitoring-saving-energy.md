@@ -351,11 +351,11 @@ The smallest power meter in the world for precise power monitoring. Automate you
 
  Leistungsüberwachung
 
-### [Shelly Temp. Sensor DS18B20 3m cable](/de/products/shelly-temp-sensor-ds18b20-3m-cable)  ###
+### [Shelly Temp. Sensor DS18B20 1m cable](/de/products/shelly-temp-sensor-ds18b20-1m-cable)  ###
 
  Kann mit dem Shelly Plus Add-on verwendet werden, um die Temperatur präzise zu messen.
 
- Variante: 3 meters  1 meterVariante ausverkauft oder nicht verfügbar  3 metersVariante ausverkauft oder nicht verfügbar
+ Variante: 1 meter  1 meterVariante ausverkauft oder nicht verfügbar  3 metersVariante ausverkauft oder nicht verfügbar
 
 ### [Shelly Wall Display + H&T White](/de/products/shelly-wall-display-white)  ###
 
