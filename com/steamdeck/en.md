@@ -28,19 +28,6 @@ Your games, everywhere
 
 [See the full video, lit entirely with Steam Decks](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 
- Available **now** in limited quantities
-
-###  Available **now** in limited quantities  ###
-
-$679.00
-==========
-
-### 1TB OLED White ###
-
-[Buy now!](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
-
-The same specs as the 1TB OLED model, plus an exclusive Limited Edition White carrying case, startup movie, and virtual keyboard theme
-
 #### Find great gaming experiences on Deck ####
 
 [Learn more about Deck Verified](https://www.steamdeck.com/en/verified)
