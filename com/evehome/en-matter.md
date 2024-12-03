@@ -26,6 +26,62 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
+[Eve Thermo](/en/eve-thermo)
+
+ Smart Radiator Valve
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
+
+Thread
+
+Matter
+
+Heating & Air Quality
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Thermo](/en/eve-thermo)
+
+ Smart Radiator Valve
+
+* Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
+* Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
+* Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
+* [Visit product page](/en/eve-thermo)
+
 [Eve Door & Window]()
 
  Wireless Contact Sensor
@@ -544,6 +600,62 @@ Matter is a new smart home protocol developed jointly by Amazon, Apple, Google, 
 Any HomeKit accessories you own will continue to work as usual. You’ll be able to use them in the Home and Eve apps without any restrictions – Matter-enabled devices will simply join them on an equal footing with HomeKit accessories. If you’re already using Thread-enabled Eve devices, [free firmware updates](/en/upgrade-to-matter) will be made available over time to seamlessly upgrade them to Matter. You’ll then be able to use those devices not only with HomeKit, but also with other platforms, including Amazon Alexa, Google Home, or Samsung SmartThings.
 
 ###  Good to know ###
+
+[Eve Thermo](/en/eve-thermo)
+
+ Smart Radiator Valve
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
+
+Thread
+
+Matter
+
+Heating & Air Quality
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Thermo](/en/eve-thermo)
+
+ Smart Radiator Valve
+
+* Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
+* Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
+* Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
+* [Visit product page](/en/eve-thermo)
 
 [Eve Door & Window]()
 
