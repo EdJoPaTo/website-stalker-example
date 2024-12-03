@@ -3,6 +3,19 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner Cloud platform.
 
+December 2024
+----------
+
+Dec 03
+
+### Object Storage is now generally available ###
+
+With the end of the beta phase, our S3-compatible Object Storage is now available to all our customers for flexible data storage.
+
+* **Buckets**You can save, view, and download data via public URLs, and choose between the Bucket visibilities "private" and "public".
+* **Versatile application possibilities**Use the Buckets for backups, file storage, hosting, infrastructure and development projects and much more.
+* **S3-compatible API**Manage your data via our S3-compatible API. To create credentials, go to "Security".
+
 September 2024
 ----------
 
@@ -87,13 +100,13 @@ Up until now, the key combination **"ctrl / ⌘ + K"** was used to open the filt
 
 Feb 13
 
-### Duplicate Firewalls ###
-
-The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
-
 ### Default settings for server creation ###
 
 The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
+
+### Duplicate Firewalls ###
+
+The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
 
 December 2023
 ----------
