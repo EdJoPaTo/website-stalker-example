@@ -19,15 +19,6 @@ With the end of the beta phase, our S3-compatible Object Storage is now availabl
 September 2024
 ----------
 
-Sep 24
-
-### Join the beta test for Object Storage  ###
-
-We’re thrilled to announce the upcoming launch of Object Storage and the beginning of its beta phase!
-
-* **How to participate**Click [here](https://console.hetzner.cloud/(modal:object-storage-beta)) to request access. If you meet our criteria and we still have spots available, we'll activate the feature for your account.
-* **About the beta test**Object Storage will be free of charge during the beta phase. After the beta, you can either continue using the feature or delete your Buckets and their data. The service will be charged from this point on. See [our Docs](https://docs.hetzner.com/storage/object-storage/overview#pricing) to learn more about the billing model. At the beginning of beta, Object Storage is only available in Falkenstein. We can't guarantee flawless performance at this stage. If you run into issues, please let us know via the [forum](https://forum.hetzner.com/index.php?board/120-object-storage/).
-
 Sep 04
 
 ### New entry point in your projects: The dashboard is live 🚀 ###
@@ -100,13 +91,13 @@ Up until now, the key combination **"ctrl / ⌘ + K"** was used to open the filt
 
 Feb 13
 
-### Default settings for server creation ###
-
-The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
-
 ### Duplicate Firewalls ###
 
 The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
+
+### Default settings for server creation ###
+
+The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
 
 December 2023
 ----------

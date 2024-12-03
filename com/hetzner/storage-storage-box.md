@@ -15,7 +15,7 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
 0.0051 0.0064  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1333/category/storage/culture/en_GB/country/OTHER)
+[Order](https://robot.hetzner.com/order/storage/product/1333/category/storage/culture/en_GB/country/OTHER/currency/EUR)
 
  setup fee
 
@@ -33,7 +33,7 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
 0.0175 0.0208  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1334/category/storage/culture/en_GB/country/OTHER)
+[Order](https://robot.hetzner.com/order/storage/product/1334/category/storage/culture/en_GB/country/OTHER/currency/EUR)
 
  setup fee
 
@@ -51,7 +51,7 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
 0.0333 0.0385  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1335/category/storage/culture/en_GB/country/OTHER)
+[Order](https://robot.hetzner.com/order/storage/product/1335/category/storage/culture/en_GB/country/OTHER/currency/EUR)
 
  setup fee
 
@@ -69,7 +69,7 @@ THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
 
 0.0651 0.0737  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1336/category/storage/culture/en_GB/country/OTHER)
+[Order](https://robot.hetzner.com/order/storage/product/1336/category/storage/culture/en_GB/country/OTHER/currency/EUR)
 
  setup fee
 
