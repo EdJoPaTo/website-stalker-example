@@ -214,8 +214,6 @@ $649.00
 
 Available now. [View on Steam](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
-Other options available while supplies last. [Learn more.](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
-
 Get your hands on Deck!
 ----------
 
