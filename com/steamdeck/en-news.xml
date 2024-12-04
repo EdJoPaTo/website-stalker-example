@@ -6,7 +6,89 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>Steam Deck Beta Client Update: November 25th</title>
+			<title>Steam Deck Client Update: December 3rd</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/4629233756625965762</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Dec 3, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Stable channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed audio desync that occurs for some game recording videos when played in Steam or Chrome browser.
+						<br>
+					</li>
+					<li>
+						Fixed game notes being reset sometimes when enabling/disabling spell checking.
+						<br>
+					</li>
+					<li>
+						Fixed hardware video acceleration setting showing as enabled when GPU accelerated rendering in webviews is disabled (both must be enabled for hardware video acceleration to work).
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added settings button to allow resetting the game recording folder to the default path.
+						<br>
+					</li>
+					<li>
+						Fixed issue causing some users to encounter failures while exporting video clips.
+						<br>
+					</li>
+					<li>
+						Fixed bug which applied background recording retention interval to manual recordings.
+						<br>
+					</li>
+					<li>
+						Fixed issue preventing Linux users with Nvidia cards from using their GPU to accelerate video encoding.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed store and community features being disabled when streaming to a Mac.
+						<br>
+					</li>
+					<li>
+						Fixed issue preventing Linux users with Nvidia cards from using their GPU to accelerate video encoding.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629233756625965762" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
+			<title>Steam Deck Beta Client Update: December 3rd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4629233123492681016</link>
 			<content:encoded><![CDATA[<html>
 	<head>
@@ -232,48 +314,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629232489537214876" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: November 18th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/6955341523712003267</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 18, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a regression in audio capture for Remote Play Together
-						<br>
-					</li>
-					<li>
-						Fixed issue causing some games to slow down after long play sessions.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/6955341523712003267" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
