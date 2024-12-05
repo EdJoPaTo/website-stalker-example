@@ -15,15 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Hotline nicht erreichbar: ab 17 Uhr notwendige Wartungsarbeiten](https://www.der-metronom.de/aktuell/hotline-nicht-erreichbar-ab-17-uhr-notwendige-wartungsarbeiten/)
-
- Uelzen - 05.12.2024
-
-Liebe Fahrgäste,
-aufgrund notwendiger Wartungsarbeiten steht die Telefonanlage für unsere Kundenservice-Hotline am Donnerstag ab 17 Uhr nicht zur Verfügung. Ab Freitag steht die Telefonanlage wieder wie gewohnt zur Verfügung.
-Bei Fragen nutze bitte alternativ unser ↗ Online-Kundencenter.
-Wir...
-
 [Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
 
  Uelzen - 27.11.2024
