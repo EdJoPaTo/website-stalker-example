@@ -176,7 +176,7 @@ Close
 * British English
 * International English
 * Belgian
-* Czech/Slovak
+* Czech/Slovak  (Out of stock)
 * Danish
 * French
 * French Canadian
