@@ -6,8 +6,6 @@
 
 Collaborate with others and share and secure all your documents, images, and more – all in one place.
 
-* [Go to the deals](https://www.hetzner.com/storage/storage-share/dev/tasks/DevTasks-GenerateStaticPageTask#pricing)
-
 ### Simple ###
 
 Get started right away, no matter where you are. Set up your Storage Share with just a few clicks and no technical know-how. Save, edit and share your documents, pictures and music easily via any PC, tablet or smartphone. We'll take care of the administration.
