@@ -77,7 +77,7 @@ Our team of technicians takes care of the administration of your Storage Shares 
 
 Your Storage Share will be hosted in our own data center in Falkenstein, Germany. We guarantee that its operation complies with EU's data protection regulations (GDPR). You can also generate a data processing agreement (DPA) that complies with article 28 of the GDPR on konsoleH.
 
-[Go to the deals](https://www.hetzner.com/storage/storage-share/dev/tasks/DevTasks-GenerateStaticPageTask#pricing)
+[Go to the deals](https://www.hetzner.com/storage/storage-share#pricing)
 
 Frequently asked questions
 ----------
