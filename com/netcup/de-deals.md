@@ -14,6 +14,57 @@ Der netcup Adventskalender hält vom 1. bis zum 24. Dezember jeden Tag einen neu
 
 Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
+netcup Deals - FAQ
+----------
+
+### Welche Angebote bietet netcup bei Root-Server, VPS, Domains und Webhosting an?  ###
+
+Wir bieten dir zu besonderen Sale-Events aber auch zwischendurch auf monatlicher Basis eine attraktive Auswahl von unseren Produktkategorien, wie Root-Server, VPS, Domains und Webhosting zu besonders günstigen Konditionen an. Die stark rabattierten Artikel sind dabei nur für kurze Zeit als Deal verfügbar.
+
+### Wie lange sind netcup Deals verfügbar? ###
+
+Oft sind unsere Deals nur für 24 Stunden aktiv, bei manchen Aktionen können die Deals über eine Laufzeit von 24 Stunden hinaus aktiv sind. Es lohnt sich also schnell zu sein, um von den netcup Deals profitieren zu können.
+
+### Wie kann ich netcup Deals kaufen? ###
+
+Wähle hierzu einfach deinen gewünschten Deal-Artikel auf der Aktionsseite aus und führe den Bestellvorgang wie gewohnt aus. Wir wünschen dir viel Spaß beim Shoppen unserer Tech-Produkte!
+
+### Wie erfahre ich über aktuelle und zukünftige Deals bei netcup? ###
+
+Um immer als Erster von unseren Deals zu erfahren, lohnt es sich unseren Social-Media-Kanälen zu folgen oder unseren Newsletter zu abonnieren. Hier findest du immer Informationen, wenn ein Sale-Event startet und neue netcup Deals verfügbar sind. Zusätzlich erfährst du hier über viele weitere Aktionen, Goodies und Gewinnspiele.
+
+### Wo finde ich die Sonderangebote von netcup? ###
+
+Auf dieser Seite findest du alle Informationen zu unseren Sonderangeboten bzw. Deals, die wir in regelmäßigen Abständen anbieten.
+
+### Können Gutscheine auf netcup Deals angewendet werden? ###
+
+Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, Groupware, SSL-Zertifikate oder Merchandise. Eine Kombination aus mehreren Gutscheinen ist nicht möglich. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
+
+### Wo finde ich günstige Domains und Webhostings bei netcup?  ###
+
+Neben den regulär, attraktiven Preisen für Domains und Webhostings, findest du die besonders günstigen Angebote auf unserer netcup Deals Seite, die über aktuelle Aktionen informiert.
+
+### Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode? ###
+
+Nein, der Preis der Aktion ist dauerhaft gültig. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen nach unseren AGB.
+
+### Was soll ich tun, wenn mein Gutscheincode bei netcup nicht funktioniert? ###
+
+In diesem Fall würden wir dich bitten, dich an unseren Support unter folgender E-Mail-Adresse zu melden. Unser [Support](https://helpcenter.netcup.com/de/support)hilft dir bei diesem Anliegen gerne weiter.
+
+### Sind Deals durch limitierte Stückzahlen begrenzt? ###
+
+Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann jedoch vorkommen, dass gewisse Angebote aus diversen Gründen nur bis zu einem gewissen Limit bestellt werden können. In diesem Fall weisen wir jedoch auf der Aktionsseite darauf hin.
+
+### Gibt es ein Bestelllimit pro Person? ###
+
+Grundsätzlich gibt es kein Bestelllimit. Für einige sehr beliebte Produkte gibt aber eine zeitliche Wartefrist nach der Bestellung, bis das Produkt erneut bestellt werden kann. Damit stellen wir sicher, dass alle Kund:innen eine faire Chance auf ein Produkt erhalten.
+
+### Ist die Bestpreis- und Zufriedenheitsgarantie auf die Aktionen anwendbar? ###
+
+Nein, die Bestpreisgarantie ist nicht auf die Aktionen anwendbar. Die Zufriedenheitsgarantie ist allerdings für Aktionen zu Webhosting- und Root-Server-Produkten gültig.
+
 netcup Angebote zu VPS und Root-Server
 ----------
 
@@ -65,54 +116,3 @@ Trage hierzu deinen Gutscheincode beim Bestellprozess ein, der Gutscheinwert wir
 Wenn du noch auf der Suche nach einem netcup Gutschein bist, dann hätten wir mit unserer Newsletter-Registrierung einen kleinen Tipp für dich.
 
 Alle neuen Newsletter-Abonnenten erhalten als kleines Dankeschön einen netcup Gutschein auf ihre Bestellung.
-
-netcup Deals - FAQ
-----------
-
-### Welche Angebote bietet netcup bei Root-Server, VPS, Domains und Webhosting an?  ###
-
-Wir bieten dir zu besonderen Sale-Events aber auch zwischendurch auf monatlicher Basis eine attraktive Auswahl von unseren Produktkategorien, wie Root-Server, VPS, Domains und Webhosting zu besonders günstigen Konditionen an. Die stark rabattierten Artikel sind dabei nur für kurze Zeit als Deal verfügbar.
-
-### Wie lange sind netcup Deals verfügbar? ###
-
-Oft sind unsere Deals nur für 24 Stunden aktiv, bei manchen Aktionen können die Deals über eine Laufzeit von 24 Stunden hinaus aktiv sind. Es lohnt sich also schnell zu sein, um von den netcup Deals profitieren zu können.
-
-### Wie kann ich netcup Deals kaufen? ###
-
-Wähle hierzu einfach deinen gewünschten Deal-Artikel auf der Aktionsseite aus und führe den Bestellvorgang wie gewohnt aus. Wir wünschen dir viel Spaß beim Shoppen unserer Tech-Produkte!
-
-### Wie erfahre ich über aktuelle und zukünftige Deals bei netcup? ###
-
-Um immer als Erster von unseren Deals zu erfahren, lohnt es sich unseren Social-Media-Kanälen zu folgen oder unseren Newsletter zu abonnieren. Hier findest du immer Informationen, wenn ein Sale-Event startet und neue netcup Deals verfügbar sind. Zusätzlich erfährst du hier über viele weitere Aktionen, Goodies und Gewinnspiele.
-
-### Wo finde ich die Sonderangebote von netcup? ###
-
-Auf dieser Seite findest du alle Informationen zu unseren Sonderangeboten bzw. Deals, die wir in regelmäßigen Abständen anbieten.
-
-### Können Gutscheine auf netcup Deals angewendet werden? ###
-
-Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, Groupware, SSL-Zertifikate oder Merchandise. Eine Kombination aus mehreren Gutscheinen ist nicht möglich. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
-
-### Wo finde ich günstige Domains und Webhostings bei netcup?  ###
-
-Neben den regulär, attraktiven Preisen für Domains und Webhostings, findest du die besonders günstigen Angebote auf unserer netcup Deals Seite, die über aktuelle Aktionen informiert.
-
-### Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode? ###
-
-Nein, der Preis der Aktion ist dauerhaft gültig. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen nach unseren AGB.
-
-### Was soll ich tun, wenn mein Gutscheincode bei netcup nicht funktioniert? ###
-
-In diesem Fall würden wir dich bitten, dich an unseren Support unter folgender E-Mail-Adresse zu melden. Unser [Support](https://helpcenter.netcup.com/de/support)hilft dir bei diesem Anliegen gerne weiter.
-
-### Sind Deals durch limitierte Stückzahlen begrenzt? ###
-
-Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann jedoch vorkommen, dass gewisse Angebote aus diversen Gründen nur bis zu einem gewissen Limit bestellt werden können. In diesem Fall weisen wir jedoch auf der Aktionsseite darauf hin.
-
-### Gibt es ein Bestelllimit pro Person? ###
-
-Grundsätzlich gibt es kein Bestelllimit. Für einige sehr beliebte Produkte gibt aber eine zeitliche Wartefrist nach der Bestellung, bis das Produkt erneut bestellt werden kann. Damit stellen wir sicher, dass alle Kund:innen eine faire Chance auf ein Produkt erhalten.
-
-### Ist die Bestpreis- und Zufriedenheitsgarantie auf die Aktionen anwendbar? ###
-
-Nein, die Bestpreisgarantie ist nicht auf die Aktionen anwendbar. Die Zufriedenheitsgarantie ist allerdings für Aktionen zu Webhosting- und Root-Server-Produkten gültig.
