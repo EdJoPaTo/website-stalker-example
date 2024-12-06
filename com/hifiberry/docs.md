@@ -301,6 +301,12 @@ adc, configuration, dac, multichannel
 
 updated 2024-11-20
 
+[Creating filters and crossovers using CamillaDSP](https://www.hifiberry.com/docs/software/creating-filters-and-crossovers-using-camilladsp/)
+
+other
+
+updated 2024-12-06
+
 [Projects](https://www.hifiberry.com/docs/projects/)
 
 [Tivoli Squeezebox Radio](https://www.hifiberry.com/docs/projects/tivoli-squeezebox-radio/)

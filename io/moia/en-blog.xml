@@ -6,6 +6,22 @@
 		<description>The MOIA blog you will learn everything that moves the MOIA community and get exciting insights into the world of MOIA.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Autonomous ridepooling in Hamburg: MOIA starts tests with users</title>
+			<link>https://www.moia.io/en/blog/autonomous-ridepooling-in-hamburg-moia-starts-tests-with-users</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<span>
+				06.12.2024
+			</span>
+			Autonomous ridepooling in Hamburg can now be experienced. This was kicked off by an appointment with Dr. Anjes Tjarks, Hamburg's Senator for Transport and Mobility Transition, who joined media representatives on a test drive with the ID. Buzz AD to get an impression of the current developments.
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Autonomous Driving Level 4: A Glimpse into the Future of Public Transportation</title>
 			<link>https://www.moia.io/en/blog/autonomous-driving-level-4</link>
 			<content:encoded><![CDATA[<html>
@@ -129,22 +145,6 @@
 				10.02.2024
 			</span>
 			With the help of various analysis tools, we evaluate how ridepooling services such as MOIA work in the mobility system of a new region and contribute to sustainable mobility. But how does such a process work? We will show you using our project in the Styrian Central Region in Austria.
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>How can the mobility transition succeed in rural areas?</title>
-			<link>https://www.moia.io/en/blog/moia-talks-jochen-eckart</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<span>
-				15.12.2023
-			</span>
-			Prof Dr Jochen Eckart is a transport ecologist and, as a scientist, was involved in the ARD #besserBahnfahren campaign, which examined the importance of public transport in rural and urban areas, among other things. In this interview, he reveals the results of the survey that surprised him, the role he attributes to ridepooling services in the mobility transition and which mobility measure he currently considers to be the most urgent in order to protect the environment and climate.
 		</div>
 	</body>
 </html>]]></content:encoded>
