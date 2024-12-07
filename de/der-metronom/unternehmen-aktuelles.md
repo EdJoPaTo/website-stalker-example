@@ -15,19 +15,21 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE2 Uelzen-Hannover-Göttingen: metronom fährt wieder "Regelweg"](https://www.der-metronom.de/aktuell/re2-uelzen-hannover-goettingen-metronom-faehrt-wieder-regelweg/)
+
+ Hannover, Göttingen - 07.12.2024
+
+Liebe Fahrgäste,
+nun ging es schneller, als angekündigt und erwartet und der Start ist holperig: das neue Stellwerk der DB in Kreiensen hat seinen Betrieb aufgenommen.
+Das heißt für die Strecke RE 2 des metronom zwischen Uelzen - Hannover - Göttingen:
+die Züge fahren wieder den "Regelweg" mit...
+
 [Stabilität hat Vorfahrt - aktueller Fahrplan gilt weiterhin](https://www.der-metronom.de/aktuell/stabilitaet-hat-vorfahrt/)
 
  Uelzen - 05.12.2024
 
 Für die meisten Fahrgäste ist es eine Selbstverständlichkeit – im Nahverkehr aber eine große Anstrengung: alle Züge, die im Fahrplan stehen, sollen auch zuverlässig fahren.
 Grund dafür ist vor allem, dass es zu wenig Lokführer gibt, um dem gestiegenen Bedürfnis nach Mobilität gerecht werden zu...
-
-[Errichtung eines elektronischen Stellwerks in Kreiensen: Erneute Verlängerung der Einschränkungen und Ersatzverkehr auf der Linie RE2](https://www.der-metronom.de/aktuell/errichtung-eines-elektronischen-stellwerks-in-kreiensen-erneute-verlaengerung/)
-
- Uelzen - 27.11.2024
-
-Die Baumaßnahme zur Errichtung eines elektronischen Stellwerks in Kreiensen musste aufgrund von Unregelmäßigkeiten bei den Bauarbeiten durch die DB InfraGO AG erneut verlängert werden.
-Details zum Ersatzverkehr mit Bussen zwischen Hannover und Elze können aus dem Baufahrplan entnommen werden:...
 
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
