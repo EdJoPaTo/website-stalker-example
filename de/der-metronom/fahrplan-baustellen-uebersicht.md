@@ -29,7 +29,7 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
-[04.12.2024 - 08.12.2024 RE2/RE3: nächtliche Teilausfälle zwischen Uelzen \<\> Celle/Hannover Hbf](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle-hannover-hbf/)
+ Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
