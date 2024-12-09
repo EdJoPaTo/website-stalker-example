@@ -203,7 +203,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
 
@@ -778,7 +778,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
 
