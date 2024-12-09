@@ -14,6 +14,26 @@ Für Freudestrahlen zum Fest
 
 [zu den Geschenken](https://www.engelbert-strauss.de/geschenkideen/?itemorigin=startseite_weihnachten24&sort=newest)
 
+ Gutscheine
+verschenken
+----------
+
+---
+
+###
+
+Der Klassiker unter den Geschenken
+
+ ###
+
+---
+
+[Gutscheine bestellen](https://www.engelbert-strauss.de/Gutscheine)
+
+[Gutschein per Post](https://www.engelbert-strauss.de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_weihnachten24)
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
  Super
 Mario
 ----------
@@ -56,21 +76,6 @@ mit tollen Gratis-Produkten!
 
  gratis
 ---
-
- Neuheiten
-----------
-
----
-
-###
-
-Ein Geschenk für alle, die es gemütlich lieben
-
- ###
-
----
-
-[alle Neuheiten](https://www.engelbert-strauss.de/geschenkideen-neuheiten/?itemorigin=startseite_weihnachten24&sort=newest)
 
  Verlängertes Umtauschrecht
 ---
