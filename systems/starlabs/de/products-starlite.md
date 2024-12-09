@@ -48,7 +48,7 @@ No Operating System
 
 elementary OS 8 Pantheon
 
-KUbuntu LTS 22.04.3
+KUbuntu LTS 24.04.1
 
 Linux Mint 22 Cinnamon
 
@@ -66,7 +66,7 @@ MX Linux 23.2 XFCE
 
 MX Linux 23.2 KDE
 
-Ubuntu LTS 24.04 MATE
+Ubuntu LTS 22.04.4 MATE
 
 Xubuntu 22.04.4 LTS
 
