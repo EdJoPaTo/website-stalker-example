@@ -799,9 +799,7 @@ Ubuntu, Debian, Fedora, and more – you have a wide variety of operating system
 
 ### TRAFFIC ###
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge1$1.20 in the EU and US, and 7.4$8.49 in Singapore.
-
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge1$1.20 in the EU and US, and 7.4$8.49 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge 1$1.20 in the EU and US, and 7.4$8.49 in Singapore.
 
 ### APPS ###
 
