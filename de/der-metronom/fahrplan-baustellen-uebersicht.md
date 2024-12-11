@@ -41,11 +41,15 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [27.12.2024 - 31.12.2024 RE3/RB31: nächtliche Haltausfälle Ashausen, Radbruch und Bardowick - Teilausfälle zwischen Uelzen \<\> Lüneburg - Teilausfälle Hamburg Hbf \<\> Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-radbruch-und-bardowick-teilausfaelle-zwischen-uelzen-lueneburg-teilausfaelle-hamburg-hbf-hamburg-harburg/)
 
+[02.01.2025 - 06.01.2025 RE3/RB31: nächtliche Haltausfälle in Meckelfeld, Ashausen, Radbruch und Bardowick sowie Teilausfälle zwischen Lüneburg und Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-in-meckelfeld-ashausen-radbruch-und-bardowick-sowie-teilausfaelle-zwischen-lueneburg-und-uelzen/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [18.12.2024 - 23.12.2024 RE4/RB41: nächtliche Haltausfälle Hittfeld, Klecken, Buchholz (N.) sowie Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie geänderte Fahrzeiten](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-haltausfaelle-hittfeld-klecken-buchholz-n-sowie-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-geaenderte-fahrzeiten/)
 
-[30.12.2024 - 31.12.2024 RE4/RB41 nächtliche Teilausfälle Hamburg Hbf \<\> Hamburg-Harburg sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-teilausfaelle-hamburg-hbf-hamburg-harburg-sowie-fahrzeitenaenderungen/)
+[30.12.2024 - 31.12.2024 RE4/RB41: nächtliche Teilausfälle Hamburg Hbf \<\> Hamburg-Harburg sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-teilausfaelle-hamburg-hbf-hamburg-harburg-sowie-fahrzeitenaenderungen/)
+
+[03.01.2025 - 04.01.2025 RB41: nächtliche Haltausfälle in Buchholz (N.), Hittfeld und Klecken](https://www.der-metronom.de/baustellen/rb41-naechtliche-haltausfaelle-in-buchholz-n-hittfeld-und-klecken/)
 
 **Barrierefrei ohne PDF-Datei**
 Wir arbeiten gerade daran, die Fahrplantabellen nicht mehr als PDF-Dateien anzubieten. Unser Ziel ist es, die Tabellen in einem Format bereitzustellen, das für alle einfach zugänglich ist. So kann jeder, egal mit welchem Gerät, die Informationen leicht abrufen. Das macht es einfacher für Menschen mit mobilen Geräten und für Menschen mit besonderen Bedürfnissen. Damit wollen wir die Informationen moderner und für alle nutzerfreundlich machen.
