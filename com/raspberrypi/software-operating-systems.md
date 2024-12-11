@@ -75,6 +75,7 @@ Compatible with:
 * [4B](/products/raspberry-pi-4-model-b/)
 * [400](/products/raspberry-pi-400/)
 * [5](/products/raspberry-pi-5/)
+* [500](/products/raspberry-pi-500/)
 * [CM3](/products/compute-module-io-board-v3/)
 * [CM3+](/products/compute-module-3-plus/)
 * [CM4](/products/compute-module-4/)

@@ -86,6 +86,10 @@
 								"url": "/products/raspberry-pi-5/"
 							},
 							{
+								"title": "500",
+								"url": "/products/raspberry-pi-500/"
+							},
+							{
 								"title": "CM3",
 								"url": "/products/compute-module-io-board-v3/"
 							},
