@@ -219,6 +219,6 @@ What's in the Box
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Dispatch in 1 - 2 working days
+Dispatch in 3 - 4 working days
 
 [Configure](/products/byte)

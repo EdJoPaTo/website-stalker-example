@@ -29,15 +29,23 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
- Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[18.12.2024 - 19.12.2024 RE2/RE3: nächtliche Teilausfälle zwischen Uelzen \<\> Celle](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-uelzen-celle/)
+
+[03.01.2025 - 04.01.2025 RE2/RE3: nächtliche Teilausfälle Uelzen \<\> Celle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-uelzen-celle-und-fahrzeitenaenderungen/)
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
- Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[15.12.2024 RB31: nächtlicher Haltausfall in Radbruch und Bardowick für den 81602](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-radbruch-und-bardowick-fuer-den-81602/)
+
+[16.12.2024 - 23.12.2024 RE3/RB31: nächtlicher Haltausfall in Ashausen sowie zwei Zugausfälle zwischen Uelzen und Lüneburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall-in-ashausen-sowie-zwei-zugausfaelle-zwischen-uelzen-und-lueneburg/)
+
+[27.12.2024 - 31.12.2024 RE3/RB31: nächtliche Haltausfälle Ashausen, Radbruch und Bardowick - Teilausfälle zwischen Uelzen \<\> Lüneburg - Teilausfälle Hamburg Hbf \<\> Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-radbruch-und-bardowick-teilausfaelle-zwischen-uelzen-lueneburg-teilausfaelle-hamburg-hbf-hamburg-harburg/)
 
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
- Für diese Strecke sind zur Zeit keine Baustellenmeldungen vorhanden.
+[18.12.2024 - 23.12.2024 RE4/RB41: nächtliche Haltausfälle Hittfeld, Klecken, Buchholz (N.) sowie Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie geänderte Fahrzeiten](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-haltausfaelle-hittfeld-klecken-buchholz-n-sowie-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-geaenderte-fahrzeiten/)
+
+[30.12.2024 - 31.12.2024 RE4/RB41 nächtliche Teilausfälle Hamburg Hbf \<\> Hamburg-Harburg sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-teilausfaelle-hamburg-hbf-hamburg-harburg-sowie-fahrzeitenaenderungen/)
 
 **Barrierefrei ohne PDF-Datei**
 Wir arbeiten gerade daran, die Fahrplantabellen nicht mehr als PDF-Dateien anzubieten. Unser Ziel ist es, die Tabellen in einem Format bereitzustellen, das für alle einfach zugänglich ist. So kann jeder, egal mit welchem Gerät, die Informationen leicht abrufen. Das macht es einfacher für Menschen mit mobilen Geräten und für Menschen mit besonderen Bedürfnissen. Damit wollen wir die Informationen moderner und für alle nutzerfreundlich machen.
