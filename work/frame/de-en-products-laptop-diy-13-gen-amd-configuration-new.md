@@ -68,7 +68,7 @@ If you are a business customer, need more than five laptops per order, or have o
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-   Ships within 1-2 weeks.
+   Ships within 5 business days.
 
 **Memory**
 

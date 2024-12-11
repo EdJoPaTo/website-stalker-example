@@ -6,6 +6,102 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: December 11th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/603016324809011690</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Dec 11, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed desktop Steam Clients exiting while running a game if a Steam Deck is resumed while running a non-Steam app.
+						<br>
+					</li>
+					<li>
+						Fixed several issues where navigation could get stuck behind menus or dialogs.
+						<br>
+					</li>
+					<li>
+						Fixed the WiFi auto connect setting being forgotten after a system restart.
+						<br>
+					</li>
+					<li>
+						Fixed a case where the WiFi connection dialog would not show a password prompt for networks that only support WPA3.
+						<br>
+					</li>
+					<li>
+						Updated layout of downloads page for the active item.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved error messages for limited accounts sharing messages in chat or via the share menu.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Remote Play
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed Remote Play Together session not fully starting for some games running on macOS host systems.
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Reduced overhead/latency of controller input in Big Picture Mode and Virtual Menus
+						<br>
+					</li>
+					<li>
+						Slightly reduced steady-state CPU usage of Steam Input overall
+						<br>
+					</li>
+					<li>
+						Fixed some Linux-specific crashes
+						<br>
+					</li>
+					<li>
+						Fixed not being able to use "Export Layout->Save New Layout" when using a "Sharable Personal Layout".
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/603016324809011690" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Client Update: December 3rd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/4629233756625965762</link>
 			<content:encoded><![CDATA[<html>
@@ -258,62 +354,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629232489537263985" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: November 19th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4629232489537214876</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 19, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed a regression in audio capture for Remote Play Together
-						<br>
-					</li>
-					<li>
-						Fixed issue causing some games to slow down after long play sessions.
-						<br>
-					</li>
-					<li>
-						Fixed some causes of rare crashes in Steam Client.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Desktop Mode
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed successive game recording exports after the first one sometimes exporting the wrong clip.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629232489537214876" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
