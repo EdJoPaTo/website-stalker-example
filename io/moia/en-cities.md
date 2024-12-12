@@ -43,8 +43,6 @@ Thursday to Sunday
 
 Thu 5:00 am – Mon 1:00 am
 
-Rides to and from [funded areas](https://help.moia.io/hc/en-us/articles/360000988738-Service-area-Hamburg) (blue) are discounted.
-
 Your benefits in Hamburg
 ----------
 
