@@ -44,6 +44,18 @@
 						Fixed libarchive CVE-2024-20696
 					</li>
 				</ul>
+				<br>
+				This update has been re-released with the following additional fixes:
+				<br>
+				<ul>
+					<li>
+						Fixed high single core CPU usage for users with large libraries during Steam startup.
+						<br>
+					</li>
+					<li>
+						Fixed a regression w/ reading the Wireless HORIPAD For Steam's grip buttons.
+					</li>
+				</ul>
 			</div>
 			<div>
 				<div>
