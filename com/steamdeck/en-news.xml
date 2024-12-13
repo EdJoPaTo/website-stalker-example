@@ -6,6 +6,59 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>SteamOS 3.6.21 Beta: Update of the Year</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/501685433118285521</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Dec 12, 2024
+			</h5>
+			<div>
+				Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<ul>
+					<li>
+						Fixed a rendering issue with characters' eyes in Indiana Jones and the Great Circle
+						<br>
+					</li>
+					<li>
+						Added support for the 8BitDo Ultimate 2C Wireless Controller
+						<br>
+					</li>
+					<li>
+						Fixed Linux kernel CVE-2024-50089
+						<br>
+					</li>
+					<li>
+						Fixed mpg123 CVE-2024-10573
+						<br>
+					</li>
+					<li>
+						Fixed libarchive CVE-2024-20696
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/501685433118285521" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: December 11th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/603016324809011690</link>
 			<content:encoded><![CDATA[<html>
@@ -283,77 +336,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629232886909851177" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: November 20th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4629232489537263985</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 20, 2024
-			</h5>
-			<div>
-				<p>
-					We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				</p>
-				<p>
-				</p>
-				<p>
-					<b>
-						General
-					</b>
-				</p>
-				<ul>
-					<li>
-						<p>
-							Fixed audio desync that occurs for some game recording videos when played in Steam or Chrome browser
-						</p>
-					</li>
-				</ul>
-				<p>
-				</p>
-				<p>
-					<b>
-						Desktop Mode
-					</b>
-				</p>
-				<ul>
-					<li>
-						<p>
-							Added settings button to allow resetting the game recording folder to the default path
-						</p>
-					</li>
-				</ul>
-				<p>
-				</p>
-				<p>
-					<b>
-						Remote Play
-					</b>
-				</p>
-				<ul>
-					<li>
-						<p>
-							Fixed store and community features being disabled when streaming to a Mac
-						</p>
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629232489537263985" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
