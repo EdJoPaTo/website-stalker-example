@@ -15,15 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE2 Uelzen-Hannover-Göttingen: metronom fährt wieder "Regelweg"](https://www.der-metronom.de/aktuell/re2-uelzen-hannover-goettingen-metronom-faehrt-wieder-regelweg/)
-
- Hannover, Göttingen - 07.12.2024
-
-Liebe Fahrgäste,
-nun ging es schneller, als angekündigt und erwartet und der Start ist holperig: das neue Stellwerk der DB in Kreiensen hat seinen Betrieb aufgenommen.
-Das heißt für die Strecke RE 2 des metronom zwischen Uelzen - Hannover - Göttingen:
-die Züge fahren wieder den "Regelweg" mit...
-
 [Stabilität hat Vorfahrt - aktueller Fahrplan gilt weiterhin](https://www.der-metronom.de/aktuell/stabilitaet-hat-vorfahrt/)
 
  Uelzen - 05.12.2024
