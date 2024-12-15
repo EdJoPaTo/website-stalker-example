@@ -35,8 +35,6 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
-[15.12.2024 RB31: nächtlicher Haltausfall in Radbruch und Bardowick für den 81602](https://www.der-metronom.de/baustellen/rb31-naechtlicher-haltausfall-in-radbruch-und-bardowick-fuer-den-81602/)
-
 [16.12.2024 - 23.12.2024 RE3/RB31: nächtlicher Haltausfall in Ashausen sowie zwei Zugausfälle zwischen Uelzen und Lüneburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtlicher-haltausfall-in-ashausen-sowie-zwei-zugausfaelle-zwischen-uelzen-und-lueneburg/)
 
 [27.12.2024 - 31.12.2024 RE3/RB31: nächtliche Haltausfälle Ashausen, Radbruch und Bardowick - Teilausfälle zwischen Uelzen \<\> Lüneburg - Teilausfälle Hamburg Hbf \<\> Hamburg-Harburg](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-ashausen-radbruch-und-bardowick-teilausfaelle-zwischen-uelzen-lueneburg-teilausfaelle-hamburg-hbf-hamburg-harburg/)
