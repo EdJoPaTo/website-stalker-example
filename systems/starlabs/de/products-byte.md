@@ -196,6 +196,6 @@ USB-C 3.1 (5m)  Charge Cable
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Dispatch in 3 - 4 working days
+Dispatch in 7 - 8 working days
 
  Add to Basket

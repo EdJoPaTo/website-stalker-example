@@ -238,6 +238,6 @@ Your way.
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Dispatch in 3 - 4 working days
+Dispatch in 7 - 8 working days
 
 [Configure](/products/byte)
