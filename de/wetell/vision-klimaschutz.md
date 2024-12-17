@@ -45,7 +45,7 @@ Förderung der Energiewende
 **1. Investition in Erneuerbare Energie**
 
 * Wir fördern den Ausbau der ***Erneuerbaren Energien*** in Deutschland.
-* Alle Gewinne aus diesen Investitionen werden für weitere Klimaschutzmaßnehmen eingesetzt und potenzieren sich damit mit der Zeit.
+* Alle Gewinne aus diesen Investitionen werden für weitere Klimaschutzmaßnahmen eingesetzt und potenzieren sich damit mit der Zeit.
 
 **2. Investition in klimawirksame Start-ups**
 
