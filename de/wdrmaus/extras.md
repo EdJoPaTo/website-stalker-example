@@ -2,6 +2,7 @@
 
 [Endlich sind Sommerferien!](https://www.wdrmaus.de/extras/mausthemen/sommer/index_2.php5)
 
+* [Bauwerke, die verbinden](https://www.wdrmaus.de/extras/mausthemen/bauwerke/bruecken.php5)
 * [Wissenwertes zum "Drahtesel"](https://www.wdrmaus.de/extras/mausthemen/fahrrad/index.php5)
 * [Große Maschinen und Gebäude](https://www.wdrmaus.de/extras/mausthemen/baustelle/index.php5)
 * [Über Tiere zu Land, Wasser oder in der Luft](https://www.wdrmaus.de/extras/mausthemen/tiere/index.php5)
@@ -16,8 +17,8 @@
 * [Retten, löschen, bergen, schützen](https://www.wdrmaus.de/extras/mausthemen/feuerwehr/index.php5)
 * [Was isst du gerne?](https://www.wdrmaus.de/extras/mausthemen/lebensmittel/index-php5.php5)
 * [Besondere Bauwerke](https://www.wdrmaus.de/extras/mausthemen/bauwerke/index.php5)
-* [Die Maus im Weltall](https://www.wdrmaus.de/extras/mausthemen/weltall/index.php5)
 
+* [Die Maus im Weltall](https://www.wdrmaus.de/extras/mausthemen/weltall/index.php5)
 * [Was macht ein Bauer auf dem Bauernhof?](https://www.wdrmaus.de/extras/mausthemen/bauernhof/index.php5)
 * [Kranich Grusini fliegt in den Süden](https://www.wdrmaus.de/extras/mausthemen/kranich/index.php5)
 * [Entdecke die Welt der Musik](https://www.wdrmaus.de/extras/mausthemen/musik/index.php5)
