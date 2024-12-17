@@ -6,6 +6,56 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: December 16th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/501685815345195235</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Dec 16, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved library asset loading times for large libraries
+					</li>
+				</ul>
+				<br>
+				<b>
+					Game Recording
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed a bug where the video track of a game recording could be empty.
+					</li>
+				</ul>
+				<br>
+				<br>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/501685815345195235" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>SteamOS 3.6.21 Beta: Update of the Year</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/501685433118285521</link>
 			<content:encoded><![CDATA[<html>
@@ -278,76 +328,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629233123492681016" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: November 25th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4629232886909851177</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 25, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed game notes being reset sometimes when enabling/disabling spell checking.
-						<br>
-					</li>
-					<li>
-						Fixed hardware video acceleration setting showing as enabled when GPU accelerated rendering in webviews is disabled (both must be enabled for hardware video acceleration to work).
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording (Desktop Changes)
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed issue preventing audio capture by the steam overlay in some games on Windows
-						<br>
-					</li>
-					<li>
-						Fixed issue preventing Linux users with Nvidia cards from using their GPU to accelerate video encoding
-						<br>
-					</li>
-					<li>
-						Fixed issue causing some users to encounter failures while exporting video clips
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play (Desktop Changes)
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed issue preventing Linux users with Nvidia cards from using their GPU to accelerate video encoding
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629232886909851177" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
