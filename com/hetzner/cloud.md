@@ -751,7 +751,7 @@ FEATURES
 
 Load Balancers let you scale your applications easily by automatically distributing traffic across your infrastructure. Handle common use-cases like TLS termination or create an internet-facing entry point to route traffic into your Hetzner Cloud Networks.
 
-### Primäre IPs ###
+### Primary IPs ###
 
 Assign Primary IPs to your server to establish a connection to the internet. Or create a private-network-only cloud server by not adding any Primary IPs at all. You can change the selected network option at any time.
 
