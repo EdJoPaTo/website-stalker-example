@@ -22,7 +22,7 @@ High Speed Up to 18W output and 480Mbps data transfer rate, this Micro USB Charg
 
 UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery
 
-### [UGREEN 2 Pack USB to USB C Cables](https://eu.ugreen.com/products/ugreen-2-pack-usb-to-usb-c-cables) ###
+### [UGREEN 2 Pack USB to USB C Cables（0.5m）](https://eu.ugreen.com/products/ugreen-2-pack-usb-to-usb-c-cables) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
 
