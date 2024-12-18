@@ -15,13 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Stabilität hat Vorfahrt - aktueller Fahrplan gilt weiterhin](https://www.der-metronom.de/aktuell/stabilitaet-hat-vorfahrt/)
-
- Uelzen - 05.12.2024
-
-Für die meisten Fahrgäste ist es eine Selbstverständlichkeit – im Nahverkehr aber eine große Anstrengung: alle Züge, die im Fahrplan stehen, sollen auch zuverlässig fahren.
-Grund dafür ist vor allem, dass es zu wenig Lokführer gibt, um dem gestiegenen Bedürfnis nach Mobilität gerecht werden zu...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
  Uelzen - 13.09.2024
