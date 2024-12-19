@@ -39,6 +39,8 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [02.01.2025 - 06.01.2025 RE3/RB31: nächtliche Haltausfälle in Meckelfeld, Ashausen, Radbruch und Bardowick sowie Teilausfälle zwischen Lüneburg und Uelzen](https://www.der-metronom.de/baustellen/re3-rb31-naechtliche-haltausfaelle-in-meckelfeld-ashausen-radbruch-und-bardowick-sowie-teilausfaelle-zwischen-lueneburg-und-uelzen/)
 
+[12.01.2025 - 20.01.2025 RE3/RB31: verschiedene nächtliche Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re3-rb31-2/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [18.12.2024 - 23.12.2024 RE4/RB41: nächtliche Haltausfälle Hittfeld, Klecken, Buchholz (N.) sowie Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie geänderte Fahrzeiten](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-haltausfaelle-hittfeld-klecken-buchholz-n-sowie-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-geaenderte-fahrzeiten/)
