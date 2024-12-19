@@ -47,5 +47,7 @@ RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [03.01.2025 - 04.01.2025 RB41: nächtliche Haltausfälle in Buchholz (N.), Hittfeld und Klecken](https://www.der-metronom.de/baustellen/rb41-naechtliche-haltausfaelle-in-buchholz-n-hittfeld-und-klecken/)
 
+[12.01.2025 - 13.01.2025 RB41: nächtliche Teilausfälle 81942 und 81902 für die Halte Buchholz, Hittfeld und Klecken](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-81942-und-81902-fuer-die-halte-buchholz-hittfeld-und-klecken/)
+
 **Barrierefrei ohne PDF-Datei**
 Wir arbeiten gerade daran, die Fahrplantabellen nicht mehr als PDF-Dateien anzubieten. Unser Ziel ist es, die Tabellen in einem Format bereitzustellen, das für alle einfach zugänglich ist. So kann jeder, egal mit welchem Gerät, die Informationen leicht abrufen. Das macht es einfacher für Menschen mit mobilen Geräten und für Menschen mit besonderen Bedürfnissen. Damit wollen wir die Informationen moderner und für alle nutzerfreundlich machen.
