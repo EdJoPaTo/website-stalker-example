@@ -43,6 +43,12 @@ Thursday to Sunday
 
 Thu 5:00 am – Mon 1:00 am
 
+Ride with us from Christmas into the New Year
+
+We've adjusted our service hours in Hamburg during the holiday season.
+
+[Learn more](https://www.moia.io/en/cities#christmas)
+
 Your benefits in Hamburg
 ----------
 
@@ -96,6 +102,12 @@ Sunday and holidays
 
 10:00 am – 10:00 pm
 
+Ride with us from Christmas into the New Year
+
+We've adjusted our service hours in Hanover during the holiday season.
+
+[More info](https://www.moia.io/en/cities#christmas)
+
 Your benefits in Hanover
 ----------
 
@@ -115,6 +127,48 @@ Your benefits in Hanover
 1. Download the app, register, enter your start, destination and the number of passengers.
 2. Choose from six offers with guaranteed fares and estimated arrival times and pay via app.
 3. Your MOIA picks you up at a stop near you - the app guides you there. Get on board, sit back and arrive relaxed!
+
+Ride with us from Christmas into the New Year
+----------
+
+**Hamburg**
+
+**23.12.**
+Mon 5:00 a.m. – Tue 2:00 a.m.
+
+**24.12.**
+Tue 9:00 a.m. – Wed 2:00 a.m.
+
+**25.12.**
+Wed 9:00 a.m. – Thu 2:00 a.m.
+
+**26.12.**
+Thu 9:00 a.m. – Fri 2:00 a.m.
+
+**27.12. - 30.12.**
+Fri 5:00 a.m. – Mon 1:00 a.m.
+
+**31.12. - 02.01.**
+Tue 5:00 a.m. – Thu 1:00 a.m.
+
+(continuous service)
+
+**Hanover**
+
+**24.12.**
+Tue 10:00 a.m. – Tue 10:00 p.m.
+
+**25.12.**
+Wed 10:00 a.m. – Wed 10:00 p.m.
+
+**26.12.**
+Thu 10:00 a.m. – Thu 10:00 p.m.
+
+**31.12.**
+Tue 7:00 a.m. – Wed 4:00 a.m.
+
+**01.01.**
+Wed 10:00 a.m. – Wed 10:00 p.m.
 
 Download the app. And book your first ride.
 ----------
