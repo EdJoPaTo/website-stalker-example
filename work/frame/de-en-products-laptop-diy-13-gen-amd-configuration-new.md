@@ -180,7 +180,7 @@ Close
 * Danish
 * French
 * French Canadian
-* Hungarian  (Out of stock)
+* Hungarian
 * Italian
 * Japanese
 * Korean
