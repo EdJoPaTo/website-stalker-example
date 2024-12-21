@@ -6,6 +6,74 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: December 20th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/597387624656741729</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Dec 20, 2024
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Discovery Queue: Smoothed out user experience and brought up to date with recent changes to web version.
+						<br>
+					</li>
+					<li>
+						Fixed brightness slider (HDR) in Quick Access Menu
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Added Nintendo Switch controller configurations to the options shown by default for the Wireless HORIPAD for Steam so that gyro configurations are more easily found
+						<br>
+					</li>
+					<li>
+						Fixed an issue where previewing a configuration, then editing your original configuration could corrupt it
+						<br>
+					</li>
+					<li>
+						Made the "Choose a Configuration" page remember which tab you were on when returning from previewing a configuration
+						<br>
+					</li>
+					<li>
+						Made the "Choose a Configuration" page remember the setting to show/hide configurations from other controller types
+						<br>
+					</li>
+					<li>
+						Fixed a crash in Drill Core when Steam Input is enabled with a gamepad config
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/597387624656741729" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: December 16th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/501685815345195235</link>
 			<content:encoded><![CDATA[<html>
@@ -290,44 +358,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629233756625965762" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: November 27th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4629233123492681016</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Nov 27, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed bug which applied background recording retention interval to manual recordings
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629233123492681016" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
