@@ -648,6 +648,7 @@
 * [Leuchtturm](https://www.wdrmaus.de/filme/sachgeschichten/leuchtturm.php5)
 * [Lichtbild](https://www.wdrmaus.de/filme/sachgeschichten/lichtbild.php5)
 * [Lichtelefant](https://www.wdrmaus.de/filme/sachgeschichten/lichtelefant.php5)
+* [Lichterkette](https://www.wdrmaus.de/filme/sachgeschichten/lichterkette.php5)
 * [Liftachse](https://www.wdrmaus.de/filme/sachgeschichten/liftachse.php5)
 * [Limonade](https://www.wdrmaus.de/filme/sachgeschichten/limonade.php5)
 * [Linker Fuss](https://www.wdrmaus.de/filme/sachgeschichten/linker_fuss.php5)
