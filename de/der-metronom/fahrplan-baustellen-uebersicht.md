@@ -43,8 +43,6 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
-[18.12.2024 - 23.12.2024 RE4/RB41: nächtliche Haltausfälle Hittfeld, Klecken, Buchholz (N.) sowie Teilausfälle zwischen Hamburg Hbf und Hamburg-Harburg sowie geänderte Fahrzeiten](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-haltausfaelle-hittfeld-klecken-buchholz-n-sowie-teilausfaelle-zwischen-hamburg-hbf-und-hamburg-harburg-sowie-geaenderte-fahrzeiten/)
-
 [30.12.2024 - 31.12.2024 RE4/RB41: nächtliche Teilausfälle Hamburg Hbf \<\> Hamburg-Harburg sowie Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-naechtliche-teilausfaelle-hamburg-hbf-hamburg-harburg-sowie-fahrzeitenaenderungen/)
 
 [03.01.2025 - 04.01.2025 RB41: nächtliche Haltausfälle in Buchholz (N.), Hittfeld und Klecken](https://www.der-metronom.de/baustellen/rb41-naechtliche-haltausfaelle-in-buchholz-n-hittfeld-und-klecken/)
