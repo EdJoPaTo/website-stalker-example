@@ -281,7 +281,7 @@ Ein VPS bietet zahlreiche Vorteile, darunter Flexibilität, Skalierbarkeit, Sich
 
 ### Kann ich meinen VPS mit Local Block Storage erweitern? ###
 
-Ja, du kannst deinen VPS mit Local Block Storage erweitern. Dies bietet dir zusätzlichen Speicherplatz für deine Daten und Anwendungen, um deine Leistung und Speicheranforderungen zu erweitern. Beachte jedoch, dass bei den G11s Generation dieses Upgrade nicht verfügbar ist.
+Ja, du kannst deinen VPS mit Local Block Storage erweitern. Dies bietet dir zusätzlichen Speicherplatz für deine Daten und Anwendungen, um deine Leistung und Speicheranforderungen zu erweitern. Bei der G11s Generation ist eine Erweiterung jedoch nur bis maximal 2 TB möglich.
 
 ### Wie werden die Server abgerechnet? ###
 
