@@ -22,7 +22,7 @@ ab
 
 Local Block Storage bietet jedem Anwender eine **einfache und kostengünstige** Option weitere **Disks** in seine virtuelle Maschine hinzuzufügen. Die Disks können später einfach vergrößert werden und das **ganze ohne Laufzeit**.
 
-Local Block Storage ist verfügbar für unsere Produkte [Root-Server ab G11](https://www.netcup.com/de/server/root-server), [VPS x86 G11](https://www.netcup.com/de/server/vps) (bis max. 8 TB) und [VPS ARM64 G11](https://www.netcup.com/de/server/arm-server) (bis max. 8 TB).
+Local Block Storage ist verfügbar für unsere Produkte [Root-Server ab G11](https://www.netcup.com/de/server/root-server), [VPS x86 G11](https://www.netcup.com/de/server/vps) (bis max. 8 TB), [VPS x86 G11s](https://www.netcup.com/de/server/vps) (bis max. 2 TB) und [VPS ARM64 G11](https://www.netcup.com/de/server/arm-server) (bis max. 8 TB).
 
 Was ist Local Block Storage?
 ----------
@@ -89,11 +89,11 @@ Nein, es können alle Dateisysteme auf unseren Local Block Storages abgespeicher
 
 ### Können VPS der G10s sowie G11s ebenso um Speicherplatz erweitert werden? ###
 
-Nein, dies ist leider nicht möglich.
+Für VPS x86 der G10s ist eine Speichererweiterung leider nicht möglich. VPS x86 der G11s hingegen können bis max. 2 TB erweitert werden.
 
 ### Gibt es ein Mindestvolumen an Speicherkapazität für Local Block Storage bei netcup? ###
 
-Nein, du kannst ab 1 GB deinen Speicherbedarf beliebig anpassen. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab G9, VPS x86 ab G10 und ARM64 G11 (bis max. 8 TB).
+Nein, du kannst ab 1 GB deinen Speicherbedarf beliebig anpassen. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab G9, VPS x86 ab G10 und ARM64 G11 (bis max. 8 TB) sowie VPS x86 G11s (bis max. 2 TB).
 
 ### Ist es möglich die Disks zu verkleinern? ###
 
