@@ -30,15 +30,6 @@ Absolutely transparent
 
 You will find out the cost of your ride before booking. You can pay using the app.
 
-Daily gifts and fun surprises
-
-The MOIA Advent Calendar
-----------
-
-Get into the holiday spirit with MOIA! Starting December 1st, 24 of our MOIAs will transform into Hamburg’s only advent calendar on wheels. If the right door opens for you on the right day, you'll receive a little surprise on board. Good luck!
-
-[Learn more](https://www.moia.io/en/adventcalendar)
-
 How MOIA works
 ----------
 
@@ -126,17 +117,6 @@ Play Store
 
  Scan the QR code and download the app
 
-Enjoy a relaxed Christmas season
-
-Your MOIA holiday discount
-----------
-
-The most wonderful time of the year is almost here! Ride with us to your loved ones, festive gatherings, and well-deserved selfcare sessions. Use the code **FROHEFAHRT** to save **2 x 30% o****ff\*** your next ride and enjoy a comfortable, hassle-free journey.
-
-Simply enter the code in your MOIA app and get moving!
-
-[Book now](https://moia.go.link/19NGV)
-
 Frequently asked questions
 ----------
 
@@ -219,5 +199,3 @@ The booking takes place via the **MOIA App** and must be charged to the respect
 [Learn more](https://help.moia.io/hc/en-us/articles/4418377901073-Smart-Saver-for-Thrifty-Travellers-)
 
 [Find out more](https://help.moia.io/hc/en-us)
-
-\*Enter your voucher code once and it entitles you to two trips in Hamburg at a 30% discount. The voucher code is valid until 26.12.24 and cannot be combined with other vouchers. You can find our general voucher conditions [here](https://www.moia.io/en/voucher_conditions).
