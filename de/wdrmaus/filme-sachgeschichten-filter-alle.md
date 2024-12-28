@@ -889,6 +889,7 @@
 * [Rasierklinge](https://www.wdrmaus.de/filme/sachgeschichten/rasierklinge.php5)
 * [Rauchmelder](https://www.wdrmaus.de/filme/sachgeschichten/rauchmelder.php5)
 * [Raufasertapete](https://www.wdrmaus.de/filme/sachgeschichten/raufasertapete.php5)
+* [Raumschiffbau für die Mondmission](https://www.wdrmaus.de/filme/sachgeschichten/raumschiffbau_fuer_mondmission.php5)
 * [Realblitz](https://www.wdrmaus.de/filme/sachgeschichten/realblitz.php5)
 * [Regenbogen](https://www.wdrmaus.de/filme/sachgeschichten/regenbogen.php5)
 * [Regenrinne](https://www.wdrmaus.de/filme/sachgeschichten/regenrinne.php5)
