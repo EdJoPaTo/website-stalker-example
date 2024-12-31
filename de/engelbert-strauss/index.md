@@ -170,7 +170,7 @@ Jetzt mit neuen Motiven!
 
 ---
 
- Immer als Erstes informiert sein mit dem kostenlosen Engelbert Strauss-Newsletter
+ Immer als Erstes informiert sein mit dem kostenlosen Strauss-Newsletter
 
 [jetzt anmelden](https://www.engelbert-strauss.de/Service/Newsletter)
 
@@ -226,11 +226,11 @@ zzgl. Versandkosten
   * [Vorauskasse](https://www.engelbert-strauss.de/Service/Bezahlen)
   * [Rechnung](https://www.engelbert-strauss.de/Service/Bezahlen)
 
-**Engelbert Strauss**
+**Strauss Deutschland**
 
 **GmbH & Co. KG**
 
-Frankfurter Straße 98 - 108
+Frankfurter Straße 98-108
 
 63599 Biebergemünd
 
@@ -280,6 +280,6 @@ Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
 
  Schnäppchen
 
-Ich bin einverstanden, dass die Engelbert Strauss GmbH & Co. KG mir regelmäßig Informationen zu ihrem Produktsortiment per E-Mail sendet. Dies beinhaltet Informationen zu Schuhen, Bekleidung, Arbeitsschutz, Betriebsbedarf und Büroartikeln sowie branchenspezifischen Veranstaltungen. Meine Einwilligung kann ich jederzeit gegenüber der Engelbert Strauss GmbH & Co. KG widerrufen. Weitere Informationen siehe [Datenschutzerklärung](https://www.engelbert-strauss.de/Rechtliches/Datenschutz).
+Ich bin einverstanden, dass die Strauss Deutschland GmbH & Co. KG mir regelmäßig Informationen zu ihrem Produktsortiment per E-Mail sendet. Dies beinhaltet Informationen zu Schuhen, Bekleidung, Arbeitsschutz, Betriebsbedarf und Büroartikeln sowie branchenspezifischen Veranstaltungen. Meine Einwilligung kann ich jederzeit gegenüber der Strauss Deutschland GmbH & Co. KG widerrufen. Weitere Informationen siehe [Datenschutzerklärung](https://www.engelbert-strauss.de/Rechtliches/Datenschutz).
 
 Jetzt anmelden
