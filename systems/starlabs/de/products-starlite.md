@@ -154,9 +154,7 @@ USB-C 3.1 (5m)  Charge Cable
 
  Charge Cable
 
- Your StarLite will include a USB-C to DC Jack Charge Cable (2m) by default. You can select alternative charging cables. These are available in either 2-metre or 5-metre lengths with either USB-C or DC Jack connectors.
-
- USB-C cables support power, video output and data transfer, whereas DC Jack cables only support power. Both cables charge at the same speed; which cable suits you best will depend on which external devices you plan to connect.
+ Your StarLite will include a USB-C Charge Cable (2m) by default. You can select alternative length, as these cables are available in either 2-metre or 5-metre lengths.
 
  We have a [full range of accessories](/collections/Accessories) available.
 
