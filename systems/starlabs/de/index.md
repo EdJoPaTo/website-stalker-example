@@ -48,7 +48,7 @@ Browse our range
 
 More than just a licence.
 
- A machine you can craft to suit your workflow with our ever-evolving open-source code, that's upstreamed and tuned to perfection. Combined with our unbeatable support, the experience will exceed expections.
+ A machine you can craft to suit your workflow with our ever-evolving open-source code, that's upstreamed and tuned to perfection. Combined with our unbeatable support, the experience will exceed expectations.
 
 [Why choose us?](/pages/why-choose-us)
 
