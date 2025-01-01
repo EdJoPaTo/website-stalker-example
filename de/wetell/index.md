@@ -343,6 +343,6 @@ Rechtliches
 * [](https://apps.apple.com/de/app/wetell/id6450259024)
 * [](https://play.google.com/store/apps/details?id=de.appsoluts.wetell)
 
- © 2024 Copyright WEtell. All rights reserved.
+ © 2025 Copyright WEtell. All rights reserved.
 
 [Tarif wählen](https://www.wetell.de/tarife/) [Wechselservice](https://www.wetell.de/tarife/wechselservice/) [Freund\*innen werben](https://wetell.de/youtell/) [FAIRstärker](https://www.wetell.de/fairstaerker/)
