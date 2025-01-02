@@ -1,3 +1,8 @@
+Green Planet Energy
+----------
+
+Als Mischung aus einer streitbaren NGO und einer Ökoenergiegenossenschaft wurde Green Planet Energy einst gegründet. Noch heute sind diese Wurzeln stark spürbar. Also haben wir Platz im Spotlight gemacht und Carolin, Bereichsleitung Politik und Kommunikation, dazu gebeten. Klick sofort mal rein.
+
 memo
 ----------
 
