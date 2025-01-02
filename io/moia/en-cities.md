@@ -43,12 +43,6 @@ Thursday to Sunday
 
 Thu 5:00 am – Mon 1:00 am
 
-Ride with us from Christmas into the New Year
-
-We've adjusted our service hours in Hamburg during the holiday season.
-
-[Learn more](https://www.moia.io/en/cities#christmas)
-
 Your benefits in Hamburg
 ----------
 
