@@ -39,11 +39,15 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 [12.01.2025 - 20.01.2025 RE3/RB31: verschiedene nächtliche Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re3-rb31-2/)
 
+[20.01.2025 - 27.01.2025 RE3/RB31: verschiedene Haltausfälle Bardowick, Radbruch, Ashausen, Maschen und Meckelfeld](https://www.der-metronom.de/baustellen/re3-rb31-verschiedene-haltausfaelle-bardowick-radbruch-ashausen-maschen-und-meckelfeld/)
+
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
 [03.01.2025 - 04.01.2025 RB41: nächtliche Haltausfälle in Buchholz (N.), Hittfeld und Klecken](https://www.der-metronom.de/baustellen/rb41-naechtliche-haltausfaelle-in-buchholz-n-hittfeld-und-klecken/)
 
 [12.01.2025 - 13.01.2025 RB41: nächtliche Teilausfälle 81942 und 81902 für die Halte Buchholz, Hittfeld und Klecken](https://www.der-metronom.de/baustellen/rb41-naechtliche-teilausfaelle-81942-und-81902-fuer-die-halte-buchholz-hittfeld-und-klecken/)
+
+[16.01.2025 - 23.01.2025 RE4/RB41: Teilausfälle, Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-haltausfaelle-und-fahrzeitenaenderungen/)
 
 **Barrierefrei ohne PDF-Datei**
 Wir arbeiten gerade daran, die Fahrplantabellen nicht mehr als PDF-Dateien anzubieten. Unser Ziel ist es, die Tabellen in einem Format bereitzustellen, das für alle einfach zugänglich ist. So kann jeder, egal mit welchem Gerät, die Informationen leicht abrufen. Das macht es einfacher für Menschen mit mobilen Geräten und für Menschen mit besonderen Bedürfnissen. Damit wollen wir die Informationen moderner und für alle nutzerfreundlich machen.
