@@ -6,6 +6,44 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: January 2nd</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/597388807236539863</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jan 2, 2025
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Updated suspend animation when not on Steam Deck.
+					</li>
+				</ul>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/597388807236539863" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: December 20th</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/597387624656741729</link>
 			<content:encoded><![CDATA[<html>
@@ -279,88 +317,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/603016324809011690" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Client Update: December 3rd</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/4629233756625965762</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Dec 3, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Stable channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed audio desync that occurs for some game recording videos when played in Steam or Chrome browser.
-						<br>
-					</li>
-					<li>
-						Fixed game notes being reset sometimes when enabling/disabling spell checking.
-						<br>
-					</li>
-					<li>
-						Fixed hardware video acceleration setting showing as enabled when GPU accelerated rendering in webviews is disabled (both must be enabled for hardware video acceleration to work).
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Added settings button to allow resetting the game recording folder to the default path.
-						<br>
-					</li>
-					<li>
-						Fixed issue causing some users to encounter failures while exporting video clips.
-						<br>
-					</li>
-					<li>
-						Fixed bug which applied background recording retention interval to manual recordings.
-						<br>
-					</li>
-					<li>
-						Fixed issue preventing Linux users with Nvidia cards from using their GPU to accelerate video encoding.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed store and community features being disabled when streaming to a Mac.
-						<br>
-					</li>
-					<li>
-						Fixed issue preventing Linux users with Nvidia cards from using their GPU to accelerate video encoding.
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/4629233756625965762" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
