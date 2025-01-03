@@ -28,9 +28,8 @@ Um die Wartung und Instandhaltung...
 
  Uelzen - 23.12.2024
 
-Das Servicecenter Lüneburg der metronom Eisenbahngesellschaft bleibt am 6. Januar 2024 wegen Umzugs geschlossen.
-Moin liebe Fahrgäste,
-wir verlassen die Container auf dem Bahnhofsvorplatz und ziehen in die ↗ neue Mobilitätszentrale im Bahnhof. Ab dem 7. Januar sind wir dort für euch da – in...
+Das Servicecenter Lüneburg der metronom Eisenbahngesellschaft bleibt am 6. Januar 2024 wegen Umzugs geschlossen. Moin liebe Fahrgäste,
+wir verlassen die Container auf dem Bahnhofsvorplatz und ziehen in die ↗ neue Mobilitätszentrale im Bahnhof. Ab dem 7. Januar sind wir dort mit dem gewohnten...
 
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 

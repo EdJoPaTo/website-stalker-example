@@ -96,12 +96,6 @@ Sunday and holidays
 
 10:00 am – 10:00 pm
 
-Ride with us from Christmas into the New Year
-
-We've adjusted our service hours in Hanover during the holiday season.
-
-[More info](https://www.moia.io/en/cities#christmas)
-
 Your benefits in Hanover
 ----------
 
