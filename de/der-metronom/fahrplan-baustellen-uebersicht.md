@@ -29,8 +29,6 @@ RE2 Hannover - Northeim - Göttingen
 
 RE2 + RE3 Uelzen - Celle - Hannover
 
-[03.01.2025 - 04.01.2025 RE2/RE3: nächtliche Teilausfälle Uelzen \<\> Celle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-uelzen-celle-und-fahrzeitenaenderungen/)
-
 [13.01.2025 - 16.01.2025 RE2/RE3: nächtliche Teilausfälle zwischen Celle \<\> Uelzen - Ersatzverkehr mit Bussen](https://www.der-metronom.de/baustellen/re2-re3-naechtliche-teilausfaelle-zwischen-celle-uelzen-ersatzverkehr-mit-bussen/)
 
 [24.01.2025 - 27.01.2025 RE2/RE3/RB31: nächtliche Teilausfälle Hannover Hbf/Celle \<\> Uelzen](https://www.der-metronom.de/baustellen/re2-re3-rb31-naechtliche-teilausfaelle-hannover-hbf-celle-uelzen/)
