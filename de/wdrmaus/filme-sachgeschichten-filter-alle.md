@@ -261,6 +261,7 @@
 * [Elefantenfakten](https://www.wdrmaus.de/filme/sachgeschichten/elefantenfakten.php5)
 * [Elefantenhaus](https://www.wdrmaus.de/filme/sachgeschichten/elefantenhaus.php5)
 * [Elefantenohren](https://www.wdrmaus.de/filme/sachgeschichten/elefantenohren.php5)
+* [Elefantentröten](https://www.wdrmaus.de/filme/sachgeschichten/elefantentroeten.php5)
 * [Elektromotor](https://www.wdrmaus.de/filme/sachgeschichten/elektromotor.php5)
 * [Endoskopgeschichten: Fliege](https://www.wdrmaus.de/filme/sachgeschichten/endoskopgeschichten_fliege.php5)
 * [Enten-Lobhudelei](https://www.wdrmaus.de/filme/sachgeschichten/enten_lobhudelei.php5)
