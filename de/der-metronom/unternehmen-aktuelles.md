@@ -24,13 +24,6 @@ damit die Züge auch künftig ungehindert fahren können, müssen die Gleisanlag
 Dies erfolgt vom 16.01. – 23.01. 2025 auf den metronom-Linien RE4 und RB41.
 Um die Wartung und Instandhaltung...
 
-[Servicecenter Lüneburg zieht am 6. Januar um: eingeschränkte Beratung vor Ort](https://www.der-metronom.de/aktuell/kundeninformation-servicecenter-lueneburg-zieht-am-6-januar-um/)
-
- Uelzen - 23.12.2024
-
-Das Servicecenter Lüneburg der metronom Eisenbahngesellschaft bleibt am 6. Januar 2024 wegen Umzugs geschlossen. Moin liebe Fahrgäste,
-wir verlassen die Container auf dem Bahnhofsvorplatz und ziehen in die ↗ neue Mobilitätszentrale im Bahnhof. Ab dem 7. Januar sind wir dort mit dem gewohnten...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
  Uelzen - 13.09.2024
