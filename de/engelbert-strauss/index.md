@@ -250,8 +250,8 @@ Mail
 
 ###  STRAUSS FOLGEN  ###
 
-* [](https://www.facebook.com/EngelbertStraussDE)
-* [](https://www.youtube.com/user/engelbertstraussTV)
+* [](https://www.facebook.com/StraussEurope/)
+* [](https://www.youtube.com/@strauss_europe)
 * [](https://www.instagram.com/engelbert_strauss)
 
 ### Sprachauswahl ###
