@@ -175,7 +175,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Free shipping in Germany, incl. VAT
 
- Plus shipping. Duties and taxes not included in shipping.
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
 
  Your choice
 
@@ -750,7 +750,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Free shipping in Germany, incl. VAT
 
- Plus shipping. Duties and taxes not included in shipping.
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
 
  Your choice
 
