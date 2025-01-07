@@ -6,6 +6,71 @@
 		<description>Available now.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Steam Deck Beta Client Update: January 6th</title>
+			<link>https://steamcommunity.com/app/1675200/eventcomments/599641053427947174</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<h5>
+				Jan 6, 2025
+			</h5>
+			<div>
+				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
+				<br>
+				<br>
+				<b>
+					General
+				</b>
+				<br>
+				<ul>
+					<li>
+						Improved the display of the startup animations on 16:9 and ultra-wide monitor resolutions
+						<br>
+					</li>
+					<li>
+						Fixed the display of the Triangle/Cross glyphs for the PlayStation DualShock controller on some Virtual Keyboard skins where they didn't display
+						<br>
+					</li>
+					<li>
+						Fixed turning off external gamepads connected via BT via the controller chord and after the inactivity timeout
+					</li>
+				</ul>
+				<br>
+				<b>
+					Steam Input
+				</b>
+				<br>
+				<ul>
+					<li>
+						Fixed an issue where the Wireless HORIPAD for Steam could wake up OLED Steam Decks when they suspend while the device is connected via BT
+						<br>
+					</li>
+					<li>
+						Fixed an issue where hitting down in the Keyboard section of the Choose Binding screen could switch to the gamepad tab
+						<br>
+					</li>
+					<li>
+						Fixed some cases where bindings were removed for grip or share buttons on devices
+					</li>
+				</ul>
+				<br>
+			</div>
+			<div>
+				<div>
+				</div>
+				<div>
+					<a href="https://steamcommunity.com/app/1675200/eventcomments/599641053427947174" rel="noopener noreferrer">
+						Discuss on Steam
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Steam Deck Beta Client Update: January 2nd</title>
 			<link>https://steamcommunity.com/app/1675200/eventcomments/597388807236539863</link>
 			<content:encoded><![CDATA[<html>
@@ -221,102 +286,6 @@
 				</div>
 				<div>
 					<a href="https://steamcommunity.com/app/1675200/eventcomments/501685433118285521" rel="noopener noreferrer">
-						Discuss on Steam
-					</a>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>Steam Deck Beta Client Update: December 11th</title>
-			<link>https://steamcommunity.com/app/1675200/eventcomments/603016324809011690</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<h5>
-				Dec 11, 2024
-			</h5>
-			<div>
-				We have just shipped an updated Steam Deck Client to the Preview/Beta channel.
-				<br>
-				<br>
-				<b>
-					General
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed desktop Steam Clients exiting while running a game if a Steam Deck is resumed while running a non-Steam app.
-						<br>
-					</li>
-					<li>
-						Fixed several issues where navigation could get stuck behind menus or dialogs.
-						<br>
-					</li>
-					<li>
-						Fixed the WiFi auto connect setting being forgotten after a system restart.
-						<br>
-					</li>
-					<li>
-						Fixed a case where the WiFi connection dialog would not show a password prompt for networks that only support WPA3.
-						<br>
-					</li>
-					<li>
-						Updated layout of downloads page for the active item.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Game Recording
-				</b>
-				<br>
-				<ul>
-					<li>
-						Improved error messages for limited accounts sharing messages in chat or via the share menu.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Remote Play
-				</b>
-				<br>
-				<ul>
-					<li>
-						Fixed Remote Play Together session not fully starting for some games running on macOS host systems.
-					</li>
-				</ul>
-				<br>
-				<b>
-					Steam Input
-				</b>
-				<br>
-				<ul>
-					<li>
-						Reduced overhead/latency of controller input in Big Picture Mode and Virtual Menus
-						<br>
-					</li>
-					<li>
-						Slightly reduced steady-state CPU usage of Steam Input overall
-						<br>
-					</li>
-					<li>
-						Fixed some Linux-specific crashes
-						<br>
-					</li>
-					<li>
-						Fixed not being able to use "Export Layout->Save New Layout" when using a "Sharable Personal Layout".
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div>
-				</div>
-				<div>
-					<a href="https://steamcommunity.com/app/1675200/eventcomments/603016324809011690" rel="noopener noreferrer">
 						Discuss on Steam
 					</a>
 				</div>
