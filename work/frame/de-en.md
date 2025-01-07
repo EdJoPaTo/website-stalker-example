@@ -1,7 +1,6 @@
-### Framework Laptop 13
-(Intel® Core™ Ultra Series 1) ###
+### You should be able to fix your stuff. ###
 
-**Customize, upgrade, repair. Now with the latest Intel® processors.**
+**We make repairable, upgradable, and (more) sustainable consumer electronics.**
 
 [Shop now](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new) [Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
 
