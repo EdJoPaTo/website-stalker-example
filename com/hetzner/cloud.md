@@ -98,7 +98,7 @@ Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 pr
 
  Germany  Finland  Germany  Finland  Singapore  USA  Germany  Finland  Germany  Finland  Singapore  USA
 
-FSN-1 NBG-1 HEL-1 HIL ASH SIN
+FSN1 NBG1 HEL1 HIL ASH SIN
 
  Primary IPv4 IPv6 only
 
@@ -707,7 +707,7 @@ Monthly
 
 Expand your cloud instance with high-availability SSD block storage for €0.044$0.0484 / GBper month.
 
-0.0440 0.0500 / month Billing on an hourly basis
+0.0440 0.0500 max./mo  Billing on an hourly basis
 
 [Get started](https://console.hetzner.cloud/)
 

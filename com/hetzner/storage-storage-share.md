@@ -30,11 +30,11 @@ Storage Share
  Powered by Nextcloud. Easily store and share files.
 No minimum contract period. Monthly cancellation period.
 
-[NX11 starting from 4 5 29 00 max/mo. 0.0069 0.0080 /hr Storage 1 TB Subdomain 3 Users ∞ Simultaneous Connections 50 FSN-1](https://konsoleh.hetzner.com/)
+[NX11 4 5 29 00 max/mo. 0.0069 0.0080 /hr Storage 1 TB Subdomain 3 Users ∞ Simultaneous Connections 50 FSN1](https://konsoleh.hetzner.com/)
 
-[NX21 starting from 14 16 19 00 max/mo. 0.0227 0.0256 /hr Storage 5 TB Subdomain 7 Users ∞ Simultaneous Connections 100 FSN-1](https://konsoleh.hetzner.com/)
+[NX21 14 16 19 00 max/mo. 0.0227 0.0256 /hr Storage 5 TB Subdomain 7 Users ∞ Simultaneous Connections 100 FSN1](https://konsoleh.hetzner.com/)
 
-[NX31 starting from 27 31 39 00 max/mo. 0.0439 0.0497 /hr Storage 10 TB Subdomain 10 Users ∞ Simultaneous Connections 200 FSN-1](https://konsoleh.hetzner.com/)
+[NX31 27 31 39 00 max/mo. 0.0439 0.0497 /hr Storage 10 TB Subdomain 10 Users ∞ Simultaneous Connections 200 FSN1](https://konsoleh.hetzner.com/)
 
 [Get started](https://konsoleh.hetzner.com/)
 
