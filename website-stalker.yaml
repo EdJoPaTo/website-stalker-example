@@ -220,15 +220,15 @@ sites:
       - css_remove: ul:has(li a code)
       - css_flatten: a[href^="#example"], a[href^="#explanation"]
       - html_markdownify
-  - url: https://rust-lang.github.io/rust-clippy/stable/lints.json
+  - url: https://rust-lang.github.io/rust-clippy/stable/index.html
     editors:
-      - json_prettify
-      - regex_replace:
-          pattern: '\n\s*"id_location": ".+'
-          replace: ""
-      - regex_replace:
-          pattern: '\n\s*"docs": ".+'
-          replace: ""
+      - css_select: article
+      - css_remove: .lint-additional-info-item:has(a[href^="https://github.com/rust-lang/rust-clippy/issues?q="])
+      - css_remove: .lint-additional-info-item:has(a[href^="https://github.com/rust-lang/rust-clippy/blob/m"])
+      - css_remove: a[href="https://doc.rust-lang.org/nightly/nightly-rustc/rustc_lint_defs/enum.Applicability.html#variants"]
+      - css_remove: .anchor[onclick], .lint-doc-md
+      - css_flatten: .panel-title
+      - html_markdownify
 
   - url:
       - https://eu.ugreen.com/collections/gan-chargers?sort_by=title-ascending
