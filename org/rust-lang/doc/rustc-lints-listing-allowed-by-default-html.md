@@ -491,7 +491,6 @@ and a pointer.
 ### Example ###
 
 ```
-#![feature(strict_provenance)]
 #![warn(fuzzy_provenance_casts)]
 
 fn main() {
@@ -502,22 +501,17 @@ fn main() {
 This will produce:
 
 ```
-warning: strict provenance disallows casting integer `usize` to pointer `*const u8`
- --> lint_example.rs:5:21
+warning: unknown lint: `fuzzy_provenance_casts`
+ --> lint_example.rs:1:1
   |
-5 |     let _dangling = 16_usize as *const u8;
-  |                     ^^^^^^^^^^^^^^^^^^^^^
+1 | #![warn(fuzzy_provenance_casts)]
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   |
-  = help: if you can't comply with strict provenance and don't have a pointer with the correct provenance you can use `std::ptr::with_exposed_provenance()` instead
-note: the lint level is defined here
- --> lint_example.rs:2:9
-  |
-2 | #![warn(fuzzy_provenance_casts)]
-  |         ^^^^^^^^^^^^^^^^^^^^^^
-help: use `.with_addr()` to adjust a valid pointer in the same allocation, to this address
-  |
-5 |     let _dangling = (...).with_addr(16_usize);
-  |                     ++++++++++++++++        ~
+  = note: the `fuzzy_provenance_casts` lint is unstable
+  = note: see issue #130351 <https://github.com/rust-lang/rust/issues/130351> for more information
+  = help: add `#![feature(strict_provenance_lints)]` to the crate attributes to enable
+  = note: this compiler was built on 2025-01-07; consider upgrading it if it is out of date
+  = note: `#[warn(unknown_lints)]` on by default
 
 ```
 
@@ -547,7 +541,6 @@ significant drop is generated on the right hand side of `if let`and suggests a r
 ### Example ###
 
 ```
-#![cfg_attr(not(bootstrap), feature(if_let_rescope))] // Simplify this in bootstrap bump.
 #![warn(if_let_rescope)]
 #![allow(unused_variables)]
 
@@ -583,9 +576,9 @@ This will produce:
 
 ```
 warning: `if let` assigns a shorter lifetime since Edition 2024
-  --> lint_example.rs:25:8
+  --> lint_example.rs:24:8
    |
-25 |     if let Some(value) = Droppy.get() {
+24 |     if let Some(value) = Droppy.get() {
    |        ^^^^^^^^^^^^^^^^^^------^^^^^^
    |                          |
    |                          this value has a significant drop implementation which may observe a major change in drop order and requires your discretion
@@ -593,22 +586,22 @@ warning: `if let` assigns a shorter lifetime since Edition 2024
    = warning: this changes meaning in Rust 2024
    = note: for more information, see issue #124085 <https://github.com/rust-lang/rust/issues/124085>
 help: the value is now dropped here in Edition 2024
-  --> lint_example.rs:27:5
+  --> lint_example.rs:26:5
    |
-27 |     } else {
+26 |     } else {
    |     ^
 note: the lint level is defined here
-  --> lint_example.rs:2:9
+  --> lint_example.rs:1:9
    |
-2  | #![warn(if_let_rescope)]
+1  | #![warn(if_let_rescope)]
    |         ^^^^^^^^^^^^^^
 help: a `match` with a single arm can preserve the drop order up to Edition 2021
    |
-25 ~     match Droppy.get() { Some(value) => {
-26 |         // do something
-27 ~     } _ => {
-28 |         // do something else
-29 ~     }}
+24 ~     match Droppy.get() { Some(value) => {
+25 |         // do something
+26 ~     } _ => {
+27 |         // do something else
+28 ~     }}
    |
 
 ```
@@ -881,7 +874,6 @@ and an integer.
 ### Example ###
 
 ```
-#![feature(strict_provenance)]
 #![warn(lossy_provenance_casts)]
 
 fn main() {
@@ -893,22 +885,17 @@ fn main() {
 This will produce:
 
 ```
-warning: under strict provenance it is considered bad style to cast pointer `*const u8` to integer `usize`
- --> lint_example.rs:6:24
+warning: unknown lint: `lossy_provenance_casts`
+ --> lint_example.rs:1:1
   |
-6 |     let _addr: usize = &x as *const u8 as usize;
-  |                        ^^^^^^^^^^^^^^^^^^^^^^^^
+1 | #![warn(lossy_provenance_casts)]
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   |
-  = help: if you can't comply with strict provenance and need to expose the pointer provenance you can use `.expose_provenance()` instead
-note: the lint level is defined here
- --> lint_example.rs:2:9
-  |
-2 | #![warn(lossy_provenance_casts)]
-  |         ^^^^^^^^^^^^^^^^^^^^^^
-help: use `.addr()` to obtain the address of a pointer
-  |
-6 |     let _addr: usize = (&x as *const u8).addr();
-  |                        +               ~~~~~~~~
+  = note: the `lossy_provenance_casts` lint is unstable
+  = note: see issue #130351 <https://github.com/rust-lang/rust/issues/130351> for more information
+  = help: add `#![feature(strict_provenance_lints)]` to the crate attributes to enable
+  = note: this compiler was built on 2025-01-07; consider upgrading it if it is out of date
+  = note: `#[warn(unknown_lints)]` on by default
 
 ```
 
@@ -1044,9 +1031,8 @@ error: extern declarations without an explicit ABI are deprecated
  --> lint_example.rs:4:1
   |
 4 | extern fn foo() {}
-  | ^^^^^^^^^^^^^^^ ABI should be specified here
+  | ^^^^^^ help: explicitly specify the C ABI: `extern "C"`
   |
-  = help: the default ABI is C
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -1877,7 +1863,6 @@ detects patterns whose meaning will change in the Rust 2024 edition.
 ### Example ###
 
 ```
-#![feature(ref_pat_eat_one_layer_2024)]
 #![warn(rust_2024_incompatible_pat)]
 
 if let Some(&a) = &Some(&0u8) {
@@ -1891,27 +1876,32 @@ if let Some(mut _a) = &mut Some(0u8) {
 This will produce:
 
 ```
-warning: the semantics of this pattern will change in edition 2024
- --> lint_example.rs:5:8
+warning: patterns are not allowed to reset the default binding mode in edition 2024
+ --> lint_example.rs:4:8
   |
-5 | if let Some(&a) = &Some(&0u8) {
+4 | if let Some(&a) = &Some(&0u8) {
   |        -^^^^^^^
   |        |
   |        help: desugar the match ergonomics: `&`
   |
+  = warning: this changes meaning in Rust 2024
+  = note: for more information, see 123076
 note: the lint level is defined here
- --> lint_example.rs:2:9
+ --> lint_example.rs:1:9
   |
-2 | #![warn(rust_2024_incompatible_pat)]
+1 | #![warn(rust_2024_incompatible_pat)]
   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-warning: the semantics of this pattern will change in edition 2024
- --> lint_example.rs:8:8
+warning: patterns are not allowed to reset the default binding mode in edition 2024
+ --> lint_example.rs:7:8
   |
-8 | if let Some(mut _a) = &mut Some(0u8) {
+7 | if let Some(mut _a) = &mut Some(0u8) {
   |        -^^^^^^^^^^^
   |        |
   |        help: desugar the match ergonomics: `&mut`
+  |
+  = warning: this changes meaning in Rust 2024
+  = note: for more information, see 123076
 
 ```
 
@@ -2026,16 +2016,15 @@ that it produces. See [RFC 2115](https://github.com/rust-lang/rfcs/blob/master/t
 [tail-expr-drop-order](#tail-expr-drop-order)
 ----------
 
-The `tail_expr_drop_order` lint looks for those values generated at the tail expression location, that of type
-with a significant `Drop` implementation, such as locks.
-In case there are also local variables of type with significant `Drop` implementation as well,
-this lint warns you of a potential transposition in the drop order.
-Your discretion on the new drop order introduced by Edition 2024 is required.
+The `tail_expr_drop_order` lint looks for those values generated at the tail expression location,
+that runs a custom `Drop` destructor.
+Some of them may be dropped earlier in Edition 2024 that they used to in Edition 2021 and prior.
+This lint detects those cases and provides you information on those values and their custom destructor implementations.
+Your discretion on this information is required.
 
 ### Example ###
 
 ```
-#![feature(shorter_tail_lifetimes)]
 #![warn(tail_expr_drop_order)]
 struct Droppy(i32);
 impl Droppy {
@@ -2050,32 +2039,63 @@ impl Drop for Droppy {
         println!("loud drop {}", self.0);
     }
 }
-fn edition_2024() -> i32 {
+fn edition_2021() -> i32 {
     let another_droppy = Droppy(0);
     Droppy(1).get()
 }
 fn main() {
-    edition_2024();
+    edition_2021();
 }
 ```
 
 This will produce:
 
 ```
-warning: these values and local bindings have significant drop implementation that will have a different drop order from that of Edition 2021
-  --> lint_example.rs:18:5
+warning: relative drop order changing in Rust 2024
+  --> lint_example.rs:17:5
    |
-17 |     let another_droppy = Droppy(0);
-   |         -------------- these values have significant drop implementation and will observe changes in drop order under Edition 2024
-18 |     Droppy(1).get()
+16 |     let another_droppy = Droppy(0);
+   |         --------------
+   |         |
+   |         `another_droppy` calls a custom destructor
+   |         `another_droppy` will be dropped later as of Edition 2024
+17 |     Droppy(1).get()
    |     ^^^^^^^^^
+   |     |
+   |     this value will be stored in a temporary; let us call it `#1`
+   |     up until Edition 2021 `#1` is dropped last but will be dropped earlier in Edition 2024
+18 | }
+   | - now the temporary value is dropped here, before the local variables in the block or statement
    |
    = warning: this changes meaning in Rust 2024
    = note: for more information, see issue #123739 <https://github.com/rust-lang/rust/issues/123739>
-note: the lint level is defined here
-  --> lint_example.rs:2:9
+note: `#1` invokes this custom destructor
+  --> lint_example.rs:8:1
    |
-2  | #![warn(tail_expr_drop_order)]
+8  | / impl Drop for Droppy {
+9  | |     fn drop(&mut self) {
+10 | |         // This is a custom destructor and it induces side-effects that is observable
+11 | |         // especially when the drop order at a tail expression changes.
+12 | |         println!("loud drop {}", self.0);
+13 | |     }
+14 | | }
+   | |_^
+note: `another_droppy` invokes this custom destructor
+  --> lint_example.rs:8:1
+   |
+8  | / impl Drop for Droppy {
+9  | |     fn drop(&mut self) {
+10 | |         // This is a custom destructor and it induces side-effects that is observable
+11 | |         // especially when the drop order at a tail expression changes.
+12 | |         println!("loud drop {}", self.0);
+13 | |     }
+14 | | }
+   | |_^
+   = note: most of the time, changing drop order is harmless; inspect the `impl Drop`s for side effects like releasing locks or sending messages
+note: the lint level is defined here
+  --> lint_example.rs:1:9
+   |
+1  | #![warn(tail_expr_drop_order)]
    |         ^^^^^^^^^^^^^^^^^^^^
 
 ```
@@ -2338,7 +2358,7 @@ warning: unknown lint: `unqualified_local_imports`
   |
   = note: the `unqualified_local_imports` lint is unstable
   = help: add `#![feature(unqualified_local_imports)]` to the crate attributes to enable
-  = note: this compiler was built on 2024-11-26; consider upgrading it if it is out of date
+  = note: this compiler was built on 2025-01-07; consider upgrading it if it is out of date
   = note: `#[warn(unknown_lints)]` on by default
 
 ```
