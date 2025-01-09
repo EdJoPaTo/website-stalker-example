@@ -66,9 +66,9 @@ Memory
 
 Operating System
 
- Ubuntu LTS 24.04
+ Ubuntu LTS 24.04.1
 
-Ubuntu LTS 24.04
+Ubuntu LTS 24.04.1
 
 No Operating System
 
