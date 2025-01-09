@@ -25,7 +25,7 @@ Collabs
 
 [Learn more](https://community.rhasspy.org/)
 
- WLED is an ESP-based webserver to control digital LEDs over Wi-Fi. It supports over a dozen light control interfaces, including standalone apps for Android and iOS. It is a feature-rich project, with a modern user interface, over-the-air updates, and support for addressable RGBW strips. The Open Home Foundation owns ESP Web Tools, with powers the WLED web installer, making the project more accessible for more people.
+ WLED is an ESP-based webserver to control digital LEDs over Wi-Fi. It supports over a dozen light control interfaces, including standalone apps for Android and iOS. It is a feature-rich project, with a modern user interface, over-the-air updates, and support for addressable RGBW strips. The Open Home Foundation owns ESP Web Tools, which powers the WLED web installer, making the project more accessible for more people.
 
 [Learn more](https://kno.wled.ge/)
 
