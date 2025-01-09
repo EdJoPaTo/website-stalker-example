@@ -12,13 +12,13 @@ Get started right away, no matter where you are. Set up your Storage Share with 
 
 ---
 
-### Safe ###
+### Sicher ###
 
 Maintain control over your data, which we store in our own German and GDPR-compliant data centers. Storage Share includes an SSL certificate for your own domain in the format nx\*.your-storageshare.de and for your custom subdomains.
 
 ---
 
-### Individual ###
+### Individuell ###
 
 Create user groups, define individual quotas for single users and share files privately or publicly. Use pre-installed apps like Contacts, Calendar and Tasks or add more apps.
 
