@@ -15,13 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[Aktuelle Witterung: Auswirkungen auf den Zugverkehr der Linien RE2 und RE3/RB31](https://www.der-metronom.de/aktuell/aktuelle-witterung-auswirkungen-auf-den-zugverkehr/)
-
- Uelzen - 09.01.2025
-
-Moin liebe Fahrgäste,
-die massiven Schneefälle der letzten Stunden haben erhebliche Auswirkungen auf den Zugverkehr. Durch Schneefall können vereinzelt Sicherungssysteme der Schieneninfrastruktur nicht mehr ordnungsgemäß funktionieren. Betroffen sind vor allem Bahnübergänge, Weichen und...
-
 [Instandhaltung an den Gleisen: vom 16.01. – 23.01. 2025 leichte Einschränkungen auf der Linie RE4 / RB41 zwischen Harburg-Buchholz-Rotenburg-Bremen](https://www.der-metronom.de/aktuell/instandhaltung-an-den-gleisen-vom-16-01---23-01-2025-leichte-einschraenkungen-auf-der-linie-re4-rb41-zwischen-harburg-buchholz-rotenburg-bremen/)
 
  Bremen, Buchholz, Harburg - 02.01.2025
