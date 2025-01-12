@@ -219,6 +219,4 @@ What's in the Box
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Dispatch in 2 - 3 working days
-
-[Configure](/products/byte)
+ Sold Out - Notify Me When Available
