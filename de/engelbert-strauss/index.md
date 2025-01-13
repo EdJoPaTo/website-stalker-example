@@ -108,32 +108,41 @@ Moin **Hamburg!**
 |###  Pop up store  ###<br/><br/>---<br/><br/> 09.01. - 15.02.2025 | Hamburg<br/><br/> In unseren Pop-up-Stores finden Sie alle   <br/>Strauss-Highlights - live, zum Anfassen & Anprobieren!<br/><br/>[<br/><br/>mehr Informationen<br/><br/>](https://www.engelbert-strauss.de/popupstore/popupstore_hamburg)|   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 
-Sie gestalten
-Wir sticken
+Druck & Stick
+
+---
+
+ab
+1 Stück
+
+---
+
+Gestalten
+sie selbst!
 
 ==========
 
 ---
 
- Ihr Wunschmotiv ab 1 Stück
-==========
-
+ In wenigen Klicks zum Wunschdesign
 ---
 
 [mehr erfahren](https://www.engelbert-strauss.de/Service/Logoservice/selbst_gestalten)
+
+zu den Produkten
+
+Motiv- &
+Text-Designs
+
+---
 
 schnell &
 unkompliziert
 
 ---
 
-190 Motive
-zur Auswahl
-
----
-
-Schriftzug
-selbst gestalten
+große
+Motivauswahl
 
 ---
 
@@ -142,8 +151,25 @@ bestellbar
 
 ---
 
-Jetzt mit neuen Motiven!
+Direkt-
+einstickung
 
+---
+
+ edel, hochwertig, robust — perfekt für alle Textilien, besonders auch stark beanspruchte Arbeitskleidung
+
+---
+
+Easy-
+transfer
+
+---
+
+Druck: vielseitig, großflächig, flexibel — nur für Basics wie T-Shirts, Sweater & Co.
+
+---
+
+ neu
 ---
 
 ####  Brand Partnerships  ####
