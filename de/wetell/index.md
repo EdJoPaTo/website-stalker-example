@@ -339,6 +339,7 @@ Rechtliches
 * [AGB](https://www.wetell.de/service/dokumente/#agb)
 * [Kündigung](https://www.wetell.de/tarife/kuendigung/)
 * [Privatsphäreneinstellungen](https://www.wetell.de/#)
+* [VIB Crowd 3](https://wetell.de/downloads/sonstiges/VIB_WEtell_3.pdf)
 
 * [](https://apps.apple.com/de/app/wetell/id6450259024)
 * [](https://play.google.com/store/apps/details?id=de.appsoluts.wetell)
