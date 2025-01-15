@@ -151,10 +151,12 @@ Eigene CD-ROMs / DVDs und Images
 
 [CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
 
-[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
+[netcup Labs](https://www.netcup.com/de/server/labs)
 
 [VPS (ARM64) Generation 11](https://www.netcup.com/de/server/arm-server)
 
 [Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
 
 [Betriebssysteme / Images](https://www.netcup.com/de/server/vserver-images)
+
+[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
