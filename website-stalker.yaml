@@ -285,7 +285,7 @@ sites:
       - https://frame.work/de/en/products/laptop-diy-13-gen-amd/configuration/new
     editors:
       - css_select: main
-      - css_remove: img, svg, script, noscript, style, .material-icons, .hidden, *[data-containers--product-configurations--multiple-selection-component--availability-target="multipleSelectionSelect"]
+      - css_remove: img, svg, script, noscript, style, .material-icons, .hidden, *[data-containers--product-configurations--multiple-selection-component--availability-target="multipleSelectionSelect"], *[data-containers--product-configurations--variant-option-component--variant-option-target="outOfStock"]
       - html_markdownify
 
   - url: https://www.steamdeck.com/en/
