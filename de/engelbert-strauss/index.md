@@ -1,7 +1,53 @@
-Neue
-Farbe
+Bis zu
+---
 
- Neue Highlight-Farbe
+ 10%
+---
+
+ Bis zu
+---
+
+ 20%
+---
+
+ Bis zu
+---
+
+ 30%
+---
+
+ Bis zu
+---
+
+ 40%
+---
+
+ Bis zu
+---
+
+ 49%
+---
+
+ Sale
+----------
+
+---
+
+zum Herren SALE
+
+zum Damen SALE
+
+zum Kinder SALE
+
+[zu allen Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?itemOrigin=StartseiteHW24&sort=newest)
+
+###
+
+Neue **Highlight-Farbe**
+
+ ###
+
+---
 
  ANTHRAZIT-
 WARNORANGE
@@ -10,72 +56,59 @@ WARNORANGE
 ---
 
  Die sportliche e.s.motion 2020 in neuer Farbkombination: Jacken, Westen und Hosen in anthrazit-warnorange
+---
 
 [alle Produkte](https://www.engelbert-strauss.de/e-s-motion-2020-anthrazit-warnorange/?itemorigin=StartseiteHW24)
 
 [neue Farbe entdecken](https://www.engelbert-strauss.de/neuheiten-e-s-motion-2020-anthrazit-warnorange?itemorigin=StartseiteHW24)
 
-**Wärmend** von Kopf bis Fuß
-
-----------
-
+ Neue
+Farbe
 ---
-
-###  Winter-
-handschuhe  ###
-
----
-
-[alle Winterhandschuhe](https://www.engelbert-strauss.de/f/arbeitshandschuhe/Besondere_Eigenschaften:Kaelteschutz/?itemorigin=StartseiteHW24)
-
-###  Winterschuhe  ###
-
----
-
-[alle Winterschuhe](https://www.engelbert-strauss.de/f/arbeitsschuhe/Form:Hoch_mid_,Stiefel_high_/Naesse-_Wetterschutz:wasserdicht_winddicht_atmungsaktiv_Membran_/?itemorigin=StartseiteHW24)
-
-###  Winter-
-accessoires  ###
-
----
-
-[alle Mützen](https://www.engelbert-strauss.de/s/suche?itemorigin=StartseiteHW24&query=winterm%c3%bctze)
-
-[alle Tücher / Schals](https://www.engelbert-strauss.de/s/suche?itemorigin=StartseiteHW24&query=schal)
 
 ###
 
-Die passende **Kleidung für jedes Wetter**
+Spezial-Workwear **für Eis & Schnee**
 
  ###
 
 ---
 
- Kälteschutz
+ Perfekt für winterliche Einsätze
+---
 
-###  WARME MIDLAYER
-& JACKEN  ###
+ e.s.trail snow
+==========
 
 ---
 
-[für Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Materialeigenschaften:Materialfunktion:Wasser_abweisend/Funktionsschicht:Waermeschicht/?itemorigin=StartseiteHW24)
+[alle Produkte](https://www.engelbert-strauss.de/s/suche?query=trail%20snow)
 
-[für Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Materialeigenschaften:Materialfunktion:Wasser_abweisend/Funktionsschicht:Waermeschicht/?itemorigin=StartseiteHW24)
+[Kollektion entdecken](https://www.engelbert-strauss.de/e-s-trail/)
 
-[für Kinder](https://www.engelbert-strauss.de/f/kinderbekleidung/Funktionsschicht:Waermeschicht/?itemorigin=StartseiteHW24)
-
- Wetterschutz
-
-###  WASSERDICHTE
-WORKWEAR  ###
-
+ 3 in 1 Funktionsjacke
 ---
 
-[für Herren](https://www.engelbert-strauss.de/f/arbeitskleidung-herren/Materialeigenschaften:Materialfunktion:Wasser_dicht/Funktionsschicht:Wetterschutzschicht/?itemorigin=StartseiteHW24)
+ \+ abnehmbare wärmende Innenjacke
 
-[für Damen](https://www.engelbert-strauss.de/f/arbeitskleidung-damen/Materialeigenschaften:Materialfunktion:Wasser_dicht/Funktionsschicht:Wetterschutzschicht/?itemorigin=StartseiteHW24)
+ 3 in 1 Funktionsjacke
+---
 
-[für Kinder](https://www.engelbert-strauss.de/f/kinderbekleidung/Funktionsschicht:Wetterschutzschicht/?itemorigin=StartseiteHW24)
+ \+ abnehmbare wärmende Innenjacke
+
+ 3 in 1 Funktionsjacke
+---
+
+ \+ abnehmbare wärmende Innenjacke
+
+ Funktionshose
+---
+
+ Funktionshose
+---
+
+ Funktionshose
+---
 
 ###
 
@@ -85,28 +118,94 @@ Noch was **für drunter?**
 
 ---
 
-[Herren](https://www.engelbert-strauss.de/f/funktionsunterwaesche/Herren_Damen_Kinder:Herren/?itemOrigin=StartseiteHW24)
+[für Damen](https://www.engelbert-strauss.de/f/funktionsunterwaesche-damen/?itemOrigin=StartseiteHW24)
 
-[zur Funktionswäsche](https://www.engelbert-strauss.de/f/funktionsunterwaesche/Herren_Damen_Kinder:Herren/?itemOrigin=StartseiteHW24)
+[für Herren](https://www.engelbert-strauss.de/f/funktionsunterwaesche/Herren_Damen_Kinder:Herren/?itemOrigin=StartseiteHW24)
 
-[Damen](https://www.engelbert-strauss.de/f/funktionsunterwaesche-damen/Herren_Damen_Kinder:Damen/?itemOrigin=StartseiteHW24)
-
-[zur Funktionswäsche](https://www.engelbert-strauss.de/f/funktionsunterwaesche-damen/Herren_Damen_Kinder:Damen/?itemOrigin=StartseiteHW24)
-
-[Socken](https://www.engelbert-strauss.de/funktionssocken/?itemOrigin=StartseiteHW24)
+[Funktions- unterwäsche](https://www.engelbert-strauss.de/f/funktionsunterwaesche/Herren_Damen_Kinder:Herren/?itemOrigin=StartseiteHW24)
 
 [alle Funktionssocken](https://www.engelbert-strauss.de/funktionssocken/?itemOrigin=StartseiteHW24)
 
+[Socken](https://www.engelbert-strauss.de/funktionssocken/?itemOrigin=StartseiteHW24)
+
 ###
 
-Moin **Hamburg!**
+Workwear **meets Fanwear**
 
  ###
 
 ---
 
-|###  Pop up store  ###<br/><br/>---<br/><br/> 09.01. - 15.02.2025 | Hamburg<br/><br/> In unseren Pop-up-Stores finden Sie alle   <br/>Strauss-Highlights - live, zum Anfassen & Anprobieren!<br/><br/>[<br/><br/>mehr Informationen<br/><br/>](https://www.engelbert-strauss.de/popupstore/popupstore_hamburg)|   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+ NFL Hoodie cotton
+---
+
+ Men
+
+ Ladies
+
+###  NFL X Strauss  ###
+
+---
+
+ Jetzt bereitmachen für den Super Bowl
+
+[für Herren](https://www.engelbert-strauss.de/nfl-x-strauss/)
+
+[für Damen](https://www.engelbert-strauss.de/nfl-x-strauss-damen/)
+
+[für Kinder](https://www.engelbert-strauss.de/nfl-x-strauss-kinder/)
+
+###  Super mario
+ X Strauss  ###
+
+---
+
+ Familienkollektion mit Fun-Faktor
+
+[für Herren](https://www.engelbert-strauss.de/super-mario-x-strauss/)
+
+[für Damen](https://www.engelbert-strauss.de/super-mario-x-strauss-damen/)
+
+[für Kinder](https://www.engelbert-strauss.de/super-mario-x-strauss-kinder/)
+
+###  Nur solange der Vorrat reicht!  ###
+
+---
+
+ Spare bis zu
+---
+
+ 42%
+---
+
+###
+
+Pop up Stores
+
+ ###
+
+---
+
+###  Pop up Stores  ###
+
+---
+
+ In unseren Pop-up-Stores finden Sie alle
+Strauss-Highlights - live, zum Anfassen & Anprobieren!
+
+ HAMBURG
+---
+
+ 09.01. - 15.02.2025
+
+[mehr Informationen](https://www.engelbert-strauss.de/popupstore/popupstore_hamburg)
+
+ STUTTGART
+---
+
+ 26.02. - 05.04.2025
+
+[mehr Informationen](https://www.engelbert-strauss.de/popupstore/popupstore_stuttgart)
 
 Druck & Stick
 
