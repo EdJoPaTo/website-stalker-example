@@ -35,8 +35,6 @@ RE2 + RE3 Uelzen - Celle - Hannover
 
 RE3/RB31 Hamburg - Lüneburg - Uelzen
 
-[12.01.2025 - 20.01.2025 RE3/RB31: verschiedene nächtliche Haltausfälle - Ersatzverkehr mit Bussen -](https://www.der-metronom.de/baustellen/re3-rb31-2/)
-
 [20.01.2025 - 27.01.2025 RE3/RB31: verschiedene Haltausfälle Bardowick, Radbruch, Ashausen, Maschen und Meckelfeld](https://www.der-metronom.de/baustellen/re3-rb31-verschiedene-haltausfaelle-bardowick-radbruch-ashausen-maschen-und-meckelfeld/)
 
 [27.01.2025 - 03.02.2025 RE3/RB31: diverse Teilausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re3-rb31-diverse-teilausfaelle-und-fahrzeitenaenderungen/)

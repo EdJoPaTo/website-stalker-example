@@ -54,4 +54,4 @@ Voller Einblick
 
 Wenn es dich interessiert, wie genau das Thema Verantwortungseigentum in der WEtell Satzung geregelt ist, klicke auf den folgenden Link und lade unsere Satzung herunter.
 
-[Hier geht's zu unserer Satzung!](https://www.wetell.de/downloads/veroeffentlichungen/2022-Satzung_Anteile_Purpose.pdf)
+[Hier geht's zu unserer Satzung!](https://www.wetell.de/downloads/veroeffentlichungen/Satzung_WEtell_GmbH.pdf)
