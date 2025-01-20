@@ -19,8 +19,8 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
  Uelzen - 20.01.2025
 
-Aufgrund von Signalstörungen zwischen Nordstemmen und Göttingen kommt es bei der metronom-Linie RE2 zu Verspätungen und zu (Teil-)Ausfällen.
-Die Halte Northeim und Nörten-Hardenberg werden wieder angefahren. Informiert euch daher vor Fahrtantritt und plant mehr Zeit einBitte erkundigt euch in...
+Aufgrund von Signalstörungen zwischen Nordstemmen und Göttingen kam es bei der metronom-Linie RE2 zu hohen Verspätungen und zu (Teil-)Ausfällen.
+Die Halte Northeim und Nörten-Hardenberg werden wieder inzwischen angefahren. Durch die Auswirkungen der Störungen kann es weiterhin zu Verspätungen...
 
 [Instandhaltung an den Gleisen: vom 16.01. – 23.01. 2025 leichte Einschränkungen auf der Linie RE4 / RB41 zwischen Harburg-Buchholz-Rotenburg-Bremen](https://www.der-metronom.de/aktuell/instandhaltung-an-den-gleisen-vom-16-01---23-01-2025-leichte-einschraenkungen-auf-der-linie-re4-rb41-zwischen-harburg-buchholz-rotenburg-bremen/)
 
