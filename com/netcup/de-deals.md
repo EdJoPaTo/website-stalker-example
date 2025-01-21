@@ -10,55 +10,15 @@ Mach dich bereit, deine Ideen in die Tat umzusetzen
 
 Vom **28. Januar, 10 Uhr** (MEZ) bis zum **29. Januar, 10 Uhr** (MEZ), hast du die Gelegenheit, das passende Produkt für dein neues Web-Projekt zu ergattern.
 
-Das erwartet dich:
+Das erwartet dichf:
 
-**Bis zu 74 % Rabatt auf ausgewählte Domains**
+**Bis zu 72 % Rabatt auf ausgewählte Domains**
 
 Sichere dir deine ideale Domain zu einem dauerhaft günstigen Preis, ohne automatische Erhöhung nach einem Jahr.
 
 **Bis zu 50 % Rabatt auf Webhosting-Tarife**
 
-Wähle den für dich passende Webhosting-Tarif, und erwecke deine Vision zum Leben.
-
-**Flashdeal: Zusätzliches Angebot für kurze Zeit**
-
-Sollte dir das Angebot nicht ausreichen, hast du am 28.01. zusätzlich die Möglichkeit, ein weiteres zeitlich begrenztes Angebot on top zu ergattern. Abonniere dazu unseren [RSS Feed](https://www.netcup.com/special-offers.xml?locale=de) oder [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), um den Flashdeal nicht zu verpassen.
-
-Bleibe am Laufenden
-----------
-
-Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media, um keine Deals oder Neuigkeiten zu verpassen.
-
-* [Instagram](https://www.instagram.com/netcup.official)
-
-* [Mastodon](https://netcup.cafe/@netcup)
-
-* [Facebook](https://www.facebook.com/netcup/)
-
-* [X](https://x.com/netcup)
-
-Wieso netcup?
-----------
-
-Dauer-Tiefpreis
-----------
-
-Bei netcup stehen Kostentransparenz und Verlässlichkeit an erster Stelle. Unsere Preise sind von Anfang an fair und klar kalkuliert – ohne versteckte Gebühren oder unerwartete Erhöhungen. Sie bleiben auch nach dem ersten Jahr unverändert.
-
-Zufriedenheitsgarantie
-----------
-
-Solltest du innerhalb von 30 Tagen nach der Bestellung mit deinem Produkt nicht zufrieden sein, kannst du diese zurückgeben und du erhältst die komplette Grundgebühr (Preis pro Monat mal Abrechnungsperiode) zurückerstattet.
-
-Ökostrom
-----------
-
-Wir setzen auf umweltfreundliche Technologien durch die Nutzung von Ökostrom aus Wasserkraft und energieeffizienter Hardware. Durch den Einsatz stromsparender Prozessoren und andere optimierte Komponenten wird weiterer Stromverbrauch und Kosten reduziert.
-
-Kosteneffizienz
-----------
-
-Wir bieten wettbewerbsfähige Preise mit transparenten Kostenstrukturen und regelmäßigen Rabattaktionen, was ein einzigartiges Preis-Leistungs-Verhältnis für dich sicherstellt. Somit hast du bei uns immer den besten Preis!
+Wähle den für dich passendne Webhosting-Tarif, und erwecke deine Vision zum Leben.
 
 Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
