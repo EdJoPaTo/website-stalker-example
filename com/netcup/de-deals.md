@@ -18,7 +18,7 @@ Mach dich bereit, deine Ideen in die Tat umzusetzen - die nächste Aktion starte
 
 * ### Bis zu 50 % Rabatt auf Webhosting-Tarife ###
 
-  Wähle den für dich passende Webhosting-Tarif, und erwecke deine Vision zum Leben.
+  Wähle den für dich passenden Webhosting-Tarif, und erwecke deine Vision zum Leben.
 
 * ### Flashdeal: Zusätzliches Angebot für kurze Zeit ###
 
