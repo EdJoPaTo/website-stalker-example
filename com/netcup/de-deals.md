@@ -5,6 +5,21 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
+Mach dich bereit, deine Ideen in die Tat umzusetzen
+----------
+
+Vom **28. Januar, 10 Uhr** (MEZ) bis zum **29. Januar, 10 Uhr** (MEZ), hast du die Gelegenheit, das passende Produkt für dein neues Web-Projekt zu ergattern.
+
+Das erwartet dichf:
+
+**Bis zu 72 % Rabatt auf ausgewählte Domains**
+
+Sichere dir deine ideale Domain zu einem dauerhaft günstigen Preis, ohne automatische Erhöhung nach einem Jahr.
+
+**Bis zu 50 % Rabatt auf Webhosting-Tarife**
+
+Wähle den für dich passendne Webhosting-Tarif, und erwecke deine Vision zum Leben.
+
 Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
 
 netcup Deals - FAQ
