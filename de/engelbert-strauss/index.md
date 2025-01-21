@@ -180,7 +180,7 @@ Workwear **meets Fanwear**
 
 ###
 
-Pop up Stores
+Pop up **Stores**
 
  ###
 
