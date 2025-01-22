@@ -37,7 +37,7 @@ Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media,
 
 * [X](https://x.com/netcup)
 
-Tipp: Abonniere auch unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp-](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w) oder [Telegram-Kanal](https://t.me/netcupofficalint), um stets über alle aktuellen Deals informiert zu bleiben!
+Tipp: Abonniere auch unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp-](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w) oder [Telegram-Kanal](https://t.me/netcupoffical), um stets über alle aktuellen Deals informiert zu bleiben!
 
 Wieso netcup?
 ----------
@@ -125,7 +125,7 @@ Ein Upgrade bestehender Produkte oder Verträge auf Aktionsprodukte ist leider n
 
 ### Was ist ein Flashdeal und wie lange bleibt dieser verfügbar? ###
 
-Bei Flashdeals handelt es sich zusätzliche, attraktive „Blitz-Angebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 1 - 2 Stunden. Du erkennst einen Flashdeal am speziellen Blitz-Icon.
+Bei Flashdeals handelt es sich um zusätzliche, attraktive „Blitz-Angebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 1 - 2 Stunden. Du erkennst einen Flashdeal am speziellen Blitz-Icon.
 
 ### Wie erfahre ich es, wenn ein Flashdeal verfügbar ist? ###
 
