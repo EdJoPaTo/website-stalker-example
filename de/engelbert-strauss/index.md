@@ -190,7 +190,7 @@ Pop up **Stores**
 
 ---
 
- In unseren Pop-up-Stores finden Sie alle
+ In unseren Pop up Stores finden Sie alle
 Strauss-Highlights - live, zum Anfassen & Anprobieren!
 
  HAMBURG
