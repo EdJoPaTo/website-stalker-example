@@ -37,7 +37,7 @@ Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media,
 
 * [X](https://x.com/netcup)
 
-Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), um stets über alle aktuellen Deals informiert zu bleiben!
+Tipp: Abonniere auch unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp-](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w) oder [Telegram-Kanal](https://t.me/netcupofficalint), um stets über alle aktuellen Deals informiert zu bleiben!
 
 Wieso netcup?
 ----------
