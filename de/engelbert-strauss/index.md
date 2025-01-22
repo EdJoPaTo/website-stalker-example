@@ -160,7 +160,7 @@ Workwear **meets Fanwear**
 
 ---
 
- Familienkollektion mit Fun-Faktor
+ Power-Up für Super Mario-Fans
 
 [für Herren](https://www.engelbert-strauss.de/super-mario-x-strauss/)
 
