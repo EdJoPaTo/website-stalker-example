@@ -22,7 +22,7 @@ Mach dich bereit, deine Ideen in die Tat umzusetzen - die nächste Aktion starte
 
 * ### Flashdeal: Zusätzliches Angebot für kurze Zeit ###
 
-  Am 28.01. kannst du ein weiteres Angebot ergattern. Abonniere unseren RSS-Feed oder WhatsApp-Kanal, um es nicht zu verpassen.
+  Am 28.01. kannst du ein weiteres Angebot ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um es nicht zu verpassen.
 
 Bleibe am Laufenden
 ----------
