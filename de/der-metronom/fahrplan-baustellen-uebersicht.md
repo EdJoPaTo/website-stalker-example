@@ -43,8 +43,6 @@ RE3/RB31 Hamburg - Lüneburg - Uelzen
 
 RE4/RB41 Bremen - Rotenburg - Hamburg
 
-[16.01.2025 - 23.01.2025 RE4/RB41: Teilausfälle, Haltausfälle und Fahrzeitenänderungen](https://www.der-metronom.de/baustellen/re4-rb41-teilausfaelle-haltausfaelle-und-fahrzeitenaenderungen/)
-
 [27.01.2025 - 29.01.2025 RE4/RB41: nächtlicher Teilausfall Rotenburg (W.) \<\> Bremen Hbf und Fahrzeitenänderung Hamburg-Harburg \> Bremen Hbf](https://www.der-metronom.de/baustellen/re4-rb41-naechtlicher-teilausfall-rotenburg-w-bremen-hbf-und-fahrzeitenaenderung-hamburg-harburg-bremen-hbf/)
 
 [05.02.2025 - 10.02.2025 RB41: nächtliche Instandhaltungsarbeiten](https://www.der-metronom.de/baustellen/rb41-naechtliche-instandhaltungsarbeiten/)
