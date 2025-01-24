@@ -22,15 +22,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 Bauarbeiten auf der Strecke zwischen Winsen und Lüneburg – Ersatzverkehr und Änderungen im Fahrplan
 Uelzen, 22.01.2025 – Pendlerinnen und Pendler sowie Reisende müssen sich in der ersten Februarhälfte auf Einschränkungen im Zugverkehr der metronom Eisenbahngesellschaft einstellen. Grund dafür...
 
-[Instandhaltung an den Gleisen: vom 16.01. – 23.01. 2025 leichte Einschränkungen auf der Linie RE4 / RB41 zwischen Harburg-Buchholz-Rotenburg-Bremen](https://www.der-metronom.de/aktuell/instandhaltung-an-den-gleisen-vom-16-01---23-01-2025-leichte-einschraenkungen-auf-der-linie-re4-rb41-zwischen-harburg-buchholz-rotenburg-bremen/)
-
- Bremen, Buchholz, Harburg - 02.01.2025
-
-Liebe Fahrgäste,
-damit die Züge auch künftig ungehindert fahren können, müssen die Gleisanlagen zwischen Bremen-Buchholz-Hamburg regelmäßig gewartet und instandgesetzt werden.
-Dies erfolgt vom 16.01. – 23.01. 2025 auf den metronom-Linien RE4 und RB41.
-Um die Wartung und Instandhaltung...
-
 [Lüneburg Gleis 2/3: Erneuerung des Aufzuges - Barrierefrei unterwegs](https://www.der-metronom.de/aktuell/lueneburg-gleis-2-3-erneuerung-des-aufzuges-barrierefrei-unterwegs/)
 
  Uelzen - 13.09.2024
