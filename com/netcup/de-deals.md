@@ -37,7 +37,7 @@ Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media,
 
 * [X](https://x.com/netcup)
 
-Tipp: Abonniere auch unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp-](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w) oder [Telegram-Kanal](https://t.me/netcupoffical), um stets über alle aktuellen Deals informiert zu bleiben!
+Tipp: Abonniere auch unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp-](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w) oder [Telegram-Kanal](https://t.me/netcupofficalint), um stets über alle aktuellen Deals informiert zu bleiben!
 
 Wieso netcup?
 ----------
@@ -122,6 +122,19 @@ Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nac
 ### Kann ich bestehende Produkte / Verträge auf Aktionen upgraden? ###
 
 Ein Upgrade bestehender Produkte oder Verträge auf Aktionsprodukte ist leider nicht möglich.
+
+### Kann ich Aktionsprodukte später auch auf größere, reguläre Produkte upgraden? ###
+
+Für manche Produkte, die zu Regulär-Preisen über unsere Website gekauft wurden, ist ein [Upgrade](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade) innerhalb derselben Produktgruppe und Generation möglich.
+Upgrades von Produkten, die innerhalb einer Aktion gekauft wurden, sind jedoch nicht möglich. Solltest du zu einem späteren Zeitpunkt bemerken, dass dein gebuchter Tarif doch nicht ausreicht, kannst du den Tarif regulär kündigen und einen neuen direkt über unsere Website bestellen.
+
+### Wie lange dauert es, bis mein bestelltes Produkt verfügbar ist? ###
+
+Solltest du erstmalig bei netcup bestellen, muss zunächst deine Identität nachgewiesen und bestätigt werden. Dieser Verifizierungsprozess ist ein wichtiges Sicherheitsinstrument, um mögliche Betrugsfälle zu vermeiden und kann nicht übersprungen werden. Du erhältst unmittelbar nach der Bestellung weitere Informationen zur Verifizierung per E-Mail.
+
+Das bestellte Produkt wird daraufhin unmittelbar oder unter Umständen durch eine:n Mitarbeiter:in von netcup eingerichtet. Für Bestandskunden entfällt der erste Schritt.
+
+Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter Nachfrage unter Umständen etwas dauern kann. Wir sind sehr bemüht, jedem Kunden das bestmögliche Service zu bieten und danken für das Verständnis.
 
 ### Was ist ein Flashdeal und wie lange bleibt dieser verfügbar? ###
 

@@ -253,7 +253,7 @@ Nein, du benötigst keine neue SIM-Karte. Eventuell brauchst du aber eine andere
 1. Du kannst eine kleine Karte mit den mitgelieferten Rahmen vergrößern. Falls dir diese nicht mehr vorliegen, mach dich auf den Weg zu deinem Elektrodealer um die Ecke. Dort findest du einen passenden Adapter.
 2. Du kannst eine größere Karte einfach verkleinern, indem du sie an den vorgestanzten Stellen herauslöst.
 
-Wenn du eine eSIM hast, musst du diese am alten Gerät entfernen und am Neuen aktivieren. Wichtig ist, dass du währenddessen eine aktive Internetverbindung z. B. über WLAN hast.
+Wenn du eine eSIM hast, musst du diese unbedingt zuerst vom alten Gerät löschen, um sie auf dem neuen Gerät installieren zu können. Wichtig ist, dass sich beide Geräte währenddessen in einem stabilen WLAN befinden.
 
 #### Was ist RCS und wie kann ich diese Funktion bei WEtell nutzen? ####
 
