@@ -15,6 +15,12 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE3/RB31: Betriebsstörung im Bereich Lüneburg Nord / Verspätungen und (Teil-)Ausfälle!](https://www.der-metronom.de/aktuell/betriebsstoerung-im-bereich-lueneburg-nord/)
+
+ Uelzen - 27.01.2025
+
+Das Elektronische Stellwerk (ESTW) Lüneburg Nord ist derzeit außer Betrieb. Dadurch sind keine Bedienhandlungen möglich. Die Züge werden daher entweder zurückgehalten oder, wenn möglich, vorzeitig zurück nach Hamburg Hbf oder Uelzen gewendet. Es kommt auf der Strecke Hamburg - Lüneburg zu hohen...
+
 [Baustellenbedingte Fahrplanabweichungen im Februar: Bauarbeiten zwischen Winsen und Lüneburg](https://www.der-metronom.de/aktuell/baustellenbedingte-fahrplanabweichungen-im-februar-bauarbeiten-zwischen-winsen-und-lueneburg/)
 
  Uelzen - 22.01.2025
