@@ -15,14 +15,6 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
-[RE3/RB31: Betriebsstörung im Bereich Lüneburg Nord aufgehoben](https://www.der-metronom.de/aktuell/betriebsstoerung-im-bereich-lueneburg-nord/)
-
- Uelzen - 27.01.2025
-
-Die Störung ist aufgehoben. Es kann jedoch noch zu Nachwirkungen in Form von leichten Verspätungen kommen.
-Wir bitten um euer Verständnis und informieren euch, sobald es Neuigkeiten gibt.
-Bitte erkundigt euch in den elektronischen Fahrplanauskünften auf ↗ unserer Website, in der ↗...
-
 [Baustellenbedingte Fahrplanabweichungen im Februar: Bauarbeiten zwischen Winsen und Lüneburg](https://www.der-metronom.de/aktuell/baustellenbedingte-fahrplanabweichungen-im-februar-bauarbeiten-zwischen-winsen-und-lueneburg/)
 
  Uelzen - 22.01.2025
