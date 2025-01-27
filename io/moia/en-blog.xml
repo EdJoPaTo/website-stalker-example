@@ -6,6 +6,22 @@
 		<description>The MOIA blog you will learn everything that moves the MOIA community and get exciting insights into the world of MOIA.</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>What Drives Acceptance for Autonomous Driving?</title>
+			<link>https://www.moia.io/en/blog/what-drives-acceptance-for-autonomous-driving</link>
+			<content:encoded><![CDATA[<html>
+	<head>
+	</head>
+	<body>
+		<div>
+			<span>
+				28.01.2025
+			</span>
+			PD Dr.-Ing. Martin Kagerbauer researches new mobility concepts and mobility behavior at the Karlsruhe Institute of Technology (KIT). In this interview, he explains how both topics have evolved over the past ten years, what factors influence the choice of transportation, and how to inspire users to embrace autonomous driving.
+		</div>
+	</body>
+</html>]]></content:encoded>
+		</item>
+		<item>
 			<title>Autonomous ridepooling in Hamburg: MOIA starts tests with users</title>
 			<link>https://www.moia.io/en/blog/autonomous-ridepooling-in-hamburg-moia-starts-tests-with-users</link>
 			<content:encoded><![CDATA[<html>
@@ -129,22 +145,6 @@
 				08.03.2024
 			</span>
 			The benefits of ridepooling are being increasingly utilised. Between 2019 and 2022, the number of on-demand transport services in Germany grew to more than 80 - a record number. The potential is not only recognisable in Germany, but throughout Europe. We provide an overview of the European market.
-		</div>
-	</body>
-</html>]]></content:encoded>
-		</item>
-		<item>
-			<title>MOIA Mobility Consulting: Can ridepooling improve the mobility system in the Styrian Central Region?</title>
-			<link>https://www.moia.io/en/blog/moia-mobility-consulting-can-ridepooling-improve-the-mobility-system-in-the-styrian-central-region</link>
-			<content:encoded><![CDATA[<html>
-	<head>
-	</head>
-	<body>
-		<div>
-			<span>
-				10.02.2024
-			</span>
-			With the help of various analysis tools, we evaluate how ridepooling services such as MOIA work in the mobility system of a new region and contribute to sustainable mobility. But how does such a process work? We will show you using our project in the Styrian Central Region in Austria.
 		</div>
 	</body>
 </html>]]></content:encoded>

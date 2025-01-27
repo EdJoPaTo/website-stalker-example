@@ -121,7 +121,7 @@ Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nac
 
 ### Kann ich bestehende Produkte / Verträge auf Aktionen upgraden? ###
 
-Ein Upgrade bestehender Produkte oder Verträge auf Aktionsprodukte ist leider nicht möglich.
+Nein, ein Upgrade bestehender Produkte oder Verträge auf Aktionsprodukte ist nicht möglich.
 
 ### Kann ich Aktionsprodukte später auch auf größere, reguläre Produkte upgraden? ###
 
