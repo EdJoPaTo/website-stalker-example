@@ -489,6 +489,66 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
+[Eve Thermo Control](/en/eve-thermo-control)
+
+ Temperature Sensor & Controller for Eve Thermo (Matter)
+
+ Learn more
+
+Requires iOS/iPadOS 17.6 (or newer); Apple TV 4K (2nd gen.), Apple TV 4K (3rd gen. 128 GB), HomePod (2nd gen.) or HomePod mini); Eve Thermo (4th gen.)
+
+Matter
+
+Thread
+
+Heating & Air Quality
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
+
+Not available in your country
+----------
+
+ Select your country
+
+[Eve Thermo Control](/en/eve-thermo-control)
+
+ Temperature Sensor & Controller for Eve Thermo (Matter)
+
+* Automatically optimize your heating based on the temperature at your favorite spot in the room: Eve Thermo Control, in combination with Eve Thermo, will handle the heating control – conveniently, efficiently and accurately.
+* Control all your radiators in the room with a single Eve Thermo Control.
+* Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
+* [Visit product page](/en/eve-thermo-control)
+
 [Eve Weather](/en/eve-weather)
 
  Connected Weather Station
@@ -1063,6 +1123,66 @@ Not available in your country
 * Effortlessly set automations to open and close your blinds according to your daily routine.
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
+
+[Eve Thermo Control](/en/eve-thermo-control)
+
+ Temperature Sensor & Controller for Eve Thermo (Matter)
+
+ Learn more
+
+Requires iOS/iPadOS 17.6 (or newer); Apple TV 4K (2nd gen.), Apple TV 4K (3rd gen. 128 GB), HomePod (2nd gen.) or HomePod mini); Eve Thermo (4th gen.)
+
+Matter
+
+Thread
+
+Heating & Air Quality
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
+
+Not available in your country
+----------
+
+ Select your country
+
+[Eve Thermo Control](/en/eve-thermo-control)
+
+ Temperature Sensor & Controller for Eve Thermo (Matter)
+
+* Automatically optimize your heating based on the temperature at your favorite spot in the room: Eve Thermo Control, in combination with Eve Thermo, will handle the heating control – conveniently, efficiently and accurately.
+* Control all your radiators in the room with a single Eve Thermo Control.
+* Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
+* [Visit product page](/en/eve-thermo-control)
 
 [Eve Weather](/en/eve-weather)
 

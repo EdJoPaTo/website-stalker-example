@@ -10,7 +10,7 @@
 
 Previous page Next page 1 3A Fast Charging 2 90° Right Angle Design 3 Broad Compatibility Aluminum angle connector With the angle plug, you can easily confirm your mobile phone...
 
-### [UGREEN 18W 2 Pack USB C to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
+### [UGREEN 18W 2 Pack USB A to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
 
