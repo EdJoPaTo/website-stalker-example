@@ -371,7 +371,7 @@ Mail
 
 [info@strauss.de](mailto:info@strauss.de)
 
-[ Newsletter-Anmeldung ]() [](https://www.engelbert-strauss.de/Service/Newsletter)
+[ Newsletter-Anmeldung ]()
 
 ###  STRAUSS FOLGEN  ###
 

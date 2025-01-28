@@ -15,6 +15,14 @@ Alle wichtigen Infos vor deiner Fahrt bekommen.
 
 [↗ Bahnhof auswählen](https://www.der-metronom.de/fahrplan/wann-faehrt-mein-metronom/)
 
+[RE2: Einschränkungen bei Sarstedt](https://www.der-metronom.de/aktuell/re2-einschraenkungen-bei-sarstedt/)
+
+ Uelzen - 28.01.2025
+
+Aufgrund eines gefährlichen Ereignisses bei Barnten ist die Strecke zwischen Hannover Hbf und Göttingen in beide Richtungen im Abschnitt Barnten – Sarstedt gesperrt.
+Dies führt zu Verspätungen und möglichen Teilausfällen im Zugverkehr.
+Züge aus Göttingen kommend wenden bereits in Elze(Han) und...
+
 [Baustellenbedingte Fahrplanabweichungen im Februar: Bauarbeiten zwischen Winsen und Lüneburg](https://www.der-metronom.de/aktuell/baustellenbedingte-fahrplanabweichungen-im-februar-bauarbeiten-zwischen-winsen-und-lueneburg/)
 
  Uelzen - 22.01.2025
