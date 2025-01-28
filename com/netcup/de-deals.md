@@ -3,26 +3,307 @@ netcup Deals
 
 Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
 
-Die nächste Aktion startet in Kürze
-----------
+* Alle (0)
 
-Mach dich bereit, deine Ideen in die Tat umzusetzen - die nächste Aktion startet am **28. Januar, 10 Uhr (MEZ)** und bietet dir **24h** lang die Möglichkeit, **das passende Produkt für dein neues Web-Projekt** zu ergattern.
+Webhosting
 
-### **Das erwartet dich:** ###
+### Webhosting 1000 JAN25 ###
 
-* ### Bis zu 74 % Rabatt auf ausgewählte Domains ###
+ 50 % Rabatt
 
-  Sichere dir deine ideale Domain zu einem dauerhaft günstigen Preis, ohne automatische Erhöhung nach einem Jahr.
+statt 1,82 €
 
-* ### Bis zu 50 % Rabatt auf Webhosting-Tarife ###
+* SSH Zugang vorhanden
+* 1 .de-Domain oder 1 Alternativdomain inklusive
+* 50 GB SSD Speicherplatz
 
-  Wähle den für dich passenden Webhosting-Tarif, und erwecke deine Vision zum Leben.
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
 
-* ### Flashdeal: Zusätzliches Angebot für kurze Zeit ###
+pro Monat
 
-  Am 28.01. kannst du ein weiteres Angebot ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um es nicht zu verpassen.
+0,91 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-jan25)
+
+Webhosting
+
+### Webhosting 2000 JAN25 ###
+
+ 20 % Rabatt
+
+statt 2,73 €
+
+* SSH Zugang vorhanden
+* 3 .de-Domain oder 1 Alternativdomain inklusive
+* 150 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+2,17 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-jan25)
+
+Webhosting
+
+### Webhosting 4000 JAN25 ###
+
+ 42 % Rabatt
+
+statt 5,48 €
+
+* SSH Zugang vorhanden
+* 6 .de-Domain oder 2 Alternativdomain inklusive
+* 500 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+3,16 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-jan25)
+
+Webhosting
+
+### Webhosting 8000 JAN25 ###
+
+ 42 % Rabatt
+
+statt 8,91 €
+
+* SSH Zugang vorhanden
+* 12 .de-Domain oder 3 Alternativdomain inklusive
+* 1000 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+5,21 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-8000-nue-jan25)
+
+Domains
+
+### .de Domain JAN25 ###
+
+ 69 % Rabatt
+
+statt 0,35 €
+
+* DNSSEC, API
+* 2 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,11 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.de-domain-jan25)
+
+Domains
+
+### .com Domain JAN25 ###
+
+ 18 % Rabatt
+
+statt 1,16 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,95 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.com-domain-jan25)
+
+Domains
+
+### .eu Domain JAN25 ###
+
+ 46 % Rabatt
+
+statt 0,66 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,35 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/en/domain/aktion-.eu-domain-jan25)
+
+Domains
+
+### .at Domain JAN25 ###
+
+ 18 % Rabatt
+
+statt 0,88 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,72 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.at-domain-jan25)
+
+Domains
+
+### .ch Domain JAN25 ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,50 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.ch-domain-jan25)
+
+Domains
+
+### .li Domain JAN25 ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,50 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.li-domain-jan25)
+
+Domains
+
+### .cloud Domain JAN25 ###
+
+ 14 % Rabatt
+
+statt 1,95 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+1,66 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.cloud-domain-jan25)
+
+Domains
+
+### .lu Domain JAN25 ###
+
+ 14 % Rabatt
+
+statt 2,52 €
+
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+2,17 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.lu-domain-jan25)
+
+Domains
+
+### .family Domain JAN25 ###
+
+ 27 % Rabatt
+
+statt 3,94 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+2,89 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.family-domain-jan25)
 
 Bleibe am Laufenden
 ----------
