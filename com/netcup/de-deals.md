@@ -7,6 +7,32 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Alle (0)
 
+VPS
+
+ FLASH DEAL
+
+### VPS 1000 G11 JAN25 ###
+
+ \+ 100 % SSD / vergünstigter Preis
+
+statt 6,60 €
+
+* 4 vCore (x86)
+* 8 GB ECC RAM
+* 512 GB SSD (statt 256 GB)
+
+* Traffic inklusive
+* Standorte: NUE
+* Mindestlaufzeit: 1 Monat
+
+pro Monat
+
+5,75 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-jan25)
+
 Webhosting
 
 ### Webhosting 1000 JAN25 ###
@@ -166,7 +192,7 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/en/domain/aktion-.eu-domain-jan25)
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.eu-domain-jan25)
 
 Domains
 
@@ -304,6 +330,20 @@ pro Monat
 (inkl. 0% MwSt.)
 
 [Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.family-domain-jan25)
+
+### **Deine Deals im Überblick:** ###
+
+* ### Bis zu 74 % Rabatt auf ausgewählte Domains ###
+
+  Sichere dir deine ideale Domain zu einem dauerhaft günstigen Preis, ohne automatische Erhöhung nach einem Jahr.
+
+* ### Bis zu 50 % Rabatt auf Webhosting-Tarife ###
+
+  Wähle den für dich passenden Webhosting-Tarif, und erwecke deine Vision zum Leben.
+
+* ### Flashdeal: Zusätzliches Angebot für kurze Zeit ###
+
+  Am 28.01. kannst du ein weiteres Angebot ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um es nicht zu verpassen.
 
 Bleibe am Laufenden
 ----------

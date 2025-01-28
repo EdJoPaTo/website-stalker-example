@@ -234,6 +234,6 @@ Your way.
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
 
-Dispatch in 2 - 3 working days
+Dispatch in 1 - 2 working days
 
 [Configure](/products/starlite)
