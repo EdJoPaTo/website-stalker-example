@@ -7,32 +7,6 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Alle (0)
 
-VPS
-
- FLASH DEAL
-
-### VPS 1000 G11 JAN25 ###
-
- \+ 100 % SSD / vergünstigter Preis
-
-statt 6,60 €
-
-* 4 vCore (x86)
-* 8 GB ECC RAM
-* 512 GB SSD (statt 256 GB)
-
-* Traffic inklusive
-* Standorte: NUE
-* Mindestlaufzeit: 1 Monat
-
-pro Monat
-
-5,75 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-jan25)
-
 Webhosting
 
 ### Webhosting 1000 JAN25 ###
