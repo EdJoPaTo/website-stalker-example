@@ -3,13 +3,11 @@ netcup Deals
 
 Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
 
 * Alle (0)
 
 Webhosting
-
- Deal abgelaufen
 
 ### Webhosting 1000 JAN25 ###
 
@@ -30,9 +28,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-Webhosting
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-jan25)
 
- Deal abgelaufen
+Webhosting
 
 ### Webhosting 2000 JAN25 ###
 
@@ -53,101 +51,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-Domains
-
- Deal abgelaufen
-
-### .de Domain JAN25 ###
-
- 69 % Rabatt
-
-statt 0,35 €
-
-* DNSSEC, API
-* 2 € Setup Gebühr
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-* Für Neu- und Bestandskunden
-
-pro Monat
-
-0,11 €
-
-(inkl. 0% MwSt.)
-
-Domains
-
- Deal abgelaufen
-
-### .at Domain JAN25 ###
-
- 18 % Rabatt
-
-statt 0,88 €
-
-* DNSSEC, API
-* 0 € Setup Gebühr
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-* Für Neu- und Bestandskunden
-
-pro Monat
-
-0,72 €
-
-(inkl. 0% MwSt.)
-
-Domains
-
- Deal abgelaufen
-
-### .li Domain JAN25 ###
-
- 74 % Rabatt
-
-statt 1,93 €
-
-* DNSSEC, API
-* 0 € Setup Gebühr
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-* Für Neu- und Bestandskunden
-
-pro Monat
-
-0,50 €
-
-(inkl. 0% MwSt.)
-
-Domains
-
- Deal abgelaufen
-
-### .cloud Domain JAN25 ###
-
- 14 % Rabatt
-
-statt 1,95 €
-
-* DNSSEC, API
-* 0 € Setup Gebühr
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-* Für Neu- und Bestandskunden
-
-pro Monat
-
-1,66 €
-
-(inkl. 0% MwSt.)
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-jan25)
 
 Webhosting
-
- Deal abgelaufen
 
 ### Webhosting 4000 JAN25 ###
 
@@ -168,9 +74,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-Webhosting
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-jan25)
 
- Deal abgelaufen
+Webhosting
 
 ### Webhosting 8000 JAN25 ###
 
@@ -191,9 +97,32 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-8000-nue-jan25)
+
 Domains
 
- Deal abgelaufen
+### .de Domain JAN25 ###
+
+ 69 % Rabatt
+
+statt 0,35 €
+
+* DNSSEC, API
+* 2 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,11 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.de-domain-jan25)
+
+Domains
 
 ### .com Domain JAN25 ###
 
@@ -214,9 +143,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-Domains
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.com-domain-jan25)
 
- Deal abgelaufen
+Domains
 
 ### .eu Domain JAN25 ###
 
@@ -237,9 +166,32 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.eu-domain-jan25)
+
 Domains
 
- Deal abgelaufen
+### .at Domain JAN25 ###
+
+ 18 % Rabatt
+
+statt 0,88 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,72 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.at-domain-jan25)
+
+Domains
 
 ### .ch Domain JAN25 ###
 
@@ -260,9 +212,55 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.ch-domain-jan25)
+
 Domains
 
- Deal abgelaufen
+### .li Domain JAN25 ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,50 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.li-domain-jan25)
+
+Domains
+
+### .cloud Domain JAN25 ###
+
+ 14 % Rabatt
+
+statt 1,95 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+1,66 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.cloud-domain-jan25)
+
+Domains
 
 ### .lu Domain JAN25 ###
 
@@ -282,9 +280,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-Domains
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.lu-domain-jan25)
 
- Deal abgelaufen
+Domains
 
 ### .family Domain JAN25 ###
 
@@ -304,6 +302,8 @@ pro Monat
 2,89 €
 
 (inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.family-domain-jan25)
 
 ### **Deine Deals im Überblick:** ###
 
