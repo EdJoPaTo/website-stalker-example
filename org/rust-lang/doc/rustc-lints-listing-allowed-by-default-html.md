@@ -510,7 +510,7 @@ warning: unknown lint: `fuzzy_provenance_casts`
   = note: the `fuzzy_provenance_casts` lint is unstable
   = note: see issue #130351 <https://github.com/rust-lang/rust/issues/130351> for more information
   = help: add `#![feature(strict_provenance_lints)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-01-07; consider upgrading it if it is out of date
+  = note: this compiler was built on 2025-01-27; consider upgrading it if it is out of date
   = note: `#[warn(unknown_lints)]` on by default
 
 ```
@@ -894,7 +894,7 @@ warning: unknown lint: `lossy_provenance_casts`
   = note: the `lossy_provenance_casts` lint is unstable
   = note: see issue #130351 <https://github.com/rust-lang/rust/issues/130351> for more information
   = help: add `#![feature(strict_provenance_lints)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-01-07; consider upgrading it if it is out of date
+  = note: this compiler was built on 2025-01-27; consider upgrading it if it is out of date
   = note: `#[warn(unknown_lints)]` on by default
 
 ```
@@ -2358,7 +2358,7 @@ warning: unknown lint: `unqualified_local_imports`
   |
   = note: the `unqualified_local_imports` lint is unstable
   = help: add `#![feature(unqualified_local_imports)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-01-07; consider upgrading it if it is out of date
+  = note: this compiler was built on 2025-01-27; consider upgrading it if it is out of date
   = note: `#[warn(unknown_lints)]` on by default
 
 ```
