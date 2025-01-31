@@ -377,7 +377,7 @@ Mail
 
 * [](https://www.facebook.com/StraussEurope/)
 * [](https://www.youtube.com/@strauss_europe)
-* [](https://www.instagram.com/engelbert_strauss)
+* [](https://www.instagram.com/strauss_europe/)
 
 ### Sprachauswahl ###
 
