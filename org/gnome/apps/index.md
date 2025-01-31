@@ -85,7 +85,6 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Komikku**Discover and read manga & comics](Komikku/)
 * [**Letterpress**Create beautiful ASCII art](Letterpress/)
 * [**Lorem**Generate placeholder text](Lorem/)
-* [**Metadata Cleaner**View and clean metadata in files](MetadataCleaner/)
 * [**Mousai**Identify songs in seconds](Mousai/)
 * [**Newsflash**Keep up with your feeds](NewsFlash/)
 * [**Obfuscate**Censor private information](Obfuscate/)
