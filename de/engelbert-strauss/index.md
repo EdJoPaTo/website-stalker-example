@@ -162,8 +162,6 @@ Workwear **meets Fanwear**
 
  Power-Up für Super Mario-Fans
 
-[für Herren](https://www.engelbert-strauss.de/super-mario-x-strauss/)
-
 [für Damen](https://www.engelbert-strauss.de/super-mario-x-strauss-damen/)
 
 [für Kinder](https://www.engelbert-strauss.de/super-mario-x-strauss-kinder/)
