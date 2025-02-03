@@ -44,7 +44,7 @@ With autonomous driving at our core, we’re rethinking urban mobility. Our self
 
    on both Google Play and the App Store.
 
-* 12,5k
+* 12.5k
 
   ###  virtual stops  ###
 
