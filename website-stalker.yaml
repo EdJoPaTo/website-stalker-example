@@ -42,14 +42,13 @@ sites:
           content_editors:
             - html_textify
 
-
   - url: https://archlinuxarm.org/forum/viewforum.php?f=3
     editors:
       - css_select: .forumbg
       - css_remove: img, .posts, .views, .lastpost, .pagination
       - regex_replace:
           pattern: '&amp;sid=[a-f\d]+'
-          replace: ''
+          replace: ""
       - html_url_canonicalize
       - html_markdownify
 
@@ -135,7 +134,7 @@ sites:
       - https://www.netcup.com/de/server/vserver-guenstig-qualitaet
       - https://www.netcup.com/de/server/vserver-images
     editors:
-      - css_select: '#main'
+      - css_select: "#main"
       - css_remove: img, svg, style, script, a:not([href]), .loading-placeholder
       - css_remove: article:has(section .submenu__item a.no-link-style) # nav
       - css_remove: .grid-container:has(input) # Local Block Storage Preisrechner
@@ -279,7 +278,7 @@ sites:
       - html_markdownify
       - regex_replace:
           pattern: ' *From [€\d., ]+\s*'
-          replace: ''
+          replace: ""
 
   - url:
       - https://frame.work/de/en
