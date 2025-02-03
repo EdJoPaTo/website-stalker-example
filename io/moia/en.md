@@ -59,6 +59,8 @@ With autonomous driving at our core, we’re rethinking urban mobility. Our self
 
  Safe, sustainable, and efficient, autonomous driving technology is paving the way for ridepooling’s next evolution. From vehicles to software, we make autonomous ridepooling a reality for your city.
 
+[Explore more](https://www.moia.io/en/solutions/autonomous-ridepooling)
+
 ###  Mobility Consulting  ###
 
  We can help you design scalable, sustainable, and impactful on-demand mobility strategies. With our Mobility Impact Analyzer (MIA) tool, you can simulate how on-demand mobility services like autonomous ridepooling will complement your public transportation network in the future.
@@ -72,7 +74,7 @@ With autonomous driving at our core, we’re rethinking urban mobility. Our self
 
    Hamburg is preparing for the most important global mobility event of the coming year: Today, the concept for the UITP Summit 2025 was officially presented.
 
-  [Learn more](https://www.moia.io/en/news-center/uitp-and-team-hamburg-present-their-concept-for-the-international-mobility-congress-2025-in-hamburg)
+  [Learn more](https://www.moia.io/en/news/uitp-and-team-hamburg-present-their-concept-for-the-international-mobility-congress-2025-in-hamburg)
 
 * ###  MOIA starts tests with users  ###
 
