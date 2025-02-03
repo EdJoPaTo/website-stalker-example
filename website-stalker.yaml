@@ -187,19 +187,6 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url:
-      - https://www.der-metronom.de/fahrplan/aktuelle-verkehrslage/
-      - https://www.der-metronom.de/fahrplan/baustellen-uebersicht/
-      - https://www.der-metronom.de/unternehmen/aktuelles/
-      - https://www.der-metronom.de/unternehmen/befoerderungsbedingungen/
-    ignore_error: true
-    editors:
-      - css_select: "#content"
-      - css_remove: "form, .module-form, script, figure, img, svg, hr, .breadcrumb, .image, .malfunction, a[title=weiterlesen], #routeContainer"
-      - css_flatten: a:not([href])
-      - html_url_canonicalize
-      - html_markdownify
-
   - url: https://events.ccc.de/calendar/
     editors:
       - css_select: .events-list
