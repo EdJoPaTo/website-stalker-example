@@ -43,8 +43,7 @@ Grünfunken
  mega fair
 ----------
 
-Bling, bling,
-geil!
+Gruppenfunk
 ==========
 
 Grünfunken
@@ -57,12 +56,11 @@ Mit echtem Service von Mensch zu Mensch.
 
 [Zu den Tarifen](https://www.wetell.de/tarife/)
 
-Neues Handy!? Kauf uns das nicht ab.
-Das nachhaltigste Handy ist das,
-das du bereits besitzt.
-Und wenn du doch eins brauchst?
+Ob Familie, WG oder Freundeskreis:
+Gemeinsam Grünfunken und Vorteil sichern.
+2 Euro weniger für jeden zusätzlichen Tarif.
 
-[NEUES HANDY ANGEBOT](https://www.wetell.de/tarif-mit-handy)
+[Gruppenfunk entdecken](https://www.wetell.de/tarife/gruppenfunk/)
 
 Lebe Nachhaltigkeit beim Mobilfunken.
 Wir haben klimapositive Tarife für dich.

@@ -116,6 +116,10 @@ Auf der einen Seite wollen wir die Leistungsvorteile aus den Sonderaktionen an e
 
 Unser Tarif Überschall verfügt bereits über eine höhere Downloadgeschwindigkeit. Hier kann und muss die Option also nicht gebucht werden.
 
+#### Gibt es Partnerkarten oder einen Familientarif? ####
+
+Ja, es gibt unseren Gruppenfunk: Sobald du mehr als ein Tarif in deinem Vertragskonto hast, erhältst du automatisch für jeden weiteren Tarif 2 Euro Rabatt. Mehr dazu unter [Gruppenfunk](https://www.wetell.de/tarife/gruppenfunk/).
+
 ### Rufnummernmitnahme und Wechsel ###
 
 #### Wie läuft die Rufnummernmitnahme ab? ####
@@ -367,3 +371,7 @@ Bei Freiminuten beträgt die Taktung 60/60. Das bedeutet, dass jede angebrochene
 Deine Kund\*innennummer findest du in der E-Mail mit dem Betreff: „Dein WEtell-Login“. Du erhältst diese wenige Tage nach deiner Bestellung.
 
 Kundennummer
+
+#### Wieso erscheint auf meiner Rechnung eine Gutschrift „Gruppenfunk“? ####
+
+Sobald du mehr als ein Tarif in deinem Vertragskonto hast, erhältst du automatisch pro zusätzlichem Tarif 2 Euro Rabatt. Mehr dazu siehe [Gruppenfunk](https://www.wetell.de/tarife/gruppenfunk).
