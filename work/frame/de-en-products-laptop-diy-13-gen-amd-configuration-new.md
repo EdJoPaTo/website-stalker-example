@@ -42,7 +42,7 @@ If you are a business customer, need more than five laptops per order, or have o
   * Webcam Module (1st Gen)
   * 13.5" 2256x1504 60Hz matte display
 
-   Some shipments will be paused during the Lunar New Year holiday from Jan 25 - Feb 2. Paused shipments will resume on Feb 3 and ship within seven business days.
+   Ships within five business days.
 
 * 7640U - 2.8K Display  €1,099
   * AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
@@ -51,7 +51,7 @@ If you are a business customer, need more than five laptops per order, or have o
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-   Some shipments will be paused during the Lunar New Year holiday from Jan 25 - Feb 2. Paused shipments will resume on Feb 3 and ship within seven business days.
+   Ships within five business days.
 
 * 7840U  6% Off  €1,289
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
@@ -59,7 +59,7 @@ If you are a business customer, need more than five laptops per order, or have o
   * Webcam Module (1st Gen)
   * 13.5" 2256 x 1504 60Hz matte display
 
-   Some shipments will be paused during the Lunar New Year holiday from Jan 25 - Feb 2. Paused shipments will resume on Feb 3 and ship within seven business days.
+   Ships within five business days.
 
 * 7840U - 2.8K Display  €1,429
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
@@ -68,7 +68,7 @@ If you are a business customer, need more than five laptops per order, or have o
   * 13.5" 2880x1920 120Hz 2.8K matte display
   * Note: display has rounded active area
 
-   Some shipments will be paused during the Lunar New Year holiday from Jan 25 - Feb 2. Paused shipments will resume on Feb 3 and ship within seven business days.
+   Ships within five business days.
 
 **Memory**
 
@@ -392,4 +392,4 @@ Close
 
  \+€140
 
- Some shipments will be paused during the Lunar New Year holiday from Jan 25 - Feb 2. Paused shipments will resume on Feb 3 and ship within seven business days. [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop orders
+ Ships within five business days. [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop orders
