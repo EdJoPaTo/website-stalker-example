@@ -7,7 +7,7 @@
 				FAQ
 			</h1>
 			<small>
-				Last change on 2024-06-25 • Created on 2020-07-02 • ID: CL-7B205
+				Last change on 2025-02-06 • Created on 2020-07-02 • ID: CL-7B205
 			</small>
 			<article>
 				<h2>
@@ -96,9 +96,43 @@
 				<h2>
 					What is the MTU setting for Cloud server network interfaces?
 				</h2>
+				<table>
+					<thead>
+						<tr>
+							<th>
+								Network interface
+							</th>
+							<th>
+								MTU (maximum transmission unit)
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								Public
+							</td>
+							<td>
+								1500 bytes
+							</td>
+						</tr>
+						<tr>
+							<td>
+								Private
+							</td>
+							<td>
+								1450 bytes
+							</td>
+						</tr>
+					</tbody>
+				</table>
 				<p>
-					Public network interfaces have an MTU (maximum transmission unit) of 1500 bytes.
-Private network interfaces have an MTU of 1450 bytes.
+					<strong>
+						Technical background:
+					</strong>
+				</p>
+				<p>
+					To separate the private networks from other public and private networks, we encapsulate each private network packet with additional headers (VXLAN Encapsulation) before transporting it over our infrastructure. To make room for these additional headers, the MTU size for private network interfaces is set to 1450 bytes.
 				</p>
 			</article>
 		</div>
