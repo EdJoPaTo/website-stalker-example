@@ -1,45 +1,18 @@
-Bis zu
+###  Ready for Super bowl!  ###
+
 ---
 
- 10%
----
-
- Bis zu
----
-
- 20%
----
-
- Bis zu
----
-
- 30%
----
-
- Bis zu
----
-
- 40%
----
-
- Bis zu
----
-
- 49%
----
-
- Sale
+ NFL X
+Strauss
 ----------
 
 ---
 
-zum Herren SALE
+[für Herren](https://www.engelbert-strauss.de/nfl-x-strauss/?itemorigin=StartseiteHW24)
 
-zum Damen SALE
+[für Damen](https://www.engelbert-strauss.de/nfl-x-strauss-damen/?itemorigin=StartseiteHW24)
 
-zum Kinder SALE
-
-[zu allen Aktions-Sets](https://www.engelbert-strauss.de/sale-aktions-sets/?itemOrigin=StartseiteHW24&sort=newest)
+[für Kinder](https://www.engelbert-strauss.de/nfl-x-strauss-kinder/?itemorigin=StartseiteHW24)
 
 ###
 
@@ -136,39 +109,18 @@ Workwear **meets Fanwear**
 
 ---
 
- NFL Hoodie cotton
----
-
- Men
-
- Ladies
-
-###  NFL X Strauss  ###
-
----
-
- Jetzt bereitmachen für den Super Bowl
-
-[für Herren](https://www.engelbert-strauss.de/nfl-x-strauss/)
-
-[für Damen](https://www.engelbert-strauss.de/nfl-x-strauss-damen/)
-
-[für Kinder](https://www.engelbert-strauss.de/nfl-x-strauss-kinder/)
-
-###  Super mario
- X Strauss  ###
-
----
-
  Power-Up für Super Mario-Fans
+---
 
-[für Damen](https://www.engelbert-strauss.de/super-mario-x-strauss-damen/)
-
-[für Kinder](https://www.engelbert-strauss.de/super-mario-x-strauss-kinder/)
-
-###  Nur solange der Vorrat reicht!  ###
+ Super Mario
+X Strauss
+----------
 
 ---
+
+[für Damen](https://www.engelbert-strauss.de/super-mario-x-strauss-damen/?itemorigin=StartseiteHW24)
+
+[für Kinder](https://www.engelbert-strauss.de/super-mario-x-strauss-kinder/?itemorigin=StartseiteHW24)
 
  Spare bis zu
 ---
