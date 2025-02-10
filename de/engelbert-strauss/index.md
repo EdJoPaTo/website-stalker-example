@@ -1,18 +1,18 @@
-###  Ready for Super bowl!  ###
+###  Kälteschutz, extra bequem  ###
 
 ---
 
- NFL X
-Strauss
+ Winter-
+Jacken
 ----------
 
 ---
 
-[für Herren](https://www.engelbert-strauss.de/nfl-x-strauss/?itemorigin=StartseiteHW24)
+[alle Herrenjacken](https://www.engelbert-strauss.de/arbeitsjacken/?itemorigin=StartseiteHW24)
 
-[für Damen](https://www.engelbert-strauss.de/nfl-x-strauss-damen/?itemorigin=StartseiteHW24)
+[alle Damenjacken](https://www.engelbert-strauss.de/arbeitsjacken-damen/?itemorigin=StartseiteHW24)
 
-[für Kinder](https://www.engelbert-strauss.de/nfl-x-strauss-kinder/?itemorigin=StartseiteHW24)
+[alle Kinderjacken](https://www.engelbert-strauss.de/kinderjacken/?itemorigin=StartseiteHW24)
 
 ###
 
