@@ -83,6 +83,7 @@ inkl. MwSt. und Versand
 
 Die cirrus7 AI-box ist ein leistungsstarkes, energiesparendes Bildverarbeitungs- und Automatisierungssystem. Seine parallelen CUDA-Kerne mit NVIDIA® Jetson™TX2 GPU-beschleunigten parallelen CUDA-Kernen machen es zu einem leistungsstarken AI-System für industrielle Embedded-Projekte.
 
- xxx
+ab € 499,00
+inkl. MwSt. und Versand
 
 [mehr erfahren ...](https://www.cirrus7.com/cirrus7-ai-box/)
