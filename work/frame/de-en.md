@@ -1,21 +1,53 @@
-### You should be able to fix your stuff. ###
+The
 
-**We make repairable, upgradable, and (more) sustainable consumer electronics.**
+next
 
-[Shop now](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new) [Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
+generation
+
+of
+
+Framework
+
+is
+
+coming
+
+Feb
+
+'25!
+
+The
+
+next
+
+generation
+
+of
+
+Framework
+
+is
+
+coming
+
+Feb
+
+'25!
+
+[Learn more](/framework-event)
+
+You should be able to fix your stuff.
+----------
+
+###### We build electronics that are easy to repair, last longer, and minimize environmental impact. ######
+
+[Shop now](/de/en/products/laptop-diy-13-gen-amd/configuration/new) [Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
 
 [##### “The Framework Laptop is the best—and so far only—option if you want a laptop you can easily upgrade and repair.” #####](https://www.nytimes.com/wirecutter/reviews/best-laptops/#the-most-repairable-laptop)
 
 [##### “The 2023 Framework Laptop 13 has a new AMD option, and it’s a stellar performer.” #####](https://www.theverge.com/23911664/framework-laptop-13-2023-amd-review)
 
 [##### “Exceedingly rare 10/10 Repairability Score" #####](https://www.youtube.com/watch?v=AV2umY3R0vw)
-
-Let’s fix consumer electronics
-----------
-
-**The Consumer Electronics industry is broken. We’re here to fix it. We build high-performance products that are easy to repair, upgrade, and customize, so you can use them for as long as you'd like.**
-
-[Learn more about us](/about)
 
 Choose your laptop
 ----------
@@ -42,6 +74,13 @@ AMD-powered with upgradeable, modular, latest-generation graphics.
 
 [Buy](/products/laptop16-diy-amd-7040/configuration/new)
 
+Framework Marketplace
+----------
+
+**Pick up new modules for upgrade, replacement, and customization of your Framework Laptop in the Framework Marketplace.**
+
+[Explore our Marketplace](/de/en/marketplace)
+
 Get the latest news and product updates from Framework
 ----------
 
@@ -49,9 +88,9 @@ Get the latest news and product updates from Framework
 
 Monthly-ish
 
-Framework Marketplace
+Let’s fix consumer electronics
 ----------
 
-**Pick up new modules for upgrade, replacement, and customization of your Framework Laptop in the Framework Marketplace.**
+**The Consumer Electronics industry is broken. We’re here to fix it. We build high-performance products that are easy to repair, upgrade, and customize, so you can use them for as long as you'd like.**
 
-[Explore our Marketplace](/de/en/marketplace)
+[Learn more about us](/about)
