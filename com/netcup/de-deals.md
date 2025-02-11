@@ -319,7 +319,7 @@ pro Monat
 
   Am 28.01. kannst du ein weiteres Angebot ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um es nicht zu verpassen.
 
-Bleibe am Laufenden
+Bleibe auf dem Laufenden
 ----------
 
 Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media, um keine Deals oder Neuigkeiten zu verpassen.
