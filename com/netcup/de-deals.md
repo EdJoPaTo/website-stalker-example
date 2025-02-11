@@ -307,18 +307,6 @@ pro Monat
 
 ### **Deine Deals im Überblick:** ###
 
-* ### Bis zu 74 % Rabatt auf ausgewählte Domains ###
-
-  Sichere dir deine ideale Domain zu einem dauerhaft günstigen Preis, ohne automatische Erhöhung nach einem Jahr.
-
-* ### Bis zu 50 % Rabatt auf Webhosting-Tarife ###
-
-  Wähle den für dich passenden Webhosting-Tarif, und erwecke deine Vision zum Leben.
-
-* ### Flashdeal: Zusätzliches Angebot für kurze Zeit ###
-
-  Am 28.01. kannst du ein weiteres Angebot ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um es nicht zu verpassen.
-
 Bleibe auf dem Laufenden
 ----------
 
