@@ -386,9 +386,27 @@ Close
 
  250GB (2nd Gen)
 
+ Details
+
+ 250GB (2nd Gen) Expansion Card
+----------
+
+The 250GB (2nd Gen) and 1TB (2nd Gen) Expansion Cards give you the performance of an internal drive with the flexibility of an external one. With a USB 3.2 Gen 2 interface, both the 1TB (2nd Gen) and 250GB (2nd Gen) cards reach 1000 MB/s read and 800 MB/s write speeds. Both are fast enough to run apps and even boot an operating system from, and you can plug them into other computers for high-speed file transfer.
+
+Close
+
  \+€50
 
  1TB (2nd Gen)
+
+ Details
+
+ 1TB (2nd Gen) Expansion Card
+----------
+
+The 250GB (2nd Gen) and 1TB (2nd Gen) Expansion Cards give you the performance of an internal drive with the flexibility of an external one. With a USB 3.2 Gen 2 interface, both the 1TB (2nd Gen) and 250GB (2nd Gen) cards reach 1000 MB/s read and 800 MB/s write speeds. Both are fast enough to run apps and even boot an operating system from, and you can plug them into other computers for high-speed file transfer.
+
+Close
 
  \+€140
 
