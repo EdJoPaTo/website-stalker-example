@@ -14,6 +14,19 @@ Jacken
 
 [alle Kinderjacken](https://www.strauss.com/de/de/kinderjacken/?itemorigin=StartseiteHW24)
 
+###  Angebote
+des Monats  ###
+
+---
+
+Nur gültig bis 28.02.2025 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
+
+[Spare bis zu](https://www.strauss.com/de/de/angebote-des-monats/)
+
+[54%](https://www.strauss.com/de/de/angebote-des-monats/)
+
 ###
 
 Neue **Highlight-Farbe**
@@ -127,6 +140,44 @@ X Strauss
 
  42%
 ---
+
+###  Problemlöser
+made by Strauss  ###
+
+---
+
+ Smartes Werkzeug, das nicht jeder im Kasten hat.
+
+ e.s. Ratch-Tech 4-in-1
+---
+
+ \-38%
+---
+
+ 4 Schlüsselgrößen
+ an einem Werkzeug!
+
+[zum Aktionsangebot](https://www.strauss.com/de/de/ratschenschluessel-sets/e-s-ratch-tech-4in1-7140380-5524602-0.html?itemorigin=StartseiteHW24)
+
+ e.s. Bit-Steckschlüssel-Einsatz
+---
+
+ \-22%
+---
+
+ Magnetischer Halt
+ dank Dauermagnet!
+
+[zum Aktionsangebot](https://www.strauss.com/de/de/steckschluessel-adapter/e-s-bit-steckschluessel-einsatz-7144240-5508590-0.html?itemorigin=StartseiteHW24)
+
+ Jetzt die ganze STRAUSS Werkzeug-Welt entdecken
+---
+
+[alle Handwerkzeuge](https://www.strauss.com/de/de/handwerkzeuge/?itemOrigin=StartseiteHW24)
+
+[Elektroartikel](https://www.strauss.com/de/de/elektroartikel/?itemOrigin=StartseiteHW24)
+
+[Werkzeugzubehör](https://www.strauss.com/de/de/werkzeugzubehoer/?itemOrigin=StartseiteHW24)
 
 ###
 
