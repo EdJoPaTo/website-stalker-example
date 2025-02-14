@@ -56,7 +56,7 @@ cirrus nimbus
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 4x USB-A 3.2, 1x USB-C 3.2, 2x USB-A 2.0, 3x Audio Stereo
 
   **ASRock B550M-ITX Anschlüsse Rückseite:**
-  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 3x USB-A 3.1, 1x USB-C 3.1, 2x USB-A 2.0, 1x PS2, 3x Audio Stereo
+  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 3x USB-A 3.1, 1x USB-C 3.0 (5GB/s), 2x USB-A 2.0, 1x PS2, 3x Audio Stereo
 
   **GIGABYTE B650I Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1, 1x USB-A 3.1 Gen2, 1x USB-C 3.0, 1x USB-A 3.0, 3x USB-A 2.0, 1x 2.5GB LAN, 3x Audio Stereo
@@ -83,9 +83,6 @@ cirrus nimbus
 
   * Keine
   * Frontpanel mit Power-Taster
-
-  * **2x USB-A 3.1**
-    Frontpanel optionale Ports
 
   * **2x USB-A 3.1**
     Frontpanel optionale Ports
