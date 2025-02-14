@@ -9,10 +9,6 @@ AT incredibly LOW PRICES!
  The best simple cloud solution that your demanding
 projects deserve.
 
- New Location:
-
- Hetzner goes Singapore
-
  Choose your favorite Cloud Server
 ----------
 
