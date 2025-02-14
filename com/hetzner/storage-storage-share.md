@@ -18,7 +18,7 @@ Maintain control over your data, which we store in our own German and GDPR-compl
 
 ---
 
-### Individuell ###
+### Individual ###
 
 Create user groups, define individual quotas for single users and share files privately or publicly. Use pre-installed apps like Contacts, Calendar and Tasks or add more apps.
 
