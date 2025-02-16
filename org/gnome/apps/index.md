@@ -83,6 +83,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Impression**Create bootable drives](Impression/)
 * [**Iotas**Simple note taking](Iotas/)
 * [**Junction**Application chooser](Junction/)
+* [**Keypunch**Practice your typing skills](Keypunch/)
 * [**Komikku**Discover and read manga & comics](Komikku/)
 * [**Letterpress**Create beautiful ASCII art](Letterpress/)
 * [**Lorem**Generate placeholder text](Lorem/)
