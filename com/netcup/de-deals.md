@@ -14,15 +14,17 @@ Vom **25. Februar, 10 Uhr** (MEZ) bis zum **27. Februar, 10 Uhr** (MEZ), hast du
 
 * ### Unschlagbare Angebote aus allen Kategorien  ###
 
-  Von Rabatt bis zusätzlicher Leistung – für den Winter Sale haben wir aus jeder unserer beliebten Produkt-Kategorien mindestens ein Schnäppchen parat.
+  Von Rabatt bis zusätzlicher Leistung – Für den Winter Sale haben wir aus jeder unserer beliebten Produkt-Kategorien mindestens ein Schnäppchen parat.
 
 * ### 48 statt 24 Stunden: Mehr Zeit zum Angebote sichern ###
 
-  Von Root Server, VPS bis Webhosting und Domains – die Auswahl ist groß. Daher hast du diesen Monat etwas mehr Zeit, das passende Angebot für dich zu finden.
+  Von Root Server, VPS bis Webhosting und Domains – Die Auswahl ist groß. Daher hast du diesen Monat etwas mehr Zeit, das passende Angebot für dich zu finden.
 
 * ### Flashdeals: Zusätzliche Angebote für kurze Zeit ###
 
-  Du kannst weitere zeitlich begrenzte Angebote ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um sie nicht zu verpassen.
+  Du kannst weitere zeitlich begrenzte Angebote ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telgram Kanal, um es nicht zu verpassen.
+
+### **Deine Deals im Überblick:** ###
 
 Bleibe auf dem Laufenden
 ----------
