@@ -5,24 +5,305 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-Winter Sale bei netcup: Sichere dir mehr Speicherplatz, CPU oder Rabatte
-----------
+* Alle (0)
 
-Vom **25. Februar, 10 Uhr** (MEZ) bis zum **27. Februar, 10 Uhr** (MEZ), hast du nicht nur 24, sondern gleich **48 Stunden** lang die Gelegenheit, das passende Aktionsprodukt für dein Online-Projekt zu ergattern.
+Domains
 
-### **Das erwartet dich:** ###
+ Deal abgelaufen
 
-* ### Unschlagbare Angebote aus allen Kategorien  ###
+### .de Domain JAN25 ###
 
-  Von Rabatt bis zusätzlicher Leistung – Für den Winter Sale haben wir aus jeder unserer beliebten Produkt-Kategorien mindestens ein Schnäppchen parat.
+ 69 % Rabatt
 
-* ### 48 statt 24 Stunden: Mehr Zeit zum Angebote sichern ###
+statt 0,35 €
 
-  Von Root Server, VPS bis Webhosting und Domains – Die Auswahl ist groß. Daher hast du diesen Monat etwas mehr Zeit, das passende Angebot für dich zu finden.
+* DNSSEC, API
+* 2 € Setup Gebühr
+* Umfangreiches DNS-Management
 
-* ### Flashdeals: Zusätzliche Angebote für kurze Zeit ###
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
 
-  Du kannst weitere zeitlich begrenzte Angebote ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telgram Kanal, um es nicht zu verpassen.
+pro Monat
+
+0,11 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .at Domain JAN25 ###
+
+ 18 % Rabatt
+
+statt 0,88 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,72 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .li Domain JAN25 ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,50 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .cloud Domain JAN25 ###
+
+ 14 % Rabatt
+
+statt 1,95 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+1,66 €
+
+(inkl. 0% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 1000 JAN25 ###
+
+ 50 % Rabatt
+
+statt 1,82 €
+
+* SSH Zugang vorhanden
+* 1 .de-Domain oder 1 Alternativdomain inklusive
+* 50 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+0,91 €
+
+(inkl. 0% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 2000 JAN25 ###
+
+ 20 % Rabatt
+
+statt 2,73 €
+
+* SSH Zugang vorhanden
+* 3 .de-Domain oder 1 Alternativdomain inklusive
+* 150 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+2,17 €
+
+(inkl. 0% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 4000 JAN25 ###
+
+ 42 % Rabatt
+
+statt 5,48 €
+
+* SSH Zugang vorhanden
+* 6 .de-Domain oder 2 Alternativdomain inklusive
+* 500 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+3,16 €
+
+(inkl. 0% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 8000 JAN25 ###
+
+ 42 % Rabatt
+
+statt 8,91 €
+
+* SSH Zugang vorhanden
+* 12 .de-Domain oder 3 Alternativdomain inklusive
+* 1000 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+5,21 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .com Domain JAN25 ###
+
+ 18 % Rabatt
+
+statt 1,16 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,95 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .eu Domain JAN25 ###
+
+ 46 % Rabatt
+
+statt 0,66 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,35 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .ch Domain JAN25 ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,50 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .lu Domain JAN25 ###
+
+ 14 % Rabatt
+
+statt 2,52 €
+
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+2,17 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .family Domain JAN25 ###
+
+ 27 % Rabatt
+
+statt 3,94 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+2,89 €
+
+(inkl. 0% MwSt.)
 
 ### **Deine Deals im Überblick:** ###
 
