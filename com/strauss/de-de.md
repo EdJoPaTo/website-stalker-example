@@ -157,7 +157,7 @@ made by Strauss  ###
  4 Schlüsselgrößen
  an einem Werkzeug!
 
-[zum Aktionsangebot](https://www.strauss.com/de/de/ratschenschluessel-sets/e-s-ratch-tech-4in1-7140380-5524602-0.html?itemorigin=StartseiteHW24)
+[zum Aktionsangebot](https://www.strauss.com/de/de/ratschenschluessel-sets/e-s-ratch-tech-4-in-1-7140380-5524602-0.html?itemorigin=StartseiteHW24)
 
  e.s. Bit-Steckschlüssel-Einsatz
 ---
