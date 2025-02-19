@@ -3,6 +3,8 @@ Configuring Linux 4.x or higher
 
 While the drivers for the HiFiBerry boards are already included in the Raspberry Pi Linux kernel. However, to activate them, additional configurations called device tree overlays are needed. You might also need to disable the onboard sound and add an ALSA configuration as some applications will require it.
 
+In the latest Raspberry Pi OS, config.txt has been moved to /boot/firmware/config.txt. Please check on your system, where the file is located.
+
 ### Remove the driver for the onboard sound ###
 
 Remove the line
@@ -61,7 +63,7 @@ Kernel \>= 6.1.77
 
 `dtoverlay=hifiberry-dacplusadc`
 
-#### DAC+ ADC Pro ####
+#### DAC+ ADC Pro, DAC2 ADC Pro ####
 
 `dtoverlay=hifiberry-dacplusadcpro`
 
@@ -150,4 +152,4 @@ and the output of
 
 `sudo vcdbg log msg`
 
-##### Last updated: September 5, 2024 #####
+##### Last updated: February 19, 2025 #####

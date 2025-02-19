@@ -143,7 +143,7 @@ updated 2019-10-04
 
 amp, configuration, dac, digi, first steps
 
-updated 2024-09-05
+updated 2025-02-19
 
 [How to run a Roon Bridge on a HiFiBerry DAC+ equipped Raspberry Pi](https://www.hifiberry.com/docs/software/how-to-run-a-roon-bridge-on-a-hifiberry-dac-equipped-raspberry-pi/)
 
