@@ -48,10 +48,11 @@ Sustainability
 
 Contact
 
-ENLIGHT THE WORLD.
+WE PRINT LIGHT.
 ==========
 
-With low-cost OLED.
+Sustainable OLED seamlessly
+integrated into everyday things..
 
 We simplified OLED to bring lighting anywhere it matters.
 ==========
