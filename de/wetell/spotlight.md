@@ -1,5 +1,11 @@
-Green Planet Energy
+GLS Bank
 ----------
+
+Traurige Wahrheit: Oft wird unser Geld zur Finanzierung von Kriegsgerät, Pestiziden oder Atomenergie verwendet.
+Damit du dich über den Effekt deines Geldes freuen kannst, investiert die GLS Bank das Geld dort, wo es dem Gemeinwohl dient.
+Wie das genau geht, erzählt uns Sanika Hufeland im aktuellen WEtell Spotlight.
+
+### Green Planet Energy ###
 
 Als Mischung aus einer streitbaren NGO und einer Ökoenergiegenossenschaft wurde Green Planet Energy einst gegründet. Noch heute sind diese Wurzeln stark spürbar. Also haben wir Platz im Spotlight gemacht und Carolin, Bereichsleitung Politik und Kommunikation, dazu gebeten. Klick sofort mal rein.
 
@@ -190,9 +196,3 @@ Prokon
 
 10 Terawattstunden Ökostrom hat Prokon schon aus der Luft geholt und unterstützt damit den Klimawandel aufzuhalten.
 Katharina erzählt euch welche Vision hinter Prokon steht.
-
-Tomorrow Bank
-----------
-
-„Wir verpflichten uns der Nachhaltigkeit und sozialen Gerechtigkeit. Alles, was wir tun, machen wir mit Haltung, Herzblut und state-of-the-art Technologie.“
- Lilly von der Tomorrow Bank erzählt uns wie das klappt.
