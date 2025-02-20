@@ -68,7 +68,7 @@ restriction allow
 
  Applicability: Unspecified
 
-Added in: 1.82.0
+Added in: 1.84.0
 
 arc\_with\_non\_send\_sync
 
@@ -93,6 +93,14 @@ restriction allow
  Applicability: Unspecified
 
 Added in: 1.41.0
+
+as\_pointer\_underscore
+
+restriction allow
+
+ Applicability: MachineApplicable
+
+Added in: 1.81.0
 
 as\_ptr\_cast\_mut
 
@@ -594,7 +602,7 @@ comparison\_chain
 
 style warn
 
- Applicability: Unspecified
+ Applicability: HasPlaceholders
 
 Added in: 1.40.0
 
@@ -838,6 +846,14 @@ complexity warn
 
 Added in: pre 1.29.0
 
+doc\_include\_without\_cfg
+
+restriction allow
+
+ Applicability: MachineApplicable
+
+Added in: 1.84.0
+
 doc\_lazy\_continuation
 
 style warn
@@ -861,6 +877,14 @@ pedantic allow
  Applicability: MachineApplicable
 
 Added in: pre 1.29.0
+
+doc\_nested\_refdefs
+
+suspicious warn
+
+ Applicability: MaybeIncorrect
+
+Added in: 1.84.0
 
 double\_comparisons
 
@@ -1342,14 +1366,6 @@ suspicious warn
 
 Added in: 1.48.0
 
-fn\_address\_comparisons
-
-correctness deny
-
- Applicability: Unspecified
-
-Added in: 1.44.0
-
 fn\_params\_excessive\_bools
 
 pedantic allow
@@ -1522,7 +1538,7 @@ if\_not\_else
 
 pedantic allow
 
- Applicability: Unspecified
+ Applicability: MachineApplicable
 
 Added in: pre 1.29.0
 
@@ -2238,6 +2254,14 @@ correctness deny
 
 Added in: 1.78.0
 
+literal\_string\_with\_formatting\_args
+
+suspicious warn
+
+ Applicability: Unspecified
+
+Added in: 1.83.0
+
 little\_endian\_bytes
 
 restriction allow
@@ -2324,7 +2348,7 @@ complexity warn
 
  Applicability: MachineApplicable
 
-Added in: 1.81.0
+Added in: 1.83.0
 
 manual\_filter
 
@@ -2428,7 +2452,7 @@ pedantic allow
 
  Applicability: MachineApplicable
 
-Added in: 1.82.0
+Added in: 1.83.0
 
 manual\_is\_variant\_and
 
@@ -3362,7 +3386,7 @@ needless\_option\_take
 
 complexity warn
 
- Applicability: MachineApplicable
+ Applicability: Unspecified
 
 Added in: 1.62.0
 
@@ -3596,7 +3620,7 @@ restriction allow
 
  Applicability: MachineApplicable
 
-Added in: 1.81.0
+Added in: 1.83.0
 
 nonminimal\_bool
 
@@ -4373,6 +4397,14 @@ deprecated none
  Applicability: Unspecified
 
 Deprecated in: 1.44.0
+
+repr\_packed\_without\_abi
+
+suspicious warn
+
+ Applicability: Unspecified
+
+Added in: 1.84.0
 
 reserve\_after\_initialization
 
@@ -5498,9 +5530,9 @@ unnecessary\_map\_or
 
 style warn
 
- Applicability: MaybeIncorrect
+ Applicability: MachineApplicable
 
-Added in: 1.75.0
+Added in: 1.84.0
 
 unnecessary\_min\_or\_max
 
@@ -5860,7 +5892,7 @@ pedantic allow
 
  Applicability: Unspecified
 
-Added in: pre 1.29.0
+Added in: 1.83.0
 
 useless\_asref
 
@@ -6124,7 +6156,7 @@ suspicious warn
 
  Applicability: MaybeIncorrect
 
-Added in: 1.74.0
+Added in: 1.83.0
 
 zst\_offset
 
