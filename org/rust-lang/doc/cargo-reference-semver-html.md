@@ -1524,6 +1524,49 @@ fn main() {
 }
 ```
 
+### [Major: capturing more generic parameters in RPIT](#generic-rpit-capture) ###
+
+It is a breaking change to capture additional generic parameters in an [RPIT](../../reference/types/impl-trait.html#abstract-return-types) (return-position impl trait).
+
+```
+// MAJOR CHANGE
+
+///////////////////////////////////////////////////////////
+// Before
+pub fn f<'a, 'b>(x: &'a str, y: &'b str) -> impl Iterator<Item = char> + use<'a> {
+    x.chars()
+}
+
+///////////////////////////////////////////////////////////
+// After
+pub fn f<'a, 'b>(x: &'a str, y: &'b str) -> impl Iterator<Item = char> + use<'a, 'b> {
+    x.chars().chain(y.chars())
+}
+
+///////////////////////////////////////////////////////////
+// Example usage that will break.
+fn main() {
+    let a = String::new();
+    let b = String::new();
+    let iter = updated_crate::f(&a, &b);
+    drop(b); // Error: cannot move out of `b` because it is borrowed
+}
+```
+
+Adding generic parameters to an RPIT places additional constraints on how the resulting type may be used.
+
+Note that there are implicit captures when the `use<>` syntax is not specified. In Rust 2021 and earlier editions, the lifetime parameters are only captured if they appear syntactically within a bound in the RPIT type signature. Starting in Rust 2024, all lifetime parameters are unconditionally captured. This means that starting in Rust 2024, the default is maximally compatible, requiring you to be explicit when you want to capture less, which is a SemVer commitment.
+
+See the [edition guide](../../edition-guide/rust-2024/rpit-lifetime-capture.html) and the [reference](../../reference/types/impl-trait.html#capturing) for more information on RPIT capturing.
+
+It is a minor change to capture fewer generic parameters in an RPIT.
+
+>
+>
+> Note: All in-scope type and const generic parameters must be either implicitly captured (no `+ use<…>` specified) or explicitly captured (must be listed in `+ use<…>`), and thus currently it is not allowed to change what is captured of those kinds of generics.
+>
+>
+
 ### [Major: adding/removing function parameters](#fn-change-arity) ###
 
 Changing the arity of a function is a breaking change.

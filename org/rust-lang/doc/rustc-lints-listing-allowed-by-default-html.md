@@ -123,7 +123,6 @@ write a closure that returns an async block.
 ### Example ###
 
 ```
-#![feature(async_closure)]
 #![warn(closure_returning_async_block)]
 let c = |x: &str| async {};
 ```
@@ -132,20 +131,20 @@ This will produce:
 
 ```
 warning: closure returning async block can be made into an async closure
- --> lint_example.rs:4:9
+ --> lint_example.rs:3:9
   |
-4 | let c = |x: &str| async {};
+3 | let c = |x: &str| async {};
   |         ^^^^^^^^^ ----- this async block can be removed, and the closure can be turned into an async closure
   |
 note: the lint level is defined here
- --> lint_example.rs:2:9
+ --> lint_example.rs:1:9
   |
-2 | #![warn(closure_returning_async_block)]
+1 | #![warn(closure_returning_async_block)]
   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 help: turn this into an async closure
   |
-4 - let c = |x: &str| async {};
-4 + let c = async |x: &str| {};
+3 - let c = |x: &str| async {};
+3 + let c = async |x: &str| {};
   |
 
 ```
@@ -171,8 +170,6 @@ let c = move || async {
 But it does work with async closures:
 
 ```
-#![feature(async_closure)]
-
 async fn callback(x: &str) {}
 
 let captured_str = String::new();
@@ -208,7 +205,7 @@ error: call to deprecated safe function `std::env::set_var` is unsafe and requir
   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ call to unsafe function
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see issue #27970 <https://github.com/rust-lang/rust/issues/27970>
+  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/newly-unsafe-functions.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -502,15 +499,15 @@ This will produce:
 
 ```
 warning: unknown lint: `fuzzy_provenance_casts`
- --> lint_example.rs:1:1
+ --> lint_example.rs:1:9
   |
 1 | #![warn(fuzzy_provenance_casts)]
-  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |         ^^^^^^^^^^^^^^^^^^^^^^
   |
   = note: the `fuzzy_provenance_casts` lint is unstable
   = note: see issue #130351 <https://github.com/rust-lang/rust/issues/130351> for more information
   = help: add `#![feature(strict_provenance_lints)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-01-27; consider upgrading it if it is out of date
+  = note: this compiler was built on 2025-02-17; consider upgrading it if it is out of date
   = note: `#[warn(unknown_lints)]` on by default
 
 ```
@@ -584,7 +581,7 @@ warning: `if let` assigns a shorter lifetime since Edition 2024
    |                          this value has a significant drop implementation which may observe a major change in drop order and requires your discretion
    |
    = warning: this changes meaning in Rust 2024
-   = note: for more information, see issue #124085 <https://github.com/rust-lang/rust/issues/124085>
+   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/temporary-if-let-scope.html>
 help: the value is now dropped here in Edition 2024
   --> lint_example.rs:26:5
    |
@@ -692,6 +689,49 @@ while the `impl Display` is live.
 To fix this, we can explicitly state that the `impl Display` doesn't
 capture any lifetimes, using `impl Display + use<>`.
 
+[impl-trait-redundant-captures](#impl-trait-redundant-captures)
+----------
+
+The `impl_trait_redundant_captures` lint warns against cases where use of the
+precise capturing `use<...>` syntax is not needed.
+
+In the 2024 edition, `impl Trait`s will capture all lifetimes in scope.
+If precise-capturing `use<...>` syntax is used, and the set of parameters
+that are captures are *equal* to the set of parameters in scope, then
+the syntax is redundant, and can be removed.
+
+### Example ###
+
+```
+#![feature(lifetime_capture_rules_2024)]
+#![deny(impl_trait_redundant_captures)]
+fn test<'a>(x: &'a i32) -> impl Sized + use<'a> { x }
+```
+
+This will produce:
+
+```
+error: all possible in-scope parameters are already captured, so `use<...>` syntax is redundant
+ --> lint_example.rs:4:28
+  |
+4 | fn test<'a>(x: &'a i32) -> impl Sized + use<'a> { x }
+  |                            ^^^^^^^^^^^^^-------
+  |                                         |
+  |                                         help: remove the `use<...>` syntax
+  |
+note: the lint level is defined here
+ --> lint_example.rs:2:9
+  |
+2 | #![deny(impl_trait_redundant_captures)]
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+```
+
+### Explanation ###
+
+To fix this, remove the `use<'a>`, since the lifetime is already captured
+since it is in scope.
+
 [keyword-idents](#keyword-idents)
 ----------
 
@@ -771,7 +811,7 @@ error: `gen` is a keyword in the 2024 edition
   |    ^^^ help: you can use a raw identifier to stay compatible: `r#gen`
   |
   = warning: this is accepted in the current edition (Rust 2015) but is a hard error in Rust 2024!
-  = note: for more information, see issue #49716 <https://github.com/rust-lang/rust/issues/49716>
+  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/gen-keyword.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -886,15 +926,15 @@ This will produce:
 
 ```
 warning: unknown lint: `lossy_provenance_casts`
- --> lint_example.rs:1:1
+ --> lint_example.rs:1:9
   |
 1 | #![warn(lossy_provenance_casts)]
-  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |         ^^^^^^^^^^^^^^^^^^^^^^
   |
   = note: the `lossy_provenance_casts` lint is unstable
   = note: see issue #130351 <https://github.com/rust-lang/rust/issues/130351> for more information
   = help: add `#![feature(strict_provenance_lints)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-01-27; consider upgrading it if it is out of date
+  = note: this compiler was built on 2025-02-17; consider upgrading it if it is out of date
   = note: `#[warn(unknown_lints)]` on by default
 
 ```
@@ -1211,7 +1251,7 @@ warning: extern blocks should be unsafe
   | |_^
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see issue #123743 <https://github.com/rust-lang/rust/issues/123743>
+  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/unsafe-extern.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -1454,9 +1494,9 @@ error: the item `None` is imported redundantly
 3   | use std::option::Option::None;
     |     ^^^^^^^^^^^^^^^^^^^^^^^^^
     |
-   ::: /checkout/library/std/src/prelude/mod.rs:155:13
+   ::: /checkout/library/std/src/prelude/mod.rs:166:13
     |
-155 |     pub use core::prelude::rust_2021::*;
+166 |     pub use core::prelude::rust_2021::*;
     |             ------------------------ the item `None` is already defined here
     |
 note: the lint level is defined here
@@ -1821,7 +1861,7 @@ error: will be parsed as a guarded string in Rust 2024
   |    ^^^^^^^
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see issue #123735 <https://github.com/rust-lang/rust/issues/123735>
+  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/reserved-syntax.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -1839,7 +1879,7 @@ error: will be parsed as a guarded string in Rust 2024
    |    ^^^^^^^^
    |
    = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-   = note: for more information, see issue #123735 <https://github.com/rust-lang/rust/issues/123735>
+   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/reserved-syntax.html>
 help: insert whitespace here to avoid this being parsed as a guarded string in Rust 2024
    |
 10 | m!(# "hello");
@@ -1876,32 +1916,46 @@ if let Some(mut _a) = &mut Some(0u8) {
 This will produce:
 
 ```
-warning: patterns are not allowed to reset the default binding mode in edition 2024
+warning: reference patterns may only be written when the default binding mode is `move` in Rust 2024
+ --> lint_example.rs:4:13
+  |
+4 | if let Some(&a) = &Some(&0u8) {
+  |             ^ reference pattern not allowed under `ref` default binding mode
+  |
+  = warning: this changes meaning in Rust 2024
+  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/match-ergonomics.html>
+note: matching on a reference type with a non-reference pattern changes the default binding mode
  --> lint_example.rs:4:8
   |
 4 | if let Some(&a) = &Some(&0u8) {
-  |        -^^^^^^^
-  |        |
-  |        help: desugar the match ergonomics: `&`
-  |
-  = warning: this changes meaning in Rust 2024
-  = note: for more information, see 123076
+  |        ^^^^^^^^ this matches on type `&_`
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
 1 | #![warn(rust_2024_incompatible_pat)]
   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+help: make the implied reference pattern explicit
+  |
+4 | if let &Some(&a) = &Some(&0u8) {
+  |        +
 
-warning: patterns are not allowed to reset the default binding mode in edition 2024
+warning: binding modifiers may only be written when the default binding mode is `move` in Rust 2024
+ --> lint_example.rs:7:13
+  |
+7 | if let Some(mut _a) = &mut Some(0u8) {
+  |             ^^^ binding modifier not allowed under `ref mut` default binding mode
+  |
+  = warning: this changes meaning in Rust 2024
+  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/match-ergonomics.html>
+note: matching on a reference type with a non-reference pattern changes the default binding mode
  --> lint_example.rs:7:8
   |
 7 | if let Some(mut _a) = &mut Some(0u8) {
-  |        -^^^^^^^^^^^
-  |        |
-  |        help: desugar the match ergonomics: `&mut`
+  |        ^^^^^^^^^^^^ this matches on type `&mut _`
+help: make the implied reference pattern explicit
   |
-  = warning: this changes meaning in Rust 2024
-  = note: for more information, see 123076
+7 | if let &mut Some(mut _a) = &mut Some(0u8) {
+  |        ++++
 
 ```
 
@@ -2068,16 +2122,13 @@ warning: relative drop order changing in Rust 2024
    | - now the temporary value is dropped here, before the local variables in the block or statement
    |
    = warning: this changes meaning in Rust 2024
-   = note: for more information, see issue #123739 <https://github.com/rust-lang/rust/issues/123739>
+   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/temporary-tail-expr-scope.html>
 note: `#1` invokes this custom destructor
   --> lint_example.rs:8:1
    |
 8  | / impl Drop for Droppy {
 9  | |     fn drop(&mut self) {
-10 | |         // This is a custom destructor and it induces side-effects that is observable
-11 | |         // especially when the drop order at a tail expression changes.
-12 | |         println!("loud drop {}", self.0);
-13 | |     }
+...  |
 14 | | }
    | |_^
 note: `another_droppy` invokes this custom destructor
@@ -2085,10 +2136,7 @@ note: `another_droppy` invokes this custom destructor
    |
 8  | / impl Drop for Droppy {
 9  | |     fn drop(&mut self) {
-10 | |         // This is a custom destructor and it induces side-effects that is observable
-11 | |         // especially when the drop order at a tail expression changes.
-12 | |         println!("loud drop {}", self.0);
-13 | |     }
+...  |
 14 | | }
    | |_^
    = note: most of the time, changing drop order is harmless; inspect the `impl Drop`s for side effects like releasing locks or sending messages
@@ -2351,14 +2399,14 @@ This will produce:
 
 ```
 warning: unknown lint: `unqualified_local_imports`
- --> lint_example.rs:1:1
+ --> lint_example.rs:1:9
   |
 1 | #![warn(unqualified_local_imports)]
-  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^
   |
   = note: the `unqualified_local_imports` lint is unstable
   = help: add `#![feature(unqualified_local_imports)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-01-27; consider upgrading it if it is out of date
+  = note: this compiler was built on 2025-02-17; consider upgrading it if it is out of date
   = note: `#[warn(unknown_lints)]` on by default
 
 ```
@@ -2367,7 +2415,7 @@ warning: unknown lint: `unqualified_local_imports`
 
 This lint is meant to be used with the (unstable) rustfmt setting `group_imports = "StdExternalCrate"`.
 That setting makes rustfmt group `self::`, `super::`, and `crate::` imports separately from those
-refering to other crates. However, rustfmt cannot know whether `use c::S;` refers to a local module `c`or an external crate `c`, so it always gets categorized as an import from another crate.
+referring to other crates. However, rustfmt cannot know whether `use c::S;` refers to a local module `c`or an external crate `c`, so it always gets categorized as an import from another crate.
 To ensure consistent grouping of imports from the local crate, all local imports must
 start with `self::`, `super::`, or `crate::`. This lint can be used to enforce that style.
 
@@ -2450,7 +2498,7 @@ warning: unsafe attribute used without unsafe
   |   ^^^^^^^^^ usage of unsafe attribute
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see issue #123757 <https://github.com/rust-lang/rust/issues/123757>
+  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/unsafe-attributes.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -2588,7 +2636,7 @@ error[E0133]: call to unsafe function `foo` is unsafe and requires unsafe block
 6 |     foo();
   |     ^^^^^ call to unsafe function
   |
-  = note: for more information, see issue #71668 <https://github.com/rust-lang/rust/issues/71668>
+  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/unsafe-op-in-unsafe-fn.html>
   = note: consult the function's documentation for information on how to avoid undefined behavior
 note: an unsafe function restricts its caller, but its body is safe by default
  --> lint_example.rs:5:1
