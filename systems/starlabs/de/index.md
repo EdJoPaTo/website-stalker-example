@@ -1,10 +1,8 @@
 StarBook 7
 
-625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Type-C 20 Gbps Ports\*Available with Intel Ultra 7 ProcessorsUp to 96GB of DDR5 memory\*
+625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Type-C 20 Gbps PortsIntel Ultra 7 ProcessorUp to 96GB of DDR5 memory\*
 
-[Learn more](/pages/starbook) [Configure](/products/starbook)
-
-\* Ultra models only
+[Learn more](/pages/starbook) [Configure](/products/starbook-ultra)
 
 StarLite 5
 
@@ -38,13 +36,21 @@ Browse our range
 
 [Byte Mini PC](/products/byte)
 
-[](/products/starbook)
+[](/products/starbook-combined)
 
-[StarBook 14-inch Laptop](/products/starbook)
+[StarBook 14-inch Laptop](/products/starbook-combined)
 
 [](/products/starfighter)
 
 [StarFighter 16-inch Laptop](/products/starfighter)
+
+[](/products/starbook-n200)
+
+[StarBook 14-inch Laptop](/products/starbook-n200)
+
+[](/products/starbook-ultra)
+
+[StarBook Ultra 14-inch Laptop](/products/starbook-ultra)
 
 More than just a licence.
 
@@ -94,6 +100,6 @@ Your way.
 
 [Visit Zorin](https://zorinos.com/)
 
- Qubes 4.2.0
+ Qubes 4.2.4
 
 [Visit Qubes](https://www.qubes-os.org/)
