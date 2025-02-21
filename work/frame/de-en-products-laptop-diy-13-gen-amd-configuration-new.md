@@ -32,9 +32,9 @@ If you are a business customer, need more than five laptops per order, or have o
 
 **System**
 
- Choose an option
-
 [Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
+
+ Choose an option
 
 * 7640U  5% Off  €929
   * AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
@@ -72,8 +72,6 @@ If you are a business customer, need more than five laptops per order, or have o
 
 **Memory**
 
- Choose an option
-
  FAQ
 
 FAQs
@@ -90,6 +88,8 @@ FAQs
   Now officially supported by the Ryzen 7040 Series platform, we have tested and validated the 24GB and 48GB DDR5-5600 modules we are currently selling. DDR5 modules have on-die ECC support and ECC modules will allow the system to function, however, ECC parity functionality is not supported by the non-Pro series APUs that Framework offers.
 
 Close
+
+ Choose an option
 
 * DDR5-5600 - 8GB (1 x 8GB) +€45
 * DDR5-5600 - 16GB (2 x 8GB) +€90
@@ -117,8 +117,6 @@ Close
 
 **Operating System**
 
- Choose an option
-
  FAQ
 
 FAQs
@@ -129,6 +127,8 @@ FAQs
   Base and Performance configurations ship with Windows 11 Home pre-installed and Professional ships with Windows 11 Pro pre-installed. You can also load your own operating system later, like a Linux distribution.
 
 Close
+
+ Choose an option
 
 * Windows 11 Home (Download) +€145
 * Windows 11 Pro (Download) +€259
@@ -150,8 +150,6 @@ Close
 
 **Keyboard**
 
- Choose an option
-
  FAQ
 
 FAQs
@@ -166,6 +164,8 @@ FAQs
   Yes! If you ever want to to move to a different keyboard language or need to replace your keyboard for any other reason, you can do that. Both individual keyboards and replacement Input Covers are available in the Framework Marketplace.
 
 Close
+
+ Choose an option
 
 * German
 * International English - Linux
@@ -205,8 +205,6 @@ Close
 
 **Expansion Cards**
 
- Choose any number
-
  FAQ
 
 FAQs
@@ -225,6 +223,8 @@ FAQs
   Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
 
 Close
+
+ Choose any number
 
 Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13.
 
