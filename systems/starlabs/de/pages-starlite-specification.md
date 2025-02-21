@@ -3,7 +3,7 @@ Chassis
  Type II matte black anodised aluminium
 
  Finish: Bead blasted
- Aluminium Grade: 6
+ Material: 6061 Aluminium
 
  Display
 
