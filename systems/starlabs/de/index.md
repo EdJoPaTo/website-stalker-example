@@ -1,6 +1,6 @@
 StarBook 7
 
-625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Type-C 20 Gbps PortsIntel Ultra 7 ProcessorUp to 96GB of DDR5 memory\*
+625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Type-C 20 Gbps PortsIntel Ultra 7 ProcessorUp to 96GB of DDR5 memory
 
 [Learn more](/pages/starbook) [Configure](/products/starbook-ultra)
 
@@ -43,10 +43,6 @@ Browse our range
 [](/products/starfighter)
 
 [StarFighter 16-inch Laptop](/products/starfighter)
-
-[](/products/starbook-n200)
-
-[StarBook 14-inch Laptop](/products/starbook-n200)
 
 [](/products/starbook-ultra)
 
