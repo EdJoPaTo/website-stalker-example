@@ -28,25 +28,25 @@ StarLite 5
 
 Browse our range
 
-[](/products/starlite)
-
-[StarLite 12.5-inch Convertible](/products/starlite)
-
 [](/products/byte)
 
 [Byte Mini PC](/products/byte)
 
-[](/products/starbook-combined)
+[](/products/starlite)
 
-[StarBook 14-inch Laptop](/products/starbook-combined)
+[StarLite 12.5-inch Convertible](/products/starlite)
 
-[](/products/starfighter)
+[](/products/starbook)
 
-[StarFighter 16-inch Laptop](/products/starfighter)
+[StarBook 14-inch Laptop](/products/starbook)
 
 [](/products/starbook-ultra)
 
 [StarBook Ultra 14-inch Laptop](/products/starbook-ultra)
+
+[](/products/starfighter)
+
+[StarFighter 16-inch Laptop](/products/starfighter)
 
 More than just a licence.
 
