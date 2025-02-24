@@ -13,7 +13,7 @@ Framework Laptop 13
 
 [5% off 7040 Series Starting at €929.00 was: €979](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
 
-[View product details](/de/en/products/laptop-diy-13-gen-amd?tab=specs)
+[View product details](/de/en/laptop13?slug=laptop-diy-13-gen-amd&tab=specs)
 
 Ordering more than 1 laptop?
 
