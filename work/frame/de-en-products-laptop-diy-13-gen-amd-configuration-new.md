@@ -34,9 +34,15 @@ If you are a business customer, need more than five laptops per order, or have o
 
 [Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
 
+[Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
+
  Choose an option
 
-* 7640U  5% Off  €929
+[Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
+
+[Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
+
+* 7640U  €929
   * AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
   * Battery - 55Wh
   * Webcam Module (1st Gen)
@@ -53,7 +59,7 @@ If you are a business customer, need more than five laptops per order, or have o
 
    Ships within five business days.
 
-* 7840U  6% Off  €1,289
+* 7840U  €1,289
   * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
   * Battery - 61Wh
   * Webcam Module (1st Gen)
@@ -90,6 +96,23 @@ FAQs
 Close
 
  Choose an option
+
+ FAQ
+
+FAQs
+----------
+
+* Can I add more memory or storage later?
+
+  Yes! The Framework Laptop 13 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step by step guides you can follow to do the upgrade yourself.
+
+* What DRAM/memory is supported?
+
+  Framework Laptop 13 (AMD Ryzen 7040 Series) supports two slots of DDR5 SO-DIMM memory at the recommended native DDR5-5600 speed. We've tested compatibility with Framework-branded DDR5 modules and a number of select retail modules from Samsung, SK Hynix, ADATA, ACPIm Mushkin, Crucial, Kingston Fury, and F.Skill Ripjaws.
+
+  Now officially supported by the Ryzen 7040 Series platform, we have tested and validated the 24GB and 48GB DDR5-5600 modules we are currently selling. DDR5 modules have on-die ECC support and ECC modules will allow the system to function, however, ECC parity functionality is not supported by the non-Pro series APUs that Framework offers.
+
+Close
 
 * DDR5-5600 - 8GB (1 x 8GB) +€45
 * DDR5-5600 - 16GB (2 x 8GB) +€90
@@ -130,6 +153,17 @@ Close
 
  Choose an option
 
+ FAQ
+
+FAQs
+----------
+
+* Can I use a different Operating System?
+
+  Base and Performance configurations ship with Windows 11 Home pre-installed and Professional ships with Windows 11 Pro pre-installed. You can also load your own operating system later, like a Linux distribution.
+
+Close
+
 * Windows 11 Home (Download) +€145
 * Windows 11 Pro (Download) +€259
 * None (bring your own)
@@ -166,6 +200,21 @@ FAQs
 Close
 
  Choose an option
+
+ FAQ
+
+FAQs
+----------
+
+* When will other keyboard options be available?
+
+  Keyboard options available at configuration time depend on the region you are ordering from. We'll continue to increase the number of configurations available as we enter new countries and regions. You can also easily replace the keyboard or Input Cover with other keyboard languages and layouts, with all options available in the Framework Marketplace.
+
+* Can I replace the keyboard?
+
+  Yes! If you ever want to to move to a different keyboard language or need to replace your keyboard for any other reason, you can do that. Both individual keyboards and replacement Input Covers are available in the Framework Marketplace.
+
+Close
 
 * German
 * International English - Linux
@@ -225,6 +274,25 @@ FAQs
 Close
 
  Choose any number
+
+ FAQ
+
+FAQs
+----------
+
+* What is an Expansion Card?
+
+  Framework Expansion Cards allow you to customize the ports and functionality of the Framework Laptop 13. Unlike other notebooks that require adapters and dongles to get to the ports you need, you can select the ones you want at order time and change them whenever you’d like. The Framework Laptop 13 supports four simultaneous Expansion Cards, with two on each side. Expansion Cards are hot swappable; simply slide and click them into your Framework Laptop with no tools needed.
+
+* Do I need to have a USB-C Expansion Card to charge the Framework Laptop 13?
+
+  The Framework Laptop 13 charges over USB-C from any one of the four Expansion Card bays. We suggest configuring with at least one USB-C Expansion Card, since it is difficult to directly plug into the recessed USB-C receptacle that is inside the bay.
+
+* Will you be adding additional Expansion Card types?
+
+  Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
+
+Close
 
 Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13.
 
@@ -411,4 +479,8 @@ Close
 
  \+€140
 
+ Add to Bag  Add pre-order to bag
+
  Ships within five business days. [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop orders
+
+ Cancel your pre-order any time before shipment for a full refund [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop orders

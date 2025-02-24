@@ -167,7 +167,12 @@ You should be able to fix your stuff.
 
 ###### We build electronics that are easy to repair, last longer, and minimize environmental impact. ######
 
-[Shop now](/de/en/products/laptop-diy-13-gen-amd/configuration/new) [Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
+You should be able to fix your stuff.
+----------
+
+###### We build electronics that are easy to repair, last longer, and minimize environmental impact. ######
+
+[Shop now Shop now](/de/en/products/laptop-diy-13-gen-amd/configuration/new) [Learn more Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
 
 [##### “The Framework Laptop is the best—and so far only—option if you want a laptop you can easily upgrade and repair.” #####](https://www.nytimes.com/wirecutter/reviews/best-laptops/#the-most-repairable-laptop)
 
@@ -205,7 +210,11 @@ Framework Marketplace
 
 **Pick up new modules for upgrade, replacement, and customization of your Framework Laptop in the Framework Marketplace.**
 
-[Explore our Marketplace](/de/en/marketplace)
+[Explore our Marketplace Explore our Marketplace](/de/en/marketplace)
+
+### Don’t need a new laptop yet?
+Keep track of what we’re working
+on with the Framework newsletter ###
 
 Get the latest news and product updates from Framework
 ----------

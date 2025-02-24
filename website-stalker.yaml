@@ -269,10 +269,20 @@ sites:
 
   - url:
       - https://frame.work/de/en
+      - https://frame.work/de/en/linux
+      - https://frame.work/de/en/laptop13
       - https://frame.work/de/en/products/laptop-diy-13-gen-amd/configuration/new
     editors:
       - css_select: main
-      - css_remove: img, svg, script, noscript, style, .material-icons, .hidden, *[data-containers--product-configurations--multiple-selection-component--availability-target="multipleSelectionSelect"], *[data-containers--product-configurations--variant-option-component--variant-option-target="outOfStock"]
+      - css_remove: >-
+          *[data-containers--product-configurations--multiple-selection-component--availability-target="multipleSelectionSelect"],
+          *[data-containers--product-configurations--multiple-selection-component--availability-target="outOfStock"],
+          *[data-containers--product-configurations--option-value-component--option-value-target="discountPercentageContainer"],
+          *[data-containers--product-configurations--option-value-component--option-value-target="outOfStockCaption"],
+          *[data-containers--product-configurations--option-value-component--option-value-target="unavailableForSystemCaption"],
+          *[data-containers--product-configurations--section-component--single-choice-target="reselectChoicePlaceholder"],
+          *[data-containers--product-configurations--variant-option-component--variant-option-target="outOfStock"],
+          img, svg, script, noscript, style, .material-icons, #snackbar-template-container
       - html_markdownify
 
   - url: https://www.steamdeck.com/en/
