@@ -317,7 +317,9 @@ The USB-C Expansion Card passes through the supported protocols on the processor
 
 Close
 
- \+€10
+01234
+
+(Out of stock)  +€10
 
  USB-C (Orange)
 
@@ -330,7 +332,9 @@ The USB-C Expansion Card passes through the supported protocols on the processor
 
 Close
 
- \+€10
+01234
+
+(Out of stock)  +€10
 
  USB-C (Lavender)
 
@@ -343,7 +347,9 @@ The USB-C Expansion Card passes through the supported protocols on the processor
 
 Close
 
- \+€10
+01234
+
+(Out of stock)  +€10
 
  USB-C (Green)
 
@@ -356,7 +362,9 @@ The USB-C Expansion Card passes through the supported protocols on the processor
 
 Close
 
- \+€10
+01234
+
+(Out of stock)  +€10
 
  USB-C (Red)
 
@@ -369,7 +377,9 @@ The USB-C Expansion Card passes through the supported protocols on the processor
 
 Close
 
- \+€10
+01234
+
+(Out of stock)  +€10
 
  Additional Port Expansion Cards
 
@@ -384,7 +394,9 @@ Close
 
 Close
 
- \+€10
+01234
+
+(Out of stock)  +€10
 
  HDMI (3rd Gen)
 
@@ -397,7 +409,9 @@ Close
 
 Close
 
- \+€20
+01234
+
+(Out of stock)  +€20
 
  Ethernet Expansion Card
 
@@ -410,7 +424,9 @@ Close
 
 Close
 
- \+€45
+01234
+
+(Out of stock)  +€45
 
  DisplayPort (2nd Gen)
 
@@ -423,7 +439,9 @@ Close
 
 Close
 
- \+€20
+01234
+
+(Out of stock)  +€20
 
  MicroSD Expansion Card
 
@@ -436,7 +454,9 @@ Close
 
 Close
 
- \+€20
+01234
+
+(Out of stock)  +€20
 
  SD
 
@@ -449,7 +469,9 @@ The SD Expansion Card supports UHS-I and UHS-II, letting you transfer data to an
 
 Close
 
- \+€29
+01234
+
+(Out of stock)  +€29
 
  Storage Expansion Cards
 
@@ -464,7 +486,9 @@ The 250GB (2nd Gen) and 1TB (2nd Gen) Expansion Cards give you the performance o
 
 Close
 
- \+€50
+01234
+
+(Out of stock)  +€50
 
  1TB (2nd Gen)
 
@@ -477,7 +501,9 @@ The 250GB (2nd Gen) and 1TB (2nd Gen) Expansion Cards give you the performance o
 
 Close
 
- \+€140
+01234
+
+(Out of stock)  +€140
 
  Add to Bag  Add pre-order to bag
 
