@@ -136,6 +136,10 @@ Das bestellte Produkt wird daraufhin unmittelbar oder unter Umständen durch ein
 
 Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter Nachfrage unter Umständen etwas dauern kann. Wir sind sehr bemüht, jedem Kunden das bestmögliche Service zu bieten und danken für das Verständnis.
 
+### Wie wird der Rabatt bei Aktionen auf Server-Tarife berechnet? ###
+
+Der Rabatt für Root-Server und VPS ARM bei Aktionen richtet sich nach dem regulären Preis der Tarife mit einer Mindestlaufzeit von einem Monat. Für gewöhnlich entfällt bei Aktionen der Aufpreis für den Standort und den gewählten Tarif, was zu einem entsprechenden Preisvorteil führt. Bei VPS (x86) entfällt üblicherweise ebenfalls der Standort-Aufpreis. Bitte beachte, dass sich die aufgerufenen Aktionspreise und Angebote unter Umständen auch von Aktion zu Aktion verändern können.
+
 ### Was ist ein Flashdeal und wie lange bleibt dieser verfügbar? ###
 
 Bei Flashdeals handelt es sich um zusätzliche, attraktive „Blitz-Angebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 1 - 2 Stunden. Du erkennst einen Flashdeal am speziellen Blitz-Icon.
