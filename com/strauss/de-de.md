@@ -194,13 +194,6 @@ Pop up **Stores**
  In unseren Pop up Stores finden Sie alle
 Strauss-Highlights - live, zum Anfassen & Anprobieren!
 
- HAMBURG
----
-
- 09.01. - 15.02.2025
-
-[mehr Informationen](https://www.strauss.com/de/de/popupstore/popupstore_hamburg)
-
  STUTTGART
 ---
 

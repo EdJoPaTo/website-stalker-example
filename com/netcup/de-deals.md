@@ -7,6 +7,78 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Alle (0)
 
+VPS
+
+### VPS 1000 G11 SE ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 6,60 €
+
+* 4 vCore (x86)
+* 8 GB ECC RAM
+* 512 GB SSD (statt 256 GB)
+
+* Mindestlaufzeit: 1 Monat
+* Traffic inklusive
+* Standort: NUE
+
+pro Monat
+
+5,75 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-feb25)
+
+VPS
+
+### VPS 2000 G11 SE ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 14,50 €
+
+* 8 vCore (x86)
+* 16 GB ECC RAM
+* 1024 GB SSD (statt 512 GB)
+
+* Mindestlaufzeit: 1 Monat
+* Traffic inklusive
+* Standort: NUE
+
+pro Monat
+
+12,60 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-feb25)
+
+VPS
+
+### VPS 4000 G11 SE ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt 24,75 €
+
+* 12 vCore (x86)
+* 32 GB ECC RAM
+* 2 TB SSD (statt 1 TB)
+
+* Mindestlaufzeit: 1 Monat
+* Traffic inklusive
+* Standort: NUE
+
+pro Monat
+
+21,50 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-feb25)
+
 Root-Server
 
 ### RS 1000 G11 SE ###
@@ -126,78 +198,6 @@ pro Monat
 (inkl. 0% MwSt.)
 
 [Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-8000-arm-g11-se-nue-feb25)
-
-VPS
-
-### VPS 1000 G11 SE ###
-
- \+ 100 % SSD / dauerhaft günstiger
-
-statt ab 6,60 €
-
-* 4 vCore (x86)
-* 8 GB ECC RAM
-* 512 GB SSD (statt 256 GB)
-
-* Mindestlaufzeit: 1 Monat
-* Traffic inklusive
-* Standort: NUE
-
-pro Monat
-
-5,75 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-feb25)
-
-VPS
-
-### VPS 2000 G11 SE ###
-
- \+ 100 % SSD / dauerhaft günstiger
-
-statt ab 14,50 €
-
-* 8 vCore (x86)
-* 16 GB ECC RAM
-* 1024 GB SSD (statt 512 GB)
-
-* Mindestlaufzeit: 1 Monat
-* Traffic inklusive
-* Standort: NUE
-
-pro Monat
-
-12,60 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-feb25)
-
-VPS
-
-### VPS 4000 G11 SE ###
-
- \+ 100 % SSD / dauerhaft günstiger
-
-statt 24,75 €
-
-* 12 vCore (x86)
-* 32 GB ECC RAM
-* 2 TB SSD (statt 1 TB)
-
-* Mindestlaufzeit: 1 Monat
-* Traffic inklusive
-* Standort: NUE
-
-pro Monat
-
-21,50 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-feb25)
 
 Domains
 
