@@ -15,7 +15,7 @@ Root-Server
 
 statt bis zu 11,35 €
 
-* 4 vCore (x86) dediziert
+* 4 vCore dediziert
 * 8 GB DDR5 RAM (ECC)
 * 512 GB NVMe SSD (statt 256 GB)
 
@@ -126,6 +126,30 @@ pro Monat
 (inkl. 0% MwSt.)
 
 [Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-8000-arm-g11-se-nue-feb25)
+
+VPS
+
+### VPS 1000 G11 SE ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 6,60 €
+
+* 4 vCore (x86)
+* 8 GB ECC RAM
+* 512 GB SSD (statt 256 GB)
+
+* Mindestlaufzeit: 1 Monat
+* Traffic inklusive
+* Standort: NUE
+
+pro Monat
+
+5,75 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-feb25)
 
 VPS
 
