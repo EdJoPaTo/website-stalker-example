@@ -1,13 +1,81 @@
-You are now in line.
-==========
+### Framework Desktop is a big computer made mini. ###
 
- Thank you for your patience.
-==========
+Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
+### Framework Desktop is a big computer made mini. ###
+
+Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
+
+[Pre-order Pre-order](/de/en/products/desktop-ai-max300-amd/configuration/new) [Learn more Learn more](/de/en/desktop)
+
+#### Framework Laptop 13 ####
+
+Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
+
+[Pre-order](/products/laptop13-diy-intel-ultra-1/configuration/new)
+
+[Learn more](/products/laptop13-diy-intel-ultra-1)
+
+#### Framework Laptop 16 ####
+
+AMD-powered with modular, upgradeable graphics and fully customizable input.
+
+[Shop now](/products/laptop16-diy-amd-7040/configuration/new)
+
+[Learn more](/products/laptop16-diy-amd-7040)
+
+### Framework Laptop 12 ###
+
+Computers shouldn’t be boring.
+
+### Framework Laptop 12 ###
+
+Computers shouldn’t be boring.
+
+[Learn more Learn more](/de/en/laptop12)
+
+[##### “The Framework Laptop is the best—and so far only—option if you want a laptop you can easily upgrade and repair.” #####](https://www.nytimes.com/wirecutter/reviews/best-laptops/#the-most-repairable-laptop)
+
+[##### “The 2023 Framework Laptop 13 has a new AMD option, and it’s a stellar performer.” #####](https://www.theverge.com/23911664/framework-laptop-13-2023-amd-review)
+
+[##### “Exceedingly rare 10/10 Repairability Score" #####](https://www.youtube.com/watch?v=AV2umY3R0vw)
+
+Framework Marketplace
 ----------
 
- We are experiencing a high volume of traffic and using a virtual queue to limit the amount of users on the website at the same time. This will ensure you have the best possible online experience.
+**Pick up new modules for upgrade, replacement, and customization of your Framework Laptop in the Framework Marketplace.**
 
- **This page will automatically refresh, please do not close your browser.**
+[Explore our Marketplace Explore our Marketplace](/de/en/marketplace)
 
- **Last updated**
+### Keep track of what we’re
+working on with the Framework Newsletter. ###
+
+### Keep track of what we’re working on with the Framework Newsletter. ###
+
+ Subscribe
+
+Monthly-ish
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+Let’s fix 🪛 Consumer Electronics.
+
+The Consumer Electronics industry is broken. We’re here to fix it. We build high-performance products that are easy to repair, upgrade, and customize, so you can use them for as long as you'd like.
+
+[Learn more about us](/about)
