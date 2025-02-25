@@ -15,7 +15,7 @@ Root-Server
 
 statt bis zu 11,35 €
 
-* 4 vCore (x86) dediziert
+* 4 vCore dediziert
 * 8 GB DDR5 RAM (ECC)
 * 512 GB NVMe SSD (statt 256 GB)
 
