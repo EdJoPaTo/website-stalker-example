@@ -1,178 +1,158 @@
-The
-
-next
-
-generation
-
-of
-
 Framework
+
+```
+(2nd Gen)
+```
+
+Event
 
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
-
-The
-
-next
-
-generation
-
-of
+⚡️
 
 Framework
 
+```
+(2nd Gen)
+```
+
+Event
+
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
-
-The
-
-next
-
-generation
-
-of
+⚡️
 
 Framework
 
+```
+(2nd Gen)
+```
+
+Event
+
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
-
-The
-
-next
-
-generation
-
-of
+⚡️
 
 Framework
 
+```
+(2nd Gen)
+```
+
+Event
+
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
-
-The
-
-next
-
-generation
-
-of
+⚡️
 
 Framework
 
+```
+(2nd Gen)
+```
+
+Event
+
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
-
-The
-
-next
-
-generation
-
-of
+⚡️
 
 Framework
 
+```
+(2nd Gen)
+```
+
+Event
+
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
-
-The
-
-next
-
-generation
-
-of
+⚡️
 
 Framework
 
+```
+(2nd Gen)
+```
+
+Event
+
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
-
-The
-
-next
-
-generation
-
-of
+⚡️
 
 Framework
 
+```
+(2nd Gen)
+```
+
+Event
+
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
-
-The
-
-next
-
-generation
-
-of
+⚡️
 
 Framework
 
+```
+(2nd Gen)
+```
+
+Event
+
 is
 
-coming
+now
 
-Feb
+live!
 
-'25!
+⚡️
 
-[Learn more](/framework-event)
+[Join live](/framework-event)
 
-You should be able to fix your stuff.
-----------
+### You should be able to fix your stuff.  ###
 
-###### We build electronics that are easy to repair, last longer, and minimize environmental impact. ######
+**We make repairable, upgradable, and (more) sustainable consumer electronics.**
 
-You should be able to fix your stuff.
-----------
+### You should be able to fix your stuff.  ###
 
-###### We build electronics that are easy to repair, last longer, and minimize environmental impact. ######
+**We make repairable, upgradable, and (more) sustainable consumer electronics.**
 
-[Shop now Shop now](/de/en/products/laptop-diy-13-gen-amd/configuration/new) [Learn more Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
+[Shop now Shop now](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new) [Learn more Learn more](/de/en/products/laptop13-diy-intel-ultra-1)
 
 [##### “The Framework Laptop is the best—and so far only—option if you want a laptop you can easily upgrade and repair.” #####](https://www.nytimes.com/wirecutter/reviews/best-laptops/#the-most-repairable-laptop)
 
