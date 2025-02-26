@@ -819,6 +819,7 @@
 * [Olympioniken im Alltag](https://www.wdrmaus.de/filme/sachgeschichten/olympioniken_im_alltag.php5)
 * [Omel-Eimer](https://www.wdrmaus.de/filme/sachgeschichten/omel_eimer.php5)
 * [OP-Masken Herstellung](https://www.wdrmaus.de/filme/sachgeschichten/op_masken_herstellung.php5)
+* [Oper](https://www.wdrmaus.de/filme/sachgeschichten/oper.php5)
 * [Orchestergeheimnisse](https://www.wdrmaus.de/filme/sachgeschichten/orchestergeheimnisse.php5)
 * [Orgel](https://www.wdrmaus.de/filme/sachgeschichten/orgel.php5)
 * [Ostereier färben](https://www.wdrmaus.de/filme/sachgeschichten/ostereier_faerben.php5)

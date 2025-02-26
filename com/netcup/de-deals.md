@@ -337,6 +337,29 @@ pro Monat
 
 [Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-feb25)
 
+Domains
+
+ Flashdeal abgelaufen
+
+### .com Domain ###
+
+ 18 % Rabatt
+
+statt 1,16 €
+
+* DNSSEC, API
+* 0 € Setup Gebühr
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,95 €
+
+(inkl. 0% MwSt.)
+
 ### **Das erwartet dich:** ###
 
 * ### Unschlagbare Angebote aus allen Kategorien  ###
