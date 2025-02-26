@@ -233,7 +233,6 @@ Your way.
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
 Free Delivery  (Exclusions Apply) Excludes Delivery
-
-Dispatch in 1 - 2 working days
+Dispatch in
 
 [Configure](/products/starlite)

@@ -30,23 +30,23 @@ Browse our range
 
 [](/products/byte)
 
-[Byte Mini PC](/products/byte)
+[Byte Mini PCSold out](/products/byte)
 
 [](/products/starlite)
 
-[StarLite 12.5-inch Convertible](/products/starlite)
+[StarLite 12.5-inch ConvertibleDispatch in 1 - 2 working days](/products/starlite)
 
 [](/products/starbook)
 
-[StarBook 14-inch Laptop](/products/starbook)
+[StarBook 14-inch LaptopEstimated dispatch in 3 - 4 weeks](/products/starbook)
 
 [](/products/starbook-ultra)
 
-[StarBook Ultra 14-inch Laptop](/products/starbook-ultra)
+[StarBook Ultra 14-inch LaptopDispatch in 1 - 2 working days](/products/starbook-ultra)
 
 [](/products/starfighter)
 
-[StarFighter 16-inch Laptop](/products/starfighter)
+[StarFighter 16-inch LaptopEstimated dispatch in 3 - 4 months](/products/starfighter)
 
 More than just a licence.
 
