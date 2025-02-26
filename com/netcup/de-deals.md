@@ -7,31 +7,6 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Alle (0)
 
-Domains
-
- FLASH DEAL
-
-### .com Domain ###
-
- 18 % Rabatt
-
-statt 1,16 €
-
-* DNSSEC, API
-* 0 € Setup Gebühr
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-* Für Neu- und Bestandskunden
-
-pro Monat
-
-0,95 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.com-domain-feb25)
-
 VPS
 
 ### VPS 1000 G11 SE ###
