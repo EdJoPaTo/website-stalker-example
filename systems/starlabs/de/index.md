@@ -46,7 +46,7 @@ Browse our range
 
 [](/products/starfighter)
 
-[StarFighter 16-inch LaptopEstimated dispatch in 3 - 4 months](/products/starfighter)
+[StarFighter 16-inch LaptopEstimated dispatch in 3 - 5 months](/products/starfighter)
 
 More than just a licence.
 
