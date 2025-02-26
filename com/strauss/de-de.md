@@ -1,18 +1,95 @@
-###  Kälteschutz, extra bequem  ###
+Leicht & Lässig
 
 ---
 
- Winter-
-Jacken
+ Safety Sneaker
 ----------
 
 ---
 
-[alle Herrenjacken](https://www.strauss.com/de/de/arbeitsjacken/?itemorigin=StartseiteHW24)
+ Keine Kompromisse bei Schutz, Style und Tragegefühl: Die neuen Sicherheits- und Berufsschuhe sprengen die Grenze zwischen Work- und Streetwear.
 
-[alle Damenjacken](https://www.strauss.com/de/de/arbeitsjacken-damen/?itemorigin=StartseiteHW24)
+[zu allen Schuhneuheiten](https://www.strauss.com/de/de/neuheiten-schuhe/?itemOrigin=startseite_fs25)
 
-[alle Kinderjacken](https://www.strauss.com/de/de/kinderjacken/?itemorigin=StartseiteHW24)
+[mehr erfahren](https://www.strauss.com/de/de/schuhneuheiten?itemOrigin=startseite_fs25)
+
+e.s. Philly low
+
+e.s. St. Louis low
+
+e.s. Tampa low
+
+e.s. Brooklyn low
+
+**Hidden Safety**
+
+mit Zehenschutz &
+Rutschhemmung
+
+ Neue Highlight-Farbe
+---
+
+ schwarz-seegrün
+----------
+
+---
+
+ Unsere Kunden haben sie sich gewünscht, jetzt kommt sie fest ins Sortiment: Die beliebte Farbkombi schwarz-seegrün ziert ab sofort die e.s.motion 2020-Produkte.
+
+[für Herren](https://www.strauss.com/de/de/e-s-motion-2020-schwarz-seegruen/?itemorigin=startseite_fs25)
+
+[für Damen](https://www.strauss.com/de/de/e-s-motion-2020-schwarz-seegruen-damen/?itemorigin=startseite_fs25)
+
+[mehr erfahren](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-schwarz-seegruen?itemorigin=startseite_fs25)
+
+ Neue
+ Farbe
+---
+
+ Neue
+ Farbe
+---
+
+ Neue
+ Farbe
+---
+
+ Neue
+ Farbe
+---
+
+ Neue
+ Farbe
+---
+
+ Winter Softshelljacke
+e.s.motion 2020, Damen
+
+ Winter Softshelljacke
+e.s.motion 2020, Herren
+
+Shirts, Sweats & Co.
+
+---
+
+ Lässige Prints
+----------
+
+---
+
+Starke Looks mit weichem Tragegefühl: bequeme Shirts, Sweats & Co. für die ganze Familie **–** jetzt entdecken!
+
+[für Herren](https://www.strauss.com/de/de/strauss-works-prints?itemorigin=startseite_fs25)
+
+[für Damen](https://www.strauss.com/de/de/strauss-works-prints-damen?itemorigin=startseite_fs25)
+
+[für Kinder](https://www.strauss.com/de/de/strauss-works-prints-kinder?itemorigin=startseite_fs25)
+
+ T-Shirt e.s.iconic works,
+Damen | 4 Farben
+
+ T-Shirt e.s.iconic works,
+Kinder | 4 Farben
 
 ###  Angebote
 des Monats  ###
@@ -29,177 +106,122 @@ Nur gültig bis 28.02.2025 | Solange der Vorrat reicht
 
 ###
 
-Neue **Highlight-Farbe**
+**Shirt & Sweat**-Vielfalt
 
  ###
 
 ---
 
- ANTHRAZIT-
-WARNORANGE
+ Basics für alle im Team
 ----------
 
 ---
 
- Die sportliche e.s.motion 2020 in neuer Farbkombination: Jacken, Westen und Hosen in anthrazit-warnorange
----
+[für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
 
-[alle Produkte](https://www.strauss.com/de/de/e-s-motion-2020-anthrazit-warnorange/?itemorigin=StartseiteHW24)
-
-[neue Farbe entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-anthrazit-warnorange?itemorigin=StartseiteHW24)
-
- Neue
-Farbe
----
+[für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
 
 ###
 
-Spezial-Workwear **für Eis & Schnee**
+3 Schnitte & viele Größen
 
  ###
 
 ---
 
- Perfekt für winterliche Einsätze
----
-
- e.s.trail snow
-==========
-
----
-
-[alle Produkte](https://www.strauss.com/de/de/s/suche?query=trail%20snow)
-
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/)
-
- 3 in 1 Funktionsjacke
----
-
- \+ abnehmbare wärmende Innenjacke
-
- 3 in 1 Funktionsjacke
----
-
- \+ abnehmbare wärmende Innenjacke
-
- 3 in 1 Funktionsjacke
----
-
- \+ abnehmbare wärmende Innenjacke
-
- Funktionshose
----
-
- Funktionshose
----
-
- Funktionshose
----
-
 ###
 
-Noch was **für drunter?**
+Über 30
+Farbtöne
 
  ###
 
 ---
 
-[für Damen](https://www.strauss.com/de/de/f/funktionsunterwaesche-damen/?itemOrigin=StartseiteHW24)
-
-[für Herren](https://www.strauss.com/de/de/f/funktionsunterwaesche/Herren_Damen_Kinder:Herren/?itemOrigin=StartseiteHW24)
-
-[Funktions- unterwäsche](https://www.strauss.com/de/de/f/funktionsunterwaesche/Herren_Damen_Kinder:Herren/?itemOrigin=StartseiteHW24)
-
-[alle Funktionssocken](https://www.strauss.com/de/de/funktionssocken/?itemOrigin=StartseiteHW24)
-
-[Socken](https://www.strauss.com/de/de/funktionssocken/?itemOrigin=StartseiteHW24)
-
 ###
 
-Workwear **meets Fanwear**
+Hochwertige Materialvielfalt
 
  ###
 
 ---
 
- Power-Up für Super Mario-Fans
----
-
- Super Mario
-X Strauss
+ Basics für alle im Team
 ----------
 
 ---
 
-[für Damen](https://www.strauss.com/de/de/super-mario-x-strauss-damen/?itemorigin=StartseiteHW24)
+[für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
 
-[für Kinder](https://www.strauss.com/de/de/super-mario-x-strauss-kinder/?itemorigin=StartseiteHW24)
-
- Spare bis zu
----
-
- 42%
----
-
-###  Problemlöser
-made by Strauss  ###
-
----
-
- Smartes Werkzeug, das nicht jeder im Kasten hat.
-
- e.s. Ratch-Tech 4-in-1
----
-
- \-38%
----
-
- 4 Schlüsselgrößen
- an einem Werkzeug!
-
-[zum Aktionsangebot](https://www.strauss.com/de/de/ratschenschluessel-sets/e-s-ratch-tech-4-in-1-7140380-5524602-0.html?itemorigin=StartseiteHW24)
-
- e.s. Bit-Steckschlüssel-Einsatz
----
-
- \-22%
----
-
- Magnetischer Halt
- dank Dauermagnet!
-
-[zum Aktionsangebot](https://www.strauss.com/de/de/steckschluessel-adapter/e-s-bit-steckschluessel-einsatz-7144240-5508590-0.html?itemorigin=StartseiteHW24)
-
- Jetzt die ganze STRAUSS Werkzeug-Welt entdecken
----
-
-[alle Handwerkzeuge](https://www.strauss.com/de/de/handwerkzeuge/?itemOrigin=StartseiteHW24)
-
-[Elektroartikel](https://www.strauss.com/de/de/elektroartikel/?itemOrigin=StartseiteHW24)
-
-[Werkzeugzubehör](https://www.strauss.com/de/de/werkzeugzubehoer/?itemOrigin=StartseiteHW24)
+[für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
 
 ###
 
-Pop up **Stores**
+3 Schnitte & viele Größen
 
  ###
 
 ---
 
-###  Pop up Stores  ###
+###
+
+Über 30
+Farbtöne
+
+ ###
 
 ---
 
- In unseren Pop up Stores finden Sie alle
-Strauss-Highlights - live, zum Anfassen & Anprobieren!
+###
 
- STUTTGART
+Hochwertige Materialvielfalt
+
+ ###
+
 ---
 
- 26.02. - 05.04.2025
+ Basics für alle im Team
+----------
 
-[mehr Informationen](https://www.strauss.com/de/de/popupstore/popupstore_stuttgart)
+---
+
+[für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
+
+[für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
+
+ Basics für alle im Team
+----------
+
+---
+
+[für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
+
+[für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
+
+###
+
+**Coole Prints** für Groß & Klein
+
+ ###
+
+---
+
+[Herren](https://www.strauss.com/de/de/strauss-works-prints?itemOrigin=startseite_fs25)
+
+[Damen](https://www.strauss.com/de/de/strauss-works-prints-damen?itemOrigin=startseite_fs25)
+
+[Kinder](https://www.strauss.com/de/de/strauss-works-prints-kinder?itemOrigin=startseite_fs25)
+
+ Die neue Saison startet jetzt!
+---
+
+ Entdecken Sie neue Workwear, neue Schuhe und viele Saisonartikel – nur solange der Vorrat reicht!
+
+[alle Neuheiten](https://www.strauss.com/de/de/neuheiten/?itemorigin=startseite_fs25)
+
+**Einzigartige Outfits** für Firma und Freizeit
+
+---
 
 Druck & Stick
 
@@ -213,7 +235,7 @@ ab
 Gestalten
 sie selbst!
 
-==========
+----------
 
 ---
 
@@ -265,25 +287,78 @@ Druck: vielseitig, großflächig, flexibel — nur für Basics wie T-Shirts, Swe
  neu
 ---
 
-####  Brand Partnerships  ####
+###
+
+**Next Generation:** Sicherheitsschuhe sportlich wie nie zuvor
+
+ ###
 
 ---
 
-[alle Kooperationen entdecken](https://www.strauss.com/de/de/brand_partnerships)
+ S1 Sicherheitsschuhe e.s. Philly low
 
-###  Nach Kategorie shoppen  ###
+ 5 Farben
+
+ S1 Sicherheitsschuhe e.s. St. Louis low
+
+ 7 Farben
+
+ S1 Sicherheitsschuhe e.s. Tampa low
+
+ 4 Farben
+
+ S1 Sicherheitsschuhe e.s. Brooklyn low
+
+ 5 Farben
+
+[zu allen Schuhneuheiten](https://www.strauss.com/de/de/schuhneuheiten?itemorigin=startseite_fs25)
+
+**Passgenaue Outfits** für Küchen-, Service- und Gesundheitsprofis
 
 ---
 
-[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/?sort=newest)
+ Gastro
+---
 
-[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/?sort=newest)
+[für Herren](https://www.strauss.com/de/de/gastronomiebekleidung-kochbekleidung/?itemOrigin=startseite_fs25&sort=newest)
 
-[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?sort=newest)
+[für Damen](https://www.strauss.com/de/de/gastro-damen/?itemOrigin=startseite_fs25&sort=newest)
 
-[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?sort=newest)
+ Medical
+---
 
-[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?sort=newest)
+[für Herren](https://www.strauss.com/de/de/klinikbekleidung-pflegebekleidung/?itemOrigin=startseite_fs25&sort=newest)
+
+[für Damen](https://www.strauss.com/de/de/medical-damen/?itemOrigin=startseite_fs25&sort=newest)
+
+###
+
+Hey **Stuttgart!**
+
+ ###
+
+---
+
+|###  Pop up Store  ###<br/><br/>---<br/><br/> 26.02. - 05.04.2025 | Böblingen bei Stuttgart<br/><br/> In unseren Pop up Stores finden Sie alle   <br/>Strauss-Highlights - live, zum Anfassen & Anprobieren!<br/><br/>[<br/><br/>mehr Informationen<br/><br/>](https://www.strauss.com/de/de/popupstore/popupstore_stuttgart)|   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+
+###
+
+Nach **Kategorie** shoppen
+
+ ###
+
+---
+
+[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=startseite_fs25&sort=newest)
+
+[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/?itemorigin=startseite_fs25&sort=newest)
+
+[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=startseite_fs25&sort=newest)
+
+[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?itemorigin=startseite_fs25&sort=newest)
+
+[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?itemorigin=startseite_fs25&sort=newest)
 
 ####  Newsletter abonnieren  ####
 
