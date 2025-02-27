@@ -83,30 +83,6 @@ VPS
 
  Deal abgelaufen
 
-### VPS 2000 ARM G11 SE ###
-
- \+ 100 % SSD / bis zu 14 % Rabatt
-
-statt bis zu 10,59 €
-
-* 10 vCore (ARM64)
-* 16 GB RAM
-* 1024 GB NVMe (statt 512 GB)
-
-* Mindestlaufzeit: 1 Monat
-* Traffic inklusive
-* Standorte: VIE | NUE | MNZ
-
-pro Monat
-
-9,07 €
-
-(inkl. 0% MwSt.)
-
-VPS
-
- Deal abgelaufen
-
 ### VPS 8000 ARM G11 SE ###
 
  \+ 4 vCore / + 50 % SSD / bis zu 14 % Rabatt
@@ -124,6 +100,30 @@ statt bis zu 31,54 €
 pro Monat
 
 27,03 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 2000 ARM G11 SE ###
+
+ \+ 100 % SSD / bis zu 14 % Rabatt
+
+statt bis zu 10,59 €
+
+* 10 vCore (ARM64)
+* 16 GB RAM
+* 1024 GB NVMe (statt 512 GB)
+
+* Mindestlaufzeit: 1 Monat
+* Traffic inklusive
+* Standorte: VIE | NUE | MNZ
+
+pro Monat
+
+9,07 €
 
 (inkl. 0% MwSt.)
 
