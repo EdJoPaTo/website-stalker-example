@@ -3,9 +3,129 @@ netcup Deals
 
 Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Zu den Deals](https://www.netcup.com/de/deals#deals)
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 * Alle (0)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 1000 G11 SE ###
+
+ \+ 100 % SSD / bis zu 27 % Rabatt
+
+statt bis zu 11,35 €
+
+* 4 vCore dediziert
+* 8 GB DDR5 RAM (ECC)
+* 512 GB NVMe SSD (statt 256 GB)
+
+* AMD EPYC™ 9634
+* Mindestlaufzeit: 1 Monat
+* Standorte: VIE | NUE | MNZ
+
+pro Monat
+
+8,24 €
+
+(inkl. 0% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 8000 G11 SE ###
+
+ \+ 4 vCores / + 50 % SSD / bis zu 28 % Rabatt
+
+statt bis zu 66,67 €
+
+* 20 vCore dediziert (statt 16)
+* 64 GB DDR5 RAM (ECC)
+* 3 TB NVMe (instead of 2 TB)
+
+* AMD EPYC™ 9634
+* Mindestlaufzeit: 1 Monat
+* Standorte: VIE | NUE | MNZ
+
+pro Monat
+
+47,62 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 1000 ARM G11 SE ###
+
+ \+ 100 % SSD / bis zu 14 % Rabatt
+
+statt bis zu 6,13 €
+
+* 6 vCore (ARM64)
+* 8 GB RAM
+* 512 GB NVMe (statt 256 GB)
+
+* Mindestlaufzeit: 1 Monat
+* Traffic inklusive
+* Standorte: VIE | NUE | MNZ
+
+pro Monat
+
+5,26 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 2000 ARM G11 SE ###
+
+ \+ 100 % SSD / bis zu 14 % Rabatt
+
+statt bis zu 10,59 €
+
+* 10 vCore (ARM64)
+* 16 GB RAM
+* 1024 GB NVMe (statt 512 GB)
+
+* Mindestlaufzeit: 1 Monat
+* Traffic inklusive
+* Standorte: VIE | NUE | MNZ
+
+pro Monat
+
+9,07 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 8000 ARM G11 SE ###
+
+ \+ 4 vCore / + 50 % SSD / bis zu 14 % Rabatt
+
+statt bis zu 31,54 €
+
+* 22 vCore (ARM64)
+* 64 GB RAM
+* 3 TB NVMe (statt 2 TB)
+
+* Mindestlaufzeit: 1 Monat
+* Traffic inklusive
+* Standorte: VIE | NUE | MNZ
+
+pro Monat
+
+27,03 €
+
+(inkl. 0% MwSt.)
 
 VPS
 
@@ -29,9 +149,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-feb25)
-
 VPS
+
+ Deal abgelaufen
 
 ### VPS 2000 G11 SE ###
 
@@ -53,9 +173,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-feb25)
-
 VPS
+
+ Deal abgelaufen
 
 ### VPS 4000 G11 SE ###
 
@@ -77,129 +197,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-feb25)
-
-Root-Server
-
-### RS 1000 G11 SE ###
-
- \+ 100 % SSD / bis zu 27 % Rabatt
-
-statt bis zu 11,35 €
-
-* 4 vCore dediziert
-* 8 GB DDR5 RAM (ECC)
-* 512 GB NVMe SSD (statt 256 GB)
-
-* AMD EPYC™ 9634
-* Mindestlaufzeit: 1 Monat
-* Standorte: VIE | NUE | MNZ
-
-pro Monat
-
-8,24 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-1000-g11-se-nue-feb25)
-
-Root-Server
-
-### RS 8000 G11 SE ###
-
- \+ 4 vCores / + 50 % SSD / bis zu 28 % Rabatt
-
-statt bis zu 66,67 €
-
-* 20 vCore dediziert (statt 16)
-* 64 GB DDR5 RAM (ECC)
-* 3 TB NVMe (instead of 2 TB)
-
-* AMD EPYC™ 9634
-* Mindestlaufzeit: 1 Monat
-* Standorte: VIE | NUE | MNZ
-
-pro Monat
-
-47,62 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-8000-g11-se-nue-feb25)
-
-VPS
-
-### VPS 1000 ARM G11 SE ###
-
- \+ 100 % SSD / bis zu 14 % Rabatt
-
-statt bis zu 6,13 €
-
-* 6 vCore (ARM64)
-* 8 GB RAM
-* 512 GB NVMe (statt 256 GB)
-
-* Mindestlaufzeit: 1 Monat
-* Traffic inklusive
-* Standorte: VIE | NUE | MNZ
-
-pro Monat
-
-5,26 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-arm-g11-se-nue-feb25)
-
-VPS
-
-### VPS 2000 ARM G11 SE ###
-
- \+ 100 % SSD / bis zu 14 % Rabatt
-
-statt bis zu 10,59 €
-
-* 10 vCore (ARM64)
-* 16 GB RAM
-* 1024 GB NVMe (statt 512 GB)
-
-* Mindestlaufzeit: 1 Monat
-* Traffic inklusive
-* Standorte: VIE | NUE | MNZ
-
-pro Monat
-
-9,07 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-arm-g11-se-nue-feb25)
-
-VPS
-
-### VPS 8000 ARM G11 SE ###
-
- \+ 4 vCore / + 50 % SSD / bis zu 14 % Rabatt
-
-statt bis zu 31,54 €
-
-* 22 vCore (ARM64)
-* 64 GB RAM
-* 3 TB NVMe (statt 2 TB)
-
-* Mindestlaufzeit: 1 Monat
-* Traffic inklusive
-* Standorte: VIE | NUE | MNZ
-
-pro Monat
-
-27,03 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-8000-arm-g11-se-nue-feb25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .net Domain ###
 
@@ -220,9 +220,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.net-domain-feb25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .org Domain ###
 
@@ -243,9 +243,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.org-domain-feb25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .de Domain ###
 
@@ -266,9 +266,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.de-domain-feb25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .eu Domain ###
 
@@ -289,9 +289,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.eu-domain-feb25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .sale Domain ###
 
@@ -312,9 +312,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.sale-domain-feb25)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 1000 ###
 
@@ -334,22 +334,6 @@ pro Monat
 0,91 €
 
 (inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-feb25)
-
-### **Das erwartet dich:** ###
-
-* ### Unschlagbare Angebote aus allen Kategorien  ###
-
-  Von Rabatt bis zusätzlicher Leistung – für den Winter Sale haben wir aus jeder unserer beliebten Produkt-Kategorien mindestens ein Schnäppchen parat.
-
-* ### 48 statt 24 Stunden: Mehr Zeit zum Angebote sichern ###
-
-  Von Root Server, VPS bis Webhosting und Domains – die Auswahl ist groß. Daher hast du diesen Monat etwas mehr Zeit, das passende Angebot für dich zu finden.
-
-* ### Flashdeals: Zusätzliche Angebote für kurze Zeit ###
-
-  Du kannst weitere zeitlich begrenzte Angebote ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um sie nicht zu verpassen.
 
 Bleibe auf dem Laufenden
 ----------
