@@ -79,8 +79,9 @@ Wir können dir keine Festnetznummer anbieten. Auch können wir nicht deine alte
 
 Einen DSL/Breitband-Anschluss bieten wir bisher nicht an, sondern ausschließlich Mobilfunkverträge mit Datenvolumen. Leider sehen wir gerade keine konkrete Perspektive, um ein DSL/Breitband-Anschluss anzubieten. Wir bleiben wegen der hohen Nachfrage aber an dem Thema dran und hoffen eine Lösung zu finden.
 
-#### Bietet ihr Ermäßigungen auf eure Tarife an? ####
+#### Bietet ihr Ermäßigungen auf eure Tarife an, z.B. in Form von Partnerkarten oder Familientarif? ####
 
+Ja, es gibt unseren [Gruppenfunk](https://www.wetell.de/tarife/gruppenfunk/): Sobald du mehr als einen Tarif in deinem Vertragskonto hast, erhältst du automatisch für jeden weiteren Tarif 2 Euro Rabatt.
 Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es den „FAIRstärker“, er bietet die Möglichkeit, sich mit 1, 3 oder 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1, 3, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du auf der [FAIRstärker-Seite](https://www.wetell.de/fairstaerker/).
 
 #### Gilt das monatliche Datenvolumen sowohl für Down- als auch für Uploads? ####
@@ -211,10 +212,9 @@ Wenn dein Smartphone VoLTE-Anrufe zulässt, kannst du das auch mit einem WEtell 
 
 #### Bietet ihr Wifi-Assisted Calling (Voice over Wifi) an? ####
 
-Bei unseren Tarifen Mittelwelle, Superfunk, Megafon und Überschall kannst du Wifi-Assisted Calling nutzen. Damit kannst du über das W-Lan Netz telefonieren und SMS schreiben. Damit bist du unabhängig vom Empfang des Mobilfunknetzes. Auf den Seiten der Vodafone findest du weitere Infos:
-<https://www.vodafone.de/hilfe/wifi-calling.html>
+Bei allen unseren Tarifen kannst du Wifi-Assisted Calling nutzen. Damit kannst du über das WLAN-Netz telefonieren und SMS schreiben. Somit bist du unabhängig vom Empfang des Mobilfunknetzes. Auf den Seiten der Vodafone findest du [weitere Infos](https://www.vodafone.de/hilfe/wifi-calling.html):
 
-Für den Ultrakurz-Tarif können wir kein Wifi-Assisted Calling anbieten.
+Hinweis: Wifi-Assisted Calling kann im Ausland nicht verwendet werden. Es fallen normale Roaminggebühren an.
 
 #### Wie kann ich meine SIM-Karte komplett sperren lassen (z.B. bei Diebstahl oder Verlust)? ####
 
@@ -366,12 +366,12 @@ Die Monatsbeiträge werden immer 10-14 Tage nach Versand der Rechnungsinformatio
 
 Bei Freiminuten beträgt die Taktung 60/60. Das bedeutet, dass jede angebrochene Minute berechnet wird, auch wenn du nur ein paar Sekunden telefoniert hast.
 
+#### Wieso erscheint auf meiner Rechnung eine Gutschrift „Gruppenfunk“? ####
+
+Sobald du mehr als ein Tarif in deinem Vertragskonto hast, erhältst du automatisch pro zusätzlichem Tarif 2 Euro Rabatt. Mehr dazu siehe [Gruppenfunk](https://www.wetell.de/tarife/gruppenfunk).
+
 #### Wo finde ich meine Kund\*innennummer ####
 
 Deine Kund\*innennummer findest du in der E-Mail mit dem Betreff: „Dein WEtell-Login“. Du erhältst diese wenige Tage nach deiner Bestellung.
 
 Kundennummer
-
-#### Wieso erscheint auf meiner Rechnung eine Gutschrift „Gruppenfunk“? ####
-
-Sobald du mehr als ein Tarif in deinem Vertragskonto hast, erhältst du automatisch pro zusätzlichem Tarif 2 Euro Rabatt. Mehr dazu siehe [Gruppenfunk](https://www.wetell.de/tarife/gruppenfunk).
