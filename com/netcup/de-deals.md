@@ -7,6 +7,30 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Alle (0)
 
+Andere
+
+ FLASH DEAL
+
+### Failover IPv4 Adresse ###
+
+ 36 % Rabatt
+
+statt 4,20 €
+
+* Erweiterung für deine Root-Server, Storage-Server oder vServer
+* Zusätzlich 75 % Rabatt auf Setup-Gebühr
+
+* Standort: NUE
+* Flash Deal: Nur bis 27.02. 09:00 MEZ verfügbar
+
+pro Monat
+
+2,69 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/erweiterungen-kvm/failover-ipv4-adresse-nue-feb25)
+
 VPS
 
 ### VPS 1000 G11 SE ###
