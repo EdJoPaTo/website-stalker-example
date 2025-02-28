@@ -389,7 +389,7 @@ Matter
 
 incl. VAT, plus shipping
 
-Free FedEx Ground shipping to US locations with $99 purchase
+Free UPS Ground shipping to US locations with $99 purchase
 
 Free shipping in Germany, incl. VAT
 
@@ -405,7 +405,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  incl. VAT, plus shipping
 
- Free FedEx Ground shipping to US locations with $99 purchase
+ Free UPS Ground shipping to US locations with $99 purchase
 
  Free shipping in Germany, incl. VAT
 
@@ -1024,7 +1024,7 @@ Matter
 
 incl. VAT, plus shipping
 
-Free FedEx Ground shipping to US locations with $99 purchase
+Free UPS Ground shipping to US locations with $99 purchase
 
 Free shipping in Germany, incl. VAT
 
@@ -1040,7 +1040,7 @@ Plus shipping. Duties and taxes not included in shipping.
 
  incl. VAT, plus shipping
 
- Free FedEx Ground shipping to US locations with $99 purchase
+ Free UPS Ground shipping to US locations with $99 purchase
 
  Free shipping in Germany, incl. VAT
 
