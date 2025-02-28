@@ -1,8 +1,8 @@
 * STORAGE SHARE: managed nextcloud
   ==========
 
-* Safe and cheap cloud storage
-* for your workflow
+* Safe and cheap
+* cloud storage
 
 Collaborate with others and share and secure all your documents, images, and more – all in one place.
 
