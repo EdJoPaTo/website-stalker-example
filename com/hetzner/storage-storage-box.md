@@ -1,6 +1,6 @@
 Storage Boxes
 
-THE QUICK, SECURE AND CONVENIENT STORAGE SOLUTION
+QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 ==========
 
  Make them part of your data recovery plan today for increased redundancy, and automate your backups.
