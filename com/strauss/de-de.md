@@ -91,19 +91,6 @@ Damen | 4 Farben
  T-Shirt e.s.iconic works,
 Kinder | 4 Farben
 
-###  Angebote
-des Monats  ###
-
----
-
-Nur gültig bis 28.02.2025 | Solange der Vorrat reicht
-
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
-
-[Spare bis zu](https://www.strauss.com/de/de/angebote-des-monats/)
-
-[54%](https://www.strauss.com/de/de/angebote-des-monats/)
-
 ###
 
 **Shirt & Sweat**-Vielfalt
