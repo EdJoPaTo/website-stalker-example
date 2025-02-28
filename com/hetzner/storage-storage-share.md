@@ -1,8 +1,8 @@
-* STORAGE SHARE
+* STORAGE SHARE: managed nextcloud
   ==========
 
-* POWERED BY NEXTCLOUD
-* Get on the same page
+* Safe and cheap cloud storage
+* for your workflow
 
 Collaborate with others and share and secure all your documents, images, and more – all in one place.
 
