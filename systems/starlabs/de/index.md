@@ -38,7 +38,7 @@ Browse our range
 
 [](/products/starbook)
 
-[StarBook 14-inch LaptopEstimated dispatch in 3 - 4 weeks](/products/starbook)
+[StarBook 14-inch LaptopEstimated dispatch in 2 - 3 weeks](/products/starbook)
 
 [](/products/starbook-ultra)
 
