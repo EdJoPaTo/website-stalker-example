@@ -1,3 +1,9 @@
+Avocadostore
+----------
+
+Nachhaltig einkaufen kann aufreibend und anstrengend sein. In welchem Produkt ist genug Nachhaltigkeit drin, welches ist nur zu grün gewaschen? Mit 10 Nachhaltigkeitskriterien verschafft Avocadostore uns einen Überblick darüber, welche Produkte wir mit gutem Gewissen kaufen können. Egal ob Yogamatten, Fashion oder Dinge für den alltäglichen Haushalt.
+Also haben wir Geschäftsführer Henning Voss ins WEtell Spotlight gesetzt. Click dich gleich mal rein.
+
 GLS Bank
 ----------
 
