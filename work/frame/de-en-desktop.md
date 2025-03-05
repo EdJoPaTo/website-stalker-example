@@ -306,25 +306,25 @@ Up to 50 TOPS
 Fan Options
 
 **Noctua CPU Fan - NF-A12x25 HS-PWM**
-**Size: 120x120x25mm**
-**Connector & pin-configuration: 4-pin PWM**
-**Rotational speed: 2400RPM**
-**Acoustical noise: 28.8dBA**
-**Airflow: 117.6 m³/h (69.25 CFM)**
+Size: 120x120x25mm
+Connector & pin-configuration: 4-pin PWM
+Rotational speed: 2400RPM
+Acoustical noise: 28.8dBA
+Airflow: 117.6 m³/h (69.25 CFM)
 
 **Cooler Master CPU Fan - Mobius 120p ARGB (Customized)**
-**Size: 120x120x25mm**
-**Connector & pin-configuration: 4-pin PWM + 3-pin ARGB**
-**Rotational speed: 2400 RPM**
-**Acoustical noise: 30dBA (max. 34)**
-**Max. airflow at rated voltage: 68.4 CFM (max 75.2)**
+Size: 120x120x25mm
+Connector & pin-configuration: 4-pin PWM + 3-pin ARGB
+Rotational speed: 2400 RPM
+Acoustical noise: 30dBA (max. 34)
+Max. airflow at rated voltage: 68.4 CFM (max 75.2)
 
 **Cooler Master CPU Fan - Mobius 120 (Customized)**
-**Size: 120x120x25mm**
-**Connector & pin-configuration: 4-pin PWM**
-**Rotational speed: 2400RPM**
-**Acoustical noise: 30 dBA (max. 34)**
-**Max. airflow at rated voltage: 68.4 CFM (max 75.2)**
+Size: 120x120x25mm
+Connector & pin-configuration: 4-pin PWM
+Rotational speed: 2400RPM
+Acoustical noise: 30 dBA (max. 34)
+Max. airflow at rated voltage: 68.4 CFM (max 75.2)
 
 Heatsink
 
@@ -360,7 +360,7 @@ Power Supply Fan: Delta AFB0412SHBYQB 40x40mm fan with 0-RPM mode
 
 Operating System
 
-**None (bring your own)**
+None (bring your own)
 
 [**Check out our recommended Linux Distros**](/linux)
 
@@ -499,8 +499,8 @@ Easy to repair with replacement parts available in the Framework Marketplace.
 
 Warranty
 
-**2 Year Limited Warranty for UK and EU**
-**3 Year Limited Warranty for Spain**
+2 Year Limited Warranty for UK and EU
+3 Year Limited Warranty for Spain
 
 Optimized for the most demanding titles.
 ----------
