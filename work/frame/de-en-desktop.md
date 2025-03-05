@@ -499,8 +499,8 @@ Easy to repair with replacement parts available in the Framework Marketplace.
 
 Warranty
 
-2 Year Limited Warranty for UK and EU
-3 Year Limited Warranty for Spain
+**2 Year Limited Warranty for UK and EU
+3 Year Limited Warranty for Spain**
 
 Optimized for the most demanding titles.
 ----------
