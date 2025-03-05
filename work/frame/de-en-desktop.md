@@ -360,7 +360,7 @@ Power Supply Fan: Delta AFB0412SHBYQB 40x40mm fan with 0-RPM mode
 
 Operating System
 
-None (bring your own)
+**None (bring your own)**
 
 [**Check out our recommended Linux Distros**](/linux)
 
