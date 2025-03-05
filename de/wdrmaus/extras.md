@@ -1,4 +1,4 @@
-[Was haben Wahlen mit Demokratie zu tun?](https://www.wdrmaus.de/extras/mausthemen/mausbaum/index.php5)
+[Was haben Wahlen mit Demokratie zu tun?](https://www.wdrmaus.de/extras/mausthemen/demokratie/index.php5)
 
 [Starte in dein digitales Abenteuer](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/index.php5)
 
@@ -11,7 +11,7 @@
 * [Unser Einfluss auf das Klima](https://www.wdrmaus.de/extras/mausthemen/klimawandel/index.php5)
 * [Fleißige Insekten und wichtige Helfer](https://www.wdrmaus.de/extras/mausthemen/bienen/index.php5)
 * [Der Videokurs mit Penny](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/programmieren.php5)
-* [Begleite eine kleine Stieleiche beim Wachsen.](https://www.wdrmaus.de/extras/mausthemen/demokratie/index.php5)
+* [Begleite eine kleine Stieleiche beim Wachsen.](https://www.wdrmaus.de/extras/mausthemen/mausbaum/index.php5)
 * [Vier Kinder erzählen ihre Geschichte](https://www.wdrmaus.de/extras/mausthemen/unsichtbare_krankheit/index.php5)
 * [Starte in dein digitales Abenteuer!](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/index.php5)
 * [Retten, löschen, bergen, schützen](https://www.wdrmaus.de/extras/mausthemen/feuerwehr/index.php5)
