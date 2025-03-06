@@ -277,6 +277,8 @@ Free shipping in Germany, incl. VAT
 
 Plus shipping. Duties and taxes not included in shipping.
 
+ Supports Matter & Thread
+
  Add to cart
 
  Your choice
@@ -911,6 +913,8 @@ Free UPS Ground shipping to US locations with $99 purchase
 Free shipping in Germany, incl. VAT
 
 Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
 
  Add to cart
 

@@ -7,6 +7,29 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Alle (0)
 
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 1000 ###
+
+ 50 % Rabatt
+
+statt 1,82 €
+
+* SSH Zugang vorhanden
+* 1 .de-Domain oder 1 Alternativdomain inklusive
+* 50 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+0,91 €
+
+(inkl. 0% MwSt.)
+
 Root-Server
 
  Deal abgelaufen
@@ -309,29 +332,6 @@ statt 4,47 €
 pro Monat dauerhaft
 
 3,07 €
-
-(inkl. 0% MwSt.)
-
-Webhosting
-
- Deal abgelaufen
-
-### Webhosting 1000 ###
-
- 50 % Rabatt
-
-statt 1,82 €
-
-* SSH Zugang vorhanden
-* 1 .de-Domain oder 1 Alternativdomain inklusive
-* 50 GB SSD Speicherplatz
-
-* SSL Zertifikat inklusive
-* Standorte: NUE | VIE | MNZ
-
-pro Monat
-
-0,91 €
 
 (inkl. 0% MwSt.)
 
