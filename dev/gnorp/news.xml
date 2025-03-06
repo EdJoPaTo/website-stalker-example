@@ -6,16 +6,22 @@
 		<description>(the) Gnorp Apologue Website</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
-			<title>19 — Idler Fest Hats and a Beta</title>
-			<link>https://gnorp.dev/news/19-Idler-Fest-Hats-and-a-Beta.html</link>
+			<title>20 — Epilogue Talents, More Hats, More Beta</title>
+			<link>https://gnorp.dev/news/20-Epilogue-Talents,-More-Hats,-More-Beta.html</link>
+			<content:encoded><![CDATA[<div class="date full">5th Mar, 25</div>
+<div class="preview-content">Talents, beta and hats!</div>]]></content:encoded>
+		</item>
+		<item>
+			<title>19 — Idler Fest, Hats, and a Beta</title>
+			<link>https://gnorp.dev/news/19-Idler-Fest,-Hats,-and-a-Beta.html</link>
 			<content:encoded><![CDATA[<div class="date full">3rd Feb, 25</div>
-<div class="preview-content">A roadmap for the future.</div>]]></content:encoded>
+<div class="preview-content">The first hats are here, and, woah, a beta update!</div>]]></content:encoded>
 		</item>
 		<item>
 			<title>18 — Happy Gnorpyear!</title>
 			<link>https://gnorp.dev/news/18-Happy-Gnorpyear!.html</link>
 			<content:encoded><![CDATA[<div class="date full">31st Dec, 24</div>
-<div class="preview-content">A roadmap for the future.</div>]]></content:encoded>
+<div class="preview-content">I hope you'll have a great 2025!</div>]]></content:encoded>
 		</item>
 		<item>
 			<title>17 — (the) Gnorp Roadmap</title>
