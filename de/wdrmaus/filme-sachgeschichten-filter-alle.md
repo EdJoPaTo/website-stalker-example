@@ -232,6 +232,7 @@
 * [Dosenöffner](https://www.wdrmaus.de/filme/sachgeschichten/dosenoeffner.php5)
 * [Drehwurm](https://www.wdrmaus.de/filme/sachgeschichten/drehwurm.php5)
 * [Dresdner Frauenkirche](https://www.wdrmaus.de/filme/sachgeschichten/dresdner_frauenkirche.php5)
+* [Dudelsack](https://www.wdrmaus.de/filme/sachgeschichten/dudelsack.php5)
 * [Dübel](https://www.wdrmaus.de/filme/sachgeschichten/duebel.php5)
 * [Durchschreibepapier](https://www.wdrmaus.de/filme/sachgeschichten/durchschreibepapier.php5)
 * [Duschen](https://www.wdrmaus.de/filme/sachgeschichten/duschen.php5)
