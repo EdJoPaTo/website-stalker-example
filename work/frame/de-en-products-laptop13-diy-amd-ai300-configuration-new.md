@@ -124,7 +124,7 @@ Close
 
   12-core/24-thread, up to 5.1GHz
 
-   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 5  Ships Q2 Past Batches
+   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 5  Ships May Past Batches
 
 **Display**
 
