@@ -318,16 +318,25 @@ Druck: vielseitig, großflächig, flexibel — nur für Basics wie T-Shirts, Swe
 
 [für Damen](https://www.strauss.com/de/de/medical-damen/?itemOrigin=startseite_fs25&sort=newest)
 
-###
+ Wir kommen in **deine Stadt!**
 
-Hey **Stuttgart!**
-
- ###
+----------
 
 ---
 
-|###  Pop up Store  ###<br/><br/>---<br/><br/> 26.02. - 05.04.2025 | Böblingen bei Stuttgart<br/><br/> In unseren Pop up Stores finden Sie alle   <br/>Strauss-Highlights - live, zum Anfassen & Anprobieren!<br/><br/>[<br/><br/>mehr Informationen<br/><br/>](https://www.strauss.com/de/de/popupstore/popupstore_stuttgart?itemOrigin=startseite_fs25)|   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+ Pop up Store
+---
+
+ 26.02. - 05.04.2025 | Böblingen bei Stuttgart
+
+[mehr Informationen](https://www.strauss.com/de/de/popupstore?itemOrigin=startseite_fs25)
+
+ Messe Bauma
+---
+
+ 07.04 - 13.04.2025 | München
+
+[mehr Informationen](https://www.strauss.com/de/de/Unternehmen/Messen?itemOrigin=startseite_fs25)
 
 ###
 
