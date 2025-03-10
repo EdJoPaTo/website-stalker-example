@@ -215,7 +215,7 @@ Cooler Master Mobius 120
 
 Cooler Master Mobius 120p ARGB
 
-Noctua NF-A12x25HS-PWM
+Noctua NF-A12x25 HS-PWM
 
 ###### Optional carrying handle. Coming soon. ######
 
@@ -226,7 +226,7 @@ PC Parts. Your pick.
 
 Framework Desktop uses a standard Mini-ITX Mainboard form factor, FlexATX Power Supply, and 120mm CPU Fan, letting you mix and match with the best of the wide open PC ecosystem.
 
-[Explore our Mainboard](/products/desktop-mainboard-amd-ai-max300)
+[Explore our Mainboard](/products/framework-desktop-mainboard-amd-ryzen-ai-max-300-series?v=FRAFMK0002)
 
 No crapware. Choose your software.
 ----------

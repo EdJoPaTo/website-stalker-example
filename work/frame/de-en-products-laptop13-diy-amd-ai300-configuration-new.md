@@ -362,13 +362,11 @@ Close
 * Hungarian (2nd Gen)
 * Italian (2nd Gen)
 * Korean (2nd Gen)
-* Norwegian (2nd Gen)
 * Portuguese (2nd Gen)
 * Slovenian/Croatian (2nd Gen)
 * Spanish (Latin American) (2nd Gen)
 * Spanish (Spain) (2nd Gen)
 * Swedish/Finnish (2nd Gen)
-* Swiss (2nd Gen)
 * Thai (2nd Gen)
 * Traditional Chinese (2nd Gen)
 
