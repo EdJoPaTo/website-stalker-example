@@ -18,10 +18,13 @@ Webhosting
 statt 1,82 €
 
 * SSH Zugang vorhanden
+
 * 1 .de-Domain oder 1 Alternativdomain inklusive
+
 * 50 GB SSD Speicherplatz
 
 * SSL Zertifikat inklusive
+
 * Standorte: NUE | VIE | MNZ
 
 pro Monat
@@ -41,11 +44,15 @@ Root-Server
 statt bis zu 11,35 €
 
 * 4 vCore dediziert
+
 * 8 GB DDR5 RAM (ECC)
+
 * 512 GB NVMe SSD (statt 256 GB)
 
 * AMD EPYC™ 9634
+
 * Mindestlaufzeit: 1 Monat
+
 * Standorte: VIE | NUE | MNZ
 
 pro Monat
@@ -65,11 +72,15 @@ Root-Server
 statt bis zu 66,67 €
 
 * 20 vCore dediziert (statt 16)
+
 * 64 GB DDR5 RAM (ECC)
+
 * 3 TB NVMe (instead of 2 TB)
 
 * AMD EPYC™ 9634
+
 * Mindestlaufzeit: 1 Monat
+
 * Standorte: VIE | NUE | MNZ
 
 pro Monat
@@ -89,11 +100,15 @@ VPS
 statt bis zu 6,13 €
 
 * 6 vCore (ARM64)
+
 * 8 GB RAM
+
 * 512 GB NVMe (statt 256 GB)
 
 * Mindestlaufzeit: 1 Monat
+
 * Traffic inklusive
+
 * Standorte: VIE | NUE | MNZ
 
 pro Monat
@@ -113,11 +128,15 @@ VPS
 statt bis zu 10,59 €
 
 * 10 vCore (ARM64)
+
 * 16 GB RAM
+
 * 1024 GB NVMe (statt 512 GB)
 
 * Mindestlaufzeit: 1 Monat
+
 * Traffic inklusive
+
 * Standorte: VIE | NUE | MNZ
 
 pro Monat
@@ -137,11 +156,15 @@ VPS
 statt bis zu 31,54 €
 
 * 22 vCore (ARM64)
+
 * 64 GB RAM
+
 * 3 TB NVMe (statt 2 TB)
 
 * Mindestlaufzeit: 1 Monat
+
 * Traffic inklusive
+
 * Standorte: VIE | NUE | MNZ
 
 pro Monat
@@ -159,11 +182,15 @@ VPS
 statt ab 6,60 €
 
 * 4 vCore (x86)
+
 * 8 GB ECC RAM
+
 * 512 GB SSD (statt 256 GB)
 
 * Mindestlaufzeit: 1 Monat
+
 * Traffic inklusive
+
 * Standort: NUE
 
 pro Monat
@@ -183,11 +210,15 @@ VPS
 statt ab 14,50 €
 
 * 8 vCore (x86)
+
 * 16 GB ECC RAM
+
 * 1024 GB SSD (statt 512 GB)
 
 * Mindestlaufzeit: 1 Monat
+
 * Traffic inklusive
+
 * Standort: NUE
 
 pro Monat
@@ -207,11 +238,15 @@ VPS
 statt ab 24,75 €
 
 * 12 vCore (x86)
+
 * 32 GB ECC RAM
+
 * 2 TB SSD (statt 1 TB)
 
 * Mindestlaufzeit: 1 Monat
+
 * Traffic inklusive
+
 * Standort: NUE
 
 pro Monat
@@ -231,10 +266,13 @@ Domains
 statt 1,77 €
 
 * DNSSEC, API
+
 * 0 € Setup Gebühr
+
 * Umfangreiches DNS-Management
 
 * Redundant verteilte Nameserver
+
 * Für Neu- und Bestandskunden
 
 pro Monat dauerhaft
@@ -254,10 +292,13 @@ Domains
 statt 1,26 €
 
 * DNSSEC, API
+
 * 0 € Setup Gebühr
+
 * Umfangreiches DNS-Management
 
 * Redundant verteilte Nameserver
+
 * Für Neu- und Bestandskunden
 
 pro Monat dauerhaft
@@ -277,10 +318,13 @@ Domains
 statt 0,35 €
 
 * DNSSEC, API
+
 * 2 € Setup Gebühr
+
 * Umfangreiches DNS-Management
 
 * Redundant verteilte Nameserver
+
 * Für Neu- und Bestandskunden
 
 pro Monat dauerhaft
@@ -300,10 +344,13 @@ Domains
 statt 0,66 €
 
 * DNSSEC, API
+
 * 0 € Setup Gebühr
+
 * Umfangreiches DNS-Management
 
 * Redundant verteilte Nameserver
+
 * Für Neu- und Bestandskunden
 
 pro Monat dauerhaft
@@ -323,10 +370,13 @@ Domains
 statt 4,47 €
 
 * DNSSEC, API
+
 * 0 € Setup Gebühr
+
 * Umfangreiches DNS-Management
 
 * Redundant verteilte Nameserver
+
 * Für Neu- und Bestandskunden
 
 pro Monat dauerhaft
