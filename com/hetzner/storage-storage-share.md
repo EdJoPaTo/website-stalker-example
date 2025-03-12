@@ -49,9 +49,9 @@ Storage Shares have unlimited internal and external traffic, so you'll have no p
 
 You can rest assured that your data is safe. Hetzner's RAID-based storage backend and our cluster network of databases make the probability of failure very low. In addition, Hetzner's system automatically makes backups of the database and storage backend several times every day.
 
-### Collaborative ###
+### Sharing ###
 
-You can use our Storage Shares with an unlimited number of users, and put them together into user groups. It's easy to edit documents together with other users, to share documents with your team, or to move documents to other Storage Share or Nextcloud instances.
+Use Storage Share with an unlimited number of users and summarise them in user groups. Easily share documents within the team or with other Storage Share or Nextcloud instances.
 
 ### Flexible access ###
 
@@ -59,7 +59,7 @@ Our Storage Shares include a user-friendly web interface. Users always connect t
 
 ### Customizable ###
 
-It's easy to customize your Storage Shares to meet your specific needs and to include the specific features you want. You can customize the theme to match your corporate identity, integrate your own authentication systems, or add any other apps available in the Nextcloud App Store.
+It's easy to customize your Storage Shares with apps available in the Nextcloud Appstore to meet your specific needs. For example, you can integrate your own authentication systems. Additional apps must be carried out independently, we cannot offer support for this.
 
 ### Scalability ###
 
