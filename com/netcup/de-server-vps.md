@@ -30,7 +30,7 @@ VPS 250 G11s
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-250-g11s)
+[Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-200-g11s)
 
 VPS 500 G11s
 
@@ -166,13 +166,13 @@ Bis zu insgesamt 8 TB Speicher erhalten Sie mit der Local Block Storage Technolo
 VPS-Server im Vergleich
 ----------
 
-* [VPS 250](https://www.netcup.com/de/server/vps/vps-250-g11s)
+* [VPS 250](https://www.netcup.com/de/server/vps/vps-200-g11s)
 
   ### VPS 250 ###
 
   eignet sich ideal für **kleine bis mittelgroße Unternehmens-Webseiten,** sowie für **Blogs** und **persönliche Webseiten** von Einzelpersonen, die ihre Online-Präsenz aufbauen und Inhalte teilen möchten.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-250-g11s)
+  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-200-g11s)
 
 * [VPS 500](https://www.netcup.com/de/server/vps/vps-500-g11s)
 
