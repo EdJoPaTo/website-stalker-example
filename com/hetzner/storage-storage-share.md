@@ -59,7 +59,7 @@ Our Storage Shares include a user-friendly web interface. Users always connect t
 
 ### Customizable ###
 
-It's easy to customize your Storage Shares with apps available in the Nextcloud Appstore to meet your specific needs. For example, you can integrate your own authentication systems. Additional apps must be carried out independently, we cannot offer support for this.
+It's easy to customize your Storage Shares to meet your specific needs and to include the specific features you want. You can customize the theme to match your corporate identity, integrate your own authentication systems, or add any other apps available in the Nextcloud App Store.
 
 ### Scalability ###
 
