@@ -621,7 +621,7 @@ updated 2024-11-26
 
 other
 
-updated 2025-03-12
+updated 2025-03-13
 
 [HiFiBerryOS](https://www.hifiberry.com/docs/hifiberryos/)
 
