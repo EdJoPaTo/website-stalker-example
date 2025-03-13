@@ -303,9 +303,9 @@ updated 2024-11-20
 
 [Creating filters and crossovers using CamillaDSP](https://www.hifiberry.com/docs/software/creating-filters-and-crossovers-using-camilladsp/)
 
-other
+adc, dac, dsp, loudspeaker
 
-updated 2024-12-06
+updated 2025-03-13
 
 [Projects](https://www.hifiberry.com/docs/projects/)
 
@@ -619,7 +619,13 @@ updated 2024-11-26
 
 [Datasheet StudioDAC8x](https://www.hifiberry.com/docs/data-sheets/datasheet-studiodac8x/)
 
-other
+dac, datasheet, multichannel
+
+updated 2025-03-13
+
+[Datasheet ADC8x add-on](https://www.hifiberry.com/docs/data-sheets/datasheet-adc8x-add-on/)
+
+adc, datasheet, multichannel
 
 updated 2025-03-13
 
