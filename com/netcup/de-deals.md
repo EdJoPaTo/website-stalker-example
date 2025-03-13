@@ -277,7 +277,7 @@ statt 1,77 €
 
 pro Monat dauerhaft
 
-1,17 €
+1,16 €
 
 (inkl. 0% MwSt.)
 
