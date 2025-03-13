@@ -38,12 +38,6 @@ Computers shouldn’t be boring.
 
 [Learn more Learn more](/de/en/laptop12)
 
-[##### “The Framework Laptop is the best—and so far only—option if you want a laptop you can easily upgrade and repair.” #####](https://www.nytimes.com/wirecutter/reviews/best-laptops/#the-most-repairable-laptop)
-
-[##### “The 2023 Framework Laptop 13 has a new AMD option, and it’s a stellar performer.” #####](https://www.theverge.com/23911664/framework-laptop-13-2023-amd-review)
-
-[##### “Exceedingly rare 10/10 Repairability Score" #####](https://www.youtube.com/watch?v=AV2umY3R0vw)
-
 Framework Marketplace
 ----------
 
