@@ -465,6 +465,12 @@ dac, hifiberryos
 
 updated 2020-02-24
 
+[Build a multi-channel Digital Audio Workstation (DAW)](https://www.hifiberry.com/docs/projects/build-a-multi-channel-digital-audio-workstation-daw/)
+
+adc, configuration, dac, daw, linux, multichannel, open-source
+
+updated 2025-03-14
+
 [Raspberry PI as Headless Spotify Connect Player](https://www.hifiberry.com/docs/projects/raspberry-pi-as-headless-spotify-connect-player/)
 
 other
