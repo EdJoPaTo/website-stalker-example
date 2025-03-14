@@ -34,7 +34,7 @@ Browse our range
 
 [](/products/starlite)
 
-[StarLite 12.5-inch ConvertibleSold out](/products/starlite)
+[StarLite 12.5-inch ConvertibleDispatch in 1 - 2 working days](/products/starlite)
 
 [](/products/starbook)
 
