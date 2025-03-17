@@ -4,14 +4,13 @@ Chassis
 
  Processor
 
- 1.00GHz quad-core Intel Alder Lake N200
- Turbo Boost up to 3.70GHz, with 6MB Smart Cache
+ 1.00GHz quad-core Intel Alder Lake N305
+ Turbo Boost up to 3.80GHz, with 6MB Intel® Smart Cache
 
- 4 Cores
- 4
-Threads
- 6W TDP
- 25W PL2
+ 8 Cores
+ 8 Threads
+ 15W TDP
+ 35W PL2
 
  Storage
 
@@ -93,8 +92,8 @@ Configuration: 1 × 32GB
 
  Graphics
 
- Intel UHD Graphics
- 750MHz Frequency
+ Intel® UHD Graphics
+ 1.25GHz Frequency
 
  Connectivity
 

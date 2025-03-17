@@ -4,25 +4,19 @@ Quiet. Compact. Linux-friendly. Uncompromisingly Secure.
 
 Intel
 
-N200
+N305
 
 processor
 
-Fanless
-
-0db
-
-design
-
 Up to
 
-3.7GHz
+3.8GHz
 
 quad-core processing
 
 Up to
 
- 25  W
+ 35  W
 
 Thermal Design Power
 
