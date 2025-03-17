@@ -597,7 +597,7 @@ updated 2023-09-13
 
 other
 
-updated 2024-03-05
+updated 2025-03-17
 
 [Datasheet DAC8x](https://www.hifiberry.com/docs/data-sheets/datasheet-dac8x/)
 
