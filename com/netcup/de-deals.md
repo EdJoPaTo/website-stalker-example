@@ -392,35 +392,19 @@ Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media,
 
 * [Instagram](https://www.instagram.com/netcup.official)
 
-  Instagram
-
 * [Mastodon](https://netcup.cafe/@netcup)
-
-  Mastodon
 
 * [Facebook](https://www.facebook.com/netcup/)
 
-  Facebook
-
 * [X](https://x.com/netcup)
-
-  X
 
 * [LinkedIn](https://www.linkedin.com/company/netcup)
 
-  LinkedIn
-
 * [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)
-
-  WhatsApp
 
 * [Telegram](https://t.me/netcupoffical)
 
-  Telegram
-
-* [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de)
-
-  RSS-Feed
+* [RSS](https://www.netcup.com/special-offers.xml?locale=de)
 
 Wieso netcup?
 ----------
