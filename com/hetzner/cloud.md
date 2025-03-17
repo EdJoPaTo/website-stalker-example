@@ -57,7 +57,7 @@ It's time to take the next step and get your very own dedicated cloud instance t
 
 ### Shared vCPU ###
 
-In our shared vCPU plans, you share the hardware resources with "neighbors", so your apps are affected by how much neighbors use the vCPU, which can mean changing response times. Shared vCPU plans have the best price-performance ratio. They are suitable for development and production environments with medium levels of traffic and network demand.
+In our shared vCPU plans, you share the hardware resources with "neighbors", so your apps are affected by how much neighbors use the vCPU, which can mean changing response times. Shared vCPU plans have the best price-performance ratio. They are suitable for development and production environments with medium levels of traffic and computing power demand.
 
 Use these shared instances for development and test applications with low to medium levels of resource requirements and network traffic. They are ideally suited for small databases, micro services, content management systems or webservers with low to medium traffic.
 
