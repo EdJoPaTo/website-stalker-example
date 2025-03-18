@@ -302,7 +302,7 @@ We suggest ordering 4 or more Expansion Cards, and that at least one is a USB-C 
 
 Most popular combination
 
- 2xUSB-C (Aluminum), USB-A, HDMI (3rd Gen)
+ 2x USB-C (Aluminum), USB-A, HDMI (3rd Gen)
 
 Quick select
 

@@ -392,6 +392,12 @@ Close
 
 Framework Desktop has 21 tile slots in the front for you to customize freely, you can choose different tile packs with base colors, special tiles with logos or even [3D print your own tiles](https://github.com/FrameworkComputer/Framework-Desktop)! We recommend ordering 21 tiles minimum.
 
+Most popular combination
+
+ 3x Pack of 7 - Black Straight
+
+Quick select
+
  Color Tile Packs
 
  Pack of 7 - Black Straight
