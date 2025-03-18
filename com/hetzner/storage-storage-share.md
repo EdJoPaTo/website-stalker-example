@@ -116,4 +116,4 @@ Frequently asked questions
 
   Unfortunately, we at Hetzner Online cannot add any features to Storage Share since we have not developed this software ourselves. Storage Share is based on the open source software from Nextcloud. However, you can make a feature request by going to the official Github repository: <https://github.com/nextcloud/server/>
 
-[More FAQs](https://docs.hetzner.com/konsoleh/storage-share/)
+[More FAQs](https://docs.hetzner.com/storage/storage-share/)

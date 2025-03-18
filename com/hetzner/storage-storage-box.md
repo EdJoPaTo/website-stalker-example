@@ -129,4 +129,4 @@ Frequently Asked Questions
 
   You can create additional users for your Storage Box via the Robot administration interface. They can use the same protocols as the main user. Other users have access only to a designated subdirectory of the main user. However, the main user has full access to the directories of all sub-accounts.
 
-[More FAQs](https://docs.hetzner.com/robot/storage-box)
+[More FAQs](https://docs.hetzner.com/storage/storage-box/)
