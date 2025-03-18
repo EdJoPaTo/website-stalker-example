@@ -1269,7 +1269,7 @@ Choose up to 4TB WD\_BLACK™ NVMe™ SSDs or bring your own
 
 Memory Options
 
-Choose up to 98GB DDR5-5600 or bring your own
+Choose up to 96GB DDR5-5600 or bring your own
 
 Connectivity
 
