@@ -1056,7 +1056,7 @@ Shin-Etsu 8117 thermal paste
 Integrated Graphics
 
 Base
-Intel® Arc™ graphics
+Intel® Graphics
 Up to 2.2GHz
 7 Xe-cores
 
