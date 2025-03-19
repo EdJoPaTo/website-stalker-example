@@ -120,6 +120,11 @@ sites:
       - css_select: body
       - html_markdownify
 
+  - url: https://hattesen.eu/
+    editors:
+      - css_select: body
+      - html_prettify
+
   - url:
       - https://www.netcup.com/de/deals
       - https://www.netcup.com/de/domains/domain-kaufen
