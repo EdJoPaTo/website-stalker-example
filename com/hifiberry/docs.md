@@ -595,15 +595,15 @@ updated 2023-09-13
 
 [Datasheet Amp4 Pro](https://www.hifiberry.com/docs/data-sheets/datasheet-amp4-pro/)
 
-other
+amp, datasheet
 
-updated 2025-03-17
+updated 2025-03-19
 
 [Datasheet DAC8x](https://www.hifiberry.com/docs/data-sheets/datasheet-dac8x/)
 
-other
+dac, datasheet, multichannel
 
-updated 2024-03-13
+updated 2025-03-19
 
 [Datasheet DAC2 ADC Pro](https://www.hifiberry.com/docs/data-sheets/datasheet-dac2-adc-pro/)
 
