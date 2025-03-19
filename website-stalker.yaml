@@ -415,3 +415,14 @@ sites:
             - css_flatten: div
             - html_sanitize
             - html_prettify
+
+  - url: https://rePebble.com/
+    editors:
+      - css_select: body
+      - css_remove: script
+      - html_markdownify
+  - url: https://store.rePebble.com
+    editors:
+      - css_select: body
+      - css_remove: script, svg, img
+      - html_markdownify
