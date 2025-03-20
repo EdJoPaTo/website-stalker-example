@@ -108,19 +108,19 @@ Close
 
 [Compare](/de/en/products/laptop13-diy-amd-ai300/comparison)
 
-* Ryzen™ AI 5 340  Pre-order  €1,059
+* Ryzen™ AI 5 340  Pre-order  Pre-order  €1,059
 
   6-core/12-thread, up to 4.8GHz
 
    Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches
 
-* Ryzen™ AI 7 350  Pre-order  €1,459
+* Ryzen™ AI 7 350  Pre-order  Pre-order  €1,459
 
   8-core/16-thread, up to 5.0GHz
 
    Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches
 
-* Ryzen™ AI 9 HX 370  Pre-order  €1,939
+* Ryzen™ AI 9 HX 370  Pre-order  Pre-order  €1,939
 
   12-core/24-thread, up to 5.1GHz
 
