@@ -12,6 +12,7 @@ Core Apps
 
 GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-installed on your GNOME system.
 
+* [**Audio Player**Play audio files](Decibels/)
 * [**Calculator**Perform arithmetic, scientific or financial calculations](Calculator/)
 * [**Calendar**Manage your schedule](Calendar/)
 * [**Camera**Take pictures and videos](Snapshot/)
@@ -20,7 +21,6 @@ GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-
 * [**Connections**View and use other desktops](Connections/)
 * [**Console**Terminal Emulator](Console/)
 * [**Contacts**Manage your contacts](Contacts/)
-* [**Decibels**Play audio files](Decibels/)
 * [**Disk Usage Analyzer**Check folder sizes and available disk space](Baobab/)
 * [**Disks**Disk management utility for GNOME](DiskUtility/)
 * [**Document Scanner**Make a digital copy of your photos and documents](SimpleScan/)
