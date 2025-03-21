@@ -80,7 +80,7 @@ Close
 
 [Compare](/de/en/products/desktop-diy-amd-aimax300/comparison)
 
-* Max 385 - 32GB  Pre-order  Pre-order  €1,279
+* Max 385 - 32GB  Pre-order  €1,279
 
   * 8-core/16-thread CPU, up to 5.0GHz
   * 32 Graphics Cores, up to 2.8GHz
@@ -88,7 +88,7 @@ Close
 
    Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3 Past Batches
 
-* Max+ 395 - 64GB  Pre-order  Pre-order  €1,859
+* Max+ 395 - 64GB  Pre-order  €1,859
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
@@ -96,7 +96,7 @@ Close
 
    Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3 Past Batches
 
-* Max+ 395 - 128GB  Pre-order  Pre-order  €2,329
+* Max+ 395 - 128GB  Pre-order  €2,329
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
