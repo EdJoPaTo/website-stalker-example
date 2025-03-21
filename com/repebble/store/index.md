@@ -7,7 +7,7 @@ For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functio
 
 For more details, read the [announcement blog post](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches).
 
- \- ***[Eric Migicovsky](https://ericmigi.com)***
+\- ***[Eric Migicovsky](https://ericmigi.com)***
 
 ### Core 2 Duo ###
 
@@ -71,7 +71,7 @@ Yes! It features the exact same beautiful screen as Pebble Time 2. We've added a
 
 Yes, we warrant against manufacturing defects for 30 days after you receive your order. Ship us the defective watch, and after we receive it back, we will ship (no charge) you a replacement. Full legalese warranty will be posted later.
 
-Otherwise, you generally should already know what you're getting into. You're getting an awesome smartwatch running PebbleOS. There are many [videos](https://ericmigi.com/blog/pebbleos-is-awesome)  and [reviews](https://www.youtube.com/watch?v=KQh1b_srGM4)  of PebbleOS you can check out before pre-ordering.
+Otherwise, you generally should already know what you're getting into. You're getting an awesome smartwatch running PebbleOS. There are many [videos](https://ericmigi.com/blog/pebbleos-is-awesome) and [reviews](https://www.youtube.com/watch?v=KQh1b_srGM4) of PebbleOS you can check out before pre-ordering.
 
 ### How does shipping to countries outside the US work? ###
 
