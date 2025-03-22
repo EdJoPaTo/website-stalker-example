@@ -57,7 +57,7 @@ FAQ
 
 ### Is this a Kickstarter? ###
 
-No. I have personally funded development of these new watches because…I really want them myself! If you place an pre-order, you can cancel it at any time for a full refund, up until your watch is ready to ship. As we get closer to shipping, we will share more details, images and information. If you decide at any point that the watch is not for you, you can [cancel your pre-order](/manage) any time before your watch ships.
+No. I have personally funded development of these new watches because…I really want them myself! If you place an pre-order, you can cancel it at any time for a full refund (minus credit card transaction fees, for pre-orders placed after March 21, 2025), up until your watch is ready to ship. As we get closer to shipping, we will share more details, images and information. If you decide at any point that the watch is not for you, you can [cancel your pre-order](/manage) any time before your watch ships.
 
 ### Is Core 2 Duo basically an upgraded Pebble 2? ###
 
@@ -81,7 +81,7 @@ All international shipments will be sent via courier (DHL, Fedex, UPS) with trac
 
 ### What if the tariff situation changes? ###
 
-It's highly likely that worldwide tariffs will change between now and when we start shipping. If tariffs change dramatically, we will pass these costs along to you and require further payment, even for US orders. If this occurs, we will email you before shipping to confirm your order - you will have the option to cancel your pre-order and get a full refund.
+It's highly likely that worldwide tariffs will change between now and when we start shipping. If tariffs change dramatically, we will pass these costs along to you and require further payment, even for US orders. If this occurs, we will email you before shipping to confirm your order - you will have the option to cancel your pre-order and get a full refund (minus credit card transaction fees, for pre-orders placed after March 21, 2025).
 
 ### Can I email/tweet/DM and try to convince you to add X/Y/Z feature? ###
 
