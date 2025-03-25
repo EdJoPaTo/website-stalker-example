@@ -217,13 +217,13 @@ pro Monat dauerhaft
 
 ### **Das erwartet dich:** ###
 
-* ### Unschlagbare Angebote aus allen Kategorien  ###
+* ### Unschlagbare Angebote warten auf dich! ###
 
-  Von Rabatt bis zusätzlicher Leistung – für den Winter Sale haben wir aus jeder unserer beliebten Produkt-Kategorien mindestens ein Schnäppchen parat.
+  Ob Rabatt oder zusätzliche Leistung – unsere März-Aktion bietet unschlagbare Angebote in den Kategorien VPS, Webhosting und Domains.
 
 * ### 24 Stunden lang Angebote sichern ###
 
-  Von Root Server, VPS bis Webhosting und Domains – die Auswahl ist groß. Daher hast du 24 Stunden, das passende Angebot für dich zu finden.
+  Ob VPS, Webhosting oder Domains – die Auswahl ist groß. Nutze die 24 Stunden, um das perfekte Angebot für dich zu finden!
 
 * ### Flashdeals: Zusätzliche Angebote für kurze Zeit ###
 
