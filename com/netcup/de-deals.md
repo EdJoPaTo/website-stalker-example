@@ -9,34 +9,6 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 VPS
 
- FLASH DEAL
-
-### VPS 4000 G11 SE MAR25 ###
-
- \+ 100% SSD
-
-statt 24,75 €
-
-* 12 vCore (x86)
-
-* 32 GB ECC RAM
-
-* 2048 GB SSD (statt 1024 GB)
-
-* Nur 1 Monat Mindestlaufzeit
-
-* Standort: NUE
-
-pro Monat
-
-21,50 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-mar25)
-
-VPS
-
 ### VPS 1000 G11 SE MAR25 ###
 
  \+ 100% SSD
