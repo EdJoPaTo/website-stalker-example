@@ -138,6 +138,8 @@ sites:
       - https://www.netcup.com/de/server/vps
       - https://www.netcup.com/de/server/vserver-guenstig-qualitaet
       - https://www.netcup.com/de/server/vserver-images
+    headers:
+      - 'Cache-Control: no-cache'
     editors:
       - css_select: "#main"
       - css_remove: img, svg, style, script, a:not([href]), .loading-placeholder
