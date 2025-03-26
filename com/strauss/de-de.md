@@ -271,9 +271,6 @@ Druck: vielseitig, großflächig, flexibel — nur für Basics wie T-Shirts, Swe
 
 ---
 
- neu
----
-
 ###
 
 **Next Generation:** Sicherheitsschuhe sportlich wie nie zuvor
