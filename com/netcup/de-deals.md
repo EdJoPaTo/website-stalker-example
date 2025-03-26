@@ -3,26 +3,231 @@ netcup Deals
 
 Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
 
-404: High Prices not found - Top Deals are loading
-----------
+* Alle (0)
 
-Vom **25. März, 10 Uhr** (MEZ) bis zum **26. März, 10 Uhr** (MEZ), hast du 24 Stunden lang die Gelegenheit, das passende Aktionsprodukt für dein Online-Projekt zu ergattern.
+VPS
+
+### VPS 1000 G11 SE MAR25 ###
+
+ \+ 100% SSD
+
+statt ab 6,60 €
+
+* 4 vCore (x86)
+
+* 8 GB ECC RAM
+
+* 512 GB SSD (statt 256 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+5,75 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-mar25)
+
+VPS
+
+### VPS 2000 G11 SE MAR25 ###
+
+ \+ 100% SSD
+
+statt ab 14,50 €
+
+* 8 vCore (x86)
+
+* 16 GB ECC RAM
+
+* 1024 GB SSD (statt 512 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+12,60 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-mar25)
+
+VPS
+
+### VPS 8000 G11 SE MAR25 ###
+
+ \+4 Cores / +50 SSD
+
+statt ab 36,79 €
+
+* 20 vCore (x86)
+
+* 64 GB ECC RAM
+
+* 3072 GB SSD (statt 2048 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+32,00 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-8000-g11-se-nue-mar25)
+
+Webhosting
+
+### Webhosting 1000 MAR25 ###
+
+ 50 % Rabatt
+
+statt 1,82 €
+
+* SSH Zugang vorhanden
+
+* 1 .de-Domain oder 1 Alternativdomain inklusive
+
+* 50 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+0,91 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-mar25)
+
+Webhosting
+
+### Webhosting 2000 MAR25 ###
+
+ 20 % Rabatt
+
+statt 2,73 €
+
+* SSH Zugang vorhanden
+
+* 3 .de-Domains oder 1 Alternativdomain inklusive
+
+* 150 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+2,17 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-mar25)
+
+Webhosting
+
+### Webhosting 4000 MAR25 ###
+
+ 42 % Rabatt
+
+statt 5,48 €
+
+* SSH Zugang vorhanden
+
+* 6 .de-Domains oder 2 Alternativdomains inklusive
+
+* 500 GB SSD Speicherplatz
+
+* SSL Zertifikat inklusive
+
+* Ruby und NodeJS
+
+pro Monat
+
+3,16 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-mar25)
+
+Domains
+
+### .info Domain MAR25 ###
+
+ 35 % Rabatt
+
+statt 2,56 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+1,67 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.info-domain-mar25)
+
+Domains
+
+### .xyz Domain MAR25 ###
+
+ 35 % Rabatt
+
+statt 1,88 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+1,23 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.xyz-domain-mar25)
 
 ### **Das erwartet dich:** ###
 
-* ### Unschlagbare Angebote  ###
+* ### Unschlagbare Angebote warten auf dich! ###
 
-  Wir halten einige unserer besten Deals aus den Kategorien Webhosting, VPS und Domains für dich parat.
+  Ob Rabatt oder zusätzliche Leistung – unsere März-Aktion bietet unschlagbare Angebote in den Kategorien VPS, Webhosting und Domains.
 
-* ### 24 Stunden verfügbar ###
+* ### 24 Stunden lang Angebote sichern ###
 
-  Sei dabei, wenn wir am 25. März ab 10 Uhr den Countdown starten und sichere dir deinen Top-Deal.
+  Ob VPS, Webhosting oder Domains – die Auswahl ist groß. Nutze die 24 Stunden, um das perfekte Angebot für dich zu finden!
 
-* ### Zusätzlicher Flashdeal ###
+* ### Flashdeals: Zusätzliche Angebote für kurze Zeit ###
 
-  Erhalte ein weiteres Angebot für begrenzte Zeit. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um es nicht zu verpassen.
+  Du kannst weitere zeitlich begrenzte Angebote ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um sie nicht zu verpassen.
 
 Bleibe auf dem Laufenden
 ----------
