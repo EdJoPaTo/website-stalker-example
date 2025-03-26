@@ -426,3 +426,21 @@ sites:
       - css_select: body
       - css_remove: script, svg, img
       - html_markdownify
+
+  - url:
+      - https://www.bahn.de/angebot/bahncard
+      - https://www.bahn.de/angebot/regio/deutschland-ticket
+      - https://www.bahn.de/angebot/uebersicht-online-nicht-buchbar
+      - https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung
+      - https://www.bahn.de/faq/pk/angebot/bahncard
+      - https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket
+      - https://www.bahn.de/faq/pk/angebot/sitzplatzreservierung
+      - https://www.bahn.de/faq/pk/angebot/upgrade
+      - https://www.bahn.de/faq/pk/service
+    editors:
+      - css_select: main
+      - css_remove: figure, picture, img, nav, .back-to-top, .product-tile__image-link
+      - css_remove: p:has(+.category-filter-wrapper), .category-filter-wrapper
+      - css_flatten: a:has(h3)
+      - html_url_canonicalize
+      - html_markdownify
