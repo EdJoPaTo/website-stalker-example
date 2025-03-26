@@ -120,7 +120,7 @@ sites:
       - css_select: body
       - html_markdownify
 
-  - url: https://hattesen.eu/
+  - url: https://www.hattesen.eu/
     editors:
       - css_select: body
       - html_prettify
