@@ -833,19 +833,19 @@ Assembly
 
 Processor Options
 
-Ultra 5 125H
+**Ultra 5 125H**
 Up to 4.5GHz
 4 Performance-cores
 8 Efficient-cores
 18 total threads
 
-Ultra 7 155H
+**Ultra 7 155H**
 Up to 4.8Ghz
 6 Performance-cores
 8 Efficient-cores
 22 total threads
 
-Ultra 7 165H
+**Ultra 7 165H**
 Up to 5.0Ghz
 6 Performance-cores
 8 Efficient-cores
@@ -853,33 +853,33 @@ Up to 5.0Ghz
 
 Processor Power
 
-**Performance mode - 30W sustained 60W boost**
+Performance mode - 30W sustained 60W boost
 
-**Balanced mode - 25W sustained 60W boost**
+Balanced mode - 25W sustained 60W boost
 
-**Efficiency mode - 15W sustained 60W boost**
+Efficiency mode - 15W sustained 60W boost
 
 Thermals
 
-**65 x 5.5 mm cooling fan**
+65 x 5.5 mm cooling fan
 
-**Single 10mm heat pipes**
+Single 10mm heat pipes
 
-**Shin-Etsu 8117 thermal paste**
+Shin-Etsu 8117 thermal paste
 
 Integrated Graphics
 
-125H
+**125H**
 Intel® Arc™ graphics
 Up to 2.2GHz
 7 Xe-cores
 
-155H
+**155H**
 Intel® Arc™ graphics
 Up to 2.25GHz
 8 Xe-cores
 
-165H
+**165H**
 Intel® Arc™ graphics
 Up to 2.3GHz
 8 Xe-cores
@@ -912,7 +912,7 @@ Dimensions
 
 Display Type
 
-Matte Display
+**Matte Display**
 13.5", 3:2 aspect ratio
 2256x1504 resolution
 \>400nit brightness
@@ -920,7 +920,7 @@ Matte Display
 100% sRGB color gamut
 Matte anti-glare surface
 
-2.8K Display
+**2.8K Display**
 13.5", 3:2 aspect ratio
 2880x1920 resolution
 \>500nit brightness
@@ -1002,7 +1002,7 @@ Easy to repair with replacement parts available in the Framework Marketplace.
 
 Warranty
 
-**1 Year Framework Limited Warranty**
+1 Year Framework Limited Warranty
 
 Release Year
 
@@ -1022,19 +1022,19 @@ Assembly
 
 Processor Options
 
-* Base
+* **Base**
 * Ultra 5 125H (up to 4.5GHz, 4+8 cores)
 
-* Extended Productivity
+* **Extended Productivity**
 * Ultra 5 125H (up to 4.5GHz, 4+8 cores)
 
-* Performance
+* **Performance**
 * Ultra 7 155H (up to 4.8GHz, 6+8 cores)
 
-* Extended Performance
+* **Extended Performance**
 * Ultra 7 155H (up to 4.8GHz, 6+8 cores)
 
-* Extended Pro
+* **Extended Pro**
 * Ultra 7 165H (up to 5.0GHz, 6+8 cores)
 
 Processor Power
@@ -1055,80 +1055,80 @@ Shin-Etsu 8117 thermal paste
 
 Integrated Graphics
 
-Base
+**Base**
 Intel® Graphics
 Up to 2.2GHz
 7 Xe-cores
 
-Performance
+**Performance**
 Intel® Arc™ graphics
 Up to 2.25GHz
 8 Xe-cores
 
-Extended Productivity
+**Extended Productivity**
 Intel® Arc™ graphics
 Up to 2.2GHz
 7 Xe-cores
 
-Extended Performance
+**Extended Performance**
 Intel® Arc™ graphics
 Up to 2.25GHz
 8 Xe-cores
 
-Extended Pro
+**Extended Pro**
 Intel® Arc™ graphics
 Up to 2.3GHz
 8 Xe-cores
 
 Operating system
 
-* Base
+* **Base**
 * Windows 11 Home
 
-* Extended Productivity
+* **Extended Productivity**
 * Windows 11 Pro
 
-* Performance
+* **Performance**
 * Windows 11 Home
 
-* Extended Performance
+* **Extended Performance**
 * Windows 11 Pro
 
-* Extended Pro
+* **Extended Pro**
 * Windows 11 Pro
 
 Storage Options
 
-* Base
+* **Base**
 * 256GB
 
-* Extended Productivity
+* **Extended Productivity**
 * 512GB
 
-* Performance
+* **Performance**
 * 512GB
 
-* Extended Performance
+* **Extended Performance**
 * 512GB
 
-* Extended Pro
+* **Extended Pro**
 * 1TB
 
 Memory Options
 
-* Base
+* **Base**
 * 8GB (1 x 8GB) DDR5-5600
 
-* Extended Productivity
+* **Extended Productivity**
 * 16GB (2 x 8GB) DDR5-5600
 
-* Performance
+* **Performance**
 * 16GB (2 x 8GB) DDR5-5600
 
-* Extended Performance
+* **Extended Performance**
 * 16GB (2 x 8GB) DDR5-5600
 
-* Extended Pro
+* **Extended Pro**
 * 32GB (2 x 16GB) DDR5-5600
 
 Connectivity
@@ -1145,7 +1145,7 @@ Dimensions
 
 Display Type
 
-Matte Display
+**Matte Display**
 13.5", 3:2 aspect ratio
 2256x1504 resolution
 \>400nit brightness
@@ -1285,7 +1285,7 @@ Dimensions
 
 Display Type
 
-Matte Display
+**Matte Display**
 13.5", 3:2 aspect ratio
 2256x1504 resolution
 \>400nit brightness
@@ -1293,7 +1293,7 @@ Matte Display
 100% sRGB color gamut
 Matte anti-glare surface
 
-2.8K Display
+**2.8K Display**
 13.5", 3:2 aspect ratio
 2880x1920 resolution
 \>500nit brightness
@@ -1315,16 +1315,16 @@ Stereo 2W speakers, dual MEMS microphones with hardware privacy switch, 3.5mm co
 
 Battery
 
-* Ryzen™ 5 7640U
+* **Ryzen™ 5 7640U**
 * 55Wh
 
-* Ryzen™ 5 7640U - 2.8K Display
+* **Ryzen™ 5 7640U - 2.8K Display**
 * 61Wh
 
-* Ryzen™ 7 7840U
+* **Ryzen™ 7 7840U**
 * 61Wh
 
-* Ryzen™ 7 7840U - 2.8K Display
+* **Ryzen™ 7 7840U - 2.8K Display**
 * 61Wh
 
 Camera
@@ -1399,13 +1399,13 @@ Assembly
 
 Processor Options
 
-* Base
+* **Base**
 * AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
 
-* Performance
+* **Performance**
 * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
 
-* Professional
+* **Professional**
 * AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
 
 Integrated Graphics
@@ -1414,36 +1414,36 @@ Radeon™ 700M Graphics
 
 Operating system
 
-* Base
+* **Base**
 * Windows 11 Home
 
-* Performance
+* **Performance**
 * Windows 11 Home
 
-* Professional
+* **Professional**
 * Windows 11 Pro
 
 Storage Options
 
-* Base
+* **Base**
 * 256GB
 
-* Performance
+* **Performance**
 * 512GB
 
-* Professional
+* **Professional**
 * 1TB
 
 Memory Options
 
 * **Base**
-* **8GB (1x8GB)**
+* 8GB (1x8GB)
 
 * **Performance**
-* **16GB (2x8GB)**
+* 16GB (2x8GB)
 
 * **Professional**
-* **32GB (2x16GB)**
+* 32GB (2x16GB)
 
 Connectivity
 
@@ -1459,7 +1459,7 @@ Dimensions
 
 Display Type
 
-* Matte Display
+* **Matte Display**
 * 13.5", 3:2 aspect ratio
 * 2256x1504 resolution
 * \>400nit brightness
@@ -1481,13 +1481,13 @@ Stereo 2W speakers, dual MEMS microphones with hardware privacy switch, 3.5mm co
 
 Battery
 
-* Base
+* **Base**
 * 55Wh
 
-* Performance
+* **Performance**
 * 61Wh
 
-* Professional
+* **Professional**
 * 61Wh
 
 Camera
