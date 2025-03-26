@@ -3,89 +3,13 @@ netcup Deals
 
 Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Zu den Deals](https://www.netcup.com/de/deals#deals)
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 * Alle (0)
 
-VPS
-
-### VPS 1000 G11 SE MAR25 ###
-
- \+ 100% SSD
-
-statt ab 6,60 €
-
-* 4 vCore (x86)
-
-* 8 GB ECC RAM
-
-* 512 GB SSD (statt 256 GB)
-
-* Nur 1 Monat Mindestlaufzeit
-
-* Standort: NUE
-
-pro Monat
-
-5,75 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-mar25)
-
-VPS
-
-### VPS 2000 G11 SE MAR25 ###
-
- \+ 100% SSD
-
-statt ab 14,50 €
-
-* 8 vCore (x86)
-
-* 16 GB ECC RAM
-
-* 1024 GB SSD (statt 512 GB)
-
-* Nur 1 Monat Mindestlaufzeit
-
-* Standort: NUE
-
-pro Monat
-
-12,60 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-se-nue-mar25)
-
-VPS
-
-### VPS 8000 G11 SE MAR25 ###
-
- \+4 Cores / +50 SSD
-
-statt ab 36,79 €
-
-* 20 vCore (x86)
-
-* 64 GB ECC RAM
-
-* 3072 GB SSD (statt 2048 GB)
-
-* Nur 1 Monat Mindestlaufzeit
-
-* Standort: NUE
-
-pro Monat
-
-32,00 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-8000-g11-se-nue-mar25)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 1000 MAR25 ###
 
@@ -109,9 +33,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-mar25)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 2000 MAR25 ###
 
@@ -135,9 +59,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-mar25)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 4000 MAR25 ###
 
@@ -161,9 +85,87 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-mar25)
+VPS
+
+ Deal abgelaufen
+
+### VPS 1000 G11 SE MAR25 ###
+
+ \+ 100% SSD
+
+statt ab 6,60 €
+
+* 4 vCore (x86)
+
+* 8 GB ECC RAM
+
+* 512 GB SSD (statt 256 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+5,75 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 2000 G11 SE MAR25 ###
+
+ \+ 100% SSD
+
+statt ab 14,50 €
+
+* 8 vCore (x86)
+
+* 16 GB ECC RAM
+
+* 1024 GB SSD (statt 512 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+12,60 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 8000 G11 SE MAR25 ###
+
+ \+4 Cores / +50 SSD
+
+statt ab 36,79 €
+
+* 20 vCore (x86)
+
+* 64 GB ECC RAM
+
+* 3072 GB SSD (statt 2048 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+32,00 €
+
+(inkl. 0% MwSt.)
 
 Domains
+
+ Deal abgelaufen
 
 ### .info Domain MAR25 ###
 
@@ -187,9 +189,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.info-domain-mar25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .xyz Domain MAR25 ###
 
@@ -212,22 +214,6 @@ pro Monat dauerhaft
 1,23 €
 
 (inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.xyz-domain-mar25)
-
-### **Das erwartet dich:** ###
-
-* ### Unschlagbare Angebote warten auf dich! ###
-
-  Ob Rabatt oder zusätzliche Leistung – unsere März-Aktion bietet unschlagbare Angebote in den Kategorien VPS, Webhosting und Domains.
-
-* ### 24 Stunden lang Angebote sichern ###
-
-  Ob VPS, Webhosting oder Domains – die Auswahl ist groß. Nutze die 24 Stunden, um das perfekte Angebot für dich zu finden!
-
-* ### Flashdeals: Zusätzliche Angebote für kurze Zeit ###
-
-  Du kannst weitere zeitlich begrenzte Angebote ergattern. Abonniere unseren RSS-Feed, WhatsApp-, oder Telegram Kanal, um sie nicht zu verpassen.
 
 Bleibe auf dem Laufenden
 ----------
