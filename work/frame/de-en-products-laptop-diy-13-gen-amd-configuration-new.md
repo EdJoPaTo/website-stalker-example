@@ -11,10 +11,6 @@ Framework Laptop 13
 
 [AMD Ryzen™](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
 
-[Pre-order AI 300 Series Starting at €1,059.00](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
-
-[10% off 7040 Series Starting at €879.00 was: €979](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
-
 [View product details](/de/en/laptop13?slug=laptop-diy-13-gen-amd&tab=specs)
 
 Ordering more than 1 computer?
