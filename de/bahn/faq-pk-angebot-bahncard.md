@@ -438,6 +438,21 @@ Die Tickets können Sie online oder in der App DB Navigator sowie in den DB Reis
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticketkauf-bc50schnupperaktion)
 
+ Wie erfahre ich, ob ich den Rabatt korrekt erhalten habe?
+----------
+
+Den Rabatt können Sie direkt bei der Buchung überprüfen:
+
+**Online-Buchung (bahn.de oder DB Navigator App):**
+
+* Während des Buchungsvorgangs wird Ihnen der Flexpreis mit dem 50%igen Rabatt in der Angebotsauswahl angezeigt. Sie können diesen direkt buchen. Auf Ihrem Ticket wird eine BahnCard 25 Ermäßigung ausgewiesen, Sie erhalten jedoch den Rabatt einer BahnCard 50.
+
+**Ticketkauf in DB-Reisezentren, DB-Agenturen oder am Automaten:**
+
+* Im Buchungsprozess wird die BahnCard 50 Ermäßigung manuell ausgewählt. Auf dem Ticket wird eine BahnCard 50 Ermäßigung mit einem um 50% reduzierten Flexpreis ausgewiesen. Bei der Kontrolle im Zug ist es ausreichend Ihre BahnCard 25 vorzuzeigen, um die Aktion nutzen zu können.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-bc50schnupperaktion)
+
  Kann ich mit meiner BahnCard 25, die ich im März im Rahmen der BahnCard-Aktion gekauft habe, die BahnCard 50 Schnupper-Aktion direkt nutzen?
 ----------
 
@@ -1232,9 +1247,7 @@ Die BahnCard 100 kostet
  Wie kann ich die BahnCard 100 kündigen?
 ----------
 
-* Die **BahnCard 100 ohne Abo** muss nicht gekündigt werden. Die Karte läuft automatisch nach einem Jahr aus.
-* Die **BahnCard 100 im Abo** verlängert sich nach Ablauf des ersten Geltungsjahres automatisch auf unbestimmte Zeit, sofern sie nicht spätestens 4 Wochen vor Ablauf des ersten Geltungsjahres in Textform gekündigt wird. Nach dem ersten Geltungsjahr ist die Karte jederzeit mit einer Frist von 4 Wochen kündbar.
-* Der **Neuverkauf der BahnCard 100 im Abo** wurde zum 11.12.2022 eingestellt. Bestandsverträge laufen analog Gültigkeit der Karte weiter. Kund:innen wurden im 1. Quartal 2023 persönlich über das weitere Vorgehen informiert.
+Die **BahnCard 100 ohne Abo** muss nicht gekündigt werden. Die Karte läuft automatisch nach einem Jahr aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-bahncard-100-kuendigen)
 
