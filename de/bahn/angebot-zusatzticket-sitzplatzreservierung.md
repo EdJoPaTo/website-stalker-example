@@ -7,6 +7,14 @@ Sitzplatzreservierung für Reisende und Pendler
 
 Reservieren Sie sich Ihren Sitzplatz für eine entspannte Fahrt, sowohl im Fern- als auch im Regionalverkehr
 
+Hinweis zu Sitzplatzreservierungen im Nah- und Fernverkehr
+----------
+
+**Hinweis**: Eine durchgängige Sitzplatzreservierung für Fahrten im kombinierten Fern- und Nahverkehr ist nicht möglich.
+
+Sitzplatzreservierung im Fernverkehr
+----------
+
 ### Sitzplatzreservierung im Fernverkehr  ###
 
  Bei vielen Verbindungen können Sie Ihren Lieblingsplatz buchen
@@ -25,21 +33,23 @@ ab 5,20 Euro
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen: Ticket inkl. Sitzplatzreservierung im Fernverkehr](https://www.bahn.de/buchung/intern/start#?RW=true)
 
+Sitzplatzreservierung im Nahverkehr
+----------
+
 ### Dauerreservierung im Nahverkehr ###
 
- • Nur 40 Euro im Jahr, in einigen Bundesländern sogar kostenfrei
+• Nur 40 Euro im Jahr, in einigen Bundesländern sogar kostenfrei
 • Bequem pendeln mit einem festen Sitzplatz
 
 [Weitere Informationen Weitere Informationen: Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen: Dauerreservierung im Nahverkehr](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen Dauerreservierung im Nahverkehr: Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
-Einzelreservierung im Nahverkehr
-----------
+### Einzelreservierung im Nahverkehr ###
 
 Reservieren Sie Ihren Sitzplatz für ausgewählte Verbindungen in Regionalzügen.
 
-* [Mehr Informationen zu den Reservierungsmöglichkeiten Weitere Informationen: Mehr Informationen zu den Reservierungsmöglichkeiten](https://regional.bahn.de/service/sitzplatzreservierung-in-regionalzuegen)
+[Zu den Reservierungsmöglichkeiten Weitere Informationen: Einzelreservierung im Nahverkehr](https://regional.bahn.de/service/sitzplatzreservierung-in-regionalzuegen)
 
 Häufig gestellte Fragen zur Sitzplatzreservierung
 ----------
