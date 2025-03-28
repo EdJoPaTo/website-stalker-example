@@ -5,7 +5,7 @@ cirrus nimbus
 ----------
 
 * lautlos aufgrund passivem Aluminium-Kühlkörpergehäuse mit Kupferkern
-* mit Intel*®* Core*™* Pentium/i3/i5/i7/i9 Raptor Lake, Ultra 5/7/9 CPU – bis zu 24 Kernen oder Ryzen 3/5/7
+* mit Intel Core Pentium/i3/i5/i7/i9 Raptor Lake CPU – bis zu 16 Kernen oder Ryzen 3/5/7 Cezanne
 * vielseitige Einsatzmöglichkeiten – Desktop-PC, HTCP oder Server
 * kompakte Abmessungen: 24,6 x 24,6 x 9 cm / 24,6 x 24,6 x 10,6 cm / 24,6 x 24,6 x 12,2 cm
 
