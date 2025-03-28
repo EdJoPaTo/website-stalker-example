@@ -6,7 +6,7 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 BahnCard Frühjahrsaktion
 ----------
 
-Nur noch 3 Tage
+Nur noch 2 Tage
 
 ### Bis zu 50 % auf die BahnCard ###
 
