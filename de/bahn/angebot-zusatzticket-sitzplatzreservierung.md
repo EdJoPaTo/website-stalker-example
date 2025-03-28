@@ -49,7 +49,7 @@ Sitzplatzreservierung im Nahverkehr
 
 Reservieren Sie Ihren Sitzplatz für ausgewählte Verbindungen in Regionalzügen.
 
-[Zu den Reservierungsmöglichkeiten Weitere Informationen: Einzelreservierung im Nahverkehr](https://regional.bahn.de/service/sitzplatzreservierung-in-regionalzuegen)
+[Zu den Reservierungsmöglichkeiten Zu den Reservierungsmöglichkeiten in Regionalzügen](https://regional.bahn.de/service/sitzplatzreservierung-in-regionalzuegen)
 
 Häufig gestellte Fragen zur Sitzplatzreservierung
 ----------
