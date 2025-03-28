@@ -67,7 +67,7 @@ Use these shared instances for development and test applications with low to med
 
 ×
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00$1.20 in the EU and US, and € 7.40$8.49 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00$ 1.20 in the EU and US, and € 7.40$ 8.49 in Singapore.
 
 High quality Cloud – unbeatable prices
 ----------
@@ -110,7 +110,7 @@ save 0.50 0.60
 
 []()
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00$1.20 in the EU and US, and € 7.40$8.49 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00$ 1.20 in the EU and US, and € 7.40$ 8.49 in Singapore.
 
  IPv4
 
@@ -701,7 +701,7 @@ Monthly
 
 ###  Volumes  ###
 
-Expand your cloud instance with high-availability SSD block storage for € 0.044$0.0484 / GBper month.
+Expand your cloud instance with high-availability SSD block storage for € 0.044$ 0.0484 / GBper month.
 
 0.0440 0.0500 max./mo  Billing on an hourly basis
 
@@ -816,7 +816,7 @@ GDPR compliancy for your Cloud. You can create a Data Processing Agreement (DPA)
 ALL FEATURES ALSO AVAILABLE VIA REST API
 ----------
 
-All of the Hetzner Cloud features are also available via a [REST API](https://docs.hetzner.cloud/) and a [CLI tool](https://github.com/hetznercloud/cli) for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50.00$50.00 . For more information, click [here](https://docs.hetzner.com/cloud/api/faq#do-you-sponsor-efforts-to-integrate-hetzner-cloud-into-open-source-libs).
+All of the Hetzner Cloud features are also available via a [REST API](https://docs.hetzner.cloud/) and a [CLI tool](https://github.com/hetznercloud/cli) for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50.00$ 50.00 . For more information, click [here](https://docs.hetzner.com/cloud/api/faq#do-you-sponsor-efforts-to-integrate-hetzner-cloud-into-open-source-libs).
 
 Curl
 
