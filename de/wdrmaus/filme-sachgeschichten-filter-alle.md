@@ -594,6 +594,7 @@
 * [Kopfschmerztablette](https://www.wdrmaus.de/filme/sachgeschichten/kopfschmerztablette.php5)
 * [Korkenrecycling](https://www.wdrmaus.de/filme/sachgeschichten/korkenrecycling.php5)
 * [Kostüme fürs All](https://www.wdrmaus.de/filme/sachgeschichten/kostueme_fuers_all.php5)
+* [Kraftanzug](https://www.wdrmaus.de/filme/sachgeschichten/kraftanzug.php5)
 * [Kraftstoff aus Frittenfett](https://www.wdrmaus.de/filme/sachgeschichten/kraftstoff_aus_frittenfett.php5)
 * [Kran](https://www.wdrmaus.de/filme/sachgeschichten/kran.php5)
 * [Kran klettert](https://www.wdrmaus.de/filme/sachgeschichten/kran_klettert.php5)
