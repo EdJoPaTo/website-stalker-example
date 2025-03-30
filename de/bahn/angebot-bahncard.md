@@ -6,11 +6,11 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 BahnCard Frühjahrsaktion
 ----------
 
-Nur noch 1 Tag
+Nur noch heute
 
 ### Bis zu 50 % auf die BahnCard ###
 
-**Nur noch einen Tag:** Sichern Sie sich die BahnCard schon **ab 30,99 Euro**.
+**Nur noch heute:** Sichern Sie sich die BahnCard schon **ab 30,99 Euro**.
 
 [Zur BahnCard Aktion Zur BahnCard Aktion](https://www.bahn.de/angebot/bahncard/aktionen/bc-fruehjahrsaktion)
 
