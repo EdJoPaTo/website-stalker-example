@@ -32,17 +32,11 @@ If you are a business customer, need more than five laptops or desktops per orde
  Configuration
 ----------
 
+[Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
+
 **System**
 
-[Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
-
-[Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
-
  Choose an option
-
-[Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
-
-[Compare](/de/en/products/laptop-diy-13-gen-amd/comparison)
 
 * 7640U  €879
   * AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
@@ -79,23 +73,6 @@ If you are a business customer, need more than five laptops or desktops per orde
    Ships within five business days.
 
 **Memory**
-
- FAQ
-
-FAQs
-----------
-
-* Can I add more memory or storage later?
-
-  Yes! The Framework Laptop 13 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step by step guides you can follow to do the upgrade yourself.
-
-* What DRAM/memory is supported?
-
-  Framework Laptop 13 (AMD Ryzen 7040 Series) supports two slots of DDR5 SO-DIMM memory at the recommended native DDR5-5600 speed. We've tested compatibility with Framework-branded DDR5 modules and a number of select retail modules from Samsung, SK Hynix, ADATA, ACPIm Mushkin, Crucial, Kingston Fury, and G.Skill Ripjaws.
-
-  Now officially supported by the Ryzen 7040 Series platform, we have tested and validated the 24GB and 48GB DDR5-5600 modules we are currently selling. DDR5 modules have on-die ECC support and ECC modules will allow the system to function, however, ECC parity functionality is not supported by the non-Pro series APUs that Framework offers.
-
-Close
 
  Choose an option
 
@@ -142,17 +119,6 @@ Close
 
 **Operating System**
 
- FAQ
-
-FAQs
-----------
-
-* Can I use a different Operating System?
-
-  Base and Performance configurations ship with Windows 11 Home pre-installed and Professional ships with Windows 11 Pro pre-installed. You can also load your own operating system later, like a Linux distribution.
-
-Close
-
  Choose an option
 
  FAQ
@@ -185,21 +151,6 @@ Close
 * Red +€10
 
 **Keyboard**
-
- FAQ
-
-FAQs
-----------
-
-* When will other keyboard options be available?
-
-  Keyboard options available at configuration time depend on the region you are ordering from. We'll continue to increase the number of configurations available as we enter new countries and regions. You can also easily replace the keyboard or Input Cover with other keyboard languages and layouts, with all options available in the Framework Marketplace.
-
-* Can I replace the keyboard?
-
-  Yes! If you ever want to to move to a different keyboard language or need to replace your keyboard for any other reason, you can do that. Both individual keyboards and replacement Input Covers are available in the Framework Marketplace.
-
-Close
 
  Choose an option
 
@@ -255,25 +206,6 @@ Close
 ----------
 
 **Expansion Cards**
-
- FAQ
-
-FAQs
-----------
-
-* Do I need to have a USB-C Expansion Card to charge the Framework Laptop 13?
-
-  The Framework Laptop 13 charges over USB-C from any one of the four Expansion Card bays. We suggest configuring with at least one USB-C Expansion Card, since it is difficult to directly plug into the recessed USB-C receptacle that is inside the bay.
-
-* What is an Expansion Card?
-
-  Framework Expansion Cards allow you to customize the ports and functionality of the Framework Laptop 13. Unlike other notebooks that require adapters and dongles to get to the ports you need, you can select the ones you want at order time and change them whenever you’d like. The Framework Laptop 13 supports four simultaneous Expansion Cards, with two on each side. Expansion Cards are hot swappable; simply slide and click them into your Framework Laptop with no tools needed.
-
-* Will you be adding additional Expansion Card types?
-
-  Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
-
-Close
 
  Choose any number
 
