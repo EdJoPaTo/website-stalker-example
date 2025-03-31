@@ -88,10 +88,6 @@ Frequently asked questions
 
   In addition, our Storage Share file system checks the integrity of the data using checksums and automatically corrects errors. We've created high-availability cluster for the instance databases, making the chances of a complete failure very minimal. A backup is also performed automatically several times a day. Finally, if you choose to synchronize your Storage Share data with your own computer or device using client software, you will have an additional copy of your data.
 
-* **How can I create backups?**
-
-  A backup is performed automatically several times a day. The backup is always made to another host machine on which the instance is not running. If completed it is possible to restore a backup via konsoleH.
-
 * **What does the "unlimited" storage quota setting mean?**
 
   An administrator can create users and limit their storage size. So you as an administrator, can set up storage space for your users that are, for example 5, 10, 50, or 100 GB. Or you can set up an "unlimited" sized space. However, this "unlimited" space will actually be limited by the overall storage quota size of the Storage Share instance that you (the admin) have bought.
@@ -108,12 +104,16 @@ Frequently asked questions
 
   Yes, you can share data between different servers using your Federated Cloud ID. You can find this Federated Cloud ID by clicking on your profile picture, going to "Settings" and then clicking on "Sharing". You will then see your Federated Cloud ID on the right-hand side. After this, you can open the share menu of the file you want to share, and on the line "Name, Federated Cloud ID or email address...". You can then enter the entire Federated Cloud ID. An example address will have a format that looks like this: "Admin@nx\*\*\*\*.your-storageshare.de".
 
+* **Can Hetzner add the feature "x"?**
+
+  Unfortunately, we at Hetzner Online cannot add any features to Storage Share since we have not developed this software ourselves. Storage Share is based on the open source software from Nextcloud. However, you can make a feature request by going to the official Github repository: <https://github.com/nextcloud/server/>
+
 * **Can I use domains besides "nx\*.your-storageshare.de"?**
 
   Yes, you can activate a subdomain on your konsoleH account. Before you do that, though, you will need your own domain and you will need to set CNAME records for it in the DNS. After that, choose the correct Storage Share instance, then click on the menu tabs "Settings; Configuration; Subdomains" on the left. You can now enter your subdomain. Find detailed instructions in [Hetzner Docs](https://docs.hetzner.com/storage/storage-share/configuration/subdomain).
 
-* **Can Hetzner add the feature "x"?**
+* **How can I create backups?**
 
-  Unfortunately, we at Hetzner Online cannot add any features to Storage Share since we have not developed this software ourselves. Storage Share is based on the open source software from Nextcloud. However, you can make a feature request by going to the official Github repository: <https://github.com/nextcloud/server/>
+  A backup is performed automatically several times a day. The backup is always made to another host machine on which the instance is not running. If completed it is possible to restore a backup via konsoleH.
 
 [More FAQs](https://docs.hetzner.com/storage/storage-share/)
