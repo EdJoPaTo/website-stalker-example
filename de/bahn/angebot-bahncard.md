@@ -3,107 +3,107 @@ Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
 
-BahnCard Frühjahrsaktion
+BahnCard 50 Schnupperaktion
 ----------
 
-Nur noch heute
+Jetzt doppelt sparen!
 
-### Bis zu 50 % auf die BahnCard ###
+### BahnCard 50 zum Kennenlernen ###
 
-**Nur noch heute:** Sichern Sie sich die BahnCard schon **ab 30,99 Euro**.
+**Nur im April:** Nutzen Sie mit Ihrer **BahnCard 25** den Rabatt einer BahnCard 50 - auch **auf Flexpreise**.
 
-[Zur BahnCard Aktion Zur BahnCard Aktion](https://www.bahn.de/angebot/bahncard/aktionen/bc-fruehjahrsaktion)
+[Mehr Informationen Weitere Informationen: BahnCard 50 zum Kennenlernen](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard50-schnupperaktion)
 
 Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
 
-### Aktion BahnCard 25, 2. Klasse ###
+### BahnCard 25, 2. Klasse ###
 
- BahnCard 25 zum **Aktionspreis** sichern und **25 % Rabatt** auf den Flexpreis und die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+ Nur im April: **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
-[Weitere Informationen Weitere Informationen: Aktion BahnCard 25, 2. Klasse](https://www.bahn.de/angebot/bahncard/aktion-bahncard25-2-klasse)
+[Weitere Informationen Weitere Informationen: BahnCard 25, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)
 
-30,99 Euro (statt 62,90 Euro)
+62,90 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion BahnCard 25, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O231)
+[Jetzt bestellen Jetzt bestellen: BahnCard 25, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O205)
 
-### Aktion BahnCard 25, 1. Klasse ###
+### BahnCard 25, 1. Klasse ###
 
- BahnCard 25 zum **Aktionspreis** sichern und **25 % Rabatt** auf den Flexpreis und die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+ Nur im April: **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
-[Weitere Informationen Weitere Informationen: Aktion BahnCard 25, 1. Klasse](https://www.bahn.de/angebot/bahncard/aktion-bahncard25-1-klasse)
+[Weitere Informationen Weitere Informationen: BahnCard 25, 1. Klasse](https://www.bahn.de/angebot/bahncard/bahncard25-1-klasse)
 
-61,99 Euro (statt 125 Euro)
+125 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion BahnCard 25, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O131)
+[Jetzt bestellen Jetzt bestellen: BahnCard 25, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O105)
 
-### Aktion BahnCard 50, 2. Klasse ###
+### BahnCard 50, 2. Klasse ###
 
- BahnCard 50 zum **Aktionspreis** sichern und **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+**50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
-[Weitere Informationen Weitere Informationen: Aktion BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/aktion-bahncard50-2-klasse)
+[Weitere Informationen Weitere Informationen: BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
 
-199 Euro (statt 244 Euro)
+244 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O230)
+[Jetzt bestellen Jetzt bestellen: BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
 
-### Aktion BahnCard 50, 1. Klasse ###
+### BahnCard 50, 1. Klasse ###
 
- BahnCard 50 zum **Aktionspreis** sichern und **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+**50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
-[Weitere Informationen Weitere Informationen: Aktion BahnCard 50, 1. Klasse](https://www.bahn.de/angebot/bahncard/aktion-bahncard50-1-klasse)
+[Weitere Informationen Weitere Informationen: BahnCard 50, 1. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50-1-klasse)
 
-399 Euro (statt 492 Euro)
+492 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion BahnCard 50, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O130)
+[Jetzt bestellen Jetzt bestellen: BahnCard 50, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O104)
 
-### Aktion My BahnCard 50, 2. Klasse ###
+### BahnCard 100, 2. Klasse ###
 
- My BahnCard 50 zum **Aktionspreis** sichern und **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+**1 Jahr flexibel deutschlandweit reisen**
 
-[Weitere Informationen Weitere Informationen: Aktion My BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/aktion-mybahncard-2-klasse)
+[Weitere Informationen Weitere Informationen: BahnCard 100, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard100-2-klasse)
 
-49,99 Euro (statt 79,90 Euro)
+4.899 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion My BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O227)
+[Jetzt bestellen Jetzt bestellen: BahnCard 100, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O219)
 
-### Aktion My BahnCard 50, 1. Klasse ###
+### BahnCard 100, 1. Klasse ###
 
- My BahnCard 50 zum **Aktionspreis** sichern und **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+**1 Jahr flexibel deutschlandweit reisen in der 1. Klasse**
 
-[Weitere Informationen Weitere Informationen: Aktion My BahnCard 50, 1. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/aktion-mybahncard-1-klasse)
+[Weitere Informationen Weitere Informationen: BahnCard 100, 1. Klasse](https://www.bahn.de/angebot/bahncard/bahncard100-1-klasse)
 
-199 Euro (statt 241 Euro)
+7.999 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion My BahnCard 50, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O127)
+[Jetzt bestellen Jetzt bestellen: BahnCard 100, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O119)
 
-### Aktion Senioren BahnCard 50, 2. Klasse ###
+### My BahnCard 25, 2. Klasse ###
 
- Senioren BahnCard 50 zum **Aktionspreis** sichern und **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+ Nur im April: **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
-[Weitere Informationen Weitere Informationen: Aktion Senioren BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/aktion-seniorenbahncard-2-klasse)
+[Weitere Informationen Weitere Informationen: My BahnCard 25, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard25/mybahncard-2-klasse)
 
-99,99 Euro (statt 122 Euro)
+39,90 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion Senioren BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O226)
+[Jetzt bestellen Jetzt bestellen: My BahnCard 25, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O211)
 
-### Aktion Senioren BahnCard 50, 1. Klasse ###
+### My BahnCard 25, 1. Klasse ###
 
- Senioren BahnCard 50 zum **Aktionspreis** sichern und **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+ Nur im April: **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
-[Weitere Informationen Weitere Informationen: Aktion Senioren BahnCard 50, 1. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/aktion-seniorenbahncard-1-klasse)
+[Weitere Informationen Weitere Informationen: My BahnCard 25, 1. Klasse](https://www.bahn.de/angebot/bahncard/bahncard25/mybahncard-1-klasse)
 
-199 Euro (statt 241 Euro)
+81,90 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion Senioren BahnCard 50, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O126)
+[Jetzt bestellen Jetzt bestellen: My BahnCard 25, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O111)
 
-### Aktion Ermäßigte BahnCard 50, 2. Klasse ###
+### Senioren BahnCard 25, 2. Klasse ###
 
- Erm. BahnCard 50 zum **Aktionspreis** sichern und **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket)
+ Nur im April: **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
-[Weitere Informationen Weitere Informationen: Aktion Ermäßigte BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/aktion-ermaessigtebahncard50-2-klasse)
+[Weitere Informationen Weitere Informationen: Senioren BahnCard 25, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard25/seniorenbahncard-2-klasse)
 
-99,99 Euro (statt 122 Euro)
+40,90 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion Ermäßigte BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O228)
+[Jetzt bestellen Jetzt bestellen: Senioren BahnCard 25, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O208)

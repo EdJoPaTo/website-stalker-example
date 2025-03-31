@@ -1,40 +1,13 @@
-Leicht & Lässig
-
----
-
- Safety Sneaker
+schwarz-
+seegrün
 ----------
 
 ---
-
- Keine Kompromisse bei Schutz, Style und Tragegefühl: Die neuen Sicherheits- und Berufsschuhe sprengen die Grenze zwischen Work- und Streetwear.
-
-[zu allen Schuhneuheiten](https://www.strauss.com/de/de/neuheiten-schuhe/?itemOrigin=startseite_fs25)
-
-[mehr erfahren](https://www.strauss.com/de/de/schuhneuheiten?itemOrigin=startseite_fs25)
-
-e.s. Philly low
-
-e.s. St. Louis low
-
-e.s. Tampa low
-
-e.s. Brooklyn low
-
-**Hidden Safety**
-
-mit Zehenschutz &
-Rutschhemmung
 
  Neue Highlight-Farbe
 ---
 
- schwarz-seegrün
-----------
-
----
-
- Unsere Kunden haben sie sich gewünscht, jetzt kommt sie fest ins Sortiment: Die beliebte Farbkombi schwarz-seegrün ziert ab sofort die e.s.motion 2020-Produkte.
+Unsere Kunden haben sie sich gewünscht, jetzt kommt sie fest ins Sortiment: Die beliebte Farbkombi schwarz-seegrün ziert ab sofort die e.s.motion 2020-Produkte.
 
 [für Herren](https://www.strauss.com/de/de/e-s-motion-2020-schwarz-seegruen/?itemorigin=startseite_fs25)
 
@@ -42,54 +15,74 @@ Rutschhemmung
 
 [mehr erfahren](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-schwarz-seegruen?itemorigin=startseite_fs25)
 
- Neue
- Farbe
----
+Neue
 
- Neue
- Farbe
----
-
- Neue
- Farbe
----
-
- Neue
- Farbe
----
-
- Neue
- Farbe
----
-
- Winter Softshelljacke
-e.s.motion 2020, Damen
-
- Winter Softshelljacke
-e.s.motion 2020, Herren
-
-Shirts, Sweats & Co.
+Farbe
 
 ---
 
- Lässige Prints
+Neue
+
+Farbe
+
+---
+
+Neue
+
+Farbe
+
+---
+
+Neue
+
+Farbe
+
+---
+
+Neue
+
+Farbe
+
+---
+
+ Safety
+Sneaker
 ----------
 
 ---
 
-Starke Looks mit weichem Tragegefühl: bequeme Shirts, Sweats & Co. für die ganze Familie **–** jetzt entdecken!
+Sportlich, luftig, leicht: aber sicher!
+
+---
+
+Sicherheit die immer da ist, aber nie spürbar: Das ultraleichte S1-Modell **e.s. St. Louis low** verbindet Laufschuh-Komfort mit Zehenschutz.
+
+[e.s. St. Louis low](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?itemorigin=startseite_fs25)
+
+[mehr erfahren](https://www.strauss.com/de/de/schuhneuheiten?itemOrigin=startseite_fs25)
+
+**Hidden Safety**
+
+mit Zehenschutz &
+Rutschhemmung
+
+ WORKWEAR
+FÜR MACHER
+----------
+
+---
+
+Ikonisch. Authentisch. Cool.
+
+---
+
+Ein lässiger Print, ein zuverlässiges Versprechen: STRAUSS.WORKS. **Jetzt in vielen Farben ein Statement setzen.**
 
 [für Herren](https://www.strauss.com/de/de/strauss-works-prints?itemorigin=startseite_fs25)
 
 [für Damen](https://www.strauss.com/de/de/strauss-works-prints-damen?itemorigin=startseite_fs25)
 
 [für Kinder](https://www.strauss.com/de/de/strauss-works-prints-kinder?itemorigin=startseite_fs25)
-
- T-Shirt e.s.iconic works,
-Damen | 4 Farben
-
- T-Shirt e.s.iconic works,
-Kinder | 4 Farben
 
 ###
 
@@ -99,221 +92,83 @@ Kinder | 4 Farben
 
 ---
 
- Basics für alle im Team
+ Basics für alle
+im Team
 ----------
 
 ---
-
-[für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
-
-[für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
-
-###
 
 3 Schnitte & viele Größen
 
- ###
-
 ---
 
-###
-
-Über 30
-Farbtöne
-
- ###
+Über 30 Farbtöne
 
 ---
-
-###
 
 Hochwertige Materialvielfalt
 
- ###
-
----
-
- Basics für alle im Team
-----------
-
 ---
 
 [für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
 
 [für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
 
-###
-
-3 Schnitte & viele Größen
-
- ###
+###  Geschenkidee zu Ostern  ###
 
 ---
 
-###
-
-Über 30
-Farbtöne
-
- ###
-
+ Vom Strauss verschickt, vom Hasen versteckt
 ---
 
-###
-
-Hochwertige Materialvielfalt
-
- ###
-
----
-
- Basics für alle im Team
-----------
-
----
-
-[für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
-
-[für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
-
- Basics für alle im Team
-----------
-
----
-
-[für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
-
-[für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
-
-###
-
-**Coole Prints** für Groß & Klein
-
- ###
-
----
-
-[Herren](https://www.strauss.com/de/de/strauss-works-prints?itemOrigin=startseite_fs25)
-
-[Damen](https://www.strauss.com/de/de/strauss-works-prints-damen?itemOrigin=startseite_fs25)
-
-[Kinder](https://www.strauss.com/de/de/strauss-works-prints-kinder?itemOrigin=startseite_fs25)
-
- Die neue Saison startet jetzt!
----
-
- Entdecken Sie neue Workwear, neue Schuhe und viele Saisonartikel – nur solange der Vorrat reicht!
-
-[alle Neuheiten](https://www.strauss.com/de/de/neuheiten/?itemorigin=startseite_fs25)
-
-**Einzigartige Outfits** für Firma und Freizeit
-
----
-
-Druck & Stick
-
----
-
-ab
-1 Stück
-
----
-
-Gestalten
-sie selbst!
+Ein echtes
+OH!-ster
+Geschenk
 
 ----------
 
 ---
 
- In wenigen Klicks zum Wunschdesign
----
+**Druck & Stick:** so vielfältig, so fröhlich – so einfach!
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_fs25)
 
 zu den Produkten
 
-Motiv- &
-Text-Designs
+[Gutschein per E-Mail](https://gutschein.strauss.de/)
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
+
+ Spar-Set
+
+[Geschenke für Kinder](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseite_fs25)
+
+ Schuhneuheiten
+---
+
+ Look und Komfort eines Sportschuhs trifft auf den starken Schutz eines Arbeitsschuhs: Die neuen Berufs- und Sicherheitsschuhe setzen Maßstäbe.
+
+[zu allen Schuhneuheiten](https://www.strauss.com/de/de/neuheiten-schuhe/?itemorigin=startseite_fs25)
+
+[jetzt entdecken](https://www.strauss.com/de/de/schuhneuheiten?itemOrigin=startseite_fs25)
+
+**Perfekt ausgerüstet** für den Frühling!
 
 ---
 
-schnell &
-unkompliziert
-
+ Passende Outfits für das
 ---
 
-große
-Motivauswahl
-
+ Arbeiten im Grünen
 ---
 
-ab 1 Stück
-bestellbar
+Workwear für Herren
 
----
+Workwear für Damen
 
-Direkt-
-einstickung
+[Gartenscheren](https://www.strauss.com/de/de/gartenscheren/?itemorigin=startseite_fs25)
 
----
-
- edel, hochwertig, robust — perfekt für alle Textilien, besonders auch stark beanspruchte Arbeitskleidung
-
----
-
-Easy-
-transfer
-
----
-
-Druck: vielseitig, großflächig, flexibel — nur für Basics wie T-Shirts, Sweater & Co.
-
----
-
-###
-
-**Next Generation:** Sicherheitsschuhe sportlich wie nie zuvor
-
- ###
-
----
-
- S1 Sicherheitsschuhe e.s. Philly low
-
- 5 Farben
-
- S1 Sicherheitsschuhe e.s. St. Louis low
-
- 7 Farben
-
- S1 Sicherheitsschuhe e.s. Tampa low
-
- 4 Farben
-
- S1 Sicherheitsschuhe e.s. Brooklyn low
-
- 5 Farben
-
-[zu allen Schuhneuheiten](https://www.strauss.com/de/de/schuhneuheiten?itemorigin=startseite_fs25)
-
-**Passgenaue Outfits** für Küchen-, Service- und Gesundheitsprofis
-
----
-
- Gastro
----
-
-[für Herren](https://www.strauss.com/de/de/gastronomiebekleidung-kochbekleidung/?itemOrigin=startseite_fs25&sort=newest)
-
-[für Damen](https://www.strauss.com/de/de/gastro-damen/?itemOrigin=startseite_fs25&sort=newest)
-
- Medical
----
-
-[für Herren](https://www.strauss.com/de/de/klinikbekleidung-pflegebekleidung/?itemOrigin=startseite_fs25&sort=newest)
-
-[für Damen](https://www.strauss.com/de/de/medical-damen/?itemOrigin=startseite_fs25&sort=newest)
+[BIG BAG Gartenabfallsack](https://www.strauss.com/de/de/muellsaecke-staender/big-bag-gartenabfallsack-200-liter-7630300-1578989-0.html?itemorigin=startseite_fs25)
 
  Wir kommen in **deine Stadt!**
 
