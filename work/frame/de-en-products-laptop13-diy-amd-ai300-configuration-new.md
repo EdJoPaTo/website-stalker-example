@@ -32,42 +32,9 @@ If you are a business customer, need more than five laptops or desktops per orde
  Configuration
 ----------
 
+[Compare](/de/en/products/laptop13-diy-amd-ai300/comparison)
+
 **System**
-
- FAQ
-
-FAQs
-----------
-
-* Can I purchase in volume for my business?
-
-  Currently, we only allow one laptop per pre-order, but there is no limit for the amount of pre-orders per account. Once a configuration is in stock, you can add up to five laptops per order. If you need more or have special requests, please contact us through our support form and we’ll get in contact with you.
-
-* What is the difference between the Framework Laptop 13 (Intel® Core™ Ultra Series 1) and the Framework Laptop 13 AMD Ryzen™ AI 300 Series)?
-
-  Both AMD and Intel offer incredible performance and the choice between them will come down to personal preference. The Intel® Core™ Ultra Series 1 and the AMD Ryzen™ AI 300 Series laptops contain the same system-level improvements including increased battery capacity options, louder speakers, more stable hinges, and the option to choose between a Matte and 2.8K Display.
-
-* Can I upgrade my CPU later?
-
-  Yes! If you ever need more performance in the future, you can upgrade to a new Mainboard with a new CPU on it. We publish step by step guides you can follow to do the upgrade yourself.
-
-* Which Processor should I choose?
-
-  For moderate workloads, choose Ryzen™ AI 5 340. For more demanding tasks and gaming, you can choose Ryzen™ AI 7 350 which offers better graphics and multi-threaded CPU performance. If you are planning to run very demanding tasks or graphics-intensive gaming, we recommend AMD Ryzen™ AI 9 HX 370.
-
-* What Wi-Fi modules are compatible?
-
-  M.2 2230 Wi-Fi modules supporting PCI-e, USB and up to WiFi 7 should work. AMD RZ717 Wi-Fi 7 is tested for compatibility.
-
-* What is Wi-Fi 7?
-
-  Wi-Fi 7 is the latest standard that works across all three frequency bands - 2.4GHz, 5GHz, and 6GHz. It allows for even higher throughput and is less congested than Wi-Fi 6E. You'll need a WiFi 7 compatible wireless network to get maximum performance, but the card is compatible with existing 2.4GHz and 5GHz WiFi 6E and older networks.
-
-Close
-
-[Compare](/de/en/products/laptop13-diy-amd-ai300/comparison)
-
-[Compare](/de/en/products/laptop13-diy-amd-ai300/comparison)
 
  Choose an option
 
@@ -103,10 +70,6 @@ FAQs
   Wi-Fi 7 is the latest standard that works across all three frequency bands - 2.4GHz, 5GHz, and 6GHz. It allows for even higher throughput and is less congested than Wi-Fi 6E. You'll need a WiFi 7 compatible wireless network to get maximum performance, but the card is compatible with existing 2.4GHz and 5GHz WiFi 6E and older networks.
 
 Close
-
-[Compare](/de/en/products/laptop13-diy-amd-ai300/comparison)
-
-[Compare](/de/en/products/laptop13-diy-amd-ai300/comparison)
 
 * Ryzen™ AI 5 340  Pre-order  €1,059
 
@@ -143,21 +106,6 @@ Close
 
 **Memory**
 
- FAQ
-
-FAQs
-----------
-
-* Can I add more memory or storage later?
-
-  Yes! The Framework Laptop 13 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step by step guides you can follow to do the upgrade yourself.
-
-* What memory is compatible?
-
-  DDR5 SO-DIMMs up to 48GB each at up to to DDR5-5600 speeds are compatible with the Framework Laptop 13. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility. We recommend avoiding XMP DDR5.
-
-Close
-
  Choose an option
 
  Batch Number  Configure to see batch
@@ -189,21 +137,6 @@ Close
 
 **Storage**
 
- FAQ
-
-FAQs
-----------
-
-* What storage drives are compatible?
-
-  You can use M.2 2280-sized NVMe SSDs. We have drives from 500GB up to 4TB available in the Framework Marketplace, and drives ranging from 128GB to 8TB are available in the market. While drives from other brands should work, we've focused our compatibility testing on Western Digital's SN7100 and SN850X SSDs.
-
-* What's the difference between all the different SSDs (SN7100, SN850X, etc)?
-
-  SN850X is Western Digital's top-end SSD, using NVMe Gen4 to support an incredible 7,300MB/s maximum read throughput. SN7100 is a DRAM-less SSD that uses NVMe Gen4 for up to 7,250MB/s maximum read throughput.
-
-Close
-
  Choose an option
 
  Batch Number  Configure to see batch
@@ -234,17 +167,6 @@ Close
 
 **Operating System**
 
- FAQ
-
-FAQs
-----------
-
-* Can I install Linux?
-
-  Yes! We have official support for Ubuntu LTS and Fedora, along with installation guides and community support for additional distros like Manjaro and Mint.
-
-Close
-
  Choose an option
 
  Batch Number  Configure to see batch
@@ -268,17 +190,6 @@ Close
 ----------
 
 **Bezel**
-
- FAQ
-
-FAQs
-----------
-
-* When will other Bezel options be available?
-
-  Bezels in a range of colors are now available as a configurable option for the latest versions of the Framework Laptop 13 DIY Edition. You can also find a variety of Bezels Framework Marketplace.
-
-Close
 
  Choose an option
 
@@ -307,23 +218,6 @@ Close
 * Translucent Green +€10
 
 **Keyboard**
-
- FAQ
-
-FAQs
-----------
-
-* Can I replace the keyboard?
-
-  Yes! If you ever want to to move to a different keyboard language or need to replace your keyboard for any other reason, you can do that. Both individual keyboards and replacement Input Covers are available in the Framework Marketplace.
-
-* What's the difference between 1st Gen and 2nd Gen Keyboards?
-
-  Both 1st Gen and 2nd Gen Keyboards include 1.5mm key travel. 2nd Gen reduces resonance at high speaker volume and contains new artwork with the Framework logo or Copilot+ key.
-
-  Currently, only the Japanese is only available in the 1st Gen Keyboard. We will add the 2nd Gen Japanese Keyboard once it is ready.
-
-Close
 
  Choose an option
 
@@ -384,33 +278,6 @@ Close
 ----------
 
 **Expansion Cards**
-
- FAQ
-
-FAQs
-----------
-
-* Do I need to have a USB-C Expansion Card to charge the Framework Laptop 13?
-
-  The Framework Laptop 13 charges over USB-C from any one of the four Expansion Card bays. We suggest configuring with at least one USB-C Expansion Card, since it is difficult to directly plug into the recessed USB-C receptacle that is inside the bay.
-
-* What is an Expansion Card?
-
-  Framework Expansion Cards allow you to customize the ports and functionality of the Framework Laptop 13. Unlike other notebooks that require adapters and dongles to get to the ports you need, you can select the ones you want at order time and change them whenever you’d like. The Framework Laptop 13 supports four simultaneous Expansion Cards, with two on each side. Expansion Cards are hot swappable; simply slide and click them into your Framework Laptop with no tools needed.
-
-* Will you be adding additional Expansion Card types?
-
-  Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
-
-* Can I use any Expansion Card in any slot?
-
-  The Framework Laptop 13 supports four simultaneous Expansion Cards, with two on each side. You can select up to four USB-A, USB-C, HDMI, DisplayPort, MicroSD, Ethernet, Audio, 1 TB storage, or 250 GB storage cards to fit your needs.
-
-* Can I order less than four Expansion Cards?
-
-  You can, but we don't recommend it. There are four Expansion Card slots on the Framework Laptop 13 so we suggest you have one for each.
-
-Close
 
  Choose any number
 
