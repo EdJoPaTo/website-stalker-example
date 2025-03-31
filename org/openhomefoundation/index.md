@@ -1,4 +1,4 @@
-[Announcing the Open Home Foundation | From the creators of Home Assistant](https://www.openhomefoundation.org/blog/announcing-the-open-home-foundation/)
+[Announcing State of the Open Home 2025 | Save the date! April 12](https://www.home-assistant.io/blog/2025/03/26/state-of-the-open-home-2025-announcement/)
 
  The **Open Home Foundation** fights for the fundamental principles of **privacy**, **choice**, and **sustainability** for smart homes. And for every person who lives in one. It does this by supporting the development of open-source projects, and open connectivity and communication standards.
 
@@ -60,12 +60,10 @@ Support us
 
 [Join the fight](https://www.openhomefoundation.org/organization/#support-our-work)
 
-[](https://www.openhomefoundation.org/blog/announcing-the-open-home-foundation/)
+[](https://www.home-assistant.io/blog/2025/03/26/state-of-the-open-home-2025-announcement/)
 
-Saturday, April 20, 2024
+Announcing State of the Open Home 2025
 
-Announcing the Open Home Foundation
+ On April 12th, we’re going live with this year’s State of the Open Home - our annual recap of the previous year and look ahead to the next. Read more...
 
- Actions speak louder than words. Which is why we created the Open Home Foundation to secure the radical principles of privacy, choice, and sustainability for smart homes. Read more...
-
-[](https://www.openhomefoundation.org/blog/announcing-the-open-home-foundation/)
+[](https://www.home-assistant.io/blog/2025/03/26/state-of-the-open-home-2025-announcement/)
