@@ -1,3 +1,8 @@
+everwave
+----------
+
+Jedes Jahr gelangen 11 Millionen Tonnen Plastikmüll in die Ozeane. Everwave hat es sich zur Aufgabe gemacht diesen aus den Flüssen zu fischen, bevor er ins Meer gespült wird. Mit speziellen Booten und einem ausgeklügelten System, beugen sie der Bildung von Mikroplastik vor. CEO Clemens hat uns exklusive Insights gegeben.
+
 Avocadostore
 ----------
 
