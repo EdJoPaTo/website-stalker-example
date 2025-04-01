@@ -6,17 +6,17 @@ Our Latest Mini PC is built for Linux. Mount it behind your monitor to keep your
 
 Setup in Minutes (not hours), with Linux pre-installed, it’s designed to work flawlessly out-the-box.
 
-Uncompromising on our open-source principles, this machine runs coreboot firmware, an open-source alternative to traditional BIOS that offers advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
+Uncompromising on our open-source principles, this machine runs coreboot firmware, an open-source alternative to traditional BIOS with advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
 
 Processor
 
- Intel® N200. Turbo
+ Intel® Core™ 3
 
-Intel® N200. Turbo  1.00GHz quad-core Boost up to 3.70GHz
+Intel® Core™ 3  1.00GHz 8-core N355. Turbo Boost up to 3.90GHz
 
  Processor
 
- Your Byte will come with a 1.00GHz quad-core Intel® N200. Turbo Boost up to 3.70GHz by default.
+ Your Byte will come with a 1.00GHz 8-core Intel® Core™ 3 N355. Turbo Boost up to 3.90GHz by default.
 
  The processor is on-board, so you will not be able to upgrade it at a later date.
 
