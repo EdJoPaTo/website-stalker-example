@@ -79,9 +79,15 @@ Anwendungsfälle mit Local Block Storage
 FAQ
 ----------
 
-### Wie erfolgt die Abrechnung, wenn es keine fixe Laufzeit gibt? ###
+### Wie erfolgt die Abrechnung von Local Block Storage? ###
 
-Die Abrechnung erfolgt nach der gewählten Speicherkapazität und den benötigten Tagen. Die Speicherkapazität wird tagesbasiert abgerechnet.
+Die Abrechnung erfolgt alle 30 Tage. Wenn keine Kündigung oder ein Upgrade vorgenommen wurde, wird der Storage in die Warteschlange gestellt. Die Kosten für die Nutzung werden mit der nächsten Rechnung fällig, basierend auf der Menge an gebuchtem Speichervolumen (30 Tage x Preis pro GB).
+
+### Wie erfolgt die Abrechnung von Local Block Storage im Falle einer Kündigung oder eines Upgrades? ###
+
+Bei einer Kündigung wird nur die Nutzung bis zum Kündigungsdatum berechnet. Das bedeutet, es wird der Zeitraum seit der letzten Abrechnung bis zur Kündigung (zB. 15 Tage mit 100 GB) erfasst und in die Warteschlange gestellt, um mit der nächsten Rechnung abgerechnet zu werden.
+
+Bei einem Upgrade wird die Nutzung ebenfalls bis zum Zeitpunkt des Upgrades zum alten Preis berechnet und in die Warteschlange aufgenommen. Danach wird der neue Preis abgerechnet, sofern 30 Tage ohne weitere Upgrades vergangen sind.
 
 ### Gibt es bei Local Block Storage Limitierungen bei den Dateisystemen? ###
 
