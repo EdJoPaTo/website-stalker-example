@@ -4,7 +4,7 @@ Quiet. Compact. Linux-friendly. Uncompromisingly Secure.
 
 Intel
 
-N305
+N355
 
 processor
 
@@ -28,7 +28,7 @@ Up to
 
 Up to
 
- 8  TB
+ 12  TB
 
 storage
 
