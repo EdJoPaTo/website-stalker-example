@@ -405,7 +405,7 @@ Die Aktion gilt vom 1. bis einschließlich 30. April 2025. Für Fahrten in diese
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dauer-bc50schnupperaktion)
 
- Wie funktioniert die BahnCard 25 Schnupperaktion?
+ Wie funktioniert die BahnCard 50 Schnupperaktion?
 ----------
 
 Die BahnCard 50 Schnupperaktion funktioniert wie folgt:
