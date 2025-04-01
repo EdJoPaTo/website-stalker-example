@@ -143,12 +143,12 @@ Close
 
  Choose an option
 
-* Black
-* Gray +€10
-* Orange +€10
-* Green +€10
-* Lavender +€10
-* Red +€10
+*
+* +€10
+* +€10
+* +€10
+* +€10
+* +€10
 
 **Keyboard**
 
