@@ -710,7 +710,7 @@ Expand your cloud instance with high-availability SSD block storage for € 0.04
  Cloud Locations
 ----------
 
- Germany  Finland  USA  New  Singapore
+ Germany  Finland  USA  Singapore
 
 Hetzner Cloud products in Nuremberg and Falkenstein run on servers in our own Hetzner data center parks in Germany.
 
