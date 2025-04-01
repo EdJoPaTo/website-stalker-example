@@ -108,7 +108,6 @@ Dies gilt für Züge nach:
 
 * Dänemark
 * Italien
-* Niederlande
 * Österreich (auch via Tschechien)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-6-monate-bis-abfahrt)
@@ -123,6 +122,7 @@ Dies gilt für Züge nach:
 * Belgien
 * Luxemburg
 * Schweiz
+* Niederlande
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-12-monate-bis-abfahrt)
 
@@ -658,7 +658,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wie lange im Voraus kann ich den Super Sparpreis Europa Gruppe kaufen?
 ----------
 
-Der Super Sparpreis Europa Gruppe ist **bis zu 6 Monate im Voraus** und bis kurz vor Abfahrt in allen Verkaufsstellen buchbar (**Belgien**, **Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus).
+Der Super Sparpreis Europa Gruppe ist **bis zu 6 Monate im Voraus** und bis kurz vor Abfahrt in allen Verkaufsstellen buchbar (**Belgien, Niederlande, Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus).
 
 [Günstigsten Preis finden Weitere Informationen: Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
