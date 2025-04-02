@@ -139,7 +139,7 @@ sites:
       - https://www.netcup.com/de/server/vserver-guenstig-qualitaet
       - https://www.netcup.com/de/server/vserver-images
     headers:
-      - 'Cache-Control: no-cache'
+      - "Cache-Control: no-cache"
     editors:
       - css_select: "#main"
       - css_remove: img, svg, style, script, a:not([href]), .loading-placeholder
@@ -444,5 +444,24 @@ sites:
       - css_remove: figure, picture, img, nav, .back-to-top, .product-tile__image-link
       - css_remove: p:has(+.category-filter-wrapper), .category-filter-wrapper
       - css_flatten: a:has(h3)
+      - html_url_canonicalize
+      - html_markdownify
+
+  - url:
+      - https://kb.shelly.cloud/knowledge-base/devices
+      - https://kb.shelly.cloud/knowledge-base/shelly-2-5
+      - https://kb.shelly.cloud/knowledge-base/shelly-plug-s
+      - https://kb.shelly.cloud/knowledge-base/shelly-plug-s-mtr-gen3
+      - https://kb.shelly.cloud/knowledge-base/shelly-rgbw2
+    editors:
+      - css_select: main
+      - css_remove: style, svg, figure, img, .breadcrumbs, .no-print, .close-button
+      - css_flatten: details, summary a
+      - regex_replace:
+          pattern: "<summary "
+          replace: "<h2 "
+      - regex_replace:
+          pattern: </summary>
+          replace: </h2>
       - html_url_canonicalize
       - html_markdownify
