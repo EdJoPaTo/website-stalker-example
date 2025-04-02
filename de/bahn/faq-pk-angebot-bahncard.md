@@ -203,13 +203,6 @@ Weitere Informationen finden Sie unter [www.bahn.de/digitalebc](https://www.bah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-kann-nicht-auf-smartphone-geladen-werden)
 
- Welche Unterschiede hat die digitale BahnCard gegenüber der physischen Karte?
-----------
-
-Mit der digitalen BahnCard können Sie leider keine Rabatte an Parkautomaten erhalten. Am Ticketautomaten am Bahnhof ist nur eine manuelle Eingabe der BahnCard-Nummer möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unterschiede-digitale-bahncard-gegenueber-physischen-karte)
-
  Kann ich mit der digitalen BahnCard auch BahnBonus Punkte sammeln?
 ----------
 
