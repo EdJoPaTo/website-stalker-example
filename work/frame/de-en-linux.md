@@ -1478,4 +1478,4 @@ Ships without an OS installed, so you can bring the one you want.
 
 Ships without an OS installed, so you can bring the one you want.
 
-[Configure Now Configure Now](https://frame.work/products/laptop-diy-edition/configuration/edit) [Learn more Learn more](https://frame.work/laptop-diy-edition)
+[Configure Now Configure Now](/de/en/products/laptop13-diy-amd-ai300/configuration/new) [Learn more Learn more](/de/en/laptop13)
