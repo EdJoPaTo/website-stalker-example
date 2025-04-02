@@ -618,7 +618,7 @@ Build your desktop in 10–20 minutes and choose your OS to install.
 Software updates
 ----------
 
-Download the Driver Bundle and BIOS updates.
+Download the driver bundle and BIOS updates.
 
 Coming soon
 
@@ -630,7 +630,7 @@ Choose which OS to install on your DIY Edition desktop.
 * **Installing Windows** Coming soon
 * **Installing Linux** Coming soon
 
-Safety & Compliance Manual
+Safety & compliance manual
 ----------
 
 Coming soon
@@ -669,7 +669,7 @@ Expansion Cards
 Learn how to insert, remove, and choose your ports to fit our compatibility guidelines.
 
 * **⚠️ Check your Expansion Card slot compatibility ⚠️** Coming soon
-* **Installing your Expansion Cards** Coming soon
+* **Install your Expansion Cards** Coming soon
 
 Tiles
 ----------
@@ -709,7 +709,7 @@ Stay connected
 Our blog
 ----------
 
-Product updates and news about new launches and initiatives
+Product updates and news about new launches and initiatives.
 
 [Go to blog](https://frame.work/blog)
 
@@ -723,7 +723,7 @@ Meet the team and learn about our mission to remake consumer electronics.
 See what others are saying
 ----------
 
-Read some of our reviews and customer testimonials
+Read some of our reviews and customer testimonials.
 
 [Go to reviews](https://frame.work/blog/category/reviews)
 

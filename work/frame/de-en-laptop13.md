@@ -2255,11 +2255,11 @@ Set up your laptop in 2–5 minutes with Windows pre-installed.
 Software updates
 ----------
 
-Download the Driver Bundle and firmware updates.
+Download the driver bundle and firmware updates.
 
 [Go to the downloads page](https://knowledgebase.frame.work/en_us/bios-and-drivers-downloads-rJ3PaCexh)
 
-Framework Laptop Safety & Compliance Manual
+Framework Laptop safety & compliance manual
 ----------
 
 [Download](https://downloads.frame.work/manuals/Framework-Online-User-Manual.pdf)
@@ -2320,14 +2320,14 @@ Expansion Cards
 Learn how to insert, remove, and choose your ports to fit our compatibility guidelines.
 
 * **⚠️ Check your Expansion Card slot compatibility ⚠️** [Learn more](https://knowledgebase.frame.work/expansion-card-functionality-on-framework-laptop-13-amd-ryzen-7040-series-SkrVx7gAh)
-* **Installing your Expansion Cards** [Go to guide](https://guides.frame.work/Guide/Installing+Expansion+Cards/303)
+* **Install your Expansion Cards** [Go to guide](https://guides.frame.work/Guide/Installing+Expansion+Cards/303)
 
 Bezels
 ----------
 
 Transform and personalize your device with our customizable bezel options.
 
-* **Ordering your bezel** [Go to Marketplace](https://frame.work/marketplace/customization?compatibility%5B%5D=11th_gen_intel_core&compatibility%5B%5D=12th_gen_intel_core&compatibility%5B%5D=chromebook&compatibility%5B%5D=13th_gen_intel_core&compatibility%5B%5D=amd_ryzen_7040_series)
+* **Order your bezel** [Go to Marketplace](https://frame.work/marketplace/customization?compatibility%5B%5D=11th_gen_intel_core&compatibility%5B%5D=12th_gen_intel_core&compatibility%5B%5D=chromebook&compatibility%5B%5D=13th_gen_intel_core&compatibility%5B%5D=amd_ryzen_7040_series)
 * **Swap your bezel** [Go to guide](https://guides.frame.work/Guide/Bezel+Replacement+Guide/82?lang=en)
 
 Developer resources
@@ -2360,7 +2360,7 @@ Stay connected
 Our Blog
 ----------
 
-Product updates and news about new launches and initiatives
+Product updates and news about new launches and initiatives.
 
 [Go to blog](https://frame.work/blog)
 
@@ -2374,7 +2374,7 @@ Meet the team and learn about our mission to remake consumer electronics.
 See what others are saying
 ----------
 
-Read some of our reviews and customer testimonials
+Read some of our reviews and customer testimonials.
 
 [Go to reviews](https://frame.work/blog/category/reviews)
 
