@@ -6419,7 +6419,7 @@ Im DB Fernverkehr reisen Sie seit Anfang 2018 auf elektrifizierten Strecken in D
  Wieso sind die genutzten Emissionsdaten nicht aktueller?
 ----------
 
-Die Emissionsdaten für den Pkw entnehmen wir den Berichten des Umweltbundesamts. Diese werden am Ende des Vorjahres aktualisiert. Die Emissionsdaten des Fernverkehrs werden jedes Jahr im März mit dem Integrierten Bericht veröffentlicht. Daher können wir am Anfang des Jahres nur auf Daten des vorvergangenen Jahres zugreifen. Anfang 2024 nutzen wir deshalb die zusammengefassten Emissionsdaten aus dem Jahr 2022.
+Die Emissionsdaten für den Pkw entnehmen wir den Berichten des Umweltbundesamts. Diese werden am Ende des Vorjahres aktualisiert. Die Emissionsdaten des Fernverkehrs werden jedes Jahr im März mit dem Integrierten Bericht veröffentlicht. Daher können wir am Anfang des Jahres nur auf Daten des vorvergangenen Jahres zugreifen.
 
 Bei den Verkehrsleistungsdaten, also wie viele Personen wie viele Kilometer in den Fernverkehrszügen zurückgelegt haben, können wir dagegen auf die aktuellsten Daten zurückgreifen: Sie beziehen sich auf das Vorjahr.
 
@@ -6435,7 +6435,7 @@ Zugfahrten ersetzen häufiger Pkw-Fahrten als Flüge. Generell ist der Marktante
  Welcher Pkw-Vergleichswert wurde bei den Emissionen angesetzt?
 ----------
 
-Der aktuelle Durchschnittwert für Emissionen von Pkw liegt laut Umweltbundesamt bei 166 g CO₂ (inklusive CO₂e) pro Person und Kilometer. Darin ist die durchschnittliche Auslastung von 1,4 Personen pro Pkw bereits eingerechnet. Der Wert beinhaltet alle Arten von Personenkraftwagen und Antrieben, also auch E-Autos. Das aktuelle Bezugsjahr ist 2021 und wird jährlich angepasst.
+Der aktuelle Durchschnittwert für Emissionen von Pkw beziehen wir vom Umweltbundesamt: <https://www.umweltbundesamt.de/bild/vergleich-der-durchschnittlichen-emissionen-0>. Bei den durchschnittlichen Werten des Pkw ist die Auslastung von 1,4 Personen bereits eingerechnet. Der Wert beinhaltet alle Arten von Personenkraftwagen und Antrieben, also auch E-Autos. Das aktuelle Bezugsjahr wird jährlich angepasst.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emissionen-vergleich-pkw-wert)
 
