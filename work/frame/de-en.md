@@ -24,13 +24,13 @@ AMD-powered with modular, upgradeable graphics and fully customizable input.
 
 [Learn more](/products/laptop16-diy-amd-7040)
 
-[Coming soon]
+[Pre-orders open April 9th]
 
 ### Framework Laptop 12 ###
 
 Computers shouldn’t be boring.
 
-[Coming soon]
+[Pre-orders open April 9th]
 
 ### Framework Laptop 12 ###
 

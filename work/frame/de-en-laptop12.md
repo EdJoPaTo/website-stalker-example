@@ -1,6 +1,6 @@
-### Join the Framework Newsletter to get notified when Framework Laptop 12 pre-orders begin.  ###
+### Framework Laptop 12 pre-orders begin on April 9th. Join the Framework Newsletter to learn more. ###
 
-Join the Framework Newsletter to get notified when Framework Laptop 12 pre-orders begin.
+Framework Laptop 12 pre-orders begin on April 9th. Join the Framework Newsletter to learn more.
 ----------
 
  Submit
