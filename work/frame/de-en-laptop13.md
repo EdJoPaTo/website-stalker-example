@@ -1542,13 +1542,13 @@ Warranty
 
 1 Year Framework Limited Warranty
 
-### Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility ###
+### Framework Laptop 13 (AMD Ryzen™ AI 300 Series) compatibility ###
 
 ##### Coming soon #####
 
- Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility
+ Framework Laptop 13 (Intel® Core™ Ultra Series 1) compatibility
 
- Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility
+ Framework Laptop 13 (Intel® Core™ Ultra Series 1) compatibility
 
  Officially supported
 
@@ -1750,9 +1750,9 @@ Easy
 
 [Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
 
- Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility
+ Framework Laptop 13 (AMD Ryzen™ 7040 Series) compatibility
 
- Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility
+ Framework Laptop 13 (AMD Ryzen™ 7040 Series) compatibility
 
  Officially supported
 
@@ -1982,9 +1982,9 @@ Easy
 
 [Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
 
- Framework Laptop 13 (13th Gen Intel® Core™) Compatibility
+ Framework Laptop 13 (13th Gen Intel® Core™) compatibility
 
- Framework Laptop 13 (13th Gen Intel® Core™) Compatibility
+ Framework Laptop 13 (13th Gen Intel® Core™) compatibility
 
  Officially supported
 

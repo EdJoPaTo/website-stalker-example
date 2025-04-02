@@ -601,7 +601,7 @@ Framework Desktop has 5Gbit Ethernet along with two USB4 ports, allowing network
 
 [Explore Mainboard](/products/desktop-mainboard-amd-ai-max300)
 
-### Framework Desktop DIY Edition (AMD Ryzen™ AI Max 300 Series) Compatibility ###
+### Framework Desktop DIY Edition (AMD Ryzen™ AI Max 300 Series) compatibility ###
 
 #### Coming soon ####
 
