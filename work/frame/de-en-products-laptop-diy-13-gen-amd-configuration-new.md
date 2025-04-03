@@ -214,13 +214,13 @@ Close
 FAQs
 ----------
 
-* Do I need to have a USB-C Expansion Card to charge the Framework Laptop 13?
-
-  The Framework Laptop 13 charges over USB-C from any one of the four Expansion Card bays. We suggest configuring with at least one USB-C Expansion Card, since it is difficult to directly plug into the recessed USB-C receptacle that is inside the bay.
-
 * What is an Expansion Card?
 
   Framework Expansion Cards allow you to customize the ports and functionality of the Framework Laptop 13. Unlike other notebooks that require adapters and dongles to get to the ports you need, you can select the ones you want at order time and change them whenever you’d like. The Framework Laptop 13 supports four simultaneous Expansion Cards, with two on each side. Expansion Cards are hot swappable; simply slide and click them into your Framework Laptop with no tools needed.
+
+* Do I need to have a USB-C Expansion Card to charge the Framework Laptop 13?
+
+  The Framework Laptop 13 charges over USB-C from any one of the four Expansion Card bays. We suggest configuring with at least one USB-C Expansion Card, since it is difficult to directly plug into the recessed USB-C receptacle that is inside the bay.
 
 * Will you be adding additional Expansion Card types?
 
