@@ -239,6 +239,67 @@ obviously cannot verify that the preconditions of the `unsafe`functions are fulf
 The lint is currently "allow" by default, but that might change in the
 future.
 
+[deref-into-dyn-supertrait](#deref-into-dyn-supertrait)
+----------
+
+The `deref_into_dyn_supertrait` lint is emitted whenever there is a `Deref` implementation
+for `dyn SubTrait` with a `dyn SuperTrait` type as the `Output` type.
+
+These implementations are "shadowed" by trait upcasting (stabilized since
+1.86.0). The `deref` functions is no longer called implicitly, which might
+change behavior compared to previous rustc versions.
+
+### Example ###
+
+```
+#![deny(deref_into_dyn_supertrait)]
+#![allow(dead_code)]
+
+use core::ops::Deref;
+
+trait A {}
+trait B: A {}
+impl<'a> Deref for dyn 'a + B {
+    type Target = dyn A;
+    fn deref(&self) -> &Self::Target {
+        todo!()
+    }
+}
+
+fn take_a(_: &dyn A) { }
+
+fn take_b(b: &dyn B) {
+    take_a(b);
+}
+```
+
+This will produce:
+
+```
+error: this `Deref` implementation is covered by an implicit supertrait coercion
+  --> lint_example.rs:9:1
+   |
+9  | impl<'a> Deref for dyn 'a + B {
+   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ `dyn B` implements `Deref<Target = dyn A>` which conflicts with supertrait `A`
+10 |     type Target = dyn A;
+   |     -------------------- target type is a supertrait of `dyn B`
+   |
+note: the lint level is defined here
+  --> lint_example.rs:1:9
+   |
+1  | #![deny(deref_into_dyn_supertrait)]
+   |         ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+```
+
+### Explanation ###
+
+The trait upcasting coercion added a new coercion rule, taking priority over certain other
+coercion rules, which causes some behavior change compared to older `rustc` versions.
+
+`deref` can be still called explicitly, it just isn't called as part of a deref coercion
+(since trait upcasting coercion takes priority).
+
 [disjoint-capture-migration](#disjoint-capture-migration)
 ----------
 
@@ -287,7 +348,7 @@ note: the lint level is defined here
 help: to keep the existing behavior, use the `expr_2021` fragment specifier
   |
 3 |   ($e:expr_2021) => {
-  |       ~~~~~~~~~
+  |           +++++
 
 ```
 
@@ -488,6 +549,7 @@ and a pointer.
 ### Example ###
 
 ```
+#![feature(strict_provenance_lints)]
 #![warn(fuzzy_provenance_casts)]
 
 fn main() {
@@ -498,17 +560,23 @@ fn main() {
 This will produce:
 
 ```
-warning: unknown lint: `fuzzy_provenance_casts`
- --> lint_example.rs:1:9
+warning: strict provenance disallows casting integer `usize` to pointer `*const u8`
+ --> lint_example.rs:5:21
   |
-1 | #![warn(fuzzy_provenance_casts)]
+5 |     let _dangling = 16_usize as *const u8;
+  |                     ^^^^^^^^^^^^^^^^^^^^^
+  |
+  = help: if you can't comply with strict provenance and don't have a pointer with the correct provenance you can use `std::ptr::with_exposed_provenance()` instead
+note: the lint level is defined here
+ --> lint_example.rs:2:9
+  |
+2 | #![warn(fuzzy_provenance_casts)]
   |         ^^^^^^^^^^^^^^^^^^^^^^
+help: use `.with_addr()` to adjust a valid pointer in the same allocation, to this address
   |
-  = note: the `fuzzy_provenance_casts` lint is unstable
-  = note: see issue #130351 <https://github.com/rust-lang/rust/issues/130351> for more information
-  = help: add `#![feature(strict_provenance_lints)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-03-15; consider upgrading it if it is out of date
-  = note: `#[warn(unknown_lints)]` on by default
+5 -     let _dangling = 16_usize as *const u8;
+5 +     let _dangling = (...).with_addr(16_usize);
+  |
 
 ```
 
@@ -883,11 +951,12 @@ note: the lint level is defined here
 help: consider binding to an unused variable to avoid immediately dropping the value
    |
 14 |     let _unused = SomeStruct;
-   |         ~~~~~~~
+   |          ++++++
 help: consider immediately dropping the value
    |
-14 |     drop(SomeStruct);
-   |     ~~~~~          +
+14 -     let _ = SomeStruct;
+14 +     drop(SomeStruct);
+   |
 
 ```
 
@@ -905,6 +974,46 @@ If you do actually want to drop the expression immediately, then
 calling `std::mem::drop` on the expression is clearer and helps convey
 intent.
 
+[linker-messages](#linker-messages)
+----------
+
+The `linker_messages` lint forwards warnings from the linker.
+
+### Example ###
+
+```
+#[warn(linker_messages)]
+extern "C" {
+  fn foo();
+}
+fn main () { unsafe { foo(); } }
+```
+
+On Linux, using `gcc -Wl,--warn-unresolved-symbols` as a linker, this will produce
+
+```
+warning: linker stderr: rust-lld: undefined symbol: foo
+         >>> referenced by rust_out.69edbd30df4ae57d-cgu.0
+         >>>               rust_out.rust_out.69edbd30df4ae57d-cgu.0.rcgu.o:(rust_out::main::h3a90094b06757803)
+  |
+note: the lint level is defined here
+ --> warn.rs:1:9
+  |
+1 | #![warn(linker_messages)]
+  |         ^^^^^^^^^^^^^^^
+warning: 1 warning emitted
+
+```
+
+### Explanation ###
+
+Linkers emit platform-specific and program-specific warnings that cannot be predicted in
+advance by the Rust compiler. Such messages are ignored by default for now. While linker
+warnings could be very useful they have been ignored for many years by essentially all
+users, so we need to do a bit more work than just surfacing their text to produce a clear
+and actionable warning of similar quality to our other diagnostics. See this tracking
+issue for more details: <https://github.com/rust-lang/rust/issues/136096>.
+
 [lossy-provenance-casts](#lossy-provenance-casts)
 ----------
 
@@ -914,6 +1023,7 @@ and an integer.
 ### Example ###
 
 ```
+#![feature(strict_provenance_lints)]
 #![warn(lossy_provenance_casts)]
 
 fn main() {
@@ -925,17 +1035,23 @@ fn main() {
 This will produce:
 
 ```
-warning: unknown lint: `lossy_provenance_casts`
- --> lint_example.rs:1:9
+warning: under strict provenance it is considered bad style to cast pointer `*const u8` to integer `usize`
+ --> lint_example.rs:6:24
   |
-1 | #![warn(lossy_provenance_casts)]
+6 |     let _addr: usize = &x as *const u8 as usize;
+  |                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  |
+  = help: if you can't comply with strict provenance and need to expose the pointer provenance you can use `.expose_provenance()` instead
+note: the lint level is defined here
+ --> lint_example.rs:2:9
+  |
+2 | #![warn(lossy_provenance_casts)]
   |         ^^^^^^^^^^^^^^^^^^^^^^
+help: use `.addr()` to obtain the address of a pointer
   |
-  = note: the `lossy_provenance_casts` lint is unstable
-  = note: see issue #130351 <https://github.com/rust-lang/rust/issues/130351> for more information
-  = help: add `#![feature(strict_provenance_lints)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-03-15; consider upgrading it if it is out of date
-  = note: `#[warn(unknown_lints)]` on by default
+6 -     let _addr: usize = &x as *const u8 as usize;
+6 +     let _addr: usize = (&x as *const u8).addr();
+  |
 
 ```
 
@@ -1050,42 +1166,6 @@ catch some of these problems when the macro is *defined*.
 
 This lint is "allow" by default because it may have false positives
 and other issues. See [issue #61053](https://github.com/rust-lang/rust/issues/61053) for more details.
-
-[missing-abi](#missing-abi)
-----------
-
-The `missing_abi` lint detects cases where the ABI is omitted from`extern` declarations.
-
-### Example ###
-
-```
-#![deny(missing_abi)]
-
-extern fn foo() {}
-```
-
-This will produce:
-
-```
-error: extern declarations without an explicit ABI are deprecated
- --> lint_example.rs:4:1
-  |
-4 | extern fn foo() {}
-  | ^^^^^^ help: explicitly specify the C ABI: `extern "C"`
-  |
-note: the lint level is defined here
- --> lint_example.rs:1:9
-  |
-1 | #![deny(missing_abi)]
-  |         ^^^^^^^^^^^
-
-```
-
-### Explanation ###
-
-For historic reasons, Rust implicitly selects `C` as the default ABI for`extern` declarations. [Other ABIs](https://doc.rust-lang.org/reference/items/external-blocks.html#abi) like `C-unwind` and `system` have
-been added since then, and especially with their addition seeing the ABI
-easily makes code review easier.
 
 [missing-copy-implementations](#missing-copy-implementations)
 ----------
@@ -1494,9 +1574,9 @@ error: the item `None` is imported redundantly
 3   | use std::option::Option::None;
     |     ^^^^^^^^^^^^^^^^^^^^^^^^^
     |
-   ::: /checkout/library/std/src/prelude/mod.rs:166:13
+   ::: /checkout/library/std/src/prelude/mod.rs:147:13
     |
-166 |     pub use core::prelude::rust_2021::*;
+147 |     pub use core::prelude::rust_2021::*;
     |             ------------------------ the item `None` is already defined here
     |
 note: the lint level is defined here
@@ -2067,6 +2147,122 @@ when `'_` and elided lifetimes were first being introduced, and this
 lint would be too noisy. Also, there are some known false positives
 that it produces. See [RFC 2115](https://github.com/rust-lang/rfcs/blob/master/text/2115-argument-lifetimes.md) for historical context, and [issue #44752](https://github.com/rust-lang/rust/issues/44752) for more details.
 
+[supertrait-item-shadowing-definition](#supertrait-item-shadowing-definition)
+----------
+
+The `supertrait_item_shadowing_definition` lint detects when the
+definition of an item that is provided by both a subtrait and
+supertrait is shadowed, preferring the subtrait.
+
+### Example ###
+
+```
+#![feature(supertrait_item_shadowing)]
+#![deny(supertrait_item_shadowing_definition)]
+
+trait Upstream {
+    fn hello(&self) {}
+}
+impl<T> Upstream for T {}
+
+trait Downstream: Upstream {
+    fn hello(&self) {}
+}
+impl<T> Downstream for T {}
+```
+
+This will produce:
+
+```
+error: trait item `hello` from `Downstream` shadows identically named item from supertrait
+  --> lint_example.rs:11:5
+   |
+11 |     fn hello(&self) {}
+   |     ^^^^^^^^^^^^^^^
+   |
+note: item from `Upstream` is shadowed by a subtrait item
+  --> lint_example.rs:6:5
+   |
+6  |     fn hello(&self) {}
+   |     ^^^^^^^^^^^^^^^
+note: the lint level is defined here
+  --> lint_example.rs:2:9
+   |
+2  | #![deny(supertrait_item_shadowing_definition)]
+   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+```
+
+### Explanation ###
+
+RFC 3624 specified a heuristic in which a supertrait item would be
+shadowed by a subtrait item when ambiguity occurs during item
+selection. In order to mitigate side-effects of this happening
+silently, this lint detects these cases when users want to deny them
+or fix their trait definitions.
+
+[supertrait-item-shadowing-usage](#supertrait-item-shadowing-usage)
+----------
+
+The `supertrait_item_shadowing_usage` lint detects when the
+usage of an item that is provided by both a subtrait and supertrait
+is shadowed, preferring the subtrait.
+
+### Example ###
+
+```
+#![feature(supertrait_item_shadowing)]
+#![deny(supertrait_item_shadowing_usage)]
+
+trait Upstream {
+    fn hello(&self) {}
+}
+impl<T> Upstream for T {}
+
+trait Downstream: Upstream {
+    fn hello(&self) {}
+}
+impl<T> Downstream for T {}
+
+struct MyType;
+MyType.hello();
+```
+
+This will produce:
+
+```
+error: trait item `hello` from `Downstream` shadows identically named item from supertrait
+  --> lint_example.rs:16:8
+   |
+16 | MyType.hello();
+   |        ^^^^^
+   |
+note: item from `Downstream` shadows a supertrait item
+  --> lint_example.rs:11:5
+   |
+11 |     fn hello(&self) {}
+   |     ^^^^^^^^^^^^^^^
+note: item from `Upstream` is shadowed by a subtrait item
+  --> lint_example.rs:6:5
+   |
+6  |     fn hello(&self) {}
+   |     ^^^^^^^^^^^^^^^
+note: the lint level is defined here
+  --> lint_example.rs:2:9
+   |
+2  | #![deny(supertrait_item_shadowing_usage)]
+   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+```
+
+### Explanation ###
+
+RFC 3624 specified a heuristic in which a supertrait item would be
+shadowed by a subtrait item when ambiguity occurs during item
+selection. In order to mitigate side-effects of this happening
+silently, this lint detects these cases when users want to deny them
+or fix the call sites.
+
 [tail-expr-drop-order](#tail-expr-drop-order)
 ----------
 
@@ -2366,7 +2562,7 @@ note: the lint level is defined here
 ### Explanation ###
 
 It is often expected that if you can obtain an object of type `T`, then
-you can name the type `T` as well, this lint attempts to enforce this rule.
+you can name the type `T` as well; this lint attempts to enforce this rule.
 The recommended action is to either reexport the type properly to make it nameable,
 or document that users are not supposed to be able to name it for one reason or another.
 
@@ -2382,6 +2578,7 @@ path that does not start with `self::`, `super::`, or `crate::`.
 ### Example ###
 
 ```
+#![feature(unqualified_local_imports)]
 #![warn(unqualified_local_imports)]
 
 mod localmod {
@@ -2398,16 +2595,17 @@ pub fn main() {
 This will produce:
 
 ```
-warning: unknown lint: `unqualified_local_imports`
- --> lint_example.rs:1:9
+warning: `use` of a local item without leading `self::`, `super::`, or `crate::`
+ --> lint_example.rs:8:5
   |
-1 | #![warn(unqualified_local_imports)]
+8 | use localmod::S;
+  |     ^^^^^^^^
+  |
+note: the lint level is defined here
+ --> lint_example.rs:2:9
+  |
+2 | #![warn(unqualified_local_imports)]
   |         ^^^^^^^^^^^^^^^^^^^^^^^^^
-  |
-  = note: the `unqualified_local_imports` lint is unstable
-  = help: add `#![feature(unqualified_local_imports)]` to the crate attributes to enable
-  = note: this compiler was built on 2025-03-15; consider upgrading it if it is out of date
-  = note: `#[warn(unknown_lints)]` on by default
 
 ```
 
@@ -2423,8 +2621,8 @@ start with `self::`, `super::`, or `crate::`. This lint can be used to enforce t
 ----------
 
 The `unreachable_pub` lint triggers for `pub` items not reachable from other crates - that
-means neither directly accessible, nor reexported, nor leaked through things like return
-types.
+means neither directly accessible, nor reexported (with `pub use`), nor leaked through
+things like return types (which the [`unnameable_types`](#unnameable-types) lint can detect if desired).
 
 ### Example ###
 
@@ -2467,9 +2665,8 @@ Thus, this lint serves to identify situations where the intent does not match th
 If you wish the item to be accessible elsewhere within the crate, but not outside it, the`pub(crate)` visibility is recommended to be used instead. This more clearly expresses the
 intent that the item is only visible within its own crate.
 
-This lint is "allow" by default because it will trigger for a large
-amount existing Rust code, and has some false-positives. Eventually it
-is desired for this to become warn-by-default.
+This lint is "allow" by default because it will trigger for a large amount of existing Rust code.
+Eventually it is desired for this to become warn-by-default.
 
 [unsafe-attr-outside-unsafe](#unsafe-attr-outside-unsafe)
 ----------
