@@ -603,7 +603,7 @@ Die My BahnCard 100 kostet
 ----------
 
 * Die My **BahnCard 100** ist ab dem 1. Geltungstag 1 Jahr gültig.
-* Der letztmögliche erste Geltungstag der Karte ist der 05.10.2025.
+* Der letztmögliche erste Geltungstag der Karte ist der 10.06.2026.
 * Sie verlängert sich nicht automatisch.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-ist-eine-my-bahncard-100-gueltig)
