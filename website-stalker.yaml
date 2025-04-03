@@ -221,7 +221,7 @@ sites:
       - css_remove: .lint-additional-info-item:has(a[href^="https://github.com/rust-lang/rust-clippy/issues?q="])
       - css_remove: .lint-additional-info-item:has(a[href^="https://github.com/rust-lang/rust-clippy/blob/m"])
       - css_remove: a[href="https://doc.rust-lang.org/nightly/nightly-rustc/rustc_lint_defs/enum.Applicability.html#variants"]
-      - css_remove: .anchor[onclick], .lint-doc-md
+      - css_remove: .lint-doc-md, a[href=""], a[href^="#"]
       - css_flatten: .panel-title
       - html_markdownify
 

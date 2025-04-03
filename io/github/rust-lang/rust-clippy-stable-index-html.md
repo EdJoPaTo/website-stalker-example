@@ -1,4 +1,4 @@
-absolute\_paths [¶](#absolute_paths) [📋]()
+absolute\_paths
 
 restriction allow
 
@@ -6,7 +6,7 @@ restriction allow
 
 Added in: 1.73.0
 
-absurd\_extreme\_comparisons [¶](#absurd_extreme_comparisons) [📋]()
+absurd\_extreme\_comparisons
 
 correctness deny
 
@@ -14,7 +14,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-alloc\_instead\_of\_core [¶](#alloc_instead_of_core) [📋]()
+alloc\_instead\_of\_core
 
 restriction allow
 
@@ -22,7 +22,7 @@ restriction allow
 
 Added in: 1.64.0
 
-allow\_attributes [¶](#allow_attributes) [📋]()
+allow\_attributes
 
 restriction allow
 
@@ -30,7 +30,7 @@ restriction allow
 
 Added in: 1.70.0
 
-allow\_attributes\_without\_reason [¶](#allow_attributes_without_reason) [📋]()
+allow\_attributes\_without\_reason
 
 restriction allow
 
@@ -38,7 +38,7 @@ restriction allow
 
 Added in: 1.61.0
 
-almost\_complete\_range [¶](#almost_complete_range) [📋]()
+almost\_complete\_range
 
 suspicious warn
 
@@ -46,7 +46,7 @@ suspicious warn
 
 Added in: 1.68.0
 
-almost\_swapped [¶](#almost_swapped) [📋]()
+almost\_swapped
 
 correctness deny
 
@@ -54,7 +54,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-approx\_constant [¶](#approx_constant) [📋]()
+approx\_constant
 
 correctness deny
 
@@ -62,7 +62,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-arbitrary\_source\_item\_ordering [¶](#arbitrary_source_item_ordering) [📋]()
+arbitrary\_source\_item\_ordering
 
 restriction allow
 
@@ -70,7 +70,7 @@ restriction allow
 
 Added in: 1.84.0
 
-arc\_with\_non\_send\_sync [¶](#arc_with_non_send_sync) [📋]()
+arc\_with\_non\_send\_sync
 
 suspicious warn
 
@@ -78,7 +78,7 @@ suspicious warn
 
 Added in: 1.72.0
 
-arithmetic\_side\_effects [¶](#arithmetic_side_effects) [📋]()
+arithmetic\_side\_effects
 
 restriction allow
 
@@ -86,7 +86,7 @@ restriction allow
 
 Added in: 1.64.0
 
-as\_conversions [¶](#as_conversions) [📋]()
+as\_conversions
 
 restriction allow
 
@@ -94,7 +94,7 @@ restriction allow
 
 Added in: 1.41.0
 
-as\_pointer\_underscore [¶](#as_pointer_underscore) [📋]()
+as\_pointer\_underscore
 
 restriction allow
 
@@ -102,7 +102,7 @@ restriction allow
 
 Added in: 1.81.0
 
-as\_ptr\_cast\_mut [¶](#as_ptr_cast_mut) [📋]()
+as\_ptr\_cast\_mut
 
 nursery allow
 
@@ -110,7 +110,7 @@ nursery allow
 
 Added in: 1.66.0
 
-as\_underscore [¶](#as_underscore) [📋]()
+as\_underscore
 
 restriction allow
 
@@ -118,7 +118,7 @@ restriction allow
 
 Added in: 1.63.0
 
-assertions\_on\_constants [¶](#assertions_on_constants) [📋]()
+assertions\_on\_constants
 
 style warn
 
@@ -126,7 +126,7 @@ style warn
 
 Added in: 1.34.0
 
-assertions\_on\_result\_states [¶](#assertions_on_result_states) [📋]()
+assertions\_on\_result\_states
 
 restriction allow
 
@@ -134,7 +134,7 @@ restriction allow
 
 Added in: 1.64.0
 
-assign\_op\_pattern [¶](#assign_op_pattern) [📋]()
+assign\_op\_pattern
 
 style warn
 
@@ -142,7 +142,7 @@ style warn
 
 Added in: pre 1.29.0
 
-assign\_ops [¶](#assign_ops) [📋]()
+assign\_ops
 
 deprecated none
 
@@ -150,7 +150,7 @@ deprecated none
 
 Deprecated in: 1.30.0
 
-assigning\_clones [¶](#assigning_clones) [📋]()
+assigning\_clones
 
 pedantic allow
 
@@ -158,7 +158,7 @@ pedantic allow
 
 Added in: 1.78.0
 
-async\_yields\_async [¶](#async_yields_async) [📋]()
+async\_yields\_async
 
 correctness deny
 
@@ -166,7 +166,7 @@ correctness deny
 
 Added in: 1.48.0
 
-await\_holding\_invalid\_type [¶](#await_holding_invalid_type) [📋]()
+await\_holding\_invalid\_type
 
 suspicious warn
 
@@ -174,7 +174,7 @@ suspicious warn
 
 Added in: 1.62.0
 
-await\_holding\_lock [¶](#await_holding_lock) [📋]()
+await\_holding\_lock
 
 suspicious warn
 
@@ -182,7 +182,7 @@ suspicious warn
 
 Added in: 1.45.0
 
-await\_holding\_refcell\_ref [¶](#await_holding_refcell_ref) [📋]()
+await\_holding\_refcell\_ref
 
 suspicious warn
 
@@ -190,7 +190,7 @@ suspicious warn
 
 Added in: 1.49.0
 
-bad\_bit\_mask [¶](#bad_bit_mask) [📋]()
+bad\_bit\_mask
 
 correctness deny
 
@@ -198,7 +198,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-big\_endian\_bytes [¶](#big_endian_bytes) [📋]()
+big\_endian\_bytes
 
 restriction allow
 
@@ -206,7 +206,7 @@ restriction allow
 
 Added in: 1.72.0
 
-bind\_instead\_of\_map [¶](#bind_instead_of_map) [📋]()
+bind\_instead\_of\_map
 
 complexity warn
 
@@ -214,7 +214,7 @@ complexity warn
 
 Added in: 1.45.0
 
-blanket\_clippy\_restriction\_lints [¶](#blanket_clippy_restriction_lints) [📋]()
+blanket\_clippy\_restriction\_lints
 
 suspicious warn
 
@@ -222,7 +222,7 @@ suspicious warn
 
 Added in: 1.47.0
 
-blocks\_in\_conditions [¶](#blocks_in_conditions) [📋]()
+blocks\_in\_conditions
 
 style warn
 
@@ -230,7 +230,7 @@ style warn
 
 Added in: 1.45.0
 
-bool\_assert\_comparison [¶](#bool_assert_comparison) [📋]()
+bool\_assert\_comparison
 
 style warn
 
@@ -238,7 +238,7 @@ style warn
 
 Added in: 1.53.0
 
-bool\_comparison [¶](#bool_comparison) [📋]()
+bool\_comparison
 
 complexity warn
 
@@ -246,7 +246,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-bool\_to\_int\_with\_if [¶](#bool_to_int_with_if) [📋]()
+bool\_to\_int\_with\_if
 
 pedantic allow
 
@@ -254,7 +254,7 @@ pedantic allow
 
 Added in: 1.65.0
 
-borrow\_as\_ptr [¶](#borrow_as_ptr) [📋]()
+borrow\_as\_ptr
 
 pedantic allow
 
@@ -262,7 +262,7 @@ pedantic allow
 
 Added in: 1.60.0
 
-borrow\_deref\_ref [¶](#borrow_deref_ref) [📋]()
+borrow\_deref\_ref
 
 complexity warn
 
@@ -270,7 +270,7 @@ complexity warn
 
 Added in: 1.63.0
 
-borrow\_interior\_mutable\_const [¶](#borrow_interior_mutable_const) [📋]()
+borrow\_interior\_mutable\_const
 
 style warn
 
@@ -278,7 +278,7 @@ style warn
 
 Added in: pre 1.29.0
 
-borrowed\_box [¶](#borrowed_box) [📋]()
+borrowed\_box
 
 complexity warn
 
@@ -286,7 +286,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-box\_collection [¶](#box_collection) [📋]()
+box\_collection
 
 perf warn
 
@@ -294,7 +294,7 @@ perf warn
 
 Added in: 1.57.0
 
-box\_default [¶](#box_default) [📋]()
+box\_default
 
 style warn
 
@@ -302,7 +302,7 @@ style warn
 
 Added in: 1.66.0
 
-boxed\_local [¶](#boxed_local) [📋]()
+boxed\_local
 
 perf warn
 
@@ -310,7 +310,7 @@ perf warn
 
 Added in: pre 1.29.0
 
-branches\_sharing\_code [¶](#branches_sharing_code) [📋]()
+branches\_sharing\_code
 
 nursery allow
 
@@ -318,7 +318,7 @@ nursery allow
 
 Added in: 1.53.0
 
-builtin\_type\_shadow [¶](#builtin_type_shadow) [📋]()
+builtin\_type\_shadow
 
 style warn
 
@@ -326,7 +326,7 @@ style warn
 
 Added in: pre 1.29.0
 
-byte\_char\_slices [¶](#byte_char_slices) [📋]()
+byte\_char\_slices
 
 style warn
 
@@ -334,7 +334,7 @@ style warn
 
 Added in: 1.81.0
 
-bytes\_count\_to\_len [¶](#bytes_count_to_len) [📋]()
+bytes\_count\_to\_len
 
 complexity warn
 
@@ -342,7 +342,7 @@ complexity warn
 
 Added in: 1.62.0
 
-bytes\_nth [¶](#bytes_nth) [📋]()
+bytes\_nth
 
 style warn
 
@@ -350,7 +350,7 @@ style warn
 
 Added in: 1.52.0
 
-cargo\_common\_metadata [¶](#cargo_common_metadata) [📋]()
+cargo\_common\_metadata
 
 cargo allow
 
@@ -358,7 +358,7 @@ cargo allow
 
 Added in: 1.32.0
 
-case\_sensitive\_file\_extension\_comparisons [¶](#case_sensitive_file_extension_comparisons) [📋]()
+case\_sensitive\_file\_extension\_comparisons
 
 pedantic allow
 
@@ -366,7 +366,7 @@ pedantic allow
 
 Added in: 1.51.0
 
-cast\_abs\_to\_unsigned [¶](#cast_abs_to_unsigned) [📋]()
+cast\_abs\_to\_unsigned
 
 suspicious warn
 
@@ -374,7 +374,7 @@ suspicious warn
 
 Added in: 1.62.0
 
-cast\_enum\_constructor [¶](#cast_enum_constructor) [📋]()
+cast\_enum\_constructor
 
 suspicious warn
 
@@ -382,7 +382,7 @@ suspicious warn
 
 Added in: 1.61.0
 
-cast\_enum\_truncation [¶](#cast_enum_truncation) [📋]()
+cast\_enum\_truncation
 
 suspicious warn
 
@@ -390,7 +390,7 @@ suspicious warn
 
 Added in: 1.61.0
 
-cast\_lossless [¶](#cast_lossless) [📋]()
+cast\_lossless
 
 pedantic allow
 
@@ -398,7 +398,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-cast\_nan\_to\_int [¶](#cast_nan_to_int) [📋]()
+cast\_nan\_to\_int
 
 suspicious warn
 
@@ -406,7 +406,7 @@ suspicious warn
 
 Added in: 1.66.0
 
-cast\_possible\_truncation [¶](#cast_possible_truncation) [📋]()
+cast\_possible\_truncation
 
 pedantic allow
 
@@ -414,7 +414,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-cast\_possible\_wrap [¶](#cast_possible_wrap) [📋]()
+cast\_possible\_wrap
 
 pedantic allow
 
@@ -422,7 +422,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-cast\_precision\_loss [¶](#cast_precision_loss) [📋]()
+cast\_precision\_loss
 
 pedantic allow
 
@@ -430,7 +430,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-cast\_ptr\_alignment [¶](#cast_ptr_alignment) [📋]()
+cast\_ptr\_alignment
 
 pedantic allow
 
@@ -438,7 +438,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-cast\_sign\_loss [¶](#cast_sign_loss) [📋]()
+cast\_sign\_loss
 
 pedantic allow
 
@@ -446,7 +446,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-cast\_slice\_different\_sizes [¶](#cast_slice_different_sizes) [📋]()
+cast\_slice\_different\_sizes
 
 correctness deny
 
@@ -454,7 +454,7 @@ correctness deny
 
 Added in: 1.61.0
 
-cast\_slice\_from\_raw\_parts [¶](#cast_slice_from_raw_parts) [📋]()
+cast\_slice\_from\_raw\_parts
 
 suspicious warn
 
@@ -462,7 +462,7 @@ suspicious warn
 
 Added in: 1.65.0
 
-cfg\_not\_test [¶](#cfg_not_test) [📋]()
+cfg\_not\_test
 
 restriction allow
 
@@ -470,7 +470,7 @@ restriction allow
 
 Added in: 1.81.0
 
-char\_lit\_as\_u8 [¶](#char_lit_as_u8) [📋]()
+char\_lit\_as\_u8
 
 complexity warn
 
@@ -478,7 +478,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-chars\_last\_cmp [¶](#chars_last_cmp) [📋]()
+chars\_last\_cmp
 
 style warn
 
@@ -486,7 +486,7 @@ style warn
 
 Added in: pre 1.29.0
 
-chars\_next\_cmp [¶](#chars_next_cmp) [📋]()
+chars\_next\_cmp
 
 style warn
 
@@ -494,7 +494,7 @@ style warn
 
 Added in: pre 1.29.0
 
-checked\_conversions [¶](#checked_conversions) [📋]()
+checked\_conversions
 
 pedantic allow
 
@@ -502,7 +502,7 @@ pedantic allow
 
 Added in: 1.37.0
 
-clear\_with\_drain [¶](#clear_with_drain) [📋]()
+clear\_with\_drain
 
 nursery allow
 
@@ -510,7 +510,7 @@ nursery allow
 
 Added in: 1.70.0
 
-clone\_on\_copy [¶](#clone_on_copy) [📋]()
+clone\_on\_copy
 
 complexity warn
 
@@ -518,7 +518,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-clone\_on\_ref\_ptr [¶](#clone_on_ref_ptr) [📋]()
+clone\_on\_ref\_ptr
 
 restriction allow
 
@@ -526,7 +526,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-cloned\_instead\_of\_copied [¶](#cloned_instead_of_copied) [📋]()
+cloned\_instead\_of\_copied
 
 pedantic allow
 
@@ -534,7 +534,7 @@ pedantic allow
 
 Added in: 1.53.0
 
-cmp\_null [¶](#cmp_null) [📋]()
+cmp\_null
 
 style warn
 
@@ -542,7 +542,7 @@ style warn
 
 Added in: pre 1.29.0
 
-cmp\_owned [¶](#cmp_owned) [📋]()
+cmp\_owned
 
 perf warn
 
@@ -550,7 +550,7 @@ perf warn
 
 Added in: pre 1.29.0
 
-cognitive\_complexity [¶](#cognitive_complexity) [📋]()
+cognitive\_complexity
 
 nursery allow
 
@@ -558,7 +558,7 @@ nursery allow
 
 Added in: 1.35.0
 
-collapsible\_else\_if [¶](#collapsible_else_if) [📋]()
+collapsible\_else\_if
 
 style warn
 
@@ -566,7 +566,7 @@ style warn
 
 Added in: 1.51.0
 
-collapsible\_if [¶](#collapsible_if) [📋]()
+collapsible\_if
 
 style warn
 
@@ -574,7 +574,7 @@ style warn
 
 Added in: pre 1.29.0
 
-collapsible\_match [¶](#collapsible_match) [📋]()
+collapsible\_match
 
 style warn
 
@@ -582,7 +582,7 @@ style warn
 
 Added in: 1.50.0
 
-collapsible\_str\_replace [¶](#collapsible_str_replace) [📋]()
+collapsible\_str\_replace
 
 perf warn
 
@@ -590,7 +590,7 @@ perf warn
 
 Added in: 1.65.0
 
-collection\_is\_never\_read [¶](#collection_is_never_read) [📋]()
+collection\_is\_never\_read
 
 nursery allow
 
@@ -598,7 +598,7 @@ nursery allow
 
 Added in: 1.70.0
 
-comparison\_chain [¶](#comparison_chain) [📋]()
+comparison\_chain
 
 style warn
 
@@ -606,7 +606,7 @@ style warn
 
 Added in: 1.40.0
 
-comparison\_to\_empty [¶](#comparison_to_empty) [📋]()
+comparison\_to\_empty
 
 style warn
 
@@ -614,7 +614,7 @@ style warn
 
 Added in: 1.49.0
 
-const\_is\_empty [¶](#const_is_empty) [📋]()
+const\_is\_empty
 
 suspicious warn
 
@@ -622,7 +622,7 @@ suspicious warn
 
 Added in: 1.79.0
 
-copy\_iterator [¶](#copy_iterator) [📋]()
+copy\_iterator
 
 pedantic allow
 
@@ -630,7 +630,7 @@ pedantic allow
 
 Added in: 1.30.0
 
-crate\_in\_macro\_def [¶](#crate_in_macro_def) [📋]()
+crate\_in\_macro\_def
 
 suspicious warn
 
@@ -638,7 +638,7 @@ suspicious warn
 
 Added in: 1.62.0
 
-create\_dir [¶](#create_dir) [📋]()
+create\_dir
 
 restriction allow
 
@@ -646,7 +646,7 @@ restriction allow
 
 Added in: 1.48.0
 
-crosspointer\_transmute [¶](#crosspointer_transmute) [📋]()
+crosspointer\_transmute
 
 complexity warn
 
@@ -654,7 +654,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-dbg\_macro [¶](#dbg_macro) [📋]()
+dbg\_macro
 
 restriction allow
 
@@ -662,7 +662,7 @@ restriction allow
 
 Added in: 1.34.0
 
-debug\_assert\_with\_mut\_call [¶](#debug_assert_with_mut_call) [📋]()
+debug\_assert\_with\_mut\_call
 
 nursery allow
 
@@ -670,7 +670,7 @@ nursery allow
 
 Added in: 1.40.0
 
-decimal\_literal\_representation [¶](#decimal_literal_representation) [📋]()
+decimal\_literal\_representation
 
 restriction allow
 
@@ -678,7 +678,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-declare\_interior\_mutable\_const [¶](#declare_interior_mutable_const) [📋]()
+declare\_interior\_mutable\_const
 
 style warn
 
@@ -686,7 +686,7 @@ style warn
 
 Added in: pre 1.29.0
 
-default\_constructed\_unit\_structs [¶](#default_constructed_unit_structs) [📋]()
+default\_constructed\_unit\_structs
 
 complexity warn
 
@@ -694,7 +694,7 @@ complexity warn
 
 Added in: 1.71.0
 
-default\_instead\_of\_iter\_empty [¶](#default_instead_of_iter_empty) [📋]()
+default\_instead\_of\_iter\_empty
 
 style warn
 
@@ -702,7 +702,7 @@ style warn
 
 Added in: 1.64.0
 
-default\_numeric\_fallback [¶](#default_numeric_fallback) [📋]()
+default\_numeric\_fallback
 
 restriction allow
 
@@ -710,7 +710,7 @@ restriction allow
 
 Added in: 1.52.0
 
-default\_trait\_access [¶](#default_trait_access) [📋]()
+default\_trait\_access
 
 pedantic allow
 
@@ -718,7 +718,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-default\_union\_representation [¶](#default_union_representation) [📋]()
+default\_union\_representation
 
 restriction allow
 
@@ -726,7 +726,7 @@ restriction allow
 
 Added in: 1.60.0
 
-deprecated\_cfg\_attr [¶](#deprecated_cfg_attr) [📋]()
+deprecated\_cfg\_attr
 
 complexity warn
 
@@ -734,7 +734,7 @@ complexity warn
 
 Added in: 1.32.0
 
-deprecated\_clippy\_cfg\_attr [¶](#deprecated_clippy_cfg_attr) [📋]()
+deprecated\_clippy\_cfg\_attr
 
 suspicious warn
 
@@ -742,7 +742,7 @@ suspicious warn
 
 Added in: 1.78.0
 
-deprecated\_semver [¶](#deprecated_semver) [📋]()
+deprecated\_semver
 
 correctness deny
 
@@ -750,7 +750,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-deref\_addrof [¶](#deref_addrof) [📋]()
+deref\_addrof
 
 complexity warn
 
@@ -758,7 +758,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-deref\_by\_slicing [¶](#deref_by_slicing) [📋]()
+deref\_by\_slicing
 
 restriction allow
 
@@ -766,7 +766,7 @@ restriction allow
 
 Added in: 1.61.0
 
-derivable\_impls [¶](#derivable_impls) [📋]()
+derivable\_impls
 
 complexity warn
 
@@ -774,7 +774,7 @@ complexity warn
 
 Added in: 1.57.0
 
-derive\_ord\_xor\_partial\_ord [¶](#derive_ord_xor_partial_ord) [📋]()
+derive\_ord\_xor\_partial\_ord
 
 correctness deny
 
@@ -782,7 +782,7 @@ correctness deny
 
 Added in: 1.47.0
 
-derive\_partial\_eq\_without\_eq [¶](#derive_partial_eq_without_eq) [📋]()
+derive\_partial\_eq\_without\_eq
 
 nursery allow
 
@@ -790,7 +790,7 @@ nursery allow
 
 Added in: 1.63.0
 
-derived\_hash\_with\_manual\_eq [¶](#derived_hash_with_manual_eq) [📋]()
+derived\_hash\_with\_manual\_eq
 
 correctness deny
 
@@ -798,7 +798,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-disallowed\_macros [¶](#disallowed_macros) [📋]()
+disallowed\_macros
 
 style warn
 
@@ -806,7 +806,7 @@ style warn
 
 Added in: 1.66.0
 
-disallowed\_methods [¶](#disallowed_methods) [📋]()
+disallowed\_methods
 
 style warn
 
@@ -814,7 +814,7 @@ style warn
 
 Added in: 1.49.0
 
-disallowed\_names [¶](#disallowed_names) [📋]()
+disallowed\_names
 
 style warn
 
@@ -822,7 +822,7 @@ style warn
 
 Added in: pre 1.29.0
 
-disallowed\_script\_idents [¶](#disallowed_script_idents) [📋]()
+disallowed\_script\_idents
 
 restriction allow
 
@@ -830,7 +830,7 @@ restriction allow
 
 Added in: 1.55.0
 
-disallowed\_types [¶](#disallowed_types) [📋]()
+disallowed\_types
 
 style warn
 
@@ -838,7 +838,7 @@ style warn
 
 Added in: 1.55.0
 
-diverging\_sub\_expression [¶](#diverging_sub_expression) [📋]()
+diverging\_sub\_expression
 
 complexity warn
 
@@ -846,7 +846,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-doc\_include\_without\_cfg [¶](#doc_include_without_cfg) [📋]()
+doc\_include\_without\_cfg
 
 restriction allow
 
@@ -854,7 +854,7 @@ restriction allow
 
 Added in: 1.84.0
 
-doc\_lazy\_continuation [¶](#doc_lazy_continuation) [📋]()
+doc\_lazy\_continuation
 
 style warn
 
@@ -862,7 +862,7 @@ style warn
 
 Added in: 1.80.0
 
-doc\_link\_with\_quotes [¶](#doc_link_with_quotes) [📋]()
+doc\_link\_with\_quotes
 
 pedantic allow
 
@@ -870,7 +870,7 @@ pedantic allow
 
 Added in: 1.63.0
 
-doc\_markdown [¶](#doc_markdown) [📋]()
+doc\_markdown
 
 pedantic allow
 
@@ -878,7 +878,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-doc\_nested\_refdefs [¶](#doc_nested_refdefs) [📋]()
+doc\_nested\_refdefs
 
 suspicious warn
 
@@ -886,7 +886,7 @@ suspicious warn
 
 Added in: 1.84.0
 
-doc\_overindented\_list\_items [¶](#doc_overindented_list_items) [📋]()
+doc\_overindented\_list\_items
 
 style warn
 
@@ -894,7 +894,7 @@ style warn
 
 Added in: 1.80.0
 
-double\_comparisons [¶](#double_comparisons) [📋]()
+double\_comparisons
 
 complexity warn
 
@@ -902,7 +902,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-double\_ended\_iterator\_last [¶](#double_ended_iterator_last) [📋]()
+double\_ended\_iterator\_last
 
 perf warn
 
@@ -910,7 +910,7 @@ perf warn
 
 Added in: 1.85.0
 
-double\_must\_use [¶](#double_must_use) [📋]()
+double\_must\_use
 
 style warn
 
@@ -918,7 +918,7 @@ style warn
 
 Added in: 1.40.0
 
-double\_parens [¶](#double_parens) [📋]()
+double\_parens
 
 complexity warn
 
@@ -926,7 +926,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-drain\_collect [¶](#drain_collect) [📋]()
+drain\_collect
 
 perf warn
 
@@ -934,7 +934,7 @@ perf warn
 
 Added in: 1.72.0
 
-drop\_non\_drop [¶](#drop_non_drop) [📋]()
+drop\_non\_drop
 
 suspicious warn
 
@@ -942,7 +942,7 @@ suspicious warn
 
 Added in: 1.62.0
 
-duplicate\_mod [¶](#duplicate_mod) [📋]()
+duplicate\_mod
 
 suspicious warn
 
@@ -950,7 +950,7 @@ suspicious warn
 
 Added in: 1.63.0
 
-duplicate\_underscore\_argument [¶](#duplicate_underscore_argument) [📋]()
+duplicate\_underscore\_argument
 
 style warn
 
@@ -958,7 +958,7 @@ style warn
 
 Added in: pre 1.29.0
 
-duplicated\_attributes [¶](#duplicated_attributes) [📋]()
+duplicated\_attributes
 
 suspicious warn
 
@@ -966,7 +966,7 @@ suspicious warn
 
 Added in: 1.79.0
 
-duration\_subsec [¶](#duration_subsec) [📋]()
+duration\_subsec
 
 complexity warn
 
@@ -974,7 +974,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-eager\_transmute [¶](#eager_transmute) [📋]()
+eager\_transmute
 
 correctness deny
 
@@ -982,7 +982,7 @@ correctness deny
 
 Added in: 1.77.0
 
-else\_if\_without\_else [¶](#else_if_without_else) [📋]()
+else\_if\_without\_else
 
 restriction allow
 
@@ -990,7 +990,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-empty\_docs [¶](#empty_docs) [📋]()
+empty\_docs
 
 suspicious warn
 
@@ -998,7 +998,7 @@ suspicious warn
 
 Added in: 1.78.0
 
-empty\_drop [¶](#empty_drop) [📋]()
+empty\_drop
 
 restriction allow
 
@@ -1006,7 +1006,7 @@ restriction allow
 
 Added in: 1.62.0
 
-empty\_enum [¶](#empty_enum) [📋]()
+empty\_enum
 
 pedantic allow
 
@@ -1014,7 +1014,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-empty\_enum\_variants\_with\_brackets [¶](#empty_enum_variants_with_brackets) [📋]()
+empty\_enum\_variants\_with\_brackets
 
 restriction allow
 
@@ -1022,7 +1022,7 @@ restriction allow
 
 Added in: 1.77.0
 
-empty\_line\_after\_doc\_comments [¶](#empty_line_after_doc_comments) [📋]()
+empty\_line\_after\_doc\_comments
 
 suspicious warn
 
@@ -1030,7 +1030,7 @@ suspicious warn
 
 Added in: 1.70.0
 
-empty\_line\_after\_outer\_attr [¶](#empty_line_after_outer_attr) [📋]()
+empty\_line\_after\_outer\_attr
 
 suspicious warn
 
@@ -1038,7 +1038,7 @@ suspicious warn
 
 Added in: pre 1.29.0
 
-empty\_loop [¶](#empty_loop) [📋]()
+empty\_loop
 
 suspicious warn
 
@@ -1046,7 +1046,7 @@ suspicious warn
 
 Added in: pre 1.29.0
 
-empty\_structs\_with\_brackets [¶](#empty_structs_with_brackets) [📋]()
+empty\_structs\_with\_brackets
 
 restriction allow
 
@@ -1054,7 +1054,7 @@ restriction allow
 
 Added in: 1.62.0
 
-enum\_clike\_unportable\_variant [¶](#enum_clike_unportable_variant) [📋]()
+enum\_clike\_unportable\_variant
 
 correctness deny
 
@@ -1062,7 +1062,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-enum\_glob\_use [¶](#enum_glob_use) [📋]()
+enum\_glob\_use
 
 pedantic allow
 
@@ -1070,7 +1070,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-enum\_variant\_names [¶](#enum_variant_names) [📋]()
+enum\_variant\_names
 
 style warn
 
@@ -1078,7 +1078,7 @@ style warn
 
 Added in: pre 1.29.0
 
-eq\_op [¶](#eq_op) [📋]()
+eq\_op
 
 correctness deny
 
@@ -1086,7 +1086,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-equatable\_if\_let [¶](#equatable_if_let) [📋]()
+equatable\_if\_let
 
 nursery allow
 
@@ -1094,7 +1094,7 @@ nursery allow
 
 Added in: 1.57.0
 
-erasing\_op [¶](#erasing_op) [📋]()
+erasing\_op
 
 correctness deny
 
@@ -1102,7 +1102,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-err\_expect [¶](#err_expect) [📋]()
+err\_expect
 
 style warn
 
@@ -1110,7 +1110,7 @@ style warn
 
 Added in: 1.62.0
 
-error\_impl\_error [¶](#error_impl_error) [📋]()
+error\_impl\_error
 
 restriction allow
 
@@ -1118,7 +1118,7 @@ restriction allow
 
 Added in: 1.73.0
 
-excessive\_nesting [¶](#excessive_nesting) [📋]()
+excessive\_nesting
 
 complexity warn
 
@@ -1126,7 +1126,7 @@ complexity warn
 
 Added in: 1.72.0
 
-excessive\_precision [¶](#excessive_precision) [📋]()
+excessive\_precision
 
 style warn
 
@@ -1134,7 +1134,7 @@ style warn
 
 Added in: pre 1.29.0
 
-exhaustive\_enums [¶](#exhaustive_enums) [📋]()
+exhaustive\_enums
 
 restriction allow
 
@@ -1142,7 +1142,7 @@ restriction allow
 
 Added in: 1.51.0
 
-exhaustive\_structs [¶](#exhaustive_structs) [📋]()
+exhaustive\_structs
 
 restriction allow
 
@@ -1150,7 +1150,7 @@ restriction allow
 
 Added in: 1.51.0
 
-exit [¶](#exit) [📋]()
+exit
 
 restriction allow
 
@@ -1158,7 +1158,7 @@ restriction allow
 
 Added in: 1.41.0
 
-expect\_fun\_call [¶](#expect_fun_call) [📋]()
+expect\_fun\_call
 
 perf warn
 
@@ -1166,7 +1166,7 @@ perf warn
 
 Added in: pre 1.29.0
 
-expect\_used [¶](#expect_used) [📋]()
+expect\_used
 
 restriction allow
 
@@ -1174,7 +1174,7 @@ restriction allow
 
 Added in: 1.45.0
 
-expl\_impl\_clone\_on\_copy [¶](#expl_impl_clone_on_copy) [📋]()
+expl\_impl\_clone\_on\_copy
 
 pedantic allow
 
@@ -1182,7 +1182,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-explicit\_auto\_deref [¶](#explicit_auto_deref) [📋]()
+explicit\_auto\_deref
 
 complexity warn
 
@@ -1190,7 +1190,7 @@ complexity warn
 
 Added in: 1.64.0
 
-explicit\_counter\_loop [¶](#explicit_counter_loop) [📋]()
+explicit\_counter\_loop
 
 complexity warn
 
@@ -1198,7 +1198,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-explicit\_deref\_methods [¶](#explicit_deref_methods) [📋]()
+explicit\_deref\_methods
 
 pedantic allow
 
@@ -1206,7 +1206,7 @@ pedantic allow
 
 Added in: 1.44.0
 
-explicit\_into\_iter\_loop [¶](#explicit_into_iter_loop) [📋]()
+explicit\_into\_iter\_loop
 
 pedantic allow
 
@@ -1214,7 +1214,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-explicit\_iter\_loop [¶](#explicit_iter_loop) [📋]()
+explicit\_iter\_loop
 
 pedantic allow
 
@@ -1222,7 +1222,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-explicit\_write [¶](#explicit_write) [📋]()
+explicit\_write
 
 complexity warn
 
@@ -1230,7 +1230,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-extend\_from\_slice [¶](#extend_from_slice) [📋]()
+extend\_from\_slice
 
 deprecated none
 
@@ -1238,7 +1238,7 @@ deprecated none
 
 Deprecated in: pre 1.29.0
 
-extend\_with\_drain [¶](#extend_with_drain) [📋]()
+extend\_with\_drain
 
 perf warn
 
@@ -1246,7 +1246,7 @@ perf warn
 
 Added in: 1.55.0
 
-extra\_unused\_lifetimes [¶](#extra_unused_lifetimes) [📋]()
+extra\_unused\_lifetimes
 
 complexity warn
 
@@ -1254,7 +1254,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-extra\_unused\_type\_parameters [¶](#extra_unused_type_parameters) [📋]()
+extra\_unused\_type\_parameters
 
 complexity warn
 
@@ -1262,7 +1262,7 @@ complexity warn
 
 Added in: 1.69.0
 
-fallible\_impl\_from [¶](#fallible_impl_from) [📋]()
+fallible\_impl\_from
 
 nursery allow
 
@@ -1270,7 +1270,7 @@ nursery allow
 
 Added in: pre 1.29.0
 
-field\_reassign\_with\_default [¶](#field_reassign_with_default) [📋]()
+field\_reassign\_with\_default
 
 style warn
 
@@ -1278,7 +1278,7 @@ style warn
 
 Added in: 1.49.0
 
-field\_scoped\_visibility\_modifiers [¶](#field_scoped_visibility_modifiers) [📋]()
+field\_scoped\_visibility\_modifiers
 
 restriction allow
 
@@ -1286,7 +1286,7 @@ restriction allow
 
 Added in: 1.81.0
 
-filetype\_is\_file [¶](#filetype_is_file) [📋]()
+filetype\_is\_file
 
 restriction allow
 
@@ -1294,7 +1294,7 @@ restriction allow
 
 Added in: 1.42.0
 
-filter\_map\_bool\_then [¶](#filter_map_bool_then) [📋]()
+filter\_map\_bool\_then
 
 style warn
 
@@ -1302,7 +1302,7 @@ style warn
 
 Added in: 1.73.0
 
-filter\_map\_identity [¶](#filter_map_identity) [📋]()
+filter\_map\_identity
 
 complexity warn
 
@@ -1310,7 +1310,7 @@ complexity warn
 
 Added in: 1.52.0
 
-filter\_map\_next [¶](#filter_map_next) [📋]()
+filter\_map\_next
 
 pedantic allow
 
@@ -1318,7 +1318,7 @@ pedantic allow
 
 Added in: 1.36.0
 
-filter\_next [¶](#filter_next) [📋]()
+filter\_next
 
 complexity warn
 
@@ -1326,7 +1326,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-flat\_map\_identity [¶](#flat_map_identity) [📋]()
+flat\_map\_identity
 
 complexity warn
 
@@ -1334,7 +1334,7 @@ complexity warn
 
 Added in: 1.39.0
 
-flat\_map\_option [¶](#flat_map_option) [📋]()
+flat\_map\_option
 
 pedantic allow
 
@@ -1342,7 +1342,7 @@ pedantic allow
 
 Added in: 1.53.0
 
-float\_arithmetic [¶](#float_arithmetic) [📋]()
+float\_arithmetic
 
 restriction allow
 
@@ -1350,7 +1350,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-float\_cmp [¶](#float_cmp) [📋]()
+float\_cmp
 
 pedantic allow
 
@@ -1358,7 +1358,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-float\_cmp\_const [¶](#float_cmp_const) [📋]()
+float\_cmp\_const
 
 restriction allow
 
@@ -1366,7 +1366,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-float\_equality\_without\_abs [¶](#float_equality_without_abs) [📋]()
+float\_equality\_without\_abs
 
 suspicious warn
 
@@ -1374,7 +1374,7 @@ suspicious warn
 
 Added in: 1.48.0
 
-fn\_params\_excessive\_bools [¶](#fn_params_excessive_bools) [📋]()
+fn\_params\_excessive\_bools
 
 pedantic allow
 
@@ -1382,7 +1382,7 @@ pedantic allow
 
 Added in: 1.43.0
 
-fn\_to\_numeric\_cast [¶](#fn_to_numeric_cast) [📋]()
+fn\_to\_numeric\_cast
 
 style warn
 
@@ -1390,7 +1390,7 @@ style warn
 
 Added in: pre 1.29.0
 
-fn\_to\_numeric\_cast\_any [¶](#fn_to_numeric_cast_any) [📋]()
+fn\_to\_numeric\_cast\_any
 
 restriction allow
 
@@ -1398,7 +1398,7 @@ restriction allow
 
 Added in: 1.58.0
 
-fn\_to\_numeric\_cast\_with\_truncation [¶](#fn_to_numeric_cast_with_truncation) [📋]()
+fn\_to\_numeric\_cast\_with\_truncation
 
 style warn
 
@@ -1406,7 +1406,7 @@ style warn
 
 Added in: pre 1.29.0
 
-for\_kv\_map [¶](#for_kv_map) [📋]()
+for\_kv\_map
 
 style warn
 
@@ -1414,7 +1414,7 @@ style warn
 
 Added in: pre 1.29.0
 
-forget\_non\_drop [¶](#forget_non_drop) [📋]()
+forget\_non\_drop
 
 suspicious warn
 
@@ -1422,7 +1422,7 @@ suspicious warn
 
 Added in: 1.62.0
 
-format\_collect [¶](#format_collect) [📋]()
+format\_collect
 
 pedantic allow
 
@@ -1430,7 +1430,7 @@ pedantic allow
 
 Added in: 1.73.0
 
-format\_in\_format\_args [¶](#format_in_format_args) [📋]()
+format\_in\_format\_args
 
 perf warn
 
@@ -1438,7 +1438,7 @@ perf warn
 
 Added in: 1.58.0
 
-format\_push\_string [¶](#format_push_string) [📋]()
+format\_push\_string
 
 pedantic allow
 
@@ -1446,7 +1446,7 @@ pedantic allow
 
 Added in: 1.62.0
 
-four\_forward\_slashes [¶](#four_forward_slashes) [📋]()
+four\_forward\_slashes
 
 suspicious warn
 
@@ -1454,7 +1454,7 @@ suspicious warn
 
 Added in: 1.73.0
 
-from\_iter\_instead\_of\_collect [¶](#from_iter_instead_of_collect) [📋]()
+from\_iter\_instead\_of\_collect
 
 pedantic allow
 
@@ -1462,7 +1462,7 @@ pedantic allow
 
 Added in: 1.49.0
 
-from\_over\_into [¶](#from_over_into) [📋]()
+from\_over\_into
 
 style warn
 
@@ -1470,7 +1470,7 @@ style warn
 
 Added in: 1.51.0
 
-from\_raw\_with\_void\_ptr [¶](#from_raw_with_void_ptr) [📋]()
+from\_raw\_with\_void\_ptr
 
 suspicious warn
 
@@ -1478,7 +1478,7 @@ suspicious warn
 
 Added in: 1.67.0
 
-from\_str\_radix\_10 [¶](#from_str_radix_10) [📋]()
+from\_str\_radix\_10
 
 style warn
 
@@ -1486,7 +1486,7 @@ style warn
 
 Added in: 1.52.0
 
-future\_not\_send [¶](#future_not_send) [📋]()
+future\_not\_send
 
 nursery allow
 
@@ -1494,7 +1494,7 @@ nursery allow
 
 Added in: 1.44.0
 
-get\_first [¶](#get_first) [📋]()
+get\_first
 
 style warn
 
@@ -1502,7 +1502,7 @@ style warn
 
 Added in: 1.63.0
 
-get\_last\_with\_len [¶](#get_last_with_len) [📋]()
+get\_last\_with\_len
 
 complexity warn
 
@@ -1510,7 +1510,7 @@ complexity warn
 
 Added in: 1.37.0
 
-get\_unwrap [¶](#get_unwrap) [📋]()
+get\_unwrap
 
 restriction allow
 
@@ -1518,7 +1518,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-host\_endian\_bytes [¶](#host_endian_bytes) [📋]()
+host\_endian\_bytes
 
 restriction allow
 
@@ -1526,7 +1526,7 @@ restriction allow
 
 Added in: 1.72.0
 
-identity\_op [¶](#identity_op) [📋]()
+identity\_op
 
 complexity warn
 
@@ -1534,7 +1534,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-if\_let\_mutex [¶](#if_let_mutex) [📋]()
+if\_let\_mutex
 
 correctness deny
 
@@ -1542,7 +1542,7 @@ correctness deny
 
 Added in: 1.45.0
 
-if\_not\_else [¶](#if_not_else) [📋]()
+if\_not\_else
 
 pedantic allow
 
@@ -1550,7 +1550,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-if\_same\_then\_else [¶](#if_same_then_else) [📋]()
+if\_same\_then\_else
 
 style warn
 
@@ -1558,7 +1558,7 @@ style warn
 
 Added in: pre 1.29.0
 
-if\_then\_some\_else\_none [¶](#if_then_some_else_none) [📋]()
+if\_then\_some\_else\_none
 
 restriction allow
 
@@ -1566,7 +1566,7 @@ restriction allow
 
 Added in: 1.53.0
 
-ifs\_same\_cond [¶](#ifs_same_cond) [📋]()
+ifs\_same\_cond
 
 correctness deny
 
@@ -1574,7 +1574,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-ignored\_unit\_patterns [¶](#ignored_unit_patterns) [📋]()
+ignored\_unit\_patterns
 
 pedantic allow
 
@@ -1582,7 +1582,7 @@ pedantic allow
 
 Added in: 1.73.0
 
-impl\_hash\_borrow\_with\_str\_and\_bytes [¶](#impl_hash_borrow_with_str_and_bytes) [📋]()
+impl\_hash\_borrow\_with\_str\_and\_bytes
 
 correctness deny
 
@@ -1590,7 +1590,7 @@ correctness deny
 
 Added in: 1.76.0
 
-impl\_trait\_in\_params [¶](#impl_trait_in_params) [📋]()
+impl\_trait\_in\_params
 
 restriction allow
 
@@ -1598,7 +1598,7 @@ restriction allow
 
 Added in: 1.69.0
 
-implicit\_clone [¶](#implicit_clone) [📋]()
+implicit\_clone
 
 pedantic allow
 
@@ -1606,7 +1606,7 @@ pedantic allow
 
 Added in: 1.52.0
 
-implicit\_hasher [¶](#implicit_hasher) [📋]()
+implicit\_hasher
 
 pedantic allow
 
@@ -1614,7 +1614,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-implicit\_return [¶](#implicit_return) [📋]()
+implicit\_return
 
 restriction allow
 
@@ -1622,7 +1622,7 @@ restriction allow
 
 Added in: 1.33.0
 
-implicit\_saturating\_add [¶](#implicit_saturating_add) [📋]()
+implicit\_saturating\_add
 
 style warn
 
@@ -1630,7 +1630,7 @@ style warn
 
 Added in: 1.66.0
 
-implicit\_saturating\_sub [¶](#implicit_saturating_sub) [📋]()
+implicit\_saturating\_sub
 
 style warn
 
@@ -1638,7 +1638,7 @@ style warn
 
 Added in: 1.44.0
 
-implied\_bounds\_in\_impls [¶](#implied_bounds_in_impls) [📋]()
+implied\_bounds\_in\_impls
 
 complexity warn
 
@@ -1646,7 +1646,7 @@ complexity warn
 
 Added in: 1.74.0
 
-impossible\_comparisons [¶](#impossible_comparisons) [📋]()
+impossible\_comparisons
 
 correctness deny
 
@@ -1654,7 +1654,7 @@ correctness deny
 
 Added in: 1.73.0
 
-imprecise\_flops [¶](#imprecise_flops) [📋]()
+imprecise\_flops
 
 nursery allow
 
@@ -1662,7 +1662,7 @@ nursery allow
 
 Added in: 1.43.0
 
-incompatible\_msrv [¶](#incompatible_msrv) [📋]()
+incompatible\_msrv
 
 suspicious warn
 
@@ -1670,7 +1670,7 @@ suspicious warn
 
 Added in: 1.78.0
 
-inconsistent\_digit\_grouping [¶](#inconsistent_digit_grouping) [📋]()
+inconsistent\_digit\_grouping
 
 style warn
 
@@ -1678,7 +1678,7 @@ style warn
 
 Added in: pre 1.29.0
 
-inconsistent\_struct\_constructor [¶](#inconsistent_struct_constructor) [📋]()
+inconsistent\_struct\_constructor
 
 pedantic allow
 
@@ -1686,7 +1686,7 @@ pedantic allow
 
 Added in: 1.52.0
 
-index\_refutable\_slice [¶](#index_refutable_slice) [📋]()
+index\_refutable\_slice
 
 pedantic allow
 
@@ -1694,7 +1694,7 @@ pedantic allow
 
 Added in: 1.59.0
 
-indexing\_slicing [¶](#indexing_slicing) [📋]()
+indexing\_slicing
 
 restriction allow
 
@@ -1702,7 +1702,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-ineffective\_bit\_mask [¶](#ineffective_bit_mask) [📋]()
+ineffective\_bit\_mask
 
 correctness deny
 
@@ -1710,7 +1710,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-ineffective\_open\_options [¶](#ineffective_open_options) [📋]()
+ineffective\_open\_options
 
 suspicious warn
 
@@ -1718,7 +1718,7 @@ suspicious warn
 
 Added in: 1.76.0
 
-inefficient\_to\_string [¶](#inefficient_to_string) [📋]()
+inefficient\_to\_string
 
 pedantic allow
 
@@ -1726,7 +1726,7 @@ pedantic allow
 
 Added in: 1.40.0
 
-infallible\_destructuring\_match [¶](#infallible_destructuring_match) [📋]()
+infallible\_destructuring\_match
 
 style warn
 
@@ -1734,7 +1734,7 @@ style warn
 
 Added in: pre 1.29.0
 
-infinite\_iter [¶](#infinite_iter) [📋]()
+infinite\_iter
 
 correctness deny
 
@@ -1742,7 +1742,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-infinite\_loop [¶](#infinite_loop) [📋]()
+infinite\_loop
 
 restriction allow
 
@@ -1750,7 +1750,7 @@ restriction allow
 
 Added in: 1.76.0
 
-inherent\_to\_string [¶](#inherent_to_string) [📋]()
+inherent\_to\_string
 
 style warn
 
@@ -1758,7 +1758,7 @@ style warn
 
 Added in: 1.38.0
 
-inherent\_to\_string\_shadow\_display [¶](#inherent_to_string_shadow_display) [📋]()
+inherent\_to\_string\_shadow\_display
 
 correctness deny
 
@@ -1766,7 +1766,7 @@ correctness deny
 
 Added in: 1.38.0
 
-init\_numbered\_fields [¶](#init_numbered_fields) [📋]()
+init\_numbered\_fields
 
 style warn
 
@@ -1774,7 +1774,7 @@ style warn
 
 Added in: 1.59.0
 
-inline\_always [¶](#inline_always) [📋]()
+inline\_always
 
 pedantic allow
 
@@ -1782,7 +1782,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-inline\_asm\_x86\_att\_syntax [¶](#inline_asm_x86_att_syntax) [📋]()
+inline\_asm\_x86\_att\_syntax
 
 restriction allow
 
@@ -1790,7 +1790,7 @@ restriction allow
 
 Added in: 1.49.0
 
-inline\_asm\_x86\_intel\_syntax [¶](#inline_asm_x86_intel_syntax) [📋]()
+inline\_asm\_x86\_intel\_syntax
 
 restriction allow
 
@@ -1798,7 +1798,7 @@ restriction allow
 
 Added in: 1.49.0
 
-inline\_fn\_without\_body [¶](#inline_fn_without_body) [📋]()
+inline\_fn\_without\_body
 
 correctness deny
 
@@ -1806,7 +1806,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-inspect\_for\_each [¶](#inspect_for_each) [📋]()
+inspect\_for\_each
 
 complexity warn
 
@@ -1814,7 +1814,7 @@ complexity warn
 
 Added in: 1.51.0
 
-int\_plus\_one [¶](#int_plus_one) [📋]()
+int\_plus\_one
 
 complexity warn
 
@@ -1822,7 +1822,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-integer\_division [¶](#integer_division) [📋]()
+integer\_division
 
 restriction allow
 
@@ -1830,7 +1830,7 @@ restriction allow
 
 Added in: 1.37.0
 
-integer\_division\_remainder\_used [¶](#integer_division_remainder_used) [📋]()
+integer\_division\_remainder\_used
 
 restriction allow
 
@@ -1838,7 +1838,7 @@ restriction allow
 
 Added in: 1.79.0
 
-into\_iter\_on\_ref [¶](#into_iter_on_ref) [📋]()
+into\_iter\_on\_ref
 
 style warn
 
@@ -1846,7 +1846,7 @@ style warn
 
 Added in: 1.32.0
 
-into\_iter\_without\_iter [¶](#into_iter_without_iter) [📋]()
+into\_iter\_without\_iter
 
 pedantic allow
 
@@ -1854,7 +1854,7 @@ pedantic allow
 
 Added in: 1.75.0
 
-invalid\_null\_ptr\_usage [¶](#invalid_null_ptr_usage) [📋]()
+invalid\_null\_ptr\_usage
 
 correctness deny
 
@@ -1862,7 +1862,7 @@ correctness deny
 
 Added in: 1.53.0
 
-invalid\_regex [¶](#invalid_regex) [📋]()
+invalid\_regex
 
 correctness deny
 
@@ -1870,7 +1870,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-invalid\_upcast\_comparisons [¶](#invalid_upcast_comparisons) [📋]()
+invalid\_upcast\_comparisons
 
 pedantic allow
 
@@ -1878,7 +1878,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-inverted\_saturating\_sub [¶](#inverted_saturating_sub) [📋]()
+inverted\_saturating\_sub
 
 correctness deny
 
@@ -1886,7 +1886,7 @@ correctness deny
 
 Added in: 1.44.0
 
-invisible\_characters [¶](#invisible_characters) [📋]()
+invisible\_characters
 
 correctness deny
 
@@ -1894,7 +1894,7 @@ correctness deny
 
 Added in: 1.49.0
 
-is\_digit\_ascii\_radix [¶](#is_digit_ascii_radix) [📋]()
+is\_digit\_ascii\_radix
 
 style warn
 
@@ -1902,7 +1902,7 @@ style warn
 
 Added in: 1.62.0
 
-items\_after\_statements [¶](#items_after_statements) [📋]()
+items\_after\_statements
 
 pedantic allow
 
@@ -1910,7 +1910,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-items\_after\_test\_module [¶](#items_after_test_module) [📋]()
+items\_after\_test\_module
 
 style warn
 
@@ -1918,7 +1918,7 @@ style warn
 
 Added in: 1.71.0
 
-iter\_cloned\_collect [¶](#iter_cloned_collect) [📋]()
+iter\_cloned\_collect
 
 style warn
 
@@ -1926,7 +1926,7 @@ style warn
 
 Added in: pre 1.29.0
 
-iter\_count [¶](#iter_count) [📋]()
+iter\_count
 
 complexity warn
 
@@ -1934,7 +1934,7 @@ complexity warn
 
 Added in: 1.52.0
 
-iter\_filter\_is\_ok [¶](#iter_filter_is_ok) [📋]()
+iter\_filter\_is\_ok
 
 pedantic allow
 
@@ -1942,7 +1942,7 @@ pedantic allow
 
 Added in: 1.77.0
 
-iter\_filter\_is\_some [¶](#iter_filter_is_some) [📋]()
+iter\_filter\_is\_some
 
 pedantic allow
 
@@ -1950,7 +1950,7 @@ pedantic allow
 
 Added in: 1.77.0
 
-iter\_kv\_map [¶](#iter_kv_map) [📋]()
+iter\_kv\_map
 
 complexity warn
 
@@ -1958,7 +1958,7 @@ complexity warn
 
 Added in: 1.66.0
 
-iter\_next\_loop [¶](#iter_next_loop) [📋]()
+iter\_next\_loop
 
 correctness deny
 
@@ -1966,7 +1966,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-iter\_next\_slice [¶](#iter_next_slice) [📋]()
+iter\_next\_slice
 
 style warn
 
@@ -1974,7 +1974,7 @@ style warn
 
 Added in: 1.46.0
 
-iter\_not\_returning\_iterator [¶](#iter_not_returning_iterator) [📋]()
+iter\_not\_returning\_iterator
 
 pedantic allow
 
@@ -1982,7 +1982,7 @@ pedantic allow
 
 Added in: 1.57.0
 
-iter\_nth [¶](#iter_nth) [📋]()
+iter\_nth
 
 style warn
 
@@ -1990,7 +1990,7 @@ style warn
 
 Added in: pre 1.29.0
 
-iter\_nth\_zero [¶](#iter_nth_zero) [📋]()
+iter\_nth\_zero
 
 style warn
 
@@ -1998,7 +1998,7 @@ style warn
 
 Added in: 1.42.0
 
-iter\_on\_empty\_collections [¶](#iter_on_empty_collections) [📋]()
+iter\_on\_empty\_collections
 
 nursery allow
 
@@ -2006,7 +2006,7 @@ nursery allow
 
 Added in: 1.65.0
 
-iter\_on\_single\_items [¶](#iter_on_single_items) [📋]()
+iter\_on\_single\_items
 
 nursery allow
 
@@ -2014,7 +2014,7 @@ nursery allow
 
 Added in: 1.65.0
 
-iter\_out\_of\_bounds [¶](#iter_out_of_bounds) [📋]()
+iter\_out\_of\_bounds
 
 suspicious warn
 
@@ -2022,7 +2022,7 @@ suspicious warn
 
 Added in: 1.74.0
 
-iter\_over\_hash\_type [¶](#iter_over_hash_type) [📋]()
+iter\_over\_hash\_type
 
 restriction allow
 
@@ -2030,7 +2030,7 @@ restriction allow
 
 Added in: 1.76.0
 
-iter\_overeager\_cloned [¶](#iter_overeager_cloned) [📋]()
+iter\_overeager\_cloned
 
 perf warn
 
@@ -2038,7 +2038,7 @@ perf warn
 
 Added in: 1.60.0
 
-iter\_skip\_next [¶](#iter_skip_next) [📋]()
+iter\_skip\_next
 
 style warn
 
@@ -2046,7 +2046,7 @@ style warn
 
 Added in: pre 1.29.0
 
-iter\_skip\_zero [¶](#iter_skip_zero) [📋]()
+iter\_skip\_zero
 
 correctness deny
 
@@ -2054,7 +2054,7 @@ correctness deny
 
 Added in: 1.73.0
 
-iter\_with\_drain [¶](#iter_with_drain) [📋]()
+iter\_with\_drain
 
 nursery allow
 
@@ -2062,7 +2062,7 @@ nursery allow
 
 Added in: 1.61.0
 
-iter\_without\_into\_iter [¶](#iter_without_into_iter) [📋]()
+iter\_without\_into\_iter
 
 pedantic allow
 
@@ -2070,7 +2070,7 @@ pedantic allow
 
 Added in: 1.75.0
 
-iterator\_step\_by\_zero [¶](#iterator_step_by_zero) [📋]()
+iterator\_step\_by\_zero
 
 correctness deny
 
@@ -2078,7 +2078,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-join\_absolute\_paths [¶](#join_absolute_paths) [📋]()
+join\_absolute\_paths
 
 suspicious warn
 
@@ -2086,7 +2086,7 @@ suspicious warn
 
 Added in: 1.76.0
 
-just\_underscores\_and\_digits [¶](#just_underscores_and_digits) [📋]()
+just\_underscores\_and\_digits
 
 style warn
 
@@ -2094,7 +2094,7 @@ style warn
 
 Added in: pre 1.29.0
 
-large\_const\_arrays [¶](#large_const_arrays) [📋]()
+large\_const\_arrays
 
 perf warn
 
@@ -2102,7 +2102,7 @@ perf warn
 
 Added in: 1.44.0
 
-large\_digit\_groups [¶](#large_digit_groups) [📋]()
+large\_digit\_groups
 
 pedantic allow
 
@@ -2110,7 +2110,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-large\_enum\_variant [¶](#large_enum_variant) [📋]()
+large\_enum\_variant
 
 perf warn
 
@@ -2118,7 +2118,7 @@ perf warn
 
 Added in: pre 1.29.0
 
-large\_futures [¶](#large_futures) [📋]()
+large\_futures
 
 pedantic allow
 
@@ -2126,7 +2126,7 @@ pedantic allow
 
 Added in: 1.70.0
 
-large\_include\_file [¶](#large_include_file) [📋]()
+large\_include\_file
 
 restriction allow
 
@@ -2134,7 +2134,7 @@ restriction allow
 
 Added in: 1.62.0
 
-large\_stack\_arrays [¶](#large_stack_arrays) [📋]()
+large\_stack\_arrays
 
 pedantic allow
 
@@ -2142,7 +2142,7 @@ pedantic allow
 
 Added in: 1.41.0
 
-large\_stack\_frames [¶](#large_stack_frames) [📋]()
+large\_stack\_frames
 
 nursery allow
 
@@ -2150,7 +2150,7 @@ nursery allow
 
 Added in: 1.72.0
 
-large\_types\_passed\_by\_value [¶](#large_types_passed_by_value) [📋]()
+large\_types\_passed\_by\_value
 
 pedantic allow
 
@@ -2158,7 +2158,7 @@ pedantic allow
 
 Added in: 1.49.0
 
-legacy\_numeric\_constants [¶](#legacy_numeric_constants) [📋]()
+legacy\_numeric\_constants
 
 style warn
 
@@ -2166,7 +2166,7 @@ style warn
 
 Added in: 1.79.0
 
-len\_without\_is\_empty [¶](#len_without_is_empty) [📋]()
+len\_without\_is\_empty
 
 style warn
 
@@ -2174,7 +2174,7 @@ style warn
 
 Added in: pre 1.29.0
 
-len\_zero [¶](#len_zero) [📋]()
+len\_zero
 
 style warn
 
@@ -2182,7 +2182,7 @@ style warn
 
 Added in: pre 1.29.0
 
-let\_and\_return [¶](#let_and_return) [📋]()
+let\_and\_return
 
 style warn
 
@@ -2190,7 +2190,7 @@ style warn
 
 Added in: pre 1.29.0
 
-let\_underscore\_future [¶](#let_underscore_future) [📋]()
+let\_underscore\_future
 
 suspicious warn
 
@@ -2198,7 +2198,7 @@ suspicious warn
 
 Added in: 1.67.0
 
-let\_underscore\_lock [¶](#let_underscore_lock) [📋]()
+let\_underscore\_lock
 
 correctness deny
 
@@ -2206,7 +2206,7 @@ correctness deny
 
 Added in: 1.43.0
 
-let\_underscore\_must\_use [¶](#let_underscore_must_use) [📋]()
+let\_underscore\_must\_use
 
 restriction allow
 
@@ -2214,7 +2214,7 @@ restriction allow
 
 Added in: 1.42.0
 
-let\_underscore\_untyped [¶](#let_underscore_untyped) [📋]()
+let\_underscore\_untyped
 
 restriction allow
 
@@ -2222,7 +2222,7 @@ restriction allow
 
 Added in: 1.69.0
 
-let\_unit\_value [¶](#let_unit_value) [📋]()
+let\_unit\_value
 
 style warn
 
@@ -2230,7 +2230,7 @@ style warn
 
 Added in: pre 1.29.0
 
-let\_with\_type\_underscore [¶](#let_with_type_underscore) [📋]()
+let\_with\_type\_underscore
 
 complexity warn
 
@@ -2238,7 +2238,7 @@ complexity warn
 
 Added in: 1.70.0
 
-lines\_filter\_map\_ok [¶](#lines_filter_map_ok) [📋]()
+lines\_filter\_map\_ok
 
 suspicious warn
 
@@ -2246,7 +2246,7 @@ suspicious warn
 
 Added in: 1.70.0
 
-linkedlist [¶](#linkedlist) [📋]()
+linkedlist
 
 pedantic allow
 
@@ -2254,7 +2254,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-lint\_groups\_priority [¶](#lint_groups_priority) [📋]()
+lint\_groups\_priority
 
 correctness deny
 
@@ -2262,7 +2262,7 @@ correctness deny
 
 Added in: 1.78.0
 
-literal\_string\_with\_formatting\_args [¶](#literal_string_with_formatting_args) [📋]()
+literal\_string\_with\_formatting\_args
 
 nursery allow
 
@@ -2270,7 +2270,7 @@ nursery allow
 
 Added in: 1.85.0
 
-little\_endian\_bytes [¶](#little_endian_bytes) [📋]()
+little\_endian\_bytes
 
 restriction allow
 
@@ -2278,7 +2278,7 @@ restriction allow
 
 Added in: 1.72.0
 
-lossy\_float\_literal [¶](#lossy_float_literal) [📋]()
+lossy\_float\_literal
 
 restriction allow
 
@@ -2286,7 +2286,7 @@ restriction allow
 
 Added in: 1.43.0
 
-macro\_metavars\_in\_unsafe [¶](#macro_metavars_in_unsafe) [📋]()
+macro\_metavars\_in\_unsafe
 
 suspicious warn
 
@@ -2294,7 +2294,7 @@ suspicious warn
 
 Added in: 1.80.0
 
-macro\_use\_imports [¶](#macro_use_imports) [📋]()
+macro\_use\_imports
 
 pedantic allow
 
@@ -2302,7 +2302,7 @@ pedantic allow
 
 Added in: 1.44.0
 
-main\_recursion [¶](#main_recursion) [📋]()
+main\_recursion
 
 style warn
 
@@ -2310,7 +2310,7 @@ style warn
 
 Added in: 1.38.0
 
-manual\_assert [¶](#manual_assert) [📋]()
+manual\_assert
 
 pedantic allow
 
@@ -2318,7 +2318,7 @@ pedantic allow
 
 Added in: 1.57.0
 
-manual\_async\_fn [¶](#manual_async_fn) [📋]()
+manual\_async\_fn
 
 style warn
 
@@ -2326,7 +2326,7 @@ style warn
 
 Added in: 1.45.0
 
-manual\_bits [¶](#manual_bits) [📋]()
+manual\_bits
 
 style warn
 
@@ -2334,7 +2334,7 @@ style warn
 
 Added in: 1.60.0
 
-manual\_c\_str\_literals [¶](#manual_c_str_literals) [📋]()
+manual\_c\_str\_literals
 
 complexity warn
 
@@ -2342,7 +2342,7 @@ complexity warn
 
 Added in: 1.78.0
 
-manual\_clamp [¶](#manual_clamp) [📋]()
+manual\_clamp
 
 complexity warn
 
@@ -2350,7 +2350,7 @@ complexity warn
 
 Added in: 1.66.0
 
-manual\_div\_ceil [¶](#manual_div_ceil) [📋]()
+manual\_div\_ceil
 
 complexity warn
 
@@ -2358,7 +2358,7 @@ complexity warn
 
 Added in: 1.83.0
 
-manual\_filter [¶](#manual_filter) [📋]()
+manual\_filter
 
 complexity warn
 
@@ -2366,7 +2366,7 @@ complexity warn
 
 Added in: 1.66.0
 
-manual\_filter\_map [¶](#manual_filter_map) [📋]()
+manual\_filter\_map
 
 complexity warn
 
@@ -2374,7 +2374,7 @@ complexity warn
 
 Added in: 1.51.0
 
-manual\_find [¶](#manual_find) [📋]()
+manual\_find
 
 complexity warn
 
@@ -2382,7 +2382,7 @@ complexity warn
 
 Added in: 1.64.0
 
-manual\_find\_map [¶](#manual_find_map) [📋]()
+manual\_find\_map
 
 complexity warn
 
@@ -2390,7 +2390,7 @@ complexity warn
 
 Added in: 1.51.0
 
-manual\_flatten [¶](#manual_flatten) [📋]()
+manual\_flatten
 
 complexity warn
 
@@ -2398,7 +2398,7 @@ complexity warn
 
 Added in: 1.52.0
 
-manual\_hash\_one [¶](#manual_hash_one) [📋]()
+manual\_hash\_one
 
 complexity warn
 
@@ -2406,7 +2406,7 @@ complexity warn
 
 Added in: 1.75.0
 
-manual\_ignore\_case\_cmp [¶](#manual_ignore_case_cmp) [📋]()
+manual\_ignore\_case\_cmp
 
 perf warn
 
@@ -2414,7 +2414,7 @@ perf warn
 
 Added in: 1.84.0
 
-manual\_inspect [¶](#manual_inspect) [📋]()
+manual\_inspect
 
 complexity warn
 
@@ -2422,7 +2422,7 @@ complexity warn
 
 Added in: 1.81.0
 
-manual\_instant\_elapsed [¶](#manual_instant_elapsed) [📋]()
+manual\_instant\_elapsed
 
 pedantic allow
 
@@ -2430,7 +2430,7 @@ pedantic allow
 
 Added in: 1.65.0
 
-manual\_is\_ascii\_check [¶](#manual_is_ascii_check) [📋]()
+manual\_is\_ascii\_check
 
 style warn
 
@@ -2438,7 +2438,7 @@ style warn
 
 Added in: 1.67.0
 
-manual\_is\_finite [¶](#manual_is_finite) [📋]()
+manual\_is\_finite
 
 style warn
 
@@ -2446,7 +2446,7 @@ style warn
 
 Added in: 1.73.0
 
-manual\_is\_infinite [¶](#manual_is_infinite) [📋]()
+manual\_is\_infinite
 
 style warn
 
@@ -2454,7 +2454,7 @@ style warn
 
 Added in: 1.73.0
 
-manual\_is\_power\_of\_two [¶](#manual_is_power_of_two) [📋]()
+manual\_is\_power\_of\_two
 
 pedantic allow
 
@@ -2462,7 +2462,7 @@ pedantic allow
 
 Added in: 1.83.0
 
-manual\_is\_variant\_and [¶](#manual_is_variant_and) [📋]()
+manual\_is\_variant\_and
 
 pedantic allow
 
@@ -2470,7 +2470,7 @@ pedantic allow
 
 Added in: 1.77.0
 
-manual\_let\_else [¶](#manual_let_else) [📋]()
+manual\_let\_else
 
 pedantic allow
 
@@ -2478,7 +2478,7 @@ pedantic allow
 
 Added in: 1.67.0
 
-manual\_main\_separator\_str [¶](#manual_main_separator_str) [📋]()
+manual\_main\_separator\_str
 
 complexity warn
 
@@ -2486,7 +2486,7 @@ complexity warn
 
 Added in: 1.70.0
 
-manual\_map [¶](#manual_map) [📋]()
+manual\_map
 
 style warn
 
@@ -2494,7 +2494,7 @@ style warn
 
 Added in: 1.52.0
 
-manual\_memcpy [¶](#manual_memcpy) [📋]()
+manual\_memcpy
 
 perf warn
 
@@ -2502,7 +2502,7 @@ perf warn
 
 Added in: pre 1.29.0
 
-manual\_next\_back [¶](#manual_next_back) [📋]()
+manual\_next\_back
 
 style warn
 
@@ -2510,7 +2510,7 @@ style warn
 
 Added in: 1.71.0
 
-manual\_non\_exhaustive [¶](#manual_non_exhaustive) [📋]()
+manual\_non\_exhaustive
 
 style warn
 
@@ -2518,7 +2518,7 @@ style warn
 
 Added in: 1.45.0
 
-manual\_ok\_err [¶](#manual_ok_err) [📋]()
+manual\_ok\_err
 
 complexity warn
 
@@ -2526,7 +2526,7 @@ complexity warn
 
 Added in: 1.86.0
 
-manual\_ok\_or [¶](#manual_ok_or) [📋]()
+manual\_ok\_or
 
 pedantic allow
 
@@ -2534,7 +2534,7 @@ pedantic allow
 
 Added in: 1.49.0
 
-manual\_option\_as\_slice [¶](#manual_option_as_slice) [📋]()
+manual\_option\_as\_slice
 
 complexity warn
 
@@ -2542,7 +2542,7 @@ complexity warn
 
 Added in: 1.85.0
 
-manual\_pattern\_char\_comparison [¶](#manual_pattern_char_comparison) [📋]()
+manual\_pattern\_char\_comparison
 
 style warn
 
@@ -2550,7 +2550,7 @@ style warn
 
 Added in: 1.81.0
 
-manual\_range\_contains [¶](#manual_range_contains) [📋]()
+manual\_range\_contains
 
 style warn
 
@@ -2558,7 +2558,7 @@ style warn
 
 Added in: 1.49.0
 
-manual\_range\_patterns [¶](#manual_range_patterns) [📋]()
+manual\_range\_patterns
 
 complexity warn
 
@@ -2566,7 +2566,7 @@ complexity warn
 
 Added in: 1.72.0
 
-manual\_rem\_euclid [¶](#manual_rem_euclid) [📋]()
+manual\_rem\_euclid
 
 complexity warn
 
@@ -2574,7 +2574,7 @@ complexity warn
 
 Added in: 1.64.0
 
-manual\_repeat\_n [¶](#manual_repeat_n) [📋]()
+manual\_repeat\_n
 
 style warn
 
@@ -2582,7 +2582,7 @@ style warn
 
 Added in: 1.86.0
 
-manual\_retain [¶](#manual_retain) [📋]()
+manual\_retain
 
 perf warn
 
@@ -2590,7 +2590,7 @@ perf warn
 
 Added in: 1.64.0
 
-manual\_rotate [¶](#manual_rotate) [📋]()
+manual\_rotate
 
 style warn
 
@@ -2598,7 +2598,7 @@ style warn
 
 Added in: 1.81.0
 
-manual\_saturating\_arithmetic [¶](#manual_saturating_arithmetic) [📋]()
+manual\_saturating\_arithmetic
 
 style warn
 
@@ -2606,7 +2606,7 @@ style warn
 
 Added in: 1.39.0
 
-manual\_slice\_fill [¶](#manual_slice_fill) [📋]()
+manual\_slice\_fill
 
 style warn
 
@@ -2614,7 +2614,7 @@ style warn
 
 Added in: 1.86.0
 
-manual\_slice\_size\_calculation [¶](#manual_slice_size_calculation) [📋]()
+manual\_slice\_size\_calculation
 
 complexity warn
 
@@ -2622,7 +2622,7 @@ complexity warn
 
 Added in: 1.70.0
 
-manual\_split\_once [¶](#manual_split_once) [📋]()
+manual\_split\_once
 
 complexity warn
 
@@ -2630,7 +2630,7 @@ complexity warn
 
 Added in: 1.57.0
 
-manual\_str\_repeat [¶](#manual_str_repeat) [📋]()
+manual\_str\_repeat
 
 perf warn
 
@@ -2638,7 +2638,7 @@ perf warn
 
 Added in: 1.54.0
 
-manual\_string\_new [¶](#manual_string_new) [📋]()
+manual\_string\_new
 
 pedantic allow
 
@@ -2646,7 +2646,7 @@ pedantic allow
 
 Added in: 1.65.0
 
-manual\_strip [¶](#manual_strip) [📋]()
+manual\_strip
 
 complexity warn
 
@@ -2654,7 +2654,7 @@ complexity warn
 
 Added in: 1.48.0
 
-manual\_swap [¶](#manual_swap) [📋]()
+manual\_swap
 
 complexity warn
 
@@ -2662,7 +2662,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-manual\_try\_fold [¶](#manual_try_fold) [📋]()
+manual\_try\_fold
 
 perf warn
 
@@ -2670,7 +2670,7 @@ perf warn
 
 Added in: 1.72.0
 
-manual\_unwrap\_or [¶](#manual_unwrap_or) [📋]()
+manual\_unwrap\_or
 
 complexity warn
 
@@ -2678,7 +2678,7 @@ complexity warn
 
 Added in: 1.49.0
 
-manual\_unwrap\_or\_default [¶](#manual_unwrap_or_default) [📋]()
+manual\_unwrap\_or\_default
 
 suspicious warn
 
@@ -2686,7 +2686,7 @@ suspicious warn
 
 Added in: 1.79.0
 
-manual\_while\_let\_some [¶](#manual_while_let_some) [📋]()
+manual\_while\_let\_some
 
 style warn
 
@@ -2694,7 +2694,7 @@ style warn
 
 Added in: 1.71.0
 
-many\_single\_char\_names [¶](#many_single_char_names) [📋]()
+many\_single\_char\_names
 
 pedantic allow
 
@@ -2702,7 +2702,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-map\_all\_any\_identity [¶](#map_all_any_identity) [📋]()
+map\_all\_any\_identity
 
 complexity warn
 
@@ -2710,7 +2710,7 @@ complexity warn
 
 Added in: 1.84.0
 
-map\_clone [¶](#map_clone) [📋]()
+map\_clone
 
 style warn
 
@@ -2718,7 +2718,7 @@ style warn
 
 Added in: pre 1.29.0
 
-map\_collect\_result\_unit [¶](#map_collect_result_unit) [📋]()
+map\_collect\_result\_unit
 
 style warn
 
@@ -2726,7 +2726,7 @@ style warn
 
 Added in: 1.49.0
 
-map\_entry [¶](#map_entry) [📋]()
+map\_entry
 
 perf warn
 
@@ -2734,7 +2734,7 @@ perf warn
 
 Added in: pre 1.29.0
 
-map\_err\_ignore [¶](#map_err_ignore) [📋]()
+map\_err\_ignore
 
 restriction allow
 
@@ -2742,7 +2742,7 @@ restriction allow
 
 Added in: 1.48.0
 
-map\_flatten [¶](#map_flatten) [📋]()
+map\_flatten
 
 complexity warn
 
@@ -2750,7 +2750,7 @@ complexity warn
 
 Added in: 1.31.0
 
-map\_identity [¶](#map_identity) [📋]()
+map\_identity
 
 complexity warn
 
@@ -2758,7 +2758,7 @@ complexity warn
 
 Added in: 1.47.0
 
-map\_unwrap\_or [¶](#map_unwrap_or) [📋]()
+map\_unwrap\_or
 
 pedantic allow
 
@@ -2766,7 +2766,7 @@ pedantic allow
 
 Added in: 1.45.0
 
-map\_with\_unused\_argument\_over\_ranges [¶](#map_with_unused_argument_over_ranges) [📋]()
+map\_with\_unused\_argument\_over\_ranges
 
 restriction allow
 
@@ -2774,7 +2774,7 @@ restriction allow
 
 Added in: 1.84.0
 
-match\_as\_ref [¶](#match_as_ref) [📋]()
+match\_as\_ref
 
 complexity warn
 
@@ -2782,7 +2782,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-match\_bool [¶](#match_bool) [📋]()
+match\_bool
 
 pedantic allow
 
@@ -2790,7 +2790,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-match\_like\_matches\_macro [¶](#match_like_matches_macro) [📋]()
+match\_like\_matches\_macro
 
 style warn
 
@@ -2798,7 +2798,7 @@ style warn
 
 Added in: 1.47.0
 
-match\_on\_vec\_items [¶](#match_on_vec_items) [📋]()
+match\_on\_vec\_items
 
 pedantic allow
 
@@ -2806,7 +2806,7 @@ pedantic allow
 
 Added in: 1.45.0
 
-match\_overlapping\_arm [¶](#match_overlapping_arm) [📋]()
+match\_overlapping\_arm
 
 style warn
 
@@ -2814,7 +2814,7 @@ style warn
 
 Added in: pre 1.29.0
 
-match\_ref\_pats [¶](#match_ref_pats) [📋]()
+match\_ref\_pats
 
 style warn
 
@@ -2822,7 +2822,7 @@ style warn
 
 Added in: pre 1.29.0
 
-match\_result\_ok [¶](#match_result_ok) [📋]()
+match\_result\_ok
 
 style warn
 
@@ -2830,7 +2830,7 @@ style warn
 
 Added in: 1.57.0
 
-match\_same\_arms [¶](#match_same_arms) [📋]()
+match\_same\_arms
 
 pedantic allow
 
@@ -2838,7 +2838,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-match\_single\_binding [¶](#match_single_binding) [📋]()
+match\_single\_binding
 
 complexity warn
 
@@ -2846,7 +2846,7 @@ complexity warn
 
 Added in: 1.43.0
 
-match\_str\_case\_mismatch [¶](#match_str_case_mismatch) [📋]()
+match\_str\_case\_mismatch
 
 correctness deny
 
@@ -2854,7 +2854,7 @@ correctness deny
 
 Added in: 1.58.0
 
-match\_wild\_err\_arm [¶](#match_wild_err_arm) [📋]()
+match\_wild\_err\_arm
 
 pedantic allow
 
@@ -2862,7 +2862,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-match\_wildcard\_for\_single\_variants [¶](#match_wildcard_for_single_variants) [📋]()
+match\_wildcard\_for\_single\_variants
 
 pedantic allow
 
@@ -2870,7 +2870,7 @@ pedantic allow
 
 Added in: 1.45.0
 
-maybe\_infinite\_iter [¶](#maybe_infinite_iter) [📋]()
+maybe\_infinite\_iter
 
 pedantic allow
 
@@ -2878,7 +2878,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-mem\_forget [¶](#mem_forget) [📋]()
+mem\_forget
 
 restriction allow
 
@@ -2886,7 +2886,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-mem\_replace\_option\_with\_none [¶](#mem_replace_option_with_none) [📋]()
+mem\_replace\_option\_with\_none
 
 style warn
 
@@ -2894,7 +2894,7 @@ style warn
 
 Added in: 1.31.0
 
-mem\_replace\_with\_default [¶](#mem_replace_with_default) [📋]()
+mem\_replace\_with\_default
 
 style warn
 
@@ -2902,7 +2902,7 @@ style warn
 
 Added in: 1.42.0
 
-mem\_replace\_with\_uninit [¶](#mem_replace_with_uninit) [📋]()
+mem\_replace\_with\_uninit
 
 correctness deny
 
@@ -2910,7 +2910,7 @@ correctness deny
 
 Added in: 1.39.0
 
-min\_ident\_chars [¶](#min_ident_chars) [📋]()
+min\_ident\_chars
 
 restriction allow
 
@@ -2918,7 +2918,7 @@ restriction allow
 
 Added in: 1.72.0
 
-min\_max [¶](#min_max) [📋]()
+min\_max
 
 correctness deny
 
@@ -2926,7 +2926,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-misaligned\_transmute [¶](#misaligned_transmute) [📋]()
+misaligned\_transmute
 
 deprecated none
 
@@ -2934,7 +2934,7 @@ deprecated none
 
 Deprecated in: pre 1.29.0
 
-mismatching\_type\_param\_order [¶](#mismatching_type_param_order) [📋]()
+mismatching\_type\_param\_order
 
 pedantic allow
 
@@ -2942,7 +2942,7 @@ pedantic allow
 
 Added in: 1.63.0
 
-misnamed\_getters [¶](#misnamed_getters) [📋]()
+misnamed\_getters
 
 suspicious warn
 
@@ -2950,7 +2950,7 @@ suspicious warn
 
 Added in: 1.67.0
 
-misrefactored\_assign\_op [¶](#misrefactored_assign_op) [📋]()
+misrefactored\_assign\_op
 
 suspicious warn
 
@@ -2958,7 +2958,7 @@ suspicious warn
 
 Added in: pre 1.29.0
 
-missing\_assert\_message [¶](#missing_assert_message) [📋]()
+missing\_assert\_message
 
 restriction allow
 
@@ -2966,7 +2966,7 @@ restriction allow
 
 Added in: 1.70.0
 
-missing\_asserts\_for\_indexing [¶](#missing_asserts_for_indexing) [📋]()
+missing\_asserts\_for\_indexing
 
 restriction allow
 
@@ -2974,7 +2974,7 @@ restriction allow
 
 Added in: 1.74.0
 
-missing\_const\_for\_fn [¶](#missing_const_for_fn) [📋]()
+missing\_const\_for\_fn
 
 nursery allow
 
@@ -2982,7 +2982,7 @@ nursery allow
 
 Added in: 1.34.0
 
-missing\_const\_for\_thread\_local [¶](#missing_const_for_thread_local) [📋]()
+missing\_const\_for\_thread\_local
 
 perf warn
 
@@ -2990,7 +2990,7 @@ perf warn
 
 Added in: 1.77.0
 
-missing\_docs\_in\_private\_items [¶](#missing_docs_in_private_items) [📋]()
+missing\_docs\_in\_private\_items
 
 restriction allow
 
@@ -2998,7 +2998,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-missing\_enforced\_import\_renames [¶](#missing_enforced_import_renames) [📋]()
+missing\_enforced\_import\_renames
 
 style warn
 
@@ -3006,7 +3006,7 @@ style warn
 
 Added in: 1.55.0
 
-missing\_errors\_doc [¶](#missing_errors_doc) [📋]()
+missing\_errors\_doc
 
 pedantic allow
 
@@ -3014,7 +3014,7 @@ pedantic allow
 
 Added in: 1.41.0
 
-missing\_fields\_in\_debug [¶](#missing_fields_in_debug) [📋]()
+missing\_fields\_in\_debug
 
 pedantic allow
 
@@ -3022,7 +3022,7 @@ pedantic allow
 
 Added in: 1.70.0
 
-missing\_inline\_in\_public\_items [¶](#missing_inline_in_public_items) [📋]()
+missing\_inline\_in\_public\_items
 
 restriction allow
 
@@ -3030,7 +3030,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-missing\_panics\_doc [¶](#missing_panics_doc) [📋]()
+missing\_panics\_doc
 
 pedantic allow
 
@@ -3038,7 +3038,7 @@ pedantic allow
 
 Added in: 1.51.0
 
-missing\_safety\_doc [¶](#missing_safety_doc) [📋]()
+missing\_safety\_doc
 
 style warn
 
@@ -3046,7 +3046,7 @@ style warn
 
 Added in: 1.39.0
 
-missing\_spin\_loop [¶](#missing_spin_loop) [📋]()
+missing\_spin\_loop
 
 perf warn
 
@@ -3054,7 +3054,7 @@ perf warn
 
 Added in: 1.61.0
 
-missing\_trait\_methods [¶](#missing_trait_methods) [📋]()
+missing\_trait\_methods
 
 restriction allow
 
@@ -3062,7 +3062,7 @@ restriction allow
 
 Added in: 1.66.0
 
-missing\_transmute\_annotations [¶](#missing_transmute_annotations) [📋]()
+missing\_transmute\_annotations
 
 suspicious warn
 
@@ -3070,7 +3070,7 @@ suspicious warn
 
 Added in: 1.79.0
 
-mistyped\_literal\_suffixes [¶](#mistyped_literal_suffixes) [📋]()
+mistyped\_literal\_suffixes
 
 correctness deny
 
@@ -3078,7 +3078,7 @@ correctness deny
 
 Added in: 1.30.0
 
-mixed\_attributes\_style [¶](#mixed_attributes_style) [📋]()
+mixed\_attributes\_style
 
 style warn
 
@@ -3086,7 +3086,7 @@ style warn
 
 Added in: 1.78.0
 
-mixed\_case\_hex\_literals [¶](#mixed_case_hex_literals) [📋]()
+mixed\_case\_hex\_literals
 
 style warn
 
@@ -3094,7 +3094,7 @@ style warn
 
 Added in: pre 1.29.0
 
-mixed\_read\_write\_in\_expression [¶](#mixed_read_write_in_expression) [📋]()
+mixed\_read\_write\_in\_expression
 
 restriction allow
 
@@ -3102,7 +3102,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-mod\_module\_files [¶](#mod_module_files) [📋]()
+mod\_module\_files
 
 restriction allow
 
@@ -3110,7 +3110,7 @@ restriction allow
 
 Added in: 1.57.0
 
-module\_inception [¶](#module_inception) [📋]()
+module\_inception
 
 style warn
 
@@ -3118,7 +3118,7 @@ style warn
 
 Added in: pre 1.29.0
 
-module\_name\_repetitions [¶](#module_name_repetitions) [📋]()
+module\_name\_repetitions
 
 restriction allow
 
@@ -3126,7 +3126,7 @@ restriction allow
 
 Added in: 1.33.0
 
-modulo\_arithmetic [¶](#modulo_arithmetic) [📋]()
+modulo\_arithmetic
 
 restriction allow
 
@@ -3134,7 +3134,7 @@ restriction allow
 
 Added in: 1.42.0
 
-modulo\_one [¶](#modulo_one) [📋]()
+modulo\_one
 
 correctness deny
 
@@ -3142,7 +3142,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-multi\_assignments [¶](#multi_assignments) [📋]()
+multi\_assignments
 
 suspicious warn
 
@@ -3150,7 +3150,7 @@ suspicious warn
 
 Added in: 1.65.0
 
-multiple\_bound\_locations [¶](#multiple_bound_locations) [📋]()
+multiple\_bound\_locations
 
 suspicious warn
 
@@ -3158,7 +3158,7 @@ suspicious warn
 
 Added in: 1.78.0
 
-multiple\_crate\_versions [¶](#multiple_crate_versions) [📋]()
+multiple\_crate\_versions
 
 cargo allow
 
@@ -3166,7 +3166,7 @@ cargo allow
 
 Added in: pre 1.29.0
 
-multiple\_inherent\_impl [¶](#multiple_inherent_impl) [📋]()
+multiple\_inherent\_impl
 
 restriction allow
 
@@ -3174,7 +3174,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-multiple\_unsafe\_ops\_per\_block [¶](#multiple_unsafe_ops_per_block) [📋]()
+multiple\_unsafe\_ops\_per\_block
 
 restriction allow
 
@@ -3182,7 +3182,7 @@ restriction allow
 
 Added in: 1.69.0
 
-must\_use\_candidate [¶](#must_use_candidate) [📋]()
+must\_use\_candidate
 
 pedantic allow
 
@@ -3190,7 +3190,7 @@ pedantic allow
 
 Added in: 1.40.0
 
-must\_use\_unit [¶](#must_use_unit) [📋]()
+must\_use\_unit
 
 style warn
 
@@ -3198,7 +3198,7 @@ style warn
 
 Added in: 1.40.0
 
-mut\_from\_ref [¶](#mut_from_ref) [📋]()
+mut\_from\_ref
 
 correctness deny
 
@@ -3206,7 +3206,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-mut\_mut [¶](#mut_mut) [📋]()
+mut\_mut
 
 pedantic allow
 
@@ -3214,7 +3214,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-mut\_mutex\_lock [¶](#mut_mutex_lock) [📋]()
+mut\_mutex\_lock
 
 style warn
 
@@ -3222,7 +3222,7 @@ style warn
 
 Added in: 1.49.0
 
-mut\_range\_bound [¶](#mut_range_bound) [📋]()
+mut\_range\_bound
 
 suspicious warn
 
@@ -3230,7 +3230,7 @@ suspicious warn
 
 Added in: pre 1.29.0
 
-mutable\_key\_type [¶](#mutable_key_type) [📋]()
+mutable\_key\_type
 
 suspicious warn
 
@@ -3238,7 +3238,7 @@ suspicious warn
 
 Added in: 1.42.0
 
-mutex\_atomic [¶](#mutex_atomic) [📋]()
+mutex\_atomic
 
 restriction allow
 
@@ -3246,7 +3246,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-mutex\_integer [¶](#mutex_integer) [📋]()
+mutex\_integer
 
 restriction allow
 
@@ -3254,7 +3254,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-naive\_bytecount [¶](#naive_bytecount) [📋]()
+naive\_bytecount
 
 pedantic allow
 
@@ -3262,7 +3262,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-needless\_arbitrary\_self\_type [¶](#needless_arbitrary_self_type) [📋]()
+needless\_arbitrary\_self\_type
 
 complexity warn
 
@@ -3270,7 +3270,7 @@ complexity warn
 
 Added in: 1.47.0
 
-needless\_as\_bytes [¶](#needless_as_bytes) [📋]()
+needless\_as\_bytes
 
 complexity warn
 
@@ -3278,7 +3278,7 @@ complexity warn
 
 Added in: 1.84.0
 
-needless\_bitwise\_bool [¶](#needless_bitwise_bool) [📋]()
+needless\_bitwise\_bool
 
 pedantic allow
 
@@ -3286,7 +3286,7 @@ pedantic allow
 
 Added in: 1.54.0
 
-needless\_bool [¶](#needless_bool) [📋]()
+needless\_bool
 
 complexity warn
 
@@ -3294,7 +3294,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-needless\_bool\_assign [¶](#needless_bool_assign) [📋]()
+needless\_bool\_assign
 
 complexity warn
 
@@ -3302,7 +3302,7 @@ complexity warn
 
 Added in: 1.71.0
 
-needless\_borrow [¶](#needless_borrow) [📋]()
+needless\_borrow
 
 style warn
 
@@ -3310,7 +3310,7 @@ style warn
 
 Added in: pre 1.29.0
 
-needless\_borrowed\_reference [¶](#needless_borrowed_reference) [📋]()
+needless\_borrowed\_reference
 
 complexity warn
 
@@ -3318,7 +3318,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-needless\_borrows\_for\_generic\_args [¶](#needless_borrows_for_generic_args) [📋]()
+needless\_borrows\_for\_generic\_args
 
 style warn
 
@@ -3326,7 +3326,7 @@ style warn
 
 Added in: 1.74.0
 
-needless\_character\_iteration [¶](#needless_character_iteration) [📋]()
+needless\_character\_iteration
 
 suspicious warn
 
@@ -3334,7 +3334,7 @@ suspicious warn
 
 Added in: 1.81.0
 
-needless\_collect [¶](#needless_collect) [📋]()
+needless\_collect
 
 nursery allow
 
@@ -3342,7 +3342,7 @@ nursery allow
 
 Added in: 1.30.0
 
-needless\_continue [¶](#needless_continue) [📋]()
+needless\_continue
 
 pedantic allow
 
@@ -3350,7 +3350,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-needless\_doctest\_main [¶](#needless_doctest_main) [📋]()
+needless\_doctest\_main
 
 style warn
 
@@ -3358,7 +3358,7 @@ style warn
 
 Added in: 1.40.0
 
-needless\_else [¶](#needless_else) [📋]()
+needless\_else
 
 style warn
 
@@ -3366,7 +3366,7 @@ style warn
 
 Added in: 1.72.0
 
-needless\_for\_each [¶](#needless_for_each) [📋]()
+needless\_for\_each
 
 pedantic allow
 
@@ -3374,7 +3374,7 @@ pedantic allow
 
 Added in: 1.53.0
 
-needless\_if [¶](#needless_if) [📋]()
+needless\_if
 
 complexity warn
 
@@ -3382,7 +3382,7 @@ complexity warn
 
 Added in: 1.72.0
 
-needless\_late\_init [¶](#needless_late_init) [📋]()
+needless\_late\_init
 
 style warn
 
@@ -3390,7 +3390,7 @@ style warn
 
 Added in: 1.59.0
 
-needless\_lifetimes [¶](#needless_lifetimes) [📋]()
+needless\_lifetimes
 
 complexity warn
 
@@ -3398,7 +3398,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-needless\_match [¶](#needless_match) [📋]()
+needless\_match
 
 complexity warn
 
@@ -3406,7 +3406,7 @@ complexity warn
 
 Added in: 1.61.0
 
-needless\_maybe\_sized [¶](#needless_maybe_sized) [📋]()
+needless\_maybe\_sized
 
 suspicious warn
 
@@ -3414,7 +3414,7 @@ suspicious warn
 
 Added in: 1.81.0
 
-needless\_option\_as\_deref [¶](#needless_option_as_deref) [📋]()
+needless\_option\_as\_deref
 
 complexity warn
 
@@ -3422,7 +3422,7 @@ complexity warn
 
 Added in: 1.57.0
 
-needless\_option\_take [¶](#needless_option_take) [📋]()
+needless\_option\_take
 
 complexity warn
 
@@ -3430,7 +3430,7 @@ complexity warn
 
 Added in: 1.62.0
 
-needless\_parens\_on\_range\_literals [¶](#needless_parens_on_range_literals) [📋]()
+needless\_parens\_on\_range\_literals
 
 style warn
 
@@ -3438,7 +3438,7 @@ style warn
 
 Added in: 1.63.0
 
-needless\_pass\_by\_ref\_mut [¶](#needless_pass_by_ref_mut) [📋]()
+needless\_pass\_by\_ref\_mut
 
 nursery allow
 
@@ -3446,7 +3446,7 @@ nursery allow
 
 Added in: 1.73.0
 
-needless\_pass\_by\_value [¶](#needless_pass_by_value) [📋]()
+needless\_pass\_by\_value
 
 pedantic allow
 
@@ -3454,7 +3454,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-needless\_pub\_self [¶](#needless_pub_self) [📋]()
+needless\_pub\_self
 
 style warn
 
@@ -3462,7 +3462,7 @@ style warn
 
 Added in: 1.72.0
 
-needless\_question\_mark [¶](#needless_question_mark) [📋]()
+needless\_question\_mark
 
 complexity warn
 
@@ -3470,7 +3470,7 @@ complexity warn
 
 Added in: 1.51.0
 
-needless\_range\_loop [¶](#needless_range_loop) [📋]()
+needless\_range\_loop
 
 style warn
 
@@ -3478,7 +3478,7 @@ style warn
 
 Added in: pre 1.29.0
 
-needless\_raw\_string\_hashes [¶](#needless_raw_string_hashes) [📋]()
+needless\_raw\_string\_hashes
 
 pedantic allow
 
@@ -3486,7 +3486,7 @@ pedantic allow
 
 Added in: 1.72.0
 
-needless\_raw\_strings [¶](#needless_raw_strings) [📋]()
+needless\_raw\_strings
 
 restriction allow
 
@@ -3494,7 +3494,7 @@ restriction allow
 
 Added in: 1.72.0
 
-needless\_return [¶](#needless_return) [📋]()
+needless\_return
 
 style warn
 
@@ -3502,7 +3502,7 @@ style warn
 
 Added in: pre 1.29.0
 
-needless\_return\_with\_question\_mark [¶](#needless_return_with_question_mark) [📋]()
+needless\_return\_with\_question\_mark
 
 style warn
 
@@ -3510,7 +3510,7 @@ style warn
 
 Added in: 1.73.0
 
-needless\_splitn [¶](#needless_splitn) [📋]()
+needless\_splitn
 
 complexity warn
 
@@ -3518,7 +3518,7 @@ complexity warn
 
 Added in: 1.59.0
 
-needless\_update [¶](#needless_update) [📋]()
+needless\_update
 
 complexity warn
 
@@ -3526,7 +3526,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-neg\_cmp\_op\_on\_partial\_ord [¶](#neg_cmp_op_on_partial_ord) [📋]()
+neg\_cmp\_op\_on\_partial\_ord
 
 complexity warn
 
@@ -3534,7 +3534,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-neg\_multiply [¶](#neg_multiply) [📋]()
+neg\_multiply
 
 style warn
 
@@ -3542,7 +3542,7 @@ style warn
 
 Added in: pre 1.29.0
 
-negative\_feature\_names [¶](#negative_feature_names) [📋]()
+negative\_feature\_names
 
 cargo allow
 
@@ -3550,7 +3550,7 @@ cargo allow
 
 Added in: 1.57.0
 
-never\_loop [¶](#never_loop) [📋]()
+never\_loop
 
 correctness deny
 
@@ -3558,7 +3558,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-new\_ret\_no\_self [¶](#new_ret_no_self) [📋]()
+new\_ret\_no\_self
 
 style warn
 
@@ -3566,7 +3566,7 @@ style warn
 
 Added in: pre 1.29.0
 
-new\_without\_default [¶](#new_without_default) [📋]()
+new\_without\_default
 
 style warn
 
@@ -3574,7 +3574,7 @@ style warn
 
 Added in: pre 1.29.0
 
-no\_effect [¶](#no_effect) [📋]()
+no\_effect
 
 complexity warn
 
@@ -3582,7 +3582,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-no\_effect\_replace [¶](#no_effect_replace) [📋]()
+no\_effect\_replace
 
 suspicious warn
 
@@ -3590,7 +3590,7 @@ suspicious warn
 
 Added in: 1.63.0
 
-no\_effect\_underscore\_binding [¶](#no_effect_underscore_binding) [📋]()
+no\_effect\_underscore\_binding
 
 pedantic allow
 
@@ -3598,7 +3598,7 @@ pedantic allow
 
 Added in: 1.58.0
 
-no\_mangle\_with\_rust\_abi [¶](#no_mangle_with_rust_abi) [📋]()
+no\_mangle\_with\_rust\_abi
 
 pedantic allow
 
@@ -3606,7 +3606,7 @@ pedantic allow
 
 Added in: 1.69.0
 
-non\_ascii\_literal [¶](#non_ascii_literal) [📋]()
+non\_ascii\_literal
 
 restriction allow
 
@@ -3614,7 +3614,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-non\_canonical\_clone\_impl [¶](#non_canonical_clone_impl) [📋]()
+non\_canonical\_clone\_impl
 
 suspicious warn
 
@@ -3622,7 +3622,7 @@ suspicious warn
 
 Added in: 1.72.0
 
-non\_canonical\_partial\_ord\_impl [¶](#non_canonical_partial_ord_impl) [📋]()
+non\_canonical\_partial\_ord\_impl
 
 suspicious warn
 
@@ -3630,7 +3630,7 @@ suspicious warn
 
 Added in: 1.73.0
 
-non\_minimal\_cfg [¶](#non_minimal_cfg) [📋]()
+non\_minimal\_cfg
 
 style warn
 
@@ -3638,7 +3638,7 @@ style warn
 
 Added in: 1.71.0
 
-non\_octal\_unix\_permissions [¶](#non_octal_unix_permissions) [📋]()
+non\_octal\_unix\_permissions
 
 correctness deny
 
@@ -3646,7 +3646,7 @@ correctness deny
 
 Added in: 1.53.0
 
-non\_send\_fields\_in\_send\_ty [¶](#non_send_fields_in_send_ty) [📋]()
+non\_send\_fields\_in\_send\_ty
 
 nursery allow
 
@@ -3654,7 +3654,7 @@ nursery allow
 
 Added in: 1.57.0
 
-non\_std\_lazy\_statics [¶](#non_std_lazy_statics) [📋]()
+non\_std\_lazy\_statics
 
 pedantic allow
 
@@ -3662,7 +3662,7 @@ pedantic allow
 
 Added in: 1.81.0
 
-non\_zero\_suggestions [¶](#non_zero_suggestions) [📋]()
+non\_zero\_suggestions
 
 restriction allow
 
@@ -3670,7 +3670,7 @@ restriction allow
 
 Added in: 1.83.0
 
-nonminimal\_bool [¶](#nonminimal_bool) [📋]()
+nonminimal\_bool
 
 complexity warn
 
@@ -3678,7 +3678,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-nonsensical\_open\_options [¶](#nonsensical_open_options) [📋]()
+nonsensical\_open\_options
 
 correctness deny
 
@@ -3686,7 +3686,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-nonstandard\_macro\_braces [¶](#nonstandard_macro_braces) [📋]()
+nonstandard\_macro\_braces
 
 nursery allow
 
@@ -3694,7 +3694,7 @@ nursery allow
 
 Added in: 1.55.0
 
-not\_unsafe\_ptr\_arg\_deref [¶](#not_unsafe_ptr_arg_deref) [📋]()
+not\_unsafe\_ptr\_arg\_deref
 
 correctness deny
 
@@ -3702,7 +3702,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-obfuscated\_if\_else [¶](#obfuscated_if_else) [📋]()
+obfuscated\_if\_else
 
 style warn
 
@@ -3710,7 +3710,7 @@ style warn
 
 Added in: 1.64.0
 
-octal\_escapes [¶](#octal_escapes) [📋]()
+octal\_escapes
 
 suspicious warn
 
@@ -3718,7 +3718,7 @@ suspicious warn
 
 Added in: 1.59.0
 
-ok\_expect [¶](#ok_expect) [📋]()
+ok\_expect
 
 style warn
 
@@ -3726,7 +3726,7 @@ style warn
 
 Added in: pre 1.29.0
 
-only\_used\_in\_recursion [¶](#only_used_in_recursion) [📋]()
+only\_used\_in\_recursion
 
 complexity warn
 
@@ -3734,7 +3734,7 @@ complexity warn
 
 Added in: 1.61.0
 
-op\_ref [¶](#op_ref) [📋]()
+op\_ref
 
 style warn
 
@@ -3742,7 +3742,7 @@ style warn
 
 Added in: pre 1.29.0
 
-option\_as\_ref\_cloned [¶](#option_as_ref_cloned) [📋]()
+option\_as\_ref\_cloned
 
 pedantic allow
 
@@ -3750,7 +3750,7 @@ pedantic allow
 
 Added in: 1.77.0
 
-option\_as\_ref\_deref [¶](#option_as_ref_deref) [📋]()
+option\_as\_ref\_deref
 
 complexity warn
 
@@ -3758,7 +3758,7 @@ complexity warn
 
 Added in: 1.42.0
 
-option\_env\_unwrap [¶](#option_env_unwrap) [📋]()
+option\_env\_unwrap
 
 correctness deny
 
@@ -3766,7 +3766,7 @@ correctness deny
 
 Added in: 1.43.0
 
-option\_filter\_map [¶](#option_filter_map) [📋]()
+option\_filter\_map
 
 complexity warn
 
@@ -3774,7 +3774,7 @@ complexity warn
 
 Added in: 1.53.0
 
-option\_if\_let\_else [¶](#option_if_let_else) [📋]()
+option\_if\_let\_else
 
 nursery allow
 
@@ -3782,7 +3782,7 @@ nursery allow
 
 Added in: 1.47.0
 
-option\_map\_or\_err\_ok [¶](#option_map_or_err_ok) [📋]()
+option\_map\_or\_err\_ok
 
 style warn
 
@@ -3790,7 +3790,7 @@ style warn
 
 Added in: 1.76.0
 
-option\_map\_or\_none [¶](#option_map_or_none) [📋]()
+option\_map\_or\_none
 
 style warn
 
@@ -3798,7 +3798,7 @@ style warn
 
 Added in: pre 1.29.0
 
-option\_map\_unit\_fn [¶](#option_map_unit_fn) [📋]()
+option\_map\_unit\_fn
 
 complexity warn
 
@@ -3806,7 +3806,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-option\_option [¶](#option_option) [📋]()
+option\_option
 
 pedantic allow
 
@@ -3814,7 +3814,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-or\_fun\_call [¶](#or_fun_call) [📋]()
+or\_fun\_call
 
 nursery allow
 
@@ -3822,7 +3822,7 @@ nursery allow
 
 Added in: pre 1.29.0
 
-or\_then\_unwrap [¶](#or_then_unwrap) [📋]()
+or\_then\_unwrap
 
 complexity warn
 
@@ -3830,7 +3830,7 @@ complexity warn
 
 Added in: 1.61.0
 
-out\_of\_bounds\_indexing [¶](#out_of_bounds_indexing) [📋]()
+out\_of\_bounds\_indexing
 
 correctness deny
 
@@ -3838,7 +3838,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-overly\_complex\_bool\_expr [¶](#overly_complex_bool_expr) [📋]()
+overly\_complex\_bool\_expr
 
 correctness deny
 
@@ -3846,7 +3846,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-panic [¶](#panic) [📋]()
+panic
 
 restriction allow
 
@@ -3854,7 +3854,7 @@ restriction allow
 
 Added in: 1.40.0
 
-panic\_in\_result\_fn [¶](#panic_in_result_fn) [📋]()
+panic\_in\_result\_fn
 
 restriction allow
 
@@ -3862,7 +3862,7 @@ restriction allow
 
 Added in: 1.48.0
 
-panicking\_overflow\_checks [¶](#panicking_overflow_checks) [📋]()
+panicking\_overflow\_checks
 
 correctness deny
 
@@ -3870,7 +3870,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-panicking\_unwrap [¶](#panicking_unwrap) [📋]()
+panicking\_unwrap
 
 correctness deny
 
@@ -3878,7 +3878,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-partial\_pub\_fields [¶](#partial_pub_fields) [📋]()
+partial\_pub\_fields
 
 restriction allow
 
@@ -3886,7 +3886,7 @@ restriction allow
 
 Added in: 1.66.0
 
-partialeq\_ne\_impl [¶](#partialeq_ne_impl) [📋]()
+partialeq\_ne\_impl
 
 complexity warn
 
@@ -3894,7 +3894,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-partialeq\_to\_none [¶](#partialeq_to_none) [📋]()
+partialeq\_to\_none
 
 style warn
 
@@ -3902,7 +3902,7 @@ style warn
 
 Added in: 1.65.0
 
-path\_buf\_push\_overwrite [¶](#path_buf_push_overwrite) [📋]()
+path\_buf\_push\_overwrite
 
 nursery allow
 
@@ -3910,7 +3910,7 @@ nursery allow
 
 Added in: 1.36.0
 
-path\_ends\_with\_ext [¶](#path_ends_with_ext) [📋]()
+path\_ends\_with\_ext
 
 suspicious warn
 
@@ -3918,7 +3918,7 @@ suspicious warn
 
 Added in: 1.74.0
 
-pathbuf\_init\_then\_push [¶](#pathbuf_init_then_push) [📋]()
+pathbuf\_init\_then\_push
 
 restriction allow
 
@@ -3926,7 +3926,7 @@ restriction allow
 
 Added in: 1.82.0
 
-pattern\_type\_mismatch [¶](#pattern_type_mismatch) [📋]()
+pattern\_type\_mismatch
 
 restriction allow
 
@@ -3934,7 +3934,7 @@ restriction allow
 
 Added in: 1.47.0
 
-permissions\_set\_readonly\_false [¶](#permissions_set_readonly_false) [📋]()
+permissions\_set\_readonly\_false
 
 suspicious warn
 
@@ -3942,7 +3942,7 @@ suspicious warn
 
 Added in: 1.68.0
 
-pointers\_in\_nomem\_asm\_block [¶](#pointers_in_nomem_asm_block) [📋]()
+pointers\_in\_nomem\_asm\_block
 
 suspicious warn
 
@@ -3950,7 +3950,7 @@ suspicious warn
 
 Added in: 1.81.0
 
-possible\_missing\_comma [¶](#possible_missing_comma) [📋]()
+possible\_missing\_comma
 
 correctness deny
 
@@ -3958,7 +3958,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-precedence [¶](#precedence) [📋]()
+precedence
 
 complexity warn
 
@@ -3966,7 +3966,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-precedence\_bits [¶](#precedence_bits) [📋]()
+precedence\_bits
 
 restriction allow
 
@@ -3974,7 +3974,7 @@ restriction allow
 
 Added in: 1.86.0
 
-print\_in\_format\_impl [¶](#print_in_format_impl) [📋]()
+print\_in\_format\_impl
 
 suspicious warn
 
@@ -3982,7 +3982,7 @@ suspicious warn
 
 Added in: 1.61.0
 
-print\_literal [¶](#print_literal) [📋]()
+print\_literal
 
 style warn
 
@@ -3990,7 +3990,7 @@ style warn
 
 Added in: pre 1.29.0
 
-print\_stderr [¶](#print_stderr) [📋]()
+print\_stderr
 
 restriction allow
 
@@ -3998,7 +3998,7 @@ restriction allow
 
 Added in: 1.50.0
 
-print\_stdout [¶](#print_stdout) [📋]()
+print\_stdout
 
 restriction allow
 
@@ -4006,7 +4006,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-print\_with\_newline [¶](#print_with_newline) [📋]()
+print\_with\_newline
 
 style warn
 
@@ -4014,7 +4014,7 @@ style warn
 
 Added in: pre 1.29.0
 
-println\_empty\_string [¶](#println_empty_string) [📋]()
+println\_empty\_string
 
 style warn
 
@@ -4022,7 +4022,7 @@ style warn
 
 Added in: pre 1.29.0
 
-ptr\_arg [¶](#ptr_arg) [📋]()
+ptr\_arg
 
 style warn
 
@@ -4030,7 +4030,7 @@ style warn
 
 Added in: pre 1.29.0
 
-ptr\_as\_ptr [¶](#ptr_as_ptr) [📋]()
+ptr\_as\_ptr
 
 pedantic allow
 
@@ -4038,7 +4038,7 @@ pedantic allow
 
 Added in: 1.51.0
 
-ptr\_cast\_constness [¶](#ptr_cast_constness) [📋]()
+ptr\_cast\_constness
 
 pedantic allow
 
@@ -4046,7 +4046,7 @@ pedantic allow
 
 Added in: 1.72.0
 
-ptr\_eq [¶](#ptr_eq) [📋]()
+ptr\_eq
 
 style warn
 
@@ -4054,7 +4054,7 @@ style warn
 
 Added in: 1.49.0
 
-ptr\_offset\_with\_cast [¶](#ptr_offset_with_cast) [📋]()
+ptr\_offset\_with\_cast
 
 complexity warn
 
@@ -4062,7 +4062,7 @@ complexity warn
 
 Added in: 1.30.0
 
-pub\_enum\_variant\_names [¶](#pub_enum_variant_names) [📋]()
+pub\_enum\_variant\_names
 
 deprecated none
 
@@ -4070,7 +4070,7 @@ deprecated none
 
 Deprecated in: 1.54.0
 
-pub\_underscore\_fields [¶](#pub_underscore_fields) [📋]()
+pub\_underscore\_fields
 
 pedantic allow
 
@@ -4078,7 +4078,7 @@ pedantic allow
 
 Added in: 1.77.0
 
-pub\_use [¶](#pub_use) [📋]()
+pub\_use
 
 restriction allow
 
@@ -4086,7 +4086,7 @@ restriction allow
 
 Added in: 1.62.0
 
-pub\_with\_shorthand [¶](#pub_with_shorthand) [📋]()
+pub\_with\_shorthand
 
 restriction allow
 
@@ -4094,7 +4094,7 @@ restriction allow
 
 Added in: 1.72.0
 
-pub\_without\_shorthand [¶](#pub_without_shorthand) [📋]()
+pub\_without\_shorthand
 
 restriction allow
 
@@ -4102,7 +4102,7 @@ restriction allow
 
 Added in: 1.72.0
 
-question\_mark [¶](#question_mark) [📋]()
+question\_mark
 
 style warn
 
@@ -4110,7 +4110,7 @@ style warn
 
 Added in: pre 1.29.0
 
-question\_mark\_used [¶](#question_mark_used) [📋]()
+question\_mark\_used
 
 restriction allow
 
@@ -4118,7 +4118,7 @@ restriction allow
 
 Added in: 1.69.0
 
-range\_minus\_one [¶](#range_minus_one) [📋]()
+range\_minus\_one
 
 pedantic allow
 
@@ -4126,7 +4126,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-range\_plus\_one [¶](#range_plus_one) [📋]()
+range\_plus\_one
 
 pedantic allow
 
@@ -4134,7 +4134,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-range\_step\_by\_zero [¶](#range_step_by_zero) [📋]()
+range\_step\_by\_zero
 
 deprecated none
 
@@ -4142,7 +4142,7 @@ deprecated none
 
 Deprecated in: pre 1.29.0
 
-range\_zip\_with\_len [¶](#range_zip_with_len) [📋]()
+range\_zip\_with\_len
 
 complexity warn
 
@@ -4150,7 +4150,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-rc\_buffer [¶](#rc_buffer) [📋]()
+rc\_buffer
 
 restriction allow
 
@@ -4158,7 +4158,7 @@ restriction allow
 
 Added in: 1.48.0
 
-rc\_clone\_in\_vec\_init [¶](#rc_clone_in_vec_init) [📋]()
+rc\_clone\_in\_vec\_init
 
 suspicious warn
 
@@ -4166,7 +4166,7 @@ suspicious warn
 
 Added in: 1.63.0
 
-rc\_mutex [¶](#rc_mutex) [📋]()
+rc\_mutex
 
 restriction allow
 
@@ -4174,7 +4174,7 @@ restriction allow
 
 Added in: 1.55.0
 
-read\_line\_without\_trim [¶](#read_line_without_trim) [📋]()
+read\_line\_without\_trim
 
 correctness deny
 
@@ -4182,7 +4182,7 @@ correctness deny
 
 Added in: 1.73.0
 
-read\_zero\_byte\_vec [¶](#read_zero_byte_vec) [📋]()
+read\_zero\_byte\_vec
 
 nursery allow
 
@@ -4190,7 +4190,7 @@ nursery allow
 
 Added in: 1.63.0
 
-readonly\_write\_lock [¶](#readonly_write_lock) [📋]()
+readonly\_write\_lock
 
 perf warn
 
@@ -4198,7 +4198,7 @@ perf warn
 
 Added in: 1.73.0
 
-recursive\_format\_impl [¶](#recursive_format_impl) [📋]()
+recursive\_format\_impl
 
 correctness deny
 
@@ -4206,7 +4206,7 @@ correctness deny
 
 Added in: 1.48.0
 
-redundant\_allocation [¶](#redundant_allocation) [📋]()
+redundant\_allocation
 
 perf warn
 
@@ -4214,7 +4214,7 @@ perf warn
 
 Added in: 1.44.0
 
-redundant\_as\_str [¶](#redundant_as_str) [📋]()
+redundant\_as\_str
 
 complexity warn
 
@@ -4222,7 +4222,7 @@ complexity warn
 
 Added in: 1.74.0
 
-redundant\_async\_block [¶](#redundant_async_block) [📋]()
+redundant\_async\_block
 
 complexity warn
 
@@ -4230,7 +4230,7 @@ complexity warn
 
 Added in: 1.70.0
 
-redundant\_at\_rest\_pattern [¶](#redundant_at_rest_pattern) [📋]()
+redundant\_at\_rest\_pattern
 
 complexity warn
 
@@ -4238,7 +4238,7 @@ complexity warn
 
 Added in: 1.72.0
 
-redundant\_clone [¶](#redundant_clone) [📋]()
+redundant\_clone
 
 nursery allow
 
@@ -4246,7 +4246,7 @@ nursery allow
 
 Added in: 1.32.0
 
-redundant\_closure [¶](#redundant_closure) [📋]()
+redundant\_closure
 
 style warn
 
@@ -4254,7 +4254,7 @@ style warn
 
 Added in: pre 1.29.0
 
-redundant\_closure\_call [¶](#redundant_closure_call) [📋]()
+redundant\_closure\_call
 
 complexity warn
 
@@ -4262,7 +4262,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-redundant\_closure\_for\_method\_calls [¶](#redundant_closure_for_method_calls) [📋]()
+redundant\_closure\_for\_method\_calls
 
 pedantic allow
 
@@ -4270,7 +4270,7 @@ pedantic allow
 
 Added in: 1.35.0
 
-redundant\_comparisons [¶](#redundant_comparisons) [📋]()
+redundant\_comparisons
 
 correctness deny
 
@@ -4278,7 +4278,7 @@ correctness deny
 
 Added in: 1.73.0
 
-redundant\_else [¶](#redundant_else) [📋]()
+redundant\_else
 
 pedantic allow
 
@@ -4286,7 +4286,7 @@ pedantic allow
 
 Added in: 1.50.0
 
-redundant\_feature\_names [¶](#redundant_feature_names) [📋]()
+redundant\_feature\_names
 
 cargo allow
 
@@ -4294,7 +4294,7 @@ cargo allow
 
 Added in: 1.57.0
 
-redundant\_field\_names [¶](#redundant_field_names) [📋]()
+redundant\_field\_names
 
 style warn
 
@@ -4302,7 +4302,7 @@ style warn
 
 Added in: pre 1.29.0
 
-redundant\_guards [¶](#redundant_guards) [📋]()
+redundant\_guards
 
 complexity warn
 
@@ -4310,7 +4310,7 @@ complexity warn
 
 Added in: 1.73.0
 
-redundant\_locals [¶](#redundant_locals) [📋]()
+redundant\_locals
 
 suspicious warn
 
@@ -4318,7 +4318,7 @@ suspicious warn
 
 Added in: 1.73.0
 
-redundant\_pattern [¶](#redundant_pattern) [📋]()
+redundant\_pattern
 
 style warn
 
@@ -4326,7 +4326,7 @@ style warn
 
 Added in: pre 1.29.0
 
-redundant\_pattern\_matching [¶](#redundant_pattern_matching) [📋]()
+redundant\_pattern\_matching
 
 style warn
 
@@ -4334,7 +4334,7 @@ style warn
 
 Added in: 1.31.0
 
-redundant\_pub\_crate [¶](#redundant_pub_crate) [📋]()
+redundant\_pub\_crate
 
 nursery allow
 
@@ -4342,7 +4342,7 @@ nursery allow
 
 Added in: 1.44.0
 
-redundant\_slicing [¶](#redundant_slicing) [📋]()
+redundant\_slicing
 
 complexity warn
 
@@ -4350,7 +4350,7 @@ complexity warn
 
 Added in: 1.51.0
 
-redundant\_static\_lifetimes [¶](#redundant_static_lifetimes) [📋]()
+redundant\_static\_lifetimes
 
 style warn
 
@@ -4358,7 +4358,7 @@ style warn
 
 Added in: 1.37.0
 
-redundant\_type\_annotations [¶](#redundant_type_annotations) [📋]()
+redundant\_type\_annotations
 
 restriction allow
 
@@ -4366,7 +4366,7 @@ restriction allow
 
 Added in: 1.72.0
 
-ref\_as\_ptr [¶](#ref_as_ptr) [📋]()
+ref\_as\_ptr
 
 pedantic allow
 
@@ -4374,7 +4374,7 @@ pedantic allow
 
 Added in: 1.78.0
 
-ref\_binding\_to\_reference [¶](#ref_binding_to_reference) [📋]()
+ref\_binding\_to\_reference
 
 pedantic allow
 
@@ -4382,7 +4382,7 @@ pedantic allow
 
 Added in: 1.54.0
 
-ref\_option [¶](#ref_option) [📋]()
+ref\_option
 
 pedantic allow
 
@@ -4390,7 +4390,7 @@ pedantic allow
 
 Added in: 1.83.0
 
-ref\_option\_ref [¶](#ref_option_ref) [📋]()
+ref\_option\_ref
 
 pedantic allow
 
@@ -4398,7 +4398,7 @@ pedantic allow
 
 Added in: 1.49.0
 
-ref\_patterns [¶](#ref_patterns) [📋]()
+ref\_patterns
 
 restriction allow
 
@@ -4406,7 +4406,7 @@ restriction allow
 
 Added in: 1.71.0
 
-regex\_creation\_in\_loops [¶](#regex_creation_in_loops) [📋]()
+regex\_creation\_in\_loops
 
 perf warn
 
@@ -4414,7 +4414,7 @@ perf warn
 
 Added in: 1.84.0
 
-regex\_macro [¶](#regex_macro) [📋]()
+regex\_macro
 
 deprecated none
 
@@ -4422,7 +4422,7 @@ deprecated none
 
 Deprecated in: 1.47.0
 
-renamed\_function\_params [¶](#renamed_function_params) [📋]()
+renamed\_function\_params
 
 restriction allow
 
@@ -4430,7 +4430,7 @@ restriction allow
 
 Added in: 1.80.0
 
-repeat\_once [¶](#repeat_once) [📋]()
+repeat\_once
 
 complexity warn
 
@@ -4438,7 +4438,7 @@ complexity warn
 
 Added in: 1.47.0
 
-repeat\_vec\_with\_capacity [¶](#repeat_vec_with_capacity) [📋]()
+repeat\_vec\_with\_capacity
 
 suspicious warn
 
@@ -4446,7 +4446,7 @@ suspicious warn
 
 Added in: 1.76.0
 
-replace\_consts [¶](#replace_consts) [📋]()
+replace\_consts
 
 deprecated none
 
@@ -4454,7 +4454,7 @@ deprecated none
 
 Deprecated in: 1.44.0
 
-repr\_packed\_without\_abi [¶](#repr_packed_without_abi) [📋]()
+repr\_packed\_without\_abi
 
 suspicious warn
 
@@ -4462,7 +4462,7 @@ suspicious warn
 
 Added in: 1.84.0
 
-reserve\_after\_initialization [¶](#reserve_after_initialization) [📋]()
+reserve\_after\_initialization
 
 complexity warn
 
@@ -4470,7 +4470,7 @@ complexity warn
 
 Added in: 1.74.0
 
-rest\_pat\_in\_fully\_bound\_structs [¶](#rest_pat_in_fully_bound_structs) [📋]()
+rest\_pat\_in\_fully\_bound\_structs
 
 restriction allow
 
@@ -4478,7 +4478,7 @@ restriction allow
 
 Added in: 1.43.0
 
-result\_filter\_map [¶](#result_filter_map) [📋]()
+result\_filter\_map
 
 complexity warn
 
@@ -4486,7 +4486,7 @@ complexity warn
 
 Added in: 1.77.0
 
-result\_large\_err [¶](#result_large_err) [📋]()
+result\_large\_err
 
 perf warn
 
@@ -4494,7 +4494,7 @@ perf warn
 
 Added in: 1.65.0
 
-result\_map\_or\_into\_option [¶](#result_map_or_into_option) [📋]()
+result\_map\_or\_into\_option
 
 style warn
 
@@ -4502,7 +4502,7 @@ style warn
 
 Added in: 1.44.0
 
-result\_map\_unit\_fn [¶](#result_map_unit_fn) [📋]()
+result\_map\_unit\_fn
 
 complexity warn
 
@@ -4510,7 +4510,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-result\_unit\_err [¶](#result_unit_err) [📋]()
+result\_unit\_err
 
 style warn
 
@@ -4518,7 +4518,7 @@ style warn
 
 Added in: 1.49.0
 
-return\_and\_then [¶](#return_and_then) [📋]()
+return\_and\_then
 
 restriction allow
 
@@ -4526,7 +4526,7 @@ restriction allow
 
 Added in: 1.86.0
 
-return\_self\_not\_must\_use [¶](#return_self_not_must_use) [📋]()
+return\_self\_not\_must\_use
 
 pedantic allow
 
@@ -4534,7 +4534,7 @@ pedantic allow
 
 Added in: 1.59.0
 
-reversed\_empty\_ranges [¶](#reversed_empty_ranges) [📋]()
+reversed\_empty\_ranges
 
 correctness deny
 
@@ -4542,7 +4542,7 @@ correctness deny
 
 Added in: 1.45.0
 
-same\_functions\_in\_if\_condition [¶](#same_functions_in_if_condition) [📋]()
+same\_functions\_in\_if\_condition
 
 pedantic allow
 
@@ -4550,7 +4550,7 @@ pedantic allow
 
 Added in: 1.41.0
 
-same\_item\_push [¶](#same_item_push) [📋]()
+same\_item\_push
 
 style warn
 
@@ -4558,7 +4558,7 @@ style warn
 
 Added in: 1.47.0
 
-same\_name\_method [¶](#same_name_method) [📋]()
+same\_name\_method
 
 restriction allow
 
@@ -4566,7 +4566,7 @@ restriction allow
 
 Added in: 1.57.0
 
-search\_is\_some [¶](#search_is_some) [📋]()
+search\_is\_some
 
 complexity warn
 
@@ -4574,7 +4574,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-seek\_from\_current [¶](#seek_from_current) [📋]()
+seek\_from\_current
 
 complexity warn
 
@@ -4582,7 +4582,7 @@ complexity warn
 
 Added in: 1.67.0
 
-seek\_to\_start\_instead\_of\_rewind [¶](#seek_to_start_instead_of_rewind) [📋]()
+seek\_to\_start\_instead\_of\_rewind
 
 complexity warn
 
@@ -4590,7 +4590,7 @@ complexity warn
 
 Added in: 1.67.0
 
-self\_assignment [¶](#self_assignment) [📋]()
+self\_assignment
 
 correctness deny
 
@@ -4598,7 +4598,7 @@ correctness deny
 
 Added in: 1.48.0
 
-self\_named\_constructors [¶](#self_named_constructors) [📋]()
+self\_named\_constructors
 
 style warn
 
@@ -4606,7 +4606,7 @@ style warn
 
 Added in: 1.55.0
 
-self\_named\_module\_files [¶](#self_named_module_files) [📋]()
+self\_named\_module\_files
 
 restriction allow
 
@@ -4614,7 +4614,7 @@ restriction allow
 
 Added in: 1.57.0
 
-semicolon\_if\_nothing\_returned [¶](#semicolon_if_nothing_returned) [📋]()
+semicolon\_if\_nothing\_returned
 
 pedantic allow
 
@@ -4622,7 +4622,7 @@ pedantic allow
 
 Added in: 1.52.0
 
-semicolon\_inside\_block [¶](#semicolon_inside_block) [📋]()
+semicolon\_inside\_block
 
 restriction allow
 
@@ -4630,7 +4630,7 @@ restriction allow
 
 Added in: 1.68.0
 
-semicolon\_outside\_block [¶](#semicolon_outside_block) [📋]()
+semicolon\_outside\_block
 
 restriction allow
 
@@ -4638,7 +4638,7 @@ restriction allow
 
 Added in: 1.68.0
 
-separated\_literal\_suffix [¶](#separated_literal_suffix) [📋]()
+separated\_literal\_suffix
 
 restriction allow
 
@@ -4646,7 +4646,7 @@ restriction allow
 
 Added in: 1.58.0
 
-serde\_api\_misuse [¶](#serde_api_misuse) [📋]()
+serde\_api\_misuse
 
 correctness deny
 
@@ -4654,7 +4654,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-set\_contains\_or\_insert [¶](#set_contains_or_insert) [📋]()
+set\_contains\_or\_insert
 
 nursery allow
 
@@ -4662,7 +4662,7 @@ nursery allow
 
 Added in: 1.81.0
 
-shadow\_reuse [¶](#shadow_reuse) [📋]()
+shadow\_reuse
 
 restriction allow
 
@@ -4670,7 +4670,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-shadow\_same [¶](#shadow_same) [📋]()
+shadow\_same
 
 restriction allow
 
@@ -4678,7 +4678,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-shadow\_unrelated [¶](#shadow_unrelated) [📋]()
+shadow\_unrelated
 
 restriction allow
 
@@ -4686,7 +4686,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-short\_circuit\_statement [¶](#short_circuit_statement) [📋]()
+short\_circuit\_statement
 
 complexity warn
 
@@ -4694,7 +4694,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-should\_assert\_eq [¶](#should_assert_eq) [📋]()
+should\_assert\_eq
 
 deprecated none
 
@@ -4702,7 +4702,7 @@ deprecated none
 
 Deprecated in: pre 1.29.0
 
-should\_implement\_trait [¶](#should_implement_trait) [📋]()
+should\_implement\_trait
 
 style warn
 
@@ -4710,7 +4710,7 @@ style warn
 
 Added in: pre 1.29.0
 
-should\_panic\_without\_expect [¶](#should_panic_without_expect) [📋]()
+should\_panic\_without\_expect
 
 pedantic allow
 
@@ -4718,7 +4718,7 @@ pedantic allow
 
 Added in: 1.74.0
 
-significant\_drop\_in\_scrutinee [¶](#significant_drop_in_scrutinee) [📋]()
+significant\_drop\_in\_scrutinee
 
 nursery allow
 
@@ -4726,7 +4726,7 @@ nursery allow
 
 Added in: 1.60.0
 
-significant\_drop\_tightening [¶](#significant_drop_tightening) [📋]()
+significant\_drop\_tightening
 
 nursery allow
 
@@ -4734,7 +4734,7 @@ nursery allow
 
 Added in: 1.69.0
 
-similar\_names [¶](#similar_names) [📋]()
+similar\_names
 
 pedantic allow
 
@@ -4742,7 +4742,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-single\_call\_fn [¶](#single_call_fn) [📋]()
+single\_call\_fn
 
 restriction allow
 
@@ -4750,7 +4750,7 @@ restriction allow
 
 Added in: 1.72.0
 
-single\_char\_add\_str [¶](#single_char_add_str) [📋]()
+single\_char\_add\_str
 
 style warn
 
@@ -4758,7 +4758,7 @@ style warn
 
 Added in: 1.49.0
 
-single\_char\_lifetime\_names [¶](#single_char_lifetime_names) [📋]()
+single\_char\_lifetime\_names
 
 restriction allow
 
@@ -4766,7 +4766,7 @@ restriction allow
 
 Added in: 1.60.0
 
-single\_char\_pattern [¶](#single_char_pattern) [📋]()
+single\_char\_pattern
 
 pedantic allow
 
@@ -4774,7 +4774,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-single\_component\_path\_imports [¶](#single_component_path_imports) [📋]()
+single\_component\_path\_imports
 
 style warn
 
@@ -4782,7 +4782,7 @@ style warn
 
 Added in: 1.43.0
 
-single\_element\_loop [¶](#single_element_loop) [📋]()
+single\_element\_loop
 
 complexity warn
 
@@ -4790,7 +4790,7 @@ complexity warn
 
 Added in: 1.49.0
 
-single\_match [¶](#single_match) [📋]()
+single\_match
 
 style warn
 
@@ -4798,7 +4798,7 @@ style warn
 
 Added in: pre 1.29.0
 
-single\_match\_else [¶](#single_match_else) [📋]()
+single\_match\_else
 
 pedantic allow
 
@@ -4806,7 +4806,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-single\_range\_in\_vec\_init [¶](#single_range_in_vec_init) [📋]()
+single\_range\_in\_vec\_init
 
 suspicious warn
 
@@ -4814,7 +4814,7 @@ suspicious warn
 
 Added in: 1.72.0
 
-size\_of\_in\_element\_count [¶](#size_of_in_element_count) [📋]()
+size\_of\_in\_element\_count
 
 correctness deny
 
@@ -4822,7 +4822,7 @@ correctness deny
 
 Added in: 1.50.0
 
-size\_of\_ref [¶](#size_of_ref) [📋]()
+size\_of\_ref
 
 suspicious warn
 
@@ -4830,7 +4830,7 @@ suspicious warn
 
 Added in: 1.68.0
 
-skip\_while\_next [¶](#skip_while_next) [📋]()
+skip\_while\_next
 
 complexity warn
 
@@ -4838,7 +4838,7 @@ complexity warn
 
 Added in: 1.42.0
 
-sliced\_string\_as\_bytes [¶](#sliced_string_as_bytes) [📋]()
+sliced\_string\_as\_bytes
 
 perf warn
 
@@ -4846,7 +4846,7 @@ perf warn
 
 Added in: 1.86.0
 
-slow\_vector\_initialization [¶](#slow_vector_initialization) [📋]()
+slow\_vector\_initialization
 
 perf warn
 
@@ -4854,7 +4854,7 @@ perf warn
 
 Added in: 1.32.0
 
-stable\_sort\_primitive [¶](#stable_sort_primitive) [📋]()
+stable\_sort\_primitive
 
 pedantic allow
 
@@ -4862,7 +4862,7 @@ pedantic allow
 
 Added in: 1.47.0
 
-std\_instead\_of\_alloc [¶](#std_instead_of_alloc) [📋]()
+std\_instead\_of\_alloc
 
 restriction allow
 
@@ -4870,7 +4870,7 @@ restriction allow
 
 Added in: 1.64.0
 
-std\_instead\_of\_core [¶](#std_instead_of_core) [📋]()
+std\_instead\_of\_core
 
 restriction allow
 
@@ -4878,7 +4878,7 @@ restriction allow
 
 Added in: 1.64.0
 
-str\_split\_at\_newline [¶](#str_split_at_newline) [📋]()
+str\_split\_at\_newline
 
 pedantic allow
 
@@ -4886,7 +4886,7 @@ pedantic allow
 
 Added in: 1.77.0
 
-str\_to\_string [¶](#str_to_string) [📋]()
+str\_to\_string
 
 restriction allow
 
@@ -4894,7 +4894,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-string\_add [¶](#string_add) [📋]()
+string\_add
 
 restriction allow
 
@@ -4902,7 +4902,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-string\_add\_assign [¶](#string_add_assign) [📋]()
+string\_add\_assign
 
 pedantic allow
 
@@ -4910,7 +4910,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-string\_extend\_chars [¶](#string_extend_chars) [📋]()
+string\_extend\_chars
 
 style warn
 
@@ -4918,7 +4918,7 @@ style warn
 
 Added in: pre 1.29.0
 
-string\_from\_utf8\_as\_bytes [¶](#string_from_utf8_as_bytes) [📋]()
+string\_from\_utf8\_as\_bytes
 
 complexity warn
 
@@ -4926,7 +4926,7 @@ complexity warn
 
 Added in: 1.50.0
 
-string\_lit\_as\_bytes [¶](#string_lit_as_bytes) [📋]()
+string\_lit\_as\_bytes
 
 nursery allow
 
@@ -4934,7 +4934,7 @@ nursery allow
 
 Added in: pre 1.29.0
 
-string\_lit\_chars\_any [¶](#string_lit_chars_any) [📋]()
+string\_lit\_chars\_any
 
 restriction allow
 
@@ -4942,7 +4942,7 @@ restriction allow
 
 Added in: 1.73.0
 
-string\_slice [¶](#string_slice) [📋]()
+string\_slice
 
 restriction allow
 
@@ -4950,7 +4950,7 @@ restriction allow
 
 Added in: 1.58.0
 
-string\_to\_string [¶](#string_to_string) [📋]()
+string\_to\_string
 
 restriction allow
 
@@ -4958,7 +4958,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-strlen\_on\_c\_strings [¶](#strlen_on_c_strings) [📋]()
+strlen\_on\_c\_strings
 
 complexity warn
 
@@ -4966,7 +4966,7 @@ complexity warn
 
 Added in: 1.55.0
 
-struct\_excessive\_bools [¶](#struct_excessive_bools) [📋]()
+struct\_excessive\_bools
 
 pedantic allow
 
@@ -4974,7 +4974,7 @@ pedantic allow
 
 Added in: 1.43.0
 
-struct\_field\_names [¶](#struct_field_names) [📋]()
+struct\_field\_names
 
 pedantic allow
 
@@ -4982,7 +4982,7 @@ pedantic allow
 
 Added in: 1.75.0
 
-suboptimal\_flops [¶](#suboptimal_flops) [📋]()
+suboptimal\_flops
 
 nursery allow
 
@@ -4990,7 +4990,7 @@ nursery allow
 
 Added in: 1.43.0
 
-suspicious\_arithmetic\_impl [¶](#suspicious_arithmetic_impl) [📋]()
+suspicious\_arithmetic\_impl
 
 suspicious warn
 
@@ -4998,7 +4998,7 @@ suspicious warn
 
 Added in: pre 1.29.0
 
-suspicious\_assignment\_formatting [¶](#suspicious_assignment_formatting) [📋]()
+suspicious\_assignment\_formatting
 
 suspicious warn
 
@@ -5006,7 +5006,7 @@ suspicious warn
 
 Added in: pre 1.29.0
 
-suspicious\_command\_arg\_space [¶](#suspicious_command_arg_space) [📋]()
+suspicious\_command\_arg\_space
 
 suspicious warn
 
@@ -5014,7 +5014,7 @@ suspicious warn
 
 Added in: 1.69.0
 
-suspicious\_doc\_comments [¶](#suspicious_doc_comments) [📋]()
+suspicious\_doc\_comments
 
 suspicious warn
 
@@ -5022,7 +5022,7 @@ suspicious warn
 
 Added in: 1.70.0
 
-suspicious\_else\_formatting [¶](#suspicious_else_formatting) [📋]()
+suspicious\_else\_formatting
 
 suspicious warn
 
@@ -5030,7 +5030,7 @@ suspicious warn
 
 Added in: pre 1.29.0
 
-suspicious\_map [¶](#suspicious_map) [📋]()
+suspicious\_map
 
 suspicious warn
 
@@ -5038,7 +5038,7 @@ suspicious warn
 
 Added in: 1.39.0
 
-suspicious\_op\_assign\_impl [¶](#suspicious_op_assign_impl) [📋]()
+suspicious\_op\_assign\_impl
 
 suspicious warn
 
@@ -5046,7 +5046,7 @@ suspicious warn
 
 Added in: pre 1.29.0
 
-suspicious\_open\_options [¶](#suspicious_open_options) [📋]()
+suspicious\_open\_options
 
 suspicious warn
 
@@ -5054,7 +5054,7 @@ suspicious warn
 
 Added in: 1.77.0
 
-suspicious\_operation\_groupings [¶](#suspicious_operation_groupings) [📋]()
+suspicious\_operation\_groupings
 
 nursery allow
 
@@ -5062,7 +5062,7 @@ nursery allow
 
 Added in: 1.50.0
 
-suspicious\_splitn [¶](#suspicious_splitn) [📋]()
+suspicious\_splitn
 
 correctness deny
 
@@ -5070,7 +5070,7 @@ correctness deny
 
 Added in: 1.54.0
 
-suspicious\_to\_owned [¶](#suspicious_to_owned) [📋]()
+suspicious\_to\_owned
 
 suspicious warn
 
@@ -5078,7 +5078,7 @@ suspicious warn
 
 Added in: 1.65.0
 
-suspicious\_unary\_op\_formatting [¶](#suspicious_unary_op_formatting) [📋]()
+suspicious\_unary\_op\_formatting
 
 suspicious warn
 
@@ -5086,7 +5086,7 @@ suspicious warn
 
 Added in: 1.40.0
 
-suspicious\_xor\_used\_as\_pow [¶](#suspicious_xor_used_as_pow) [📋]()
+suspicious\_xor\_used\_as\_pow
 
 restriction allow
 
@@ -5094,7 +5094,7 @@ restriction allow
 
 Added in: 1.67.0
 
-swap\_ptr\_to\_ref [¶](#swap_ptr_to_ref) [📋]()
+swap\_ptr\_to\_ref
 
 suspicious warn
 
@@ -5102,7 +5102,7 @@ suspicious warn
 
 Added in: 1.63.0
 
-tabs\_in\_doc\_comments [¶](#tabs_in_doc_comments) [📋]()
+tabs\_in\_doc\_comments
 
 style warn
 
@@ -5110,7 +5110,7 @@ style warn
 
 Added in: 1.41.0
 
-temporary\_assignment [¶](#temporary_assignment) [📋]()
+temporary\_assignment
 
 complexity warn
 
@@ -5118,7 +5118,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-test\_attr\_in\_doctest [¶](#test_attr_in_doctest) [📋]()
+test\_attr\_in\_doctest
 
 suspicious warn
 
@@ -5126,7 +5126,7 @@ suspicious warn
 
 Added in: 1.76.0
 
-tests\_outside\_test\_module [¶](#tests_outside_test_module) [📋]()
+tests\_outside\_test\_module
 
 restriction allow
 
@@ -5134,7 +5134,7 @@ restriction allow
 
 Added in: 1.70.0
 
-to\_digit\_is\_some [¶](#to_digit_is_some) [📋]()
+to\_digit\_is\_some
 
 style warn
 
@@ -5142,7 +5142,7 @@ style warn
 
 Added in: 1.41.0
 
-to\_string\_in\_format\_args [¶](#to_string_in_format_args) [📋]()
+to\_string\_in\_format\_args
 
 perf warn
 
@@ -5150,7 +5150,7 @@ perf warn
 
 Added in: 1.58.0
 
-to\_string\_trait\_impl [¶](#to_string_trait_impl) [📋]()
+to\_string\_trait\_impl
 
 style warn
 
@@ -5158,7 +5158,7 @@ style warn
 
 Added in: 1.78.0
 
-todo [¶](#todo) [📋]()
+todo
 
 restriction allow
 
@@ -5166,7 +5166,7 @@ restriction allow
 
 Added in: 1.40.0
 
-too\_long\_first\_doc\_paragraph [¶](#too_long_first_doc_paragraph) [📋]()
+too\_long\_first\_doc\_paragraph
 
 nursery allow
 
@@ -5174,7 +5174,7 @@ nursery allow
 
 Added in: 1.82.0
 
-too\_many\_arguments [¶](#too_many_arguments) [📋]()
+too\_many\_arguments
 
 complexity warn
 
@@ -5182,7 +5182,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-too\_many\_lines [¶](#too_many_lines) [📋]()
+too\_many\_lines
 
 pedantic allow
 
@@ -5190,7 +5190,7 @@ pedantic allow
 
 Added in: 1.34.0
 
-toplevel\_ref\_arg [¶](#toplevel_ref_arg) [📋]()
+toplevel\_ref\_arg
 
 style warn
 
@@ -5198,7 +5198,7 @@ style warn
 
 Added in: pre 1.29.0
 
-trailing\_empty\_array [¶](#trailing_empty_array) [📋]()
+trailing\_empty\_array
 
 nursery allow
 
@@ -5206,7 +5206,7 @@ nursery allow
 
 Added in: 1.58.0
 
-trait\_duplication\_in\_bounds [¶](#trait_duplication_in_bounds) [📋]()
+trait\_duplication\_in\_bounds
 
 nursery allow
 
@@ -5214,7 +5214,7 @@ nursery allow
 
 Added in: 1.47.0
 
-transmute\_bytes\_to\_str [¶](#transmute_bytes_to_str) [📋]()
+transmute\_bytes\_to\_str
 
 complexity warn
 
@@ -5222,7 +5222,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-transmute\_float\_to\_int [¶](#transmute_float_to_int) [📋]()
+transmute\_float\_to\_int
 
 complexity warn
 
@@ -5230,7 +5230,7 @@ complexity warn
 
 Added in: 1.41.0
 
-transmute\_int\_to\_bool [¶](#transmute_int_to_bool) [📋]()
+transmute\_int\_to\_bool
 
 complexity warn
 
@@ -5238,7 +5238,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-transmute\_int\_to\_char [¶](#transmute_int_to_char) [📋]()
+transmute\_int\_to\_char
 
 complexity warn
 
@@ -5246,7 +5246,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-transmute\_int\_to\_float [¶](#transmute_int_to_float) [📋]()
+transmute\_int\_to\_float
 
 complexity warn
 
@@ -5254,7 +5254,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-transmute\_int\_to\_non\_zero [¶](#transmute_int_to_non_zero) [📋]()
+transmute\_int\_to\_non\_zero
 
 complexity warn
 
@@ -5262,7 +5262,7 @@ complexity warn
 
 Added in: 1.69.0
 
-transmute\_null\_to\_fn [¶](#transmute_null_to_fn) [📋]()
+transmute\_null\_to\_fn
 
 correctness deny
 
@@ -5270,7 +5270,7 @@ correctness deny
 
 Added in: 1.68.0
 
-transmute\_num\_to\_bytes [¶](#transmute_num_to_bytes) [📋]()
+transmute\_num\_to\_bytes
 
 complexity warn
 
@@ -5278,7 +5278,7 @@ complexity warn
 
 Added in: 1.58.0
 
-transmute\_ptr\_to\_ptr [¶](#transmute_ptr_to_ptr) [📋]()
+transmute\_ptr\_to\_ptr
 
 pedantic allow
 
@@ -5286,7 +5286,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-transmute\_ptr\_to\_ref [¶](#transmute_ptr_to_ref) [📋]()
+transmute\_ptr\_to\_ref
 
 complexity warn
 
@@ -5294,7 +5294,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-transmute\_undefined\_repr [¶](#transmute_undefined_repr) [📋]()
+transmute\_undefined\_repr
 
 nursery allow
 
@@ -5302,7 +5302,7 @@ nursery allow
 
 Added in: 1.60.0
 
-transmutes\_expressible\_as\_ptr\_casts [¶](#transmutes_expressible_as_ptr_casts) [📋]()
+transmutes\_expressible\_as\_ptr\_casts
 
 complexity warn
 
@@ -5310,7 +5310,7 @@ complexity warn
 
 Added in: 1.47.0
 
-transmuting\_null [¶](#transmuting_null) [📋]()
+transmuting\_null
 
 correctness deny
 
@@ -5318,7 +5318,7 @@ correctness deny
 
 Added in: 1.35.0
 
-trim\_split\_whitespace [¶](#trim_split_whitespace) [📋]()
+trim\_split\_whitespace
 
 style warn
 
@@ -5326,7 +5326,7 @@ style warn
 
 Added in: 1.62.0
 
-trivial\_regex [¶](#trivial_regex) [📋]()
+trivial\_regex
 
 nursery allow
 
@@ -5334,7 +5334,7 @@ nursery allow
 
 Added in: pre 1.29.0
 
-trivially\_copy\_pass\_by\_ref [¶](#trivially_copy_pass_by_ref) [📋]()
+trivially\_copy\_pass\_by\_ref
 
 pedantic allow
 
@@ -5342,7 +5342,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-try\_err [¶](#try_err) [📋]()
+try\_err
 
 restriction allow
 
@@ -5350,7 +5350,7 @@ restriction allow
 
 Added in: 1.38.0
 
-tuple\_array\_conversions [¶](#tuple_array_conversions) [📋]()
+tuple\_array\_conversions
 
 nursery allow
 
@@ -5358,7 +5358,7 @@ nursery allow
 
 Added in: 1.72.0
 
-type\_complexity [¶](#type_complexity) [📋]()
+type\_complexity
 
 complexity warn
 
@@ -5366,7 +5366,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-type\_id\_on\_box [¶](#type_id_on_box) [📋]()
+type\_id\_on\_box
 
 suspicious warn
 
@@ -5374,7 +5374,7 @@ suspicious warn
 
 Added in: 1.73.0
 
-type\_repetition\_in\_bounds [¶](#type_repetition_in_bounds) [📋]()
+type\_repetition\_in\_bounds
 
 nursery allow
 
@@ -5382,7 +5382,7 @@ nursery allow
 
 Added in: 1.38.0
 
-unchecked\_duration\_subtraction [¶](#unchecked_duration_subtraction) [📋]()
+unchecked\_duration\_subtraction
 
 pedantic allow
 
@@ -5390,7 +5390,7 @@ pedantic allow
 
 Added in: 1.67.0
 
-unconditional\_recursion [¶](#unconditional_recursion) [📋]()
+unconditional\_recursion
 
 suspicious warn
 
@@ -5398,7 +5398,7 @@ suspicious warn
 
 Added in: 1.77.0
 
-undocumented\_unsafe\_blocks [¶](#undocumented_unsafe_blocks) [📋]()
+undocumented\_unsafe\_blocks
 
 restriction allow
 
@@ -5406,7 +5406,7 @@ restriction allow
 
 Added in: 1.58.0
 
-unicode\_not\_nfc [¶](#unicode_not_nfc) [📋]()
+unicode\_not\_nfc
 
 pedantic allow
 
@@ -5414,7 +5414,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-unimplemented [¶](#unimplemented) [📋]()
+unimplemented
 
 restriction allow
 
@@ -5422,7 +5422,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-uninhabited\_references [¶](#uninhabited_references) [📋]()
+uninhabited\_references
 
 nursery allow
 
@@ -5430,7 +5430,7 @@ nursery allow
 
 Added in: 1.76.0
 
-uninit\_assumed\_init [¶](#uninit_assumed_init) [📋]()
+uninit\_assumed\_init
 
 correctness deny
 
@@ -5438,7 +5438,7 @@ correctness deny
 
 Added in: 1.39.0
 
-uninit\_vec [¶](#uninit_vec) [📋]()
+uninit\_vec
 
 correctness deny
 
@@ -5446,7 +5446,7 @@ correctness deny
 
 Added in: 1.58.0
 
-uninlined\_format\_args [¶](#uninlined_format_args) [📋]()
+uninlined\_format\_args
 
 pedantic allow
 
@@ -5454,7 +5454,7 @@ pedantic allow
 
 Added in: 1.66.0
 
-unit\_arg [¶](#unit_arg) [📋]()
+unit\_arg
 
 complexity warn
 
@@ -5462,7 +5462,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-unit\_cmp [¶](#unit_cmp) [📋]()
+unit\_cmp
 
 correctness deny
 
@@ -5470,7 +5470,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-unit\_hash [¶](#unit_hash) [📋]()
+unit\_hash
 
 correctness deny
 
@@ -5478,7 +5478,7 @@ correctness deny
 
 Added in: 1.58.0
 
-unit\_return\_expecting\_ord [¶](#unit_return_expecting_ord) [📋]()
+unit\_return\_expecting\_ord
 
 correctness deny
 
@@ -5486,7 +5486,7 @@ correctness deny
 
 Added in: 1.47.0
 
-unnecessary\_box\_returns [¶](#unnecessary_box_returns) [📋]()
+unnecessary\_box\_returns
 
 pedantic allow
 
@@ -5494,7 +5494,7 @@ pedantic allow
 
 Added in: 1.70.0
 
-unnecessary\_cast [¶](#unnecessary_cast) [📋]()
+unnecessary\_cast
 
 complexity warn
 
@@ -5502,7 +5502,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-unnecessary\_clippy\_cfg [¶](#unnecessary_clippy_cfg) [📋]()
+unnecessary\_clippy\_cfg
 
 suspicious warn
 
@@ -5510,7 +5510,7 @@ suspicious warn
 
 Added in: 1.78.0
 
-unnecessary\_fallible\_conversions [¶](#unnecessary_fallible_conversions) [📋]()
+unnecessary\_fallible\_conversions
 
 style warn
 
@@ -5518,7 +5518,7 @@ style warn
 
 Added in: 1.75.0
 
-unnecessary\_filter\_map [¶](#unnecessary_filter_map) [📋]()
+unnecessary\_filter\_map
 
 complexity warn
 
@@ -5526,7 +5526,7 @@ complexity warn
 
 Added in: 1.31.0
 
-unnecessary\_find\_map [¶](#unnecessary_find_map) [📋]()
+unnecessary\_find\_map
 
 complexity warn
 
@@ -5534,7 +5534,7 @@ complexity warn
 
 Added in: 1.61.0
 
-unnecessary\_first\_then\_check [¶](#unnecessary_first_then_check) [📋]()
+unnecessary\_first\_then\_check
 
 complexity warn
 
@@ -5542,7 +5542,7 @@ complexity warn
 
 Added in: 1.83.0
 
-unnecessary\_fold [¶](#unnecessary_fold) [📋]()
+unnecessary\_fold
 
 style warn
 
@@ -5550,7 +5550,7 @@ style warn
 
 Added in: pre 1.29.0
 
-unnecessary\_get\_then\_check [¶](#unnecessary_get_then_check) [📋]()
+unnecessary\_get\_then\_check
 
 suspicious warn
 
@@ -5558,7 +5558,7 @@ suspicious warn
 
 Added in: 1.78.0
 
-unnecessary\_join [¶](#unnecessary_join) [📋]()
+unnecessary\_join
 
 pedantic allow
 
@@ -5566,7 +5566,7 @@ pedantic allow
 
 Added in: 1.61.0
 
-unnecessary\_lazy\_evaluations [¶](#unnecessary_lazy_evaluations) [📋]()
+unnecessary\_lazy\_evaluations
 
 style warn
 
@@ -5574,7 +5574,7 @@ style warn
 
 Added in: 1.48.0
 
-unnecessary\_literal\_bound [¶](#unnecessary_literal_bound) [📋]()
+unnecessary\_literal\_bound
 
 pedantic allow
 
@@ -5582,7 +5582,7 @@ pedantic allow
 
 Added in: 1.84.0
 
-unnecessary\_literal\_unwrap [¶](#unnecessary_literal_unwrap) [📋]()
+unnecessary\_literal\_unwrap
 
 complexity warn
 
@@ -5590,7 +5590,7 @@ complexity warn
 
 Added in: 1.72.0
 
-unnecessary\_map\_on\_constructor [¶](#unnecessary_map_on_constructor) [📋]()
+unnecessary\_map\_on\_constructor
 
 complexity warn
 
@@ -5598,7 +5598,7 @@ complexity warn
 
 Added in: 1.74.0
 
-unnecessary\_map\_or [¶](#unnecessary_map_or) [📋]()
+unnecessary\_map\_or
 
 style warn
 
@@ -5606,7 +5606,7 @@ style warn
 
 Added in: 1.84.0
 
-unnecessary\_min\_or\_max [¶](#unnecessary_min_or_max) [📋]()
+unnecessary\_min\_or\_max
 
 complexity warn
 
@@ -5614,7 +5614,7 @@ complexity warn
 
 Added in: 1.81.0
 
-unnecessary\_mut\_passed [¶](#unnecessary_mut_passed) [📋]()
+unnecessary\_mut\_passed
 
 style warn
 
@@ -5622,7 +5622,7 @@ style warn
 
 Added in: pre 1.29.0
 
-unnecessary\_operation [¶](#unnecessary_operation) [📋]()
+unnecessary\_operation
 
 complexity warn
 
@@ -5630,7 +5630,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-unnecessary\_owned\_empty\_strings [¶](#unnecessary_owned_empty_strings) [📋]()
+unnecessary\_owned\_empty\_strings
 
 style warn
 
@@ -5638,7 +5638,7 @@ style warn
 
 Added in: 1.62.0
 
-unnecessary\_result\_map\_or\_else [¶](#unnecessary_result_map_or_else) [📋]()
+unnecessary\_result\_map\_or\_else
 
 suspicious warn
 
@@ -5646,7 +5646,7 @@ suspicious warn
 
 Added in: 1.78.0
 
-unnecessary\_safety\_comment [¶](#unnecessary_safety_comment) [📋]()
+unnecessary\_safety\_comment
 
 restriction allow
 
@@ -5654,7 +5654,7 @@ restriction allow
 
 Added in: 1.67.0
 
-unnecessary\_safety\_doc [¶](#unnecessary_safety_doc) [📋]()
+unnecessary\_safety\_doc
 
 restriction allow
 
@@ -5662,7 +5662,7 @@ restriction allow
 
 Added in: 1.67.0
 
-unnecessary\_self\_imports [¶](#unnecessary_self_imports) [📋]()
+unnecessary\_self\_imports
 
 restriction allow
 
@@ -5670,7 +5670,7 @@ restriction allow
 
 Added in: 1.53.0
 
-unnecessary\_semicolon [¶](#unnecessary_semicolon) [📋]()
+unnecessary\_semicolon
 
 pedantic allow
 
@@ -5678,7 +5678,7 @@ pedantic allow
 
 Added in: 1.86.0
 
-unnecessary\_sort\_by [¶](#unnecessary_sort_by) [📋]()
+unnecessary\_sort\_by
 
 complexity warn
 
@@ -5686,7 +5686,7 @@ complexity warn
 
 Added in: 1.46.0
 
-unnecessary\_struct\_initialization [¶](#unnecessary_struct_initialization) [📋]()
+unnecessary\_struct\_initialization
 
 nursery allow
 
@@ -5694,7 +5694,7 @@ nursery allow
 
 Added in: 1.70.0
 
-unnecessary\_to\_owned [¶](#unnecessary_to_owned) [📋]()
+unnecessary\_to\_owned
 
 perf warn
 
@@ -5702,7 +5702,7 @@ perf warn
 
 Added in: 1.59.0
 
-unnecessary\_unwrap [¶](#unnecessary_unwrap) [📋]()
+unnecessary\_unwrap
 
 complexity warn
 
@@ -5710,7 +5710,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-unnecessary\_wraps [¶](#unnecessary_wraps) [📋]()
+unnecessary\_wraps
 
 pedantic allow
 
@@ -5718,7 +5718,7 @@ pedantic allow
 
 Added in: 1.50.0
 
-unneeded\_field\_pattern [¶](#unneeded_field_pattern) [📋]()
+unneeded\_field\_pattern
 
 restriction allow
 
@@ -5726,7 +5726,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-unneeded\_struct\_pattern [¶](#unneeded_struct_pattern) [📋]()
+unneeded\_struct\_pattern
 
 style warn
 
@@ -5734,7 +5734,7 @@ style warn
 
 Added in: 1.86.0
 
-unneeded\_wildcard\_pattern [¶](#unneeded_wildcard_pattern) [📋]()
+unneeded\_wildcard\_pattern
 
 complexity warn
 
@@ -5742,7 +5742,7 @@ complexity warn
 
 Added in: 1.40.0
 
-unnested\_or\_patterns [¶](#unnested_or_patterns) [📋]()
+unnested\_or\_patterns
 
 pedantic allow
 
@@ -5750,7 +5750,7 @@ pedantic allow
 
 Added in: 1.46.0
 
-unreachable [¶](#unreachable) [📋]()
+unreachable
 
 restriction allow
 
@@ -5758,7 +5758,7 @@ restriction allow
 
 Added in: 1.40.0
 
-unreadable\_literal [¶](#unreadable_literal) [📋]()
+unreadable\_literal
 
 pedantic allow
 
@@ -5766,7 +5766,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-unsafe\_derive\_deserialize [¶](#unsafe_derive_deserialize) [📋]()
+unsafe\_derive\_deserialize
 
 pedantic allow
 
@@ -5774,7 +5774,7 @@ pedantic allow
 
 Added in: 1.45.0
 
-unsafe\_removed\_from\_name [¶](#unsafe_removed_from_name) [📋]()
+unsafe\_removed\_from\_name
 
 style warn
 
@@ -5782,7 +5782,7 @@ style warn
 
 Added in: pre 1.29.0
 
-unsafe\_vector\_initialization [¶](#unsafe_vector_initialization) [📋]()
+unsafe\_vector\_initialization
 
 deprecated none
 
@@ -5790,7 +5790,7 @@ deprecated none
 
 Deprecated in: pre 1.29.0
 
-unseparated\_literal\_suffix [¶](#unseparated_literal_suffix) [📋]()
+unseparated\_literal\_suffix
 
 restriction allow
 
@@ -5798,7 +5798,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-unsound\_collection\_transmute [¶](#unsound_collection_transmute) [📋]()
+unsound\_collection\_transmute
 
 correctness deny
 
@@ -5806,7 +5806,7 @@ correctness deny
 
 Added in: 1.40.0
 
-unstable\_as\_mut\_slice [¶](#unstable_as_mut_slice) [📋]()
+unstable\_as\_mut\_slice
 
 deprecated none
 
@@ -5814,7 +5814,7 @@ deprecated none
 
 Deprecated in: pre 1.29.0
 
-unstable\_as\_slice [¶](#unstable_as_slice) [📋]()
+unstable\_as\_slice
 
 deprecated none
 
@@ -5822,7 +5822,7 @@ deprecated none
 
 Deprecated in: pre 1.29.0
 
-unused\_async [¶](#unused_async) [📋]()
+unused\_async
 
 pedantic allow
 
@@ -5830,7 +5830,7 @@ pedantic allow
 
 Added in: 1.54.0
 
-unused\_collect [¶](#unused_collect) [📋]()
+unused\_collect
 
 deprecated none
 
@@ -5838,7 +5838,7 @@ deprecated none
 
 Deprecated in: 1.39.0
 
-unused\_enumerate\_index [¶](#unused_enumerate_index) [📋]()
+unused\_enumerate\_index
 
 style warn
 
@@ -5846,7 +5846,7 @@ style warn
 
 Added in: 1.75.0
 
-unused\_format\_specs [¶](#unused_format_specs) [📋]()
+unused\_format\_specs
 
 complexity warn
 
@@ -5854,7 +5854,7 @@ complexity warn
 
 Added in: 1.66.0
 
-unused\_io\_amount [¶](#unused_io_amount) [📋]()
+unused\_io\_amount
 
 correctness deny
 
@@ -5862,7 +5862,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-unused\_peekable [¶](#unused_peekable) [📋]()
+unused\_peekable
 
 nursery allow
 
@@ -5870,7 +5870,7 @@ nursery allow
 
 Added in: 1.65.0
 
-unused\_result\_ok [¶](#unused_result_ok) [📋]()
+unused\_result\_ok
 
 restriction allow
 
@@ -5878,7 +5878,7 @@ restriction allow
 
 Added in: 1.82.0
 
-unused\_rounding [¶](#unused_rounding) [📋]()
+unused\_rounding
 
 nursery allow
 
@@ -5886,7 +5886,7 @@ nursery allow
 
 Added in: 1.63.0
 
-unused\_self [¶](#unused_self) [📋]()
+unused\_self
 
 pedantic allow
 
@@ -5894,7 +5894,7 @@ pedantic allow
 
 Added in: 1.40.0
 
-unused\_trait\_names [¶](#unused_trait_names) [📋]()
+unused\_trait\_names
 
 restriction allow
 
@@ -5902,7 +5902,7 @@ restriction allow
 
 Added in: 1.83.0
 
-unused\_unit [¶](#unused_unit) [📋]()
+unused\_unit
 
 style warn
 
@@ -5910,7 +5910,7 @@ style warn
 
 Added in: 1.31.0
 
-unusual\_byte\_groupings [¶](#unusual_byte_groupings) [📋]()
+unusual\_byte\_groupings
 
 style warn
 
@@ -5918,7 +5918,7 @@ style warn
 
 Added in: 1.49.0
 
-unwrap\_in\_result [¶](#unwrap_in_result) [📋]()
+unwrap\_in\_result
 
 restriction allow
 
@@ -5926,7 +5926,7 @@ restriction allow
 
 Added in: 1.48.0
 
-unwrap\_or\_default [¶](#unwrap_or_default) [📋]()
+unwrap\_or\_default
 
 style warn
 
@@ -5934,7 +5934,7 @@ style warn
 
 Added in: 1.56.0
 
-unwrap\_used [¶](#unwrap_used) [📋]()
+unwrap\_used
 
 restriction allow
 
@@ -5942,7 +5942,7 @@ restriction allow
 
 Added in: 1.45.0
 
-upper\_case\_acronyms [¶](#upper_case_acronyms) [📋]()
+upper\_case\_acronyms
 
 style warn
 
@@ -5950,7 +5950,7 @@ style warn
 
 Added in: 1.51.0
 
-use\_debug [¶](#use_debug) [📋]()
+use\_debug
 
 restriction allow
 
@@ -5958,7 +5958,7 @@ restriction allow
 
 Added in: pre 1.29.0
 
-use\_self [¶](#use_self) [📋]()
+use\_self
 
 nursery allow
 
@@ -5966,7 +5966,7 @@ nursery allow
 
 Added in: pre 1.29.0
 
-used\_underscore\_binding [¶](#used_underscore_binding) [📋]()
+used\_underscore\_binding
 
 pedantic allow
 
@@ -5974,7 +5974,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-used\_underscore\_items [¶](#used_underscore_items) [📋]()
+used\_underscore\_items
 
 pedantic allow
 
@@ -5982,7 +5982,7 @@ pedantic allow
 
 Added in: 1.83.0
 
-useless\_asref [¶](#useless_asref) [📋]()
+useless\_asref
 
 complexity warn
 
@@ -5990,7 +5990,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-useless\_attribute [¶](#useless_attribute) [📋]()
+useless\_attribute
 
 correctness deny
 
@@ -5998,7 +5998,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-useless\_conversion [¶](#useless_conversion) [📋]()
+useless\_conversion
 
 complexity warn
 
@@ -6006,7 +6006,7 @@ complexity warn
 
 Added in: 1.45.0
 
-useless\_format [¶](#useless_format) [📋]()
+useless\_format
 
 complexity warn
 
@@ -6014,7 +6014,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-useless\_let\_if\_seq [¶](#useless_let_if_seq) [📋]()
+useless\_let\_if\_seq
 
 nursery allow
 
@@ -6022,7 +6022,7 @@ nursery allow
 
 Added in: pre 1.29.0
 
-useless\_nonzero\_new\_unchecked [¶](#useless_nonzero_new_unchecked) [📋]()
+useless\_nonzero\_new\_unchecked
 
 complexity warn
 
@@ -6030,7 +6030,7 @@ complexity warn
 
 Added in: 1.86.0
 
-useless\_transmute [¶](#useless_transmute) [📋]()
+useless\_transmute
 
 complexity warn
 
@@ -6038,7 +6038,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-useless\_vec [¶](#useless_vec) [📋]()
+useless\_vec
 
 perf warn
 
@@ -6046,7 +6046,7 @@ perf warn
 
 Added in: pre 1.29.0
 
-vec\_box [¶](#vec_box) [📋]()
+vec\_box
 
 complexity warn
 
@@ -6054,7 +6054,7 @@ complexity warn
 
 Added in: 1.33.0
 
-vec\_init\_then\_push [¶](#vec_init_then_push) [📋]()
+vec\_init\_then\_push
 
 perf warn
 
@@ -6062,7 +6062,7 @@ perf warn
 
 Added in: 1.51.0
 
-vec\_resize\_to\_zero [¶](#vec_resize_to_zero) [📋]()
+vec\_resize\_to\_zero
 
 correctness deny
 
@@ -6070,7 +6070,7 @@ correctness deny
 
 Added in: 1.46.0
 
-verbose\_bit\_mask [¶](#verbose_bit_mask) [📋]()
+verbose\_bit\_mask
 
 pedantic allow
 
@@ -6078,7 +6078,7 @@ pedantic allow
 
 Added in: pre 1.29.0
 
-verbose\_file\_reads [¶](#verbose_file_reads) [📋]()
+verbose\_file\_reads
 
 restriction allow
 
@@ -6086,7 +6086,7 @@ restriction allow
 
 Added in: 1.44.0
 
-waker\_clone\_wake [¶](#waker_clone_wake) [📋]()
+waker\_clone\_wake
 
 perf warn
 
@@ -6094,7 +6094,7 @@ perf warn
 
 Added in: 1.75.0
 
-while\_float [¶](#while_float) [📋]()
+while\_float
 
 nursery allow
 
@@ -6102,7 +6102,7 @@ nursery allow
 
 Added in: 1.80.0
 
-while\_immutable\_condition [¶](#while_immutable_condition) [📋]()
+while\_immutable\_condition
 
 correctness deny
 
@@ -6110,7 +6110,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-while\_let\_loop [¶](#while_let_loop) [📋]()
+while\_let\_loop
 
 complexity warn
 
@@ -6118,7 +6118,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-while\_let\_on\_iterator [¶](#while_let_on_iterator) [📋]()
+while\_let\_on\_iterator
 
 style warn
 
@@ -6126,7 +6126,7 @@ style warn
 
 Added in: pre 1.29.0
 
-wildcard\_dependencies [¶](#wildcard_dependencies) [📋]()
+wildcard\_dependencies
 
 cargo allow
 
@@ -6134,7 +6134,7 @@ cargo allow
 
 Added in: 1.32.0
 
-wildcard\_enum\_match\_arm [¶](#wildcard_enum_match_arm) [📋]()
+wildcard\_enum\_match\_arm
 
 restriction allow
 
@@ -6142,7 +6142,7 @@ restriction allow
 
 Added in: 1.34.0
 
-wildcard\_imports [¶](#wildcard_imports) [📋]()
+wildcard\_imports
 
 pedantic allow
 
@@ -6150,7 +6150,7 @@ pedantic allow
 
 Added in: 1.43.0
 
-wildcard\_in\_or\_patterns [¶](#wildcard_in_or_patterns) [📋]()
+wildcard\_in\_or\_patterns
 
 complexity warn
 
@@ -6158,7 +6158,7 @@ complexity warn
 
 Added in: 1.42.0
 
-write\_literal [¶](#write_literal) [📋]()
+write\_literal
 
 style warn
 
@@ -6166,7 +6166,7 @@ style warn
 
 Added in: pre 1.29.0
 
-write\_with\_newline [¶](#write_with_newline) [📋]()
+write\_with\_newline
 
 style warn
 
@@ -6174,7 +6174,7 @@ style warn
 
 Added in: pre 1.29.0
 
-writeln\_empty\_string [¶](#writeln_empty_string) [📋]()
+writeln\_empty\_string
 
 style warn
 
@@ -6182,7 +6182,7 @@ style warn
 
 Added in: pre 1.29.0
 
-wrong\_pub\_self\_convention [¶](#wrong_pub_self_convention) [📋]()
+wrong\_pub\_self\_convention
 
 deprecated none
 
@@ -6190,7 +6190,7 @@ deprecated none
 
 Deprecated in: 1.54.0
 
-wrong\_self\_convention [¶](#wrong_self_convention) [📋]()
+wrong\_self\_convention
 
 style warn
 
@@ -6198,7 +6198,7 @@ style warn
 
 Added in: pre 1.29.0
 
-wrong\_transmute [¶](#wrong_transmute) [📋]()
+wrong\_transmute
 
 correctness deny
 
@@ -6206,7 +6206,7 @@ correctness deny
 
 Added in: pre 1.29.0
 
-zero\_divided\_by\_zero [¶](#zero_divided_by_zero) [📋]()
+zero\_divided\_by\_zero
 
 complexity warn
 
@@ -6214,7 +6214,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-zero\_prefixed\_literal [¶](#zero_prefixed_literal) [📋]()
+zero\_prefixed\_literal
 
 complexity warn
 
@@ -6222,7 +6222,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-zero\_ptr [¶](#zero_ptr) [📋]()
+zero\_ptr
 
 style warn
 
@@ -6230,7 +6230,7 @@ style warn
 
 Added in: pre 1.29.0
 
-zero\_repeat\_side\_effects [¶](#zero_repeat_side_effects) [📋]()
+zero\_repeat\_side\_effects
 
 suspicious warn
 
@@ -6238,7 +6238,7 @@ suspicious warn
 
 Added in: 1.79.0
 
-zero\_sized\_map\_values [¶](#zero_sized_map_values) [📋]()
+zero\_sized\_map\_values
 
 pedantic allow
 
@@ -6246,7 +6246,7 @@ pedantic allow
 
 Added in: 1.50.0
 
-zombie\_processes [¶](#zombie_processes) [📋]()
+zombie\_processes
 
 suspicious warn
 
@@ -6254,7 +6254,7 @@ suspicious warn
 
 Added in: 1.83.0
 
-zst\_offset [¶](#zst_offset) [📋]()
+zst\_offset
 
 correctness deny
 
