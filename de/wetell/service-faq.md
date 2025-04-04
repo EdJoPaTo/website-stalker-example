@@ -2,7 +2,7 @@
 
 #### Wer ist WEtell? ####
 
-Hallo, wir sind WEtell! Gegründet von Andreas, Alma und Nico. Wir kommen aus Freiburg und haben Klimaschäden, Datenmissbrauch und Intransparenz satt. Mit WEtell setzen wir uns leidenschaftlich und konkret für den Wandel zu einer nachhaltigen Welt ein. Wir wollen eine Alternative zu den konventionellen Mobilfunkunternehmen am Markt etablieren und ein Unternehmen aufbauen, das so arbeitet, wie wir es auch vom Rest der Wirtschaft erwarten: Klimapositiv. Datensparsam. Fair und Transparent.
+Hallo, wir sind WEtell! Gegründet von Andreas, Alma und Nico. Wir kommen aus Freiburg und haben Klimaschäden, Datenmissbrauch und Intransparenz satt. Mit WEtell setzen wir uns leidenschaftlich und konkret für den Wandel zu einer nachhaltigen Welt ein. Wir wollen eine Alternative zu den konventionellen Mobilfunkunternehmen am Markt etablieren und ein Unternehmen aufbauen, das so arbeitet, wie wir es auch vom Rest der Wirtschaft erwarten: Klimapositiv. Datensparsam. Fair und Transparent. Werte-basiert statt Profit-maximiert.
 
 Neben dem ganzen [Team in Freiburg](https://www.wetell.de/ueber-uns/) gehörst natürlich auch du zu WEtell, als Teil unserer Community! Nur gemeinsam werden wir es schaffen, den Wandel Realität werden zu lassen und mehr Nachhaltigkeit in die Mobilfunkwelt zu bringen. Du. Wir. WEtell.
 
