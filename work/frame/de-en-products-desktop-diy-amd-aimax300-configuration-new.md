@@ -175,6 +175,10 @@ Close
 FAQs
 ----------
 
+* How do I choose a fan?
+
+  Framework Desktop is compatible with 120mm fans. We have two 120mm Cooler Master fan options (customized version of Cooler Master's Mobius fans with improved start-up behavior) in the configurator operating at 2400 RPM. One of them is ARGB and the other one does not have lighting. We also have a Noctua 120mm fan (NF-A12x25 HS-PWM) operating at 2400 RPM, which does not have lighting, but provides excellent performance-to-noise efficiency and comes in Noctua's infamous brown brand colors.
+
 * Can I bring my own fan?
 
   You can bring your own standard 120mmx25mm fan for your Framework Desktop. If you choose the "CPU Fan Mounting Kit - 120mm (bring your own fan)" option, we will include the fan mounting kit (fan duct and 4 screws for you to install your own fan to the heatsink). We recommend using a 12V fan capable of \>100 m3/h airflow and \>3mm H2O static pressure, supporting a standard 4-pin CPU fan header.
@@ -186,10 +190,6 @@ FAQs
 * What is ARGB?
 
   ARGB (Addressable RGB) lighting allows customization of each individual LED, offering more advanced control than standard RGB lighting, which can only display one color at a time across all LEDs. The Mainboard has a standard ARGB header and supports common ARGB control software applications.
-
-* How do I choose a fan?
-
-  Framework Desktop is compatible with 120mm fans. We have two 120mm Cooler Master fan options (customized version of Cooler Master's Mobius fans with improved start-up behavior) in the configurator operating at 2400 RPM. One of them is ARGB and the other one does not have lighting. We also have a Noctua 120mm fan (NF-A12x25 HS-PWM) operating at 2400 RPM, which does not have lighting, but provides excellent performance-to-noise efficiency and comes in Noctua's infamous brown brand colors.
 
 Close
 
@@ -249,13 +249,13 @@ Close
 FAQs
 ----------
 
-* Are there going to be more tiles in the Marketplace in the future?
-
-  We are planning to bring more tiles to the Marketplace in the future.
-
 * What are these tiles?
 
   Framework Desktop has a front panel where you can decorate with resin tiles. You can get the tile packs and individual tiles with logos to decorate the front panel of your Framework Desktop. You can also 3D print your own tiles.
+
+* Are there going to be more tiles in the Marketplace in the future?
+
+  We are planning to bring more tiles to the Marketplace in the future.
 
 Close
 
