@@ -57,7 +57,7 @@ Close
   * 32 Graphics Cores, up to 2.8GHz
   * 32GB of non-upgradeable LPDDR5x
 
-   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches
+   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches
 
 * Max+ 395 - 64GB  Pre-order  €1,859
 
@@ -65,7 +65,7 @@ Close
   * 40 Graphics Cores, up to 2.9GHz
   * 64GB of non-upgradeable LPDDR5x
 
-   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches
+   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches
 
 * Max+ 395 - 128GB  Pre-order  €2,329
 
@@ -73,7 +73,7 @@ Close
   * 40 Graphics Cores, up to 2.9GHz
   * 128GB of non-upgradeable LPDDR5x
 
-   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Ships Q3  Batch 9  Ships Q3 Past Batches
+   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Sold Out  Batch 5  Sold Out  Batch 6  Sold Out  Batch 7  Sold Out  Batch 8  Sold Out  Batch 9  Ships Q3 Past Batches
 
 **Primary Storage (M.2 2280)**
 
