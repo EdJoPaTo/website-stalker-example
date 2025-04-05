@@ -465,3 +465,15 @@ sites:
           replace: </h2>
       - html_url_canonicalize
       - html_markdownify
+
+  - url:
+      - https://www.megamarsch.de/
+      - https://www.megamarsch.de/faq
+      - https://www.megamarsch.de/hamburg
+      - https://www.megamarsch.de/hamburg-bei-nacht
+      - https://www.megamarsch.de/helfer
+      - https://www.megamarsch.de/teilnahmebedingungen
+    editors:
+      - css_select: main
+      - css_remove: style, img, svg, nav li:has(a[href^="./#"])
+      - html_markdownify
