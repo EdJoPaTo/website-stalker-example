@@ -170,25 +170,12 @@ Workwear für Damen
 
 [BIG BAG Gartenabfallsack](https://www.strauss.com/de/de/muellsaecke-staender/big-bag-gartenabfallsack-200-liter-7630300-1578989-0.html?itemorigin=startseite_fs25)
 
- Wir kommen in **deine Stadt!**
-
-----------
+###  Messe Bauma  ###
 
 ---
 
- Pop up Store
----
-
- 26.02. - 05.04.2025 | Böblingen bei Stuttgart
-
-[mehr Informationen](https://www.strauss.com/de/de/popupstore?itemOrigin=startseite_fs25)
-
- Messe Bauma
----
-
- 07.04 - 13.04.2025 | München
-
-[mehr Informationen](https://www.strauss.com/de/de/Unternehmen/Messen?itemOrigin=startseite_fs25)
+|###  Messe Bauma  ###<br/><br/>---<br/><br/> 07.04 - 13.04.2025 | München<br/><br/>[<br/><br/>mehr Informationen<br/><br/>](https://www.strauss.com/de/de/Unternehmen/Messen?itemOrigin=startseite_fs25)|   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 
 ###
 
