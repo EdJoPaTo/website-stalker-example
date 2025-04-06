@@ -637,6 +637,7 @@
 * [Lauras Machgeschichten: Hängematte](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_haengematte.php5)
 * [Lauras Machgeschichten: Keksdose](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_keksdose.php5)
 * [Lauras Machgeschichten: Leuchtender Regenschirm](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_leuchtender_regenschirm.php5)
+* [Lauras Machgeschichten: Löffel-Lüfter](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_loeffel_luefter.php5)
 * [Lauras Machgeschichten: Nudelholz-Rollstempel](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_nudelholz_rollstempel.php5)
 * [Lauras Machgeschichten: Quatschkamera](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_quatschkamera.php5)
 * [Lauras Machgeschichten: Schlitten](https://www.wdrmaus.de/filme/sachgeschichten/lauras_machgeschichten_schlitten.php5)
