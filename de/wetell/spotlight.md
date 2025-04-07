@@ -207,3 +207,8 @@ Prokon
 
 10 Terawattstunden Ökostrom hat Prokon schon aus der Luft geholt und unterstützt damit den Klimawandel aufzuhalten.
 Katharina erzählt euch welche Vision hinter Prokon steht.
+
+Tomorrow
+----------
+
+Neben nachhaltigen Geldanlagen beschäftigt sich die Tomorrow Bank mit der Auflösung des Gender Pay Gap, transparenteren Investments, Klimaschutz und dem Impact von Geld. Dr. Jekyll ohne Mr. Hyde, sozusagen. Dein Geld stinkt nicht, viele von den Dingen, die konventionelle Banken mit unserem Gesparten finanzieren leider schon. Lilli hat sich bei uns ins WEtell Spotlight gesetzt.

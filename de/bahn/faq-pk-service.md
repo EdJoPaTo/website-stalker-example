@@ -5950,6 +5950,100 @@ Das ist zurzeit leider nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-in-eine-brieftaschen-app-laden)
 
+ Wie kann ich den DB Navigator auf meiner Smart Watch nutzen?
+----------
+
+Über die Smartwatch-Funktionalität des DB Navigators erhalten Sie Push-Nachrichten zu Ihrer Reise direkt auf Ihre Uhr. Auch die Reisevorschau mit allen relevanten Informationen kann auf der Smartwatch angezeigt werden, damit Sie Ihre aktuelle Reise noch besser im Blick behalten können.
+Die Reisevorschau auf der Smartwatch zeigt ab einer Stunde vor Reisebeginn alle relevanten Reisedetails wie z. B. die verbleibende Zeit bis zum Reisebeginn oder den Umstieg. Damit haben Sie alle wichtigen Reisedetails vor und während Ihrer Reise immer bequem im Blick - ohne Ihr Handy aus der Tasche ziehen zu müssen.
+
+Um die Reisevorschau auf Ihrer Smartwatch nutzen zu können, muss die Watch einmalig mit Ihrem Kundenkonto verknüpft werden. Die digitale Reisebegleitung können Sie über die Funktion „Reise merken“ in der Verbindungsübersicht aktivieren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-navigator-auf-meiner-smartwatch-nutzen)
+
+ Wie kann ich über den DB Navigator den Komfort Check-in nutzen?
+----------
+
+Wählen Sie in der App unter „Meine Reisen“ das Ticket aus, mit dem Sie sich einchecken möchten. Klicken Sie im Digitalen Ticket auf den Reiter „Reiseplan“. Bestätigen Sie über den Button „Komfort Check-in“ Ihren reservierten Sitzplatz oder geben Sie diesen manuell ein, wenn Sie keine Reservierung besitzen. In den Reisedetails erscheint nun beim entsprechenden Zug der Status "Eingecheckt".
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ueber-den-navigator-den-komfortcheckin-nutzen)
+
+ Wo kann ich im DB Navigator Informationen zum Zug oder zum Fahrtverlauf finden?
+----------
+
+Wählen Sie Ihre gewünschte Verbindung aus und klicken Sie in den Reisedetails bzw. Verbindungsdetails auf den Button "Fahrtinformationen". Dort sehen Sie den Fahrtverlauf und am Reisetag die aktuelle Wagenreihung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-im-navigator-informationen-zum-zug-oder-zum-fahrtverlauf-finden)
+
+ Kann ich mir im DB Navigator den Fahrtverlauf des Zuges auf einer Karte anzeigen lassen?
+----------
+
+Sie können sich den Fahrtverlauf Ihres Zuges auf der Karte anzeigen lassen. Sie finden diesen in den Reisedetails bzw. Verbindungsdetails über das Kartensymbol oben rechts. Einen zweiten Einstieg , um den Fahrtverlauf auf der Karte einzusehen, finden Sie in den Reisedetails bzw. Verbindungsdetails nach Klick auf den Button "Fahrtinformationen": Klicken Sie unterhalb des Fahrtverlaufs auf den Button „Auf Karte anzeigen“.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-im-navigator-den-fahrtverlauf-des-zuges-auf-einer-karte-anzeigen-lassen)
+
+ Kann ich mir im DB Navigator meinen Fußweg auf der Karte anzeigen lassen?
+----------
+
+Sie können sich den Fußweg vom aktuellen Standort zu einer auf der Karte ausgewählten Haltestelle anzeigen lassen. Über das Kartensymbol oben rechts auf der Startseite des DB Navigators öffnen Sie die Kartenansicht. Anschließend wählen Sie einfach die gewünschte Haltestelle aus und tippen auf den Button “Fußweg”.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-im-navigator-meinen-fussweg-auf-der-karte-anzeigen-lassen)
+
+ Wie kann ich im DB Navigator einen Zwischenhalt hinzufügen?
+----------
+
+Sie können Ihre Reise individualisieren, indem Sie auf der Startseite des DB Navigators unter der Verbindungssuche auf "Optionen" klicken. Über "Zwischenhalte" können Sie für Ihre Reise einen bestimmten Bahnhof oder eine bestimmte Haltestelle auswählen, über die Ihre Reiseroute verlaufen soll. Außerdem können Sie für den Zwischenhalt auch eine gewünschte Aufenthaltsdauer einstellen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-einen-zwischenhalt-hinzufuegen)
+
+ Wie kann ich im DB Navigator meine Umstiegszeit anpassen?
+----------
+
+Sie können Ihre Reise individualisieren, indem Sie auf der Startseite des DB Navigators unter der Verbindungssuche auf "Optionen" klicken. Über "Umstiegszeit" können Sie für Ihre Reise die gewünschte Minutenanzahl für den Umstieg einstellen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-meine-umstiegszeit-anpassen)
+
+ Wie kann ich im DB Navigator den Darkmode aktivieren?
+----------
+
+Das Erscheinungsbild des DB Navigators richtet sich automatisch nach den Systemeinstellungen Ihres Endgeräts. Sie können den Dark Mode auch in der App steuern und einstellen. Scrollen Sie hierzu im Menü-Punkt „Profil“ nach ganz unten zu „Einstellungen“. Dort wählen Sie „Erscheinungsbild“ aus und stellen Dark oder Light Mode ein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-den-darkmode-aktivieren)
+
+ Wie kann ich im DB Navigator Streckenfavoriten anlegen und sortieren?
+----------
+
+Um einen Streckenfavoriten anzulegen, klicken Sie auf der Startseite der App im Bereich "Meine Favoriten" auf "Favorit hinzufügen". Geben Sie Start und Ziel an. Alternativ können Sie Streckenfavoriten in der Verbindungsübersicht über das Sternsymbol speichern.
+
+So können die Streckenfavoriten sortiert werden: Klicken Sie im Menübereich „Profil“ im Abschnitt "Favoriten" zunächst auf "Mehr" und dann auf „Bearbeiten“. Anschließend können Sie die Streckenfavoriten durch längeres Halten und Verschieben der drei waagerechten Striche eines jeweiligen Streckenfavoriten in die gewünschte Reihenfolge bringen.
+Die Streckenfavoriten werden Ihnen dann in der festgelegten Reihenfolge im Menübereich "Buchen" unter "Meine Favoriten" angezeigt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-streckenfavoriten-anlegen-und-sortieren)
+
+ Wie richte ich die Benachrichtigungen zur Reise für meine Pendelstrecke ein?
+----------
+
+Loggen Sie sich in Ihrem Kundenkonto ein. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten. Klicken Sie dann in den Verbindungsdetails auf die drei Punkte oben rechts und anschließend auf „Wiederholende Reise einstellen“. Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen.
+
+Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "Wiederholende Reisen". Hier können Sie die Benachrichtigungen auch pausieren, wenn Sie vorrübergehend keine Benachrichtigungen erhalten möchten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-richte-ich-die-benachrichtigungen-zur-reise-fuer-meine-pendelstrecke-ein)
+
+ Mein Zug ist verspätet, wie kann ich in der App eine alternative Verbindung auswählen?
+----------
+
+Wenn es zu Abweichungen auf Ihrer Reise kommt, können Sie in den Reisedetails bzw. Verbindungsdetails Ihrer gebuchten oder gemerkten Reise unter "Weitere Aktionen" "Alternativen suchen". Ihnen werden dann weitere Verbindungen zu Ihrem Ziel angezeigt, deren Reiseplan Sie übernehmen können. Wenn Ihre Reise bereits begonnen hat, wird der Standort Ihres Zuges bei der Suche berücksichtigt, so dass Ihnen alternative Verbindungen ab dem nächsten Halt Ihres Zuges angezeigt werden.
+
+Wichtig: Wenn Sie eine alternative Verbindung auswählen, behalten Sie Ihr ursprüngliches Ticket. Es werden ausschließlich die angezeigten Informationen im Reiseplan und die Benachrichtigungen zur Reise angepasst. Bitte prüfen Sie vorher, ob Ihr Ticket für die ausgewählte Alternative gültig ist.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mein-zug-ist-verspaetet-wie-kann-ich-in-der-app-eine-alternative-verbindung-auswaehlen)
+
+ Wie kann ich im DB Navigator für Streckenabschnitte bestimmte Verkehrsmittel ausschließen?
+----------
+
+Um für Streckenabschnitte bestimmte Verkehrsmittel auszuschließen, müssen Sie zunächst auf der Startseite der App Start und Ziel eingeben und dann unter "Optionen" einen Zwischenhalt einstellen. Anschließend wählen Sie ebenfalls in den "Optionen" unter "Verkehrsmittel" die jeweiligen Verkehrsmittel für jeden Streckenabschnitt aus.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-fuer-streckenabschnitte-bestimmte-verkehrsmittel-ausschliessen)
+
  Wie kann ich auf bahn.de oder in der App DB Navigator bezahlen?
 ----------
 
