@@ -84,6 +84,64 @@ Ein lässiger Print, ein zuverlässiges Versprechen: STRAUSS.WORKS. **Jetzt in 
 
 [für Kinder](https://www.strauss.com/de/de/strauss-works-prints-kinder?itemorigin=startseite_fs25)
 
+####
+
+**Strauss-Fans** glücklich machen
+
+ ####
+
+---
+
+###  Osterfreude zum Ausdrucken!  ###
+
+---
+
+#####  Motiv aussuchen  #####
+
+---
+
+#####  Betrag wählen  #####
+
+---
+
+#####  Direkt verschenken  #####
+
+---
+
+[Jetzt bestellen](https://gutschein.strauss.de/)
+
+####
+
+**Coole Geschenke** in jedem Sommer-Set
+
+ ####
+
+---
+
+###  Set-Highlight  ###
+
+---
+
+ \+ 5
+
+ Softshelljacke & -weste e.s.motion 2020
+**\+ GRATIS** e.s. Mug X-large
+
+[Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-softshelljacke-weste-e-s-motion-2020-3135100-16754-722.html?itemorigin=startseite_fs25)
+
+ Strauss Sommer-Sets
+---
+
+ mit vielen
+gratis Artikeln
+---
+
+[Herren-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Herren/?itemorigin=startseite_fs25&sort=newest)
+
+[Damen-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Damen/?itemorigin=startseite_fs25&sort=newest)
+
+[Kinder-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Kinder/?itemorigin=startseite_fs25&sort=newest)
+
 ###
 
 **Shirt & Sweat**-Vielfalt
@@ -113,35 +171,6 @@ Hochwertige Materialvielfalt
 [für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
 
 [für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
-
-###  Geschenkidee zu Ostern  ###
-
----
-
- Vom Strauss verschickt, vom Hasen versteckt
----
-
-Ein echtes
-OH!-ster
-Geschenk
-
-----------
-
----
-
-**Druck & Stick:** so vielfältig, so fröhlich – so einfach!
-
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_fs25)
-
-zu den Produkten
-
-[Gutschein per E-Mail](https://gutschein.strauss.de/)
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
-
- Spar-Set
-
-[Geschenke für Kinder](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseite_fs25)
 
  Schuhneuheiten
 ---
