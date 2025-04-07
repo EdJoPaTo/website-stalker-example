@@ -4860,11 +4860,19 @@ Sie haben Ihre online gebuchte Fahrradkarte mit Stellplatzreservierung nicht dab
  Was passiert, wenn ich meinen Anschlusszug verpasse oder mein gebuchter Fahrradwagen ausfällt?
 ----------
 
-Wenn Sie aufgrund von Bahn-Verschulden Ihren Anschlusszug im Fernverkehr verpassen oder der gebuchte Fahrradwagen ausfällt, können Sie die nächstmögliche Verbindung nehmen, **wenn dort noch** ein Fahrradstellplatz **buchbar** ist.
+In den folgenden Fällen können Sie die nächstmögliche Verbindung nehmen, **wenn dort noch** ein Fahrradstellplatz **buchbar** ist:
 
-**Buchen Sie am besten online oder in der App.** So sehen Sie schnell Verbindungen, in denen noch Fahrradstellplätze verfügbar sind. Im Fahrgastrechtefall können Sie Ihre doppelt gezahlte Reservierung erstatten lassen, wenn Sie die jeweiligen Belege einreichen.
+* Sie verpassen Ihren Anschlusszug im Fernverkehr aufgrund von Bahn-Verschulden.
+* Der gebuchte Fahrradwagen fällt aus.
+* Ihr gebuchter Zug fällt aus.
 
-Wenden Sie sich für eine neue Stellplatzreservierung auch an das DB Reisezentrum in Ihrer Nähe oder an die Servicenummer [030 2970](tel:+49302970). Ohne Stellplatzreservierung ist der Einstieg leider nicht möglich.
+**Achtung: Sie müssen in allen genannten Fällen eine neue Stellplatz-Reservierung buchen.**
+
+**Buchen Sie am besten online oder in der App.** So sehen Sie schnell Verbindungen, in denen noch Fahrradstellplätze verfügbar sind. Alternativ können Sie auch in einem DB Reisezentrum in Ihrer Nähe oder über die Servicenummer [030 2970](tel:+49302970) buchen. Ohne Stellplatzreservierung ist der Einstieg nicht möglich.
+
+**Fahrgastrechte**
+
+Im Fahrgastrechtefall können Sie Ihre doppelt gezahlte Reservierung erstatten lassen. Reichen Sie dazu die jeweiligen Belege ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradmitnahme-anschlusszug-verpasst-oder-gebuchter-fahrradwagen-faellt-aus)
 
