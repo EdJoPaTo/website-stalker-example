@@ -1542,9 +1542,153 @@ Warranty
 
 1 Year Framework Limited Warranty
 
-### Framework Laptop 13 (AMD Ryzen™ AI 300 Series) compatibility ###
+### Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility ###
 
-##### Coming soon #####
+###### Ubuntu, NixOS and other distros compatibility coming soon when running a later kernel and userland. ######
+
+ Officially supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Fedora 41
+
+Fedora 41
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Fedora 41 Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+
+[Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+
+[Fedora 41 Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+
+[Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+[Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+ Compatible community supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Arch Linux
+
+Arch Linux
+
+Wi-Fi and Bluetooth
+
+Works with workarounds
+
+Fingerprint Reader
+
+Works with workarounds
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Arch Linux Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
+
+[Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
+
+[Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+[Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+ Project Bluefin
+
+Project Bluefin
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13/)
+
+[Setup Guide](https://docs.projectbluefin.io/framework-13/)
+
+[Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
+
+[Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
 
  Framework Laptop 13 (Intel® Core™ Ultra Series 1) compatibility
 
