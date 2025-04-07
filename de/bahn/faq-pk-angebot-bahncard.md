@@ -66,6 +66,28 @@ Bitte wenden Sie sich direkt an das Inkassounternehmen. Die Kontaktdaten sind in
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schreiben-von-inkassounternehmen-zur-bahncard-erhalten)
 
+ Haben Sie schon ein SEPA-Lastschriftmandat eingerichtet und trotzdem eine Mahnung für Ihre BahnCard erhalten?
+----------
+
+Das ist möglich. Bitte beachten Sie: Das Erteilen des SEPA-Lastschriftmandats im Kundenkonto gilt nur für Ticket-Buchungen, **nicht aber für die BahnCard**.
+
+[Anmeldung zum SEPA-Lastschriftmandat für die BahnCard](https://www.bahn.de/285670933115.cms.prd.default.cmspublic/prd-default/wmedia/redaktion/aushaenge/bahncard/Anmeldung-SEPA-Lastschriftmandat_BahnCard.pdf)
+
+Rufen Sie bei weiteren Fragen an unter [030 2970](tel:030 2970) oder nutzen Sie das Kontaktformular.
+
+* [Zum Kontaktformular Weitere Informationen: Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahncard-mahnung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-mahnung-sepa)
+
+ Haben Sie die erste Rechnung per Überweisung bereits bezahlt und dennoch eine Mahnung erhalten?
+----------
+
+Überprüfen Sie bitte, ob der Verwendungszweck korrekt eingegeben wurde. Falls dies nicht der Fall ist, kontaktieren Sie uns unter [030 2970](tel:030 2970).
+
+*
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-ueberweisung)
+
  Wofür brauche ich die BahnCard Services?
 ----------
 
