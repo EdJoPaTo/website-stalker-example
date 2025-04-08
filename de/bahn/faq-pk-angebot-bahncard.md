@@ -1202,7 +1202,7 @@ Die BahnCard 100 kostet
  Wie kann ich die BahnCard 100 kündigen?
 ----------
 
-Die **BahnCard 100 ohne Abo** muss nicht gekündigt werden. Die Karte läuft automatisch nach einem Jahr aus.
+Die **BahnCard 100** muss nicht gekündigt werden. Die Karte läuft automatisch nach einem Jahr aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-bahncard-100-kuendigen)
 
