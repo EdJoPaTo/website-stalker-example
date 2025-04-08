@@ -79,7 +79,7 @@ Rufen Sie bei weiteren Fragen an unter [030 2970](tel:030 2970) oder nutzen Si
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-mahnung-sepa)
 
- Haben Sie die erste Rechnung per Überweisung bereits bezahlt und dennoch eine Mahnung erhalten?
+ Haben Sie die erste Rechnung Ihrer BahnCard per Überweisung bereits bezahlt und dennoch eine Mahnung erhalten?
 ----------
 
 Überprüfen Sie bitte, ob der Verwendungszweck korrekt eingegeben wurde. Falls dies nicht der Fall ist, kontaktieren Sie uns unter [030 2970](tel:030 2970).
