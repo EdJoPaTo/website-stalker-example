@@ -464,6 +464,9 @@ sites:
           pattern: </summary>
           replace: </h2>
       - html_url_canonicalize
+      - regex_replace:
+          pattern: \?inst-v=[a-f\d-]+
+          replace: ""
       - html_markdownify
 
   - url:

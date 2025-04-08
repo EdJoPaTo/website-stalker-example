@@ -6,14 +6,14 @@ Downloads
 
 ### Manuals ###
 
-[App Guide](https://kb.shelly.cloud/__attachments/64061479/App%20Guide?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[App Guide](https://kb.shelly.cloud/__attachments/64061479/App%20Guide)
 
-[User and Safety Guide](https://kb.shelly.cloud/__attachments/64061479/User%20and%20Safety%20Guide?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[User and Safety Guide](https://kb.shelly.cloud/__attachments/64061479/User%20and%20Safety%20Guide)
 
 Compliance
 ----------
 
-[Shelly Plug S multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20multilingual%20EU%20declaration%20of%20conformity.pdf?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Shelly Plug S multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20multilingual%20EU%20declaration%20of%20conformity.pdf)
 
 What is Shelly Plug S?
 ----------

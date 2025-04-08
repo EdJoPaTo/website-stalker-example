@@ -253,14 +253,14 @@ Components and APIs
 Compliance
 ----------
 
-[Shelly Plug S MTR Gen3 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20MTR%20Gen3%20multilingual%20EU%20declaration%20of%20conformity.pdf?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Shelly Plug S MTR Gen3 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20MTR%20Gen3%20multilingual%20EU%20declaration%20of%20conformity.pdf)
 
-[Shelly Plug S MTR Gen3 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20MTR%20Gen3%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Shelly Plug S MTR Gen3 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20MTR%20Gen3%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
 
 Printed user guide
 ----------
 
-[Plug S MTR Gen 3 multilingual printed user and safety guide.pdf](https://kb.shelly.cloud/__attachments/391315459/Plug%20S%20MTR%20Gen%203%20multilingual%20printed%20user%20and%20safety%20guide.pdf?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Plug S MTR Gen 3 multilingual printed user and safety guide.pdf](https://kb.shelly.cloud/__attachments/391315459/Plug%20S%20MTR%20Gen%203%20multilingual%20printed%20user%20and%20safety%20guide.pdf)
 
 Installation guides
 ----------

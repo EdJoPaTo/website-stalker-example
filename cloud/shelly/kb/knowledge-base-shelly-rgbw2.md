@@ -6,20 +6,20 @@ Downloads
 
 ### Manuals ###
 
-[User and Safety Guide](https://kb.shelly.cloud/__attachments/63864967/User%20and%20Safety%20Guide?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[User and Safety Guide](https://kb.shelly.cloud/__attachments/63864967/User%20and%20Safety%20Guide)
 
-[App Guide](https://kb.shelly.cloud/__attachments/63864967/App%20Guide?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[App Guide](https://kb.shelly.cloud/__attachments/63864967/App%20Guide)
 
-[Wiring Diagrams](https://kb.shelly.cloud/__attachments/63864967/Wiring%20Diagrams?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Wiring Diagrams](https://kb.shelly.cloud/__attachments/63864967/Wiring%20Diagrams)
 
 Compliance
 ----------
 
-[Shelly RGBW2 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20multilingual%20EU%20declaration%20of%20conformity.pdf?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Shelly RGBW2 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20multilingual%20EU%20declaration%20of%20conformity.pdf)
 
-[Shelly RGBW2 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Shelly RGBW2 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
 
-[Shelly RGBW2 x2 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20x2%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Shelly RGBW2 x2 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20x2%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
 
 What is Shelly RGBW2?
 ----------

@@ -212,12 +212,12 @@ Components and APIs
 Printed User Guide
 ----------
 
-[Download printed user guide - English, Deutsch, Italiano, Español, Português, Français](https://kb.shelly.cloud/__attachments/65994767/Download%20printed%20user%20guide%20-%20English,%20Deutsch,%20Italiano,%20Espa%C3%B1ol,%20Portugu%C3%AAs,%20Fran%C3%A7ais?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Download printed user guide - English, Deutsch, Italiano, Español, Português, Français](https://kb.shelly.cloud/__attachments/65994767/Download%20printed%20user%20guide%20-%20English,%20Deutsch,%20Italiano,%20Espa%C3%B1ol,%20Portugu%C3%AAs,%20Fran%C3%A7ais)
 
 Compliance
 ----------
 
-[Shelly 2.5 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%202.5%20multilingual%20EU%20declaration%20of%20conformity.pdf?inst-v=f1b500c5-7e33-462b-81dc-d7cc3d199b84)
+[Shelly 2.5 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%202.5%20multilingual%20EU%20declaration%20of%20conformity.pdf)
 
 Installation guides
 ----------
