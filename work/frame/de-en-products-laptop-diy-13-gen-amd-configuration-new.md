@@ -230,7 +230,7 @@ Close
 
 Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13.
 
-We suggest ordering 4 or more Expansion Cards, and that at least one is a USB-C Expansion Card for charging the laptop.
+We suggest ordering 4 or more Expansion Cards, and that at least 1 is a USB-C Expansion Card for charging the laptop.
 
 Most popular combination
 
