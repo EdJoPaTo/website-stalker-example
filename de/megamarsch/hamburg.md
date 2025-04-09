@@ -7,15 +7,15 @@ Hamburg
 die HAFENSTADT im Norden
 ==========
 
-100 km lang Hamburg erleben - eine Challenge, die Dein Durchhaltevermögen testet und Dich mit unvergesslichen Erinnerungen belohnt. Entlang des 2. Grünen Rings führt Dich die Strecke durch grüne Parks, Waldgebiete, urbane Räume und an Flüssen und Seen vorbei. Dabei erwarten Dich kaum Höhenmeter, sodass die Strecke ideal ist für alle, die sich zum ersten Mal an die Distanz von 100km wagen. Egal, ob Einsteiger oder erfahrener Wanderer. Lass Dich von der einzigartigen Atmosphäre Hamburgs motivieren und erlebe die Stadt und ihre Natur von einer ganz neuen Seite.
+100 km lang Hamburg erleben - eine Challenge, die Dein Durchhaltevermögen testet und Dich mit unvergesslichen Erinnerungen belohnt. Entlang des 2. Grünen Rings führt Dich die Strecke durch grüne Parks, Waldgebiete, urbane Räume und an Flüssen und Seen vorbei. Dabei erwarten Dich kaum Höhenmeter, sodass die Strecke ideal ist für alle, die sich zum ersten Mal an die Distanz von 100 km wagen. Egal, ob Einsteiger oder erfahrener Wanderer. Lass Dich von der einzigartigen Atmosphäre Hamburgs motivieren und erlebe die Stadt und ihre Natur von einer ganz neuen Seite.
 
 ​
 
-[TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 ### ZEITPUNKT ###
 
-05. - 06.04.2025
+11. - 12.04.2026
 100 Kilometer in
 24 Stunden
 
@@ -32,7 +32,7 @@ ab 12:00 Uhr (die genaue Startzeit steht auf Deinem Ticket)
 ÖFFNUNGSZEITEN:
 
 Die Öffnungszeiten der Stationen und des Ziels richten sich nach einer Durchschnitts-geschwindigkeit von
-4,2km/h - 6km/h
+4,2 km/h - 6 km/h
 
 ### ORT ###
 
@@ -47,7 +47,7 @@ ZIELORT:
 Hamburg, Teufelsbrück
 
 VERPFLEGUNG:
-Vier Stationen entlang der Strecke (ca. alle 20km)
+Vier Stationen entlang der Strecke (ca. alle 20 km)
 
 ### AUSZEICHNUNGen ###
 
@@ -65,38 +65,16 @@ Bekommst Du am Start und im Ziel als Nachweis für Deine Leistung
 
 MEDAILLE:
 
-Bei einem 100km Finish
+Bei einem 100 km Finish
 
 HALL OF FAME:
-Bei einem 100km Finish
+Bei einem 100 km Finish
 
 ​
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 Hamburg Booklet
-
-#### INFO-BOOKLET ####
-
-Im Booklet findest Du die wichtigsten Infos für Deinen Megamarsch. Lies Dir auch unbedingt unser Handbuch durch, vor allem wenn Du noch nie bei uns teilgenommen hast:
-
-Megamarsch Booklet Hamburg
-
-Alle Informationen zum 100 Kilometer Megamarsch in Hamburg 2025
-
-1
-
-4
-
-Megamarsch Booklet Hamburg
-
-Alle Informationen zum 100 Kilometer Megamarsch in Hamburg 2025
-
-1/5
-
-[Booklet zum downloaden](https://www.megamarsch.de/_files/ugd/c7d428_8de2882d0366495c9da7b9e7e82083ad.pdf)
-
-[Handbuch](https://www.megamarsch.de/_files/ugd/c7d428_135db3023aec4bd2baa3a651697ad40d.pdf)
 
 #### FOTOS ####
 
@@ -118,36 +96,26 @@ Die Bilder können im Nachgang der Veranstaltung auf deren Website erworben werd
 
 #### Strecke ####
 
-###### - 350 HÖHENMETER -
+###### - 350 HÖHENMETER - ######
 
-LAUFRICHTUNG: ######
+###### 2 WOCHEN VOR DEM EVENT ######
 
-Gegen den Uhrzeigersinn.
+...stellen wir Euch die Strecke als Download für Komoot zur Verfügung. Die Strecke ist vorübergehend und kann sich z.B. auf Grund von behördlichen Auflagen oder organisatorischen Gründen noch ändern.
 
 ###### 2 TAGE VOR DEM EVENT ######
 
 ...fahren wir die Strecke mit dem Fahrrad ab, um den Weg für Euch zu markieren. Sollten wir dabei merken, dass Teile der Strecke z.B. auf Grund von Ästen, die auf der Strecke liegen, oder weil die Wege sehr nass sind, nicht begehbar sind, wird die Strecke kurzfristig an die Gegebenheiten vor Ort angepasst.
 
-[](https://www.komoot.com/de-de/tour/2094143325?share_token=a4Fo3FC72b8F61fSl5dWo3YErh3bsZytE5tqRDMDbfGLWQxffk&ref=wtd)
-
-Lade Dir die Strecke bei Komoot oder als allgemeinen GPX-Track herunter und speichere sie auf Deinem Handy ab. So hast Du die richtige Strecke unterwegs immer mit dabei:
-
-[Strecke bei Komoot](https://www.komoot.com/de-de/tour/2094143325?share_token=a4Fo3FC72b8F61fSl5dWo3YErh3bsZytE5tqRDMDbfGLWQxffk&ref=wtd)
-
-[GPX Datei der Strecke](https://82b24694-136f-40db-acbc-2df764536893.filesusr.com/ugd/c7d428_845441cee0c14ff5b64eb0ae87fc5dfa.gpx?dn=2025-03-11_2094143325_Megamarsch%20Hamburg%202025.gpx)
+[TICKET SICHERN](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 #### unsere PARTNER ####
 
 Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbranche versorgen sie Euch mit verlässlicher Ausrüstung für euren nächsten Megamarsch
 
-Aerobee - dein Offizieller Partner des Megamarsch Hamburg 2025.
-
-Die dodenhof SportWelt in Kaltenkirchen hat alles, was du brauchst, um deine sportlichen Ziele zu erreichen. Mach dich bereit, dein Bestes zu geben und starte jetzt durch!
-
 #### Highlights
-Hamburg 2024 ####
+Hamburg 2025 ####
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 Hall of Fame Hamburg Pokalempfänger
 
@@ -166,50 +134,50 @@ Hall of Fame! ####
 #### Auch DU kannst
 es schaffen! ####
 
-[JETZT TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[JETZT TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 #### Funktionsshirt ####
 
-Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg 2025.
-Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challenge! Atmungsaktiv, feuchtigkeitsregulierend und strapazierfähig. Das Design wird sich an das jeweilige Event orientieren und ist dadurch Deine persönliche Erinnerung für Deine Challenge. Hol Dir jetzt Dein Funktionsshirt für Dein kommendes unvergessliches Abenteuer!
+Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg 2026.\*
+Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challenge! Atmungsaktiv, feuchtigkeitsregulierend und strapazierfähig. Das Design wird sich an dem jeweiligen Event orientieren und ist dadurch Deine persönliche Erinnerung für Deine Challenge. Hol Dir jetzt Dein Funktionsshirt für Dein kommendes unvergessliches Abenteuer!
 
 \*Die Designs werden bald veröffentlicht
 
-[Teilnehmershirt sichern](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[Teilnehmershirt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 ### Super Early Bird Ticket ###
 
-11.04. 8 UHR - 15.04.2024 8 UHR
+10.04. 9 UHR - 14.04.2025 9 UHR
 
 TICKETPREIS
-54,95€\*
+59,95€\*
 
-[Button](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 ### Early Bird
 Ticket ###
 
-15.04.2024 - 30.06.2024
-
-TICKETPREIS
-64,95€\*
-
-[Button](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
-
-### Normales
-Ticket ###
-
-JULI - 31.12.2024
+14.04.2025 - ENDE JUNI
 
 TICKETPREIS
 69,95€\*
 
-[Button](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+
+### Normales
+Ticket ###
+
+JULI - ENDE DEZEMBER
+
+TICKETPREIS
+74,95€\*
+
+[Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 ### Last Chance
 Ticket ###
 
-JANUAR - 05.04.2025
+JANUAR - 11.04.2026
 
 ​
 
@@ -218,9 +186,9 @@ JANUAR - 05.04.2025
 ​
 
 TICKETPREIS
-74,95€​\*
+79,95€​\*
 
-[Button](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 Im Ticketpreis enthalten ist die gesamte Organisation der Veranstaltung inkl. 4 Verpflegungsstationen mit Snacks und Getränken, Toiletten und Sanitätern. Ebenfalls im Ticketpreis enthalten ist die Urkunde (ab der 2. Verpflegungsstation) und die Finisher-Medaille.
 
@@ -228,34 +196,26 @@ Im Ticketpreis enthalten ist die gesamte Organisation der Veranstaltung inkl. 4 
 
 Ticket nicht mehr Verfügbar | Ticket noch Verfügbar
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 #### Buche jetzt deine Startzeit, bevor sie ausverkauft ist! ####
 
-[JETZT IN HAMBURG TEILNEHMEN!](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+[JETZT IN HAMBURG TEILNEHMEN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 12:00
 
-AUSVERKAUFT
-
-12:45
-
-AUSVERKAUFT
+.
 
 12:15
 
-AUSVERKAUFT
-
-13:00
-
-AUSVERKAUFT
+.
 
 12:30
-
-AUSVERKAUFT
-
-13:15
 
 .
 
 [TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
+
+[TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+
+[TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
