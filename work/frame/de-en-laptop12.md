@@ -18,7 +18,7 @@ Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for e
 
 [Resources and Guides](?tab=resources-and-guides)
 
-[Pre-order Now](/products/laptop12-diy-intel-13gen/configuration/new)
+[Pre-order now](/products/laptop12-diy-intel-13gen/configuration/new)
 
 ###### Super flexible computer  ######
 
@@ -149,7 +149,7 @@ The choice is yours.
 
 Available pre-built with Windows 11 or assemble it yourself with DIY Edition and choose your preferred OS, including Linux.
 
-[](/de/en/laptop12#emails-signup)
+[](/de/en/products/laptop12-intel-13gen/configuration/new)
 
  Great for Linux & Windows
 
@@ -157,9 +157,9 @@ Available pre-built with Windows 11 or assemble it yourself with DIY Edition and
 
 Bring your own memory, storage, and operating system, including Linux, and build it yourself.
 
-[Get notified](/de/en/laptop12#emails-signup)
+[Pre-order](/de/en/products/laptop12-intel-13gen/configuration/new)
 
-[](/de/en/laptop12#emails-signup)
+[](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
 
  Great for Windows
 
@@ -167,7 +167,7 @@ Bring your own memory, storage, and operating system, including Linux, and build
 
 Ready to go out of the box with Windows 11. Easy to upgrade if you ever need more in the future.
 
-[Get notified](/de/en/laptop12#emails-signup)
+[Pre-order](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
 
 ### Planning a volume purchase? ###
 
@@ -790,4 +790,4 @@ Volume ordering and support for businesses and schools.
 
 [Connect with the Business team](https://frame.work/framework-for-business#contact-us)
 
-[Pre-order Now](/products/laptop12-diy-intel-13gen/configuration/new)
+[Pre-order now](/products/laptop12-diy-intel-13gen/configuration/new)
