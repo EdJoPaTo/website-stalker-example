@@ -1,10 +1,8 @@
 Hamburg
 
-### 05.-06.04.2025 ###
+### 11.-12.04.2026 ###
 
-[TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
-
-[Booklet & Strecke](https://www.megamarsch.de/hamburg)
+[TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 die HAFENSTADT im Norden
 ==========
