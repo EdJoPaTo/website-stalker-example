@@ -421,7 +421,9 @@ Easy to repair with replacement parts available in the Framework Marketplace
 
 Warranty
 
-1 Year Framework Limited Warranty
+2 Year Limited Warranty for UK and EU
+
+3 Year Limited Warranty for Spain
 
 Release Year
 
@@ -607,7 +609,9 @@ Easy to repair with replacement parts available in the Framework Marketplace
 
 Warranty
 
-1 Year Framework Limited Warranty
+2 Year Limited Warranty for UK and EU
+
+3 Year Limited Warranty for Spain
 
 ### Framework Laptop 12 (13th Gen Intel® Core™) compatibility - details coming soon ###
 
