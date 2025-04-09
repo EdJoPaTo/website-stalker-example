@@ -75,19 +75,73 @@ Close
 
   6-core/12-thread, up to 4.8GHz
 
-   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 5  Sold Out  Batch 6  Ships Q2 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 5  Ships May - Sold Out  Batch 6  Ships Q2
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
 
 * Ryzen™ AI 7 350  Pre-order  €1,459
 
   8-core/16-thread, up to 5.0GHz
 
-   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 5  Sold Out  Batch 6  Ships Q2 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 5  Ships May - Sold Out  Batch 6  Ships Q2
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
 
 * Ryzen™ AI 9 HX 370  Pre-order  €1,939
 
   12-core/24-thread, up to 5.1GHz
 
-   Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 5  Sold Out  Batch 6  Ships Q2 Past Batches  Batch 1  Sold Out  Batch 2  Sold Out  Batch 3  Sold Out  Batch 4  Ships May Past Batches
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 5  Ships May - Sold Out  Batch 6  Ships Q2
+
+  All Batches
+
+   Batch 1  Ships April - Sold Out  Batch 2  Ships April - Sold Out  Batch 3  Ships May - Sold Out  Batch 4  Ships May
+
+  All Batches
 
 **Display**
 
