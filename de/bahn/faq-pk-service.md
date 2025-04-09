@@ -6039,7 +6039,7 @@ Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "
  Mein Zug ist verspätet, wie kann ich in der App eine alternative Verbindung auswählen?
 ----------
 
-Wenn es zu Abweichungen auf Ihrer Reise kommt, können Sie in den Reisedetails bzw. Verbindungsdetails Ihrer gebuchten oder gemerkten Reise unter "Weitere Aktionen" "Alternativen suchen". Ihnen werden dann weitere Verbindungen zu Ihrem Ziel angezeigt, deren Reiseplan Sie übernehmen können. Wenn Ihre Reise bereits begonnen hat, wird der Standort Ihres Zuges bei der Suche berücksichtigt, so dass Ihnen alternative Verbindungen ab dem nächsten Halt Ihres Zuges angezeigt werden.
+Wenn es zu Abweichungen auf Ihrer Reise kommt, können Sie in den Reisedetails bzw. Verbindungsdetails Ihrer gebuchten oder gemerkten Reise unter "Weitere Aktionen" "Alternativen suchen". Ihnen werden dann weitere Verbindungen zu Ihrem Ziel angezeigt, deren Reiseplan Sie übernehmen können.
 
 Wichtig: Wenn Sie eine alternative Verbindung auswählen, behalten Sie Ihr ursprüngliches Ticket. Es werden ausschließlich die angezeigten Informationen im Reiseplan und die Benachrichtigungen zur Reise angepasst. Bitte prüfen Sie vorher, ob Ihr Ticket für die ausgewählte Alternative gültig ist.
 
