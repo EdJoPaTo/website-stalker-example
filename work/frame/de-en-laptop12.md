@@ -1,6 +1,6 @@
-### Framework Laptop 12 pre-orders begin on April 9th. Join the Framework Newsletter to learn more. ###
+### Framework Laptop 12 pre-orders for all regions except the US will open on April 9th. Pre-orders for US customers are currently delayed. Join the Framework Newsletter to learn more. ###
 
-Framework Laptop 12 pre-orders begin on April 9th. Join the Framework Newsletter to learn more.
+Framework Laptop 12 pre-orders for all regions except the US will open on April 9th. Pre-orders for US customers are currently delayed. Join the Framework Newsletter to learn more.
 ----------
 
  Submit
