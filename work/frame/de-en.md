@@ -1,8 +1,18 @@
-### Framework Desktop is a big computer made mini. ###
+### Computers shouldn't be boring.  ###
+
+Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
+
+### Computers shouldn't be boring.  ###
+
+Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
+
+[Pre-order Pre-order](/de/en/products/laptop12-diy-intel-13gen/configuration/new) [Learn more Learn more](/de/en/laptop12)
+
+### Framework Desktop is a big computer made mini.  ###
 
 Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
-### Framework Desktop is a big computer made mini. ###
+### Framework Desktop is a big computer made mini.  ###
 
 Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
@@ -24,20 +34,6 @@ AMD-powered with modular, upgradeable graphics and fully customizable input.
 
 [Learn more](/products/laptop16-diy-amd-7040)
 
-[Pre-orders open April 9th]
-
-### Framework Laptop 12 ###
-
-Computers shouldn’t be boring.
-
-[Pre-orders open April 9th]
-
-### Framework Laptop 12 ###
-
-Computers shouldn’t be boring.
-
-[Learn more Learn more](/de/en/laptop12)
-
 Framework Marketplace
 ----------
 
@@ -54,25 +50,45 @@ working on with the Framework Newsletter. ###
 
 Monthly-ish
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
+```
 Let’s fix 🪛 Consumer Electronics.
+```
 
 The Consumer Electronics industry is broken. We’re here to fix it. We build high-performance products that are easy to repair, upgrade, and customize, so you can use them for as long as you'd like.
 
