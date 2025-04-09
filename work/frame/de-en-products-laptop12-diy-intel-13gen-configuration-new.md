@@ -93,27 +93,27 @@ Batch 0 - Sage/Bubblegum/Lavender - Ships priority in July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
@@ -137,27 +137,27 @@ Batch 0 - Sage/Bubblegum/Lavender - Ships priority in July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
-   Batch 1 - Sage/Bubblegum/Lavender  Ships July  Batch 2  Ships July  Batch 3  Ships July
+   Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July  Batch 3  Ships July
 
   All Batches
 
