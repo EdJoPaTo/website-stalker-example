@@ -281,7 +281,7 @@ sites:
       - https://frame.work/de/en/laptop13
       - https://frame.work/de/en/linux
       - https://frame.work/de/en/products/desktop-diy-amd-aimax300/configuration/new
-      - https://frame.work/de/en/products/laptop-diy-13-gen-amd/configuration/new
+      - https://frame.work/de/en/products/laptop12-diy-intel-13gen/configuration/new
       - https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new
     editors:
       - css_select: main
