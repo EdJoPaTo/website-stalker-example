@@ -72,7 +72,7 @@ You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locatio
 High quality Cloud – unbeatable prices
 ----------
 
-Pay only for the hours you use, if you have a server for less than a month. No minimum contract period required!
+Pay only for the hours you use if you have a server for less than a month. No minimum contract period required!
 
  Shared vCPU  Intel®
 
@@ -82,13 +82,13 @@ Pay only for the hours you use, if you have a server for less than a month. No m
 
  Dedicated vCPU
 
-Best price-performance ratio with Intel® Xeon® Gold.
+Best price-performance ratio with Intel® Xeon® Gold
 
 VPS with AMD EPYC™ 7002 series processors.
 
-Efficient Arm64 architecture with Ampere® Altra® processors.
+Efficient Arm64 architecture with Ampere® Altra® processors
 
-Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 processors.
+Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 processors
 
  Location
 
@@ -867,9 +867,12 @@ Frequently Asked Questions
 
 * **Do you plan to add x feature?/Will you add more features?**
 
-  We started Hetzner Cloud with the minimal feature set we think is necessary to enter the market. However we intend to continually add new features and services. We have designed our internal development methods and systems to allow us to add more features.
+  We want to keep adding new features and services and are always interested in hearing from you on how we can improve our product! There are several ways you can provide us with product feedback or feature requests:
 
-  Unfortunately we cannot provide you with a precise roadmap of the things we are working on. However you can stay up to date by following us on Twitter at [https://twitter.com/hetzner\_online](https://twitter.com/hetzner_online)
+  * Via our forum: please post your request in the [Hetzner Cloud Board](https://forum.hetzner.com/index.php?board/117-hetzner-cloud/)
+  * Via email: send us your ideas to [cloud-feedback@hetzner.com](mailto:cloud-feedback@hetzner.com).
+
+  Unfortunately, we cannot give you a detailed roadmap of what we are working on. However, you can keep up to date by following us on our social media channels.
 
 * **Will you add additional locations in different geographic regions?**
 
