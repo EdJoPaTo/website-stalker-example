@@ -283,8 +283,8 @@ Close
 
  Batch Number  Configure to see batch
 
-* Power Adapter - 60W - UK +€49
 * Power Adapter - 60W - EU +€49
+* Power Adapter - 60W - UK +€49
 * None (bring your own)
 
  Expansion Cards

@@ -74,14 +74,14 @@ Hard to break.
 
 We overmolded shock-absorbing TPU over plastic with an inner metal structure to meet MIL-STD-810 durability standards.
 
-To ensure this laptop will last we dropped it from 48” onto plywood on a steel surface, pressed the power button 20,000 times, and tapped the touch screen 1,000,000 times. We also ran a bunch of other tests to ensure resistance against drops, bumps, vibrations, and at least some parts of the great outdoors.
+To ensure this laptop will last, we dropped it from 48" onto plywood, pressed the power button 20,000 times, and tapped the touch screen 1,000,000 times. We also ran a bunch of other tests to ensure resistance against drops, bumps, vibrations, and at least some parts of the great outdoors.
 
 Hard to break.
 ----------
 
 We overmolded shock-absorbing TPU over plastic with an inner metal structure to meet MIL-STD-810 durability standards.
 
-To ensure this laptop will last we dropped it from 48” onto plywood on a steel surface, pressed the power button 20,000 times, and tapped the touch screen 1,000,000 times. We also ran a bunch of other tests to ensure resistance against drops, bumps, vibrations, and at least some parts of the great outdoors.
+To ensure this laptop will last, we dropped it from 48" onto plywood, pressed the power button 20,000 times, and tapped the touch screen 1,000,000 times. We also ran a bunch of other tests to ensure resistance against drops, bumps, vibrations, and at least some parts of the great outdoors.
 
 Fits in your pocket!
 ----------
