@@ -69,7 +69,7 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/eventshirts-2025)
 
-  [### Eventshirts 2025 ### Preis39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
+  [### Eventshirts 2025 // 50KM ### Preis39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
 
   In den Warenkorb
 
