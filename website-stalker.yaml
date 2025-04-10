@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://github.com/EdJoPaTo/website-stalker/releases/latest/download/website-stalker-schema.json
+#
 # This is an example config
 # The filename has to be `website-stalker.yaml`
 # and it has to be in the working directory where you run website-stalker.
@@ -349,12 +351,9 @@ sites:
     editors:
       - css_select: .module--faqs__content
       - css_remove: .faq__content__footer__feedback
-      - regex_replace:
-          pattern: "<button"
-          replace: "<h4"
-      - regex_replace:
-          pattern: "</button"
-          replace: "</h4"
+      - css_tag_replace:
+          selector: button
+          replace: h4
       - html_markdownify
   - url: https://www.wetell.de/spotlight/
     editors:
@@ -447,8 +446,17 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
+  - url: https://kb.shelly.cloud/knowledge-base/devices
+    editors:
+      - css_select: main
+      - css_remove: style, svg, figure, img, .breadcrumbs, .no-print, .close-button
+      - css_flatten: details, summary a
+      - css_tag_replace:
+          selector: summary
+          replace: h2
+      - html_url_canonicalize
+      - html_markdownify
   - url:
-      - https://kb.shelly.cloud/knowledge-base/devices
       - https://kb.shelly.cloud/knowledge-base/shelly-2-5
       - https://kb.shelly.cloud/knowledge-base/shelly-plug-s
       - https://kb.shelly.cloud/knowledge-base/shelly-plug-s-mtr-gen3
@@ -456,13 +464,6 @@ sites:
     editors:
       - css_select: main
       - css_remove: style, svg, figure, img, .breadcrumbs, .no-print, .close-button
-      - css_flatten: details, summary a
-      - regex_replace:
-          pattern: "<summary "
-          replace: "<h2 "
-      - regex_replace:
-          pattern: </summary>
-          replace: </h2>
       - html_url_canonicalize
       - regex_replace:
           pattern: \?inst-v=[a-f\d-]+
