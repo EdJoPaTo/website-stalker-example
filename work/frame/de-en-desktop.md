@@ -489,7 +489,7 @@ Screwdriver
 
 Regulatory
 
-⚠️ WARNING: This product can expose you to chemicals including Nickel (Metallic), which is known to the State of California to cause cancer, and Bisphenol A (BPA), which is known to the State of California to cause birth defects or other reproductive harm. For more information go to <www.P65Warnings.ca.gov>
+⚠️ WARNING: This product can expose you to chemicals including Nickel (Metallic), which is known to the State of California to cause cancer, and Bisphenol A (BPA), which is known to the State of California to cause birth defects or other reproductive harm. For more information go to [www.P65Warnings.ca.gov](https://www.p65warnings.ca.gov/)
 
 Repairability
 
