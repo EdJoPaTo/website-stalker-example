@@ -29,12 +29,7 @@ ab 18:00 Uhr (die genaue Startzeit steht auf Deinem Ticket)​
 ÖFFNUNGSZEITEN:
 
 Die Öffnungszeiten der Stationen und des Ziels richten sich nach einer Durchschnitts-geschwindigkeit von
-4,2km/h - 6km/h
-
-​
-
-PRE-CHECKIN:
-TBA
+4,2km/h - 6km/h​
 
 ### ORT ###
 
