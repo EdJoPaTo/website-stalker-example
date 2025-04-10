@@ -118,7 +118,7 @@ Supports Wi-Fi 6E, including 2.4GHz, 5GHz, and 6GHz network bands, with an upgra
 
 [Learn more](/laptop12?tab=specs)
 
- Features that put you first.
+ Features that put you first.
 
  Expansion Cards
 
