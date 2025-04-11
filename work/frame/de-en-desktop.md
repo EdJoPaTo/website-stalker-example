@@ -121,9 +121,6 @@ Run legit, state-of-the-art AI models like Llama 70B right on your desk with up 
 Fun-sized form factor.
 ----------
 
-Fun-sized form factor.
-----------
-
 Small enough for a low-key desk set-up.
 
 Portable enough for your next LAN party.
