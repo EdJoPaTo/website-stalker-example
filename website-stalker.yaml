@@ -128,6 +128,18 @@ sites:
       - html_prettify
 
   - url:
+      - https://irrlicht-interactive.de/
+      - https://irrlicht-interactive.de/kollektiv/
+      - https://irrlicht-interactive.de/kreation/
+      - https://irrlicht-interactive.de/projekte/
+      - https://irrlicht-interactive.de/technik/
+    editors:
+      - css_select: body
+      - css_remove: "#custom-phone-grid"
+      - css_remove: style, script, img, video
+      - html_markdownify
+
+  - url:
       - https://www.netcup.com/de/deals
       - https://www.netcup.com/de/domains/domain-kaufen
       - https://www.netcup.com/de/server/arm-server
