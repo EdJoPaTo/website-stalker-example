@@ -1581,8 +1581,6 @@ Was kann ich in diesem Fall tun?
 * Haben Sie die Benachrichtigung vor dem 1. Geltungstag des Tickets erhalten? Dann können Sie Ihr Ticket auch umtauschen oder stornieren. Es gelten die Umtausch- und Stornierungsbedingungen.
 * Nutzen Sie eine Fahrkarte des Nahverkehrs? Dann können Sie jede andere Verbindung der gleichen Art (z.B. RB/RE) auf der gewählten Strecke nutzen.
 
-Bei Fragen zu Ihrer Buchung können Sie sich auch an unser Servicecenter wenden: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
-
 * [Informationen zu den Fahrgastrechten Informationen zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 * [Informationen Umtausch- und Stornierungsbedingungen Informationen Umtausch- und Stornierungsbedingungen](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
