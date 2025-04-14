@@ -141,7 +141,7 @@ Not available in your country
 
 [Eve Energy](/en/eve-energy)
 
- Smart plug
+ Smart Plug & Power Meter
 
  Learn more
 
@@ -190,7 +190,7 @@ Not available in your country
 
 [Eve Energy](/en/eve-energy)
 
- Smart plug
+ Smart Plug & Power Meter
 
 * Switch your lights and appliances on and off using your voice or an app.
 * Control your appliances on the go or based on presence.
@@ -778,7 +778,7 @@ Not available in your country
 
 [Eve Energy](/en/eve-energy)
 
- Smart plug
+ Smart Plug & Power Meter
 
  Learn more
 
@@ -827,7 +827,7 @@ Not available in your country
 
 [Eve Energy](/en/eve-energy)
 
- Smart plug
+ Smart Plug & Power Meter
 
 * Switch your lights and appliances on and off using your voice or an app.
 * Control your appliances on the go or based on presence.
