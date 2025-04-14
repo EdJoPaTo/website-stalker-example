@@ -812,7 +812,7 @@ Kinder bis inklusive 14 Jahre reisen im Fernverkehr kostenfrei mit einer Beglei
 
 Alle Reisenden zwischen 6 bis einschließlich 18 Jahre können die Jugend BahnCard erwerben. Beim Kauf der Jugend BahnCard wird anhand des Geburtsdatums geprüft, ob du berechtigt bist, die Jugend BahnCard zu erwerben.
 
-Bitte führen immer einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit. Bei Kunden unter 16 Jahren ist kein Lichtbildausweis erforderlich.
+Bitte führe immer einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit. Bei Kunden unter 16 Jahren ist kein Lichtbildausweis erforderlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-jugend-bahncard-erwerben)
 
