@@ -102,7 +102,7 @@ Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft*
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
 ----------
 
-Die Tickets können bis zu **6 Monate im Voraus** (jeweils ab dem Fahrplanwechsel im Juni und Dezember) bis kurz vor Abfahrt gebucht werden.
+Die Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
 
 Dies gilt für Züge nach:
 
@@ -115,7 +115,7 @@ Dies gilt für Züge nach:
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
 ----------
 
-Die Tickets können bis zu **12 Monate im Voraus** bis kurz vor Abfahrt gebucht werden.
+Die Tickets können bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
 
 Dies gilt für Züge nach:
 
