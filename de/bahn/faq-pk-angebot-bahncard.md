@@ -200,8 +200,9 @@ Die digitale BahnCard ist ab dem gewünschten ersten Geltungstag gültig und nut
  Ich tue mich mit der Umstellung auf die digitale BahnCard sehr schwer. Wohin kann ich mich wenden ?
 ----------
 
-Unsere Berater vor Ort in den DB Reisezentren sowie im BahnCard Service sind umfassend geschult. Sie unterstützen Sie gerne dabei, die digitale BahnCard im DB Navigator zu nutzen. Die DB Reisezentren stehen ebenso wie der BahnCard Service helfend zur Seite, bei Bedarf auch beim Ausdrucken des Ersatzdokuments als Alternative zur digitalen BahnCard.
-Zudem erhalten Sie in den DB Reisezentren und DB Agenturen wie gewohnt eine vorläufige BahnCard als Papierausdruck. Diese hat eine Geltungsdauer von 3 Monaten und dient bei unmittelbarem Reiseantritt als Nachweis im Zug.
+Unsere Mitarbeitenden in den DB Reisezentren sowie im BahnCard Service helfen Ihnen gerne, die digitale BahnCard in der App DB Navigator oder auf bahn.de zu nutzen. Bei Bedarf helfen sie Ihnen auch beim Ausdrucken des Ersatzdokuments als Alternative zur digitalen BahnCard.
+
+In den DB Reisezentren oder DB Agenturen erhalten Sie auch wie gewohnt eine vorläufige BahnCard als Papierausdruck. Diese ist 3 Monate gültig und dient Ihnen bei direktem Reiseantritt als Nachweis im Zug.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umstellung-digitale-bahncard)
 
