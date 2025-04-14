@@ -1,10 +1,10 @@
 ### Framework Desktop is a big computer made mini. ###
 
-**Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.**
+Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
 ### Framework Desktop is a big computer made mini. ###
 
-**Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.**
+Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
 [Pre-order now Pre-order now](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
 
