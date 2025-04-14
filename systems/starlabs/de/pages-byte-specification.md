@@ -4,8 +4,8 @@ Chassis
 
  Processor
 
- 1.00GHz quad-core Intel Alder Lake N305
- Turbo Boost up to 3.80GHz, with 6MB Intel® Smart Cache
+ 1.00GHz quad-core Intel Alder Lake N355
+ Turbo Boost up to 3.90GHz, with 6MB Intel® Smart Cache
 
  8 Cores
  8 Threads
@@ -70,13 +70,6 @@ Configurable to:
 
  Memory
 
- 8GB of 3200MHz DDR4 memory
-
- Form Factor: SO-DIMM
- Type: DDR4
- Configuration: 1 × 8GB
-
-Configurable to:
  16GB of 3200MHz DDR4 memory
 
  Form Factor: SO-DIMM
@@ -149,10 +142,10 @@ Back
 
  Power
 
- 36W DC Power Adapter
+ 84W DC Power Adapter
 
  Technology: Fixed Voltage
- DC Input: 12V 3A 5.5mm
+ DC Input: 19V 4.42A 5.5mm
 
  Operating Requirements
 
@@ -178,18 +171,13 @@ pounds)
 
  Operating System
 
- Ubuntu 22.04 LTS (64-bit) or later
- elementary OS 6.1 (64-bit) or later
- Linux Mint 21 (64-bit) or later
- Manjaro 21.3.7 (64-bit) or later
- MX Linux 21.1 (64-bit) or later
- Zorin OS 16.1 (64-bit) or later
+ Distributions using Linux 6.8 or later
  Windows 11 22H1 (64-bit) or later
 
 What's in the Box
 
  Byte
- 36W DC Power Adapter
+ 84W DC Power Adapter
 
  Quick Start Guide
 

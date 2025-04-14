@@ -88,11 +88,6 @@ Fits in your pocket!
 
 Ok fine, it doesn't. But it does fit in most places you'd want a laptop—your lap, a backpack, a tiny desk, or an airplane tray.
 
-Fits in your pocket!
-----------
-
-Ok fine, it doesn't. But it does fit in most places you'd want a laptop—your lap, a backpack, a tiny desk, or an airplane tray.
-
 It’s a real computer.
 ----------
 
