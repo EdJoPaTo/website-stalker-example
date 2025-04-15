@@ -42,7 +42,6 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Plus 2PM UL](https://kb.shelly.cloud/knowledge-base/shelly-plus-2pm-ul)
 * [Shelly Plus i4](https://kb.shelly.cloud/knowledge-base/shelly-plus-i4)
 * [Shelly Plus i4DC](https://kb.shelly.cloud/knowledge-base/shelly-plus-i4dc)
-* [Shelly Plus Add-on](https://kb.shelly.cloud/knowledge-base/shelly-plus-add-on)
 * [Shelly Plus H&T](https://kb.shelly.cloud/knowledge-base/shelly-plus-h-t)
 * [Shelly Plus Plug IT](https://kb.shelly.cloud/knowledge-base/shelly-plus-plug-it)
 * [Shelly Plus Plug S](https://kb.shelly.cloud/knowledge-base/shelly-plus-plug-s-1)
@@ -169,3 +168,9 @@ Learn everything you need about Shelly devices – features, applications and sp
 ----------
 
 * [Shelly AZ Plug](https://kb.shelly.cloud/knowledge-base/shelly-az-plug)
+
+ Add-ons
+----------
+
+* [Shelly LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-lora-add-on)
+* [Shelly Plus Add-on](https://kb.shelly.cloud/knowledge-base/shelly-plus-add-on)
