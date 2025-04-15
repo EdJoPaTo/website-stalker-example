@@ -60,6 +60,8 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly 1 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-1-gen3)
 * [Shelly 1PM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen3)
 * [Shelly 2PM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen3)
+* [Shelly 1L Gen3](https://kb.shelly.cloud/knowledge-base/shelly-1l-gen3)
+* [Shelly 2L Gen3](https://kb.shelly.cloud/knowledge-base/shelly-2l-gen3)
 * [Shelly i4 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-i4-gen3)
 * [Shelly H&T Gen3](https://kb.shelly.cloud/knowledge-base/shelly-h-t-gen3)
 * [Shelly Dimmer 0/1-10V PM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-0-1-10v-pm-gen3)
