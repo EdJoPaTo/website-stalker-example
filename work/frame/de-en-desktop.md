@@ -1,8 +1,14 @@
-### Framework Desktop is a big computer made mini. ###
+Framework Desktop
+is a big computer
+made mini.
+----------
 
 Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
-### Framework Desktop is a big computer made mini. ###
+Framework Desktop
+is a big computer
+made mini.
+----------
 
 Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
@@ -21,11 +27,6 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 [Resources and Guides](?tab=resources-and-guides)
 
 [Pre-order now](/products/desktop-diy-amd-aimax300/configuration/new)
-
-Larger-than-life performance, powered by Ryzen™ AI Max.
-----------
-
-How’d we do it? With a novel highly-integrated processor from AMD that let us build a simple, quiet, tiny box with power far beyond its size.
 
 Larger-than-life performance, powered by Ryzen™ AI Max.
 ----------
