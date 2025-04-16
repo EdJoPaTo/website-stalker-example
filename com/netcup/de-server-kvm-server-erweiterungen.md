@@ -20,38 +20,24 @@ Zusätzliche IPv4-AdresseZusätzliche IPv4-Adresse, die auf einen Root-Server, S
 
 Failover IPv4-AdresseIPv4-Adresse, die auf mehreren Root-Server, Storage-Server oder VPS genutzt werden kann.
 
-[pro Monat inkl. 0% MwSt. 4,20 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/failover-ipv4)
-
  Zusätzliches /64 IPv6 SubnetZusätzliches /64 IPv6-Subnet, das auf einen Root-Server, Storage-Server oder VPS gebunden werden kann.
 
 [pro Monat inkl. 0% MwSt. 0,84 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/zusaetzliches-ipv6-subnet)
 
 Failover IPv6-SubnetIPv6-Subnet, das auf mehreren Root-Servern, Storage-Server oder VPS genutzt werden kann.
 
-[pro Monat inkl. 0% MwSt. 4,20 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/failover-ipv6-subnet)
-
 Cloud vLAN Free 100 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
-
-[pro Monat inkl. 0% MwSt. 0,00 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-free)
 
 Cloud vLAN Starter 250 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
-[pro Monat inkl. 0% MwSt. 4,19 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-starter)
-
 Cloud vLAN Medium 500 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
-[pro Monat inkl. 0% MwSt. 6,71 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-medium)
-
 Cloud vLAN 2,5 Gbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
-
-[pro Monat inkl. 0% MwSt. 17,23 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-2-5-gbits)
 
 Service Level Erweiterungen
 ----------
 
 Service Level A+99,9% garantierte Mindestverfügbarkeit, Sofortige Reaktionszeit uvm...
-
-[pro Monat inkl. 0% MwSt. 1,67 € Jetzt buchen! \>](https://www.netcup.com/de/server/root-server/root-server-service-level-a)
 
 **Tipp: Hohe Verfügbarkeit**
 ----------

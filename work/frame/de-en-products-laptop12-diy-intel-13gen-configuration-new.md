@@ -470,8 +470,11 @@ Close
 
 Stylus will be available in multiple colors. Coming in Q3.
 
-* Stylus
-* None (bring your own)
+ Stylus
+
+0123456
+
+(Out of stock)  +
 
 Hack The World
 ----------

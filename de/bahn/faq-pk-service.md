@@ -102,20 +102,25 @@ Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft*
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
 ----------
 
-Die Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
+Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
 
 Dies gilt für Züge nach:
 
 * Dänemark
 * Italien
+* Kroatien
 * Österreich (auch via Tschechien)
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-6-monate-bis-abfahrt)
 
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
 ----------
 
-Die Tickets können bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
+Tickets können bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
 Dies gilt für Züge nach:
 
@@ -129,12 +134,14 @@ Dies gilt für Züge nach:
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
 ----------
 
-Die Tickets können bis zu **6 Monate im Voraus** (jeweils ab dem Fahrplanwechsel im Juni und Dezember) bis einen Tag vor Reisebeginn gebucht werden.
+Tickets können bis zu **6 Monate im Voraus** und bis einen Tag vor Abfahrt gebucht werden.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
 Dies gilt für Züge nach:
 
 * Frankreich
-* Kroatien
+* Polen
 * Slowakei
 * Slowenien
 * Tschechien
@@ -194,13 +201,6 @@ Nein, mit einem (Super) Sparpreis Europa-Ticket haben Sie **keinen Zutritt zur D
 Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ticket, um bei geschlossener Bahnsteigsperre den Bahnhof zu verlassen oder zu betreten. Einfach den viereckigen Barcode an die beleuchtete Fläche vor der Sperre halten und schon öffnet sich der Durchgang. Falls Sie Ihr Online-Ticket auf einem mobilen Endgerät vorzeigen und in diesem Endgerät Ihre Kreditkarte hinterlegt haben, empfehlen wir, NFC zu deaktivieren, um eine unbeabsichtigte Abbuchung zu vermeiden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnsteigsperren-sparpreis-europa-niederlande)
-
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa Polen kaufen?
-----------
-
-Sie können Tickets **2 Monate im Voraus** bis einen Tag vor Abfahrt buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-polen)
 
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa Schweden kaufen?
 ----------
@@ -658,7 +658,11 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wie lange im Voraus kann ich den Super Sparpreis Europa Gruppe kaufen?
 ----------
 
-Der Super Sparpreis Europa Gruppe ist **bis zu 6 Monate im Voraus** und bis kurz vor Abfahrt in allen Verkaufsstellen buchbar (**Belgien, Niederlande, Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus).
+Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien, Niederlande, Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus.)
+
+Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt buchen.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
 [Günstigsten Preis finden Weitere Informationen: Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
@@ -717,8 +721,9 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wie lange im Voraus kann ich den Sparpreis Europa Gruppe kaufen?
 ----------
 
-Sie können online bis zu 6 Monate im Voraus und bis kurz vor Abfahrt buchen (**Belgien**, **Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus).
-Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 Monate im Voraus und bis kurz vor Abfahrt buchen.
+Tickets können online bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien**, **Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus). Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 Monate im Voraus und bis kurz vor Abfahrt buchen.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
 [Günstigsten Preis finden Weitere Informationen: Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
