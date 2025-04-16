@@ -465,6 +465,14 @@ Close
 
 (Out of stock)  +€140
 
+ Add-ons
+----------
+
+Stylus will be available in multiple colors. Coming in Q3.
+
+* Stylus
+* None (bring your own)
+
 Hack The World
 ----------
 
