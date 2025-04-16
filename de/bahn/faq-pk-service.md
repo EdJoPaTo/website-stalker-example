@@ -111,6 +111,7 @@ Dies gilt für Züge nach:
 * Kroatien
 * Österreich (auch via Tschechien)
 * Slowakei
+* Tschechien
 * Ungarn
 
 Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
@@ -146,7 +147,6 @@ Dies gilt für Züge nach:
 * Polen
 * Schweden
 * Slowenien
-* Tschechien
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-6-monate-bis-1-tag-vorher)
 
@@ -715,7 +715,9 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wie lange im Voraus kann ich den Sparpreis Europa Gruppe kaufen?
 ----------
 
-Tickets können online bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien**, **Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus). Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 Monate im Voraus und bis kurz vor Abfahrt buchen.
+Tickets können online bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien**, **Luxemburg, Niederlande und Schweiz bis zu 12 Monate** im Voraus).
+
+Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 Monate im Voraus und bis kurz vor Abfahrt buchen.
 
 Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
