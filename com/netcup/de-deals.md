@@ -8,9 +8,9 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 Osteraktion bei netcup
 ----------
 
-Vom 20. bis 26. April erwarten dich täglich frische Deals aus verschiedenen Produktkategorien – verfügbar immer von 10 Uhr bis 10 Uhr MEZ am Folgetag. Die regulären Monatsaktionen sind ab Mai wieder für dich da.
+Vom **20. bis 26. April** erwarten dich **täglich frische Deals aus verschiedenen Produktkategorien** – verfügbar **immer von 10 Uhr bis 10 Uhr MEZ** am Folgetag. Die regulären Monatsaktionen sind ab Mai wieder für dich da.
 
-[Mehr Infos](https://www.netcup.com/de/deals/osteraktion-startphase)
+[Mehr Infos](https://www.netcup.com/de/deals/osteraktion)
 
 Bleibe auf dem Laufenden
 ----------
@@ -19,19 +19,35 @@ Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media,
 
 * [Instagram](https://www.instagram.com/netcup.official)
 
+  Instagram
+
 * [Mastodon](https://netcup.cafe/@netcup)
+
+  Mastodon
 
 * [Facebook](https://www.facebook.com/netcup/)
 
+  Facebook
+
 * [X](https://x.com/netcup)
+
+  X
 
 * [LinkedIn](https://www.linkedin.com/company/netcup)
 
+  LinkedIn
+
 * [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)
+
+  WhatsApp
 
 * [Telegram](https://t.me/netcupoffical)
 
-* [RSS](https://www.netcup.com/special-offers.xml?locale=de)
+  Telegram
+
+* [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de)
+
+  RSS-Feed
 
 Wieso netcup?
 ----------

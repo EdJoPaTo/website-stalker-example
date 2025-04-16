@@ -50,7 +50,7 @@ Browse our range
 
 [](/products/byte-copy)
 
-[Byte (Copy) Mini PC €4.689,79 Sold out](/products/byte-copy)
+[Byte (Copy) Mini PC €4.686,22 Sold out](/products/byte-copy)
 
 More than just a licence.
 
