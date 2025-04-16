@@ -48,10 +48,6 @@ Browse our range
 
 [StarFighter 16-inch LaptopEstimated dispatch in 3 - 5 months](/products/starfighter)
 
-[](/products/byte-copy)
-
-[Byte (Copy) Mini PC €4.686,22 Sold out](/products/byte-copy)
-
 More than just a licence.
 
  A machine you can craft to suit your workflow with our ever-evolving open-source code, that's upstreamed and tuned to perfection. Combined with our unbeatable support, the experience will exceed expectations.
