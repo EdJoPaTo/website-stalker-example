@@ -110,6 +110,8 @@ Dies gilt für Züge nach:
 * Italien
 * Kroatien
 * Österreich (auch via Tschechien)
+* Slowakei
+* Ungarn
 
 Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
@@ -142,10 +144,9 @@ Dies gilt für Züge nach:
 
 * Frankreich
 * Polen
-* Slowakei
+* Schweden
 * Slowenien
 * Tschechien
-* Ungarn
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-6-monate-bis-1-tag-vorher)
 
@@ -201,13 +202,6 @@ Nein, mit einem (Super) Sparpreis Europa-Ticket haben Sie **keinen Zutritt zur D
 Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ticket, um bei geschlossener Bahnsteigsperre den Bahnhof zu verlassen oder zu betreten. Einfach den viereckigen Barcode an die beleuchtete Fläche vor der Sperre halten und schon öffnet sich der Durchgang. Falls Sie Ihr Online-Ticket auf einem mobilen Endgerät vorzeigen und in diesem Endgerät Ihre Kreditkarte hinterlegt haben, empfehlen wir, NFC zu deaktivieren, um eine unbeabsichtigte Abbuchung zu vermeiden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnsteigsperren-sparpreis-europa-niederlande)
-
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa Schweden kaufen?
-----------
-
-Sie können Tickets **3 Monate im Voraus** bis einen Tag vor Abfahrt buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-schweden)
 
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa Slowenien kaufen?
 ----------
