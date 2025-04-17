@@ -386,15 +386,6 @@ Weitere Fragen und Antworten zum Deutschland-Ticket finden Sie in unseren FAQ.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-faq)
 
- Wo finde ich weitere Informationen zum Betrug mit Deutschland-Tickets im Internet?
-----------
-
-Informationen zu aktuellen Betrugsversuchen, und wie Sie sich davor schützen, finden Sie auf folgender Seite:
-
-* [Informationen zu Betrugsversuchen Zur Sonderkommunikation Phishing](https://www.bahn.de/info/sonderkommunikation-phishing)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-betrug)
-
  Kann ich das Deutschland-Ticket am DB Fahrkartenautomaten kaufen?
 ----------
 
