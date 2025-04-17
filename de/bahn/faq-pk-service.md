@@ -500,7 +500,9 @@ Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reser
  Wie weit im Voraus kann ich beim Flexpreis Europa reservierungspflichtige Züge buchen?
 ----------
 
-Die meisten Züge sind bis zu **6 Monate** vor dem Reisetag und bis kurz vor Abfahrt des Zuges buchbar. Im Vorfeld von Fahrplanwechseln oder wenn ausländische Züge gebucht werden, kann diese Zeit verkürzt sein.
+Je nach Land können Tickets bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
 [Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
