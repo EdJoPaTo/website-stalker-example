@@ -206,7 +206,11 @@ Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ti
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa Slowenien kaufen?
 ----------
 
-Die Tickets können bis zu **6 Monate im Voraus** (jeweils ab dem Fahrplanwechsel im Juni und Dezember) bis einen Tag vor Reisebeginn gebucht werden. Reservierungen ab Slowenien sind frühestens 3 Monate vor Abfahrt erhältlich.
+Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets für das nächste Jahr buchen.
+
+Reservierungen ab Slowenien sind frühestens 3 Monate vor Abfahrt erhältlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-slowenien)
 
