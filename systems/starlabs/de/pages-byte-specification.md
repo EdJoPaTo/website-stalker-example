@@ -8,7 +8,8 @@ Chassis
  Turbo Boost up to 3.90GHz, with 6MB Intel® Smart Cache
 
  8 Cores
- 8 Threads
+ 8
+Threads
  15W TDP
  35W PL2
 
@@ -74,7 +75,7 @@ Configurable to:
 
  Form Factor: SO-DIMM
  Type: DDR4
-Configuration: 1 × 16GB
+ Configuration: 1 × 16GB
 
 Configurable to:
  32GB of 3200MHz DDR4 memory
