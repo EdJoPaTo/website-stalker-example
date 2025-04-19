@@ -178,6 +178,12 @@ sites:
       - regex_replace:
           pattern: '\n\s+~\$ '
           replace: "\n~$ "
+  - url: https://www.hetzner.com/storage/object-storage/
+    editors:
+      - css_select: main
+      - css_remove: script, nav, picture, img, svg, *[slot^="usd"]
+      - html_url_canonicalize
+      - html_markdownify
   - url:
       - https://docs.hetzner.com/cloud/api/faq/
       - https://docs.hetzner.com/cloud/api/getting-started/using-api/
