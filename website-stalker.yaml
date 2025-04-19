@@ -168,7 +168,7 @@ sites:
       - https://www.hetzner.com/storage/storage-share/
     editors:
       - css_select: main
-      - css_remove: script, nav, picture, img, svg
+      - css_remove: script, nav, picture, img, svg, *[slot^="usd"]
       - css_flatten: a[href="https://konsoleh.hetzner.com/"]
       - css_tag_replace:
           selector: .cloud-table-name, .product-text-name

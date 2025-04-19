@@ -18,7 +18,7 @@ projects deserve.
 
  CX: Best price-performance ratio
 
-from 3.79 4.59
+from 3.79
 
  See all plans
 
@@ -26,7 +26,7 @@ from 3.79 4.59
 
  CPX: VPS based on AMD Epyc™
 
-from 4.35 5.09
+from 4.35
 
  See all plans
 
@@ -34,7 +34,7 @@ from 4.35 5.09
 
  CAX: Efficient Arm64 architecture
 
-from 3.79 4.59
+from 3.79
 
  See all plans
 
@@ -42,7 +42,7 @@ from 3.79 4.59
 
  CCX: Best for production workloads
 
-from 12.49 14.09
+from 12.49
 
  See all plans
 
@@ -67,7 +67,7 @@ Use these shared instances for development and test applications with low to med
 
 ×
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00$ 1.20 in the EU and US, and € 7.40$ 8.49 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
 High quality Cloud – unbeatable prices
 ----------
@@ -98,7 +98,7 @@ FSN1 NBG1 HEL1 HIL ASH SIN
 
  Primary IPv4 IPv6 only
 
-save 0.50 0.60
+save 0.50
 
  VCPU
 
@@ -110,7 +110,7 @@ save 0.50 0.60
 
 []()
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00$ 1.20 in the EU and US, and € 7.40$ 8.49 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
  IPv4
 
@@ -148,9 +148,9 @@ Monthly
 
 Monthly
 
-0.0060 0.0074 0.0052 0.0064 0.0060 0.0074 0.0052 0.0064
+0.0060 0.0052 0.0060 0.0052
 
-3.79 4.59 3.29 3.99 3.79 4.59 3.29 3.99  max.
+3.79 3.29 3.79 3.29  max.
 
  Server
 
@@ -178,9 +178,9 @@ Monthly
 
 Monthly
 
-0.0113 0.0127 0.0105 0.0117 0.0113 0.0127 0.0105 0.0117
+0.0113 0.0105 0.0113 0.0105
 
-6.80 7.59 6.3 6.99 6.80 7.59 6.3 6.99  max.
+6.80 6.3 6.80 6.3  max.
 
  Server
 
@@ -208,9 +208,9 @@ Monthly
 
 Monthly
 
-0.0273 0.0304 0.0265 0.0294 0.0273 0.0304 0.0265 0.0294
+0.0273 0.0265 0.0273 0.0265
 
-16.40 18.59 15.9 17.99 16.40 18.59 15.9 17.99  max.
+16.40 15.9 16.40 15.9  max.
 
  Server
 
@@ -238,9 +238,9 @@ Monthly
 
 Monthly
 
-0.0540 0.0611 0.0532 0.0601 0.0540 0.0611 0.0532 0.0601
+0.0540 0.0532 0.0540 0.0532
 
-32.40 36.09 31.9 35.49 32.40 36.09 31.9 35.49  max.
+32.40 31.9 32.40 31.9  max.
 
  Server
 
@@ -268,9 +268,9 @@ Monthly
 
 Monthly
 
-0.0071 0.0082 0.0063 0.0072 0.0080 0.0090 0.0072 0.008 0.0071 0.0082 0.0063 0.0072 0.0127 0.0146 0.0119 0.0136
+0.0071 0.0063 0.0080 0.0072 0.0071 0.0063 0.0127 0.0119
 
-4.35 5.09 3.85 4.49 4.99 5.59 4.49 4.99 4.35 5.09 3.85 4.49 7.90 9.09 7.4 8.49  max.
+4.35 3.85 4.99 4.49 4.35 3.85 7.90 7.4  max.
 
  Server
 
@@ -298,9 +298,9 @@ Monthly
 
 Monthly
 
-0.0120 0.0138 0.0112 0.0128 0.0153 0.0171 0.0145 0.0161 0.0120 0.0138 0.0112 0.0128 0.0234 0.0266 0.0226 0.0256
+0.0120 0.0112 0.0153 0.0145 0.0120 0.0112 0.0234 0.0226
 
-7.55 8.59 7.05 7.99 9.49 10.59 8.99 9.99 7.55 8.59 7.05 7.99 14.60 16.59 14.1 15.99  max.
+7.55 7.05 9.49 8.99 7.55 7.05 14.60 14.1  max.
 
  Server
 
@@ -328,9 +328,9 @@ Monthly
 
 Monthly
 
-0.0219 0.0250 0.0211 0.024 0.0265 0.0299 0.0257 0.0289 0.0219 0.0250 0.0211 0.024 0.0405 0.0459 0.0397 0.0449
+0.0219 0.0211 0.0265 0.0257 0.0219 0.0211 0.0405 0.0397
 
-13.60 15.59 13.1 14.99 16.49 18.59 15.99 17.99 13.60 15.59 13.1 14.99 25.30 28.59 24.8 27.99  max.
+13.60 13.1 16.49 15.99 13.60 13.1 25.30 24.8  max.
 
  Server
 
@@ -358,9 +358,9 @@ Monthly
 
 Monthly
 
-0.0417 0.0464 0.0409 0.0454 0.0489 0.0547 0.0481 0.0537 0.0691 0.0787 0.0683 0.0777 0.0417 0.0464 0.0409 0.0454
+0.0417 0.0409 0.0489 0.0481 0.0691 0.0683 0.0417 0.0409
 
-25.20 28.09 24.7 27.49 30.49 34.09 29.99 33.49 43.10 48.09 42.6 47.49 25.20 28.09 24.7 27.49  max.
+25.20 24.7 30.49 29.99 43.10 42.6 25.20 24.7  max.
 
  Server
 
@@ -388,9 +388,9 @@ Monthly
 
 Monthly
 
-0.0880 0.0979 0.0872 0.0969 0.0970 0.1084 0.0962 0.1074 0.0880 0.0979 0.0872 0.0969 0.1240 0.1380 0.1232 0.137
+0.0880 0.0872 0.0970 0.0962 0.0880 0.0872 0.1240 0.1232
 
-54.90 61.09 54.4 60.49 60.49 67.59 59.99 66.99 54.90 61.09 54.4 60.49 77.40 86.09 76.9 85.49  max.
+54.90 54.4 60.49 59.99 54.90 54.4 77.40 76.9  max.
 
  Server
 
@@ -418,9 +418,9 @@ Monthly
 
 Monthly
 
-0.0061 0.0074 0.0053 0.0064 0.0008 0.0010 0 0 0.0061 0.0074 0.0053 0.0064
+0.0061 0.0053 0.0008 0 0.0061 0.0053
 
-3.79 4.59 3.29 3.99 3.79 4.59 3.29 3.99  max.
+3.79 3.29 3.79 3.29  max.
 
  Server
 
@@ -448,9 +448,9 @@ Monthly
 
 Monthly
 
-0.0104 0.0122 0.0096 0.0112 0.0008 0.0010 0 0 0.0104 0.0122 0.0096 0.0112
+0.0104 0.0096 0.0008 0 0.0104 0.0096
 
-6.49 7.59 5.99 6.99 6.49 7.59 5.99 6.99  max.
+6.49 5.99 6.49 5.99  max.
 
  Server
 
@@ -478,9 +478,9 @@ Monthly
 
 Monthly
 
-0.0200 0.0226 0.0192 0.0216 0.0008 0.0010 0 0 0.0200 0.0226 0.0192 0.0216
+0.0200 0.0192 0.0008 0 0.0200 0.0192
 
-12.49 14.09 11.99 13.49 12.49 14.09 11.99 13.49  max.
+12.49 11.99 12.49 11.99  max.
 
  Server
 
@@ -508,9 +508,9 @@ Monthly
 
 Monthly
 
-0.0392 0.0443 0.0384 0.0433 0.0008 0.0010 0 0 0.0392 0.0443 0.0384 0.0433
+0.0392 0.0384 0.0008 0 0.0392 0.0384
 
-24.49 27.59 23.99 26.99 24.49 27.59 23.99 26.99  max.
+24.49 23.99 24.49 23.99  max.
 
  Server
 
@@ -538,9 +538,9 @@ Monthly
 
 Monthly
 
-0.0200 0.0226 0.0192 0.0216 0.0217 0.0243 0.0209 0.0233 0.0200 0.0226 0.0192 0.0216 0.0345 0.0386 0.0337 0.0376
+0.0200 0.0192 0.0217 0.0209 0.0200 0.0192 0.0345 0.0337
 
-12.49 14.09 11.99 13.49 13.49 15.09 12.99 14.49 12.49 14.09 11.99 13.49 21.50 24.09 21 23.49  max.
+12.49 11.99 13.49 12.99 12.49 11.99 21.50 21  max.
 
  Server
 
@@ -568,9 +568,9 @@ Monthly
 
 Monthly
 
-0.0392 0.0435 0.0384 0.0425 0.0425 0.0475 0.0417 0.0465 0.0639 0.0715 0.0631 0.0705 0.0392 0.0435 0.0384 0.0425
+0.0392 0.0384 0.0425 0.0417 0.0639 0.0631 0.0392 0.0384
 
-24.49 27.09 23.99 26.49 26.49 29.59 25.99 28.99 39.90 44.59 39.4 43.99 24.49 27.09 23.99 26.49  max.
+24.49 23.99 26.49 25.99 39.90 39.4 24.49 23.99  max.
 
  Server
 
@@ -598,9 +598,9 @@ Monthly
 
 Monthly
 
-0.0777 0.0867 0.0769 0.0857 0.0810 0.0900 0.0802 0.089 0.1200 0.1340 0.1192 0.133 0.0777 0.0867 0.0769 0.0857
+0.0777 0.0769 0.0810 0.0802 0.1200 0.1192 0.0777 0.0769
 
-48.49 54.09 47.99 53.49 50.49 56.09 49.99 55.49 74.90 83.59 74.4 82.99 48.49 54.09 47.99 53.49  max.
+48.49 47.99 50.49 49.99 74.90 74.4 48.49 47.99  max.
 
  Server
 
@@ -628,9 +628,9 @@ Monthly
 
 Monthly
 
-0.1546 0.1725 0.1538 0.1715 0.1611 0.1789 0.1603 0.1779 0.2204 0.2454 0.2196 0.2444 0.1546 0.1725 0.1538 0.1715
+0.1546 0.1538 0.1611 0.1603 0.2204 0.2196 0.1546 0.1538
 
-96.49 107.59 95.99 106.99 100.49 111.59 99.99 110.99 137.50 153.09 137 152.49 96.49 107.59 95.99 106.99  max.
+96.49 95.99 100.49 99.99 137.50 137 96.49 95.99  max.
 
  Server
 
@@ -658,9 +658,9 @@ Monthly
 
 Monthly
 
-0.3085 0.3431 0.3077 0.3421 0.3213 0.3568 0.3205 0.3558 0.3085 0.3431 0.3077 0.3421 0.4720 0.5242 0.4712 0.5232
+0.3085 0.3077 0.3213 0.3205 0.3085 0.3077 0.4720 0.4712
 
-192.49 214.09 191.99 213.49 200.49 222.59 199.99 221.99 192.49 214.09 191.99 213.49 294.50 327.09 294 326.49  max.
+192.49 191.99 200.49 199.99 192.49 191.99 294.50 294  max.
 
  Server
 
@@ -688,9 +688,9 @@ Monthly
 
 Monthly
 
-0.4623 0.5138 0.4615 0.5128 0.4816 0.5347 0.4808 0.5337 0.4623 0.5138 0.4615 0.5128 0.7732 0.8592 0.7724 0.8582
+0.4623 0.4615 0.4816 0.4808 0.4623 0.4615 0.7732 0.7724
 
-288.49 320.59 287.99 319.99 300.49 333.59 299.99 332.99 288.49 320.59 287.99 319.99 482.50 536.09 482 535.49  max.
+288.49 287.99 300.49 299.99 288.49 287.99 482.50 482  max.
 
 [Get started](https://console.hetzner.cloud/)
 
@@ -701,9 +701,9 @@ Monthly
 
 ###  Volumes  ###
 
-Expand your cloud instance with high-availability SSD block storage for € 0.044$ 0.0484 / GBper month.
+Expand your cloud instance with high-availability SSD block storage for € 0.044 / GBper month.
 
-0.0440 0.0500 max./mo  Billing on an hourly basis
+0.0440 max./mo  Billing on an hourly basis
 
 [Get started](https://console.hetzner.cloud/)
 
@@ -763,7 +763,7 @@ Our stateful Firewalls make it easy to secure your infrastructure at no addition
 
 Volumes offer highly available and reliable SSD storage for your cloud servers. You can expand each Volume to up to 10 TB at any time and you can connect them to your Hetzner cloud servers.
 
-0.0440 0.0500  / GB per Month
+0.0440  / GB per Month
 
 ### PERFORMANCE ###
 
@@ -777,7 +777,7 @@ There is a wide variety of features at your fingertips to help you manage your c
 
 With our Snapshot feature, you can make manual backups of your servers. You can use our Snapshots to restore your server to a saved image, use saved images to create new cloud servers, or transfer images during a project.
 
-0.0110 0.0130  / GB per Month
+0.0110  / GB per Month
 
 ### BACKUPS ###
 
@@ -795,7 +795,7 @@ Ubuntu, Debian, Fedora, and more – you have a wide variety of operating system
 
 ### TRAFFIC ###
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge 1$1.20 in the EU and US, and 7.4$8.49 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge 1 in the EU and US, and 7.4 in Singapore.
 
 ### APPS ###
 
@@ -816,7 +816,7 @@ GDPR compliancy for your Cloud. You can create a Data Processing Agreement (DPA)
 ALL FEATURES ALSO AVAILABLE VIA REST API
 ----------
 
-All of the Hetzner Cloud features are also available via a [REST API](https://docs.hetzner.cloud/) and a [CLI tool](https://github.com/hetznercloud/cli) for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50.00$ 50.00 . For more information, click [here](https://docs.hetzner.com/cloud/api/faq#do-you-sponsor-efforts-to-integrate-hetzner-cloud-into-open-source-libs).
+All of the Hetzner Cloud features are also available via a [REST API](https://docs.hetzner.cloud/) and a [CLI tool](https://github.com/hetznercloud/cli) for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50.00 . For more information, click [here](https://docs.hetzner.com/cloud/api/faq#do-you-sponsor-efforts-to-integrate-hetzner-cloud-into-open-source-libs).
 
 Curl
 

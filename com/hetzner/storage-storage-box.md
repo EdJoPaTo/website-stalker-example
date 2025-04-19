@@ -9,9 +9,9 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
 ###  BX11  ###
 
-3 4 20 00  max/mo.
+3 20  max/mo.
 
-0.0051 0.0064  /hr
+0.0051  /hr
 
 [Order](https://robot.hetzner.com/order/storage/product/1333/category/storage/culture/en_GB/country/OTHER)
 
@@ -19,15 +19,15 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
  once
 
-0.00 0.00
+0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx11/)
 
 ###  BX21  ###
 
-10 13 90 00  max/mo.
+10 90  max/mo.
 
-0.0175 0.0208  /hr
+0.0175  /hr
 
 [Order](https://robot.hetzner.com/order/storage/product/1334/category/storage/culture/en_GB/country/OTHER)
 
@@ -35,15 +35,15 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
  once
 
-0.00 0.00
+0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx21/)
 
 ###  BX31  ###
 
-20 24 80 00  max/mo.
+20 80  max/mo.
 
-0.0333 0.0385  /hr
+0.0333  /hr
 
 [Order](https://robot.hetzner.com/order/storage/product/1335/category/storage/culture/en_GB/country/OTHER)
 
@@ -51,15 +51,15 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
  once
 
-0.00 0.00
+0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx31/)
 
 ###  BX41  ###
 
-40 46 60 00  max/mo.
+40 60  max/mo.
 
-0.0651 0.0737  /hr
+0.0651  /hr
 
 [Order](https://robot.hetzner.com/order/storage/product/1336/category/storage/culture/en_GB/country/OTHER)
 
@@ -67,7 +67,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
  once
 
-0.00 0.00
+0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx41/)
 
