@@ -169,6 +169,10 @@ sites:
     editors:
       - css_select: main
       - css_remove: script, nav, picture, img, svg
+      - css_flatten: a[href="https://konsoleh.hetzner.com/"]
+      - css_tag_replace:
+          selector: .cloud-table-name, .product-text-name
+          replace: h3
       - html_url_canonicalize
       - html_markdownify
       - regex_replace:

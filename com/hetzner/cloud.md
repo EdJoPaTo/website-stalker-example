@@ -124,7 +124,7 @@ Monthly
 
  Server
 
- CX22
+###  CX22  ###
 
  VCPU
 
@@ -154,7 +154,7 @@ Monthly
 
  Server
 
- CX32
+###  CX32  ###
 
  VCPU
 
@@ -184,7 +184,7 @@ Monthly
 
  Server
 
- CX42
+###  CX42  ###
 
  VCPU
 
@@ -214,7 +214,7 @@ Monthly
 
  Server
 
- CX52
+###  CX52  ###
 
  VCPU
 
@@ -244,7 +244,7 @@ Monthly
 
  Server
 
- CPX11
+###  CPX11  ###
 
  VCPU
 
@@ -274,7 +274,7 @@ Monthly
 
  Server
 
- CPX21
+###  CPX21  ###
 
  VCPU
 
@@ -304,7 +304,7 @@ Monthly
 
  Server
 
- CPX31
+###  CPX31  ###
 
  VCPU
 
@@ -334,7 +334,7 @@ Monthly
 
  Server
 
- CPX41
+###  CPX41  ###
 
  VCPU
 
@@ -364,7 +364,7 @@ Monthly
 
  Server
 
- CPX51
+###  CPX51  ###
 
  VCPU
 
@@ -394,7 +394,7 @@ Monthly
 
  Server
 
- CAX11
+###  CAX11  ###
 
  VCPU
 
@@ -424,7 +424,7 @@ Monthly
 
  Server
 
- CAX21
+###  CAX21  ###
 
  VCPU
 
@@ -454,7 +454,7 @@ Monthly
 
  Server
 
- CAX31
+###  CAX31  ###
 
  VCPU
 
@@ -484,7 +484,7 @@ Monthly
 
  Server
 
- CAX41
+###  CAX41  ###
 
  VCPU
 
@@ -514,7 +514,7 @@ Monthly
 
  Server
 
- CCX13
+###  CCX13  ###
 
  VCPU
 
@@ -544,7 +544,7 @@ Monthly
 
  Server
 
- CCX23
+###  CCX23  ###
 
  VCPU
 
@@ -574,7 +574,7 @@ Monthly
 
  Server
 
- CCX33
+###  CCX33  ###
 
  VCPU
 
@@ -604,7 +604,7 @@ Monthly
 
  Server
 
- CCX43
+###  CCX43  ###
 
  VCPU
 
@@ -634,7 +634,7 @@ Monthly
 
  Server
 
- CCX53
+###  CCX53  ###
 
  VCPU
 
@@ -664,7 +664,7 @@ Monthly
 
  Server
 
- CCX63
+###  CCX63  ###
 
  VCPU
 

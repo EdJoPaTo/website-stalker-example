@@ -7,7 +7,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
  Our servers are **available in different locations.**
 
- BX11
+###  BX11  ###
 
 3 4 20 00  max/mo.
 
@@ -23,7 +23,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx11/)
 
- BX21
+###  BX21  ###
 
 10 13 90 00  max/mo.
 
@@ -39,7 +39,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx21/)
 
- BX31
+###  BX31  ###
 
 20 24 80 00  max/mo.
 
@@ -55,7 +55,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx31/)
 
- BX41
+###  BX41  ###
 
 40 46 60 00  max/mo.
 
