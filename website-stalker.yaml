@@ -450,13 +450,47 @@ sites:
       - https://www.bahn.de/faq/pk/angebot/sitzplatzreservierung
       - https://www.bahn.de/faq/pk/angebot/upgrade
       - https://www.bahn.de/faq/pk/service
+      - https://www.bahn.de/service/fahrplaene/bauarbeiten
+      - https://www.bahn.de/service/informationen-buchung/auslastungsinformation
+      - https://www.bahn.de/service/informationen-buchung/fahrgastrechte
+      - https://www.bahn.de/service/informationen-buchung/nahverkehrsfreigabe
+      - https://www.bahn.de/service/informationen-buchung/umtausch-stornierung
+      - https://www.bahn.de/service/ueber-uns/zugtypen
+      - https://www.bahn.de/service/zug/
+      - https://www.bahn.de/service/zug/db-lounge
+      - https://www.bahn.de/service/zug/erste-klasse
+      - https://www.bahn.de/service/zug/ice-sitzplaetze
+      - https://www.bahn.de/service/zug/komfort-check-in
+      - https://www.bahn.de/service/zug/ruhebereich
+      - https://www.bahn.de/service/zug/was-tun-wenn-es-mal-schief-laeuft
+      - https://www.bahn.de/service/zug/wlan-im-ice
+      - https://www.bahn.de/service/zug/wlan-nahverkehr
+      - https://www.bahn.de/service/zug/zuginformationen
     editors:
       - css_select: main
-      - css_remove: figure, picture, img, nav, .back-to-top, .product-tile__image-link
+      - css_remove: script, noscript, style, figure, picture, img, nav, .back-to-top, .product-tile__image-link, .image-gallery__counter
       - css_remove: p:has(+.category-filter-wrapper), .category-filter-wrapper
       - css_flatten: a:has(h3)
       - html_url_canonicalize
       - html_markdownify
+  - url: https://db-bordgastronomie.de/faq
+    editors:
+      - css_select: .page-content
+      - css_remove: style, img
+      - css_tag_replace:
+          selector: .acc-titel
+          replace: h3
+      - html_markdownify
+  - url: https://db-bordgastronomie.de/aktion/getraenke
+    editors:
+      - css_select: .page-content
+      - css_remove: style, img
+      - html_markdownify
+  - url:
+      - https://www.bahn.de/.rest/baustellen/?path=%2Fbaustellen&prop=LONG_DISTANCE
+      - https://db-bordgastronomie.de/api/api?filter={%22register%22%3A%22zzzz%22}
+    editors:
+      - json_prettify
 
   - url: https://kb.shelly.cloud/knowledge-base/devices
     editors:
