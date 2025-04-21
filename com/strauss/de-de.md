@@ -86,32 +86,6 @@ Ein lässiger Print, ein zuverlässiges Versprechen: STRAUSS.WORKS. **Jetzt in 
 
 ####
 
-**Strauss-Fans** glücklich machen
-
- ####
-
----
-
-###  Osterfreude zum Ausdrucken!  ###
-
----
-
-#####  Motiv aussuchen  #####
-
----
-
-#####  Betrag wählen  #####
-
----
-
-#####  Direkt verschenken  #####
-
----
-
-[Jetzt bestellen](https://gutschein.strauss.de/)
-
-####
-
 **Coole Geschenke** in jedem Sommer-Set
 
  ####
@@ -171,6 +145,41 @@ Hochwertige Materialvielfalt
 [für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
 
 [für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
+
+###  Bald ist Muttertag  ###
+
+---
+
+ Mit Strauss Einzigartiges schenken
+---
+
+Perfekte
+
+----------
+
+---
+
+Geschenke für
+
+----------
+
+---
+
+Mamas!
+
+----------
+
+---
+
+**Druck & Stick:** individuell, einfach, besonders!
+
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten/myDesign_Muttertag?itemorigin=startseite_fs25)
+
+zu den Produkten
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
+
+[Gutschein per E-Mail](https://gutschein.strauss.de/)
 
  Schuhneuheiten
 ---

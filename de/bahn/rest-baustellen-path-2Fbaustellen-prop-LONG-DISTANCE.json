@@ -1168,65 +1168,6 @@
 				"category": "construction",
 				"label": "Bauarbeiten"
 			},
-			"detailPagePath": "/service/fahrplaene/7dff947b-26d0-442c-94e8-bbf791fd5e66",
-			"disruptionId": "026a3fed-dcb6-4928-a374-444fc3bf84f8",
-			"downloads": [],
-			"durationBegin": "22.02.2025",
-			"durationEnd": "22.04.2025",
-			"expand": false,
-			"headline": "Karlsruhe ⇄ Basel: Haltausfälle",
-			"id": "7dff947b-26d0-442c-94e8-bbf791fd5e66",
-			"images": [
-				{
-					"alt": "Reisendenkarte 09.04.2025 07:08:36",
-					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-09/919d305b-60b2-46b3-856e-2f2c1f18ec54reisendenkarte_20250409-070836.png",
-					"info": "",
-					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-09/919d305b-60b2-46b3-856e-2f2c1f18ec54reisendenkarte_20250409-070836.png",
-					"openInNewTab": true
-				}
-			],
-			"lastModified": "09.04.2025 07:10",
-			"lines": [
-				{
-					"filterName": "",
-					"name": "ICE/IC",
-					"property": "LONG_DISTANCE"
-				}
-			],
-			"links": [],
-			"magnoliaPath": "/baustellen/fernverkehr-ag/stop_moved_construction3",
-			"mapHref": "https://karte.bahn.de/detail/026a3fed-dcb6-4928-a374-444fc3bf84f8",
-			"properties": [
-				"LONG_DISTANCE"
-			],
-			"states": [
-				"BW",
-				"BY",
-				"BE",
-				"BB",
-				"HB",
-				"HH",
-				"HE",
-				"MV",
-				"NI",
-				"NW",
-				"RP",
-				"SL",
-				"SN",
-				"ST",
-				"SH",
-				"TH"
-			],
-			"summary": "📅 22. Februar bis 22. April 2025",
-			"text": "<p>👷 <strong>Grund der Bauarbeiten:</strong> diverse Bauarbeiten</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>Baden-Baden, Offenburg, Freiburg (Breisgau) Hauptbahnhof, Basel</p><p>❌&nbsp;<strong>Einschränkungen:</strong></p><ul><li>Die Mehrheit der Züge der ICE-Verbindung Hamburg-Dortmund-Köln-Karlsruhe-Basel beginnen bzw. enden in Karlsruhe.</li><li>Ab 28. März entfallen alle Fernverkehrshalte in Offenburg.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
-			"topDisruption": false
-		},
-		{
-			"author": "FERNVERKEHR_AG",
-			"cause": {
-				"category": "construction",
-				"label": "Bauarbeiten"
-			},
 			"detailPagePath": "/service/fahrplaene/f984f87c-8c25-4d10-a982-f9f55bd3ec4a",
 			"disruptionId": "27eca827-7736-42e3-aac7-a579872b3e90",
 			"downloads": [],
