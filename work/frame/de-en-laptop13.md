@@ -2413,7 +2413,7 @@ Setting up your DIY Edition
 
 Build your laptop in 10–20 minutes.
 
-* **Framework Laptop 13 DIY Edition (AMD Ryzen™ AI 300 Series)** Coming soon
+* **Framework Laptop 13 DIY Edition (AMD Ryzen™ AI 300 Series)** [Go to guide](https://guides.frame.work/Guide/Framework+Laptop+13+(AMD+Ryzen%E2%84%A2+AI+300+Series)+DIY+Edition+Quick+Start+Guide/404)
 * **Framework Laptop 13 DIY Edition (Intel Core Ultra Series 1)** [Go to guide](https://guides.frame.work/Guide/Framework+Laptop+13+(Intel+Core+Ultra+Series+1)+DIY+Edition+Quick+Start+Guide/332?lang=en)
 * **Framework Laptop 13 DIY Edition (AMD Ryzen™ 7040 Series)** [Go to guide](https://guides.frame.work/Guide/Framework+Laptop+13+(AMD+Ryzen%E2%84%A2+7040+Series)+DIY+Edition+Quick+Start+Guide/211?lang=en)
 * **Framework Laptop 13 DIY Edition (13th Gen Intel Core)** [Go to guide](https://guides.frame.work/Guide/Framework+Laptop+13+(13th+Gen+Intel+Core)+DIY+Edition+Quick+Start+Guide/168?lang=en)
