@@ -852,65 +852,6 @@
 				"category": "construction",
 				"label": "Bauarbeiten"
 			},
-			"detailPagePath": "/service/fahrplaene/dde52819-4001-4aad-9101-3b6fd9fc530d",
-			"disruptionId": "4fbac5a8-9ff1-4979-b42c-d68d5cff7623",
-			"downloads": [],
-			"durationBegin": "17.04.2025",
-			"durationEnd": "22.04.2025",
-			"expand": false,
-			"headline": "Dänemark ⇄ Hamburg: Fahrtausfälle und Ersatzverkehr",
-			"id": "dde52819-4001-4aad-9101-3b6fd9fc530d",
-			"images": [
-				{
-					"alt": "Reisendenkarte 27.03.2025 16:20:50",
-					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-03-28/83ad841f-f8bd-412a-b665-d021fb0168d1reisendenkarte_20250327-162050.png",
-					"info": "",
-					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-03-28/83ad841f-f8bd-412a-b665-d021fb0168d1reisendenkarte_20250327-162050.png",
-					"openInNewTab": true
-				}
-			],
-			"lastModified": "28.03.2025 11:10",
-			"lines": [
-				{
-					"filterName": "",
-					"name": "ICE/IC",
-					"property": "LONG_DISTANCE"
-				}
-			],
-			"links": [],
-			"magnoliaPath": "/baustellen/fernverkehr-ag/reduced_service_construction3",
-			"mapHref": "https://karte.bahn.de/detail/4fbac5a8-9ff1-4979-b42c-d68d5cff7623",
-			"properties": [
-				"LONG_DISTANCE"
-			],
-			"states": [
-				"BW",
-				"BY",
-				"BE",
-				"BB",
-				"HB",
-				"HH",
-				"HE",
-				"MV",
-				"NI",
-				"NW",
-				"RP",
-				"SL",
-				"SN",
-				"ST",
-				"SH",
-				"TH"
-			],
-			"summary": "📅 17. April (21 Uhr) bis 22. April 2025 (9 Uhr)",
-			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>diverse Bauarbeiten, u.a. Containerarbeiten und Schwellenauswechslung</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>Fredericia St., Kopenhagen, Ringstedt St., Odense St., Kolding St., Lunderskov St., Vamdrup St., Vojens St., Roedekro St., Tinglev St., Padborg St., Flensburg, Schleswig, Rendsburg</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>Neumünster, Hamburg Hauptbahnhof</p><p><strong>🚍 Ersatzverkehr mit Bussen: </strong>zwischen Odense St. und Hamburg Hauptbahnhof sowie zwischen Tinglev und Hamburg Hauptbahnhof</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Zwischen Odense St. (Dänemark) und Hamburg Hauptbahnhof wird ein stündlicher Ersatzverkehr mit IC-Bussen eingerichtet. Von/nach Odense St. besteht Anschluss an die dänischen Züge nach Kopenhagen.&nbsp;</li><li>Zwischen Tinglev St. (Dänemark) und Hamburg Hauptbahnhof wird ein zweistündlicher Ersatzverkehr mit IC-Bussen eingerichtet. Von/nach Tinglev St. besteht Anschluss an die dänischen Züge nach Fredericia St..&nbsp;</li><li>Die zweistündlichen Direktverbindungen der EC-Linie Kopenhagen-Padborg-Hamburg und der IC-Linie Aarhus-Padborg-Hamburg entfallen.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
-			"topDisruption": false
-		},
-		{
-			"author": "FERNVERKEHR_AG",
-			"cause": {
-				"category": "construction",
-				"label": "Bauarbeiten"
-			},
 			"detailPagePath": "/service/fahrplaene/79225864-34f0-410f-8d30-5687bd637a6c",
 			"disruptionId": "ee3c867f-59fb-43fb-b596-b319acd6d984",
 			"downloads": [],

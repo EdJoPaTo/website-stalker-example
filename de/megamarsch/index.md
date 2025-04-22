@@ -113,7 +113,7 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 > "Es kribbelt überall und ich würd am liebsten gleich los - am schönsten ist's mit Stirnlampe mitten durch die stille Nacht."
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.megamarsch.de/megam%C3%A4rsche)
+[SICHERE DIR JETZT DEIN TICKET!](https://www.megamarsch.de/megamärsche)
 
 #### [Hilf beim Megamarsch und werde zum MEGAMARSCH Buddy!](https://www.megamarsch.de) ####
 
