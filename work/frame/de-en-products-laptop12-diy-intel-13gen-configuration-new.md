@@ -329,7 +329,31 @@ We suggest ordering 4 or more Expansion Cards, and that at least 1 is a USB-C Ex
 
 Most popular combination
 
- USB-C (Black)
+ 2x USB-C (Lavender), USB-A, HDMI (3rd Gen)
+
+Quick select
+
+Most popular combination
+
+ 2x USB-C (Bubblegum), USB-A, HDMI (3rd Gen)
+
+Quick select
+
+Most popular combination
+
+ 2x USB-C (Sage), USB-A, HDMI (3rd Gen)
+
+Quick select
+
+Most popular combination
+
+ 2x USB-C (Gray), USB-A, HDMI (3rd Gen)
+
+Quick select
+
+Most popular combination
+
+ 2x USB-C (Black), USB-A, HDMI (3rd Gen)
 
 Quick select
 
