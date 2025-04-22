@@ -641,7 +641,7 @@ Die **BahnCard 100** muss nicht gekündigt werden. Die Karte läuft automatisch
  Wo bestelle ich meine My BahnCard 100?
 ----------
 
-Die My BahnCard 100 ist nur online auf bahn.de oder im DB Navigator erhältlich.
+Die My BahnCard 100 ist online auf bahn.de oder im DB Navigator erhältlich. Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-my-bahncard-100)
 
