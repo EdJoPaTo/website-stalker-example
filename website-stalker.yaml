@@ -537,3 +537,29 @@ sites:
       - css_select: main
       - css_remove: style, img, svg, nav li:has(a[href^="./#"])
       - html_markdownify
+
+  - url:
+      - https://doc.kaitai.io/
+      - https://doc.kaitai.io/ci.html
+      - https://doc.kaitai.io/developers.html
+      - https://doc.kaitai.io/developers_intro.html
+      - https://doc.kaitai.io/faq.html
+      - https://doc.kaitai.io/kst.html
+      - https://doc.kaitai.io/ksy_diagram.html
+      - https://doc.kaitai.io/ksy_style_guide.html
+      - https://doc.kaitai.io/lang_java.html
+      - https://doc.kaitai.io/lang_javascript.html
+      - https://doc.kaitai.io/lang_python.html
+      - https://doc.kaitai.io/new_language.html
+      - https://doc.kaitai.io/serialization.html
+      - https://doc.kaitai.io/stream_api.html
+      - https://doc.kaitai.io/user_guide.html
+      - https://formats.kaitai.io/
+      - https://kaitai.io/
+      - https://kaitai.io/news/
+    editors:
+      - css_select: body
+      - css_remove: style, script, img
+      - css_remove: "#main-navbar, #toc, footer, #footer"
+      - css_flatten: .admonitionblock table, table:has(.listingblock)
+      - html_markdownify
