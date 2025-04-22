@@ -6540,7 +6540,7 @@ Für die Sortierung und Lagerung der Fundsache erheben wir ein Bearbeitungsentge
 * **Versand per Post:** 30 Euro (inklusive Versand und Verpackung). Für Sperrgut, Wunschtagzustellung oder versicherten Versand fallen wie bisher zusätzliche Gebühren an.
 * **Versand aus dem zentralen Fundbüro:** 35 Euro (inklusive Versand, Verpackung und Bearbeitungsentgelt in Höhe von 15 Euro)
 * Bei **Versand ins Ausland:** Bei Versand ins Ausland werden zu dem Entgelt in Höhe von 20,00 Euro zuzüglich die Versandkosten für das Ausland berechnet.
-* **Versand aus der Fundstelle per ic:kurier:** Für besonders dringende Fälle können Sie Gegenstände auch per ic:kurier versenden. Bitte buchen Sie diese Leistung selbst telefonisch unter der Rufnummer 069 99992079 oder online unter [booking.time-matters.com](https://booking.time-matters.com/de/search). Diese Sendungen werden per Kurier sofort zu Ihnen gesandt und sind spätestens am nächsten Tag, meist noch am selben Tag bei Ihnen. Es gelten die aktuellen Tarife von ic:kurier.
+* **Versand aus der Fundstelle per ic:kurier:** Für besonders dringende Fälle können Sie Gegenstände auch per ic:kurier versenden. Bitte buchen Sie diese Leistung selbst online unter [booking.time-matters.com](https://booking.time-matters.com/de/search). Diese Sendungen werden per Kurier sofort zu Ihnen gesandt und sind spätestens am nächsten Tag, meist noch am selben Tag bei Ihnen. Es gelten die aktuellen Tarife von ic:kurier.
 
 *\* Bei Linien der Netze Elbe-Spree + Lausitz der DB Regio AG gelten abweichende Regelungen:*
 
