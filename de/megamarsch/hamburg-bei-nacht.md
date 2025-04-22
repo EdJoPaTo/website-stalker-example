@@ -117,6 +117,8 @@ Booklet
 
 Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbranche versorgen sie Euch mit verlässlicher Ausrüstung für euren nächsten Megamarsch.
 
+Für Millionen Menschen ist komoot der Schlüssel zu Erlebnissen in der Natur. Für die Megamarsch Saison 2025 ist komoot offizieller Navigationspartner.​
+
 Die dodenhof SportWelt in Kaltenkirchen hat alles, was du brauchst, um deine sportlichen Ziele zu erreichen. Mach dich bereit, dein Bestes zu geben und starte jetzt durch!
 
 #### Highlights
