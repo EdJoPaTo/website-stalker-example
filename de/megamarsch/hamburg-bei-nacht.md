@@ -156,10 +156,7 @@ Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challeng
 
 15.08. 8 Uhr - 19.08.2024 8 Uhr
 
-MIT T-SHIRT:
-84,95€
-
-OHNE T-SHIRT:
+TICKETPREIS:
 49,95€
 
 [Button](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
@@ -169,10 +166,7 @@ Ticket ###
 
 19.08. 8 Uhr - 30.11.2024
 
-MIT T-SHIRT:
-89,95€
-
-OHNE T-SHIRT:
+TICKETPREIS:
 54,95€
 
 [Button](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
@@ -182,10 +176,7 @@ Ticket ###
 
 DEZEMBER - ENDE MAI
 
-MIT T-SHIRT:
-94,95€
-
-OHNE T-SHIRT:
+TICKETPREIS:
 59,95€
 
 [Button](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
@@ -195,14 +186,11 @@ Ticket ###
 
 JUNI - 09.08.2025
 
-​
-
-MIT T-SHIRT:
-99,95€
+​​​
 
 ​
 
-OHNE T-SHIRT:
+TICKETPREIS:
 64,95€
 
 ​

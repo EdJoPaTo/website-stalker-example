@@ -76,24 +76,6 @@ Bei einem 100 km Finish
 
 Hamburg Booklet
 
-#### FOTOS ####
-
-Datenschutzhinweise unter: [www.sportograf.com/de/privacy](http://www.sportograf.com/de/privacy)
-
-Wie in den letzten Jahren wird Sportograf Dich und uns auch in dieser Saison begleiten.
-
-​
-
-Ob Marathon, Ironman oder Radrennen, sie haben schon Millionen Sportler mit fantastischen Errinerungsfotos versorgt. Selfies sind natürlich auch eine schöne Erinnerung, aber wer dann doch noch professionelle Fotos von seiner megamäßigen Erfahrung haben möchte, ist bei Sportograf genau richtig.
-
-​
-
-Die Bilder können im Nachgang der Veranstaltung auf deren Website erworben werden: <https://www.sportograf.com/de/event/13702>
-
-​
-
-​
-
 #### Strecke ####
 
 ###### - 350 HÖHENMETER - ######

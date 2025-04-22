@@ -327,6 +327,12 @@ Each card can be used in any of the 4 Expansion Card slots on the Framework Lapt
 
 We suggest ordering 4 or more Expansion Cards, and that at least 1 is a USB-C Expansion Card for charging the laptop.
 
+Most popular combination
+
+ USB-C (Black)
+
+Quick select
+
  Port Expansion Cards
 
  USB-C (New colors available)
