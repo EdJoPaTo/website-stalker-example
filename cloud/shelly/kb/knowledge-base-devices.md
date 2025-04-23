@@ -136,6 +136,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave PRO Dimmer 2PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-dimmer-2pm)
 * [Shelly Wave Door/Window](https://kb.shelly.cloud/knowledge-base/shelly-wave-door-window)
 * [Shelly Wave Plug S](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-s)
+* [Shelly Wave H&T](https://kb.shelly.cloud/knowledge-base/shelly-wave-h-t)
 
  Shelly Qubino Wave devices
 ----------
