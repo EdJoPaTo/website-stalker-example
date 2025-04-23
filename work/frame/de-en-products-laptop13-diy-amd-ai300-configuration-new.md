@@ -442,7 +442,7 @@ Close
  DisplayPort (2nd Gen) Expansion Card
 ----------
 
- The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
+The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
 
 Close
 
