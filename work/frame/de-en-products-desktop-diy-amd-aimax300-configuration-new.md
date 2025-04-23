@@ -498,7 +498,7 @@ Choose colorAluminumOrangeLavenderGreenRedTranslucentTranslucent BlackTranslucen
  USB-A Expansion Card
 ----------
 
- Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
+Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
 
 Close
 
