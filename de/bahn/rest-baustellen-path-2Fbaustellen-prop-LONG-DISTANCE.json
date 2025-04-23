@@ -1462,6 +1462,72 @@
 				"category": "construction",
 				"label": "Bauarbeiten"
 			},
+			"detailPagePath": "/service/fahrplaene/b2a7c8bf-5f52-4a71-8914-31215b20b069",
+			"disruptionId": "8ca9026b-1c68-4e6e-83e7-3786f30fbd04",
+			"downloads": [
+				{
+					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-23/c6947b95-cc82-4f74-b23e-1603a0bc21e0Detailinformationen%2BBauarbeiten%2Bzwischen%2BBielefeld%2Bund%2BHannover.pdf",
+					"info": "",
+					"label": "Detailinformationen Bauarbeiten zwischen Bielefeld und Hannover.pdf",
+					"openInNewTab": true
+				}
+			],
+			"durationBegin": "07.06.2025",
+			"durationEnd": "08.08.2025",
+			"expand": false,
+			"headline": "Bielefeld ⇄ Hannover: Reduzierter Zugverkehr zwischen NRW und Hannover bzw. Berlin",
+			"id": "b2a7c8bf-5f52-4a71-8914-31215b20b069",
+			"images": [
+				{
+					"alt": "Reisendenkarte 24.01.2025 11:40:06",
+					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-23/0cbc5da2-0fa3-4194-b491-e7bbcf1327cereisendenkarte_20250124-114006.png",
+					"info": "",
+					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-23/0cbc5da2-0fa3-4194-b491-e7bbcf1327cereisendenkarte_20250124-114006.png",
+					"openInNewTab": true
+				}
+			],
+			"lastModified": "23.04.2025 14:50",
+			"lines": [
+				{
+					"filterName": "",
+					"name": "ICE/IC",
+					"property": "LONG_DISTANCE"
+				}
+			],
+			"links": [],
+			"magnoliaPath": "/baustellen/fernverkehr-ag/detour_construction0",
+			"mapHref": "https://karte.bahn.de/detail/8ca9026b-1c68-4e6e-83e7-3786f30fbd04",
+			"properties": [
+				"LONG_DISTANCE"
+			],
+			"states": [
+				"BW",
+				"BY",
+				"BE",
+				"BB",
+				"HB",
+				"HH",
+				"HE",
+				"MV",
+				"NI",
+				"NW",
+				"RP",
+				"SL",
+				"SN",
+				"ST",
+				"SH",
+				"TH"
+			],
+			"summary": "📅 7. Juni bis 8. August 2025",
+			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>Gleis-, Weichen- und Brückenarbeiten</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>Bad Oeynhausen, Bünde (Westf) und Herford</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>Bonn Hbf, Köln Hbf, Berlin-Spandau, Berlin Hbf, Berlin Südkreuz, Aachen Hbf, Düren, Herzogenrath, Geilenkirchen, Erkelenz, Rheydt Hbf, Mönchengladbach Hbf, Viersen, Krefeld Hbf, Düsseldorf Hbf, Duisburg Hbf, Essen Hbf, Wanne-Eickel Hbf, Bochum Hbf, Dortmund Hbf, Hamm (Westf) Hbf, Bielefeld Hbf, Gütersloh Hbf, Münster Hbf, Osnabrück Hbf, Hannover Hbf, Minden (Westf)</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Zwischen NRW und Berlin verkehren weiterhin rund dreiviertel der Züge. Dabei besteht auf dem Regellaufweg ein Stundentakt. Die restlichen Züge werden umgeleitet.</li><li><strong>Vom 6. Juni (21 Uhr) bis 13. Juni (21 Uhr)</strong> wird die Strecke vollständig gesperrt, so dass auch die verbleibenden ICE-Züge umgeleitet werden müssen. </li><li>IC-Züge Amsterdam - Hannover - Berlin werden großräumig umgeleitet.</li><li>IC-Züge NRW - Hannover - Dresden entfallen zwischen Bielefeld und Hannover.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
+			"topDisruption": false
+		},
+		{
+			"author": "FERNVERKEHR_AG",
+			"cause": {
+				"category": "construction",
+				"label": "Bauarbeiten"
+			},
 			"detailPagePath": "/service/fahrplaene/a49a3c54-3611-4d6e-8759-b4757ccf881b",
 			"disruptionId": "90fea286-d8bb-4053-b4d9-5b3cb51aee79",
 			"downloads": [
@@ -1857,72 +1923,6 @@
 			],
 			"summary": "📅 1. August bis 30. April 2026",
 			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>Generalsanierung</p><p>🚧 <strong>Entfallende Halte: </strong>Schwerin</p><p>↪️<strong> Ersatzhalte: </strong>Lübeck Hbf</p><p>❌ <strong>Einschränkungen: </strong></p><ul><li>Bis zu drei IC-Zugpaare verkehren zwischen Hamburg und Ostseebad Binz bzw. Greifswald via Lübeck.</li><li>Die Fahrzeit verlängert sich aufgrund der Umleitung um rund 60 Minuten.</li><li>ICE-Linie Karlsruhe-Frankfurt-Gießen-Hannover-Hamburg-Ostseebad Binz beginnt bzw. endet in Hamburg-Altona.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
-			"topDisruption": false
-		},
-		{
-			"author": "FERNVERKEHR_AG",
-			"cause": {
-				"category": "construction",
-				"label": "Bauarbeiten"
-			},
-			"detailPagePath": "/service/fahrplaene/b2a7c8bf-5f52-4a71-8914-31215b20b069",
-			"disruptionId": "8ca9026b-1c68-4e6e-83e7-3786f30fbd04",
-			"downloads": [
-				{
-					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-09/80be97b3-3658-4b0c-9600-08c2f4233e58Detailinformationen%2BBauarbeiten%2Bzwischen%2BBielefeld%2Bund%2BHannover.pdf",
-					"info": "",
-					"label": "Detailinformationen Bauarbeiten zwischen Bielefeld und Hannover.pdf",
-					"openInNewTab": true
-				}
-			],
-			"durationBegin": "07.06.2025",
-			"durationEnd": "08.08.2025",
-			"expand": false,
-			"headline": "Bielefeld ⇄ Hannover: Reduzierter Zugverkehr zwischen NRW und Hannover bzw. Berlin",
-			"id": "b2a7c8bf-5f52-4a71-8914-31215b20b069",
-			"images": [
-				{
-					"alt": "Reisendenkarte 24.01.2025 11:40:06",
-					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-09/53a1b7c8-15c8-46fc-8f9c-339e878b683creisendenkarte_20250124-114006.png",
-					"info": "",
-					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-09/53a1b7c8-15c8-46fc-8f9c-339e878b683creisendenkarte_20250124-114006.png",
-					"openInNewTab": true
-				}
-			],
-			"lastModified": "09.04.2025 10:30",
-			"lines": [
-				{
-					"filterName": "",
-					"name": "ICE/IC",
-					"property": "LONG_DISTANCE"
-				}
-			],
-			"links": [],
-			"magnoliaPath": "/baustellen/fernverkehr-ag/detour_construction0",
-			"mapHref": "https://karte.bahn.de/detail/8ca9026b-1c68-4e6e-83e7-3786f30fbd04",
-			"properties": [
-				"LONG_DISTANCE"
-			],
-			"states": [
-				"BW",
-				"BY",
-				"BE",
-				"BB",
-				"HB",
-				"HH",
-				"HE",
-				"MV",
-				"NI",
-				"NW",
-				"RP",
-				"SL",
-				"SN",
-				"ST",
-				"SH",
-				"TH"
-			],
-			"summary": "📅 7. Juni bis 8. August 2025",
-			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>Gleis-, Weichen- und Brückenarbeiten</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>Bad Oeynhausen, Bünde (Westf) und Herford</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>Bonn Hbf, Köln Hbf, Berlin-Spandau, Berlin Hbf, Berlin Südkreuz, Aachen Hbf, Düren, Herzogenrath, Geilenkirchen, Erkelenz, Rheydt Hbf, Mönchengladbach Hbf, Viersen, Krefeld Hbf, Düsseldorf Hbf, Duisburg Hbf, Essen Hbf, Wanne-Eickel Hbf, Bochum Hbf, Dortmund Hbf, Hamm (Westf) Hbf, Bielefeld Hbf, Gütersloh Hbf, Münster Hbf, Osnabrück Hbf, Hannover Hbf, Minden (Westf)</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Zwischen NRW und Berlin verkehren weiterhin rund dreiviertel der Züge. Dabei besteht auf dem Regellaufweg ein Stundentakt. Die restlichen Züge werden umgeleitet.</li><li>IC-Züge Amsterdam - Hannover - Berlin werden großräumig umgeleitet.</li><li>IC-Züge NRW - Hannover - Dresden entfallen zwischen Bielefeld und Hannover.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
 			"topDisruption": false
 		},
 		{
