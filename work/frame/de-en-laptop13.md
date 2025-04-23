@@ -362,7 +362,7 @@ Up to 4.80GHz
 12M Cache
 4 cores
 
-Available with the latest AMD Ryzen™ AI 300 Series processors
+Available with the latest AMD Ryzen™ AI 300 Series processors.
 
 Specs
 
