@@ -1462,6 +1462,72 @@
 				"category": "construction",
 				"label": "Bauarbeiten"
 			},
+			"detailPagePath": "/service/fahrplaene/a49a3c54-3611-4d6e-8759-b4757ccf881b",
+			"disruptionId": "90fea286-d8bb-4053-b4d9-5b3cb51aee79",
+			"downloads": [
+				{
+					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-23/7f64ee54-3cd6-41ee-adaa-a3e893a1baccDetailinformationen%2BBauarbeiten%2Bzwischen%2BSchwerin%2Bund%2BRostock.pdf",
+					"info": "",
+					"label": "Detailinformationen Bauarbeiten zwischen Schwerin und Rostock.pdf",
+					"openInNewTab": true
+				}
+			],
+			"durationBegin": "15.03.2025",
+			"durationEnd": "09.05.2025",
+			"expand": false,
+			"headline": "Schwerin ⇄ Rostock: Haltausfälle und Umleitungen",
+			"id": "a49a3c54-3611-4d6e-8759-b4757ccf881b",
+			"images": [
+				{
+					"alt": "Reisendenkarte 21.03.2025 09:35:34",
+					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-23/165ee6a3-196f-4c65-9929-03fe2ba9585ereisendenkarte_20250321-093534.png",
+					"info": "",
+					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-23/165ee6a3-196f-4c65-9929-03fe2ba9585ereisendenkarte_20250321-093534.png",
+					"openInNewTab": true
+				}
+			],
+			"lastModified": "23.04.2025 11:40",
+			"lines": [
+				{
+					"filterName": "",
+					"name": "ICE/IC",
+					"property": "LONG_DISTANCE"
+				}
+			],
+			"links": [],
+			"magnoliaPath": "/baustellen/fernverkehr-ag/detour_construction8",
+			"mapHref": "https://karte.bahn.de/detail/90fea286-d8bb-4053-b4d9-5b3cb51aee79",
+			"properties": [
+				"LONG_DISTANCE"
+			],
+			"states": [
+				"BW",
+				"BY",
+				"BE",
+				"BB",
+				"HB",
+				"HH",
+				"HE",
+				"MV",
+				"NI",
+				"NW",
+				"RP",
+				"SL",
+				"SN",
+				"ST",
+				"SH",
+				"TH"
+			],
+			"summary": "📅 15. März (22 Uhr) bis 3. April 2025 (4 Uhr), 4. April (24 Uhr) bis 11. April 2025 (24 Uhr) sowie vom 22. April (4 Uhr) bis 9. Mai 2025 (22 Uhr) ",
+			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>diverse Arbeiten u.a. Schienenerneuerungen, Gleis- und Durchlassarbeiten</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>23.03.-03.04. sowie vom<strong> </strong>22.04.-09.05.2025: Schwerin Hauptbahnhof, Bad Kleinen, Bützow, Ribnitz-Damgarten West, Velgast</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>23.03.-03.04. sowie vom 22.04.-09.05.2025: Rostock Hauptbahnhof, Stralsund Hauptbahnhof, Bergen auf Rügen, Ostseebad Binz</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>15.März bis 23.März sowie vom 4.April bis 11.April: Die Züge auf der ICE-Verbindungen Hamburg-Ostseebad Binz sowie der IC-Verbindungen Warnemünde-Wittenberge-Magdeburg werden zwischen Bützow und Rostock mit Fahrzeitverlängerungen zwischen 30 bis zu 60 Minuten umgeleitet.</li><li>24.März bis 3.April sowie vom 22.April bis 9.Mai: Die Züge der ICE-Verbindung Köln-Bremen-Hamburg-Ostseebad Binz beginnen bzw. enden in Hamburg Hauptbahnhof. Die Züge der IC-Verbindung Warnemünde-Wittenberge-Magdeburg-Leipzig verkehren nur auf dem Abschnitt Magdeburg-Leipzig.</li><li>Die Züge der ICE-Verbindung Karlsruhe-Frankfurt-Gießen-Hannover-Hamburg-Ostseebad Binz beginnen bzw. enden vom 24.März bis 3.April in Hamburg Hauptbahnhof. Vom 22.April bis 9.Mai entfallen die Züge auf dem gesamten Laufweg.</li><li>Rostock ist in diesem Zeitraum weiterhin zweistündlich aus Richtung Berlin mit der IC-Verbindung Warnemünde/Rostock-Berlin-Dresden/Chemnitz erreichbar. Stralsund und Rügen sind weiterhin aus Richtung Berlin mit den Zügen der ICE-Verbindung Binz-Stralsund-Pasewalk-Berlin erreichbar.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
+			"topDisruption": false
+		},
+		{
+			"author": "FERNVERKEHR_AG",
+			"cause": {
+				"category": "construction",
+				"label": "Bauarbeiten"
+			},
 			"detailPagePath": "/service/fahrplaene/9d8f5235-ce5f-49e4-99c4-28df4ac120ce",
 			"disruptionId": "b9f438c5-18dd-4f27-9b4c-e23bfb5a535c",
 			"downloads": [
@@ -1989,72 +2055,6 @@
 			],
 			"summary": "📅 26./27. April sowie 3./4. Mai 2025, jeweils freitags (23 Uhr) bis montags (5 Uhr)",
 			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>diverse Bauarbeiten, u.a. Weichenerneuerungen</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>Ulm Hauptbahnhof, Neu-Ulm und Günzburg</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>Augsburg Hauptbahnhof, München-Pasing und München Hauptbahnhof</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Die Züge werden zwischen Stuttgart und Augsburg mit Fahrzeitverlängerungen von bis zu 60 Minuten umgeleitet.</li><li>Zwischen Mannheim, Stuttgart und München gibt es während der Wochenendsperrungen weiterhin stündliche ICE-Verbindungen. Die Fahrzeiten verlängern sich um bis zu 60 Minuten.</li><li>Zwischen Karlsruhe und München entfallen alle Direktverbindungen. Alternativverbindungen bestehen via Umstieg in Stuttgart. Die Fahrzeiten verlängern sich um bis zu 80 Minuten.</li></ul><p>ℹ️ Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p>",
-			"topDisruption": false
-		},
-		{
-			"author": "FERNVERKEHR_AG",
-			"cause": {
-				"category": "construction",
-				"label": "Bauarbeiten"
-			},
-			"detailPagePath": "/service/fahrplaene/a49a3c54-3611-4d6e-8759-b4757ccf881b",
-			"disruptionId": "90fea286-d8bb-4053-b4d9-5b3cb51aee79",
-			"downloads": [
-				{
-					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-09/e1815529-132d-4499-8881-109686b24e97Detailinformationen%2BBauarbeiten%2Bzwischen%2BSchwerin%2Bund%2BRostock.pdf",
-					"info": "",
-					"label": "Detailinformationen Bauarbeiten zwischen Schwerin und Rostock.pdf",
-					"openInNewTab": true
-				}
-			],
-			"durationBegin": "15.03.2025",
-			"durationEnd": "09.05.2025",
-			"expand": false,
-			"headline": "Schwerin ⇄ Rostock: Haltausfälle und Umleitungen",
-			"id": "a49a3c54-3611-4d6e-8759-b4757ccf881b",
-			"images": [
-				{
-					"alt": "Reisendenkarte 21.03.2025 09:35:34",
-					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-09/ce0499be-ce26-493c-8883-f340aa337cf9reisendenkarte_20250321-093534.png",
-					"info": "",
-					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-09/ce0499be-ce26-493c-8883-f340aa337cf9reisendenkarte_20250321-093534.png",
-					"openInNewTab": true
-				}
-			],
-			"lastModified": "09.04.2025 08:50",
-			"lines": [
-				{
-					"filterName": "",
-					"name": "ICE/IC",
-					"property": "LONG_DISTANCE"
-				}
-			],
-			"links": [],
-			"magnoliaPath": "/baustellen/fernverkehr-ag/detour_construction8",
-			"mapHref": "https://karte.bahn.de/detail/90fea286-d8bb-4053-b4d9-5b3cb51aee79",
-			"properties": [
-				"LONG_DISTANCE"
-			],
-			"states": [
-				"BW",
-				"BY",
-				"BE",
-				"BB",
-				"HB",
-				"HH",
-				"HE",
-				"MV",
-				"NI",
-				"NW",
-				"RP",
-				"SL",
-				"SN",
-				"ST",
-				"SH",
-				"TH"
-			],
-			"summary": "📅 15. März (22 Uhr) bis 3. April 2025 (4 Uhr), 4. April (24 Uhr) bis 11. April 2025 (24 Uhr) sowie vom 22. April (4 Uhr) bis 9. Mai 2025 (22 Uhr) ",
-			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>diverse Arbeiten u.a. Schienenerneuerungen, Gleis- und Durchlassarbeiten</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>23.03.-03.04. sowie vom<strong> </strong>22.04.-09.05.2025: Schwerin Hauptbahnhof, Bad Kleinen, Bützow, Ribnitz-Damgarten West, Velgast</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>23.03.-03.04. sowie vom 22.04.-09.05.2025: Rostock Hauptbahnhof, Stralsund Hauptbahnhof, Bergen auf Rügen, Ostseebad Binz</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>15.März bis 23.März sowie vom 4.April bis 11.April: Die Züge auf der ICE-Verbindungen Hamburg-Ostseebad Binz sowie der IC-Verbindungen Warnemünde-Wittenberge-Magdeburg werden zwischen Bützow und Rostock mit Fahrzeitverlängerungen zwischen 30 bis zu 60 Minuten umgeleitet.</li><li>24.März bis 3.April sowie vom 22.April bis 9.Mai: Die Züge der ICE-Verbindung Köln-Bremen-Hamburg-Ostseebad Binz beginnen bzw. enden in Hamburg Hauptbahnhof. Die Züge der IC-Verbindung Warnemünde-Wittenberge-Magdeburg-Leipzig verkehren nur auf dem Abschnitt Magdeburg-Leipzig.</li><li>Die Züge der ICE-Verbindung Karlsruhe-Frankfurt-Gießen-Hannover-Hamburg-Ostseebad Binz beginnen bzw. enden vom 24.März bis 3.April in Hamburg Hauptbahnhof. Vom 22.April bis 9.Mai entfallen die Züge auf dem gesamten Laufweg.</li><li>Rostock ist in diesem Zeitraum weiterhin zweistündlich aus Richtung Berlin mit der IC-Verbindung Warnemünde/Rostock-Berlin-Dresden/Chemnitz erreichbar. Stralsund und Rügen sind weiterhin aus Richtung Berlin mit den Zügen der ICE-Verbindung Binz-Stralsund-Pasewalk-Berlin erreichbar.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
 			"topDisruption": false
 		},
 		{
