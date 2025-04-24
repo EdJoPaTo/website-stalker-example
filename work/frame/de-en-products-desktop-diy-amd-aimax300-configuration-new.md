@@ -498,7 +498,7 @@ Choose colorAluminumOrangeLavenderGreenRedTranslucentTranslucent BlackTranslucen
  USB-A Expansion Card
 ----------
 
-Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
+ Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
 
 Close
 
@@ -549,7 +549,7 @@ Close
  Audio Expansion Card
 ----------
 
-The Audio Expansion Card contains a 3.5mm headphone jack, which supports audio input and output. This Expansion Card provides increased dynamic range and improved signal to noise ratio in comparison to the Framework Laptop 13 built-in audio jack.
+ The Audio Expansion Card contains a 3.5mm headphone jack, which supports audio input and output. This Expansion Card provides increased dynamic range and improved signal to noise ratio in comparison to the Framework Laptop 13 built-in audio jack.
 
 Close
 
