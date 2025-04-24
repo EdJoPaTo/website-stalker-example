@@ -84,15 +84,14 @@ Unsere Wirkung in Zahlen
 
 **CO2-Kompensation seit Marktstart:**
 
-* 825t seit Marktstart
-* weitere 500t geplant bis Ende 2025
+* 825 t seit Marktstart
+* weitere 500 t geplant bis Ende 2025
 
 **Investitionen in Erneuerbare Energien:**
 
 * 2020: Solaranlage mit Ecosia, GLS & Naturstrom
   570 kWp = ca. 500 MWh/a
-* 2024: Windkraftanlage mit Prokon
-  Fertigstellung: November, Danach ca. 645.000 kWh/a
+* 2024: Windkraftanlage mit Proton ca. 645 MWh/a
 
 **Investitionen in Start-ups:**
 
@@ -101,12 +100,13 @@ Unsere Wirkung in Zahlen
 
 **Community Balkonkraftwerke:**
 
-* 2024: Run 1: 50 Systeme mit je 640Wp
+* 2024: Run 1: 50 Systeme mit je 640 Wp
+* 2024: Run 2: 10 Systeme mit je 300 Wp
 
 **Verbänden und Netzwerken:**
 
 * 2019: [SEND Netzwerk](https://www.send-ev.de/)
-* 2021: [FAIRtec](https://fairtec.io/de/)
+* 2021: [FairTEC](https://fairtec.io/de/)
 * 2022: [Bundesverband Nachhaltige Wirtschaft e.V.](https://www.bnw-bundesverband.de/).
 * 2023: [Unternehmenklimaschutz](https://www.wetell.de/ueber-uns/news/unternehmen-klimaschutz/)
 
