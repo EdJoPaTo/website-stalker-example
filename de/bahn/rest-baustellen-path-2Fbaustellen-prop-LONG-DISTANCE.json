@@ -411,6 +411,131 @@
 				"category": "construction",
 				"label": "Bauarbeiten"
 			},
+			"detailPagePath": "/service/fahrplaene/4c63f9e0-deed-4bc4-915a-1bb36d7e5b5a",
+			"disruptionId": "12f0b3cb-abf1-4192-8db2-48b6c5b4522d",
+			"downloads": [],
+			"durationBegin": "22.04.2025",
+			"durationEnd": "25.05.2025",
+			"expand": false,
+			"headline": "Nürnberg ⇄ Leipzig: Zugausfälle ",
+			"id": "4c63f9e0-deed-4bc4-915a-1bb36d7e5b5a",
+			"images": [
+				{
+					"alt": "Reisendenkarte 19.03.2025 13:19:53",
+					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-24/04224c2b-4481-4a91-9df9-313d02741612reisendenkarte_20250319-131953.png",
+					"info": "",
+					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-24/04224c2b-4481-4a91-9df9-313d02741612reisendenkarte_20250319-131953.png",
+					"openInNewTab": true
+				}
+			],
+			"lastModified": "24.04.2025 09:20",
+			"lines": [
+				{
+					"filterName": "",
+					"name": "ICE/IC",
+					"property": "LONG_DISTANCE"
+				}
+			],
+			"links": [],
+			"magnoliaPath": "/baustellen/fernverkehr-ag/reduced_service_construction0",
+			"mapHref": "https://karte.bahn.de/detail/12f0b3cb-abf1-4192-8db2-48b6c5b4522d",
+			"properties": [
+				"LONG_DISTANCE"
+			],
+			"states": [
+				"BW",
+				"BY",
+				"BE",
+				"BB",
+				"HB",
+				"HH",
+				"HE",
+				"MV",
+				"NI",
+				"NW",
+				"RP",
+				"SL",
+				"SN",
+				"ST",
+				"SH",
+				"TH"
+			],
+			"summary": "📅 22. April (21 Uhr) bis 25. Mai 2025 (22 Uhr)",
+			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>Brückenarbeiten</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>Kronach, Ludwigsstadt, Rudolstadt (Thüringen), Saalfeld (Saale) (6.-25.05), Jena Paradies (6.-25.05.) und Weißenfels (6.-25.05.)</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>Erlangen, Bamberg, Lichtenfels, Jena-Göschwitz,&nbsp;Jena Paradies, Naumburg (Saale) Hauptbahnhof und Leipzig Hauptbahnhof</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Die Züge der IC-Verbindung Karlsruhe-Stuttgart-Nürnberg-Leipzig verkehren nur zwischen Karlsruhe und Nürnberg/Crailsheim.</li><li>Der Abschnitt zwischen Crailsheim/Nürnberg und Leipzig entfällt.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
+			"topDisruption": false
+		},
+		{
+			"author": "FERNVERKEHR_AG",
+			"cause": {
+				"category": "construction",
+				"label": "Bauarbeiten"
+			},
+			"detailPagePath": "/service/fahrplaene/90516cce-1d08-467c-b066-28bb66f05be9",
+			"disruptionId": "5e2678d3-0b8f-4172-8cc1-f56b579508b7",
+			"downloads": [
+				{
+					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-24/a239855d-1342-43a1-b478-f2512f63725bDetailinformationen%2BBauarbeiten%2Bzwischen%2BAmsterdam%2Bund%2BBad%2BBentheim.pdf",
+					"info": "",
+					"label": "Detailinformationen Bauarbeiten zwischen Amsterdam und Bad Bentheim.pdf",
+					"openInNewTab": true
+				}
+			],
+			"durationBegin": "07.06.2025",
+			"durationEnd": "09.06.2025",
+			"expand": false,
+			"headline": "Amsterdam ⇄ Bad Bentheim: Zugausfälle zwischen Amsterdam und Berlin",
+			"id": "90516cce-1d08-467c-b066-28bb66f05be9",
+			"images": [
+				{
+					"alt": "Reisendenkarte 24.04.2025 09:09:49",
+					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-24/01495402-994f-4c60-a901-03355e04b81freisendenkarte_20250424-090949.png",
+					"info": "",
+					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-24/01495402-994f-4c60-a901-03355e04b81freisendenkarte_20250424-090949.png",
+					"openInNewTab": true
+				}
+			],
+			"lastModified": "24.04.2025 09:20",
+			"lines": [
+				{
+					"filterName": "",
+					"name": "ICE/IC",
+					"property": "LONG_DISTANCE"
+				}
+			],
+			"links": [],
+			"magnoliaPath": "/baustellen/fernverkehr-ag/reduced_service_construction7",
+			"mapHref": "https://karte.bahn.de/detail/5e2678d3-0b8f-4172-8cc1-f56b579508b7",
+			"properties": [
+				"LONG_DISTANCE"
+			],
+			"states": [
+				"BW",
+				"BY",
+				"BE",
+				"BB",
+				"HB",
+				"HH",
+				"HE",
+				"MV",
+				"NI",
+				"NW",
+				"RP",
+				"SL",
+				"SN",
+				"ST",
+				"SH",
+				"TH"
+			],
+			"summary": "📅 7. bis 9. Juni 2025",
+			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>Bauarbeiten in den Niederlanden</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>Amsterdam Centraal, Hilversum, Amersfoort Centraal, Apeldoorn, Deventer, Hengelo, Bad Bentheim, Rheine, Osnabrück Hbf, Bünde (Westf), Hannover Hbf, Berlin-Spandau, Berlin Hbf, Berlin Ostbahnhof</p><p>❌&nbsp;<strong>Einschränkungen:</strong></p><ul><li>Züge entfallen auf dem gesamten Laufweg zwischen Amsterdam und Berlin</li><li>In Osnabrück und Bünde (Westf) entfallen die Züge aufgrund weiterer Bauarbeiten bis 8. August</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p><p></p>",
+			"topDisruption": false
+		},
+		{
+			"author": "FERNVERKEHR_AG",
+			"cause": {
+				"category": "construction",
+				"label": "Bauarbeiten"
+			},
 			"detailPagePath": "/service/fahrplaene/30ed0baf-daf7-4e6a-a76c-aa749f6728ff",
 			"disruptionId": "71b18631-8e65-4699-832c-b3eb375b43a2",
 			"downloads": [
@@ -587,65 +712,6 @@
 			],
 			"summary": "📅 2. Mai (5 Uhr) bis 6. Juni 2025 (5 Uhr) ",
 			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>Weichenerneuerung</p><p>🚉&nbsp;<strong>Halte mit reduziertem Zugverkehr:</strong> Wiesbaden Hbf, Mainz Hbf, Frankfurt Flughafen Fernbahnhof</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Die Züge der zweistündlichen ICE-Verbindung Wiesbaden-Frankfurt-Fulda-Leipzig-Dresden beginnen bzw. enden in Frankfurt Hauptbahnhof. Der Abschnitt zwischen Frankfurt und Wiesbaden entfällt.</li><li>Zwischen Frankfurt und Wiesbaden verkehren in den Tagesrandlagen noch Einzelzüge direkt bzw. mit Umstieg unter anderem in Limburg Süd oder Mainz.&nbsp;</li></ul><p>ℹ️ Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p>",
-			"topDisruption": false
-		},
-		{
-			"author": "FERNVERKEHR_AG",
-			"cause": {
-				"category": "construction",
-				"label": "Bauarbeiten"
-			},
-			"detailPagePath": "/service/fahrplaene/4c63f9e0-deed-4bc4-915a-1bb36d7e5b5a",
-			"disruptionId": "12f0b3cb-abf1-4192-8db2-48b6c5b4522d",
-			"downloads": [],
-			"durationBegin": "22.04.2025",
-			"durationEnd": "23.05.2025",
-			"expand": false,
-			"headline": "Nürnberg ⇄ Leipzig: Zugausfälle ",
-			"id": "4c63f9e0-deed-4bc4-915a-1bb36d7e5b5a",
-			"images": [
-				{
-					"alt": "Reisendenkarte 19.03.2025 13:19:53",
-					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-11/b12c72b3-383f-4dbb-b543-b0a23361be1creisendenkarte_20250319-131953.png",
-					"info": "",
-					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-11/b12c72b3-383f-4dbb-b543-b0a23361be1creisendenkarte_20250319-131953.png",
-					"openInNewTab": true
-				}
-			],
-			"lastModified": "11.04.2025 14:50",
-			"lines": [
-				{
-					"filterName": "",
-					"name": "ICE/IC",
-					"property": "LONG_DISTANCE"
-				}
-			],
-			"links": [],
-			"magnoliaPath": "/baustellen/fernverkehr-ag/reduced_service_construction0",
-			"mapHref": "https://karte.bahn.de/detail/12f0b3cb-abf1-4192-8db2-48b6c5b4522d",
-			"properties": [
-				"LONG_DISTANCE"
-			],
-			"states": [
-				"BW",
-				"BY",
-				"BE",
-				"BB",
-				"HB",
-				"HH",
-				"HE",
-				"MV",
-				"NI",
-				"NW",
-				"RP",
-				"SL",
-				"SN",
-				"ST",
-				"SH",
-				"TH"
-			],
-			"summary": "📅 22. April (21 Uhr) bis 23. Mai 2025 (22 Uhr)",
-			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>Brückenarbeiten</p><p>🚧&nbsp;<strong>Entfallende Halte: </strong>Kronach, Ludwigsstadt, Rudolstadt (Thüringen), Saalfeld (Saale) (6.-23.05), Jena Paradies (6.-23.05.) und Weißenfels (6.-23.05.)</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>Erlangen, Bamberg, Lichtenfels, Jena-Göschwitz,&nbsp;Jena Paradies, Naumburg (Saale) Hauptbahnhof und Leipzig Hauptbahnhof</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Die Züge der IC-Verbindung Karlsruhe-Stuttgart-Nürnberg-Leipzig verkehren nur zwischen Karlsruhe und Nürnberg/Crailsheim.</li><li>Der Abschnitt zwischen Crailsheim/Nürnberg und Leipzig entfällt.</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
 			"topDisruption": false
 		},
 		{
