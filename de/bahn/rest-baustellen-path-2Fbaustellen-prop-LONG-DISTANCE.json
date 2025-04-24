@@ -1234,65 +1234,6 @@
 				"category": "construction",
 				"label": "Bauarbeiten"
 			},
-			"detailPagePath": "/service/fahrplaene/d2248264-7b1a-463e-bfa9-db27cecdb4bf",
-			"disruptionId": "59ddf2d3-8173-4fdb-8f37-0562ecbc7f0b",
-			"downloads": [],
-			"durationBegin": "16.04.2025",
-			"durationEnd": "24.04.2025",
-			"expand": false,
-			"headline": "Kassel ⇄ Fulda und Raum Hamburg: Haltausfälle",
-			"id": "d2248264-7b1a-463e-bfa9-db27cecdb4bf",
-			"images": [
-				{
-					"alt": "Reisendenkarte 27.03.2025 17:18:27",
-					"href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-01/7ca72dd7-5e88-4672-9008-9e82dce8f92areisendenkarte_20250327-171827.png",
-					"info": "",
-					"label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-04-01/7ca72dd7-5e88-4672-9008-9e82dce8f92areisendenkarte_20250327-171827.png",
-					"openInNewTab": true
-				}
-			],
-			"lastModified": "01.04.2025 10:30",
-			"lines": [
-				{
-					"filterName": "",
-					"name": "ICE/IC",
-					"property": "LONG_DISTANCE"
-				}
-			],
-			"links": [],
-			"magnoliaPath": "/baustellen/fernverkehr-ag/stop_moved_construction4",
-			"mapHref": "https://karte.bahn.de/detail/59ddf2d3-8173-4fdb-8f37-0562ecbc7f0b",
-			"properties": [
-				"LONG_DISTANCE"
-			],
-			"states": [
-				"BW",
-				"BY",
-				"BE",
-				"BB",
-				"HB",
-				"HH",
-				"HE",
-				"MV",
-				"NI",
-				"NW",
-				"RP",
-				"SL",
-				"SN",
-				"ST",
-				"SH",
-				"TH"
-			],
-			"summary": "📅 16. April (5 Uhr) bis 24. April (23 Uhr)",
-			"text": "<p>👷 <strong>Grund der Bauarbeiten: </strong>Containerarbeiten, Weichenerneuerung</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>Hamburg Dammtor, Hamburg Hauptbahnhof</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Die Mehrheit der Züge der ICE-Verbindung Hamburg-Kassel-Würzburg-München beginnt bzw. endet in Hamburg Harburg.</li><li>Die Züge auf der Achse Hamburg-Kassel-Fulda-München werden zwischen Kasel und Fulda mit Fahrzeitverlängerungen von bis zu 30 Minuten umgeleitet.</li></ul><p>ℹ️ Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p>",
-			"topDisruption": false
-		},
-		{
-			"author": "FERNVERKEHR_AG",
-			"cause": {
-				"category": "construction",
-				"label": "Bauarbeiten"
-			},
 			"detailPagePath": "/service/fahrplaene/7ee73cbd-e44b-43ea-b377-0650a8cb7596",
 			"disruptionId": "cc4350f1-d224-465c-a3fd-83daa148fe43",
 			"downloads": [],
