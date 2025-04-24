@@ -195,7 +195,7 @@ cirrus nimbini v4 - Pro Edition
 
   * Kein vorinstalliertes Betriebssystem
   * **Ubuntu 24.04 LTS** „Noble Numbat“
-  * **Ubuntu 24.10** „Oracular Oriole“
+  * **Ubuntu 25.04** „Plucky Puffin“
   * **Linux Mint 22**
   * **Windows 11 Home**
     original OEM Lizenz
@@ -209,7 +209,7 @@ cirrus nimbini v4 - Pro Edition
 
   * Kein vorinstalliertes Betriebssystem
   * **Ubuntu 24.04 LTS** „Noble Numbat“
-  * **Ubuntu 24.10** „Oracular Oriole“
+  * **Ubuntu 25.04** „Plucky Puffin“
   * **Linux Mint 22**
   * **Windows 11 Home**
     original OEM Lizenz
