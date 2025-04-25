@@ -496,9 +496,7 @@ sites:
       - css_select: .page-content
       - css_remove: style, img
       - html_markdownify
-  - url:
-      - https://www.bahn.de/.rest/baustellen/?path=%2Fbaustellen&prop=LONG_DISTANCE
-      - https://db-bordgastronomie.de/api/api?filter={%22register%22%3A%22zzzz%22}
+  - url: https://db-bordgastronomie.de/api/api?filter={%22register%22%3A%22zzzz%22}
     editors:
       - json_prettify
 
