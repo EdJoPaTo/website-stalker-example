@@ -86,6 +86,32 @@ Ein lässiger Print, ein zuverlässiges Versprechen: STRAUSS.WORKS. **Jetzt in 
 
 ####
 
+**Strauss-Fans** glücklich machen
+
+ ####
+
+---
+
+###  STRAUSS Gutschein direkt drucken  ###
+
+---
+
+#####  Motiv aussuchen  #####
+
+---
+
+#####  Betrag wählen  #####
+
+---
+
+#####  Direkt verschenken  #####
+
+---
+
+[Jetzt bestellen](https://gutschein.strauss.de/)
+
+####
+
 **Coole Geschenke** in jedem Sommer-Set
 
  ####
@@ -146,11 +172,12 @@ Hochwertige Materialvielfalt
 
 [für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
 
-###  Bald ist Muttertag  ###
+####
 
----
+Lieblingsstücke für Lieblingsmenschen – **jetzt online entwerfen**
 
- Mit Strauss Einzigartiges schenken
+ ####
+
 ---
 
 Perfekte
@@ -159,13 +186,12 @@ Perfekte
 
 ---
 
-Geschenke für
-
+ Geschenke für
 ----------
 
 ---
 
-Mamas!
+Papas!
 
 ----------
 
@@ -173,13 +199,18 @@ Mamas!
 
 **Druck & Stick:** individuell, einfach, besonders!
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten/myDesign_Muttertag?itemorigin=startseite_fs25)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten/myDesign_Vatertag?itemorigin=startseite_fs25)
 
 zu den Produkten
 
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
+ Grosse Motivauswahl
+---
 
-[Gutschein per E-Mail](https://gutschein.strauss.de/)
+ für alle Gewerke & Anlässe
+---
+
+ Schnell & unkompliziert
+---
 
  Schuhneuheiten
 ---
