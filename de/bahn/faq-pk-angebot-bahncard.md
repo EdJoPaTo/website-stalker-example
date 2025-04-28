@@ -1107,6 +1107,69 @@ Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-bahncard-50)
 
+ Wie lange gibt es die BahnCard 50 Mitfahreraktion?
+----------
+
+Die Aktion gilt vom 1. Mai bis zum 30. September 2025. In diesem Zeitraum können BahnCard 50-Inhabende einen zweiten Reisenden in der gleichen Wagenklasse und zum gleichen Rabatt mitnehmen. Die Rückfahrt muss bis zum 30. September 2025 erfolgen und ebenfalls im gleichen Buchungsschritt gebucht werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-gibt-es-die-bahncard-50-mitfahreraktion)
+
+ Wie funktioniert die BahnCard 50 Mitfahreraktion?
+----------
+
+Im Zuge der Buchung fügt der Inhabende der BahnCard 50 einen zweiten Reisenden hinzu – auch bei diesem die BahnCard 50-Ermäßigung und dieselbe Wagenklasse angeben. Die mitreisende Person erhält die gleichen Rabatte wie der Inhabende der BC 50, benötigt jedoch keine eigene BahnCard 50. Beide Reisende müssen auf einem Ticket gebucht werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-bahncard-50-mitfahreraktion)
+
+ Wann gilt die BahnCard 50 Mitfahreraktion?
+----------
+
+Nein, die Aktion gilt ausschließlich für Reisen im Zeitraum 1. Mai bis 30. September 2025. Auch die Rückfahrt muss spätestens bis zum 30. September 2025 erfolgen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-bahncard-50-mitfahreraktion)
+
+ Wo kann ich die Tickets kaufen?
+----------
+
+Tickets können Sie online oder in der App DB Navigator sowie in den DB Reisezentren, DB Agenturen und am DB-Automaten kaufen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-die-tickets-kaufen-mitfahreraktion)
+
+ Was ist zu tun, wenn die mitreisende Person eine BahnCard 25 besitzt?
+----------
+
+Besitzt die mitreisende Person selbst eine BahnCard 25 darf diese nicht bei der Buchung der gemeinsamen Reise angegeben werden. Für beide Reisende muss eine BahnCard 50-Ermäßigung ausgewählt werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitreisender-besitzt-bc25-mitfahreraktion)
+
+ Kann ich die BahnCard 50 Mitfahreraktion auch nutzen, wenn ich ein Ticket für eine internationale Fahrt kaufen möchte?
+----------
+
+Nein, das ist nicht möglich. Die Aktion gilt nur für Fahrten innerhalb Deutschlands und nicht für grenzüberschreitende Fahrten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-50-internationale-fahrt-mitfahreraktion)
+
+ Gilt die BahnCard 50 Mitfahreraktion auch für Fahrkarten im Nahverkehr?
+----------
+
+Nein, die Aktion gilt nicht für Fahrtenkarten des Nahverkehrs (z. B. Verbundangebote oder der Normalpreis des Deutschlandtarifs). Sie gilt nur für innerdeutsche Fahrkarten im Fernverkehr, wenn mindestens eine Teilstrecke im ICE, IC/EC erfolgt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-50-nahverkehr-mitfahreraktion)
+
+ Kann ich die mitreisende Person im Nachhinein stornieren, falls sie doch nicht mitreisen kann?
+----------
+
+Nein, das ist leider nicht möglich. Wenn die Konditionen des gebuchten Angebotes eine Stornierung erlauben, kann das gesamte Ticket storniert werden. Eine Stornierung nur einer der beiden gebuchten Personen ist ausgeschlossen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitreisende-person-stornieren-mitfahreraktion)
+
+ Gilt die BahnCard 50 Mitfahreraktion auch für Inhabende einer BahnCard Business 50?
+----------
+
+Ja, auch Inhabende einer BahnCard Business 50 können an der Aktion teilnehmen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-bahncard-business-50-mitfahreraktion)
+
  Wofür kann ich die BahnCard 100 nutzen?
 ----------
 
