@@ -6565,7 +6565,7 @@ Ein Versand an folgende Stellen ist möglich:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kennzeichne-ich-mein-gepaeckstueck)
 
- Für welche Züge ist der Fundservice zuständig?
+ Für welche Züge\* ist der Fundservice zuständig?
 ----------
 
 Das Fundsachenmanagement für Fundsachen aus Zügen wird von der DB InfraGO AG im Auftrag der hier genannten Eisenbahnverkehrsunternehmen durchgeführt:
