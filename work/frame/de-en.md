@@ -34,12 +34,12 @@ AMD-powered with modular, upgradeable graphics and fully customizable input.
 
 [Learn more](/products/laptop16-diy-amd-7040)
 
-Framework Marketplace
+Upgrade, customize, and repair.
 ----------
 
-**Pick up new modules for upgrade, replacement, and customization of your Framework Laptop in the Framework Marketplace.**
+Pick up new parts and modules for your Framework products.
 
-[Explore our Marketplace Explore our Marketplace](/de/en/marketplace)
+[Shop our Marketplace](/marketplace)
 
 ### Keep track of what we’re
 working on with the Framework Newsletter. ###
