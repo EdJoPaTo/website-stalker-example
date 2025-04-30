@@ -79,7 +79,7 @@ Unsere Servicestationen stehen Ihnen mit einer Auswahl an kostenlosen, alkoholfr
 
 #### Speisen- und Getränkekarte / Allergene  ####
 
-* [Speisen und Getränke im Premium Bereich (PDF, 609 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/db-lounge-bistro/Speisekarte-DB-Lounge-Premium-Bereich.pdf)
+* [Speisen und Getränke im Premium Bereich (PDF, 608 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/db-lounge-bistro/Speisekarte-DB-Lounge-Premium-Bereich.pdf)
 * [Allergene zum Speisenangebot (PDF, 348 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/db-lounge-bistro/DB-Lounge-Allergenhandbuch.pdf)
 
 Nutzungsbestimmungen und Legitimationsprüfung
