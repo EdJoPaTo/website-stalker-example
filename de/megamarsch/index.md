@@ -1,12 +1,12 @@
 #### DIe nächsten Megamärsche: ####
 
-### Ostsee ###
+### HANNOVER ###
 
-### 26. april 2025 ###
+### 10. Mai 2025 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/ostsee)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/hannover)
 
 |     Events     |   2025   |   2026   |
 |----------------|----------|----------|
@@ -14,7 +14,7 @@
 |    Dresden     |08/03/2025|07/03/2026|
 |Mönchengladbach |22/03/2025|21/03/2026|
 |    Hamburg     |05/04/2025|11/04/2026|
-|     Ostsee     |26/04/2025|          |
+|     Ostsee     |26/04/2025|25/04/2025|
 |    Hannover    |10/05/2025|          |
 |    München     |17/05/2025|          |
 |     Bremen     |24/05/2025|          |
