@@ -160,7 +160,7 @@ None
 
 Optional Accessories
 
-Star Drive Reversible USB 3.2 Recovery Drive
+32GB Reversible USB Recovery Drive
 
 StarPort 12-port USB-C PD Hub
 
