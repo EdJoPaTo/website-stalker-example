@@ -315,7 +315,6 @@ Close
 * Spanish (Latin American) (2nd Gen)
 * Spanish (Spain) (2nd Gen)
 * Swedish/Finnish (2nd Gen)
-* Thai (2nd Gen)
 * Traditional Chinese (2nd Gen)
 
 **Power Adapter**
