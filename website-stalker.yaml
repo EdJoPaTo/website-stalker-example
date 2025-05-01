@@ -462,8 +462,10 @@ sites:
       - https://www.bahn.de/faq/pk/angebot/upgrade
       - https://www.bahn.de/faq/pk/service
       - https://www.bahn.de/service/fahrplaene/bauarbeiten
+      - https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte
       - https://www.bahn.de/service/informationen-buchung/auslastungsinformation
       - https://www.bahn.de/service/informationen-buchung/fahrgastrechte
+      - https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen
       - https://www.bahn.de/service/informationen-buchung/nahverkehrsfreigabe
       - https://www.bahn.de/service/informationen-buchung/umtausch-stornierung
       - https://www.bahn.de/service/ueber-uns/zugtypen
