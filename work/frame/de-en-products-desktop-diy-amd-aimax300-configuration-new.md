@@ -508,6 +508,15 @@ Close
 
  MicroSD (2nd Gen) Expansion Card
 
+ Details
+
+ MicroSD Expansion Card
+----------
+
+Supporting MicroSD UHS-I and UHS-II cards. Designed to reduce power consumption when a card is not inserted.
+
+Close
+
 0123456
 
 (Out of stock)  +€20
