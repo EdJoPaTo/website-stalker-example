@@ -452,6 +452,7 @@ sites:
 
   - url:
       - https://www.bahn.de/angebot/bahncard
+      - https://www.bahn.de/angebot/bahncard/vergleich
       - https://www.bahn.de/angebot/regio/deutschland-ticket
       - https://www.bahn.de/angebot/uebersicht-online-nicht-buchbar
       - https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung
