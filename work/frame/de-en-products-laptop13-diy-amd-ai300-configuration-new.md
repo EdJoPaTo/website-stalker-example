@@ -261,15 +261,15 @@ FAQs
 Close
 
 * Black
-* Translucent
 * Orange +€10
 * Lavender +€10
 * Green +€10
 * Gray +€10
 * Red +€10
-* Translucent Black +€10
+* Translucent
 * Translucent Purple +€10
 * Translucent Green +€10
+* Translucent Black +€10
 
 **Keyboard**
 
