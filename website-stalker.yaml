@@ -526,6 +526,30 @@ sites:
           pattern: \?inst-v=[a-f\d-]+
           replace: ""
       - html_markdownify
+  - url: https://support.shelly.cloud/en/support/home
+    editors:
+      - css_select: main
+      - css_remove: style, form, img, svg
+      - html_markdownify
+      - regex_replace:
+          pattern: \)\s*\[
+          replace: ")\n["
+  - url: https://shelly-api-docs.shelly.cloud/gen1/#changelog
+    editors:
+      - css_select: .content
+      - css_remove: img
+      - css_tag_replace:
+          selector: "#changelog + table tr"
+          replace: br
+      - html_markdownify
+      - regex_replace:
+          pattern: ' *\\\*'
+          replace: "*"
+  - url: https://shelly-api-docs.shelly.cloud/gen2/changelog/
+    editors:
+      - css_select: main
+      - css_remove: svg, button, .anchor .hash-link, .table-of-contents
+      - html_markdownify
 
   - url:
       - https://www.megamarsch.de/
