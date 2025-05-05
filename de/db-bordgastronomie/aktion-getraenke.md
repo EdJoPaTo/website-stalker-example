@@ -1,16 +1,14 @@
-Erfrischend neu – Birra Moretti und Krombacher Spezi
+Erfrischend neu – SCAVI & RAY und Krombacher Spezi
 ==========
 
-Mit „einem Schluck Dolce Vita“ wird Ihre Reise zu einem sinnlichen Kurzurlaub nach Italien.
+SCAVI & RAY – eine Erfolgsgeschichte
 ----------
 
- Egal, ob Sie entspannt auf dem Weg in den Feierabend sind oder voller Vorfreude in den Urlaub starten – **Birra Moretti** bringt das italienische Lebensgefühl ins Bordbistro.
+ In nur 20 Jahren ist **SCAVI & RAY** zu einem der führenden Namen in der Welt von Wein und Prosecco geworden ist. Die Marke verkörpert italienische Lebensfreude, Eleganz und höchste Qualität bis ins kleinste Detail. Die edlen Trauben aus den beliebtesten Anbaugebieten Italiens bilden die Basis für ein vielfältiges Sortiment: von prickelndem Prosecco über vollmundige Weine bis hin zu innovativen Spirituosen und mediterranen Aperitifs.
 
- Seit 1859 steht **Birra Moretti** für italienische Authentizität und Stil: mit feinem Hopfen und Mais gebraut, überzeugt es durch einen perfekt ausgewogenen Geschmack. Dieses feinherbe Lager passt nämlich nicht nur zu authentischem italienischem Essen wie Pasta, Pizza oder Secondi, sondern ist auch als Aperitivo die ideale Wahl.
+ Ein besonderes Highlight für die warmen Sommermonate ist der **SCAVI & RAY Sprizz Aperitivo** – inspiriert von der traditionellen italienischen Rezeptur aus Prosecco, Bitterorangen-Likör und frischen Orangenspalten. Diese perfekt abgestimmte Ready-to-Drink-Variante überzeugt mit nur 5,5 % Vol. Alkohol und einer harmonischen Balance aus spritziger Frische, Grapefruitnoten und floralen Orangennuancen. Ein prickelndes Geschmackserlebnis für stilvolle Genussmomente und entspannte Auszeiten!
 
- Gebraut unter italienischer Lizenz in Österreich, wird Birra Moretti – kombiniert mit **Lisas Bio-Kesselchips** oder **Elephant Pretzels** – zum Highlight Ihres Aperitivo-Moments. Ein Stück Italien, direkt im Bordbistro.
-
-[www.birramoretti.com](/rl/?t=w_birra-moretti-2503)
+[www.scavi-ray.com](/rl/?t=w_scavi-ray-2505)
 
 Krombacher Spezi® vereint fruchtigen Orangensaft und prickelnde Cola zu einem echten Geschmackserlebnis.
 ----------

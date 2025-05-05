@@ -90,7 +90,7 @@ For a summary of all entries with associated metadata, see [File Format Cross-Re
 
 #### Multimedia Files ####
 
-[android\_opengl\_shaders\_cache](android_opengl_shaders_cache/) , [au](au/) , [avi](avi/) , [blender\_blend](blender_blend/) , [creative\_voice\_file](creative_voice_file/) , [fasttracker\_xm\_module](fasttracker_xm_module/) , [genmidi\_op2](genmidi_op2/) , [id3v1\_1](id3v1_1/) , [id3v2\_3](id3v2_3/) , [id3v2\_4](id3v2_4/) , [magicavoxel\_vox](magicavoxel_vox/) , [ogg](ogg/) , [quicktime\_mov](quicktime_mov/) , [s3m](s3m/) , [standard\_midi\_file](standard_midi_file/) , [stl](stl/) , [swf](swf/) , [vp8\_ivf](vp8_ivf/) , [wav](wav/)
+[android\_opengl\_shaders\_cache](android_opengl_shaders_cache/) , [au](au/) , [avi](avi/) , [blender\_blend](blender_blend/) , [creative\_voice\_file](creative_voice_file/) , [fasttracker\_xm\_module](fasttracker_xm_module/) , [genmidi\_op2](genmidi_op2/) , [id3v1\_1](id3v1_1/) , [id3v2\_3](id3v2_3/) , [id3v2\_4](id3v2_4/) , [magicavoxel\_vox](magicavoxel_vox/) , [ogg](ogg/) , [quicktime\_mov](quicktime_mov/) , [s3m](s3m/) , [standard\_midi\_file](standard_midi_file/) , [stl](stl/) , [swf](swf/) , [vp8\_duck\_ivf](vp8_duck_ivf/) , [wav](wav/)
 
 #### Networking Protocols ####
 
