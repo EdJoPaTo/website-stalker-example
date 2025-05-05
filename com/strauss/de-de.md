@@ -1,88 +1,53 @@
-schwarz-
-seegrün
+Luftig & leicht
 ----------
 
 ---
 
- Neue Highlight-Farbe
----
+ sportlicher Look
 
-Unsere Kunden haben sie sich gewünscht, jetzt kommt sie fest ins Sortiment: Die beliebte Farbkombi schwarz-seegrün ziert ab sofort die e.s.motion 2020-Produkte.
+ leichte Stoffe
 
-[für Herren](https://www.strauss.com/de/de/e-s-motion-2020-schwarz-seegruen/?itemorigin=startseite_fs25)
+ viel Bewegungsfreiheit
 
-[für Damen](https://www.strauss.com/de/de/e-s-motion-2020-schwarz-seegruen-damen/?itemorigin=startseite_fs25)
+[alle Produkte](https://www.strauss.com/de/de/e-s-ambition/?itemorigin=startseite_fs25)
 
-[mehr erfahren](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-schwarz-seegruen?itemorigin=startseite_fs25)
+[mehr erfahren](https://www.strauss.com/de/de/ambition?itemorigin=startseite_fs25)
 
-Neue
-
-Farbe
+###  O6 Berufsschuhe  ###
 
 ---
 
-Neue
-
-Farbe
-
----
-
-Neue
-
-Farbe
-
----
-
-Neue
-
-Farbe
-
----
-
-Neue
-
-Farbe
-
----
-
- Safety
-Sneaker
+ Wetterfestes
+Leichtgewicht
 ----------
 
 ---
 
-Sportlich, luftig, leicht: aber sicher!
+ wasserdicht
 
----
+ winddicht
 
-Sicherheit die immer da ist, aber nie spürbar: Das ultraleichte S1-Modell **e.s. St. Louis low** verbindet Laufschuh-Komfort mit Zehenschutz.
+ atmungsaktiv
 
-[e.s. St. Louis low](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?itemorigin=startseite_fs25)
+[jetzt kaufen](https://www.strauss.com/de/de/berufsschuhe-o6/o6-berufsschuhe-e-s-poli-low-1003370-86171-1867.html?itemorigin=startseite_fs25)
 
-[mehr erfahren](https://www.strauss.com/de/de/schuhneuheiten?itemOrigin=startseite_fs25)
+[zu allen Schuhneuheiten](https://www.strauss.com/de/de/neuheiten-schuhe/?itemorigin=startseite_fs25)
 
-**Hidden Safety**
+ e.s. Poli low
 
-mit Zehenschutz &
-Rutschhemmung
-
- WORKWEAR
-FÜR MACHER
+ anthrazit-
+warnorange
 ----------
 
 ---
 
-Ikonisch. Authentisch. Cool.
+ Hosen & Jacken
 
----
+ mit passenden Basics
 
-Ein lässiger Print, ein zuverlässiges Versprechen: STRAUSS.WORKS. **Jetzt in vielen Farben ein Statement setzen.**
+ neue Farbkombi
 
-[für Herren](https://www.strauss.com/de/de/strauss-works-prints?itemorigin=startseite_fs25)
-
-[für Damen](https://www.strauss.com/de/de/strauss-works-prints-damen?itemorigin=startseite_fs25)
-
-[für Kinder](https://www.strauss.com/de/de/strauss-works-prints-kinder?itemorigin=startseite_fs25)
+[neue Farbe entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-anthrazit-warnorange?itemorigin=startseite_fs25)
 
 ####
 
@@ -142,35 +107,87 @@ gratis Artikeln
 
 [Kinder-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Kinder/?itemorigin=startseite_fs25&sort=newest)
 
-###
-
-**Shirt & Sweat**-Vielfalt
-
- ###
+###  Leichte Stoffe & Flexibler Komfort  ###
 
 ---
 
- Basics für alle
-im Team
+###  Der Strauss Sommer wird mit Sicherheit luftig!  ###
+
+---
+
+[Shirts](https://www.strauss.com/de/de/arbeitsshirts/?itemorigin=startseite_fs25)
+
+Schuhe
+
+ Neu
+---
+
+ e.s. Ellenbogenschoner
+ Flex-Comfort
+---
+
+[jetzt kaufen](https://www.strauss.com/de/de/arbeitsschutz-zubehoer/e-s-ellenbogenschoner-flex-comfort-7030240-8371594-1.html?itemorigin=startseite_fs25&size=172)
+
+ Neu
+---
+
+ e.s. Knieschoner
+ Flex-Comfort
+---
+
+[jetzt kaufen](https://www.strauss.com/de/de/knieschutz-kniepolster/e-s-knieschoner-flex-comfort-7030230-8371599-1.html?itemorigin=startseite_fs25&size=172)
+
+[Shorts](https://www.strauss.com/de/de/arbeitsshorts/?itemorigin=startseite_fs25)
+
+###  Bundhosen  ###
+
+---
+
+###  mit besonderem Coolness-Faktor  ###
+
+---
+
+ mit Reißverschlussbelüftungen
+
+ Bundhose e.s.motion 2020
+
+ 15 Farben
+
+ mit Reißverschlussbelüftungen
+
+ Bundhose e.s.motion Sommer
+
+ 4 Farben
+
+ besonders leicht
+
+ Cargohose e.s.motion ten Sommer
+
+ 6 Farben
+
+ besonders leicht
+
+ Bundhose e.s.concrete light
+
+ 5 Farben
+
+**Work&Travel:** unterwegs mit Strauss
+
 ----------
 
 ---
 
-3 Schnitte & viele Größen
-
+ perfekt für die Reise
 ---
 
-Über 30 Farbtöne
-
+ Neu
 ---
 
-Hochwertige Materialvielfalt
-
+ Bag in Business:
+Handgepäck- und Rollkoffer
 ---
 
-[für Herren](https://www.strauss.com/de/de/shirts-basics?itemorigin=startseite_fs25)
-
-[für Damen](https://www.strauss.com/de/de/shirts-basics-damen?itemorigin=startseite_fs25)
+[alle work&travel Taschen entdecken](https://www.strauss.com/de/de/workandtravel)
 
 ####
 
@@ -211,33 +228,6 @@ zu den Produkten
 
  Schnell & unkompliziert
 ---
-
- Schuhneuheiten
----
-
- Look und Komfort eines Sportschuhs trifft auf den starken Schutz eines Arbeitsschuhs: Die neuen Berufs- und Sicherheitsschuhe setzen Maßstäbe.
-
-[zu allen Schuhneuheiten](https://www.strauss.com/de/de/neuheiten-schuhe/?itemorigin=startseite_fs25)
-
-[jetzt entdecken](https://www.strauss.com/de/de/schuhneuheiten?itemOrigin=startseite_fs25)
-
-**Perfekt ausgerüstet** für den Frühling!
-
----
-
- Passende Outfits für das
----
-
- Arbeiten im Grünen
----
-
-Workwear für Herren
-
-Workwear für Damen
-
-[Gartenscheren](https://www.strauss.com/de/de/gartenscheren/?itemorigin=startseite_fs25)
-
-[BIG BAG Gartenabfallsack](https://www.strauss.com/de/de/muellsaecke-staender/big-bag-gartenabfallsack-200-liter-7630300-1578989-0.html?itemorigin=startseite_fs25)
 
 ###
 
