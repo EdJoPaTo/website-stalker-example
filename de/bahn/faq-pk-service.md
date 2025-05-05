@@ -2049,6 +2049,8 @@ Sie erhalten nach dem Sofortstorno den kompletten Zahlungsbetrag automatisch auf
 
 Die Sofortstornierung ist nur vor dem 1. Geltungstag Ihres Tickets möglich.
 
+* [Weitere Informationen zum Thema Stornierung Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-kann-ich-mein-ticket-mittels-sofortstornierung-zurueckgeben)
 
  Wie kann ich eine Sofortstornierung vornehmen?
@@ -2339,7 +2341,7 @@ Sie erhalten diese Benachrichtigung nach dem durchgeführten Kontozugriff in Ihr
 
 Es handelt sich um eine gesetzliche Anforderung, die für alle Kreditinstitute bindend ist. Auf den Inhalt dieser Nachricht hat die Deutsche Bahn keinen Einfluss.
 
-Bitte beachten Sie auch unsere Hinweise zu „Phishing – gemeinsam gegen Betrug im Internet!“ unter [www.bahn.de/info/sonderkommunikation-phishing](https://www.bahn.de/info/sonderkommunikation-phishing)
+Bitte beachten Sie auch unsere Hinweise zu "Phishing – gemeinsam gegen Betrug im Internet!" unter [www.bahn.de/info/sonderkommunikation-phishing](https://www.bahn.de/info/sonderkommunikation-phishing)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nachricht-ueber-kontozugriff)
 

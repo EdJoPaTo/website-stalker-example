@@ -495,7 +495,7 @@ Weitere Informationen erhalten Sie [hier](https://www.bahn.de/angebot/regio/deut
  Wer kann die My BahnCard 100 erwerben?
 ----------
 
-Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 05.10.2025.
+Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 10.06.2026.
 
 Die BahnCard 100 erhalten Sie ohne Foto. Bitte führen Sie einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit. Bei Kunden unter 16 Jahren ist kein Lichtbildausweis erforderlich.
 
