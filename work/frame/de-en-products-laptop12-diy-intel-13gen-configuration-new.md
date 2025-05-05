@@ -433,14 +433,14 @@ Close
 
 (Out of stock)  +€20
 
- MicroSD Expansion Card
+ MicroSD (2nd Gen) Expansion Card
 
  Details
 
  MicroSD Expansion Card
 ----------
 
- Supporting MicroSD UHS-I cards as well as the new UFS Card standard for huge performance improvements on read, write, and random access.
+Supporting MicroSD UHS-I and UHS-II cards. Designed to reduce power consumption when a card is not inserted.
 
 Close
 
