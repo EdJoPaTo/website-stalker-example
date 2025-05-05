@@ -45,27 +45,6 @@ Farbe
 
 ---
 
- Safety
-Sneaker
-----------
-
----
-
-Sportlich, luftig, leicht: aber sicher!
-
----
-
-Sicherheit die immer da ist, aber nie spürbar: Das ultraleichte S1-Modell **e.s. St. Louis low** verbindet Laufschuh-Komfort mit Zehenschutz.
-
-[e.s. St. Louis low](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?itemorigin=startseite_fs25)
-
-[mehr erfahren](https://www.strauss.com/de/de/schuhneuheiten?itemOrigin=startseite_fs25)
-
-**Hidden Safety**
-
-mit Zehenschutz &
-Rutschhemmung
-
  WORKWEAR
 FÜR MACHER
 ----------

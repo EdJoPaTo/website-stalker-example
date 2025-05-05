@@ -44,8 +44,6 @@ vegan
 
  Sie können bei uns natürlich bar bezahlen, aber auch bargeldlos. Wir bieten folgende bargeldlose Zahlungsmöglichkeiten an:
 
- Bitte beachten Sie, dass im Zeitraum vom 03.02.2025 bis 04.05.2025 auf ausgewählten Verbindungen zwischen Berlin-München, Berlin-Frankfurt und Lübeck-München nur eine bargeldlose Zahlung möglich ist. Den Hinweis zur bargeldlosen Zahlung finden Sie im Reiseplan der entsprechenden Verbindungen auf bahn.de und im DB Navigator.
-
 ### Gibt es eine Online-Version der Speisekarte? ###
 
  Unser Speiseangebot finden Sie in der [digitalen Speisekarte](/digitalespeisekarte) oder alternativ auch im [ICE Portal](https://www.bahn.de/p/view/service/zug/internet/ice-portal.shtml) .
