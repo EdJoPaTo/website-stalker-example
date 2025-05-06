@@ -470,13 +470,13 @@ Nein, mit Ihrer BahnCard erhalten Sie keinen Rabatt auf das Deutschland-Ticket.
  Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
 ----------
 
-Ja, Sie können für den Kauf des Deutschland-Tickets monatlich BahnBonus Punkte sammeln, wenn Sie das Ticket über die **Kanäle auf bahn.de** kaufen.
+Ja, Sie können für den Kauf des Deutschland-Tickets monatlich BahnBonus Punkte sammeln, wenn Sie das Ticket auf bahn.de oder in der DB Navigator App kaufen.
 
 * Die Gutschrift erfolgt nur bei Buchung online oder über mobile Vertriebswege.
 * Sie können keine BahnBonus Punkte sammeln, wenn Sie das Ticket bei Verkehrsverbünden oder in DB Reisezentren kaufen.
 * Sie müssen bei BahnBonus angemeldet sein, um Punkte zu erhalten.
 
-* [Zu BahnBonus anmelden Weitere Informationen: Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
+* [Zu BahnBonus anmelden Zur Site BahnBonus-Anmeldung auf bahn.de](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
 
