@@ -125,5 +125,11 @@
 			<content:encoded><![CDATA[<div class="date full">28th Oct, 23</div>
 <div class="preview-content">The first issue of Gnorp News, touching on the very basics of the game, and on the first three gnorps.</div>]]></content:encoded>
 		</item>
+		<item>
+			<title>ring</title>
+			<link>https://gnorp.dev/news/ring.html</link>
+			<content:encoded><![CDATA[<div class="date full">5th Mar, 25</div>
+<div class="preview-content">Talents, beta and hats!</div>]]></content:encoded>
+		</item>
 	</channel>
 </rss>
