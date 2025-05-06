@@ -15,8 +15,12 @@ cirrus nimbus
 
   Mainboards
 
-  * Intel
-  * AMD
+  ---
+
+  * Intel Core
+  * Intel Core Ultra
+  * AMD (AM4 Socket)
+  * AMD (AM5 Socket)
 
   * **ASUS Pro H610T (DDR4 SO-DIMM)**
     H610 Chipsatz – business mainboard
@@ -31,6 +35,7 @@ cirrus nimbus
     B550 Chipsatz – Mini ITX
   * **GIGABYTE B550I AORUS Pro (DDR4 – AM4 Socket)**
     B550 Chipsatz – Mini ITX
+
   * **GIGABYTE B650I (DDR5 – AM5 Socket)**
     B650 Chipset
 
