@@ -79,8 +79,8 @@ Unsere Servicestationen stehen Ihnen mit einer Auswahl an kostenlosen, alkoholfr
 
 #### Speisen- und Getränkekarte / Allergene  ####
 
-*
-*
+* [Speisen und Getränke im Premium Bereich](https://www.bahn.de/service/zug/db-lounge/speisen-getraenke)
+* [Allergene zum Speisenangebot](https://www.bahn.de/service/zug/db-lounge/allergene)
 
 Nutzungsbestimmungen und Legitimationsprüfung
 ----------
