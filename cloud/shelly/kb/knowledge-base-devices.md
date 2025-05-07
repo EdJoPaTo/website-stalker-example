@@ -166,6 +166,8 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wall Switch (1, 2 and 4)](https://kb.shelly.cloud/knowledge-base/shelly-wall-switch-1-2-and-4)
 * [RC Snubber](https://kb.shelly.cloud/knowledge-base/rc-snubber)
 * [Shelly Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-stand)
+* [Shelly USB Charger for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-usb-charger-for-wall-display-stand)
+* [Shelly Socket for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-socket-for-wall-display-stand)
 
  Amazon-compatible devices
 ----------
