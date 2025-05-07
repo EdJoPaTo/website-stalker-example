@@ -5,7 +5,7 @@ cirrus nimbus
 ----------
 
 * lautlos aufgrund passivem Aluminium-Kühlkörpergehäuse mit Kupferkern
-* mit Intel Core Pentium/i3/i5/i7/i9 Raptor Lake CPU – bis zu 16 Kernen oder Ryzen 3/5/7 Cezanne
+* mit Intel*®* Core*™* Pentium/i3/i5/i7/i9 Raptor Lake, Ultra 5/7/9 CPU – bis zu 24 Kernen oder Ryzen 3/5/7
 * vielseitige Einsatzmöglichkeiten – Desktop-PC, HTCP oder Server
 * kompakte Abmessungen: 24,6 x 24,6 x 9 cm / 24,6 x 24,6 x 10,6 cm / 24,6 x 24,6 x 12,2 cm
 
@@ -18,7 +18,9 @@ cirrus nimbus
   ---
 
   * Intel Core
+  * Intel Core Ultra
   * AMD (AM4 Socket)
+  * AMD (AM5 Socket)
 
   * **ASUS Pro H610T (DDR4 SO-DIMM)**
     H610 Chipsatz – business mainboard
@@ -29,15 +31,18 @@ cirrus nimbus
   * **ASRock Z790M-ITX (DDR5)**
     Z790 Chipsatz – Mini ITX
 
+  * **ASRock B860I (DDR5 LO-DIMM)**
+    B860 Chipsatz – Mini ITX
+  * **ASUS ROG Strix B860-I (DDR5 LO-DIMM)**
+    B860 Chipsatz – Mini ITX
+
   * **ASRock B550M-ITX (DDR4 – AM4 Socket)**
     B550 Chipsatz – Mini ITX
   * **GIGABYTE B550I AORUS Pro (DDR4 – AM4 Socket)**
     B550 Chipsatz – Mini ITX
-  * **GIGABYTE B650I (DDR5 – AM5 Socket)**
-    B650 Chipset
 
   * **GIGABYTE B650I (DDR5 – AM5 Socket)**
-    B650 Chipset
+    B650 Chipsatz / Chipset
 
   **ASUS Pro H610T Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
@@ -48,26 +53,23 @@ cirrus nimbus
   **Mitac PH12ADI Anschlüsse Rückseite:**
   1x DisplayPort 1.2 (4K@60Hz), 1x HDMI 1.4b (4K@30Hz), 1x 1GB Ethernet (Intel I219-LM), 1x 2.5GB Ethernet (Intel I225V), 4x USB-A 3.2 Gen1, 2x Audio Stereo
 
-  **ASRock H670M-ITX Anschlüsse Rückseite:**
-  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 2x USB-A 3.2, 1x USB-C 3.2, 4x USB-A 2.0, 3x Audio Stereo
-
   **ASRock Z790M-ITX Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 4x USB-A 3.2, 1x USB-C 3.2, 1x USB-A 2.0, 2x Audio Stereo, 1x Toslink
-
-  **ASUS ROG Strix B760-I Anschlüsse Rückseite:**
-  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x USB-C 3.2, 3x USB-A 3.1, 1x USB-C 3.1, 3x USB-A 2.0, 5x Audio Stereo
-
-  **ASRock Z690M-ITX Anschlüsse Rückseite:**
-  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x 1GB Ethernet, 4x USB-A 3.2, 1x USB-C 3.2, 2x USB-A 2.0, 3x Audio Stereo
 
   **ASRock B550M-ITX Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 3x USB-A 3.1, 1x USB-C 3.0 (5GB/s), 2x USB-A 2.0, 1x PS2, 3x Audio Stereo
 
+  **GIGABYTE B550I AORUS Pro Anschlüsse Rückseite:**
+  1x DisplayPort 1.4 (5K@60Hz), 2x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x USB-A 3.2, 4x USB-A 3.1, 1x USB-C 3.1, 3x Audio Stereo
+
   **GIGABYTE B650I Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1, 1x USB-A 3.1 Gen2, 1x USB-C 3.0, 1x USB-A 3.0, 3x USB-A 2.0, 1x 2.5GB LAN, 3x Audio Stereo
 
-  **GIGABYTE B550I AORUS Pro Anschlüsse Rückseite:**
-  1x DisplayPort 1.4 (5K@60Hz), 2x HDMI 2.1 (4K@60Hz), 1x 2.5G Ethernet, 1x USB-A 3.2, 4x USB-A 3.1, 1x USB-C 3.1, 3x Audio Stereo
+  **ASRock B860I Anschlüsse Rückseite:**
+  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x RJ45 2.5G Ethernet, 1x RJ45 1GB Ethernet, 1x USB-C 3.2 (20Gb/s), 1x USB-A 3.1 (10Gb/s), 2x USB-A 3.0 (5Gb/s), 4x USB-A 2.0 (480Mb/s),3x Audio Stereo
+
+  **ASUS ROG Strix B860-I Anschlüsse Rückseite:**
+  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x RJ45 2.5G Ethernet, 1x Thunderbolt 4 / USB4 mit DisplayPort 1.4, 1x USB-C 3.2 (20Gb/s), 1x USB-A 3.1 (10Gb/s), 3x USB-A 3.0 (5Gb/s), 2x USB-A 2.0 (480Mb/s), 2x Audio Stereo, 1x Toslink S/PDIF Out
 
   ##### Nimbus Gehäuse #####
 
@@ -98,17 +100,8 @@ cirrus nimbus
   * **2x USB-A 3.1**
     Frontpanel optionale Ports
 
-  * **2x USB-A 3.1**
-    Frontpanel optionale Ports
-
-  * **2x USB-A 3.1**
-    Frontpanel optionale Ports
-
   * **1x USB-C 3.2**
     Frontpanel optionale Port
-
-  * **2x USB-A 3.1**
-    Frontpanel optionale Ports
 
   * **2x USB-A 3.1**
     Frontpanel optionale Ports
@@ -218,6 +211,19 @@ cirrus nimbus
   * **Intel Core i9-14900T**
     8+16C/32T, 1.1 – 5.5GHz – UHD 770
 
+  ##### Prozessor (CPU) - Intel Ultra 5/7/9 #####
+
+  Wählen Sie hier zwischen verschiedenen Intel® Core Ultra CPUs
+
+  * **Intel Core Ultra 5 225T**
+    6 Kernen + 4 Kernen /10 Threads, bis 4.9GHz – GPU 2Xe
+  * **Intel Core Ultra 5 235T**
+    6 Kernen + 8 Kernen /14 Threads, bis 5.0GHz – GPU 3Xe
+  * **Intel Core Ultra 7 265T**
+    8C + 12c/20T, bis 5.3GHz – GPU 4Xe
+  * **Intel Core Ultra 9 285T**
+    8C + 16c/24T, bis 5.4GHz – GPU 4Xe
+
   ##### Prozessor (CPU) - AMD #####
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
@@ -225,7 +231,7 @@ cirrus nimbus
   * 35W
   * 65W
 
-  ##### Prozessor (CPU) - AMD #####
+  ##### Prozessor (CPU) - AMD AM4 #####
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
@@ -236,7 +242,7 @@ cirrus nimbus
   * **AMD Ryzen 7 5700G**
     3.8GHz – 4.6GHz OctaCore + Hyperthreading, Vega 8
 
-  ##### Prozessor (CPU) - AMD #####
+  ##### Prozessor (CPU) - AMD AM5 #####
 
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
@@ -320,6 +326,8 @@ cirrus nimbus
     LO-DIMM – 5600MHz
   * **96 GB DDR5 (2x 48GB)**
     LO-DIMM – 5600MHz
+  * **128 GB DDR5 (2x 48GB)**
+    LO-DIMM – 5600MHz
 
   ##### Hauptspeicher (RAM) #####
 
@@ -348,6 +356,8 @@ cirrus nimbus
   * **64 GB DDR5 (2x 32GB)**
     SO-DIMM – 5600MHz
   * **96 GB DDR5 (2x 48GB)**
+    SO-DIMM – 5600MHz
+  * **128 GB DDR5 (2x 48GB)**
     SO-DIMM – 5600MHz
 
   * **8 GB DDR5 (1x 8GB)**
@@ -452,7 +462,7 @@ cirrus nimbus
 
   * Kein vorinstalliertes Betriebssystem
   * **Ubuntu 24.04 LTS** „Noble Numbat“
-  * **Ubuntu 25.04** „Plucky Puffin“
+  * **Ubuntu 24.10** „Oracular Oriole“
   * **Linux Mint 22**
   * **Windows 11 Home**
     original OEM Lizenz
