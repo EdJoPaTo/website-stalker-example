@@ -49,6 +49,8 @@ Informationen zu den Standard BahnCards
 
 Unsere Standard BahnCards sind für alle Kundinnen und Kunden ohne besondere Einschränkungen erwerbbar. Sie bieten eine kostengünstige Möglichkeit, bei jedem Ticketkauf direkt zu sparen. Für Unentschlossene bieten wir auch eine Probe Bahncard mit einer Laufzeit von drei Monaten an. \*Bitte beachten Sie, dass sich die Probe BahnCards 25 und 50 automatisch um ein Jahr verlängern, sofern sie nicht bis 4 Wochen vor Laufzeitende in Textform gekündigt werden (siehe \*).
 
+----------
+
 |     BahnCard     |                            Preis (2. Klasse)                            |                            Preis (1. Klasse)                            |             Rabattbedingungen             | Laufzeit |             Kündigungsfrist             |
 |------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------|----------|-----------------------------------------|
 |   BahnCard 25    |   [62,90 €](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)   |    [125 €](https://www.bahn.de/angebot/bahncard/bahncard25-1-klasse)    | 25 % auf Flex-, Spar- und Super Sparpreis |12 Monate |           4 Wochen vor Ablauf           |
@@ -65,6 +67,8 @@ Unsere Standard BahnCards sind für alle Kundinnen und Kunden ohne besondere Ein
 
 Unsere BahnCards für junge Reisende sind besonders günstig. Die My BahnCard richtet sich dabei an Studenten unter 27 Jahren. Die Jugend BahnCard ist für Kinder und Teenager im Alter von 6 bis 18 Jahre erwerbbar.
 
+----------
+
 |     BahnCard     |                                     Preis (2. Klasse)                                      |                                     Preis (1. Klasse)                                      |             Rabattbedingungen             |Laufzeit |             Kündigungsfrist             |
 |------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------|---------|-----------------------------------------|
 |  My BahnCard 25  |[39,90 €](https://www.bahn.de/angebot/bahncard/bahncard25/mybahncard-2-klasse) (unter 27 J.)|[81,90 €](https://www.bahn.de/angebot/bahncard/bahncard25/mybahncard-1-klasse) (unter 27 J.)| 25 % auf Flex-, Spar- und Super Sparpreis |12 Monate|           4 Wochen vor Ablauf           |
@@ -78,6 +82,8 @@ Unsere BahnCards für junge Reisende sind besonders günstig. Die My BahnCard ri
 **Senioren BahnCards**
 
 Auch für die Best Ager ab 65 Jahren hat die Deutsche Bahn spezielle BahnCard Angebote. Bitte beachten Sie, dass wir aktuell keine Senioren BahnCard 100 anbieten.
+
+----------
 
 |      BahnCard      |                         Preis (2. Klasse)                         |Preis (1. Klasse)|            Rabattbedingungen            |Laufzeit |  Kündigungsfrist  |
 |--------------------|-------------------------------------------------------------------|-----------------|-----------------------------------------|---------|-------------------|
@@ -93,6 +99,8 @@ Unsere ermäßigten BahnCards richten sich an Personen mit voller Erwerbsminder
 
 \*Zudem bitten wir zu beachten, dass die ermäßigte Probe BahnCard 25 sich automatisch um ein Jahr verlängert, sofern sie nicht bis 4 Wochen vor Laufzeitende in Textform gekündigt wird.
 
+----------
+
 |         BahnCard          |Preis (2. Klasse)|Preis (1. Klasse)|            Rabattbedingungen            |  Laufzeit  |  Kündigungsfrist  |
 |---------------------------|-----------------|-----------------|-----------------------------------------|------------|-------------------|
 |   Ermäßigte BahnCard 25   |     40,90 €     |     81,90 €     |25 % auf Flex-, Spar- und Super Sparpreis| 12 Monate  |4 Wochen vor Ablauf|
@@ -104,6 +112,8 @@ Rabattübersicht nach Tickettyp
 ----------
 
 Die folgende Übersicht verdeutlicht die unterschiedlichen Rabbattierungen der BahnCards in Bezug auf Flex- und Sparpreise. Für die BahnCard 100 gilt eine unbegrenzte Nutzung aller Züge der Deutschen Bahn inklusive des DB-Nahverkehrs.
+
+----------
 
 |  BahnCard  |Flexpreis-Rabatt|Sparpreis-Rabatt|
 |------------|----------------|----------------|
