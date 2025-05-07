@@ -31,6 +31,8 @@ Wählen Sie Ihre DB Lounge für detaillierte Informationen
 Neuigkeiten
 ----------
 
+**DB Lounge Bremen** und **Essen:** Liebe Gäste, die DB Lounges Bremen und Essen bleiben **am 8. Mai 2025 geschlossen.** Wir danken für Ihr Verständnis.
+
 **DB Lounge Köln:** Während des Umbaus der DB Lounge Köln, befindet sich die Interimslounge in den Design Offices Köln Dominium in der Tunisstraße 19-23, ca. 400m vom Hauptbahnhof entfernt. Wir haben diese Location gewählt, um Ihnen einen Ort zu bieten, an dem Sie sich entspannen und in angenehmer Atmosphäre einen Kaffee oder andere Angebote unserer Speise- und Getränkekarte genießen können. **Die umgebaute DB Lounge Köln wird voraussichtlich 2025 wiedereröffnet werden.** Bis dahin hoffen wir, dass Ihnen unser Alternativangebot zusagt. Wir freuen uns auf Ihren Besuch und bitten um Ihr Verständnis.
 
 **DB Lounge** **Hannover:** Aufgrund einer hohen Störungsanfälligkeit in der Vergangenheit tauschen wir den DB Lounge-Aufzug für Sie aus. Die Baumaßnahme endet voraussichtlich im Juni 2025. Wir entschuldigen uns für die Unannehmlichkeiten, die für Sie entstehen.
