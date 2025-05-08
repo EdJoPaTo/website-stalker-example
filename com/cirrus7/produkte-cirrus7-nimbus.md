@@ -220,9 +220,9 @@ cirrus nimbus
   Wählen Sie hier zwischen verschiedenen Intel® Core Ultra CPUs
 
   * **Intel Core Ultra 5 225T**
-    6 kernen + 4 kernen /10 Threads, bis 4.9GHz – GPU 2Xe
+    6C + 4c /10 Threads, bis 4.9GHz – GPU 2Xe
   * **Intel Core Ultra 5 235T**
-    6 kernen + 8 kernen /14 Threads, bis 5.0GHz – GPU 3Xe
+    6C + 8c /14 Threads, bis 5.0GHz – GPU 3Xe
   * **Intel Core Ultra 7 265T**
     8C + 12c/20T, bis 5.3GHz – GPU 4Xe
   * **Intel Core Ultra 9 285T**
@@ -465,7 +465,7 @@ cirrus nimbus
   Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
 
   * Kein vorinstalliertes Betriebssystem
-  * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Ubuntu 25.04** „Plucky Puffin“
   * **Ubuntu 24.10** „Oracular Oriole“
   * **Linux Mint 22**
   * **Windows 11 Home**

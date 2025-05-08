@@ -131,6 +131,68 @@
 		{
 			"attribute_set_id": 4,
 			"category_ids": [
+				74,
+				59
+			],
+			"configurable_children": [],
+			"description": "<p>Mit diesem Gutschein können Sie unseren gastronomischen Service im Zug genießen. </p>\r\n<p>So einfach geht’s:</p>\r\n<ul>\r\n<li>Prämie in der PrämienWelt oder der <a href=\"https://www.bahn.de/service/mobile/bahnbonus-app\" target=\"_blank\" rel=\"noopener\">BahnBonus App</a> bestellen</li>\r\n<li>Der Gutschein ist als Barcode auf der Startseite in der BahnBonus App zu finden und wird als Barcode per E-Mail verschickt</li>\r\n<li>Den Barcode anschließend einfach beim Bordgastronomie Personal vorzeigen</li>\r\n</ul>\r\n<p>Informationen zur Prämie:</p>\r\n<ul>\r\n<li>Die Prämie gilt für den BahnBonus Teilnehmenden persönlich und ist nicht übertragbar</li>\r\n<li>Der Gutschein gilt bei allen Verkaufsstellen der Bordgastronomie in unseren Fernverkehrszügen (ICE, IC 2, EC)</li>\r\n<li>Mögliche Restbeträge verfallen</li>\r\n<li>Es ist keine Teil- oder Vollauszahlung des Gutscheinbetrages möglich</li>\r\n<li>Umtausch und Erstattung sind ausgeschlossen</li>\r\n<li>Der Gutschein ist ab Erhalt 6 Monate gültig und nur einmalig einlösbar</li>\r\n</ul>",
+			"image": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-image&size=",
+			"lnra_enable_gogreen_shipment": 0,
+			"lnra_enable_international_shipment": 1,
+			"lnra_is_elok_ptp": 2,
+			"lnra_is_green": 1,
+			"lnra_loyalty_mode": 2,
+			"lnra_loyalty_old_points": 0,
+			"lnra_loyalty_points": 250,
+			"lnra_loyalty_use_as_donation": 0,
+			"media_gallery": [
+				{
+					"image": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-image&size=",
+					"lab": "",
+					"pos": 2,
+					"typ": "image"
+				}
+			],
+			"name": "5 Euro Gutschein Bordgastronomie",
+			"price": 0,
+			"sku": "64343",
+			"slug": "5-euro-gutschein-bordgastronomie-725",
+			"small_image": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-small&size=",
+			"stock": {
+				"backorders": false,
+				"enable_qty_increments": true,
+				"is_in_stock": true,
+				"is_qty_decimal": false,
+				"item_id": 723,
+				"low_stock_date": "2025-02-03 07:52:43",
+				"manage_stock": false,
+				"max_sale_qty": 100,
+				"min_qty": 0,
+				"min_sale_qty": 1,
+				"notify_stock_qty": 5,
+				"product_id": 725,
+				"qty": 0,
+				"qty_increments": 1,
+				"stock_id": 1,
+				"stock_status": 1,
+				"use_config_backorders": true,
+				"use_config_enable_qty_inc": true,
+				"use_config_manage_stock": true,
+				"use_config_max_sale_qty": true,
+				"use_config_min_qty": true,
+				"use_config_min_sale_qty": true,
+				"use_config_notify_stock_qty": true,
+				"use_config_qty_increments": true
+			},
+			"swatch_image": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-swatch&size=",
+			"thumbnail": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-thumbnail&size=",
+			"type_id": "simple",
+			"url_key": "5-euro-gutschein-bordgastronomie-725",
+			"url_path": "5-euro-gutschein-bordgastronomie"
+		},
+		{
+			"attribute_set_id": 4,
+			"category_ids": [
 				46,
 				51,
 				59
@@ -190,68 +252,6 @@
 			"type_id": "simple",
 			"url_key": "5-euro-reisegutschein-266",
 			"url_path": "5-euro-reise-gutschein"
-		},
-		{
-			"attribute_set_id": 4,
-			"category_ids": [
-				74,
-				59
-			],
-			"configurable_children": [],
-			"description": "<p>Mit diesem Gutschein können Sie unseren gastronomischen Service im Zug genießen. </p>\r\n<p>So einfach geht’s:</p>\r\n<ul>\r\n<li>Prämie in der PrämienWelt oder der <a href=\"https://www.bahn.de/service/mobile/bahnbonus-app\" target=\"_blank\" rel=\"noopener\">BahnBonus App</a> bestellen</li>\r\n<li>Der Gutschein ist als Barcode auf der Startseite in der BahnBonus App zu finden und wird als Barcode per E-Mail verschickt</li>\r\n<li>Den Barcode anschließend einfach beim Bordgastronomie Personal vorzeigen</li>\r\n</ul>\r\n<p>Informationen zur Prämie:</p>\r\n<ul>\r\n<li>Die Prämie gilt für den BahnBonus Teilnehmenden persönlich und ist nicht übertragbar</li>\r\n<li>Der Gutschein gilt bei allen Verkaufsstellen der Bordgastronomie in unseren Fernverkehrszügen (ICE, IC 2, EC)</li>\r\n<li>Mögliche Restbeträge verfallen</li>\r\n<li>Es ist keine Teil- oder Vollauszahlung des Gutscheinbetrages möglich</li>\r\n<li>Umtausch und Erstattung sind ausgeschlossen</li>\r\n<li>Der Gutschein ist ab Erhalt 6 Monate gültig und nur einmalig einlösbar</li>\r\n</ul>",
-			"image": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-image&size=",
-			"lnra_enable_gogreen_shipment": 0,
-			"lnra_enable_international_shipment": 1,
-			"lnra_is_elok_ptp": 2,
-			"lnra_is_green": 1,
-			"lnra_loyalty_mode": 2,
-			"lnra_loyalty_old_points": 0,
-			"lnra_loyalty_points": 250,
-			"lnra_loyalty_use_as_donation": 0,
-			"media_gallery": [
-				{
-					"image": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-image&size=",
-					"lab": "",
-					"pos": 2,
-					"typ": "image"
-				}
-			],
-			"name": "5 Euro Gutschein Bordgastronomie",
-			"price": 0,
-			"sku": "64343",
-			"slug": "5-euro-gutschein-bordgastronomie-725",
-			"small_image": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-small&size=",
-			"stock": {
-				"backorders": false,
-				"enable_qty_increments": true,
-				"is_in_stock": true,
-				"is_qty_decimal": false,
-				"item_id": 723,
-				"low_stock_date": "2025-02-03 07:52:43",
-				"manage_stock": false,
-				"max_sale_qty": 100,
-				"min_qty": 0,
-				"min_sale_qty": 1,
-				"notify_stock_qty": 5,
-				"product_id": 725,
-				"qty": 0,
-				"qty_increments": 1,
-				"stock_id": 1,
-				"stock_status": 1,
-				"use_config_backorders": true,
-				"use_config_enable_qty_inc": true,
-				"use_config_manage_stock": true,
-				"use_config_max_sale_qty": true,
-				"use_config_min_qty": true,
-				"use_config_min_sale_qty": true,
-				"use_config_notify_stock_qty": true,
-				"use_config_qty_increments": true
-			},
-			"swatch_image": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-swatch&size=",
-			"thumbnail": "/api/shop/img/catalog/product/0/9/09b_komfortorientiertes_paar_resto_1400.jpg?type=product-thumbnail&size=",
-			"type_id": "simple",
-			"url_key": "5-euro-gutschein-bordgastronomie-725",
-			"url_path": "5-euro-gutschein-bordgastronomie"
 		},
 		{
 			"attribute_set_id": 4,
