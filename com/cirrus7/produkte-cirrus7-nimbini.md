@@ -109,7 +109,7 @@ cirrus nimbini v4 - Pro Edition
     SO-DIMM – 5600MHz
   * **96 GB DDR5 (2x 48GB)**
     SO-DIMM – 5600MHz
-  * **128 GB DDR5 (2x 48GB)**
+  * **128 GB DDR5 (2x 64GB)**
     SO-DIMM – 5600MHz
 
   ##### SSD (M.2 - NVMe) #####

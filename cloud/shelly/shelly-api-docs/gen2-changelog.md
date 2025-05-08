@@ -11,6 +11,23 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+[1.6.1] 2025-05-07
+----------
+
+note
+
+Firmware version `1.6.1` is being rolled out in phases, not all devices will receive the update immediately.
+
+### Added ###
+
+* [2PM Gen3](/gen2/Devices/Gen3/Shelly2PMG3) Add support for Matter window covering
+* [1L Gen3](/gen2/Devices/Gen3/Shelly1LG3), [2L Gen3](/gen2/Devices/Gen3/Shelly2LG3) Add overcurrent protection
+
+### Fixed ###
+
+* [BTHome](/gen2/DynamicComponents/BTHome/) Fix virtual groups of BTHomeSensor components
+* [BTHome](/gen2/DynamicComponents/BTHome/) Fix a crash when RPC call finshes when no longer connected
+
 [1.6.0] 2025-04-30
 ----------
 
