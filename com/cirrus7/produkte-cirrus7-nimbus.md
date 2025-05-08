@@ -465,8 +465,8 @@ cirrus nimbus
   Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
 
   * Kein vorinstalliertes Betriebssystem
+  * **Ubuntu 24.04** „Noble Numbat“
   * **Ubuntu 25.04** „Plucky Puffin“
-  * **Ubuntu 24.10** „Oracular Oriole“
   * **Linux Mint 22**
   * **Windows 11 Home**
     original OEM Lizenz
