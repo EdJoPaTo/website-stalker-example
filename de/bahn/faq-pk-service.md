@@ -1885,7 +1885,7 @@ Der Umtausch gebuchter Tickets ist nicht möglich. Sie können Ihre gekauften Ti
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie auf bahn.de oder im DB Navigator gebuchte Tickets innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie auf bahn.de oder im DB Navigator gebuchte Tickets innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenlos stornieren. Sie können die Tickets nur vor dem 1. Geltungstag stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 **Teilstornierungen von Online-Tickets**
 

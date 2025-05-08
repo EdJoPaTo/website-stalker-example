@@ -228,9 +228,9 @@ cirrus nimbus
   Wählen Sie hier zwischen verschiedenen Intel® Core Ultra CPUs
 
   * **Intel Core Ultra 5 225T**
-    6 Kernen + 4 Kernen /10 Threads, bis 4.9GHz – GPU 2Xe
+    6 kernen + 4 kernen /10 Threads, bis 4.9GHz – GPU 2Xe
   * **Intel Core Ultra 5 235T**
-    6 Kernen + 8 Kernen /14 Threads, bis 5.0GHz – GPU 3Xe
+    6 kernen + 8 kernen /14 Threads, bis 5.0GHz – GPU 3Xe
   * **Intel Core Ultra 7 265T**
     8C + 12c/20T, bis 5.3GHz – GPU 4Xe
   * **Intel Core Ultra 9 285T**
@@ -370,15 +370,6 @@ cirrus nimbus
   * **96 GB DDR5 (2x 48GB)**
     SO-DIMM – 5600MHz
   * **128 GB DDR5 (2x 48GB)**
-    SO-DIMM – 5600MHz
-
-  * **8 GB DDR5 (1x 8GB)**
-    SO-DIMM – 5600MHz
-  * **16 GB DDR5 (2x 8GB)**
-    SO-DIMM – 5600MHz
-  * **32 GB DDR5 (2x 16GB)**
-    SO-DIMM – 5600MHz
-  * **64 GB DDR5 (2x 32GB)**
     SO-DIMM – 5600MHz
 
   * **8 GB DDR5 (1x 8GB)**
