@@ -6,13 +6,13 @@ Please note - the magnetic keyboard is not included by default.
 
 Processor
 
- Intel® N200 processor.
+ Intel® Core™ 3
 
-Intel® N200 processor.  1.0GHz quad-core Turbo Boost up to 3.7GHz
+Intel® Core™ 3  0.8GHz octa-core N350 processor. Turbo Boost up to 3.9GHz
 
  Processor
 
- Your StarLite will come with a 1.0GHz quad-core Intel® N200 processor. Turbo Boost up to 3.7GHz by default.
+ Your StarLite will come with a 0.8GHz octa-core Intel® Core™ 3 N350 processor. Turbo Boost up to 3.9GHz by default.
 
  The processor is on-board, so you will not be able to upgrade it at a later date.
 
