@@ -499,9 +499,7 @@ sites:
       - css_select: .page-content
       - css_remove: style, img
       - html_markdownify
-  - url:
-      - https://db-bordgastronomie.de/api/api?filter={%22register%22%3A%22zzzz%22}
-      - https://bahnbonus-praemienwelt.de/api/shop/WEB/de/category/products/list?sort=lnra_loyalty_points:asc&categoryKey=bahnprmien-46
+  - url: https://db-bordgastronomie.de/api/api?filter={%22register%22%3A%22zzzz%22}
     editors:
       - json_prettify
 
