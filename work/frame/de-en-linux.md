@@ -33,9 +33,9 @@ You can check out our **[Knowledgebase article](https://knowledgebase.frame.work
 
  Community Forum
 
- Fedora 41
+ Fedora 42
 
-Fedora 41
+Fedora 42
 
 Wi-Fi and Bluetooth
 
@@ -53,13 +53,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41 Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Fedora 41 Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
-[Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
  Bazzite
 
@@ -181,9 +181,9 @@ Easy
 
  Community Forum
 
- Fedora 41
+ Fedora 42
 
-Fedora 41
+Fedora 42
 
 Wi-Fi and Bluetooth
 
@@ -201,13 +201,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41 Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Fedora 41 Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
-[Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
  Ubuntu 24.04.1 LTS
 
@@ -385,9 +385,9 @@ Easy
 
  Community Forum
 
- Fedora 41
+ Fedora 42
 
-Fedora 41
+Fedora 42
 
 Wi-Fi and Bluetooth
 
@@ -405,13 +405,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41 Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Fedora 41 Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
-[Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
  Ubuntu 24.04 LTS
 
@@ -645,9 +645,9 @@ Easy
 
  Community Forum
 
- Fedora 41
+ Fedora 42
 
-Fedora 41
+Fedora 42
 
 Wi-Fi and Bluetooth
 
@@ -665,13 +665,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41 Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+16/394)
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+16/420?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+16/394)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+16/420?lang=en)
 
-[Fedora 41 Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-16/60005)
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-16/67703)
 
-[Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-16/60005)
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-16/67703)
 
  Ubuntu 24.04 LTS
 
@@ -905,9 +905,9 @@ Easy
 
  Community Forum
 
- Fedora 41
+ Fedora 42
 
-Fedora 41
+Fedora 42
 
 Wi-Fi and Bluetooth
 
@@ -925,13 +925,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41 Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Fedora 41 Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
-[Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
  Ubuntu 24.04 LTS
 
@@ -1165,9 +1165,9 @@ Easy
 
  Community Forum
 
- Fedora 41
+ Fedora 42
 
-Fedora 41
+Fedora 42
 
 Wi-Fi and Bluetooth
 
@@ -1185,13 +1185,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41 Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Fedora 41 Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
-[Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
  Ubuntu 24.04 LTS
 
@@ -1397,9 +1397,9 @@ Medium difficulty
 
  Community Forum
 
- Fedora 41
+ Fedora 42
 
-Fedora 41
+Fedora 42
 
 Wi-Fi and Bluetooth
 
@@ -1417,13 +1417,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41 Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+41+Installation+on+the+Framework+Laptop+13/393)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Fedora 41 Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
-[Community Forum](https://community.frame.work/t/fedora-41-on-the-framework-laptop-13/60006)
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
  Ubuntu 24.04 LTS
 
