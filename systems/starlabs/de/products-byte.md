@@ -71,7 +71,7 @@ StarPort 12-port USB-C PD Hub
 
 Dispatch
 
-1 - 2 working days
+21 - 22 working days
 
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 

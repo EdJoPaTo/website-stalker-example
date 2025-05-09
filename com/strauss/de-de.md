@@ -87,12 +87,12 @@ warnorange
 
 ---
 
- \+ 5
+ Bundhose & Short e.s.motion ten
+**\+ GRATIS** e.s. Besteckset & e.s. Brotdose large
 
- Softshelljacke & -weste e.s.motion 2020
-**\+ GRATIS** e.s. Mug X-large
+[Herren-Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-bundhose-short-e-s-motion-ten-3312350-16728-1200.html?itemorigin=startseite_fs25)
 
-[Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-softshelljacke-weste-e-s-motion-2020-3135100-16754-722.html?itemorigin=startseite_fs25)
+[Damen-Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-bundhose-short-e-s-motion-ten-damen-3312400-16757-1200.html?itemorigin=startseite_fs25)
 
  Strauss Sommer-Sets
 ---
