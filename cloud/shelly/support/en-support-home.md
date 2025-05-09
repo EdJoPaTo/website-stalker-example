@@ -5,20 +5,20 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
-**Firmware 1.6.0-beta2 is Now Available**
+**Notice: Phone and Email Notifications Currently Unavailable**
 
 Dear users,
 
-We’ve just released **firmware version 1.6.0-beta2**, now available for update through the device’s local web interface.
+We are aware of an issue affecting phone and email notifications from Scenes in the Shelly Smart Control App. Our team is actively working to resolve this.
 
-This update includes a critical bug fix for **Gen4 devices** running **Zigbee \<-\> Matter \<-\> Zigbee** firmware.
+Please note that the issue originates from a third-party Google service, which is beyond our direct control.
 
-After updating, you’ll be able to switch between firmware versions using the **Alternative Firmware** option:
-**Settings → Firmware**
+While we are in contact with them and doing our best to support a swift resolution, we are currently unable to provide an estimated time for the fix.
 
-**Changelog:** <https://shelly-api-docs.shelly.cloud/gen2/changelog/>
+We appreciate your patience and understanding.
 
-Thank you for your feedback and continued support!
+Thank you,
+ The Shelly Support Team
 
 Knowledge base
 ----------
