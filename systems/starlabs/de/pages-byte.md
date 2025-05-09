@@ -211,25 +211,3 @@ Your way.
  Core, Pro
 
 [Visit Zorin](https://zorinos.com/)
-
- VAT
-
- The price that you see includes estimated VAT. The exact amount will be calculated at checkout.
-
- This means there will not be any additional charges on delivery.
-
- Deposit
-
- Reserve your today by placing a deposit of €0,00.
-
- You will receive a link to pay the balance two weeks before your is shipped.
-
- Please note that deposits are fully refundable, except for custom etching fees. Our regular returns policy applies.
-
- Order now to secure your spot in the production queue!
-
-[Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
-
-Free Delivery  (Exclusions Apply) Excludes Delivery
-
- Sold Out - Notify Me When Available

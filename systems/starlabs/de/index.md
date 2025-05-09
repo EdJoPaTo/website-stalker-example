@@ -2,7 +2,9 @@ StarBook 7
 
 625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Type-C 20 Gbps PortsIntel Ultra 7 ProcessorUp to 96GB of DDR5 memory
 
-[Learn more](/pages/starbook-ultra) [Configure](/products/starbook-ultra)
+€874,65
+
+[Learn more](/pages/starbook) [Configure](/products/starbook)
 
 StarLite 5
 
@@ -30,23 +32,27 @@ Browse our range
 
 [](/products/byte)
 
-[Byte Mini PCSold out](/products/byte)
+[Byte Mini PCDispatch 49 - 50 working days](/products/byte)
 
 [](/products/starlite)
 
-[StarLite 12.5-inch ConvertibleSold out](/products/starlite)
+[StarLite 12.5-inch ConvertibleDispatch 1 - 2 working days](/products/starlite)
+
+[](/products/starbook-component)
+
+[StarBook Component €717,57 Dispatch 1 - 2 working days](/products/starbook-component)
 
 [](/products/starbook)
 
-[StarBook 14-inch LaptopDispatch in 1 - 2 working days](/products/starbook)
+[StarBook €874,65 Dispatch 1 - 2 working days](/products/starbook)
 
-[](/products/starbook-ultra)
+[](/products/starbook-ultra-component)
 
-[StarBook Ultra 14-inch LaptopDispatch in 1 - 2 working days](/products/starbook-ultra)
+[StarBook Ultra Component €1.648,15 Dispatch 1 - 2 working days](/products/starbook-ultra-component)
 
 [](/products/starfighter)
 
-[StarFighter 16-inch LaptopEstimated dispatch in 3 - 5 months](/products/starfighter)
+[StarFighter 16-inch LaptopDispatch 84 - 85 working days](/products/starfighter)
 
 More than just a licence.
 
