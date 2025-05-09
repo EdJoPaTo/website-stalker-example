@@ -177,39 +177,3 @@ Your way.
  Our hardware and firmware are highly customisable. Your laptop will arrive precisely the way you want it, with your chosen distribution pre-installed.
 
 [Explore](/pages/distributions)
-
- Ubuntu LTS
-
- Ubuntu, KUbuntu, Ubuntu MATE
-
-[Visit Ubuntu](https://ubuntu.com/)
-
- elementary OS
-
- Pantheon
-
-[Visit elementary](https://elementary.io/)
-
- Linux Mint
-
- Cinnamon, MATE, XFCE
-
-[Visit Mint](https://linuxmint.com/)
-
- Manjaro 24
-
- GNOME, Plasma, XFCE
-
-[Visit Manjaro](https://manjaro.org/)
-
- MX Linux
-
- XFCE, KDE
-
-[Visit MX](https://mxlinux.org/)
-
- Zorin OS
-
- Core, Pro
-
-[Visit Zorin](https://zorinos.com/)
