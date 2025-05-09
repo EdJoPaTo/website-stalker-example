@@ -12,11 +12,11 @@ Processor
 
  Intel® Core™ 3
 
-Intel® Core™ 3  1.00GHz 8-core N355. Turbo Boost up to 3.90GHz
+Intel® Core™ 3  3.90GHz 8-core N355 Processor.
 
  Processor
 
- Your Byte will come with a 1.00GHz 8-core Intel® Core™ 3 N355. Turbo Boost up to 3.90GHz by default.
+ Your Byte will come with a 3.90GHz 8-core Intel® Core™ 3 N355 Processor. by default.
 
  The processor is on-board, so you will not be able to upgrade it at a later date.
 
