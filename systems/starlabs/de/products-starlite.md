@@ -2,7 +2,7 @@ Configure
 StarLite
 
 Standard
-Intel Core™ 3 N350 8-core processor
+Intel Core 3 N350 8-core processor
 16GB LPDDR5 memory
 
  Storage
@@ -17,7 +17,7 @@ Intel Core™ 3 N350 8-core processor
 
 Operating System
 
- Ubuntu 24.04  Manjaro 25 GNOME  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 XFCE  Manjaro 25 Plasma  MX Linux 23.6 XFCE  MX Linux 23.6 KDE  Qubes 4.2.4  Zorin OS 17.3 Core  Zorin OS 17.3 Pro (+ €59,50)  None
+ Ubuntu 24.04  Manjaro 25 GNOME  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 Plasma  Manjaro 25 XFCE  MX Linux 23.6 XFCE  MX Linux 23.6 KDE  Zorin OS 17.3 Core  Zorin OS 17.3 Pro (+ €59,50)  None
 
  Power Plug
 
@@ -49,29 +49,27 @@ French
 
 Nordic
 
- Pen
+ Title
 
  None
 
 None
 
-MPP Active Pen
+Default Title
 
 Extras
 
+32GB Reversible USB Recovery Drive
+
 USB-C 3.1 (5m)  Charge Cable
+
+StarPort 12-port USB-C PD Hub
 
 Micro HDMI to HDMI Adapter
 
 USB-A to Ethernet Adapter
 
 USB-C to USB-A Adapter
-
-Tempered Glass Screen Protector – 2-Pack
-
-StarLite Mk V Protective Case
-
-StarPort 12-port USB-C PD Hub
 
  VAT
 
