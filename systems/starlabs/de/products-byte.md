@@ -1,26 +1,73 @@
-About
-
+Configure
 Byte
 
-Our Latest Mini PC is built for Linux. Mount it behind your monitor to keep your workspace clean, or use the two NICs to make it a server.
+Standard
+Intel Core™ 3 N355 8-core processor
+Up to 32GB DDR4 memory
 
-Setup in Minutes (not hours), with Linux pre-installed, it’s designed to work flawlessly out-the-box.
+ Memory
 
-Uncompromising on our open-source principles, this machine runs coreboot firmware, an open-source alternative to traditional BIOS with advanced security features such as BIOS Lock, Secure Boot, and Measured Boot.
+ 16GB
 
- Processor
+16GB
 
- Intel® Core™ 3
+32GB
 
-Intel® Core™ 3  3.90GHz 8-core N355 Processor.
+ Storage
 
- Processor
+ 512GB
 
- Your Byte will come with a 3.90GHz 8-core Intel® Core™ 3 N355 Processor. by default.
+512GB
 
- The processor is on-board, so you will not be able to upgrade it at a later date.
+1TB
 
-[Learn more about Processor options](#processor)
+2TB
+
+ Power Plug
+
+ UK Plug
+
+UK Plug  Type G
+
+EU Plug  Type F
+
+US Plug  Type A
+
+AU Plug  Type I
+
+Operating System
+
+ Ubuntu 24.04  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Manjaro 25 XFCE  MX Linux 23.6 XFCE  Zorin OS 17.3 Core  Qubes 4.2.4  None  Zorin OS 17.3 Pro (+ €59,50)  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 Plasma  Manjaro 25 GNOME  MX Linux 23.6 KDE
+
+ Storage
+
+ None
+
+None
+
+1TB SSD  SATA storage
+
+2TB SSD  SATA storage
+
+4TB SSD  SATA storage
+
+8TB SSD  SATA storage
+
+Extras
+
+StarPort 12-port USB-C PD Hub
+
+USB-C 3.1 (2m)  Charge Cable
+
+USB-C 3.1 (5m)  Charge Cable
+
+32GB Reversible USB Recovery Drive
+
+Micro HDMI to HDMI Adapter
+
+USB-C to USB-A Adapter
+
+USB-A to Ethernet Adapter
 
  VAT
 
@@ -30,8 +77,8 @@ Intel® Core™ 3  3.90GHz 8-core N355 Processor.
 
 Dispatch
 
-49 - 50 working days
+1 - 2 working days
 
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
- Sold out [Get Notified When Available](#)
+ Sold out [Learn More](/pages/byte) [Get Notified When Available](#)

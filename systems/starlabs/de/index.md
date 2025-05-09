@@ -26,33 +26,15 @@ StarLite 5
 
 [](https://mastodon.social/@starlabssystems)
 
+€0,00
+
 [Explore](/pages/starlite) [Buy now](/products/starlite)
 
 Browse our range
 
-[](/products/byte)
-
-[Byte Mini PCDispatch 49 - 50 working days](/products/byte)
-
-[](/products/starlite)
-
-[StarLite 12.5-inch ConvertibleDispatch 1 - 2 working days](/products/starlite)
-
-[](/products/starbook-component)
-
-[StarBook Component €717,57 Dispatch 1 - 2 working days](/products/starbook-component)
-
 [](/products/starbook)
 
 [StarBook €874,65 Dispatch 1 - 2 working days](/products/starbook)
-
-[](/products/starbook-ultra-component)
-
-[StarBook Ultra Component €1.648,15 Dispatch 1 - 2 working days](/products/starbook-ultra-component)
-
-[](/products/starfighter)
-
-[StarFighter 16-inch LaptopDispatch 84 - 85 working days](/products/starfighter)
 
 More than just a licence.
 
