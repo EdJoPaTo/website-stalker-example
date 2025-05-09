@@ -26,7 +26,7 @@ StarLite 5
 
 [](https://mastodon.social/@starlabssystems)
 
-€0,00
+€760,41
 
 [Explore](/pages/starlite) [Buy now](/products/starlite)
 

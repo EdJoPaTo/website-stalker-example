@@ -1,36 +1,77 @@
-About
-
+Configure
 StarLite
 
-Please note - the magnetic keyboard is not included by default.
+Standard
+Intel Core™ 3 N350 8-core processor
+16GB LPDDR5 memory
 
- Processor
+ Storage
 
- Intel® Core™ 3
+ 512GB
 
-Intel® Core™ 3  3.9GHz 8-core N350 processor.
+512GB
 
- Processor
+1TB
 
- Your StarLite will come with a 3.9GHz 8-core Intel® Core™ 3 N350 processor. by default.
+2TB
 
- The processor is on-board, so you will not be able to upgrade it at a later date.
+Operating System
 
-[Learn more about Processor options](#processor)
+ Ubuntu 24.04  Manjaro 25 GNOME  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 XFCE  Manjaro 25 Plasma  MX Linux 23.6 XFCE  MX Linux 23.6 KDE  Qubes 4.2.4  Zorin OS 17.3 Core  Zorin OS 17.3 Pro (+ €59,50)  None
+
+ Power Plug
+
+ None - US (Type A) Built-in
+
+None - US (Type A) Built-in
+
+UK (Type G)
+
+EU (Type F)
+
+AU (Type I)
+
+ Keyboard Language
+
+ None
+
+None
+
+English (UK)
+
+English (US)
+
+German
+
+Spanish
+
+French
+
+Nordic
+
+ Pen
+
+ None
+
+None
+
+MPP Active Pen
 
 Extras
+
+USB-C 3.1 (5m)  Charge Cable
+
+Micro HDMI to HDMI Adapter
+
+USB-A to Ethernet Adapter
+
+USB-C to USB-A Adapter
 
 Tempered Glass Screen Protector – 2-Pack
 
 StarLite Mk V Protective Case
 
-USB-C 3.1 (2m)  Charge Cable
-
-USB-C 3.1 (5m)  Charge Cable
-
 StarPort 12-port USB-C PD Hub
-
-32GB Reversible USB Recovery Drive
 
  VAT
 
@@ -44,4 +85,4 @@ Dispatch
 
 [Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
 
- Sold out [Get Notified When Available](#)
+ Sold out [Learn More](/pages/starlite) [Get Notified When Available](#)
