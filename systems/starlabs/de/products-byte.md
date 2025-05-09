@@ -158,24 +158,6 @@ None
 
 [Learn more about Storage](#storage)
 
-Optional Accessories
-
-32GB Reversible USB Recovery Drive
-
-StarPort 12-port USB-C PD Hub
-
-USB-C 3.1 (2m)  Charge Cable
-
-USB-C 3.1 (5m)  Charge Cable
-
- Optional Accessories
-
- Your Byte will come with everything you need. We have accessories such as recovery drives, which you can use to recover or re-install the Operating System.
-
- We have a [full range of accessories](/collections/Accessories) available.
-
-[Learn more about Optional Accessories](#optional-accessories)
-
  VAT
 
  The price that you see includes estimated VAT. The exact amount will be calculated at checkout.

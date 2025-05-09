@@ -8,11 +8,11 @@ Processor
 
  Intel® Core™ 3
 
-Intel® Core™ 3  0.8GHz octa-core N350 processor. Turbo Boost up to 3.9GHz
+Intel® Core™ 3  3.9GHz 8-core N350 processor.
 
  Processor
 
- Your StarLite will come with a 0.8GHz octa-core Intel® Core™ 3 N350 processor. Turbo Boost up to 3.9GHz by default.
+ Your StarLite will come with a 3.9GHz 8-core Intel® Core™ 3 N350 processor. by default.
 
  The processor is on-board, so you will not be able to upgrade it at a later date.
 
