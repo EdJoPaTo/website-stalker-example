@@ -2,7 +2,7 @@ StarBook 7
 
 625cd/m² Bright 4K DisplaySandblasted Finish in Pantone 433Two Type-C 20 Gbps PortsIntel Ultra 7 ProcessorUp to 96GB of DDR5 memory
 
-€874,65
+€875,84
 
 [Learn more](/pages/starbook) [Configure](/products/starbook)
 
@@ -34,7 +34,7 @@ Browse our range
 
 [](/products/starbook)
 
-[StarBook €874,65 Dispatch 1 - 2 working days](/products/starbook)
+[StarBook €875,84 Dispatch 1 - 2 working days](/products/starbook)
 
 More than just a licence.
 
