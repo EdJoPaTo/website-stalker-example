@@ -51,32 +51,6 @@ warnorange
 
 ####
 
-**Strauss-Fans** glücklich machen
-
- ####
-
----
-
-###  STRAUSS Gutschein direkt drucken  ###
-
----
-
-#####  Motiv aussuchen  #####
-
----
-
-#####  Betrag wählen  #####
-
----
-
-#####  Direkt verschenken  #####
-
----
-
-[Jetzt bestellen](https://gutschein.strauss.de/)
-
-####
-
 **Coole Geschenke** in jedem Sommer-Set
 
  ####
@@ -106,6 +80,41 @@ gratis Artikeln
 [Damen-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Damen/?itemorigin=startseite_fs25&sort=newest)
 
 [Kinder-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Kinder/?itemorigin=startseite_fs25&sort=newest)
+
+###  Bald ist Vatertag  ###
+
+---
+
+ Mit Strauss Einzigartiges schenken
+---
+
+Perfekte
+
+----------
+
+---
+
+Geschenke für
+
+----------
+
+---
+
+Papas!
+
+----------
+
+---
+
+**Druck & Stick:** individuell, einfach, besonders!
+
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten/myDesign_Vatertag?itemorigin=startseite_fs25)
+
+zu den Produkten
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
+
+[Gutschein per E-Mail](https://gutschein.strauss.de/)
 
 ###  Leichte Stoffe & Flexibler Komfort  ###
 
@@ -188,46 +197,6 @@ Handgepäck- und Rollkoffer
 ---
 
 [alle work&travel Taschen entdecken](https://www.strauss.com/de/de/workandtravel)
-
-####
-
-Lieblingsstücke für Lieblingsmenschen – **jetzt online entwerfen**
-
- ####
-
----
-
-Perfekte
-
-----------
-
----
-
- Geschenke für
-----------
-
----
-
-Papas!
-
-----------
-
----
-
-**Druck & Stick:** individuell, einfach, besonders!
-
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten/myDesign_Vatertag?itemorigin=startseite_fs25)
-
-zu den Produkten
-
- Grosse Motivauswahl
----
-
- für alle Gewerke & Anlässe
----
-
- Schnell & unkompliziert
----
 
 ###
 
