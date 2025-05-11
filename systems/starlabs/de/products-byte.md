@@ -37,7 +37,7 @@ AU Plug  Type I
 
 Operating System
 
- Ubuntu 24.04  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Manjaro 25 XFCE  MX Linux 23.6 XFCE  Zorin OS 17.3 Core  Qubes 4.2.4  None  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 GNOME  Manjaro 25 Plasma  MX Linux 23.6 KDE  Zorin OS 17.3 Pro (+ €59,50)
+ Ubuntu 24.04  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Manjaro 25 XFCE  MX Linux 23.6 XFCE  Zorin OS 17.3 Core  Qubes 4.2.4  None  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 GNOME  Manjaro 25 Plasma  MX Linux 23.6 KDE  Zorin OS 17.3 Pro (+ €13,37)
 
  Storage
 

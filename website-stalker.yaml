@@ -295,8 +295,8 @@ sites:
       - css_remove: "script, noscript, style, link, img, svg, .popup-controls-close, .main-image-container, .popup-controls-arrow-next, .popup-controls-arrow-back, .variantprice, .availability, #price, #taxamount, #paypal, #paypalcredit"
       - html_markdownify
       - regex_replace:
-          pattern: ' *From [€\d., ]+\s*'
-          replace: ""
+          pattern: '€[\d. ]+,\d{2}'
+          replace: "€13,37"
 
   - url:
       - https://frame.work/de/en
