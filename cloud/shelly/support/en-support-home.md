@@ -5,21 +5,6 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
-**Notice: Phone and Email Notifications Currently Unavailable**
-
-Dear users,
-
-We are aware of an issue affecting phone and email notifications from Scenes in the Shelly Smart Control App. Our team is actively working to resolve this.
-
-Please note that the issue originates from a third-party Google service, which is beyond our direct control.
-
-While we are in contact with them and doing our best to support a swift resolution, we are currently unable to provide an estimated time for the fix.
-
-We appreciate your patience and understanding.
-
-Thank you,
- The Shelly Support Team
-
 Knowledge base
 ----------
 

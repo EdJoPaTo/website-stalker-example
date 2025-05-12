@@ -123,14 +123,14 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
 
 Tickets können bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
 
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
 Dies gilt für Züge nach:
 
 * Belgien
 * Luxemburg
 * Schweiz
 * Niederlande
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-12-monate-bis-abfahrt)
 
@@ -139,14 +139,14 @@ Dies gilt für Züge nach:
 
 Tickets können bis zu **6 Monate im Voraus** und bis einen Tag vor Abfahrt gebucht werden.
 
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
 Dies gilt für Züge nach:
 
 * Frankreich
 * Polen
 * Schweden
 * Slowenien
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-6-monate-bis-1-tag-vorher)
 
