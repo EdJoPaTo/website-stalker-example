@@ -61,6 +61,12 @@ In our shared vCPU plans, you share the hardware resources with "neighbors", so 
 
 Use these shared instances for development and test applications with low to medium levels of resource requirements and network traffic. They are ideally suited for small databases, micro services, content management systems or webservers with low to medium traffic.
 
+### GDPR-compliant ###
+
+All our cloud plans and other hosting offers are GDPR-compliant and comply with the strictest European data protection standards. This also applies to our locations in the USA and Singapore.
+
+[Learn more about secure hosting](https://www.hetzner.com/european-cloud)
+
 ×
 
  Your server's bill will never exceed its monthly price cap. If you delete your cloud server before the end of the billing month, we will only bill you for the hourly rate. We will bill you for each cloud server until you choose to delete them.
@@ -809,7 +815,7 @@ Hetzner Online will safeguard your Hetzner cloud servers using the latest hardwa
 
 ### DATA PROTECTION ###
 
-GDPR compliancy for your Cloud. You can create a Data Processing Agreement (DPA) online that will be in accordance with Article 28 of the GDPR (General Data Protection Regulation). You can even enter the correct European location for your DPA.
+[GDPR compliancy](https://www.hetzner.com/european-cloud/) for your Cloud. You can create a Data Processing Agreement (DPA) online that will be in accordance with Article28 of the GDPR (General Data Protection Regulation). You can even enter the correct European location for your DPA.
 
 [Sign Up now](https://console.hetzner.cloud/)
 

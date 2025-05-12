@@ -1,8 +1,4 @@
-New!
-
-         S3-compatible Object Storage is here
-
-         OBJECT STORAGE
+OBJECT STORAGE
 
          STORAGE THAT GROWS
         ==========

@@ -1013,7 +1013,7 @@ Die Aktion gilt vom 1. Mai bis zum 30. September 2025. In diesem Zeitraum könne
  Wie funktioniert die BahnCard 50 Mitfahreraktion?
 ----------
 
-Im Zuge der Buchung fügt der Inhabende der BahnCard 50 einen zweiten Reisenden hinzu – auch bei diesem die BahnCard 50-Ermäßigung und dieselbe Wagenklasse angeben. Die mitreisende Person erhält die gleichen Rabatte wie der Inhabende der BC 50, benötigt jedoch keine eigene BahnCard 50. Beide Reisende müssen auf einem Ticket gebucht werden.
+Im Zuge der Buchung fügt der Inhaber der BahnCard 50 einen zweiten Reisenden hinzu – auch bei diesem die BahnCard 50-Ermäßigung und dieselbe Wagenklasse angeben. Die mitreisende Person erhält die gleichen Rabatte wie der Inhabende der BC 50, benötigt jedoch keine eigene BahnCard 50. Beide Reisende müssen auf einem Ticket gebucht werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-bahncard-50-mitfahreraktion)
 
