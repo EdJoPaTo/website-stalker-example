@@ -49,13 +49,13 @@ French
 
 Nordic
 
- Title
+ MPP Active Pen
 
  None
 
 None
 
-Default Title
+MPP Active Pen
 
 Extras
 
