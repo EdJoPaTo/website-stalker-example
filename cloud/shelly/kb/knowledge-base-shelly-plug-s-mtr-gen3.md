@@ -246,7 +246,7 @@ Specifications
 Components and APIs
 ----------
 
-* [This device](https://shelly-api-docs.shelly.cloud/gen2/Devices/Gen3/ShellyOutdoorPlugG3)
+* [This device](https://shelly-api-docs.shelly.cloud/gen2/Devices/Gen3/ShellyPlugSG3)
 
 * [All Shelly devices and services](https://shelly-api-docs.shelly.cloud/)
 
