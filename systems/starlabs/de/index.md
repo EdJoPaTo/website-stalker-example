@@ -36,6 +36,10 @@ Browse our range
 
 [Byte €13,37 Dispatch 21 - 22 working days](/products/byte)
 
+[](/products/starlite)
+
+[StarLite €13,37 Dispatch 1 - 2 working days](/products/starlite)
+
 [](/products/starbook)
 
 [StarBook €13,37 Dispatch 1 - 2 working days](/products/starbook)

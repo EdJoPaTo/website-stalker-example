@@ -24,45 +24,45 @@ Compatible with:
 
 ### Raspberry Pi OS with desktop ###
 
-* Release date: May 6th 2025
+* Release date: May 13th 2025
 * System: 32-bit
 * Kernel version: 6.12
 * Debian version: 12 (bookworm)
-* Size: 1,161MB
+* Size: 1,165MB
 
-Show SHA256 file integrity hash:89efa032cc6f9cbf2b6f499e58502bdae87faaa4ff7679141eac371ef9b37a74
+Show SHA256 file integrity hash:7b2ffd34ce69dbc956c5171ffb367e9d4a1921f2525671919f2689225dfdedc8
 
 [Release notes](https://downloads.raspberrypi.com/raspios_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-07/2025-05-06-raspios-bookworm-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-07/2025-05-06-raspios-bookworm-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_armhf/images/)
 
 ### Raspberry Pi OS with desktop and recommended software ###
 
-* Release date: May 6th 2025
+* Release date: May 13th 2025
 * System: 32-bit
 * Kernel version: 6.12
 * Debian version: 12 (bookworm)
-* Size: 2,778MB
+* Size: 2,767MB
 
-Show SHA256 file integrity hash:982da16b712ea72d2471c5870a828fbe2eba70d219b41773df62e038e39ba027
+Show SHA256 file integrity hash:fd850d06269c0247af3004299ea2bb97c847779fcee2b9ea52c1955b45f0a8d8
 
 [Release notes](https://downloads.raspberrypi.com/raspios_full_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-07/2025-05-06-raspios-bookworm-armhf-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-07/2025-05-06-raspios-bookworm-armhf-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_full_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_full_armhf/images/)
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: May 6th 2025
+* Release date: May 13th 2025
 * System: 32-bit
 * Kernel version: 6.12
 * Debian version: 12 (bookworm)
-* Size: 494MB
+* Size: 493MB
 
-Show SHA256 file integrity hash:1e587b7e729f389e5ca35dfbacaf70375150d165088dd6f516b1e74f8dfb71b8
+Show SHA256 file integrity hash:a73d68b618c3ca40190c1aa04005a4dafcf32bc861c36c0d1fc6ddc48a370b6e
 
 [Release notes](https://downloads.raspberrypi.com/raspios_lite_armhf/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-07/2025-05-06-raspios-bookworm-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-07/2025-05-06-raspios-bookworm-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_armhf/images/)
+[Download](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_armhf/images/)
 
 Raspberry Pi OS (64-bit)
 ----------
@@ -85,45 +85,45 @@ Compatible with:
 
 ### Raspberry Pi OS with desktop ###
 
-* Release date: May 6th 2025
+* Release date: May 13th 2025
 * System: 64-bit
 * Kernel version: 6.12
 * Debian version: 12 (bookworm)
-* Size: 1,148MB
+* Size: 1,152MB
 
-Show SHA256 file integrity hash:6f506b014c1aa8c53ba8eec4ffd8f43f48eed6d349b6b9e166703a77536d5cce
+Show SHA256 file integrity hash:1162c2a47c2ebda34c7ebeafc4afb71910a05b368d0721ae3736928e60ba5047
 
 [Release notes](https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-05-07/2025-05-06-raspios-bookworm-arm64.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-05-07/2025-05-06-raspios-bookworm-arm64.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_arm64/images/)
 
 ### Raspberry Pi OS with desktop and recommended software ###
 
-* Release date: May 6th 2025
+* Release date: May 13th 2025
 * System: 64-bit
 * Kernel version: 6.12
 * Debian version: 12 (bookworm)
-* Size: 3,086MB
+* Size: 3,113MB
 
-Show SHA256 file integrity hash:894d4ab05b9ed7de2914501c34367e6448d878b08c5bdfb26dfc922b1650b8ed
+Show SHA256 file integrity hash:e201e51058338d7efac102ebc42cc037d3828b606c7fd73d4f732b0c2800b7d5
 
 [Release notes](https://downloads.raspberrypi.com/raspios_full_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-05-07/2025-05-06-raspios-bookworm-arm64-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-05-07/2025-05-06-raspios-bookworm-arm64-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_full_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-full.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-full.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_full_arm64/images/)
 
 ### Raspberry Pi OS Lite ###
 
-* Release date: May 6th 2025
+* Release date: May 13th 2025
 * System: 64-bit
 * Kernel version: 6.12
 * Debian version: 12 (bookworm)
-* Size: 424MB
+* Size: 423MB
 
-Show SHA256 file integrity hash:fe0fa5a2943a7ac1b48cba32c5a0f8f1b1a8d68b859b0bfbca9d19dc14c550af
+Show SHA256 file integrity hash:62d025b9bc7ca0e1facfec74ae56ac13978b6745c58177f081d39fbb8041ed45
 
 [Release notes](https://downloads.raspberrypi.com/raspios_lite_arm64/release_notes.txt)
 
-[Download](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-05-07/2025-05-06-raspios-bookworm-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-05-07/2025-05-06-raspios-bookworm-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_arm64/images/)
+[Download](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-lite.img.xz)[Download torrent](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-lite.img.xz.torrent)[Archive](https://downloads.raspberrypi.com/raspios_lite_arm64/images/)
 
 Raspberry Pi OS (Legacy)
 ----------
