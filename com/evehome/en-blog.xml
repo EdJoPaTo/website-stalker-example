@@ -13,6 +13,15 @@
 A smart home without any limitations: discover how HomePod mini, Eve and Thread bring your smart home to the next level.]]></content:encoded>
 		</item>
 		<item>
+			<title>Suspend your watering schedule based on the rain forecast</title>
+			<link>https://www.evehome.com/en/blog/eve-aqua-shortcuts</link>
+			<content:encoded><![CDATA[Use Cases
+Eve App
+HomeKit
+
+In conjunction with Apple's Shortcuts app, the Eve app lets you suspend the watering schedules stored on your Eve Aqua if the weather is going to take a turn for the worse. All you need to do is to install the built-in shortcut right from within the Eve app.]]></content:encoded>
+		</item>
+		<item>
 			<title>Safeguard your home against break-in with HomeKit</title>
 			<link>https://www.evehome.com/en/blog/safeguard-your-home-against-break-in-with-homekit</link>
 			<content:encoded><![CDATA[Use Cases
@@ -76,13 +85,6 @@ Lower heating bills with smart thermostats. Saving heating energy is the order o
 			<content:encoded><![CDATA[Use Cases
 
 Optimising our air source heat pump central heating with Eve Thermo smart TRVs. As part of our journey to become more sustainable and reduce our carbon footprint, we installed an 18kW air source heat pump (ASHP) to replace the oil boiler in our Victorian (1850s) farmhouse in the Welsh borders.]]></content:encoded>
-		</item>
-		<item>
-			<title>Turn off the heat while ventilating: Combine Eve Thermo and Eve Door &amp; Window</title>
-			<link>https://www.evehome.com/en/blog/eve-thermo-window-detection</link>
-			<content:encoded><![CDATA[Use Cases
-
-Using its built-in temperature sensor, Eve Thermo will detect sudden temperature drops. This way it can turn off the heat whenever someone opens a window.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
