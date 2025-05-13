@@ -101,11 +101,6 @@ SANDSTORM
 
 Nachhaltig programmieren. Für die meisten geht es dabei um Code-Effizienz. Für Sandstorm heißt es an übermorgen denken, bewusst auf finanziellen Erfolg zu verzichten und in zukunftsträchtige Projekte zu investieren. Karoline Bünker erzählt uns was das im Detail heißt.
 
-HEIMLADEN
-----------
-
-Für HEIMLADEN bedeutet Ladequalität: Bequem und kosteneffizient laden. Für die Mobilitätswende könnte das ein Turbo-Boost sein. Niklas Slatin, CTO und Mitgründer von HEIMLADEN, erklärt uns was es mit dem Wallbox-Abo auf sich hat.
-
 WIWIN
 ----------
 
