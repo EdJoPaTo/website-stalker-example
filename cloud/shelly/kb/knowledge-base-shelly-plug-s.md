@@ -15,6 +15,8 @@ Compliance
 
 [Shelly Plug S multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20multilingual%20EU%20declaration%20of%20conformity.pdf)
 
+[Shelly Plug S UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
+
 What is Shelly Plug S?
 ----------
 
