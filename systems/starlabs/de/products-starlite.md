@@ -71,6 +71,12 @@ USB-A to Ethernet Adapter
 
 USB-C to USB-A Adapter
 
+Includes:
+
+ 12.5" StarLite
+65W USB-C Charger
+2m Braided USB-C Cable
+
  Duties and taxes
 
  All import duties and taxes are covered in the price shown—there won’t be any additional fees when your package arrives.
