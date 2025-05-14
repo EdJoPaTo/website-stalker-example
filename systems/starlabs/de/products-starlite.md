@@ -25,9 +25,9 @@ Operating System
 
 None
 
-English (UK)
-
 English (US)
+
+English (UK)
 
 German
 
