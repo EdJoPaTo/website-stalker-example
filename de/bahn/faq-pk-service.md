@@ -99,86 +99,6 @@ Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft*
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-sparpreis-young)
 
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
-----------
-
-Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
-
-Dies gilt für Züge nach:
-
-* Dänemark
-* Italien
-* Kroatien
-* Österreich (auch via Tschechien)
-* Slowakei
-* Tschechien
-* Ungarn
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-6-monate-bis-abfahrt)
-
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
-----------
-
-Tickets können bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
-
-Dies gilt für Züge nach:
-
-* Belgien
-* Luxemburg
-* Schweiz
-* Niederlande
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-12-monate-bis-abfahrt)
-
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
-----------
-
-Für **Belgien, Luxemburg, die Niederlande und die Schweiz** gilt:
-Tickets können bis zu 12 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
-
-Für **Dänemark, Italien, Kroatien, Österreich, Polen, Schweden, Slowakei, Slowenien, Tschechien, Ungarn** gilt:
-Tickets können bis zu 6 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
-
-Für **Frankreich** gilt:
-Tickets können bis zu 6 Monate im Voraus und bis einen Tag vor Abfahrt gebucht werden.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa)
-
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
-----------
-
-Tickets können bis zu **6 Monate im Voraus** und bis einen Tag vor Abfahrt gebucht werden.
-
-Dies gilt für Züge nach:
-
-* Frankreich
-* Polen
-* Schweden
-* Slowenien
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-6-monate-bis-1-tag-vorher)
-
- In welchen Zügen gibt es mit dem (Super) Sparpreis Europa eine Reservierungspflicht?
-----------
-
-In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservierung ist dann bereits kostenfrei im Ticket enthalten.** Die Reservierungspflicht gilt für folgende Züge:
-
-* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille (inkl. aller Zwischenhalte)
-* Italien: Züge nach Mailand über Basel Bad Bf
-* Polen: Alle Fernverkehrszüge nach Polen
-
-Bitte achten Sie darauf, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-sparpreis-europa)
-
  Bekomme ich Rabatt auf den (Super) Sparpreis Europa mit der BahnCard?
 ----------
 
@@ -212,23 +132,41 @@ Nein, mit einem (Super) Sparpreis Europa-Ticket haben Sie **keinen Zutritt zur D
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-lounge-sparpreis-europa)
 
+ Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
+----------
+
+Für **Belgien, Luxemburg, die Niederlande und die Schweiz** gilt:
+Tickets können bis zu 12 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
+
+Für **Dänemark, Italien, Kroatien, Österreich, Polen, Schweden, Slowakei, Slowenien, Tschechien, Ungarn** gilt:
+Tickets können bis zu 6 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
+
+Für **Frankreich** gilt:
+Tickets können bis zu 6 Monate im Voraus und bis einen Tag vor Abfahrt gebucht werden.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa)
+
+ In welchen Zügen gibt es mit dem (Super) Sparpreis Europa eine Reservierungspflicht?
+----------
+
+In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservierung ist dann bereits kostenfrei im Ticket enthalten.** Die Reservierungspflicht gilt für folgende Züge:
+
+* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille (inkl. aller Zwischenhalte)
+* Italien: Züge nach Mailand über Basel Bad Bf
+* Polen: Alle Fernverkehrszüge nach Polen
+
+Bitte achten Sie darauf, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-sparpreis-europa)
+
  Wie lassen sich mit dem (Super) Sparpreis Europa die Bahnsteigsperren an den Bahnhöfen in den Niederlanden öffnen?
 ----------
 
 Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ticket, um bei geschlossener Bahnsteigsperre den Bahnhof zu verlassen oder zu betreten. Einfach den viereckigen Barcode an die beleuchtete Fläche vor der Sperre halten und schon öffnet sich der Durchgang. Falls Sie Ihr Online-Ticket auf einem mobilen Endgerät vorzeigen und in diesem Endgerät Ihre Kreditkarte hinterlegt haben, empfehlen wir, NFC zu deaktivieren, um eine unbeabsichtigte Abbuchung zu vermeiden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnsteigsperren-sparpreis-europa-niederlande)
-
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa Slowenien kaufen?
-----------
-
-Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets für das nächste Jahr buchen.
-
-Reservierungen ab Slowenien sind frühestens 3 Monate vor Abfahrt erhältlich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-slowenien)
 
  Wo kann ich den (Super) Sparpreis Europa Ukraine kaufen?
 ----------
