@@ -137,6 +137,22 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
  Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
 ----------
 
+Für **Belgien, Luxemburg, die Niederlande und die Schweiz** gilt:
+Tickets können bis zu 12 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
+
+Für **Dänemark, Italien, Kroatien, Österreich, Polen, Schweden, Slowakei, Slowenien, Tschechien, Ungarn** gilt:
+Tickets können bis zu 6 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
+
+Für **Frankreich** gilt:
+Tickets können bis zu 6 Monate im Voraus und bis einen Tag vor Abfahrt gebucht werden.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa)
+
+ Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
+----------
+
 Tickets können bis zu **6 Monate im Voraus** und bis einen Tag vor Abfahrt gebucht werden.
 
 Dies gilt für Züge nach:
