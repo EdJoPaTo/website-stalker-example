@@ -71,16 +71,14 @@ USB-A to Ethernet Adapter
 
 USB-C to USB-A Adapter
 
- VAT
+ Duties and taxes
 
- The price that you see includes estimated VAT. The exact amount will be calculated at checkout.
-
- This means there will not be any additional charges on delivery.
+ All import duties and taxes are covered in the price shown—there won’t be any additional fees when your package arrives.
 
 Dispatch
 
 1 - 2 working days
 
-[Includes estimated VAT of The exact amount will be calculated at checkout.](#tax)
+[Includes Duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/starlite) [Get Notified When Available](#)
