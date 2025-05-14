@@ -1,12 +1,12 @@
 #### DIe nächsten Megamärsche: ####
 
-### HANNOVER ###
+### münchen ###
 
-### 10. Mai 2025 ###
+### 17.-18. MAI 2025 ###
 
-### 50 km ###
+### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/hannover)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/münchen)
 
 |     Events     |   2025   |   2026   |
 |----------------|----------|----------|
@@ -15,7 +15,7 @@
 |Mönchengladbach |22/03/2025|21/03/2026|
 |    Hamburg     |05/04/2025|11/04/2026|
 |     Ostsee     |26/04/2025|25/04/2026|
-|    Hannover    |10/05/2025|          |
+|    Hannover    |10/05/2025|02/05/2025|
 |    München     |17/05/2025|          |
 |     Bremen     |24/05/2025|          |
 |   Mittersill   |21/06/2025|          |

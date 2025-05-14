@@ -2073,6 +2073,13 @@ Ist das Ticket dort nicht vorhanden:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchungsabbruch)
 
+ Was kann ich tun, wenn ich bei Buchung eines Tickets und/oder einer Reservierung mehrmals belastet wurde?
+----------
+
+Rufen Sie uns unter [030 2970](tel:030 2970) an.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlung-doppelt-abgebucht)
+
  Wie storniere ich ein mit giropay gekauftes Ticket?
 ----------
 

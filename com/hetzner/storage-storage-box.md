@@ -3,7 +3,9 @@ Storage Boxes
 QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 ==========
 
- Make them part of your data recovery plan today for increased redundancy, and automate your backups.
+[Compare Storage Boxes](https://www.hetzner.com/storage/storage-box/storage/storage-box/#matrix)
+
+----------
 
  Our servers are **available in different locations.**
 

@@ -1,9 +1,6 @@
 OBJECT STORAGE
 
-         STORAGE THAT GROWS
-        ==========
-
-         WITH YOUR NEEDS
+        STORAGE THAT GROWS WITH YOUR NEEDS
         ==========
 
          GDPR-compliant

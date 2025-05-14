@@ -81,4 +81,6 @@ Dispatch
 
 [Includes Duties and taxes of , no extra charges on delivery.](#tax)
 
+true
+
  Sold out [Learn More](/pages/starlite) [Get Notified When Available](#)
