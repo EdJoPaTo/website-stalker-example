@@ -90,3 +90,7 @@ Dispatch
 true
 
  Sold out [Learn More](/pages/starlite) [Get Notified When Available](#)
+
+ StarLite Mk V
+
+ Be ready: orders for the new StarLite go live shortly.

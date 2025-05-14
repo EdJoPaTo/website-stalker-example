@@ -81,3 +81,7 @@ Dispatch
 true
 
  Sold out [Learn More](/pages/byte) [Get Notified When Available](#)
+
+ Byte Mk III
+
+ Be ready: orders for the new Byte go live shortly.
