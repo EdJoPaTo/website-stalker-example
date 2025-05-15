@@ -100,7 +100,7 @@ restriction allow
 
  Applicability: MachineApplicable
 
-Added in: 1.81.0
+Added in: 1.85.0
 
 as\_ptr\_cast\_mut
 
@@ -600,7 +600,7 @@ Added in: 1.70.0
 
 comparison\_chain
 
-style warn
+pedantic allow
 
  Applicability: HasPlaceholders
 
@@ -810,7 +810,7 @@ disallowed\_methods
 
 style warn
 
- Applicability: Unspecified
+ Applicability: MachineApplicable
 
 Added in: 1.49.0
 
@@ -834,7 +834,7 @@ disallowed\_types
 
 style warn
 
- Applicability: Unspecified
+ Applicability: MachineApplicable
 
 Added in: 1.55.0
 
@@ -846,13 +846,21 @@ complexity warn
 
 Added in: pre 1.29.0
 
+doc\_comment\_double\_space\_linebreaks
+
+pedantic allow
+
+ Applicability: MachineApplicable
+
+Added in: 1.87.0
+
 doc\_include\_without\_cfg
 
 restriction allow
 
  Applicability: MachineApplicable
 
-Added in: 1.84.0
+Added in: 1.85.0
 
 doc\_lazy\_continuation
 
@@ -861,6 +869,14 @@ style warn
  Applicability: MachineApplicable
 
 Added in: 1.80.0
+
+doc\_link\_code
+
+nursery allow
+
+ Applicability: MaybeIncorrect
+
+Added in: 1.86.0
 
 doc\_link\_with\_quotes
 
@@ -884,7 +900,7 @@ suspicious warn
 
  Applicability: MaybeIncorrect
 
-Added in: 1.84.0
+Added in: 1.85.0
 
 doc\_overindented\_list\_items
 
@@ -892,7 +908,7 @@ style warn
 
  Applicability: MaybeIncorrect
 
-Added in: 1.80.0
+Added in: 1.86.0
 
 double\_comparisons
 
@@ -981,6 +997,14 @@ correctness deny
  Applicability: MaybeIncorrect
 
 Added in: 1.77.0
+
+elidable\_lifetime\_names
+
+pedantic allow
+
+ Applicability: MachineApplicable
+
+Added in: 1.84.0
 
 else\_if\_without\_else
 
@@ -1562,7 +1586,7 @@ if\_then\_some\_else\_none
 
 restriction allow
 
- Applicability: Unspecified
+ Applicability: MachineApplicable
 
 Added in: 1.53.0
 
@@ -1893,6 +1917,14 @@ correctness deny
  Applicability: MachineApplicable
 
 Added in: 1.49.0
+
+io\_other\_error
+
+style warn
+
+ Applicability: MachineApplicable
+
+Added in: 1.86.0
 
 is\_digit\_ascii\_radix
 
@@ -2350,6 +2382,14 @@ complexity warn
 
 Added in: 1.66.0
 
+manual\_contains
+
+perf warn
+
+ Applicability: MachineApplicable
+
+Added in: 1.86.0
+
 manual\_div\_ceil
 
 complexity warn
@@ -2502,6 +2542,14 @@ perf warn
 
 Added in: pre 1.29.0
 
+manual\_midpoint
+
+pedantic allow
+
+ Applicability: MachineApplicable
+
+Added in: 1.87.0
+
 manual\_next\_back
 
 style warn
@@ -2522,13 +2570,13 @@ manual\_ok\_err
 
 complexity warn
 
- Applicability: MaybeIncorrect
+ Applicability: MachineApplicable
 
 Added in: 1.86.0
 
 manual\_ok\_or
 
-pedantic allow
+style warn
 
  Applicability: MachineApplicable
 
@@ -2610,7 +2658,7 @@ manual\_slice\_fill
 
 style warn
 
- Applicability: MachineApplicable
+ Applicability: MaybeIncorrect
 
 Added in: 1.86.0
 
@@ -2650,7 +2698,7 @@ manual\_strip
 
 complexity warn
 
- Applicability: HasPlaceholders
+ Applicability: MachineApplicable
 
 Added in: 1.48.0
 
@@ -2893,6 +2941,14 @@ style warn
  Applicability: MachineApplicable
 
 Added in: 1.31.0
+
+mem\_replace\_option\_with\_some
+
+style warn
+
+ Applicability: MachineApplicable
+
+Added in: 1.86.0
 
 mem\_replace\_with\_default
 
@@ -3554,7 +3610,7 @@ never\_loop
 
 correctness deny
 
- Applicability: Unspecified
+ Applicability: MachineApplicable
 
 Added in: pre 1.29.0
 
@@ -3784,11 +3840,11 @@ Added in: 1.47.0
 
 option\_map\_or\_err\_ok
 
-style warn
+deprecated none
 
- Applicability: MachineApplicable
+ Applicability: Unspecified
 
-Added in: 1.76.0
+Deprecated in: 1.86.0
 
 option\_map\_or\_none
 
@@ -3845,6 +3901,14 @@ correctness deny
  Applicability: Unspecified
 
 Added in: pre 1.29.0
+
+owned\_cow
+
+style warn
+
+ Applicability: Unspecified
+
+Added in: 1.85.0
 
 panic
 
@@ -3906,7 +3970,7 @@ path\_buf\_push\_overwrite
 
 nursery allow
 
- Applicability: MachineApplicable
+ Applicability: MaybeIncorrect
 
 Added in: 1.36.0
 
@@ -4146,7 +4210,7 @@ range\_zip\_with\_len
 
 complexity warn
 
- Applicability: Unspecified
+ Applicability: MachineApplicable
 
 Added in: pre 1.29.0
 
@@ -4460,7 +4524,7 @@ suspicious warn
 
  Applicability: Unspecified
 
-Added in: 1.84.0
+Added in: 1.85.0
 
 reserve\_after\_initialization
 
@@ -4806,6 +4870,14 @@ pedantic allow
 
 Added in: pre 1.29.0
 
+single\_option\_map
+
+nursery allow
+
+ Applicability: Unspecified
+
+Added in: 1.86.0
+
 single\_range\_in\_vec\_init
 
 suspicious warn
@@ -4954,7 +5026,7 @@ string\_to\_string
 
 restriction allow
 
- Applicability: Unspecified
+ Applicability: MachineApplicable
 
 Added in: pre 1.29.0
 
@@ -5382,6 +5454,14 @@ nursery allow
 
 Added in: 1.38.0
 
+unbuffered\_bytes
+
+perf warn
+
+ Applicability: Unspecified
+
+Added in: 1.86.0
+
 unchecked\_duration\_subtraction
 
 pedantic allow
@@ -5509,6 +5589,14 @@ suspicious warn
  Applicability: MachineApplicable
 
 Added in: 1.78.0
+
+unnecessary\_debug\_formatting
+
+pedantic allow
+
+ Applicability: Unspecified
+
+Added in: 1.87.0
 
 unnecessary\_fallible\_conversions
 
