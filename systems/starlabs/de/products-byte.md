@@ -74,7 +74,7 @@ Includes:
 
 Dispatch
 
-21 - 22 working days
+14 - 15 working days
 
 [Includes Duties and taxes of , no extra charges on delivery.](#tax)
 

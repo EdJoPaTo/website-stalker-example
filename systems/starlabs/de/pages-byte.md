@@ -10,9 +10,9 @@ processor
 
 Up to
 
-3.8GHz
+3.9GHz
 
-quad-core processing
+8-core processing
 
 Up to
 
