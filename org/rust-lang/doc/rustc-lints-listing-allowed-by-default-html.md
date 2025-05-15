@@ -500,7 +500,7 @@ The `ffi_unwind_calls` lint detects calls to foreign functions or function point
 ```
 #![warn(ffi_unwind_calls)]
 
-extern "C-unwind" {
+unsafe extern "C-unwind" {
     fn foo();
 }
 
@@ -650,6 +650,14 @@ warning: `if let` assigns a shorter lifetime since Edition 2024
    |
    = warning: this changes meaning in Rust 2024
    = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/temporary-if-let-scope.html>
+note: value invokes this custom destructor
+  --> lint_example.rs:5:1
+   |
+5  | / impl Drop for Droppy {
+6  | |     fn drop(&mut self) {
+...  |
+16 | | }
+   | |_^
 help: the value is now dropped here in Edition 2024
   --> lint_example.rs:26:5
    |
@@ -771,7 +779,6 @@ the syntax is redundant, and can be removed.
 ### Example ###
 
 ```
-#![feature(lifetime_capture_rules_2024)]
 #![deny(impl_trait_redundant_captures)]
 fn test<'a>(x: &'a i32) -> impl Sized + use<'a> { x }
 ```
@@ -780,17 +787,17 @@ This will produce:
 
 ```
 error: all possible in-scope parameters are already captured, so `use<...>` syntax is redundant
- --> lint_example.rs:4:28
+ --> lint_example.rs:3:28
   |
-4 | fn test<'a>(x: &'a i32) -> impl Sized + use<'a> { x }
+3 | fn test<'a>(x: &'a i32) -> impl Sized + use<'a> { x }
   |                            ^^^^^^^^^^^^^-------
   |                                         |
   |                                         help: remove the `use<...>` syntax
   |
 note: the lint level is defined here
- --> lint_example.rs:2:9
+ --> lint_example.rs:1:9
   |
-2 | #![deny(impl_trait_redundant_captures)]
+1 | #![deny(impl_trait_redundant_captures)]
   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ```
