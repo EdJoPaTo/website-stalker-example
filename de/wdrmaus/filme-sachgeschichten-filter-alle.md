@@ -687,6 +687,7 @@
 * [Mähdrescher](https://www.wdrmaus.de/filme/sachgeschichten/maehdrescher.php5)
 * [Magnetherstellung](https://www.wdrmaus.de/filme/sachgeschichten/magnetherstellung.php5)
 * [Magnetresonanztomografie](https://www.wdrmaus.de/filme/sachgeschichten/magnetresonanztomografie.php5)
+* [Maikäfer](https://www.wdrmaus.de/filme/sachgeschichten/maikaefer.php5)
 * [Maislabyrinth](https://www.wdrmaus.de/filme/sachgeschichten/maislabyrinth.php5)
 * [Making of Die Sendung mit der Maus](https://www.wdrmaus.de/filme/sachgeschichten/making_of_maus.php5)
 * [Making of Maussong](https://www.wdrmaus.de/filme/sachgeschichten/making_of_maussong.php5)
