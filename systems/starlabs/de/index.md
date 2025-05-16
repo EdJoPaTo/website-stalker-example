@@ -38,7 +38,7 @@ Browse our range
 
 [](/products/starlite)
 
-[StarLite €13,37 Ships 21 - 22 business days](/products/starlite)
+[StarLite €13,37 Ships 42 - 43 business days](/products/starlite)
 
 [](/products/starbook)
 

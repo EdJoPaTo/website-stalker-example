@@ -83,7 +83,7 @@ Includes:
 
 Ships
 
-21 - 22 business days
+42 - 43 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
@@ -91,4 +91,4 @@ Ships
 
  StarLite Mk V
 
- Be ready: orders for the new StarLite go live shortly.
+ Pre-orders are live! Use code LITEUP10 for a 10% early bird discount.
