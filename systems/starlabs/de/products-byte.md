@@ -82,4 +82,4 @@ Ships
 
  Byte Mk III
 
- Be ready: orders for the new Byte go live shortly.
+ Pre-orders now live! Use code BYTEBACK for free worldwide shipping and code BYTESTYLE for a free cotton t-shirt.
