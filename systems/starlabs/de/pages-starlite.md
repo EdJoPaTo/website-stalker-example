@@ -4,7 +4,7 @@ Compact yet powerful; your perfect partner in every journey.
 
 Intel Alder Lake
 
-N200
+N350
 
 processor
 
@@ -16,39 +16,15 @@ memory
 
 Up to
 
-3.7GHz
+3.9GHz
 
-quad-core processing
+8-core processing
 
 Fanless
 
 0db
 
 design
-
-12.5-inch
-
-2k
-
-touch display
-
-Up to
-
-12 hrs
-
-battery life
-
-Type II Anodised
-
-Aluminium
-
-Chassis
-
-Magnetic
-
-Convertible
-
-Design
 
 Versatile Connectivity
 
