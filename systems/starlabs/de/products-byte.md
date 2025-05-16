@@ -82,4 +82,9 @@ Ships
 
  Byte Mk III
 
- Pre-orders now live! Use code BYTEBACK for free worldwide shipping and code BYTESTYLE for a free cotton t-shirt.
+ Pre-orders are now open!
+
+Choose one of the following offers:
+
+\+ Free worldwide shipping with discount code BYTEBACK
+\+ Free [100% cotton t-shirt](https://starlabs.systems/products/star-labs-stretch-tshirt) with code BYTESTYLE

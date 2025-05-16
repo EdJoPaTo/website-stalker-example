@@ -91,4 +91,6 @@ Ships
 
  StarLite Mk V
 
- Pre-orders are live! Use code **LITEUP10** for a 10% early bird discount.
+ Pre-orders are live!
+
+Use discount code **LITEUP10** for a 10% early bird saving.
