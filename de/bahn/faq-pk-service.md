@@ -1843,9 +1843,9 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie auf bahn.de oder
 
 **Teilstornierungen von Online-Tickets**
 
-Teilstornierungen von Online-Tickets sind nicht möglich. Kann z.B. bei einer Mehr-Personen-Fahrkarte eine Person die Fahrt nicht antreten, können Sie nur das komplette Online-Ticket stornieren. Buchen Sie dann für die verringerte Personenzahl neu. Hierbei kann nicht garantiert werden, dass die Preise vorheriger Buchungen wieder verfügbar sind. Achtung: Ihre Sitzplatzreservierung wird bei der Stornierung mit storniert; der Betrag hierfür kann laut Tarif nicht erstattet werden.
+Teilstornierungen von Online-Tickets sind nicht möglich. Kann zum Beispiel bei einer Mehr-Personen-Fahrkarte eine Person die Fahrt nicht antreten, können Sie nur das komplette Online-Ticket stornieren. Buchen Sie dann für die verringerte Personenzahl neu. Hierbei kann nicht garantiert werden, dass die Preise vorheriger Buchungen wieder verfügbar sind. Achtung: Ihre Sitzplatzreservierung wird bei der Stornierung mit storniert; der Betrag hierfür kann laut Tarif nicht erstattet werden.
 
-* [Hier finden Sie alle Informationen zur Stornierung oder zum Umtausch Ihres Tickets Weitere Informationen: Hier finden Sie alle Informationen zur Stornierung oder zum Umtausch Ihres Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Informationen zu Umtausch und Stornierung von Tickets Weitere Informationen: Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-ticket-umtauschen-oder-stornieren)
 
@@ -1880,6 +1880,17 @@ Ein **Digitales Ticket** können Sie wie folgt stornieren:
 * Bei einem **Flexpreis-Ticket** erfolgt die Erstattung auf Ihr bei der Buchung angegebenes Konto oder Zahlungsmittel (ggf. abzüglich eines Bearbeitungsentgelts).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anleitung-online-gebuchtes-ticket-stornieren)
+
+ Ich habe mich bei der Buchung vertan und das Reisedatum, die Wagenklasse oder eine andere Angabe falsch ausgewählt. Was jetzt?
+----------
+
+Ein Umtausch bereits gebuchter Tickets und Reservierungen ist nicht möglich. Sie können Ihre gebuchten Tickets zu den geltenden Tarifbestimmungen stornieren und neu buchen.
+
+Für ausgewählte Fernverkehrs-Tickets können Sie eine Sofortstornierung bis zu 3 Stunden nach der Buchung über die App DB Navigator oder über bahn.de vornehmen.
+
+* [Weitere Informationen zum Thema Stornierung Weitere Informationen: Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-falsch)
 
  Wie kann ich ein Ticket stornieren, das ich auf www.international-bahn.de gekauft habe?
 ----------
@@ -1963,9 +1974,11 @@ Sie können Ihr Sparpreis-Ticket bis 1 Tag vor dem Reisetag (Hinfahrt) online um
  Kann ich mein Ticket stornieren?
 ----------
 
-Ob Sie Ihr Ticket stornieren können, hängt von dem von Ihnen gebuchten Tarif ab. Die genauen Stornierungsbedingungen finden Sie auf Ihrem Ticket. Unabhängig von den Tarifbestimmungen können Sie Ihr Ticket auf bahn.de und in der App DB Navigator innerhalb von 3 Stunden nach der Buchung kostenlos sofort stornieren.
+Ob Sie Ihr Ticket stornieren können, hängt von dem von Ihnen gebuchten Tarif ab. Die genauen Stornierungsbedingungen finden Sie auf Ihrem Ticket.
 
-* [Weitere Infos zum Thema Stornierung Weitere Informationen: Weitere Infos zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+Unabhängig von den Tarifbestimmungen können Sie Ihr Ticket auf bahn.de und in der App DB Navigator innerhalb von 3 Stunden nach der Buchung kostenlos sofort stornieren.
+
+* [Weitere Informationen zu Umtausch und Stornierung von Tickets Weitere Informationen: Weitere Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-stornieren)
 
@@ -2070,6 +2083,8 @@ Ist das Ticket dort nicht vorhanden:
 * Buchen Sie ein neues Ticket.
 * Der abgebuchte Betrag für die Fehlbuchung wird Ihnen automatisch zurücküberwiesen.
 * Die Rückerstattung erfolgt je nach Zahlungsmittel zwischen 45 Minuten und wenigen Tagen.
+
+Sollten Sie nach einer Woche keine automatische Rückerstattung erhalten haben, rufen Sie uns unter [030 2970](http://030 2970) an.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchungsabbruch)
 
@@ -6154,6 +6169,15 @@ Nein, diese Möglichkeit gibt es nicht.
 * Aktionsgutscheine: Gültigkeit je nach Aktion
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-sind-gutscheine-gueltig)
+
+ Warum erhalte ich eine Fehlermeldung beim Einlösen meines Gutscheins?
+----------
+
+Achten Sie bei der Einlösung auf einen möglichen Aktionszeitraum, den Einlösebedingungen, wie zum Beispiel einen Mindestbestellwert oder einen Einlösezeitraum.
+
+Stimmen alle Angaben und Sie bekommen dennoch einen Fehler, rufen Sie uns unter [030 2970](tel:030 2970) an.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutschein-fehlermeldung)
 
  Wo kann ich die DB Geschenkkarte kaufen?
 ----------
