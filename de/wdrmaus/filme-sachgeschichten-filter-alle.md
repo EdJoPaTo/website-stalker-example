@@ -610,6 +610,7 @@
 * [Kronleuchter](https://www.wdrmaus.de/filme/sachgeschichten/kronleuchter.php5)
 * [Kuchengabel](https://www.wdrmaus.de/filme/sachgeschichten/kuchengabel.php5)
 * [Kühlschrankgründe](https://www.wdrmaus.de/filme/sachgeschichten/kuehlschrankgruende.php5)
+* [Küstenschutz](https://www.wdrmaus.de/filme/sachgeschichten/kuestenschutz.php5)
 * [Kufenstuhl](https://www.wdrmaus.de/filme/sachgeschichten/kufenstuhl.php5)
 * [Kugelschreiber](https://www.wdrmaus.de/filme/sachgeschichten/kugelschreiber.php5)
 * [Kuh Lena (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/kuh_lena.php5)
