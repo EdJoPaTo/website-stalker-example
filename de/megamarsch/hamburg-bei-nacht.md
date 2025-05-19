@@ -221,12 +221,10 @@ AUSVERKAUFT
 
 18:30
 
-.
+AUSVERKAUFT
 
 18:45
 
 .
-
-[TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
 
 [TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
