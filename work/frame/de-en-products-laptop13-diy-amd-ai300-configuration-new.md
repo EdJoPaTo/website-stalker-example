@@ -75,15 +75,15 @@ Close
 
   6-core/12-thread, up to 4.8GHz
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
@@ -91,7 +91,7 @@ Close
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
@@ -99,15 +99,15 @@ Close
 
   8-core/16-thread, up to 5.0GHz
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
@@ -115,7 +115,7 @@ Close
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
@@ -123,15 +123,15 @@ Close
 
   12-core/24-thread, up to 5.1GHz
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
@@ -139,7 +139,7 @@ Close
 
   All Batches
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Ships May - Sold Out  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Ships Q2 - Sold Out  Batch 8  Ships Q2
 
   All Batches
 
