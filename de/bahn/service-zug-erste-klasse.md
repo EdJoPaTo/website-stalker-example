@@ -36,17 +36,17 @@ Leistungsvergleich der 1.Klasse im ICE und im Intercity
 
 ----------
 
-|                                                                         |ICE |   IC   |
-|-------------------------------------------------------------------------|----|--------|
-|             Mehr Platz\* und großzügige, komfortable Sitze              | Ja |   Ja   |
-|                                Mehr Ruhe                                | Ja |   Ja   |
-|              Sitzplatzreservierung inklusive (Sparpreise)               |Nein|  Nein  |
-|              Sitzplatzreservierung inklusive (Flexpreise)               | Ja |   Ja   |
-|Exklusive Reiseberatung mit weniger Wartezeit (an ausgewählten Bahnhöfen)| Ja |   Ja   |
-|                    Zugang zu den DB Lounges\*\*\*\*                     | Ja |   Ja   |
-|              WLAN (kostenfrei und ohne Volumenbegrenzung)               | Ja |Ja\*\*\*|
-|                  Gastronomischer Service am Sitzplatz                   | Ja |  Nein  |
-|         Kostenfreie digitale Zeitungen & Magazine im ICE Portal         | Ja | Ja\*\* |
+|                                                                         |ICE |  IC  |
+|-------------------------------------------------------------------------|----|------|
+|             Mehr Platz\* und großzügige, komfortable Sitze              | Ja |  Ja  |
+|                                Mehr Ruhe                                | Ja |  Ja  |
+|              Sitzplatzreservierung inklusive (Sparpreise)               |Nein| Nein |
+|              Sitzplatzreservierung inklusive (Flexpreise)               | Ja |  Ja  |
+|Exklusive Reiseberatung mit weniger Wartezeit (an ausgewählten Bahnhöfen)| Ja |  Ja  |
+|                    Zugang zu den DB Lounges\*\*\*\*                     | Ja |  Ja  |
+|              WLAN (kostenfrei und ohne Volumenbegrenzung)               | Ja |Ja\*\*|
+|                  Gastronomischer Service am Sitzplatz                   | Ja | Nein |
+|         Kostenfreie digitale Zeitungen & Magazine im ICE Portal         | Ja |Ja\*\*|
 
 \* Mehr Beinfreiheit, nur 3 statt 4 Sitze pro Reihe, mehr Platz für Ihr Gepäck, breitere Gänge
 
