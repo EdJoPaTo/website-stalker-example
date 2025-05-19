@@ -1066,6 +1066,13 @@ Ja, auch Inhabende einer BahnCard Business 50 können an der Aktion teilnehmen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-bahncard-business-50-mitfahreraktion)
 
+ Kann die BahnCard 50 Mitfahreraktion nur einmalig im Aktionszeitraum genutzt werden oder ist es möglich mehrmals eine zweite Person mitzunehmen?
+----------
+
+Inhaber:innen einer BahnCard 50 können im Aktionszeitraum 01. Mai bis 30. September 2025 beliebig oft einen Mitfahrer mitnehmen und somit die Aktion nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebot-mehrfachnutzung-mitfahreraktion)
+
  Wofür kann ich die BahnCard 100 nutzen?
 ----------
 
