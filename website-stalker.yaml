@@ -588,3 +588,26 @@ sites:
       - css_remove: "#main-navbar, #toc, footer, #footer"
       - css_flatten: .admonitionblock table, table:has(.listingblock)
       - html_markdownify
+
+  - url: https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html
+    editors:
+      - css_select: main
+      - css_remove: nav, svg, picture, img
+      - html_markdownify
+
+  - url:
+      - https://www.kielregion.de/mobilitaetsregion/sprottenflotte/
+      - https://www.kielregion.de/mobilitaetsregion/sprottenflotte/faq-sprottenflotte/
+      - https://www.kielregion.de/mobilitaetsregion/sprottenflotte/lastenraeder/
+      - https://www.kielregion.de/mobilitaetsregion/digitale-mobilitaet/anwendungsfaelle-und-projekte/
+      - https://www.kielregion.de/mobilitaetsregion/digitale-mobilitaet/datenplattform/
+    editors:
+      - css_select: main
+      - css_remove: svg, iframe, picture, figure, img
+      - html_markdownify
+
+  - url: https://www.donkey.bike/de/stadte/kiel/
+    editors:
+      - css_select: "#content"
+      - css_remove: script, figure, img
+      - html_markdownify
