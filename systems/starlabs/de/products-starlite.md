@@ -59,6 +59,8 @@ AU (Type I)
 
 Extras
 
+StarLite Mk V Protective Case
+
 32GB Reversible USB Recovery Drive
 
 USB-C 3.1 (5m)  Charge Cable

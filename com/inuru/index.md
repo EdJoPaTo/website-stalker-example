@@ -62,7 +62,7 @@ this is where lighting technology finds purpose.
 Be part of the movement. Enter your email to request your invitation.
  **A new era begins.**
 
-BERLIN GERMANY - 24TH JUNE 2025
+BERLIN GERMANY - LATE JUNE 2025
 
 Thank you! Your submission has been received!
 
