@@ -11,6 +11,22 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+[1.6.2] 2025-05-20
+----------
+
+### Fixed ###
+
+* [PlusUni](/gen2/Devices/Gen2/ShellyPlusUni) Fix operation when multiple DS18B20 sensors are attached
+* [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM) Fix crashes due to wrong usage of a stack variable
+* [Scripting](/gen2/ComponentsAndServices/Script) Cleanup extensions when terminating
+* [BLE](/gen2/ComponentsAndServices/BLE) Fix handling in-progress connection when disconnecting
+
+### Local web ###
+
+### Fixed ###
+
+* [Modbus](/gen2/ComponentsAndServices/Modbus) Fix missing UI support for Gen4 devices
+
 [1.6.1] 2025-05-07
 ----------
 
