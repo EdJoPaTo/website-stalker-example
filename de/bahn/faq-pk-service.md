@@ -1455,9 +1455,8 @@ Nutzen Sie die Verbindungssuche oder gehen Sie im Menübereich "Buchen" auf "Tic
 
 Hierzu gibt es verschiedene Möglichkeiten:
 
-* In der App können Sie im jeweiligen Ticket unter "Auftrag bearbeiten" einen Kaufbeleg anfordern.
-* Auf der Website können Sie sich über Ihr Profil einloggen und unter "Meine Reisen" den gewünschten Auftrag auswählen sowie hierzu den Kaufbeleg anfordern.
-   Möchten Sie mehrere Kaufbelege gebündelt erstellen, dann können Sie dies unter dem Menüeintrag "Meine Bahn" - "Sammel-Kaufbelege" - "Verbundtickets" komfortabel erledigen und die Kaufbelege gebündelt als ZIP-Datei herunterladen.
+* In der App können Sie im jeweiligen Ticket unter "Weitere Aktionen" auf "Rechnung öffnen" klicken, um eine Rechnung anzufordern.
+* Auf der Website können Sie sich mit Ihrem Profil einloggen und unter "Meine Reisen" das gewünschte Ticket auswählen. Um die Rechnung herunterzuladen, klicken Sie anschließend auf "Rechnung erstellen".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kaufbeleg)
 

@@ -48,11 +48,25 @@ Sustainability
 
 Contact
 
-WE PRINT LIGHT.
+OLEDCON 2025
 ==========
 
-Sustainable OLED seamlessly
-integrated into everyday things..
+INURU WORLD FIRST OLED CONFERENCE
+‍
+Where makers, designers, engineers and visionaries
+come together to reimagine a world beyond static colors.
+‍
+From wearables to packaging, from fashion to electronics devices —
+this is where lighting technology finds purpose.
+
+Be part of the movement. Enter your email to request your invitation.
+ **A new era begins.**
+
+BERLIN GERMANY - 24TH JUNE 2025
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
 
 We simplified OLED to bring lighting anywhere it matters.
 ==========
@@ -63,7 +77,7 @@ We simplified the production of OLED through printing, making it not only afford
 
 Our vision is to bring OLED technology to the level of maturity, that low-cost displays can replace static surfaces of packaging and clothing.
 
-Towards a society without waste.
+Towards a smart society without waste.
 
 Our Solutions
 ==========
