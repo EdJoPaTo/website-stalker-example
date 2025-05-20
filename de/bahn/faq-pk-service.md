@@ -1651,30 +1651,36 @@ Aktuelle Alternativen sind alternative Verbindungen für Züge, deren Fahrtzeite
  Was bedeutet "Aktuelle Alternative"?
 ----------
 
-Eine aktuelle Alternative ist eine Verbindung, die im Soll-Fahrplan nicht existiert. Eine aktuelle Alternative ergibt sich aus der Ist-Situation und kann den Reisenden bei Beeinträchtigung seiner Soll-Verbindung möglichst schnell und komfortabel oder überhaupt ("fahrbare Verbindung") ans Ziel bringen. Eine aktuelle Alternative kann beim nächsten Klick "verschwunden" sein und wird nicht mehr angezeigt, weil sich Änderungen der Ist-Situationen ergeben haben.
+* Eine aktuelle Alternative ist eine Verbindung, die es im normalen Fahrplan so nicht gibt.
+* Eine aktuelle Alternative gibt Ihnen z.B. bei Verspätungen oder Ausfällen eine Alternativ-Verbindung. Diese Verbindung soll sie möglichst schnell und komfortabel oder überhaupt ans Ziel bringen.
+* Eine aktuelle Alternative kann beim nächsten Klick "verschwunden" sein und wird nicht mehr angezeigt, weil sich Änderungen ergeben haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-aktuelle-alternative)
 
  Ab und bis wann kann ich ein Ticket für eine "Aktuelle Alternative" buchen?
 ----------
 
-Aktuelle Alternativen werden 72 Stunden vor Abfahrt in der Reiseauskunft angezeigt und sind ab dann auch als Online- oder Handy-Tickets buchbar. Als Flexpreis-Tickets können Sie diese sogar noch bis 3 Minuten vor der im Fahrplan eingeplanten Soll-Abfahrtszeit des Zuges buchen.
-
-Auf den Tickets ist ein Hinweis, dass es sich um eine "Aktuelle Alternative" handelt, aufgedruckt.
+* Sie sehen aktuelle Alternativen 72 Stunden vor Abfahrt in der Reiseauskunft. Sie können die Alternativen ab dann auch als Online- oder Handy-Tickets buchen.
+* Als Flexpreis-Tickets können Sie diese auch noch bis 3 Minuten geplanten Abfahrtszeit des Zuges buchen.
+* Auf den Tickets steht ein Hinweis, dass es sich um eine "Aktuelle Alternative" handelt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-ab-und-bis-wann-ticket-aktuelle-alternative-buchen)
 
  Warum ist auf meinem Ticket nicht die tatsächliche Abfahrtszeit aufgedruckt?
 ----------
 
-In Ihrem Reiseplan in der App wird natürlich - wie bisher auch - der tatsächliche "Echtzeit-Stand" angezeigt und laufend aktualisiert.
+Die Abfahrtszeit kann sich aus verschiedenen Gründen ändern.
+
+Auf Ihrem Reiseplan in der App wird natürlich - wie bisher auch - die aktuelle Abfahrtszeit angezeigt und laufend aktualisiert.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-ticket-nicht-abfahrtszeit-abgedruckt)
 
- Wie kommt es, dass mir manchmal eine "Minuszeit" fürs Umsteigen angezeigt wird?
+ Warum wird mir manchmal eine "Minuszeit" fürs Umsteigen angezeigt?
 ----------
 
-Auf den Tickets werden die laut Fahrplan zugrunde liegenden Züge aufgedruckt, da auch die zum Buchungszeitpunkt bekannten Abfahrtszeiten nur Punktprognosen sind. Verspätet sich ein Anschlusszug, kann es somit dazu kommen, dass der Kunde einen laut Fahrplan "nicht erreichbaren" Anschluss also trotzdem noch erreicht.
+Auf den Tickets stehen die Zeiten für Züge immer so, wie sie im Fahrplan stehen. Die Ankunfts- und Abfahrtszeit kann sich aber z.B. aufgrund von Verzögerungen ändern.
+
+Wenn sich Ihr Anschlusszug verspätet, kann es also sein, dass sie einen Anschluss trotzdem erreichen, auch wenn im Fahrplan steht, dass Sie diesen nicht erreichen können.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-minuszeit-umsteigen-angezeigt)
 
@@ -1689,7 +1695,8 @@ Auf den Tickets werden die laut Fahrplan zugrunde liegenden Züge aufgedruckt, d
  Was ist ein Ersatzfahrplan?
 ----------
 
-Bei überregionalen Einschränkungen des Regelzugverkehrs, wie zum Beispiel bei Unwettern, technischen Großstörungen oder auch Streiks, richtet die Bahn nach Möglichkeit einen Ersatzfahrplan ein, um die Auswirkungen der Sondersituation für die Kunden zu begrenzen.
+* Wir richten, wenn möglich, einen Ersatzfahrplan ein, damit Sie so schnell wie möglich an Ihr Ziel kommen
+* Einen Ersatzfahrplan gibt es bei überregionalen Einschränkungen im Zugverkehr, z. B. bei Unwetter oder Streiks.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-ersatzfahrplan)
 
