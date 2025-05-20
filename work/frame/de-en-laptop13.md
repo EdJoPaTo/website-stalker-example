@@ -146,8 +146,6 @@ working on with the Framework
 Newsletter.
 ----------
 
- Subscribe
-
 Monthly-ish
 
 Framework Laptop 13. **Upgraded.**

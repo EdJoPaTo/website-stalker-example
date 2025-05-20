@@ -500,7 +500,7 @@ Close
 
 Stylus will be available in multiple colors. Coming in Q3.
 
- Stylus
+ Stylus – Stylus
 
 0123456
 

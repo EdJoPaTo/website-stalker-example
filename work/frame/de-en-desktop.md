@@ -237,8 +237,6 @@ Bring your preferred OS, including Linux.
 
 ### Keep track of what we’re working on with the Framework Newsletter. ###
 
- Subscribe
-
 Monthly-ish
 
 ### Planning a volume purchase? ###

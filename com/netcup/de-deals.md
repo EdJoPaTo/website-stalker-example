@@ -1,25 +1,9 @@
 netcup Deals
 ==========
 
-**Wir feiern Europa mit top Angeboten.**
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-Von 27. bis 30. Mai feiern wir Europa mit starken netcup-Angeboten für Server, Webhosting und Domains! Sichere dir Hosting mit europäischen Werten zu Top-Preisen an den Standorten Nürnberg oder Wien.
-
-[Mehr Informationen](https://www.netcup.com/de/deals#infos)
-
-### **Das erwartet dich:** ###
-
-* ### Top Deals für dein Projekt ###
-
-  Egal ob Private Cloud Store, Website, VPN oder Media Server – wir haben einige unserer besten Deals für dich zusammengestellt.
-
-* ### 72 Stunden verfügbar ###
-
-  Sei dabei und sichere dir über ganze 72 Stunden hinweg Top Deals! Die Aktion startet am Dienstag, 27. Mai ab ca. 10 Uhr.
-
-* ### Zusätzlicher Flashdeal ###
-
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), um ein weiteres, zeitlich begrenztes Überraschungsangebot zu ergattern.
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 Bleibe auf dem Laufenden
 ----------
@@ -90,7 +74,7 @@ Wir bieten dir zu immer wiederkehrenden Sale-Events eine immer unterschiedliche 
 
 ### Wie lange sind netcup Deals verfügbar? ###
 
-Für gewöhnlich sind unsere Deals nur für 72 Stunden aktiv. Bei manchen Aktionen können die Deals jedoch auch über eine längere Zeit aktiv sein. Bitte beachte die Informationen auf unserer Website. Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
+Für gewöhnlich sind unsere Deals nur für 24 Stunden aktiv. Bei manchen Aktionen können die Deals jedoch auch über eine längere Zeit aktiv sein. Bitte beachte die Informationen auf unserer Website. Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
 
 ### Wie kann ich netcup Deals kaufen? ###
 

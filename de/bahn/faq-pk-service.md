@@ -2101,15 +2101,6 @@ Rufen Sie uns unter [030 2970](tel:030 2970) an.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlung-doppelt-abgebucht)
 
- Wie storniere ich ein mit giropay gekauftes Ticket?
-----------
-
-**Bis 31.01.2025** können Sie Ihr Ticket weiterhin im DB Navigator oder auf bahn.de stornieren und erhalten Ihre Rückerstattung wie gewohnt über giropay zurück.
-
-**Ab 01.02.2025** wenden Sie sich für Ihre Rückerstattung bitte an unseren Kundenservice unter der E-Mail-Adresse [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/giropay)
-
  Welche Kreditkarten werden akzeptiert?
 ----------
 

@@ -46,8 +46,6 @@ working on with the Framework Newsletter. ###
 
 ### Keep track of what we’re working on with the Framework Newsletter. ###
 
- Subscribe
-
 Monthly-ish
 
 ```
