@@ -87,7 +87,7 @@ Configuration: 1 × 32GB
  Graphics
 
  Intel® UHD Graphics
- 1.25GHz Frequency
+ 1.35GHz Frequency
 
  Connectivity
 

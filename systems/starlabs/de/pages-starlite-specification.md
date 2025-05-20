@@ -81,9 +81,8 @@ Configurable to:
 
  Graphics
 
- Intel UHD Graphics
-
- 750MHz Graphics Frequency
+ Intel® UHD Graphics
+ 1.35GHz Frequency
 
  Connectivity
 
