@@ -1,3 +1,15 @@
+DIE WANDER
+CHALLENGE
+DEINES LEBENS!
+----------
+
+ÜBERWINDE DEINE GRENZEN!
+----------
+
+100KM in 24H // 50KM in 12H // 25KM in 6 H
+IN DEINER NÄHE!
+----------
+
 #### DIe nächsten Megamärsche: ####
 
 ### münchen ###
