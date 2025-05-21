@@ -3592,7 +3592,7 @@ Bei Tickets mit Zugbindung (Sparpreisen) ist diese **Zugbindung** in **folgen
 * Für Reisen mit Fernverkehr-Tickets: Sie können mit Ihrem ursprünglichen Ticket alle DB Fernverkehrszüge (ICE, IC/EC) und Nahverkehrszüge (RE, RB, IRE, S-Bahnen) nutzen.
 * Hinweis für die Nutzung von (Super) Sparpreisen, die nur in Zügen des Fernverkehrs (ICE/IC/EC) gültig sind: Für die Weiterfahrt in den Nahverkehrszügen der Westfalenbahn (RE 60, RE 70 und RE 15) auf den Streckenabschnitten Hannover-Hamm, Hannover-Osnabrück und Emden-Münster benötigen Sie ein zusätzliches Ticket zum Nahverkehrstarif. Die Kosten können Sie über das Servicecenter Fahrgastrechte erstatten lassen.
 * Für Reisen mit Fahrkarten des Nahverkehrs: Sie können einen anderen Nahverkehrszug nutzen. Bei Nutzung eines höherwertigen Zugs (z.B. IC/EC, ICE) müssen Sie ein zusätzliches Ticket kaufen. Die Kosten können Sie über das Servicecenter Fahrgastrechte erstatten lassen. Diese Regelung gilt nicht für erheblich ermäßigte Fahrkarten (z.B. Deutschland-Ticket, Länder-Tickets).
-* Sie können eine spätere Verbindung Ihrer Wahl nutzen (z.B. später am selben Reisetag, einen Tag später oder auch erst in drei Wochen. Dies ist bis zu einem Jahr nach ursprünglichem Reisedatum möglich).
+* Sie können eine spätere Verbindung Ihrer Wahl nutzen (z.B. später am selben Reisetag, einen Tag später oder auch erst in 3 Wochen. Dies ist bis zu einem Jahr nach ursprünglichem Reisedatum möglich).
 * Für Reisen im Fernverkehr können Sie auch eine frühere Verbindung am selben Reisetag nehmen.
 * Sie haben freie Wahl der Reiseroute. Die Reise zum auf der Fahrkarte angegebenen Zielort kann also auch über eine andere Strecke führen.
 * Innerhalb Deutschlands benötigen Sie keine zusätzliche Bescheinigung zur Aufhebung der Zugbindung. Sie können sich aber auf expliziten Wunsch eine Bescheinigung ausstellen lassen (z.B. im Zug, im Reisezentrum oder an der DB Information).
@@ -3600,7 +3600,7 @@ Bei Tickets mit Zugbindung (Sparpreisen) ist diese **Zugbindung** in **folgen
 **Bei internationalen Reisen ist Folgendes zu beachten:**
 
 * Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
-* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen Sitzplatz kostenpflichtig selbst [hier](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
+* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen Zug einen neuen Sitzplatz kostenpflichtig selbst [auf der Sitzplatzreservierung-Seite](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
 
 Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
 
@@ -6658,11 +6658,11 @@ Um Ihr Konto so gut es geht vor Fremdzugriffen zu schützen, sollten Sie ein mö
 
 Ihr Passwort
 
-* muss mindestens 12 Zeichen lang sein
-* muss mindestens einen Großbuchstaben enthalten
-* muss mindestens einen Kleinbuchstaben enthalten
-* muss mindestens eine Zahl enthalten
-* muss mindestens ein Sonderzeichen enthalten
+* muss mindestens **12 Zeichen lang** sein
+* muss mindestens einen **Großbuchstaben** enthalten
+* muss mindestens einen **Kleinbuchstaben** enthalten
+* muss mindestens eine **Zahl** enthalten
+* muss mindestens ein **Sonderzeichen** enthalten
 * entspricht nicht Ihrer E-Mail-Adresse
 * darf maximal 128 Zeichen lang sein
 
@@ -6674,7 +6674,7 @@ Zusätzlich können Sie bei einem Dienst überprüfen, ob zu Ihrer E-Mailadresse
 
 **Wie soll ich mir das denn merken können?**
 
-Hier haben wir zwei Tipps für Sie:
+Hier haben wir 2 Tipps für Sie:
 
 1. Damit Sie sich Ihr kompliziertes Passwort gut merken können, bauen Sie sich doch eine kleine Eselsbrücke. Überlegen Sie sich einen Satz. Von jedem Wort in diesem Satz nehmen Sie dann den ersten Buchstaben (behalten Sie dabei die Groß- und Kleinschreibung) und bauen Sie noch Sonderzeichen oder Zahlen mit ein. Aus einem „ein“ könnte also eine 1 werden, aus einem „und“ ein „&“ und so weiter.
 2. Wenn es Ihnen zu umständlich ist, sich ein solches Passwort für jede Webseite zu merken, dann nutzen Sie doch einen Passwort Manager. Das ist eine App bzw. Programm, mit dem Sie sichere Passwörter erstellen und verwalten. Die wichtigsten Funktionen gibt es bereits als kostenlose Software (z.B. [Keepass](https://keepass.info/)). Kommerzielle Anbietende bieten darüber hinaus zusätzliche Funktionen – einen guten Überblick geben bekannte Verbraucher- und Computermagazine wie z.B. die [Stiftung Warentest](https://www.test.de/Passwort-Manager-im-Test-5231532-0/) oder [heise.de](https://www.heise.de/download/specials/Passwort-Manager-Tipps-Tools-fuer-die-Passwort-Verwaltung-6033009).
