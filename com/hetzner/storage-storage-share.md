@@ -28,7 +28,7 @@ Storage Share
 ----------
 
  Powered by Nextcloud. Easily store and share files.
-No minimum contract period. Monthly cancellation period.
+No minimum contract period. No cancellation period.
 
 ###  NX11  ###
 
