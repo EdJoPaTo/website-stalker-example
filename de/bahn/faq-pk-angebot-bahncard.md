@@ -1257,15 +1257,6 @@ Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutze
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-kostenfreie-sitzplatzreservierung-fuer-inhaber-einer-bahncard-100-1-klasse)
 
- Erhalte ich in meinem Verbund Ermäßigung, wenn ich eine BahnCard habe?
-----------
-
-Mit der BahnCard 100 und dem inkludierten Deutschlandticket ist die bundesweite Nutzung des Nahverkehrs auf Schiene und Straße unbegrenzt möglich.
-
-Die digitale BahnCard können Sie bei den verschiedenen Landestarifen und **Verkehrsverbünden** gleichermaßen wie die BahnCard Plastikkarte nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-ermaessigung)
-
  Warum kann ich Sparpreis-Tickets und eine BahnCard 100 nicht mit Lastschrift bezahlen?
 ----------
 
