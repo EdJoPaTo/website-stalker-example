@@ -34,17 +34,17 @@ Entspannt am Sitzplatz einen Kaffee oder Snack genießen? Gerne! Mit dem Service
 Leistungsvergleich der 1.Klasse im ICE und im Intercity
 ----------
 
-|                                                                         |ICE |     IC     |
-|-------------------------------------------------------------------------|----|------------|
-|             Mehr Platz\* und großzügige, komfortable Sitze              | Ja |     Ja     |
-|                                Mehr Ruhe                                | Ja |     Ja     |
-|              Sitzplatzreservierung inklusive (Sparpreise)               |Nein|    Nein    |
-|              Sitzplatzreservierung inklusive (Flexpreise)               | Ja |     Ja     |
-|Exklusive Reiseberatung mit weniger Wartezeit (an ausgewählten Bahnhöfen)| Ja |     Ja     |
-|                      Zugang zu den DB Lounges\*\*                       | Ja |     Ja     |
-|              WLAN (kostenfrei und ohne Volumenbegrenzung)               | Ja |  Ja\*\*\*  |
-|                  Gastronomischer Service am Sitzplatz                   | Ja |Nein\*\*\*\*|
-|         Kostenfreie digitale Zeitungen & Magazine im ICE Portal         | Ja |    Nein    |
+|                                                                         |ICE |    IC    |
+|-------------------------------------------------------------------------|----|----------|
+|             Mehr Platz\* und großzügige, komfortable Sitze              | Ja |    Ja    |
+|                                Mehr Ruhe                                | Ja |    Ja    |
+|              Sitzplatzreservierung inklusive (Sparpreise)               |Nein|   Nein   |
+|              Sitzplatzreservierung inklusive (Flexpreise)               | Ja |    Ja    |
+|Exklusive Reiseberatung mit weniger Wartezeit (an ausgewählten Bahnhöfen)| Ja |    Ja    |
+|                      Zugang zu den DB Lounges\*\*                       | Ja |    Ja    |
+|              WLAN (kostenfrei und ohne Volumenbegrenzung)               | Ja | Ja\*\*\* |
+|                  Gastronomischer Service am Sitzplatz                   | Ja |Ja\*\*\*\*|
+|         Kostenfreie digitale Zeitungen & Magazine im ICE Portal         | Ja |   Nein   |
 
 Hinweise zum 1. Klasse Komfort
 ----------
