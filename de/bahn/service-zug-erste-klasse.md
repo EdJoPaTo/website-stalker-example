@@ -34,20 +34,25 @@ Entspannt am Sitzplatz einen Kaffee oder Snack genießen? Gerne! Mit dem Service
 Leistungsvergleich der 1.Klasse im ICE und im Intercity
 ----------
 
-----------
+|                                                                         |ICE |     IC     |
+|-------------------------------------------------------------------------|----|------------|
+|             Mehr Platz\* und großzügige, komfortable Sitze              | Ja |     Ja     |
+|                                Mehr Ruhe                                | Ja |     Ja     |
+|              Sitzplatzreservierung inklusive (Sparpreise)               |Nein|    Nein    |
+|              Sitzplatzreservierung inklusive (Flexpreise)               | Ja |     Ja     |
+|Exklusive Reiseberatung mit weniger Wartezeit (an ausgewählten Bahnhöfen)| Ja |     Ja     |
+|                      Zugang zu den DB Lounges\*\*                       | Ja |     Ja     |
+|              WLAN (kostenfrei und ohne Volumenbegrenzung)               | Ja |  Ja\*\*\*  |
+|                  Gastronomischer Service am Sitzplatz                   | Ja |Nein\*\*\*\*|
+|         Kostenfreie digitale Zeitungen & Magazine im ICE Portal         | Ja |    Nein    |
 
-|                                                                         |ICE |  IC  |
-|-------------------------------------------------------------------------|----|------|
-|             Mehr Platz\* und großzügige, komfortable Sitze              | Ja |  Ja  |
-|                                Mehr Ruhe                                | Ja |  Ja  |
-|              Sitzplatzreservierung inklusive (Sparpreise)               |Nein| Nein |
-|              Sitzplatzreservierung inklusive (Flexpreise)               | Ja |  Ja  |
-|Exklusive Reiseberatung mit weniger Wartezeit (an ausgewählten Bahnhöfen)| Ja |  Ja  |
-|                        Zugang zu den DB Lounges                         | Ja |  Ja  |
-|              WLAN (kostenfrei und ohne Volumenbegrenzung)               | Ja |Ja\*\*|
-|                  Gastronomischer Service am Sitzplatz                   | Ja | Nein |
-|         Kostenfreie digitale Zeitungen & Magazine im ICE Portal         | Ja | Nein |
+Hinweise zum 1. Klasse Komfort
+----------
 
 \* Mehr Beinfreiheit, nur 3 statt 4 Sitze pro Reihe, mehr Platz für Ihr Gepäck, breitere Gänge
 
-\*\* in Wagen mit WLAN Technik und [ICE Portal](https://www.bahn.de/service/zug/ice-portal)
+\*\* Zutritt nur mit 1. Klasse Flexpreis. Sparpreis und Supersparpreis 1. Klasse sind vom Zugang ausgeschlossen.
+
+\*\*\* in Wagen mit WLAN Technik
+
+\*\*\*\* nur im IC2
