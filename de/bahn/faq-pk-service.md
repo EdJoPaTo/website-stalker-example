@@ -5984,20 +5984,6 @@ Sie können Ihre Reise individualisieren, indem Sie auf der Startseite des DB Na
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-einen-zwischenhalt-hinzufuegen)
 
- Wie kann ich im DB Navigator meine Umstiegszeit anpassen?
-----------
-
-Sie können Ihre Reise individualisieren, indem Sie auf der Startseite des DB Navigators unter der Verbindungssuche auf "Optionen" klicken. Über "Umstiegszeit" können Sie für Ihre Reise die gewünschte Minutenanzahl für den Umstieg einstellen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-meine-umstiegszeit-anpassen)
-
- Wie kann ich im DB Navigator den Darkmode aktivieren?
-----------
-
-Das Erscheinungsbild des DB Navigators richtet sich automatisch nach den Systemeinstellungen Ihres Endgeräts. Sie können den Dark Mode auch in der App steuern und einstellen. Scrollen Sie hierzu im Menü-Punkt „Profil“ nach ganz unten zu „Einstellungen“. Dort wählen Sie „Erscheinungsbild“ aus und stellen Dark oder Light Mode ein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-den-darkmode-aktivieren)
-
  Wie kann ich im DB Navigator Streckenfavoriten anlegen und sortieren?
 ----------
 
@@ -6025,13 +6011,6 @@ Wenn es zu Abweichungen auf Ihrer Reise kommt, können Sie in den Reisedetails b
 Wichtig: Wenn Sie eine alternative Verbindung auswählen, behalten Sie Ihr ursprüngliches Ticket. Es werden ausschließlich die angezeigten Informationen im Reiseplan und die Benachrichtigungen zur Reise angepasst. Bitte prüfen Sie vorher, ob Ihr Ticket für die ausgewählte Alternative gültig ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mein-zug-ist-verspaetet-wie-kann-ich-in-der-app-eine-alternative-verbindung-auswaehlen)
-
- Wie kann ich im DB Navigator für Streckenabschnitte bestimmte Verkehrsmittel ausschließen?
-----------
-
-Um für Streckenabschnitte bestimmte Verkehrsmittel auszuschließen, müssen Sie zunächst auf der Startseite der App Start und Ziel eingeben und dann unter "Optionen" einen Zwischenhalt einstellen. Anschließend wählen Sie ebenfalls in den "Optionen" unter "Verkehrsmittel" die jeweiligen Verkehrsmittel für jeden Streckenabschnitt aus.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-fuer-streckenabschnitte-bestimmte-verkehrsmittel-ausschliessen)
 
  Wie kann ich auf bahn.de oder in der App DB Navigator bezahlen?
 ----------
