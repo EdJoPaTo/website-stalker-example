@@ -606,8 +606,8 @@ sites:
       - css_remove: svg, iframe, picture, figure, img
       - html_markdownify
 
-  - url: https://www.donkey.bike/de/stadte/kiel/
+  - url: https://www.donkey.bike/de/cities/kiel-region
     editors:
-      - css_select: "#content"
-      - css_remove: script, figure, img
+      - css_select: main
+      - css_remove: script, style, figure, img, .map-wrapp
       - html_markdownify
