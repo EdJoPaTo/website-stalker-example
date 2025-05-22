@@ -3,7 +3,7 @@ netcup Deals
 
 **Wir feiern Europa mit top Angeboten.**
 
-Von 27. bis 30. Mai feiern wir Europa mit starken netcup-Angeboten für Server, Webhosting und Domains! Sichere dir Hosting mit europäischen Werten zu Top-Preisen an den Standorten Nürnberg oder Wien.
+Von 27. bis 30. Mai feiern wir Europa mit starken netcup-Angeboten für Server, Webhosting und Domains! Sichere dir Hosting mit europäischen Werten zu Top-Preisen.
 
 [Mehr Informationen](https://www.netcup.com/de/deals#infos)
 
