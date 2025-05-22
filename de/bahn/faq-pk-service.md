@@ -6,7 +6,7 @@ Häufige Fragen zu "Info & Services"
 
 Sie können das Normalpreis-Ticket **bis zu 6 Monate im Voraus** buchen. Vor den Fahrplanwechseln im Juni und Dezember kann es Abweichungen geben.
 
-[Weitere Informationen zum Normalpreis Weitere Informationen: Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
+[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -18,9 +18,9 @@ Sie können das Normalpreis-Ticket **bis zu 6 Monate im Voraus** buchen. Vor den
 * **Vor dem 1. Geltungstag** der Hinfahrt können Sie Normalpreis-Fahrkarten kostenfrei umtauschen oder stornieren.
 * **Ab dem 1. Geltungstag** (Datum der Hinfahrt) erheben wir für Umtausch/Erstattung ein Entgelt von 19 Euro pro Fahrkarte.
 
-* [Mehr Informationen zur Stornierung Weitere Informationen: Mehr Informationen zur Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
-[Weitere Informationen zum Normalpreis Weitere Informationen: Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
+[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -31,7 +31,7 @@ Sie können das Normalpreis-Ticket **bis zu 6 Monate im Voraus** buchen. Vor den
 
 Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard 50.
 
-[Weitere Informationen zum Normalpreis Weitere Informationen: Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
+[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -42,7 +42,7 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
 
 Nein, beim Normalpreis ist keine Sitzplatzreservierung enthalten.
 
-[Weitere Informationen zum Normalpreis Weitere Informationen: Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
+[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -53,7 +53,7 @@ Nein, beim Normalpreis ist keine Sitzplatzreservierung enthalten.
 
 Für Nahverkehrsverbindungen des Deutschlandtarifs gilt, dass im Zug beim Zugpersonal Fahrkarten nur für die konkrete Hin- und/oder Rückfahrt und nur zum Bordpreis (Fahrpreis zum Normalpreis für die gewünschte Strecke zzgl. eines prozentualen Aufpreises von 10%, mind. 2 €, maximal 10 €) erhältlich sind. Das im Zug verkaufte Sortiment kann auch eingeschränkt sein. In entsprechend gekennzeichneten Zügen findet kein Verkauf statt. Die Buchung eines Digitalen Tickets nach Abfahrt des Nahverkehrszuges ist nicht zugelassen.
 
-[Weitere Informationen zum Normalpreis Weitere Informationen: Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
+[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -64,7 +64,7 @@ Für Nahverkehrsverbindungen des Deutschlandtarifs gilt, dass im Zug beim Zugper
 
 Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
 
-[Weitere Informationen zum Normalpreis Europa Weitere Informationen: Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
+[Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -75,7 +75,7 @@ Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
 
 Nein, es gibt keinen Rabatt auf den Normalpreis Europa.
 
-[Weitere Informationen zum Normalpreis Europa Weitere Informationen: Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
+[Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -86,7 +86,7 @@ Nein, es gibt keinen Rabatt auf den Normalpreis Europa.
 
 Mit der BahnCard 25 und 50 erhältst du 25 Prozent Rabatt.
 
-* [Zu den BahnCards für junge Reisende Weitere Informationen: Zu den BahnCards für junge Reisende](https://www.bahn.de/angebot/bahncard/junge-reisende)
+* [Zu den BahnCards für junge Reisende](https://www.bahn.de/angebot/bahncard/junge-reisende)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-sparpreis-young)
 
@@ -104,7 +104,7 @@ Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft*
 
 Mit der BahnCard 25/50/100 erhalten Sie **25% Rabatt auf den deutschen Streckenanteil**. Vom BahnCard 100 Rabatt ausgenommen ist der (Super) Sparpreis Europa Frankreich.
 
-* [Alle Sparpreise und Super Sparpreise Europa im Überblick Weitere Informationen: Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
+* [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-sparpreis-europa)
 
@@ -118,8 +118,8 @@ Mit der BahnCard 25/50/100 erhalten Sie **25% Rabatt auf den deutschen Streckena
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-* [Alle Sparpreise und Super Sparpreise Europa im Überblick Weitere Informationen: Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-sparpreis-europa)
 
@@ -128,7 +128,7 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
 
 Nein, mit einem (Super) Sparpreis Europa-Ticket haben Sie **keinen Zutritt zur DB Lounge**.
 
-* [Alle Sparpreise und Super Sparpreise Europa im Überblick Weitere Informationen: Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
+* [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-lounge-sparpreis-europa)
 
@@ -175,7 +175,7 @@ Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Kla
 
 Hier können Sie einen Bahnhof auswählen und unter "Beratung und Unterstützung" sehen, ob ein DB Reisezentrum oder eine DB Agentur am gewählten Bahnhof verfügbar ist:
 
-* [www.bahnhof.de Weitere Informationen: www.bahnhof.de](https://www.bahnhof.de/)
+* [www.bahnhof.de](https://www.bahnhof.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-den-sparpreis-europa-ukraine-kaufen)
 
@@ -195,8 +195,8 @@ Tickets zum Super Sparpreis sind von **Umtausch und Stornierung ausgeschlossen**
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie Ihre auf bahn.de oder im DB Navigator gebuchten Tickets **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-* [Alle Sparpreise und Super Sparpreise Europa im Überblick Weitere Informationen: Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-europa)
 
@@ -221,7 +221,7 @@ Um das Sparpreis-Ticket zu stornieren, bitte in "Meine Reisen" im "Meine Bahn"-K
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie ein Digitales Ticket innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurückerstattet.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-sparpreis)
 
@@ -256,7 +256,7 @@ Nein, Super Sparpreis-Tickets sind vom Umtausch und von der Stornierung ausgesch
 * Unabhängig von den tariflichen Angebotskonditionen können auf bahn.de oder im DB Navigator gebuchte Tickets innerhalb **von 3 Stunden** (180 Minuten) nach der Buchung **kostenlos storniert** werden.
 * Es wird der komplette Zahlungsbetrag zurückerstattet.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis)
 
@@ -267,7 +267,7 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
 
 **Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
-[Weitere Informationen zum Super Sparpreis Senioren Weitere Informationen: Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
+[Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
@@ -278,7 +278,7 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
 
 Den Super Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
-[Weitere Informationen zum Super Sparpreis Senioren Weitere Informationen: Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
+[Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
@@ -293,7 +293,7 @@ Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort könne
 * Über eine andere Strecke.
 * Zu einem späteren Zeitpunkt.
 
-[Weitere Informationen zum Super Sparpreis Senioren Weitere Informationen: Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
+[Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
@@ -306,7 +306,7 @@ Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bah
 
 **Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
-[Weitere Informationen zum Sparpreis Senioren Weitere Informationen: Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
+[Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
@@ -317,7 +317,7 @@ Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bah
 
 Den Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
-[Weitere Informationen zum Sparpreis Senioren Weitere Informationen: Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
+[Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
@@ -328,7 +328,7 @@ Den Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
 Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort kann die Fahrt auf der gleichen Strecke, über eine andere Strecke oder zu einem späteren Zeitpunkt fortgesetzt werden.
 
-[Weitere Informationen zum Sparpreis Senioren Weitere Informationen: Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
+[Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
@@ -349,9 +349,9 @@ Unabhängig von den tariflichen Konditionen:
 
 * Sie können Ihr Digitales Ticket vor dem 1. Geltungstag innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren und erhalten den kompletten Betrag zurück.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
-[Weitere Informationen zum Flexpreis Weitere Informationen: Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
+[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -362,9 +362,9 @@ Unabhängig von den tariflichen Konditionen:
 
 Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard 50.
 
-* [Weitere Informationen zur BahnCard Weitere Informationen: Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
+* [Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
 
-[Weitere Informationen zum Flexpreis Weitere Informationen: Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
+[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -375,7 +375,7 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
 
 Flexpreis-Tickets können bis zu **12 Monate im Voraus** (jeweils ab dem Fahrplanwechsel im Juni und Dezember) gebucht werden.
 
-[Weitere Informationen zum Flexpreis Weitere Informationen: Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
+[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -388,7 +388,7 @@ Seit dem 01.01.2022 ist es nicht mehr möglich, Tickets bei den Zugbegleiter:in
 
 Sie können Ihr **Digitales Ticket** in den **Fernverkehrszügen** aber bis 10 Minuten (auch bei Verspätung) nach Abfahrt buchen. Voraussetzung ist, dass zwischen dem Einstiegsbahnhof und dem nächsten Haltebahnhof mehr als 10 Minuten Fahrzeit vorgesehen sind.
 
-[Weitere Informationen zum Flexpreis Weitere Informationen: Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
+[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -400,7 +400,7 @@ Sie können Ihr **Digitales Ticket** in den **Fernverkehrszügen** aber bis 1
 * **2. Klasse:** Die Fahrkarte enthält keine Sitzplatzreservierung. Diese können Sie zusammen mit der Fahrkarte oder später separat kaufen.
 * **1. Klasse:** In der 1. Klasse ist eine Sitzplatzreservierung automatisch beim Fahrkartenkauf inklusive.
 
-[Weitere Informationen zum Flexpreis Weitere Informationen: Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
+[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -411,7 +411,7 @@ Sie können Ihr **Digitales Ticket** in den **Fernverkehrszügen** aber bis 1
 
 Ja, der Flexpreis Europa ist auch für internationale Verbindungen buchbar.
 
-[Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -432,7 +432,7 @@ Wenn Sie im Ausland umsteigen, bezahlen Sie für die nachfolgenden Züge in der 
 **Reservierungspflichtige Züge:**
 Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung kostenfrei bei der Buchung der Fahrkarte. Wenn Sie die Reservierung nachträglich kaufen, zahlen Sie den Preis für die normale Sitzplatzreservierung.
 
-[Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -449,7 +449,7 @@ In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservie
 
 Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können, auch wenn Sie bereits eine Flexpreis-Fahrkarte inklusive Reservierung für einen anderen Zug haben.
 
-[Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -462,7 +462,7 @@ Je nach Land können Tickets bis zu **12 Monate im Voraus** und bis kurz vor Abf
 
 Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
-[Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -483,9 +483,9 @@ Sie können eine Flexpreis Europa-Fahrkarte **bis 1 Monat nach Ablauf** der Ge
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales Ticket** innerhalb von **3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
-[Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -499,7 +499,7 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales 
 * **DB Reisezentrum** oder **DB Agentur**
 * **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
 
-[Weitere Informationen zum Super Sparpreis Gruppe Weitere Informationen: Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
+[Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
@@ -514,7 +514,7 @@ Eine Änderung, Umbuchung oder Stornierung des Super Sparpreis Gruppe-Tickets is
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-gruppe)
 
@@ -530,7 +530,7 @@ Eine Stornierung einzelner Reisender ist nicht möglich.
 
 Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewährt werden.
 
-[Weitere Informationen zum Super Sparpreis Gruppe Weitere Informationen: Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
+[Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
@@ -548,7 +548,7 @@ Hier können Sie Ihre Gruppenreise buchen:
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
-[Weitere Informationen zum Sparpreis Gruppe Weitere Informationen: Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
+[Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
@@ -567,7 +567,7 @@ Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornie
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-sparpreis-gruppe)
 
@@ -589,7 +589,7 @@ Bei einer **Online-Buchung**:
 
 Nein, Sie bekommen keinen BahnCard-Rabatt kann bei einer Buchung der Gruppenangebote.
 
-[Weitere Informationen zum Sparpreis Gruppe Weitere Informationen: Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
+[Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
@@ -605,7 +605,7 @@ Nein, Sie bekommen keinen BahnCard-Rabatt kann bei einer Buchung der Gruppenange
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
-[Günstigsten Preis finden Weitere Informationen: Günstigsten Preis finden](https://next.bahn.de/buchung/start)
+[Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-super-sparpreis-europa-gruppe)
 
@@ -618,7 +618,7 @@ Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu **12
 
 Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
-[Günstigsten Preis finden Weitere Informationen: Günstigsten Preis finden](https://next.bahn.de/buchung/start)
+[Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-europa-gruppe)
 
@@ -645,7 +645,7 @@ Für den Super Sparpreis Europa Gruppe ist eine Änderung, Umbuchung oder Stor
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-europa-gruppe)
 
@@ -668,7 +668,7 @@ Hier können Sie Ihre Gruppenreise buchen:
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
-[Günstigsten Preis finden Weitere Informationen: Günstigsten Preis finden](https://next.bahn.de/buchung/start)
+[Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-sparpreis-europa-gruppe)
 
@@ -681,7 +681,7 @@ Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 M
 
 Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
-[Günstigsten Preis finden Weitere Informationen: Günstigsten Preis finden](https://next.bahn.de/buchung/start)
+[Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-gruppe)
 
@@ -712,7 +712,7 @@ Bei Online-Buchung zahlen Sie den Gesamtpreis sofort.
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-* [Mehr Informationen zur Sofortstornierung Weitere Informationen: Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-sparpreis-europa-gruppe)
 
@@ -736,7 +736,7 @@ Wenn die im Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berü
 
 Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "+City" auf Ihrer Fahrkarte.
 
-[Weitere Informationen zum City Ticket Weitere Informationen: Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
+[Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
@@ -753,9 +753,9 @@ Ja, aber die Mitnahme ist nicht kostenfrei: Oft brauchen Sie zu Ihrem Länder-Ti
 
 Achtung: Preise und Regelungen sind in den einzelnen Bundesländern und Verkehrsverbünden unterschiedlich. Informieren Sie sich bitte vor Ihrer Fahrt.
 
-* [Mehr unter bahn.de/fahrrad Weitere Informationen: Mehr unter bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
+* [Mehr unter bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
 
-[Fahrradtageskarte buchen Fahrradtageskarte Nahverkehr](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+[Fahrradtageskarte buchen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitnahme-fahrrad)
 
@@ -802,7 +802,7 @@ Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrec
 * Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrsticket, nicht kombiniert.
 * Bei Anreise mit U-Bahn, Straßenbahn oder Bus gelten keine durchgängigen Fahrgastrechte.
 
-* [Mehr zu den Fahrgastrechten Weitere Informationen: Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrgastrechte)
 
@@ -879,7 +879,7 @@ Sie haben zwei Möglichkeiten:
 
 So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
 
-* [Alle Infos zu den Deutschland-Ticket-Filtern Zur Seite Deutschland-Ticket-Filter](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
+* [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
 
@@ -892,7 +892,7 @@ Ja, Sie können für den Kauf des Deutschland-Tickets monatlich BahnBonus Punkte
 * Sie können keine BahnBonus Punkte sammeln, wenn Sie das Ticket bei Verkehrsverbünden oder in DB Reisezentren kaufen.
 * Sie müssen bei BahnBonus angemeldet sein, um Punkte zu erhalten.
 
-* [Zu BahnBonus anmelden Zur Site BahnBonus-Anmeldung auf bahn.de](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
+* [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
 
@@ -901,7 +901,7 @@ Ja, Sie können für den Kauf des Deutschland-Tickets monatlich BahnBonus Punkte
 
 Zeitkarten sind zum Beispiel Wochen- und Monatskarten. Sie können sie für zahlreiche Verbünde direkt buchen.
 
-* [Abos und Fahrkarten im Verbund Weitere Informationen: Abos und Fahrkarten im Verbund](https://www.bahn.de/angebot/regio/verbuende)
+* [Abos und Fahrkarten im Verbund](https://www.bahn.de/angebot/regio/verbuende)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-eine-zeitkarte)
 
@@ -1063,9 +1063,9 @@ Handy-Tickets sind personalisierte Tickets, enthalten also auch den Namen des Ku
 
 Wenn dies nicht geklappt hat, kontaktieren Sie uns bitte mit einem Screenshot und einer Fehlerbeschreibung per E-Mail: [abo-mobile@bahn.de](mailto:abo-mobile@bahn.de).
 
-* [Digitales Abo - Fragen & Antworten Weitere Informationen: Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-* [FAQ zum Kundenkonto Weitere Informationen: FAQ zum Kundenkonto](https://bahn.de/faq/pk/service/kundenkonto/login)
-* [Über die App Weitere Informationen: Über die App](https://www.bahn.de/service/mobile/db-navigator)
+* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+* [FAQ zum Kundenkonto](https://bahn.de/faq/pk/service/kundenkonto/login)
+* [Über die App](https://www.bahn.de/service/mobile/db-navigator)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
 
@@ -1074,7 +1074,7 @@ Wenn dies nicht geklappt hat, kontaktieren Sie uns bitte mit einem Screenshot un
 
 Alle Informationen zum Bahn-Kundenkonto finden Sie unter:
 
-* [Wissenwertes zum Kundenkonto Weitere Informationen: Wissenwertes zum Kundenkonto](https://www.bahn.de/info/kundenkonto)
+* [Wissenwertes zum Kundenkonto](https://www.bahn.de/info/kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mein-bahn-account)
 
@@ -1096,7 +1096,7 @@ Alle Informationen zum Bahn-Kundenkonto finden Sie unter:
     \- Verbundabos sind unter der Kachel des jeweiligen Verbunds zu finden. Ein VVS Abo für den Raum Stuttgart finden Sie unter der Kachel VVS und nicht unter der Kachel DB, auch wenn das Abo von der DB Vertrieb GmbH ausgestellt wurde.
     \- Unter der Kachel DB finden Sie nur verbundübergreifende DB Abos (z.B. IC/EC und ICE sowie ÜT Abos).
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-finde-mein-abo-im-aboportal-nicht-wie-kann-das-sein)
 
@@ -1108,7 +1108,7 @@ Ein weiteres Abo kann einzeln hinzugefügt werden. Soweit es technisch möglich 
 1. Melden Sie sich im Aboportal an
 2. Gehen Sie auf der Startseite bzw. unter "Meine Abos" auf den Bereich "Abo hinzufügen" und führen Sie den Prozess aus. Sie benötigen für die entsprechende Abonummer, das jeweilige und die passende Postleitzahl zu dem Abo.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-will-im-aboportal-ein-weiteres-abo-hinzufuegen-wie-mache-ich-das)
 
@@ -1122,7 +1122,7 @@ Ein weiteres Abo kann einzeln hinzugefügt werden. Soweit es technisch möglich 
 
 Nachdem Ihr Abo mit dem Bahn-Account verknüpft ist, sind die Schritte 3 und 4 zukünftig nicht mehr notwendig.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-im-aboportal-an)
 
@@ -1131,7 +1131,7 @@ Nachdem Ihr Abo mit dem Bahn-Account verknüpft ist, sind die Schritte 3 und 4 z
 
 Prüfen Sie bitte zunächst Ihren Spam-Ordner. Sollten Sie auch dort keine Aktivierungsmail auffinden, dann ist entweder Ihre Bestellung noch in der Prüfung, es liegt eine technische Störung vor oder Ihre Bestellung wurde abgelehnt. Sollten Sie keine Aktivierungsmail auffinden können, dann nutzen Sie bitte unser Kontaktformular.
 
-* [Zum Kontaktformular Weitere Informationen: Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/abo-bestellstatus)
+* [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/abo-bestellstatus)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bestellung-keine-rueckmeldung)
 
@@ -1140,7 +1140,7 @@ Prüfen Sie bitte zunächst Ihren Spam-Ordner. Sollten Sie auch dort keine Aktiv
 
 Die Schülermonatskarte gilt für Schülerinnen, Schüler und Studiernde, sofern diese eine Berechtigungskarte vorlegen können.Sie können die Monatskarte im DB Reisezentrum und online bestellen. Sie müssen aber die ausgefüllte Berechtigungskarte mit vorlegen.
 
-[Weitere Informationen zu Wochen- und Monatskarten für Schüler Weitere Informationen: Weitere Informationen zu Wochen- und Monatskarten für Schüler](https://www.bahn.de/angebot/pendler/schuelerzeitkarten)
+[Weitere Informationen zu Wochen- und Monatskarten für Schüler](https://www.bahn.de/angebot/pendler/schuelerzeitkarten)
 
 [Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
@@ -1178,7 +1178,7 @@ Fügen Sie in der Buchungsanfrage auf der Website unter "Reisende" den Reisenden
 * Für Hunde, die nicht in einem Transportbehälter reisen, besteht im Zug Leinen- und Maulkorbpflicht.
 * Blindenführ- oder Assistenzhunde müssen im Zug keinen Maulkorb tragen. Dies gilt auch für Hunde, wenn ein Schwerbehindertenausweis mit Merkzeichen „B“ vorliegt.
 
-[Weitere Informationen zur Haustiermitnahme Weitere Informationen: Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
+[Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
@@ -1199,7 +1199,7 @@ Nach Italien ist die Mitnahme von großen Hunden ausgeschlossen. Für Fahrten in
 
 **Buchung:** Fügen Sie bei Ihrer Online-Buchung neben dem Reisenden einen weiteren Reisenden Typ "Hund" zu.
 
-[Weitere Informationen zur Haustiermitnahme Weitere Informationen: Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
+[Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
@@ -1225,7 +1225,7 @@ Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservieru
 * Beim Kauf eines Gruppen-Tickets (Sparpreis Gruppe) im Preis enthalten
 * Reservierungen für Kleinkinder sind optional und können hinzu gebucht werden
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1236,7 +1236,7 @@ Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservieru
 
 Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreservierungen. Bei reservierungspflichtigen Zügen gibt es **keine** kostenfreie Anschlussreservierung.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1247,7 +1247,7 @@ Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreser
 
 Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfrei - wenn sie aber einen garantierten Sitzplatz haben möchten, müssen Sie für diese eine kostenpflichtige Reservierung buchen. Falls die Familienreservierung das günstigere Angebot für Sie ist, zeigen wir Ihnen automatisch diese an.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1258,7 +1258,7 @@ Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfr
 
 Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Flexpreis des Fernverkehrs (ICE, IC, EC).
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1287,7 +1287,7 @@ Sie können für Ihre Fahrt im Fernverkehr **eine Fahrkarte mit oder ohne Sitzpl
 
 Für Kund:innen der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets eine Sitzplatzreservierung automatisch enthalten.**
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1319,7 +1319,7 @@ Sie können auch direkt auf der Startseite der App DB Navigator oben links im Dr
 
 **Hinweis**: Die Sitzplatzreservierung wird als separater Auftrag angelegt. Falls Sie Änderungen an Ihrem Bahnticket vornehmen, werden diese nicht automatisch für die Sitzplatzreservierung übernommen.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1339,7 +1339,7 @@ Im ICE 3neo:
   * **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem zukünftigen Halt gibt.
   * **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1354,7 +1354,7 @@ Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit F
 * **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem der nächsten Halte gibt.
 * **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1369,7 +1369,7 @@ Nachdem Sie den Komfort Check-in genutzt haben, ändert sich der Text auf der Re
 
 Die Belegt-Anzeige bleibt bis kurz vor Ihrem Ausstieg sichtbar. Diese Funktion ist noch nicht in allen Zügen verfügbar.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1386,7 +1386,7 @@ Ja, bei vielen ICE-Verbindungen können Sie Ihren Wunschplatz über die grafisch
 * Ihnen werden gemäß Ihrer Angaben (Sitzplatz-Vorlieben, Anzahl der Personen) geeignete Sitzplätze vorgeschlagen.
 * Wenn keine passenden Sitzplätze verfügbar sind, werden Ihnen Alternativplätze angeboten.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -1406,7 +1406,7 @@ Sollte sich an Ihrer gebuchten ICE-Verbindung etwas ändern oder ein anderer Zug
 
 Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Sitzplatzreservierung buchen. Eine Schritt-für-Schritt-Anleitung finden Sie unter
 
-* [Kleinkindabteil in unseren ICEs. Kleinkindabteil in unseren ICEs.](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
+* [Kleinkindabteil in unseren ICEs.](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-das-kleinkindabteil-reservieren)
 
@@ -1424,7 +1424,7 @@ Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Si
 
 Ohne Gepäck verreisen Sie einfach unbeschwerter! Wir nehmen Ihnen Ihre Koffer und andere Gepäckstücke gerne ab. Schicken Sie Ihren Koffer vor unter [gepaeckservice-bahn.de](https://www.gepaeckservice-bahn.de/buchung.xhtml).
 
-[Weitere Informationen zum Gepäckservice Weitere Informationen: Weitere Informationen zum Gepäckservice](https://www.bahn.de/angebot/zusatzticket/gepaeckservice)
+[Weitere Informationen zum Gepäckservice](https://www.bahn.de/angebot/zusatzticket/gepaeckservice)
 
 [Jetzt buchen Jetzt buchen](https://www.gepaeckservice-bahn.de/buchung.xhtml)
 
@@ -1435,7 +1435,7 @@ Ohne Gepäck verreisen Sie einfach unbeschwerter! Wir nehmen Ihnen Ihre Koffer u
 
 Den Gepäckservice können Sie bereits 7 Monate im Voraus buchen.
 
-[Weitere Informationen zum Gepäckservice Weitere Informationen: Weitere Informationen zum Gepäckservice](https://www.bahn.de/angebot/zusatzticket/gepaeckservice)
+[Weitere Informationen zum Gepäckservice](https://www.bahn.de/angebot/zusatzticket/gepaeckservice)
 
 [Jetzt buchen Jetzt buchen](https://www.gepaeckservice-bahn.de/buchung.xhtml)
 
@@ -1472,8 +1472,8 @@ Nein, Widerruf, Rückgabe, Umtausch und Erstattung von Handy-Tickets sind nicht 
 
 Bei einem Streik richtet die Bahn nach Möglichkeit einen Ersatzfahrplan ein, um die Auswirkungen des Streiks für Sie bestmöglich zu begrenzen. Informieren Sie sich ab 12 Stunden vor Abfahrt in der Reiseauskunft, welche Züge des Fernverkehrs fahren. Züge, die ausfallen, sind gekennzeichnet; für diese bieten wir mögliche Alternativen an.
 
-* [Aktuelle Informationen Weitere Informationen: Aktuelle Informationen](https://www.bahn.de/service/fahrplaene/aktuell)
-* [Zur Reiseauskunft Weitere Informationen: Zur Reiseauskunft](https://www.bahn.de/buchung)
+* [Aktuelle Informationen](https://www.bahn.de/service/fahrplaene/aktuell)
+* [Zur Reiseauskunft](https://www.bahn.de/buchung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-mache-ich-wenn-bei-der-bahn-streik-ist)
 
@@ -1490,7 +1490,7 @@ Bei einem Streik richtet die Bahn nach Möglichkeit einen Ersatzfahrplan ein, um
 
 Sie sollten eine schriftliche Bestätigung vom Zugpersonal oder von Mitarbeitenden an einer DB Information einholen, sofern möglich. Das ist jedoch nicht zwingend erforderlich.
 
-* [Weitere Infos zu Ihren Ansprüchen und Fahrgastrechten im Verspätungsfall Weitere Informationen: Weitere Infos zu Ihren Ansprüchen und Fahrgastrechten im Verspätungsfall](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [Weitere Infos zu Ihren Ansprüchen und Fahrgastrechten im Verspätungsfall](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-meinen-anschlusszug-aufgrund-einer-zugverspaetung-verpasst-kann-ich-einen-anderen-zug-nutzen)
 
@@ -1541,8 +1541,8 @@ Was kann ich in diesem Fall tun?
 * Haben Sie die Benachrichtigung vor dem 1. Geltungstag des Tickets erhalten? Dann können Sie Ihr Ticket auch umtauschen oder stornieren. Es gelten die Umtausch- und Stornierungsbedingungen.
 * Nutzen Sie eine Fahrkarte des Nahverkehrs? Dann können Sie jede andere Verbindung der gleichen Art (z.B. RB/RE) auf der gewählten Strecke nutzen.
 
-* [Informationen zu den Fahrgastrechten Informationen zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-* [Informationen Umtausch- und Stornierungsbedingungen Informationen Umtausch- und Stornierungsbedingungen](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Informationen zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [Informationen Umtausch- und Stornierungsbedingungen](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kann-ich-tun-wenn-ich-eine-benachrichtigung-zu-meiner-reise-bekomme)
 
@@ -1582,7 +1582,7 @@ Mit dieser Regelung möchten wir sicherstellen, dass Sie möglichst verlässlich
 
 Den Wagenreihungsplan in digitaler Form finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails.
 
-* [So funktioniert die Wagenreihung Weitere Informationen: So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
+* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-wagenreihungsplan)
 
@@ -1591,7 +1591,7 @@ Den Wagenreihungsplan in digitaler Form finden Sie am Reisetag in der App DB Nav
 
 Die aktuelle Wagenreihung finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails. So wissen Sie direkt vor der Ankunft Ihres ICE, IC oder EC, in welchem Bereich des Gleises Ihr Wagen halten wird.
 
-* [So funktioniert die Wagenreihung Weitere Informationen: So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
+* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sehe-ich-wo-der-zug-am-gleis-haelt)
 
@@ -1705,7 +1705,7 @@ Wenn sich Ihr Anschlusszug verspätet, kann es also sein, dass sie einen Anschlu
 
 Wir informieren wir Sie über Großbaustellen und Fahrplananpassungen auf der unten verlinkten Seite.
 
-* [Zu allen Großbaustellen Weitere Informationen: Zu allen Großbaustellen](https://www.bahn.de/service/fahrplaene/bauarbeiten)
+* [Zu allen Großbaustellen](https://www.bahn.de/service/fahrplaene/bauarbeiten)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-infos-baustellen)
 
@@ -1851,7 +1851,7 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie auf bahn.de oder
 
 Teilstornierungen von Online-Tickets sind nicht möglich. Kann zum Beispiel bei einer Mehr-Personen-Fahrkarte eine Person die Fahrt nicht antreten, können Sie nur das komplette Online-Ticket stornieren. Buchen Sie dann für die verringerte Personenzahl neu. Hierbei kann nicht garantiert werden, dass die Preise vorheriger Buchungen wieder verfügbar sind. Achtung: Ihre Sitzplatzreservierung wird bei der Stornierung mit storniert; der Betrag hierfür kann laut Tarif nicht erstattet werden.
 
-* [Informationen zu Umtausch und Stornierung von Tickets Weitere Informationen: Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-ticket-umtauschen-oder-stornieren)
 
@@ -1894,7 +1894,7 @@ Ein Umtausch bereits gebuchter Tickets und Reservierungen ist nicht möglich. Si
 
 Für ausgewählte Fernverkehrs-Tickets können Sie eine Sofortstornierung bis zu 3 Stunden nach der Buchung über die App DB Navigator oder über bahn.de vornehmen.
 
-* [Weitere Informationen zum Thema Stornierung Weitere Informationen: Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-falsch)
 
@@ -1905,7 +1905,7 @@ Stornierungen von "internationalen Tickets" von www.international-bahn.de sind a
 
 Hinweis: Eine Umbuchung ist nicht möglich. Sie können nur die ganze Reise stornieren und müssen dann neu buchen.
 
-* [https://www.international-bahn.de/de/ordersearch Weitere Informationen: https://www.international-bahn.de/de/ordersearch](https://www.international-bahn.de/de/ordersearch)
+* <https://www.international-bahn.de/de/ordersearch>
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ein-ticket-stornieren-das-ich-auf-www-international-bahn-de-gekauft-habe)
 
@@ -1945,7 +1945,7 @@ Rufen Sie das digitale Ticket über die Auftragssuche oder die Buchungsrückscha
 Für Fahrkarten, die Sie im Reisezentrum oder am DB Automaten gekauft haben:
 Gehen Sie zu einem DB Reisezentrum, um den Umtausch oder die Erstattung vorzunehmen.
 
-* [Mehr zu Umtausch und Stornierung Weitere Informationen: Mehr zu Umtausch und Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr zu Umtausch und Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-mein-geld-zurueck-bei-umtausch-oder-stornierung)
 
@@ -1954,7 +1954,7 @@ Gehen Sie zu einem DB Reisezentrum, um den Umtausch oder die Erstattung vorzuneh
 
 Der Super Sparpreis Europa kann nicht storniert bzw. erstattet werden. Der Sparpreis Europa kann bis 1 Tag vor Reiseantritt storniert werden. Das Bearbeitungsentgelt beträgt 10 Euro. Die Auszahlung erfolgt in Form eines Gutscheins, der 3 Jahre gültig ist. Eine Erstattung kann aufgrund des günstigen Preises nicht mehr angeboten werden. Ab dem Reisetag ist eine Stornierung ausgeschlossen. Um Ihr Sparpreis Europa-Ticket zu stornieren, gehen Sie in "Meine letzten Buchungen" in Ihrem "Meine Reisen"-Kundenkonto oder nutzen Sie die Auftragssuche. Danach können Sie Ihr neues Ticket wie gewohnt buchen.
 
-* [Zur Auftragssuche Zur Auftragssuche](https://www.bahn.de/meine-reisen)
+* [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-sparpreis-oder-super-sparpreis-europa-ticket-umtauschen)
 
@@ -1973,7 +1973,7 @@ Sie können Ihr Sparpreis-Ticket bis 1 Tag vor dem Reisetag (Hinfahrt) online um
 * Unabhängig von den tariflichen Konditionen können Sie Ihre auf bahn.de oder im DB Navigator gebuchten Tickets innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren.
 * Sie erhalten den kompletten Betrag zurück.
 
-* [Mehr zu Umtausch & Erstattung Weitere Informationen: Mehr zu Umtausch & Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr zu Umtausch & Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-sparpreis-ticket-umbuchen)
 
@@ -1984,7 +1984,7 @@ Ob Sie Ihr Ticket stornieren können, hängt von dem von Ihnen gebuchten Tarif a
 
 Unabhängig von den Tarifbestimmungen können Sie Ihr Ticket auf bahn.de und in der App DB Navigator innerhalb von 3 Stunden nach der Buchung kostenlos sofort stornieren.
 
-* [Weitere Informationen zu Umtausch und Stornierung von Tickets Weitere Informationen: Weitere Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Weitere Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-stornieren)
 
@@ -2022,7 +2022,7 @@ Sie erhalten nach dem Sofortstorno den kompletten Zahlungsbetrag automatisch auf
 
 Die Sofortstornierung ist nur vor dem 1. Geltungstag Ihres Tickets möglich.
 
-* [Weitere Informationen zum Thema Stornierung Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-kann-ich-mein-ticket-mittels-sofortstornierung-zurueckgeben)
 
@@ -2057,7 +2057,7 @@ In den ersten 3 Stunden nach Buchung bieten wir Ihnen die kostenlose "Sofortstor
 
 Die Sofortstornierung gilt immer für den gesamten Auftrag. Dazu gehören auch die zusätzlich gebuchten Leistungen eines Auftrages wie z.B. eine Sitzplatzreservierung.
 
-* [Zur Auftragssuche Weitere Informationen: Zur Auftragssuche](https://www.bahn.de/meine-reisen)
+* [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-eine-sofortstornierung-vornehmen)
 
@@ -2229,9 +2229,9 @@ Sie können Ihre Kontodaten in Ihrem Kundenkonto ändern. Klicken Sie dort im Be
 
 Änderungen gelten nicht für Zahlungen zu Ihrem Abonnement. Für Zeitkarten-Abonnements und das Deutschland-Ticket ändern Sie Ihre Bankdaten im Aboportal unter "Meine Daten". Das Aboportal erreichen Sie über "Abos verwalten" in Ihrem Profil oder unter [abo.bahn.de](https://abo.bahn.de/).
 
-* [Zum Abo-Portal Weitere Informationen: Zum Abo-Portal](https://abo.bahn.de/#/)
+* [Zum Abo-Portal](https://abo.bahn.de/#/)
 
-[Im Kundenkonto einloggen Weitere Informationen: Im Kundenkonto einloggen](https://www.bahn.de/buchung/reiseuebersicht)
+[Im Kundenkonto einloggen](https://www.bahn.de/buchung/reiseuebersicht)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/4-wie-kann-ich-meine-kontoverbindung-fuer-das-lastschriftverfahren-aendern)
 
@@ -2272,8 +2272,8 @@ Nein. Tink und Verimi fragen nur den erfolgreichen Login im Online-Bankingsystem
 
 Bei Problemen mit Ihrem Onlinebanking-Login wenden Sie sich bitte an Ihre kontoführende Bank.
 
-* [Häufige Fragen und Antworten zu Tink Fragen und Antworten zu Tink](https://tink.com/de/privatkunden-faq/)
-* [Verimi Hilfe- und Kontaktseite Weitere Informationen: Verimi Hilfe- und Kontaktseite](https://verimi.de/faq/?question=122169&title=deutsche-bahn-db-hilfebereich-zur-nutzung-von-verimi)
+* [Häufige Fragen und Antworten zu Tink](https://tink.com/de/privatkunden-faq/)
+* [Verimi Hilfe- und Kontaktseite](https://verimi.de/faq/?question=122169&title=deutsche-bahn-db-hilfebereich-zur-nutzung-von-verimi)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bankdaten-nicht-bestaetigen)
 
@@ -2356,7 +2356,7 @@ Es besteht die Möglichkeit, dass eine Person mit positiver Bonitätsprüfung al
 
 Um die Sperre für das Lastschriftverfahren in Ihrem Kundenkonto zu überprüfen, melden Sie sich bitte über das Kontaktformular:
 
-* [Anfrage zum Bestellstatus Weitere Informationen: Anfrage zum Bestellstatus](https://www.bahn.de/hilfe#/abos-dticket/bestellstatus)
+* [Anfrage zum Bestellstatus](https://www.bahn.de/hilfe#/abos-dticket/bestellstatus)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sperre-lastschrift)
 
@@ -2371,7 +2371,7 @@ Beachten Sie: Übertragbare Fahrkarten des Regionalverkehrs können im Nachhinei
 
 Details und Kontaktmöglichkeiten finden Sie hier:
 
-* [www.db-fahrpreisnacherhebung.de Weitere Informationen: www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
+* [www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-eine-fahrpreisnacherhebung-erhalten-was-jetzt)
 
@@ -2389,7 +2389,7 @@ BIC: COBADEFFXXX
 
 Bitte geben Sie bei Ihrer Überweisung immer als **Verwendungszweck** die **Nummer Ihres Beleges** an.
 
-* [www.db-fahrpreisnacherhebung.de Weitere Informationen: www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
+* [www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrpreisnacherhebung-zahlen)
 
@@ -2398,7 +2398,7 @@ Bitte geben Sie bei Ihrer Überweisung immer als **Verwendungszweck** die **Numm
 
 Wenn Sie Ihre Belegnummer nicht mehr kennen oder den Beleg verloren haben, rufen Sie uns bitte unter der Telefonnummer [07221 9235 1000](tel:07221 9235 1000) an. Ignorieren Sie die Aufforderung zur Eingabe der Nummer. Sie werden dann automatisch weitergeleitet.
 
-* [www.db-fahrpreisnacherhebung.de Weitere Informationen: www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
+* [www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrpreisnacherhebung-belegnummer)
 
@@ -2566,7 +2566,7 @@ Und das Beste: Das Budget kann von Arbeitnehmern völlig flexibel für alle nutz
 
 Mehr Informationen:
 
-* [Bonvoyo Weitere Informationen: Bonvoyo](https://www.deutschebahnconnect.com/bonvoyo)
+* [Bonvoyo](https://www.deutschebahnconnect.com/bonvoyo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-bonvoyo)
 
@@ -2640,9 +2640,9 @@ Um Fahrgastrechts-Ansprüche geltend machen zu können, müssen Sie zusätzlich 
 Das PDF hängt Ihrer Buchungsbestätigungs-E-Mail an.
 Alternativ können Sie über die Auftragssuche oder über Ihr Kundenkonto das Ticket bis zu 12 Monate im Nachhinein noch abrufen.
 
-* [Zur Auftragssuche Weitere Informationen: Zur Auftragssuche](https://www.bahn.de/buchung/meine-reisen)
-* [Mehr Infos über das Kundenkonto Weitere Informationen: Mehr Infos über das Kundenkonto](https://www.bahn.de/info/kundenkonto)
-* [Zum Fahrgastrechte-Formula Weitere Informationen: Zum Fahrgastrechte-Formula](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [Zur Auftragssuche](https://www.bahn.de/buchung/meine-reisen)
+* [Mehr Infos über das Kundenkonto](https://www.bahn.de/info/kundenkonto)
+* [Zum Fahrgastrechte-Formula](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-bei-handy-tickets-meine-entschaedigung-aus-den-fahrgastrechten)
 
@@ -2653,7 +2653,7 @@ Geben Sie Ihre Verbindung ein und wählen Sie bei Ihrer Buchung unter "Reisende"
 
 Mit Klick auf den nachfolgenden Button "Jetzt buchen" sind ein Hund und ein Erwachsener bereits voreingestellt.
 
-[Jetzt buchen Weitere Informationen: Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ein-handy-ticket-fuer-meinen-hund-buchen)
 
@@ -2686,7 +2686,7 @@ Das Ticket darf nur von der angegebenen Person genutzt werden. Ihre Zahlungsdate
 5. Im Bereich "Zahlung" unter "Reisende Person" wählen Sie "Für eine andere Person buchen".
 6. Tragen Sie den Namen des Kindes ein.
 
-* [Hier finden Sie weitere Informationen zu Reisen mit Kindern Weitere Informationen: Hier finden Sie weitere Informationen zu Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+* [Hier finden Sie weitere Informationen zu Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-buche-ich-ein-ticket-fuer-ein-alleinreisendes-kind-in-der-app-db-navigator)
 
@@ -2766,8 +2766,8 @@ Für die Kontrolle im Zug benötigen Sie keinen Ausdruck des Tickets.
 
 **Alternativ:** Öffnen Sie die PDF-Datei des Tickets, die Sie per E-Mail nach der Buchung erhalten haben, auf Ihrem Smartphone, Laptop oder Tablet und zeigen Sie diese bei der Kontrolle vor.
 
-* [So laden Sie Ihr Ticket in die App Weitere Informationen: So laden Sie Ihr Ticket in die App](https://www.bahn.de/service/informationen-buchung/digitales-ticket/in-die-app-laden)
-* [Weitere Informationen zum DB Navigator Weitere Informationen: Weitere Informationen zum DB Navigator](https://www.bahn.de/service/mobile/db-navigator)
+* [So laden Sie Ihr Ticket in die App](https://www.bahn.de/service/informationen-buchung/digitales-ticket/in-die-app-laden)
+* [Weitere Informationen zum DB Navigator](https://www.bahn.de/service/mobile/db-navigator)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kann-ich-tun-wenn-ich-ein-online-ticket-gebucht-habe-und-das-drucken-nicht-funktioniert)
 
@@ -2780,7 +2780,7 @@ Für die Kontrolle im Zug benötigen Sie keinen Ausdruck des Tickets.
 
 Sie können Tickets für vergangene Reisen sowohl auf bahn.de als auch im DB Navigator bis zu 14 Monate lang abrufen.
 
-* [Hilfe zu "Buchung verwalten" Weitere Informationen: Hilfe zu "Buchung verwalten"](https://www.bahn.de/hilfe#/buchung-verwalten)
+* [Hilfe zu "Buchung verwalten"](https://www.bahn.de/hilfe#/buchung-verwalten)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-eine-uebersicht-meiner-online-gebuchten-tickets)
 
@@ -2911,8 +2911,8 @@ Tippen Sie in der App DB Navigator auf den Bereich "Reisen" im unteren Bildschir
 
 Der Umtausch Digitaler Tickets ist nicht möglich. Sie können Ihre Tickets stornieren und eine neue Reise buchen. In den ersten 3 Stunden nach der Buchung bieten wir Ihnen die Möglichkeit einer kostenfreien "Sofortstornierung" an - unabhängig von den tariflichen Bedingungen.
 
-* [Details zu Umtausch und Erstattung Weitere Informationen: Details zu Umtausch und Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-* [FAQ zur Sofortstornierung Weitere Informationen: FAQ zur Sofortstornierung](https://www.bahn.de/faq/wie-kann-ich-eine-sofortstornierung-vornehmen)
+* [Details zu Umtausch und Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [FAQ zur Sofortstornierung](https://www.bahn.de/faq/wie-kann-ich-eine-sofortstornierung-vornehmen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-tausche-ich-ein-digitales-ticket-um)
 
@@ -2993,7 +2993,7 @@ Das Digitale Ticket erhalten Sie in allen DB Reisezentren.
 
 Digitale Tickets, die im DB Reisezentrum erworben wurden, können auch **nur dort** storniert oder umgetauscht werden. Für die Stornierung von Digitalen Tickets kommt es auf die Erstattungskonditionen des jeweiligen Tickets an.
 
-* [Details zu Umtausch und Erstattung Weitere Informationen: Details zu Umtausch und Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Details zu Umtausch und Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-storniere-ich-das-digitale-ticket-oder-tausche-es-um-wenn-ich-es-im-reisezentrum-gekauft-habe)
 
@@ -3026,7 +3026,7 @@ Die Anmeldung auf bahn.de ist für jede Altersgruppe möglich. Beim Ticketkauf h
 
 Nein, ein digitales Ticket ist nicht auf eine andere Person übertragbar. Sie können Tickets, je nach Tarifbedingungen, stornieren und für eine andere Person neu buchen.
 
-* [Weitere Informationen zum Thema Stornierung Weitere Informationen: Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-ein-online-ticket-auf-eine-andere-person-uebertragbar)
 
@@ -3186,7 +3186,7 @@ Mit "Rail&Fly" fahren Sie bequem mit dem Zug von Ihrem Bahnhof bis zum Flughafen
 
 Bitte wenden Sie sich hierzu direkt an Ihren Reiseveranstalter. Diese Seite informiert ausschließlich Reisende, die Rail&Fly in Kombination mit einem internationalen Flugticket einer Airline gebucht haben.
 
-* [Rail & Fly Weitere Informationen: Rail & Fly](https://www.bahn.de/service/informationen-buchung/bahn-flug/rail-fly)
+* [Rail & Fly](https://www.bahn.de/service/informationen-buchung/bahn-flug/rail-fly)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-informationen-zu-rail-fly)
 
@@ -3259,7 +3259,7 @@ Es werden Broschüren "Ihre Rechte als unser Fahrgast" in den Verkaufsstellen un
 
 Außerdem stellt die DB ihre Beförderungsbedingungen unter [www.bahn.de/agb](https://www.bahn.de/agb) und an DB-Automaten zur Verfügung. Zusätzlich gibt es eine speziell zu den Fahrgastrechten eingerichtete Servicehotline: **030 586020920**.
 
-* [bahn.de/fahrgastrechte Weitere Informationen: bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-mich-ueber-meine-fahrgastrechte-informieren)
 
@@ -3272,7 +3272,7 @@ Fahrgastrechte gelten seit 2009 einheitlich im Eisenbahnverkehr in Deutschland u
 
 Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen, besteht kein Entschädigungsanspruch.
 
-* [bahn.de/fahrgastrechte Weitere Informationen: bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-fahrgastrechte-was-beinhalten-die-regelungen)
 
@@ -3285,7 +3285,7 @@ Auf Wunsch stellen wir auch einen DB-Gutschein aus. Sie können diese Option in 
 
 Bei Fällen mit Erstattungsansprüchen, z.B. bei Fahrtabbruch am Startbahnhof oder bei Zusatzbelegen wie Taxiquittungen oder Hotelrechnungen, sind wir verpflichtet, eine Geldauszahlung vorzunehmen. Eine Gutscheinausgabe ist in diesen Fällen nicht möglich.
 
-* [bahn.de/fahrgastrechte Weitere Informationen: bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welcher-form-erhalte-ich-meine-entschaedigung)
 
@@ -3445,7 +3445,7 @@ Zu den detaillierten [Informationen, welche Ansprüche Sie im Rahmen der Fahrgas
 
 Sie haben ein Anliegen, das nichts mit einer Verspätung/einem Zugausfall zu tun hat, wie z.B. eine Leistungseinschränkung oder eine Anfrage zu einer Buchung? Informationen, Antworten auf häufige Fragen sowie Kontaktmöglichkeiten finden Sie auf
 
-* [bahn.de/hilfe Weitere Informationen: bahn.de/hilfe](https://www.bahn.de/hilfe)
+* [bahn.de/hilfe](https://www.bahn.de/hilfe)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-kann-ich-fahrgastrechtsansprueche-geltend-machen)
 
@@ -3569,7 +3569,7 @@ Sie haben zudem die Möglichkeit, Verspätungsfälle ab 20 Minuten zu addieren u
 
 Bitte beachten Sie: Entschädigungsbeträge unter 4 Euro werden nicht ausgezahlt.
 
-* [bahn.de/fahrgastrechte Weitere Informationen: bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-entschaedigung-erhalte-ich-wenn-mein-zug-verspaetet-am-zielbahnhof-ankommt)
 
@@ -3604,7 +3604,7 @@ Bei Tickets mit Zugbindung (Sparpreisen) ist diese **Zugbindung** in **folgen
 
 Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
 
-* [bahn.de/fahrgastrechte Weitere Informationen: bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
 
@@ -3824,7 +3824,7 @@ Alternativ können Sie die Unterlagen in einem DB Reisezentrum oder Ihrer Verkau
 * Bewahren Sie die Originalbelege mindestens bis zur abschließenden Bearbeitung Ihres Antrags auf.
 * Achten Sie darauf, dass die Belegdateien vollständig und gut lesbar sind. Unvollständige oder schlecht lesbare Dateien können die Bearbeitung verzögern. In diesem Fall müssen Sie die Originalbelege eventuell per Post nachreichen.
 
-* [Zum Fahrgastrechte-Formular Weitere Informationen: Zum Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/entschaedigung)
+* [Zum Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/entschaedigung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verspaetung-zugausfall-kosten-online-einreichen)
 
@@ -3892,9 +3892,9 @@ Geben Sie zur Suche Ihres Auftrags die Auftragsnummer und den Nachnamen der reis
 
 Wenn Sie eingeloggt sind: Suchen Sie unter "Meine Reisen" nach Ihrem Auftrag.
 
-* [Zu "Meine Reisen" Weitere Informationen: Zu "Meine Reisen"](https://www.bahn.de/buchung/meine-reisen)
+* [Zu "Meine Reisen"](https://www.bahn.de/buchung/meine-reisen)
 
-[Zur Auftragssuche Weitere Informationen: Zur Auftragssuche](https://next.bahn.de/buchung/meine-reisen)
+[Zur Auftragssuche](https://next.bahn.de/buchung/meine-reisen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auftragssuche)
 
@@ -3933,7 +3933,7 @@ In den ersten 3 Stunden nach der Buchung haben Sie die Möglichkeit der "Soforts
 
 Achtung: Diese Möglichkeit besteht nicht für Tickets, die am Tag der Buchung zur Fahrt genutzt werden und nicht für Nahverkehrstickets.
 
-* [Weitere Informationen zur Sofortstornierung Weitere Informationen: Weitere Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Weitere Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-korrigieren)
 
@@ -3956,7 +3956,7 @@ Nein, im Nahverkehr und in der S-Bahn gibt es keine Zugbindung. Ein (Super) Spar
 
 Ja, Sie können viele 2. Klasse-Tickets im DB Fernverkehr auf die 1. Klasse upgraden.
 
-* [Weitere Informationen zum 1. Klasse-Upgrade Weitere Informationen: Weitere Informationen zum 1. Klasse-Upgrade](https://www.bahn.de/angebot/zusatzticket/erste-klasse-upgrade)
+* [Weitere Informationen zum 1. Klasse-Upgrade](https://www.bahn.de/angebot/zusatzticket/erste-klasse-upgrade)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-von-der-2-klasse-auf-die-1-klasse-upgraden)
 
@@ -3991,8 +3991,8 @@ Falls ein Ticket nicht angezeigt wird oder Sie es nicht über Ihr DB Kundenkonto
 1. Tippen Sie im Menübereich "Reisen" auf das Plus-Symbol oben rechts.
 2. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein, um das Ticket manuell hinzuzufügen.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
-* [Deutschland-Ticket in die App laden Weitere Informationen: Deutschland-Ticket in die App laden](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
+* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
+* [Deutschland-Ticket in die App laden](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-gebuchten-tickets)
 
@@ -4394,7 +4394,7 @@ Der Intercity 2 stellt aufgrund seiner doppelstöckigen Bauform einen Sonderfall
 
 **Zwischen Tür und Sitzplatz:** Besonders schmale Taschen passen in manchen Zügen auch zwischen die Großraumbereichstür und die hinterste Sitzreihe. Bitte achten Sie dabei unbedingt darauf, dass sich die Tür ohne Probleme schließt
 
-* [Gepäck während der Fahrt richtig verstauen Weitere Informationen: Gepäck während der Fahrt richtig verstauen](https://www.bahn.de/service/zug/gepaeck-im-zug)
+* [Gepäck während der Fahrt richtig verstauen](https://www.bahn.de/service/zug/gepaeck-im-zug)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gepaeck-verstauen-zug)
 
@@ -4412,7 +4412,7 @@ Für grenzüberschreitende Reisen ab/nach Deutschland gilt in folgende Länder:
 **Italien mit DB-ÖBB Kooperationszügen** (z.B. Verona, Bologna, Venedig): Neben dem o.g. Grundsatz für die Gepäckmitnahme im internationalen Verkehr gilt in den DB-ÖBB-Kooperationszügen, dass zusammengelegte Falträder und Scooter nur mitgenommen werden können, wenn sie zusammengeklappt sind und die **Maße 90x60x40 cm** einhalten.
 Ansonsten sind zusammengelegte/gefaltete und/oder verpackte Fahrräder von der Beförderung ausgeschlossen, da keine Stauräume dafür zur Verfügung stehen. Dies gilt auch für Fahrräder in dafür vorgesehenen Fahrradtransporttaschen.
 
-* [Gepäck während der Fahrt richtig verstauen Weitere Informationen: Gepäck während der Fahrt richtig verstauen](https://www.bahn.de/service/zug/gepaeck-im-zug)
+* [Gepäck während der Fahrt richtig verstauen](https://www.bahn.de/service/zug/gepaeck-im-zug)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/besonderheiten-internationale-reisen)
 
@@ -4467,8 +4467,8 @@ Neben Taschen, Trolleys und Koffern können Sie folgende Gegenstände mitnehmen:
 * Rollstuhl, Rollator oder Gehhilfe werden kostenfrei befördert.
 * In einigen Verkehrsverbünden gelten abweichende Regelungen.
 
-* [Mehr Informationen für Fahrgäste mit Mobilitätseinschränkung Weitere Informationen: Mehr Informationen für Fahrgäste mit Mobilitätseinschränkung](http://www.bahn.de/service/individuelle-reise/barrierefrei/eingeschraenkte-mobilitaet)
-* [Informationen zur Fahrradmitnahme im Fernverkehr Weitere Informationen: Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+* [Mehr Informationen für Fahrgäste mit Mobilitätseinschränkung](http://www.bahn.de/service/individuelle-reise/barrierefrei/eingeschraenkte-mobilitaet)
+* [Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/arten-gepaeckstuecke-zug)
 
@@ -4495,9 +4495,9 @@ Nach Auswahl des WLANs in Ihren Geräteeinstellungen öffnet sich bei den meiste
 
 Alternativ erreichen Sie den Regio Guide auch außerhalb des WIFI@DB, z.B. von zu Hause, über regio-guide.de im Browser, und **ab 2. Mai 2024** über die kostenfreie App im Android Play Store und im iOS App Store sowie über QR-Codes in ausgewählten Zügen.
 
-* [regio-guide.de Zum Regio Guide](https://regio-guide.de/pages/infotainment)
-* [Zum kostenfreien App im Android Playstore Weitere Informationen: Zum kostenfreien App im Android Playstore](https://play.google.com/store/apps/details?id=de.hafas.android.bayernnavi&hl=de)
-* [Zur kostenfreien App im iOS App Store Weitere Informationen: Zur kostenfreien App im iOS App Store](https://apps.apple.com/de/app/regio-guide/id1096074746)
+* [regio-guide.de](https://regio-guide.de/pages/infotainment)
+* [Zum kostenfreien App im Android Playstore](https://play.google.com/store/apps/details?id=de.hafas.android.bayernnavi&hl=de)
+* [Zur kostenfreien App im iOS App Store](https://apps.apple.com/de/app/regio-guide/id1096074746)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/allgemein-regio-guide)
 
@@ -4543,7 +4543,7 @@ Das ICE-Portal ist ein Infotainment-Portal mit Angeboten wie Filmen, Hörbucher 
 
 Sie haben gegebenenfalls fahrgastrechtliche Ansprüche, wenn Sie aufgrund einer Störung der Klimaanlage bzw. gesperrter Wagen Ihren reservierten Sitzplatz nicht einnehmen oder die gebuchte 1. Klasse nicht nutzen konnten.
 
-* [Weitere Informationen zu Fahrgastrechten Weitere Informationen: Weitere Informationen zu Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [Weitere Informationen zu Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/klimaanlage-sitzplatz)
 
@@ -4557,7 +4557,7 @@ Es gelten die folgenden Preise für die Fahrradmitnahme:
 
 Haben Sie bereits eine Fahrkarte? Dann buchen Sie bitte die Fahrradkarte mit Stellplatzreservierung separat auf der Website oder in der App hinzu. Denn die Mitnahme eines Fahrrads ist im Fernverkehr reservierungspflichtig. Die Fahrradkarte muss über dieselbe Strecke lauten wie Ihre eigene Fahrkarte. Dann gilt sie in der Regel für Ihre gesamte Reiseverbindung. Die Nutzung des Nahverkehrs (RE, RB und S-Bahnen) ist inklusive.
 
-[Weitere Informationen zur Fahrradmitnahme im Fernverkehr Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4570,7 +4570,7 @@ Zusammengelegte Fahrräder können in den DB-ÖBB-Kooperationszügen zwischen M�
 
 Ein zusammengelegtes Fahrrad mit größeren Maßen gilt als kostenpflichtiges Fahrrad. Dies kann mit Fahrradkarte sowie einer Stellplatzreservierung mitgenommen werden. Dazu darf es jedoch nicht zusammengelegt sein.
 
-[Weitere Informationen zur Fahrradmitnahme im Fernverkehr Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4602,7 +4602,7 @@ Wenden sich direkt an die Service-Rufnummer [030 586020900](tel:+4930586020900) 
 
 Sie können Ihre Fahrradkarten nicht online buchen. Kontaktieren Sie unsere DB Verkaufsstellen oder rufen Sie die Servicenummer unter [030 2970](tel:+49302970) an.
 
-[Weitere Informationen zur Fahrradkarte im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4620,7 +4620,7 @@ Bei manchen internationalen Zügen ist das Fahrradsymbol grau. Das heißt, dass 
 
 Hinweis: Es gibt eine Kennzeichnungspflicht für Reisen nach Italien (via Österreich/Brenner). Siehe hierzu auch "[Muss ich mein Fahrrad für die Mitnahme in Fernverkehrszügen kennzeichnen?](https://www.bahn.de/faq/19muss-ich-mein-fahrrad-fuer-die-mitnahme-in-fernverkehrszuegen-kennzeichnen)").
 
-[Weitere Informationen zur Fahrradkarte im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4648,7 +4648,7 @@ Zusammengeklappte Fahrräder können Sie kostenfrei als Handgepäck mitnehmen- S
 
 Sie können Klappräder sicher in den Gepäckregalen und Mehrzweckbereichen unterbringen. Gänge, Türen und Sicherheitseinrichtungen, wie z.B. Feuerlöscher, müssen zu Ihrer eigenen Sicherheit frei bleiben.
 
-[Weitere Informationen zur Fahrradmitnahme im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4661,7 +4661,7 @@ Ja, fügen Sie in der Buchungsanfrage neben dem Reisenden einfach ein Fahrrad hi
 
 Ob tatsächlich noch Stellplätze im ICE, IC- oder EC-Zug frei sind, erkennen Sie direkt am Fahrradsymbol (rotes Fahrradsymbol = Fahrradstellplätze nicht mehr verfügbar).
 
-[Weitere Informationen zur Fahrradkarte im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4699,7 +4699,7 @@ Wenn Sie Ihre Bahnreise planen, können Sie vorab in der Reiseauskunft online o
 
 Wählen Sie bei der Abfrage der Reiseverbindung auf der Website die Umsteigezeit aus, die für Sie am angenehmsten ist (in der App unter "Optionen").
 
-[Weitere Informationen zur Fahrradkarte im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4731,7 +4731,7 @@ Sie dürfen nur Pedelecs mit Tretunterstützung bis 25 km/h und einer Motorleist
 
 An den Fahrradstellplätzen gibt es **keinen Schließmechanismus**. Nutzen Sie Ihr eigenes Schloss, um das Fahrrad zu sichern.
 
-[Weitere Informationen zur Fahrradkarte im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4765,7 +4765,7 @@ Sie können ein Elektro-Kleinstfahrzeug (z. B. E-Scooter, E-Tretroller, E-Kickbo
 
 * Sie dürfen den eingebauten Akku während der Beförderung weder entnehmen, laden, noch anderweitig (z. B. als Powerbank) nutzen..
 
-[Weitere Informationen zur Fahrradkarte im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4780,9 +4780,9 @@ Nein, generell ist das nicht notwendig. Zeigen Sie bei der Fahrkartenkontrolle z
 
 Wenn Sie Ihr Fahrrad in einem EC-Zug nach Italien (via Österreich/Brenner) mitnehmen wollen, müssen Sie eine Kennzeichnung anhängen. Bitte drucken und füllen Sie die Fahrradbanderole aus. Befestigen Sie diese vor Fahrtantritt an Ihrem Fahrrad. Die Banderole ist kein Ersatz für die Fahrradkarte bzw. Stellplatzreservierung.
 
-* [Banderole downloaden (PDF, 293 KB) Download der Datei: Banderole downloaden (PDF, 293 KB)](https://assets.static-bahn.de/dam/jcr:5b1c4dbe-43eb-46c4-bbcd-018087f319e8/Banderole%20zur%20Fahrradmitnahme.pdf)
+* [Banderole downloaden (PDF, 293 KB)](https://assets.static-bahn.de/dam/jcr:5b1c4dbe-43eb-46c4-bbcd-018087f319e8/Banderole%20zur%20Fahrradmitnahme.pdf)
 
-[Weitere Informationen zur Fahrradkarte im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4802,7 +4802,7 @@ Wenn Sie das zusammengeklappte Faltrad in der Ablage über dem Sitzplatz unterbr
 
 Tipp: Packen Sie das Rad in eine Tasche oder befestigen Sie es vorsichtig mit mitgebrachten Spanngurten zwischen anderen Gepäckstücken.
 
-[Weitere Informationen zur Fahrradmitnahme im Fernverkehr Weitere Informationen: Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+[Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
@@ -4921,7 +4921,7 @@ Für die Buchung von grenzüberschreitenden Verbindungen mit dem Fahrrad wenden 
 
 Nein, wir bieten keine Stellplatzreservierungen für Fahrräder im Nahverkehr an.
 
-[Weitere Informationen zur Fahrradmitnahme im Nahverkehr Weitere Informationen: Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
+[Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
@@ -4936,7 +4936,7 @@ Vor allem an den Wochenenden und in den Sommer-Monaten können auf stark befahre
 
 Bitte informieren Sie sich auch rechtzeitig vor Antritt Ihrer Reise zu möglichen Sperrzeiten für die Fahrradmitnahme im jeweiligen Verkehrsverbund.
 
-[Weitere Informationen zur Fahrradmitnahme im Nahverkehr Weitere Informationen: Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
+[Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
@@ -4967,7 +4967,7 @@ Die Nahverkehrsfreigabe gilt nur für ausgewählte Fernverkehrsstrecken in Deuts
 
 Bitte kaufen Sie Ihre Fahrkarte (für Sie als Person) für den Nahverkehr separat zur Fahrkarte für Ihr Fahrrad. Aktuell sind dafür zwei getrennte Buchungen nötig. Eine Kombination der beiden Tickets in einer Buchung ist noch nicht möglich.
 
-[Weitere Informationen zur Fahrradmitnahme im Nahverkehr Weitere Informationen: Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
+[Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
@@ -4978,7 +4978,7 @@ Bitte kaufen Sie Ihre Fahrkarte (für Sie als Person) für den Nahverkehr separ
 
 Die Fahrrad-Tageskarte bwFahrrad kostet 6 Euro pro Rad und Tag. Sie ist nur gültig in Kombination mit gültigem (Personen)Fahrschein.
 
-[Weitere Informationen zum bwFahrrad-Ticket Weitere Informationen: Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
+[Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
 
@@ -4989,7 +4989,7 @@ Die Fahrrad-Tageskarte bwFahrrad kostet 6 Euro pro Rad und Tag. Sie ist nur gü
 
 Das Ticket bwFahrrad ist ein Tag lang gültig im Geltungsbereich in Nahverkehrszügen Baden-Württembergs sogar bis nach Basel.
 
-[Weitere Informationen zum bwFahrrad-Ticket Weitere Informationen: Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
+[Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
 
@@ -5004,7 +5004,7 @@ Soweit die kostenlose Mitnahme nicht gilt, wird im bwtarif das Ticket bwFAHRRAD 
 
 Eine Übersicht der Strecken, auf denen ein zusätzliches Fahrradticket nötig ist, finden Sie auf [bwtarif.info](https://www.bwtarif.info/).
 
-[Weitere Informationen zum bwFahrrad-Ticket Weitere Informationen: Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
+[Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
 
@@ -5015,7 +5015,7 @@ Eine Übersicht der Strecken, auf denen ein zusätzliches Fahrradticket nötig i
 
 Die Fahrradtageskarte Niedersachsen kostet 6,50 Euro pro Rad und Tag. Sie ist nur gültig in Kombination mit gültigem (Personen)Fahrschein.
 
-[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen Weitere Informationen: Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
+[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
 
@@ -5033,9 +5033,9 @@ Die Fahrradkarte ist gültig:
 
 Ihr Ticket gilt an einem Tag Ihrer Wahl **von 0 bis 3 Uhr** **des Folgetages.**
 
-* [Weitere Infos auf niedersachsentarif.de Weitere Informationen: Weitere Infos auf niedersachsentarif.de](https://www.niedersachsentarif.de/fahrkarten/fahrradtageskarte)
+* [Weitere Infos auf niedersachsentarif.de](https://www.niedersachsentarif.de/fahrkarten/fahrradtageskarte)
 
-[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen Weitere Informationen: Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
+[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
 
@@ -5046,7 +5046,7 @@ Ihr Ticket gilt an einem Tag Ihrer Wahl **von 0 bis 3 Uhr** **des Folgetages.**
 
 Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stornierung ausgeschlossen.
 
-[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen Weitere Informationen: Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
+[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
 
@@ -5077,7 +5077,7 @@ Die [Kleinkindabteile](https://www.bahn.de/service/individuelle-reise/kinder/kl
 
 Im [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich) der ICE- und Intercity-Züge sind Familien mit Kindern im Kindergarten- oder Grundschulalter perfekt aufgehoben. Das Gute: Hier reisen Sie in bester Gesellschaft – Sie sitzen mit anderen Familien in einem Boot.
 
-* [Unterschied ausführlich erklärt Weitere Informationen: Unterschied ausführlich erklärt](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich)
+* [Unterschied ausführlich erklärt](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unterschied-kleinkindabteil-familienbereich)
 
@@ -5822,7 +5822,7 @@ Außerdem können Sie Ihren aktuellen Punktestand jederzeit in der BahnBonus App
 
 Die BahnBonus App steht zum Download in den App-Stores von Apple und Google zur Verfügung.
 
-* [Zur BahnBonus App Weitere Informationen: Zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
+* [Zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/werde-ich-informiert-wenn-meine-punkte-bald-verfallen)
 
@@ -5899,7 +5899,7 @@ Ja. Ihre gebuchten Tickets werden automatisch in Ihrem DB Kundenkonto auf bahn.d
 
 Wenn Sie Tickets ohne Login gebucht haben, können Sie diese manuell über die Auftragssuche durch die Eingabe der Auftragsnummer und des Nachnamens der reisenden Person zu Ihrem DB Kundenkonto hinzufügen.
 
-* [Zur Auftragssuche Weitere Informationen: Zur Auftragssuche](https://www.bahn.de/meine-reisen)
+* [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-tickets-die-ich-in-der-db-navigator-app-kaufe-auch-auf-bahn-de-abrufen)
 
@@ -5915,7 +5915,7 @@ Für diesen Fall können Sie auf bahn.de Ihre BahnCard/BahnBonus Card selbst hin
 
 Danach können Sie auf Ihre gültige bzw. demnächst gültige BahnCard/BahnBonus Card in dieser App zugreifen.
 
-* [Zum Kundenkonto Login Weitere Informationen: Zum Kundenkonto Login](https://www.bahn.de/buchung/reiseuebersicht)
+* [Zum Kundenkonto Login](https://www.bahn.de/buchung/reiseuebersicht)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-ich-im-dbnavigator-meine-bahncard-nicht-laden)
 
@@ -6025,8 +6025,8 @@ Sie können in der App mit folgenden Zahlungsmitteln zahlen:
 
 Sie haben einen Gutschein der Deutschen Bahn und möchten diesen einlösen?
 
-* [Lesen Sie hier, was Sie bei Gutscheinen beachten müssen. Weitere Informationen: Lesen Sie hier, was Sie bei Gutscheinen beachten müssen.](https://www.bahn.de/service/gutscheine/gutscheine-einloesen)
-* [Weitere Informationen zu Zahlungsarten Weitere Informationen: Weitere Informationen zu Zahlungsarten](https://www.bahn.de/service/informationen-buchung/zahlung)
+* [Lesen Sie hier, was Sie bei Gutscheinen beachten müssen.](https://www.bahn.de/service/gutscheine/gutscheine-einloesen)
+* [Weitere Informationen zu Zahlungsarten](https://www.bahn.de/service/informationen-buchung/zahlung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-dbnavigator-bezahlen)
 
@@ -6048,7 +6048,7 @@ Für eine Fahrradkarte und Stellplatzreservierung im Fernverkehr wählen Sie unt
 
 Für eine Fahrradkarte im Nahverkehr wählen Sie im App-Bereich "Buchen" unter "Tickets & Angebote" die Kachel "Regionale Angebote" und dann die passende Fahrradkarte aus. Sie können die regionalen Angebote für die Fahrradmitnahme nach Bundesländern filtern. Für Verbindungen, bei denen Sie ein Fahrrad mitnehmen können, aktivieren Sie in den "Optionen" den Regler "Fahrradmitnahme möglich".
 
-* [Zur Fahrradmitnahme-Buchung Weitere Informationen: Zur Fahrradmitnahme-Buchung](https://www.bahn.de/angebot/zusatzticket/fahrrad)
+* [Zur Fahrradmitnahme-Buchung](https://www.bahn.de/angebot/zusatzticket/fahrrad)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-im-dbnavigator-fahrrad-karten-kaufen)
 
@@ -6366,7 +6366,7 @@ Wir forschen für Sie 4 Wochen nach dem verlorenen Gegenstand und informieren Si
 
 Sie sollten Ihre Verlustanzeige so bald wie möglich hier online aufgeben.
 
-* [Verlustmeldung Onlineformular Weitere Informationen: Verlustmeldung Onlineformular](https://www.bahn.de/service/ueber-uns/fundservice/verlustmeldung)
+* [Verlustmeldung Onlineformular](https://www.bahn.de/service/ueber-uns/fundservice/verlustmeldung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rueckwirkend-suchanzeige-online-aufgeben)
 
@@ -6453,7 +6453,7 @@ Wenn Sie Ihren Gegenstand in einem anderen Zug verloren haben, setzen Sie sich b
 
 Bitte nutzen Sie unsere Self-Services und die Kontaktformulare auf der Hilfe & Kontakt-Seite.
 
-* [Zu Hilfe & Kontakt Weitere Informationen: Zu Hilfe & Kontakt](https://www.bahn.de/hilfe)
+* [Zu Hilfe & Kontakt](https://www.bahn.de/hilfe)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-kundendialog-der-deutschen-bahn-erreichen)
 
@@ -6482,8 +6482,8 @@ Kohlenstoffdioxid (CO₂) ist ein Treibhausgas, das vor allem durch die Verbrenn
 
 Im DB Fernverkehr reisen Sie seit Anfang 2018 auf elektrifizierten Strecken in Deutschland, die aktuell über 98 % der Verkehrsleistung des DB Fernverkehr ausmachen, mit 100 Prozent Ökostrom. Bis 2040 wird die Deutsche Bahn insgesamt klimaneutral.
 
-* [Mehr zum Thema Ökostrom Weitere Informationen: Mehr zum Thema Ökostrom](https://www.bahn.de/service/ueber-uns/umwelt/oekostrom)
-* [Mehr zum Thema Klimaschutz auf deutschebahn.com Weitere Informationen: Mehr zum Thema Klimaschutz auf deutschebahn.com](https://nachhaltigkeit.deutschebahn.com/de/gruene-transformation/klimaschutz)
+* [Mehr zum Thema Ökostrom](https://www.bahn.de/service/ueber-uns/umwelt/oekostrom)
+* [Mehr zum Thema Klimaschutz auf deutschebahn.com](https://nachhaltigkeit.deutschebahn.com/de/gruene-transformation/klimaschutz)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-co2-sparen)
 
@@ -6697,7 +6697,7 @@ Bitte klicken Sie hierzu die Checkbox "Angemeldet bleiben" an.
 
 Die Nutzung der "Angemeldet bleiben-Option" ermöglicht keinen direkten Zugriff auf Ihr persönliches Kundenkonto. Weitere Informationen finden Sie auch in unseren
 
-* [Datenschutzhinweisen zum Kundenkonto. Weitere Informationen: Datenschutzhinweisen zum Kundenkonto.](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
+* [Datenschutzhinweisen zum Kundenkonto.](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-angemeldet-bleiben)
 
@@ -6871,7 +6871,7 @@ Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Naviga
 
 * Nutzen Sie Ihr Kundenkonto auch bei Ihren Buchungen auf der Webseite und mit unserer App DB Navigator
 
-[Zu den Kundenkonto-Vorteilen Weitere Informationen: Zu den Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
+[Zu den Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-kundenkonto-um-ticket-zu-buchen)
 
@@ -6882,7 +6882,7 @@ Im Kundenkonto sind zunächst Ihre Stammdaten hinterlegt, also Name und Adresse(
 
 Weitere Informationen finden Sie in unseren Datenschutzhinweisen
 
-* [Datenschutzhinweise Weitere Informationen: Datenschutzhinweise](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
+* [Datenschutzhinweise](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-daten-sind-im-kundenkonto-hinterlegt)
 
@@ -6897,7 +6897,7 @@ Europa-Allee 78-84
 
 oder per E-Mail an [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com).
 
-* [Zu den Datenschutzhinweisen Weitere Informationen: Zu den Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
+* [Zu den Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-ist-fuer-die-daten-verantwortlich)
 
@@ -6906,7 +6906,7 @@ oder per E-Mail an [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deu
 
 Ihre im Kundenkonto hinterlegten Daten werden nur im Rahmen der gesetzlichen Bestimmungen und ausschließlich für die Funktionen und Services des Kundenkontos genutzt, welche Sie in Anspruch nehmen. An der Bereitstellung der jeweiligen Funktionen und Dienste können mehrere DB-Gesellschaften beteiligt sein. Eine Weitergabe von Daten an Dritte erfolgt nur dann, wenn dies zwingend erforderlich ist. Weitere Informationen finden sich in unseren Datenschutzhinweisen
 
-* [Zu den Kundenkonto-Datenschutzhinweisen Weitere Informationen: Zu den Kundenkonto-Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
+* [Zu den Kundenkonto-Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-geschieht-mit-meinen-daten)
 
@@ -6915,7 +6915,7 @@ Ihre im Kundenkonto hinterlegten Daten werden nur im Rahmen der gesetzlichen Bes
 
 In Ihrem Kundenkonto können Sie Ihre Daten einsehen: Dies sind beispielsweise Stammdaten (Name, Adressen und hinterlegte Zahlungsdaten), gekaufte Tickets, BahnCards oder gegebenenfalls erteilte Werbeeinwilligungen. Für eine vollständige Datenauskunft können Sie sich gerne an die in unseren Datenschutz-Hinweisen genannten Ansprechpartner wenden.
 
-* [Datenschutzhinweise Weitere Informationen: Datenschutzhinweise](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
+* [Datenschutzhinweise](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-einsehen-welche-daten-hinterlegt)
 
@@ -7170,8 +7170,8 @@ Bei Tickets für die Hin- und Rückfahrt wählen Sie bitte im DB Navigator den e
 
 Das Zugpersonal kann Sie auch während der regulären Ticketkontrolle einchecken. Dadurch werden Folgekontrollen vermieden, die sonst beispielsweise bei Personalwechsel stattfinden. Das Zugpersonal informiert Sie anschließend über den erfolgreichen Check-in.
 
-* [Zur ausführlichen Anleitung Weitere Informationen: Zur ausführlichen Anleitung](https://www.bahn.de/service/zug/komfort-check-in)
-* [Voraussetzungen für den Komfort Check-in Weitere Informationen: Voraussetzungen für den Komfort Check-in](https://www.bahn.de/faq/voraussetzungen-kci)
+* [Zur ausführlichen Anleitung](https://www.bahn.de/service/zug/komfort-check-in)
+* [Voraussetzungen für den Komfort Check-in](https://www.bahn.de/faq/voraussetzungen-kci)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-den-komfort-check-in)
 
@@ -7250,7 +7250,7 @@ Die Anzeige "Reservierung vorübergehend nicht möglich" bedeutet, dass der Zug
 
 Please go to our international website [int.bahn.de](http://int.bahn.de/) and select your preferred language.
 
-* [Go directly to our international website Weitere Informationen: Go directly to our international website](https://int.bahn.de/)
+* [Go directly to our international website](https://int.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sprache-website-en)
 
@@ -7261,7 +7261,7 @@ In der Auftragssuche kann der Reisende das Ticket stornieren. Dazu braucht er d
 
 Nach dem 1. Geltungstag ist ein Umtausch oder eine Stornierung ausgeschlossen. Der Geltungstag ist auf Ihrem Ticket aufgedruckt.
 
-* [Zur Auftragssuche Weitere Informationen: Zur Auftragssuche](https://www.bahn.de/meine-reisen)
+* [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/3-wo-kann-ich-mein-veranstaltungsticket-stornieren)
 
@@ -7270,7 +7270,7 @@ Nach dem 1. Geltungstag ist ein Umtausch oder eine Stornierung ausgeschlossen. D
 
 Informationen zur aktuellen Verkehrslage finden Sie unter:
 
-* [bahn.de/aktuell Weitere Informationen: bahn.de/aktuell](https://www.bahn.de/service/fahrplaene/aktuell)
+* [bahn.de/aktuell](https://www.bahn.de/service/fahrplaene/aktuell)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-mich-ueber-die-aktuelle-verkehrslage-informieren)
 

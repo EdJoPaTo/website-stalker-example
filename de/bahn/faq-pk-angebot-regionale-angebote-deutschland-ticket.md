@@ -63,7 +63,7 @@ Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrec
 * Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrsticket, nicht kombiniert.
 * Bei Anreise mit U-Bahn, Straßenbahn oder Bus gelten keine durchgängigen Fahrgastrechte.
 
-* [Mehr zu den Fahrgastrechten Weitere Informationen: Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrgastrechte)
 
@@ -140,7 +140,7 @@ Sie haben zwei Möglichkeiten:
 
 So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
 
-* [Alle Infos zu den Deutschland-Ticket-Filtern Zur Seite Deutschland-Ticket-Filter](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
+* [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
 
@@ -149,9 +149,9 @@ So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal 
 
 Bund und Länder haben entschieden, das Deutschland-Ticket als Abonnement anzubieten. Es ist bundesweit gültig und ermöglicht deutschlandweite Fahrten im ÖPNV und SPNV aller teilnehmenden Verkehrsunternehmen, Landestarife und Verkehrsverbünde sowie im verbundfreien Raum.
 
-* [zu den AGBs Weitere Informationen: zu den AGBs](https://www.bahn.de/agb)
+* [zu den AGBs](https://www.bahn.de/agb)
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -162,7 +162,7 @@ Bund und Länder haben entschieden, das Deutschland-Ticket als Abonnement anzubi
 
 Ab 1. Januar 2025 kostet das Deutschland-Ticket **58 Euro pro Monat.** Dies wurde von den Verkehrsministerinnen und Verkehrsministern von Bund und Ländern gemeinsam beschlossen.
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -183,9 +183,9 @@ Loggen Sie sich mit Ihrem bahn.de-Account ein und rufen Sie Ihr Deutschland-Tick
 
 **Bitte beachten Sie:** Zustimmen kann nur die Vertragspartnerin oder der Vetragspartner, das ist die **bestellende Person des Abos**. Wenn Sie das Deutschland-Ticket nutzen, aber jemand anders es für Sie bestellt hat, machen Sie diese bestellende Person bitte darauf aufmerksam, dass sie bis zum 30. November 2024 der Preisanpassung zustimmt, damit Sie Ihr Ticket auch 2025 weiter nutzen können.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/#/)
+* [Zum Aboportal](https://abo.bahn.de/#/)
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -206,9 +206,9 @@ Wenn Sie im Januar 2025 wieder ein neues Deutschland-Ticket-Abonnement haben mö
 
 **Wichtig:** Sollten Sie ab Januar 2025 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben, damit Ihnen im Falle einer Fahrscheinkontrolle keine zusätzlichen Kosten entstehen.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/#/)
+* [Zum Aboportal](https://abo.bahn.de/#/)
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -223,9 +223,9 @@ Sollten Sie die Frist zum 30. November 2024 verpasst haben oder möchten Sie Ihr
 
 **Wichtig:** Sollten Sie ab Januar 2025 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben, damit Ihnen im Falle einer Fahrscheinkontrolle keine zusätzlichen Kosten entstehen.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/#/)
+* [Zum Aboportal](https://abo.bahn.de/#/)
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -238,11 +238,11 @@ Die verschiedenen Angebote zu Verbundabonnements finden Sie auf bahn.de/pendler 
 
 Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der geltenden Kündigungsfristen, über das Aboportal oder im DB Navigator kündigen.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/#/)
-* [bahn.de/pendler Weitere Informationen: bahn.de/pendler](https://www.bahn.de/angebot/pendler)
-* [Zur Reiseauskunft Weitere Informationen: Zur Reiseauskunft](https://www.bahn.de/buchung/start)
+* [Zum Aboportal](https://abo.bahn.de/#/)
+* [bahn.de/pendler](https://www.bahn.de/angebot/pendler)
+* [Zur Reiseauskunft](https://www.bahn.de/buchung/start)
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -257,7 +257,7 @@ Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der gelte
 
 Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -268,7 +268,7 @@ Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen,
 
 Ja. Sie können mehrere Deutschland-Tickets in die DB Navigator App laden. Wenn Sie Ihr Deutschland-Ticket über einen Vertriebskanal der DB gekauft haben, verwenden Sie die Ihnen bei der Buchung zugeteilte Auftragsnummer, um das Ticket in die App zu laden.
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -281,7 +281,7 @@ Beim 9-Euro-Ticket handelte es sich um eine temporär eingeführte Monatskarte, 
 
 Das Deutschland-Ticket wird hingegen ist ein dauerhaft erhältliches Abonnement.
 
-[Zum Deutschland-Ticket Weitere Informationen: Zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -301,9 +301,9 @@ Ja, das Deutschland-Ticket können Sie auch als Jobticket zu bundesweit einheitl
 
 Bitte informieren Sie sich hierzu im Personalbereich Ihres Unternehmens.
 
-* [Weitere Informationen zum Deutschland-Ticket als Jobticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket als Jobticket](https://www.bahn.de/angebot/pendler/rahmenvertrag-deutschland-ticket)
+* [Weitere Informationen zum Deutschland-Ticket als Jobticket](https://www.bahn.de/angebot/pendler/rahmenvertrag-deutschland-ticket)
 
-[Deutschland-Ticket als Jobticket Deutschland-Ticket als Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
+[Deutschland-Ticket als Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
 [Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
@@ -327,8 +327,8 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
 * Nutzen Sie die Funktion „Abo kündigen“ im DB Navigator unterhalb Ihres Handy-Tickets.
 * Alternativ: Nutzen Sie das Kündigungsformular.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/portal/#/)
-* [Zum Kündigungsformular Weitere Informationen: Zum Kündigungsformular](https://www.bahn.de/kontakt/kuendigungsformular)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Kündigungsformular](https://www.bahn.de/kontakt/kuendigungsformular)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen)
 
@@ -350,7 +350,7 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
 
 Bitte achten Sie beim Hinzufügen Ihres Deutschland-Ticket Abos darauf, den Tarifgeber auszuwählen, von dem Sie Ihr Deutschland-Ticket bezogen haben. Dies erkennen Sie an der Produktbezeichnung in Ihrer Bestellbestätigung oder auf Ihrem Handy-Ticket. Beim Hinzufügen Ihres Abos nutzen Sie bitte die Abo-Auftragsnummer, die Ihnen in Ihrer Aktivierungsmail mitgeteilt wurde. Für weitere Hilfestellungen besuchen Sie das Aboportal.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/#/)
+* [Zum Aboportal](https://abo.bahn.de/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschland-ticket-im-abo-portal-finden)
 
@@ -382,7 +382,7 @@ Ja. Bei der Fahrkartenkontrolle müssen Sie auf Aufforderung immer einen gültig
 
 Weitere Fragen und Antworten zum Deutschland-Ticket finden Sie in unseren FAQ.
 
-* [Weitere FAQ zum Deutschland-Ticket Weitere Informationen: Weitere FAQ zum Deutschland-Ticket](https://bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket)
+* [Weitere FAQ zum Deutschland-Ticket](https://bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-faq)
 
@@ -412,7 +412,7 @@ Ja. In Verkehrsverbünden oder Landestarifen, in denen Chipkarten etabliert sind
 
 Nein, ein Deutschland-Ticket kann nur als Abonnement erworben werden.
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -439,7 +439,7 @@ Barzahlung
 
 Hinweis: Auch im Reisezentrum müssen Sie Ihre Kontoverbindung für Folgezahlungen angeben.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte-lastschrift)
 
@@ -450,7 +450,7 @@ Ja. Wenn Sie das Deutschland-Ticket in unseren personenbedienten Kanälen (z.B. 
 
 Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf sowie über unseren Direkteinstieg für Dritte buchen.
 
-[Deutschland-Ticket direkt buchen Weitere Informationen: Deutschland-Ticket direkt buchen](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Deutschland-Ticket direkt buchen](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -461,7 +461,7 @@ Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf sowie 
 
 Nein, mit Ihrer BahnCard erhalten Sie keinen Rabatt auf das Deutschland-Ticket.
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -476,7 +476,7 @@ Ja, Sie können für den Kauf des Deutschland-Tickets monatlich BahnBonus Punkte
 * Sie können keine BahnBonus Punkte sammeln, wenn Sie das Ticket bei Verkehrsverbünden oder in DB Reisezentren kaufen.
 * Sie müssen bei BahnBonus angemeldet sein, um Punkte zu erhalten.
 
-* [Zu BahnBonus anmelden Zur Site BahnBonus-Anmeldung auf bahn.de](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
+* [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
 
@@ -536,8 +536,8 @@ Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der
 
 Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter zugportal/fahrrad.
 
-* [Informationen zur Fahrradmitnahme im Nahververkehr Weitere Informationen: Informationen zur Fahrradmitnahme im Nahververkehr](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
-* [www.zugportal/fahrrad Weitere Informationen: www.zugportal/fahrrad](https://zugportal.de/pages/infotainment/landing-page/5X9iDX3CzQX5jmqu6Hujek)
+* [Informationen zur Fahrradmitnahme im Nahververkehr](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
+* [www.zugportal/fahrrad](https://zugportal.de/pages/infotainment/landing-page/5X9iDX3CzQX5jmqu6Hujek)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad)
 
@@ -546,8 +546,8 @@ Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter zugp
 
 Möchten Sie auf einer Reise eine Fernverkehrsfahrkarte mit dem Deutschland-Ticket kombinieren und dabei ein Fahrrad mitnehmen, so kaufen Sie bitte Ihre ‚Fahrradkarte Fernverkehr‘ bis zu Ihrem Zielbahnhof, den Sie ggf. mit einem Nahverkehrszug erreichen. Die Fahrradkarte Fernverkehr gilt ohne Mehrkosten auch für die Fahrt in den Nahverkehrszügen. Für die evtl. Weiterfahrt im ÖPNV (mit Bus, Straßenbahn o.ä.) gelten die Tarifregeln des jeweils genutzten Unternehmens. Gegebenenfalls ist der Kauf einer weiteren Fahrkarte für Ihr Fahrrad erforderlich.
 
-* [Alle Infos zur Fahrradmitnahme Weitere Informationen: Alle Infos zur Fahrradmitnahme](https://www.bahn.de/service/individuelle-reise/fahrrad)
-* [Infos unter zugportal.de/fahrrad Weitere Informationen: Infos unter zugportal.de/fahrrad](https://zugportal.de/pages/infotainment/landing-page/5X9iDX3CzQX5jmqu6Hujek)
+* [Alle Infos zur Fahrradmitnahme](https://www.bahn.de/service/individuelle-reise/fahrrad)
+* [Infos unter zugportal.de/fahrrad](https://zugportal.de/pages/infotainment/landing-page/5X9iDX3CzQX5jmqu6Hujek)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad-fv)
 
@@ -570,7 +570,7 @@ Ein Übergang in die 1. Wagenklasse ist sowohl
 
 gemäß der Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder Landestarife erhältlich.
 
-* [Details zum 1.-Klasse Übergang finden Sie hier Weitere Informationen: Details zum 1.-Klasse Übergang finden Sie hier](https://www.bahn.de/faq/deutschlandticket-1klasse)
+* [Details zum 1.-Klasse Übergang finden Sie hier](https://www.bahn.de/faq/deutschlandticket-1klasse)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse-aufpreis)
 
@@ -579,7 +579,7 @@ gemäß der Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder Landes
 
 Das Deutschland-Ticket gilt ab dem 1. Kalendertag des Gültigkeitszeitraums, wie auf dem persönlichen Ticket angegeben.
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -597,7 +597,7 @@ Nein. Das Deutschland-Ticket ist personalisiert und nur mit Namenseintrag und zu
 
 Das Abonnement wird für unbestimmte Zeit abgeschlossen und kann monatlich gekündigt werden.
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -613,9 +613,9 @@ Das Abonnement wird für unbestimmte Zeit abgeschlossen und kann monatlich gekü
 
 Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
 
-* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB) Download der Datei: Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
+* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -641,9 +641,9 @@ Bitte beachten Sie die Details im Geltungsbereich des Schienenverkehrs.
 Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
 
 *
-* [bahn.de/agb Weitere Informationen: bahn.de/agb](https://www.bahn.de/agb)
+* [bahn.de/agb](https://www.bahn.de/agb)
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen: Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -794,7 +794,7 @@ Ja. Alle Funktionen zur Verwaltung Ihres Deutschland-Tickets finden Sie im Abopo
 * Ihren Vertrag kündigen,
 * Ihre Kundendaten anpassen.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-abo-selbst-verwalten)
 
@@ -817,7 +817,7 @@ Ihr Deutschland-Ticket-Abo verlängert sich automatisch bis zu Ihrer Kündigung.
 
 Aufgrund der aktuell sehr hohen Bearbeitungszeiten dauert die Durchführung von Kündigungsaufträgen derzeit länger. Nach Erhalt Ihrer Kündigungsbestätigung erhalten Sie Ihre Gutschrift rückwirkend. Für eine schnellere Bearbeitung, führen Sie Ihre Kündigung innerhalb der tariflichen Kündigungsfrist selbständig in unserem Aboportal durch.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigungsbestaetigung)
 
@@ -837,7 +837,7 @@ Möglicherweise wird der Zeitraum in der Ticketvorschau unter „Reisen“ erst 
 
 Ihre Daten können Sie jederzeit selbst im Aboportal im Menüpunkt "Meine Daten" ändern.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/#/)
+* [Zum Aboportal](https://abo.bahn.de/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-daten-aendern)
 
@@ -856,7 +856,7 @@ Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
 
     Keine Rücklastschrift über die Bank veranlassen, um Sperrung des Kundenkontos und Kündigung aller Tickets zu vermeiden.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/#/)
+* [Zum Aboportal](https://abo.bahn.de/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-doppelte-abbuchung)
 
@@ -865,7 +865,7 @@ Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
 
 Jetzt losfahren und das Land entdecken unter dbmobil.de!
 
-* [Zu dbmobil.de Weitere Informationen: Zu dbmobil.de](https://dbmobil.de/d-ticket)
+* [Zu dbmobil.de](https://dbmobil.de/d-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ausflugsziele)
 
@@ -892,7 +892,7 @@ Vor dem ersten Fahrtantritt mit den Konditionen des Deutschland-Tickets müssen 
 
 Beachten Sie, dass die Anzeige am Automaten bis zum 1. Geltungstag des Deutschland-Tickets fehlerhaft sein kann. Ihr Ticket wird trotzdem aktualisiert.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
-* [Fahrkarten am DB Automaten kaufen Weitere Informationen: Fahrkarten am DB Automaten kaufen](https://www.bahn.de/service/informationen-buchung/verkaufsstellen/automat)
+* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
+* [Fahrkarten am DB Automaten kaufen](https://www.bahn.de/service/informationen-buchung/verkaufsstellen/automat)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chipkarte-wechsel-deutschland-ticket-chipkarte)

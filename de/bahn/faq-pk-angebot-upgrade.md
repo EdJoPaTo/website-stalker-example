@@ -16,7 +16,7 @@ Sie können das 1. Klasse-Upgrade in Kombination mit den folgenden 2. Klasse-Tic
 
 Ja. Das 1. Klasse Upgrade ist in Kombination mit einer BahnCard 100 der 2. Klasse gültig. Geben Sie diese gerne bei der Suchanfrage an. Bitte nutzen Sie zur Buchung den Buchungsweg via Reiseauskunft
 
-[Jetzt zum 1. Klasse-Upgrade in der Reiseauskunft Weitere Informationen: Jetzt zum 1. Klasse-Upgrade in der Reiseauskunft](https://www.bahn.de/buchung/intern/start#?KL=1&ET=UPGRADE_1KLASSE_AUTONOM)
+[Jetzt zum 1. Klasse-Upgrade in der Reiseauskunft](https://www.bahn.de/buchung/intern/start#?KL=1&ET=UPGRADE_1KLASSE_AUTONOM)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-das-1-klasse-upgrade-in-kombination-mit-einer-bahncard-100-gueltig)
 
@@ -74,7 +74,7 @@ Das 1. Klasse Upgrade kann vor dem 1. Geltungstag kostenfrei storniert werden. A
 
 Nein. Sie können ein 1. Klasse-Upgrade nicht mehr beim Zugbegleiter kaufen. Bitte nutzen Sie die Buchungswege, die auf der folgenden Seite beschrieben werden:
 
-* [Mehr zu den Buchungsmöglichkeiten des 1. Klasse-Upgrades Weitere Informationen: Mehr zu den Buchungsmöglichkeiten des 1. Klasse-Upgrades](https://www.bahn.de/angebot/zusatzticket/erste-klasse-upgrade)
+* [Mehr zu den Buchungsmöglichkeiten des 1. Klasse-Upgrades](https://www.bahn.de/angebot/zusatzticket/erste-klasse-upgrade)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-1-klasse-upgrade-weiterhin-beim-zugbegleiter-erwerben)
 

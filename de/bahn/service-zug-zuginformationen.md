@@ -41,7 +41,7 @@ Häufig gestellte Fragen zu Fahrtinformationen
 
 Den Wagenreihungsplan in digitaler Form finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails.
 
-* [So funktioniert die Wagenreihung Weitere Informationen: So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
+* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-wagenreihungsplan)
 
@@ -49,7 +49,7 @@ Den Wagenreihungsplan in digitaler Form finden Sie am Reisetag in der App DB Nav
 
 Die aktuelle Wagenreihung finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails. So wissen Sie direkt vor der Ankunft Ihres ICE, IC oder EC, in welchem Bereich des Gleises Ihr Wagen halten wird.
 
-* [So funktioniert die Wagenreihung Weitere Informationen: So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
+* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sehe-ich-wo-der-zug-am-gleis-haelt)
 

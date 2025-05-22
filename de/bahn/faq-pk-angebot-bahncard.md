@@ -6,9 +6,9 @@ Häufige Fragen zu "BahnCard"
 
 Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard 50.
 
-* [Weitere Informationen zur BahnCard Weitere Informationen: Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
+* [Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
 
-[Weitere Informationen zum Flexpreis Weitere Informationen: Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
+[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -22,7 +22,7 @@ Ja.
 Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard 50 auf den deutschen Streckenanteil.
 Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattiert (ausgenommen Frankreich). Inhabende einer BahnCard 100 können für Fahrten im grenzüberschreitenden Kooperationsverkehr nach Frankreich relationsabhängige Festpreise nutzen.
 
-[Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -33,7 +33,7 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
 
 Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewährt werden.
 
-[Weitere Informationen zum Super Sparpreis Gruppe Weitere Informationen: Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
+[Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
@@ -44,7 +44,7 @@ Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewä
 
 Nein, Sie bekommen keinen BahnCard-Rabatt kann bei einer Buchung der Gruppenangebote.
 
-[Weitere Informationen zum Sparpreis Gruppe Weitere Informationen: Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
+[Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
@@ -75,7 +75,7 @@ Das ist möglich. Bitte beachten Sie: Das Erteilen des SEPA-Lastschriftmandats i
 
 Rufen Sie bei weiteren Fragen an unter [030 2970](tel:030 2970) oder nutzen Sie das Kontaktformular.
 
-* [Zum Kontaktformular Weitere Informationen: Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahncard-mahnung)
+* [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahncard-mahnung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-mahnung-sepa)
 
@@ -93,7 +93,7 @@ Rufen Sie bei weiteren Fragen an unter [030 2970](tel:030 2970) oder nutzen Si
 
 Verwalten Sie mit den BahnCard Services Ihre BahnCard und profitieren Sie von den digitalen Services. Zum Beispiel können Sie Rechnungen anfordern oder Ihre BahnCard 25/50 kündigen.
 
-[BahnCard verwalten Weitere Informationen: BahnCard verwalten](https://www.bahn.de/link_bc-selfservices)
+[BahnCard verwalten](https://www.bahn.de/link_bc-selfservices)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-brauche-ich-die-bahncard-services)
 
@@ -111,7 +111,7 @@ So kündigen Sie online:
 
 Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
 
-[Zum Kundenkonto Weitere Informationen: Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
+[Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-bahncard-kuendigen)
 
@@ -152,7 +152,7 @@ So kündigen Sie am einfachsten:
 
 Für die Probe BahnCard 100 ist keine Kündigung notwendig. Sie endet am letzten Geltungstag automatisch.
 
-[Zum Kundenkonto Weitere Informationen: Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
+[Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-meine-probe-bahncard-kuendigen)
 
@@ -247,7 +247,7 @@ Loggen Sie sich bitte in Ihr Kundenkonto ein. Gehen Sie im Bereich "BahnCards od
 
 Benötigen Sie Unterstützung bei der Nutzung der digitalen BahnCard? Weitere Informationen finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
-[Zum Login Weitere Informationen: Zum Login](https://www.bahn.de/link_bc-selfservices)
+[Zum Login](https://www.bahn.de/link_bc-selfservices)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-bereits-ein-kundenkonto-aber-meine-bahncard-wird-nicht-angezeigt)
 
@@ -290,7 +290,7 @@ Loggen Sie sich mit Ihrem Kundenkonto in der App DB Navigator ein. Ihre [digita
 
 Mit einer BahnCard 1. Klasse erhalten Sie den BahnCard Rabatt auch in der 2. Klasse. Sie erhalten aber mit einer BahnCard 2. Klasse keinen Rabatt für Fahrkarten in der 1. Klasse.
 
-[Zur Buchung Weitere Informationen: Zur Buchung](https://www.bahn.de/link_verbindungssuche)
+[Zur Buchung](https://www.bahn.de/link_verbindungssuche)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-einer-bahncard-1kl-auch-tickets-fuer-die-2kl-buchen)
 
@@ -623,7 +623,7 @@ Nutzen Sie für die Online-Kündigung einfach Ihr Kundenkonto:
 
 [Rückfragen zum Abo](https://www.bahn.de/hilfe#/bahncard)
 
-[Zum Kundenkonto Weitere Informationen: Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
+[Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laeuft-die-senioren-bahncard-in-ein-abo-ueber)
 
@@ -885,7 +885,7 @@ Die Probe BahnCard 100 gilt für beliebig viele Fahrten bundesweit in allen Züg
 
 Außerdem ist seit dem 1. Mai 2023 das Deutschland-Ticket unentgeltlich in die BahnCard 100 integriert. Somit kann zusätzlich zum Leistungsumfang der BahnCard 100 mit City-Ticket der gesamte öffentlichen Nahverkehr (insbesondere auch Busse, U- und Straßenbahnen) im Geltungsbereich des Deutschland-Tickets bundesweit genutzt werden.
 
-[Weitere Informationen zum Deutschland-Ticket Weitere Informationen zum Deutschland-Ticket](https://next.bahn.de/angebot/regio/deutschland-ticket)
+[Weitere Informationen zum Deutschland-Ticket](https://next.bahn.de/angebot/regio/deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-kann-ich-die-probe-bahncard-100-nutzen)
 
@@ -927,7 +927,7 @@ Die Probe BahnCard 100 endet am letzten Gültigkeitstag und verlängert sich nic
 
 Die Probe BahnCard 100 ist online erhältlich und darüber hinaus in den Reisezentren und Agenturen der Deutschen Bahn.
 
-* [BahnCard 100 - jetzt bestellen BahnCard 100 - jetzt bestellen](https://www.bahn.de/angebot/bahncard/bahncard100)
+* [BahnCard 100 - jetzt bestellen](https://www.bahn.de/angebot/bahncard/bahncard100)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-probe-bahncard-100)
 
@@ -951,7 +951,7 @@ Wenn die BahnCard auf der gewünschten Verbindung anerkannt wird, wird der Rabat
 
 Einen Link zu den Tarif- und Beförderungsbedingungen der jeweiligen Verbünde und Landestarife finden Sie unter
 
-* [bahn.de/agb Weitere Informationen: bahn.de/agb](https://www.bahn.de/agb)
+* [bahn.de/agb](https://www.bahn.de/agb)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-kann-ich-die-bahncard-50-nutzen)
 
@@ -1080,7 +1080,7 @@ Inhaber:innen einer BahnCard 50 können im Aktionszeitraum 01. Mai bis 30. Septe
 * Sie wird bei vielen Verkehrsverbünden, in Bussen und bei Privatbahnen akzeptiert.
 * Das Deutschland-Ticket ist kostenfrei in die BahnCard 100 integriert. Damit kann der gesamte öffentliche Nahverkehr bundesweit genutzt werden.
 
-* [Weitere Informationen zum Deutschlandticket Weitere Informationen zum Deutschlandticket](https://www.bahn.de/angebot/regio)
+* [Weitere Informationen zum Deutschlandticket](https://www.bahn.de/angebot/regio)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-kann-ich-die-bahncard-100-nutzen)
 
@@ -1251,7 +1251,7 @@ Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutze
 * DB Reisezentrum
 * DB Agenturen
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 

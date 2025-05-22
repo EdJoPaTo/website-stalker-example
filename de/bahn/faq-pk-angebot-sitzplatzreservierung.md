@@ -6,7 +6,7 @@ Häufige Fragen zu "Sitzplatzreservierung"
 
 Nein, beim Normalpreis ist keine Sitzplatzreservierung enthalten.
 
-[Weitere Informationen zum Normalpreis Weitere Informationen: Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
+[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -17,7 +17,7 @@ Nein, beim Normalpreis ist keine Sitzplatzreservierung enthalten.
 
 Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
 
-[Weitere Informationen zum Normalpreis Europa Weitere Informationen: Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
+[Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -28,7 +28,7 @@ Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
 
 Eine Sitzplatzreservierung ist beim Sparpreis Europa und Super Sparpreis Europa nicht automatisch enthalten, kann aber separat gebucht werden.
 
-* [Mehr zur Sitzplatzreservierung Weitere Informationen: Mehr zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung)
+* [Mehr zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-eine-sitzplatzreservierung-im-sparpreis-europa-ticket-enthalten)
 
@@ -50,7 +50,7 @@ Bitte achten Sie darauf, dass Sie in reservierungspflichtigen Zügen nicht ohne 
 
 Eine Sitzplatzreservierung ist nicht automatisch mit dabei. Sie kann allerdings separat gebucht werden.
 
-[Weitere Informationen zum Super Sparpreis Senioren Weitere Informationen: Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
+[Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
@@ -61,7 +61,7 @@ Eine Sitzplatzreservierung ist nicht automatisch mit dabei. Sie kann allerdings 
 
 Eine Sitzplatzreservierung ist nicht automatisch mit dabei. Sie kann allerdings separat gebucht werden.
 
-[Weitere Informationen zum Sparpreis Senioren Weitere Informationen: Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
+[Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
@@ -73,7 +73,7 @@ Eine Sitzplatzreservierung ist nicht automatisch mit dabei. Sie kann allerdings 
 * **2. Klasse:** Die Fahrkarte enthält keine Sitzplatzreservierung. Diese können Sie zusammen mit der Fahrkarte oder später separat kaufen.
 * **1. Klasse:** In der 1. Klasse ist eine Sitzplatzreservierung automatisch beim Fahrkartenkauf inklusive.
 
-[Weitere Informationen zum Flexpreis Weitere Informationen: Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
+[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -94,7 +94,7 @@ Wenn Sie im Ausland umsteigen, bezahlen Sie für die nachfolgenden Züge in der 
 **Reservierungspflichtige Züge:**
 Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung kostenfrei bei der Buchung der Fahrkarte. Wenn Sie die Reservierung nachträglich kaufen, zahlen Sie den Preis für die normale Sitzplatzreservierung.
 
-[Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -111,7 +111,7 @@ In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservie
 
 Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können, auch wenn Sie bereits eine Flexpreis-Fahrkarte inklusive Reservierung für einen anderen Zug haben.
 
-[Weitere Informationen zum Flexpreis Europa Weitere Informationen: Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
@@ -137,7 +137,7 @@ Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservieru
 * Beim Kauf eines Gruppen-Tickets (Sparpreis Gruppe) im Preis enthalten
 * Reservierungen für Kleinkinder sind optional und können hinzu gebucht werden
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -150,8 +150,8 @@ Nein. Sie können Ihre Sitzplatzreservierung nicht umbuchen oder umtauschen. Wen
 
 Ändert sich Ihre gebuchte ICE-Verbindung oder wird ein anderer Zug bereitgestellt, versuchen wir, Ihre Sitzplatzreservierung umzubuchen. Sie werden dann über die neue Reservierung informiert.
 
-* [Mehr zur automatischen Umbuchung von Reservierungen im ICE Weitere Informationen: Mehr zur automatischen Umbuchung von Reservierungen im ICE](https://www.bahn.de/service/informationen-buchung/sitzplatz)
-* [So buchen Sie nur einen Sitzplatz Weitere Informationen: So buchen Sie nur einen Sitzplatz](https://www.bahn.de/faq/sitzplatzreservierung-fv-ohne-ticket)
+* [Mehr zur automatischen Umbuchung von Reservierungen im ICE](https://www.bahn.de/service/informationen-buchung/sitzplatz)
+* [So buchen Sie nur einen Sitzplatz](https://www.bahn.de/faq/sitzplatzreservierung-fv-ohne-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-sitzplatzreservierung-umbuchen-oder-umtauschen)
 
@@ -160,7 +160,7 @@ Nein. Sie können Ihre Sitzplatzreservierung nicht umbuchen oder umtauschen. Wen
 
 Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreservierungen. Bei reservierungspflichtigen Zügen gibt es **keine** kostenfreie Anschlussreservierung.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -171,7 +171,7 @@ Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreser
 
 Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfrei - wenn sie aber einen garantierten Sitzplatz haben möchten, müssen Sie für diese eine kostenpflichtige Reservierung buchen. Falls die Familienreservierung das günstigere Angebot für Sie ist, zeigen wir Ihnen automatisch diese an.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -182,7 +182,7 @@ Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfr
 
 Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Flexpreis des Fernverkehrs (ICE, IC, EC).
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -211,7 +211,7 @@ Sie können für Ihre Fahrt im Fernverkehr **eine Fahrkarte mit oder ohne Sitzpl
 
 Für Kund:innen der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets eine Sitzplatzreservierung automatisch enthalten.**
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -243,7 +243,7 @@ Sie können auch direkt auf der Startseite der App DB Navigator oben links im Dr
 
 **Hinweis**: Die Sitzplatzreservierung wird als separater Auftrag angelegt. Falls Sie Änderungen an Ihrem Bahnticket vornehmen, werden diese nicht automatisch für die Sitzplatzreservierung übernommen.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -263,7 +263,7 @@ Im ICE 3neo:
   * **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem zukünftigen Halt gibt.
   * **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -278,7 +278,7 @@ Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit F
 * **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem der nächsten Halte gibt.
 * **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -293,7 +293,7 @@ Nachdem Sie den Komfort Check-in genutzt haben, ändert sich der Text auf der Re
 
 Die Belegt-Anzeige bleibt bis kurz vor Ihrem Ausstieg sichtbar. Diese Funktion ist noch nicht in allen Zügen verfügbar.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -310,7 +310,7 @@ Ja, bei vielen ICE-Verbindungen können Sie Ihren Wunschplatz über die grafisch
 * Ihnen werden gemäß Ihrer Angaben (Sitzplatz-Vorlieben, Anzahl der Personen) geeignete Sitzplätze vorgeschlagen.
 * Wenn keine passenden Sitzplätze verfügbar sind, werden Ihnen Alternativplätze angeboten.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -330,7 +330,7 @@ Sollte sich an Ihrer gebuchten ICE-Verbindung etwas ändern oder ein anderer Zug
 
 Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Sitzplatzreservierung buchen. Eine Schritt-für-Schritt-Anleitung finden Sie unter
 
-* [Kleinkindabteil in unseren ICEs. Kleinkindabteil in unseren ICEs.](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
+* [Kleinkindabteil in unseren ICEs.](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-das-kleinkindabteil-reservieren)
 
@@ -349,7 +349,7 @@ Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Si
 1. Geben Sie in der Reisesuche Ihre gewünschte Verbindung an.
 2. Klicken Sie auf "Nur Sitzplatz buchen". So kommen Sie automatisch in den richtigen Buchungsablauf.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -372,7 +372,7 @@ Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutze
 * DB Reisezentrum
 * DB Agenturen
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -389,7 +389,7 @@ Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutze
 * Die Bezahlung der gewählten Reservierung/-en erfolgt online über die Webseite [www.meinsitzplatz-regio.de](https://www.mein-sitzplatz-regio.de/).
 * Wichtig ist die Gültigkeit der Reservierung nur im Zusammenhang mit einer gültigen Fahrkarte.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -400,7 +400,7 @@ Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutze
 
 Die Wagen mit Reservierungsbereich sind von außen gekennzeichnet. Im Wagen lotsen Sie Aufkleber zum Reservierungsbereich in der ersten oder zweiten Klasse.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -413,7 +413,7 @@ Die Wagen mit Reservierungsbereich sind äußerlich gekennzeichnet. Im Wagen lot
 
 Bitte beachten Sie, dass Sie für die Reservierung eines Platzes in der 1. Klasse auch eine Fahrtberechtigung 1. Klasse benötigen.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -490,7 +490,7 @@ RE 83 (Kiel Hbf - Lübeck Hbf - Lüneburg)
 RB 84 (Kiel Hbf - Lübeck Hbf)
 RB 85 (Lübeck Hbf - Puttgarden)
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -501,7 +501,7 @@ RB 85 (Lübeck Hbf - Puttgarden)
 
 Sie können je Fahrtrichtung und Zielbahnhof einen Sitzplatz reservieren. Ganz nach Ihren Fahrgewohnheiten wählen Sie, wann Sie den gewünschten Zug nutzen möchten.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -514,7 +514,7 @@ Ihre Sitzplatzreservierung für den Nahverkehr gilt für den angegebenen Buchung
 
 Sollten sich beim Fahrplanwechsel die Fahrtzeiten ändern, melden Sie sich einfach mit Ihren Login-Daten an, überprüfen Ihre vorhandene Reservierung und passen sie an die neuen Fahrzeiten an.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -525,7 +525,7 @@ Sollten sich beim Fahrplanwechsel die Fahrtzeiten ändern, melden Sie sich einfa
 
 Sie können auf Ihrer Verbindung von montags bis freitags einen Platz reservieren. Ausgenommen sind bundesweite Feiertage. Wenn Sie es wünschen, können Sie am Freitag eine Rückfahrt auswählen, die von den anderen Wochentagen abweicht.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -536,7 +536,7 @@ Sie können auf Ihrer Verbindung von montags bis freitags einen Platz reserviere
 
 Sie können Ihre Reservierung jederzeit eigenständig ändern. Melden Sie sich einfach mit Ihren LoginDaten an und Stornieren Sie die vorhandene Reservierung. Sie können jetzt eine neue Reservierung ausführen.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -547,7 +547,7 @@ Sie können Ihre Reservierung jederzeit eigenständig ändern. Melden Sie sich e
 
 Abo-Kund:innen der Deutschen Bahn mit einer gültigen Abo-Monatskarte, einem DB- oder Verbund-Abo können die Dauerreservierung auf den angebotenen Strecken buchen.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -567,7 +567,7 @@ Die Anzahl der reservierten Plätze ist begrenzt. Daher bitten wir Sie um Verst�
 
 Haben Sie die Möglichkeit, einen Zug früher oder später zu fahren? Dann reservieren Sie sich vielleicht dort einen Sitzplatz. Immer wieder ändern Stammkunden Ihre Reservierung. Hierdurch werden auch immer wieder Plätze frei, welche Sie dann reservieren können. Es kann sich also lohnen, immer mal wieder auf der Webseite vorbei zu schauen.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -578,7 +578,7 @@ Haben Sie die Möglichkeit, einen Zug früher oder später zu fahren? Dann reser
 
 Bei Verbindungen mit Umstieg werden die Reservierungen für die aufeinanderfolgenden Züge getrennt vorgenommen. Um die Züge auszuwählen, wird jeder Abschnitt bis/ab Umstiegsbahnhof als eigene Reservierung eingegeben.
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -616,7 +616,7 @@ Den Antrag auf Rückzahlung reichen Sie formlos schriftlich über das Servicecen
 
 Entschädigungsbeträge von unter 4 Euro können nicht ausgezahlt werden. Sie können aber mehrere Rückzahlungsanträge gesammelt einreichen, um über den Schwellwert zu kommen.
 
-[Weitere Informationen sowie das Fahrgastrechte-Formular finden Sie hier Weitere Informationen sowie das Fahrgastrechte-Formular finden Sie hier](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+[Weitere Informationen sowie das Fahrgastrechte-Formular finden Sie hier](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-konnte-meinen-dauerhaft-reservierten-sitzplatz-nicht-in-anspruch-nehmen-was-tue-ich)
 
@@ -629,7 +629,7 @@ Die dauerhafte Sitzplatzreservierung
 * Gilt für eine bestimmte Verbindung der Hin- bzw. Rückfahrt
 * Freitags kann eine abweichende Rückfahrt-Verbindung gewählt werden
 
-[Weitere Informationen zur Dauerreservierung im Nahverkehr Weitere Informationen: Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
 [Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
@@ -688,7 +688,7 @@ Eine Änderung einer bereits gebuchten Reservierung ist im Nachhinein nicht mehr
 * Sollte der Fall eintreten, dass die Reservierung auf Grund von Bahnverschulden (Ausfall des Zuges, fehlender Wagen, o.ä.) nicht genutzt werden konnte, haben Sie Anspruch auf Rückzahlung von 1,00 € je ungenutzter Reservierung.
 * Die Rückzahlung erfolgt auf Ihren Antrag beim **Service Center Fahrgastrechte**. Detaillierte Informationen zu Ihren Fahrgastrechten und wie Sie Ihre Entschädigung beantragen können finden Sie unter [Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte).
 
-* [Fahrgastrechte Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-konnte-meinen-sitzplatz-im-nahverkehr-nicht-in-anspruch-nehmen-was-tue-ich)
 
@@ -839,7 +839,7 @@ Im Ersatzzug wird diese Strecke an Ihrem neu zugeteilten Sitzplatz im Reservieru
 
 Ja, das geht. Nutzen Sie dafür entweder die App DB Navigator oder besuchen Sie bahn.de. Dort wählen Sie Ihre Verbindung aus und buchen die gewünschte Sitzplatzreservierung nachträglich.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -850,7 +850,7 @@ Ja, das geht. Nutzen Sie dafür entweder die App DB Navigator oder besuchen Sie 
 
 Sitzplatzreservierungen sind nicht personalisiert. Sie können die Reservierung buchen und den Beleg per E-Mail an die betreffende Person senden.
 
-[Weitere Informationen zur Sitzplatzreservierung Weitere Informationen: Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
@@ -875,7 +875,7 @@ Ihre Sitzplatzreservierung ist im Ersatzzug nicht automatisch gültig. Ist der E
 
 Weitere Informationen dazu finden Sie hier:
 
-* [Mehr zu Umtausch & Stornierung Weitere Informationen: Mehr zu Umtausch & Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Mehr zu Umtausch & Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-mit-meiner-sitzplatzreservierung-wenn-es-einen-ersatzzug-gibt)
 

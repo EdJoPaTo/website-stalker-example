@@ -39,8 +39,8 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
 * Nutzen Sie die Funktion „Abo kündigen“ im DB Navigator unterhalb Ihres Handy-Tickets.
 * Alternativ: Nutzen Sie das Kündigungsformular.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/portal/#/)
-* [Zum Kündigungsformular Weitere Informationen: Zum Kündigungsformular](https://www.bahn.de/kontakt/kuendigungsformular)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Kündigungsformular](https://www.bahn.de/kontakt/kuendigungsformular)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen)
 
@@ -53,7 +53,7 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
 
 Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
 
-* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB) Download der Datei: Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
+* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
@@ -69,7 +69,7 @@ Sie haben zwei Möglichkeiten:
 
 So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
 
-* [Alle Infos zu den Deutschland-Ticket-Filtern Zur Seite Deutschland-Ticket-Filter](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
+* [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
 
@@ -91,7 +91,7 @@ Ja, Sie können für den Kauf des Deutschland-Tickets monatlich BahnBonus Punkte
 * Sie können keine BahnBonus Punkte sammeln, wenn Sie das Ticket bei Verkehrsverbünden oder in DB Reisezentren kaufen.
 * Sie müssen bei BahnBonus angemeldet sein, um Punkte zu erhalten.
 
-* [Zu BahnBonus anmelden Zur Site BahnBonus-Anmeldung auf bahn.de](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
+* [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
 
@@ -101,9 +101,9 @@ Die verschiedenen Angebote zu Verbundabonnements finden Sie auf bahn.de/pendler 
 
 Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der geltenden Kündigungsfristen, über das Aboportal oder im DB Navigator kündigen.
 
-* [Zum Aboportal Weitere Informationen: Zum Aboportal](https://abo.bahn.de/#/)
-* [bahn.de/pendler Weitere Informationen: bahn.de/pendler](https://www.bahn.de/angebot/pendler)
-* [Zur Reiseauskunft Weitere Informationen: Zur Reiseauskunft](https://www.bahn.de/buchung/start)
+* [Zum Aboportal](https://abo.bahn.de/#/)
+* [bahn.de/pendler](https://www.bahn.de/angebot/pendler)
+* [Zur Reiseauskunft](https://www.bahn.de/buchung/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-wechsel)
 
@@ -120,7 +120,7 @@ Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der gelte
 
 Weitere Fragen und Antworten zum Deutschland-Ticket finden Sie in unseren FAQ.
 
-* [Weitere FAQ zum Deutschland-Ticket Weitere Informationen: Weitere FAQ zum Deutschland-Ticket](https://bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket)
+* [Weitere FAQ zum Deutschland-Ticket](https://bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-faq)
 
