@@ -142,4 +142,4 @@ Halten Sie sich immer an die Verkehrsregeln, tragen Sie bei Bedarf einen Helm un
 
 Sorgfältig parken
 
-Parken Sie Ihr Fahrrad an bestimmten virtuellen Hubs und stellen Sie sicher, dass es sicher ist und keine Wege oder Eingänge blockiert. (Siehe Hubs in der App)
+Parken Sie Ihr Fahrrad an bestimmten rückgaben und stellen Sie sicher, dass es sicher ist und keine Wege oder Eingänge blockiert. (Siehe rückgaben in der App)

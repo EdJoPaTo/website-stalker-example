@@ -44,6 +44,10 @@ Browse our range
 
 [StarBook €13,37 Ships 1 - 2 business days](/products/starbook)
 
+[](/products/starfighter)
+
+[StarFighter €13,37 Ships 56 - 57 business days](/products/starfighter)
+
 More than just a licence.
 
  A machine you can craft to suit your workflow with our ever-evolving open-source code, that's upstreamed and tuned to perfection. Combined with our unbeatable support, the experience will exceed expectations.
