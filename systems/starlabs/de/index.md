@@ -49,9 +49,3 @@ More than just a licence.
  A machine you can craft to suit your workflow with our ever-evolving open-source code, that's upstreamed and tuned to perfection. Combined with our unbeatable support, the experience will exceed expectations.
 
 [Why choose us?](/pages/why-choose-us)
-
-Your way.
-
- Our hardware and firmware are highly customisable. Your laptop will arrive precisely the way you want it, with your chosen distribution pre-installed.
-
-[Explore](/pages/distributions)

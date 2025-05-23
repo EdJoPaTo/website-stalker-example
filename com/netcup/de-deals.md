@@ -71,10 +71,10 @@ Zufriedenheitsgarantie
 
 Solltest du mit deinem Webhosting- oder Root-Server-Produkt nicht zufrieden sein, kannst du diese innerhalb von 30 Tagen nach der Bestellung zurückgeben und du erhältst die komplette Grundgebühr (Preis pro Monat mal Abrechnungsperiode) zurückerstattet.
 
-Ökostrom
+Digital souverän
 ----------
 
-Wir setzen auf umweltfreundliche Technologien durch die Nutzung von Ökostrom aus Wasserkraft und energieeffizienter Hardware. Durch den Einsatz stromsparender Prozessoren und andere optimierte Komponenten wird weiterer Stromverbrauch und Kosten reduziert.
+Für netcup ist digitale Souveränität kein Trend, sondern **Teil einer strategischen Grundhaltung.** Es geht darum, langfristig stabile, sichere und transparente digitale Infrastrukturen zu schaffen – sowohl für private Anwendungen als auch für Unternehmen und Entwickler.
 
 Kosteneffizienz
 ----------
