@@ -117,6 +117,61 @@ Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reser
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-flexpreis-europa)
 
+ Warum gibt es eine Reservierungspflicht für viele Verbindungen im grenzüberschreitenden Verkehr?
+----------
+
+In den Sommermonaten sind die internationalen Züge erfahrungsgemäß sehr hoch ausgelastet. Mit der internationalen Reservierungspflicht, die in einigen internationalen Verkehren sogar ganzjährig besteht, bieten wir Ihnen eine zuverlässige und komfortable Reise.
+
+Die Reservierungspflicht gilt im Verkehr nach Dänemark und in die Niederlande vom 28.05.2025 bis einschließlich 31.08.2025. Nach Tschechien besteht die internationale Reservierungspflicht vom 15.06.2025 bis einschließlich 31.08.2025. Dies gilt jerweils für alle im Fahrplan als reservierungspflichtig gekennzeichneten Züge.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-grund)
+
+ Für welchen Zeitraum gilt die Reservierungspflicht für internationale Verbindungen?
+----------
+
+Die Reservierungspflicht gilt im Verkehr nach Dänemark und in die Niederlande vom 28.05.2025 bis einschließlich 31.08.2025. Nach Tschechien besteht die internationale Reservierungspflicht vom 15.06.2025 bis einschließlich 31.08.2025.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-zeitraum)
+
+ Ich reise nur innerhalb Deutschlands, brauche ich trotzdem eine Sitzplatzreservierung?
+----------
+
+Nein, die Reservierungspflicht gilt nur für grenzüberschreitende Reisen. Innerhalb Deutschlands besteht keine Reservierungspflicht.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-innerhalb-deutschlands)
+
+ Ich habe meinen gebuchten Anschlusszug nicht erreicht und fahre mit dem nächsten Zug. Brauche ich eine neue Sitzplatzreservierung?
+----------
+
+Ja, für reservierungspflichtige Züge ist immer eine Sitzplatzreservierung erforderlich. Deshalb müssen Sie eine neue Reservierung buchen, wenn sie einen anderen Zug nutzen. Ihre nicht in Anspruch genommene Sitzplatzreservierung können Sie im Nachgang im Servicecenter Fahrgastrechte oder bei einer DB-Verkaufsstelle zur Erstattung einreichen. Weitere Informationen unte [bahn.de/fahrgastrechte.](https://bahn.de/fahrgastrechte)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-anschlusszug)
+
+ Muss ich für die Reservierung eines reservierungspflichtigen Zuges extra zahlen?
+----------
+
+Nein, im Rahmen der Reservierungspflicht ist die Sitzplatzreservierung bei gleichzeitiger Buchung einer Fahrkarte im Ticket kostenfrei inkludiert. Nur bei nachträglicher Buchung einer Reservierung ist diese kostenpflichtig.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-entgelt)
+
+ Ich möchte mit einem anderen Zug reisen als ursprünglich geplant war und auf meinem Ticket vermerkt ist. Kann ich die Reservierung umbuchen?
+----------
+
+Sitzplatzreservierungen können nicht storniert oder umgebucht werden.
+
+Mit einem flexiblen Ticket ohne Zugbindung (z. B. Flexpreis Europa), können Reisende einen anderen als den ursprünglich gebuchten Zug nutzen. In diesem Fall muss eine neue Sitzplatzreservierung kostenpflichtig erworben werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-umbuchung)
+
+ Ich habe einen Interrail-/Eurail-Pass. Brauche ich zusätzlich eine Sitzplatzreservierung?
+----------
+
+Ja, auch Pass-Reisende benötigen - neben ihrem Interrail/Eurail-Pass - für die reservierungspflichtigen Züge im internationalen Verkehr eine kostenpflichtige Reservierung.
+
+Wir empfehlen Ihnen eine frühzeitige Reiseplanung und Reservierung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-paesse)
+
  Was kostet eine Sitzplatzreservierung im Fernverkehr?
 ----------
 
