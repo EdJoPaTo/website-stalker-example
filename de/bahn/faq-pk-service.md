@@ -1652,8 +1652,8 @@ Aktuelle Alternativen sind alternative Verbindungen für Züge, deren Fahrtzeite
 ----------
 
 * Eine aktuelle Alternative ist eine Verbindung, die es im normalen Fahrplan so nicht gibt.
-* Eine aktuelle Alternative gibt Ihnen z.B. bei Verspätungen oder Ausfällen eine Alternativ-Verbindung. Diese Verbindung soll sie möglichst schnell und komfortabel oder überhaupt ans Ziel bringen.
-* Eine aktuelle Alternative kann beim nächsten Klick "verschwunden" sein und wird nicht mehr angezeigt, weil sich Änderungen ergeben haben.
+* Eine aktuelle Alternative gibt Ihnen z.B. bei Verspätungen oder Ausfällen eine Alternativ-Verbindung. Diese Verbindung soll Sie möglichst schnell und komfortabel oder überhaupt ans Ziel bringen.
+* Eine aktuelle Alternative wird beim nächsten Klick eventuell nicht mehr angezeigt, weil sich Änderungen ergeben haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-aktuelle-alternative)
 
@@ -1661,7 +1661,7 @@ Aktuelle Alternativen sind alternative Verbindungen für Züge, deren Fahrtzeite
 ----------
 
 * Sie sehen aktuelle Alternativen 72 Stunden vor Abfahrt in der Reiseauskunft. Sie können die Alternativen ab dann auch als Online- oder Handy-Tickets buchen.
-* Als Flexpreis-Tickets können Sie diese auch noch bis 3 Minuten geplanten Abfahrtszeit des Zuges buchen.
+* Als Flexpreis-Tickets können Sie diese auch noch bis 3 Minuten vor der geplanten Abfahrtszeit des Zuges buchen.
 * Auf den Tickets steht ein Hinweis, dass es sich um eine "Aktuelle Alternative" handelt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-ab-und-bis-wann-ticket-aktuelle-alternative-buchen)
