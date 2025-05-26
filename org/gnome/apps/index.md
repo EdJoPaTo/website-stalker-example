@@ -3,7 +3,7 @@ Apps for GNOME
 
  Discover the best applications in the GNOME ecosystem and learn how to get involved.
 
-Apps featured in this curated overview are all built with the GNOME philosophy in mind. They are easy to understand and simple to use, feature a consistent and polished design and provide a noticeable attention to details. Naturally, they are [free software](https://fsfe.org/freesoftware/) and have committed to being part of a [welcoming and friendly community](https://wiki.gnome.org/Foundation/CodeOfConduct). These apps will perfectly integrate with your [GNOME Desktop](https://www.gnome.org/).
+Apps featured in this curated overview are all built with the GNOME philosophy in mind. They are easy to understand and simple to use, feature a consistent and polished design and provide a noticeable attention to details. Naturally, they are [free software](https://fsfe.org/freesoftware/) and have committed to being part of a [welcoming and friendly community](https://conduct.gnome.org/). These apps will perfectly integrate with your [GNOME Desktop](https://www.gnome.org/).
 
  Apps supported on GNOME mobile devices are marked with the mobile icon.
 
