@@ -5,7 +5,297 @@ netcup Deals
 
 Von 27. bis 30. Mai feiern wir Europa mit starken netcup-Angeboten für Server, Webhosting und Domains! Sichere dir Hosting mit europäischen Werten zu Top-Preisen.
 
-[Mehr Informationen](https://www.netcup.com/de/deals#infos)
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
+
+* Alle (0)
+
+VPS
+
+### VPS 1000 G11 SE ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 6,60 €
+
+* 4 vCore (x86)
+
+* 8 GB ECC RAM
+
+* 512 GB SSD (statt 256 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+5,75 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-mai25)
+
+VPS
+
+### VPS 4000 G11 SE ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 24,75 €
+
+* 12 vCore (x86)
+
+* 32 GB ECC RAM
+
+* 2 TB SSD (statt 1 TB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+21,50 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-mai25)
+
+Root-Server
+
+### RS 1000 G11 SE ###
+
+ \+ 100 % SSD / bis zu 27 % Rabatt
+
+statt bis zu 11,35 €
+
+* 4 vCore (dediziert)
+
+* 8 GB DDR5 ECC RAM
+
+* 512 GB NVMe (statt 256 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE, MNZ, VIE (limitiert)
+
+pro Monat
+
+8,24 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-1000-g11-se-nue-mai25)
+
+Root-Server
+
+### RS 2000 G11 SE ###
+
+ \+ 100 % SSD / bis zu 28 % Rabatt
+
+statt bis zu 19,59 €
+
+* 8 vCore (dediziert)
+
+* 16 GB DDR5 ECC RAM
+
+* 1 TB NVMe (statt 512 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE, MNZ, VIE (limitiert)
+
+pro Monat
+
+14,19 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-mai25)
+
+Root-Server
+
+### RS 4000 G11 SE ###
+
+ \+ 100 % SSD / bis zu 28 % Rabatt
+
+statt bis zu 36,63 €
+
+* 12 vCore (dediziert)
+
+* 32 GB DDR5 ECC RAM
+
+* 2 TB NVMe (statt 1 TB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE, MNZ, VIE (limitiert)
+
+pro Monat
+
+26,55 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-4000-g11-se-nue-mai25)
+
+Webhosting
+
+### Webhosting 2000 ###
+
+ 20% Rabatt
+
+statt 2,73 €
+
+* 3 .de-Domains oder 1 Alternativdomain inklusive
+
+* 150 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikat inklusive
+
+* Standorte: NUE | VIE
+
+pro Monat
+
+2,17 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-mai25)
+
+Webhosting
+
+### Webhosting 4000 ###
+
+ 42 % Rabatt
+
+statt 5,48 €
+
+* 6 .de-Domains oder 2 Alternativdomains inklusive
+
+* 500 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikat inklusive
+
+* Ruby und NodeJS
+
+* Standorte: NUE | VIE
+
+pro Monat
+
+3,16 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-mai25)
+
+Domains
+
+### .at Domain ###
+
+ 14 % Rabatt
+
+statt 0,88 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,72 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.at-domain-mai25)
+
+Domains
+
+### .ch Domain ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,50 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.ch-domain-mai25)
+
+Domains
+
+### .eu Domain ###
+
+ 46 % Rabatt
+
+statt 0,66 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,35 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.eu-domain-mai25)
+
+Domains
+
+### .li Domain ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,50 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.li-domain-mai25)
 
 ### **Das erwartet dich:** ###
 
