@@ -42,6 +42,10 @@ Cloud vLAN Medium 500 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Serve
 
 [pro Monat inkl. 0% MwSt. 6,71 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-medium)
 
+Cloud vLAN Giga 1 GbpsVirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server miteinander verbinden können.
+
+[pro Monat inkl. 0% MwSt. 10,91 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-giga)
+
 Cloud vLAN 2,5 Gbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
 [pro Monat inkl. 0% MwSt. 17,23 € Jetzt buchen! \>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-2-5-gbits)

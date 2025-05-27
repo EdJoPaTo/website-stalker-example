@@ -43,7 +43,7 @@ Unsere Preisgestaltung
 
 Fahr jetzt, zahle später! Mit den Pay-As-You-Go-Preisen von Donkey Republic zahlen Sie pro Minute umso weniger, je länger Sie fahren. Einfach, flexibel und perfekt für jedes Abenteuer!
 
-###  ###
+### Just Ride ###
 
 Pedal bikes
 
