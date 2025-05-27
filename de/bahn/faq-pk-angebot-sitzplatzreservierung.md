@@ -433,6 +433,18 @@ Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutze
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-kostenfreie-sitzplatzreservierung-fuer-inhaber-einer-bahncard-100-1-klasse)
 
+ Kann ich eine Erstattung für eine Sitzplatzreservierung erhalten, wenn ich sie nicht nutzen konnte?
+----------
+
+Ja. Sie können den Preis für die Sitzplatzreservierung in folgenden Fällen zurückverlangen:
+
+* Reservierte Sitzplätze konnten nicht zugeteilt oder bereitgestellt werden.
+* Sie konnten Ihre Plätze wegen Zugverspätung nicht einnehmen.
+
+Für die Rückerstattung des Reservierungsentgelts können Sie den Antrag formlos beim [Servicecenter Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/service-center) stellen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-erstattung)
+
  Wie funktioniert die Dauer-Sitzplatzreservierung im Nahverkehr?
 ----------
 
