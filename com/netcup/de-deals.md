@@ -9,34 +9,6 @@ Von 27. bis 30. Mai feiern wir Europa mit starken netcup-Angeboten für Server, 
 
 * Alle (0)
 
-Domains
-
- FLASH DEAL
-
-### .de Domain ###
-
- 69 % Rabatt
-
-statt 0,35 €
-
-* DNSSEC, API
-
-* 2 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-pro Monat dauerhaft
-
-0,11 €
-
-(inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.de-domain-mai25)
-
 VPS
 
 ### VPS 1000 G11 SE ###
