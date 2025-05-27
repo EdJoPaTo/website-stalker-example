@@ -5088,6 +5088,113 @@ Um das Kleinkindabteil bzw. den Familienbereich reservieren zu können, nutzen S
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-das-kleinkindabteil-nicht-bei-der-sitzplatzreservierung-angegeben-werden)
 
+ Muss ich ein Kind unter 6 Jahren bei der Buchung angeben?
+----------
+
+Kinder im Alter von 0 bis 5 Jahre fahren in den Fernverkehrszügen der Deutschen Bahn kostenfrei und müssen dafür auf der Fahrkarte nicht eingetragen werden. Wir empfehlen jedoch Kinder unabhängig des Alters anzugeben, da so eine Sitzplatzreservierung im Kleinkindabteil oder -bereich möglich ist. Die mitfahrenden Kinder werden erst ab 6 Jahre auf der Fahrkarte der Begleitperson aufgelistet.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-buchung-kinder-bis-5)
+
+ Wie verhält sich die kostenfreie Kindermitnahme bei Reisen in die Schweiz und nach Österreich?
+----------
+
+Bei Reisen mit einer grenzüberschreitenden Fahrkarte in die Schweiz oder nach Österreich fahren eigene Kinder oder Enkel bis einschließlich 5 Jahre kostenfrei mit, wenn sie gemeinsam mit Ihnen reisen. Ein nachträglicher Eintrag im Zug ist nicht möglich.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kindermatnahme-schweiz-oesterreich-kinder-bis-5)
+
+ Gelten für Fährfahrten unterschiedliche Altersgrenzen?
+----------
+
+Für Fährfahrten gelten unterschiedliche Altersgrenzen. Kinder müssen für die SEE-Strecken nach Hiddensee, Borkum und Helgoland sowie Küstenbuslinie Norden-Harlesiel den jeweils gültigen Preis für eine Kinderfahrkarte vor Ort bezahlen.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersgrenze-faehrfahrten-kinder-bis-5)
+
+ Darf die Begleitperson eines Kindes mit Behinderung kostenfrei mitreisen?
+----------
+
+Bei Kindern mit Behinderung im Alter von 0 bis 5 Jahren, in deren **Schwerbehindertenausweis** die Mitnahme einer Begleitperson und das **Merkzeichen "B"** vermerkt ist, darf die Begleitperson kostenlos fahren. Das Kind benötigt, da Kinder im Alter von 0 bis 5 Jahren grundsätzlich kostenfrei reisen, keine eigene Fahrkarte. Die Reise kann nach Wahl und Verfügbarkeit in der 1. oder 2. Klasse stattfinden. Die Reservierung für den Sitzplatz wird für das Kind und seine Begleitperson kostenfrei ausgegeben. Sie erhalten diese in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
+
+Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten können.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-bis-5)
+
+ Müssen mitreisende Kinder im Alter von 6-14 Jahren auf der Fahrkarte angegeben werden?
+----------
+
+**Kinder im Alter von 6 bis 14 Jahre** fahren in Begleitung von Reisenden ab 15 Jahre kostenfrei, müssen aber bei Buchung angegeben werden. Bis zu vier Kinder können pro Ticket mitfahren. Ein nachträglicher Eintrag im Zug ist nicht möglich.
+
+Bei Reisen ausschließlich im Nahverkehr gilt in der Regel eine kostenfreie Mitnahme für bis zu 3 Kinder. Bei Landes- und Verbundtarifen kann es Abweichungen von dieser Regelung geben.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-fahrkarte-kinder-6-14-jahre)
+
+ Gibt es Einschränkungen beim Onlineticket?
+----------
+
+Ein Online-Ticket bzw. Handy-Ticket kann für bis zu 5 Personen (maximal 4 Kinder) gebucht werden. Familien mit mehr Kindern im Alter von 6 bis einschließlich 14 Jahre erhalten im DB Reisezentrum die DB Familienkarte.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einschraenkung-onlineticket-6-14-jahre)
+
+ Reisen Kinder im Alter von 6-14 Jahren kostenfrei nach Österreich mit?
+----------
+
+Bei Reisen nach Österreich fahren Kinder im Alter von 6 bis einschließlich 14 Jahre kostenfrei mit. Sie müssen dabei ein grenzüberschreitendes Ticket lösen und die mitfahrenden Kinder müssen auf der Fahrkarte eingetragen sein.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-kindermitnahme-oesterreich-6-14-jahre)
+
+ Ist kostenfreie Kindermitnahme für Kinder bis 14 Jahre mit der BahnCard 100 möglich?
+----------
+
+Besitzer einer BahnCard 100 können bis zu 4 Kinder im Alter bis einschließlich 14 Jahre kostenfrei mitnehmen. Eine Sitzplatzreservierung ist jedoch kostenpflichtig.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-kindermitnahme-bc-6-14-jahre)
+
+ Darf die Begleitperson eines Kindes (ab 6 Jahre) mit Behinderung kostenfrei mitreisen?
+----------
+
+Bei Kindern mit Behinderung im Alter von 6 bis 14 Jahren, in deren Schwerbehindertenausweis die Mitnahme einer Begleitperson und das **Merkzeichen „B“** vermerkt ist, darf die Begleitperson kostenfrei mitfahren. Reisen das Kind und die Begleitperson in einem Zug des Fernverkehrs, dann benötigt das Kind eine Fahrkarte. Das Kind und die Begleitperson reisen in der beim Fahrkartenkauf für das Kind gewählten Klasse. Die Reservierung für den Sitzplatz wird für das Kind und seine Begleitperson kostenfrei ausgegeben. Sie erhalten diese in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
+
+Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten können.
+
+Reisen das Kind und die Begleitperson in einem Zug des Nahverkehrs und neben dem Schwerbehindertenausweis mit Merkzeichen „B“ liegt auch eine Wertmarke vor, dann dürfen das Kind und die Begleitperson kostenfrei fahren.
+
+Hier finden Sie weitere [Informationen für bearrierefreies Reisen](https://www.bahn.de/service/individuelle-reise/barrierefrei).
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-6-14-jahre)
+
+ Darf die Begleitperson eines Kindes (ab 6 Jahre) mit Behinderung kostenfrei mit ins Ausland reisen?
+----------
+
+Ist im **Schwerbehindertenausweis** die Mitnahme einer Begleitperson und das **Merkzeichen "B"** vermerkt, dann reist die Begleitperson kostenfrei. Für Reisen ins Ausland ist es erforderlich, dass für die Begleitperson eine kostenfreie Fahrkarte mit dem Vermerk „Begleiter“ ausgegeben wird. Diese erhalten Sie in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-6-14-jahre-ausland)
+
+ Gibt es einen Begleitservice für allein reisende Kinder?
+----------
+
+Wir arbeiten derzeit an bedarfsgerechten Begleitlösungen und informieren Sie umgehend, sobald neue Services zur Verfügung stehen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitservice-kinder)
+
  Gilt besondere Fürsorge- und Obhutspflicht für allein reisende Kinder?
 ----------
 
@@ -5101,13 +5208,6 @@ Ob ein Kind alleine reisen kann, entscheiden Sie als Erziehungsberechtigte aufgr
 Sollten DB Mitarbeitende während der Reise eine konkrete Gefahr für das Kind bzw. Dritte erkennen, werden sie selbstverständlich helfend tätig, indem sie beispielsweise den Kontakt zu den Eltern aufnehmen oder das Kind in die Obhut der Bundespolizei übergeben (Vgl. § 8 Abs. 2 EVO).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsbeduerftige-kinder)
-
- Gibt es einen Begleitservice für allein reisende Kinder?
-----------
-
-Wir arbeiten derzeit an bedarfsgerechten Begleitlösungen und informieren Sie umgehend, sobald neue Services zur Verfügung stehen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitservice-kinder)
 
  Ab welchem Alter darf ich alleine mit der Bahn ins Ausland fahren?
 ----------
