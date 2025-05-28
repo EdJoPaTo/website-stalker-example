@@ -95,12 +95,6 @@ Das kostenlose Infotainment-Angebot bietet Ihnen u.a. Filme, Serien und Nachrich
 
 [Das läuft im ICE Portal Das läuft im ICE Portal](https://www.bahn.de/service/zug/ice-portal)
 
-### Regio Guide ###
-
-Aktuelle Reiseinformationen, Unterhaltungsangebote und Nachrichten in Regionalzügen.
-
-[Regio Guide Zum Regio Guide](https://www.bahn.de/service/zug/regio-guide)
-
 Das könnte Sie auch interessieren
 ----------
 
