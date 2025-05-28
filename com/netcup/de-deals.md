@@ -11,6 +11,36 @@ Von 27. bis 30. Mai feiern wir Europa mit starken netcup-Angeboten für Server, 
 
 VPS
 
+ FLASH DEAL
+
+### VPS 1000 ARM G11 SE ###
+
+ \+ 100 % SSD / bis zu 14 % Rabatt
+
+statt bis zu 6,13 €
+
+* 6 vCore (ARM64)
+
+* 8 GB RAM
+
+* 512 GB NVMe (statt 256 GB)
+
+* Mindestlaufzeit: 1 Monat
+
+* Traffic inklusive
+
+* Standort: NUE
+
+pro Monat
+
+5,26 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/arm-server/vps-1000-arm-g11-se-nue-mai25)
+
+VPS
+
 ### VPS 1000 G11 SE ###
 
  \+ 100 % SSD / dauerhaft günstiger
