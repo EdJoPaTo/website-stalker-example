@@ -17,8 +17,6 @@ Mit der Notfall-Informations- und Nachrichten-App des Bundes, kurz Warn-App NINA
 
 Auf Wunsch warnt Sie die Warn-App NINA auch für Ihren aktuellen Standort. Dabei erfassen wir keinerlei Standortdaten. Genauere Angaben zur Standort-Funktion finden Sie in unserer Funktionsbeschreibung zur Warn-App NINA.
 
-[Quelle: > BBK BBK sucht Testerinnen und Tester für Warn-App NINA ---------- Um Feedback zur Betatest-Version der Warn-App NINA zu sammeln und um mögliche Fehler zu beheben, sucht das BBK Teilnehmerinnen und Teilnehmer. Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Betatest/betatest_node.html)
-
 Warn-App NINA herunterladen
 ----------
 

@@ -6039,13 +6039,26 @@ Das ist zurzeit leider nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-in-eine-brieftaschen-app-laden)
 
- Wie kann ich den DB Navigator auf meiner Smart Watch nutzen?
+ Wie kann ich den DB Navigator auf meiner Smartwatch nutzen?
 ----------
 
 Über die Smartwatch-Funktionalität des DB Navigators erhalten Sie Push-Nachrichten zu Ihrer Reise direkt auf Ihre Uhr. Auch die Reisevorschau mit allen relevanten Informationen kann auf der Smartwatch angezeigt werden, damit Sie Ihre aktuelle Reise noch besser im Blick behalten können.
 Die Reisevorschau auf der Smartwatch zeigt ab einer Stunde vor Reisebeginn alle relevanten Reisedetails wie z. B. die verbleibende Zeit bis zum Reisebeginn oder den Umstieg. Damit haben Sie alle wichtigen Reisedetails vor und während Ihrer Reise immer bequem im Blick - ohne Ihr Handy aus der Tasche ziehen zu müssen.
 
-Um die Reisevorschau auf Ihrer Smartwatch nutzen zu können, muss die Watch einmalig mit Ihrem Kundenkonto verknüpft werden. Die digitale Reisebegleitung können Sie über die Funktion „Reise merken“ in der Verbindungsübersicht aktivieren.
+Um die Reisevorschau auf Ihrer Smartwatch nutzen zu können, muss die Watch einmalig mit Ihrem DB Kundenkonto verknüpft werden.
+
+**So geht’s mit Wear OS:**
+
+* Apps auf dem Smartphone werden nicht automatisch mit der Smartwatch synchronisiert.
+* Bitte fügen Sie die App DB Navigator über den Google Play Store auf Ihrer Smartwatch hinzu.
+
+**So geht’s mit der Apple Watch:**
+
+* Wenn Sie nichts an den Grundeinstellungen der Apple Watch verändert haben, wird die App DB Navigator automatisch auch auf der Apple Watch installiert.
+* Wenn Sie die Funktion „Automatische App-Installation“ deaktiviert haben, müssen Sie die App DB Navigator manuell über die App „Watch“ installieren. Diese finden Sie auf Ihrem Smartphone.
+* Öffnen Sie nun die App DB Navigator auf Ihrer Apple Watch und klicken Sie auf „Anmelden“. Anschließend werden Sie aufgefordert, die App DB Navigator auf Ihrem iPhone zu öffnen. Wenn Sie dies getan haben, bestätigen Sie dies auf Ihrer Watch mit „Weiter“. Übertragen Sie dann den Login auf Ihre Watch, indem Sie auf dem iPhone auf „Anmelden“ klicken und Ihren Benutzernamen sowie Ihr Passwort Ihres DB Kundenkontos eingeben.
+
+Wenn Sie nun bei der Ticketbuchung oder über die Funktion „Reise merken“ die digitale Reisebegleitung aktivieren, erhalten Sie Push-Benachrichtigungen sowie die Reisevorschau nun auch bequem auf Ihrer Smartwatch.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-navigator-auf-meiner-smartwatch-nutzen)
 
