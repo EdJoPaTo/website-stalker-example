@@ -4486,58 +4486,6 @@ Ja. Wenn Sie einen Sitzplatz online reservieren, können Sie im zweiten Buchungs
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplaetze-waehlen-bei-gepaeck)
 
- Wie komme ich zum Regio Guide?
-----------
-
-Verbinden Sie sich hierfür mit Ihrem mobilen Endgerät (Smartphone, Tablet oder Laptop) mit dem WLAN-Netzwerk des DB Regio Zuges.
-
-Nach Auswahl des WLANs in Ihren Geräteeinstellungen öffnet sich bei den meisten Geräten automatisch eine Seite, auf der Sie durch einen Klick auf „Jetzt kostenlos surfen“ die AGB bestätigen können. Anschließend gelangen Sie auf eine Seite, aeuf der Sie den Link zum Regio Guide anklicken können.
-
-Alternativ erreichen Sie den Regio Guide auch außerhalb des WIFI@DB, z.B. von zu Hause, über regio-guide.de im Browser, und **ab 2. Mai 2024** über die kostenfreie App im Android Play Store und im iOS App Store sowie über QR-Codes in ausgewählten Zügen.
-
-* [regio-guide.de](https://regio-guide.de/pages/infotainment)
-* [Zum kostenfreien App im Android Playstore](https://play.google.com/store/apps/details?id=de.hafas.android.bayernnavi&hl=de)
-* [Zur kostenfreien App im iOS App Store](https://apps.apple.com/de/app/regio-guide/id1096074746)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/allgemein-regio-guide)
-
- Welche Geräte kann ich für den Regio Guide nutzen?
-----------
-
-Sie können neben Ihrem Smartphone oder Tablet auch Ihren Laptop verwenden, um den Regio Guide zu nutzen. Der Regio Guide steht sowohl in der App als auch in der Web-Anwendung zur Verfügung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/geraete-regio-guide)
-
- Wie komme ich auf die regionalen Seiten des Regio Guides?
-----------
-
-Je nachdem in welchem Zug und dementsprechend, in welcher Region Sie sich befinden, werden Ihnen regionale Inhalte angezeigt. Die Erkennung der Region, in der Sie sich befinden, erfolgt entweder automatisch über die WLAN-Verbindung im Zug oder manuell über die Auswahl "Mehr" im Tab.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/inhalte-regional-regio-guide)
-
- Wird mein Datenvolumen verbraucht, wenn ich mir Inhalte im Regio Guide anschaue?
-----------
-
-Wenn Sie mit dem WLAN verbunden sind, wird Ihr Datenvolumen nicht belastet, da die Inhalte des Regio Guides inklusive aller Inhalte der Content-Partner von einer Festplatte im Zug abgerufen werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/inhalte-datenvolumen-regio-guide)
-
- Ist die Nutzung des Regio Guides kostenfrei?
-----------
-
-Ja, die Nutzung des Regio Guides ist für Sie kostenfrei.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfrei-regio-guide)
-
- Wie unterscheiden sich ICE-Portal und Regio Guide?
-----------
-
-Das **ICE-Portal** ist – im Gegensatz **zum Regio Guide** – ausschließlich in Zügen des **Fernverkehrs** bei Verbindung mit dem dortigen WLAN nutzbar. **Der Regio Guide** kann sowohl in den Zügen als auch bequem von daheim oder unterwegs ohne Verbindung mit dem WLAN genutzt werden.
-
-Das ICE-Portal ist ein Infotainment-Portal mit Angeboten wie Filmen, Hörbucher und Magazinen auf längeren Reisen. **Der Regio Guide** bietet hingegen **im Nahverkehr** neben Informationen zur aktuellen Fahrt aktuelle Nachrichten, Podcasts und regionale Inhalte wie Event-Tipps oder Ausflugstipps.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unterschied-regio-guide-ice-portal)
-
  Die Klimaanlage im Zug ist defekt und Sie können Ihren reservierten Sitzplatz nicht einnehmen?
 ----------
 
