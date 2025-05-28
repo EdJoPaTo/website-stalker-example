@@ -611,3 +611,18 @@ sites:
       - css_select: main
       - css_remove: script, style, figure, img, .map-wrapp
       - html_markdownify
+
+  - url:
+      - https://www.thedarkrooms.de/
+      - https://www.thedarkrooms.de/faqs
+      - https://www.thedarkrooms.de/history
+      - https://www.wirimraum.de/
+      - https://www.wirimraum.de/artists-1
+      - https://www.wirimraum.de/exhibition
+    editors:
+      - css_select: main
+      - css_remove: img, svg
+      - regex_replace:
+          pattern: "[  ​]+"
+          replace: " "
+      - html_markdownify
