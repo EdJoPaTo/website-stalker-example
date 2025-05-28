@@ -345,7 +345,7 @@ Ja.
 
 **Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
 
-Unabhängig von den tariflichen Konditionen:
+Unabhängig von den Angebots-Bedingungen:
 
 * Sie können Ihr Digitales Ticket vor dem 1. Geltungstag innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren und erhalten den kompletten Betrag zurück.
 
