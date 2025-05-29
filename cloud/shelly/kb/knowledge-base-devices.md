@@ -170,6 +170,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Bypass for 1L/2L Gen3](https://kb.shelly.cloud/knowledge-base/shelly-bypass-for-1l-2l-gen3)
 * [Shelly USB Charger for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-usb-charger-for-wall-display-stand)
 * [Shelly Socket for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-socket-for-wall-display-stand)
+* [Shelly Bypass for Dimmer](https://kb.shelly.cloud/knowledge-base/shelly-bypass-for-dimmer)
 
  Amazon-compatible devices
 ----------
