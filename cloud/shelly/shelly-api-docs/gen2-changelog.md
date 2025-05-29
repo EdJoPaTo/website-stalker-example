@@ -11,6 +11,25 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+Unreleased
+----------
+
+**Available as `1.6.3-beta1`**
+
+note
+
+Firmware version `1.6.3-beta1` is only deployed for [1 Gen4](/gen2/Devices/Gen4/Shelly1G4), [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4), [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3), [PlugS Gen3](/gen2/Devices/Gen3/ShellyPlugSG3) and [Outdoor PlugS Gen3](/gen2/Devices/Gen3/ShellyOutdoorPlugSG3)
+
+### Fixed ###
+
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) BTHome: Fix device rescue (e.g. after BluTRV bootloader update)
+
+### Local web ###
+
+### Changed ###
+
+* [1 Gen4](/gen2/Devices/Gen4/Shelly1G4), [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Add separate page for switching to alternative firmware (Matter/Zigbee)
+
 [1.6.2] 2025-05-20
 ----------
 
