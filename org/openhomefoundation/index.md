@@ -28,12 +28,13 @@ Repurpose your hardware.
 Our work
 ----------
 
- The Open Home Foundation owns and governs over **240 open-source projects, standards, drivers, and libraries** like *Home Assistant*, *ESPHome*, *Zigpy*, *Piper*, and more.
+ The Open Home Foundation owns and governs over **250 open-source projects, standards, drivers, and libraries** like *Home Assistant*, *ESPHome*, *Music Assistant*, *HACS*, *Piper*, and more.
 
  In the future, we aim to play a greater role as a political advocate for smart home privacy, choice, and sustainability.
 
 [](https://www.home-assistant.io/)
 [](https://esphome.io/)
+[](https://www.music-assistant.io/)
 
 [Wyoming](https://github.com/rhasspy/wyoming)
 [BTHome](https://bthome.io/)
@@ -42,14 +43,14 @@ Our work
 [Python Matter Server](https://github.com/home-assistant-libs/python-matter-server)
 [Piper](https://github.com/rhasspy/piper)
 [ESP Web Tools](https://esphome.github.io/esp-web-tools/)
-[PyChromecast](https://github.com/home-assistant-libs/pychromecast)
+[HACS](https://github.com/hacs/integration)
 
 [See more](https://www.openhomefoundation.org/projects/#projects)
 
 Our collabs
 ----------
 
- Thanks to support from our partner **Nabu Casa**, we also collaborate on external member projects that align with our principles. These include *Z-Wave JS*, *WLED*, *HACS*, *Music Assistant* and *Zigbee2MQTT*.
+ Thanks to support from our partner **Nabu Casa**, we also collaborate on external member projects that align with our principles. These include *Z-Wave JS*, *WLED* and *Zigbee2MQTT*.
 
 [Learn more](https://www.openhomefoundation.org/projects/#collabs)
 
