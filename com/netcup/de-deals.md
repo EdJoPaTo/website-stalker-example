@@ -1,15 +1,15 @@
 netcup Deals
 ==========
 
-**Wir feiern Europa mit top Angeboten.**
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-Von 27. bis 30. Mai feiern wir Europa mit starken netcup-Angeboten für Server, Webhosting und Domains! Sichere dir Hosting mit europäischen Werten zu Top-Preisen.
-
-[Zu den Deals](https://www.netcup.com/de/deals#deals)
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 * Alle (0)
 
 VPS
+
+ Deal abgelaufen
 
 ### VPS 1000 G11 SE ###
 
@@ -33,9 +33,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-1000-g11-se-nue-mai25)
-
 VPS
+
+ Deal abgelaufen
 
 ### VPS 4000 G11 SE ###
 
@@ -59,9 +59,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-4000-g11-se-nue-mai25)
-
 Root-Server
+
+ Deal abgelaufen
 
 ### RS 1000 G11 SE ###
 
@@ -85,9 +85,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-1000-g11-se-nue-mai25)
-
 Root-Server
+
+ Deal abgelaufen
 
 ### RS 2000 G11 SE ###
 
@@ -111,9 +111,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-2000-g11-se-nue-mai25)
-
 Root-Server
+
+ Deal abgelaufen
 
 ### RS 4000 G11 SE ###
 
@@ -137,9 +137,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-4000-g11-se-nue-mai25)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 2000 ###
 
@@ -163,9 +163,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-mai25)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 4000 ###
 
@@ -191,9 +191,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-mai25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .at Domain ###
 
@@ -217,9 +217,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.at-domain-mai25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .ch Domain ###
 
@@ -243,9 +243,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.ch-domain-mai25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .eu Domain ###
 
@@ -269,9 +269,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.eu-domain-mai25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .li Domain ###
 
@@ -294,22 +294,6 @@ pro Monat dauerhaft
 0,50 €
 
 (inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.li-domain-mai25)
-
-### **Das erwartet dich:** ###
-
-* ### Top Deals für dein Projekt ###
-
-  Egal ob Private Cloud Store, Website, VPN oder Media Server – wir haben einige unserer besten Deals für dich zusammengestellt.
-
-* ### 72 Stunden verfügbar ###
-
-  Sei dabei und sichere dir über ganze 72 Stunden hinweg Top Deals! Die Aktion startet am Dienstag, 27. Mai ab ca. 10 Uhr.
-
-* ### Zusätzlicher Flashdeal ###
-
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), um ein weiteres, zeitlich begrenztes Überraschungsangebot zu ergattern.
 
 Bleibe auf dem Laufenden
 ----------
