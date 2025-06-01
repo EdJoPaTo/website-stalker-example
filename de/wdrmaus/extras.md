@@ -1,9 +1,10 @@
-[Was haben Wahlen mit Demokratie zu tun?](https://www.wdrmaus.de/extras/mausthemen/demokratie/index.php5)
+[So kannst du Erste Hilfe leisten](https://www.wdrmaus.de/extras/mausthemen/erste_hilfe/index.php5)
 
 [Starte in dein digitales Abenteuer](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/index.php5)
 
 * [Bauwerke, die verbinden](https://www.wdrmaus.de/extras/mausthemen/bauwerke/bruecken.php5)
 * [Wissenwertes zum "Drahtesel"](https://www.wdrmaus.de/extras/mausthemen/fahrrad/index.php5)
+* [Was haben Wahlen mit Demokratie zu tun?](https://www.wdrmaus.de/extras/mausthemen/demokratie/index.php5)
 * [Große Maschinen und Gebäude](https://www.wdrmaus.de/extras/mausthemen/baustelle/index.php5)
 * [Über Tiere zu Land, Wasser oder in der Luft](https://www.wdrmaus.de/extras/mausthemen/tiere/index.php5)
 * [So vielseitig ist das nasse Element](https://www.wdrmaus.de/extras/mausthemen/wasser/index.php5)
