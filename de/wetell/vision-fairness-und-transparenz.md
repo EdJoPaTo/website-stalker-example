@@ -1,120 +1,157 @@
-So sieht Fairness & Transparenz im Mobilfunk aus
+* [Home](/)
+* [Warum WEtell?](/warum-wetell/)
+* Mobilfunk neu denken
+
+Mobilfunk neu denken
 ==========
 
-Es ist Zeit für mehr Fairness und Transparenz in der Mobilfunkbranche! WEtell setzt auf einen fairen und transparenten Umgang – mit Verbraucher\*innen, Kund\*innen, Mitarbeitenden und Kooperationspartner\*innen. Wir stehen ein für ethisches Wirtschaften. Und haben uns daher Gemeinwohl-bilanzieren lassen. Mehr dazu erfährst du hier.
+* [Aktiv fürs Klima](#aktiv_fuers_klima)
+* [Fairness für alle](#fairness_fuer_alle)
+* [Liebevoller Service](#liebevoller_service)
 
+Aktiv fürs Klima
 ----------
 
-**„Es kann nicht sein, dass eine so zentrale Dienstleistung wie der Mobilfunk immer noch zu einer der Verbraucher\*innen-unfreundlichsten Branchen gehört. Mit WEtell zeigen wir, dass es anders geht und bauen konsequent auf wertebasiertes Wirtschaften, Fairness und Transparenz!“**
-*Andreas Schmucker, Geschäftsführung WEtell*
+Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovativen Klimaschutzkonzept, CO<sub>2</sub>-Kompensation durch Pflanzenkohle und Investitionen in Erneuerbare Energien gehen wir über die üblichen Ansätze hinaus. Unser Ziel: Den Mobilfunk klimaneutral gestalten und aktiv zur Energiewende beitragen.
 
-Warum Fairness & Transparenz?
+* Regeneratives Wirtschaften
+
+  Wir haben den Anspruch, regenerativ zu wirken. „Regenerativ“ klingt zwar gähnend langweilig, dahinter steckt jedoch ein superspannender Ansatz: Es geht darum, so zu handeln, dass die Umwelt nicht nur geschont wird, sondern sogar noch von unserem Tun profitiert.
+
+  In unserem Fall heißt das: Wir wollen nicht einfach „nur“ CO<sub>2</sub>-Emissionen ausgleichen. Wir wollen richtig wirksam werden, die Energiewende vorantreiben und auch öffentlich für den [Klimaschutz einstehen](/warum-wetell/wirtschaft-aufmischen/#lobby_in_gut). Dafür haben wir uns ein Klimaschutzkonzept ausgedacht, dass wir immer wieder erweitern und verbessern.
+
+* Warum Klimaschutz?
+
+  Klimaschutz im Mobilfunk ist absolut wichtig. Jedes Like, jede Telefonminute, jedes versandte Foto produzieren CO<sub>2</sub>. Und zwar insgesamt so viel wie der innerdeutsche Flugverkehr! Die Branche wächst rasant, der Bedarf an mobilen Daten wird immer größer – und damit auch die Menge an Emissionen.
+
+  Der Mobilfunk ist also eine mächtige Stellschraube für den Klimaschutz. Wenn wir es schaffen, diese Branche komplett auf klimaneutral zu drehen, haben wir enorm viel bewegt!
+
+  Das Gute dabei: Für den einzelnen Menschen bietet klimafreundlicher Mobilfunk die Möglichkeit, sehr einfach und bequem nachhaltiger zu leben. Einfach den Tarif wechseln und schon ist dein Alltag etwas nachhaltiger.
+
+* CO<sub>2</sub> vermeiden
+
+  Die allerbeste Klimaschutzmaßnahme ist es immer, erst gar keine CO<sub>2</sub>-Emissionen entstehen zu lassen. Daher setzen wir, wo immer wir können, auf klimafreundliche Produkte und Dienstleistungen. Das kannst du dir in etwa so vorstellen:
+
+  Wir sitzen an refurbishten Computern, die mit Ökostrom laufen, neben uns die Tasse fair gehandelten Biokaffee und speichern die aktuellen Dateien auf dem mit Windenergie betriebenen Server ab. Die Kollegin bucht für die nächste Dienstreise ein Bahnticket mit der Kreditkarte der öko-sozialen Bank, bei der wir unser Geschäftskonto haben. Das Marketingteam bestellt bei der Umweltdruckerei neue Flyer, während im Meetingraum, den wir uns im Co-Working-Space mit anderen Unternehmen teilen, darüber beraten wird, wie wir den CO<sub>2</sub>-Fußabdruck unserer Webseite verkleinern können.
+
+* Emissionen mit Pflanzenkohle zurückholen
+
+  Die meisten Emissionen entstehen beim Betrieb des Mobilfunknetzes, also durch die Energie für die Sendemasten und Rechenzentren. Da das Netz (noch) nicht klimaneutral läuft, gleichen wir alle Emissionen für unseren Mobilfunk aus. Und das vollständig für die gesamte Lieferkette – also inklusive der sogenannten Scope 3-Emissionen.
+
+  Aber wie am besten kompensieren? Schließlich gibt es viele unterschiedliche – mal mehr, mal weniger wirksame – Methoden. Für uns ausschlaggebend: Wir wollen möglichst unmittelbar, regional und ohne Doppelanrechnung ausgleichen.
+
+  Daher kompensieren wir in Kooperation mit [Carbonfuture](https://www.carbonfuture.earth/) mit Pflanzenkohle. Die Kohle wird in Europa aus Forst-Reststoffen und anderen pflanzlichen Abfällen hergestellt. Sie sorgt dafür, dass das in den Pflanzen gespeicherte CO<sub>2</sub> nicht wieder in die Atmosphäre gelangt. Der Kohlenstoff wird – wie der Name es schon verrät – langfristig in der Kohle gebunden. Die Pflanzenkohle kann man super als Düngezusatz nutzen und damit die Bodenqualität und Biodiversität fördern. Eine absolute Win-win-Geschichte also!
+
+* Energiewende vorantreiben
+
+  Langfristig ist das Ausgleichen von Emissionen für uns keine Lösung. Ist doch viel besser, wenn erst gar keine entstehen! Allerhöchste Zeit also für die Energiewende. Damit es mit der schneller vorangeht, fördern wir zusätzlich den Ausbau erneuerbarer Energien.
+
+  Dafür investieren wir in Solar- und Windkraftanlagen. Und damit sich Menschen aktiv an der Energiewende beteiligen können, haben wir [Balkon-Solarkraftwerke in unserer Community verlost](/community/newsblog/sonnige-zeiten-auf-balkonien/). Wir fördern aber auch gute neue Ideen und investieren in klimawirksame Start-ups.
+
+  Alle Gewinne aus diesen Investitionen nutzen wir komplett dafür, um sie in weitere Klimaschutz-Maßnahmen zu stecken. Damit wird unser Klima-Impact immer größer.
+
+* Unsere Wirkung in Zahlen
+
+  **CO₂-Einsparung seit Marktstart:**
+
+  * **475 t** seit Marktstart
+  * **760 t** Forecast bis Ende 2025
+
+  **Investitionen in Erneuerbare Energien:**
+
+  * **2020:** Solaranlage mit Ecosia & Naturstrom **570 kWp** = ca. 500 MWh/a
+  * **2024:** Windkraftanlage mit Prokon **100 kWp** = ca. 200 MWh/a
+
+  **Investitionen in Start-ups**:
+
+  * **2024:** Invest in Carbonsate – CO₂ Speicherung über Biomasse in Böden
+
+  **Community Balkonkraftwerke:**
+
+  * **2024:** Erste Runde: 50 Systeme mit je 640 Wp
+
+  **Verbände und Netzwerke:**
+
+  * **2019:** SEND Netzwerk
+  * **2021:** fairTEC
+  * **2022:** Bundesverband Nachhaltige Wirtschaft e.V.
+  * **2023:** Unternehmenklimaschutz
+
+Fairness für alle
 ----------
 
-Undurchsichtige Lockangebote, Knebelverträge, versteckte Kosten, ewige Warteschleifen und treue Kund\*innen, die auf veralteten Tarifen sitzen gelassen werden – die Mobilfunkbranche ist geradezu berühmt für zweifelhafte Methoden und schlechten Service. Seit Jahren heißt der Trend „Immer mehr, immer billiger“. Und wer zahlt dafür? Ja genau: Du. Denn was als tolles Schnäppchen daherkommt, wird dir hintenrum wieder abgeknöpft. Oder beim Service eingespart. Oder beim Lohn der Mitarbeitenden. Oder geht voll auf Kosten deiner Flexibilität. Wir finden: Das kann so nicht weitergehen! Und zeigen, dass es sehr wohl auch anders geht. Mit WEtell geht es nämlich voll fair und transparent.
+Egal ob bei Kund\*innen, Mitarbeitenden oder Kooperationspartner\*innen: Wir bringen allen Menschen dieselbe Fairness und Menschlichkeit entgegen, die wir uns selbst auch wünschen. Unser Geheimrezept dafür: Ehrlichkeit, Transparenz, Vertrauen und vor allem: Profitinteressen hinten anstellen. Denn oft geht die eigene Gewinnoptimierung eben zulasten der anderen. Ob es dann der Kunde ist, der in den Knebelvertrag gelockt, oder die Lieferantin, die über den Tisch gezogen wird. Wir aber streben nicht nach dem großen Geld, sondern einer gemeinwohlorientierten Wirtschaft. Ganz klar also: Fairness ist bei uns Programm!
 
-WEtell ist fair und transparent!
+* Faire Tarife
+
+  Bye bye Knebelvertrag, willkommen Freiheit: Alle WEtell Tarife sind grundsätzlich monatlich kündbar. Bei uns gibt’s keine unseriösen Lockangebote, keine falschen Versprechungen. Schließlich wollen wir dich überzeugen und nicht überrumpeln. Bei uns kommst du voll auf deine Kosten – und dank Preistransparenz auch dahinter.
+
+  Wir legen uns voll ins Zeug, um Tarifupgrades auch für Bestandskund\*innen umzusetzen. Damit sind wir einzigartig in der Branche! Und klar: Zu fairen [Tarifen](/mobilfunk) gehört auch ein super [Serviceteam](/service), das dir zur Seite steht.
+
+* FAIRstärker – unser Solitarif
+
+  Wir finden: Jede\*r soll sich Klimaschutz leisten können – auch im Mobilfunk.
+
+  Deswegen haben wir den [WEtell FAIRstärker](/mobilfunk/optionen/fairstaerker) ins Leben gerufen. Die Idee: Wer kann und möchte, zahlt freiwillig 1, 3 oder 5 € mehr im Monat. Dafür erhalten andere ihren WEtell Tarif 1, 3 oder 5 € günstiger.
+  Auf diese Weise ermöglicht unsere großartige Community momentan knapp 1.000 Menschen einen günstigeren Zugang zu nachhaltigem Mobilfunk.
+
+  Dabei setzen wir auf Vertrauen – niemand soll sich dafür rechtfertigen müssen, den FAIRstärker in Anspruch zu nehmen.
+
+* Deine Daten gehören dir
+
+  Beim mobilen Telefonieren und Surfen fallen so viele Daten an, dass sie ganze Romane über dich erzählen. So lässt sich nachvollziehen, wo du dich aufhältst, welche Internetseiten du besuchst oder mit wem du kommunizierst. Zusammen mit deinen persönlichen Daten ergeben sie einen wahren Datenschatz. Wir machen uns dafür stark, dass dieser Schatz nicht in die falschen Hände gerät, und nutzen deine Daten nur genau dafür, wofür du sie uns übergibst: für deinen Mobilfunk.
+
+  Wir erheben nur so viele Daten wir nötig und löschen sie so früh wie möglich. Wir halten Personendaten und detaillierte Daten zum Mobilfunkverhalten getrennt: Der Mobilfunkbetreiber kennt deinen Namen nicht, wir kennen dein Surfverhalten nicht.
+
+  Konkret speichern wir deine Daten wie folgt:
+
+  * Mobile Internetnutzung (Datenmenge): 3 Monate lang
+  * Mobile Internetnutzung (Dateninhalt, z.B. Adressen, die angesurft wurden): Liegen uns nicht vor
+  * Kostenpflichtige ausgehende Anrufe: 3 Monate lang
+  * Kostenpflichtige eingehende Anrufe: 3 Monate lang
+  * Kostenfreie ausgehende Anrufe (z.B. bei Flat): 3 Monate lang
+  * Kostenfreie eingehende Anrufe: Keine Speicherung
+  * Verbindungsversuche: Liegen uns nicht vor
+  * Standortdaten bei Anrufen und Internetnutzung: Liegen uns nicht vor
+  * Stammdaten (Name, Adresse, Geburtsdatum, Bankdaten): Bis 10 Jahre nach Vertragsende (gesetzlich verpflichtend), starke Zugriffseinschränkung ab 3 Monate nach Vertragsende
+
+  Alle Daten, die für die Rechnungserstellung relevant sind, speichern wir 3 Monate lang, um nachweisen zu können, wie die Rechnung zustande gekommen ist. Die Stammdaten müssen wir gesetzlich vorgeschrieben so lange speichern, damit sie für Steuerprüfungen o.ä. vorliegen.
+
+  Bei uns gibt es keinen Verkauf von Kund\*innen-Daten für Werbezwecke. Die Daten liegen fast ausschließlich auf deutschen Servern und alle Dienstleister unterliegen den strengen Vorgaben der Datenschutz Grundverordnung (DSGVO).
+
+  Für den supersicheren Austausch zwischen dir und uns bieten wir Kommunikation über den Ende-zu-Ende-verschlüsselten Messenger Threema oder PGP-verschlüsselte Mails an. Wo wir können, setzen wir auf Open Source-Software.
+
+  Und auch den Datenkraken machen wir es schwer, denn über uns gelangen deine Daten nicht an Facebook und Co. Durch unsere Cookie-Einstellungen und die Nutzung alternativer Analysetools bleiben deine Daten dort, wo du sie haben willst: und zwar bei dir!
+
+Liebevoller Service
 ----------
 
-WEtell setzt neue Standards in Sachen Fairness und Transparenz in der Mobilfunkbranche. Sei es gegenüber Kund\*innen, im Team oder mit Kooperationspartner\*innen.
-Das bedeute für dich als Kund\*in: Bye bye Knebelvertrag, willkommen Freiheit! Alle WEtell-Tarife sind monatlich kündbar. Statt unseriöser Lockangebote gibt’s übersichtliche Tarifangebote. Schließlich wollen wir dich überzeugen und nicht überrumpeln! Mit WEtell kommst du voll auf deine Kosten – und dank Preistransparenz auch dahinter. Wir holen dich aus der Servicewüste: Kein Versanden in Warteschleifen mehr, keine Sprachcomputer, dafür kompetenter Service von Mensch zu Mensch. Wir legen uns voll ins Zeug, um Tarifupgrades auch für Bestandskund\*innen umzusetzen – und setzen damit neue Standards in der Branche!
-Im WEtell Team heißt das Motto: Identifikation und Verantwortung statt Kontrolle und Hierarchie. Auch Kooperationen pflegen wir langfristig, mit Wertschätzung und auf Augenhöhe.
+Bei uns steht der Mensch im Mittelpunkt. Unser liebevoller Service ist persönlich, ehrlich und immer auf Augenhöhe. Ob per [Telefon](tel:+4976176999848), [Mail](mailto:service@wetell.de) oder [Threema](https://threema.id/VCWEM8SX?text=) – wir sind für dich da und finden gemeinsam die beste Lösung.
 
-Voller Überblick!
-----------
+* Persönliche Verbindung
 
-Welche Ziele wir mit WEtell in Sachen Fairness & Transparenz verfolgen hast du ja jetzt schon gelesen. Wie weit wir auf dem Weg zum Pokal für maximale Fairness & Transparenz bereits gekommen sind, zeigen dir unsere Visions-Balken.
+  „Echter Service von Mensch zu Mensch“ – für dieses Versprechen geben wir alles! Unser Service ist das Herzstück unseres Unternehmens. Schließlich verkörpert er tagtäglich unsere wichtigsten Werte: Wertschätzende Kommunikation und Dialog auf Augenhöhe. Daher haben wir uns gegen alle Widerstände durchgesetzt und unser eigenes Serviceteam aufgestellt. Das sitzt mit dem Rest des WEtell Teams gemeinsam im Büro, statt in einem anonymen Callcenter. Und so können wir dir den ehrlichsten, persönlichsten Kund\*innen-Service der Mobilfunkwelt bieten.
 
-Alle unsere Ziele sind hier dargestellt und du kannst genau nachschauen, wie viel Prozent des Weges wir schon geschafft haben.
+* Juhu, ein Mensch am Telefon!
 
-#### Fair und transparent gegenüber Kund\*innen ####
+  Kurz durchgeklingelt, einmal persönlich mit Henrike oder Lucas gequatscht und – zack – Frage geklärt. Ja, so leicht geht das bei uns. Sogar so leicht, dass der eine oder die andere erschrickt, wenn nach dem zweiten Klingeln wirklich ein Mensch ans Telefon geht.
+  Natürlich reagieren wir genauso gerne auf Mails oder Anfragen per Threema. Dass wir über unseren Service eine direkte Möglichkeit haben mit dir und unserer tollen Community auch live in Verbindung zu sein, ist für uns total wertvoll.
 
-Faire Konditionen, monatlich kündbar, ohne versteckte Kosten und echter Service von Mensch zu Mensch direkt aus unserem Team in Freiburg – das ist alles nicht der Standard im Mobilfunk, aber das weißt du aus Erfahrung vermutlich selbst.
+* Gemeinsam Lösungen finden
 
-Monatlich kündbare Tarife
+  Du kannst dich darauf verlassen, dass du bei uns auf ein offenes Ohr stößt. Wir hören zu, wir fühlen mit und wir tun alles dafür, um gemeinsam die beste Lösung für dich zu finden. Kein Abspeisen mit Standardphrasen, keine Endlosweiterleitung durch die Abteilungen und keine fadenscheinigen Ausreden. Wir gehen auf dich ein und finden auch für nicht ganz so alltäglichen Probleme Lösungen. Und klar, jede\*r macht Fehler. Wenn uns mal einer unterläuft, stehen wir offen und ehrlich dazu.
+  Egal, ob es um Fragen zur Rufnummernmitnahme geht, eine neue Tarifoption oder verlorengeglaubte SIM-Karten: Wir sind an deiner Seite und beraten dich offen und ehrlich.
 
-Wir wollen erreichen, dass WEtell Kund\*innen gerne WEtell Kund\*innen sind und dies auch bleiben wollen. Freiwillig. Ohne, dass sie durch Vertragslaufzeiten dazu gezwungen sind. Deswegen ist dein Vertrag bei uns monatlich kündbar.
+* Per Du
 
-Keine Lockangebote. Keine versteckten Kosten
+  Persönlicher Service auf Augenhöhe – dieser Anspruch spiegelt sich auch in unserer Ansprache wider. Denn wir duzen grundsätzlich alle Menschen. Das mag sich für den einen oder die andere erst mal komisch anfühlen. Für uns ist es Ausdruck eines wichtigen Grundsatzes: [Einer zugleich menschlichen und respektvollen Kommunikation](/community/newsblog/du-oder-sie-keine-frage-des-respekts).
 
-Wir geben alle Kosten, die auf unsere Kund\*innen zukommen von vorneherein transparent an. Tarife, die in den ersten Monaten günstig sind und später teuer werden gibt es bei uns nicht.
+* So erreichst du uns
 
-Echter Service von Mensch zu Mensch
+  Viele Wege führen nach Rom: Wir bieten dir verschiedene Möglichkeiten, genau die Unterstützung zu finden, die du brauchst.
 
-Unsere Telefonnummer findest du fett gedruckt auf der Homepage, nicht irgendwo versteckt. Und du erreichst bei uns sofort einen Menschen, der dir zuhört, keinen Sprachcomputer, der dein Anliegen nicht versteht. Der komplette Service ist Teil unseres Teams in Freiburg und wurde nicht ausgelagert irgendwo ins billigere Ausland.
+  Schnell mal was nachschauen kannst du auf unserer Webseite im [Service-Bereich](/service) und unsere [FAQ](/service/faq) bieten dir bereits Antworten auf viele Fragen.
 
-Ein Preis pro Tarif – für alle Kund\*innen gleich
+  Rechnungen finden, Datenverbrauch checken oder deine persönlichen Daten ändern – all das und mehr kannst du in deinem [Kund\*innen-Login](https://mein.wetell.de) oder der WEtell App für [iOS](https://apps.apple.com/de/app/wetell/id6450259024) und [Android](https://play.google.com/store/apps/details?id=de.appsoluts.wetell).
 
-Schon zweimal haben wir es geschafft und haben, als erster Mobilfunkanbieter jemals, Prämien an Bestandskund\*innen weitergegeben. Das gab es noch nie! Anstatt zu kündigen, um neue, bessere Verträge zu bekommen, können alle unsere Kund\*innen ohne zusätzliche Kosten ein [Tarifupgrade](https://www.wetell.de/ueber-uns/news/neue-tarife/) nutzen.
-
-Auch zukünftig werden wir uns dafür einsetzen, alle Tarifverbesserungen an Bestandskund\*innen weiterzugeben. Wir können nicht versprechen, dass das immer klappt, aber wir sehen das optimistisch.
-
-#### Fairness im WEtell-Team ####
-
-Wie nach außen so nach innen: Fairness und Transparenz gilt nicht nur nach außen, sondern auch nach innen.
-
-Flache (oder gar keine) Hierarchien
-
-Wir wollen Spaß bei der Arbeit haben und unseren Mitarbeitenden den Respekt, die Verantwortung und die Entlohnung geben, die sie verdienen. Wir setzen mehr auf Identifikation und Verantwortung, als auf Kontrolle und Hierarchie. So sind wir alle zusammen WEtell und wir versuchen jetzt schon alle an unseren Entscheidungen zu beteiligen.
-Aber klar sind wir dabei noch nicht am Ende angekommen. Aktuell gehen wir ganz bewusst den Weg hin zu einer agilen Unternehmensstruktur und immer weiter weg von hierarchischen Ansätzen.
-
-Transparente und faire Löhne
-
-Reich wird bei WEtell aktuell niemand aber alle werden angemessen bezahlt. Außerdem werden Lohnunterschiede begrenzt gehalten und Motivation und Engagement zählen mehr als irgendein Titel vor dem Namen.
-Mittelfristig wollen wir komplette Transparenz in unsere Lohnstruktur bringen, um diese nicht nur intern, sondern auch extern offen legen zu können.
-
-Einfach erklärt!
-----------
-
-Wenn du noch mehr zu Fairness und Transparenz im Mobilfunk und bei WEtell wissen möchtest, schau doch mal auf unserem Blog vorbei. WEtell Service Mitarbeiter Jan hat Infos aus erster Hand für dich.
-
-[Zu Jans Blogbeitrag!](https://www.wetell.de/ueber-uns/news/mehr-fair-play-im-mobilfunk/)
-
-#### Nachhaltige Partnerschaften ####
-
-Kund\*innen, Mitarbeitende, Partner\*innen – immer geht es um Menschen und die sind für uns alle gleich wichtig. Daher gilt natürlich auch bei Unternehmens-Partnerschaften ein fairer und transparenter Umgang.
-
-Langfristige und respektvolle Partnerschaften
-
-Wir treten respektvoll und fair nach außen auf. Dabei ziehen wir langfristige Partnerschaften kurzfristigen Schnäppchen vor. Außerdem tun wir uns am liebsten mit Unternehmen zusammen, die eine ähnliche Haltung haben wie WEtell. Da das noch nicht überall möglich ist, vermitteln wir zumindest unsere Haltung. WEtell ist an erster Stelle werteorientiert und erst an zweiter Stelle profitorientiert.
-
-Gegenseitige Unterstützung
-
-Wir nutzen wiederaufbereitete Laptops, bestellen Büromaterial soweit möglich bei Memo und fahren natürlich mit dem Zug auf Dienstreisen. Unser Server wird mit Ökostrom betrieben und unsere Möbel sind entweder up-gecycled oder neu und FSC zertifiziert.
-
-#### Wertebasiertes Wirtschaften ####
-
-Echte Nachhaltigkeit bedeutet nicht nur Klimaschutz. Innerhalb der Wirtschaft ist ein Umdenken unbedingt notwendig. Daher setzt WEtell voll auf gemeinwohlorientiertes Wirtschaften.
-
-WEtell ist gemeinwohlbilanziert
-
-Das Ziel allen Wirtschaftens ist die Steigerung des Gemeinwohls. So sollte es zumindest sein. Die Gemeinwohlökonomie bietet dafür einen Prozess, nach dem sich Unternehmen bilanzieren können. Wir gehören zu den Gemeinwohl-zertifizierten Unternehmen. Hier findest du [unsere Bilanz und weitere Infos zur GWÖ](https://www.wetell.de/gemeinwohl-mobilfunk-bilanz/).
-
-Alle Finanzmittel bei nachhaltigen Banken
-
-„Geld regiert die Welt“ – zumindest spielt es eine wichtige Rolle, wie Finanzmittel eingesetzt werden. Bei WEtell pflegen wir einen konsequent ethischen Umgang mit Geld. Deswegen haben wir alle unsere Geldmittel bei einer nachhaltigen Bank, der GLS Bank.
-
-Wir sind ein Purpose-Unternehmen
-
-Als Purpose Unternehmen ist WEtell Teil einer großartigen Strömung der New Economy, die sich für eine gesunde und nachhaltige Wirtschaft einsetzt. Da kann der Turbokapitalismus mit all seinen hässlichen Auswüchsen abstinken! Als erster Mobilfunkanbieter in Deutschland haben wir diesen Schritt gewagt und uns auf ewig unserer Werteorientierung verschrieben.
-
-Auch die Finanzierungen, die WEtell bis jetzt eingeworben hat, behindern unsere Werteorientierung nicht. Im Gegenteil. Manche unserer Geldgeber sind richtige Nachhaltigkeits-Booster, wie zum Beispiel #Ecosia!
-
-WEtell ist ein
-Gemeinwohl-Unternehmen
-----------
-
-WEtell arbeitet rundum wertebasiert. Daher haben wir uns ganz offiziell Gemeinwohl-bilanzieren lassen. Lerne mehr über die Gemeinwohl-Ökonomie (GWÖ) und lade dir unseren Gemeinwohl-Bericht herunter – für volle Transparenz, ganz ohne Leselupe!
-
-[Zum Gemeinwohl-Bericht](https://www.wetell.de/gemeinwohl-mobilfunk-bilanz/)
-
-Nachhaltigkeit verbreiten
-
-youtell – Freund\*innen werben
-----------
-
-Hol deine Freund\*innen zu WEtell und sichert euch je 15€!
-Jetzt mega einfach: Ob mündlich, mit unseren tollen youtell-Stickern oder ratzfatz mit unserer Messenger-Vorlage.
-Dein Impact für noch mehr Klimaschutz, Datenschutz, Fairness und Transparenz!
-
-[Funk jetzt deine Leute an!](https://wetell.de/youtell/)
+  Du brauchst ganz konkrete Unterstützung? Dann melde dich bei unseren freundlichen [Service-Mitarbeiter\*innen](/service/kontakt) [telefonisch](tel:+4976176999848), per [Mail](mailto:service@wetell.de) oder dem Messengerdienst [Threema](https://threema.id/VCWEM8SX?text=).
