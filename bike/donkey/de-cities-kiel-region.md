@@ -125,7 +125,7 @@ Parken wie ein Profi
 
 Parken Sie Ihr Fahrrad immer verantwortungsbewusst in ausgewiesenen Bereichen und lassen Sie Gehwege und Wege für Fußgänger frei.
 
-Urbane Mobilität auf Eselsart
+Urbane Mobilität auf Donkey
 ----------
 
 Wie leihe ich ein Fahrrad
