@@ -1,53 +1,59 @@
-Luftig & leicht
+Für harte Jobs
+an warmen Tagen
 ----------
 
 ---
 
- sportlicher Look
+ luftige Sommer-Workwear
 
- leichte Stoffe
+ robuste Leichtgewichte
 
- viel Bewegungsfreiheit
+ vielseitige Basics
 
-[alle Produkte](https://www.strauss.com/de/de/e-s-ambition/?itemorigin=startseite_fs25)
+[alle Produkte](https://www.strauss.com/de/de/e-s-motion-ten/?itemorigin=startseite_fs25)
 
-[mehr erfahren](https://www.strauss.com/de/de/ambition?itemorigin=startseite_fs25)
+[Themenwelt entdecken](https://www.strauss.com/de/de/motion_ten?itemorigin=startseite_fs25)
 
-###  O6 Berufsschuhe  ###
+###  Luftige Füße? Aber sicher!  ###
 
 ---
 
- Wetterfestes
-Leichtgewicht
+ Superleichte
+S1-Sandale
 ----------
 
 ---
 
- wasserdicht
+ belüftete Schutzkappe
 
- winddicht
+ nur 430 g bei Größe 42
 
- atmungsaktiv
+ optimaler Tragekomfort
 
-[jetzt kaufen](https://www.strauss.com/de/de/berufsschuhe-o6/o6-berufsschuhe-e-s-poli-low-1003370-86171-1867.html?itemorigin=startseite_fs25)
+[jetzt kaufen](https://www.strauss.com/de/de/sicherheitssandalen-s1/s1-sicherheitssandale-e-s-apiro-1101640-93889-1.html?itemorigin=startseite_fs25)
 
 [zu allen Schuhneuheiten](https://www.strauss.com/de/de/neuheiten-schuhe/?itemorigin=startseite_fs25)
 
- e.s. Poli low
+ mit atmungsaktiver
+Stahlkappe
 
- anthrazit-
-warnorange
+ Workwear trifft
+auf Streetstyle
 ----------
 
 ---
 
- Hosen & Jacken
+ Statement-Outfits
 
- mit passenden Basics
+ ausdrucksstarke Motive
 
- neue Farbkombi
+ große Farbvielfalt
 
-[neue Farbe entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-anthrazit-warnorange?itemorigin=startseite_fs25)
+[für Herren](https://www.strauss.com/de/de/strauss-works-prints?itemorigin=startseite_fs25)
+
+[für Damen](https://www.strauss.com/de/de/strauss-works-prints-damen?itemorigin=startseite_fs25)
+
+[für Kinder](https://www.strauss.com/de/de/strauss-works-prints-kinder?itemorigin=startseite_fs25)
 
 ####
 
@@ -61,12 +67,13 @@ warnorange
 
 ---
 
- Bundhose & Short e.s.motion ten
-**\+ GRATIS** e.s. Besteckset & e.s. Brotdose large
+ \+ 9
+---
 
-[Herren-Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-bundhose-short-e-s-motion-ten-3312350-16728-1200.html?itemorigin=startseite_fs25)
+ Bundhose & Short e.s.motion
+**\+ GRATIS** e.s. Trinkflasche Tritan
 
-[Damen-Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-bundhose-short-e-s-motion-ten-damen-3312400-16757-1200.html?itemorigin=startseite_fs25)
+[Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-bundhose-short-e-s-motion-3312330-16713-1.html?itemorigin=startseite_fs25)
 
  Strauss Sommer-Sets
 ---
@@ -81,152 +88,174 @@ gratis Artikeln
 
 [Kinder-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Kinder/?itemorigin=startseite_fs25&sort=newest)
 
-###  Leichte Stoffe & Flexibler Komfort  ###
+ NEW
+---
+
+ Collection
+---
+
+ How
+Liverpool
+works.
+---
+
+[zu den Produkten](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseite_fs25)
+
+####
+
+Stylische Workwear **mit Sonnenschutz**
+
+ ####
 
 ---
 
-###  Der Strauss Sommer wird mit Sicherheit luftig!  ###
+sicher arbeiten
+unter praller Sonne
+----------
 
 ---
 
-[Shirts](https://www.strauss.com/de/de/arbeitsshirts/?itemorigin=startseite_fs25)
+ hoher UV-Schutzfaktor
 
-Schuhe
-
- Neu
----
-
- e.s. Ellenbogenschoner
- Flex-Comfort
----
-
-[jetzt kaufen](https://www.strauss.com/de/de/arbeitsschutz-zubehoer/e-s-ellenbogenschoner-flex-comfort-7030240-8371594-1.html?itemorigin=startseite_fs25&size=172)
-
- Neu
----
-
- e.s. Knieschoner
- Flex-Comfort
----
-
-[jetzt kaufen](https://www.strauss.com/de/de/knieschutz-kniepolster/e-s-knieschoner-flex-comfort-7030230-8371599-1.html?itemorigin=startseite_fs25&size=172)
-
-[Shorts](https://www.strauss.com/de/de/arbeitsshorts/?itemorigin=startseite_fs25)
-
-###  Bundhosen  ###
-
----
-
-###  mit besonderem Coolness-Faktor  ###
-
----
-
- mit Reißverschlussbelüftungen
-
- Bundhose e.s.motion 2020
-
- 15 Farben
-
- mit Reißverschlussbelüftungen
-
- Bundhose e.s.motion Sommer
-
- 4 Farben
+ Warnschutz- und UV-Kombi
 
  besonders leicht
 
- Cargohose e.s.motion ten Sommer
+[zu allen UV-Schutzprodukten](https://www.strauss.com/de/de/s/suche?query=UV%20Schutz&itemorigin=startseite_fs25)
 
- 6 Farben
+Die BG BAU fördert aktuell einen Teil der Schutz-Ausrüstung gegen UV-Strahlung.
 
- besonders leicht
+Informieren Sie sich direkt unter [www.bgbau.de](https://www.bgbau.de/)!
 
- Bundhose e.s.concrete light
+ UV Sonnenschutzspray LSF 50
+
+200 ml
+
+ Race Sonnenbrille e.s.ambition
 
  5 Farben
 
-**Work&Travel:** unterwegs mit Strauss
+[zu allen Caps](https://www.strauss.com/de/de/caps/?itemorigin=startseite_fs25)
+
+ Cap e.s.iconic works
+
+####
+
+Für jeden Job **die passende Farbe**
+
+ ####
+
+---
+
+###  ###
+
+---
+
+###  ###
+
+---
+
+Blautöne
+
+Grüntöne
+
+Grautöne
+
+###  Ein Klick zur Lieblingsfarbe  ###
+
+---
+
+Weißtöne
+
+Gelbtöne
+
+Violetttöne
+
+Rottöne
+
+Orangetöne
+
+Brauntöne
+
+###
+
+**Personalisierte Outfits** zum Berufsstart
+
+ ###
+
+---
+
+jetzt online
+
+gestalten
 
 ----------
 
 ---
 
- perfekt für die Reise
----
+für Arbeit, Vereine, Events uvm.
 
- Neu
----
+große Motivauswahl
 
- Bag in Business:
-Handgepäck- und Rollkoffer
----
+schon ab 1 Stück
 
-[alle work&travel Taschen entdecken](https://www.strauss.com/de/de/workandtravel)
+Produkte zum Gestalten
 
-**Einzigartige Outfits** für Firma und Freizeit
+[mehr Informationen](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_fs25)
 
----
+###
 
-Druck & Stick
+**Optimal ausgestattet** vom ersten Tag an
+
+ ###
 
 ---
 
-ab
-1 Stück
+ Montage Starter-Set:
+
+ STRAUSSbox Werkzeug-Set 145 Montage + gratis e.s.Lunchbag
+
+ Sparen im Set
+---
+
+ Immer-dabei-Set:
+
+ Umhängetasche e.s.ambition Werkzeug-Set
+
+ Sparen im Set
+---
+
+ To-Go-Set:
+
+ Backpack e.s.motion ten Geschenk-Set II
+
+[noch weitere Sets zum Berufsstart](https://www.strauss.com/de/de/s/suche?itemorigin=startseite_fs25&query=berufsstart)
+
+####  Strauss Gutschein  ####
 
 ---
 
-Gestalten
-sie selbst!
-
-----------
+###  Freude schenken  ###
 
 ---
 
- In wenigen Klicks zum Wunschdesign
----
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+[Gutschein per E-Mail](https://gutschein.strauss.de/)
 
-zu den Produkten
+###
 
-Motiv- &
-Text-Designs
+**An alles gedacht?** Hier gibt es noch mehr für Ihre Nachwuchskräfte
 
----
-
-schnell &
-unkompliziert
+ ###
 
 ---
 
-große
-Motivauswahl
+[Helme, Schutzbrillen, Gehörschutz](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=startseite_fs25)
 
----
+[Werkzeug und Zubehör](https://www.strauss.com/de/de/werkzeuge/?itemorigin=startseite_fs25)
 
-ab 1 Stück
-bestellbar
-
----
-
-Direkt-
-einstickung
-
----
-
- edel, hochwertig, robust — perfekt für alle Textilien, besonders auch stark beanspruchte Arbeitskleidung
-
----
-
-Easy-
-transfer
-
----
-
-Druck: vielseitig, großflächig, flexibel — nur für Basics wie T-Shirts, Sweater & Co.
-
----
+[Alles für die Berufsschule: Stifte, Blöcke etc.](https://www.strauss.com/de/de/bueroartikel/?itemorigin=startseite_fs25)
 
 ###
 
