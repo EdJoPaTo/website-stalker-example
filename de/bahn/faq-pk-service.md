@@ -1350,7 +1350,7 @@ Im ICE 3neo:
 
 Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit Farben an:
 
-* **Rot:** Eine rote Statusleuchte zeigt an, dass es eine Reservierung oder Belegung ab dem aktuellen gibt.
+* **Rot:** Eine rote Statusleuchte zeigt an, dass es eine Reservierung oder Belegung ab dem aktuellen Halt gibt.
 * **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem der nächsten Halte gibt.
 * **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
 
