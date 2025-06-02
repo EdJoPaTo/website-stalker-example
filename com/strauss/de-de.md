@@ -51,32 +51,6 @@ warnorange
 
 ####
 
-**Strauss-Fans** glücklich machen
-
- ####
-
----
-
-###  STRAUSS Gutschein direkt drucken  ###
-
----
-
-#####  Motiv aussuchen  #####
-
----
-
-#####  Betrag wählen  #####
-
----
-
-#####  Direkt verschenken  #####
-
----
-
-[Jetzt bestellen](https://gutschein.strauss.de/)
-
-####
-
 **Coole Geschenke** in jedem Sommer-Set
 
  ####
