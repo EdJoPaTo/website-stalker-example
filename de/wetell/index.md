@@ -16,78 +16,78 @@ Menü [](https://www.wetell.de/)
 * Mobilfunk
 
   Mobilfunk
-  * [Mobilfunk](https://www.wetell.de/mobilfunk/)
-  * [Optionen](https://www.wetell.de/mobilfunk/optionen/)
-    * [FAIRstärker](https://www.wetell.de/mobilfunk/optionen/fairstaerker/)
-    * [EasyTravel](https://www.wetell.de/mobilfunk/optionen/easytravel/)
-    * [eSIM](https://www.wetell.de/mobilfunk/optionen/esim/)
-    * [OneNumber](https://www.wetell.de/mobilfunk/optionen/onenumber/)
-    * [Gruppenfunk](https://www.wetell.de/mobilfunk/optionen/gruppenfunk/)
+  * [Mobilfunk](https://www.wetell.de/#)
+  * [Optionen](https://www.wetell.de/#)
+    * [FAIRstärker](https://www.wetell.de/#)
+    * [EasyTravel](https://www.wetell.de/#)
+    * [eSIM](https://www.wetell.de/#)
+    * [OneNumber](https://www.wetell.de/#)
+    * [Gruppenfunk](https://www.wetell.de/#)
 
-  * [Tarif mit Handy](https://www.wetell.de/mobilfunk/tarif-mit-handy/)
-  * [Wechselservice](https://www.wetell.de/mobilfunk/wechselservice/)
-  * [Auslandskonditionen](https://www.wetell.de/mobilfunk/auslandskonditionen/)
+  * [Tarif mit Handy](https://www.wetell.de/#)
+  * [Wechselservice](https://www.wetell.de/#)
+  * [Auslandskonditionen](https://www.wetell.de/#)
 
 * Warum WEtell
 
   Warum WEtell
-  * [Warum WEtell?](https://www.wetell.de/warum-wetell/)
-  * [Wirtschaft aufmischen](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/)
-    * [Selbstbestimmt](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#selbstbestimmt)
-    * [Lobby in gut](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#lobby_in_gut)
-    * [Sinn statt Profit](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#sinn_statt_profit)
+  * [Warum WEtell?](https://www.wetell.de/#)
+  * [Wirtschaft aufmischen](https://www.wetell.de/#)
+    * [Selbstbestimmt](https://www.wetell.de/#selbstbestimmt)
+    * [Lobby in gut](https://www.wetell.de/#lobby_in_gut)
+    * [Sinn statt Profit](https://www.wetell.de/#sinn_statt_profit)
 
-  * [Mobilfunk neu denken](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/)
-    * [Aktiv fürs Klima](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima)
-    * [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle)
-    * [Liebevoller Service](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
+  * [Mobilfunk neu denken](https://www.wetell.de/#)
+    * [Aktiv fürs Klima](https://www.wetell.de/#aktiv_fuers_klima)
+    * [Fairness für alle](https://www.wetell.de/#fairness_fuer_alle)
+    * [Liebevoller Service](https://www.wetell.de/#liebevoller_service)
 
 * Service
 
   Service
-  * [Service](https://www.wetell.de/service/)
-  * [Kontakt](https://www.wetell.de/service/kontakt/)
-  * [FAQ](https://www.wetell.de/service/faq/)
-  * [App](https://www.wetell.de/service/app/)
-  * [Downloads](https://www.wetell.de/service/downloads/)
+  * [Service](https://www.wetell.de/#)
+  * [Kontakt](https://www.wetell.de/#)
+  * [FAQ](https://www.wetell.de/#)
+  * [App](https://www.wetell.de/#)
+  * [Downloads](https://www.wetell.de/#)
 
 * Community
 
   Community
-  * [Community](https://www.wetell.de/community/)
-  * [youtell - Freund\*innen werben](https://www.wetell.de/community/youtell/)
-  * [Newsblog](https://www.wetell.de/community/newsblog/)
-  * [Medienbeiträge & Podcasts](https://www.wetell.de/community/medienbeitraege-podcasts/)
-  * [Whitepapers](https://www.wetell.de/community/whitepapers/)
-  * [Spotlight](https://www.wetell.de/community/spotlight/)
-  * [Team](https://www.wetell.de/community/team/)
-  * [Jobs](https://www.wetell.de/community/jobs/)
-  * [Affiliatepartner\*in werden](https://www.wetell.de/community/affiliatepartnerin-werden/)
+  * [Community](https://www.wetell.de/#)
+  * [youtell - Freund\*innen werben](https://www.wetell.de/#)
+  * [Newsblog](https://www.wetell.de/#)
+  * [Medienbeiträge & Podcasts](https://www.wetell.de/#)
+  * [Whitepapers](https://www.wetell.de/#)
+  * [Spotlight](https://www.wetell.de/#)
+  * [Team](https://www.wetell.de/#)
+  * [Jobs](https://www.wetell.de/#)
+  * [Affiliatepartner\*in werden](https://www.wetell.de/#)
 
 * Fürs Business
 
   Fürs Business
-  * [Fürs Business](https://www.wetell.de/fuers-business/)
-  * [Businesstarife](https://www.wetell.de/fuers-business/businesstarife/)
-  * [GigaMobil](https://www.wetell.de/fuers-business/businesstarife/gigamobil/)
-  * [SmartTech](https://www.wetell.de/fuers-business/businesstarife/smarttech/)
-  * [Optionen](https://www.wetell.de/fuers-business/businesstarife/optionen/)
-    * [FAIRstärker](https://www.wetell.de/fuers-business/businesstarife/optionen/fairstarker/)
-    * [EasyTravel](https://www.wetell.de/fuers-business/businesstarife/optionen/easytravel/)
-    * [OneNumber](https://www.wetell.de/fuers-business/businesstarife/optionen/onenumber/)
+  * [Fürs Business](https://www.wetell.de/#)
+  * [Businesstarife](https://www.wetell.de/#)
+  * [GigaMobil](https://www.wetell.de/#)
+  * [SmartTech](https://www.wetell.de/#)
+  * [Optionen](https://www.wetell.de/#)
+    * [FAIRstärker](https://www.wetell.de/#)
+    * [EasyTravel](https://www.wetell.de/#)
+    * [OneNumber](https://www.wetell.de/#)
 
-  * [Wechselservice](https://www.wetell.de/fuers-business/businesstarife/wechselservice/)
-  * [Tarif mit Handy](https://www.wetell.de/fuers-business/businesstarife/tarif-mit-handy/)
-  * [Auslandskonditionen](https://www.wetell.de/fuers-business/businesstarife/auslandskonditionen/)
+  * [Wechselservice](https://www.wetell.de/#)
+  * [Tarif mit Handy](https://www.wetell.de/#)
+  * [Auslandskonditionen](https://www.wetell.de/#)
 
 * Rechtliches
 
   Rechtliches
-  * [Datenschutzerklärung](https://www.wetell.de/datenschutzerklaerung/)
-  * [Impressum](https://www.wetell.de/impressum/)
-  * [AGB](https://www.wetell.de/agb/#agb)
-  * [Kündigung](https://www.wetell.de/kuendigung/)
-  * [Presse](https://www.wetell.de/presse/)
+  * [Datenschutzerklärung](https://www.wetell.de/#)
+  * [Impressum](https://www.wetell.de/#)
+  * [AGB](https://www.wetell.de/#agb)
+  * [Kündigung](https://www.wetell.de/#)
+  * [Presse](https://www.wetell.de/#)
 
 * Mein WEtell
 
@@ -353,56 +353,56 @@ Ich möchte den WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklä
 
 * ###### Mobilfunk ######
 
-* [Mobilfunk](https://www.wetell.de/mobilfunk/)
-* [Optionen](https://www.wetell.de/mobilfunk/optionen/)
-* [Tarif mit Handy](https://www.wetell.de/mobilfunk/tarif-mit-handy/)
-* [Wechselservice](https://www.wetell.de/mobilfunk/wechselservice/)
-* [Auslandskonditionen](https://www.wetell.de/mobilfunk/auslandskonditionen/)
+* [Mobilfunk](https://www.wetell.de/#)
+* [Optionen](https://www.wetell.de/#)
+* [Tarif mit Handy](https://www.wetell.de/#)
+* [Wechselservice](https://www.wetell.de/#)
+* [Auslandskonditionen](https://www.wetell.de/#)
 
 * ###### Warum WEtell? ######
 
-* [Warum WEtell?](https://www.wetell.de/warum-wetell/)
-* [Wirtschaft aufmischen](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/)
-* [Mobilfunk neu denken](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/)
+* [Warum WEtell?](https://www.wetell.de/#)
+* [Wirtschaft aufmischen](https://www.wetell.de/#)
+* [Mobilfunk neu denken](https://www.wetell.de/#)
 
 * ###### Service ######
 
-* [Service](https://www.wetell.de/service/)
-* [Kontakt](https://www.wetell.de/service/kontakt/)
-* [FAQ](https://www.wetell.de/service/faq/)
-* [App](https://www.wetell.de/service/app/)
-* [Downloads](https://www.wetell.de/service/downloads/)
-* [Providerliste](https://www.wetell.de/service/providerliste/)
+* [Service](https://www.wetell.de/#)
+* [Kontakt](https://www.wetell.de/#)
+* [FAQ](https://www.wetell.de/#)
+* [App](https://www.wetell.de/#)
+* [Downloads](https://www.wetell.de/#)
+* [Providerliste](https://www.wetell.de/#)
 
 * ###### Community ######
 
-* [Community](https://www.wetell.de/community/)
-* [youtell – Freund\*innen werben](https://www.wetell.de/community/youtell/)
-* [Newsblog](https://www.wetell.de/community/newsblog/)
-* [Whitepapers](https://www.wetell.de/community/whitepapers/)
-* [Spotlight](https://www.wetell.de/community/spotlight/)
-* [Team](https://www.wetell.de/community/team/)
-* [Jobs](https://www.wetell.de/community/jobs/)
-* [Affiliatepartner\*in werden](https://www.wetell.de/community/affiliatepartnerin-werden/)
+* [Community](https://www.wetell.de/#)
+* [youtell – Freund\*innen werben](https://www.wetell.de/#)
+* [Newsblog](https://www.wetell.de/#)
+* [Whitepapers](https://www.wetell.de/#)
+* [Spotlight](https://www.wetell.de/#)
+* [Team](https://www.wetell.de/#)
+* [Jobs](https://www.wetell.de/#)
+* [Affiliatepartner\*in werden](https://www.wetell.de/#)
 
 * ###### Fürs Business ######
 
-* [Fürs Business](https://www.wetell.de/fuers-business/)
-* [Businesstarife](https://www.wetell.de/fuers-business/businesstarife/)
-* [GigaMobil](https://www.wetell.de/fuers-business/businesstarife/gigamobil/)
-* [SmartTech](https://www.wetell.de/fuers-business/businesstarife/smarttech/)
-* [Optionen](https://www.wetell.de/fuers-business/businesstarife/optionen/)
-* [Wechselservice](https://www.wetell.de/fuers-business/businesstarife/wechselservice/)
-* [Tarif mit Handy](https://www.wetell.de/fuers-business/businesstarife/tarif-mit-handy/)
-* [Auslandskonditionen](https://www.wetell.de/fuers-business/businesstarife/auslandskonditionen/)
+* [Fürs Business](https://www.wetell.de/#)
+* [Businesstarife](https://www.wetell.de/#)
+* [GigaMobil](https://www.wetell.de/#)
+* [SmartTech](https://www.wetell.de/#)
+* [Optionen](https://www.wetell.de/#)
+* [Wechselservice](https://www.wetell.de/#)
+* [Tarif mit Handy](https://www.wetell.de/#)
+* [Auslandskonditionen](https://www.wetell.de/#)
 
 * ###### Rechtliches ######
 
-* [Datenschutzerklärung](https://www.wetell.de/datenschutzerklaerung/)
-* [Impressum](https://www.wetell.de/impressum/)
-* [AGB](https://www.wetell.de/agb/#agb)
-* [Kündigung](https://www.wetell.de/kuendigung/)
-* [Presse](https://www.wetell.de/presse/)
+* [Datenschutzerklärung](https://www.wetell.de/#)
+* [Impressum](https://www.wetell.de/#)
+* [AGB](https://www.wetell.de/#agb)
+* [Kündigung](https://www.wetell.de/#)
+* [Presse](https://www.wetell.de/#)
 
 [info@wetell.de](mailto:info@wetell.de)
 
