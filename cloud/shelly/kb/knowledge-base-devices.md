@@ -138,6 +138,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave Plug S](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-s)
 * [Shelly Wave H&T](https://kb.shelly.cloud/knowledge-base/shelly-wave-h-t)
 * [Shelly Wave Dimmer](https://kb.shelly.cloud/knowledge-base/shelly-wave-dimmer)
+* [Shelly Wave 1 Mini](https://kb.shelly.cloud/knowledge-base/shelly-wave-1-mini)
 
  Shelly Qubino Wave devices
 ----------
