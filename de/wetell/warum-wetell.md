@@ -1,6 +1,3 @@
-* [Home](/)
-* Warum WEtell?
-
 Dafür brennen wir
 ==========
 

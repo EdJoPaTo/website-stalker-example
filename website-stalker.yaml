@@ -366,31 +366,36 @@ sites:
   - url: https://www.wetell.de/
     editors:
       # - css_select: body
-      - css_remove: figure, picture, img, svg, noscript, script, style, .loader
+      - css_remove: img, noscript, script, style
       - html_url_canonicalize
       - html_markdownify
   - url: https://www.wetell.de/service/faq/
     editors:
-      - css_select: .module--faqs__content
-      - css_remove: .faq__content__footer__feedback
+      - css_select: .faq-entry
+      - css_remove: nav, img, noscript, script, style
       - css_tag_replace:
           selector: button
           replace: h4
       - html_markdownify
-  - url: https://www.wetell.de/spotlight/
-    editors:
-      - css_select: .box__content
-      - html_markdownify
   - url:
-      - https://www.wetell.de/vision/
-      - https://www.wetell.de/vision/klimaschutz/
-      - https://www.wetell.de/vision/datenschutz/
-      - https://www.wetell.de/vision/fairness-und-transparenz/
-      - https://www.wetell.de/vision/purpose/
-      - https://www.wetell.de/vision/gemeinwohl-mobilfunk-bilanz/
+      - https://www.wetell.de/community/spotlight/
+      - https://www.wetell.de/warum-wetell/
+      - https://www.wetell.de/service/
+      - https://www.wetell.de/mobilfunk/optionen/esim/
     editors:
       - css_select: main
-      - css_remove: img, .account-bar, .bar__value, .bar__content__bar__front, .module--faqs__menu, .faq__content__footer__feedback
+      - css_remove: nav, img, noscript, script, style
+      - html_markdownify
+  - url:
+      - https://www.wetell.de/service/downloads/
+      - https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/
+      - https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/
+    editors:
+      - css_select: main
+      - css_remove: nav, img, noscript, script, style
+      - css_tag_replace:
+          selector: button
+          replace: h4
       - html_markdownify
 
   - url: https://gnorp.dev/news/

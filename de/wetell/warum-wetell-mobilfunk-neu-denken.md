@@ -1,26 +1,18 @@
-* [Home](/)
-* [Warum WEtell?](/warum-wetell/)
-* Mobilfunk neu denken
-
 Mobilfunk neu denken
 ==========
-
-* [Aktiv fürs Klima](#aktiv_fuers_klima)
-* [Fairness für alle](#fairness_fuer_alle)
-* [Liebevoller Service](#liebevoller_service)
 
 Aktiv fürs Klima
 ----------
 
 Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovativen Klimaschutzkonzept, CO<sub>2</sub>-Kompensation durch Pflanzenkohle und Investitionen in Erneuerbare Energien gehen wir über die üblichen Ansätze hinaus. Unser Ziel: Den Mobilfunk klimaneutral gestalten und aktiv zur Energiewende beitragen.
 
-* Regeneratives Wirtschaften
+* #### Regeneratives Wirtschaften ####
 
   Wir haben den Anspruch, regenerativ zu wirken. „Regenerativ“ klingt zwar gähnend langweilig, dahinter steckt jedoch ein superspannender Ansatz: Es geht darum, so zu handeln, dass die Umwelt nicht nur geschont wird, sondern sogar noch von unserem Tun profitiert.
 
   In unserem Fall heißt das: Wir wollen nicht einfach „nur“ CO<sub>2</sub>-Emissionen ausgleichen. Wir wollen richtig wirksam werden, die Energiewende vorantreiben und auch öffentlich für den [Klimaschutz einstehen](/warum-wetell/wirtschaft-aufmischen/#lobby_in_gut). Dafür haben wir uns ein Klimaschutzkonzept ausgedacht, dass wir immer wieder erweitern und verbessern.
 
-* Warum Klimaschutz?
+* #### Warum Klimaschutz? ####
 
   Klimaschutz im Mobilfunk ist absolut wichtig. Jedes Like, jede Telefonminute, jedes versandte Foto produzieren CO<sub>2</sub>. Und zwar insgesamt so viel wie der innerdeutsche Flugverkehr! Die Branche wächst rasant, der Bedarf an mobilen Daten wird immer größer – und damit auch die Menge an Emissionen.
 
@@ -28,13 +20,13 @@ Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovati
 
   Das Gute dabei: Für den einzelnen Menschen bietet klimafreundlicher Mobilfunk die Möglichkeit, sehr einfach und bequem nachhaltiger zu leben. Einfach den Tarif wechseln und schon ist dein Alltag etwas nachhaltiger.
 
-* CO<sub>2</sub> vermeiden
+* #### CO<sub>2</sub> vermeiden ####
 
   Die allerbeste Klimaschutzmaßnahme ist es immer, erst gar keine CO<sub>2</sub>-Emissionen entstehen zu lassen. Daher setzen wir, wo immer wir können, auf klimafreundliche Produkte und Dienstleistungen. Das kannst du dir in etwa so vorstellen:
 
   Wir sitzen an refurbishten Computern, die mit Ökostrom laufen, neben uns die Tasse fair gehandelten Biokaffee und speichern die aktuellen Dateien auf dem mit Windenergie betriebenen Server ab. Die Kollegin bucht für die nächste Dienstreise ein Bahnticket mit der Kreditkarte der öko-sozialen Bank, bei der wir unser Geschäftskonto haben. Das Marketingteam bestellt bei der Umweltdruckerei neue Flyer, während im Meetingraum, den wir uns im Co-Working-Space mit anderen Unternehmen teilen, darüber beraten wird, wie wir den CO<sub>2</sub>-Fußabdruck unserer Webseite verkleinern können.
 
-* Emissionen mit Pflanzenkohle zurückholen
+* #### Emissionen mit Pflanzenkohle zurückholen ####
 
   Die meisten Emissionen entstehen beim Betrieb des Mobilfunknetzes, also durch die Energie für die Sendemasten und Rechenzentren. Da das Netz (noch) nicht klimaneutral läuft, gleichen wir alle Emissionen für unseren Mobilfunk aus. Und das vollständig für die gesamte Lieferkette – also inklusive der sogenannten Scope 3-Emissionen.
 
@@ -42,7 +34,7 @@ Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovati
 
   Daher kompensieren wir in Kooperation mit [Carbonfuture](https://www.carbonfuture.earth/) mit Pflanzenkohle. Die Kohle wird in Europa aus Forst-Reststoffen und anderen pflanzlichen Abfällen hergestellt. Sie sorgt dafür, dass das in den Pflanzen gespeicherte CO<sub>2</sub> nicht wieder in die Atmosphäre gelangt. Der Kohlenstoff wird – wie der Name es schon verrät – langfristig in der Kohle gebunden. Die Pflanzenkohle kann man super als Düngezusatz nutzen und damit die Bodenqualität und Biodiversität fördern. Eine absolute Win-win-Geschichte also!
 
-* Energiewende vorantreiben
+* #### Energiewende vorantreiben ####
 
   Langfristig ist das Ausgleichen von Emissionen für uns keine Lösung. Ist doch viel besser, wenn erst gar keine entstehen! Allerhöchste Zeit also für die Energiewende. Damit es mit der schneller vorangeht, fördern wir zusätzlich den Ausbau erneuerbarer Energien.
 
@@ -50,7 +42,7 @@ Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovati
 
   Alle Gewinne aus diesen Investitionen nutzen wir komplett dafür, um sie in weitere Klimaschutz-Maßnahmen zu stecken. Damit wird unser Klima-Impact immer größer.
 
-* Unsere Wirkung in Zahlen
+* #### Unsere Wirkung in Zahlen ####
 
   **CO₂-Einsparung seit Marktstart:**
 
@@ -82,13 +74,13 @@ Fairness für alle
 
 Egal ob bei Kund\*innen, Mitarbeitenden oder Kooperationspartner\*innen: Wir bringen allen Menschen dieselbe Fairness und Menschlichkeit entgegen, die wir uns selbst auch wünschen. Unser Geheimrezept dafür: Ehrlichkeit, Transparenz, Vertrauen und vor allem: Profitinteressen hinten anstellen. Denn oft geht die eigene Gewinnoptimierung eben zulasten der anderen. Ob es dann der Kunde ist, der in den Knebelvertrag gelockt, oder die Lieferantin, die über den Tisch gezogen wird. Wir aber streben nicht nach dem großen Geld, sondern einer gemeinwohlorientierten Wirtschaft. Ganz klar also: Fairness ist bei uns Programm!
 
-* Faire Tarife
+* #### Faire Tarife ####
 
   Bye bye Knebelvertrag, willkommen Freiheit: Alle WEtell Tarife sind grundsätzlich monatlich kündbar. Bei uns gibt’s keine unseriösen Lockangebote, keine falschen Versprechungen. Schließlich wollen wir dich überzeugen und nicht überrumpeln. Bei uns kommst du voll auf deine Kosten – und dank Preistransparenz auch dahinter.
 
   Wir legen uns voll ins Zeug, um Tarifupgrades auch für Bestandskund\*innen umzusetzen. Damit sind wir einzigartig in der Branche! Und klar: Zu fairen [Tarifen](/mobilfunk) gehört auch ein super [Serviceteam](/service), das dir zur Seite steht.
 
-* FAIRstärker – unser Solitarif
+* #### FAIRstärker – unser Solitarif ####
 
   Wir finden: Jede\*r soll sich Klimaschutz leisten können – auch im Mobilfunk.
 
@@ -97,7 +89,7 @@ Egal ob bei Kund\*innen, Mitarbeitenden oder Kooperationspartner\*innen: Wir br
 
   Dabei setzen wir auf Vertrauen – niemand soll sich dafür rechtfertigen müssen, den FAIRstärker in Anspruch zu nehmen.
 
-* Deine Daten gehören dir
+* #### Deine Daten gehören dir ####
 
   Beim mobilen Telefonieren und Surfen fallen so viele Daten an, dass sie ganze Romane über dich erzählen. So lässt sich nachvollziehen, wo du dich aufhältst, welche Internetseiten du besuchst oder mit wem du kommunizierst. Zusammen mit deinen persönlichen Daten ergeben sie einen wahren Datenschatz. Wir machen uns dafür stark, dass dieser Schatz nicht in die falschen Hände gerät, und nutzen deine Daten nur genau dafür, wofür du sie uns übergibst: für deinen Mobilfunk.
 
@@ -128,25 +120,25 @@ Liebevoller Service
 
 Bei uns steht der Mensch im Mittelpunkt. Unser liebevoller Service ist persönlich, ehrlich und immer auf Augenhöhe. Ob per [Telefon](tel:+4976176999848), [Mail](mailto:service@wetell.de) oder [Threema](https://threema.id/VCWEM8SX?text=) – wir sind für dich da und finden gemeinsam die beste Lösung.
 
-* Persönliche Verbindung
+* #### Persönliche Verbindung ####
 
   „Echter Service von Mensch zu Mensch“ – für dieses Versprechen geben wir alles! Unser Service ist das Herzstück unseres Unternehmens. Schließlich verkörpert er tagtäglich unsere wichtigsten Werte: Wertschätzende Kommunikation und Dialog auf Augenhöhe. Daher haben wir uns gegen alle Widerstände durchgesetzt und unser eigenes Serviceteam aufgestellt. Das sitzt mit dem Rest des WEtell Teams gemeinsam im Büro, statt in einem anonymen Callcenter. Und so können wir dir den ehrlichsten, persönlichsten Kund\*innen-Service der Mobilfunkwelt bieten.
 
-* Juhu, ein Mensch am Telefon!
+* #### Juhu, ein Mensch am Telefon! ####
 
   Kurz durchgeklingelt, einmal persönlich mit Henrike oder Lucas gequatscht und – zack – Frage geklärt. Ja, so leicht geht das bei uns. Sogar so leicht, dass der eine oder die andere erschrickt, wenn nach dem zweiten Klingeln wirklich ein Mensch ans Telefon geht.
   Natürlich reagieren wir genauso gerne auf Mails oder Anfragen per Threema. Dass wir über unseren Service eine direkte Möglichkeit haben mit dir und unserer tollen Community auch live in Verbindung zu sein, ist für uns total wertvoll.
 
-* Gemeinsam Lösungen finden
+* #### Gemeinsam Lösungen finden ####
 
   Du kannst dich darauf verlassen, dass du bei uns auf ein offenes Ohr stößt. Wir hören zu, wir fühlen mit und wir tun alles dafür, um gemeinsam die beste Lösung für dich zu finden. Kein Abspeisen mit Standardphrasen, keine Endlosweiterleitung durch die Abteilungen und keine fadenscheinigen Ausreden. Wir gehen auf dich ein und finden auch für nicht ganz so alltäglichen Probleme Lösungen. Und klar, jede\*r macht Fehler. Wenn uns mal einer unterläuft, stehen wir offen und ehrlich dazu.
   Egal, ob es um Fragen zur Rufnummernmitnahme geht, eine neue Tarifoption oder verlorengeglaubte SIM-Karten: Wir sind an deiner Seite und beraten dich offen und ehrlich.
 
-* Per Du
+* #### Per Du ####
 
   Persönlicher Service auf Augenhöhe – dieser Anspruch spiegelt sich auch in unserer Ansprache wider. Denn wir duzen grundsätzlich alle Menschen. Das mag sich für den einen oder die andere erst mal komisch anfühlen. Für uns ist es Ausdruck eines wichtigen Grundsatzes: [Einer zugleich menschlichen und respektvollen Kommunikation](/community/newsblog/du-oder-sie-keine-frage-des-respekts).
 
-* So erreichst du uns
+* #### So erreichst du uns ####
 
   Viele Wege führen nach Rom: Wir bieten dir verschiedene Möglichkeiten, genau die Unterstützung zu finden, die du brauchst.
 
