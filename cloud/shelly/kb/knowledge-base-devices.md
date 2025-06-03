@@ -139,6 +139,13 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave H&T](https://kb.shelly.cloud/knowledge-base/shelly-wave-h-t)
 * [Shelly Wave Dimmer](https://kb.shelly.cloud/knowledge-base/shelly-wave-dimmer)
 * [Shelly Wave 1 Mini](https://kb.shelly.cloud/knowledge-base/shelly-wave-1-mini)
+* [Shelly Wave 1PM Mini](https://kb.shelly.cloud/knowledge-base/shelly-wave-1pm-mini)
+* [Shelly Wave PM Mini](https://kb.shelly.cloud/knowledge-base/shelly-wave-pm-mini)
+* [Shelly Wave I4](https://kb.shelly.cloud/knowledge-base/shelly-wave-i4)
+* [Shelly Wave i4 DC](https://kb.shelly.cloud/knowledge-base/shelly-wave-i4-dc)
+* [Shelly Wave Pro 1PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-1pm)
+* [Shelly Wave Pro 2PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-2pm)
+* [Shelly Wave Motion](https://kb.shelly.cloud/knowledge-base/shelly-wave-motion)
 
  Shelly Qubino Wave devices
 ----------
