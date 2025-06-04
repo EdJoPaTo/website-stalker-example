@@ -12,7 +12,7 @@ In dieser Saison wird es 2 “Booklets” geben.
 
 Als Megamarsch-Neuling macht es Sinn, dass Ihr beide Dokumente (Booklet + Handbuch) lest. Als erfahrener Megamarscher reicht es aus, wenn Ihr Euch ausschließlich das eventbezogene Booklet durchlest. Ein Blick ins Handbuch schadet aber natürlich auch nicht. ;) Das Handbuch kannst Du hier downloaden und lesen:
 
-[HANDBUCH 2023](https://www.megamarsch.de/_files/ugd/c7d428_d6cb54ce7e4d40ad9337cd3b82cf56b6.pdf)
+[HANDBUCH 2025](https://www.megamarsch.de/_files/ugd/c7d428_fa62d22eb08b4cd78a397a3a5d788b60.pdf)
 
 Wer kann am
 Megamarsch teilnehmen?
