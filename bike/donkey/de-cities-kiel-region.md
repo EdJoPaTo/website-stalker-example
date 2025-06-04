@@ -8,7 +8,7 @@ Erkunden Sie die Region Kiel mit Donkey
 Die beste Art, sich in Kopenhagen fortzubewegen
 ----------
 
-Donkey Republic macht es einfach, sich in der Stadt fortzubewegen, egal ob du zur Arbeit pendelst, Freunde triffst oder auf Entdeckungsreise gehst. Mit nur wenigen Klicks in der App kannst du ein hochwertiges Fahrrad oder E-Bike freischalten und dich nach deinen eigenen Bedingungen fortbewegen.
+Donkey Republic macht es einfach, sich in der Stadt fortzubewegen, egal ob du zur Arbeit pendelst, Freunde triffst oder auf Entdeckungsreise gehst. Mit nur wenigen Klicks in der App kannst du ein fahrrad freischalten und dich nach deinen eigenen Bedingungen fortbewegen.
 
 Benötigen Sie ein Fahrrad für 15 Minuten, einen ganzen Tag, eine Woche oder sogar eine monatliche Mitgliedschaft? Wir bieten flexible Optionen, die Ihrem Zeitplan entsprechen. Donkey Republic ist Ihre All-in-One-Mobilitätslösung — einfach, erschwinglich und genau dann verfügbar, wenn und wo Sie sie benötigen.
 
