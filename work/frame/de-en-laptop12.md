@@ -618,7 +618,7 @@ Setting up your pre-built
 
 Set up your laptop in 2–5 minutes with Windows pre-installed.
 
-* **Framework Laptop 12 pre-built quick start guide** Coming soon
+* **Framework Laptop 12 pre-built quick start guide** [Go to guide](https://guides.frame.work/Guide/Framework+Laptop+12+Pre-Built+Quick+Start+Guide/439)
 
 Software updates
 ----------
@@ -637,7 +637,7 @@ Setting up your DIY Edition
 
 Build your laptop in 10–20 minutes.
 
-* **Framework Laptop 12 DIY Edition (13th Gen Intel® Core™)** Coming soon
+* **Framework Laptop 12 DIY Edition (13th Gen Intel® Core™)** [Go to guide](https://guides.frame.work/Guide/Framework+Laptop+12+(13th+Gen+Intel%C2%AE+Core%E2%84%A2)+DIY+Edition+Quick+Start+Guide/429)
 
 Installing Windows and Linux
 ----------
