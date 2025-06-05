@@ -14,21 +14,60 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Unreleased
 ----------
 
-**Available as `1.6.3-beta1`**
+**Available as `1.7.0-beta1`**
 
-note
+### Added ###
 
-Firmware version `1.6.3-beta1` is only deployed for [1 Gen4](/gen2/Devices/Gen4/Shelly1G4), [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4), [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3), [PlugS Gen3](/gen2/Devices/Gen3/ShellyPlugSG3) and [Outdoor PlugS Gen3](/gen2/Devices/Gen3/ShellyOutdoorPlugSG3)
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee) Expose pairing status; enable RPC pairing
+* [WiFi](/gen2/ComponentsAndServices/WiFi) Add BSSID in status
+* [BTHome](/gen2/DynamicComponents/BTHome/) Add sensors statuses in button event info
+* Devices with BL0942 power meter chip (1 PM Gen3, 1PM Mini Gen3, 1PM Gen4, 1PM Mini Gen4, PlugS Gen3, Outdoor PlugS Gen3, Plus 1PM Mini, AZ Plug): Enable zero-cross synchronized output operation
+* RPC-GATTS: Optimize sending small frames in both directions
+
+### Changed ###
+
+* [Scripting](/gen2/ComponentsAndServices/Script) Track CPU usage, throttle BLE Scan results when \>25%
+* Update IDF to 5.4.1
+* Update LwIP to 2.2.1
+* Refactor factory reset to use buildtime FS list
 
 ### Fixed ###
 
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) BTHome: Fix device rescue (e.g. after BluTRV bootloader update)
+* [1 Gen4](/gen2/Devices/Gen4/Shelly1G4), [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Fix Wi-Fi 6 support
+* [Matter](/gen2/ComponentsAndServices/Matter) Fix crash by DNSSD resolving only non-LL IPv6 addresses
+* [Input](/gen2/ComponentsAndServices/Input) Fix erroneous emission of `triple_push` notification when more than 3 pushes occur
+* [Light](/gen2/ComponentsAndServices/Light), [RGBW](/gen2/ComponentsAndServices/RGBW) Allow for decimal values for transition\_duration and toggle\_after for MQTT control
+* Fix `cfg_rev` different from 0 after factory reset
 
 ### Local web ###
+
+### Added ###
+
+* [Schedule](/gen2/ComponentsAndServices/Schedule), [Webhook](/gen2/ComponentsAndServices/Webhook) Add quick button to duplicate already created schedule/webhook
+* [KNX](/gen2/Integrations/KNX/KNXCover) Auto-focus following address field on delimiter key press (dot - `.` for individual address, and slash - `/` for group address)
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee) Show current status
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee) Add button to enable pairing mode
+* [Cover](/gen2/ComponentsAndServices/Cover) Add warning on device setup to use the correct device profile
+* [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv) Add schedule action to set valve position
+* Plugs: Add 'black' preset to color picker
+* Debug: Add quick button to enable logs to Shelly UDP server
+* Debug: Add device id to diagnostics filenames and append device info to logs
 
 ### Changed ###
 
 * [1 Gen4](/gen2/Devices/Gen4/Shelly1G4), [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Add separate page for switching to alternative firmware (Matter/Zigbee)
+* [Webhook](/gen2/ComponentsAndServices/Webhook) Refactor trigger/event and conditions creation flow and UI
+* [Matter](/gen2/ComponentsAndServices/Matter) Update warning on factory reset
+* PM protections: Remove wrong description
+* Update to Svelte 4
+
+### Fixed ###
+
+* [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv) Fix incorrect active/inactive buttons in Boost Mode
+* Config: Fix handling nested configs when object is set to `null`
+* Authentication: Fix incorrect message for wrong password, when HomeAssistant ble proxy is enabled
+* Fix power factor wrong unit prefix
 
 [1.6.2] 2025-05-20
 ----------
