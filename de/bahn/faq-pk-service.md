@@ -4449,15 +4449,17 @@ Neben Taschen, Trolleys und Koffern können Sie folgende Gegenstände mitnehmen:
 * Abstellmöglichkeiten befinden sich in Kleinkindabteilen, Familienbereichen oder in deren Nähe.
 * Bei hoher Auslastung (Ferien, Feiertage, Wochenenden) kann der Platz begrenzt sein.
 
-**Faltfahrräder, Falt-Pedelecs, Elektrokleinstfahrzeuge:**
+**Faltfahrräder, Falt-Pedelecs, Elektrokleinstfahrzeuge, Tretroller:**
 
-* Faltfahrräder, Falt-Pedelecs und Elektrokleinstfahrzeuge (E-Scooter, E-Tretroller, E-Kickboard) dürfen zusammengeklappt mitgenommen werden.
+* Faltfahrräder, Falt-Pedelecs und Elektrokleinstfahrzeuge (E-Scooter, Tretroller, E-Tretroller, E-Kickboard) dürfen zusammengeklappt mitgenommen werden.
+* Für große Erwachsenen-Tretroller (Maße wie ein handelsübliches Fahrrad) gelten die tariflichen Regeln für Fahrräder.
 * Diese müssen sicher verstaut werden und dürfen andere Reisende nicht behindern oder verletzen.
 
 **Fahrräder:**
 
 * Erlaubt in bestimmten Fernverkehrszügen (Kennzeichnung in Ankunfts- und Abfahrtsplänen sowie Reiseauskunft).
 * Benötigt wird eine Fernverkehrs-Fahrradkarte mit Stellplatzreservierung.
+* Für Fahrten im Nahverkehr brauchen Sie eine Fahrkarte aus dem Fahrradkartenangebot des Deutschlandtarifs (z.B. Fahrradtageskarte NV, Kurzstreckenfahrradkarte Bayern). Ausnahme: Die Fahrradmitnahme auf der genutzten Strecke oder zur genutzten Zeit ist kostenfrei. Dies gilt auch für Erwachsenen-Tretroller mit den Maßen eines handelsüblichen Fahrrades.
 * Stellplätze sind in der Regel in Wagen der 2. Klasse, Sitzplatz kann auf Wunsch reserviert werden.
 * Sitzplatz und Stellplatz sind meist im gleichen Wagen, in manchen Fällen in verschiedenen Wagen.
 * Jeder Reisende darf nur ein Fahrrad mitnehmen.
@@ -6936,49 +6938,14 @@ Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Naviga
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-kundenkonto-um-ticket-zu-buchen)
 
- Welche Daten sind im Kundenkonto hinterlegt?
+ Wo finde ich Datenschutzhinweise zum DB Kundenkonto?
 ----------
 
-Im Kundenkonto sind zunächst Ihre Stammdaten hinterlegt, also Name und Adresse(n). Zusätzlich haben Sie die Möglichkeit, die bevorzugte Zahlungsweise zu speichern. Weitere hinterlegte Daten sind abhängig von den genutzten Services und Leistungen. So können Sie zum Beispiel Buchungen einsehen, die Sie angemeldet vorgenommenen haben, häufig genutzte Verbindungen speichern oder eine Übersicht der BahnCards erhalten. Auch eine Anmeldung zum BahnBonus Programm ist möglich. Weiterhin können Sie Ihren aktuellen Prämien- und Statuspunktestand einsehen.
-
-Weitere Informationen finden Sie in unseren Datenschutzhinweisen
-
-* [Datenschutzhinweise](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-daten-sind-im-kundenkonto-hinterlegt)
-
- Wer ist für die Daten verantwortlich?
-----------
-
-DB Vertrieb, DB Fernverkehr und DB Regio sind gemeinsam für die Verarbeitung Ihrer Daten verantwortlich. Zwischen diesen Gesellschaften besteht eine gemeinsame Verantwortung nach Art. 26 DSGVO. In einer Vereinbarung haben die Parteien festgelegt, wer welche Verpflichtungen aus der DSGVO erfüllt. Unabhängig davon können Sie Ihre Rechte jederzeit gegenüber den oben genannten Vertragspartnern geltend machen. Je nachdem wen Sie anschreiben, wird Ihr Anliegen an den Verantwortlichen weitergeleitet, der den von Ihnen genutzten Dienst bereitstellt. Es kann deshalb sein, dass Sie nicht von uns, sondern von dem verantwortlichen DB-Dienst eine Antwort auf Ihr Anliegen erhalten. Für die Ausübung Ihrer Rechte zum Kundenkonto reicht ein Schreiben auf dem Postweg an
-
-DB Vertrieb GmbH
-Europa-Allee 78-84
-60486 Frankfurt
-
-oder per E-Mail an [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com).
+Auf der folgenden Seite finden Sie die aktuellen Datenschutzhinweise zum DB Kundenkonto.
 
 * [Zu den Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-ist-fuer-die-daten-verantwortlich)
-
- Was geschieht mit meinen Daten?
-----------
-
-Ihre im Kundenkonto hinterlegten Daten werden nur im Rahmen der gesetzlichen Bestimmungen und ausschließlich für die Funktionen und Services des Kundenkontos genutzt, welche Sie in Anspruch nehmen. An der Bereitstellung der jeweiligen Funktionen und Dienste können mehrere DB-Gesellschaften beteiligt sein. Eine Weitergabe von Daten an Dritte erfolgt nur dann, wenn dies zwingend erforderlich ist. Weitere Informationen finden sich in unseren Datenschutzhinweisen
-
-* [Zu den Kundenkonto-Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-geschieht-mit-meinen-daten)
-
- Kann ich einsehen, welche Daten hinterlegt sind?
-----------
-
-In Ihrem Kundenkonto können Sie Ihre Daten einsehen: Dies sind beispielsweise Stammdaten (Name, Adressen und hinterlegte Zahlungsdaten), gekaufte Tickets, BahnCards oder gegebenenfalls erteilte Werbeeinwilligungen. Für eine vollständige Datenauskunft können Sie sich gerne an die in unseren Datenschutz-Hinweisen genannten Ansprechpartner wenden.
-
-* [Datenschutzhinweise](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-einsehen-welche-daten-hinterlegt)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/datenschutz-kundenkonto)
 
  Gibt es Services oder Leistungen, die ohne Kundenkonto nicht nutzbar sind?
 ----------
