@@ -975,6 +975,7 @@
 * [Schieferhammer](https://www.wdrmaus.de/filme/sachgeschichten/schieferhammer.php5)
 * [Schiff schwimmt](https://www.wdrmaus.de/filme/sachgeschichten/schiff_schwimmt.php5)
 * [Schiffs-Maus](https://www.wdrmaus.de/filme/sachgeschichten/schiffs_maus.php5)
+* [Schiffshebewerk](https://www.wdrmaus.de/filme/sachgeschichten/schiffshebewerk.php5)
 * [Schiffsschraube](https://www.wdrmaus.de/filme/sachgeschichten/schiffsschraube.php5)
 * [Schlaglöcher](https://www.wdrmaus.de/filme/sachgeschichten/schlagloecher.php5)
 * [Schleusenwartung](https://www.wdrmaus.de/filme/sachgeschichten/schleusenwartung.php5)
