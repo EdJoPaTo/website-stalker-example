@@ -638,10 +638,10 @@ Es gibt zusätzliche Strecken und Zonen, die mit dem Deutschland-Ticket erreicht
 
 Bitte beachten Sie die Details im Geltungsbereich des Schienenverkehrs.
 
-Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
+Eine Tabelle mit detaillierten Angaben finden im PDF ab Seite 15.
 
-*
-* [bahn.de/agb](https://www.bahn.de/agb)
+* [Tarifbedingungen für das Deutschland-Ticket im Deutschlandtarif (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:227be160-8ce7-4e42-b243-0e9be259bf18/tarifbedingungen-deutschland-ticket-250625.pdf)
+* [deutschlandtarifverbund/tarifbedingungen](https://www.deutschlandtarifverbund.de/tarifbedingungen/)
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 

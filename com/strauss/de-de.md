@@ -211,9 +211,9 @@ Produkte zum Gestalten
 
 ---
 
- Montage Starter-Set:
+ Allround Starter-Set:
 
- STRAUSSbox Werkzeug-Set 145 Montage + gratis e.s.Lunchbag
+ STRAUSSbox Werkzeug-Set 145 Allround + gratis e.s.Lunchbag
 
  Sparen im Set
 ---
