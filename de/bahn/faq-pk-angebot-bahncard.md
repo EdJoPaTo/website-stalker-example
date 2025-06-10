@@ -630,9 +630,9 @@ Nutzen Sie für die Online-Kündigung einfach Ihr Kundenkonto:
  Wofür kann ich die ermäßigte BahnCard benutzen?
 ----------
 
-Mit der ermäßigten BahnCard 25 erhalten Sie einen BahnCard-Rabatt in Höhe von 25 Prozent auf die Spar-, Spar- und Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
+Mit der ermäßigten BahnCard 25 erhalten Sie einen BahnCard-Rabatt von 25 Prozent auf die (Super) Sparpreise und Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
 
-Die ermäßigte BahnCard 50 berechtigt den Inhaber zur Inanspruchnahme eines BahnCard-Rabattes in Höhe von 50 Prozent auf die Flexpreise sowie 25 Prozent Rabatt auf die Super Spar- und Sparpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
+Die ermäßigte BahnCard 50 berechtigt den Inhaber zur Inanspruchnahme eines BahnCard-Rabattes in Höhe von 50 Prozent auf die Flexpreise sowie 25 Prozent Rabatt auf die (Super) Sparpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
 
 Dabei können Sie den ICE bzw. IC/EC, ÖBB-Nightjet-Züge (ggf. reservierungspflichtig) und die Züge des Nahverkehrs (IRE, RE, RB, S-Bahn) nutzen.
 
