@@ -672,7 +672,7 @@ Find a guide to replace or upgrade any part.
 [Go to guides](https://guides.frame.work/c/Framework_Laptop)
 
 * **Replace your Display** Coming soon
-* **Swap your Battery** Coming soon
+* **Swap your Battery** [Go to guide](https://guides.frame.work/Guide/Battery/425?lang=en)
 * **Replace your Webcam** Coming soon
 
 Customize
@@ -683,14 +683,14 @@ Expansion Cards
 
 Learn how to insert, remove, and choose your ports to fit our compatibility guidelines.
 
-* **Install your Expansion Cards** Coming soon
+* **Install your Expansion Cards** [Go to guide](https://guides.frame.work/Guide/How+to+Install+and+Remove+Expansion+Cards/431?lang=en)
 
 Chassis
 ----------
 
 Transform and personalize your device with our customizable chassis options.
 
-* **Swap your Input Cover** Coming soon
+* **Swap your Input Cover** [Go to guide](https://guides.frame.work/Guide/Input+Cover/435?lang=en)
 * **Change your Touchpad** Coming soon
 * **Replace your Display Cover** Coming soon
 
