@@ -5930,15 +5930,13 @@ Sie finden eine Übersicht Ihrer gesammelten Punkte in der [BahnBonus App](https
  Wie kann ich die Sprache im DB Navigator ändern?
 ----------
 
-Die App ist auf Deutsch und Englisch verfügbar. Sie übernimmt automatisch die Systemsprache des genutzten Endgeräts. Ist die Systemsprache Deutsch, so erhalten Sie auch die deutsche App-Version. Ist die Systemsprache eine andere als Deutsch, erhalten Sie automatisch die englische App-Version.
-
-Möchten Sie die Sprache der App anpassen, haben Sie folgende Möglichkeiten:
+Die App ist auf Deutsch und Englisch verfügbar. Möchten Sie die Sprache der App anpassen, haben Sie folgende Möglichkeiten:
 
 **Für Android:**
-Öffnen Sie die Systemeinstellungen Ihres Smartphones und wählen Sie anschließend den Punkt "App-Sprachen" aus. Wählen Sie nun die App DB Navigator und anschließend eine der vorgeschlagenen Sprachen aus.
+Öffnen Sie die Systemeinstellungen Ihres Smartphones und wählen Sie in den Sprachreinstellungen anschließend den Punkt "App-Sprachen" aus. Wählen Sie nun die App DB Navigator und anschließend eine der vorgeschlagenen Sprachen aus.
 
 **Für iOS:**
-Öffnen Sie die Systemeinstellungen Ihres iPhones, wählen Sie in den Einstellungen die App DB Navigator und anschließend eine der vorgeschlagenen Sprachen aus.
+Öffnen Sie die Systemeinstellungen Ihres iPhones und wählen Sie anschließend ganz unten den Punkt „Apps“ aus. In den Einstellungen wählen Sie nun die App DB Navigator und anschließend eine der vorgeschlagenen Sprachen aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-sprache-aendern-app)
 
