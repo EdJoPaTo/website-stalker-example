@@ -898,7 +898,7 @@ Choose up to 98GB DDR5-5600 or bring your own
 
 Connectivity
 
-WiFi 6E
+Intel® WiFi 6E AX210 (No Vpro)
 
 Weight
 
@@ -1131,7 +1131,7 @@ Memory Options
 
 Connectivity
 
-WiFi 6E
+Intel® WiFi 6E AX210 (No Vpro)
 
 Weight
 
@@ -1224,8 +1224,6 @@ Easy to repair with replacement parts available in the Framework Marketplace.
 Warranty
 
 1 Year Framework Limited Warranty
-
-Extended warranty
 
 3-year extended limited warranty available for select products and regions
 
