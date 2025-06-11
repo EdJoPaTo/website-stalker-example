@@ -7,6 +7,34 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Alle (0)
 
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 4000 ###
+
+ 42 % Rabatt
+
+statt 5,48 €
+
+* 6 .de-Domains oder 2 Alternativdomains inklusive
+
+* 500 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikat inklusive
+
+* Ruby und NodeJS
+
+* Standorte: NUE | VIE
+
+pro Monat
+
+3,16 €
+
+(inkl. 0% MwSt.)
+
 VPS
 
  Deal abgelaufen
@@ -160,34 +188,6 @@ statt 2,73 €
 pro Monat
 
 2,17 €
-
-(inkl. 0% MwSt.)
-
-Webhosting
-
- Deal abgelaufen
-
-### Webhosting 4000 ###
-
- 42 % Rabatt
-
-statt 5,48 €
-
-* 6 .de-Domains oder 2 Alternativdomains inklusive
-
-* 500 GB SSD Speicherplatz
-
-* SSH Zugang vorhanden
-
-* SSL Zertifikat inklusive
-
-* Ruby und NodeJS
-
-* Standorte: NUE | VIE
-
-pro Monat
-
-3,16 €
 
 (inkl. 0% MwSt.)
 
