@@ -60,7 +60,6 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly 1 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-1-gen3)
 * [Shelly 1PM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen3)
 * [Shelly 2PM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen3)
-* [Shelly Shutter](https://kb.shelly.cloud/knowledge-base/shelly-shutter)
 * [Shelly 1L Gen3](https://kb.shelly.cloud/knowledge-base/shelly-1l-gen3)
 * [Shelly 2L Gen3](https://kb.shelly.cloud/knowledge-base/shelly-2l-gen3)
 * [Shelly i4 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-i4-gen3)
@@ -73,13 +72,16 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly EM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-em-gen3)
 * [Shelly 3EM-63 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-3em-63-gen3)
 * [Shelly Mini Gen3 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen3-devices)
+* [Shelly Shutter](https://kb.shelly.cloud/knowledge-base/shelly-shutter)
 * [Setting up Gen3 devices via Matter](https://kb.shelly.cloud/knowledge-base/setting-up-gen3-devices-via-matter)
 
  Shelly Gen4 devices
 ----------
 
 * [Shelly 1 Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1-gen4)
+* [Shelly 1 Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1-gen4-anz)
 * [Shelly 1PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4)
+* [Shelly 1PM Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4-anz)
 * [Shelly Mini Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen4-devices)
 
  Shelly Pro devices
