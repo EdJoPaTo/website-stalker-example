@@ -117,8 +117,8 @@ Back
  Ethernet 1: 1000 Mbps (Realtek
 8111H)
  Ethernet 2: 2500 Mbps (Realtek 8125BG)
- DC Input: 12V 3A 5.5mm
- Minimum Wattage: 36W
+ DC Input: 19V 4.42A 5.5mm
+ Minimum Wattage: 84W
 
  Wireless
 
