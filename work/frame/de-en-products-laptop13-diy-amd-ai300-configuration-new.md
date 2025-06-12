@@ -95,6 +95,46 @@ Close
 
    All Batches
 
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
 * Ryzen™ AI 7 350  Pre-order  €1,459
 
   8-core/16-thread, up to 5.0GHz
@@ -119,6 +159,46 @@ Close
 
    All Batches
 
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
 * Ryzen™ AI 9 HX 370  Pre-order  €1,939
 
   12-core/24-thread, up to 5.1GHz
@@ -136,6 +216,46 @@ Close
    All Batches
 
    Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+
+   All Batches
+
+   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
 
    All Batches
 
