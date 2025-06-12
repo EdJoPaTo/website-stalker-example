@@ -117,6 +117,86 @@ Batch 0 - Sage/Bubblegum/Lavender - Ships priority in July
 
    All Batches
 
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
 * i5-1334U  Pre-order  €739
 
   * Up to 4.6GHz, 2+8 cores
@@ -158,6 +238,86 @@ Batch 0 - Sage/Bubblegum/Lavender - Ships priority in July
    All Batches
 
    Batch 1 - Sage/Bubblegum/Lavender  Ships July - Sold Out  Batch 2  Ships July - Sold Out  Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
+
+   All Batches
+
+   Batch 3  Ships July - Sold Out  Batch 4  Ships July - Sold Out  Batch 5  Ships July - Sold Out  Batch 6  Ships July - Sold Out  Batch 7  Ships Q3 - Sold Out  Batch 8  Ships Q3
 
    All Batches
 
