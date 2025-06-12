@@ -148,7 +148,7 @@ Unsere beliebtesten BahnCards
 
 [Jetzt bestellen Jetzt bestellen: BahnCard 100, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O219)
 
-Welche BanCard lohnt sich für mich?
+Welche BahnCard lohnt sich für mich?
 ----------
 
 **Wann lohnt sich die BahnCard 25?**
