@@ -192,7 +192,7 @@ ARM-Server sind vielseitig einsetzbar und unterstützen gängige Software, darun
 
 ### Gibt es Einschränkungen bei der x86-Kompatibilität von ARM-Servern? ###
 
-Ja, ARM-Server können x86-basierte Anwendungen nicht ausführen. Es ist wichtig, die Kompatibilität im Voraus zu überprüfen.
+ARM-Server können x86-basierte Anwendungen nicht ausführen. Es ist wichtig, die Kompatibilität im Voraus zu überprüfen. Beachte, dass die bereitgestellten CDs/DVDs nicht auf jedem Server funktionsfähig sind. Die jeweiligen Systemanforderungen müssen erfüllt sein. Beispielsweise lässt sich **Windows nicht auf Servern mit ARM64-Architektur betreiben**. Eine Übersicht der bereitgestellten CDs/DVDs findest du [hier](https://www.netcup.com/de/server/vserver-images).
 
 ### Welche Vorteile bieten Ampere Altra Max CPUs? ###
 
