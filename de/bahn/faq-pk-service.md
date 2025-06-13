@@ -5031,13 +5031,6 @@ Im [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/fami
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unterschied-kleinkindabteil-familienbereich)
 
- Warum kann das Kleinkindabteil oder der Familienbereich nicht als Präferenz bei der Sitzplatzreservierung angegeben werden?
-----------
-
-Um das Kleinkindabteil bzw. den Familienbereich reservieren zu können, nutzen Sie bitte die grafische Sitzplatzauswahl.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-das-kleinkindabteil-nicht-bei-der-sitzplatzreservierung-angegeben-werden)
-
  Muss ich ein Kind unter 6 Jahren bei der Buchung angeben?
 ----------
 
