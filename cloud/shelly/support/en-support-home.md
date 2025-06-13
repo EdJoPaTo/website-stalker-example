@@ -10,7 +10,7 @@ Knowledge base
 
 [View all articles](/en/support/solutions)
 [Shelly FAQ Review our FAQ section prior to submitting a support ticket.](/en/support/solutions/103000096015)
-[Shelly Z-Wave Contain all the articles related to the Shelly Z-Wave devices](/en/support/solutions/103000149854)
+[Shelly Z-Wave Contain all the articles related to the Shelly Z-Wave devices. The product line known as "Shelly Qubino Wave" will now be referred as "Shelly Wave". This Name change will not impact the functionality of any devices. The only modification will be the use of the new name in all future documentation.](/en/support/solutions/103000149854)
 [Solutions & Articles Discover a wealth of information, solutions, and insightful articles](/en/support/solutions/103000237018)
 [Installation Videos Simplify setup with our quick-install videos, ensuring effortless assembly for your convenience.](/en/support/solutions/103000242920)
 [Knowledge base Learn everything you need about Shelly devices.](https://kb.shelly.cloud/knowledge-base/)
@@ -28,6 +28,6 @@ GEN 1 Devices Changelog GEN 2/3 Devices ChangelogBLU Devices ChangelogShelly APP
 [Shelly device is shown as offline in Shelly Cloud Application, but it is powered. What is the problem? Modified on Thu, 2 May, 2024 at 3:04 PM](/en/support/solutions/articles/103000046374-shelly-device-is-shown-as-offline-in-shelly-cloud-application-but-it-is-powered-what-is-the-problem)
 [I'm unable to add my Shelly device to the cloud and I'm seeing the error "Device owned by another user." What steps should I take? Modified on Wed, 24 Apr, 2024 at 3:04 PM](/en/support/solutions/articles/103000043907-i-m-unable-to-add-my-shelly-device-to-the-cloud-and-i-m-seeing-the-error-device-owned-by-another-use)
 [Troubleshooting Shelly devices Modified on Mon, 3 Feb at 2:20 PM](/en/support/solutions/articles/103000280420-troubleshooting-shelly-devices)
-[Shelly Qubino Wave - Firmware updates Modified on Wed, 14 Aug, 2024 at 4:40 PM](/en/support/solutions/articles/103000258471-shelly-qubino-wave-firmware-updates)
+[Shelly Wave - Firmware updates Modified on Fri, 13 Jun at 12:05 PM](/en/support/solutions/articles/103000258471-shelly-wave-firmware-updates)
 [I have changed my router/modem with another one. How to integrate back my devices into the new router and network? Modified on Mon, 16 Dec, 2024 at 7:06 PM](/en/support/solutions/articles/103000046465-i-have-changed-my-router-modem-with-another-one-how-to-integrate-back-my-devices-into-the-new-router)
 [Range extender functionality Modified on Wed, 30 Oct, 2024 at 12:01 PM](/en/support/solutions/articles/103000222505-range-extender-functionality)
