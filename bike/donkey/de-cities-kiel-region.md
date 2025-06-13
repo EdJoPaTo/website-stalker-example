@@ -33,69 +33,10 @@ Entsperren und losfahren
 
 Entsperren Sie das Fahrrad mit Ihrem Telefon und beginnen Sie Ihre Fahrt in Sekunden
 
-Parken und Schleusen
+Parken und abschliessen
 ----------
 
-Beenden Sie Ihre Fahrt, indem Sie das Fahrrad an einem Donkey-Hub sperren, der in der App angezeigt wird
-
-Unsere Preisgestaltung
-----------
-
-Fahr jetzt, zahle später! Mit den Pay-As-You-Go-Preisen von Donkey Republic zahlen Sie pro Minute umso weniger, je länger Sie fahren. Einfach, flexibel und perfekt für jedes Abenteuer!
-
-### Just Ride ###
-
-Pedal bikes
-
-Minuten
-
-Preis
-
-First 30min
-
-For each additional 30min
-
-Max. 12€ per day/24h
-
-0€
-
-1€
-
-Cargo Bikes
-
-Minuten
-
-Preis
-
-First 30min
-
-For each additional 30min
-
-Max 15€ per day/24h
-
-0€
-
-1€
-
-### E-bikes & E-cargo bikes ###
-
-First 30min
-
-Stunden
-
-Preis pro Monat
-
-2€
-
-2€
-
-For each additional 30min
-
-Max 30€ per day/24h
-
-Minuten
-
-Preis
+Beende deine Fahrt, indem du das Fahrrad an einem Donkey Hub abschliesst, der in der App angezeigt wird.
 
 Erschließen Sie ultimative Flexibilität
 ----------
