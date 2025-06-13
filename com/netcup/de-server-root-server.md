@@ -27,11 +27,11 @@ RS 1000 G11
 
 bereits ab monatlich
 
-9,51 €
+8,24 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m#rs-1000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m)
 
 RS 2000 G11
 
@@ -44,11 +44,11 @@ RS 2000 G11
 
 bereits ab monatlich
 
-16,29 €
+14,19 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m#rs-2000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m)
 
 RS 4000 G11
 
@@ -61,11 +61,11 @@ RS 4000 G11
 
 bereits ab monatlich
 
-30,58 €
+26,55 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m#rs-4000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m)
 
 RS 8000 G11
 
@@ -79,11 +79,11 @@ RS 8000 G11
 
 bereits ab monatlich
 
-54,77 €
+47,62 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m#rs-8000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m)
 
 RS 12000 G11
 
@@ -96,11 +96,11 @@ RS 12000 G11
 
 bereits ab monatlich
 
-79,23 €
+68,91 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-12000-g11-12m#rs-12000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-12000-g11-12m)
 
 RS 16000 G11
 
@@ -113,11 +113,11 @@ RS 16000 G11
 
 bereits ab monatlich
 
-104,37 €
+90,76 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-16000-g11-12m#rs-16000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-16000-g11-12m)
 
 Root Server auf KVM-Basis
 ----------
