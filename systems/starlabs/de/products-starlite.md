@@ -61,6 +61,8 @@ Extras
 
 StarLite Mk V Protective Case
 
+Tempered Glass Screen Protector – 2-Pack
+
 32GB Reversible USB Recovery Drive
 
 USB-C 3.1 (5m)  Charge Cable
