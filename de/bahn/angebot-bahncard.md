@@ -18,6 +18,16 @@ Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
 
+### My BahnCard 50, 2. Klasse ###
+
+**50 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparangebote des Fernverkehrs**
+
+[Weitere Informationen Weitere Informationen: My BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/mybahncard-2-klasse)
+
+Jetzt 49,99 Euro statt 79,90 Euro
+
+[Jetzt bestellen Jetzt bestellen: My BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O212)
+
 ### BahnCard 25, 2. Klasse ###
 
 **25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
@@ -97,13 +107,3 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 81,90 Euro
 
 [Jetzt bestellen Jetzt bestellen: My BahnCard 25, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O111)
-
-### Senioren BahnCard 25, 2. Klasse ###
-
-**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
-
-[Weitere Informationen Weitere Informationen: Senioren BahnCard 25, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard25/seniorenbahncard-2-klasse)
-
-40,90 Euro
-
-[Jetzt bestellen Jetzt bestellen: Senioren BahnCard 25, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O208)

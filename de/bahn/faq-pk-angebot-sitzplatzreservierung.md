@@ -89,7 +89,7 @@ Bei der Buchung einer Fahrkarte für die **1. Klasse ist eine kostenfreie Reser
 * In allen Fernverkehrszügen innerhalb Deutschlands.
 * In grenzüberschreitenden Fernverkehrszügen bis zu dem Bahnhof, an dem Sie im Ausland aussteigen oder umsteigen.
 
-Wenn Sie im Ausland umsteigen, bezahlen Sie für die nachfolgenden Züge in der 2. Klasse 5,20 Euro und in der 1. Klasse 6,50 Euro für die Sitzplatzreservierung.
+Wenn Sie im Ausland umsteigen, bezahlen Sie für die nachfolgenden Züge in der 2. Klasse 5,50 Euro und in der 1. Klasse 6,90 Euro für die Sitzplatzreservierung.
 
 **Reservierungspflichtige Züge:**
 Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung kostenfrei bei der Buchung der Fahrkarte. Wenn Sie die Reservierung nachträglich kaufen, zahlen Sie den Preis für die normale Sitzplatzreservierung.
@@ -177,15 +177,10 @@ Wir empfehlen Ihnen eine frühzeitige Reiseplanung und Reservierung.
 
 **Einzelreservierung**
 
-* 5,20 Euro für die 2. Klasse
-* 6,50 Euro für die 1. Klasse
+* 5,50 Euro für die 2. Klasse
+* 6,90 Euro für die 1. Klasse
 
 Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservierung inklusive.
-
-**Familienreservierung**
-
-* 10,40 Euro für die 2. Klasse
-* 13 Euro für die 1. Klasse ohne gleichzeitigen Ticketkauf
 
 **Gruppenreservierung**
 

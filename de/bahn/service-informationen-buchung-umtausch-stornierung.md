@@ -120,11 +120,11 @@ Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort gelten
 * Bis 14 Tage vor Reisetag: kostenfrei.
 * Ab 13 Tage bis 1 Tag vor dem Reisetag: 5 Euro pro zu stornierender Person. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen.
 
-###  Flexpreis/Normalpreis (online oder mobil gebucht)  ###
+###  Flexpreis/Flexpreis Europa/ Normalpreis (online oder mobil gebucht)  ###
 
 #### Details ####
 
-Sie haben Ihr Flexpreis- oder Normalpreis-Ticket über bahn.de oder die App DB Navigator gebucht?
+Sie haben Ihr Flexpreis-, oder Normalpreis-Ticket über bahn.de oder die App DB Navigator gebucht?
 
 * Sie können Ihr Ticket online oder in der App DB Navigator stornieren
 * Sie bekommen den Ticketwert ggf. abzüglich eines Bearbeitungsentgelts zurück
@@ -139,34 +139,27 @@ Sie haben Ihr Flexpreis- oder Normalpreis-Ticket über bahn.de oder die App DB N
 
 **Stornierung & Umtausch im Fernverkehr (ICE, IC/EC)**
 
-* Bis 8 Tage vor dem 1. Geltungstag der Hinfahrt: kostenfrei
-* 7 bis 1 Tag vor dem 1. Geltungstag der Hinfahrt: 10 Euro pro Fahrkarte
+* bis 1 Tag vor dem 1. Geltungstag der Hinfahrt: kostenlos
 * Ab dem 1. Geltungstag der Hinfahrt: 30 Euro pro Fahrkarte
 
 Die Geltungsdauer ist auf Ihrem Ticket aufgedruckt.
 
 **Fristen**
 
-Sie können Flexpreis- oder Normalpreis-Fahrkarten innerhalb dieser Fristen zur Erstattung einreichen:
-
-* Im nationalen Verkehr bis zu 6 Monate nach Ablauf der Geltungsdauer
-* Im internationalen Verkehr innerhalb 1 Monat nach Ablauf der Geltungsdauer
+Sie können Flexpreis-Fahrkarten bis zu 6 Monate nach Ablauf der Geltungsdauer zur Erstattung einreichen.
 
 Geänderte Reisepläne?
 
 Der Flexpreis ist ohne Zugbindung: Nehmen Sie am gebuchten Reisetag einfach den Zug, der Ihnen am Besten passt.
 
-###  Flexpreis/Normalpreis (im Reisezentrum/Agentur oder per Telefon gekauft)  ###
+###  Flexpreis/ Flexpreis Europa/ Normalpreis (im Reisezentrum/Agentur oder per Telefon gekauft)  ###
 
 #### Prozess ####
 
 * Bitte legen Sie Ihre Tickets für die Stornierung im Reisezentrum vor.
 * Enthält Ihre Fahrkarte auch eine Pflichtreservierung, z.B. beim Nachtzug, müssen auch die zugehörige Sitzplatzreservierung mitbringen.
 
-Sie können Flexpreis-Fahrkarten innerhalb dieser Fristen zur Erstattung einreichen:
-
-* Im nationalen Verkehr bis zu 6 Monate nach Ablauf der Geltungsdauer
-* Im internationalen Verkehr innerhalb 1 Monat nach Ablauf der Geltungsdauer
+Sie können Flexpreis-Fahrkarten bis zu 6 Monate nach Ablauf der Geltungsdauer zur Erstattung einreichen.
 
 Die Geltungsdauer ist auf Ihrem Ticket aufgedruckt.
 

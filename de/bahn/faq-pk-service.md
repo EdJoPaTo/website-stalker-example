@@ -339,9 +339,7 @@ Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort kann d
 
 Ja.
 
-**Bis 8 Tage vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
-
-**7 bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: 10 Euro pro Fahrkarte
+**Bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
 
 **Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
 
@@ -374,6 +372,8 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
 ----------
 
 Flexpreis-Tickets können bis zu **12 Monate im Voraus** (jeweils ab dem Fahrplanwechsel im Juni und Dezember) gebucht werden.
+
+Vom 15. Juni bis 31. Juli 2025 erhalten Sie bei Buchung mehr als vier Wochen vor Abfahrt einen Rabatt in Höhe von 20 Prozent im Vergleich zu einer Buchung am Tag der Abfahrt. Die Frühbucher-Tickets sind für Reisen bis einschließlich 13. Dezember 2025 verfügbar.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
@@ -427,7 +427,7 @@ Bei der Buchung einer Fahrkarte für die **1. Klasse ist eine kostenfreie Reser
 * In allen Fernverkehrszügen innerhalb Deutschlands.
 * In grenzüberschreitenden Fernverkehrszügen bis zu dem Bahnhof, an dem Sie im Ausland aussteigen oder umsteigen.
 
-Wenn Sie im Ausland umsteigen, bezahlen Sie für die nachfolgenden Züge in der 2. Klasse 5,20 Euro und in der 1. Klasse 6,50 Euro für die Sitzplatzreservierung.
+Wenn Sie im Ausland umsteigen, bezahlen Sie für die nachfolgenden Züge in der 2. Klasse 5,50 Euro und in der 1. Klasse 6,90 Euro für die Sitzplatzreservierung.
 
 **Reservierungspflichtige Züge:**
 Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung kostenfrei bei der Buchung der Fahrkarte. Wenn Sie die Reservierung nachträglich kaufen, zahlen Sie den Preis für die normale Sitzplatzreservierung.
@@ -1210,15 +1210,10 @@ Nach Italien ist die Mitnahme von großen Hunden ausgeschlossen. Für Fahrten in
 
 **Einzelreservierung**
 
-* 5,20 Euro für die 2. Klasse
-* 6,50 Euro für die 1. Klasse
+* 5,50 Euro für die 2. Klasse
+* 6,90 Euro für die 1. Klasse
 
 Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservierung inklusive.
-
-**Familienreservierung**
-
-* 10,40 Euro für die 2. Klasse
-* 13 Euro für die 1. Klasse ohne gleichzeitigen Ticketkauf
 
 **Gruppenreservierung**
 
@@ -5001,6 +4996,42 @@ Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stor
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-niedersachsen-storno)
+
+ Was kostet das FahrradTagesTicket NRW?
+----------
+
+Das FahrradTagesTicket NRW kostet 5,90 Euro pro Rad für 24 Stunden. Es gilt nur in Zusammenhang mit einem Ticket des NRW-Tarifs, einem Verbundticket des AVV-, VRR-, VRS- oder WestfalenTarifs oder mit einem Deutschland-Ticket.
+
+[Weitere Informationen zur Fahrrad-Tageskarte NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
+
+[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kosten)
+
+ Wo kann ich das FahrradTagesTicket NRW kaufen?
+----------
+
+Das FahrradTagesTicket NRW bekommen Sie an DB Automaten, in den DB Reisezentren, in DB Agenturen, Reisebüros mit DB-Lizenz und gleich hier online.
+
+[FahrradTagesTicket NRW auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
+
+[Weitere Informationen zum FahrradTagesTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
+
+[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kaufen)
+
+ Wo und wann ist das FahrradTagesTicket NRW gültig?
+----------
+
+* Gilt für 1 Fahrrad; wenn mehrere Personen gemeinsam mit einem Ticket unterwegs sind, braucht jedes Fahrrad ein eigenes FahrradTagesTicket NRW
+* Gilt für die Fahrradmitnahme bei beliebig vielen Fahrten innerhalb einen Tages
+
+[Weitere Informationen zur Fahrrad-Tageskarte NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
+
+[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-gueltig)
 
  Was sollte ich am Tag der Reise beachten, wenn ich ein Fahrrad mit in den Zug nehmen möchte?
 ----------

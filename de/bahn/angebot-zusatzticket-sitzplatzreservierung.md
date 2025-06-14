@@ -21,7 +21,7 @@ Sitzplatzreservierung im Fernverkehr
 
 [Weitere Informationen Weitere Informationen: Sitzplatzreservierung im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr-nur-sitzplatz)
 
-ab 5,20 Euro
+ab 5,50 Euro
 
 [Sitzplatz buchen Sitzplatz buchen: Sitzplatzreservierung im Fernverkehr](https://www.bahn.de/buchung/intern/start#?STS=true&AR=true&VM=00%2C01%2C02)
 
