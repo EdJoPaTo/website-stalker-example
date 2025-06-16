@@ -229,7 +229,7 @@ Produkte zum Gestalten
 
  Backpack e.s.motion ten Geschenk-Set II
 
-[noch weitere Sets zum Berufsstart](https://www.strauss.com/de/de/s/suche?itemorigin=startseite_fs25&query=berufsstart)
+[weitere Sets zum Berufsstart](https://www.strauss.com/de/de/s/suche?itemorigin=startseite_fs25&query=berufsstart)
 
 ####  Strauss Gutschein  ####
 
