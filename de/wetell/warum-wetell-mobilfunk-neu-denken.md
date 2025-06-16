@@ -76,7 +76,7 @@ Egal ob bei Kund\*innen, Mitarbeitenden oder Kooperationspartner\*innen: Wir br
 
 * #### Faire Tarife ####
 
-  Bye bye Knebelvertrag, willkommen Freiheit: Alle WEtell Tarife sind grundsätzlich monatlich kündbar. Bei uns gibt’s keine unseriösen Lockangebote, keine falschen Versprechungen. Schließlich wollen wir dich überzeugen und nicht überrumpeln. Bei uns kommst du voll auf deine Kosten – und dank Preistransparenz auch dahinter.
+  Bye bye Knebelvertrag, willkommen Freiheit: Alle WEtell Tarife sind grundsätzlich monatlich kündbar. Bei uns gibt’s keine unseriösen Lockangebote, keine falschen Versprechungen. Schließlich wollen wir dich überzeugen und nicht überrumpeln. Bei uns kommst du voll auf deine Kosten – und dank [Preistransparenz](https://www.wetell.de/mobilfunk/#preistransparenz)auch dahinter.
 
   Wir legen uns voll ins Zeug, um Tarifupgrades auch für Bestandskund\*innen umzusetzen. Damit sind wir einzigartig in der Branche! Und klar: Zu fairen [Tarifen](/mobilfunk) gehört auch ein super [Serviceteam](/service), das dir zur Seite steht.
 
