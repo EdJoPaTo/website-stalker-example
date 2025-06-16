@@ -519,7 +519,7 @@ Quick select
 
  Port Expansion Cards
 
- USB-C (New colors available)
+ USB-C  new colors available
 
 01234
 
@@ -660,7 +660,7 @@ Close
 
 Stylus will be available in multiple colors. Coming in Q3.
 
- Stylus – Stylus
+ Stylus - Stylus
 
 0123456
 

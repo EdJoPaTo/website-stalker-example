@@ -473,7 +473,7 @@ Quick select
 
  Port Expansion Cards
 
- USB-C (New colors available)
+ USB-C  new colors available
 
 0123456
 
@@ -551,7 +551,7 @@ Close
 
 (Out of stock)  +€29
 
- Audio – Audio Expansion Card
+ Audio - Audio Expansion Card
 
  Details
 
