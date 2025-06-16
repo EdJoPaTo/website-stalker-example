@@ -321,6 +321,39 @@ Batch 0 - Sage/Bubblegum/Lavender - Ships priority in July
 
    All Batches
 
+**Memory**
+
+ Choose an option
+
+ Batch Number  Configure to see batch
+
+ FAQ
+
+FAQs
+----------
+
+* What model of memory is offered in the Framework Laptop 12?
+
+  We offer Framework-branded DDR5-5600 modules, but in Framework Laptop 12, they are only able to run at DDR5-5200 speed.
+
+* Can I add more memory or storage later?
+
+  Yes! The Framework Laptop 12 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step-by-step guides you can follow to do the upgrade yourself.
+
+* What memory is compatible?
+
+  There is 1x DDR5 SO-DIMM slot in the Framework Laptop 12. This means you can use up to 48GB of DDR5-5200 memory. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility. We recommend avoiding XMP DDR5.
+
+Close
+
+Runs at DDR5-5200 speed on Framework Laptop 12.
+
+* DDR5-5600 - 8GB (1 x 8GB) +€45
+* DDR5-5600 - 16GB (1 x 16GB) +€90
+* DDR5-5600 - 32GB (1 x 32GB) +€180
+* DDR5-5600 - 48GB (1 x 48GB) +€270
+* None (bring your own)
+
 **Storage**
 
  Choose an option
@@ -362,39 +395,6 @@ Close
 
 * Windows 11 Home (Download) +€145
 * Windows 11 Pro (Download) +€259
-* None (bring your own)
-
-**Memory**
-
- Choose an option
-
- Batch Number  Configure to see batch
-
- FAQ
-
-FAQs
-----------
-
-* What model of memory is offered in the Framework Laptop 12?
-
-  We offer Framework-branded DDR5-5600 modules, but in Framework Laptop 12, they are only able to run at DDR5-5200 speed.
-
-* Can I add more memory or storage later?
-
-  Yes! The Framework Laptop 12 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step-by-step guides you can follow to do the upgrade yourself.
-
-* What memory is compatible?
-
-  There is 1x DDR5 SO-DIMM slot in the Framework Laptop 12. This means you can use up to 48GB of DDR5-5200 memory. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility. We recommend avoiding XMP DDR5.
-
-Close
-
-Runs at DDR5-5200 speed on Framework Laptop 12.
-
-* DDR5-5600 - 8GB (1 x 8GB) +€45
-* DDR5-5600 - 16GB (1 x 16GB) +€90
-* DDR5-5600 - 32GB (1 x 32GB) +€180
-* DDR5-5600 - 48GB (1 x 48GB) +€270
 * None (bring your own)
 
  Customization
