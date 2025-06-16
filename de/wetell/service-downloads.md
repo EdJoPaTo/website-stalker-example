@@ -24,7 +24,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [Preisliste Sonderrufnummern](/media/filer_public/41/be/41bec59f-5359-45d1-a738-ec5d06afc939/preisliste_sonderrrufnummern.pdf)
   * [Preisliste Premium-SMS](/media/filer_public/b0/67/b067f2c0-b457-46e3-9b3f-94d1e40b0559/preisliste_premiumsms.pdf)
   * [Preisliste Premium-Voice](/media/filer_public/dc/5f/dc5f964e-9545-47bd-bbed-b53c67f8e599/preisliste_premiumvoice.pdf)
-  * [Preisliste Roaming](/media/filer_public/94/87/94873a3e-7830-4ff5-a898-9c4872fc5d8d/preisliste_roaming.pdf)
+  * [Preisliste Roaming](/media/filer_public/18/4e/184ebe0f-9982-4c73-8588-cd4c43f3f8a5/wetell_pl_roaming_2025-06.pdf)
 
 * #### Produktinformationsblätter ####
 
@@ -57,10 +57,10 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### Abtretungserklärung der Rufnummer ####
 
-  * [Privat zu Geschäftlich](/media/filer_public/23/b8/23b80ab9-9128-406f-8587-6431757e9590/abtretungserklaerung_rufnummer_privat_zu_geschaftlich.pdf)
-  * [Privat zu Privat](/media/filer_public/a0/b6/a0b6a6a4-5a5e-46e9-a3a9-00cd3223b2d2/abtretungserklaerung_rufnummer_privat_zu_privat.pdf)
-  * [Geschäftlich zu Privat](/media/filer_public/bd/25/bd25015c-cd09-4f88-b089-6c9769f1d11a/abtretungserklaerung_rufnummer_geschaftlich_zu_privat.pdf)
-  * [Geschäftlich zu Geschäftlich](/media/filer_public/b7/7d/b77d9199-4dfe-4d95-882c-55d46f18253c/abtretungserklaerung_rufnummer_firma_zu_firma.pdf)
+  * [Privat zu Geschäftlich](/media/filer_public/50/db/50dbb8b6-c2ee-4c41-bfb7-97d25b44476f/abtretungserklarung__privat_zu_geschaftlich.pdf)
+  * [Privat zu Privat](/media/filer_public/b1/72/b17259e4-65ae-4c8f-bad0-8ea1cd4e1a0b/abtretungserklarung_privat_zu_privat.pdf)
+  * [Geschäftlich zu Privat](/media/filer_public/64/7e/647e8681-3a2d-4718-a6e5-e085b9a1319b/abtretungserklarung__geschaftlich_zu_privat.pdf)
+  * [Geschäftlich zu Geschäftlich](/media/filer_public/2a/2a/2a2a354b-6918-4489-8bed-32e9ed0b0f00/abtretungserklarung_geschaftlich_zu_geschaftlich.pdf)
 
 * #### Widerruf und Kündigungen ####
 

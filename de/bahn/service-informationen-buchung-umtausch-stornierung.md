@@ -146,7 +146,7 @@ Die Geltungsdauer ist auf Ihrem Ticket aufgedruckt.
 
 **Fristen**
 
-Sie können Flexpreis-Fahrkarten bis zu 6 Monate nach Ablauf der Geltungsdauer zur Erstattung einreichen.
+Sie können Flexpreis- und Normalpreis-Fahrkarten bis zu 6 Monate nach Ablauf der Geltungsdauer zur Erstattung einreichen.
 
 Geänderte Reisepläne?
 
@@ -159,7 +159,7 @@ Der Flexpreis ist ohne Zugbindung: Nehmen Sie am gebuchten Reisetag einfach den 
 * Bitte legen Sie Ihre Tickets für die Stornierung im Reisezentrum vor.
 * Enthält Ihre Fahrkarte auch eine Pflichtreservierung, z.B. beim Nachtzug, müssen auch die zugehörige Sitzplatzreservierung mitbringen.
 
-Sie können Flexpreis-Fahrkarten bis zu 6 Monate nach Ablauf der Geltungsdauer zur Erstattung einreichen.
+Sie können Flexpreis- und Normalpreis-Fahrkarten bis zu 6 Monate nach Ablauf der Geltungsdauer zur Erstattung einreichen.
 
 Die Geltungsdauer ist auf Ihrem Ticket aufgedruckt.
 
