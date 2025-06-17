@@ -46,13 +46,13 @@ Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovati
 
   **CO₂-Einsparung seit Marktstart:**
 
-  * **475 t** seit Marktstart
-  * **760 t** Forecast bis Ende 2025
+  * **825 t** seit Marktstart
+  * weitere **500 t** geplant bis Ende 2025
 
   **Investitionen in Erneuerbare Energien:**
 
-  * **2020:** Solaranlage mit Ecosia & Naturstrom **570 kWp** = ca. 500 MWh/a
-  * **2024:** Windkraftanlage mit Prokon **100 kWp** = ca. 200 MWh/a
+  * **2020:** Solaranlage mit Ecosia, GLS & Naturstrom 570 kWp = ca. **500 MWh/a**
+  * **2024:** Windkraftanlage mit Prokon ca. **645 MWh/a**
 
   **Investitionen in Start-ups**:
 
@@ -60,14 +60,15 @@ Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovati
 
   **Community Balkonkraftwerke:**
 
-  * **2024:** Erste Runde: 50 Systeme mit je 640 Wp
+  * **2024** Run 1: 50 Systeme mit je **640 Wp**
+  * **2024** Run 2: 10 Systeme mit je **300 Wp**
 
   **Verbände und Netzwerke:**
 
-  * **2019:** SEND Netzwerk
-  * **2021:** fairTEC
-  * **2022:** Bundesverband Nachhaltige Wirtschaft e.V.
-  * **2023:** Unternehmenklimaschutz
+  * **2019:** [SEND Netzwerk](https://www.send-ev.de/)
+  * **2021:** [FairTEC](https://fairtec.io/de/)
+  * **2022:** [Bundesverband Nachhaltige Wirtschaft e.V.](https://www.bnw-bundesverband.de/)
+  * **2023:** [Unternehmenklimaschutz](https://www.wetell.de/community/newsblog/unternehmen-klimaschutz/)
 
 Fairness für alle
 ----------
