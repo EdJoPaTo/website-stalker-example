@@ -149,9 +149,10 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave Pro 1PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-1pm)
 * [Shelly Wave Pro 2PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-2pm)
 * [Shelly Wave Motion](https://kb.shelly.cloud/knowledge-base/shelly-wave-motion)
-* [Shelly Wave Pro 3](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-3)
 * [Shelly Wave Pro 1](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-1)
 * [Shelly Wave Pro 2](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-2)
+* [Shelly Wave Pro 3](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-3)
+* [Shelly Wave Plug US](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-us)
 
  Shelly Qubino Wave devices
 ----------

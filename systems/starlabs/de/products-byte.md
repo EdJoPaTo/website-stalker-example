@@ -7,7 +7,7 @@ Up to 32GB DDR4 memory
 
  Memory
 
- 32GB
+ 16GB
 
 16GB
 
