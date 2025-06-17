@@ -6,7 +6,7 @@
 
 ]()
 
-[Steam Deck OLED](https://www.steamdeck.com/en/oled) [Steam Deck LCD](https://www.steamdeck.com/en/deck) [Dock](https://www.steamdeck.com/en/dock) [Software](https://www.steamdeck.com/en/software) [Deck Verified](https://www.steamdeck.com/en/verified) [Tech Specs](https://www.steamdeck.com/en/tech) [Buy Now](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
+[Steam Deck OLED](https://www.steamdeck.com/en/oled) [Steam Deck LCD](https://www.steamdeck.com/en/deck) [Dock](https://www.steamdeck.com/en/dock) [Software](https://www.steamdeck.com/en/software) [Deck Verified](https://www.steamdeck.com/en/verified) [Tech Specs](https://www.steamdeck.com/en/tech) [Add to Wishlist](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
 []()
 
@@ -39,7 +39,7 @@ Your games, everywhere
 Compare Steam Decks
 ----------
 
-$399.00
+£349.00
 
 ### 256GB LCD ###
 
@@ -54,7 +54,7 @@ $399.00
 * Carrying case
 * Steam profile bundle
 
-$549.00
+£479.00
 
 ### 512GB OLED ###
 
@@ -69,7 +69,7 @@ $549.00
 * Carrying case
 * Steam profile bundle
 
-$649.00
+£569.00
 
 ### 1TB OLED ###
 
@@ -91,12 +91,12 @@ Available now. [View on Steam](https://store.steampowered.com/app/1675200/Steam_
 
 © MARVEL 2022
 
-Get your hands on Deck!
+Add Deck to your Wishlist!
 ----------
 
-Steam Deck is shipping now.
+Steam Deck is now shipping to the United States, Canada, European Union, and the United Kingdom. More regions to come—stay tuned for more info.
 
-[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
+[Add to your Wishlist](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
 [](https://www.steamdeck.com/en/)
 
