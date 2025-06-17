@@ -1,25 +1,299 @@
 netcup Deals
 ==========
 
-**Mid-Year Boost - Deine Chance auf starke Deals!**
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-Am 24. & 25. Juni bekommst du bei uns den ultimativen Mid-Year-Push: Starke Angebote auf Server, Hosting und Domains warten auf dich. Starte mit frischer Energie in die zweite Jahreshälfte!
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-[Mehr Informationen](https://www.netcup.com/de/deals#infos)
+* Alle (0)
 
-### **Das erwartet dich:** ###
+Webhosting
 
-* ### Unschlagbare Deals ###
+ Deal abgelaufen
 
-  To the moon mit unschlagbaren Deals: Bis zu 69 % Rabatt auf Domains, Webhosting, mehr Speicher oder extra vCores für VPS & Root Server Pakete.
+### Webhosting 4000 ###
 
-* ### 24 Stunden verfügbar  ###
+ 42 % Rabatt
 
-  Sei dabei und sichere dir Top Deals jeweils von 10 Uhr bis 10 Uhr am Folgetag (MEZ). Die Aktion startet am Dienstag, 24. Juni.
+statt 5,48 €
 
-* ### Zusätzlicher Flashdeal ###
+* 6 .de-Domains oder 2 Alternativdomains inklusive
 
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), und sichere dir ein exklusives Extra-Angebot – nur für kurze Zeit!
+* 500 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikat inklusive
+
+* Ruby und NodeJS
+
+* Standorte: NUE | VIE
+
+pro Monat
+
+3,16 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 1000 G11 SE ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 6,60 €
+
+* 4 vCore (x86)
+
+* 8 GB ECC RAM
+
+* 512 GB SSD (statt 256 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+5,75 €
+
+(inkl. 0% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 4000 G11 SE ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 24,75 €
+
+* 12 vCore (x86)
+
+* 32 GB ECC RAM
+
+* 2 TB SSD (statt 1 TB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+21,50 €
+
+(inkl. 0% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 1000 G11 SE ###
+
+ \+ 100 % SSD / bis zu 27 % Rabatt
+
+statt bis zu 11,35 €
+
+* 4 vCore (dediziert)
+
+* 8 GB DDR5 ECC RAM
+
+* 512 GB NVMe (statt 256 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE, MNZ, VIE (limitiert)
+
+pro Monat
+
+8,24 €
+
+(inkl. 0% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 2000 G11 SE ###
+
+ \+ 100 % SSD / bis zu 28 % Rabatt
+
+statt bis zu 19,59 €
+
+* 8 vCore (dediziert)
+
+* 16 GB DDR5 ECC RAM
+
+* 1 TB NVMe (statt 512 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE, MNZ, VIE (limitiert)
+
+pro Monat
+
+14,19 €
+
+(inkl. 0% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 4000 G11 SE ###
+
+ \+ 100 % SSD / bis zu 28 % Rabatt
+
+statt bis zu 36,63 €
+
+* 12 vCore (dediziert)
+
+* 32 GB DDR5 ECC RAM
+
+* 2 TB NVMe (statt 1 TB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE, MNZ, VIE (limitiert)
+
+pro Monat
+
+26,55 €
+
+(inkl. 0% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 2000 ###
+
+ 20% Rabatt
+
+statt 2,73 €
+
+* 3 .de-Domains oder 1 Alternativdomain inklusive
+
+* 150 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikat inklusive
+
+* Standorte: NUE | VIE
+
+pro Monat
+
+2,17 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .at Domain ###
+
+ 14 % Rabatt
+
+statt 0,88 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,72 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .ch Domain ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,50 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .eu Domain ###
+
+ 46 % Rabatt
+
+statt 0,66 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,35 €
+
+(inkl. 0% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .li Domain ###
+
+ 74 % Rabatt
+
+statt 1,93 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,50 €
+
+(inkl. 0% MwSt.)
 
 Bleibe auf dem Laufenden
 ----------

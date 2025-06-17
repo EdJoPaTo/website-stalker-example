@@ -219,7 +219,7 @@ Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreser
  Gibt es für kostenfrei mitreisende Kinder kostenfreie Sitzplatzreservierungen?
 ----------
 
-Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfrei - wenn sie aber einen garantierten Sitzplatz haben möchten, müssen Sie für diese eine kostenpflichtige Reservierung buchen. Falls die Familienreservierung das günstigere Angebot für Sie ist, zeigen wir Ihnen automatisch diese an.
+Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfrei - wenn sie aber einen garantierten Sitzplatz haben möchten, müssen Sie für diese eine kostenpflichtige Reservierung buchen.
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
