@@ -27,7 +27,7 @@ RS 1000 G11
 
 bereits ab monatlich
 
-9,51 €
+8,24 €
 
 (inkl. 0% MwSt.)
 
@@ -44,7 +44,7 @@ RS 2000 G11
 
 bereits ab monatlich
 
-16,29 €
+14,19 €
 
 (inkl. 0% MwSt.)
 
@@ -61,7 +61,7 @@ RS 4000 G11
 
 bereits ab monatlich
 
-30,58 €
+26,55 €
 
 (inkl. 0% MwSt.)
 
@@ -79,7 +79,7 @@ RS 8000 G11
 
 bereits ab monatlich
 
-54,77 €
+47,62 €
 
 (inkl. 0% MwSt.)
 
@@ -96,7 +96,7 @@ RS 12000 G11
 
 bereits ab monatlich
 
-79,23 €
+68,91 €
 
 (inkl. 0% MwSt.)
 
@@ -113,7 +113,7 @@ RS 16000 G11
 
 bereits ab monatlich
 
-104,37 €
+90,76 €
 
 (inkl. 0% MwSt.)
 
