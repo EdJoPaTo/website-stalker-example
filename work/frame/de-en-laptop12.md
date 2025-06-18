@@ -20,15 +20,15 @@ Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for e
 
 [Pre-order now](/products/laptop12-diy-intel-13gen/configuration/new)
 
-###### Super flexible computer  ######
+###### Super flexible computer ######
 
 360-degree hinge, 12.2” touchscreen display with stylus support.
 
-###### Unusually capable for its size  ######
+###### Unusually capable for its size ######
 
 i3 and i5 13th Gen Intel® Core™ processors, upgradeable memory and storage, and a full size keyboard.
 
-###### Ultra-durable  ######
+###### Ultra-durable ######
 
 Shock-absorbing chassis meets MIL-STD-810 durability standards to protect from bumps and drops.
 
