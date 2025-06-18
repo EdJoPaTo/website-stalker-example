@@ -58,9 +58,9 @@ VPS 1000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
-0,011€/Stunde oder je Monat:
+0,011€/Stunde oder je Monat ab:
 
-6,60 €
+5,75 €
 
 (inkl. 0% MwSt.)
 
@@ -75,9 +75,9 @@ VPS 2000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
-0,025€/Stunde oder je Monat:
+0,025€/Stunde oder je Monat ab:
 
-14,50 €
+12,60 €
 
 (inkl. 0% MwSt.)
 
@@ -92,9 +92,9 @@ VPS 3000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
-0,034€/Stunde oder je Monat:
+0,034€/Stunde oder je Monat ab:
 
-19,55 €
+17,00 €
 
 (inkl. 0% MwSt.)
 
@@ -109,9 +109,9 @@ VPS 4000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
-0,043€/Stunde oder je Monat:
+0,043€/Stunde oder je Monat ab:
 
-24,75 €
+21,50 €
 
 (inkl. 0% MwSt.)
 
@@ -126,9 +126,9 @@ VPS 6000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
-0,052€/Stunde oder je Monat:
+0,052€/Stunde oder je Monat ab:
 
-29,90 €
+26,00 €
 
 (inkl. 0% MwSt.)
 
@@ -143,9 +143,9 @@ VPS 8000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
-0,063€/Stunde oder je Monat:
+0,063€/Stunde oder je Monat ab:
 
-36,79 €
+32,00 €
 
 (inkl. 0% MwSt.)
 
