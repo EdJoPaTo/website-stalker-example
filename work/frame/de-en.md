@@ -22,7 +22,7 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 
 Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
 
-[Pre-order](/products/laptop13-diy-amd-ai300/configuration/new)
+[Shop now](/products/laptop13-diy-amd-ai300/configuration/new)
 
 [Learn more](/laptop13)
 

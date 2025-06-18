@@ -11,7 +11,7 @@ Framework Laptop 13
 
 [AMD Ryzen™](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
-[Pre-order AI 300 Series Starting at €1,059.00](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+[AI 300 Series Starting at €1,059.00](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
 [10% off 7040 Series Starting at €879.00 was: €979](/de/en/products/laptop-diy-13-gen-amd/configuration/new)
 
@@ -37,8 +37,6 @@ If you are a business customer, need more than five laptops or desktops per orde
 **System**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -71,203 +69,27 @@ FAQs
 
 Close
 
-* Ryzen™ AI 5 340  Pre-order  €1,059
+* Ryzen™ AI 5 340  €1,059
 
   6-core/12-thread, up to 4.8GHz
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+   Ships within five business days.
 
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-* Ryzen™ AI 7 350  Pre-order  €1,459
+* Ryzen™ AI 7 350  €1,459
 
   8-core/16-thread, up to 5.0GHz
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
+   Ships within five business days.
 
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-* Ryzen™ AI 9 HX 370  Pre-order  €1,939
+* Ryzen™ AI 9 HX 370  €1,939
 
   12-core/24-thread, up to 5.1GHz
 
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 5  Shipped  Batch 6  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
-
-   Batch 1  Shipped  Batch 2  Shipped  Batch 3  Shipped  Batch 4  Shipped  Batch 7  Shipped  Batch 8  Ships June
-
-   All Batches
+   Ships within five business days.
 
 **Display**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
 * Matte Display
 
@@ -281,8 +103,6 @@ Close
 **Memory**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -313,8 +133,6 @@ Close
 
  Choose an option
 
- Batch Number  Configure to see batch
-
  FAQ
 
 FAQs
@@ -343,8 +161,6 @@ Close
 
  Choose an option
 
- Batch Number  Configure to see batch
-
  FAQ
 
 FAQs
@@ -366,8 +182,6 @@ Close
 **Bezel**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -394,8 +208,6 @@ Close
 **Keyboard**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -441,8 +253,6 @@ Close
 
  Choose an option
 
- Batch Number  Configure to see batch
-
 * Power Adapter - 60W - EU +€49
 * Power Adapter - 60W - UK +€49
 * None (bring your own)
@@ -453,8 +263,6 @@ Close
 **Expansion Cards**
 
  Choose any number
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -501,13 +309,13 @@ Quick select
 
  \+€10
 
-Choose colorAluminumOrangeLavenderGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavender&nbsp;&nbsp;&nbsp;(Out of stock)GreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavender&nbsp;&nbsp;&nbsp;(Out of stock)GreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavender&nbsp;&nbsp;&nbsp;(Out of stock)GreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavender&nbsp;&nbsp;&nbsp;(Out of stock)GreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
  USB-A
 
