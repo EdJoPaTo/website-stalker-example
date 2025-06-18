@@ -664,7 +664,7 @@ Stylus will be available in multiple colors. Coming in Q3.
 
 0123456
 
-(Out of stock)  +
+(Coming soon)  +
 
 Hack The World
 ----------
