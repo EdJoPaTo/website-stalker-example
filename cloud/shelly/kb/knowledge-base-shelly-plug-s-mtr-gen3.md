@@ -231,7 +231,7 @@ Specifications
 |          Wi-Fi Range:          |Up to 50 m / 164 ft outdoors, up to 30 m / 98 ft indoors (depending on local conditions)|
 |         **Bluetooth**          |                                                                                        |
 |           Protocol:            |                                          4.2                                           |
-|            RF band:            |                                   2400 - 2483.5 MHz                                    |
+|            RF band:            |                                    2402 - 2480 MHz                                     |
 |         Max. RF power:         |                                        \< 4 dBm                                        |
 |             Range:             |Up to 30 m / 98 ft outdoors, up to 10 m / 33 ft indoors (depending on local conditions) |
 |    **Microcontroller unit**    |                                                                                        |
