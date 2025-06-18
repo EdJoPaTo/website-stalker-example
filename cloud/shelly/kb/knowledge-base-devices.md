@@ -138,7 +138,6 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave PRO Dimmer 1PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-dimmer-1pm)
 * [Shelly Wave PRO Dimmer 2PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-dimmer-2pm)
 * [Shelly Wave Door/Window](https://kb.shelly.cloud/knowledge-base/shelly-wave-door-window)
-* [Shelly Wave Plug S](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-s)
 * [Shelly Wave H&T](https://kb.shelly.cloud/knowledge-base/shelly-wave-h-t)
 * [Shelly Wave Dimmer](https://kb.shelly.cloud/knowledge-base/shelly-wave-dimmer)
 * [Shelly Wave 1 Mini](https://kb.shelly.cloud/knowledge-base/shelly-wave-1-mini)
@@ -152,7 +151,9 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave Pro 1](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-1)
 * [Shelly Wave Pro 2](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-2)
 * [Shelly Wave Pro 3](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-3)
+* [Shelly Wave Plug S](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-s)
 * [Shelly Wave Plug US](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-us)
+* [Shelly Wave Plug UK](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-uk)
 
  Shelly Qubino Wave devices
 ----------
