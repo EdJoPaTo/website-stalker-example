@@ -1538,9 +1538,9 @@ Warranty
 
 1 Year Framework Limited Warranty
 
-### Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility ###
+ Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility
 
-###### Ubuntu, NixOS and other distros compatibility coming soon when running a later kernel and userland. ######
+ Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility
 
  Officially supported
 
@@ -1636,11 +1636,11 @@ Arch Linux
 
 Wi-Fi and Bluetooth
 
-Works with workarounds
+Requires setup
 
 Fingerprint Reader
 
-Works with workarounds
+Requires setup
 
 Stability
 
@@ -1657,6 +1657,34 @@ Medium difficulty
 [Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
 
 [Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+ NixOS 25.05
+
+NixOS 25.05
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Medium difficulty
+
+[NixOS 25.05 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+
+[Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+
+[NixOS 25.05 Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+
+[Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
  Project Bluefin
 
@@ -1686,9 +1714,9 @@ Easy
 
 [Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
 
- Framework Laptop 13 (Intel® Core™ Ultra Series 1) compatibility
+ Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility
 
- Framework Laptop 13 (Intel® Core™ Ultra Series 1) compatibility
+ Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility
 
  Officially supported
 
@@ -1706,9 +1734,9 @@ Easy
 
  Community Forum
 
- Fedora 42
+ Fedora 41/42
 
-Fedora 42
+Fedora 41/42
 
 Wi-Fi and Bluetooth
 
@@ -1726,17 +1754,17 @@ Ease of Setup
 
 Easy
 
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Fedora 41/42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
 [Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Fedora 41/42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
 [Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
- Ubuntu 24.04.1 LTS
+ Ubuntu 24.04+
 
-Ubuntu 24.04.1 LTS
+Ubuntu 24.04+
 
 Wi-Fi and Bluetooth
 
@@ -1754,13 +1782,41 @@ Ease of Setup
 
 Easy
 
-[Ubuntu 24.04.1 LTS Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
+[Ubuntu 24.04+ Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
 
 [Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
 
-[Ubuntu 24.04.1 LTS Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+[Ubuntu 24.04+ Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
 
 [Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+[Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
 
  Compatible community supported
 
@@ -1798,41 +1854,13 @@ Ease of Setup
 
 Easy
 
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13)
+[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13/)
 
-[Setup Guide](https://docs.projectbluefin.io/framework-13)
+[Setup Guide](https://docs.projectbluefin.io/framework-13/)
 
 [Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
 
 [Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
- Bazzite
-
-Bazzite
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Bazzite Setup Guide](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_Framework_Laptop_13/)
-
-[Setup Guide](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_Framework_Laptop_13/)
-
-[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-fw-13-amd-intel/51303)
-
-[Community Forum](https://community.frame.work/t/bazzite-community-page-fw-13-amd-intel/51303)
 
  Arch Linux
 
@@ -1840,11 +1868,11 @@ Arch Linux
 
 Wi-Fi and Bluetooth
 
-Works with workarounds
+Requires setup
 
 Fingerprint Reader
 
-Works with workarounds
+Requires setup
 
 Stability
 
@@ -1890,29 +1918,9 @@ Easy
 
 [Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
 
- Framework Laptop 13 (AMD Ryzen™ 7040 Series) compatibility
+ NixOS 25.05
 
- Framework Laptop 13 (AMD Ryzen™ 7040 Series) compatibility
-
- Officially supported
-
- Linux Distro
-
- Wi-Fi and Bluetooth
-
- Fingerprint Reader
-
- Stability
-
- Ease of Setup
-
- Setup Guide
-
- Community Forum
-
- Fedora 42
-
-Fedora 42
+NixOS 25.05
 
 Wi-Fi and Bluetooth
 
@@ -1920,163 +1928,7 @@ Works out of the box
 
 Fingerprint Reader
 
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
-
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
-
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
-
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
-
- Ubuntu 24.04 LTS
-
-Ubuntu 24.04 LTS
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Ubuntu 24.04 LTS Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
-
-[Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
-
-[Ubuntu 24.04 LTS Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
-
-[Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
-
- Compatible community supported
-
- Linux Distro
-
- Wi-Fi and Bluetooth
-
- Fingerprint Reader
-
- Stability
-
- Ease of Setup
-
- Setup Guide
-
- Community Forum
-
- Project Bluefin
-
-Project Bluefin
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13)
-
-[Setup Guide](https://docs.projectbluefin.io/framework-13)
-
-[Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
-[Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
- Bazzite
-
-Bazzite
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Bazzite Setup Guide](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_Framework_Laptop_13/)
-
-[Setup Guide](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_Framework_Laptop_13/)
-
-[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-fw-13-amd-intel/51303)
-
-[Community Forum](https://community.frame.work/t/bazzite-community-page-fw-13-amd-intel/51303)
-
- Arch Linux
-
-Arch Linux
-
-Wi-Fi and Bluetooth
-
-Works with workarounds
-
-Fingerprint Reader
-
-Works with workarounds
-
-Stability
-
-Some Risk
-
-Ease of Setup
-
-Medium difficulty
-
-[Arch Linux Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
-
-[Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
-
-[Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
-
-[Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
-
- NixOS
-
-NixOS
-
-Wi-Fi and Bluetooth
-
-Works with workarounds
-
-Fingerprint Reader
-
-Works with workarounds
+Requires setup
 
 Stability
 
@@ -2086,45 +1938,17 @@ Ease of Setup
 
 Medium difficulty
 
-[NixOS Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+[NixOS 25.05 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
 
 [Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
 
-[NixOS Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+[NixOS 25.05 Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
 [Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
- Linux Mint
+ Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility
 
-Linux Mint
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Not officially supported
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Linux Mint Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+13/159)
-
-[Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+13/159)
-
-[Linux Mint Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
-
-[Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
-
- Framework Laptop 13 (13th Gen Intel® Core™) compatibility
-
- Framework Laptop 13 (13th Gen Intel® Core™) compatibility
+ Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility
 
  Officially supported
 
@@ -2142,9 +1966,9 @@ Easy
 
  Community Forum
 
- Fedora 42
+ Fedora 41/42
 
-Fedora 42
+Fedora 41/42
 
 Wi-Fi and Bluetooth
 
@@ -2162,17 +1986,17 @@ Ease of Setup
 
 Easy
 
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Fedora 41/42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
 [Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
 
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Fedora 41/42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
 [Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
 
- Ubuntu 24.04.1 LTS
+ Ubuntu 24.04+
 
-Ubuntu 24.04.1 LTS
+Ubuntu 24.04+
 
 Wi-Fi and Bluetooth
 
@@ -2190,11 +2014,11 @@ Ease of Setup
 
 Easy
 
-[Ubuntu 24.04.1 LTS Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
+[Ubuntu 24.04+ Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
 
 [Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
 
-[Ubuntu 24.04.1 LTS Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+[Ubuntu 24.04+ Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
 
 [Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
 
@@ -2226,6 +2050,34 @@ Easy
 
 [Community Forum](https://community.frame.work/t/ubuntu-22-04-on-the-framework-laptop/14238)
 
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+[Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
  Compatible community supported
 
  Linux Distro
@@ -2262,41 +2114,13 @@ Ease of Setup
 
 Easy
 
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13)
+[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13/)
 
-[Setup Guide](https://docs.projectbluefin.io/framework-13)
+[Setup Guide](https://docs.projectbluefin.io/framework-13/)
 
 [Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
 
 [Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
- Bazzite
-
-Bazzite
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Bazzite Setup Guide](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_Framework_Laptop_13/)
-
-[Setup Guide](https://docs.bazzite.gg/General/Installation_Guide/Installing_Bazzite_Framework_Laptop_13/)
-
-[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
-
-[Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
 
  Arch Linux
 
@@ -2304,11 +2128,11 @@ Arch Linux
 
 Wi-Fi and Bluetooth
 
-Works with workarounds
+Requires setup
 
 Fingerprint Reader
 
-Works with workarounds
+Requires setup
 
 Stability
 
@@ -2326,17 +2150,17 @@ Medium difficulty
 
 [Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
 
- NixOS
+ NixOS 24.11+
 
-NixOS
+NixOS 24.11+
 
 Wi-Fi and Bluetooth
 
-Works with workarounds
+Works out of the box
 
 Fingerprint Reader
 
-Works with workarounds
+Requires setup
 
 Stability
 
@@ -2346,13 +2170,13 @@ Ease of Setup
 
 Medium difficulty
 
-[NixOS Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+[NixOS 24.11+ Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
 
 [Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
 
-[NixOS Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help-framework-laptop-13/31426)
+[NixOS 24.11+ Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
-[Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help-framework-laptop-13/31426)
+[Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
  Linux Mint
 
@@ -2381,6 +2205,786 @@ Easy
 [Linux Mint Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
 
 [Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
+
+ Framework Laptop 13 (13th Gen Intel® Core™) Compatibility
+
+ Framework Laptop 13 (13th Gen Intel® Core™) Compatibility
+
+ Officially supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Fedora 42
+
+Fedora 42
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+
+ Ubuntu 24.04+
+
+Ubuntu 24.04+
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 24.04+ Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
+
+[Ubuntu 24.04+ Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+
+[Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+
+ Ubuntu 22.04 LTS
+
+Ubuntu 22.04 LTS
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 22.04 LTS Setup Guide](https://guides.frame.work/Guide/Ubuntu+22.04+LTS+Installation+on+the+Framework+Laptop+13/109)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+22.04+LTS+Installation+on+the+Framework+Laptop+13/109)
+
+[Ubuntu 22.04 LTS Community Forum](https://community.frame.work/t/ubuntu-22-04-on-the-framework-laptop/14238)
+
+[Community Forum](https://community.frame.work/t/ubuntu-22-04-on-the-framework-laptop/14238)
+
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+[Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+ Compatible community supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Project Bluefin
+
+Project Bluefin
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13/)
+
+[Setup Guide](https://docs.projectbluefin.io/framework-13/)
+
+[Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
+
+[Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
+
+ Arch Linux
+
+Arch Linux
+
+Wi-Fi and Bluetooth
+
+Requires setup
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Arch Linux Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
+
+[Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
+
+[Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+[Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+ NixOS 24.11+
+
+NixOS 24.11+
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Medium difficulty
+
+[NixOS 24.11+ Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+
+[Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+
+[NixOS 24.11+ Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+
+[Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+
+ Linux Mint
+
+Linux Mint
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Not officially supported
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Linux Mint Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+13/159)
+
+[Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+13/159)
+
+[Linux Mint Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
+
+[Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
+
+ Framework Laptop 13 (12th Gen Intel® Core™) Compatibility
+
+ Framework Laptop 13 (12th Gen Intel® Core™) Compatibility
+
+ Officially supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Fedora 42
+
+Fedora 42
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+
+ Ubuntu 24.04+
+
+Ubuntu 24.04+
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 24.04+ Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
+
+[Ubuntu 24.04+ Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+
+[Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+
+ Ubuntu 22.04 LTS
+
+Ubuntu 22.04 LTS
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 22.04 LTS Setup Guide](https://guides.frame.work/Guide/Ubuntu+22.04+LTS+Installation+on+the+Framework+Laptop+13/109)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+22.04+LTS+Installation+on+the+Framework+Laptop+13/109)
+
+[Ubuntu 22.04 LTS Community Forum](https://community.frame.work/t/ubuntu-22-04-on-the-framework-laptop/14238)
+
+[Community Forum](https://community.frame.work/t/ubuntu-22-04-on-the-framework-laptop/14238)
+
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+[Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+ Compatible community supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Manjaro XFCE
+
+Manjaro XFCE
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Not officially supported
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Manjaro XFCE Setup Guide](https://guides.frame.work/Guide/Manjaro+23.0+Installation+on+the+Framework+Laptop+13/111)
+
+[Setup Guide](https://guides.frame.work/Guide/Manjaro+23.0+Installation+on+the+Framework+Laptop+13/111)
+
+[Manjaro XFCE Community Forum](https://community.frame.work/t/manjaro-linux-xfce-on-the-framework-laptop/6524)
+
+[Community Forum](https://community.frame.work/t/manjaro-linux-xfce-on-the-framework-laptop/6524)
+
+ Linux Mint
+
+Linux Mint
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Not officially supported
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Linux Mint Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+13/159)
+
+[Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+13/159)
+
+[Linux Mint Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
+
+[Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
+
+ Arch Linux
+
+Arch Linux
+
+Wi-Fi and Bluetooth
+
+Requires setup
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Arch Linux Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
+
+[Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
+
+[Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+[Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+ NixOS 24.11+
+
+NixOS 24.11+
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Medium difficulty
+
+[NixOS 24.11+ Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+
+[Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+
+[NixOS 24.11+ Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+
+[Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+
+ Framework Laptop 13 (11th Gen Intel® Core™) Compatibility
+
+ Framework Laptop 13 (11th Gen Intel® Core™) Compatibility
+
+ Officially supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Fedora 42
+
+Fedora 42
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+
+ Ubuntu 24.04+
+
+Ubuntu 24.04+
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 24.04+ Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+24.04+LTS+Installation+on+the+Framework+Laptop+13/331)
+
+[Ubuntu 24.04+ Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+
+[Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-13/49668)
+
+ Ubuntu 22.04 LTS
+
+Ubuntu 22.04 LTS
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 22.04 LTS Setup Guide](https://guides.frame.work/Guide/Ubuntu+22.04+LTS+Installation+on+the+Framework+Laptop+13/109)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+22.04+LTS+Installation+on+the+Framework+Laptop+13/109)
+
+[Ubuntu 22.04 LTS Community Forum](https://community.frame.work/t/ubuntu-22-04-on-the-framework-laptop/14238)
+
+[Community Forum](https://community.frame.work/t/ubuntu-22-04-on-the-framework-laptop/14238)
+
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+13/405)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+[Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-13-amd-intel/51303)
+
+ Compatible community supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Manjaro XFCE
+
+Manjaro XFCE
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Not officially supported
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Manjaro XFCE Setup Guide](https://guides.frame.work/Guide/Manjaro+23.0+Installation+on+the+Framework+Laptop+13/111)
+
+[Setup Guide](https://guides.frame.work/Guide/Manjaro+23.0+Installation+on+the+Framework+Laptop+13/111)
+
+[Manjaro XFCE Community Forum](https://community.frame.work/t/manjaro-linux-xfce-on-the-framework-laptop/6524)
+
+[Community Forum](https://community.frame.work/t/manjaro-linux-xfce-on-the-framework-laptop/6524)
+
+ Linux Mint
+
+Linux Mint
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Not officially supported
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Linux Mint Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+13/159)
+
+[Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+13/159)
+
+[Linux Mint Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
+
+[Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
+
+ Arch Linux
+
+Arch Linux
+
+Wi-Fi and Bluetooth
+
+Requires setup
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Arch Linux Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
+
+[Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398)
+
+[Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+[Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
+
+ NixOS 24.11+
+
+NixOS 24.11+
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Medium difficulty
+
+[NixOS 24.11+ Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+
+[Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+
+[NixOS 24.11+ Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+
+[Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
 Getting started with your Framework Laptop 13
 ----------

@@ -608,7 +608,237 @@ Warranty
 
 3 Year Limited Warranty for Spain
 
-### Framework Laptop 12 (13th Gen Intel® Core™) compatibility - details coming soon ###
+ Framework Laptop 12 (13th Gen Intel® Core™) Compatibility
+
+ Framework Laptop 12 (13th Gen Intel® Core™) Compatibility
+
+ Officially supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Fedora 42
+
+Fedora 42
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+12/410)
+
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+12/410)
+
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-12/66954)
+
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-12/66954)
+
+ Ubuntu 25.04
+
+Ubuntu 25.04
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 25.04 Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.04+Installation+on+the+Framework+Laptop+12/422)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.04+Installation+on+the+Framework+Laptop+12/422)
+
+[Ubuntu 25.04 Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-12/66955)
+
+[Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-12/66955)
+
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+12/409)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+12/409)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-on-the-framework-laptop-12/66957)
+
+[Community Forum](https://community.frame.work/t/bazzite-on-the-framework-laptop-12/66957)
+
+ Compatible community supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Project Bluefin
+
+Project Bluefin
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13)
+
+[Setup Guide](https://docs.projectbluefin.io/framework-13)
+
+[Project Bluefin Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-laptop-12/66959)
+
+[Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-laptop-12/66959)
+
+ Arch Linux
+
+Arch Linux
+
+Wi-Fi and Bluetooth
+
+Requires setup
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Arch Linux Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+12/408)
+
+[Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+12/408)
+
+[Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-12/66960)
+
+[Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-12/66960)
+
+ Linux Mint
+
+Linux Mint
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Not officially supported
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Linux Mint Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+12/411)
+
+[Setup Guide](https://guides.frame.work/Guide/Linux+Mint+Installation+on+the+Framework+Laptop+12/411)
+
+[Linux Mint Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-12/66961)
+
+[Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-12/66961)
+
+ NixOS 25.05
+
+NixOS 25.05
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Medium difficulty
+
+[NixOS 25.05 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+12/412)
+
+[Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+12/412)
+
+[NixOS 25.05 Community Forum](https://community.frame.work/t/nixos-on-the-framework-laptop-12/66962)
+
+[Community Forum](https://community.frame.work/t/nixos-on-the-framework-laptop-12/66962)
 
 Getting started with your Framework Laptop 12
 ----------

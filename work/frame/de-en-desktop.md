@@ -597,9 +597,157 @@ Framework Desktop has 5Gbit Ethernet along with two USB4 ports, allowing network
 
 [Explore Mainboard](/products/desktop-mainboard-amd-ai-max300)
 
-### Framework Desktop DIY Edition (AMD Ryzen™ AI Max 300 Series) compatibility ###
+ Framework Desktop (AMD Ryzen™ AI Max 300 Series) Compatibility
 
-#### Coming soon ####
+ Framework Desktop (AMD Ryzen™ AI Max 300 Series) Compatibility
+
+ Officially supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Fedora 42
+
+Fedora 42
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Desktop/414)
+
+[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Desktop/414)
+
+[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-desktop/66979)
+
+[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-desktop/66979)
+
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Desktop/415)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Desktop/415)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-on-the-framework-desktop/66980)
+
+[Community Forum](https://community.frame.work/t/bazzite-on-the-framework-desktop/66980)
+
+ Compatible community supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Arch Linux
+
+Arch Linux
+
+Wi-Fi and Bluetooth
+
+Requires setup
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Arch Linux Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Desktop/416)
+
+[Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Desktop/416)
+
+[Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-desktop/66983)
+
+[Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-desktop/66983)
+
+ NixOS 25.05
+
+NixOS 25.05
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Medium difficulty
+
+[NixOS 25.05 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Desktop/417)
+
+[Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Desktop/417)
+
+[NixOS 25.05 Community Forum](https://community.frame.work/t/nixos-on-the-framework-desktop/66984)
+
+[Community Forum](https://community.frame.work/t/nixos-on-the-framework-desktop/66984)
+
+ Project Bluefin
+
+Project Bluefin
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13)
+
+[Setup Guide](https://docs.projectbluefin.io/framework-13)
+
+[Project Bluefin Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-desktop/66981)
+
+[Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-desktop/66981)
 
 Getting started with your Framework Desktop
 ----------
