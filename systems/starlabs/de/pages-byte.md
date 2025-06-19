@@ -169,9 +169,3 @@ Easy Updates.
  Firmware updates for the BIOS, Embedded Controller and SSD are just a click away with the power of the LVFS (Linux Vendor Firmware Service).
 
 [Learn more about the LVFS](https://support.starlabs.systems/kb/firmware/getting-started)
-
-Your way.
-
- Our hardware and firmware are highly customisable. Your computer will arrive precisely the way you want it, with your chosen distribution pre-installed.
-
-[Explore](/pages/distributions)
