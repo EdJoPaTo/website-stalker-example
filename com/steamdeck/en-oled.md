@@ -4,7 +4,7 @@ Your games in
 a whole new light
 ==========
 
-### Steam Deck OLED starts at £479.00[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com) ###
+### Steam Deck OLED starts at $549.00[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com) ###
 
 #### An OLED screen with larger picture, better battery life, faster WiFi—
 on top of world class ergonomics and an intuitive console-like experience ####
@@ -164,7 +164,7 @@ Steam Deck is Bluetooth-ready, and its USB-C port can handle all sorts of I/O: y
 Compare Steam Decks
 ----------
 
-£349.00
+$399.00
 
 ### 256GB LCD ###
 
@@ -179,7 +179,7 @@ Compare Steam Decks
 * Carrying case
 * Steam profile bundle
 
-£479.00
+$549.00
 
 ### 512GB OLED ###
 
@@ -194,7 +194,7 @@ Compare Steam Decks
 * Carrying case
 * Steam profile bundle
 
-£569.00
+$649.00
 
 ### 1TB OLED ###
 
@@ -214,9 +214,9 @@ Compare Steam Decks
 
 Available now. [View on Steam](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
-Add Deck to your Wishlist!
+Get your hands on Deck!
 ----------
 
-Steam Deck is now shipping to the United States, Canada, European Union, and the United Kingdom. More regions to come—stay tuned for more info.
+Steam Deck is shipping now.
 
-[Add to your Wishlist](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
+[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
