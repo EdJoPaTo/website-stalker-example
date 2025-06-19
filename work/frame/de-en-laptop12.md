@@ -618,8 +618,6 @@ Warranty
 
  Wi-Fi and Bluetooth
 
- Fingerprint Reader
-
  Stability
 
  Ease of Setup
@@ -633,10 +631,6 @@ Warranty
 Fedora 42
 
 Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
 
 Works out of the box
 
@@ -664,10 +658,6 @@ Wi-Fi and Bluetooth
 
 Works out of the box
 
-Fingerprint Reader
-
-Works out of the box
-
 Stability
 
 Stable
@@ -689,10 +679,6 @@ Easy
 Bazzite
 
 Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
 
 Works out of the box
 
@@ -718,8 +704,6 @@ Easy
 
  Wi-Fi and Bluetooth
 
- Fingerprint Reader
-
  Stability
 
  Ease of Setup
@@ -733,10 +717,6 @@ Easy
 Project Bluefin
 
 Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
 
 Works out of the box
 
@@ -764,10 +744,6 @@ Wi-Fi and Bluetooth
 
 Requires setup
 
-Fingerprint Reader
-
-Requires setup
-
 Stability
 
 Some Risk
@@ -792,10 +768,6 @@ Wi-Fi and Bluetooth
 
 Works out of the box
 
-Fingerprint Reader
-
-Not officially supported
-
 Stability
 
 Stable
@@ -819,10 +791,6 @@ NixOS 25.05
 Wi-Fi and Bluetooth
 
 Works out of the box
-
-Fingerprint Reader
-
-Requires setup
 
 Stability
 
