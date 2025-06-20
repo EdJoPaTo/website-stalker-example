@@ -14,6 +14,49 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Unreleased
 ----------
 
+**Available as `1.7.0-beta2`**
+
+### Added ###
+
+* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) The `BTHomeControl` component maintains mapping between [Shelly BLU devices](/docs-ble) and the outputs of a Shelly WiFi device ([Switch](/gen2/ComponentsAndServices/Switch), [Cover](/gen2/ComponentsAndServices/Cover), [Light](/gen2/ComponentsAndServices/Light)), offering both offline and online learning procedure to link the controller (BLU device) and controlee (Shelly WiFi device).
+* [Matter](/gen2/ComponentsAndServices/Matter) Add `Matter.FactoryReset` to only reset Matter settings
+* [Cover](/gen2/ComponentsAndServices/Cover) Add venetian blinds commands to MQTT control
+
+### Changed ###
+
+* [BLE](/gen2/ComponentsAndServices/BLE) Improve BLE scan deduplication
+* [WiFi](/gen2/ComponentsAndServices/WiFi) Do not save last AP on mains-powered devices
+* OTA: Use current date in boot state sequence
+* Dynamic Components: Optimize storage
+* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM) Allow setting undervoltage protection down to 90V
+
+### Fixed ###
+
+* Gen4 devices: Allow switching to alternative firmware on beta stage
+* Gen4 devices: Fix BLE signal strength regression
+* [BLE](/gen2/ComponentsAndServices/BLE) Fix scan manager crashes
+* [Virtual Components](/gen2/DynamicComponents/Virtual/) Adjust parsing of configuration to recognize all formats
+* [Switch](/gen2/ComponentsAndServices/Switch), [Cover](/gen2/ComponentsAndServices/Cover) Adjust error checks in MQTT control
+* [Webhook](/gen2/ComponentsAndServices/Webhook) Fix invocation of conditional hooks when condition is invalid
+* [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Update Zigbee model names
+* Debug: Disable interrupts when dumping core
+
+### Local web ###
+
+### Added ###
+
+* [Matter](/gen2/ComponentsAndServices/Matter) Add Matter reset button
+
+### Changed ###
+
+* Gen4 devices: Redesign alternative firmware notifications styling
+
+### Fixed ###
+
+* Debug: Fix reset to default of Shelly UDP logs server
+* Plugs: Fix night mode brightness sliders
+* Gen4 devices: Hide BTHome components in Zigbee mode
+
 **Available as `1.7.0-beta1`**
 
 ### Added ###
