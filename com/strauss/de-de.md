@@ -227,7 +227,7 @@ Produkte zum Gestalten
 
  To-Go-Set:
 
- Backpack e.s.motion ten Geschenk-Set II
+ Rucksack e.s.ambition
 
 [weitere Sets zum Berufsstart](https://www.strauss.com/de/de/s/suche?itemorigin=startseite_fs25&query=berufsstart)
 
@@ -241,7 +241,11 @@ Produkte zum Gestalten
 
 [Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
 
-[Gutschein per E-Mail](https://gutschein.strauss.de/)
+[Gutschein per E‑Mail](https://gutschein.strauss.de/)
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
+
+[Gutschein per E‑Mail](https://gutschein.strauss.de/)
 
 ###
 
