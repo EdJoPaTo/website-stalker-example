@@ -215,11 +215,11 @@ Ctrl + Alt + Create ⚡️
 Ctrl + Alt + Create ⚡️
 ```
 
-### Help purchase computers for Hack Club students around the world. ###
+### Hack Club x Framework: Mission Complete ###
 
-Hack Club is an awesome 501(c)(3) nonprofit that helps tens of thousands of high schoolers code and build cool things. Despite creating seriously innovative projects, some Hack Club students are coding on old, barely-functioning computers—or in some cases, just their phones. Let’s change that.
+Thank you to your incredible support to help bring new laptops to Hack Club students around the world.
 
-When you pre-order a Framework Laptop 12, you can choose to donate $250 USD or more to Hack Club. Your donation goes into a pool that funds Framework Laptop 12 systems for Hack Club students around the world. To celebrate doing good and helping others, we’ll move your order into Batch 0—the earliest shipping batch for your configuration.
+Hack Club is a 501(c)(3) nonprofit that empowers high schoolers to code, build, and innovate. Through this program, your donations helped replace outdated and unreliable devices with Framework Laptop 12 systems, giving these students the tools they need to keep creating.
 
 [Learn more](/hacktheworld)
 

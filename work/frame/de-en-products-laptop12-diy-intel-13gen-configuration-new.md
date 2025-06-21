@@ -67,12 +67,6 @@ FAQs
 
 Close
 
-Donate $250 USD or more to Hack Club and move to Batch 0. [**Learn more**](https://frame.work/hacktheworld)
-
-Batch 0 - Black/Gray - Ships priority in June
-
-Batch 0 - Sage/Bubblegum/Lavender - Ships priority in July
-
 * i3-1315U  Pre-order  €569
 
   * Up to 4.5GHz, 2+4 cores
@@ -665,19 +659,6 @@ Stylus will be available in multiple colors. Coming in Q3.
 0123456
 
 (Coming soon)  +
-
-Hack The World
-----------
-
-Help purchase computers for students in Hack Club, a 501(3) (c) nonprofit that enables young coders and makers.
-
- When you pre-order a Framework Laptop 12, you can choose to donate $250 USD or more to Hack Club. Each pre-order that includes a donation is moved into the earliest shipping batch possible for your configuration (Ships priority in early June for Black/Gray. Ships priority early July for Sage/Bubblegum/Lavender).
-
-[**Learn more**](/hacktheworld)
-
- I'm interested! Tell me more about donating to Hack Club.
-
-We'll take you through the donation process after you complete checkout on your pre-order.
 
  Add to Bag  Add pre-order to bag
 
