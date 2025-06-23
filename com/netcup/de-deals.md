@@ -167,6 +167,14 @@ Bei Flashdeals handelt es sich um zusätzliche, attraktive „Blitz-Angebote“,
 
 Sobald ein Flashdeal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
 
+### Was bedeutet "PRO" bei unseren Aktionsprodukten? ###
+
+Unsere bisherigen „SE“-Produkte (Special Edition) heißen ab sofort „PRO“. Diese Kennzeichnung steht für exklusive Aktionsvarianten unserer regulären Angebote.
+
+Mit einem „PRO“-Produkt erhältst du weiterhin das, was unsere Aktionsangebote auszeichnet: mehr Leistung bzw. mehr Speicher zu besonders attraktiven Preisen – zum Beispiel bis zu 100 % mehr SSD-Speicher, mehr vCores oder eine Kombination aus beidem.
+
+Beachte: PRO-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar.
+
 netcup Angebote zu VPS und Root-Server
 ----------
 
