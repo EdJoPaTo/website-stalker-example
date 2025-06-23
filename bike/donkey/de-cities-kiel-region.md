@@ -1,11 +1,11 @@
-Erkunden Sie die Region Kiel mit Donkey
+Erkunde die Region Kiel mit Donkey
 ==========
 
 Öffne die Donkey Republic-App, um die Abholorte zu sehen, und miete ein Fahrrad mit deinem Handy.
 
 [Hol dir die App](https://dnky.bike/OzYz5bYcKBb)[Erfahre mehr](/de/cities)
 
-Die beste Art, sich in Kopenhagen fortzubewegen
+Die beste Art, sich in der Kiel Region fortzubewegen
 ----------
 
 Donkey Republic macht es einfach, sich in der Stadt fortzubewegen, egal ob du zur Arbeit pendelst, Freunde triffst oder auf Entdeckungsreise gehst. Mit nur wenigen Klicks in der App kannst du ein fahrrad freischalten und dich nach deinen eigenen Bedingungen fortbewegen.
