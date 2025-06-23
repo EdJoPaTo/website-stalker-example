@@ -1,181 +1,154 @@
-Für harte Jobs
-an warmen Tagen
+Spare bis zu
+---
+
+ 10%
+---
+
+ 20%
+---
+
+ 30%
+---
+
+ 40%
+---
+
+ 49%
+---
+
+[% Schuhe](https://www.strauss.com/de/de/sale-schuhe/?itemorigin=startseite_fs25)
+
+[% Aktions-Sets](https://www.strauss.com/de/de/sale-aktions-sets/?itemorigin=startseite_fs25)
+
+[% Bekleidung](https://www.strauss.com/de/de/sale-bekleidung/?itemorigin=startseite_fs25)
+
+[zu allen Angeboten](https://www.strauss.com/de/de/sale/?itemorigin=startseite_fs25)
+
+###  Druck & Stick  ###
+
+---
+
+ Einzigartige
+Outfits
 ----------
 
 ---
 
- luftige Sommer-Workwear
+ für Arbeit, Vereine, Events uvm.
 
- robuste Leichtgewichte
+ große Motivauswahl
 
- vielseitige Basics
+ schon ab 1 Stück
 
-[alle Produkte](https://www.strauss.com/de/de/e-s-motion-ten/?itemorigin=startseite_fs25)
+Produkte zum Gestalten
 
-[Themenwelt entdecken](https://www.strauss.com/de/de/motion_ten?itemorigin=startseite_fs25)
+[mehr Infos](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
 
-###  Luftige Füße? Aber sicher!  ###
-
----
-
- Superleichte
-S1-Sandale
+ Cool bleiben
 ----------
 
 ---
 
- belüftete Schutzkappe
+ kühlende Merino-Shirts
 
- nur 430 g bei Größe 42
+ leichte Hosen
 
- optimaler Tragekomfort
+ perfekte Sommer-Workwear
 
-[jetzt kaufen](https://www.strauss.com/de/de/sicherheitssandalen-s1/s1-sicherheitssandale-e-s-apiro-1101640-93889-1.html?itemorigin=startseite_fs25)
+[zu allen e.s.trail Produkten](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_fs25)
 
-[zu allen Schuhneuheiten](https://www.strauss.com/de/de/neuheiten-schuhe/?itemorigin=startseite_fs25)
+**Luftige Outfits** für heiße Tage
 
- mit atmungsaktiver
-Stahlkappe
-
- Workwear trifft
-auf Streetstyle
 ----------
 
 ---
 
- Statement-Outfits
+ Leicht, locker, sportlich & atmungsaktiv: sommerliche Workwear-Inspirationen für Sie & Ihn
 
- ausdrucksstarke Motive
+ Modal-Shirt e.s. ventura vintage
 
- große Farbvielfalt
+ 4 Farben
 
-[für Herren](https://www.strauss.com/de/de/strauss-works-prints?itemorigin=startseite_fs25)
+ T-Shirt seamless e.s.trail, Damen
 
-[für Damen](https://www.strauss.com/de/de/strauss-works-prints-damen?itemorigin=startseite_fs25)
+ 3 Farben
 
-[für Kinder](https://www.strauss.com/de/de/strauss-works-prints-kinder?itemorigin=startseite_fs25)
-
-####
-
-**Coole Geschenke** in jedem Sommer-Set
-
- ####
+###  Shirts  ###
 
 ---
 
-###  Set-Highlight  ###
+[alle Herren-Shirts](https://www.strauss.com/de/de/arbeitsshirts/?itemorigin=startseite_fs25)
+
+[alle Damen-Shirts](https://www.strauss.com/de/de/arbeitsshirts-damen/?itemorigin=startseite_fs25)
+
+###  Shorts  ###
 
 ---
 
- \+ 9
----
+[alle Herren-Shorts](https://www.strauss.com/de/de/arbeitsshorts/?itemorigin=startseite_fs25)
 
- Bundhose & Short e.s.motion
-**\+ GRATIS** e.s. Trinkflasche Tritan
+[alle Damen-Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/?itemorigin=startseite_fs25)
 
-[Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-bundhose-short-e-s-motion-3312330-16713-1.html?itemorigin=startseite_fs25)
+ Short
+e.s.iconic
 
- Strauss Sommer-Sets
----
+ Short e.s.motion 2020
 
- mit vielen
-gratis Artikeln
----
+ 13 Farben
 
-[Herren-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Herren/?itemorigin=startseite_fs25&sort=newest)
-
-[Damen-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Damen/?itemorigin=startseite_fs25&sort=newest)
-
-[Kinder-Sets](https://www.strauss.com/de/de/f/sale-aktions-sets-bekleidung/Herren_Damen_Kinder:Kinder/?itemorigin=startseite_fs25&sort=newest)
-
- NEW
----
-
- Collection
----
-
- How
-Liverpool
-works.
----
-
-[zu den Produkten](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseite_fs25)
-
-####
-
-Stylische Workwear **mit Sonnenschutz**
-
- ####
-
----
-
-sicher arbeiten
-unter praller Sonne
-----------
-
----
-
- hoher UV-Schutzfaktor
-
- Warnschutz- und UV-Kombi
-
- besonders leicht
-
-[zu allen UV-Schutzprodukten](https://www.strauss.com/de/de/s/suche?query=UV%20Schutz&itemorigin=startseite_fs25)
-
-Die BG BAU fördert aktuell einen Teil der Schutz-Ausrüstung gegen UV-Strahlung.
-
-Informieren Sie sich direkt unter [www.bgbau.de](https://www.bgbau.de/)!
-
- UV Sonnenschutzspray LSF 50
-
-200 ml
-
- Race Sonnenbrille e.s.ambition
+ Short e.s.vision stretch, Damen
 
  5 Farben
 
-[zu allen Caps](https://www.strauss.com/de/de/caps/?itemorigin=startseite_fs25)
-
- Cap e.s.iconic works
-
-####
-
-Für jeden Job **die passende Farbe**
-
- ####
+###  Leichte Schuhe  ###
 
 ---
 
-###  ###
+ Komfort leicht gemacht -
+Berufs- und Sicherheitsschuhe perfekt für den Sommer
+
+jetzt alle leichten Schuhe entdecken
+
+**Coole Highlights:** kühl, smart & relaxed durch den Sommer
+
+----------
 
 ---
 
-###  ###
+ e.s. Lunchbag
+
+###  cool für
+die Pause  ###
 
 ---
 
-Blautöne
+ frisch, kühl & kompakt - perfekt für unterwegs!
 
-Grüntöne
+[jetzt kaufen](https://www.strauss.com/de/de/allroundtaschen/e-s-lunchbag-3000700-5505241-1088.html?itemorigin=startseite_fs25)
 
-Grautöne
+[mehr Details](https://www.strauss.com/de/de/allroundtaschen/e-s-lunchbag-3000700-5505241-1088.html?itemorigin=startseite_fs25)
 
-###  Ein Klick zur Lieblingsfarbe  ###
+ hält Getränke bis zu 30 Stunden kalt
 
----
+ STRAUSS Mug X-large
 
-Weißtöne
+ 1 Farbe
 
-Gelbtöne
+ e.s. Sauna- und Strandhandtuch
 
-Violetttöne
+ 1 Farbe
 
-Rottöne
+ Badeshort e.s.trail
 
-Orangetöne
+ 4 Farben
 
-Brauntöne
+[für Herren](https://www.strauss.com/de/de/arbeitsshorts/badeshort-e-s-trail-3350750-87837-1623.html?itemorigin=startseite_fs25)
+
+[für Kinder](https://www.strauss.com/de/de/kinder-shorts/badeshort-e-s-trail-kinder-3350740-87847-1623.html?itemorigin=startseite_fs25)
+
+[für Herren](https://www.strauss.com/de/de/arbeitsshorts/badeshort-e-s-trail-3350750-87837-1623.html?itemorigin=startseite_fs25)
+
+[für Kinder](https://www.strauss.com/de/de/kinder-shorts/badeshort-e-s-trail-kinder-3350740-87847-1623.html?itemorigin=startseite_fs25)
 
 ###
 
