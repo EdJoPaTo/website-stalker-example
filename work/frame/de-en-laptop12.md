@@ -823,7 +823,7 @@ Software updates
 
 Download the driver bundle and firmware updates.
 
-[Go to the downloads page](https://knowledgebase.frame.work/en_us/bios-and-drivers-downloads-rJ3PaCexh)
+[Go to the downloads page](https://knowledgebase.frame.work/framework-laptop-12-bios-and-driver-releases-13th-gen-intel-core-HyrqeX2ex)
 
 Framework Laptop safety & compliance manual
 ----------
