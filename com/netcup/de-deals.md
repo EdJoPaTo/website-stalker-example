@@ -5,7 +5,273 @@ netcup Deals
 
 Am 24. & 25. Juni bekommst du bei uns den ultimativen Mid-Year-Push: Starke Angebote auf Server, Hosting und Domains warten auf dich. Starte mit frischer Energie in die zweite Jahreshälfte!
 
-[Mehr Informationen](https://www.netcup.com/de/deals#infos)
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
+
+* Alle (0)
+
+VPS
+
+### VPS 2000 G11 PRO ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 14,50 €
+
+* 8 vCore (x86)
+
+* 16 GB ECC RAM
+
+* 1024 GB SSD (statt 512 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standorte: NUE | MNZ
+
+pro Monat
+
+12,60 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-pro-nue-jun25)
+
+VPS
+
+### VPS 4000 G11 PRO ###
+
+ \+ 100 % SSD / dauerhaft günstiger
+
+statt ab 24,75 €
+
+* 12 vCore (x86)
+
+* 32 GB ECC RAM
+
+* 2048 GB SSD (statt 1024 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standorte: NUE | MNZ
+
+pro Monat
+
+21,50 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-4000-g11-pro-nue-jun25)
+
+VPS
+
+### VPS 8000 G11 PRO ###
+
+ \+ 4 vCore / + 50% SSD / dauerhaft günstig
+
+statt ab 36,79 €
+
+* 20 vCore (statt 16)
+
+* 64 GB ECC RAM
+
+* 3072 GB SSD (statt 2048 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standorte: NUE | MNZ
+
+pro Monat
+
+32,00 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-8000-g11-pro-nue-jun25)
+
+Root-Server
+
+ Spezial Abverkauf
+
+### RS 1000 G9.5 PRO ###
+
+* 4 vCore (dediziert)
+
+* 8 GB DDR4 ECC RAM
+
+* 320 GB SSD (statt 160 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* AMD EPYC™ 7702
+
+* RS Generation 9.5 zum Schnäppchen-Preis
+
+* Standorte: NUE | MNZ
+
+pro Monat
+
+6,25 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-1000-g9.5-pro-nue-jun25)
+
+Root-Server
+
+ Spezial Abverkauf
+
+### RS 2000 G9.5 PRO  ###
+
+* 6 vCore (dediziert)
+
+* 16 GB DDR4 ECC RAM
+
+* 640 GB SSD (statt 320 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* AMD EPYC™ 7702
+
+* RS Generation 9.5 zum Schnäppchen-Preis
+
+* Standorte: NUE | MNZ
+
+pro Monat
+
+10,75 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-2000-g9.5-pro-nue-jun25)
+
+Webhosting
+
+### Webhosting 1000 ###
+
+ 50 % Rabatt
+
+statt 1,82 €
+
+* 1 .de-Domain oder 1 Alternativdomain inklusive
+
+* 50 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikate inklusive
+
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+0,91 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-jun25)
+
+Webhosting
+
+### Webhosting 2000 ###
+
+ 20 % Rabatt
+
+statt 2,73 €
+
+* 3 .de-Domains oder 1 Alternativdomain inklusive
+
+* 150 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikate inklusive
+
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+2,17 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-jun25)
+
+Domains
+
+### .de Domain ###
+
+ 69 % Rabatt
+
+statt 0,35 €
+
+* DNSSEC, API
+
+* 2 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,11 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.de-domain-jun25)
+
+Domains
+
+### .net Domain ###
+
+ 34 % Rabatt
+
+statt 1,77 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+1,17 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.net-domain-jun25)
+
+Domains
+
+### .io Domain ###
+
+ 30 % Rabatt
+
+statt 6,00 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+4,19 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.io-domain-jun25)
 
 ### **Das erwartet dich:** ###
 
