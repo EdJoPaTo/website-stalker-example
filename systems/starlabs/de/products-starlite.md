@@ -87,7 +87,7 @@ Includes:
 
 Ships
 
-35 - 36 business days
+28 - 29 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 

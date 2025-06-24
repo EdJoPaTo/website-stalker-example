@@ -11,6 +11,34 @@ Am 24. & 25. Juni bekommst du bei uns den ultimativen Mid-Year-Push: Starke Ange
 
 VPS
 
+ FLASH DEAL
+
+### VPS 500 G11s ###
+
+ 19 % Rabatt
+
+statt 4,00 €
+
+* 4 vCore (x86)
+
+* 4 GB ECC RAM
+
+* 128 GB SSD
+
+* Nur 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+3,25 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-500-g11s-jun25)
+
+VPS
+
 ### VPS 2000 G11 PRO ###
 
  \+ 100 % SSD / dauerhaft günstiger
