@@ -1,7 +1,7 @@
 What's New
 ==========
 
-This page tracks major releases and incremental improvements for the Hetzner Cloud platform.
+This page tracks major releases and incremental improvements for the Hetzner platform.
 
 December 2024
 ----------

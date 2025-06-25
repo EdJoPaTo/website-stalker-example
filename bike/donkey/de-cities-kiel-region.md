@@ -20,21 +20,18 @@ Keine Wartungskosten
 
 Flexible Preisgestaltung
 
-Wie leihe ich ein Fahrrad
-----------
+### Wie man ein Fahrrad ausleiht
+ ###
 
-Finde ein Fahrrad in der App
-----------
+### #1 - Finde ein Fahrrad in der App  ###
 
 Öffne die Donkey Republic App, um ein Fahrrad in der Nähe zu finden und wähle deine Mietoption
 
-Entsperren und losfahren
-----------
+### #2 - Entsperren und losfahren ###
 
-Entsperren Sie das Fahrrad mit Ihrem Telefon und beginnen Sie Ihre Fahrt in Sekunden
+Entsperren Sie das Fahrrad mit ihrem Telefon und beginnen Sie ihre Fahrt in Sekunden
 
-Parken und abschliessen
-----------
+### #3 - Parken und abschliessen ###
 
 Beende deine Fahrt, indem du das Fahrrad an einem Donkey Hub abschliesst, der in der App angezeigt wird.
 
@@ -56,15 +53,15 @@ Vermeiden Sie es, Ihr Telefon beim Radfahren zu benutzen, um sich auf die Straß
 
 Helme
 
-Das Tragen eines Helms wird aus Sicherheitsgründen dringend empfohlen, auch wenn dies nicht vorgeschrieben ist.
+Schnappen Sie sich ein Donkey an Hunderten von Orten, wann und wann immer Sie es brauchen.
 
 Fahren Sie unter Alkoholeinfluss
 
-Fahren Sie niemals unter Alkohol- oder Drogeneinfluss — das beeinträchtigt Ihre Reaktionszeit und gefährdet alle.
+Zahlen Sie pro Fahrt, Tag oder nutzen Sie das Abonnement unbegrenzt. Zahlen Sie nur für das, was Sie nutzen.
 
 Parken wie ein Profi
 
-Parken Sie Ihr Fahrrad immer verantwortungsbewusst in ausgewiesenen Bereichen und lassen Sie Gehwege und Wege für Fußgänger frei.
+Lassen Sie das Auto aus und fahren Sie sauber. Donkey-Fahrräder sind eine nachhaltige Art, sich fortzubewegen.
 
 Urbane Mobilität auf Donkey
 ----------
