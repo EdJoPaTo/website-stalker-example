@@ -526,7 +526,7 @@ Zusätzlich gelten die Bestimmungen der Landestarife, Verkehrsverbünde und Verk
  Ich will ein Fahrrad mit dem Deutschland-Ticket mitnehmen. Was muss ich beachten?
 ----------
 
-Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
+Beachten Sie bitte: Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tickets **nicht** enthalten. Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
 
 * Prüfen Sie, ob auf Ihrer Strecke die Fahrradmitnahme kostenfrei möglich ist. Wenn ja, können Sie Ihr Fahrrad kostenfrei mitnehmen.
 * Wenn eine Fahrradkarte erforderlich ist, gilt dies auch für Fahrten mit dem Deutschland-Ticket.
@@ -537,7 +537,6 @@ Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der
 Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter zugportal/fahrrad.
 
 * [Informationen zur Fahrradmitnahme im Nahververkehr](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
-* [www.zugportal/fahrrad](https://zugportal.de/pages/infotainment/landing-page/5X9iDX3CzQX5jmqu6Hujek)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad)
 
@@ -547,7 +546,6 @@ Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter zugp
 Möchten Sie auf einer Reise eine Fernverkehrsfahrkarte mit dem Deutschland-Ticket kombinieren und dabei ein Fahrrad mitnehmen, so kaufen Sie bitte Ihre ‚Fahrradkarte Fernverkehr‘ bis zu Ihrem Zielbahnhof, den Sie ggf. mit einem Nahverkehrszug erreichen. Die Fahrradkarte Fernverkehr gilt ohne Mehrkosten auch für die Fahrt in den Nahverkehrszügen. Für die evtl. Weiterfahrt im ÖPNV (mit Bus, Straßenbahn o.ä.) gelten die Tarifregeln des jeweils genutzten Unternehmens. Gegebenenfalls ist der Kauf einer weiteren Fahrkarte für Ihr Fahrrad erforderlich.
 
 * [Alle Infos zur Fahrradmitnahme](https://www.bahn.de/service/individuelle-reise/fahrrad)
-* [Infos unter zugportal.de/fahrrad](https://zugportal.de/pages/infotainment/landing-page/5X9iDX3CzQX5jmqu6Hujek)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad-fv)
 
