@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### MITTERSILL ###
+### Weserbergland ###
 
-### 21.06.2025 ###
+### 28.-29. juni 2025 ###
 
-### 50 km ###
+### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/mittersill)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/weserbergland)
 
 |     Events     |   2025   |   2026   |
 |----------------|----------|----------|
@@ -33,7 +33,7 @@ IN DEINER NÄHE!
 |    Hannover    |10/05/2025|02/05/2026|
 |    München     |17/05/2025|16/05/2026|
 |     Bremen     |24/05/2025|23/05/2026|
-|   Mittersill   |21/06/2025|          |
+|   Mittersill   |21/06/2025|20/06/2026|
 | Weserbergland  |28/06/2025|          |
 |   Düsseldorf   |05/07/2025|          |
 |     Erfurt     |12/07/2025|          |

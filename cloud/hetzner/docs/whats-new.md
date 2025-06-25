@@ -3,6 +3,24 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+June 2025
+----------
+
+Jun 25
+
+### 🚀 More than cloud: Welcome to the Hetzner Console ###
+
+The Cloud Console is now the **Hetzner Console**, reflecting our goal to unify all Hetzner products under one roof. Now live at: [https://console.hetzner.com](https://console.hetzner.com/)
+
+* **Reworked main navigation**Resources are now organized into collapsible sections to give you a clearer structure. Pin the resources you use most often to keep them at the top for quick access.
+* **Storage Boxes — now integrated**Storage Boxes are the first product to move from a separate panel into the Console.
+  They now share the same consistent and intuitive interface as our cloud products.
+  * **Faster provisioning:**New Storage Boxes are ready within seconds.
+  * **Fully configurable at creation:**Set up protocols (SMB, WebDAV, SSH), accessibility, and SSH keys right away.
+  * **New API endpoint:**You can now manage Storage Boxes via the [Hetzner API](https://api.hetzner.com/). Please migrate your systems before 29 July 2025, as support for Storage Boxes via the [Robot Web Service](https://robot.hetzner.com/doc/webservice/de.html) will end.
+  * **Already migrated:**Existing Storage Boxes are now in the project *"Storage Box Migrated"*.
+  * **Global search and usage preview:**Due to technical dependencies, not available yet — we are already working on the integration!
+
 December 2024
 ----------
 
