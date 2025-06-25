@@ -57,22 +57,6 @@ Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Ticke
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
-###  Welche beiden Filtermöglichkeiten gibt es für das Deutschland-Ticket?  ###
-
-Sie haben zwei Möglichkeiten:
-
-1. Schieberegler **„Nur D-Ticket Verbindungen“** unter "Optionen" aktivieren:
-    Zeigt ausschließlich Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
-
-2. Schieberegler **„Alle Reisenden besitzen ein Deutschland-Ticket“** unter "Reisende/Fahrräder" aktivieren:
-    Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
-
-So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
-
-* [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
-
 ###  Wo kann ich das Deutschland-Ticket kaufen?  ###
 
 * **Online:** Auf bahn.de oder über die App DB Navigator.
@@ -82,6 +66,22 @@ So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal 
 Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
+
+###  Ich will ein Fahrrad mit dem Deutschland-Ticket mitnehmen. Was muss ich beachten?  ###
+
+Beachten Sie bitte: Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tickets **nicht** enthalten. Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
+
+* Prüfen Sie, ob auf Ihrer Strecke die Fahrradmitnahme kostenfrei möglich ist. Wenn ja, können Sie Ihr Fahrrad kostenfrei mitnehmen.
+* Wenn eine Fahrradkarte erforderlich ist, gilt dies auch für Fahrten mit dem Deutschland-Ticket.
+* Achten Sie auf regionale Sperrzeiten für die Fahrradmitnahme.
+* Nehmen Sie Rücksicht auf andere Fahrgäste.
+* Informieren Sie sich im Voraus über erwartetes hohes Fahrradaufkommen auf www.bahn.de und im DB Navigator.
+
+Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter zugportal/fahrrad.
+
+* [Informationen zur Fahrradmitnahme im Nahververkehr](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad)
 
 ###  Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?  ###
 
@@ -115,6 +115,22 @@ Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der gelte
 * Maximal werden 25 % des Wertes Ihres Deutschland-Tickets entschädigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-erstattung)
+
+###  Welche beiden Filtermöglichkeiten gibt es für das Deutschland-Ticket?  ###
+
+Sie haben zwei Möglichkeiten:
+
+1. Schieberegler **„Nur D-Ticket Verbindungen“** unter "Optionen" aktivieren:
+    Zeigt ausschließlich Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
+
+2. Schieberegler **„Alle Reisenden besitzen ein Deutschland-Ticket“** unter "Reisende/Fahrräder" aktivieren:
+    Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
+
+So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
+
+* [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
 
 ###  Wo finde ich weitere Informationen zum Deutschland-Ticket?  ###
 

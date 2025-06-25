@@ -15,7 +15,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
 0.0051  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1333/category/storage/culture/en_GB/country/OTHER)
+[Order](https://console.hetzner.com/)
 
  setup fee
 
@@ -31,7 +31,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
 0.0175  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1334/category/storage/culture/en_GB/country/OTHER)
+[Order](https://console.hetzner.com/)
 
  setup fee
 
@@ -47,7 +47,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
 0.0333  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1335/category/storage/culture/en_GB/country/OTHER)
+[Order](https://console.hetzner.com/)
 
  setup fee
 
@@ -63,7 +63,7 @@ QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
 
 0.0651  /hr
 
-[Order](https://robot.hetzner.com/order/storage/product/1336/category/storage/culture/en_GB/country/OTHER)
+[Order](https://console.hetzner.com/)
 
  setup fee
 
