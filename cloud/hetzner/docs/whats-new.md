@@ -17,7 +17,7 @@ The Cloud Console is now the **Hetzner Console**, reflecting our goal to unify a
   They now share the same consistent and intuitive interface as our cloud products.
   * **Faster provisioning:**New Storage Boxes are ready within seconds.
   * **Fully configurable at creation:**Set up protocols (SMB, WebDAV, SSH), accessibility, and SSH keys right away.
-  * **New API endpoint:**You can now manage Storage Boxes via the [Hetzner API](https://api.hetzner.com/). Please migrate your systems before 29 July 2025, as support for Storage Boxes via the [Robot Web Service](https://robot.hetzner.com/doc/webservice/de.html) will end.
+  * **New API endpoint:**You can now manage Storage Boxes via the [Hetzner API](https://docs.hetzner.cloud/reference/hetzner). Please migrate your systems before 29 July 2025, as support for Storage Boxes via the [Robot Web Service](https://robot.hetzner.com/doc/webservice/de.html) will end.
   * **Already migrated:**Existing Storage Boxes are now in the project *"Storage Box Migrated"*.
   * **Global search and usage preview:**Due to technical dependencies, not available yet — we are already working on the integration!
 

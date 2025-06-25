@@ -1,15 +1,15 @@
 netcup Deals
 ==========
 
-**Mid-Year Boost - Deine Chance auf starke Deals!**
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-Am 24. & 25. Juni bekommst du bei uns den ultimativen Mid-Year-Push: Starke Angebote auf Server, Hosting und Domains warten auf dich. Starte mit frischer Energie in die zweite Jahreshälfte!
-
-[Zu den Deals](https://www.netcup.com/de/deals#deals)
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 * Alle (0)
 
 VPS
+
+ Deal abgelaufen
 
 ### VPS 2000 G11 PRO ###
 
@@ -33,9 +33,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-2000-g11-pro-nue-jun25)
-
 VPS
+
+ Deal abgelaufen
 
 ### VPS 4000 G11 PRO ###
 
@@ -59,9 +59,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-4000-g11-pro-nue-jun25)
-
 VPS
+
+ Deal abgelaufen
 
 ### VPS 8000 G11 PRO ###
 
@@ -85,11 +85,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/vps/vps-8000-g11-pro-nue-jun25)
-
 Root-Server
 
- Spezial Abverkauf
+ Deal abgelaufen
 
 ### RS 1000 G9.5 PRO ###
 
@@ -113,11 +111,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-1000-g9.5-pro-nue-jun25)
-
 Root-Server
 
- Spezial Abverkauf
+ Deal abgelaufen
 
 ### RS 2000 G9.5 PRO  ###
 
@@ -141,9 +137,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-2000-g9.5-pro-nue-jun25)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 1000 ###
 
@@ -167,9 +163,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-jun25)
-
 Webhosting
+
+ Deal abgelaufen
 
 ### Webhosting 2000 ###
 
@@ -193,9 +189,9 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-jun25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .de Domain ###
 
@@ -219,9 +215,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.de-domain-jun25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .net Domain ###
 
@@ -245,9 +241,9 @@ pro Monat dauerhaft
 
 (inkl. 0% MwSt.)
 
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.net-domain-jun25)
-
 Domains
+
+ Deal abgelaufen
 
 ### .io Domain ###
 
@@ -270,22 +266,6 @@ pro Monat dauerhaft
 4,19 €
 
 (inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.io-domain-jun25)
-
-### **Das erwartet dich:** ###
-
-* ### Unschlagbare Deals ###
-
-  To the moon mit unschlagbaren Deals: Bis zu 69 % Rabatt auf Domains, Webhosting, mehr Speicher oder extra vCores für VPS & Root Server Pakete.
-
-* ### 24 Stunden verfügbar  ###
-
-  Sei dabei und sichere dir Top Deals jeweils von 10 Uhr bis 10 Uhr am Folgetag (MEZ). Die Aktion startet am Dienstag, 24. Juni.
-
-* ### Zusätzlicher Flashdeal ###
-
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), und sichere dir ein exklusives Extra-Angebot – nur für kurze Zeit!
 
 Bleibe auf dem Laufenden
 ----------
