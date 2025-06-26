@@ -118,7 +118,7 @@ Use the Snapshots feature to take a snapshot of your Storage Box and restore it 
 
 ### FLEXIBLE STORAGE ###
 
-Be flexible with your Storage Box. You can scale it up or down to fit your current needs, and without losing data or having to migrate it manually. Just go to your Storage Box via Robot and change to the Storage Box capacity which fits better.
+Be flexible with your Storage Box. You can scale it up or down to fit your current needs, and without losing data or having to migrate it manually. Just go to your Storage Box via Hetzner Console and change to the Storage Box capacity which fits better.
 
 Frequently Asked Questions
 ----------
@@ -129,6 +129,6 @@ Frequently Asked Questions
 
 * **Can I give other people access to my Storage Box?**
 
-  You can create additional users for your Storage Box via the Robot administration interface. They can use the same protocols as the main user. Other users have access only to a designated subdirectory of the main user. However, the main user has full access to the directories of all sub-accounts.
+  You can create additional users for your Storage Box via the Hetzner Console administration interface. They can use the same protocols as the main user. Other users have access only to a designated subdirectory of the main user. However, the main user has full access to the directories of all sub-accounts.
 
 [More FAQs](https://docs.hetzner.com/storage/storage-box/)
