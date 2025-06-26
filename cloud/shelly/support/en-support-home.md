@@ -5,6 +5,14 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
+**⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2**
+
+We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to ensure uninterrupted service and access to new features.
+
+⚡ With V2, you can get a **single status request for up to 10 devices**, improving efficiency and performance.
+
+[Read more and start integrating](https://shelly-api-docs.shelly.cloud/cloud-control-api/communication-v2/#get-devices-state)
+
 **Shipping to Israel Temporarily Suspended**
 
 Due to the current geopolitical situation in Israel, we have temporarily suspended deliveries to the region.
