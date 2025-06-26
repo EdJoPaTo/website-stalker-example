@@ -6,6 +6,18 @@
 		<description>(the) Gnorp Apologue Website</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>22 — Epilogue Buildings</title>
+			<link>https://gnorp.dev/news/22-Epilogue-Buildings.html</link>
+			<content:encoded><![CDATA[<div class="date full">26th Jun, 25</div>
+<div class="preview-content">Let's party</div>]]></content:encoded>
+		</item>
+		<item>
+			<title>21 — The Ring</title>
+			<link>https://gnorp.dev/news/21-The-Ring.html</link>
+			<content:encoded><![CDATA[<div class="date full">9th May, 25</div>
+<div class="preview-content">A very menacing ring</div>]]></content:encoded>
+		</item>
+		<item>
 			<title>20 — Epilogue Talents, More Hats, More Beta</title>
 			<link>https://gnorp.dev/news/20-Epilogue-Talents,-More-Hats,-More-Beta.html</link>
 			<content:encoded><![CDATA[<div class="date full">5th Mar, 25</div>
@@ -124,12 +136,6 @@
 			<link>https://gnorp.dev/news/1-A-New-Incremental.html</link>
 			<content:encoded><![CDATA[<div class="date full">28th Oct, 23</div>
 <div class="preview-content">The first issue of Gnorp News, touching on the very basics of the game, and on the first three gnorps.</div>]]></content:encoded>
-		</item>
-		<item>
-			<title>ring</title>
-			<link>https://gnorp.dev/news/ring.html</link>
-			<content:encoded><![CDATA[<div class="date full">5th Mar, 25</div>
-<div class="preview-content">Talents, beta and hats!</div>]]></content:encoded>
 		</item>
 	</channel>
 </rss>

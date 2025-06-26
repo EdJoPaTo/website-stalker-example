@@ -14,6 +14,10 @@ Häufige Fragen zur Bordgastronomie
 
  In allen ICE- und IC2-Zügen, welche vom DB Fernverkehr betrieben werden, gibt es ein gastronomisches Angebot.
 
+### Wie sind die Öffnungszeiten der Bordgastronomie? ###
+
+ Die Bordgastronomie ist täglich von 06:00 – 22:00 Uhr für Sie geöffnet. Aus betrieblichen Gründen kann es zu Abweichungen von den regulären Öffnungszeiten kommen. Unser Bordpersonal steht Ihnen bei Fragen gerne zur Verfügung.
+
 ### Welche alkoholischen Getränke gibt es an Bord? ###
 
  Wir bieten alkoholische Getränke wie Bier, Wein, Sekt und Spirituosen an.

@@ -1,23 +1,31 @@
-Erfrischend neu – SCAVI & RAY und Krombacher Spezi
+Durst? Wir haben was dagegen.
 ==========
 
-SCAVI & RAY – eine Erfolgsgeschichte
+ share x DB: 5 Jahre, 50 Brunnen. Gemeinsam schaffen wir noch mehr!
 ----------
 
- In nur 20 Jahren ist **SCAVI & RAY** zu einem der führenden Namen in der Welt von Wein und Prosecco geworden ist. Die Marke verkörpert italienische Lebensfreude, Eleganz und höchste Qualität bis ins kleinste Detail. Die edlen Trauben aus den beliebtesten Anbaugebieten Italiens bilden die Basis für ein vielfältiges Sortiment: von prickelndem Prosecco über vollmundige Weine bis hin zu innovativen Spirituosen und mediterranen Aperitifs.
+### Trinkwasser ist ein Menschenrecht. ###
 
- Ein besonderes Highlight für die warmen Sommermonate ist der **SCAVI & RAY Sprizz Aperitivo** – inspiriert von der traditionellen italienischen Rezeptur aus Prosecco, Bitterorangen-Likör und frischen Orangenspalten. Diese perfekt abgestimmte Ready-to-Drink-Variante überzeugt mit nur 5,5 % Vol. Alkohol und einer harmonischen Balance aus spritziger Frische, Grapefruitnoten und floralen Orangennuancen. Ein prickelndes Geschmackserlebnis für stilvolle Genussmomente und entspannte Auszeiten!
+ Und trotzdem haben etwa 2 Milliarden Menschen auf der Welt keinen Zugang dazu. Das ist 1 von 4 Personen!
 
-[www.scavi-ray.com](/rl/?t=w_scavi-ray-2505)
+ Gemeinsam konnten share und die Deutsche Bahn bereits den Bau und die Reparatur von mehr als 50 Brunnen finanzieren – in Dörfern, Schulen und Gesundheitszentren – und so Menschen dauerhaft mit sauberem Wasser versorgen. So konnten mehr als 15.000 Menschen in Liberia, Kolumbien, Kenia, Simbabwe, Côte d'Ivoire, Sierra Leone und Madagaskar erreicht werden.
 
-Krombacher Spezi® vereint fruchtigen Orangensaft und prickelnde Cola zu einem echten Geschmackserlebnis.
+ Brunnen sind so viel mehr als nur Wasser. Ein Brunnen im Dorf kann Arbeitsplätze schaffen. Er kann Zeit sparen, die in Bildung investiert werden kann. Er kann dazu beitragen, dass Kindersterblichkeit, Krankheiten und Konflikte verringert werden. Er ist eine wichtige Basis für die Entwicklung der Community.
+
+ Diese Projekte konnten wir nur mit der Hilfe der Fahrgäste der DB ermöglichen – denn jede gekauft Flasche share Wasser spendet einen Tag Trinkwasser.
+
+ Deshalb wollen wir **DANKE** sagen – und etwas zurückgeben.
+
+Jetzt tolle Preise gewinnen:
 ----------
 
-**Krombacher Spezi®** basiert auf der beliebten und bekannten Original-Rezeptur von Spezi®, die jedoch um eine prickelnd-fruchtige Note verfeinert wird.
+* **10 x GOT BAG Handgepäck-Koffer**
+* **20 x share Travel Snacks**
+* **50 x DB Reisegutschein à 50 €**
 
- Alles natürlich alkoholfrei, vegan und ganz ohne Konservierungsstoffe.
+**Teilnahmezeitraum:** vom 15.06. – 31.10.25. Teilnahme ab 18 Jahren.
 
-[www.spezi-krombacher.de](/rl/?t=w_krombacher-spezi-2503)
+[Zur Gewinnspielteilnahme und Teilnahmebedingungen](/rl?t=w_share-gewinnspiel-2507)
 
 Mehr über die Bordgastronomie
 ----------
