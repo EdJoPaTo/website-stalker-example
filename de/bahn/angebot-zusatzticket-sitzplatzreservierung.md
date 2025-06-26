@@ -1,11 +1,11 @@
 Sitzplatzreservierung für Reisende und Pendler
 ==========
 
-Reservieren Sie sich Ihren Sitzplatz für eine entspannte Fahrt, sowohl im Fern- als auch im Regionalverkehr
+Reservieren Sie sich Ihren Sitzplatz für eine entspannte Fahrt im Fern- und Nahverkehr.
 
 Sitzplatzreservierung für Reisende und Pendler
 
-Reservieren Sie sich Ihren Sitzplatz für eine entspannte Fahrt, sowohl im Fern- als auch im Regionalverkehr
+Reservieren Sie sich Ihren Sitzplatz für eine entspannte Fahrt im Fern- und Nahverkehr.
 
 Hinweis zu Sitzplatzreservierungen im Nah- und Fernverkehr
 ----------
