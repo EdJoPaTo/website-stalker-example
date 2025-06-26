@@ -20,13 +20,6 @@ Sie können folgende Fernverkehrs-Tickets sofort stornieren:
 
 Sie können diese Tickets bis zu 3 Stunden (180 Minuten) nach der Buchung kostenlos stornieren. Sie können die Tickets nur vor dem 1. Geltungstag stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-Storno-Beratung im Chat
-----------
-
-Sie möchten wissen, ob und wie Sie Ihr Ticket stornieren können? Fragen Sie einfach DB Smile, den Chatbot der Deutschen Bahn.
-
-[Chat starten](https://chatbot-bahn.de/?skill=stornierung)
-
 Stornierungsprozess von Tickets
 ----------
 

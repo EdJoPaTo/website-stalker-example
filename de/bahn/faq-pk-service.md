@@ -6542,6 +6542,19 @@ Bitte nutzen Sie unsere Self-Services und die Kontaktformulare auf der Hilfe & K
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-kundendialog-der-deutschen-bahn-erreichen)
 
+ Warum gibt es den Chatbot DB Smile nicht mehr?
+----------
+
+Wir entwickeln unsere digitalen Services kontinuierlich weiter und betrachten regelmäßig die Nutzungszahlen – mit dem Ziel, Ihnen noch bessere Unterstützung zu bieten.
+
+Da DB Smile nur eingeschränkt genutzt wurde, haben wir uns entschieden, den Chatbot abzuschalten und den Fokus auf neue, leistungsfähigere Lösungen zu legen.
+
+Antworten auf Ihre Fragen finden Sie auf unserer Hilfe-Seite. Dort können Sie die Suche nutzen, Anliegen im besten Fall direkt lösen oder Kontaktmöglichkeiten finden.
+
+* [Zu Hilfe & Kontakt](https://www.bahn.de/hilfe)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-inaktiv)
+
  Warum führen wir die neutrale Anrede ein?
 ----------
 
