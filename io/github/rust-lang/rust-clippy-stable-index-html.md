@@ -250,7 +250,7 @@ bool\_to\_int\_with\_if
 
 pedantic allow
 
- Applicability: MaybeIncorrect
+ Applicability: MachineApplicable
 
 Added in: 1.65.0
 
@@ -469,6 +469,14 @@ restriction allow
  Applicability: Unspecified
 
 Added in: 1.81.0
+
+char\_indices\_as\_byte\_indices
+
+correctness deny
+
+ Applicability: MaybeIncorrect
+
+Added in: 1.83.0
 
 char\_lit\_as\_u8
 
@@ -924,7 +932,7 @@ perf warn
 
  Applicability: MachineApplicable
 
-Added in: 1.85.0
+Added in: 1.86.0
 
 double\_must\_use
 
@@ -1598,6 +1606,14 @@ correctness deny
 
 Added in: pre 1.29.0
 
+ignore\_without\_reason
+
+pedantic allow
+
+ Applicability: Unspecified
+
+Added in: 1.85.0
+
 ignored\_unit\_patterns
 
 pedantic allow
@@ -1878,14 +1894,6 @@ pedantic allow
 
 Added in: 1.75.0
 
-invalid\_null\_ptr\_usage
-
-correctness deny
-
- Applicability: MachineApplicable
-
-Added in: 1.53.0
-
 invalid\_regex
 
 correctness deny
@@ -1924,7 +1932,7 @@ style warn
 
  Applicability: MachineApplicable
 
-Added in: 1.86.0
+Added in: 1.87.0
 
 is\_digit\_ascii\_radix
 
@@ -2342,6 +2350,14 @@ style warn
 
 Added in: 1.38.0
 
+manual\_abs\_diff
+
+complexity warn
+
+ Applicability: MachineApplicable
+
+Added in: 1.86.0
+
 manual\_assert
 
 pedantic allow
@@ -2389,6 +2405,14 @@ perf warn
  Applicability: MachineApplicable
 
 Added in: 1.86.0
+
+manual\_dangling\_ptr
+
+style warn
+
+ Applicability: MachineApplicable
+
+Added in: 1.87.0
 
 manual\_div\_ceil
 
@@ -2588,7 +2612,7 @@ complexity warn
 
  Applicability: MachineApplicable
 
-Added in: 1.85.0
+Added in: 1.86.0
 
 manual\_pattern\_char\_comparison
 
@@ -2848,11 +2872,11 @@ Added in: 1.47.0
 
 match\_on\_vec\_items
 
-pedantic allow
+deprecated none
 
- Applicability: MaybeIncorrect
+ Applicability: Unspecified
 
-Added in: 1.45.0
+Deprecated in: 1.86.0
 
 match\_overlapping\_arm
 
@@ -3716,7 +3740,7 @@ pedantic allow
 
  Applicability: MachineApplicable
 
-Added in: 1.81.0
+Added in: 1.86.0
 
 non\_zero\_suggestions
 
@@ -4421,6 +4445,14 @@ style warn
  Applicability: MachineApplicable
 
 Added in: 1.37.0
+
+redundant\_test\_prefix
+
+restriction allow
+
+ Applicability: MaybeIncorrect
+
+Added in: 1.88.0
 
 redundant\_type\_annotations
 
@@ -5174,6 +5206,14 @@ suspicious warn
 
 Added in: 1.63.0
 
+swap\_with\_temporary
+
+complexity warn
+
+ Applicability: MachineApplicable
+
+Added in: 1.88.0
+
 tabs\_in\_doc\_comments
 
 style warn
@@ -5528,7 +5568,7 @@ Added in: 1.58.0
 
 uninlined\_format\_args
 
-pedantic allow
+style warn
 
  Applicability: MachineApplicable
 
@@ -5610,7 +5650,7 @@ unnecessary\_filter\_map
 
 complexity warn
 
- Applicability: MaybeIncorrect
+ Applicability: Unspecified
 
 Added in: 1.31.0
 
@@ -5618,7 +5658,7 @@ unnecessary\_find\_map
 
 complexity warn
 
- Applicability: MaybeIncorrect
+ Applicability: Unspecified
 
 Added in: 1.61.0
 

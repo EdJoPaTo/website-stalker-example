@@ -653,11 +653,8 @@ warning: `if let` assigns a shorter lifetime since Edition 2024
 note: value invokes this custom destructor
   --> lint_example.rs:5:1
    |
-5  | / impl Drop for Droppy {
-6  | |     fn drop(&mut self) {
-...  |
-16 | | }
-   | |_^
+5  | impl Drop for Droppy {
+   | ^^^^^^^^^^^^^^^^^^^^
 help: the value is now dropped here in Edition 2024
   --> lint_example.rs:26:5
    |
@@ -1581,9 +1578,9 @@ error: the item `None` is imported redundantly
 3   | use std::option::Option::None;
     |     ^^^^^^^^^^^^^^^^^^^^^^^^^
     |
-   ::: /checkout/library/std/src/prelude/mod.rs:147:13
+   ::: /checkout/library/std/src/prelude/mod.rs:161:13
     |
-147 |     pub use core::prelude::rust_2021::*;
+161 |     pub use core::prelude::rust_2024::*;
     |             ------------------------ the item `None` is already defined here
     |
 note: the lint level is defined here
@@ -2329,19 +2326,13 @@ warning: relative drop order changing in Rust 2024
 note: `#1` invokes this custom destructor
   --> lint_example.rs:8:1
    |
-8  | / impl Drop for Droppy {
-9  | |     fn drop(&mut self) {
-...  |
-14 | | }
-   | |_^
+8  | impl Drop for Droppy {
+   | ^^^^^^^^^^^^^^^^^^^^
 note: `another_droppy` invokes this custom destructor
   --> lint_example.rs:8:1
    |
-8  | / impl Drop for Droppy {
-9  | |     fn drop(&mut self) {
-...  |
-14 | | }
-   | |_^
+8  | impl Drop for Droppy {
+   | ^^^^^^^^^^^^^^^^^^^^
    = note: most of the time, changing drop order is harmless; inspect the `impl Drop`s for side effects like releasing locks or sending messages
 note: the lint level is defined here
   --> lint_example.rs:1:9
