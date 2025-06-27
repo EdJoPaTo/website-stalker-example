@@ -7317,17 +7317,6 @@ Please go to our international website [int.bahn.de](http://int.bahn.de/) and se
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sprache-website-en)
 
- Wo kann ich mein online gebuchtes Veranstaltungsticket umtauschen oder stornieren?
-----------
-
-In der Auftragssuche kann der Reisende das Ticket stornieren. Dazu braucht er die auf dem Fahrschein abgedruckte Auftragsnummer.
-
-Nach dem 1. Geltungstag ist ein Umtausch oder eine Stornierung ausgeschlossen. Der Geltungstag ist auf Ihrem Ticket aufgedruckt.
-
-* [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/3-wo-kann-ich-mein-veranstaltungsticket-stornieren)
-
  Wo kann ich mich über die aktuelle Verkehrslage informieren?
 ----------
 
