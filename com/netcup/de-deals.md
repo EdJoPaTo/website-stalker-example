@@ -7,6 +7,58 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Alle (0)
 
+Root-Server
+
+ Deal abgelaufen
+
+### RS 1000 G9.5 PRO ###
+
+* 4 vCore (dediziert)
+
+* 8 GB DDR4 ECC RAM
+
+* 320 GB SSD (statt 160 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* AMD EPYC™ 7702
+
+* RS Generation 9.5 zum Schnäppchen-Preis
+
+* Standorte: NUE | MNZ
+
+pro Monat
+
+6,25 €
+
+(inkl. 0% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 2000 G9.5 PRO  ###
+
+* 6 vCore (dediziert)
+
+* 16 GB DDR4 ECC RAM
+
+* 640 GB SSD (statt 320 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* AMD EPYC™ 7702
+
+* RS Generation 9.5 zum Schnäppchen-Preis
+
+* Standorte: NUE | MNZ
+
+pro Monat
+
+10,75 €
+
+(inkl. 0% MwSt.)
+
 VPS
 
  Deal abgelaufen
@@ -82,58 +134,6 @@ statt ab 36,79 €
 pro Monat
 
 32,00 €
-
-(inkl. 0% MwSt.)
-
-Root-Server
-
- Deal abgelaufen
-
-### RS 1000 G9.5 PRO ###
-
-* 4 vCore (dediziert)
-
-* 8 GB DDR4 ECC RAM
-
-* 320 GB SSD (statt 160 GB)
-
-* Nur 1 Monat Mindestlaufzeit
-
-* AMD EPYC™ 7702
-
-* RS Generation 9.5 zum Schnäppchen-Preis
-
-* Standorte: NUE | MNZ
-
-pro Monat
-
-6,25 €
-
-(inkl. 0% MwSt.)
-
-Root-Server
-
- Deal abgelaufen
-
-### RS 2000 G9.5 PRO  ###
-
-* 6 vCore (dediziert)
-
-* 16 GB DDR4 ECC RAM
-
-* 640 GB SSD (statt 320 GB)
-
-* Nur 1 Monat Mindestlaufzeit
-
-* AMD EPYC™ 7702
-
-* RS Generation 9.5 zum Schnäppchen-Preis
-
-* Standorte: NUE | MNZ
-
-pro Monat
-
-10,75 €
 
 (inkl. 0% MwSt.)
 
