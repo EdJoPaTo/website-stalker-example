@@ -1,11 +1,11 @@
 Komfort Check-in. Einsteigen. Einchecken. Entspannen.
 ==========
 
-Sind Sie mit Flexpreis, Sparpreis und Super Sparpreis in Deutschland im ICE oder in ausgewählten IC-Zügen unterwegs? Dann denken Sie bitte daran sich, wenn möglich, einzuchecken.
+Wenn Sie ein Digitales Ticket (Flexpreis, Sparpreis, Super Sparpreis) haben, können Sie im ICE oder in ausgewählten IC-Zügen mit dem Komfort Check-in ganz einfach selbst einchecken – mit oder ohne Sitzplatzreservierung.
 
 Komfort Check-in. Einsteigen. Einchecken. Entspannen.
 
-Sind Sie mit Flexpreis, Sparpreis und Super Sparpreis in Deutschland im ICE oder in ausgewählten IC-Zügen unterwegs? Dann denken Sie bitte daran sich, wenn möglich, einzuchecken.
+Wenn Sie ein Digitales Ticket (Flexpreis, Sparpreis, Super Sparpreis) haben, können Sie im ICE oder in ausgewählten IC-Zügen mit dem Komfort Check-in ganz einfach selbst einchecken – mit oder ohne Sitzplatzreservierung.
 
 Ihre Vorteile
 ----------
@@ -13,6 +13,7 @@ Ihre Vorteile
 * **Einsteigen & direkt entspannen:** Sitzplatz einnehmen und über die App DB Navigator einchecken. Im Anschluss können Sie direkt entspannen - in der Regel werden Sie nicht mehr durch den Zugbegleiter kontrolliert, wenn Sie sich auf ihrem aktuellen Sitzplatz eingecheckt haben.
 * **Direktes Feedback zum Ticket:** Kein Suchen nach dem Ticket. Mit nur einem Klick erhalten Sie auf Ihrem Display direktes Feedback, dass Ihr Check-in erfolgreich war. Unsere Zugbegleiter werden hierüber informiert.
 * **Selbstbestimmtes Reisen:** Die Reise selbst gestalten. Nehmen Sie sich mehr Zeit zum Lesen, Filme ansehen, Arbeiten oder genießen Sie etwas aus dem Bordbistro.
+* **Gesicherter Sitzplatz:** Ihr Komfort Check-in ist durch die Belegtanzeige in vielen ICE-Zügen für Mitreisende sichtbar. Damit sichern Sie sich Ihren Sitzplatz bis zum Ausstiegshalt.
 
 Und so funktioniert der Komfort Check-in
 ----------
