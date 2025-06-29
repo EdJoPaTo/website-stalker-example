@@ -627,6 +627,204 @@ Nutzen Sie für die Online-Kündigung einfach Ihr Kundenkonto:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laeuft-die-senioren-bahncard-in-ein-abo-ueber)
 
+ Was ist die Senioren BahnCard Plus?
+----------
+
+Vom 01. Juli 2025 bis zum 31. August 2025 ist zusätzlich zu den regulären Senioren BahnCards die Senioren BahnCard Plus erhältlich. Für einen Aufpreis zu einer regulären Senioren BahnCard erhalten Inhaber:innen einer Senioren BahnCard Plus ein Jahr lang das BahnBonus-Statuslevel Silber.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus)
+
+ Welche Vorteile bietet die Senioren BahnCard Plus im Vergleich zu einer regulären Senioren BahnCard?
+----------
+
+Als Inhaber:in einer Senioren BahnCard Plus erhalten Sie zu Beginn der Laufzeit  Ihrer BahnCard eine einmalige Gutschrift über 1.500 BahnBonus Statuspunkte und profitieren damit ein Jahr lang von den Vorteilen des BahnBonus Statuslevels Silber. Dazu gehören u. a. 8 Freigetränke in der DB Bordgastronomie, 8 Tagespässe für die DB Lounges sowie eine bevorzugte Betreuung in ausgewählten DB Reisezentren. Weitere Informationen finden Sie unter: <https://www.bahn.de/service/bahnbonus/status-level>.
+
+Alle weiteren Konditionen sind identisch zu den Konditionen der regulären Senioren BahnCard.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-vorteile)
+
+ Wer kann die Senioren BahnCard Plus kaufen?
+----------
+
+Kaufberechtigt sind alle Reisenden ab 65 Jahren. Ausschlaggebend ist das Alter am ersten Geltungstag der BahnCard.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-kaufen)
+
+ Wann ist die Senioren BahnCard Plus erhältlich?
+----------
+
+Die Senioren BahnCard Plus ist vom 01. Juli 2025 bis zum 31. August 2025 erhältlich. Aufgrund des Aktionscharakters gilt für die Senioren BahnCard Plus nicht der reguläre Vorverkaufszeitraum von 180 Tagen. Der letztmögliche erste Geltungstag einer Senioren BahnCard Plus ist daher der 31. August 2025.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-zeitraum)
+
+ Wie viel kostet die Senioren BahnCard Plus?
+----------
+
+Die Senioren BahnCard 25 Plus kostet
+
+* in der 2. Klasse 65,00 Euro (reguläre Senioren BahnCard 25: 40,90 Euro)
+* in der 1. Klasse 106,00 Euro (reguläre Senioren BahnCard 25: 81,90 Euro).
+
+Die Senioren BahnCard 50 Plus kostet
+
+* in der 2. Klasse 146,00 Euro (reguläre Senioren BahnCard 50: 122 Euro)
+* in der 1. Klasse 265,00 Euro (reguläre Senioren BahnCard 50: 241 Euro).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-preis)
+
+ Sind während des Aktionszeitraums reguläre Senioren BahnCards erhältlich?
+----------
+
+Ja. Sie können zwischen dem 01. Juli 2025 und dem 31. August 2025 zwischen einer regulären Senioren BahnCard und einer Senioren BahnCard Plus wählen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-regulaere-karte)
+
+ Geht die Senioren BahnCard Plus in ein Abo über? Behalte ich nach Ablauf des ersten Jahres mein BahnBonus Statuslevel?
+----------
+
+Die Senioren BahnCard Plus geht nach Ablauf des Gültigkeitszeitraums von einem Jahr in ein BahnCard-Abonnement über. Die Klasse der erworbenen Senioren BahnCard Plus definiert die Klasse der Folge-BahnCard.
+
+Die Folgekarte ist eine reguläre Senioren BahnCard. D. h., dass Sie für die Folgekarte den günstigeren Preis einer regulären Senioren BahnCard bezahlen, aber auch Ihren BahnBonus Statuslevel Silber nicht mehr automatisch erhalten. Am Folgetag nach Ablauf der 12 Monate wird Ihr Punktestand geprüft. Sind ausreichend Statuspunkte für das aktuelle Statuslevel vorhanden, wird Ihr Statuslevel um weitere 12 Monate aber verlängert.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-regulaere-statuserhalt)
+
+ Benötige ich für die Nutzung der Statusvorteile die BahnBonus-App?
+----------
+
+Ja, die Nutzung der Statusvorteile ist ausschließlich über die [BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app) möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-bbapp)
+
+ Warum muss ich mich beim Kauf der Senioren BahnCard Plus zu BahnBonus anmelden?
+----------
+
+Die Voraussetzung für die Inanspruchnahme der Statusvorteile ist die Teilnahme am BahnBonus Programm.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-bbanmeldung)
+
+ Ich habe mich bewusst nicht zu BahnBonus angemeldet, jetzt bin ich aber trotzdem angemeldet. Wie ist das möglich?
+----------
+
+Beim Kauf der Senioren BahnCard Plus stimmen Sie der BahnBonus-Anmeldung im Rahmen des Kaufvorgangs zu. Die Teilnahme an BahnBonus ist Voraussetzung für die Inanspruchnahme der Vorteile des BahnBonus Silberstatus.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-bbteilnahme)
+
+ Wann erhalte ich meine Statuspunkte?
+----------
+
+Sie erhalten die Statuspunkte mit dem ersten Geltungstag Ihrer Senioren BahnCard Plus. Wenn Sie für Ihre Senioren BahnCard Plus das heutige Datum als Startdatum wählen, erfolgt die Punktegutschrift erst am nächsten Tag.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-statuspunkte)
+
+ Wie lange sind die Statuspunkte gültig?
+----------
+
+Die Statuspunkte sind 12 Monate entsprechend der Laufzeit Ihrer Senioren BahnCard Plus gültig. In diesem Zeitraum kommt es zu keinem Leveldowngrade, ein Levelupgrade hingegen erfolgt jederzeit, mit dem Erreichen der Punkteschwelle, für das nächsthöhere Statuslevel.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-statuspunktegueltigkeit)
+
+ Wo kann ich meine Prämien- und Statuspunkte einsehen?
+----------
+
+Ihre Prämien- und Statuspunkte können Sie im BahnBonus Bereich in Ihrer BahnBonus App sowie in Ihrem DB Kundenkonto auf bahn.de einsehen.
+
+Die Statuspunkte für den Kauf Ihrer Senioren BahnCard Plus sowie die einmalig vergebenen 1.500 Statuspunkte sind in der Position „Senioren BahnCard Plus“ zusammengefasst.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-punkteeinsicht)
+
+ Warum erhalte ich nicht auch 1.500 Prämienpunkte?
+----------
+
+Bei der Senioren BahnCard Plus handelt es sich um ein spezielles Aktionsangebot, bei dem zur Erreichung des BahnBonus Silberstatus ausschließlich Statuspunkte vergeben werden. Jedoch sammeln Sie bei jeder Fahrt automatisch Prämienpunkte und weitere Statuspunkte.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-praemienpunkte)
+
+ Kann ich mit der Senioren BahnCard Plus weitere Prämien- und Statuspunkte sammeln?
+----------
+
+Ja, Sie sammeln mit Ihrer Senioren BahnCard Plus bei jeder Fahrt automatisch Prämien- und Statuspunkte.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-bbsammeln)
+
+ Wann beginnt meine Statuslaufzeit?
+----------
+
+Die Statuslaufzeit beginnt mit dem ersten Gültigkeitstag Ihrer Senioren BahnCard Plus. Sollten Sie Ihre BahnCard mit dem heutigen Datum als Startdatum gewählt haben, wird der Status erst am nächsten Tag aktiv.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-statuslaufzeit)
+
+ Kann ich mit meiner Senioren BahnCard Plus auch den Premiumbereich der DB Lounges nutzen?
+----------
+
+Mit Ihrer Senioren BahnCard Plus mit BahnBonus Silberstatus erhalten Sie ausschließlich Zugang zum Comfort Bereich der DB Lounge, wenn Sie einen der in der BahnBonus-App abrufbaren Tagespässe einlösen. Der Zugang zum Premiumbereich der DB Lounges ist ausgeschlossen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-loungenutzung)
+
+ Wo kann ich meine Prämien- und Statuspunkte einsehen?
+----------
+
+Ihre Prämien- und Statuspunkte können Sie in Ihrem BahnBonus Bereich in der BahnBonus App sowie in Ihrem DB Kundenkonto auf bahn.de einsehen.
+
+Die Statuspunkte für den Kauf Ihrer Senioren BahnCard Plus sowie die einmaligen 1.500 Statuspunkte sind in einer Position zusammen aufgeführt. Diese hat in der Überschrift den Namen Ihrer Senioren BahnCard Plus.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-punkteeinsehen)
+
+ Was passiert, wenn ich gerade kein Internet habe und die Statusvorteile einlösen möchte?
+----------
+
+Sofern Sie Ihre digitale BahnBonus Karte sowie Ihre Statusvorteile im Vorfeld schon einmal aufgerufen haben, können Sie auch bei kurzzeitigen Verbindungsproblemen Ihre Statusvorteile problemlos einlösen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-internet)
+
+ Kann ich meine Statusvoteile auch über die DB Navigator App nutzen?
+----------
+
+Nein, die Nutzung der Statusvorteile ist ausschließlich über die BahnBonus App möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-navigatorapp)
+
+ BahnBonus Freigetränk: Für welche Getränke ist der Code "Freigetränk" nutzbar?
+----------
+
+Sie können den Statusvorteil „Freigetränk in der Bordgastronomie“ für jegliches Getränk, inklusive alkoholischer, einlösen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-freigetraenk)
+
+ Was bedeutet "Tagespass" in der DB Lounge?
+----------
+
+Die DB Lounges können Sie und eine Begleitperson an dem Tag, an dem Sie den Tagespass einlösen, so oft nutzen, wie Sie möchten. So können sowohl am Abfahrts- als auch am Ankunftsort und potenziellen Zwischenhalten von diesem Vorteil profitieren. Voraussetzung ist, dass Sie und Ihre Begleitperson eine tagesaktuelle Fahrkarte für den Fernverkehr der DB besitzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-tagespass)
+
+ Wo finde ich Partnervorteile?
+----------
+
+Alle Partnervorteile, inkl. der Statusvorteile bei Partnern, finden Sie in der BahnBonus App im Bereich Partnerdeals.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-partnervorteile)
+
+ Darf ich eine Begleitperson in die DB Lounge mitnehmen?
+----------
+
+Ja, die Mitnahme einer Begleitperson in den Comfort Bereich der Lounge ist möglich. Ihre Begleitperson benötigt, ebenso wie Sie, ein gültiges DB Fernverkehrsticket. Die Mitnahme einer Begleitperson in den Premium Bereich der Lounge ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-lounge-begleitperson)
+
+ Was ist der BahnBonus Statusservice?
+----------
+
+Der BahnBonus Statusservice ist die exklusive Hotline für Statuskund:innen. Den Kontakt hierzu finden Sie in der BahnBonus App.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-statusservice)
+
+ Ich besitze bereits eine Senioren BahnCard. Kann ich diese auf die Senioren BahnCard Plus upgraden?
+----------
+
+Nein, ein Upgrade auf Aktionsprodukte, in diesem Fall die Senioren BahnCard Plus, ist leider nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-upgrade)
+
  Wofür kann ich die ermäßigte BahnCard benutzen?
 ----------
 
