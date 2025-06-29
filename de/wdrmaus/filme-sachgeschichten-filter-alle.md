@@ -719,6 +719,7 @@
 * [Maus Münze](https://www.wdrmaus.de/filme/sachgeschichten/maus_muenze.php5)
 * [Maus-Apfel](https://www.wdrmaus.de/filme/sachgeschichten/maus_apfel.php5)
 * [Maus-Baum 2024](https://www.wdrmaus.de/filme/sachgeschichten/maus_baum_2024.php5)
+* [Maus-Baum 2025](https://www.wdrmaus.de/filme/sachgeschichten/maus_baum_2025.php5)
 * [Maus-Experiment: Die Durchführung](https://www.wdrmaus.de/filme/sachgeschichten/maus_experiment_die_durchfuehrung.php5)
 * [Maus-Experiment: Die Vorbereitungen](https://www.wdrmaus.de/filme/sachgeschichten/maus_experiment_die_vorbereitungen.php5)
 * [Maus-Krätzchen](https://www.wdrmaus.de/filme/sachgeschichten/maus_kraetzchen.php5)
