@@ -17,7 +17,7 @@ Das UIC-Sicherheitsportal besteht aus drei Bausteinen: Einer Sperrliste mit Onli
 |Barcodemanagement und Analysemodul|                   Barcodeservice                   |                * Ausgabebetrug                |
 |           Analysemodul           |     * Mehrfachnutzung<br/>* Neue Betrugsmuster     |                                               |
 
-Die Sperrliste steht ab Juni 2025 im Produktivbetrieb zur Verfügung. Momentan läuft ein Testbetrieb. Der zweite Baustein im UIC-Sicherheitsportal ist das Ticket- und Kontrollmanagement. Dritter Baustein sind ein zentraler Barcodegenerator sowie ein Analysemodul. Beide Bausteine folgen zeitnah.
+Alle Bausteine stehen produktiv zur Verfügung, können zuvor über ein Test-Portal in der Anbindung an die eigene Technik überprüft werden.
 
  Deutschlandtarifverbund-GmbH
 Speicherstraße 59

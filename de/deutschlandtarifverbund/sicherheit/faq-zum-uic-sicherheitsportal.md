@@ -40,12 +40,12 @@ Den [Zugang zum Sicherheitsportal gibt es hier](http://sicherheitsportal.deutsch
 Wie kann ich mitmachen?
 ----------
 
-Über Ihre Registrierung im [UIC-Sicherheitsportal](https://sicherheitsportal.deutschlandtarifverbund.de/login) werden wir automatisch informiert. Die Nutzungsvereinbarungen erhalten Sie auf Anfrage bei der DTVG. Sie haben konkrete Fragen? Sprechen Sie uns gerne an! Schildern Sie uns Ihre Bedürfnisse und gemeinsam finden wir Lösungen: \*protected email\*
+Über Ihre Registrierung im [UIC-Sicherheitsportal](https://sicherheitsportal.deutschlandtarifverbund.de/login) werden wir automatisch informiert. Sie haben konkrete Fragen? Sprechen Sie uns gerne an! Schildern Sie uns Ihre Bedürfnisse und gemeinsam finden wir Lösungen: \*protected email\*
 
 Wo gibt es die technische Anleitung und eine Dokumentation?
 ----------
 
-Die Informationen zum Systemzugang werden über eine sogenannte [Open-API Spezifikation](https://sicherheitsportal.deutschlandtarifverbund.de/scalar/v1#tag/) zur Verfügung gestellt. Mit dieser kann für die gängigsten Programmiersprachen Quellcode generiert werden. Den Zugang zu einem entsprechenden [Testsystem finden Sie hier](https://test.sicherheitsportal.deutschlandtarifverbund.de/). Details zu technischen Grundlagen des Systems und den Schnittstellen halten wir auf einem aktuellen Stand. Das Dokument finden Sie [hier](https://sicherheit.deutschlandtarifverbund.de/wp-content/uploads/2025/04/Dokumentation-DTVG-Sicherheitsportal-2.pdf).
+Die Informationen zum Systemzugang werden über eine sogenannte [Open-API Spezifikation](https://sicherheitsportal.deutschlandtarifverbund.de/scalar/v1#tag/) zur Verfügung gestellt. Mit dieser kann für die gängigsten Programmiersprachen Quellcode generiert werden. Den Zugang zu einem entsprechenden [Testsystem finden Sie hier](https://test.sicherheitsportal.deutschlandtarifverbund.de/). Details zu technischen Grundlagen des Systems und den Schnittstellen halten wir auf einem aktuellen Stand. Das Dokument finden Sie [hier](https://sicherheit.deutschlandtarifverbund.de/wp-content/uploads/2025/06/Anlage_4_UIC-Sicherheitsportal_API-Dokumentation.pdf).
 
 Was mache ich mit einem auffälligen Ticket?
 ----------
