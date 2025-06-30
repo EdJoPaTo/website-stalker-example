@@ -68,19 +68,19 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 ### Connections ###
 
-|  Monitore   |    1x DisplayPort 1.2, 1x HDMI 2.0, 1x VGA    |
+|  Monitore   |    1x DisplayPort 1.4, 1x HDMI 2.0, 1x VGA    |
 |-------------|-----------------------------------------------|
-|USB (hinten) |            1x USB 3.2 / 1x USB 2.0            |
-| USB (vorne) |         1x USB 3.2 / 1x USB 3.0 Typ C         |
+|USB (hinten) |    1x USB 3.1 Gen1 Typ A/ 1x USB 2.0 Typ A    |
+| USB (vorne) |    1x USB 3.1 Gen1 Typ-C/ 1x USB 3.1 Typ A    |
 |Audio (vorne)|        2x Stereo 3.5mm Klinkenbuchsen         |
 |  Netzwerk   |1x Gigabit Ethernet / Wifi + Bluetooth optional|
 
 ### Pcie additional card ###
 
-|               Type               | PCIe 3.0  |
-|----------------------------------|-----------|
-|              design              |Low profile|
-|Max. Permissible power consumption|    35W    |
+|               Type               |PCIe 3.0, 4.0|
+|----------------------------------|-------------|
+|              design              | Low profile |
+|Max. Permissible power consumption|     35W     |
 
 ### Im Lieferumfang: ###
 
