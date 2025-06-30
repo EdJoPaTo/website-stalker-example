@@ -517,7 +517,7 @@ sites:
       - https://sicherheit.deutschlandtarifverbund.de/faq-zum-uic-sicherheitsportal/
     editors:
       - regex_replace:
-          pattern: </?noscript>
+          pattern: </?noscript\s*>
           replace: ""
       - css_select: "#page"
       - css_remove: script, img, video, svg
