@@ -42,15 +42,15 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 ### Processor ###
 
-|Processor type|AMD Ryzen APU|
-|--------------|-------------|
+|Processor type|AMD Ryzen bis Ryzen 7 9700X / Intel Core bis i9-14900T|
+|--------------|------------------------------------------------------|
 
 ### Main memory ###
 
 |   Speichertyp   |         DDR4 SO-DIMM / DDR5         |
 |-----------------|-------------------------------------|
-|  Speichergröße  |   8-64GB (konfigurationsabhängig)   |
-|  Taktfrequenz   |bis 3200 MHz (konfigurationsabhängig)|
+|  Speichergröße  |  8-128 GB (konfigurationsabhängig)  |
+|  Taktfrequenz   |bis 5600 MHz (konfigurationsabhängig)|
 |Anzahl DIMM-Slots|          2 (Dual Channel)           |
 
 ### SSDs / hard drives ###
