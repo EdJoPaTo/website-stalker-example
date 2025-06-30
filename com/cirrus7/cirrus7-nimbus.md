@@ -58,9 +58,9 @@ Der cirrus nimbus ist modular aufgebaut. Das Herzstück des Kühlsystems ist ein
 
 ### Processor ###
 
-|  CPU   |Intel core i3 / i5 / i7 / i9 (konfigurationsabhängig)|
-|--------|-----------------------------------------------------|
-|Chipsatz|         Intel H610 / Z790 / AMD B550 / 650          |
+|  CPU   |Intel core i3 / i5 / i7 / i9, Intel Core Ultra bis 9 285T, AM4/ AM5 (konfigurationsabhängig)|
+|--------|--------------------------------------------------------------------------------------------|
+|Chipsatz|                             Intel H610 / Z790 / AMD B550 / 650                             |
 
 ### Main memory ###
 
@@ -90,10 +90,10 @@ Der cirrus nimbus ist modular aufgebaut. Das Herzstück des Kühlsystems ist ein
 
 ### Pcie additional card ###
 
-|               Typ                | PCIe 3.0  |
-|----------------------------------|-----------|
-|              design              |Low profile|
-|Max. Permissible power consumption|    35W    |
+|               Typ                |PCIe 3.0, 4.0|
+|----------------------------------|-------------|
+|              design              | Low profile |
+|Max. Permissible power consumption|     35W     |
 
 ### Im Lieferumfang: ###
 
