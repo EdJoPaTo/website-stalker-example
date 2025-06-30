@@ -790,12 +790,12 @@ Sie können den Statusvorteil „Freigetränk in der Bordgastronomie“ für jeg
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-freigetraenk)
 
- Darf ich eine Begleitperson in die DB Lounge mitnehmen?
+ Was bedeutet "Tagespass" in der DB Lounge?
 ----------
 
-Ja, die Mitnahme einer Begleitperson in den Comfort Bereich der Lounge ist möglich. Ihre Begleitperson benötigt, ebenso wie Sie, ein gültiges DB Fernverkehrsticket. Die Mitnahme einer Begleitperson in den Premium Bereich der Lounge ist nicht möglich.
+Die DB Lounges können Sie und eine Begleitperson an dem Tag, an dem Sie den Tagespass einlösen, so oft nutzen, wie Sie möchten. So können sowohl am Abfahrts- als auch am Ankunftsort und potenziellen Zwischenhalten von diesem Vorteil profitieren. Voraussetzung ist, dass Sie und Ihre Begleitperson eine tagesaktuelle Fahrkarte für den Fernverkehr der DB besitzen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-lounge-begleitperson)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-tagespass)
 
  Wo finde ich Partnervorteile?
 ----------
@@ -804,12 +804,12 @@ Alle Partnervorteile, inkl. der Statusvorteile bei Partnern, finden Sie in der B
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-partnervorteile)
 
- Was bedeutet "Tagespass" in der DB Lounge?
+ Darf ich eine Begleitperson in die DB Lounge mitnehmen?
 ----------
 
-Die DB Lounges können Sie und eine Begleitperson an dem Tag, an dem Sie den Tagespass einlösen, so oft nutzen, wie Sie möchten. So können sowohl am Abfahrts- als auch am Ankunftsort und potenziellen Zwischenhalten von diesem Vorteil profitieren. Voraussetzung ist, dass Sie und Ihre Begleitperson eine tagesaktuelle Fahrkarte für den Fernverkehr der DB besitzen.
+Ja, die Mitnahme einer Begleitperson in den Comfort Bereich der Lounge ist möglich. Ihre Begleitperson benötigt, ebenso wie Sie, ein gültiges DB Fernverkehrsticket. Die Mitnahme einer Begleitperson in den Premium Bereich der Lounge ist nicht möglich.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-tagespass)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-lounge-begleitperson)
 
  Was ist der BahnBonus Statusservice?
 ----------
