@@ -67,6 +67,12 @@ Yes! The big change is an increase from 7 to 30 days of battery life. We also ad
 
 Yes! It features the exact same beautiful screen as Pebble Time 2. We've added a speaker and touch screen, and boosted battery life. The industrial design is also slightly different. It looks more like a Core 2 Duo because the top glass is flat rather than curved. Read the [announcement post](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches) for more info.
 
+### Can I choose the color of my Core Time 2? \* ###
+
+Yes! Before we ship your Core Time 2, you'll be able to select from available color options. We will definitely offer a black option and a stainless steel option. We may announce additional color options later as we get closer to shipping.
+
+You don't need to choose your color now - we'll contact you before shipping to confirm your color preference.
+
 ### Is there a warranty? ###
 
 Yes, we warrant against manufacturing defects for 30 days after you receive your order. Ship us the defective watch, and after we receive it back, we will ship (no charge) you a replacement. Full legalese warranty will be posted later.
