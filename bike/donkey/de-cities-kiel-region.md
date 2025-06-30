@@ -10,7 +10,7 @@ Die beste Art, sich in der Kiel Region fortzubewegen
 
 Donkey Republic macht es einfach, sich in der Stadt fortzubewegen, egal ob du zur Arbeit pendelst, Freunde triffst oder auf Entdeckungsreise gehst. Mit nur wenigen Klicks in der App kannst du ein fahrrad freischalten und dich nach deinen eigenen Bedingungen fortbewegen.
 
-Benötigen Sie ein Fahrrad für 15 Minuten, einen ganzen Tag, eine Woche oder sogar eine monatliche Mitgliedschaft? Wir bieten flexible Optionen, die Ihrem Zeitplan entsprechen. Donkey Republic ist Ihre All-in-One-Mobilitätslösung — einfach, erschwinglich und genau dann verfügbar, wenn und wo Sie sie benötigen.
+Benötigst du ein Fahrrad für 15 Minuten, einen ganzen Tag, eine Woche oder sogar eine monatliche Mitgliedschaft? Wir bieten flexible Optionen, die deinem Zeitplan entsprechen. Donkey Republic ist deine All-in-One-Mobilitätslösung — einfach, preiswert und genau dann verfügbar, wenn und wo du sie brauchst.
 
 Keine Verpflichtung
 
@@ -20,7 +20,7 @@ Keine Wartungskosten
 
 Flexible Preisgestaltung
 
-### Wie man ein Fahrrad ausleiht
+### **Wie man ein Fahrrad ausleiht**
  ###
 
 ### #1 - Finde ein Fahrrad in der App  ###
