@@ -6838,6 +6838,17 @@ Falls Sie eine aktive BahnCard oder BahnBonusCard besitzen, wenden Sie sich bitt
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-meine-persoenlichen-daten-anpassen)
 
+ Wie melde ich mich mit einem BahnID-Account an?
+----------
+
+Nutzen Sie Ihr bestehendes bahn.de-Login nach der Zusammenführung Ihres BahnID-Kontos mit dem Kundenkonto auf bahn.de zur Anmeldung.
+
+Überprüfen Sie, ob für Ihre E-Mail-Adresse bereits ein DB Kundenkonto existiert. Wenn nicht, legen Sie bitte ein neues DB Kundenkonto an.
+
+* [Weitere Informationen zu der Umstellung von BahnID-Accounts](https://id.bahn.de/content/faq)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnid-anmeldung)
+
  Wie aktiviere ich die 2-Faktor-Authentifizierung?
 ----------
 
@@ -7011,6 +7022,49 @@ Sofern Sie beim Kauf der Fahrkarte im DB Navigator oder auf bahn.de/int.bahn.de 
 Nein, Ihre Punkte verfallen nicht. Sie können Ihre Punkte allerdings nicht mehr Online einsehen oder einlösen. Sie haben natürlich weiterhin die Möglichkeit, die Services über das ServiceCenter zu nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfallen-bahnbonus-punkte-bei-inaktivitaet)
+
+ Was sind Apps und Dienste?
+----------
+
+Ihr DB Kundenkonto bietet Ihnen einen Zugang zu [bahn.de](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbahn.de%2F&data=05%7C02%7CAnja.Iwanowski%40deutschebahn.com%7Cb450f316fc8f4e74310a08ddb3ee9f6a%7Ca1a72d9c49e64f6d9af65aafa1183bfd%7C0%7C0%7C638864559657760615%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rxKDQ%2BwGkuCUh0kPUgGkuNmkuSuHckpn8vAb1%2Ba3tm4%3D&reserved=0) und DB Navigator, aber auch weiteren Apps und digitalen Diensten.
+
+Sie können Apps und digitale Dienste mit Ihrem Konto verbinden:
+
+1. Öffnen Sie die gewünschte App.
+2. Melden Sie sich mit Ihrem DB Kundenkonto an.
+
+So prüfen Sie, welche digitalen Dienste mit Ihrem DB Kundenkonto verbunden sind:
+
+1. Öffnen Sie den Bereich "Persönliche Daten" in Ihrem DB Kundenkonto.
+2. Wählen Sie "Apps und Dienste" oder "digitale Dienste", um die neue Anwendung in der Übersicht zu sehen.
+
+* [Weitere Informationen finden Sie in unseren Datenschutzhinweisen](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-apps-dienste)
+
+ Warum wird mir unter Apps und Dienste nichts angezeigt?
+----------
+
+Apps und Dienste werden nur dann angezeigt, wenn Sie Ihre Daten für einen genutzten Dienst freigegeben haben. In der Übersicht können Sie einsehen, welche Daten mit diesen Diensten geteilt werden. Wenn momentan keine Dienste angezeigt werden, dann haben Sie in Ihrem DB Kundenkonto noch keinen solchen Dienst eingerichtet.
+
+* [Weitere Informationen zur Nutzung von Apps und Diensten](https://www.bahn.de/faq/was-sind-apps-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/apps-dienste-nicht-angezeigt)
+
+ Wie beende ich das Teilen meiner persönlichen Daten mit Apps und Diensten im DB Kundenkonto?
+----------
+
+Melden Sie sich in Ihrem Kundenkonto an.
+
+1. Gehen Sie zu "Persönliche Daten".
+2. Wählen Sie "Apps und Dienste verwalten".
+3. Wählen Sie den betreffenden Dienst aus und folgen Sie den Schritten zur Beendigung der Datenfreigabe.
+
+Stellen Sie sicher, dass keine laufenden Verträge das Löschen verhindern.
+
+* [Weitere Informationen finden Sie in unseren Datenschutzhinweisen](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/apps-dienste-teilen-beenden)
 
  Was ist der Komfort Check-in?
 ----------

@@ -195,9 +195,6 @@ Produkte zum Gestalten
 
  Umhängetasche e.s.ambition Werkzeug-Set
 
- Sparen im Set
----
-
  To-Go-Set:
 
  Rucksack e.s.ambition
