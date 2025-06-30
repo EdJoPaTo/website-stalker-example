@@ -98,6 +98,7 @@ Menü [](https://www.wetell.de/)
 
 Ich möchte den WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
 
+* [Barrierefreiheit](https://www.wetell.de/sonstiges/barrierefreiheit/)
 * Privatsphären-Einstellungen
 
 [info@wetell.de](mailto:info@wetell.de)
@@ -410,6 +411,7 @@ Ich möchte den WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklä
 
 [info@wetell.de](mailto:info@wetell.de)
 
+* [Barrierefreiheit](https://www.wetell.de/sonstiges/barrierefreiheit/)
 * Privatsphären-Einstellungen
 
 © 2025 Copyright WEtell. All rights reserved.
