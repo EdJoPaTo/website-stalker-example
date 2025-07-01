@@ -134,9 +134,9 @@ die Pause  ###
 
  1 Farbe
 
- e.s. Sauna- und Strandhandtuch
+ Cap e.s.iconic works
 
- 1 Farbe
+ 6 Farben
 
  Badeshort e.s.trail
 

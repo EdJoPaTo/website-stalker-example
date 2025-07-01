@@ -154,8 +154,9 @@ TICKETPREIS
 
 [Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
-### Normales
-Ticket ###
+### REGULAR  ###
+
+### Ticket ###
 
 JULI - ENDE DEZEMBER
 
