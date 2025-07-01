@@ -473,13 +473,11 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
 
 **Ja.**
 
-**Bis 8 Tage vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
-
-**7 bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: 10 Euro pro Fahrkarte
+**Bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
 
 **Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
 
-Sie können eine Flexpreis Europa-Fahrkarte **bis 1 Monat nach Ablauf** der Geltungsdauer stornieren.
+Sie können eine Flexpreis Europa-Fahrkarte **bis 6 Monate nach Ablauf** der Geltungsdauer stornieren.
 
 Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales Ticket** innerhalb von **3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
