@@ -44,7 +44,7 @@ Schau dir die Karte auf der linken Seite an, um alle virtuellen Knotenpunkte in 
 
 Werde in wenigen Minuten zum Fahrradexperten
 
-Bike like a local in Kiel Region
+Fahre wie die Einheimischen in Rotterdam
 ----------
 
 Nutzung des Telefons
@@ -55,7 +55,7 @@ Helme
 
 Schnappen Sie sich ein Donkey an Hunderten von Orten, wann und wann immer Sie es brauchen.
 
-Fahren Sie unter Alkoholeinfluss
+Fahren Sie nicht unter Alkoholeinfluss
 
 Zahlen Sie pro Fahrt, Tag oder nutzen Sie das Abonnement unbegrenzt. Zahlen Sie nur für das, was Sie nutzen.
 
