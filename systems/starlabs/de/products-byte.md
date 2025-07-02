@@ -74,17 +74,8 @@ Includes:
 
 Ships
 
-14 - 15 business days
+7 - 8 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/byte) [Get Notified When Available](#)
-
- Byte Mk III
-
- Pre-orders are now open!
-
-Choose one of the following offers:
-
-\+ Free worldwide shipping with discount code BYTEBACK
-\+ Free [100% cotton t-shirt](https://starlabs.systems/products/star-labs-stretch-tshirt) with code BYTESTYLE

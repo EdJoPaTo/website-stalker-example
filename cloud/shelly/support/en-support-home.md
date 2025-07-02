@@ -13,12 +13,6 @@ We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to
 
 [Read more and start integrating](https://shelly-api-docs.shelly.cloud/cloud-control-api/communication-v2/#get-devices-state)
 
-**Shipping to Israel Temporarily Suspended**
-
-Due to the current geopolitical situation in Israel, we have temporarily suspended deliveries to the region.
-
-At this time, we do not have an estimated date for resuming shipments. All pending orders will be processed once our logistics partners confirm that delivery routes are available again.
-
 Knowledge base
 ----------
 
