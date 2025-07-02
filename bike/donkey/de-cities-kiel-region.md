@@ -47,19 +47,19 @@ Werde in wenigen Minuten zum Fahrradexperten
 Fahre wie die Einheimischen in Rotterdam
 ----------
 
-Nutzung des Telefons
+Einfacher App-Zugriff
 
 Vermeiden Sie es, Ihr Telefon beim Radfahren zu benutzen, um sich auf die Straße zu konzentrieren. Halten Sie an, wenn Sie den Weg überprüfen oder einen Anruf tätigen müssen.
 
-Helme
+Breite Verfügbarkeit
 
 Schnappen Sie sich ein Donkey an Hunderten von Orten, wann und wann immer Sie es brauchen.
 
-Fahren Sie nicht unter Alkoholeinfluss
+Flexible Preisgestaltung
 
 Zahlen Sie pro Fahrt, Tag oder nutzen Sie das Abonnement unbegrenzt. Zahlen Sie nur für das, was Sie nutzen.
 
-Parken wie ein Profi
+Umweltfreundliches Reisen
 
 Lassen Sie das Auto aus und fahren Sie sauber. Donkey-Fahrräder sind eine nachhaltige Art, sich fortzubewegen.
 
