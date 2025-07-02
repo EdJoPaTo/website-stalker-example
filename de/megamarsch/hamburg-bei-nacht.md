@@ -121,6 +121,8 @@ Für Millionen Menschen ist komoot der Schlüssel zu Erlebnissen in der Natur. F
 
 Die dodenhof SportWelt in Kaltenkirchen hat alles, was du brauchst, um deine sportlichen Ziele zu erreichen. Mach dich bereit, dein Bestes zu geben und starte jetzt durch!
 
+Farmer’s Snack produziert im Süden Hamburgs hochwertige Nüsse und Trockenfrüchte sowie leckere Nuss-Frucht-Mix. Für beste Qualität und einzigartigen Geschmack suchen wir weltweit nach besonderen Rohwaren.
+
 #### Highlights
 Hamburg bei Nacht 2024 ####
 
