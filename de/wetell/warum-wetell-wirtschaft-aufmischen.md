@@ -4,7 +4,7 @@ Wirtschaft aufmischen
 Selbstbestimmt
 ----------
 
-Bei uns steht Selbstbestimmtheit an erster Stelle. Als Unternehmen im Verantwortungseigentum sichern wir unsere Werte und Entscheidungen langfristig – ganz ohne äußeren Druck. Erfahre, wie wir eine zukunftsfähige, faire und nachhaltige Wirtschaft fördern und warum unser Modell der Schlüssel zu mehr Gerechtigkeit in der Wirtschaft ist.
+Bei uns steht Selbstbestimmtheit an erster Stelle. Als Unternehmen in Verantwortungseigentum sichern wir unsere Werte und Entscheidungen langfristig – ganz ohne äußeren Druck. Erfahre, wie wir eine zukunftsfähige, faire und nachhaltige Wirtschaft fördern und warum unser Modell der Schlüssel zu mehr Gerechtigkeit in der Wirtschaft ist.
 
 * #### Warum uns Unabhängigkeit wichtig ist ####
 
