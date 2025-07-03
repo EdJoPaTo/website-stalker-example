@@ -92,9 +92,9 @@ Egal ob bei Kund\*innen, Mitarbeitenden oder Kooperationspartner\*innen: Wir br
 
 * #### Deine Daten gehören dir ####
 
-  Beim mobilen Telefonieren und Surfen fallen so viele Daten an, dass sie ganze Romane über dich erzählen. So lässt sich nachvollziehen, wo du dich aufhältst, welche Internetseiten du besuchst oder mit wem du kommunizierst. Zusammen mit deinen persönlichen Daten ergeben sie einen wahren Datenschatz. Wir machen uns dafür stark, dass dieser Schatz nicht in die falschen Hände gerät, und nutzen deine Daten nur genau dafür, wofür du sie uns übergibst: für deinen Mobilfunk.
+  Beim mobilen Telefonieren und Surfen fallen so viele Daten an, dass sie ganze Romane über dich erzählen. So lässt sich nachvollziehen, wo du dich aufhältst, welche Internetseiten du besuchst oder mit wem du kommunizierst. Zusammen mit deinen persönlichen Daten ergeben sie einen sehr privaten Datenschatz.
 
-  Wir erheben nur so viele Daten wir nötig und löschen sie so früh wie möglich. Wir halten Personendaten und detaillierte Daten zum Mobilfunkverhalten getrennt: Der Mobilfunkbetreiber kennt deinen Namen nicht, wir kennen dein Surfverhalten nicht.
+  Wir machen uns dafür stark, dass dieser Schatz nicht in die falschen Hände gerät, und nutzen deine Daten nur genau dafür, wofür du sie uns übergibst: für deinen Mobilfunk. Wir erheben nur so viele Daten wie nötig, löschen sie so früh wie möglich. Wir halten Personendaten und detaillierte Daten zum Mobilfunkverhalten getrennt: Der Mobilfunkbetreiber kennt deinen Namen nicht, wir kennen dein Surfverhalten nicht.
 
   Konkret speichern wir deine Daten wie folgt:
 
