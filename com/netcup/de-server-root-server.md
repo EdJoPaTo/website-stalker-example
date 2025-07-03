@@ -8,7 +8,7 @@ Root Server auf KVM-Basis
 * 99,9% garantierte Mindestverfügbarkeit
 * Schnelles und sicheres Hardware-RAID
 * Enterprise Hardware von DELL und HPE
-* Netzwerkkarte mit 2,5 Gbit/s und vieles mehr …
+* Netzwerkkarte mit 2,5 Gbit/s und vieles mehr ...
 
 Root Server Angebote
 ----------
