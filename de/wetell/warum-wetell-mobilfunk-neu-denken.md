@@ -85,8 +85,8 @@ Egal ob bei Kund\*innen, Mitarbeitenden oder Kooperationspartner\*innen: Wir br
 
   Wir finden: Jede\*r soll sich Klimaschutz leisten können – auch im Mobilfunk.
 
-  Deswegen haben wir den [WEtell FAIRstärker](/mobilfunk/optionen/fairstaerker) ins Leben gerufen. Die Idee: Wer kann und möchte, zahlt freiwillig 1, 3 oder 5 € mehr im Monat. Dafür erhalten andere ihren WEtell Tarif 1, 3 oder 5 € günstiger.
-  Auf diese Weise ermöglicht unsere großartige Community momentan knapp 1.000 Menschen einen günstigeren Zugang zu nachhaltigem Mobilfunk.
+  Deswegen haben wir den [WEtell FAIRstärker](/mobilfunk/optionen/fairstaerker) ins Leben gerufen.
+  Die Idee: Wer kann und möchte, zahlt freiwillig 1, 3 oder 5 € mehr im Monat. Dafür erhalten andere ihren WEtell Tarif um 1, 3 oder 5 € günstiger.
 
   Dabei setzen wir auf Vertrauen – niemand soll sich dafür rechtfertigen müssen, den FAIRstärker in Anspruch zu nehmen.
 
@@ -127,12 +127,14 @@ Bei uns steht der Mensch im Mittelpunkt. Unser liebevoller Service ist persönli
 
 * #### Juhu, ein Mensch am Telefon! ####
 
-  Kurz durchgeklingelt, einmal persönlich mit Henrike oder Lucas gequatscht und – zack – Frage geklärt. Ja, so leicht geht das bei uns. Sogar so leicht, dass der eine oder die andere erschrickt, wenn nach dem zweiten Klingeln wirklich ein Mensch ans Telefon geht.
+  Kurz durchgeklingelt, einmal persönlich mit Henrike, Lucas oder einer anderen Person aus unserem Service gequatscht und – zack – Frage geklärt. Ja, so leicht geht das bei uns. Sogar so leicht, dass der eine oder die andere erschrickt, wenn nach dem zweiten Klingeln wirklich ein Mensch ans Telefon geht.
   Natürlich reagieren wir genauso gerne auf Mails oder Anfragen per Threema. Dass wir über unseren Service eine direkte Möglichkeit haben mit dir und unserer tollen Community auch live in Verbindung zu sein, ist für uns total wertvoll.
 
 * #### Gemeinsam Lösungen finden ####
 
-  Du kannst dich darauf verlassen, dass du bei uns auf ein offenes Ohr stößt. Wir hören zu, wir fühlen mit und wir tun alles dafür, um gemeinsam die beste Lösung für dich zu finden. Kein Abspeisen mit Standardphrasen, keine Endlosweiterleitung durch die Abteilungen und keine fadenscheinigen Ausreden. Wir gehen auf dich ein und finden auch für nicht ganz so alltäglichen Probleme Lösungen. Und klar, jede\*r macht Fehler. Wenn uns mal einer unterläuft, stehen wir offen und ehrlich dazu.
+  Du kannst dich darauf verlassen, dass du bei uns auf ein offenes Ohr stößt. Wir hören zu, wir fühlen mit und wir tun alles dafür, um gemeinsam die beste Lösung für dich zu finden. Kein Abspeisen mit Standardphrasen, keine Endlosweiterleitung durch die Abteilungen und keine fadenscheinigen Ausreden. Wir gehen auf dich ein und finden auch für nicht ganz so alltägliche Probleme Lösungen.
+
+  Und klar, jede\*r macht Fehler. Wenn uns mal einer unterläuft, stehen wir offen und ehrlich dazu.
   Egal, ob es um Fragen zur Rufnummernmitnahme geht, eine neue Tarifoption oder verlorengeglaubte SIM-Karten: Wir sind an deiner Seite und beraten dich offen und ehrlich.
 
 * #### Per Du ####
