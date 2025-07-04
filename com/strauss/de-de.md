@@ -150,6 +150,35 @@ die Pause  ###
 
 [für Kinder](https://www.strauss.com/de/de/kinder-shorts/badeshort-e-s-trail-kinder-3350740-87847-1623.html?itemorigin=startseite_fs25)
 
+**work&travel:** unterwegs mit Strauss
+
+----------
+
+---
+
+ NEU
+==========
+
+---
+
+ Rollkoffer
+
+ 65 L | perfekt für lange Reisen
+
+ Handgepäck-Rollkoffer
+
+ 35 L | perfekt fürs Handgepäck
+
+ Rollkoffer | 65 L
+
+ Handgepäck-Rollkoffer | 35 L
+
+ der ideale Reisebegleiter
+
+ Washbag e.s.work&travel
+
+ 2 Farben
+
 ###
 
 **Personalisierte Outfits** zum Berufsstart
