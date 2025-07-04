@@ -2319,7 +2319,7 @@ Bitte prüfen Sie Ihre E-Mails und Briefe, ob Sie in der Vergangenheit Informati
 Folgende Gründe können eine Zulassung zum Lastschriftverfahren verhindern:
 
 1. Sie haben offene Forderungen bei der DB, z.B. ausgefallene Zahlungen für Abonnements, BahnCard oder Einzelfahrkarten ([weitere Hilfe](https://www.bahn.de/faq/kundenkonto-ausgleich))
-2. Mit den Angaben der bestellenden Person konnte die erforderliche Bonitätsprüfung nicht oder nicht erfolgreich durchgeführt werden. In diesem Fall erhalten Sie auch einen Brief. ([weitere Hilfe](https://www.bahn.de/faq/positiv-bonitaet))
+2. Mit den Angaben der bestellenden Person konnte die erforderliche Bonitätsprüfung nicht oder nicht erfolgreich durchgeführt werden.
 3. Ihr Kundenkonto wurde in der Vergangenheit gesperrt, z.B. aufgrund einer falschen Bankverbindung, Inkassoübergaben oder verdächtiger Nutzung
 
 Falls Sie diese Gründe für Ihr Kundenkonto nicht erkennen, finden Sie hier [weitere Hilfe](https://www.bahn.de/faq/sperre-lastschrift).

@@ -10,6 +10,26 @@ Fahrgastrechte greifen auch dann, wenn ein zugesagter Service der DB nicht erbra
 Häufige Fragen
 ----------
 
+###  Sie haben bereits eine Fahrkarte mit oder ohne Reservierung gebucht, jedoch konnte eine Hilfeleistung durch den Service am Bahnhof für den Ein-, Um- bzw. Ausstieg aufgrund fehlender Kapazitäten nicht angeboten oder bestätigt werden? (hier klicken für Details)  ###
+
+#### Detaillierte Informationen ####
+
+Bei Fahrkarten mit Zugbindung ((Super) Sparpreis) heben wir in diesem Fall die Zugbindung auf. Das heißt:
+
+* Sie können mit Ihrem ursprünglichen Ticket am selben Reisetag
+  * eine frühere Verbindung oder
+  * eine spätere Verbindung nutzen.
+
+* Eine „spätere“ Verbindung kann sein
+  * später am selben Reisetag
+  * einen Tag später oder
+  * auch erst in drei Wochen oder
+  * auch bis zu einem Jahr nach dem ursprünglichen Reisedatum.
+
+Die Mobilitätsservice-Zentrale sucht gemeinsam mit Ihnen nach einer für Sie passenden neuen Reiseverbindung, zu der wir Ihnen eine Hilfeleistung bestätigen und Reservierungen anbieten können (falls gewünscht). Vorhandene Reservierungen buchen wir kostenfrei für Sie um.
+
+* [Allgemeine Informationen zur Aufhebung der Zugbindung finden Sie über diese Verlinkung. Hier erhalten Sie weitere Informationen zu Ihren Fahrgastrechten.](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+
 ###  So entschädigen wir Sie bei Zugverspätungen (hier klicken für Details)  ###
 
 Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
