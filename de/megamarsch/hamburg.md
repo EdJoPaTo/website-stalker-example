@@ -195,7 +195,7 @@ Ticket nicht mehr Verfügbar | Ticket noch Verfügbar
 
 12:00
 
-.
+AUSVERKAUFT
 
 12:15
 
@@ -206,7 +206,5 @@ Ticket nicht mehr Verfügbar | Ticket noch Verfügbar
 .
 
 [TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
-
-[TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 [TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
