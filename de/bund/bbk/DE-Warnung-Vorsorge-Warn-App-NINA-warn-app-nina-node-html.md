@@ -64,7 +64,7 @@ Funktionen und Inhalte der Warn-App
 
 [### Funktionen und Inhalte: Kartenansicht ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Kartenansicht/kartenansicht_node.html)
 
-[### Funktionen und Inhalte: Themen ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Infobereich/notfalltipps_node.html)
+[### Funktionen und Inhalte: Themen ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Infobereich/infobereich_node.html)
 
  Daten und Fakten zur Technik der Warn-App NINA
 ----------
