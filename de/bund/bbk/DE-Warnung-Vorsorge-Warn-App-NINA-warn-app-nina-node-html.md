@@ -9,13 +9,13 @@ Warn-App NINA
  Was ist die Warn-App NINA?
 ----------
 
-Mit der Notfall-Informations- und Nachrichten-App des Bundes, kurz Warn-App NINA, erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für unterschiedliche Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder einen Großbrand. Wetterwarnungen des Deutschen Wetterdienstes und Hochwasserinformationen der zuständigen Stellen der Bundesländer sind ebenfalls in die Warn-App integriert.
+Mit der Notfall-Informations- und Nachrichten-App des Bundes, kurz Warn-App NINA, erhalten Sie wichtige **Warnmeldungen des Bevölkerungsschutzes** für unterschiedliche Gefahrenlagen, wie zum Beispiel Gefahrstoffausbreitung oder einen Großbrand. Seit Juli 2025 erhalten Sie in einem neuen Warnbereich **Warnmeldungen der Polizei** für besondere polizeiliche Lagen, wie beispielsweise die Androhung von Gewalttaten, wie Bombendrohung oder die Warnung vor gefährlichen Straftätern, nach denen öffentlich gefahndet wird. **Wetterwarnungen** des Deutschen Wetterdienstes und **Hochwasserinformationen** der zuständigen Stellen der Bundesländer sind ebenfalls in die Warn-App integriert.
 
-**Abonnieren Sie Gebiete und Orte**, für die Sie gewarnt werden möchten: Landkreise, Gemeinden oder Umkreise von neun und einem Quadratkilometer um einen frei wählbaren Ort sind möglich.
+**Abonnieren Sie Gebiete und Orte**, für die Sie gewarnt werden möchten: Landkreise, Gemeinden oder Umkreise von einem oder neun Quadratkilometer um einen frei wählbaren Ort sind möglich.
 
 **Sonst erhalten Sie keine Warnung der Warn-App NINA auf Ihr Smartphone**. Am besten abonnieren Sie zum Beispiel den Wohnort und den Ort Ihres Arbeits- oder Ausbildungsplatzes.
 
-Auf Wunsch warnt Sie die Warn-App NINA auch für Ihren aktuellen Standort. Dabei erfassen wir keinerlei Standortdaten. Genauere Angaben zur Standort-Funktion finden Sie in unserer Funktionsbeschreibung zur Warn-App NINA.
+Auf Wunsch warnt Sie die Warn-App NINA auch für Ihren aktuellen Standort. Genauere Angaben zur Standort-Funktion finden Sie in unserer Funktionsbeschreibung zur Warn-App NINA.
 
 Warn-App NINA herunterladen
 ----------
@@ -58,13 +58,13 @@ Die Informationen und Anleitungen zu wichtigen Smartphone-Einstellungen von Betr
 Funktionen und Inhalte der Warn-App
 ----------
 
-[### Warnmeldungen ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Warnmeldungen/warnmeldungen_node.html)
+[### Funktionen und Inhalte: Warnmeldungen ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Warnmeldungen/warnmeldungen_node.html)
 
-[### Orte abonnieren ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Orte-abonnieren/orte-abonnieren_node.html)
+[### Funktionen und Inhalte: Orte abonnieren ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Orte-abonnieren/orte-abonnieren_node.html)
 
-[### Kartenansicht ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Kartenansicht/kartenansicht_node.html)
+[### Funktionen und Inhalte: Kartenansicht ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Kartenansicht/kartenansicht_node.html)
 
-[### Notfalltipps ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Notfalltipps/notfalltipps_node.html)
+[### Funktionen und Inhalte: Themen ### Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Infobereich/notfalltipps_node.html)
 
  Daten und Fakten zur Technik der Warn-App NINA
 ----------
