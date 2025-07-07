@@ -205,12 +205,12 @@ Close
 
 * German (2nd Gen)
 * US English (2nd Gen)
+* International English (2nd Gen)
 * Blank ANSI (2nd Gen) +€11
 * Blank ISO (2nd Gen) +€11
 * Clear ANSI (2nd Gen) +€11
 * Clear ISO (2nd Gen) +€11
 * British English (2nd Gen)
-* International English (2nd Gen)
 * Belgian (2nd Gen)
 * Czech/Slovak (2nd Gen)
 * Danish (2nd Gen)
