@@ -90,9 +90,11 @@ Für die **Inhalte** der einzelnen **Warnmeldungen** sind die **jeweiligen Herau
 
 ###  Woher stammen die amtlichen Warnungen? ###
 
-Die Bevölkerungsschutz-Warnungen werden von den **zuständigen** Stellen für den **Katastrophenschutz** in den **Ländern** und **Kommunen** oder vom Bundesamt für Bevölkerungsschutz und Katastrophenhilfe herausgeben.
+Die **Bevölkerungsschutz-Warnungen** werden von den **zuständigen** Stellen für den **Katastrophenschutz** in den **Ländern** und **Kommunen** oder vom Bundesamt für Bevölkerungsschutz und Katastrophenhilfe herausgeben.
 
-**Unter** jeder Warnmeldung ist ein Herausgeber aufgeführt.
+Die **Polizei-Warnungen** werden werden derzeit von den **Polizeien der Länder** herausgegeben.
+
+**Unter** jeder Warnmeldung sind ein Herausgeber und eine Kontaktmöglichkeit aufgeführt.
 
 ###  Woher stammen die Wetterwarnungen? ###
 
@@ -136,11 +138,11 @@ Sirenen sind nach wie vor ein **etabliertes** Warnmittel mit gutem Weckeffekt.
 
 Der Einsatz von Sirenen liegt in der **Verantwortung** der **Kommunen** und wird von dort gesteuert.
 
-Dies ist auch über das **Modulare Warnsystem** (kurz: MoWaS) möglich, das der App ebenfalls zugrunde liegt.
+Die Warn-App NINA wird mit jeder Warnmeldung durch Behörden im Bevölkerungsschutz über das **Modulare Warnsystem** (kurz: MoWaS) ausgelöst.
 
-So kann die Bevölkerung über MoWaS **parallel** durch Sirenen und die App gewarnt werden.
+Manchmal werden auch **nur die Sirenen** manuell ausgelöst. Oder die Sirenen und die Warn-App NINA werden **paralle**l ausgelöst.
 
-Während Sirenen den besseren Weckeffekt haben, kann die App hilfreiche Zusatzinformationen liefern.
+Während **Sirenen** den besseren **Weckeffekt** haben, kann die **App** hilfreiche **Zusatzinformationen** liefern.
 
 ###  Werden Daten von mir erhoben oder gespeichert? ###
 
