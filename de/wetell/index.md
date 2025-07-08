@@ -283,11 +283,11 @@ Dein Mobilfunk, mit dem du den Unterschied machst.
 
 Wir sind ein Unternehmen für positiven Wandel.
 
-[Selbstbestimmt](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#selbstbestimmt) [Lobby in gut](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#lobby-in-gut) [Sinn statt Profit](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#sinn-statt-profit)
+[Selbstbestimmt](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#selbstbestimmt) [Lobby in gut](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#lobby_in_gut) [Sinn statt Profit](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#sinn_statt_profit)
 
 Das sich fürs Gemeinwohl engagiert.
 
-[Aktiv fürs Klima](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv-fuers-klima) [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness-fuer-alle) [Liebevoller Service](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller-service)
+[Aktiv fürs Klima](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima) [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle) [Liebevoller Service](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
 
 Mit dir zünden wir den Funken.
 
