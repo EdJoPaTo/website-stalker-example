@@ -25,6 +25,8 @@ RS 1000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
+ Details \>
+
 bereits ab monatlich
 
 8,24 €
@@ -42,6 +44,8 @@ RS 2000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
+ Details \>
+
 bereits ab monatlich
 
 14,19 €
@@ -58,6 +62,8 @@ RS 4000 G11
 * 1 TB NVMe SSD
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
+
+ Details \>
 
 bereits ab monatlich
 
@@ -77,6 +83,8 @@ RS 8000 G11
 *
 * Remote-Konsole uvm...
 
+ Details \>
+
 bereits ab monatlich
 
 47,62 €
@@ -94,6 +102,8 @@ RS 12000 G11
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
+ Details \>
+
 bereits ab monatlich
 
 68,91 €
@@ -110,6 +120,8 @@ RS 16000 G11
 * 4 TB NVMe SSD
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
+
+ Details \>
 
 bereits ab monatlich
 

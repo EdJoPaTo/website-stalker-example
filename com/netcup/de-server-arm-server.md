@@ -23,6 +23,8 @@ VPS 1000 ARM G11
 * Konsole zur Fernwartung
 * Backupsystem uvm...
 
+ Details \>
+
 bereits ab monatlich
 
 5,26 €
@@ -39,6 +41,8 @@ VPS 2000 ARM G11
 * Traffic inklusive
 * Konsole zur Fernwartung
 * Backupsystem uvm...
+
+ Details \>
 
 bereits ab monatlich
 
@@ -57,6 +61,8 @@ VPS 3000 ARM G11
 * Konsole zur Fernwartung
 * Backupsystem uvm...
 
+ Details \>
+
 bereits ab monatlich
 
 12,82 €
@@ -73,6 +79,8 @@ VPS 4000 ARM G11
 * Traffic inklusive
 * Konsole zur Fernwartung
 * Backupsystem uvm...
+
+ Details \>
 
 bereits ab monatlich
 
@@ -92,6 +100,8 @@ VPS 6000 ARM G11
 *
 * Backupsystem uvm...
 
+ Details \>
+
 bereits ab monatlich
 
 21,78 €
@@ -108,6 +118,8 @@ VPS 8000 ARM G11
 * Traffic inklusive
 * Konsole zur Fernwartung
 * Backupsystem uvm...
+
+ Details \>
 
 bereits ab monatlich
 
