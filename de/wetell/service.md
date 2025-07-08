@@ -35,6 +35,22 @@ Noch Fragen?
  In unseren FAQ gibt's die Antworten!
 ----------
 
+in den FAQ
+
+SIM-Karte
+
+Ausland
+
+5G
+
+Handy
+
+Mailbox
+
+Abrechnung
+
+Rufnummernmitnahme
+
 Alles Wichtige für dich – einfach und transparent
 ----------
 
