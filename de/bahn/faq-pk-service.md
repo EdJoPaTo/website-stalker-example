@@ -884,11 +884,13 @@ So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal 
  Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
 ----------
 
-Ja, Sie können für den Kauf des Deutschland-Tickets monatlich BahnBonus Punkte sammeln, wenn Sie das Ticket auf bahn.de oder in der DB Navigator App kaufen.
+Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte, in Höhe des Ticketpreises, gutgeschrieben, wenn
 
-* Die Gutschrift erfolgt nur bei Buchung online oder über mobile Vertriebswege.
-* Sie können keine BahnBonus Punkte sammeln, wenn Sie das Ticket bei Verkehrsverbünden oder in DB Reisezentren kaufen.
-* Sie müssen bei BahnBonus angemeldet sein, um Punkte zu erhalten.
+* Sie zu BahnBonus angemeldet sind
+* die Buchung über bahn.de oder dem DB Navigator erfolgt
+* Ihre persönlichen Daten, beim Kauf des Deutschland-Tickets, identisch mit den Angaben in Ihrem BahnBonus Konto sind
+
+Für den Kauf von Deutschland-Tickets anderer Anbieter, z.B. von Verkehrsverbünden oder beim Kauf in DB Reisezentren, können keine BahnBonus Punkte gesammelt werden
 
 * [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
@@ -5379,7 +5381,13 @@ Level Platin - ab 6.000 Statuspunkten
  Welche Vorteile bringen mir die drei BahnBonus Statuslevel?
 ----------
 
-Je höher das Statuslevel, desto attraktiver werden die Leistungen. Das bedeutet, dass alle Statusvorteile des niedrigeren Levels entweder in gleicher oder erweiterter Form auch den jeweils höheren Leveln zur Verfügung stehen. Einzige Ausnahme ist der Fall, dass der Statusvorteil des höheren Levels den des niedrigeren Levels übertrifft und damit aufhebt.
+Jedes der drei Statuslevel Silber, Gold und Platin bietet Ihnen unterschiedliche, exklusive Vorteile.
+
+Mit dem Silberstatus genießen Sie 8 Freigetränke in der Bordgastronomie, 8 Tagespässe für die DB Lounges, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
+
+Der Goldstatus bietet Ihnen 12 Freigetränke in der Bordgastronomie, unbegrenzten Zugang für die DB Lounges, Zugang zum exklusiven Sitzplatzbereich in Fernverkehrszügen, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
+
+Mit dem Platinstatus profitieren Sie zusätzlich zu den Gold-Vorteilen noch von 30 % Rabatt in der Bordgastronomie, vom Zugang zum Premium-Bereich der DB Lounges sowie von der exklusiven Reservierungsmöglichkeit in bereits ausgebuchten Zügen. Einen Überblick der Vorteile je Statuslevel finden Sie hier.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vorteile-bringen-mir-die-drei-bahnbonus-statuslevel)
 
@@ -5481,14 +5489,14 @@ Für die Teilnahme ist die Anmeldung zu BahnBonus erforderlich. Zusätzlich ben�
  Wie nutze ich meine Statusvorteile?
 ----------
 
-Details zur Nutzung finden Sie in der BahnBonus App. Die Statusvorteile können z. B. in der DB Lounge durch einfaches Abscannen eines Codes eingelöst werden. Daneben gibt es auch Leistungen, die durch Zeigen der digitalen BahnBonus Karte oder durch Links eingelöst werden können.
+Alle Statusvorteile sind digital und einfach in der BahnBonus App einlösbar. Zum Beispiel in dem Sie Ihr Handy zum Abscannen des Codes vorzeigen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-meine-statusvorteile)
 
  Ich habe alle meine Statusvorteile aufgebraucht. Wann bekomme ich neue?
 ----------
 
-Die Statusvorteile sind immer für Ihre individuelle Statuslaufzeit gültig und verfallen am Ende der Laufzeit. Schaffen Sie es nach Ablauf dieser Zeit erneut, einen Status zu erreichen, oder erreichen Sie während Ihrer Statuslaufzeit ein höheres Level, erhalten Sie neue Codes.
+Die Statusvorteile sind immer für Ihre individuelle Statuslaufzeit gültig. Schaffen Sie es nach Ablauf dieser Zeit erneut Ihren Status zu erreichen, beginnt Ihre Laufzeit erneut und Sie erhalten neue Codes. Erreichen Sie aber während Ihrer Statuslaufzeit die Punkteschwelle eines höheren Levels, erhalten Sie direkt dessen Vorteile.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-alle-meine-statusvorteile-aufgebraucht-wann-bekomme-ich-neue)
 
@@ -5539,7 +5547,7 @@ Der BahnBonus Statusservice ist die exklusive Hotline für Statuskund:innen. Den
  Ich benötige einzelne Statusvorteile nicht. Kann ich Sie anderen Personen übertragen?
 ----------
 
-Nein, die Statusvorteile sind exklusiv für Sie als Statuskund:in. Eine Übertragung der Vorteile auf andere Personen ist nicht möglich.
+Nein, die Statusvorteile sind exklusiv für Sie als Statuskund:in. Der Umtausch in andere Statusvorteile oder die Übertragung auf andere Personen, ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-benoetige-einzelne-statusvorteile-nicht-kann-ich-sie-anderen-personen-uebertragen)
 
@@ -5574,7 +5582,7 @@ Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie für alle im Statu
  Was genau ist die Statusgarantie?
 ----------
 
-Sollte Kund:innen im Statuslevel Platin ein Statusverlust drohen, erhalten Sie zum Ende der Statuslaufzeit ganz automatisch ein Jahr im Status Silber geschenkt. Ganz unabhängig von ihren Statuspunkten.
+Kund:innen im Statuslevel Platin, welche nach Ende ihrer Statuslaufzeit, nicht genug Punkte für eines der Statuslevel haben, erhalten dennoch automatisch ein Jahr im Statuslevel Silber geschenkt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-ist-die-statusgarantie)
 
@@ -5733,10 +5741,12 @@ Ihrem Konto können mehrere BahnCard- und BahnBonus Nummern zugeordnet sein. Das
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bahnbonusapp-herunterladen)
 
- Kann ich auch ohne die BahnBonus App Statuspunkte und Prämienpunkte sammeln und einlösen?
+ Kann ich auch ohne die BahnBonus App BahnBonus Punkte sammeln?
 ----------
 
-Ja, dies ist auch ohne die BahnBonus App möglich. Punkte sammeln Sie z. B. beim Fahrkartenkauf über die Website und können dort auch Ihre Prämien einlösen. Wenn Sie das entsprechende Häkchen setzen, werden die Punkte automatisch bei jeder relevanten Transaktion gesammelt.
+Ja, das Sammeln ist auch ohne die BahnBonus App möglich. Wenn Sie über bahn.de, der DB Navigator App oder Sammelpartner, Umsätze tätigen, benötigen Sie die BahnBonus App nicht.
+
+Beachten Sie bitte, dass für Statuskunden die BahnBonus App erforderlich ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-ohne-die-bahnbonus-app-statuspunkte-und-praemienpunkte-sammeln-und-einloesen)
 
@@ -5748,66 +5758,90 @@ Werden im Rahmen von BahnBonus auf geschäftlichen Reisen BahnBonus Punkte gesam
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-mich-als-geschaeftsreisende-privat-genutzte-praemien-in-meiner-lohnsteuerbescheinigung-angeben)
 
- Kann ich meine Statuspunkte auf eine neue BahnCard übertragen?
-----------
-
-Wenn Sie eine neue BahnCard bekommen, bleibt Ihr Punktekonto erhalten. Sie müssen Ihre Punkte nicht übertragen.
-
-Wenn Sie mehrere BahnCards haben, werden diese in einem Punktekonto zusammengefasst.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-statuspunkte-auf-eine-neue-bahncard-uebertragen)
-
  Kann ich mir nachträglich BahnBonus Punkte gutschreiben lassen?
 ----------
 
-Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhinein gutschreiben zu lassen.
+Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhinein gutschreiben zu lassen. Achten Sie daher bitte darauf, dass bei jedem Kauf der Sammelwunsch angegeben wird oder automatisches Sammeln aktiviert ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-nachtraeglich-bahnbonus-punkte-gutschreiben-lassen)
+
+ Warum werden meine BahnBonus Punkte nicht gutschrieben?
+----------
+
+Um BahnBonus Prämien- und Statuspunkte zu sammeln, müssen Sie sich vorab kostenfrei anmelden. Ihre BahnBonus Prämien- und Statuspunkte werden in der Regel zum ersten Geltungstag der Fahrkarte gutgeschrieben. Eine nachträgliche Gutschrift Ihrer BahnBonus Prämien- und Statuspunkte ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-werde-nicht-gutgeschrieben)
+
+ Bekomme ich BahnBonus Punkte, wenn ich mit einem Gutschein bezahle?
+----------
+
+Ja, beim Einlösen eines Wertgutscheins, wird für die Punktegutschrift der volle Kaufpreis berücksichtigt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-gutschein)
+
+ Wenn ich auf ein Ticket Rabatt bekomme, bekomme ich dann nur Punkte für den reduzierten Preis?
+----------
+
+Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-auf-reduzierter-preis)
+
+ Wie viele BahnBonus Punkte erhalte ich bei jedem Kauf?
+----------
+
+Bei sammelfähigen Angeboten der DB, bekommen Sie für jeden Euro Umsatz, den Sie tätigen, je einen Prämien- und je einen Statuspunkt gutgeschrieben, dabei wird aufgerundet.
+
+Bei Sammelpartnern ist die Punktegutschrift abhängig vom jeweiligen Partner.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieviele-punkte-bei-kauf)
+
+ Wie lange sind meine BahnBonus Punkte gültig?
+----------
+
+Prämienpunkte sind drei Jahre gültig und Statuspunkte sind ein Jahr gültig.
+
+Die Gültigkeitsdauer beginnt ab dem 1.Geltungstag. Die Punkte verfallen zum Quartalsende. Punkte, die ihre Frist noch nicht erreicht haben, bleiben auf Ihrem Punktekonto erhalten. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie die Gültigkeit jederzeit einsehen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-gueltigkeit)
 
  Wann erfolgt die Gutschrift der Prämien- und Statuspunkte?
 ----------
 
-Die Gutschrift der Prämien- und Statuspunkte erfolgt in der Regel zum ersten Geltungstag der Fahrkarte. Im Einzelfall kann es vorkommen, dass Ihre Punkte erst mit einer zeitlichen Verzögerung gutgeschrieben werden.
+Die Gutschrift der Prämien- und Statuspunkte der DB erfolgt in der Regel zum ersten Geltungstag der Fahrkarte. (Im Einzelfall kann es zu zeitlichen Verzögerungen kommen - beispielsweise dann, wenn Sie Ihre Fahrkarte am Automaten gekauft haben.)
 
-Punkte, die Sie bei BahnBonus Sammelpartnern sammeln, werden Ihnen innerhalb von 10 Wochen auf Ihr Punktekonto gutgeschrieben. Bei Rückfragen wenden Sie sich gerne an [bahnbonus-service@bahn.de](mailto:bahnbonus-service@bahn.de).
+Prämienpunkte, die Sie bei BahnBonus Sammelpartnern sammeln, werden Ihnen innerhalb von 10 Wochen auf Ihr Punktekonto gutgeschrieben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-erfolgt-die-gutschrift-der-praemien-und-statuspunkte)
 
- Für welche Angebote kann ich Prämien- und Statuspunkte sammeln?
+ Wie sammle ich BahnBonus Punkte?
 ----------
 
-Prämienpunkte erhalten Sie für Ihre Umsätze bei der DB und bei zahlreichen Sammelpartnern.
+Sofern Sie zu BahnBonus angemeldet sind, können Sie bei Transaktionen bei der DB und bei Sammelpartnern, den Sammelwunsch angeben oder das automatische Sammeln aktivieren und erhalten je nach Angebot Prämien- und/oder Statuspunkte für Ihren Umsatz.
 
-Statuspunkte sammeln Sie für Ihre Umsätze bei der DB.
+Für Buchungen, die Sie vor der Registrierung getätigt haben, können wir im Nachhinein leider keine BahnBonus Punkte zuschreiben.
 
-Nicht sammelfähig sind beispielsweise Fahrkarten, die den Mindestumsatz von 5 Euro unterschreiten, Zuschläge, Reservierungen, Verbund-Fahrscheine sowie Monats- oder Wochenzeitkarten.
+Weitere Informationen finden Sie [hier](https://www.bahn.de/service/bahnbonus/punkte-sammeln).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-angebote-kann-ich-praemien-und-statuspunkte-sammeln)
 
- Was sind Prämien- und Statuspunkte?
+ Was ist der Unterschied zwischen Prämien- und Statuspunkten?
 ----------
 
-**Prämienpunkte s**ind Punkte, die Sie in eine BahnBonus Prämie eintauschen können. Diese schreiben wir Ihrem Punktekonto gut für Ihre Umsätze bei der DB sowie bei zahlreichen Sammelpartnern. Sie verfallen nach drei Jahren zum Quartalsende.
+Prämienpunkte...
 
-Zusätzlich sammeln Sie bei jedem Fahrkartenkauf automatisch **Statuspunkte**. Ab 1.500 gesammelten Statuspunkten innerhalb eines Jahres erhalten Sie ein BahnBonus Statuslevel. Je nach Level genießen Sie verschiedene Statusvorteile, wie beispielsweise Zugang zu den DB Lounges sowie die Möglichkeit in einem exklusiven Sitzplatzbereich zu sitzen. Statuspunkte verfallen nach 365 Tagen.
+* können Sie gegen BahnBonus Prämien eintauschen
+* erhalten Sie für Umsätze bei sammelfähigen Angeboten der DB und Sammelpartnern
+* sind drei Jahre gültig
+
+Statuspunkte...
+
+* dienen zum Erreichen eines Statuslevels
+* erhalten Sie nur für Umsätze bei sammelfähigen Angeboten der DB
+* sind ein Jahr gültig.
+
+Eine Übersicht der sammelfähigen Angebote der DB finden Sie [hier](https://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife). Eine Übersicht der BahnBonus Sammelpartner finden Sie [hier](https://www.bahn.de/service/bahnbonus/vorteile).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-praemien-und-statuspunkte)
-
- Ab wann kann ich Punkte sammeln?
-----------
-
-Mit dem Sammeln von Prämien- und Statuspunkten kann begonnen werden, sobald Sie Ihre BahnBonus Sammelnummer zugesendet bekommen haben. Ab diesem Zeitpunkt können Sie bei jeder Buchung anklicken, dass Sie Punkte sammeln.
-
-Für Buchungen, die Sie vor der Registrierung getätigt haben, können wir im Nachhinein leider keine Punkte zuschreiben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-kann-ich-punkte-sammeln)
-
- Wie viele Punkte erhalte ich für einen Euro bei BahnBonus?
-----------
-
-Sie erhalten pro Euro Umsatz bei der Deutschen Bahn einen Prämien- und Statuspunkt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viele-punkte-erhalte-ich-fuer-einen-euro-bei-bahn-bonus)
 
  Kann ich als BahnCard 100 Inhaber:in auch BahnBonus Punkte sammeln?
 ----------
@@ -5826,7 +5860,7 @@ Ja, auch ohne BahnCard können Sie BahnBonus Prämien- und Statuspunkte sammeln.
  Wie kann ich automatisch BahnBonus Punkte sammeln?
 ----------
 
-Sobald Sie sich zu BahnBonus angemeldet und für die BahnCard Services registriert haben, können Sie das automatische Punktesammeln in den BahnCard Services aktivieren.
+In Ihrem DB Kundenkonto können Sie im Bereich „BahnBonus“ das automatische Sammeln aktivieren. Bei Neuanmeldungen ist dies bereits voreingestellt. Beachten Sie bitte: Automatisches Sammeln gilt nur für Fahrkartenbuchungen auf bahn.de und im DB Navigator.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-automatisch-bahnbonus-punkte-sammeln)
 
@@ -5839,14 +5873,10 @@ Davon unabhängig können Sie sich jedoch separat zu BahnBonus anmelden und Punk
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-einer-vorlaeufigen-bahncard-bahnbonus-punkte-sammeln)
 
- Werde ich informiert, wenn meine Punkte bald verfallen?
+ Wo kann ich den Punkteverfall einsehen und werde ich informiert, wenn meine Punkte bald verfallen?
 ----------
 
-Sollten Sie sich zur E-Mail-Kommunikation angemeldet haben und eine aktive BahnCard oder BahnBonus Card besitzen, werden Sie quartalsweise per E-Mail über Ihren aktuellen Prämien- und Statuspunktestand informiert, sobald Punkte auf Ihrem Punktekonto gutgeschrieben sind. In der Übersicht sehen Sie auch, ob und welche Prämienpunkte zum Quartalsende verfallen.
-
-Außerdem können Sie Ihren aktuellen Punktestand jederzeit in der BahnBonus App aufrufen. Dort wird Ihnen auch angezeigt, ob und welche Punkte demnächst verfallen und welche Statuspunkte demnächst gutgeschrieben werden.
-
-Die BahnBonus App steht zum Download in den App-Stores von Apple und Google zur Verfügung.
+Sofern eine Anmeldung zum Newsletter vorliegt, werden Sie quartalsweise per E-Mail über Ihren Punktestand – und Verfall informiert. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie dies jederzeit einsehen.
 
 * [Zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
 
@@ -5855,7 +5885,7 @@ Die BahnBonus App steht zum Download in den App-Stores von Apple und Google zur 
  Kann ich meine BahnBonus Punkte auf Punktekonten anderer Teilnehmender übertragen?
 ----------
 
-BahnBonus Punkte können nur für persönliche Fahrkartenkäufe gesammelt und nicht auf Punktekonten anderer Teilnehmender übertragen werden.
+Nein, eine Übertragung der Punkte auf ein BahnBonus Konto anderer Teilnehmer:innen ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahnbonus-punkte-auf-punktekonten-anderer-teilnehmender-uebertragen)
 
@@ -5867,41 +5897,6 @@ Gesammelte Punkte bleiben bei einem BahnCard Upgrade erhalten.
 Tragen Sie hierfür auf dem BahnCard Bestellschein im DB Reisezentrum die Nummer Ihrer bisherigen Karte ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfallen-bahnbonus-praemien-und-statuspunkte-die-ich-schon-erworben-habe-bei-einem-bahncard-upgrade)
-
- Was ist mit Punktesammeln in der Bordgastronomie gemeint?
-----------
-
-Seit September 2024 können Sie beim Kauf von Speisen und Getränken in unseren Zügen mit Bordgastronomie BahnBonus Prämienpunkte sammeln. Statuspunkte können in der Bordgastronomie nicht gesammelt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punktesammeln-in-bordgastronomie)
-
- Wie funktioniert der Sammelprozess bei BahnBonus in der Bordgastronomie?
-----------
-
-Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung) sind sind und [BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app) die heruntergeladen haben. Navigieren Sie in der App zu Ihrer digitalen BahnBonus Karte. Tippen Sie auf den darunter liegenden Button „Scannen & Punkte sammeln“ und lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sammelprozess-bb-bordgastronomie)
-
- Wie viele Prämienpunkte bekomme ich in der Bordgastronomie?
-----------
-
-Sie sammeln BahnBonus Prämienpunkte auf den Kauf von allen Speisen und Getränken. Es gibt keinen Mindestwert. 1 Euro entspricht einem BahnBonus Prämienpunkt. Nachkommastellen werden auf den nächsten vollen Euro aufgerundet. Etwaige Gutscheine werden vor dem Sammeln abgezogen; Sie sammeln nur auf den tatsächlichen Zahlbetrag.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkteanzahl-bb-bordgastronomie)
-
- Kann ich mir die Punkte bei der Bordgastronomie auch nachträglich gutschreiben lassen?
-----------
-
-Eine nachträgliche Punktegutschrift ist leider nicht möglich. Lassen Sie den Code bitte direkt beim Einkauf abscannen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punktegutschrift-bb-bordgastronomie)
-
- Wo kann ich sehen, wie viele Punkte ich gesammelt habe?
-----------
-
-Sie finden eine Übersicht Ihrer gesammelten Punkte in der [BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app) oder in Ihrem [DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus). Bitte bedenken Sie, dass die Verbuchung einige Minuten in Anspruch nehmen kann.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkteuebersicht-bb)
 
  Wie kann ich die Sprache im DB Navigator ändern?
 ----------
