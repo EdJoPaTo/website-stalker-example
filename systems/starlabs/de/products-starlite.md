@@ -81,15 +81,15 @@ Includes:
 65W USB-C Charger
 2m Braided USB-C Cable
 
- VAT
+ duties and taxes
 
- Excludes duties and taxes.
+ All import duties and taxes are covered in the price you see; there won’t be any additional fees when your package arrives.
 
 Ships
 
 28 - 29 business days
 
-[Excludes duties and taxes.](#tax)
+[Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/starlite) [Get Notified When Available](#)
 

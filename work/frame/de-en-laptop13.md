@@ -364,7 +364,7 @@ Available with the latest AMD Ryzen™ AI 300 Series processors.
 
 Specs
 
-Framework Laptop 13 DIY Edition (AMD Ryzen™ AI 300 Series)Framework Laptop 13 (AMD Ryzen™ AI 300 Series)Framework Laptop 13 DIY Edition (Intel® Core™ Ultra Series 1)Framework Laptop 13 (Intel® Core™ Ultra Series 1)Framework Laptop 13 (AMD Ryzen™ 7040 Series)
+Framework Laptop 13 DIY Edition (AMD Ryzen™ AI 300 Series)Framework Laptop 13 (AMD Ryzen™ AI 300 Series)Framework Laptop 13 DIY Edition (Intel® Core™ Ultra Series 1)Framework Laptop 13 (Intel® Core™ Ultra Series 1)Framework Laptop 13 DIY Edition (AMD Ryzen™ 7040 Series)Framework Laptop 13 (AMD Ryzen™ 7040 Series)
 
 Release Year
 
@@ -1226,6 +1226,156 @@ Warranty
 1 Year Framework Limited Warranty
 
 3-year extended limited warranty available for select products and regions
+
+Release Year
+
+2023
+
+Price
+
+Starting at €879
+
+Assembly
+
+* Build it yourself
+* Setup Time: 10 - 20 minutes
+* Difficulty: Moderate
+
+[View Guide](https://guides.frame.work/Guide/Framework+Laptop+13+(11th+Gen+and+12th+Gen+Intel+Core)+DIY+Edition+Quick+Start+Guide/57)
+
+Processor Options
+
+AMD Ryzen™ 5 7640U (up to 4.9GHz, 6-core/12-thread)
+
+AMD Ryzen™ 7 7840U (up to 5.1GHz, 8-core/16-thread)
+
+Integrated Graphics
+
+Radeon™ 700M Graphics
+
+Operating system
+
+None (bring your own)
+
+[**Check out our recommended Linux Distros**](/linux)
+
+Storage Options
+
+Choose up to 4TB WD\_BLACK™ NVMe™ SSDs or bring your own
+
+Memory Options
+
+Choose up to 96GB DDR5-5600 or bring your own
+
+Connectivity
+
+AMD RZ616 Wi-Fi 6E
+
+Weight
+
+1.3 kg
+
+Dimensions
+
+15.85mm x 296.63mm x 228.98mm
+
+Display Type
+
+**Matte Display**
+13.5", 3:2 aspect ratio
+2256x1504 resolution
+\>400nit brightness
+60Hz refresh rate
+100% sRGB color gamut
+Matte anti-glare surface
+
+**2.8K Display**
+13.5", 3:2 aspect ratio
+2880x1920 resolution
+\>500nit brightness
+120Hz refresh rate
+100% sRGB color gamut
+Matte anti-glare surface
+
+Ports
+
+4x user-selectable Expansion Cards
+
+Interfaces
+
+Supporting USB4/DP for upper left and right slots, USB 3.2/DP for lower right slot and USB 3.2 only for lower left slot, along with USB-C power input on all four slots
+
+Audio
+
+Stereo 2W speakers, dual MEMS microphones with hardware privacy switch, 3.5mm combo headphone jack
+
+Battery
+
+* **Ryzen™ 5 7640U**
+* 55Wh
+
+* **Ryzen™ 5 7640U - 2.8K Display**
+* 61Wh
+
+* **Ryzen™ 7 7840U**
+* 61Wh
+
+* **Ryzen™ 7 7840U - 2.8K Display**
+* 61Wh
+
+Camera
+
+1080p 60fps
+
+Biometrics
+
+Fingerprint Reader
+
+Power Adapter
+
+None (bring your own)
+
+60W GaN USB-C
+
+Keyboard
+
+Backlit
+
+Mechanical
+
+Aluminum CNC Top Cover
+
+Aluminum formed Input Cover and Bottom Cover
+
+3.5kg Hinges
+
+Sustainability
+
+75% pre-consumer recycled aluminum top cover
+
+50% post-consumer recycled aluminum housing
+
+30% post-consumer recycled plastic content
+
+Fully carbon-offset shipping
+
+100% recyclable packaging
+
+Carbon capture available in the Framework Marketplace
+
+Regulatory
+
+⚠️ WARNING: This product can expose you to chemicals including Nickel (Metallic), which is known to the State of California to cause cancer, and Bisphenol A (BPA), which is known to the State of California to cause birth defects or other reproductive harm. For more information go to <www.P65Warnings.ca.gov>
+
+Repairability
+
+Easy to repair with replacement parts available in the Framework Marketplace.
+
+[Explore our marketplace](/marketplace)
+
+Warranty
+
+1 Year Framework Limited Warranty
 
 Release Year
 
