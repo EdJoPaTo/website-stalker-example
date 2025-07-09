@@ -5209,12 +5209,10 @@ Die digitale BahnBonus Karte dient als Nachweis Ihrer BahnBonus Teilnahme, Ihres
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-die-digitale-bahnbonus-karte)
 
- Wie kann ich mich für die E-Mail-Kommunikation der DB Fernverkehr AG registrieren?
+ Wie kann ich mich für die E-Mail-Kommunikation der DB Fernverkehr AG anmelden?
 ----------
 
-Wenn Sie für die BahnCard Services registriert sind, können Sie sich zur E-Mail-Kommunikation der DB Fernverkehr AG anmelden.
-
-Alternativ können Sie sich auch über die BahnBonus App zur E-Mail-Kommunikation anmelden. Dazu wählen Sie in der BahnBonus App den Reiter "Infos" und aktivieren die "E-Mail-Kommunikation". Die BahnBonus App steht zum Download in den App Stores von Apple und Google zur Verfügung.
+In Ihrem DB Kundenkonto auf bahn.de und in Ihrem Profilbereich im DB Navigator können Sie sich im Bereich „Newsletter & Services“ für die E-Mail-Kommunikation anmelden. Dazu aktivieren Sie den Reiter „Persönliche Informationen und Gutscheine". Alternativ können Sie sich auch über die BahnBonus App zur E-Mail-Kommunikation anmelden. Dazu wählen Sie in Ihrem Profilbereich den Reiter „Benachrichtigungen" und aktivieren die „E-Mail-Kommunikation".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mich-fuer-die-e-mail-kommunikation-der-db-fernverkehr-ag-registrieren)
 
@@ -5255,10 +5253,10 @@ Ihren Status können Sie nur mit der digitalen BahnBonus Karte in der BahnBonus 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mich-als-bahnbonus-teilnehmer-in-ausweisen)
 
- Wie kann ich meine E-Mail Adresse ändern, die ich bei den BahnCard-Services hinterlegt habe?
+ Wie kann ich meine E-Mail-Adresse ändern, die ich bei meiner BahnBonus Anmeldung hinterlegt habe?
 ----------
 
-Um Ihre E-Mail Adresse zu ändern, loggen Sie sich in Ihrem Kundenkonto ein.
+Um Ihre E-Mail-Adresse zu ändern, loggen Sie sich in Ihrem DB Kundenkonto auf bahn.de ein. Im Bereich „Persönliche Daten“ können Sie Ihre E-Mail-Adresse zentral ändern.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-e-mail-adresse-aendern-die-ich-bei-den-bahncard-services-hinterlegt-habe)
 
@@ -5329,19 +5327,28 @@ Je nach bestellter Prämie erfolgt die Zustellung als Brief oder Paket per Post 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-meine-praemie)
 
- Was bekomme ich für meine Prämienpunkte?
+ Wie kann ich meine gesammelten BahnBonus Punkte einlösen?
 ----------
 
-Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https://www.bahnbonus-praemienwelt.de/).
+Ihre Prämienpunkte können Sie in der [PrämienWelt](https://bahnbonus-praemienwelt.de/)gegen Prämien eintauschen.
+
+Ihre Statuspunkte sind nicht einlösbar, da diese nur zum Erreichen des [BahnBonus Statuslevels](http://www.bahn.de/service/bahnbonus/status-level) dienen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bekomme-ich-fuer-meine-praemienpunkte)
 
  Kann ich Statuspunkte auch gegen Prämien einlösen?
 ----------
 
-Nein, Statuspunkte dienen zur Erreichung eines BahnBonus Statuslevels.
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur sammelt, um eines der drei Statuslevel zu erreichen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
+
+ Kann ich auch ohne die BahnBonus App Prämienpunkte einlösen?
+----------
+
+Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
 
  Kann ich Prämientickets auch verschenken?
 ----------
@@ -5389,9 +5396,7 @@ Zukünftig werden Sie eine Buchung direkt über die App und ohne erneutes Einlog
  Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
 ----------
 
-Bei einigen Prämien ist es möglich, dass Sie mit Hilfe einer Zuzahlung eine Prämie bestellen können, wenn Ihre Punkte allein für die Bestellung nicht ausreichen. Dies ist bei den entsprechenden Prämien im Prämienkatalog angegeben.
-
-In der BahnBonus App ist dies momentan noch nicht möglich.
+Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in der PrämienWelt angegeben. In der BahnBonus App ist dies momentan nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
 
@@ -5711,28 +5716,17 @@ Details zur Nutzung finden Sie in der BahnBonus App. Die Statusvorteile können 
  Wofür brauche ich die BahnBonus App?
 ----------
 
-Die BahnBonus App zeigt Ihnen Ihren aktuellen Prämien- und Statuspunktestand. Zudem beinhaltet die BahnBonus App Ihre digitale BahnBonus Karte, mit der Sie sich z.B. für Prämienfreifahrten im Zug legitimieren können.
-Wenn Sie ein BahnBonus Statuslevel haben, benötigen Sie die digitale Karte in der App als Statusnachweis und können über die App all Ihre Statusvorteile einlösen. Ein Ausdrucken von Codes oder der digitalen BahnBonus Karte ist nicht möglich.
+Mit der BahnBonus App können Sie ganz bequem am Vorteilsprogramm teilnehmen:
+
+* Ihre Digitale BahnBonus Karte und Sammelnummer haben Sie immer griffbereit
+* Den aktuellen Prämien- und Statuspunktestand, inklusive aller Transaktionen und Hinweise zum Punkteverfall, immer im Blick
+* Als Statuskunde nutzen Sie all Ihre Statusvorteile, die nur über die App einlösbar sind
+* Sie haben Zugang zu tollen Angeboten und Aktionen bei der DB und Partnerunternehmen
+* Die Möglichkeit in der PrämienWelt Ihre Prämienpunkte direkt gegen Prämien einzutauschen
+* Den Bordgastro Gutschein als Barcode direkt zum Einlösen bereit
+* Informationen zu Ihrer persönlichen Co2-Einsparung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-brauche-ich-die-bahnbonus-app)
-
- Was genau ist mit CO₂ gemeint und worin besteht der Unterschied zu CO₂e?
-----------
-
-Der von Menschen verursachte Treibhauseffekt wird überwiegend durch die Emission von Kohlendioxid (CO₂) verursacht, das bei der Verbrennung fossiler Energieträger freigesetzt wird. Daneben tragen auch andere Komponenten, z.B. Methan zum Treibhauseffekt bei. Diese werden CO₂e (CO₂-Äquivalente) zusammengefasst. Der CO₂-Kompass zeigt CO₂-Äquivalente (CO₂e) an, wobei zur Vereinfachung von CO₂ gesprochen wird.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/co2-was-unterschied-co2-und-co2e)
-
- Warum werden meine Fahrten in der BahnBonus App nicht angezeigt?
-----------
-
-Das eingesparte CO₂ bezieht sich auf folgende Strecken:
-
-* Über das Kundenkonto gekaufte Einzeltickets oder Hin-/Rücktickets (nur innerdeutsch), für die Sie BahnBonus Punkte gesammelt haben
-* Fahrten, für die Sie nachträglich Punkte gutgeschrieben bekommen haben, werden nicht berücksichtigt
-* Monatliche Durchschnittswerte für Monate, in denen Sie eine mit ihrem Kundenkonto verknüpfte BahnCard 100 hatten
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/co2-warum-werden-fahrten-nicht-angezeigt)
 
  Wie wird der CO₂-Verbrauch der Bahnfahrten berechnet?
 ----------
@@ -5741,52 +5735,47 @@ Die zurückgelegte Strecke ergibt sich aus einem Schienenrouting. Energieverbrau
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/co2-wie-berechnung-verbrauch-bahnfahrten)
 
- Wie wird der monatliche Durchschnittswert für die BahnCard 100 berechnet?
-----------
-
-Mit einer BahnCard 100 werden durchschnittlich 200 Fahrten pro Jahr mit einer Strecke von 254 km pro Fahrt unternommen. Zu Grunde gelegter Ausstoß sind 48 g pro Personenkilometer (PKM) im Regionalverkehr der DB und unter 1 g im Fernverkehr der DB (Quelle jeweils DB AG) im Vergleich zu 164 g pro PKM mit dem PKW (Quelle Umweltbundesamt 2019). Die Berechnung basiert auf dem betreiberspezifischen Strommix.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/co2-wie-berechnung-wert-bc100)
-
  Gibt es die BahnBonus App auch in der HUAWEI AppGallery?
 ----------
 
-Nein, in der HUAWEI AppGallery ist die BahnBonus App aktuell nicht verfügbar.
+Nein, in der HUAWEI AppGallery ist die BahnBonus App nicht verfügbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-die-bahnbonus-app-auch-in-der-huawei-appgallery)
-
- Mit welchen Betriebssystemen kann die BahnBonus App genutzt werden?
-----------
-
-Die BahnBonus App erfordert:
-
-* bei Android Version 8.0 oder höher
-* bei iOS Version 15.0 oder höher
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-welchen-betriebssystemen-kann-die-bahnbonus-app-genutzt-werden)
 
  Wie bekomme ich meine digitale Karte in der BahnBonus App angezeigt? Brauche ich trotzdem noch eine Plastikkarte?
 ----------
 
-Die digitale Karte ist bereits in der BahnBonus App integriert, Sie müssen hierzu keine weiteren Schritte unternehmen. Sie finden diese jederzeit im unteren Bereich der BahnBonus App. Die digitale Karte zeigt Ihnen Ihre BahnBonus Nummer an, die Sie auch im Sammelprozess angeben müssen. Die digitale BahnBonus Karte ersetzt die "Plastikkarte", diese ist nicht mehr zwingend notwendig.
+Ihre digitale BahnBonus Karte finden Sie direkt in der BahnBonus App. Die digitale Karte ersetzt damit die frühere BahnBonus Card aus Plastik.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bekomme-ich-meine-digitale-karte-in-der-bahnbonus-app-angezeigt-brauche-ich-trotzdem-noch-eine-plastikkarte)
 
  An wen wende ich mich bei Fragen zur BahnBonus App?
 ----------
 
-Unser Support-Team hilft Ihnen gerne weiter. Für Fragen rund um die BahnBonus App erreichen Sie uns unter [030 586020910](tel:030 586020910) (Montag bis Sonntag von 7 bis 21 Uhr). Oder Sie schreiben uns eine E-Mail an [app-support@deutschebahn.com](mailto:app-support@deutschebahn.com).
+Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das Formular in der App. Ansonsten erreichen Sie uns unter 0302970 (Mo bis So von 08 bis 20 Uhr) oder per E-Mail an [app-support@deutschebahn.com](mailto:app-support@deutschebahn.com).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/an-wen-wende-ich-mich-bei-fragen-zur-bahnbonus-app)
 
  Warum kann ich meine Daten nicht in der BahnBonus App bearbeiten?
 ----------
 
-Zukünftig werden Sie die Möglichkeit haben, Ihre Daten direkt über die App zu verwalten. Wir bitten Sie bis dahin um Geduld.
-
-Auf bahn.de können Sie Ihre persönlichen Daten teilweise online ändern (Anrede/Titel, Adresse und E-Mail-Adresse). Loggen Sie sich ein und gehen Sie auf „Kundenkonto verwalten“.
+Im Kundenkonto unter bahn.de können Sie Ihre persönlichen Daten online ändern. Über die BahnBonus App wird diese Funktion zukünftig auch bereitgestellt. Wir bitten Sie bis dahin um Geduld.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-ich-meine-daten-nicht-in-der-app-bearbeiten)
+
+ Warum steht auf meiner digitalen BahnBonus Karte eine andere Nummer als auf meiner BahnCard?
+----------
+
+Ihrem Konto können mehrere BahnCard- und BahnBonus Nummern zugeordnet sein. Das geschieht z.B., wenn Sie sich nach Anmeldung zum BahnBonus Programm für eine BahnCard entscheiden. Dann wird die Nummer der BahnCard als BahnBonus Nummer angezeigt. Sie können beide Nummern zum Sammeln verwenden. In der BahnBonus App wird immer die zuletzt angelegte Karte angezeigt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-andere-nummer-auf-digitale-bahnbonuskarte-als-auf-bahncard)
+
+ Wo kann ich mir die BahnBonus App herunterladen?
+----------
+
+[Hier](https://www.bahn.de/service/mobile/bahnbonus-app)können Sie die BahnBonus App herunterladen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bahnbonusapp-herunterladen)
 
  Kann ich auch ohne die BahnBonus App Statuspunkte und Prämienpunkte sammeln und einlösen?
 ----------
