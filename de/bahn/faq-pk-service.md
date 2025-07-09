@@ -5205,7 +5205,7 @@ Nein, Sie müssen sich nur einmal zu BahnBonus anmelden. Alle gesammelten Punkte
  Was ist die digitale BahnBonus Karte?
 ----------
 
-Die digitale BahnBonus Karte dient als Nachweis Ihrer BahnBonus Teilnahme, Ihres persönlichen Statuslevels und enthält die Nummer zum Punktesammeln. Sie finden diese in der BahnBonus App.
+Die digitale BahnBonus Karte dient als Nachweis Ihrer BahnBonus Teilnahme, Ihres Statuslevels und enthält Ihre BahnBonus Sammelnummer. Sie finden Sie in der BahnBonus App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-die-digitale-bahnbonus-karte)
 
@@ -5274,31 +5274,6 @@ Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie [hier](http://www.db-f
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden)
 
- Kann ich meine Prämienpunkte auf bahn.de direkt in ein Digitales Ticket eintauschen?
-----------
-
-Sie können Ihre Prämienpunkte auf bahn.de direkt in ein Digitales Ticket eintauschen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-praemienpunkte-auf-bahn-de-direkt-in-ein-digitales-ticket-eintauschen)
-
- Kann ich BahnBonus Punkte bei bahnshop.de einlösen?
-----------
-
-Nein, seit dem 12.05.2023 können Sie bei bahnshop.de keine BahnBonus Prämienpunkte einlösen. Sie haben die Möglichkeit in der PrämienWelt Wertgutscheine für den bahnshop.de zu erwerben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-bahnbonus-punkte-bei-bahnshop-de-einloesen)
-
- Muss ich bei der Einlösung von Gutscheinen für eine Bahnprämie etwas beachten?
-----------
-
-Gutscheine können Sie je nach Prämie im DB Reisezentrum, in der DB Lounge, im Bordbistro/Bordrestaurant oder im Zug einlösen. Sie sollten folgendes bei Einlösung der Gutscheine beachten:
-
-* Länder-Ticket, DB Tageskarte (1. oder 2. Klasse), DB Tageskarte Samstag (1. oder 2. Klasse): Sie müssen das Nutzungsdatum eintragen.
-* Freifahrt Flex (1. oder 2. Klasse, einfache Fahrt oder Hin- und Rückfahrt): Sie müssen das Datum der Hin- und Rückfahrt, den Start- und Zielbahnhof und die Anzahl der mitreisenden Kinder angeben.
-* Gutscheine sind 6 Monate gültig.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-bei-der-einloesung-von-gutscheinen-fuer-eine-bahnpraemie-etwas-beachten)
-
  Wie bzw. wo kann ich meine Gutscheine für eine Bahnprämie einlösen?
 ----------
 
@@ -5323,7 +5298,7 @@ Folgende Prämiengutscheine können Sie direkt im Zug verwenden:
  Wie erhalte ich meine Prämie?
 ----------
 
-Je nach bestellter Prämie erfolgt die Zustellung als Brief oder Paket per Post oder per E-Mail. Für den Versand Ihrer Wunschprämie entstehen keine weiteren Kosten (Ausnahmen finden Sie in der Prämienbeschreibung). Die Zustellung der Prämie per Post erfolgt innerhalb von 10 Tagen; per E-Mail kurz nach Bestellabschluss. Zusätzlich haben Sie die Möglichkeit einige Bahnprämien direkt als Online-Ticket oder Handy-Ticket zu bestellen.
+Je nach bestellter Prämie erfolgt die Zustellung per E-Mail als Paket oder per Brief. Für den Versand Ihrer Wunschprämie entstehen keine weiteren Kosten (Ausnahmen finden Sie in der Prämienbeschreibung). Die Zustellung der Prämie per Post erfolgt innerhalb von 10 Tagen; per E-Mail innerhalb von 48 Stunden. Zusätzlich haben Sie die Möglichkeit einige Bahnprämien direkt als Online-Ticket oder Handy- Ticket zu bestellen. Hinweis: Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-meine-praemie)
 
@@ -5350,48 +5325,31 @@ Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt a
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
 
- Kann ich Prämientickets auch verschenken?
+ Kann ich Bahnprämien auch verschenken?
 ----------
 
-Ja, Sie können Prämientickets verschenken.
+Bahnprämien können unterschiedliche Weitergabebedingungen haben:
 
-Folgende Bahnprämien sind übertragbar und können ohne die Begleitung von BahnBonus-Teilnehmenden eingelöst werden:
-
-* Freifahrt Flex 2. Klasse (einfache Fahrt)
-* Freifahrt Flex 1. Klasse (einfache Fahrt)
-* Freifahrt Flex 2. Klasse (Hin- und Rückfahrt)
-* Freifahrt Flex 1. Klasse (Hin- und Rückfahrt)
-
-Die Freifahrt Mitfahrer (Digitales Ticket) kann ebenfalls an Nicht-BahnBonus-Teilnehmende übertragen werden. Hier muss der oder die BahnBonus Teilnehmende jedoch mitfahren.
-
-Alle anderen Bahnprämien aus dem BahnBonus Prämienkatalog sind nicht übertragbar und nur für BahnBonus Teilnehmende persönlich gültig.
+* Übertragbare Bahnprämien: Können verschenkt werden und berechtigen die Inhaber zur Fahrt ohne Begleitung eines BahnBonus-Teilnehmenden.
+* Prämien in Begleitung: Können für eine andere Person gebucht werden und berechtigen zu einer Fahrt in Begleitung eines BahnBonus-Teilnehmenden.
+* Nicht übertragbare Bahnprämien: Sind persönlich und gelten ausschließlich für BahnBonus-Teilnehmende; sie können nicht weitergegeben werden.
+* Die für die jeweilige Prämie geltende Bedingung finden Sie in der entsprechenden Prämienbeschreibung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-praemientickets-auch-verschenken)
 
- Wie lange dauert die Zustellung meiner Prämie?
+ Wie erhalte ich meine Prämien und wie lange dauert die Zustellung?
 ----------
 
-Je nach bestellter Prämie erfolgt die Zustellung als Brief oder Paket per Post oder per E-Mail. Für den Versand Ihrer Wunschprämie entstehen keine weiteren Kosten (Ausnahmen finden Sie in der Prämienbeschreibung). Die Zustellung der Prämie per Post erfolgt innerhalb von 10 Tagen; per E-Mail kurz nach Bestellabschluss.
-
-Zusätzlich können Sie die meisten Bahnprämien direkt als Online-Ticket oder Handy-Ticket bestellen.
+Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
 
- Gegen welche Prämien kann ich meine gesammelten Prämienpunkte einlösen?
+ Wo finde ich die Prämien und welche gibt es?
 ----------
 
-Ihre gesammelten Prämienpunkte können Sie gegen eine Vielzahl von Prämien eintauschen. Prämien sind schon ab 250 BahnBonus Prämienpunkten erhältlich.
-
-Sie können Ihre Prämienpunkte auch spenden, z.B. an die Bahnhofsmission oder andere gemeinnützige Einrichtungen.
+Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https://bahnbonus-praemienwelt.de/).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegen-welche-praemien-kann-ich-meine-gesammelten-praemienpunkte-einloesen)
-
- Warum muss ich mich für die Buchung von Bahn-/Spendenprämien erneut einloggen?
-----------
-
-Zukünftig werden Sie eine Buchung direkt über die App und ohne erneutes Einloggen durchführen können, wir bitten Sie bis dahin um Geduld.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-muss-ich-mich-fuer-die-buchung-von-bahn-spendenpraemien-erneut-einloggen)
 
  Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
 ----------
@@ -5403,9 +5361,7 @@ Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in
  Bis wann sind Prämiengutscheine gültig?
 ----------
 
-Prämiengutscheine haben eine Geltungsdauer von bis zu 12 Monaten. Ist ein Gutschein verfallen, ist eine Einlösung nicht mehr möglich.
-
-Ist der Gutschein verfallen, können Sie die Prämienpunkte nicht wieder gutschreiben lassen.
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur sammelt, um eines der drei Statuslevel zu erreichen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
 
