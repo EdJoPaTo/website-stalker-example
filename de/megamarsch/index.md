@@ -27,6 +27,7 @@ IN DEINER NÄHE!
 |     Luzern     |          |28/03/2026|
 |    Mallorca    |22/02/2025|21/02/2026|
 |    Dresden     |08/03/2025|07/03/2026|
+|  Dresden 25KM  |          |07/03/2026|
 |Mönchengladbach |22/03/2025|21/03/2026|
 |    Hamburg     |05/04/2025|11/04/2026|
 |     Ostsee     |26/04/2025|25/04/2026|
@@ -43,6 +44,7 @@ IN DEINER NÄHE!
 |   Stuttgart    |06/09/2025|          |
 |      Köln      |20/09/2025|          |
 |    Freiburg    |27/09/2025|          |
+| Freiburg 25KM  |27/09/2025|          |
 |      Bern      |04/10/2025|          |
 |   Frankfurt    |11/10/2025|          |
 |     Rügen      |18/10/2025|          |
