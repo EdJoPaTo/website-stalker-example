@@ -470,9 +470,6 @@ cirrus nimbus
     original OEM Lizenz
   * **Windows 11 Pro**
     original OEM Lizenz
-  * **Windows 10 Pro**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Pro
   * **anderes Betriebssystem**
     solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 

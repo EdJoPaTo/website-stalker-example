@@ -226,9 +226,6 @@ cirrus incus
     original OEM Lizenz
   * **Windows 11 Pro**
     original OEM Lizenz
-  * **Windows 10 Pro**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Pro
   * **anderes Betriebssystem**
     solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
@@ -240,9 +237,6 @@ cirrus incus
     original OEM Lizenz
   * **Windows 11 Pro**
     original OEM Lizenz
-  * **Windows 10 Pro**
-    original OEM Lizenz
-    beinhaltet kostenloses Update auf Windows 11 Pro
   * **anderes Betriebssystem**
     solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
@@ -255,8 +249,6 @@ cirrus incus
   * Kein vorinstalliertes Betriebssystem
   * **Ubuntu 20.10** „Groovy Gorilla“
   * **Linux Mint 20.1** „Ulyssa“
-  * **Windows 10 Home**
-  * **Windows 10 Pro**
   * **anderes Betriebssystem**
     solange möglich versuchen wir gerne andere Betriebssysteme zu installieren
 

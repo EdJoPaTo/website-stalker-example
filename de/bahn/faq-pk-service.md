@@ -5200,7 +5200,11 @@ Nein, für eine Teilnahme am BahnBonus Programm ist eine Anmeldung erforderlich.
  Brauche ich ein privates und ein geschäftliches BahnBonus Konto?
 ----------
 
-Nein, Sie müssen sich nur einmal zu BahnBonus anmelden. Alle gesammelten Punkte, egal ob aus privaten oder geschäftlichen Reisen, werden zentral unter ihrer BahnBonus Nummer gesammelt.
+Ihre BahnBonus Anmeldung kann nur mit einem Kundenkonto verknüpft sein.
+
+Wenn Sie Ihre geschäftlichen Reisen selbst buchen, kann ihre BahnBonus Anmeldung mit Ihrem privaten Kundenkonto verknüpft sein. Sie können in diesem Fall auch bei einer Buchung mit Ihrem geschäftlichen Kundenkonto BahnBonus Punkte durch händische Eingabe Ihrer BahnBonus Nummer sammeln.
+
+Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buchen, müssen Sie vorher sicherstellen, dass Ihr BahnBonus Konto mit Ihrem Geschäftskundenkonto verknüpft ist. In diesem Falle können Sie bei Ihren privaten Reisen in jeder Buchung aktiv durch Angabe der BahnCard / BahnBonus Nummer Punkte sammeln.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-ein-privates-und-ein-geschaeftliches-bahnbonus-konto)
 
@@ -5297,13 +5301,6 @@ Folgende Prämiengutscheine können Sie direkt im Zug verwenden:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bzw-wo-kann-ich-meine-gutscheine-fuer-eine-bahnpraemie-einloesen)
 
- Wie erhalte ich meine Prämie?
-----------
-
-Je nach bestellter Prämie erfolgt die Zustellung per E-Mail als Paket oder per Brief. Für den Versand Ihrer Wunschprämie entstehen keine weiteren Kosten (Ausnahmen finden Sie in der Prämienbeschreibung). Die Zustellung der Prämie per Post erfolgt innerhalb von 10 Tagen; per E-Mail innerhalb von 48 Stunden. Zusätzlich haben Sie die Möglichkeit einige Bahnprämien direkt als Online-Ticket oder Handy- Ticket zu bestellen. Hinweis: Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-meine-praemie)
-
  Wie kann ich meine gesammelten BahnBonus Punkte einlösen?
 ----------
 
@@ -5313,6 +5310,20 @@ Ihre Statuspunkte sind nicht einlösbar, da diese nur zum Erreichen des [BahnBon
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bekomme-ich-fuer-meine-praemienpunkte)
 
+ Kann ich auch ohne die BahnBonus App Prämienpunkte einlösen?
+----------
+
+Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
+
+ Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
+----------
+
+Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in der PrämienWelt angegeben. In der BahnBonus App ist dies momentan nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
+
  Kann ich Statuspunkte auch gegen Prämien einlösen?
 ----------
 
@@ -5320,12 +5331,12 @@ Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nu
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
 
- Kann ich auch ohne die BahnBonus App Prämienpunkte einlösen?
+ Bis wann sind Prämiengutscheine gültig?
 ----------
 
-Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur sammelt, um eines der drei Statuslevel zu erreichen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
 
  Kann ich Bahnprämien auch verschenken?
 ----------
@@ -5339,13 +5350,6 @@ Bahnprämien können unterschiedliche Weitergabebedingungen haben:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-praemientickets-auch-verschenken)
 
- Wie erhalte ich meine Prämien und wie lange dauert die Zustellung?
-----------
-
-Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
-
  Wo finde ich die Prämien und welche gibt es?
 ----------
 
@@ -5353,287 +5357,99 @@ Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https:/
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegen-welche-praemien-kann-ich-meine-gesammelten-praemienpunkte-einloesen)
 
- Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
+ Wie erhalte ich meine Prämien und wie lange dauert die Zustellung?
 ----------
 
-Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in der PrämienWelt angegeben. In der BahnBonus App ist dies momentan nicht möglich.
+Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
 
- Bis wann sind Prämiengutscheine gültig?
+ Wie erhalte ich meine Prämie?
 ----------
 
-Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur sammelt, um eines der drei Statuslevel zu erreichen.
+Je nach bestellter Prämie erfolgt die Zustellung per E-Mail als Paket oder per Brief. Für den Versand Ihrer Wunschprämie entstehen keine weiteren Kosten (Ausnahmen finden Sie in der Prämienbeschreibung). Die Zustellung der Prämie per Post erfolgt innerhalb von 10 Tagen; per E-Mail innerhalb von 48 Stunden. Zusätzlich haben Sie die Möglichkeit einige Bahnprämien direkt als Online-Ticket oder Handy- Ticket zu bestellen. Hinweis: Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-meine-praemie)
 
  Wie kann ich ein BahnBonus Statuslevel erreichen?
 ----------
 
-Die Statuslevel erreichen Sie durch eine Anmeldung zu BahnBonus und das Sammeln von Statuspunkten bei Ticket- und BahnCard Käufen über fünf Euro. Wenn Sie innerhalb von zwölf Monaten folgende Punktezahl erreicht haben, erhalten Sie folgende Statuslevel:
+Wenn Sie BahnBonus Teilnehmer:in sind und innerhalb von zwölf Monaten folgende Anzahl an Statuspunkten erreicht haben, erhalten Sie diese Statuslevel:
 
-Level Silber - ab 1.500 Statuspunkten
-Level Gold - ab 2.500 Statuspunkten
-Level Platin - ab 6.000 Statuspunkten
+* Level Silber - ab 1.500 Statuspunkten
+* Level Gold - ab 2.500 Statuspunkten
+* Level Platin - ab 6.000 Statuspunkten
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ein-bahnbonus-statuslevel-erreichen)
-
- Welche Vorteile bringen mir die drei BahnBonus Statuslevel?
-----------
-
-Jedes der drei Statuslevel Silber, Gold und Platin bietet Ihnen unterschiedliche, exklusive Vorteile.
-
-Mit dem Silberstatus genießen Sie 8 Freigetränke in der Bordgastronomie, 8 Tagespässe für die DB Lounges, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
-
-Der Goldstatus bietet Ihnen 12 Freigetränke in der Bordgastronomie, unbegrenzten Zugang für die DB Lounges, Zugang zum exklusiven Sitzplatzbereich in Fernverkehrszügen, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
-
-Mit dem Platinstatus profitieren Sie zusätzlich zu den Gold-Vorteilen noch von 30 % Rabatt in der Bordgastronomie, vom Zugang zum Premium-Bereich der DB Lounges sowie von der exklusiven Reservierungsmöglichkeit in bereits ausgebuchten Zügen. Einen Überblick der Vorteile je Statuslevel finden Sie hier.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vorteile-bringen-mir-die-drei-bahnbonus-statuslevel)
 
  Woran erkenne ich meine Statuslaufzeit?
 ----------
 
-Ihre Statuslaufzeit können Sie unter "Mein Level" in der BahnBonus App, in unserer App und im eingeloggten Bereich auf der Website einsehen.
+Ihre Statuslaufzeit sehen Sie in der BahnBonus App bei den Informationen zum Status, sowie in Ihrem DB Kundenkonto auf bahn.de und im Navigator.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woran-erkenne-ich-meine-statuslaufzeit)
 
  Welche BahnBonus Statuslevel gibt es?
 ----------
 
-Level Silber - ab 1.500 jährlichen Statuspunkten
-Level Gold - ab 2.500 jährlichen Statuspunkten
-Level Platin - ab 6.000 jährlichen Statuspunkten
+Level Silber - ab 1.500 Statuspunkten
+Level Gold - ab 2.500 Statuspunkten
+Level Platin - ab 6.000 Statuspunkten
+
+Je nach Statuslevel gibt es verschiedene Statusvorteile.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-bahnbonus-statuslevel-gibt-es)
-
- Brauche ich eine BahnCard oder BahnBonus Card, um Statuspunkte zu sammeln und ein Statuslevel zu erreichen?
-----------
-
-Nein, der Besitz einer aktiven BahnCard oder BahnBonus Card ist nicht notwendig. Nach Ihrer BahnBonus Anmeldung finden Sie Ihren digitalen Statusnachweis inklusive Ihrer BahnBonus Nummer in der BahnBonus App. Auch mit einer inaktiven oder abgelaufenen BahnCard oder BahnBonus Card ist somit das Sammeln und Erreichen eines Status möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-oder-bahnbonuscard-statuspunkte-statuslevel)
 
  Wann beginnt meine Statuslaufzeit?
 ----------
 
-Die Statuslaufzeit beginnt mit Erreichen der entsprechenden Punkteschwelle. Die Gutschrift der Statuspunkte erfolgt ab dem Gültigkeitsdatum Ihres erworbenen Tickets bzw. Ihrer erworbenen BahnCard. Bei ehemaligen BahnComfort Kund:innen bleibt die Statuslaufzeit bestehen.
+Die Statuslaufzeit beginnt mit Erreichen der entsprechenden Statuspunkteschwelle.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-beginnt-meine-statuslaufzeit)
 
  Wie lange bleibe ich in einem Statuslevel?
 ----------
 
-Ein Statuslevel ist ab Qualifizierung für zwölf Monate gültig. Qualifizieren Sie sich innerhalb dieser Zeit für ein höheres Statuslevel, steigen Sie direkt in das höhere Level auf, und die Statuslaufzeit von zwölf Monaten beginnt von Neuem.
+Ein Statuslevel ist für zwölf Monate gültig. In diesem Zeitraum kommt es zu keinem Leveldowngrade, ein Levelupdate hingegen erfolgt jederzeit, mit dem Erreichen der Punkteschwelle, für das nächsthöhere Statuslevel.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-bleibe-ich-in-einem-statuslevel)
 
- Was passiert, wenn mein Statuspunktestand während der Statuslaufzeit unter die Punkteschwelle meines Levels fällt?
+ Was passiert, wenn während meiner Statuslaufzeit, mein Statuspunktestand, über oder unter die Punkteschwelle meines Statuslevels gelangt?
 ----------
 
-Ihre Statuslaufzeit beträgt nach Erreichen des Levels zwölf Monate. Sollte Ihr Statuspunktestand zwischenzeitlich unter die Punkteschwelle fallen, bleiben Sie trotzdem in Ihrem Statuslevel. Ein Levelaufstieg ist übrigens jederzeit möglich.
+Fällt Ihr Statuspunktestand unter die Punkteschwelle Ihres aktuellen Statuslevels, bleiben Sie trotzdem in Ihrem Statuslevel.
+
+Steigt Ihr Statuspunktestand, bis zur Punkteschwelle des höheren Statuslevels, steigen Sie direkt in das höhere Level auf, erhalten direkt dessen Statusvorteile. Die nicht genutzten Vorteile aus Ihrem vorherigen Statuslevel verfallen und die Statuslaufzeit von zwölf Monaten beginnt von Neuem.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-statuspunktestand-waehrend-der-statuslaufzeit-unter-die-punkteschwelle-meines-levels-faellt)
-
- Was passiert, wenn ich während meiner Statuslaufzeit die Punkteschwelle für das nächsthöhere Statuslevel erreiche?
-----------
-
-Ihr Statuslevel aktualisiert sich automatisch. Ihnen stehen die Vorteile des höheren Statuslevels mit Erreichen der Punkteschwelle zur Verfügung. Die Laufzeit für das neue Level beträgt ab diesem Zeitpunkt erneut zwölf Monate.
-
-Die nicht genutzten Vorteile verfallen beim Aufstieg in ein höheres Level und werden nicht aufaddiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-ich-waehrend-meiner-statuslaufzeit-die-punkteschwelle-fuer-das-naechsthoehere-statuslevel-erreiche)
 
  Behalte ich mein Statuslevel, wenn ich mich von BahnBonus abmelde?
 ----------
 
-Nein, Voraussetzung für ein Statuslevel ist die Teilnahme am BahnBonus Programm. Bei einer Abmeldung von BahnBonus verlieren Sie den Status und alle bisher gesammelten Punkte.
+Nein, Voraussetzung für ein Statuslevel ist die Teilnahme am BahnBonus Programm. Bei einer Abmeldung von BahnBonus verlieren Sie den Status, die Statusvorteile und alle bisher gesammelten BahnBonus Punkte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behalte-ich-mein-statuslevel-wenn-ich-mich-von-bahnbonus-abmelde)
-
- Wenn ich auf ein Ticket Rabatt bekomme, bekomme ich dann nur Punkte für den reduzierten Preis?
-----------
-
-Ja, Sie erhalten Punkte für den getätigten Umsatz.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wenn-ich-auf-ein-ticket-rabatt-bekomme-bekomme-ich-dann-nur-punkte-fuer-den-reduzierten-preis)
-
- Bekomme ich Prämien- und Statuspunkte, wenn ich mit einem Gutschein bezahle?
-----------
-
-Ja, für die Punktegutschrift wird der volle Kaufpreis berücksichtigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bekomme-ich-praemien-und-statuspunkte-wenn-ich-mit-einem-gutschein-bezahle)
-
- Ich habe mir die BahnBonus App noch nicht heruntergeladen. Kann ich trotzdem meine Statusvorteile in Anspruch nehmen?
-----------
-
-Die Inanspruchnahme der meisten Statusvorteile ist seit dem 13.06.2022 ausschließlich über die BahnBonus App möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mir-die-bahnbonus-app-noch-nicht-heruntergeladen-kann-ich-trotzdem-meine-statusvorteile-in-anspruch-nehmen)
-
- Kann ich mit meiner BahnCard mit BahnComfort Status weiterhin Statusleistungen nutzen?
-----------
-
-Nein, die Inanspruchnahme der meisten Statusvorteile ist ausschließlich über die BahnBonus App möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-meiner-bahncard-mit-bahncomfort-status-weiterhin-statusleistungen-nutzen)
-
- Muss ich etwas tun, um ein BahnBonus Statuslevel erreichen zu können?
-----------
-
-Für die Teilnahme ist die Anmeldung zu BahnBonus erforderlich. Zusätzlich benötigen Sie die BahnBonus App, um die Statusvorteile nutzen zu können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-etwas-tun-um-ein-bahnbonus-statuslevel-erreichen-zu-koennen)
-
- Wie nutze ich meine Statusvorteile?
-----------
-
-Alle Statusvorteile sind digital und einfach in der BahnBonus App einlösbar. Zum Beispiel in dem Sie Ihr Handy zum Abscannen des Codes vorzeigen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-meine-statusvorteile)
-
- Ich habe alle meine Statusvorteile aufgebraucht. Wann bekomme ich neue?
-----------
-
-Die Statusvorteile sind immer für Ihre individuelle Statuslaufzeit gültig. Schaffen Sie es nach Ablauf dieser Zeit erneut Ihren Status zu erreichen, beginnt Ihre Laufzeit erneut und Sie erhalten neue Codes. Erreichen Sie aber während Ihrer Statuslaufzeit die Punkteschwelle eines höheren Levels, erhalten Sie direkt dessen Vorteile.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-alle-meine-statusvorteile-aufgebraucht-wann-bekomme-ich-neue)
-
- Meine Statuslaufzeit läuft bald ab. Behalte ich meine noch übrigen Statusvorteile für meine nächste Statuslaufzeit?
-----------
-
-Nein, alle Statusvorteile sind für den Zeitraum Ihrer persönlichen Statuslaufzeit gültig und verfallen nach Ablauf.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ablauf-statuslaufzeit-statusvorteile)
-
- Wenn der exklusive Sitzplatzbereich im Zug besetzt ist, haben Kund:innen mit Statuslevel Platin gegenüber denen mit Statuslevel Gold Vorrang?
-----------
-
-Kund:innen mit Statuslevel Gold und Platin sind beim exklusiven Sitzplatzbereich im Zug gleichgestellt. Den Sitzplatzbereich können Sie je nach Verfügbarkeit im Zug nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/exklusiver-sitzplatzbereich-statuslevel-vorrang)
-
- Was bedeutet "Tagespass" in der DB Lounge?
-----------
-
-Ein Tagespass für die DB Lounge ermöglicht es Ihnen und einer Begleitperson, die DB Lounges am Einlösetag unbegrenzt oft zu nutzen. Dies gilt sowohl für den Abfahrts- und Ankunftsort als auch für eventuelle Zwischenstopps.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-tagespass-in-der-db-lounge)
-
- Darf ich eine Begleitperson in die DB Lounge mitnehmen?
-----------
-
-Ja. Sie können eine Begleitperson in den **Comfort Bereich** der Lounge mitnehmen. Ihre Begleitperson benötigt, ebenso wie Sie, ein gültiges DB Fernverkehrsticket.
-
-Die Mitnahme einer Begleitperson in den **Premium Bereich** der Lounge ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-eine-begleitperson-in-die-db-lounge-mitnehmen)
-
- Was genau ist die exklusive Reservierungsmöglichkeit?
-----------
-
-Hierbei handelt es sich um Sitzplätze in vielen Fernverkehrszügen, die ausschließlich für Kund:innen mit Statuslevel Platin reservierbar sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-ist-die-exklusive-reservierungsmoeglichkeit)
-
- Was ist der BahnBonus Statusservice?
-----------
-
-Der BahnBonus Statusservice ist die exklusive Hotline für Statuskund:innen. Den Kontakt hierzu finden Sie in der BahnBonus App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-bahnbonus-statusservice)
-
- Ich benötige einzelne Statusvorteile nicht. Kann ich Sie anderen Personen übertragen?
-----------
-
-Nein, die Statusvorteile sind exklusiv für Sie als Statuskund:in. Der Umtausch in andere Statusvorteile oder die Übertragung auf andere Personen, ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-benoetige-einzelne-statusvorteile-nicht-kann-ich-sie-anderen-personen-uebertragen)
-
- Darf meine Begleitperson ebenfalls im exklusiven Sitzplatzbereich im Zug Platz nehmen?
-----------
-
-Nein, der Sitzplatzbereich steht exklusiv unseren Statuskund:innen zur Verfügung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-meine-begleitperson-ebenfalls-im-exklusiven-sitzplatzbereich-im-zug-platz-nehmen)
-
- Wo finde ich die Partnervorteile?
-----------
-
-Alle Statusvorteile, auch die bei unseren Partnern, finden Sie in der BahnBonus App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-partnervorteile)
-
- BahnBonus Freigetränk: Für welche Getränke ist der Code „Freigetränk“ nutzbar?
-----------
-
-Sie können den BahnBonus Statusvorteil „Freigetränk in der Bordgastronomie“ für jegliches Getränk einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-getraenke-in-der-bordgastronomie-ist-der-code-freigetraenk-nutzbar)
-
- Wie oft kann ich den Rabatt für die Bordgastronomie nutzen?
-----------
-
-Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie für alle im Statuslevel Platin können Sie bis zu 4-mal täglich nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-oft-kann-ich-den-rabatt-fuer-die-bordgastronomie-nutzen)
-
- Was genau ist die Statusgarantie?
-----------
-
-Kund:innen im Statuslevel Platin, welche nach Ende ihrer Statuslaufzeit, nicht genug Punkte für eines der Statuslevel haben, erhalten dennoch automatisch ein Jahr im Statuslevel Silber geschenkt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-ist-die-statusgarantie)
-
- Gibt es das BahnComfort Portal noch?
-----------
-
-Nein, alles Wissenswerte finden Sie in der BahnBonus App im Bereich der Statusvorteile.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-das-bahncomfort-portal-noch)
-
- Warum gibt es die meisten Statusvorteile nur in der BahnBonus App?
-----------
-
-Es war eine strategische Entscheidung, die Statusvorteile zukünftig rein über die BahnBonus App nutzbar zu machen. Um Missbrauch zu vermeiden, ist eine App der sicherste Weg. Außerdem ist die Nutzung der Vorteile - vor allem durch Codes zum Abscannen - über eine App am einfachsten umsetzbar. Ihr aktuelles Statuslevel und ihren Punktestand können Sie weiterhin über ihr Kundenkonto und auch die DB Navigator App einsehen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-gibt-es-die-meisten-statusvorteile-nur-in-der-bahnbonus-app)
-
- Welche Informationen zu meinem Status finde ich in der BahnBonus App?
-----------
-
-Sie finden Informationen zu Ihrem aktuellen Statuslevel, zu Ihren aktuellen, vorgemerkten und verfallenden Punkten sowie zu Ihren Statusvorteilen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-informationen-zu-meinem-status-finde-ich-in-der-bahnbonus-app)
 
  Muss ich mein Smartphone im Zug dabeihaben, um meinen Status vorweisen zu können?
 ----------
 
-Ja, die in der BahnBonus App vorhandene digitale BahnBonus Karte gilt als Statusnachweis und die BahnBonus App dient zur Inanspruchnahme aller Statusvorteile im Zug.
+Ja, nur die in der BahnBonus App vorhandene, digitale BahnBonus Karte, gilt als Statusnachweis.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-mein-smartphone-im-zug-dabeihaben-um-meinen-status-vorweisen-zu-koennen)
-
- Kann ich meine Statusvorteile auch über die DB Navigator App nutzen?
-----------
-
-Nein, die Nutzung der Statusvorteile ist ausschließlich über die BahnBonus App möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-statusvorteile-auch-ueber-die-db-navigator-app-nutzen)
 
  Finde ich mein Statuslevel in der DB Navigator App?
 ----------
 
-Ja, Sie finden Ihr Level auch im DB Navigator. Als Statusnachweis dient jedoch nur die digitale Karte in der BahnBonus App.
+Ja, Sie finden Ihren Statuslevel auch im DB Navigator. Als Statusnachweis dient jedoch nur die digitale Karte in der BahnBonus App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/finde-ich-mein-statuslevel-in-der-db-navigator-app)
 
- Was passiert, wenn mein Smartphone-Akku leer ist und ich Statusvorteile einlösen möchte?
+ Wann wird mein Statuslevel verlängert?
 ----------
 
-Sowohl im Zug als auch in den DB Lounges an Bahnhöfen stehen Ihnen ausreichend Lademöglichkeiten für Ihr Smartphone zur Verfügung.
+Am Folgetag nach Ablauf der 12 Monate wird der Punktestand geprüft. Sind genug Punkte für das aktuelle Statuslevel vorhanden, wird Ihr Statuslevel um weitere 12 Monate verlängert. Ansonsten verlieren Sie ihren Statuslevel oder es erfolgt ein Leveldowngrade.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-smartphone-akku-leer-ist-und-ich-statusvorteile-einloesen-moechte)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statuslevel-verlaengern)
 
  Was passiert, wenn ich gerade kein Internet habe und die Statusvorteile einlösen möchte?
 ----------
@@ -5642,40 +5458,21 @@ Sofern Sie Ihre digitale BahnBonus Karte sowie Ihre Statusvorteile im Vorfeld sc
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-ich-gerade-kein-internet-habe-und-die-statusvorteile-einloesen-moechte)
 
- Was genau sind prognostizierte Statuspunkte?
+ Was genau sind prognostizierte, verfallende und vorgemerkte Statuspunkte?
 ----------
 
-Prognostizierte Statuspunkte sind die Summe vorgemerkter und verfallender Statuspunkte zu einem gewissen Zeitpunkt.
+* Prognostizierte Statuspunkte sind die Summe aus aktuellen Statuspunkten und vorgemerkten Statuspunkten abzüglich verfallender Statuspunkte zum Statuslaufzeitende.
+* Verfallende Statuspunkte sind die Summe der zum Statuslaufzeitende verfallenden Statuspunkte. Statuspunkte verfallen 365 Tage nach Gültigkeitsbeginn.
+* Vorgemerkte Statuspunkte sind Statuspunkte für gebuchte Fahrkarten, die ihren ersten Geltungstag noch nicht erreicht haben. Angezeigt werden die vorgemerkten Statuspunkte bis zum Ende der Statuslaufzeit.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-sind-prognostizierte-statuspunkte)
-
- Was genau sind vorgemerkte Statuspunkte?
-----------
-
-Vorgemerkte Statuspunkte sind Statuspunkte für gebuchte Fahrkarten, die ihren ersten Geltungstag noch nicht erreicht haben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-sind-vorgemerkte-statuspunkte)
-
- Was genau sind verfallende Statuspunkte?
-----------
-
-Verfallende Statuspunkte sind kurz davor ihre Gültigkeit zu verlieren und vom Punktestand abgezogen zu werden. Statuspunkte verfallen 365 Tage nach Gültigkeitsbeginn.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-sind-verfallende-statuspunkte)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-sind-prognostizierte-verfallende-vorgemerkte-statuspunkte)
 
  Woran erkenne ich, ob ich ein BahnBonus Statuslevel habe?
 ----------
 
-Ob Sie ein Statuslevel haben, sehen Sie u.a. an der digitalen Karte in der BahnBonus App.
+Ob und welchen Statuslevel Sie haben, erkennen Sie in Ihrem BahnBonus Bereich in der BahnBonus App, sowie in Ihrem DB Kundenkonto auf bahn.de und im Navigator.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woran-erkenne-ich-ob-ich-ein-bahnbonus-statuslevel-habe)
-
- Wie löse ich meine Statusvorteile ein?
-----------
-
-Details zur Nutzung finden Sie in der BahnBonus App. Die Statusvorteile können z. B. in der DB Lounge durch einfaches Abscannen eines Codes eingelöst werden. Daneben gibt es auch Leistungen, die durch Zeigen der digitalen BahnBonus Karte oder durch Links eingelöst werden können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-loese-ich-meine-statusvorteile-ein)
 
  Wofür brauche ich die BahnBonus App?
 ----------
@@ -5897,6 +5694,131 @@ Gesammelte Punkte bleiben bei einem BahnCard Upgrade erhalten.
 Tragen Sie hierfür auf dem BahnCard Bestellschein im DB Reisezentrum die Nummer Ihrer bisherigen Karte ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfallen-bahnbonus-praemien-und-statuspunkte-die-ich-schon-erworben-habe-bei-einem-bahncard-upgrade)
+
+ Welche Vorteile bringen mir die drei BahnBonus Statuslevel?
+----------
+
+Jedes der drei Statuslevel Silber, Gold und Platin bietet Ihnen unterschiedliche, exklusive Vorteile.
+
+Mit dem Silberstatus genießen Sie 8 Freigetränke in der Bordgastronomie, 8 Tagespässe für die DB Lounges, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
+
+Der Goldstatus bietet Ihnen 12 Freigetränke in der Bordgastronomie, unbegrenzten Zugang für die DB Lounges, Zugang zum exklusiven Sitzplatzbereich in Fernverkehrszügen, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
+
+Mit dem Platinstatus profitieren Sie zusätzlich zu den Gold-Vorteilen noch von 30 % Rabatt in der Bordgastronomie, vom Zugang zum Premium-Bereich der DB Lounges sowie von der exklusiven Reservierungsmöglichkeit in bereits ausgebuchten Zügen. Einen Überblick der Vorteile je Statuslevel finden Sie hier.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vorteile-bringen-mir-die-drei-bahnbonus-statuslevel)
+
+ Wie nutze ich meine Statusvorteile?
+----------
+
+Alle Statusvorteile sind digital und einfach in der BahnBonus App einlösbar. Zum Beispiel in dem Sie Ihr Handy zum Abscannen des Codes vorzeigen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-meine-statusvorteile)
+
+ Kann ich meine Statusvorteile auch über die DB Navigator App nutzen?
+----------
+
+Nein, die Nutzung der Statusvorteile ist ausschließlich über die BahnBonus App möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-statusvorteile-auch-ueber-die-db-navigator-app-nutzen)
+
+ Ich habe alle meine Statusvorteile aufgebraucht. Wann bekomme ich neue?
+----------
+
+Die Statusvorteile sind immer für Ihre individuelle Statuslaufzeit gültig. Schaffen Sie es nach Ablauf dieser Zeit erneut Ihren Status zu erreichen, beginnt Ihre Laufzeit erneut und Sie erhalten neue Codes. Erreichen Sie aber während Ihrer Statuslaufzeit die Punkteschwelle eines höheren Levels, erhalten Sie direkt dessen Vorteile.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-alle-meine-statusvorteile-aufgebraucht-wann-bekomme-ich-neue)
+
+ Meine Statuslaufzeit läuft bald ab. Behalte ich meine noch übrigen Statusvorteile für meine nächste Statuslaufzeit?
+----------
+
+Nein, alle Statusvorteile sind für den Zeitraum Ihrer persönlichen Statuslaufzeit gültig und verfallen nach Ablauf.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ablauf-statuslaufzeit-statusvorteile)
+
+ Ich benötige einzelne Statusvorteile nicht. Kann ich Sie anderen Personen übertragen?
+----------
+
+Nein, die Statusvorteile sind exklusiv für Sie als Statuskund:in. Der Umtausch in andere Statusvorteile oder die Übertragung auf andere Personen, ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-benoetige-einzelne-statusvorteile-nicht-kann-ich-sie-anderen-personen-uebertragen)
+
+ Was genau ist die Statusgarantie?
+----------
+
+Kund:innen im Statuslevel Platin, welche nach Ende ihrer Statuslaufzeit, nicht genug Punkte für eines der Statuslevel haben, erhalten dennoch automatisch ein Jahr im Statuslevel Silber geschenkt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-ist-die-statusgarantie)
+
+ Wie oft kann ich den Rabatt für die Bordgastronomie nutzen?
+----------
+
+Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie können alle im Statuslevel Platin bis zu 4-mal täglich nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-oft-kann-ich-den-rabatt-fuer-die-bordgastronomie-nutzen)
+
+ fuer-welche-getraenke-in-der-bordgastronomie-ist-der-code-freigetraenk-nutzbar
+----------
+
+Sie können den Statusvorteil „Freigetränk in der Bordgastronomie“ für jegliches Getränk, inklusive alkoholischer, einlösen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-getraenke-in-der-bordgastronomie-ist-der-code-freigetraenk-nutzbar)
+
+ Was bedeutet "Tagespass" in der DB Lounge?
+----------
+
+Die DB Lounges können Sie und eine Begleitperson an dem Tag, an dem Sie den Tagespass einlösen, so oft nutzen, wie Sie möchten. So können sowohl am Abfahrts- als auch am Ankunftsort und potenziellen Zwischenhalten von diesem Vorteil profitieren. Voraussetzung ist, dass Sie und Ihre Begleitperson eine tagesaktuelle Fahrkarte für den Fernverkehr der DB besitzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-tagespass-in-der-db-lounge)
+
+ Darf ich eine Begleitperson in die DB Lounge mitnehmen?
+----------
+
+Ja, die Mitnahme einer Begleitperson in den Comfort Bereich der Lounge ist möglich. Ihre Begleitperson benötigt, ebenso wie Sie, ein gültiges DB Fernverkehrsticket. Die Mitnahme einer Begleitperson in den Premium Bereich der Lounge ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-eine-begleitperson-in-die-db-lounge-mitnehmen)
+
+ Wenn der exklusive Sitzplatzbereich im Zug besetzt ist, haben Kund:innen mit Statuslevel Platin gegenüber denen mit Statuslevel Gold Vorrang?
+----------
+
+Kund:innen mit Statuslevel Gold und Platin sind beim exklusiven Sitzplatzbereich im Zug gleichgestellt. Den Sitzplatzbereich können Sie je nach Verfügbarkeit im Zug nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/exklusiver-sitzplatzbereich-statuslevel-vorrang)
+
+ Darf meine Begleitperson ebenfalls im exklusiven Sitzplatzbereich im Zug Platz nehmen?
+----------
+
+Nein, der Sitzplatzbereich steht exklusiv nur unseren Statuskund:innen zur Verfügung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-meine-begleitperson-ebenfalls-im-exklusiven-sitzplatzbereich-im-zug-platz-nehmen)
+
+ Was genau ist die exklusive Reservierungsmöglichkeit?
+----------
+
+Hierbei handelt es sich um Sitzplätze in vielen Fernverkehrszügen, die ausschließlich für Kund:innen mit Statuslevel Platin reservierbar sind.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-ist-die-exklusive-reservierungsmoeglichkeit)
+
+ Wo finde ich die Partnervorteile?
+----------
+
+Alle Partnervorteile, inkl. der Statusvorteile bei Partnern, finden Sie in der BahnBonus App im Bereich Partnerdeals.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-partnervorteile)
+
+ Was ist der BahnBonus Statusservice?
+----------
+
+Der BahnBonus Statusservice ist die exklusive Hotline für Statuskund:innen. Den Kontakt hierzu finden Sie in der BahnBonus App.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-bahnbonus-statusservice)
+
+ Muss ich mein Smartphone im Zug dabeihaben, um meine Statusvorteile einzulösen?
+----------
+
+Ja, denn nur die BahnBonus App dient zur Inanspruchnahme aller Statusvorteile im Zug.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statusvorteile-smatphone-im-zug)
 
  Wie kann ich die Sprache im DB Navigator ändern?
 ----------
@@ -7327,20 +7249,52 @@ Informationen zur aktuellen Verkehrslage finden Sie unter:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-mich-ueber-die-aktuelle-verkehrslage-informieren)
 
+ Muss ich dienstlich gesammelte und privat genutzte Prämien in meiner Steuererklärung angeben?
+----------
+
+Nein. Wenn Sie im Rahmen von BahnBonus auf geschäftlichen Reisen BahnBonus Punkte gesammelt haben und diese für privat genutzte Prämien einlösen (seit dem 1. Juli 2023), übernimmt die DB Fernverkehr AG den geldwerten, steuerpflichtigen Vorteil.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemien-steuererklaerung)
+
  Ab wann gilt die Pauschalversteuerung?
 ----------
 
 Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
 
-Basis für die Berechnung des geldwerten, steuerpflichtigen Vorteils ist das Datum der Prämienpunkte-Einlösung. Das bedeutet: Prämienpunkte, die Sie vor dem 1. Juli 2023 eingelöst haben, müssen weiterhin in der individuellen Lohnsteuer angegeben werden. Die Pauschalversteuerung gilt seit dem 1. Juli 2023.
+Basis für die Berechnung des geldwerten, steuerpflichtigen Vorteils ist das Datum der Prämienpunkte-Einlösung. Das bedeutet: Prämienpunkte, die Sie vor dem 1. Juli 2023 eingelöst haben, müssen weiterhin in der individuellen Lohnsteuer angegeben werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-gilt-pauschalversteuerung)
+
+ Warum führt die DB Fernverkehr AG die Pauschalversteuerung ein?
+----------
+
+Durch die pauschale Versteuerung entfällt seit dem 1. Juli 2023 der administrative Aufwand sowohl für Arbeitnehmer:in als auch Arbeitgeber:in.
+
+Bisher mussten, je nach Höhe, lohnsteuerpflichtige Geschäftsreisende den geldwerten, steuerpflichtigen Vorteil in ihrer persönlichen Steuererklärung angeben und ihre:n Arbeitgeber:in zwecks Meldung an das Finanzamt über die eingelösten Prämien informieren. Viele Arbeitgeber:innen haben daher die private Verwendung geschäftlich gesammelter Punkte oder die Teilnahme an BahnBonus im geschäftlichen Kontext untersagt.
+
+Mit dieser Vereinfachung zieht die DB Fernverkehr AG mit anderen Vorteilsprogrammen (z.B. aus der Luftfahrt) gleich und erhöht die Attraktivität der Bahn für Geschäftsreisen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-pauschalversteuerung)
 
  Darf ich dienstlich gesammelte BahnBonus Punkte privat nutzen?
 ----------
 
-Ob Sie grundsätzlich dienstlich gesammelte BahnBonus Punkte privat nutzen dürfen, entscheidet Ihr:e Arbeitgeber:in. Bitte beachten Sie diesbezüglich die Reiserichtlinie Ihres Unternehmens.
+Ob Sie grundsätzlich dienstlich gesammelte BahnBonus Punkte privat nutzen dürfen, entscheidet Ihr:e Arbeitgeber:in. Bitte beachten Sie diesbezüglich die Reiserichtlinie Ihres Unternehmens.
 
 Die generelle Teilnahme am Vorteilsprogramm BahnBonus bzw. das Sammeln von BahnBonus Punkten durch private Bahnreisen muss nicht von den Arbeitgeber:innen genehmigt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-bahnbonus-punkte-privat-nutzen)
+
+ Kann ich als bahn.business-Kund:in mit dem Online-Ticket BahnBonus Punkte sammeln?
+----------
+
+Bei Buchung eines Online-Tickets können Sie auch als Geschäftskund:in BahnBonus Punkte sammeln, wenn Sie für BahnBonus angemeldet sind.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/als-bahnbusiness-kunde-mit-onlineticket-punkte-sammeln)
+
+ Erhalte ich BahnBonus Punkte beim Kauf einer BahnCard 100 für Geschäftsreisende?
+----------
+
+Ja, Sie erhalten eine Gutschrift über die Summe der Jahresgebühr der BahnCard 100 für Geschäftsreisende in Form von Prämien- und Statuspunkten auf Ihr BahnBonus Punktekonto.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erhalt-von-bahnbonus-punkten-bei-kauf-einer-bc100)
