@@ -68,14 +68,14 @@ Includes:
  Byte
 84W DC Power Adapter
 
- duties and taxes
+ VAT
 
- All import duties and taxes are covered in the price you see; there won’t be any additional fees when your package arrives.
+ Excludes duties and taxes.
 
 Ships
 
 7 - 8 business days
 
-[Includes duties and taxes of , no extra charges on delivery.](#tax)
+[Excludes duties and taxes.](#tax)
 
  Sold out [Learn More](/pages/byte) [Get Notified When Available](#)
