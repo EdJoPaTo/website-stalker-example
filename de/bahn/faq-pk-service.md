@@ -5188,10 +5188,10 @@ Die Verantwortung, ob Sie alleine reisen dürfen, liegt tatsächlich bei den Erz
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-welchem-alter-darf-ich-alleine-mit-der-bahn-ins-ausland-fahren)
 
- Funktioniert BahnBonus auch ohne Anmeldung?
+ Funktioniert das BahnBonus Programm auch ohne Anmeldung?
 ----------
 
-Für eine Teilnahme an BahnBonus ist eine Anmeldung zwingend erforderlich.
+Nein, für eine Teilnahme am BahnBonus Programm ist eine Anmeldung erforderlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/funktioniert-bahnbonus-auch-ohne-anmeldung)
 
@@ -5221,7 +5221,7 @@ Alternativ können Sie sich auch über die BahnBonus App zur E-Mail-Kommunikatio
  Welchen Vorteil habe ich von der Anmeldung zur E-Mail-Kommunikation?
 ----------
 
-Durch Ihre Zustimmung zur E-Mail-Kommunikation werden Sie über aktuelle BahnBonus Aktionen informiert. Zudem schonen Sie die Umwelt nachhaltig.
+Sie erhalten persönliche Informationen, Gutscheine und werden über exklusive BahnBonus Aktionen informiert. Zusätzlich erhalten Sie bei Ihrer erstmaligen Zustimmung 150 Prämienpunkte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welchen-vorteil-habe-ich-von-der-anmeldung-zur-e-mail-kommunikation)
 
@@ -5230,26 +5230,28 @@ Durch Ihre Zustimmung zur E-Mail-Kommunikation werden Sie über aktuelle BahnBon
 
 Sie können BahnBonus jederzeit ohne Angabe von Gründen ordentlich wie folgt kündigen:
 
-* online
-* per E-Mail an bahnbonus-service@bahn.de
-* telefonisch unter 030 29 70
-* per Post an DB Fernverkehr AG, BahnBonus Service, 60644 Frankfurt am Main.
+* unter [https://www.bahn.de/buchung/kundenkonto/bahnbonus](http://ttps//www.bahn.de/buchung/kundenkonto/bahnbonus)
+* per E-Mail an [bahnbonus-service@bahn.de](mailto:bahnbonus-service@bahn.de)
+* telefonisch beim BahnBonus Service
+* per Post an: DB Fernverkehr AG, BahnBonus Service, 60644 Frankfurt am Main
 
-Nach erfolgter Kündigung des Teilnehmers verfallen alle angesammelten BahnBonus Punkte sowie ein etwaiges Statuslevel und es können keine neuen BahnBonus Punkte gesammelt werden.
+Nach erfolgter Kündigung verfallen alle angesammelten BahnBonus Punkte sowie ein etwaiges Statuslevel und Statusvorteile und BahnBonus Leistungen. Es können keine neuen BahnBonus Punkte gesammelt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-bahnbonus-teilnahme-kuendigen)
 
  Wann muss ich mich als BahnBonus Teilnehmer:in ausweisen?
 ----------
 
-Bei personalisierten Fahrkartenprämien müssen Sie sich im Zug legitimieren. Das geht zum Beispiel mit Ihrer BahnCard, der BahnBonus Card oder der digitalen BahnBonus Karte, die in der BahnBonus App zu finden ist.
+Bei Fahrkartenprämien, die nur für BahnBonus Teilnehmende persönlich gelten, bei exklusiven BahnBonus Sparpreisangeboten und bei der Nutzung von Statusvorteilen, müssen Sie sich im Zug legitimieren. Das geht mit Ihrer BahnCard, der BahnBonus Card oder der digitalen BahnBonus Karte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-muss-ich-mich-als-bahnbonus-teilnehmer-in-ausweisen)
 
  Wie kann ich mich als BahnBonus Teilnehmer:in ausweisen?
 ----------
 
-Die Legitimierung erfolgt mit Hilfe der BahnBonus Card oder der digitalen BahnBonus Karte, die in der BahnBonus App und der App DB Navigator zu finden ist. Die digitale BahnBonus Statuskarte ist nur in der BahnBonus App aufrufbar.
+Die Legitimierung erfolgt mit Hilfe der BahnBonus Card oder der digitalen BahnBonus Karte, die in der BahnBonus App und der App DB Navigator zu finden ist.
+
+Ihren Status können Sie nur mit der digitalen BahnBonus Karte in der BahnBonus App nachweisen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mich-als-bahnbonus-teilnehmer-in-ausweisen)
 
@@ -5263,9 +5265,16 @@ Um Ihre E-Mail Adresse zu ändern, loggen Sie sich in Ihrem Kundenkonto ein.
  Wo finde ich Datenschutzhinweise zu BahnBonus?
 ----------
 
-[Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie hier.](https://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahnbonus)
+Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie [hier](http://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahnbonus).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-datenschutzhinweise-zu-bahnbonus)
+
+ Wie kann ich mich zum BahnBonus Programm anmelden?
+----------
+
+[Hier](http://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)können Sie sich zu BahnBonus anmelden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden)
 
  Kann ich meine Prämienpunkte auf bahn.de direkt in ein Digitales Ticket eintauschen?
 ----------

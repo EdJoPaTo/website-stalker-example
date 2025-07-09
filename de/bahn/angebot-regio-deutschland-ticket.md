@@ -18,7 +18,7 @@ Ihre Vorteile
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
-Sie müssen sich nur einmal im Aboportal registrieren, danach können Sie sich einfach einloggen und buchen.
+Sie müssen sich nur einmal für ein Kundenkonto registrieren, danach können Sie sich einfach einloggen und buchen.
 
 Häufig gestellte Fragen
 ----------
