@@ -33,10 +33,6 @@ Debian (12) Bookworm
 
 Minimal System, lediglich SSH ist vorinstalliert
 
-FreeBSD 12
-
-Minimal System, lediglich SSH ist vorinstalliert
-
 FreeBSD 13
 
 Minimal System, lediglich SSH ist vorinstalliert
@@ -50,10 +46,6 @@ Rocky Linux 8
 Minimal System, lediglich SSH ist vorinstalliert
 
 Rocky Linux 9
-
-Minimal System, lediglich SSH ist vorinstalliert
-
-Ubuntu 20.04 LTS
 
 Minimal System, lediglich SSH ist vorinstalliert
 
@@ -77,6 +69,18 @@ Ubuntu 24.04 LTS arm64
 
 Minimal System, lediglich SSH ist vorinstalliert
 
+Almalinux 9 arm64
+
+Minimal System, lediglich SSH ist vorinstalliert
+
+FreeBSD 14 arm64
+
+Minimal System, lediglich SSH ist vorinstalliert
+
+Rockylinux 9 arm64
+
+Minimal System, lediglich SSH ist vorinstalliert
+
 CD-ROMs / DVDs zur Installation
 ----------
 
@@ -84,17 +88,13 @@ Neben Images, stellen wir im SCP auch Installations-CD-ROMs bereit. Von diesen k
 
 Verfügbare CD-ROMs / DVDs
 
-AlmaLinux 8.7
-
 AlmaLinux 9.1
 
 Arch Linux 2024.05.01
 
-Debian 10.12 Buster Netinstall
+Debian 11 Bullseye Netinstall
 
-Debian 11.9 Bullseye Netinstall
-
-Debian 12.5 Bookworm Netinstall
+Debian 12 Bookworm Netinstall
 
 Finnix
 
@@ -118,15 +118,13 @@ Rocky Linux 9.1
 
 System Rescue CD 9.03
 
-Ubuntu 20.04.6 Live Server
-
-Ubuntu 22.04.4 Live Server
+Ubuntu 22.04 Live Server
 
 Ubuntu 24.04 Live Server
 
-Windows Server 2019 DE-DE zur Evaluierung (180 Tage)
+Windows Server 2022 DE-DE zur Evaluierung (180 Tage)
 
-Windows Server 2019 EN-US for Evaluation (180 Days)
+Windows Server 2022 EN-US zur Evaluierung (180 Tage)
 
 Windows Treiber / Driver
 
