@@ -68,7 +68,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Plug S MTR Gen3](https://kb.shelly.cloud/knowledge-base/shelly-plug-s-mtr-gen3)
 * [Shelly Outdoor Plug S Gen3](https://kb.shelly.cloud/knowledge-base/outdoor-plug-s-gen3)
 * [Shelly Dimmer Gen3](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen3)
-* [Shelly DALI Dimmer Gen3](https://kb.shelly.cloud/knowledge-base/shelly-dali-dimmer-gen3)
+* [Shelly DALI Dimmer Gen3](https://kb.shelly.cloud/knowledge-base/shelly-dali-dimmer-gen3-1)
 * [Shelly EM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-em-gen3)
 * [Shelly 3EM-63 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-3em-63-gen3)
 * [Shelly Mini Gen3 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen3-devices)

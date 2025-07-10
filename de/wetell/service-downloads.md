@@ -25,7 +25,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [Preisliste Sonderrufnummern](/media/filer_public/41/be/41bec59f-5359-45d1-a738-ec5d06afc939/preisliste_sonderrrufnummern.pdf)
   * [Preisliste Premium-SMS](/media/filer_public/b0/67/b067f2c0-b457-46e3-9b3f-94d1e40b0559/preisliste_premiumsms.pdf)
   * [Preisliste Premium-Voice](/media/filer_public/dc/5f/dc5f964e-9545-47bd-bbed-b53c67f8e599/preisliste_premiumvoice.pdf)
-  * [Preisliste Roaming](/media/filer_public/93/f3/93f332ec-7e2a-40b2-8ffb-4190c69f06ba/preisliste_roaming.pdf)
+  * [Preisliste Roaming](/media/filer_public/b5/4e/b54e88e5-e521-471c-8f7d-18f87cc0f7eb/wetell_pl_roaming_2025-06.pdf)
 
 * #### Produktinformationsblätter ####
 
