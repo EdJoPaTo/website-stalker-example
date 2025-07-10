@@ -523,17 +523,6 @@ Eine Stornierung einzelner Reisender ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
 
- Bekomme ich Rabatt auf den Super Sparpreis Gruppe mit der BahnCard oder BahnBonus Card?
-----------
-
-Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewährt werden.
-
-[Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
-
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-super-sparpreis-gruppe)
-
  Wo kann ich den Sparpreis Gruppe buchen?
 ----------
 
@@ -5280,6 +5269,20 @@ Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie [hier](http://www.db-f
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden)
 
+ Brauche ich eine BahnCard, um mich zum BahnBonus Programm anzumelden?
+----------
+
+Nein, für die Teilnahme am BahnBonus Programm brauchen Sie keine BahnCard.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden-mit-bahncard)
+
+ Welche Vorteile habe ich als BahnCard-Inhaber:in bei Anmeldung zum BahnBonus Programm?
+----------
+
+Mit der Teilnahme am BahnBonus Programm, profitieren Sie als BahnCard Besitzer:in bei BahnCard- und Fahrkartenkäufen, nicht nur von dem Rabatt Ihrer BahnCard, sondern sammeln gleichzeitig auch Prämien- und Statuspunkte. Als Vielfahrer können Sie somit auch einen BahnBonus Statuslevel erreichen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden-vorteile-mit-bahncard)
+
  Wie bzw. wo kann ich meine Gutscheine für eine Bahnprämie einlösen?
 ----------
 
@@ -5567,7 +5570,7 @@ Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhi
 
 Um BahnBonus Prämien- und Statuspunkte zu sammeln, müssen Sie sich vorab kostenfrei anmelden. Ihre BahnBonus Prämien- und Statuspunkte werden in der Regel zum ersten Geltungstag der Fahrkarte gutgeschrieben. Eine nachträgliche Gutschrift Ihrer BahnBonus Prämien- und Statuspunkte ist nicht möglich.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-werde-nicht-gutgeschrieben)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-werden-nicht-gutgeschrieben)
 
  Bekomme ich BahnBonus Punkte, wenn ich mit einem Gutschein bezahle?
 ----------
@@ -5694,6 +5697,34 @@ Gesammelte Punkte bleiben bei einem BahnCard Upgrade erhalten.
 Tragen Sie hierfür auf dem BahnCard Bestellschein im DB Reisezentrum die Nummer Ihrer bisherigen Karte ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfallen-bahnbonus-praemien-und-statuspunkte-die-ich-schon-erworben-habe-bei-einem-bahncard-upgrade)
+
+ Kann ich auch ohne BahnCard BahnBonus Punkte sammeln?
+----------
+
+Ja, die BahnCard ist keine Voraussetzung, um BahnBonus Punkte zu sammeln: Auch ohne die BahnCard können Sie BahnBonus Prämien- und Statuspunkte sammeln, sofern Sie zu BahnBonus angemeldet sind. Der Besitz einer BahnCard bietet Ihnen lediglich Vorteile beim Sammeln von BahnBonus Punkten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-ohne-bahncard)
+
+ Wie funktioniert das Sammeln von BahnBonus Punkten mit der BahnCard?
+----------
+
+Ihre BahnCard-Nummer und BahnBonus-Nummer sind in einem Kundenkonto verknüpft und können dieselbe Sammelnummer enthalten. Das bedeutet, bei Fahrkartenkäufen mit Angabe Ihrer BahnCard-Nummer, sammeln Sie gleichzeitig Prämien- und Statuspunkte. Auch beim Erwerb und bei Verlängerungen Ihrer BahnCard, werden Ihnen BahnBonus Punkte gutgeschrieben. Vorausgesetzt, der Sammelwunsch ist angegeben oder das automatische Sammeln aktiviert.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-wie-mit-bahncard)
+
+ Wenn ich auf ein Ticket meinen BahnCard Rabatt bekomme, bekomme ich dann nur Punkte für den reduzierten Preis?
+----------
+
+Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-bahncard-und-reduziertem-ticket)
+
+ Was passiert mit meinen BahnBonus Punkten, wenn ich eine neue BahnCard erhalte?
+----------
+
+Ihr Punktekonto bleibt erhalten. Reine Änderungen an der BahnCard, zum Beispiel ein Upgrade, haben keine Auswirkungen auf Ihr BahnBonus Punktekonto, sofern die neue BahnCard im selben Kundenkonto bestellt wird.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard)
 
  Welche Vorteile bringen mir die drei BahnBonus Statuslevel?
 ----------

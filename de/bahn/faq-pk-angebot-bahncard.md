@@ -1462,6 +1462,13 @@ Aktuell sind verstärkt betrügerische Aktivitäten basierend auf sogenannten Ph
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/6-warum-kann-ich-sparpreis-tickets-nicht-mit-lastschrift-bezahlen)
 
+ Kann ich als BahnCard 100 Inhaber:in auch BahnBonus Punkte sammeln?
+----------
+
+Als BahnCard 100 Inhaber:in können Sie sich zu BahnBonus anmelden und ebenfalls BahnBonus Prämien- und Statuspunkte (z.B. für den Kauf der BahnCard oder Prämienpunkte bei BahnBonus Sammelpartnern) sammeln.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-als-bahncard-100-inhaber-in-auch-bahnbonus-punkte-sammeln)
+
  Wie wird die BahnCard 100 und das Deutschland-Ticket im Zug kontrolliert?
 ----------
 
