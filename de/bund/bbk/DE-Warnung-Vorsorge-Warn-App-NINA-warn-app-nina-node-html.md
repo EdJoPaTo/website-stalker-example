@@ -51,9 +51,9 @@ Nachfolgend erhalten Sie **Schritt-für-Schritt-Anleitungen** sowie spezielle he
 
 Die Informationen und Anleitungen zu wichtigen Smartphone-Einstellungen von Betriebssystemen und Geräteherstellern werden fortlaufend aktualisiert.
 
-[### Einstellungen für iOS ### Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
+[Einstellungen für iOS Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
 
-[### Einstellungen für Android ### Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
+[Einstellungen für Android Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
 
 Funktionen und Inhalte der Warn-App
 ----------
@@ -235,14 +235,14 @@ Diese Meldungen können auch ortsbezogen ausgewählt werden. Sie können per **R
  Weiterführende Informationen
 ----------
 
-[### Betatest Geofencing ### Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Betatest/betatest_node.html)
+[Betatest Geofencing Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Betatest/betatest_node.html)
 
-[### iOS-Einstellungen für Push-Nachrichten ### Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
+[iOS-Einstellungen für Push-Nachrichten Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
 
-[### Android-Einstellungen für Push-Nachrichten ### Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
+[Android-Einstellungen für Push-Nachrichten Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
 
-[### Funktionen und Inhalte der Warn-App NINA ### Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/funktion-inhalt_node.html)
+[Funktionen und Inhalte der Warn-App NINA Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/funktion-inhalt_node.html)
 
-[### Rechtliches: Impressum und Datenschutzerklärung ### Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
+[Rechtliches: Impressum und Datenschutzerklärung Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
 
 [Warnung & Vorsorge](DE/Warnung-Vorsorge/warnung-vorsorge_node.html)
