@@ -204,7 +204,7 @@ FAQs
 Close
 
 * German (2nd Gen)
-* US English (2nd Gen)  Ships in 1-2 weeks.
+* US English (2nd Gen)
 * International English (2nd Gen)
 * Blank ANSI (2nd Gen) +€11
 * Blank ISO (2nd Gen) +€11
