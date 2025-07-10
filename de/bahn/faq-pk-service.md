@@ -5374,6 +5374,60 @@ Je nach bestellter Prämie erfolgt die Zustellung per E-Mail als Paket oder per 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-meine-praemie)
 
+ Kann ich bereits bestellte Prämien umtauschen, erstatten oder reklamieren?
+----------
+
+Unsere Prämien sind von Umtausch, Erstattung oder (Teil-)Auszahlung ausgeschlossen. Im Falle eines Defekts einer Sachprämie, nutzen Sie bitte unser Kontaktformular.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-umtauschen)
+
+ Wie kann ich eine bereits bestellte Prämie widerrufen?
+----------
+
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag in Textform (z. B. Brief, E-Mail) zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-widerrufen)
+
+ Bei der Buchung einer Bahnprämie kam es zu einem Abbruch und meine Punkte waren weg, wann werden diese wieder gutgeschrieben?
+----------
+
+Wenn Sie keine Buchungsbestätigung erhalten haben, werden die Punkte Ihrem Konto in der Regel innerhalb von 60 Minuten wieder gutgeschrieben.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemienbestellung-abbruch)
+
+ Ist bei meiner Prämie 1. Klasse Upgrade eine Sitzplatzreservierung inklusive?
+----------
+
+Nein, eine kostenfreie Sitzplatzreservierung gibt es nur beim Flexpreis in der 1. Klasse.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemien-1klasseupgrade-sitzplatzreservierung)
+
+ Wie buche ich eine kostenpflichtige Sitzplatzreservierung zu meiner Prämie 1. Klasse Upgrade?
+----------
+
+Ihre Sitzplatzreservierung buchen Sie in einem separaten Buchungsvorgang
+
+Über die Website bahn.de:
+
+1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
+2. Klicken Sie auf "Nur Sitzplatz buchen".
+
+Über die App DB Navigator:
+
+1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
+2. Unter "Nur Reservierung" können Sie den Sitzplatz wählen.
+
+Alternativ können Sie auf der Startseite die Suche für eine "Einfache Fahrt" auf "Nur Sitzplatz (ohne Ticket)" ändern.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-1klasseupgrade-buchen)
+
+ Was passiert, wenn ich eine Prämie bestellen möchte und keine E-Mail-Adresse habe?
+----------
+
+Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-bestellen-keine-emailadresse)
+
  Wie kann ich ein BahnBonus Statuslevel erreichen?
 ----------
 
@@ -5425,6 +5479,15 @@ Fällt Ihr Statuspunktestand unter die Punkteschwelle Ihres aktuellen Statusleve
 Steigt Ihr Statuspunktestand, bis zur Punkteschwelle des höheren Statuslevels, steigen Sie direkt in das höhere Level auf, erhalten direkt dessen Statusvorteile. Die nicht genutzten Vorteile aus Ihrem vorherigen Statuslevel verfallen und die Statuslaufzeit von zwölf Monaten beginnt von Neuem.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-statuspunktestand-waehrend-der-statuslaufzeit-unter-die-punkteschwelle-meines-levels-faellt)
+
+ Was passiert, wenn ich während meiner Statuslaufzeit die Punkteschwelle für das nächsthöhere Statuslevel erreiche?
+----------
+
+Ihr Statuslevel aktualisiert sich automatisch. Ihnen stehen die Vorteile des höheren Statuslevels mit Erreichen der Punkteschwelle zur Verfügung. Die Laufzeit für das neue Level beträgt ab diesem Zeitpunkt erneut zwölf Monate.
+
+Die nicht genutzten Vorteile verfallen beim Aufstieg in ein höheres Level und werden nicht aufaddiert.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-ich-waehrend-meiner-statuslaufzeit-die-punkteschwelle-fuer-das-naechsthoehere-statuslevel-erreiche)
 
  Behalte ich mein Statuslevel, wenn ich mich von BahnBonus abmelde?
 ----------
