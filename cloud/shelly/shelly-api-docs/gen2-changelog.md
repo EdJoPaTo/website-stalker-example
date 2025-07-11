@@ -14,6 +14,40 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Unreleased
 ----------
 
+**Available as `1.7.0-beta3`**
+
+### Added ###
+
+* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) Add BTHomeControl revision in [Sys.Status](/gen2/ComponentsAndServices/Sys#status)
+* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) Add learning progress notifications
+* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) Add support for [Pro1](/gen2/Devices/Gen2/ShellyPro1), [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM) and [1L Gen3](/gen2/Devices/Gen3/Shelly1LG3)
+
+### Fixed ###
+
+* [BLE](/gen2/ComponentsAndServices/BLE) Don't disable coexistence when BLE is disabled
+* [Matter](/gen2/ComponentsAndServices/Matter) Fix misprovisioned devices
+* System LED: Fix indication for network/factory reset
+* [Scripting](/gen2/ComponentsAndServices/Script) Clean up scripts Stop()/HandleError() teardown
+* RMT, DALI, LedStrip: Change clock source to XTAL
+* [EM Gen3](/gen2/Devices/Gen3/ShellyEMG3) Fix incorrect readings with 80A CT clamps
+* [Sensor Addon](/gen2/Addons/ShellySensorAddon) Fix crashes on removal of DS18B20 sensors
+* [Cover](/gen2/ComponentsAndServices/Cover) Fix error messages in MQTT control
+* [PlusRGBW PM](/gen2/Devices/Gen2/ShellyPlusRGBWPM) Fix crashes on overcurrent error
+* [AZ Plug](/gen2/Devices/Gen3/ShellyAZPlug) Update FFS certificate chain
+* [Cover](/gen2/ComponentsAndServices/Cover) Reduce event notifications load in scripting
+* [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Bring back Zigbee model names as prior to `1.7.0-beta2`
+
+### Local web ###
+
+### Fixed ###
+
+* [WiFi](/gen2/ComponentsAndServices/WiFi) Fix disabling WiFi when AP config doesn't exist
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee) Fix Zigbee enable/disable
+* [Cover](/gen2/ComponentsAndServices/Cover) Drop warning messages that only apply to Switch profile
+* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) UI improvements
+
+### Fixed ###
+
 **Available as `1.7.0-beta2`**
 
 ### Added ###
