@@ -398,14 +398,6 @@ sites:
           replace: h4
       - html_markdownify
 
-  - url: https://gnorp.dev/news/
-    editors:
-      - rss:
-          item_selector: "#main .preview"
-          title_selector: .title
-          content_editors:
-            - css_select: .date, .preview-content
-
   - url:
       - https://www.openhomefoundation.org/
       - https://www.openhomefoundation.org/projects/
