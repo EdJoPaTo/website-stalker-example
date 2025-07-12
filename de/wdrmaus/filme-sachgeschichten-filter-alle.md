@@ -228,7 +228,6 @@
 * [Dinosaurier](https://www.wdrmaus.de/filme/sachgeschichten/dinosaurier.php5)
 * [Dinosauriermodell](https://www.wdrmaus.de/filme/sachgeschichten/dinosauriermodell.php5)
 * [Domglocke Klöppel](https://www.wdrmaus.de/filme/sachgeschichten/domglocke.php5)
-* [Donner](https://www.wdrmaus.de/filme/sachgeschichten/donner.php5)
 * [Dosenöffner](https://www.wdrmaus.de/filme/sachgeschichten/dosenoeffner.php5)
 * [Drehwurm](https://www.wdrmaus.de/filme/sachgeschichten/drehwurm.php5)
 * [Dresdner Frauenkirche](https://www.wdrmaus.de/filme/sachgeschichten/dresdner_frauenkirche.php5)
