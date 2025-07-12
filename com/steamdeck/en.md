@@ -6,7 +6,7 @@
 
 ]()
 
-[Steam Deck OLED](https://www.steamdeck.com/en/oled) [Steam Deck LCD](https://www.steamdeck.com/en/deck) [Dock](https://www.steamdeck.com/en/dock) [Software](https://www.steamdeck.com/en/software) [Deck Verified](https://www.steamdeck.com/en/verified) [Tech Specs](https://www.steamdeck.com/en/tech) [Buy Now](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
+[Steam Deck OLED](https://www.steamdeck.com/en/oled) [Steam Deck LCD](https://www.steamdeck.com/en/deck) [Dock](https://www.steamdeck.com/en/dock) [Software](https://www.steamdeck.com/en/software) [Deck Verified](https://www.steamdeck.com/en/verified) [Tech Specs](https://www.steamdeck.com/en/tech) [](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
 []()
 
@@ -39,8 +39,6 @@ Your games, everywhere
 Compare Steam Decks
 ----------
 
-$399.00
-
 ### 256GB LCD ###
 
 * 256GB NVMe SSD
@@ -54,8 +52,6 @@ $399.00
 * Carrying case
 * Steam profile bundle
 
-$549.00
-
 ### 512GB OLED ###
 
 * 512GB NVMe SSD
@@ -68,8 +64,6 @@ $549.00
 * 45W power supply with 2.5m cable
 * Carrying case
 * Steam profile bundle
-
-$649.00
 
 ### 1TB OLED ###
 
@@ -90,13 +84,6 @@ $649.00
 Available now. [View on Steam](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
 © MARVEL 2022
-
-Get your hands on Deck!
-----------
-
-Steam Deck is shipping now.
-
-[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)
 
 [](https://www.steamdeck.com/en/)
 

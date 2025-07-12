@@ -69,10 +69,3 @@ SteamOS also comes with Proton, a compatibility layer that makes it possible to 
 ### It’s a Linux system, you know this! ###
 
 The new version of SteamOS is optimized for handheld gaming, and it won't get in your way with other stuff. But if you want to get your hands dirty, head on out to the desktop.
-
-Get your hands on Deck!
-----------
-
-Steam Deck is shipping now.
-
-[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com)

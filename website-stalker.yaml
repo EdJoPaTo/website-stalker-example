@@ -323,7 +323,8 @@ sites:
   - url: https://www.steamdeck.com/en/
     editors:
       - css_select: body
-      - css_remove: "style, img, video, #language-dropdown"
+      - css_remove: "style, img, video, .deck_price_final, #handson"
+      - css_remove: ".reserve button, #language-dropdown"
       - html_url_canonicalize
       - html_markdownify
   - url:
@@ -331,7 +332,11 @@ sites:
       - https://www.steamdeck.com/en/software
     editors:
       - css_select: "#content"
-      - css_remove: style, img, video, .main_footer
+      - css_remove: "style, img, video, .deck_price_final, #handson"
+      - css_remove: .main_footer
+      - regex_replace:
+          pattern: '[\d,]+€|[$£][\d.]+'
+          replace: 13,37€
       - html_url_canonicalize
       - html_markdownify
   - url: https://www.steamdeck.com/en/tech
