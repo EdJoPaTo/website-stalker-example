@@ -32,7 +32,7 @@ Welche Kosten entstehen für mich?
 
 Das UIC-Sicherheitsportal ist für alle ticketkontrollierenden Organisationen kostenlos. Für die Nutzungsvereinbarung gibt es eine Vorlage für [einen Unterzeichner](https://yousign.app/workflows/forms/a90004aa-8433-4c3a-8e23-1ca6933ee7f0) sowie für [zwei Unterzeichner](https://yousign.app/workflows/forms/f674eb2c-5932-4d9e-900d-cecde6be6c64).
 
-Ticketausgeberinnen zahlen eine Pauschale für die Nutzung des UIC-Sicherheitsportals sowie je ausgegebenem Ticket einen Fixpreis. Dieser Preis enthält die Erstellung des Ausgabenachweises und die Bereitstellung eines UIC-Barcodes. Details können Sie der Nutzungsvereinbarung entnehmen. Diese erhalten Sie auf Anfrage per E-Mail an \*protected email\*.
+Ticketausgeberinnen zahlen eine Pauschale für die Nutzung des UIC-Sicherheitsportals sowie je ausgegebenem Ticket einen Fixpreis. Dieser Preis enthält die Erstellung des Ausgabenachweises und die Bereitstellung eines UIC-Barcodes. Details können Sie der Nutzungsvereinbarung entnehmen. Diese erhalten Sie auf Anfrage per E-Mail an .
 Die Kosten für die technische Anbindung an das UIC-Sicherheitsportal muss jedes Unternehmen selbst tragen.
 
 Wie bekomme ich Zugang?
@@ -43,13 +43,13 @@ Den [Zugang zum Sicherheitsportal gibt es hier](http://sicherheitsportal.deutsch
 Wie kann ich mitmachen?
 ----------
 
-Über Ihre Registrierung im [UIC-Sicherheitsportal](https://sicherheitsportal.deutschlandtarifverbund.de/login) werden wir automatisch informiert. Über Ihre Registrierung im UIC-Sicherheitsportal werden wir automatisch informiert. Ticketkontrollierende Organisationen unterzeichnen die Nutzungsvereinbarung: Entweder die Vorlage für [einen Unterzeichner](https://yousign.app/workflows/forms/a90004aa-8433-4c3a-8e23-1ca6933ee7f0) oder die für [zwei Unterzeichner](https://yousign.app/workflows/forms/f674eb2c-5932-4d9e-900d-cecde6be6c64). Die [technische Dokumentation zur Anbindung können Sie hier](../wp-content/uploads/2025/06/Anlage_4_UIC-Sicherheitsportal_API-Dokumentation-1.pdf) abrufen.
+Über Ihre Registrierung im [UIC-Sicherheitsportal](https://sicherheitsportal.deutschlandtarifverbund.de/login) werden wir automatisch informiert. Über Ihre Registrierung im UIC-Sicherheitsportal werden wir automatisch informiert. Ticketkontrollierende Organisationen unterzeichnen die Nutzungsvereinbarung: Entweder die Vorlage für [einen Unterzeichner](https://yousign.app/workflows/forms/a90004aa-8433-4c3a-8e23-1ca6933ee7f0) oder die für [zwei Unterzeichner](https://yousign.app/workflows/forms/f674eb2c-5932-4d9e-900d-cecde6be6c64). Die [technische Dokumentation zur Anbindung können Sie hier](../wp-content/uploads/2025/07/UIC-Sicherheitsportal_API-Dokumentation_v1-3.pdf) abrufen.
 Um das Produktivsystem als Ticketausgeberin zu nutzen, muss mit der DTVG eine separate Nutzungsvereinbarung unterzeichnet werden. Diese erhalten Sie auf Anfrage per E-Mail an \*protected email\*\*protected email\*.
 
 Wo gibt es die technische Anleitung und eine Dokumentation?
 ----------
 
-Die Informationen zum Systemzugang werden über eine sogenannte [Open-API Spezifikation](https://test.sicherheitsportal.deutschlandtarifverbund.de/scalar/v1) zur Verfügung gestellt. Mit dieser kann für die gängigsten Programmiersprachen Quellcode generiert werden. Den Zugang zu einem entsprechenden [Testsystem finden Sie hier](https://test.sicherheitsportal.deutschlandtarifverbund.de). Details zu technischen Grundlagen des Systems und den Schnittstellen halten wir auf einem aktuellen Stand. Das Dokument finden Sie [hier](../wp-content/uploads/2025/06/Anlage_4_UIC-Sicherheitsportal_API-Dokumentation-1.pdf).
+Die Informationen zum Systemzugang werden über eine sogenannte [Open-API Spezifikation](https://test.sicherheitsportal.deutschlandtarifverbund.de/scalar/v1) zur Verfügung gestellt. Mit dieser kann für die gängigsten Programmiersprachen Quellcode generiert werden. Den Zugang zu einem entsprechenden [Testsystem finden Sie hier](https://test.sicherheitsportal.deutschlandtarifverbund.de). Details zu technischen Grundlagen des Systems und den Schnittstellen halten wir auf einem aktuellen Stand. Das Dokument finden Sie [hier](../wp-content/uploads/2025/07/UIC-Sicherheitsportal_API-Dokumentation_v1-3.pdf).
 
 Was mache ich mit einem auffälligen Ticket?
 ----------
