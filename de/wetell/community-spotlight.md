@@ -1,6 +1,8 @@
 Spotlight
 ==========
 
+[Panelretter Kaum zu glauben, aber wahr: Jedes Jahr landen funktionstüchtige Solarmodule im Müll – nur wegen oberflächlicher Schönheitsfehler. Doch keine Sorge, die Rettung ist schon unterwegs! Die beiden Elektroingenieure Chris und Tilmann sagen dem Solarmüll den Kampf an. Und schenken aussortierten Modulen ein zweites Leben.](/spotlight/panelretter/)
+
 [everwave Jedes Jahr gelangen 11 Millionen Tonnen Plastikmüll in die Ozeane. Everwave hat es sich zur Aufgabe gemacht diesen aus den Flüssen zu fischen, bevor er ins Meer gespült wird. Mit speziellen Booten und einem ausgeklügelten System, beugen sie der Bildung von Mikroplastik vor. CEO Clemens hat uns exklusive Insights gegeben.](/spotlight/everwave/)
 
 [Avocadostore Nachhaltig einkaufen kann aufreibend und anstrengend sein. In welchem Produkt ist genug Nachhaltigkeit drin, welches ist nur zu grün gewaschen? Mit 10 Nachhaltigkeitskriterien verschafft Avocadostore uns einen Überblick darüber, welche Produkte wir mit gutem Gewissen kaufen können. Egal ob Yogamatten, Fashion oder Dinge für den alltäglichen Haushalt. Also haben wir Geschäftsführer Henning Voss ins WEtell Spotlight gesetzt. Click dich gleich mal rein.](/spotlight/avocadostore/)
