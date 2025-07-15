@@ -3289,7 +3289,7 @@ Alternativ können Sie Ihre **Entschädigung auch direkt bei Interrail/Eurail be
  Kann ich meine Fahrgastrechte im Reisezentrum bearbeiten lassen?
 ----------
 
-Bei Nichtantritt oder Abbruch der Reise wegen Verspätung, Zugausfall oder Anschlussverlust haben Sie die Möglichkeit, sich das Ticket direkt im DB Reisezentrum erstatten zu lassen und eine Auszahlung zu erhalten.
+Bei Nichtantritt oder Abbruch der Reise am Startbahnhof wegen Verspätung, Zugausfall oder Anschlussverlust haben Sie die Möglichkeit, sich das Ticket direkt im DB Reisezentrum erstatten zu lassen und eine Auszahlung zu erhalten.
 
 In folgenden Fällen erfolgt eine Bearbeitung des Antrags ausschließlich im Servicecenter Fahrgastrechte. Ihr in einem DB Reisezentrum eingereichter Antrag wird in diese Fällen immer zur Bearbeitung an das Servicecenter Fahrgastrechte weitergeleitet und Sie erhalten von dort eine Antwort.
 
@@ -3436,9 +3436,9 @@ Sie haben ein Anliegen, das nichts mit einer Verspätung/einem Zugausfall zu tun
  Innerhalb welcher Frist kann ich meine fahrgastrechtlichen Ansprüche geltend machen?
 ----------
 
-Die Verordnung (EU) 2021/782 sieht vor, dass Beschwerden innerhalb von **3 Monaten** nach dem Vorfall eingereicht werden müssen. Bitte machen Sie Ihre fahrgastrechtlichen Ansprüche daher innerhalb dieser 3-Monats-Frist geltend.
+Die Verordnung (EU) 2021/782 sieht vor, dass Beschwerden innerhalb von **12 Monaten** nach dem Vorfall eingereicht werden müssen. Bitte machen Sie Ihre fahrgastrechtlichen Ansprüche daher innerhalb dieser Frist geltend.
 
-Wir als DB agieren bis auf Weiteres kulant und werden die fahrgastrechtlichen Beschwerden auch nach Ablauf der 3-Monats-Frist annehmen und bearbeiten. Wir orientieren uns dabei an dem bisher bekannten 12-Monatszeitraum.
+Bitte beachten Sie, dass einige internationale Eisenbahnverkehrsunternehmen abweichende Fristen anwenden (z.B. 3 Monate). Hier kann es dann unter Umständen zu Fristüberschreitungen und Ablehnungen kommen, wenn ein Antrag dort zu spät eingereicht wird.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/innerhalb-welcher-frist-kann-ich-meine-fahrgastrechtsansprueche-geltend-machen)
 

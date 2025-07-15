@@ -215,7 +215,7 @@ Abkommen über die Weiterreise im internationalen Eisenbahn-Personenverkehr (AJC
 
 Das Abkommen über die Weiterreise (Agreement on Journey Continuation - kurz AJC) ist eine Vereinbarung zwischen 16 europäischen Bahnbetreibern, die es Passagieren in internationalen Zügen ermöglicht, ohne zusätzliche Kosten den nächsten verfügbaren Zug zu nehmen, falls sie ihren Anschlusszug verpasst haben.
 
-Die **beteiligten Eisenbahnverkehrsunternehmen** sind: BLS und/oder SBB/CFF (Schweiz), CD (Tschechische Republik), CFL (Luxemburg), DB (Deutschland), DSB (Dänemark), Eurostar International Limited1 (Vereinigtes Königreich, Frankreich, Belgien und die Niederlande), HŽPP (Kroatien), LTG Link (Litauen), MÁV Passenger Transport und/oder GYSEV (Ungarn), NS (Niederlande), ÖBB (Österreich), PKP IC (Polen), Renfe (Spanien), SJ (Schweden), SNCB/NMBS (Belgien), SNCF (Frankreich), SZ (Slowenien), THI Factory2 (Frankreich, Belgien, Deutschland und die Niederlande), Trenitalia (Italien), ZSSK (Slowakei).
+Die **beteiligten Eisenbahnverkehrsunternehmen** sind: BLS und/oder SBB/CFF (Schweiz), CD (Tschechische Republik), CFL (Luxemburg), DB (Deutschland), DSB (Dänemark), Eurostar International Limited1 (Vereinigtes Königreich, Frankreich, Belgien und die Niederlande), HŽPP (Kroatien), LTG Link (Litauen), MÁV Passenger Transport und/oder GYSEV (Ungarn), NS (Niederlande), ÖBB (Österreich), PKP IC (Polen), Renfe (Spanien), SJ und Snälltåget (Schweden), SNCB/NMBS (Belgien), SNCF (Frankreich), SZ (Slowenien), THI Factory2 (Frankreich, Belgien, Deutschland und die Niederlande), Trenitalia (Italien), ZSSK (Slowakei).
 
 Das **AJC-Abkommen stellt eine dokumentierte Kulanzregelung** dar. Es gibt keinen Rechtsanspruch.
 
@@ -277,5 +277,5 @@ Weitere Informationen
 * [Broschüre "Ihre Rechte als unser Fahrgast" (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-Broschuere-Ihre-Rechte-Als-Unser-Fahrgast.pdf)
 * [Fahrgastrechte für Menschen mit Behinderung](https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte)
 * [Direkt zum Fahrgastrechte-Formular als PDF (PDF, 138 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular-Deutsch.pdf)
-* [AJC Mitteilung (PDF, 212 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Vereinbarung-Mitteilung.pdf)
-* [AJC Merkblatt (PDF, 127 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Vereinbarung-Merkblatt.pdf)
+* [AJC Mitteilung (PDF, 212 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Mitteilung-072025.pdf)
+* [AJC Merkblatt (PDF, 193 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Merkblatt-072025.pdf)
