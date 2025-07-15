@@ -5,7 +5,35 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-* Alle (0) Flash Deals (0)
+* Alle (0) Flash Deals (1)
+
+Domains
+
+ FLASH DEAL
+
+### .eu Domain ###
+
+ 46% Rabatt
+
+statt 0,66 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat dauerhaft
+
+0,35 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/domain/aktion-.eu-domain-fjul25)
 
 Root-Server
 
