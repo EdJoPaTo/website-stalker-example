@@ -26,8 +26,8 @@ cirrus incus
   **Vorne:** 1x USB 3.1 Gen1 Type-C, 1x USB 3.1 Gen1 Type-A, 1x Mic-In, 1x Headset
   **Hinten:** 1xVGA, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x USB 3.1 Gen1 Type-A Port, 1x USB 2.0 Type-A Port, 1x 2.5GB LAN
 
-  **Vorne:** 1x USB 3.2 Gen1 Type-C, 1x USB 3.2 Gen2 Type-A, 1x Mic-In, 1x Headset
-  **Hinten:** 1xVGA, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x USB 3.2 Gen1 Type-C Port (USB-C / DP Alt mode), 2x USB 3.2 Gen1 Type-A Ports, 2x USB 2.0 Ports, 1 x 2.5 Gigabit LAN
+  **Vorne:** 1x USB 3.2 Gen2 Type-C, 1x USB 3.2 Gen2 Type-A, 1x Mic-In, 1x Headset
+  **Hinten:** 1xVGA, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x USB 3.2 Gen2 Type-C Port (USB-C / DP Alt mode), 2x USB 3.2 Gen2 Type-A Ports, 2x USB 2.0 Ports, 1 x 2.5 Gigabit LAN
 
   ##### Komplettsystem oder Gehäuse #####
 
