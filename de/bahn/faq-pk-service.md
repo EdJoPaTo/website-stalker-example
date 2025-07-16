@@ -3393,15 +3393,6 @@ Die Mitarbeiter:innen der DB Informationen und in den DB Reisezentren bestätige
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-darf-auf-dem-fahrgastrechte-formular-die-verspaetung-bestaetigen)
 
- Wo erhalte ich meine Entschädigung?
-----------
-
-* Haben Sie **im Zug, an einer DB Information oder im DB Reisezentrum Ihre Verspätung auf dem Fahrgastrechte-Formular bestätigt bekommen**, können Sie Ihre Entschädigung in einem DB Reisezentrum oder einer DB Agentur erhalten. Hierzu müssen Sie Ihre Daten seine Bahnreise in das Formular eintragen und das ausgefüllte Formular mit Originalfahrkarte (ausgenommen Zeitfahrkarten) einreichen.
-* Haben Sie **keine Bestätigung seiner Verspätung auf dem Fahrgastrechte-Formular erhalten, oder möchten Sie nur eine Kopie Ihrer Fahrkarte einreichen, oder sind Sie Inhaber:in einer Zeitfahrkarte oder besitzen eine Fahrkarte im grenzüberschreitenden Verkehr**, erhalten Sie Ihre Entschädigung ausschließlich über DB Dialog, Servicecenter Fahrgastrechte, 60647 Frankfurt am Main.
-* **Streckenzeitkarten/Zeitkarten** werden ausschließlich über das Servicecenter Fahrgastrechte entschädigt. Dabei ist für jede Verspätung ein eigenes Formular einzureichen. Es ist ausreichend, eine Kopie der Zeitkarte beizufügen. Falls Ihre Fahrkarte keinen Preisaufdruck hat, legen Sie bitte einen Kostennachweis bei, z.B. in Form einer Rechnung (Ausnahme: BahnCard 100).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-erhalte-ich-meine-entschaedigung)
-
  Wo kann ich weitere Aufwendungen aufgrund einer Verspätung geltend machen?
 ----------
 
