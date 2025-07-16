@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### erfurt ###
+### Ruhrgebiet bei nacht ###
 
-### 12. juli 2025 ###
+### 26.-27. Juli 2025 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/erfurt)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
 
 |     Events     |   2025   |   2026   |
 |----------------|----------|----------|
@@ -37,7 +37,7 @@ IN DEINER NÄHE!
 |   Mittersill   |21/06/2025|20/06/2026|
 | Weserbergland  |28/06/2025|13/06/2026|
 |   Düsseldorf   |05/07/2025|04/07/2026|
-|     Erfurt     |12/07/2025|          |
+|     Erfurt     |12/07/2025|11/07/2026|
 |Ruhrgebiet b. N.|26/07/2025|          |
 | Hamburg b. N.  |09/08/2025|          |
 |  Berlin b.N.   |30/08/2025|          |
