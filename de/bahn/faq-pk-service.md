@@ -6740,19 +6740,6 @@ Bitte loggen Sie sich hierzu mit Ihrem Benutzernamen und Passwort ein und rufen 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mich-neu-registriert-wo-kann-ich-meine-persoenlichen-daten-hinterlege)
 
- Was bedeutet "Angemeldet bleiben"?
-----------
-
-Mit der Nutzung der "Angemeldet bleiben"-Option entscheiden Sie bei Registrierung oder Login, ob Sie bei Ihrem nächsten Besuch direkt erkannt und mit Ihrem Namen angesprochen werden wollen. Sie erhalten damit persönliche Angebote und können die Website noch schneller nutzen.
-
-Bitte klicken Sie hierzu die Checkbox "Angemeldet bleiben" an.
-
-Die Nutzung der "Angemeldet bleiben-Option" ermöglicht keinen direkten Zugriff auf Ihr persönliches Kundenkonto. Weitere Informationen finden Sie auch in unseren
-
-* [Datenschutzhinweisen zum Kundenkonto.](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-angemeldet-bleiben)
-
  Ich habe eine BahnCard, aber kein Kundenkonto, um meine digitale BahnCard nutzen zu können.
 ----------
 
