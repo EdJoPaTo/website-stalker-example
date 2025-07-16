@@ -39,6 +39,8 @@ FAQs
 
 Close
 
+System
+
 * Max 385 - 32GB  Pre-order  €1,279
 
   * 8-core/16-thread CPU, up to 5.0GHz
@@ -122,6 +124,8 @@ FAQs
 
 Close
 
+Primary Storage (M.2 2280)
+
 * WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€79
 * WD\_BLACK™ SN7100 NVMe™- M.2 2280 - 1TB +€115
 * WD\_BLACK™ SN7100 NVMe™- M.2 2280 - 2TB +€229
@@ -148,6 +152,8 @@ FAQs
   Framework Desktop can boot off of either storage socket, so both are optional. You can populate both at the same time.
 
 Close
+
+Secondary Storage (M.2 2280)
 
 * WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€79
 * WD\_BLACK™ SN7100 NVMe™- M.2 2280 - 1TB +€115
@@ -179,6 +185,8 @@ FAQs
   Ubuntu, Fedora, and Bazzite work out of the box. Linux Mint, Arch Linux and Nobara are community supported. You can learn more from our Linux on the Framework Desktop page.
 
 Close
+
+Operating System
 
 * Windows 11 Home (Download) +€145
 * Windows 11 Pro (Download) +€259
@@ -213,6 +221,8 @@ FAQs
 
 Close
 
+CPU Fan
+
 * Cooler Master - Mobius 120 +€20
 * Cooler Master - Mobius 120p ARGB +€33
 * Noctua - NF-A12x25 HS-PWM +€33
@@ -239,6 +249,8 @@ FAQs
 
 Close
 
+Power Cable
+
 * AC Cable - C13 - US/CA +€6
 * AC Cable - C13 - EU +€6
 * AC Cable - C13 - AU +€6
@@ -254,6 +266,8 @@ Close
  Choose an option
 
  Batch Number  Configure to see batch
+
+Side Panel
 
 * Black
 * Translucent +€45
@@ -280,6 +294,8 @@ FAQs
 Close
 
 Framework Desktop has 21 tile slots in the front for you to customize freely, you can choose different tile packs with base colors, special tiles with logos or even [3D print your own tiles](https://github.com/FrameworkComputer/Framework-Desktop)! We recommend ordering 21 tiles minimum.
+
+Tiles
 
 Most popular combination
 
@@ -454,6 +470,8 @@ Close
 Customize your ports with the Expansion Card system.
 
 We suggest ordering at least 2 Expansion Cards. If you order fewer than 2, you will have empty slots in the front of your Framework Desktop.
+
+Expansion Cards
 
 Most popular combination
 

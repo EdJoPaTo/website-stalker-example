@@ -16,6 +16,8 @@ Framework Laptop 12
 
  Batch Number  Configure to see batch
 
+Color
+
 * Black
 * Gray
 * Lavender
@@ -50,6 +52,8 @@ FAQs
   M.2 2230 Wi-Fi modules supporting PCIe, USB and up to WiFi 6E should work. Intel AX211 Wi-Fi 6E is tested for compatibility.
 
 Close
+
+System
 
 * i3-1315U  Pre-order  €569
 
@@ -326,6 +330,8 @@ Close
 
 Runs at DDR5-5200 speed on Framework Laptop 12.
 
+Memory
+
 * DDR5-5600 - 8GB (1 x 8GB) +€45
 * DDR5-5600 - 16GB (1 x 16GB)  Ships in 2-3 weeks. +€90
 * DDR5-5600 - 32GB (1 x 32GB)  Ships in 2-3 weeks. +€180
@@ -349,6 +355,8 @@ FAQs
 
 Close
 
+Storage
+
 * WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB +€109
 * WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB +€179
 * WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB +€299
@@ -370,6 +378,8 @@ FAQs
   Yes! We have installation guides for Fedora, Ubuntu, and Bazzite. Additionally, the Framework Community has community-edited setup guides for more Linux distributions.
 
 Close
+
+Operating System
 
 * Windows 11 Home (Download) +€145
 * Windows 11 Pro (Download) +€259
@@ -394,6 +404,8 @@ FAQs
   Yes! If you ever want to to move to a different keyboard language or need to replace your keyboard for any other reason, you can do that. Both individual keyboards and replacement Input Covers are available in the Framework Marketplace.
 
 Close
+
+Keyboard
 
 * German - Gray
 * International English - Gray
@@ -420,6 +432,8 @@ Close
  Choose an option
 
  Batch Number  Configure to see batch
+
+Power Adapter
 
 * Power Adapter - 60W - EU +€49
 * Power Adapter - 60W - UK +€49
@@ -464,6 +478,8 @@ Close
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 12.
 
 We suggest ordering 4 or more Expansion Cards, and that at least 1 is a USB-C Expansion Card for charging the laptop.
+
+Expansion Cards
 
 Most popular combination
 

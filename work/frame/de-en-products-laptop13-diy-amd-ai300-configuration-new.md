@@ -45,6 +45,8 @@ FAQs
 
 Close
 
+System
+
 * Ryzen™ AI 5 340  €1,059
 
   6-core/12-thread, up to 4.8GHz
@@ -66,6 +68,8 @@ Close
 **Display**
 
  Choose an option
+
+Display
 
 * Matte Display
 
@@ -94,6 +98,8 @@ FAQs
   DDR5 SO-DIMMs up to 48GB each at up to to DDR5-5600 speeds are compatible with the Framework Laptop 13. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility. We recommend avoiding XMP DDR5.
 
 Close
+
+Memory
 
 * DDR5-5600 - 8GB (1 x 8GB) +€45
 * DDR5-5600 - 16GB (2 x 8GB) +€90
@@ -124,6 +130,8 @@ FAQs
 
 Close
 
+Storage
+
 * WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€79
 * WD\_BLACK™ SN7100 NVMe™- M.2 2280 - 1TB +€115
 * WD\_BLACK™ SN7100 NVMe™- M.2 2280 - 2TB +€229
@@ -149,6 +157,8 @@ FAQs
 
 Close
 
+Operating System
+
 * Windows 11 Home (Download) +€145
 * Windows 11 Pro (Download) +€259
 * None (bring your own)
@@ -170,6 +180,8 @@ FAQs
   Bezels in a range of colors are now available as a configurable option for the latest versions of the Framework Laptop 13 DIY Edition. You can also find a variety of Bezels Framework Marketplace.
 
 Close
+
+Bezel
 
 * Black
 * Orange +€10
@@ -203,6 +215,8 @@ FAQs
 
 Close
 
+Keyboard
+
 * German (2nd Gen)
 * US English (2nd Gen)
 * International English (2nd Gen)
@@ -229,6 +243,8 @@ Close
 **Power Adapter**
 
  Choose an option
+
+Power Adapter
 
 * Power Adapter - 60W - EU +€49
 * Power Adapter - 60W - UK +€49
@@ -271,6 +287,8 @@ Close
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 13.
 
 We suggest ordering 4 or more Expansion Cards, and that at least one is a USB-C Expansion Card for charging the laptop.
+
+Expansion Cards
 
 Most popular combination
 
