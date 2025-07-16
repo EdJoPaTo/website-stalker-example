@@ -49,19 +49,19 @@ Close
 
   6-core/12-thread, up to 4.8GHz
 
-   Ships within five business days.
+   Ships in 5 business days if you bring your own Memory. Otherwise, ships in 2-3 weeks.
 
 * Ryzen™ AI 7 350  €1,459
 
   8-core/16-thread, up to 5.0GHz
 
-   Ships within five business days.
+   Ships in 5 business days if you bring your own Memory. Otherwise, ships in 2-3 weeks.
 
 * Ryzen™ AI 9 HX 370  €1,939
 
   12-core/24-thread, up to 5.1GHz
 
-   Ships within five business days.
+   Ships in 5 business days if you bring your own Memory. Otherwise, ships in 2-3 weeks.
 
 **Display**
 
@@ -96,13 +96,13 @@ FAQs
 Close
 
 * DDR5-5600 - 8GB (1 x 8GB) +€45
-* DDR5-5600 - 16GB (1 x 16GB) +€90
 * DDR5-5600 - 16GB (2 x 8GB) +€90
-* DDR5-5600 - 32GB (1 x 32GB) +€180
-* DDR5-5600 - 32GB (2 x 16GB) +€180
-* DDR5-5600 - 64GB (2 x 32GB) +€360
-* DDR5-5600 - 48GB (1 x 48GB) +€270
-* DDR5-5600 - 96GB (2 x 48GB) +€540
+* DDR5-5600 - 16GB (1 x 16GB)  Ships in 2-3 weeks. +€90
+* DDR5-5600 - 32GB (2 x 16GB)  Ships in 2-3 weeks. +€180
+* DDR5-5600 - 32GB (1 x 32GB)  Ships in 2-3 weeks. +€180
+* DDR5-5600 - 64GB (2 x 32GB)  Ships in 2-3 weeks. +€360
+* DDR5-5600 - 48GB (1 x 48GB)  Ships in 2-3 weeks. +€270
+* DDR5-5600 - 96GB (2 x 48GB)  Ships in 2-3 weeks. +€540
 * None (bring your own)
 
 **Storage**
