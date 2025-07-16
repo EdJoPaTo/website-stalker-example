@@ -51,19 +51,19 @@ System
 
   6-core/12-thread, up to 4.8GHz
 
-   Ships in 5 business days if you bring your own Memory. Otherwise, ships in 2-3 weeks.
+   Ships in 1-3 weeks.
 
 * Ryzen™ AI 7 350  €1,459
 
   8-core/16-thread, up to 5.0GHz
 
-   Ships in 5 business days if you bring your own Memory. Otherwise, ships in 2-3 weeks.
+   Ships in 1-3 weeks.
 
 * Ryzen™ AI 9 HX 370  €1,939
 
   12-core/24-thread, up to 5.1GHz
 
-   Ships in 5 business days if you bring your own Memory. Otherwise, ships in 2-3 weeks.
+   Ships in 1-3 weeks.
 
 **Display**
 
