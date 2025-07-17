@@ -112,7 +112,7 @@ Learn everything you need about Shelly devices – features, applications and sp
  Shelly BLE devices
 ----------
 
-* [ShellyBLU Gateway](https://kb.shelly.cloud/knowledge-base/shellyblu-gateway)
+* [Shelly BLU Gateway](https://kb.shelly.cloud/knowledge-base/shellyblu-gateway)
 * [ShellyBLU Button1](https://kb.shelly.cloud/knowledge-base/shellyblu-button1)
 * [ShellyBLU Door/Window](https://kb.shelly.cloud/knowledge-base/shellyblu-door-window)
 * [Shelly BLU Motion](https://kb.shelly.cloud/knowledge-base/shellyblu-motion)
