@@ -5,7 +5,35 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-* Alle (0) Flash Deals (0)
+* Alle (0) Flash Deals (1)
+
+Root-Server
+
+ FLASH DEAL
+
+### RS 1000 G11 Ultra ###
+
+ \+ 2 vCore / + 100% SSD / + 4 GB RAM
+
+* 6 dedizierte Kerne (statt 4)
+
+* 12 GB DDR5 ECC RAM (statt 8 GB)
+
+* 512 GB NVMe SSD (statt 256 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* AMD EPYC™ 9634
+
+* Standorte: NUE | MNZ
+
+pro Monat
+
+10,75 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-1000-g11-ultra-nue-fjul25)
 
 Root-Server
 
