@@ -24,8 +24,7 @@
 								"title": "Raspberry Pi OS with desktop",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_armhf/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz.torrent"
 							},
 							{
 								"debianVersion": "12 (bookworm)",
@@ -38,8 +37,7 @@
 								"title": "Raspberry Pi OS with desktop and recommended software",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_full_armhf/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz.torrent"
 							},
 							{
 								"debianVersion": "12 (bookworm)",
@@ -52,8 +50,7 @@
 								"title": "Raspberry Pi OS Lite",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz.torrent"
 							}
 						],
 						"slug": "raspberry-pi-os-32-bit",
@@ -126,8 +123,7 @@
 								"title": "Raspberry Pi OS with desktop",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_arm64/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64.img.xz.torrent"
 							},
 							{
 								"debianVersion": "12 (bookworm)",
@@ -140,8 +136,7 @@
 								"title": "Raspberry Pi OS with desktop and recommended software",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_full_arm64/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-full.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-full.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-full.img.xz.torrent"
 							},
 							{
 								"debianVersion": "12 (bookworm)",
@@ -154,8 +149,7 @@
 								"title": "Raspberry Pi OS Lite",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_lite_arm64/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-lite.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-lite.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-05-13/2025-05-13-raspios-bookworm-arm64-lite.img.xz.torrent"
 							}
 						],
 						"slug": "raspberry-pi-os-64-bit",
@@ -240,8 +234,7 @@
 								"title": "Raspberry Pi OS (Legacy) with desktop",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf.img.xz.torrent"
 							},
 							{
 								"debianVersion": "11 (bullseye)",
@@ -254,8 +247,7 @@
 								"title": "Raspberry Pi OS (Legacy) with desktop and recommended software",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf-full.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf-full.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf-full.img.xz.torrent"
 							},
 							{
 								"debianVersion": "11 (bullseye)",
@@ -268,8 +260,7 @@
 								"title": "Raspberry Pi OS (Legacy) Lite",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf-lite.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf-lite.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2025-05-07/2025-05-06-raspios-bullseye-armhf-lite.img.xz.torrent"
 							}
 						],
 						"slug": "raspberry-pi-os-legacy",
@@ -330,8 +321,7 @@
 								"title": "Raspberry Pi OS (Legacy) with desktop",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64.img.xz.torrent"
 							},
 							{
 								"debianVersion": "11 (bullseye)",
@@ -344,8 +334,7 @@
 								"title": "Raspberry Pi OS (Legacy) with desktop and recommended software",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-full.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-full.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-full.img.xz.torrent"
 							},
 							{
 								"debianVersion": "11 (bullseye)",
@@ -358,8 +347,7 @@
 								"title": "Raspberry Pi OS (Legacy) Lite",
 								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-lite.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-lite.img.xz.torrent",
-								"version": "May 2025"
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-lite.img.xz.torrent"
 							}
 						],
 						"slug": "raspberry-pi-os-legacy-64-bit",
@@ -384,8 +372,7 @@
 								"title": "Debian Bullseye with Raspberry Pi Desktop",
 								"urlArchive": "https://downloads.raspberrypi.com/rpd_x86/images/",
 								"urlHttp": "https://downloads.raspberrypi.com/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso",
-								"urlTorrent": "https://downloads.raspberrypi.com/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso.torrent",
-								"version": "July 2022"
+								"urlTorrent": "https://downloads.raspberrypi.com/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso.torrent"
 							}
 						],
 						"slug": "raspberry-pi-desktop",
