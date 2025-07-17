@@ -421,6 +421,14 @@ Mit einem „PRO“-Produkt erhältst du weiterhin das, was unsere Aktionsangebo
 
 Beachte: PRO-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar.
 
+### Was bedeutet "Ultra" bei unseren Aktionsprodukten?	 ###
+
+„ULTRA“ ist unsere neue Leistungsklasse für Root-Server Aktionsprodukte. Diese Kennzeichnung steht für noch mehr Power zu einem weiterhin attraktiven Preis.
+
+Im Vergleich zu unseren „PRO“-Produkten bieten „ULTRA“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
+
+Beachte: Ultra ist exklusiv für unsere beliebten Root-Server und ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
+
 netcup Angebote zu VPS und Root-Server
 ----------
 
