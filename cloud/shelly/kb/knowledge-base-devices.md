@@ -156,6 +156,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave Plug S](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-s)
 * [Shelly Wave Plug US](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-us)
 * [Shelly Wave Plug UK](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-uk)
+* [Shelly Wave Pro Shutter](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-shutter)
 
  Shelly Qubino Wave devices
 ----------
