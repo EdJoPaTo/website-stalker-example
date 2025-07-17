@@ -149,6 +149,7 @@ sites:
       - https://www.netcup.com/de/server/local-block-storage
       - https://www.netcup.com/de/server/root-server
       - https://www.netcup.com/de/server/server-storage
+      - https://www.netcup.com/de/server/vgpu
       - https://www.netcup.com/de/server/vps
       - https://www.netcup.com/de/server/vserver-guenstig-qualitaet
       - https://www.netcup.com/de/server/vserver-images
