@@ -1,48 +1,42 @@
-Spare bis zu
----
-
- 10%
----
-
- 20%
----
-
- 30%
----
-
- 40%
----
-
- 49%
----
-
-[% Schuhe](https://www.strauss.com/de/de/sale-schuhe/?itemorigin=startseite_fs25)
-
-[% Aktions-Sets](https://www.strauss.com/de/de/sale-aktions-sets/?itemorigin=startseite_fs25)
-
-[% Bekleidung](https://www.strauss.com/de/de/sale-bekleidung/?itemorigin=startseite_fs25)
-
-[zu allen Angeboten](https://www.strauss.com/de/de/sale/?itemorigin=startseite_fs25)
-
-###  Druck & Stick  ###
-
----
-
- Einzigartige
-Outfits
+Sommer-
+Edition
 ----------
 
 ---
 
- für Arbeit, Vereine, Events uvm.
+ leichte Stoffe
 
- große Motivauswahl
+ coole Vintage-Farben
 
- schon ab 1 Stück
+ 100% Motion-Power
 
-Produkte zum Gestalten
+[Short e.s.motion Sommer](https://www.strauss.com/de/de/arbeitsshorts/short-e-s-motion-sommer-3160560-95591-326.html?itemorigin=startseite_fs25)
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+[Bundhose e.s.motion Sommer](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-sommer-3160540-95541-326.html?itemorigin=startseite_fs25)
+
+ S1PS
+==========
+
+---
+
+ Sicherheitsschuhe
+
+ Spielfeld:
+ Baustelle!
+----------
+
+---
+
+ bequem
+
+ sicher
+
+ hoch atmungsaktiv
+
+[mehr Details](https://www.strauss.com/de/de/sicherheitsschuhe-s1p/s1ps-sicherheitsschuhe-e-s-marseille-mid-1101610-93366-1824.html?itemorigin=startseite_fs25)
+
+ S1PS Sicherheitsschuhe
+e.s. Marseille mid
 
  Cool bleiben
 ----------
@@ -56,6 +50,19 @@ Produkte zum Gestalten
  perfekte Sommer-Workwear
 
 [zu allen e.s.trail Produkten](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_fs25)
+
+###  Angebote
+des Monats  ###
+
+---
+
+Nur gültig bis 31.07.2025 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
+
+[Spare bis zu](https://www.strauss.com/de/de/angebote-des-monats/)
+
+[\-54 %](https://www.strauss.com/de/de/angebote-des-monats/)
 
 **Luftige Outfits** für heiße Tage
 
@@ -88,6 +95,8 @@ Produkte zum Gestalten
 [alle Herren-Shorts](https://www.strauss.com/de/de/arbeitsshorts/?itemorigin=startseite_fs25)
 
 [alle Damen-Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/?itemorigin=startseite_fs25)
+
+ SALE
 
  Short
 e.s.iconic
@@ -204,6 +213,8 @@ schon ab 1 Stück
 Produkte zum Gestalten
 
 [mehr Informationen](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_fs25)
+
+**NEU: EIGENE MOTIVE - einfach hochladen & drucken lassen!** Ab sofort mit Datei-Upload. Für einzigartige Outfits.
 
 ###
 
