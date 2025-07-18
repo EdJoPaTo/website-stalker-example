@@ -34,7 +34,7 @@ Browse our range
 
 [](/products/byte)
 
-[Byte €13,37 Ships 7 - 8 business days](/products/byte)
+[Byte €13,37 Ships 1 - 2 business days](/products/byte)
 
 [](/products/starlite)
 
