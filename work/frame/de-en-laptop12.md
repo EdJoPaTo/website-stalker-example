@@ -867,11 +867,11 @@ Step-by-step guides
 
 Find a guide to replace or upgrade any part.
 
-[Go to guides](https://guides.frame.work/c/Framework_Laptop)
+[Go to guides](https://guides.frame.work/c/Framework_Laptop_12)
 
-* **Replace your Display** Coming soon
+* **Replace your Display** [Go to guide](https://guides.frame.work/Guide/Display/428?lang=en)
 * **Swap your Battery** [Go to guide](https://guides.frame.work/Guide/Battery/425?lang=en)
-* **Replace your Webcam** Coming soon
+* **Replace your Webcam** [Go to guide](https://guides.frame.work/Guide/Webcam/449?lang=en)
 
 Customize
 ----------
@@ -889,8 +889,8 @@ Chassis
 Transform and personalize your device with our customizable chassis options.
 
 * **Swap your Input Cover** [Go to guide](https://guides.frame.work/Guide/Input+Cover/435?lang=en)
-* **Change your Touchpad** Coming soon
-* **Replace your Display Cover** Coming soon
+* **Change your Touchpad** [Go to guide](https://guides.frame.work/Guide/Touchpad/447?lang=en)
+* **Replace your Display Cover** [Go to guide](https://guides.frame.work/Guide/Display+Cover/427?lang=en)
 
 Stylus
 ----------
