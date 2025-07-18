@@ -38,7 +38,7 @@ Browse our range
 
 [](/products/starlite)
 
-[StarLite €13,37 Ships 28 - 29 business days](/products/starlite)
+[StarLite €13,37 Ships 21 - 22 business days](/products/starlite)
 
 [](/products/starbook)
 
@@ -46,7 +46,7 @@ Browse our range
 
 [](/products/starfighter)
 
-[StarFighter €13,37 Ships 56 - 57 business days](/products/starfighter)
+[StarFighter €13,37 Ships 84 - 85 business days](/products/starfighter)
 
 More than just a licence.
 
