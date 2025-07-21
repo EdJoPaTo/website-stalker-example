@@ -10,7 +10,10 @@ Wir entwickeln auf einer gemeinsamen und neutralen Plattform mit unseren Partner
 
 Unsere Verbundpartner sind die relevanten Player im Schienenpersonennahverkehr: staatliche Aufgabenträgerorganisationen sowie Eisenbahnverkehrsunternehmen. Unser Ziel ist es, die Bedürfnisse der Menschen zum Mittelpunkt einer nachhaltigen Mobilität machen.
 
-Wir machen den ÖPNV einfacher – Tarifwelt „Made in Germany“
+Wir machen den ÖPNV einfacher –
+----------
+
+Tarifwelt „Made in Germany“
 ----------
 
 In Deutschland existieren über 60 Tarif- und Verkehrsverbünde sowie einige Landestarife. Je nachdem von wo nach wo der Bahnkunde fährt, können somit unterschiedliche Tarife gelten. Die Verbund- und Landestarife sind jedoch nicht flächendeckend. Überall dort, wo kein Landes- oder Verbundtarif zur Anwendung kommt, gilt für Fahrten mit der Eisenbahn der Deutschlandtarif, kurz D-TARIF.
@@ -20,7 +23,10 @@ Abgefahren: Der Deutschlandtarif ist pünktlich am 1. Januar 2022 gestartet
 
 Eine ÖPNV-Erfolgsgeschichte: die DTVG-Milestones mit Start des D-TARIFs.
 
-Gemeinsam bringen wir denDeutschlandtarif auf die Schiene
+Gemeinsam bringen wir
+----------
+
+den Deutschlandtarif auf die Schiene
 ----------
 
 19 Aufgabenträgerorganisationen und 50 Eisenbahnverkehrsunternehmen zählen bereits zu den DTVG-Gesellschaftern und entscheiden gemeinsam über die Zukunft des D-TARIFS.
