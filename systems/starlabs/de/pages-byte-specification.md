@@ -4,7 +4,7 @@ Chassis
 
  Processor
 
- 1.00GHz quad-core Intel Alder Lake N355
+ 1.00GHz 8-core Intel Alder Lake N355
  Turbo Boost up to 3.90GHz, with 6MB Intel® Smart Cache
 
  8 Cores
@@ -86,7 +86,7 @@ Configuration: 1 × 32GB
 
  Graphics
 
- Intel® UHD Graphics
+ Intel® Graphics
  1.35GHz Frequency
 
  Connectivity
