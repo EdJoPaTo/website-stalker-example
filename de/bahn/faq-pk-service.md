@@ -5607,7 +5607,9 @@ Beachten Sie bitte, dass für Statuskunden die BahnBonus App erforderlich ist.
  Muss ich als Geschäftsreisende:r privat genutzte Prämien in meiner Lohnsteuerbescheinigung angeben?
 ----------
 
-Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG. Das bedeutet für Sie:
+Nein. Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
+
+Das bedeutet für Sie:
 Werden im Rahmen von BahnBonus auf geschäftlichen Reisen BahnBonus Punkte gesammelt und diese für privat genutzte Prämien eingelöst, wird der geldwerte, steuerpflichtige Vorteil übernommen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-mich-als-geschaeftsreisende-privat-genutzte-praemien-in-meiner-lohnsteuerbescheinigung-angeben)
@@ -7320,13 +7322,6 @@ Informationen zur aktuellen Verkehrslage finden Sie unter:
 * [bahn.de/aktuell](https://www.bahn.de/service/fahrplaene/aktuell)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-mich-ueber-die-aktuelle-verkehrslage-informieren)
-
- Muss ich dienstlich gesammelte und privat genutzte Prämien in meiner Steuererklärung angeben?
-----------
-
-Nein. Wenn Sie im Rahmen von BahnBonus auf geschäftlichen Reisen BahnBonus Punkte gesammelt haben und diese für privat genutzte Prämien einlösen (seit dem 1. Juli 2023), übernimmt die DB Fernverkehr AG den geldwerten, steuerpflichtigen Vorteil.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemien-steuererklaerung)
 
  Ab wann gilt die Pauschalversteuerung?
 ----------
