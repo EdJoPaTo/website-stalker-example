@@ -65,7 +65,7 @@ Sie können das 1. Klasse-Upgrade für alle auf dem 2. Klasse-Ticket stehenden P
  Kann ich ein 1. Klasse Upgrade stornieren?
 ----------
 
-Das 1. Klasse Upgrade kann vor dem 1. Geltungstag kostenfrei storniert werden. Ab dem 1. Geltungstag ist eine Stornierung gegen ein Entgelt von 19 Euro möglich. Beachten Sie, dass 1. Klasse Upgrade und zugrundeliegendes 2. Klasse-Ticket separat storniert werden müssen.
+Das 1. Klasse Upgrade kann vor dem 1. Geltungstag kostenfrei storniert werden. Ab dem 1. Geltungstag ist eine Stornierung gegen ein Entgelt von 30 Euro möglich. Beachten Sie, dass 1. Klasse Upgrade und zugrundeliegendes 2. Klasse-Ticket separat storniert werden müssen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ein-1-klasse-upgrade-stornieren)
 
