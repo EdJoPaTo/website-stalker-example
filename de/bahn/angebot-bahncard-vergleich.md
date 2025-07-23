@@ -101,12 +101,12 @@ Unsere ermäßigten BahnCards richten sich an Personen mit voller Erwerbsminder
 
 ----------
 
-|         BahnCard          |Preis (2. Klasse)|Preis (1. Klasse)|            Rabattbedingungen            |  Laufzeit  |  Kündigungsfrist  |
-|---------------------------|-----------------|-----------------|-----------------------------------------|------------|-------------------|
-|   Ermäßigte BahnCard 25   |     40,90 €     |     81,90 €     |25 % auf Flex-, Spar- und Super Sparpreis| 12 Monate  |4 Wochen vor Ablauf|
-|   Ermäßigte BahnCard 50   |      122 €      |      241 €      | 50 % auf Flexpreis, 25 % auf Sparpreis  | 12 Monate  |4 Wochen vor Ablauf|
-|Ermäßigte Probe BahnCard 25|     19,90 €     |     39,90 €     |25 % auf Flex-, Spar- und Super Sparpreis|3 Monate\*\*|4 Wochen vor Ablauf|
-|Ermäßigte Probe BahnCard 50|     76,90 €     |      152 €      | 50 % auf Flexpreis, 25 % auf Sparpreis  |3 Monate\*\*|4 Wochen vor Ablauf|
+|         BahnCard          |                                 Preis (2. Klasse)                                 |                                 Preis (1. Klasse)                                 |            Rabattbedingungen            | Laufzeit |  Kündigungsfrist  |
+|---------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------|----------|-------------------|
+|   Ermäßigte BahnCard 25   |  [40,90 €](https://www.bahn.de/angebot/bahncard/ermaessigtebahncard25-2-klasse)   |  [81,90 €](https://www.bahn.de/angebot/bahncard/ermaessigtebahncard25-1-klasse)   |25 % auf Flex-, Spar- und Super Sparpreis|12 Monate |4 Wochen vor Ablauf|
+|   Ermäßigte BahnCard 50   |   [122 €](https://www.bahn.de/angebot/bahncard/ermaessigtebahncard50-2-klasse)    |   [241 €](https://www.bahn.de/angebot/bahncard/ermaessigtebahncard50-1-klasse)    | 50 % auf Flexpreis, 25 % auf Sparpreis  |12 Monate |4 Wochen vor Ablauf|
+|Ermäßigte Probe BahnCard 25|[19,90 €](https://www.bahn.de/angebot/bahncard/ermaessigteprobebahncard25-2-klasse)|[39,90 €](https://www.bahn.de/angebot/bahncard/ermaessigteprobebahncard25-1-klasse)|25 % auf Flex-, Spar- und Super Sparpreis|3 Monate\*|4 Wochen vor Ablauf|
+|Ermäßigte Probe BahnCard 50|[76,90 €](https://www.bahn.de/angebot/bahncard/ermaessigteprobebahncard50-2-klasse)| [152 €](https://www.bahn.de/angebot/bahncard/ermaessigteprobebahncard50-1-klasse) | 50 % auf Flexpreis, 25 % auf Sparpreis  |3 Monate\*|4 Wochen vor Ablauf|
 
 Rabattübersicht nach Tickettyp
 ----------
