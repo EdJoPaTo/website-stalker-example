@@ -32,7 +32,7 @@ Welche Kosten entstehen für mich?
 
 Das UIC-Sicherheitsportal ist für alle ticketkontrollierenden Organisationen kostenlos. Für die Nutzungsvereinbarung gibt es eine Vorlage für [einen Unterzeichner](https://yousign.app/workflows/forms/a90004aa-8433-4c3a-8e23-1ca6933ee7f0) sowie für [zwei Unterzeichner](https://yousign.app/workflows/forms/f674eb2c-5932-4d9e-900d-cecde6be6c64).
 
-Ticketausgeberinnen zahlen eine Pauschale für die Nutzung des UIC-Sicherheitsportals sowie je ausgegebenem Ticket einen Fixpreis. Dieser Preis enthält die Erstellung des Ausgabenachweises und die Bereitstellung eines UIC-Barcodes. Details können Sie der Nutzungsvereinbarung entnehmen. Diese erhalten Sie auf Anfrage per E-Mail an .
+Ticketausgeberinnen zahlen eine Pauschale für die Nutzung des UIC-Sicherheitsportals sowie je ausgegebenem Ticket einen Fixpreis. Dieser Preis enthält die Erstellung des Ausgabenachweises und die Bereitstellung eines UIC-Barcodes. Details können Sie der Nutzungsvereinbarung entnehmen. Diese erhalten Sie auf Anfrage per E-Mail an \*protected email\*.
 Die Kosten für die technische Anbindung an das UIC-Sicherheitsportal muss jedes Unternehmen selbst tragen.
 
 Wie bekomme ich Zugang?
