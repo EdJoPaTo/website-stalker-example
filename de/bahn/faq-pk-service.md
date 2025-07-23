@@ -5604,7 +5604,7 @@ Beachten Sie bitte, dass für Statuskunden die BahnBonus App erforderlich ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-ohne-die-bahnbonus-app-statuspunkte-und-praemienpunkte-sammeln-und-einloesen)
 
- Muss ich als Geschäftsreisende:r privat genutzte Prämien in meiner Lohnsteuerbescheinigung angeben?
+ Müssen Geschäftsreisende privat genutzte Prämien in der Lohnsteuerbescheinigung angeben?
 ----------
 
 Nein. Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
