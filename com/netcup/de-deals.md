@@ -90,7 +90,7 @@ Wir bieten dir zu immer wiederkehrenden Sale-Events eine immer unterschiedliche 
 
 ### Wie lange sind netcup Deals verfügbar? ###
 
-Für gewöhnlich sind unsere Deals nur für 24 Stunden aktiv. Bei manchen Aktionen können die Deals jedoch auch über eine längere Zeit aktiv sein. Bitte beachte die Informationen auf unserer Website. Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
+Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Aktionen können sie jedoch auch über einen längeren oder kürzeren Zeitraum zu Verfügung stehen. Bitte beachte die Informationen auf unserer Website.  Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
 
 ### Wie kann ich netcup Deals kaufen? ###
 
