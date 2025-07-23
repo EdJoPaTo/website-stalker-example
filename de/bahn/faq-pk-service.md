@@ -5621,6 +5621,13 @@ Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhi
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-nachtraeglich-bahnbonus-punkte-gutschreiben-lassen)
 
+ Wo kann ich sehen, wie viele Punkte ich gesammelt habe?
+----------
+
+Sie finden eine Übersicht Ihrer gesammelten Punkte in der [BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp) oder in Ihrem [DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus). Bitte bedenken Sie, dass die Verbuchung einige Minuten in Anspruch nehmen kann.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-stand-ansehen)
+
  Warum werden meine BahnBonus Punkte nicht gutschrieben?
 ----------
 
