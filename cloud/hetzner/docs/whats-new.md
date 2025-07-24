@@ -15,11 +15,11 @@ The Cloud Console is now the **Hetzner Console**, reflecting our goal to unify a
 * **Reworked main navigation**Resources are now organized into collapsible sections to give you a clearer structure. Pin the resources you use most often to keep them at the top for quick access.
 * **Storage Boxes — now integrated**Storage Boxes are the first product to move from a separate panel into the Console.
   They now share the same consistent and intuitive interface as our cloud products.
-  * **Faster provisioning:**New Storage Boxes are ready within seconds.
-  * **Fully configurable at creation:**Set up protocols (SMB, WebDAV, SSH), accessibility, and SSH keys right away.
-  * **New API endpoint:**You can now manage Storage Boxes via the [Hetzner API](https://docs.hetzner.cloud/reference/hetzner). Please migrate your systems before 29 July 2025, as support for Storage Boxes via the [Robot Web Service](https://robot.hetzner.com/doc/webservice/de.html) will end.
-  * **Already migrated:**Existing Storage Boxes are now in the project *"Storage Box Migrated"*.
-  * **Global search and usage preview:**Due to technical dependencies, not available yet — we are already working on the integration!
+* **Faster provisioning:**New Storage Boxes are ready within seconds.
+* **Fully configurable at creation:**Set up protocols (SMB, WebDAV, SSH), accessibility, and SSH keys right away.
+* **New API endpoint:**You can now manage Storage Boxes via the [Hetzner API](https://docs.hetzner.cloud/reference/hetzner). Please migrate your systems before 29 July 2025, as support for Storage Boxes via the [Robot Web Service](https://robot.hetzner.com/doc/webservice/en.html) will end.
+* **Already migrated:**Existing Storage Boxes are now in the project *"Storage Box Migrated"*.
+* **Global search and usage preview:**Due to technical dependencies, not available yet — we are already working on the integration!
 
 December 2024
 ----------
@@ -101,7 +101,7 @@ Feb 27
 
 ### Global Search: Label search now possible ###
 
-We added the new search criterion "label" to our global search, which means you can now search resources by our [label selector query language](https://docs.hetzner.cloud/#labels). In the global search bar, you can use **"ctrl / ⌘ + K"** to switch between name/IP search and label search.
+We added the new search criterion "label" to our global search, which means you can now search resources by our [label selector query language](https://docs.hetzner.cloud/reference/cloud#labels). In the global search bar, you can use **"ctrl / ⌘ + K"** to switch between name/IP search and label search.
 
 **Changes regarding existing shortcuts**
 
@@ -109,13 +109,13 @@ Up until now, the key combination **"ctrl / ⌘ + K"** was used to open the filt
 
 Feb 13
 
-### Duplicate Firewalls ###
-
-The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
-
 ### Default settings for server creation ###
 
 The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
+
+### Duplicate Firewalls ###
+
+The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
 
 December 2023
 ----------
@@ -157,7 +157,7 @@ Aug 07
 
 ### "Deploy to Hetzner Cloud" button ###
 
-If you would like to link to one of our Apps, you can do it now using this new URL: "https://console.hetzner.cloud/deploy/{app-name}". When you click it, you are taken to Cloud Console and prompted to select a project. After that, you are directly forwarded to the server create page on which the App specified for "{app-name}" is automatically preselected. You can use the new link in combination with the new "Deploy to Hetzner Cloud" button, which is available in 2 different sizes. [Learn more about the button](https://docs.hetzner.com/cloud/apps/overview/#deploy-to-hetzner-cloud)
+If you would like to link to one of our Apps, you can do it now using this new URL: `https://console.hetzner.cloud/deploy/{app-name}`. When you click it, you are taken to Cloud Console and prompted to select a project. After that, you are directly forwarded to the server create page on which the App specified for "{app-name}" is automatically preselected. You can use the new link in combination with the new "Deploy to Hetzner Cloud" button, which is available in 2 different sizes. [Learn more about the button](https://docs.hetzner.com/cloud/apps/overview/#deploy-to-hetzner-cloud)
 
 July 2023
 ----------
@@ -166,7 +166,7 @@ Jul 26
 
 ### Technical changelog now available ###
 
-A technical changelog is now available at [docs.hetzner.cloud/changelog](https://docs.hetzner.cloud/changelog/). It offers an extensive overview of changes and includes announcements about our API, open-source integrations, and other relevant topics. Additionally, this page also includes an overview of all announcements from our »What's New« dialog. Next to adding the new changelogs, we also redesigned the original content at [docs.hetzner.cloud](https://docs.hetzner.cloud/). The improved design of the API docs now allows you to switch between dark and light mode.
+A technical changelog is now available at [docs.hetzner.cloud/changelog](https://docs.hetzner.cloud/changelog). It offers an extensive overview of changes and includes announcements about our API, open-source integrations, and other relevant topics. Additionally, this page also includes an overview of all announcements from our »What's New« dialog. Next to adding the new changelogs, we also redesigned the original content at [docs.hetzner.cloud](https://docs.hetzner.cloud/). The improved design of the API docs now allows you to switch between dark and light mode.
 
 Jul 20
 
@@ -296,13 +296,13 @@ September 2022
 
 Sep 29
 
-### Redesign of the server, Load Balancer, and Firewall creation pages ###
-
-The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
-
 ### Improved user experience for notifications ###
 
 For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
+
+### Redesign of the server, Load Balancer, and Firewall creation pages ###
+
+The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
 
 July 2022
 ----------
@@ -326,7 +326,7 @@ Jun 22
 
 ### New Apps available ###
 
-We have added four new Apps. You can now choose from the programming language Apps Go and Ruby, and start developing immediately after server creation. You could also use the Prometheus-Grafana installation to visualize metrics and display them graphically. Our CollaborationToolCollection App includes [HedgeDoc](https://hedgedoc.org/), [transfer.sh](https://github.com/dutchcoders/transfer.sh//) and [whiteboard](https://github.com/cracker0dks/whiteboard//), and makes working on files in a team more dynamic and simple. BigBlueButton is no longer available.
+We have added four new Apps. You can now choose from the programming language Apps Go and Ruby, and start developing immediately after server creation. You could also use the Prometheus-Grafana installation to visualize metrics and display them graphically. Our CollaborationToolCollection App includes [HedgeDoc](https://hedgedoc.org/), [transfer.sh](https://github.com/dutchcoders/transfer.sh/) and [whiteboard](https://github.com/cracker0dks/whiteboard/), and makes working on files in a team more dynamic and simple. BigBlueButton is no longer available.
 
 Jun 08
 
@@ -489,7 +489,7 @@ Apr 15
 
 ### Improved Hetzner status integration ###
 
-With the relaunch of [status.hetzner.com](https://status.hetzner.com/de), the display of status messages has also been improved. For example, messages are now also displayed if your other Hetzner resources like dedicated servers are affected by outages.
+With the relaunch of [status.hetzner.com](https://status.hetzner.com/en), the display of status messages has also been improved. For example, messages are now also displayed if your other Hetzner resources like dedicated servers are affected by outages.
 
 February 2021
 ----------

@@ -5,31 +5,7 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-* Alle (0) Flash Deals (1)
-
-Root-Server
-
-### RS 2000 G11 Ultra ###
-
- \+ 2 vCore / + 100% SSD / + 8 GB RAM
-
-* 10 dedizierte Kerne (statt 8)
-
-* 24 GB DDR5 ECC RAM (statt 16 GB)
-
-* 1024 GB NVMe SSD (statt 512 GB)
-
-* Nur 1 Monat Mindestlaufzeit
-
-* AMD EPYC™ 9634
-
-* Standort: NUE
-
-pro Monat
-
-21,00 €
-
-(inkl. 0% MwSt.)
+* Alle (0) Flash Deals (0)
 
 Bleibe auf dem Laufenden
 ----------

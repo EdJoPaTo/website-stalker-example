@@ -52,8 +52,6 @@ bereits ab monatlich
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m#rs-2000-g11-12m-nue)
-
 RS 4000 G11
 
 * AMD EPYC™ 9634
