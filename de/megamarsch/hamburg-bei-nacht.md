@@ -5,6 +5,8 @@ BEI NACHT
 
 [dein ticket sichern](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
 
+[booklet & strecke](https://www.megamarsch.de/hamburg-bei-nacht)
+
 IN HAMBURG DURCH DIE NACHT
 ==========
 
@@ -77,21 +79,21 @@ Bei einem 50km Finish
 
 [SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
 
-#### Fotos ####
+#### Booklet ####
 
-Wie in den letzten Jahren wird Sportograf Dich und uns auch in dieser Saison begleiten.
+1
 
-Ob Marathon, Ironman oder Radrennen, sie haben schon Millionen Sportler mit fantastischen Erinnerungsfotos versorgt. Selfies sind natürlich auch eine schöne Erinnerung, aber wer dann doch noch professionelle Fotos von seiner megamäßigen Erfahrung haben möchte, ist bei Sportograf genau richtig.
+2
 
-Die Bilder können im Nachgang der Veranstaltung auf deren Webseite erworben werden: <https://www.sportograf.com/de/event/12252>
+5
 
-​
+1
 
-Datenschutzhinweise unter: [www.sportograf.com/de/privacy](http://www.sportograf.com/de/privacy)
+1/5
 
-​
+[Booklet zum downloaden](https://www.megamarsch.de/_files/ugd/c7d428_a1aa6c100f4f4ca5959a045eb69b9c33.pdf)
 
-​
+[Allgemeines Handbuch](https://www.megamarsch.de/_files/ugd/c7d428_5c7ec45037dd4c7cba81286de5707584.pdf)
 
 #### STRECKE ####
 
@@ -101,17 +103,19 @@ Gegen den Uhrzeigersinn
 
 ###### LAUFRICHTUNG ######
 
-###### 2 WOCHEN VOR DEM EVENT ######
+[](https://www.komoot.com/de-de/tour/2423486591)
 
-...stellen wir Euch die Strecke als Download für Komoot zur Verfügung. Die Strecke ist vorübergehend und kann sich z.B. auf Grund von behördlichen Auflagen oder organisatorischen Gründen noch ändern.
+[Strecke bei Komoot](https://www.komoot.com/de-de/tour/2423486591)
 
-###### 2 TAGE VOR DEM EVENT ######
+[GPX Datei der strecke](https://82b24694-136f-40db-acbc-2df764536893.filesusr.com/ugd/c7d428_ffe6f93ae3384d16ba609e342b675f10.gpx?dn=Strecke%20Megamarsch%20Hamburg%20bei%20Nacht%202025.gpx)
 
-...fahren wir die Strecke mit dem Fahrrad ab, um den Weg für Euch zu markieren. Sollten wir dabei merken, dass Teile der Strecke z.B. auf Grund von Ästen, die auf der Strecke liegen, oder weil die Wege sehr nass sind, nicht begehbar sind, wird die Strecke kurzfristig an die Gegebenheiten vor Ort angepasst.
+Booklet
 
 [SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
 
-Booklet
+...fahren wir die Strecke mit dem Fahrrad ab, um den Weg für Euch zu markieren. Sollten wir dabei merken, dass Teile der Strecke z.B. auf Grund von Ästen, die auf der Strecke liegen, oder weil die Wege sehr nass sind, nicht begehbar sind, wird die Strecke kurzfristig an die Gegebenheiten vor Ort angepasst.
+
+###### 2 TAGE VOR DEM EVENT ######
 
 #### unsere PARTNER ####
 

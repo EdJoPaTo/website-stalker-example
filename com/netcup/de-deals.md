@@ -9,8 +9,6 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 Root-Server
 
- FLASH DEAL
-
 ### RS 2000 G11 Ultra ###
 
  \+ 2 vCore / + 100% SSD / + 8 GB RAM
@@ -32,8 +30,6 @@ pro Monat
 21,00 €
 
 (inkl. 0% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-2000-g11-ultra-nue-fjul25)
 
 Bleibe auf dem Laufenden
 ----------

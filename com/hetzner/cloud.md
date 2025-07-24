@@ -698,6 +698,8 @@ Monthly
 
 288.49 287.99 300.49 299.99 288.49 287.99 482.50 482  max.
 
+These plans do not receive any new capacity and are only available if users cancel existing instances. The current availability can be seen in the Hetzner Console.
+
 [Get started](https://console.hetzner.cloud/)
 
  Block Storage Volumes
