@@ -89,17 +89,17 @@ Bei einer Kündigung wird nur die Nutzung bis zum Kündigungsdatum berechnet. Da
 
 Bei einem Upgrade wird die Nutzung ebenfalls bis zum Zeitpunkt des Upgrades zum alten Preis berechnet und in die Warteschlange aufgenommen. Danach wird der neue Preis abgerechnet, sofern 30 Tage ohne weitere Upgrades vergangen sind.
 
-### Gibt es bei Local Block Storage Limitierungen bei den Dateisystemen? ###
+### Gibt es bei Local Block Storage Limitierungen hinsichtlich Dateisysteme? ###
 
-Nein, es können alle Dateisysteme auf unseren Local Block Storages abgespeichert werden.
+Nein, es bestehen keine Einschränkungen bei der Wahl des Dateisystems auf unseren Local Block Storages.
 
 ### Können VPS der G10s sowie G11s ebenso um Speicherplatz erweitert werden? ###
 
 Für VPS x86 der G10s ist eine Speichererweiterung leider nicht möglich. Bei den VPS x86 der G11s hingegen können ausgewählte Angebote bis max. 2 TB erweitert werden.
 
-### Gibt es ein Mindestvolumen an Speicherkapazität für Local Block Storage bei netcup? ###
+### Gibt es ein Mindest- und Maximalvolumen an Speicherkapazität für Local Block Storage bei netcup? ###
 
-Nein, du kannst ab 1 GB deinen Speicherbedarf beliebig anpassen. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab G9, VPS x86 ab G10 und ARM64 G11 (bis max. 8 TB) sowie ausgewählte Angebote der VPS x86 G11s (bis max. 2 TB).
+Die minimale Kapazität liegt bei 1 GB. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab Generation G9, VPS x86 ab Generation G10 und ARM64 ab Generation G11 (jeweils erweiterbar bis max. 8 TB) sowie für ausgewählte Angebote der VPS x86 ab Generation G11s (bis max. 2 TB erweiterbar). vGPU-Produkte können bis insgesamt max. 4 TB erweitert werden.
 
 ### Ist es möglich die Disks zu verkleinern? ###
 
