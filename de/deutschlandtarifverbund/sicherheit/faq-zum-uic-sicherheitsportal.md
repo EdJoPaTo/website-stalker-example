@@ -7,7 +7,7 @@ FAQ zum UIC-Sicherheitsportal
 Welche Aufgabe hat das UIC-Sicherheitsportal?
 ----------
 
-Das UIC-Sicherheitsportal macht elektronische Tickets sicherer. Es definiert nicht nur einheitliche und verbindliche Standards. Die Vorgaben für die Datenübermittlung bei Ausgabe und Kontrolle der Tickets erlauben durch die Sammlung von Daten auch ein Monitoring, um Betrugsmuster frühzeitig zu erkennen. Alles auf Basis des international anerkannten und etablierten UIC-Barcodestandards. Dieser wird durch das UIC-Sicherheitsportal um entscheidende Funktionen für mehr Sicherheit ergänzt.
+Das UIC-Sicherheitsportal macht elektronische Tickets sicherer. Es definiert nicht nur einheitliche und verbindliche Standards. Die Vorgaben für die Datenübermittlung bei Ausgabe und Kontrolle der Tickets erlauben durch die Auswertung von Daten auch ein Monitoring, um Betrugsmuster frühzeitig zu erkennen. Alles auf Basis des international anerkannten und etablierten UIC-Barcodestandards. Dieser wird durch das UIC-Sicherheitsportal um entscheidende Funktionen für mehr Sicherheit ergänzt.
 
 Welche Rollen kennt das UIC-Sicherheitsportal?
 ----------
@@ -23,9 +23,9 @@ Erster Baustein des UIC-Sicherheitsportals ist die Sperrliste. Auf der Sperrlist
 
 Zweiter Baustein sind die Ausgabe- und Kontrollnachweise. Damit entsteht eine Whitelist aller ausgegebenen UIC-Barcodes. Parallel zur Sperrliste gibt es somit zusätzlich eine Liste der gültigen im Umlauf befindlichen Tickets. Möglicher Missbrauch wird damit noch weiter eingeschränkt.
 
-Dritter Baustein sind Barcodeservice und Analysemodul. Im Barcodemanagement werden verschiedene Funktionen zusammengefasst, die es Ticketanbietern und Kontrolleuren ermöglichen, die Qualität ihrer Ausgabe- und Kontrollprozesse zu überprüfen und stetig zu verbessern. Zusätzlich bietet der Barcodegenerator die Möglichkeit, Deutschlandtickets nach den Sicherheitsvorgaben aber mit geringerem Aufwand zu erstellen.
+Dritter Baustein sind Barcodemanagement und Analysemodul. Im Barcodemanagement werden verschiedene Funktionen zusammengefasst, die es Ticketanbietern und Kontrolleuren ermöglichen, die Qualität ihrer Ausgabe- und Kontrollprozesse zu überprüfen und stetig zu verbessern. Zusätzlich bietet der Barcodegenerator die Möglichkeit, Deutschlandtickets nach den Sicherheitsvorgaben aber mit geringerem Aufwand zu erstellen.
 
-Das Analysemodul sammelt die kontrollierten Daten und meldet Auffälligkeiten. Neue Betrugsmuster können dadurch sehr viel schneller aufgedeckt und verfolgt werden.
+Das Analysemodul wertet die kontrollierten Daten aus und meldet Auffälligkeiten. Neue Betrugsmuster können dadurch sehr viel schneller aufgedeckt und verfolgt werden.
 
 Welche Kosten entstehen für mich?
 ----------

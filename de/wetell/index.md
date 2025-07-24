@@ -389,6 +389,7 @@ Ich möchte den WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklä
 * [Team](https://www.wetell.de/community/team/)
 * [Jobs](https://www.wetell.de/community/jobs/)
 * [Affiliatepartner\*in werden](https://www.wetell.de/community/affiliatepartnerin-werden/)
+* [Funksachen](https://funksachen.wetell.de/)
 
 * ###### Fürs Business ######
 
