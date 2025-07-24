@@ -1,25 +1,39 @@
 netcup Deals
 ==========
 
-**SysAdmin Day Extended: Wir feiern euch mit starken Angeboten!**
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-Am 29. & 30. Juli feiern wir alle IT-Profis mit Top Deals auf Server, Hosting und Domains. Mehr Cores, mehr SSD und mehr Power für deine Projekte!
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-[Mehr Informationen](https://www.netcup.com/de/deals#infos)
+* Alle (0) Flash Deals (1)
 
-### **Das erwartet dich:** ###
+Root-Server
 
-* ### Unschlagbare Deals ###
+ FLASH DEAL
 
-  Ob Webhosting, VPS oder Domains – unsere Angebote, die jeder SysAdmin für den nächsten großen Schritt braucht.
+### RS 2000 G11 Ultra ###
 
-* ### 24 Stunden verfügbar  ###
+ \+ 2 vCore / + 100% SSD / + 8 GB RAM
 
-  Sei dabei, wenn wir am 29. Juli ab 10 Uhr (MEZ) den Countdown starten und sichere dir deinen Top Deal.
+* 10 dedizierte Kerne (statt 8)
 
-* ### Zusätzlicher Flashdeal ###
+* 24 GB DDR5 ECC RAM (statt 16 GB)
 
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), und sichere dir ein exklusives Extra-Angebot – nur für kurze Zeit!
+* 1024 GB NVMe SSD (statt 512 GB)
+
+* Nur 1 Monat Mindestlaufzeit
+
+* AMD EPYC™ 9634
+
+* Standort: NUE
+
+pro Monat
+
+21,00 €
+
+(inkl. 0% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/server/root-server/rs-2000-g11-ultra-nue-fjul25)
 
 Bleibe auf dem Laufenden
 ----------

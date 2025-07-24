@@ -5621,6 +5621,40 @@ Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhi
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-nachtraeglich-bahnbonus-punkte-gutschreiben-lassen)
 
+ Wo kann ich sehen, wie viele Punkte ich gesammelt habe?
+----------
+
+Sie finden eine Übersicht Ihrer gesammelten Punkte in der BahnBonus App oder in Ihrem DB Kundenkonto. Bitte bedenken Sie, dass die Verbuchung einige Minuten in Anspruch nehmen kann.
+
+* [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
+* [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-stand-ansehen)
+
+ Welche Punkte kann ich in der Bordgastronomie sammeln?
+----------
+
+Seit September 2024 können Sie beim Kauf von Speisen und Getränken in unseren Zügen mit Bordgastronomie BahnBonus Prämienpunkte sammeln. Statuspunkte können in der Bordgastronomie nicht gesammelt werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-bordgastro)
+
+ Wie funktioniert der BahnBonus Sammelprozess?
+----------
+
+Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben. Navigieren Sie in der App zu Ihrer digitalen BahnBonus Karte. Tippen Sie auf den darunter liegenden Button „Scannen & Punkte sammeln“ und lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
+
+* [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
+* [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammelprozess)
+
+ Wie viele Prämienpunkte bekomme ich in der Bordgastronomie?
+----------
+
+Sie sammeln BahnBonus Prämienpunkte auf den Kauf von allen Speisen und Getränken. Es gibt keinen Mindestwert. 1 Euro entspricht einem BahnBonus Prämienpunkt. Nachkommastellen werden auf den nächsten vollen Euro aufgerundet. Etwaige Gutscheine werden vor dem Sammeln abgezogen; Sie sammeln nur auf den tatsächlichen Zahlbetrag.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-bordgastronomie)
+
  Warum werden meine BahnBonus Punkte nicht gutschrieben?
 ----------
 

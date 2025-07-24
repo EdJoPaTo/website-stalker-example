@@ -113,9 +113,9 @@ Ja, die eingesetzten NVIDIA™ H200 GPUs unterstützen die CUDA-Plattform und er
 
 Die Bestpreis- und Zufriedenheitsgarantie ist bei diesen Produkten nicht gültig.
 
-### Mit welchen Images werden die vGPU Server ausgespielt? ###
+### Mit welchen Images werden die vGPU Server bereitgestellt? ###
 
-Die vGPU Server werden mit Ubuntu-Images ausgespielt.
+Die vGPU-Server werden aktuell ausschließlich mit einem Ubuntu-Image bereitgestellt. Hintergrund ist, dass die benötigten NVIDIA-Treiber nicht frei verfügbar sind und offiziell vorrangig Ubuntu unterstützen. Aus diesem Grund werden derzeit keine alternativen Images angeboten, und der Betrieb der vGPU-Server ist nur mit dem mitgelieferten Ubuntu-Image möglich.
 
 ### Ich möchte die neuen Server für LLMs nutzen. Welche Sprachmodelle lassen sich mit den neuen Tarifen auf den Servern betreiben? ###
 

@@ -62,7 +62,7 @@ Menü [](https://www.wetell.de/)
   * [Spotlight](https://www.wetell.de/community/spotlight/)
   * [Team](https://www.wetell.de/community/team/)
   * [Jobs](https://www.wetell.de/community/jobs/)
-  * [Affiliatepartner\*in werden](https://www.wetell.de/community/affiliatepartnerin-werden/)
+  * [Funksachen](https://funksachen.wetell.de/)
 
 * Fürs Business
 
