@@ -485,6 +485,7 @@
 * [Hubschrauber](https://www.wdrmaus.de/filme/sachgeschichten/hubschrauber.php5)
 * [Hühnerboogie](https://www.wdrmaus.de/filme/sachgeschichten/huehnerboogie.php5)
 * [Hund trinkt Milch Slomo](https://www.wdrmaus.de/filme/sachgeschichten/hund_trinkt_milch_slomo.php5)
+* [Hundedressur](https://www.wdrmaus.de/filme/sachgeschichten/hundedressur.php5)
 * [Hydrant](https://www.wdrmaus.de/filme/sachgeschichten/hydrant.php5)
 * [Hydraulischer Widder](https://www.wdrmaus.de/filme/sachgeschichten/hydraulischer_widder.php5)
 * [ICE 4 (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/ice4_teil1.php5)
