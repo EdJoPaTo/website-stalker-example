@@ -21,7 +21,7 @@ updated 2020-05-10
 
 adc, amp, dac, digi, dsp, gpio, soldering
 
-updated 2025-04-29
+updated 2025-07-28
 
 [DAC+ Pro: external power supply](https://www.hifiberry.com/docs/hardware/dac-pro-external-power-supply/)
 
