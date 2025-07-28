@@ -120,7 +120,7 @@ Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reser
  Warum gibt es eine Reservierungspflicht für viele Verbindungen im grenzüberschreitenden Verkehr?
 ----------
 
-In den Sommermonaten sind die internationalen Züge erfahrungsgemäß sehr hoch ausgelastet. Mit der internationalen Reservierungspflicht, die in einigen internationalen Verkehren sogar ganzjährig besteht, bieten wir Ihnen eine zuverlässige und komfortable Reise.
+In den Sommermonaten sind die internationalen Züge erfahrungsgemäß sehr hoch ausgelastet. Mit der internationalen Reservierungspflicht, die in einigen internationalen Verkehren sogar ganzjährig besteht, bieten wir unseren Kunden eine zuverlässige und komfortable Reise.
 
 Die Reservierungspflicht gilt im Verkehr nach Dänemark und in die Niederlande vom 28.05.2025 bis einschließlich 31.08.2025. Nach Tschechien besteht die internationale Reservierungspflicht vom 15.06.2025 bis einschließlich 31.08.2025. Dies gilt jerweils für alle im Fahrplan als reservierungspflichtig gekennzeichneten Züge.
 
@@ -143,7 +143,7 @@ Nein, die Reservierungspflicht gilt nur für grenzüberschreitende Reisen. Inner
  Ich habe meinen gebuchten Anschlusszug nicht erreicht und fahre mit dem nächsten Zug. Brauche ich eine neue Sitzplatzreservierung?
 ----------
 
-Ja, für reservierungspflichtige Züge ist immer eine Sitzplatzreservierung erforderlich. Deshalb müssen Sie eine neue Reservierung buchen, wenn sie einen anderen Zug nutzen. Ihre nicht in Anspruch genommene Sitzplatzreservierung können Sie im Nachgang im Servicecenter Fahrgastrechte oder bei einer DB-Verkaufsstelle zur Erstattung einreichen. Weitere Informationen unte [bahn.de/fahrgastrechte.](https://bahn.de/fahrgastrechte)
+Ja, für reservierungspflichtige Züge ist immer eine Sitzplatzreservierung erforderlich. Deshalb muss eine neue Reservierung gebucht werden, wenn ein anderer Zug genutzt wird. Eine nicht in Anspruch genommene Sitzplatzreservierung kann im Nachgang im Servicecenter Fahrgastrechte oder bei einer DB-Verkaufsstelle zur Erstattung eingereicht werden. Weitere Informationen unte [bahn.de/fahrgastrechte.](https://bahn.de/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-anschlusszug)
 
