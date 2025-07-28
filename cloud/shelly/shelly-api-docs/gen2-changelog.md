@@ -14,6 +14,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Unreleased
 ----------
 
+**Available as `1.7.0-beta4`**
+
+### Added ###
+
+* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) Add BTHomeControl revision to cloud headers
+
+### Fixed ###
+
+* [Sensor Addon](/gen2/Addons/ShellySensorAddon) Fix crash on OTA update when addon is enabled
+* [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4), [2PM Gen4](/gen2/Devices/Gen4/Shelly2PMG4) [Zigbee](/gen2/ComponentsAndServices/Zigbee) Fix incorrect power measurement reports
+* [2PM Gen4](/gen2/Devices/Gen4/Shelly2PMG4) [Zigbee](/gen2/ComponentsAndServices/Zigbee) Fix wrong device type (shutter -\> rollershade); fix crash on profile change when paired; fix device not appearing as new/unknown to coordinator on profile change (requires re-pairing); fix required restart when slat control is enabled; fix migration of profile settings when switching alternative firmwares
+
+### Local web ###
+
+### Fixed ###
+
+* Gen4 devices: Fix alternative firmwares UI when no stable version is available
+
 **Available as `1.7.0-beta3`**
 
 ### Added ###
