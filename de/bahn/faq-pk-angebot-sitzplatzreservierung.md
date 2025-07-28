@@ -168,7 +168,7 @@ Mit einem flexiblen Ticket ohne Zugbindung (z. B. Flexpreis Europa), können Rei
 
 Ja, auch Pass-Reisende benötigen - neben ihrem Interrail/Eurail-Pass - für die reservierungspflichtigen Züge im internationalen Verkehr eine kostenpflichtige Reservierung.
 
-Wir empfehlen Ihnen eine frühzeitige Reiseplanung und Reservierung.
+Wir empfehlen dir eine frühzeitige Reiseplanung und Reservierung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-paesse)
 
