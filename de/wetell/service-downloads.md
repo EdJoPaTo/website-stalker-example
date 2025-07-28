@@ -94,6 +94,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 * #### Jahresabschluss ####
 
   * [Jahresabschluss 2023](/media/filer_public/cb/69/cb694ccb-b7c9-48da-aa53-3efd072222c5/wetell-jahresabschluss-2023.pdf)
+  * [Jahresabschluss 2024](/media/filer_public/82/9d/829d2388-bef1-4879-a4cc-20fbac19c5a0/jahresabschluss-2024.pdf)
 
 * #### GWÖ-Bericht ####
 
