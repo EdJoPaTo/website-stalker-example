@@ -86,8 +86,7 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 1. cirrus incus
 2. AC-Adapter (externes Netzteil)
-3. Beim Kauf einer Windows-Lizenz: Original Windows-DVD mit Lizenzaufkleber
-4. Beim Kauf der WiFi-Option: 2x WLAN-Gelenkantennen für 2,4GHz / 5GHz
+3. Beim Kauf der WiFi-Option: 2x WLAN-Gelenkantennen für 2,4GHz / 5GHz
 
 ##### Benötigen Sie zusätzliche Informationen zum cirrus Incus ? #####
 

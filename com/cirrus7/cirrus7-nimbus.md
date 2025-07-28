@@ -99,8 +99,7 @@ Der cirrus nimbus ist modular aufgebaut. Das Herzstück des Kühlsystems ist ein
 
 1. cirrus nimbus v5 - passiv gekühlter mini-PC
 2. AC-Adapter (externes Netzteil)
-3. Beim Kauf einer Windows-Lizenz. Original Windows-DVD mit Lizenzaufkleber
-4. Beim Kauf der WiFi-Option: 2x WLAN-Gelenkantennen für 2,4GHz / 5GHz
+3. Beim Kauf der WiFi-Option: 2x WLAN-Gelenkantennen für 2,4GHz / 5GHz
 
 ##### Benötigen Sie zusätzliche Informationen zum cirrus nimbus ? #####
 
