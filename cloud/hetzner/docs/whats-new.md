@@ -94,10 +94,10 @@ New server plans with shared Intel® vCPUs are now available! The new servers wi
 
 \*To give you time to adapt the new server plans, the old server plans (CX11, CX21, CX31, CX41, CX51) will remain available for order via API until **6 September 2024**. Existing servers are not affected by this deprecation and will continue to work.
 
-February 2024
+March 2024
 ----------
 
-Feb 27
+Mar 27
 
 ### Global Search: Label search now possible ###
 
@@ -107,7 +107,7 @@ We added the new search criterion "label" to our global search, which means you 
 
 Up until now, the key combination **"ctrl / ⌘ + K"** was used to open the filter within projects, and the shortcut **"/"** was used to open the project-wide global search. As **"ctrl / ⌘ + K"** is more commonly used for global searches and **"/"** is more commonly used for local searches, we decided to adjust our shortcuts for a more intuitive experience. The shortcut / now opens the filter and **"ctrl / ⌘ + K"** now opens global search.
 
-Feb 13
+Mar 13
 
 ### Default settings for server creation ###
 
@@ -242,10 +242,10 @@ Mar 10
 
 We have added three new Apps. With [Owncast](https://docs.hetzner.com/cloud/apps/list/owncast), you can now start your own live stream immediately after server creation. The [PhotoPrism installation](https://docs.hetzner.com/cloud/apps/list/photoprism) allows you to manage your pictures with AI functionality. And the [RustDesk App](https://docs.hetzner.com/cloud/apps/list/rustdesk) turns your server into a ready-to-go remote desktop server.
 
-February 2023
+March 2023
 ----------
 
-Feb 15
+Mar 15
 
 ### Redesign of the status bar ###
 
@@ -362,10 +362,10 @@ Mar 07
 
 Any filter options and sort settings you set within a project now remain active for the entire session and are saved even if you switch between several list views. An automatic reset of your projects' filter settings is therefore only performed after the session was ended.
 
-February 2022
+March 2022
 ----------
 
-Feb 01
+Mar 01
 
 ### Display confirmed onboarding hints again ###
 
@@ -491,10 +491,10 @@ Apr 15
 
 With the relaunch of [status.hetzner.com](https://status.hetzner.com/en), the display of status messages has also been improved. For example, messages are now also displayed if your other Hetzner resources like dedicated servers are affected by outages.
 
-February 2021
+March 2021
 ----------
 
-Feb 24
+Mar 24
 
 ### New design of the projects overview page ###
 
