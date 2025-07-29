@@ -92,9 +92,3 @@ Ships
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/starlite) [Get Notified When Available](#)
-
- StarLite Mk V
-
- Pre-orders are live!
-
-Use discount code **LITEUP10** for a 10% early bird saving.
