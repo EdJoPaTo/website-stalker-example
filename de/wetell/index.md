@@ -40,7 +40,7 @@ Menü [](https://www.wetell.de/)
   * [Mobilfunk neu denken](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/)
     * [Aktiv fürs Klima](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima)
     * [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle)
-    * [Liebevoller Service](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
+    * [Service per Du](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
 
 * Service
 
@@ -287,7 +287,7 @@ Wir sind ein Unternehmen für positiven Wandel.
 
 Das sich fürs Gemeinwohl engagiert.
 
-[Aktiv fürs Klima](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima) [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle) [Liebevoller Service](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
+[Aktiv fürs Klima](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima) [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle) [Service per Du](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
 
 Mit dir zünden wir den Funken.
 

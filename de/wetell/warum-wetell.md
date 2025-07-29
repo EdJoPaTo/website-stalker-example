@@ -7,6 +7,6 @@ Wirtschaft aufmischen
 
 Mobilfunk neu denken
 
-[Aktiv fürs Klima](/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima) [Fairness für alle](/warum-wetell/mobilfunk-neu-denken/#fairness-fuer-alle) [Liebevoller Service](/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
+[Aktiv fürs Klima](/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima) [Fairness für alle](/warum-wetell/mobilfunk-neu-denken/#fairness-fuer-alle) [Service per Du](/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
 
 Mit dir zünden wir den Funken.

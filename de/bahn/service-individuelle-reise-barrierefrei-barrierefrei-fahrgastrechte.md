@@ -132,10 +132,10 @@ Detaillierte Informationen zu Ihren Fahrgastrechten und wie Sie Ihre Entschädig
 Flyer Barrierefreies Reisen
 ----------
 
-* [Barrierefreies Reisen: Die Mobilitätsservice-Zentrale (MSZ), Stand Januar 2025 (PDF, 318 KB)](https://assets.static-bahn.de/dam/jcr:a50e6dc1-aa97-4822-836e-ab914a3f1be6/Flyer%20ME-Reisende-1.pdf)
-* [Bahn Reisen in leichter Sprache, Stand Januar 2025 (PDF, 268 KB)](https://assets.static-bahn.de/dam/jcr:59ee6f90-e6d0-4f87-b04c-f026ca175eb1/Bahn%20Reisen%20in%20leichter%20Sprache-1.pdf)
-* [Bahn-Reisen mit SB-Ausweis: Eine Information in Leichter Sprache, Stand Januar 2025 (PDF, 175 KB)](https://assets.static-bahn.de/dam/jcr:14cb2dd7-69d6-4a83-8a47-623fb8eee5d0/Flyer%20Reisen%20mit%20SB-Ausweis.pdf)
-* [Accessible travel: The Mobility Service Centre (MSC), January 2025 (PDF, 335 KB)](https://assets.static-bahn.de/dam/jcr:48eabfe5-8b48-41f7-9a47-b455de39e41e/Flyer%20ME-Reisende%20Englisch-1.pdf)
+* [Barrierefreies Reisen: Die Mobilitätsservice-Zentrale (MSZ), Stand Juli 2025 (PDF, 334 KB)](https://assets.static-bahn.de/dam/jcr:06f32e63-bcd5-497c-9975-4a8706941d53/Informationen%20zum%20barrierefreiem%20Reisen.pdf)
+* [Bahn Reisen in leichter Sprache, Stand Juli 2025 (PDF, 271 KB)](https://assets.static-bahn.de/dam/jcr:3231e46f-9b1d-48b7-8fe8-aeefd621aaaf/Bahn%20Reisen%20in%20leichter%20Sprache%20(1).pdf)
+* [Bahn-Reisen mit SB-Ausweis: Eine Information in leichter Sprache, Stand Juli 2025 (PDF, 244 KB)](https://assets.static-bahn.de/dam/jcr:15909f2b-0796-4b0f-b4b6-00965167b6bd/Informationen%20zum%20Reisen%20mit%20Schwerbehindertenausweis%20(Leichte%20Sprache).pdf)
+* [Accessible travel: The Mobility Service Centre (MSC), July 2025 (PDF, 366 KB)](https://assets.static-bahn.de/dam/jcr:b5a2b19d-487a-4ff8-8e4a-e4480e2b43ca/Informations%20for%20people%20with%20reduced%20mobility.pdf)
 
 Hilfreiche Infos für
 ----------

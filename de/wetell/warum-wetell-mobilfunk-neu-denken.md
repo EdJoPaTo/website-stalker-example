@@ -116,7 +116,7 @@ Egal ob bei Kund\*innen, Mitarbeitenden oder Kooperationspartner\*innen: Wir br
 
   Und auch den Datenkraken machen wir es schwer, denn über uns gelangen deine Daten nicht an Facebook und Co. Durch unsere Cookie-Einstellungen und die Nutzung alternativer Analysetools bleiben deine Daten dort, wo du sie haben willst: und zwar bei dir!
 
-Liebevoller Service
+Service per Du
 ----------
 
 Bei uns steht der Mensch im Mittelpunkt. Unser liebevoller Service ist persönlich, ehrlich und immer auf Augenhöhe. Ob per [Telefon](tel:+4976176999848), [Mail](mailto:service@wetell.de) oder [Threema](https://threema.id/VCWEM8SX?text=) – wir sind für dich da und finden gemeinsam die beste Lösung.
