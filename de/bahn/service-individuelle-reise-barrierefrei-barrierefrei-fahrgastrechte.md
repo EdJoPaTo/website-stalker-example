@@ -144,12 +144,9 @@ Hilfreiche Infos für
 * [Fahrgäste mit Mobilitätseinschränkung](https://www.bahn.de/service/individuelle-reise/barrierefrei/eingeschraenkte-mobilitaet)
 * [Bahnfahren in leichter Sprache](https://www.bahn.de/service/individuelle-reise/barrierefrei/leichte-sprache)
 
-Das könnte Sie auch interessieren
+Das könnte Sie auch interessieren!
 ----------
 
-* [Die Programme der DB AG](https://www.bahn.de/service/individuelle-reise/barrierefrei/programme-db)
-* [www.bahnhof.de](https://www.bahnhof.de/)
-* [Ermäßigte BahnCard für Menschen mit Behinderungen](https://www.bahn.de/angebot/bahncard)
-* [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Juli 2025 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).pdf)
-* [Bahnhofsliste und Leistungszeiten DB InfraGO AG, Stand Juli 2025 (PDF, 99 KB)Bahnhofsliste und Leistungszeiten DB InfraGO AG, Stand Juli 2025](https://assets.static-bahn.de/dam/jcr:ea6d4e64-f0c0-4af4-a22e-05e733c2cb1e/Bahnhofsliste%20und%20Leistungszeiten%20DB%20InfraGO%20AG_Stand%20Juli%202025.pdf)
-* [Marktforschungs-Datenbank für mobilitäts- und sinneseingeschränkte Reisende (MER)Marktforschungs-Datenbank für mobilitäts- und sinneseingeschränkte Reisende (MER)](https://www.bahn.de/service/individuelle-reise/barrierefrei/mer-marktforschung)
+[Die Programme der DB AG Weitere Informationen: Die Programme der DB AG](https://www.bahn.de/service/individuelle-reise/barrierefrei/programme-db)
+
+[www.bahnhof.de Hier leiten wir Sie auf die Website www.bahnhof.de weiter.](https://www.bahnhof.de/) [Ermäßigte BahnCard für Menschen mit Behinderungen Weitere Informationen: Ermäßigte BahnCard für Menschen mit Behinderungen](https://www.bahn.de/angebot/bahncard/ermaessigte-bahncard) [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Juli 2025 (PDF, 57 KB) Download der Datei: Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Juli 2025 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).pdf) [Accessible travel: The Mobility Service Centre (MSC), July 2025 (PDF, 366 KB) Download der Datei: Accessible travel: The Mobility Service Centre (MSC), July 2025 (PDF, 366 KB)](https://assets.static-bahn.de/dam/jcr:b5a2b19d-487a-4ff8-8e4a-e4480e2b43ca/Informations%20for%20people%20with%20reduced%20mobility.pdf) [Marktforschungs-Datenbank für mobilitäts- und sinneseingeschränkte Reisende (MER) Weitere Informationen: Marktforschungs-Datenbank für mobilitäts- und sinneseingeschränkte Reisende (MER)](https://www.bahn.de/service/individuelle-reise/barrierefrei/mer-marktforschung)
