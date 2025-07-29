@@ -5,21 +5,11 @@ netcup Deals
 
 Am 29. & 30. Juli feiern wir alle IT-Profis mit Top Deals auf Server, Hosting und Domains. Mehr Cores, mehr SSD und mehr Power für deine Projekte!
 
-[Mehr Informationen](https://www.netcup.com/de/deals#infos)
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
 
-### **Das erwartet dich:** ###
+* Alle (0) Flash Deals (0)
 
-* ### Unschlagbare Deals ###
-
-  Ob Webhosting, VPS oder Domains – unsere Angebote, die jeder SysAdmin für den nächsten großen Schritt braucht.
-
-* ### 24 Stunden verfügbar  ###
-
-  Sei dabei, wenn wir am 29. Juli ab 10 Uhr (MEZ) den Countdown starten und sichere dir deinen Top Deal.
-
-* ### Zusätzlicher Flashdeal ###
-
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), und sichere dir ein exklusives Extra-Angebot – nur für kurze Zeit!
+Keine Deals in dieser Kategorie
 
 Bleibe auf dem Laufenden
 ----------
@@ -90,7 +80,7 @@ Wir bieten dir zu immer wiederkehrenden Sale-Events eine immer unterschiedliche 
 
 ### Wie lange sind netcup Deals verfügbar? ###
 
-Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Aktionen können sie jedoch auch über einen längeren oder kürzeren Zeitraum zu Verfügung stehen. Bitte beachte die Informationen auf unserer Website.  Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
+Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Aktionen können sie jedoch auch über einen längeren oder kürzeren Zeitraum zu Verfügung stehen. Bitte beachte die Informationen auf unserer Website. Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
 
 ### Wie kann ich netcup Deals kaufen? ###
 
