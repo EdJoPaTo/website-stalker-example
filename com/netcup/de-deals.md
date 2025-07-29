@@ -7,7 +7,7 @@ Am 29. & 30. Juli feiern wir alle IT-Profis mit Top Deals auf Server, Hosting un
 
 [Zu den Deals](https://www.netcup.com/de/deals#deals)
 
-* Alle (0) Flash Deals (0)
+* Alle (0) Flash Deals (1)
 
 Keine Deals in dieser Kategorie
 

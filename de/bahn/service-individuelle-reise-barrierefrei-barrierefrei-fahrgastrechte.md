@@ -132,10 +132,9 @@ Detaillierte Informationen zu Ihren Fahrgastrechten und wie Sie Ihre Entschädig
 Flyer Barrierefreies Reisen
 ----------
 
-* [Barrierefreies Reisen: Die Mobilitätsservice-Zentrale (MSZ), Stand Juli 2025 (PDF, 334 KB)](https://assets.static-bahn.de/dam/jcr:06f32e63-bcd5-497c-9975-4a8706941d53/Informationen%20zum%20barrierefreiem%20Reisen.pdf)
-* [Bahn Reisen in leichter Sprache, Stand Juli 2025 (PDF, 271 KB)](https://assets.static-bahn.de/dam/jcr:3231e46f-9b1d-48b7-8fe8-aeefd621aaaf/Bahn%20Reisen%20in%20leichter%20Sprache%20(1).pdf)
-* [Bahn-Reisen mit SB-Ausweis: Eine Information in leichter Sprache, Stand Juli 2025 (PDF, 244 KB)](https://assets.static-bahn.de/dam/jcr:15909f2b-0796-4b0f-b4b6-00965167b6bd/Informationen%20zum%20Reisen%20mit%20Schwerbehindertenausweis%20(Leichte%20Sprache).pdf)
-* [Accessible travel: The Mobility Service Centre (MSC), July 2025 (PDF, 366 KB)](https://assets.static-bahn.de/dam/jcr:b5a2b19d-487a-4ff8-8e4a-e4480e2b43ca/Informations%20for%20people%20with%20reduced%20mobility.pdf)
+[Barrierefreies Reisen: Die Mobilitätsservice-Zentrale (MSZ), Stand Juli 2025 (PDF, 334 KB) Download der Datei: Barrierefreies Reisen: Die Mobilitätsservice-Zentrale (MSZ), Stand Juli 2025 (PDF, 334 KB)](https://assets.static-bahn.de/dam/jcr:06f32e63-bcd5-497c-9975-4a8706941d53/Informationen%20zum%20barrierefreiem%20Reisen.pdf)
+
+[Bahn Reisen in leichter Sprache, Stand Juli 2025 (PDF, 271 KB) Download der Datei: Bahn Reisen in leichter Sprache, Stand Juli 2025 (PDF, 271 KB)](https://assets.static-bahn.de/dam/jcr:3231e46f-9b1d-48b7-8fe8-aeefd621aaaf/Bahn%20Reisen%20in%20leichter%20Sprache%20(1).pdf) [Bahn-Reisen mit SB-Ausweis: Eine Information in leichter Sprache, Stand Juli 2025 (PDF, 244 KB) Download der Datei: Bahn-Reisen mit SB-Ausweis: Eine Information in leichter Sprache, Stand Juli 2025 (PDF, 244 KB)](https://assets.static-bahn.de/dam/jcr:15909f2b-0796-4b0f-b4b6-00965167b6bd/Informationen%20zum%20Reisen%20mit%20Schwerbehindertenausweis%20(Leichte%20Sprache).pdf) [Accessible travel: The Mobility Service Centre (MSC), July 2025 (PDF, 366 KB) Download der Datei: Accessible travel: The Mobility Service Centre (MSC), July 2025 (PDF, 366 KB)](https://assets.static-bahn.de/dam/jcr:b5a2b19d-487a-4ff8-8e4a-e4480e2b43ca/Informations%20for%20people%20with%20reduced%20mobility.pdf)
 
 Hilfreiche Infos für
 ----------
