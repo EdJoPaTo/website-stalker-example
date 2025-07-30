@@ -11,37 +11,54 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-Unreleased
+[1.7.0] 2025-07-30
 ----------
 
-**Available as `1.7.0-beta4`**
+note
+
+Firmware version `1.7.0` is being rolled out in phases, not all devices will receive the update immediately.
 
 ### Added ###
 
-* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) Add BTHomeControl revision to cloud headers
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee) Expose pairing status; enable RPC pairing
+* [WiFi](/gen2/ComponentsAndServices/WiFi) Add BSSID in status
+* [BTHome](/gen2/DynamicComponents/BTHome/) Add sensors statuses in button event info
+* Devices with BL0942 power meter chip (1 PM Gen3, 1PM Mini Gen3, 1PM Gen4, 1PM Mini Gen4, PlugS Gen3, Outdoor PlugS Gen3, Plus 1PM Mini, AZ Plug): Enable zero-cross synchronized output operation
+* RPC-GATTS: Optimize sending small frames in both directions
+* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) The `BTHomeControl` component maintains mapping between [Shelly BLU devices](/docs-ble) and the outputs of a Shelly WiFi device ([Switch](/gen2/ComponentsAndServices/Switch), [Cover](/gen2/ComponentsAndServices/Cover), [Light](/gen2/ComponentsAndServices/Light)), offering both offline and online learning procedure to link the controller (BLU device) and controlee (Shelly WiFi device).
+* [Matter](/gen2/ComponentsAndServices/Matter) Add `Matter.FactoryReset` to only reset Matter settings
+* [Cover](/gen2/ComponentsAndServices/Cover) Add venetian blinds commands to MQTT control
+
+### Changed ###
+
+* [Scripting](/gen2/ComponentsAndServices/Script) Track CPU usage, throttle BLE Scan results when \>25%
+* Update IDF to 5.4.1
+* Update LwIP to 2.2.1
+* Refactor factory reset to use buildtime FS list
+* [BLE](/gen2/ComponentsAndServices/BLE) Improve BLE scan deduplication
+* [WiFi](/gen2/ComponentsAndServices/WiFi) Do not save last AP on mains-powered devices
+* OTA: Use current date in boot state sequence
+* Dynamic Components: Optimize storage
+* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM) Allow setting undervoltage protection down to 90V
 
 ### Fixed ###
 
-* [Sensor Addon](/gen2/Addons/ShellySensorAddon) Fix crash on OTA update when addon is enabled
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) BTHome: Fix device rescue (e.g. after BluTRV bootloader update)
+* [1 Gen4](/gen2/Devices/Gen4/Shelly1G4), [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Fix Wi-Fi 6 support
 * [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4), [2PM Gen4](/gen2/Devices/Gen4/Shelly2PMG4) [Zigbee](/gen2/ComponentsAndServices/Zigbee) Fix incorrect power measurement reports
 * [2PM Gen4](/gen2/Devices/Gen4/Shelly2PMG4) [Zigbee](/gen2/ComponentsAndServices/Zigbee) Fix wrong device type (shutter -\> rollershade); fix crash on profile change when paired; fix device not appearing as new/unknown to coordinator on profile change (requires re-pairing); fix required restart when slat control is enabled; fix migration of profile settings when switching alternative firmwares
-
-### Local web ###
-
-### Fixed ###
-
-* Gen4 devices: Fix alternative firmwares UI when no stable version is available
-
-**Available as `1.7.0-beta3`**
-
-### Added ###
-
-* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) Add BTHomeControl revision in [Sys.Status](/gen2/ComponentsAndServices/Sys#status)
-* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) Add learning progress notifications
-* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) Add support for [Pro1](/gen2/Devices/Gen2/ShellyPro1), [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM) and [1L Gen3](/gen2/Devices/Gen3/Shelly1LG3)
-
-### Fixed ###
-
+* [Matter](/gen2/ComponentsAndServices/Matter) Fix crash by DNSSD resolving only non-LL IPv6 addresses
+* [Input](/gen2/ComponentsAndServices/Input) Fix erroneous emission of `triple_push` notification when more than 3 pushes occur
+* [Light](/gen2/ComponentsAndServices/Light), [RGBW](/gen2/ComponentsAndServices/RGBW) Allow for decimal values for transition\_duration and toggle\_after for MQTT control
+* Fix `cfg_rev` different from 0 after factory reset
+* Gen4 devices: Allow switching to alternative firmware on beta stage
+* Gen4 devices: Fix BLE signal strength regression
+* [BLE](/gen2/ComponentsAndServices/BLE) Fix scan manager crashes
+* [Virtual Components](/gen2/DynamicComponents/Virtual/) Adjust parsing of configuration to recognize all formats
+* [Switch](/gen2/ComponentsAndServices/Switch), [Cover](/gen2/ComponentsAndServices/Cover) Adjust error checks in MQTT control
+* [Webhook](/gen2/ComponentsAndServices/Webhook) Fix invocation of conditional hooks when condition is invalid
+* [PlusRGBW PM](/gen2/Devices/Gen2/ShellyPlusRGBWPM) Fix false overvoltage errors
+* Debug: Disable interrupts when dumping core
 * [BLE](/gen2/ComponentsAndServices/BLE) Don't disable coexistence when BLE is disabled
 * [Matter](/gen2/ComponentsAndServices/Matter) Fix misprovisioned devices
 * System LED: Fix indication for network/factory reset
@@ -53,87 +70,6 @@ Unreleased
 * [PlusRGBW PM](/gen2/Devices/Gen2/ShellyPlusRGBWPM) Fix crashes on overcurrent error
 * [AZ Plug](/gen2/Devices/Gen3/ShellyAZPlug) Update FFS certificate chain
 * [Cover](/gen2/ComponentsAndServices/Cover) Reduce event notifications load in scripting
-* [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Bring back Zigbee model names as prior to `1.7.0-beta2`
-
-### Local web ###
-
-### Fixed ###
-
-* [WiFi](/gen2/ComponentsAndServices/WiFi) Fix disabling WiFi when AP config doesn't exist
-* [Zigbee](/gen2/ComponentsAndServices/Zigbee) Fix Zigbee enable/disable
-* [Cover](/gen2/ComponentsAndServices/Cover) Drop warning messages that only apply to Switch profile
-* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) UI improvements
-
-### Fixed ###
-
-**Available as `1.7.0-beta2`**
-
-### Added ###
-
-* [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl) The `BTHomeControl` component maintains mapping between [Shelly BLU devices](/docs-ble) and the outputs of a Shelly WiFi device ([Switch](/gen2/ComponentsAndServices/Switch), [Cover](/gen2/ComponentsAndServices/Cover), [Light](/gen2/ComponentsAndServices/Light)), offering both offline and online learning procedure to link the controller (BLU device) and controlee (Shelly WiFi device).
-* [Matter](/gen2/ComponentsAndServices/Matter) Add `Matter.FactoryReset` to only reset Matter settings
-* [Cover](/gen2/ComponentsAndServices/Cover) Add venetian blinds commands to MQTT control
-
-### Changed ###
-
-* [BLE](/gen2/ComponentsAndServices/BLE) Improve BLE scan deduplication
-* [WiFi](/gen2/ComponentsAndServices/WiFi) Do not save last AP on mains-powered devices
-* OTA: Use current date in boot state sequence
-* Dynamic Components: Optimize storage
-* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM) Allow setting undervoltage protection down to 90V
-
-### Fixed ###
-
-* Gen4 devices: Allow switching to alternative firmware on beta stage
-* Gen4 devices: Fix BLE signal strength regression
-* [BLE](/gen2/ComponentsAndServices/BLE) Fix scan manager crashes
-* [Virtual Components](/gen2/DynamicComponents/Virtual/) Adjust parsing of configuration to recognize all formats
-* [Switch](/gen2/ComponentsAndServices/Switch), [Cover](/gen2/ComponentsAndServices/Cover) Adjust error checks in MQTT control
-* [Webhook](/gen2/ComponentsAndServices/Webhook) Fix invocation of conditional hooks when condition is invalid
-* [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Update Zigbee model names
-* Debug: Disable interrupts when dumping core
-
-### Local web ###
-
-### Added ###
-
-* [Matter](/gen2/ComponentsAndServices/Matter) Add Matter reset button
-
-### Changed ###
-
-* Gen4 devices: Redesign alternative firmware notifications styling
-
-### Fixed ###
-
-* Debug: Fix reset to default of Shelly UDP logs server
-* Plugs: Fix night mode brightness sliders
-* Gen4 devices: Hide BTHome components in Zigbee mode
-
-**Available as `1.7.0-beta1`**
-
-### Added ###
-
-* [Zigbee](/gen2/ComponentsAndServices/Zigbee) Expose pairing status; enable RPC pairing
-* [WiFi](/gen2/ComponentsAndServices/WiFi) Add BSSID in status
-* [BTHome](/gen2/DynamicComponents/BTHome/) Add sensors statuses in button event info
-* Devices with BL0942 power meter chip (1 PM Gen3, 1PM Mini Gen3, 1PM Gen4, 1PM Mini Gen4, PlugS Gen3, Outdoor PlugS Gen3, Plus 1PM Mini, AZ Plug): Enable zero-cross synchronized output operation
-* RPC-GATTS: Optimize sending small frames in both directions
-
-### Changed ###
-
-* [Scripting](/gen2/ComponentsAndServices/Script) Track CPU usage, throttle BLE Scan results when \>25%
-* Update IDF to 5.4.1
-* Update LwIP to 2.2.1
-* Refactor factory reset to use buildtime FS list
-
-### Fixed ###
-
-* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) BTHome: Fix device rescue (e.g. after BluTRV bootloader update)
-* [1 Gen4](/gen2/Devices/Gen4/Shelly1G4), [1PM Gen4](/gen2/Devices/Gen4/Shelly1PMG4), [1 Mini Gen4](/gen2/Devices/Gen4/ShellyMini1G4), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4) Fix Wi-Fi 6 support
-* [Matter](/gen2/ComponentsAndServices/Matter) Fix crash by DNSSD resolving only non-LL IPv6 addresses
-* [Input](/gen2/ComponentsAndServices/Input) Fix erroneous emission of `triple_push` notification when more than 3 pushes occur
-* [Light](/gen2/ComponentsAndServices/Light), [RGBW](/gen2/ComponentsAndServices/RGBW) Allow for decimal values for transition\_duration and toggle\_after for MQTT control
-* Fix `cfg_rev` different from 0 after factory reset
 
 ### Local web ###
 
@@ -148,6 +84,7 @@ Unreleased
 * Plugs: Add 'black' preset to color picker
 * Debug: Add quick button to enable logs to Shelly UDP server
 * Debug: Add device id to diagnostics filenames and append device info to logs
+* [Matter](/gen2/ComponentsAndServices/Matter) Add Matter reset button
 
 ### Changed ###
 
@@ -156,6 +93,7 @@ Unreleased
 * [Matter](/gen2/ComponentsAndServices/Matter) Update warning on factory reset
 * PM protections: Remove wrong description
 * Update to Svelte 4
+* Gen4 devices: Redesign alternative firmware notifications styling
 
 ### Fixed ###
 
@@ -163,6 +101,14 @@ Unreleased
 * Config: Fix handling nested configs when object is set to `null`
 * Authentication: Fix incorrect message for wrong password, when HomeAssistant ble proxy is enabled
 * Fix power factor wrong unit prefix
+* Debug: Fix reset to default of Shelly UDP logs server
+* Plugs: Fix night mode brightness sliders
+* Gen4 devices: Hide BTHome components in Zigbee mode
+* Gen4 devices: Fix alternative firmwares UI when no stable version is available
+* [WiFi](/gen2/ComponentsAndServices/WiFi) Fix disabling WiFi when AP config doesn't exist
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee) Fix Zigbee enable/disable
+* [Cover](/gen2/ComponentsAndServices/Cover) Drop warning messages that only apply to Switch profile
+* [RGB](/gen2/ComponentsAndServices/RGB), [RGBW](/gen2/ComponentsAndServices/RGBW) Add default transition duration range
 
 [1.6.2] 2025-05-20
 ----------

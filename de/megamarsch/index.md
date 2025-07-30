@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### Ruhrgebiet bei nacht ###
+### #WIRGEHENWEITER Sommer SPEZIAL ###
 
-### 26.-27. Juli 2025 ###
+### 01. - 03. August 2025 ###
 
-### 50 km ###
+### 50 KM ODER 100 KM ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/wirgehenweiter-sommer-spezial)
 
 |     Events     |   2025   |   2026   |
 |----------------|----------|----------|
@@ -40,7 +40,7 @@ IN DEINER NÄHE!
 |   Düsseldorf   |05/07/2025|04/07/2026|
 |Düsseldorf 25KM |          |04/07/2026|
 |     Erfurt     |12/07/2025|11/07/2026|
-|Ruhrgebiet b. N.|26/07/2025|          |
+|Ruhrgebiet b. N.|26/07/2025|25/07/2025|
 | Hamburg b. N.  |09/08/2025|          |
 |  Berlin b.N.   |30/08/2025|          |
 |   Stuttgart    |06/09/2025|          |
