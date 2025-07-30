@@ -1,11 +1,9 @@
 netcup Deals
 ==========
 
-**SysAdmin Day Extended: Wir feiern euch mit starken Angeboten!**
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-Am 29. & 30. Juli feiern wir alle IT-Profis mit Top Deals auf Server, Hosting und Domains. Mehr Cores, mehr SSD und mehr Power für deine Projekte!
-
-[Zu den Deals](https://www.netcup.com/de/deals#deals)
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 * Alle (0) Flash Deals (0)
 
