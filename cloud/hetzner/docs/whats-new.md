@@ -3,10 +3,10 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
-June 2025
+July 2025
 ----------
 
-Jun 25
+Jul 25
 
 ### 🚀 More than cloud: Welcome to the Hetzner Console ###
 
@@ -34,10 +34,10 @@ With the end of the beta phase, our S3-compatible Object Storage is now availabl
 * **Versatile application possibilities**Use the Buckets for backups, file storage, hosting, infrastructure and development projects and much more.
 * **S3-compatible API**Manage your data via our S3-compatible API. To create credentials, go to "Security".
 
-September 2024
+October 2024
 ----------
 
-Sep 04
+Oct 04
 
 ### New entry point in your projects: The dashboard is live 🚀 ###
 
@@ -74,16 +74,16 @@ The activities page has been reworked and now comes with an improved design.
 * **EASY NAVIGATION**More activities are automatically loaded as you scroll down, eliminating the need to switch between different pages and enhancing load times for a smoother user experience.
 * **DOWNLOAD AS CSV**We only show activities from the past 90 days. To view all activities at any time, you can now download the activities of the selected month as CSV file.
 
-June 2024
+July 2024
 ----------
 
-Jun 17
+Jul 17
 
 ### Removal of old activities ###
 
 We are currently reworking the activities page and plan to introduce the changes at the beginning of July. From this time on, we will only show activities from the past 90 days and you will no longer be able to view activities that are older than that. If you still need your old activities, we recommend you manually save them yourself by the end of June. With the reworked activities page, you will get the new option to download the activities from the past 3 months as CSV file, which will make it easier for you in the future to save and access your activities.
 
-Jun 06
+Jul 06
 
 ### New shared vCPU servers with Intel® processors ###
 
@@ -129,10 +129,10 @@ As part of our ongoing effort to improve our responsive design, we redesigned ou
 * We removed the left menu bar in projects. You can now use the menu icon in the top right to switch between resource overviews.
 * The user menu now comes in an improved design that makes it easier to navigate on the phone.
 
-September 2023
+October 2023
 ----------
 
-Sep 19
+Oct 19
 
 ### CAX servers with Arm64 architecture now available in three locations ###
 
@@ -176,22 +176,22 @@ The Cloud API now includes the new endpoint **"GET /{resource}/actions"** for al
 
 Also starting on 1 October 2023, all action endpoints will only return actions from the past 90 days.
 
-June 2023
+July 2023
 ----------
 
-Jun 23
+Jul 23
 
 ### Networks: Expose routes to vSwitch ###
 
 Networks with vSwitch subnets now come with a new option that allows you to use your routes not only for cloud servers but also for dedicated servers. For this, we have added "Expose routes to vSwitch" to the action menus of those networks and vSwitch subnets. As long as the routes are exposed to the vSwitch, they also become reachable for all dedicated servers that are assigned to the vSwitch.
 
-Jun 20
+Jul 20
 
 ### Search bar for apps ###
 
 We updated the create page for servers to include a new search bar for apps. This way, you no longer have to look through the entire list of apps. Instead, you can just use the search bar to filter the results, making it quick and easy to find the apps you're looking for.
 
-Jun 19
+Jul 19
 
 ### Servers with dedicated Intel® vCPUs are deprecated ###
 
@@ -213,10 +213,10 @@ Please note that there will be a change regarding the **id** fields in our API. 
 * If you are using our API, make sure your code can handle 52-bit integers properly. Otherwise, you might run into issues.
 * If you are using hcloud-go on a 32-bit platform, you will need to upgrade to a new version as the current one does not support 52 bit. Check out the official hcloud-go documentation for more information on an upcoming release.
 
-April 2023
+May 2023
 ----------
 
-Apr 12
+May 12
 
 ### New server plans with Arm64 architecture ###
 
@@ -273,10 +273,10 @@ In addition to the four existing locations, Hillsboro, Oregon, is now also avail
 * **Second location in the USA**When you create a new resource with US location, you can now choose between a location on the East Coast (Ashburn, VA) and a location on the West Coast (Hillsboro, OR).
 * **Silicon Forest**The area with the nickname Silicon Forest is already known for the high concentration of high-tech companies, and it comes with an exceptional network that caters to both local connections and overseas connections.
 
-November 2022
+December 2022
 ----------
 
-Nov 09
+Dec 09
 
 ### Add labels at creation process ###
 
@@ -291,10 +291,10 @@ Oct 27
 
 Bulk edit now comes with a keyboard hotkey that allows you to deselect all resources with the press of a key. So when you are done editing, or if you want to start a new selection, simply hit esc, and your current selection will be cleared.
 
-September 2022
+October 2022
 ----------
 
-Sep 29
+Oct 29
 
 ### Improved user experience for notifications ###
 
@@ -313,22 +313,22 @@ Jul 21
 
 Up until now, IP addresses for firewall rules and labels had to be added one by one. Now, you can add several labels and IP addresses at the same time. Simply separate them by comma or with a space. This will make it easier for you to manage long IP lists, for example.
 
-June 2022
+July 2022
 ----------
 
-Jun 23
+Jul 23
 
 ### New project overview ###
 
 You can now also browse your projects in a list view. The new design can be helpful if you have to manage projects with very long names, for example. You can use the new toggle next to the filter on the top right to switch between both views.
 
-Jun 22
+Jul 22
 
 ### New Apps available ###
 
 We have added four new Apps. You can now choose from the programming language Apps Go and Ruby, and start developing immediately after server creation. You could also use the Prometheus-Grafana installation to visualize metrics and display them graphically. Our CollaborationToolCollection App includes [HedgeDoc](https://hedgedoc.org/), [transfer.sh](https://github.com/dutchcoders/transfer.sh/) and [whiteboard](https://github.com/cracker0dks/whiteboard/), and makes working on files in a team more dynamic and simple. BigBlueButton is no longer available.
 
-Jun 08
+Jul 08
 
 ### Flexible networking options and Primary IPs ###
 
@@ -380,10 +380,10 @@ Dec 01
 
 We have deprecated the network storage based server types. Starting 1 Dec 2021, they will no longer be available. All of your existing ceph based servers will continue to work like they used to and there is no action necessary on your side regarding these servers. It is possible to rescale existing network storage based servers to local storage based servers.
 
-November 2021
+December 2021
 ----------
 
-Nov 03
+Dec 03
 
 ### Hetzner Goes USA! - New location available ###
 
@@ -398,16 +398,16 @@ Oct 13
 
 Our newest feature "Placement Groups" now makes it possible for you to influence the location of your cloud servers. Simply create a group of type "Spread" and all your virtual servers will be hosted on different physical servers. This will decrease the probability of some instances failing together.
 
-September 2021
+October 2021
 ----------
 
-Sep 28
+Oct 28
 
 ### Global Search: New search criteria added ###
 
 We have added new search criteria to our global search tool. This means that you can now also search for snapshots by name, certificates by name and networks by ranges.
 
-Sep 17
+Oct 17
 
 ### Firewalls: Now in general availability ###
 
@@ -452,10 +452,10 @@ Jul 13
 
 Our search bar has been replaced with a new filter on all list views in our panel. This way, you can use new search criteria that will help you narrow down your results even further, and you will be able to find your desired resources even faster. The previous key combination Ctrl / ⌘ + K can now be used to open the fiter and, as before, to switch between label search and name search.
 
-June 2021
+July 2021
 ----------
 
-Jun 30
+Jul 30
 
 ### Quickstart with apps ###
 
@@ -476,16 +476,16 @@ May 07
 
 We added a new menu item »What's New« to the user dropdown. That way you can reopen this dialog if you closed it accidentally.
 
-April 2021
+May 2021
 ----------
 
-Apr 27
+May 27
 
 ### Project overview optimisations ###
 
 In order to better differentiate between projects where you are not the owner, the project owner is now also shown.
 
-Apr 15
+May 15
 
 ### Improved Hetzner status integration ###
 
