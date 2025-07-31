@@ -51,19 +51,6 @@ e.s. Marseille mid
 
 [zu allen e.s.trail Produkten](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_fs25)
 
-###  Angebote
-des Monats  ###
-
----
-
-Nur gültig bis 31.07.2025 | Solange der Vorrat reicht
-
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
-
-[Spare bis zu](https://www.strauss.com/de/de/angebote-des-monats/)
-
-[\-54 %](https://www.strauss.com/de/de/angebote-des-monats/)
-
 **Luftige Outfits** für heiße Tage
 
 ----------
@@ -95,8 +82,6 @@ Nur gültig bis 31.07.2025 | Solange der Vorrat reicht
 [alle Herren-Shorts](https://www.strauss.com/de/de/arbeitsshorts/?itemorigin=startseite_fs25)
 
 [alle Damen-Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/?itemorigin=startseite_fs25)
-
- SALE
 
  Short
 e.s.iconic

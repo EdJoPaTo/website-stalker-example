@@ -373,8 +373,6 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
 
 Flexpreis-Tickets können bis zu **12 Monate im Voraus** (jeweils ab dem Fahrplanwechsel im Juni und Dezember) gebucht werden.
 
-Vom 15. Juni bis 31. Juli 2025 erhalten Sie bei Buchung mehr als vier Wochen vor Abfahrt einen Rabatt in Höhe von 20 Prozent im Vergleich zu einer Buchung am Tag der Abfahrt. Die Frühbucher-Tickets sind für Reisen bis einschließlich 13. Dezember 2025 verfügbar.
-
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
 [Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
