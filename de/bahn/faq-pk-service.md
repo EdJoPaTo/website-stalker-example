@@ -1417,7 +1417,7 @@ Ohne Gepäck verreisen Sie einfach unbeschwerter! Wir nehmen Ihnen Ihre Koffer u
  Wie früh im Voraus kann ich DB Gepäckservice buchen?
 ----------
 
-Den Gepäckservice können Sie bereits 7 Monate im Voraus buchen.
+Den Gepäckservice können Sie bis zu 90 Tage im Voraus buchen.
 
 [Weitere Informationen zum Gepäckservice](https://www.bahn.de/angebot/zusatzticket/gepaeckservice)
 
