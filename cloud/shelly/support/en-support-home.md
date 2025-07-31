@@ -5,12 +5,6 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
- **⭐ 7th Birthday Campaign Ongoing – Replacement Codes Temporarily Unavailable ⭐**
-
- During our **[7th Birthday Campaign](https://www.shelly.com/pages/shelly-birthday)**, replacement codes are temporarily unavailable. They will be reactivated after the promotion ends on **August 1st**.
-
- For full campaign details, please check the [terms and conditions](https://www.shelly.com/pages/shelly-birthday).
-
 **⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2**
 
 We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to ensure uninterrupted service and access to new features.
