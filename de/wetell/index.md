@@ -94,9 +94,9 @@ Menü [](https://www.wetell.de/)
   Mein WEtell
   * [Login](https://mein.wetell.de/)
 
-#### Infos gefällig? ####
+#### Bock auf mehr? ####
 
-Ich möchte den WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
+Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
 
 * [Barrierefreiheit](https://www.wetell.de/sonstiges/barrierefreiheit/)
 * Privatsphären-Einstellungen
@@ -347,9 +347,9 @@ Vernetzt, geprüft, ausgezeichnet
 
 [](https://audit.econgood.org/firmen-label/?qrfkey=2z9z2) [](https://www.bnw-bundesverband.de/) [](https://www.send-ev.de/netzwerk/regionalgruppen/baden-wuerttemberg/)
 
-#### Infos gefällig? ####
+#### Bock auf mehr? ####
 
-Ich möchte den WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
+Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
 
 * [](https://www.instagram.com/wetell.mobilfunk/)
 * [](https://www.facebook.com/WEtell-156996021903053)
