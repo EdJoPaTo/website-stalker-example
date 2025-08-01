@@ -477,13 +477,13 @@ sites:
       - https://www.bahn.de/service/zug/
       - https://www.bahn.de/service/zug/db-lounge
       - https://www.bahn.de/service/zug/erste-klasse
+      - https://www.bahn.de/service/zug/fahrtinformationen
       - https://www.bahn.de/service/zug/ice-sitzplaetze
       - https://www.bahn.de/service/zug/komfort-check-in
       - https://www.bahn.de/service/zug/ruhebereich
       - https://www.bahn.de/service/zug/was-tun-wenn-es-mal-schief-laeuft
       - https://www.bahn.de/service/zug/wlan-im-ice
       - https://www.bahn.de/service/zug/wlan-nahverkehr
-      - https://www.bahn.de/service/zug/zuginformationen
     editors:
       - css_select: main
       - css_remove: script, noscript, style, figure, picture, img, nav, .back-to-top, .product-tile__image-link, .image-gallery__counter
