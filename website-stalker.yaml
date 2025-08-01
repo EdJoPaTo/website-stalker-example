@@ -201,6 +201,7 @@ sites:
     editors:
       - css_select: body > div > div
       - css_remove: img, a[href^="#"]:has(button svg)
+      - css_remove: section:has(h2) div.sticky.text-xs, section h2 # for some reason these timestamps change randomly sometimes
       - html_url_canonicalize
       - html_markdownify
 
