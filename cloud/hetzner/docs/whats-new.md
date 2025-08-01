@@ -70,13 +70,13 @@ We added the new search criterion "label" to our global search, which means you 
 
 Up until now, the key combination **"ctrl / ⌘ + K"** was used to open the filter within projects, and the shortcut **"/"** was used to open the project-wide global search. As **"ctrl / ⌘ + K"** is more commonly used for global searches and **"/"** is more commonly used for local searches, we decided to adjust our shortcuts for a more intuitive experience. The shortcut / now opens the filter and **"ctrl / ⌘ + K"** now opens global search.
 
-### Default settings for server creation ###
-
-The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
-
 ### Duplicate Firewalls ###
 
 The Firewall settings now include an option to "**duplicate**" an existing Firewall. This option allows you to create a copy of an existing Firewall, making it quick and easy to set up Firewalls with similar rules. The duplicated Firewall is not applied to any servers after it was added and you can modify the cloned rules as needed.
+
+### Default settings for server creation ###
+
+The "**Preferences**" modal now comes with the new tab ["**Defaults**"](https://docs.hetzner.cloud/(modal:settings/defaults)). There, you can set a server type, location, and image. When you create a new server, your preferred options are automatically preselected for you.
 
 ### New main navigation on small screens ###
 
@@ -177,13 +177,13 @@ The create pages for servers, Load Balancers, and Firewalls have been updated an
 
 Bulk edit now comes with a keyboard hotkey that allows you to deselect all resources with the press of a key. So when you are done editing, or if you want to start a new selection, simply hit esc, and your current selection will be cleared.
 
-### Improved user experience for notifications ###
-
-For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
-
 ### Redesign of the server, Load Balancer, and Firewall creation pages ###
 
 The updated design makes the creation page simpler and easy to follow. For this, a new menu sidebar on the right was built, allowing for quick and easy navigation and providing a rapid summary of your current settings. Some configuration processes have also been streamlined and simplified.
+
+### Improved user experience for notifications ###
+
+For an even better user experience, we have improved the behavior and design of notifications in the Cloud Console
 
 ### Add several labels or IPs at the same time ###
 
