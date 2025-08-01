@@ -15,7 +15,7 @@ Up to 32GB DDR4 memory
 
  Storage
 
- 512GB
+ 2TB
 
 512GB
 
