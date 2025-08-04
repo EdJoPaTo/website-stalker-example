@@ -115,6 +115,7 @@ sites:
     editors:
       - css_select: body
       - css_remove: script, img
+      - css_remove: a[href*="email-protection"]
       - html_url_canonicalize
       - html_markdownify
 
