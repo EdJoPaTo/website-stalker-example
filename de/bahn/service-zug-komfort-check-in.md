@@ -31,33 +31,44 @@ Komfort Check-in im DB Navigator
 
 So funktioniert der Komfort Check-in, wenn Sie Ihr Ticket in der App DB Navigator gebucht oder geladen haben
 
+Anleitung zeigt Bilder vom DB Navigator, die im Text beschrieben werden
+----------
+
 ### Ticket aufrufen ###
 
 Rufen Sie Ihr aktuelles Ticket über „Meine Reisen“ auf.
 
 ### Check-in starten ###
 
-Erfüllt das Ticket alle Voraussetzungen für den Komfort Check-in, erscheint der Button "Komfort Check-in". Tippen Sie ihn an, sobald Sie Ihren oder einen freien Sitzplatz eingenommen haben.
+Erfüllt das Ticket alle Voraussetzungen für den Komfort Check-in, erscheint der Button „Komfort Check-in“. Klicken Sie ihn an, sobald Sie Ihren Sitzplatz oder einen freien Sitzplatz eingenommen haben.
 
 ### Mit Reservierung: Sitzplatz prüfen ###
 
-Sie haben eine Reservierung? Dann prüfen Sie an dieser Stelle bitte, ob die Nummer des Wagens und des Sitzplatzes, auf dem Sie sitzen, damit übereinstimmt.
+Sie haben eine Reservierung? Dann prüfen Sie bitte, ob die Nummer des Wagens und des Sitzplatzes, auf dem Sie sitzen, mit der Anzeige in der App übereinstimmt.
+
+Wenn Sie die Reservierung nicht zusammen mit Ihrem Ticket gekauft haben, klicken Sie auf „Reservierung verwenden“ und wählen Sie die zugehörige Reservierung aus. Gegebenenfalls werden Sie aufgefordert, die 12- bis 14-stellige Reservierungsnummer aus der Bestätigungsmail oder den Reservierungsinformationen einzugeben.
 
 ### Ohne Reservierung: Sitzplatz eingeben ###
 
-Sie haben keine Reservierung? Dann geben Sie an dieser Stelle die Wagennummer und die Nummer des Sitzplatzes, auf dem Sie sitzen, ein.
+Sie haben keine Reservierung? Dann geben Sie bei "Wagen" die Wagennummer und daneben die Nummer des Sitzplatzes, auf dem Sie sitzen, ein.
+
+Wenn Sie die Wagennummer nicht wissen, können Sie diese per QR-Code ermitteln.
+
+[Weitere Informationen zu Wagenermittlung per QR-Code Weitere Informationen: Ohne Reservierung: Sitzplatz eingeben](https://www.bahn.de/service/zug/komfort-check-in#qrcode)
 
 ### BahnCard eingeben (optional) ###
 
-Haben Sie das Ticket mit einer BahnCard gekauft? Dann geben Sie Ihre BahnCard-Nummer ein. (Bild links: Check-in mit Reservierung; rechts: ohne Reservierung)
+Haben Sie das Ticket mit einer BahnCard gekauft? Dann geben Sie Ihre BahnCard-Nummer ein.
 
-### Gleich geschafft ###
-
-Sie werden eingecheckt.
+Tipp: Wenn Sie Ihre BahnCard im Kundenkonto hinterlegen, erfolgt die Überprüfung automatisch.
 
 ### Fertig ###
 
-Sie sind jetzt eingecheckt und reisen auf diesem Abschnitt und Sitzplatz ohne weitere Ticketkontrolle.
+Sie sind jetzt auf diesem Reiseabschnitt und Sitzplatz eingecheckt.
+
+Tipp: Sie können Ihren Sitzplatz auch nachträglich noch ändern.
+
+[Weitere Informationen zu „Umsetzen und neu einchecken“ Weitere Informationen: Fertig](https://www.bahn.de/service/zug/komfort-check-in#umsetzen)
 
 Umsetzen und neu einchecken
 ----------
@@ -76,6 +87,45 @@ Sie haben einen neuen, verfügbaren Sitzplatz gefunden? Dann rufen Sie jetzt den
 
 Schon fertig. Der Check-in wurde auf den neuen Sitzplatz geändert.
 
+Wagenermittlung per QR-Code
+----------
+
+Sie reisen ohne Reservierung oder möchten sich auf einem freien Sitzplatz einchecken, kennen Ihre Wagennummer aber nicht? Im DB Navigator können Sie die Wagennummer einfach per QR-Code ermitteln.
+
+###  Schritt 1: Check-in in der App starten und Kamera öffnen  ###
+
+#### Details zu Schritt 1 ####
+
+Starten Sie den Check-in Prozess im DB Navigator und klicken Sie auf das QR-Code Scan Icon neben der Sitzplatzeingabe.
+
+Ggf. müssen Sie noch der Verwendung Ihrer Kamera zustimmen.
+
+###  Schritt 2: QR-Code im Bereich Ihres Sitzplatzes scannen  ###
+
+#### Details zu Schritt 2 ####
+
+Platzieren Sie den QR-Code im gekennzeichneten Kameraausschnitt. Bei Aufklebern mit 2 QR-Codes scannen Sie bitte den rechten Code.
+
+Je nach Zug und Sitzplatz kann die Position des QR-Code Aufklebers variieren.
+
+**Sitzplatz in einer Zweierreihe:**
+
+Der QR-Code befindet sich auf der Rückenlehne des Vordersitzes oder auf der Trennscheibe vor dem Sitz.
+
+**Sitzplatz in einer Sitzgruppe:**
+
+Der QR-Code befindet sich oberhalb des Tisches an der Seitenwand bzw. im Bereich des Fensters.
+
+**Sitzplatz in einem Abteil:**
+
+Der QR-Code befindet sich hinter dem jeweiligen Sitz an der Wand oder oberhalb des Tisches an der Seitenwand bzw. im Bereich des Fensters.
+
+###  Schritt 3: Sitzplatz ergänzen und einchecken  ###
+
+#### Details zu Schritt 3 ####
+
+Nachdem die Wagennummer ermittelt wurde, ergänzen Sie den Sitzplatz und klicken Sie nun auf den Button „Jetzt einchecken“ um den Komfort Check-in durchzuführen.
+
 Komfort Check-in im ICE Portal
 ----------
 
@@ -84,7 +134,7 @@ Komfort Check-in im ICE Portal
 Verbinden Sie sich im Zug mit dem WLAN WIFIonICE.
 Geben Sie anschließend ICEportal.de in den Browser ein.
 
-Klicken Sie auf "Hier einchecken".
+Klicken Sie auf "Online einchecken".
 
 ### Auftrag eingeben ###
 
@@ -108,7 +158,7 @@ Sie können hier auch optional Ihre BahnCard Nummer eingeben. Dann klicken Sie a
 
 ### Sie sind jetzt eingecheckt ###
 
-Sie reisen auf diesem Abschnitt und Sitzplatz ohne Ticketkontrolle.
+Sie sind jetzt auf diesem Reiseabschnitt und Sitzplatz eingecheckt.
 
 Komfort Check-in im Browser
 ----------
@@ -143,7 +193,7 @@ Sie können hier auch optional Ihre BahnCard Nummer eingeben. Dann klicken Sie a
 
 ### Sie sind jetzt eingecheckt ###
 
-Sie reisen auf diesem Abschnitt und Sitzplatz ohne Ticketkontrolle.
+Sie sind jetzt auf diesem Reiseabschnitt und Sitzplatz eingecheckt.
 
 Häufige Fragen zum Komfort Check-in
 ----------
