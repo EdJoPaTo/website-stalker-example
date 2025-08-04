@@ -147,14 +147,6 @@ Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter
 
 Der Rabatt für Root-Server und VPS ARM bei Aktionen richtet sich nach dem regulären Preis der Tarife mit einer Mindestlaufzeit von einem Monat. Für gewöhnlich entfällt bei Aktionen der Aufpreis für den Standort und den gewählten Tarif, was zu einem entsprechenden Preisvorteil führt. Bei VPS (x86) entfällt üblicherweise ebenfalls der Standort-Aufpreis. Bitte beachte, dass sich die aufgerufenen Aktionspreise und Angebote unter Umständen auch von Aktion zu Aktion verändern können.
 
-### Was ist ein Flashdeal und wie lange bleibt dieser verfügbar? ###
-
-Bei Flashdeals handelt es sich um zusätzliche, attraktive „Blitz-Angebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 1 - 2 Stunden. Du erkennst einen Flashdeal am speziellen Blitz-Icon.
-
-### Wie erfahre ich es, wenn ein Flashdeal verfügbar ist? ###
-
-Sobald ein Flashdeal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
-
 ### Was bedeutet "PRO" bei unseren Aktionsprodukten? ###
 
 Unsere bisherigen „SE“-Produkte (Special Edition) heißen ab sofort „PRO“. Diese Kennzeichnung steht für exklusive Aktionsvarianten unserer regulären Angebote.
@@ -170,6 +162,20 @@ Beachte: PRO-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar
 Im Vergleich zu unseren „PRO“-Produkten bieten „ULTRA“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
 
 Beachte: Ultra ist exklusiv für unsere beliebten Root-Server und ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
+
+### Was ist ein Flashdeal und wie lange bleibt dieser verfügbar? ###
+
+Bei Flashdeals handelt es sich um zusätzliche, attraktive „Blitz-Angebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 1 - 2 Stunden. Du erkennst einen Flashdeal am speziellen Blitz-Icon.
+
+### Wie erfahre ich es, wenn ein Flashdeal verfügbar ist? ###
+
+Sobald ein Flashdeal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
+
+### Was ist ein Deal der Woche und wie lange bleibt dieser verfügbar? ###
+
+Der Deal der Woche ist ein ausgewähltes Angebot mit extra Rabatt oder attraktiven Extras. Im Gegensatz zu den Flash Deals hast du hier ein paar Tage länger Zeit zum Zugreifen.
+
+Der Deal der Woche ist von Montag bis Freitag 14:00 Uhr verfügbar - außer in den Wochen, in denen unsere monatlichen Aktionen stattfinden.
 
 netcup Angebote zu VPS und Root-Server
 ----------
