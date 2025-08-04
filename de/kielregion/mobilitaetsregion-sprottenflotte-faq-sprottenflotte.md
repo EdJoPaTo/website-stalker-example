@@ -7,7 +7,7 @@ Die SprottenFlotte ist das Bikesharing-System (Mietrad-System) für die KielRegi
 
 Die Stationen und Fahrräder stehen derzeit in Altenholz, Eckernförde, Fockbek, Heikendorf, Kiel, Kronshagen, Laboe, Molfsee, Mönkeberg, Plön, Preetz, Rendsburg und Schönkirchen bereit. (Stand: Juli 2022)
 
-Eine aktuelle Übersicht über alle Stationen und Infos zur Anmeldung gibt es unter [www.donkey.bike/de/stadte/kiel/](http://www.donkey.bike/de/stadte/kiel/) sowie in der App von Donkey Republic, unserem Service-Dienstleister.
+Eine aktuelle Übersicht über alle Stationen und Infos zur Anmeldung gibt es unter [www.donkey.bike/de/cities/kiel-region](https://www.donkey.bike/de/cities/kiel-region) sowie in der App von Donkey Republic, unserem Service-Dienstleister.
 
 Das Bikesharing resultiert aus den Maßnahmen des Masterplans Mobilität für die KielRegion und trägt zu einem nachhaltigeren Mobilitätsverhalten bei.
 

@@ -119,7 +119,7 @@ Egal ob bei Kund\*innen, Mitarbeitenden oder Kooperationspartner\*innen: Wir br
 Service per Du
 ----------
 
-Bei uns steht der Mensch im Mittelpunkt. Unser liebevoller Service ist persönlich, ehrlich und immer auf Augenhöhe. Ob per [Telefon](tel:+4976176999848), [Mail](mailto:service@wetell.de) oder [Threema](https://threema.id/VCWEM8SX?text=) – wir sind für dich da und finden gemeinsam die beste Lösung.
+Bei uns steht der Mensch im Mittelpunkt. Unser Service ist persönlich, ehrlich und immer auf Augenhöhe. Ob per [Telefon](tel:+4976176999848), [Mail](mailto:service@wetell.de) oder [Threema](https://threema.id/VCWEM8SX?text=) – wir sind für dich da und finden gemeinsam die beste Lösung.
 
 * #### Persönliche Verbindung ####
 
