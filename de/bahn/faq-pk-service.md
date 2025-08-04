@@ -6510,14 +6510,22 @@ Ein Versand an folgende Stellen ist möglich:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kennzeichne-ich-mein-gepaeckstueck)
 
- Für welche Züge\* ist der Fundservice zuständig?
+ Für welche Züge ist der Fundservice zuständig?
 ----------
 
 Das Fundsachenmanagement für Fundsachen aus Zügen wird von der DB InfraGO AG im Auftrag der hier genannten Eisenbahnverkehrsunternehmen durchgeführt:
 
-Züge der Abellio Rail Mitteldeutschland GmbH, agilis Verkehrsgesellschaft mbH & Co. KG, agilis Eisenbahngesellschaft mbH & Co.KG und Arverio BW, DB Regio AG, DB Fernverkehr AG, DB RegioNetz Verkehrs-GmbH Erzgebirgsbahn, DB RegioNetz Verkehrs-GmbH Kurhessenbahn, DB RegioNetz Verkehrs-GmbH SüdostBayernBahn, DB RegioNetz Verkehrs-GmbH Westfrankenbahn, Eurobahn – Keolis, Erfurter Bahn GmbH, HLB Hessenbahn GmbH (nur Teilnetz Südhessen-Untermain, Ländchesbahn, RE 98, RE 99, RB 24, RB 45, RB 46, RB 47, RB 48, RB 52 und Mittelhessenexpress), National Express Rail GmbH (NEX), NordBahn, NordWestBahn GmbH (NWB) – (nur Teilnetze Ostwestfalen, Weser Ems und Regio S-Bahn), RheinRuhrBahn (nur Linien RE 14; RB 31, RB 36; RE 44 und S 7), SNCF Voyages Deutschland GmbH, Start GmbH - Taunusnetz, SWEG (Nur Bahnnetzen 8a (Ortenau-S-Bahn und Hermann-Hesse-Bahn), 8b (Europabahn) und 9b (Breisgau-S-Bahn Los 2, Freiburger Y)), trans regio Deutsche Regionalbahn GmbH, WestfalenBahn GmbH, TRI Train Rental GmbH, Vias Rail GmbH, S-Bahn Dresden, S-Bahn Hamburg, S-Bahn Magdeburg, S-Bahn Mitteldeutschland, S-Bahn München, S-Bahn Rhein-Main, S-Bahn Rhein-Neckar, S-Bahn Rhein-Ruhr, S-Bahn Rostock und S-Bahn Stuttgart, Start GmbH Mitteldeutschland.
+Züge der Abellio Rail Mitteldeutschland GmbH, agilis Verkehrsgesellschaft mbH & Co. KG, agilis Eisenbahngesellschaft mbH & Co.KG und Arverio BW, DB Regio AG\*, DB Fernverkehr AG, DB RegioNetz Verkehrs-GmbH Erzgebirgsbahn, DB RegioNetz Verkehrs-GmbH Kurhessenbahn, DB RegioNetz Verkehrs-GmbH SüdostBayernBahn, DB RegioNetz Verkehrs-GmbH Westfrankenbahn, Eurobahn – Keolis, Erfurter Bahn GmbH, Eurostar, HLB Hessenbahn GmbH (nur Teilnetz Südhessen-Untermain, Ländchesbahn, RE 98, RE 99, RB 24, RB 45, RB 46, RB 47, RB 48, RB 52 und Mittelhessenexpress), National Express Rail GmbH (NEX), NordBahn, NordWestBahn GmbH (NWB) – (nur Teilnetze Ostwestfalen, Weser Ems und Regio S-Bahn), RheinRuhrBahn (nur Linien RE 14; RB 31, RB 36; RE 44 und S 7), SNCF Voyages Deutschland GmbH, Start GmbH - Taunusnetz, SWEG (Nur Bahnnetzen 8a (Ortenau-S-Bahn und Hermann-Hesse-Bahn), 8b (Europabahn) und 9b (Breisgau-S-Bahn Los 2, Freiburger Y)), trans regio Deutsche Regionalbahn GmbH, WestfalenBahn GmbH, TRI Train Rental GmbH, Vias Rail GmbH, S-Bahn Dresden, S-Bahn Hamburg, S-Bahn Magdeburg, S-Bahn Mitteldeutschland, S-Bahn München, S-Bahn Rhein-Main, S-Bahn Rhein-Neckar, S-Bahn Rhein-Ruhr, S-Bahn Rostock und S-Bahn Stuttgart, Start GmbH Mitteldeutschland.
 
 Wenn Sie Ihren Gegenstand in einem anderen Zug verloren haben, setzen Sie sich bitte mit der jeweiligen Bahn in Verbindung.
+
+\* Fundsachen aus dem Ersatzverkehr (EV) im Rahmen der Generalsanierung des Korridors Hamburg-Berlin vom 1. August 2025 bis 30. April 2026 werden vom Busunternehmen ecovista bearbeitet.
+
+Reisende die sich nach verlorenen Gegenständen erkundigen, können sich an die ecoVista Leitstelle wenden:
+
+**Telefonnummer: [+49 6021 9011 801](tel:+4960219011801)** (7/24 erreichbar)
+
+**E-Mail:** [mailto:fundsachen@ecovista.eu](mailto:mailto:fundsachen@ecovista.eu)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fundservice-fuer-welche-evu-zustaendig)
 
