@@ -75,14 +75,15 @@ sites:
 
   - url: https://www.raspberrypi.com/software/operating-systems/
     http1_only: true
-    ignore_error: true
     editors:
-      - css_select: main
-      - css_remove: img
+      - css_select: div:has(> h1), div:has(> div > h2)
+      - css_remove: a:not([href])
+      - css_remove: :empty
+      - regex_replace:
+          pattern: </a><a
+          replace: </a><br /><a
       - html_markdownify
   - url: https://assets.raspberrypi.com/page-data/software/operating-systems/page-data.json
-    http1_only: true
-    ignore_error: true
     editors:
       - json_prettify
   - url:
