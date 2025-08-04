@@ -53,4 +53,4 @@ a macOS application, suggesting songs to mix when using Traktor Pro DJ
 
 from Hamburg with love
 
-[Twitter logo](https://twitter.com/vfuc42) [GitHub logo](https://github.com/vfuc) [Email icon](mailto:hello@jonas.lol)
+[Twitter logo](https://twitter.com/vfuc42) [GitHub logo](https://github.com/vfuc) [Email icon](https://jonas.lol/cdn-cgi/l/email-protection#076f626b6b68476d68696674296b686b)

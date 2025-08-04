@@ -38,4 +38,4 @@ micro-social network to share music on iOS
 
 from Hamburg with love
 
-[Twitter logo](https://twitter.com/vfuc42) [GitHub logo](https://github.com/vfuc) [Email icon](mailto:hello@jonas.lol)
+[Twitter logo](https://twitter.com/vfuc42) [GitHub logo](https://github.com/vfuc) [Email icon](https://jonas.lol/cdn-cgi/l/email-protection#caa2afa6a6a58aa0a5a4abb9e4a6a5a6)
