@@ -75,6 +75,7 @@ sites:
 
   - url: https://www.raspberrypi.com/software/operating-systems/
     http1_only: true
+    ignore_error: true
     editors:
       - css_select: div:has(> h1), div:has(> div > h2)
       - css_remove: a:not([href])
