@@ -1423,7 +1423,7 @@ Den Gepäckservice können Sie bis zu 90 Tage im Voraus buchen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-frueh-im-voraus-kann-ich-db-gepaeckservice-buchen)
 
- Kann ich mein Verbundticket auch über die App kaufen?
+ Kann ich mein Verbundticket auch über die App DB Navigator kaufen?
 ----------
 
 Ja, für viele Verkehrsverbünde können Sie Tickets in der App DB Navigator kaufen.
@@ -3274,13 +3274,15 @@ Bei Fällen mit Erstattungsansprüchen, z.B. bei Fahrtabbruch am Startbahnhof od
  Ich habe einen Interrail-/Eurail-Pass – kann ich meinen Fahrgastrechte-Antrag auch direkt einreichen?
 ----------
 
-Ja, auch in diesem Fall können Sie Ihren Antrag direkt an das Servicecenter Fahrgastrechte (SC FGR) stellen. **Bitte beachten Sie hierbei Folgendes:**
+Ja, Ihren Fahrgastrechte-Antrag können Sie direkt an das Servicecenter Fahrgastrechte (SC FGR) stellen.
 
-* **Ihr Zug ist ausgefallen oder hatte eine Verspätung ab 60 Minuten?** Ihr Antrag auf Entschädigung wird in diesem Fall direkt durch Interrail/Eurail bearbeitet. Wenn Sie Ihren Antrag an das SC FGR stellen, wird Ihr Anliegen daher ggf. an das Support-Team von Interrail/Eurail weitergeleitet. Zur abschließenden Bearbeitung benötigt Interrail/Eurail Ihre E-Mail-Adresse, bitte geben Sie diese dann gerne direkt in Ihrem Antrag mit an. Dadurch werden etwaige zusätzliche Anfragen nach fehlenden Daten/Angaben vermieden.
+**Beachten Sie Folgendes:**
 
-Alternativ können Sie Ihre **Entschädigung auch direkt bei Interrail/Eurail beantragen**. Dies geht bequem online unter <https://www.interrail.eu/de/support/delay-compensation>.
+**Ist Ihr Zug ausgefallen oder hatte eine Verspätung ab 60 Minuten?** Dann bearbeitet Interrail/Eurail Ihren Antrag auf Entschädigung direkt. Das SC FGR leitet Ihren Antrag möglicherweise an das Support-Team von Interrail/Eurail weiter. Geben Sie Ihre E-Mail-Adresse im Antrag an, um Rückfragen zu vermeiden.
 
-* Ihnen sind durch einen Zugausfall oder eine Zugverspätung **Zusatzkosten** (z.B. für ein alternatives Verkehrsmittel oder eine Übernachtung) entstanden? In diesem Fall wird Ihr Antrag auf Rückerstattung dieser Kosten direkt **durch das SC FGR bearbeitet**.
+Alternativ können Sie Ihre Entschädigung online bei Interrail/Eurail beantragen: <https://www.interrail.eu/de/support/delay-compensation>
+
+Sind Ihnen durch einen Zugausfall oder eine Zugverspätung **Zusatzkosten** (z.B. für ein alternatives Verkehrsmittel oder eine Übernachtung) entstanden? Dann bearbeitet das SC FGR Ihren Antrag auf Rückerstattung dieser Kosten direkt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meinen-fahrgastrechteantrag-auch-direkt-beim-servicecenter-fahrgastrechte-einreichen)
 
@@ -3823,16 +3825,15 @@ Servicecenter Fahrgastrechte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-konnte-meine-reservierung-nicht-nutzen-kann-ich-diese-auch-im-rahmen-der-fahrgastrechte-einreichen)
 
- Ich bin im Kundenkonto eingeloggt und finde keinen Button „Entschädigung beantragen“ – woran kann das liegen?
+ Warum finde ich keinen Button "Entschädigung beantragen" im Kundenkonto?
 ----------
 
-Wenn der Beantragungsbutton für Fahrgastrechte bei einem Auftrag nicht eingeblendet ist, gibt es folgende mögliche Erklärungen:
+Wenn der Button "Entschädigung beantragen" bei einer Buchung nicht angezeigt wird, kann das folgende Gründe haben:
 
-* Das Reisedatum für die Buchung liegt in der Zukunft, daher können noch keine Fahrgastrechte geltend gemacht werden. Sobald das Gültigkeitsdatum der Buchung erreicht ist, wird der Button eingeblendet und Sie können Ihre Fahrgastrechte beantragen.
-* Sie haben bereits Entschädigung für diese Buchung beantragt. Eine erneute Beantragung ist daher nicht möglich.
-* Ihre Fahrkarte wurde storniert, daher können keine Fahrgastrechte beantragt werden.
-
-Die Antragsfrist wurde überschritten. Ansprüche können Sie bis spätestens 1 Jahr nach Ablauf der Geltungsdauer der zugehörigen Fahrkarte geltend machen. Nach Ablauf dieser Frist können Sie keine Entschädigung mehr beantragen.
+* Das Reisedatum liegt in der Zukunft. Sie können erst ab dem Gültigkeitsdatum der Buchung Fahrgastrechte beantragen.
+* Sie haben bereits eine Entschädigung für diese Buchung beantragt. Eine erneute Beantragung ist nicht möglich.
+* Ihre Fahrkarte wurde storniert. Daher können keine Fahrgastrechte beantragt werden.
+* Die Antragsfrist wurde überschritten. Sie können Ansprüche nur bis spätestens ein Jahr nach Ablauf der Gültigkeitsdauer der Fahrkarte geltend machen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-bin-im-kundenkonto-eingeloggt-und-finde-keinen-button-entschaedigung-beantragen-woran-kann-das-liegen)
 
