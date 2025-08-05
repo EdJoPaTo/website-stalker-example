@@ -38,25 +38,25 @@ Nur 106 Euro
 
 [Jetzt bestellen Jetzt bestellen: Aktion: Senioren BahnCard 25 Plus, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O134)
 
-### Aktion: Senioren BahnCard 50, 2. Klasse ###
+### Aktion: Senioren BahnCard 50 Plus, 2. Klasse ###
 
  Senioren BahnCard 50 Plus mit mindestens **BahnBonus Statuslevel Silber** und **50 % Rabatt auf den Flexpreis** und **25 % Rabatt auf die Sparangebote** des Fernverkehrs
 
-[Weitere Informationen Weitere Informationen: Aktion: Senioren BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/seniorenbahncardplus-2-klasse)
+[Weitere Informationen Weitere Informationen: Aktion: Senioren BahnCard 50 Plus, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/seniorenbahncardplus-2-klasse)
 
 Nur 146 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion: Senioren BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O235)
+[Jetzt bestellen Jetzt bestellen: Aktion: Senioren BahnCard 50 Plus, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O235)
 
-### Aktion: Senioren BahnCard 50, 1. Klasse ###
+### Aktion: Senioren BahnCard 50 Plus, 1. Klasse ###
 
  Senioren BahnCard 50 Plus mit mindestens **BahnBonus Statuslevel Silber** und **50 % Rabatt auf den Flexpreis** und **25 % Rabatt auf die Sparangebote** des Fernverkehrs
 
-[Weitere Informationen Weitere Informationen: Aktion: Senioren BahnCard 50, 1. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/seniorenbahncardplus-1-klasse)
+[Weitere Informationen Weitere Informationen: Aktion: Senioren BahnCard 50 Plus, 1. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/seniorenbahncardplus-1-klasse)
 
 Nur 265 Euro
 
-[Jetzt bestellen Jetzt bestellen: Aktion: Senioren BahnCard 50, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O135)
+[Jetzt bestellen Jetzt bestellen: Aktion: Senioren BahnCard 50 Plus, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O135)
 
 ### My BahnCard 50, 2. Klasse ###
 
