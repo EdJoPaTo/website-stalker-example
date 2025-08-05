@@ -147,19 +147,19 @@ Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter
 
 Der Rabatt für Root-Server und VPS ARM bei Aktionen richtet sich nach dem regulären Preis der Tarife mit einer Mindestlaufzeit von einem Monat. Für gewöhnlich entfällt bei Aktionen der Aufpreis für den Standort und den gewählten Tarif, was zu einem entsprechenden Preisvorteil führt. Bei VPS (x86) entfällt üblicherweise ebenfalls der Standort-Aufpreis. Bitte beachte, dass sich die aufgerufenen Aktionspreise und Angebote unter Umständen auch von Aktion zu Aktion verändern können.
 
-### Was bedeutet "PRO" bei unseren Aktionsprodukten? ###
+### Was bedeutet "Pro" bei unseren Aktionsprodukten? ###
 
-Unsere bisherigen „SE“-Produkte (Special Edition) heißen ab sofort „PRO“. Diese Kennzeichnung steht für exklusive Aktionsvarianten unserer regulären Angebote.
+Unsere bisherigen „SE“-Produkte (Special Edition) heißen ab sofort „Pro“. Diese Kennzeichnung steht für exklusive Aktionsvarianten unserer regulären Angebote.
 
-Mit einem „PRO“-Produkt erhältst du weiterhin das, was unsere Aktionsangebote auszeichnet: mehr Leistung bzw. mehr Speicher zu besonders attraktiven Preisen – zum Beispiel bis zu 100 % mehr SSD-Speicher, mehr vCores oder eine Kombination aus beidem.
+Mit einem „Pro“-Produkt erhältst du weiterhin das, was unsere Aktionsangebote auszeichnet: mehr Leistung bzw. mehr Speicher zu besonders attraktiven Preisen – zum Beispiel bis zu 100 % mehr SSD-Speicher, mehr vCores oder eine Kombination aus beidem.
 
-Beachte: PRO-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar.
+Beachte: Pro-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar.
 
 ### Was bedeutet "Ultra" bei unseren Aktionsprodukten?	 ###
 
-„ULTRA“ ist unsere neue Leistungsklasse für Root-Server Aktionsprodukte. Diese Kennzeichnung steht für noch mehr Power zu einem weiterhin attraktiven Preis.
+„Ultra“ ist unsere neue Leistungsklasse für Root-Server Aktionsprodukte. Diese Kennzeichnung steht für noch mehr Power zu einem weiterhin attraktiven Preis.
 
-Im Vergleich zu unseren „PRO“-Produkten bieten „ULTRA“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
+Im Vergleich zu unseren „Pro“-Produkten bieten „Ultra“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
 
 Beachte: Ultra ist exklusiv für unsere beliebten Root-Server und ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
 
