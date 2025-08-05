@@ -757,7 +757,7 @@ Setting up your DIY Edition
 
 Build your desktop in 10–20 minutes and choose your OS to install.
 
-* **Framework Desktop (AMD Ryzen™ AI Max 300 Series)** Coming soon
+* **Framework Desktop (AMD Ryzen™ AI Max 300 Series)** [Go to guide](https://guides.frame.work/Guide/Framework+Desktop+(AMD+Ryzen+AI+Max+300+Series)+DIY+Edition+Quick+Start+Guide/464)
 
 Software updates
 ----------
@@ -771,8 +771,8 @@ Installing Windows and Linux
 
 Choose which OS to install on your DIY Edition desktop.
 
-* **Installing Windows** Coming soon
-* **Installing Linux** Coming soon
+* **Installing Windows** [Go to guide](https://guides.frame.work/Guide/Windows+11+Installation+on+the+Framework+Desktop+(AMD+Ryzen+AI+Max+300+Series)/463)
+* **Installing Linux** [Go to guide](https://guides.frame.work/c/Framework_Desktop#Section_Installation)
 
 Safety & compliance manual
 ----------
@@ -801,8 +801,8 @@ Step-by-step guides
 
 Find a guide to replace or upgrade any part.
 
-* **Swap your fan** Coming soon
-* **Add more storage** Coming soon
+* **Swap your fan** [Go to guide](https://guides.frame.work/Guide/CPU+Fan/489?lang=en)
+* **Add more storage** [Go to guide](https://guides.frame.work/Guide/Primary+Storage/502?lang=en)
 
 Customize
 ----------
@@ -813,7 +813,7 @@ Expansion Cards
 Learn how to insert, remove, and choose your ports to fit our compatibility guidelines.
 
 * **⚠️ Check your Expansion Card slot compatibility ⚠️** Coming soon
-* **Install your Expansion Cards** Coming soon
+* **Install your Expansion Cards** [Go to guide](https://guides.frame.work/Guide/How+to+Install+and+Remove+Expansion+Cards/492?lang=en)
 
 Tiles
 ----------
@@ -821,7 +821,7 @@ Tiles
 Transform and personalize your device with our customizable Tile options.
 
 * **Pick up new Tiles** [Go to Marketplace](/marketplace)
-* **Swap your Tiles** Coming soon
+* **Swap your Tiles** [Go to guide](https://guides.frame.work/Guide/Front+Panel+Tiles/505?lang=en)
 
 Developer resources
 ----------
