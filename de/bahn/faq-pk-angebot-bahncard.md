@@ -285,6 +285,20 @@ Loggen Sie sich mit Ihrem Kundenkonto in der App DB Navigator ein. Ihre [digita
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-digitale-bahncard-in-der-app-db-navigator-speichern)
 
+ Ich habe ein älteres Smartphone und kann meine digitale BahnCard nicht im DB Navigator nutzen. Was kann ich tun?
+----------
+
+Der DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
+
+* Android ab Version 8.0
+* iOS ab Version 15.0.
+
+Nutzen Sie ein älteres Betriebssystem, dann können Sie in Ihrem Kundenkonto auf [bahn.de](http://bahn.de/) ein Ersatzdokument als PDF-Dokument mit QR-Code abrufen. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen. Das Ersatzdokument wird in Ihrem Kundenkonto zur Verfügung gestellt.
+
+Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altes-smartphone-digitale-bahncard-nicht-nutzbar)
+
  Kann ich mit einer BahnCard 1. Klasse auch Tickets für die 2. Klasse buchen?
 ----------
 
