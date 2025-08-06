@@ -1,150 +1,91 @@
-Sommer-
-Edition
+Starker
+Auftritt
 ----------
 
 ---
 
- leichte Stoffe
+ für unsere Schuhneuheiten
 
- coole Vintage-Farben
+[Schuhneuheiten entdecken](https://www.strauss.com/de/de/schuhneuheiten-sicherheitsschuhe?itemOrigin=startseite_HW25)
 
- 100% Motion-Power
+[S6 e.s. Harlem low](https://www.strauss.com/de/de/sicherheitsschuhe-s6/s6-sicherheitsschuhe-e-s-harlem-low-1400150-93218-1875.html?itemorigin=startseite_HW25)
 
-[Short e.s.motion Sommer](https://www.strauss.com/de/de/arbeitsshorts/short-e-s-motion-sommer-3160560-95591-326.html?itemorigin=startseite_fs25)
-
-[Bundhose e.s.motion Sommer](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-sommer-3160540-95541-326.html?itemorigin=startseite_fs25)
-
- S1PS
+ Herbst
 ==========
 
 ---
 
- Sicherheitsschuhe
+ Winter
+==========
 
- Spielfeld:
- Baustelle!
+---
+
+ technisch,
+authentisch,
+episch
 ----------
 
 ---
 
- bequem
+ Funktion: maximiert bis ins Detail.
+Style: rough & geradlinig.
 
- sicher
+[Neuheiten entdecken](https://www.strauss.com/de/de/epic?itemOrigin=startseite_HW25)
 
- hoch atmungsaktiv
+[jetzt kaufen](https://www.strauss.com/de/de/e-s-e-pic/?itemOrigin=startseite_HW25)
 
-[mehr Details](https://www.strauss.com/de/de/sicherheitsschuhe-s1p/s1ps-sicherheitsschuhe-e-s-marseille-mid-1101610-93366-1824.html?itemorigin=startseite_fs25)
-
- S1PS Sicherheitsschuhe
-e.s. Marseille mid
-
- Cool bleiben
+ die farbenfreude
+wird grösser
 ----------
 
 ---
 
- kühlende Merino-Shirts
+ Noch mehr Styles in
+anthrazit-warnorange
 
- leichte Hosen
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-anthrazit-warnorange?itemorigin=startseite_HW25)
 
- perfekte Sommer-Workwear
+*
+*
+*
 
-[zu allen e.s.trail Produkten](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_fs25)
-
-**Luftige Outfits** für heiße Tage
+Neue Kollektions-Highlights - nicht verpassen!
 
 ----------
 
 ---
 
- Leicht, locker, sportlich & atmungsaktiv: sommerliche Workwear-Inspirationen für Sie & Ihn
+###  e.s.
+ambition  ###
 
- Modal-Shirt e.s. ventura vintage
+---
+
+ Jetzt noch vielseitiger:
+für Sie, Ihn & jede Jahreszeit
+
+[Kollektion entdecken](https://www.strauss.com/de/de/ambition?itemorigin=startseite_HW25)
+
+ Multipocket-Hose
+e.s.ambition, Damen
 
  4 Farben
 
- T-Shirt seamless e.s.trail, Damen
+ Funktions T-Shirt
+e.s.ambition, Damen
 
  3 Farben
 
-###  Shirts  ###
-
----
-
-[alle Herren-Shirts](https://www.strauss.com/de/de/arbeitsshirts/?itemorigin=startseite_fs25)
-
-[alle Damen-Shirts](https://www.strauss.com/de/de/arbeitsshirts-damen/?itemorigin=startseite_fs25)
-
-###  Shorts  ###
-
----
-
-[alle Herren-Shorts](https://www.strauss.com/de/de/arbeitsshorts/?itemorigin=startseite_fs25)
-
-[alle Damen-Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/?itemorigin=startseite_fs25)
-
- Short
-e.s.iconic
-
- Short e.s.motion 2020
-
- 13 Farben
-
- Short e.s.vision stretch, Damen
-
- 5 Farben
-
-###  Leichte Schuhe  ###
-
----
-
- Komfort leicht gemacht -
-Berufs- und Sicherheitsschuhe perfekt für den Sommer
-
-jetzt alle leichten Schuhe entdecken
-
-**Coole Highlights:** kühl, smart & relaxed durch den Sommer
-
-----------
-
----
-
- e.s. Lunchbag
-
-###  cool für
-die Pause  ###
-
----
-
- frisch, kühl & kompakt - perfekt für unterwegs!
-
-[jetzt kaufen](https://www.strauss.com/de/de/allroundtaschen/e-s-lunchbag-3000700-5505241-1088.html?itemorigin=startseite_fs25)
-
-[mehr Details](https://www.strauss.com/de/de/allroundtaschen/e-s-lunchbag-3000700-5505241-1088.html?itemorigin=startseite_fs25)
-
- hält Getränke bis zu 30 Stunden kalt
-
- STRAUSS Mug X-large
-
- 1 Farbe
-
- Cap e.s.iconic works
-
- 6 Farben
-
- Badeshort e.s.trail
+ Softshelljacke
+e.s.ambition, Damen
 
  4 Farben
 
-[für Herren](https://www.strauss.com/de/de/arbeitsshorts/badeshort-e-s-trail-3350750-87837-1623.html?itemorigin=startseite_fs25)
+ Bundhose
+ e.s.ambition
 
-[für Kinder](https://www.strauss.com/de/de/kinder-shorts/badeshort-e-s-trail-kinder-3350740-87847-1623.html?itemorigin=startseite_fs25)
+ 4 Farben
 
-[für Herren](https://www.strauss.com/de/de/arbeitsshorts/badeshort-e-s-trail-3350750-87837-1623.html?itemorigin=startseite_fs25)
-
-[für Kinder](https://www.strauss.com/de/de/kinder-shorts/badeshort-e-s-trail-kinder-3350740-87847-1623.html?itemorigin=startseite_fs25)
-
-**work&travel:** unterwegs mit Strauss
+Frischer Wind für Gastro & Business
 
 ----------
 
@@ -155,124 +96,80 @@ die Pause  ###
 
 ---
 
- Rollkoffer
-
- 65 L | perfekt für lange Reisen
-
- Handgepäck-Rollkoffer
-
- 35 L | perfekt fürs Handgepäck
-
- Rollkoffer | 65 L
-
- Handgepäck-Rollkoffer | 35 L
-
- der ideale Reisebegleiter
-
- Washbag e.s.work&travel
-
- 2 Farben
-
-###
-
-**Personalisierte Outfits** zum Berufsstart
-
- ###
+###  Essen: kochend.
+Outfit: kühlend.  ###
 
 ---
 
-jetzt online
+ Neue luftige Kochhemden und viele weitere Gastro-Styles
 
-gestalten
+[Gastro für Herren](https://www.strauss.com/de/de/gastronomiebekleidung-kochbekleidung/?%3Fitemorigin=startseite_HW25&sort=newest)
+
+[Gastro für Damen](https://www.strauss.com/de/de/gastro-damen/?%3Fitemorigin=startseite_HW25&sort=newest)
+
+ NEU
+==========
+
+---
+
+###  Look: smart.
+Gefühl: casual.  ###
+
+---
+
+ Luftige Pique-Styles und noch mehr bequeme Business-Outfits
+
+[Herren-Hemden](https://www.strauss.com/de/de/f/arbeitshemden/Farbe:Weisstoene/?itemorigin=startseite_HW25&sort=newest)
+
+[Damen-Blusen](https://www.strauss.com/de/de/f/damenblusen-hemden/Farbe:Weisstoene/?itemorigin=startseite_HW25&sort=newest)
+
+*
+*
+
+Personalisierte Outfits für jeden Anlass
 
 ----------
 
 ---
 
+ Druck & Stick - ab 1 Stück
+
+###
+
+jetzt online
+
+gestalten
+
+ ###
+
+---
+
 für Arbeit, Vereine, Events uvm.
 
-große Motivauswahl
+unkompliziert gestalten & bestellen
 
-schon ab 1 Stück
+über 400 verfügbare Motive
 
-Produkte zum Gestalten
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
 
-[mehr Informationen](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_fs25)
+zu den Produkten
 
-**NEU: EIGENE MOTIVE - einfach hochladen & drucken lassen!** Ab sofort mit Datei-Upload. Für einzigartige Outfits.
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
 
-###
+zu den Produkten
 
-**Optimal ausgestattet** vom ersten Tag an
-
- ###
-
+ Nach Kategorie shoppen
 ---
 
- Allround Starter-Set:
+[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/?sort=newest)
 
- STRAUSSbox Werkzeug-Set 145 Allround + gratis e.s.Lunchbag
+[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/?sort=newest)
 
- Sparen im Set
----
+[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?sort=newest)
 
- Immer-dabei-Set:
+[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?sort=newest)
 
- Umhängetasche e.s.ambition Werkzeug-Set
-
- To-Go-Set:
-
- Rucksack e.s.ambition
-
-[weitere Sets zum Berufsstart](https://www.strauss.com/de/de/s/suche?itemorigin=startseite_fs25&query=berufsstart)
-
-####  Strauss Gutschein  ####
-
----
-
-###  Freude schenken  ###
-
----
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
-
-[Gutschein per E‑Mail](https://gutschein.strauss.de/)
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_fs25)
-
-[Gutschein per E‑Mail](https://gutschein.strauss.de/)
-
-###
-
-**An alles gedacht?** Hier gibt es noch mehr für Ihre Nachwuchskräfte
-
- ###
-
----
-
-[Helme, Schutzbrillen, Gehörschutz](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=startseite_fs25)
-
-[Werkzeug und Zubehör](https://www.strauss.com/de/de/werkzeuge/?itemorigin=startseite_fs25)
-
-[Alles für die Berufsschule: Stifte, Blöcke etc.](https://www.strauss.com/de/de/bueroartikel/?itemorigin=startseite_fs25)
-
-###
-
-Nach **Kategorie** shoppen
-
- ###
-
----
-
-[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=startseite_fs25&sort=newest)
-
-[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/?itemorigin=startseite_fs25&sort=newest)
-
-[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=startseite_fs25&sort=newest)
-
-[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?itemorigin=startseite_fs25&sort=newest)
-
-[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?itemorigin=startseite_fs25&sort=newest)
+[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?sort=newest)
 
 ####  Newsletter abonnieren  ####
 
