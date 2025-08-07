@@ -112,7 +112,6 @@ sites:
 
   - url:
       - https://jonas.lol/
-      - https://jonas.lol/projects/
     editors:
       - css_select: body
       - css_remove: script, img
