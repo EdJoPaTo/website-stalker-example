@@ -1,11 +1,13 @@
-cirrus7 nimbini
+cirrus7 Nimbini NUC 15 PRO
 ==========
 
 cirrus nimbini v4 - Pro Edition
 ----------
 
-* lautlose Kühlung durch passives Aluminium-Kühlkörpergehäuse mit Kupferkernen
-* basierend auf Intel® NUC Boards
+* basierend auf Intel NUC13 Pro / NUC14 Pro /NUC15 Pro
+* Intel® Xe GPU
+* geeignet für 4x 4K-Monitore bei 60Hz
+* 2x HDMI 2.1, 3x USB–A 3.2 (10Gb/s), 1x USB-A 2.0 (480Mb/s), 2x Thunderbolt 4, 1x 2.5GBase-T
 
 **Lieferzeit: 7-9 Werktage**
 
@@ -50,6 +52,7 @@ cirrus nimbini v4 - Pro Edition
 
   * NUC13
   * NUC14
+  * NUC15
 
   * **Intel® NUC Core™ i3-1315U**
     2P+4E / 8 Threads, max. 4.5Ghz, Intel UHD
@@ -67,6 +70,19 @@ cirrus nimbini v4 - Pro Edition
     4P+8E+2e / 18 Threads, max. 4.5GHz, Intel Arc 7Xe
   * **ASUS NUC 14 Pro Core Ultra 7 155H**
     6P+8E+2e / 22 Threads, max. 4.80GHz, Intel Arc 8Xe
+
+  * **ASUS NUC 15 Pro | Core™ 3 100U**
+    2P+4E/8T | max. 4.70GHz | Intel Graphics
+  * **ASUS NUC 15 Pro | Core™ 5 210H**
+    4P+8E/16T | max. 4.8GHz | Intel Graphics
+  * **ASUS NUC 15 Pro | Core™ Ultra 5 225H**
+    4P+8E+2LP/14T | max. 4.60GHz | Intel Arc 130T
+  * **ASUS NUC 15 Pro | Core™ 7 240H**
+    6P+8E/20T | max. 5.00GHz | Intel Graphics
+  * **ASUS NUC 15 Pro | Core™ Ultra 7 255H**
+    6P+8E+2LP/16T | max. 5.10GHz | Intel Arc 130T
+  * **ASUS NUC 15 Pro | Core™ Ultra 7 265H**
+    6P+8E+2LP/16T | max 5.10GHz | Intel Arc 140T | vPro
 
   ##### Hauptspeicher (RAM) #####
 
