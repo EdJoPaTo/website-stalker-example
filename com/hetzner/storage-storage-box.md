@@ -1,6 +1,6 @@
 Storage Boxes
 
-QUICK, SECURE AND CHEAP: OUR BACKUP ONLINE SOLUTION
+QUICK, SECURE AND CHEAP: OUR ONLINE BACKUP SOLUTION
 ==========
 
 [Compare Storage Boxes](https://www.hetzner.com/storage/storage-box/storage/storage-box/#matrix)
