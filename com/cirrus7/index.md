@@ -54,17 +54,17 @@ inkl. MwSt. und Versand
 
 Der Kleine mit der Größe.
 
-basierend auf Intel® NUC13 / NUC14 Pro
+basierend auf Intel® NUC13 / NUC14 Pro/ NUC15 Pro
 
-bis zu 64 GB RAM
+bis zu 96 GB RAM
 
 bis zu 2x SSDs
 
 lautlose / lüfterlose Kühlung
 
-* basierend auf Intel® NUC13 / NUC14 Pro
+* basierend auf Intel® NUC13 / NUC14 Pro/ NUC15 Pro
 
-* bis zu 64 GB RAM
+* bis zu 96 GB RAM
 
 * bis zu 2x SSDs
 

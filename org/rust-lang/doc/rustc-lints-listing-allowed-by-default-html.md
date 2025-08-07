@@ -2967,13 +2967,17 @@ error: unused extern crate
  --> lint_example.rs:4:1
   |
 4 | extern crate proc_macro;
-  | ^^^^^^^^^^^^^^^^^^^^^^^^ help: remove it
+  | ^^^^^^^^^^^^^^^^^^^^^^^^ unused
   |
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
 1 | #![deny(unused_extern_crates)]
   |         ^^^^^^^^^^^^^^^^^^^^
+help: remove the unused `extern crate`
+  |
+4 - extern crate proc_macro;
+  |
 
 ```
 
