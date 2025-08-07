@@ -476,7 +476,7 @@ correctness deny
 
  Applicability: MaybeIncorrect
 
-Added in: 1.83.0
+Added in: 1.88.0
 
 char\_lit\_as\_u8
 
@@ -542,6 +542,14 @@ pedantic allow
 
 Added in: 1.53.0
 
+cloned\_ref\_to\_slice\_refs
+
+perf warn
+
+ Applicability: MaybeIncorrect
+
+Added in: 1.87.0
+
 cmp\_null
 
 style warn
@@ -557,6 +565,14 @@ perf warn
  Applicability: MachineApplicable
 
 Added in: pre 1.29.0
+
+coerce\_container\_to\_any
+
+suspicious warn
+
+ Applicability: MaybeIncorrect
+
+Added in: 1.88.0
 
 cognitive\_complexity
 
@@ -621,6 +637,14 @@ style warn
  Applicability: MachineApplicable
 
 Added in: 1.49.0
+
+confusing\_method\_to\_numeric\_cast
+
+suspicious warn
+
+ Applicability: MaybeIncorrect
+
+Added in: 1.86.0
 
 const\_is\_empty
 
@@ -884,7 +908,7 @@ nursery allow
 
  Applicability: MaybeIncorrect
 
-Added in: 1.86.0
+Added in: 1.87.0
 
 doc\_link\_with\_quotes
 
@@ -917,6 +941,14 @@ style warn
  Applicability: MaybeIncorrect
 
 Added in: 1.86.0
+
+doc\_suspicious\_footnotes
+
+suspicious warn
+
+ Applicability: HasPlaceholders
+
+Added in: 1.88.0
 
 double\_comparisons
 
@@ -1012,7 +1044,7 @@ pedantic allow
 
  Applicability: MachineApplicable
 
-Added in: 1.84.0
+Added in: 1.87.0
 
 else\_if\_without\_else
 
@@ -1612,7 +1644,7 @@ pedantic allow
 
  Applicability: Unspecified
 
-Added in: 1.85.0
+Added in: 1.88.0
 
 ignored\_unit\_patterns
 
@@ -1774,6 +1806,14 @@ style warn
 
 Added in: pre 1.29.0
 
+infallible\_try\_from
+
+suspicious warn
+
+ Applicability: Unspecified
+
+Added in: 1.88.0
+
 infinite\_iter
 
 correctness deny
@@ -1916,7 +1956,7 @@ correctness deny
 
  Applicability: MaybeIncorrect
 
-Added in: 1.44.0
+Added in: 1.83.0
 
 invisible\_characters
 
@@ -1933,6 +1973,14 @@ style warn
  Applicability: MachineApplicable
 
 Added in: 1.87.0
+
+ip\_constant
+
+pedantic allow
+
+ Applicability: MachineApplicable
+
+Added in: 1.89.0
 
 is\_digit\_ascii\_radix
 
@@ -2274,7 +2322,7 @@ let\_with\_type\_underscore
 
 complexity warn
 
- Applicability: Unspecified
+ Applicability: MachineApplicable
 
 Added in: 1.70.0
 
@@ -2356,7 +2404,7 @@ complexity warn
 
  Applicability: MachineApplicable
 
-Added in: 1.86.0
+Added in: 1.88.0
 
 manual\_assert
 
@@ -2404,7 +2452,7 @@ perf warn
 
  Applicability: MachineApplicable
 
-Added in: 1.86.0
+Added in: 1.87.0
 
 manual\_dangling\_ptr
 
@@ -2412,7 +2460,7 @@ style warn
 
  Applicability: MachineApplicable
 
-Added in: 1.87.0
+Added in: 1.88.0
 
 manual\_div\_ceil
 
@@ -2458,7 +2506,7 @@ manual\_flatten
 
 complexity warn
 
- Applicability: MaybeIncorrect
+ Applicability: MachineApplicable
 
 Added in: 1.52.0
 
@@ -2972,7 +3020,7 @@ style warn
 
  Applicability: MachineApplicable
 
-Added in: 1.86.0
+Added in: 1.87.0
 
 mem\_replace\_with\_default
 
@@ -3932,7 +3980,7 @@ style warn
 
  Applicability: Unspecified
 
-Added in: 1.85.0
+Added in: 1.87.0
 
 panic
 
@@ -4029,6 +4077,14 @@ suspicious warn
  Applicability: Unspecified
 
 Added in: 1.68.0
+
+pointer\_format
+
+restriction allow
+
+ Applicability: Unspecified
+
+Added in: 1.88.0
 
 pointers\_in\_nomem\_asm\_block
 
@@ -4908,7 +4964,7 @@ nursery allow
 
  Applicability: Unspecified
 
-Added in: 1.86.0
+Added in: 1.87.0
 
 single\_range\_in\_vec\_init
 
@@ -5334,31 +5390,7 @@ complexity warn
 
 Added in: pre 1.29.0
 
-transmute\_float\_to\_int
-
-complexity warn
-
- Applicability: Unspecified
-
-Added in: 1.41.0
-
 transmute\_int\_to\_bool
-
-complexity warn
-
- Applicability: Unspecified
-
-Added in: pre 1.29.0
-
-transmute\_int\_to\_char
-
-complexity warn
-
- Applicability: Unspecified
-
-Added in: pre 1.29.0
-
-transmute\_int\_to\_float
 
 complexity warn
 
@@ -5381,14 +5413,6 @@ correctness deny
  Applicability: Unspecified
 
 Added in: 1.68.0
-
-transmute\_num\_to\_bytes
-
-complexity warn
-
- Applicability: Unspecified
-
-Added in: 1.58.0
 
 transmute\_ptr\_to\_ptr
 
@@ -5500,7 +5524,7 @@ perf warn
 
  Applicability: Unspecified
 
-Added in: 1.86.0
+Added in: 1.87.0
 
 unchecked\_duration\_subtraction
 
@@ -6125,6 +6149,14 @@ correctness deny
  Applicability: MaybeIncorrect
 
 Added in: pre 1.29.0
+
+useless\_concat
+
+complexity warn
+
+ Applicability: MachineApplicable
+
+Added in: 1.89.0
 
 useless\_conversion
 
