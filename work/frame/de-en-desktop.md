@@ -597,9 +597,11 @@ Framework Desktop has 5Gbit Ethernet along with two USB4 ports, allowing network
 
 [Explore Mainboard](/products/desktop-mainboard-amd-ai-max300)
 
- Framework Desktop (AMD Ryzen™ AI Max 300 Series) Compatibility
+### Framework Desktop (AMD Ryzen™ AI Max 300 Series) Compatibility ###
 
- Framework Desktop (AMD Ryzen™ AI Max 300 Series) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.11 | Recommended: 6.15+ | Best Experience: Latest
 
  Officially supported
 

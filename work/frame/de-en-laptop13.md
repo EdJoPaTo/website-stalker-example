@@ -1538,9 +1538,11 @@ Warranty
 
 1 Year Framework Limited Warranty
 
- Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility
+### Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility ###
 
- Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.11 | Recommended: 6.15+ | Best Experience: Latest
 
  Officially supported
 
@@ -1714,9 +1716,11 @@ Easy
 
 [Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
 
- Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility
+### Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility ###
 
- Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.8 | Recommended: 6.12+ | Best Experience: Latest
 
  Officially supported
 
@@ -1946,9 +1950,11 @@ Medium difficulty
 
 [Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
- Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility
+### Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility ###
 
- Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.6 | Recommended: 6.10+ | Best Experience: Latest
 
  Officially supported
 

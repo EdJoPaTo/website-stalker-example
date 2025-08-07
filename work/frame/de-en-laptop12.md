@@ -608,9 +608,11 @@ Warranty
 
 3 Year Limited Warranty for Spain
 
- Framework Laptop 12 (13th Gen Intel® Core™) Compatibility
+### Framework Laptop 12 (13th Gen Intel® Core™) Compatibility ###
 
- Framework Laptop 12 (13th Gen Intel® Core™) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.1 | Recommended: 6.13+ | Best Experience: Latest
 
  Officially supported
 

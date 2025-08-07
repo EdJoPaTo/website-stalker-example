@@ -9,9 +9,11 @@ There are tradeoffs between different distributions, especially if you’re on t
 
 You can check out our **[Knowledgebase article](https://knowledgebase.frame.work/en_us/officially-supported-vs-compatible-linux-distributions-ByVPFgyTs)** for more information about our officially supported Linux distributions versus the compatible community supported distributions.
 
- Framework Laptop 12 (13th Gen Intel® Core™) Compatibility
+### Framework Laptop 12 (13th Gen Intel® Core™) Compatibility ###
 
- Framework Laptop 12 (13th Gen Intel® Core™) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.1 | Recommended: 6.13+ | Best Experience: Latest
 
  Officially supported
 
@@ -209,9 +211,11 @@ Medium difficulty
 
 [Community Forum](https://community.frame.work/t/nixos-on-the-framework-laptop-12/66962)
 
- Framework Desktop (AMD Ryzen™ AI Max 300 Series) Compatibility
+### Framework Desktop (AMD Ryzen™ AI Max 300 Series) Compatibility ###
 
- Framework Desktop (AMD Ryzen™ AI Max 300 Series) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.11 | Recommended: 6.15+ | Best Experience: Latest
 
  Officially supported
 
@@ -361,9 +365,11 @@ Easy
 
 [Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-desktop/66981)
 
- Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility
+### Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility ###
 
- Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.11 | Recommended: 6.15+ | Best Experience: Latest
 
  Officially supported
 
@@ -537,9 +543,11 @@ Easy
 
 [Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
 
- Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility
+### Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility ###
 
- Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.8 | Recommended: 6.12+ | Best Experience: Latest
 
  Officially supported
 
@@ -769,9 +777,11 @@ Medium difficulty
 
 [Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
- Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility
+### Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility ###
 
- Framework Laptop 13 (AMD Ryzen™ 7040 Series) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.6 | Recommended: 6.10+ | Best Experience: Latest
 
  Officially supported
 
@@ -1029,9 +1039,11 @@ Easy
 
 [Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
 
- Framework Laptop 16 (AMD Ryzen™ 7040 Series) Compatibility
+### Framework Laptop 16 (AMD Ryzen™ 7040 Series) Compatibility ###
 
- Framework Laptop 16 (AMD Ryzen™ 7040 Series) Compatibility
+##### 📦 Kernel support #####
+
+Minimum: 6.6 | Recommended: 6.10+ | Best Experience: Latest
 
  Officially supported
 
