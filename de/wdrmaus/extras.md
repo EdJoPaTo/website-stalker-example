@@ -1,6 +1,6 @@
 [So kannst du Erste Hilfe leisten](https://www.wdrmaus.de/extras/mausthemen/erste_hilfe/index.php5)
 
-[Starte in dein digitales Abenteuer](https://www.wdrmaus.de/extras/mausthemen/digitalisierung/index.php5)
+[Was verbirgt sich hinter KI?](https://www.wdrmaus.de/extras/mausthemen/kuenstliche_intelligenz/index.php5)
 
 * [Bauwerke, die verbinden](https://www.wdrmaus.de/extras/mausthemen/bauwerke/bruecken.php5)
 * [Wissenwertes zum "Drahtesel"](https://www.wdrmaus.de/extras/mausthemen/fahrrad/index.php5)
