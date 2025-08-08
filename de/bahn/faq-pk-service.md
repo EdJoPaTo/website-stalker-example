@@ -6522,9 +6522,7 @@ Wenn Sie Ihren Gegenstand in einem anderen Zug verloren haben, setzen Sie sich b
 
 \* Fundsachen aus dem Ersatzverkehr (EV) im Rahmen der Generalsanierung des Korridors Hamburg-Berlin vom 1. August 2025 bis 30. April 2026 werden vom Busunternehmen ecovista bearbeitet.
 
-Reisende die sich nach verlorenen Gegenständen erkundigen, können sich an die ecoVista Leitstelle wenden:
-
-**Telefonnummer: [+49 6021 9011 801](tel:+4960219011801)** (7/24 erreichbar)
+Reisende, die sich nach **in Bussen des Ersatzverkehrs Hamburg-Berlin** verlorenen Gegenständen erkundigen möchten, können sich an das Busunternehmen ecoVista wenden.
 
 **E-Mail:** [mailto:fundsachen@ecovista.eu](mailto:mailto:fundsachen@ecovista.eu)
 
