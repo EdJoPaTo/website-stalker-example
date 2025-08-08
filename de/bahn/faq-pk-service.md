@@ -6833,6 +6833,16 @@ Nutzen Sie Ihr bestehendes bahn.de-Login nach der Zusammenführung Ihres BahnID-
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnid-anmeldung)
 
+ Wie kann ich mich aus dem Kundenkonto ausloggen?
+----------
+
+So können Sie sich ausloggen:
+
+1. Klicken Sie rechts oben im Browser auf bahn.de auf Ihren Profilnamen.
+2. Dort finden Sie an letzter Stelle das Feld "Logout". Hier können Sie sich ausloggen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kundenkonto-logout)
+
  Wie aktiviere ich die 2-Faktor-Authentifizierung?
 ----------
 
