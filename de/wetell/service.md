@@ -21,13 +21,15 @@ Per E-Mail via
 
 [service@wetell.de](mailto:service@wetell.de)
 
-##### Du möchtest den vollen Überblick? #####
+Du möchtest den vollen Überblick?
+----------
 
 Lade unsere App hier herunter!
 
 [Laden imApp Store](https://apps.apple.com/de/app/wetell/id6450259024) [Jetzt beiGoogle Play](https://play.google.com/store/apps/details?id=de.appsoluts.wetell)
 
-##### Du willst mit uns sprechen? #####
+Du willst mit uns sprechen?
+----------
 
 Wir sind für dich da! [Meld dich bei uns](/service/kontakt/)
 

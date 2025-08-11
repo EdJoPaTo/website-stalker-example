@@ -94,7 +94,8 @@ Menü [](https://www.wetell.de/)
   Mein WEtell
   * [Login](https://mein.wetell.de/)
 
-#### Bock auf mehr? ####
+Bock auf mehr?
+----------
 
 Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
 
@@ -119,7 +120,8 @@ Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.
 * 40GB
 * 100GB
 
-#### Ultrakurz ####
+Ultrakurz
+----------
 
 **Angebot!?**
 Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
@@ -134,7 +136,8 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 **Tarifwechsel**
 Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
 
-#### Ultrakurz ####
+Ultrakurz
+----------
 
 3 GB
 
@@ -150,7 +153,8 @@ Daten 5G
 
 [Jetzt bestellen](https://www.wetell.de/shop/privat/ultrakurz)
 
-#### Mikrofon ####
+Mikrofon
+----------
 
 **Angebot!?**
 Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
@@ -165,7 +169,8 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 **Tarifwechsel**
 Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
 
-#### Mikrofon ####
+Mikrofon
+----------
 
 7 GB
 
@@ -181,7 +186,8 @@ Daten 5G
 
 [Jetzt bestellen](https://www.wetell.de/shop/privat/mikrofon)
 
-#### Mittelwelle ####
+Mittelwelle
+----------
 
 **Angebot!?**
 Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
@@ -196,7 +202,8 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 **Tarifwechsel**
 Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
 
-#### Mittelwelle ####
+Mittelwelle
+----------
 
 20 GB
 
@@ -212,7 +219,8 @@ Daten 5G
 
 [Jetzt bestellen](https://www.wetell.de/shop/privat/mittelwelle)
 
-#### Megafon ####
+Megafon
+----------
 
 **Angebot!?**
 Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
@@ -227,7 +235,8 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 **Tarifwechsel**
 Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
 
-#### Megafon ####
+Megafon
+----------
 
 40 GB
 
@@ -243,7 +252,8 @@ Daten 5G
 
 [Jetzt bestellen](https://www.wetell.de/shop/privat/megafon)
 
-#### Überschall ####
+Überschall
+----------
 
 **Angebot!?**
 Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
@@ -258,7 +268,8 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 **Tarifwechsel**
 Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
 
-#### Überschall ####
+Überschall
+----------
 
 100 GB
 
@@ -347,7 +358,8 @@ Vernetzt, geprüft, ausgezeichnet
 
 [](https://audit.econgood.org/firmen-label/?qrfkey=2z9z2) [](https://www.bnw-bundesverband.de/) [](https://www.send-ev.de/netzwerk/regionalgruppen/baden-wuerttemberg/)
 
-#### Bock auf mehr? ####
+Bock auf mehr?
+----------
 
 Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
 
@@ -356,7 +368,8 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * [](https://www.linkedin.com/company/wetell/)
 * [](https://digitalcourage.social/@wetell)
 
-* ###### Mobilfunk ######
+* Mobilfunk
+  ----------
 
 * [Mobilfunk](https://www.wetell.de/mobilfunk/)
 * [Optionen](https://www.wetell.de/mobilfunk/optionen/)
@@ -364,13 +377,15 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * [Wechselservice](https://www.wetell.de/mobilfunk/wechselservice/)
 * [Auslandskonditionen](https://www.wetell.de/mobilfunk/auslandskonditionen/)
 
-* ###### Warum WEtell? ######
+* Warum WEtell?
+  ----------
 
 * [Warum WEtell?](https://www.wetell.de/warum-wetell/)
 * [Wirtschaft aufmischen](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/)
 * [Mobilfunk neu denken](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/)
 
-* ###### Service ######
+* Service
+  ----------
 
 * [Service](https://www.wetell.de/service/)
 * [Kontakt](https://www.wetell.de/service/kontakt/)
@@ -379,7 +394,8 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * [Downloads](https://www.wetell.de/service/downloads/)
 * [Providerliste](https://www.wetell.de/service/providerliste/)
 
-* ###### Community ######
+* Community
+  ----------
 
 * [Community](https://www.wetell.de/community/)
 * [youtell – Freund\*innen werben](https://www.wetell.de/community/youtell/)
@@ -391,7 +407,8 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * [Affiliatepartner\*in werden](https://www.wetell.de/community/affiliatepartnerin-werden/)
 * [Funksachen](https://funksachen.wetell.de/)
 
-* ###### Fürs Business ######
+* Fürs Business
+  ----------
 
 * [Fürs Business](https://www.wetell.de/fuers-business/)
 * [Businesstarife](https://www.wetell.de/fuers-business/businesstarife/)
@@ -402,7 +419,8 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * [Tarif mit Handy](https://www.wetell.de/fuers-business/businesstarife/tarif-mit-handy/)
 * [Auslandskonditionen](https://www.wetell.de/fuers-business/businesstarife/auslandskonditionen/)
 
-* ###### Rechtliches ######
+* Rechtliches
+  ----------
 
 * [Datenschutzerklärung](https://www.wetell.de/datenschutzerklaerung/)
 * [Impressum](https://www.wetell.de/impressum/)
@@ -419,7 +437,8 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 
 Wie können wir Dir helfen?
 
-#### Hallo! ####
+Hallo!
+----------
 
 Wie können wir Dir helfen?
 
