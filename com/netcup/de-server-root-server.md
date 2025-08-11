@@ -251,7 +251,7 @@ Weitere Antworten findest du im [Root-Server G11 FAQ-Bereich](https://helpcenter
 
 [Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
 
-[Storagespace](https://www.netcup.com/de/server/server-storage)
+[Storage Space](https://www.netcup.com/de/server/server-storage)
 
 [Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
 

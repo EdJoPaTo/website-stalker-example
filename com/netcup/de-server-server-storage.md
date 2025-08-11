@@ -1,11 +1,11 @@
-Storagespace
+Storage Space
 
 ==========
 
-Storagespace für vServer / Root-Server
+Storage Space für vServer / Root-Server
 ----------
 
-Zu jedem aktuellen vServer / Root-Server kannst du optional Storagespace buchen. Der Storagespace liegt auf einem externen Storage-Verbund und kann gemeinsam, also von mehreren Servern und auch von externen Clients, genutzt werden. Der Storagespace wird mittels NFS angesprochen. Die entsprechenden Clients müssen dabei IP-basiert freigeschaltet werden.
+Zu jedem aktuellen vServer / Root-Server kannst du optional Storage Space buchen. Der Storage Space liegt auf einem externen Storage-Verbund und kann gemeinsam, also von mehreren Servern und auch von externen Clients, genutzt werden. Der Storage Space wird mittels NFS angesprochen. Die entsprechenden Clients müssen dabei IP-basiert freigeschaltet werden.
 
 Neue Abrechnungsvarianten:
 ----------
@@ -76,7 +76,7 @@ Preis / Monat
 
 15,00 €
 
-Der Storagespace kann zu einem bestehenden Server über das CCP gebucht werden. Bestandskunden können kostenlos auf die neue Abrechnungsvariante wechseln. Kontaktiere dazu bitte unseren Support.
+Der Storage Space kann zu einem bestehenden Server über das CCP gebucht werden. Bestandskunden können kostenlos auf die neue Abrechnungsvariante wechseln. Kontaktiere dazu bitte unseren Support.
 
 ### Weitere Angebote ###
 
@@ -84,7 +84,7 @@ Der Storagespace kann zu einem bestehenden Server über das CCP gebucht werden. 
 
 [Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
 
-[Storagespace](https://www.netcup.com/de/server/server-storage)
+[Storage Space](https://www.netcup.com/de/server/server-storage)
 
 [Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
 
