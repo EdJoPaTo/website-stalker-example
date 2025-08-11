@@ -156,6 +156,8 @@ Verfügbare CD-ROMs / DVDs
 
 amd64
 
+arm64
+
 AlmaLinux 10.0
 
 enthalten
