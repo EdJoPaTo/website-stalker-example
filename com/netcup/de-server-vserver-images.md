@@ -2,7 +2,7 @@ Fertige Images für vServer
 
 ==========
 
-Images zur Installation auf einem vServer
+Images zur Installation auf einem Server
 ----------
 
 Wir bieten eine große Auswahl an vorkonfigurierten Images zur Installation auf einem vServer an. Die Images können über das SCP installiert werden. Die Images sind mit verschiedenen Betriebssystemen und Administrationspanels ausgestattet.
@@ -11,75 +11,141 @@ Die folgende Auflistung umfasst die Images, die wir aktuell für vServer mit auf
 
 Verfügbare Betriebssysteme als Image installierbar
 
-Details
+amd64
 
-Alma Linux 9
-
-Minimal System, lediglich SSH ist vorinstalliert
+arm64
 
 AlmaLinux 8
 
-Minimal System, lediglich SSH ist vorinstalliert
+enthalten
 
-Archlinux
+\-
 
-Minimal System, lediglich SSH ist vorinstalliert
+AlmaLinux 9.6 BIOS
+
+enthalten
+
+\-
+
+AlmaLinux 9.6 UEFI
+
+\-
+
+enthalten
+
+ArchLinux 2025.07.01 UEFI
+
+enthalten
+
+\-
 
 Debian (11) Bullseye
 
-Minimal System, lediglich SSH ist vorinstalliert
+enthalten
 
-Debian (12) Bookworm
+\-
 
-Minimal System, lediglich SSH ist vorinstalliert
+Debian 12.11.0 BIOS
 
-FreeBSD 13
+enthalten
 
-Minimal System, lediglich SSH ist vorinstalliert
+\-
 
-OpenSUSE Leap 15.4
+Debian 12.11.0 UEFI
 
-Minimal System, lediglich SSH ist vorinstalliert
+\-
+
+enthalten
+
+FreeBSD 13.5 BIOS
+
+enthalten
+
+\-
+
+FreeBSD 14.3 BIOS
+
+enthalten
+
+\-
+
+FreeBSD 14.3 UEFI
+
+\-
+
+enthalten
+
+OpenSUSE 15.6 BIOS
+
+enthalten
+
+\-
+
+OpenSUSE 15.6 UEFI
+
+\-
+
+enthalten
 
 Rocky Linux 8
 
-Minimal System, lediglich SSH ist vorinstalliert
+enthalten
 
-Rocky Linux 9
+\-
 
-Minimal System, lediglich SSH ist vorinstalliert
+RockyLinux 9.6 BIOS
 
-Ubuntu 22.04 LTS
+enthalten
 
-Minimal System, lediglich SSH ist vorinstalliert
+\-
 
-Ubuntu 24.04 LTS
+RockyLinux 9.6 UEFI
 
-Minimal System, lediglich SSH ist vorinstalliert
+\-
 
-Debian (12) Bookworm arm64
+enthalten
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 22.04.5 BIOS
 
-Ubuntu 22.04 LTS arm64
+enthalten
 
-Minimal System, lediglich SSH ist vorinstalliert
+\-
 
-Ubuntu 24.04 LTS arm64
+Ubuntu 22.04.5 UEFI
 
-Minimal System, lediglich SSH ist vorinstalliert
+\-
 
-Almalinux 9 arm64
+enthalten
 
-Minimal System, lediglich SSH ist vorinstalliert
+Ubuntu 24.04.2 BIOS
 
-FreeBSD 14 arm64
+enthalten
 
-Minimal System, lediglich SSH ist vorinstalliert
+\-
 
-Rockylinux 9 arm64
+Ubuntu 24.04.2 GPU UEFI
 
-Minimal System, lediglich SSH ist vorinstalliert
+enthalten
+
+\-
+
+Ubuntu 24.04.2 UEFI
+
+\-
+
+enthalten
+
+Ubuntu cloudimg 24.04.2 BIOS
+
+enthalten
+
+\-
+
+Ubuntu cloudimg 24.04.2 UEFI
+
+enthalten
+
+\-
 
 CD-ROMs / DVDs zur Installation
 ----------
@@ -88,50 +154,168 @@ Neben Images, stellen wir im SCP auch Installations-CD-ROMs bereit. Von diesen k
 
 Verfügbare CD-ROMs / DVDs
 
-AlmaLinux 9.1
+amd64
 
-Arch Linux 2024.05.01
+AlmaLinux 10.0
 
-Debian 11 Bullseye Netinstall
+enthalten
 
-Debian 12 Bookworm Netinstall
+enthalten
+
+AlmaLinux 8.10
+
+enthalten
+
+enthalten
+
+AlmaLinux 9.6
+
+enthalten
+
+enthalten
+
+Archlinux 2025.07.01
+
+enthalten
+
+\-
+
+Debian 11.11.0
+
+enthalten
+
+enthalten
+
+Debian 12.11.0
+
+enthalten
+
+enthalten
 
 Finnix
 
-FreeBSD 12.2
+enthalten
 
-FreeBSD 13.1
+\-
 
-GParted Live CD 1.3.0
+FreeBSD 13.5
 
-Grml Live Linux
+enthalten
 
-NetBSD 9.2
+\-
 
-OpenBSD 6.8
+FreeBSD 14.3
 
-openSUSE LEAP 15.6 Netinstall
+enthalten
 
-Rocky Linux 8.7
+enthalten
 
-Rocky Linux 9.1
+GParted Live CD 1.7.0-8
 
-System Rescue CD 9.03
+enthalten
 
-Ubuntu 22.04 Live Server
+\-
 
-Ubuntu 24.04 Live Server
+Grml Live 2025.05
+
+enthalten
+
+enthalten
+
+NetBSD 9.4
+
+enthalten
+
+enthalten
+
+OpenBSD 7.7
+
+enthalten
+
+enthalten
+
+OpenSUSE Leap 15.6
+
+enthalten
+
+enthalten
+
+OpenSUSE Leap 16.0
+
+enthalten
+
+enthalten
+
+Rocky 10.0
+
+enthalten
+
+enthalten
+
+Rocky 8.10
+
+enthalten
+
+enthalten
+
+Rocky 9.6
+
+enthalten
+
+enthalten
+
+SystemRescue CD 12.01
+
+enthalten
+
+\-
+
+Ubuntu 22.04.5 Live Server
+
+enthalten
+
+enthalten
+
+Ubuntu 24.04.2 Live Server
+
+enthalten
+
+enthalten
 
 Windows Server 2022 DE-DE zur Evaluierung (180 Tage)
 
-Windows Server 2022 EN-US zur Evaluierung (180 Tage)
+enthalten
 
-Windows Treiber / Driver
+\-
+
+Windows Server 2022 EN-US for Evaluation (180 Days)
+
+enthalten
+
+\-
+
+Windows Server 2025 DE-DE zur Evaluierung (180 Tage)
+
+enthalten
+
+\-
+
+Windows Server 2025 EN-US for Evaluation (180 Days)
+
+enthalten
+
+\-
+
+Windows VirtIO drivers 0.1.271
+
+enthalten
+
+\-
 
 Eigene CD-ROMs / DVDs und Images
 ----------
 
-Über das SCP können auch eigene CD-ROMs / DVDs oder Images geladen werden. Hierzu stellen wir einen FTP-Zugang bereit.
+Über das SCP können auch eigene CD-ROMs / DVDs oder Images geladen werden.
 
 ### Weitere Angebote ###
 
