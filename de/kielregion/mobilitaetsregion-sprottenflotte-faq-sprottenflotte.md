@@ -142,7 +142,7 @@ Antworten auf Fragen zur Buchung, Abrechnung und Technik gibt es bei der Service
 
  Benno Hilwerling
 
- Mobilitätsmanagement, Schwerpunkt: Projektkoordination SprottenFlotte
+ Projektkoordinator SprottenFlotte (Mobilität); Teamverantwortlicher für strategisch-inhaltliche Entwicklung im Bereich Mobilität
 
 Haßstraße 3-5
 24103 Kiel

@@ -11,7 +11,7 @@ Dabei greift die Datenplattform auf einen FIWARE Context-Broker zurück. Die Dat
 
  Leon Jamaer
 
- Koordination Datenplattform
+ Projektkoordinator Datenplattform (SmarterLeben)
 
 Haßstraße 3-5
 24103 Kiel
