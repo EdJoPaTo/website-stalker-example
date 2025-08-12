@@ -48,10 +48,10 @@ Sustainability
 
 Contact
 
-We print light.
+ENLIGHT THE WORLD.
 ==========
 
-OLED in any shape and patterns.
+With low-cost OLED.
 
 We simplified OLED to bring lighting anywhere it matters.
 ==========
@@ -173,25 +173,6 @@ Made for
 Recycling
 
 More About Sustainability
-
-Insights
-==========
-
-[Read More](/insights)
-
-Press Release
-
-Inuru Opens New Customer Experience Department in Warsaw
-----------
-
-Inuru's new Warsaw location to enhance customer interaction and accelerate OLED innovation with dedicated design and production units.
-
-May 16, 2024
-
-Inuru Manifesto
-----------
-
-How Inuru fosters a world where humanity lives in balance with nature through the power of technology.
 
 Breathe new life into your products.
 ==========
