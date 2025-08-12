@@ -25,6 +25,8 @@ IC-Strecken mit Freigabe für den Nahverkehr
 
 ###  Verkehrsverbund Berlin-Brandenburg (VBB)  ###
 
+#### Verkehrsverbund Berlin-Brandenburg ####
+
 Sie können folgende IC (Intercity)- und RJ (Railjet)-Züge auf den 3 Strecken mit einem Nahverkehrs-Ticket nutzen:
 
 * Berlin Hbf – Flughafen BER Terminal 1-2 - Doberlug-Kirchhain – Elsterwerda (IC-Züge und ICE 1076)
@@ -41,6 +43,8 @@ Anerkannt werden auch:
 
 ###  Dresden Hbf – Freiberg (Sachs) – Chemnitz Hbf  ###
 
+#### Dresden HBF - Freiberg (Sachs) - Chemnitz ####
+
 Sie können alle IC (Intercity)-Züge auf der Strecke Dresden Hbf – Freiberg (Sachs) – Chemnitz Hbf mit Nahverkehrs-Tickets nutzen.
 
 **Regionale Zusatztickets zum Deutschland-Ticket (z.B. für die Mitnahme von weiteren Personen, Fahrrädern oder der 1. Klasse-Beförderung) werden nicht anerkannt.**
@@ -54,6 +58,8 @@ Anerkannt werden:
 * Ländertickets Sachsen, Sachsen-Anhalt und Thüringen
 
 ###  Dillenburg – Iserlohn-Letmathe – Dortmund Hbf  ###
+
+#### Dillenburg – Iserlohn-Letmathe – Dortmund Hbf ####
 
 Sie können mit einem Nahverkehrs-Ticket alle Intercity-Züge nutzen, die auf der Strecke Dortmund – Witten – Iserlohn-Letmathe – Altena (Westf) – Werdohl – Plettenberg – Finnentrop – Lennestadt-Grevenbrück – Lennestadt-Altenhundem – Kreuztal – Siegen-Weidenau – Siegen Hbf - Dillenburg (Hessen) **an allen genannten Bahnhöfen halten.**. Das sind die folgenden Intercity-Züge:
 IC 2223, 2225, 2229, 2323, 2325, 2327
@@ -72,6 +78,8 @@ Anerkannt werden:
 
 ###  Bremen - Emden Außenhafen/Norddeich Mole  ###
 
+#### Bremen - Emden Außenhafen/Norddeich Mole ####
+
 Sie können mit einem Nahverkehrs-Ticket alle Intercity-Züge auf der Strecke Bremen Hbf – Oldenburg (Oldb) – Augustfehn – Leer (Ostfr) – Emden Hbf – Emden Außenhafen / Norddeich Mole nutzen.
 
 **Regionale Zusatztickets zum Deutschland-Ticket (z.B. für die Mitnahme von weiteren Personen, Fahrrädern oder der 1. Klasse-Beförderung) werden nicht anerkannt.**
@@ -85,6 +93,8 @@ Anerkannt werden:
 * Niedersachsen-Tickets
 
 ###  Rostock – Ribnitz-Damgarten West – Velgast – Stralsund  ###
+
+#### Rostock – Ribnitz-Damgarten West – Velgast – Stralsund ####
 
 Sie können mit bestimmten Tickets im Deutschlandtarif alle Intercity- und ICE-Züge auf der Strecke Rostock Hbf – Ribnitz-Damgarten West – Velgast – Stralsund nutzen.
 
@@ -108,6 +118,8 @@ Diese Tickets werden nicht anerkannt:
 
 ###  Erfurt - Weimar - Jena – Gera  ###
 
+#### Erfurt - Weimar - Jena – Gera ####
+
 Sie können alle IC-Züge auf der Strecke Erfurt – Weimar – Jena - Gera mit einem Nahverkehrs-Ticket nutzen.
 
 **Regionale Zusatztickets zum Deutschland-Ticket (z.B. für die Mitnahme von weiteren Personen, Fahrrädern oderfür die 1. Klasse) werden nicht anerkannt.**
@@ -123,6 +135,8 @@ Anerkennung von:
 ICE- und IC-Wochen-, Monats- und Jahreskarten gelten auf dieser Strecke nur in Fernverkehrszügen.
 
 ###  Stuttgart - Singen (Htw) – Konstanz (Gäubahn)  ###
+
+#### Stuttgart - Singen (Htw) – Konstanz (Gäubahn) ####
 
 Sie können alle IC-Züge auf der Strecke Stuttgart Hbf – Horb – Singen (Htw) – Konstanz mit einem Nahverkehrs-Ticket nutzen.
 
