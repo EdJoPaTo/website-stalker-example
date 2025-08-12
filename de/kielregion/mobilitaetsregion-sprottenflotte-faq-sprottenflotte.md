@@ -153,7 +153,7 @@ Haßstraße 3-5
 
  Ingo Meyer
 
- Mobilität: SprottenFlotte
+ Projektmanager SprottenFlotte (Mobilität)
 
 Haßstraße 3-5
 24103 Kiel
@@ -164,7 +164,7 @@ Haßstraße 3-5
 
  Luisa Verlemann
 
- Mobilitätsmanagement, Schwerpunkt: SprottenFlotte, SMILE24
+ Projektmanagerin SprottenFlotte und SMILE24 (Mobilität)
 
 Haßstraße 3-5
 24103 Kiel

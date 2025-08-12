@@ -341,7 +341,7 @@ Haßstraße 3-5
 
  Ingo Meyer
 
- Mobilität: SprottenFlotte
+ Projektmanager SprottenFlotte (Mobilität)
 
 Haßstraße 3-5
 24103 Kiel

@@ -3713,34 +3713,55 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
 
 **Digital im Kundenkonto**
 
-**Bedingungen**
+**Bedingungen:**
 
 * Das Ticket muss im Kundenkonto gekauft oder hinterlegt sein.
 * Dies kann auch für eine BahnCard 100 oder eine andere Streckenzeitkarte gelten.
 
-**Für Einzelfahrkarten**
+**Für Einzelfahrkarten:**
 
-\- Loggen Sie sich in Ihr Kundenkonto ein.
+* Loggen Sie sich in Ihr Kundenkonto ein.
+* Gehen Sie auf „Meine Reisen“ (bahn.de) oder „Reisen“ (DB Navigator).
+* Wählen Sie „Vergangene Reisen“ und dann das entsprechende Ticket.
+* Klicken Sie auf „Entschädigung beantragen“ (bahn.de) oder im DB Navigator auf „Weitere Aktionen“ und dann „Entschädigung beantragen“.
+* Folgen Sie den weiteren Anweisungen.
 
-\- Gehen Sie auf „Meine Reisen“ (bahn.de) oder „Reisen“ (DB Navigator).
-
-\- Wählen Sie „Vergangene Reisen“ und dann das entsprechende Ticket.
-
-\- Klicken Sie auf „Entschädigung beantragen“ (bahn.de) oder im DB Navigator auf „Weitere Aktionen“ und dann „Entschädigung beantragen“.
-
-\- Folgen Sie den weiteren Anweisungen.
-
-**Für BahnCard 100**
+**Für BahnCard 100:**
 
 * Gehen Sie im Kundenkonto auf „BahnCard“.
 * Klicken Sie bei der BahnCard auf „Optionen“ und dann auf „Entschädigung beantragen“.
 * Folgen Sie den weiteren Anweisungen.
 
-**Für Zeitfahrkarten**
+**Für Zeitfahrkarten:**
 
 * Gehen Sie auf „Zeitkarten & Abos“.
 * Wählen Sie die entsprechende Zeitfahrkarte aus.
 * Klicken Sie auf „Entschädigung beantragen“ und folgen Sie den weiteren Schritten.
+
+**Digital über die Auftragssuche**
+
+**Sie benötigen:**
+
+* Die Auftragsnummer des digital gebuchten Tickets (12-stellig).
+* Den Nachnamen der reisenden Person.
+
+**Die Auftragsnummer finden Sie:**
+
+* Im Bestätigungstext nach der Buchung.
+* In der Bestätigungsmail nach der Buchung.
+* Auf Ihrem Ticket (PDF oder Ausdruck) unter dem Barcode.
+
+**Nach Eingabe der Daten:**
+
+* Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen".
+* Folgen Sie den weiteren Anweisungen.
+
+**Hinweis:**
+
+* Der Aufruf des Tickets über die Auftragssuche ist anonym möglich.
+* Wenn Sie das Ticket, für das Sie Fahrgastrechte beantragen wollen, initial über das Kundenkonto gebucht haben, loggen Sie sich bitte ein\*. Sie erhalten einen entsprechenden Hinweis. Nach Login können Sie Ihre Entschädigung wie gewohnt am entsprechenden Auftrag im Kundenkonto beantragen. Hier sind dann bereits viele Angaben vorbefüllt.
+
+\*gilt nur bei Privatreisen
 
 **Mit dem Fahrgastrechte-Formular**
 
