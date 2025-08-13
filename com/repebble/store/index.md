@@ -1,4 +1,4 @@
-Get your new PebbleOS watch
+Get your new Pebble watch
 ==========
 
 My new company (Core Devices) and I are proud to introduce two new watches that closely follow the original Pebble DNA. If you had a Pebble and loved it, or missed your chance 10 years ago but heard about it since, we think you will really enjoy these new devices.
@@ -9,7 +9,7 @@ For more details, read the [announcement blog post](https://ericmigi.com/blog/in
 
 \- ***[Eric Migicovsky](https://ericmigi.com)***
 
-### Core 2 Duo ###
+### Pebble 2 Duo ###
 
 * 1.2" black/white e-paper screen
 * Polycarbonate frame (black or white)
@@ -22,13 +22,13 @@ Starts shipping July 2025
 
 I want one!
 
-### Core Time 2 ###
+### Pebble Time 2 ###
 
 * 1.5" 64 color e-paper screen
 * Touch screen
 * Metal frame (multiple color options)
 * Heart rate monitor
-* Like [Pebble Time 2](https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra), but better!
+* Like [2016-era Pebble Time 2](https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra), but better!
 
 $225
 
@@ -59,17 +59,17 @@ FAQ
 
 No. I have personally funded development of these new watches because…I really want them myself! If you place an pre-order, you can cancel it at any time for a full refund (minus credit card transaction fees, for pre-orders placed after March 21, 2025), up until your watch is ready to ship. As we get closer to shipping, we will share more details, images and information. If you decide at any point that the watch is not for you, you can [cancel your pre-order](/manage) any time before your watch ships.
 
-### Is Core 2 Duo basically an upgraded Pebble 2? ###
+### Is Pebble 2 Duo basically an upgraded Pebble 2? ###
 
 Yes! The big change is an increase from 7 to 30 days of battery life. We also added a speaker, linear actuator motor, compass and barometer, and improved the buttons. Read the [announcement post](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches) for more info.
 
-### Is Core Time 2 basically an upgraded Pebble Time 2? ###
+### Is Pebble Time 2 basically an upgraded 2016-era Pebble Time 2? ###
 
-Yes! It features the exact same beautiful screen as Pebble Time 2. We've added a speaker and touch screen, and boosted battery life. The industrial design is also slightly different. It looks more like a Core 2 Duo because the top glass is flat rather than curved. Read the [announcement post](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches) for more info.
+Yes! It features the exact same beautiful screen as the original unreleased 2016 Pebble Time 2. We've added a speaker and touch screen, and boosted battery life. Check out the [design reveal](https://ericmigi.com/blog/pebble-time-2-design-reveal) for more info.
 
-### Can I choose the color of my Core Time 2? \* ###
+### Can I choose the color of my Pebble Time 2? \* ###
 
-Yes! Before we ship your Core Time 2, you'll be able to select from available color options. We will definitely offer a black option and a stainless steel option. We may announce additional color options later as we get closer to shipping.
+Yes! Before we ship your Pebble Time 2, you'll be able to select from available color options. We will definitely offer a black option and a stainless steel option. We may announce additional color options later as we get closer to shipping.
 
 You don't need to choose your color now - we'll contact you before shipping to confirm your color preference.
 
@@ -97,7 +97,7 @@ Here's the awesome part - PebbleOS is [open source](https://github.com/pebble-de
 
 ### What are the technical specifications? ###
 
-|                                    |          Core 2 Duo          |            Core Time 2            |
+|                                    |         Pebble 2 Duo         |           Pebble Time 2           |
 |------------------------------------|------------------------------|-----------------------------------|
 |              Display               |          1.26" B/W           |          1.5" 64-colour           |
 |             Resolution             |   144x168 pixels, 176 DPI    |      200x228 pixels, 202 DPI      |
