@@ -1,24 +1,22 @@
 HAMBURG
 BEI NACHT
 
-### 09.-10.08.2025 ###
+### 08.-09.08.2026 ###
 
-[dein ticket sichern](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
-
-[booklet & strecke](https://www.megamarsch.de/hamburg-bei-nacht)
+[dein ticket sichern](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 IN HAMBURG DURCH DIE NACHT
 ==========
 
 Endecke das Nachtleben in Hamburg von einer neuen Seite.
 
-Wandere mit uns 50km durch die Nacht. Mit Start am Samstag Abend geht es dem Sonnenuntergang entgegen durch die Nacht. Bis die Sonne wieder aufgeht und Dir Kraft und Motivation für die letzten Kilometer schenkt. Schnapp Dir Deine Stirnlampe und Deinen Wanderbuddy und wagt Euch gemeinsam an diese Herausforderung.
+Wandere mit uns 50 km durch die Nacht. Mit Start am Samstag Abend geht es dem Sonnenuntergang entgegen durch die Nacht. Bis die Sonne wieder aufgeht und Dir Kraft und Motivation für die letzten Kilometer schenkt. Schnapp Dir Deine Stirnlampe und Deinen Wanderbuddy und wagt Euch gemeinsam an diese Herausforderung.
 
-[Dein Ticket sichern](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[Dein Ticket sichern](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 ### ZEITPUNKT ###
 
-09.-10.08.2025
+08.-09.08.2026
 50 Kilometer in
 12 Stunden
 
@@ -31,7 +29,7 @@ ab 18:00 Uhr (die genaue Startzeit steht auf Deinem Ticket)​
 ÖFFNUNGSZEITEN:
 
 Die Öffnungszeiten der Stationen und des Ziels richten sich nach einer Durchschnitts-geschwindigkeit von
-4,2km/h - 6km/h​
+4,2 km/h - 6 km/h​
 
 ### ORT ###
 
@@ -50,7 +48,7 @@ Rothenburgsort,
 20539 Hamburg
 
 VERPFLEGUNG:
-Vier Stationen entlang der Strecke (ca. alle 10km)
+Vier Stationen entlang der Strecke (ca. alle 10 km)
 
 ​
 
@@ -70,30 +68,14 @@ Bekommst Du am Start und im Ziel als Nachweis für Deine Leistung
 
 MEDAILLE:
 
-Bei einem 50km Finish
+Bei einem 50 km Finish
 
 HALL OF FAME:
-Bei einem 50km Finish
+Bei einem 50 km Finish
 
 ​
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
-
-#### Booklet ####
-
-1
-
-2
-
-5
-
-1
-
-1/5
-
-[Booklet zum downloaden](https://www.megamarsch.de/_files/ugd/c7d428_a1aa6c100f4f4ca5959a045eb69b9c33.pdf)
-
-[Allgemeines Handbuch](https://www.megamarsch.de/_files/ugd/c7d428_5c7ec45037dd4c7cba81286de5707584.pdf)
+[SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 #### STRECKE ####
 
@@ -103,19 +85,17 @@ Gegen den Uhrzeigersinn
 
 ###### LAUFRICHTUNG ######
 
-[](https://www.komoot.com/de-de/tour/2423486591)
+###### 2 WOCHEN VOR DEM EVENT ######
 
-[Strecke bei Komoot](https://www.komoot.com/de-de/tour/2423486591)
+...stellen wir Euch die Strecke als Download für Komoot zur Verfügung. Die Strecke ist vorübergehend und kann sich z.B. auf Grund von behördlichen Auflagen oder organisatorischen Gründen noch ändern.
 
-[GPX Datei der strecke](https://82b24694-136f-40db-acbc-2df764536893.filesusr.com/ugd/c7d428_ffe6f93ae3384d16ba609e342b675f10.gpx?dn=Strecke%20Megamarsch%20Hamburg%20bei%20Nacht%202025.gpx)
-
-Booklet
-
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+###### 2 TAGE VOR DEM EVENT ######
 
 ...fahren wir die Strecke mit dem Fahrrad ab, um den Weg für Euch zu markieren. Sollten wir dabei merken, dass Teile der Strecke z.B. auf Grund von Ästen, die auf der Strecke liegen, oder weil die Wege sehr nass sind, nicht begehbar sind, wird die Strecke kurzfristig an die Gegebenheiten vor Ort angepasst.
 
-###### 2 TAGE VOR DEM EVENT ######
+[SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
+
+Booklet
 
 #### unsere PARTNER ####
 
@@ -123,14 +103,10 @@ Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbra
 
 Für Millionen Menschen ist komoot der Schlüssel zu Erlebnissen in der Natur. Für die Megamarsch Saison 2025 ist komoot offizieller Navigationspartner.​
 
-Die dodenhof SportWelt in Kaltenkirchen hat alles, was du brauchst, um deine sportlichen Ziele zu erreichen. Mach dich bereit, dein Bestes zu geben und starte jetzt durch!
-
-Farmer’s Snack produziert im Süden Hamburgs hochwertige Nüsse und Trockenfrüchte sowie leckere Nuss-Frucht-Mix. Für beste Qualität und einzigartigen Geschmack suchen wir weltweit nach besonderen Rohwaren.
-
 #### Highlights
-Hamburg bei Nacht 2024 ####
+Hamburg bei Nacht 2025 ####
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 #### Dein name
 auf der NÄCHSTEN
@@ -139,7 +115,7 @@ Hall of Fame! ####
 #### Auch DU kannst
 es schaffen! ####
 
-[JETZT TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[JETZT TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 Pokalempfänger Hamburg bei Nacht 2024
 
@@ -153,57 +129,59 @@ Pokalempfänger Hamburg bei Nacht 2024
 
 #### Funktionsshirt ####
 
-Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg bei Nacht 2025.
+Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg bei Nacht 2026.
 Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challenge! Atmungsaktiv, feuchtigkeitsregulierend und strapazierfähig. Das Design wird sich an das jeweilige Event orientieren und ist dadurch Deine persönliche Erinnerung für Deine Challenge. Hol Dir jetzt Dein Funktionsshirt für Dein kommendes unvergessliches Abenteuer!
 
 \*Die Designs werden bald veröffentlicht
 
-[Teilnehmershirts sichern](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[Teilnehmershirts sichern](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 ### Super Early Bird Ticket ###
 
-15.08. 8 Uhr - 19.08.2024 8 Uhr
+14.08. 9 Uhr - 18.08.2025
 
-TICKETPREIS:
-49,95€
-
-[Button](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
-
-### Early Bird
-Ticket ###
-
-19.08. 8 Uhr - 30.11.2024
+9 Uhr
 
 TICKETPREIS:
 54,95€
 
-[Button](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[Button](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
-### Normales
+### Early Bird
+Ticket ###
+
+18.08. 9 Uhr - 30.11.2025
+
+TICKETPREIS:
+59,95€
+
+[Button](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
+
+### REGLUAR
 Ticket ###
 
 DEZEMBER - ENDE MAI
 
 TICKETPREIS:
-59,95€
+64,95€
 
-[Button](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[Button](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 ### Last Chance
 Ticket ###
 
-JUNI - 09.08.2025
+JUNI - 08.08.2026
 
 ​​​
 
 ​
 
 TICKETPREIS:
-64,95€
+69,95€
 
 ​
 
-[Button](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[Button](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 Im Ticketpreis enthalten ist die gesamte Organisation der Veranstaltung inkl. 4 Verpflegungsstationen mit Snacks und Getränken, Toiletten und Sanitätern. Ebenfalls im Ticketpreis enthalten ist die Urkunde (ab der 2. Verpflegungsstation) und die Finisher-Medaille.
 
@@ -211,34 +189,26 @@ Die Eventbrite-Gebühren kommen zum oben aufgeführten Preis noch hinzu.
 
 Ticket nicht mehr Verfügbar | Ticket noch Verfügbar
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 #### Buche jetzt deine Startzeit, bevor sie ausverkauft ist! ####
 
-[JETZT IN HAMBURG TEILNEHMEN!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[JETZT IN HAMBURG TEILNEHMEN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 18:00
-
-AUSVERKAUFT
-
-19:15
 
 .
 
 18:15
 
-AUSVERKAUFT
+.
 
 18:30
 
-AUSVERKAUFT
+.
 
-18:45
+[TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
-AUSVERKAUFT
+[TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
-19:00
-
-AUSVERKAUFT
-
-[TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-5012-hamburg-bei-nacht-2025-tickets-992518669057)
+[TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)

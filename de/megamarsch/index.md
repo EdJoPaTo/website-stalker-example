@@ -14,17 +14,16 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### #WIRGEHENWEITER Sommer SPEZIAL ###
+### berlin bei nacht ###
 
-### 01. - 03. August 2025 ###
+### 30. - 31. August 2025 ###
 
-### 50 KM ODER 100 KM ###
+### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/wirgehenweiter-sommer-spezial)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/berlin)
 
 |     Events     |   2025   |   2026   |
 |----------------|----------|----------|
-|                |          |          |
 |     Luzern     |          |28/03/2026|
 |    Mallorca    |22/02/2025|21/02/2026|
 |    Dresden     |08/03/2025|07/03/2026|
@@ -40,8 +39,8 @@ IN DEINER NÄHE!
 |   Düsseldorf   |05/07/2025|04/07/2026|
 |Düsseldorf 25KM |          |04/07/2026|
 |     Erfurt     |12/07/2025|11/07/2026|
-|Ruhrgebiet b. N.|26/07/2025|25/07/2025|
-| Hamburg b. N.  |09/08/2025|          |
+|Ruhrgebiet b. N.|26/07/2025|25/07/2026|
+| Hamburg b. N.  |09/08/2025|08/08/2026|
 |  Berlin b.N.   |30/08/2025|          |
 |   Stuttgart    |06/09/2025|          |
 |      Köln      |20/09/2025|          |
