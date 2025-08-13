@@ -445,7 +445,7 @@ Quick select
 
  Port Expansion Cards
 
- USB-C  new colors available
+ USB-C  New colors available
 
 0123456
 
