@@ -356,7 +356,7 @@ Das führende Wirtschaftsmagazin
 Vernetzt, geprüft, ausgezeichnet
 ----------
 
-[](https://audit.econgood.org/firmen-label/?qrfkey=2z9z2) [](https://www.bnw-bundesverband.de/) [](https://www.send-ev.de/netzwerk/regionalgruppen/baden-wuerttemberg/)
+[](https://audit.econgood.org/firmen-label/?qrfkey=2z9z2) [](https://www.bnw-bundesverband.de/) [](https://www.send-ev.de/netzwerk/regionalgruppen/baden-wuerttemberg/) [](https://www.send-ev.de/netzwerk/regionalgruppen/baden-wuerttemberg/)
 
 Bock auf mehr?
 ----------
