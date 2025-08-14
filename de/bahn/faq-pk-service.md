@@ -5262,7 +5262,7 @@ Ihren Status können Sie nur mit der digitalen BahnBonus Karte in der BahnBonus 
  Wie kann ich meine E-Mail-Adresse ändern, die ich bei meiner BahnBonus Anmeldung hinterlegt habe?
 ----------
 
-Um Ihre E-Mail-Adresse zu ändern, loggen Sie sich in Ihrem DB Kundenkonto auf bahn.de ein. Im Bereich „Persönliche Daten“ können Sie Ihre E-Mail-Adresse zentral ändern.
+Um Ihre E-Mail-Adresse zu ändern, loggen Sie sich in Ihrem [DB Kundenkonto](https://bahn.de/info/login) auf bahn.de ein. Im Bereich „Persönliche Daten“ können Sie Ihre E-Mail-Adresse zentral ändern.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-e-mail-adresse-aendern-die-ich-bei-den-bahncard-services-hinterlegt-habe)
 
@@ -5341,7 +5341,7 @@ Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in
  Kann ich Statuspunkte auch gegen Prämien einlösen?
 ----------
 
-Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur sammelt, um eines der drei Statuslevel zu erreichen.
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der drei Statuslevel zu erreichen. Sie können dann Ihre exklusiven Statusvorteile einlösen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
 
@@ -5565,13 +5565,6 @@ Mit der BahnBonus App können Sie ganz bequem am Vorteilsprogramm teilnehmen:
 * Informationen zu Ihrer persönlichen Co2-Einsparung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-brauche-ich-die-bahnbonus-app)
-
- Wie wird der CO₂-Verbrauch der Bahnfahrten berechnet?
-----------
-
-Die zurückgelegte Strecke ergibt sich aus einem Schienenrouting. Energieverbrauch und Emissionsfaktor werden anhand des jeweiligen Verkehrsmittels und der Antriebsart selektiert. Der CO₂-Kompass setzt für die Berechnung eine durchschnittliche Auslastung an, die verkehrsmittelspezifisch ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/co2-wie-berechnung-verbrauch-bahnfahrten)
 
  Gibt es die BahnBonus App auch in der HUAWEI AppGallery?
 ----------
