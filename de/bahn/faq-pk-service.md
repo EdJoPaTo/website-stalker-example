@@ -5331,114 +5331,6 @@ Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt a
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
 
- Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
-----------
-
-Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in der PrämienWelt angegeben. In der BahnBonus App ist dies momentan nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
-
- Kann ich Statuspunkte auch gegen Prämien einlösen?
-----------
-
-Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der drei Statuslevel zu erreichen. Sie können dann Ihre exklusiven Statusvorteile einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
-
- Bis wann sind Prämiengutscheine gültig?
-----------
-
-Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur sammelt, um eines der drei Statuslevel zu erreichen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
-
- Kann ich Bahnprämien auch verschenken?
-----------
-
-Bahnprämien können unterschiedliche Weitergabebedingungen haben:
-
-* Übertragbare Bahnprämien: Können verschenkt werden und berechtigen die Inhaber zur Fahrt ohne Begleitung eines BahnBonus-Teilnehmenden.
-* Prämien in Begleitung: Können für eine andere Person gebucht werden und berechtigen zu einer Fahrt in Begleitung eines BahnBonus-Teilnehmenden.
-* Nicht übertragbare Bahnprämien: Sind persönlich und gelten ausschließlich für BahnBonus-Teilnehmende; sie können nicht weitergegeben werden.
-* Die für die jeweilige Prämie geltende Bedingung finden Sie in der entsprechenden Prämienbeschreibung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-praemientickets-auch-verschenken)
-
- Wo finde ich die Prämien und welche gibt es?
-----------
-
-Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https://bahnbonus-praemienwelt.de/).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegen-welche-praemien-kann-ich-meine-gesammelten-praemienpunkte-einloesen)
-
- Wie erhalte ich meine Prämien und wie lange dauert die Zustellung?
-----------
-
-Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
-
- Wie erhalte ich meine Prämie?
-----------
-
-Je nach bestellter Prämie erfolgt die Zustellung per E-Mail als Paket oder per Brief. Für den Versand Ihrer Wunschprämie entstehen keine weiteren Kosten (Ausnahmen finden Sie in der Prämienbeschreibung). Die Zustellung der Prämie per Post erfolgt innerhalb von 10 Tagen; per E-Mail innerhalb von 48 Stunden. Zusätzlich haben Sie die Möglichkeit einige Bahnprämien direkt als Online-Ticket oder Handy- Ticket zu bestellen. Hinweis: Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-meine-praemie)
-
- Kann ich bereits bestellte Prämien umtauschen, erstatten oder reklamieren?
-----------
-
-Unsere Prämien sind von Umtausch, Erstattung oder (Teil-)Auszahlung ausgeschlossen. Im Falle eines Defekts einer Sachprämie, nutzen Sie bitte unser Kontaktformular.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-umtauschen)
-
- Wie kann ich eine bereits bestellte Prämie widerrufen?
-----------
-
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag in Textform (z. B. Brief, E-Mail) zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-widerrufen)
-
- Bei der Buchung einer Bahnprämie kam es zu einem Abbruch und meine Punkte waren weg, wann werden diese wieder gutgeschrieben?
-----------
-
-Wenn Sie keine Buchungsbestätigung erhalten haben, werden die Punkte Ihrem Konto in der Regel innerhalb von 60 Minuten wieder gutgeschrieben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemienbestellung-abbruch)
-
- Ist bei meiner Prämie 1. Klasse Upgrade eine Sitzplatzreservierung inklusive?
-----------
-
-Nein, eine kostenfreie Sitzplatzreservierung gibt es nur beim Flexpreis in der 1. Klasse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemien-1klasseupgrade-sitzplatzreservierung)
-
- Wie buche ich eine kostenpflichtige Sitzplatzreservierung zu meiner Prämie 1. Klasse Upgrade?
-----------
-
-Ihre Sitzplatzreservierung buchen Sie in einem separaten Buchungsvorgang
-
-Über die Website bahn.de:
-
-1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
-2. Klicken Sie auf "Nur Sitzplatz buchen".
-
-Über die App DB Navigator:
-
-1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
-2. Unter "Nur Reservierung" können Sie den Sitzplatz wählen.
-
-Alternativ können Sie auf der Startseite die Suche für eine "Einfache Fahrt" auf "Nur Sitzplatz (ohne Ticket)" ändern.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-1klasseupgrade-buchen)
-
- Was passiert, wenn ich eine Prämie bestellen möchte und keine E-Mail-Adresse habe?
-----------
-
-Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-bestellen-keine-emailadresse)
-
  Wie kann ich ein BahnBonus Statuslevel erreichen?
 ----------
 
@@ -5617,7 +5509,7 @@ Beachten Sie bitte, dass für Statuskunden die BahnBonus App erforderlich ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-ohne-die-bahnbonus-app-statuspunkte-und-praemienpunkte-sammeln-und-einloesen)
 
- Müssen Geschäftsreisende privat genutzte Prämien in der Lohnsteuerbescheinigung angeben?
+ Muss ich als Geschäftsreisender privat genutzte Prämien in der Lohnsteuerbescheinigung angeben?
 ----------
 
 Nein. Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
@@ -5692,9 +5584,9 @@ Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
  Wie viele BahnBonus Punkte erhalte ich bei jedem Kauf?
 ----------
 
-Bei sammelfähigen Angeboten der DB, bekommen Sie für jeden Euro Umsatz, den Sie tätigen, je einen Prämien- und je einen Statuspunkt gutgeschrieben, dabei wird aufgerundet.
+Bei [sammelfähigen Angeboten der DB](https://www.bahn.de/service/bahnbonus/punkte-sammeln), bekommen Sie für jeden Euro Umsatz, den Sie tätigen, je einen Prämien- und je einen Statuspunkt gutgeschrieben, dabei wird aufgerundet.
 
-Bei Sammelpartnern ist die Punktegutschrift abhängig vom jeweiligen Partner.
+Bei [Sammelpartnern](https://www.bahn.de/service/bahnbonus/vorteile)ist die Punktegutschrift abhängig vom jeweiligen Partner.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieviele-punkte-bei-kauf)
 
@@ -5749,14 +5641,14 @@ Eine Übersicht der sammelfähigen Angebote der DB finden Sie [hier](https://www
  Kann ich als BahnCard 100 Inhaber:in auch BahnBonus Punkte sammeln?
 ----------
 
-Als BahnCard 100 Inhaber:in können Sie sich zu BahnBonus anmelden und ebenfalls BahnBonus Prämien- und Statuspunkte (z.B. für den Kauf der BahnCard oder Prämienpunkte bei BahnBonus Sammelpartnern) sammeln.
+Ja, als BahnCard 100 Inhaber:in können Sie ebenfalls BahnBonus Punkte sammeln, sofern Sie zu BahnBonus angemeldet sind. Ihnen werden für den Kauf der BahnCard100, Prämien- und Statuspunkte, gutgeschrieben. Beachten Sie bitte bei Buchung den Sammelwunsch anzugeben oder das automatische Sammeln zu aktivieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-als-bahncard-100-inhaber-in-auch-bahnbonus-punkte-sammeln)
 
- Kann ich auch BahnBonus Punkte sammeln, wenn meine BahnCard abgelaufen ist oder ich keine BahnCard habe?
+ Kann ich auch mit einer vorläufigen oder abgelaufenen BahnCard BahnBonus Punkte sammeln?
 ----------
 
-Ja, auch ohne BahnCard können Sie BahnBonus Prämien- und Statuspunkte sammeln. Voraussetzung für das Sammeln von BahnBonus Punkten ist, dass Sie am BahnBonus Vorteilsprogramm teilnehmen.
+Ja, sofern Sie zu BahnBonus angemeldet sind und eine Sammelnummer besitzen, können Sie mit dieser weiterhin BahnBonus Punkte sammeln.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-bahnbonus-punkte-sammeln-wenn-meine-bahncard-abgelaufen-ist-oder-ich-keine-bahncard-habe)
 
@@ -5953,6 +5845,114 @@ Der BahnBonus Statusservice ist die exklusive Hotline für Statuskund:innen. Den
 Ja, denn nur die BahnBonus App dient zur Inanspruchnahme aller Statusvorteile im Zug.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statusvorteile-smatphone-im-zug)
+
+ Bis wann sind Prämiengutscheine gültig?
+----------
+
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur sammelt, um eines der drei Statuslevel zu erreichen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
+
+ Kann ich Bahnprämien auch verschenken?
+----------
+
+Bahnprämien können unterschiedliche Weitergabebedingungen haben:
+
+* Übertragbare Bahnprämien: Können verschenkt werden und berechtigen die Inhaber zur Fahrt ohne Begleitung eines BahnBonus-Teilnehmenden.
+* Prämien in Begleitung: Können für eine andere Person gebucht werden und berechtigen zu einer Fahrt in Begleitung eines BahnBonus-Teilnehmenden.
+* Nicht übertragbare Bahnprämien: Sind persönlich und gelten ausschließlich für BahnBonus-Teilnehmende; sie können nicht weitergegeben werden.
+* Die für die jeweilige Prämie geltende Bedingung finden Sie in der entsprechenden Prämienbeschreibung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-praemientickets-auch-verschenken)
+
+ Wo finde ich die Prämien und welche gibt es?
+----------
+
+Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https://bahnbonus-praemienwelt.de/).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegen-welche-praemien-kann-ich-meine-gesammelten-praemienpunkte-einloesen)
+
+ Wie erhalte ich meine Prämien und wie lange dauert die Zustellung?
+----------
+
+Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
+
+ Wie erhalte ich meine Prämie?
+----------
+
+Je nach bestellter Prämie erfolgt die Zustellung per E-Mail als Paket oder per Brief. Für den Versand Ihrer Wunschprämie entstehen keine weiteren Kosten (Ausnahmen finden Sie in der Prämienbeschreibung). Die Zustellung der Prämie per Post erfolgt innerhalb von 10 Tagen; per E-Mail innerhalb von 48 Stunden. Zusätzlich haben Sie die Möglichkeit einige Bahnprämien direkt als Online-Ticket oder Handy- Ticket zu bestellen. Hinweis: Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-meine-praemie)
+
+ Kann ich bereits bestellte Prämien umtauschen, erstatten oder reklamieren?
+----------
+
+Unsere Prämien sind von Umtausch, Erstattung oder (Teil-)Auszahlung ausgeschlossen. Im Falle eines Defekts einer Sachprämie, nutzen Sie bitte unser Kontaktformular.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-umtauschen)
+
+ Wie kann ich eine bereits bestellte Prämie widerrufen?
+----------
+
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag in Textform (z. B. Brief, E-Mail) zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-widerrufen)
+
+ Bei der Buchung einer Bahnprämie kam es zu einem Abbruch und meine Punkte waren weg, wann werden diese wieder gutgeschrieben?
+----------
+
+Wenn Sie keine Buchungsbestätigung erhalten haben, werden die Punkte Ihrem Konto in der Regel innerhalb von 60 Minuten wieder gutgeschrieben.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemienbestellung-abbruch)
+
+ Ist bei meiner Prämie 1. Klasse Upgrade eine Sitzplatzreservierung inklusive?
+----------
+
+Nein, eine kostenfreie Sitzplatzreservierung gibt es nur beim Flexpreis in der 1. Klasse.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemien-1klasseupgrade-sitzplatzreservierung)
+
+ Wie buche ich eine kostenpflichtige Sitzplatzreservierung zu meiner Prämie 1. Klasse Upgrade?
+----------
+
+Ihre Sitzplatzreservierung buchen Sie in einem separaten Buchungsvorgang
+
+Über die Website bahn.de:
+
+1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
+2. Klicken Sie auf "Nur Sitzplatz buchen".
+
+Über die App DB Navigator:
+
+1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
+2. Unter "Nur Reservierung" können Sie den Sitzplatz wählen.
+
+Alternativ können Sie auf der Startseite die Suche für eine "Einfache Fahrt" auf "Nur Sitzplatz (ohne Ticket)" ändern.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-1klasseupgrade-buchen)
+
+ Was passiert, wenn ich eine Prämie bestellen möchte und keine E-Mail-Adresse habe?
+----------
+
+Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-bestellen-keine-emailadresse)
+
+ Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
+----------
+
+Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in der PrämienWelt angegeben. In der BahnBonus App ist dies momentan nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
+
+ Kann ich Statuspunkte auch gegen Prämien einlösen?
+----------
+
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der drei Statuslevel zu erreichen. Sie können dann Ihre exklusiven Statusvorteile einlösen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
 
  Wie kann ich die Sprache im DB Navigator ändern?
 ----------

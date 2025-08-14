@@ -1479,7 +1479,7 @@ Aktuell sind verstärkt betrügerische Aktivitäten basierend auf sogenannten Ph
  Kann ich als BahnCard 100 Inhaber:in auch BahnBonus Punkte sammeln?
 ----------
 
-Als BahnCard 100 Inhaber:in können Sie sich zu BahnBonus anmelden und ebenfalls BahnBonus Prämien- und Statuspunkte (z.B. für den Kauf der BahnCard oder Prämienpunkte bei BahnBonus Sammelpartnern) sammeln.
+Ja, als BahnCard 100 Inhaber:in können Sie ebenfalls BahnBonus Punkte sammeln, sofern Sie zu BahnBonus angemeldet sind. Ihnen werden für den Kauf der BahnCard100, Prämien- und Statuspunkte, gutgeschrieben. Beachten Sie bitte bei Buchung den Sammelwunsch anzugeben oder das automatische Sammeln zu aktivieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-als-bahncard-100-inhaber-in-auch-bahnbonus-punkte-sammeln)
 
