@@ -14,6 +14,7 @@ For more details, read the [announcement blog post](https://ericmigi.com/blog/in
 * 1.2" black/white e-paper screen
 * Polycarbonate frame (black or white)
 * Barometer and compass
+* Formally known as Core 2 Duo
 * Like [Pebble 2](https://www.youtube.com/watch?v=KQh1b_srGM4), but better!
 
 $149
@@ -28,6 +29,7 @@ I want one!
 * Touch screen
 * Metal frame (multiple color options)
 * Heart rate monitor
+* Formally known as Core Time 2
 * Like [2016-era Pebble Time 2](https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra), but better!
 
 $225
