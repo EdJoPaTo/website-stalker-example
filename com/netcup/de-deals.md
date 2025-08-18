@@ -9,6 +9,15 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 Keine Deals in dieser Kategorie
 
+Summer Sale
+----------
+
+#### 48 Stunden voller Angebote ####
+
+Neugierig, was als nächstes kommt? **Ab 26.08. startet unser Summer Sale**.
+
+Dich erwarten Top Deals aus jeder Kategorie - also sei dabei, wenn wir den Countdown starten!
+
 Bleibe auf dem Laufenden
 ----------
 
