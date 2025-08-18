@@ -11,6 +11,17 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+Unreleased
+----------
+
+**Available as `1.7.1-beta1`**
+
+### Fixed ###
+
+* [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM) Drop wrong JTI entry from BLE MF data
+* [WiFi](/gen2/ComponentsAndServices/WiFi) Implement connectivity checks with GW pings; force a disconnect if PK seems to be lost
+* Bump min bootloader version to 1.0.2
+
 [1.7.0] 2025-07-30
 ----------
 
