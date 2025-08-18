@@ -49,8 +49,8 @@ Anfragen zur Warn-App NINA über NINA HelpDesk
 
 📧 [nina@bbk.bund.de](mailto:nina@bbk.bund.de)
 
-Mo bis Do von 8:00 bis 16:30 Uhr
-Fr von 8:00 bis 15.30 Uhr
+Montag bis Donnerstag von 8:00 bis 16:30 Uhr
+Freitag von 8:00 bis 15:30 Uhr
 
  Wichtige Smartphone-Einstellungen für Push-Benachrichtigungen
 ----------
@@ -228,8 +228,8 @@ Bitte schicken Sie eine E-Mail mit der genauen **Typbezeichnung** Ihres **Smartp
 
 📧 [nina@bbk.bund.de](mailto:nina@bbk.bund.de)
 
-Mo bis Do von 8:00 bis 16:30 Uhr
- Fr von 8:00 bis 15.30 Uhr
+Montag bis Donnerstag von 8:00 bis 16:30 Uhr
+ Freitag von 8:00 bis 15:30 Uhr
 
 Wir werden dann versuchen, den **Darstellungsproblemen** auf den Grund zu gehen.
 
@@ -251,8 +251,8 @@ Aktuell ist die App jedoch für die Darstellung auf **Smartphones** optimiert, s
 
 📧 [nina@bbk.bund.de](mailto:nina@bbk.bund.de)
 
-Mo bis Do von 8:00 bis 16:30 Uhr
- Fr von 8:00 bis 15.30 Uhr
+Montag bis Donnerstag von 8:00 bis 16:30 Uhr
+ Freitag von 8:00 bis 15:30 Uhr
 
  Warnung im Web
 ----------

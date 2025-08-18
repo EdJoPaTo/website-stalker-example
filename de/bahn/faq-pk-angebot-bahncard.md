@@ -1036,9 +1036,9 @@ Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bah
  Wofür kann ich die Probe BahnCard 50 benutzen?
 ----------
 
-Mit der Probe BahnCard 50 erhalten Sie einen BahnCard-Rabatt in Höhe von 50 Prozent auf die Flexpreise sowie 25 Prozent auf die Super Spar- und Sparpreise innerhalb Deutschlands in der entsprechenden Wagenklasse. Das kostenpflichtige City-Ticket beim Sparpreis und Super Sparpreis wird nicht rabattiert.
+Mit der Probe BahnCard 50 erhalten Sie einen BahnCard-Rabatt in Höhe von 50 Prozent auf die Flexpreise sowie 25 Prozent auf die Super Spar- und Sparpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
 
-Dabei können Sie den ICE bzw. IC/EC, ÖBB-Nightjet-Züge (ggf. reservierungspflichtig) und die Züge des Nahverkehrs (IRE, RE, RB, S-Bahn) nutzen.
+Dabei können Sie den ICE bzw. IC/EC, ÖBB-Nightjet-Züge (ggf. reservierungspflichtig) und die Züge des Nahverkehrs (IRE, RE, RB, S-Bahn) nutzen. Das kostenpflichtige City-Ticket beim Sparpreis und Super Sparpreis wird nicht rabattiert.
 
 In manchen Verbünden wird BahnCard 25 und 50 Inhabern ein Rabatt auf Angebote des Verbundtarifs gewährt.
 
