@@ -102,3 +102,17 @@ Bei uns steht das Gemeinwohl an erster Stelle. Mit jeder Entscheidung, von unser
   Egal ob im Team, beim Thema Klimaschutz oder bei Prozessen im Kund\*innen-Service. Wir geben unser Bestes und trotzdem kommt es schon mal vor, dass wir uns hinterher denken: „Hups, das lief nicht optimal“ oder „Abgefahren, es gibt inzwischen eine noch viel bessere Lösung!“.
 
   Deswegen ist das Stolpern-und-wieder-Aufstehen ein fester Bestandteil unserer Prozesse, auf den wir stolz sind. Deswegen ist das Feedback unserer Community so wahnsinnig wertvoll für uns. Und deswegen gehen wir mit Fehlern offen und transparent um. Wir geben uns selbst die Möglichkeit, aus unseren Fehlern zu lernen und es beim nächsten Mal einfach besser zu machen.
+
+* #### Unsere Werteprojekte ####
+
+  Unsere Vision ist klar: Eine Welt, die jetzt und in Zukunft lebenswert ist. Nachhaltigkeit heißt für uns nicht nur Ökologie – sie ist immer auch sozial, wirtschaftlich und kulturell. Genau das beschreibt die Idee einer **integrierten Nachhaltigkeit**: Alles greift ineinander, anstatt getrennt nebeneinander zu stehen.
+
+  Neben unseren **Klimainvestitionen** haben wir ein neues **Werte-Budget** ins Leben gerufen. Damit gehen wir einen Schritt weiter. Um unsere Werte nach außen zu tragen und weiter zu stärken investieren wir bewusst in Projekte, die einen Mehrwert für Gesellschaft und Umwelt schaffen.
+
+  Dabei orientieren wir uns am **regenerativen Wirtschaften:** Wir wollen nicht nur weniger Schaden anrichten, sondern aktiv Gutes bewirken und Ressourcen für die Zukunft stärken.
+
+  **„We do it and we tell it“** – nach diesem Motto setzen wir Projekte um, die dem **Gemeinwohl** dienen. Jede\*r Mitarbeitende bei WEtell kann Ideen einbringen, und einmal im Monat stimmen wir über die nächsten Vorhaben ab. Wer mag, kann sich auch an der Umsetzung beteiligen. So werden die Werteprojekte zu einer echten Gemeinschaftssache.
+
+  Ob Klimaschutz, digitale Teilhabe oder faire Wirtschaft – manchmal unterstützen wir bestehende Initiativen, manchmal starten wir Neues, allein oder mit Partner\*innen. Über unsere **GWÖ-Bilanz** machen wir transparent, welchen Beitrag wir wirklich leisten.
+
+  So zeigen wir: Wirtschaft muss nicht Profitmaximierung bedeuten. Sie kann Sinn machen – für uns, für die Gesellschaft, für die Zukunft.
