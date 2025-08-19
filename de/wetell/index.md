@@ -100,6 +100,7 @@ Bock auf mehr?
 Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
 
 * [Barrierefreiheit](https://www.wetell.de/sonstiges/barrierefreiheit/)
+* [Leichte Sprache](https://www.wetell.de/leichte-sprache/)
 * Privatsphären-Einstellungen
 
 [info@wetell.de](mailto:info@wetell.de)
@@ -431,6 +432,7 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 [info@wetell.de](mailto:info@wetell.de)
 
 * [Barrierefreiheit](https://www.wetell.de/sonstiges/barrierefreiheit/)
+* [Leichte Sprache](https://www.wetell.de/leichte-sprache/)
 * Privatsphären-Einstellungen
 
 © 2025 Copyright WEtell. All rights reserved.
