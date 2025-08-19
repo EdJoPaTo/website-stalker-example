@@ -1,3 +1,23 @@
+```
+Something
+```
+
+```
+big
+```
+
+```
+just
+```
+
+```
+got better
+```
+
+August 26 8am PT 👀
+
+[Get notified](https://www.youtube.com/watch?v=OZRG7Og61mw)
+
 ### Computers shouldn't be boring.  ###
 
 Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
@@ -32,7 +52,7 @@ AMD-powered with modular, upgradeable graphics and fully customizable input.
 
 [Shop now](/products/laptop16-diy-amd-7040/configuration/new)
 
-[Learn more](/products/laptop16-diy-amd-7040)
+[Learn more](/laptop16)
 
 Upgrade, customize, and repair.
 ----------
