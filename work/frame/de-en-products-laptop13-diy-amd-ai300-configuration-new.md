@@ -29,7 +29,7 @@ FAQs
 
 * Can I upgrade my CPU later?
 
-  Yes! If you ever need more performance in the future, you can upgrade to a new Mainboard with a new CPU on it. We publish step by step guides you can follow to do the upgrade yourself.
+  Yes! If you ever need more performance in the future, you can upgrade to a new Mainboard with a new CPU on it. We publish step-by-step guides you can follow to do the upgrade yourself.
 
 * Which Processor should I choose?
 
@@ -91,7 +91,7 @@ FAQs
 
 * Can I add more memory or storage later?
 
-  Yes! The Framework Laptop 13 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step by step guides you can follow to do the upgrade yourself.
+  Yes! The Framework Laptop 13 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step-by-step guides you can follow to do the upgrade yourself.
 
 * What memory is compatible?
 

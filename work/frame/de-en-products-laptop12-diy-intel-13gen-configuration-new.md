@@ -41,7 +41,7 @@ FAQs
 
 * Can I upgrade my CPU later?
 
-  Yes! If you ever need more performance in the future, you can upgrade to a new Mainboard with a new CPU on it. We publish step by step guides you can follow to do the upgrade yourself.
+  Yes! If you ever need more performance in the future, you can upgrade to a new Mainboard with a new CPU on it. We publish step-by-step guides you can follow to do the upgrade yourself.
 
 * Which Processor should I choose?
 

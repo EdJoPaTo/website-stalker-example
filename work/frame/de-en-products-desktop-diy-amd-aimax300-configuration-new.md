@@ -72,7 +72,7 @@ FAQs
 
 * How much storage is right for me?
 
-  The amount of storage space you need depends on your use cases, but 1TB is the most popular selection. If you ever need more space in the future, you can add a secondary storage drive or upgrade your primary storage drive.
+  The amount of storage space you need depends on your use case, but 1TB is the most popular selection. If you ever need more space in the future, you can add a secondary storage drive or upgrade your primary storage drive.
 
 * What storage drives are compatible?
 
