@@ -1,3 +1,5 @@
+<iframe title="Incus STD (X600)" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="" src="https://sketchfab.com/models/ee5fd7472bac44bf8b89b09e0a67a195/embed?autostart=1&amp;ui_infos=0&amp;ui_controls=0&amp;ui_stop=0&amp;transparent=1" style="aspect-ratio: 1/1;height:100%"></iframe>
+
 #### Kompakter passiv gekühlter mini-PC mit
 AMD Ryzen APU ####
 
