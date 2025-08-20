@@ -3,6 +3,8 @@ Spotlight
 
 [SHIFT ---------- “smartphones can be timekillers”, so steht es auf den mobilen Endgeräten der Firma SHIFT geschrieben. Als erster deutscher Smartphonehersteller, gehen sie bewusst eigene Wege abseits des Mainstreams. Modulares Design, faire Lieferkette und ein hohes soziales Engagement machen SHIFT zu etwas Besonderem. Logisch, dass wir Gründer und CEO Samuel Waldeck ins WEtell Spotlight geholt haben.](/community/spotlight/shift/)
 
+[modem conclusa ---------- Nicht selten sind es Agenturen, die bekannten Marken erklären, wie sie mit Kund\*innen und Mitarbeitenden sprechen sollen. Eine dieser Agenturen heißt modem conclusa. Seit über 30 Jahren berät sie Unternehmen und Verbänden wie Pukka, Daikin, die Biofach oder gebana. Heute nehmen wir einen Blick hinter die Kulissen und richten unser Spotlight auf den Schreibtisch von Geschäftsführerin Uti Johne.](/community/spotlight/modem-conclusa/)
+
 [Panelretter ---------- Kaum zu glauben, aber wahr: Jedes Jahr landen funktionstüchtige Solarmodule im Müll – nur wegen oberflächlicher Schönheitsfehler. Doch keine Sorge, die Rettung ist schon unterwegs! Die beiden Elektroingenieure Chris und Tilmann sagen dem Solarmüll den Kampf an. Und schenken aussortierten Modulen ein zweites Leben.](/community/spotlight/panelretter/)
 
 [everwave ---------- Jedes Jahr gelangen 11 Millionen Tonnen Plastikmüll in die Ozeane. Everwave hat es sich zur Aufgabe gemacht diesen aus den Flüssen zu fischen, bevor er ins Meer gespült wird. Mit speziellen Booten und einem ausgeklügelten System, beugen sie der Bildung von Mikroplastik vor. CEO Clemens hat uns exklusive Insights gegeben.](/community/spotlight/everwave/)
