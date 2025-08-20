@@ -8,7 +8,7 @@ Auftritt
 
 [Schuhneuheiten entdecken](https://www.strauss.com/de/de/schuhneuheiten-sicherheitsschuhe?itemOrigin=startseite_HW25)
 
-[S6 e.s. Harlem low](https://www.strauss.com/de/de/sicherheitsschuhe-s6/s6-sicherheitsschuhe-e-s-harlem-low-1400150-93218-1875.html?itemorigin=startseite_HW25)
+[S6 e.s. Harlem low](https://www.strauss.com/de/de/sicherheitsschuhe-s6/s6-sicherheitsschuhe-e-s-harlem-low-1400150-93218-1875.html?itemorigin=startseite_HW25&category=Sicherheitsschuhe_S6)
 
  Herbst
 ==========

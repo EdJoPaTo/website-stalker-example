@@ -5206,6 +5206,8 @@ Wenn Sie Ihre geschäftlichen Reisen selbst buchen, kann ihre BahnBonus Anmeldun
 
 Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buchen, müssen Sie vorher sicherstellen, dass Ihr BahnBonus Konto mit Ihrem Geschäftskundenkonto verknüpft ist. In diesem Falle können Sie bei Ihren privaten Reisen in jeder Buchung aktiv durch Angabe der BahnCard / BahnBonus Nummer Punkte sammeln.
 
+* [Weitere Informationen zur geschäftlichen Nutzung von BahnBonus](https://www.bahn.de/bahnbusiness/info-und-services/geschaeftskundenprogramm/bahnbonus)
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-ein-privates-und-ein-geschaeftliches-bahnbonus-konto)
 
  Was ist die digitale BahnBonus Karte?
