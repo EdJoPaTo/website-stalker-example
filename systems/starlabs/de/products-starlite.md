@@ -17,7 +17,7 @@ Intel Core 3 N350 8-core processor
 
 Operating System
 
- Ubuntu 24.04  None  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 GNOME  Manjaro 25 Plasma  Manjaro 25 XFCE  Qubes 4.2.4  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)
+ Ubuntu 24.04  None  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 GNOME  Manjaro 25 Plasma  Manjaro 25 XFCE  Qubes 4.2.4  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)  MX Linux 23.6 XFCE
 
  Keyboard Language
 
