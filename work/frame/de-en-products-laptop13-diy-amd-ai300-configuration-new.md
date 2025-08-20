@@ -282,6 +282,10 @@ FAQs
 
   You can, but we don't recommend it. There are four Expansion Card slots on the Framework Laptop 13 so we suggest you have one for each.
 
+* Why are the Storage Expansion Cards different generations?
+
+  1st Gen was slightly faster than 2nd Gen, but we switched due to the original flash chip being discontinued. Now that 2nd Gen's flash parts are also nearing end of life, our supplier has secured more of the original 1st Gen chips, allowing us to resume its production.
+
 Close
 
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 13.
@@ -419,15 +423,14 @@ Close
 
 (Out of stock)  +€50
 
- Storage - 1TB (1st Gen)
+ 1TB (1st Gen)
 
  Details
 
  Storage Expansion Card
 ----------
 
- Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you.
-ChromeOS cannot be booted from any Framework Storage Expansion Card.
+Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you. ChromeOS cannot be booted from any Framework Storage Expansion Card.
 
 Close
 

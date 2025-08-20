@@ -233,6 +233,10 @@ FAQs
 
   The Framework Laptop 12 supports four simultaneous Expansion Cards, with two on each side. You can select up to four USB-A, USB-C, HDMI, DisplayPort, MicroSD, Ethernet, 1TB storage, or 250GB storage cards to fit your needs. The Framework Laptop 12 comes with a 3.5mm built-in audio jack, so you probably don't need the Audio Expansion Card.
 
+* Why are the Storage Expansion Cards different generations?
+
+  1st Gen was slightly faster than 2nd Gen, but we switched due to the original flash chip being discontinued. Now that 2nd Gen's flash parts are also nearing end of life, our supplier has secured more of the original 1st Gen chips, allowing us to resume its production.
+
 Close
 
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 12.
@@ -394,14 +398,14 @@ Close
 
 (Out of stock)  +€50
 
- 1TB (2nd Gen)
+ 1TB (1st Gen)
 
  Details
 
- 1TB (2nd Gen) Expansion Card
+ Storage Expansion Card
 ----------
 
-The 250GB (2nd Gen) and 1TB (2nd Gen) Expansion Cards give you the performance of an internal drive with the flexibility of an external one. With a USB 3.2 Gen 2 interface, both the 1TB (2nd Gen) and 250GB (2nd Gen) cards reach 1000 MB/s read and 800 MB/s write speeds. Both are fast enough to run apps and even boot an operating system from, and you can plug them into other computers for high-speed file transfer.
+Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you. ChromeOS cannot be booted from any Framework Storage Expansion Card.
 
 Close
 

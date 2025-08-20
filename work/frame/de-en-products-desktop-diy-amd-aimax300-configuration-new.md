@@ -429,6 +429,10 @@ FAQs
 
   Framework Desktop Expansion Card slots support all available Expansion Cards, except HDMI and DisplayPort. You can use the Ethernet Expansion Card and the Audio Expansion Card but we have dedicated ports in the back for those as well. If you're unsure, we suggest utilizing the front slots for additional USB-C and USB-A Expansion Cards.
 
+* Why are the Storage Expansion Cards different generations?
+
+  1st Gen was slightly faster than 2nd Gen, but we switched due to the original flash chip being discontinued. Now that 2nd Gen's flash parts are also nearing end of life, our supplier has secured more of the original 1st Gen chips, allowing us to resume its production.
+
 Close
 
 Customize your ports with the Expansion Card system.
@@ -555,15 +559,14 @@ Close
 
 (Out of stock)  +€50
 
- Storage - 1TB (1st Gen)
+ 1TB (1st Gen)
 
  Details
 
  Storage Expansion Card
 ----------
 
- Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you.
-ChromeOS cannot be booted from any Framework Storage Expansion Card.
+Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you. ChromeOS cannot be booted from any Framework Storage Expansion Card.
 
 Close
 
