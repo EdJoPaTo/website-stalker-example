@@ -105,7 +105,7 @@ Here's the awesome part - PebbleOS is [open source](https://github.com/pebble-de
 |             Resolution             |   144x168 pixels, 176 DPI    |      200x228 pixels, 202 DPI      |
 |            Interaction             |          4 buttons           |      4 buttons + touchscreen      |
 |               Frame                |        Polycarbonate         |               Metal               |
-|              Sensors               |6-axis IMU, compass, barometer|      6-axis IMU, heart rate       |
+|              Sensors               |6-axis IMU, compass, barometer|  6-axis IMU, heart rate, compass  |
 |          Starts shipping           |             July             |             December              |
 |               Price                |             $149             |               $225                |
 |          Mic and speaker           |              ✅               |                 ✅                 |
