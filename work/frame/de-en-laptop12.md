@@ -223,6 +223,11 @@ Hack Club is a 501(c)(3) nonprofit that empowers high schoolers to code, build, 
 
 [Learn more](/hacktheworld)
 
+### Help shape future Framework products.
+Click below to take a quick survey. ###
+
+[Take our survey](https://frameworkcomputer.typeform.com/to/lUhIl3V4?utm_medium=12overview)
+
 Available in 13th Gen Intel® Core™ processors.
 
 Specs

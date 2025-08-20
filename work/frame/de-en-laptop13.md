@@ -148,6 +148,11 @@ Newsletter.
 
 Monthly-ish
 
+### Help shape future Framework products.
+Click below to take a quick survey. ###
+
+[Take our survey](https://frameworkcomputer.typeform.com/to/lUhIl3V4?utm_medium=13overview)
+
 Framework Laptop 13. **Upgraded.**
 ----------
 
