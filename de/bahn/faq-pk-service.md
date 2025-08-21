@@ -2986,20 +2986,20 @@ Alle über das DB Kundenkonto gebuchten Tickets, gemerkten Reisen sowie gespeich
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-daten-im-db-navigator-auf-ein-neues-handy-uebertragen)
 
- Darf ich mich als minderjährige Person im DB Navigator registrieren und darüber Tickets kaufen?
+ Darf ich mich als minderjährige Person auf bahn.de oder im DB Navigator registrieren und Tickets kaufen?
 ----------
 
-Die Anmeldung auf bahn.de ist für jede Altersgruppe möglich. Beim Ticketkauf hängen die Voraussetzungen von der verwendeten Zahlart ab.
+Minderjährige können sich mit Zustimmung ihrer Sorgeberechtigten (in der Regel sind das die Eltern) auf der Website [bahn.de](http://bahn.de/) oder in der App DB Navigator registrieren und ein DB Kundenkonto nutzen. Die Möglichkeit des Ticketkaufs hängt des Weiteren von der verwendeten Zahlart, deren jeweiligen Altersbeschränkungen sowie von der Zustimmung der Sorgeberechtigten ab.
 
 **Zahlarten und Altersvorgaben:**
 
-* **Kreditkarte:** Meist ab 18 Jahren. Prepaid-Kreditkarten könnten mit Zustimmung der Eltern möglich sein.
-* **PayPal:** Nein, nur für Volljährige nutzbar.
-* **SEPA-Lastschrift:** Nein, nicht für Minderjährige angeboten.
-* **Sofortüberweisung mit Klarna:** Abhängig von den Bestimmungen der Bank, die das Girokonto führt.
+* **Kreditkarte:** Kreditkarten können in Deutschland in der Regel ab 18 Jahren beantragt werden. Prepaid-Kreditkarten können mit Zustimmung der Eltern bereits früher genutzt werden.
+* **PayPal:** Nein, nur von Volljährigen nutzbar.
+* **SEPA-Lastschrift:** Nein, wird nicht für Minderjährige angeboten.
+* **Apple Pay:** Die Nutzung von Apple Pay ist in Deutschland ab 16 Jahren möglich, wenn man eine eigene Apple ID besitzt. Nicht alle Banken unterstützen Apple Pay für Minderjährige, es ist ratsam sich bei der eigenen Bank zu informieren.
 * **Bonvoyo**: Ja
 
-**Hinweis:** Minderjährige sollten bei Unsicherheiten die Zustimmung der Eltern einholen.
+**Tipp:** Wir empfehlen, Tickets für Kinder über das Kundenkonto der Sorgeberechtigten zu buchen, indem die Funktion “Für eine andere Person buchen” genutzt wird. Die Tickets können anschließend manuell in die App auf dem Smartphone des Kindes geladen werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-mich-als-minderjaehriger-im-db-navigator-registrieren-und-darueber-tickets-kaufen)
 
