@@ -566,7 +566,8 @@ Close
  Storage Expansion Card
 ----------
 
-Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you. ChromeOS cannot be booted from any Framework Storage Expansion Card.
+ Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you.
+ChromeOS cannot be booted from any Framework Storage Expansion Card.
 
 Close
 
