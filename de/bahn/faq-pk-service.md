@@ -6950,7 +6950,7 @@ Wenn Sie das Verfahren *SMS-Tan* wählen, ist keine zusätzliche Authenticator-A
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-app-um-die-2-faktor-authentifizierung-nutzen-zu-koennen)
 
- Was, wenn bei der Einrichtung der Zwei-Faktor-Authentifizierung mit SMS-Tan meine Vorwahl nicht akzeptiert wird?
+ Was, wenn bei der Einrichtung der 2-Faktor-Authentifizierung mit SMS-Tan meine Vorwahl nicht akzeptiert wird?
 ----------
 
 In diesem Fall wählen Sie die 2-Faktor-Authentifizierung via Authentifizierungs-App. Hierzu benötigen Sie eine zusätzliche Authentifizierungs-App, über die Sie das Einmalpasswort zur Authentifizierung generieren können.
