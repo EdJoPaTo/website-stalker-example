@@ -78,7 +78,7 @@ Hamburg Booklet
 
 #### Strecke ####
 
-###### - 350 HÖHENMETER - ######
+###### - ca. 330 HÖHENMETER - ######
 
 ###### 2 WOCHEN VOR DEM EVENT ######
 
