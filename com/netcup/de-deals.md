@@ -1,9 +1,25 @@
 netcup Deals
 ==========
 
-Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
+**Summer Sale: Sichere dir mehr Speicherplatz, vCores oder Rabatte**
 
-[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+Vom **26. August, 10 Uhr** (MEZ) bis zum **28. August, 10 Uhr** (MEZ), hast du nicht nur 24, sondern gleich **48 Stunden** lang die Gelegenheit, einen heißen Deal zu ergattern.
+
+[Mehr Informationen](https://www.netcup.com/de/deals#infos)
+
+### **Das erwartet dich:** ###
+
+* ### Unschlagbare Deals ###
+
+  Ob Webhosting, VPS oder Domains – für den Summer Sale haben wir aus jeder Kategorie ein Schnäppchen parat.
+
+* ### 48 statt 24 Stunden verfügbar ###
+
+  Die Auswahl ist groß. Daher hast du diesen Monat etwas mehr Zeit, das passende Angebot für dich zu finden.
+
+* ### Zusätzliche Flash Deals ###
+
+  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), und sichere dir ein exklusives Extra-Angebot – nur für kurze Zeit!
 
 * Alle (0) Flash Deals (0)
 

@@ -81,10 +81,6 @@ Bei einem 50 km Finish
 
 ###### - ca. 180 HÖHENMETER - ######
 
-Gegen den Uhrzeigersinn
-
-###### LAUFRICHTUNG ######
-
 ###### 2 WOCHEN VOR DEM EVENT ######
 
 ...stellen wir Euch die Strecke als Download für Komoot zur Verfügung. Die Strecke ist vorübergehend und kann sich z.B. auf Grund von behördlichen Auflagen oder organisatorischen Gründen noch ändern.
