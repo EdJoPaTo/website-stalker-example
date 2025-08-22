@@ -267,7 +267,6 @@ zzgl. Versandkosten
   * [Presse](https://presse.strauss.com/)
   * [Nachhaltigkeit](https://www.strauss.com/de/de/Nachhaltigkeit)
   * [Workwearstore](https://www.strauss.com/de/de/Unternehmen/workwearstore)
-  * [Pop up Stores](https://www.strauss.com/de/de/popupstore)
   * [Messen](https://www.strauss.com/de/de/Unternehmen/Messen)
 
 * ### Informationen ###
