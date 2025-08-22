@@ -21,19 +21,19 @@ enthalten
 
 \-
 
-AlmaLinux 9.6 BIOS
+AlmaLinux 9
 
 enthalten
 
-\-
+enthalten
 
-AlmaLinux 9.6 UEFI
-
-\-
+AlmaLinux 10
 
 enthalten
 
-ArchLinux 2025.07.01 UEFI
+enthalten
+
+ArchLinux 2025
 
 enthalten
 
@@ -45,107 +45,71 @@ enthalten
 
 \-
 
-Debian 12.11.0 BIOS
+Debian 12
+
+enthalten
+
+enthalten
+
+Debian 13
+
+enthalten
+
+enthalten
+
+FreeBSD 13
 
 enthalten
 
 \-
 
-Debian 12.11.0 UEFI
-
-\-
+FreeBSD 14
 
 enthalten
 
-FreeBSD 13.5 BIOS
+enthalten
+
+OpenSUSE Leap 15
 
 enthalten
 
-\-
-
-FreeBSD 14.3 BIOS
-
 enthalten
 
-\-
-
-FreeBSD 14.3 UEFI
-
-\-
-
-enthalten
-
-OpenSUSE 15.6 BIOS
+RockyLinux 8
 
 enthalten
 
 \-
 
-OpenSUSE 15.6 UEFI
-
-\-
+RockyLinux 9
 
 enthalten
 
-Rocky Linux 8
+enthalten
+
+RockyLinux 10
 
 enthalten
 
-\-
+enthalten
 
-RockyLinux 9.6 BIOS
+Ubuntu 22.04
 
 enthalten
 
-\-
+enthalten
 
-RockyLinux 9.6 UEFI
-
-\-
+Ubuntu 24.04
 
 enthalten
 
-Ubuntu 22.04.5 BIOS
+enthalten
+
+Ubuntu cloudimg 24.04
 
 enthalten
 
-\-
-
-Ubuntu 22.04.5 UEFI
-
-\-
-
 enthalten
-
-Ubuntu 24.04.2 BIOS
-
-enthalten
-
-\-
-
-Ubuntu 24.04.2 GPU UEFI
-
-enthalten
-
-\-
-
-Ubuntu 24.04.2 UEFI
-
-\-
-
-enthalten
-
-Ubuntu cloudimg 24.04.2 BIOS
-
-enthalten
-
-\-
-
-Ubuntu cloudimg 24.04.2 UEFI
-
-enthalten
-
-\-
 
 CD-ROMs / DVDs zur Installation
 ----------
@@ -158,37 +122,43 @@ amd64
 
 arm64
 
-AlmaLinux 10.0
+AlmaLinux 8
 
 enthalten
 
 enthalten
 
-AlmaLinux 8.10
+AlmaLinux 9
 
 enthalten
 
 enthalten
 
-AlmaLinux 9.6
+AlmaLinux 10
 
 enthalten
 
 enthalten
 
-Archlinux 2025.07.01
+Archlinux 2025
 
 enthalten
 
 \-
 
-Debian 11.11.0
+Debian 11
 
 enthalten
 
 enthalten
 
-Debian 12.11.0
+Debian 12
+
+enthalten
+
+enthalten
+
+Debian 13
 
 enthalten
 
@@ -200,85 +170,85 @@ enthalten
 
 \-
 
-FreeBSD 13.5
+FreeBSD 13
 
 enthalten
 
 \-
 
-FreeBSD 14.3
+FreeBSD 14
 
 enthalten
 
 enthalten
 
-GParted Live CD 1.7.0-8
-
-enthalten
-
-\-
-
-Grml Live 2025.05
-
-enthalten
-
-enthalten
-
-NetBSD 9.4
-
-enthalten
-
-enthalten
-
-OpenBSD 7.7
-
-enthalten
-
-enthalten
-
-OpenSUSE Leap 15.6
-
-enthalten
-
-enthalten
-
-OpenSUSE Leap 16.0
-
-enthalten
-
-enthalten
-
-Rocky 10.0
-
-enthalten
-
-enthalten
-
-Rocky 8.10
-
-enthalten
-
-enthalten
-
-Rocky 9.6
-
-enthalten
-
-enthalten
-
-SystemRescue CD 12.01
+GParted Live CD 1.7
 
 enthalten
 
 \-
 
-Ubuntu 22.04.5 Live Server
+Grml Live 2025
 
 enthalten
 
 enthalten
 
-Ubuntu 24.04.2 Live Server
+NetBSD 9
+
+enthalten
+
+enthalten
+
+OpenBSD 7
+
+enthalten
+
+enthalten
+
+OpenSUSE Leap 15
+
+enthalten
+
+enthalten
+
+OpenSUSE Leap 16
+
+enthalten
+
+enthalten
+
+Rocky 8
+
+enthalten
+
+enthalten
+
+Rocky 9
+
+enthalten
+
+enthalten
+
+Rocky 10
+
+enthalten
+
+enthalten
+
+SystemRescue CD 12
+
+enthalten
+
+\-
+
+Ubuntu 22.04 Live Server
+
+enthalten
+
+enthalten
+
+Ubuntu 24.04 Live Server
 
 enthalten
 

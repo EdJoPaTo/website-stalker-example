@@ -221,6 +221,12 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 [ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
 
+* [Schnellansicht](https://www.megamarsch.de/product-page/eventshirts-2025-bei-nacht)
+
+  [### Eventshirts 2025 // Bei Nacht ### Preis39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025-bei-nacht)
+
+  In den Warenkorb
+
 * [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
 
   [### Finishershirt 100km 2025 ### Preis34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
