@@ -79,3 +79,7 @@ Ships
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/byte) [Get Notified When Available](#)
+
+ Byte 3
+
+ Use code 𝗕𝗔𝗡𝗞𝗛𝗢𝗟𝗜𝗗𝗔𝗬 for 10% off this Bank Holiday!
