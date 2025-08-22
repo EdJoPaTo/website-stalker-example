@@ -2,6 +2,7 @@
 
 [Was verbirgt sich hinter KI?](https://www.wdrmaus.de/extras/mausthemen/kuenstliche_intelligenz/index.php5)
 
+* [Auf Spurensuche im Wald](https://www.wdrmaus.de/extras/mausthemen/wald/index.php5)
 * [Bauwerke, die verbinden](https://www.wdrmaus.de/extras/mausthemen/bauwerke/bruecken.php5)
 * [Wissenwertes zum "Drahtesel"](https://www.wdrmaus.de/extras/mausthemen/fahrrad/index.php5)
 * [Was haben Wahlen mit Demokratie zu tun?](https://www.wdrmaus.de/extras/mausthemen/demokratie/index.php5)
