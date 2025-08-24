@@ -111,7 +111,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Warp**Fast and secure file transfer](Warp/)
 * [**Webfont Bundler**Create @font-face kits easily](WebfontKitGenerator/)
 * [**Wike**Search and read Wikipedia articles](Wike/)
-* [**Wordbook**Look up definitions for English terms](Wordbook/)
+* [**Wordbook**Look up definitions for words](Wordbook/)
 * [**Workbench**Prototype with GNOME technologies](Workbench/)
 
 Development Tools
