@@ -2614,20 +2614,6 @@ Sie können die Rechnung zu Ihrem Ticket bis zu 14 Monate nach Buchungsdatum auf
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-und-wo-bekomme-ich-auf-bahn-de-eine-rechnung-zu-meinem-ticket)
 
- Wie erhalte ich bei Handy-Tickets meine Entschädigung aus den Fahrgastrechten?
-----------
-
-Um Fahrgastrechts-Ansprüche geltend machen zu können, müssen Sie zusätzlich zum ausgefüllten Fahrgastrechte-Formular Ihre Fahrkarte beilegen. Im Falle eines Handy-Tickets geben Sie bitte den Papierausdruck des PDFs Ihrer Fahrkarte (DIN A4-Format) mit ab.
-
-Das PDF hängt Ihrer Buchungsbestätigungs-E-Mail an.
-Alternativ können Sie über die Auftragssuche oder über Ihr Kundenkonto das Ticket bis zu 12 Monate im Nachhinein noch abrufen.
-
-* [Zur Auftragssuche](https://www.bahn.de/buchung/meine-reisen)
-* [Mehr Infos über das Kundenkonto](https://www.bahn.de/info/kundenkonto)
-* [Zum Fahrgastrechte-Formula](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-bei-handy-tickets-meine-entschaedigung-aus-den-fahrgastrechten)
-
  Wie kann ich ein Hundeticket für die Bahn buchen?
 ----------
 
@@ -3513,20 +3499,6 @@ Pausierungen für den ÖPNV sind aufgrund von tariflichen Bestimmungen leider ni
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/baustelle-beanstandung)
 
- Wie beantrage ich bei einer Verspätung meine Entschädigung im DB Navigator und auf bahn.de?
-----------
-
-Wenn Sie in Ihrem Kundenkonto eingeloggt sind, können Sie nach dem ersten Reisetag
-
-* **auf bahn.de** im Bereich "Meine Reisen" unter "Vergangene Reisen" die betreffende Fahrt auswählen und in der Detailansicht Ihrer gebuchten Reise eine Entschädigung beantragen.
-* in der Detailansicht Ihrer gebuchten Reise **im DB Navigator** die betreffende Fahrt auswählen und im Aktionsfeld "Weitere Aktionen" eine Entschädigung beantragen.
-
-Es erscheint ein Formular, in das Sie alle relevanten Informationen schnell und bequem eingeben können. Sie müssen keine Zugnummern heraussuchen oder Fahrkarten einreichen.
-
-Sollten Sie eine BahnCard 100 nutzen, haben Sie in Ihrem Profil ebenfalls die Möglichkeit, direkt eine Entschädigung zu beantragen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-bei-einer-verspaetung-mein-geld-zurueckerhalten)
-
  Welche Entschädigung erhalte ich, wenn mein Zug verspätet am Zielbahnhof ankommt?
 ----------
 
@@ -3846,7 +3818,7 @@ Servicecenter Fahrgastrechte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-konnte-meine-reservierung-nicht-nutzen-kann-ich-diese-auch-im-rahmen-der-fahrgastrechte-einreichen)
 
- Warum finde ich keinen Button "Entschädigung beantragen" im Kundenkonto?
+ Warum wird der Button “Entschädigung beantragen” nicht angezeigt?
 ----------
 
 Wenn der Button "Entschädigung beantragen" bei einer Buchung nicht angezeigt wird, kann das folgende Gründe haben:

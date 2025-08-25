@@ -21,7 +21,8 @@ So können Sie Ihren Entschädigungsanspruch geltend machen...
 
 * [Springe zu: digital über das Kundenkonto auf bahn.de oder im DB Navigator](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digi)
 * [Springe zu: digital über die Auftragssuche auf bahn.de](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digineu)
-* [Springe zu: mit dem Fahrgastrechteformular per Post](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print)
+* [Springe zu: mit dem Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print)
+* [mit dem EU-Antragsformular](https://www.bahn.de/faq/eu-formular)
 
 Entschädigung über das Kundenkonto auf bahn.de oder im DB Navigator beantragen
 ----------
