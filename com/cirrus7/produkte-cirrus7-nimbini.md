@@ -78,7 +78,7 @@ cirrus nimbini v4 - Pro Edition
   * **ASUS NUC 15 Pro | Core™ 7 240H**
     6P+8E/20T | max. 5.00GHz | Intel Graphics
   * **ASUS NUC 15 Pro | Core™ Ultra 7 255H**
-    6P+8E+2LP/16T | max. 5.10GHz | Intel Arc 130T
+    6P+8E+2LP/16T | max. 5.10GHz | Intel Arc 140T
   * **ASUS NUC 15 Pro | Core™ Ultra 7 265H**
     6P+8E+2LP/16T | max 5.10GHz | Intel Arc 140T | vPro
 
