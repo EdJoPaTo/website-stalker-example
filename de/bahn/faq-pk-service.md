@@ -569,17 +569,6 @@ Bei einer **Online-Buchung**:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-sparpreis-gruppe)
 
- Bekomme ich Rabatt auf den Sparpreis Gruppe mit der BahnCard oder BahnBonus Card?
-----------
-
-Nein, Sie bekommen keinen BahnCard-Rabatt kann bei einer Buchung der Gruppenangebote.
-
-[Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
-
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-sparpreis-gruppe)
-
  Wo kann ich den Super Sparpreis Europa Gruppe buchen?
 ----------
 
@@ -5268,27 +5257,6 @@ Mit der Teilnahme am BahnBonus Programm, profitieren Sie als BahnCard Besitzer:i
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden-vorteile-mit-bahncard)
 
- Wie bzw. wo kann ich meine Gutscheine für eine Bahnprämie einlösen?
-----------
-
-Die Prämiengutscheine "Zutritt zur DB Lounge" und "Genussgutschein" für Bordgastronomie im Zug können Sie direkt vor Ort einlösen. Online-Tickets und Handy-Tickets (sofortige Buchung) müssen Sie sofort einlösen.
-
-Folgende Prämiengutscheine müssen Sie im DB Reisezentrum gegen einen Fahrschein eintauschen:
-
-* Freifahrt international (1. oder 2. Klasse, einfache Fahrt oder Hin- und Rückfahrt)
-* 2 x Fahrradkarte - DB Gepäckservice Inland (Haus-zu-Haus Service)
-
-Folgende Prämiengutscheine können Sie direkt im Zug verwenden:
-
-* Länder-Ticket
-* DB Tageskarte (1. oder 2. Klasse)
-* DB Tageskarte Samstag (1. oder 2. Klasse)
-* Freifahrt (1. oder 2. Klasse, einfache Fahrt oder Hin- und Rückfahrt)
-* Freifahrt Flex (1. oder 2. Klasse, einfache Fahrt oder Hin- und Rückfahrt)
-* Upgrade in die 1. Klasse
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bzw-wo-kann-ich-meine-gutscheine-fuer-eine-bahnpraemie-einloesen)
-
  Wie kann ich meine gesammelten BahnBonus Punkte einlösen?
 ----------
 
@@ -5304,6 +5272,13 @@ Ihre Statuspunkte sind nicht einlösbar, da diese nur zum Erreichen des [BahnBon
 Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
+
+ Kann ich Statuspunkte auch gegen Prämien einlösen?
+----------
+
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der drei Statuslevel zu erreichen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
 
  Wie kann ich ein BahnBonus Statuslevel erreichen?
 ----------
@@ -5356,15 +5331,6 @@ Fällt Ihr Statuspunktestand unter die Punkteschwelle Ihres aktuellen Statusleve
 Steigt Ihr Statuspunktestand, bis zur Punkteschwelle des höheren Statuslevels, steigen Sie direkt in das höhere Level auf, erhalten direkt dessen Statusvorteile. Die nicht genutzten Vorteile aus Ihrem vorherigen Statuslevel verfallen und die Statuslaufzeit von zwölf Monaten beginnt von Neuem.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-statuspunktestand-waehrend-der-statuslaufzeit-unter-die-punkteschwelle-meines-levels-faellt)
-
- Was passiert, wenn ich während meiner Statuslaufzeit die Punkteschwelle für das nächsthöhere Statuslevel erreiche?
-----------
-
-Ihr Statuslevel aktualisiert sich automatisch. Ihnen stehen die Vorteile des höheren Statuslevels mit Erreichen der Punkteschwelle zur Verfügung. Die Laufzeit für das neue Level beträgt ab diesem Zeitpunkt erneut zwölf Monate.
-
-Die nicht genutzten Vorteile verfallen beim Aufstieg in ein höheres Level und werden nicht aufaddiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-ich-waehrend-meiner-statuslaufzeit-die-punkteschwelle-fuer-das-naechsthoehere-statuslevel-erreiche)
 
  Behalte ich mein Statuslevel, wenn ich mich von BahnBonus abmelde?
 ----------
@@ -5486,7 +5452,7 @@ Beachten Sie bitte, dass für Statuskunden die BahnBonus App erforderlich ist.
  Muss ich als Geschäftsreisender privat genutzte Prämien in der Lohnsteuerbescheinigung angeben?
 ----------
 
-Nein. Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
+Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
 
 Das bedeutet für Sie:
 Werden im Rahmen von BahnBonus auf geschäftlichen Reisen BahnBonus Punkte gesammelt und diese für privat genutzte Prämien eingelöst, wird der geldwerte, steuerpflichtige Vorteil übernommen.
@@ -5658,15 +5624,6 @@ Nein, eine Übertragung der Punkte auf ein BahnBonus Konto anderer Teilnehmer:in
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahnbonus-punkte-auf-punktekonten-anderer-teilnehmender-uebertragen)
 
- Verfallen BahnBonus Prämien- und Statuspunkte, die ich schon erworben habe, bei einem BahnCard Upgrade?
-----------
-
-Gesammelte Punkte bleiben bei einem BahnCard Upgrade erhalten.
-
-Tragen Sie hierfür auf dem BahnCard Bestellschein im DB Reisezentrum die Nummer Ihrer bisherigen Karte ein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfallen-bahnbonus-praemien-und-statuspunkte-die-ich-schon-erworben-habe-bei-einem-bahncard-upgrade)
-
  Kann ich auch ohne BahnCard BahnBonus Punkte sammeln?
 ----------
 
@@ -5757,7 +5714,7 @@ Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie können alle im St
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-oft-kann-ich-den-rabatt-fuer-die-bordgastronomie-nutzen)
 
- fuer-welche-getraenke-in-der-bordgastronomie-ist-der-code-freigetraenk-nutzbar
+ Für welche Getränke in der Bordgastronomie ist der Code „Freigetränk“ nutzbar?
 ----------
 
 Sie können den Statusvorteil „Freigetränk in der Bordgastronomie“ für jegliches Getränk, inklusive alkoholischer, einlösen.
@@ -5823,7 +5780,7 @@ Ja, denn nur die BahnBonus App dient zur Inanspruchnahme aller Statusvorteile im
  Bis wann sind Prämiengutscheine gültig?
 ----------
 
-Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur sammelt, um eines der drei Statuslevel zu erreichen.
+Die Geltungsdauer der Prämien finden Sie in den jeweiligen Prämienbeschreibungen. Ist ein Gutschein verfallen, ist die Einlösung nicht mehr möglich und eine Wiedergutschrift der eingelösten Punkte ist ausgeschlossen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
 
@@ -5850,6 +5807,16 @@ Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https:/
 ----------
 
 Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
+
+Die Zustellung per Post als Brief oder Paket erfolgt innerhalb von 10 Tagen
+
+\- für den Versand entstehen keine Kosten.
+
+Die Zustellung per E-Mail erfolgt am Tag der Bestellung - spätestens innerhalb 4 Tagen.
+
+Sofortbuchungen können Sie direkt als Online-Ticket oder Handy-Ticket herunterladen.
+
+Der Bordgastro Gutschein erscheint direkt als Barcode in der App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
 
@@ -5921,12 +5888,12 @@ Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
 
- Kann ich Statuspunkte auch gegen Prämien einlösen?
+ Muss ich bei der Einlösung von Gutscheinen für eine Bahnprämie etwas beachten?
 ----------
 
-Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der drei Statuslevel zu erreichen. Sie können dann Ihre exklusiven Statusvorteile einlösen.
+In den jeweiligen Prämienbeschreibungen finden Sie alle notwendigen Informationen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-bei-der-einloesung-von-gutscheinen-fuer-eine-bahnpraemie-etwas-beachten)
 
  Wie kann ich die Sprache im DB Navigator ändern?
 ----------
@@ -7369,7 +7336,7 @@ Basis für die Berechnung des geldwerten, steuerpflichtigen Vorteils ist das Dat
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-gilt-pauschalversteuerung)
 
- Warum führt die DB Fernverkehr AG die Pauschalversteuerung ein?
+ Warum führte die DB Fernverkehr AG die Pauschalversteuerung ein?
 ----------
 
 Durch die pauschale Versteuerung entfällt seit dem 1. Juli 2023 der administrative Aufwand sowohl für Arbeitnehmer:in als auch Arbeitgeber:in.

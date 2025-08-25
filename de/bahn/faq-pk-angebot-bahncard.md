@@ -42,7 +42,7 @@ Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewä
  Bekomme ich Rabatt auf den Sparpreis Gruppe mit der BahnCard oder BahnBonus Card?
 ----------
 
-Nein, Sie bekommen keinen BahnCard-Rabatt kann bei einer Buchung der Gruppenangebote.
+Nein, Sie bekommen keinen BahnCard-Rabatt bei einer Buchung der Gruppenangebote.
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
