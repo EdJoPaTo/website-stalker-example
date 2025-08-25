@@ -21,7 +21,7 @@ FAQs
 
 * Can I purchase in volume for my business?
 
-  Currently, we only allow one laptop per pre-order, but there is no limit on the number of pre-orders per account. Once a configuration is in stock, you can add up to five laptops per order. If you need more or have special requests, please contact us through our support form, and we’ll reach out to you.
+  Currently, we only allow one laptop per pre-order, but there is no limit on the number of pre-orders per account. Once a configuration is in stock, you can add up to five laptops per order. If you need more or have special requests, please contact us through our [support form](https://frame.work/admin/product_configuration_faqs/1/%%7Bframework_for_business_url%7D#contact-us) and we’ll reach out to you.
 
 * What is the difference between the Framework Laptop 13 (Intel® Core™ Ultra Series 1) and the Framework Laptop 13 AMD Ryzen™ AI 300 Series)?
 
