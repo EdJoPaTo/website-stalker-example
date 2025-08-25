@@ -153,7 +153,7 @@ FAQs
 
 * Can I install Linux?
 
-  Yes! We have official support for Ubuntu LTS and Fedora, along with installation guides and community support for additional distros like Manjaro and Mint.
+  Yes! We have official support for Ubuntu LTS and Fedora, along with installation guides and community support for additional distros.
 
 Close
 
