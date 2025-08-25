@@ -190,7 +190,7 @@ CPU Fan
 * Cooler Master - Mobius 120 +€20
 * Cooler Master - Mobius 120p ARGB +€33
 * Noctua - NF-A12x25 HS-PWM +€33
-* CPU Fan Mounting Kit - 120mm
+* CPU Fan Mounting Kit - 120mm  (bring your own fan)
 
 **Power Cable**
 
