@@ -346,7 +346,7 @@ Close
 
 (Out of stock)  +€20
 
- Ethernet Expansion Card
+ Ethernet
 
  Details
 
@@ -376,7 +376,7 @@ Close
 
 (Out of stock)  +€20
 
- MicroSD (2nd Gen) Expansion Card
+ MicroSD (2nd Gen)
 
  Details
 
