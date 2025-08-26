@@ -9,6 +9,10 @@ There are tradeoffs between different distributions, especially if you’re on t
 
 You can check out our **[Knowledgebase article](https://knowledgebase.frame.work/en_us/officially-supported-vs-compatible-linux-distributions-ByVPFgyTs)** for more information about our officially supported Linux distributions versus the compatible community supported distributions.
 
+### Framework Laptop 16 (AMD Ryzen™ AI 300 Series) compatibility ###
+
+##### Coming soon #####
+
 ### Framework Laptop 12 (13th Gen Intel® Core™) Compatibility ###
 
 ##### 📦 Kernel support #####

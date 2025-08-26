@@ -1,32 +1,22 @@
-```
-Something
-```
+### Configure once. Upgrade whenever ❤.  ###
 
-```
-big
-```
+Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series Processors.
 
-```
-just
-```
+### Configure once. Upgrade whenever ❤.  ###
 
-```
-got better
-```
+Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series Processors.
 
-August 26 8am PT 👀
+[Configure now Configure now](/de/en/products/laptop16-diy-amd-ai300/configuration/new) [Learn more Learn more](/de/en/laptop16)
 
-[Get notified](https://www.youtube.com/watch?v=OZRG7Og61mw)
-
-### Computers shouldn't be boring.  ###
+### Computers shouldn't be boring. ###
 
 Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
 
-### Computers shouldn't be boring.  ###
+### Computers shouldn't be boring. ###
 
 Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
 
-[Pre-order Pre-order](/de/en/products/laptop12-diy-intel-13gen/configuration/new) [Learn more Learn more](/de/en/laptop12)
+[Configure now Configure now](/de/en/products/laptop12-diy-intel-13gen/configuration/new) [Learn more Learn more](/de/en/laptop12)
 
 ### Framework Desktop is a big computer made mini.  ###
 
@@ -36,23 +26,17 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 
 Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
-[Pre-order Pre-order](/de/en/products/desktop-diy-amd-aimax300/configuration/new) [Learn more Learn more](/de/en/desktop)
+[Configure now Configure now](/de/en/products/desktop-diy-amd-aimax300/configuration/new) [Learn more Learn more](/de/en/desktop)
 
-#### Framework Laptop 13 ####
+### Framework Laptop 13 isn’t our computer. It’s yours. ###
 
 Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
 
-[Shop now](/products/laptop13-diy-amd-ai300/configuration/new)
+### Framework Laptop 13 isn’t our computer. It’s yours. ###
 
-[Learn more](/laptop13)
+Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
 
-#### Framework Laptop 16 ####
-
-AMD-powered with modular, upgradeable graphics and fully customizable input.
-
-[Shop now](/products/laptop16-diy-amd-7040/configuration/new)
-
-[Learn more](/laptop16)
+[Configure now Configure now](/de/en/products/laptop13-diy-amd-ai300/configuration/new) [Learn more Learn more](/de/en/laptop13)
 
 Upgrade, customize, and repair.
 ----------
