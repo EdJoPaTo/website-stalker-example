@@ -13,7 +13,7 @@ Virtuelle Server (VPS)
 vServer günstig mieten
 ----------
 
-vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder SSD-Speicherplatz aus. Mit der Möglichkeit der stundenbasierten Abrechnung, dem DDoS-Schutz, den vorkonfigurierten Images sind unsere vServer vielseitig zu dem besten Preis-Leistungs-Verhältnis einsetzbar.
+vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder SSD-Speicherplatz aus. Mit der Möglichkeit der stundenbasierten Abrechnung, dem [DDoS-Schutz](https://www.netcup.com/de/ueber-netcup/ddos-schutz), den vorkonfigurierten Images sind unsere vServer vielseitig zu dem besten Preis-Leistungs-Verhältnis einsetzbar.
 
 VPS 250 G11s
 
@@ -177,7 +177,7 @@ Basierend auf einer möglichst flexiblen Mindestvertragslaufzeit bieten unsere v
 Local Block Storage bei vServer
 ----------
 
-Bis zu insgesamt 8 TB Speicher erhalten Sie mit der Local Block Storage Technologie. Wähle frei von Laufzeiten die gewünschte Speicherkapazität und decke so einfach und schnell den Bedarf an neuen Ressourcen. Profitiere von der flexiblen und kostengünstigen Möglichkeit, Speicherkapazitäten jederzeit nach Bedarf zu erweitern.
+Bis zu insgesamt 8 TB Speicher erhalten Sie mit der Local Block Storage Technologie. Wähle frei von Laufzeiten die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage) und decke so einfach und schnell den Bedarf an neuen Ressourcen. Profitiere von der flexiblen und kostengünstigen Möglichkeit, Speicherkapazitäten jederzeit nach Bedarf zu erweitern.
 
 VPS-Server im Vergleich
 ----------
@@ -260,15 +260,17 @@ Im Gegensatz dazu sind vServer virtuelle Maschinen, die alle Ressourcen wie CPU,
 
 Die Wahl zwischen einem Root Server und einem vServer hängt von den spezifischen Anforderungen und Budgetüberlegungen ab.
 
+Leistungsstarke Root-Server mit dediziert zugewiesener vGPU-Leistung – perfekt für rechenintensive Aufgaben und .
+
 Dauer-Tiefpreis
 ----------
 
-Wir bieten dir den besten Preis für vergleichbare Leistungen in unseren VPS-Angeboten. Solltest du einen vergleichbaren vServer bei einem anderen Anbieter finden, der günstiger ist, wende dich bitte vor der Bestellung an unseren Support. Falls der Vergleich zutrifft, gewähren wir einen zusätzlichen Rabatt von unschlagbaren 10% auf unseren Dauer-Tiefpreis. Dieses Angebot ist nicht auf Angebote aus Deutschland beschränkt.
+Wir bieten dir den besten Preis für vergleichbare Leistungen in unseren VPS-Angeboten. Solltest du einen vergleichbaren vServer bei einem anderen Anbieter finden, der günstiger ist, wende dich bitte vor der Bestellung an unseren Support. Falls der Vergleich zutrifft, gewähren wir einen zusätzlichen Rabatt von unschlagbaren 10% auf unseren Dauer-Tiefpreis. Dieses Angebot ist nicht auf Angebote aus Deutschland beschränkt. Weitere gute Angebote findest du bei unseren [Deals](https://www.netcup.com/de/deals).
 
 netcup SCP App
 ----------
 
-Die netcup SCP App bietet dir die Möglichkeit, jederzeit und von überall auf deine Root Server, vServer und Storages zuzugreifen. Neben den Statistiken und Protokollen ermöglicht die App eine allgemeine Übersicht und Steuerung deiner Server. Lade dir die netcup SCP App jetzt kostenlos über den Google Play Store oder den App Store auf dein Smartphone herunter.
+Die netcup SCP App bietet dir die Möglichkeit, jederzeit und von überall auf deine Root Server, vServer und Storages zuzugreifen. Neben den Statistiken und Protokollen ermöglicht die App eine allgemeine Übersicht und Steuerung deiner [Server](https://www.netcup.com/de/server). Lade dir die netcup SCP App jetzt kostenlos über den Google Play Store oder den App Store auf dein Smartphone herunter.
 
 [](https://apps.apple.com/at/app/netcup-scp/id1469193372)[](https://play.google.com/store/apps/details?id=at.anexia.netcupscp)
 
@@ -285,7 +287,7 @@ Mit einem vServer hast du die Möglichkeit, verschiedene Aufgaben auszuführen, 
 
 ### Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server? ###
 
-Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei welchen du Zugriff auf deinen eigenen virtuellen Server erhältst. Der Hauptunterschied liegt in der zugrundeliegenden Architektur und Art der Bereitstellung: Ein VPS x86 basiert auf der x86-Architektur und ist ideal für eine breite Palette von Anwendungen geeignet. Ein VPS ARM verwendet die ARM-Architektur und ist besonders effizient für spezielle Workloads wie IoT-Anwendungen oder Edge Computing. Während die zugrundeliegende CPU-Leistung bei VPS mit anderen Maschinen geteilt wird, ist diese bei einem Root-Server garantiert, wodurch diese besonders für spezielle und ressourcenintensive Anwendungen geeignet sind. Für jedes dieser Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen.
+Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei welchen du Zugriff auf deinen eigenen virtuellen Server erhältst. Der Hauptunterschied liegt in der zugrundeliegenden Architektur und Art der Bereitstellung: Ein VPS x86 basiert auf der x86-Architektur und ist ideal für eine breite Palette von Anwendungen geeignet. Ein VPS ARM verwendet die [ARM-Architektur](https://www.netcup.com/de/server/arm-server) und ist besonders effizient für spezielle Workloads wie IoT-Anwendungen oder Edge Computing. Während die zugrundeliegende CPU-Leistung bei VPS mit anderen Maschinen geteilt wird, ist diese bei einem Root-Server garantiert, wodurch diese besonders für spezielle und ressourcenintensive Anwendungen geeignet sind. Für jedes dieser Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen.
 
 ### Wo ist der Standort meines VPS? ###
 
