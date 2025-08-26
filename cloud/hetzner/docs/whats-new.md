@@ -3,6 +3,12 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### New feedback tool: Help optimize our products and services ###
+
+We are dedicated to providing a smooth and intuitive user experience, and are continuously working to optimize our products and interface — keeping them clean, simple and, most importantly, user-friendly! To better understand your needs and possible pain points, we need your help:
+
+🚀 Your input matters! In Hetzner Console, you’ll now find a new “Feedback” menu item in the header, where you can quickly share your ideas, feature requests, and criticism. Help us improve Hetzner Console together — we look forward to your feedback!
+
 ### 🚀 More than cloud: Welcome to the Hetzner Console ###
 
 The Cloud Console is now the **Hetzner Console**, reflecting our goal to unify all Hetzner products under one roof. Now live at: [https://console.hetzner.com](https://console.hetzner.com/)

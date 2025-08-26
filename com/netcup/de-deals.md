@@ -7,7 +7,7 @@ Vom **26. August, 10 Uhr** (MEZ) bis zum **28. August, 10 Uhr** (MEZ), hast du n
 
 [Jetzt Deal sichern](https://www.netcup.com/de/deals#deals)
 
-* Alle (0) Flash Deals (0)
+* Alle (0) Flash Deals (1)
 
 Keine Deals in dieser Kategorie
 
