@@ -476,7 +476,7 @@ Die My BahnCard 25/50 ist ab dem 1. Geltungstag 12 Monate lang gültig.
  Läuft die My BahnCard in ein Abo über?
 ----------
 
-Ja, die My BahnCard 25/50 verlängert sich immer automatisch um ein Jahr, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird. Die Folgekarte ist entweder wieder eine My BahnCard, eine reguläre oder ermäßigte BahnCard der 1. bzw. 2. Klasse.
+Ja, die My BahnCard 25/50 verlängert sich immer automatisch um ein Jahr, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird. Die Folgekarte ist wieder eine My BahnCard, bei Erreichen des Alters von 27 Jahren vor Beginn des Verlängerungszeitraums ist die Folgekarte eine reguläre BahnCard der 1. bzw. 2. Klasse zum regulären Preis ohne Ermäßigung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laeuft-die-my-bahncard-in-ein-abo-ueber)
 
