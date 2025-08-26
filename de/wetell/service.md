@@ -53,7 +53,7 @@ Abrechnung
 
 Rufnummernmitnahme
 
-Balkonkraftwerk-Verlosung
+Tarif mit Handy
 
 Alles Wichtige für dich – einfach und transparent
 ----------
