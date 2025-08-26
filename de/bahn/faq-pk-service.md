@@ -6864,12 +6864,22 @@ Hier können Sie die zuvor von Ihnen aktivierte 2-Faktor-Authentifzierung wieder
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-2-faktor-deaktivieren-ausschalten)
 
- Was kann ich tun, wenn der SMS-Code zur 2-Faktor-Authentifizierung an eine alte Handynummer gesendet wird?
+ Was kann ich tun, wenn ich den Code zur 2-Faktor-Authentifizierung nicht generieren oder empfangen kann?
 ----------
 
-Bitte kontaktieren Sie unser Service-Team unter [030 2970](tel:+49302970). Die Kolleg:innen helfen Ihnen nach einem Datenabgleich gerne weiter.
+Falls Sie Ersatzcodes für die 2-Faktor-Authentifizierung generiert haben, können Sie beim Login stattdessen einen Ersatzcode verwenden. Jeder Ersatzcode ist nur einmal gültig und muss sicher aufbewahrt werden.
 
-Bei dringendem Buchungswunsch empfehlen wir eine Buchung ohne Anmeldung.
+Falls Sie keine Ersatzcodes generiert haben oder keinen Zugriff auf Ihre Ersatzcodes haben, müssen Sie sich mit einer neuen E-Mail-Adresse ein neues Kundenkonto anlegen.
+
+Haben Sie keinen Zugriff mehr auf Ihren 2. Faktor, können wir diesen leider nicht zurücksetzen.
+
+Ein Kundenkonto wird automatisch gelöscht, wenn über eine gewisse Zeit keine Aktivität erfolgt ist. Eine manuelle Löschung durch den Kundenservice ist nicht möglich.
+
+Wir empfehlen Ihnen das Kundenkonto, auf das Sie den Zugriff verloren haben, sperren zu lassen. Kontaktieren Sie dafür unseren Kundenservice über das Kontaktformular unten.
+
+Tipp: Wenn Sie dringend schnell buchen müssen, nutzen Sie am besten die "Buchung ohne Anmeldung".
+
+* [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/technische-anliegen-web)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keinen-zugriff-mehr-auf-handy-und-2-fa-aktiviert--neues-passwort-anfordern)
 
@@ -6895,6 +6905,51 @@ Wenn Sie das Verfahren *SMS-Tan* wählen, ist keine zusätzliche Authenticator-A
 In diesem Fall wählen Sie die 2-Faktor-Authentifizierung via Authentifizierungs-App. Hierzu benötigen Sie eine zusätzliche Authentifizierungs-App, über die Sie das Einmalpasswort zur Authentifizierung generieren können.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-faktor-authentifizierung-sms-vorwahl-nicht-akzeptiert)
+
+ Was sind Ersatzcodes für die 2-Faktor-Authentifizierung und wie verwende ich sie?
+----------
+
+Ersatzcodes sind Sicherheitscodes für den Notfall. Sie können einen Ersatzcode nutzen, wenn Sie keinen Zugriff auf Ihren zweiten Authentifizierungsfaktor haben, zum Beispiel weil Sie Ihr Mobilgerät verloren haben oder Ihre Mobilfunknummer geändert wurde.
+
+So verwenden Sie einen Ersatzcode:
+
+1. Melden Sie sich mit Benutzernamen und Passwort an.
+2. Wählen Sie bei der Zwei-Schritt-Verifizierung die Option "Kein Zugang zum zweiten Faktor?" aus.
+3. Für die Wiederherstellung des Zugriffs wählen Sie die Option "Ersatzcode".
+4. Geben Sie den Ersatzcode ein. Jeder Ersatzcode ist nur einmal gültig.
+
+Sie können Ersatzcodes nutzen, wenn Sie keine Codes per SMS oder App erhalten. Haben Sie keinen Ersatzcode, können Sie den Zugang zu Ihrem DB Kundenkonto nicht wiederherstellen
+
+Achten Sie darauf:
+
+* Bewahren Sie die Ersatzcodes sicher auf.
+* Die Codes sind nach dem Abmelden nicht mehr im Kundenkonto sichtbar.
+* Sie können jederzeit neue Ersatzcodes unter "Login & Sicherheit" generieren. Alte Ersatzcodes werden dann ungültig.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-fa-ersatzcodes)
+
+ Wie kann ich (neue) Ersatzcodes für die 2-Faktor-Authentifizierung generieren?
+----------
+
+So geht’s auf bahn.de:
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Öffnen Sie im Menüpunkt "Login & Sicherheit" den Account-Manager.
+3. Klicken Sie auf "2-Faktor-Authentifizierung" und dann auf "Ersatzcodes aktivieren".
+
+So geht’s im DB Navigator:
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Tippen Sie im Menübereich "Profil" unter "Login & Sicherheit" auf "Mehr".
+3. Wählen Sie "2-Faktor-Authentifizierung" aus und tippen Sie dann auf "Ersatzcodes aktivieren".
+
+Sichern Sie Ihre Ersatzcodes anschließend, indem Sie sie ausdrucken, herunterladen oder kopieren und an einem sicheren Ort aufbewahren.
+
+Aus Sicherheitsgründen sind die generierten Ersatzcodes nach dem Abmelden nicht mehr in Ihrem Kundenkonto verfügbar.
+
+Auch wenn Sie Ihre Ersatzcodes verloren haben, können Sie so neue generieren. Ihre alten Ersatzcodes werden dann ungültig.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-fa-ersatzcodes-generieren)
 
  Benötige ich für das Kundenkonto eine App?
 ----------
