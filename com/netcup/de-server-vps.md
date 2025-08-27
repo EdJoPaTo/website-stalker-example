@@ -258,9 +258,7 @@ Ein Root Server, auch Dedicated Server genannt, gehört ausschließlich einem ei
 
 Im Gegensatz dazu sind vServer virtuelle Maschinen, die alle Ressourcen wie CPU, RAM und Speicherplatz mit allen anderen Benutzern teilen. Die Kontrolle über die Serverkonfiguration ist daher begrenzter als bei einem Root Server. Aufgrund der Virtualisierung sind vServer in der Regel kostengünstiger und weniger leistungsfähig als Root Server.
 
-Die Wahl zwischen einem Root Server und einem vServer hängt von den spezifischen Anforderungen und Budgetüberlegungen ab.
-
-Leistungsstarke Root-Server mit dediziert zugewiesener vGPU-Leistung – perfekt für rechenintensive Aufgaben und .
+Die Wahl zwischen einem Root Server und einem vServer hängt von den spezifischen Anforderungen und Budgetüberlegungen ab. Für rechenintensive Projekte die ohne dedizierte Hardware auskommen, empfehlen wir [vGPU](https://www.netcup.com/de/server/vgpu).
 
 Dauer-Tiefpreis
 ----------

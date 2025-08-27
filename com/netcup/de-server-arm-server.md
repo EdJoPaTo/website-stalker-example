@@ -12,7 +12,7 @@ vServer (ARM64)
 **ARM-Server**
 ----------
 
-Mit **ARMv8** und **Aarch64-Unterstützung** bieten unsere ARM-Server eine breite Kompatibilität für verschiedene Softwareanforderungen (wie Webanwendungen, Datenbanken, Content-Management-Systeme uvm.). Wenn du auf der Suche nach einer kosteneffizienten und leistungsstarken Hosting-Lösung bist, sind unsere Server die ideale Wahl.
+Mit **ARMv8** und **Aarch64-Unterstützung** bieten unsere ARM-Server eine breite Kompatibilität für verschiedene Softwareanforderungen (wie Webanwendungen, Datenbanken, Content-Management-Systeme uvm.). Wenn du auf der Suche nach einer kosteneffizienten und leistungsstarken Hosting-Lösung bist, sind unsere [Server](https://www.netcup.com/de/server) die ideale Wahl.
 
 VPS 1000 ARM G11
 
@@ -136,7 +136,7 @@ Vorteile unserer ARM-Server
 
 ### **Energieeffizienz:** ###
 
-* ARM-Server, insbesondere diejenigen, die auf Ampere Altra Max CPUs basieren, sind bekannt für ihre beeindruckende Energieeffizienz. Dies führt zu niedrigeren Betriebskosten und einer positiven Umweltauswirkung.
+* ARM-Server, insbesondere diejenigen, die auf Ampere Altra Max CPUs basieren, sind bekannt für ihre beeindruckende Energieeffizienz. Dies führt zu niedrigeren Betriebskosten und einer [positiven Umweltauswirkung](https://www.netcup.com/de/ueber-netcup/oekostrom).
 
 ### **Skalierbarkeit:** ###
 
@@ -161,12 +161,12 @@ ARM64 vs. X86
 
 Die Hauptunterschiede zwischen ARM und x86 Servern liegen in der Architektur. Unsere ARM-Server sind aufgrund der **höheren Anzahl an Rechenkernen** ideal für Anwendungen, die von einem hohen Maß an Parallelisierung profitieren, während x86 Server ein breites Maß an Softwarekompatibilität bieten.
 
-ARM64-Prozessoren zeichnen sich ebenso durch beeindruckende Energieeffizienz aus, was sie besonders für Cloud-Infrastrukturen, Edge Computing und IoT-Anwendungen attraktiv macht.
+ARM64-Prozessoren zeichnen sich ebenso durch beeindruckende Energieeffizienz aus, was sie besonders für Cloud-Infrastrukturen, Edge Computing und IoT-Anwendungen attraktiv macht. Für GPU-beschleunigte Projekte empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
 
  Festplattenerweiterung für ARM-Server
 ----------
 
-Mit unserem Angebot an Local Block Storage hast du jederzeit die Möglichkeit die Speicherkapazitäten deiner ARM-Server um bis zu 8 TB zu erweitern. Du bist bei der Speichererweiterung an keine Laufzeiten gebunden und bestimmst selbst die Nutzungsdauer. Profitiere jetzt von mehr Flexibilität und den Top-Preisen bei Speicher-Upgrades bei netcup.
+Mit unserem Angebot an Local Block Storage hast du jederzeit die Möglichkeit die Speicherkapazitäten deiner ARM-Server um bis zu 8 TB zu erweitern. Du bist bei der [Speichererweiterung](https://www.netcup.com/de/server/local-block-storage) an keine Laufzeiten gebunden und bestimmst selbst die Nutzungsdauer. Profitiere jetzt von mehr Flexibilität und den Top-Preisen bei Speicher-Upgrades bei netcup.
 
 Welche konkreten Anwendungsfälle bieten sich für ARM-Server an?
 ----------
@@ -204,7 +204,7 @@ ARM-Server sind vielseitig einsetzbar und unterstützen gängige Software, darun
 
 ### Gibt es Einschränkungen bei der x86-Kompatibilität von ARM-Servern? ###
 
-ARM-Server können x86-basierte Anwendungen nicht ausführen. Es ist wichtig, die Kompatibilität im Voraus zu überprüfen. Beachte, dass die bereitgestellten CDs/DVDs nicht auf jedem Server funktionsfähig sind. Die jeweiligen Systemanforderungen müssen erfüllt sein. Beispielsweise lässt sich **Windows nicht auf Servern mit ARM64-Architektur betreiben**. Eine Übersicht der bereitgestellten CDs/DVDs findest du [hier](https://www.netcup.com/de/server/vserver-images).
+ARM-Server können x86-basierte Anwendungen nicht ausführen. Es ist wichtig, die Kompatibilität im Voraus zu überprüfen. Beachte, dass die bereitgestellten CDs/DVDs nicht auf jedem Server funktionsfähig sind. Die jeweiligen Systemanforderungen müssen erfüllt sein. Beispielsweise lässt sich **Windows nicht auf Servern mit ARM64-Architektur betreiben**. Eine Übersicht der bereitgestellten CDs/DVDs findest du [hier](https://www.netcup.com/de/server/vserver-images). Für x86-Workloads mit vollem **Rootzugriff** empfehlen wir unsere [Root-Server](https://www.netcup.com/de/server/root-server).
 
 ### Welche Vorteile bieten Ampere Altra Max CPUs? ###
 

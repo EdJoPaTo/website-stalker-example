@@ -872,7 +872,7 @@ Jetzt losfahren und das Land entdecken unter dbmobil.de!
  Was ist ein Sozialticket?
 ----------
 
-Bei einigen Verbünden erhalten Sie, wenn Sie gewisse Voraussetzungen erfüllen, das DeutschlandTicket zum vergünstigten Preis. Bitte informieren Sie sich bei Ihrem Verbund vor Ort.
+Bei einigen Verbünden erhalten Sie, wenn Sie gewisse Voraussetzungen erfüllen, das Deutschland-Ticket zum vergünstigten Preis. Bitte informieren Sie sich bei Ihrem Verbund vor Ort.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-sozialticket)
 
