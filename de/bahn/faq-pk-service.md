@@ -5163,7 +5163,7 @@ Nein, für eine Teilnahme am BahnBonus Programm ist eine Anmeldung erforderlich.
 
 Ihre BahnBonus Anmeldung kann nur mit einem Kundenkonto verknüpft sein.
 
-Wenn Sie Ihre geschäftlichen Reisen selbst buchen, kann ihre BahnBonus Anmeldung mit Ihrem privaten Kundenkonto verknüpft sein. Sie können in diesem Fall auch bei einer Buchung mit Ihrem geschäftlichen Kundenkonto BahnBonus Punkte durch händische Eingabe Ihrer BahnBonus Nummer sammeln.
+Wenn Sie Ihre geschäftlichen Reisen selbst buchen, kann Ihre BahnBonus Anmeldung mit Ihrem privaten Kundenkonto verknüpft sein. Sie können in diesem Fall auch bei einer Buchung mit Ihrem geschäftlichen Kundenkonto BahnBonus Punkte durch händische Eingabe Ihrer BahnBonus Nummer sammeln.
 
 Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buchen, müssen Sie vorher sicherstellen, dass Ihr BahnBonus Konto mit Ihrem Geschäftskundenkonto verknüpft ist. In diesem Falle können Sie bei Ihren privaten Reisen in jeder Buchung aktiv durch Angabe der BahnCard / BahnBonus Nummer Punkte sammeln.
 
