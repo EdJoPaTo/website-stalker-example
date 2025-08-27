@@ -8,57 +8,6 @@
 					{
 						"compatibility": [
 							{
-								"title": "All Raspberry Pi models",
-								"url": "/products/"
-							}
-						],
-						"images": [
-							{
-								"debianVersion": "12 (bookworm)",
-								"kernelVersion": "6.12",
-								"releaseDate": "2025-05-13",
-								"releaseNotes": "https://downloads.raspberrypi.com/raspios_armhf/release_notes.txt",
-								"sha256": "7b2ffd34ce69dbc956c5171ffb367e9d4a1921f2525671919f2689225dfdedc8",
-								"size": 1221570584,
-								"system": "32-bit",
-								"title": "Raspberry Pi OS with desktop",
-								"urlArchive": "https://downloads.raspberrypi.com/raspios_armhf/images/",
-								"urlHttp": "https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz.torrent"
-							},
-							{
-								"debianVersion": "12 (bookworm)",
-								"kernelVersion": "6.12",
-								"releaseDate": "2025-05-13",
-								"releaseNotes": "https://downloads.raspberrypi.com/raspios_full_armhf/release_notes.txt",
-								"sha256": "fd850d06269c0247af3004299ea2bb97c847779fcee2b9ea52c1955b45f0a8d8",
-								"size": 2901406100,
-								"system": "32-bit",
-								"title": "Raspberry Pi OS with desktop and recommended software",
-								"urlArchive": "https://downloads.raspberrypi.com/raspios_full_armhf/images/",
-								"urlHttp": "https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz.torrent"
-							},
-							{
-								"debianVersion": "12 (bookworm)",
-								"kernelVersion": "6.12",
-								"releaseDate": "2025-05-13",
-								"releaseNotes": "https://downloads.raspberrypi.com/raspios_lite_armhf/release_notes.txt",
-								"sha256": "a73d68b618c3ca40190c1aa04005a4dafcf32bc861c36c0d1fc6ddc48a370b6e",
-								"size": 517084228,
-								"system": "32-bit",
-								"title": "Raspberry Pi OS Lite",
-								"urlArchive": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/",
-								"urlHttp": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz.torrent"
-							}
-						],
-						"slug": "raspberry-pi-os-32-bit",
-						"title": "Raspberry Pi OS"
-					},
-					{
-						"compatibility": [
-							{
 								"title": "3B",
 								"url": "/products/raspberry-pi-3-model-b/"
 							},
@@ -154,6 +103,144 @@
 						],
 						"slug": "raspberry-pi-os-64-bit",
 						"title": "Raspberry Pi OS (64-bit)"
+					},
+					{
+						"compatibility": [
+							{
+								"title": "All Raspberry Pi models",
+								"url": "/products/"
+							}
+						],
+						"images": [
+							{
+								"debianVersion": "12 (bookworm)",
+								"kernelVersion": "6.12",
+								"releaseDate": "2025-05-13",
+								"releaseNotes": "https://downloads.raspberrypi.com/raspios_armhf/release_notes.txt",
+								"sha256": "7b2ffd34ce69dbc956c5171ffb367e9d4a1921f2525671919f2689225dfdedc8",
+								"size": 1221570584,
+								"system": "32-bit",
+								"title": "Raspberry Pi OS with desktop",
+								"urlArchive": "https://downloads.raspberrypi.com/raspios_armhf/images/",
+								"urlHttp": "https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz",
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf.img.xz.torrent"
+							},
+							{
+								"debianVersion": "12 (bookworm)",
+								"kernelVersion": "6.12",
+								"releaseDate": "2025-05-13",
+								"releaseNotes": "https://downloads.raspberrypi.com/raspios_full_armhf/release_notes.txt",
+								"sha256": "fd850d06269c0247af3004299ea2bb97c847779fcee2b9ea52c1955b45f0a8d8",
+								"size": 2901406100,
+								"system": "32-bit",
+								"title": "Raspberry Pi OS with desktop and recommended software",
+								"urlArchive": "https://downloads.raspberrypi.com/raspios_full_armhf/images/",
+								"urlHttp": "https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz",
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-full.img.xz.torrent"
+							},
+							{
+								"debianVersion": "12 (bookworm)",
+								"kernelVersion": "6.12",
+								"releaseDate": "2025-05-13",
+								"releaseNotes": "https://downloads.raspberrypi.com/raspios_lite_armhf/release_notes.txt",
+								"sha256": "a73d68b618c3ca40190c1aa04005a4dafcf32bc861c36c0d1fc6ddc48a370b6e",
+								"size": 517084228,
+								"system": "32-bit",
+								"title": "Raspberry Pi OS Lite",
+								"urlArchive": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/",
+								"urlHttp": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz",
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-05-13/2025-05-13-raspios-bookworm-armhf-lite.img.xz.torrent"
+							}
+						],
+						"slug": "raspberry-pi-os-32-bit",
+						"title": "Raspberry Pi OS (32-bit)"
+					},
+					{
+						"compatibility": [
+							{
+								"title": "3B",
+								"url": "/products/raspberry-pi-3-model-b/"
+							},
+							{
+								"title": "3B+",
+								"url": "/products/raspberry-pi-3-model-b-plus/"
+							},
+							{
+								"title": "3A+",
+								"url": "/products/raspberry-pi-3-model-a-plus/"
+							},
+							{
+								"title": "4B",
+								"url": "/products/raspberry-pi-4-model-b/"
+							},
+							{
+								"title": "400",
+								"url": "/products/raspberry-pi-400/"
+							},
+							{
+								"title": "CM3",
+								"url": "/products/compute-module-io-board-v3/"
+							},
+							{
+								"title": "CM3+",
+								"url": "/products/compute-module-3-plus/"
+							},
+							{
+								"title": "CM4",
+								"url": "/products/compute-module-4/"
+							},
+							{
+								"title": "CM4S",
+								"url": "/products/compute-module-4s/"
+							},
+							{
+								"title": "Zero 2 W",
+								"url": "/products/raspberry-pi-zero-2-w/"
+							}
+						],
+						"images": [
+							{
+								"debianVersion": "11 (bullseye)",
+								"kernelVersion": "6.1",
+								"releaseDate": "2025-05-06",
+								"releaseNotes": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/release_notes.txt",
+								"sha256": "f42ba789376c3876c86c9bfed6c9a4f2d13951307ccfe0385e2da789b8110de4",
+								"size": 892209344,
+								"system": "64-bit",
+								"title": "Raspberry Pi OS (Legacy) with desktop",
+								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/",
+								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64.img.xz",
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64.img.xz.torrent"
+							},
+							{
+								"debianVersion": "11 (bullseye)",
+								"kernelVersion": "6.1",
+								"releaseDate": "2025-05-06",
+								"releaseNotes": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/release_notes.txt",
+								"sha256": "ee55d27ccf8f1ac1a2790ff8b47b0798c620dcd0cd0787c57160b01ca5fae7c7",
+								"size": 2573812616,
+								"system": "64-bit",
+								"title": "Raspberry Pi OS (Legacy) with desktop and recommended software",
+								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/",
+								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-full.img.xz",
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-full.img.xz.torrent"
+							},
+							{
+								"debianVersion": "11 (bullseye)",
+								"kernelVersion": "6.1",
+								"releaseDate": "2025-05-06",
+								"releaseNotes": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/release_notes.txt",
+								"sha256": "21ad1b2ed62a5d6dd2251b42768133345875ebaca28cb1d367394fac4e126f8e",
+								"size": 326236492,
+								"system": "64-bit",
+								"title": "Raspberry Pi OS (Legacy) Lite",
+								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/",
+								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-lite.img.xz",
+								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-lite.img.xz.torrent"
+							}
+						],
+						"slug": "raspberry-pi-os-legacy-64-bit",
+						"title": "Raspberry Pi OS (Legacy, 64-bit)"
 					},
 					{
 						"compatibility": [
@@ -264,94 +351,7 @@
 							}
 						],
 						"slug": "raspberry-pi-os-legacy",
-						"title": "Raspberry Pi OS (Legacy)"
-					},
-					{
-						"compatibility": [
-							{
-								"title": "3B",
-								"url": "/products/raspberry-pi-3-model-b/"
-							},
-							{
-								"title": "3B+",
-								"url": "/products/raspberry-pi-3-model-b-plus/"
-							},
-							{
-								"title": "3A+",
-								"url": "/products/raspberry-pi-3-model-a-plus/"
-							},
-							{
-								"title": "4B",
-								"url": "/products/raspberry-pi-4-model-b/"
-							},
-							{
-								"title": "400",
-								"url": "/products/raspberry-pi-400/"
-							},
-							{
-								"title": "CM3",
-								"url": "/products/compute-module-io-board-v3/"
-							},
-							{
-								"title": "CM3+",
-								"url": "/products/compute-module-3-plus/"
-							},
-							{
-								"title": "CM4",
-								"url": "/products/compute-module-4/"
-							},
-							{
-								"title": "CM4S",
-								"url": "/products/compute-module-4s/"
-							},
-							{
-								"title": "Zero 2 W",
-								"url": "/products/raspberry-pi-zero-2-w/"
-							}
-						],
-						"images": [
-							{
-								"debianVersion": "11 (bullseye)",
-								"kernelVersion": "6.1",
-								"releaseDate": "2025-05-06",
-								"releaseNotes": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/release_notes.txt",
-								"sha256": "f42ba789376c3876c86c9bfed6c9a4f2d13951307ccfe0385e2da789b8110de4",
-								"size": 892209344,
-								"system": "64-bit",
-								"title": "Raspberry Pi OS (Legacy) with desktop",
-								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/",
-								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64.img.xz.torrent"
-							},
-							{
-								"debianVersion": "11 (bullseye)",
-								"kernelVersion": "6.1",
-								"releaseDate": "2025-05-06",
-								"releaseNotes": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/release_notes.txt",
-								"sha256": "ee55d27ccf8f1ac1a2790ff8b47b0798c620dcd0cd0787c57160b01ca5fae7c7",
-								"size": 2573812616,
-								"system": "64-bit",
-								"title": "Raspberry Pi OS (Legacy) with desktop and recommended software",
-								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/",
-								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-full.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-full.img.xz.torrent"
-							},
-							{
-								"debianVersion": "11 (bullseye)",
-								"kernelVersion": "6.1",
-								"releaseDate": "2025-05-06",
-								"releaseNotes": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/release_notes.txt",
-								"sha256": "21ad1b2ed62a5d6dd2251b42768133345875ebaca28cb1d367394fac4e126f8e",
-								"size": 326236492,
-								"system": "64-bit",
-								"title": "Raspberry Pi OS (Legacy) Lite",
-								"urlArchive": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/",
-								"urlHttp": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-lite.img.xz",
-								"urlTorrent": "https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-05-07/2025-05-06-raspios-bullseye-arm64-lite.img.xz.torrent"
-							}
-						],
-						"slug": "raspberry-pi-os-legacy-64-bit",
-						"title": "Raspberry Pi OS (Legacy, 64-bit)"
+						"title": "Raspberry Pi OS (Legacy, 32-bit)"
 					},
 					{
 						"compatibility": [
