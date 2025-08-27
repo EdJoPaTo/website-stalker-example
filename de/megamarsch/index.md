@@ -221,6 +221,18 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 [ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
 
+* [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
+
+  [### Funktionstuch Event (bei Nacht) ### Preis16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
+
+  In den Warenkorb
+
+* [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
+
+  [### Funktionstuch Event (50KM) ### Preis16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
+
+  In den Warenkorb
+
 * [Schnellansicht](https://www.megamarsch.de/product-page/eventshirts-2025-bei-nacht)
 
   [### Eventshirts 2025 // Bei Nacht ### Preis39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025-bei-nacht)
@@ -259,7 +271,7 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event)
 
-  [### Funktionstuch Event ### Preis16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
+  [### Funktionstuch Event (100KM) ### Preis16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
 
   In den Warenkorb
 
