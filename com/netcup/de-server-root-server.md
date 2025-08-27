@@ -14,7 +14,7 @@ Root Server Angebote
 ----------
 
 Leistungsstarke Root Server mit CPU- und RAM-Ressourcen die deinen Anwendungen exklusiv zur Verfügung stehen.
-Wer sowohl die Vorteile dezidierter Server als auch virtualisierter Server schätzt, für den ist ein Root Server die beste Wahl.
+Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](https://www.netcup.com/de/server) schätzt, für den ist ein Root Server die beste Wahl.
 
 RS 1000 G11
 
@@ -134,9 +134,9 @@ bereits ab monatlich
 Root Server auf KVM-Basis
 ----------
 
-Mit unseren Root Servern bieten wir leistungsstarke vServer auf Basis von KVM mit garantierten **RAM** und **CPU-Ressourcen**. Dank **KVM** bieten unsere Root Server nahezu alle Funktionen eines **dedizierten Servers.**
+Mit unseren Root Servern bieten wir [leistungsstarke vServer](https://www.netcup.com/de/server/vps) auf Basis von KVM mit garantierten **RAM** und **CPU-Ressourcen**. Dank [KVM](https://www.netcup.com/de/server/kvm-server-erweiterungen) bieten unsere Root Server nahezu alle Funktionen eines **dedizierten Servers.**
 
-Weitere Features wie die Möglichkeit, **Snapshots** anzulegen oder den vServer aus der Ferne per **VNC-Console** zu warten, eröffnen dir ein breites Spektrum von Anwendungsfällen. Durch die generelle Verwendung von **Markenhardware, redundanten Uplinks** und einer redundanten **Stromversorgung** bieten unsere vServer eine optimale Verfügbarkeit für den professionellen Einsatz.
+Weitere Features wie die Möglichkeit, **Snapshots** anzulegen oder den vServer aus der Ferne per **VNC-Console** zu warten, eröffnen dir ein breites Spektrum von Anwendungsfällen. Durch die generelle Verwendung von [Markenhardware](https://www.netcup.com/de/ueber-netcup/netzwerk-infrastruktur)**, redundanten Uplinks** und einer [redundanten Stromversorgung](https://www.netcup.com/de/ueber-netcup/oekostrom) bieten unsere vServer eine optimale Verfügbarkeit für den professionellen Einsatz.
 
 Bestimme selbst, welches Betriebssystem und Managementsystem du auf deinem vServer nutzen möchtest. **Per SSH** und **Web-VNC-Console** kannst du alle Serverdienste individuell nach deinen Wünschen anpassen und selbst Software installieren. Starten, stoppen, rebooten sowie **Images einspielen** kannst du mit unserem Admin Panel SCP (Server Control Panel). Das SCP stellt dir auch umfangreiche **Traffic-Statistiken** zur Verfügung, die Möglichkeit, eine CD-ROM oder DVD einzulegen, sowie **Snapshots** von den Festplatten des vServers zu erstellen. Mit dem SCP wird das Management eines vServers besonders einfach.
 
@@ -186,18 +186,18 @@ Bei einem dedizierten Server steht dir die Leistung des Systems ohne Einschränk
 
 Ein virtualisiertes System wiederum bietet dir Funktionen, die bei dedizierten Servern oftmals nicht, oder nur über Umwege zur Verfügung stehen: So kannst du bequem Snapshots erstellen, etwa vor größeren Konfigurationsanpassungen. Die Steuerung erfolgt bequem über eine Weboberfläche (Server Control Panel), über die du Images installieren kannst, CDs oder DVDs einlegen kannst und welche auch eine Web-VNC-Konsole beinhaltet.
 
-Wer sowohl die Vorteile dedizierter Server als auch virtualisierter Server schätzt, für den ist ein Root Server die beste Wahl.
+Wer sowohl die Vorteile dedizierter Server als auch virtualisierter Server schätzt, für den ist ein Root Server die beste Wahl. Für ARM64-Workloads empfehlen wir unsere [ARM-Server](https://www.netcup.com/de/server/arm-server).
 
 Vorteile unserer Root Server-Angebote
 ----------
 
 Unsere Root Server vereinen die Vorteile virtueller und dedizierter Server. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9634 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM).
-Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie einfach bedienbar. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr.
+Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie einfach bedienbar. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere Jobs mit GPU-Unterstützung empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
 
  Speichererweiterung für Root Server
 ----------
 
-Erweitere mit Local Block Storage ganz einfach deinen benötigten Speicher mit physischen Festplatten. Gestalte deine Datensicherung individuell und ohne fixe Laufzeiten, um bis zu insgesamt 8 TB Speicher für deine Anwendungen. Sichere dir mehr Flexibilität mit Local Block Storage und profitiere von Top-Preisen bei netcup.
+Erweitere mit Local Block Storage ganz einfach deinen benötigten Speicher mit physischen Festplatten. [Gestalte deine Datensicherung](https://www.netcup.com/de/server/local-block-storage) individuell und ohne fixe Laufzeiten, um bis zu insgesamt 8 TB Speicher für deine Anwendungen. Sichere dir mehr Flexibilität mit Local Block Storage und profitiere von Top-Preisen bei netcup.
 
 Unsere Zufriedenheitsgarantie
 ----------

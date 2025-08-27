@@ -11,7 +11,7 @@ vGPU-Server
 **GPU-Leistung aus der Cloud für anspruchsvolle Workloads**
 ----------
 
-Leistungsstarke Root-Server mit **dediziert zugewiesener vGPU-Leistung** – perfekt für rechenintensive Aufgaben und eine echte Alternative zur physischen GPU-Hardware.
+Leistungsstarke [Root-Server](https://www.netcup.com/de/server/root-server) mit **dediziert zugewiesener vGPU-Leistung** – perfekt für rechenintensive Aufgaben und eine echte Alternative zur physischen GPU-Hardware.
 
 RS 2000 vGPU 7
 
@@ -86,9 +86,9 @@ Spar dir teure Anschaffungskosten und lange Einrichtungszeiten. Mit unseren vGPU
 
 **Behalte die Kontrolle über deine Daten**
 
-Als ISO-Zertifiziertes Unternehmen unterliegt netcup strengen Datenschutzrichtlinien. Die Daten werden in unseren zertifizierten Rechenzentren DSGVO-konform gehostet und unterliegen damit strengsten DSGVO-konformen Datenschutzrichtlinien und Sicherheitsmaßnahmen.
+Als [ISO-Zertifiziertes Unternehmen](https://www.netcup.com/de/ueber-netcup/zertifizierungen) unterliegt netcup strengen Datenschutzrichtlinien. Die Daten werden in unseren zertifizierten Rechenzentren DSGVO-konform gehostet und unterliegen damit strengsten DSGVO-konformen Datenschutzrichtlinien und Sicherheitsmaßnahmen.
 
-Durch den Einsatz moderner **High-End-Hardware** – darunter NVIDIA™ H200 GPUs und AMD EPYC™ 9535 Prozessoren – bieten unsere **vGPU-Server** ein ideales Fundament für grafikintensive und rechenaufwendige Anwendungen. Ob 3D-Rendering, Video-Encoding oder KI-Inferencing: Mit **garantierten vCPU- und VRAM-Ressourcen** erhältst du eine zuverlässige Performance – gehostet in unserem zertifizierten Rechenzentrum in Nürnberg und vollständig DSGVO-konform.
+Durch den Einsatz moderner **High-End-Hardware** – darunter NVIDIA™ H200 GPUs und AMD EPYC™ 9535 Prozessoren – bieten unsere **vGPU-Server** ein ideales Fundament für grafikintensive und rechenaufwendige Anwendungen. Ob 3D-Rendering, Video-Encoding oder KI-Inferencing: Mit **garantierten vCPU- und VRAM-Ressourcen** erhältst du eine zuverlässige Performance – gehostet in unserem [zertifizierten Rechenzentrum](https://www.netcup.com/de/ueber-netcup/rechenzentren) in Nürnberg und vollständig DSGVO-konform.
 
 Frequently Asked Questions
 ----------
@@ -99,7 +99,7 @@ vGPU Server sind leistungsstarke Root-Server mit fest zugewiesener, virtualisier
 
 ### An welchen Standorten sind die vGPU Produkte von netcup verfügbar? ###
 
-Die vGPU Server werden in unserem hochsicheren Rechenzentrum in Nürnberg (Deutschland) gehostet – vollständig DSGVO-konform und mit kurzen Latenzwegen innerhalb Europas.
+Die vGPU Server werden in unserem hochsicheren Rechenzentrum in Nürnberg (Deutschland) gehostet – vollständig DSGVO-konform und mit kurzen Latenzwegen [innerhalb Europas](https://www.netcup.com/de/ueber-netcup/digitale-souveraenitaet).
 
 ### Sind die netcup vGPU Produkte für KI-Training geeignet? ###
 
@@ -127,7 +127,7 @@ Die Abrechnung erfolgt monatlich, basierend auf einer Mindestvertragslaufzeit vo
 
 ### Welcher Hypervisor wird für die Instanzvirtualisierung verwendet? ###
 
-Wie bei allen unseren Root-Servern kommt auch bei den vGPU Instanzen der KVM-Hypervisor im Linux-Kernel zum Einsatz – für stabile und performante Virtualisierung.
+Wie bei allen unseren Root-Servern kommt auch bei den vGPU Instanzen der [KVM-Hypervisor](https://www.netcup.com/de/server/kvm-server-erweiterungen) im Linux-Kernel zum Einsatz – für stabile und performante Virtualisierung.
 
 ### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ###
 
