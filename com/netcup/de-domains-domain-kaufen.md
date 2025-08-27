@@ -21,7 +21,7 @@ pro Monat
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
+[Jetzt bestellen](https://www.netcup.com/en/domain/additional-domain-de)
 
 .at Domain
 
@@ -57,7 +57,7 @@ pro Monat ab
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/domains/domain-endungen)
+[Jetzt bestellen](https://www.netcup.com/de/domain/domain-endungen)
 
 Domain registrieren – Worauf soll ich achten?
 ----------
