@@ -88,6 +88,11 @@ Spar dir teure Anschaffungskosten und lange Einrichtungszeiten. Mit unseren vGPU
 
 Als [ISO-Zertifiziertes Unternehmen](https://www.netcup.com/de/ueber-netcup/zertifizierungen) unterliegt netcup strengen Datenschutzrichtlinien. Die Daten werden in unseren zertifizierten Rechenzentren DSGVO-konform gehostet und unterliegen damit strengsten DSGVO-konformen Datenschutzrichtlinien und Sicherheitsmaßnahmen.
 
+Local Block Storage bei vGPU
+----------
+
+Bis zu insgesamt 4 TB Speicher erhaltest du mit der Local Block Storage Technologie. Wähle frei von Laufzeiten die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage) und decke so einfach und schnell den Bedarf an neuen Ressourcen. Profitiere von der flexiblen und kostengünstigen Möglichkeit, Speicherkapazitäten jederzeit nach Bedarf zu erweitern.
+
 Durch den Einsatz moderner **High-End-Hardware** – darunter NVIDIA™ H200 GPUs und AMD EPYC™ 9535 Prozessoren – bieten unsere **vGPU-Server** ein ideales Fundament für grafikintensive und rechenaufwendige Anwendungen. Ob 3D-Rendering, Video-Encoding oder KI-Inferencing: Mit **garantierten vCPU- und VRAM-Ressourcen** erhältst du eine zuverlässige Performance – gehostet in unserem [zertifizierten Rechenzentrum](https://www.netcup.com/de/ueber-netcup/rechenzentren) in Nürnberg und vollständig DSGVO-konform.
 
 Frequently Asked Questions

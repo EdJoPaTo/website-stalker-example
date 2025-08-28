@@ -20,14 +20,14 @@ ab
 **Local Block Storage**
 ----------
 
-Local Block Storage bietet dir eine **einfache und kostengünstige Möglichkeit**, deiner bestehenden virtuellen Maschine **zusätzliche Festplatten** hinzuzufügen – ganz **ohne langfristige Bindung** oder Ausfallzeiten. Local Block Storage ist verfügbar für unsere Produkte [Root-Server ab G9](https://www.netcup.com/de/server/root-server), [VPS x86 G11](https://www.netcup.com/de/server/vps) und [VPS ARM64 G11](https://www.netcup.com/de/server/arm-server) (erweiterbar bis max. 8 TB), [vGPU](https://www.netcup.com/de/server/vgpu) (erweiterbar bis max. 4 TB) sowie ausgewählte Angebote der [VPS x86 G11s](https://www.netcup.com/de/server/vps) (erweiterbar bis max. 2 TB).
+Local Block Storage bietet dir eine **einfache und kostengünstige Möglichkeit**, deiner bestehenden virtuellen Maschine **zusätzliche Festplatten** hinzuzufügen – ganz **ohne langfristige Bindung** oder Ausfallzeiten. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab G9, [VPS x86 G11](https://www.netcup.com/de/server/vps) und [VPS ARM64 G11](https://www.netcup.com/de/server/arm-server) (erweiterbar bis max. 8 TB), [vGPU](https://www.netcup.com/de/server/vgpu) (erweiterbar bis max. 4 TB) sowie ausgewählte Angebote der VPS x86 G11s (erweiterbar bis max. 2 TB).
 
 Was ist Local Block Storage?
 ----------
 
 **Local Block Storage** ist eine einfache und schnelle Möglichkeit **Speichererweiterung bei Kapazitätsengpässen** durchzuführen. Es können hierfür einfach weitere Block Storages in **Form von Festplatten** in die virtuellen Maschinen eingehängt werden. Diese Form der Technologie eignet sich ideal für [virtuelle Server](https://www.netcup.com/de/server/vps) und [Root-Server](https://www.netcup.com/de/server/root-server), die von der höheren Geschwindigkeit dieser Speichermethode profitieren. Die **Daten werden in Blöcken gespeichert**, wobei jeder Block eine feste Größe hat. Wählen Sie ab 1 GB und bis zu insgesamt 8 TB Speicherbedarf, je nach Produkt.
 
-Viele Anwendungsfälle finden mit Hilfe der **Local Block Storage** Produkte von [netcup](https://www.netcup.com/de) die passende Lösung bei Speicher-Upgrades. Einfach den gewünschten Speicherplatz online kaufen und von den **Top-Preisen** profitieren.
+Viele Anwendungsfälle finden mit Hilfe der **Local Block Storage** Produkte von [netcup](https://www.netcup.com/de/server) die passende Lösung bei Speicher-Upgrades. Einfach den gewünschten Speicherplatz online kaufen und von den **Top-Preisen** profitieren.
 
 Hier geht es zu den [Local Block Storage FAQs](https://helpcenter.netcup.com/de/faq#local-block-storage).
 
@@ -66,7 +66,7 @@ Anwendungsfälle mit Local Block Storage
   Unerlässlich für jede Datensicherung sind Backups. Die Sicherung des Datenbestandes kann zu höheren Auslastungen des Speicherbedarfs führen, welche mittels Local Block Storage bei anderen virtuellen Maschinen einfach und effizient abgedeckt werden können.
 
 * **Skalierbare Datenbankinfrastruktur**
-  Local Block Storage ermöglicht eine einfache Skalierung der Speicherkapazität von Datenbanken, um mit stetig wachsenden Datenvolumen umzugehen, ohne die gesamte Datenbankarchitektur umgestalten zu müssen.
+  Local Block Storage ermöglicht eine einfache Skalierung der Speicherkapazität von Datenbanken, um mit stetig wachsenden Datenvolumen umzugehen, ohne die [gesamte Datenbankarchitektur](https://www.netcup.com/de/ueber-netcup/netzwerk-infrastruktur) umgestalten zu müssen.
 
 * **Operation Systeme**
   Wachsende Betriebssysteme benötigen einen höheren Speicheraufwand in deren Aufgaben, weshalb Local Block Storage als ideale Lösung zur Kapazitätserweiterung dient.
