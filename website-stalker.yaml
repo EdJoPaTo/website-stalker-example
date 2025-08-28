@@ -140,7 +140,7 @@ sites:
 
   - url:
       - https://www.netcup.com/de/deals
-      - https://www.netcup.com/de/domains/domain-kaufen
+      - https://www.netcup.com/de/domain/domain-kaufen
       - https://www.netcup.com/de/server/arm-server
       - https://www.netcup.com/de/server/guenstige-vserver-angebote
       - https://www.netcup.com/de/server/kvm-server-erweiterungen
@@ -555,7 +555,7 @@ sites:
       - regex_replace:
           pattern: \)\s*\[
           replace: ")\n["
-  - url: https://shelly-api-docs.shelly.cloud/gen1/#changelog
+  - url: https://shelly-api-docs.shelly.cloud/gen1/
     editors:
       - css_select: .content
       - css_remove: img
