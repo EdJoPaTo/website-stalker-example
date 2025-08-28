@@ -105,6 +105,10 @@ Die vGPU Server werden in unserem hochsicheren Rechenzentrum in Nürnberg (Deuts
 
 Unsere vGPU Server sind auf KI Inferencing ausgelegt – also auf den produktiven Einsatz von vortrainierten Modellen. Für großflächiges KI-Training sind sie nicht vorgesehen.
 
+### Brauche ich statt vGPU eher einen vServer (VPS)? ###
+
+Wenn du keine GPU benötigst und CPU/RAM ausreichen, sind [vServer (VPS)](https://www.netcup.com/de/server/vps) die kosteneffiziente Wahl – flexibel und mit stundenbasierter Abrechnung.
+
 ### Unterstützen die vGPU Produkte CUDA Technology? ###
 
 Ja, die eingesetzten NVIDIA™ H200 GPUs unterstützen die CUDA-Plattform und ermöglichen damit GPU-beschleunigte Rechenprozesse und parallele Datenverarbeitung.
@@ -117,6 +121,10 @@ Die Bestpreis- und Zufriedenheitsgarantie ist bei diesen Produkten nicht gültig
 
 Die vGPU-Server werden aktuell ausschließlich mit einem Ubuntu-Image bereitgestellt. Hintergrund ist, dass die benötigten NVIDIA-Treiber nicht frei verfügbar sind und offiziell vorrangig Ubuntu unterstützen. Aus diesem Grund werden derzeit keine alternativen Images angeboten, und der Betrieb der vGPU-Server ist nur mit dem mitgelieferten Ubuntu-Image möglich.
 
+### Wann sind ARM-Server eine Alternative zu vGPU? ###
+
+Ist dein Stack [ARM64](https://www.netcup.com/de/server/arm-server)-kompatibel und primär CPU-bound, bieten ARM-Server eine energieeffiziente Option ohne GPU-Overhead.
+
 ### Ich möchte die neuen Server für LLMs nutzen. Welche Sprachmodelle lassen sich mit den neuen Tarifen auf den Servern betreiben? ###
 
 Unsere vGPU Server sind optimal für kompaktere Sprachmodelle wie Llama3, Mistral, Gemma, Qwen2 oder Phi3 geeignet – ideal für performantes und ressourcenschonendes Inference.
@@ -128,6 +136,10 @@ Die Abrechnung erfolgt monatlich, basierend auf einer Mindestvertragslaufzeit vo
 ### Welcher Hypervisor wird für die Instanzvirtualisierung verwendet? ###
 
 Wie bei allen unseren Root-Servern kommt auch bei den vGPU Instanzen der [KVM-Hypervisor](https://www.netcup.com/de/server/kvm-server-erweiterungen) im Linux-Kernel zum Einsatz – für stabile und performante Virtualisierung.
+
+### Welche anderen Server-Optionen bietet netcup? ###
+
+Alle [Server-Varianten](https://www.netcup.com/de/server) im Überblick: vServer(VPS), Root-Server, ARM-Server und vGPU, inkl. Local Block Storage-Erweiterungen.
 
 ### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ###
 
