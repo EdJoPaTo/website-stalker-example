@@ -3,7 +3,7 @@ Lastenräder der SprottenFlotte
 
 Für einen Ausflug mit den Kindern, für den wöchentlichen Großeinkauf oder sogar für den Möbeltransport: Bei der SprottenFlotte stehen insgesamt zwölf Lastenräder sowie fünf E-Lastenräder zur Verfügung.
 
-Die derzeit verfügbaren Räder sind einspurige Lastenräder, d.h. sie haben wie ein „normales“ Fahrrad zwei Räder. Mit ihnen ist dynamisches und wendiges Fahren, auch mit Zuladung in der Transportbox, möglich. Gerade beim langsamen Fahren sowie beim Anfahren und beim Wenden kann das Lastenrad für Erstfahrer:innen ungewohnt sein. Wir empfehlen daher bei der Erstnutzung etwas mehr Zeit mitzubringen und das Anfahren und Anhalten sowie das Wenden zu üben.
+Die derzeit verfügbaren Räder sind einspurige Lastenräder, d.h. sie haben wie ein “normales” Fahrrad zwei Räder. Mit ihnen ist dynamisches und wendiges Fahren, auch mit Zuladung in der Transportbox, möglich. Gerade beim langsamen Fahren sowie beim Anfahren und beim Wenden kann das Lastenrad für Erstfahrer:innen ungewohnt sein. Wir empfehlen daher bei der Erstnutzung etwas mehr Zeit mitzubringen und das Anfahren und Anhalten sowie das Wenden zu üben.
 
 Die Tragfähigkeit der Lastenräder beträgt insgesamt 180 kg (Fahrer\*in + Ladung). Kinder bis zum Alter von 7 Jahren dürfen in den Transportboxen mitfahren, solange sie mit den Anschnallgurten gesichert sind.
 
