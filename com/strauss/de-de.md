@@ -265,6 +265,7 @@ zzgl. Versandkosten
   * [Karriere](https://www.strauss.com/de/de/Unternehmen/Karriere)
   * [Ausbildung](https://www.strauss.com/de/de/Unternehmen/Karriere/Ausbildung)
   * [Presse](https://presse.strauss.com/)
+  * [Test Lab](https://www.strauss.com/de/de/test-lab)
   * [Nachhaltigkeit](https://www.strauss.com/de/de/Nachhaltigkeit)
   * [Workwearstore](https://www.strauss.com/de/de/Unternehmen/workwearstore)
   * [Messen](https://www.strauss.com/de/de/Unternehmen/Messen)
