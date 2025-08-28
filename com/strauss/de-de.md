@@ -85,46 +85,21 @@ e.s.ambition, Damen
 
  4 Farben
 
-Frischer Wind für Gastro & Business
+Frischer Wind für unsere Careware
 
 ----------
 
 ---
 
- NEU
-==========
+###  passion
+for care  ###
 
 ---
 
-###  Essen: kochend.
-Outfit: kühlend.  ###
-
+ Sportlicher, bequemer – einfach cooler!
 ---
 
- Neue luftige Kochhemden und viele weitere Gastro-Styles
-
-[Gastro für Herren](https://www.strauss.com/de/de/gastronomiebekleidung-kochbekleidung/?%3Fitemorigin=startseite_HW25&sort=newest)
-
-[Gastro für Damen](https://www.strauss.com/de/de/gastro-damen/?%3Fitemorigin=startseite_HW25&sort=newest)
-
- NEU
-==========
-
----
-
-###  Look: smart.
-Gefühl: casual.  ###
-
----
-
- Luftige Pique-Styles und noch mehr bequeme Business-Outfits
-
-[Herren-Hemden](https://www.strauss.com/de/de/f/arbeitshemden/Farbe:Weisstoene/?itemorigin=startseite_HW25&sort=newest)
-
-[Damen-Blusen](https://www.strauss.com/de/de/f/damenblusen-hemden/Farbe:Weisstoene/?itemorigin=startseite_HW25&sort=newest)
-
-*
-*
+[e.s.avida entdecken](https://www.strauss.com/de/de/e-s-avida-damen/?itemorigin=startseite_HW25)
 
 Personalisierte Outfits für jeden Anlass
 
