@@ -1,14 +1,14 @@
-Starker
-Auftritt
+Echt!
+Stark!
 ----------
 
 ---
 
- für unsere Schuhneuheiten
+ This is e:pic
 
-[Schuhneuheiten entdecken](https://www.strauss.com/de/de/schuhneuheiten-sicherheitsschuhe?itemOrigin=startseite_HW25)
+[Kollektion entdecken](https://www.strauss.com/de/de/epic?itemOrigin=startseite_HW25)
 
-[S6 e.s. Harlem low](https://www.strauss.com/de/de/sicherheitsschuhe-s6/s6-sicherheitsschuhe-e-s-harlem-low-1400150-93218-1875.html?itemorigin=startseite_HW25&category=Sicherheitsschuhe_S6)
+[zu den Produkten](https://www.strauss.com/de/de/e-s-e-pic/?itemOrigin=startseite_HW25)
 
  Herbst
 ==========
@@ -20,70 +20,144 @@ Auftritt
 
 ---
 
- technisch,
-authentisch,
-episch
+ Bereit für
+den Herbst
 ----------
 
 ---
 
- Funktion: maximiert bis ins Detail.
-Style: rough & geradlinig.
+ Wetterfest
+ & sportlich
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/epic?itemOrigin=startseite_HW25)
+[Schuhneuheiten entdecken](https://www.strauss.com/de/de/schuhneuheiten-sicherheitsschuhe?itemOrigin=startseite_HW25)
 
-[jetzt kaufen](https://www.strauss.com/de/de/e-s-e-pic/?itemOrigin=startseite_HW25)
+Schuh ohne Zehenschutz
 
- die farbenfreude
-wird grösser
+ Herbst
+==========
+
+---
+
+ Winter
+==========
+
+---
+
+ O6 Berufsschuhe
+e.s. Brixen mid
+
+ Leicht &
+sportlich
 ----------
 
 ---
 
- Noch mehr Styles in
-anthrazit-warnorange
+ e.s.ambition:
+perfekt fürs ganze Jahr
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-anthrazit-warnorange?itemorigin=startseite_HW25)
+[Kollektion entdecken](https://www.strauss.com/de/de/ambition?itemOrigin=startseite_HW25)
+
+[zu den Produkten](https://www.strauss.com/de/de/e-s-ambition/?itemOrigin=startseite_HW25)
+
+ Herbst
+==========
+
+---
+
+ Winter
+==========
+
+---
 
 *
 *
 *
 
-Neue Kollektions-Highlights - nicht verpassen!
+Neue Herbst-Highlights für alle
 
 ----------
 
 ---
 
-###  e.s.
-ambition  ###
+[Herren](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=startseite_hw25)
+
+[Damen](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=startseite_hw25)
+
+[Kinder](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=startseite_hw25)
+
+e.s.motion 2020-News in den neuen Lieblingsfarben
+
+----------
 
 ---
 
- Jetzt noch vielseitiger:
-für Sie, Ihn & jede Jahreszeit
+###  schwarz-
+seegrün  ###
 
-[Kollektion entdecken](https://www.strauss.com/de/de/ambition?itemorigin=startseite_HW25)
+---
 
- Multipocket-Hose
-e.s.ambition, Damen
+ Für Damen & Herren
 
- 4 Farben
+[jetzt entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-schwarz-seegruen?itemorigin=startseite_HW25)
 
- Funktions T-Shirt
-e.s.ambition, Damen
+###  anthrazit-
+warnorange  ###
+
+---
+
+ für Herren
+
+[jetzt entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-anthrazit-warnorange?itemorigin=startseite_HW25)
+
+ An die Sägen, fertig: Action!
+----------
+
+---
+
+[Hosen](https://www.strauss.com/de/de#!forestry/slide1)
+
+[Jacken](https://www.strauss.com/de/de#!forestry/slide2)
+
+[Schuhe](https://www.strauss.com/de/de#!forestry/slide3)
+
+[Zubehör](https://www.strauss.com/de/de#!forestry/slide4)
+
+[Hosen](https://www.strauss.com/de/de#!forestry/slide1)
+
+[Jacken](https://www.strauss.com/de/de#!forestry/slide2)
+
+[Schuhe](https://www.strauss.com/de/de#!forestry/slide3)
+
+[Zubehör](https://www.strauss.com/de/de#!forestry/slide4)
+
+ An die Sägen, fertig: Action!
+----------
+
+---
+
+[Hosen](https://www.strauss.com/de/de#!forestry/slide1)
+
+[Jacken](https://www.strauss.com/de/de#!forestry/slide2)
+
+[Schuhe](https://www.strauss.com/de/de#!forestry/slide3)
+
+[Zubehör](https://www.strauss.com/de/de#!forestry/slide4)
+
+ e.s. Forst-Schnittschutz Bundhose, KWF
 
  3 Farben
 
- Softshelljacke
-e.s.ambition, Damen
+ Forst-Schnittschutz Bundhose e.s.cotton touch
 
- 4 Farben
+ 2 Farben
 
- Bundhose
- e.s.ambition
+ e.s. Forst-Schnittschutz Jeans
 
- 4 Farben
+ 1 Farbe
+
+[alle Forstartikel entdecken](https://www.strauss.com/de/de/forst/)
+
+[alle Forstartikel entdecken](https://www.strauss.com/de/de/forst/)
 
 Frischer Wind für unsere Careware
 
@@ -152,7 +226,7 @@ zu den Produkten
 
  Immer als Erstes informiert sein mit dem kostenlosen Strauss-Newsletter
 
-[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter)
+[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_1) [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_1)
 
  30 TAGE RÜCKGABERECHT
 

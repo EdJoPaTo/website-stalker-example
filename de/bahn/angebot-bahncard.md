@@ -39,11 +39,11 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 ### Probe BahnCard 50, 1. Klasse ###
 
-**Sofort sparen:** die Probe BahnCard lohnt sich oft schon **ab der 1. Fahrt**
+ Probe BahnCard 50 zum **Aktionspreis** sichern und **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs sparen (ausgenommen City-Ticket). **Buchbar vom 02.-30.09.2025**
 
 [Weitere Informationen Weitere Informationen: Probe BahnCard 50, 1. Klasse](https://www.bahn.de/angebot/bahncard/probebahncard50-1-klasse)
 
-152 Euro
+79,99 Euro statt 152 Euro
 
 [Jetzt bestellen Jetzt bestellen: Probe BahnCard 50, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O110)
 

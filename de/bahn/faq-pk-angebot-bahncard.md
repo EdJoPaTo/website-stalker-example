@@ -835,6 +835,44 @@ Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-probe-bahncard-25)
 
+ Wie lange gibt es die Probe BahnCard 25 und 50 Aktion?
+----------
+
+Die Aktion gilt vom 02.09.2025 bis zum 30.09.2025. In diesem Zeitraum kann die Probe BahnCard 25 und 50 zu einem Aktionspreis erworben werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-dauer)
+
+ Wer kann die Probe BahnCard 25 zum Aktionspreis erwerben?
+----------
+
+Alle Reisenden können die Probe BahnCard 25 zum Aktionspreis erwerben. Die Probe BahnCard 25 hat eine Gültigkeit von 3 Monaten. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My Bahncard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-wer)
+
+ Wieviel kostet die Probe BahnCard 25 zum Aktionspreis?
+----------
+
+Die Probe BahnCard 25 zum Aktionspreis kostet:
+
+* 9,99 Euro (2. Klasse)
+* 19,99 Euro (1. Klasse)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-kosten)
+
+ Wo bestelle ich meine Probe BahnCard 25 zum Aktionspreis?
+----------
+
+Die Probe BahnCard 25 zum Aktionspreis können Sie gleich hier online kaufen, in der App DB Navigator, oder in den DB-Reisezentren und DB-Agenturen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-bestellen)
+
+ Bekomme ich eine Plastikkarte zugeschickt oder ist das Produkt nur noch rein digital nutzbar?
+----------
+
+Der Kauf einer BahnCard ist nur mit einem Kundenkonto auf bahn.de möglich. Für das Anlegen eines Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Um die digitale BahnCard nutzen zu können, benötigen Kund:innen ebenfalls das Kundenkonto, mit welchem sie sich in der App DB Navigator einloggen können. In der App DB Navigator wird die digitale BahnCard direkt im Kundenkonto hinterlegt und kann im eingeloggten Zustand abgerufen werden. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](http://www.bahn.de/digitalebc)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-plastikkarte)
+
  Wofür kann ich die Probe BahnCard 50 benutzen?
 ----------
 
@@ -867,6 +905,11 @@ Die Probe BahnCard 50 kostet
 * 76,90 Euro für die 2. Klasse und
 * 152 Euro für die 1. Klasse.
 
+Die Probe BahnCard 50 zum Aktionspreis kostet:
+
+* 39,99 Euro (2. Klasse)
+* 79,99 Euro (1. Klasse)
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-die-probe-bahncard-50)
 
  Wie lange ist eine Probe BahnCard 50 gültig?
@@ -891,6 +934,13 @@ Die Probe BahnCard 50 können Sie gleich hier online kaufen.
 Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn und in der App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-probe-bahncard-50)
+
+ Wie lange ist die Probe BahnCard 50 zum Aktionspreis gültig?
+----------
+
+Die Probe BahnCard 50 hat eine Gültigkeit von 3 Monaten. Die Probe BahnCard 50 zum Aktionspreis gilt ab dem 1. Geltungstag 3 Monate lang. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-gueltig)
 
  Wofür kann ich die Probe BahnCard 100 nutzen?
 ----------
