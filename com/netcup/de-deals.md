@@ -11,7 +11,7 @@ Keine Deals in dieser Kategorie
 
 * ### Deal der Woche: Unschlagbare Specials warten auf dich ###
 
-  Sichere dir jede Woche ein exklusives Special – mit zusätzlichen Rabatten oder spannenden Extras. Das Angebot wechselt wöchentlich und hält für jeden etwas Passendes bereit.
+  Sichere dir jede Woche ein exklusives Special – mit zusätzlichen Rabatten oder spannenden Extras.
 
   Der Deal der Woche ist von Montag bis Freitag, 14:00 Uhr gültig – ausgenommen in den Wochen, in denen unsere monatlichen Aktionen stattfinden.
 
@@ -23,7 +23,7 @@ Keine Deals in dieser Kategorie
 
   Im Laufe des Monats veröffentlichen wir immer wieder zeitlich begrenzte Blitzangebote.
 
-  Abonniere unseren RSS-Feed, WhatsApp- oder Telegram-Kanal, damit du keine dieser Schnäppchen verpasst.
+  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)- oder [Telegram-Kanal](https://t.me/netcupoffical), damit du keine dieser Schnäppchen verpasst.
 
 Bleibe auf dem Laufenden
 ----------
