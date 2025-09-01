@@ -35,12 +35,12 @@ Entsperren Sie das Fahrrad mit ihrem Telefon und beginnen Sie ihre Fahrt in Seku
 
 Beende deine Fahrt, indem du das Fahrrad an einem Donkey Hub abschliesst, der in der App angezeigt wird.
 
-Erschließen Sie ultimative Flexibilität
+Unlock ultimate flexibility
 ----------
 
-Schau dir die Karte auf der linken Seite an, um alle virtuellen Knotenpunkte in deiner Stadt zu erkunden, wo du Donkey Bikes finden kannst. Willst du in mehr Städten stöbern? Sehen Sie sich die Liste unten an.
+Check out the map on the left to explore all of the virtual hubs in your city, where you can find Donkey bikes. Want to browse more cities? See the list below.
 
-[Alle Städte ansehen](/de/cities)
+[See all the cities](/de/cities)
 
 Werde in wenigen Minuten zum Fahrradexperten
 
