@@ -5483,7 +5483,7 @@ Seit September 2024 können Sie beim Kauf von Speisen und Getränken in unseren 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-bordgastro)
 
- Wie funktioniert der BahnBonus Sammelprozess?
+ Wie funktioniert der BahnBonus Sammelprozess im Bordrestaurant?
 ----------
 
 Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben. Navigieren Sie in der App zu Ihrer digitalen BahnBonus Karte. Tippen Sie auf den darunter liegenden Button „Scannen & Punkte sammeln“ und lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
@@ -5595,7 +5595,7 @@ Ja, sofern Sie zu BahnBonus angemeldet sind und eine Sammelnummer besitzen, kön
  Wie kann ich automatisch BahnBonus Punkte sammeln?
 ----------
 
-In Ihrem DB Kundenkonto können Sie im Bereich „BahnBonus“ das automatische Sammeln aktivieren. Bei Neuanmeldungen ist dies bereits voreingestellt. Beachten Sie bitte: Automatisches Sammeln gilt nur für Fahrkartenbuchungen auf bahn.de und im DB Navigator.
+In Ihrem DB Kundenkonto können Sie im Bereich „BahnBonus“ das automatische Sammeln aktivieren. Bei Neuanmeldungen ist dies bereits voreingestellt. Beachten Sie bitte: Automatisches Sammeln gilt nur für Fahrkartenbuchungen auf [bahn.de](http://bahn.de/) und im DB Navigator im eingeloggten Zustand.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-automatisch-bahnbonus-punkte-sammeln)
 
