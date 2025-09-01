@@ -1573,4 +1573,4 @@ This version was only released for the ProEM device.
 
 * First public version released
 
-[Previous Shelly WiFi Setup Cluster](/gen2/Integrations/Zigbee/WiFiSetupCluster)
+[Previous Zigbee Features by Device](/gen2/Integrations/Zigbee/DeviceFeatures)
