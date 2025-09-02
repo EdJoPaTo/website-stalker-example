@@ -544,51 +544,55 @@ We don’t preload any crapware on our hardware. You have the freedom to choose 
 
 **AI IN A BOX**
 
-Framework Desktop makes massive AI models accessible to own and run locally right on your desk. With up to 96GB of memory accessible by the Radeon™ 8060S GPU, even very large language models like Llama 3.3 70B can run real-time.
+Framework Desktop makes massive AI models accessible to own and run locally right on your desk. With up to 96GB of memory (and even more on Linux) accessible by the Radeon™ 8060S GPU, even very large language models like OpenAI’s gpt-oss-120b can run real-time.
 
-Ollama, llama.cpp, and other open source tools work out of the box on Windows and Linux, letting you run inference on Meta’s Llama, Nous’ Hermes, DeepSeek, and other popular open LLMs. You can go beyond text too, with image generation models like Flux.
+LM Studio, Ollama, llama.cpp, and other tools and open source libraries work out of the box on Windows and Linux, letting you run inference on OpenAI’s gpt-oss, Meta’s Llama, Qwen3, Mistral, and other popular open LLMs. You can go beyond text too, with image generation models like Flux.
 
-Guides coming soon.
+Check out our getting started guide on the basics of [running LLMs locally using LM Studio](https://frame.work/blog/using-a-framework-desktop-for-local-ai).
 
 \*-\*-\*-\*-\*-\*-\*-\*
 
 **KEY SPECS**
 
-|              **Configuration**               |                    **Max 385 - 32GB**                     |**Max 395+ - 64GB**|**Max 395+ - 128GB**|
-|----------------------------------------------|-----------------------------------------------------------|-------------------|--------------------|
-|                Integrated GPU                |                       Radeon™ 8050S                       |   Radeon™ 8060S   |   Radeon™ 8060S    |
-|Memory (total/maximum   <br/>dedicated VRAM)\*|                        32GB / 24GB                        |    64GB / 48GB    |    128GB / 96GB    |
-|                  Networking                  |     5Gbit Ethernet<br/><br/>2x USB4<br/><br/>Wi-Fi 7      |                   |                    |
-|               Case Dimensions                |                  96.8 x 205.5 x 226.1mm                   |                   |                    |
-|            Mainboard Form Factor             |Mini-ITX (fits 2x in a 2U rackmount case) with PCIe x4 slot|                   |                    |
-|               Operating System               |      Windows 11 or bring your preferred Linux distro      |                   |                    |
+|                             **Configuration**                              |                    **Max 385 - 32GB**                     |          **Max 395+ - 64GB**           |                                     **Max 395+ - 128GB**                                     |
+|----------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------|
+|                               Integrated GPU                               |                       Radeon™ 8050S                       |             Radeon™ 8060S              |                                        Radeon™ 8060S                                         |
+|               Memory (total/maximum   <br/>dedicated VRAM)\*               |                        32GB / 24GB                        |              64GB / 48GB               |                                         128GB / 96GB                                         |
+|Recommended models and token generation speed (using LM Studio on Fedora 42)|         OpenAI gpt-oss-20b  <br/>MXFP4: 58 tok/s          |OpenAI gpt-oss-20b  <br/>MXFP4: 58 tok/s|OpenAI gpt-oss-20b  <br/>MXFP4: 58 tok/sb  <br/><br/>OpenAI gpt-oss-120b  <br/>MXFP4: 38 tok/s|
+|                                 Networking                                 |     5Gbit Ethernet<br/><br/>2x USB4<br/><br/>Wi-Fi 7      |                                        |                                                                                              |
+|                              Case Dimensions                               |                  96.8 x 205.5 x 226.1mm                   |                                        |                                                                                              |
+|                           Mainboard Form Factor                            |Mini-ITX (fits 2x in a 2U rackmount case) with PCIe x4 slot|                                        |                                                                                              |
+|                              Operating System                              |      Windows 11 or bring your preferred Linux distro      |                                        |                                                                                              |
 
-|              **Configuration**               |                    **Max 385 - 32GB**                     |
-|----------------------------------------------|-----------------------------------------------------------|
-|                Integrated GPU                |                       Radeon™ 8050S                       |
-|Memory (total/maximum   <br/>dedicated VRAM)\*|                        32GB / 24GB                        |
-|                  Networking                  |     5Gbit Ethernet<br/><br/>2x USB4<br/><br/>Wi-Fi 7      |
-|               Case Dimensions                |                  96.8 x 205.5 x 226.1mm                   |
-|            Mainboard Form Factor             |Mini-ITX (fits 2x in a 2U rackmount case) with PCIe x4 slot|
-|               Operating System               |      Windows 11 or bring your preferred Linux distro      |
+|                             **Configuration**                              |                    **Max 385 - 32GB**                     |
+|----------------------------------------------------------------------------|-----------------------------------------------------------|
+|                               Integrated GPU                               |                       Radeon™ 8050S                       |
+|               Memory (total/maximum   <br/>dedicated VRAM)\*               |                        32GB / 24GB                        |
+|Recommended models and token generation speed (using LM Studio on Fedora 42)|         OpenAI gpt-oss-20b  <br/>MXFP4: 58 tok/s          |
+|                                 Networking                                 |     5Gbit Ethernet<br/><br/>2x USB4<br/><br/>Wi-Fi 7      |
+|                              Case Dimensions                               |                  96.8 x 205.5 x 226.1mm                   |
+|                           Mainboard Form Factor                            |Mini-ITX (fits 2x in a 2U rackmount case) with PCIe x4 slot|
+|                              Operating System                              |      Windows 11 or bring your preferred Linux distro      |
 
-|              **Configuration**               |                    **Max 395+ - 64GB**                    |
-|----------------------------------------------|-----------------------------------------------------------|
-|                Integrated GPU                |                       Radeon™ 8060S                       |
-|Memory (total/maximum   <br/>dedicated VRAM)\*|                        64GB / 48GB                        |
-|                  Networking                  |     5Gbit Ethernet<br/><br/>2x USB4<br/><br/>Wi-Fi 7      |
-|               Case Dimensions                |                  96.8 x 205.5 x 226.1mm                   |
-|            Mainboard Form Factor             |Mini-ITX (fits 2x in a 2U rackmount case) with PCIe x4 slot|
-|               Operating System               |      Windows 11 or bring your preferred Linux distro      |
+|                             **Configuration**                              |                    **Max 395+ - 64GB**                    |
+|----------------------------------------------------------------------------|-----------------------------------------------------------|
+|                               Integrated GPU                               |                       Radeon™ 8060S                       |
+|               Memory (total/maximum   <br/>dedicated VRAM)\*               |                        64GB / 48GB                        |
+|Recommended models and token generation speed (using LM Studio on Fedora 42)|         OpenAI gpt-oss-20b  <br/>MXFP4: 58 tok/s          |
+|                                 Networking                                 |     5Gbit Ethernet<br/><br/>2x USB4<br/><br/>Wi-Fi 7      |
+|                              Case Dimensions                               |                  96.8 x 205.5 x 226.1mm                   |
+|                           Mainboard Form Factor                            |Mini-ITX (fits 2x in a 2U rackmount case) with PCIe x4 slot|
+|                              Operating System                              |      Windows 11 or bring your preferred Linux distro      |
 
-|              **Configuration**               |                   **Max 395+ - 128GB**                    |
-|----------------------------------------------|-----------------------------------------------------------|
-|                Integrated GPU                |                       Radeon™ 8060S                       |
-|Memory (total/maximum   <br/>dedicated VRAM)\*|                       128GB / 96GB                        |
-|                  Networking                  |     5Gbit Ethernet<br/><br/>2x USB4 <br/><br/>Wi-Fi 7     |
-|               Case Dimensions                |                  96.8 x 205.5 x 226.1mm                   |
-|            Mainboard Form Factor             |Mini-ITX (fits 2x in a 2U rackmount case) with PCIe x4 slot|
-|               Operating System               |      Windows 11 or bring your preferred Linux distro      |
+|                             **Configuration**                              |                                     **Max 395+ - 128GB**                                     |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|                               Integrated GPU                               |                                        Radeon™ 8060S                                         |
+|               Memory (total/maximum   <br/>dedicated VRAM)\*               |                                         128GB / 96GB                                         |
+|Recommended models and token generation speed (using LM Studio on Fedora 42)|OpenAI gpt-oss-20b  <br/>MXFP4: 58 tok/sb  <br/><br/>OpenAI gpt-oss-120b  <br/>MXFP4: 38 tok/s|
+|                                 Networking                                 |                      5Gbit Ethernet<br/><br/>2x USB4 <br/><br/>Wi-Fi 7                       |
+|                              Case Dimensions                               |                                    96.8 x 205.5 x 226.1mm                                    |
+|                           Mainboard Form Factor                            |                 Mini-ITX (fits 2x in a 2U rackmount case) with PCIe x4 slot                  |
+|                              Operating System                              |                       Windows 11 or bring your preferred Linux distro                        |
 
 \* In Windows. In Linux you can override the VRAM setting to go higher.
 
@@ -598,7 +602,7 @@ Guides coming soon.
 
 **NEED A CLUSTER?**
 
-Framework Desktop has 5Gbit Ethernet along with two USB4 ports, allowing networking multiple together to run even larger models with llama.cpp RPC. With a Mini-ITX form factor, you can also pick up the Mainboard on its own and build it into your own mini-racks or standard rackmount server cases for high density.
+Framework Desktop has 5Gbit Ethernet along with two USB4 ports, allowing networking multiple together to run even larger models with llama.cpp RPC. With a Mini-ITX form factor, you can also pick up the Mainboard on its own and build it into your own mini-racks or standard rackmount server cases for high density.
 
 [Explore Mainboard](/products/desktop-mainboard-amd-ai-max300)
 
