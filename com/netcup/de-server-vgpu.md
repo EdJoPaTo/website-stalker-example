@@ -128,7 +128,7 @@ Die vGPU-Server werden aktuell ausschließlich mit einem Ubuntu-Image bereitgest
 
 ### Wann sind ARM-Server eine Alternative zu vGPU? ###
 
-Ist dein Stack [ARM64](https://www.netcup.com/de/server/arm-server)-kompatibel und primär CPU-bound, bieten ARM-Server eine energieeffiziente Option ohne GPU-Overhead.
+Ist dein Stack [ARM64-kompatibel](https://www.netcup.com/de/server/arm-server) und primär CPU-bound, bieten ARM-Server eine energieeffiziente Option ohne GPU-Overhead.
 
 ### Ich möchte die neuen Server für LLMs nutzen. Welche Sprachmodelle lassen sich mit den neuen Tarifen auf den Servern betreiben? ###
 

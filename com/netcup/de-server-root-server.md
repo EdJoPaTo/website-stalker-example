@@ -13,7 +13,7 @@ Root Server auf KVM-Basis
 Root Server Angebote
 ----------
 
-Leistungsstarke Root Server mit CPU- und RAM-Ressourcen die deinen Anwendungen exklusiv zur Verfügung stehen.
+Leistungsstarke Root Server mit CPU- und RAM-Ressourcen die **deinen Anwendungen exklusiv zur Verfügung stehen**.
 Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](https://www.netcup.com/de/server) schätzt, für den ist ein Root Server die beste Wahl.
 
 RS 1000 G11
@@ -178,11 +178,11 @@ Root Server Anwendungsfälle
 Dedizierter Server vs. Root Server
 ----------
 
-Ein dedizierter Server ist ein eigenes Stück Hardware, welches dir exklusiv für deine Anwendungen zur Verfügung steht. Ein Root Server wird auf einem Hostsystem neben anderen virtuellen Maschinen betrieben. Doch das bedeutet nicht, dass dir hier keine dedizierten Ressourcen zur Verfügung stehen: Viel mehr kombiniert der Root Server die Vorteile eines dedizierten Servers mit denen eines virtualisierten Systems.
+Ein dedizierter Server ist ein eigenes Stück Hardware, welches dir exklusiv für deine Anwendungen zur Verfügung steht. Ein Root Server wird auf einem Hostsystem neben anderen virtuellen Maschinen betrieben. Doch das bedeutet nicht, dass dir hier keine dedizierten Ressourcen zur Verfügung stehen: **Viel mehr kombiniert der Root Server die Vorteile eines dedizierten Servers mit denen eines virtualisierten Systems.**
 
-Bei beiden Systemen hast du vollen Root Zugriff auf das Betriebssystem des Servers. Das bedeutet, dass du über die höchste administrative Kontrolle verfügst. Diese Server eignen sich insbesondere für erfahrene Admins mit umfassenden Linux-Kenntnissen, die das Betriebssystem und System-Konfiguration nach ihren eigenen Vorstellungen anpassen möchten.
+Bei beiden Systemen hast du **vollen Root Zugriff** auf das Betriebssystem des Servers. Das bedeutet, dass du über die höchste administrative Kontrolle verfügst. Diese Server eignen sich insbesondere für erfahrene Admins mit umfassenden Linux-Kenntnissen, die das Betriebssystem und System-Konfiguration nach ihren eigenen Vorstellungen anpassen möchten.
 
-Bei einem dedizierten Server steht dir die Leistung des Systems ohne Einschränkungen zu jeder Zeit zur Verfügung. Bei unseren Root Servern garantieren wir dies ebenfalls für die gebuchten CPU-Kerne und den bereitgestellten RAM.
+Bei einem dedizierten Server steht dir die Leistung des Systems ohne Einschränkungen zu jeder Zeit zur Verfügung. Bei unseren Root Servern **garantieren wir dies ebenfalls für die gebuchten CPU-Kerne und den bereitgestellten RAM.**
 
 Ein virtualisiertes System wiederum bietet dir Funktionen, die bei dedizierten Servern oftmals nicht, oder nur über Umwege zur Verfügung stehen: So kannst du bequem Snapshots erstellen, etwa vor größeren Konfigurationsanpassungen. Die Steuerung erfolgt bequem über eine Weboberfläche (Server Control Panel), über die du Images installieren kannst, CDs oder DVDs einlegen kannst und welche auch eine Web-VNC-Konsole beinhaltet.
 
@@ -191,13 +191,12 @@ Wer sowohl die Vorteile dedizierter Server als auch virtualisierter Server schä
 Vorteile unserer Root Server-Angebote
 ----------
 
-Unsere Root Server vereinen die Vorteile virtueller und dedizierter Server. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9634 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM).
-Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie einfach bedienbar. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere Jobs mit GPU-Unterstützung empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
+Unsere Root Server vereinen die Vorteile **virtueller und dedizierter Server**. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9634 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM). Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie **einfach bedienbar**. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere [Jobs mit GPU-Unterstützung](https://www.netcup.com/de/server/vgpu) empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
 
  Speichererweiterung für Root Server
 ----------
 
-Erweitere mit Local Block Storage ganz einfach deinen benötigten Speicher mit physischen Festplatten. [Gestalte deine Datensicherung](https://www.netcup.com/de/server/local-block-storage) individuell und ohne fixe Laufzeiten, um bis zu insgesamt 8 TB Speicher für deine Anwendungen. Sichere dir mehr Flexibilität mit Local Block Storage und profitiere von Top-Preisen bei netcup.
+Erweitere mit Local Block Storage ganz einfach deinen benötigten Speicher mit physischen Festplatten. [Gestalte deine Datensicherung individuell und ohne fixe Laufzeiten](https://www.netcup.com/de/server/local-block-storage), um bis zu insgesamt 8 TB Speicher für deine Anwendungen. Sichere dir mehr Flexibilität mit Local Block Storage und profitiere von Top-Preisen bei netcup.
 
 Unsere Zufriedenheitsgarantie
 ----------
