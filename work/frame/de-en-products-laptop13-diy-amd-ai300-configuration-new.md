@@ -51,13 +51,13 @@ System
 
   6-core/12-thread, up to 4.8GHz
 
-   Ships in 1-3 weeks.
+   Ships within five business days.
 
 * Ryzen™ AI 7 350  €1,459
 
   8-core/16-thread, up to 5.0GHz
 
-   Ships in 1-3 weeks.
+   Ships within five business days.
 
 * Ryzen™ AI 9 HX 370  €1,939
 
