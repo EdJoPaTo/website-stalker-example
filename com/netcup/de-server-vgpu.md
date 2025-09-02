@@ -68,15 +68,15 @@ Unsere vGPU-Produkte bieten **leistungsstarke GPU-Power aus der Cloud** – idea
 Deine Vorteile mit netcup vGPU
 ----------
 
-**GPU-Power für anspruchsvolle Workloads:**
+**GPU-Power für anspruchsvolle Workloads**
 
 Unsere Root-Server mit zusätzlicher GPU-Leistung bringen deine rechenintensiven Anwendungen auf ein neues Level. Egal ob Rendering-Aufgaben, CAD oder KI Inferencing – beschleunigte Workloads bedeuten schnellere Ergebnisse und höhere Effizienz.
 
-**Grafikintensive Anwendungen aus der Cloud:**
+**Grafikintensive Anwendungen aus der Cloud**
 
 Nutze leistungsstarke vGPUs für professionelle 3D-Designs, Visualisierungen, Simulationen oder Videoproduktion – ganz ohne eigene Hardware. Maximale Performance, direkt aus der Cloud – flexibel, skalierbar und sofort einsatzbereit.
 
-**Sicher & isoliert – dedizierte vGPUs pro VM:**
+**Sicher & isoliert – dedizierte vGPUs pro VM**
 
 Dank Virtualisierung mit dedizierter vGPU-Zuweisung pro virtueller Maschine garantieren wir maximale Performance und hohe Sicherheit. Keine Ressourcen-Sharing-Probleme, keine Kompromisse – volle Kontrolle für jede Workload.
 
@@ -91,24 +91,26 @@ Als [ISO-Zertifiziertes Unternehmen](https://www.netcup.com/de/ueber-netcup/zert
 Local Block Storage bei vGPU
 ----------
 
-Bis zu insgesamt 4 TB Speicher erhaltest du mit der Local Block Storage Technologie. Wähle frei von Laufzeiten die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage) und decke so einfach und schnell den Bedarf an neuen Ressourcen. Profitiere von der flexiblen und kostengünstigen Möglichkeit, Speicherkapazitäten jederzeit nach Bedarf zu erweitern.
+**Bis zu insgesamt 4 TB Speicher** erhaltest du mit der Local Block Storage Technologie. Wähle frei von Laufzeiten die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage) und decke so einfach und schnell den Bedarf an neuen Ressourcen. Profitiere von der flexiblen und kostengünstigen Möglichkeit, Speicherkapazitäten jederzeit nach Bedarf zu erweitern.
 
-Durch den Einsatz moderner **High-End-Hardware** – darunter NVIDIA™ H200 GPUs und AMD EPYC™ 9535 Prozessoren – bieten unsere **vGPU-Server** ein ideales Fundament für grafikintensive und rechenaufwendige Anwendungen. Ob 3D-Rendering, Video-Encoding oder KI-Inferencing: Mit **garantierten vCPU- und VRAM-Ressourcen** erhältst du eine zuverlässige Performance – gehostet in unserem [zertifizierten Rechenzentrum](https://www.netcup.com/de/ueber-netcup/rechenzentren) in Nürnberg und vollständig DSGVO-konform.
+Durch den Einsatz moderner **High-End-Hardware** – darunter NVIDIA™ H200 GPUs und AMD EPYC™ 9535 Prozessoren – bieten unsere **vGPU-Server** ein ideales Fundament für grafikintensive und rechenaufwendige Anwendungen.
+
+Ob 3D-Rendering, Video-Encoding oder KI-Inferencing: Mit **garantierten vCPU- und VRAM-Ressourcen** erhältst du eine zuverlässige Performance – gehostet in unserem [zertifizierten Rechenzentrum](https://www.netcup.com/de/ueber-netcup/rechenzentren) in Nürnberg und vollständig DSGVO-konform.
 
 Frequently Asked Questions
 ----------
 
 ### Was sind vGPU Server und für welche Szenarien eignen sich die neuen Produkte? ###
 
-vGPU Server sind leistungsstarke Root-Server mit fest zugewiesener, virtualisierter GPU-Leistung (vGPU). Sie eignen sich besonders für rechenintensive Einsatzbereiche wie KI Inferencing, Video-Processing, 3D-Visualisierungen sowie datengetriebene Analysen.
+vGPU Server sind **leistungsstarke Root-Server mit fest zugewiesener, virtualisierter GPU-Leistung** (vGPU). Sie eignen sich besonders für rechenintensive Einsatzbereiche wie KI Inferencing, Video-Processing, 3D-Visualisierungen sowie datengetriebene Analysen.
 
 ### An welchen Standorten sind die vGPU Produkte von netcup verfügbar? ###
 
-Die vGPU Server werden in unserem hochsicheren Rechenzentrum in Nürnberg (Deutschland) gehostet – vollständig DSGVO-konform und mit kurzen Latenzwegen [innerhalb Europas](https://www.netcup.com/de/ueber-netcup/digitale-souveraenitaet).
+Die vGPU Server werden in unserem **hochsicheren Rechenzentrum in Nürnberg (Deutschland)** gehostet – vollständig DSGVO-konform und mit kurzen Latenzwegen [innerhalb Europas](https://www.netcup.com/de/ueber-netcup/digitale-souveraenitaet).
 
 ### Sind die netcup vGPU Produkte für KI-Training geeignet? ###
 
-Unsere vGPU Server sind auf KI Inferencing ausgelegt – also auf den produktiven Einsatz von vortrainierten Modellen. Für großflächiges KI-Training sind sie nicht vorgesehen.
+Unsere vGPU Server sind auf **KI Inferencing ausgelegt – also auf den produktiven Einsatz von vortrainierten Modellen**. Für großflächiges KI-Training sind sie nicht vorgesehen.
 
 ### Brauche ich statt vGPU eher einen vServer (VPS)? ###
 
@@ -116,7 +118,7 @@ Wenn du keine GPU benötigst und CPU/RAM ausreichen, sind [vServer (VPS)](https:
 
 ### Unterstützen die vGPU Produkte CUDA Technology? ###
 
-Ja, die eingesetzten NVIDIA™ H200 GPUs unterstützen die CUDA-Plattform und ermöglichen damit GPU-beschleunigte Rechenprozesse und parallele Datenverarbeitung.
+Ja, die eingesetzten **NVIDIA™ H200 GPUs unterstützen die CUDA-Plattform** und ermöglichen damit GPU-beschleunigte Rechenprozesse und parallele Datenverarbeitung.
 
 ### Gilt die Bestpreisgarantie und Zufriedenheitsgarantie für diese Produkte? ###
 
@@ -124,7 +126,7 @@ Die Bestpreis- und Zufriedenheitsgarantie ist bei diesen Produkten nicht gültig
 
 ### Mit welchen Images werden die vGPU Server bereitgestellt? ###
 
-Die vGPU-Server werden aktuell ausschließlich mit einem Ubuntu-Image bereitgestellt. Hintergrund ist, dass die benötigten NVIDIA-Treiber nicht frei verfügbar sind und offiziell vorrangig Ubuntu unterstützen. Aus diesem Grund werden derzeit keine alternativen Images angeboten, und der Betrieb der vGPU-Server ist nur mit dem mitgelieferten Ubuntu-Image möglich.
+Die vGPU-Server werden **aktuell ausschließlich mit einem Ubuntu-Image** bereitgestellt. Hintergrund ist, dass die benötigten NVIDIA-Treiber nicht frei verfügbar sind und offiziell vorrangig Ubuntu unterstützen. Aus diesem Grund werden derzeit keine alternativen Images angeboten, und der Betrieb der vGPU-Server ist nur mit dem mitgelieferten Ubuntu-Image möglich.
 
 ### Wann sind ARM-Server eine Alternative zu vGPU? ###
 
@@ -132,15 +134,15 @@ Ist dein Stack [ARM64-kompatibel](https://www.netcup.com/de/server/arm-server) u
 
 ### Ich möchte die neuen Server für LLMs nutzen. Welche Sprachmodelle lassen sich mit den neuen Tarifen auf den Servern betreiben? ###
 
-Unsere vGPU Server sind optimal für kompaktere Sprachmodelle wie Llama3, Mistral, Gemma, Qwen2 oder Phi3 geeignet – ideal für performantes und ressourcenschonendes Inference.
+Unsere vGPU Server sind **optimal** für kompaktere Sprachmodelle wie **Llama3, Mistral, Gemma, Qwen2 oder Phi3** geeignet – ideal für performantes und ressourcenschonendes Inference.
 
 ### Wie werden die Server abgerechnet? ###
 
-Die Abrechnung erfolgt monatlich, basierend auf einer Mindestvertragslaufzeit von nur einem Monat. So bleibst du flexibel bei voller Kostenkontrolle.
+Die Abrechnung erfolgt **monatlich**, basierend auf einer Mindestvertragslaufzeit von nur einem Monat. So bleibst du flexibel bei voller Kostenkontrolle.
 
 ### Welcher Hypervisor wird für die Instanzvirtualisierung verwendet? ###
 
-Wie bei allen unseren Root-Servern kommt auch bei den vGPU Instanzen der [KVM-Hypervisor](https://www.netcup.com/de/server/kvm-server-erweiterungen) im Linux-Kernel zum Einsatz – für stabile und performante Virtualisierung.
+Wie bei allen unseren Root-Servern kommt auch bei den vGPU Instanzen der [KVM-Hypervisor](https://www.netcup.com/de/server/kvm-server-erweiterungen) im **Linux-Kernel** zum Einsatz – für stabile und performante Virtualisierung.
 
 ### Welche anderen Server-Optionen bietet netcup? ###
 
