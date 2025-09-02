@@ -193,6 +193,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Bypass for Dimmer](https://kb.shelly.cloud/knowledge-base/shelly-bypass-for-dimmer)
 * [Shelly USB Charger for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-usb-charger-for-wall-display-stand)
 * [Shelly Socket for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-socket-for-wall-display-stand)
+* [Shelly 1-Channel Decoupler 120V / Shelly 4-Channel Decoupler 120V](https://kb.shelly.cloud/knowledge-base/shelly-1-channel-decoupler-120v-shelly-4-channel-d)
 
  Amazon-compatible devices
 ----------
