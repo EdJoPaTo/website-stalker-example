@@ -67,7 +67,7 @@ Falls du Hilfe bei der Aktivierung benötigst, findest du in unserem [**FAQ**](
 
 * Fairphone
 
-  1. Entferne die alte SIM-Karte oder läsche die alte eSIM vom Gerät
+  1. Entferne die alte SIM-Karte oder lösche die alte eSIM vom Gerät
   2. Öffne an einem anderen Gerät den **eSIM QR-Code** in deinem **WEtell Kund\*innenbereich**
   3. Stelle sicher, dass dein Smartphone im **WLAN verbunden** ist
   4. Gehe zu "**Einstellungen**"
