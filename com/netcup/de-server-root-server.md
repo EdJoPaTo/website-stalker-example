@@ -196,17 +196,17 @@ Unsere Root Server vereinen die Vorteile **virtueller und dedizierter Server**. 
  Speichererweiterung für Root Server
 ----------
 
-Erweitere mit Local Block Storage ganz einfach deinen benötigten Speicher mit physischen Festplatten. [Gestalte deine Datensicherung individuell und ohne fixe Laufzeiten](https://www.netcup.com/de/server/local-block-storage), um bis zu insgesamt 8 TB Speicher für deine Anwendungen. Sichere dir mehr Flexibilität mit Local Block Storage und profitiere von Top-Preisen bei netcup.
+**Erweitere mit Local Block Storage ganz einfach deinen benötigten Speicher** mit physischen Festplatten. [Gestalte deine Datensicherung individuell und ohne fixe Laufzeiten](https://www.netcup.com/de/server/local-block-storage), um bis zu insgesamt 8 TB Speicher für deine Anwendungen. **Sichere dir mehr Flexibilität** mit Local Block Storage und profitiere von Top-Preisen bei netcup.
 
 Unsere Zufriedenheitsgarantie
 ----------
 
-Bevor du dich an einen Vertrag mit uns bindest, möchten wir, dass du von unseren Root Server Produkten überzeugt bist und diese zu deine Anforderungen passen. Solltest du innerhalb von 30 Tagen nach der Bestellung mit deinem Root Server nicht zufrieden sein, kannst du diesen zurückgeben und du erhältst die komplette Grundgebühr (Preis pro Monat mal Abrechnungsperiode) zurück erstattet.
+Bevor du dich an einen Vertrag mit uns bindest, möchten wir, dass du von unseren Root Server Produkten überzeugt bist und diese zu deine Anforderungen passen. Solltest du **innerhalb von 30 Tagen nach der Bestellung** mit deinem **Root Server** nicht zufrieden sein, kannst du diesen **zurückgeben und du erhältst die komplette Grundgebühr** (Preis pro Monat mal Abrechnungsperiode) zurück erstattet.
 
 netcup SCP App
 ----------
 
-Die netcup SCP App bietet dir die Möglichkeit, jederzeit und von überall auf deine Root Server, vServer und Storages zuzugreifen. Neben den Statistiken und Protokollen ermöglicht die App eine allgemeine Übersicht und Steuerung deiner Server. Lade dir die netcup SCP App jetzt kostenlos über den Google Play Store oder den App Store auf dein Smartphone herunter.
+Die netcup SCP App bietet dir die Möglichkeit, **jederzeit und von überall auf deine Root Server,** [**vServer**](https://www.netcup.com/de/server/vps) **und Storages zuzugreifen**. Neben den Statistiken und Protokollen ermöglicht die App eine allgemeine Übersicht und Steuerung deiner Server. **Lade dir die netcup SCP App jetzt** kostenlos über den Google Play Store oder den App Store auf dein Smartphone herunter.
 
 [](https://apps.apple.com/at/app/netcup-scp/id1469193372)[](https://play.google.com/store/apps/details?id=at.anexia.netcupscp)
 
@@ -215,19 +215,19 @@ Frequently Asked Questions
 
 ### Was ist ein Root-Server? ###
 
-Bei einem Root-Server handelt es sich um einen Server, bei dem du vollständigen administrativen Zugriff (Root-Zugriff) erhältst. Du bekommst klar definierte Ressourcen, die deinem Server zur Verfügung stehen. Du kannst individuelle Systemsoftware betreiben und hast dabei vollständige administrative Kontrolle. Ein Root-Server setzt demzufolge Kenntnisse in der Administration von Serversystemen voraus.
+Bei einem Root-Server handelt es sich um einen Server, bei dem du **vollständigen administrativen Zugriff (Root-Zugriff)** erhältst. Du bekommst klar definierte Ressourcen, die deinem Server zur Verfügung stehen. Du kannst i**ndividuelle Systemsoftware betreiben** und hast dabei vollständige administrative Kontrolle. Ein Root-Server **setzt demzufolge Kenntnisse in der Administration von Serversystemen voraus.**
 
 ### Was kann ich mit einem Root-Server machen? ###
 
-Root-Server eignen sich ideal für Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agierst du mit höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.
+Root-Server eignen sich ideal für **Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server** für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agierst du mit **höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.**
 
 ### Was ist der Unterschied zwischen einem dedizierten Server, einem Root-Server und einem VPS? ###
 
-Die Begriffe dedizierter Server und Root-Server werden in der IT-Branche oft synonym verwendet und stellen ähnliche Konzepte dar: Mit einem dedizierten Server erhältst du exklusiven Zugriff auf einen physischen Server. Bei VPS und Root-Server handelt es sich bei netcup um virtualisierte Server mit Root-Zugriff. Während bei einem VPS die CPU-Leistung nicht garantiert werden kann, vereint ein Root-Server jedoch die Vorteile dedizierter Server und virtualisierter Server: Einem Root-Server wird die angegebene CPU-Leistung garantiert zugewiesen, zudem ist das Anlegen von Snapshots sowie die Verwaltung über ein Panel durch die Virtualisierung wie auch bei VPS möglich.
+Die Begriffe dedizierter Server und Root-Server werden in der IT-Branche oft synonym verwendet und stellen ähnliche Konzepte dar: Mit einem **dedizierten Server erhältst du exklusiven Zugriff auf einen physischen Server**. Bei VPS und Root-Server handelt es sich **bei netcup um virtualisierte Server mit Root-Zugriff.** Während bei einem VPS die CPU-Leistung nicht garantiert werden kann, vereint ein Root-Server jedoch die Vorteile dedizierter Server und virtualisierter Server: Einem Root-Server wird die angegebene CPU-Leistung garantiert zugewiesen, zudem ist das **Anlegen von Snapshots** sowie die Verwaltung über ein Panel durch die Virtualisierung wie auch bei VPS möglich.
 
 ### Wo ist der Standort meines Root-Servers? ###
 
-Bei netcup bieten wir Ihnen Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) oder Amsterdam (Niederlande) als Standort für deinen Root-Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) bzw. Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root-Server je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
+Bei netcup bieten wir Ihnen **Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) oder Amsterdam (Niederlande)** als Standort für deinen Root-Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) bzw. Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root-Server je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
 
 ### Was sind die Vorteile eines Root-Servers? ###
 

@@ -25,11 +25,12 @@ Flexible Preisgestaltung
 
 ### #1 - Finde ein Fahrrad in der App  ###
 
-Öffne die Donkey Republic App, um ein Fahrrad in der Nähe zu finden und wähle deine Mietoption
+Öffne die Donkey Republic App, um ein Fahrrad in der Nähe zu finden und wähle deine Mietoption.
 
 ### #2 - Entsperren und losfahren ###
 
-Entsperren Sie das Fahrrad mit ihrem Telefon und beginnen Sie ihre Fahrt in Sekunden
+Entsperre das Fahrrad mit deinem Telefon und beginne deine Fahrt
+.
 
 ### #3 - Parken und abschliessen ###
 
@@ -63,7 +64,7 @@ Umweltfreundliches Reisen
 
 Lassen Sie das Auto aus und fahren Sie sauber. Donkey-Fahrräder sind eine nachhaltige Art, sich fortzubewegen.
 
-Urbane Mobilität auf Donkey
+Mobilität in der Stadt und im ländlichen Raum
 ----------
 
 Wie leihe ich ein Fahrrad

@@ -43,18 +43,15 @@ Wie bestelle ich mehr Speicherplatz?
 Vorteile von Local Block Storage als Datenspeicher
 ----------
 
-**Kostengünstig**
-----------
+### **Kostengünstig** ###
 
 Wählen Sie ab 1 GB und bis zu insgesamt 8 TB Speicherbedarf, je nach Produkt **schon ab 0,01€ pro Monat**. So können neben kleinen Setups auch größere Data-Szenarien kostengünstig gesteuert werden.
 
-**Mehr Flexibilität**
-----------
+### **Mehr Flexibilität** ###
 
 **Unabhängig von jeglicher Laufzeit** können Sie Ihre Speichererweiterung individuell konfigurieren. Das macht Sie unabhängig bei auftretenden Leistungsspitzen. Die gebuchte Speicherkapazität wird tagesbasiert abgerechnet.
 
-**Skalierbarkeit**
-----------
+### **Skalierbarkeit** ###
 
 Sollten Sie **kurz- oder längerfristig** auf **mehr Speicherkapazität** angewiesen sein, dann ist eine Skalierung bei Ihren Anwendungsfällen jederzeit möglich. Der individuelle Bedarf an erweiterbaren Speichermöglichkeiten macht Sie agiler - perfekt für jedes Start-up!
 

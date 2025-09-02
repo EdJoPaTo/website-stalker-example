@@ -289,23 +289,23 @@ Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen,
 
 ### Wo ist der Standort meines VPS? ###
 
-Bei netcup bieten wir dir Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) und Amsterdam (Niederlande) als Standort für deinen vServer an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS 'bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) oder Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der VPS je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
+Bei netcup bieten wir dir **Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) und Amsterdam (Niederlande)** als Standort für deinen vServer an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS 'bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) oder Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der VPS je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
 
 ### Was sind die Vorteile eines VPS? ###
 
-Ein VPS bietet zahlreiche Vorteile, darunter Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
+Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
 
 ### Kann ich meinen VPS mit Local Block Storage erweitern? ###
 
-Ja, du kannst deinen VPS mit Local Block Storage erweitern. Dies bietet dir zusätzlichen Speicherplatz für deine Daten und Anwendungen, um deine Leistung und Speicheranforderungen zu erweitern. Bei der G11s Generation ist eine Erweiterung jedoch nur bei ausgewählten Angeboten und bis maximal 2 TB möglich.
+Ja, du kannst deinen VPS mit Local Block Storage erweitern. Dies bietet dir **zusätzlichen Speicherplatz für deine Daten und Anwendungen**, um deine Leistung und Speicheranforderungen zu erweitern. Bei der G11s Generation ist eine Erweiterung jedoch nur bei ausgewählten Angeboten und bis maximal 2 TB möglich.
 
 ### Wie werden die Server abgerechnet? ###
 
-Die Server werden auf zwei Arten abgerechnet: stundenbasiert und auf einer 12-Monats-Basis. Bei den Stundentarifen zahlst du monatlich im Voraus und die Abrechnung erfolgt auf Stundenbasis, wenn du den Vertrag beendest. Es gibt keine Mindestvertragslaufzeiten oder Kündigungsfristen. Die 12-Monats-Abrechnung bietet dir langfristige Planungssicherheit und mögliche Kosteneinsparungen bei einer längeren Vertragslaufzeit.
+Die Server werden auf zwei Arten abgerechnet: **stundenbasiert und auf einer 12-Monats-Basis**. Bei den Stundentarifen zahlst du monatlich im Voraus und die Abrechnung erfolgt auf Stundenbasis, wenn du den Vertrag beendest. Es gibt keine Mindestvertragslaufzeiten oder Kündigungsfristen. Die 12-Monats-Abrechnung bietet dir langfristige Planungssicherheit und mögliche Kosteneinsparungen bei einer längeren Vertragslaufzeit.
 
 ### Kann ich einen Windows Server mieten? ###
 
-netcup bietet keine vorgefertigten Windows Server an. Du hast jedoch die Möglichkeit, Windows auf deinem Server über das SCP selbst zu installieren. Bitte beachte, dass es sich dabei um eine 180-tägige Testlizenz handelt. Darüber hinaus kannst du über netcup keine Windows-Softwarelizenzen erwerben.
+netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Möglichkeit, Windows auf deinem Server **über das SCP selbst zu installieren**. Bitte beachte, dass es sich dabei um eine **180-tägige Testlizenz** handelt. Darüber hinaus kannst du über netcup keine Windows-Softwarelizenzen erwerben.
 
 ### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ###
 
