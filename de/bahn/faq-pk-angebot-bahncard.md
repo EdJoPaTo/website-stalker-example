@@ -859,6 +859,13 @@ Die Probe BahnCard 25 zum Aktionspreis kostet:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-kosten)
 
+ Wie lange ist die Probe BahnCard 25 zum Aktionspreis gültig?
+----------
+
+Die Probe BahnCard 25 hat eine Gültigkeit von 3 Monaten. Die Probe BahnCard 25 zum Aktionspreis gilt ab dem 1. Geltungstag 3 Monate lang. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-gueltig)
+
  Wo bestelle ich meine Probe BahnCard 25 zum Aktionspreis?
 ----------
 
@@ -935,12 +942,36 @@ Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-probe-bahncard-50)
 
+ Wer kann die Probe BahnCard 50 zum Aktionspreis erwerben?
+----------
+
+Alle Reisenden können die Probe BahnCard 50 zum Aktionspreis erwerben. Die Probe BahnCard 50 hat eine Gültigkeit von 3 Monaten. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My Bahncard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-wer)
+
+ Wieviel kostet die Probe BahnCard 50 zum Aktionspreis?
+----------
+
+Die Probe BahnCard 50 zum Aktionspreis kostet:
+
+* 39,99 Euro (2. Klasse)
+* 79,99 Euro (1. Klasse)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-kosten)
+
  Wie lange ist die Probe BahnCard 50 zum Aktionspreis gültig?
 ----------
 
 Die Probe BahnCard 50 hat eine Gültigkeit von 3 Monaten. Die Probe BahnCard 50 zum Aktionspreis gilt ab dem 1. Geltungstag 3 Monate lang. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-gueltig)
+
+ Wo bestelle ich meine Probe BahnCard 50 zum Aktionspreis?
+----------
+
+Die Probe BahnCard 50 zum Aktionspreis können Sie gleich hier online kaufen, in der App DB Navigator, oder in den DB-Reisezentren und DB-Agenturen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-bestellen)
 
  Wofür kann ich die Probe BahnCard 100 nutzen?
 ----------
