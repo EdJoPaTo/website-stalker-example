@@ -52,8 +52,10 @@ Deine eSIM bei WEtell zu aktivieren ist ganz einfach. Befolge diese Schritte und
 
 1. Bestelle deine eSIM im [Kund\*innen-Portal](https://mein.wetell.de/anmelden).
 2. Erhalte deinen QR-Code zur Aktivierung per E-Mail.
-3. Scanne den QR-Code mit deinem Smartphone oder einem Gerät, das eSIM unterstützt.
-4. Fertig! Deine eSIM ist jetzt aktiviert und du kannst loslegen.
+3. Entferne deine alte SIM-Karte oder lösche die alte eSIM vom Gerät.
+4. Starte dein Handy einmal komplett neu.
+5. Scanne den QR-Code mit deinem Smartphone oder einem Gerät, das eSIM unterstützt.
+6. Fertig! Deine eSIM ist jetzt aktiviert und du kannst loslegen.
 
 Weiter unten findest du eine genaue Anleitung für Fairphone, Apple und Android Geräte.
 Beachte dabei, dass die Installation bei Android Geräten leicht variieren kann.
@@ -65,88 +67,100 @@ Falls du Hilfe bei der Aktivierung benötigst, findest du in unserem [**FAQ**](
 
 * Fairphone
 
-  1. Öffne an einem anderen Gerät den **eSIM QR-Code** in deinem **WEtell Kund\*innenbereich**
-  2. Stelle sicher, dass dein Smartphone im **WLAN verbunden** ist
-  3. Gehe zu "**Einstellungen**"
-  4. Klicke "**Netzwerk & Internet**"
-  5. Klicke das **Plussymbol** bei "**Mobilfunknetz**"
-  6. Klicke "**Stattdessen SIM herunterladen?**"
-  7. Klicke "**Weiter**"
-  8. Scanne den **QR-Code** aus deinem **WEtell Kund\*innenbereich**
-  9. Klicke "**Aktivieren**"
-  10. Gib deine **6-stellige ePIN/Bestätigungscode** ein (ebenfalls aus dem Kund\*innenbereich)
-  11. Klicke "**Weiter**"
-  12. Klicke "**Fertig**"
+  1. Entferne die alte SIM-Karte oder läsche die alte eSIM vom Gerät
+  2. Öffne an einem anderen Gerät den **eSIM QR-Code** in deinem **WEtell Kund\*innenbereich**
+  3. Stelle sicher, dass dein Smartphone im **WLAN verbunden** ist
+  4. Gehe zu "**Einstellungen**"
+  5. Klicke "**Netzwerk & Internet**"
+  6. Klicke das **Plussymbol** bei "**Mobilfunknetz**"
+  7. Klicke "**Stattdessen SIM herunterladen?**"
+  8. Klicke "**Weiter**"
+  9. Scanne den **QR-Code** aus deinem **WEtell Kund\*innenbereich**
+  10. Klicke "**Aktivieren**"
+  11. Gib deine **6-stellige ePIN/Bestätigungscode** ein (ebenfalls aus dem Kund\*innenbereich)
+  12. Klicke "**Weiter**"
+  13. Klicke "**Fertig**"
+
+  Falls du mehrere (e)SIM-Karten auf deinem Gerät nutzt, bennenne deine (e)SIM-Karte zur besseren Unterscheidung.
 
 * iPhone
 
-  1. Öffne an einem anderen Gerät den **eSIM QR-Code** in deinem **WEtell Kund\*innenbereich**
-  2. Stelle sicher, dass dein Smartphone im **WLAN verbunden** ist
-  3. Gehe zu "**Einstellungen**"
-  4. Klicke "**Mobilfunk**"
-  5. Klicke "**Mobilfunktarif hinzufügen**"
-  6. Scanne den **QR-Code** aus deinem Kund\*innenbereich
-  7. Gib deine **6-stellige ePIN/Bestätigungscode** ein (ebenfalls aus dem Kund\*innenbereich)
-  8. Klicke "**Weiter**"
-  9. Klicke "**Mobilfunktarif hinzufügen**"
-  10. Klicke in den nächsten 3 Schritten "Sekundär"
-  11. Bestätige mit "**Weiter**"
-  12. Gehe erneut zu "**Einstellungen**" \> "**Mobilfunk**" \> "**Mobilfunktarife**"
-  13. Klicke auf "Primär" und schiebe den Regler "**Diese Leistung aktivieren**" auf "**Aus**"
+  1. Entferne die alte SIM-Karte oder lösche die alte eSIM vom Gerät
+  2. Öffne an einem anderen Gerät den **eSIM QR-Code** in deinem **WEtell Kund\*innenbereich**
+  3. Stelle sicher, dass dein Smartphone im **WLAN verbunden** ist
+  4. Gehe zu "**Einstellungen**"
+  5. Klicke "**Mobilfunk**"
+  6. Klicke "**Mobilfunktarif hinzufügen**" oder "**Mobilfunk konfigurieren**" oder "**eSIM hinzufügen**"
+  7. Wähle "**QR-Code verwenden**"
+  8. Scanne den **QR-Code** aus deinem Kund\*innenbereich
+  9. Gib deine **6-stellige ePIN/Bestätigungscode** ein (ebenfalls aus dem Kund\*innenbereich)
+  10. Klicke "**Weiter**"
+  11. Klicke "**Mobilfunktarif hinzufügen**" oder "**eSIM aktivieren**" oder "**Fortfahren**"
+  12. Klicke "**Fertig**"
+
+  Falls du mehrere (e)SIM-Karten auf deinem Gerät nutzt, bennenne deine (e)SIM-Karte zur besseren Unterscheidung.
 
 * Android
 
-  1. Öffne an einem anderen Gerät den **eSIM QR-Code** in deinem **WEtell Kund\*innenbereich**
+  1. Entferne die alte SIM-Karte oder lösche die alte eSIM vom Gerät
 
-  2. Stelle sicher, dass dein Smartphone im **WLAN verbunden** ist
+  2. Öffne an einem anderen Gerät den **eSIM QR-Code** in deinem **WEtell Kund\*innenbereich**
 
-  3. Gehe zu "**Einstellungen**"
+  3. Stelle sicher, dass dein Smartphone im **WLAN verbunden** ist
 
-  4. Klicke "**Verbindungen**"
+  4. Gehe zu "**Einstellungen**"
 
-  5. Klicke "**SIM-Kartenverwaltung**"
+  5. Klicke "**Verbindungen**"
 
-  6. Klicke "**Mobilfunktarif hinzufügen**"
+  6. Klicke "**SIM-Kartenverwaltung**"
 
-  7. Klicke "**QR-Code des Anbieters scannen**"
+  7. Klicke "**Mobilfunktarif hinzufügen**"
 
-  8. Scanne den **QR-Code** aus deinem Kund\*innenbereich
+  8. Klicke "**QR-Code des Anbieters scannen**"
 
-  9. Gib deine **6-stellige ePIN** ein (ein Klick auf das Auge macht die eSIM sichtbar)
+  9. Scanne den **QR-Code** aus deinem Kund\*innenbereich
 
-  10. Bestätige mit "**Weiter**"
+  10. Gib deine **6-stellige ePIN** ein (ein Klick auf das Auge macht die eSIM sichtbar)
 
-  11. Klicke "**Fertig**"
+  11. Bestätige mit "**Weiter**"
 
-  12. Gehe erneut zu "**Einstellungen**" \> "**Verbindungen**" \> "**SIM-Kartenverwaltung**"
+  12. Klicke "**Fertig**"
 
-  13. Schiebe "**SIM1**" auf **Aus**
+  13. Gehe erneut zu "**Einstellungen**" \> "**Verbindungen**" \> "**SIM-Kartenverwaltung**"
 
-  14. Bestätige mit "**OK**"
+  14. Schiebe "**SIM1**" auf **Aus**
+
+  15. Bestätige mit "**OK**"
+
+  Falls du mehrere (e)SIM-Karten auf deinem Gerät nutzt, bennenne deine (e)SIM-Karte zur besseren Unterscheidung.
 
 * Galaxy Watch
 
-  1. Öffne die **Galaxy Wearable-App** auf dem gekoppelten Smartphone.
+  1. Entferne die alte SIM-Karte oder lösche die alte eSIM vom Gerät
 
-  2. Folge den Anweisungen der App.
+  2. Öffne die **Galaxy Wearable-App** auf dem gekoppelten Smartphone.
 
-  3. Den **QR-Code** und die **6-stellige ePIN** zur Installation findest du in deinem „Mein WEtell-Bereich“.
+  3. Folge den Anweisungen der App.
 
-  4. Die eSIM wird nun innerhalb weniger Minuten aktiviert.
+  4. Den **QR-Code** und die **6-stellige ePIN** zur Installation findest du in deinem „Mein WEtell-Bereich“.
+
+  5. Die eSIM wird nun innerhalb weniger Minuten aktiviert.
 
   Möchtest du im Nachhinein noch eine eSIM aktivieren, wähle in der Galaxy Wearable App "Mobiltarife" aus. Scanne den QR-Code von deinem Netzanbieter. Wähle "Code verwenden" und folge den Anweisungen.
 
 * Apple Watch
 
-  1. Öffne die **Apple Watch-App** auf deinem gekoppelten iPhone.
+  1. Entferne die alte SIM-Karte oder lösche die alte eSIM vom Gerät
 
-  2. Klicke **„Mobilfunk“**.
+  2. Öffne die **Apple Watch-App** auf deinem gekoppelten iPhone.
 
-  3. Klicke **„Mobilfunk konfigurieren“**.
+  3. Klicke **„Mobilfunk“**.
 
-  4. Gib deine **6-stellige ePIN** aus deinem „Mein WEtell-Bereich“ ein.
+  4. Klicke **„Mobilfunk konfigurieren“**.
 
-  5. Die eSIM wird nun innerhalb weniger Minuten aktiviert.
+  5. Gib deine **6-stellige ePIN** aus deinem „Mein WEtell-Bereich“ ein.
+
+  6. Die eSIM wird nun innerhalb weniger Minuten aktiviert.
 
 * Laptop / Windows
 
