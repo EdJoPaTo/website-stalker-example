@@ -38,24 +38,27 @@ Wie bestelle ich mehr Speicherplatz?
 
 2. Navigieren Sie zum Menüpunkt "**Produkte**" und wählen Sie den Server aus, für den Sie zusätzlichen Speicherplatz bestellen möchten.
 
-3. Klicken Sie auf den Tab "**Local Block Storage**". Dort können Sie die gewünschte Größe für Ihren Speicherplatz auswählen und den Bestellvorgang abschließen
+3. Klicken Sie auf den Tab "**Local Block Storage**". Dort können Sie die gewünschte Größe für Ihren Speicherplatz auswählen und den Bestellvorgang abschließen.
 
 Vorteile von Local Block Storage als Datenspeicher
 ----------
 
 **Kostengünstig**
+----------
 
 Wählen Sie ab 1 GB und bis zu insgesamt 8 TB Speicherbedarf, je nach Produkt **schon ab 0,01€ pro Monat**. So können neben kleinen Setups auch größere Data-Szenarien kostengünstig gesteuert werden.
 
 **Mehr Flexibilität**
+----------
 
 **Unabhängig von jeglicher Laufzeit** können Sie Ihre Speichererweiterung individuell konfigurieren. Das macht Sie unabhängig bei auftretenden Leistungsspitzen. Die gebuchte Speicherkapazität wird tagesbasiert abgerechnet.
 
 **Skalierbarkeit**
+----------
 
 Sollten Sie **kurz- oder längerfristig** auf **mehr Speicherkapazität** angewiesen sein, dann ist eine Skalierung bei Ihren Anwendungsfällen jederzeit möglich. Der individuelle Bedarf an erweiterbaren Speichermöglichkeiten macht Sie agiler - perfekt für jedes Start-up!
 
-**Hohe Performance**
+### **Hohe Performance** ###
 
 Die Sicherheit von hoher Performance ist auch mit der Hinzunahme von Local Block Storage zu jeder Zeit gewährt. Ihre Anwendungen laufen **ohne jegliche Performance-Verluste** bei mehr Speicherkapazität.
 
@@ -68,7 +71,7 @@ Anwendungsfälle mit Local Block Storage
 * **Skalierbare Datenbankinfrastruktur**
   Local Block Storage ermöglicht eine einfache Skalierung der Speicherkapazität von Datenbanken, um mit stetig wachsenden Datenvolumen umzugehen, ohne die [gesamte Datenbankarchitektur](https://www.netcup.com/de/ueber-netcup/netzwerk-infrastruktur) umgestalten zu müssen.
 
-* **Operation Systeme**
+* **Betriebssysteme**
   Wachsende Betriebssysteme benötigen einen höheren Speicheraufwand in deren Aufgaben, weshalb Local Block Storage als ideale Lösung zur Kapazitätserweiterung dient.
 
 * **Schnelle Bereitstellung von Ressourcen**
