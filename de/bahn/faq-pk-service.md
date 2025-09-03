@@ -5412,10 +5412,12 @@ Ihre digitale BahnBonus Karte finden Sie direkt in der BahnBonus App. Die digita
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bekomme-ich-meine-digitale-karte-in-der-bahnbonus-app-angezeigt-brauche-ich-trotzdem-noch-eine-plastikkarte)
 
- An wen wende ich mich bei Fragen zur BahnBonus App?
+ Wo finde ich Informationen zur BahnBonus App?
 ----------
 
-Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das Formular in der App. Ansonsten erreichen Sie uns unter 0302970 (Mo bis So von 08 bis 20 Uhr) oder per E-Mail an [app-support@deutschebahn.com](mailto:app-support@deutschebahn.com).
+Die App zum Vorteilsprogramm – alle wichtigen Informationen für Sie auf einen Blick:
+
+* [Mehr zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/an-wen-wende-ich-mich-bei-fragen-zur-bahnbonus-app)
 
