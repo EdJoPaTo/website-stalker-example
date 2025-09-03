@@ -155,9 +155,9 @@ warnorange  ###
 
  1 Farbe
 
-[alle Forstartikel entdecken](https://www.strauss.com/de/de/forst/)
+[alle Forstartikel entdecken](https://www.strauss.com/de/de/forst/?itemorigin=startseite_HW25)
 
-[alle Forstartikel entdecken](https://www.strauss.com/de/de/forst/)
+[alle Forstartikel entdecken](https://www.strauss.com/de/de/forst/?itemorigin=startseite_HW25)
 
 Frischer Wind für unsere Careware
 
