@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### berlin bei nacht ###
+### stuttgart ###
 
-### 30. - 31. August 2025 ###
+### 06.-07. september 2025 ###
 
-### 50 km ###
+### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/berlin)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/stuttgart)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -177,7 +177,7 @@ IN DEINER NÄHE!
 |      ERFURT      |12/07/2025|11/07/2026|
 | RUHRGEBIET B. N. |26/07/2025|25/07/2026|
 |  HAMBURG B. N.   |09/08/2025|08/08/2026|
-|   BERLIN B.N.    |30/08/2025|          |
+|   BERLIN B.N.    |30/08/2025|29/08/2026|
 |    STUTTGART     |06/09/2025|          |
 |       KÖLN       |20/09/2025|          |
 |     FREIBURG     |27/09/2025|          |
