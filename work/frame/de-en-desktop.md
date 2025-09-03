@@ -424,7 +424,7 @@ Simultaneously supports up to 4 displays
 
 Front Ports
 
-2x User-selectable Expansion Cards (USB 3.2) (Gen 2)
+2x User-selectable Expansion Cards (USB 3.2) (Gen 1 (configurable to Gen 2 in BIOS))
 
 Rear Ports
 
@@ -436,7 +436,7 @@ Rear Ports
 
 1x RJ45 - 5Gbit Ethernet
 
-2x USB-A - USB 3.2 Gen 1
+2x USB-A - USB 3.2 Gen 2
 
 1x 3.5mm Combo
 
