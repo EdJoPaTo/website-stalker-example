@@ -5,6 +5,14 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
+ **Service Update**
+
+We are currently experiencing a major outage with our Google provider, which is also affecting some of our cloud services.
+
+The provider has already been notified, and we are monitoring the situation closely.
+
+We will share further updates as soon as more details become available.
+
 **⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2**
 
 We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to ensure uninterrupted service and access to new features.
