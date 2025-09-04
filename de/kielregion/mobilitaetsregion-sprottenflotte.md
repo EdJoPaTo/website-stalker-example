@@ -60,19 +60,19 @@ Aktuelles zur SprottenFlotte
 
 MobilitätsRegionSprottenFlotte|04.09.2025
 
-### [Neue SprottenFlotte Station In Kronshagen](https://www.kielregion.de/neue-sprottenflotte-station-in-kronshagen/) ###
+### [Neue SprottenFlotte Station in Kronshagen](https://www.kielregion.de/neue-sprottenflotte-station-in-kronshagen/) ###
+
+[](https://www.kielregion.de/neue-sprottenflotte-stationen-in-laboe/)
+
+MobilitätsRegionSprottenFlotte|05.08.2025
+
+### [Neue SprottenFlotte Stationen in Laboe](https://www.kielregion.de/neue-sprottenflotte-stationen-in-laboe/) ###
 
 [](https://www.kielregion.de/neue-mobilitaetsstation-gruener-kranz-in-rendsburg-eroeffnet/)
 
 MobilitätsRegionDigitale MobilitätPressemitteilungenSprottenFlotte|28.03.2025
 
 ### [Neue Mobilitätsstation „Grüner Kranz" in Rendsburg eröffnet](https://www.kielregion.de/neue-mobilitaetsstation-gruener-kranz-in-rendsburg-eroeffnet/) ###
-
-[](https://www.kielregion.de/zwei-neue-sprottenflotte-stationen-an-der-kiellinie/)
-
-MobilitätsRegionSprottenFlotte|05.12.2024
-
-### [Zwei neue SprottenFlotte-Stationen an der Kiellinie!](https://www.kielregion.de/zwei-neue-sprottenflotte-stationen-an-der-kiellinie/) ###
 
 Service & Support:
 \+49 (0) 30 255 58 56 17

@@ -7064,6 +7064,83 @@ Stellen Sie sicher, dass keine laufenden Verträge das Löschen verhindern.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/apps-dienste-teilen-beenden)
 
+ Was ist ein Passkey?
+----------
+
+Ein Passkey ist eine moderne und sichere Anmeldemethode. Sie ersetzt das Passwort. Sie melden sich mit Ihrem Gerät, zum Beispiel Smartphone oder Laptop, in Ihrem DB Kundenkonto an. Dafür nutzen Sie biometrische Daten wie Fingerabdruck oder Gesichtserkennung. Alternativ können Sie auch eine PIN verwenden
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-ein-passkey)
+
+ Was ist der Vorteil von Passkeys?
+----------
+
+Mit Passkeys melden Sie sich einfach und sicher an. Sie nutzen Ihren Fingerabdruck, Ihre Gesichtserkennung oder Ihre Geräte-PIN statt eines Passworts. Geht ein Gerät verloren, bleibt Ihr DB Kundenkonto sicher und Sie können den Zugang wiederherstellen. Sie können sich auch weiterhin mit Ihrer E-Mail-Adresse und Ihrem Passwort anmelden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-vorteil-von-passkey)
+
+ Auf welchen Geräten kann ich Passkeys nutzen?
+----------
+
+Sie können Passkeys auf Geräten mit aktuellen Versionen der meisten Browser verwenden: Chrome, Safari, Edge und Firefox. Passkeys werden unterstützt von iOS, MacOS, Android und Windows.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welchen-geraeten-nutzen)
+
+ Wie richte ich einen Passkey ein?
+----------
+
+* Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihrem DB Kundenkonto an.
+* Öffnen Sie im Account Manager den Bereich "Login & Sicherheit".
+* Wählen Sie unter "Alternative Login-Methoden" die Option, einen Passkey für Ihr Gerät hinzuzufügen.
+
+Ihr Gerät führt Sie durch die weiteren Schritte zur Einrichtung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-richte-ich-passkey-ein)
+
+ Wie melde ich mich mit einem Passkey an?
+----------
+
+* Wählen Sie beim Login "Login mit Passkey" aus.
+* Bestätigen Sie die Anmeldung auf Ihrem Gerät - zum Beispiel per Fingerabdruck, Gesichtserkennung oder PIN.
+* Sie sind eingeloggt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-mit-passkey-an)
+
+ Kann ich Passkeys in meinem Passwortmanager speichern?
+----------
+
+Ja. Viele moderne Passwortmanager unterstützen Passkeys und synchronisieren sie zwischen Ihren Geräten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/passkey-im-passwortmanager-speichern)
+
+ Kann ich mich weiterhin mit meiner E-Mail-Adresse und meinem Passwort anmelden?
+----------
+
+Ja. Sie können sich jederzeit mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihr DB Kundenkonto einloggen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anmeldung-e-mail-adresse-und-passwort)
+
+ Wie kann ich meinen Passkey löschen oder zurücksetzen?
+----------
+
+Sie können Passkeys in Ihrem DB Kundenkonto im Account Manager unter "Login & Sicherheit" für jedes Gerät verwalten und löschen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-passskey-loeschen-zuruecksetzen)
+
+ Was tun, wenn die Anmeldung mit Passkey nicht funktioniert?
+----------
+
+* Prüfen Sie, ob Ihr Gerät und Ihr Browser Passkeys unterstützen und ob Sie mit Ihrer Cloud verbunden sind.
+* Wenn das nicht klappt, können Sie sich wie gewohnt mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihr DB Kundenkonto einloggen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-tun-wenn-anmeldung-nicht-funktioniert)
+
+ Was passiert mit meinen Passkey, wenn mein Gerät verloren geht oder gestohlen wird?
+----------
+
+Wenn Sie Ihre Geräte mit Ihrer Cloud synchronisieren, haben Sie weiterhin Zugriff auf Ihre Passkeys. Sie können verlorene Geräte jederzeit im Account Manager unter "Login & Sicherheit" aus Ihrem DB Kundenkonto entfernen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-tun-wenn-passkey-geraet-verloren-gestohlen)
+
  Der Komfort Check-in ist nicht verfügbar. Woran kann das liegen?
 ----------
 
