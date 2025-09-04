@@ -68,11 +68,11 @@ MobilitätsRegionSprottenFlotte|05.08.2025
 
 ### [Neue SprottenFlotte Stationen in Laboe](https://www.kielregion.de/neue-sprottenflotte-stationen-in-laboe/) ###
 
-[](https://www.kielregion.de/neue-mobilitaetsstation-gruener-kranz-in-rendsburg-eroeffnet/)
+[](https://www.kielregion.de/zusaetzliche-sprottenflotte-stationen-in-wellingdorf/)
 
-MobilitätsRegionDigitale MobilitätPressemitteilungenSprottenFlotte|28.03.2025
+MobilitätsRegionSprottenFlotte|25.07.2025
 
-### [Neue Mobilitätsstation „Grüner Kranz" in Rendsburg eröffnet](https://www.kielregion.de/neue-mobilitaetsstation-gruener-kranz-in-rendsburg-eroeffnet/) ###
+### [Zusätzliche SprottenFlotte Stationen in Wellingdorf](https://www.kielregion.de/zusaetzliche-sprottenflotte-stationen-in-wellingdorf/) ###
 
 Service & Support:
 \+49 (0) 30 255 58 56 17
