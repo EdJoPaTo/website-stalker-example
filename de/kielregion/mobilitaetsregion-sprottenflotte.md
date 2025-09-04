@@ -56,6 +56,12 @@ Bist du länger in der KielRegion zu Gast und brauchst ein Fahrrad? Dann schau d
 Aktuelles zur SprottenFlotte
 ----------
 
+[](https://www.kielregion.de/neue-sprottenflotte-station-in-kronshagen/)
+
+MobilitätsRegionSprottenFlotte|04.09.2025
+
+### [Neue SprottenFlotte Station In Kronshagen](https://www.kielregion.de/neue-sprottenflotte-station-in-kronshagen/) ###
+
 [](https://www.kielregion.de/neue-mobilitaetsstation-gruener-kranz-in-rendsburg-eroeffnet/)
 
 MobilitätsRegionDigitale MobilitätPressemitteilungenSprottenFlotte|28.03.2025
@@ -67,12 +73,6 @@ MobilitätsRegionDigitale MobilitätPressemitteilungenSprottenFlotte|28.03.2025
 MobilitätsRegionSprottenFlotte|05.12.2024
 
 ### [Zwei neue SprottenFlotte-Stationen an der Kiellinie!](https://www.kielregion.de/zwei-neue-sprottenflotte-stationen-an-der-kiellinie/) ###
-
-[](https://www.kielregion.de/sprottenflotte-als-projektpartner-deutscher-mobilitaetspreis-fuer-smile24/)
-
-KielRegionMobilitätsRegionSprottenFlotte|11.11.2024
-
-### [SprottenFlotte als Projektpartner: Deutscher Mobilitätspreis für SMILE24](https://www.kielregion.de/sprottenflotte-als-projektpartner-deutscher-mobilitaetspreis-fuer-smile24/) ###
 
 Service & Support:
 \+49 (0) 30 255 58 56 17
