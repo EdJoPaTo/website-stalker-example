@@ -94,7 +94,12 @@ Menü [](https://www.wetell.de/)
   Mein WEtell
   * [Login](https://mein.wetell.de/)
 
-Bock auf mehr?
+* [](https://www.instagram.com/wetell.mobilfunk/)
+* [](https://www.facebook.com/WEtell-156996021903053)
+* [](https://www.linkedin.com/company/wetell/)
+* [](https://digitalcourage.social/@wetell)
+
+Bock auf News?
 ----------
 
 Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).
@@ -104,11 +109,6 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * Privatsphären-Einstellungen
 
 [info@wetell.de](mailto:info@wetell.de)
-
-* [](https://www.instagram.com/wetell.mobilfunk/)
-* [](https://www.facebook.com/WEtell-156996021903053)
-* [](https://www.linkedin.com/company/wetell/)
-* [](https://digitalcourage.social/@wetell)
 
 Funktastisch!
 
@@ -359,7 +359,7 @@ Vernetzt, geprüft, ausgezeichnet
 
 [](https://audit.econgood.org/firmen-label/?qrfkey=2z9z2) [](https://www.bnw-bundesverband.de/) [](https://www.send-ev.de/netzwerk/regionalgruppen/baden-wuerttemberg/) [](https://www.send-ev.de/netzwerk/regionalgruppen/baden-wuerttemberg/)
 
-Bock auf mehr?
+Bock auf News?
 ----------
 
 Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Datenschutzerklärung zur Newsletteranmeldung](https://www.wetell.de/datenschutzerklaerung/#agb_newsletter).

@@ -36,7 +36,7 @@ Bei uns steht Selbstbestimmtheit an erster Stelle. Als Unternehmen in Verantwort
 
   Der Übergang ins Verantwortungseigentum war für uns alle ein so großer, wichtiger und wundervoller Schritt, dass wir ihn gebührend gefeiert haben. Da wir damit vor allem unsere Werteorientierung langfristig sichern, haben wir eine verrückt-romantische Hochzeit gefeiert. Mit dem Motto: WEtell heiratet seine Werte!
 
-  <iframe src="https://player.vimeo.com/video/1033916438" width="1280" height="720" frameborder="0" allowfullscreen=""></iframe>
+  <iframe title="Video" src="https://player.vimeo.com/video/1033916438" width="1280" height="720" frameborder="0" allowfullscreen=""></iframe>
 
 Lobby in gut
 ----------
