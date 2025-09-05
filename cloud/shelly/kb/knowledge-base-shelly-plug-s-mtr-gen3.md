@@ -64,7 +64,7 @@ Use cases
   Example: Iron, smaller ovens, heating electrical radiators
 
 * **Avoid energy waste by automating your electrical appliances:**
-  Automate appliances in the office that are not used at night or over the weekend by simply adding Shelly Plug S MTR Gen3. Now, you can set smart schedules that will turn off the power to all unused electrical appliances between 7:00 PM and 7:00 AM during the weekdays and between 7:00 PM on Friday and 7:00 AM on Monday. That way, you will cut the energy consumption of these devices in half, which will result in significant optimiсation of the monthly energy cost.
+  Automate appliances in the office that are not used at night or over the weekend by simply adding Shelly Plug S MTR Gen3. Now, you can set smart schedules that will turn off the power to all unused electrical appliances between 7:00 PM and 7:00 AM during the weekdays and between 7:00 PM on Friday and 7:00 AM on Monday. That way, you will cut the energy consumption of these devices in half, which will result in significant optimization of the monthly energy cost.
   Example: Using schedules, automate smaller ovens, heating electrical radiators, IR heaters
 
 * **Air purifier that follows the air conditions:**
