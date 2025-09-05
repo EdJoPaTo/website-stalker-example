@@ -5,6 +5,16 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
+**⚠️ Notification: Bank Holiday 08.09**
+
+Please be informed that due to the upcoming Bank Holiday, our support team will be working with reduced capacity.
+
+While we will make every effort to address your inquiries as soon as possible, please expect slower response times during this period.
+
+Rest assured, we remain committed to assisting you to the best of our ability.
+
+Thank you for your continued support and understanding.
+
 **⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2**
 
 We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to ensure uninterrupted service and access to new features.
