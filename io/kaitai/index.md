@@ -241,7 +241,7 @@ We're currently setting up an alternative repository to replace Bintray, which w
 The stable `kaitai-struct-compiler` versions are currently uploaded to [https://github.com/kaitai-io/kaitai\_struct\_compiler/releases](https://github.com/kaitai-io/kaitai_struct_compiler/releases) (see [box above](#bintray-sunset-callout)). Just download the `.deb` package and install it:
 
 ```
-curl -LO https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.10/kaitai-struct-compiler_0.10_all.deb
+curl -fsSLO https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.10/kaitai-struct-compiler_0.10_all.deb
 sudo apt-get install ./kaitai-struct-compiler_0.10_all.deb
 ```
 
@@ -269,7 +269,7 @@ Windows versions are available as an MSI format installer. If you want a portabl
 #### Requirements ####
 
 * Windows
-* a working [Java Runtime Environment](http://java.com/download/) installation
+* [Java](https://whichjdk.com/) (the latest LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
 
 "Universal" builds are downloadable as a .zip file that includes all the required .jar files bundled and launcher scripts for Linux / macOS / Windows systems. No installation required, one can just unpack and run it.
 
@@ -280,7 +280,7 @@ Windows versions are available as an MSI format installer. If you want a portabl
 #### Requirements ####
 
 * Linux / macOS / Windows system
-* a working [Java Runtime Environment](http://java.com/download/) installation
+* [Java](https://whichjdk.com/) (the latest LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
 
 If you prefer to build your tools from source, or just want to see how KS works, the easiest way to check out the whole project is to download the [main (umbrella) repository](https://github.com/kaitai-io/kaitai_struct) that already includes all other parts as submodules. Use:
 
@@ -299,7 +299,7 @@ Alternatively, one can check out individual sub-projects that consitute the Kait
 #### Requirements ####
 
 * [git](https://git-scm.com/)
-* [Java Runtime Environment](http://java.com/download/)
+* [Java](https://whichjdk.com/) (the latest LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
 * [sbt](http://www.scala-sbt.org/)
 * POSIX shell for test automation
 
