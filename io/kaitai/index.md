@@ -1,4 +1,4 @@
-0.10 [released 2022-07-08](/news/2022/07/08/kaitai-struct-v0.10-released.html)
+0.11 [released 2025-09-07](/news/2025/09/07/kaitai-struct-v0.11-released.html)
 
 [Download](#download)
 
@@ -241,8 +241,8 @@ We're currently setting up an alternative repository to replace Bintray, which w
 The stable `kaitai-struct-compiler` versions are currently uploaded to [https://github.com/kaitai-io/kaitai\_struct\_compiler/releases](https://github.com/kaitai-io/kaitai_struct_compiler/releases) (see [box above](#bintray-sunset-callout)). Just download the `.deb` package and install it:
 
 ```
-curl -fsSLO https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.10/kaitai-struct-compiler_0.10_all.deb
-sudo apt-get install ./kaitai-struct-compiler_0.10_all.deb
+curl -fsSLO https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.11/kaitai-struct-compiler_0.11_all.deb
+sudo apt-get install ./kaitai-struct-compiler_0.11_all.deb
 ```
 
 #### Requirements ####
@@ -262,7 +262,7 @@ brew install kaitai-struct-compiler
 
 Windows versions are available as an MSI format installer. If you want a portable version that requires no installation, download our universal .zip build instead.
 
-[Download](https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.10/kaitai-struct-compiler-0.10.msi) — stable v0.10, 7.7 MiB
+[Download](https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.11/kaitai-struct-compiler-0.11.msi) — stable v0.11, 8.5 MiB
 
 [Download](https://ci.appveyor.com/project/kaitai-io/kaitai-struct/build/artifacts) — latest development (unstable) build
 
@@ -273,7 +273,7 @@ Windows versions are available as an MSI format installer. If you want a portabl
 
 "Universal" builds are downloadable as a .zip file that includes all the required .jar files bundled and launcher scripts for Linux / macOS / Windows systems. No installation required, one can just unpack and run it.
 
-[Download](https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.10/kaitai-struct-compiler-0.10.zip) — stable v0.10, 7.4 MiB
+[Download](https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.11/kaitai-struct-compiler-0.11.zip) — stable v0.11, 8.2 MiB
 
 [Download](#0) — ~~latest development (unstable) build~~ — currently not available (see [box above](#bintray-sunset-callout))
 
