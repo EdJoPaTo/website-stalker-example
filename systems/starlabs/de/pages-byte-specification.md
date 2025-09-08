@@ -118,7 +118,7 @@ Back
 8111H)
  Ethernet 2: 2500 Mbps (Realtek 8125BG)
  DC Input: 19V 4.42A 5.5mm
- Minimum Wattage: 84W
+ Minimum Wattage: 65W
 
  Wireless
 
@@ -143,7 +143,7 @@ Back
 
  Power
 
- 84W DC Power Adapter
+ 65W DC Power Adapter
 
  Technology: Fixed Voltage
  DC Input: 19V 4.42A 5.5mm
@@ -178,7 +178,9 @@ pounds)
 What's in the Box
 
  Byte
- 84W DC Power Adapter
+ 65W DC Power Adapter
+
+ VESA Mounting Kit
 
  Quick Start Guide
 

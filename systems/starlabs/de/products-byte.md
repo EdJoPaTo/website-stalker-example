@@ -66,7 +66,8 @@ StarPort 12-port USB-C PD Hub
 Includes:
 
  Byte
-84W DC Power Adapter
+65W DC Power Adapter
+VESA Mounting Kit
 
  duties and taxes
 
