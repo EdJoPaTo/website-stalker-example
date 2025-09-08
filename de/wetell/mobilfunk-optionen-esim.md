@@ -24,7 +24,7 @@ Die Info dazu findest du auf der Seite deines Smartphoneherstellers und [weiter
 
 **Stolperfalle Nr. 2: OneNumber/ MultiSIM**
 Du willst die eSIM, um deine Handynummer und dein Datenvolumen zusätzlich auf Smartwatch, Tablet oder Laptop zu nutzen?
-Das ist möglich, jedoch musst du dafür auch eine OneNumber Aktivierung anfragen. Was das genau bedeutet und welche Kosten dafür anfallen, erfährst du auf unserer [Infoseite](/mobilfunk/zusatzoptionen/onenumber).
+Das ist möglich, jedoch musst du dafür auch eine OneNumber Aktivierung anfragen. Was das genau bedeutet und welche Kosten dafür anfallen, erfährst du auf unserer [Infoseite](/mobilfunk/optionen/onenumber).
 
 eSIM bestellen
 ----------
