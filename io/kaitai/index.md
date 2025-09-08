@@ -23,6 +23,7 @@ A new way to develop parsers for binary structures.
 * PHP
 * Python
 * Ruby
+* Rust
 
  entry-level support
 
@@ -139,6 +140,7 @@ This `.ksy` file can be compiled into `gif.cpp` / `Gif.cs` / `gif.go` / `Gif.jav
 * [PHP](#example-php)
 * [Python](#example-python)
 * [Ruby](#example-ruby)
+* [Rust](#example-rust)
 
 ```
 std::ifstream ifs("path/to/some.gif", std::ifstream::binary);
@@ -219,6 +221,16 @@ g = Gif.from_file("path/to/some.gif")
 
 puts "width = #{g.logical_screen.image_width}"
 puts "height = #{g.logical_screen.image_height}"
+```
+
+```
+let bytes = fs::read("path/to/some.gif").unwrap();
+let io = BytesReader::from(bytes);
+let g: OptRc<Gif> = Gif::read_into(&io, None, None).unwrap();
+
+println!("width = {}", *g.logical_screen().image_width());
+println!("height = {}", *g.logical_screen().image_height());
+
 ```
 
  Of course, this example shows only a very limited subset of what Kaitai Struct can do. Please refer to the [documentation](//doc.kaitai.io/) for more insights.
@@ -321,7 +333,7 @@ Kaitai Struct is free and open-source software, licensed under the following ter
   * [PHP](https://github.com/kaitai-io/kaitai_struct_php_runtime) — MIT
   * [Python](https://github.com/kaitai-io/kaitai_struct_python_runtime) — MIT
   * [Ruby](https://github.com/kaitai-io/kaitai_struct_ruby_runtime) — MIT
-  * [Rust](https://github.com/kaitai-io/kaitai_struct_rust_runtime)  — MIT
+  * [Rust](https://github.com/kaitai-io/kaitai_struct_rust_runtime) — MIT
   * [Swift](https://github.com/kaitai-io/kaitai_struct_swift_runtime)  — MIT
 
  work in progress
