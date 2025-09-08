@@ -3,11 +3,27 @@ netcup Deals
 
 Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
 
 * Alle (0) Flash Deals (0)
 
 Keine Deals in dieser Kategorie
+
+* ### Deal der Woche: Unschlagbare Specials warten auf dich ###
+
+  Sichere dir jede Woche ein exklusives Special – mit zusätzlichen Rabatten oder spannenden Extras.
+
+  Der Deal der Woche ist von Montag bis Freitag, 14:00 Uhr gültig – ausgenommen in den Wochen, in denen unsere monatlichen Aktionen stattfinden.
+
+* ### Monatliche Aktionen voller attraktiver Angebote ###
+
+  Einmal im Monat, jeweils am letzten Dienstag, erwarten dich unsere umfangreichen Monatsaktionen. Ab 10:00 Uhr kannst du aus einer großen Auswahl an Angeboten rund um Server, Webhosting und Domains wählen.
+
+* ### Flash Deals: Kurzzeit-Angebote, die sich lohnen ###
+
+  Im Laufe des Monats veröffentlichen wir immer wieder zeitlich begrenzte Blitzangebote.
+
+  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)- oder [Telegram-Kanal](https://t.me/netcupoffical), damit du keine dieser Schnäppchen verpasst.
 
 Bleibe auf dem Laufenden
 ----------
