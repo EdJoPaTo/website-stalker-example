@@ -7615,7 +7615,7 @@ You can check in at any seats that meet the following criteria:
  What do I have to bear in mind during Komfort Check-in if I have not purchased my reservation together with my ticket?
 ----------
 
-You can use the Komfort Check-in function even if you booked your reservation separately. To do this, tap "Use reservation" when entering the carriage and seat, and select the relevant reservation. In certain situations, you must first enter the reservation number (Res. no.) to load your reservation. You will find this number either in the confirmation e-mail or in the booking information (PDF).
+You can use the Komfort Check-in function even if you booked your reservation separately. To do this, click on "Use reservation" when entering the coach and seat number and select the appropriate reservation. In certain situations, you must first enter the reservation number (Res. no.) to load your reservation. You will find this number either in the confirmation e-mail or in the booking information (PDF).
 
 Note
 When using a separately booked reservation, please note that the number of passengers on the ticket determines the maximum number of people that can be checked in. This means that if you booked a ticket for one person and then reserved two seats, for example, you can only check in one person.
