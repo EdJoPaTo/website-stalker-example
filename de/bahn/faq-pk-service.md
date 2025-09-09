@@ -7163,11 +7163,12 @@ Mit dem Komfort Check-in der Deutschen Bahn können Sie sich selbst einchecken. 
 ----------
 
 Für den Komfort Check-in benötigen Sie grundsätzlich ein mobiles Endgerät, am besten die aktuelle Version der DB Navigator App und eine Check-in fähige Reise (u.a. gültiges Ticket, eingenommener Sitzplatz und freigeschaltete Zugverbindung).
+
 Details zu den Voraussetzungen können Sie der folgenden Aufstellung entnehmen.
 
 1) mobiles Endgerät mit einer Internetverbindung (z.B. ein Smartphone oder Laptop mit mobilem Datentarif)
 
-2) aktuelle Version des DB Navigators (alternativ Zugriff auf das ICE Portal oder die Website www.bahn.de/jetzt-einchecken
+2) aktuelle Version des DB Navigators - alternativ Zugriff auf das ICE Portal oder die Website [www.bahn.de/jetzt-einchecken](https://int.bahn.de/en/buchung/jetzt-einchecken)
 
 3) zugelassenes, digitales DB-Ticket (z.B. erkennbar am Komfort Check-in-Button im Reiseplan Ihrer Verbindung)
 
@@ -7207,7 +7208,7 @@ Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
 
 * Öffnen Sie in der DB Navigator App die Kategorie „Reisen“ und wählen Sie Ihr aktuelles Ticket (nicht die ggf. separat gebuchte Reservierung) aus.
 * Klicken Sie auf den Reiter „Reiseplan“ und weiter auf den Button „Komfort Check-in“ Ihrer aktuellen Verbindung.
-*  Bestätigen Sie Ihren Sitzplatz (mit Reservierung) oder geben diesen manuell ein (ohne Reservierung) und klicken Sie auf „jetzt einchecken“.
+* Bestätigen Sie Ihren Sitzplatz (mit Reservierung) oder geben diesen manuell ein (ohne Reservierung) und klicken Sie auf „jetzt einchecken“.
 
 **3) Bestätigung**
 
@@ -7215,7 +7216,7 @@ Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
 * Bei einem Sitzplatzwechsel nutzen Sie bitte den Button „Sitzplatz ändern“ im Reiseplan, um den sitzplatzgebundenen Check-in zu aktualisieren. Dadurch wird das Zugpersonal über Ihren neuen Sitzplatz informiert und Sie werden auch auf diesem in der Regel nicht mehr kontrolliert.
 
 Hinweis
-In bestimmten Fällen sind weiterhin Ticketkontrollen möglich (siehe Frage: Warum werde ich trotz Komfort Check-in vom Personal kontrolliert?)
+In bestimmten Fällen sind weiterhin Ticketkontrollen möglich (siehe Frage: [Warum werde ich trotz Komfort Check-in vom Personal kontrolliert?](https://www.bahn.de/faq/kontrolle-trotz-kci))
 
 **Tipps:**
 
@@ -7251,6 +7252,7 @@ Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten
 ----------
 
 Der Komfort Check-in ist grundsätzlich nur in Zügen der DB Fernverkehr AG und innerhalb Deutschlands gültig. Auf grenzüberschreitenden Reisen ins europäische Ausland ist der Komfort Check-in nur eingeschränkt verfügbar und Sie müssen mit einer Fahrkartenkontrolle rechnen.
+
 Ob Ihr Zug bzw. Reiseabschnitt für den Komfort Check-in freigeschaltet ist, erkennen Sie am Zusatz „Komfort Check-in verfügbar - wenn möglich bitte einchecken“ unter weitere Informationen im Reiseplan Ihrer Verbindung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-zuegen-und-strecken-ist-kci-nutzbar)
@@ -7288,7 +7290,8 @@ Setzen Sie sich nach dem Check-in um, ändern Sie bitte Ihre Sitzplatznummer üb
 
 Nach dem Komfort Check-in ändert sich der Text auf der Reservierungsanzeige automatisch in „Belegt bis …“. Die Aktualisierung der Anzeige erfolgt meist innerhalb weniger Sekunden und bleibt bis kurz vor dem Ausstiegshalt bestehen. Dies ist auch der Fall, wenn unser Zugbegleitpersonal Sie bei der Kontrolle eincheckt.
 
-Hinweis: Die Belegtanzeige ist nicht in allen Zügen verfügbar.
+Hinweis
+Die Belegtanzeige ist nicht in allen Zügen verfügbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/belegtanzeige-nutzen-mit-kci)
 
@@ -7296,8 +7299,9 @@ Hinweis: Die Belegtanzeige ist nicht in allen Zügen verfügbar.
 ----------
 
 Sie können sich grundsätzlich auf allen regulären und frei verfügbaren Plätzen einchecken, die sich nicht mit anderen Reservierungen überschneiden; als BahnBonus Statuskund:in mit Gold oder Platin auch im exklusiven Sitzplatzbereich. Details zu Check-in fähigen Sitzplätzen können Sie der folgenden Aufstellung entnehmen.
+
 Sie können sich auf allen Plätzen einchecken, die…
-• …frei sind, d.h. nicht durch andere Gäste oder einen Check-In belegt sind.
+• …frei sind, d.h. nicht durch andere Gäste oder einen Check-in belegt sind.
 • …reguläre Sitzplätze sind, d.h. keine Sondersitzplätze wie Schwerbehindertenplätze oder Plätze im Bistro/Bordrestaurant.
 • …sich im exklusiven BahnBonus Sitzplatzbereich befinden, sofern Sie BahnBonus Statuskund:in mit Level Gold oder Platin sind.
 • …mit „ggf. freigeben“ (Expressreservierungsplätze) gekennzeichnet sind, wenn Sie diese reserviert haben.
@@ -7311,7 +7315,7 @@ Sie können sich auf allen Plätzen einchecken, die…
 
 Der Komfort Check-in ist auch mit einer separat gebuchten Reservierung möglich. Klicken Sie hierfür bei der Wagen- und Sitzplatzeingabe auf „Reservierung verwenden“ und wählen die entsprechende Reservierung aus. In bestimmten Situationen müssen Sie durch die Eingabe der Reservierungsnummer (Res. Nr.) Ihre Reservierung erst laden. Sie finden diese Nummer entweder in der Bestätigungsemail oder den Reservierungsinfos (PDF).
 
-**Hinweis:**
+Hinweis
 Beachten Sie bei der Nutzung einer separat gebuchten Reservierung, dass die Anzahl der Reisenden auf dem Ticket, die maximal eincheckbaren Personen bestimmt. Das bedeutet, wenn Sie z.B. ein Ticket für eine Personen gebucht, aber nachträglich zwei Sitzplätze reserviert haben, kann nur ein Check-in durchgeführt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kci-nicht-zusammen-mit-reservierung-gekauft)
@@ -7342,12 +7346,18 @@ Entscheiden Sie sich, Ihre Fahrt auf einem nicht Check-in fähigen Platz fortzuf
 
 Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüllt sind (Siehe: „Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?“). Falls der Check-in weiterhin nicht verfügbar ist bzw. nicht funktioniert, kann dies verschiedene Ursachen haben. Mögliche Gründe für Probleme mit dem Check-in können Sie der folgenden Aufstellung entnehmen.
 
-* **Ticket nicht in der App:** Stellen Sie sicher, dass Ihr Ticket im DB Navigator geladen ist und es sich um ein digitales Ticket handelt. Ältere Tickets oder bestimmte Ticketarten sind möglicherweise nicht kompatibel. Versuchen Sie alternativ, den Check-in über das ICE Portal oder die Webseite www.bahn.de/jetzt-einchecken.
-* **Ticket geändert oder storniert:** Wenn Sie Ihr Ticket oder Ihre Reservierung geändert oder storniert haben, ist der Komfort Check-in nicht mehr möglich.
-* **Kein Internet:** Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut, wenn Sie wieder eine Verbindung haben.
-* **Platz nicht verfügbar:** Der Platz ist entweder reserviert, bereits von einem anderen Gast eingecheckt oder ein Sondersitzplatz. Prüfen Sie, ob ein anderer Platz verfügbar ist.
-* **Funktion (noch) nicht verfügbar:** Der Komfort Check-in ist für diesen Reiseabschnitt deaktiviert oder noch nicht freigeschaltet. Im letzteren Fall warten Sie einige Minuten vor einem erneuten Check-in Versuch.
-* **Bereits kontrolliert:** Wenn Ihr Ticket bereits geprüft wurde, ist der Komfort Check-in nicht mehr erforderlich.
+* **Ticket nicht in der App:**
+   Stellen Sie sicher, dass Ihr Ticket im DB Navigator geladen ist und es sich um ein digitales Ticket handelt. Ältere Tickets oder bestimmte Ticketarten sind möglicherweise nicht kompatibel. Versuchen Sie alternativ, den Check-in über das ICE Portal oder die Webseite www.bahn.de/jetzt-einchecken.
+* **Ticket geändert oder storniert:**
+   Wenn Sie Ihr Ticket oder Ihre Reservierung geändert oder storniert haben, ist der Komfort Check-in nicht mehr möglich.
+* **Kein Internet:**
+   Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut, wenn Sie wieder eine Verbindung haben.
+* **Platz nicht verfügbar:**
+   Der Platz ist entweder reserviert, bereits von einem anderen Gast eingecheckt oder ein Sondersitzplatz. Prüfen Sie, ob ein anderer Platz verfügbar ist.
+* **Funktion (noch) nicht verfügbar:**
+   Der Komfort Check-in ist für diesen Reiseabschnitt deaktiviert oder noch nicht freigeschaltet. Im letzteren Fall warten Sie einige Minuten vor einem erneuten Check-in Versuch.
+* **Bereits kontrolliert:**
+   Wenn Ihr Ticket bereits geprüft wurde, ist der Komfort Check-in nicht mehr erforderlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probleme-fehlermeldung-kci)
 
@@ -7356,9 +7366,12 @@ Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüll
 
 Trotz Komfort Check-in kann es vorkommen, dass das Zugpersonal weiterhin Ticketkontrollen durchführt, um die Gültigkeit und Richtigkeit der eingecheckten Daten zu überprüfen. Dies dient der zusätzlichen Sicherheit und der Qualitätssicherung. Mögliche Gründe für eine Kontrolle trotz Check-in können Sie der folgenden Aufstellung entnehmen.
 
-* Sie sitzen nicht auf dem eingecheckten Sitzplatz. Der Check-in ist an Ihren Sitzplatz gebunden. Wenn Sie sich im Gang, Bistro oder auf einem anderen Platz befinden, kann das Zugpersonal Ihren Check-in nicht erkennen. Falls Sie sich umgesetzt haben, ändern Sie Ihren Sitzplatz im Reiseplan der DB Navigator App über den Button „Sitzplatz ändern“.
-* Ihr Check-in ist noch nicht übertragen. Es kann einige Minuten dauern, bis Ihr Check-in auf dem Kontrollgerät sichtbar ist. Checken Sie sich daher möglichst direkt nach Einnahme eines freien oder von Ihnen reservierten Sitzplatzes ein.
-* Es handelt sich um eine Stichprobenkontrolle. Das Zugpersonal ist angehalten auch bei eingecheckten Fahrgästen gelegentlich Stichprobenkontrollen durchzuführen. Zur Überprüfung wählt das System hierfür zufällig eingecheckte Sitzplätze u.a. auf Basis des Tickettyps aus. Halten Sie daher Ihr Ticket, einen Lichtbildausweis und ggf. weitere Berechtigungsnachweise wie Ihre BahnCard bereit.
+* **Sie sitzen nicht auf dem eingecheckten Sitzplatz.**
+   Der Check-in ist an Ihren Sitzplatz gebunden. Wenn Sie sich im Gang, Bistro oder auf einem anderen Platz befinden, kann das Zugpersonal Ihren Check-in nicht erkennen. Falls Sie sich umgesetzt haben, ändern Sie Ihren Sitzplatz im Reiseplan der DB Navigator App über den Button „Sitzplatz ändern“.
+* **Ihr Check-in ist noch nicht übertragen.**
+   Es kann einige Minuten dauern, bis Ihr Check-in auf dem Kontrollgerät sichtbar ist. Checken Sie sich daher möglichst direkt nach Einnahme eines freien oder von Ihnen reservierten Sitzplatzes ein.
+* **Es handelt sich um eine Stichprobenkontrolle.**
+   Das Zugpersonal ist angehalten auch bei eingecheckten Fahrgästen gelegentlich Stichprobenkontrollen durchzuführen. Zur Überprüfung wählt das System hierfür zufällig eingecheckte Sitzplätze u.a. auf Basis des Tickettyps aus. Halten Sie daher Ihr Ticket, einen Lichtbildausweis und ggf. weitere Berechtigungsnachweise wie Ihre BahnCard bereit.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kontrolle-trotz-kci)
 
