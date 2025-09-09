@@ -7586,17 +7586,14 @@ Yes, you can also check in to an unoccupied, unreserved seat without a reservati
 
 Despite Komfort Check-in, the train crew may still carry out ticket inspections to make sure that the check-in data is valid and accurate. This provides additional security and quality assurance. Here are some reasons why your ticket may still be inspected despite Komfort Check-in.
 
-* You are not sitting in the checked-in seat.
+* **You are not sitting in the checked-in seat.**
+   Check-in is linked to your seat. If you are in the aisle, bistro or another seat, the train crew will not be able to recognise your check-in. If you have moved, change your seat in the itinerary in the DB Navigator app using the "Change seat" button.
 
-Check-in is linked to your seat. If you are in the aisle, bistro or another seat, the train crew will not be able to recognise your check-in. If you have moved, change your seat in the itinerary in the DB Navigator app using the "Change seat" button.
+* **Your check-in has not yet been transferred.**
+   It may take a few minutes before your check-in is visible on the inspection handset. Therefore, if possible, check in as soon as you have taken your reserved seat or one that is available.
 
-* Your check-in has not yet registered.
-
-It may take a few minutes before your check-in is visible on the inspection handset. Therefore, if possible, check in as soon as you have sat in your reserved seat or one that is available.
-
-* A random inspection.
-
-Train crews are also required to carry out occasional spot checks on passengers who have checked in. The system randomly selects checked-in seats based on factors like the ticket type. Therefore, please have your ticket, a photographic ID and, if necessary, other proof of authorisation such as your BahnCard ready.
+* **A random inspection.**
+   Train crews are also required to carry out occasional spot checks on passengers who have checked in. The system randomly selects checked-in seats based on factors like the ticket type. Therefore, please have your ticket, a photographic ID and, if necessary, other proof of authorisation such as your BahnCard ready.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/why-ticket-inspectation-despite-kci)
 
