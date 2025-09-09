@@ -7244,7 +7244,11 @@ Wir schalten den Komfort Check-in kurz vor Abfahrt des Zuges frei. Checken Sie s
  Kann ich mich auch ohne Reservierung einchecken?
 ----------
 
-Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken. Lesen Sie hierzu auch „Auf welchen Plätzen kann ich mich einchecken und was muss ich dabei beachten?"
+Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken.
+
+Lesen Sie hierzu auch
+
+* [Auf welchen Plätzen kann ich mich einchecken und was muss ich dabei beachten?](https://www.bahn.de/faq/auf-welchen-plaetzen-einchecken-kci)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-ohne-sitzplatzreservierung)
 
@@ -7336,7 +7340,7 @@ Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
  Wie verhalte ich mich bei Problemen mit dem Check-in, wenn z.B. der Check-in-Button nicht sichtbar ist oder eine Fehlermeldung angezeigt wird?
 ----------
 
-Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüllt sind (Siehe: „Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?“). Falls der Check-in weiterhin nicht verfügbar ist bzw. nicht funktioniert, kann dies verschiedene Ursachen haben. Mögliche Gründe für Probleme mit dem Check-in können Sie der folgenden Aufstellung entnehmen.
+Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüllt sind (Siehe: „[Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?](https://www.bahn.de/faq/voraussetzungen-kci)“). Falls der Check-in weiterhin nicht verfügbar ist bzw. nicht funktioniert, kann dies verschiedene Ursachen haben. Mögliche Gründe für Probleme mit dem Check-in können Sie der folgenden Aufstellung entnehmen.
 
 * **Ticket nicht in der App:**
    Stellen Sie sicher, dass Ihr Ticket im DB Navigator geladen ist und es sich um ein digitales Ticket handelt. Ältere Tickets oder bestimmte Ticketarten sind möglicherweise nicht kompatibel. Versuchen Sie alternativ, den Check-in über das ICE Portal oder die Webseite www.bahn.de/jetzt-einchecken.

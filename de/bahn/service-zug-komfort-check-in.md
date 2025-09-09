@@ -274,7 +274,11 @@ Wir schalten den Komfort Check-in kurz vor Abfahrt des Zuges frei. Checken Sie s
 
 ###  Kann ich mich auch ohne Reservierung einchecken?  ###
 
-Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken. Lesen Sie hierzu auch „Auf welchen Plätzen kann ich mich einchecken und was muss ich dabei beachten?"
+Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken.
+
+Lesen Sie hierzu auch
+
+* [Auf welchen Plätzen kann ich mich einchecken und was muss ich dabei beachten?](https://www.bahn.de/faq/auf-welchen-plaetzen-einchecken-kci)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-ohne-sitzplatzreservierung)
 
@@ -310,13 +314,13 @@ Sie können sich auf allen Plätzen einchecken, die…
 Der Komfort Check-in ist auch mit einer separat gebuchten Reservierung möglich. Klicken Sie hierfür bei der Wagen- und Sitzplatzeingabe auf „Reservierung verwenden“ und wählen die entsprechende Reservierung aus. In bestimmten Situationen müssen Sie durch die Eingabe der Reservierungsnummer (Res. Nr.) Ihre Reservierung erst laden. Sie finden diese Nummer entweder in der Bestätigungsemail oder den Reservierungsinfos (PDF).
 
 Hinweis
-Beachten Sie bei der Nutzung einer separat gebuchten Reservierung, dass die Anzahl der Reisenden auf dem Ticket, die maximal eincheckbaren Personen bestimmt. Das bedeutet, wenn Sie z.B. ein Ticket für eine Personen gebucht, aber nachträglich zwei Sitzplätze reserviert haben, kann nur ein Check-in durchgeführt werden.
+Beachten Sie bei der Nutzung einer separat gebuchten Reservierung, dass die Anzahl der Reisenden auf dem Ticket, die maximal eincheckbaren Personen bestimmt. Das bedeutet, wenn Sie z.B. ein Ticket für eine Person gebucht, aber nachträglich zwei Sitzplätze reserviert haben, kann nur ein Check-in durchgeführt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kci-nicht-zusammen-mit-reservierung-gekauft)
 
 ###  Wie verhalte ich mich bei Problemen mit dem Check-in, wenn z.B. der Check-in-Button nicht sichtbar ist oder eine Fehlermeldung angezeigt wird?  ###
 
-Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüllt sind (Siehe: „Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?“). Falls der Check-in weiterhin nicht verfügbar ist bzw. nicht funktioniert, kann dies verschiedene Ursachen haben. Mögliche Gründe für Probleme mit dem Check-in können Sie der folgenden Aufstellung entnehmen.
+Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüllt sind (Siehe: „[Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?](https://www.bahn.de/faq/voraussetzungen-kci)“). Falls der Check-in weiterhin nicht verfügbar ist bzw. nicht funktioniert, kann dies verschiedene Ursachen haben. Mögliche Gründe für Probleme mit dem Check-in können Sie der folgenden Aufstellung entnehmen.
 
 * **Ticket nicht in der App:**
    Stellen Sie sicher, dass Ihr Ticket im DB Navigator geladen ist und es sich um ein digitales Ticket handelt. Ältere Tickets oder bestimmte Ticketarten sind möglicherweise nicht kompatibel. Versuchen Sie alternativ, den Check-in über das ICE Portal oder die Webseite www.bahn.de/jetzt-einchecken.
