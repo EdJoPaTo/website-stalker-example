@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### stuttgart ###
+### Köln ###
 
-### 06.-07. september 2025 ###
+### 20. - 21. September 2025 ###
 
 ### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/stuttgart)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/köln)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -178,7 +178,7 @@ IN DEINER NÄHE!
 | RUHRGEBIET B. N. |26/07/2025|25/07/2026|
 |  HAMBURG B. N.   |09/08/2025|08/08/2026|
 |   BERLIN B.N.    |30/08/2025|29/08/2026|
-|    STUTTGART     |06/09/2025|          |
+|    STUTTGART     |06/09/2025|05/09/2026|
 |       KÖLN       |20/09/2025|          |
 |     FREIBURG     |27/09/2025|          |
 | FREIBURG (25KM)  |27/09/2025|          |
