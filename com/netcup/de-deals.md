@@ -200,7 +200,7 @@ Netcup ist bekannt für seine zuverlässigen Serverlösungen, die sowohl für Ei
 
 Wenn du nach flexiblen und leistungsstarken Serverlösungen suchst, solltest du die aktuellen Angebote von netcup für Virtual Private Server (VPS) und Root-Server nicht verpassen. Wir bieten dir regelmäßig attraktive Rabatte auf unsere VPS und Root-Server-Pakete, die es dir ermöglichen, Top-Leistung zu einem erschwinglichen Preis zu erhalten.
 
-Mit den regelmäßigen Angeboten erhaltest du diese leistungsstarken Server zu besonders günstigen Konditionen.
+Mit den regelmäßigen Angeboten erhältst du diese leistungsstarken Server zu besonders günstigen Konditionen.
 
 Günstiges Webhosting bei den netcup Deals
 ----------
@@ -227,7 +227,7 @@ Du liebst Schnäppchen? Dann haben wir eine gute Nachricht für dich! Bei netcup
 
 So bekommst du die neueste Technik für deine Online-Projekte günstiger, als zum regulären Preis. Neben den Sales-Events, wie Black-Friday, warten zahlreiche Deals auch während des Monats auf dich, wo du dir Schnäppchen zu Root-Servern, VPS, Webhostings und Domains sichern kannst.
 
-Folge für nähere Infos unseren Social Media Channels oder abonniere unseren Newsletter oder Whats App Kanal uns sei bei jeder necup Aktion als Erster beim Start.
+Für nähere Infos folge uns auf Social Media, abonniere unseren Newsletter oder unsere Messenger-Kanäle und bekomme bei jeder netcup Aktion als Erster die Infos zum Start.
 
 Dauerhaft gültige Angebote
 ----------

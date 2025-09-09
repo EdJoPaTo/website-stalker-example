@@ -349,27 +349,19 @@ Ob Ihr Zug bzw. Reiseabschnitt für den Komfort Check-in freigeschaltet ist, erk
 
 ###  Was muss ich beachten, wenn ich meinen Sitzplatz nach dem Check-in wechseln möchte?  ###
 
-Setzen Sie sich nach dem Check-in um, ändern Sie bitte Ihre Sitzplatznummer über den Button „Sitzplatz ändern“ in Ihrem aktuellen Reiseplan im DB Navigator. Ansonsten werden Sie ggf. vom Zugbegleiter regulär kontrolliert. Nach der Änderung wird Ihnen der neue Sitzplatz inklusive Wagennummer angezeigt. Sie können Ihren Sitzplatz einmalig je Check-in ändern.
+Setzen Sie sich nach dem Check-in um, ändern Sie bitte Ihre Sitzplatznummer über den Button „*Sitzplatz ändern*“ in Ihrem aktuellen Reiseplan im DB Navigator. Ansonsten werden Sie ggf. vom Zugbegleiter regulär kontrolliert. Nach der Änderung wird Ihnen der neue Sitzplatz inklusive Wagennummer angezeigt. Sie können Ihren Sitzplatz einmalig je Check-in ändern.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nach-erfolgtem-kci-sitzplatzwechsel)
 
 ###  Habe ich ein Anrecht auf einen Sitzplatz, auf den ich mich eingecheckt habe?  ###
 
-Der Anspruch auf einen Sitzplatz verhält sich mit Komfort Check-in ebenso wie ohne Komfort Check-in:
+Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
 
-**Anspruch mit Reservierung**: Anrecht hat der Gast, der die Reservierung besitzt, wenn er den Sitzplatz innerhalb von 15 Minuten nach Abfahrt einnimmt. Danach verfällt der Anspruch.
+* **Mit Reservierung**
+   Sie haben Anspruch auf Ihren reservierten Sitzplatz, wenn Sie ihn innerhalb von 15 Minuten nach Abfahrt einnehmen. Nach Ablauf dieser Zeit verfällt der Anspruch, und der Platz kann von anderen Reisenden genutzt werden.
 
-Nach diesen 15 Minuten kann der Sitzplatz, sofern dieser frei verfügbar ist und die Reservierung nicht in Anspruch genommen wurde, auch von anderen Gästen eingenommen und ein Check-in durchgeführt werden.
-
-**Anspruch ohne Reservierung:** Liegt für einen Sitzplatz keine Reservierung vor, haben Sie Anrecht auf einen Sitzplatz, wenn Sie als erstes auf dem freien Sitzplatz sitzen. Checken Sie sich bitte deshalb erst ein, wenn Sie Ihren Sitzplatz tatsächlich eingenommen haben.
-
-**Änderung des Sitzplatzes**
-
-Setzen Sie sich nach dem Check-in um, ändern Sie bitte Ihre Sitzplatznummer über den Button „Sitzplatz ändern“ im DB Navigator (Reiseplan). Nach der Änderung wird Ihnen der neue Sitzplatz inklusive Wagennummer im DB Navigator angezeigt. Sie können Ihren Sitzplatz einmalig je Check-in ändern.
-
-Setzen Sie sich doch um, ohne Ihren Sitzplatz zu ändern, werden die Zugbegleiter:innen Sie regulär kontrollieren und Sie auf Ihren neu gewählten Sitzplatz einchecken.
-
-Entscheiden Sie sich, Ihre Fahrt auf einem nicht Check-in fähigen Platz fortzuführen, wie z.B. im Bistro/Bordrestaurant, haben Sie die Möglichkeit sich durch die Zugbegleiter:innen auschecken zu lassen. Beim Check-out bleibt der Haken bei „eingecheckt“ in Ihrem Navigator trotzdem unverändert, obwohl der Check-in rückgängig gemacht wurde.
+* **Ohne Reservierung**
+   Liegt für einen Sitzplatz keine Reservierung vor, haben Sie Anrecht auf einen Sitzplatz, wenn Sie als erstes auf dem freien Sitzplatz sitzen. Checken Sie sich bitte deshalb erst ein, wenn Sie Ihren Sitzplatz tatsächlich eingenommen haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anspruch-auf-sitzplatz)
 
