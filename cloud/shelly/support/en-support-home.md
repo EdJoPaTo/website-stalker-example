@@ -7,7 +7,7 @@ Hi, how can we help you?
 
 **⚠️ New iOS App Update – Fix CarPlay & Button Issues ⚠️**
 
-Please update the iOS app to version **1.7.3** to fix issues with iOS 16 CarPlay and unresponsive buttons.
+Please update the iOS app to version **1.7.3** to fix issues with iOS 26 CarPlay and unresponsive buttons.
 
 **⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2⚠️**
 
