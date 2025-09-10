@@ -107,7 +107,7 @@ Wir bieten dir Service Level an, die die regulären Garantien zur Verfügbarkeit
 
 ### Weitere Angebote ###
 
-[Root-Server Generation 11](https://www.netcup.com/de/server/root-server)
+[Root-Server Generation 12](https://www.netcup.com/de/server/root-server)
 
 [Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
 

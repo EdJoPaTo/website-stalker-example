@@ -4,10 +4,10 @@ Root Server auf KVM-Basis
 
 * Vereint die Vorteile dedizierter und virtueller Server
 * Dedizierte Ressourcen (CPU und RAM)
-* Snapshots, Im- und Export von Images
 * 99,9% garantierte Mindestverfügbarkeit
+* Snapshots, Im- und Export von Images
 * Schnelles und sicheres Hardware-RAID
-* Enterprise Hardware von DELL und HPE
+* Neueste Marken-Hardware im Einsatz
 * Netzwerkkarte mit 2,5 Gbit/s und vieles mehr ...
 
 Root Server Angebote
@@ -16,9 +16,11 @@ Root Server Angebote
 Leistungsstarke Root Server mit CPU- und RAM-Ressourcen die **deinen Anwendungen exklusiv zur Verfügung stehen**.
 Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](https://www.netcup.com/de/server) schätzt, für den ist ein Root Server die beste Wahl.
 
-RS 1000 G11
+LAUNCH DEAL
 
-* AMD EPYC™ 9634
+RS 1000 G12
+
+* AMD EPYC™ 9645
 * 8 GB DDR5 RAM (ECC)
 * 4 dedizierte Kerne
 * 256 GB NVMe SSD
@@ -29,15 +31,15 @@ RS 1000 G11
 
 bereits ab monatlich
 
-8,24 €
+8,74 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m#rs-1000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m-nue)
 
-RS 2000 G11
+RS 2000 G12
 
-* AMD EPYC™ 9634
+* AMD EPYC™ 9645
 * 16 GB DDR5 RAM (ECC)
 * 8 dedizierte Kerne
 * 512 GB NVMe SSD
@@ -48,15 +50,15 @@ RS 2000 G11
 
 bereits ab monatlich
 
-14,19 €
+14,58 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m#rs-2000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g12-12m#rs-2000-g12-12m-nue)
 
-RS 4000 G11
+RS 4000 G12
 
-* AMD EPYC™ 9634
+* AMD EPYC™ 9645
 * 32 GB DDR5 RAM (ECC)
 * 12 dedizierte Kerne
 * 1 TB NVMe SSD
@@ -67,15 +69,15 @@ RS 4000 G11
 
 bereits ab monatlich
 
-26,55 €
+27,08 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m#rs-4000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-4000-g12-12m#rs-4000-g12-12m-nue)
 
-RS 8000 G11
+RS 8000 G12
 
-* AMD EPYC™ 9634
+* AMD EPYC™ 9645
 * 64 GB DDR5 RAM (ECC)
 * 16 dedizierte Kerne
 * 2 TB NVMe SSD
@@ -87,15 +89,15 @@ RS 8000 G11
 
 bereits ab monatlich
 
-47,62 €
+48,33 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m#rs-8000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-8000-g12-12m#rs-8000-g12-12m-nue)
 
-RS 12000 G11
+RS 12000 G12
 
-* AMD EPYC™ 9634
+* AMD EPYC™ 9645
 * 96 GB DDR5 RAM (ECC)
 * 20 dedizierte Kerne
 * 3 TB NVMe SSD
@@ -106,15 +108,15 @@ RS 12000 G11
 
 bereits ab monatlich
 
-68,91 €
+69,58 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-12000-g11-12m#rs-12000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-12000-g12-12m#rs-12000-g12-12m-nue)
 
-RS 16000 G11
+RS 16000 G12
 
-* AMD EPYC™ 9634
+* AMD EPYC™ 9645
 * 128 GB DDR5 RAM (ECC)
 * 24 dedizierte Kerne
 * 4 TB NVMe SSD
@@ -125,11 +127,18 @@ RS 16000 G11
 
 bereits ab monatlich
 
-90,76 €
+97,92 €
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-16000-g11-12m#rs-16000-g11-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-16000-g12-12m#rs-16000-g12-12m-nue)
+
+Mehr Power. Mehr Stabilität. Mehr Geschwindigkeit.
+----------
+
+Die neue Root-Server-Generation 12 ist da! Angetrieben von den neuesten AMD EPYC™ Prozessoren vereint sie top Geschwindigkeit, Effizienz und absolute Stabilität. Außerdem haben wir dir einen EPYC Deal vorbereitet: Sichere dir den RS 1000 G12 in Nürnberg mit 3 Monaten kostenlos – nur bis Freitag, 19.09. 14 Uhr!
+
+[Deal sichern](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m-nue)
 
 Root Server auf KVM-Basis
 ----------
@@ -143,35 +152,35 @@ Bestimme selbst, welches Betriebssystem und Managementsystem du auf deinem vServ
 Root Server Anwendungsfälle
 ----------
 
-* [RS 1000 G11](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m)
+* [RS 1000 G12](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m)
 
-  ### RS 1000 G11 ###
+  ### RS 1000 G12 ###
 
   Dieser Root Server eignet sich optimal als Einstiegslösung für Web- und Mail-Server, sowie leichte Datenbankanwendungen und bietet eine ausgewogene Leistung **für Einsteiger.**
 
   [zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m)
 
-* [RS 2000 G11](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m)
+* [RS 2000 G12](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m)
 
-  ### RS 2000 G11 ###
+  ### RS 2000 G12 ###
 
-  Mit erweiterten Ressourcen, einschließlich mehr RAM und einer größeren SSD, ist der RS 2000 G11 perfekt für **mittelgroße Web- und Mail-Server,** komplexe Webanwendungen und Applikations-Server geeignet.
+  Mit erweiterten Ressourcen, einschließlich mehr RAM und einer größeren SSD, ist der RS 2000 G12 perfekt für **mittelgroße Web- und Mail-Server,** komplexe Webanwendungen und Applikations-Server geeignet.
 
   [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m)
 
-* [RS 4000 G11](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m)
+* [RS 4000 G12](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m)
 
-  ### RS 4000 G11 ###
+  ### RS 4000 G12 ###
 
-  Der RS 4000 G11 bietet High-Performance für große Unternehmensplattformen, **umfangreiche Webanwendungen und datenintensive Szenarien.** Er eignet sich ideal als Datenbank-Server mit umfassenden Ressourcen.
+  Der RS 4000 G12 bietet High-Performance für große Unternehmensplattformen, **umfangreiche Webanwendungen und datenintensive Szenarien.** Er eignet sich ideal als Datenbank-Server mit umfassenden Ressourcen.
 
   [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m)
 
-* [RS 8000 G11](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m)
+* [RS 8000 G12](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m)
 
-  ### RS 8000 G11 ###
+  ### RS 8000 G12 ###
 
-  Für höchste Anforderungen an Leistung und Ressourcen ist der RS 8000 G11 mit beeindruckend 64GB RAM und 14 dedizierten Kernen sowie einer sehr großen SSD die ideale Wahl **für hochleistungsorientierte Applikations-Server, Web- und Mail-Server sowie umfangreiche Datenbanken.**
+  Für höchste Anforderungen an Leistung und Ressourcen ist der RS 8000 G12 mit beeindruckend 64GB RAM und 14 dedizierten Kernen sowie einer sehr großen SSD die ideale Wahl **für hochleistungsorientierte Applikations-Server, Web- und Mail-Server sowie umfangreiche Datenbanken.**
 
   [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m)
 
@@ -191,7 +200,7 @@ Wer sowohl die Vorteile dedizierter Server als auch virtualisierter Server schä
 Vorteile unserer Root Server-Angebote
 ----------
 
-Unsere Root Server vereinen die Vorteile **virtueller und dedizierter Server**. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9634 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM). Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie **einfach bedienbar**. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere [Jobs mit GPU-Unterstützung](https://www.netcup.com/de/server/vgpu) empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
+Unsere Root Server vereinen die Vorteile **virtueller und dedizierter Server**. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9645 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM). Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie **einfach bedienbar**. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere [Jobs mit GPU-Unterstützung](https://www.netcup.com/de/server/vgpu) empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
 
  Speichererweiterung für Root Server
 ----------
@@ -227,7 +236,7 @@ Die Begriffe dedizierter Server und Root-Server werden in der IT-Branche oft syn
 
 ### Wo ist der Standort meines Root-Servers? ###
 
-Bei netcup bieten wir Ihnen **Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) oder Amsterdam (Niederlande)** als Standort für deinen Root-Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) bzw. Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root-Server je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
+Bei netcup bieten wir Ihnen **Wien (Österreich), Nürnberg (Deutschland) oder Manassas (USA)** als Standort für deinen Root-Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE' bzw. 'MNZ' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg) bzw. Manassas (Manassas) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root-Server je nach freien Kapazitäten entweder in Wien oder Nürnberg gehostet wird.
 
 ### Was sind die Vorteile eines Root-Servers? ###
 
@@ -240,13 +249,52 @@ Insgesamt bietet die Verwendung eines Root-Servers die Flexibilität, Leistung u
 5. **Unabhängigkeit von Drittanbietern:** Mit einem eigenen Root-Server bist du nicht von Drittanbietern abhängig, um deine Internetinfrastruktur zu verwalten. Du hast die volle Kontrolle über deine Serverumgebung und bist nicht von den Richtlinien oder Einschränkungen anderer Unternehmen abhängig.
 6. **Entwicklungsfreiheit:** Für Entwickler bietet ein Root-Server maximale Freiheit bei der Entwicklung und Bereitstellung von Anwendungen. Du kannst verschiedene Programmiersprachen, Frameworks und Bibliotheken verwenden und die Serverumgebung nach Bedarf anpassen, um innovative Lösungen zu entwickeln.
 
+### Welche Besonderheiten bietet der Root Server G12? ###
+
+Die Root Server Generation 12 setzt auf modernste Hardware und State-of-the-Art Technologie. Damit sorgt sie für höchste Leistung und maximale Stabilität. So erhältst du eine zuverlässige und zukunftssichere Basis auch für anspruchsvolle Projekte.
+
+Im Überblick:
+
+* Aktuelle AMD EPYC™ 9645 CPU mit bis zu 3,7 GHz Taktfrequenz
+* DDR5 ECC RAM für maximale Datensicherheit und Geschwindigkeit
+* NVMe-SSD-Speicher für blitzschnelle Zugriffe
+* 2,5 Gbit/s Netzwerkkarte für schnelle und stabile Verbindungen
+
+Klicke auf der Tarif-Übersicht auf Details \>, um Eigenschaften zwischen den Tarifen zu vergleichen.
+
+### Kann ich meinen G11 Root Server auf G12 upgraden? ###
+
+Ein Upgrade von G11 auf G12 ist aufgrund des Wechsels auf neue Hardware nicht möglich. Du kannst bei Bedarf einen der neuen Tarife bestellen und entweder eine manuelle oder Tool-assistierte Migration deiner Daten vornehmen.
+
+### Sind Root Server vorheriger Generationen (z.B. G11 oder älter) weiterhin bestellbar? ###
+
+Je nach Verfügbarkeit älterer Hardware, bieten wir Root Server vorheriger Generationen z.B. im Rahmen von Aktionen oder zu besonderen Anlässen weiterhin an. Darüber hinaus sind nur die aktuellsten Tarife bestellbar.
+
+### Welche Vertragslaufzeiten sind für Root Server G12 verfügbar? ###
+
+Wir bieten dir wie gewohnt volle Flexibilität. Wähle zwischen einer Mindestvertragslaufzeit von **einem** oder **zwölf Monaten**. Bei einer Vertragslaufzeit von **zwölf Monaten sparst du pro Monat 20%** im Vergleich zur monatlichen Abrechnungsvariante.
+
+### Kann ich zwischen unterschiedlichen Root Server-Varianten wechseln, wenn mein Projekt wächst? ###
+
+Ja, ein Wechsel innerhalb derselben Produktgeneration (z. B. von einem RS 2000 G12 zu einem RS 4000 G12) ist möglich und kann bequem im Customer Control Panel (CCP) durchgeführt werden. Ein Wechsel zwischen verschiedenen Generationen (z. B. G11 zu G11) oder zwischen verschiedenen Produktarten (z. B. VPS zu Root-Server) ist aus technischen und vertraglichen Gründen nicht möglich.
+
+Bitte beachte außerdem, dass ein Tarifupgrade nur zu größeren Tarifen oder Tarifen mit längeren Mindestvertragslaufzeiten möglich ist. [Hier findest du weitere Informationen.](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade)
+
+### Sind die Root Server G12 gegen DDoS-Angriffe geschützt? ###
+
+Ja! Ein Schutz vor DDoS-Angriffen ist in allen Tarifen ohne Aufpreis inkludiert und gehört für uns zum Standard.
+
+### Gilt beim Launch Deal und allen anderen Tarifen die Zufriedenheitsgarantie? ###
+
+Wir legen großen Wert darauf, dass du mit unserem Angebot zufrieden bist - deswegen bieten wir die Zufriedenheitsgarantie wie gewohnt für 30 Tage ab Bestellung auf alle Root Server G12 Tarife an.
+
 ### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ###
 
-Weitere Antworten findest du im [Root-Server G11 FAQ-Bereich](https://helpcenter.netcup.com/de/faq#root-server-g11) in unserem Help Center.
+Weitere Antworten findest du im [FAQ-Bereich.](https://helpcenter.netcup.com/de/faq#server)
 
 ### Weitere Angebote ###
 
-[Root-Server Generation 11](https://www.netcup.com/de/server/root-server)
+[Root-Server Generation 12](https://www.netcup.com/de/server/root-server)
 
 [Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
 
