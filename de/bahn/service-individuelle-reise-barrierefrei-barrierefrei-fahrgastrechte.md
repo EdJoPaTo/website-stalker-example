@@ -54,6 +54,24 @@ Für kostenfrei Reisende mit Schwerbehindertenausweis gelten die gleichen Regeln
 
 Verursacht das Eisenbahnunternehmen den Verlust oder die Beschädigung von für die Beförderung zugelassenen Mobilitätshilfen, einschließlich Rollstühlen und Hilfsmitteln oder den Verlust oder die Verletzung von Assistenzhunden, ist Schadensersatz zu leisten.
 
+###  Wie können Sie Ihre Fahrgastrechte geltend machen?  ###
+
+#### Bitte gehen Sie wie folgt vor ####
+
+Um Ihre Fahrgastrechte geltend zu machen, stehen Ihnen verschiedene Wege zur Verfügung.
+
+Sie können das barrierefreie Fahrgastrechte-Formular ausfüllen und uns per Post zusenden. Das Formular finden Sie unter folgendem Link: <https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print>
+
+Wenn Sie Ihr Ticket über Ihr Kundenkonto gekauft haben bzw. das Ticket oder die Zeitkarte im Kundenkonto hinterlegt ist, können Sie Ihre Fahrgastrechte direkt aus dem Kundenkonto heraus beantragen. Dazu wählen Sie in Ihrem Kundenkonto die Reise/Zeitkarte aus, für die Sie die Entschädigung beantragen wollen. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
+
+Für digital gekaufte Tickets, die nicht im Kundenkonto hinterlegt sind, können die Fahrgastrechte über die Auftragssuche auf bahn.de beantragt werden. Hierzu benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person. Zur Auftragssuche gelangen Sie über den folgenden Link: <https://www.bahn.de/buchung/meine-reisen>
+
+Eine weitere Option ist es, sich per E-Mail an die Mobilitätsservice-Zentrale (MSZ) zu wenden. Die Mitarbeitenden nehmen Ihr Anliegen auf und leiten es an die entsprechende Stelle weiter. Erforderlich ist hierfür die Angabe der vollständigen Adresse und/oder Ihrer Telefonnummer. Die E-Mail-Adresse der MSZ ist: [msz@deutschebahn.com](mailto:msz@deutschebahn.com)
+
+Unter der Telefonnummer 030 586020920 können Sie sich auch direkt an das Servicecenter Fahrgastrechte wenden.
+
+Alternativ können Sie die Unterlagen auch in einem DB Reisezentrum oder Ihrer Verkaufsstelle abgeben.
+
 ###  Worauf sollte ich achten, wenn ich meinen Antrag auf Fahrgastrechte geltend machen möchte? (hier klicken für Details)  ###
 
 #### Worauf sollte ich achten, wenn ich meinen Antrag auf Fahrgastrechte geltend machen möchte? ####

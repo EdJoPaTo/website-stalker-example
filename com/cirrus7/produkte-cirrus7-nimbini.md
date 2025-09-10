@@ -145,7 +145,7 @@ cirrus nimbini v4 - Pro Edition
 
   SATA Slot 1
 
-  * KeineSamsung 870 EVO 250GB (49,00 €)Samsung 870 EVO 500GB (69,00 €)Samsung 870 EVO 1TB (109,00 €)Samsung 870 EVO 2TB (189,00 €)Samsung 870 EVO 4TB (359,00 €)Samsung 870 QVO 1TB (99,00 €)Samsung 870 QVO 2TB (169,00 €)Samsung 870 QVO 4TB (319,00 €)Samsung 870 QVO 8TB (629,00 €)
+  * KeineSamsung 870 EVO 250GB (49,00 €)Samsung 870 EVO 500GB (69,00 €)Samsung 870 EVO 1TB (109,00 €)Samsung 870 EVO 2TB (189,00 €)Samsung 870 EVO 4TB (359,00 €)Samsung 870 QVO 1TB (99,00 €)Samsung 870 QVO 2TB (169,00 €)Samsung 870 QVO 4TB (319,00 €)Samsung 870 QVO 8TB (699,00 €)
 
   ##### VESA Wand- und Bildschirmhalterung #####
 
