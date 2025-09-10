@@ -4614,7 +4614,9 @@ Wählen Sie bei der Abfrage der Reiseverbindung auf der Website die Umsteigezeit
  Kann ich meine Fahrradkarte stornieren?
 ----------
 
-Sie können Fahrradkarten grundsätzlich bis einen Tag vor dem ersten Geltungstag kostenfrei umtauschen oder erstatten. Die Fahrradkarte ist nicht zuggebunden. Wenn Sie einen anderen Zug nutzen als ursprünglich gebucht, müssen Sie eine neue Stellplatzreservierung buchen.
+Ja, Sie können Fahrradkarten grundsätzlich bis einen Tag vor dem ersten Geltungstag kostenfrei umtauschen oder erstatten.
+
+Die Fahrradkarte ist nicht zuggebunden. Wenn Sie einen anderen Zug nutzen als ursprünglich gebucht, müssen Sie eine neue Stellplatzreservierung buchen.
 
 Wenn Sie die Fahrradkarte zusammen mit einer Fahrkarte für die reisende Person kaufen, gelten die Bedingungen der jeweiligen Fahrkarte (z. B. Storno, Zugbindung).
 
