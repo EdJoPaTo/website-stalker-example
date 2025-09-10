@@ -5,7 +5,11 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
-**⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2**
+**⚠️ New iOS App Update – Fix CarPlay & Button Issues ⚠️**
+
+Please update the iOS app to version **1.7.3** to fix issues with iOS 16 CarPlay and unresponsive buttons.
+
+**⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2⚠️**
 
 We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to ensure uninterrupted service and access to new features.
 
