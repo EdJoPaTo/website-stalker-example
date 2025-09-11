@@ -4616,11 +4616,16 @@ Wählen Sie bei der Abfrage der Reiseverbindung auf der Website die Umsteigezeit
 
 Ja, Sie können Fahrradkarten grundsätzlich bis einen Tag vor dem ersten Geltungstag kostenfrei umtauschen oder erstatten.
 
-Die Fahrradkarte ist nicht zuggebunden. Wenn Sie einen anderen Zug nutzen als ursprünglich gebucht, müssen Sie eine neue Stellplatzreservierung buchen.
-
-Wenn Sie die Fahrradkarte zusammen mit einer Fahrkarte für die reisende Person kaufen, gelten die Bedingungen der jeweiligen Fahrkarte (z. B. Storno, Zugbindung).
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/13kann-ich-meine-fahrradkarte-stornieren)
+
+ Kann ich mit meine Fahrradkarte einen anderen Zug nehmen?
+----------
+
+Ja, aber wenn Sie im Fernverkehr einen anderen Zug nutzen als ursprünglich gebucht, müssen Sie eine **neue Stellplatzreservierung** buchen.
+
+* [Informationen und Buchung der Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr-nur-sitzplatz)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/13kann-ich-mit-meiner-fahrradkarte-einen-anderen-zug-nehmen)
 
  Was muss ich bei der Mitnahme meines Pedelecs beachten?
 ----------
