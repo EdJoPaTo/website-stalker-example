@@ -36,11 +36,11 @@ Warn-App NINA herunterladen
 
 **Download**  zip, 28MB, Datei ist nicht barrierefrei
 
-[Herunterladen](/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.zip?__blob=publicationFile)
+[Herunterladen](/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.zip?__blob=publicationFile&v=14)
 
 Nicht bestellbar
 
-[](/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.zip?__blob=publicationFile)
+[](/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.zip?__blob=publicationFile&v=14)
 
 Anfragen zur Warn-App NINA über NINA HelpDesk
 ----------
