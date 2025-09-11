@@ -84,7 +84,7 @@ Nutzungsbestimmungen und Legitimationsprüfung
 ----------
 
 * [DB Lounge Nutzungsbestimmungen (PDF, 668 KB)](https://assets.static-bahn.de/dam/jcr:54681983-bb7e-49bd-b71f-0b9c9eea5fe2/DB%20Lounge%20Nutzungsbestimmungen_M%C3%A4rz%202023.pdf)
-* [Legitimationsprüfung - Das neue elektronische Lesegerät (PDF, 549 KB)](https://assets.static-bahn.de/dam/jcr:499787a0-2ae5-464a-94e0-9245c718bab5/Legitimationspr%C3%BCfung%20DB%20Lounges%20-%20Das%20elektronische%20Leseger%C3%A4t.pdf)
+* [Legitimationsprüfung DB Lounges - Das elektronische Lesegerät (PDF, 549 KB)Legitimationsprüfung DB Lounges - Das elektronische Lesegerät](https://assets.static-bahn.de/dam/jcr:5ef570ae-8896-493f-ae43-4a8a15ee6fac/Legitimationspr%C3%BCfung%20DB%20Lounges%20-%20Das%20elektronische%20Leseger%C3%A4t%20(5).pdf)
 
 DB Lounges
 ----------
