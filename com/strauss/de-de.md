@@ -73,6 +73,21 @@ perfekt fürs ganze Jahr
 *
 *
 
+###  Angebote
+des Monats  ###
+
+---
+
+Nur gültig bis 30.09.2025 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
+
+[Spare bis zu](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
+
+[\-54 %](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
+
+[](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
+
 Neue Herbst-Highlights für alle
 
 ----------
