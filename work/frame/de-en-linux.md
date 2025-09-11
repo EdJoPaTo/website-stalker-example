@@ -1,13 +1,13 @@
-Linux on the Framework Laptop
+Linux on the Framework Computer
 ==========
 
-We designed the Framework Laptop from the outset to be a great Linux laptop, and the [Framework Laptop DIY Edition](https://frame.work/laptop-diy-edition) comes with no OS loaded to let you bring your favorite Linux distribution. We deliberately selected components and modules that didn’t require new kernel driver development and have been providing distro maintainers with pre-release hardware to test to improve compatibility. We’re also working on enabling firmware updates through LVFS to complete the Linux experience.
+We designed Framework computers from the outset to be a great Linux experience, and [our DIY edition](/marketplace?search=DIY) comes with no OS loaded to let you bring your favorite Linux distribution. We deliberately selected components and modules that didn’t require new kernel driver development and have been providing distro maintainers with pre-release hardware to test to improve compatibility. We’re also working on enabling firmware updates through LVFS to complete the Linux experience.
 
 We and members of the [Framework Community Linux sub-forum](https://community.frame.work/c/framework-laptop/linux) have been testing a range of Linux distributions for compatibility with the Framework Laptop to highlight the ones that work best. If you don’t see the distro you’re looking for, check the Community for more guides. You can install these to your internal drive, run most of them from a Live USB, or even install them to our high speed Storage Expansion Cards.
 
 There are tradeoffs between different distributions, especially if you’re on the latest hardware. Some distributions like Fedora have aggressive kernel update policies, which means you’ll have the latest driver optimizations, but also greater risk that an update can cause regressions. Other distributions like Ubuntu LTS have more conservative update policies, and are more likely to remain stable as you perform updates.
 
-You can check out our **[Knowledgebase article](https://knowledgebase.frame.work/en_us/officially-supported-vs-compatible-linux-distributions-ByVPFgyTs)** for more information about our officially supported Linux distributions versus the compatible community supported distributions.
+You can check out our [**Knowledgebase article**](https://knowledgebase.frame.work/en_us/officially-supported-vs-compatible-linux-distributions-ByVPFgyTs) for more information about our officially supported Linux distributions versus the compatible community supported distributions.
 
 ### Framework Laptop 16 (AMD Ryzen™ AI 300 Series) compatibility ###
 
