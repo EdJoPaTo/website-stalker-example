@@ -321,6 +321,7 @@ zzgl. Versandkosten
   * [Bezahlen](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Katalog](https://www.strauss.com/de/de/Service/Katalog)
   * [Logoservice](https://www.strauss.com/de/de/Service/Logoservice)
+  * [E-Procurement](https://www.strauss.com/de/de/e-procurement)
   * [Newsletter](https://www.strauss.com/de/de/Service/Newsletter)
 
 * ### Unternehmen ###
