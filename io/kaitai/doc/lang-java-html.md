@@ -42,23 +42,23 @@ Runtime library
 ### Installation ###
 
 Generated code for Java relies on[Kaitai Struct runtime library for Java](https://github.com/kaitai-io/kaitai_struct_java_runtime). It is a small, MIT-licensed library, which
-is[published in Maven’s Central Repository](https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22kaitai-struct-runtime%22), so typically it’s enough to add the
+is[published in Maven Central Repository](https://central.sonatype.com/artifact/io.kaitai/kaitai-struct-runtime), so typically it’s enough to add the
 following to one’s `pom.xml`:
 
 ```
 <dependency>
     <groupId>io.kaitai</groupId>
     <artifactId>kaitai-struct-runtime</artifactId>
-    <version>0.10</version>
+    <version>0.11</version>
 </dependency>
 ```
 
 For other build tools, such as Ivy, SBT, Gradle, Leiningen, Buildr,
 etc, please consult Central Repository’s page for exact instructions.
 
-Alternatively, one can just copy whole source code to one’s project:
-the library is intentionally kept as only 2 .java files, so it should
-be easy enough as well.
+Alternatively, one can just copy whole source code to one’s project: the
+library is intentionally kept small and has no external dependencies, so
+it should be easy enough as well.
 
 ### API ###
 

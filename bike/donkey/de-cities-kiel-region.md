@@ -8,7 +8,7 @@ Erkunde die Region Kiel mit Donkey
 Die beste Art, sich in der Kiel Region fortzubewegen
 ----------
 
-Donkey Republic macht es einfach, sich in der Stadt fortzubewegen, egal ob du zur Arbeit pendelst, Freunde triffst oder auf Entdeckungsreise gehst. Mit nur wenigen Klicks in der App kannst du ein fahrrad freischalten und dich nach deinen eigenen Bedingungen fortbewegen.
+Donkey Republic macht es einfach, sich in der Stadt fortzubewegen, egal ob du zur Arbeit pendelst, Freunde triffst oder auf Entdeckungsreise gehst. Mit nur wenigen Klicks in der App kannst du ein Fahrrad freischalten und dich nach deinen eigenen Bedingungen fortbewegen.
 
 Benötigst du ein Fahrrad für 15 Minuten, einen ganzen Tag, eine Woche oder sogar eine monatliche Mitgliedschaft? Wir bieten flexible Optionen, die deinem Zeitplan entsprechen. Donkey Republic ist deine All-in-One-Mobilitätslösung — einfach, preiswert und genau dann verfügbar, wenn und wo du sie brauchst.
 
@@ -29,40 +29,39 @@ Flexible Preisgestaltung
 
 ### #2 - Entsperren und losfahren ###
 
-Entsperre das Fahrrad mit deinem Telefon und beginne deine Fahrt
-.
+Entsperre das Fahrrad mit deinem Telefon und beginne deine Fahrt.
 
 ### #3 - Parken und abschliessen ###
 
 Beende deine Fahrt, indem du das Fahrrad an einem Donkey Hub abschliesst, der in der App angezeigt wird.
 
-Unlock ultimate flexibility
+**Erlange die ultimative Flexibilität**
 ----------
 
-Check out the map on the left to explore all of the virtual hubs in your city, where you can find Donkey bikes. Want to browse more cities? See the list below.
+Schau dir die Karte auf der linken Seite an, um alle virtuellen Knotenpunkte in deiner Stadt zu erkunden, wo du Donkey Bikes finden kannst. Willst du in weiteren Städten stöbern? Sieh dir die Liste unten an.
 
-[See all the cities](/de/cities)
+[Alle Städte ansehen](/de/cities)
 
 Werde in wenigen Minuten zum Fahrradexperten
 
-Fahre wie die Einheimischen in Rotterdam
+Radeln wie die Einheimischen in Rotterdam
 ----------
 
 Einfacher App-Zugriff
 
-Vermeiden Sie es, Ihr Telefon beim Radfahren zu benutzen, um sich auf die Straße zu konzentrieren. Halten Sie an, wenn Sie den Weg überprüfen oder einen Anruf tätigen müssen.
+Vermeide es, dein Telefon beim Radfahren zu benutzen, damit du dich auf die Straße konzentrieren kannst. Halte an, wenn du den Weg überprüfst oder einen Anruftätigen musst.
 
 Breite Verfügbarkeit
 
-Schnappen Sie sich ein Donkey an Hunderten von Orten, wann und wann immer Sie es brauchen.
+Schnappe dir ein Donkey an Hunderten von Orten, sobald du es brauchst.
 
 Flexible Preisgestaltung
 
-Zahlen Sie pro Fahrt, Tag oder nutzen Sie das Abonnement unbegrenzt. Zahlen Sie nur für das, was Sie nutzen.
+Zahle pro Fahrt, Tag oder nutze das Abonnement unbegrenzt. Zahle nur für das, was du nutzt.
 
 Umweltfreundliches Reisen
 
-Lassen Sie das Auto aus und fahren Sie sauber. Donkey-Fahrräder sind eine nachhaltige Art, sich fortzubewegen.
+Lass das Auto stehen und fahre sauber. Donkey-Fahrräder sind eine nachhaltige Art, sich fortzubewegen
 
 Mobilität in der Stadt und im ländlichen Raum
 ----------
@@ -73,12 +72,12 @@ Wie leihe ich ein Fahrrad
 
 Verantwortungsvoll Fahrrad fahren
 
-Behandeln Sie das Fahrrad mit Sorgfalt und stellen Sie sicher, dass es für zukünftige Fahrer in einem guten Zustand bleibt und die örtlichen Radfahrregeln befolgt werden.
+Behandel das Fahrrad mit Sorgfalt und stelle sicher, dass es für zukünftige Fahrer in einem guten Zustand bleibt und die örtlichen Radfahrregeln befolgt werden.
 
 Folge den Regeln
 
-Halten Sie sich immer an die Verkehrsregeln, tragen Sie bei Bedarf einen Helm und achten Sie auf Fußgänger und andere Radfahrer.
+Halte dich stets an die Verkehrsregeln, trage bei Bedarf einen Helm und achte auf Fußgänger sowie andere Radfahrer.
 
 Sorgfältig parken
 
-Parken Sie Ihr Fahrrad an bestimmten rückgaben und stellen Sie sicher, dass es sicher ist und keine Wege oder Eingänge blockiert. (Siehe rückgaben in der App)
+Parke das Fahrrad an bestimmten Rückgabeorten und achte darauf, dass es sicher ist und keine Wege oder Eingänge blockiert. (Siehe Rückgaberichtlinien in der App)

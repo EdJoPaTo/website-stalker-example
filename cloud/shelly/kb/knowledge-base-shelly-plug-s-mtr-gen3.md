@@ -243,6 +243,16 @@ Specifications
 |             MQTT:              |                                          Yes                                           |
 |             CoAP:              |                                           No                                           |
 
+Shelly Smart Control
+----------
+
+* [Adding the device to the Shelly Smart Control](https://kb.shelly.cloud/knowledge-base/add-new-device)
+
+Shelly Web user interface
+----------
+
+* [Shelly Plug S Gen3 Web user interface guide](https://kb.shelly.cloud/knowledge-base/shelly-plug-s-gen3-web-interface-guide)
+
 Components and APIs
 ----------
 
