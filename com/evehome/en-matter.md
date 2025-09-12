@@ -86,7 +86,7 @@ Not available in your country
 
 [Eve Thermo](/en/eve-thermo)
 
- Smart Radiator Valve
+ 15%\* discount with code THERMO15
 
  Learn more
 
@@ -133,7 +133,7 @@ Not available in your country
 
 [Eve Thermo](/en/eve-thermo)
 
- Smart Radiator Valve
+ 15%\* discount with code THERMO15
 
 * Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
 * Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
@@ -784,7 +784,7 @@ Not available in your country
 
 [Eve Thermo](/en/eve-thermo)
 
- Smart Radiator Valve
+ 15%\* discount with code THERMO15
 
  Learn more
 
@@ -831,7 +831,7 @@ Not available in your country
 
 [Eve Thermo](/en/eve-thermo)
 
- Smart Radiator Valve
+ 15%\* discount with code THERMO15
 
 * Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
 * Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
