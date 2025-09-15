@@ -200,7 +200,7 @@ Wer sowohl die Vorteile dedizierter Server als auch virtualisierter Server schä
 Vorteile unserer Root Server-Angebote
 ----------
 
-Unsere Root Server vereinen die Vorteile **virtueller und dedizierter Server**. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9645 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM). Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie **einfach bedienbar**. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere [Jobs mit GPU-Unterstützung](https://www.netcup.com/de/server/vgpu) empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
+Unsere Root Server vereinen die Vorteile **virtueller und dedizierter Server**. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9645 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM). Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie **einfach bedienbar**. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere Jobs mit GPU-Unterstützung empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
 
  Speichererweiterung für Root Server
 ----------
