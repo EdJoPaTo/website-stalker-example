@@ -556,6 +556,7 @@ sites:
           pattern: \)\s*\[
           replace: ")\n["
   - url: https://shelly-api-docs.shelly.cloud/gen1/
+    accept_invalid_certs: true
     editors:
       - css_select: .content
       - css_remove: img
@@ -567,6 +568,7 @@ sites:
           pattern: ' *\\\*'
           replace: "*"
   - url: https://shelly-api-docs.shelly.cloud/gen2/changelog/
+    accept_invalid_certs: true
     editors:
       - css_select: main
       - css_remove: svg, button, .anchor .hash-link, .table-of-contents
