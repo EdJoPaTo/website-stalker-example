@@ -152,37 +152,37 @@ Bestimme selbst, welches Betriebssystem und Managementsystem du auf deinem vServ
 Root Server Anwendungsfälle
 ----------
 
-* [RS 1000 G12](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m)
+* [RS 1000 G12](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m)
 
   ### RS 1000 G12 ###
 
   Dieser Root Server eignet sich optimal als Einstiegslösung für Web- und Mail-Server, sowie leichte Datenbankanwendungen und bietet eine ausgewogene Leistung **für Einsteiger.**
 
-  [zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-1000-g11-12m)
+  [zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m)
 
-* [RS 2000 G12](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m)
+* [RS 2000 G12](https://www.netcup.com/de/server/root-server/rs-2000-g12-12m)
 
   ### RS 2000 G12 ###
 
   Mit erweiterten Ressourcen, einschließlich mehr RAM und einer größeren SSD, ist der RS 2000 G12 perfekt für **mittelgroße Web- und Mail-Server,** komplexe Webanwendungen und Applikations-Server geeignet.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-2000-g11-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-2000-g12-12m)
 
-* [RS 4000 G12](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m)
+* [RS 4000 G12](https://www.netcup.com/de/server/root-server/rs-4000-g12-12m)
 
   ### RS 4000 G12 ###
 
   Der RS 4000 G12 bietet High-Performance für große Unternehmensplattformen, **umfangreiche Webanwendungen und datenintensive Szenarien.** Er eignet sich ideal als Datenbank-Server mit umfassenden Ressourcen.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-4000-g11-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-4000-g12-12m)
 
-* [RS 8000 G12](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m)
+* [RS 8000 G12](https://www.netcup.com/de/server/root-server/rs-8000-g12-12m)
 
   ### RS 8000 G12 ###
 
-  Für höchste Anforderungen an Leistung und Ressourcen ist der RS 8000 G12 mit beeindruckend 64GB RAM und 14 dedizierten Kernen sowie einer sehr großen SSD die ideale Wahl **für hochleistungsorientierte Applikations-Server, Web- und Mail-Server sowie umfangreiche Datenbanken.**
+  Für höchste Anforderungen an Leistung und Ressourcen ist der RS 8000 G12 mit beeindruckend 64GB RAM und 16 dedizierten Kernen sowie einer sehr großen SSD die ideale Wahl **für hochleistungsorientierte Applikations-Server, Web- und Mail-Server sowie umfangreiche Datenbanken.**
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-8000-g11-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-8000-g12-12m)
 
 Dedizierter Server vs. Root Server
 ----------

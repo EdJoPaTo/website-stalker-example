@@ -2876,7 +2876,7 @@ Der Umtausch Digitaler Tickets ist nicht möglich. Sie können Ihre Tickets stor
  Muss ich bei der Kontrolle im Zug außer dem Ticket noch etwas vorzeigen?
 ----------
 
-Ja, Sie müssen ein offizielles Ausweisdokument vorzeigen.
+Ja, bei einem persönlichen Ticket, das auf Ihren Namen ausgestellt ist, müssen Sie ein offizielles Ausweisdokument vorzeigen.
 
 Zugelassene Ausweisdokumente:
 
