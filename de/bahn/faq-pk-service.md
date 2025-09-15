@@ -4623,8 +4623,6 @@ Ja, Sie können Fahrradkarten grundsätzlich bis einen Tag vor dem ersten Geltun
 
 Ja, aber wenn Sie im Fernverkehr einen anderen Zug nutzen als ursprünglich gebucht, müssen Sie eine **neue Stellplatzreservierung** buchen.
 
-* [Informationen und Buchung der Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr-nur-sitzplatz)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/13kann-ich-mit-meiner-fahrradkarte-einen-anderen-zug-nehmen)
 
  Was muss ich bei der Mitnahme meines Pedelecs beachten?

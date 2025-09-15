@@ -82,6 +82,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly 1 Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1-gen4-anz)
 * [Shelly 1PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4)
 * [Shelly 1PM Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4-anz)
+* [Shelly Power Strip Gen4](https://kb.shelly.cloud/knowledge-base/shelly-power-strip-gen4)
 * [Shelly 2PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen4)
 * [Shelly 2PM Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen4-anz)
 * [Shelly Flood Gen4](https://kb.shelly.cloud/knowledge-base/shelly-flood-gen4)
