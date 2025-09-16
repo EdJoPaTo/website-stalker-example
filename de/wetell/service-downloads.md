@@ -16,11 +16,11 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### Preislisten ####
 
-  * [Preisliste Ultrakurz](/media/filer_public/d8/b9/d8b98901-929f-40e1-b041-bb9e4e853d1a/preisliste_ultrakurz.pdf)
-  * [Preisliste Mikrofon](/media/filer_public/0c/90/0c907cbf-3f81-401f-ab1e-9a38f035c6d7/preisliste_mikrofon.pdf)
-  * [Preisliste Mittelwelle](/media/filer_public/68/1e/681ef48a-2788-4460-b343-5c737b7d7dc6/preisliste_mittelwelle.pdf)
-  * [Preisliste Megafon](/media/filer_public/96/28/96282646-d79c-4780-8252-855e514a1472/preisliste_megafon.pdf)
-  * [Preisliste Ueberschall](/media/filer_public/9a/fe/9afebfcd-5b69-47ae-bb8d-ae623d2edc35/preisliste_ueberschall.pdf)
+  * [Preisliste Ultrakurz](/media/filer_public/bb/50/bb505140-85d6-44a2-9015-919bffb3c9d0/preisliste_01_ultrakurz_2024-pdf.pdf)
+  * [Preisliste Mikrofon](/media/filer_public/ba/67/ba67a0fd-6c92-43bf-85b1-e4c88f3d33a6/preisliste_02_mikrofon_2024-12-pdf.pdf)
+  * [Preisliste Mittelwelle](/media/filer_public/de/14/de14f18b-d475-4d5e-ac4f-3aec6a8fe6f1/preisliste_03_mittelwelle_2024-12-pdf.pdf)
+  * [Preisliste Megafon](/media/filer_public/4a/f4/4af44ffc-c18a-4c86-8cce-a0d7c568d6ac/preisliste_04_megafon_2024-12-pdf.pdf)
+  * [Preisliste Ueberschall](/media/filer_public/71/b8/71b8f6bb-7d36-4b65-a5f9-a79e134ceb28/preisliste_05_ueberschall_2024-12-pdf.pdf)
   * [Preisliste GigaMobil Unlimited](/media/filer_public/a3/b3/a3b397fc-35fd-4353-a7c8-5f65674a38b7/preisliste_gigamobil_unlimited.pdf)
   * [Preisliste Sonderrufnummern](/media/filer_public/41/be/41bec59f-5359-45d1-a738-ec5d06afc939/preisliste_sonderrrufnummern.pdf)
   * [Preisliste Premium-SMS](/media/filer_public/b0/67/b067f2c0-b457-46e3-9b3f-94d1e40b0559/preisliste_premiumsms.pdf)
@@ -29,11 +29,11 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### Produktinformationsblätter ####
 
-  * [PIB Ultrakurz](/media/filer_public/d8/42/d8420008-e2f6-4260-93d5-386f5d3099f4/pib_ultrakurz.pdf)
-  * [PIB Mikrofon](/media/filer_public/58/9c/589c0c6e-928a-45f5-833c-591f41e6668a/pib_mikrofon.pdf)
-  * [PIB Mittelwelle](/media/filer_public/99/da/99dac356-aa4f-430e-a5e2-8fd727d0f9c9/pib_mittelwelle.pdf)
-  * [PIB Megafon](/media/filer_public/49/c2/49c2e709-a890-4f99-8569-dac33f010c57/pib_megafon.pdf)
-  * [PIB Ueberschall](/media/filer_public/cb/a8/cba8c752-c2f5-4a87-910d-2a66c7d53f5d/pib_ueberschall.pdf)
+  * [PIB Ultrakurz](/media/filer_public/f6/db/f6db9abc-8b9e-4e03-811c-257b9b543aeb/pib_01-ultrakurz_2024-12-pdf.pdf)
+  * [PIB Mikrofon](/media/filer_public/82/85/82856448-fe96-4e07-ac9c-19cf6f4b4c4a/pib_02-mikrofon_2024-12-pdf.pdf)
+  * [PIB Mittelwelle](/media/filer_public/5a/6c/5a6c5e0c-2013-429d-bdba-2bd8f15d5d69/pib_03-mittelwelle_2024-12-pdf.pdf)
+  * [PIB Megafon](/media/filer_public/12/ea/12eabb67-a286-4538-adca-a56204dcfc5c/pib_04-megafon_2024-12-pdf.pdf)
+  * [PIB Ueberschall](/media/filer_public/d9/45/d9451a11-9075-4bf0-aa73-c5cf22c56dc5/pib_05-ueberschall_2024-12-pdf.pdf)
 
 * #### Produktinformationsblätter – Archiv ####
 
