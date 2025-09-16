@@ -83,25 +83,25 @@ In der Regel dauert es zwischen wenigen Minuten und mehreren Stunden: wir halten
 Unterschiedliche Domain-Preise
 ----------
 
-Die Preise einer Domain werden durch verschiedene Faktoren beeinflusst. Eine der wichtigsten Faktoren ist die Beliebtheit der Domain-Endung wie .com, .net, .org, etc.
+Die **Preise** einer Domain werden durch verschiedene Faktoren beeinflusst. Eine der wichtigsten Faktoren ist die **Beliebtheit der Domain-Endung** wie .com, .net, .org, etc.
 
-Die Kosten für die Verwaltung der Domains sind je nach Registrierungsstelle unterschiedlich.
+Die **Kosten für die Verwaltung** der Domains sind je nach Registrierungsstelle **unterschiedlich**.
 
-Es gibt Top-Level-Domains, die auf bestimmte Zielgruppen ausgerichtet sind und aus diesem Grund einen höheren Preis haben. Bei Länderdomains bestimmen die Länder selbst welchen Preis die Registry für ihre Domains verlangt. Die Geschäftsmodelle der Registriers unterschreiden sich sehr stark. Manche sind gewinnorientiert und andere arbeiten lediglich kostendeckend.
+Es gibt Top-Level-Domains, die auf **bestimmte Zielgruppen ausgerichtet** sind und aus diesem Grund einen höheren Preis haben. Bei Länderdomains bestimmen die Länder selbst welchen Preis die Registry für ihre Domains verlangt. Die Geschäftsmodelle der Registriers unterscheiden sich sehr stark. Manche sind gewinnorientiert und andere arbeiten lediglich kostendeckend.
 
 Die Registry kann sich entscheiden, bestimmte Domains zu Premium Domains zu erklären. Der Preis dafür ist dann sehr viel höher als der reguläre Preis.
 
-Günstige Domains werden häufig durch zeitweise Marketingaktionen unterstützt. Je weniger bekannt eine Top-Level-Domain ist, desto größer sind die Vorbehalte einiger Internetnutzer, ob es sich bei der URL um eine vertrauenswürdige Quelle handelt.
+**Günstige Domains** werden häufig durch zeitweise [**Marketingaktionen unterstützt**](https://www.netcup.com/de/deals). Je weniger bekannt eine Top-Level-Domain ist, desto größer sind die Vorbehalte einiger Internetnutzer, ob es sich bei der URL um eine vertrauenswürdige Quelle handelt.
 
 Kostenlose Domains
 ----------
 
-Wir raten von kostenlosen Domains ab, da diese oft eine schlechtere Sichtbarkeit in Suchmaschinen haben und weniger vertrauenswürdig erscheinen. Außerdem hast du nie die volle Kontrolle über deine Domain, und kannst sie zum Teil nicht einfach auf einen anderen Provider übertragen. Wenn du eine professionelle Website erstellst, ist es wichtig eine eigene Domain zu besitzen. Es zahlt sich immer aus, eine bezahlte Internet-Domain zu erwerben und dadurch alle damit verbundenen Vorteile und Funktionen zu sichern.
+Wir raten von kostenlosen Domains ab, da diese oft eine **schlechtere Sichtbarkeit in Suchmaschinen** haben und **weniger vertrauenswürdig** erscheinen. Außerdem hast du **nie die volle Kontrolle** über deine Domain, und kannst sie zum Teil nicht einfach auf einen anderen Provider übertragen. Wenn du eine professionelle Website erstellst, ist es wichtig eine eigene Domain zu besitzen. Es zahlt sich immer aus, eine bezahlte Internet-Domain zu erwerben und dadurch alle damit verbundenen Vorteile und Funktionen zu sichern.
 
 Eigene Domain kaufen
 ----------
 
-Wenn du bereit bist, dir eine eigene Internet-Domain zu kaufen, kannst du dies schnell und einfach über unsere Website tun. Wenn du bereits ein Kunde bist, empfehlen wir dir deine Domain über das netcup Customer Control Panel zu bestellen. Bei vielen Registries wird die Bestellung dort in Echtzeit ausgeführt. Wir bieten eine große Auswahl an Domain-Endungen zu fairen Preisen, so dass du sicher eine eigene Domain finden kannst, die zu deinem Unternehmen oder deiner Marke passt. Wir freuen uns darauf, dich dadurch beim Aufbau deiner Online-Präsenz zu unterstützen.
+Wenn du bereit bist, dir eine eigene Internet-Domain zu kaufen, kannst du dies **schnell und einfach über unsere Website** tun. Wenn du bereits ein Kunde bist, empfehlen wir dir deine Domain über das netcup Customer Control Panel zu bestellen. Bei vielen Registries wird die Bestellung dort in Echtzeit ausgeführt. Wir bieten eine **große Auswahl an Domain-Endungen zu fairen Preisen**, so dass du sicher eine eigene Domain finden kannst, die zu deinem Unternehmen oder deiner Marke passt. Wir freuen uns darauf, dich dadurch beim Aufbau deiner Online-Präsenz zu unterstützen.
 
 Domain kaufen - FAQ
 ----------
