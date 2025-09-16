@@ -19,15 +19,15 @@ Diese Ansprüche haben Sie im Rahmen Ihrer Fahrgastrechte
 So können Sie Ihren Entschädigungsanspruch geltend machen...
 ----------
 
-* [Springe zu: digital über das Kundenkonto auf bahn.de oder im DB Navigator](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digi)
-* [Springe zu: digital über die Auftragssuche auf bahn.de](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digineu)
-* [Springe zu: mit dem Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print)
-* [mit dem EU-Antragsformular](https://www.bahn.de/faq/eu-formular)
+* [Springe zu: digital über das DB Kundenkonto auf bahn.de oder im DB Navigatordigital über das DB Kundenkonto auf bahn.de oder im DB Navigator](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digi)
+* [Springe zu: digital über die Auftragssuche auf bahn.dedigital über die Auftragssuche auf bahn.de](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digineu)
+* [Springe zu: mit dem Fahrgastrechte-Formularmit dem Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print)
+* [mit dem EU-Antragsformularmit dem EU-Antragsformular](https://www.bahn.de/faq/eu-formular)
 
-Entschädigung über das Kundenkonto auf bahn.de oder im DB Navigator beantragen
+Entschädigung über das DB Kundenkonto auf bahn.de oder im DB Navigator beantragen
 ----------
 
-Wenn Sie Ihr Ticket über Ihr Kundenkonto gekauft haben bzw. das Ticket/die Zeitkarte im Kundenkonto hinterlegt ist, können Sie Ihre Fahrgastrechte direkt aus dem Kundenkonto heraus beantragen. Loggen Sie sich bitte in Ihr Kundenkonto ein und wählen Sie die Reise/Zeitkarte aus, für die Sie die Entschädigung beantragen wollen. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
+Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gekauft haben bzw. das Ticket/die Zeitkarte im DB Kundenkonto hinterlegt ist, können Sie Ihre Fahrgastrechte direkt aus dem DB Kundenkonto heraus beantragen. Loggen Sie sich bitte in Ihr DB Kundenkonto ein und wählen Sie die Reise/Zeitkarte aus, für die Sie die Entschädigung beantragen wollen. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
 
 Entschädigung übers Kundenkonto beantragen
 ----------
@@ -39,7 +39,7 @@ Entschädigung übers Kundenkonto beantragen
 Entschädigung über die Auftragssuche auf bahn.de beantragen
 ----------
 
-Für digital gekaufte Tickets, die nicht im Kundenkonto hinterlegt sind, können die Fahrgastrechte über die Auftragssuche beantragt werden. Hierzu benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
+Für digital gekaufte Tickets, die nicht im DB Kundenkonto hinterlegt sind, können die Fahrgastrechte über die Auftragssuche beantragt werden. Hierzu benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
 
 Entschädigung über die Auftragssuche beantragen
 ----------

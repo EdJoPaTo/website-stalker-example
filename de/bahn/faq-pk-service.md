@@ -1492,10 +1492,10 @@ Benachrichtigungen, die Sie gezielt bei Ticketkauf für eine bestimmte Reise - o
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/meine-benachrichtigungen-zur-reise-sind-nicht-mehr-da-warum)
 
- Muss ich ein Kundenkonto haben, um die Benachrichtigungen zur Reise aktivieren zu können?
+ Muss ich ein DB Kundenkonto haben, um die Benachrichtigungen zur Reise aktivieren zu können?
 ----------
 
-Ja, die Benachrichtigungen zur Reise können nur dann aktiviert werden, wenn Sie die entsprechenden Verbindungen über ein "Meine Reisen"-Kundenkonto gebucht oder in Ihrem Kundenkonto hinterlegt haben.
+Ja, die Benachrichtigungen zur Reise können nur dann aktiviert werden, wenn Sie die entsprechenden Verbindungen über ein "Meine Reisen"-DB Kundenkonto gebucht oder in Ihrem DB Kundenkonto hinterlegt haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-ein-kundenkonto-haben-um-die-benachrichtigungen-zur-reise-aktivieren-zu-koennen)
 
