@@ -200,7 +200,7 @@ Wer sowohl die Vorteile dedizierter Server als auch virtualisierter Server schä
 Vorteile unserer Root Server-Angebote
 ----------
 
-Unsere Root Server vereinen die Vorteile **virtueller und dedizierter Server**. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9645 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM). Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie **einfach bedienbar**. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere Jobs mit GPU-Unterstützung empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
+Unsere Root Server vereinen die Vorteile **virtueller und dedizierter Server**. Trotz Virtualisierung bieten dir die Root Server garantierte AMD EPYC™ 9645 CPU-Kerne und schnellen DDR5 Arbeitsspeicher (RAM). Zugriff auf die Festplatten erhältst du per schnellem Hardware-RAID auf SSD-Festplatten. Im Management sind sie **einfach bedienbar**. Du kannst zum Beispiel Snapshots anfertigen, Images im- und exportieren und vieles mehr. Für KI/ML, Rendering oder andere [Jobs mit GPU-Unterstützung](https://www.netcup.com/de/server/vgpu) empfehlen wir unsere [vGPU-Server](https://www.netcup.com/de/server/vgpu).
 
  Speichererweiterung für Root Server
 ----------
@@ -222,32 +222,32 @@ Die netcup SCP App bietet dir die Möglichkeit, **jederzeit und von überall auf
 Frequently Asked Questions
 ----------
 
-### Was ist ein Root-Server? ###
+### Was ist ein Root Server? ###
 
-Bei einem Root-Server handelt es sich um einen Server, bei dem du **vollständigen administrativen Zugriff (Root-Zugriff)** erhältst. Du bekommst klar definierte Ressourcen, die deinem Server zur Verfügung stehen. Du kannst i**ndividuelle Systemsoftware betreiben** und hast dabei vollständige administrative Kontrolle. Ein Root-Server **setzt demzufolge Kenntnisse in der Administration von Serversystemen voraus.**
+Bei einem Root Server handelt es sich um einen Server, bei dem du **vollständigen administrativen Zugriff (Root-Zugriff)** erhältst. Du bekommst klar definierte Ressourcen, die deinem Server zur Verfügung stehen. Du kannst i**ndividuelle Systemsoftware betreiben** und hast dabei vollständige administrative Kontrolle. Ein Root Server **setzt demzufolge Kenntnisse in der Administration von Serversystemen voraus.**
 
-### Was kann ich mit einem Root-Server machen? ###
+### Was kann ich mit einem Root Server machen? ###
 
-Root-Server eignen sich ideal für **Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server** für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agierst du mit **höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.**
+Root Server eignen sich ideal für **Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server** für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agierst du mit **höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.**
 
-### Was ist der Unterschied zwischen einem dedizierten Server, einem Root-Server und einem VPS? ###
+### Was ist der Unterschied zwischen einem dedizierten Server, einem Root Server und einem VPS? ###
 
-Die Begriffe dedizierter Server und Root-Server werden in der IT-Branche oft synonym verwendet und stellen ähnliche Konzepte dar: Mit einem **dedizierten Server erhältst du exklusiven Zugriff auf einen physischen Server**. Bei VPS und Root-Server handelt es sich **bei netcup um virtualisierte Server mit Root-Zugriff.** Während bei einem VPS die CPU-Leistung nicht garantiert werden kann, vereint ein Root-Server jedoch die Vorteile dedizierter Server und virtualisierter Server: Einem Root-Server wird die angegebene CPU-Leistung garantiert zugewiesen, zudem ist das **Anlegen von Snapshots** sowie die Verwaltung über ein Panel durch die Virtualisierung wie auch bei VPS möglich.
+Die Begriffe dedizierter Server und Root Server werden in der IT-Branche oft synonym verwendet und stellen ähnliche Konzepte dar: Mit einem **dedizierten Server erhältst du exklusiven Zugriff auf einen physischen Server**. Bei VPS und Root Server handelt es sich **bei netcup um virtualisierte Server mit Root-Zugriff.** Während bei einem VPS die CPU-Leistung nicht garantiert werden kann, vereint ein Root Server jedoch die Vorteile dedizierter Server und virtualisierter Server: Einem Root Server wird die angegebene CPU-Leistung garantiert zugewiesen, zudem ist das **Anlegen von Snapshots** sowie die Verwaltung über ein Panel durch die Virtualisierung wie auch bei VPS möglich.
 
-### Wo ist der Standort meines Root-Servers? ###
+### Wo ist der Standort meines Root Servers? ###
 
-Bei netcup bieten wir Ihnen **Wien (Österreich), Nürnberg (Deutschland) oder Manassas (USA)** als Standort für deinen Root-Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE' bzw. 'MNZ' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg) bzw. Manassas (Manassas) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root-Server je nach freien Kapazitäten entweder in Wien oder Nürnberg gehostet wird.
+Bei netcup bieten wir Ihnen **Wien (Österreich), Nürnberg (Deutschland) oder Manassas (USA)** als Standort für deinen Root Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE' bzw. 'MNZ' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg) bzw. Manassas (Manassas) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root Server je nach freien Kapazitäten entweder in Wien oder Nürnberg gehostet wird.
 
-### Was sind die Vorteile eines Root-Servers? ###
+### Was sind die Vorteile eines Root Servers? ###
 
-Insgesamt bietet die Verwendung eines Root-Servers die Flexibilität, Leistung und Kontrolle, die für anspruchsvolle Internetanwendungen und -dienste erforderlich sind.
+Insgesamt bietet die Verwendung eines Root Servers die Flexibilität, Leistung und Kontrolle, die für anspruchsvolle Internetanwendungen und -dienste erforderlich sind.
 
-1. **Vollständige Kontrolle:** Als Betreiber eines Root-Servers hast du die volle Kontrolle über die Konfiguration, Ressourcenallokation und Sicherheitsrichtlinien. Dies ermöglicht es dir, die Serverumgebung deinen spezifischen Anforderungen anzupassen und flexibel auf Veränderungen zu reagieren.
-2. **Hohe Leistung:** Root-Server werden oft auf leistungsstarker Hardware betrieben, die eine schnelle Datenverarbeitung und -übertragung ermöglicht. Dies ist besonders wichtig für Anwendungen, die hohe Anforderungen an Rechenleistung und Bandbreite haben, wie z.B. große Datenbanken, E-Commerce-Websites oder Multimedia-Streaming-Dienste.
-3. **Anpassungsfähigkeit:** Mit einem Root-Server kannst du die Betriebssystemumgebung und die Software nach deinen Wünschen anpassen. Dies ermöglicht es dir, spezifische Anwendungen oder Dienste zu installieren und zu konfigurieren, die für deine Anforderungen optimiert sind.
-4. **Datenschutz und Sicherheit:** Durch die Verwaltung deines eigenen Root-Servers kannst du die Sicherheitsmaßnahmen implementieren, die deinen Datenschutz- und Sicherheitsanforderungen entsprechen. Du hast die Kontrolle über den Zugriff auf den Server und kannst Maßnahmen wie Firewalls, Verschlüsselung und regelmäßige Sicherheitsupdates implementieren.
-5. **Unabhängigkeit von Drittanbietern:** Mit einem eigenen Root-Server bist du nicht von Drittanbietern abhängig, um deine Internetinfrastruktur zu verwalten. Du hast die volle Kontrolle über deine Serverumgebung und bist nicht von den Richtlinien oder Einschränkungen anderer Unternehmen abhängig.
-6. **Entwicklungsfreiheit:** Für Entwickler bietet ein Root-Server maximale Freiheit bei der Entwicklung und Bereitstellung von Anwendungen. Du kannst verschiedene Programmiersprachen, Frameworks und Bibliotheken verwenden und die Serverumgebung nach Bedarf anpassen, um innovative Lösungen zu entwickeln.
+1. **Vollständige Kontrolle:** Als Betreiber eines Root Servers hast du die volle Kontrolle über die Konfiguration, Ressourcenallokation und Sicherheitsrichtlinien. Dies ermöglicht es dir, die Serverumgebung deinen spezifischen Anforderungen anzupassen und flexibel auf Veränderungen zu reagieren.
+2. **Hohe Leistung:** Root Server werden oft auf leistungsstarker Hardware betrieben, die eine schnelle Datenverarbeitung und -übertragung ermöglicht. Dies ist besonders wichtig für Anwendungen, die hohe Anforderungen an Rechenleistung und Bandbreite haben, wie z.B. große Datenbanken, E-Commerce-Websites oder Multimedia-Streaming-Dienste.
+3. **Anpassungsfähigkeit:** Mit einem Root Server kannst du die Betriebssystemumgebung und die Software nach deinen Wünschen anpassen. Dies ermöglicht es dir, spezifische Anwendungen oder Dienste zu installieren und zu konfigurieren, die für deine Anforderungen optimiert sind.
+4. **Datenschutz und Sicherheit:** Durch die Verwaltung deines eigenen Root Servers kannst du die Sicherheitsmaßnahmen implementieren, die deinen Datenschutz- und Sicherheitsanforderungen entsprechen. Du hast die Kontrolle über den Zugriff auf den Server und kannst Maßnahmen wie Firewalls, Verschlüsselung und regelmäßige Sicherheitsupdates implementieren.
+5. **Unabhängigkeit von Drittanbietern:** Mit einem eigenen Root Server bist du nicht von Drittanbietern abhängig, um deine Internetinfrastruktur zu verwalten. Du hast die volle Kontrolle über deine Serverumgebung und bist nicht von den Richtlinien oder Einschränkungen anderer Unternehmen abhängig.
+6. **Entwicklungsfreiheit:** Für Entwickler bietet ein Root Server maximale Freiheit bei der Entwicklung und Bereitstellung von Anwendungen. Du kannst verschiedene Programmiersprachen, Frameworks und Bibliotheken verwenden und die Serverumgebung nach Bedarf anpassen, um innovative Lösungen zu entwickeln.
 
 ### Welche Besonderheiten bietet der Root Server G12? ###
 
