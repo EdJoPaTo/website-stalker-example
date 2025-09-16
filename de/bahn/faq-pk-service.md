@@ -6670,26 +6670,26 @@ Wenn Ihr Zugang zwischenzeitlich noch nicht wieder freigeschaltet worden sein so
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/der-zugang-zu-meinem-kundenkonto-wurde-gesperrt-weil-ich-mehrfach-meine-daten-falsch-eingegeben-habe-was-jetzt)
 
- Wie kann ich meine Daten bzw. mein Kundenkonto löschen?
+ Wie kann ich meine Daten bzw. mein DB Kundenkonto löschen?
 ----------
 
-Sie können jederzeit Ihr Kundenkonto löschen – vorausgesetzt, es gibt keine offenen Aufträge (Buchungen und Tickets) oder laufende Verträge (bspw. BahnCard-Abonnement).
+Sie können jederzeit Ihr DB Kundenkonto löschen – vorausgesetzt, es gibt keine offenen Aufträge (Buchungen und Tickets) oder laufende Verträge (bspw. BahnCard-Abonnement).
 
-Um Ihr Kundenkonto zu löschen, loggen Sie sich bitte mit Ihrem Benutzernamen und Passwort ein und folgen diesen Schritten:
+Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte mit Ihrem Benutzernamen und Passwort ein und folgen diesen Schritten:
 
 **DB Navigator**:
 
 1. Gehen Sie im Menüpunkt "Profil" auf "Login und Sicherheit".
-2. Wählen Sie die Option "Kundenkonto löschen".
+2. Wählen Sie die Option "DB Kundenkonto löschen".
 3. Folgen Sie den Anweisungen zur Löschung.
 
 **Bahn.de**:
 
-1. Gehen Sie im Bereich "Kundenkonto verwalten" auf "Persönliche Daten".
+1. Gehen Sie im Bereich "DB Kundenkonto verwalten" auf "Persönliche Daten".
 2. Wählen Sie im unteren Bereich die Option "Konto löschen".
 3. Folgen Sie den Anweisungen zur Löschung.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-daten-bzw-mein-kundenkonto-loeschen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-daten-bzw-mein-db-kundenkonto-loeschen)
 
  Ich möchte mein Passwort zurücksetzen und habe keine E-Mail erhalten, was kann ich tun?
 ----------
@@ -6952,21 +6952,21 @@ Auch wenn Sie Ihre Ersatzcodes verloren haben, können Sie so neue generieren. I
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-fa-ersatzcodes-generieren)
 
- Benötige ich für das Kundenkonto eine App?
+ Benötige ich für das DB Kundenkonto eine App?
 ----------
 
-Der Zugriff auf das Kundenkonto erfolgt wie gewohnt über den Kanal, den Sie bevorzugen. Das kann der DB Navigator sein oder auch die Website bahn.de/int.bahn.de.
+Der Zugriff auf das DB Kundenkonto erfolgt wie gewohnt über den Kanal, den Sie bevorzugen. Das kann der DB Navigator sein oder auch die Website bahn.de/int.bahn.de.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-app-fuer-kundenkonto)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-app-fuer-db-kundenkonto)
 
- Ist das Kundenkonto kostenpflichtig?
+ Ist das DB Kundenkonto kostenpflichtig?
 ----------
 
-Das Kundenkonto ist kostenfrei und die Teilnahme kann jederzeit ohne Kündigungsfrist beendet werden, sofern keine bestehenden Verträge dies verhindern (zum Beispiel eine aktive BahnCard).
+Das DB Kundenkonto ist kostenfrei und die Teilnahme kann jederzeit ohne Kündigungsfrist beendet werden, sofern keine bestehenden Verträge dies verhindern (zum Beispiel eine aktive BahnCard).
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kundenkonto-kostenpflichtig)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-kostenpflichtig)
 
- Benötige ich ein Kundenkonto, um ein Ticket zu buchen?
+ Benötige ich ein DB Kundenkonto, um ein Ticket zu buchen?
 ----------
 
 Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Navigator ist ohne Anmeldung möglich. Allerdings bietet Ihnen das DB Kundenkonto bei der Ticket-Buchung einige Vorteile:
@@ -6981,11 +6981,11 @@ Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Naviga
 
 * BahnCard: Freuen Sie sich auf attraktive Reisegutscheine, Upgrades oder Partnerangebote mit Ihren Vorteilen
 
-* Nutzen Sie Ihr Kundenkonto auch bei Ihren Buchungen auf der Webseite und mit unserer App DB Navigator
+* Nutzen Sie Ihr DB Kundenkonto auch bei Ihren Buchungen auf der Webseite und mit unserer App DB Navigator
 
 [Zu den Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-kundenkonto-um-ticket-zu-buchen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-db-kundenkonto-um-ticket-zu-buchen)
 
  Wo finde ich Datenschutzhinweise zum DB Kundenkonto?
 ----------
@@ -6994,32 +6994,32 @@ Auf der folgenden Seite finden Sie die aktuellen Datenschutzhinweise zum DB Kund
 
 * [Zu den Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/datenschutz-kundenkonto)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/datenschutz-db-kundenkonto)
 
- Gibt es Services oder Leistungen, die ohne Kundenkonto nicht nutzbar sind?
+ Gibt es Services oder Leistungen, die ohne DB Kundenkonto nicht nutzbar sind?
 ----------
 
 Auch in Zukunft ist es selbstverständlich möglich, zahlreiche Leistungen der Deutschen Bahn, wie zum Beispiel den Kauf einer Fahrkarte, auch ohne ein Kundenkonto zu nutzen.
 Insbesondere Komfortfunktionen können nur angeboten werden, wenn die dafür erforderlichen Daten hinterlegt sind. Dazu gehören zum Beispiel die schnellere Buchung, bei der Zahlungsdaten hinterlegt sein müssen, das Einlösen von Gutscheinen oder die Online-Abfrage von BahnBonus Punkten.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-services-leistungen-die-ohne-kundenkonto-nicht-nutzbar-sind)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-services-leistungen-die-ohne-db-kundenkonto-nicht-nutzbar-sind)
 
- Kann ich meine BahnCard im Kundenkonto hinterlegen?
+ Kann ich meine BahnCard im DB Kundenkonto hinterlegen?
 ----------
 
-Wenn Sie Ihre BahnCard in Verbindung mit einem Kundenkonto gekauft haben, ist diese automatisch in Ihrem Kundenkonto hinterlegt. Alternativ können Sie eine BahnCard auch nachträglich in Ihrem Kundenkonto hinterlegen. Bitte loggen Sie sich dazu ein. Im Bereich „BahnCards oder BahnBonus Cards übertragen" können Sie Ihre BahnCard nachträglich zu Ihrem Kundenkonto hinzufügen. Für das Hinzufügen benötigen Sie einmalig eine PIN. Diese können Sie ebenfalls im Dialogfeld anfordern.
+Wenn Sie Ihre BahnCard in Verbindung mit einem DB Kundenkonto gekauft haben, ist diese automatisch in Ihrem DB Kundenkonto hinterlegt. Alternativ können Sie eine BahnCard auch nachträglich in Ihrem DB Kundenkonto hinterlegen. Bitte loggen Sie sich dazu ein. Im Bereich „BahnCards oder BahnBonus Cards übertragen" können Sie Ihre BahnCard nachträglich zu Ihrem DB Kundenkonto hinzufügen. Für das Hinzufügen benötigen Sie einmalig eine PIN. Diese können Sie ebenfalls im Dialogfeld anfordern.
 Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahncard-im-kundenkonto-hinterlegen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahncard-im-db-kundenkonto-hinterlegen)
 
  Kann ich in meinem Kundenkonto Fahrkarten stornieren beziehungsweise erstatten lassen?
 ----------
 
-Sofern Sie beim Kauf der Fahrkarte im DB Navigator oder auf bahn.de/int.bahn.de eingeloggt waren, können Sie die Stornierung oder Erstattung auch über Ihr Kundenkonto beantragen. Rufen Sie dazu das digitale Ticket über die Buchungsrückschau ("Meine letzten Buchungen") auf. Mehr Informationen zu Erstattung und Stornierung finden Sie in unseren [Beförderungsbedingungen](https://next.bahn/agb)
+Sofern Sie beim Kauf der Fahrkarte im DB Navigator oder auf bahn.de/int.bahn.de eingeloggt waren, können Sie die Stornierung oder Erstattung auch über Ihr DB Kundenkonto beantragen. Rufen Sie dazu das digitale Ticket über die Buchungsrückschau ("Meine letzten Buchungen") auf. Mehr Informationen zu Erstattung und Stornierung finden Sie in unseren [Beförderungsbedingungen](https://next.bahn/agb)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkarten-stornieren-erstatten-lassen)
 
- Verfallen meine BahnBonus Punkte aufgrund von Kundenkonto-Inaktivität?
+ Verfallen meine BahnBonus Punkte aufgrund von DB Kundenkonto-Inaktivität?
 ----------
 
 Nein, Ihre Punkte verfallen nicht. Sie können Ihre Punkte allerdings nicht mehr Online einsehen oder einlösen. Sie haben natürlich weiterhin die Möglichkeit, die Services über das ServiceCenter zu nutzen.
