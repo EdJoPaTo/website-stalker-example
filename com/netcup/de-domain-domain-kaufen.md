@@ -83,15 +83,11 @@ In der Regel dauert es zwischen wenigen Minuten und mehreren Stunden: wir halten
 Unterschiedliche Domain-Preise
 ----------
 
-Die **Preise** einer Domain werden durch verschiedene Faktoren beeinflusst. Eine der wichtigsten Faktoren ist die **Beliebtheit der Domain-Endung** wie .com, .net, .org, etc.
-
-Die **Kosten für die Verwaltung** der Domains sind je nach Registrierungsstelle **unterschiedlich**.
+Die **Preise** einer Domain werden durch verschiedene Faktoren beeinflusst. Eine der wichtigsten Faktoren ist die **Beliebtheit der Domain-Endung** wie .com, .net, .org, etc. Die **Kosten für die Verwaltung** der Domains sind je nach Registrierungsstelle **unterschiedlich**.
 
 Es gibt Top-Level-Domains, die auf **bestimmte Zielgruppen ausgerichtet** sind und aus diesem Grund einen höheren Preis haben. Bei Länderdomains bestimmen die Länder selbst welchen Preis die Registry für ihre Domains verlangt. Die Geschäftsmodelle der Registriers unterscheiden sich sehr stark. Manche sind gewinnorientiert und andere arbeiten lediglich kostendeckend.
 
-Die Registry kann sich entscheiden, bestimmte Domains zu Premium Domains zu erklären. Der Preis dafür ist dann sehr viel höher als der reguläre Preis.
-
-**Günstige Domains** werden häufig durch zeitweise [**Marketingaktionen unterstützt**](https://www.netcup.com/de/deals). Je weniger bekannt eine Top-Level-Domain ist, desto größer sind die Vorbehalte einiger Internetnutzer, ob es sich bei der URL um eine vertrauenswürdige Quelle handelt.
+Die Registry kann sich entscheiden, bestimmte Domains zu Premium Domains zu erklären. Der Preis dafür ist dann sehr viel höher als der reguläre Preis. **Günstige Domains** werden häufig durch zeitweise [**Marketingaktionen unterstützt**](https://www.netcup.com/de/deals). Je weniger bekannt eine Top-Level-Domain ist, desto größer sind die Vorbehalte einiger Internetnutzer, ob es sich bei der URL um eine vertrauenswürdige Quelle handelt.
 
 Kostenlose Domains
 ----------
