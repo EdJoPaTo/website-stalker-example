@@ -701,7 +701,7 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
  Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
 ----------
 
-Wenn die im Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berücksichtigt werden soll, muss diese im Kundenkonto dafür voreingestellt werden. Gehen Sie dafür bitte in den Bereich "Profil" und wählen Sie anschließend unter "BahnCard" die Kachel "BahnCard verwalten" aus. Fügen Sie anschließend unter "Ermäßigung hinterlegen" die passende BahnCard-Ermäßigung hinzu. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem Kundenkonto eingeloggt sind.
+Wenn die im DB Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berücksichtigt werden soll, muss diese im DB Kundenkonto dafür voreingestellt werden. Gehen Sie dafür bitte in den Bereich "Profil" und wählen Sie anschließend unter "BahnCard" die Kachel "BahnCard verwalten" aus. Fügen Sie anschließend unter "Ermäßigung hinterlegen" die passende BahnCard-Ermäßigung hinzu. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-buchung-automatisch-beruecksichtigt)
 
@@ -1789,14 +1789,14 @@ Der Umtausch gebuchter Tickets ist nicht möglich. Sie können Ihre gekauften Ti
 
 **Ein stornierbares Digitales Ticket können Sie wie folgt stornieren:**
 
-**Auf bahn.de mit Kundenkonto**
+**Auf bahn.de mit DB Kundenkonto**
 
-1. Loggen Sie sich in Ihr Kundenkonto ein.
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
 2. Gehen Sie über das Menü "Meine Reisen" zu Ihren Aufträgen.
 3. Wählen Sie die entsprechende Reise aus.
 4. Klicken Sie auf "Stornieren" und anschließend auf "Stornierung durchführen".
 
-**Auf bahn.de ohne Kundenkonto**
+**Auf bahn.de ohne DB Kundenkonto**
 
 1. Gehen Sie zu "Meine Reisen" und geben Sie die Auftragsnummer Ihrer Buchung ein.
 2. Ihr Auftrag wird eingeblendet.
@@ -1833,12 +1833,12 @@ Ein **Digitales Ticket** können Sie wie folgt stornieren:
 
 **Auf bahn.de mit DB Kundenkonto**
 
-1. Loggen Sie sich in Ihr Kundenkonto ein.
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
 2. Gehen Sie über das Menü "Meine Reisen" zu Ihren Aufträgen.
 3. Wählen Sie die entsprechende Reise aus.
 4. Klicken Sie auf "Stornieren" und anschließend auf "Stornierung durchführen".
 
-**Auf bahn.de ohne Kundenkonto**
+**Auf bahn.de ohne DB Kundenkonto**
 
 1. Gehen Sie zu "[Meine Reisen](https://www.bahn.de/buchung/meine-reisen)" und geben Sie die Auftragsnummer Ihrer Buchung und den Nachnamen der reisenden Person ein.
 2. Ihr Auftrag wird eingeblendet.
@@ -2002,15 +2002,15 @@ Die Sofortstornierung ist nur vor dem 1. Geltungstag Ihres Tickets möglich.
 
 In den ersten 3 Stunden nach Buchung bieten wir Ihnen die kostenlose "Sofortstornierung". Das funktioniert wie folgt:
 
-**Im Kundenkonto auf bahn.de**
+**Im DB Kundenkonto auf bahn.de**
 
-* Loggen Sie sich mit Ihren Anmeldedaten in Ihr Kundenkonto ein.
+* Loggen Sie sich mit Ihren Anmeldedaten in Ihr DB Kundenkonto ein.
 * Rufen Sie den Reiter "Meine Reisen" auf.
 * Klicken Sie hier auf die Buchung, die Sie stornieren wollen.
 * Bei einer stornierbaren Buchung sehen Sie jetzt die Auswahl "Stornieren".
 * Wählen Sie dort "Sofortstornierung" aus.
 
-**Im Kundenkonto im DB Navigator**
+**Im DB Kundenkonto im DB Navigator**
 
 * Loggen Sie sich mit Ihren Anmeldedaten im DB Navigator ein.
 * Rufen Sie unten den Punkt "Reisen" auf.
@@ -5929,9 +5929,9 @@ Wenn Sie Tickets ohne Login gebucht haben, können Sie diese manuell über die A
  Warum kann ich in der App DB Navigator meine BahnCard nicht laden?
 ----------
 
-Das kann daran liegen, dass Ihr BahnCard-Vertrag nicht Ihrem Kundenkonto zugeordnet werden kann.
+Das kann daran liegen, dass Ihr BahnCard-Vertrag nicht Ihrem DB Kundenkonto zugeordnet werden kann.
 
-Bisher war es erforderlich, Ihr Kundenkonto unter "Meine Bahn" immer mit Ihrem BahnCard-Vertrag manuell zu verknüpfen. Durch das neue Kundenkonto entfällt diese Notwendigkeit und alle BahnCard-Verträge werden automatisch im Kundenkonto angezeigt. Falls die Daten des Kundenkontos jedoch nicht mit
+Bisher war es erforderlich, Ihr DB Kundenkonto unter "Meine Bahn" immer mit Ihrem BahnCard-Vertrag manuell zu verknüpfen. Durch das neue DB Kundenkonto entfällt diese Notwendigkeit und alle BahnCard-Verträge werden automatisch im Kundenkonto angezeigt. Falls die Daten des DB Kundenkontos jedoch nicht mit
 den Daten des BahnCard Vertrags exakt übereinstimmen (beispielsweise durch die Angabe weiterer Vornamen) kann die Verknüpfung im System nicht erfolgen.
 
 Für diesen Fall können Sie auf bahn.de Ihre BahnCard/BahnBonus Card selbst hinterlegen.
@@ -6917,7 +6917,7 @@ Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrag
 
 Die 2-Faktor-Authentifizierung schützt Ihre Login und Ihre Kundendaten vor unerlaubten Zugriffen. Insbesondere das Phishing Ihrer Login-Daten wird durch die 2-Faktor-Authentifizierung unterbunden.
 
-Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre Kundenkonto-Daten zu gewährleisten. Es ist aber keine Pflicht.
+Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten. Es ist aber keine Pflicht.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wozu-benoetige-ich-eine-2-faktor-authentifizierung)
 
@@ -7057,7 +7057,7 @@ Apps und Dienste werden nur dann angezeigt, wenn Sie Ihre Daten für einen genut
  Wie beende ich das Teilen meiner persönlichen Daten mit Apps und Diensten im DB Kundenkonto?
 ----------
 
-Melden Sie sich in Ihrem Kundenkonto an.
+Melden Sie sich in Ihrem DB Kundenkonto an.
 
 1. Gehen Sie zu "Persönliche Daten".
 2. Wählen Sie "Apps und Dienste verwalten".
@@ -7106,7 +7106,8 @@ Ihr Gerät führt Sie durch die weiteren Schritte zur Einrichtung.
 
 * Wählen Sie beim Login "Login mit Passkey" aus.
 * Bestätigen Sie die Anmeldung auf Ihrem Gerät - zum Beispiel per Fingerabdruck, Gesichtserkennung oder PIN.
-* Sie sind eingeloggt.
+
+Sie sind eingeloggt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-mit-passkey-an)
 

@@ -359,7 +359,7 @@ Nein, Flixtrain ist kein Unternehmen der Deutschen Bahn. Die BahnCard 100 hat in
  Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
 ----------
 
-Wenn die im Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berücksichtigt werden soll, muss diese im Kundenkonto dafür voreingestellt werden. Gehen Sie dafür bitte in den Bereich "Profil" und wählen Sie anschließend unter "BahnCard" die Kachel "BahnCard verwalten" aus. Fügen Sie anschließend unter "Ermäßigung hinterlegen" die passende BahnCard-Ermäßigung hinzu. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem Kundenkonto eingeloggt sind.
+Wenn die im DB Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berücksichtigt werden soll, muss diese im DB Kundenkonto dafür voreingestellt werden. Gehen Sie dafür bitte in den Bereich "Profil" und wählen Sie anschließend unter "BahnCard" die Kachel "BahnCard verwalten" aus. Fügen Sie anschließend unter "Ermäßigung hinterlegen" die passende BahnCard-Ermäßigung hinzu. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-buchung-automatisch-beruecksichtigt)
 
@@ -876,7 +876,7 @@ Die Probe BahnCard 25 zum Aktionspreis können Sie gleich hier online kaufen, in
  Bekomme ich eine Plastikkarte zugeschickt oder ist das Produkt nur noch rein digital nutzbar?
 ----------
 
-Der Kauf einer BahnCard ist nur mit einem Kundenkonto auf bahn.de möglich. Für das Anlegen eines Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Um die digitale BahnCard nutzen zu können, benötigen Kund:innen ebenfalls das Kundenkonto, mit welchem sie sich in der App DB Navigator einloggen können. In der App DB Navigator wird die digitale BahnCard direkt im Kundenkonto hinterlegt und kann im eingeloggten Zustand abgerufen werden. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](http://www.bahn.de/digitalebc)
+Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Um die digitale BahnCard nutzen zu können, benötigen Kund:innen ebenfalls das DB Kundenkonto, mit welchem sie sich in der App DB Navigator einloggen können. In der App DB Navigator wird die digitale BahnCard direkt im DB Kundenkonto hinterlegt und kann im eingeloggten Zustand abgerufen werden. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](http://www.bahn.de/digitalebc)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-plastikkarte)
 

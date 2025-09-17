@@ -82,7 +82,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly 1 Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1-gen4-anz)
 * [Shelly 1PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4)
 * [Shelly 1PM Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4-anz)
-* [Shelly Power Strip Gen4](https://kb.shelly.cloud/knowledge-base/shelly-power-strip-gen4)
+* [Shelly Power Strip 4 Gen4](https://kb.shelly.cloud/knowledge-base/shelly-power-strip-gen4)
 * [Shelly 2PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen4)
 * [Shelly 2PM Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen4-anz)
 * [Shelly Flood Gen4](https://kb.shelly.cloud/knowledge-base/shelly-flood-gen4)
@@ -162,6 +162,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave Plug US](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-us)
 * [Shelly Wave Plug UK](https://kb.shelly.cloud/knowledge-base/shelly-wave-plug-uk)
 * [Shelly Wave Pro Shutter](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-shutter)
+* [Shelly Wave Outdoor Plug S](https://kb.shelly.cloud/knowledge-base/shelly-wave-outdoor-plug-s)
 
  Shelly Qubino Wave devices
 ----------
