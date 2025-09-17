@@ -1,4 +1,4 @@
-cirrus7 Nimbini NUC 15 PRO
+cirrus7 nimbini – Pro Edition
 ==========
 
 cirrus nimbini v4 - Pro Edition

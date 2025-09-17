@@ -1246,18 +1246,14 @@ Alle Reisenden können die BahnCard 100 erwerben. Sollten Sie unter 27 Jahre alt
  Wie viel kostet die BahnCard 100?
 ----------
 
-Die BahnCard 100 kostet
-
-* in der Einmalzahlung 4.899 Euro für die 2. Klasse und 7.999 Euro für die 1. Klasse
+Die BahnCard 100 kostet 4.899 Euro für die 2. Klasse und 7.999 Euro für die 1. Klasse.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-die-bahncard-100)
 
  Wie lange ist eine BahnCard 100 gültig?
 ----------
 
-* Die **BahnCard 100 ohne Abo** ist ab dem 1. Geltungstag 1 Jahr gültig.
-* Die **BahnCard 100 im Abo** verlängert sich automatisch, wenn sie nicht gekündigt wird.
-* Der **Neuverkauf der BahnCard 100 im Abo** wurde zum 11.12.2022 eingestellt. Bestandsverträge laufen analog Gültigkeit der Karte weiter.
+Die BahnCard 100 ist ab dem 1. Geltungstag 1 Jahr gültig.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-ist-eine-bahncard-100-gueltig)
 
