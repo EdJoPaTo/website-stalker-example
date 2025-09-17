@@ -256,9 +256,9 @@ In bestimmten Fällen sind weiterhin Ticketkontrollen möglich (siehe Frage: [Wa
 
 Kein Problem. Einfach das Zugticket mit einem Klick auf „Reservierung verwenden“ verknüpfen. Hierzu benötigen Sie ggf. zusätzlich die Reservierungsnummer (Res. Nr.) aus der Bestätigungsemail oder den Reservierungsinfos (PDF).
 
-* Sie haben Ihre BahnCard noch nicht im Kundenkonto hinterlegt?
+* Sie haben Ihre BahnCard noch nicht im DB Kundenkonto hinterlegt?
 
-Kein Problem. Geben Sie bitte Ihre BahnCard-Nummer während des Check-in-Prozesses manuell ein und speichern Sie diese idealerweise in Ihrem Kundenkonto. Bei Ihrem nächsten Check-in erfolgt die Überprüfung automatisch.
+Kein Problem. Geben Sie bitte Ihre BahnCard-Nummer während des Check-in-Prozesses manuell ein und speichern Sie diese idealerweise in Ihrem DB Kundenkonto. Bei Ihrem nächsten Check-in erfolgt die Überprüfung automatisch.
 
 * Sie wollen den Check-in bei Ihrer nächsten Reise noch unkomplizierter durchführen?
 

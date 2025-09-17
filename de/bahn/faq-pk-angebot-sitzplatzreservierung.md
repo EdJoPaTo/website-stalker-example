@@ -900,7 +900,7 @@ Weitere Informationen dazu finden Sie hier:
 
 Ja, wenn reservierte Plätze nicht bereitgestellt wurden oder wegen Zugverspätung nicht genutzt werden konnten, haben Sie Anspruch auf Rückzahlung des Reservierungsentgelts. Das gilt für Sitz- und Fahrradstellplätze.
 
-**Vorgehen im digitalen Antrag im Kundenkonto**
+**Vorgehen im digitalen Antrag im DB Kundenkonto**
 
 * Ticket zur Reise im Kundenkonto auswählen und Online-Antrag starten.
 * Bei „Verspätung unter 60 Minuten“ markieren.

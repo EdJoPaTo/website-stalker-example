@@ -1048,9 +1048,9 @@ Wenn dies nicht geklappt hat, kontaktieren Sie uns bitte mit einem Screenshot un
  Was ist mein Bahn-Account?
 ----------
 
-Alle Informationen zum Bahn-Kundenkonto finden Sie unter:
+Alle Informationen zum DB Kundenkonto finden Sie unter:
 
-* [Wissenwertes zum Kundenkonto](https://www.bahn.de/info/kundenkonto)
+* [Wissenwertes zum DB Kundenkonto](https://www.bahn.de/info/kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mein-bahn-account)
 
@@ -1923,7 +1923,7 @@ Gehen Sie zu einem DB Reisezentrum, um den Umtausch oder die Erstattung vorzuneh
  Wie kann ich mein Sparpreis oder Super Sparpreis Europa-Ticket umtauschen?
 ----------
 
-Der Super Sparpreis Europa kann nicht storniert bzw. erstattet werden. Der Sparpreis Europa kann bis 1 Tag vor Reiseantritt storniert werden. Das Bearbeitungsentgelt beträgt 10 Euro. Die Auszahlung erfolgt in Form eines Gutscheins, der 3 Jahre gültig ist. Eine Erstattung kann aufgrund des günstigen Preises nicht mehr angeboten werden. Ab dem Reisetag ist eine Stornierung ausgeschlossen. Um Ihr Sparpreis Europa-Ticket zu stornieren, gehen Sie in "Meine letzten Buchungen" in Ihrem "Meine Reisen"-Kundenkonto oder nutzen Sie die Auftragssuche. Danach können Sie Ihr neues Ticket wie gewohnt buchen.
+Der Super Sparpreis Europa kann nicht storniert bzw. erstattet werden. Der Sparpreis Europa kann bis 1 Tag vor Reiseantritt storniert werden. Das Bearbeitungsentgelt beträgt 10 Euro. Die Auszahlung erfolgt in Form eines Gutscheins, der 3 Jahre gültig ist. Eine Erstattung kann aufgrund des günstigen Preises nicht mehr angeboten werden. Ab dem Reisetag ist eine Stornierung ausgeschlossen. Um Ihr Sparpreis Europa-Ticket zu stornieren, gehen Sie in "Meine letzten Buchungen" in "Meine Reisen" im DB Kundenkonto oder nutzen Sie die Auftragssuche. Danach können Sie Ihr neues Ticket wie gewohnt buchen.
 
 * [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
 
@@ -2209,7 +2209,7 @@ Sie können Ihre Kontodaten in Ihrem Kundenkonto ändern. Klicken Sie dort im Be
  Wie melde ich mich vom Lastschriftverfahren ab?
 ----------
 
-Wenn Sie nicht mehr am Lastschriftverfahren teilnehmen möchten, klicken Sie in Ihrem Kundenkonto im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern". Dort finden Sie den Link "Abmelden vom Lastschriftverfahren."
+Wenn Sie nicht mehr am Lastschriftverfahren teilnehmen möchten, klicken Sie in Ihrem DB Kundenkonto im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern". Dort finden Sie den Link "Abmelden vom Lastschriftverfahren."
 
 [Jetzt einloggen](https://www.bahn.de/buchung/meine-reisen)
 
@@ -2314,11 +2314,11 @@ Bitte prüfen Sie zunächst Ihre Unterlagen. Wenn offene Forderungen der Deutsch
  Wie kann ich ein Abo bestellen, wenn die Bonitätsprüfung nicht positiv war?
 ----------
 
-Für den Abschluss eines Abovertrages mit Lastschriftzahlung wird eine positive Bonitätsprüfung vorausgesetzt. Die Informationen finden Sie bei der Bestätigung Ihres SEPA-Mandates im Kundenkonto oder im Bestellprozess.
+Für den Abschluss eines Abovertrages mit Lastschriftzahlung wird eine positive Bonitätsprüfung vorausgesetzt. Die Informationen finden Sie bei der Bestätigung Ihres SEPA-Mandates im DB Kundenkonto oder im Bestellprozess.
 
 Wenn die Bonitätsprüfung nicht erfolgreich abgeschlossen werden kann, kann diese Person kein Vertragspartner für einen Abovertrag werden.
 
-Es besteht die Möglichkeit, dass eine Person mit positiver Bonitätsprüfung als Vertragspartner (bestellende und zahlende Person) auftritt. Dafür ist es erforderlich, dass diese Person sich mit einem eigenen Kundenkonto anmeldet und am Ende der Bestellung verifiziert. In der Bestellung kann im Schritt „Reisende Person“ die Person, die das Ticket nutzen wird, eingetragen werden (sowohl bei Handyticket als auch Chipkarten). Die Daten der reisenden Person unterliegen nicht der Bonitätsprüfung.
+Es besteht die Möglichkeit, dass eine Person mit positiver Bonitätsprüfung als Vertragspartner (bestellende und zahlende Person) auftritt. Dafür ist es erforderlich, dass diese Person sich mit einem eigenen DB Kundenkonto anmeldet und am Ende der Bestellung verifiziert. In der Bestellung kann im Schritt „Reisende Person“ die Person, die das Ticket nutzen wird, eingetragen werden (sowohl bei Handyticket als auch Chipkarten). Die Daten der reisenden Person unterliegen nicht der Bonitätsprüfung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/positiv-bonitaet)
 
@@ -3754,7 +3754,7 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
 
 Wenn Ihnen aufgrund einer Verspätung oder eines Zugausfalls zusätzliche Kosten (z.B. für eine Übernachtung oder ein weiteres Verkehrsmittel) entstanden sind, können Sie diese direkt mit Ihrem regulären Fahrgastrechteantrag mit beantragen. Dies geht sowohl im digitalen Antrag als auch mit dem Fahrgastrechte-Formular.
 
-**Vorgehen im digitalen Antrag im Kundenkonto:**
+**Vorgehen im digitalen Antrag im DB Kundenkonto:**
 
 1. Gehen Sie innerhalb des digitalen Antrags zu dem Feld "Durch die Verspätung hatte ich zusätzliche Ausgaben | Ich konnte meine Reservierung nicht nutzen".
 2. Klicken Sie dieses Feld an und folgen Sie den weiteren Schritten.
@@ -3790,7 +3790,7 @@ Alternativ können Sie die Unterlagen in einem DB Reisezentrum oder Ihrer Verkau
 
 Ja, wenn reservierte Plätze nicht bereitgestellt wurden oder wegen Zugverspätung nicht genutzt werden konnten, haben Sie Anspruch auf Rückzahlung des Reservierungsentgelts. Das gilt für Sitz- und Fahrradstellplätze.
 
-**Vorgehen im digitalen Antrag im Kundenkonto**
+**Vorgehen im digitalen Antrag im DB Kundenkonto**
 
 * Ticket zur Reise im Kundenkonto auswählen und Online-Antrag starten.
 * Bei „Verspätung unter 60 Minuten“ markieren.
@@ -6219,7 +6219,7 @@ Die DB Geschenkkarte ist ausschließlich innerhalb des Buchungsvorgangs auf unse
    Tragen Sie in die Eingabefelder der Verbindungssuche Ihre Reisedaten ein. Dann klicken Sie auf "Suchen".
 * Entscheiden Sie sich aus den angezeigten Verbindungen für eine Hinfahrt. Wenn Sie gleich auch eine Rückfahrt mitbuchen möchten, klicken Sie auf "Rückfahrt hinzufügen" und suchen Sie sich das passende Angebot aus. Klicken Sie dann auf "Weiter".
 * **Einloggen**
-   Loggen Sie sich mit Ihren "Meine Bahn"-Kontodaten ein oder registrieren Sie sich für ein Kundenkonto. Sie müssen angemeldet sein, um eine Geschenkkarte einlösen zu können.
+   Loggen Sie sich mit Ihren "Meine Bahn"-Kontodaten ein oder registrieren Sie sich für ein DB Kundenkonto. Sie müssen angemeldet sein, um eine Geschenkkarte einlösen zu können.
    Jetzt können Sie z.B. auch noch einen Sitzplatz reservieren oder angeben, ob Sie das Ticket für jemand anderen kaufen.
 * **Zahlung**
    Suchen Sie sich eine Zahlungsweise aus. **Bitte beachten Sie**: Die Zahlungsart "Lastschrift" steht für die Einlösung von Geschenkkarten leider nicht zur Verfügung.
@@ -7230,9 +7230,9 @@ In bestimmten Fällen sind weiterhin Ticketkontrollen möglich (siehe Frage: [Wa
 
 Kein Problem. Einfach das Zugticket mit einem Klick auf „Reservierung verwenden“ verknüpfen. Hierzu benötigen Sie ggf. zusätzlich die Reservierungsnummer (Res. Nr.) aus der Bestätigungsemail oder den Reservierungsinfos (PDF).
 
-* Sie haben Ihre BahnCard noch nicht im Kundenkonto hinterlegt?
+* Sie haben Ihre BahnCard noch nicht im DB Kundenkonto hinterlegt?
 
-Kein Problem. Geben Sie bitte Ihre BahnCard-Nummer während des Check-in-Prozesses manuell ein und speichern Sie diese idealerweise in Ihrem Kundenkonto. Bei Ihrem nächsten Check-in erfolgt die Überprüfung automatisch.
+Kein Problem. Geben Sie bitte Ihre BahnCard-Nummer während des Check-in-Prozesses manuell ein und speichern Sie diese idealerweise in Ihrem DB Kundenkonto. Bei Ihrem nächsten Check-in erfolgt die Überprüfung automatisch.
 
 * Sie wollen den Check-in bei Ihrer nächsten Reise noch unkomplizierter durchführen?
 
