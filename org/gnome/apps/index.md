@@ -25,7 +25,6 @@ GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-
 * [**Disks**Disk management utility for GNOME](DiskUtility/)
 * [**Document Scanner**Make a digital copy of your photos and documents](SimpleScan/)
 * [**Document Viewer**Read documents](Papers/)
-* [**Extensions**Manage your GNOME Extensions](Extensions/)
 * [**Files**Access and organize files](Nautilus/)
 * [**Fonts**View fonts on your system](FontViewer/)
 * [**Help**Help viewer for GNOME](Yelp/)
