@@ -254,9 +254,9 @@ Benötigen Sie Unterstützung bei der Nutzung der digitalen BahnCard? Weitere In
  Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard trotzdem nutzen?
 ----------
 
-Der Kauf einer BahnCard ist nur mit einem Kundenkonto auf bahn.de möglich. Für das Anlegen eines Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, z. B. Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
+Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, z. B. Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
 
-Falls Sie Ihre BahnCard vor Juni 2023 gekauft haben und noch kein Kundenkonto auf bahn.de besitzen, müssen Sie zur Nutzung der digitalen BahnCard ein Kundenkonto anlegen. Loggen Sie sich dann mit Ihrem Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren". Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+Falls Sie Ihre BahnCard vor Juni 2023 gekauft haben und noch kein DB Kundenkonto auf bahn.de besitzen, müssen Sie zur Nutzung der digitalen BahnCard ein DB Kundenkonto anlegen. Loggen Sie sich dann mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren". Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-keine-e-mail-adresse-kann-ich-die-digitale-bahncard-trotzdem-nutzen)
 
@@ -768,13 +768,13 @@ Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bah
  Wie kann ich die Jugend BahnCard bestellen?
 ----------
 
-Der Kauf einer Jugend BahnCard 25 ist nur mit einem Kundenkonto und somit mit einer gültigen, persönlichen E-Mail-Adresse möglich. Die Bestellung einer Jugend BahnCard 25 über das Kundenkonto eines Erziehungsberechtigten ist nicht möglich. Auch beim Kauf einer Jugend BahnCard 25 im DB Reisezentrum oder in einer Agentur ist eine gültige E-Mail-Adresse Voraussetzung.
+Der Kauf einer Jugend BahnCard 25 ist nur mit einem DB Kundenkonto und somit mit einer gültigen, persönlichen E-Mail-Adresse möglich. Die Bestellung einer Jugend BahnCard 25 über das DB Kundenkonto eines Erziehungsberechtigten ist nicht möglich. Auch beim Kauf einer Jugend BahnCard 25 im DB Reisezentrum oder in einer Agentur ist eine gültige E-Mail-Adresse Voraussetzung.
 
 Bitte gehen Sie so vor:
 
-1. Kundenkonto auf den Namen des Kindes erstellen mit eigener E-Mail-Adresse (diese darf nicht bereits für ein Kundenkonto der Deutschen Bahn verwendet werden).
+1. DB Kundenkonto auf den Namen des Kindes erstellen mit eigener E-Mail-Adresse (diese darf nicht bereits für ein Kundenkonto der Deutschen Bahn verwendet werden).
 2. Zahlarten des Kindes oder eines Erziehungsberechtigten hinterlegen.
-3. Digitale Jugend BahnCard in der App DB Navigator über das Kundenkonto anzeigen lassen und auf der Reise nutzen.
+3. Digitale Jugend BahnCard in der App DB Navigator über das DB Kundenkonto anzeigen lassen und auf der Reise nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-jugend-bahncard-bestellen)
 
