@@ -1910,8 +1910,7 @@ Haben Sie das Ticket per Kreditkarte bezahlt, erhalten Sie eine Gutschrift über
 
 Bei Zahlung per Lastschrift erfolgt die Gutschrift auf Ihr Bankkonto. Alle Zahlungen eines Tages werden miteinander verrechnet und als eine Buchung auf Ihrem Konto vorgenommen.
 
-Um die Erstattung zu beantragen:
-Rufen Sie das digitale Ticket über die Auftragssuche oder die Buchungsrückschau in Ihrem Kundenkonto auf.
+Um die Erstattung zu beantragen, rufen Sie das digitale Ticket über die Auftragssuche oder die Buchungsrückschau in Ihrem DB Kundenkonto auf.
 
 Für Fahrkarten, die Sie im Reisezentrum oder am DB Automaten gekauft haben:
 Gehen Sie zu einem DB Reisezentrum, um den Umtausch oder die Erstattung vorzunehmen.

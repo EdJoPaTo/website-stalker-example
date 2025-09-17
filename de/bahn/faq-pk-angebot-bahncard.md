@@ -1204,7 +1204,7 @@ Ja. Mit der My BahnCard 100 und dem kostenlos inkludierten digitalen Deutschland
  Wie kann ich einen Sitzplatz aus dem kostenlosen Kontingent bei einer (My) BahnCard 100, 1. Klasse buchen?
 ----------
 
-Sie können Ihr Kontingent in Ihrem Kundenkonto über die Webseite bahn.de oder in der App DB Navigator, Menüpunkt „BahnCard“ einsehen und einlösen.
+Sie können Ihr Kontingent in Ihrem DB Kundenkonto über die Webseite bahn.de oder in der App DB Navigator, Menüpunkt „BahnCard“ einsehen und einlösen.
 
 Das Sitzplatzkontingent können Sie auch:
 
