@@ -34,11 +34,11 @@ GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-
 * [**Maps**Find places around the world](Maps/)
 * [**Music**Play and organize your music collection](Music/)
 * [**Settings**Utility to configure the GNOME desktop](Settings/)
-* [**Showtime**Watch without distraction](Showtime/)
 * [**Software**Install and update apps](Software/)
 * [**System Monitor**View and manage system resources](SystemMonitor/)
 * [**Text Editor**Edit text files](TextEditor/)
 * [**Tour**GNOME Tour and Greeter](Tour/)
+* [**Video Player**Watch without distraction](Showtime/)
 * [**Weather**Show weather conditions and forecast](Weather/)
 * [**Web**Browse the web](Epiphany/)
 
