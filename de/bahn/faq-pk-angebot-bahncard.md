@@ -1188,7 +1188,7 @@ Sie können die BahnCard100 mit folgenden Zahlungsmitteln zahlen:
 * PayPal
 * Apple Pay
 
-Bitte überprüfen Sie vor der Zahlung, ob Ihr Verfügungsrahmen auf Ihrer Kreditkarte, bei PayPal oder Apple Pay. Falls nicht, veranlassen Sie bei Ihrem Zahlungsdienstleister die Anpassung.
+Bitte überprüfen Sie vor der Zahlung, ob Ihr Verfügungsrahmen auf Ihrer Kreditkarte, bei PayPal oder Apple Pay ausreichend ist. Falls nicht, veranlassen Sie bei Ihrem Zahlungsdienstleister die Anpassung.
 
 Weitere Infos zur Authentifizierung mit Ihrer Kreditkarte finden Sie [hier](https://www.bahn.de/faq/3dsecure-bezahlen)
 
