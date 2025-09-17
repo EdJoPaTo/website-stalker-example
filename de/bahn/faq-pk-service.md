@@ -215,7 +215,7 @@ Ab dem Reisetag ist eine Stornierung ausgeschlossen.
 
 Wenn Hin- und Rückfahrt auf einem Ticket gebucht wurden, kann nur beides zusammen storniert werden. Wenn Sie nur eine Fahrt stornieren möchten, sollten Sie Hin- und Rückfahrt getrennt buchen.
 
-Um das Sparpreis-Ticket zu stornieren, bitte in "Meine Reisen" im "Meine Bahn"-Kundenkonto gehen oder die Auftragssuche nutzen. Danach kann das neue Ticket wie gewohnt gebucht werden.
+Um das Sparpreis-Ticket zu stornieren, bitte in "Meine Reisen" im "Meine Bahn"- DB Kundenkonto gehen oder die Auftragssuche nutzen. Danach kann das neue Ticket wie gewohnt gebucht werden.
 
 **Sofortstornierung:**
 
@@ -3835,7 +3835,7 @@ In Ihrem Kundenkonto sehen Sie nur, dass ein Fahrgastrechteantrag eingereicht wu
 
 Die Fall-ID ist eine Referenznummer. Jeder eingereichte Fahrgastrechteantrag erhält eine Fall-ID, die eine eindeutige Zuordnung ermöglicht.
 
-Wenn Sie Ihren Entschädigungsanspruch digital einreichen, erhalten Sie direkt nach dem Absenden des Antrags bereits Ihre Fall-ID. Diese können Sie z.B. der Bestätigungs-E-Mail oder auch im Kundenkonto bei der Reise selbst sehen.
+Wenn Sie Ihren Entschädigungsanspruch digital einreichen, erhalten Sie direkt nach dem Absenden des Antrags bereits Ihre Fall-ID. Diese können Sie z.B. der Bestätigungs-E-Mail oder auch im DB Kundenkonto bei der Reise selbst sehen.
 
 Die Fall-ID ist auch im abschließenden Schreiben, das Sie vom Servicecenter Fahrgastrechte erhalten, aufgeführt. Bei einer Banküberweisung wird diese Nummer ebenfalls als Referenz angegeben.
 
