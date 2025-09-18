@@ -332,7 +332,7 @@ Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Si
  Wie funktioniert die Sitzplatzreservierung, wenn ich schon eine Fahrkarte habe?
 ----------
 
-**So geht's über "Meine Reisen", wenn Sie die Fahrkarte mit Ihrem Kundenkonto gebucht haben:**
+**So geht's über "Meine Reisen", wenn Sie die Fahrkarte mit Ihrem DB Kundenkonto gebucht haben:**
 
 1. Öffnen Sie Ihren Auftrag auf bahn.de unter "Meine Reisen".
 2. Wenn Sie Sitzplätze für die gebuchte Verbindung reservieren können, erscheint ein Button. Über diesen Button können Sie eine passende Sitzplatzreservierung hinzubuchen. Die Reisedaten aus Ihrem Ticketkauf werden direkt übernommen.

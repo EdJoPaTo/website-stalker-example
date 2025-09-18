@@ -2324,7 +2324,7 @@ Es besteht die Möglichkeit, dass eine Person mit positiver Bonitätsprüfung al
  Zulassung: Mir ist nicht bekannt, warum ich nicht zum Lastschriftverfahren zugelassen werde. Was kann ich tun?
 ----------
 
-Um die Sperre für das Lastschriftverfahren in Ihrem Kundenkonto zu überprüfen, melden Sie sich bitte über das Kontaktformular:
+Um die Sperre für das Lastschriftverfahren in Ihrem DB Kundenkonto zu überprüfen, melden Sie sich bitte über das Kontaktformular:
 
 * [Anfrage zum Bestellstatus](https://www.bahn.de/hilfe#/abos-dticket/bestellstatus)
 
@@ -2826,7 +2826,7 @@ Zusätzlich können Sie das Digitale Ticket auf einem anderen Handy in den DB Na
 Weitere Details:
 
 * **E-Mail-Bestätigung:** Die PDF im Anhang der Bestätigungs-E-Mail kann als Beleg genutzt werden.
-* **Nutzung in der DB Navigator App:** Die meisten Online-Tickets können Sie auch als Handy-Ticket in der App DB Navigator verwenden, sofern Sie in der App mit dem gleichen Kundenkonto angemeldet sind oder das Ticket manuell hinzufügen.
+* **Nutzung in der DB Navigator App:** Die meisten Online-Tickets können Sie auch als Handy-Ticket in der App DB Navigator verwenden, sofern Sie in der App mit dem gleichen DB Kundenkonto angemeldet sind oder das Ticket manuell hinzufügen.
 
 **Hinweis:** Manche Angebote, z. B. bestimmte internationale Strecken, können nicht als Handy-Ticket genutzt werden.
 
@@ -2973,7 +2973,7 @@ Minderjährige können sich mit Zustimmung ihrer Sorgeberechtigten (in der Regel
 * **Apple Pay:** Die Nutzung von Apple Pay ist in Deutschland ab 16 Jahren möglich, wenn man eine eigene Apple ID besitzt. Nicht alle Banken unterstützen Apple Pay für Minderjährige, es ist ratsam sich bei der eigenen Bank zu informieren.
 * **Bonvoyo**: Ja
 
-**Tipp:** Wir empfehlen, Tickets für Kinder über das Kundenkonto der Sorgeberechtigten zu buchen, indem die Funktion “Für eine andere Person buchen” genutzt wird. Die Tickets können anschließend manuell in die App auf dem Smartphone des Kindes geladen werden.
+**Tipp:** Wir empfehlen, Tickets für Kinder über das DB Kundenkonto der Sorgeberechtigten zu buchen, indem die Funktion “Für eine andere Person buchen” genutzt wird. Die Tickets können anschließend manuell in die App auf dem Smartphone des Kindes geladen werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-mich-als-minderjaehriger-im-db-navigator-registrieren-und-darueber-tickets-kaufen)
 
@@ -2995,7 +2995,7 @@ Nein, ein digitales Ticket ist nicht auf eine andere Person übertragbar. Sie k�
 
 Benötigen Sie Angaben zur Mehrwertsteuer?
 
-Gehen Sie in Ihrem Kundenkonto auf **bahn.de** im Bereich "Meine Reisen" in die "Reisedetails". Dort können Sie die Rechnung über den Button "Rechnung erstellen" erzeugen.
+Gehen Sie in Ihrem DB Kundenkonto auf **bahn.de** im Bereich "Meine Reisen" in die "Reisedetails". Dort können Sie die Rechnung über den Button "Rechnung erstellen" erzeugen.
 
 In der **App DB Navigator** können Sie die Rechnung im Bereich "Reisen" im Reiseplan unter "Weitere Aktionen" öffnen.
 
@@ -3954,7 +3954,7 @@ Falls ein Ticket nicht angezeigt wird oder Sie es nicht über Ihr DB Kundenkonto
  Obwohl ich mich erfolgreich einloggen konnte, erhalte ich eine Fehlermeldung bei der Buchung. Woran kann das liegen?
 ----------
 
-Haben Sie in Ihrem Kundenkonto in Ihren persönlichen Daten (z. B. Name, Adresse) ein Sonderzeichen (z. B. $, ", griechische Buchstaben etc.) verwendet, kann es vorkommen, dass eine Buchung fehlschlägt. In diesem Fall korrigieren Sie bitte Ihre persönlichen Daten.
+Haben Sie in Ihrem DB Kundenkonto in Ihren persönlichen Daten (z. B. Name, Adresse) ein Sonderzeichen (z. B. $, ", griechische Buchstaben etc.) verwendet, kann es vorkommen, dass eine Buchung fehlschlägt. In diesem Fall korrigieren Sie bitte Ihre persönlichen Daten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/login-fehlermeldung)
 
@@ -6032,7 +6032,7 @@ Die Streckenfavoriten werden Ihnen dann in der festgelegten Reihenfolge im Menü
  Wie richte ich die Benachrichtigungen zur Reise für meine Pendelstrecke ein?
 ----------
 
-Loggen Sie sich in Ihrem Kundenkonto ein. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten. Klicken Sie dann in den Verbindungsdetails auf die drei Punkte oben rechts und anschließend auf „Wiederholende Reise einstellen“. Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen.
+Loggen Sie sich in Ihrem DB Kundenkonto ein. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten. Klicken Sie dann in den Verbindungsdetails auf die drei Punkte oben rechts und anschließend auf „Wiederholende Reise einstellen“. Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen.
 
 Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "Wiederholende Reisen". Hier können Sie die Benachrichtigungen auch pausieren, wenn Sie vorrübergehend keine Benachrichtigungen erhalten möchten.
 

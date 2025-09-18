@@ -53,7 +53,7 @@ Nein, Sie bekommen keinen BahnCard-Rabatt bei einer Buchung der Gruppenangebote.
  Wie kann ich online eine Rechnung für meine BahnCard anfordern?
 ----------
 
-1. Loggen Sie sich in Ihr [Kundenkonto](https://www.bahn.de/link_bc-selfservices) ein.
+1. Loggen Sie sich in Ihr [DB Kundenkonto](https://www.bahn.de/link_bc-selfservices) ein.
 2. Klicken Sie auf den Menüpunkt "BahnCard".
 3. Unter "Optionen" der jeweiligen BahnCard finden Sie den Punkt "Rechnung anfordern"
 
@@ -104,7 +104,7 @@ Sie können Ihre **BahnCard 25** oder **BahnCard 50** bis zu 4 Wochen vor Laufze
 
 So kündigen Sie online:
 
-* In Ihr Kundenkonto einloggen.
+* In Ihr DB Kundenkonto einloggen.
 * Auf "BahnCard" klicken und "Optionen" auswählen.
 * Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
 * Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
@@ -144,7 +144,7 @@ Was kann ich tun, wenn ich meine BahnCard verloren habe? Wie kann ich die BahnCa
 Ja, die Probe BahnCard 25/50 müssen Sie bis zu 4 Wochen vor Laufzeitende in Textform kündigen.
 
 So kündigen Sie am einfachsten:
-1. Loggen Sie sich in Ihr Kundenkonto ein.
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
 2. Klicken Sie auf den Menüpunkt „BahnCard" und danach auf "Optionen".
 3. Prüfen Sie, ob die Option „BahnCard kündigen" vorhanden ist.
 4. Wählen Sie „BahnCard kündigen" und bestätigen Sie. Ist die Option „BahnCard kündigen" nicht vorhanden, ist die Kündigungsfrist überschritten und die Kündigung nicht mehr möglich.

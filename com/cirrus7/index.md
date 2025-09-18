@@ -35,7 +35,7 @@ lüfterlose / lautlose Kühlung
 
 bis zu 4 x SSDs
 
-basierend auf ASRock DeskMini X300, X600 und B760
+basierend auf ASRock DeskMini X300, X600/USB4 und B760
 
 * mit AMD Ryzen / Intel Raptor Lake CPU
 
@@ -43,7 +43,7 @@ basierend auf ASRock DeskMini X300, X600 und B760
 
 * bis zu 4 x SSDs
 
-* basierend auf ASRock DeskMini X300, X600 und B760
+* basierend auf ASRock DeskMini X300, X600/USB4 und B760
 
 ab € 499,00
 inkl. MwSt. und Versand
@@ -54,7 +54,7 @@ inkl. MwSt. und Versand
 
 Der Kleine mit der Größe.
 
-basierend auf Intel® NUC13 / NUC14 Pro/ NUC15 Pro
+basierend auf Intel® NUC13 / NUC14 / NUC15 Pro
 
 bis zu 96 GB RAM
 
