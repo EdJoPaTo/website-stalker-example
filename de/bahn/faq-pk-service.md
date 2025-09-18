@@ -5155,6 +5155,133 @@ Die Verantwortung, ob Sie alleine reisen dürfen, liegt tatsächlich bei den Erz
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-welchem-alter-darf-ich-alleine-mit-der-bahn-ins-ausland-fahren)
 
+ Ich besitze eine Wertmarke zum Schwerbehindertenausweis (SBA). Was muss ich bei der Online-Buchung beachten?
+----------
+
+Für Inhaber eines Schwerbehindertenausweises mit Wertmarke kann es günstiger sein, die Anfrage und Buchung nur auf die Fernverkehrsstrecke zu beschränken. Der Nahverkehr, zum Beispiel Regionalbahn (RB), ist mit der Wertmarke bereits abgedeckt. Das gilt auch für Fähren im Orts- und Nahbereich. Sie dürfen diese mit einer Wertmarke kostenlos nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wertmarke-mit-sba)
+
+ Wie kann ich Hilfeleistungen anmelden und was ist bei angemeldeten Hilfeleistungen zu beachten?
+----------
+
+Sie können Hilfe beim Ein-, Um- oder Aussteigen vor der Reise über die Mobilitätsservice-Zentrale anmelden. Die Anmeldung empfehlen wir so früh wie möglich. Die Hilfeleistung wird nicht automatisch mit der Ticketbuchung über bahn.de oder den DB Navigator angemeldet.
+
+* [Mehr Informationen zu Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfeleistungen)
+
+ Muss ich meine Hilfeleistung ummelden, wenn sich meine Reiseverbindung ändert?
+----------
+
+Sie können Hilfe beim Ein-, Um- oder Aussteigen vor der Reise über die Mobilitätsservice-Zentrale anmelden. Die Anmeldung empfehlen wir so früh wie möglich.
+
+Die Hilfeleistung wird nicht automatisch mit der Ticketbuchung über bahn.de oder den DB Navigator angemeldet.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hinweis-aenderung-reiseverbindung)
+
+ Wie storniere ich eine Hilfeleistung?
+----------
+
+Wenn Sie Ihre Reise nicht antreten, sagen Sie die angemeldeten Hilfeleistungen bitte ab. So können andere mobilitätseingeschränkte Reisende Unterstützung erhalten.
+
+Die Stornierung einer Hilfeleistung erfolgt nicht automatisch mit der Ticketstornierung.
+
+Bei weiteren Fragen wenden Sie sich vor der Reise an die Mobilitätsservice-Zentrale. Während der Reise fragen Sie den Service im Bahnhof oder das Personal im Zug.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-hilfeleistung-storniern)
+
+ Wie kann ich die Umstiegszeit verlängern?
+----------
+
+Wenn Sie für Umstiege mehr Zeit brauchen, geben Sie bei der Verbindungssuche eine längere Umstiegszeit an.
+
+Auf bahn.de klicken Sie in der Verbindungssuche auf "Umstiegszeit" und wählen Ihre gewünschte Umstiegszeit. Die Suche zeigt Ihnen dann passende Verbindungen.
+
+Im DB Navigator ändern Sie die Umstiegszeit in der Verbindungssuche über "Optionen".
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umstiegszeit-verlaengern)
+
+ Kann ich ein Hilfsmittel in den Zug mitnehmen?
+----------
+
+Ja, Sie können ein Hilfsmittel im Zug mitnehmen, wenn es die Maximalmaße einhält. Für Beratung und Reservierung eines Stellplatzes wenden Sie sich an die Mobilitätsservice-Zentrale.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsmittel-mitnehmen)
+
+ Wie bekommen meine Begleitperson und ich eine kostenfreie Sitzplatzreservierung?
+----------
+
+Im Fernverkehr erhalten Sie mit Schwerbehindertenausweis und dem Merkzeichen B eine kostenfreie Sitzplatzreservierung für sich und eine Begleitperson.
+
+Geben Sie Ihre Begleitperson bei der Online-Buchung als mitreisende Person an und fügen Sie nach der Angebotsauswahl die Sitzplatzreservierung hinzu.
+
+Wenn Sie schon ein Ticket haben und nur den Sitzplatz reservieren möchten, wenden Sie sich an die Mobilitätsservice-Zentrale.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kostenfreie-sitzplatzreservierung-begleitperson-reisender)
+
+ Muss ich meine Begleitperson bei der Online-Buchung mit angeben?
+----------
+
+Ja, Sie müssen Ihre Begleitperson bei der Online-Buchung als weitere reisende Person angeben, wenn Sie die Ermäßigungsart "SBA" mit Merkzeichen "B" auswählen. Das teuerste Ticket aller Mitreisenden wird automatisch als kostenfreies Ticket für die Begleitperson gebucht. Die Begleitperson steht auf dem Ticket. Bei der Kontrolle zeigen Sie den Schwerbehindertenausweis mit Merkzeichen B vor.
+
+Die Begleitperson muss mindestens 6 Jahre alt sein, um kostenlos mitreisen zu können.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitperson-in-buchung-angeben)
+
+ Welche Vorteile habe ich, wenn ich meine Begleitperson bei der Online-Buchung direkt mit angebe?
+----------
+
+Wenn Sie Ihre Begleitperson bei der Online-Buchung als weitere reisende Person angeben, können Sie beide eine kostenfreie Sitzplatzreservierung buchen und den Komfort Check-in nutzen.
+
+Mit Schwerbehindertenausweis mit Merkzeichen "B" und Wertmarke reisen Sie im Nahverkehr beide kostenlos. Für die Nahverkehrsstrecke brauchen Sie kein Ticket zu buchen.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vorteile-wenn-begleitperson-mit-angegeben-wird)
+
+ Erhalte ich mit meinem deutschen Schwerbehindertenausweis auch Ermäßigungen bei Auslandsreisen?
+----------
+
+Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenausweis aktuell nicht über bahn.de oder den DB Navigator buchen. Wenden Sie sich dafür an die Mobilitätsservice-Zentrale.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-mit-sba-bei-auslandsreisen)
+
+ Wie erhalte ich mit SBA eine kostenlose Reservierung ohne Ticketbuchung?
+----------
+
+Bitte wenden Sie sich für die kostenlose Reservierung an die Mobilitätsservice-Zentrale.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplastz-reservierung-ohne-ticketbuchung-mit-sba)
+
+ Was ist bei der Stornierung meines online gebuchten Tickets zu beachten?
+----------
+
+Informationen zu Umtausch und Stornierung finden Sie hier:
+
+* [Umtausch und Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stornierung-eines-gebuchten-tickets)
+
+ Was ist bei der Stornierung von Hilfeleistungen zu beachten?
+----------
+
+Wenn Sie zu Ihrer Reise eine Hilfeleistung angemeldet haben und die Reise nicht antreten, sagen Sie die Hilfeleistung bitte bei der Mobilitätsservice-Zentrale ab. So erhalten andere mobilitätseingeschränkte Reisende Unterstützung.
+
+Die Stornierung einer Hilfeleistung erfolgt nicht automatisch mit der Ticketstornierung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-beachten-bei-stornierung-einer-hilfeleistung)
+
  Funktioniert das BahnBonus Programm auch ohne Anmeldung?
 ----------
 
@@ -5298,7 +5425,7 @@ Wenn Sie BahnBonus Teilnehmer:in sind und innerhalb von 12 Monaten folgende Anza
  Woran erkenne ich meine Statuslaufzeit?
 ----------
 
-Ihre Statuslaufzeit sehen Sie in der BahnBonus App bei den Informationen zum Status, sowie in Ihrem DB Kundenkonto auf bahn.de und im Navigator.
+Ihre Statuslaufzeit sehen Sie in der BahnBonus App bei den Informationen zum Status sowie in Ihrem DB Kundenkonto auf bahn.de und im Navigator.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woran-erkenne-ich-meine-statuslaufzeit)
 
@@ -5327,12 +5454,12 @@ Ein Statuslevel ist für 12 Monate gültig. In diesem Zeitraum kommt es zu keine
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-bleibe-ich-in-einem-statuslevel)
 
- Was passiert, wenn während meiner Statuslaufzeit, mein Statuspunktestand, über oder unter die Punkteschwelle meines Statuslevels gelangt?
+ Was passiert, wenn während meiner Statuslaufzeit mein Statuspunktestand über oder unter die Punkteschwelle meines Statuslevels gelangt?
 ----------
 
-Fällt Ihr Statuspunktestand unter die Punkteschwelle Ihres aktuellen Statuslevels, bleiben Sie trotzdem in Ihrem Statuslevel.
+Fällt Ihr Statuspunktestand unter die Punkteschwelle Ihres aktuellen Statuslevels bleiben Sie trotzdem in Ihrem Statuslevel.
 
-Steigt Ihr Statuspunktestand, bis zur Punkteschwelle des höheren Statuslevels, steigen Sie direkt in das höhere Level auf, erhalten direkt dessen Statusvorteile. Die nicht genutzten Vorteile aus Ihrem vorherigen Statuslevel verfallen und die Statuslaufzeit von zwölf Monaten beginnt von Neuem.
+Steigt Ihr Statuspunktestand bis zur Punkteschwelle des höheren Statuslevels steigen Sie direkt in das höhere Level auf und erhalten direkt dessen Statusvorteile. Die nicht genutzten Vorteile aus Ihrem vorherigen Statuslevel verfallen und die Statuslaufzeit von 12 Monaten beginnt von Neuem.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-statuspunktestand-waehrend-der-statuslaufzeit-unter-die-punkteschwelle-meines-levels-faellt)
 
@@ -5396,9 +5523,9 @@ Mit der BahnBonus App können Sie ganz bequem am Vorteilsprogramm teilnehmen:
 * Den aktuellen Prämien- und Statuspunktestand, inklusive aller Transaktionen und Hinweise zum Punkteverfall, immer im Blick
 * Als Statuskunde nutzen Sie all Ihre Statusvorteile, die nur über die App einlösbar sind
 * Sie haben Zugang zu tollen Angeboten und Aktionen bei der DB und Partnerunternehmen
-* Die Möglichkeit in der PrämienWelt Ihre Prämienpunkte direkt gegen Prämien einzutauschen
+* Die Möglichkeit, in der PrämienWelt Ihre Prämienpunkte direkt gegen Prämien einzutauschen
 * Den Bordgastro Gutschein als Barcode direkt zum Einlösen bereit
-* Informationen zu Ihrer persönlichen Co2-Einsparung
+* Informationen zu Ihrer persönlichen CO₂-Einsparung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-brauche-ich-die-bahnbonus-app)
 
@@ -5658,16 +5785,16 @@ Ihr Punktekonto bleibt erhalten. Reine Änderungen an der BahnCard, zum Beispiel
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard)
 
- Welche Vorteile bringen mir die drei BahnBonus Statuslevel?
+ Welche Vorteile bringen mir die 3 BahnBonus Statuslevel?
 ----------
 
-Jedes der drei Statuslevel Silber, Gold und Platin bietet Ihnen unterschiedliche, exklusive Vorteile.
+Jedes der 3 Statuslevel Silber, Gold und Platin bietet Ihnen unterschiedliche, exklusive Vorteile.
 
 Mit dem Silberstatus genießen Sie 8 Freigetränke in der Bordgastronomie, 8 Tagespässe für die DB Lounges, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
 
 Der Goldstatus bietet Ihnen 12 Freigetränke in der Bordgastronomie, unbegrenzten Zugang für die DB Lounges, Zugang zum exklusiven Sitzplatzbereich in Fernverkehrszügen, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
 
-Mit dem Platinstatus profitieren Sie zusätzlich zu den Gold-Vorteilen noch von 30 % Rabatt in der Bordgastronomie, vom Zugang zum Premium-Bereich der DB Lounges sowie von der exklusiven Reservierungsmöglichkeit in bereits ausgebuchten Zügen. Einen Überblick der Vorteile je Statuslevel finden Sie hier.
+Mit dem Platinstatus profitieren Sie zusätzlich zu den Gold-Vorteilen noch von 30 % Rabatt in der Bordgastronomie, vom Zugang zum Premium-Bereich der DB Lounges sowie von der exklusiven Reservierungsmöglichkeit in bereits ausgebuchten Zügen. Hier erhalten Sie einen [Überblick der Vorteile je Statuslevel](https://www.bahn.de/service/bahnbonus/status-level).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vorteile-bringen-mir-die-drei-bahnbonus-statuslevel)
 
