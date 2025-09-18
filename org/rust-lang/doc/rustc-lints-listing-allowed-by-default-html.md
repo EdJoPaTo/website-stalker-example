@@ -205,7 +205,7 @@ error: call to deprecated safe function `std::env::set_var` is unsafe and requir
   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ call to unsafe function
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/newly-unsafe-functions.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/newly-unsafe-functions.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -279,15 +279,15 @@ This will produce:
 error: this `Deref` implementation is covered by an implicit supertrait coercion
   --> lint_example.rs:9:1
    |
-9  | impl<'a> Deref for dyn 'a + B {
+ 9 | impl<'a> Deref for dyn 'a + B {
    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ `dyn B` implements `Deref<Target = dyn A>` which conflicts with supertrait `A`
 10 |     type Target = dyn A;
-   |     -------------------- target type is a supertrait of `dyn B`
+   |     ----------- target type is a supertrait of `dyn B`
    |
 note: the lint level is defined here
   --> lint_example.rs:1:9
    |
-1  | #![deny(deref_into_dyn_supertrait)]
+ 1 | #![deny(deref_into_dyn_supertrait)]
    |         ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ```
@@ -339,7 +339,7 @@ error: the `expr` fragment specifier will accept more expressions in the 2024 ed
   |       ^^^^
   |
   = warning: this changes meaning in Rust 2024
-  = note: for more information, see Migration Guide <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/macro-fragment-specifiers.html>
+  = note: for more information, see Migration Guide <https://doc.rust-lang.org/edition-guide/rust-2024/macro-fragment-specifiers.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -355,7 +355,7 @@ help: to keep the existing behavior, use the `expr_2021` fragment specifier
 ### Explanation ###
 
 Rust [editions](https://doc.rust-lang.org/edition-guide/) allow the language to evolve without breaking backwards
-compatibility. This lint catches code that uses [macro matcher fragment specifiers](https://doc.rust-lang.org/nightly/edition-guide/rust-2024/macro-fragment-specifiers.html) that have changed meaning in the 2024 edition. If you switch
+compatibility. This lint catches code that uses [macro matcher fragment specifiers](https://doc.rust-lang.org/edition-guide/rust-2024/macro-fragment-specifiers.html) that have changed meaning in the 2024 edition. If you switch
 to the new edition without updating the code, your macros may behave
 differently.
 
@@ -649,11 +649,11 @@ warning: `if let` assigns a shorter lifetime since Edition 2024
    |                          this value has a significant drop implementation which may observe a major change in drop order and requires your discretion
    |
    = warning: this changes meaning in Rust 2024
-   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/temporary-if-let-scope.html>
+   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/temporary-if-let-scope.html>
 note: value invokes this custom destructor
   --> lint_example.rs:5:1
    |
-5  | impl Drop for Droppy {
+ 5 | impl Drop for Droppy {
    | ^^^^^^^^^^^^^^^^^^^^
 help: the value is now dropped here in Edition 2024
   --> lint_example.rs:26:5
@@ -663,7 +663,7 @@ help: the value is now dropped here in Edition 2024
 note: the lint level is defined here
   --> lint_example.rs:1:9
    |
-1  | #![warn(if_let_rescope)]
+ 1 | #![warn(if_let_rescope)]
    |         ^^^^^^^^^^^^^^
 help: a `match` with a single arm can preserve the drop order up to Edition 2021
    |
@@ -734,7 +734,7 @@ error: `impl std::fmt::Display` will capture more lifetimes than possibly intend
   |                          ^^^^^^^^^^^^
   |
   = warning: this changes meaning in Rust 2024
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/rpit-lifetime-capture.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/rpit-lifetime-capture.html>
 note: specifically, this lifetime is in scope but not mentioned in the type's bounds
  --> lint_example.rs:7:12
   |
@@ -883,7 +883,7 @@ error: `gen` is a keyword in the 2024 edition
   |    ^^^ help: you can use a raw identifier to stay compatible: `r#gen`
   |
   = warning: this is accepted in the current edition (Rust 2015) but is a hard error in Rust 2024!
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/gen-keyword.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/gen-keyword.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -950,7 +950,7 @@ warning: non-binding let on a type that has a destructor
 note: the lint level is defined here
   --> lint_example.rs:9:11
    |
-9  |    #[warn(let_underscore_drop)]
+ 9 |    #[warn(let_underscore_drop)]
    |           ^^^^^^^^^^^^^^^^^^^
 help: consider binding to an unused variable to avoid immediately dropping the value
    |
@@ -1335,7 +1335,7 @@ warning: extern blocks should be unsafe
   | |_^
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/unsafe-extern.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/unsafe-extern.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -1436,7 +1436,7 @@ help: consider using a block (`{ ... }`) to shrink the value's scope, ending bef
 note: the lint level is defined here
   --> lint_example.rs:2:9
    |
-2  | #![warn(must_not_suspend)]
+ 2 | #![warn(must_not_suspend)]
    |         ^^^^^^^^^^^^^^^^
 
 ```
@@ -1575,7 +1575,7 @@ This will produce:
 error: the item `None` is imported redundantly
    --> lint_example.rs:3:5
     |
-3   | use std::option::Option::None;
+  3 | use std::option::Option::None;
     |     ^^^^^^^^^^^^^^^^^^^^^^^^^
     |
    ::: /checkout/library/std/src/prelude/mod.rs:161:13
@@ -1586,7 +1586,7 @@ error: the item `None` is imported redundantly
 note: the lint level is defined here
    --> lint_example.rs:1:9
     |
-1   | #![deny(redundant_imports)]
+  1 | #![deny(redundant_imports)]
     |         ^^^^^^^^^^^^^^^^^
 
 ```
@@ -1692,11 +1692,11 @@ error: changes to closure capture in Rust 2021 will affect drop order
 24 | }
    | - in Rust 2018, `p` is dropped here, but in Rust 2021, only `p.x` will be dropped here as part of the closure
    |
-   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2021/disjoint-capture-in-closures.html>
+   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2021/disjoint-capture-in-closures.html>
 note: the lint level is defined here
   --> lint_example.rs:1:9
    |
-1  | #![deny(rust_2021_incompatible_closure_captures)]
+ 1 | #![deny(rust_2021_incompatible_closure_captures)]
    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 help: add a dummy let to cause `p` to be fully captured
    |
@@ -1740,11 +1740,11 @@ error: changes to closure capture in Rust 2021 will affect which traits the clos
 11 |         *fptr.0 = 20;
    |         ------- in Rust 2018, this closure captures all of `fptr`, but in Rust 2021, it will only capture `fptr.0`
    |
-   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2021/disjoint-capture-in-closures.html>
+   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2021/disjoint-capture-in-closures.html>
 note: the lint level is defined here
   --> lint_example.rs:1:9
    |
-1  | #![deny(rust_2021_incompatible_closure_captures)]
+ 1 | #![deny(rust_2021_incompatible_closure_captures)]
    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 help: add a dummy let to cause `fptr` to be fully captured
    |
@@ -1798,7 +1798,7 @@ error: the meaning of the `pat` fragment specifier is changing in Rust 2021, whi
   |                          ^^^^^^^^ help: use pat_param to preserve semantics: `$pat:pat_param`
   |
   = warning: this is accepted in the current edition (Rust 2018) but is a hard error in Rust 2021!
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2021/or-patterns-macro-rules.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2021/or-patterns-macro-rules.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -1839,7 +1839,7 @@ error: prefix `z` is unknown
   |    ^ unknown prefix
   |
   = warning: this is accepted in the current edition (Rust 2018) but is a hard error in Rust 2021!
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2021/reserving-syntax.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2021/reserving-syntax.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -1900,11 +1900,11 @@ error: trait method `try_into` will become ambiguous in Rust 2021
    |                     ^^^^^^^^^^^^^^ help: disambiguate the associated function: `Foo::try_into(&*"3")`
    |
    = warning: this is accepted in the current edition (Rust 2018) but is a hard error in Rust 2021!
-   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2021/prelude.html>
+   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2021/prelude.html>
 note: the lint level is defined here
   --> lint_example.rs:1:9
    |
-1  | #![deny(rust_2021_prelude_collisions)]
+ 1 | #![deny(rust_2021_prelude_collisions)]
    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ```
@@ -1945,7 +1945,7 @@ error: will be parsed as a guarded string in Rust 2024
   |    ^^^^^^^
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/reserved-syntax.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/reserved-syntax.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -1963,7 +1963,7 @@ error: will be parsed as a guarded string in Rust 2024
    |    ^^^^^^^^
    |
    = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/reserved-syntax.html>
+   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/reserved-syntax.html>
 help: insert whitespace here to avoid this being parsed as a guarded string in Rust 2024
    |
 10 | m!(# "hello");
@@ -2082,7 +2082,7 @@ error: trait method `poll` will become ambiguous in Rust 2024
   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ help: disambiguate the associated function: `Meow::poll(&core::pin::pin!(async {}))`
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/prelude.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/prelude.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -2187,12 +2187,12 @@ error: trait item `hello` from `Downstream` shadows identically named item from 
 note: item from `Upstream` is shadowed by a subtrait item
   --> lint_example.rs:6:5
    |
-6  |     fn hello(&self) {}
+ 6 |     fn hello(&self) {}
    |     ^^^^^^^^^^^^^^^
 note: the lint level is defined here
   --> lint_example.rs:2:9
    |
-2  | #![deny(supertrait_item_shadowing_definition)]
+ 2 | #![deny(supertrait_item_shadowing_definition)]
    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ```
@@ -2249,12 +2249,12 @@ note: item from `Downstream` shadows a supertrait item
 note: item from `Upstream` is shadowed by a subtrait item
   --> lint_example.rs:6:5
    |
-6  |     fn hello(&self) {}
+ 6 |     fn hello(&self) {}
    |     ^^^^^^^^^^^^^^^
 note: the lint level is defined here
   --> lint_example.rs:2:9
    |
-2  | #![deny(supertrait_item_shadowing_usage)]
+ 2 | #![deny(supertrait_item_shadowing_usage)]
    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ```
@@ -2322,22 +2322,22 @@ warning: relative drop order changing in Rust 2024
    | - now the temporary value is dropped here, before the local variables in the block or statement
    |
    = warning: this changes meaning in Rust 2024
-   = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/temporary-tail-expr-scope.html>
+   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/temporary-tail-expr-scope.html>
 note: `#1` invokes this custom destructor
   --> lint_example.rs:8:1
    |
-8  | impl Drop for Droppy {
+ 8 | impl Drop for Droppy {
    | ^^^^^^^^^^^^^^^^^^^^
 note: `another_droppy` invokes this custom destructor
   --> lint_example.rs:8:1
    |
-8  | impl Drop for Droppy {
+ 8 | impl Drop for Droppy {
    | ^^^^^^^^^^^^^^^^^^^^
    = note: most of the time, changing drop order is harmless; inspect the `impl Drop`s for side effects like releasing locks or sending messages
 note: the lint level is defined here
   --> lint_example.rs:1:9
    |
-1  | #![warn(tail_expr_drop_order)]
+ 1 | #![warn(tail_expr_drop_order)]
    |         ^^^^^^^^^^^^^^^^^^^^
 
 ```
@@ -2693,7 +2693,7 @@ warning: unsafe attribute used without unsafe
   |   ^^^^^^^^^ usage of unsafe attribute
   |
   = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/unsafe-attributes.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/unsafe-attributes.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -2831,7 +2831,7 @@ error[E0133]: call to unsafe function `foo` is unsafe and requires unsafe block
 6 |     foo();
   |     ^^^^^ call to unsafe function
   |
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/unsafe-op-in-unsafe-fn.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/unsafe-op-in-unsafe-fn.html>
   = note: consult the function's documentation for information on how to avoid undefined behavior
 note: an unsafe function restricts its caller, but its body is safe by default
  --> lint_example.rs:5:1

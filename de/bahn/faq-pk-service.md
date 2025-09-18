@@ -7670,6 +7670,42 @@ Deutsche Bahn's Komfort Check-in function lets you check in for your rail journe
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/what-is-kci)
 
+ How does Komfort Check-in work in the DB Navigator app?
+----------
+
+1) Take your seat
+
+* Sit in the seat you have reserved or one that is available.
+
+1) Check in
+
+* In the DB Navigator app, tap on "Journeys" and select the relevant ticket (not the reservation you may have booked separately).
+* Tap the "Itinerary" tab and then the "Komfort Check-in" button for your current connection.
+* Confirm your seat (if you have a reservation) or enter it manually (if you do not have a reservation) and tap "Check in now".
+
+3) Confirmation
+
+* A green confirmation screen will appear, indicating that your ticket has been digitally validated and no longer needs to be shown.
+* If you change your seat, please use the "Change seat" button in the itinerary to update the check-in to the new seat. This will inform the train crew that you have moved to a new seat and you will generally not be inspected there either.
+
+**Note:** Your ticket may still be inspected in certain cases (see question: Why was my ticket still inspected despite Komfort Check-in)?
+
+**Tips:**
+
+Did you not book the seat reservation together with the train ticket?
+
+* No problem. Simply link the train ticket by tapping "Use reservation". You may also need the reservation number (Res. no.) from the confirmation e-mail or the booking information (PDF).
+
+Have you not yet saved your BahnCard in your customer account?
+
+* No problem. Please enter your BahnCard number manually during the check-in process and ideally save it in your customer account. The check will be carried out automatically when you check in next.
+
+Do you want to make check-in for your next trip even easier?
+
+* No problem. Simply activate notifications in the DB Navigator app on your smartphone. In future, we will remind you of the Komfort Check-in function shortly before the start of your journey and you can check in with just a few clicks.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-does-kci-work-with-db-navigator)
+
  What are the requirements for using Komfort Check-in?
 ----------
 
