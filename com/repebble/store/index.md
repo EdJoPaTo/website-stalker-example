@@ -99,24 +99,25 @@ Here's the awesome part - PebbleOS is [open source](https://github.com/pebble-de
 
 ### What are the technical specifications? ###
 
-|                                    |         Pebble 2 Duo         |           Pebble Time 2           |
-|------------------------------------|------------------------------|-----------------------------------|
-|              Display               |          1.26" B/W           |          1.5" 64-colour           |
-|             Resolution             |   144x168 pixels, 176 DPI    |      200x228 pixels, 202 DPI      |
-|            Interaction             |          4 buttons           |      4 buttons + touchscreen      |
-|               Frame                |        Polycarbonate         |Stainless Steel 316 + Polycabonate |
-|              Sensors               |6-axis IMU, compass, barometer|  6-axis IMU, heart rate, compass  |
-|          Starts shipping           |             July             |             December              |
-|               Price                |             $149             |               $225                |
-|          Mic and speaker           |              ✅               |                 ✅                 |
-|             Backlight              |              ✅               |             ✅ RGB LED             |
-|Linear resonance actuator (vibrator)|              ✅               |                 ✅                 |
-|            Battery life            |           30 days            |          30 days (est.)           |
-|             Connector              |   Standard Pebble charger    |      Standard Pebble charger      |
-|          Water resistance          |        IPX8 (target)         |           IPX8 (target)           |
-|          Health features           |   Step and sleep tracking    |Heart rate, step and sleep tracking|
-|            Strap width             |             22mm             |               22mm                |
-|      iPhone and Android apps       |              ✅               |                 ✅                 |
+|                                    |                                Pebble 2 Duo                                 |                                Pebble Time 2                                |
+|------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+|              Display               |                                  1.26" B/W                                  |                               1.5" 64-colour                                |
+|             Resolution             |                           144x168 pixels, 176 DPI                           |                           200x228 pixels, 202 DPI                           |
+|            Interaction             |                                  4 buttons                                  |                           4 buttons + touchscreen                           |
+|               Frame                |                                Polycarbonate                                |                     Stainless Steel 316 + Polycarbonate                     |
+|             Dimensions             |[39.55 × 30.25 × 10.40 mm (43.92mm lug to lug)](/images/watch-dimensions.png)|[43.00 × 36.04 × 10.90 mm (41.40mm lug to lug)](/images/watch-dimensions.png)|
+|              Sensors               |                       6-axis IMU, compass, barometer                        |                       6-axis IMU, heart rate, compass                       |
+|          Starts shipping           |                                    July                                     |                                  December                                   |
+|               Price                |                                    $149                                     |                                    $225                                     |
+|          Mic and speaker           |                                      ✅                                      |                                      ✅                                      |
+|             Backlight              |                                      ✅                                      |                                  ✅ RGB LED                                  |
+|Linear resonance actuator (vibrator)|                                      ✅                                      |                                      ✅                                      |
+|            Battery life            |                                   30 days                                   |                               30 days (est.)                                |
+|             Connector              |                           Standard Pebble charger                           |                           Standard Pebble charger                           |
+|          Water resistance          |                                IPX8 (target)                                |                                IPX8 (target)                                |
+|          Health features           |                           Step and sleep tracking                           |                     Heart rate, step and sleep tracking                     |
+|            Strap width             |                                    22mm                                     |                                    22mm                                     |
+|      iPhone and Android apps       |                                      ✅                                      |                                      ✅                                      |
 
 Images above feature impeccably designed watchfaces from [TTMM](https://ttmm.is/pebble/), including one of my all-time favourites - [TTMMBRN](https://apps.rebble.io/en_US/application/57812aa56c21044501000ed5?query=ttmm&section=watchfaces). Thank you Albert!
 
