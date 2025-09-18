@@ -470,7 +470,7 @@ Nein, mit Ihrer BahnCard erhalten Sie keinen Rabatt auf das Deutschland-Ticket.
  Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
 ----------
 
-Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte, in Höhe des Ticketpreises, gutgeschrieben, wenn
+Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises gutgeschrieben, wenn
 
 * Sie zu BahnBonus angemeldet sind
 * die Buchung über bahn.de oder dem DB Navigator erfolgt

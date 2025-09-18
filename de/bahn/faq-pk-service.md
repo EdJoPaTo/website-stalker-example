@@ -860,7 +860,7 @@ So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal 
  Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
 ----------
 
-Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte, in Höhe des Ticketpreises, gutgeschrieben, wenn
+Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises gutgeschrieben, wenn
 
 * Sie zu BahnBonus angemeldet sind
 * die Buchung über bahn.de oder dem DB Navigator erfolgt
@@ -5264,7 +5264,7 @@ Mit der Teilnahme am BahnBonus Programm, profitieren Sie als BahnCard Besitzer:i
  Wie kann ich meine gesammelten BahnBonus Punkte einlösen?
 ----------
 
-Ihre Prämienpunkte können Sie in der [PrämienWelt](https://bahnbonus-praemienwelt.de/)gegen Prämien eintauschen.
+Ihre Prämienpunkte können Sie in der [PrämienWelt](https://bahnbonus-praemienwelt.de/) gegen Prämien eintauschen.
 
 Ihre Statuspunkte sind nicht einlösbar, da diese nur zum Erreichen des [BahnBonus Statuslevels](http://www.bahn.de/service/bahnbonus/status-level) dienen.
 
@@ -5280,14 +5280,14 @@ Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt a
  Kann ich Statuspunkte auch gegen Prämien einlösen?
 ----------
 
-Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der drei Statuslevel zu erreichen.
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der 3 Statuslevel zu erreichen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
 
  Wie kann ich ein BahnBonus Statuslevel erreichen?
 ----------
 
-Wenn Sie BahnBonus Teilnehmer:in sind und innerhalb von zwölf Monaten folgende Anzahl an Statuspunkten erreicht haben, erhalten Sie diese Statuslevel:
+Wenn Sie BahnBonus Teilnehmer:in sind und innerhalb von 12 Monaten folgende Anzahl an Statuspunkten erreicht haben, erhalten Sie diese Statuslevel:
 
 * Level Silber - ab 1.500 Statuspunkten
 * Level Gold - ab 2.500 Statuspunkten
@@ -5323,7 +5323,7 @@ Die Statuslaufzeit beginnt mit Erreichen der entsprechenden Statuspunkteschwelle
  Wie lange bleibe ich in einem Statuslevel?
 ----------
 
-Ein Statuslevel ist für zwölf Monate gültig. In diesem Zeitraum kommt es zu keinem Leveldowngrade, ein Levelupdate hingegen erfolgt jederzeit, mit dem Erreichen der Punkteschwelle, für das nächsthöhere Statuslevel.
+Ein Statuslevel ist für 12 Monate gültig. In diesem Zeitraum kommt es zu keinem Leveldowngrade, ein Levelupdate hingegen erfolgt jederzeit, mit dem Erreichen der Punkteschwelle, für das nächsthöhere Statuslevel.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-bleibe-ich-in-einem-statuslevel)
 
@@ -5561,7 +5561,7 @@ Sofern Sie zu BahnBonus angemeldet sind, können Sie bei Transaktionen bei der D
 
 Für Buchungen, die Sie vor der Registrierung getätigt haben, können wir im Nachhinein leider keine BahnBonus Punkte zuschreiben.
 
-Weitere Informationen finden Sie [hier](https://www.bahn.de/service/bahnbonus/punkte-sammeln).
+[Weitere Informationen](http://www.bahn.de/service/bahnbonus/punkte-sammeln)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-angebote-kann-ich-praemien-und-statuspunkte-sammeln)
 
@@ -5572,7 +5572,7 @@ Prämienpunkte...
 
 * können Sie gegen BahnBonus Prämien eintauschen
 * erhalten Sie für Umsätze bei sammelfähigen Angeboten der DB und Sammelpartnern
-* sind drei Jahre gültig
+* sind 3 Jahre gültig
 
 Statuspunkte...
 
@@ -5580,7 +5580,7 @@ Statuspunkte...
 * erhalten Sie nur für Umsätze bei sammelfähigen Angeboten der DB
 * sind ein Jahr gültig.
 
-Eine Übersicht der sammelfähigen Angebote der DB finden Sie [hier](https://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife). Eine Übersicht der BahnBonus Sammelpartner finden Sie [hier](https://www.bahn.de/service/bahnbonus/vorteile).
+Hier erhalten Sie eine [Übersicht der sammelfähigen Angebote der DB](http://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife). und eine [Übersicht der BahnBonus Sammelpartner](http://www.bahn.de/service/bahnbonus/vorteile).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-praemien-und-statuspunkte)
 
@@ -5617,7 +5617,7 @@ Davon unabhängig können Sie sich jedoch separat zu BahnBonus anmelden und Punk
  Wo kann ich den Punkteverfall einsehen und werde ich informiert, wenn meine Punkte bald verfallen?
 ----------
 
-Sofern eine Anmeldung zum Newsletter vorliegt, werden Sie quartalsweise per E-Mail über Ihren Punktestand – und Verfall informiert. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie dies jederzeit einsehen.
+Sofern eine Anmeldung zum Newsletter vorliegt, werden Sie quartalsweise per E-Mail über Ihren Punktestand und -verfall informiert. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie dies jederzeit einsehen.
 
 * [Zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
 
@@ -5814,15 +5814,10 @@ Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https:/
 
 Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
 
-Die Zustellung per Post als Brief oder Paket erfolgt innerhalb von 10 Tagen
-
-\- für den Versand entstehen keine Kosten.
-
-Die Zustellung per E-Mail erfolgt am Tag der Bestellung - spätestens innerhalb 4 Tagen.
-
-Sofortbuchungen können Sie direkt als Online-Ticket oder Handy-Ticket herunterladen.
-
-Der Bordgastro Gutschein erscheint direkt als Barcode in der App.
+* Die Zustellung per Post als Brief oder Paket erfolgt innerhalb von 10 Tagen - für den Versand entstehen keine Kosten.
+* Die Zustellung per E-Mail erfolgt am Tag der Bestellung - spätestens innerhalb 4 Tagen.
+* Sofortbuchungen können Sie direkt als Online-Ticket oder Handy-Ticket herunterladen.
+* Der Bordgastro Gutschein erscheint direkt als Barcode in der App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
 
@@ -5836,7 +5831,7 @@ Je nach bestellter Prämie erfolgt die Zustellung per E-Mail als Paket oder per 
  Kann ich bereits bestellte Prämien umtauschen, erstatten oder reklamieren?
 ----------
 
-Unsere Prämien sind von Umtausch, Erstattung oder (Teil-)Auszahlung ausgeschlossen. Im Falle eines Defekts einer Sachprämie, nutzen Sie bitte unser Kontaktformular.
+Unsere Prämien sind von Umtausch, Erstattung oder (Teil-)Auszahlung ausgeschlossen. Im Falle eines Defekts einer Sachprämie, nutzen Sie bitte unser [Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahnbonus-reklamation).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-umtauschen)
 
