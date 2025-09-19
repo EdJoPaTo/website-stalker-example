@@ -274,19 +274,6 @@ Ja. Sie können mehrere Deutschland-Tickets in die DB Navigator App laden. Wenn 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-mehrere-tickets-app)
 
- Was ist der Unterschied zwischen Deutschland-Ticket und 9-Euro-Ticket?
-----------
-
-Beim 9-Euro-Ticket handelte es sich um eine temporär eingeführte Monatskarte, die für die Sommermonate Juni, Juli und August 2022 zu einem Pauschalpreis von jeweils 9 Euro erworben werden konnte.
-
-Das Deutschland-Ticket wird hingegen ist ein dauerhaft erhältliches Abonnement.
-
-[Zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-unterschied-9-euro-ticket)
-
  Handelt es sich bei dem Deutschland-Ticket um ein Abonnement?
 ----------
 
