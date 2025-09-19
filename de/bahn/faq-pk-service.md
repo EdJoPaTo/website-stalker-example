@@ -371,7 +371,7 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
  Wie lange im Voraus kann ich den Flexpreis kaufen?
 ----------
 
-Flexpreis-Tickets können bis zu **12 Monate im Voraus** (jeweils ab dem Fahrplanwechsel im Juni und Dezember) gebucht werden.
+Tickets können bis zu **12 Monate im Voraus** gebucht werden.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
