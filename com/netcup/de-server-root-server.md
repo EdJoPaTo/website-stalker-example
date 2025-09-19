@@ -16,7 +16,7 @@ Root Server Angebote
 Leistungsstarke Root Server mit CPU- und RAM-Ressourcen die **deinen Anwendungen exklusiv zur Verfügung stehen**.
 Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](https://www.netcup.com/de/server) schätzt, für den ist ein Root Server die beste Wahl.
 
-LAUNCH DEAL
+BEST SELLER
 
 RS 1000 G12
 
@@ -35,7 +35,7 @@ bereits ab monatlich
 
 (inkl. 0% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m-nue)
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m#rs-1000-g12-12m-nue)
 
 RS 2000 G12
 
@@ -132,13 +132,6 @@ bereits ab monatlich
 (inkl. 0% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-16000-g12-12m#rs-16000-g12-12m-nue)
-
-Mehr Power. Mehr Stabilität. Mehr Geschwindigkeit.
-----------
-
-Die neue Root-Server-Generation 12 ist da! Angetrieben von den neuesten AMD EPYC™ Prozessoren vereint sie top Geschwindigkeit, Effizienz und absolute Stabilität. Außerdem haben wir dir einen EPYC Deal vorbereitet: Sichere dir den RS 1000 G12 in Nürnberg mit 3 Monaten kostenlos – nur bis Freitag, 19.09. 14 Uhr!
-
-[Deal sichern](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m-nue)
 
 Root Server auf KVM-Basis
 ----------
