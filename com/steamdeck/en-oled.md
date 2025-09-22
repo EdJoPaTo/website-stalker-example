@@ -164,6 +164,10 @@ Steam Deck is Bluetooth-ready, and its USB-C port can handle all sorts of I/O: y
 Compare Steam Decks
 ----------
 
+\-20%
+
+13,37€
+
 ### 256GB LCD ###
 
 * 256GB NVMe SSD

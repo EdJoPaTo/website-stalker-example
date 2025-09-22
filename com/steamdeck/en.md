@@ -39,6 +39,10 @@ Your games, everywhere
 Compare Steam Decks
 ----------
 
+\-20%
+
+$399.00
+
 ### 256GB LCD ###
 
 * 256GB NVMe SSD
