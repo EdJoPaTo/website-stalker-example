@@ -5356,7 +5356,7 @@ Ihren Status können Sie nur mit der digitalen BahnBonus Karte in der BahnBonus 
  Wie kann ich meine E-Mail-Adresse ändern, die ich bei meiner BahnBonus Anmeldung hinterlegt habe?
 ----------
 
-Um Ihre E-Mail-Adresse zu ändern, loggen Sie sich in Ihrem [DB Kundenkonto](https://bahn.de/info/login) auf bahn.de ein. Im Bereich „Persönliche Daten“ können Sie Ihre E-Mail-Adresse zentral ändern.
+Um Ihre E-Mail-Adresse zu ändern, loggen Sie sich in Ihrem [DB Kundenkonto auf bahn.de](http://bahn.de/info/login) ein. Im Bereich „Persönliche Daten“ können Sie Ihre E-Mail-Adresse zentral ändern.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-e-mail-adresse-aendern-die-ich-bei-den-bahncard-services-hinterlegt-habe)
 
@@ -5543,10 +5543,10 @@ Ihre digitale BahnBonus Karte finden Sie direkt in der BahnBonus App. Die digita
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bekomme-ich-meine-digitale-karte-in-der-bahnbonus-app-angezeigt-brauche-ich-trotzdem-noch-eine-plastikkarte)
 
- Wo finde ich Informationen zur BahnBonus App?
+ An wen wende ich mich bei Fragen zur BahnBonus App?
 ----------
 
-Die App zum Vorteilsprogramm – alle wichtigen Informationen für Sie auf einen Blick:
+Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das Formular in der App. Ansonsten erreichen Sie uns unter 0302970 (Mo bis So von 08 bis 20 Uhr) oder per E-Mail an [app-support@deutschebahn.com](mailto:app-support@deutschebahn.com).
 
 * [Mehr zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
 
@@ -5735,9 +5735,7 @@ In Ihrem DB Kundenkonto können Sie im Bereich „BahnBonus“ das automatische 
  Kann ich mit einer vorläufigen BahnCard BahnBonus Punkte sammeln?
 ----------
 
-Um BahnBonus Prämien- und Statuspunkte sammeln zu können, müssen Sie eine endgültige BahnCard besitzen. Mit einer vorläufigen BahnCard können Sie keine BahnBonus Punkte sammeln.
-
-Davon unabhängig können Sie sich jedoch separat zu BahnBonus anmelden und Punkte sammeln.
+Ja, sofern Sie zu BahnBonus angemeldet sind und eine Sammelnummer besitzen, können Sie mit dieser weiterhin BahnBonus Punkte sammeln.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-einer-vorlaeufigen-bahncard-bahnbonus-punkte-sammeln)
 
