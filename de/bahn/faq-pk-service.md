@@ -1663,6 +1663,13 @@ Wenn sich Ihr Anschlusszug verspätet, kann es also sein, dass sie einen Anschlu
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-fahrgastrechte)
 
+ Was bedeutet „Datum liegt außerhalb der Fahrplanperiode.“?
+----------
+
+Werden in der Verbindungsauskunft keine Verbindungen angezeigt, liegt das gewünschte Reisedatum außerhalb des aktuellen Fahrplans. Eine Fahrplanperiode beginnt jeweils Mitte Dezember und endet Mitte Dezember des Folgejahres. Der Fahrplan für das kommende Jahr wird in der Regel Mitte Oktober veröffentlicht. Ab diesem Zeitpunkt können Sie Ihre Tickets buchen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-fahrplanperiode)
+
  Was ist ein Ersatzfahrplan?
 ----------
 
