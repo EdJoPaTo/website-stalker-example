@@ -2928,13 +2928,6 @@ Nein, Digitale Tickets sind nicht übertragbar. Die Person, auf die das Ticket a
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-digitale-tickets-die-ich-im-reisezentrum-gekauft-habe-uebertragbar)
 
- Wo finde ich Reisezentren, um mir dort ein Digitales Ticket zu kaufen?
-----------
-
-Das Digitale Ticket erhalten Sie in allen DB Reisezentren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-reisezentren-um-mir-dort-ein-digitales-ticket-zu-kaufen)
-
  Wie lade ich mein Digitales Ticket, das ich im Reisezentrum gekauft habe, in die App DB Navigator?
 ----------
 
