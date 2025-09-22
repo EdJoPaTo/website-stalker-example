@@ -327,6 +327,9 @@ sites:
       - css_select: body
       - css_remove: "style, img, video, .deck_price_final, #handson"
       - css_remove: ".reserve button, #language-dropdown"
+      - regex_replace:
+          pattern: '[\d,]+€|[$£][\d.]+'
+          replace: 13,37€
       - html_url_canonicalize
       - html_markdownify
   - url:

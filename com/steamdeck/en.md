@@ -41,7 +41,7 @@ Compare Steam Decks
 
 \-20%
 
-£349.00
+13,37€
 
 ### 256GB LCD ###
 
