@@ -1421,7 +1421,7 @@ Nutzen Sie die Verbindungssuche oder gehen Sie im Menübereich "Buchen" auf "Tic
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verbundtickets-wo-kaufen)
 
- Wie kann ich einen Kaufbeleg für mein Verbundticket erstellen?
+ Wie erhalte ich eine Rechnung für mein Verbundticket?
 ----------
 
 Hierzu gibt es verschiedene Möglichkeiten:

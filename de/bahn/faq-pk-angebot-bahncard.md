@@ -1197,7 +1197,7 @@ Weitere Infos zur Authentifizierung mit Ihrer Kreditkarte finden Sie [hier](htt
  Gibt es die BahnCard 100 für Studierende?
 ----------
 
-Ja. Mit der My BahnCard 100 und dem kostenlos inkludierten digitalen Deutschland-Ticket können Studierende unbegrenzt ein Jahr lang im Nah- und Fernverkehr flexibel in Deutschland reisen.
+Ja. Mit der My BahnCard 100 und dem kostenlos inkludierten digitalen Deutschland-Ticket können Studierende bis 27 Jahre unbegrenzt ein Jahr lang im Nah- und Fernverkehr flexibel in Deutschland reisen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-100-fuer-studenten)
 
