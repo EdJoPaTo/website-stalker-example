@@ -88,6 +88,21 @@ Nur gültig bis 30.09.2025 | Solange der Vorrat reicht
 
 [](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
 
+ Adventskalender - Hinter jeder Tür ein Tool
+
+###  Straussbox öffne dich!  ###
+
+---
+
+ 24 Türchen voller Werkzeug und Zubehör, das jedes Handwerkerherz höherschlagen lässt. Verpackt in einer neuen, superkompakten Toolbox – so hält die Freude das ganze Jahr über!
+
+[zum Adventskalender](https://www.strauss.com/de/de/arbeitsschutz/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Arbeitsschutz)
+
+ jetzt in hochwertiger STRAUSSbox
+---
+
+[](https://www.strauss.com/de/de/arbeitsschutz/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Arbeitsschutz)
+
 Neue Herbst-Highlights für alle
 
 ----------
