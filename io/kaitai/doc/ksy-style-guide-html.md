@@ -2,7 +2,7 @@ KSY Style Guide
 ==========
 
 Kaitai Project
-version 0.10
+version 0.11
 
 Although .ksy files are treated as YAML files, and YAML syntax allows
 quite a few representations of the same content, it is recommended to
@@ -94,10 +94,16 @@ Use the following order of sections:
 
 3. `doc-ref`
 
-4. `seq`
+4. `to-string`
 
-5. `instances`, `types`, `enums` — use one’s best judgement to order
-   these 3 to maximize readability
+5. `params`
+
+6. `seq`
+
+7. `instances`
+
+8. `types`, `enums` — use one’s best judgement to order these two to
+   maximize readability
 
 3. Meta section (`meta`)
 ----------
@@ -148,6 +154,8 @@ For top-level meta section, use the following order of keys:
 
    2. `endian`
 
+   3. `bit-endian`
+
 For intermediate-level meta sections, use the following order of keys:
 
 1. Defaults (in alphabetic order):
@@ -155,6 +163,8 @@ For intermediate-level meta sections, use the following order of keys:
    1. `encoding`
 
    2. `endian`
+
+   3. `bit-endian`
 
 Note
 
@@ -243,33 +253,33 @@ When specifying an attribute, one MUST use the following order of keys:
 
    1. `enum`
 
-   2. `contents`
+   2. `terminator`
 
-   3. `pad-right`
+   3. `include`
 
-   4. `terminator`
+   4. `consume`
 
-   5. `include`
+   5. `eos-error`
 
-   6. `consume`
+   6. `pad-right`
 
-   7. `eos-error`
-
-   8. `encoding`
+   7. `encoding`
 
 6. `process`
 
-7. Repetition-related keys:
+7. `valid`, `contents`
+
+8. Repetition-related keys:
 
    1. `repeat`
 
-   2. `repeat-eos`, `repeat-expr`, `repeat-until`
+   2. `repeat-expr`, `repeat-until`
 
-8. `if`
+9. `if`
 
-9. `doc`
+10. `doc`
 
-10. `doc-ref`
+11. `doc-ref`
 
 Every key is optional. Attributes SHOULD have at least `id` and `doc`— however, see below for notes about omitting `id`, and `doc` SHOULD
 NOT be included if it’s trivial (i.e. if it is a copy of `id`, and

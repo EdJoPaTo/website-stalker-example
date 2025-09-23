@@ -2,7 +2,7 @@ Kaitai Struct User Guide
 ==========
 
 Kaitai Project
-version 0.10
+version 0.11
 
 1. Introduction
 ----------
@@ -42,9 +42,9 @@ A list of Web IDE features is available on the [*kaitai\_struct\_webide* GitHub 
 Note that there are two different versions of the Web IDE:
 
 1. <https://ide.kaitai.io/> — **stable** version, has the stable Kaitai Struct
-   compiler (currently 0.10, released 2022-07-08)
+   compiler (currently 0.11, released 2025-09-07)
 
-2. <https://ide.kaitai.io/devel/> — unstable development version, has the **latest**compiler (the most recent 0.11-SNAPSHOT)
+2. <https://ide.kaitai.io/devel/> — unstable development version, has the **latest**compiler (the most recent 0.12-SNAPSHOT)
 
 If you want to use the latest features, use the [**devel** Web IDE](https://ide.kaitai.io/devel/).
 

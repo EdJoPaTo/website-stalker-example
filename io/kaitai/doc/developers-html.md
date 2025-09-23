@@ -326,44 +326,51 @@ Publishing runtime libraries
 
 ### JavaScript ###
 
-* Pump version in `package.json` and `package-lock.json` (search for `"version": `)
-  to `X.Y.Z` format (e.g. `0.9.0` for 0.9 release)
+* First, release a `*-SNAPSHOT.{N}` version (e.g. `0.11.0-SNAPSHOT.4`)
 
-* Make a commit with the changes and tag it `$VERSION`
+  * `npm version 0.{XXX}.0-SNAPSHOT.{YYY}` (will automatically commit the necessary changes and tag them accordingly)
 
-* `npm login` - fill npmjs.org login credentials
+  * `git push origin master v0.{XXX}.0-SNAPSHOT.{YYY}`
 
-* `npm publish --tag latest`
+  * Check <https://www.npmjs.com/package/kaitai-struct?activeTab=versions>
+
+* If it looks good, proceed to the actual stable release
+
+  * `npm version 0.{XXX}.0`
+
+  * `git push origin master v0.{XXX}.0`
 
 ### Python ###
 
-* Install/update the needed Python packaging tools: `python3 -m pip install --upgrade setuptools twine wheel`
+* First, release a development version `0.[0-9]+.dev[0-9]+` (e.g. `0.11.dev4`):
 
-  * If this gives you permission errors, **don’t use `sudo` to run `pip`**. Instead use your system package manager (e. g. `apt`) to install/update the tools, or add the `--user` option to `pip install`.
+  * Pump version in `kaitaistruct.py` to `__version__ = '0.{XXX}.dev{YYY}'`
 
-* Pump version in `kaitaistruct.py`, seek `__version__ =`
+  * `git tag v0.{XXX}.dev{YYY}`
 
-* Delete the `dist` directory (if it exists), so that built files from previous or development versions don’t get uploaded by accident.
+  * `git push origin master v0.{XXX}.dev{YYY}`
 
-* `python3 setup.py sdist bdist_wheel`
+  * Check <https://test.pypi.org/project/kaitaistruct/>
 
-* `twine check dist/*`
+* If it looks good, proceed to the actual stable release `0.[0-9]+`
 
-* `twine upload dist/*`
+  * Pump version in `kaitaistruct.py` to `__version__ = '0.{XXX}'`
 
-  * This will prompt for your PyPI credentials. See the [Twine docs](https://twine.readthedocs.io/en/latest/#configuration) for info on how to preset/permanently configure the credentials.
+  * `git tag v0.{XXX}`
 
-  * To upload to [TestPyPI](https://test.pypi.org/) instead: `twine upload --repository=testpypi dist/*`
+  * `git push origin master v0.{XXX}`
 
-* Check that new version appears under <https://pypi.org/project/kaitaistruct/#history>
+  * Check <https://test.pypi.org/project/kaitaistruct/> (the package distribution will be uploaded to TestPyPI first)
 
-* `git tag $VERSION`
+  * Approve the publishing CI workflow in [https://github.com/kaitai-io/kaitai\_struct\_python\_runtime/actions](https://github.com/kaitai-io/kaitai_struct_python_runtime/actions)
 
-* `git push origin $VERSION`
+  * Wait until the timer expires (if something appears to be wrong, you can cancel the operation)
 
 ### Ruby ###
 
-* Pump version in `lib/kaitai/struct/struct.rb`, seek `VERSION = `
+* Pump version in `lib/kaitai/struct/struct.rb`, seek `VERSION =`
+
+* `export SOURCE_DATE_EPOCH=$(git log -1 --pretty=%ct)` <sup class="footnote">[<a id="_footnoteref_1" class="footnote" href="#_footnotedef_1" title="View footnote.">1</a>]</sup>
 
 * `gem build kaitai-struct.gemspec`
 
@@ -373,13 +380,13 @@ Publishing runtime libraries
 
 * `git tag $VERSION`
 
-* `git push --tags`
+* `git push origin master $VERSION`
 
 ### C# ###
 
 * Pump versions in `kaitai_struct_runtime_csharp.csproj`, commit and put `$VERSION` tag on it
 
-* `dotnet pack -o .` → get resulting `.nupkg` and `.snupkg` files in the current directory
+* `CI=true dotnet pack -o .` → get resulting `.nupkg` file in the current directory
 
 * Create an API key on <https://www.nuget.org/account/apikeys>
 
@@ -398,10 +405,12 @@ After addition, don’t forget to update lists of languages:
 
 * [https://github.com/kaitai-io/kaitai\_struct\_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) — project description
 
-* [https://github.com/kaitai-io/kaitai\_struct\_compiler/blob/master/README.md](https://github.com/kaitai-io/kaitai_struct_compiler/blob/master/README.md) — `-t` option documentation
-
 * [http://kaitai.io](//kaitai.io) — everywhere
 
 * <https://bintray.com/kaitai-io/debian/kaitai-struct-compiler/view> — package description
 
 * [https://twitter.com/kaitai\_io](https://twitter.com/kaitai_io) — profile
+
+---
+
+[1](#_footnoteref_1). <https://reproducible-builds.org/docs/source-date-epoch/#git>
