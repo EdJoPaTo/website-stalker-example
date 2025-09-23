@@ -3519,7 +3519,7 @@ Bei Tickets mit Zugbindung (Sparpreisen) ist diese **Zugbindung** in **folgen
 
 * Bei **Zugausfall**
 * Bei **Haltausfall**
-* Wenn Sie durch Verschulden der DB Ihren **Anschlusszug nicht erreichen**
+* Wenn Sie Ihren **Anschlusszug nicht erreichen**
 * Wenn es durch eine Fahrplanänderung zu einer **verfrühten Abfahrt** des Zuges kommt
 
 **Zugbindung aufgehoben bedeutet**:

@@ -49,7 +49,7 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 ### Main memory ###
 
-|   Speichertyp   |         DDR4 SO-DIMM / DDR5         |
+|   Speichertyp   |     DDR4 SO-DIMM / DDR5 SO-DIMM     |
 |-----------------|-------------------------------------|
 |  Speichergröße  |  8-128 GB (konfigurationsabhängig)  |
 |  Taktfrequenz   |bis 5600 MHz (konfigurationsabhängig)|
@@ -70,12 +70,12 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 ### Connections ###
 
-|  Monitore   |    1x DisplayPort 1.4, 1x HDMI 2.0, 1x VGA    |
-|-------------|-----------------------------------------------|
-|USB (hinten) |    1x USB 3.1 Gen1 Typ A/ 1x USB 2.0 Typ A    |
-| USB (vorne) |    1x USB 3.1 Gen1 Typ-C/ 1x USB 3.1 Typ A    |
-|Audio (vorne)|        2x Stereo 3.5mm Klinkenbuchsen         |
-|  Netzwerk   |1x Gigabit Ethernet / Wifi + Bluetooth optional|
+|  Monitore   |1x DisplayPort 1.4, 1x HDMI 2.0, 1x USB 3.2 Typ C|
+|-------------|-------------------------------------------------|
+|USB (hinten) |     1x USB 3.1 Gen1 Typ A/ 1x USB 2.0 Typ A     |
+| USB (vorne) |     1x USB 3.1 Gen1 Typ-C/ 1x USB 3.1 Typ A     |
+|Audio (vorne)|         2x Stereo 3.5mm Klinkenbuchsen          |
+|  Netzwerk   | 1x Gigabit Ethernet / Wifi + Bluetooth optional |
 
 ### Pcie additional card ###
 
