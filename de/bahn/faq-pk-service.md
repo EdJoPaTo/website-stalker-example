@@ -6510,7 +6510,7 @@ Postfach 10 01 14
 
 Der Zugriff auf das DB Kundenkonto erfolgt wie gewohnt über den Kanal, den Sie bevorzugen. Das kann der DB Navigator sein oder auch die Website bahn.de/int.bahn.de.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-app-fuer-db-kundenkonto)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-app-fuer-kundenkonto)
 
  Ist das DB Kundenkonto kostenpflichtig?
 ----------
@@ -6538,7 +6538,7 @@ Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Naviga
 
 [Zu den Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-db-kundenkonto-um-ticket-zu-buchen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-kundenkonto-um-ticket-zu-buchen)
 
  Wo finde ich Datenschutzhinweise zum DB Kundenkonto?
 ----------
@@ -6547,7 +6547,7 @@ Auf der folgenden Seite finden Sie die aktuellen Datenschutzhinweise zum DB Kund
 
 * [Zu den Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/datenschutz-db-kundenkonto)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/datenschutz-kundenkonto)
 
  Gibt es Services oder Leistungen, die ohne DB Kundenkonto nicht nutzbar sind?
 ----------
@@ -6555,7 +6555,7 @@ Auf der folgenden Seite finden Sie die aktuellen Datenschutzhinweise zum DB Kund
 Auch in Zukunft ist es selbstverständlich möglich, zahlreiche Leistungen der Deutschen Bahn, wie zum Beispiel den Kauf einer Fahrkarte, auch ohne ein Kundenkonto zu nutzen.
 Insbesondere Komfortfunktionen können nur angeboten werden, wenn die dafür erforderlichen Daten hinterlegt sind. Dazu gehören zum Beispiel die schnellere Buchung, bei der Zahlungsdaten hinterlegt sein müssen, das Einlösen von Gutscheinen oder die Online-Abfrage von BahnBonus Punkten.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-services-leistungen-die-ohne-db-kundenkonto-nicht-nutzbar-sind)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-services-leistungen-die-ohne-kundenkonto-nicht-nutzbar-sind)
 
  Kann ich meine BahnCard im DB Kundenkonto hinterlegen?
 ----------
@@ -6882,7 +6882,7 @@ Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte mit Ihrem Benutzernamen
 2. Wählen Sie im unteren Bereich die Option "Konto löschen".
 3. Folgen Sie den Anweisungen zur Löschung.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-daten-bzw-mein-db-kundenkonto-loeschen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-daten-bzw-mein-kundenkonto-loeschen)
 
  Ich möchte mein Passwort zurücksetzen und habe keine E-Mail erhalten, was kann ich tun?
 ----------
@@ -6988,7 +6988,7 @@ So können Sie sich ausloggen:
 1. Klicken Sie rechts oben im Browser auf bahn.de auf Ihren Profilnamen.
 2. Dort finden Sie an letzter Stelle das Feld "Logout". Hier können Sie sich ausloggen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-logout)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kundenkonto-logout)
 
  Wie aktiviere ich die 2-Faktor-Authentifizierung?
 ----------

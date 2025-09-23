@@ -29,7 +29,7 @@ Ich bin am Bahnhof und mein Zug hat Verspätung – was kann ich tun?
 
 Wenn zu erwarten ist, dass der Zielbahnhof (laut Fahrkarte) mit einer Verspätung von mindestens 20 Minuten erreicht wird, können Reisende die Fahrt bei nächster Gelegenheit oder zu einem späteren Zeitpunkt fortsetzen. Dabei müssen Reisende nicht zwingend die gleiche Route nehmen wie ursprünglich geplant, lediglich der Zielbahnhof muss übereinstimmen. Es können auch andere, nicht reservierungspflichtige Zügen genutzt werden. Bei einem Ticket mit [Zugbindung](https://www.bahn.de/faq/was-bedeutet-zugbindung), ist diese aufgehoben. Dafür ist keine gesonderte Bestätigung des Zugpersonals nötig.
 
-Wer eine Fahrkarte für den Nahverkehr (RE, RB, IRE und S-Bahn) besitzt, aber einen höherwertigen Zug (z.B. Züge des Fernverkehrs, also IC/EC, ICE) nutzen möchte, muss zunächst die zusätzlich erforderliche Fahrkarte bezahlen. Anschließend können die Kosten über das Fahrgastrechte-Formular oder über das Kundenkonto online zurückfordert werden. Diese Regelung gilt nicht bei stark ermäßigten Fahrkarten (z.B. Länder-Tickets).
+Wer eine Fahrkarte für den Nahverkehr (RE, RB, IRE und S-Bahn) besitzt, aber einen höherwertigen Zug (z.B. Züge des Fernverkehrs, also IC/EC, ICE) nutzen möchte, muss zunächst die zusätzlich erforderliche Fahrkarte bezahlen. Anschließend können die Kosten über das Fahrgastrechte-Formular oder über das DB Kundenkonto online zurückfordert werden. Diese Regelung gilt nicht bei stark ermäßigten Fahrkarten (z.B. Länder-Tickets).
 
 **Nichtantritt oder Abbruch der Reise:**
 
