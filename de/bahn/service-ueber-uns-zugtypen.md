@@ -57,7 +57,7 @@ Der Großteil der Intercity 1-Wagen wurde umfangreicher Innenraum-Modernisierung
 
 ### Intercity 2: unser Doppeldecker ###
 
-Die neue Intercity-Generation mit zwei Ebenen zum Wohlfühlen.
+Die Intercity-Generation mit zwei Ebenen zum Wohlfühlen.
 
 [Mehr zum Intercity 2 erfahren Mehr zum Intercity 2 erfahren](https://www.bahn.de/service/ueber-uns/zugtypen/ic-2)
 
