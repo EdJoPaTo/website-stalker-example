@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### Köln ###
+### freiburg ###
 
-### 20. - 21. September 2025 ###
+### 27. September 2025 ###
 
-### 100 km ###
+### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/köln)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/freiburg)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -179,7 +179,7 @@ IN DEINER NÄHE!
 |  HAMBURG B. N.   |09/08/2025|08/08/2026|
 |   BERLIN B.N.    |30/08/2025|29/08/2026|
 |    STUTTGART     |06/09/2025|05/09/2026|
-|       KÖLN       |20/09/2025|          |
+|       KÖLN       |20/09/2025|19/09/2026|
 |     FREIBURG     |27/09/2025|          |
 | FREIBURG (25KM)  |27/09/2025|          |
 |       BERN       |04/10/2025|          |
