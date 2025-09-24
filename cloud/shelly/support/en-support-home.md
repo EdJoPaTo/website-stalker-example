@@ -5,13 +5,13 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
-**⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2⚠️**
+**⚠️ Notice ⚠️**
 
-We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to ensure uninterrupted service and access to new features.
+Some users may currently experience inaccuracies with the **Total History** data in the Energy panel of the Shelly Smart Control app.
 
-⚡ With V2, you can get a **single status request for up to 10 devices**, improving efficiency and performance.
+Our development team is actively working on a fix, and we’ll update you as soon as it’s resolved.
 
-[Read more and start integrating](https://shelly-api-docs.shelly.cloud/cloud-control-api/communication-v2/#get-devices-state)
+Thank you for your patience and understanding!
 
 Knowledge base
 ----------
