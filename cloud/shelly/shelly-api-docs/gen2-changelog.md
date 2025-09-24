@@ -11,14 +11,11 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-Unreleased
+[1.7.1] 2025-09-24
 ----------
-
-**Available as `1.7.1-beta2`**
 
 ### Fixed ###
 
-* [WiFi](/gen2/ComponentsAndServices/WiFi) Delay the first ping probe by 30s
 * [Scripting](/gen2/ComponentsAndServices/Script) Fix scopes when calling another script from eJS
 * [LoRa Add-On](/gen2/Addons/ShellyLoRaAddon) Fix failing Add-On updates
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Fix crash when dissociating TRV from gateway
@@ -26,11 +23,6 @@ Unreleased
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Reallocate space from application to FS to allow for increased TRV firmware size
 * [Matter](/gen2/ComponentsAndServices/Matter) Fix excessive power measurement reports
 * BL0942 zero-cross zynchronization: Fix fallback on missing zero-cross signal
-
-**Available as `1.7.1-beta1`**
-
-### Fixed ###
-
 * [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM) Drop wrong JTI entry from BLE MF data
 * [WiFi](/gen2/ComponentsAndServices/WiFi) Implement connectivity checks with GW pings; force a disconnect if PK seems to be lost
 * Bump min bootloader version to 1.0.2

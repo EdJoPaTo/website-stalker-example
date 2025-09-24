@@ -110,6 +110,24 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 
 [info@wetell.de](mailto:info@wetell.de)
 
+Wie können wir Dir helfen?
+
+Hallo!
+----------
+
+Wie können wir Dir helfen?
+
+Telefonisch – unter der
+
+[0761-76999848](tel:+4976176999848)
+
+(Mo-Fr, 8-18 Uhr)
+
+* [Häufig gestellte Fragen](https://www.wetell.de/service/faq)
+* [Schreib uns eine E-Mail](mailto:service@wetell.de)
+
+[WechselserviceDein Wechsel zu uns leicht gemacht](https://www.wetell.de/mobilfunk/wechselservice)
+
 Funktastisch!
 
 Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.
@@ -436,21 +454,3 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * Privatsphären-Einstellungen
 
 © 2025 Copyright WEtell. All rights reserved.
-
-Wie können wir Dir helfen?
-
-Hallo!
-----------
-
-Wie können wir Dir helfen?
-
-Telefonisch – unter der
-
-[0761-76999848](tel:+4976176999848)
-
-(Mo-Fr, 8-18 Uhr)
-
-* [Häufig gestellte Fragen](https://www.wetell.de/service/faq)
-* [Schreib uns eine E-Mail](mailto:service@wetell.de)
-
-[WechselserviceDein Wechsel zu uns leicht gemacht](https://www.wetell.de/mobilfunk/wechselservice)

@@ -39,6 +39,8 @@ Noch Fragen?
 
 in den FAQ
 
+Schnellauswahl an Filtern für FAQ
+
 SIM-Karte
 
 Ausland
