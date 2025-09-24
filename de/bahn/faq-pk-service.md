@@ -5305,7 +5305,7 @@ Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buch
  Was ist die digitale BahnBonus Karte?
 ----------
 
-Die digitale BahnBonus Karte dient als Nachweis Ihrer BahnBonus Teilnahme, Ihres Statuslevels und enthält Ihre BahnBonus Sammelnummer. Sie finden Sie in der BahnBonus App.
+Die digitale BahnBonus Karte dient als Nachweis Ihrer BahnBonus Teilnahme, Ihres Statuslevels und enthält Ihre BahnBonus Sammelnummer. Sie finden sie in der BahnBonus App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-die-digitale-bahnbonus-karte)
 
@@ -5546,7 +5546,7 @@ Ihre digitale BahnBonus Karte finden Sie direkt in der BahnBonus App. Die digita
  An wen wende ich mich bei Fragen zur BahnBonus App?
 ----------
 
-Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das Formular in der App. Ansonsten erreichen Sie uns unter 0302970 (Mo bis So von 08 bis 20 Uhr) oder per E-Mail an [app-support@deutschebahn.com](mailto:app-support@deutschebahn.com).
+Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das Formular in der App. Ansonsten erreichen Sie uns unter 0302970 (Mo bis So von 8 bis 20 Uhr) oder per E-Mail an [app-support@deutschebahn.com](mailto:app-support@deutschebahn.com).
 
 * [Mehr zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
 
@@ -5569,7 +5569,7 @@ Ihrem Konto können mehrere BahnCard- und BahnBonus Nummern zugeordnet sein. Das
  Wo kann ich mir die BahnBonus App herunterladen?
 ----------
 
-[Hier](https://www.bahn.de/service/mobile/bahnbonus-app)können Sie die BahnBonus App herunterladen.
+[Hier](https://www.bahn.de/service/mobile/bahnbonus-app) können Sie die BahnBonus App herunterladen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bahnbonusapp-herunterladen)
 
@@ -5619,7 +5619,9 @@ Seit September 2024 können Sie beim Kauf von Speisen und Getränken in unseren 
  Wie funktioniert der BahnBonus Sammelprozess im Bordrestaurant?
 ----------
 
-Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben. Navigieren Sie in der App zu Ihrer digitalen BahnBonus Karte. Tippen Sie auf den darunter liegenden Button „Scannen & Punkte sammeln“ und lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
+Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben.
+
+Navigieren Sie in der App zu Ihrer digitalen BahnBonus Karte. Tippen Sie auf den darunter liegenden Button "Scannen & Punkte sammeln" und lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
 
 * [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
 * [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
@@ -5666,7 +5668,7 @@ Bei [Sammelpartnern](https://www.bahn.de/service/bahnbonus/vorteile)ist die Punk
  Wie lange sind meine BahnBonus Punkte gültig?
 ----------
 
-Prämienpunkte sind drei Jahre gültig und Statuspunkte sind ein Jahr gültig.
+Prämienpunkte sind 3 Jahre gültig und Statuspunkte sind ein Jahr gültig.
 
 Die Gültigkeitsdauer beginnt ab dem 1.Geltungstag. Die Punkte verfallen zum Quartalsende. Punkte, die ihre Frist noch nicht erreicht haben, bleiben auf Ihrem Punktekonto erhalten. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie die Gültigkeit jederzeit einsehen.
 
@@ -5707,7 +5709,7 @@ Statuspunkte...
 * erhalten Sie nur für Umsätze bei sammelfähigen Angeboten der DB
 * sind ein Jahr gültig.
 
-Hier erhalten Sie eine [Übersicht der sammelfähigen Angebote der DB](http://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife). und eine [Übersicht der BahnBonus Sammelpartner](http://www.bahn.de/service/bahnbonus/vorteile).
+Hier erhalten Sie eine [Übersicht der sammelfähigen Angebote der DB](http://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife) und eine [Übersicht der BahnBonus Sammelpartner](http://www.bahn.de/service/bahnbonus/vorteile).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-praemien-und-statuspunkte)
 
