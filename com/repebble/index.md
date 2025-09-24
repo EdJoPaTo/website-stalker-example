@@ -49,4 +49,5 @@ Founder of Pebble
 Pebble is an e-paper smartwatch with simple functionality, long battery life, and fun, quirky design. It first launched on [Kickstarter](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android) in 2012 and sold over 2 million watches before the company's IP was sold to Fitbit in 2016.
 
 © Copyright ---- Core Devices LLC. All Rights Reserved.
+Core Devices has no affiliation with Google.
 [Store](https://store.rePebble.com) · [Privacy](privacy.html) · [Terms](terms.html) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Blog](https://ericmigi.com)

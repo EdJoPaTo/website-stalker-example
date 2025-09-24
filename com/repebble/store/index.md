@@ -126,6 +126,7 @@ Don't want to pre-order? [Sign up for updates](https://repebble.com/signup)
 Already placed a pre-order? [Manage your order](/manage)
 
 © Copyright 2025 Core Devices LLC. All Rights Reserved.
+Core Devices has no affiliation with Google.
 [Privacy](https://repebble.com/privacy.html) · [Terms](https://repebble.com/terms.html) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Help](mailto:info@rePebble.com) · [Blog](https://ericmigi.com)
 
 [Store powered by](https://yournextstore.com)
