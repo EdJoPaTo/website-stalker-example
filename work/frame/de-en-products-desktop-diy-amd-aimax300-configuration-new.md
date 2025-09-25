@@ -345,7 +345,7 @@ Quick select
 
  Framework
 
-012345678910
+0123456
 
 (Out of stock)  +€6
 
