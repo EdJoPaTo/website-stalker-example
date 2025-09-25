@@ -138,14 +138,14 @@ Durch die Platzierung im öffentlichen Raum und den einfachen Zugang wird das Mo
 Konnektivität und integrierte Mobilität
 ----------
 
-### mobil.live WebApp ###
+### mobil.live  ###
 
-Die mobil.live WebApp ist ein neue interaktive Mobilitätsanwendung der KielRegion, welche die verschiedenen Mobilitätsangebote auf jedem web-fähigen Gerät, wie Smartphones oder Tablets darstellt. Mithilfe von dynamischen Echtzeit-Informationen und einer einfachen und durchdachten Benutzeroberfläche können sich die Nutzer\*innen über die verschiedenen Mobilitätsangebote im Umkreis von 300 Meter ihres Standorts informieren. Die Live-Standorte von Fähren und Rollern, die Verfügbarkeit von Sharing-Angeboten oder Fahrzeiten von öffentlichen Verkehrsmitteln bildet die WebApp auf einer Karte in Echtzeit ab.
+mobil.live ist ein neue interaktive Mobilitätsanwendung der KielRegion, welche die verschiedenen Mobilitätsangebote auf jedem web-fähigen Gerät, wie Smartphones oder Tablets sowie unseren digitalen Stelen darstellt. Mithilfe von dynamischen Echtzeit-Informationen und einer einfachen und durchdachten Benutzeroberfläche können sich die Nutzer\*innen über die verschiedenen Mobilitätsangebote im Umkreis von 300 Meter ihres Standorts informieren. Die Live-Standorte von Fähren und Rollern, die Verfügbarkeit von Sharing-Angeboten oder Fahrzeiten von öffentlichen Verkehrsmitteln bildet die WebApp auf einer Karte in Echtzeit ab.
 
-Die mobil.live WebApp ist barrierefrei für jede\*n erreichbar. Die Anwendung dient der Sichtbarkeit aller klassischen und modernen Verkehrsangebote in der Region und zeigt erstmals alle Mobilitätsangebote gebündelt. Das Angebot erleichtert den Umstieg auf alternative Verkehrsmittel und unterstützt die Verlagerung vom motorisierten Individualverkehr zum klimafreundlichen Mobilitätsverbund.
+Die Anwendung dient der Sichtbarkeit aller klassischen und modernen Verkehrsangebote in der Region und zeigt erstmals alle Mobilitätsangebote gebündelt. Das Angebot erleichtert den Umstieg auf alternative Verkehrsmittel und unterstützt die Verlagerung vom motorisierten Individualverkehr zum klimafreundlichen Mobilitätsverbund.
 
 Die KielRegion GmbH als Ideengeberin und zentrale Projektleitung koordiniert während des Entwicklungsprozesses die Zusammenarbeit aller Projektteilnehmer:innen. Dazu gehören, neben der Stadt Kiel, dem Kreis Plön und der Wirtschaftsförderungs Gesellschaft des Kreises Rendsburg-Eckernförde, unter anderem die Träger des öffentlichen Personennahverkehrs sowie alle Bike -, Roller- und Car-Sharing Anbieter in der KielRegion.
 
 Die IT-Unternehmen ADDIX Internet Services und Hanseatics Rich Media wurden mit der Datenverarbeitung und Software-Entwicklung beauftragt.
 
-[Zur mobil. WebApp der KielRegion](https://mobil.kielregion.de/)
+[Zu mobil.live](https://mobil.kielregion.de/)
