@@ -285,7 +285,15 @@ Mit einem vServer hast du die Möglichkeit, verschiedene Aufgaben auszuführen, 
 
 ### Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server? ###
 
-Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei welchen du Zugriff auf deinen eigenen virtuellen Server erhältst. **Der Hauptunterschied liegt in der zugrundeliegenden Architektur und Art der Bereitstellung**: Ein VPS x86 basiert auf der x86-Architektur und ist ideal für eine breite Palette von Anwendungen geeignet. Ein VPS ARM verwendet die [ARM-Architektur](https://www.netcup.com/de/server/arm-server) und ist besonders effizient für spezielle Workloads wie IoT-Anwendungen oder Edge Computing. Während die zugrundeliegende CPU-Leistung bei VPS mit anderen Maschinen geteilt wird, ist diese bei einem Root-Server garantiert, wodurch diese besonders für spezielle und ressourcenintensive Anwendungen geeignet sind. Für jedes dieser Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen.
+Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei denen du Zugriff auf deinen eigenen virtuellen Server erhältst.
+
+Der Hauptunterschied liegt in der zugrundeliegenden Architektur und der Art der Bereitstellung:
+
+* VPS x86: Basierend auf der x86-Architektur und 64-Bit-fähig. Geeignet für eine breite Palette von Anwendungen
+* VPS ARM: Basierend auf der ARM-Architektur und ebenfalls 64-Bit-fähig. Besonders effizient für spezialisierte Workloads wie IoT-Anwendungen, Edge Computing oder ressourcenschonende Serveranwendungen.
+* Root-Server: Die CPU-Leistung steht exklusiv dem Kunden zur Verfügung, wodurch diese Systeme besonders für ressourcenintensive oder spezielle Anwendungen geeignet sind.
+
+Für alle diese Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen, um die Möglichkeiten optimal nutzen zu können.
 
 ### Wo ist der Standort meines VPS? ###
 

@@ -1,29 +1,25 @@
 netcup Deals
 ==========
 
-Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
+**Good By[t]e High Prices - Top Deals are loading**
 
-[Zu den Deals](https://www.netcup.com/de/deals#deals)
+Vom **30. September, 10 Uhr** (MEZ) bis zum **01. Oktober, 10 Uhr** (MEZ), hast du **24 Stunden lang** die Gelegenheit, das passende Aktionsprodukt für dich zu ergattern.
 
-* Alle (0) Flash Deals (0)
+[Mehr Informationen](https://www.netcup.com/de/deals#infos)
 
-Keine Deals in dieser Kategorie
+### **Das erwartet dich:** ###
 
-* ### Deal der Woche: Unschlagbare Specials warten auf dich ###
+* ### Unschlagbare Deals ###
 
-  Sichere dir jede Woche ein exklusives Special – mit zusätzlichen Rabatten oder spannenden Extras.
+  Wir halten einige unserer besten Deals aus den Kategorien Webhosting, Root-Server und Domains für dich parat.
 
-  Der Deal der Woche ist von Montag bis Freitag, 14:00 Uhr gültig – ausgenommen in den Wochen, in denen unsere monatlichen Aktionen stattfinden.
+* ### 24 Stunden verfügbar  ###
 
-* ### Monatliche Aktionen voller attraktiver Angebote ###
+  Sei dabei, wenn wir am 30.09. ab 10 Uhr den Countdown starten und sichere dir deinen Top-Deal.
 
-  Einmal im Monat, jeweils am letzten Dienstag, erwarten dich unsere umfangreichen Monatsaktionen. Ab 10:00 Uhr kannst du aus einer großen Auswahl an Angeboten rund um Server, Webhosting und Domains wählen.
+* ### Zusätzliche Flash Deals ###
 
-* ### Flash Deals: Kurzzeit-Angebote, die sich lohnen ###
-
-  Im Laufe des Monats veröffentlichen wir immer wieder zeitlich begrenzte Blitzangebote.
-
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)- oder [Telegram-Kanal](https://t.me/netcupoffical), damit du keine dieser Schnäppchen verpasst.
+  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), und sichere dir ein exklusives Extra-Angebot – nur für kurze Zeit!
 
 Bleibe auf dem Laufenden
 ----------
