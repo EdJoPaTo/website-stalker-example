@@ -144,7 +144,7 @@ The choice is yours.
 
 Available pre-built with Windows 11 or assemble it yourself with DIY Edition and choose your preferred OS, including Linux.
 
-[](/de/en/products/laptop12-intel-13gen/configuration/new)
+[](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
 
  Great for Linux & Windows
 
@@ -152,9 +152,9 @@ Available pre-built with Windows 11 or assemble it yourself with DIY Edition and
 
 Bring your own memory, storage, and operating system, including Linux, and build it yourself.
 
-[Pre-order](/de/en/products/laptop12-intel-13gen/configuration/new)
+[Pre-order](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
 
-[](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
+[](/de/en/products/laptop12-intel-13gen/configuration/new)
 
  Great for Windows
 
@@ -162,7 +162,7 @@ Bring your own memory, storage, and operating system, including Linux, and build
 
 Ready to go out of the box with Windows 11. Easy to upgrade if you ever need more in the future.
 
-[Pre-order](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
+[Pre-order](/de/en/products/laptop12-intel-13gen/configuration/new)
 
 ### Planning a volume purchase? ###
 
