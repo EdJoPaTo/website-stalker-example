@@ -1187,6 +1187,7 @@
 * [Teddybrummen](https://www.wdrmaus.de/filme/sachgeschichten/teddybrummen.php5)
 * [Teebeutel](https://www.wdrmaus.de/filme/sachgeschichten/teebeutel.php5)
 * [Teichrasierer](https://www.wdrmaus.de/filme/sachgeschichten/teichrasierer.php5)
+* [Textilrecycling](https://www.wdrmaus.de/filme/sachgeschichten/textilrecycling.php5)
 * [Thermometer](https://www.wdrmaus.de/filme/sachgeschichten/thermometer.php5)
 * [Thermoskanne](https://www.wdrmaus.de/filme/sachgeschichten/thermoskanne.php5)
 * [Tiefkühlerbsen](https://www.wdrmaus.de/filme/sachgeschichten/tiefkuehlerbsen.php5)
