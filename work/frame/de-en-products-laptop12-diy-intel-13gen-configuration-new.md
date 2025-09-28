@@ -425,7 +425,7 @@ Stylus will be available in multiple colors. Coming in Q3.
 
 (Coming soon)  +
 
- Add to Bag  Add pre-order to bag
+Out of stock
 
  Ships within five business days. [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
 
