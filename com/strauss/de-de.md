@@ -328,7 +328,7 @@ zzgl. Versandkosten
 
 [Service 0 60 50 / 97 10 12](tel:+496050971012)
 
-* ### Service ###
+* Service
 
   * [Home](https://www.strauss.com/de/de)
   * [Lieferung](https://www.strauss.com/de/de/Service/Lieferung)
@@ -339,7 +339,7 @@ zzgl. Versandkosten
   * [E-Procurement](https://www.strauss.com/de/de/e-procurement)
   * [Newsletter](https://www.strauss.com/de/de/Service/Newsletter)
 
-* ### Unternehmen ###
+* Unternehmen
 
   * [Brand News](https://www.strauss.com/de/de/brand-news)
   * [Karriere](https://www.strauss.com/de/de/Unternehmen/Karriere)
@@ -350,14 +350,14 @@ zzgl. Versandkosten
   * [Workwearstore](https://www.strauss.com/de/de/Unternehmen/workwearstore)
   * [Messen](https://www.strauss.com/de/de/Unternehmen/Messen)
 
-* ### Informationen ###
+* Informationen
 
   * [Kontakt](https://www.strauss.com/de/de/Informationen/Kontakt)
   * [Häufige Fragen](https://www.strauss.com/de/de/Helpcenter-Redirect)
   * [Lexikon](https://www.strauss.com/de/de/Informationen/Lexikon/A)
   * [Barrierefreiheitserklärung](https://www.strauss.com/de/de/Informationen/Barrierefreiheit)
 
-* ### Zahlarten ###
+* Zahlarten
 
   * [PayPal](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Kreditkarte](https://www.strauss.com/de/de/Service/Bezahlen)
@@ -387,7 +387,7 @@ Mail
 
 [ Newsletter-Anmeldung ]()
 
-###  STRAUSS FOLGEN  ###
+ STRAUSS FOLGEN
 
 * [](https://www.facebook.com/StraussEurope/)
 * [](https://www.youtube.com/@strauss_europe)

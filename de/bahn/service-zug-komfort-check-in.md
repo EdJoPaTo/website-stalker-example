@@ -77,13 +77,19 @@ Sie haben sich für einen Sitzplatz eingecheckt, möchten aber auf einem anderen
 
 ###  Schritt 1: Auf dem ursprünglichen Platz einchecken  ###
 
+#### Schritt 1 ####
+
 Sie haben sich erfolgreich auf Ihrem ursprünglichem Sitzplatz eingecheckt? Dann können Sie sich jetzt einen anderen verfügbaren Platz suchen, wenn Sie mögen.
 
 ###  Schritt 2: Neuen Platz suchen und Nummer eingeben  ###
 
+#### Schritt 2 ####
+
 Sie haben einen neuen, verfügbaren Sitzplatz gefunden? Dann rufen Sie jetzt den Komfort Check-in auf. Geben Sie die Wagen- und Sitzplatznummer des neuen Sitzplatzes (und gegebenenfalls Ihre BahnCard-Nummer) ein.
 
 ###  Schritt 3: Einchecken  ###
+
+#### Schritt 3 ####
 
 Schon fertig. Der Check-in wurde auf den neuen Sitzplatz geändert.
 
