@@ -215,9 +215,9 @@ Cooler Master Mobius 120p ARGB
 
 Noctua NF-A12x25 HS-PWM
 
-###### Optional carrying handle. Coming soon. ######
+###### Optional carrying handle. Now available. ######
 
-###### Optional carrying handle. Coming soon. ######
+###### Optional carrying handle. Now available. ######
 
 PC Parts. Your pick.
 ----------

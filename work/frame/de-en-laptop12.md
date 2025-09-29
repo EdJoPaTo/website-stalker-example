@@ -135,9 +135,9 @@ Responsive full size keyboard with excellent 1.5mm key travel. Made in a wide ra
 
 The side-ported stereo 2W speakers are loud and clear across clamshell, tablet, and tent modes.
 
-A great feeling stylus with two programmable buttons, 60-degree tilt sensitivity, and USI 2.0 support. Made with a removable, rechargeable battery with USB-C charging. And yeah, the colors match the laptops!
+A great feeling stylus with two programmable buttons, 60-degree tilt sensitivity, and USI 2.0 support. Built with a removable, rechargeable battery that charges over USB-C. Add it to your Framework Laptop 12 order or pick it up separately in the Marketplace.
 
-[Get notified](/products/laptop12-stylus?v=FRAPBR0001)
+[Learn more](/products/laptop12-stylus?v=FRAPBR0001)
 
 The choice is yours.
 ----------

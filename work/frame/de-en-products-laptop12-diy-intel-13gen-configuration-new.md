@@ -417,13 +417,37 @@ Close
  Add-ons
 ----------
 
-Stylus will be available in multiple colors. Coming in Q3.
+###  Stylus  ###
 
- Stylus - Stylus
+ Black
 
-0123456
+01
 
-(Coming soon)  +
+(Coming soon)  +€65
+
+ Sage
+
+01
+
+(Coming soon)  +€65
+
+ Lavender
+
+01
+
+(Coming soon)  +€65
+
+ Bubblegum
+
+01
+
+(Coming soon)  +€65
+
+ Gray
+
+01
+
+(Coming soon)  +€65
 
  Add to Bag  Add pre-order to bag
 
