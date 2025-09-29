@@ -283,13 +283,13 @@ Quick select
 
  \+€10
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
  USB-A
 
