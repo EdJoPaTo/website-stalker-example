@@ -507,7 +507,7 @@ updated 2021-04-20
 
 adc, dac, datasheet
 
-updated 2024-04-16
+updated 2025-09-30
 
 [Datasheet MiniAmp](https://www.hifiberry.com/docs/data-sheets/datasheet-miniamp/)
 
