@@ -45,7 +45,7 @@ Diese Regelung gilt nicht bei stark ermäßigten Fahrkarten (z.B. Schönes-Woche
 
 Sie haben 2 Möglichkeiten für die Erstattungen im Rahmen Ihrer Fahrgastrechte:
 
-* online über Ihr Kundenkonto im DB Navigator oder auf bahn.de
+* online über Ihr DB Kundenkonto im DB Navigator oder auf bahn.de
 * über das Fahrgastrechte-Formular
 
 Mehr zum Fahrgastrechte-Formular: Nach dem Download füllen Sie es aus und senden es unterschrieben an die auf dem Formular angegebene Adresse.

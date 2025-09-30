@@ -1040,7 +1040,7 @@ Handy-Tickets sind personalisierte Tickets, enthalten also auch den Namen des Ku
 Wenn dies nicht geklappt hat, kontaktieren Sie uns bitte mit einem Screenshot und einer Fehlerbeschreibung per E-Mail: [abo-mobile@bahn.de](mailto:abo-mobile@bahn.de).
 
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-* [FAQ zum Kundenkonto](https://bahn.de/faq/pk/service/kundenkonto/login)
+* [FAQ zum DB Kundenkonto](https://bahn.de/faq/pk/service/kundenkonto/login)
 * [Über die App](https://www.bahn.de/service/mobile/db-navigator)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
@@ -2709,7 +2709,7 @@ Ihre 12-stellige Auftragsnummer finden Sie:
 * In der Bestätigungsmail nach der Buchung
 * Auf Ihrem Ticket (PDF oder Ausdruck) unter dem Barcode
 
-Als registrierter Kunde können Sie auf bahn.de in Ihrem Kundenkonto und in der App DB Navigator Ihre letzten Buchungen einsehen und dort die Auftragsnummer finden.
+Als registrierter Kunde können Sie auf bahn.de in Ihrem DB Kundenkonto und in der App DB Navigator Ihre letzten Buchungen einsehen und dort die Auftragsnummer finden.
 
 Auf Fahrkarten aus dem Automaten oder im Reisebüro bzw. per Telefon gekauft, finden Sie die 9-stellige Auftragsnummer unten links. Sie ist farbig markiert.
 
@@ -4744,7 +4744,7 @@ Sie haben ein 1. Klasse-Ticket? Ihre reservierten Sitzplätze sind nicht in der 
 
 Sie dürfen Ihr Fahrrad nur in einem Fernverkehrszug mitnehmen, wenn Sie bei der Fahrkartenkontrolle Ihre Fahrkarte mit Stellplatzreservierung vorzeigen können. Haben Sie die Fahrradmitnahme nachträglich zum Ticket hinzugebucht? Dann müssen Sie die Fahrradkarte mit Stellplatzreservierung vorlegen.
 
-Sie haben Ihre online gebuchte Fahrradkarte mit Stellplatzreservierung nicht dabei? Sie können sie erneut online abrufen. Das geht über Ihr Kundenkonto auf der Website oder in der App.
+Sie haben Ihre online gebuchte Fahrradkarte mit Stellplatzreservierung nicht dabei? Sie können sie erneut online abrufen. Das geht über Ihr DB Kundenkonto auf der Website oder in der App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradkarte-oder-stellplatzreservierung-fuer-fernverkehrszug-vergessen)
 
@@ -5555,7 +5555,7 @@ Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das F
  Warum kann ich meine Daten nicht in der BahnBonus App bearbeiten?
 ----------
 
-Im Kundenkonto unter bahn.de können Sie Ihre persönlichen Daten online ändern. Über die BahnBonus App wird diese Funktion zukünftig auch bereitgestellt. Wir bitten Sie bis dahin um Geduld.
+Im DB Kundenkonto unter bahn.de können Sie Ihre persönlichen Daten online ändern. Über die BahnBonus App wird diese Funktion zukünftig auch bereitgestellt. Wir bitten Sie bis dahin um Geduld.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-ich-meine-daten-nicht-in-der-app-bearbeiten)
 
@@ -5767,7 +5767,7 @@ Ja, die BahnCard ist keine Voraussetzung, um BahnBonus Punkte zu sammeln: Auch o
  Wie funktioniert das Sammeln von BahnBonus Punkten mit der BahnCard?
 ----------
 
-Ihre BahnCard-Nummer und BahnBonus-Nummer sind in einem Kundenkonto verknüpft und können dieselbe Sammelnummer enthalten. Das bedeutet, bei Fahrkartenkäufen mit Angabe Ihrer BahnCard-Nummer, sammeln Sie gleichzeitig Prämien- und Statuspunkte. Auch beim Erwerb und bei Verlängerungen Ihrer BahnCard, werden Ihnen BahnBonus Punkte gutgeschrieben. Vorausgesetzt, der Sammelwunsch ist angegeben oder das automatische Sammeln aktiviert.
+Ihre BahnCard-Nummer und BahnBonus-Nummer sind in einem DB Kundenkonto verknüpft und können dieselbe Sammelnummer enthalten. Das bedeutet, bei Fahrkartenkäufen mit Angabe Ihrer BahnCard-Nummer, sammeln Sie gleichzeitig Prämien- und Statuspunkte. Auch beim Erwerb und bei Verlängerungen Ihrer BahnCard, werden Ihnen BahnBonus Punkte gutgeschrieben. Vorausgesetzt, der Sammelwunsch ist angegeben oder das automatische Sammeln aktiviert.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-wie-mit-bahncard)
 
@@ -5781,7 +5781,7 @@ Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
  Was passiert mit meinen BahnBonus Punkten, wenn ich eine neue BahnCard erhalte?
 ----------
 
-Ihr Punktekonto bleibt erhalten. Reine Änderungen an der BahnCard, zum Beispiel ein Upgrade, haben keine Auswirkungen auf Ihr BahnBonus Punktekonto, sofern die neue BahnCard im selben Kundenkonto bestellt wird.
+Ihr Punktekonto bleibt erhalten. Reine Änderungen an der BahnCard, zum Beispiel ein Upgrade, haben keine Auswirkungen auf Ihr BahnBonus Punktekonto, sofern die neue BahnCard im selben DB Kundenkonto bestellt wird.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard)
 
@@ -6219,7 +6219,7 @@ Um im DB Navigator nur einen Sitzplatz (ohne Ticket) zu buchen, öffnen Sie den 
  Wie und wo bekomme ich in der App DB Navigator eine Rechnung zu meinem Ticket?
 ----------
 
-1. Loggen Sie sich in Ihr Kundenkonto ein.
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
 2. Gehen Sie im unteren Bildschirmbereich auf "Reisen".
 3. Wählen Sie die entsprechende Reise aus.
 4. Tippen Sie auf "Weitere Aktionen".
