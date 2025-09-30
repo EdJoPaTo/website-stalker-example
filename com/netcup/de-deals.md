@@ -5,7 +5,7 @@ Vom **30. September, 10 Uhr** (MEZ) bis zum **01. Oktober, 10 Uhr** (MEZ), hast 
 
 [Zu den Deals](https://www.netcup.com/de/deals#deals)
 
-* Alle (0) Flash Deals (1)
+* Alle (0) Flash Deals (0)
 
 Keine Deals in dieser Kategorie
 
