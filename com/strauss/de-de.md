@@ -1,92 +1,46 @@
-Echt!
-Stark!
+Herbst-Trend:
+wetterfest!
 ----------
 
 ---
 
- This is e:pic
-
-[Kollektion entdecken](https://www.strauss.com/de/de/epic?itemOrigin=startseite_HW25)
-
-[zu den Produkten](https://www.strauss.com/de/de/e-s-e-pic/?itemOrigin=startseite_HW25)
-
- Herbst
-==========
-
+ Schuh mit Zehenschutz
 ---
 
- Winter
-==========
+ Warmes Fleece-Futter &
+volles S7S Schutzpaket
 
----
+[S7S e.s. Woodside mid](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-woodside-mid-1400140-93226-1479.html?itemorigin=startseite_HW25&category=Sicherheitsschuhe_S7)
 
- Bereit für
-den Herbst
+alle wetterfesten Schuhneuheiten
+
+ Herbst-Styles in
+schwarz-seegrün
 ----------
 
 ---
 
- Wetterfest
- & sportlich
+ WETTER: FRISCH
+MOTION 2020: FRISCHER
 
-[Schuhneuheiten entdecken](https://www.strauss.com/de/de/schuhneuheiten-sicherheitsschuhe?itemOrigin=startseite_HW25)
+[jetzt entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-schwarz-seegruen?itemOrigin=startseite_HW25)
 
-Schuh ohne Zehenschutz
-
- Herbst
-==========
-
----
-
- Winter
-==========
-
----
-
- O6 Berufsschuhe
-e.s. Brixen mid
-
- Leicht &
-sportlich
+ DER HERBST
+WIRD BUNTER
 ----------
 
 ---
 
- e.s.ambition:
-perfekt fürs ganze Jahr
+ Sportliche Workwear
+in neuer Farbe
 
-[Kollektion entdecken](https://www.strauss.com/de/de/ambition?itemOrigin=startseite_HW25)
+[Hybrid Funktionshose e.s.trail](https://www.strauss.com/de/de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96087-1880.html?itemorigin=startseite_HW25&category=Bundhosen)
 
-[zu den Produkten](https://www.strauss.com/de/de/e-s-ambition/?itemOrigin=startseite_HW25)
-
- Herbst
-==========
-
----
-
- Winter
-==========
-
----
+[Winterjacke e.s.trail](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-e-s-trail-3134970-71637-1879.html?itemorigin=startseite_HW25&category=Winterjacken)
 
 *
 *
 *
-
-###  Angebote
-des Monats  ###
-
----
-
-Nur gültig bis 30.09.2025 | Solange der Vorrat reicht
-
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
-
-[Spare bis zu](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
-
-[\-54 %](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
-
-[](https://www.strauss.com/de/de/angebote-des-monats/?itemOrigin=startseite_HW25)
 
  Adventskalender - Hinter jeder Tür ein Tool
 
@@ -103,111 +57,91 @@ Nur gültig bis 30.09.2025 | Solange der Vorrat reicht
 
 [](https://www.strauss.com/de/de/arbeitsschutz/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Arbeitsschutz)
 
-Neue Herbst-Highlights für alle
+ Wahre Herbst-Helden: Übergangsjacken
+----------
+
+---
+
+ Faserpelz Kapuzenjacke e.s.e:pic, Damen
+==========
+
+---
+
+ Faserpelz Jacke e.s.e:pic
+==========
+
+---
+
+ Warm, beweglich und unheimlich gemütlich
+
+###  Midlayer  ###
+
+---
+
+[Übergangsjacken entdecken](https://www.strauss.com/de/de/s/suche?filterParams=Herren_Damen_Kinder%3aHerren&itemOrigin=StartseiteHW25&query=midlayer)
+
+ NEU
+
+ 2 Teile – 3 Tragelösungen
+----------
+
+---
+
+ Die Regenjacken-
+Revolution
+----------
+
+---
+
+###  3 in 1 Funktionsjacke  ###
+
+---
+
+ Wetterschutzjacke mit einklickbarer Weste
+
+[für Damen](https://www.strauss.com/de/de/3-in-1-arbeitsjacken-damen/3-in-1-funktionsjacke-e-s-ambition-damen-3140680-78682-1498.html?itemorigin=Startseite_HW25&category=Damen_3_in_1_Jacken)
+
+[für Herren](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-ambition-3140690-78672-1498.html?itemorigin=Startseite_HW25&category=Doppeljacken)
+
+**Perfekt ausgerüstet** für den Herbst!
 
 ----------
 
 ---
 
-[Herren](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=startseite_hw25)
-
-[Damen](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=startseite_hw25)
-
-[Kinder](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=startseite_hw25)
-
-e.s.motion 2020-News in den neuen Lieblingsfarben
-
-----------
-
+ Passende Outfits für das
 ---
 
-###  schwarz-
-seegrün  ###
-
+ Arbeiten im Grünen
 ---
 
- Für Damen & Herren
+Workwear für Herren
 
-[jetzt entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-schwarz-seegruen?itemorigin=startseite_HW25)
+Workwear für Damen
 
-###  anthrazit-
-warnorange  ###
+[O2 Berufsschuhe e.s. Minkar II](https://www.strauss.com/de/de/berufsschuhe-o2/o2-berufsschuhe-e-s-minkar-ii-1003160-86993-1756.html?itemorigin=startseite_HW25&category=Berufsschuhe_O2)
 
----
+[Gartenscheren](https://www.strauss.com/de/de/gartenscheren/?itemorigin=startseite_HW25)
 
- für Herren
-
-[jetzt entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-anthrazit-warnorange?itemorigin=startseite_HW25)
-
- An die Sägen, fertig: Action!
-----------
-
----
-
-[Hosen](https://www.strauss.com/de/de#!forestry/slide1)
-
-[Jacken](https://www.strauss.com/de/de#!forestry/slide2)
-
-[Schuhe](https://www.strauss.com/de/de#!forestry/slide3)
-
-[Zubehör](https://www.strauss.com/de/de#!forestry/slide4)
-
-[Hosen](https://www.strauss.com/de/de#!forestry/slide1)
-
-[Jacken](https://www.strauss.com/de/de#!forestry/slide2)
-
-[Schuhe](https://www.strauss.com/de/de#!forestry/slide3)
-
-[Zubehör](https://www.strauss.com/de/de#!forestry/slide4)
-
- An die Sägen, fertig: Action!
-----------
-
----
-
-[Hosen](https://www.strauss.com/de/de#!forestry/slide1)
-
-[Jacken](https://www.strauss.com/de/de#!forestry/slide2)
-
-[Schuhe](https://www.strauss.com/de/de#!forestry/slide3)
-
-[Zubehör](https://www.strauss.com/de/de#!forestry/slide4)
-
- e.s. Forst-Schnittschutz Bundhose, KWF
-
- 3 Farben
-
- Forst-Schnittschutz Bundhose e.s.cotton touch
-
- 2 Farben
-
- e.s. Forst-Schnittschutz Jeans
-
- 1 Farbe
-
-[alle Forstartikel entdecken](https://www.strauss.com/de/de/forst/?itemorigin=startseite_HW25)
-
-[alle Forstartikel entdecken](https://www.strauss.com/de/de/forst/?itemorigin=startseite_HW25)
-
-Frischer Wind für unsere Careware
-
-----------
-
----
-
-###  passion
-for care  ###
-
----
-
- Sportlicher, bequemer – einfach cooler!
----
-
-[e.s.avida entdecken](https://www.strauss.com/de/de/e-s-avida-damen/?itemorigin=startseite_HW25)
+[Handschuhe e.s.trail](https://www.strauss.com/de/de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-light-graphic-2101250-7620007-1741.html?itemorigin=startseite_HW25&category=Hybrid)
 
 Personalisierte Outfits für jeden Anlass
 
 ----------
+
+---
+
+[](obs-link-v1:aHR0cHM6Ly93d3cuc3RyYXVzcy5jb20vZGUvZGUvZi9hcmJlaXRza2xlaWR1bmcvUGVyc29uYWxpc2llcnVuZ19uZXU6U2VsYnN0X2dlc3RhbHRlbi8/aXRlbW9yaWdpbj1TdGFydHNlaXRlX0hXMjUmc29ydD1uZXdlc3Q=)
+
+ Druck & Stick - ab 1 Stück
+
+###
+
+jetzt online
+
+gestalten
+
+ ###
 
 ---
 
@@ -227,7 +161,13 @@ für Arbeit, Vereine, Events uvm.
 
 unkompliziert gestalten & bestellen
 
-über 400 verfügbare Motive
+über 400 verfügbare Motive + Motivupload
+
+für Arbeit, Vereine, Events uvm.
+
+unkompliziert gestalten & bestellen
+
+über 400 verfügbare Motive + Motivupload
 
 [mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
 
@@ -236,6 +176,20 @@ zu den Produkten
 [mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
 
 zu den Produkten
+
+Easy-
+transfer
+
+---
+
+ Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
+
+Direkt-
+einstickung
+
+---
+
+ Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
 
  Nach Kategorie shoppen
 ---

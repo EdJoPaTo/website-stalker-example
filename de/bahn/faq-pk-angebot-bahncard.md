@@ -842,13 +842,6 @@ Die Aktion gilt vom 02.09.2025 bis zum 30.09.2025. In diesem Zeitraum kann die P
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-dauer)
 
- Wer kann die Probe BahnCard 25 zum Aktionspreis erwerben?
-----------
-
-Alle Reisenden können die Probe BahnCard 25 zum Aktionspreis erwerben. Die Probe BahnCard 25 hat eine Gültigkeit von 3 Monaten. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My Bahncard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-wer)
-
  Wieviel kostet die Probe BahnCard 25 zum Aktionspreis?
 ----------
 
@@ -858,20 +851,6 @@ Die Probe BahnCard 25 zum Aktionspreis kostet:
 * 19,99 Euro (1. Klasse)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-kosten)
-
- Wie lange ist die Probe BahnCard 25 zum Aktionspreis gültig?
-----------
-
-Die Probe BahnCard 25 hat eine Gültigkeit von 3 Monaten. Die Probe BahnCard 25 zum Aktionspreis gilt ab dem 1. Geltungstag 3 Monate lang. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-gueltig)
-
- Wo bestelle ich meine Probe BahnCard 25 zum Aktionspreis?
-----------
-
-Die Probe BahnCard 25 zum Aktionspreis können Sie gleich hier online kaufen, in der App DB Navigator, oder in den DB-Reisezentren und DB-Agenturen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-bestellen)
 
  Bekomme ich eine Plastikkarte zugeschickt oder ist das Produkt nur noch rein digital nutzbar?
 ----------
@@ -942,13 +921,6 @@ Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-probe-bahncard-50)
 
- Wer kann die Probe BahnCard 50 zum Aktionspreis erwerben?
-----------
-
-Alle Reisenden können die Probe BahnCard 50 zum Aktionspreis erwerben. Die Probe BahnCard 50 hat eine Gültigkeit von 3 Monaten. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My Bahncard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-wer)
-
  Wieviel kostet die Probe BahnCard 50 zum Aktionspreis?
 ----------
 
@@ -958,20 +930,6 @@ Die Probe BahnCard 50 zum Aktionspreis kostet:
 * 79,99 Euro (1. Klasse)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-kosten)
-
- Wie lange ist die Probe BahnCard 50 zum Aktionspreis gültig?
-----------
-
-Die Probe BahnCard 50 hat eine Gültigkeit von 3 Monaten. Die Probe BahnCard 50 zum Aktionspreis gilt ab dem 1. Geltungstag 3 Monate lang. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-gueltig)
-
- Wo bestelle ich meine Probe BahnCard 50 zum Aktionspreis?
-----------
-
-Die Probe BahnCard 50 zum Aktionspreis können Sie gleich hier online kaufen, in der App DB Navigator, oder in den DB-Reisezentren und DB-Agenturen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-bestellen)
 
  Wofür kann ich die Probe BahnCard 100 nutzen?
 ----------
@@ -1097,48 +1055,6 @@ Die BahnCard 50 können Sie gleich hier online kaufen.
 Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn und in der App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-bahncard-50)
-
- Wie lange gibt es die BahnCard 50 Mitfahreraktion?
-----------
-
-Die Aktion gilt vom 1. Mai bis zum 30. September 2025. In diesem Zeitraum können BahnCard 50-Inhabende einen zweiten Reisenden in der gleichen Wagenklasse und zum gleichen Rabatt mitnehmen. Die Rückfahrt muss bis zum 30. September 2025 erfolgen und ebenfalls im gleichen Buchungsschritt gebucht werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-gibt-es-die-bahncard-50-mitfahreraktion)
-
- Wie funktioniert die BahnCard 50 Mitfahreraktion?
-----------
-
-Im Zuge der Buchung fügt der Inhaber der BahnCard 50 einen zweiten Reisenden hinzu – auch bei diesem die BahnCard 50-Ermäßigung und dieselbe Wagenklasse angeben. Die mitreisende Person erhält die gleichen Rabatte wie der Inhabende der BC 50, benötigt jedoch keine eigene BahnCard 50. Beide Reisende müssen auf einem Ticket gebucht werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-bahncard-50-mitfahreraktion)
-
- Wann gilt die BahnCard 50 Mitfahreraktion?
-----------
-
-Nein, die Aktion gilt ausschließlich für Reisen im Zeitraum 1. Mai bis 30. September 2025. Auch die Rückfahrt muss spätestens bis zum 30. September 2025 erfolgen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-bahncard-50-mitfahreraktion)
-
- Wo kann ich die Tickets kaufen?
-----------
-
-Tickets können Sie online oder in der App DB Navigator sowie in den DB Reisezentren, DB Agenturen und am DB-Automaten kaufen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-die-tickets-kaufen-mitfahreraktion)
-
- Was ist zu tun, wenn die mitreisende Person eine BahnCard 25 besitzt?
-----------
-
-Besitzt die mitreisende Person selbst eine BahnCard 25 darf diese nicht bei der Buchung der gemeinsamen Reise angegeben werden. Für beide Reisende muss eine BahnCard 50-Ermäßigung ausgewählt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitreisender-besitzt-bc25-mitfahreraktion)
-
- Kann ich die BahnCard 50 Mitfahreraktion auch nutzen, wenn ich ein Ticket für eine internationale Fahrt kaufen möchte?
-----------
-
-Nein, das ist nicht möglich. Die Aktion gilt nur für Fahrten innerhalb Deutschlands und nicht für grenzüberschreitende Fahrten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-50-internationale-fahrt-mitfahreraktion)
 
  Gilt die BahnCard 50 Mitfahreraktion auch für Fahrkarten im Nahverkehr?
 ----------
