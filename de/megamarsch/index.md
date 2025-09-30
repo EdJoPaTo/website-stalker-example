@@ -221,6 +221,12 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 [ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
 
+* [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
+
+  [### Finishershirt 25km 2025 ### Preis34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
+
+  In den Warenkorb
+
 * [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
 
   [### Funktionstuch Event (bei Nacht) ### Preis16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
