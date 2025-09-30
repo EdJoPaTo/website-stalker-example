@@ -1,25 +1,13 @@
-netcup Deals
+Good By[t]e High Prices
 ==========
 
-**Good By[t]e High Prices - Top Deals are loading**
+Vom **30. September, 10 Uhr** (MEZ) bis zum **01. Oktober, 10 Uhr** (MEZ), hast du **24 Stunden** lang die Gelegenheit, das passende Aktionsprodukt für dich zu ergattern.
 
-Vom **30. September, 10 Uhr** (MEZ) bis zum **01. Oktober, 10 Uhr** (MEZ), hast du **24 Stunden lang** die Gelegenheit, das passende Aktionsprodukt für dich zu ergattern.
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
 
-[Mehr Informationen](https://www.netcup.com/de/deals#infos)
+* Alle (0) Flash Deals (0)
 
-### **Das erwartet dich:** ###
-
-* ### Unschlagbare Deals ###
-
-  Wir halten einige unserer besten Deals aus den Kategorien Webhosting, Root-Server und Domains für dich parat.
-
-* ### 24 Stunden verfügbar  ###
-
-  Sei dabei, wenn wir am 30.09. ab 10 Uhr den Countdown starten und sichere dir deinen Top-Deal.
-
-* ### Zusätzliche Flash Deals ###
-
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), und sichere dir ein exklusives Extra-Angebot – nur für kurze Zeit!
+Keine Deals in dieser Kategorie
 
 Bleibe auf dem Laufenden
 ----------

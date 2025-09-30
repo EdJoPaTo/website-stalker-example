@@ -180,7 +180,7 @@ Root Server Anwendungsfälle
 Dedizierter Server vs. Root Server
 ----------
 
-Ein dedizierter Server ist ein eigenes Stück Hardware, welches dir exklusiv für deine Anwendungen zur Verfügung steht. Ein Root Server wird auf einem Hostsystem neben anderen virtuellen Maschinen betrieben. Doch das bedeutet nicht, dass dir hier keine dedizierten Ressourcen zur Verfügung stehen: **Viel mehr kombiniert der Root Server die Vorteile eines dedizierten Servers mit denen eines virtualisierten Systems.**
+Ein [dedizierter Server](https://www.netcup.com/de/server/dedicated-server) ist ein eigenes Stück Hardware, welches dir exklusiv für deine Anwendungen zur Verfügung steht. Ein Root Server wird auf einem Hostsystem neben anderen virtuellen Maschinen betrieben. Doch das bedeutet nicht, dass dir hier keine dedizierten Ressourcen zur Verfügung stehen: **Viel mehr kombiniert der Root Server die Vorteile eines dedizierten Servers mit denen eines virtualisierten Systems.**
 
 Bei beiden Systemen hast du **vollen Root Zugriff** auf das Betriebssystem des Servers. Das bedeutet, dass du über die höchste administrative Kontrolle verfügst. Diese Server eignen sich insbesondere für erfahrene Admins mit umfassenden Linux-Kenntnissen, die das Betriebssystem und System-Konfiguration nach ihren eigenen Vorstellungen anpassen möchten.
 
