@@ -1,9 +1,9 @@
-Good By[t]e High Prices
+netcup Deals
 ==========
 
-Vom **30. September, 10 Uhr** (MEZ) bis zum **01. Oktober, 10 Uhr** (MEZ), hast du **24 Stunden** lang die Gelegenheit, das passende Aktionsprodukt für dich zu ergattern.
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Zu den Deals](https://www.netcup.com/de/deals#deals)
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 * Alle (0) Flash Deals (0)
 

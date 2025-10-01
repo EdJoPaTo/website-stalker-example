@@ -133,6 +133,13 @@ Funktastisch!
 Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.
 ==========
 
+Und es gibt was Neues:
+
+Alle deine digitalen Dienste jetzt in nachhaltig.
+Vereint in unserem Hub!
+
+[](https://apps.apple.com/de/app/wetell/id6450259024)
+
 * 3GB
 * 7GB
 * 20GB
@@ -305,6 +312,13 @@ Daten 5G
 [Jetzt bestellen](https://www.wetell.de/shop/privat/ueberschall)
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: -5 € bis +5 € / Monat
+
+WEtell Hub
+----------
+
+Sei beim Crowdfunding dabei und baue mit uns dein digitales Zuhause!
+
+[Werde Teil](https://www.wetell.de/service/downloads/)
 
 Der Funke, der alle ansteckt
 ----------

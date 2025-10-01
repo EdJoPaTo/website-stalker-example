@@ -840,7 +840,7 @@ Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bah
 
 Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Um die digitale BahnCard nutzen zu können, benötigen Kund:innen ebenfalls das DB Kundenkonto, mit welchem sie sich in der App DB Navigator einloggen können. In der App DB Navigator wird die digitale BahnCard direkt im DB Kundenkonto hinterlegt und kann im eingeloggten Zustand abgerufen werden. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](http://www.bahn.de/digitalebc)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-plastikkarte)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-plastikkarte)
 
  Wofür kann ich die Probe BahnCard 50 benutzen?
 ----------
