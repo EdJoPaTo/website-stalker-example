@@ -8,7 +8,7 @@ Computers shouldn't be boring.
 
 Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
 
-[Pre-order now Pre-order now](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
+[Configure now Configure now](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
 
 [Overview](?tab=overview)
 
@@ -18,7 +18,7 @@ Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for e
 
 [Resources and Guides](?tab=resources-and-guides)
 
-[Pre-order now](/products/laptop12-diy-intel-13gen/configuration/new)
+[Configure now](/products/laptop12-diy-intel-13gen/configuration/new)
 
 ###### Super flexible computer ######
 
@@ -152,7 +152,7 @@ Available pre-built with Windows 11 or assemble it yourself with DIY Edition and
 
 Bring your own memory, storage, and operating system, including Linux, and build it yourself.
 
-[Pre-order](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
+[Configure now](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
 
 [](/de/en/products/laptop12-intel-13gen/configuration/new)
 
@@ -162,7 +162,7 @@ Bring your own memory, storage, and operating system, including Linux, and build
 
 Ready to go out of the box with Windows 11. Easy to upgrade if you ever need more in the future.
 
-[Pre-order](/de/en/products/laptop12-intel-13gen/configuration/new)
+[Configure now](/de/en/products/laptop12-intel-13gen/configuration/new)
 
 ### Planning a volume purchase? ###
 
@@ -228,4 +228,4 @@ Click below to take a quick survey. ###
 
 [Take our survey](https://frameworkcomputer.typeform.com/to/lUhIl3V4?utm_medium=12overview)
 
-[Pre-order now](/products/laptop12-diy-intel-13gen/configuration/new)
+[Configure now](/products/laptop12-diy-intel-13gen/configuration/new)

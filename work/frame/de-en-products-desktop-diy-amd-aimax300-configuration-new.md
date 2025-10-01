@@ -14,8 +14,6 @@ Framework Desktop
 
  Choose an option
 
- Batch Number  Configure to see batch
-
  FAQ
 
 FAQs
@@ -41,17 +39,21 @@ Close
 
 System
 
-* Max 385 - 32GB  Pre-order  €1,279
+* Max 385 - 32GB  €1,279
 
   * 8-core/16-thread CPU, up to 5.0GHz
   * 32 Graphics Cores, up to 2.8GHz
   * 32GB of non-upgradeable LPDDR5x
 
-* Max+ 395 - 64GB  Pre-order  €1,859
+   Ships within five business days.
+
+* Max+ 395 - 64GB  €1,859
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
   * 64GB of non-upgradeable LPDDR5x
+
+   Ships within five business days.
 
 * Max+ 395 - 128GB  Pre-order  €2,329
 
@@ -62,8 +64,6 @@ System
 **Primary Storage (M.2 2280)**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -104,8 +104,6 @@ Primary Storage (M.2 2280)
 
  Choose an option
 
- Batch Number  Configure to see batch
-
  FAQ
 
 FAQs
@@ -133,8 +131,6 @@ Secondary Storage (M.2 2280)
 
  Choose an option
 
- Batch Number  Configure to see batch
-
  FAQ
 
 FAQs
@@ -159,8 +155,6 @@ Operating System
 **CPU Fan**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -196,8 +190,6 @@ CPU Fan
 
  Choose an option
 
- Batch Number  Configure to see batch
-
  FAQ
 
 FAQs
@@ -229,8 +221,6 @@ Power Cable
 
  Choose an option
 
- Batch Number  Configure to see batch
-
 Side Panel
 
 * Black
@@ -239,8 +229,6 @@ Side Panel
 **Tiles**
 
  Choose at least 21
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -404,8 +392,6 @@ Quick select
 
  Choose any number
 
- Batch Number  Configure to see batch
-
  FAQ
 
 FAQs
@@ -455,17 +441,17 @@ Quick select
 
  \+€10
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
  USB-A
 
@@ -578,7 +564,7 @@ Close
  Add-ons
 ----------
 
-* Framework Desktop Handle +€20
+* Framework Desktop Handle  The Framework Desktop Handle adds a secure, functional grip to your Framework Desktop case. Whether you're headed to a LAN party or just shifting setups, the handle makes moving your 4.5L system easier and more ergonomic. It attaches cleanly to the top panel and blends seamlessly with the rest of your build. +€20
 * None (bring your own)
 
  Add to Bag  Add pre-order to bag

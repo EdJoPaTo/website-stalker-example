@@ -10,7 +10,7 @@ It’s yours.
 
 **Updated for 2025 with AMD's latest Ryzen**™ **AI 300 Series Processors with up to 12 CPU cores.**
 
-[Shop now Shop now](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+[Configure now Configure now](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
 [Overview](?tab=overview)
 
@@ -22,7 +22,7 @@ It’s yours.
 
 [Resources and Guides](?tab=resources-and-guides)
 
-[Shop now](/products/laptop13-diy-amd-ai300/configuration/new)
+[Configure now](/products/laptop13-diy-amd-ai300/configuration/new)
 
  Framework Laptop 13 is a thin, light, fast 13.5” notebook that is simple to customize, upgrade, and repair, so it stays yours for longer.
 
@@ -153,4 +153,4 @@ Click below to take a quick survey. ###
 
 [Take our survey](https://frameworkcomputer.typeform.com/to/lUhIl3V4?utm_medium=13overview)
 
-[Shop now](/products/laptop13-diy-amd-ai300/configuration/new)
+[Configure now](/products/laptop13-diy-amd-ai300/configuration/new)

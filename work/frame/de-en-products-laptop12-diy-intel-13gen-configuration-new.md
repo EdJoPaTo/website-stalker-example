@@ -14,8 +14,6 @@ Framework Laptop 12
 
  Choose an option
 
- Batch Number  Configure to see batch
-
 Color
 
 * Black
@@ -27,8 +25,6 @@ Color
 **System**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -55,19 +51,21 @@ Close
 
 System
 
-* i3-1315U  Pre-order  €569
+* i3-1315U  €569
 
   * Up to 4.5GHz, 2+4 cores
 
-* i5-1334U  Pre-order  €739
+   Ships within five business days.
+
+* i5-1334U  €739
 
   * Up to 4.6GHz, 2+8 cores
+
+   Ships within five business days.
 
 **Memory**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -93,16 +91,14 @@ Runs at DDR5-5200 speed on Framework Laptop 12.
 Memory
 
 * DDR5-5600 - 8GB (1 x 8GB) +€45
-* DDR5-5600 - 16GB (1 x 16GB) +€90
+* DDR5-5600 - 16GB (1 x 16GB)  Ships in 2-3 weeks. +€90
 * DDR5-5600 - 32GB (1 x 32GB) +€180
-* DDR5-5600 - 48GB (1 x 48GB) +€270
+* DDR5-5600 - 48GB (1 x 48GB)  Ships in 2-3 weeks. +€270
 * None (bring your own)
 
 **Storage**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -125,8 +121,6 @@ Storage
 **Operating System**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -151,8 +145,6 @@ Operating System
 **Keyboard**
 
  Choose an option
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -191,8 +183,6 @@ Keyboard
 
  Choose an option
 
- Batch Number  Configure to see batch
-
 Power Adapter
 
 * Power Adapter - 60W - EU +€49
@@ -205,8 +195,6 @@ Power Adapter
 **Expansion Cards**
 
  Choose any number
-
- Batch Number  Configure to see batch
 
  FAQ
 
@@ -283,13 +271,13 @@ Quick select
 
  \+€10
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
 
  USB-A
 

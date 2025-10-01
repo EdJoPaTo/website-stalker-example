@@ -12,7 +12,7 @@ made mini.
 
 Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
 
-[Pre-order now Pre-order now](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
+[Configure now Configure now](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
 
 [Overview](?tab=overview)
 
@@ -26,7 +26,7 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 
 [Resources and Guides](?tab=resources-and-guides)
 
-[Pre-order now](/products/desktop-diy-amd-aimax300/configuration/new)
+[Configure now](/products/desktop-diy-amd-aimax300/configuration/new)
 
 Larger-than-life performance, powered by Ryzen™ AI Max.
 ----------
@@ -250,4 +250,4 @@ Click below to take a quick survey. ###
 
 [Take our survey](https://frameworkcomputer.typeform.com/to/lUhIl3V4?utm_medium=dtoverview)
 
-[Pre-order now](/products/desktop-diy-amd-aimax300/configuration/new)
+[Configure now](/products/desktop-diy-amd-aimax300/configuration/new)
