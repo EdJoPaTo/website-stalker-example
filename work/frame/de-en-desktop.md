@@ -219,6 +219,8 @@ Noctua NF-A12x25 HS-PWM
 
 ###### Optional carrying handle. Now available. ######
 
+[Shop now Shop now](/de/en/products/framework-desktop-handle)
+
 PC Parts. Your pick.
 ----------
 
