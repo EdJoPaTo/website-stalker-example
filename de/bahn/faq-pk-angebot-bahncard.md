@@ -835,23 +835,6 @@ Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-probe-bahncard-25)
 
- Wie lange gibt es die Probe BahnCard 25 und 50 Aktion?
-----------
-
-Die Aktion gilt vom 02.09.2025 bis zum 30.09.2025. In diesem Zeitraum kann die Probe BahnCard 25 und 50 zu einem Aktionspreis erworben werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-dauer)
-
- Wieviel kostet die Probe BahnCard 25 zum Aktionspreis?
-----------
-
-Die Probe BahnCard 25 zum Aktionspreis kostet:
-
-* 9,99 Euro (2. Klasse)
-* 19,99 Euro (1. Klasse)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-25-kosten)
-
  Bekomme ich eine Plastikkarte zugeschickt oder ist das Produkt nur noch rein digital nutzbar?
 ----------
 
@@ -920,16 +903,6 @@ Die Probe BahnCard 50 können Sie gleich hier online kaufen.
 Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn und in der App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-probe-bahncard-50)
-
- Wieviel kostet die Probe BahnCard 50 zum Aktionspreis?
-----------
-
-Die Probe BahnCard 50 zum Aktionspreis kostet:
-
-* 39,99 Euro (2. Klasse)
-* 79,99 Euro (1. Klasse)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probebcaktion-50-kosten)
 
  Wofür kann ich die Probe BahnCard 100 nutzen?
 ----------
@@ -1055,34 +1028,6 @@ Die BahnCard 50 können Sie gleich hier online kaufen.
 Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn und in der App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-bahncard-50)
-
- Gilt die BahnCard 50 Mitfahreraktion auch für Fahrkarten im Nahverkehr?
-----------
-
-Nein, die Aktion gilt nicht für Fahrtenkarten des Nahverkehrs (z. B. Verbundangebote oder der Normalpreis des Deutschlandtarifs). Sie gilt nur für innerdeutsche Fahrkarten im Fernverkehr, wenn mindestens eine Teilstrecke im ICE, IC/EC erfolgt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-50-nahverkehr-mitfahreraktion)
-
- Kann ich die mitreisende Person im Nachhinein stornieren, falls sie doch nicht mitreisen kann?
-----------
-
-Nein, das ist leider nicht möglich. Wenn die Konditionen des gebuchten Angebotes eine Stornierung erlauben, kann das gesamte Ticket storniert werden. Eine Stornierung nur einer der beiden gebuchten Personen ist ausgeschlossen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitreisende-person-stornieren-mitfahreraktion)
-
- Gilt die BahnCard 50 Mitfahreraktion auch für Inhabende einer BahnCard Business 50?
-----------
-
-Ja, auch Inhabende einer BahnCard Business 50 können an der Aktion teilnehmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-bahncard-business-50-mitfahreraktion)
-
- Kann die BahnCard 50 Mitfahreraktion nur einmalig im Aktionszeitraum genutzt werden oder ist es möglich mehrmals eine zweite Person mitzunehmen?
-----------
-
-Inhaber:innen einer BahnCard 50 können im Aktionszeitraum 01. Mai bis 30. September 2025 beliebig oft einen Mitfahrer mitnehmen und somit die Aktion nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebot-mehrfachnutzung-mitfahreraktion)
 
  Wofür kann ich die BahnCard 100 nutzen?
 ----------

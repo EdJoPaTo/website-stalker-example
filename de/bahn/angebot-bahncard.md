@@ -7,13 +7,23 @@ Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
 
+### My BahnCard 50, 2. Klasse ###
+
+**50 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparangebote des Fernverkehrs**
+
+[Weitere Informationen Weitere Informationen: My BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/mybahncard-2-klasse)
+
+Jetzt 49,99 Euro statt 79,90 Euro
+
+[Jetzt bestellen Jetzt bestellen: My BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O212)
+
 ### Probe BahnCard 25, 2. Klasse ###
 
- Probe BahnCard 25 zum **Aktionspreis** sichern und **25 % Rabatt** auf den Flexpreis und die Sparangebote des Fernverkehrs erhalten (ausgenommen City-Ticket). **Buchbar vom 02.-30.09.2025**
+**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
 [Weitere Informationen Weitere Informationen: Probe BahnCard 25, 2. Klasse](https://www.bahn.de/angebot/bahncard/probebahncard25-2-klasse)
 
-9,99 Euro statt 19,90 Euro
+19,90 Euro
 
 [Jetzt bestellen Jetzt bestellen: Probe BahnCard 25, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O209)
 
@@ -46,16 +56,6 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 152 Euro
 
 [Jetzt bestellen Jetzt bestellen: Probe BahnCard 50, 1. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O110)
-
-### My BahnCard 50, 2. Klasse ###
-
-**50 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparangebote des Fernverkehrs**
-
-[Weitere Informationen Weitere Informationen: My BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50/mybahncard-2-klasse)
-
-Jetzt 49,99 Euro statt 79,90 Euro
-
-[Jetzt bestellen Jetzt bestellen: My BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O212)
 
 ### BahnCard 25, 2. Klasse ###
 
