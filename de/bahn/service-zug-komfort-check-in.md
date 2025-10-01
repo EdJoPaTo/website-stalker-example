@@ -60,7 +60,7 @@ Wenn Sie die Wagennummer nicht wissen, können Sie diese per QR-Code ermitteln.
 
 Haben Sie das Ticket mit einer BahnCard gekauft? Dann geben Sie Ihre BahnCard-Nummer ein.
 
-Tipp: Wenn Sie Ihre BahnCard im Kundenkonto hinterlegen, erfolgt die Überprüfung automatisch.
+Tipp: Wenn Sie Ihre BahnCard im DB Kundenkonto hinterlegen, erfolgt die Überprüfung automatisch.
 
 ### Fertig ###
 

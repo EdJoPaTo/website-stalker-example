@@ -34,7 +34,7 @@ WIRD BUNTER
  Sportliche Workwear
 in neuer Farbe
 
-[Hybrid Funktionshose e.s.trail](https://www.strauss.com/de/de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96087-1880.html?itemorigin=startseite_HW25&category=Bundhosen)
+[Hybrid Funktionshose e.s.trail](https://www.strauss.com/de/de)
 
 [Winterjacke e.s.trail](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-e-s-trail-3134970-71637-1879.html?itemorigin=startseite_HW25&category=Winterjacken)
 
@@ -50,12 +50,12 @@ in neuer Farbe
 
  24 Türchen voller Werkzeug und Zubehör, das jedes Handwerkerherz höherschlagen lässt. Verpackt in einer neuen, superkompakten Toolbox – so hält die Freude das ganze Jahr über!
 
-[zum Adventskalender](https://www.strauss.com/de/de/betriebsbedarf/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Betriebsbedarf)
+[zum Adventskalender](https://www.strauss.com/de/de/handwerkzeuge/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Handwerkzeuge)
 
  jetzt in hochwertiger STRAUSSbox
 ---
 
-[](https://www.strauss.com/de/de/betriebsbedarf/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Betriebsbedarf)
+[](https://www.strauss.com/de/de/handwerkzeuge/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Handwerkzeuge)
 
  Wahre Herbst-Helden: Übergangsjacken
 ----------
@@ -347,7 +347,7 @@ Mail
 * [](https://www.youtube.com/@strauss_europe)
 * [](https://www.instagram.com/strauss_europe/)
 
-### Sprachauswahl ###
+Sprachauswahl
 
 de en fr
 
