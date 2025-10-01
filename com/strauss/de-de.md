@@ -34,7 +34,7 @@ WIRD BUNTER
  Sportliche Workwear
 in neuer Farbe
 
-[Hybrid Funktionshose e.s.trail](https://www.strauss.com/de/de)
+[Hybrid Funktionshose e.s.trail](https://www.strauss.com/de/de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96087-1880.html?itemorigin=startseite_HW25&category=Bundhosen)
 
 [Winterjacke e.s.trail](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-e-s-trail-3134970-71637-1879.html?itemorigin=startseite_HW25&category=Winterjacken)
 
