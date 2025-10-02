@@ -50,7 +50,7 @@ Microphone and speaker
 
 Runs [PebbleOS](https://github.com/pebble-dev/pebble-firmware) (open source)
 
-10,000+ watchfaces and apps
+10,000+ watchfaces and apps on [Pebble Appstore](https://apps.rePebble.com)
 
 [Full details→](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches)
 

@@ -50,4 +50,5 @@ Pebble is an e-paper smartwatch with simple functionality, long battery life, an
 
 © Copyright ---- Core Devices LLC. All Rights Reserved.
 Core Devices has no affiliation with Google.
-[Store](https://store.rePebble.com) · [Privacy](privacy.html) · [Terms](terms.html) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Blog](https://ericmigi.com)
+[Store](https://store.rePebble.com) · [Pebble Appstore](https://apps.rePebble.com) · [Privacy](privacy.html) · [Terms](terms.html) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Blog](https://ericmigi.com)
+[Download the new Pebble app](https://repebble.com/app)
