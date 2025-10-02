@@ -4,80 +4,77 @@ Spotlight
 [SHIFT](/community/spotlight/shift/)
 ----------
 
-“smartphones can be timekillers”, so steht es auf den mobilen Endgeräten der Firma SHIFT geschrieben. Als erster deutscher Smartphonehersteller, gehen sie bewusst eigene Wege abseits des Mainstreams. Modulares Design, faire Lieferkette und ein hohes soziales Engagement machen SHIFT zu etwas Besonderem. Logisch, dass wir Gründer und CEO Samuel Waldeck ins WEtell Spotlight geholt haben.
+Modulares Design, faire Lieferkette und ein hohes soziales Engagement machen SHIFT zu einem ganz besonderen Hersteller nachhaltiger Elektronik.
 
 [modem conclusa](/community/spotlight/modem-conclusa/)
 ----------
 
-Nicht selten sind es Agenturen, die bekannten Marken erklären, wie sie mit Kund\*innen und Mitarbeitenden sprechen sollen. Eine dieser Agenturen heißt modem conclusa. Seit über 30 Jahren berät sie Unternehmen und Verbänden wie Pukka, Daikin, die Biofach oder gebana. Heute nehmen wir einen Blick hinter die Kulissen und richten unser Spotlight auf den Schreibtisch von Geschäftsführerin Uti Johne.
+Seit über 30 Jahren berät modem conclusa Unternehmen und Verbänden wie Pukka, Daikin, die Biofach oder gebana. Heute nehmen wir einen Blick hinter die Kulissen der Münchner Agentur.
 
 [Panelretter](/community/spotlight/panelretter/)
 ----------
 
-Kaum zu glauben, aber wahr: Jedes Jahr landen funktionstüchtige Solarmodule im Müll – nur wegen oberflächlicher Schönheitsfehler. Doch keine Sorge, die Rettung ist schon unterwegs! Die beiden Elektroingenieure Chris und Tilmann sagen dem Solarmüll den Kampf an. Und schenken aussortierten Modulen ein zweites Leben.
+Jedes Jahr landen funktionstüchtige Solarmodule im Müll. Doch keine Sorge, die beiden Elektroingenieure Chris und Tilmann schenken aussortierten Modulen ein zweites Leben.
 
 [everwave](/community/spotlight/everwave/)
 ----------
 
-Jedes Jahr gelangen 11 Millionen Tonnen Plastikmüll in die Ozeane. Everwave hat es sich zur Aufgabe gemacht diesen aus den Flüssen zu fischen, bevor er ins Meer gespült wird. Mit speziellen Booten und einem ausgeklügelten System, beugen sie der Bildung von Mikroplastik vor. CEO Clemens hat uns exklusive Insights gegeben.
+Jedes Jahr gelangen 11 Millionen Tonnen Plastikmüll in die Ozeane. Mit speziellen Booten und einem ausgeklügelten System, beugt everwave der Bildung von Mikroplastik vor.
 
 [Avocadostore](/community/spotlight/avocadostore/)
 ----------
 
-Nachhaltig einkaufen kann aufreibend und anstrengend sein. In welchem Produkt ist genug Nachhaltigkeit drin, welches ist nur zu grün gewaschen? Mit 10 Nachhaltigkeitskriterien verschafft Avocadostore uns einen Überblick darüber, welche Produkte wir mit gutem Gewissen kaufen können. Egal ob Yogamatten, Fashion oder Dinge für den alltäglichen Haushalt.
-Also haben wir Geschäftsführer Henning Voss ins WEtell Spotlight gesetzt. Click dich gleich mal rein.
+Mit 10 Nachhaltigkeitskriterien verschafft Avocadostore uns einen Überblick darüber, welche Produkte wir mit gutem Gewissen kaufen können. Egal ob Yogamatten, Fashion oder Dinge für den alltäglichen Haushalt.
 
 [GLS Bank](/community/spotlight/gls-bank/)
 ----------
 
-Traurige Wahrheit: Oft wird unser Geld zur Finanzierung von Kriegsgerät, Pestiziden oder Atomenergie verwendet.
-Damit du dich über den Effekt deines Geldes freuen kannst, investiert die GLS Bank das Geld dort, wo es dem Gemeinwohl dient.
-Wie das genau geht, erzählt uns Sanika Hufeland im aktuellen WEtell Spotlight.
+Oft wird unser Geld zur Finanzierung von Kriegsgerät, Pestiziden oder Atomenergie verwendet. Damit du dich über den Effekt deines Geldes freuen kannst, investiert die GLS Bank das Geld dort, wo es dem Gemeinwohl dient.
 
 [Green Planet Energy](/community/spotlight/green-planet-energy/)
 ----------
 
-Als Mischung aus einer streitbaren NGO und einer Ökoenergiegenossenschaft wurde Green Planet Energy einst gegründet. Noch heute sind diese Wurzeln stark spürbar. Also haben wir Platz im Spotlight gemacht und Carolin, Bereichsleitung Politik und Kommunikation, dazu gebeten. Klick sofort mal rein.
+Als Mischung aus einer streitbaren NGO und einer Ökoenergiegenossenschaft wurde Green Planet Energy einst gegründet. Noch heute sind diese Wurzeln stark spürbar.
 
 [memo](/community/spotlight/memo/)
 ----------
 
-Nachhaltigkeit im Büroalltag ist keine Kür mehr, sondern moralische Pflicht. Bei memo kriegst du alles dafür. Nachhaltig produziert, in einer Mehrwegkiste verpackt und klimaneutral geliefert. Also haben wir memo Vorstand Henning Rook auf unseren superbequemen Bürostuhl gesetzt und ein paar Runden drehen lassen. Click auf den Link und zwar jetzt bitte.
+Nachhaltigkeit im Büroalltag ist keine Kür mehr, sondern moralische Pflicht. Bei memo kriegst du alles dafür. Nachhaltig produziert, in einer Mehrwegkiste verpackt und klimaneutral geliefert.
 
 [ChargeHorizons](/community/spotlight/chargehorizons/)
 ----------
 
-Egal ob geringer CO<sub>2</sub>-Ausstoß, veganes Essen, oder glückliche Mitarbeiter\*innen. Mit der App „ChargeHolidays“ kannst du schnell deine Reisen nach den Kriterien buchen, die dir wichtig sind. Wie du einfach neue Horizonte erstürmen kannst, ohne die Natur dafür zahlen zu lassen, erfährst du von Gründerin Lilith im brandneuen WEtell Spotlight.
+Egal ob geringer CO<sub>2</sub>-Ausstoß, veganes Essen, oder glückliche Mitarbeiter\*innen. Mit der App „ChargeHolidays“ kannst du schnell deine Reisen nach den Kriterien buchen, die dir wichtig sind.
 
 [Polarstern](/community/spotlight/polarstern/)
 ----------
 
-„Ein bunter Haufen voller die Ärmel hochkrempelnder Energiewende-Verwirklicher und Weltveränderer.“ So sehen sich die Menschen bei Polarstern und haben sich deshalb den Titel #teamwirklich gegeben. Was Polarstern alles macht, um diesem Spitznamen gerecht zu werden, erzählt dir Marketingleiterin Anna Zipse in diesem WEtell Spotlight.
+„Ein bunter Haufen voller die Ärmel hochkrempelnder Energiewende-Verwirklicher und Weltveränderer.“ So sehen sich die Menschen bei Polarstern und haben sich deshalb den Titel #teamwirklich gegeben.
 
 [4peoplewhocare](/community/spotlight/4peoplewhocare/)
 ----------
 
-4peoplewhocare hat die Mission, die biologische Vielfalt vor deiner Haustür zu schützen. Als Kosmetikhersteller sind Cremes bei ihnen fester Bestandteil. Buchstäblich, denn diese kommen fest, handlich und plastikfrei verpackt zu dir nach Hause. Außerdem sind sie so ergiebig wie drei Plastiktuben einer vergleichbaren weichen Creme. Wir haben Gründer Fritz ins WEtell Spotlight gesetzt, um mit ihm über Verantwortung im Unternehmertum zu sprechen.
+4peoplewhocare hat die Mission, die biologische Vielfalt vor deiner Haustür zu schützen. Als Kosmetikhersteller sind Cremes bei ihnen fester Bestandteil. Buchstäblich, denn diese kommen fest, handlich und plastikfrei verpackt zu dir nach Hause.
 
 [Murena](/community/spotlight/murena/)
 ----------
 
-Dienste, die deine Daten schützen, sind wie dünne Scheiben Emmentaler Käse. Eine Scheibe hat noch mehrere Löcher, aber stapelst du viele davon übereinander, so bleiben immer weniger Löcher übrig. Das französische Unternehmen Murena arbeitet ständig daran, diese Datenlöcher für dich zu schließen. Also haben wir Gründer und Linux-Pionier Gaël Duval ins WEtell Spotlight gesetzt.
+Das französische Unternehmen Murena arbeitet ständig daran, Datenlöcher in deinem Android Betriebssystem für dich zu schließen. Also haben wir Gründer und Linux-Pionier Gaël Duval ins WEtell Spotlight gesetzt.
 
 [Waschbär](/community/spotlight/waschbaer/)
 ----------
 
-Unnachgiebig grün und sozial eingestellt. Der Freiburger Versandhandel Waschbär hat vor 35 Jahren eine nachhaltige Putzmittelkiste vertrieben und vertreibt heute ein Sortiment mit über 10.000 Artikeln. Geschäftsführerin Katharina Hupfer erzählt uns mehr darüber.
+Unnachgiebig grün und sozial eingestellt. Der Freiburger Versandhandel Waschbär hat vor 35 Jahren eine nachhaltige Putzmittelkiste vertrieben und vertreibt heute ein Sortiment mit über 10.000 Artikeln.
 
 [WeDoSolar](/community/spotlight/wedosolar/)
 ----------
 
-„Haushalte sollen über 50 % ihres Energiebedarfs durch Solarenergie decken können, und das zu einem Bruchteil der Kosten, die Solarteure verlangen.“ Mit genial einfachen und kostengünstigen Lösungen bringt das Berliner Unternehmen WeDoSolar die Solarenergie in die Breite. Da wollten wir natürlich mehr wissen und haben Mitgründerin und CEO Karolina Attspodina ins WEtell Spotlight gesetzt.
+„Haushalte sollen über 50 % ihres Energiebedarfs durch Solarenergie decken können, und das zu einem Bruchteil der Kosten, die Solarteure verlangen.“ Mit kostengünstigen Lösungen bringt WeDoSolar die Solarenergie in die Breite.
 
 [iFixit](/community/spotlight/ifixit/)
 ----------
 
-„Wenn du es nicht reparieren kannst, dann gehört es dir nicht.“ Hinter iFixit steht eine Community mit ca. 3 Millionen Mitgliedern, die inzwischen über 100.000 kostenlosen Reparaturanleitungen für deine elektronischen Geräte zur Verfügung stellt. Klar, dass wir hier mehr erfahren wollen und haben iFixits Manuel Häusermann in unser Spotlight eingeladen.
+„Wenn du es nicht reparieren kannst, dann gehört es dir nicht.“ Hinter iFixit steht eine Community mit ca. 3 Millionen Mitgliedern, die inzwischen über 100.000 kostenlosen Reparaturanleitungen für deine elektronischen Geräte zur Verfügung stellt.
 
 [WECHANGE](/community/spotlight/wechange/)
 ----------
