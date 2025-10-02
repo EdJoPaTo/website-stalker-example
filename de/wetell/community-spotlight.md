@@ -79,38 +79,37 @@ Unnachgiebig grün und sozial eingestellt. Der Freiburger Versandhandel Waschbä
 [WECHANGE](/community/spotlight/wechange/)
 ----------
 
-Daten, Daten, Daten und noch viel mehr Daten. Deine Daten sind eine häufig gehandelte Währung, über die du kaum selbst entscheiden kannst. WECHANGE bietet dir eine offene und werbefreie Plattform, mit der du dich in Gruppen und Projekten vernetzen und in diesen zusammenarbeiten kannst. Wir haben mit Jane Telkmann gesprochen, um mehr über WECHANGE herauszufinden.
+WECHANGE bietet dir eine offene und werbefreie Plattform, mit der du dich in Gruppen und Projekten vernetzen und in diesen zusammenarbeiten kannst.
 
 [Silbernetz](/community/spotlight/silbernetz/)
 ----------
 
-Einfach mal reden. Selbstverständlich für viele von uns, aber gerade im Alter nimmt die Einsamkeit für viele zu. Mit über 200 Ehrenamtlichen bietet das Silbertelefon und eine Vermittlung für Silbernetz-Freundschaften. Also haben wir Silbernetz-Leitung André Henselmann eingeladen sich ins Spotlight zu setzen.
+Einfach mal reden. Selbstverständlich für viele von uns, aber gerade im Alter nimmt die Einsamkeit für viele zu. Mit über 200 Ehrenamtlichen bietet das Silbertelefon und eine Vermittlung für Silbernetz-Freundschaften.
 
 [SuperCoop](/community/spotlight/supercoop/)
 ----------
 
-Beste Lebensmittel zu erschwinglichen Preisen aus einem solidarischen Supermarkt. Ein schöner Traum, der in Berlin Wirklichkeit geworden ist. SuperCoop-Mitgründerin Johanna Kühner spricht darüber im neuen WEtell Spotlight.
+Beste Lebensmittel zu erschwinglichen Preisen aus einem solidarischen Supermarkt. Ein schöner Traum, der in Berlin Wirklichkeit geworden ist.
 
 [Volla Phone](/community/spotlight/volla-phone/)
 ----------
 
-Ein neues Smartphone anschalten und direkt loslegen. Komplett Ohne Registrierung, ohne Verpflichtung. Kennt ihr das? Nein? Bei Volla Phone ist das Standard. Gründer Herr Dr. Wurzer erklärt uns ganz genau was es damit auf sich hat.
+Ein neues Smartphone anschalten und direkt loslegen. Komplett Ohne Registrierung, ohne Verpflichtung. Kennt ihr das? Nein? Bei Volla Phone ist das Standard.
 
 [naturstrom](/community/spotlight/naturstrom/)
 ----------
 
-Solarenergie, Windkraft, Ökogasanlagen, Nahwärme mit Biomasse und Solarthermie. naturstrom bietet alles an was mit nachhaltiger Energie zu tun hat. Und das genau seit 25 Jahren.
-Wie naturstrom den Geburtstag feiert erzählt uns Tim Loppe im WEtell Spotlight.
+Solarenergie, Windkraft, Ökogasanlagen, Nahwärme mit Biomasse und Solarthermie. naturstrom bietet alles an was mit nachhaltiger Energie zu tun hat.
 
 [ver.de](/community/spotlight/verde/)
 ----------
 
-Der Weg zur ersten nachhaltigen Versicherung ist steinig und lang. Marie Luise Reinhold will ihn trotzdem gehen und hat dafür die Genossenschaft Ver.de gegründet. Wie eine Versicherung genossenschaftlich, gemeinwohl-bilanziert und transparent sein kann, erfährst du in diesem Spotlight.
+Der Weg zur ersten nachhaltigen Versicherung ist steinig und lang. Marie Luise Reinhold will ihn trotzdem gehen und hat dafür die Genossenschaft Ver.de gegründet.
 
 [oekobonus](/community/spotlight/oekobonus/)
 ----------
 
-Als echt nachhaltiges Bonusprogramm beschenkt uns oekobonus für jeden Einkauf mit „Bees“. Was wir mit den kleinen digitalen Brummern anstellen können und was dahinter steckt, verrät uns Ludwig Gruber im derzeitigen Spotlight.
+Als echt nachhaltiges Bonusprogramm beschenkt uns oekobonus für jeden Einkauf mit „Bees“. Was wir mit den kleinen digitalen Brummern anstellen können, verrät uns Ludwig Gruber im derzeitigen Spotlight.
 
 [Sandstorm](/community/spotlight/sandstorm/)
 ----------
@@ -120,22 +119,22 @@ Nachhaltig programmieren. Für die meisten geht es dabei um Code-Effizienz. Für
 [WIWIN](/community/spotlight/wiwin/)
 ----------
 
-Demokratisierung von Kapital, Energiewende und mehr „power to the people“. All das kann Crowdfunding erreichen. Und deswegen lässt die Finanzierung von Windrädern und Solarparks das Herz von Carlotta Claußen höher schlagen.
+Demokratisierung von Kapital, Energiewende und mehr „power to the people“. All das kann Crowdfunding erreichen.
 
 [GermanZero](/community/spotlight/germanzero/)
 ----------
 
-„Das Ruder ist gelegt, die Segel sind gesetzt. Nun brauchen wir Rückenwind!“ Mit über 80 Teams in Deutschland organisiert GermanZero regionale Klimaentscheide, um Kommunen auf das 1,5 Grad-Ziel einzuschwören. Ina Krings sitzt im Spotlight und erzählt dir wie das geht.
+„Das Ruder ist gelegt, die Segel sind gesetzt. Nun brauchen wir Rückenwind!“ Mit über 80 Teams in Deutschland organisiert GermanZero regionale Klimaentscheide, um Kommunen auf das 1,5 Grad-Ziel einzuschwören.
 
 [BOS Deutschland](/community/spotlight/bos-deutschland/)
 ----------
 
-Artgerechte Haltung. Daniel Merdes sagt „Lass frei, was du liebst“ und schickt Orang-Utans zurück in die Wildnis. Wie aufwändig ist das, was hat das mit Klimaschutz zu tun und geht die Story von Orang-Utans „Taymur“ gut aus? Mehr dazu im neuen Spotlight.
+Artgerechte Haltung. Daniel Merdes sagt „Lass frei, was du liebst“ und schickt Orang-Utans zurück in die Wildnis.
 
 [Regionalwert AG](/community/spotlight/regionalwert-ag/)
 ----------
 
-“Ein zukunftsfähiges Land- und Ernährungswirtschaft, Ausbildung und Arbeitsplätze, Biodiversität und Bodenfruchtbarkeit.“ Solche Worte hört man von einer AG wohl eher selten. Andreas ist Vorstand der Regionalwert AG Freiburg und spricht im WEtell Spotlight über die Bürgeraktie, Verkettung von regionalen Betrieben und davon beste Bio-Erzeugnisse vom Feld auf den Teller oder in die Biokiste zu stecken.
+“Ein zukunftsfähiges Land- und Ernährungswirtschaft, Ausbildung und Arbeitsplätze, Biodiversität und Bodenfruchtbarkeit.“ Solche Worte hört man von einer AG wohl eher selten.
 
 [Goldeimer](/community/spotlight/goldeimer/)
 ----------
@@ -145,70 +144,67 @@ Artgerechte Haltung. Daniel Merdes sagt „Lass frei, was du liebst“ und schic
 [Iodé Tech](/community/spotlight/iode-tech/)
 ----------
 
-Smartphones, Laptops, Smartwatches, Smarthomes, etc. Heutzutage haben wir schienbar alles, bis auf eins: Privatsphäre. Iodé kommt aus Frankreich und schützt mit ihrem googlefreiem Android die Umwelt und deine privaten Daten.
+Smartphones, Laptops, Smartwatches, Smarthomes, etc. Heutzutage haben wir schienbar alles, bis auf eins: Privatsphäre. Iodé schützt mit ihrem googlefreiem Android die Umwelt und deine privaten Daten.
 
 [my Boo](/community/spotlight/my-boo/)
 ----------
 
-Bambus ist nicht nur für Panflöten und Pandas gut, sondern auch für hochwertige Fahrräder. Warum diese am besten aus Ghana kommen hat einen sozialen Hintergrund. Also habne wir Felix gebeten sich ins Spotlight zu stellen und uns mehr über my Boo zu erzählen.
+Bambus ist nicht nur für Panflöten und Pandas gut, sondern auch für hochwertige Fahrräder. Warum diese am besten aus Ghana kommen hat einen sozialen Hintergrund.
 
 [GLS Crowd](/community/spotlight/gls-crowd/)
 ----------
 
-Nachhaltig investieren. Das heißt nicht nur nachhaltige Projekte, sondern auch transparente Bedingungen. Dabei leiht man vorwiegend Jungunternehmen Geld, damit diese den Weg hin zu wirtschaftlichem Schaffen erreichen können. Gero hat sich ins Spotlight gestellt und erzählt uns mehr darüber
+Nachhaltig investieren. Das heißt nicht nur nachhaltige Projekte, sondern auch transparente Bedingungen. Dabei leiht man vorwiegend Jungunternehmen Geld, damit diese den Weg hin zu wirtschaftlichem Schaffen erreichen können.
 
 [Loveco](/community/spotlight/loveco/)
 ----------
 
-Jährlich werden 850 Mio. Tonnen CO2 ausgestoßen für unsere Kleidung. Loveco setzt deshalb auf natürliche Materialien wie Bio-Baumwolle, Leinen, Hanf, Tencel oder EcoVero. Die sind nicht nur besser für die Umwelt, sondern auch für deine Haut. Wir haben und also mit Lina Zuppke zusammengesetzt und über Details geschnackt.
+Jährlich werden 850 Mio. Tonnen CO2 ausgestoßen für unsere Kleidung. Loveco setzt deshalb auf natürliche Materialien wie Bio-Baumwolle, Leinen, Hanf, Tencel oder EcoVero.
 
 [Perspective Daily](/community/spotlight/perspective-daily/)
 ----------
 
-Kriege, Morde, Naturkatastrophen und Wirtschaftskrisen. Tagtäglich stecken wir in diesen Themen mittendrin, raus kommen wird da manchmal schwer. Darum hat Han Langeslag Perspective Daily gegründet und berichtet seitdem nicht nur über Probleme, sondern auch über mögliche Lösungen.
+Kriege, Morde, Naturkatastrophen und Wirtschaftskrisen. Tagtäglich stecken wir in diesen Themen mittendrin, raus kommen wird da manchmal schwer. Darum berichtet Perspective Daily nicht nur über Probleme, sondern auch über mögliche Lösungen.
 
 [Zündstoff](/community/spotlight/zundstoff/)
 ----------
 
-Selten ist die Lösung so schön, bunt und sexy wie bei nachhaltiger Mode. Und Zündstoff bringt die coolsten Labels für dich zusammen. Der Style geht ab, das Ökolabel ist geprüft und du kannst dich ganz entspannt auf die Suche nach deiner neuen Lieblingsjeans machen.
+Selten ist die Lösung so schön, bunt und sexy wie bei nachhaltiger Mode. Und Zündstoff bringt die coolsten Labels für dich zusammen.
 
 [SIRPLUS](/community/spotlight/sirplus/)
 ----------
 
-MHD - das steht nicht fpr Müllhaldedatum. Und trotzdem schmeißen wir in Deutschland jedes Jahr 18 Millionen Tonnen Lebensmittel auf den Müll, viele davon noch top in Ordnung. Raphael Fellmer hat deshalb Sirplus gegründet, um dir die Möglichkeit zu geben, Lebensmittel zum guten Preis zu retten
+MHD - das steht nicht für Müllhaldedatum. Und trotzdem schmeißen wir in Deutschland jedes Jahr 18 Millionen Tonnen Lebensmittel auf den Müll, viele davon noch top in Ordnung.
 
 [fairfood Freiburg](/community/spotlight/fairfood-freiburg/)
 ----------
 
-"Faire und nachhaltige Nahrung, ohne Verpackungsmüll auf den Markt bringen." Dafür muss fairfood Freiburg harte Nüsse knacken. Diese werfen sie zuerst in superleckere, orientalische Gewürze und danach in neue Schale. Pfandgläser, um genau zu sein.
+"Faire und nachhaltige Nahrung, ohne Verpackungsmüll auf den Markt bringen." Dafür muss fairfood Freiburg harte Nüsse knacken. Diese werfen sie zuerst in superleckere, orientalische Gewürze und danach in Pfandgläser.
 
 [Commown](/community/spotlight/commown/)
 ----------
 
-Aus Frankreich zu uns nach Deutschland gekommen, hat Commown sich darauf spezialisiert Elektronik zu vermieten, die man rumträgt, swiped, betippt, in die man reinhört und mit denen man in der Geegnd rumfunkt. Also, Smartphones, Computer, Laptops und Kopfhörer, als Reil einer zirkulären Wirtschaft.
+Aus Frankreich zu uns nach Deutschland gekommen, hat Commown sich darauf spezialisiert Elektronik zu vermieten, die man rumträgt, swiped, betippt, in die man reinhört und mit denen man in der Geegnd rumfunkt.
 
 [The Generation Forest](/community/spotlight/the-generation-forest/)
 ----------
 
 The Generation Forest, forsten Regenwälder auf, um CO<sub>2</sub> zu binden, Biodiversität zu stärken und gute Arbeitsbedingungen in Panama zu schaffen. Wie genau? Hat Janosch etwas damit zu tun?
-Oliver Jacobs hat sich bei uns ins Spotlight gesetzt und klärt uns auf.
 
 [hello simple](/community/spotlight/hello-simple/)
 ----------
 
 Formaldehyd, PEG, Mikroplastik, Methyliso…. Bitte was? Alles Dinge über die du dir keine Gedanken machen musst, wenn du auf die Beauty und Haushalts-Produkte von hello simple zurück greifst.
-Mitgründerin Lisa erzählt uns wie das geht.
 
 [bleed clothing](/community/spotlight/bleed-clothing/)
 ----------
 
 „Franconian Denim“, Jacken aus Kork und Bademode aus Teppichresten. Mit Herzblut arbeitet bleed clothing dafür, dass die Natur weniger für unseren Konsum bluten muss.
-Produktmanagerin Lena spricht über Vorreitertum und Überzeugung.
 
 [soulbottles](/community/spotlight/soulbottles/)
 ----------
 
-Flaschen mit Impact, Purpose und Seele? Elisabeth Kropp von soulbottles aus Berlin erzählt, wie das geht und warum es unbedingt notwendig ist. Wie da noch Wasserschutzprojekte, individuelles Design und Lagerfeuergespräche dazugehören, könnt ihr hier nachlesen.
+Flaschen mit Impact, Purpose und Seele? Elisabeth Kropp von soulbottles aus Berlin erzählt, wie das geht und warum es unbedingt notwendig ist.
 
 [Prokon](/community/spotlight/prokon/)
 ----------
