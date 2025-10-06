@@ -5,8 +5,6 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
-* Alle (0) Flash Deals (0)
-
 Keine Deals in dieser Kategorie
 
 Bleibe auf dem Laufenden
