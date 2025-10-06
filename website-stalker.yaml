@@ -317,10 +317,15 @@ sites:
           *[data-containers--product-configurations--option-value-component--option-value-target="outOfStockCaption"],
           *[data-containers--product-configurations--option-value-component--option-value-target="unavailableForSystemCaption"],
           *[data-containers--product-configurations--section-component--single-choice-target="reselectChoicePlaceholder"],
+          *[data-containers--product-configurations--single-variant-quantity-selector-component--availability-target="outOfStockText"],
+          *[data-containers--product-configurations--single-variant-quantity-selector-component--single-variant-quantity-selector-target="select"],
           *[data-containers--product-configurations--variant-option-component--variant-option-target="outOfStock"],
           *[data-controller="containers--product-configurations--batch-timeline-component--batch-timeline"],
           img, svg, script, noscript, style, .material-icons, #snackbar-template-container
       - html_markdownify
+      - regex_replace:
+          pattern: '(\u00A0|\u202F|&nbsp;)*\(Out of stock\)'
+          replace: ""
 
   - url: https://www.steamdeck.com/en/
     editors:

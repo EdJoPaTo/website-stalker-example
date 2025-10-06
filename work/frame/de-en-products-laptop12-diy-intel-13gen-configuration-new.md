@@ -271,13 +271,13 @@ Quick select
 
  \+€10
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
  USB-A
 
@@ -290,9 +290,7 @@ Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTrans
 
 Close
 
-01234
-
-(Out of stock)  +€10
+ \+€10
 
  HDMI (3rd Gen)
 
@@ -305,9 +303,7 @@ Close
 
 Close
 
-01234
-
-(Out of stock)  +€20
+ \+€20
 
  Ethernet
 
@@ -320,9 +316,7 @@ Close
 
 Close
 
-01234
-
-(Out of stock)  +€45
+ \+€45
 
  DisplayPort (2nd Gen)
 
@@ -335,9 +329,7 @@ Close
 
 Close
 
-01234
-
-(Out of stock)  +€20
+ \+€20
 
  MicroSD (2nd Gen)
 
@@ -350,9 +342,7 @@ Supporting MicroSD UHS-I and UHS-II cards. Designed to reduce power consumption 
 
 Close
 
-01234
-
-(Out of stock)  +€20
+ \+€20
 
  SD
 
@@ -365,9 +355,7 @@ The SD Expansion Card supports UHS-I and UHS-II, letting you transfer data to an
 
 Close
 
-01234
-
-(Out of stock)  +€29
+ \+€29
 
  Storage Expansion Cards
 
@@ -382,9 +370,7 @@ The 250GB (2nd Gen) and 1TB (2nd Gen) Expansion Cards give you the performance o
 
 Close
 
-01234
-
-(Out of stock)  +€50
+ \+€50
 
  1TB (1st Gen)
 
@@ -398,9 +384,7 @@ ChromeOS cannot be booted from any Framework Storage Expansion Card.
 
 Close
 
-01234
-
-(Out of stock)  +€140
+ \+€140
 
  Add-ons
 ----------
@@ -409,33 +393,23 @@ Close
 
  Black
 
-01
-
-(Coming soon)  +€65
+ \+€65
 
  Sage
 
-01
-
-(Coming soon)  +€65
+ \+€65
 
  Lavender
 
-01
-
-(Coming soon)  +€65
+ \+€65
 
  Bubblegum
 
-01
-
-(Coming soon)  +€65
+ \+€65
 
  Gray
 
-01
-
-(Coming soon)  +€65
+ \+€65
 
  Add to Bag  Add pre-order to bag
 

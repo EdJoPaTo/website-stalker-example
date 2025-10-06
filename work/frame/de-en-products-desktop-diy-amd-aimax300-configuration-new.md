@@ -259,131 +259,89 @@ Quick select
 
  Pack of 7 - Black Straight
 
-01234
-
-(Out of stock)  +€12
+ \+€12
 
  Pack of 7 - Black Diagonal
 
-01234
-
-(Out of stock)  +€12
+ \+€12
 
  Pack of 7 - Orange Straight
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Orange Diagonal
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Lavender Straight
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Lavender Diagonal
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Green Straight
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Green Diagonal
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Gray Straight
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Gray Diagonal
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Red Straight
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Pack of 7 - Red Diagonal
 
-01234
-
-(Out of stock)  +€18
+ \+€18
 
  Single Tiles
 
  Framework
 
-0123456
-
-(Out of stock)  +€6
+ \+€6
 
  AMD
 
-0123456
-
-(Out of stock)  +€6
+ \+€6
 
  Tux
 
-0123456
-
-(Out of stock)  +€6
+ \+€6
 
  Arch Linux
 
-0123456
-
-(Out of stock)  +€6
+ \+€6
 
  Linux Mint
 
-0123456
-
-(Out of stock)  +€6
+ \+€6
 
  Happy Earth
 
-0123456
-
-(Out of stock)  +€6
+ \+€6
 
  Touch Grass
 
-0123456
-
-(Out of stock)  +€6
+ \+€6
 
  Rainbow Heart
 
-0123456
-
-(Out of stock)  +€6
+ \+€6
 
  Blank
 
-0123456
-
-(Out of stock)  +€4
+ \+€4
 
  Expansion Cards
 ----------
@@ -441,17 +399,17 @@ Quick select
 
  \+€10
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent BlackTranslucent OrangeTranslucent PurpleTranslucent GreenTranslucent Pink
 
  USB-A
 
@@ -464,9 +422,7 @@ Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTrans
 
 Close
 
-0123456
-
-(Out of stock)  +€10
+ \+€10
 
  MicroSD (2nd Gen)
 
@@ -479,9 +435,7 @@ Supporting MicroSD UHS-I and UHS-II cards. Designed to reduce power consumption 
 
 Close
 
-0123456
-
-(Out of stock)  +€20
+ \+€20
 
  Ethernet
 
@@ -494,9 +448,7 @@ Close
 
 Close
 
-0123456
-
-(Out of stock)  +€45
+ \+€45
 
  SD
 
@@ -509,9 +461,7 @@ The SD Expansion Card supports UHS-I and UHS-II, letting you transfer data to an
 
 Close
 
-0123456
-
-(Out of stock)  +€29
+ \+€29
 
  Audio
 
@@ -524,9 +474,7 @@ Close
 
 Close
 
-0123456
-
-(Out of stock)  +€20
+ \+€20
 
  Storage
 
@@ -541,9 +489,7 @@ The 250GB (2nd Gen) and 1TB (2nd Gen) Expansion Cards give you the performance o
 
 Close
 
-0123456
-
-(Out of stock)  +€50
+ \+€50
 
  1TB (1st Gen)
 
@@ -557,9 +503,7 @@ ChromeOS cannot be booted from any Framework Storage Expansion Card.
 
 Close
 
-0123456
-
-(Out of stock)  +€140
+ \+€140
 
  Add-ons
 ----------
