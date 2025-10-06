@@ -15,6 +15,8 @@ Die SprottenFlotte ist das Bikesharingsystem der KielRegion – mit unseren Räd
 
 Jetzt einfach losfahren! Hier geht´s zur App: [iOS](https://apps.apple.com/de/app/donkey-republic/id933526449) und [Android](https://play.google.com/store/apps/details?id=com.donkeyrepublic.bike.android&referrer=utm_source%3Ddonkey.bike%26utm_medium%3Dhero%26utm_content%3Ddownload-button%26utm_campaign%3Dfrontpage-download)!
 
+[Hier gibt`s noch weitere FAQ!](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/faq-sprottenflotte/)
+
 Bist du länger in der KielRegion zu Gast und brauchst ein Fahrrad? Dann schau dir gern das [Angebot](https://www.kielregion.de/mobilitaetsregion/regionaler-radverkehr/lokaler-fahrradverleih/) der lokalen Radverleiher an.
 
 ### Wie funktioniert die SprottenFlotte? ###
@@ -34,8 +36,6 @@ Bist du länger in der KielRegion zu Gast und brauchst ein Fahrrad? Dann schau d
 * Fertig!
 
 ### Erklärvideo zur Registrierung und Ausleihe ###
-
-[Hier gibt`s noch weitere FAQ!](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/faq-sprottenflotte/)
 
 ### Vorteile ###
 
@@ -78,6 +78,48 @@ Service & Support:
 \+49 (0) 30 255 58 56 17
 
 Antworten auf Fragen zur Buchung, Abrechnung und Technik gibt es bei der Service-Hotline. Die Mitarbeiter\*innen von Donkey Republic helfen gerne weiter. Unter [Häufige Fragen & Antworten](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/faq-sprottenflotte/) werden die wichtigsten Fragen beantwortet.
+
+### Hier gibt es noch mehr Infos zur SprottenFlotte: ###
+
+[](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/faq-sprottenflotte/)
+
+### [Häufige Fragen & Antworten](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/faq-sprottenflotte/)  ###
+
+[](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/lastenraeder/)
+
+### [Lastenräder](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/lastenraeder/)  ###
+
+[](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/unternehmenskooperation-mit-der-sprottenflotte/)
+
+### [Für Unternehmen & Kommunen](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/unternehmenskooperation-mit-der-sprottenflotte/)  ###
+
+[](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/projekt-smile24/)
+
+### [Bikesharing in der Schlei-Region: Modellprojekt SMILE24](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/projekt-smile24/)  ###
+
+### Ansprechpartner ###
+
+ Benno Hilwerling
+
+ Projektkoordinator SprottenFlotte (Mobilität); Teamverantwortlicher für strategisch-inhaltliche Entwicklung im Bereich Mobilität
+
+Haßstraße 3-5
+24103 Kiel
+
+[0431 55 60 01 15](tel:043155600115)
+
+[b.hilwerling@kielregion.de](mailto:b.hilwerling@kielregion.de)
+
+ Ingo Meyer
+
+ Projektmanager SprottenFlotte (Mobilität)
+
+Haßstraße 3-5
+24103 Kiel
+
+[0173 2331969](tel:01732331969)
+
+[i.meyer@kielregion.de](mailto:i.meyer@kielregion.de)
 
 Unser Premiumpartner
 ----------
@@ -307,45 +349,3 @@ Kommunale Partner
 [](https://gemeinde-wisch.de/)
 
 [Gemeinde Wisch](https://gemeinde-wisch.de/)
-
-### Hier gibt es noch mehr Infos zur SprottenFlotte: ###
-
-[](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/faq-sprottenflotte/)
-
-### [Häufige Fragen & Antworten](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/faq-sprottenflotte/)  ###
-
-[](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/lastenraeder/)
-
-### [Lastenräder](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/lastenraeder/)  ###
-
-[](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/unternehmenskooperation-mit-der-sprottenflotte/)
-
-### [Für Unternehmen & Kommunen](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/unternehmenskooperation-mit-der-sprottenflotte/)  ###
-
-[](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/projekt-smile24/)
-
-### [Bikesharing in der Schlei-Region: Modellprojekt SMILE24](https://www.kielregion.de/mobilitaetsregion/sprottenflotte/projekt-smile24/)  ###
-
-### Ansprechpartner ###
-
- Benno Hilwerling
-
- Projektkoordinator SprottenFlotte (Mobilität); Teamverantwortlicher für strategisch-inhaltliche Entwicklung im Bereich Mobilität
-
-Haßstraße 3-5
-24103 Kiel
-
-[0431 55 60 01 15](tel:043155600115)
-
-[b.hilwerling@kielregion.de](mailto:b.hilwerling@kielregion.de)
-
- Ingo Meyer
-
- Projektmanager SprottenFlotte (Mobilität)
-
-Haßstraße 3-5
-24103 Kiel
-
-[0173 2331969](tel:01732331969)
-
-[i.meyer@kielregion.de](mailto:i.meyer@kielregion.de)

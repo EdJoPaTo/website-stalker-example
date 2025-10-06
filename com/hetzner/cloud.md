@@ -902,6 +902,6 @@ Frequently Asked Questions
 
 * **How many servers can I create?**
 
-  Each customer has a default limit for the number of Cloud resources that we simultaneously provide. If you would like to increase your limit, you can send a request to our support team by opening a support ticket via Cloud Console. Our team will quickly review your request and, if everything is in order, they will increase your limit.
+  Each customer has a default limit for the number of Cloud resources that we simultaneously provide. If you would like to increase your limit, you can send a request to our support team by opening a support ticket via Hetzner Console. Our team will quickly review your request and, if everything is in order, they will increase your limit.
 
 [More FAQs](https://docs.hetzner.com/cloud/)
