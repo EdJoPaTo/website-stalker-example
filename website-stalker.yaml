@@ -161,6 +161,39 @@ sites:
       - css_remove: .grid-container:has(input) # Local Block Storage Preisrechner
       - html_url_canonicalize
       - html_markdownify
+  - url: https://www.netcup.com/de/deals
+    filename: com/netcup/deals.json
+    headers:
+      - "Cache-Control: no-cache"
+    editors:
+      - css_select: script[type="application/json"]
+      - html_textify
+      - json_prettify
+      - regex_replace:
+          pattern: '.+Reactive",?\n'
+          replace: ""
+      - regex_replace:
+          pattern: '.*(\t| )(\d+|"\d+"|null|true|false|""),?\n'
+          replace: ""
+      - regex_replace:
+          pattern: '(?i).+(icon|logo)[^"\n]*",?\n'
+          replace: ""
+      - regex_replace:
+          pattern: '.+[/.](svg|svg\+xml|png)",?\n'
+          replace: ""
+      - regex_replace:
+          pattern: '.+_[a-f\d]{10}",?\n'
+          replace: ""
+      - regex_replace:
+          pattern: '.+"dce\.[^"\n]*",?\n'
+          replace: ""
+      - regex_replace:
+          pattern: ',[\n\s]*(\}|\])'
+          replace: "$1"
+      - regex_replace:
+          pattern: '(\{[\n\s]*\},)|(\[[\n\s]*\],)'
+          replace: ""
+      - json_prettify
 
   - url:
       - https://www.hetzner.com/cloud/
