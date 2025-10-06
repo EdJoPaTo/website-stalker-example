@@ -441,17 +441,17 @@ Quick select
 
  \+€10
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
 
-Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent PurpleTranslucent Green&nbsp;&nbsp;&nbsp;(Out of stock)Translucent Pink
+Choose colorAluminumOrangeLavenderSageBubblegumGreenRedBlackGrayTranslucentTranslucent Black&nbsp;&nbsp;&nbsp;(Out of stock)Translucent OrangeTranslucent Purple&nbsp;&nbsp;&nbsp;(Out of stock)Translucent GreenTranslucent Pink
 
  USB-A
 
