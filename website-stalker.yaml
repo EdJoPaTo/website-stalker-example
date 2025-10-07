@@ -161,8 +161,7 @@ sites:
       - css_remove: .grid-container:has(input) # Local Block Storage Preisrechner
       - html_url_canonicalize
       - html_markdownify
-  - url: https://www.netcup.com/de/deals
-    filename: com/netcup/deals.json
+  - url: https://www.netcup.com/de/deals?all
     headers:
       - "Cache-Control: no-cache"
     editors:
