@@ -26,7 +26,7 @@ Knowledge base
 [Shelly Smart Control Guide Become an expert with Shelly Smart Control Application.](https://kb.shelly.cloud/knowledge-base/shelly-smart-control-guide)
 [Downloads Download Shelly device compliances.](https://kb.shelly.cloud/knowledge-base/device-compliance)
 
-GEN 1 Devices Changelog GEN 2/3 Devices ChangelogBLU Devices ChangelogShelly APP Changelog
+GEN 2/3/4 Devices Changelog BLU Devices Changelog Shelly APP Changelog
 
 #### Most popular articles ####
 
