@@ -3,6 +3,28 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### 🚀 DNS now in Hetzner Console ###
+
+After Storage Boxes, DNS has also been moved from a separate panel into Hetzner Console.
+
+* **Beta phase**
+
+  Beta will likely end on 10 November 2025. After that date, it is no longer possible to create new zones in the old DNS Console. [Follow this step-by-step guide](https://docs.hetzner.com/networking/dns/migration-to-hetzner-console/process) to migrate your existing zones from the old DNS Console to Hetzner Console.
+
+* **New features**
+
+  * **Additional record types supported:**HTTPS, SVCB, PTR, HINFO, RP, and more.
+
+  * **Record comments:**Add a comment per record to better distinguish entries.
+
+  * **Integration into the Cloud API:**Manage DNS zones via the [Hetzner Cloud API](https://docs.hetzner.cloud/reference/cloud#dns).
+
+  * **New validations:**Ensure correct configuration of zones with improved validation checks.
+
+* **Reworked main navigation**
+
+  For a clearer structure, DNS, Networks, and Load Balancers are now grouped under the new top-level item "Networking".
+
 ### New feedback tool: Help optimize our products and services ###
 
 We are dedicated to providing a smooth and intuitive user experience, and are continuously working to optimize our products and interface — keeping them clean, simple and, most importantly, user-friendly! To better understand your needs and possible pain points, we need your help:
