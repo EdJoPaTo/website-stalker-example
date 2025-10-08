@@ -107,7 +107,6 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Pro 3EM-400](https://kb.shelly.cloud/knowledge-base/shelly-pro-3em-400)
 * [Shelly Pro EM-50](https://kb.shelly.cloud/knowledge-base/shelly-pro-em-50)
 * [Shelly Pro 3EM-3CT63](https://kb.shelly.cloud/knowledge-base/shelly-pro-3em-3ct63)
-* [Shelly Pro 3EM Switch Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-3em-switch-add-on)
 * [CT 120A](https://kb.shelly.cloud/knowledge-base/ct-120a)
 * [CT 400A](https://kb.shelly.cloud/knowledge-base/ct-400a)
 * [Shelly Pro 4PM](https://kb.shelly.cloud/knowledge-base/4shelly-pro-4pm)
@@ -209,3 +208,4 @@ Learn everything you need about Shelly devices – features, applications and sp
 
 * [Shelly LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-lora-add-on)
 * [Shelly Plus Add-on](https://kb.shelly.cloud/knowledge-base/shelly-plus-add-on)
+* [Shelly Pro 3EM Switch Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-3em-switch-add-on)
