@@ -43,6 +43,14 @@ Die Auslastungsinformation bezieht sich immer auf die in der Verbindungsauskunft
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welche-wagenklasse-bezieht-sich-die-auslastungsinformation)
 
+###  Ich habe ein Ticket mit Zugbindung (z. B. Sparpreis). Darf ich bei hoher Auslastung eine andere Verbindung nehmen?  ###
+
+Die Zugbindung gilt weiterhin. Sie dürfen mit einem zuggebundenen Ticket also keine andere Verbindung wählen.
+
+**Unser Tipp:** Reservieren Sie frühzeitig. So ist es wahrscheinlich, dass Sie Ihren Wunschplatz erhalten. Da sich die erwartete Auslastung ändern kann und bei außergewöhnlich hoher Auslastung eine Sitzplatzreservierung nicht mehr möglich ist, empfehlen wir, diese zeitnah zu buchen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-ein-ticket-mit-zugbindung-z-b-sparpreis-darf-ich-bei-hoher-auslastung-eine-andere-verbindung-nehmen)
+
 ###  Wieso ist bei manchen Verbindungen keine Auslastungsinformation verfügbar?  ###
 
 * Die Auslastung wird nur für Züge der DB Fernverkehr (ICE, IC- und EC-Züge) angezeigt. Für alle weiteren Betreiber, insbesondere Nahverkehrszüge, kann keine Auslastungsprognose erfolgen.
@@ -60,11 +68,3 @@ Die Auslastungsinformation basiert auf Prognosen. In Einzelfällen kann es desha
 Zusätzlich bezieht sich die Information auf den gesamten Zug (je Klasse). Die Auslastung kann sich aber von Wagen zu Wagen zum Teil deutlich unterscheiden. Beispielsweise gibt es am Zuganfang und -ende häufig mehr freie Plätze als in der Mitte des Zuges.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woher-kommen-die-informationen)
-
-###  Ich habe ein Ticket mit Zugbindung (z. B. Sparpreis). Darf ich bei hoher Auslastung eine andere Verbindung nehmen?  ###
-
-Die Zugbindung gilt weiterhin. Sie dürfen mit einem zuggebundenen Ticket also keine andere Verbindung wählen.
-
-**Unser Tipp:** Reservieren Sie frühzeitig. So ist es wahrscheinlich, dass Sie Ihren Wunschplatz erhalten. Da sich die erwartete Auslastung ändern kann und bei außergewöhnlich hoher Auslastung eine Sitzplatzreservierung nicht mehr möglich ist, empfehlen wir, diese zeitnah zu buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-ein-ticket-mit-zugbindung-z-b-sparpreis-darf-ich-bei-hoher-auslastung-eine-andere-verbindung-nehmen)

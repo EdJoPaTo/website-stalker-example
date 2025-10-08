@@ -497,17 +497,9 @@ sites:
   - url:
       - https://www.bahn.de/angebot/bahncard
       - https://www.bahn.de/angebot/bahncard/vergleich
-      - https://www.bahn.de/angebot/regio/deutschland-ticket
       - https://www.bahn.de/angebot/uebersicht-online-nicht-buchbar
       - https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung
-      - https://www.bahn.de/faq/pk/angebot/bahncard
-      - https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket
-      - https://www.bahn.de/faq/pk/angebot/sitzplatzreservierung
-      - https://www.bahn.de/faq/pk/angebot/upgrade
-      - https://www.bahn.de/faq/pk/service
       - https://www.bahn.de/service/fahrplaene/bauarbeiten
-      - https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte
-      - https://www.bahn.de/service/informationen-buchung/auslastungsinformation
       - https://www.bahn.de/service/informationen-buchung/fahrgastrechte
       - https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen
       - https://www.bahn.de/service/informationen-buchung/nahverkehrsfreigabe
@@ -516,18 +508,39 @@ sites:
       - https://www.bahn.de/service/zug/
       - https://www.bahn.de/service/zug/db-lounge
       - https://www.bahn.de/service/zug/erste-klasse
-      - https://www.bahn.de/service/zug/fahrtinformationen
       - https://www.bahn.de/service/zug/ice-sitzplaetze
-      - https://www.bahn.de/service/zug/komfort-check-in
       - https://www.bahn.de/service/zug/ruhebereich
       - https://www.bahn.de/service/zug/was-tun-wenn-es-mal-schief-laeuft
-      - https://www.bahn.de/service/zug/wlan-im-ice
       - https://www.bahn.de/service/zug/wlan-nahverkehr
     editors:
       - css_select: main
       - css_remove: script, noscript, style, figure, picture, img, nav, .back-to-top, .product-tile__image-link, .image-gallery__counter
       - css_remove: p:has(+.category-filter-wrapper), .category-filter-wrapper
       - css_flatten: a:has(h3)
+      - html_url_canonicalize
+      - html_markdownify
+  - url:
+      - https://www.bahn.de/angebot/regio/deutschland-ticket
+      - https://www.bahn.de/faq/pk/angebot/bahncard
+      - https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket
+      - https://www.bahn.de/faq/pk/angebot/sitzplatzreservierung
+      - https://www.bahn.de/faq/pk/angebot/upgrade
+      - https://www.bahn.de/faq/pk/service
+      - https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte
+      - https://www.bahn.de/service/informationen-buchung/auslastungsinformation
+      - https://www.bahn.de/service/zug/fahrtinformationen
+      - https://www.bahn.de/service/zug/komfort-check-in
+      - https://www.bahn.de/service/zug/wlan-im-ice
+    editors:
+      - css_select: main
+      - css_remove: script, noscript, style, figure, picture, img, nav, .back-to-top, .product-tile__image-link, .image-gallery__counter
+      - css_remove: p:has(+.category-filter-wrapper), .category-filter-wrapper
+      - css_flatten: a:has(h3)
+      - css_sort:
+          selector: .accordion-element:has(a.link[target="_blank"])
+          sort_by:
+            - css_select: a.link[target="_blank"] # open local link in new tab
+            - html_sanitize
       - html_url_canonicalize
       - html_markdownify
   - url: https://db-bordgastronomie.de/faq

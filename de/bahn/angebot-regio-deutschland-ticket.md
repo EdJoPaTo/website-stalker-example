@@ -24,24 +24,15 @@ Sie müssen sich nur einmal für ein Kundenkonto registrieren, danach können 
 Häufig gestellte Fragen
 ----------
 
-###  In welchen Zügen gilt das Deutschland-Ticket?  ###
+###  Wo kann ich das Deutschland-Ticket kaufen?  ###
 
-* Das Deutschland-Ticket gilt in allen Nahverkehrszügen (RB, RE, S-Bahn) und öffentlichen Verkehrsmitteln (Bus, Straßenbahn, U-Bahn) der teilnehmenden Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
-* Das Deutschland-Ticket gilt nicht in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
-* Die Nutzung im Vor- und Nachlauf ist möglich. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich.
-* Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
+* **Online:** Auf bahn.de oder über die App DB Navigator.
+* **Vor Ort:** In DB Reisezentren deutschlandweit.
+* **Andere Anbieter:** Viele Verkehrsunternehmen bieten das Ticket auch in ihren Vertriebskanälen an.
 
-Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
+Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
 
-* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
-
-###  Wie viel kostet das Deutschland-Ticket?  ###
-
-Ab 1. Januar 2025 kostet das Deutschland-Ticket **58 Euro pro Monat.** Dies wurde von den Verkehrsministerinnen und Verkehrsministern von Bund und Ländern gemeinsam beschlossen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
 
 ###  Wie kann ich mein Deutschland-Ticket-Abo kündigen?  ###
 
@@ -58,15 +49,24 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen)
 
-###  Wo kann ich das Deutschland-Ticket kaufen?  ###
+###  Wie viel kostet das Deutschland-Ticket?  ###
 
-* **Online:** Auf bahn.de oder über die App DB Navigator.
-* **Vor Ort:** In DB Reisezentren deutschlandweit.
-* **Andere Anbieter:** Viele Verkehrsunternehmen bieten das Ticket auch in ihren Vertriebskanälen an.
+Ab 1. Januar 2025 kostet das Deutschland-Ticket **58 Euro pro Monat.** Dies wurde von den Verkehrsministerinnen und Verkehrsministern von Bund und Ländern gemeinsam beschlossen.
 
-Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
+###  In welchen Zügen gilt das Deutschland-Ticket?  ###
+
+* Das Deutschland-Ticket gilt in allen Nahverkehrszügen (RB, RE, S-Bahn) und öffentlichen Verkehrsmitteln (Bus, Straßenbahn, U-Bahn) der teilnehmenden Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
+* Das Deutschland-Ticket gilt nicht in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
+* Die Nutzung im Vor- und Nachlauf ist möglich. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich.
+* Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
+
+Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
+
+* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
 ###  Wo finde ich weitere Informationen zum Deutschland-Ticket?  ###
 

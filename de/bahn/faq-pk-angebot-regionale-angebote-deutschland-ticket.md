@@ -1,172 +1,39 @@
 Häufige Fragen zu "Deutschland-Ticket"
 ==========
 
- Mein Deutschland-Ticket wird in der App nicht mehr angezeigt. Was kann ich tun?
+ Wie kann ich die BahnCard 100 inklusive Deutschland-Ticket beantragen?
 ----------
 
-**DB Navigator:**
-Sollten Sie Ihr Handy-Ticket nicht mehr sehen, können Sie es jederzeit unter "Reisen" mit der Abonummer aus Ihrer Aktivierungsmail neu hinzufügen.
+ Die BahnCard 100 inklusive Deutschland-Ticket beantragen:
 
-Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen weitere Kosten für den neuen Abovertrag.
+1. Die BahnCard 100 bequem online bestellen und bundesweit im Nah- und Fernverkehr unbegrenzt reisen.
+2. Die BahnCard 100 als Plastikkarte in ca. 2 Wochen per Post erhalten.
+3. Die BahnCard 100 dient gleichzeitig als Deutschland-Ticket.
 
-**Aboportal bei iOS-Geräten:**
-Aktuell gibt es Probleme bei der Nutzung von iOS-Geräten im Aboportal. An der Lösung wird bereits gearbeitet. Fügen Sie das Ticket daher direkt im DB Navigator hinzu:
+**Wichtig:** Der 1. Geltungstag der BahnCard 100 muss mindestens 14 Tage in der Zukunft liegen. Für sofortige Nutzung empfehlen wir den Kauf im Reisezentrum.
 
-1. Öffnen Sie "Reisen".
-2. Tippen Sie auf "+" (oben rechts im Bildschirm).
-3. Geben Sie die Ticketinformationen (Abonummer und Nachname) ein.
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard100-inklusive-deutschland-ticket)
 
-Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
-
- Was ist der Deutschland-Ticket-Filter "Nur D-Ticket-Verbindungen anzeigen"?
+ Ich habe bereits ein Abo auf einer Chipkarte und bin zum Deutschland-Ticket gewechselt. Kann ich meine Chipkarte aktualisieren und weiterverwenden?
 ----------
 
-Der Deutschland-Ticket-Filter (D-Ticket-Filter) erlaubt es, gezielt nach Verbindungen zu suchen, die ohne Aufpreis mit dem Deutschland-Ticket fahrbar sind. Er kann mit Hilfe des Schiebereglers „Nur D-Ticket-Verbindungen“ aktiviert werden.
+Ja, Sie können in einigen Verbünden Ihre Chipkarte weiterverwenden, wenn Sie bereits ein Abo auf einer Chipkarte haben und zum Deutschland-Ticket gewechselt sind. Diese Information haben Sie im Wechselprozess und in Ihrer Bestellbestätigung erhalten.
 
-* In der App DB Navigator findet sich dieser unter "Optionen".
-* Auf bahn.de unten in der Verbindungsauskunft.
+Vor dem ersten Fahrtantritt mit den Konditionen des Deutschland-Tickets müssen Sie Ihre Karte einmalig selbständig aktualisieren.
 
-Wenn in der Suche wieder alle Verbindungen angezeigt werden sollen, auch solche des Fernverkehrs, lässt sich der D-Ticket-Filter an gleicher Stelle auch wieder deaktivieren.
+**So aktualisieren Sie Ihre Chipkarte:**
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-im-db-navigator)
+1. Nach Erhalt der Auftragsbestätigung haben Sie 21 Tage Zeit, die Karte an einem DB-Automaten im Gebiet Ihres Tarifgebers zu aktualisieren.
+2. Finden Sie einen DB Automaten in Ihrem Tarifgebiet unter dem Link "Fahrkarten am DB Automat kaufen".
+3. Halten Sie Ihre Chipkarte an die Fläche mit dem Symbol (((e am DB Automaten.
+4. Warten Sie 15 Sekunden, bis die Aktualisierung erfolgreich durchgeführt wurde. Haben Sie bitte etwas Geduld, wenn die Ladezeit etwas länger ist.
 
- Wieso erscheinen trotz aktiviertem D-Ticket-Filter einzelne nicht im D-Ticket enthaltene Verbindungen?
-----------
+Beachten Sie, dass die Anzeige am Automaten bis zum 1. Geltungstag des Deutschland-Tickets fehlerhaft sein kann. Ihr Ticket wird trotzdem aktualisiert.
 
-Trotz aktiviertem Schieberegler „Nur D-Ticket-Verbindungen“ kann es vorkommen, dass einzelne Verbindungen angezeigt werden, die nicht im Umfang des D-Tickets enthalten sind.
+* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
+* [Fahrkarten am DB Automaten kaufen](https://www.bahn.de/service/informationen-buchung/verkaufsstellen/automat)
 
-Dies ist der Fall, wenn der Betreiber einer Nahverkehrs-Strecke das Deutschland-Ticket nicht akzeptiert (z. B. bei bestimmten Flughafen-Buslinien). In diesem Fall gilt der angezeigte Hinweis: "Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verbindungsanzeige)
-
- Kann ich gleichzeitig nach Deutschland-Ticket-Verbindungen und nach bestimmten Verkehrsmitteln filtern?
-----------
-
-Nein: Ist der Schieberegler „Nur D-Ticket-Verbindungen“ aktiviert, werden alle Verbindungen auf der gesuchten Strecke angezeigt, die mit dem Deutschland-Ticket fahrbar sind.
-
-* Voraussetzung für die Nutzung des Filters ist, dass die Verkehrsmittelauswahl in den "Optionen" auf "Alle" eingestellt ist.
-* Eine Einschränkung auf bestimmte Verkehrsmittel ist nicht möglich.
-* Sollen nur einzelne Verkehrsmittel angezeigt werden, ist es notwendig, den D-Ticket-Filter vorher zu deaktivieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verkehrsmittel-suche)
-
- Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf Fahrgastrechte?
-----------
-
-Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung der Fernverkehrsfahrkarte jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
-
-Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrechte:
-
-* Bei Verspätung eines Nahverkehrszuges, die zum Verpassen eines Fernverkehrszuges führt, wird die Zugbindung im Fernverkehr nicht aufgehoben. Ein späterer Fernzug kann damit nicht genutzt werden.
-* Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrsticket, nicht kombiniert.
-* Bei Anreise mit U-Bahn, Straßenbahn oder Bus gelten keine durchgängigen Fahrgastrechte.
-
-* [Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrgastrechte)
-
- Was passiert, wenn ich das Deutschland-Ticket bei der Buchung einer Super Sparpreis-, Sparpreis- oder Flexpreis-Fahrkarte angebe?
-----------
-
-Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen, wird lediglich eine Fahrkarte ausgegeben, und zwar für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt (meistens ICE- oder IC/EC Züge). Sie müssen nur diese Strecke bezahlen, denn für die Fahrt im Nahverkehr haben Sie das Deutschland-Ticket. Das spart bares Geld.
-
-**Beispiel:** Buchungsanfrage Potsdam – Berlin – Frankfurt – Bad Homburg. Die Preisberechnung erfolgt für die Strecke im Fernverkehr Berlin – Frankfurt. Auch die Fahrkarte wird ausschließlich für die Fernverkehrsstrecke ausgegeben. Für Nahverkehrsstrecke Potsdam – Berlin und Frankfurt – Bad Homburg wird das Deutschland-Ticket genutzt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-sparpreise)
-
- Welche Auswirkung hat die Angabe eines Deutschland-Tickets auf den Preis?
-----------
-
-Für die Berechnung des Fahrkartenpreises ist ausschließlich die Strecke vom ersten bis letzten Fernverkehrshalt relevant. Für den Anteil im Schienenpersonennahverkehr wird das Deutschland-Ticket genutzt. Das spart bares Geld.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-preis)
-
- Was passiert, wenn ich mein Deutschland-Ticket bei der Fahrt im DB Fernverkehr nicht dabei habe?
-----------
-
-Das macht nichts, denn für die Fahrt im Fernverkehr ist das Deutschland-Ticket nicht erforderlich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrten)
-
- Erhalte ich ein City-Ticket bei Angabe des Deutschland-Tickets?
-----------
-
-Nein. In den günstigen Angeboten Super Sparpreis und Sparpreis wird bei Angabe des Deutschland-Tickets kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket auch weiterhin inklusive.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-cityticket)
-
- Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf eine mögliche Erstattung meines Flex- oder Sparpreistickets?
-----------
-
-Keine, die Angabe des Deutschland-Tickets hat keinerlei Auswirkungen auf die Stornierungs- und Erstattungsmöglichkeiten. Es gelten die bestehenden Erstattungskonditionen des gebuchten Fernverkehrsangebots.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-flex-sparpreis)
-
- Kann ich nach Aktivierung des Preisfilters für das Deutschland-Ticket die Bestpreissuche nutzen?
-----------
-
-Nein. Eine Kombination des Preisfilters für das Deutschland-Ticket mit der Bestpreissuche ist leider nicht möglich. Wenn Sie die Bestpreissuche nutzen möchten, ist es notwendig, den Filter vorher zu deaktivieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-dt-und-bestpreissuche)
-
- Kann ich Deutschland-Ticket und BahnCard 25/50 gemeinsam in den Reisendenoptionen angeben?
-----------
-
-Ja, das ist möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-dt-und-bahncard)
-
- Was muss ich bei Angabe des Deutschland-Tickets beachten, wenn ich Kinder mitnehmen möchte?
-----------
-
-* Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte angegeben sind.
-* Das Deutschland-Ticket gewährt keine kostenfreie Mitnahme von Kindern zwischen sechs und 14 Jahren. Deshalb brauchen Sie zur An- oder Abreise bis zum, bzw. ab dem Fernverkehrshalt für Kinder ein zusätzliches gültiges Nahverkehrsticket (z.B. eine Einzelfahrt) .
-* Kinder unter 6 Jahren benötigen weder im Nah- noch im Fernverkehr eine Fahrkarte.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)
-
- Welche beiden Filtermöglichkeiten gibt es für das Deutschland-Ticket?
-----------
-
-Sie haben zwei Möglichkeiten:
-
-1. Schieberegler **„Nur D-Ticket Verbindungen“** unter "Optionen" aktivieren:
-    Zeigt ausschließlich Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
-
-2. Schieberegler **„Alle Reisenden besitzen ein Deutschland-Ticket“** unter "Reisende/Fahrräder" aktivieren:
-    Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
-
-So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
-
-* [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
-
- Welche Konditionen hat das Deutschland-Ticket?
-----------
-
-Bund und Länder haben entschieden, das Deutschland-Ticket als Abonnement anzubieten. Es ist bundesweit gültig und ermöglicht deutschlandweite Fahrten im ÖPNV und SPNV aller teilnehmenden Verkehrsunternehmen, Landestarife und Verkehrsverbünde sowie im verbundfreien Raum.
-
-* [zu den AGBs](https://www.bahn.de/agb)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-konditionen)
-
- Wie viel kostet das Deutschland-Ticket?
-----------
-
-Ab 1. Januar 2025 kostet das Deutschland-Ticket **58 Euro pro Monat.** Dies wurde von den Verkehrsministerinnen und Verkehrsministern von Bund und Ländern gemeinsam beschlossen.
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chipkarte-wechsel-deutschland-ticket-chipkarte)
 
  Das Deutschland-Ticket wird teurer - was muss ich jetzt tun?
 ----------
@@ -190,29 +57,6 @@ Loggen Sie sich mit Ihrem bahn.de-Account ein und rufen Sie Ihr Deutschland-Tick
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung)
-
- Mein Deutschland-Ticket wurde gekündigt. Was kann ich tun, wenn ich auch in 2025 das Angebot nutzen möchte?
-----------
-
-​​​​​​Wenn Ihr Deutschland-Ticket vom Verkehrsunternehmen gekündigt wurde, haben Sie mehrere Möglichkeiten, die zeitlich variieren können.
-
-**Vor dem 31. Dezember 2024**
-
-Sie können Ihr Abo ganz einfach wieder „reaktivieren“. Wählen Sie dazu im Aboportal oder im DB Navigator den Menüpunkt „Abo reaktivieren“ aus. Diese Funktion ist nur bis zum eingetragenen Kündigungsdatum 31. Dezember 2024 verfügbar. So lange hat Ihr Abo den Status „Kündigung eingeleitet”. Wenn Sie das Abo reaktivieren, erneuern wir Ihr Deutschland-Ticket-Abo zu den neuen Konditionen, d.h. insbesondere zum neuen Preis.
-
-**Nach dem 31. Dezember 2024**
-
-Wenn Sie im Januar 2025 wieder ein neues Deutschland-Ticket-Abonnement haben möchten und Ihr bisheriges gekündigt wurde, schließen Sie bitte ein neues Deutschland-Ticket-Abonnement zum neuen Preis von 58 Euro pro Monat ab.
-
-**Wichtig:** Sollten Sie ab Januar 2025 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben, damit Ihnen im Falle einer Fahrscheinkontrolle keine zusätzlichen Kosten entstehen.
-
-* [Zum Aboportal](https://abo.bahn.de/#/)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weiter-nutzen)
 
  Was passiert mit meinem Deutschland-Ticket, wenn ich der Preisänderung nicht zustimme?
 ----------
@@ -248,31 +92,311 @@ Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der gelte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-wechsel)
 
- Wo kann ich das Deutschland-Ticket kaufen?
+ Ich kann mein Deutschland-Ticket-Abo nicht im Abo-Portal finden. Was kann ich tun?
 ----------
 
-* **Online:** Auf bahn.de oder über die App DB Navigator.
-* **Vor Ort:** In DB Reisezentren deutschlandweit.
-* **Andere Anbieter:** Viele Verkehrsunternehmen bieten das Ticket auch in ihren Vertriebskanälen an.
+Bitte achten Sie beim Hinzufügen Ihres Deutschland-Ticket Abos darauf, den Tarifgeber auszuwählen, von dem Sie Ihr Deutschland-Ticket bezogen haben. Dies erkennen Sie an der Produktbezeichnung in Ihrer Bestellbestätigung oder auf Ihrem Handy-Ticket. Beim Hinzufügen Ihres Abos nutzen Sie bitte die Abo-Auftragsnummer, die Ihnen in Ihrer Aktivierungsmail mitgeteilt wurde. Für weitere Hilfestellungen besuchen Sie das Aboportal.
 
-Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
+* [Zum Aboportal](https://abo.bahn.de/#/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschland-ticket-im-abo-portal-finden)
+
+ Kann ich das Deutschland-Ticket auch für die 1. Klasse kaufen?
+----------
+
+Nein, das Deutschland-Ticket ist ausschließlich für die 2. Klasse erhältlich.
+
+In einigen Verkehrsverbünden und Landestarifen (z.B. in Baden-Württemberg) können Sie Aufpreise für die 1. Klasse kaufen, die für das jeweilige Verbund- oder Landestarifgebiet gültig sind. Im Schienenverkehr - gemäß Deutschlandtarif - gibt es sogenannte Klassenübergänge. Diese sind für die jeweils genutzte Strecke als Einzelübergang sowie als Wochen- und Monatsübergang verfügbar. Die genutzte Strecke darf dabei nicht vollständig innerhalb eines Verkehrsverbundes oder Landestarifs liegen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse)
+
+ Wie kann ich die 1. Klasse für Fahrten mit dem Deutschland-Ticket nutzen?
+----------
+
+Ein Übergang in die 1. Wagenklasse ist sowohl
+
+* als Einzelübergang,
+* oder als Monatsübergang für Zeitkarten
+
+gemäß der Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder Landestarife erhältlich.
+
+* [Details zum 1.-Klasse Übergang finden Sie hier](https://www.bahn.de/faq/deutschlandticket-1klasse)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse-aufpreis)
+
+ Kann ich das Deutschland-Ticket auch mitten im Monat für eine kurzfristige Reise kaufen?
+----------
+
+Ja. Sie können das Deutschland-Ticket auch im laufenden Monat als "Abo-Sofort"-Variante im Reisezentrum kaufen und direkt losfahren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ab-sofort)
+
+ Kann ich mein Deutschland-Ticket Abo selbst verwalten?
+----------
+
+Ja. Alle Funktionen zur Verwaltung Ihres Deutschland-Tickets finden Sie im Aboportal. Hier können Sie:
+
+* Ihren Vertrag ändern,
+* Ihren Vertrag kündigen,
+* Ihre Kundendaten anpassen.
+
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-abo-selbst-verwalten)
+
+ Wieso wird mir mein Deutschland-Ticket nur für einen Monat angezeigt, obwohl ich ein Abo abgeschlossen habe?
+----------
+
+Ihr Deutschland-Ticket-Abo verlängert sich automatisch bis zu Ihrer Kündigung. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich jeden Monat automatisch. Ein zusätzliches Handy-Ticket für den Folgemonat wird nicht angezeigt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-anzeige-nur-fuer-einen-monat)
+
+ Kann ich, gegen einen Aufpreis, das Deutschland-Ticket auch für Fernverkehrszüge nutzen?
+----------
+
+Nein, eine Upgradefunktion von Nahverkehrs- auf Fernverkehrsfahrkarten ist nicht möglich. Für Reisen mit dem Fernverkehr benötigen Sie eine separate Fahrkarte.
+
+Kund:innen, die bereits im Rahmen ihres regulären Verbund-/Landes-Tarif-Abos oder ihrer Jahreskarte eine Aufpreiskarte für Fernverkehrszüge besitzen, können diese weiterhin auf der entsprechenden Strecke nutzen. DB Fernverkehr und die betreffenden Verbünde prüfen derzeit die Möglichkeiten einer Kombinierbarkeit des Deutschland-Tickets mit einer Aufpreisfahrkarte für Fernverkehrszüge.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-aufpreis-fv)
+
+ Welche Ausflugsziele erreicht man mit dem Deutschland-Ticket?
+----------
+
+Jetzt losfahren und das Land entdecken unter dbmobil.de!
+
+* [Zu dbmobil.de](https://dbmobil.de/d-ticket)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ausflugsziele)
+
+ Kann ich das Deutschland-Ticket am DB Fahrkartenautomaten kaufen?
+----------
+
+Nein. Sie können das Deutschland-Ticket nicht am DB Fahrkartenautomaten kaufen. Sie erhalten es nur digital als Abonnement.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-automat)
+
+ Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
+----------
+
+Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises gutgeschrieben, wenn
+
+* Sie zu BahnBonus angemeldet sind
+* die Buchung über bahn.de oder dem DB Navigator erfolgt
+* Ihre persönlichen Daten, beim Kauf des Deutschland-Tickets, identisch mit den Angaben in Ihrem BahnBonus Konto sind
+
+Für den Kauf von Deutschland-Tickets anderer Anbieter, z.B. von Verkehrsverbünden oder beim Kauf in DB Reisezentren, können keine BahnBonus Punkte gesammelt werden
+
+* [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
+
+ Wird mir mit meiner BahnCard ein Rabatt auf das Deutschland-Ticket gewährt?
+----------
+
+Nein, mit Ihrer BahnCard erhalten Sie keinen Rabatt auf das Deutschland-Ticket.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-card)
 
- Kann ich mehrere Deutschland-Tickets in die DB Navigator App laden?
+ Kann ich meine BahnCard 100 1. Klasse weiterhin im Nahverkehr in der 1. Klasse nutzen?
 ----------
 
-Ja. Sie können mehrere Deutschland-Tickets in die DB Navigator App laden. Wenn Sie Ihr Deutschland-Ticket über einen Vertriebskanal der DB gekauft haben, verwenden Sie die Ihnen bei der Buchung zugeteilte Auftragsnummer, um das Ticket in die App zu laden.
+Ja, in Regional-Express, Regionalbahn und S-Bahn - also Verkehrsmitteln auf der Schiene - kann ich weiterhin 1. Klasse nutzen. In U-Bahn, Straßenbahn und Bus ist die Nutzung der 1. Klasse nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahncard100-1klasse-nv)
+
+ Kann ich das Deutschland-Ticket in Verbindung mit meiner BahnCard 100 nutzen?
+----------
+
+Ja, Sie können das Deutschlandt-Ticket mit Ihrer BahnCard 100 im kompletten bundesweiten Nahverkehr, SPNV und ÖPNV, also in Nahverkehrszügen, S-Bahnen, U-Bahnen und Bussen, nutzen.
+
+Sie erhalten das Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahncard100-ab-wann)
+
+ Wird das Deutschland-Ticket als Chipkarte angeboten?
+----------
+
+Ja. In Verkehrsverbünden oder Landestarifen, in denen Chipkarten etabliert sind und die DB als Vertriebspartnerin auftritt, können Sie das Deutschland-Ticket als Chipkarte kaufen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-chipkarte)
+
+ Wird das City-Ticket durch das Deutschland-Ticket ersetzt?
+----------
+
+Nein, das City-Ticket wird zum Flexpreis, Super Sparpreis und Sparpreis des Fernverkehrs angeboten. Das City-Ticket ist weiterhin im Flexpreis kostenfrei integriert. Beim Super Sparpreis und Sparpreis erfolgt die Ausgabe des kostenpflichtigen City-Tickets in Abhängigkeit der gewählten Verbindung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-city-ticket)
+
+ Wo kann ich meine Daten (Adresse, Bankverbindung, etc.) ändern?
+----------
+
+Ihre Daten können Sie jederzeit selbst im Aboportal im Menüpunkt "Meine Daten" ändern.
+
+* [Zum Aboportal](https://abo.bahn.de/#/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-daten-aendern)
+
+ Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
+----------
+
+Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
+
+1. **Prüfen, ob mehrere Abos vorliegen:**
+
+    Haben Sie versehentlich mehrere Abos bestellt, kündigen Sie ein Abo im Aboportal.
+2. **Technischer Fehler:**
+
+    Liegt die Mehrfachbuchung an einem technischen Fehler, kontaktieren Sie bitte das Abo-Center über das Kontaktformular im Aboportal für eine Kulanzerstattung. Haben Sie bitte etwas Geduld für die Bearbeitung.
+3. **Wichtig:**
+
+    Keine Rücklastschrift über die Bank veranlassen, um Sperrung des Kundenkontos und Kündigung aller Tickets zu vermeiden.
+
+* [Zum Aboportal](https://abo.bahn.de/#/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-doppelte-abbuchung)
+
+ Muss ich mein Deutschland-Ticket jeden Monat erneuern?
+----------
+
+Das Abonnement wird für unbestimmte Zeit abgeschlossen und kann monatlich gekündigt werden. Solange Sie Ihr Deutschland-Ticket nutzen möchten, müssen Sie dieses nicht erneuern.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-erneuern)
+
+ Muss ich bei der Fahrkartenkontrolle mit dem Deutschland-Ticket zwingend meinen Ausweis vorzeigen?
+----------
+
+Ja. Bei der Fahrkartenkontrolle müssen Sie auf Aufforderung immer einen gültigen Lichtbildausweis vorzeigen. Dies gilt auch dann, wenn Ihre Chipkarte ein Lichtbild enthält. Es besteht immer die tarifliche Verpflichtung zur Vorlage des Ausweises.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrkartenkontrolle)
+
+ Ich will ein Fahrrad mit dem Deutschland-Ticket mitnehmen. Was muss ich beachten?
+----------
+
+Beachten Sie bitte: Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tickets **nicht** enthalten. Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
+
+* Prüfen Sie, ob auf Ihrer Strecke die Fahrradmitnahme kostenfrei möglich ist. Wenn ja, können Sie Ihr Fahrrad kostenfrei mitnehmen.
+* Wenn eine Fahrradkarte erforderlich ist, gilt dies auch für Fahrten mit dem Deutschland-Ticket.
+* Achten Sie auf regionale Sperrzeiten für die Fahrradmitnahme.
+* Nehmen Sie Rücksicht auf andere Fahrgäste.
+* Informieren Sie sich im Voraus über erwartetes hohes Fahrradaufkommen auf www.bahn.de und im DB Navigator.
+
+Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter zugportal/fahrrad.
+
+* [Informationen zur Fahrradmitnahme im Nahververkehr](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad)
+
+ Was muss ich beachten, wenn ich eine Fernverkehrsfahrkarte mit einem Deutschland-Ticket kombinieren und dabei mein Fahrrad mitnehmen möchte?
+----------
+
+Möchten Sie auf einer Reise eine Fernverkehrsfahrkarte mit dem Deutschland-Ticket kombinieren und dabei ein Fahrrad mitnehmen, so kaufen Sie bitte Ihre ‚Fahrradkarte Fernverkehr‘ bis zu Ihrem Zielbahnhof, den Sie ggf. mit einem Nahverkehrszug erreichen. Die Fahrradkarte Fernverkehr gilt ohne Mehrkosten auch für die Fahrt in den Nahverkehrszügen. Für die evtl. Weiterfahrt im ÖPNV (mit Bus, Straßenbahn o.ä.) gelten die Tarifregeln des jeweils genutzten Unternehmens. Gegebenenfalls ist der Kauf einer weiteren Fahrkarte für Ihr Fahrrad erforderlich.
+
+* [Alle Infos zur Fahrradmitnahme](https://www.bahn.de/service/individuelle-reise/fahrrad)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad-fv)
+
+ Was ist der Deutschland-Ticket-Filter "Nur D-Ticket-Verbindungen anzeigen"?
+----------
+
+Der Deutschland-Ticket-Filter (D-Ticket-Filter) erlaubt es, gezielt nach Verbindungen zu suchen, die ohne Aufpreis mit dem Deutschland-Ticket fahrbar sind. Er kann mit Hilfe des Schiebereglers „Nur D-Ticket-Verbindungen“ aktiviert werden.
+
+* In der App DB Navigator findet sich dieser unter "Optionen".
+* Auf bahn.de unten in der Verbindungsauskunft.
+
+Wenn in der Suche wieder alle Verbindungen angezeigt werden sollen, auch solche des Fernverkehrs, lässt sich der D-Ticket-Filter an gleicher Stelle auch wieder deaktivieren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-im-db-navigator)
+
+ Wieso erscheinen trotz aktiviertem D-Ticket-Filter einzelne nicht im D-Ticket enthaltene Verbindungen?
+----------
+
+Trotz aktiviertem Schieberegler „Nur D-Ticket-Verbindungen“ kann es vorkommen, dass einzelne Verbindungen angezeigt werden, die nicht im Umfang des D-Tickets enthalten sind.
+
+Dies ist der Fall, wenn der Betreiber einer Nahverkehrs-Strecke das Deutschland-Ticket nicht akzeptiert (z. B. bei bestimmten Flughafen-Buslinien). In diesem Fall gilt der angezeigte Hinweis: "Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verbindungsanzeige)
+
+ Kann ich gleichzeitig nach Deutschland-Ticket-Verbindungen und nach bestimmten Verkehrsmitteln filtern?
+----------
+
+Nein: Ist der Schieberegler „Nur D-Ticket-Verbindungen“ aktiviert, werden alle Verbindungen auf der gesuchten Strecke angezeigt, die mit dem Deutschland-Ticket fahrbar sind.
+
+* Voraussetzung für die Nutzung des Filters ist, dass die Verkehrsmittelauswahl in den "Optionen" auf "Alle" eingestellt ist.
+* Eine Einschränkung auf bestimmte Verkehrsmittel ist nicht möglich.
+* Sollen nur einzelne Verkehrsmittel angezeigt werden, ist es notwendig, den D-Ticket-Filter vorher zu deaktivieren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verkehrsmittel-suche)
+
+ Wo finde ich mein Deutschland-Ticket für den Folgemonat?
+----------
+
+Ab der neuen Version (ab 24.1) des DB Navigators wird Ihnen nur das Handy-Ticket für den aktuell gültigen Monat angezeigt. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich automatisch zum Monatswechsel auf dem vorhandenen Ticket. Es wird kein zusätzliches Ticket für den Folgemonat angezeigt.
+
+Die Meldung „Tickets bis zum [Datum] sind bereits auf Ihrem Gerät“ bedeutet, dass die Aktualisierung für den neuen Monat am Monatsersten automatisch erfolgt.
+
+Möglicherweise wird der Zeitraum in der Ticketvorschau unter „Reisen“ erst verzögert aktualisiert. Bitte öffnen Sie das Ticket, so dass der QR-Code zu sehen ist. Auf dem Ticket wird der aktuelle Zeitraum angezeigt. Diese Anzeige ist für die Nutzung und Kontrolle relevant.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-folgemonat)
+
+ Kann ich das Deutschland-Ticket mit einem Fernverkehrs-Ticket kombinieren?
+----------
+
+Im Vor- und Nachlauf zu einem Fernverkehrszug kann das Deutschland-Ticket genutzt werden. Allerdings ist für die Strecke im Fernverkehr dann immer ein separates Ticket notwendig. Dies hat Auswirkungen auf eventuelle Fahrgastrechte. Bei Verpassen des ggf. anschließenden Fernverkehrszugs ist die Zugbindung nicht aufgehoben und es können keine Erstattungsansprüche geltend gemacht werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi)
+
+ Ich habe mein Deutschland-Ticket mit einem Busticket kombiniert. Welche Fahrgastrechte gelten, wenn ich meinen Anschluss nicht erreiche?
+----------
+
+Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung des Fernverkehrstickets jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
+
+Beispielsweise wird bei einer Verspätung eines Nahverkehrszuges und damit verbundenem Anschlussverlust des Fernverkehrszuges die Zugbindung nicht aufgehoben und eine Fahrt mit einem späteren Zug mit einer Fahrkarte mit Zugbindung (z.B. Sparpreise) ist nicht möglich. Eventuelle fahrgastrechtliche Entschädigungsansprüche werden ebenfalls nur für das jeweilige Fernverkehrsticket oder das Deutschland-Ticket getrennt betrachtet.
+
+Sehen Sie auch: [Was bedeutet aufgehobene Zugbindung?](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi-fahrgastrechte)
+
+ Ich habe eine Fernverkehrsfahrkarte und mein Fahrrad dabei. Was ist, wenn ich den Anschlusszug des Nahverkehrs nicht erreiche?
+----------
+
+**a) Für Reisende mit einer Fahrverkehrsfahrkarte mit inkludiertem Nahverkehr im Vor- und Nachlauf:**
+
+Es gelten die gesetzlichen Fahrgastrechte: Der Reisende mit Fernverkehrsfahrkarte kann den nächsten Fernverkehrszug mit Fahrradmitnahme nehmen, der auf derselben Strecke und mit denselben Beförderern fährt, sofern ein Fahrradstellplatz verfügbar ist. Der Fahrradstellplatz kann im DB Reisezentrum oder über die Hotline 030-2970 kurzfristig gebucht werden. Ggf. anfallende zusätzliche Kosten können erstattet werden.
+
+Wo wir ein besonders hohes Aufkommen an Reisenden mit Fahrrad erwarten, setzen wir nach Möglichkeit Fahrradlotsen ein. Wenn von vornherein ein hohes Aufkommen an Fahrradreisenden erwartet wird, informieren wir darüber in der Verbindungsauskunft auf www.bahn.de und im DB Navigator.
+
+**b) Für Reisende mit einer Fernverkehrsfahrkarte und Nutzung des Deutschland-Ticket im Vor- und Nachlauf:**
+
+Das Deutschland-Ticket und das Fernverkehrsticket sind immer separate Tickets. Dies hat Auswirkungen auf eventuelle Fahrgastrechte. Bei Verpassen des Fernverkehrszuges müssen Reisende für das Fahrrad eine neue Fahrradreservierung kaufen. Anfallende Kosten können nicht erstattet werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-mit-fahrrad-verspaetung)
+
+ Ab wann ist das Deutschland-Ticket gültig?
+----------
+
+Das Deutschland-Ticket gilt ab dem 1. Kalendertag des Gültigkeitszeitraums, wie auf dem persönlichen Ticket angegeben.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-mehrere-tickets-app)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-gueltig-ab-wann)
+
+ Wie lange ist das Deutschland-Ticket gültig?
+----------
+
+Das Abonnement wird für unbestimmte Zeit abgeschlossen und kann monatlich gekündigt werden.
+
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+
+[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-gueltig-wie-lange)
 
  Handelt es sich bei dem Deutschland-Ticket um ein Abonnement?
 ----------
@@ -280,6 +404,34 @@ Ja. Sie können mehrere Deutschland-Tickets in die DB Navigator App laden. Wenn 
 Ja, das Deutschland-Ticket ist als Abonnement mit monatlicher Zahlweise erhältlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-handelt-sich-um-abo)
+
+ Können Hunde mit dem Deutschland-Ticket kostenfrei mitgenommen werden?
+----------
+
+Nein. Die Mitnahme von entgeltpflichtigen Hunden ist nicht im Deutschland-Ticket inkludiert. Sie können für entgeltpflichtige Hunde kein Deutschland-Ticket erwerben. Für die Strecke oder das jeweils durchfahrene Tarifgebiet brauchen Sie ein gültiges Tarifangebot für Hunde.
+
+Zusätzlich gelten die Bestimmungen der Landestarife, Verkehrsverbünde und Verkehrsunternehmen. Informieren Sie sich bitte über die gültigen Regelungen im jeweiligen Tarifgebiet.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-hunde)
+
+ Mein Deutschland-Ticket wird in der App nicht mehr angezeigt. Was kann ich tun?
+----------
+
+**DB Navigator:**
+Sollten Sie Ihr Handy-Ticket nicht mehr sehen, können Sie es jederzeit unter "Reisen" mit der Abonummer aus Ihrer Aktivierungsmail neu hinzufügen.
+
+Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen weitere Kosten für den neuen Abovertrag.
+
+**Aboportal bei iOS-Geräten:**
+Aktuell gibt es Probleme bei der Nutzung von iOS-Geräten im Aboportal. An der Lösung wird bereits gearbeitet. Fügen Sie das Ticket daher direkt im DB Navigator hinzu:
+
+1. Öffnen Sie "Reisen".
+2. Tippen Sie auf "+" (oben rechts im Bildschirm).
+3. Geben Sie die Ticketinformationen (Abonummer und Nachname) ein.
+
+Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
 
  Gibt es das Deutschland-Ticket auch als Jobticket?
 ----------
@@ -296,12 +448,69 @@ Bitte informieren Sie sich hierzu im Personalbereich Ihres Unternehmens.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-jobticket)
 
- Muss ich mein Deutschland-Ticket jeden Monat erneuern?
+ Wo kann ich das Deutschland-Ticket kaufen?
 ----------
 
-Das Abonnement wird für unbestimmte Zeit abgeschlossen und kann monatlich gekündigt werden. Solange Sie Ihr Deutschland-Ticket nutzen möchten, müssen Sie dieses nicht erneuern.
+* **Online:** Auf bahn.de oder über die App DB Navigator.
+* **Vor Ort:** In DB Reisezentren deutschlandweit.
+* **Andere Anbieter:** Viele Verkehrsunternehmen bieten das Ticket auch in ihren Vertriebskanälen an.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-erneuern)
+Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
+
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+
+[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
+
+ Ich habe das Deutschland-Ticket online bestellt. Was kann ich tun, wenn ich noch keine Aktivierungs-Mail erhalten habe?
+----------
+
+Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsmail, wird Ihre Bestellung derzeit noch vom Abo-Center verarbeitet. Falls Sie Ihre Aktivierungsmail kurz vor dem gewünschten Geltungsbereich noch nicht erhalten haben, melden Sie sich bitte bei Ihrem zuständigen Abo-Center.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-keine-bestellbestaetigung)
+
+ Können Kinder mit dem Deutschland-Ticket kostenfrei mitfahren?
+----------
+
+* Kinder **unter 6 Jahren** reisen **kostenfrei** und benötigen keine Fahrkarte.
+* Kinder **ab 6 Jahren** brauchen eine **eigene Fahrkarte**, wie z.B. ein Deutschland-Ticket. Kostenfreie Mitnahme ist hier nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder)
+
+ Dürfen Kinder mit dem Deutschlandticket allein reisen?
+----------
+
+Kinder ab 6 Jahre können mit dem Deutschland-Ticket auch allein reisen.
+
+* Für das digitale Ticket benötigen Ihre Kinder ein mobiles Endgerät, die App DB Navigator und ein Schülerausweis oder anderen Lichtbildausweis.
+* Bei dem Deutschland-Ticket als Chipkarte zusätzlich zu der Chipkarte ebenfalls ein Schüler- bzw. Lichtbildausweis benötigt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder-alleine)
+
+ Ich habe mein Deutschland-Ticket mit einem Fernverkehrsticket kombiniert. Welche Fahrgastrechte gelten, wenn ich meinen Anschluss nicht erreiche?
+----------
+
+Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung des Fernverkehrstickets jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
+
+Beispielsweise wird bei einer Verspätung eines Nahverkehrszuges und damit verbundenem Anschlussverlust des Fernverkehrszuges die Zugbindung nicht aufgehoben und eine Fahrt mit einem späteren Zug mit einer Fahrkarte mit Zugbindung (z.B. Sparpreise) ist nicht möglich. Eventuelle fahrgastrechtliche Entschädigungsansprüche werden ebenfalls nur für das jeweilige Fernverkehrsticket oder das Deutschland-Ticket getrennt betrachtet.
+
+Sehen Sie auch: [Was bedeutet aufgehobene Zugbindung?](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kombi-fv-dt)
+
+ Welche Konditionen hat das Deutschland-Ticket?
+----------
+
+Bund und Länder haben entschieden, das Deutschland-Ticket als Abonnement anzubieten. Es ist bundesweit gültig und ermöglicht deutschlandweite Fahrten im ÖPNV und SPNV aller teilnehmenden Verkehrsunternehmen, Landestarife und Verkehrsverbünde sowie im verbundfreien Raum.
+
+* [zu den AGBs](https://www.bahn.de/agb)
+
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+
+[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-konditionen)
 
  Wie kann ich mein Deutschland-Ticket-Abo kündigen?
 ----------
@@ -319,80 +528,32 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen)
 
- Wie kann ich die BahnCard 100 inklusive Deutschland-Ticket beantragen?
+ Ich habe mein Abo gekündigt. Was kann ich tun, wenn ich noch keine Kündigungsbestätigung erhalten habe?
 ----------
 
- Die BahnCard 100 inklusive Deutschland-Ticket beantragen:
+Aufgrund der aktuell sehr hohen Bearbeitungszeiten dauert die Durchführung von Kündigungsaufträgen derzeit länger. Nach Erhalt Ihrer Kündigungsbestätigung erhalten Sie Ihre Gutschrift rückwirkend. Für eine schnellere Bearbeitung, führen Sie Ihre Kündigung innerhalb der tariflichen Kündigungsfrist selbständig in unserem Aboportal durch.
 
-1. Die BahnCard 100 bequem online bestellen und bundesweit im Nah- und Fernverkehr unbegrenzt reisen.
-2. Die BahnCard 100 als Plastikkarte in ca. 2 Wochen per Post erhalten.
-3. Die BahnCard 100 dient gleichzeitig als Deutschland-Ticket.
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
-**Wichtig:** Der 1. Geltungstag der BahnCard 100 muss mindestens 14 Tage in der Zukunft liegen. Für sofortige Nutzung empfehlen wir den Kauf im Reisezentrum.
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigungsbestaetigung)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard100-inklusive-deutschland-ticket)
-
- Ich kann mein Deutschland-Ticket-Abo nicht im Abo-Portal finden. Was kann ich tun?
+ Kann ich mehrere Deutschland-Tickets in die DB Navigator App laden?
 ----------
 
-Bitte achten Sie beim Hinzufügen Ihres Deutschland-Ticket Abos darauf, den Tarifgeber auszuwählen, von dem Sie Ihr Deutschland-Ticket bezogen haben. Dies erkennen Sie an der Produktbezeichnung in Ihrer Bestellbestätigung oder auf Ihrem Handy-Ticket. Beim Hinzufügen Ihres Abos nutzen Sie bitte die Abo-Auftragsnummer, die Ihnen in Ihrer Aktivierungsmail mitgeteilt wurde. Für weitere Hilfestellungen besuchen Sie das Aboportal.
+Ja. Sie können mehrere Deutschland-Tickets in die DB Navigator App laden. Wenn Sie Ihr Deutschland-Ticket über einen Vertriebskanal der DB gekauft haben, verwenden Sie die Ihnen bei der Buchung zugeteilte Auftragsnummer, um das Ticket in die App zu laden.
 
-* [Zum Aboportal](https://abo.bahn.de/#/)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschland-ticket-im-abo-portal-finden)
+[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
- Kann ich das Deutschland-Ticket in Verbindung mit meiner BahnCard 100 nutzen?
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-mehrere-tickets-app)
+
+ Ich komme als mobilitätseingeschränkte Person nicht mehr in einen überfüllten Zug. Was kann ich tun?
 ----------
 
-Ja, Sie können das Deutschlandt-Ticket mit Ihrer BahnCard 100 im kompletten bundesweiten Nahverkehr, SPNV und ÖPNV, also in Nahverkehrszügen, S-Bahnen, U-Bahnen und Bussen, nutzen.
+Durch das Deutschland-Ticket kann es sein, dass einzelne Züge und Verbindungen stärker ausgelastet sind. Über die Verbindungsauskunft können Sie sich über die Auslastung Ihrer Strecke informieren. Wir empfehlen Ihnen sich zusätzlich über die Mobilitätsservice-Zentrale (MSZ) vorzumelden.
 
-Sie erhalten das Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahncard100-ab-wann)
-
- Kann ich meine BahnCard 100 1. Klasse weiterhin im Nahverkehr in der 1. Klasse nutzen?
-----------
-
-Ja, in Regional-Express, Regionalbahn und S-Bahn - also Verkehrsmitteln auf der Schiene - kann ich weiterhin 1. Klasse nutzen. In U-Bahn, Straßenbahn und Bus ist die Nutzung der 1. Klasse nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahncard100-1klasse-nv)
-
- Muss ich bei der Fahrkartenkontrolle mit dem Deutschland-Ticket zwingend meinen Ausweis vorzeigen?
-----------
-
-Ja. Bei der Fahrkartenkontrolle müssen Sie auf Aufforderung immer einen gültigen Lichtbildausweis vorzeigen. Dies gilt auch dann, wenn Ihre Chipkarte ein Lichtbild enthält. Es besteht immer die tarifliche Verpflichtung zur Vorlage des Ausweises.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrkartenkontrolle)
-
- Wo finde ich weitere Informationen zum Deutschland-Ticket?
-----------
-
-Weitere Fragen und Antworten zum Deutschland-Ticket finden Sie in unseren FAQ.
-
-* [Weitere FAQ zum Deutschland-Ticket](https://bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-faq)
-
- Kann ich das Deutschland-Ticket am DB Fahrkartenautomaten kaufen?
-----------
-
-Nein. Sie können das Deutschland-Ticket nicht am DB Fahrkartenautomaten kaufen. Sie erhalten es nur digital als Abonnement.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-automat)
-
- Wie funktioniert der Kauf des Deutschland-Tickets im DB Reisezentrum?
-----------
-
-Kund:innen, die eine persönliche Beratung im DB Reisezentrum wünschen, bekommen dort Unterstützung von unseren Mitarbeitenden beim Abschließen des digitalen Abonnements. Beim Abschluss erhalten sie eine Auftragsnummer, mit der sie ihr Deutschland-Ticket zur sofortigen Nutzung in den DB Navigator laden können. Die Auftragsnummer selbst ist kein gültiges Deutschland-Ticket und berechtigt nicht zum Fahren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-reisezentrum)
-
- Wird das Deutschland-Ticket als Chipkarte angeboten?
-----------
-
-Ja. In Verkehrsverbünden oder Landestarifen, in denen Chipkarten etabliert sind und die DB als Vertriebspartnerin auftritt, können Sie das Deutschland-Ticket als Chipkarte kaufen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-chipkarte)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-mobilitaetseinschraenkung)
 
  Ist das Deutschland-Ticket auch als Monatsticket verfügbar?
 ----------
@@ -430,44 +591,23 @@ Hinweis: Auch im Reisezentrum müssen Sie Ihre Kontoverbindung für Folgezahlung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte-lastschrift)
 
- Kann ich ein Deutschland-Ticket verschenken?
+ Wie viel kostet das Deutschland-Ticket?
 ----------
 
-Ja. Wenn Sie das Deutschland-Ticket in unseren personenbedienten Kanälen (z.B. Reisezentrum) kaufen, können Sie es auch für eine dritte Person erwerben.
-
-Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf sowie über unseren Direkteinstieg für Dritte buchen.
-
-[Deutschland-Ticket direkt buchen](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verschenken)
-
- Wird mir mit meiner BahnCard ein Rabatt auf das Deutschland-Ticket gewährt?
-----------
-
-Nein, mit Ihrer BahnCard erhalten Sie keinen Rabatt auf das Deutschland-Ticket.
+Ab 1. Januar 2025 kostet das Deutschland-Ticket **58 Euro pro Monat.** Dies wurde von den Verkehrsministerinnen und Verkehrsministern von Bund und Ländern gemeinsam beschlossen.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-card)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
 
- Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
+ Wie funktioniert der Kauf des Deutschland-Tickets im DB Reisezentrum?
 ----------
 
-Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises gutgeschrieben, wenn
+Kund:innen, die eine persönliche Beratung im DB Reisezentrum wünschen, bekommen dort Unterstützung von unseren Mitarbeitenden beim Abschließen des digitalen Abonnements. Beim Abschluss erhalten sie eine Auftragsnummer, mit der sie ihr Deutschland-Ticket zur sofortigen Nutzung in den DB Navigator laden können. Die Auftragsnummer selbst ist kein gültiges Deutschland-Ticket und berechtigt nicht zum Fahren.
 
-* Sie zu BahnBonus angemeldet sind
-* die Buchung über bahn.de oder dem DB Navigator erfolgt
-* Ihre persönlichen Daten, beim Kauf des Deutschland-Tickets, identisch mit den Angaben in Ihrem BahnBonus Konto sind
-
-Für den Kauf von Deutschland-Tickets anderer Anbieter, z.B. von Verkehrsverbünden oder beim Kauf in DB Reisezentren, können keine BahnBonus Punkte gesammelt werden
-
-* [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-reisezentrum)
 
  Kann ich zum Deutschland-Ticket eine Reservierung dazu buchen?
 ----------
@@ -476,101 +616,12 @@ Im Nahverkehr sind Reservierungen aufgrund der spontanen Nutzung nicht üblich. 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-reservierung)
 
- Können Kinder mit dem Deutschland-Ticket kostenfrei mitfahren?
+ Was ist ein Sozialticket?
 ----------
 
-* Kinder **unter 6 Jahren** reisen **kostenfrei** und benötigen keine Fahrkarte.
-* Kinder **ab 6 Jahren** brauchen eine **eigene Fahrkarte**, wie z.B. ein Deutschland-Ticket. Kostenfreie Mitnahme ist hier nicht möglich.
+Bei einigen Verbünden erhalten Sie, wenn Sie gewisse Voraussetzungen erfüllen, das Deutschland-Ticket zum vergünstigten Preis. Bitte informieren Sie sich bei Ihrem Verbund vor Ort.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder)
-
- Dürfen Kinder mit dem Deutschlandticket allein reisen?
-----------
-
-Kinder ab 6 Jahre können mit dem Deutschland-Ticket auch allein reisen.
-
-* Für das digitale Ticket benötigen Ihre Kinder ein mobiles Endgerät, die App DB Navigator und ein Schülerausweis oder anderen Lichtbildausweis.
-* Bei dem Deutschland-Ticket als Chipkarte zusätzlich zu der Chipkarte ebenfalls ein Schüler- bzw. Lichtbildausweis benötigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder-alleine)
-
- Kann ich weitere Personen mit dem Deutschland-Ticket mitnehmen?
-----------
-
-Nein, mit einem Deutschland-Ticket können Sie keine weiteren Personen mitnehmen. Ihre Mitreisenden brauchen eine eigene Fahrkarte.
-
-Auch wenn Sie aus anderen Abonnements Mitnahmeregelungen kennen, gelten diese nicht für das Deutschland-Ticket.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-personen)
-
- Können Hunde mit dem Deutschland-Ticket kostenfrei mitgenommen werden?
-----------
-
-Nein. Die Mitnahme von entgeltpflichtigen Hunden ist nicht im Deutschland-Ticket inkludiert. Sie können für entgeltpflichtige Hunde kein Deutschland-Ticket erwerben. Für die Strecke oder das jeweils durchfahrene Tarifgebiet brauchen Sie ein gültiges Tarifangebot für Hunde.
-
-Zusätzlich gelten die Bestimmungen der Landestarife, Verkehrsverbünde und Verkehrsunternehmen. Informieren Sie sich bitte über die gültigen Regelungen im jeweiligen Tarifgebiet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-hunde)
-
- Ich will ein Fahrrad mit dem Deutschland-Ticket mitnehmen. Was muss ich beachten?
-----------
-
-Beachten Sie bitte: Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tickets **nicht** enthalten. Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
-
-* Prüfen Sie, ob auf Ihrer Strecke die Fahrradmitnahme kostenfrei möglich ist. Wenn ja, können Sie Ihr Fahrrad kostenfrei mitnehmen.
-* Wenn eine Fahrradkarte erforderlich ist, gilt dies auch für Fahrten mit dem Deutschland-Ticket.
-* Achten Sie auf regionale Sperrzeiten für die Fahrradmitnahme.
-* Nehmen Sie Rücksicht auf andere Fahrgäste.
-* Informieren Sie sich im Voraus über erwartetes hohes Fahrradaufkommen auf www.bahn.de und im DB Navigator.
-
-Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter zugportal/fahrrad.
-
-* [Informationen zur Fahrradmitnahme im Nahververkehr](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad)
-
- Was muss ich beachten, wenn ich eine Fernverkehrsfahrkarte mit einem Deutschland-Ticket kombinieren und dabei mein Fahrrad mitnehmen möchte?
-----------
-
-Möchten Sie auf einer Reise eine Fernverkehrsfahrkarte mit dem Deutschland-Ticket kombinieren und dabei ein Fahrrad mitnehmen, so kaufen Sie bitte Ihre ‚Fahrradkarte Fernverkehr‘ bis zu Ihrem Zielbahnhof, den Sie ggf. mit einem Nahverkehrszug erreichen. Die Fahrradkarte Fernverkehr gilt ohne Mehrkosten auch für die Fahrt in den Nahverkehrszügen. Für die evtl. Weiterfahrt im ÖPNV (mit Bus, Straßenbahn o.ä.) gelten die Tarifregeln des jeweils genutzten Unternehmens. Gegebenenfalls ist der Kauf einer weiteren Fahrkarte für Ihr Fahrrad erforderlich.
-
-* [Alle Infos zur Fahrradmitnahme](https://www.bahn.de/service/individuelle-reise/fahrrad)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad-fv)
-
- Kann ich das Deutschland-Ticket auch für die 1. Klasse kaufen?
-----------
-
-Nein, das Deutschland-Ticket ist ausschließlich für die 2. Klasse erhältlich.
-
-In einigen Verkehrsverbünden und Landestarifen (z.B. in Baden-Württemberg) können Sie Aufpreise für die 1. Klasse kaufen, die für das jeweilige Verbund- oder Landestarifgebiet gültig sind. Im Schienenverkehr - gemäß Deutschlandtarif - gibt es sogenannte Klassenübergänge. Diese sind für die jeweils genutzte Strecke als Einzelübergang sowie als Wochen- und Monatsübergang verfügbar. Die genutzte Strecke darf dabei nicht vollständig innerhalb eines Verkehrsverbundes oder Landestarifs liegen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse)
-
- Wie kann ich die 1. Klasse für Fahrten mit dem Deutschland-Ticket nutzen?
-----------
-
-Ein Übergang in die 1. Wagenklasse ist sowohl
-
-* als Einzelübergang,
-* oder als Monatsübergang für Zeitkarten
-
-gemäß der Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder Landestarife erhältlich.
-
-* [Details zum 1.-Klasse Übergang finden Sie hier](https://www.bahn.de/faq/deutschlandticket-1klasse)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse-aufpreis)
-
- Ab wann ist das Deutschland-Ticket gültig?
-----------
-
-Das Deutschland-Ticket gilt ab dem 1. Kalendertag des Gültigkeitszeitraums, wie auf dem persönlichen Ticket angegeben.
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-gueltig-ab-wann)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-sozialticket)
 
  Ist das Deutschland-Ticket auf eine andere Person übertragbar?
 ----------
@@ -579,34 +630,12 @@ Nein. Das Deutschland-Ticket ist personalisiert und nur mit Namenseintrag und zu
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-uebertragbar)
 
- Wie lange ist das Deutschland-Ticket gültig?
+ Kann ich das Deutschland-Ticket umtauschen oder erstatten lassen?
 ----------
 
-Das Abonnement wird für unbestimmte Zeit abgeschlossen und kann monatlich gekündigt werden.
+Ja. Sie können das Deutschland-Ticket vor dem 1. Geltungstag kostenfrei umtauschen oder erstatten lassen. Danach ist ein Umtausch oder eine Erstattung nicht mehr möglich.
 
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-gueltig-wie-lange)
-
- In welchen Zügen gilt das Deutschland-Ticket?
-----------
-
-* Das Deutschland-Ticket gilt in allen Nahverkehrszügen (RB, RE, S-Bahn) und öffentlichen Verkehrsmitteln (Bus, Straßenbahn, U-Bahn) der teilnehmenden Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
-* Das Deutschland-Ticket gilt nicht in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
-* Die Nutzung im Vor- und Nachlauf ist möglich. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich.
-* Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
-
-Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
-
-* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-umtausch)
 
  Gilt das Deutschland-Ticket auch für Fahrten ins Ausland?
 ----------
@@ -636,85 +665,45 @@ Eine Tabelle mit detaillierten Angaben finden im PDF ab Seite 15.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-ausland)
 
- Kann ich das Deutschland-Ticket auch mitten im Monat für eine kurzfristige Reise kaufen?
+ In welchen Zügen gilt das Deutschland-Ticket?
 ----------
 
-Ja. Sie können das Deutschland-Ticket auch im laufenden Monat als "Abo-Sofort"-Variante im Reisezentrum kaufen und direkt losfahren.
+* Das Deutschland-Ticket gilt in allen Nahverkehrszügen (RB, RE, S-Bahn) und öffentlichen Verkehrsmitteln (Bus, Straßenbahn, U-Bahn) der teilnehmenden Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
+* Das Deutschland-Ticket gilt nicht in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
+* Die Nutzung im Vor- und Nachlauf ist möglich. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich.
+* Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ab-sofort)
+Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
 
- Kann ich das Deutschland-Ticket umtauschen oder erstatten lassen?
+* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
+
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+
+[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
+
+ Kann ich ein Deutschland-Ticket verschenken?
 ----------
 
-Ja. Sie können das Deutschland-Ticket vor dem 1. Geltungstag kostenfrei umtauschen oder erstatten lassen. Danach ist ein Umtausch oder eine Erstattung nicht mehr möglich.
+Ja. Wenn Sie das Deutschland-Ticket in unseren personenbedienten Kanälen (z.B. Reisezentrum) kaufen, können Sie es auch für eine dritte Person erwerben.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-umtausch)
+Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf sowie über unseren Direkteinstieg für Dritte buchen.
 
- Kann ich das Deutschland-Ticket mit einem Fernverkehrs-Ticket kombinieren?
+[Deutschland-Ticket direkt buchen](https://www.bahn.de/angebot/regio/deutschland-ticket)
+
+[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verschenken)
+
+ Auf welche Fahrgastrechte kann ich mich berufen, wenn ich das Deutschland-Ticket mit einem Busticket kombiniere?
 ----------
 
-Im Vor- und Nachlauf zu einem Fernverkehrszug kann das Deutschland-Ticket genutzt werden. Allerdings ist für die Strecke im Fernverkehr dann immer ein separates Ticket notwendig. Dies hat Auswirkungen auf eventuelle Fahrgastrechte. Bei Verpassen des ggf. anschließenden Fernverkehrszugs ist die Zugbindung nicht aufgehoben und es können keine Erstattungsansprüche geltend gemacht werden.
+Gesetzliche Fahrgastrechte gelten für den Eisenbahnverkehr und für den Busverkehr jeweils separat, nicht jedoch ‚verkehrsträgerübergreifend‘, wenn bei einer Reise z.B. Teilstrecken mit einem Bus und einem Zug gefahren werden. In diesem Fall werden die Teilstrecken mit dem Bus und mit dem Zug separat betrachtet und gemäß den jeweiligen gesetzlichen Bestimmungen reguliert. Wenn Reisende eine Verspätung auf der Busstrecke erlitten haben, machen sie ihre Ansprüche bitte beim verursachenden Busunternehmen geltend, für Verspätungen oder Ausfälle im Eisenbahnverkehr wenden sie sich bitte an das jeweilige Eisenbahnverkehrsunternehmen (z.B. an das ServiceCenter Fahrgastrechte).
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi)
+Bitte beachten Sie, dass die Verspätung eines Busses mit Anschlussverlust auf den gewünschten Zug keine Ansprüche auf Fahrgastrechte im Eisenbahnverkehr begründet.
 
- Ich habe mein Deutschland-Ticket mit einem Busticket kombiniert. Welche Fahrgastrechte gelten, wenn ich meinen Anschluss nicht erreiche?
-----------
-
-Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung des Fernverkehrstickets jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
-
-Beispielsweise wird bei einer Verspätung eines Nahverkehrszuges und damit verbundenem Anschlussverlust des Fernverkehrszuges die Zugbindung nicht aufgehoben und eine Fahrt mit einem späteren Zug mit einer Fahrkarte mit Zugbindung (z.B. Sparpreise) ist nicht möglich. Eventuelle fahrgastrechtliche Entschädigungsansprüche werden ebenfalls nur für das jeweilige Fernverkehrsticket oder das Deutschland-Ticket getrennt betrachtet.
-
-Sehen Sie auch: [Was bedeutet aufgehobene Zugbindung?](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi-fahrgastrechte)
-
- Wird das City-Ticket durch das Deutschland-Ticket ersetzt?
-----------
-
-Nein, das City-Ticket wird zum Flexpreis, Super Sparpreis und Sparpreis des Fernverkehrs angeboten. Das City-Ticket ist weiterhin im Flexpreis kostenfrei integriert. Beim Super Sparpreis und Sparpreis erfolgt die Ausgabe des kostenpflichtigen City-Tickets in Abhängigkeit der gewählten Verbindung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-city-ticket)
-
- Kann ich, gegen einen Aufpreis, das Deutschland-Ticket auch für Fernverkehrszüge nutzen?
-----------
-
-Nein, eine Upgradefunktion von Nahverkehrs- auf Fernverkehrsfahrkarten ist nicht möglich. Für Reisen mit dem Fernverkehr benötigen Sie eine separate Fahrkarte.
-
-Kund:innen, die bereits im Rahmen ihres regulären Verbund-/Landes-Tarif-Abos oder ihrer Jahreskarte eine Aufpreiskarte für Fernverkehrszüge besitzen, können diese weiterhin auf der entsprechenden Strecke nutzen. DB Fernverkehr und die betreffenden Verbünde prüfen derzeit die Möglichkeiten einer Kombinierbarkeit des Deutschland-Tickets mit einer Aufpreisfahrkarte für Fernverkehrszüge.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-aufpreis-fv)
-
- Beeinflusst das Deutschland-Ticket meine Zeitkarte im Fernverkehr?
-----------
-
-Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Das Deutschland-Ticket gilt ausschließlich für Reisen im Nahverkehr.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zeitkarte-fv)
-
- Ich habe eine Fernverkehrsfahrkarte und mein Fahrrad dabei. Was ist, wenn ich den Anschlusszug des Nahverkehrs nicht erreiche?
-----------
-
-**a) Für Reisende mit einer Fahrverkehrsfahrkarte mit inkludiertem Nahverkehr im Vor- und Nachlauf:**
-
-Es gelten die gesetzlichen Fahrgastrechte: Der Reisende mit Fernverkehrsfahrkarte kann den nächsten Fernverkehrszug mit Fahrradmitnahme nehmen, der auf derselben Strecke und mit denselben Beförderern fährt, sofern ein Fahrradstellplatz verfügbar ist. Der Fahrradstellplatz kann im DB Reisezentrum oder über die Hotline 030-2970 kurzfristig gebucht werden. Ggf. anfallende zusätzliche Kosten können erstattet werden.
-
-Wo wir ein besonders hohes Aufkommen an Reisenden mit Fahrrad erwarten, setzen wir nach Möglichkeit Fahrradlotsen ein. Wenn von vornherein ein hohes Aufkommen an Fahrradreisenden erwartet wird, informieren wir darüber in der Verbindungsauskunft auf www.bahn.de und im DB Navigator.
-
-**b) Für Reisende mit einer Fernverkehrsfahrkarte und Nutzung des Deutschland-Ticket im Vor- und Nachlauf:**
-
-Das Deutschland-Ticket und das Fernverkehrsticket sind immer separate Tickets. Dies hat Auswirkungen auf eventuelle Fahrgastrechte. Bei Verpassen des Fernverkehrszuges müssen Reisende für das Fahrrad eine neue Fahrradreservierung kaufen. Anfallende Kosten können nicht erstattet werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-mit-fahrrad-verspaetung)
-
- Wie werden Zugausfälle bzw. Verspätungen bei Reisen mit dem Deutschland-Ticket entschädigt?
-----------
-
-* Bei einer Verspätung aufgrund einer Verspätung oder eines Zugausfalls im Nahverkehr von mindestens 60 Minuten am Zielbahnhof erhalten Sie 1,50 Euro Entschädigung pro Fall.
-* Beträge unter 4 Euro werden aufgrund einer gesetzlichen Bagatellgrenze nicht ausgezahlt. Sie können aber mehrere Verspätungsfälle sammeln.
-* Reichen Sie die gesammelten Fälle beim ServiceCenter-Fahrgastrechte oder der Fahrgastrechte-Abteilung des genutzten Eisenbahn-Verkehrsunternehmens ein.
-* Maximal werden 25 % des Wertes Ihres Deutschland-Tickets entschädigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-erstattung)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-busse)
 
  Wie sollte ich als Fahrgast Verspätungen dokumentieren?
 ----------
@@ -729,14 +718,15 @@ Wenn Sie dennoch eine Bescheinigung über eine Zugverspätung oder einen Zugausf
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-dokumentieren)
 
- Auf welche Fahrgastrechte kann ich mich berufen, wenn ich das Deutschland-Ticket mit einem Busticket kombiniere?
+ Wie werden Zugausfälle bzw. Verspätungen bei Reisen mit dem Deutschland-Ticket entschädigt?
 ----------
 
-Gesetzliche Fahrgastrechte gelten für den Eisenbahnverkehr und für den Busverkehr jeweils separat, nicht jedoch ‚verkehrsträgerübergreifend‘, wenn bei einer Reise z.B. Teilstrecken mit einem Bus und einem Zug gefahren werden. In diesem Fall werden die Teilstrecken mit dem Bus und mit dem Zug separat betrachtet und gemäß den jeweiligen gesetzlichen Bestimmungen reguliert. Wenn Reisende eine Verspätung auf der Busstrecke erlitten haben, machen sie ihre Ansprüche bitte beim verursachenden Busunternehmen geltend, für Verspätungen oder Ausfälle im Eisenbahnverkehr wenden sie sich bitte an das jeweilige Eisenbahnverkehrsunternehmen (z.B. an das ServiceCenter Fahrgastrechte).
+* Bei einer Verspätung aufgrund einer Verspätung oder eines Zugausfalls im Nahverkehr von mindestens 60 Minuten am Zielbahnhof erhalten Sie 1,50 Euro Entschädigung pro Fall.
+* Beträge unter 4 Euro werden aufgrund einer gesetzlichen Bagatellgrenze nicht ausgezahlt. Sie können aber mehrere Verspätungsfälle sammeln.
+* Reichen Sie die gesammelten Fälle beim ServiceCenter-Fahrgastrechte oder der Fahrgastrechte-Abteilung des genutzten Eisenbahn-Verkehrsunternehmens ein.
+* Maximal werden 25 % des Wertes Ihres Deutschland-Tickets entschädigt.
 
-Bitte beachten Sie, dass die Verspätung eines Busses mit Anschlussverlust auf den gewünschten Zug keine Ansprüche auf Fahrgastrechte im Eisenbahnverkehr begründet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-busse)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-erstattung)
 
  Ist die Nutzung von ICE/IC mit dem Deutschland-Ticket gestattet, wenn absehbar ist, dass man mit erheblicher Verspätung das Ziel erreicht?
 ----------
@@ -754,132 +744,142 @@ Auch in diesem Fall gilt: Für die Nutzung des ICE- oder IC/EC-Zuges müssen Sie
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-ice-nutzung)
 
- Ich habe mein Deutschland-Ticket mit einem Fernverkehrsticket kombiniert. Welche Fahrgastrechte gelten, wenn ich meinen Anschluss nicht erreiche?
+ Mein Deutschland-Ticket wurde gekündigt. Was kann ich tun, wenn ich auch in 2025 das Angebot nutzen möchte?
 ----------
 
-Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung des Fernverkehrstickets jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
+​​​​​​Wenn Ihr Deutschland-Ticket vom Verkehrsunternehmen gekündigt wurde, haben Sie mehrere Möglichkeiten, die zeitlich variieren können.
 
-Beispielsweise wird bei einer Verspätung eines Nahverkehrszuges und damit verbundenem Anschlussverlust des Fernverkehrszuges die Zugbindung nicht aufgehoben und eine Fahrt mit einem späteren Zug mit einer Fahrkarte mit Zugbindung (z.B. Sparpreise) ist nicht möglich. Eventuelle fahrgastrechtliche Entschädigungsansprüche werden ebenfalls nur für das jeweilige Fernverkehrsticket oder das Deutschland-Ticket getrennt betrachtet.
+**Vor dem 31. Dezember 2024**
 
-Sehen Sie auch: [Was bedeutet aufgehobene Zugbindung?](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+Sie können Ihr Abo ganz einfach wieder „reaktivieren“. Wählen Sie dazu im Aboportal oder im DB Navigator den Menüpunkt „Abo reaktivieren“ aus. Diese Funktion ist nur bis zum eingetragenen Kündigungsdatum 31. Dezember 2024 verfügbar. So lange hat Ihr Abo den Status „Kündigung eingeleitet”. Wenn Sie das Abo reaktivieren, erneuern wir Ihr Deutschland-Ticket-Abo zu den neuen Konditionen, d.h. insbesondere zum neuen Preis.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kombi-fv-dt)
+**Nach dem 31. Dezember 2024**
 
- Ich komme als mobilitätseingeschränkte Person nicht mehr in einen überfüllten Zug. Was kann ich tun?
-----------
+Wenn Sie im Januar 2025 wieder ein neues Deutschland-Ticket-Abonnement haben möchten und Ihr bisheriges gekündigt wurde, schließen Sie bitte ein neues Deutschland-Ticket-Abonnement zum neuen Preis von 58 Euro pro Monat ab.
 
-Durch das Deutschland-Ticket kann es sein, dass einzelne Züge und Verbindungen stärker ausgelastet sind. Über die Verbindungsauskunft können Sie sich über die Auslastung Ihrer Strecke informieren. Wir empfehlen Ihnen sich zusätzlich über die Mobilitätsservice-Zentrale (MSZ) vorzumelden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-mobilitaetseinschraenkung)
-
- Kann ich mein Deutschland-Ticket Abo selbst verwalten?
-----------
-
-Ja. Alle Funktionen zur Verwaltung Ihres Deutschland-Tickets finden Sie im Aboportal. Hier können Sie:
-
-* Ihren Vertrag ändern,
-* Ihren Vertrag kündigen,
-* Ihre Kundendaten anpassen.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-abo-selbst-verwalten)
-
- Ich habe das Deutschland-Ticket online bestellt. Was kann ich tun, wenn ich noch keine Aktivierungs-Mail erhalten habe?
-----------
-
-Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsmail, wird Ihre Bestellung derzeit noch vom Abo-Center verarbeitet. Falls Sie Ihre Aktivierungsmail kurz vor dem gewünschten Geltungsbereich noch nicht erhalten haben, melden Sie sich bitte bei Ihrem zuständigen Abo-Center.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-keine-bestellbestaetigung)
-
- Wieso wird mir mein Deutschland-Ticket nur für einen Monat angezeigt, obwohl ich ein Abo abgeschlossen habe?
-----------
-
-Ihr Deutschland-Ticket-Abo verlängert sich automatisch bis zu Ihrer Kündigung. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich jeden Monat automatisch. Ein zusätzliches Handy-Ticket für den Folgemonat wird nicht angezeigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-anzeige-nur-fuer-einen-monat)
-
- Ich habe mein Abo gekündigt. Was kann ich tun, wenn ich noch keine Kündigungsbestätigung erhalten habe?
-----------
-
-Aufgrund der aktuell sehr hohen Bearbeitungszeiten dauert die Durchführung von Kündigungsaufträgen derzeit länger. Nach Erhalt Ihrer Kündigungsbestätigung erhalten Sie Ihre Gutschrift rückwirkend. Für eine schnellere Bearbeitung, führen Sie Ihre Kündigung innerhalb der tariflichen Kündigungsfrist selbständig in unserem Aboportal durch.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigungsbestaetigung)
-
- Wo finde ich mein Deutschland-Ticket für den Folgemonat?
-----------
-
-Ab der neuen Version (ab 24.1) des DB Navigators wird Ihnen nur das Handy-Ticket für den aktuell gültigen Monat angezeigt. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich automatisch zum Monatswechsel auf dem vorhandenen Ticket. Es wird kein zusätzliches Ticket für den Folgemonat angezeigt.
-
-Die Meldung „Tickets bis zum [Datum] sind bereits auf Ihrem Gerät“ bedeutet, dass die Aktualisierung für den neuen Monat am Monatsersten automatisch erfolgt.
-
-Möglicherweise wird der Zeitraum in der Ticketvorschau unter „Reisen“ erst verzögert aktualisiert. Bitte öffnen Sie das Ticket, so dass der QR-Code zu sehen ist. Auf dem Ticket wird der aktuelle Zeitraum angezeigt. Diese Anzeige ist für die Nutzung und Kontrolle relevant.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-folgemonat)
-
- Wo kann ich meine Daten (Adresse, Bankverbindung, etc.) ändern?
-----------
-
-Ihre Daten können Sie jederzeit selbst im Aboportal im Menüpunkt "Meine Daten" ändern.
+**Wichtig:** Sollten Sie ab Januar 2025 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben, damit Ihnen im Falle einer Fahrscheinkontrolle keine zusätzlichen Kosten entstehen.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-daten-aendern)
+[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
- Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
+[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weiter-nutzen)
+
+ Wo finde ich weitere Informationen zum Deutschland-Ticket?
 ----------
 
-Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
+Weitere Fragen und Antworten zum Deutschland-Ticket finden Sie in unseren FAQ.
 
-1. **Prüfen, ob mehrere Abos vorliegen:**
+* [Weitere FAQ zum Deutschland-Ticket](https://bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket)
 
-    Haben Sie versehentlich mehrere Abos bestellt, kündigen Sie ein Abo im Aboportal.
-2. **Technischer Fehler:**
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-faq)
 
-    Liegt die Mehrfachbuchung an einem technischen Fehler, kontaktieren Sie bitte das Abo-Center über das Kontaktformular im Aboportal für eine Kulanzerstattung. Haben Sie bitte etwas Geduld für die Bearbeitung.
-3. **Wichtig:**
-
-    Keine Rücklastschrift über die Bank veranlassen, um Sperrung des Kundenkontos und Kündigung aller Tickets zu vermeiden.
-
-* [Zum Aboportal](https://abo.bahn.de/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-doppelte-abbuchung)
-
- Welche Ausflugsziele erreicht man mit dem Deutschland-Ticket?
+ Kann ich weitere Personen mit dem Deutschland-Ticket mitnehmen?
 ----------
 
-Jetzt losfahren und das Land entdecken unter dbmobil.de!
+Nein, mit einem Deutschland-Ticket können Sie keine weiteren Personen mitnehmen. Ihre Mitreisenden brauchen eine eigene Fahrkarte.
 
-* [Zu dbmobil.de](https://dbmobil.de/d-ticket)
+Auch wenn Sie aus anderen Abonnements Mitnahmeregelungen kennen, gelten diese nicht für das Deutschland-Ticket.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ausflugsziele)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-personen)
 
- Was ist ein Sozialticket?
+ Beeinflusst das Deutschland-Ticket meine Zeitkarte im Fernverkehr?
 ----------
 
-Bei einigen Verbünden erhalten Sie, wenn Sie gewisse Voraussetzungen erfüllen, das Deutschland-Ticket zum vergünstigten Preis. Bitte informieren Sie sich bei Ihrem Verbund vor Ort.
+Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Das Deutschland-Ticket gilt ausschließlich für Reisen im Nahverkehr.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-sozialticket)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zeitkarte-fv)
 
- Ich habe bereits ein Abo auf einer Chipkarte und bin zum Deutschland-Ticket gewechselt. Kann ich meine Chipkarte aktualisieren und weiterverwenden?
+ Erhalte ich ein City-Ticket bei Angabe des Deutschland-Tickets?
 ----------
 
-Ja, Sie können in einigen Verbünden Ihre Chipkarte weiterverwenden, wenn Sie bereits ein Abo auf einer Chipkarte haben und zum Deutschland-Ticket gewechselt sind. Diese Information haben Sie im Wechselprozess und in Ihrer Bestellbestätigung erhalten.
+Nein. In den günstigen Angeboten Super Sparpreis und Sparpreis wird bei Angabe des Deutschland-Tickets kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket auch weiterhin inklusive.
 
-Vor dem ersten Fahrtantritt mit den Konditionen des Deutschland-Tickets müssen Sie Ihre Karte einmalig selbständig aktualisieren.
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-cityticket)
 
-**So aktualisieren Sie Ihre Chipkarte:**
+ Kann ich Deutschland-Ticket und BahnCard 25/50 gemeinsam in den Reisendenoptionen angeben?
+----------
 
-1. Nach Erhalt der Auftragsbestätigung haben Sie 21 Tage Zeit, die Karte an einem DB-Automaten im Gebiet Ihres Tarifgebers zu aktualisieren.
-2. Finden Sie einen DB Automaten in Ihrem Tarifgebiet unter dem Link "Fahrkarten am DB Automat kaufen".
-3. Halten Sie Ihre Chipkarte an die Fläche mit dem Symbol (((e am DB Automaten.
-4. Warten Sie 15 Sekunden, bis die Aktualisierung erfolgreich durchgeführt wurde. Haben Sie bitte etwas Geduld, wenn die Ladezeit etwas länger ist.
+Ja, das ist möglich.
 
-Beachten Sie, dass die Anzeige am Automaten bis zum 1. Geltungstag des Deutschland-Tickets fehlerhaft sein kann. Ihr Ticket wird trotzdem aktualisiert.
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-dt-und-bahncard)
 
-* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
-* [Fahrkarten am DB Automaten kaufen](https://www.bahn.de/service/informationen-buchung/verkaufsstellen/automat)
+ Kann ich nach Aktivierung des Preisfilters für das Deutschland-Ticket die Bestpreissuche nutzen?
+----------
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chipkarte-wechsel-deutschland-ticket-chipkarte)
+Nein. Eine Kombination des Preisfilters für das Deutschland-Ticket mit der Bestpreissuche ist leider nicht möglich. Wenn Sie die Bestpreissuche nutzen möchten, ist es notwendig, den Filter vorher zu deaktivieren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-dt-und-bestpreissuche)
+
+ Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf Fahrgastrechte?
+----------
+
+Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung der Fernverkehrsfahrkarte jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
+
+Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrechte:
+
+* Bei Verspätung eines Nahverkehrszuges, die zum Verpassen eines Fernverkehrszuges führt, wird die Zugbindung im Fernverkehr nicht aufgehoben. Ein späterer Fernzug kann damit nicht genutzt werden.
+* Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrsticket, nicht kombiniert.
+* Bei Anreise mit U-Bahn, Straßenbahn oder Bus gelten keine durchgängigen Fahrgastrechte.
+
+* [Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrgastrechte)
+
+ Was passiert, wenn ich mein Deutschland-Ticket bei der Fahrt im DB Fernverkehr nicht dabei habe?
+----------
+
+Das macht nichts, denn für die Fahrt im Fernverkehr ist das Deutschland-Ticket nicht erforderlich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrten)
+
+ Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf eine mögliche Erstattung meines Flex- oder Sparpreistickets?
+----------
+
+Keine, die Angabe des Deutschland-Tickets hat keinerlei Auswirkungen auf die Stornierungs- und Erstattungsmöglichkeiten. Es gelten die bestehenden Erstattungskonditionen des gebuchten Fernverkehrsangebots.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-flex-sparpreis)
+
+ Was muss ich bei Angabe des Deutschland-Tickets beachten, wenn ich Kinder mitnehmen möchte?
+----------
+
+* Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte angegeben sind.
+* Das Deutschland-Ticket gewährt keine kostenfreie Mitnahme von Kindern zwischen sechs und 14 Jahren. Deshalb brauchen Sie zur An- oder Abreise bis zum, bzw. ab dem Fernverkehrshalt für Kinder ein zusätzliches gültiges Nahverkehrsticket (z.B. eine Einzelfahrt) .
+* Kinder unter 6 Jahren benötigen weder im Nah- noch im Fernverkehr eine Fahrkarte.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)
+
+ Welche Auswirkung hat die Angabe eines Deutschland-Tickets auf den Preis?
+----------
+
+Für die Berechnung des Fahrkartenpreises ist ausschließlich die Strecke vom ersten bis letzten Fernverkehrshalt relevant. Für den Anteil im Schienenpersonennahverkehr wird das Deutschland-Ticket genutzt. Das spart bares Geld.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-preis)
+
+ Was passiert, wenn ich das Deutschland-Ticket bei der Buchung einer Super Sparpreis-, Sparpreis- oder Flexpreis-Fahrkarte angebe?
+----------
+
+Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen, wird lediglich eine Fahrkarte ausgegeben, und zwar für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt (meistens ICE- oder IC/EC Züge). Sie müssen nur diese Strecke bezahlen, denn für die Fahrt im Nahverkehr haben Sie das Deutschland-Ticket. Das spart bares Geld.
+
+**Beispiel:** Buchungsanfrage Potsdam – Berlin – Frankfurt – Bad Homburg. Die Preisberechnung erfolgt für die Strecke im Fernverkehr Berlin – Frankfurt. Auch die Fahrkarte wird ausschließlich für die Fernverkehrsstrecke ausgegeben. Für Nahverkehrsstrecke Potsdam – Berlin und Frankfurt – Bad Homburg wird das Deutschland-Ticket genutzt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-sparpreise)
+
+ Welche beiden Filtermöglichkeiten gibt es für das Deutschland-Ticket?
+----------
+
+Sie haben zwei Möglichkeiten:
+
+1. Schieberegler **„Nur D-Ticket Verbindungen“** unter "Optionen" aktivieren:
+    Zeigt ausschließlich Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
+
+2. Schieberegler **„Alle Reisenden besitzen ein Deutschland-Ticket“** unter "Reisende/Fahrräder" aktivieren:
+    Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
+
+So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
+
+* [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)

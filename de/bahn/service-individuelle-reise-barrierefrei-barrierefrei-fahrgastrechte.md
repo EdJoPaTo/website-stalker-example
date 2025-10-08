@@ -7,6 +7,18 @@ Fahrgastrechte für Fahrgäste mit Mobilitätseinschränkungen
 
 Fahrgastrechte greifen auch dann, wenn ein zugesagter Service der DB nicht erbracht wird und dadurch Zugverspätungen entstehen, Sie Ihren Anschluss nicht erreichen oder Ihre Reise nicht wie geplant zu Ende bringen können.
 
+###  Zugangsregeln (hier klicken für Details)  ###
+
+Nach Artikel 21, Absatz 1 der Fahrgastrechteverordnung (EU) 2021/782 stellen Eisenbahnverkehrsunternehmen und Bahnhofsbetreiber unter aktiver Beteiligung von Behindertenvertretern nicht diskriminierende Zugangsregeln für die Beförderung von mobilitätseingeschränkten Reisenden auf.
+
+* [Zugangsregeln DB InfraGO AG für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 811 KB) Download der Datei: Zugangsregeln DB InfraGO AG für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 811 KB)](https://assets.static-bahn.de/dam/jcr:0fd36292-d3b4-495b-b872-8503a35aa18c/2024_03_Zugangsregeln_InfraGO.pdf)
+* [Bahnhofsliste und Leistungszeiten DB InfraGO AG, Stand Juli 2025 (PDF, 99 KB) Download der Datei: Bahnhofsliste und Leistungszeiten DB InfraGO AG, Stand Juli 2025 (PDF, 99 KB)](https://assets.static-bahn.de/dam/jcr:ea6d4e64-f0c0-4af4-a22e-05e733c2cb1e/Bahnhofsliste%20und%20Leistungszeiten%20DB%20InfraGO%20AG_Stand%20Juli%202025.pdf)
+* [Zugangsregeln DB Fernverkehr AG und DB Regio, Stand Februar 2024 (PDF, 201 KB) Download der Datei: Zugangsregeln DB Fernverkehr AG und DB Regio, Stand Februar 2024 (PDF, 201 KB)](https://assets.static-bahn.de/dam/jcr:bc368c03-ee9d-4ce5-848a-399c229049db/Zugangsregeln%20DB%20Fernverlehr%20und%20DB%20Regio%20(1).pdf)
+* [Zugangsregeln der DB RegioNetz Infrastruktur GmbH für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 180 KB) Download der Datei: Zugangsregeln der DB RegioNetz Infrastruktur GmbH für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 180 KB)](https://assets.static-bahn.de/dam/jcr:13e4f050-d515-4265-aa2a-68b49afdc052/Zugangsregeln%20RegioNetz%20Infrastruktur%20(1).pdf)
+* [Beförderungsbedingungen für besondere Personengruppen, Stand Dezember 2024 (PDF, 145 KB) Download der Datei: Beförderungsbedingungen für besondere Personengruppen, Stand Dezember 2024 (PDF, 145 KB)](https://assets.static-bahn.de/dam/jcr:7b60700b-1275-4103-b491-527c62bd989e/Bef%C3%B6rderungsbedingungen%20f%C3%BCr%20besondere%20Personengruppen.pdf)
+* [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB) Download der Datei: Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).pdf)
+* [Leitfaden für die Mitnahme orthopädischer Hilfsmittel, Stand 15. Mai 2025 (PDF, 248 KB) Download der Datei: Leitfaden für die Mitnahme orthopädischer Hilfsmittel, Stand 15. Mai 2025 (PDF, 248 KB)](https://assets.static-bahn.de/dam/jcr:4830af64-3f04-48bf-8b59-2517d0dcdd66/Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel%20(2).pdf)
+
 Häufige Fragen
 ----------
 
@@ -129,18 +141,6 @@ Postfach 10 06 07
 ###  Erweiterte Haftung (hier klicken für Details)  ###
 
 Selten kann es vorkommen, dass wegen Verspätungen oder Zugausfall eine Weiterreise technisch oder organisatorisch nicht mehr möglich ist. In diesem Fall gelten die Entschädigungsregelungen ab dem Bahnhof, ab dem die Reise objektiv nicht mehr fortgesetzt werden kann.
-
-###  Zugangsregeln (hier klicken für Details)  ###
-
-Nach Artikel 21, Absatz 1 der Fahrgastrechteverordnung (EU) 2021/782 stellen Eisenbahnverkehrsunternehmen und Bahnhofsbetreiber unter aktiver Beteiligung von Behindertenvertretern nicht diskriminierende Zugangsregeln für die Beförderung von mobilitätseingeschränkten Reisenden auf.
-
-* [Zugangsregeln DB InfraGO AG für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 811 KB) Download der Datei: Zugangsregeln DB InfraGO AG für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 811 KB)](https://assets.static-bahn.de/dam/jcr:0fd36292-d3b4-495b-b872-8503a35aa18c/2024_03_Zugangsregeln_InfraGO.pdf)
-* [Bahnhofsliste und Leistungszeiten DB InfraGO AG, Stand Juli 2025 (PDF, 99 KB) Download der Datei: Bahnhofsliste und Leistungszeiten DB InfraGO AG, Stand Juli 2025 (PDF, 99 KB)](https://assets.static-bahn.de/dam/jcr:ea6d4e64-f0c0-4af4-a22e-05e733c2cb1e/Bahnhofsliste%20und%20Leistungszeiten%20DB%20InfraGO%20AG_Stand%20Juli%202025.pdf)
-* [Zugangsregeln DB Fernverkehr AG und DB Regio, Stand Februar 2024 (PDF, 201 KB) Download der Datei: Zugangsregeln DB Fernverkehr AG und DB Regio, Stand Februar 2024 (PDF, 201 KB)](https://assets.static-bahn.de/dam/jcr:bc368c03-ee9d-4ce5-848a-399c229049db/Zugangsregeln%20DB%20Fernverlehr%20und%20DB%20Regio%20(1).pdf)
-* [Zugangsregeln der DB RegioNetz Infrastruktur GmbH für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 180 KB) Download der Datei: Zugangsregeln der DB RegioNetz Infrastruktur GmbH für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 180 KB)](https://assets.static-bahn.de/dam/jcr:13e4f050-d515-4265-aa2a-68b49afdc052/Zugangsregeln%20RegioNetz%20Infrastruktur%20(1).pdf)
-* [Beförderungsbedingungen für besondere Personengruppen, Stand Dezember 2024 (PDF, 145 KB) Download der Datei: Beförderungsbedingungen für besondere Personengruppen, Stand Dezember 2024 (PDF, 145 KB)](https://assets.static-bahn.de/dam/jcr:7b60700b-1275-4103-b491-527c62bd989e/Bef%C3%B6rderungsbedingungen%20f%C3%BCr%20besondere%20Personengruppen.pdf)
-* [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB) Download der Datei: Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).pdf)
-* [Leitfaden für die Mitnahme orthopädischer Hilfsmittel, Stand 15. Mai 2025 (PDF, 248 KB) Download der Datei: Leitfaden für die Mitnahme orthopädischer Hilfsmittel, Stand 15. Mai 2025 (PDF, 248 KB)](https://assets.static-bahn.de/dam/jcr:4830af64-3f04-48bf-8b59-2517d0dcdd66/Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel%20(2).pdf)
 
 Detaillierte Informationen zu Ihren Fahrgastrechten und wie Sie Ihre Entschädigung beantragen können finden Sie unter:
 

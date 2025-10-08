@@ -11,6 +11,20 @@ Sie können das 1. Klasse-Upgrade in Kombination mit den folgenden 2. Klasse-Tic
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bei-welchen-2-klasse-tickets-kann-ich-das-1-klasse-upgrade-nutzen)
 
+ Greift meine BahnCard bei Buchung des 1. Klasse Upgrades?
+----------
+
+Mit Ihrer BahnCard 25 / 50 der 1. Klasse erhalten Sie bei Buchung des 1. Klasse Upgrades wie gewohnt 25 % bzw. 50 % Rabatt. Eine BahnCard der 2. Klasse gewährt bei Buchung des 1. Klasse Upgrades keinen Rabatt, dennoch muss diese zwecks korrekter Preisberechnung im Reiseprofil angegeben werden, wenn sie bei der Buchung des 2. Klasse Tickets verwendet wurde.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/greift-meine-bahncard-bei-buchung-des-1-klasse-upgrades)
+
+ Ist das 1. Klasse -Upgrade eine Prämie des BahnBonus-Punkteprogramms?
+----------
+
+Das käuflich zu erwerbende Fernverkehrsangebot 1. Klasse Upgrade ist nicht zu verwechseln mit den BahnBonus Prämien zum Upgrade in die 1. Klasse.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-1-klasse-upgrade-eine-praemie-bahnbonus-punkteprogramms)
+
  Ist das 1. Klasse Upgrade in Kombination mit einer BahnCard 100 gültig?
 ----------
 
@@ -27,33 +41,12 @@ In Kombination mit anderen als den hier genannten 2. Klasse-Angeboten ist das 1.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-das-1-klasse-upgrade-in-kombination-mit-weiteren-angeboten-gueltig)
 
- Was passiert mit meinem 2. Klasse-Ticket, wenn ich das 1. Klasse-Upgrade nutze?
+ Kann ich das Upgrade für eine Strecke mit NE- oder Seeverkehrsanteil buchen?
 ----------
 
-Das zugrundeliegende 2. Klasse-Ticket bleibt gültig und wird bei der Fahrkartenkontrolle im Zug weiterhin benötigt. Das 1. Klasse-Upgrade deckt preislich den Wechsel in die 1. Klasse ab und ergänzt das 2. Klasse-Ticket, ersetzt dieses aber nicht.
+Nein, für Tickets mit einem Streckenabschnitt der Nichtbundeseigenen Eisenbahnen bzw. des Seeverkehrs kann leider kein 1. Klasse Upgrade gebucht werden.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-mit-2-klasse-ticket-wenn-ich-das-1-klasse-upgrade-nutze)
-
- Wie viel kostet das 1. Klasse Upgrade im Fernverkehr?
-----------
-
-Der Preis des 1. Klasse Upgrade hängt von der gewählten Verbindung ab. Er entspricht der Differenz zwischen den Flexpreis-Angeboten der 1. und 2. Klasse. Hinzu kommt ggfs. ein auszugleichender BahnCard-Rabatt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-1-klasse-upgrade-im-fernverkehr)
-
- Greift meine BahnCard bei Buchung des 1. Klasse Upgrades?
-----------
-
-Mit Ihrer BahnCard 25 / 50 der 1. Klasse erhalten Sie bei Buchung des 1. Klasse Upgrades wie gewohnt 25 % bzw. 50 % Rabatt. Eine BahnCard der 2. Klasse gewährt bei Buchung des 1. Klasse Upgrades keinen Rabatt, dennoch muss diese zwecks korrekter Preisberechnung im Reiseprofil angegeben werden, wenn sie bei der Buchung des 2. Klasse Tickets verwendet wurde.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/greift-meine-bahncard-bei-buchung-des-1-klasse-upgrades)
-
- Warum muss ich bei Buchung des 1. Klasse Upgrades meine ursprünglich verwendete BahnCard 2. Klasse angeben?
-----------
-
-Wenn Sie bei Ihrer ursprünglichen 2. Klasse-Buchung eine BahnCard 2. Klasse verwendet haben, muss dies für ein gültiges 1. Klasse Upgrade in der Preisberechnung berücksichtigt werden. Hierfür geben Sie bitte im Reiseprofil die verwendete BahnCard 2. Klasse an.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-2-klasse-bahncard-bei-1-klasse-upgrade-angeben)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-das-upgrade-fuer-eine-strecke-mit-ne-oder-seeverkehrsanteil-buchen)
 
  Kann ich ein 1. Klasse Upgrade für mehr als 2 reisende Personen buchen?
 ----------
@@ -78,19 +71,26 @@ Nein. Sie können ein 1. Klasse-Upgrade nicht mehr beim Zugbegleiter kaufen. Bit
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-1-klasse-upgrade-weiterhin-beim-zugbegleiter-erwerben)
 
- Ist das 1. Klasse -Upgrade eine Prämie des BahnBonus-Punkteprogramms?
-----------
-
-Das käuflich zu erwerbende Fernverkehrsangebot 1. Klasse Upgrade ist nicht zu verwechseln mit den BahnBonus Prämien zum Upgrade in die 1. Klasse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-1-klasse-upgrade-eine-praemie-bahnbonus-punkteprogramms)
-
  Kann ich mit 1. Klasse Upgrade den Komfort Check-in nutzen?
 ----------
 
 Ja, der Komfort Check-in ist möglich. Um auf einem Platz in der 1. Klasse einzuchecken, wählen Sie das Upgrade Ticket aus und führen Sie den Komfort Check-in wie gewohnt durch. Wir bitten Sie um Verständnis, dass Zugbegleiter:innen gelegentlich Stichprobenkontrollen vornehmen müssen. Die eingecheckten Sitzplätze, für die eine Stichprobe durchgeführt werden soll, werden durch das System zufällig ausgewählt (z.T. in Abhängigkeit zum Ticket) und auf dem Kontrollgerät angezeigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-1-klasse-upgrade-den-komfort-check-in-nutzen)
+
+ Warum muss ich bei Buchung des 1. Klasse Upgrades meine ursprünglich verwendete BahnCard 2. Klasse angeben?
+----------
+
+Wenn Sie bei Ihrer ursprünglichen 2. Klasse-Buchung eine BahnCard 2. Klasse verwendet haben, muss dies für ein gültiges 1. Klasse Upgrade in der Preisberechnung berücksichtigt werden. Hierfür geben Sie bitte im Reiseprofil die verwendete BahnCard 2. Klasse an.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-2-klasse-bahncard-bei-1-klasse-upgrade-angeben)
+
+ Was passiert mit meinem 2. Klasse-Ticket, wenn ich das 1. Klasse-Upgrade nutze?
+----------
+
+Das zugrundeliegende 2. Klasse-Ticket bleibt gültig und wird bei der Fahrkartenkontrolle im Zug weiterhin benötigt. Das 1. Klasse-Upgrade deckt preislich den Wechsel in die 1. Klasse ab und ergänzt das 2. Klasse-Ticket, ersetzt dieses aber nicht.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-mit-2-klasse-ticket-wenn-ich-das-1-klasse-upgrade-nutze)
 
  Was passiert mit meiner Versicherung bei ergänzendem 1. Klasse Upgrade?
 ----------
@@ -99,9 +99,9 @@ Wenn Sie für Ihr zugrundeliegendes 2. Klasse-Ticket den Fahrkarten-Schutz der E
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-mit-meiner-versicherung-bei-ergaenzendem-1-klasse-upgrade)
 
- Kann ich das Upgrade für eine Strecke mit NE- oder Seeverkehrsanteil buchen?
+ Wie viel kostet das 1. Klasse Upgrade im Fernverkehr?
 ----------
 
-Nein, für Tickets mit einem Streckenabschnitt der Nichtbundeseigenen Eisenbahnen bzw. des Seeverkehrs kann leider kein 1. Klasse Upgrade gebucht werden.
+Der Preis des 1. Klasse Upgrade hängt von der gewählten Verbindung ab. Er entspricht der Differenz zwischen den Flexpreis-Angeboten der 1. und 2. Klasse. Hinzu kommt ggfs. ein auszugleichender BahnCard-Rabatt.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-das-upgrade-fuer-eine-strecke-mit-ne-oder-seeverkehrsanteil-buchen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-1-klasse-upgrade-im-fernverkehr)

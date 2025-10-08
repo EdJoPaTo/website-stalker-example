@@ -37,22 +37,6 @@ So rufen Sie die Fahrtinformationen auf
 Häufig gestellte Fragen zu Fahrtinformationen
 ----------
 
-###  Was ist der Wagenreihungsplan?  ###
-
-Den Wagenreihungsplan in digitaler Form finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails.
-
-* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-wagenreihungsplan)
-
-###  Wo sehe ich, wo der Zug am Gleis hält?  ###
-
-Die aktuelle Wagenreihung finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails. So wissen Sie direkt vor der Ankunft Ihres ICE, IC oder EC, in welchem Bereich des Gleises Ihr Wagen halten wird.
-
-* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sehe-ich-wo-der-zug-am-gleis-haelt)
-
 ###  Für welche Züge gibt es eine digitale Wagenreihung?  ###
 
 Die Fahrtinformationen mit der aktuellen Wagenreihung gibt es in der App DB Navigator für alle Züge des Fernverkehrs (ICE, Intercity und Eurocity) in Deutschland, bezogen auf den aktuellen Tag.
@@ -69,6 +53,14 @@ Eine Ausweitung auf den Nahverkehr und in der Zukunft liegende Reisetage ist gep
 * Im Tab "Wagenreihung" sehen Sie Ihren Wagen und seine voraussichtliche Position am Bahnsteig (den Gleisabschnitt).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-ein-ticket-mit-reservierung-gebucht-wie-finde-ich-direkt-meinen-wagen)
+
+###  Was ist der Wagenreihungsplan?  ###
+
+Den Wagenreihungsplan in digitaler Form finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails.
+
+* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-wagenreihungsplan)
 
 ###  Was ist der Vorteil der Wagenreihung in der App?  ###
 
@@ -93,6 +85,14 @@ Für Nahverkehrszüge zeigt die aktuelle Wagenreihung
 Alle Wagen sind mit sogenannten RFID-Chips (Radio Frequency Identification) ausgestattet und auf der Strecke installierte die DB an wichtigen Knotenpunkten Auslesegeräte. Überfährt der Zug das Auslesegerät, erkennt dieses die aktuelle Wagenreihung und übermittelt die Daten in Echtzeit an Systeme, bei dem die Daten gesichert und für die Kunden aufbereitet werden. Die Daten werden dann im DB Navigator und auf den Anzeigetafeln am Bahnsteig (sogenannte Zugzielanzeiger) angezeigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-wagenreihung)
+
+###  Wo sehe ich, wo der Zug am Gleis hält?  ###
+
+Die aktuelle Wagenreihung finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails. So wissen Sie direkt vor der Ankunft Ihres ICE, IC oder EC, in welchem Bereich des Gleises Ihr Wagen halten wird.
+
+* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sehe-ich-wo-der-zug-am-gleis-haelt)
 
 Hintergrundinformationen zu den Bereichen/ Sitzplätzen
 ----------
