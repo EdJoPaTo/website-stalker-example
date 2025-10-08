@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### BERN ###
+### frankfurt ###
 
-### 04. Oktober 2025 ###
+### 11. - 12. OKTOBER 2025 ###
 
-### 50 km ###
+### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/bern)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/frankfurt)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -182,7 +182,7 @@ IN DEINER NÄHE!
 |       KÖLN       |20/09/2025|19/09/2026|
 |     FREIBURG     |27/09/2025|26/09/2026|
 | FREIBURG (25KM)  |27/09/2025|26/09/2026|
-|       BERN       |04/10/2025|          |
+|       BERN       |04/10/2025|03/10/2026|
 |    FRANKFURT     |11/10/2025|          |
 |      RÜGEN       |18/10/2025|          |
 |   SCHAFFHAUSEN   |25/10/2025|          |

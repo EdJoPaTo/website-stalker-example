@@ -1670,15 +1670,6 @@ Werden in der Verbindungsauskunft keine Verbindungen angezeigt, liegt das gewün
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-fahrplanperiode)
 
- Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
-----------
-
-Wenn der Start- oder Zielhalt Ihrer Reise ausfällt, schlagen wir Ihnen einen nahegelegenen anderen Halt zum Ein- oder Ausstieg vor. Dieser neue Start- oder Zielhalt kann sowohl vor als auch hinter Ihrem geplanten Start- oder Zielhalt liegen. Bitte beachten Sie: Ihr Ticket wird nicht automatisch geändert.
-
-Sollten sich unsere vorgeschlagenen alternativen Start- oder Zielhalte für Sie nicht eignen, können Sie über den Button "Alternativen suchen" wie gewohnt auch selbstständig nach einer passenden alternativen Verbindung suchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg)
-
  Was bedeutet es, wenn ein vorgeschlagener neuer Zustieg oder Ausstieg außerhalb meiner gebuchten Verbindung liegt?
 ----------
 
@@ -1688,6 +1679,15 @@ Liegt der vorgeschlagene neue Starthalt vor dem ursprünglich gebuchten Starthal
 * **Tickets des Regionalverkehrs**: Bitte prüfen Sie bei Tickets des Regionalverkehrs, ob für die Fahrt zwischen dem ursprünglichen Halt und dem neuen Halt gegebenenfalls ein zusätzliches Ticket nötig ist. Es gelten die Bestimmungen Ihrer gebuchten Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg-verbindung)
+
+ Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
+----------
+
+Wenn der Start- oder Zielhalt Ihrer Reise ausfällt, schlagen wir Ihnen einen nahegelegenen anderen Halt zum Ein- oder Ausstieg vor. Dieser neue Start- oder Zielhalt kann sowohl vor als auch hinter Ihrem geplanten Start- oder Zielhalt liegen. Bitte beachten Sie: Ihr Ticket wird nicht automatisch geändert.
+
+Sollten sich unsere vorgeschlagenen alternativen Start- oder Zielhalte für Sie nicht eignen, können Sie über den Button "Alternativen suchen" wie gewohnt auch selbstständig nach einer passenden alternativen Verbindung suchen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg)
 
  Was ist ein Ersatzfahrplan?
 ----------
@@ -5174,12 +5174,82 @@ Die Verantwortung, ob Sie alleine reisen dürfen, liegt tatsächlich bei den Erz
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-welchem-alter-darf-ich-alleine-mit-der-bahn-ins-ausland-fahren)
 
- Ich besitze eine Wertmarke zum Schwerbehindertenausweis (SBA). Was muss ich bei der Online-Buchung beachten?
+ Ich besitze eine Wertmarke zum Schwerbehindertenausweis. Was muss ich bei der Online-Buchung beachten?
 ----------
 
-Für Inhaber eines Schwerbehindertenausweises mit Wertmarke kann es günstiger sein, die Anfrage und Buchung nur auf die Fernverkehrsstrecke zu beschränken. Der Nahverkehr, zum Beispiel Regionalbahn (RB), ist mit der Wertmarke bereits abgedeckt. Das gilt auch für Fähren im Orts- und Nahbereich. Sie dürfen diese mit einer Wertmarke kostenlos nutzen.
+Mit einem Schwerbehindertenausweis mit Wertmarke fahren Sie im Nahverkehr kostenfrei. Daher kann es günstiger sein, die Anfrage und Buchung auf die Fernverkehrsstrecke zu beschränken und die Nahverkehrsstrecke nicht anzugeben. Dies gilt auch für Fähren im Orts- und Nahbereich, die mit einer Wertmarke unentgeltlich genutzt werden dürfen.
+
+Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist auch Ihre Begleitperson im Nahverkehr kostenfrei.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wertmarke-mit-sba)
+
+ Wie kann ich mit Schwerbehindertenausweis für mich eine kostenfreie Sitzplatzreservierung buchen?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung.
+
+Wählen Sie beim Ticketkauf in der Verbindungssuche unter „Ermäßigungen“ den Schwerbehindertenausweis mit dem Merkzeichen B aus und fügen Sie nach der Angebotsauswahl die Sitzplatzreservierung hinzu.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-sitzplatz-reservierung-buchen)
+
+ Wie erhalte ich mit meinem Schwerbehindertenausweis eine kostenfreie Reservierung ohne Ticketbuchung?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-reservierung-ohne-ticketbuchung)
+
+ Wie kann ich für meine Begleitperson eine kostenfreie Sitzplatzreservierung buchen?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich und eine Begleitperson (ab 6 Jahren).
+
+Geben Sie dafür beim Ticketkauf Ihre Begleitperson als weitere mitreisende Person mit an und wählen Sie in der Verbindungssuche unter „Ermäßigungen“ den Schwerbehindertenausweis mit dem Merkzeichen B aus. Fügen Sie anschließend nach der Angebotsauswahl die Sitzplatzreservierung hinzu.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kostenfreie-sitzplatzreservierung-begleitperson-reisender)
+
+ Muss ich meine Begleitperson bei der Online-Buchung mit angeben?
+----------
+
+Ja. Als Reisender mit einem Schwerbehindertenausweis und dem Merkzeichen B geben Sie bitte bei der Buchung Ihre Begleitperson als weitere mitreisende Person mit an. Das teuerste Ticket aller Mitreisenden wird dann automatisch als kostenfreies Ticket für die Begleitperson berücksichtigt. Für die Begleitperson kann so eine kostenlose Sitzplatzreservierung mitgebucht werden. Ihre Begleitperson wird auf dem Ticket vermerkt und kann den Komfort Check-in nutzen.
+
+Eine Begleitperson muss mindestens 6 Jahre alt sein.
+
+Ihr Schwerbehindertenausweis mit Merkzeichen B ist die Fahrtberechtigung für die Begleitperson. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorgezeigt werden.
+
+Bitte beachten Sie: Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B sowie eine Wertmarke besitzen, reist Ihre Begleitperson im Nahverkehr kostenfrei. Für die Nahverkehrsstrecke ist in diesem Fall keine Ticketbuchung erforderlich.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitperson-in-buchung-angeben)
+
+ Gibt es eine Altersbeschränkung für eine Begleitperson?
+----------
+
+Ja. Die Begleitperson muss mindestens 6 Jahre alt sein, um bei Angabe eines Schwerbehindertenausweises mit Merkzeichen B als kostenfrei reisende Begleitperson berücksichtigt zu werden.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersbeschraenkung-begleitperson)
+
+ Muss ich einen Begleit- oder Assistenzhund bei der Buchung angeben?
+----------
+
+Nein. Begleit- oder Assistenzhunde fahren immer kostenfrei mit. Sie müssen bei der Buchung nicht angegeben werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleit-oder-assistenz-hund-bei-buchung-angeben)
 
  Wie kann ich Hilfeleistungen anmelden und was ist bei angemeldeten Hilfeleistungen zu beachten?
 ----------
@@ -5205,14 +5275,12 @@ Alternativ können Sie sich auch and die Mobilitätsservice-Zentrale wenden**.**
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/online-buchung-wenn-hilfeleistung)
 
- Muss ich meine Hilfeleistung ummelden, wenn sich meine Reiseverbindung ändert?
+ Was bedeutet eine Änderung meiner Reiseverbindung für meine angemeldete Hilfeleistung?
 ----------
 
-Sie können Hilfe beim Ein-, Um- oder Aussteigen vor der Reise über die Mobilitätsservice-Zentrale anmelden. Die Anmeldung empfehlen wir so früh wie möglich.
+Ihre angemeldete Hilfeleistung ist an eine konkrete Verbindung gebunden. Falls Sie auf eine andere Verbindung ausweichen, denken Sie bitte daran, Ihre Hilfeleistung rechtzeitig über die Mobilitätsservice-Zentrale umzumelden.
 
-Die Hilfeleistung wird nicht automatisch mit der Ticketbuchung über bahn.de oder den DB Navigator angemeldet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hinweis-aenderung-reiseverbindung)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderung-reiseverbindung)
 
  Wie storniere ich eine Hilfeleistung?
 ----------
@@ -5225,21 +5293,20 @@ Bei weiteren Fragen wenden Sie sich vor der Reise an die Mobilitätsservice-Zent
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-hilfeleistung-storniern)
 
- Wie kann ich die Umstiegszeit verlängern?
+ Wie kann ich die Zeit für meinen Umstieg verlängern?
 ----------
 
-Wenn Sie für Umstiege mehr Zeit brauchen, geben Sie bei der Verbindungssuche eine längere Umstiegszeit an.
+Wenn Sie beim Umsteigen mehr Zeit brauchen, können Sie das bei der Verbindungssuche einstellen:
 
-Auf bahn.de klicken Sie in der Verbindungssuche auf "Umstiegszeit" und wählen Ihre gewünschte Umstiegszeit. Die Suche zeigt Ihnen dann passende Verbindungen.
-
-Im DB Navigator ändern Sie die Umstiegszeit in der Verbindungssuche über "Optionen".
+* **Auf bahn.de** klicken Sie bei der Suche auf „Umstiegszeit“ und wählen Ihre gewünschte Zeit aus. Das System sucht dann nur Verbindungen mit dieser Umstiegszeit.
+* **In der DB Navigator App** gehen Sie bei der Verbindungssuche auf „Optionen“ und ändern dort die Umstiegszeit.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umstiegszeit-verlaengern)
 
  Kann ich ein Hilfsmittel in den Zug mitnehmen?
 ----------
 
-Ja, Sie können ein Hilfsmittel im Zug mitnehmen, wenn es die Maximalmaße einhält. Für Beratung und Reservierung eines Stellplatzes wenden Sie sich an die Mobilitätsservice-Zentrale.
+Ja, die Mitnahme eines Hilfsmittels im Zug ist unter Einhaltung von Maximalmaßen möglich. Bitte wenden Sie sich zur Beratung und Reservierung eines Stellplatzes an die Mobilitätsservice-Zentrale.
 
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
@@ -5254,39 +5321,6 @@ Nein, eine Buchung von Stellplätzen für Rollstühle ist derzeit noch nicht mö
 * [Leitfaden Mitnahme orthopädischer Hilfsmittel. (PDF, 248 KB)](https://assets.static-bahn.de/dam/jcr:4830af64-3f04-48bf-8b59-2517d0dcdd66/Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel%20(2).pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rollstuhl-platz-online-buchen)
-
- Wie bekommen meine Begleitperson und ich eine kostenfreie Sitzplatzreservierung?
-----------
-
-Im Fernverkehr erhalten Sie mit Schwerbehindertenausweis und dem Merkzeichen B eine kostenfreie Sitzplatzreservierung für sich und eine Begleitperson.
-
-Geben Sie Ihre Begleitperson bei der Online-Buchung als mitreisende Person an und fügen Sie nach der Angebotsauswahl die Sitzplatzreservierung hinzu.
-
-Wenn Sie schon ein Ticket haben und nur den Sitzplatz reservieren möchten, wenden Sie sich an die Mobilitätsservice-Zentrale.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kostenfreie-sitzplatzreservierung-begleitperson-reisender)
-
- Muss ich meine Begleitperson bei der Online-Buchung mit angeben?
-----------
-
-Ja, Sie müssen Ihre Begleitperson bei der Online-Buchung als weitere reisende Person angeben, wenn Sie die Ermäßigungsart "SBA" mit Merkzeichen "B" auswählen. Das teuerste Ticket aller Mitreisenden wird automatisch als kostenfreies Ticket für die Begleitperson gebucht. Die Begleitperson steht auf dem Ticket. Bei der Kontrolle zeigen Sie den Schwerbehindertenausweis mit Merkzeichen B vor.
-
-Die Begleitperson muss mindestens 6 Jahre alt sein, um kostenlos mitreisen zu können.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitperson-in-buchung-angeben)
-
- Gibt es eine Altersbeschränkung für eine Begleitperson?
-----------
-
-Ja. Die Begleitperson muss mindestens 6 Jahre alt sein, um bei Angabe eines Schwerbehindertenausweises mit Merkzeichen B als kostenfrei reisende Begleitperson berücksichtigt zu werden.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersbeschraenkung-begleitperson)
 
  Welche Vorteile habe ich, wenn ich meine Begleitperson bei der Online-Buchung direkt mit angebe?
 ----------
@@ -5308,28 +5342,6 @@ Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenauswe
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-mit-sba-bei-auslandsreisen)
 
- Wie kann ich mit Schwerbehindertenausweis für mich eine kostenfreie Sitzplatzreservierung buchen?
-----------
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung.
-
-Wählen Sie beim Ticketkauf in der Verbindungssuche unter „Ermäßigungen“ den Schwerbehindertenausweis mit dem Merkzeichen B aus und fügen Sie nach der Angebotsauswahl die Sitzplatzreservierung hinzu.
-
-Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-reservierung-buchen)
-
- Wie erhalte ich mit SBA eine kostenlose Reservierung ohne Ticketbuchung?
-----------
-
-Bitte wenden Sie sich für die kostenlose Reservierung an die Mobilitätsservice-Zentrale.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplastz-reservierung-ohne-ticketbuchung-mit-sba)
-
  Was ist bei der Stornierung meines online gebuchten Tickets zu beachten?
 ----------
 
@@ -5339,21 +5351,14 @@ Informationen zu Umtausch und Stornierung finden Sie hier:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stornierung-eines-gebuchten-tickets)
 
- Was ist bei der Stornierung von Hilfeleistungen zu beachten?
+ Was bedeutet eine Stornierung meines Tickets für meine angemeldete Hilfeleistung?
 ----------
 
-Wenn Sie zu Ihrer Reise eine Hilfeleistung angemeldet haben und die Reise nicht antreten, sagen Sie die Hilfeleistung bitte bei der Mobilitätsservice-Zentrale ab. So erhalten andere mobilitätseingeschränkte Reisende Unterstützung.
+Falls Sie Ihre Reise nicht antreten können, sagen Sie bitte unbedingt die angemeldeten Hilfeleistungen ab. So geben Sie anderen Reisenden die Möglichkeit, Unterstützung durch die Mitarbeitenden im Zug beziehungsweise am Bahnhof zu erhalten.
 
-Die Stornierung einer Hilfeleistung erfolgt nicht automatisch mit der Ticketstornierung.
+Bitte beachten Sie, dass die Stornierung einer Hilfeleistung nicht automatisch mit der Ticketstornierung erfolgt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-beachten-bei-stornierung-einer-hilfeleistung)
-
- Muss ich einen Begleit- oder Assistenzhund bei der Buchung angeben?
-----------
-
-Nein. Begleit- oder Assistenzhunde fahren immer kostenfrei mit. Sie müssen bei der Buchung nicht angegeben werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleit-oder-assistenz-hund-bei-buchung-angeben)
 
  Kann ich meinen Schwerbehindertenausweis im DB Kundenkonto hinterlegen?
 ----------
