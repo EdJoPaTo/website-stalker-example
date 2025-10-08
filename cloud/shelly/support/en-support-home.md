@@ -28,14 +28,16 @@ Knowledge base
 
 GEN 2/3/4 Devices Changelog BLU Devices Changelog Shelly APP Changelog
 
-#### Most popular articles ####
+####  Most popular articles  ####
 
-[View all articles](/en/support/solutions)
-[Update device and include it manually to Shelly Smart Control Modified on Fri, 8 Nov, 2024 at 11:30 AM](/en/support/solutions/articles/103000279888-update-device-and-include-it-manually-to-shelly-smart-control)
-[How to factory reset a Shelly device? Modified on Thu, 9 May, 2024 at 2:04 PM](/en/support/solutions/articles/103000095415-how-to-factory-reset-a-shelly-device-)
-[Shelly device is shown as offline in Shelly Cloud Application, but it is powered. What is the problem? Modified on Thu, 2 May, 2024 at 3:04 PM](/en/support/solutions/articles/103000046374-shelly-device-is-shown-as-offline-in-shelly-cloud-application-but-it-is-powered-what-is-the-problem)
-[I'm unable to add my Shelly device to the cloud and I'm seeing the error "Device owned by another user." What steps should I take? Modified on Wed, 24 Apr, 2024 at 3:04 PM](/en/support/solutions/articles/103000043907-i-m-unable-to-add-my-shelly-device-to-the-cloud-and-i-m-seeing-the-error-device-owned-by-another-use)
-[Troubleshooting Shelly devices Modified on Mon, 3 Feb at 2:20 PM](/en/support/solutions/articles/103000280420-troubleshooting-shelly-devices)
-[Shelly Wave - Firmware updates Modified on Fri, 13 Jun at 12:05 PM](/en/support/solutions/articles/103000258471-shelly-wave-firmware-updates)
-[Range extender functionality Modified on Wed, 30 Oct, 2024 at 12:01 PM](/en/support/solutions/articles/103000222505-range-extender-functionality)
-[Do you support Matter ? Modified on Thu, 17 Apr at 9:33 AM](/en/support/solutions/articles/103000060376-do-you-support-matter-)
+[View all articles →](/en/support/solutions)
+[Update device and include it manually to Shelly Smart Control →](/en/support/solutions/articles/103000279888-update-device-and-include-it-manually-to-shelly-smart-control)
+[How to factory reset a Shelly device? →](/en/support/solutions/articles/103000095415-how-to-factory-reset-a-shelly-device-)
+[Shelly device is shown as offline in Shelly Cloud Application, but it is powered. What is the problem? →](/en/support/solutions/articles/103000046374-shelly-device-is-shown-as-offline-in-shelly-cloud-application-but-it-is-powered-what-is-the-problem)
+[I'm unable to add my Shelly device to the cloud and I'm seeing the error "Device owned by another user." What steps should I take? →](/en/support/solutions/articles/103000043907-i-m-unable-to-add-my-shelly-device-to-the-cloud-and-i-m-seeing-the-error-device-owned-by-another-use)
+[Troubleshooting Shelly devices →](/en/support/solutions/articles/103000280420-troubleshooting-shelly-devices)
+[Shelly Wave - Firmware updates →](/en/support/solutions/articles/103000258471-shelly-wave-firmware-updates)
+[Range extender functionality →](/en/support/solutions/articles/103000222505-range-extender-functionality)
+[Do you support Matter ? →](/en/support/solutions/articles/103000060376-do-you-support-matter-)
+[I have changed my router/modem with another one. How to integrate back my devices into the new router and network? →](/en/support/solutions/articles/103000046465-i-have-changed-my-router-modem-with-another-one-how-to-integrate-back-my-devices-into-the-new-router)
+[Shelly Devices and Wi-Fi Signals →](/en/support/solutions/articles/103000221396-shelly-devices-and-wi-fi-signals)
