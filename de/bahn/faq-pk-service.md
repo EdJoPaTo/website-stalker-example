@@ -1670,6 +1670,15 @@ Werden in der Verbindungsauskunft keine Verbindungen angezeigt, liegt das gewün
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-fahrplanperiode)
 
+ Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
+----------
+
+Wenn der Start- oder Zielhalt Ihrer Reise ausfällt, schlagen wir Ihnen einen nahegelegenen anderen Halt zum Ein- oder Ausstieg vor. Dieser neue Start- oder Zielhalt kann sowohl vor als auch hinter Ihrem geplanten Start- oder Zielhalt liegen. Bitte beachten Sie: Ihr Ticket wird nicht automatisch geändert.
+
+Sollten sich unsere vorgeschlagenen alternativen Start- oder Zielhalte für Sie nicht eignen, können Sie über den Button "Alternativen suchen" wie gewohnt auch selbstständig nach einer passenden alternativen Verbindung suchen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg)
+
  Was bedeutet es, wenn ein vorgeschlagener neuer Zustieg oder Ausstieg außerhalb meiner gebuchten Verbindung liegt?
 ----------
 
@@ -1679,15 +1688,6 @@ Liegt der vorgeschlagene neue Starthalt vor dem ursprünglich gebuchten Starthal
 * **Tickets des Regionalverkehrs**: Bitte prüfen Sie bei Tickets des Regionalverkehrs, ob für die Fahrt zwischen dem ursprünglichen Halt und dem neuen Halt gegebenenfalls ein zusätzliches Ticket nötig ist. Es gelten die Bestimmungen Ihrer gebuchten Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg-verbindung)
-
- Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
-----------
-
-Wenn der Start- oder Zielhalt Ihrer Reise ausfällt, schlagen wir Ihnen einen nahegelegenen anderen Halt zum Ein- oder Ausstieg vor. Dieser neue Start- oder Zielhalt kann sowohl vor als auch hinter Ihrem geplanten Start- oder Zielhalt liegen. Bitte beachten Sie: Ihr Ticket wird nicht automatisch geändert.
-
-Sollten sich unsere vorgeschlagenen alternativen Start- oder Zielhalte für Sie nicht eignen, können Sie über den Button "Alternativen suchen" wie gewohnt auch selbstständig nach einer passenden alternativen Verbindung suchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg)
 
  Was ist ein Ersatzfahrplan?
 ----------
