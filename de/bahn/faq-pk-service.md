@@ -1670,15 +1670,6 @@ Werden in der Verbindungsauskunft keine Verbindungen angezeigt, liegt das gewün
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-fahrplanperiode)
 
- Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
-----------
-
-Wenn der Start- oder Zielhalt Ihrer Reise ausfällt, schlagen wir Ihnen einen nahegelegenen anderen Halt zum Ein- oder Ausstieg vor. Dieser neue Start- oder Zielhalt kann sowohl vor als auch hinter Ihrem geplanten Start- oder Zielhalt liegen. Bitte beachten Sie: Ihr Ticket wird nicht automatisch geändert.
-
-Sollten sich unsere vorgeschlagenen alternativen Start- oder Zielhalte für Sie nicht eignen, können Sie über den Button "Alternativen suchen" wie gewohnt auch selbstständig nach einer passenden alternativen Verbindung suchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg)
-
  Was bedeutet es, wenn ein vorgeschlagener neuer Zustieg oder Ausstieg außerhalb meiner gebuchten Verbindung liegt?
 ----------
 
@@ -1688,6 +1679,15 @@ Liegt der vorgeschlagene neue Starthalt vor dem ursprünglich gebuchten Starthal
 * **Tickets des Regionalverkehrs**: Bitte prüfen Sie bei Tickets des Regionalverkehrs, ob für die Fahrt zwischen dem ursprünglichen Halt und dem neuen Halt gegebenenfalls ein zusätzliches Ticket nötig ist. Es gelten die Bestimmungen Ihrer gebuchten Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg-verbindung)
+
+ Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
+----------
+
+Wenn der Start- oder Zielhalt Ihrer Reise ausfällt, schlagen wir Ihnen einen nahegelegenen anderen Halt zum Ein- oder Ausstieg vor. Dieser neue Start- oder Zielhalt kann sowohl vor als auch hinter Ihrem geplanten Start- oder Zielhalt liegen. Bitte beachten Sie: Ihr Ticket wird nicht automatisch geändert.
+
+Sollten sich unsere vorgeschlagenen alternativen Start- oder Zielhalte für Sie nicht eignen, können Sie über den Button "Alternativen suchen" wie gewohnt auch selbstständig nach einer passenden alternativen Verbindung suchen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg)
 
  Was ist ein Ersatzfahrplan?
 ----------
@@ -5259,21 +5259,6 @@ Sie können Hilfe beim Ein-, Um- oder Aussteigen vor der Reise über die Mobilit
 * [Mehr Informationen zu Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfeleistungen)
-
- Was muss ich bei der Online-Buchung beachten, wenn ich eine Hilfeleistung benötige?
-----------
-
-Die Anmeldung einer *Hilfeleistung* erfolgt nicht automatisch mit der Ticketbuchung. Wenn Sie bei Ihrer Reise Unterstützung brauchen, informieren Sie sich vor der Ticketbuchung:
-
-* Über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten auf [bahnhof.de](https://www.bahnhof.de/).
-
-* Über die Ein- und Ausstiegssituation in den Zug auf bahn.de oder im DB Navigator in den Verbindungsdetails unter „Fahrtinformationen“.
-
-Alternativ können Sie sich auch and die Mobilitätsservice-Zentrale wenden**.**
-
-* [Mehr Informationen zur Mobilitätsservice-Zentrale](https://www.bahn.de/service/individuelle-reise/barrierefrei/online-buchung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/online-buchung-wenn-hilfeleistung)
 
  Was bedeutet eine Änderung meiner Reiseverbindung für meine angemeldete Hilfeleistung?
 ----------
