@@ -5190,6 +5190,21 @@ Sie können Hilfe beim Ein-, Um- oder Aussteigen vor der Reise über die Mobilit
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfeleistungen)
 
+ Was muss ich bei der Online-Buchung beachten, wenn ich eine Hilfeleistung benötige?
+----------
+
+Die Anmeldung einer *Hilfeleistung* erfolgt nicht automatisch mit der Ticketbuchung. Wenn Sie bei Ihrer Reise Unterstützung brauchen, informieren Sie sich vor der Ticketbuchung:
+
+* Über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten auf [bahnhof.de](https://www.bahnhof.de/).
+
+* Über die Ein- und Ausstiegssituation in den Zug auf bahn.de oder im DB Navigator in den Verbindungsdetails unter „Fahrtinformationen“.
+
+Alternativ können Sie sich auch and die Mobilitätsservice-Zentrale wenden**.**
+
+* [Mehr Informationen zur Mobilitätsservice-Zentrale](https://www.bahn.de/service/individuelle-reise/barrierefrei/online-buchung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/online-buchung-wenn-hilfeleistung)
+
  Muss ich meine Hilfeleistung ummelden, wenn sich meine Reiseverbindung ändert?
 ----------
 
@@ -5230,6 +5245,16 @@ Ja, Sie können ein Hilfsmittel im Zug mitnehmen, wenn es die Maximalmaße einh�
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsmittel-mitnehmen)
 
+ Kann ich einen Rollstuhlplatz online buchen?
+----------
+
+Nein, eine Buchung von Stellplätzen für Rollstühle ist derzeit noch nicht möglich. Bitte wenden Sie sich hierfür an die Mobilitätsservice-Zentrale. Beachten Sie bitte die Bedingungen für die Mitnahme eines Hilfsmittels.
+
+* [Weitere Infomationen zu Reiseplanung und Beratung (PDF, 248 KB)](https://assets.static-bahn.de/dam/jcr:4830af64-3f04-48bf-8b59-2517d0dcdd66/Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel%20(2).pdf)
+* [Leitfaden Mitnahme orthopädischer Hilfsmittel. (PDF, 248 KB)](https://assets.static-bahn.de/dam/jcr:4830af64-3f04-48bf-8b59-2517d0dcdd66/Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel%20(2).pdf)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rollstuhl-platz-online-buchen)
+
  Wie bekommen meine Begleitperson und ich eine kostenfreie Sitzplatzreservierung?
 ----------
 
@@ -5254,6 +5279,15 @@ Die Begleitperson muss mindestens 6 Jahre alt sein, um kostenlos mitreisen zu k�
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitperson-in-buchung-angeben)
 
+ Gibt es eine Altersbeschränkung für eine Begleitperson?
+----------
+
+Ja. Die Begleitperson muss mindestens 6 Jahre alt sein, um bei Angabe eines Schwerbehindertenausweises mit Merkzeichen B als kostenfrei reisende Begleitperson berücksichtigt zu werden.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersbeschraenkung-begleitperson)
+
  Welche Vorteile habe ich, wenn ich meine Begleitperson bei der Online-Buchung direkt mit angebe?
 ----------
 
@@ -5273,6 +5307,19 @@ Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenauswe
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-mit-sba-bei-auslandsreisen)
+
+ Wie kann ich mit Schwerbehindertenausweis für mich eine kostenfreie Sitzplatzreservierung buchen?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung.
+
+Wählen Sie beim Ticketkauf in der Verbindungssuche unter „Ermäßigungen“ den Schwerbehindertenausweis mit dem Merkzeichen B aus und fügen Sie nach der Angebotsauswahl die Sitzplatzreservierung hinzu.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-reservierung-buchen)
 
  Wie erhalte ich mit SBA eine kostenlose Reservierung ohne Ticketbuchung?
 ----------
@@ -5300,6 +5347,34 @@ Wenn Sie zu Ihrer Reise eine Hilfeleistung angemeldet haben und die Reise nicht 
 Die Stornierung einer Hilfeleistung erfolgt nicht automatisch mit der Ticketstornierung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-beachten-bei-stornierung-einer-hilfeleistung)
+
+ Muss ich einen Begleit- oder Assistenzhund bei der Buchung angeben?
+----------
+
+Nein. Begleit- oder Assistenzhunde fahren immer kostenfrei mit. Sie müssen bei der Buchung nicht angegeben werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleit-oder-assistenz-hund-bei-buchung-angeben)
+
+ Kann ich meinen Schwerbehindertenausweis im DB Kundenkonto hinterlegen?
+----------
+
+Nein, eine Hinterlegung des Schwerbehindertenausweises im DB Kundenkonto ist nicht möglich. Um Ihren Schwerbehindertenausweis anzugeben, wählen Sie diesen in der Verbindungssuche unter „Ermäßigungen“ aus.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schwerbehindertenausweis-im-kundenkonto-hinterlegen)
+
+ Erhalte ich auch mit einem internationalen Behindertenausweis eine Ermäßigung bei der Ticketbuchung?
+----------
+
+Nein, um bei der Ticketbuchung über bahn.de oder die App DB Navigator tarifliche Nachteilsausgleiche zu erhalten, müssen Reisende im Besitz eines deutschen Schwerbehindertenausweises (SBA) mit dem Merkzeichen B sein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationaler-behindetenausweis-ermaessigung)
+
+ Erhalte ich mit meinem deutschen Schwerbehindertenausweis auch Ermäßigungen bei Auslandsreisen?
+----------
+
+Über bahn.de oder den DB Navigator ist eine Buchung für Reisen ins Ausland mit Ermäßigungen aufgrund eines Schwerbehindertenausweises aktuell nicht möglich. Bitte wenden Sie sich für die Buchung von Auslandsreisen an die Mobilitätsservice-Zentrale.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutscher-behindetenausweis-ermaessigung-im-ausland)
 
  Funktioniert das BahnBonus Programm auch ohne Anmeldung?
 ----------
