@@ -3225,6 +3225,15 @@ Sie haben gegebenenfalls fahrgastrechtliche Ansprüche, wenn Sie aufgrund einer 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/klimaanlage-sitzplatz)
 
+ Können allein reisende Kinder die Vorteile des Komfort Check-in nutzen?
+----------
+
+Ja, auch Kinder ab 6 Jahren, die allein mit einem digitalen Ticket reisen, können den Komfort Check-in nutzen. Sie checken selbstständig am Platz über die DB Navigator App ein. In vielen Zügen zeigt die Belegtanzeige am Platz an, dass der Sitzplatz reserviert ist.
+
+Weitere Informationen zum [Komfort Check-in](https://www.bahn.de/service/zug/komfort-check-in)finden Sie auf bahn.de oder in der DB Navigator App.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-allein-reisende-kiner-kci-nutzen)
+
  Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
 ----------
 
@@ -6274,6 +6283,17 @@ Kein Problem. Geben Sie bitte Ihre BahnCard-Nummer während des Check-in-Prozess
 Kein Problem. Einfach Mitteilungen der DB Navigator App auf Ihrem Smartphone aktivieren. Sie werden zukünftig von uns kurz vor Beginn Ihrer Reise an den Komfort Check-in erinnert und können innerhalb weniger Klicks einchecken.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-kci-db-navigator)
+
+ Wie funktioniert der Komfort Check-in für Kinder und Familien?
+----------
+
+Erwachsene und Kinder ab 6 Jahre, die mit digitalen Tickets reisen, können sich mit dem Komfort Check-in auf ein entspanntes Reisen freuen und sich zudem in vielen Zügen dank der Belegtanzeige den Sitzplatz sichern.
+
+Weitere Informationen sowie die genauen Bedingungen zum [Komfort Check-in](https://www.bahn.de/service/zug/komfort-check-in)
+
+* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-kci-fuer-kinder-und-familien)
 
  Wie funktioniert die Wagenreihung in Echtzeit?
 ----------
