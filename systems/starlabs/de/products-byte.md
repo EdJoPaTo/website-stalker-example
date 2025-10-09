@@ -80,3 +80,7 @@ Ships
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/byte) [Get Notified When Available](#)
+
+ 𝗧𝗵𝗲 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗢𝗳𝗳𝗲𝗿
+
+ Cool Days, Cool Deals! Use the code 𝗖𝗢𝗢𝗟𝟭𝟬 to get 𝟭𝟬% off at checkout.

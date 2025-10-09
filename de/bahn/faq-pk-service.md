@@ -2171,6 +2171,17 @@ Angebote, die über [www.international-bahn.de](http://www.international-bahn.de
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gilt-die-sofortstornierung-auch-fuer-buchungen-ueber-www-international-bahn-de)
 
+ Warum werden Grenzkontrollen in Zügen durchgeführt?
+----------
+
+Auf Anordnung des Bundesinnenministeriums führt die deutsche Bundespolizei bundesweit Grenzkontrollen durch.
+
+Diese Kontrollen finden auch auf allen **internationalen ICE-, EC-, ECE-, IC-, RJ-, TGV- und NJ-Zügen** der Deutschen Bahn bei Einreise nach Deutschland statt.
+
+* [Weitere Informationen zu den aktuellen Grenzkontrollen](https://www.bahn.de/service/zug/grenzkontrollen)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/grenzkontrollen)
+
  Wie groß dürfen meine Gepäckstücke sein?
 ----------
 
