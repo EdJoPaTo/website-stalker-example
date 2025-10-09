@@ -16,8 +16,6 @@ VPS piko G11s
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
- Details \>
-
 pro Monat
 
 0,84 €
@@ -34,8 +32,6 @@ VPS nano G11s
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
- Details \>
-
 pro Monat
 
 1,68 €
@@ -51,8 +47,6 @@ VPS mikro G11s
 * 120 GB SSD
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
-
- Details \>
 
 pro Monat
 
