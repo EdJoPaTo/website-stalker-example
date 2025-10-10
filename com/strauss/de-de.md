@@ -14,8 +14,7 @@ volles S7S Schutzpaket
 
 alle wetterfesten Schuhneuheiten
 
- Herbst-Styles in
-schwarz-seegrün
+ Herbst-Styles in schwarz-seegrün
 ----------
 
 ---
