@@ -126,6 +126,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly BLU RC Button / Shelly BLU RC Button US](https://kb.shelly.cloud/knowledge-base/shelly-blu-rc-button-4-us)
 * [Shelly BLU TRV](https://kb.shelly.cloud/knowledge-base/shelly-blu-trv)
 * [Shelly BLU Gateway Gen3](https://kb.shelly.cloud/knowledge-base/shelly-blu-gateway-gen3)
+* [Shelly BLU Remote Control ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-remote-control-zb)
 
  Shelly Android devices
 ----------
