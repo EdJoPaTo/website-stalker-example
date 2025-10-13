@@ -1100,6 +1100,15 @@ Die Geltungsdauer der Prämien finden Sie in den jeweiligen Prämienbeschreibung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
 
+ Wo kann ich die neue Webserie "Boah, Bahn!" ansehen?
+----------
+
+Alle Episoden der DB Webserie mit Anke Engelke gibt es hier zu sehen:
+
+* [Zur DB Webserie auf YouTube](https://www.youtube.com/c/DeutscheBahnKonzern/shorts)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/boah-bahn)
+
  Brauche ich ein privates und ein geschäftliches BahnBonus Konto?
 ----------
 
