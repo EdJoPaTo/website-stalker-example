@@ -41,21 +41,6 @@ in neuer Farbe
 *
 *
 
- Adventskalender - Hinter jeder Tür ein Tool
-
-###  Straussbox öffne dich!  ###
-
----
-
- 24 Türchen voller Werkzeug und Zubehör, das jedes Handwerkerherz höherschlagen lässt. Verpackt in einer neuen, superkompakten Toolbox – so hält die Freude das ganze Jahr über!
-
-[zum Adventskalender](https://www.strauss.com/de/de/handwerkzeuge/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Handwerkzeuge)
-
- jetzt in hochwertiger STRAUSSbox
----
-
-[](https://www.strauss.com/de/de/handwerkzeuge/e-s-adventskalender-edition-7-7903200-5576500-0.html?itemorigin=StartseiteHW25&category=Handwerkzeuge)
-
  Wahre Herbst-Helden: Übergangsjacken
 ----------
 

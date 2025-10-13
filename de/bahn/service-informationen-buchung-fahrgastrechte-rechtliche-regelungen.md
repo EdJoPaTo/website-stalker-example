@@ -235,7 +235,7 @@ Das Verfahren ist bei allen Betreibern, die sich dem Abkommen angeschlossen habe
 
 Für die Anwendung der AJC-Kulanzregelung gelten folgende Bedingungen:
 
-* Sie haben getrennte Tickets für die internationale Reise. Jedes Ihrer Tickets ist ein eigenständiger Beförderungsvertrag. Davon ausgenommen sind bewusst in getrennten Buchungsvorgängen erworbene Fahrkarten. Z.B. ist die Kombination einer nationalen Zeitkarte (z.B. Deutschland-Ticket) plus internationaler Fahrkarte nicht vom AJC umfasst.
+* Sie haben getrennte Tickets für die internationale Reise. Jedes Ihrer Tickets ist ein eigenständiger Beförderungsvertrag. Davon ist die Kombination einer nationalen Zeitkarte (z.B. Deutschland-Ticket) plus internationale Fahrkarte nicht umfasst.
 * Bei Ihrer anfänglichen Buchung müssen Sie eine ausreichende Umsteigezeit eingeplant haben.
 * Die Möglichkeit, den nächsten Zug zu nehmen, ohne eine neue Fahrkarte kaufen zu müssen, gibt Ihnen keine Garantie für einen Sitzplatz.
 

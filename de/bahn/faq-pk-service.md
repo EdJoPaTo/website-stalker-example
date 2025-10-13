@@ -916,7 +916,10 @@ Nein, Voraussetzung für ein Statuslevel ist die Teilnahme am BahnBonus Programm
  Darf die Begleitperson eines Kindes (ab 6 Jahre) mit Behinderung kostenfrei mitreisen?
 ----------
 
-Bei Kindern mit Behinderung im Alter von 6 bis 14 Jahren, in deren Schwerbehindertenausweis die Mitnahme einer Begleitperson und das **Merkzeichen „B“** vermerkt ist, darf die Begleitperson kostenfrei mitfahren. Reisen das Kind und die Begleitperson in einem Zug des Fernverkehrs, dann benötigt das Kind eine Fahrkarte. Das Kind und die Begleitperson reisen in der beim Fahrkartenkauf für das Kind gewählten Klasse. Die Reservierung für den Sitzplatz wird für das Kind und seine Begleitperson kostenfrei ausgegeben. Sie erhalten diese in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
+Bei Kindern mit Behinderung im Alter von 6 bis 14 Jahren, in deren Schwerbehindertenausweis die Mitnahme einer Begleitperson und das **Merkzeichen „B“** vermerkt ist, darf die Begleitperson kostenfrei mitfahren. Reisen das Kind und die Begleitperson in einem Zug des Fernverkehrs, dann benötigt das Kind eine Fahrkarte. Das Kind und die Begleitperson reisen in der beim Fahrkartenkauf für das Kind gewählten Klasse. Die Reservierung für den Sitzplatz wird für das Kind und seine Begleitperson kostenfrei ausgegeben.
+
+Die Fahrkarte inklusive kostenfreier Sitzplatzreservierungen für das Kind und die Begleitperson erhalten Sie online über bahn.de, über den DB Navigator, in allen DB Reisezentren sowie über die Mobilitätsservice-Zentrale.
+Ist nur die kostenfreie Reservierung von Sitzplätzen gewünscht, wenden Sie sich bitte an ein DB Reisezentrum oder die Mobilitätsservice-Zentrale.
 
 Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten können.
 
