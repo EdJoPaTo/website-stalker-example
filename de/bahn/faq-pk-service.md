@@ -877,6 +877,49 @@ Pausierungen für den ÖPNV sind aufgrund von tariflichen Bestimmungen leider ni
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/baustelle-beanstandung)
 
+ Sie sind aufgrund einer Beeinträchtigung im barrierefreien Reiseverlauf verspätet an Ihrem Reiseziel angekommen? Oder Sie mussten aufgrund einer Beeinträchtigung Ihre Reise abbrechen bzw. konnten Sie diese nicht antreten?
+----------
+
+Eine Reise ist **nicht barrierefrei**, wenn zum Beispiel
+
+* eine angemeldete Hilfeleistung nicht oder zu spät erbracht wird
+* Rollstuhlplätze im Zug fehlen
+* technische Probleme/Defekte an benötigten Hilfsmitteln (z.B. Aufzug defekt, Tür für den Wagen mit Rollstuhlbereich defekt) aufgetreten sind
+* es Serviceeinschränkungen gab (z.B. defektes Universal-WC)
+
+Damit wir den Sachverhalt prüfen können, senden Sie uns alle relevanten Informationen und **alle Belege** (z.B. eine Quittung für ein Taxi oder eine Hotelrechnung), die für die Bearbeitung Ihres Antrags wichtig sein könnten, sowie eine **Kopie Ihres Schwerbehindertenausweises** und wenn vorhanden eine **Kopie Ihrer Wertmarke**.
+
+Kulanzleistungen können in begründeten Einzelfällen zusätzlich zu den Ansprüchen aus den Fahrgastrechten gewährt werden.
+
+**Zur Prüfung Ihrer Ansprüche stehen Ihnen folgende Möglichkeiten zur Verfügung:**
+
+**Digital** über Ihr Kundenkonto auf bahn.de oder in der DB Navigator App
+
+Hierfür nutzen Sie bitte die Ihnen angebotene Möglichkeit „Ich möchte meine Belege digital hochladen“ nachdem Sie die Frage erhalten „Wie möchten Sie die Belege einreichen?“
+
+**Per Post**
+
+Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches wir unter nachfolgendem Link zur Verfügung stellen oder Sie schildern uns Ihren Sachverhalt auch ganz einfach formlos in einem Brief an:
+DB Dialog GmbH Servicecenter Fahrgastrechte 60647 Frankfurt am Main.
+
+Sie haben auch die Möglichkeit Ihr Anliegen zur **Prüfung an unseren Kundendialog** zu senden. Wenn erforderlich, senden wir Ihren Antrag automatisch zur weiteren Bearbeitung an das Servicecenter Fahrgastrechte weiter.
+
+Beschwerden **DB Fernverkehr** betreffend richten Sie bitte an:
+
+DB Fernverkehr AG
+Kundendialog
+Postfach 10 06 13
+96058 Bamberg
+
+Beschwerden **DB Regio** betreffend richten Sie bitte an:
+
+DB Regio AG
+Kundendialog
+Postfach 10 06 07
+96058 Bamberg
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/beeintraechtigung-im-reiseverlauf-verspaetet-am-reiseziel-angekommen)
+
  Muss ich einen Begleit- oder Assistenzhund bei der Buchung angeben?
 ----------
 
@@ -1632,6 +1675,13 @@ Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenauswe
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-mit-sba-bei-auslandsreisen)
 
+ Erweiterte Haftung
+----------
+
+Selten kann es vorkommen, dass wegen Verspätungen oder Zugausfall eine Weiterreise technisch oder organisatorisch nicht mehr möglich ist. In diesem Fall gelten die Entschädigungsregelungen ab dem Bahnhof, ab dem die Reise objektiv nicht mehr fortgesetzt werden kann.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erweiterte-haftung)
+
  Was muss ich beachten, wenn ich das EU-Antragsformular für Erstattungen und Entschädigungen nutze?
 ----------
 
@@ -1665,6 +1715,27 @@ Auf Wunsch stellen wir auch einen DB-Gutschein aus. Der Gutschein ist 3 Jahre g�
 Kund:innen mit Statuslevel Gold und Platin sind beim exklusiven Sitzplatzbereich im Zug gleichgestellt. Den Sitzplatzbereich können Sie je nach Verfügbarkeit im Zug nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/exklusiver-sitzplatzbereich-statuslevel-vorrang)
+
+ Sie haben bereits eine Fahrkarte mit oder ohne Reservierung gebucht, jedoch konnte eine Hilfeleistung durch den Service am Bahnhof für den Ein-, Um- bzw. Ausstieg aufgrund fehlender Kapazitäten nicht angeboten oder bestätigt werden?
+----------
+
+Bei Fahrkarten mit Zugbindung ((Super) Sparpreis) heben wir in diesem Fall die Zugbindung auf. Das heißt:
+
+* Sie können mit Ihrem ursprünglichen Ticket am selben Reisetag
+  * eine frühere Verbindung oder
+  * eine spätere Verbindung nutzen.
+
+* Eine „spätere“ Verbindung kann sein
+  * später am selben Reisetag
+  * einen Tag später oder
+  * auch erst in drei Wochen oder
+  * auch bis zu einem Jahr nach dem ursprünglichen Reisedatum.
+
+Die Mobilitätsservice-Zentrale sucht gemeinsam mit Ihnen nach einer für Sie passenden neuen Reiseverbindung, zu der wir Ihnen eine Hilfeleistung bestätigen und Reservierungen anbieten können (falls gewünscht). Vorhandene Reservierungen buchen wir kostenfrei für Sie um.
+
+* [Informationen zur Aufhebung der Zugbindung finden Sie über diese Verlinkung.](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkarte-gebucht-ohne-bestaetigte-hilfeleistung)
 
  Kann ich in meinem Kundenkonto Fahrkarten stornieren beziehungsweise erstatten lassen?
 ----------
@@ -6027,6 +6098,17 @@ Wählen Sie, ob Sie sich mittels einer "Authenticator App" oder einer SMS-Tan a
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-aktiviere-ich-die-2-faktor-authentifizierung)
 
+ Wie werde ich bei bei Zugverspätungen entschädigt?
+----------
+
+Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
+
+Wenn Sie eine Fahrkarte gekauft haben, gelten die Regelungen für die Gesamtstrecke, einschließlich aller kostenfrei genutzten Streckenabschnitte. Die Höhe des Entschädigungsbetrags basiert auf dem Preis der gekauften Fahrkarte und der Gesamtverspätung.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bei-zugverspaetung-entschaedigt)
+
  Wie bekomme ich bei einer Stornierung mein Geld zurück, wenn ich mit Bonvoyo gezahlt habe?
 ----------
 
@@ -6200,6 +6282,28 @@ Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "+City" auf 
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erkenne-ich-ob-das-city-ticket-bei-meiner-fahrkarte-mit-dabei-ist)
+
+ Wie erstatten wir Ihre Kosten für die Nutzung anderer Züge
+----------
+
+Als Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wertmarke fahren Sie in allen Nahverkehrszügen (IRE, RE, FEX, MEX, RB und S-Bahnen) kostenfrei.
+
+Ist Ihr Zug so verspätet, dass mit einer Verspätung von mindestens 20 Minuten am Zielbahnhof gerechnet wird, können Sie einen anderen Zug nutzen (Ausnahmen: Reservierungspflichtige Züge, wie z.B. NightJets oder einige Züge ins Ausland).
+
+Falls Sie in einen "höherwertigen" Zug steigen wollen, also z.B. von einem Nahverkehrszug in einen ICE, IC oder EC, müssen Sie sich dafür zunächst eine passende Fahrkarte kaufen. Anschließend können Sie sich die Kosten von uns erstatten lassen.
+
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erstattung-kosten-fuer-nutzung-anderer-zuege)
+
+ Wie erstatten wir Ihre Kosten für Taxi oder Hotel?
+----------
+
+Für kostenfrei Reisende mit Schwerbehindertenausweis mit Beiblatt und Wertmarke gelten die gleichen Regeln für die Inanspruchnahme von Taxi und Hotelübernachtungen wie für andere Reisende. Das gilt bei eingetragenem Merkzeichen B auch jeweils für eine Begleitperson.
+
+* [Mehr dazu in den "Häufigen Fragen" zum Thema Fahrgastrechte](https://www.bahn.de/hilfe?faq-search-term=fahrgastrechte&show-all=no)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erstattung-kosten-fuer-taxi-oder-hotel)
 
  Wie früh im Voraus kann ich DB Gepäckservice buchen?
 ----------
@@ -6966,6 +7070,25 @@ Sie benötigen ein Smartphone mit Internetzugang sowie die kostenfreie DB-App "m
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kennzeichne-ich-mein-gepaeckstueck)
 
+ Wie können Sie Ihre Fahrgastrechte geltend machen?
+----------
+
+Um Ihre Fahrgastrechte geltend zu machen, stehen Ihnen verschiedene Wege zur Verfügung.
+
+Sie können das barrierefreie Fahrgastrechte-Formular ausfüllen und uns per Post zusenden. Das Formular finden Sie unter folgendem Link: <https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print>
+
+Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gekauft haben bzw. das Ticket oder die Zeitkarte im DB Kundenkonto hinterlegt ist, können Sie Ihre Fahrgastrechte direkt aus dem DB Kundenkonto heraus beantragen. Dazu wählen Sie in Ihrem DB Kundenkonto die Reise/Zeitkarte aus, für die Sie die Entschädigung beantragen wollen. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
+
+Für digital gekaufte Tickets, die nicht im DB Kundenkonto hinterlegt sind, können die Fahrgastrechte über die Auftragssuche auf bahn.de beantragt werden. Hierzu benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person. Zur Auftragssuche gelangen Sie über den folgenden Link: <https://www.bahn.de/buchung/meine-reisen>
+
+Eine weitere Option ist es, sich per E-Mail an die Mobilitätsservice-Zentrale (MSZ) zu wenden. Die Mitarbeitenden nehmen Ihr Anliegen auf und leiten es an die entsprechende Stelle weiter. Erforderlich ist hierfür die Angabe der vollständigen Adresse und/oder Ihrer Telefonnummer. Die E-Mail-Adresse der MSZ ist: [msz@deutschebahn.com](mailto:msz@deutschebahn.com)
+
+Unter der Telefonnummer 030 586020920 können Sie sich auch direkt an das Servicecenter Fahrgastrechte wenden.
+
+Alternativ können Sie die Unterlagen auch in einem DB Reisezentrum oder Ihrer Verkaufsstelle abgeben.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-koennen-fahrgastrechte-geltend-gemacht-werden)
+
  Wie nutze ich ein Digitales Ticket im Zug zur Ticketkontrolle?
 ----------
 
@@ -7338,6 +7461,13 @@ Die Inhalte sind auf einem im ICE installierten Server abgelegt und werden über
 **Hinweis:** Durch die Nutzung des Film- & Serienangebots wird Ihr persönliches Datenvolumen nicht verbraucht.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-werden-film-serieninhalte-waehrend-der-bahnfahrt-gestreamt)
+
+ Wie werden Sie bei Mobilitätshilfen entschädigt
+----------
+
+Verursacht das Eisenbahnunternehmen den Verlust oder die Beschädigung von für die Beförderung zugelassenen Mobilitätshilfen, einschließlich Rollstühlen und Hilfsmitteln oder den Verlust oder die Verletzung von Assistenzhunden, ist Schadensersatz zu leisten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-werden-mobiltaetshilfen-entschaedigt)
 
  Wieso erhalte ich die Nachricht, dass der Check-in nicht möglich ist?
 ----------
@@ -7819,6 +7949,17 @@ Ob und welchen Statuslevel Sie haben, erkennen Sie in Ihrem BahnBonus Bereich in
 Bei iOS Geräten kann es passieren, dass bei einem Hörbuch am Ende eines Kapitels die Wiedergabe stoppt wenn sich in der Zwischenzeit der Sperrbildschirm aktiviert. Sie sollten deshalb den Sperrbildschirm für die Dauer des Hörbuches deaktivieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woran-liegt-es-dass-das-hoerbuch-waehrend-des-abspielens-stoppt)
+
+ Worauf sollte ich achten, wenn ich meinen Antrag auf Fahrgastrechte geltend machen möchte?
+----------
+
+Wenn Sie in Zügen des Nah- und Fernverkehrs gereist sind, reichen Sie uns bitte online oder postalisch Ihre Fahrkarte für die Nutzung des Fernverkehrszuges auch sowie eine Kopie Ihres Schwerbehindertenausweises und eine Kopie Ihrer Wertmarke ein.
+
+Reichen Sie bitte alle Belege (zum Beispiel eine Quittung für ein Taxi oder eine Hotelrechnung), die aus Ihrer Sicht für die Bearbeitung Ihres Antrags ebenfalls wichtig sein könnten und im direkten Zusammenhang mit Ihrer Reise stehen, mit ein.
+
+Stellen Sie uns ergänzende Informationen zur Verfügung, wodurch die von Ihnen verauslagten Kosten entstanden sind.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/worauf-achten-bei-anrtrag-auf-fahrgastreche)
 
  Worauf muss ich beim ICE Portal besonders bei Android Geräten achten?
 ----------
