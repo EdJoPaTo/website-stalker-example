@@ -39,5 +39,5 @@ GEN 2/3/4 Devices Changelog BLU Devices Changelog Shelly APP Changelog
 [Shelly Wave - Firmware updates →](/en/support/solutions/articles/103000258471-shelly-wave-firmware-updates)
 [Range extender functionality →](/en/support/solutions/articles/103000222505-range-extender-functionality)
 [Do you support Matter ? →](/en/support/solutions/articles/103000060376-do-you-support-matter-)
-[I have changed my router/modem with another one. How to integrate back my devices into the new router and network? →](/en/support/solutions/articles/103000046465-i-have-changed-my-router-modem-with-another-one-how-to-integrate-back-my-devices-into-the-new-router)
+[What to do when you installed a new WiFi Router/Modem →](/en/support/solutions/articles/103000046465-what-to-do-when-you-installed-a-new-wifi-router-modem)
 [Shelly Devices and Wi-Fi Signals →](/en/support/solutions/articles/103000221396-shelly-devices-and-wi-fi-signals)
