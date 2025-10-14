@@ -136,7 +136,7 @@ Crowdfunding:
 Mobilfunk und noch mehr, wir träumen von digitaler Infrastruktur mit Haltung!
 Sei dabei, bei unserem Hub Crowdfunding.
 
-[](https://www.wetell.de/community/newsblog/der-wetell-hub/)
+[](https://www.startnext.com/wetell-hub)
 
 * 3GB
 * 7GB
