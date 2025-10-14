@@ -130,6 +130,17 @@ Was kann ich tun, wenn ich meine BahnCard verloren habe? Wie kann ich die BahnCa
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-verloren-verlaengern-upgraden)
 
+ Wie erhalte ich die Gutscheincodes der BahnCard Aktion Frühbucher für Gruppen?
+----------
+
+* Die Gutscheincodes stehen exklusiv allen Kundinnen und Kunden zu, die das "Frühbucher für Gruppen"-Angebot in Anspruch genommen haben.
+* Lehrkräfte oder Reiseorganisierende können die Gutscheincodes kostenfrei über das Aktions-Formular bis zum 15. Dezember 2025 anfragen.
+* Die erhaltenen Codes können daraufhin bei der Bestellung der Jugend BahnCard eingelöst werden. Die Codes sind bis zum 15. Juli 2026 gültig.
+
+* [Zum Gutscheincode Aktions-Formular](https://www.bahn.de/angebot/bahncard/junge-reisende/formular-klassenfahrtaktion)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-aktion-fruehbucher-code-erhalten)
+
  Wie lange im Voraus kann ich eine BahnCard kaufen?
 ----------
 
@@ -277,6 +288,16 @@ Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.
 Zur Nutzung der digitalen BahnCard benötigen Sie ein Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie [hier](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard und auch zur Alternative ohne Smartphone mit Schritt-für-Schritt-Anleitungen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/info-digitale-bahncard)
+
+ Welche Vorteile hat die Jugend BahnCard Aktion Frühbucher für Gruppen?
+----------
+
+Diese Vorteile hat die Jugend BahnCard Aktion Frühbucher
+
+* Mit der Jugend BahnCard Aktion Frühbucher können sich berechtigte Teilnehmende, die zwischen 6 und einschließlich 18 Jahre alt sind, kostenfrei die Jugend BahnCard sichern.
+* Die Jugend Bahncard bietet 25% Rabatt auf den Flexpreis und die Sparpreise des Fernverkehrs. Darüber hinaus ist diese auch als digitale BahnCard direkt in der App nutzbar. Mit 1 Jahr Laufzeit ohne Abo.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugend-bc-fruehbucheraktion)
 
  Kann ich als BahnCard 100 Inhaber:in auch BahnBonus Punkte sammeln?
 ----------

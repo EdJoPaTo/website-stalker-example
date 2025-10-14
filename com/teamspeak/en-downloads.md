@@ -1,42 +1,55 @@
 THE FUTURE OF GAMING COMMUNICATION
 ==========
 
-The all-new TeamSpeak Client is built on the foundations of our rock solid, lag-free voice technology and packed with next-generation communication & productivity tools, while maintaining our renowned security and privacy.
+The all-new TeamSpeak 6 Client is built on the foundations of our rock solid, lag-free voice technology and packed with next-generation communication & productivity tools, while maintaining our renowned security and privacy.
 
 TeamSpeak is the ONLY tool you will need to connect online.
 
  Windows
 ----------
 
-###  Client 64-Bit  6.0.0-beta2  ###
+###  Client 64-Bit  6.0.0-beta3  ###
 
 ```
-SHA256: 2ab2fc6ea39d8525577537a1e1c8b05d60c2fa273b8b93b7c1b1c0b14a6f1ab0
+SHA256: 755dc46cfbeb66f785370dbadd19a130658eaaf0a5b40e9039bac5422ed21a2f
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta2/teamspeak-client.msi)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3/teamspeak-client.msi)
 
  macOS
 ----------
 
-###  Client 64-Bit  6.0.0-beta2  ###
+###  Client ARM  6.0.0-beta3  ###
 
 ```
-SHA256: 7fe0109391515076c97f48503aabbae4032cf0877648aa19ddd81688ac6dff0d
+SHA256: 3f10bdf3be95a87a048082830bbc355728d4f6513f6041988576adb63623e504
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta2/teamspeak-client.dmg)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3/teamspeak-client-arm.dmg)
+
+###  Client Intel  6.0.0-beta3  ###
+
+```
+SHA256: bf5f4b4ac70d75f387580e84f1f33046145b644971c83f2bb8f3c9b92f8c1246
+```
+
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3/teamspeak-client-intel.dmg)
 
  Linux
 ----------
 
-###  Client 64-Bit  6.0.0-beta2  ###
+###  Client 64-Bit  6.0.0-beta3  ###
 
 ```
-SHA256: de334fbf7b90d91ced475a785d034b520e4856bbd6fdd71db6a5dd88624a552b
+SHA256: 291f70563aaaa15d993498fece312b4794dd612ed8fc771a5c041e917d4dcc33
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta2/teamspeak-client.tar.gz)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3/teamspeak-client.tar.gz)
+
+Third-Party Components
+----------
+
+ This software uses code of [FFmpeg](http://ffmpeg.org) licensed under the [LGPLv3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html) and its source can be downloaded [here](https://github.com/teamspeak/conan-ffmpeg).
 
  Windows
 ----------
