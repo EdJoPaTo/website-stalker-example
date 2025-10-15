@@ -54,11 +54,11 @@ Postfach 10 06 07
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/beeintraechtigung-im-reiseverlauf-verspaetet-am-reiseziel-angekommen)
 
-###  Erweiterte Haftung  ###
+###  Was passiert, wenn wegen Verspätungen oder Zugausfall eine Weiterreise nicht mehr möglich ist?  ###
 
 Selten kann es vorkommen, dass wegen Verspätungen oder Zugausfall eine Weiterreise technisch oder organisatorisch nicht mehr möglich ist. In diesem Fall gelten die Entschädigungsregelungen ab dem Bahnhof, ab dem die Reise objektiv nicht mehr fortgesetzt werden kann.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erweiterte-haftung)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erweiterte-haftung-bei-verspaetung-zugausfall)
 
 ###  Sie haben bereits eine Fahrkarte mit oder ohne Reservierung gebucht, jedoch konnte eine Hilfeleistung durch den Service am Bahnhof für den Ein-, Um- bzw. Ausstieg aufgrund fehlender Kapazitäten nicht angeboten oder bestätigt werden?  ###
 

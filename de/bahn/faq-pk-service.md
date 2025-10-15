@@ -1684,12 +1684,12 @@ Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenauswe
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-mit-sba-bei-auslandsreisen)
 
- Erweiterte Haftung
+ Was passiert, wenn wegen Verspätungen oder Zugausfall eine Weiterreise nicht mehr möglich ist?
 ----------
 
 Selten kann es vorkommen, dass wegen Verspätungen oder Zugausfall eine Weiterreise technisch oder organisatorisch nicht mehr möglich ist. In diesem Fall gelten die Entschädigungsregelungen ab dem Bahnhof, ab dem die Reise objektiv nicht mehr fortgesetzt werden kann.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erweiterte-haftung)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erweiterte-haftung-bei-verspaetung-zugausfall)
 
  Was muss ich beachten, wenn ich das EU-Antragsformular für Erstattungen und Entschädigungen nutze?
 ----------
@@ -4216,75 +4216,6 @@ In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservie
 Bitte achten Sie darauf, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-sparpreis-europa)
-
- Wo befinden sich die Haltestellen des IC-Busses?
-----------
-
-**Mannheim Hbf**
-In Mannheim befindet sich die Haltestelle direkt am Hauptbahnhof an der folgenden Adresse: Heinrich-von-Stephan-Straße 5, 68161 Mannheim. Der Weg zur Haltestelle ist mit Schildern im Bahnhof gekennzeichnet. Die Haltestelle ist ebenfalls durch Schilder mit der Anschrift „IC-Bus“ gekennzeichnet.
-
-**Frankfurt am Main Flughafen Fernbahnhof**
-
-In Frankfurt befindet sich die Haltestelle direkt am Fernbahnhof (Squaire) an der folgenden Adresse: Am Flughafen, 60549 Frankfurt am Main. Der Weg zur Haltestelle ist mit Schildern im Bahnhof gekennzeichnet. Die Haltestelle ist ebenfalls durch Schilder mit der Aufschrift „IC-Bus“ gekennzeichnet.
-
-*
-*
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/riedbahn-1-haltestellen-icbus)
-
- Wie kann ich mich über den Ersatzverkehr informieren?
-----------
-
-An den Bahnhöfen stehen Ihnen die Mitarbeitenden der DB für Auskünfte zur Verfügung. Sie können sich mit Fragen an die DB-Information im Bahnhofsgebäude, die Reisezentren oder an die „Ersatzverkehrs-Lotsen“ wenden. Letztere erkennen Sie an ihren Westen mit der Aufschrift Ersatzverkehr.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/riedbahn-2-ersatzverkehr)
-
- Wie häufig fahren die IC-Busse?
-----------
-
-Die Ersatzbusse verkehren alle 30 Minuten direkt zwischen Mannheim Hbf und Frankfurt Flughafen ohne Zwischenhalt. Die genauen Abfahrtszeiten der Ersatzbusse finden Sie als Aushang an den Haltestellen.
-
-Bei den Ersatzverkehren werden keine barrierefreien Fahrzeuge eingesetzt. Mobilitätseingeschränkte Fahrgäste melden sich daher bei Bedarf bitte unter +49 30 6521 2888 an.
-
-*
-*
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/riedbahn-3-fahrplan-icbusse)
-
- Wie lang ist die Fahrzeit der IC-Busse?
-----------
-
-Die Fahrzeit der IC-Busse beträgt ca. eine Stunde. Die Fahrt erfolgt in direkter Verbindung ohne Zwischenhalt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/riedbahn-4-fahrzeit-icbus)
-
- Welche Fahrgastrechte habe ich?
-----------
-
-Unter diesem [Link](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)erhalten Sie alle Informationen zu den Fahrgastrechten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/riedbahn-5-fahrgastrechte)
-
- Welches Ticket wird für den IC-Bus benötigt?
-----------
-
-Für die Fahrt im IC-Bus benötigen Sie ein gültiges DB-Fernverkehrsticket. Tickets von DB Regio, Deutschlandtickets oder sonstige Nahverkehrs-/Verbundfahrscheine haben keine Gültigkeit.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/riedbahn-6-ticket)
-
- Können Sitzplätze im IC-Bus reserviert werden?
-----------
-
-Es können keine Sitzplätze in den IC-Bussen reserviert werden. Bitte beachten Sie zudem, dass es an Bord der IC-Busse keine Stehplätze gibt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/riedbahn-7-reservierung)
-
- Können Fahrräder mit dem IC-Bus transportiert werden?
-----------
-
-Eine Fahrradmitnahme ist in den IC-Bussen leider nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/riedbahn-8-fahrrad)
 
  Kann ich einen Rollstuhlplatz online buchen?
 ----------
