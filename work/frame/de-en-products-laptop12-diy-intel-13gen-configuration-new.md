@@ -91,9 +91,9 @@ Runs at DDR5-5200 speed on Framework Laptop 12.
 Memory
 
 * DDR5-5600 - 8GB (1 x 8GB) +€45
-* DDR5-5600 - 16GB (1 x 16GB) +€90
+* DDR5-5600 - 16GB (1 x 16GB)  Ships in 2-3 weeks. +€90
 * DDR5-5600 - 32GB (1 x 32GB) +€180
-* DDR5-5600 - 48GB (1 x 48GB) +€270
+* DDR5-5600 - 48GB (1 x 48GB)  Ships in 2-3 weeks. +€270
 * None (bring your own)
 
 **Storage**
