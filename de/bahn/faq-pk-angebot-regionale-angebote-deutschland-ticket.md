@@ -46,29 +46,6 @@ Die Deutsche Bahn informiert Sie transparent darüber, dass Bund und Länder den
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-fortsetzung-aktive-zustimmung)
 
- Das Deutschland-Ticket wird teurer - was muss ich jetzt tun?
-----------
-
-Bitte teilen Sie uns mit, ob Sie Ihr Deutschland-Ticket zum neuen Preis von 58 Euro/Monat behalten oder kündigen möchten. Wir benötigen Ihre Rückmeldung bis zum **30. November 2024**. Sie können uns Ihre Entscheidung über zwei Wege mitteilen:
-
-**1. Im Aboportal**
-
-Loggen Sie sich mit Ihrem bahn.de-Account ein und rufen Sie Ihr Deutschland-Ticket auf. Klicken Sie auf den Button „Vertragsänderung zustimmen“, um alle Informationen zu den Änderungen nachzulesen. Hier können Sie der Fortführung Ihres Abonnements zum neuen Preis und den geänderten Tarifbedingungen entweder zustimmen oder die Fortführung ablehnen. Lehnen Sie ab, kündigen Sie automatisch Ihr Deutschland-Ticket zum 31. Dezember 2024.
-
-**2. Im DB Navigator**
-
-Öffnen Sie den DB Navigator und Ihr Deutschland-Ticket mit dem sichtbaren QR-Code. Klicken Sie ganz unten auf der Seite auf die Menüauswahl mit den drei Punkten. Wählen Sie „Vertragsänderungen zustimmen“ aus. Wenn Sie den Button nicht sehen können, wählen Sie bitte „zum Aboportal“ aus. Sie werden direkt in das Aboportal weitergeleitet. Dort können Sie den neuen Tarifbedingungen zustimmen oder diese ablehnen.
-
-**Bitte beachten Sie:** Zustimmen kann nur die Vertragspartnerin oder der Vetragspartner, das ist die **bestellende Person des Abos**. Wenn Sie das Deutschland-Ticket nutzen, aber jemand anders es für Sie bestellt hat, machen Sie diese bestellende Person bitte darauf aufmerksam, dass sie bis zum 30. November 2024 der Preisanpassung zustimmt, damit Sie Ihr Ticket auch 2025 weiter nutzen können.
-
-* [Zum Aboportal](https://abo.bahn.de/#/)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung)
-
  Mein Deutschland-Ticket wurde gekündigt. Was kann ich tun, wenn ich auch in 2026 das Angebot nutzen möchte?
 ----------
 
@@ -853,29 +830,6 @@ Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der gelte
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-wechsel)
-
- Mein Deutschland-Ticket wurde gekündigt. Was kann ich tun, wenn ich auch in 2025 das Angebot nutzen möchte?
-----------
-
-​​​​​​Wenn Ihr Deutschland-Ticket vom Verkehrsunternehmen gekündigt wurde, haben Sie mehrere Möglichkeiten, die zeitlich variieren können.
-
-**Vor dem 31. Dezember 2024**
-
-Sie können Ihr Abo ganz einfach wieder „reaktivieren“. Wählen Sie dazu im Aboportal oder im DB Navigator den Menüpunkt „Abo reaktivieren“ aus. Diese Funktion ist nur bis zum eingetragenen Kündigungsdatum 31. Dezember 2024 verfügbar. So lange hat Ihr Abo den Status „Kündigung eingeleitet”. Wenn Sie das Abo reaktivieren, erneuern wir Ihr Deutschland-Ticket-Abo zu den neuen Konditionen, d.h. insbesondere zum neuen Preis.
-
-**Nach dem 31. Dezember 2024**
-
-Wenn Sie im Januar 2025 wieder ein neues Deutschland-Ticket-Abonnement haben möchten und Ihr bisheriges gekündigt wurde, schließen Sie bitte ein neues Deutschland-Ticket-Abonnement zum neuen Preis von 58 Euro pro Monat ab.
-
-**Wichtig:** Sollten Sie ab Januar 2025 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben, damit Ihnen im Falle einer Fahrscheinkontrolle keine zusätzlichen Kosten entstehen.
-
-* [Zum Aboportal](https://abo.bahn.de/#/)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weiter-nutzen)
 
  Wo finde ich weitere Informationen zum Deutschland-Ticket?
 ----------
