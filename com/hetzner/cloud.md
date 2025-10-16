@@ -9,10 +9,10 @@ hosting by Hetzner
  The best simple cloud solution that your demanding
 projects deserve.
 
-CHOOSE YOUR FAVORITE CLOUD SERVER
+ Choose your favorite Cloud Server
 ----------
 
-Whether you're looking for the cloud server with the best price-performance ratio or need unshared power for your production workloads, we have an option for you.
+ Whether you're looking for the cloud server with the best price-performance ratio or need unshared power for your production workloads, we have an option for you.
 
 ####  Shared  Cost-Optimized  ####
 
@@ -65,7 +65,7 @@ All our cloud plans and other hosting offers are GDPR-compliant and comply with 
 
 ×
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 0.5 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
 High quality Cloud – unbeatable prices
 ----------
@@ -106,7 +106,7 @@ save 0.50
 
 []()
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 0.5 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
  IPv4
 
@@ -993,7 +993,7 @@ Volumes offer highly available and reliable SSD storage for your cloud servers. 
 
 ### PERFORMANCE ###
 
-Ampere® Altra®, AMD EPYC™ 2nd Gen and Intel® Xeon® Gold processors together with **speedy NVMe SSDs** in a local RAID10 mean you’ll profit from high performance hardware. And you’ll benefit from the redundant 10 Gbit network connection of our host systems.
+Ampere®, AMD and Intel® processors together with **speedy NVMe SSDs** in a local RAID10 mean you’ll profit from high performance hardware. And you’ll benefit from the redundant 10 Gbit network connection of our host systems.
 
 ### DOCUMENTATION & API ###
 
