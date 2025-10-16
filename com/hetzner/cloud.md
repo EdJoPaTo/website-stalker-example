@@ -9,57 +9,49 @@ hosting by Hetzner
  The best simple cloud solution that your demanding
 projects deserve.
 
- Choose your favorite Cloud Server
+CHOOSE YOUR FAVORITE CLOUD SERVER
 ----------
 
- Whether you're looking for the cloud server with the best price-performance ratio, need unshared power for your production workloads or want to take advantage of the Arm64 architecture, we have an option for you.
+Whether you're looking for the cloud server with the best price-performance ratio or need unshared power for your production workloads, we have an option for you.
 
-####  Shared vCPU  Intel®  ####
+####  Shared  Cost-Optimized  ####
 
- CX: Best price-performance ratio
+ Limited availibility
 
-from 3.79
+from 3.49
 
- See all plans
+ See plans
 
-####  Shared vCPU  AMD  ####
+####  Shared  Regular Performance  ####
 
- CPX: VPS based on AMD Epyc™
+ Best price-performance
 
-from 4.35
+from 4.99
 
- See all plans
+ See plans
 
-####  Shared vCPU  Ampere®  ####
+####  Dedicated  General Purpose  ####
 
- CAX: Efficient Arm64 architecture
-
-from 3.79
-
- See all plans
-
-####  Dedicated vCPU  ####
-
- CCX: Best for production workloads
+ Unshared power
 
 from 12.49
 
- See all plans
+ See plans
 
  WHICH CLOUD SERVER SHOULD I USE?
 ----------
 
-### Dedicated vCPU ###
+### Dedicated resources ###
 
-These dedicated plans have low latencies and are suitable for sustained high CPU and network use, making them ideal for business critical applications and production-ready use cases with high workloads. Use these plans for high-traffic websites and applications, gaming servers, machine learning, and big data processing. With our CCX plans, dedicated vCPUs are cheaper than ever!
+These dedicated plans have low latencies and are suitable for sustained high CPU and network use, making them ideal for business critical applications and production-ready uses cases with high workloads. Use these plans for high-traffic websites and applications, gaming servers, machine learning, and big data processing.
 
 It's time to take the next step and get your very own dedicated cloud instance to optimize your workload.
 
-### Shared vCPU ###
+### Shared resources ###
 
-In our shared vCPU plans, you share the hardware resources with "neighbors", so your apps are affected by how much neighbors use the vCPU, which can mean changing response times. Shared vCPU plans have the best price-performance ratio. They are suitable for development and production environments with medium levels of traffic and computing power demand.
+In our shared vCPU plans, you share the hardware resources with "neighbors", so your apps are affected by how much neighbors use the vCPU, which can mean changing response times. Shared resources have the best price-performance ratio. They are suitable for development and production environments with medium levels of traffic and network demand.
 
-Use these shared instances for development and test applications with low to medium levels of resource requirements and network traffic. They are ideally suited for small databases, micro services, content management systems or webservers with low to medium traffic.
+Use these shared instance plans for websites and applications with medium levels of traffic and for production environments.
 
 ### GDPR-compliant ###
 
@@ -73,32 +65,30 @@ All our cloud plans and other hosting offers are GDPR-compliant and comply with 
 
 ×
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
 High quality Cloud – unbeatable prices
 ----------
 
-Pay only for the hours you use if you have a server for less than a month. No minimum contract period required!
+Pay only for the hours you use, if you have a server for less than a month. No minimum contract period required!
 
- Shared vCPU  Intel®
+ Shared  Cost-Optimized
 
- Shared vCPU  AMD
+ New
 
- Shared vCPU  Ampere®
+ Shared  Regular Performance
 
- Dedicated vCPU
+ Dedicated  General Purpose
 
-Best price-performance ratio with Intel® Xeon® Gold
+Optimized for cost efficiency, available only in limited capacity.
 
-VPS with AMD EPYC™ 7002 series processors.
+Optimized for best price-performance for low to medium CPU usage.
 
-Efficient Arm64 architecture with Ampere® Altra® processors
-
-Optimize your workload with AMD Milan EPYC™ 7003 and AMD Genoa EPYC™ 9654 processors
+Optimized for consistent performance with dedicated vCPUs. Best choice for critical production workloads.
 
  Location
 
- Germany  Finland  Germany  Finland  Singapore  USA  Germany  Finland  Germany  Finland  Singapore  USA
+ Germany  Finland  Germany  Finland  Singapore  USA  Germany  Finland  Singapore  USA
 
 FSN1 NBG1 HEL1 HIL ASH SIN
 
@@ -116,7 +106,7 @@ save 0.50
 
 []()
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
  IPv4
 
@@ -130,7 +120,9 @@ Monthly
 
  Server
 
-###  CX22  ###
+###  CX23  ###
+
+ Intel ® / AMD
 
  VCPU
 
@@ -146,7 +138,7 @@ Monthly
 
  Traffic incl. []()
 
- TB  20 TB
+ 0 TB  0 TB  20 TB
 
  IPv4
 
@@ -154,13 +146,15 @@ Monthly
 
 Monthly
 
-0.0060 0.0052 0.0060 0.0052
+0.0056 0.0048 0.0056 0.0048
 
-3.79 3.29 3.79 3.29  max.
+3.49 2.99 3.49 2.99  max.
 
  Server
 
-###  CX32  ###
+###  CX33  ###
+
+ Intel ® / AMD
 
  VCPU
 
@@ -176,7 +170,7 @@ Monthly
 
  Traffic incl. []()
 
- TB  20 TB
+ 0 TB  0 TB  20 TB
 
  IPv4
 
@@ -184,13 +178,15 @@ Monthly
 
 Monthly
 
-0.0113 0.0105 0.0113 0.0105
+0.0088 0.008 0.0088 0.008
 
-6.80 6.3 6.80 6.3  max.
+5.49 4.99 5.49 4.99  max.
 
  Server
 
-###  CX42  ###
+###  CX43  ###
+
+ Intel ® / AMD
 
  VCPU
 
@@ -206,7 +202,7 @@ Monthly
 
  Traffic incl. []()
 
- TB  20 TB
+ 0 TB  0 TB  20 TB
 
  IPv4
 
@@ -214,13 +210,15 @@ Monthly
 
 Monthly
 
-0.0273 0.0265 0.0273 0.0265
+0.0152 0.0144 0.0152 0.0144
 
-16.40 15.9 16.40 15.9  max.
+9.49 8.99 9.49 8.99  max.
 
  Server
 
-###  CX52  ###
+###  CX53  ###
+
+ Intel ® / AMD
 
  VCPU
 
@@ -236,7 +234,7 @@ Monthly
 
  Traffic incl. []()
 
- TB  20 TB
+ 0 TB  0 TB  20 TB
 
  IPv4
 
@@ -244,13 +242,143 @@ Monthly
 
 Monthly
 
-0.0540 0.0532 0.0540 0.0532
+0.0280 0.0272 0.0280 0.0272
 
-32.40 31.9 32.40 31.9  max.
+17.49 16.99 17.49 16.99  max.
+
+ Server
+
+###  CAX11  ###
+
+ Ampere ®
+
+ VCPU
+
+ 2
+
+ RAM
+
+ 4 GB
+
+ NVMe SSD
+
+ 40 GB
+
+ Traffic incl. []()
+
+ 0 TB  0 TB  20 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0061 0.0053 0.0061 0.0053
+
+3.79 3.29 3.79 3.29  max.
+
+ Server
+
+###  CAX21  ###
+
+ Ampere ®
+
+ VCPU
+
+ 4
+
+ RAM
+
+ 8 GB
+
+ NVMe SSD
+
+ 80 GB
+
+ Traffic incl. []()
+
+ 0 TB  0 TB  20 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0104 0.0096 0.0104 0.0096
+
+6.49 5.99 6.49 5.99  max.
+
+ Server
+
+###  CAX31  ###
+
+ Ampere ®
+
+ VCPU
+
+ 8
+
+ RAM
+
+ 16 GB
+
+ NVMe SSD
+
+ 160 GB
+
+ Traffic incl. []()
+
+ 0 TB  0 TB  20 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0200 0.0192 0.0200 0.0192
+
+12.49 11.99 12.49 11.99  max.
+
+ Server
+
+###  CAX41  ###
+
+ Ampere ®
+
+ VCPU
+
+ 16
+
+ RAM
+
+ 32 GB
+
+ NVMe SSD
+
+ 320 GB
+
+ Traffic incl. []()
+
+ 0 TB  0 TB  20 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0392 0.0384 0.0392 0.0384
+
+24.49 23.99 24.49 23.99  max.
 
  Server
 
 ###  CPX11  ###
+
+ AMD
 
  VCPU
 
@@ -266,7 +394,7 @@ Monthly
 
  Traffic incl. []()
 
- 1 TB  1 TB  20 TB
+ 0  1 TB  0
 
  IPv4
 
@@ -274,13 +402,15 @@ Monthly
 
 Monthly
 
-0.0071 0.0063 0.0080 0.0072 0.0071 0.0063 0.0127 0.0119
+0.0080 0.0072
 
-4.35 3.85 4.99 4.49 4.35 3.85 7.90 7.4  max.
+4.99 4.49  max.
 
  Server
 
 ###  CPX21  ###
+
+ AMD
 
  VCPU
 
@@ -296,7 +426,7 @@ Monthly
 
  Traffic incl. []()
 
- 2 TB  2 TB  20 TB
+ 0  2 TB  0
 
  IPv4
 
@@ -304,13 +434,15 @@ Monthly
 
 Monthly
 
-0.0120 0.0112 0.0153 0.0145 0.0120 0.0112 0.0234 0.0226
+0.0153 0.0145
 
-7.55 7.05 9.49 8.99 7.55 7.05 14.60 14.1  max.
+9.49 8.99  max.
 
  Server
 
 ###  CPX31  ###
+
+ AMD
 
  VCPU
 
@@ -326,7 +458,7 @@ Monthly
 
  Traffic incl. []()
 
- 3 TB  3 TB  20 TB
+ 0  3 TB  0
 
  IPv4
 
@@ -334,13 +466,15 @@ Monthly
 
 Monthly
 
-0.0219 0.0211 0.0265 0.0257 0.0219 0.0211 0.0405 0.0397
+0.0265 0.0257
 
-13.60 13.1 16.49 15.99 13.60 13.1 25.30 24.8  max.
+16.49 15.99  max.
 
  Server
 
 ###  CPX41  ###
+
+ AMD
 
  VCPU
 
@@ -356,7 +490,7 @@ Monthly
 
  Traffic incl. []()
 
- 4 TB  4 TB  20 TB
+ 0  4 TB  0
 
  IPv4
 
@@ -364,13 +498,15 @@ Monthly
 
 Monthly
 
-0.0417 0.0409 0.0489 0.0481 0.0691 0.0683 0.0417 0.0409
+0.0489 0.0481
 
-25.20 24.7 30.49 29.99 43.10 42.6 25.20 24.7  max.
+30.49 29.99  max.
 
  Server
 
 ###  CPX51  ###
+
+ AMD
 
  VCPU
 
@@ -386,7 +522,7 @@ Monthly
 
  Traffic incl. []()
 
- 5 TB  5 TB  20 TB
+ 0  5 TB  0
 
  IPv4
 
@@ -394,13 +530,47 @@ Monthly
 
 Monthly
 
-0.0880 0.0872 0.0970 0.0962 0.0880 0.0872 0.1240 0.1232
+0.0970 0.0962
 
-54.90 54.4 60.49 59.99 54.90 54.4 77.40 76.9  max.
+60.49 59.99  max.
 
  Server
 
-###  CAX11  ###
+###  CPX12  ###
+
+ AMD
+
+ VCPU
+
+ 1
+
+ RAM
+
+ 2 GB
+
+ NVMe SSD
+
+ 40 GB
+
+ Traffic incl. []()
+
+ 0.5 TB  0 TB  0 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0104 0.0096
+
+6.49 5.99  max.
+
+ Server
+
+###  CPX22  ###
+
+ AMD
 
  VCPU
 
@@ -412,11 +582,11 @@ Monthly
 
  NVMe SSD
 
- 40 GB
+ 80 GB
 
  Traffic incl. []()
 
- TB  20 TB
+ 1 TB  0 TB  20 TB
 
  IPv4
 
@@ -424,13 +594,15 @@ Monthly
 
 Monthly
 
-0.0061 0.0053 0.0008 0 0.0061 0.0053
+0.0104 0.0096 0.0200 0.0192 0.0104 0.0096
 
-3.79 3.29 3.79 3.29  max.
+6.49 5.99 12.49 11.99 6.49 5.99  max.
 
  Server
 
-###  CAX21  ###
+###  CPX32  ###
+
+ AMD
 
  VCPU
 
@@ -442,11 +614,11 @@ Monthly
 
  NVMe SSD
 
- 80 GB
+ 160 GB
 
  Traffic incl. []()
 
- TB  20 TB
+ 2 TB  0 TB  20 TB
 
  IPv4
 
@@ -454,13 +626,15 @@ Monthly
 
 Monthly
 
-0.0104 0.0096 0.0008 0 0.0104 0.0096
+0.0176 0.0168 0.0408 0.04 0.0176 0.0168
 
-6.49 5.99 6.49 5.99  max.
+10.99 10.49 25.49 24.99 10.99 10.49  max.
 
  Server
 
-###  CAX31  ###
+###  CPX42  ###
+
+ AMD
 
  VCPU
 
@@ -472,11 +646,11 @@ Monthly
 
  NVMe SSD
 
- 160 GB
+ 320 GB
 
  Traffic incl. []()
 
- TB  20 TB
+ 3 TB  0 TB  20 TB
 
  IPv4
 
@@ -484,13 +658,47 @@ Monthly
 
 Monthly
 
-0.0200 0.0192 0.0008 0 0.0200 0.0192
+0.0320 0.0312 0.0320 0.0312 0.0697 0.0689
 
-12.49 11.99 12.49 11.99  max.
+19.99 19.49 19.99 19.49 43.49 42.99  max.
 
  Server
 
-###  CAX41  ###
+###  CPX52  ###
+
+ AMD
+
+ VCPU
+
+ 12
+
+ RAM
+
+ 24 GB
+
+ NVMe SSD
+
+ 480 GB
+
+ Traffic incl. []()
+
+ 4 TB  0 TB  20 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0457 0.0449 0.0969 0.0961 0.0457 0.0449
+
+28.49 27.99 60.49 59.99 28.49 27.99  max.
+
+ Server
+
+###  CPX62  ###
+
+ AMD
 
  VCPU
 
@@ -502,11 +710,11 @@ Monthly
 
  NVMe SSD
 
- 320 GB
+ 640 GB
 
  Traffic incl. []()
 
- TB  20 TB
+ 5 TB  0 TB  20 TB
 
  IPv4
 
@@ -514,13 +722,15 @@ Monthly
 
 Monthly
 
-0.0392 0.0384 0.0008 0 0.0392 0.0384
+0.0625 0.0617 0.0625 0.0617 0.1242 0.1234
 
-24.49 23.99 24.49 23.99  max.
+38.99 38.49 38.99 38.49 77.49 76.99  max.
 
  Server
 
 ###  CCX13  ###
+
+ AMD
 
  VCPU
 
@@ -544,13 +754,15 @@ Monthly
 
 Monthly
 
-0.0200 0.0192 0.0217 0.0209 0.0200 0.0192 0.0345 0.0337
+0.0200 0.0192 0.0217 0.0209 0.0345 0.0337 0.0200 0.0192
 
-12.49 11.99 13.49 12.99 12.49 11.99 21.50 21  max.
+12.49 11.99 13.49 12.99 21.50 21 12.49 11.99  max.
 
  Server
 
 ###  CCX23  ###
+
+ AMD
 
  VCPU
 
@@ -582,6 +794,8 @@ Monthly
 
 ###  CCX33  ###
 
+ AMD
+
  VCPU
 
  8
@@ -604,13 +818,15 @@ Monthly
 
 Monthly
 
-0.0777 0.0769 0.0810 0.0802 0.1200 0.1192 0.0777 0.0769
+0.0777 0.0769 0.0810 0.0802 0.0777 0.0769 0.1200 0.1192
 
-48.49 47.99 50.49 49.99 74.90 74.4 48.49 47.99  max.
+48.49 47.99 50.49 49.99 48.49 47.99 74.90 74.4  max.
 
  Server
 
 ###  CCX43  ###
+
+ AMD
 
  VCPU
 
@@ -634,13 +850,15 @@ Monthly
 
 Monthly
 
-0.1546 0.1538 0.1611 0.1603 0.2204 0.2196 0.1546 0.1538
+0.1546 0.1538 0.1611 0.1603 0.1546 0.1538 0.2204 0.2196
 
-96.49 95.99 100.49 99.99 137.50 137 96.49 95.99  max.
+96.49 95.99 100.49 99.99 96.49 95.99 137.50 137  max.
 
  Server
 
 ###  CCX53  ###
+
+ AMD
 
  VCPU
 
@@ -664,13 +882,15 @@ Monthly
 
 Monthly
 
-0.3085 0.3077 0.3213 0.3205 0.3085 0.3077 0.4720 0.4712
+0.3085 0.3077 0.3213 0.3205 0.4720 0.4712 0.3085 0.3077
 
-192.49 191.99 200.49 199.99 192.49 191.99 294.50 294  max.
+192.49 191.99 200.49 199.99 294.50 294 192.49 191.99  max.
 
  Server
 
 ###  CCX63  ###
+
+ AMD
 
  VCPU
 
@@ -694,11 +914,9 @@ Monthly
 
 Monthly
 
-0.4623 0.4615 0.4816 0.4808 0.4623 0.4615 0.7732 0.7724
+0.4623 0.4615 0.4816 0.4808 0.7732 0.7724 0.4623 0.4615
 
-288.49 287.99 300.49 299.99 288.49 287.99 482.50 482  max.
-
-These plans do not receive any new capacity and are only available if users cancel existing instances. The current availability can be seen in the Hetzner Console.
+288.49 287.99 300.49 299.99 482.50 482 288.49 287.99  max.
 
 [Get started](https://console.hetzner.cloud/)
 
@@ -803,7 +1021,7 @@ Ubuntu, Debian, Fedora, and more – you have a wide variety of operating system
 
 ### TRAFFIC ###
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 1 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 0.5 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
 ### APPS ###
 

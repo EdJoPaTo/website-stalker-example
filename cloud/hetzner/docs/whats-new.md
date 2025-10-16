@@ -15,7 +15,7 @@ For this change, we are introducing new server lines:
 
 * **Shared: Cloud Cost-Optimized** (CX\*3 · x86 / CAX · Arm64)
 
-  Based on older hardware generations (formerly CX\*2 & CPX\*1). They can run on either Intel® or AMD, depending on availability.
+  Based on older hardware generations (formerly CX\*2 & CPX\*1). CX server plans can run on either Intel® or AMD, depending on availability.
 
 * **Dedicated: Cloud General Purpose** (CCX · x86)
 
