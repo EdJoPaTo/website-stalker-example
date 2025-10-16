@@ -9,19 +9,22 @@ In the **locations EU and SIN**, server plans are no longer distinguished by har
 
 For this change, we are introducing new server lines:
 
-* **Shared: Cloud Regular Performance** (CPX\*2 · x86)
+* **Shared: Cloud Regular Performance** (CPX Gen2 · x86)
 
-  Always run on the most recent hardware generations available in a location.
+  Run on the more recent AMD hardware generations available in a location.
 
-* **Shared: Cloud Cost-Optimized** (CX\*3 · x86 / CAX · Arm64)
+* **Shared: Cloud Cost-Optimized** (CX Gen3 · x86 / CAX · Arm64)
 
-  Based on older hardware generations (formerly CX\*2 & CPX\*1). CX server plans can run on either Intel® or AMD, depending on availability.
+  CAX plans run on an Arm-based platform using Ampere® CPUs.
+  CX Gen3 plans are based on older hardware generations (formerly used by CX
+  Gen1 & Gen 2 and CPX Gen1). They can run on either Intel® or AMD, depending on
+  availability.
 
 * **Dedicated: Cloud General Purpose** (CCX · x86)
 
   Always run on the most recent hardware generations available in a location.
 
-Existing servers are not affected by the deprecation of CX\*2 and CPX\*1 plans and will continue to work.
+Existing servers are not affected by the deprecation of CX Gen2 and CPX Gen1 plans. They will continue to work.
 
 ### 🚀 DNS now in Hetzner Console ###
 

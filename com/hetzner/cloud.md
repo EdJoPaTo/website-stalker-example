@@ -9,7 +9,7 @@ hosting by Hetzner
  The best simple cloud solution that your demanding
 projects deserve.
 
- Choose your favorite Cloud Server
+ CHOOSE YOUR FAVORITE CLOUD SERVER
 ----------
 
  Whether you're looking for the cloud server with the best price-performance ratio or need unshared power for your production workloads, we have an option for you.
@@ -45,17 +45,13 @@ from 12.49
 
 These dedicated plans have low latencies and are suitable for sustained high CPU and network use, making them ideal for business critical applications and production-ready uses cases with high workloads. Use these plans for high-traffic websites and applications, gaming servers, machine learning, and big data processing.
 
-It's time to take the next step and get your very own dedicated cloud instance to optimize your workload.
-
 ### Shared resources ###
 
-In our shared vCPU plans, you share the hardware resources with "neighbors", so your apps are affected by how much neighbors use the vCPU, which can mean changing response times. Shared resources have the best price-performance ratio. They are suitable for development and production environments with medium levels of traffic and network demand.
-
-Use these shared instance plans for websites and applications with medium levels of traffic and for production environments.
+In our shared vCPU plans, you share the hardware resources with "neighbors", so your apps are affected by how much neighbors use the vCPU, which can mean changing response times. Shared resources have the best price-performance ratio. They are suitable for development and production environments with medium levels of traffic and network demand. Use these shared instance plans for websites and applications with medium levels of traffic and for production environments.
 
 ### GDPR-compliant ###
 
-All our cloud plans and other hosting offers are GDPR-compliant and comply with the strictest European data protection standards. This also applies to our locations in the USA and Singapore.
+All our cloud plans and other hosting offers are GDPR-compliant and comply with the strictest European data protection standards. This also applies to our locations in the USA and Singapore. You can find more details on data protection & cloud here.
 
 [Learn more about secure hosting](https://www.hetzner.com/european-cloud)
 
@@ -65,7 +61,7 @@ All our cloud plans and other hosting offers are GDPR-compliant and comply with 
 
 ×
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 0.5 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
 High quality Cloud – unbeatable prices
 ----------
@@ -106,7 +102,7 @@ save 0.50
 
 []()
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 0.5 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
 
  IPv4
 
@@ -927,7 +923,7 @@ Monthly
 
 ###  Volumes  ###
 
-Expand your cloud instance with high-availability SSD block storage for € 0.044 / GBper month.
+Expand your cloud instance with high-availability SSD block storage for € 0.044 GB / per month.
 
 0.0440 max./mo  Billing on an hourly basis
 
@@ -1021,7 +1017,7 @@ Ubuntu, Debian, Fedora, and more – you have a wide variety of operating system
 
 ### TRAFFIC ###
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations and 0.5 TB in Singapore and US locations. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge€ 1.00 in the EU and US, and € 7.40 in Singapore.
 
 ### APPS ###
 
@@ -1037,12 +1033,12 @@ Hetzner Online will safeguard your Hetzner cloud servers using the latest hardwa
 
 [GDPR compliancy](https://www.hetzner.com/european-cloud/) for your Cloud. You can create a Data Processing Agreement (DPA) online that will be in accordance with Article28 of the GDPR (General Data Protection Regulation). You can even enter the correct European location for your DPA.
 
-[Sign Up now](https://console.hetzner.cloud/)
+[Sign up now](https://console.hetzner.cloud/)
 
 ALL FEATURES ALSO AVAILABLE VIA REST API
 ----------
 
-All of the Hetzner Cloud features are also available via a [REST API](https://docs.hetzner.cloud/) and a [CLI tool](https://github.com/hetznercloud/cli) for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50.00 . For more information, click [here](https://docs.hetzner.com/cloud/api/faq#do-you-sponsor-efforts-to-integrate-hetzner-cloud-into-open-source-libs).
+All of the Hetzner Cloud features are also available via a [REST API](https://docs.hetzner.cloud/) and a [CLI tool](https://github.com/hetznercloud/cli) for developers so that you may automate your cloud infrastructure administration. It is easy to get started using our thorough documentation and programming examples. If you use the API to develop Open Source projects, you may be eligible for a credit on your account of up to € 50.00 . For more information, click [here](https://docs.hetzner.com/de/cloud/api/faq/#unterstutzen-sie-die-integration-von-hetzner-cloud-in-open-source-bibliotheken).
 
 Curl
 
