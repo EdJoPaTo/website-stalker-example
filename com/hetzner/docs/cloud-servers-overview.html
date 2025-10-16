@@ -7,7 +7,7 @@
 				Overview
 			</h1>
 			<small>
-				Last change on 2025-10-09 • Created on 2022-06-28 • ID: CL-B8510
+				Last change on 2025-10-16 • Created on 2022-06-28 • ID: CL-B8510
 			</small>
 			<article>
 				<h2>
@@ -27,7 +27,7 @@
 					Pricing
 				</h2>
 				<p>
-					Cloud server prices vary depending on the  (Shared vCPU, Dedicated vCPU) and do not include public IP addresses. Per server, you can add one Primary IP of each type (IPv4, IPv6), see .
+					Cloud server prices vary depending on the  (Shared Resources, Dedicated Resources) and do not include public IP addresses. Per server, you can add one Primary IP of each type (IPv4, IPv6), see .
 				</p>
 				<h4>
 					Server types
@@ -35,49 +35,89 @@
 				<p>
 					You can choose between
 					<strong>
-						Shared vCPU
+						Shared Resources
 					</strong>
 					and
 					<strong>
-						Dedicated vCPU
+						Dedicated Resources
 					</strong>
 					cloud servers.
 				</p>
-				<div>
-					<div>
-						<b>
-							Shared vCPU
-						</b>
-						<li>
-							For best performance, hypervisors are used to distribute usage rights of CPU resources among several virtual servers
-						</li>
-						<li>
-							Ideal for individual applications or development environments
-						</li>
-						<br>
-					</div>
-					<div>
-						<h3>
-						</h3>
-						<br>
-						<br>
-						<br>
-					</div>
-					<div>
-						<b>
-							Dedicated vCPU
-						</b>
-						<li>
-							Every dedicated vCPU instance has its own dedicated CPU resources
-						</li>
-						<li>
-							Ideal for CPU intensive applications or research calculations
-						</li>
-						<br>
-						<br>
-						<br>
-					</div>
-				</div>
+				<table>
+					<tbody>
+						<tr>
+							<th colspan="2">
+								Shared Resources
+							</th>
+							<th>
+								Dedicated Resources
+							</th>
+						</tr>
+						<tr>
+							<td>
+								Cost-Optimized
+							</td>
+							<td>
+								Regular Performance
+							</td>
+							<td>
+								General Purpose
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<small>
+									older hardware gen.
+								</small>
+							</td>
+							<td>
+								<small>
+									most recent hardware gen.
+								</small>
+							</td>
+							<td>
+								<small>
+									most recent hardware gen.
+								</small>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<br>
+								<ul>
+									<li>
+										For best performance, hypervisors are used to distribute usage rights
+        of CPU resources among several virtual servers
+									</li>
+								</ul>
+							</td>
+							<td>
+								<br>
+								<ul>
+									<li>
+										Every dedicated resources instance has its own dedicated CPU resources
+									</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<ul>
+									<li>
+										Ideal for individual applications or development environments
+									</li>
+								</ul>
+							</td>
+							<td>
+								<ul>
+									<li>
+										Ideal for CPU intensive applications or research calculations
+									</li>
+								</ul>
+							</td>
+						</tr>
+					</tbody>
+				</table>
 				<p>
 					For more information about available plans and prices, see
 					<a href="https://www.hetzner.com/cloud/#pricing" rel="noopener noreferrer">
@@ -281,7 +321,7 @@
 						By default, up to 5 servers
 					</li>
 					<li>
-						By default, up to 8 dedicated vCPU servers
+						By default, up to 8 dedicated resource servers
 					</li>
 					<li>
 						Up to 1 Primary IPv4 per server

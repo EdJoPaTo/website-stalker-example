@@ -3,6 +3,26 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### New server plans in EU and SIN ###
+
+In the **locations EU and SIN**, server plans are no longer distinguished by hardware type, but by **hardware generation**.
+
+For this change, we are introducing new server lines:
+
+* **Shared: Cloud Regular Performance** (CPX\*2 · x86)
+
+  Always run on the most recent hardware generations available in a location.
+
+* **Shared: Cloud Cost-Optimized** (CX\*3 · x86 / CAX · Arm64)
+
+  Based on older hardware generations (formerly CX\*2 & CPX\*1). They can run on either Intel® or AMD, depending on availability.
+
+* **Dedicated: Cloud General Purpose** (CCX · x86)
+
+  Always run on the most recent hardware generations available in a location.
+
+Existing servers are not affected by the deprecation of CX\*2 and CPX\*1 plans and will continue to work.
+
 ### 🚀 DNS now in Hetzner Console ###
 
 After Storage Boxes, DNS has also been moved from a separate panel into Hetzner Console.
