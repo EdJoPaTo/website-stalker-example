@@ -16,8 +16,6 @@ Root Server Angebote
 Leistungsstarke Root Server mit CPU- und RAM-Ressourcen die **deinen Anwendungen exklusiv zur Verfügung stehen**.
 Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](https://www.netcup.com/de/server) schätzt, für den ist ein Root Server die beste Wahl.
 
-BEST SELLER
-
 RS 1000 G12
 
 * AMD EPYC™ 9645

@@ -130,13 +130,8 @@ Telefonisch – unter der
 
 Funktastisch!
 
-**Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.**
-
-Crowdfunding:
-Mobilfunk und noch mehr, wir träumen von digitaler Infrastruktur mit Haltung!
-Sei dabei, bei unserem Hub Crowdfunding.
-
-[](https://www.startnext.com/wetell-hub)
+Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.
+==========
 
 * 3GB
 * 7GB
