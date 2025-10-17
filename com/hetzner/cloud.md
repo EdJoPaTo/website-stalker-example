@@ -148,102 +148,6 @@ Monthly
 
  Server
 
-###  CX33  ###
-
- Intel ® / AMD
-
- VCPU
-
- 4
-
- RAM
-
- 8 GB
-
- NVMe SSD
-
- 80 GB
-
- Traffic incl. []()
-
- 0 TB  0 TB  20 TB
-
- IPv4
-
- Hourly []()
-
-Monthly
-
-0.0088 0.008 0.0088 0.008
-
-5.49 4.99 5.49 4.99  max.
-
- Server
-
-###  CX43  ###
-
- Intel ® / AMD
-
- VCPU
-
- 8
-
- RAM
-
- 16 GB
-
- NVMe SSD
-
- 160 GB
-
- Traffic incl. []()
-
- 0 TB  0 TB  20 TB
-
- IPv4
-
- Hourly []()
-
-Monthly
-
-0.0152 0.0144 0.0152 0.0144
-
-9.49 8.99 9.49 8.99  max.
-
- Server
-
-###  CX53  ###
-
- Intel ® / AMD
-
- VCPU
-
- 16
-
- RAM
-
- 32 GB
-
- NVMe SSD
-
- 320 GB
-
- Traffic incl. []()
-
- 0 TB  0 TB  20 TB
-
- IPv4
-
- Hourly []()
-
-Monthly
-
-0.0280 0.0272 0.0280 0.0272
-
-17.49 16.99 17.49 16.99  max.
-
- Server
-
 ###  CAX11  ###
 
  Ampere ®
@@ -273,6 +177,38 @@ Monthly
 0.0061 0.0053 0.0061 0.0053
 
 3.79 3.29 3.79 3.29  max.
+
+ Server
+
+###  CX33  ###
+
+ Intel ® / AMD
+
+ VCPU
+
+ 4
+
+ RAM
+
+ 8 GB
+
+ NVMe SSD
+
+ 80 GB
+
+ Traffic incl. []()
+
+ 0 TB  0 TB  20 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0088 0.008 0.0088 0.008
+
+5.49 4.99 5.49 4.99  max.
 
  Server
 
@@ -308,6 +244,38 @@ Monthly
 
  Server
 
+###  CX43  ###
+
+ Intel ® / AMD
+
+ VCPU
+
+ 8
+
+ RAM
+
+ 16 GB
+
+ NVMe SSD
+
+ 160 GB
+
+ Traffic incl. []()
+
+ 0 TB  0 TB  20 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0152 0.0144 0.0152 0.0144
+
+9.49 8.99 9.49 8.99  max.
+
+ Server
+
 ###  CAX31  ###
 
  Ampere ®
@@ -337,6 +305,38 @@ Monthly
 0.0200 0.0192 0.0200 0.0192
 
 12.49 11.99 12.49 11.99  max.
+
+ Server
+
+###  CX53  ###
+
+ Intel ® / AMD
+
+ VCPU
+
+ 16
+
+ RAM
+
+ 32 GB
+
+ NVMe SSD
+
+ 320 GB
+
+ Traffic incl. []()
+
+ 0 TB  0 TB  20 TB
+
+ IPv4
+
+ Hourly []()
+
+Monthly
+
+0.0280 0.0272 0.0280 0.0272
+
+17.49 16.99 17.49 16.99  max.
 
  Server
 
