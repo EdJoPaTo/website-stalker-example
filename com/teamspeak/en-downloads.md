@@ -8,43 +8,43 @@ TeamSpeak is the ONLY tool you will need to connect online.
  Windows
 ----------
 
-###  Client 64-Bit  6.0.0-beta3.1  ###
+###  Client 64-Bit  6.0.0-beta3.2  ###
 
 ```
-SHA256: 5be70043406a98f8622266891e9dbf7a5057f9f9fc4d45f58f7456536c0dad05
+SHA256: 2d60712534a4b07ff0251ea83db1426901cbbd77e4741cd18a17e65d45cb7a5e
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3.1/teamspeak-client.msi)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3.2/teamspeak-client.msi)
 
  macOS
 ----------
 
-###  Client ARM  6.0.0-beta3.1  ###
+###  Client ARM  6.0.0-beta3.2  ###
 
 ```
-SHA256: 78b809efdec93ede68a7a62057b537cf59189d5cac9f69b703bbe5f27847be49
+SHA256: 308f342f51580202e566fd3d42729d5cc517071640809e2545ab5464ea9d23a2
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3.1/teamspeak-client-arm.dmg)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3.2/teamspeak-client-arm.dmg)
 
-###  Client Intel  6.0.0-beta3.1  ###
+###  Client Intel  6.0.0-beta3.2  ###
 
 ```
-SHA256: f33093d886f453f25fdb02d8db40a2c7f64629b30fb4908791e4a99458d38712
+SHA256: df0d13ef3095e3d2c239b225beeb5addd27fa26206bc1f698982611458268c0b
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3.1/teamspeak-client-intel.dmg)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3.2/teamspeak-client-intel.dmg)
 
  Linux
 ----------
 
-###  Client 64-Bit  6.0.0-beta3.1  ###
+###  Client 64-Bit  6.0.0-beta3.2  ###
 
 ```
-SHA256: 0962b29f8f4349682b909c9870fc0a533d8f07292f1507357fb1bfcafac76d65
+SHA256: b19ad81a89c1c37060512131a2fb3c196e44e78be1af78bf551f5e1fdfea8d63
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3.1/teamspeak-client.tar.gz)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta3.2/teamspeak-client.tar.gz)
 
 Third-Party Components
 ----------
