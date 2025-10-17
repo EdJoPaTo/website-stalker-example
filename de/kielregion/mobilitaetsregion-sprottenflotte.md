@@ -56,6 +56,12 @@ Bist du länger in der KielRegion zu Gast und brauchst ein Fahrrad? Dann schau d
 Aktuelles zur SprottenFlotte
 ----------
 
+[](https://www.kielregion.de/weiterhin-klimafreundlich-unterwegs-sprottenflotte-bleibt-auch-nach-tarifaenderung-die-guenstigste-mobilitaetsloesung-in-der-kielregion/)
+
+KielRegionMobilitätsRegionPressemitteilungenSprottenFlotte|13.10.2025
+
+### [Weiterhin klimafreundlich unterwegs: SprottenFlotte bleibt auch nach Tarifänderung die günstigste Mobilitätslösung in der KielRegion](https://www.kielregion.de/weiterhin-klimafreundlich-unterwegs-sprottenflotte-bleibt-auch-nach-tarifaenderung-die-guenstigste-mobilitaetsloesung-in-der-kielregion/) ###
+
 [](https://www.kielregion.de/neue-sprottenflotte-station-in-kronshagen/)
 
 MobilitätsRegionSprottenFlotte|04.09.2025
@@ -67,12 +73,6 @@ MobilitätsRegionSprottenFlotte|04.09.2025
 MobilitätsRegionSprottenFlotte|05.08.2025
 
 ### [Neue SprottenFlotte Stationen in Laboe](https://www.kielregion.de/neue-sprottenflotte-stationen-in-laboe/) ###
-
-[](https://www.kielregion.de/zusaetzliche-sprottenflotte-stationen-in-wellingdorf/)
-
-MobilitätsRegionSprottenFlotte|25.07.2025
-
-### [Zusätzliche SprottenFlotte Stationen in Wellingdorf](https://www.kielregion.de/zusaetzliche-sprottenflotte-stationen-in-wellingdorf/) ###
 
 Service & Support:
 \+49 (0) 30 255 58 56 17
