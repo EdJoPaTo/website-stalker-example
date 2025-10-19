@@ -99,6 +99,7 @@
 * [Baumhöhe messen](https://www.wdrmaus.de/filme/sachgeschichten/baumhoehe_messen.php5)
 * [Baumkuchen](https://www.wdrmaus.de/filme/sachgeschichten/baumkuchen.php5)
 * [Baumpfleger](https://www.wdrmaus.de/filme/sachgeschichten/baumpflege.php5)
+* [Baumsamen](https://www.wdrmaus.de/filme/sachgeschichten/baumsamen.php5)
 * [Baumschule Teil 1](https://www.wdrmaus.de/filme/sachgeschichten/baumschule_teil1.php5)
 * [Baumschule Teil 2](https://www.wdrmaus.de/filme/sachgeschichten/baumschule_teil2.php5)
 * [Baumschule Teil 3](https://www.wdrmaus.de/filme/sachgeschichten/baumschule_teil3.php5)
