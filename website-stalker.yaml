@@ -159,6 +159,9 @@ sites:
       - css_remove: img, svg, style, script, a:not([href]), .loading-placeholder
       - css_remove: article:has(section .submenu__item a.no-link-style) # nav
       - css_remove: .grid-container:has(input) # Local Block Storage Preisrechner
+      - regex_replace:
+          pattern: BEST SELLER[\s\n]*
+          replace: ""
       - html_url_canonicalize
       - html_markdownify
   - url: https://www.netcup.com/de/deals?all
