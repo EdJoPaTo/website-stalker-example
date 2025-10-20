@@ -119,30 +119,6 @@ Easy
 
  Community Forum
 
- Project Bluefin
-
-Project Bluefin
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13)
-
-[Setup Guide](https://docs.projectbluefin.io/framework-13)
-
-[Project Bluefin Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-laptop-12/66959)
-
-[Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-laptop-12/66959)
-
  Arch Linux
 
 Arch Linux
@@ -345,30 +321,6 @@ Medium difficulty
 
 [Community Forum](https://community.frame.work/t/nixos-on-the-framework-desktop/66984)
 
- Project Bluefin
-
-Project Bluefin
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13)
-
-[Setup Guide](https://docs.projectbluefin.io/framework-13)
-
-[Project Bluefin Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-desktop/66981)
-
-[Community Forum](https://community.frame.work/t/project-bluefin-on-the-framework-desktop/66981)
-
 ### Framework Laptop 13 (AMD Ryzen™ AI 300 Series) Compatibility ###
 
 ##### 📦 Kernel support #####
@@ -519,34 +471,6 @@ Medium difficulty
 
 [Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
- Project Bluefin
-
-Project Bluefin
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13/)
-
-[Setup Guide](https://docs.projectbluefin.io/framework-13/)
-
-[Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
-[Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
 ### Framework Laptop 13 (Intel® Core™ Ultra Series 1) Compatibility ###
 
 ##### 📦 Kernel support #####
@@ -668,34 +592,6 @@ Easy
  Setup Guide
 
  Community Forum
-
- Project Bluefin
-
-Project Bluefin
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13/)
-
-[Setup Guide](https://docs.projectbluefin.io/framework-13/)
-
-[Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
-[Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
 
  Arch Linux
 
@@ -931,34 +827,6 @@ Easy
 
  Community Forum
 
- Project Bluefin
-
-Project Bluefin
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13/)
-
-[Setup Guide](https://docs.projectbluefin.io/framework-13/)
-
-[Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
-[Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
  Arch Linux
 
 Arch Linux
@@ -1193,34 +1061,6 @@ Easy
 
  Community Forum
 
- Project Bluefin
-
-Project Bluefin
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-16/)
-
-[Setup Guide](https://docs.projectbluefin.io/framework-16/)
-
-[Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-framework-laptop-16/51304)
-
-[Community Forum](https://community.frame.work/t/bluefin-project-community-page-framework-laptop-16/51304)
-
  Arch Linux
 
 Arch Linux
@@ -1452,34 +1292,6 @@ Easy
  Setup Guide
 
  Community Forum
-
- Project Bluefin
-
-Project Bluefin
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Fingerprint Reader
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Project Bluefin Setup Guide](https://docs.projectbluefin.io/framework-13/)
-
-[Setup Guide](https://docs.projectbluefin.io/framework-13/)
-
-[Project Bluefin Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
-
-[Community Forum](https://community.frame.work/t/bluefin-project-community-page-fw-13-amd-intel/51302)
 
  Arch Linux
 
