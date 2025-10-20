@@ -25,13 +25,13 @@ Up to 32GB DDR4 memory
 
  Power Plug
 
- UK Plug
+ US Plug
+
+US Plug  Type A
 
 UK Plug  Type G
 
 EU Plug  Type F
-
-US Plug  Type A
 
 AU Plug  Type I
 
