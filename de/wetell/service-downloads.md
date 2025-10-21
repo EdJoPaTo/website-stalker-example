@@ -16,11 +16,11 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### Preislisten ####
 
-  * [Preisliste Ultrakurz](/media/filer_public/38/6b/386b2662-5226-47e3-910e-abdb23314cdd/preisliste_01_ultrakurz_2024.pdf)
-  * [Preisliste Mikrofon](/media/filer_public/26/c4/26c4e00c-64f9-4486-98ce-169b8650b882/preisliste_02_mikrofon_2024-12.pdf)
-  * [Preisliste Mittelwelle](/media/filer_public/f4/0d/f40dfcbc-956e-4509-8d7f-6a6c24156b53/preisliste_03_mittelwelle_2024-12.pdf)
-  * [Preisliste Megafon](/media/filer_public/e4/49/e449fa7b-7202-4e47-8c6b-525a704f93de/preisliste_04_megafon_2024-12.pdf)
-  * [Preisliste Ueberschall](/media/filer_public/06/60/0660eca5-196e-4f00-a4e7-f0f1e9140d76/preisliste_05_ueberschall_2024-12.pdf)
+  * [Preisliste Ultrakurz](/media/filer_public/b8/24/b8242024-966d-4ec8-9c20-4731143d3c37/preisliste_01_ultrakurz_2025-10.pdf)
+  * [Preisliste Mikrofon](/media/filer_public/04/9a/049a59b0-4b10-4c50-aa49-48aa03024e6d/preisliste_02_mikrofon_2025-10.pdf)
+  * [Preisliste Mittelwelle](/media/filer_public/3d/3a/3d3a4f16-3ef7-4ae3-a9ef-d1f32b9d405b/preisliste_03_mittelwelle_2025-10.pdf)
+  * [Preisliste Megafon](/media/filer_public/09/19/0919816b-7e0f-495d-8d61-7dfd81697cdf/preisliste_04_megafon_2025-10.pdf)
+  * [Preisliste Ueberschall](/media/filer_public/30/fc/30fc976f-b842-4d83-af54-dd829743169d/preisliste_05_ueberschall_2025-10.pdf)
   * [Preisliste GigaMobil Unlimited](/media/filer_public/a3/b3/a3b397fc-35fd-4353-a7c8-5f65674a38b7/preisliste_gigamobil_unlimited.pdf)
   * [Preisliste Sonderrufnummern](/media/filer_public/41/be/41bec59f-5359-45d1-a738-ec5d06afc939/preisliste_sonderrrufnummern.pdf)
   * [Preisliste Premium-SMS](/media/filer_public/b0/67/b067f2c0-b457-46e3-9b3f-94d1e40b0559/preisliste_premiumsms.pdf)
