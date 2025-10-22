@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### RÜGEN ###
+### SCHAFFHAUSEN ###
 
-### 18. - 19. OKTOBER 2025 ###
+### 25. - 26. OKTOBER 2025 ###
 
 ### 100 km (+ ziel bei 50 km) ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/ruegen)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/schaffhausen)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -184,7 +184,7 @@ IN DEINER NÄHE!
 | FREIBURG (25KM)  |27/09/2025|26/09/2026|
 |       BERN       |04/10/2025|03/10/2026|
 |    FRANKFURT     |11/10/2025|10/10/2026|
-|      RÜGEN       |18/10/2025|          |
+|      RÜGEN       |18/10/2025|17/10/2026|
 |   SCHAFFHAUSEN   |25/10/2025|          |
 |     NÜRNBERG     |08/11/2025|          |
 
