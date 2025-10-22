@@ -98,7 +98,7 @@ External adapters are a thing of the past. The Framework Expansion Card system l
 
  Screen
 
-A 13.5” screen in a taller 3:2 aspect ratio for more efficient browsing, coding, writing, and more — now available in matte (2256x1504) and 2.8k (2880x1920, matte surface) offerings for improved visibility.
+A 13.5” screen in a taller 3:2 aspect ratio for more efficient browsing, coding, writing, and more — now available in 2.2K (2256x1504, matte surface) and 2.8K (2880x1920, matte surface) offerings for improved visibility.
 
  Webcam
 

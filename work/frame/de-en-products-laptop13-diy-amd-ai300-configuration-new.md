@@ -83,7 +83,7 @@ System
 
 Display
 
-* Matte Display
+* 2.2K Display
 
   * 13.5" 2256 x 1504 60Hz matte display
 
