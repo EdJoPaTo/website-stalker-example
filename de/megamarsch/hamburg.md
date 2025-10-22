@@ -1,15 +1,17 @@
-Hamburg
+Megamarsch Hamburg
 
-### 11.-12.04.2026 ###
+11.-12.04.2026
+----------
 
 [TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
-die HAFENSTADT im Norden
-==========
+Megamarsch Hamburg -
+100 km wandern zwischen Elbe und Alster
+----------
 
-100 km lang Hamburg erleben - eine Challenge, die Dein Durchhaltevermögen testet und Dich mit unvergesslichen Erinnerungen belohnt. Entlang des 2. Grünen Rings führt Dich die Strecke durch grüne Parks, Waldgebiete, urbane Räume und an Flüssen und Seen vorbei. Dabei erwarten Dich kaum Höhenmeter, sodass die Strecke ideal ist für alle, die sich zum ersten Mal an die Distanz von 100 km wagen. Egal, ob Einsteiger oder erfahrener Wanderer. Lass Dich von der einzigartigen Atmosphäre Hamburgs motivieren und erlebe die Stadt und ihre Natur von einer ganz neuen Seite.
+Der Megamarsch Hamburg ist eines der traditionsreichsten Events der Reihe und begeistert jedes Jahr tausende Teilnehmer. Über 100 km in 24 Stunden führt die Extremwanderung quer durch die Hafenstadt – vom Elbufer über den Stadtpark bis in die grünen Außenbezirke.
 
-​
+Die Strecke vereint Natur, Ausdauer und Abenteuer und zeigt Hamburg von einer Seite, die nur zu Fuß wirklich erlebbar ist. Wer hier antritt, spürt die besondere Atmosphäre der Stadt und den Zusammenhalt einer Bewegung, die das Wandern in Deutschland neu definiert hat.
 
 [TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
@@ -76,7 +78,8 @@ Bei einem 100 km Finish
 
 Hamburg Booklet
 
-#### Strecke ####
+Strecke
+----------
 
 ###### - ca. 330 HÖHENMETER - ######
 
@@ -90,7 +93,8 @@ Hamburg Booklet
 
 [TICKET SICHERN](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
-#### unsere PARTNER ####
+unsere PARTNER
+----------
 
 Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbranche versorgen sie Euch mit verlässlicher Ausrüstung für euren nächsten Megamarsch
 
@@ -126,7 +130,8 @@ es schaffen! ####
 
 [JETZT TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
-#### Funktionsshirt ####
+Funktionsshirt
+----------
 
 Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg 2026.\*
 Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challenge! Atmungsaktiv, feuchtigkeitsregulierend und strapazierfähig. Das Design wird sich an dem jeweiligen Event orientieren und ist dadurch Deine persönliche Erinnerung für Deine Challenge. Hol Dir jetzt Dein Funktionsshirt für Dein kommendes unvergessliches Abenteuer!
@@ -154,9 +159,8 @@ TICKETPREIS
 
 [Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
-### REGULAR  ###
-
-### Ticket ###
+### REGULAR
+Ticket ###
 
 JULI - ENDE DEZEMBER
 
