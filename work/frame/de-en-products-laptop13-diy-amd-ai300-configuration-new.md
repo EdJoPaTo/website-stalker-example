@@ -37,7 +37,7 @@ FAQs
 
 * What is the difference between the Framework Laptop 13 (Intel® Core™ Ultra Series 1) and the Framework Laptop 13 AMD Ryzen™ AI 300 Series)?
 
-  Both AMD and Intel offer incredible performance and the choice between them will come down to personal preference. The Intel® Core™ Ultra Series 1 and the AMD Ryzen™ AI 300 Series laptops contain the same system-level improvements including increased battery capacity options, louder speakers, more stable hinges, and the option to choose between a Matte and 2.8K Display.
+  Both AMD and Intel offer incredible performance and the choice between them will come down to personal preference. The Intel® Core™ Ultra Series 1 and the AMD Ryzen™ AI 300 Series laptops contain the same system-level improvements including increased battery capacity options, louder speakers, more stable hinges, and the option to choose between a 2.2K and 2.8K Display.
 
 * Can I upgrade my CPU later?
 
@@ -85,7 +85,7 @@ Display
 
 * 2.2K Display
 
-  * 13.5" 2256 x 1504 60Hz matte display
+  * 13.5" 2256 x 1504 60Hz 2.2K matte display
 
 * 2.8K Display
 
