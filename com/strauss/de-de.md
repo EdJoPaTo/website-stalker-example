@@ -10,7 +10,7 @@ wetterfest!
  Warmes Fleece-Futter &
 volles S7S Schutzpaket
 
-[S7S e.s. Woodside mid](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-woodside-mid-1400140-93226-1479.html?itemorigin=startseite_HW25&category=Sicherheitsschuhe_S7)
+[S7S e.s. Woodside mid](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-woodside-mid-1400140-93226-1479.html?itemorigin=startseite_HW25)
 
 alle wetterfesten Schuhneuheiten
 
@@ -33,9 +33,9 @@ WIRD BUNTER
  Sportliche Workwear
 in neuer Farbe
 
-[Hybrid Funktionshose e.s.trail](https://www.strauss.com/de/de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96087-1880.html?itemorigin=startseite_HW25&category=Bundhosen)
+[Hybrid Funktionshose e.s.trail](https://www.strauss.com/de/de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96087-1880.html?itemorigin=startseite_HW25)
 
-[Winterjacke e.s.trail](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-e-s-trail-3134970-71637-1879.html?itemorigin=startseite_HW25&category=Winterjacken)
+[Winterjacke e.s.trail](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-e-s-trail-3134970-71637-1879.html?itemorigin=startseite_HW25)
 
 *
 *
@@ -83,9 +83,9 @@ Revolution
 
  Wetterschutzjacke mit einklickbarer Weste
 
-[für Damen](https://www.strauss.com/de/de/3-in-1-arbeitsjacken-damen/3-in-1-funktionsjacke-e-s-ambition-damen-3140680-78682-1498.html?itemorigin=Startseite_HW25&category=Damen_3_in_1_Jacken)
+[für Damen](https://www.strauss.com/de/de/3-in-1-arbeitsjacken-damen/3-in-1-funktionsjacke-e-s-ambition-damen-3140680-78682-1498.html?itemorigin=Startseite_HW25)
 
-[für Herren](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-ambition-3140690-78672-1498.html?itemorigin=Startseite_HW25&category=Doppeljacken)
+[für Herren](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-ambition-3140690-78672-1498.html?itemorigin=Startseite_HW25)
 
 **Perfekt ausgerüstet** für den Herbst!
 
@@ -103,11 +103,11 @@ Workwear für Herren
 
 Workwear für Damen
 
-[O2 Berufsschuhe e.s. Minkar II](https://www.strauss.com/de/de/berufsschuhe-o2/o2-berufsschuhe-e-s-minkar-ii-1003160-86993-1756.html?itemorigin=startseite_HW25&category=Berufsschuhe_O2)
+[O2 Berufsschuhe e.s. Minkar II](https://www.strauss.com/de/de/berufsschuhe-o2/o2-berufsschuhe-e-s-minkar-ii-1003160-86993-1756.html?itemorigin=startseite_HW25)
 
 [Gartenscheren](https://www.strauss.com/de/de/gartenscheren/?itemorigin=startseite_HW25)
 
-[Handschuhe e.s.trail](https://www.strauss.com/de/de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-light-graphic-2101250-7620007-1741.html?itemorigin=startseite_HW25&category=Hybrid)
+[Handschuhe e.s.trail](https://www.strauss.com/de/de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-light-graphic-2101250-7620007-1741.html?itemorigin=startseite_HW25)
 
 Personalisierte Outfits für jeden Anlass
 
