@@ -25,7 +25,9 @@ Raspberry Pi OS (64-bit)
 * [CM5](/products/compute-module-5/)
 * [Zero 2 W](/products/raspberry-pi-zero-2-w/)
 
-### Raspberry Pi OS with desktop ###
+### Raspberry Pi OS ###
+
+A port of Debian Trixie with the Raspberry Pi Desktop
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -40,7 +42,9 @@ Raspberry Pi OS (64-bit)
 [View archive](https://downloads.raspberrypi.com/raspios_arm64/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt)
 
-### Raspberry Pi OS with desktop and recommended software ###
+### Raspberry Pi OS Full ###
+
+A port of Debian Trixie with desktop environment and recommended applications
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -56,6 +60,8 @@ Raspberry Pi OS (64-bit)
 [View release notes](https://downloads.raspberrypi.com/raspios_full_arm64/release_notes.txt)
 
 ### Raspberry Pi OS Lite ###
+
+A port of Debian Trixie with no desktop environment
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -77,7 +83,9 @@ Raspberry Pi OS (32-bit)
 
 * [All Raspberry Pi models](/products/)
 
-### Raspberry Pi OS with desktop ###
+### Raspberry Pi OS ###
+
+A port of Debian Trixie with the Raspberry Pi Desktop
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -92,7 +100,9 @@ Raspberry Pi OS (32-bit)
 [View archive](https://downloads.raspberrypi.com/raspios_armhf/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_armhf/release_notes.txt)
 
-### Raspberry Pi OS with desktop and recommended software ###
+### Raspberry Pi OS Full ###
+
+A port of Debian Trixie with desktop environment and recommended applications
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -108,6 +118,8 @@ Raspberry Pi OS (32-bit)
 [View release notes](https://downloads.raspberrypi.com/raspios_full_armhf/release_notes.txt)
 
 ### Raspberry Pi OS Lite ###
+
+A port of Debian Trixie with no desktop environment
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -142,7 +154,9 @@ Raspberry Pi OS (Legacy, 64-bit)
 * [CM5](/products/compute-module-5/)
 * [Zero 2 W](/products/raspberry-pi-zero-2-w/)
 
-### Raspberry Pi OS (Legacy) with desktop ###
+### Raspberry Pi OS (Legacy) ###
+
+A port of Debian Bookworm with security updates and desktop environment
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -157,7 +171,9 @@ Raspberry Pi OS (Legacy, 64-bit)
 [View archive](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_arm64/release_notes.txt)
 
-### Raspberry Pi OS (Legacy) with desktop and recommended software ###
+### Raspberry Pi OS (Legacy) Full ###
+
+A port of Debian Bookworm with security updates, desktop environment and recommended applications
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -173,6 +189,8 @@ Raspberry Pi OS (Legacy, 64-bit)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/release_notes.txt)
 
 ### Raspberry Pi OS (Legacy) Lite ###
+
+A port of Debian Bookworm with security updates and no desktop environment
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -209,7 +227,9 @@ Raspberry Pi OS (Legacy, 32-bit)
 * [CM4S](/products/compute-module-4s/)
 * [Zero 2 W](/products/raspberry-pi-zero-2-w/)
 
-### Raspberry Pi OS (Legacy) with desktop ###
+### Raspberry Pi OS (Legacy) ###
+
+A port of Debian Bookworm with security updates and desktop environment
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -224,7 +244,9 @@ Raspberry Pi OS (Legacy, 32-bit)
 [View archive](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_armhf/release_notes.txt)
 
-### Raspberry Pi OS (Legacy) with desktop and recommended software ###
+### Raspberry Pi OS (Legacy) Full ###
+
+A port of Debian Bookworm with security updates, desktop environment and recommended applications
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -240,6 +262,8 @@ Raspberry Pi OS (Legacy, 32-bit)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/release_notes.txt)
 
 ### Raspberry Pi OS (Legacy) Lite ###
+
+A port of Debian Bookworm with security updates and no desktop environment
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -261,7 +285,9 @@ Raspberry Pi Desktop
 
 * PC and Mac
 
-### Debian Bullseye with Raspberry Pi Desktop ###
+### Raspberry Pi OS ###
+
+A port of Debian Bullseye with Raspberry Pi Desktop
 
 | Release date | 1 Jul 2022  |
 |--------------|-------------|
