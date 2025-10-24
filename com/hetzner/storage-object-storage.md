@@ -46,9 +46,9 @@ HEL1
 
  Data is stored securely and for long periods of time
 
- Scaleable
+ Scalable
 
- Customizable and individually expandable storage capacity
+Customizable and individually expandable storage capacity
 
  Object locking
 
