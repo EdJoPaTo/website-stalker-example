@@ -30,6 +30,8 @@ Häufig gestellte Fragen
 
 Die Deutsche Bahn informiert Sie transparent darüber, dass Bund und Länder den monatlichen Preis des Tickets auf 63 Euro erhöht haben. Im Sinne des Verbraucherschutzes fragen wir Sie, ob Sie Ihr Deutschland-Ticket-Abonnement auch zu den neuen Konditionen mit uns als Partnerin fortsetzen möchten und holen Ihre aktive Zustimmung dazu ein.
 
+Sie haben ab dem 15.Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-fortsetzung-aktive-zustimmung)
 
 ###  Mein Deutschland-Ticket wurde gekündigt. Was kann ich tun, wenn ich auch in 2026 das Angebot nutzen möchte?  ###
@@ -58,6 +60,8 @@ Sollten Sie die Frist zum 30. November 2025 verpasst haben oder möchten Sie Ihr
 
 **Bitte beachten Sie:** Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
 
+Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
+
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung)
@@ -67,6 +71,8 @@ Sollten Sie die Frist zum 30. November 2025 verpasst haben oder möchten Sie Ihr
 Da Sie der Weiterführung des Abonnement-Vertrages nicht zugestimmt, bzw. die Frist für die Rückmeldung verpasst haben, haben wir Ihr Deutschland-Ticket Abonnement fristgerecht zum 31. Dezember 2025 gekündigt. Darüber haben wir die Vertragspartnerin oder den Vetragspartner, das ist die bestellende Person des Abos, über die im Aboportal hinterlegte E-Mail-Adresse informiert. Wenn Sie im Januar 2026 feststellen, dass Sie dennoch ein Deutschland-Ticket benötigen, schließen Sie bitte ein neues Abonnement ab.
 
 **Bitte beachten Sie**: Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
+
+Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -94,6 +100,8 @@ In den meisten Fällen: Ja. Wenn Sie Ihr Deutschland-Ticket Jobticket im Abonnem
 
 **Ausnahme:** Falls Ihr Arbeitgeber den monatlichen Abopreis für das Jobticket vollständig übernimmt, müssen Sie der Preiserhöhung nicht zustimmen. Das Abo wird fortgeführt, sofern das Unternehmen den Rahmenvertrag mit der Deutschen Bahn beibehält.
 
+Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
+
 * [Weitere Informationen zum Deutschland-Ticket als Jobticket](https://www.bahn.de/angebot/pendler/rahmenvertrag-deutschland-ticket)
 * [Zum Abo-Portal](https://abo.bahn.de/#/)
 
@@ -118,6 +126,8 @@ Loggen Sie sich mit Ihrem bahn.de-Account ein und rufen Sie Ihr Deutschland-Tick
 Öffnen Sie den DB Navigator und Ihr Deutschland-Ticket mit dem sichtbaren QR-Code. Klicken Sie ganz unten auf der Seite auf die Menüauswahl mit den drei Punkten. Wählen Sie „Vertragsänderungen zustimmen“ aus. Wenn Sie den Button nicht sehen können, wählen Sie bitte „zum Aboportal“ aus. Sie werden direkt in das Aboportal weitergeleitet. Dort können Sie den neuen Tarifbedingungen zustimmen oder diese ablehnen.
 
 **Bitte beachten Sie:** Zustimmen kann nur die Vertragspartnerin oder der Vetragspartner, das ist die **bestellende Person des Abos**. Wenn Sie das Deutschland-Ticket nutzen, aber jemand anderes es für Sie bestellt hat, machen Sie diese bestellende Person bitte darauf aufmerksam, dass sie bis zum 30. November 2025 der Preisanpassung zustimmt, damit Sie Ihr Ticket auch 2026 weiter nutzen können.
+
+Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
