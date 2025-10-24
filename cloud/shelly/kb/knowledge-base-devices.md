@@ -204,6 +204,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 ----------
 
 * [Shelly AZ Plug](https://kb.shelly.cloud/knowledge-base/shelly-az-plug)
+* [Shelly AZ H&T](https://kb.shelly.cloud/knowledge-base/shelly-az-h-t)
 
  Add-ons
 ----------
