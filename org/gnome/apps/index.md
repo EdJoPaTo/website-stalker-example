@@ -86,7 +86,6 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Junction**Application chooser](Junction/)
 * [**Keypunch**Practice your typing skills](Keypunch/)
 * [**Komikku**Discover and read manga & comics](Komikku/)
-* [**Letterpress**Create beautiful ASCII art](Letterpress/)
 * [**Lorem**Generate placeholder text](Lorem/)
 * [**Mahjongg**Match tiles and clear the board](Mahjongg/)
 * [**Mousai**Identify songs in seconds](Mousai/)
