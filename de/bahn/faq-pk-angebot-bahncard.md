@@ -73,7 +73,7 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
  Haben Sie schon ein SEPA-Lastschriftmandat eingerichtet und trotzdem eine Mahnung für Ihre BahnCard erhalten?
 ----------
 
-Das ist möglich. Bitte beachten Sie: Das Erteilen des SEPA-Lastschriftmandats im Kundenkonto gilt nur für Ticket-Buchungen, **nicht aber für die BahnCard**.
+Das ist möglich. Bitte beachten Sie: Das Erteilen des SEPA-Lastschriftmandats im DB Kundenkonto gilt nur für Ticket-Buchungen, **nicht aber für die BahnCard**.
 
 [Anmeldung zum SEPA-Lastschriftmandat für die BahnCard](https://www.bahn.de/285670933115.cms.prd.default.cmspublic/prd-default/wmedia/redaktion/aushaenge/bahncard/Anmeldung-SEPA-Lastschriftmandat_BahnCard.pdf)
 
