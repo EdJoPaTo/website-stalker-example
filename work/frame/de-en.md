@@ -50,8 +50,6 @@ working on with the Framework Newsletter. ###
 
 ### Keep track of what we’re working on with the Framework Newsletter. ###
 
-Monthly-ish
-
 ```
 Let’s fix 🪛 Consumer Electronics.
 ```

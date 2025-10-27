@@ -146,7 +146,8 @@ working on with the Framework
 Newsletter.
 ----------
 
-Monthly-ish
+Keep track of what we're working on with the Framework Newsletter.
+----------
 
 ### Help shape future Framework products.
 Click below to take a quick survey. ###
