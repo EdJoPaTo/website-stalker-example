@@ -141,13 +141,12 @@ We’re diverting the waste stream by maximizing the use of post-consumer-recycl
 
 [Learn more](/sustainability)
 
-Keep track of what we're
-working on with the Framework
-Newsletter.
-----------
+### Keep track of what we’re
+working on with the Framework Newsletter. ###
 
-Keep track of what we're working on with the Framework Newsletter.
-----------
+### Keep track of what we're working on with the Framework Newsletter. ###
+
+Monthly-ish
 
 ### Help shape future Framework products.
 Click below to take a quick survey. ###
