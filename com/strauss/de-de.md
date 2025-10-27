@@ -1,179 +1,217 @@
-Herbst-Trend:
-wetterfest!
+Lässig im
+ Regen stehen
 ----------
 
 ---
 
- Schuh mit Zehenschutz
----
+ e.s.e:pic:
+vielseitig & wetterfest
 
- Warmes Fleece-Futter &
-volles S7S Schutzpaket
+[Regenjacken für Herren](https://www.strauss.com/de/de/arbeits-regenjacken/?=&sort=newest&itemOrigin=startseite_HW25)
 
-[S7S e.s. Woodside mid](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-woodside-mid-1400140-93226-1479.html?itemorigin=startseite_HW25)
+[Regenjacken für Damen](https://www.strauss.com/de/de/regenjacken-damen/?=&sort=newest&itemOrigin=startseite_HW25)
 
-alle wetterfesten Schuhneuheiten
+ Regenparka
+e.s.e:pic
 
- Herbst-Styles in schwarz-seegrün
+ Regenparka
+e.s.e:pic, Damen
+
+ Wetter-Profis
+mit Profil
 ----------
 
 ---
 
- WETTER: FRISCH
-MOTION 2020: FRISCHER
+ O6 e.s. Ridgewood:
+wasserdicht & bequem
 
-[jetzt entdecken](https://www.strauss.com/de/de/neuheiten-e-s-motion-2020-schwarz-seegruen?itemOrigin=startseite_HW25)
+[jetzt entdecken](https://www.strauss.com/de/de/berufsschuhe-o6/o6-berufsschuhe-e-s-ridgewood-mid-1003410-86202-1875.html?itemorigin=startseite_HW25)
 
- DER HERBST
-WIRD BUNTER
+alle wetterfesten Berufsschuhe
+
+Schuh ohne Zehenschutz
+
+ O6 Berufsschuhe
+e.s. Ridgewood mid
+
+ Winter in
+ Top-Form
 ----------
 
 ---
 
- Sportliche Workwear
-in neuer Farbe
+ e.s.ambition:
+ leicht & sportlich
 
-[Hybrid Funktionshose e.s.trail](https://www.strauss.com/de/de/bundhosen/hybrid-funktionshose-e-s-trail-3164240-96087-1880.html?itemorigin=startseite_HW25)
+[zu den Produkten](https://www.strauss.com/de/de/e-s-ambition/?itemOrigin=startseite_HW25)
 
-[Winterjacke e.s.trail](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-e-s-trail-3134970-71637-1879.html?itemorigin=startseite_HW25)
+[Kollektion entdecken](https://www.strauss.com/de/de/ambition?itemOrigin=startseite_HW25)
+
+ Winterjacke
+e.s.ambition
+
+ Winterjacke
+e.s.ambition, Damen
 
 *
 *
 *
 
- Wahre Herbst-Helden: Übergangsjacken
+ Neue Heizartikel für die kalte Jahreszeit
 ----------
 
 ---
 
- Faserpelz Kapuzenjacke e.s.e:pic, Damen
-==========
+###  Wärme-Boost
+auf Knopfdruck  ###
 
 ---
 
- Faserpelz Jacke e.s.e:pic
-==========
-
+ Außen Workwear, innen Heizung
 ---
 
- Warm, beweglich und unheimlich gemütlich
+[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=startseite_HW25)
 
-###  Midlayer  ###
-
----
-
-[Übergangsjacken entdecken](https://www.strauss.com/de/de/s/suche?filterParams=Herren_Damen_Kinder%3aHerren&itemOrigin=StartseiteHW25&query=midlayer)
-
- NEU
-
- 2 Teile – 3 Tragelösungen
-----------
-
----
-
- Die Regenjacken-
-Revolution
-----------
-
----
-
-###  3 in 1 Funktionsjacke  ###
-
----
-
- Wetterschutzjacke mit einklickbarer Weste
-
-[für Damen](https://www.strauss.com/de/de/3-in-1-arbeitsjacken-damen/3-in-1-funktionsjacke-e-s-ambition-damen-3140680-78682-1498.html?itemorigin=Startseite_HW25)
-
-[für Herren](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-ambition-3140690-78672-1498.html?itemorigin=Startseite_HW25)
-
-**Perfekt ausgerüstet** für den Herbst!
-
-----------
-
----
-
- Passende Outfits für das
----
-
- Arbeiten im Grünen
----
-
-Workwear für Herren
-
-Workwear für Damen
-
-[O2 Berufsschuhe e.s. Minkar II](https://www.strauss.com/de/de/berufsschuhe-o2/o2-berufsschuhe-e-s-minkar-ii-1003160-86993-1756.html?itemorigin=startseite_HW25)
-
-[Gartenscheren](https://www.strauss.com/de/de/gartenscheren/?itemorigin=startseite_HW25)
-
-[Handschuhe e.s.trail](https://www.strauss.com/de/de/mechanikerhandschuhe-montagehandschuhe/handschuhe-e-s-trail-light-graphic-2101250-7620007-1741.html?itemorigin=startseite_HW25)
-
-Personalisierte Outfits für jeden Anlass
-
-----------
-
----
-
-[](obs-link-v1:aHR0cHM6Ly93d3cuc3RyYXVzcy5jb20vZGUvZGUvZi9hcmJlaXRza2xlaWR1bmcvUGVyc29uYWxpc2llcnVuZ19uZXU6U2VsYnN0X2dlc3RhbHRlbi8/aXRlbW9yaWdpbj1TdGFydHNlaXRlX0hXMjUmc29ydD1uZXdlc3Q=)
+ Powerbank
+gleich mitbestellen
 
  Druck & Stick - ab 1 Stück
 
-###
-
-jetzt online
-
-gestalten
-
- ###
+###  Das perfekte Kundengeschenk  ###
 
 ---
 
- Druck & Stick - ab 1 Stück
+ Nur wenige Klicks entfernt!
 
-###
+ Easytransfer
 
-jetzt online
+ Direkteinstickung
 
-gestalten
-
- ###
-
+ So funktioniert’s:
 ---
 
-für Arbeit, Vereine, Events uvm.
+ Wunschartikel aussuchen und auswählen.
 
-unkompliziert gestalten & bestellen
+ Zuerst ***Personalisieren*** und anschließend ***Selbst gestalten*** klicken, ggf. einloggen.\*
 
-über 400 verfügbare Motive + Motivupload
+ Personalisierungsart wählen, gestalten und direkt bestellen.
 
-für Arbeit, Vereine, Events uvm.
-
-unkompliziert gestalten & bestellen
-
-über 400 verfügbare Motive + Motivupload
-
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
+[mehr Infos](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_HW25)
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
+ \*zum Personalisieren ist ein angemeldetes Nutzerkonto erforderlich
+
+ Frottier-Duschtuch Premium
+
+ 17 Farben
+
+ e.s. Fleecedecke
+
+ 5 Farben
+
+ Backpack e.s.motion ten
+
+ 5 Farben
+
+ Cap e.s.classic
+
+ 5 Farben
+
+[mehr Infos](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_HW25)
 
 zu den Produkten
 
-Easy-
-transfer
+ Schichten: so funktioniert's
+----------
 
 ---
 
- Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
-
-Direkt-
-einstickung
+###  Basisschicht  ###
 
 ---
 
- Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
+ Ob Frühschicht oder Spätschicht – alle bauen auf die Basisschicht: Aufnahme überschüssiger Wärme & Feuchtigkeit, Abgabe nach außen.
+
+[mehr Infos](https://www.strauss.com/de/de/funktionsbekleidung/?itemorigin=startseite_hw25#basisschicht)
+
+[Basisschicht](https://www.strauss.com/de/de#!layers/slide1)
+
+[Wärmeschicht](https://www.strauss.com/de/de#!layers/slide2)
+
+[Wetterschutzschicht](https://www.strauss.com/de/de#!layers/slide3)
+
+[Basisschicht](https://www.strauss.com/de/de#!layers/slide1)
+
+[Wärmeschicht](https://www.strauss.com/de/de#!layers/slide2)
+
+[Wetterschutzschicht](https://www.strauss.com/de/de#!layers/slide3)
+
+###  Basisschicht  ###
+
+---
+
+ Ob Frühschicht oder Spätschicht – alle bauen auf die Basisschicht: Aufnahme überschüssiger Wärme & Feuchtigkeit, Abgabe nach außen.
+
+[mehr Infos](https://www.strauss.com/de/de/funktionsbekleidung/?itemorigin=startseite_hw25#basisschicht)
+
+[Basisschicht](https://www.strauss.com/de/de#!layers/slide1)
+
+[Wärmeschicht](https://www.strauss.com/de/de#!layers/slide2)
+
+[Wetterschutzschicht](https://www.strauss.com/de/de#!layers/slide3)
+
+ Troyer Merino e.s.trail
+
+ 5 Farben
+
+ Funktions-Longsleeve e.s.trail seamless-warm,Damen
+
+ 2 Farben
+
+ Funktions-Long Pants e.s.trail seamless-warm,Damen
+
+ 2 Farben
+
+alle Basisschicht-Artikel entdecken
+
+jetzt entdecken
+
+ Rund um die Uhr hell - Warnschutzkleidung
+----------
+
+---
+
+###  für
+Herren  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/warnschutzkleidung-en20471/?itemorigin=startseite_HW25)
+
+###  für
+Damen  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/warnschutzkleidung-en20471-damen/?itemorigin=startseite_HW25)
+
+Hallo Hannover!
+
+----------
+
+---
+
+###  Messe  ###
+
+---
+
+ 09.11 - 15.11.2025 | Hannover
+
+ Halle 2, Stand C19
+
+[mehr Informationen](https://www.agritechnica.com/de/)
 
  Nach Kategorie shoppen
 ---
@@ -188,13 +226,30 @@ einstickung
 
 [Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?sort=newest)
 
-####  Newsletter abonnieren  ####
+####  Newsletter  ####
 
 ---
 
- Immer als Erstes informiert sein mit dem kostenlosen Strauss-Newsletter
+ abonnieren & sparen
+---
 
-[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_1) [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_1)
+[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
+
+ Sonder- & Rabattaktionen
+---
+
+ Produkte zum Tiefpreis
+---
+
+ exklusive Gutscheine
+---
+
+[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3) [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
+
+ Exklusive Newsletter-Vorteile sichern
+---
+
+[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
 
  30 TAGE RÜCKGABERECHT
 
