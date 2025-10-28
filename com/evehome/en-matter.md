@@ -26,6 +26,64 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
+[Eve Shutter Switch](/en/eve-shutter-switch)
+
+ Smart Shutter Controller
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Shutters & Shades
+
+Matter
+
+Thread
+
+incl. VAT plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Versandkostenfrei in Deutschland, Preis inkl. MwSt.
+
+Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Shutter Switch](/en/eve-shutter-switch)
+
+ Smart Shutter Controller
+
+* App & voice control – Control your shutters using your voice, an app or the switch itself, and enjoy the convenience of smart shading.
+* Automate your shutters – Open and close your shutters automatically at a preferred time to suit your daily routine.
+* One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
+* [Visit product page](/en/eve-shutter-switch)
+
 [Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
@@ -695,6 +753,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Light Switch (U.S. & Canada)
 * Eve Motion
 * Eve MotionBlinds for Roller Blinds
+* Eve Shutter Switch (coming soon)
 * Eve Thermo
 * Eve Weather
 
@@ -723,6 +782,64 @@ Matter is a new smart home protocol developed jointly by Amazon, Apple, Google, 
 Any HomeKit accessories you own will continue to work as usual. You’ll be able to use them in the Home and Eve apps without any restrictions – Matter-enabled devices will simply join them on an equal footing with HomeKit accessories. If you’re already using Thread-enabled Eve devices, [free firmware updates](/en/upgrade-to-matter) will be made available over time to seamlessly upgrade them to Matter. You’ll then be able to use those devices not only with HomeKit, but also with other platforms, including Amazon Alexa, Google Home, or Samsung SmartThings.
 
 ###  Good to know ###
+
+[Eve Shutter Switch](/en/eve-shutter-switch)
+
+ Smart Shutter Controller
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Shutters & Shades
+
+Matter
+
+Thread
+
+incl. VAT plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Versandkostenfrei in Deutschland, Preis inkl. MwSt.
+
+Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Shutter Switch](/en/eve-shutter-switch)
+
+ Smart Shutter Controller
+
+* App & voice control – Control your shutters using your voice, an app or the switch itself, and enjoy the convenience of smart shading.
+* Automate your shutters – Open and close your shutters automatically at a preferred time to suit your daily routine.
+* One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
+* [Visit product page](/en/eve-shutter-switch)
 
 [Eve Dimmer Switch](/en/eve-dimmer-switch)
 
