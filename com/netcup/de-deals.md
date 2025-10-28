@@ -5,21 +5,11 @@ netcup Deals
 
 Vom **28. Oktober, 10 Uhr** (MEZ) bis zum **29. Oktober, 10 Uhr** (MEZ), hast du 24 Stunden lang die Gelegenheit, ein **unsterblich attraktives Aktionsprodukt** für dich zu ergattern.
 
-[Mehr Informationen](https://www.netcup.com/de/deals#infos)
+[Zu den Angeboten](https://www.netcup.com/de/deals#deals)
 
-### **Das erwartet dich:** ###
+* Alle (0) Flash Deals (0)
 
-* ### Fang-tastische Deals ###
-
-  Wir halten einige unserer besten Deals aus den Kategorien Webhosting, Root-Server und Domains für dich bereit.
-
-* ### 24 Stunden verfügbar  ###
-
-  Sei dabei, wenn wir am 28.10. ab 10 Uhr den Countdown starten und sichere dir deinen Top-Deal.
-
-* ### Zusätzliche Flash Deals ###
-
-  Abonniere unseren [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de), [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)-, oder [Telegram Kanal](https://t.me/netcupoffical), und sichere dir ein exklusives Extra-Angebot – nur für kurze Zeit!
+Keine Deals in dieser Kategorie
 
 Bleibe auf dem Laufenden
 ----------
