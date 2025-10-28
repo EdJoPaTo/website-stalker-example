@@ -9,6 +9,10 @@ vServer (ARM64)
 * Energieeffizienz und Kostenoptimierung mit ARM Architektur
 * ARM64-Optionen für flexible Hosting-Lösungen
 
+Unsere VPS ARM sind aktuell ausverkauft. Du benötigst trotzdem sofort Rechenleistung? Entdecke unsere VPS x86 als leistungsstarke Alternative!
+
+[Zu den VPS x86 Tarifen](https://www.netcup.com/de/server/vps)
+
 **ARM-Server**
 ----------
 
