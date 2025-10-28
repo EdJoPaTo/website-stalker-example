@@ -32,7 +32,7 @@ vegan
 
 ### Darf ich an meinem Platz essen? ###
 
- Sie dürfen auf jeden Fall am Platz essen. In der 1. Klasse werden Sie am Platz bedient und können sich vorher schon mit einem Blick in die ausliegende Speisekarte oder über das ICE Portal über unser Sortiment informieren und eine Wahl für Ihre Bestellung vornehmen.
+ Sie dürfen auf jeden Fall am Platz essen. In der 1. Klasse werden Sie am Platz bedient und können sich schon vorher im ICE Portal über unser Sortiment informieren und eine Wahl für Ihre Bestellung vornehmen.
 
  In der 2. Klasse können Sie Ihre Speisen und Getränke im Bordbistro kaufen und selbstverständlich am Platz verzehren.
 
