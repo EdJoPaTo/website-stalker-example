@@ -75,7 +75,7 @@ System
 
   12-core/24-thread, up to 5.1GHz
 
-   Ships in 1-3 weeks.
+   Ships within five business days.
 
 **Display**
 
