@@ -1,11 +1,9 @@
 netcup Deals
 ==========
 
-**Tech-cula Specials - Schaurige Schnäppchen, Fang-Tastische Preise**
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-Vom **28. Oktober, 10 Uhr** (MEZ) bis zum **29. Oktober, 10 Uhr** (MEZ), hast du 24 Stunden lang die Gelegenheit, ein **unsterblich attraktives Aktionsprodukt** für dich zu ergattern.
-
-[Zu den Angeboten](https://www.netcup.com/de/deals#deals)
+[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
 
 * Alle (0) Flash Deals (0)
 
