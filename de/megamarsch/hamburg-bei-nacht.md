@@ -1,16 +1,16 @@
-HAMBURG
+Megamarsch HAMBURG
 BEI NACHT
 
-### 08.-09.08.2026 ###
+08.-09.08.2026
+----------
 
 [dein ticket sichern](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
-IN HAMBURG DURCH DIE NACHT
-==========
+Zwischen Elbe und Alster –
+50 km Lichtermeer in der Nacht
+----------
 
-Endecke das Nachtleben in Hamburg von einer neuen Seite.
-
-Wandere mit uns 50 km durch die Nacht. Mit Start am Samstag Abend geht es dem Sonnenuntergang entgegen durch die Nacht. Bis die Sonne wieder aufgeht und Dir Kraft und Motivation für die letzten Kilometer schenkt. Schnapp Dir Deine Stirnlampe und Deinen Wanderbuddy und wagt Euch gemeinsam an diese Herausforderung.
+Wenn die Lichter über der Elbe glitzern, beginnt dein Abenteuer: Der Megamarsch Hamburg bei Nacht führt dich auf 50 Kilometern durch die nächtliche Metropole – vorbei an der Speicherstadt, den Landungsbrücken und durch stille Parks. Diese Nachtwanderung verbindet Großstadtflair mit stillen Momenten und echter Gemeinschaft. Hamburg schläft nie – und du auch nicht, bis du das Ziel erreichst.
 
 [Dein Ticket sichern](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
@@ -77,7 +77,8 @@ Bei einem 50 km Finish
 
 [SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
-#### STRECKE ####
+STRECKE
+----------
 
 ###### - ca. 180 HÖHENMETER - ######
 
@@ -93,7 +94,8 @@ Bei einem 50 km Finish
 
 Booklet
 
-#### unsere PARTNER ####
+unsere PARTNER
+----------
 
 Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbranche versorgen sie Euch mit verlässlicher Ausrüstung für euren nächsten Megamarsch.
 
@@ -123,7 +125,8 @@ HOF 2 HAMBURG FINISHER .1
 
 1/15
 
-#### Funktionsshirt ####
+Funktionsshirt
+----------
 
 Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg bei Nacht 2026.
 Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challenge! Atmungsaktiv, feuchtigkeitsregulierend und strapazierfähig. Das Design wird sich an das jeweilige Event orientieren und ist dadurch Deine persönliche Erinnerung für Deine Challenge. Hol Dir jetzt Dein Funktionsshirt für Dein kommendes unvergessliches Abenteuer!
@@ -187,7 +190,8 @@ Ticket nicht mehr Verfügbar | Ticket noch Verfügbar
 
 [SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
-#### Buche jetzt deine Startzeit, bevor sie ausverkauft ist! ####
+Buche jetzt deine Startzeit, bevor sie ausverkauft ist!
+----------
 
 [JETZT IN HAMBURG TEILNEHMEN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 

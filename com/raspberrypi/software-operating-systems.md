@@ -27,7 +27,7 @@ Raspberry Pi OS (64-bit)
 
 ### Raspberry Pi OS ###
 
-A port of Debian Trixie with the Raspberry Pi Desktop
+A port of Debian Trixie with the Raspberry Pi Desktop
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -44,7 +44,7 @@ A port of Debian Trixie with the Raspberry Pi Desktop
 
 ### Raspberry Pi OS Full ###
 
-A port of Debian Trixie with desktop environment and recommended applications
+A port of Debian Trixie with desktop environment and recommended applications
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -61,7 +61,7 @@ A port of Debian Trixie with desktop environment and recommended applications
 
 ### Raspberry Pi OS Lite ###
 
-A port of Debian Trixie with no desktop environment
+A port of Debian Trixie with no desktop environment
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -85,7 +85,7 @@ Raspberry Pi OS (32-bit)
 
 ### Raspberry Pi OS ###
 
-A port of Debian Trixie with the Raspberry Pi Desktop
+A port of Debian Trixie with the Raspberry Pi Desktop
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -102,7 +102,7 @@ A port of Debian Trixie with the Raspberry Pi Desktop
 
 ### Raspberry Pi OS Full ###
 
-A port of Debian Trixie with desktop environment and recommended applications
+A port of Debian Trixie with desktop environment and recommended applications
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -119,7 +119,7 @@ A port of Debian Trixie with desktop environment and recommended applications
 
 ### Raspberry Pi OS Lite ###
 
-A port of Debian Trixie with no desktop environment
+A port of Debian Trixie with no desktop environment
 
 | Release date |1 Oct 2025 |
 |--------------|-----------|
@@ -156,7 +156,7 @@ Raspberry Pi OS (Legacy, 64-bit)
 
 ### Raspberry Pi OS (Legacy) ###
 
-A port of Debian Bookworm with security updates and desktop environment
+A port of Debian Bookworm with security updates and desktop environment
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -173,7 +173,7 @@ A port of Debian Bookworm with security updates and desktop environment
 
 ### Raspberry Pi OS (Legacy) Full ###
 
-A port of Debian Bookworm with security updates, desktop environment and recommended applications
+A port of Debian Bookworm with security updates, desktop environment and recommended applications
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -190,7 +190,7 @@ A port of Debian Bookworm with security updates, desktop environment and recomme
 
 ### Raspberry Pi OS (Legacy) Lite ###
 
-A port of Debian Bookworm with security updates and no desktop environment
+A port of Debian Bookworm with security updates and no desktop environment
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -229,7 +229,7 @@ Raspberry Pi OS (Legacy, 32-bit)
 
 ### Raspberry Pi OS (Legacy) ###
 
-A port of Debian Bookworm with security updates and desktop environment
+A port of Debian Bookworm with security updates and desktop environment
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -246,7 +246,7 @@ A port of Debian Bookworm with security updates and desktop environment
 
 ### Raspberry Pi OS (Legacy) Full ###
 
-A port of Debian Bookworm with security updates, desktop environment and recommended applications
+A port of Debian Bookworm with security updates, desktop environment and recommended applications
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -263,7 +263,7 @@ A port of Debian Bookworm with security updates, desktop environment and recomme
 
 ### Raspberry Pi OS (Legacy) Lite ###
 
-A port of Debian Bookworm with security updates and no desktop environment
+A port of Debian Bookworm with security updates and no desktop environment
 
 | Release date | 1 Oct 2025  |
 |--------------|-------------|
@@ -287,7 +287,7 @@ Raspberry Pi Desktop
 
 ### Raspberry Pi OS ###
 
-A port of Debian Bullseye with Raspberry Pi Desktop
+A port of Debian Bullseye with Raspberry Pi Desktop
 
 | Release date | 1 Jul 2022  |
 |--------------|-------------|
