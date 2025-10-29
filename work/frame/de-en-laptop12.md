@@ -226,6 +226,6 @@ Hack Club is a 501(c)(3) nonprofit that empowers high schoolers to code, build, 
 ### Help shape future Framework products.
 Click below to take a quick survey. ###
 
-[Take our survey](https://frameworkcomputer.typeform.com/to/lUhIl3V4?utm_medium=12overview)
+[Take our survey](https://frameworkcomputer.typeform.com/to/q5BoD51G?utm_medium=12overview)
 
 [Configure now](/products/laptop12-diy-intel-13gen/configuration/new)
