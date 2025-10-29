@@ -3,6 +3,11 @@ Spotlight
 
 Unternehmen die nachhaltig handeln, für sozialen Wohlstand sorgen oder das Gemeinwohl fördern, verdienen einen Platz im Rampenlicht. Und den bieten wir ihnen in unserem Spotlight. Unser Interview-Blog lässt Menschen zu Wort kommen, die sich tagtäglich dafür einsetzen, unsere Welt besser zu machen. Lies dich einfach quer durch und lerne innovativen Unternehmen und die Köpfe dahinter kennen.
 
+[Omas for Future](/community/spotlight/omas-for-future/)
+----------
+
+Mit positiven Zukunftsbildern machen die Omas for Future Lust auf morgen.
+
 [SHIFT](/community/spotlight/shift/)
 ----------
 
