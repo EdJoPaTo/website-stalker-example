@@ -13,11 +13,13 @@ We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to
 
 [Read more and start integrating](https://shelly-api-docs.shelly.cloud/cloud-control-api/communication-v2/#get-devices-state)
 
-**⚠️ Alert: Shared Devices Issue ⚠️**
+**⚠️ Shared Devices Issue ⚠️**
 
-We are aware that some users are experiencing shared devices disappearing. Our team is investigating this issue with the highest priority.
+We were aware that some users experienced shared devices disappearing. Our team investigated this issue with the highest priority.
 
-We are working to identify the cause and resolve it as quickly as possible. Thank you for your patience.
+✅ Update: The issue has now been fixed. All shared devices should appear correctly for all users.
+
+Thank you for your patience while we resolved this problem.
 
 Knowledge base
 ----------
