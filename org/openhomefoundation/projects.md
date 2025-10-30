@@ -6,7 +6,7 @@ Projects
 
  It’s the DNA from our central projects—full-scale software we own and oversee development of—that gave rise to the idea of the Open Home Foundation in the first place. These are our headline efforts. But also, just the beginning.
 
- Home Assistant is an open-source, home automation platform that puts local control and privacy first. It is powered by a worldwide community of tinkerers and DIY enthusiasts, and exists to put users in control of their homes, their data, and their personal well-being.
+ Home Assistant is an open source, home automation platform that puts local control and privacy first. It is powered by a worldwide community of tinkerers and DIY enthusiasts, and exists to put users in control of their homes, their data, and their personal well-being.
 
 [Learn more](https://www.home-assistant.io/)
 [](https://github.com/home-assistant/)
@@ -26,7 +26,7 @@ Collabs
 
  These are external projects the Open Home Foundation collaborates on—but doesn’t own. We love what their teams are doing, and think their success is critically important to promoting privacy, choice, and sustainability in the smart home space. Our main requirement is that they remain open to everyone. Not just us.
 
- Rhasspy is an open-source, fully offline, private voice assistant. It can be used with many human languages, and works with numerous protocols and home automation platforms and services. Thanks to the Open Home Foundation, Michael Hansen, the creator of Rhasspy, can work on advancing open source voice projects full time.
+ Rhasspy is an open source, fully offline, private voice assistant. It can be used with many human languages, and works with numerous protocols and home automation platforms and services. Thanks to the Open Home Foundation, Michael Hansen, the creator of Rhasspy, can work on advancing open source voice projects full time.
 
 [Learn more](https://community.rhasspy.org/)
 
@@ -38,11 +38,11 @@ Collabs
 
 [Learn more](https://www.zigbee2mqtt.io/)
 
- Z-Wave JS is an open-source Z-Wave device driver, supported by a small team of smart home enthusiasts. Thanks to resources directed to the project by the Open Home Foundation, Dominic Griesel is employed to work on Z-Wave JS on a full-time basis.
+ Z-Wave JS is an open source Z-Wave device driver, supported by a small team of smart home enthusiasts. Thanks to resources directed to the project by the Open Home Foundation, Dominic Griesel is employed to work on Z-Wave JS on a full-time basis.
 
 [Learn more](https://zwave-js.github.io/node-zwave-js/)
 
- microWakeWord is an open-source wakeword library for detecting custom wake words on low power devices. It produces models that are suitable for using TensorFlow Lite for Microcontrollers. The models are suitable for real-world usage with low false accept and false reject rates.
+ microWakeWord is an open source wakeword library for detecting custom wake words on low power devices. It produces models that are suitable for using TensorFlow Lite for Microcontrollers. The models are suitable for real-world usage with low false accept and false reject rates.
 
 [Learn more](https://github.com/kahrendt/microWakeWord)
 

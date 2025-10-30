@@ -1,6 +1,6 @@
 [Read more about State of the Open Home 2025](https://www.home-assistant.io/blog/2025/04/16/state-of-the-open-home-recap/)
 
- The **Open Home Foundation** fights for the fundamental principles of **privacy**, **choice**, and **sustainability** for smart homes. And for every person who lives in one. It does this by supporting the development of open-source projects, and open connectivity and communication standards.
+ The **Open Home Foundation** fights for the fundamental principles of **privacy**, **choice**, and **sustainability** for smart homes. And for every person who lives in one. It does this by supporting the development of open source projects, and open connectivity and communication standards.
 
 [Learn more](https://www.openhomefoundation.org/about/)
 
@@ -28,7 +28,7 @@ Repurpose your hardware.
 Our work
 ----------
 
- The Open Home Foundation owns and governs over **250 open-source projects, standards, drivers, and libraries** like *Home Assistant*, *ESPHome*, *Music Assistant*, *HACS*, *Piper*, and more.
+ The Open Home Foundation owns and governs over **250 open source projects, standards, drivers, and libraries** like *Home Assistant*, *ESPHome*, *Music Assistant*, *HACS*, *Piper*, and more.
 
  In the future, we aim to play a greater role as a political advocate for smart home privacy, choice, and sustainability.
 
@@ -57,7 +57,7 @@ Our collabs
 Support us
 ----------
 
- Our work is primarily supported through subscriptions to Home Assistant Cloud, and by your contributions to open-source projects aligned with our principles.
+ Our work is primarily supported through subscriptions to Home Assistant Cloud, and by your contributions to open source projects aligned with our principles.
 
 [Join the fight](https://www.openhomefoundation.org/organization/#support-our-work)
 
