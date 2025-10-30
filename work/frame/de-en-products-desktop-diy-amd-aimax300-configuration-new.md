@@ -57,15 +57,11 @@ System
   * 32 Graphics Cores, up to 2.8GHz
   * 32GB of non-upgradeable LPDDR5x
 
-   Ships within five business days.
-
 * Max+ 395 - 64GB  €1,859
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
   * 64GB of non-upgradeable LPDDR5x
-
-   Ships within five business days.
 
 * Max+ 395 - 128GB  Pre-order  €2,329
 
@@ -520,11 +516,11 @@ Close
  Add-ons
 ----------
 
-* Framework Desktop Handle  The Framework Desktop Handle adds a secure, functional grip to your Framework Desktop case. Whether you're headed to a LAN party or just shifting setups, the handle makes moving your 4.5L system easier and more ergonomic. It attaches cleanly to the top panel and blends seamlessly with the rest of your build. +€20
+* Framework Desktop Handle +€20
 * None (bring your own)
 
  Add to Bag  Add pre-order to bag
 
- Ships within five business days. [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Some options delay shipping [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
 
  Cancel your pre-order any time before shipment for a full refund [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders

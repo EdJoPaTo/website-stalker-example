@@ -67,13 +67,9 @@ System
 
   * Up to 4.5GHz, 2+4 cores
 
-   Ships within five business days.
-
 * i5-1334U  €739
 
   * Up to 4.6GHz, 2+8 cores
-
-   Ships within five business days.
 
 **Memory**
 
@@ -103,9 +99,9 @@ Runs at DDR5-5200 speed on Framework Laptop 12.
 Memory
 
 * DDR5-5600 - 8GB (1 x 8GB) +€45
-* DDR5-5600 - 16GB (1 x 16GB)  Ships in 2-3 weeks. +€90
+* DDR5-5600 - 16GB (1 x 16GB) +€90
 * DDR5-5600 - 32GB (1 x 32GB) +€180
-* DDR5-5600 - 48GB (1 x 48GB)  Ships in 2-3 weeks. +€270
+* DDR5-5600 - 48GB (1 x 48GB) +€270
 * None (bring your own)
 
 **Storage**
@@ -425,6 +421,6 @@ Close
 
  Add to Bag  Add pre-order to bag
 
- Ships within five business days. [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Some options delay shipping [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
 
  Cancel your pre-order any time before shipment for a full refund [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
