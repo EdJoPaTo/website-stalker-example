@@ -250,8 +250,7 @@ Monthly-ish
 
 [Contact our Business team Contact our Business team](https://share.hsforms.com/1GjuuZvpJRJKsAzc2XdPLYQe5dti)
 
-### Help shape future Framework products.
-Click below to take a quick survey. ###
+### Help shape future Framework products. Click below to take a quick survey. ###
 
 [Take our survey](https://frameworkcomputer.typeform.com/to/lUhIl3V4?utm_medium=dtoverview)
 
