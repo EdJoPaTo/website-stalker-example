@@ -178,6 +178,45 @@ alle Basisschicht-Artikel entdecken
 
 jetzt entdecken
 
+[alle Aktions-Angebote entdecken](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/?itemorigin=startseite_hw25&sort=newest)
+
+[alle Aktions-Angebote entdecken](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/?itemorigin=startseite_hw25&sort=newest)
+
+###  Angebote zum warm werden  ###
+
+---
+
+ Jetzt Doppelpack-Deals sichern!
+---
+
+###  Angebote zum warm werden  ###
+
+---
+
+ Jetzt Doppelpack-Deals sichern!
+---
+
+ Doppelpack
+---
+
+ Doppelpack e.s. Funkt.-Long Pants seamless-warm,D.
+
+ 1 Farbe
+
+ Doppelpack
+---
+
+ Doppelpack e.s. Funktions-Longsleeve seamless-warm
+
+ 1 Farbe
+
+ Doppelpack
+---
+
+ Doppelpack e.s. Funktions-Long Pants seamless-warm
+
+ 1 Farbe
+
  Rund um die Uhr hell - Warnschutzkleidung
 ----------
 
