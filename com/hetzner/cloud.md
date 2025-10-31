@@ -914,7 +914,7 @@ Monthly
 
 288.49 287.99 300.49 299.99 482.50 482 288.49 287.99  max.
 
-[Get started](https://console.hetzner.cloud/)
+[Get started](https://console.hetzner.com/)
 
  Block Storage Volumes
 ----------
@@ -927,7 +927,7 @@ Expand your cloud instance with high-availability SSD block storage for € 0.04
 
 0.0440 max./mo  Billing on an hourly basis
 
-[Get started](https://console.hetzner.cloud/)
+[Get started](https://console.hetzner.com/)
 
  Cloud Locations
 ----------
@@ -1033,7 +1033,7 @@ Hetzner Online will safeguard your Hetzner cloud servers using the latest hardwa
 
 [GDPR compliancy](https://www.hetzner.com/european-cloud/) for your Cloud. You can create a Data Processing Agreement (DPA) online that will be in accordance with Article28 of the GDPR (General Data Protection Regulation). You can even enter the correct European location for your DPA.
 
-[Sign up now](https://console.hetzner.cloud/)
+[Sign up now](https://console.hetzner.com/)
 
 ALL FEATURES ALSO AVAILABLE VIA REST API
 ----------
