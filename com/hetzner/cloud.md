@@ -1049,14 +1049,14 @@ HCLOUD CLI
 
         -H 'Content-Type: application/json' \
 
-        -d '{ "name": "server01", "server_type": "cx22", "location": "nbg1", "image": "ubuntu-24.04"}' \
+        -d '{ "name": "server01", "server_type": "cx23", "location": "nbg1", "image": "ubuntu-24.04"}' \
 
         -X POST 'https://api.hetzner.cloud/v1/servers'
 
 ```
 
 ```
-~$ hcloud server create --name 'server01' --type 'cx22' --location 'nbg1' --image 'ubuntu-24.04'
+~$ hcloud server create --name 'server01' --type 'cx23' --location 'nbg1' --image 'ubuntu-24.04'
 
 ```
 
