@@ -35,7 +35,7 @@ Added in: 1.64.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+alloc_instead_of_core)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/std_instead_of_core.rs#L62)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/std_instead_of_core.rs#L61)
 
 allow\_attributes
 
@@ -100,7 +100,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+approx_constant)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/approx_const.rs#L12)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/approx_const.rs#L11)
 
 arbitrary\_source\_item\_ordering
 
@@ -267,7 +267,7 @@ Added in: 1.48.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+async_yields_async)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/async_yields_async.rs#L9)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/async_yields_async.rs#L13)
 
 await\_holding\_invalid\_type
 
@@ -397,7 +397,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+bool_comparison)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/needless_bool.rs#L53)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/bool_comparison.rs#L12)
 
 bool\_to\_int\_with\_if
 
@@ -527,7 +527,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+builtin_type_shadow)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L209)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L183)
 
 byte\_char\_slices
 
@@ -887,7 +887,7 @@ perf warn
 
 Applicability: MaybeIncorrect
 
-Added in: 1.87.0
+Added in: 1.89.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+cloned_ref_to_slice_refs)
 
@@ -926,7 +926,7 @@ nursery allow
 
 Applicability: MaybeIncorrect
 
-Added in: 1.88.0
+Added in: 1.89.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+coerce_container_to_any)
 
@@ -934,7 +934,7 @@ Added in: 1.88.0
 
 cognitive\_complexity
 
-nursery allow
+restriction allow
 ----------
 
 Applicability: Unspecified
@@ -1043,7 +1043,7 @@ suspicious warn
 
 Applicability: MaybeIncorrect
 
-Added in: 1.86.0
+Added in: 1.89.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+confusing_method_to_numeric_cast)
 
@@ -1103,7 +1103,7 @@ Added in: 1.48.0
 
 crosspointer\_transmute
 
-complexity warn
+suspicious warn
 ----------
 
 Applicability: Unspecified
@@ -1155,7 +1155,7 @@ Added in: pre 1.29.0
 
 declare\_interior\_mutable\_const
 
-style warn
+suspicious warn
 ----------
 
 Applicability: Unspecified
@@ -1281,7 +1281,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+deref_addrof)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/reference.rs#L9)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/reference.rs#L10)
 
 deref\_by\_slicing
 
@@ -1550,7 +1550,7 @@ suspicious warn
 
 Applicability: HasPlaceholders
 
-Added in: 1.88.0
+Added in: 1.89.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+doc_suspicious_footnotes)
 
@@ -1593,7 +1593,7 @@ Added in: 1.40.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+double_must_use)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L148)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L173)
 
 double\_parens
 
@@ -1658,7 +1658,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+duplicate_underscore_argument)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L63)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L24)
 
 duplicated\_attributes
 
@@ -1866,7 +1866,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+enum_variant_names)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/item_name_repetitions.rs#L14)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/item_name_repetitions.rs#L13)
 
 eq\_op
 
@@ -1957,7 +1957,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+excessive_precision)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/float_literal.rs#L11)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/float_literal.rs#L12)
 
 exhaustive\_enums
 
@@ -2048,7 +2048,7 @@ Added in: 1.64.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+explicit_auto_deref)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/dereference.rs#L122)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/dereference.rs#L121)
 
 explicit\_counter\_loop
 
@@ -2074,7 +2074,7 @@ Added in: 1.44.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+explicit_deref_methods)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/dereference.rs#L27)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/dereference.rs#L26)
 
 explicit\_into\_iter\_loop
 
@@ -2475,7 +2475,7 @@ Added in: 1.73.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+four_forward_slashes)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/four_forward_slashes.rs#L8)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/four_forward_slashes.rs#L10)
 
 from\_iter\_instead\_of\_collect
 
@@ -2722,7 +2722,7 @@ Added in: 1.69.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+impl_trait_in_params)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L342)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L367)
 
 implicit\_clone
 
@@ -2839,7 +2839,7 @@ Added in: 1.78.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+incompatible_msrv)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/incompatible_msrv.rs#L15)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/incompatible_msrv.rs#L14)
 
 inconsistent\_digit\_grouping
 
@@ -2952,7 +2952,7 @@ suspicious warn
 
 Applicability: Unspecified
 
-Added in: 1.88.0
+Added in: 1.89.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+infallible_try_from)
 
@@ -3775,7 +3775,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+let_unit_value)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unit_types/mod.rs#L10)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unit_types/mod.rs#L11)
 
 let\_with\_type\_underscore
 
@@ -3788,7 +3788,7 @@ Added in: 1.70.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+let_with_type_underscore)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/let_with_type_underscore.rs#L8)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/let_with_type_underscore.rs#L9)
 
 lines\_filter\_map\_ok
 
@@ -3866,7 +3866,7 @@ Added in: 1.43.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+lossy_float_literal)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/float_literal.rs#L36)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/float_literal.rs#L39)
 
 macro\_metavars\_in\_unsafe
 
@@ -4969,7 +4969,7 @@ Added in: 1.72.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+min_ident_chars)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/min_ident_chars.rs#L13)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/min_ident_chars.rs#L17)
 
 min\_max
 
@@ -5019,7 +5019,7 @@ Added in: 1.67.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+misnamed_getters)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L300)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L325)
 
 misrefactored\_assign\_op
 
@@ -5253,7 +5253,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+mixed_case_hex_literals)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L86)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L60)
 
 mixed\_read\_write\_in\_expression
 
@@ -5292,7 +5292,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+module_inception)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/item_name_repetitions.rs#L95)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/item_name_repetitions.rs#L94)
 
 module\_name\_repetitions
 
@@ -5305,7 +5305,7 @@ Added in: 1.33.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+module_name_repetitions)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/item_name_repetitions.rs#L51)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/item_name_repetitions.rs#L50)
 
 modulo\_arithmetic
 
@@ -5409,7 +5409,7 @@ Added in: 1.40.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+must_use_candidate)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L172)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L197)
 
 must\_use\_unit
 
@@ -5422,7 +5422,7 @@ Added in: 1.40.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+must_use_unit)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L128)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L153)
 
 mut\_from\_ref
 
@@ -5578,7 +5578,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+needless_bool)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/needless_bool.rs#L16)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/needless_bool.rs#L14)
 
 needless\_bool\_assign
 
@@ -5591,7 +5591,7 @@ Added in: 1.71.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+needless_bool_assign)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/needless_bool.rs#L78)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/needless_bool.rs#L51)
 
 needless\_borrow
 
@@ -5604,7 +5604,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+needless_borrow)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/dereference.rs#L60)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/dereference.rs#L59)
 
 needless\_borrowed\_reference
 
@@ -6202,7 +6202,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+nonminimal_bool)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/booleans.rs#L19)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/booleans.rs#L18)
 
 nonsensical\_open\_options
 
@@ -6241,7 +6241,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+not_unsafe_ptr_arg_deref)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L68)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L93)
 
 obfuscated\_if\_else
 
@@ -6473,7 +6473,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+overly_complex_bool_expr)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/booleans.rs#L49)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/booleans.rs#L48)
 
 owned\_cow
 
@@ -6651,7 +6651,7 @@ restriction allow
 
 Applicability: Unspecified
 
-Added in: 1.88.0
+Added in: 1.89.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+pointer_format)
 
@@ -6680,6 +6680,19 @@ Applicability: Unspecified
 Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+possible_missing_comma)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/formatting.rs#L119)
+
+possible\_missing\_else
+
+suspicious warn
+----------
+
+Applicability: Unspecified
+
+Added in: 1.90.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+possible_missing_else)
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/formatting.rs#L94)
 
@@ -7132,7 +7145,7 @@ Added in: 1.72.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+redundant_at_rest_pattern)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L301)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L275)
 
 redundant\_clone
 
@@ -7158,7 +7171,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+redundant_closure)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/eta_reduction.rs#L22)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/eta_reduction.rs#L23)
 
 redundant\_closure\_call
 
@@ -7184,7 +7197,7 @@ Added in: 1.35.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+redundant_closure_for_method_calls)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/eta_reduction.rs#L48)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/eta_reduction.rs#L49)
 
 redundant\_comparisons
 
@@ -7275,7 +7288,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+redundant_pattern)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L231)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L205)
 
 redundant\_pattern\_matching
 
@@ -7301,7 +7314,7 @@ Added in: 1.44.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+redundant_pub_crate)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/redundant_pub_crate.rs#L12)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/redundant_pub_crate.rs#L11)
 
 redundant\_slicing
 
@@ -7379,7 +7392,7 @@ Added in: 1.54.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+ref_binding_to_reference)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/dereference.rs#L94)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/dereference.rs#L93)
 
 ref\_option
 
@@ -7392,7 +7405,7 @@ Added in: 1.83.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+ref_option)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L404)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L429)
 
 ref\_option\_ref
 
@@ -7455,7 +7468,7 @@ Added in: 1.80.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+renamed_function_params)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L370)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L395)
 
 repeat\_once
 
@@ -7557,7 +7570,7 @@ Added in: 1.65.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+result_large_err)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L252)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L277)
 
 result\_map\_or\_into\_option
 
@@ -7596,7 +7609,7 @@ Added in: 1.49.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+result_unit_err)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L202)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L227)
 
 return\_and\_then
 
@@ -7804,7 +7817,7 @@ Added in: 1.58.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+separated_literal_suffix)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L142)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L116)
 
 serde\_api\_misuse
 
@@ -8023,7 +8036,7 @@ Added in: 1.43.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+single_component_path_imports)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/single_component_path_imports.rs#L13)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/single_component_path_imports.rs#L12)
 
 single\_element\_loop
 
@@ -8179,7 +8192,7 @@ Added in: 1.64.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+std_instead_of_alloc)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/std_instead_of_core.rs#L38)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/std_instead_of_core.rs#L37)
 
 std\_instead\_of\_core
 
@@ -8192,7 +8205,7 @@ Added in: 1.64.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+std_instead_of_core)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/std_instead_of_core.rs#L15)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/std_instead_of_core.rs#L14)
 
 str\_split\_at\_newline
 
@@ -8218,7 +8231,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+str_to_string)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L362)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L360)
 
 string\_add
 
@@ -8231,7 +8244,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+string_add)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L42)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L40)
 
 string\_add\_assign
 
@@ -8244,7 +8257,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+string_add_assign)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L18)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L16)
 
 string\_extend\_chars
 
@@ -8270,7 +8283,7 @@ Added in: 1.50.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+string_from_utf8_as_bytes)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L224)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L222)
 
 string\_lit\_as\_bytes
 
@@ -8283,7 +8296,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+string_lit_as_bytes)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L76)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L74)
 
 string\_lit\_chars\_any
 
@@ -8309,20 +8322,18 @@ Added in: 1.58.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+string_slice)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L122)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L120)
 
 string\_to\_string
 
-restriction allow
+deprecated none
 ----------
 
-Applicability: MachineApplicable
+Applicability: Unspecified
 
-Added in: pre 1.29.0
+Deprecated in: 1.90.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+string_to_string)
-
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L414)
 
 strlen\_on\_c\_strings
 
@@ -8361,7 +8372,7 @@ Added in: 1.75.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+struct_field_names)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/item_name_repetitions.rs#L125)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/item_name_repetitions.rs#L124)
 
 suboptimal\_flops
 
@@ -8699,7 +8710,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+too_many_arguments)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L22)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L47)
 
 too\_many\_lines
 
@@ -8712,7 +8723,7 @@ Added in: 1.34.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+too_many_lines)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L44)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/functions/mod.rs#L69)
 
 toplevel\_ref\_arg
 
@@ -8881,7 +8892,7 @@ Added in: 1.62.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+trim_split_whitespace)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L533)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs#L412)
 
 trivial\_regex
 
@@ -9115,7 +9126,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unit_arg)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unit_types/mod.rs#L78)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unit_types/mod.rs#L79)
 
 unit\_cmp
 
@@ -9128,7 +9139,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unit_cmp)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unit_types/mod.rs#L30)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unit_types/mod.rs#L31)
 
 unit\_hash
 
@@ -9382,13 +9393,13 @@ unnecessary\_mut\_passed
 style warn
 ----------
 
-Applicability: Unspecified
+Applicability: MachineApplicable
 
 Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnecessary_mut_passed)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/mut_reference.rs#L8)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/mut_reference.rs#L10)
 
 unnecessary\_operation
 
@@ -9557,7 +9568,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unneeded_field_pattern)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L20)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L17)
 
 unneeded\_struct\_pattern
 
@@ -9583,7 +9594,7 @@ Added in: 1.40.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unneeded_wildcard_pattern)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L262)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L236)
 
 unnested\_or\_patterns
 
@@ -9596,7 +9607,7 @@ Added in: 1.46.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnested_or_patterns)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unnested_or_patterns.rs#L21)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unnested_or_patterns.rs#L22)
 
 unreachable
 
@@ -9672,7 +9683,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unseparated_literal_suffix)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L113)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L87)
 
 unsound\_collection\_transmute
 
@@ -9874,7 +9885,7 @@ Added in: 1.48.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unwrap_in_result)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unwrap_in_result.rs#L12)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unwrap_in_result.rs#L11)
 
 unwrap\_or\_default
 
@@ -10082,7 +10093,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+useless_vec)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/vec.rs#L37)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/vec.rs#L60)
 
 vec\_box
 
@@ -10366,7 +10377,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+zero_prefixed_literal)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L170)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs#L144)
 
 zero\_ptr
 
@@ -10418,7 +10429,7 @@ Added in: 1.83.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+zombie_processes)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/zombie_processes.rs#L16)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/zombie_processes.rs#L17)
 
 zst\_offset
 
