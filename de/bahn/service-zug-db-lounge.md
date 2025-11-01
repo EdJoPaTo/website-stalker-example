@@ -104,7 +104,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Bremen ####
 
-**Öffnungszeiten:** Mo-Fr: 8:00-16:00 Uhr
+**Öffnungszeiten:** Aus operativen Gründen bis auf Weiteres geschlossen.
 
 * [DB Lounge Bremen Lageplan (PDF, 77 KB) Download der Datei: DB Lounge Bremen Lageplan (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:6289c50c-8940-411e-b587-bcdff4133f28/10-Bremen-Hbf.pdf)
 
@@ -128,7 +128,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Essen ####
 
-**Öffnungszeiten:** Mo-Fr: 8:00-16:00 Uhr
+**Öffnungszeiten:** Aus operativen Gründen bis auf Weiteres geschlossen.
 
 * [DB Lounge Essen Lageplan (PDF, 78 KB) Download der Datei: DB Lounge Essen Lageplan (PDF, 78 KB)](https://assets.static-bahn.de/dam/jcr:8bf3a731-c77a-407c-b7cd-0ea260c85634/13-Essen-Hbf.pdf)
 
