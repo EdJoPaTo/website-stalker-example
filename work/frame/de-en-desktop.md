@@ -33,7 +33,7 @@ Larger-than-life performance, powered by Ryzen™ AI Max.
 
 How’d we do it? With a novel highly-integrated processor from AMD that let us build a simple, quiet, tiny box with power far beyond its size.
 
-Tl;dr
+tl;dr
 ----------
 
 ##### Max 385 - 32GB #####
