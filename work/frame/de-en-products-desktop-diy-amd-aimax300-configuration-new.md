@@ -516,7 +516,7 @@ Close
  Add-ons
 ----------
 
-* Framework Desktop Handle +€20
+* Framework Desktop Handle  The Framework Desktop Handle adds a secure, functional grip to your Framework Desktop case. Whether you're headed to a LAN party or just shifting setups, the handle makes moving your 4.5L system easier and more ergonomic. It attaches cleanly to the top panel and blends seamlessly with the rest of your build. +€20
 * None (bring your own)
 
  Add to Bag  Add pre-order to bag
