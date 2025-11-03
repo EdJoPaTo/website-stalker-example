@@ -511,7 +511,6 @@
 * [Internet](https://www.wdrmaus.de/filme/sachgeschichten/internet.php5)
 * [Internetspiel](https://www.wdrmaus.de/filme/sachgeschichten/internetspiel.php5)
 * [Island-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/island_spezial.php5)
-* [Jagd nach dem Maulwurf](https://www.wdrmaus.de/filme/sachgeschichten/jagd_nach_dem_maulwurf.php5)
 * [Jagdhund](https://www.wdrmaus.de/filme/sachgeschichten/jagdhund.php5)
 * [Jakobs Haare](https://www.wdrmaus.de/filme/sachgeschichten/jakobs_haare.php5)
 * [Japan-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/japan_spezial.php5)
