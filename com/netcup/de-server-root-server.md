@@ -263,7 +263,7 @@ Je nach Verfügbarkeit älterer Hardware, bieten wir Root Server vorheriger Gene
 
 ### Welche Vertragslaufzeiten sind für Root Server G12 verfügbar? ###
 
-Wir bieten dir wie gewohnt volle Flexibilität. Wähle zwischen einer Mindestvertragslaufzeit von **einem** oder **zwölf Monaten**. Bei einer Vertragslaufzeit von **zwölf Monaten sparst du pro Monat 20%** im Vergleich zur monatlichen Abrechnungsvariante.
+Wir bieten dir wie gewohnt volle Flexibilität. Wähle zwischen einer Mindestvertragslaufzeit von **einem** oder **zwölf Monaten**. Bei einer Vertragslaufzeit von **zwölf Monaten sparst du pro Monat 16%** im Vergleich zur monatlichen Abrechnungsvariante.
 
 ### Kann ich zwischen unterschiedlichen Root Server-Varianten wechseln, wenn mein Projekt wächst? ###
 
