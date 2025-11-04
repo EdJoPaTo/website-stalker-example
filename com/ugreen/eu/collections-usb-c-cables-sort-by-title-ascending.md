@@ -1,3 +1,7 @@
+### [Cable](https://eu.ugreen.com/products/cable) ###
+
+UGREEN USB C to USB C Cable 60W
+
 ### [UGREEN 100W 90-Degree USB C to USB C Cable, 10FT](https://eu.ugreen.com/products/ugreen-100w-usb-c-cable-iphone-macbook) ###
 
  Previous page Next page 1 For Laptops 2 For Tablets 3 For Phones Previous page Next page 1 Laptops Models 2 Phone Models 3 Other C Devices
@@ -41,7 +45,3 @@ Fast Charge Almost All USB C Devices UGREEN USB C Charger Cable delivers power u
 ### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
 
 No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
-
-### [UGREEN Right Angle USB C Cable 3.0 Type C Charger 5Gbps](https://eu.ugreen.com/products/ugreen-right-angle-usb-c-cable-3-0-type-c-charger-cable-fast-charging-5gbps) ###
-
-\_ Important Note Before Purchase: 1.Not support the phone case thicker than 2mm. 2.Not support video output 3.Charging speed will depend on the device and the wall charger. We sugget...
