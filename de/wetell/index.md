@@ -130,12 +130,7 @@ Telefonisch – unter der
 
 Funktastisch!
 
-**Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.**
-
-Mach jetzt mit beim WEtell Hub Crowdfunding!
-Bau mit uns digitale Infrastruktur mit Haltung.
-
-[](https://www.startnext.com/wetell-hub)
+Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.
 
 * 3GB
 * 7GB
@@ -309,6 +304,13 @@ Daten 5G
 [Jetzt bestellen](https://www.wetell.de/shop/privat/ueberschall)
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: -5 € bis +5 € / Monat
+
+Mail.Cloud. Kalender
+----------
+
+Nach Mobilfunk kommt jetzt der WEtell Hub: dein digitales Zuhause für Mail, Cloud, Kalender & Online Office. Mach jetzt beim Crowdfunding mit für eine unabhängige, gemeinwohlorientierte und klimafokussierte digitale Infrastruktur.
+
+[Mehr dazu](https://www.startnext.com/wetell-hub)
 
 Der Funke, der alle ansteckt
 ----------
