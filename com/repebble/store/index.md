@@ -3,7 +3,7 @@ Get your new Pebble watch
 
 My new company (Core Devices) and I are proud to introduce two new watches that closely follow the original Pebble DNA. If you had a Pebble and loved it, or missed your chance 10 years ago but heard about it since, we think you will really enjoy these new devices.
 
-For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functionality, long battery life and a fun, quirky design. It first launched on Kickstarter in 2012. The company was sold in 2016 to Fitbit. In January 2025, Google graciously open sourced [PebbleOS](https://github.com/pebble-dev/pebble-firmware), enabling anyone to build upon the amazing Pebble software foundation.
+For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functionality, long battery life and a fun, quirky design. It first launched on Kickstarter in 2012. The company was sold in 2016 to Fitbit. In January 2025, Google graciously open sourced [PebbleOS](https://github.com/coredevices/pebbleos), enabling anyone to build upon the amazing Pebble software foundation.
 
 For more details, read the [announcement blog post](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches).
 
@@ -48,7 +48,7 @@ Step and sleep tracking
 
 Microphone and speaker
 
-Runs [PebbleOS](https://github.com/pebble-dev/pebble-firmware) (open source)
+Runs [PebbleOS](https://github.com/coredevices/pebbleos) (open source)
 
 10,000+ watchfaces and apps on [Pebble Appstore](https://apps.rePebble.com)
 
@@ -95,7 +95,7 @@ It's highly likely that worldwide tariffs will change between now and when we st
 
 Sure. Feedback is always appreciated, but we're not planning to make any changes to the hardware at this point. Also, it's highly likely that we've already considered the feature in question and decided not to include it. Designing a smartwatch is an exercise in taste and constraint maximization.
 
-Here's the awesome part - PebbleOS is [open source](https://github.com/pebble-dev/pebble-firmware)! You don't need our permission to add new software features. You can modify the OS and run those changes on your watch. If you're hardware inclined, you can even build your own watch (with different features or capabilities) and run PebbleOS on it.
+Here's the awesome part - PebbleOS is [open source](https://github.com/coredevices/pebbleos)! You don't need our permission to add new software features. You can modify the OS and run those changes on your watch. If you're hardware inclined, you can even build your own watch (with different features or capabilities) and run PebbleOS on it.
 
 ### What are the technical specifications? ###
 
