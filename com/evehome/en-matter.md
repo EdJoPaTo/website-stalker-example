@@ -753,7 +753,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Light Switch (U.S. & Canada)
 * Eve Motion
 * Eve MotionBlinds for Roller Blinds
-* Eve Shutter Switch (coming soon)
+* Eve Shutter Switch
 * Eve Thermo
 * Eve Weather
 
