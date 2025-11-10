@@ -186,7 +186,7 @@ IN DEINER NÄHE!
 |    FRANKFURT     |11/10/2025|10/10/2026|
 |      RÜGEN       |18/10/2025|17/10/2026|
 |   SCHAFFHAUSEN   |25/10/2025|          |
-|     NÜRNBERG     |08/11/2025|          |
+|     NÜRNBERG     |08/11/2025|07/11/2026|
 
 #### Finde einen Megamarsch in deiner nähe! ####
 
