@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### SCHAFFHAUSEN ###
+### #wirgehenweiter Advent spezial ###
 
-### 25. - 26. OKTOBER 2025 ###
+### 05.-07. Dezember 2025 ###
 
-### 100 km (+ ziel bei 50 km) ###
+### 50 oder 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/schaffhausen)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/wirgehenweiter-advent-spezial)
 
 [Location](https://www.megamarsch.de/ostsee)
 
