@@ -2759,11 +2759,12 @@ Ja, Sie können dem Zugpersonal das Online-Ticket problemlos als PDF auf einem L
 
 Sie können Bonvoyo für die Zahlung auf bahn.de und im DB Navigator generell nutzen, unabhängig davon, ob Sie eingeloggt sind oder nicht.
 
-Hier können Sie **nicht** mit **bonvoyo** bezahlen:
-\- im Fahrkartenshop
-\- im bahn.business Portal
+Hier können Sie **nicht** mit **Bonvoyo** bezahlen:
 
-Gutscheine können nich im bonvoyo erworben werden.
+* im Fahrkartenshop
+* im bahn.business Portal
+
+Gutscheine können nicht mit Bonvoyo erworben werden
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-alle-angebote-mit-bonvoyo-bezahlen)
 
