@@ -968,7 +968,7 @@ Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten k
 
 Reisen das Kind und die Begleitperson in einem Zug des Nahverkehrs und neben dem Schwerbehindertenausweis mit Merkzeichen „B“ liegt auch eine Wertmarke vor, dann dürfen das Kind und die Begleitperson kostenfrei fahren.
 
-Hier finden Sie weitere [Informationen für bearrierefreies Reisen](https://www.bahn.de/service/individuelle-reise/barrierefrei).
+Hier finden Sie weitere [Informationen für barrierefreies Reisen](https://www.bahn.de/service/individuelle-reise/barrierefrei).
 
 * [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
 
