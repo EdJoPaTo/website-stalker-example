@@ -9,6 +9,13 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 Keine Deals in dieser Kategorie
 
+Du suchst etwas anderes? Kein Problem!
+----------
+
+Vom 24. bis 28. November erwarten dich täglich neue Deals aus verschiedenen Produktkategorien – jeweils verfügbar von 8 Uhr bis 8 Uhr MEZ am Folgetag. Da ist für jeden etwas dabei!
+
+[Zur Black Week](https://www.netcup.com/de/deals/black-friday)
+
 Bleibe auf dem Laufenden
 ----------
 
