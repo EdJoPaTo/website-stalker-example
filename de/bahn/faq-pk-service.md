@@ -5302,7 +5302,7 @@ Das Connectivity Radar zeigt die aktuelle Internet-Verbindungsqualität des Bord
  Was ist der BahnBonus Statusservice?
 ----------
 
-Der BahnBonus Statusservice ist die exklusive Hotline für Statuskund:innen. Den Kontakt hierzu finden Sie in der BahnBonus App.
+Der BahnBonus Statusservice ist der exklusive Kundenservice für Statuskund:innen. Den Kontakt hierzu finden Sie in der BahnBonus App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-bahnbonus-statusservice)
 

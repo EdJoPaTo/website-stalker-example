@@ -145,4 +145,12 @@ Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der gelte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-wechsel)
 
+###  Wo finde ich weitere Informationen zum Deutschland-Ticket?  ###
+
+Weitere Fragen und Antworten zum Deutschland-Ticket finden Sie in unseren FAQ.
+
+* [Weitere FAQ zum Deutschland-Ticket](https://bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-faq)
+
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
