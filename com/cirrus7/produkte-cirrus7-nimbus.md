@@ -329,8 +329,6 @@ cirrus nimbus
     LO-DIMM – 5600MHz
   * **64 GB DDR5 (2x 32GB)**
     LO-DIMM – 5600MHz
-  * **96 GB DDR5 (2x 48GB)**
-    LO-DIMM – 5600MHz
   * **128 GB DDR5 (2x 64GB)**
     LO-DIMM – 5600MHz
 
