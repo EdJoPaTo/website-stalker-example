@@ -227,9 +227,9 @@ Easy
 
 [Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+12/673?lang=en)
 
-[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-12/77554)
 
-[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-12/77554)
 
  Ubuntu 25.10
 
