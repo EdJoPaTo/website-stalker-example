@@ -9,9 +9,183 @@ There are tradeoffs between different distributions, especially if you’re on t
 
 You can check out our [**Knowledgebase article**](https://knowledgebase.frame.work/en_us/officially-supported-vs-compatible-linux-distributions-ByVPFgyTs) for more information about our officially supported Linux distributions versus the compatible community supported distributions.
 
-### Framework Laptop 16 (AMD Ryzen™ AI 300 Series) compatibility ###
+### Framework Laptop 16 (AMD Ryzen™ AI 300 Series) Compatibility ###
 
-##### Coming soon #####
+##### 📦 Kernel support #####
+
+Minimum: 6.5 | Recommended: 6.15+ | Best Experience: Latest
+
+ Officially supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Fedora 43
+
+Fedora 43
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+16/586?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+16/586?lang=en)
+
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-16/77410)
+
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-16/77410)
+
+ Ubuntu 25.10
+
+Ubuntu 25.10
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 25.10 Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.10+Installation+on+the+Framework+Laptop+16/585?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.10+Installation+on+the+Framework+Laptop+16/585?lang=en)
+
+[Ubuntu 25.10 Community Forum](https://community.frame.work/t/ubuntu-25-10-on-the-framework-laptop-16/77411)
+
+[Community Forum](https://community.frame.work/t/ubuntu-25-10-on-the-framework-laptop-16/77411)
+
+ Bazzite
+
+Bazzite
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Bazzite Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+16/407?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Bazzite+Installation+on+the+Framework+Laptop+16/407?lang=en)
+
+[Bazzite Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-16/51307)
+
+[Community Forum](https://community.frame.work/t/bazzite-community-page-framework-laptop-16/51307)
+
+ Compatible community supported
+
+ Linux Distro
+
+ Wi-Fi and Bluetooth
+
+ Fingerprint Reader
+
+ Stability
+
+ Ease of Setup
+
+ Setup Guide
+
+ Community Forum
+
+ Arch Linux
+
+Arch Linux
+
+Wi-Fi and Bluetooth
+
+Requires setup
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Some Risk
+
+Ease of Setup
+
+Medium difficulty
+
+[Arch Linux Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+16/399)
+
+[Setup Guide](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+16/399)
+
+[Arch Linux Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-16/44854)
+
+[Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-16/44854)
+
+ NixOS 25.10
+
+NixOS 25.10
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Requires setup
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Medium difficulty
+
+[NixOS 25.10 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+16/401)
+
+[Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+16/401)
+
+[NixOS 25.10 Community Forum](https://community.frame.work/t/nixos-on-the-framework-laptop-16/46743)
+
+[Community Forum](https://community.frame.work/t/nixos-on-the-framework-laptop-16/46743)
 
 ### Framework Laptop 12 (13th Gen Intel® Core™) Compatibility ###
 
@@ -33,33 +207,9 @@ Minimum: 6.1 | Recommended: 6.13+ | Best Experience: Latest
 
  Community Forum
 
- Fedora 42
+ Fedora 43
 
-Fedora 42
-
-Wi-Fi and Bluetooth
-
-Works out of the box
-
-Stability
-
-Stable
-
-Ease of Setup
-
-Easy
-
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+12/410)
-
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+12/410)
-
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-12/66954)
-
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-12/66954)
-
- Ubuntu 25.04
-
-Ubuntu 25.04
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -73,13 +223,37 @@ Ease of Setup
 
 Easy
 
-[Ubuntu 25.04 Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.04+Installation+on+the+Framework+Laptop+12/422)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+12/673?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.04+Installation+on+the+Framework+Laptop+12/422)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+12/673?lang=en)
 
-[Ubuntu 25.04 Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-12/66955)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
-[Community Forum](https://community.frame.work/t/ubuntu-24-04-on-the-framework-laptop-12/66955)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
+
+ Ubuntu 25.10
+
+Ubuntu 25.10
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 25.10 Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.10+Installation+on+the+Framework+Laptop+12/595?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.10+Installation+on+the+Framework+Laptop+12/595?lang=en)
+
+[Ubuntu 25.10 Community Forum](https://community.frame.work/t/ubuntu-25-10-on-framework-laptop-12/77416)
+
+[Community Forum](https://community.frame.work/t/ubuntu-25-10-on-framework-laptop-12/77416)
 
  Bazzite
 
@@ -167,9 +341,9 @@ Easy
 
 [Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-12/66961)
 
- NixOS 25.05
+ NixOS 25.10
 
-NixOS 25.05
+NixOS 25.10
 
 Wi-Fi and Bluetooth
 
@@ -183,11 +357,11 @@ Ease of Setup
 
 Medium difficulty
 
-[NixOS 25.05 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+12/412)
+[NixOS 25.10 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+12/412)
 
 [Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+12/412)
 
-[NixOS 25.05 Community Forum](https://community.frame.work/t/nixos-on-the-framework-laptop-12/66962)
+[NixOS 25.10 Community Forum](https://community.frame.work/t/nixos-on-the-framework-laptop-12/66962)
 
 [Community Forum](https://community.frame.work/t/nixos-on-the-framework-laptop-12/66962)
 
@@ -211,9 +385,9 @@ Minimum: 6.11 | Recommended: 6.15+ | Best Experience: Latest
 
  Community Forum
 
- Fedora 42
+ Fedora 43
 
-Fedora 42
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -227,13 +401,37 @@ Ease of Setup
 
 Easy
 
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Desktop/414)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Desktop/674?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Desktop/414)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Desktop/674?lang=en)
 
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-desktop/66979)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-desktop/77553)
 
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-desktop/66979)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-desktop/77553)
+
+ Ubuntu 25.10
+
+Ubuntu 25.10
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 25.10 Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.10+Installation+on+the+Framework+Desktop/656?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.10+Installation+on+the+Framework+Desktop/656?lang=en)
+
+[Ubuntu 25.10 Community Forum](https://community.frame.work/t/ubuntu-25-10-on-framework-desktop/77417)
+
+[Community Forum](https://community.frame.work/t/ubuntu-25-10-on-framework-desktop/77417)
 
  Bazzite
 
@@ -297,9 +495,9 @@ Medium difficulty
 
 [Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-desktop/66983)
 
- NixOS 25.05
+ NixOS 25.10
 
-NixOS 25.05
+NixOS 25.10
 
 Wi-Fi and Bluetooth
 
@@ -313,11 +511,11 @@ Ease of Setup
 
 Medium difficulty
 
-[NixOS 25.05 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Desktop/417)
+[NixOS 25.10 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Desktop/417)
 
 [Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Desktop/417)
 
-[NixOS 25.05 Community Forum](https://community.frame.work/t/nixos-on-the-framework-desktop/66984)
+[NixOS 25.10 Community Forum](https://community.frame.work/t/nixos-on-the-framework-desktop/66984)
 
 [Community Forum](https://community.frame.work/t/nixos-on-the-framework-desktop/66984)
 
@@ -343,9 +541,9 @@ Minimum: 6.11 | Recommended: 6.15+ | Best Experience: Latest
 
  Community Forum
 
- Fedora 42
+ Fedora 43
 
-Fedora 42
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -363,13 +561,41 @@ Ease of Setup
 
 Easy
 
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
+
+ Ubuntu 25.10
+
+Ubuntu 25.10
+
+Wi-Fi and Bluetooth
+
+Works out of the box
+
+Fingerprint Reader
+
+Works out of the box
+
+Stability
+
+Stable
+
+Ease of Setup
+
+Easy
+
+[Ubuntu 25.10 Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.10+Installation+on+the+Framework+Laptop+13/563?lang=en)
+
+[Setup Guide](https://guides.frame.work/Guide/Ubuntu+25.10+Installation+on+the+Framework+Laptop+13/563?lang=en)
+
+[Ubuntu 25.10 Community Forum](https://community.frame.work/t/ubuntu-25-10-on-the-framework-laptop-13/77412)
+
+[Community Forum](https://community.frame.work/t/ubuntu-25-10-on-the-framework-laptop-13/77412)
 
  Bazzite
 
@@ -443,9 +669,9 @@ Medium difficulty
 
 [Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
 
- NixOS 25.05
+ NixOS 25.10
 
-NixOS 25.05
+NixOS 25.10
 
 Wi-Fi and Bluetooth
 
@@ -463,11 +689,11 @@ Ease of Setup
 
 Medium difficulty
 
-[NixOS 25.05 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+[NixOS 25.10 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
 
 [Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
 
-[NixOS 25.05 Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+[NixOS 25.10 Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
 [Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
@@ -493,9 +719,9 @@ Minimum: 6.8 | Recommended: 6.12+ | Best Experience: Latest
 
  Community Forum
 
- Fedora 41/42
+ Fedora 43
 
-Fedora 41/42
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -513,13 +739,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41/42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Fedora 41/42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
  Ubuntu 24.04+
 
@@ -649,9 +875,9 @@ Easy
 
 [Community Forum](https://community.frame.work/t/linux-mint-on-the-framework-laptop-13/25378)
 
- NixOS 25.05
+ NixOS 25.10
 
-NixOS 25.05
+NixOS 25.10
 
 Wi-Fi and Bluetooth
 
@@ -669,11 +895,11 @@ Ease of Setup
 
 Medium difficulty
 
-[NixOS 25.05 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
+[NixOS 25.10 Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
 
 [Setup Guide](https://guides.frame.work/Guide/NixOS+on+the+Framework+Laptop+13/400)
 
-[NixOS 25.05 Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
+[NixOS 25.10 Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
 [Community Forum](https://community.frame.work/t/framework-nixos-linux-users-self-help/31426)
 
@@ -699,9 +925,9 @@ Minimum: 6.6 | Recommended: 6.10+ | Best Experience: Latest
 
  Community Forum
 
- Fedora 41/42
+ Fedora 43
 
-Fedora 41/42
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -719,13 +945,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 41/42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Fedora 41/42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
  Ubuntu 24.04+
 
@@ -933,9 +1159,9 @@ Minimum: 6.6 | Recommended: 6.10+ | Best Experience: Latest
 
  Community Forum
 
- Fedora 42
+ Fedora 43
 
-Fedora 42
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -953,13 +1179,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+16/420?lang=en)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+16/586?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+16/420?lang=en)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+16/586?lang=en)
 
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-16/67703)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-16/77410)
 
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-16/67703)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-16/77410)
 
  Ubuntu 24.04+
 
@@ -1165,9 +1391,9 @@ Easy
 
  Community Forum
 
- Fedora 42
+ Fedora 43
 
-Fedora 42
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -1185,13 +1411,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
  Ubuntu 24.04+
 
@@ -1397,9 +1623,9 @@ Easy
 
  Community Forum
 
- Fedora 42
+ Fedora 43
 
-Fedora 42
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -1417,13 +1643,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
  Ubuntu 24.04+
 
@@ -1657,9 +1883,9 @@ Medium difficulty
 
  Community Forum
 
- Fedora 42
+ Fedora 43
 
-Fedora 42
+Fedora 43
 
 Wi-Fi and Bluetooth
 
@@ -1677,13 +1903,13 @@ Ease of Setup
 
 Easy
 
-[Fedora 42 Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Fedora 43 Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Setup Guide](https://guides.frame.work/Guide/Fedora+42+Installation+on+the+Framework+Laptop+13/419?lang=en)
+[Setup Guide](https://guides.frame.work/Guide/Fedora+43+Installation+on+the+Framework+Laptop+13/662?lang=en)
 
-[Fedora 42 Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Fedora 43 Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
-[Community Forum](https://community.frame.work/t/fedora-42-on-the-framework-laptop-13/67702)
+[Community Forum](https://community.frame.work/t/fedora-43-on-the-framework-laptop-13/77552)
 
  Ubuntu 24.04+
 
