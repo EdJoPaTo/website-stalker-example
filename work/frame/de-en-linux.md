@@ -13,7 +13,7 @@ You can check out our [**Knowledgebase article**](https://knowledgebase.frame.wo
 
 ##### 📦 Kernel support #####
 
-Minimum: 6.5 | Recommended: 6.15+ | Best Experience: Latest
+Minimum: 6.15 | Recommended: 6.15+ | Best Experience: Latest
 
  Officially supported
 
