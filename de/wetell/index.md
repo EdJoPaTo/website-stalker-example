@@ -305,7 +305,7 @@ Daten 5G
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: -5 € bis +5 € / Monat
 
-Mail.Cloud. Kalender
+Mail. Cloud. Kalender
 ----------
 
 Nach Mobilfunk kommt jetzt der WEtell Hub: dein digitales Zuhause für Mail, Cloud, Kalender & Online Office. Mach jetzt beim Crowdfunding mit für eine unabhängige, gemeinwohlorientierte und klimafokussierte digitale Infrastruktur.
