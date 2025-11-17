@@ -3,7 +3,7 @@ netcup Deals
 
 Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-[Zum Newsletter](https://www.netcup.com/de/deals#newsletter)
+[Zu den Deals](https://www.netcup.com/de/deals#deals)
 
 * Alle (0) Flash Deals (0)
 
