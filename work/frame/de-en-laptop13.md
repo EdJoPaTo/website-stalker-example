@@ -148,8 +148,7 @@ working on with the Framework Newsletter. ###
 
 Monthly-ish
 
-### Help shape future Framework products.
-Click below to take a quick survey. ###
+### Help shape future Framework products. Click below to take a quick survey. ###
 
 [Take our survey](https://frameworkcomputer.typeform.com/to/q5BoD51G?utm_medium=13overview)
 
