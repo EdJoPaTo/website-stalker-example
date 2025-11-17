@@ -5911,9 +5911,10 @@ Im Bereich Spiele finden Sie eine Auswahl an lustigen Onlinegames verschiedenste
 
 Die Formulare können in allen DB Reisezentren, in den Verkaufsstellen teilnehmender Eisenbahnunternehmen oder an DB Informationen abgegeben oder per Post zur Bearbeitung an das Servicecenter Fahrgastrechte gesendet werden:
 
-**DB Dialog
+DB Fernverkehr AG
 Servicecenter Fahrgastrechte
-60647 Frankfurt am Main**
+60647 Frankfurt am Main
+Deutschland
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-stellen-duerfen-fahrgastrechte-formulare-annehmen)
 
@@ -7824,7 +7825,7 @@ Außerdem stellt die DB ihre Beförderungsbedingungen unter [www.bahn.de/agb](ht
  Wo kann ich weitere Aufwendungen aufgrund einer Verspätung geltend machen?
 ----------
 
-Die Erstattung erforderlicher Aufwendungen aufgrund einer Verspätung (z.B. Bus, Taxi, Hotel) können Sie ausschließlich beim Servicecenter Fahrgastrechte (DB Dialog, Servicecenter Fahrgastrechte, 60647 Frankfurt am Main) beantragen.
+Die Erstattung erforderlicher Aufwendungen aufgrund einer Verspätung (z.B. Bus, Taxi, Hotel) können Sie ausschließlich beim Servicecenter Fahrgastrechte (DB Fernverkehr AG, Servicecenter Fahrgastrechte, 60647 Frankfurt am Main, Deutschland) beantragen.
 
 Dazu müssen neben der Fahrkarte oder einer Kopie der Fahrkarte die Originalbelege zu den entstandenen Aufwendungen eingesendet werden.
 
