@@ -1173,6 +1173,7 @@
 * [Suchmaschine](https://www.wdrmaus.de/filme/sachgeschichten/suchmaschine.php5)
 * [Südafrika-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/suedafrika_spezial.php5)
 * [Süßwasser auf Inseln](https://www.wdrmaus.de/filme/sachgeschichten/suesswasser_auf_inseln.php5)
+* [Supermarkt aus Holzbausteinen](https://www.wdrmaus.de/filme/sachgeschichten/supermarkt_aus_holzbausteinen.php5)
 * [Superzeitlupe](https://www.wdrmaus.de/filme/sachgeschichten/superzeitlupe.php5)
 * [Supratrans](https://www.wdrmaus.de/filme/sachgeschichten/supratranst.php5)
 * [Synagoge](https://www.wdrmaus.de/filme/sachgeschichten/synagoge.php5)
