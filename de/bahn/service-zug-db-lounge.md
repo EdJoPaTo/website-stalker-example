@@ -11,10 +11,8 @@ Wählen Sie Ihre DB Lounge für detaillierte Informationen
 ----------
 
 * [Springe zu: DB Lounge - Berlin](https://www.bahn.de/service/zug/db-lounge#berlin)
-* [Springe zu: DB Lounge - Bremen](https://www.bahn.de/service/zug/db-lounge#bremen)
 * [Springe zu: DB Lounge - Dresden](https://www.bahn.de/service/zug/db-lounge#dresden)
 * [Springe zu: DB Lounge - Düsseldorf](https://www.bahn.de/service/zug/db-lounge#d%C3%BCsseldorf)
-* [Springe zu: DB Lounge - Essen](https://www.bahn.de/service/zug/db-lounge#essen)
 * [Springe zu: DB Lounge Frankfurt (Main)](https://www.bahn.de/service/zug/db-lounge#frankfurt)
 * [Springe zu: DB Lounge - Frankfurt/Main Flughafen](https://www.bahn.de/service/zug/db-lounge#frankfurt-flughafen)
 * [Springe zu: DB Lounge - Hamburg](https://www.bahn.de/service/zug/db-lounge#hamburg)
@@ -100,14 +98,6 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 * [DB Lounge Berlin - Lageplan (PDF, 660 KB) Download der Datei: DB Lounge Berlin - Lageplan (PDF, 660 KB)](https://assets.static-bahn.de/dam/jcr:85b72d48-b4d6-4ebd-90d8-aab10db20b8e/02-Berlin-Hbf.pdf)
 
-###  DB Lounge Bremen  ###
-
-#### Bremen ####
-
-**Öffnungszeiten:** Aus operativen Gründen bis auf Weiteres geschlossen.
-
-* [DB Lounge Bremen Lageplan (PDF, 77 KB) Download der Datei: DB Lounge Bremen Lageplan (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:6289c50c-8940-411e-b587-bcdff4133f28/10-Bremen-Hbf.pdf)
-
 ###  DB Lounge Dresden  ###
 
 #### Dresden ####
@@ -123,14 +113,6 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 **Öffnunszeiten:** Mo-Fr: 7:00-21:00 Uhr / Sa-So und Feiertag: 8:00-20:00 Uhr
 
 * [DB Lounge Düsseldorf Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Düsseldorf Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:71f45914-f967-4095-8342-d350dacaa78e/341_Lageplan_D%C3%BCsseldorf.pdf)
-
-###  DB Lounge Essen  ###
-
-#### Essen ####
-
-**Öffnungszeiten:** Aus operativen Gründen bis auf Weiteres geschlossen.
-
-* [DB Lounge Essen Lageplan (PDF, 78 KB) Download der Datei: DB Lounge Essen Lageplan (PDF, 78 KB)](https://assets.static-bahn.de/dam/jcr:8bf3a731-c77a-407c-b7cd-0ea260c85634/13-Essen-Hbf.pdf)
 
 ###  DB Lounge Frankfurt (Main)  ###
 
