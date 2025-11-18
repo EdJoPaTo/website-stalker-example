@@ -289,8 +289,6 @@ Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTrans
 
  USB-A
 
- The USB-A Expansion Card gives you access to devices like keyboards, mice, thumbdrives, and more using USB-A connections at up to USB 3.2 Gen 2 speeds.
-
  Details
 
  USB-A Expansion Card
@@ -303,8 +301,6 @@ Close
  \+€10
 
  HDMI (3rd Gen)
-
- The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output. You can use multiple simultaneously to handle additional monitors, up to the number your processor supports.
 
  Details
 
@@ -331,8 +327,6 @@ Close
  \+€45
 
  DisplayPort (2nd Gen)
-
- The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life. Passes through DP Alt Mode directly from the Mainboard, enabling support for the maximum DisplayPort version and monitor resolution supported by the processor.
 
  Details
 
