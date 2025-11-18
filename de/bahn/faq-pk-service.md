@@ -7755,7 +7755,11 @@ Hier können Sie einen Bahnhof auswählen und unter "Beratung und Unterstützung
  Wo kann ich die Benachrichtigungen zur Reise aktivieren?
 ----------
 
-Die neuen Benachrichtigungen zur Reise können Sie überall dort aktivieren, wo das auch für den Verspätungs-Alarm möglich war; zum Beispiel in der Reiseauskunft, am Ende der Buchung, und in "Meine Reisen".
+Um rechtzeitig zu Änderungen im Fahrplan informiert zu werden und Erinnerungen an Ein- und Umstiege zu erhalten, aktivieren Sie ganz einfach die Benachrichtigungen zur Reise. Die Informationen erhalten Sie dann in Form von Push-Benachrichtigungen auf Ihrem Smartphone.
+
+Sie können die Benachrichtigungen zur Reise in der App DB Navigator entweder bei der Ticketbuchung oder über die Funktionen „Reise merken“ und „Wiederholende Reise einstellen" aktivieren.
+
+* [Anleitung zur Aktivierung von Push-Nachrichten](https://www.bahn.de/service/fahrplaene/digitale-reisebegleitung/verspaetungsalarm-push)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-die-benachrichtigungen-zur-reise-aktivieren)
 
