@@ -7760,7 +7760,7 @@ Hier können Sie einen Bahnhof auswählen und unter "Beratung und Unterstützung
 
 Um rechtzeitig zu Änderungen im Fahrplan informiert zu werden und Erinnerungen an Ein- und Umstiege zu erhalten, aktivieren Sie ganz einfach die Benachrichtigungen zur Reise. Die Informationen erhalten Sie dann in Form von Push-Benachrichtigungen auf Ihrem Smartphone.
 
-Sie können die Benachrichtigungen zur Reise in der App DB Navigator entweder bei der Ticketbuchung oder über die Funktionen „Reise merken“ und „Wiederholende Reise einstellen" aktivieren.
+Sie können die Benachrichtigungen zur Reise in der App DB Navigator entweder bei der Ticketbuchung oder über die Funktionen "Reise merken" und "Wiederholende Reise einstellen" aktivieren.
 
 * [Anleitung zur Aktivierung von Push-Nachrichten](https://www.bahn.de/service/fahrplaene/digitale-reisebegleitung/verspaetungsalarm-push)
 
