@@ -236,22 +236,6 @@ Damen  ###
 
 [jetzt entdecken](https://www.strauss.com/de/de/warnschutzkleidung-en20471-damen/?itemorigin=startseite_HW25)
 
-Hallo Hannover!
-
-----------
-
----
-
-###  Messe  ###
-
----
-
- 09.11 - 15.11.2025 | Hannover
-
- Halle 2, Stand C19
-
-[mehr Informationen](https://www.agritechnica.com/de/)
-
  Nach Kategorie shoppen
 ---
 
