@@ -5280,15 +5280,18 @@ Je nach Kreditkarte nennt sich das Online-Legitimationsverfahren auch American E
  Was ist Bonvoyo?
 ----------
 
-**Bonvoyo ist das Mobilitätsbudget der Deutschen Bahn:** Arbeitgeberfinanzierte Mobilität aus einer Hand.
+**Bonvoyo** ist das **smarte Mobilitätsbudget** und ein moderner Mitarbeitervorteil für flexible, unternehmensgeförderte Mobilität.
 
-Mit dem innovativen Mobilitätskonzept können Unternehmen aller Art ihren Mitarbeitern ein individuelles, flexibel einsetzbares Budget passend zu deren Mobilitätsbedürfnissen bereitstellen.
+* **Vorteile für Arbeitgeber:**
+   Bonvoyo macht betriebliche Mobilität **einfach, digital und aufwandsarm.** Unternehmen behalten über ein zentrales Online-Portal jederzeit den Überblick, können Budgets anpassen und Ausgaben transparent analysieren. Das Ergebnis: **effizientes Mobilitätsmanagement** und ein **attraktiver** **Mitarbeitervorteil**.
 
-Und das Beste: Das Budget kann von Arbeitnehmern völlig flexibel für alle nutzbaren Verkehrsmittel eingesetzt werden. Ob Fahrrad, Auto, ÖPNV, Fernverkehr oder Taxi. Die Kosten werden über den Arbeitgeber abgerechnet.
+* **Vorteile für Mitarbeitende:**
+   Mitarbeitenden wird von ihrem Unternehmen ein individuell nutzbares Budget bereitgestellt. Dieses Budget kann für verschiedene Verkehrsmittel wie **ÖPNV, Bahn, Carsharing, Mietwagen, Fahrrad, E-Scooter und Taxi** eingesetzt werden.
+   Das Mobilitätsbudget wird über die **Bonvoyo-App** den Mitarbeitenden individuell zugewiesen. Sie können das Budget eigenständig digital nutzen und sich darauf verlassen, dass es steuerkonform abgerechnet wird. So profitieren Mitarbeitende von maximaler Freiheit und Flexibilität für ihre persönlichen Mobilitätsbedürfnisse.
 
-Mehr Informationen:
+Die Lösung aus dem Umfeld der **Deutschen Bahn** steht Kunden auch als **[Zahlungsart](https://www.bahn.de/service/informationen-buchung/zahlung)** für Reisebuchungen bei bahn.de oder in der DB Navigator App zur Verfügung. Mitarbeitende mit Mobilitätsbudget können einfach eine Bahnreise buchen und mit Bonvoyo zahlen.
 
-* [Bonvoyo](https://www.deutschebahnconnect.com/bonvoyo)
+* [Mehr Informationen zu Bonvoyo erhalten Sie auf der folgenden Seite.](https://www.bonvoyo.de/benefit)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-bonvoyo)
 
