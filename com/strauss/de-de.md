@@ -1,253 +1,381 @@
-Lässig im
- Regen stehen
+Heizartikel
+---
+
+ Wärme-Komfort auf Knopfdruck
+---
+
+[zu allen Heizartikeln](https://www.strauss.com/de/de/heizprodukte/?itemorigin=startseite_XMAS25)
+
+ 3 in 1 Heizjacke e.s.concrete
+
+ Heiz-Hybrid Kapuzenstrickjacke e.s.trail, Damen
+
+ e.s. Heizsitzkissen
+
+ Power-Bank gleich mitbestellen
+
+ Power-Bank gleich mitbestellen
+
+ NEU
+
+ NEU
+
+ Neuheiten
 ----------
 
 ---
 
- e.s.e:pic:
-vielseitig & wetterfest
+ Zeit für Gemütlichkeit im
+Strauss-Style
+---
 
-[Regenjacken für Herren](https://www.strauss.com/de/de/arbeits-regenjacken/?=&sort=newest&itemOrigin=startseite_HW25)
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
 
-[Regenjacken für Damen](https://www.strauss.com/de/de/regenjacken-damen/?=&sort=newest&itemOrigin=startseite_HW25)
-
- Regenparka
-e.s.e:pic
-
- Regenparka
-e.s.e:pic, Damen
-
- Wetter-Profis
-mit Profil
+ Geschenke-zeit
 ----------
 
 ---
 
- O6 e.s. Ridgewood:
-wasserdicht & bequem
+ Weihnachtlich sparen: Sets mit
+Gratis-Zugaben
+---
 
-[jetzt entdecken](https://www.strauss.com/de/de/berufsschuhe-o6/o6-berufsschuhe-e-s-ridgewood-mid-1003410-86202-1875.html?itemorigin=startseite_HW25)
+[Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-winter-softshelljacke-troyer-e-s-motion-2020-3135420-17400-1088.html?itemorigin=startseite_XMAS25)
 
-alle wetterfesten Berufsschuhe
+[alle Sets entdecken](https://www.strauss.com/de/de/geschenkideen-bekleidungs-sets/?itemorigin=startseite_XMAS25)
 
-Schuh ohne Zehenschutz
+ \+gratis
+---
 
- O6 Berufsschuhe
-e.s. Ridgewood mid
+\+ e.s. Brotdose large
+ \+ e.s. Trinkflasche Tritan 1,5l
 
- Winter in
- Top-Form
+ \+ gratis
+---
+
+\+ e.s. Brotdose large
+ \+ e.s. Trinkflasche Tritan 1,5l
+
+ e.s.e:pic
 ----------
 
 ---
 
- e.s.ambition:
- leicht & sportlich
+ Die Festtage im epischen Look erleben
+---
 
-[zu den Produkten](https://www.strauss.com/de/de/e-s-ambition/?itemOrigin=startseite_HW25)
-
-[Kollektion entdecken](https://www.strauss.com/de/de/ambition?itemOrigin=startseite_HW25)
-
- Winterjacke
-e.s.ambition
-
- Winterjacke
-e.s.ambition, Damen
+[jetzt entdecken](https://www.strauss.com/de/de/e-s-e-pic/?itemorigin=startseite_XMAS25)
 
 *
 *
 *
+*
 
- Neue Heizartikel für die kalte Jahreszeit
+ Verlängertes Umtauschrecht
+==========
+
+---
+
+ innerhalb Deutschlands bis zum 31.01.2026
+
+ Verlängertes Umtauschrecht
+==========
+
+---
+
+ innerhalb Deutschlands bis zum 31.01.2026
+
+###  Für die Arbeitswelt von Morgen  ###
+
+---
+
+**Für alle Firmenkunden.** Nur solange der Vorrat reicht!
+
+[zur Story](https://www.strauss.com/de/de/Toolbox_XR?itemorigin=startseite_XMAS25)
+
+ Bundle e.s. Werkzeugbrille
+
+[jetzt kaufen](https://www.strauss.com/de/de/akku-geraete/bundle-e-s-werkzeugbrille-9057130-5521315-0.html?itemorigin=startseite_XMAS25) [](https://www.strauss.com/de/de/akku-geraete/bundle-e-s-werkzeugbrille-9057130-5521315-0.html?itemorigin=startseite_XMAS25)
+
+ Geschenkideen
 ----------
 
 ---
 
-###  Wärme-Boost
-auf Knopfdruck  ###
+[Bekleidung](https://www.strauss.com/de/de/geschenkideen-bekleidung/?itemorigin=startseite_XMAS25)
+
+[Accessoires](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseite_XMAS25)
+
+[Neuheiten](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
+
+[Weihnachts-Sets](https://www.strauss.com/de/de/geschenkideen-weihnachts-sets/?itemorigin=startseite_XMAS25)
+
+[Fanwear](https://www.strauss.com/de/de/geschenkideen-fanwear/?itemorigin=startseite_XMAS25)
+
+[Bekleidung](https://www.strauss.com/de/de/geschenkideen-bekleidung/?itemorigin=startseite_XMAS25)
+
+[Accessoires](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseite_XMAS25)
+
+[Neuheiten](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
+
+[Weihnachts-Sets](https://www.strauss.com/de/de/geschenkideen-weihnachts-sets/?itemorigin=startseite_XMAS25)
+
+[Fanwear](https://www.strauss.com/de/de/geschenkideen-fanwear/?itemorigin=startseite_XMAS25)
+
+ Für
+==========
 
 ---
 
- Außen Workwear, innen Heizung
----
-
-[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=startseite_HW25)
-
- Powerbank
-gleich mitbestellen
-
- Druck & Stick - ab 1 Stück
-
-###  Das perfekte Kundengeschenk  ###
+###  Familie & Freunde  ###
 
 ---
 
- Nur wenige Klicks entfernt!
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/?itemorigin=startseite_XMAS25)
 
- Easytransfer
+ Für
+==========
 
- Direkteinstickung
-
- So funktioniert’s:
 ---
 
- Wunschartikel aussuchen und auswählen.
+###  Kids  ###
 
- Zuerst ***Personalisieren*** und anschließend ***Selbst gestalten*** klicken, ggf. einloggen.\*
+---
 
- Personalisierungsart wählen, gestalten und direkt bestellen.
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseite_XMAS25)
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_HW25)
+ Passende
+==========
 
-zu den Produkten
+---
 
- \*zum Personalisieren ist ein angemeldetes Nutzerkonto erforderlich
+###  Accessoires  ###
 
- Frottier-Duschtuch Premium
+---
 
- 17 Farben
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseite_XMAS25)
 
- e.s. Fleecedecke
+ Für
+==========
 
- 5 Farben
+---
 
- Backpack e.s.motion ten
+###  Familie & Freunde  ###
 
- 5 Farben
+---
 
- Cap e.s.classic
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/?itemorigin=startseite_XMAS25)
 
- 5 Farben
+ Für
+==========
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_HW25)
+---
 
-zu den Produkten
+###  Kids  ###
 
- Schichten: so funktioniert's
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseite_XMAS25)
+
+ Passende
+==========
+
+---
+
+###  Accessoires  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseite_XMAS25)
+
+ Geschenke
+
+###  unter 25 €<sup>*</sup>  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseite_XMAS25) [](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseite_XMAS25)
+
+ Geschenke
+
+###  von 25 € bis 50 €<sup>*</sup>  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseite_XMAS25) [](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseite_XMAS25)
+
+ Geschenke
+
+###  über 50 €<sup>*</sup>  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseite_XMAS25) [](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseite_XMAS25)
+
+ \*Die Preisangabe bezieht sich auf den Nettopreis
+
+Personalisierte Outfits für jeden Anlass
+
 ----------
 
 ---
 
-###  Basisschicht  ###
+ Bis 08.12. bestellt - Lieferung pünktlich zum Fest!
+
+###  Weihnachts-
+geschenke mit herz ️  ###
 
 ---
 
- Ob Frühschicht oder Spätschicht – alle bauen auf die Basisschicht: Aufnahme überschüssiger Wärme & Feuchtigkeit, Abgabe nach außen.
+Bis 08.12. bestellt - Lieferung pünktlich zum Fest!
 
-[mehr Infos](https://www.strauss.com/de/de/funktionsbekleidung/?itemorigin=startseite_hw25#basisschicht)
-
-[Basisschicht](https://www.strauss.com/de/de#!layers/slide1)
-
-[Wärmeschicht](https://www.strauss.com/de/de#!layers/slide2)
-
-[Wetterschutzschicht](https://www.strauss.com/de/de#!layers/slide3)
-
-[Basisschicht](https://www.strauss.com/de/de#!layers/slide1)
-
-[Wärmeschicht](https://www.strauss.com/de/de#!layers/slide2)
-
-[Wetterschutzschicht](https://www.strauss.com/de/de#!layers/slide3)
-
-###  Basisschicht  ###
+###  Weihnachts-
+geschenke mit herz ️  ###
 
 ---
 
- Ob Frühschicht oder Spätschicht – alle bauen auf die Basisschicht: Aufnahme überschüssiger Wärme & Feuchtigkeit, Abgabe nach außen.
+Druck und Stick bereits ab 1 Stück
 
-[mehr Infos](https://www.strauss.com/de/de/funktionsbekleidung/?itemorigin=startseite_hw25#basisschicht)
+für Textilien mit persönlicher Note
 
-[Basisschicht](https://www.strauss.com/de/de#!layers/slide1)
+über 400 Motive online oder eigene Designs hochladen
 
-[Wärmeschicht](https://www.strauss.com/de/de#!layers/slide2)
+ Druck und Stick bereits ab 1 Stück
 
-[Wetterschutzschicht](https://www.strauss.com/de/de#!layers/slide3)
+ für Textilien mit persönlicher Note
 
- Troyer Merino e.s.trail
+ über 400 Motive online oder eigene Designs hochladen
 
- 5 Farben
+[Geschenke gestalten](https://www.strauss.com/de/de/service-logoservice-selbst-gestalten-mydesign-xmas/?itemorigin=startseite_XMAS25)
 
- Funktions-Longsleeve e.s.trail seamless-warm,Damen
+[Geschenke gestalten](https://www.strauss.com/de/de/service-logoservice-selbst-gestalten-mydesign-xmas/?itemorigin=startseite_XMAS25)
 
- 2 Farben
-
- Funktions-Long Pants e.s.trail seamless-warm,Damen
-
- 2 Farben
-
-alle Basisschicht-Artikel entdecken
-
-jetzt entdecken
-
-[alle Aktions-Angebote entdecken](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/?itemorigin=startseite_hw25&sort=newest)
-
-[alle Aktions-Angebote entdecken](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/?itemorigin=startseite_hw25&sort=newest)
-
-###  Angebote zum warm werden  ###
-
----
-
- Jetzt Doppelpack-Deals sichern!
----
-
-###  Angebote zum warm werden  ###
-
----
-
- Jetzt Doppelpack-Deals sichern!
----
-
- Doppelpack
----
-
- Doppelpack e.s. Funkt.-Long Pants seamless-warm,D.
-
- 1 Farbe
-
- Doppelpack
----
-
- Doppelpack e.s. Funktions-Longsleeve seamless-warm
-
- 1 Farbe
-
- Doppelpack
----
-
- Doppelpack e.s. Funktions-Long Pants seamless-warm
-
- 1 Farbe
-
- Rund um die Uhr hell - Warnschutzkleidung
+ Weihnachts-Sets
 ----------
 
 ---
 
-###  für
-Herren  ###
+[
+
+Herren
+
+]()
+
+[Damen](https://www.strauss.com/de/de#!christmassets/women)
+
+[Kinder](https://www.strauss.com/de/de#!christmassets/kids)
+
+[Werkzeuge & Accessoires](https://www.strauss.com/de/de#!christmassets/tools)
+
+[
+
+Herren
+
+]()
+
+[Damen](https://www.strauss.com/de/de#!christmassets/women)
+
+[Kinder](https://www.strauss.com/de/de#!christmassets/kids)
+
+[Werkzeuge & Accessoires](https://www.strauss.com/de/de#!christmassets/tools)
+
+ Weihnachts-Sets
+----------
 
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/warnschutzkleidung-en20471/?itemorigin=startseite_HW25)
+[
 
-###  für
-Damen  ###
+Herren
+
+]()
+
+[Damen](https://www.strauss.com/de/de#!christmassets/women)
+
+[Kinder](https://www.strauss.com/de/de#!christmassets/kids)
+
+[Werkzeuge & Accessoires](https://www.strauss.com/de/de#!christmassets/tools)
+
+ SET: Bundhose + Winter Bundhose e.s.motion 2020
+
+\+ gratis Lunchbag
+
+ SET: Regenjacke + Funkt.Troyer e.s.concrete
+
+\+ gratis Thermobecher
+
+\+ gratis Brotdose large
+
+ SET: 2x Worker Cargohose e.s.vintage
+
+\+ gratis Food-Container
+
+\+ gratis Besteckset
+
+[Alle Herren-Sets entdecken](https://www.strauss.com/de/de/f/geschenkideen-bekleidungs-sets/Herren_Damen_Kinder:Herren/?itemorigin=startseite_XMAS25)
+
+[Alle Herren-Sets entdecken](https://www.strauss.com/de/de/f/geschenkideen-bekleidungs-sets/Herren_Damen_Kinder:Herren/?itemorigin=startseite_XMAS25)
+
+ mit tollen
+gratis Artikeln
+----------
 
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/warnschutzkleidung-en20471-damen/?itemorigin=startseite_HW25)
+ Klassiker unter den Geschenken
+----------
 
- Nach Kategorie shoppen
 ---
 
-[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/?sort=newest)
+###  Gutschein per Mail  ###
 
-[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/?sort=newest)
+---
 
-[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?sort=newest)
+ Persönlich gestalten. Sofort drucken.
 
-[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?sort=newest)
+[jetzt entdecken](https://gutschein.strauss.de/?itemorigin=startseite_XMAS25)
 
-[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?sort=newest)
+###  Gutschein per Post  ###
+
+---
+
+ Hochwertige Verpackung. Große Wirkung.
+
+[jetzt entdecken](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_XMAS25)
+
+ Partner-Kollektionen
+----------
+
+---
+
+[FC Bayern x STRAUSS](https://www.strauss.com/de/de/geschenkideen-fcb/?itemorigin=startseite_XMAS25)
+
+[Eintracht x STRAUSS](https://www.strauss.com/de/de/geschenkideen-eintracht-x-strauss/?itemorigin=startseite_XMAS25)
+
+[NFL x STRAUSS](https://www.strauss.com/de/de/geschenkideen-nfl-x-strauss/?itemorigin=startseite_XMAS25)
+
+[alle Kollaborationen](https://www.strauss.com/de/de/geschenkideen-fanwear/?itemorigin=startseite_XMAS25)
+
+[FC Bayern x STRAUSS](https://www.strauss.com/de/de/geschenkideen-fcb/?itemorigin=startseite_XMAS25)
+
+[Eintracht x STRAUSS](https://www.strauss.com/de/de/geschenkideen-eintracht-x-strauss/?itemorigin=startseite_XMAS25)
+
+[NFL x STRAUSS](https://www.strauss.com/de/de/geschenkideen-nfl-x-strauss/?itemorigin=startseite_XMAS25)
+
+[alle Kollaborationen](https://www.strauss.com/de/de/geschenkideen-fanwear/?itemorigin=startseite_XMAS25)
+
+ NEU
+
+###  FC Bayern x Strauss  ###
+
+---
+
+ Die Kollektion für große und kleine Fans.
+Jetzt Freude verschenken!
+
+[für Herren](https://www.strauss.com/de/de/fcb/?itemorigin=startseite_XMAS25)
+
+[für Kinder](https://www.strauss.com/de/de/fcb-kinder/?itemorigin=startseite_XMAS25)
 
 ####  Newsletter  ####
 
@@ -274,17 +402,31 @@ Damen  ###
 
 [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
 
- 30 TAGE RÜCKGABERECHT
+ Verlängertes Umtauschrecht
 
 [mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
 
- KOSTENLOSE RÜCKSENDUNGEN
+ KOSTENLOSE LIEFERUNG
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
+[mehr Infos](https://www.strauss.com/de/de/Service/Lieferung)
 
  KAUF AUF RECHNUNG
 
 [mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen)
+
+ GRATIS VERSAND
+==========
+
+---
+
+ innerhalb Deutschlands bis zum 22.12.2025
+
+ GRATIS VERSAND
+==========
+
+---
+
+ innerhalb Deutschlands bis zum 22.12.2025
 
 [Strauss Allemagne, Français](https://www.strauss.com/de/fr)
 

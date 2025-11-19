@@ -404,8 +404,6 @@ Close
 
  250GB (2nd Gen)
 
- 250GB (2nd Gen) Expansion Card
-
  Details
 
  250GB (2nd Gen) Expansion Card
@@ -418,8 +416,6 @@ Close
  \+€50
 
  1TB (1st Gen)
-
- 1TB Expansion Card
 
  Details
 
