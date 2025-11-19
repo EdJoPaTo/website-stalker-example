@@ -518,7 +518,7 @@ Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen,
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
 
- Ich habe das Deutschland-Ticket online bestellt. Was kann ich tun, wenn ich noch keine Aktivierungs-Mail erhalten habe?
+ Ich habe das Deutschland-Ticket online bestellt. Was kann ich tun, wenn ich noch keine Aktivierungsmail erhalten habe?
 ----------
 
 Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsmail, wird Ihre Bestellung derzeit noch vom Abo-Center verarbeitet. Falls Sie Ihre Aktivierungsmail kurz vor dem gewünschten Geltungsbereich noch nicht erhalten haben, melden Sie sich bitte bei Ihrem zuständigen Abo-Center.
@@ -873,7 +873,7 @@ Nein. In den günstigen Angeboten Super Sparpreis und Sparpreis wird bei Angabe
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-cityticket)
 
- Kann ich Deutschland-Ticket und BahnCard 25/50 gemeinsam in den Reisendenoptionen angeben?
+ Kann ich das Deutschland-Ticket und eine BahnCard 25 oder 50 zusammen bei den Reisendenoptionen auswählen?
 ----------
 
 Ja, das ist möglich.

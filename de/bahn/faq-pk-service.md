@@ -1509,7 +1509,7 @@ Nein. In den günstigen Angeboten Super Sparpreis und Sparpreis wird bei Angabe
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-cityticket)
 
- Kann ich Deutschland-Ticket und BahnCard 25/50 gemeinsam in den Reisendenoptionen angeben?
+ Kann ich das Deutschland-Ticket und eine BahnCard 25 oder 50 zusammen bei den Reisendenoptionen auswählen?
 ----------
 
 Ja, das ist möglich.
