@@ -134,7 +134,7 @@ Bitte achten Sie beim Hinzufügen Ihres Deutschland-Ticket Abos darauf, den Tari
 
 Der Preis des Deutschlandsemestertickets ist durch die Preisbildung des Deutschland-Tickets beeinflusst. Die Preismaßnahme des Deutschland-Tickets wirkt sich im Wintersemester 2025 / 2026 nicht auf Ihr Semesterticket aus. Daher ist Ihre Zustimmung nicht erforderlich.
 
-**Bitte beachten Sie:** Ab 1. Juli 2026 wird der neue Preis unter Berücksichtigung der geltenden Tarifbestimmungen wirksam und durch die Hochschulen / ASten im Rahmen der geltenden Regelungen umgesetzt. Das bedeutet, dass ein ganzes Semester mit Beginn ab dem 1. Juli 2025 zum neuen rabattierten Preis berechnet wird. Der sich daraus ergebende Semesterbeitrag wird im Vorfeld für das laufende Semester von den Hochschulen / ASten kommuniziert und erhoben.
+**Bitte beachten Sie**: Ab 1. Juli 2026 wird der neue Preis unter Berücksichtigung der geltenden Tarifbestimmungen wirksam und durch die Hochschulen / ASten im Rahmen der geltenden Regelungen umgesetzt. Das bedeutet, dass ein ganzes Semester mit Beginn ab dem 1. Juli 2025 zum neuen rabattierten Preis berechnet wird. Der sich daraus ergebende Semesterbeitrag wird im Vorfeld für das laufende Semester von den Hochschulen / ASten kommuniziert und erhoben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandsemesterticket)
 
