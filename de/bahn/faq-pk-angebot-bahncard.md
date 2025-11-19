@@ -320,7 +320,7 @@ Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.
  Wo erhalte ich mehr Informationen zur digitalen BahnCard?
 ----------
 
-Zur Nutzung der digitalen BahnCard benötigen Sie ein Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie [hier](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard und auch zur Alternative ohne Smartphone mit Schritt-für-Schritt-Anleitungen.
+Zur Nutzung der digitalen BahnCard benötigen Sie ein DB Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie [hier](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard und auch zur Alternative ohne Smartphone mit Schritt-für-Schritt-Anleitungen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/info-digitale-bahncard)
 
