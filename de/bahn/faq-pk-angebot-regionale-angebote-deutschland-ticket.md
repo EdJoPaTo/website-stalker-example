@@ -322,9 +322,9 @@ Beachten Sie bitte: Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tic
 * Nehmen Sie Rücksicht auf andere Fahrgäste.
 * Informieren Sie sich im Voraus über erwartetes hohes Fahrradaufkommen auf www.bahn.de und im DB Navigator.
 
-Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter zugportal/fahrrad.
+Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter
 
-* [Informationen zur Fahrradmitnahme im Nahververkehr](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
+* [bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad)
 
