@@ -236,7 +236,7 @@ Ja, wenn reservierte Plätze nicht bereitgestellt wurden oder wegen Zugverspätu
 
 Alternativ können Sie die Rückzahlung formlos schriftlich beantragen:
 
-DB Dialog GmbH
+DB Fernverkehr AG
 Servicecenter Fahrgastrechte
 60647 Frankfurt am Main
 

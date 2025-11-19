@@ -55,7 +55,7 @@ Laden Sie sich hier das barrierefreie Formular als PDF herunter und füllen Sie 
 
 Zudem erhalten Sie das Formular auch beim Servicepersonal im Zug, an der DB Information oder im DB Reisezentrum.
 
-* [Fahrgastrechte-Formular aufrufen (PDF, 89 KB) Weitere Informationen: Fahrgastrechte-Formular aufrufen (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25.pdf)
+* [Fahrgastrechte-Formular aufrufen (PDF, 89 KB) Weitere Informationen: Fahrgastrechte-Formular aufrufen (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
 
 In 3 Schritten per Fahrgastrechte-Formular zur Entschädigung:
 

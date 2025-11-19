@@ -474,7 +474,7 @@ Kontaktdaten Servicecenter Fahrgastrechte:
 Telefon: [030 586020920](tel:030 586020920)
 
 Adresse:
-DB Dialog GmbH
+DB Fernverkehr AG
 Servicecenter Fahrgastrechte
 60647 Frankfurt am Main
 
@@ -2580,7 +2580,7 @@ Ja, wenn reservierte Plätze nicht bereitgestellt wurden oder wegen Zugverspätu
 
 Alternativ können Sie die Rückzahlung formlos schriftlich beantragen:
 
-DB Dialog GmbH
+DB Fernverkehr AG
 Servicecenter Fahrgastrechte
 60647 Frankfurt am Main
 
@@ -4757,7 +4757,7 @@ Wenn Ihnen aufgrund einer Verspätung oder eines Zugausfalls zusätzliche Kosten
 
 3. Senden Sie alle Unterlagen an folgende Adresse:
 
-   DB Dialog GmbH
+   DB Fernverkehr AG
     Servicecenter Fahrgastrechte
     60647 Frankfurt am Main
     Deutschland
@@ -6926,7 +6926,7 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
 **Einsendung des Formulars:**
 
 * Per Post an:
-   DB Dialog GmbH
+   DB Fernverkehr AG
    Servicecenter Fahrgastrechte
    60647 Frankfurt am Main
    Deutschland

@@ -278,6 +278,6 @@ Weitere Informationen
 * [Beförderungsbedingungen für den Personenverkehr](https://www.bahn.de/agb)
 * [Broschüre "Ihre Rechte als unser Fahrgast" (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-Broschuere-Ihre-Rechte-Als-Unser-Fahrgast.pdf)
 * [Fahrgastrechte für Menschen mit Behinderung](https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte)
-* [Direkt zum Fahrgastrechte-Formular als PDF (PDF, 138 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular-Deutsch.pdf)
+* [Direkt zum Fahrgastrechte-Formular als PDF (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
 * [AJC Mitteilung (PDF, 212 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Mitteilung-072025.pdf)
 * [AJC Merkblatt (PDF, 193 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Merkblatt-072025.pdf)
