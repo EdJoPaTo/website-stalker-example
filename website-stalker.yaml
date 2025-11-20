@@ -322,9 +322,12 @@ sites:
       - https://de.starlabs.systems/
       - https://de.starlabs.systems/pages/byte
       - https://de.starlabs.systems/pages/byte-specification
+      - https://de.starlabs.systems/pages/starbook-horizon
+      - https://de.starlabs.systems/pages/starbook-horizon-specification
       - https://de.starlabs.systems/pages/starlite
       - https://de.starlabs.systems/pages/starlite-specification
       - https://de.starlabs.systems/products/byte
+      - https://de.starlabs.systems/products/starbook-horizon
       - https://de.starlabs.systems/products/starlite
     editors:
       - css_select: main
