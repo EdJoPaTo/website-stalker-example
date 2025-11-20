@@ -70,7 +70,7 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
 
 Da Sie der Weiterführung des Abonnement-Vertrages nicht zugestimmt, bzw. die Frist für die Rückmeldung verpasst haben, haben wir Ihr Deutschland-Ticket Abonnement fristgerecht zum 31. Dezember 2025 gekündigt. Darüber haben wir die Vertragspartnerin oder den Vetragspartner, das ist die bestellende Person des Abos, über die im Aboportal hinterlegte E-Mail-Adresse informiert. Wenn Sie im Januar 2026 feststellen, dass Sie dennoch ein Deutschland-Ticket benötigen, schließen Sie bitte ein neues Abonnement ab.
 
-**Bitte beachten Sie**: Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
+Bitte beachten Sie: Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
 
 Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 
