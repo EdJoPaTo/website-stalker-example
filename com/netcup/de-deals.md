@@ -5,9 +5,66 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zu den Deals](https://www.netcup.com/de/deals#deals)
 
-* Alle (0) Flash Deals (0)
+* Alle (1)
+* Webhosting
+* Root-Server
+* VPS
+* Domains
+* Andere  (1) Flash Deals (0)
 
-Keine Deals in dieser Kategorie
+Andere
+
+ DEAL DER WOCHE
+
+### managed PS 2000 G12 ###
+
+ 20% Rabatt
+
+statt 59,63 €
+
+* 8 Kerne (dediziert)
+
+* 16 GB DDR5 ECC RAM
+
+* 512 GB NVMe
+
+* 1 Monat Mindestlaufzeit
+
+* Standort: NUE
+
+pro Monat
+
+47,71 €
+
+(inkl. 19% MwSt.)
+
+[Jetzt Deal sichern](https://www.netcup.com/de/managed-cloud/managed-server/managed-ps-2000-g12-nue-wd-nov25)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 1000 ###
+
+ 50 % Rabatt
+
+statt 2,17 €
+
+* 1 .de-Domain oder 1 Alternativdomain inklusive
+
+* 50 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikate inklusive
+
+* Standorte: NUE | VIE | MNZ
+
+pro Monat
+
+1,08 €
+
+(inkl. 19% MwSt.)
 
 Du suchst etwas anderes? Kein Problem!
 ----------

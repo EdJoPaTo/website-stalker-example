@@ -27,9 +27,9 @@ RS 2000 vGPU 7
 
 bereits ab monatlich
 
-82,31 €
+97,95 €
 
-(inkl. 0% MwSt.)
+(inkl. 19% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/gpu/rs-2000-vgpu-7)
 
@@ -47,9 +47,9 @@ RS 4000 vGPU 14
 
 bereits ab monatlich
 
-157,10 €
+186,95 €
 
-(inkl. 0% MwSt.)
+(inkl. 19% MwSt.)
 
 [Jetzt bestellen](https://www.netcup.com/de/server/gpu/rs-4000-vgpu-14)
 
