@@ -513,13 +513,6 @@ Close
 
  \+€140
 
- Add-ons
-----------
-
- Framework Desktop Handle
-
- \+€20
-
  Add to Bag  Add pre-order to bag
 
  Some options delay shipping [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders

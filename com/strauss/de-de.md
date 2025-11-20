@@ -482,8 +482,6 @@ Jetzt Freude verschenken!
 
 []()
 
-zzgl. Versandkosten
-
 [Service 0 60 50 / 97 10 12](tel:+496050971012)
 
 * Service
@@ -555,9 +553,7 @@ Sprachauswahl
 
 de en fr
 
-Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
-
- Alle Preise zzgl. gesetzlicher MwSt. zzgl. Versandkosten bei Bestellungen unter 150,00 € Warenwert.
+ Alle Preise zzgl. gesetzlicher MwSt.
 
 * [Datenschutz](https://www.strauss.com/de/de/Rechtliches/Datenschutz)
 * [AGB](https://www.strauss.com/de/de/Rechtliches/AGB)
