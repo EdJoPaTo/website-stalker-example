@@ -1,3 +1,5 @@
+[⚡ Black Friday (20 Nov – 2 Dec): For faster help, please check our FAQs before reaching out ⚡](https://support.shelly.cloud/en/support/solutions/articles/103000321073-black-friday-campaign-20-nov-2-dec-check-our-faqs-first-for-immediate-answers-⏳)
+
 Hi, how can we help you?
 ==========
 
@@ -5,13 +7,50 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
-**⚠️ Deprecation Notice: Cloud Control API V1 – Switch to V2 ⚠️**
+ **⚡ Black Friday Support Notice (20 Nov – 2 Dec) - Find Answers Instantly ⚡**
 
-We are phasing out **Cloud Control API V1** soon. Please switch to **API V2** to ensure uninterrupted service and access to new features.
+Due to the exceptionally high volume of **orders** and **customer inquiries** during the ongoing **Black Friday promotions**, our support team is currently operating under increased workload conditions.
+ To ensure we can assist all customers efficiently and minimize response delays, please review the information below before contacting support.
 
-⚡ With V2, you can get a **single status request for up to 10 devices**, improving efficiency and performance.
+1️⃣ Delivery Times
 
-[Read more and start integrating](https://shelly-api-docs.shelly.cloud/cloud-control-api/communication-v2/#get-devices-state)
+During the Black Friday campaign, all courier and logistics partners experience **significantly increased parcel volumes** across all regions. As a result, **delivery times may be extended** beyond standard estimates.
+
+You can check our country-specific delivery approximations and return policy here:
+
+➡️ [Delivery & Returns](https://www.shelly.com/pages/delivery-returns)
+
+* Courier processing and transit times vary between destinations.
+* Tracking updates may appear with several business days delay.
+* Support cannot accelerate courier deliveries once shipped.
+* We are not responsible for delays caused by global shipping demand.
+* If there are **no tracking updates for 14+ days**, contact support for courier investigation.
+
+2️⃣ Order Status
+
+* You’ll receive an email when your order is placed and another when it’s shipped.
+* Check your account under **“My Orders”** for live status updates.
+
+3️⃣ Invoices
+
+*** Invoices are automatically generated once your order ships and available for download from the shipping confirmation email tittled: *“Order XXXXXXX shipped — find your invoice below.”***
+* Please check your inbox and spam folder before contacting support.
+
+4️⃣ Modifications to Orders
+
+* Customers **can edit their shipping address within 15 minutes** after placing an order via the “thank you” page + order status page once order is placed.
+* After this time, **no changes can be made.**
+* **Please note that editing products, adding items, or merging orders is not possible.**
+
+5️⃣ Stock Updates
+
+* Use the **“Notify when back in stock”** option to receive alerts.
+* No ETA for restock times during the Black Friday campaign.
+
+6️⃣ Replacement Vouchers & Discount Codes
+
+* During the Black Friday promotion, the system temporarily disables the use of replacement vouchers and discount codes.
+* Once the promotional period ends, these codes will automatically become valid and usable again.
 
 Knowledge base
 ----------
