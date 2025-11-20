@@ -340,7 +340,7 @@ Möchten Sie auf einer Reise eine Fernverkehrsfahrkarte mit dem Deutschland-Tick
  Was ist der Deutschland-Ticket-Filter "Nur D-Ticket-Verbindungen anzeigen"?
 ----------
 
-Der Deutschland-Ticket-Filter (D-Ticket-Filter) erlaubt es, gezielt nach Verbindungen zu suchen, die ohne Aufpreis mit dem Deutschland-Ticket fahrbar sind. Er kann mit Hilfe des Schiebereglers „Nur D-Ticket-Verbindungen“ aktiviert werden.
+Der Deutschland-Ticket-Filter (D-Ticket-Filter) erlaubt es, gezielt nach Verbindungen zu suchen, die ohne Aufpreis mit dem Deutschland-Ticket fahrbar sind. Er kann mit Hilfe des Schiebereglers "Nur D-Ticket-Verbindungen" aktiviert werden.
 
 * In der App DB Navigator findet sich dieser unter "Optionen".
 * Auf bahn.de unten in der Verbindungsauskunft.
@@ -352,7 +352,7 @@ Wenn in der Suche wieder alle Verbindungen angezeigt werden sollen, auch solche 
  Wieso erscheinen trotz aktiviertem D-Ticket-Filter einzelne nicht im D-Ticket enthaltene Verbindungen?
 ----------
 
-Trotz aktiviertem Schieberegler „Nur D-Ticket-Verbindungen“ kann es vorkommen, dass einzelne Verbindungen angezeigt werden, die nicht im Umfang des D-Tickets enthalten sind.
+Trotz aktiviertem Schieberegler "Nur D-Ticket-Verbindungen" kann es vorkommen, dass einzelne Verbindungen angezeigt werden, die nicht im Umfang des D-Tickets enthalten sind.
 
 Dies ist der Fall, wenn der Betreiber einer Nahverkehrs-Strecke das Deutschland-Ticket nicht akzeptiert (z. B. bei bestimmten Flughafen-Buslinien). In diesem Fall gilt der angezeigte Hinweis: "Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
 
@@ -361,7 +361,7 @@ Dies ist der Fall, wenn der Betreiber einer Nahverkehrs-Strecke das Deutschland-
  Kann ich gleichzeitig nach Deutschland-Ticket-Verbindungen und nach bestimmten Verkehrsmitteln filtern?
 ----------
 
-Nein: Ist der Schieberegler „Nur D-Ticket-Verbindungen“ aktiviert, werden alle Verbindungen auf der gesuchten Strecke angezeigt, die mit dem Deutschland-Ticket fahrbar sind.
+Nein: Ist der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, werden alle Verbindungen auf der gesuchten Strecke angezeigt, die mit dem Deutschland-Ticket fahrbar sind.
 
 * Voraussetzung für die Nutzung des Filters ist, dass die Verkehrsmittelauswahl in den "Optionen" auf "Alle" eingestellt ist.
 * Eine Einschränkung auf bestimmte Verkehrsmittel ist nicht möglich.
@@ -460,7 +460,7 @@ Sollten Sie Ihr Handy-Ticket nicht mehr sehen, können Sie es jederzeit unter "R
 Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen weitere Kosten für den neuen Abovertrag.
 
 **Aboportal bei iOS-Geräten:**
-Aktuell gibt es Probleme bei der Nutzung von iOS-Geräten im Aboportal. An der Lösung wird bereits gearbeitet. Fügen Sie das Ticket daher direkt im DB Navigator hinzu:
+Aktuell gibt es Probleme bei der Nutzung von iOS-Geräten im Aboportal. An der Lösung wird schon gearbeitet. Fügen Sie das Ticket daher direkt im DB Navigator hinzu:
 
 1. Öffnen Sie "Reisen".
 2. Tippen Sie auf "+" (oben rechts im Bildschirm).
