@@ -21,7 +21,7 @@ pro Monat
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/en/domain/additional-domain-de)
+[Jetzt bestellen](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
 
 .at Domain
 
