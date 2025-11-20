@@ -1564,7 +1564,7 @@ Keine, die Angabe des Deutschland-Tickets hat keinerlei Auswirkungen auf die Sto
  Welche Auswirkung hat die Angabe eines Deutschland-Tickets auf den Preis?
 ----------
 
-Für die Berechnung des Fahrkartenpreises ist ausschließlich die Strecke vom ersten bis letzten Fernverkehrshalt relevant. Für den Anteil im Schienenpersonennahverkehr wird das Deutschland-Ticket genutzt. Das spart bares Geld.
+Für die Berechnung des Fahrkartenpreises ist nur die Strecke vom ersten bis letzten Fernverkehrshalt relevant. Für den Anteil im Schienenpersonennahverkehr wird das Deutschland-Ticket genutzt. Das spart bares Geld.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-preis)
 
