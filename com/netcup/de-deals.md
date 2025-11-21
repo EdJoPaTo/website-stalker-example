@@ -1,75 +1,7 @@
-netcup Deals
+Black Friday 2025
 ==========
 
-Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
-
-[Zu den Deals](https://www.netcup.com/de/deals#deals)
-
-* Alle (1)
-* Webhosting
-* Root-Server
-* VPS
-* Domains
-* Andere  (1) Flash Deals (0)
-
-Andere
-
- DEAL DER WOCHE
-
-### managed PS 2000 G12 ###
-
- 20% Rabatt
-
-statt 59,63 €
-
-* 8 Kerne (dediziert)
-
-* 16 GB DDR5 ECC RAM
-
-* 512 GB NVMe
-
-* 1 Monat Mindestlaufzeit
-
-* Standort: NUE
-
-pro Monat
-
-47,71 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern](https://www.netcup.com/de/managed-cloud/managed-server/managed-ps-2000-g12-nue-wd-nov25)
-
-Webhosting
-
- Deal abgelaufen
-
-### Webhosting 1000 ###
-
- 50 % Rabatt
-
-statt 2,17 €
-
-* 1 .de-Domain oder 1 Alternativdomain inklusive
-
-* 50 GB SSD Speicherplatz
-
-* SSH Zugang vorhanden
-
-* SSL Zertifikate inklusive
-
-* Standorte: NUE | VIE | MNZ
-
-pro Monat
-
-1,08 €
-
-(inkl. 19% MwSt.)
-
-Du suchst etwas anderes? Kein Problem!
-----------
-
-Vom 24. bis 28. November erwarten dich täglich neue Deals aus verschiedenen Produktkategorien – jeweils verfügbar von 8 Uhr bis 8 Uhr MEZ am Folgetag. Da ist für jeden etwas dabei!
+Vom 24. bis 28. November: Täglich neue Mega-Deals und unschlagbare Rabatte. Sei dabei und sichere dir dein Schnäppchen!
 
 [Zur Black Week](https://www.netcup.com/de/deals/black-friday)
 
