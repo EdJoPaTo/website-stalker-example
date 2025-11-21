@@ -61,7 +61,7 @@ Precision Trackpad.
 
 Horizon uses a glass trackpad with support for multitouch gestures.
 
- A solid-state haptic trackpad upgrade is planned for late Q1 2025. Haptic designs use vibration actuators to simulate a click and contain no mechanical components.
+ A solid-state haptic trackpad upgrade is planned for late Q1 2026. Haptic designs use vibration actuators to simulate a click and contain no mechanical components.
 
  The upgrade will be available in multiple regional layouts, including English (UK), English (US), French, German, Nordic, and Spanish.
 

@@ -44,7 +44,7 @@ Schau dir die Karte auf der linken Seite an, um alle virtuellen Knotenpunkte in 
 
 Werde in wenigen Minuten zum Fahrradexperten
 
-Radeln wie die Einheimischen in Rotterdam
+Radeln wie die Einheimischen in Kiel Region
 ----------
 
 Einfacher App-Zugriff
