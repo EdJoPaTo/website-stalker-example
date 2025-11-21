@@ -197,15 +197,6 @@ Kund:innen, die bereits im Rahmen ihres regulären Verbund-/Landes-Tarif-Abos od
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-aufpreis-fv)
 
- Welche Ausflugsziele erreicht man mit dem Deutschland-Ticket?
-----------
-
-Jetzt losfahren und das Land entdecken unter dbmobil.de!
-
-* [Zu dbmobil.de](https://dbmobil.de/d-ticket)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ausflugsziele)
-
  Kann ich das Deutschland-Ticket am DB Fahrkartenautomaten kaufen?
 ----------
 
@@ -374,9 +365,9 @@ Nein: Ist der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, werden alle V
 
 Ab der neuen Version (ab 24.1) des DB Navigators wird Ihnen nur das Handy-Ticket für den aktuell gültigen Monat angezeigt. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich automatisch zum Monatswechsel auf dem vorhandenen Ticket. Es wird kein zusätzliches Ticket für den Folgemonat angezeigt.
 
-Die Meldung „Tickets bis zum [Datum] sind bereits auf Ihrem Gerät“ bedeutet, dass die Aktualisierung für den neuen Monat am Monatsersten automatisch erfolgt.
+Die Meldung "Tickets bis zum [Datum] sind bereits auf Ihrem Gerät" bedeutet, dass die Aktualisierung für den neuen Monat am Monatsersten automatisch erfolgt.
 
-Möglicherweise wird der Zeitraum in der Ticketvorschau unter „Reisen“ erst verzögert aktualisiert. Bitte öffnen Sie das Ticket, so dass der QR-Code zu sehen ist. Auf dem Ticket wird der aktuelle Zeitraum angezeigt. Diese Anzeige ist für die Nutzung und Kontrolle relevant.
+Möglicherweise wird der Zeitraum in der Ticketvorschau unter "Reisen" erst verzögert aktualisiert. Bitte öffnen Sie das Ticket, so dass der QR-Code zu sehen ist. Auf dem Ticket wird der aktuelle Zeitraum angezeigt. Diese Anzeige ist für die Nutzung und Kontrolle relevant.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-folgemonat)
 
