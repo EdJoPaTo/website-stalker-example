@@ -9,8 +9,6 @@ Jetzt einfach losfahren!
 
 Die SprottenFlotte ist das Bikesharingsystem der KielRegion – mit unseren Rädern kommt ihr kostenlos von A nach B! Ca. **1.200 Fahrräder stehen euch zur Verfügung**, die an ca. **[200 Stationen](https://www.donkey.bike/de/stadte/kiel/)** in der Landeshauptstadt Kiel, den Kreisen Rendsburg-Eckernförde und Plön sowie in der Schlei-Region ausgeliehen und abgegeben werden können. Darunter rund 100 Pedelecs, 12 Lastenräder sowie 5 E-Lastenräder.
 
-----------
-
 #### Die ersten 30 Minuten jeder Fahrt mit Standardrädern sind kostenlos! ####
 
 Jetzt einfach losfahren! Hier geht´s zur App: [iOS](https://apps.apple.com/de/app/donkey-republic/id933526449) und [Android](https://play.google.com/store/apps/details?id=com.donkeyrepublic.bike.android&referrer=utm_source%3Ddonkey.bike%26utm_medium%3Dhero%26utm_content%3Ddownload-button%26utm_campaign%3Dfrontpage-download)!
