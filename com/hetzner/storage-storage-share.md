@@ -38,7 +38,7 @@ No minimum contract period. No cancellation period.
 
  free
 
-4 / mo.  starting from the 2nd month
+4.29 / mo.  starting from the 2nd month
 
 Storage 1 TB
 
@@ -58,7 +58,7 @@ FSN1
 
  free
 
-14 / mo.  starting from the 2nd month
+14.19 / mo.  starting from the 2nd month
 
 Storage 5 TB
 
@@ -78,7 +78,7 @@ FSN1
 
  free
 
-27 / mo.  starting from the 2nd month
+27.39 / mo.  starting from the 2nd month
 
 Storage 10 TB
 

@@ -740,7 +740,7 @@ Eine Tabelle mit detaillierten Angaben finden im PDF ab Seite 15.
 ----------
 
 * Das Deutschland-Ticket gilt in allen Nahverkehrszügen (RB, RE, S-Bahn) und öffentlichen Verkehrsmitteln (Bus, Straßenbahn, U-Bahn) der teilnehmenden Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
-* Das Deutschland-Ticket gilt nicht in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
+* Das Deutschland-Ticket gilt **nicht** in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
 * Die Nutzung im Vor- und Nachlauf ist möglich. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich.
 * Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
 
