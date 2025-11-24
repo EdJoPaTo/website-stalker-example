@@ -197,6 +197,7 @@ Bezel
 * Red +€10
 * Translucent
 * Translucent Purple +€10
+* Translucent Orange +€10
 * Translucent Green +€10
 * Translucent Black +€10
 
