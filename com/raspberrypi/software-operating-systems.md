@@ -29,16 +29,16 @@ Raspberry Pi OS (64-bit)
 
 A port of Debian Trixie with the Raspberry Pi Desktop
 
-| Release date |1 Oct 2025 |
+| Release date |24 Nov 2025|
 |--------------|-----------|
 |    System    |  64-bit   |
 |Kernel version|   6.12    |
 |Debian version|13 (trixie)|
-|     Size     | 1,270 MB  |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>31f943a34defa8a3951735c9d35a11d5bfbe6bcf89543b06a3dd00c7638149b9</details>
+|     Size     | 1,275 MB  |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>752b68746729564f128dba42c5026fe7fe89e2676f5f40af9de0a468245aae41</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-10-02/2025-10-01-raspios-trixie-arm64.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-10-02/2025-10-01-raspios-trixie-arm64.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-11-24/2025-11-24-raspios-trixie-arm64.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2025-11-24/2025-11-24-raspios-trixie-arm64.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_arm64/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt)
 
@@ -46,16 +46,16 @@ A port of Debian Trixie with the Raspberry Pi Desktop
 
 A port of Debian Trixie with desktop environment and recommended applications
 
-| Release date |1 Oct 2025 |
+| Release date |24 Nov 2025|
 |--------------|-----------|
 |    System    |  64-bit   |
 |Kernel version|   6.12    |
 |Debian version|13 (trixie)|
-|     Size     | 1,944 MB  |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>0b32fb1e3369772aaa6101508e6e92ad4f2bf014ea68cdb718eee211e1a73d83</details>
+|     Size     | 1,930 MB  |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>aeaa572a8f47742b173b4065e875ff9485912506bcd1c7422d61573905ee720f</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-10-02/2025-10-01-raspios-trixie-arm64-full.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-10-02/2025-10-01-raspios-trixie-arm64-full.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-11-24/2025-11-24-raspios-trixie-arm64-full.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-11-24/2025-11-24-raspios-trixie-arm64-full.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_full_arm64/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_full_arm64/release_notes.txt)
 
@@ -63,16 +63,16 @@ A port of Debian Trixie with desktop environment and recommended applications
 
 A port of Debian Trixie with no desktop environment
 
-| Release date |1 Oct 2025 |
+| Release date |24 Nov 2025|
 |--------------|-----------|
 |    System    |  64-bit   |
 |Kernel version|   6.12    |
 |Debian version|13 (trixie)|
-|     Size     |  476 MB   |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>79146135607ffe8acac94e5ff501de6fc49583117de5ad08c45a32c73ae2a027</details>
+|     Size     |  494 MB   |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>1d448a6e665e1ae8100bc28b35408619ec626a2fddfd6579ec99e7996fa09a56</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-10-02/2025-10-01-raspios-trixie-arm64-lite.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-10-02/2025-10-01-raspios-trixie-arm64-lite.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-11-24/2025-11-24-raspios-trixie-arm64-lite.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2025-11-24/2025-11-24-raspios-trixie-arm64-lite.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_lite_arm64/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_lite_arm64/release_notes.txt)
 
@@ -87,16 +87,16 @@ Raspberry Pi OS (32-bit)
 
 A port of Debian Trixie with the Raspberry Pi Desktop
 
-| Release date |1 Oct 2025 |
+| Release date |24 Nov 2025|
 |--------------|-----------|
 |    System    |  32-bit   |
 |Kernel version|   6.12    |
 |Debian version|13 (trixie)|
-|     Size     | 1,185 MB  |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>4ebfa5340f76ea70d5aa21c993cf2ae3ddddf967b3729289064000e5d20983f3</details>
+|     Size     | 1,202 MB  |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>b83ae892e220803555e4b70a301e1f9f70c9007aa69864c1757fdbed81a8054d</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-10-02/2025-10-01-raspios-trixie-armhf.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-10-02/2025-10-01-raspios-trixie-armhf.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-11-24/2025-11-24-raspios-trixie-armhf.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-11-24/2025-11-24-raspios-trixie-armhf.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_armhf/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_armhf/release_notes.txt)
 
@@ -104,16 +104,16 @@ A port of Debian Trixie with the Raspberry Pi Desktop
 
 A port of Debian Trixie with desktop environment and recommended applications
 
-| Release date |1 Oct 2025 |
+| Release date |24 Nov 2025|
 |--------------|-----------|
 |    System    |  32-bit   |
 |Kernel version|   6.12    |
 |Debian version|13 (trixie)|
-|     Size     | 1,882 MB  |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>5b0a22291c4540f4f7a14a81d81e537f91b313cf076fddc86af7209ce384e7e5</details>
+|     Size     | 1,890 MB  |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>55c9fac0b231341e4bcb5e664c54911bda8ad80fbc53993351038f81f6806959</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-10-02/2025-10-01-raspios-trixie-armhf-full.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-10-02/2025-10-01-raspios-trixie-armhf-full.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-11-24/2025-11-24-raspios-trixie-armhf-full.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2025-11-24/2025-11-24-raspios-trixie-armhf-full.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_full_armhf/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_full_armhf/release_notes.txt)
 
@@ -121,16 +121,16 @@ A port of Debian Trixie with desktop environment and recommended applications
 
 A port of Debian Trixie with no desktop environment
 
-| Release date |1 Oct 2025 |
+| Release date |24 Nov 2025|
 |--------------|-----------|
 |    System    |  32-bit   |
 |Kernel version|   6.12    |
 |Debian version|13 (trixie)|
-|     Size     |  499 MB   |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>22a02428e7de5345ccf865fa3e2fe06f3aa56afdde98bc23d9d91e83320b3511</details>
+|     Size     |  505 MB   |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>557e3a3365695ff279a787e2dc3e12549f8d988333a1978b6e19f6929f2843bd</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-10-02/2025-10-01-raspios-trixie-armhf-lite.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-10-02/2025-10-01-raspios-trixie-armhf-lite.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-11-24/2025-11-24-raspios-trixie-armhf-lite.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2025-11-24/2025-11-24-raspios-trixie-armhf-lite.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_lite_armhf/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_lite_armhf/release_notes.txt)
 

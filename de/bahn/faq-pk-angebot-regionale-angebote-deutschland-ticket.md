@@ -770,9 +770,10 @@ Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf sowie 
  Auf welche Fahrgastrechte kann ich mich berufen, wenn ich das Deutschland-Ticket mit einem Busticket kombiniere?
 ----------
 
-Gesetzliche Fahrgastrechte gelten für den Eisenbahnverkehr und für den Busverkehr jeweils separat, nicht jedoch ‚verkehrsträgerübergreifend‘, wenn bei einer Reise z.B. Teilstrecken mit einem Bus und einem Zug gefahren werden. In diesem Fall werden die Teilstrecken mit dem Bus und mit dem Zug separat betrachtet und gemäß den jeweiligen gesetzlichen Bestimmungen reguliert. Wenn Reisende eine Verspätung auf der Busstrecke erlitten haben, machen sie ihre Ansprüche bitte beim verursachenden Busunternehmen geltend, für Verspätungen oder Ausfälle im Eisenbahnverkehr wenden sie sich bitte an das jeweilige Eisenbahnverkehrsunternehmen (z.B. an das ServiceCenter Fahrgastrechte).
+Gesetzliche Fahrgastrechte gelten für den Eisenbahnverkehr und für den Busverkehr jeweils separat. Bitte beachten Sie, dass die Verspätung eines Busses mit Anschlussverlust auf den gewünschten Zug keine Ansprüche auf Fahrgastrechte im Eisenbahnverkehr begründet.
 
-Bitte beachten Sie, dass die Verspätung eines Busses mit Anschlussverlust auf den gewünschten Zug keine Ansprüche auf Fahrgastrechte im Eisenbahnverkehr begründet.
+Gesetzliche Fahrgastrechte gelten für den Eisenbahnverkehr und für den Busverkehr gelten nicht ‚verkehrsträgerübergreifend‘, wenn bei einer Reise z.B. Teilstrecken mit einem Bus und einem Zug gefahren werden. In diesem Fall werden die Teilstrecken mit dem Bus und mit dem Zug separat betrachtet und gemäß den jeweiligen gesetzlichen Bestimmungen reguliert.
+Wenn Sie eine Verspätung auf einer Busstrecke hatten, machen Sie Ihre Ansprüche bitte beim verursachenden Busunternehmen geltend. Für Verspätungen oder Ausfälle im Eisenbahnverkehr wenden Sie sich bitte an das jeweilige Eisenbahnverkehrsunternehmen (z.B. an das ServiceCenter Fahrgastrechte).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-busse)
 
@@ -789,29 +790,29 @@ Wenn Sie dennoch eine Bescheinigung über eine Zugverspätung oder einen Zugausf
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-dokumentieren)
 
- Wie werden Zugausfälle bzw. Verspätungen bei Reisen mit dem Deutschland-Ticket entschädigt?
+ Wie werden Zugausfälle und Verspätungen bei Reisen mit dem Deutschland-Ticket entschädigt?
 ----------
 
 * Bei einer Verspätung aufgrund einer Verspätung oder eines Zugausfalls im Nahverkehr von mindestens 60 Minuten am Zielbahnhof erhalten Sie 1,50 Euro Entschädigung pro Fall.
 * Beträge unter 4 Euro werden aufgrund einer gesetzlichen Bagatellgrenze nicht ausgezahlt. Sie können aber mehrere Verspätungsfälle sammeln.
 * Reichen Sie die gesammelten Fälle beim ServiceCenter-Fahrgastrechte oder der Fahrgastrechte-Abteilung des genutzten Eisenbahn-Verkehrsunternehmens ein.
-* Maximal werden 25 % des Wertes Ihres Deutschland-Tickets entschädigt.
+* Maximal werden 25 Prozent des Wertes Ihres Deutschland-Tickets entschädigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-erstattung)
 
  Ist die Nutzung von ICE/IC mit dem Deutschland-Ticket gestattet, wenn absehbar ist, dass man mit erheblicher Verspätung das Ziel erreicht?
 ----------
 
-Nein, Reisende mit einem Deutschland-Ticket müssen für die Benutzung eines Fernverkehrszuges immer eine separate Fahrkarte kaufen.
+Nein, wenn Sie mit einem Deutschland-Ticket reisen, müssen Sie für die Benutzung eines Fernverkehrszuges immer eine separate Fahrkarte kaufen.
 Da das Deutschland-Ticket gesetzlich im § 3 der Eisenbahn-Verkehrsordnung (EVO) als Angebot mit erheblich ermäßigtem Beförderungsentgelt definiert ist, erfolgt auch im Fahrgastrechtefall keine Erstattung von Fahrgeldern für die Benutzung von Fernverkehrszügen.
 
-In Ausnahmefällen
+Ausnahmen:
 
-* wenn ein Ausfall oder eine Zugverspätung die letzte Verbindung des Tages mit Ankunft bis 24 Uhr betrifft,
-* eine Verspätung von mindestens 60 Minuten bei einer Zugverbindung mit planmäßiger Ankunft zwischen 0 und 5 Uhr eintritt,
+* Wenn ein Ausfall oder eine Zugverspätung die letzte Verbindung des Tages mit Ankunft bis 24 Uhr betrifft.
+* Eine Verspätung von mindestens 60 Minuten bei einer Zugverbindung mit planmäßiger Ankunft zwischen 0 und 5 Uhr eintritt.
 
-ist im Rahmen der gesetzlichen Regeln des §11 (2) der Eisenbahn-Verkehrsverordnung (EVO) auch die Nutzung eines ICE- oder IC/EC-Zuges möglich.
-Auch in diesem Fall gilt: Für die Nutzung des ICE- oder IC/EC-Zuges müssen Sie sich zunächst eine Fahrkarte kaufen. Deren Fahrpreis wird dann im Rahmen der Regulierung fahrgastrechtlicher Ansprüche bis zu einer Höhe von 120 € erstattet.
+Nur dann ist im Rahmen der gesetzlichen Regeln des §11 (2) der Eisenbahn-Verkehrsverordnung (EVO) auch die Nutzung eines ICE- oder IC/EC-Zuges möglich.
+Auch in diesem Fall gilt: **Für die Nutzung des ICE- oder IC/EC-Zuges müssen Sie sich zunächst eine Fahrkarte kaufen.** Deren Fahrpreis wird dann im Rahmen der Regulierung fahrgastrechtlicher Ansprüche bis zu einer Höhe von 120 Euro erstattet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-ice-nutzung)
 

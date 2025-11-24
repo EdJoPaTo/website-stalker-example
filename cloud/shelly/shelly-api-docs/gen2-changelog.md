@@ -217,7 +217,7 @@ Firmware version `1.6.0` is not deployed for Shelly 2PM Gen3, this device will r
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Menu to select algorithm
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Add connected state
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee) Auto-reboot on enable/disable
-* [XMOD](/gen2/Devices/X/XMOD1) Support for manufacturer field
+* [XMOD](/gen2/ComponentsAndServices/XMOD) Support for manufacturer field
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Manual control valve position when TRV is disabled
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Refine UI texts and capitalization for consistency and clarity
 * [PlusI4](/gen2/Devices/Gen2/ShellyPlusI4), [I4 Gen3](/gen2/Devices/Gen3/ShellyI4G3): Allow creating actions for input type of switch
@@ -283,7 +283,7 @@ Firmware version `1.6.0` is not deployed for Shelly 2PM Gen3, this device will r
 * Reintroduce safe mode
 * [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM), [ProEM](/gen2/Devices/Gen2/ShellyProEM) Add `EMData|EM1Data.GetNetEnergies`
 * [HT Gen3](/gen2/Devices/Gen3/ShellyHTG3) Add AM/PM mode for clock
-* [XMOD1](/gen2/Devices/X/XMOD1) Add JWT payload to Shelly device info
+* [XMOD](/gen2/ComponentsAndServices/XMOD) Add JWT payload to Shelly device info
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Add `blutrv.temperature_change` and `blutrv.position_change` webhook types to BluTRV component
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Add position, target temperature, current temperature and errors to BluTRV component status
 * OTA: Allow updates without app and/or FS
@@ -337,7 +337,7 @@ Firmware version `1.6.0` is not deployed for Shelly 2PM Gen3, this device will r
 * [PlusPlugS](/gen2/Devices/Gen2/ShellyPlusPlugS) Fix failed night mode activation
 * [2PM Gen3](/gen2/Devices/Gen3/Shelly2PMG3) Enable KNX
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) BluTRV: Fix incorrect `last_updated_ts` on reboot
-* [XMOD1](/gen2/Devices/X/XMOD1) Ensure config is valid before applying
+* [XMOD](/gen2/ComponentsAndServices/XMOD) Ensure config is valid before applying
 * [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3) Fix light transition duration after reboot
 * [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3) Calibration and transition improvements
 * [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3) Fail calibration when a protection is triggered
@@ -406,7 +406,7 @@ Firmware version `1.6.0` is not deployed for Shelly 2PM Gen3, this device will r
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Edge case where the position is not reflected correctly
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Redirect to home page after a successful pairing
 * [Plus1PM](/gen2/Devices/Gen2/ShellyPlus1PM) Fix missing active energy total
-* [XMOD1](/gen2/Devices/X/XMOD1) Format the jwt token before sending
+* [XMOD](/gen2/ComponentsAndServices/XMOD) Format the jwt token before sending
 * [ProEM](/gen2/Devices/Gen2/ShellyProEM) Apparent power readings (VA) from Clamp A are displayed on both channels in Diagram View
 * [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM) Diagram view values are not reactive in monophase profile
 * [PlusUni](/gen2/Devices/Gen2/ShellyPlusUni) Opening examples in custom expression toggles a save action
@@ -462,7 +462,7 @@ Firmware version `1.6.0` is not deployed for Shelly 2PM Gen3, this device will r
 * [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM) Fix overpower protection trip during calibration
 * [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM)Fix recognition of non-dimmable loads
 * [Scripting](/gen2/ComponentsAndServices/Script) Fix [Virtual.getHandle](/gen2/Scripts/ShellyScriptLanguageFeatures#virtualgethandlekey) crashes
-* [XMOD1](/gen2/Devices/X/XMOD1) Fix inconsistent JWS handling
+* [XMOD](/gen2/ComponentsAndServices/XMOD) Fix inconsistent JWS handling
 
 [1.4.1] 2024-07-31
 ----------
@@ -527,7 +527,7 @@ note
 * [RGB](/gen2/ComponentsAndServices/RGB), [RGBW](/gen2/ComponentsAndServices/RGBW) Replace HTTP endpoint `/light/{id}` with [`/color/{id}`](/gen2/ComponentsAndServices/RGBW#http-endpoint-colorid) **BREAKING CHANGE**
 * [Light](/gen2/ComponentsAndServices/Light), [RGB](/gen2/ComponentsAndServices/RGB), [RGBW](/gen2/ComponentsAndServices/RGBW) Apply night mode regardless of current brightness
 * [Light](/gen2/ComponentsAndServices/Light), [RGB](/gen2/ComponentsAndServices/RGB), [RGBW](/gen2/ComponentsAndServices/RGBW) Do not apply `min_brightness_on_toggle` when night mode is active
-* [XMOD1](/gen2/Devices/X/XMOD1) Change default LED type to plain
+* [XMOD](/gen2/ComponentsAndServices/XMOD) Change default LED type to plain
 
 ### Removed ###
 
