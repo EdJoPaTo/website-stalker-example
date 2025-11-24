@@ -854,7 +854,7 @@ Auch wenn Sie aus anderen Abonnements Mitnahmeregelungen kennen, gelten diese ni
  Beeinflusst das Deutschland-Ticket meine Zeitkarte im Fernverkehr?
 ----------
 
-Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Das Deutschland-Ticket gilt ausschließlich für Reisen im Nahverkehr.
+Nein. Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Das Deutschland-Ticket gilt ausschließlich für Reisen im Nahverkehr.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zeitkarte-fv)
 

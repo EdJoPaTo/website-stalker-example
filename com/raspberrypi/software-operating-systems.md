@@ -158,16 +158,16 @@ Raspberry Pi OS (Legacy, 64-bit)
 
 A port of Debian Bookworm with security updates and desktop environment
 
-| Release date | 1 Oct 2025  |
+| Release date | 24 Nov 2025 |
 |--------------|-------------|
 |    System    |   64-bit    |
 |Kernel version|    6.12     |
 |Debian version|12 (bookworm)|
-|     Size     |  1,179 MB   |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>36f0809fa1a65f8dbe019d3821d09d7475e54ba43539b78bbe189d14f90766e5</details>
+|     Size     |  1,189 MB   |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>71e7ccdfb3e9d1a3f3d62209e60544a182e151a726bf062e6a84a472c1451532</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-10-02/2025-10-01-raspios-bookworm-arm64.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-10-02/2025-10-01-raspios-bookworm-arm64.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-11-24/2025-11-24-raspios-bookworm-arm64.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2025-11-24/2025-11-24-raspios-bookworm-arm64.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_arm64/release_notes.txt)
 
@@ -175,16 +175,16 @@ A port of Debian Bookworm with security updates and desktop environment
 
 A port of Debian Bookworm with security updates, desktop environment and recommended applications
 
-| Release date | 1 Oct 2025  |
+| Release date | 24 Nov 2025 |
 |--------------|-------------|
 |    System    |   64-bit    |
 |Kernel version|    6.12     |
 |Debian version|12 (bookworm)|
-|     Size     |  3,145 MB   |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>63eacee9e13dd3e55700a2fd1e6070c722609629183664a2914a532c434599c5</details>
+|     Size     |  3,235 MB   |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>33ba0497a992db2ef375bda25465c8b706a1dd48e627a1332e875c04f2840541</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-10-02/2025-10-01-raspios-bookworm-arm64-full.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-10-02/2025-10-01-raspios-bookworm-arm64-full.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-11-24/2025-11-24-raspios-bookworm-arm64-full.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/raspios_oldstable_full_arm64-2025-11-24/2025-11-24-raspios-bookworm-arm64-full.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_full_arm64/release_notes.txt)
 
@@ -192,16 +192,16 @@ A port of Debian Bookworm with security updates, desktop environment and recomme
 
 A port of Debian Bookworm with security updates and no desktop environment
 
-| Release date | 1 Oct 2025  |
+| Release date | 24 Nov 2025 |
 |--------------|-------------|
 |    System    |   64-bit    |
 |Kernel version|    6.12     |
 |Debian version|12 (bookworm)|
-|     Size     |   422 MB    |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>a65ebc80a792f0d04b720ec829dbf7b66b36f56310dbea34d462b19ba17b3687</details>
+|     Size     |   427 MB    |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>e6a69b5a5a8cd4afc0e9dbdc8404f6fed7c93e0d1796f438e7c780e0eac2d482</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-10-02/2025-10-01-raspios-bookworm-arm64-lite.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-10-02/2025-10-01-raspios-bookworm-arm64-lite.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-11-24/2025-11-24-raspios-bookworm-arm64-lite.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/raspios_oldstable_lite_arm64-2025-11-24/2025-11-24-raspios-bookworm-arm64-lite.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_lite_arm64/release_notes.txt)
 
@@ -231,16 +231,16 @@ Raspberry Pi OS (Legacy, 32-bit)
 
 A port of Debian Bookworm with security updates and desktop environment
 
-| Release date | 1 Oct 2025  |
+| Release date | 24 Nov 2025 |
 |--------------|-------------|
 |    System    |   32-bit    |
 |Kernel version|    6.12     |
 |Debian version|12 (bookworm)|
-|     Size     |  1,205 MB   |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>345eaaf912836a2fca89d79e88432ee560f4a932286ec7a7897c44169b20ee76</details>
+|     Size     |  1,177 MB   |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>9444bc6a1d5afcb4c0e51c0e3295e596684c6a96f408e6673b5fe5f619c46fb4</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2025-10-02/2025-10-01-raspios-bookworm-armhf.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2025-10-02/2025-10-01-raspios-bookworm-armhf.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2025-11-24/2025-11-24-raspios-bookworm-armhf.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2025-11-24/2025-11-24-raspios-bookworm-armhf.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_armhf/release_notes.txt)
 
@@ -248,16 +248,16 @@ A port of Debian Bookworm with security updates and desktop environment
 
 A port of Debian Bookworm with security updates, desktop environment and recommended applications
 
-| Release date | 1 Oct 2025  |
+| Release date | 24 Nov 2025 |
 |--------------|-------------|
 |    System    |   32-bit    |
 |Kernel version|    6.12     |
 |Debian version|12 (bookworm)|
-|     Size     |  2,799 MB   |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>fed518fc239963b4e782463d2d6474204598c4d6e4093f6d6a09c66fb570eefc</details>
+|     Size     |  2,810 MB   |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>497f96b3fd7c0a6ab7150dfe5436c014c2d582ff165f7733f7c10813941ef560</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2025-10-02/2025-10-01-raspios-bookworm-armhf-full.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2025-10-02/2025-10-01-raspios-bookworm-armhf-full.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2025-11-24/2025-11-24-raspios-bookworm-armhf-full.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/raspios_oldstable_full_armhf-2025-11-24/2025-11-24-raspios-bookworm-armhf-full.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/release_notes.txt)
 
@@ -265,16 +265,16 @@ A port of Debian Bookworm with security updates, desktop environment and recomme
 
 A port of Debian Bookworm with security updates and no desktop environment
 
-| Release date | 1 Oct 2025  |
+| Release date | 24 Nov 2025 |
 |--------------|-------------|
 |    System    |   32-bit    |
 |Kernel version|    6.12     |
 |Debian version|12 (bookworm)|
-|     Size     |   501 MB    |
-<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>af4ee221d9589beb67b77e296f2298d2c1b90b2920247d93e1c88c2b4e50f3c1</details>
+|     Size     |   493 MB    |
+<details><summary class="cursor-pointer">SHA256 file integrity hash</summary>2a6ff6474218e5e83b6448771e902a4e5e06a86b9604b3b02f8d69ccc5bfb47b</details>
 
-[Download](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2025-10-02/2025-10-01-raspios-bookworm-armhf-lite.img.xz)
-[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2025-10-02/2025-10-01-raspios-bookworm-armhf-lite.img.xz.torrent)
+[Download](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2025-11-24/2025-11-24-raspios-bookworm-armhf-lite.img.xz)
+[Download torrent](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2025-11-24/2025-11-24-raspios-bookworm-armhf-lite.img.xz.torrent)
 [View archive](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/)
 [View release notes](https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/release_notes.txt)
 
