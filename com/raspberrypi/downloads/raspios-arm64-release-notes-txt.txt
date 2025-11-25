@@ -1,5 +1,5 @@
 2025-11-24:
-  * Upgrade to version 0.9.4 of labwc
+  * Upgrade to version 0.9.2 of labwc
   * Support for setting HiDPI scaling added to Screens control panel
   * Support for HiDPI icons added to panel, file manager and various applications
   * Alacarte menu editor reinstated in image
