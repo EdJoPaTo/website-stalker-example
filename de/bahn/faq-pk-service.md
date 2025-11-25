@@ -418,6 +418,29 @@ Nein, alle Statusvorteile sind für den Zeitraum Ihrer persönlichen Statuslaufz
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ablauf-statuslaufzeit-statusvorteile)
 
+ Wie kann ich mein Digitales Abo im in App DB Navigator nutzen?
+----------
+
+Das Handy-Ticket für Ihr digitales Abo wird Ihnen nach erfolgreicher Aktivierung bereitgestellt.
+
+Die Aktivierung kann sich verzögern, wenn eine Nachweisprüfung (z.B. für ein Schülerticket) oder eine Freigabe durch den Arbeitgeber (bei einem Jobticket) erforderlich ist oder eine Überprüfung im Abo-Center erfolgt.
+
+Sie können den Bestellstatus aber bereits im DB Navigator anzeigen, **wenn Sie den Link** aus Ihrer Bestellbestätigung **auf Ihrem Smartphone anklicken**. Gehen Sie dazu folgendermaßen vor:
+
+1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
+
+2. Rufen Sie die Bestellbestätigung auf dem Smartphone auf und klicken auf den Link.
+
+3. Der Bestellstatus wird Ihnen angezeigt, bis Ihr Abo erfolgreich aktiviert wurde und das Handy-Ticket automatisch bereitgestellt wird.
+
+Falls Sie bereits eine Aktivierungsmail erhalten haben, können Sie das Handy-Ticket direkt über den Link hinzufügen. Weitere Hilfestellung finden Sie hier: [Wie nutze ich den DB Navigator zur Anzeige meines DB Abos?](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
+
+Hinweis: Der Link in der Bestätigungsmail wird nur für Bestellungen **ab Ende Januar 2026** verfügbar sein.
+
+* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-im-navigator-nutzen)
+
  Warum werde ich nicht zum Lastschriftverfahren für ein Abo zugelassen?
 ----------
 
