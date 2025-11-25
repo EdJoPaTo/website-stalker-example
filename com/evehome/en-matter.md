@@ -150,12 +150,6 @@ Not available in your country
 
 Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
 
-Thread
-
-Matter
-
-Heating & Air Quality
-
 incl. VAT plus shipping
 
 Free FedEx Ground shipping to US locations with $99 purchase
@@ -906,12 +900,6 @@ Not available in your country
  Learn more
 
 Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
-
-Thread
-
-Matter
-
-Heating & Air Quality
 
 incl. VAT plus shipping
 
