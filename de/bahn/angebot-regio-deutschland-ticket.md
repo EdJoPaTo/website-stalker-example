@@ -58,7 +58,7 @@ Sollten Sie der Preiserhöhung nicht zustimmen oder sich nicht fristgerecht zur�
 
 Sollten Sie die Frist zum 30. November 2025 verpasst haben oder möchten Sie Ihr Abo doch fortsetzen, wählen Sie im Aboportal oder im DB Navigator den Menüpunkt „Abo reaktivieren“ aus. Diese Funktion ist nur bis zum eingetragenen Kündigungsdatum 31. Dezember 2025 aktiviert. So lange hat Ihr Abo den Status „Kündigung eingeleitet”. Wenn Sie das Abo reaktivieren, erneuern wir Ihr Deutschland-Ticket-Abo zu den neuen Konditionen, d.h. insbesondere zum neuen Preis. Haben Sie Ihr gekündigtes Abo fortgesetzt, hat ihr Abo den Status „aktiv“.
 
-**Bitte beachten Sie:** Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
+Bitte beachten Sie: Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
 
 Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 
@@ -98,7 +98,7 @@ Der Preis des Deutschlandsemestertickets ist durch die Preisbildung des Deutschl
 
 In den meisten Fällen: Ja. Wenn Sie Ihr Deutschland-Ticket Jobticket im Abonnement mit dem geänderten Preis behalten oder kündigen möchten, benötigen wir grundsätzlich – wie beim normalen Deutschland-Ticket – Ihre Rückmeldung bis zum 30. November 2025. Ihr zu zahlender monatlicher Preis richtet sich nach den Vereinbarungen zum Zuschuss mit dem Arbeitgeber und beträgt ab dem 1. Januar 2026 monatlich maximal 59,85 Euro (abzüglich des individuellen Zuschusses). Sie können im Aboportal zustimmen.
 
-**Ausnahme:** Falls Ihr Arbeitgeber den monatlichen Abopreis für das Jobticket vollständig übernimmt, müssen Sie der Preiserhöhung nicht zustimmen. Das Abo wird fortgeführt, sofern das Unternehmen den Rahmenvertrag mit der Deutschen Bahn beibehält.
+Ausnahme: Falls Ihr Arbeitgeber den monatlichen Abopreis für das Jobticket vollständig übernimmt, müssen Sie der Preiserhöhung nicht zustimmen. Das Abo wird fortgeführt, sofern das Unternehmen den Rahmenvertrag mit der Deutschen Bahn beibehält.
 
 Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 

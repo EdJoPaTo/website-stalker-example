@@ -78,7 +78,7 @@ Sollten Sie der Preiserhöhung nicht zustimmen oder sich nicht fristgerecht zur�
 
 Sollten Sie die Frist zum 30. November 2025 verpasst haben oder möchten Sie Ihr Abo doch fortsetzen, wählen Sie im Aboportal oder im DB Navigator den Menüpunkt „Abo reaktivieren“ aus. Diese Funktion ist nur bis zum eingetragenen Kündigungsdatum 31. Dezember 2025 aktiviert. So lange hat Ihr Abo den Status „Kündigung eingeleitet”. Wenn Sie das Abo reaktivieren, erneuern wir Ihr Deutschland-Ticket-Abo zu den neuen Konditionen, d.h. insbesondere zum neuen Preis. Haben Sie Ihr gekündigtes Abo fortgesetzt, hat ihr Abo den Status „aktiv“.
 
-**Bitte beachten Sie:** Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
+Bitte beachten Sie: Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
 
 Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 
@@ -912,7 +912,7 @@ Keine, die Angabe des Deutschland-Tickets hat keinerlei Auswirkungen auf die Sto
 ----------
 
 * Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte angegeben sind.
-* Das Deutschland-Ticket gewährt keine kostenfreie Mitnahme von Kindern zwischen sechs und 14 Jahren. Deshalb brauchen Sie zur An- oder Abreise bis zum, bzw. ab dem Fernverkehrshalt für Kinder ein zusätzliches gültiges Nahverkehrsticket (z.B. eine Einzelfahrt) .
+* Das Deutschland-Ticket gewährt keine kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren. Deshalb brauchen Sie zur An- oder Abreise bis zum bzw. ab dem Fernverkehrshalt für Kinder ein zusätzliches gültiges Nahverkehrsticket (z.B. eine Einzelfahrt) .
 * Kinder unter 6 Jahren benötigen weder im Nah- noch im Fernverkehr eine Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)

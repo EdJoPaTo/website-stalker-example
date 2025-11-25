@@ -1579,7 +1579,7 @@ Keine, die Angabe des Deutschland-Tickets hat keinerlei Auswirkungen auf die Sto
 ----------
 
 * Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte angegeben sind.
-* Das Deutschland-Ticket gewährt keine kostenfreie Mitnahme von Kindern zwischen sechs und 14 Jahren. Deshalb brauchen Sie zur An- oder Abreise bis zum, bzw. ab dem Fernverkehrshalt für Kinder ein zusätzliches gültiges Nahverkehrsticket (z.B. eine Einzelfahrt) .
+* Das Deutschland-Ticket gewährt keine kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren. Deshalb brauchen Sie zur An- oder Abreise bis zum bzw. ab dem Fernverkehrshalt für Kinder ein zusätzliches gültiges Nahverkehrsticket (z.B. eine Einzelfahrt) .
 * Kinder unter 6 Jahren benötigen weder im Nah- noch im Fernverkehr eine Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)
@@ -4085,6 +4085,13 @@ Für die meisten Ziele in Europa können Sie Ihre Fahrkarte als Online-Ticket im
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-ab-und-bis-wann-ticket-aktuelle-alternative-buchen)
 
+ Was bedeutet "Weitere Abfahrten“ in den Verbindungsdetails?
+----------
+
+Sie können in den Verbindungsdetails und in der Reisevorschau unter "Weitere Abfahrten“ am Reisetag sehen, welche weiteren Abfahrtmöglichkeiten es im Nahverkehr zu Beginn oder am Ende Ihrer Reise gibt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-abfahrten-verbindungsdetails)
+
  Was bedeutet "Aktuelle Alternative"?
 ----------
 
@@ -4147,6 +4154,13 @@ Ob tatsächlich noch Stellplätze im ICE, IC- oder EC-Zug frei sind, erkennen Si
 [Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-verfuegbare-fahrradstellplaetze-finden)
+
+ Kann ich eine Verbindung unter "Weitere Abfahrten" einfach so nutzen?
+----------
+
+Unter "Weitere Abfahrten“ zeigen wir Ihnen in der Regel nur Verbindungen mit den gleichen Verkehrsmitteln wie in Ihrer ursprünglichen Planung an. Dadurch sollte eine Nutzung in den meisten Fällen möglich sein. Bitte prüfen Sie trotzdem, ob Ihre gebuchte Fahrkarte zu diesen Zeiten gültig ist.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-weitere-abfahrten-nutzung)
 
  Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
 ----------
