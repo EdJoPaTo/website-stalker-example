@@ -3810,6 +3810,21 @@ You can see whether your train or journey segment supports Komfort Check-in by t
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/on-which-trains-can-i-use-kci)
 
+ Was muss ich bei der Online-Buchung beachten, wenn ich eine Hilfeleistung benötige?
+----------
+
+Die Anmeldung einer *Hilfeleistung* erfolgt nicht automatisch mit der Ticketbuchung. Wenn Sie bei Ihrer Reise Unterstützung brauchen, informieren Sie sich vor der Ticketbuchung:
+
+* Über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten auf [bahnhof.de](https://www.bahnhof.de/).
+
+* Über die Ein- und Ausstiegssituation in den Zug auf bahn.de oder im DB Navigator in den Verbindungsdetails unter „Fahrtinformationen“.
+
+Alternativ können Sie sich auch and die Mobilitätsservice-Zentrale wenden**.**
+
+* [Mehr Informationen zur Mobilitätsservice-Zentrale](https://www.bahn.de/service/individuelle-reise/barrierefrei/online-buchung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/online-buchung-wenn-hilfeleistung)
+
  Kann ich Passkeys in meinem Passwortmanager speichern?
 ----------
 
@@ -7908,7 +7923,7 @@ Reichen Sie bitte alle Belege (zum Beispiel eine Quittung für ein Taxi oder ei
 
 Stellen Sie uns ergänzende Informationen zur Verfügung, wodurch die von Ihnen verauslagten Kosten entstanden sind.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/worauf-achten-bei-anrtrag-auf-fahrgastreche)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/worauf-achten-bei-antrag-auf-fahrgastreche)
 
  Worauf muss ich beim ICE Portal besonders bei Android Geräten achten?
 ----------
