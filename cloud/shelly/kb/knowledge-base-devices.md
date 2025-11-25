@@ -83,14 +83,14 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly 1 Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1-gen4-anz)
 * [Shelly 1PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4)
 * [Shelly 1PM Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4-anz)
-* [Shelly Power Strip 4 Gen4](https://kb.shelly.cloud/knowledge-base/shelly-power-strip-gen4)
 * [Shelly 2PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen4)
 * [Shelly 2PM Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen4-anz)
+* [Shelly Power Strip 4 Gen4](https://kb.shelly.cloud/knowledge-base/shelly-power-strip-gen4)
+* [Shelly Plug US Gen4](https://kb.shelly.cloud/knowledge-base/shelly-plug-us-gen4)
 * [Shelly Flood Gen4](https://kb.shelly.cloud/knowledge-base/shelly-flood-gen4)
 * [Shelly Leak Sensor Cable](https://kb.shelly.cloud/knowledge-base/shelly-leak-sensor-cable)
-* [Shelly Mini Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen4-devices)
 * [Shelly Dimmer Gen4](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4)
-* [Shelly Plug US Gen4](https://kb.shelly.cloud/knowledge-base/shelly-plug-us-gen4)
+* [Shelly Mini Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen4-devices)
 
  Shelly Pro devices
 ----------
@@ -137,6 +137,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wall Display](https://kb.shelly.cloud/knowledge-base/shelly-wall-display)
 * [Shelly Wall Display X2](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-x2)
 * [Shelly Wall Display XL](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-xl)
+* [Shelly Wall Display X2i](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-x2i)
 
  Shelly Wave devices
 ----------
