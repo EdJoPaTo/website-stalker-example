@@ -115,7 +115,7 @@ Ab 1. Januar 2026 kostet das Deutschland-Ticket **63 Euro pro Monat**. Den neuen
 
 ###  Das Deutschland-Ticket wird teurer - was muss ich jetzt tun?  ###
 
-Bitte teilen Sie uns mit, ob Sie Ihr Deutschland-Ticket zum neuen Preis von 63 Euro pro Monat behalten oder kündigen möchten. Wir benötigen Ihre Rückmeldung bis zum **30. November 2025**. Sie können uns Ihre Entscheidung über zwei Wege mitteilen:
+Bitte teilen Sie uns mit, ob Sie Ihr Deutschland-Ticket zum neuen Preis von 63 Euro pro Monat behalten oder kündigen möchten. Wir benötigen Ihre Rückmeldung bis zum **30. November 2025**. Sie können uns Ihre Entscheidung über 2 Wege mitteilen:
 
 **1. Im Aboportal**
 
@@ -123,7 +123,7 @@ Loggen Sie sich mit Ihrem bahn.de-Account ein und rufen Sie Ihr Deutschland-Tick
 
 **2. Im DB Navigator**
 
-Öffnen Sie den DB Navigator und Ihr Deutschland-Ticket mit dem sichtbaren QR-Code. Klicken Sie ganz unten auf der Seite auf die Menüauswahl mit den drei Punkten. Wählen Sie „Vertragsänderungen zustimmen“ aus. Wenn Sie den Button nicht sehen können, wählen Sie bitte „zum Aboportal“ aus. Sie werden direkt in das Aboportal weitergeleitet. Dort können Sie den neuen Tarifbedingungen zustimmen oder diese ablehnen.
+Öffnen Sie den DB Navigator und Ihr Deutschland-Ticket mit dem sichtbaren QR-Code. Klicken Sie ganz unten auf der Seite auf die Menüauswahl mit den 3 Punkten. Wählen Sie „Vertragsänderungen zustimmen“ aus. Wenn Sie den Button nicht sehen können, wählen Sie bitte „zum Aboportal“ aus. Sie werden direkt in das Aboportal weitergeleitet. Dort können Sie den neuen Tarifbedingungen zustimmen oder diese ablehnen.
 
 **Bitte beachten Sie:** Zustimmen kann nur die Vertragspartnerin oder der Vetragspartner, das ist die **bestellende Person des Abos**. Wenn Sie das Deutschland-Ticket nutzen, aber jemand anderes es für Sie bestellt hat, machen Sie diese bestellende Person bitte darauf aufmerksam, dass sie bis zum 30. November 2025 der Preisanpassung zustimmt, damit Sie Ihr Ticket auch 2026 weiter nutzen können.
 
