@@ -3466,6 +3466,13 @@ Wählen Sie bei der Abfrage der Reiseverbindung auf der Website die Umsteigezeit
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehr-umstiegszeit-fahrrad-reiseauskunft)
 
+ Wie viele DB Geschenkgutscheine kann ich bei einem Buchungsvorgang einlösen?
+----------
+
+Pro Buchung sind maximal 10 DB Geschenkgutscheine gleichzeitig einlösbar. Abweichend hiervon ist am DB Fahrkartenautomat die Anzahl nicht begrenzt. Es können hier aber nur Gutscheine mit einem maximalen Nennwert von 50 EUR und einem maximalen Gesamtwert von 150 EUR eingelöst werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehrere--einloesen)
+
  Ich habe für eine andere Person eine Mehrfahrtenkarte gekauft. Wie kann sie das Ticket in Ihre App laden?
 ----------
 
@@ -4069,6 +4076,13 @@ Der QR-Code befindet sich hinter dem jeweiligen Sitz an der Wand oder oberhalb d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/qr-code-aotomatische-wagenermittlung)
 
+ Wie erhalte ich den in der 10 % Rabattaktion erworbenen DB Geschenkgutschein?
+----------
+
+Nachdem Sie den Kauf beim Vertriebspartner cadooz GmbH abgeschlossen haben, erhalten Sie eine E-Mail von versand@bahn.cadooz.de an die von Ihnen angegebene E-Mail-Adresse. Diese E-Mail enthält einen Link zum Abruf Ihres DB Geschenkgutscheines.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rabatt-erhalten)
+
  Kann ich für meine Reise ins Ausland ein Digitales Ticket im Reisezentrum buchen?
 ----------
 
@@ -4507,6 +4521,13 @@ Der Wert der gekauften Leistung wird auf Ihr PayPal Konto erstattet und von dort
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stornierung-geld-zurueck-wenn-mit-paypal-gezahlt)
 
+ Wie erfolgt die Gutschrift, wenn ich ein per Gutschein bezahltes Ticket storniere?
+----------
+
+Die Erstattung erfolgt auf das jeweils genutze Zahlungsmittel. Haben Sie Ihr Ticket mit einem DB Geschenkgutschein bezahlt, erfolgt die Erstattung in Form eines Gutscheins. Haben Sie per Kreditkarte gezahlt, wird der zu erstattende Betrag zurück auf Ihre Kreditkarte gebucht, bei einer Banküberweisung zurück auf Ihr Bankkonto. Bei kombinierten Zahlungsmitteln erfolgt die Erstattung der Teilbeträge auf das jeweilige Zahlungsmittel.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno)
+
  Kann ich mein Flexpreis-Ticket umbuchen oder stornieren?
 ----------
 
@@ -4824,6 +4845,20 @@ Alternativ können Sie die Unterlagen in einem DB Reisezentrum oder Ihrer Verkau
 * [Zum Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/entschaedigung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verspaetung-zugausfall-kosten-online-einreichen)
+
+ Welche Bedingungen gelten beim Kauf der DB Geschenkgutscheine mit 10 % Rabatt beim Vertriebspartner cadooz GmbH?
+----------
+
+Für die 10 % Rabattaktion gelten die [AGB der cadooz GmbH](https://bahn.cadooz.de/agb)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertriebspartner)
+
+ Wohin wende ich mich bei Fragen zum Kaufprozess der DB Geschenkgutscheine über den Vertriebspartner cadooz GmbH?
+----------
+
+Unter <https://bahn.cadooz.de/faq> finden Sie Antworten auf häufig gestellte Fragen beim Vertriebspartner cadooz GmbH zum Kauf des DB Geschenkgutscheines.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertriebspartner1)
 
  Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?
 ----------
@@ -5328,6 +5363,13 @@ Je nach Kreditkarte nennt sich das Online-Legitimationsverfahren auch American E
 [Hier finden Sie weitere Informationen und Antworten auf häufige Fragen - zum Beispiel, wie Sie sich für das Verfahren registrieren.](https://www.bahn.de/service/buchung/zahlung/kreditkarte#3dsecure)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-3d-secure-und-psd2)
+
+ Was ist die Aktion 10 % Rabatt auf DB Geschenkgutscheine?
+----------
+
+DB Geschenkgutscheine im Wert von 30, 50 und 100 EUR können vom 27.11. bis 01.12.2025 nur online über bahn.cadooz.de mit einem Rabatt von 10 % bei unserem Vertriebspartner cadooz GmbH erworben werden - solange der Vorrat reicht.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-aktion)
 
  Was ist Bonvoyo?
 ----------
@@ -6038,6 +6080,13 @@ Sofern eine Anmeldung zum Newsletter vorliegt, werden Sie quartalsweise per E-Ma
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/werde-ich-informiert-wenn-meine-punkte-bald-verfallen)
 
+ Was, wenn der DB Geschenkkartenwert den Fahrkartenwert übersteigt?
+----------
+
+Falls der Wert des DB Geschenkgutscheins höher ist als der Kaufpreis des DB Produkts, für den Sie ihn einlösen, erhalten Sie einen Restwertgutschein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wert-uebersteigen)
+
  Ich besitze eine Wertmarke zum Schwerbehindertenausweis. Was muss ich bei der Online-Buchung beachten?
 ----------
 
@@ -6173,6 +6222,13 @@ Ihr gebuchtes Handy-Ticket wird direkt in der App gespeichert.
 Mit Lufthansa Express Rail können Sie ab 23 Stunden vor Abflug und bis 15 Minuten vor Abfahrt des Zuges online oder mobil bei Lufthansa einchecken. Sie erhalten jeweils eine Bordkarte für Zug und Flug. Die Bordkarte für den Zug ist Ihre ICE-Fahrkarte, diese ist nur für die aufgedruckte Verbindung gültig. Die Nutzung einer anderen Verbindung ist nicht gestattet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-checke-ich-fuer-lufthansa-express-ein-bzw-wie-erhalte-ich-meine-fahrkarte)
+
+ Wie kann ich meinen erworbenen DB Geschenkgutschein in ein DB Produkt einlösen?
+----------
+
+Eine Hilfestellung zur Einlösung finden Sie [hier](https://www.bahn.de/service/gutscheine/gutscheine-einloesen)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-einloesen)
 
  Wie erfahre ich, ob meine Bestellung im ICE Portal angenommen werden kann?
 ----------
@@ -7180,6 +7236,13 @@ Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum H
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
 
+ Ab wann und wie lange kann ich den DB Geschenkgutschein einlösen?
+----------
+
+Die DB Geschenkgutscheine der 10 % Rabattaktion können ab dem 05.12.2025 eingelöst werden und sind 5 Jahre gültig.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-einloesen)
+
  Wie lange sind DB Geschenkgutscheine gültig?
 ----------
 
@@ -7568,6 +7631,13 @@ Sie können das ICE Portal nur nutzen, wenn Sie mit dem WLAN im ICE verbunden si
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wird-mein-datenvolumen-verbraucht-wenn-ich-mir-inhalte-auf-dem-ice-portal-ansehe)
 
+ Wo kann ich die in der 10 % Rabattaktion erworbenen DB Geschenkgutscheine einlösen?
+----------
+
+Die in der Aktion erworbenen DB Geschenkgutscheine können auf bahn.de, in der App DB Navigator, im DB Reisezentrum, in DB Agenturen und am DB Fahrkartenautomat eingelöst werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo--einloesen)
+
  Wo kann ich mir die BahnBonus App herunterladen?
 ----------
 
@@ -7899,6 +7969,13 @@ Die aktuelle Wagenreihung finden Sie am Reisetag in der App DB Navigator in den 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sehe-ich-wo-der-zug-am-gleis-haelt)
 
+ Wofür kann ich die erworbenen DB Geschenkgutscheine einlösen?
+----------
+
+DB Geschenkgutscheine können beim Kauf von DB Produkten (z.B. BahnCards) im Bezahlvorgang mit eingelöst werden, jedoch nicht für den Kauf von DB Geschenkgutscheinen genutzt werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer--einloesen)
+
  Wofür brauche ich die BahnBonus App?
 ----------
 
@@ -8007,12 +8084,26 @@ Der QR Code auf dem Digitalen Ticket dient zur Ticketkontrolle im Zug. Das Digit
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wozu-ist-der-qr-code-auf-dem-online-ticket-gut)
 
+ Wie viele Gutscheine kann ich in der Rabattaktion kaufen?
+----------
+
+Es können maximal 5 DB Geschenkgutscheine pro Warenkorb in der 10 % Rabattaktion beim Vertriebspartner cadooz GmbH erworben werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wv-gutscheine-kann-ich-kaufen)
+
  Was kann ich tun, wenn ich bei Buchung eines Tickets und/oder einer Reservierung mehrmals belastet wurde?
 ----------
 
 Rufen Sie uns unter [030 2970](tel:030 2970) an.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlung-doppelt-abgebucht)
+
+ Welche Zahlungsarten sind für den Kauf der rabattierten DB Geschenkgutscheine zugelassen?
+----------
+
+Die DB Geschenkgutscheine der 10 % Rabattaktion können per MasterCard, VISA, Apple Pay, Google Pay bei unserem Vertriebspartner cadooz GmbH bezahlt werden. Eine Zahlung per DB Geschenkgutschein oder per Lastschrift ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlungsarten)
 
  Zeigt mir das internationale Buchungssystem automatisch den günstigsten Preis an?
 ----------
