@@ -1,4 +1,62 @@
-Heizartikel
+Doppelpack
+---
+
+ 2x
+---
+
+ Bohrschrauber S
+pro Set
+
+ \-59%
+---
+
+261,56 €
+
+ 106,98 €
+---
+
+ (m. MwSt.)
+
+219,80 € **89,90 €** (o. MwSt.)
+
+[](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-bohrschrauber-s-7118730-5521111-0.html?itemorigin=startseite_XMAS25)
+
+ Doppelpack
+---
+
+ 2x
+---
+
+ Schlagbohrschrauber L
+pro Set
+
+ \-58%
+---
+
+285,36 €
+
+ 118,88 €
+---
+
+ (m. MwSt.)
+
+239,80 € **99,90 €** (o. MwSt.)
+
+[](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-schlagbohrschrauber-l-7118740-5521171-0.html?itemorigin=startseite_XMAS25)
+
+ %
+---
+
+ Black
+Deals
+---
+
+ Nur bis zum 30.11.25
+---
+
+[zu den Deals](https://www.strauss.com/de/de/black-deals/?itemorigin=startseite_XMAS25)
+
+ Heizartikel
 ---
 
  Wärme-Komfort auf Knopfdruck
@@ -66,6 +124,7 @@ Gratis-Zugaben
 
 [jetzt entdecken](https://www.strauss.com/de/de/e-s-e-pic/?itemorigin=startseite_XMAS25)
 
+*
 *
 *
 *
@@ -312,15 +371,17 @@ Herren
 
 \+ gratis Besteckset
 
-[Alle Herren-Sets entdecken](https://www.strauss.com/de/de/f/geschenkideen-bekleidungs-sets/Herren_Damen_Kinder:Herren/?itemorigin=startseite_XMAS25)
-
-[Alle Herren-Sets entdecken](https://www.strauss.com/de/de/f/geschenkideen-bekleidungs-sets/Herren_Damen_Kinder:Herren/?itemorigin=startseite_XMAS25)
-
- mit tollen
-gratis Artikeln
-----------
-
+ 2x Akkuschrauber im Doppelpack:
 ---
+
+[Akku-Bohrschrauber-Set S](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-bohrschrauber-s-7118730-5521111-0.html?itemorigin=startseite_XMAS25)
+
+[Akku-Schlagbohrschrauber-Set L](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-schlagbohrschrauber-l-7118740-5521171-0.html?itemorigin=startseite_XMAS25)
+
+ 2x Akkuschrauber im Doppelpack:
+---
+
+[mehr entdecken](https://www.strauss.com/de/de/f/sale-werkzeuge/Akku-Bohrschrauber:Akku-Bohrschrauber_S,Akku-Schlagbohrschrauber_L/?itemorigin=startseite_xmas25&obfuscate=true)
 
  Klassiker unter den Geschenken
 ----------
