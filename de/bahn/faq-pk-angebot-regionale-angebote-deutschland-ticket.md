@@ -529,8 +529,9 @@ Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsma
 
 Kinder ab 6 Jahre können mit dem Deutschland-Ticket auch allein reisen.
 
-* Für das digitale Ticket benötigen Ihre Kinder ein mobiles Endgerät, die App DB Navigator und ein Schülerausweis oder anderen Lichtbildausweis.
-* Bei dem Deutschland-Ticket als Chipkarte zusätzlich zu der Chipkarte ebenfalls ein Schüler- bzw. Lichtbildausweis benötigt.
+Für das digitale Ticket benötigen Ihre Kinder ein mobiles Endgerät, die App DB Navigator und ein Schülerausweis oder anderen Lichtbildausweis.
+
+Bei dem Deutschland-Ticket als Chipkarte wird zusätzlich zu der Chipkarte ebenfalls ein Schüler- bzw. Lichtbildausweis benötigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder-alleine)
 
