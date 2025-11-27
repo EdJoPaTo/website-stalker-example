@@ -2924,6 +2924,14 @@ Wählen Sie im ICE Portal einen Titel aus und klicken Sie auf "Jetzt lesen", um 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-die-tageszeitung-oder-das-magazin-auch-nach-meiner-reise-weiter-lesen)
 
+ Kann ich ein Gläschen/Fläschchen im Zug erwärmen?
+----------
+
+* Im ICE-/IC-Bordrestaurant hilft das Personal beim Erwärmen von Fläschchen und Gläschen und stellt Ihnen heißes Wasser zur Verfügung.
+* Eine Thermoskanne mit heißem Wasser zusätzlich mitnehmen kann praktisch sein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ein-glaeschen-flaeschchen-erwaermen)
+
  Wie kann ich ein Hundeticket für die Bahn buchen?
 ----------
 
@@ -5996,7 +6004,7 @@ Wir akzeptieren VISA, MasterCard, American Express, AirPlus und Diners Club.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-kreditkarten-werden-akzeptiert)
 
- Welche Sitzplätze sind die besten für Familien?
+ Welche Sitzplätze im Zug sind die besten für Familien?
 ----------
 
 Die [Kleinkindabteile](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil) richten sich an die Bedürfnisse von Familien mit Kindern im Still- und Krabbelalter (0 bis 5 Jahre). Jedes Kleinkindabteil hat eine eigene Steckdose mit Kindersicherung. Ein ausklappbarer Wickeltisch direkt im Abteil oder im Rollstuhl-WC nebenan sorgt für eine rückenschonende Haltung beim Wickeln – auch bei 300 km/h. Kleinkindabteile verfügen in der Regel auch über einen Kinderwagenstellplatz innerhalb des Abteils oder in unmittelbarer Nähe.
@@ -7976,6 +7984,15 @@ Dazu müssen neben der Fahrkarte oder einer Kopie der Fahrkarte die Originalbele
 * In Regionalzügen: Wickelmöglichkeiten meist in den barrierefreien WCs (Achtung: Ausstattung kann schwanken).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-wickeln)
+
+ Wo parke ich im Zug den Kinderwagen?
+----------
+
+* Im [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) oder im angrenzenden 1. Klasse-Wagen (hinter dem ersten Sitz).
+* Falls das [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) ausgebucht ist: In Familienbereichen oder bei Regional- und S-Bahnen im Mehrzweckbereich/Fahrradabteil.
+* Tipp: Beim Zugpersonal nachfragen, falls Sie keinen freien Stellplatz finden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-parke-ich-den-kinderwagen)
 
  Wo sehe ich, wo der Zug am Gleis hält?
 ----------
