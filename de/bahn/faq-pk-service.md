@@ -5996,6 +5996,15 @@ Wir akzeptieren VISA, MasterCard, American Express, AirPlus und Diners Club.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-kreditkarten-werden-akzeptiert)
 
+ Welche Sitzplätze sind die besten für Familien?
+----------
+
+Die [Kleinkindabteile](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil) richten sich an die Bedürfnisse von Familien mit Kindern im Still- und Krabbelalter (0 bis 5 Jahre). Jedes Kleinkindabteil hat eine eigene Steckdose mit Kindersicherung. Ein ausklappbarer Wickeltisch direkt im Abteil oder im Rollstuhl-WC nebenan sorgt für eine rückenschonende Haltung beim Wickeln – auch bei 300 km/h. Kleinkindabteile verfügen in der Regel auch über einen Kinderwagenstellplatz innerhalb des Abteils oder in unmittelbarer Nähe.
+
+Im [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich) der ICE- und Intercity-Züge sind Familien mit Kindern im Kindergarten- oder Grundschulalter perfekt aufgehoben. Das Gute: Hier reisen Sie in bester Gesellschaft – Sie sitzen mit anderen Familien in einem Boot.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-sitzplaetze-sind-die-besten-fuer-familien)
+
  Welche Spiele sind im ICE Portal aktuell im Angebot?
 ----------
 
@@ -7959,6 +7968,14 @@ Die Erstattung erforderlicher Aufwendungen aufgrund einer Verspätung (z.B. Bus,
 Dazu müssen neben der Fahrkarte oder einer Kopie der Fahrkarte die Originalbelege zu den entstandenen Aufwendungen eingesendet werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-weitere-aufwendungen-aufgrund-einer-verspaetung-geltend-machen)
+
+ Wo kann ich mein Baby im Zug wickeln?
+----------
+
+* In ICE- und IC-Zügen gibt es in fast jedem Zug mindestens eine Wickelmöglichkeit (meist im [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) oder auf den barrierefreien Toiletten, Hinweise an der Tür).
+* In Regionalzügen: Wickelmöglichkeiten meist in den barrierefreien WCs (Achtung: Ausstattung kann schwanken).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-wickeln)
 
  Wo sehe ich, wo der Zug am Gleis hält?
 ----------
