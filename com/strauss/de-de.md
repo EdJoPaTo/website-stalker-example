@@ -374,9 +374,9 @@ Herren
  2x Akkuschrauber im Doppelpack:
 ---
 
-[Akku-Bohrschrauber-Set S](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-bohrschrauber-s-7118730-5521111-0.html?itemorigin=startseite_XMAS25)
+[Bohrschrauber-Set S](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-bohrschrauber-s-7118730-5521111-0.html?itemorigin=startseite_XMAS25)
 
-[Akku-Schlagbohrschrauber-Set L](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-schlagbohrschrauber-l-7118740-5521171-0.html?itemorigin=startseite_XMAS25)
+[Schlagbohrschrauber-Set L](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-schlagbohrschrauber-l-7118740-5521171-0.html?itemorigin=startseite_XMAS25)
 
  2x Akkuschrauber im Doppelpack:
 ---
