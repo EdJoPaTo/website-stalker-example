@@ -33,13 +33,13 @@ Browse our range
 
 [Byte €13,37 Ships 1 - 2 business days](/products/byte)
 
-[](/products/starbook)
-
-[StarBook €13,37 €13,37 Ships 1 - 2 business days](/products/starbook)
-
 [](/products/starlite)
 
 [StarLite €13,37 Ships 1 - 2 business days](/products/starlite)
+
+[](/products/starbook)
+
+[StarBook €13,37 Ships 1 - 2 business days](/products/starbook)
 
 [](/products/starbook-horizon)
 
