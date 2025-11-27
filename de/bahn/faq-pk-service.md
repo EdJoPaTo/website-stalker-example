@@ -7944,8 +7944,6 @@ Eine Änderung des **Vornamens** und **Geburtsdatums** ist ausschließlich m
 
 Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mail-Adresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
 
-Falls Sie eine aktive BahnCard oder BahnBonusCard besitzen, wenden Sie sich bitte mit einem Nachweis (Kopie Personalausweis) und Ihrer Kartennummer an: [bahncard-service@bahn.de](mailto:bahncard-service@bahn.de)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-meine-persoenlichen-daten-anpassen)
 
  Wo kann ich mich über die aktuelle Verkehrslage informieren?

@@ -74,10 +74,6 @@ Deals
 
  Power-Bank gleich mitbestellen
 
- NEU
-
- NEU
-
  Neuheiten
 ----------
 
