@@ -150,7 +150,11 @@ Gratis-Zugaben
 
  Bundle e.s. Werkzeugbrille
 
-[jetzt kaufen](https://www.strauss.com/de/de/akku-geraete/bundle-e-s-werkzeugbrille-9057130-5521315-0.html?itemorigin=startseite_XMAS25) [](https://www.strauss.com/de/de/akku-geraete/bundle-e-s-werkzeugbrille-9057130-5521315-0.html?itemorigin=startseite_XMAS25)
+[
+
+ausverkauft
+
+]()
 
  Geschenkideen
 ----------
