@@ -600,6 +600,7 @@
 * [Komposttüte](https://www.wdrmaus.de/filme/sachgeschichten/komposttuete.php5)
 * [Kondensstreifen](https://www.wdrmaus.de/filme/sachgeschichten/kondensstreifen.php5)
 * [Konservendose](https://www.wdrmaus.de/filme/sachgeschichten/konservendose.php5)
+* [Kontaktlinsen](https://www.wdrmaus.de/filme/sachgeschichten/kontaktlinsen.php5)
 * [Kontrabass](https://www.wdrmaus.de/filme/sachgeschichten/kontrabass.php5)
 * [Kopfschmerztablette](https://www.wdrmaus.de/filme/sachgeschichten/kopfschmerztablette.php5)
 * [Korkenrecycling](https://www.wdrmaus.de/filme/sachgeschichten/korkenrecycling.php5)
