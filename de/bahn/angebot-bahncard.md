@@ -3,17 +3,6 @@ Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
 
-BahnCard 25 und 50 Mitfahraktion
-----------
-
-Bis zu 50 % sparen
-
-### 4x Extra-Rabatt  ###
-
-Mit der **BahnCard 25/50** bis zu 4 Personen zum gleichen Rabatt mitnehmen.
-
-[Zur Aktion Zur Aktion](https://www.bahn.de/angebot/bahncard/aktionen/bc-mitfahraktion)
-
 Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!

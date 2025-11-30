@@ -29,13 +29,6 @@ Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altes-smartphone-digitale-bahncard-nicht-nutzbar)
 
- Kann ich die BahnCard 25 und 50 Mitfahraktion nur einmalig im Aktionszeitraum nutzen oder kann ich mehrmals weitere Personen mitnehmen?
-----------
-
-Wenn Sie eine BahnCard 25 oder 50 besitzen, können Sie im Aktionszeitraum 1. bis 30. November 2025 beliebig oft bis zu 4 Mitfahrende mitnehmen und somit die Aktion nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebot-mehrfachnutzung-mitfahraktion)
-
  Gibt es die BahnCard 100 für Studierende?
 ----------
 
@@ -77,13 +70,6 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-europa)
 
- Kann ich die BahnCard 25 und 50 Mitfahraktion auch nutzen, wenn ich ein Ticket für eine internationale Fahrt kaufen möchte?
-----------
-
-Nein, das ist nicht möglich. Die Aktion gilt nur für Fahrten innerhalb Deutschlands und nicht für grenzüberschreitende Fahrten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-internationale-fahrt-mitfahraktion)
-
  Haben Sie schon ein SEPA-Lastschriftmandat eingerichtet und trotzdem eine Mahnung für Ihre BahnCard erhalten?
 ----------
 
@@ -96,13 +82,6 @@ Rufen Sie bei weiteren Fragen an unter [030 2970](tel:030 2970) oder nutzen Si
 * [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahncard-mahnung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-mahnung-sepa)
-
- Gilt die BahnCard 25 und 50 Mitfahraktion auch für Fahrkarten im Nahverkehr?
-----------
-
-Nein, die Aktion gilt nicht für Fahrtenkarten des Nahverkehrs (z. B. Verbundangebote oder der Normalpreis des Deutschlandtarifs). Sie gilt nur für innerdeutsche Fahrkarten im Fernverkehr, wenn mindestens eine Teilstrecke im ICE, IC/EC erfolgt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-nahverkehr-mitfahraktion)
 
  Was sollte ich als Rollstuhlnutzer vor dem Kauf einer BahnCard 1. Klasse beachten?
 ----------
@@ -241,20 +220,6 @@ Nein, der BahnCard Rabatt wird in den Spar- und Super Sparpreisen ausschließlic
 In den Flexpreisen wird das City-Ticket kostenlos hinzugegeben. Hier übernimmt die DB die Kosten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gilt-mein-bahncard-rabatt-auch-fuer-city-ticket)
-
- Gilt die BahnCard 25 und 50 Mitfahraktion auch für Inhabende einer BahnCard Business?
-----------
-
-Ja, auch Inhabende einer BahnCard Business 25 und 50 können an der Aktion teilnehmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-bahncard-business-mitfahraktion)
-
- Wann gilt die BahnCard Mitfahraktion?
-----------
-
-Nein, die Aktion gilt ausschließlich für Reisen im Zeitraum 1. November bis 30. November 2025. Auch die Rückfahrt muss spätestens bis zum 30. November 2025 erfolgen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-bahncard-mitfahraktion)
 
  Ich habe kein Smartphone - kann ich die digitale BahnCard trotzdem nutzen?
 ----------
@@ -480,20 +445,6 @@ Mit der digitalen BahnCard können Sie auch BahnBonus Punkte sammeln. Wenn Sie I
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-digitaler-bahncard-bahnbonus-punkte-sammeln)
 
- Kann ich einzelne Mitreisende nachträglich stornieren, wenn sie doch nicht mitreisen können? (Mitfahraktion)
-----------
-
-Nein, das ist leider nicht möglich. Sie können das gesamte Ticket stornieren, wenn das Angebot eine Stornierung zulässt. Einzelne Mitreisende können Sie nicht separat stornieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitreisende-person-stornieren-mitfahraktion)
-
- Was muss ich tun, wenn ein oder mehrere mitreisende Personen eine BahnCard 25 besitzen? (Mitfahraktion)
-----------
-
-Geben Sie die BahnCard 25 der Mitreisenden bei der Buchung **nicht** an. Wählen Sie für alle Personen die BahnCard 50-Ermäßigung aus.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitreisender-besitzt-bc-mitfahraktion)
-
  Muss ich die digitale BahnCard in der App DB Navigator aktualisieren?
 ----------
 
@@ -697,13 +648,6 @@ Bitte führen Sie einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-senioren-bahncard-kaufen)
 
- Wie funktioniert die BahnCard 25 und 50 Mitfahraktion?
-----------
-
-Im Zuge der Buchung fügt der BahnCard 25- bzw. 50-Inhabende bis zu 4 Reisende unter Angabe einer identischen BahnCard 25- bzw. 50-Ermäßigung analog seiner Wagenklasse hinzu. Die mitreisenden Personen erhält die gleichen Rabatte wie der Inhabende der BahnCard 25 bzw.50, benötigt jedoch keine eigene BahnCard 25 oder 50. Alle Reisende müssen auf einem Ticket gebucht werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-bahncard-mitfahraktion)
-
  Wie funktioniert die kostenfreie Sitzplatzreservierung für Inhaber einer BahnCard 100, 1. Klasse?
 ----------
 
@@ -841,13 +785,6 @@ Eine Kündigung der Jugend BahnCard ist nicht notwendig, sie hat eine Laufzeit v
 *
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kuendige-ich-die-jugend-bahncard)
-
- Wie lange gibt es die BahnCard 25 und 50 Mitfahraktion?
-----------
-
-Die Aktion gilt vom 1. November 2025 bis zum 30. November 2025. In diesem Zeitraum können BahnCard 25- und 50-Inhaber bis zu vier Reisende in der gleichen Wagenklasse und zum gleichen Rabatt mitnehmen. Die Rückfahrt muss bis zum 30. November 2025 erfolgen und ebenfalls im gleichen Buchungsschritt gebucht werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-gibt-es-die-bahncard-mitfahraktion)
 
  Wie lange ist eine BahnCard 100 gültig?
 ----------
@@ -1142,13 +1079,6 @@ Die Probe BahnCard 50 können Sie gleich hier online kaufen.
 Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn und in der App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-probe-bahncard-50)
-
- Wo kann ich die Tickets für die Mitfahraktion kaufen?
-----------
-
-Tickets können Sie online oder in der App DB Navigator sowie in den DB Reisezentren, DB Agenturen und am DB-Automaten kaufen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-die-tickets-kaufen-mitfahraktion)
 
  Wofür brauche ich die BahnCard Services?
 ----------
