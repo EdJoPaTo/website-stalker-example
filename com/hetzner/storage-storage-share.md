@@ -32,13 +32,9 @@ No minimum contract period. No cancellation period.
 
 ###  NX11  ###
 
- Black week deals
+4 29  max/mo.
 
- 1st month
-
- free
-
-4.29 / mo.  starting from the 2nd month
+0.0069  /hr
 
 Storage 1 TB
 
@@ -52,13 +48,9 @@ FSN1
 
 ###  NX21  ###
 
- Black week deals
+14 19  max/mo.
 
- 1st month
-
- free
-
-14.19 / mo.  starting from the 2nd month
+0.0227  /hr
 
 Storage 5 TB
 
@@ -72,13 +64,9 @@ FSN1
 
 ###  NX31  ###
 
- Black week deals
+27 39  max/mo.
 
- 1st month
-
- free
-
-27.39 / mo.  starting from the 2nd month
+0.0439  /hr
 
 Storage 10 TB
 
