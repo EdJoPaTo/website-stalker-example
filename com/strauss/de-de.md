@@ -514,6 +514,7 @@ Jetzt Freude verschenken!
   * [Häufige Fragen](https://www.strauss.com/de/de/Helpcenter-Redirect)
   * [Lexikon](https://www.strauss.com/de/de/Informationen/Lexikon/A)
   * [Barrierefreiheitserklärung](https://www.strauss.com/de/de/Informationen/Barrierefreiheit)
+  * [Kundenbewertungen](https://www.strauss.com/de/de/Bewertungen)
 
 * Zahlarten
 
