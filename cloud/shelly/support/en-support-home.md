@@ -79,4 +79,4 @@ GEN 2/3/4 Devices Changelog BLU Devices Changelog Shelly APP Changelog
 [Range extender functionality →](/en/support/solutions/articles/103000222505-range-extender-functionality)
 [Do you support Matter ? →](/en/support/solutions/articles/103000060376-do-you-support-matter-)
 [What to do when you installed a new WiFi Router/Modem →](/en/support/solutions/articles/103000046465-what-to-do-when-you-installed-a-new-wifi-router-modem)
-[Shelly Devices and Wi-Fi Signals →](/en/support/solutions/articles/103000221396-shelly-devices-and-wi-fi-signals)
+[Comparison of Shelly Gen1, Gen2, Gen3 and Gen4 Devices →](/en/support/solutions/articles/103000316073-comparison-of-shelly-gen1-gen2-gen3-and-gen4-devices)
