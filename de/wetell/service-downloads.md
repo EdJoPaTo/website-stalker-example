@@ -58,10 +58,10 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### Abtretungserklärung der Rufnummer ####
 
-  * [Privat zu Geschäftlich](/media/filer_public/2e/ec/2eec27c1-78a3-4c03-8c6a-8250636b30b5/abtretungserklaerung_privat_zu_geschaeftlich_bf_2025-11.pdf)
-  * [Privat zu Privat](/media/filer_public/34/d7/34d7eeb6-ebec-4b13-9806-8f1437fc8e9d/abtretungserklaerung_privat_zu_privat_bf_2025-11.pdf)
-  * [Geschäftlich zu Privat](/media/filer_public/bd/6b/bd6beaff-9db5-491d-9e34-5a83fcbeee3d/abtretungserklaerung_geschaeftlich_zu_privat_bf_2025-11.pdf)
-  * [Geschäftlich zu Geschäftlich](/media/filer_public/2d/6e/2d6e025d-646b-4e27-88d1-e41d60b091d8/abtretungserklaerung_geschaeftlich_zu_geschaeftlich_bf_2025-11.pdf)
+  * [Privat zu Geschäftlich](/media/filer_public/c9/a3/c9a3d117-cf55-4616-a638-1228b46bd23c/abtretungserklaerung_privat_zu_geschaeftlich_bf_2025-11.pdf)
+  * [Privat zu Privat](/media/filer_public/c5/4c/c54cc572-cbe9-47ac-ac9e-af6f5dba6a2a/abtretungserklaerung_privat_zu_privat_bf_2025-11.pdf)
+  * [Geschäftlich zu Privat](/media/filer_public/0b/22/0b221d26-7094-4fcc-ae36-752e987a948a/abtretungserklaerung_geschaeftlich_zu_privat_bf_2025-11.pdf)
+  * [Geschäftlich zu Geschäftlich](/media/filer_public/70/c5/70c557f2-beb2-47aa-b414-60f7d6a70ceb/abtretungserklaerung_geschaeftlich_zu_geschaeftlich_bf_2025-11.pdf)
 
 * #### Widerruf und Kündigungen ####
 

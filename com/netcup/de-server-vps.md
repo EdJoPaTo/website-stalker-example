@@ -275,15 +275,27 @@ Die **netcup SCP App** bietet dir die Möglichkeit, jederzeit und von überall a
 Frequently Asked Questions
 ----------
 
-### Was ist ein VPS? ###
+###
+
+Was ist ein VPS?
+
+ ###
 
 Ein VPS (Virtual Private Server), auch bekannt als vServer, ist eine **virtuelle Maschine, die auf einem physischen Server gehostet wird** und es Benutzern ermöglicht, isolierte Serverumgebungen mit eigenen Betriebssystemen und Anwendungen zu nutzen. VPS bieten **Flexibilität und Kontrolle** ähnlich dedizierten Servern, jedoch zu einem erschwinglichen Preis. Sie sind ideal für Nutzer, die einen eigenen Server benötigen, aber nicht die Kosten und die Verwaltung eines physischen Servers tragen möchten.
 
-### Was kann ich mit einem VPS machen? ###
+###
+
+Was kann ich mit einem VPS machen?
+
+ ###
 
 Mit einem vServer hast du die Möglichkeit, verschiedene Aufgaben auszuführen, darunter **Webhosting, Datenbankverwaltung, Gaming Server, Entwicklungsumgebungen** und mehr. Ein VPS bietet eine **skalierbare und anpassbare Plattform** für eine Vielzahl von Anwendungen, sowohl für Linux als auch für Windows-Betriebssysteme.
 
-### Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server? ###
+###
+
+Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server?
+
+ ###
 
 Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei denen du Zugriff auf deinen eigenen virtuellen Server erhältst.
 
@@ -295,27 +307,51 @@ Der Hauptunterschied liegt in der zugrundeliegenden Architektur und der Art der 
 
 Für alle diese Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen, um die Möglichkeiten optimal nutzen zu können.
 
-### Wo ist der Standort meines VPS? ###
+###
+
+Wo ist der Standort meines VPS?
+
+ ###
 
 Bei netcup bieten wir dir **Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) und Amsterdam (Niederlande)** als Standort für deinen vServer an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS 'bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) oder Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der VPS je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
 
-### Was sind die Vorteile eines VPS? ###
+###
+
+Was sind die Vorteile eines VPS?
+
+ ###
 
 Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
 
-### Kann ich meinen VPS mit Local Block Storage erweitern? ###
+###
+
+Kann ich meinen VPS mit Local Block Storage erweitern?
+
+ ###
 
 Ja, du kannst deinen VPS mit Local Block Storage erweitern. Dies bietet dir **zusätzlichen Speicherplatz für deine Daten und Anwendungen**, um deine Leistung und Speicheranforderungen zu erweitern. Bei der G11s Generation ist eine Erweiterung jedoch nur bei ausgewählten Angeboten und bis maximal 2 TB möglich.
 
-### Wie werden die Server abgerechnet? ###
+###
+
+Wie werden die Server abgerechnet?
+
+ ###
 
 Die Server werden auf zwei Arten abgerechnet: **stundenbasiert und auf einer 12-Monats-Basis**. Bei den Stundentarifen zahlst du monatlich im Voraus und die Abrechnung erfolgt auf Stundenbasis, wenn du den Vertrag beendest. Es gibt keine Mindestvertragslaufzeiten oder Kündigungsfristen. Die 12-Monats-Abrechnung bietet dir langfristige Planungssicherheit und mögliche Kosteneinsparungen bei einer längeren Vertragslaufzeit.
 
-### Kann ich einen Windows Server mieten? ###
+###
+
+Kann ich einen Windows Server mieten?
+
+ ###
 
 netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Möglichkeit, Windows auf deinem Server **über das SCP selbst zu installieren**. Bitte beachte, dass es sich dabei um eine **180-tägige Testlizenz** handelt. Darüber hinaus kannst du über netcup keine Windows-Softwarelizenzen erwerben.
 
-### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ###
+###
+
+Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
+
+ ###
 
 Weitere Antworten findest du im [VPS G11 FAQ-Bereich](https://helpcenter.netcup.com/de/faq#server) in unserem Help Center.
 

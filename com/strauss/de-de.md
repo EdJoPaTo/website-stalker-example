@@ -8,7 +8,7 @@ Heizartikel
 
  3 in 1 Heizjacke e.s.concrete
 
- Heiz-Hybrid Kapuzenstrickjacke e.s.trail, Damen
+ e.s. Heizweste climafoam
 
  e.s. Heizsitzkissen
 

@@ -63,11 +63,11 @@ Close
 
 System
 
-* i3-1315U  €569
+* i3-1315U  €599
 
   * Up to 4.5GHz, 2+4 cores
 
-* i5-1334U  €739
+* i5-1334U  €769
 
   * Up to 4.6GHz, 2+8 cores
 

@@ -100,55 +100,107 @@ Ob 3D-Rendering, Video-Encoding oder KI-Inferencing: Mit **garantierten vCPU- un
 Frequently Asked Questions
 ----------
 
-### Was sind vGPU Server und für welche Szenarien eignen sich die neuen Produkte? ###
+###
+
+Was sind vGPU Server und für welche Szenarien eignen sich die neuen Produkte?
+
+ ###
 
 vGPU Server sind **leistungsstarke Root-Server mit fest zugewiesener, virtualisierter GPU-Leistung** (vGPU). Sie eignen sich besonders für rechenintensive Einsatzbereiche wie KI Inferencing, Video-Processing, 3D-Visualisierungen sowie datengetriebene Analysen.
 
-### An welchen Standorten sind die vGPU Produkte von netcup verfügbar? ###
+###
+
+An welchen Standorten sind die vGPU Produkte von netcup verfügbar?
+
+ ###
 
 Die vGPU Server werden in unserem **hochsicheren Rechenzentrum in Nürnberg (Deutschland)** gehostet – vollständig DSGVO-konform und mit kurzen Latenzwegen [innerhalb Europas](https://www.netcup.com/de/ueber-netcup/digitale-souveraenitaet).
 
-### Sind die netcup vGPU Produkte für KI-Training geeignet? ###
+###
+
+Sind die netcup vGPU Produkte für KI-Training geeignet?
+
+ ###
 
 Unsere vGPU Server sind auf **KI Inferencing ausgelegt – also auf den produktiven Einsatz von vortrainierten Modellen**. Für großflächiges KI-Training sind sie nicht vorgesehen.
 
-### Brauche ich statt vGPU eher einen vServer (VPS)? ###
+###
+
+Brauche ich statt vGPU eher einen vServer (VPS)?
+
+ ###
 
 Wenn du keine GPU benötigst und CPU/RAM ausreichen, sind [vServer (VPS)](https://www.netcup.com/de/server/vps) die kosteneffiziente Wahl – flexibel und mit stundenbasierter Abrechnung.
 
-### Unterstützen die vGPU Produkte CUDA Technology? ###
+###
+
+Unterstützen die vGPU Produkte CUDA Technology?
+
+ ###
 
 Ja, die eingesetzten **NVIDIA™ H200 GPUs unterstützen die CUDA-Plattform** und ermöglichen damit GPU-beschleunigte Rechenprozesse und parallele Datenverarbeitung.
 
-### Gilt die Bestpreisgarantie und Zufriedenheitsgarantie für diese Produkte? ###
+###
+
+Gilt die Bestpreisgarantie und Zufriedenheitsgarantie für diese Produkte?
+
+ ###
 
 Die Bestpreis- und Zufriedenheitsgarantie ist bei diesen Produkten nicht gültig.
 
-### Mit welchen Images werden die vGPU Server bereitgestellt? ###
+###
+
+Mit welchen Images werden die vGPU Server bereitgestellt?
+
+ ###
 
 Die vGPU-Server werden **aktuell ausschließlich mit einem Ubuntu-Image** bereitgestellt. Hintergrund ist, dass die benötigten NVIDIA-Treiber nicht frei verfügbar sind und offiziell vorrangig Ubuntu unterstützen. Aus diesem Grund werden derzeit keine alternativen Images angeboten, und der Betrieb der vGPU-Server ist nur mit dem mitgelieferten Ubuntu-Image möglich.
 
-### Wann sind ARM-Server eine Alternative zu vGPU? ###
+###
+
+Wann sind ARM-Server eine Alternative zu vGPU?
+
+ ###
 
 Ist dein Stack [ARM64-kompatibel](https://www.netcup.com/de/server/arm-server) und primär CPU-bound, bieten ARM-Server eine energieeffiziente Option ohne GPU-Overhead.
 
-### Ich möchte die neuen Server für LLMs nutzen. Welche Sprachmodelle lassen sich mit den neuen Tarifen auf den Servern betreiben? ###
+###
+
+Ich möchte die neuen Server für LLMs nutzen. Welche Sprachmodelle lassen sich mit den neuen Tarifen auf den Servern betreiben?
+
+ ###
 
 Unsere vGPU Server sind **optimal** für kompaktere Sprachmodelle wie **Llama3, Mistral, Gemma, Qwen2 oder Phi3** geeignet – ideal für performantes und ressourcenschonendes Inference.
 
-### Wie werden die Server abgerechnet? ###
+###
+
+Wie werden die Server abgerechnet?
+
+ ###
 
 Die Abrechnung erfolgt **monatlich**, basierend auf einer Mindestvertragslaufzeit von nur einem Monat. So bleibst du flexibel bei voller Kostenkontrolle.
 
-### Welcher Hypervisor wird für die Instanzvirtualisierung verwendet? ###
+###
+
+Welcher Hypervisor wird für die Instanzvirtualisierung verwendet?
+
+ ###
 
 Wie bei allen unseren Root-Servern kommt auch bei den vGPU Instanzen der [KVM-Hypervisor](https://www.netcup.com/de/server/kvm-server-erweiterungen) im **Linux-Kernel** zum Einsatz – für stabile und performante Virtualisierung.
 
-### Welche anderen Server-Optionen bietet netcup? ###
+###
+
+Welche anderen Server-Optionen bietet netcup?
+
+ ###
 
 Alle [Server-Varianten](https://www.netcup.com/de/server) im Überblick: vServer(VPS), Root-Server, ARM-Server und vGPU, inkl. Local Block Storage-Erweiterungen.
 
-### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ###
+###
+
+Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
+
+ ###
 
 Bei offenen Fragen steht unser Support-Team jederzeit zur Verfügung. [Hier gehts zum Support Formular.](https://helpcenter.netcup.com/de/support)
 

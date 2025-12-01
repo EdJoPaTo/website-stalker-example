@@ -202,23 +202,43 @@ ARM-Server passen sich verschiedenen Anwendungsfällen an und **bieten eine zuku
 Frequently Asked Questions
 ----------
 
-### Welche Software kann auf ARM-Servern ausgeführt werden? ###
+###
+
+Welche Software kann auf ARM-Servern ausgeführt werden?
+
+ ###
 
 ARM-Server sind vielseitig einsetzbar und unterstützen gängige Software, darunter **Linux-Anwendungen, Webserver (wie Apache oder Nginx), Datenbanken (z. B. MySQL, MongoDB)** und viele weitere Anwendungen.
 
-### Gibt es Einschränkungen bei der x86-Kompatibilität von ARM-Servern? ###
+###
+
+Gibt es Einschränkungen bei der x86-Kompatibilität von ARM-Servern?
+
+ ###
 
 ARM-Server können x86-basierte Anwendungen nicht ausführen. Es ist wichtig, die Kompatibilität im Voraus zu überprüfen. Beachte, dass die bereitgestellten CDs/DVDs nicht auf jedem Server funktionsfähig sind. Die jeweiligen Systemanforderungen müssen erfüllt sein. Beispielsweise lässt sich **Windows nicht auf Servern mit ARM64-Architektur betreiben**. Eine Übersicht der bereitgestellten CDs/DVDs findest du [hier](https://www.netcup.com/de/server/vserver-images). Für x86-Workloads mit [vollem Rootzugriff](https://www.netcup.com/de/server/root-server) empfehlen wir unsere Root-Server.
 
-### Welche Vorteile bieten Ampere Altra Max CPUs? ###
+###
+
+Welche Vorteile bieten Ampere Altra Max CPUs?
+
+ ###
 
 Ampere Altra Max CPUs zeichnen sich durch ihre **beeindruckende Energieeffizienz** und Leistung aus, was zu **niedrigeren Betriebskosten** führt.
 
-### Sind ARM-Server kosteneffizient? ###
+###
+
+Sind ARM-Server kosteneffizient?
+
+ ###
 
 Ja, aufgrund ihrer Energieeffizienz und Leistung sind **ARM-Server in der Regel kosteneffiziente Hosting-Lösungen**.
 
-### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ###
+###
+
+Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
+
+ ###
 
 Weitere Antworten finden Sie im [ARM-Server FAQ-Bereich](https://helpcenter.netcup.com/de/faq#arm-server) in unserem Help Center.
 

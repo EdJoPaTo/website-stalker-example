@@ -213,23 +213,43 @@ Die netcup SCP App bietet dir die Möglichkeit, **jederzeit und von überall auf
 Frequently Asked Questions
 ----------
 
-### Was ist ein Root Server? ###
+###
+
+Was ist ein Root Server?
+
+ ###
 
 Bei einem Root Server handelt es sich um einen Server, bei dem du **vollständigen administrativen Zugriff (Root-Zugriff)** erhältst. Du bekommst klar definierte Ressourcen, die deinem Server zur Verfügung stehen. Du kannst i**ndividuelle Systemsoftware betreiben** und hast dabei vollständige administrative Kontrolle. Ein Root Server **setzt demzufolge Kenntnisse in der Administration von Serversystemen voraus.**
 
-### Was kann ich mit einem Root Server machen? ###
+###
+
+Was kann ich mit einem Root Server machen?
+
+ ###
 
 Root Server eignen sich ideal für **Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server** für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agierst du mit **höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.**
 
-### Was ist der Unterschied zwischen einem dedizierten Server, einem Root Server und einem VPS? ###
+###
+
+Was ist der Unterschied zwischen einem dedizierten Server, einem Root Server und einem VPS?
+
+ ###
 
 Die Begriffe dedizierter Server und Root Server werden in der IT-Branche oft synonym verwendet und stellen ähnliche Konzepte dar: Mit einem **dedizierten Server erhältst du exklusiven Zugriff auf einen physischen Server**. Bei VPS und Root Server handelt es sich **bei netcup um virtualisierte Server mit Root-Zugriff.** Während bei einem VPS die CPU-Leistung nicht garantiert werden kann, vereint ein Root Server jedoch die Vorteile dedizierter Server und virtualisierter Server: Einem Root Server wird die angegebene CPU-Leistung garantiert zugewiesen, zudem ist das **Anlegen von Snapshots** sowie die Verwaltung über ein Panel durch die Virtualisierung wie auch bei VPS möglich.
 
-### Wo ist der Standort meines Root Servers? ###
+###
+
+Wo ist der Standort meines Root Servers?
+
+ ###
 
 Bei netcup bieten wir Ihnen **Wien (Österreich), Nürnberg (Deutschland) oder Manassas (USA)** als Standort für deinen Root Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE' bzw. 'MNZ' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg) bzw. Manassas (Manassas) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root Server je nach freien Kapazitäten entweder in Wien oder Nürnberg gehostet wird.
 
-### Was sind die Vorteile eines Root Servers? ###
+###
+
+Was sind die Vorteile eines Root Servers?
+
+ ###
 
 Insgesamt bietet die Verwendung eines Root Servers die Flexibilität, Leistung und Kontrolle, die für anspruchsvolle Internetanwendungen und -dienste erforderlich sind.
 
@@ -240,7 +260,11 @@ Insgesamt bietet die Verwendung eines Root Servers die Flexibilität, Leistung u
 5. **Unabhängigkeit von Drittanbietern:** Mit einem eigenen Root Server bist du nicht von Drittanbietern abhängig, um deine Internetinfrastruktur zu verwalten. Du hast die volle Kontrolle über deine Serverumgebung und bist nicht von den Richtlinien oder Einschränkungen anderer Unternehmen abhängig.
 6. **Entwicklungsfreiheit:** Für Entwickler bietet ein Root Server maximale Freiheit bei der Entwicklung und Bereitstellung von Anwendungen. Du kannst verschiedene Programmiersprachen, Frameworks und Bibliotheken verwenden und die Serverumgebung nach Bedarf anpassen, um innovative Lösungen zu entwickeln.
 
-### Welche Besonderheiten bietet der Root Server G12? ###
+###
+
+Welche Besonderheiten bietet der Root Server G12?
+
+ ###
 
 Die Root Server Generation 12 setzt auf modernste Hardware und State-of-the-Art Technologie. Damit sorgt sie für höchste Leistung und maximale Stabilität. So erhältst du eine zuverlässige und zukunftssichere Basis auch für anspruchsvolle Projekte.
 
@@ -253,33 +277,61 @@ Im Überblick:
 
 Klicke auf der Tarif-Übersicht auf Details \>, um Eigenschaften zwischen den Tarifen zu vergleichen.
 
-### Kann ich meinen G11 Root Server auf G12 upgraden? ###
+###
+
+Kann ich meinen G11 Root Server auf G12 upgraden?
+
+ ###
 
 Ein Upgrade von G11 auf G12 ist aufgrund des Wechsels auf neue Hardware nicht möglich. Du kannst bei Bedarf einen der neuen Tarife bestellen und entweder eine manuelle oder Tool-assistierte Migration deiner Daten vornehmen.
 
-### Sind Root Server vorheriger Generationen (z.B. G11 oder älter) weiterhin bestellbar? ###
+###
+
+Sind Root Server vorheriger Generationen (z.B. G11 oder älter) weiterhin bestellbar?
+
+ ###
 
 Je nach Verfügbarkeit älterer Hardware, bieten wir Root Server vorheriger Generationen z.B. im Rahmen von Aktionen oder zu besonderen Anlässen weiterhin an. Darüber hinaus sind nur die aktuellsten Tarife bestellbar.
 
-### Welche Vertragslaufzeiten sind für Root Server G12 verfügbar? ###
+###
+
+Welche Vertragslaufzeiten sind für Root Server G12 verfügbar?
+
+ ###
 
 Wir bieten dir wie gewohnt volle Flexibilität. Wähle zwischen einer Mindestvertragslaufzeit von **einem** oder **zwölf Monaten**. Bei einer Vertragslaufzeit von **zwölf Monaten sparst du pro Monat 16%** im Vergleich zur monatlichen Abrechnungsvariante.
 
-### Kann ich zwischen unterschiedlichen Root Server-Varianten wechseln, wenn mein Projekt wächst? ###
+###
+
+Kann ich zwischen unterschiedlichen Root Server-Varianten wechseln, wenn mein Projekt wächst?
+
+ ###
 
 Ja, ein Wechsel innerhalb derselben Produktgeneration (z. B. von einem RS 2000 G12 zu einem RS 4000 G12) ist möglich und kann bequem im Customer Control Panel (CCP) durchgeführt werden. Ein Wechsel zwischen verschiedenen Generationen (z. B. G11 zu G11) oder zwischen verschiedenen Produktarten (z. B. VPS zu Root-Server) ist aus technischen und vertraglichen Gründen nicht möglich.
 
 Bitte beachte außerdem, dass ein Tarifupgrade nur zu größeren Tarifen oder Tarifen mit längeren Mindestvertragslaufzeiten möglich ist. [Hier findest du weitere Informationen.](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade)
 
-### Sind die Root Server G12 gegen DDoS-Angriffe geschützt? ###
+###
+
+Sind die Root Server G12 gegen DDoS-Angriffe geschützt?
+
+ ###
 
 Ja! Ein Schutz vor DDoS-Angriffen ist in allen Tarifen ohne Aufpreis inkludiert und gehört für uns zum Standard.
 
-### Gilt beim Launch Deal und allen anderen Tarifen die Zufriedenheitsgarantie? ###
+###
+
+Gilt beim Launch Deal und allen anderen Tarifen die Zufriedenheitsgarantie?
+
+ ###
 
 Wir legen großen Wert darauf, dass du mit unserem Angebot zufrieden bist - deswegen bieten wir die Zufriedenheitsgarantie wie gewohnt für 30 Tage ab Bestellung auf alle Root Server G12 Tarife an.
 
-### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ###
+###
+
+Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
+
+ ###
 
 Weitere Antworten findest du im [FAQ-Bereich.](https://helpcenter.netcup.com/de/faq#server)
 
