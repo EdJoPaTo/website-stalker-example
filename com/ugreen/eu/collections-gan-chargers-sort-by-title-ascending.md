@@ -1,9 +1,5 @@
 ### [65W USB C PD Charger - 4 Ports](https://eu.ugreen.com/products/65w-usb-c-pd-charger-4-ports) ###
 
-### [Nexode 100W USB C GaN Charger-4 Port Wall Charger](https://eu.ugreen.com/products/nexode-100w-usb-c-gan-charger-4-port-wall-charger) ###
-
-Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
-
 ### [UGREEN 30 W USB-C GaN II Tech Fast Charger](https://eu.ugreen.com/products/ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat) ###
 
  Previous page Next page Previous page Next page Previous page Next page
@@ -39,3 +35,5 @@ Ugreen Nexode 140W USB C Wall Charger Click here to learn about 2024's latest UG
 UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
 
 ### [UGREEN Nexode 200W USB C GaN Charger-6 Ports Desktop Charger](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger) ###
+
+### [UGREEN Nexode 300W GaN Wall USB-C Charger 5 Ports](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) ###
