@@ -81,22 +81,6 @@ Gratis-Zugaben
 
  innerhalb Deutschlands bis zum 31.01.2026
 
-###  Für die Arbeitswelt von Morgen  ###
-
----
-
-**Für alle Firmenkunden.** Nur solange der Vorrat reicht!
-
-[zur Story](https://www.strauss.com/de/de/Toolbox_XR?itemorigin=startseite_XMAS25)
-
- Bundle e.s. Werkzeugbrille
-
-[
-
-ausverkauft
-
-]()
-
  Geschenkideen
 ----------
 
@@ -344,6 +328,24 @@ Herren
  Hochwertige Verpackung. Große Wirkung.
 
 [jetzt entdecken](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_XMAS25)
+
+###  Für die Arbeitswelt
+von Morgen  ###
+
+---
+
+Der Werkzeugkoffer für Next Generation Work
+
+[zur Story](https://www.strauss.com/de/de/Toolbox_XR?itemorigin=startseite_XMAS25)
+
+###  Für die Arbeitswelt
+von Morgen  ###
+
+---
+
+Der Werkzeugkoffer für Next Generation Work
+
+[zur Story](https://www.strauss.com/de/de/Toolbox_XR?itemorigin=startseite_XMAS25)
 
  Partner-Kollektionen
 ----------
