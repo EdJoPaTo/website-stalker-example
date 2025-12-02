@@ -51,19 +51,19 @@ Close
 
 System
 
-* Max 385 - 32GB  €1,279
+* Max 385 - 32GB  €1,309
 
   * 8-core/16-thread CPU, up to 5.0GHz
   * 32 Graphics Cores, up to 2.8GHz
   * 32GB of non-upgradeable LPDDR5x
 
-* Max+ 395 - 64GB  €1,859
+* Max+ 395 - 64GB  €1,889
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
   * 64GB of non-upgradeable LPDDR5x
 
-* Max+ 395 - 128GB  Pre-order  €2,329
+* Max+ 395 - 128GB  Pre-order  €2,359
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
