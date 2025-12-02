@@ -5960,7 +5960,7 @@ Für **Zeitfahrkarten des Nah- und Fernverkehrs** gilt: ab 60 Minuten Verspätun
 
 Insgesamt werden maximal 25 Prozent des Zeitfahrkartenwertes entschädigt.
 
-Sie haben zudem die Möglichkeit, Verspätungsfälle ab 20 Minuten zu addieren und gesammelt einzureichen. Die zu addierenden Verspätungsfälle müssen dabei innerhalb des Geltungszeitraums der Zeitfahrkarte liegen.
+Als Zeitkarteninhaber (Ausnahme BahnCard 100) können Sie auch mehrere Verspätungsfälle ab 20 Minuten addieren und gesammelt einreichen. Die zu addierenden Verspätungsfälle müssen dabei innerhalb des Geltungszeitraums der Zeitfahrkarte liegen.
 
 Bitte beachten Sie: Entschädigungsbeträge unter 4 Euro werden nicht ausgezahlt.
 
