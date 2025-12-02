@@ -7,7 +7,7 @@ Intel Core 3 N350 8-core processor
 
  Storage
 
- 2TB
+ 512GB
 
 512GB
 
