@@ -27,6 +27,8 @@ Ihre Rechte und Ansprüche im Detail
 
 ###  Zeitkarten: Entschädigung pro Fahrt bei verspäteter Ankunft am Zielbahnhof  ###
 
+#### Die Details bei Entschädigung zu Zeitkarten ####
+
 Zeitfahrkarten des Nah- und Fernverkehrs (z.B. Wochen- oder Monatskarten, Länder-Tickets, Quer-durchs-Land-Ticket) werden pauschal jeweils ab einer **Verspätung ab 60 Minuten** am Zielbahnhof entschädigt.
 
 * Zeitfahrkarten des Fernverkehrs: 5 Euro (2. Klasse), 7,50 Euro (1. Klasse)
@@ -35,7 +37,7 @@ Zeitfahrkarten des Nah- und Fernverkehrs (z.B. Wochen- oder Monatskarten, Lände
 
 Insgesamt werden maximal 25 Prozent des Zeitfahrkartenwertes entschädigt.
 
-Sie haben zudem die Möglichkeit, Verspätungsfälle ab 20 Minuten zu addieren und gesammelt einzureichen. Die zu addierenden Verspätungsfälle müssen dabei innerhalb des Geltungszeitraums der Zeitfahrkarte liegen.
+Als Zeitkarteninhaber (Ausnahme BahnCard 100) können Sie auch mehrere Verspätungsfälle ab 20 Minuten addieren und gesammelt einreichen. Die zu addierenden Verspätungsfälle müssen dabei innerhalb des Geltungszeitraums der Zeitfahrkarte liegen.
 
 Wenn Sie eine Zeitfahrkarte des Nahverkehrs besitzen, beachten Sie bitte, dass Entschädigungsbeträge unter 4 Euro nicht ausgezahlt werden. Bitte berücksichtigen Sie dies und reichen Sie Verspätungsfälle daher im besten Fall gesammelt ein.
 
