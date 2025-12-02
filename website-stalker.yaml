@@ -152,6 +152,7 @@ sites:
       - https://www.netcup.com/de/server/vps
       - https://www.netcup.com/de/server/vserver-guenstig-qualitaet
       - https://www.netcup.com/de/server/vserver-images
+      - https://www.netcup.com/de/deals/adventskalender
     headers:
       - "Cache-Control: no-cache"
     editors:
@@ -164,7 +165,9 @@ sites:
           replace: ""
       - html_url_canonicalize
       - html_markdownify
-  - url: https://www.netcup.com/de/deals?all
+  - url:
+      - https://www.netcup.com/de/deals?all
+      - https://www.netcup.com/de/deals/adventskalender?all
     headers:
       - "Cache-Control: no-cache"
     editors:
