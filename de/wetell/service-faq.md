@@ -264,6 +264,43 @@ Deine SIM-Karte kannst du selbst in deinem [Mein-WEtell-Bereich](https://mein.w
 
 Eine Kartensperre über die +49 116 116 ist bei WEtell nicht möglich.
 
+#### Kann ich einzelne Funktionen bzw. Services sperren? ####
+
+Ja, du kannst in deinem persönlichen „Mein WEtell-Bereich“ oder in der App folgende Sperren setzen:
+
+**Alle ausgehenden Verbindungen**
+Diese Sperre blockiert die mobilen Daten, ausgehende Anrufe, ausgehende SMS/MMS und verhindert, dass sich deine SIM-Karte in ausländische Netze einwählen kann.
+
+**Anonyme Anrufer abweisen**
+Diese Sperre sorgt dafür, dass anonyme Anrufer dich nicht anrufen können.
+
+**Anrufweiterleitungen**
+Diese Sperre sorgt dafür, dass du auf deiner SIM-Karte keine neuen Anrufweiterleitungen einrichten kannst. Bestehende Weiterleitungen zur Mailbox bleiben erhalten.
+
+**Auskunftsdienste**
+Diese Sperre sorgt dafür, dass du keine Rufnummern anwählen kannst, die mit den Ziffern „118“ beginnen.
+
+**Highspeed-Paket**
+Diese Sperre blockiert das Zubuchen von kostenpflichtigen Datenpaketen, wenn dein inklusives Datenvolumen aufgebraucht ist.
+
+**Internationale Gespräche**
+Diese Sperre verhindert, dass du internationale Rufnummern anwählen kannst.
+
+**MMS**
+Diese Sperre sorgt dafür, dass du keine MMS versenden kannst. Da dieser Dienst im deutschen Vodafone-Netz ohnehin nicht verfügbar ist, ist diese Sperre in vielen Situationen obsolet.
+
+**Roaming**
+Diese Sperre verhindert, dass sich deine SIM-Karte in ausländische Netze einwählen kann.
+
+**Servicerufnummern**
+Diese Sperre sorgt dafür, dass du keine Rufnummern anwählen kannst, die mit den Ziffern „0180“ beginnen.
+
+**Sonderrufnummern**
+Diese Sperre blockiert folgende Dienste:
+\- Anrufe an Rufnummern, die mit den Ziffern „0900“ beginnen
+\- Anrufe an kostenpflichtige Servicekurzwahlen, bspw. Abschleppdienste
+\- Anrufe und SMS für kostenpflichtige Gewinnspiele, Horoskope, oder Informationsdienste
+
 #### Wie kann ich meine Mailbox erreichen und einrichten? ####
 
 Deine Mailbox findest und steuerst du ganz einfach über die kostenfreie Rufnummer 5500. Folge den telefonischen Ansagen.
