@@ -59,15 +59,15 @@ Close
 
 System
 
-* Ryzen™ AI 5 340  €1,059
+* Ryzen™ AI 5 340  €1,089
 
   6-core/12-thread, up to 4.8GHz
 
-* Ryzen™ AI 7 350  €1,459
+* Ryzen™ AI 7 350  €1,489
 
   8-core/16-thread, up to 5.0GHz
 
-* Ryzen™ AI 9 HX 370  €1,939
+* Ryzen™ AI 9 HX 370  €1,969
 
   12-core/24-thread, up to 5.1GHz
 
