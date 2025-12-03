@@ -75,7 +75,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [Formular SEPA Lastschriftmandat](/media/filer_public/e3/06/e3061c42-6e26-4c58-8dbd-6b28809005e5/formular_sepa_lastschriftmandat_wetell.pdf)
   * [Formular Vertragsübertragung](/media/filer_public/88/9b/889b7a6a-a210-4f80-bc37-7fcc6f0a056d/formular_vertragsuebertragung.pdf)
   * [Vermögensanlagen-Informationsblatt\_(VIB3)](/media/filer_public/72/48/72487ba5-b363-44c9-a190-c8b144922faf/vib_wetell_3.pdf)
-  * [Vollmacht Ansprechpartner\*innen](/media/filer_public/1f/25/1f251c1e-a1cc-4f4c-9349-299bf0d785c7/vollmacht_ansprechpartnerinnen_geschaeftstarife.pdf)
+  * [Vollmacht Ansprechpartner\*innen](/media/filer_public/6f/2b/6f2bb321-7d75-4583-be70-737b6d0c6048/vollmacht_geschaeftlich_bf_2025-11.pdf)
 
 * #### Social Media ####
 
