@@ -497,8 +497,8 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
  Wo kann ich das Deutschland-Ticket kaufen?
 ----------
 
-* **Online:** Auf bahn.de oder über die App DB Navigator.
-* **Vor Ort:** In DB Reisezentren deutschlandweit.
+* **Online:** Auf bahn.de oder über die App DB Navigator
+* **Vor Ort:** In DB Reisezentren deutschlandweit
 * **Andere Anbieter:** Viele Verkehrsunternehmen bieten das Ticket auch in ihren Vertriebskanälen an.
 
 Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.

@@ -6929,7 +6929,7 @@ Fügen Sie in der Buchungsanfrage auf der Website unter "Reisende" den Reisenden
 ----------
 
 Loggen Sie sich mit Ihrem Benutzernamen und Passwort in Ihrem DB Kundenkonto ein.
-In dem Bereich "DB Kundenkonto verwalten" in den Persönlichen Daten unter „Login & Sicherheit“ gelangen Sie zum Account Manager, wo Sie Ihre Login Daten ändern können.
+In dem Bereich "DB Kundenkonto verwalten" in den Persönlichen Daten unter "Login & Sicherheit" gelangen Sie zum Account Manager, wo Sie Ihre Login Daten ändern können.
 
 Wenn Sie Ihren Benutzernamen ändern möchten, schauen Sie hier: [Wie kann ich meinen Benutzernamen ändern?](https://www.bahn.de/faq/wie-kann-ich-meinen-benutzernamen-aendern)
 
@@ -7084,7 +7084,7 @@ In der Verbindungsübersicht sowie in Ihrem DB Kundenkonto unter "Meine Reisen" 
  Wie kann ich meinen Benutzernamen ändern?
 ----------
 
-Loggen Sie sich mit Ihrem Benutzername und Passwort in Ihrem DB Kundenkonto ein. Im Bereich „Login und Sicherheit“ können Sie Ihren Benutzernamen ganz einfach ändern. Ihr Benutzername entspricht Ihrer Kontakt-E-Mail-Adresse. Wir kontaktieren Sie in Zukunft unter dieser E-Mail-Adresse und senden an diese E-Mail-Adresse die von Ihnen gebuchten Leistungen (z.B. Tickets).
+Loggen Sie sich mit Ihrem Benutzername und Passwort in Ihrem DB Kundenkonto ein. Im Bereich "Login und Sicherheit" können Sie Ihren Benutzernamen ganz einfach ändern. Ihr Benutzername entspricht Ihrer Kontakt-E-Mail-Adresse. Wir kontaktieren Sie in Zukunft unter dieser E-Mail-Adresse und senden an diese E-Mail-Adresse die von Ihnen gebuchten Leistungen (z.B. Tickets).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meinen-benutzernamen-aendern)
 
