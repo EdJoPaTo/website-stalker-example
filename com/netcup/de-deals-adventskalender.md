@@ -36,7 +36,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-2
+RS 4000 G12 Ultra
+
+\+100% NVMe / + 2 vCore / +50% RAM
+
+dauerhaft
+
+44,27 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-4000-g12-ultra-nue-adv25)
+
+Webhosting 2000
+
+20 % Rabatt
+
+statt 3,25 €, dauerhaft
+
+2,58 €
+
+pro Monat (inkl. 19% MWSt.)
 
 3
 
