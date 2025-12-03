@@ -2518,7 +2518,7 @@ Digitale Tickets, die auf bahn.de oder der App DB Navigator gebucht wurden, kön
  Ich habe mein Passwort vergessen. Wie kann ich es zurücksetzen?
 ----------
 
-Besuchen Sie die [Login-Daten-Vergessen-Seite](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=fe_esuite&tab_id=WTcRlxo4w2U#noback_idm). Geben Sie Ihre E-Mail-Adresse ein, mit der Sie sich registriert haben.
+Besuchen Sie die [Login-Daten-Vergessen-Seite](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web). Geben Sie Ihre E-Mail-Adresse ein, mit der Sie sich registriert haben.
 
 Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihrer Login-Daten. Klicken Sie auf den Link und ändern Sie Ihr Passwort. Danach haben Sie wieder Zugang zu Ihrem DB Kundenkonto und können dort unter "Login und Sicherheit" Ihren Benutzernamen einsehen.
 

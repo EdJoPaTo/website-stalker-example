@@ -197,7 +197,7 @@ Buche jetzt deine Startzeit, bevor sie ausverkauft ist!
 
 18:00
 
-.
+AUSVERKAUFT
 
 18:15
 
@@ -206,8 +206,6 @@ Buche jetzt deine Startzeit, bevor sie ausverkauft ist!
 18:30
 
 .
-
-[TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
 [TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
