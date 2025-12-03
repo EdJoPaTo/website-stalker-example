@@ -4,7 +4,7 @@ Durch passive Kühlung absolut lautlos
 
 leistungsstarke Intel® Core™ CPU bis i9-10900T/ Intel Core Ultra bis 9 285T/ AM4/AM5
 
-bis zu 128 GB RAM
+bis zu 64 GB RAM
 
 bis zu 4x SSDs
 
@@ -12,7 +12,7 @@ lüfterlos und lautlos
 
 * leistungsstarke Intel® Core™ CPU bis i9-10900T/ Intel Core Ultra bis 9 285T/ AM4/AM5
 
-* bis zu 128 GB RAM
+* bis zu 64 GB RAM
 
 * bis zu 4x SSDs
 
@@ -56,7 +56,7 @@ Der Kleine mit der Größe.
 
 basierend auf Intel® NUC13 / NUC14 / NUC15 Pro
 
-bis zu 96 GB RAM
+bis zu 64 GB RAM
 
 bis zu 2x SSDs
 
@@ -64,7 +64,7 @@ lautlose / lüfterlose Kühlung
 
 * basierend auf Intel® NUC13 / NUC14 Pro/ NUC15 Pro
 
-* bis zu 96 GB RAM
+* bis zu 64 GB RAM
 
 * bis zu 2x SSDs
 
