@@ -58,7 +58,27 @@ statt 3,25 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-3
+Webhosting 2000
+
+20 % Rabatt
+
+statt 3,25 €, dauerhaft
+
+2,58 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-adv25)
+
+RS 2000 G12 Ultra
+
+\+100% NVMe / + 2 vCore / +50% RAM
+
+dauerhaft
+
+24,18 €
+
+pro Monat (inkl. 19% MWSt.)
 
 4
 
