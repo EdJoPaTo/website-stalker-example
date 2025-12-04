@@ -126,27 +126,27 @@ Unsere beliebtesten BahnCards
 
 ### BahnCard 25, 2. Klasse ###
 
-[Weitere Informationen Weitere Informationen: BahnCard 25, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)
 
 62,90 Euro
 
-[Jetzt bestellen Jetzt bestellen: BahnCard 25, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O205)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O205)
 
 ### BahnCard 50, 2. Klasse ###
 
-[Weitere Informationen Weitere Informationen: BahnCard 50, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
 
 244 Euro
 
-[Jetzt bestellen Jetzt bestellen: BahnCard 50, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
 
 ### BahnCard 100, 2. Klasse ###
 
-[Weitere Informationen Weitere Informationen: BahnCard 100, 2. Klasse](https://www.bahn.de/angebot/bahncard/bahncard100-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard100-2-klasse)
 
 4.899 Euro
 
-[Jetzt bestellen Jetzt bestellen: BahnCard 100, 2. Klasse](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O219)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O219)
 
 Welche BahnCard lohnt sich für mich?
 ----------

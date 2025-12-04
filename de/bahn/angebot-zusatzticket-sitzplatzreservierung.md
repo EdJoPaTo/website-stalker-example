@@ -19,19 +19,19 @@ Sitzplatzreservierung im Fernverkehr
 
  Bei vielen Verbindungen können Sie Ihren Lieblingsplatz buchen
 
-[Weitere Informationen Weitere Informationen: Sitzplatzreservierung im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr-nur-sitzplatz)
+[Weitere Informationen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr-nur-sitzplatz)
 
 ab 5,50 Euro
 
-[Sitzplatz buchen Sitzplatz buchen: Sitzplatzreservierung im Fernverkehr](https://www.bahn.de/buchung/intern/start#?STS=true&AR=true&VM=00%2C01%2C02)
+[Sitzplatz buchen](https://www.bahn.de/buchung/intern/start#?STS=true&AR=true&VM=00%2C01%2C02)
 
 ### Ticket inkl. Sitzplatzreservierung im Fernverkehr  ###
 
  Buchen Sie direkt Ticket und Sitzplatzreservierung bequem zusammen
 
-[Weitere Informationen Weitere Informationen: Ticket inkl. Sitzplatzreservierung im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+[Weitere Informationen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen: Ticket inkl. Sitzplatzreservierung im Fernverkehr](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 Sitzplatzreservierung im Nahverkehr
 ----------

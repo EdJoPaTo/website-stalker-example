@@ -1,14 +1,14 @@
 [
 	"page",
 	"/deals/adventskalender",
-	"2025-12-04T08:41:02.783Z",
+	"2025-12-04T09:22:38.826Z",
 	"de",
 	"normal",
 	"2024-11-29T17:19:35.648Z",
 	"advent",
 	"/deals/advent-calendar",
 	"2024-11-29T17:36:31.736Z",
-	"2025-12-04T08:41:02.709Z",
+	"2025-12-04T09:22:38.756Z",
 	"en",
 	"2024-11-29T17:40:14.508Z",
 	"Adventskalender 2025 | netcup",
@@ -702,6 +702,23 @@
 	[
 		"Set"
 	],
+	[
+		"NuxtError"
+	],
+	"[GET] \"/api/v2/content/sections/1244\": 404 ",
+	"Content not published",
+	[
+		"NuxtError"
+	],
+	"[GET] \"/api/v2/content/sections/1250\": 404 ",
+	[
+		"NuxtError"
+	],
+	"[GET] \"/api/v2/content/sections/1256\": 404 ",
+	[
+		"NuxtError"
+	],
+	"[GET] \"/api/v2/content/sections/1262\": 404 ",
 	"/de/deals/adventskalender?all",
 	{}
 ]
