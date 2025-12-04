@@ -702,23 +702,6 @@
 	[
 		"Set"
 	],
-	[
-		"NuxtError"
-	],
-	"[GET] \"/api/v2/content/sections/1244\": 404 ",
-	"Content not published",
-	[
-		"NuxtError"
-	],
-	"[GET] \"/api/v2/content/sections/1250\": 404 ",
-	[
-		"NuxtError"
-	],
-	"[GET] \"/api/v2/content/sections/1256\": 404 ",
-	[
-		"NuxtError"
-	],
-	"[GET] \"/api/v2/content/sections/1262\": 404 ",
 	"/de/deals/adventskalender?all",
 	{}
 ]
