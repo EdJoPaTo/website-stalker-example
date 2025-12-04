@@ -120,7 +120,7 @@ Leider nein. Sie können Ihr Abo aber im Aboportal oder in Ihrem Handy-Ticket je
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung-zurueckziehen)
 
- Ich kann mein Deutschland-Ticket-Abo nicht im Abo-Portal finden. Was kann ich tun?
+ Ich kann mein Deutschland-Ticket-Abo nicht im Aboportal finden. Was kann ich tun?
 ----------
 
 Bitte achten Sie beim Hinzufügen Ihres Deutschland-Ticket Abos darauf, den Tarifgeber auszuwählen, von dem Sie Ihr Deutschland-Ticket bezogen haben. Dies erkennen Sie an der Produktbezeichnung in Ihrer Bestellbestätigung oder auf Ihrem Handy-Ticket. Beim Hinzufügen Ihres Abos nutzen Sie bitte die Abo-Auftragsnummer, die Ihnen in Ihrer Aktivierungsmail mitgeteilt wurde. Für weitere Hilfestellungen besuchen Sie das Aboportal.
@@ -240,7 +240,7 @@ Ja, in Regional-Express, Regionalbahn und S-Bahn - also Verkehrsmitteln auf der 
  Kann ich das Deutschland-Ticket in Verbindung mit meiner BahnCard 100 nutzen?
 ----------
 
-Ja, Sie können das Deutschlandt-Ticket mit Ihrer BahnCard 100 im kompletten bundesweiten Nahverkehr, SPNV und ÖPNV, also in Nahverkehrszügen, S-Bahnen, U-Bahnen und Bussen, nutzen.
+Ja, Sie können das Deutschland-Ticket mit Ihrer BahnCard 100 im kompletten bundesweiten Nahverkehr, SPNV und ÖPNV, also in Nahverkehrszügen, S-Bahnen, U-Bahnen und Bussen, nutzen.
 
 Sie erhalten das Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100.
 
@@ -677,7 +677,7 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
  Wie funktioniert der Kauf des Deutschland-Tickets im DB Reisezentrum?
 ----------
 
-Kund:innen, die eine persönliche Beratung im DB Reisezentrum wünschen, bekommen dort Unterstützung von unseren Mitarbeitenden beim Abschließen des digitalen Abonnements. Beim Abschluss erhalten sie eine Auftragsnummer, mit der sie ihr Deutschland-Ticket zur sofortigen Nutzung in den DB Navigator laden können. Die Auftragsnummer selbst ist kein gültiges Deutschland-Ticket und berechtigt nicht zum Fahren.
+Kundinnen und Kunden, die eine persönliche Beratung im DB Reisezentrum wünschen, bekommen dort Unterstützung von unseren Mitarbeitenden beim Abschließen des digitalen Abonnements. Beim Abschluss erhalten sie eine Auftragsnummer, mit der sie ihr Deutschland-Ticket zur sofortigen Nutzung in den DB Navigator laden können. Die Auftragsnummer selbst ist kein gültiges Deutschland-Ticket und berechtigt nicht zum Fahren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-reisezentrum)
 
@@ -937,12 +937,12 @@ Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen,
  Welche beiden Filtermöglichkeiten gibt es für das Deutschland-Ticket?
 ----------
 
-Sie haben zwei Möglichkeiten:
+Sie haben 2 Möglichkeiten:
 
-1. Schieberegler **„Nur D-Ticket Verbindungen“** unter "Optionen" aktivieren:
+1. Schieberegler "**Nur D-Ticket Verbindungen"** unter "Optionen" aktivieren:
     Zeigt ausschließlich Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
 
-2. Schieberegler **„Alle Reisenden besitzen ein Deutschland-Ticket“** unter "Reisende/Fahrräder" aktivieren:
+2. Schieberegler **"Alle Reisenden besitzen ein Deutschland-Ticket"** unter "Reisende/Fahrräder" aktivieren:
     Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
 
 So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.

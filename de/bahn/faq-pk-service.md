@@ -1603,12 +1603,12 @@ Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen,
  Welche beiden Filtermöglichkeiten gibt es für das Deutschland-Ticket?
 ----------
 
-Sie haben zwei Möglichkeiten:
+Sie haben 2 Möglichkeiten:
 
-1. Schieberegler **„Nur D-Ticket Verbindungen“** unter "Optionen" aktivieren:
+1. Schieberegler "**Nur D-Ticket Verbindungen"** unter "Optionen" aktivieren:
     Zeigt ausschließlich Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
 
-2. Schieberegler **„Alle Reisenden besitzen ein Deutschland-Ticket“** unter "Reisende/Fahrräder" aktivieren:
+2. Schieberegler **"Alle Reisenden besitzen ein Deutschland-Ticket"** unter "Reisende/Fahrräder" aktivieren:
     Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
 
 So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
