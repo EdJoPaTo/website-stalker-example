@@ -1,3 +1,14 @@
+2025-12-04:
+  * Added ability to safely eject HDD and NVMe drives connected via USB
+  * Added Alt-F2 shortcut to open run dialog in labwc desktop
+  * Screens control panel no longer creates a default kanshi config file when started
+  * Bug fix - crash when using mounted drives or wastebasket in Places view
+  * Bug fix - crash when unloading system monitor plugin
+  * Bug fix - crash when power-cycling audio devices
+  * Bug fix - Bluetooth plugin icon not being hidden correctly on devices with no Bluetooth hardware
+  * Bug fix - crash in file manager which switching to a TTY
+  * Raspberry Pi firmware 676efed1194de38975889a34276091da1f5aadd3
+  * Linux kernel 6.12.47 - 359f37f0faefb712add32a39f98751aea67d5c1f
 2025-11-24:
   * Upgrade to version 0.9.2 of labwc
   * Support for setting HiDPI scaling added to Screens control panel
