@@ -6942,12 +6942,14 @@ Haben Sie Ihr altes Passwort vergessen? Hier finden Sie eine Anleitung zum Zurü
 
 Sie können BahnBonus jederzeit ohne Angabe von Gründen ordentlich wie folgt kündigen:
 
-* unter [https://www.bahn.de/buchung/kundenkonto/bahnbonus](http://ttps//www.bahn.de/buchung/kundenkonto/bahnbonus)
+* im Kundenkonto
 * per E-Mail an [bahnbonus-service@bahn.de](mailto:bahnbonus-service@bahn.de)
 * telefonisch beim BahnBonus Service
 * per Post an: DB Fernverkehr AG, BahnBonus Service, 60644 Frankfurt am Main
 
 Nach erfolgter Kündigung verfallen alle angesammelten BahnBonus Punkte sowie ein etwaiges Statuslevel und Statusvorteile und BahnBonus Leistungen. Es können keine neuen BahnBonus Punkte gesammelt werden.
+
+[Zum Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-bahnbonus-teilnahme-kuendigen)
 

@@ -367,6 +367,20 @@ Die Abkürzung „RCS“ steht für „Rich Communication Services“. Dabei han
 
 RCS kannst du bei WEtell ohne Weiteres nutzen. Voraussetzung dafür ist lediglich, dass dein Gerät die Funktion auch unterstützt. Um den Dienst zu verwenden, schau in den Einstellungen deiner Nachrichten-App nach, ob es dort einen Menüpunkt namens „Chatfunktion“ gibt. Wenn du diese Option dort de-/aktivieren kannst, ist dein Gerät RCS-fähig.
 
+#### Was bedeutet „Cell Broadcast“? ####
+
+Mit „Cell Broadcast“ wirst du direkt über Gefahren wie Feuer, Naturkatastrophen oder extreme Wetterlagen in deiner Nähe gewarnt. Manchmal werden auch Test- und Übungsnachrichten gesendet, die dann als solche gekennzeichnet sind.
+Um Warnmeldungen zu erhalten, muss dein Handy eingeschaltet und empfangsbereit sein (nicht im Flugmodus).
+
+So aktivierst du Warnmeldungen:
+iPhone: Gehe zu „Einstellungen“ → „Mitteilungen“ → „Cell Broadcast“
+Android: Gehe zu „Einstellungen“ → „Sicherheit und Notfall“ → „Drahtlose Notfallbenachrichtigungen“
+
+Auf älteren Geräten ist der Dienst oft nicht automatisch aktiv, aber du kannst ihn ganz einfach in den Einstellungen aktivieren, falls er verfügbar ist. Dann heißt Cell Broadcast häufig „Nachrichtendienst“ und zeigt Meldungen nur mit einer 3-stellige Kennung an.
+Falls dein Gerät nicht kompatibel ist, kannst du dir alternativ z. B. die Warn-App „NINA“ herunterladen.
+Den Alarmton kannst du an deinem Handy über die Lautstärke-Taste abschalten.
+Mehr Infos zu Cell Broadcast findest du auf der Website des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBK)
+
 #### Welches Netz nutzt WEtell? ####
 
 WEtell nutzt das Netz der Vodafone. Damit haben wir uns für zuverlässige D-Netzqualität entschieden. Wenn du prüfen möchtest, ob du im Vodafone-Netz guten Empfang hast, findest du [hier die offizielle Abdeckungskarte der Vodafone](https://www.vodafone.de/hilfe/netzabdeckung.html).
