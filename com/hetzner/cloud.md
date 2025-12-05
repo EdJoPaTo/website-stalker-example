@@ -86,7 +86,7 @@ Optimized for consistent performance with dedicated vCPUs. Best choice for criti
 
  Germany  Finland  Germany  Finland  Singapore  USA  Germany  Finland  Singapore  USA
 
-FSN1 NBG1 HEL1 HIL ASH SIN
+NBG1 HEL1 HIL ASH SIN
 
  Primary IPv4 IPv6 only
 
