@@ -80,7 +80,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-4
+RS 2000 G12 Ultra
+
+\+100% NVMe / + 2 vCore / +50% RAM
+
+dauerhaft
+
+24,18 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g12-ultra-nue-adv25)
+
+nc Coffee2Go Tasse
+
+Der perfekte Handwärmer
+
+einmalig
+
+20,99 €
+
+(inkl. 19% MWSt.) und einzigartig
 
 5
 
