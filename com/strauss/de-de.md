@@ -1,22 +1,4 @@
-Heizartikel
----
-
- Wärme-Komfort auf Knopfdruck
----
-
-[zu allen Heizartikeln](https://www.strauss.com/de/de/heizprodukte/?itemorigin=startseite_XMAS25)
-
- 3 in 1 Heizjacke e.s.concrete
-
- e.s. Heizweste climafoam
-
- e.s. Heizsitzkissen
-
- Power-Bank gleich mitbestellen
-
- Power-Bank gleich mitbestellen
-
- Neuheiten
+Neuheiten
 ----------
 
 ---
@@ -36,33 +18,36 @@ Strauss-Style
 Gratis-Zugaben
 ---
 
-[Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-winter-softshelljacke-troyer-e-s-motion-2020-3135420-17400-1088.html?itemorigin=startseite_XMAS25)
+[Herren-Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-bundhose-winter-bundhose-e-s-motion-2020-3164930-13906-722.html?itemorigin=startseite_XMAS25)
+
+[Damen-Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-damenhose-winter-damenhose-e-s-motion-2020-3164940-13919-722.html?itemorigin=startseite_XMAS25)
 
 [alle Sets entdecken](https://www.strauss.com/de/de/geschenkideen-bekleidungs-sets/?itemorigin=startseite_XMAS25)
 
  \+gratis
 ---
 
-\+ e.s. Brotdose large
- \+ e.s. Trinkflasche Tritan 1,5l
+\+ e.s. Lunch-
+bag
 
  \+ gratis
 ---
 
-\+ e.s. Brotdose large
- \+ e.s. Trinkflasche Tritan 1,5l
+\+ e.s. Lunch-
+bag
 
- e.s.e:pic
+ Gutscheine verschenken
 ----------
 
 ---
 
- Die Festtage im epischen Look erleben
+ Die einfachste Art Freude zu verschenken
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/e-s-e-pic/?itemorigin=startseite_XMAS25)
+[Gutschein per Mail](https://gutschein.strauss.de/?itemorigin=startseite_XMAS25)
 
-*
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_XMAS25)
+
 *
 *
 *
