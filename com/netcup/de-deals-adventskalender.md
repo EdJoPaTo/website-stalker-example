@@ -124,7 +124,27 @@ statt 6,52 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-6
+Webhosting 4000
+
+42 % Rabatt
+
+statt 6,52 €, dauerhaft
+
+3,76 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-adv25)
+
+.net Domain
+
+35 % Rabat
+
+statt 2,11 €, dauerhaft
+
+1,39 €
+
+pro Monat (inkl. 19% MWSt.)
 
 7
 
