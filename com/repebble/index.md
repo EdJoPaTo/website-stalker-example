@@ -1,24 +1,4 @@
-![pebble](/pebble-logo.png)
-
-[![Pebble 2 Duo](/product_p2d_new.png)
-
-### Pebble 2 Duo ###
-
-A do-over of our black & white watch
-
-](/watch)[![Pebble Time 2](/product_pt2_new.png)
-
-### Pebble Time 2 ###
-
-New larger color e-paper display!
-
-](/watch)[### Something's coming... ### Loading...](/signup)[![Coming soon](/product_coming_soon.png)
-
-### Coming soon ###
-
-More cool stuff??
-
-](/new-product)
+[### Pebble 2 Duo ### A do-over of our black & white watch](/watch)[### Pebble Time 2 ### New larger color e-paper display!](/watch)[### Something's coming... ### Loading...](/signup)[### Coming soon ### More cool stuff??](/new-product)
 
 **Pebble is back!**
 
@@ -35,6 +15,6 @@ Blog
 * [Pebble Software - Setting Expectations & Roadmap](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap)
 * [(re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore)
 
-[Help](https://ndocs.repebble.com) · [Email Us](/cdn-cgi/l/email-protection#3c55525a537c4e596c595e5e5059125f5351) · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric)
+[Help](https://ndocs.repebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric)
 
 © 2025 Core Devices LLC. All Rights Reserved.

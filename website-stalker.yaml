@@ -492,15 +492,13 @@ sites:
             - html_sanitize
             - html_prettify
 
-  - url: https://rePebble.com/
-    editors:
-      - css_select: body
-      - css_remove: script
-      - html_markdownify
-  - url: https://store.rePebble.com
+  - url:
+      - https://repebble.com/
+      - https://repebble.com/watch
     editors:
       - css_select: body
       - css_remove: script, svg, img
+      - css_remove: a[href*="email-protection"]
       - html_markdownify
 
   - url:
