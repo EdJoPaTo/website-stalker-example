@@ -1,54 +1,40 @@
-Eight years later...
-----------
+![pebble](/pebble-logo.png)
 
-You still can't beat a Pebble
-==========
+[![Pebble 2 Duo](/product_p2d_new.png)
 
-[Get one ➡︎](https://store.rePebble.com)
+### Pebble 2 Duo ###
 
-We're bringing Pebble back!
-==========
+A do-over of our black & white watch
 
-[I want one!](https://store.rePebble.com)
+](/watch)[![Pebble Time 2](/product_pt2_new.png)
 
-We're making new Pebble watches
-----------
+### Pebble Time 2 ###
 
-I've tried pretty much every other smartwatch on Earth, yet I still wear my Pebble every day—nothing else matches its features and long battery life. I really, *really*, ***really*** hoped someone else would create a proper replacement, but no one has stepped up, and my stash of old Pebbles is dwindling!
+New larger color e-paper display!
 
-It's time to take matters into my own hands. A small team and I are working on a new Pebble-like smartwatch that runs open source PebbleOS, has the same beloved features (plus some fun new stuff), and stays true to the core Pebble vision.
+](/watch)[### Something's coming... ### Loading...](/signup)[![Coming soon](/product_coming_soon.png)
 
-[### Read the full blog post ### Why We're Bringing Pebble Back](https://ericmigi.com/blog/why-were-bringing-pebble-back)
+### Coming soon ###
 
-PebbleOS is now open source
-----------
+More cool stuff??
 
-Google (which purchased Fitbit, which had bought Pebble) still owns PebbleOS. Over the last year, a team inside Google (including some amazing ex-Pebblers turned Googlers) has been working on open sourcing the OS! The source code for PebbleOS is now available on [Github](https://github.com/pebble-dev/pebble-firmware). Read more on their [blog](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html).
+](/new-product)
 
-Thank you so much, Google! I can't stress how thankful I am to the individuals who did the heavy lifting. This was also made possible by the [Rebble](https://rebble.io) team and community, who have supported Pebble since it shut down. Check out the vibrant [r/Pebble](https://reddit.com/r/pebble) and [Discord](https://discordapp.com/invite/aRUAYFN).
+**Pebble is back!**
 
-What happens now?
-----------
+After 9 years in stasis, we're back. Why? Because no one has created a smartwatch that fits our specific set of needs: **always-on e-paper screen**, **long battery life**, **simple and beautiful user experience**, **buttons**, and **easy to customize**! Read the [manifesto](https://ericmigi.com/blog/why-were-bringing-pebble-back).
 
-The source code that powers each Pebble smartwatch is now freely available to download, modify and improve on [Github](https://github.com/google/pebble). Want a reminder of how awesome Pebble OS is? Dive back into the [beautiful, retro, pixelated world](https://ericmigi.com/blog/pebbleos-is-awesome) of Pebble.
+[Pebble Mobile AppCompanion app for iOS and Android](https://rePebble.com/app)[Pebble Appstore15,000 beautiful watchfaces and watchapps](https://apps.rePebble.com)[Discussion ForumGet tips, tricks and help from the Pebble community](https://forum.repebble.com)
 
-Anyone can use PebbleOS in any way they want. You can get it working on existing Pebble watches, emulate it, run it on other embedded devices, or create new hardware specifically for it.
+[Developer InfoBuild a watchapp or watchface for Pebble in under 5 mins in your browser](https://developer.rePebble.com)[Open SourceYour watch is powered by 100% open source software](https://github.com/coredevices)
 
-We're setting out to bring Pebble back, we'd love for you to join the fun!
+Blog
 
-Do you want a new Pebble?
-----------
+* [Pebble Watch Software Is Now 100% Open Source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
+* [The new Pebble app is live on iOS and Android](https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android)
+* [Pebble Software - Setting Expectations & Roadmap](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap)
+* [(re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore)
 
-[Yes!](https://store.rePebble.com) [No](#)
+[Help](https://ndocs.repebble.com) · [Email Us](/cdn-cgi/l/email-protection#3c55525a537c4e596c595e5e5059125f5351) · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric)
 
-Eric Migicovsky
-Founder of Pebble
-
-### Wait, what is Pebble again? ###
-
-Pebble is an e-paper smartwatch with simple functionality, long battery life, and fun, quirky design. It first launched on [Kickstarter](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android) in 2012 and sold over 2 million watches before the company's IP was sold to Fitbit in 2016.
-
-© Copyright ---- Core Devices LLC. All Rights Reserved.
-Core Devices has no affiliation with Google.
-[Store](https://store.rePebble.com) · [Pebble Appstore](https://apps.rePebble.com) · [Privacy](privacy.html) · [Terms](terms.html) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Blog](https://ericmigi.com)
-[Download the new Pebble app](https://repebble.com/app)
+© 2025 Core Devices LLC. All Rights Reserved.
