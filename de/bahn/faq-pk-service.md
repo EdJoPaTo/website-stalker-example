@@ -1723,12 +1723,14 @@ Wenn Sie dennoch das EU-Antragsformular für Erstattungen und Entschädigungen n
 
 **Postalisch:**
 
-DB Dialog GmbH
+DB Fernverkehr AG
 Servicecenter Fahrgastrechte
 60647 Frankfurt am Main
 Deutschland
 
 **oder per** **E-Mail:** [EUAntragFGR@deutschebahn.com](mailto:EUAntragFGR@deutschebahn.com) | Bitte in der Betreffzeile (wenn möglich) folgendes angeben: Fahrgastrechte: EU-Antragsformular
+
+Achten Sie bitte darauf, bei etwaige Anhängen nur die folgenden Dateiformate zu verwenden: .pdf/.pdf.A, .jpg/.jpeg, .tif, .doc/.docx, .xls/.xlsx, .txt, .gif, .png. E-Mails mit Anhängen mit davon abweichenden Dateiformaten können nicht verarbeitet werden.
 
 Alternativ können Sie das Formular auch in einem DB Reisezentrum abgeben.
 

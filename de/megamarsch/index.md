@@ -157,36 +157,36 @@ IN DEINER NÄHE!
 
 [Location](https://www.megamarsch.de/mallorca)
 
-|      Events      |   2025   |   2026   |
-|------------------|----------|----------|
-|     MALLORCA     |22/02/2025|21/02/2026|
-|     DRESDEN      |08/03/2025|07/03/2026|
-|  DRESDEN (25KM)  |          |07/03/2026|
-| MÖNCHENGLADBACH  |22/03/2025|21/03/2026|
-|      LUZERN      |          |28/03/2026|
-|     HAMBURG      |05/04/2025|11/04/2026|
-|      OSTSEE      |26/04/2025|25/04/2026|
-|     HANNOVER     |10/05/2025|02/05/2026|
-|     MÜNCHEN      |17/05/2025|16/05/2026|
-|      BREMEN      |24/05/2025|23/05/2026|
-|WESERBERGLAND B.N.|          |13/06/2026|
-|  WESERBERGLAND   |28/06/2025|13/06/2026|
-|    MITTERSILL    |21/06/2025|20/06/2026|
-|    DÜSSELDORF    |05/07/2025|04/07/2026|
-|DÜSSELDORF (25KM) |          |04/07/2026|
-|      ERFURT      |12/07/2025|11/07/2026|
-| RUHRGEBIET B. N. |26/07/2025|25/07/2026|
-|  HAMBURG B. N.   |09/08/2025|08/08/2026|
-|   BERLIN B.N.    |30/08/2025|29/08/2026|
-|    STUTTGART     |06/09/2025|05/09/2026|
-|       KÖLN       |20/09/2025|19/09/2026|
-|     FREIBURG     |27/09/2025|26/09/2026|
-| FREIBURG (25KM)  |27/09/2025|26/09/2026|
-|       BERN       |04/10/2025|03/10/2026|
-|    FRANKFURT     |11/10/2025|10/10/2026|
-|      RÜGEN       |18/10/2025|17/10/2026|
-|   SCHAFFHAUSEN   |25/10/2025|          |
-|     NÜRNBERG     |08/11/2025|07/11/2026|
+|      Events      |   2026   |
+|------------------|----------|
+|     MALLORCA     |21/02/2026|
+|     DRESDEN      |07/03/2026|
+|  DRESDEN (25KM)  |07/03/2026|
+| MÖNCHENGLADBACH  |21/03/2026|
+|      LUZERN      |28/03/2026|
+|     HAMBURG      |11/04/2026|
+|      OSTSEE      |25/04/2026|
+|     HANNOVER     |02/05/2026|
+|     MÜNCHEN      |16/05/2026|
+|      BREMEN      |23/05/2026|
+|WESERBERGLAND B.N.|13/06/2026|
+|  WESERBERGLAND   |13/06/2026|
+|    MITTERSILL    |20/06/2026|
+|    DÜSSELDORF    |04/07/2026|
+|DÜSSELDORF (25KM) |04/07/2026|
+|      ERFURT      |11/07/2026|
+| RUHRGEBIET B. N. |25/07/2026|
+|  HAMBURG B. N.   |08/08/2026|
+|   BERLIN B.N.    |29/08/2026|
+|    STUTTGART     |05/09/2026|
+|       KÖLN       |19/09/2026|
+|     FREIBURG     |26/09/2026|
+| FREIBURG (25KM)  |26/09/2026|
+|       BERN       |03/10/2026|
+|    FRANKFURT     |10/10/2026|
+|      RÜGEN       |17/10/2026|
+|   SCHAFFHAUSEN   |          |
+|     NÜRNBERG     |07/11/2026|
 
 #### Finde einen Megamarsch in deiner nähe! ####
 
