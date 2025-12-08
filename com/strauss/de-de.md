@@ -189,14 +189,14 @@ Personalisierte Outfits für jeden Anlass
 
 ---
 
- Bis 08.12. bestellt - Lieferung pünktlich zum Fest!
+ Bis 10.12. bestellt - Lieferung pünktlich zum Fest!
 
 ###  Weihnachts-
 geschenke mit herz ️  ###
 
 ---
 
-Bis 08.12. bestellt - Lieferung pünktlich zum Fest!
+Bis 10.12. bestellt - Lieferung pünktlich zum Fest!
 
 ###  Weihnachts-
 geschenke mit herz ️  ###

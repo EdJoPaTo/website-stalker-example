@@ -29,11 +29,11 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### Produktinformationsblätter ####
 
-  * [PIB Ultrakurz](/media/filer_public/f6/db/f6db9abc-8b9e-4e03-811c-257b9b543aeb/pib_01-ultrakurz_2024-12-pdf.pdf)
-  * [PIB Mikrofon](/media/filer_public/82/85/82856448-fe96-4e07-ac9c-19cf6f4b4c4a/pib_02-mikrofon_2024-12-pdf.pdf)
-  * [PIB Mittelwelle](/media/filer_public/5a/6c/5a6c5e0c-2013-429d-bdba-2bd8f15d5d69/pib_03-mittelwelle_2024-12-pdf.pdf)
-  * [PIB Megafon](/media/filer_public/12/ea/12eabb67-a286-4538-adca-a56204dcfc5c/pib_04-megafon_2024-12-pdf.pdf)
-  * [PIB Ueberschall](/media/filer_public/d9/45/d9451a11-9075-4bf0-aa73-c5cf22c56dc5/pib_05-ueberschall_2024-12-pdf.pdf)
+  * [PIB Ultrakurz](/media/filer_public/f4/be/f4be3da6-b57b-446f-9586-371d31b0e8a0/pib_01-ultrakurz_2024-12_bf.pdf)
+  * [PIB Mikrofon](/media/filer_public/88/72/8872371a-5fb9-4a4a-b151-aacd4c855bc3/pib_02-mikrofon_2024-12_bf.pdf)
+  * [PIB Mittelwelle](/media/filer_public/08/47/0847dbb8-c29a-4b2b-8ca1-b87dc7e6c73f/pib_03-mittelwelle_2024-12_bf.pdf)
+  * [PIB Megafon](/media/filer_public/c9/39/c9396f10-17db-4bf3-be93-481a702b575a/pib_04-megafon_2024-12_bf.pdf)
+  * [PIB Ueberschall](/media/filer_public/39/84/39840022-9671-47d3-8b2c-8a9d5804f303/pib_05-ueberschall_2024-12_bf.pdf)
 
 * #### Produktinformationsblätter – Archiv ####
 

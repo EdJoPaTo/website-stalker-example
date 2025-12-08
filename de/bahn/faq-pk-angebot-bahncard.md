@@ -90,7 +90,7 @@ Da es sich beim rollstuhlgerechten Bereich in den Zügen des Fernverkehrs um ein
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-rollstuhlnutzer)
 
- Bekomme ich Rabatt auf den Sparpreis Gruppe mit der BahnCard oder BahnBonus Card?
+ Bekomme ich Rabatt auf den Sparpreis Gruppe mit der BahnCard?
 ----------
 
 Nein, Sie bekommen keinen BahnCard-Rabatt bei einer Buchung der Gruppenangebote.
@@ -101,7 +101,7 @@ Nein, Sie bekommen keinen BahnCard-Rabatt bei einer Buchung der Gruppenangebote.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-sparpreis-gruppe)
 
- Bekomme ich Rabatt auf den Super Sparpreis Gruppe mit der BahnCard oder BahnBonus Card?
+ Bekomme ich Rabatt auf den Super Sparpreis Gruppe mit der BahnCard?
 ----------
 
 Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewährt werden.
