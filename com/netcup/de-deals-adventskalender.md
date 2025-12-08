@@ -146,7 +146,27 @@ statt 2,11 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-7
+.net Domain
+
+35 % Rabat
+
+statt 2,11 €, dauerhaft
+
+1,39 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/domain/aktion-.net-domain-adv25)
+
+.xyz Domain
+
+35 % Rabatt
+
+statt 2,24 €, dauerhaft
+
+1,46 €
+
+pro Monat (inkl. 19% MWSt.)
 
 8
 
