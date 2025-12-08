@@ -26,220 +26,6 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Shutter Switch](/en/eve-shutter-switch)
-
- Smart Shutter Controller
-
- Learn more
-
-Requires iPhone, iPad or Android device and a compatible hub.
-
-Shutters & Shades
-
-incl. VAT plus shipping
-
-Free UPS Ground shipping to US locations with $99 purchase
-
-Versandkostenfrei in Deutschland, Preis inkl. MwSt.
-
-Plus shipping. Duties and taxes not included in shipping. Prices in USD
-
- Supports Matter & Thread
-
- Add to cart
-
- Your choice
-
-[ Add to cart ]()
-
- incl. VAT, plus shipping
-
- Free UPS Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping. Prices in USD
-
- Your choice
-
- Out of stock
-
- Buy from our partners
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Shutter Switch](/en/eve-shutter-switch)
-
- Smart Shutter Controller
-
-* App & voice control – Control your shutters using your voice, an app or the switch itself, and enjoy the convenience of smart shading.
-* Automate your shutters – Open and close your shutters automatically at a preferred time to suit your daily routine.
-* One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
-* [Visit product page](/en/eve-shutter-switch)
-
-[Eve Dimmer Switch](/en/eve-dimmer-switch)
-
- Smart Dimmer Switch
-
- Learn more
-
-Requires iPhone, iPad or Android device and a compatible hub.
-
-Lighting
-
-incl. VAT plus shipping
-
-Free UPS Ground shipping to US locations with $99 purchase
-
-Versandkostenfrei in Deutschland, Preis inkl. MwSt.
-
-Plus shipping. Duties and taxes not included in shipping.
-
- Supports Matter & Thread
-
- Shop
-
- Your choice
-
-[ Shop ]()
-
- incl. VAT, plus shipping
-
- Free UPS Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping.
-
- Your choice
-
- Out of stock
-
- Buy from our partners
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Dimmer Switch](/en/eve-dimmer-switch)
-
- Smart Dimmer Switch
-
-* App & voice control - Control your lights by voice or app and set the perfect brightness for every moment
-* Automate your lights - On and off automatically at a preferred time, based on presence or when motion is detected
-* Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
-* [Visit product page](/en/eve-dimmer-switch)
-
-[Eve Thermo](/en/eve-thermo)
-
- Smart Radiator Valve
-
- Learn more
-
-Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
-
-incl. VAT plus shipping
-
-Free FedEx Ground shipping to US locations with $99 purchase
-
-Free shipping in Germany, incl. VAT
-
-Plus shipping. Duties and taxes not included in shipping.
-
- Supports Matter & Thread
-
- Add to cart
-
- Your choice
-
-[ Add to cart ]()
-
- incl. VAT, plus shipping
-
- Free FedEx Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping.
-
- Your choice
-
- Out of stock
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Thermo](/en/eve-thermo)
-
- Smart Radiator Valve
-
-* Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
-* Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
-* Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
-* [Visit product page](/en/eve-thermo)
-
-[Eve Door & Window](/en/eve-door-window)
-
- Wireless Contact Sensor
-
- Learn more
-
-Requires iPhone, iPad or Android device and a compatible hub.
-
-Security
-
-incl. VAT, plus shipping
-
-Free UPS Ground shipping to US locations with $99 purchase
-
-Free shipping in Germany, incl. VAT
-
-Plus shipping. Duties and taxes not included in shipping.
-
- Supports Matter & Thread
-
- Add to cart
-
- Your choice
-
-[ Add to cart ]()
-
- incl. VAT, plus shipping
-
- Free UPS Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping.
-
- Your choice
-
- Out of stock
-
- Buy from our partners
-
- Only available at the Eve Store
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Door & Window](/en/eve-door-window)
-
- Wireless Contact Sensor
-
-* Check your door or window: see the current open/closed state at a glance
-* Keep informed: get activity notifications courtesy of your home hub
-* Set scenes: automatically control other HomeKit-enabled accessories
-* [Visit product page](/eve-door-window)
-
 [Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
@@ -406,6 +192,116 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
+
+ Smart Dimmer Switch
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Lighting
+
+incl. VAT plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Versandkostenfrei in Deutschland, Preis inkl. MwSt.
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Shop
+
+ Your choice
+
+[ Shop ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
+
+ Smart Dimmer Switch
+
+* App & voice control - Control your lights by voice or app and set the perfect brightness for every moment
+* Automate your lights - On and off automatically at a preferred time, based on presence or when motion is detected
+* Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
+* [Visit product page](/en/eve-dimmer-switch)
+
+[Eve Door & Window](/en/eve-door-window)
+
+ Wireless Contact Sensor
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Security
+
+incl. VAT, plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Door & Window](/en/eve-door-window)
+
+ Wireless Contact Sensor
+
+* Check your door or window: see the current open/closed state at a glance
+* Keep informed: get activity notifications courtesy of your home hub
+* Set scenes: automatically control other HomeKit-enabled accessories
+* [Visit product page](/eve-door-window)
+
 [Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
@@ -571,6 +467,110 @@ Not available in your country
 * Effortlessly set automations to open and close your blinds according to your daily routine.
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
+
+[Eve Shutter Switch](/en/eve-shutter-switch)
+
+ Smart Shutter Controller
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Shutters & Shades
+
+incl. VAT plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Versandkostenfrei in Deutschland, Preis inkl. MwSt.
+
+Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Shutter Switch](/en/eve-shutter-switch)
+
+ Smart Shutter Controller
+
+* App & voice control – Control your shutters using your voice, an app or the switch itself, and enjoy the convenience of smart shading.
+* Automate your shutters – Open and close your shutters automatically at a preferred time to suit your daily routine.
+* One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
+* [Visit product page](/en/eve-shutter-switch)
+
+[Eve Thermo](/en/eve-thermo)
+
+ Smart Radiator Valve
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Thermo](/en/eve-thermo)
+
+ Smart Radiator Valve
+
+* Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
+* Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
+* Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
+* [Visit product page](/en/eve-thermo)
 
 [Eve Thermo Control](/en/eve-thermo-control)
 
@@ -739,220 +739,6 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Shutter Switch](/en/eve-shutter-switch)
-
- Smart Shutter Controller
-
- Learn more
-
-Requires iPhone, iPad or Android device and a compatible hub.
-
-Shutters & Shades
-
-incl. VAT plus shipping
-
-Free UPS Ground shipping to US locations with $99 purchase
-
-Versandkostenfrei in Deutschland, Preis inkl. MwSt.
-
-Plus shipping. Duties and taxes not included in shipping. Prices in USD
-
- Supports Matter & Thread
-
- Add to cart
-
- Your choice
-
-[ Add to cart ]()
-
- incl. VAT, plus shipping
-
- Free UPS Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping. Prices in USD
-
- Your choice
-
- Out of stock
-
- Buy from our partners
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Shutter Switch](/en/eve-shutter-switch)
-
- Smart Shutter Controller
-
-* App & voice control – Control your shutters using your voice, an app or the switch itself, and enjoy the convenience of smart shading.
-* Automate your shutters – Open and close your shutters automatically at a preferred time to suit your daily routine.
-* One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
-* [Visit product page](/en/eve-shutter-switch)
-
-[Eve Dimmer Switch](/en/eve-dimmer-switch)
-
- Smart Dimmer Switch
-
- Learn more
-
-Requires iPhone, iPad or Android device and a compatible hub.
-
-Lighting
-
-incl. VAT plus shipping
-
-Free UPS Ground shipping to US locations with $99 purchase
-
-Versandkostenfrei in Deutschland, Preis inkl. MwSt.
-
-Plus shipping. Duties and taxes not included in shipping.
-
- Supports Matter & Thread
-
- Shop
-
- Your choice
-
-[ Shop ]()
-
- incl. VAT, plus shipping
-
- Free UPS Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping.
-
- Your choice
-
- Out of stock
-
- Buy from our partners
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Dimmer Switch](/en/eve-dimmer-switch)
-
- Smart Dimmer Switch
-
-* App & voice control - Control your lights by voice or app and set the perfect brightness for every moment
-* Automate your lights - On and off automatically at a preferred time, based on presence or when motion is detected
-* Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
-* [Visit product page](/en/eve-dimmer-switch)
-
-[Eve Thermo](/en/eve-thermo)
-
- Smart Radiator Valve
-
- Learn more
-
-Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
-
-incl. VAT plus shipping
-
-Free FedEx Ground shipping to US locations with $99 purchase
-
-Free shipping in Germany, incl. VAT
-
-Plus shipping. Duties and taxes not included in shipping.
-
- Supports Matter & Thread
-
- Add to cart
-
- Your choice
-
-[ Add to cart ]()
-
- incl. VAT, plus shipping
-
- Free FedEx Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping.
-
- Your choice
-
- Out of stock
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Thermo](/en/eve-thermo)
-
- Smart Radiator Valve
-
-* Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
-* Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
-* Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
-* [Visit product page](/en/eve-thermo)
-
-[Eve Door & Window](/en/eve-door-window)
-
- Wireless Contact Sensor
-
- Learn more
-
-Requires iPhone, iPad or Android device and a compatible hub.
-
-Security
-
-incl. VAT, plus shipping
-
-Free UPS Ground shipping to US locations with $99 purchase
-
-Free shipping in Germany, incl. VAT
-
-Plus shipping. Duties and taxes not included in shipping.
-
- Supports Matter & Thread
-
- Add to cart
-
- Your choice
-
-[ Add to cart ]()
-
- incl. VAT, plus shipping
-
- Free UPS Ground shipping to US locations with $99 purchase
-
- Free shipping in Germany, incl. VAT
-
- Plus shipping. Duties and taxes not included in shipping.
-
- Your choice
-
- Out of stock
-
- Buy from our partners
-
- Only available at the Eve Store
-
-Not available in your country
-----------
-
- Choose your country
-
-[Eve Door & Window](/en/eve-door-window)
-
- Wireless Contact Sensor
-
-* Check your door or window: see the current open/closed state at a glance
-* Keep informed: get activity notifications courtesy of your home hub
-* Set scenes: automatically control other HomeKit-enabled accessories
-* [Visit product page](/eve-door-window)
-
 [Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
@@ -1119,6 +905,116 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
+
+ Smart Dimmer Switch
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Lighting
+
+incl. VAT plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Versandkostenfrei in Deutschland, Preis inkl. MwSt.
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Shop
+
+ Your choice
+
+[ Shop ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
+
+ Smart Dimmer Switch
+
+* App & voice control - Control your lights by voice or app and set the perfect brightness for every moment
+* Automate your lights - On and off automatically at a preferred time, based on presence or when motion is detected
+* Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
+* [Visit product page](/en/eve-dimmer-switch)
+
+[Eve Door & Window](/en/eve-door-window)
+
+ Wireless Contact Sensor
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Security
+
+incl. VAT, plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Door & Window](/en/eve-door-window)
+
+ Wireless Contact Sensor
+
+* Check your door or window: see the current open/closed state at a glance
+* Keep informed: get activity notifications courtesy of your home hub
+* Set scenes: automatically control other HomeKit-enabled accessories
+* [Visit product page](/eve-door-window)
+
 [Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
@@ -1284,6 +1180,110 @@ Not available in your country
 * Effortlessly set automations to open and close your blinds according to your daily routine.
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
+
+[Eve Shutter Switch](/en/eve-shutter-switch)
+
+ Smart Shutter Controller
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Shutters & Shades
+
+incl. VAT plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Versandkostenfrei in Deutschland, Preis inkl. MwSt.
+
+Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Shutter Switch](/en/eve-shutter-switch)
+
+ Smart Shutter Controller
+
+* App & voice control – Control your shutters using your voice, an app or the switch itself, and enjoy the convenience of smart shading.
+* Automate your shutters – Open and close your shutters automatically at a preferred time to suit your daily routine.
+* One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
+* [Visit product page](/en/eve-shutter-switch)
+
+[Eve Thermo](/en/eve-thermo)
+
+ Smart Radiator Valve
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
+
+incl. VAT plus shipping
+
+Free FedEx Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free FedEx Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Thermo](/en/eve-thermo)
+
+ Smart Radiator Valve
+
+* Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
+* Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
+* Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
+* [Visit product page](/en/eve-thermo)
 
 [Eve Thermo Control](/en/eve-thermo-control)
 
