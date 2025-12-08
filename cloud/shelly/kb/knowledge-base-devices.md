@@ -74,7 +74,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Plug PM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-plug-pm-gen3)
 * [Shelly Mini Gen3 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen3-devices)
 * [Shelly Shutter](https://kb.shelly.cloud/knowledge-base/shelly-shutter)
-* [Setting up Gen3 devices via Matter](https://kb.shelly.cloud/knowledge-base/setting-up-gen3-devices-via-matter)
+* [Enabling Matter support on Shelly Gen3 and newer devices](https://kb.shelly.cloud/knowledge-base/setting-up-gen3-devices-via-matter)
 
  Shelly Gen4 devices
 ----------
