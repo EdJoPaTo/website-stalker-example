@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### #wirgehenweiter Advent spezial ###
+### MALLORCA ###
 
-### 05.-07. Dezember 2025 ###
+### 21. Februar 2026 ###
 
-### 50 oder 100 km ###
+### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/wirgehenweiter-advent-spezial)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/mallorca)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -185,7 +185,7 @@ IN DEINER NÄHE!
 |       BERN       |03/10/2026|
 |    FRANKFURT     |10/10/2026|
 |      RÜGEN       |17/10/2026|
-|   SCHAFFHAUSEN   |          |
+|   SCHAFFHAUSEN   |24/10/2026|
 |     NÜRNBERG     |07/11/2026|
 
 #### Finde einen Megamarsch in deiner nähe! ####
