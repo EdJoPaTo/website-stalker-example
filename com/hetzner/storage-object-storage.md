@@ -14,7 +14,7 @@ OBJECT STORAGE
 
         ###  Object Storage is the S3-compatible storage solution that grows with your data requirements – secure, flexible and accessible via API.  ###
 
-        Whether for backups, multimedia or big data, Object Storage offers the ideal solution for managing data-intensive workloads. In contrast to conventional storage solutions, data is organized as objects consisting of the data itself, the metadata and a unique ID. This structure makes it easy to manage the data, search through it and organize it, and is particularly suitable for large, unstructured amounts of data.
+        Whether for backups, multimedia or big data, Object Storage offers the ideal solution for managing data-intensive workloads. In contrast to conventional storage solutions, data is organized as objects consisting of the data itself, the metadata and a unique ID. This structure makes it easy to manage the data, search through it and organize it, and is particularly suitable for large, unstructured amounts of data. You can create up to 100 buckets, 100TB each.
 
          Object Storage
 

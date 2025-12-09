@@ -7,7 +7,7 @@ My new company (Core Devices) and I are proud to introduce two new watches that 
 
 For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functionality, long battery life and a fun, quirky design. It first launched on Kickstarter in 2012. The company was sold in 2016 to Fitbit. In January 2025, Google graciously open sourced [PebbleOS](https://github.com/coredevices/pebbleos), enabling anyone to build upon the amazing Pebble software foundation.
 
-For more details, read the [announcement blog post](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches).
+For more details, read the [announcement blog post](/blog/meet-pebble-index-01-external-memory-for-your-brain).
 
 \- ***[Eric Migicovsky](https://ericmigi.com)***
 
@@ -130,7 +130,7 @@ Already placed a pre-order? [Manage your order](/manage)
 
 [Help](https://ndocs.repebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric)
 
-© 2025 Core Devices LLC. All Rights Reserved.
+© 2025 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
 
 [Store powered by](https://yournextstore.com)
 
