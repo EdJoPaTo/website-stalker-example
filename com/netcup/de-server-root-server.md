@@ -131,6 +131,13 @@ bereits ab monatlich
 
 [Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-16000-g12-12m#rs-16000-g12-12m-nue)
 
+Neu: Mehr Kontrolle über den Netzwerkverkehr deiner Server
+----------
+
+Die neue **Firewall** ermöglicht es dir, eigene Regeln zu erstellen und den ein- sowie ausgehenden Traffic deiner Server gezielt zu steuern. So erhältst du eine **zusätzliche Sicherheitsebene ohne zusätzliche Kosten**, um deine Systeme noch besser zu schützen. Ab sofort für alle Server-Produkte ab Generation 12 verfügbar.
+
+[Mehr erfahren](https://www.netcup.com/de/blog/webhosting/neue-netcup-firewall)
+
 Root Server auf KVM-Basis
 ----------
 

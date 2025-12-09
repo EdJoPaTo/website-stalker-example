@@ -522,7 +522,7 @@ Not available in your country
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
 * [Visit product page](/en/eve-shutter-switch)
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo (4th generation)](/en/eve-thermo-4th-gen)
 
  Smart Radiator Valve
 
@@ -563,14 +563,14 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo (4th generation)](/en/eve-thermo-4th-gen)
 
  Smart Radiator Valve
 
 * Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
 * Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
-* [Visit product page](/en/eve-thermo)
+* [Visit product page](/en/eve-thermo-4th-gen)
 
 [Eve Thermo Control](/en/eve-thermo-control)
 
@@ -1235,7 +1235,7 @@ Not available in your country
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
 * [Visit product page](/en/eve-shutter-switch)
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo (4th generation)](/en/eve-thermo-4th-gen)
 
  Smart Radiator Valve
 
@@ -1276,14 +1276,14 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo (4th generation)](/en/eve-thermo-4th-gen)
 
  Smart Radiator Valve
 
 * Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
 * Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
-* [Visit product page](/en/eve-thermo)
+* [Visit product page](/en/eve-thermo-4th-gen)
 
 [Eve Thermo Control](/en/eve-thermo-control)
 

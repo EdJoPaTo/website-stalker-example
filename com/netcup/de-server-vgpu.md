@@ -55,6 +55,13 @@ bereits ab monatlich
 
 Hier geht es zu den [vGPU-Server FAQs](https://www.netcup.com/de/server/vgpu#FAQs)
 
+Neu: Mehr Kontrolle über den Netzwerkverkehr deiner Server
+----------
+
+Die neue **Firewall** ermöglicht es dir, eigene Regeln zu erstellen und den ein- sowie ausgehenden Traffic deiner Server gezielt zu steuern. So erhältst du eine **zusätzliche Sicherheitsebene ohne zusätzliche Kosten**, um deine Systeme noch besser zu schützen. Ab sofort für alle Server-Produkte ab Generation 12 verfügbar.
+
+[Mehr erfahren](https://www.netcup.com/de/blog/webhosting/neue-netcup-firewall)
+
 Unsere vGPU-Produkte eignen sich ideal für folgende Szenarien:
 ----------
 

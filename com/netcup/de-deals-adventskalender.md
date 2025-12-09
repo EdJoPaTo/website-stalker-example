@@ -168,7 +168,27 @@ statt 2,24 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-8
+.xyz Domain
+
+35 % Rabatt
+
+statt 2,24 €, dauerhaft
+
+1,46 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/domain/aktion-.xyz-domain-adv25)
+
+VPS 1000 G12 Pro
+
+\+ 100 % mehr NVMe
+
+statt 9,46 €, dauerhaft
+
+6,84 €
+
+pro Monat (inkl. 19% MWSt.)
 
 9
 
