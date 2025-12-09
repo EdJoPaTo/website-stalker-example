@@ -2279,8 +2279,144 @@
 	],
 	"filterChapter": null,
 	"mkt": {
-		"banner": [],
-		"cards": [],
+		"banner": [
+			{
+				"banner": {
+					"color_bg_hex": "#000000",
+					"color_text_hex": "#ffffff",
+					"description": null,
+					"description_en": null,
+					"description_fr": null,
+					"headline": null,
+					"headline_en": null,
+					"headline_fr": null,
+					"id": 1,
+					"img_bg": "banner-img_bg-1.jpg",
+					"img_bg_alt": "Eine Schale Lisas Kesselchips Meersalz. Daneben steht ein Glas mit Winter-Gin-Tonic und eine Flasche Winter Siegfried-Gin und Fever-Tree Tonic-Water.",
+					"img_bg_alt_en": "A bowl of Lisa's sea salt crisps. Next to it is a glass of winter gin and tonic and a bottle of winter Siegfried gin and Fever-Tree tonic water.",
+					"img_bg_alt_fr": "Un bol de chips Lisas Kesselchips au sel marin. À côté, un verre de gin tonic d'hiver et une bouteille de gin Siegfried d'hiver et d'eau tonique Fever-Tree.",
+					"img_bg_mobile": "banner-img_bg_mobile-1.jpg",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"chapter": 3259,
+				"id": 1,
+				"register": null
+			},
+			{
+				"banner": {
+					"color_bg_hex": "#000000",
+					"color_text_hex": "#ffffff",
+					"description": null,
+					"description_en": null,
+					"description_fr": null,
+					"headline": null,
+					"headline_en": null,
+					"headline_fr": null,
+					"id": 2,
+					"img_bg": "banner-img_bg-2.jpg",
+					"img_bg_alt": "Gefüllte Tasse mit goldenem Dallmayr-Logo und Latte-Art. Nachhaltigkeit und Genuss mit Dallmayr Kaffee an Bord der DB Fernverkehrszüge.",
+					"img_bg_alt_en": "Filled cup with golden Dallmayr logo and latte art. Sustainability and enjoyment with Dallmayr coffee on board DB long-distance trains.",
+					"img_bg_alt_fr": "Tasse remplie avec logo Dallmayr doré et latte art. Durabilité et plaisir avec le café Dallmayr à bord des trains longue distance de la DB.",
+					"img_bg_mobile": "banner-img_bg_mobile-2.jpg",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"chapter": 2094,
+				"id": 2,
+				"register": null
+			}
+		],
+		"cards": [
+			{
+				"article": 24021,
+				"card": {
+					"color_bg_hex": "#0c3892",
+					"color_text_hex": "#ffffff",
+					"description": "Eine Hommage an den Winter – exklusiv im ICE",
+					"description_en": "A tribute to winter – exclusive on ICE trains.",
+					"description_fr": "Un hommage à l’hiver – exclusif dans les trains ICE.",
+					"headline": "Siegfried Winter Gin",
+					"headline_en": "Siegfried Winter Gin",
+					"headline_fr": "Siegfried Winter Gin",
+					"id": 5,
+					"img_bg": "card-img_bg-5.jpg",
+					"img_bg_alt": "Eine Schale Lisas Kesselchips Meersalz. Daneben steht ein Glas mit Winter-Gin-Tonic und eine Flasche Winter Siegfried-Gin und Fever-Tree Tonic-Water.",
+					"img_bg_alt_en": "A bowl of Lisa's sea salt crisps. Next to it is a glass of winter gin and tonic and a bottle of winter Siegfried gin and Fever-Tree tonic water.",
+					"img_bg_alt_fr": "Un bol de chips Lisas Kesselchips au sel marin. À côté, un verre de gin tonic d'hiver et une bouteille de gin Siegfried d'hiver et d'eau tonique Fever-Tree.",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"id": 5,
+				"pos_rel_article": "before"
+			},
+			{
+				"article": 24019,
+				"card": {
+					"color_bg_hex": "#c50014",
+					"color_text_hex": "#ffffff",
+					"description": "für den Start in die Vorweihnachtszeit",
+					"description_en": "For a strong start to the festive season.",
+					"description_fr": "Pour bien commencer la période de l’Avent.",
+					"headline": "Immunboost",
+					"headline_en": "Immunboost",
+					"headline_fr": "Immunboost",
+					"id": 6,
+					"img_bg": "card-img_bg-6.jpg",
+					"img_bg_alt": "Eine Flasche Voelkel Ingwershot mit Kurkuma auf rotem Grund.",
+					"img_bg_alt_en": "A bottle of Voelkel ginger shot with turmeric on a red background.",
+					"img_bg_alt_fr": "Une bouteille de shot au gingembre et au curcuma Voelkel sur fond rouge.",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"id": 6,
+				"pos_rel_article": "before"
+			},
+			{
+				"article": 13545,
+				"card": {
+					"color_bg_hex": "#0c3892",
+					"color_text_hex": "#ffffff",
+					"description": "Kakao und Baumkuchen für die weihnachtliche Genusszeit",
+					"description_en": "Cocoa and Baumkuchen for a festive treat.",
+					"description_fr": "Cacao et Baumkuchen pour un plaisir festif.",
+					"headline": "Heiß & Süß:",
+					"headline_en": "Hot & sweet:",
+					"headline_fr": "Chaud & sucré :",
+					"id": 7,
+					"img_bg": "card-img_bg-7.jpg",
+					"img_bg_alt": "Teller mit aufgeschnittenem halbkreisförmigem Baumkuchen und eine Tasse gefüllt mit Cocaya Trinkschokolade, umgeben von weihnachtlicher Dekoration.",
+					"img_bg_alt_en": "Plate with sliced semicircular Baumkuchen and a cup filled with Cocaya drinking chocolate, surrounded by Christmas decorations.",
+					"img_bg_alt_fr": "Assiette avec un gâteau à la broche coupé en demi-cercle et une tasse remplie de chocolat chaud Cocaya, entourée de décorations de Noël.",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"id": 7,
+				"pos_rel_article": "before"
+			},
+			{
+				"article": 22629,
+				"card": {
+					"color_bg_hex": "#000000",
+					"color_text_hex": "#282d37",
+					"description": null,
+					"description_en": null,
+					"description_fr": null,
+					"headline": null,
+					"headline_en": null,
+					"headline_fr": null,
+					"id": 8,
+					"img_bg": "card-img_bg-8.jpg",
+					"img_bg_alt": "Eine Flasche Bitburger Premium Pils liegt auf Hopfenzapfen. Daneben liegt eine Flasche Bitburger Radler Naturtrüb auf Zitronen.",
+					"img_bg_alt_en": "A bottle of Bitburger Premium Pils lies on hop cones. Next to it is a bottle of Bitburger Radler Naturtrüb on lemons.",
+					"img_bg_alt_fr": "Une bouteille de Bitburger Premium Pils repose sur des cônes de houblon. À côté, une bouteille de Bitburger Radler Naturtrüb repose sur des citrons.",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"id": 8,
+				"pos_rel_article": "before"
+			}
+		],
 		"swiper": []
 	}
 }
