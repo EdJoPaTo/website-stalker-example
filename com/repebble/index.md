@@ -1,4 +1,4 @@
-[### Pebble 2 Duo ### A do-over of our black & white watch](/watch)[### Pebble Time 2 ### New larger color e-paper display!](/watch)[### Something's coming... ### Loading...](/signup)[### Coming soon ### More cool stuff??](/new-product)
+[### Pebble 2 Duo ### A do-over of our black & white watch](/watch)[### Pebble Time 2 ### New larger color e-paper display!](/watch)[### Pebble Index 01 NEW ### External memory for your brain](/index)[### Coming soon ### More cool stuff??](/new-product)
 
 **Pebble is back!**
 
@@ -8,8 +8,9 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 
 [Developer InfoBuild a watchapp or watchface for Pebble in under 5 mins in your browser](https://developer.rePebble.com)[Open SourceYour watch is powered by 100% open source software](https://github.com/coredevices)
 
-Blog
+[Blog](/blog)
 
+* [Meet Pebble Index 01 - External Memory For Your Brain](/blog/meet-pebble-index-01-external-memory-for-your-brain)
 * [Pebble Watch Software Is Now 100% Open Source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [The new Pebble app is live on iOS and Android](https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android)
 * [Pebble Software - Setting Expectations & Roadmap](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap)

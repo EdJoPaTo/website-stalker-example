@@ -134,4 +134,4 @@ Already placed a pre-order? [Manage your order](/manage)
 
 [Store powered by](https://yournextstore.com)
 
-Get your new Pebble watch
+The Finest In Wearable Gadgets
