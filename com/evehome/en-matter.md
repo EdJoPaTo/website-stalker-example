@@ -522,21 +522,23 @@ Not available in your country
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
 * [Visit product page](/en/eve-shutter-switch)
 
-[Eve Thermo (4th generation)](/en/eve-thermo-4th-gen)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
  Learn more
 
-Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Heating & Air Quality
 
 incl. VAT plus shipping
 
-Free FedEx Ground shipping to US locations with $99 purchase
+Free UPS Ground shipping to US locations with $99 purchase
 
 Free shipping in Germany, incl. VAT
 
-Plus shipping. Duties and taxes not included in shipping.
+Plus shipping. Duties and taxes not included in shipping. Prices in USD
 
  Supports Matter & Thread
 
@@ -548,29 +550,33 @@ Plus shipping. Duties and taxes not included in shipping.
 
  incl. VAT, plus shipping
 
- Free FedEx Ground shipping to US locations with $99 purchase
+ Free UPS Ground shipping to US locations with $99 purchase
 
  Free shipping in Germany, incl. VAT
 
- Plus shipping. Duties and taxes not included in shipping.
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
 
  Your choice
 
  Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
 
 Not available in your country
 ----------
 
  Choose your country
 
-[Eve Thermo (4th generation)](/en/eve-thermo-4th-gen)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
-* Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
-* Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
-* Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
-* [Visit product page](/en/eve-thermo-4th-gen)
+* App & voice control – Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
+* Heating intelligence for comfort and energy efficiency – Automatically heat based on time or presence, and pause heating while ventilating.
+* Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
+* [Visit product page](/en/eve-thermo)
 
 [Eve Thermo Control](/en/eve-thermo-control)
 
@@ -1235,21 +1241,23 @@ Not available in your country
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
 * [Visit product page](/en/eve-shutter-switch)
 
-[Eve Thermo (4th generation)](/en/eve-thermo-4th-gen)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
  Learn more
 
-Requires iPhone, iPad or Android device and a compatible [hub](/en/hub).
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Heating & Air Quality
 
 incl. VAT plus shipping
 
-Free FedEx Ground shipping to US locations with $99 purchase
+Free UPS Ground shipping to US locations with $99 purchase
 
 Free shipping in Germany, incl. VAT
 
-Plus shipping. Duties and taxes not included in shipping.
+Plus shipping. Duties and taxes not included in shipping. Prices in USD
 
  Supports Matter & Thread
 
@@ -1261,29 +1269,33 @@ Plus shipping. Duties and taxes not included in shipping.
 
  incl. VAT, plus shipping
 
- Free FedEx Ground shipping to US locations with $99 purchase
+ Free UPS Ground shipping to US locations with $99 purchase
 
  Free shipping in Germany, incl. VAT
 
- Plus shipping. Duties and taxes not included in shipping.
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
 
  Your choice
 
  Out of stock
+
+ Buy from our partners
+
+ Only available at the Eve Store
 
 Not available in your country
 ----------
 
  Choose your country
 
-[Eve Thermo (4th generation)](/en/eve-thermo-4th-gen)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
-* Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
-* Adjust to your routine to save energy effortlessly: Heat based on time or presence, and pause heating while ventilating.
-* Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
-* [Visit product page](/en/eve-thermo-4th-gen)
+* App & voice control – Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
+* Heating intelligence for comfort and energy efficiency – Automatically heat based on time or presence, and pause heating while ventilating.
+* Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
+* [Visit product page](/en/eve-thermo)
 
 [Eve Thermo Control](/en/eve-thermo-control)
 
