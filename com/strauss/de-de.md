@@ -183,42 +183,6 @@ bag
 
  \*Die Preisangabe bezieht sich auf den Nettopreis
 
-Personalisierte Outfits für jeden Anlass
-
-----------
-
----
-
- Bis 10.12. bestellt - Lieferung pünktlich zum Fest!
-
-###  Weihnachts-
-geschenke mit herz ️  ###
-
----
-
-Bis 10.12. bestellt - Lieferung pünktlich zum Fest!
-
-###  Weihnachts-
-geschenke mit herz ️  ###
-
----
-
-Druck und Stick bereits ab 1 Stück
-
-für Textilien mit persönlicher Note
-
-über 400 Motive online oder eigene Designs hochladen
-
- Druck und Stick bereits ab 1 Stück
-
- für Textilien mit persönlicher Note
-
- über 400 Motive online oder eigene Designs hochladen
-
-[Geschenke gestalten](https://www.strauss.com/de/de/service-logoservice-selbst-gestalten-mydesign-xmas/?itemorigin=startseite_XMAS25)
-
-[Geschenke gestalten](https://www.strauss.com/de/de/service-logoservice-selbst-gestalten-mydesign-xmas/?itemorigin=startseite_XMAS25)
-
  Weihnachts-Sets
 ----------
 
