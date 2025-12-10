@@ -515,6 +515,6 @@ Close
 
  Add to Bag  Add pre-order to bag
 
- Some options delay shipping [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Ships within 5 business days [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
 
  Cancel your pre-order any time before shipment for a full refund [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
