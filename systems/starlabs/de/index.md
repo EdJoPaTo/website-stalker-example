@@ -37,11 +37,11 @@ Browse our range
 
 [](/products/starbook-horizon)
 
-[StarBook Horizon €13,37 Ships Late December/Early January](/products/starbook-horizon)
+[StarBook Horizon €13,37 €13,37 Ships Late December/Early January](/products/starbook-horizon)
 
 [](/products/starfighter)
 
-[StarFighter €13,37 Ships Late December/Early January](/products/starfighter)
+[StarFighter €13,37 €13,37 Ships Late December/Early January](/products/starfighter)
 
 More than just a licence.
 
