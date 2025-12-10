@@ -156,7 +156,7 @@ statt 2,11 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/domain/aktion-.net-domain-adv25)
+[Jetzt bestellen](https://www.netcup.com/en/domain/aktion-.net-domain-adv25)
 
 .xyz Domain
 
@@ -190,7 +190,27 @@ statt 9,46 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-9
+VPS 1000 G12 Pro
+
+\+ 100 % mehr NVMe
+
+statt 9,46 €, dauerhaft
+
+6,84 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-1000-g12-pro-nue-adv25)
+
+RS 1000 G12 Ultra
+
+\+100% NVMe / + 2 vCore / +50% RAM
+
+dauerhaft
+
+13,28 €
+
+pro Monat (inkl. 19% MWSt.)
 
 10
 
