@@ -1637,6 +1637,20 @@ Ein Online-Ticket bzw. Handy-Ticket kann für bis zu 5 Personen (maximal 4 Kinde
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einschraenkung-onlineticket-6-14-jahre)
 
+ Was bedeutet die Ermäßigungsart "SBA, B ohne Rollstuhlplatz"?
+----------
+
+Wenn Sie bei der Ticketbuchung die Ermäßigungsart "SBA, B ohne Rollstuhlplatz" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mit Merkzeichen B haben und ohne Rollstuhl reisen. Sie erhalten damit folgende Ermäßigungen:
+
+* eine kostenfreie Sitzplatzreservierung für sich, welche Sie nach der Angebotsauswahl hinzuwählen können
+* bei Angabe einer weiteren mitreisenden Person wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
+
+Ihr Schwerbehindertenausweis gilt für die Begleitperson als Fahrtberechtigung. Sie müssen den Ausweis im Zug dabeihaben und bei der Kontrolle vorzeigen.
+
+Einen Rollstuhlplatz können Sie aktuell noch nicht online reservieren. Wenn Sie ein Hilfsmittel wie einen Rollstuhl mitnehmen möchten, wenden Sie sich bitte für die Beratung und Reservierung eines Stellplatzes an die Mobilitätsservice-Zentrale.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emaessigung-sba-b-ohne-rollstuhlplatz)
+
  Wieso werden die CO₂-Daten nur mit dem Pkw verglichen?
 ----------
 
@@ -4299,8 +4313,8 @@ Bitte achten Sie darauf, dass Sie in reservierungspflichtigen Zügen nicht ohne 
 
 Nein, eine Buchung von Stellplätzen für Rollstühle ist derzeit noch nicht möglich. Bitte wenden Sie sich hierfür an die Mobilitätsservice-Zentrale. Beachten Sie bitte die Bedingungen für die Mitnahme eines Hilfsmittels.
 
-* [Weitere Infomationen zu Reiseplanung und Beratung (PDF, 248 KB)](https://assets.static-bahn.de/dam/jcr:4830af64-3f04-48bf-8b59-2517d0dcdd66/Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel%20(2).pdf)
-* [Leitfaden Mitnahme orthopädischer Hilfsmittel. (PDF, 248 KB)](https://assets.static-bahn.de/dam/jcr:4830af64-3f04-48bf-8b59-2517d0dcdd66/Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel%20(2).pdf)
+*
+*
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rollstuhl-platz-online-buchen)
 
