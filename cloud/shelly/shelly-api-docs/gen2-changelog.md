@@ -11,6 +11,37 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+Unreleased
+----------
+
+**Available as `1.7.4-beta1`**
+
+### Fixed ###
+
+* [Matter](/gen2/ComponentsAndServices/Matter) Speed up subscription resumption retries for non-ICD devices
+* [Matter](/gen2/ComponentsAndServices/Matter) Fix DNS-SD answer parsing
+* [Matter](/gen2/ComponentsAndServices/Matter) Fix DAKs with leading zeroes
+* [Matter](/gen2/ComponentsAndServices/Matter) Fix PartsList attribute in [Cover](/gen2/ComponentsAndServices/Cover) mode
+* [Webhook](/gen2/ComponentsAndServices/Webhook) Do not populate device config for conditions if Matter is enabled and jsvars count is unsufficient
+* [Webhook](/gen2/ComponentsAndServices/Webhook) Respect `active_between` configuration when time is set manually
+* [BTHome](/gen2/DynamicComponents/BTHome/) Fix crashes due to button sensors migration from versions prior to 1.6
+* [3EM Gen3](/gen2/Devices/Gen3/Shelly3EMG3) Fix energy scales
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Retry TRV Set/ClearOverride commands
+* [PlugS Gen3](/gen2/Devices/Gen3/ShellyPlugSG3), [OutdoorPlugS Gen3](/gen2/Devices/Gen3/ShellyOutdoorPlugSG3), [AZ Plug](/gen2/Devices/Gen3/ShellyAZPlug) Improved output zero-cross synchronization
+* BL0942 power meters: Fix wrong reports
+* System: Fix mbuf resizing
+
+### Added ###
+
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Add support for BLU H&T ZB
+* [PlugS Gen3](/gen2/Devices/Gen3/ShellyPlugSG3), [OutdoorPlugS Gen3](/gen2/Devices/Gen3/ShellyOutdoorPlugSG3) Add support for [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl)
+
+### Local web ###
+
+### Fixed ###
+
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Fix unwanted TRV target temperature calls when switching pages
+
 [1.7.1] 2025-09-24
 ----------
 
