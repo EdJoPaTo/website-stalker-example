@@ -13,21 +13,29 @@ Deutschlandweit
 Baden-Württemberg
 ----------
 
-* [Europa Park Kombiticket](https://www.bahn.de/angebot/regio/baden-wuerttemberg/europa-park-kombiticket)
+* [Europa Park KombiticketZur Antwort auf die Frage, wo man das Europa-Park Kombiticket kaufen kann](https://www.bahn.de/faq/wo-kann-ich-das-europa-park-kombiticket-kaufen)
 
 Bayern
 ----------
 
-* [Mobil Pass Oberallgäu\* (PDF, 41 KB)](https://assets.static-bahn.de/dam/jcr:657e8143-3597-4474-8a6d-1fedf66cad58/MOBIL-PASS-ALLG%C3%84U.pdf)
-* [Kurkarte Chiemgau\*](https://deutschlandtarifverbund.de/tarifbedingungen)
+* [Bayerwald-TagesticketsInfos und Kauf auf der Site bayerwald-ticket.com](https://www.bayerwald-ticket.com/tarife-bayerwald-ticket/)
+* [BRB Tagesticket BerchtesgadenInfos und Kauf auf der Site des brb.de](https://www.brb.de/de/tickets)
 * [Kurkarte Waging/Taching\*](https://www.suedostbayernbahn.de/tickets/kurkarte)
-* [Prag Spezial\*](https://bahnland-bayern.de/de/ticket/prag-spezial)
-* [Gästekarte Ammergauer Alpen\*Gästekarte Ammergauer Alpen](https://www.bahn.de/angebot/regio/bayern/gaestekarte-ammergauer-alpen)
+* [Guten Tag TicketZur Site der Bayerischen Regiobahn](https://www.brb.de/de/tickets/guten-tag-ticket)
+* [Kurkarte Chiemgau\*](https://deutschlandtarifverbund.de/tarifbedingungen)
+* [BGL-Tagesticket Bus&BahnZur Site der Bayerischen Regiobahn](https://www.brb.de/de/tickets)
+* [Garmischer Ski-TicketZur Antwort auf die Frage wo kann ich das Garmischer-Ski-Ticket kaufen](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-ski-ticket-kaufen)
+* [Mobil Pass Oberallgäu\* (PDF, 41 KB)](https://assets.static-bahn.de/dam/jcr:657e8143-3597-4474-8a6d-1fedf66cad58/MOBIL-PASS-ALLG%C3%84U.pdf)
 
 Berlin / Brandenburg
 ----------
 
-* [Grenzübergangsfahrten Polen - Deutschland\*](https://www.bahn.de/angebot/regio/berlin-brandenburg/grenzuebergangsfahrkarten-polen-deutschland)
+* [Berlin-Clubnight-TicketZum PDF mit den Tarifbestimmungen auf der Site dbregio-berlin-brandenburg.de](https://www.dbregio-berlin-brandenburg.de/resource/blob/10703998/5a275eac35a1d9779454bcff656a257f/230607-TB-Berlin-Clubnight-Ticket-data.pdf)
+
+Mecklenburg-Vorpommern
+----------
+
+* [Bernsteinticket RügenInfos und Kauf zum Bernsteinticket Rügen auf der Site bernsteinticket.com](https://www.bernsteinticket.com/)
 
 Nordrhein-Westfalen
 ----------
@@ -46,9 +54,12 @@ Saarland
 Sachsen
 ----------
 
+* [Dresden-Wroclaw SpezialInfos und Kauf zum Dresden-Wroclaw Spezial auf der Site laenderbahn.com](https://www.laenderbahn.com/trilex/tickets/preise-angebote/ausfluegler/dresden-wroclaw-spezial/)
+* [Katzensprung-TicketInfos und Kauf zum Katzensprung-Ticket auf der Site laenderbahn.com](https://www.laenderbahn.com/trilex/tickets/preise-angebote/ausfluegler/katzensprung-ticket/)
 * [Regiotarif Schluckenau-Elbe\*](https://www.vvo-online.de/de/tarif-tickets/tarif/Nationalparkbahn.cshtml)
 * [SPNV - Student\*innen-Jahresticket Sachsen (Dresden)\*](https://www.stura.tu-dresden.de/semesterticket)
 * [SPNV - Student\*innen-Jahresticket Sachsen (TU Chemnitz)\*](https://deutschlandtarifverbund.de/tarifbedingungen)
+* [trilex-TagesticketInfos und Buchung zum trilex-Tagesticket auf der Site laenderbahn.com](https://www.laenderbahn.com/trilex/tickets/preise-angebote/ausfluegler/trilex-tagesticket/)
 
 Schleswig-Holstein
 ----------
@@ -60,5 +71,6 @@ Thüringen
 
 * [Bergbahn-Tickets](https://www.thueringerbergbahn.com/besucher/besucherinfo/tarife/)
 * [SPNV Semesterticket Thüringen\*](https://www.stw-thueringen.de/finanzen/semesterticket/)
+* [Touren-TicketInfos und Kauf des Touren-Tickets auf der Site laenderbahn.com/vogtlandbahn](https://www.laenderbahn.com/vogtlandbahn/tickets/touren-ticket/)
 
 \*Angebot des Deutschlandtarifs

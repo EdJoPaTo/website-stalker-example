@@ -2000,43 +2000,43 @@ if let Some(mut _a) = &mut Some(0u8) {
 This will produce:
 
 ```
-warning: reference patterns may only be written when the default binding mode is `move` in Rust 2024
+warning: cannot explicitly dereference within an implicitly-borrowing pattern in Rust 2024
  --> lint_example.rs:4:13
   |
 4 | if let Some(&a) = &Some(&0u8) {
-  |             ^ reference pattern not allowed under `ref` default binding mode
+  |             ^ reference pattern not allowed when implicitly borrowing
   |
   = warning: this changes meaning in Rust 2024
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/match-ergonomics.html>
-note: matching on a reference type with a non-reference pattern changes the default binding mode
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/match-ergonomics.html>
+note: matching on a reference type with a non-reference pattern implicitly borrows the contents
  --> lint_example.rs:4:8
   |
 4 | if let Some(&a) = &Some(&0u8) {
-  |        ^^^^^^^^ this matches on type `&_`
+  |        ^^^^^^^^ this non-reference pattern matches on a reference type `&_`
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
 1 | #![warn(rust_2024_incompatible_pat)]
   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^
-help: make the implied reference pattern explicit
+help: match on the reference with a reference pattern to avoid implicitly borrowing
   |
 4 | if let &Some(&a) = &Some(&0u8) {
   |        +
 
-warning: binding modifiers may only be written when the default binding mode is `move` in Rust 2024
+warning: cannot mutably bind by value within an implicitly-borrowing pattern in Rust 2024
  --> lint_example.rs:7:13
   |
 7 | if let Some(mut _a) = &mut Some(0u8) {
-  |             ^^^ binding modifier not allowed under `ref mut` default binding mode
+  |             ^^^ `mut` binding modifier not allowed when implicitly borrowing
   |
   = warning: this changes meaning in Rust 2024
-  = note: for more information, see <https://doc.rust-lang.org/nightly/edition-guide/rust-2024/match-ergonomics.html>
-note: matching on a reference type with a non-reference pattern changes the default binding mode
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/match-ergonomics.html>
+note: matching on a reference type with a non-reference pattern implicitly borrows the contents
  --> lint_example.rs:7:8
   |
 7 | if let Some(mut _a) = &mut Some(0u8) {
-  |        ^^^^^^^^^^^^ this matches on type `&mut _`
-help: make the implied reference pattern explicit
+  |        ^^^^^^^^^^^^ this non-reference pattern matches on a reference type `&mut _`
+help: match on the reference with a reference pattern to avoid implicitly borrowing
   |
 7 | if let &mut Some(mut _a) = &mut Some(0u8) {
   |        ++++
