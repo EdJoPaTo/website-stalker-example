@@ -212,7 +212,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-10
+RS 1000 G12 Ultra
+
+\+100% NVMe / + 2 vCore / +50% RAM
+
+dauerhaft
+
+13,28 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g12-ultra-nue-adv25)
+
+.de Domain
+
+69 % Rabatt
+
+statt 0,42 €, dauerhaft
+
+0,13 €
+
+pro Monat (inkl. 19% MWSt.)
 
 11
 
