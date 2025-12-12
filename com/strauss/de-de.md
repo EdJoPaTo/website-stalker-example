@@ -245,17 +245,15 @@ Herren
 
 \+ gratis Besteckset
 
- 2x Akkuschrauber im Doppelpack:
+[Alle Herren-Sets entdecken](https://www.strauss.com/de/de/f/geschenkideen-bekleidungs-sets/Herren_Damen_Kinder:Herren/?itemorigin=startseite_XMAS25)
+
+[Alle Herren-Sets entdecken](https://www.strauss.com/de/de/f/geschenkideen-bekleidungs-sets/Herren_Damen_Kinder:Herren/?itemorigin=startseite_XMAS25)
+
+ mit tollen
+gratis Artikeln
+----------
+
 ---
-
-[Bohrschrauber-Set S](https://www.strauss.com/de/de/elektrowerkzeuge-sets/2x-18-0-v-akku-bohrschrauber-s-7118730-5521111-0.html?itemorigin=startseite_XMAS25)
-
-[Schlagbohrschrauber-Set L](https://www.strauss.com/de/de/black-deals/2x-18-0-v-akku-schlagbohrschrauber-l-7118740-5521171-0.html?itemorigin=startseite_XMAS25)
-
- 2x Akkuschrauber im Doppelpack:
----
-
-[mehr entdecken](https://www.strauss.com/de/de/f/sale-werkzeuge/Akku-Bohrschrauber:Akku-Bohrschrauber_S,Akku-Schlagbohrschrauber_L/?itemorigin=startseite_xmas25&obfuscate=true)
 
  Klassiker unter den Geschenken
 ----------
