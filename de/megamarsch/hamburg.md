@@ -195,20 +195,4 @@ Ticket nicht mehr Verfügbar | Ticket noch Verfügbar
 
 #### Buche jetzt deine Startzeit, bevor sie ausverkauft ist! ####
 
-[JETZT IN HAMBURG TEILNEHMEN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
-
-12:00
-
-AUSVERKAUFT
-
-12:15
-
-.
-
-12:30
-
-.
-
-[TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-hamburg-2025-tickets-880087725077)
-
-[TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+[STARTZEIT IN HAMBURG SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)

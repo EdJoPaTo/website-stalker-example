@@ -75,6 +75,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Mini Gen3 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen3-devices)
 * [Shelly Shutter](https://kb.shelly.cloud/knowledge-base/shelly-shutter)
 * [Enabling Matter support on Shelly Gen3 and newer devices](https://kb.shelly.cloud/knowledge-base/setting-up-gen3-devices-via-matter)
+* [The Pill by Shelly](https://kb.shelly.cloud/knowledge-base/the-pill-by-shelly)
 
  Shelly Gen4 devices
 ----------
@@ -203,6 +204,11 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Socket for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-socket-for-wall-display-stand)
 * [Shelly 1-Channel Decoupler 120V / Shelly 4-Channel Decoupler 120V](https://kb.shelly.cloud/knowledge-base/shelly-1-channel-decoupler-120v-shelly-4-channel-d)
 * [Shelly 1-Channel Decoupler 230V / Shelly 4-Channel Decoupler 230V](https://kb.shelly.cloud/knowledge-base/shelly-1-channel-decoupler-230v-shelly-4-channel-d)
+* [Temperature sensor DS18B20 - 3.5mm jack](https://kb.shelly.cloud/knowledge-base/temperature-sensor-ds18b20-3-5mm-jack)
+* [Splitter 1 to 5 - 3.5mm Jack](https://kb.shelly.cloud/knowledge-base/splitter-1-to-5-3-5mm-jack)
+* [5-Terminal Add-on](https://kb.shelly.cloud/knowledge-base/5-terminal-add-on)
+* [SSR Add-on](https://kb.shelly.cloud/knowledge-base/ssr-add-on)
+* [Analog 0-30V Add-on](https://kb.shelly.cloud/knowledge-base/analog-0-30v-add-on)
 
  Amazon-compatible devices
 ----------

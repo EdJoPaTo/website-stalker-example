@@ -193,20 +193,4 @@ Ticket nicht mehr Verfügbar | Ticket noch Verfügbar
 Buche jetzt deine Startzeit, bevor sie ausverkauft ist!
 ----------
 
-[JETZT IN HAMBURG TEILNEHMEN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
-
-18:00
-
-AUSVERKAUFT
-
-18:15
-
-.
-
-18:30
-
-.
-
-[TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
-
-[TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
+[STARTZEIT IN HAMBURG SICHERN!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)

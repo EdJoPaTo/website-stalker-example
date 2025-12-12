@@ -195,7 +195,7 @@ Ihr Deutschland-Ticket-Abo verlängert sich automatisch bis zu Ihrer Kündigung.
 
 Nein, eine Upgradefunktion von Nahverkehrs- auf Fernverkehrsfahrkarten ist nicht möglich. Für Reisen mit dem Fernverkehr benötigen Sie eine separate Fahrkarte.
 
-Kund:innen, die bereits im Rahmen ihres regulären Verbund-/Landes-Tarif-Abos oder ihrer Jahreskarte eine Aufpreiskarte für Fernverkehrszüge besitzen, können diese weiterhin auf der entsprechenden Strecke nutzen. DB Fernverkehr und die betreffenden Verbünde prüfen derzeit die Möglichkeiten einer Kombinierbarkeit des Deutschland-Tickets mit einer Aufpreisfahrkarte für Fernverkehrszüge.
+Kund:innen, die bereits im Rahmen ihres regulären Verbund-/Landes-Tarif-Abos oder ihrer Jahreskarte eine Aufpreiskarte für Fernverkehrszüge besitzen, können diese weiterhin auf der entsprechenden Strecke nutzen. Das ist bis Ende ihres aktuellen Abos möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-aufpreis-fv)
 
