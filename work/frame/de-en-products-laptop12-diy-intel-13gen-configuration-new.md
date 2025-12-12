@@ -63,11 +63,11 @@ Close
 
 System
 
-* i3-1315U  €599
+* i3-1315U  €569
 
   * Up to 4.5GHz, 2+4 cores
 
-* i5-1334U  €769
+* i5-1334U  €739
 
   * Up to 4.6GHz, 2+8 cores
 
@@ -98,10 +98,10 @@ Runs at DDR5-5200 speed on Framework Laptop 12.
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB) +€45
-* DDR5-5600 - 16GB (1 x 16GB) +€90
-* DDR5-5600 - 32GB (1 x 32GB) +€180
-* DDR5-5600 - 48GB (1 x 48GB) +€270
+* DDR5-5600 - 8GB (1 x 8GB) +€68
+* DDR5-5600 - 16GB (1 x 16GB) +€136
+* DDR5-5600 - 32GB (1 x 32GB) +€272
+* DDR5-5600 - 48GB (1 x 48GB) +€408
 * None (bring your own)
 
 **Storage**
