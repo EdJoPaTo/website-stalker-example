@@ -337,11 +337,11 @@ Bleibe am Laufenden – folge uns auf Social Media für die neuesten Deals, exkl
 Deine Bestellung tut Gutes
 ----------
 
-Mit den initialen Einnahmen aus dem 24. Türchen unterstützen wir, wie jedes Jahr, eine **gemeinnützige Organisation eurer Wahl.** Dieses Jahr möchten wir uns auf den Bereich **Kinder & Jugendliche** fokussieren und freuen uns zu lesen, welche Organisationen im DACH-Raum euch besonders am Herzen liegen. Danach folgt eine separate Abstimmung der Top 3, um zu definieren, an welche Organisation die Einnahmen gespendet werden.
+Mit den initialen Einnahmen aus dem 24. Türchen unterstützen wir, wie jedes Jahr, eine **gemeinnützige Organisation eurer Wahl.** Dieses Jahr möchten wir uns auf den Bereich **Kinder & Jugendliche** fokussieren und freuen uns zu lesen, welche Organisationen im DACH-Raum euch besonders am Herzen liegen. Ab sofort könnt ihr abstimmen, an welche Organisation die Spende gehen soll!
 
-Über folgenden Link kannst du deinen Vorschlag einreichen.
+Über folgenden Link kannst du abstimmen.
 
-[Organisation vorschlagen](https://anexia.lamapoll.de/netcup_ADV25_Spendenorganisationen)
+[Abstimmen](https://anexia.lamapoll.de/netcup_ADV25_Spende_Top3)
 
 FAQ
 ----------

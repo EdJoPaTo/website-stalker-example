@@ -578,7 +578,7 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
  Ich habe mein Abo gekündigt. Was kann ich tun, wenn ich noch keine Kündigungsbestätigung erhalten habe?
 ----------
 
-Aufgrund der aktuell sehr hohen Bearbeitungszeiten dauert die Durchführung von Kündigungsaufträgen derzeit länger. Nach Erhalt Ihrer Kündigungsbestätigung erhalten Sie Ihre Gutschrift rückwirkend. Für eine schnellere Bearbeitung, führen Sie Ihre Kündigung innerhalb der tariflichen Kündigungsfrist selbständig in unserem Aboportal durch.
+Im Aboportal können Sie den Status Ihres Abos und den Kündigungstermin einsehen sowie die Kündigung bei Bedarf direkt durchführen. Überprüfen Sie Ihre E-Mail-Adresse im Aboportal unter "Meine Daten" und aktualisieren Sie diese, um E-Mails künftig direkt zu erhalten.
 
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
