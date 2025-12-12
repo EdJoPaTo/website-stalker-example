@@ -234,7 +234,27 @@ statt 0,42 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-11
+.de Domain
+
+69 % Rabatt
+
+statt 0,42 €, dauerhaft
+
+0,13 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/domain/aktion-.de-domain-adv25)
+
+RS 8000 G12 Pro
+
+\+50 % NVMe / +4 vCore
+
+dauerhaft
+
+56,92 €
+
+pro Monat (inkl. 19% MWSt.)
 
 12
 
