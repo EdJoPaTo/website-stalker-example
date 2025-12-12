@@ -164,7 +164,9 @@ gemäß der Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder Landes
  Kann ich das Deutschland-Ticket auch mitten im Monat für eine kurzfristige Reise kaufen?
 ----------
 
-Ja. Sie können das Deutschland-Ticket auch im laufenden Monat als "Abo-Sofort"-Variante im Reisezentrum kaufen und direkt losfahren.
+Sie können das Deutschland-Ticket auch für den laufenden Monat kaufen, sowohl online, im DB Navigator oder im Reisezentrum.
+
+Das Deutschland-Ticket gilt jedoch immer für den vollen Kalendermonat und die Kündigungsfrist bleibt bestehen. Das heißt, **bei einem Kauf nach dem 10. des Monats ist eine Kündigung erst zum Ende des nächsten Monats möglich** und Sie müssen beide Monate voll bezahlen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ab-sofort)
 

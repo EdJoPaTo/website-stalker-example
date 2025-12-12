@@ -8,7 +8,7 @@ VPS 2000 G12 Pro
 
 \+ 100 % mehr NVMe
 
-statt 17,25 €, dauerhaft
+statt 17,26 €, dauerhaft
 
 14,99 €
 
@@ -18,7 +18,7 @@ VPS 2000 G12 Pro
 
 \+ 100 % mehr NVMe
 
-statt 17,25 €, dauerhaft
+statt 17,26 €, dauerhaft
 
 14,99 €
 
