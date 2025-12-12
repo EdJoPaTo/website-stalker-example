@@ -1,9 +1,10 @@
-Black Friday 2025
+Der netcup Adventskalender
+
 ==========
 
-Vom 24. bis 28. November: Täglich neue Mega-Deals und unschlagbare Rabatte. Sei dabei und sichere dir dein Schnäppchen!
+Von **1. Dezember bis 24. Dezember** öffnet sich täglich ein neues Türchen mit unschlagbaren Deals, die **jeweils 24 Stunden lang verfügbar** sind. Sei dabei!
 
-[Zur Black Week](https://www.netcup.com/de/deals/black-friday)
+[Zum Kalender](https://www.netcup.com/de/deals/adventskalender)
 
 Bleibe auf dem Laufenden
 ----------
