@@ -11,6 +11,8 @@
 
 * Topics
 
+* [RPi4 on armv7h is EOL'ed with linux-rpi-6.18.0-1](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=17367)
+   by [graysky](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=5766) » Sat Dec 13, 2025 11:34 am
 * [New kernel package for RPi5: linux-rpi-16k](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=16696)
    by [graysky](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=5766) » Sun Dec 10, 2023 8:01 pm
 * [Testing kernel available RPi5](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=16144)
@@ -59,5 +61,3 @@
    by [kmihelich](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=191) » Wed Sep 19, 2012 12:52 am
 * [Support for OLinuXino available](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=3270)
    by [kmihelich](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=191) » Sat Jul 21, 2012 10:20 pm
-* [Toolchain update to 4.7.1/2.16.0](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=3203)
-   by [kmihelich](https://archlinuxarm.org/forum/memberlist.php?mode=viewprofile&u=191) » Mon Jul 09, 2012 4:01 pm
