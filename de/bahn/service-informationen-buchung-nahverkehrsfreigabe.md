@@ -23,24 +23,6 @@ Allgemeine Regelungen
 IC-Strecken mit Freigabe für den Nahverkehr
 ----------
 
-###  Verkehrsverbund Berlin-Brandenburg (VBB)  ###
-
-#### Verkehrsverbund Berlin-Brandenburg ####
-
-Sie können folgende IC (Intercity)- und RJ (Railjet)-Züge auf den 3 Strecken mit einem Nahverkehrs-Ticket nutzen:
-
-* Berlin Hbf – Flughafen BER Terminal 1-2 - Doberlug-Kirchhain – Elsterwerda (IC-Züge und ICE 1076)
-* Berlin Südkreuz/Berlin Spandau – Berlin Gesundbrunnen – Prenzlau (hier auch ICE)
-* Potsdam – Berlin Hbf – Cottbus (nur IC 2431/2432)
-
-Auf diesen Strecken werden Verbund-Tickets des VBB im Rahmen ihres örtlichen Geltungsbereiches auch in den Fernverkehrszügen anerkannt.
-
-Anerkannt werden auch:
-
-* Deutschland-Tickets
-* Quer-durchs-Land-Tickets
-* Brandenburg-Berlin-Tickets und Brandenburg-Berlin-Ticket Nacht
-
 ###  Dresden Hbf – Freiberg (Sachs) – Chemnitz Hbf  ###
 
 #### Dresden HBF - Freiberg (Sachs) - Chemnitz ####
@@ -63,7 +45,7 @@ Anerkannt werden:
 
 Sie können mit einem Nahverkehrs-Ticket alle Intercity-Züge nutzen, die auf der Strecke Dortmund – Witten – Iserlohn-Letmathe – Altena (Westf) – Werdohl – Plettenberg – Finnentrop – Lennestadt-Grevenbrück – Lennestadt-Altenhundem – Kreuztal – Siegen-Weidenau – Siegen Hbf - Dillenburg (Hessen) **an allen genannten Bahnhöfen halten.**. Das sind die folgenden Intercity-Züge:
 IC 2223, 2225, 2229, 2323, 2325, 2327
-IC 2222, 2224, 2226, 2320, 2324, 2326, 2328.
+IC 2222, 2224, 2226, 2320, 2324, 2326.
 
 **Regionale Zusatztickets zum Deutschland-Ticket (z.B. für die Mitnahme von weiteren Personen, Fahrrädern oder der 1. Klasse-Beförderung) werden nicht anerkannt.**
 
@@ -73,7 +55,7 @@ Anerkannt werden:
 * Fahrkarten des Westfalen-Tarifs
 * Fahrkarten des NRW-Tarifs
 * Quer-durchs-Land-Tickets
-* SchönerTagTicket NRW
+* SchönerTagTicket NRW (ab 01.01.2026 24hTicket NRW)
 * Tickets gemäß Beförderungsbedingungen der Deutschen Bahn bzw. DTV-Tickets (seit 1. Januar 2022)
 
 ###  Bremen - Emden Außenhafen/Norddeich Mole  ###

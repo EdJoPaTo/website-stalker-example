@@ -89,7 +89,10 @@ Sie dürfen grundsätzlich folgende Fahrradtypen mit in den Zug nehmen:
 * Ein Fahrrad mit Tretunterstützung durch Elektromotor bis 25 km/h (sog. "Pedelec", bis 250 Watt Motorleistung).
 * Ein Fatbike, wenn dieses in die Fahrradhalterung (in der Regel eine Breite für Reifen von 40 bis 60 mm) passt. Lassen Sie ggf. die Luft aus dem Reifen ab. Denken Sie dabei an das Equipment für das spätere Wiederaufpumpen.
 * Ein zusammengeklapptes Faltrad oder Kinderräder mit einem Raddurchmesser bis 16 Zoll können im Zug wie Gepäck untergebracht werden. Hierfür stehen z. B. Gepäckregale und Mehrzweckbereiche zur Verfügung.
-* Ein Tandem, Liegerad oder Dreirad kann nur in Zügen mit größerer Stellplatzkapazität mitgenommen werden. Informieren Sie sich hierfür bitte im DB Reisezentrum, in der DB Agentur oder unter der Service-Rufnummer [030 2970](tel:+49302970).
+* Ein Tandem, Liegerad oder Dreirad kann nur in Nahverkehrszügen mit größerer Stellplatzkapazität mitgenommen werden.
+   Die Mitnahme von Tandems, Liegerädern und großen Dreirädern (\> 120 cm) ist in den Fernverkehrszügen nicht erlaubt.
+* Das orthopädische Hilfsmittel Laufrad (\>120 cm Länge) kann im Fernverkehr bei vorliegender Stellplatzreservierung im Fahrradbereich mitgenommen werden. Für das orthopädische Hilfsmittel kleines Dreirad (\< 120 cm) ist eine Reservierung auf dem Rollstuhlstellplatz erforderlich.
+   Informieren Sie sich hierfür bitte im DB Reisezentrum, in der DB Agentur oder bei der Mobilitätsservicezentrale.
 
 Alle nicht genannten Modelle können Sie nicht mitnehmen. Dazu zählen auch Fahrräder, die aufgrund ihrer Maße oder Bauweise nicht sicher verstaut werden können. Auch Fahrräder, die in Durchgänge und Fluchtwege hineinragen, dürfen Sie nicht mitnehmen.
 
@@ -1879,7 +1882,7 @@ Ihr Ticket gilt an einem Tag Ihrer Wahl **von 0 bis 3 Uhr** **des Folgetages.**
  Was kostet die Fahrradtageskarte Niedersachsen?
 ----------
 
-Die Fahrradtageskarte Niedersachsen kostet 6,50 Euro pro Rad und Tag. Sie ist nur gültig in Kombination mit gültigem (Personen)Fahrschein.
+Die Fahrradtageskarte Niedersachsen kostet 7 Euro pro Rad und Tag. Sie ist nur gültig in Kombination mit gültigem (Personen)Fahrschein.
 
 [Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
 
@@ -2286,13 +2289,6 @@ Insbesondere Komfortfunktionen können nur angeboten werden, wenn die dafür erf
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-services-leistungen-die-ohne-kundenkonto-nicht-nutzbar-sind)
 
- Gilt die Sofortstornierung auch für Buchungen über www.international-bahn.de?
-----------
-
-Angebote, die über [www.international-bahn.de](http://www.international-bahn.de/) gebucht wurden, sind von der Sofortstornierung ausgeschlossen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gilt-die-sofortstornierung-auch-fuer-buchungen-ueber-www-international-bahn-de)
-
  Warum werden Grenzkontrollen in Zügen durchgeführt?
 ----------
 
@@ -2466,15 +2462,6 @@ Wenn der Button "Entschädigung beantragen" bei einer Buchung nicht angezeigt wi
 Die Statusvorteile sind immer für Ihre individuelle Statuslaufzeit gültig. Schaffen Sie es nach Ablauf dieser Zeit erneut Ihren Status zu erreichen, beginnt Ihre Laufzeit erneut und Sie erhalten neue Codes. Erreichen Sie aber während Ihrer Statuslaufzeit die Punkteschwelle eines höheren Levels, erhalten Sie direkt dessen Vorteile.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-alle-meine-statusvorteile-aufgebraucht-wann-bekomme-ich-neue)
-
- Warum kann ich mein auf www.international-bahn.de gebuchtes Ticket auf bahn.de und in der App nicht finden?
-----------
-
-Sie können Ihr auf www.international-bahn.de gebuchtes Ticket nicht auf bahn.de und in der App finden, weil die Systeme nicht miteinander verknüpft sind.
-
-Rufen Sie Ihre Buchung unter <https://www.international-bahn.de/de/ordersearch> auf. Geben Sie Ihre Auftragsnummer aus der Buchungsbestätigungsmail (nur Auftragsnummern, die mit "MCP-" beginnen) und Ihre E-Mail-Adresse an, die Sie für die Buchung verwendet haben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-auf-international-bahn-de-ein-ticket-gebucht-warum-kann-ich-meine-buchung-nicht-auf-bahn-de-oder-in-der-app-db-navigator-finden)
 
  Ich habe bereits Guthaben, dieses wird mir allerdings nicht zum Entwerten angeboten?
 ----------
@@ -6216,7 +6203,7 @@ Ihre digitale BahnBonus Karte finden Sie direkt in der BahnBonus App. Die digita
  Wie buche ich das Angebot Lufthansa Express Rail?
 ----------
 
-Die Buchung erfolgt in einem Schritt mit dem Flug über alle Lufthansa Vertriebskanäle. Buchen Sie dazu die Flugreise einfach ab einer der 28 Express Rail Städte. Dies ist z.B. möglich über:
+Die Buchung erfolgt in einem Schritt mit dem Flug über alle Lufthansa Vertriebskanäle. Buchen Sie dazu die Flugreise einfach ab einer der 27 Express Rail Städte. Dies ist z.B. möglich über:
 
 * in Ihrem Reisebüro
 * rund um die Uhr telefonisch bei Lufthansa unter [069 86 799 799](tel:069 86 799 799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
@@ -6686,17 +6673,6 @@ Hinweis:
 Bei Super Sparpreis-Tickets ist weder eine Stornierung noch eine Umbuchung möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ein-ticket-auf-eine-andere-person-umschreiben)
-
- Wie kann ich ein Ticket stornieren, das ich auf www.international-bahn.de gekauft habe?
-----------
-
-Stornierungen von "internationalen Tickets" von www.international-bahn.de sind ausschließlich unter https://www.international-bahn.de/de/ordersearch möglich oder im Service-Center für internationale Buchungen. Sie können es erreichen unter 06172 7613210 oder per E-Mail unter service-international@bahn.de. Servicezeiten sind von Montag bis Freitag von 8 bis 20 Uhr (CET) sowie samstags, sonntags und an Feiertagen von 10 bis 17 Uhr (CET).
-
-Hinweis: Eine Umbuchung ist nicht möglich. Sie können nur die ganze Reise stornieren und müssen dann neu buchen.
-
-* <https://www.international-bahn.de/de/ordersearch>
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ein-ticket-stornieren-das-ich-auf-www-international-bahn-de-gekauft-habe)
 
  Wie kann ich ein Verbundticket über den DB Navigator erwerben?
 ----------
