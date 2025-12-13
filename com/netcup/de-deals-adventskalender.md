@@ -256,7 +256,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-12
+RS 8000 G12 Pro
+
+\+50 % NVMe / +4 vCore
+
+dauerhaft
+
+56,92 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-8000-g12-pro-nue-adv25)
+
+.info Domain
+
+35 % Rabatt
+
+statt 3,05 €, dauerhaft
+
+1,99 €
+
+pro Monat (inkl. 19% MWSt.)
 
 13
 
