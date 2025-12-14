@@ -278,7 +278,27 @@ statt 3,05 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-13
+.info Domain
+
+35 % Rabatt
+
+statt 3,05 €, dauerhaft
+
+1,99 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/en/domain/aktion-.info-domain-adv25)
+
+.com Domain
+
+18 % Rabatt
+
+statt 1,38 €, dauerhaft
+
+1,13 €
+
+pro Monat (inkl. 19% MWSt.)
 
 14
 
