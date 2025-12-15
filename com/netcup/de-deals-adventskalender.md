@@ -300,7 +300,27 @@ statt 1,38 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-14
+.com Domain
+
+18 % Rabatt
+
+statt 1,38 €, dauerhaft
+
+1,13 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen](https://www.netcup.com/de/domain/aktion-.com-domain-adv25)
+
+VPS 8000 G12 Pro
+
+\+ 50 % NVMe / + 4 vCore
+
+statt 43,78 €, dauerhaft
+
+38,08 €
+
+pro Monat (inkl. 19% MWSt.)
 
 15
 
