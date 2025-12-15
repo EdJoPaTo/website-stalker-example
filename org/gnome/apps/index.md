@@ -61,6 +61,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Clairvoyant**Ask questions, get psychic answers](Clairvoyant/)
 * [**Collision**Check hashes for your files](Collision/)
 * [**Commit**Commit message editor](Commit/)
+* [**Constrict**Compress videos to target sizes](Constrict/)
 * [**Curtail**Compress your images](Curtail/)
 * [**Déjà Dup Backups**Protect yourself from data loss](DejaDup/)
 * [**Decoder**Scan and generate QR codes](Decoder/)
