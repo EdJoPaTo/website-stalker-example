@@ -65,7 +65,7 @@ USB-C 3.1 Charge Cord (5m)
 
 Ships
 
- Late December/Early January
+ January
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
