@@ -33,7 +33,7 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m#rs-1000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m#rs-1000-g12-12m-nue)
 
 RS 2000 G12
 
@@ -52,7 +52,7 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g12-12m#rs-2000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12-12m#rs-2000-g12-12m-nue)
 
 RS 4000 G12
 
@@ -71,7 +71,7 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-4000-g12-12m#rs-4000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-4000-g12-12m#rs-4000-g12-12m-nue)
 
 RS 8000 G12
 
@@ -91,7 +91,7 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-8000-g12-12m#rs-8000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12-12m#rs-8000-g12-12m-nue)
 
 RS 12000 G12
 
@@ -110,7 +110,7 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-12000-g12-12m#rs-12000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-12000-g12-12m#rs-12000-g12-12m-nue)
 
 RS 16000 G12
 
@@ -129,14 +129,14 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-16000-g12-12m#rs-16000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-16000-g12-12m#rs-16000-g12-12m-nue)
 
 Neu: Mehr Kontrolle über den Netzwerkverkehr deiner Server
 ----------
 
 Die neue **Firewall** ermöglicht es dir, eigene Regeln zu erstellen und den ein- sowie ausgehenden Traffic deiner Server gezielt zu steuern. So erhältst du eine **zusätzliche Sicherheitsebene ohne zusätzliche Kosten**, um deine Systeme noch besser zu schützen. Ab sofort für alle Server-Produkte ab Generation 12 verfügbar.
 
-[Mehr erfahren](https://www.netcup.com/de/blog/webhosting/neue-netcup-firewall)
+[Mehr erfahren\>](https://www.netcup.com/de/blog/webhosting/neue-netcup-firewall)
 
 Root Server auf KVM-Basis
 ----------

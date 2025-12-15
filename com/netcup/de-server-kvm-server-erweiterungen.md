@@ -18,7 +18,7 @@ Zusätzliche IPv4-AdresseZusätzliche IPv4-Adresse, die auf einen Root-Server, S
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen/zusaetzliche-ipv4)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen/zusaetzliche-ipv4)
 
 Failover IPv4-AdresseIPv4-Adresse, die auf mehreren Root-Server, Storage-Server oder VPS genutzt werden kann.
 
@@ -26,7 +26,7 @@ Failover IPv4-AdresseIPv4-Adresse, die auf mehreren Root-Server, Storage-Server 
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen-kvm/failover-ipv4)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/failover-ipv4)
 
  Zusätzliches /64 IPv6 SubnetZusätzliches /64 IPv6-Subnet, das auf einen Root-Server, Storage-Server oder VPS gebunden werden kann.
 
@@ -34,7 +34,7 @@ pro Monat inkl. 19% MwSt.
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen-kvm/zusaetzliches-ipv6-subnet)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/zusaetzliches-ipv6-subnet)
 
 Failover IPv6-SubnetIPv6-Subnet, das auf mehreren Root-Servern, Storage-Server oder VPS genutzt werden kann.
 
@@ -42,7 +42,7 @@ Failover IPv6-SubnetIPv6-Subnet, das auf mehreren Root-Servern, Storage-Server o
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen-kvm/failover-ipv6-subnet)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/failover-ipv6-subnet)
 
 Cloud vLAN Free 100 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
@@ -50,7 +50,7 @@ Cloud vLAN Free 100 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server,
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-free)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-free)
 
 Cloud vLAN Starter 250 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
@@ -58,7 +58,7 @@ Cloud vLAN Starter 250 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Serv
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-starter)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-starter)
 
 Cloud vLAN Medium 500 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
@@ -66,7 +66,7 @@ Cloud vLAN Medium 500 Mbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Serve
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-medium)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-medium)
 
 Cloud vLAN Giga 1 GbpsVirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server miteinander verbinden können.
 
@@ -74,7 +74,7 @@ Cloud vLAN Giga 1 GbpsVirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-giga)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-giga)
 
 Cloud vLAN 2,5 Gbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS und Storage-Server zusammenschalten können.
 
@@ -82,7 +82,7 @@ Cloud vLAN 2,5 Gbit/svirtuelles LAN (vLAN), in dem Sie mehrere Root-Server, VPS 
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-2-5-gbits)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/cloud-vlan-2-5-gbits)
 
 Service Level Erweiterungen
 ----------
@@ -93,7 +93,7 @@ Service Level A+99,9% garantierte Mindestverfügbarkeit, Sofortige Reaktionszeit
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!](https://www.netcup.com/de/server/root-server/root-server-service-level-a)
+[Jetzt buchen!\>](https://www.netcup.com/de/server/root-server/root-server-service-level-a)
 
 **Tipp: Hohe Verfügbarkeit**
 ----------

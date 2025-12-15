@@ -4,7 +4,7 @@ Der netcup Adventskalender
 
 Von **1. Dezember bis 24. Dezember** öffnet sich täglich ein neues Türchen mit unschlagbaren Deals, die **jeweils 24 Stunden lang verfügbar** sind. Sei dabei!
 
-[Zum Kalender](https://www.netcup.com/de/deals/adventskalender)
+[Zum Kalender\>](https://www.netcup.com/de/deals/adventskalender)
 
 Bleibe auf dem Laufenden
 ----------

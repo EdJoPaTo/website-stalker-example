@@ -24,7 +24,7 @@ statt 17,26 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-2000-g12-pro-nue-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-2000-g12-pro-nue-adv25)
 
 RS 4000 G12 Ultra
 
@@ -46,7 +46,7 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-4000-g12-ultra-nue-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-4000-g12-ultra-nue-adv25)
 
 Webhosting 2000
 
@@ -68,7 +68,7 @@ statt 3,25 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-adv25)
 
 RS 2000 G12 Ultra
 
@@ -90,7 +90,7 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-2000-g12-ultra-nue-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12-ultra-nue-adv25)
 
 nc Coffee2Go Tasse
 
@@ -112,7 +112,7 @@ einmalig
 
 (inkl. 19% MWSt.) und einzigartig
 
-[Jetzt bestellen](https://www.netcup.com/de/sonstige/nc-coffee2go-tasse-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/sonstige/nc-coffee2go-tasse-adv25)
 
 Webhosting 4000
 
@@ -134,7 +134,7 @@ statt 6,52 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-adv25)
 
 .net Domain
 
@@ -156,7 +156,7 @@ statt 2,11 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/en/domain/aktion-.net-domain-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/en/domain/aktion-.net-domain-adv25)
 
 .xyz Domain
 
@@ -178,7 +178,7 @@ statt 2,24 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/domain/aktion-.xyz-domain-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/domain/aktion-.xyz-domain-adv25)
 
 VPS 1000 G12 Pro
 
@@ -200,7 +200,7 @@ statt 9,46 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/vps/vps-1000-g12-pro-nue-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-1000-g12-pro-nue-adv25)
 
 RS 1000 G12 Ultra
 
@@ -222,7 +222,7 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-1000-g12-ultra-nue-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12-ultra-nue-adv25)
 
 .de Domain
 
@@ -244,7 +244,7 @@ statt 0,42 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/domain/aktion-.de-domain-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/domain/aktion-.de-domain-adv25)
 
 RS 8000 G12 Pro
 
@@ -266,7 +266,7 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/server/root-server/rs-8000-g12-pro-nue-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12-pro-nue-adv25)
 
 .info Domain
 
@@ -288,7 +288,7 @@ statt 3,05 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/en/domain/aktion-.info-domain-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/en/domain/aktion-.info-domain-adv25)
 
 .com Domain
 
@@ -310,7 +310,7 @@ statt 1,38 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-[Jetzt bestellen](https://www.netcup.com/de/domain/aktion-.com-domain-adv25)
+[Jetzt bestellen\>](https://www.netcup.com/de/domain/aktion-.com-domain-adv25)
 
 VPS 8000 G12 Pro
 
@@ -401,7 +401,7 @@ Mit den initialen Einnahmen aus dem 24. Türchen unterstützen wir, wie jedes Ja
 
 Über folgenden Link kannst du abstimmen.
 
-[Abstimmen](https://anexia.lamapoll.de/netcup_ADV25_Spende_Top3)
+[Abstimmen\>](https://anexia.lamapoll.de/netcup_ADV25_Spende_Top3)
 
 FAQ
 ----------

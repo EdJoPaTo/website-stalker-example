@@ -15,7 +15,7 @@ ab
 
  pro Monat
 
-[Im Kundenbereich bestellen](https://www.netcup.com/de/server/local-block-storage#details)
+[Im Kundenbereich bestellen\>](https://www.netcup.com/de/server/local-block-storage#details)
 
 **Local Block Storage**
 ----------

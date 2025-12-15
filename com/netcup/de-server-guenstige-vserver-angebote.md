@@ -22,7 +22,7 @@ pro Monat
 
 (inkl. 19% MwSt.)
 
-[Details / bestellen](https://www.netcup.com/de/server/vps/vps-piko-g11s-12m)
+[Details / bestellen\>](https://www.netcup.com/de/server/vps/vps-piko-g11s-12m)
 
 VPS nano G11s
 
@@ -38,7 +38,7 @@ pro Monat
 
 (inkl. 19% MwSt.)
 
-[Details / bestellen](https://www.netcup.com/de/server/vps/vps-nano-g11s-6m)
+[Details / bestellen\>](https://www.netcup.com/de/server/vps/vps-nano-g11s-6m)
 
 VPS mikro G11s
 
@@ -54,7 +54,7 @@ pro Monat
 
 (inkl. 19% MwSt.)
 
-[Details / bestellen](https://www.netcup.com/de/server/vps/vps-mikro-g11s-3m)
+[Details / bestellen\>](https://www.netcup.com/de/server/vps/vps-mikro-g11s-3m)
 
 ### Weitere Angebote ###
 
