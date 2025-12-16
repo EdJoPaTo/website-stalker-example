@@ -30,27 +30,27 @@ Our work
 
  The Open Home Foundation owns and governs over **250 open source projects, standards, drivers, and libraries** like *Home Assistant*, *ESPHome*, *Music Assistant*, *HACS*, *Piper*, and more.
 
- In the future, we aim to play a greater role as a political advocate for smart home privacy, choice, and sustainability.
+ We also advocate for better privacy, choice, and sustainability across the smart home industry.
 
 [](https://www.home-assistant.io/)
 [](https://esphome.io/)
 [](https://www.music-assistant.io/)
 
-[Wyoming](https://github.com/rhasspy/wyoming)
-[BTHome](https://bthome.io/)
-[Improv Wi-Fi](https://www.improv-wifi.com/)
-[Zigpy](https://github.com/zigpy/zigpy)
-[Python Matter Server](https://github.com/home-assistant-libs/python-matter-server)
-[Piper](https://github.com/rhasspy/piper)
 [ESP Web Tools](https://esphome.github.io/esp-web-tools/)
+[Improv Wi-Fi](https://www.improv-wifi.com/)
 [HACS](https://github.com/hacs/integration)
+[Zigpy](https://github.com/zigpy/zigpy)
+[Matter.js](https://github.com/matter-js/matter.js)
+[Z-Wave JS](https://github.com/zwave-js/zwave-js)
+[microWakeWord](https://github.com/OHF-Voice/micro-wake-word)
+[Piper](https://github.com/rhasspy/piper)
 
 [See more](https://www.openhomefoundation.org/projects/#projects)
 
 Our collabs
 ----------
 
- Thanks to support from our partner **Nabu Casa**, we also collaborate on external member projects that align with our principles. These include *Z-Wave JS*, *WLED* and *Zigbee2MQTT*.
+ Thanks to support from our commercial partners, Apollo Automation and Nabu Casa, we contribute to external member projects that align with our principles. These include WLED and Zigbee2MQTT.
 
 [Learn more](https://www.openhomefoundation.org/projects/#collabs)
 

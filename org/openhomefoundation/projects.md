@@ -4,7 +4,7 @@ We are a community of communities.
 Projects
 ----------
 
- It’s the DNA from our central projects—full-scale software we own and oversee development of—that gave rise to the idea of the Open Home Foundation in the first place. These are our headline efforts. But also, just the beginning.
+ It’s the DNA from our central projects—full-scale software we own and oversee development of—that gave rise to the idea of the Open Home Foundation in the first place. These are our headline efforts. But still just the beginning.
 
  Home Assistant is an open source, home automation platform that puts local control and privacy first. It is powered by a worldwide community of tinkerers and DIY enthusiasts, and exists to put users in control of their homes, their data, and their personal well-being.
 
@@ -16,7 +16,7 @@ Projects
 [Learn more](https://esphome.io/)
 [](https://github.com/esphome/)
 
- Music Assistant is a music library manager for your offline and online music sources, which can easily stream your favourite music to a wide range of supported players. It becomes incredibly powerful when combined with Home Assistant!
+ Music Assistant is a smart home music and streaming management system. It integrates easily into Home Assistant, but also works on its own. It can be used for whole home audio, and more granularly to connect numerous streaming and offline audio sources with a wide range of supported players.
 
 [Learn more](https://www.music-assistant.io/)
 [](https://github.com/music-assistant/)
@@ -38,33 +38,25 @@ Collabs
 
 [Learn more](https://www.zigbee2mqtt.io/)
 
- Z-Wave JS is an open source Z-Wave device driver, supported by a small team of smart home enthusiasts. Thanks to resources directed to the project by the Open Home Foundation, Dominic Griesel is employed to work on Z-Wave JS on a full-time basis.
-
-[Learn more](https://zwave-js.github.io/node-zwave-js/)
-
- microWakeWord is an open source wakeword library for detecting custom wake words on low power devices. It produces models that are suitable for using TensorFlow Lite for Microcontrollers. The models are suitable for real-world usage with low false accept and false reject rates.
-
-[Learn more](https://github.com/kahrendt/microWakeWord)
-
  Standards, drivers, and libraries
 ----------
 
  The Open Home Foundation owns and governs over 250 open standards, drivers, and libraries that support the realization of the open home. Some are small projects to solve simple problems. Others represent major efforts to create open standards, prevent vendor lock-in, and protect privacy. Many are being used well beyond the smart home space. And we’re pretty proud of that.
 
-[### Wyoming ### Peer-to-peer protocol for voice assistants. Open standard Voice](https://github.com/rhasspy/wyoming)
-
-[### BTHome ### Open standard for broadcasting sensor data and button presses over Bluetooth LE. Open standard Bluetooth](https://bthome.io/)
+[### ESP Web Tools ### User friendly tools to manage ESP8266 and ESP32 devices in a web browser. Library ESP32](https://esphome.github.io/esp-web-tools/)
 
 [### Improv Wi-Fi ### Open standard for connecting devices to Wi-Fi using Bluetooth LE or Serial. Open standard Wi-Fi](https://www.improv-wifi.com/)
 
+[### HACS ### A custom integration designed to help the Home Assistant community discover and share projects. Home Assistant Integration](https://github.com/hacs/integration)
+
 [### Zigpy ### Hardware independent Zigbee integration that implements Zigbee as a Python library. Driver Zigbee](https://github.com/zigpy/zigpy)
 
-[### Python Matter Server ### Matter Controller Server implementation over WebSockets. Driver Matter](https://github.com/home-assistant-libs/python-matter-server)
+[### Matter.js ### Matter Controller Server implementation over WebSockets. Driver Matter](https://github.com/matter-js/matter.js)
+
+[### Z-Wave JS ### An open source Z-Wave device driver. Driver Z-Wave](https://github.com/zwave-js/zwave-js)
+
+[### microWakeWord ### An open source library for detecting custom wake words on low power devices Library](https://github.com/OHF-Voice/micro-wake-word)
 
 [### Piper ### Local neural text-to-speech system that sounds great and is optimized for the Raspberry Pi 4. Library Voice](https://github.com/rhasspy/piper)
-
-[### ESP Web Tools ### User friendly tools to manage ESP8266 and ESP32 devices in a web browser. Library ESP32](https://esphome.github.io/esp-web-tools/)
-
-[### HACS ### A custom integration designed to help the Home Assistant community discover and share projects. Home Assistant Integration](https://github.com/hacs/integration)
 
 [### Visit us on GitHub ###](https://github.com/openhomefoundation)
