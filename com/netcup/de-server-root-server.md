@@ -29,7 +29,7 @@ RS 1000 G12
 
 bereits ab monatlich
 
-10,40 €
+10,41 €
 
 (inkl. 19% MwSt.)
 
@@ -48,7 +48,7 @@ RS 2000 G12
 
 bereits ab monatlich
 
-17,35 €
+17,36 €
 
 (inkl. 19% MwSt.)
 
@@ -86,7 +86,7 @@ RS 8000 G12
 
 bereits ab monatlich
 
-57,51 €
+57,52 €
 
 (inkl. 19% MwSt.)
 
@@ -105,7 +105,7 @@ RS 12000 G12
 
 bereits ab monatlich
 
-82,80 €
+82,81 €
 
 (inkl. 19% MwSt.)
 
@@ -124,7 +124,7 @@ RS 16000 G12
 
 bereits ab monatlich
 
-116,52 €
+116,53 €
 
 (inkl. 19% MwSt.)
 
