@@ -21,7 +21,7 @@ RS 1000 G12
 * AMD EPYC™ 9645
 * 8 GB DDR5 RAM (ECC)
 * 4 dedizierte Kerne
-* 256 GB NVMe SSD
+* 256 GB NVMe
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
@@ -33,14 +33,14 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m#rs-1000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12-ip-12m#rs-1000-g12-ip-12m-nue)
 
 RS 2000 G12
 
 * AMD EPYC™ 9645
 * 16 GB DDR5 RAM (ECC)
 * 8 dedizierte Kerne
-* 512 GB NVMe SSD
+* 512 GB NVMe
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
@@ -52,14 +52,14 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12-12m#rs-2000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12-ip-12m#rs-2000-g12-ip-12m-nue)
 
 RS 4000 G12
 
 * AMD EPYC™ 9645
 * 32 GB DDR5 RAM (ECC)
 * 12 dedizierte Kerne
-* 1 TB NVMe SSD
+* 1 TB NVMe
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
@@ -71,16 +71,15 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-4000-g12-12m#rs-4000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-4000-g12-ip-12m#rs-4000-g12-ip-12m-nue)
 
 RS 8000 G12
 
 * AMD EPYC™ 9645
 * 64 GB DDR5 RAM (ECC)
 * 16 dedizierte Kerne
-* 2 TB NVMe SSD
+* 2 TB NVMe
 * Snapshots (Copy-On-Write)
-*
 * Remote-Konsole uvm...
 
  Details \>
@@ -91,14 +90,14 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12-12m#rs-8000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12-ip-12m#rs-8000-g12-ip-12m-nue)
 
 RS 12000 G12
 
 * AMD EPYC™ 9645
 * 96 GB DDR5 RAM (ECC)
 * 20 dedizierte Kerne
-* 3 TB NVMe SSD
+* 3 TB NVMe
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
@@ -110,14 +109,14 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-12000-g12-12m#rs-12000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-12000-g12-ip-12m#rs-12000-g12-ip-12m-nue)
 
 RS 16000 G12
 
 * AMD EPYC™ 9645
 * 128 GB DDR5 RAM (ECC)
 * 24 dedizierte Kerne
-* 4 TB NVMe SSD
+* 4 TB NVMe
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
@@ -129,14 +128,14 @@ bereits ab monatlich
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-16000-g12-12m#rs-16000-g12-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-16000-g12-ip-12m#rs-16000-g12-ip-12m-nue)
 
-Neu: Mehr Kontrolle über den Netzwerkverkehr deiner Server
+Neuigkeit unlocked: Erweiterte Netzwerk-Konfiguration für Root Server
 ----------
 
-Die neue **Firewall** ermöglicht es dir, eigene Regeln zu erstellen und den ein- sowie ausgehenden Traffic deiner Server gezielt zu steuern. So erhältst du eine **zusätzliche Sicherheitsebene ohne zusätzliche Kosten**, um deine Systeme noch besser zu schützen. Ab sofort für alle Server-Produkte ab Generation 12 verfügbar.
+Ab sofort kannst du bei **neuen Root Server Bestellungen ab G12** selbst bestimmen, welche öffentliche Netzwerkanbindung du benötigst: IPv4+IPv6, nur IPv6 oder ausschließlich Cloud vLAN. Mehr Flexibilität, mehr Kontrolle – passend für jedes Setup.
 
-[Mehr erfahren\>](https://www.netcup.com/de/blog/webhosting/neue-netcup-firewall)
+[Mehr erfahren\>](https://www.netcup.com/de/blog/root-server/erweiterte-netzwerk-konfiguration)
 
 Root Server auf KVM-Basis
 ----------
@@ -150,37 +149,37 @@ Bestimme selbst, welches Betriebssystem und Managementsystem du auf deinem vServ
 Root Server Anwendungsfälle
 ----------
 
-* [RS 1000 G12](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m)
+* [RS 1000 G12](https://www.netcup.com/de/server/root-server/rs-1000-g12-ip-12m#rs-1000-g12-ip-12m-nue)
 
   ### RS 1000 G12 ###
 
   Dieser Root Server eignet sich optimal als Einstiegslösung für Web- und Mail-Server, sowie leichte Datenbankanwendungen und bietet eine ausgewogene Leistung **für Einsteiger.**
 
-  [zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-1000-g12-12m)
+  [zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-1000-g12-ip-12m#rs-1000-g12-ip-12m-nue)
 
-* [RS 2000 G12](https://www.netcup.com/de/server/root-server/rs-2000-g12-12m)
+* [RS 2000 G12](https://www.netcup.com/de/server/root-server/rs-2000-g12-ip-12m#rs-2000-g12-ip-12m-nue)
 
   ### RS 2000 G12 ###
 
   Mit erweiterten Ressourcen, einschließlich mehr RAM und einer größeren SSD, ist der RS 2000 G12 perfekt für **mittelgroße Web- und Mail-Server,** komplexe Webanwendungen und Applikations-Server geeignet.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-2000-g12-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-2000-g12-ip-12m#rs-2000-g12-ip-12m-nue)
 
-* [RS 4000 G12](https://www.netcup.com/de/server/root-server/rs-4000-g12-12m)
+* [RS 4000 G12](https://www.netcup.com/de/server/root-server/rs-4000-g12-ip-12m#rs-4000-g12-ip-12m-nue)
 
   ### RS 4000 G12 ###
 
   Der RS 4000 G12 bietet High-Performance für große Unternehmensplattformen, **umfangreiche Webanwendungen und datenintensive Szenarien.** Er eignet sich ideal als Datenbank-Server mit umfassenden Ressourcen.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-4000-g12-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-4000-g12-ip-12m#rs-4000-g12-ip-12m-nue)
 
-* [RS 8000 G12](https://www.netcup.com/de/server/root-server/rs-8000-g12-12m)
+* [RS 8000 G12](https://www.netcup.com/de/server/root-server/rs-8000-g12-ip-12m#rs-8000-g12-ip-12m-nue)
 
   ### RS 8000 G12 ###
 
   Für höchste Anforderungen an Leistung und Ressourcen ist der RS 8000 G12 mit beeindruckend 64GB RAM und 16 dedizierten Kernen sowie einer sehr großen SSD die ideale Wahl **für hochleistungsorientierte Applikations-Server, Web- und Mail-Server sowie umfangreiche Datenbanken.**
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-8000-g12-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/root-server/rs-8000-g12-ip-12m#rs-8000-g12-ip-12m-nue)
 
 Dedizierter Server vs. Root Server
 ----------

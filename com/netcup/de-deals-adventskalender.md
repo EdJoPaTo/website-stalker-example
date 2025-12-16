@@ -322,7 +322,27 @@ statt 43,78 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-15
+VPS 8000 G12 Pro
+
+\+ 50 % NVMe / + 4 vCore
+
+statt 43,78 €, dauerhaft
+
+38,08 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-8000-g12-pro-nue-adv25)
+
+RS 2000 G12 Pro
+
+\+ 100 % NVMe / 1. Monat gratis
+
+dauerhaft
+
+16,76 €
+
+pro Monat (inkl. 19% MWSt.)
 
 16
 
