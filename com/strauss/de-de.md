@@ -1,15 +1,4 @@
-Neuheiten
-----------
-
----
-
- Zeit für Gemütlichkeit im
-Strauss-Style
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
-
- Geschenke-zeit
+Geschenke-zeit
 ----------
 
 ---
@@ -35,6 +24,17 @@ bag
 
 \+ e.s. Lunch-
 bag
+
+ Neuheiten
+----------
+
+---
+
+ Zeit für Gemütlichkeit im
+Strauss-Style
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
 
  Gutscheine verschenken
 ----------
