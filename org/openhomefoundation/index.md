@@ -59,7 +59,7 @@ Support us
 
  Our work is primarily supported through subscriptions to Home Assistant Cloud, and by your contributions to open source projects aligned with our principles.
 
-[Join the fight](https://www.openhomefoundation.org/organization/#support-our-work)
+[Join the fight](https://www.openhomefoundation.org/structure/#support-our-work)
 
 [](https://www.home-assistant.io/blog/2025/03/26/state-of-the-open-home-2025-announcement/)
 
