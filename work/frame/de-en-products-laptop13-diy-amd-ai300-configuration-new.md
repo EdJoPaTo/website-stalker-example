@@ -101,7 +101,7 @@ FAQs
 
 * What memory is compatible?
 
-  DDR5 SO-DIMMs up to 48GB each at up to to DDR5-5600 speeds are compatible with the Framework Laptop 13. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility. We recommend avoiding XMP DDR5.
+  DDR5 SO-DIMMs up to 48GB each at up to to DDR5-5600 speeds are compatible with the Framework Laptop 13. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility, and we offer a mix of memory brands to ensure supply availability. We recommend avoiding XMP DDR5.
 
 Close
 
