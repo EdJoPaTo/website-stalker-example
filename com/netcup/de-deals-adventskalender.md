@@ -340,7 +340,7 @@ RS 2000 G12 Pro
 
 dauerhaft
 
-16,76 €
+17,35 €
 
 pro Monat (inkl. 19% MWSt.)
 
