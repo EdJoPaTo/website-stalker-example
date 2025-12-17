@@ -90,7 +90,7 @@ FAQs
 
 * What memory is compatible?
 
-  There is 1x DDR5 SO-DIMM slot in the Framework Laptop 12. This means you can use up to 48GB of DDR5-5200 memory. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility. We recommend avoiding XMP DDR5.
+  There is 1x DDR5 SO-DIMM slot in the Framework Laptop 12. This means you can use up to 48GB of DDR5-5200 memory. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility, and we offer a mix of memory brands to ensure supply availability. We recommend avoiding XMP DDR5.
 
 Close
 
