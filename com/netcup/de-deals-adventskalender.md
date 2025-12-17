@@ -344,7 +344,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-16
+RS 2000 G12 Pro
+
+\+ 100 % NVMe / 1. Monat gratis
+
+dauerhaft
+
+17,36 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12-pro-nue-adv25)
+
+Webhosting 8000
+
+42 % Rabatt
+
+statt 10,60 €, dauerhaft
+
+6,20 €
+
+pro Monat (inkl. 19% MWSt.)
 
 17
 
