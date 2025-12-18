@@ -4,11 +4,19 @@ Root Server auf KVM-Basis
 
 * Vereint die Vorteile dedizierter und virtueller Server
 * Dedizierte Ressourcen (CPU und RAM)
+* 30 Tage Geld-Zurück-Garantie
 * 99,9% garantierte Mindestverfügbarkeit
 * Snapshots, Im- und Export von Images
 * Schnelles und sicheres Hardware-RAID
 * Neueste Marken-Hardware im Einsatz
-* Netzwerkkarte mit 2,5 Gbit/s und vieles mehr ...
+* Netzwerkkarte mit bis zu 2,5 Gbit/s und vieles mehr ...
+
+Hello Asia! Root Server G12 sind ab sofort in Singapur verfügbar.
+----------
+
+Sichere dir deinen **Root Server G12** an unserem **neuen Standort in Singapur** – ein globaler Connectivity-Hub für deine Projekte in Asien. Optimale Anbindung, niedrige Latenzen und maximale Performance im APAC-Raum.
+
+[Mehr erfahren\>](https://www.netcup.com/de/blog/news/jetzt-neu-entdecke-ab-sofort-unser-server-angebot-in-singapur)
 
 Root Server Angebote
 ----------
@@ -249,7 +257,15 @@ Wo ist der Standort meines Root Servers?
 
  ###
 
-Bei netcup bieten wir Ihnen **Wien (Österreich), Nürnberg (Deutschland) oder Manassas (USA)** als Standort für deinen Root Server an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE' bzw. 'MNZ' bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg) bzw. Manassas (Manassas) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der Root Server je nach freien Kapazitäten entweder in Wien oder Nürnberg gehostet wird.
+Deinen Root-Server-Standort wählst du bei netcup bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
+
+* Wien (VIE)
+* Nürnberg (NUE)
+* Amsterdam (AMS)
+* Manassas/USA (MNZ) und
+* Singapur (SIN)
+
+Die jeweilige Abkürzung zeigt dir, in welchem Rechenzentrum dein Server physisch betrieben wird. Zusätzlich gibt es die Option „Keine Präferenz Europa“ – dabei kannst du den genauen Standort nicht festlegen, dein Server wird jedoch ausschließlich in einem europäischen Rechenzentrum (z. B. Wien oder Nürnberg) eingerichtet, abhängig von den verfügbaren Kapazitäten.
 
 ###
 
@@ -260,10 +276,15 @@ Was sind die Vorteile eines Root Servers?
 Insgesamt bietet die Verwendung eines Root Servers die Flexibilität, Leistung und Kontrolle, die für anspruchsvolle Internetanwendungen und -dienste erforderlich sind.
 
 1. **Vollständige Kontrolle:** Als Betreiber eines Root Servers hast du die volle Kontrolle über die Konfiguration, Ressourcenallokation und Sicherheitsrichtlinien. Dies ermöglicht es dir, die Serverumgebung deinen spezifischen Anforderungen anzupassen und flexibel auf Veränderungen zu reagieren.
+
 2. **Hohe Leistung:** Root Server werden oft auf leistungsstarker Hardware betrieben, die eine schnelle Datenverarbeitung und -übertragung ermöglicht. Dies ist besonders wichtig für Anwendungen, die hohe Anforderungen an Rechenleistung und Bandbreite haben, wie z.B. große Datenbanken, E-Commerce-Websites oder Multimedia-Streaming-Dienste.
+
 3. **Anpassungsfähigkeit:** Mit einem Root Server kannst du die Betriebssystemumgebung und die Software nach deinen Wünschen anpassen. Dies ermöglicht es dir, spezifische Anwendungen oder Dienste zu installieren und zu konfigurieren, die für deine Anforderungen optimiert sind.
+
 4. **Datenschutz und Sicherheit:** Durch die Verwaltung deines eigenen Root Servers kannst du die Sicherheitsmaßnahmen implementieren, die deinen Datenschutz- und Sicherheitsanforderungen entsprechen. Du hast die Kontrolle über den Zugriff auf den Server und kannst Maßnahmen wie Firewalls, Verschlüsselung und regelmäßige Sicherheitsupdates implementieren.
+
 5. **Unabhängigkeit von Drittanbietern:** Mit einem eigenen Root Server bist du nicht von Drittanbietern abhängig, um deine Internetinfrastruktur zu verwalten. Du hast die volle Kontrolle über deine Serverumgebung und bist nicht von den Richtlinien oder Einschränkungen anderer Unternehmen abhängig.
+
 6. **Entwicklungsfreiheit:** Für Entwickler bietet ein Root Server maximale Freiheit bei der Entwicklung und Bereitstellung von Anwendungen. Du kannst verschiedene Programmiersprachen, Frameworks und Bibliotheken verwenden und die Serverumgebung nach Bedarf anpassen, um innovative Lösungen zu entwickeln.
 
 ###
@@ -278,10 +299,9 @@ Im Überblick:
 
 * Aktuelle AMD EPYC™ 9645 CPU mit bis zu 3,7 GHz Taktfrequenz
 * DDR5 ECC RAM für maximale Datensicherheit und Geschwindigkeit
-* NVMe-SSD-Speicher für blitzschnelle Zugriffe
-* 2,5 Gbit/s Netzwerkkarte für schnelle und stabile Verbindungen
+* NVMe-Speicher für blitzschnelle Zugriffe
 
-Klicke auf der Tarif-Übersicht auf Details \>, um Eigenschaften zwischen den Tarifen zu vergleichen.
+Klicke auf der Tarif-Übersicht auf *Details \>*, um Eigenschaften zwischen den Tarifen zu vergleichen.
 
 ###
 
@@ -305,7 +325,7 @@ Welche Vertragslaufzeiten sind für Root Server G12 verfügbar?
 
  ###
 
-Wir bieten dir wie gewohnt volle Flexibilität. Wähle zwischen einer Mindestvertragslaufzeit von **einem** oder **zwölf Monaten**. Bei einer Vertragslaufzeit von **zwölf Monaten sparst du pro Monat 16%** im Vergleich zur monatlichen Abrechnungsvariante.
+Wir bieten dir wie gewohnt volle Flexibilität. Wähle zwischen einer Mindestvertragslaufzeit von **einem** oder **zwölf Monaten**. Bei einer Vertragslaufzeit von **zwölf Monaten sparst du pro Monat bis zu 16%** im Vergleich zur monatlichen Abrechnungsvariante.
 
 ###
 

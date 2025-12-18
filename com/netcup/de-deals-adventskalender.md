@@ -366,7 +366,27 @@ statt 10,60 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-17
+Webhosting 8000
+
+42 % Rabatt
+
+statt 10,60 €, dauerhaft
+
+6,20 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/hosting/webhosting/webhosting-8000-nue-adv25)
+
+RS 1000 G12 Pro
+
+\+ 100 % NVMe / 1. Monat gratis
+
+dauerhaft ab
+
+10,41 €
+
+pro Monat (inkl. 19% MWSt.)
 
 18
 
