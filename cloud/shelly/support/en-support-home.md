@@ -8,7 +8,7 @@ Hi, how can we help you?
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
  ⚠️ Delivery Update for Black Friday Orders
- (20 November – 20 December)
+ (20 November – 2 December)
 ----------
 
  Due to the exceptionally high parcel volume, deliveries may take longer than usual.
