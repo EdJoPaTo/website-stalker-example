@@ -190,12 +190,12 @@ Close
 Bezel
 
 * Black
-* Orange +€10
-* Lavender +€10
 * Green
-* Gray +€10
 * Red
 * Translucent
+* Orange +€10
+* Lavender +€10
+* Gray +€10
 * Translucent Purple +€10
 * Translucent Orange +€10
 * Translucent Green +€10
