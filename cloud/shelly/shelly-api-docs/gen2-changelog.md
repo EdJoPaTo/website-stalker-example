@@ -32,8 +32,8 @@ Unreleased
 
 ### Added ###
 
-* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Add support for BLU H&T ZB
-* [BTHome](/gen2/DynamicComponents/BTHome/) Add support for BLU Button Tough 1 ZB, BLU RC Button 4 ZB, BLU Wall Switch 4 ZB, BLU H&T ZB
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Add support for BLU H&T ZB and BLU H&T Display ZB
+* [BTHome](/gen2/DynamicComponents/BTHome/) Add support for BLU Button Tough 1 ZB, BLU RC Button 4 ZB, BLU Wall Switch 4 ZB, BLU H&T ZB, BLU H&T Display ZB
 * [PlugS Gen3](/gen2/Devices/Gen3/ShellyPlugSG3), [OutdoorPlugS Gen3](/gen2/Devices/Gen3/ShellyOutdoorPlugSG3) Add support for [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl)
 
 ### Local web ###
