@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Unreleased
 ----------
 
-**Available as `1.7.4-beta1`**
+**Available as `1.7.4-beta2`**
 
 ### Fixed ###
 
@@ -27,13 +27,13 @@ Unreleased
 * [BTHome](/gen2/DynamicComponents/BTHome/) Fix crashes due to button sensors migration from versions prior to 1.6
 * [3EM Gen3](/gen2/Devices/Gen3/Shelly3EMG3) Fix energy scales
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Retry TRV Set/ClearOverride commands
-* [PlugS Gen3](/gen2/Devices/Gen3/ShellyPlugSG3), [OutdoorPlugS Gen3](/gen2/Devices/Gen3/ShellyOutdoorPlugSG3), [AZ Plug](/gen2/Devices/Gen3/ShellyAZPlug) Improved output zero-cross synchronization
 * BL0942 power meters: Fix wrong reports
 * System: Fix mbuf resizing
 
 ### Added ###
 
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Add support for BLU H&T ZB
+* [BTHome](/gen2/DynamicComponents/BTHome/) Add support for BLU Button Tough 1 ZB, BLU RC Button 4 ZB, BLU Wall Switch 4 ZB, BLU H&T ZB
 * [PlugS Gen3](/gen2/Devices/Gen3/ShellyPlugSG3), [OutdoorPlugS Gen3](/gen2/Devices/Gen3/ShellyOutdoorPlugSG3) Add support for [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl)
 
 ### Local web ###
@@ -41,6 +41,13 @@ Unreleased
 ### Fixed ###
 
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3) Fix unwanted TRV target temperature calls when switching pages
+
+[1.7.3] 2025-12-18
+----------
+
+### Fixed ###
+
+* [PlugS Gen3](/gen2/Devices/Gen3/ShellyPlugSG3), [OutdoorPlugS Gen3](/gen2/Devices/Gen3/ShellyOutdoorPlugSG3), [AZ Plug](/gen2/Devices/Gen3/ShellyAZPlug) Improved output zero-cross synchronization
 
 [1.7.1] 2025-09-24
 ----------
