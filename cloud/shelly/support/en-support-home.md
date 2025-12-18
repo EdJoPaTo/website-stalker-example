@@ -7,50 +7,27 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
- **⚡ Black Friday Support Notice (20 Nov – 2 Dec) - Find Answers Instantly ⚡**
+ ⚠️ Delivery Update for Black Friday Orders
+ (20 November – 20 December)
+----------
 
-Due to the exceptionally high volume of **orders** and **customer inquiries** during the ongoing **Black Friday promotions**, our support team is currently operating under increased workload conditions.
- To ensure we can assist all customers efficiently and minimize response delays, please review the information below before contacting support.
+ Due to the exceptionally high parcel volume, deliveries may take longer than usual.
 
-1️⃣ Delivery Times
+ What you may notice
 
-During the Black Friday campaign, all courier and logistics partners experience **significantly increased parcel volumes** across all regions. As a result, **delivery times may be extended** beyond standard estimates.
+* Tracking information updating slowly or not changing for several days
+* Extended transit times
+* Delays in courier processing even after parcels have been handed over
 
-You can check our country-specific delivery approximations and return policy here:
+ We confirm that all orders are shipped. These delays are caused entirely by courier network overload. **Your order is still moving through the system**, even if tracking does not reflect progress in real time.
 
-➡️ [Delivery & Returns](https://www.shelly.com/pages/delivery-returns)
+**Due to the increased number of requests during this period, our support team is also operating under higher load. We kindly ask customers to allow additional time before requesting an update on their order status.**
 
-* Courier processing and transit times vary between destinations.
-* Tracking updates may appear with several business days delay.
-* Support cannot accelerate courier deliveries once shipped.
-* We are not responsible for delays caused by global shipping demand.
-* If there are **no tracking updates for 14+ days**, contact support for courier investigation.
+ If your tracking shows no new update for **10+ business days from last status** please contact us and we will request a check with the courier.
 
-2️⃣ Order Status
+Due to the overall congestion in courier networks during this period, even newly shipped parcels may experience slower transit times.
 
-* You’ll receive an email when your order is placed and another when it’s shipped.
-* Check your account under **“My Orders”** for live status updates.
-
-3️⃣ Invoices
-
-*** Invoices are automatically generated once your order ships and available for download from the shipping confirmation email tittled: *“Order XXXXXXX shipped — find your invoice below.”***
-* Please check your inbox and spam folder before contacting support.
-
-4️⃣ Modifications to Orders
-
-* Customers **can edit their shipping address within 15 minutes** after placing an order via the “thank you” page + order status page once order is placed.
-* After this time, **no changes can be made.**
-* **Please note that editing products, adding items, or merging orders is not possible.**
-
-5️⃣ Stock Updates
-
-* Use the **“Notify when back in stock”** option to receive alerts.
-* No ETA for restock times during the Black Friday campaign.
-
-6️⃣ Replacement Vouchers & Discount Codes
-
-* During the Black Friday promotion, the system temporarily disables the use of replacement vouchers and discount codes.
-* Once the promotional period ends, these codes will automatically become valid and usable again.
+ Thank you for your patience and understanding during the seasonal peak.
 
 Knowledge base
 ----------
