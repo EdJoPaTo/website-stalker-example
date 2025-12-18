@@ -513,6 +513,13 @@ Close
 
  \+€140
 
+ Add-ons
+----------
+
+ Framework Desktop Handle
+
+ \+€20
+
  Add to Bag  Add pre-order to bag
 
  Ships within 5 business days [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
