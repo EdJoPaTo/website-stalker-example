@@ -18,7 +18,7 @@ Zusätzliche IPv4-AdresseZusätzliche IPv4-Adresse, die auf einen Root Server od
 
 pro Monat inkl. 19% MwSt.
 
-[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen/zusaetzliche-ipv4)
+[Jetzt buchen!\>](https://www.netcup.com/de/erweiterungen-kvm/zusaetzliche-ipv4)
 
 Failover IPv4-AdresseIPv4-Adresse, die auf mehreren Root Servern oder VPS genutzt werden kann.
 
