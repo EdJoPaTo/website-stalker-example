@@ -1,4 +1,14 @@
-Geschenke-zeit
+Gutscheine verschenken
+----------
+
+---
+
+ Die einfachste Art Freude zu verschenken
+---
+
+[Gutschein per Mail](https://gutschein.strauss.de/?itemorigin=startseite_XMAS25)
+
+ Geschenke-zeit
 ----------
 
 ---
@@ -35,18 +45,6 @@ Strauss-Style
 ---
 
 [jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
-
- Gutscheine verschenken
-----------
-
----
-
- Die einfachste Art Freude zu verschenken
----
-
-[Gutschein per Mail](https://gutschein.strauss.de/?itemorigin=startseite_XMAS25)
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_XMAS25)
 
 *
 *
@@ -260,21 +258,13 @@ gratis Artikeln
 
 ---
 
-###  Gutschein per Mail  ###
+###  Last Minute Geschenk  ###
 
 ---
 
  Persönlich gestalten. Sofort drucken.
 
 [jetzt entdecken](https://gutschein.strauss.de/?itemorigin=startseite_XMAS25)
-
-###  Gutschein per Post  ###
-
----
-
- Hochwertige Verpackung. Große Wirkung.
-
-[jetzt entdecken](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html?itemorigin=startseite_XMAS25)
 
 ###  Für die Arbeitswelt
 von Morgen  ###
