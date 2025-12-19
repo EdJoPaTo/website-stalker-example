@@ -127,6 +127,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly BLU H&T ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-h-t-zb)
 * [Shelly BLU Button Tough 1](https://kb.shelly.cloud/knowledge-base/shelly-blu-button-tough-1)
 * [Shelly BLU Wall Switch 4](https://kb.shelly.cloud/knowledge-base/shelly-blu-wall-switch-4)
+* [Shelly BLU Wall Switch 4 ZB DK](https://kb.shelly.cloud/knowledge-base/shelly-blu-wall-switch-4-zb-dk)
 * [Shelly BLU RC Button / Shelly BLU RC Button US](https://kb.shelly.cloud/knowledge-base/shelly-blu-rc-button-4-us)
 * [Shelly BLU TRV](https://kb.shelly.cloud/knowledge-base/shelly-blu-trv)
 * [Shelly BLU Gateway Gen3](https://kb.shelly.cloud/knowledge-base/shelly-blu-gateway-gen3)
