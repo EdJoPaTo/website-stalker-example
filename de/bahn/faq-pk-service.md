@@ -3075,7 +3075,7 @@ Das ist zurzeit leider nicht möglich.
 
 Ob Sie Ihr Ticket stornieren können, hängt von dem von Ihnen gebuchten Tarif ab. Die genauen Stornierungsbedingungen finden Sie auf Ihrem Ticket.
 
-Unabhängig von den Tarifbestimmungen können Sie Ihr Ticket auf bahn.de und in der App DB Navigator innerhalb von 3 Stunden nach der Buchung kostenlos sofort stornieren.
+Unabhängig von den Tarifbestimmungen können Sie Ihr Ticket auf bahn.de und in der App DB Navigator innerhalb von 3 Stunden (180 Minuten) nach der Buchung vor dem ersten Geltungstag der Hinfahrt kostenfrei sofort stornieren.
 
 * [Weitere Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 

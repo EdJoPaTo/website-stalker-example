@@ -141,7 +141,7 @@ cirrus nimbini v4 - Pro Edition
 
   SATA Slot 1
 
-  * KeineSamsung 870 EVO 250GB (69,00 €)Samsung 870 EVO 500GB (99,00 €)Samsung 870 EVO 1TB (139,00 €)Samsung 870 EVO 2TB (229,00 €)Samsung 870 EVO 4TB (389,00 €)
+  * KeineWestern Digital Blue SA510 250GB (69,00 €)Western Digital, Blue SA510 500GB (109,00 €)Western Digital, Blue SA510 1TB (149,00 €)Western Digital, Blue SA510 2TB (249,00 €)Western Digital, Blue SA510 4TB (439,00 €)
 
   ##### VESA Wand- und Bildschirmhalterung #####
 

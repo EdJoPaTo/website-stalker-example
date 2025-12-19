@@ -132,6 +132,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly BLU Gateway Gen3](https://kb.shelly.cloud/knowledge-base/shelly-blu-gateway-gen3)
 * [Shelly BLU Distance](https://kb.shelly.cloud/knowledge-base/shelly-blu-distance)
 * [Shelly BLU Remote Control ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-remote-control-zb)
+* [Shelly BLU H&T Display ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-h-t-display-zb)
 * [Shelly BLU RC Button 4 ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-rc-button-4-zb)
 * [Shelly BLU Button Tough 1 ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-button-tough-1-zb)
 
