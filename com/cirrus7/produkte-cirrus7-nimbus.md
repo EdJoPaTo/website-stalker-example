@@ -349,15 +349,6 @@ cirrus nimbus
     SO-DIMM – 4800MHz
 
   * **8 GB DDR5 (1x 8GB)**
-    SO-DIMM – 4800MHz
-  * **16 GB DDR5 (2x 8GB)**
-    SO-DIMM – 4800MHz
-  * **32 GB DDR5 (2x 16GB)**
-    SO-DIMM – 4800MHz
-  * **64 GB DDR5 (2x 32GB)**
-    SO-DIMM – 4800MHz
-
-  * **8 GB DDR5 (1x 8GB)**
     SO-DIMM – 5600MHz
   * **16 GB DDR5 (2x 8GB)**
     SO-DIMM – 5600MHz

@@ -51,73 +51,28 @@ Die Belegt-Anzeige bleibt bis kurz vor Ihrem Ausstieg sichtbar. Diese Funktion i
  Auf welchen Strecken im Nahverkehr kann ich einen Dauer-Sitzplatz reservieren?
 ----------
 
-**Bayern**
-
-München-Nürnberg-Express
-München - Ingolstadt - Nürnberg
-
-Werdenfelsbahn
-München - Garmisch-Partenkirchen - Mittenwald
-München - Oberammergau
-München - Kochel
-Garmisch-Partenkirchen - Reutte i. T.
-
-Main-Spessart-Express
-Würzburg - Gemünden - Aschaffenburg - Frankfurt
-
-Franken-Thüringen-Express
-Nürnberg - Bamberg - Würzburg
-Nürnberg - Bamberg - Lichtenfels - Sonneberg Hbf
-Nürnberg - Bamberg - Lichtenfels - Jena Saalbahnhof
-
-S-Bahn Nürnberg
-S 1 Bamberg - Nürnberg - Lauf (li. Pegnitz) - Hartmannshof
-S 2 Roth - Nürnberg - Feucht - Altdorf
-S 3 Nürnberg - Feucht - Neumarkt
-S 4 Nürnberg - Heilsbronn - Ansbach
-
 **Rheinland-Pfalz, Saarland**
 
-Moseltalbahn:
-Koblenz - Trier
-Wittlich - Perl
-
-Westpfalznetz:
-Kaiserslautern - Bad Kreuznach - Bingen (Rh)
-Kaiserslautern - Kusel
-Kaiserslautern - Lauterecken-Grumbach
-Kaiserslautern - Pirmasens
-Saarbrücken - Pirmasens
-
-Südpfalznetz:
-Karlsruhe - Landau-Neustadt (Wstr.) - Kaiserslautern -
-
 RE Netz Südwest (Süwex):
-Koblenz -Trier - Saarbrücken - Kaiserslautern - Ludwigshafen - Mannheim
-Mainz - Mannheim
-Mainz - Karlsruhe
-Koblenz - Mainz - Frankfurt (Main)
+Koblenz -Trier – Saarbrücken – Kaiserslautern – Ludwigshafen – Mannheim
+Frankfurt – Mainz – Bingen (Rhein) – Koblenz
+Frankfurt – Mainz – Ludwigshafen – Mannheim
+Frankfurt – Mainz – Ludwigshafen – Karlsruhe
 
 **Niedersachsen, Bremen**
 
 Expresskreuz
-RE 1: Hannover Hbf - Bremen Hbf - Norddeich
-RE 8: Hannover Hbf - Bremen Hbf - Bremerhaven-Lehe
-RE 9: Osnabrück Hbf - Bremen Hbf - Bremerhaven-Lehe
+RE 1: Hannover Hbf – Bremen Hbf – Norddeich
+RE 8: Hannover Hbf – Bremen Hbf – Bremerhaven-Lehe
+RE 9: Osnabrück Hbf – Bremen Hbf – Bremerhaven-Lehe
 
 **Schleswig-Holstein**
 
-RB 64 (Husum - Bad St. Peter-Ording)
-RE 72 (Kiel Hbf - Flensburg)
-RB 73 (Kiel Hbf - Eckernförde)
-RE 74 (Kiel Hbf - Husum)
-RB 75 (Kiel Hbf - Rendsburg)
-RB 76 (Kiel Hbf - Kiel-Oppendorf)
-RE 8/80 (Lübeck Hbf - Hamburg Hbf)
-RB 81 (Hamburg Hbf - Bad Oldesloe)
-RE 83 (Kiel Hbf - Lübeck Hbf - Lüneburg)
-RB 84 (Kiel Hbf - Lübeck Hbf)
-RB 85 (Lübeck Hbf - Puttgarden)
+RE 7/70: Kiel - Flensburg – Hamburg
+RE 8/80 (Lübeck Hbf – Hamburg Hbf)
+X 85: Lübeck Hbf – Puttgarden
+RB 85: Lübeck Hbf – Neustadt (Holstein)
+RB 86: Lübeck Hbf – Lübeck Travemünde Strand
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
