@@ -390,6 +390,16 @@ pro Monat (inkl. 19% MWSt.)
 
 18
 
+managed PS 2000 G12
+
+20 % Rabatt
+
+statt 59,63 €, dauerhaft
+
+47,71 €
+
+pro Monat (inkl. 19% MWSt.)
+
 19
 
 20
