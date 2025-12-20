@@ -400,7 +400,27 @@ statt 59,63 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-19
+managed PS 2000 G12
+
+20 % Rabatt
+
+statt 59,63 €, dauerhaft
+
+47,71 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/managed-cloud/managed-server/managed-ps-2000-g12-nue-adv25)
+
+.eu Domain
+
+46 % Rabatt
+
+dauerhaft
+
+0,42 €
+
+pro Monat (inkl. 19% MWSt.)
 
 20
 
