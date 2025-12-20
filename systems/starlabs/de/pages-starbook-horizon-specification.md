@@ -74,12 +74,13 @@ Engine
 
 Left
  HDMI
- 2x USB Type-C (20 Gbps)
+ USB Type-C (10 Gbps)
 
  HDMI Version: 2.1
- USB-C version: 3.2 Gen 2x2
- USB-C Interface: DisplayPort (DP Alt Mode)
-Power Delivery: 3.0
+ USB-C version: 3.2 Gen 2
+ USB-C
+Interface: DisplayPort (DP Alt Mode)
+ Power Delivery: 3.0
 
 Right
  USB Type-A 3.2 Gen 2 (up to 10Gbps)
@@ -88,7 +89,6 @@ Right
 Combination Jack
 
  3.5mm support: Headphone/Microphone
- USB-C Interface: Display Port (DP Alt Mode)
  USB version: 3.2 Gen 2 (up to 10 Gbps)
 
  Keyboard and Trackpad
