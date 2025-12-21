@@ -422,7 +422,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-20
+.eu Domain
+
+46 % Rabatt
+
+dauerhaft
+
+0,42 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/domain/aktion-.eu-domain-adv25)
+
+.li Domain
+
+74 % Rabatt
+
+dauerhaft
+
+0,60 €
+
+pro Monat (inkl. 19% MWSt.)
 
 21
 
