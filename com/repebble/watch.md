@@ -128,7 +128,7 @@ Don't want to pre-order? [Sign up for updates](/signup)
 
 Already placed a pre-order? [Manage your order](/manage)
 
-[Help](https://ndocs.repebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric)
+[Help](https://ndocs.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric)
 
 © 2025 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
 
