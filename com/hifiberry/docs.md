@@ -307,6 +307,12 @@ adc, dac, dsp, loudspeaker
 
 updated 2025-03-13
 
+[Implementing an analog-to-Airplay bridge](https://www.hifiberry.com/docs/software/implementing-an-analog-to-airplay-bridge/)
+
+other
+
+updated 2025-12-21
+
 [Projects](https://www.hifiberry.com/docs/projects/)
 
 [Tivoli Squeezebox Radio](https://www.hifiberry.com/docs/projects/tivoli-squeezebox-radio/)
