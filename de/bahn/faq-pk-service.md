@@ -3210,13 +3210,6 @@ Nein, Sie können Bonvoyo nicht für Zahlungen im Fahrkartenshop verwenden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-bonvoyo-im-fahrkartenshop-bezahlen)
 
- Kann ich mit einer vorläufigen BahnCard BahnBonus Punkte sammeln?
-----------
-
-Ja, sofern Sie zu BahnBonus angemeldet sind und eine Sammelnummer besitzen, können Sie mit dieser weiterhin BahnBonus Punkte sammeln.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-einer-vorlaeufigen-bahncard-bahnbonus-punkte-sammeln)
-
  Kann ich noch im Zug ein Ticket kaufen?
 ----------
 
@@ -3238,9 +3231,9 @@ Nein, für Zahlungen im Fahrkartenshop können Sie PayPal nicht nutzen.
 
 Bahnprämien können unterschiedliche Weitergabebedingungen haben:
 
-* Übertragbare Bahnprämien: Können verschenkt werden und berechtigen die Inhaber zur Fahrt ohne Begleitung eines BahnBonus-Teilnehmenden.
-* Prämien in Begleitung: Können für eine andere Person gebucht werden und berechtigen zu einer Fahrt in Begleitung eines BahnBonus-Teilnehmenden.
-* Nicht übertragbare Bahnprämien: Sind persönlich und gelten ausschließlich für BahnBonus-Teilnehmende; sie können nicht weitergegeben werden.
+* Übertragbare Bahnprämien: Können verschenkt werden und berechtigen die Inhabenden zur Fahrt ohne Begleitung eines BahnBonus Teilnehmenden.
+* Prämien in Begleitung: Können für eine andere Person gebucht werden und berechtigen zu einer Fahrt in Begleitung eines BahnBonus Teilnehmenden.
+* Nicht übertragbare Bahnprämien: Sind persönlich und gelten ausschließlich für BahnBonus Teilnehmende; sie können nicht weitergegeben werden.
 * Die für die jeweilige Prämie geltende Bedingung finden Sie in der entsprechenden Prämienbeschreibung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-praemientickets-auch-verschenken)
@@ -3989,16 +3982,16 @@ Sie sammeln BahnBonus Prämienpunkte auf den Kauf von allen Speisen und Getränk
  Wie lange sind meine BahnBonus Punkte gültig?
 ----------
 
-Prämienpunkte sind 3 Jahre gültig und Statuspunkte sind ein Jahr gültig.
+Prämienpunkte sind 3 Jahre gültig und Statuspunkte sind exakt 1 Jahr gültig.
 
-Die Gültigkeitsdauer beginnt ab dem 1.Geltungstag. Die Punkte verfallen zum Quartalsende. Punkte, die ihre Frist noch nicht erreicht haben, bleiben auf Ihrem Punktekonto erhalten. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie die Gültigkeit jederzeit einsehen.
+Die Gültigkeitsdauer beginnt ab dem ersten Geltungstag. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie die Gültigkeit jederzeit einsehen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-gueltigkeit)
 
- Bekomme ich BahnBonus Punkte, wenn ich mit einem Gutschein bezahle?
+ Bekomme ich BahnBonus Prämienpunkte, wenn ich in der Bordgastronomie mit einem Gutschein bezahle?
 ----------
 
-Ja, beim Einlösen eines Wertgutscheins, wird für die Punktegutschrift der volle Kaufpreis berücksichtigt.
+Ja. Zahlen Sie in der Bordgastronomie mit einem Gutschein, bekommen Sie nur Punkte auf den tatsächlichen Zahlbetrag gurgeschrieben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-gutschein)
 
@@ -4033,7 +4026,7 @@ Ja, die BahnCard ist keine Voraussetzung, um BahnBonus Punkte zu sammeln: Auch o
  Wie funktioniert das Sammeln von BahnBonus Punkten mit der BahnCard?
 ----------
 
-Ihre BahnCard-Nummer und BahnBonus-Nummer sind in einem DB Kundenkonto verknüpft und können dieselbe Sammelnummer enthalten. Das bedeutet, bei Fahrkartenkäufen mit Angabe Ihrer BahnCard-Nummer, sammeln Sie gleichzeitig Prämien- und Statuspunkte. Auch beim Erwerb und bei Verlängerungen Ihrer BahnCard, werden Ihnen BahnBonus Punkte gutgeschrieben. Vorausgesetzt, der Sammelwunsch ist angegeben oder das automatische Sammeln aktiviert.
+Ihre BahnCard Nummer und BahnBonus Nummer sind in einem DB Kundenkonto verknüpft und können dieselbe Sammelnummer enthalten. Das bedeutet, bei Fahrkartenkäufen mit Angabe Ihrer BahnCard Nummer, sammeln Sie gleichzeitig Prämien- und Statuspunkte. Auch beim Erwerb und bei Verlängerungen Ihrer BahnCard, werden Ihnen BahnBonus Punkte gutgeschrieben. Vorausgesetzt, der Sammelwunsch ist angegeben oder das automatische Sammeln aktiviert.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-wie-mit-bahncard)
 
@@ -4042,7 +4035,7 @@ Ihre BahnCard-Nummer und BahnBonus-Nummer sind in einem DB Kundenkonto verknüpf
 
 Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben.
 
-Navigieren Sie in der App zu Ihrer digitalen BahnBonus Karte. Tippen Sie auf den darunter liegenden Button "Scannen & Punkte sammeln" und lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
+Tippen Sie in der BahnBonus App oben rechts auf das QR-Code Symbol. Lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
 
 * [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
 * [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
@@ -5080,7 +5073,7 @@ Wir schalten den Komfort Check-in kurz vor Abfahrt des Zuges frei. Checken Sie s
  Wann muss ich mich als BahnBonus Teilnehmer:in ausweisen?
 ----------
 
-Bei Fahrkartenprämien, die nur für BahnBonus Teilnehmende persönlich gelten, bei exklusiven BahnBonus Sparpreisangeboten und bei der Nutzung von Statusvorteilen, müssen Sie sich im Zug legitimieren. Das geht mit Ihrer BahnCard, der BahnBonus Card oder der digitalen BahnBonus Karte.
+Bei Fahrkartenprämien, die nur für BahnBonus Teilnehmende persönlich gelten, bei exklusiven BahnBonus Sparpreisangeboten und bei der Nutzung von Statusvorteilen, müssen Sie sich im Zug legitimieren. Das geht mit Ihrer BahnBonus Card oder der digitalen BahnBonus Karte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-muss-ich-mich-als-bahnbonus-teilnehmer-in-ausweisen)
 
@@ -5781,14 +5774,14 @@ Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen
 Prämienpunkte...
 
 * können Sie gegen BahnBonus Prämien eintauschen
-* erhalten Sie für Umsätze bei sammelfähigen Angeboten der DB und Sammelpartnern
-* sind 3 Jahre gültig
+* erhalten Sie für Umsätze bei sammelfähigen Angeboten der DB (BahnCards, Tickets, in der Bordgastronomie) und bei Sammelpartnern
+* sind 3 Jahre zum Quartalsende gültig
 
 Statuspunkte...
 
 * dienen zum Erreichen eines Statuslevels
-* erhalten Sie nur für Umsätze bei sammelfähigen Angeboten der DB
-* sind ein Jahr gültig.
+* erhalten Sie nur für Umsätze bei sammelfähigen Angeboten der DB (BahnCards, Tickets)
+* sind 1 Jahr gültig.
 
 Hier erhalten Sie eine [Übersicht der sammelfähigen Angebote der DB](http://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife) und eine [Übersicht der BahnBonus Sammelpartner](http://www.bahn.de/service/bahnbonus/vorteile).
 
@@ -6094,7 +6087,7 @@ Die Mitarbeiter:innen der DB Informationen und in den DB Reisezentren bestätige
  Wo kann ich den Punkteverfall einsehen und werde ich informiert, wenn meine Punkte bald verfallen?
 ----------
 
-Sofern eine Anmeldung zum Newsletter vorliegt, werden Sie quartalsweise per E-Mail über Ihren Punktestand und -verfall informiert. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie dies jederzeit einsehen.
+Sofern Sie [zur E-Mail-Kommunikation angemeldet](https://www.bahn.de/buchung/kundenkonto/permissioncenter) sind und „Persönliche Informationen und Gutscheine" erhalten, werden Sie quartalsweise per E-Mail über Ihren Punktestand und -verfall informiert. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie dies jederzeit einsehen.
 
 * [Zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
 
@@ -6337,13 +6330,6 @@ Gehen Sie zu einem DB Reisezentrum, um den Umtausch oder die Erstattung vorzuneh
 4. Sollte Ihr über bahn.de gebuchtes Ticket nach dem Login im DB Navigator nicht automatisch angezeigt werden, können Sie das Ticket manuell hinzufügen, wie oben beschrieben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-mein-online-ticket-nach-der-buchung)
-
- Wie erhalte ich meine Prämie?
-----------
-
-Je nach bestellter Prämie erfolgt die Zustellung per E-Mail als Paket oder per Brief. Für den Versand Ihrer Wunschprämie entstehen keine weiteren Kosten (Ausnahmen finden Sie in der Prämienbeschreibung). Die Zustellung der Prämie per Post erfolgt innerhalb von 10 Tagen; per E-Mail innerhalb von 48 Stunden. Zusätzlich haben Sie die Möglichkeit einige Bahnprämien direkt als Online-Ticket oder Handy- Ticket zu bestellen. Hinweis: Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-meine-praemie)
 
  Wie erkenne ich, ob das City-Ticket bei meiner Fahrkarte mit dabei ist?
 ----------
@@ -7090,7 +7076,7 @@ Ihren Status können Sie nur mit der digitalen BahnBonus Karte in der BahnBonus 
  Wie kann ich mich für die E-Mail-Kommunikation der DB Fernverkehr AG anmelden?
 ----------
 
-In Ihrem DB Kundenkonto auf bahn.de und in Ihrem Profilbereich im DB Navigator können Sie sich im Bereich „Newsletter & Services“ für die E-Mail-Kommunikation anmelden. Dazu aktivieren Sie den Reiter „Persönliche Informationen und Gutscheine". Alternativ können Sie sich auch über die BahnBonus App zur E-Mail-Kommunikation anmelden. Dazu wählen Sie in Ihrem Profilbereich den Reiter „Benachrichtigungen" und aktivieren die „E-Mail-Kommunikation".
+In Ihrem DB Kundenkonto auf bahn.de und in Ihrem Profilbereich im DB Navigator können Sie sich im Bereich „Newsletter & Services“ für die E-Mail-Kommunikation anmelden. Dazu aktivieren Sie den Umschalter (Toggle) „Persönliche Informationen und Gutscheine". Alternativ können Sie sich auch über die BahnBonus App zur E-Mail-Kommunikation anmelden. Dazu wählen Sie in Ihrem Profilbereich den Reiter „Benachrichtigungen" und aktivieren die „E-Mail-Kommunikation".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mich-fuer-die-e-mail-kommunikation-der-db-fernverkehr-ag-registrieren)
 
@@ -7239,7 +7225,7 @@ Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum H
 * Die Zustellung per Post als Brief oder Paket erfolgt innerhalb von 10 Tagen - für den Versand entstehen keine Kosten.
 * Die Zustellung per E-Mail erfolgt am Tag der Bestellung - spätestens innerhalb 4 Tagen.
 * Sofortbuchungen können Sie direkt als Online-Ticket oder Handy-Ticket herunterladen.
-* Der Bordgastro Gutschein erscheint direkt als Barcode in der App.
+* Der Bordgastronomie-Gutschein erscheint direkt als Barcode in der BahnBonus App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
 
@@ -8003,13 +7989,14 @@ DB Geschenkgutscheine können beim Kauf von DB Produkten (z.B. BahnCards) im Bez
 
 Mit der BahnBonus App können Sie ganz bequem am Vorteilsprogramm teilnehmen:
 
-* Ihre Digitale BahnBonus Karte und Sammelnummer haben Sie immer griffbereit
-* Den aktuellen Prämien- und Statuspunktestand, inklusive aller Transaktionen und Hinweise zum Punkteverfall, immer im Blick
-* Als Statuskunde nutzen Sie all Ihre Statusvorteile, die nur über die App einlösbar sind
-* Sie haben Zugang zu tollen Angeboten und Aktionen bei der DB und Partnerunternehmen
-* Die Möglichkeit, in der PrämienWelt Ihre Prämienpunkte direkt gegen Prämien einzutauschen
-* Den Bordgastro Gutschein als Barcode direkt zum Einlösen bereit
-* Informationen zu Ihrer persönlichen CO₂-Einsparung
+* Ihre digitale BahnBonus Karte und Sammelnummer haben Sie immer griffbereit
+* Behalten Sie Ihren aktuellen Prämien- und Statuspunktestand, inklusive aller Transaktionen und Hinweise zum Punkteverfall, immer im Blick
+* Mit dem Status lösen Sie Ihre Statusvorteile direkt über die App ein
+* Sie haben Zugang zu großartigen Angeboten und Aktionen bei der DB und Partnerunternehmen
+* Lösen Sie Ihre Prämienpunkte direkt gegen Prämien ein
+* Nur mit der App können Sie Prämienpunkte in der Bordgastronomie sammeln
+* Sie haben den Bordgastronomie Gutschein als Barcode direkt zum Einlösen bereit
+* Finden Sie Informationen zu Ihrer persönlichen CO₂-Einsparung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-brauche-ich-die-bahnbonus-app)
 
