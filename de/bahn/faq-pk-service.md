@@ -799,6 +799,15 @@ Die CO₂-Sparuhr macht auch unterschiedliche Auslastungen zu unterschiedlichen 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auslastung-zuege-einsparung-co2)
 
+ Was ist BahnBonus?
+----------
+
+BahnBonus ist das Vorteilsprogramm der Deutschen Bahn. Sammeln Sie wertvolle Punkte beim BahnCard und Ticketkauf und lösen Sie diese in Bahnvorteile, wie Sitzplatzreservierungen oder Freifahrten ein.
+
+Als Vielfahrende erhalten Sie ab 1.500 gesammelten Statuspunkten ein Statuslevel mit weiteren besonderen Vorteilen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnbonus-programm)
+
  Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
 ----------
 
