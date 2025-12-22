@@ -444,7 +444,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-21
+.li Domain
+
+74 % Rabatt
+
+dauerhaft
+
+0,60 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/en/domain/aktion-.li-domain-adv25)
+
+RS 4000 G12 Pro
+
+\+ 100 % NVMe / 1. Monat gratis
+
+dauerhaft
+
+31,64 €
+
+pro Monat (inkl. 19% MWSt.)
 
 22
 
