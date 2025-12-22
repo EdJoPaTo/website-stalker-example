@@ -50,20 +50,6 @@ Strauss-Style
 *
 *
 
- Verlängertes Umtauschrecht
-==========
-
----
-
- innerhalb Deutschlands bis zum 31.01.2026
-
- Verlängertes Umtauschrecht
-==========
-
----
-
- innerhalb Deutschlands bis zum 31.01.2026
-
  Geschenkideen
 ----------
 
@@ -343,31 +329,17 @@ Jetzt Freude verschenken!
 
 [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
 
- Verlängertes Umtauschrecht
+ 30 TAGE RÜCKGABERECHT
 
 [mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
 
- KOSTENLOSE LIEFERUNG
+ KOSTENLOSE RÜCKSENDUNGEN
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Lieferung)
+[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
 
  KAUF AUF RECHNUNG
 
 [mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen)
-
- GRATIS VERSAND
-==========
-
----
-
- innerhalb Deutschlands bis zum 22.12.2025
-
- GRATIS VERSAND
-==========
-
----
-
- innerhalb Deutschlands bis zum 22.12.2025
 
 [Strauss Allemagne, Français](https://www.strauss.com/de/fr)
 

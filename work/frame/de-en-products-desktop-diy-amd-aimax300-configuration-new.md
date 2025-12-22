@@ -63,11 +63,13 @@ System
   * 40 Graphics Cores, up to 2.9GHz
   * 64GB of non-upgradeable LPDDR5x
 
-* Max+ 395 - 128GB  Pre-order  €2,329
+* Max+ 395 - 128GB  €2,329
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
   * 128GB of non-upgradeable LPDDR5x
+
+   Backordered - Ships in 2-3 weeks
 
 **Primary Storage (M.2 2280)**
 
@@ -522,6 +524,6 @@ Close
 
  Add to Bag  Add pre-order to bag
 
- Ships within 5 business days [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Some options delay shipping [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
 
  Cancel your pre-order any time before shipment for a full refund [30-day return guarantee + limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
