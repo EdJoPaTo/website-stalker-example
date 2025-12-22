@@ -1,345 +1,27 @@
-Gutscheine verschenken
-----------
+Strauss wünscht
 
----
-
- Die einfachste Art Freude zu verschenken
----
-
-[Gutschein per Mail](https://gutschein.strauss.de/?itemorigin=startseite_XMAS25)
-
- Geschenke-zeit
-----------
-
----
-
- Weihnachtlich sparen: Sets mit
-Gratis-Zugaben
----
-
-[Herren-Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-bundhose-winter-bundhose-e-s-motion-2020-3164930-13906-722.html?itemorigin=startseite_XMAS25)
-
-[Damen-Set kaufen](https://www.strauss.com/de/de/sale-aktions-sets-bekleidung/set-damenhose-winter-damenhose-e-s-motion-2020-3164940-13919-722.html?itemorigin=startseite_XMAS25)
-
-[alle Sets entdecken](https://www.strauss.com/de/de/geschenkideen-bekleidungs-sets/?itemorigin=startseite_XMAS25)
-
- \+gratis
----
-
-\+ e.s. Lunch-
-bag
-
- \+ gratis
----
-
-\+ e.s. Lunch-
-bag
-
- Neuheiten
-----------
-
----
-
- Zeit für Gemütlichkeit im
-Strauss-Style
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
-
-*
-*
-*
-
- Geschenkideen
-----------
-
----
-
-[Bekleidung](https://www.strauss.com/de/de/geschenkideen-bekleidung/?itemorigin=startseite_XMAS25)
-
-[Accessoires](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseite_XMAS25)
-
-[Neuheiten](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
-
-[Weihnachts-Sets](https://www.strauss.com/de/de/geschenkideen-weihnachts-sets/?itemorigin=startseite_XMAS25)
-
-[Fanwear](https://www.strauss.com/de/de/geschenkideen-fanwear/?itemorigin=startseite_XMAS25)
-
-[Bekleidung](https://www.strauss.com/de/de/geschenkideen-bekleidung/?itemorigin=startseite_XMAS25)
-
-[Accessoires](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseite_XMAS25)
-
-[Neuheiten](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseite_XMAS25)
-
-[Weihnachts-Sets](https://www.strauss.com/de/de/geschenkideen-weihnachts-sets/?itemorigin=startseite_XMAS25)
-
-[Fanwear](https://www.strauss.com/de/de/geschenkideen-fanwear/?itemorigin=startseite_XMAS25)
-
- Für
+ Frohe
+weihnachten
 ==========
 
 ---
 
-###  Familie & Freunde  ###
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/?itemorigin=startseite_XMAS25)
-
- Für
+ Last Minute
+Geschenk
 ==========
 
 ---
 
-###  Kids  ###
+[Gutschein kaufen](https://gutschein.strauss.de/F6161/?itemorigin=FroheWeihnachtenStartseite)
 
----
+ Gutschein kaufen und noch am
+gleichen Tag verschenken!
 
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseite_XMAS25)
+ Motiv wählen
 
- Passende
-==========
+ Gutschein ausdrucken
 
----
-
-###  Accessoires  ###
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseite_XMAS25)
-
- Für
-==========
-
----
-
-###  Familie & Freunde  ###
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/?itemorigin=startseite_XMAS25)
-
- Für
-==========
-
----
-
-###  Kids  ###
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseite_XMAS25)
-
- Passende
-==========
-
----
-
-###  Accessoires  ###
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseite_XMAS25)
-
- Geschenke
-
-###  unter 25 €<sup>*</sup>  ###
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseite_XMAS25) [](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseite_XMAS25)
-
- Geschenke
-
-###  von 25 € bis 50 €<sup>*</sup>  ###
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseite_XMAS25) [](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseite_XMAS25)
-
- Geschenke
-
-###  über 50 €<sup>*</sup>  ###
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseite_XMAS25) [](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseite_XMAS25)
-
- \*Die Preisangabe bezieht sich auf den Nettopreis
-
- Weihnachts-Sets
-----------
-
----
-
-[
-
-Herren
-
-]()
-
-[Damen](https://www.strauss.com/de/de#!christmassets/women)
-
-[Kinder](https://www.strauss.com/de/de#!christmassets/kids)
-
-[Werkzeuge & Accessoires](https://www.strauss.com/de/de#!christmassets/tools)
-
-[
-
-Herren
-
-]()
-
-[Damen](https://www.strauss.com/de/de#!christmassets/women)
-
-[Kinder](https://www.strauss.com/de/de#!christmassets/kids)
-
-[Werkzeuge & Accessoires](https://www.strauss.com/de/de#!christmassets/tools)
-
- Weihnachts-Sets
-----------
-
----
-
-[
-
-Herren
-
-]()
-
-[Damen](https://www.strauss.com/de/de#!christmassets/women)
-
-[Kinder](https://www.strauss.com/de/de#!christmassets/kids)
-
-[Werkzeuge & Accessoires](https://www.strauss.com/de/de#!christmassets/tools)
-
- SET: Bundhose + Winter Bundhose e.s.motion 2020
-
-\+ gratis Lunchbag
-
- SET: Regenjacke + Funkt.Troyer e.s.concrete
-
-\+ gratis Thermobecher
-
-\+ gratis Brotdose large
-
- SET: 2x Worker Cargohose e.s.vintage
-
-\+ gratis Food-Container
-
-\+ gratis Besteckset
-
-[Alle Herren-Sets entdecken](https://www.strauss.com/de/de/f/geschenkideen-bekleidungs-sets/Herren_Damen_Kinder:Herren/?itemorigin=startseite_XMAS25)
-
-[Alle Herren-Sets entdecken](https://www.strauss.com/de/de/f/geschenkideen-bekleidungs-sets/Herren_Damen_Kinder:Herren/?itemorigin=startseite_XMAS25)
-
- mit tollen
-gratis Artikeln
-----------
-
----
-
- Klassiker unter den Geschenken
-----------
-
----
-
-###  Last Minute Geschenk  ###
-
----
-
- Persönlich gestalten. Sofort drucken.
-
-[jetzt entdecken](https://gutschein.strauss.de/?itemorigin=startseite_XMAS25)
-
-###  Für die Arbeitswelt
-von Morgen  ###
-
----
-
-Der Werkzeugkoffer für Next Generation Work
-
-[zur Story](https://www.strauss.com/de/de/Toolbox_XR?itemorigin=startseite_XMAS25)
-
-###  Für die Arbeitswelt
-von Morgen  ###
-
----
-
-Der Werkzeugkoffer für Next Generation Work
-
-[zur Story](https://www.strauss.com/de/de/Toolbox_XR?itemorigin=startseite_XMAS25)
-
- Partner-Kollektionen
-----------
-
----
-
-[FC Bayern x STRAUSS](https://www.strauss.com/de/de/geschenkideen-fcb/?itemorigin=startseite_XMAS25)
-
-[Eintracht x STRAUSS](https://www.strauss.com/de/de/geschenkideen-eintracht-x-strauss/?itemorigin=startseite_XMAS25)
-
-[NFL x STRAUSS](https://www.strauss.com/de/de/geschenkideen-nfl-x-strauss/?itemorigin=startseite_XMAS25)
-
-[alle Kollaborationen](https://www.strauss.com/de/de/geschenkideen-fanwear/?itemorigin=startseite_XMAS25)
-
-[FC Bayern x STRAUSS](https://www.strauss.com/de/de/geschenkideen-fcb/?itemorigin=startseite_XMAS25)
-
-[Eintracht x STRAUSS](https://www.strauss.com/de/de/geschenkideen-eintracht-x-strauss/?itemorigin=startseite_XMAS25)
-
-[NFL x STRAUSS](https://www.strauss.com/de/de/geschenkideen-nfl-x-strauss/?itemorigin=startseite_XMAS25)
-
-[alle Kollaborationen](https://www.strauss.com/de/de/geschenkideen-fanwear/?itemorigin=startseite_XMAS25)
-
- NEU
-
-###  FC Bayern x Strauss  ###
-
----
-
- Die Kollektion für große und kleine Fans.
-Jetzt Freude verschenken!
-
-[für Herren](https://www.strauss.com/de/de/fcb/?itemorigin=startseite_XMAS25)
-
-[für Kinder](https://www.strauss.com/de/de/fcb-kinder/?itemorigin=startseite_XMAS25)
-
-####  Newsletter  ####
-
----
-
- abonnieren & sparen
----
-
-[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
-
- Sonder- & Rabattaktionen
----
-
- Produkte zum Tiefpreis
----
-
- exklusive Gutscheine
----
-
-[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3) [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
-
- Exklusive Newsletter-Vorteile sichern
----
-
-[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
-
- 30 TAGE RÜCKGABERECHT
-
-[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
-
- KOSTENLOSE RÜCKSENDUNGEN
-
-[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
-
- KAUF AUF RECHNUNG
-
-[mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen)
+ Verschenken
 
 [Strauss Allemagne, Français](https://www.strauss.com/de/fr)
 
@@ -394,6 +76,8 @@ Jetzt Freude verschenken!
 [Strauss Global, Français](https://www.strauss.com/global/fr)
 
 []()
+
+zzgl. Versandkosten
 
 [Service 0 60 50 / 97 10 12](tel:+496050971012)
 
@@ -467,7 +151,9 @@ Sprachauswahl
 
 de en fr
 
- Alle Preise zzgl. gesetzlicher MwSt.
+Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
+
+ Alle Preise zzgl. gesetzlicher MwSt. zzgl. Versandkosten bei Bestellungen unter 150,00 € Warenwert.
 
 * [Datenschutz](https://www.strauss.com/de/de/Rechtliches/Datenschutz)
 * [AGB](https://www.strauss.com/de/de/Rechtliches/AGB)
