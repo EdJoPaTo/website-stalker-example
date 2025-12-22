@@ -1268,6 +1268,7 @@
 * [Wasserwaage](https://www.wdrmaus.de/filme/sachgeschichten/wasserwaage.php5)
 * [Wattpostbote](https://www.wdrmaus.de/filme/sachgeschichten/wattpostbote.php5)
 * [Weckmann](https://www.wdrmaus.de/filme/sachgeschichten/weckmann.php5)
+* [Weihnachtsbaum aus dem 3D-Drucker](https://www.wdrmaus.de/filme/sachgeschichten/weihnachtsbaum_aus_dem_3d_drucker.php5)
 * [Weihnachtsbaumleasing](https://www.wdrmaus.de/filme/sachgeschichten/weihnachtsbaumleasing.php5)
 * [Weihnachtsfrucht](https://www.wdrmaus.de/filme/sachgeschichten/weihnachtsfrucht.php5)
 * [Weihnachtsgeschenkpapier](https://www.wdrmaus.de/filme/sachgeschichten/weihnachtsgeschenkpapier.php5)
