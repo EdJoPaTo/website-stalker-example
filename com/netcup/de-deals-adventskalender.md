@@ -388,7 +388,17 @@ dauerhaft ab
 
 pro Monat (inkl. 19% MWSt.)
 
-18
+RS 1000 G12 Pro
+
+\+ 100 % NVMe / 1. Monat gratis
+
+dauerhaft ab
+
+10,41 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12-pro-nue-adv25#rs-1000-g12-pro-sin-adv25)
 
 managed PS 2000 G12
 
@@ -466,7 +476,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-22
+RS 4000 G12 Pro
+
+\+ 100 % NVMe / 1. Monat gratis
+
+dauerhaft
+
+31,64 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-4000-g12-pro-nue-adv25)
+
+VPS 4000 G12 Pro
+
+\+ 100 % NVMe
+
+dauerhaft
+
+25,58 €
+
+pro Monat (inkl. 19% MWSt.)
 
 23
 
