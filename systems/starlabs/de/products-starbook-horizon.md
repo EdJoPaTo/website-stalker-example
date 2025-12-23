@@ -15,7 +15,7 @@ Default Title
 
 Operating System
 
- Ubuntu 24.04  Qubes 4.2.4  elementary OS 8.0.1  Linux Mint 22.1 Cinnamon  Manjaro 25 XFCE  MX Linux 23.6 XFCE  Zorin OS 18 Core  None  Zorin OS 18 Pro (+ €13,37)  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 GNOME  Manjaro 25 Plasma  MX Linux 23.6 KDE  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)
+ Ubuntu 24.04  Qubes 4.2.4  elementary OS 8.1  Linux Mint 22.1 Cinnamon  Manjaro 25 XFCE  MX Linux 23.6 XFCE  Zorin OS 18 Core  None  Zorin OS 18 Pro (+ €13,37)  Linux Mint 22.1 MATE  Linux Mint 22.1 XFCE  Manjaro 25 GNOME  Manjaro 25 Plasma  MX Linux 23.6 KDE  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)
 
  Power Plug
 
