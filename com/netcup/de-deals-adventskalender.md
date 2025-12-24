@@ -498,7 +498,27 @@ dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-23
+VPS 4000 G12 Pro
+
+\+ 100 % NVMe
+
+dauerhaft
+
+25,58 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-4000-g12-pro-nue-adv25)
+
+Webhosting 1000
+
+50 % Rabatt / Spendenprodukt
+
+statt 2,17 €, dauerhaft
+
+1,08 €
+
+pro Monat (inkl. 19% MWSt.)
 
 24
 
