@@ -7,7 +7,20 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
- ⚠️ Delivery Update for Black Friday Orders
+ ⚠️ Holiday Notice: Christmas & New Year Support ⚠️
+----------
+
+ Please note that our support team will be operating with reduced capacity during the **Christmas and New Year holiday period**.
+
+ We will do our best to respond to all requests as quickly as possible, however some response delays may occur.
+
+ If you have already submitted a ticket, there is no need to create additional ones. Your request is safely in our system and will be handled by our support team.
+
+ Thank you for your patience and understanding during the holiday season.
+
+ ✨ From all of us — **Merry Christmas and Happy New Year!** ✨
+
+ ⚠️ Delivery Update for Black Friday Orders ⚠️
  (20 November – 2 December)
 ----------
 
@@ -23,7 +36,7 @@ Hi, how can we help you?
 
 **Due to the increased number of requests during this period, our support team is also operating under higher load. We kindly ask customers to allow additional time before requesting an update on their order status.**
 
- If your tracking shows no new update for **10+ business days from last status** please contact us and we will request a check with the courier.
+ If your tracking shows no new update for **12+ business days from last status** please contact us and we will request a check with the courier.
 
 Due to the overall congestion in courier networks during this period, even newly shipped parcels may experience slower transit times.
 
