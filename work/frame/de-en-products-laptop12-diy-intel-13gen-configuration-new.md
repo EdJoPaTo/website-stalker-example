@@ -104,6 +104,8 @@ Memory
 * DDR5-5600 - 48GB (1 x 48GB) +€692
 * None (bring your own)
 
+  Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
+
 **Storage**
 
  Choose an option
