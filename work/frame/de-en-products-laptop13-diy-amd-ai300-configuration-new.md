@@ -107,14 +107,14 @@ Close
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB) +€68
-* DDR5-5600 - 16GB (2 x 8GB) +€136
-* DDR5-5600 - 16GB (1 x 16GB) +€136
-* DDR5-5600 - 32GB (2 x 16GB) +€272
-* DDR5-5600 - 32GB (1 x 32GB) +€272
-* DDR5-5600 - 64GB (2 x 32GB) +€544
-* DDR5-5600 - 48GB (1 x 48GB) +€408
-* DDR5-5600 - 96GB (2 x 48GB) +€816
+* DDR5-5600 - 8GB (1 x 8GB) +€90
+* DDR5-5600 - 16GB (2 x 8GB) +€180
+* DDR5-5600 - 16GB (1 x 16GB) +€180
+* DDR5-5600 - 32GB (2 x 16GB) +€360
+* DDR5-5600 - 32GB (1 x 32GB) +€360
+* DDR5-5600 - 64GB (2 x 32GB) +€720
+* DDR5-5600 - 48GB (1 x 48GB) +€692
+* DDR5-5600 - 96GB (2 x 48GB) +€1,384
 * None (bring your own)
 
 **Storage**
