@@ -1,10 +1,9 @@
-Der netcup Adventskalender
-
+netcup Deals
 ==========
 
-Von **1. Dezember bis 24. Dezember** öffnet sich täglich ein neues Türchen mit unschlagbaren Deals, die **jeweils 24 Stunden lang verfügbar** sind. Sei dabei!
+Entdecke unschlagbare netcup Raballe und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und newsletter abonnieren..
 
-[Zum Kalender\>](https://www.netcup.com/de/deals/adventskalender)
+[Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
 Bleibe auf dem Laufenden
 ----------

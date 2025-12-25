@@ -520,7 +520,17 @@ statt 2,17 €, dauerhaft
 
 pro Monat (inkl. 19% MWSt.)
 
-24
+Webhosting 1000
+
+50 % Rabatt / Spendenprodukt
+
+statt 2,17 €, dauerhaft
+
+1,08 €
+
+pro Monat (inkl. 19% MWSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-adv25)
 
 So funktioniert der Adventskalender
 ----------
