@@ -51,8 +51,6 @@ Maximum
 
 Extras
 
-USB-A to Ethernet Adapter
-
 USB-C to USB-A Adapter
 
 StarPort 12-port USB-C PD Hub
