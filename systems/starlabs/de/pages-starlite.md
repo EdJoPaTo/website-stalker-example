@@ -146,4 +146,4 @@ Open warranty.
 
  Laptops designed for open-source software need open warranties. Our 1-year limited warranty allows you to take your computer apart, replace parts, install an upgrade, and use any operating system and even your firmware, all without voiding the warranty.
 
-[Explore](https://support.starlabs.systems/kb/guides/starbook-mk-v-complete-disassembly-guide)
+[Explore](https://support.starlabs.systems/starbook-mk-v-mk-vi-mk-vii-complete-disassembly-guide)
