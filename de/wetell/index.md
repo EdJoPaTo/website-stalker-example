@@ -459,4 +459,4 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * [Leichte Sprache](https://www.wetell.de/leichte-sprache/)
 * Privatsphären-Einstellungen
 
-© 2025 Copyright WEtell. All rights reserved.
+© 2026 Copyright WEtell. All rights reserved.

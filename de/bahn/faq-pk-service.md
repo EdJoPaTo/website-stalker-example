@@ -1910,11 +1910,13 @@ Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stor
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-niedersachsen-storno)
 
- Wo und wann ist das FahrradTagesTicket NRW gültig?
+ Wo und wann ist das 24hFahrradTicket NRW gültig?
 ----------
 
-* Gilt für 1 Fahrrad; wenn mehrere Personen gemeinsam mit einem Ticket unterwegs sind, braucht jedes Fahrrad ein eigenes FahrradTagesTicket NRW
-* Gilt für die Fahrradmitnahme bei beliebig vielen Fahrten innerhalb einen Tages
+* Gilt für 1 Fahrrad; wenn mehrere Personen gemeinsam mit einem Ticket unterwegs sind, braucht jedes Fahrrad ein eigenes 24hFahrradTicket NRW
+* Nach Fahrtantritt nicht übertragbar
+* Keine Ermäßigung für Kinder
+* Gilt für die Fahrradmitnahme bei beliebig vielen Fahrten innerhalb von 24 Stunden gemäß Angabe auf dem Ticket (Aufdruck oder Entwerterstempel)
 
 [Weitere Informationen zur Fahrrad-Tageskarte NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
 
@@ -1922,25 +1924,27 @@ Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stor
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-gueltig)
 
- Wo kann ich das FahrradTagesTicket NRW kaufen?
+ Wo kann ich das 24hFahrradTicket NRW kaufen?
 ----------
 
-Das FahrradTagesTicket NRW bekommen Sie an DB Automaten, in den DB Reisezentren, in DB Agenturen, Reisebüros mit DB-Lizenz und gleich hier online.
+Das 24hFahrradTicket NRW bekommen Sie an DB Automaten, in den DB Reisezentren, in DB Agenturen, Reisebüros mit DB-Lizenz und gleich hier online.
 
-[FahrradTagesTicket NRW auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
+[24hFahrradTicket NRW auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
 
-[Weitere Informationen zum FahrradTagesTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
+[Weitere Informationen zum 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kaufen)
 
- Was kostet das FahrradTagesTicket NRW?
+ Was kostet das 24hFahrradTicket NRW?
 ----------
 
-Das FahrradTagesTicket NRW kostet 5,90 Euro pro Rad für 24 Stunden. Es gilt nur in Zusammenhang mit einem Ticket des NRW-Tarifs, einem Verbundticket des AVV-, VRR-, VRS- oder WestfalenTarifs oder mit einem Deutschland-Ticket.
+Das 24hFahrradTicket NRW kostet 6,30 Euro pro Rad für 24 Stunden.
 
-[Weitere Informationen zur Fahrrad-Tageskarte NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
+Das 24hFahrradTicket NRW gilt zur Mitnahme jeweils eines Fahrrads in Zusammenhang mit einem Ticket des NRW-Tarifs für die reisende Person. Reisen mehrere Personen gemeinsam mit einem Ticket (z. B. 24hTicket NRW 5 Personen oder im Rahmen der Mitnahmeregelung, so ist für jedes mitgeführte Fahrrad ein 24hFahrradTicket NRW erforderlich. Das 24hFahrradTicket NRW kann auch zusammen mit beliebigen Tickets der NRW-Verbundtarife sowie dem Deutschland-Ticket genutzt werden.
+
+[Weitere Informationen zum 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
 
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
 
@@ -2148,7 +2152,7 @@ Ob ein Kind alleine reisen kann, entscheiden Sie als Erziehungsberechtigte aufgr
 
 Das Fundsachenmanagement für Fundsachen aus Zügen wird von der DB InfraGO AG im Auftrag der hier genannten Eisenbahnverkehrsunternehmen durchgeführt:
 
-Züge der Abellio Rail Mitteldeutschland GmbH, agilis Verkehrsgesellschaft mbH & Co. KG, agilis Eisenbahngesellschaft mbH & Co.KG und Arverio BW, DB Regio AG, DB Fernverkehr AG, DB RegioNetz Verkehrs-GmbH Erzgebirgsbahn, DB RegioNetz Verkehrs-GmbH Kurhessenbahn, DB RegioNetz Verkehrs-GmbH SüdostBayernBahn, DB RegioNetz Verkehrs-GmbH Westfrankenbahn, Eurobahn – Keolis, Erfurter Bahn GmbH, Eurostar, HLB Hessenbahn GmbH (nur Teilnetz Südhessen-Untermain, Ländchesbahn, RE 98, RE 99, RB 24, RB 45, RB 46, RB 47, RB 48, RB 52 und Mittelhessenexpress), National Express Rail GmbH (NEX), NordBahn, NordWestBahn GmbH (NWB) – (nur Teilnetze Ostwestfalen, Weser Ems und Regio S-Bahn), RheinRuhrBahn (nur Linien RE 14; RB 31, RB 36; RE 44 und S 7), SNCF Voyages Deutschland GmbH, Start GmbH - Taunusnetz, SWEG (Nur Bahnnetzen 8a (Ortenau-S-Bahn und Hermann-Hesse-Bahn), 8b (Europabahn) und 9b (Breisgau-S-Bahn Los 2, Freiburger Y)), trans regio Deutsche Regionalbahn GmbH, WestfalenBahn GmbH, TRI Train Rental GmbH, Vias Rail GmbH, S-Bahn Dresden, S-Bahn Hamburg, S-Bahn Magdeburg, S-Bahn Mitteldeutschland, S-Bahn München, S-Bahn Rhein-Main, S-Bahn Rhein-Neckar, S-Bahn Rhein-Ruhr, S-Bahn Rostock und S-Bahn Stuttgart, Start GmbH Mitteldeutschland.
+Züge der Abellio Rail Mitteldeutschland GmbH, agilis Verkehrsgesellschaft mbH & Co. KG, agilis Eisenbahngesellschaft mbH & Co.KG und Arverio Bayern, Arverio BW, DB Regio AG, DB Fernverkehr AG, DB RegioNetz Verkehrs-GmbH Erzgebirgsbahn, DB RegioNetz Verkehrs-GmbH Kurhessenbahn, DB RegioNetz Verkehrs-GmbH SüdostBayernBahn, DB RegioNetz Verkehrs-GmbH Westfrankenbahn, Eurobahn – Keolis, Erfurter Bahn GmbH, Eurostar, HLB Hessenbahn GmbH (nur Teilnetz Südhessen-Untermain, Ländchesbahn, RE 98, RE 99, RB 24, RB 45, RB 46, RB 47, RB 48, RB 52 und Mittelhessenexpress), National Express Rail GmbH (NEX), NordBahn, NordWestBahn GmbH (NWB) – (nur Teilnetze Ostwestfalen, Weser Ems und Regio S-Bahn), RheinRuhrBahn (nur Linien RE 14; RB 31, RB 36; RE 44 und S 7), SNCF Voyages Deutschland GmbH, Start GmbH - Taunusnetz, SWEG (Nur Bahnnetzen 8a (Ortenau-S-Bahn und Hermann-Hesse-Bahn), 8b (Europabahn) und 9b (Breisgau-S-Bahn Los 2, Freiburger Y)), trans regio Deutsche Regionalbahn GmbH, WestfalenBahn GmbH, TRI Train Rental GmbH, Vias Rail GmbH, S-Bahn Dresden, S-Bahn Hamburg, S-Bahn Magdeburg, S-Bahn Mitteldeutschland, S-Bahn München, S-Bahn Rhein-Main, S-Bahn Rhein-Neckar, S-Bahn Rhein-Ruhr, S-Bahn Rostock und S-Bahn Stuttgart, Start Niedersachsen Mitte, Start GmbH Mitteldeutschland.
 
 Wenn Sie Ihren Gegenstand in einem anderen Zug verloren haben, setzen Sie sich bitte mit der jeweiligen Bahn in Verbindung.
 

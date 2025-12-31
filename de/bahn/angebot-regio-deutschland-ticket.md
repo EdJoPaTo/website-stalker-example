@@ -15,11 +15,11 @@ Ihre Vorteile
 * **Monatlich kündbar** bis zum 10. jeden Monats - direkt im Handyticket oder Aboportal.
 * Gilt für **Kalendermonate** und ist bei rechtzeitiger Kündigung auch für **einen Monat** nutzbar.
 
- 58 Euro / ab 1. Januar 2026: 63 Euro
+ 63 Euro
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
-Zum 1. Januar 2026 ändert sich der Preis des Deutschland-Tickets. Wenn Sie bereits ein Deutschland-Ticket haben, informieren Sie sich hier, ob Sie aktiv werden müssen.
+Zum 1. Januar 2026 ändert sich der Preis des Deutschland-Tickets. Wenn Sie bereits ein Deutschland-Ticket haben, informieren Sie sich hier, ob Sie aktiv werden müssen.
 
 [Zum Aboportal Weitere Informationen: Zum Aboportal](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?response_type=code&client_id=fe_diaboli&scope=openid%20kto_endkd_selfsvc%20zah_zahler%20zah_tech%20zah_zmv&state=qoakeVKq_HnGnz5xNUhBm1hLndTvENlyegiRfKQFP3U%3D&redirect_uri=https://abo.bahn.de/login/oauth2/code/idm&nonce=3fyvI-esEP4AAg539sc9ARr11twtEkXFEL71NB7_1hA)
 

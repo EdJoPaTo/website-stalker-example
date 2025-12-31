@@ -1,19 +1,49 @@
-Wärme kann
-so leicht sein!
+Sportliche Wärme zum Bestpreis
+
+ Sportliche Wärme zum Bestpreis
+
+ Neujahrs-
+knaller!
 ----------
 
 ---
 
- e.s.motion ten: Warm
-wattierte Steppjacken
+ Jetzt NEU: Warm, leicht
+& unschlagbar günstig!
 
-[alle Winterjacken entdecken](https://www.strauss.com/de/de/themen-winterjacken/?itemorigin=startseite_HW25)
+[die warmen Allrounder entdecken](https://www.strauss.com/de/de/warme-allrounder/?itemorigin=startseite_HW25)
 
- Winterjacke
-e.s.motion ten
+ e.s. Padded-Jacke
 
- Pilotenjacke
-e.s.motion ten
+ ab 37,96 €
+
+ (m. MwSt.)
+
+ ab 31,90 € o. MwSt.
+
+ e.s. Padded-Weste
+
+ ab 33,20 €
+
+ (m. MwSt.)
+
+ ab 27,90 € o. MwSt.
+
+ e.s. Padded-Jacke
+
+ ab 37,96 €
+
+ (m. MwSt.)
+
+ ab 31,90 € o. MwSt.
+
+ e.s. Padded-Weste
+
+ ab 33,20 €
+
+ (m. MwSt.)
+
+ ab 27,90 € o. MwSt.
 
  Trittfest
 im Winter
