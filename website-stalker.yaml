@@ -558,11 +558,6 @@ sites:
           selector: .acc-titel
           replace: h3
       - html_markdownify
-  - url: https://db-bordgastronomie.de/aktion/getraenke
-    editors:
-      - css_select: .page-content
-      - css_remove: style, img
-      - html_markdownify
   - url: https://db-bordgastronomie.de/api/api?filter={%22register%22%3A%22zzzz%22}
     editors:
       - json_prettify
