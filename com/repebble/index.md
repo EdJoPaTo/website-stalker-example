@@ -1,12 +1,14 @@
-[### Pebble 2 Duo ### A do-over of our black & white watch](/watch)[### Pebble Time 2 ### New larger color e-paper display!](/watch)[### Pebble Index 01 NEW ### External memory for your brain](/index)[### Coming soon ### More cool stuff??](/new-product)
+[### Pebble 2 Duo ### A do-over of our black & white watch](/watch)[### Pebble Time 2 ### New larger color e-paper display!](/watch)[### Pebble Index 01 NEW ### External memory for your brain](/index)[### Check back around ### Loading...](/signup)
 
 **Pebble is back!**
 
 After 9 years in stasis, we're back. Why? Because no one has created a smartwatch that fits our specific set of needs: **always-on e-paper screen**, **long battery life**, **simple and beautiful user experience**, **buttons**, and **easy to customize**! Read the [manifesto](https://ericmigi.com/blog/why-were-bringing-pebble-back).
 
+This time round, things are a bit different. Our goal is simple: build awesome smartwatches and other gadgets. There are no investors. We're not trying to take over the world. We just dream up new devices that we'd like to use and build them.
+
 [Pebble Mobile AppCompanion app for iOS and Android](https://rePebble.com/app)[Pebble Appstore15,000 beautiful watchfaces and watchapps](https://apps.rePebble.com)[Discussion ForumGet tips, tricks and help from the Pebble community](https://forum.repebble.com)
 
-[Developer InfoBuild a watchapp or watchface for Pebble in under 5 mins in your browser](https://developer.rePebble.com)[Open SourceYour watch is powered by 100% open source software](https://github.com/coredevices)
+[Developer InfoBuild a watchapp or watchface for Pebble in under 5 mins in your browser](https://developer.rePebble.com)[Open SourceOur watches are powered by 100% open source software](https://github.com/coredevices)
 
 [Blog](/blog)
 
