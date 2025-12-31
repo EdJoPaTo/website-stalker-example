@@ -1,7 +1,3 @@
-### [UGREEN 100W 90-Degree USB C to USB C Cable, 10FT](https://eu.ugreen.com/products/ugreen-100w-usb-c-cable-iphone-macbook) ###
-
- Previous page Next page 1 For Laptops 2 For Tablets 3 For Phones Previous page Next page 1 Laptops Models 2 Phone Models 3 Other C Devices
-
 ### [UGREEN 100W Right Angle USB C to USB C Fast Charging Cable](https://eu.ugreen.com/products/ugreen-100w-right-angle-usb-c-fast-charging-cable) ###
 
  Previous page Next page Previous page Next page
@@ -45,3 +41,7 @@ No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Lapto
 ### [UGREEN Right Angle USB C Cable 3.0 Type C Charger 5Gbps](https://eu.ugreen.com/products/ugreen-right-angle-usb-c-cable-3-0-type-c-charger-cable-fast-charging-5gbps) ###
 
 \_ Important Note Before Purchase: 1.Not support the phone case thicker than 2mm. 2.Not support video output 3.Charging speed will depend on the device and the wall charger. We sugget...
+
+### [UGREEN Uno USB-C to USB-C Cable 100W](https://eu.ugreen.com/products/ugreen-uno-usb-c-cable-100w) ###
+
+Previous page Next page 1 For Smartphone 2 For Tablet 3 For Laptop 4 For Steam Deck Previous page Next page 1 Great Durability 2 Data Transfer of 480Mbps 3...
