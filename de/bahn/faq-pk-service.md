@@ -3668,23 +3668,40 @@ Ja, die Benachrichtigungen zur Reise können nur dann aktiviert werden, wenn Sie
  Muss ich etwas bezahlen, wenn ich einen verlorenen Gegenstand aus dem Fundbüro zurückbekomme?
 ----------
 
-Für die Sortierung und Lagerung der Fundsache erheben wir ein Bearbeitungsentgelt. Die Höhe ist abhängig von der Art der Rückgabe (Abholung/Versand) und der Dauer der Aufbewahrung.
+Ja, Sie zahlen ein Bearbeitungsentgelt, wenn Sie einen verlorenen Gegenstand aus dem Fundbüro zurückbekommen. Die Höhe hängt davon ab, wie Sie Ihren Gegenstand zurückbekommen, zu welcher **Fundsachenkategorie** er gehört und wie lange er aufbewahrt wurde.
 
-* **Abholung aus der Fundstelle:** 5 Euro\*
-* **Direkte Abholung im zentralen Fundbüro in Wuppertal:** 15 Euro\*
-* **Versand per Post:** 30 Euro (inklusive Versand und Verpackung). Für Sperrgut, Wunschtagzustellung oder versicherten Versand fallen wie bisher zusätzliche Gebühren an.
-* **Versand aus dem zentralen Fundbüro:** 35 Euro (inklusive Versand, Verpackung und Bearbeitungsentgelt in Höhe von 15 Euro)
-* Bei **Versand ins Ausland:** Bei Versand ins Ausland werden zu dem Entgelt in Höhe von 20,00 Euro zuzüglich die Versandkosten für das Ausland berechnet.
-* **Versand aus der Fundstelle per ic:kurier:** Für besonders dringende Fälle können Sie Gegenstände auch per ic:kurier versenden. Bitte buchen Sie diese Leistung selbst online unter [booking.time-matters.com](https://booking.time-matters.com/de/search). Diese Sendungen werden per Kurier sofort zu Ihnen gesandt und sind spätestens am nächsten Tag, meist noch am selben Tag bei Ihnen. Es gelten die aktuellen Tarife von ic:kurier.
+**Abholung aus der Fundstelle:**
 
-*\* Bei Linien der Netze Elbe-Spree + Lausitz der DB Regio AG gelten abweichende Regelungen:*
+* Für Ausweis, Schlüssel, Fahrkarte, Zahlungskarte, Brille, medizinische Hilfsmittel oder Stofftier etc. (**Grundbedarf**) zahlen Sie **kein Entgelt**.
+* Für Kleidung, Einkaufstüte, kleinere Elektronik oder Sporttasche etc. (**Alltagsbedarf**) zahlen Sie **10 Euro**.
+* Für Smartphone, Geldbeutel, Laptop, Kamera, Reisekoffer, iPad, Tablet etc. oder hohe Bargeldbeträge (**Wertsachen**) zahlen Sie **15 Euro**.
 
-Die Abholung der Fundsache (ausschließlich aus Zügen aus den beiden Netzen) erfolgt aus der Fundstelle und zentralem Fundbüro kostenlos.
+**Direkte Abholung im zentralen Fundbüro in Wuppertal:**
 
-Ein Versand an folgende Stellen ist möglich:
+* Sie zahlen das Entgelt für die passende Fundkategorie (siehe oben) plus 10 Euro Bearbeitungsentgelt.
 
-* Netz Lausitz: Servicestellen/Kundendialog DB Regio in Potsdam und Leipzig sowie Reisezentren Cottbus und Leipzig
-* Netz Elbe-Spree: Servicestellen/Kundendialog DB Regio in Potsdam
+**Versand per Post:**
+
+* Sie zahlen 30 Euro für Versand und Verpackung.
+* Für Sperrgut, Wunschtagzustellung oder versicherten Versand zahlen Sie zusätzliche Gebühren.
+
+**Versand aus dem zentralen Fundbüro:**
+
+* Sie zahlen 35 Euro. Das beinhaltet Versand, Verpackung und ein Bearbeitungsentgelt von 15 Euro.
+
+**Versand ins Ausland:**
+
+* Sie zahlen 20 Euro Bearbeitungsentgelt plus die Versandkosten für das Zielland.
+
+**Versand per ic:kurier:**
+
+* Sie können in dringenden Fällen IC-Kurier wählen. Buchen Sie den Versand online unter [booking.time-matters.com](https://booking.time-matters.com/de/search). Die Gebühren richten sich nach den aktuellen Tarifen von IC-Kurier.
+
+**Abweichende Regelungen für die Netze Elbe-Spree und Lausitz (DB Regio AG):**
+
+* Sie zahlen kein Bearbeitungsentgelt, wenn Sie die Fundsache aus Zügen dieser Netze aus der Fundstelle oder aus dem zentralen Fundbüro abholen.
+* Für den Versand im Netz Lausitz sind folgende Zielorte möglich: Servicestellen/Kundendialog DB Regio in Potsdam und Leipzig sowie Reisezentren Cottbus und Leipzig.
+* Für das Netz Elbe-Spree ist ein Versand an die Servicestellen/Kundendialog DB Regio in Potsdam möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-etwas-zahlen)
 
