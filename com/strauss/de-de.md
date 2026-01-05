@@ -125,7 +125,7 @@ frische Ideen  ###
 
  1 Variante
 
- e.s. Food-Container 2.0
+ e.s. Food-Container
 ---
 
  1 Variante

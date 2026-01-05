@@ -172,21 +172,6 @@ Sie können diese Tickets nicht stornieren oder umtauschen.
 
 Es gelten die jeweils gültigen AGB der einzelnen Angebote. Die meisten Aktionsangebote sind von Umtausch und Stornierung ausgeschlossen.
 
-###  Tickets, die auf international-bahn.de gebucht wurden  ###
-
-#### Prozess ####
-
-Wollen Sie Ihre Fahrkarten einer unter [www.international-bahn.de](https://www.international-bahn.de/de/) getätigten Buchung erneut abrufen oder die gesamte Buchung gemäß Tarifbedingungen stornieren?
-Nutzen Sie bitte [www.international-bahn.de/de/ordersearch](https://www.international-bahn.de/de/ordersearch).
-
-Wollen Sie eine Buchung umtauschen? Wenden Sie sich bitte an das zuständige Service-Center und halten Sie Ihre Auftragsnummer aus der Buchungsbestätigungs-E-Mail bereit (nur Auftragsnummern beginnend mit „MCP-“):
-
-**Telefonnummer Service-Center: [06172 913731](tel:06172 913731)**
-**E-Mail:** [service-international@bahn.de](mailto:service-international@bahn.de)
-
-**Servicezeiten:**
-Montag bis Freitag von 8 bis 20 Uhr; samstags, sonntags und an Feiertagen von 10 bis 17 Uhr.
-
 Anleitung: So stornieren Sie Ihr digitales Ticket
 ----------
 
