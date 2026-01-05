@@ -898,6 +898,12 @@ Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ti
 
 Bei Problemen mit Ihrem Onlinebanking-Login wenden Sie sich bitte an Ihre kontoführende Bank.
 
+Bei Problemen mit der Verifizierung über den ausgewählten Dienstleister, nutzen Sie zunächst eine alternative Verifizierungsoption, falls verfügbar.
+
+Ein Wechsel des Internetbrowsers oder der Wechsel zwischen App und Web-Version kann oft zur Lösung beitragen.
+
+Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den von Ihnen gewählten Verifizierungsdienstleister für weitere Unterstützung:
+
 * [Häufige Fragen und Antworten zu Tink](https://tink.com/de/privatkunden-faq/)
 * [Verimi Hilfe- und Kontaktseite](https://verimi.de/faq/?question=122169&title=deutsche-bahn-db-hilfebereich-zur-nutzung-von-verimi)
 
