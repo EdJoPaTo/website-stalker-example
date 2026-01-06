@@ -107,7 +107,7 @@ Funktionen und Inhalte der Warn-App
  Daten und Fakten zur Technik der Warn-App NINA
 ----------
 
-[### 12 Mio. ### So viele Nutzerinnen und Nutzer sind von der Technik der Warn-App überzeugt. Infos zu Entwicklung und Technik](DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
+[### 14 Mio. ### So viele Nutzerinnen und Nutzer sind von der Technik der Warn-App überzeugt. Infos zu Entwicklung und Technik](DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
 
 [### 47 ### Mit der Version 3.6 ist nun bereits der 48. Release der NINA Warn-App in den Stores. Versionshinweise](DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/Versionshinweise/versionhinweise_node.html)
 
