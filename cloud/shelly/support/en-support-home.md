@@ -1,5 +1,3 @@
-[⚡ Black Friday (20 Nov – 2 Dec): For faster help, please check our FAQs before reaching out ⚡](https://support.shelly.cloud/en/support/solutions/articles/103000321073-black-friday-campaign-20-nov-2-dec-check-our-faqs-first-for-immediate-answers-⏳)
-
 Hi, how can we help you?
 ==========
 
