@@ -90,7 +90,7 @@ NBG1 HEL1 HIL ASH SIN
 
  Primary IPv4 IPv6 only
 
-save 0.50
+spare 0.50
 
  VCPU
 
@@ -977,15 +977,15 @@ Assign Primary IPs to your server to establish a connection to the internet. Or 
 
 Let your servers communicate through a private network and setup complex network topologies. Ideal for running a Kubernetes cluster or a database server that should not be reachable publicly.
 
+ [%0.05236;3%] / GB per month
+
 ### Firewalls ###
 
 Our stateful Firewalls make it easy to secure your infrastructure at no additional cost. Define inbound and outbound rules to deny any unwanted traffic. Once configured, you can assign them to as many of your cloud servers as you like.
 
-### Volumes ###
+### 24/7 Support ###
 
-Volumes offer highly available and reliable SSD storage for your cloud servers. You can expand each Volume to up to 10 TB at any time and you can connect them to your Hetzner cloud servers.
-
-0.0440  / GB per Month
+With Hetzner Cloud's 24/7 support, you receive expert assistance for your cloud servers and services around the clock. Support tickets from the Hetzner Console are processed quickly and reliably at all times.
 
 ### PERFORMANCE ###
 
