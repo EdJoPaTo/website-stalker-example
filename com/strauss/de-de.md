@@ -13,7 +13,7 @@ knaller!
 
 [die warmen Allrounder entdecken](https://www.strauss.com/de/de/warme-allrounder/?itemorigin=startseite_HW25)
 
- e.s. Hybrid-Jacke
+ e.s. Hybridjacke
 
  ab 32,01 €
 
@@ -29,7 +29,7 @@ knaller!
 
  ab 27,90 € o. MwSt.
 
- e.s. Hybrid-Jacke
+ e.s. Hybridjacke
 
  ab 32,01 €
 
