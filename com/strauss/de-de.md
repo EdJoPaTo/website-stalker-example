@@ -13,13 +13,13 @@ knaller!
 
 [die warmen Allrounder entdecken](https://www.strauss.com/de/de/warme-allrounder/?itemorigin=startseite_HW25)
 
- e.s. Padded-Jacke
+ e.s. Hybrid-Jacke
 
- ab 37,96 €
+ ab 32,01 €
 
  (m. MwSt.)
 
- ab 31,90 € o. MwSt.
+ ab 26,90 € o. MwSt.
 
  e.s. Padded-Weste
 
@@ -29,13 +29,13 @@ knaller!
 
  ab 27,90 € o. MwSt.
 
- e.s. Padded-Jacke
+ e.s. Hybrid-Jacke
 
- ab 37,96 €
+ ab 32,01 €
 
  (m. MwSt.)
 
- ab 31,90 € o. MwSt.
+ ab 26,90 € o. MwSt.
 
  e.s. Padded-Weste
 
