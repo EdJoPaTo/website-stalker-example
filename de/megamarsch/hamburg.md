@@ -140,59 +140,6 @@ Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challeng
 
 [Teilnehmershirt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
-### Super Early Bird Ticket ###
-
-10.04. 9 UHR - 14.04.2025 9 UHR
-
-TICKETPREIS
-59,95€\*
-
-[Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
-
-### Early Bird
-Ticket ###
-
-14.04.2025 - ENDE JUNI
-
-TICKETPREIS
-69,95€\*
-
-[Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
-
-### REGULAR
-Ticket ###
-
-JULI - ENDE DEZEMBER
-
-TICKETPREIS
-74,95€\*
-
-[Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
-
-### Last Chance
-Ticket ###
-
-JANUAR - 11.04.2026
-
-​
-
-​​
-
-​
-
-TICKETPREIS
-79,95€​\*
-
-[Button](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
-
-Im Ticketpreis enthalten ist die gesamte Organisation der Veranstaltung inkl. 4 Verpflegungsstationen mit Snacks und Getränken, Toiletten und Sanitätern. Ebenfalls im Ticketpreis enthalten ist die Urkunde (ab der 2. Verpflegungsstation) und die Finisher-Medaille.
-
-\*Die Eventbrite-Gebühren kommen zum oben aufgeführten Preis hinzu.
-
-Ticket nicht mehr Verfügbar | Ticket noch Verfügbar
-
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
-
 #### Buche jetzt deine Startzeit, bevor sie ausverkauft ist! ####
 
 [STARTZEIT IN HAMBURG SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
