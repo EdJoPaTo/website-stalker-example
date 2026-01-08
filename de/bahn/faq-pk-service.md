@@ -4016,7 +4016,7 @@ Sie sammeln BahnBonus Prämienpunkte auf den Kauf von allen Speisen und Getränk
  Wie lange sind meine BahnBonus Punkte gültig?
 ----------
 
-Prämienpunkte sind 3 Jahre gültig und Statuspunkte sind exakt 1 Jahr gültig.
+Prämienpunkte sind 3 Jahre zum Quartalsende und Statuspunkte exakt 1 Jahr gültig.
 
 Die Gültigkeitsdauer beginnt ab dem ersten Geltungstag. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie die Gültigkeit jederzeit einsehen.
 
@@ -8025,7 +8025,7 @@ Mit der BahnBonus App können Sie ganz bequem am Vorteilsprogramm teilnehmen:
 
 * Ihre digitale BahnBonus Karte und Sammelnummer haben Sie immer griffbereit
 * Behalten Sie Ihren aktuellen Prämien- und Statuspunktestand, inklusive aller Transaktionen und Hinweise zum Punkteverfall, immer im Blick
-* Mit dem Status lösen Sie Ihre Statusvorteile direkt über die App ein
+* Als Statuskund:in lösen Sie Ihre Statusvorteile direkt über die App ein
 * Sie haben Zugang zu großartigen Angeboten und Aktionen bei der DB und Partnerunternehmen
 * Lösen Sie Ihre Prämienpunkte direkt gegen Prämien ein
 * Nur mit der App können Sie Prämienpunkte in der Bordgastronomie sammeln
