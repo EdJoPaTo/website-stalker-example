@@ -39,7 +39,7 @@ Entschädigung übers Kundenkonto beantragen
 Entschädigung über die Auftragssuche auf bahn.de beantragen
 ----------
 
-Für digital gekaufte Tickets, die nicht im DB Kundenkonto hinterlegt sind, können die Fahrgastrechte über die Auftragssuche beantragt werden. Hierzu benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
+Für digital gekaufte Tickets, die nicht im DB Kundenkonto hinterlegt sind, können die Fahrgastrechte über die Auftragssuche beantragt werden. Hierzu benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person. Rufen Sie den Auftrag auf und klicken Sie anschließend unter "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
 
 Entschädigung über die Auftragssuche beantragen
 ----------
