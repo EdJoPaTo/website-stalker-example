@@ -54,12 +54,9 @@ Saarland
 Sachsen
 ----------
 
-* [Dresden-Wroclaw SpezialInfos und Kauf zum Dresden-Wroclaw Spezial auf der Site laenderbahn.com](https://www.laenderbahn.com/trilex/tickets/preise-angebote/ausfluegler/dresden-wroclaw-spezial/)
-* [Katzensprung-TicketInfos und Kauf zum Katzensprung-Ticket auf der Site laenderbahn.com](https://www.laenderbahn.com/trilex/tickets/preise-angebote/ausfluegler/katzensprung-ticket/)
 * [Regiotarif Schluckenau-Elbe\*](https://www.vvo-online.de/de/tarif-tickets/tarif/Nationalparkbahn.cshtml)
 * [SPNV - Student\*innen-Jahresticket Sachsen (Dresden)\*](https://www.stura.tu-dresden.de/semesterticket)
 * [SPNV - Student\*innen-Jahresticket Sachsen (TU Chemnitz)\*](https://deutschlandtarifverbund.de/tarifbedingungen)
-* [trilex-TagesticketInfos und Buchung zum trilex-Tagesticket auf der Site laenderbahn.com](https://www.laenderbahn.com/trilex/tickets/preise-angebote/ausfluegler/trilex-tagesticket/)
 
 Schleswig-Holstein
 ----------
