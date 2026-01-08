@@ -4025,7 +4025,7 @@ Die Gültigkeitsdauer beginnt ab dem ersten Geltungstag. In der BahnBonus App un
  Bekomme ich BahnBonus Prämienpunkte, wenn ich in der Bordgastronomie mit einem Gutschein bezahle?
 ----------
 
-Ja. Zahlen Sie in der Bordgastronomie mit einem Gutschein, bekommen Sie nur Punkte auf den tatsächlichen Zahlbetrag.
+Zahlen Sie in der Bordgastronomie mit einem Gutschein, bekommen Sie nur Punkte auf den tatsächlichen Zahlbetrag.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-gutschein)
 
