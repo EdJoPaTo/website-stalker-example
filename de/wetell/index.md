@@ -123,10 +123,9 @@ Telefonisch – unter der
 
 (Mo-Fr, 8-18 Uhr)
 
+* [Wechselservice Dein Wechsel zu uns leicht gemacht.](https://www.wetell.de/mobilfunk/wechselservice)
 * [Häufig gestellte Fragen](https://www.wetell.de/service/faq)
-* [Schreib uns eine E-Mail](mailto:service@wetell.de)
-
-[WechselserviceDein Wechsel zu uns leicht gemacht](https://www.wetell.de/mobilfunk/wechselservice)
+* [Schreibt uns eine E-Mail](mailto:service@wetell.de)
 
 Funktastisch!
 
