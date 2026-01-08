@@ -261,6 +261,9 @@
 				<h2>
 					What is the MTU setting for Cloud server network interfaces?
 				</h2>
+				<p>
+					The following values are the maximum supported values for the maximum transmission unit (MTU) configuration for Cloud server interfaces:
+				</p>
 				<table>
 					<thead>
 						<tr>
@@ -268,7 +271,7 @@
 								Network interface
 							</th>
 							<th>
-								MTU (maximum transmission unit)
+								MTU (Maximum Transmission Unit)
 							</th>
 						</tr>
 					</thead>
@@ -291,6 +294,9 @@
 						</tr>
 					</tbody>
 				</table>
+				<p>
+					For private network interfaces, the value cannot be configured higher than 1450 already; for public interface, we intend to enforce the hard limit of 1500 in the future.
+				</p>
 				<p>
 					<strong>
 						Technical background:
