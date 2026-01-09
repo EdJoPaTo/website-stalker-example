@@ -87,19 +87,19 @@ für den Winter
  18,0 V Akku-Winkelschleifer + Bohrschrauber M Set
 ---
 
- \-53%
+ \-56%
 ---
 
-511,46 €
+547,16 €
 
  237,88 €
 ---
 
  (m. MwSt.)
 
-429,80 € **199,90 €** (o. MwSt.)
+459,80 € **199,90 €** (o. MwSt.)
 
-[](https://www.strauss.com/de/de/elektrowerkzeuge-sets/18-0-v-akku-winkelschleifer-bohrschrauber-m-set-7118760-5521163-0.html?itemorigin=startseite_HW25)
+[](https://www.strauss.com/de/de/elektrowerkzeuge-sets/18-0-v-akku-winkelschleifer-bohrschrauber-m-set-7118770-5521164-0.html?itemorigin=startseite_HW25)
 
 ###  Bereit für
 frische Ideen  ###
