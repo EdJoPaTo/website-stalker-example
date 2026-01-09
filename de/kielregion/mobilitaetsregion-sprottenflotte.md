@@ -129,21 +129,35 @@ Unsere Partner
 
 [](https://www.adac.de/der-adac/regionalclubs/schleswig-holstein/sho-geschaeftsstellen-reisebueros/adac-geschaeftsstelle-und-reisebuero-kiel/)
 
+[ADAC](https://www.adac.de/der-adac/regionalclubs/schleswig-holstein/sho-geschaeftsstellen-reisebueros/adac-geschaeftsstelle-und-reisebuero-kiel/)
+
 [](https://asta-fh-kiel.de/)
+
+[ASTA](https://asta-fh-kiel.de/)
 
 [](https://www.azv-sh.de/)
 
+[AZV](https://www.azv-sh.de/)
+
 [](https://www.bordesholmer-sparkasse.de/de/home.html)
+
+[Bordesholmer Sparkasse](https://www.bordesholmer-sparkasse.de/de/home.html)
 
 [](https://www.uni-kiel.de/de/)
 
+[CAU](https://www.uni-kiel.de/de/)
+
 [](https://www.citti-park-kiel.de/)
+
+[CITTI](https://www.citti-park-kiel.de/)
 
 [](https://www.dataport.de/)
 
+[Dataport](https://www.dataport.de/)
+
 [](https://www.diakonie-sh.de/)
 
-[](https://www.ostseebad-eckernfoerde.de/)
+[Diakonie SH](https://www.diakonie-sh.de/)
 
 [](https://www.fh-kiel.de/startseite/)
 
@@ -151,31 +165,31 @@ Unsere Partner
 
 [](https://www.geomar.de/)
 
+[Geomar](https://www.geomar.de/)
+
 [](https://www.kitz-kiel.de/)
+
+[KITZ](https://www.kitz-kiel.de/)
 
 [](https://www.kvg-kiel.de/)
 
+[KVG](https://www.kvg-kiel.de/)
+
 [](https://www.rewe-digital.com/de)
+
+[REWE Digital](https://www.rewe-digital.com/de)
 
 [](https://www.sophienhof.de/)
 
+[Sophienhof](https://www.sophienhof.de/)
+
 [](https://www.spk-mittelholstein.de/de/home.html)
+
+[Sparkasse Mittelholstein](https://www.spk-mittelholstein.de/de/home.html)
 
 [](https://www.stadtwerke-sh.de/)
 
-[](https://toez.de/)
-
-[](https://www.thyssenkrupp-marinesystems.com/en)
-
-[](https://www.uksh.de/)
-
-[](https://www.vonovia.de/)
-
-[](https://wfg-rd.de/)
-
-[](https://wissenschaftszentrumkiel.de/)
-
-[](https://seefischmarkt-kiel.de/)
+[Stadtwerke Sh](https://www.stadtwerke-sh.de/)
 
 [](https://www.punker.com/)
 
@@ -184,6 +198,34 @@ Unsere Partner
 [](https://www.nordkolleg.de/home/)
 
 [Nordkolleg](https://www.nordkolleg.de/home/)
+
+[](https://toez.de/)
+
+[TOEZ](https://toez.de/)
+
+[](https://www.thyssenkrupp-marinesystems.com/en)
+
+[TKMS](https://www.thyssenkrupp-marinesystems.com/en)
+
+[](https://www.uksh.de/)
+
+[UKSH](https://www.uksh.de/)
+
+[](https://www.vonovia.de/)
+
+[Vonovia](https://www.vonovia.de/)
+
+[](https://wfg-rd.de/)
+
+[WFG](https://wfg-rd.de/)
+
+[](https://wissenschaftszentrumkiel.de/)
+
+[thenucleus](https://wissenschaftszentrumkiel.de/)
+
+[](https://seefischmarkt-kiel.de/)
+
+[Seefischmarkt](https://seefischmarkt-kiel.de/)
 
 Kommunale Partner
 ----------
