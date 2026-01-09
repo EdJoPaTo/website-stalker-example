@@ -177,6 +177,14 @@ Unsere Partner
 
 [](https://seefischmarkt-kiel.de/)
 
+[](https://www.punker.com/)
+
+[Punker](https://www.punker.com/)
+
+[](https://www.nordkolleg.de/home/)
+
+[Nordkolleg](https://www.nordkolleg.de/home/)
+
 Kommunale Partner
 ----------
 
@@ -199,10 +207,6 @@ Kommunale Partner
 [](https://www.eckernfoerde.de/)
 
 [Stadt Eckernförde](https://www.eckernfoerde.de/)
-
-[](https://www.ostseebad-eckernfoerde.de/)
-
-[Ostseebad Eckernförde](https://www.ostseebad-eckernfoerde.de/)
 
 [](https://www.ploen.de/)
 
