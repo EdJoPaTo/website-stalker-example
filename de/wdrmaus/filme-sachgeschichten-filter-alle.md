@@ -423,6 +423,7 @@
 * [Glühwürmchen](https://www.wdrmaus.de/filme/sachgeschichten/gluehwuermchen.php5)
 * [Go](https://www.wdrmaus.de/filme/sachgeschichten/go.php5)
 * [Goldsuche](https://www.wdrmaus.de/filme/sachgeschichten/goldsuche.php5)
+* [Gondelrettung](https://www.wdrmaus.de/filme/sachgeschichten/gondelrettung.php5)
 * [Graffiti](https://www.wdrmaus.de/filme/sachgeschichten/graffiti.php5)
 * [Grashalm](https://www.wdrmaus.de/filme/sachgeschichten/grashalm.php5)
 * [Graskunststoff](https://www.wdrmaus.de/filme/sachgeschichten/graskunststoff.php5)
