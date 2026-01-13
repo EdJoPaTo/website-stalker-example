@@ -2,7 +2,7 @@
 
 Durch passive Kühlung absolut lautlos
 
-leistungsstarke Intel® Core™ CPU bis i9-10900T/ Intel Core Ultra bis 9 285T/ AM4/AM5
+leistungsstarke Intel® Core™ CPU bis i9-14900T/ Intel Core Ultra bis 9 285T/ AM4/AM5
 
 bis zu 64 GB RAM
 
@@ -10,7 +10,7 @@ bis zu 4x SSDs
 
 lüfterlos und lautlos
 
-* leistungsstarke Intel® Core™ CPU bis i9-10900T/ Intel Core Ultra bis 9 285T/ AM4/AM5
+* leistungsstarke Intel® Core™ CPU bis i9-14900T/ Intel Core Ultra bis 9 285T/ AM4/AM5
 
 * bis zu 64 GB RAM
 
