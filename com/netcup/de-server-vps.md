@@ -66,7 +66,7 @@ VPS 1000 G11
 
 0,011€/Stunde oder je Monat ab:
 
-6,84 €
+7,85 €
 
 (inkl. 19% MwSt.)
 
