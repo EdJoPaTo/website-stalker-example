@@ -4272,11 +4272,14 @@ Eine Stornierung einzelner Reisender ist nicht möglich.
 ----------
 
 To use the Komfort Check-in function, you always need a mobile device and the DB Navigator app, preferably in the latest version. Your journey must also allow the Komfort Check-in function. This requires a valid ticket, an occupied seat and a train connection that supports Komfort Check-in, among other things.
+
 The requirements in detail are as follows:
 
 1) A mobile device with an internet connection (e.g. a smartphone or laptop with a mobile data plan)
-2) The current version of the DB Navigator app (alternatively: access to the ICE Portal or online at www.bahn.de/jetzt-einchecken)
-3) An approved digital DB ticket (e.g. recognisable by the "Komfort Check-in" button in the itinerary for your connection)
+
+2) The current version of the DB Navigator app (alternatively: access to the ICE Portal or online at [www.bahn.de/jetzt-einchecken](https://int.bahn.de/en/buchung/jetzt-einchecken))
+
+3) A valid digital DB ticket (e.g. recognisable by the "Komfort Check-in" button in the itinerary for your connection)
 
 * Flexible, saver or super saver fare
 * With and without BahnCard discount
