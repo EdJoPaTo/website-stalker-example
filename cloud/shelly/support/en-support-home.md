@@ -29,28 +29,6 @@ Thank you for your patience and understanding.
 
  Thank you for your understanding.
 
- ⚠️ Delivery Update for Black Friday Orders ⚠️
- (20 November – 2 December)
-----------
-
- Due to the exceptionally high parcel volume, deliveries may take longer than usual.
-
- What you may notice
-
-* Tracking information updating slowly or not changing for several days
-* Extended transit times
-* Delays in courier processing even after parcels have been handed over
-
- We confirm that all orders are shipped. These delays are caused entirely by courier network overload. **Your order is still moving through the system**, even if tracking does not reflect progress in real time.
-
-**Due to the increased number of requests during this period, our support team is also operating under higher load. We kindly ask customers to allow additional time before requesting an update on their order status.**
-
- If your tracking shows no new update for **12+ business days from last status** please contact us and we will request a check with the courier.
-
-Due to the overall congestion in courier networks during this period, even newly shipped parcels may experience slower transit times.
-
- Thank you for your patience and understanding during the seasonal peak.
-
 Knowledge base
 ----------
 
