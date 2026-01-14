@@ -533,6 +533,14 @@ zzgl. Versandkosten
   * [Barrierefreiheitserklärung](https://www.strauss.com/de/de/Informationen/Barrierefreiheit)
   * [Kundenbewertungen](https://www.strauss.com/de/de/Bewertungen)
 
+* Zahlarten
+
+  * [PayPal](https://www.strauss.com/de/de/Service/Bezahlen)
+  * [Kreditkarte](https://www.strauss.com/de/de/Service/Bezahlen)
+  * [Bankeinzug](https://www.strauss.com/de/de/Service/Bezahlen)
+  * [Vorauskasse](https://www.strauss.com/de/de/Service/Bezahlen)
+  * [Rechnung](https://www.strauss.com/de/de/Service/Bezahlen)
+
 **Strauss Deutschland**
 
 **GmbH & Co. KG**
