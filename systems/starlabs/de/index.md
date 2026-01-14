@@ -33,11 +33,11 @@ Browse our range
 
 [](/products/starbook)
 
-[StarBook €13,37 Ships 1 - 2 business days](/products/starbook)
+[StarBook €13,37 €13,37 Ships 1 - 2 business days](/products/starbook)
 
 [](/products/starbook-horizon)
 
-[StarBook Horizon €13,37 €13,37 Ships January](/products/starbook-horizon)
+[StarBook Horizon €13,37 Ships January](/products/starbook-horizon)
 
 [](/products/starfighter)
 

@@ -4,14 +4,17 @@ StarBook Horizon
 Horizon
 Intel Core i3-N305 8-core processor
 32GB LPDDR5 memory
-2TB storage
 English (US) Keyboard
 
- Title
+ Storage
 
- Default Title
+ 1TB
 
-Default Title
+1TB
+
+2TB
+
+4TB
 
 Operating System
 
