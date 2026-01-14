@@ -65,8 +65,6 @@ Tempered Glass Screen Protector – 2-Pack
 
 32GB Reversible USB Recovery Drive
 
-USB-C 3.1 Charge Cord (5m)
-
 StarPort 12-port USB-C PD Hub
 
 USB-C to USB-A Adapter

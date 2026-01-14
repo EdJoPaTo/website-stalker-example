@@ -55,8 +55,6 @@ USB-C to USB-A Adapter
 
 StarPort 12-port USB-C PD Hub
 
-USB-C 3.1 Charge Cord (5m)
-
  duties and taxes
 
  All import duties and taxes are covered in the price you see; there won’t be any additional fees when your package arrives.

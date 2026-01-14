@@ -59,8 +59,6 @@ Extras
 
 USB-C 3.1 Charge Cord (2m)
 
-USB-C 3.1 Charge Cord (5m)
-
 StarPort 12-port USB-C PD Hub
 
 Includes:
