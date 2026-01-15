@@ -398,15 +398,15 @@ Sichtbarkeit
  Nach Kategorie shoppen
 ---
 
-[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/?sort=newest)
+[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/)
 
-[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/?sort=newest)
+[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/)
 
-[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?sort=newest)
+[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/)
 
-[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?sort=newest)
+[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/)
 
-[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?sort=newest)
+[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/)
 
 ####  Newsletter  ####
 
