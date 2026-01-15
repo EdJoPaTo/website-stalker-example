@@ -127,19 +127,14 @@ IN DEINER NÄHE!
 [FREIBURG](https://www.megamarsch.de/freiburg)
 ----------
 
-[Location](https://www.megamarsch.de/schaffhausen)
-
-[SCHAFFHAUSEN](https://www.megamarsch.de/schaffhausen)
-----------
-
 [Location](https://www.megamarsch.de/münchen)
 
 [MÜNCHEN](https://www.megamarsch.de/münchen)
 ----------
 
-[Location](https://www.megamarsch.de/mittersill)
+[Location](https://www.megamarsch.de/schaffhausen)
 
-[MITTERSILL](https://www.megamarsch.de/mittersill)
+[SCHAFFHAUSEN](https://www.megamarsch.de/schaffhausen)
 ----------
 
 [Location](https://www.megamarsch.de/bern)
@@ -150,6 +145,11 @@ IN DEINER NÄHE!
 [Location](https://www.megamarsch.de/luzern)
 
 [LUZERN](https://www.megamarsch.de/luzern)
+----------
+
+[Location](https://www.megamarsch.de/mittersill)
+
+[MITTERSILL](https://www.megamarsch.de/mittersill)
 ----------
 
 [MALLORCA](https://www.megamarsch.de/mallorca)
