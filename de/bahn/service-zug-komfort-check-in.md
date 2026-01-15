@@ -234,8 +234,7 @@ Sie können sich auf allen Plätzen einchecken, die…
 
 Nach dem Komfort Check-in ändert sich der Text auf der Reservierungsanzeige automatisch in „Belegt bis …“. Die Aktualisierung der Anzeige erfolgt meist innerhalb weniger Sekunden und bleibt bis kurz vor dem Ausstiegshalt bestehen. Dies ist auch der Fall, wenn unser Zugbegleitpersonal Sie bei der Kontrolle eincheckt.
 
-Hinweis
-Die Belegtanzeige ist nicht in allen Zügen verfügbar.
+Hinweis: Die Belegtanzeige ist nicht in allen Zügen verfügbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/belegtanzeige-nutzen-mit-kci)
 
