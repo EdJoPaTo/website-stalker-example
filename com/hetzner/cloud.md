@@ -977,8 +977,6 @@ Assign Primary IPs to your server to establish a connection to the internet. Or 
 
 Let your servers communicate through a private network and setup complex network topologies. Ideal for running a Kubernetes cluster or a database server that should not be reachable publicly.
 
- [%0.05236;3%] / GB per month
-
 ### Firewalls ###
 
 Our stateful Firewalls make it easy to secure your infrastructure at no additional cost. Define inbound and outbound rules to deny any unwanted traffic. Once configured, you can assign them to as many of your cloud servers as you like.
