@@ -165,9 +165,7 @@ sites:
           replace: ""
       - html_url_canonicalize
       - html_markdownify
-  - url:
-      - https://www.netcup.com/de/deals?all
-      - https://www.netcup.com/de/deals/adventskalender?all
+  - url: https://www.netcup.com/de/deals?all
     headers:
       - "Cache-Control: no-cache"
     editors:
