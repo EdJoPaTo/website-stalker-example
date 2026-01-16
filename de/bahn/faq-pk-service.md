@@ -1299,19 +1299,6 @@ Liegen Ursache und Wirkung für die verspätete Ankunft des Fahrgastes hingegen 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bus-schiff-fahrgastrechte-verspaetung-anschluss)
 
- Warum gibt es den Chatbot DB Smile nicht mehr?
-----------
-
-Wir entwickeln unsere digitalen Services kontinuierlich weiter und betrachten regelmäßig die Nutzungszahlen – mit dem Ziel, Ihnen noch bessere Unterstützung zu bieten.
-
-Da DB Smile nur eingeschränkt genutzt wurde, haben wir uns entschieden, den Chatbot abzuschalten und den Fokus auf neue, leistungsfähigere Lösungen zu legen.
-
-Antworten auf Ihre Fragen finden Sie auf unserer Hilfe-Seite. Dort können Sie die Suche nutzen, Anliegen im besten Fall direkt lösen oder Kontaktmöglichkeiten finden.
-
-* [Zu Hilfe & Kontakt](https://www.bahn.de/hilfe)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-inaktiv)
-
  Can I check in without a reservation?
 ----------
 
