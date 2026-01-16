@@ -51,17 +51,9 @@ Sie haben ab dem 15.Oktober 2025 bestellt? Sie wurden im Bestellprozess und in d
  Mein Deutschland-Ticket wurde gekündigt. Was kann ich tun, wenn ich auch in 2026 das Angebot nutzen möchte?
 ----------
 
-Wenn Ihr Deutschland-Ticket gekündigt wurde, haben Sie mehrere Möglichkeiten...
+Wenn Ihr Deutschland-Ticket gekündigt wurde, können Sie ein neues Deutschland-Ticket-Abo abschließen. Der Preis beträgt 63 Euro pro Monat.
 
-1. Vor dem 31.12.2025
-
-Sie können Ihr Abo ganz einfach wieder „reaktivieren“. Wählen Sie dazu im Aboportal oder im DB Navigator den Menüpunkt „Abo reaktivieren“ aus. Diese Funktion ist nur bis zum eingetragenen Kündigungsdatum 31. Dezember 2025 verfügbar. So lange hat Ihr Abo den Status „Kündigung eingeleitet”. Wenn Sie das Abo reaktivieren, erneuern wir Ihr Deutschland-Ticket-Abo zu den neuen Konditionen, d.h. insbesondere zum neuen Preis.
-
-1. Nach dem 31.12.2025
-
-Wenn Sie im Januar 2026 wieder ein neues Deutschland-Ticket-Abonnement haben möchten und Ihr bisheriges gekündigt wurde, schließen Sie bitte ein neues Deutschland-Ticket-Abonnement zum neuen Preis von 63 Euro pro Monat ab.
-
-**Bitte beachten Sie:** Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben, damit Ihnen im Falle einer Fahrscheinkontrolle keine zusätzlichen Kosten entstehen.
+Bitte beachten Sie: Fahren Sie ab Januar 2026 ohne gültiges Ticket, müssen Sie bei einer Kontrolle ein erhöhtes Beförderungsentgelt von mindestens 60 Euro zahlen. Sorgen Sie deshalb immer für einen gültigen Fahrschein.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -202,7 +194,7 @@ Kund:innen, die bereits im Rahmen ihres regulären Verbund-/Landes-Tarif-Abos od
  Kann ich das Deutschland-Ticket am DB Fahrkartenautomaten kaufen?
 ----------
 
-Nein. Sie können das Deutschland-Ticket nicht am DB Fahrkartenautomaten kaufen. Sie erhalten es nur digital als Abonnement.
+Nein. Sie können das Deutschland-Ticket nicht am DB Fahrkartenautomaten kaufen. Sie erhalten es nur digital als Handy-Ticket oder je nach Tarif als Chipkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-automat)
 
@@ -409,7 +401,9 @@ Das Deutschland-Ticket und das Fernverkehrsticket sind immer separate Tickets. D
  Ab wann ist das Deutschland-Ticket gültig?
 ----------
 
-Das Deutschland-Ticket gilt ab dem 1. Kalendertag des Gültigkeitszeitraums, wie auf dem persönlichen Ticket angegeben.
+Das Deutschland-Ticket gilt ab dem 1. Tag des Gültigkeitszeitraums, wie auf dem persönlichen Ticket angegeben.
+
+Bei einem Kauf innerhalb des Monats, gilt es ab dem Zeitpunkt, zu dem Sie durch uns über die Aktivierung informiert werden.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
@@ -420,7 +414,7 @@ Das Deutschland-Ticket gilt ab dem 1. Kalendertag des Gültigkeitszeitraums, wie
  Wie lange ist das Deutschland-Ticket gültig?
 ----------
 
-Das Abonnement wird für unbestimmte Zeit abgeschlossen und kann monatlich gekündigt werden.
+Das Deutschland-Ticket ist ein Abonnment, das für unbestimmte Zeit abgeschlossen wird. Es kann monatlich gekündigt werden bis zum 10. des Monats zum jeweiligen Monatsende.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
@@ -600,14 +594,18 @@ Ja. Sie können mehrere Deutschland-Tickets in die DB Navigator App laden. Wenn 
  Ich komme als mobilitätseingeschränkte Person nicht mehr in einen überfüllten Zug. Was kann ich tun?
 ----------
 
-Durch das Deutschland-Ticket kann es sein, dass einzelne Züge und Verbindungen stärker ausgelastet sind. Über die Verbindungsauskunft können Sie sich über die Auslastung Ihrer Strecke informieren. Wir empfehlen Ihnen sich zusätzlich über die Mobilitätsservice-Zentrale (MSZ) vorzumelden.
+Es kann sein, dass einzelne Züge und Verbindungen stark ausgelastet sind. Über die Verbindungsauskunft können Sie sich über die Auslastung Ihrer Strecke informieren.
+
+Wir empfehlen Ihnen, sich zusätzlich über die Mobilitätsservice-Zentrale (MSZ) vorzumelden.
+
+* [Zur Mobilitätsservice-Zentrale](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-mobilitaetseinschraenkung)
 
  Ist das Deutschland-Ticket auch als Monatsticket verfügbar?
 ----------
 
-Nein, ein Deutschland-Ticket kann nur als Abonnement erworben werden.
+Nein. Sie können das Deutschland-Ticket nur im Abonnement kaufen.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
@@ -618,24 +616,18 @@ Nein, ein Deutschland-Ticket kann nur als Abonnement erworben werden.
  Wann werden die monatlichen Beträge meines Deutschland-Tickets abgebucht?
 ----------
 
-Die monatlichen Beträge Ihres Deutschland-Tickets werden zum Monatsersten oder zum 15. eines Monats abgebucht, je nach gewähltem Tarif.
+Die monatlichen Beträge für Ihr Deutschland-Ticket werden entweder am Monatsersten oder am 15. des Monats abgebucht. Der Termin hängt von Ihrem gewählten Tarif ab.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte-abbuchung)
 
  Kann ich das Deutschland-Ticket nur per Lastschriftverfahren zahlen?
 ----------
 
-Nein. Sie können das Deutschland-Ticket auch anders bezahlen.
+Ja. Das Deutschland-Ticket kann nur per Lastschrift bezahlt werden.
 
-**Online (z.B. auf bahn.de):**
-Nur Lastschriftverfahren möglich.
+Beim Kauf im Reisezentrum können Sie den 1. Monat bar oder mit Karte bezahlen. Für die Folgemonate ist die Angabe der Lastschrift weiterhin notwendig.
 
-**Im Reisezentrum:**
-Kreditkarte
-Barzahlung
-
-Hinweis: Auch im Reisezentrum müssen Sie Ihre Kontoverbindung für Folgezahlungen angeben.
-
+* [Informationen zum Lastschriftverfahren](https://www.bahn.de/faq/pk/service/buchung/bezahlen/lastschrift)
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte-lastschrift)
@@ -679,7 +671,7 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
  Wie funktioniert der Kauf des Deutschland-Tickets im DB Reisezentrum?
 ----------
 
-Kundinnen und Kunden, die eine persönliche Beratung im DB Reisezentrum wünschen, bekommen dort Unterstützung von unseren Mitarbeitenden beim Abschließen des digitalen Abonnements. Beim Abschluss erhalten sie eine Auftragsnummer, mit der sie ihr Deutschland-Ticket zur sofortigen Nutzung in den DB Navigator laden können. Die Auftragsnummer selbst ist kein gültiges Deutschland-Ticket und berechtigt nicht zum Fahren.
+Im DB Reisezentrum unterstützen Sie die Mitarbeitenden beim Abschließen des digitalen Abonnements. Sie bezahlen den 1. Monat vor Ort im Reisezentrum und geben Ihre Bankdaten für das Lastschriftverfahren des Abonnements an. Sie erhalten beim Abschluss eine Auftragsnummer. Mit dieser Auftragsnummer können Sie Ihr Deutschland-Ticket direkt in den DB Navigator laden und das Handy-Ticket sofort nutzen. Die Auftragsnummer allein ist kein gültiges Deutschland-Ticket und gilt nicht als Fahrberechtigung. In einzelnen Verbünden können Sie das Deutschland-Ticket als Chipkarte erhalten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-reisezentrum)
 
@@ -760,9 +752,15 @@ Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Ticke
  Kann ich ein Deutschland-Ticket verschenken?
 ----------
 
-Ja. Wenn Sie das Deutschland-Ticket in unseren personenbedienten Kanälen (z.B. Reisezentrum) kaufen, können Sie es auch für eine dritte Person erwerben.
+Ja.
 
-Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf sowie über unseren Direkteinstieg für Dritte buchen.
+Sie können das Deutschland-Ticket in unseren Reisezentren für eine andere Person kaufen.
+
+Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf oder über den Direkteinstieg für andere Personen buchen:
+
+Geben Sie dazu im Bestellschritt "Reisende Person" die Daten der anderen Person ein. Ihre Daten aus dem bahn.de Kundenkonto werden als Vertragspartner übernommen und Sie bleiben für die Verwaltung (Zahlung, Kündigung etc) verantwortlich.
+
+Bitte beachten Sie, dass das Abonnement bis zur Kündigung weiterläuft.
 
 [Deutschland-Ticket direkt buchen](https://www.bahn.de/angebot/regio/deutschland-ticket)
 

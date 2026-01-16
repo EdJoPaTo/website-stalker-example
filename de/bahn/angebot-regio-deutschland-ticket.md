@@ -36,17 +36,9 @@ Sie haben ab dem 15.Oktober 2025 bestellt? Sie wurden im Bestellprozess und in d
 
 ###  Mein Deutschland-Ticket wurde gekündigt. Was kann ich tun, wenn ich auch in 2026 das Angebot nutzen möchte?  ###
 
-Wenn Ihr Deutschland-Ticket gekündigt wurde, haben Sie mehrere Möglichkeiten...
+Wenn Ihr Deutschland-Ticket gekündigt wurde, können Sie ein neues Deutschland-Ticket-Abo abschließen. Der Preis beträgt 63 Euro pro Monat.
 
-1. Vor dem 31.12.2025
-
-Sie können Ihr Abo ganz einfach wieder „reaktivieren“. Wählen Sie dazu im Aboportal oder im DB Navigator den Menüpunkt „Abo reaktivieren“ aus. Diese Funktion ist nur bis zum eingetragenen Kündigungsdatum 31. Dezember 2025 verfügbar. So lange hat Ihr Abo den Status „Kündigung eingeleitet”. Wenn Sie das Abo reaktivieren, erneuern wir Ihr Deutschland-Ticket-Abo zu den neuen Konditionen, d.h. insbesondere zum neuen Preis.
-
-1. Nach dem 31.12.2025
-
-Wenn Sie im Januar 2026 wieder ein neues Deutschland-Ticket-Abonnement haben möchten und Ihr bisheriges gekündigt wurde, schließen Sie bitte ein neues Deutschland-Ticket-Abonnement zum neuen Preis von 63 Euro pro Monat ab.
-
-**Bitte beachten Sie:** Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben, damit Ihnen im Falle einer Fahrscheinkontrolle keine zusätzlichen Kosten entstehen.
+Bitte beachten Sie: Fahren Sie ab Januar 2026 ohne gültiges Ticket, müssen Sie bei einer Kontrolle ein erhöhtes Beförderungsentgelt von mindestens 60 Euro zahlen. Sorgen Sie deshalb immer für einen gültigen Fahrschein.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
