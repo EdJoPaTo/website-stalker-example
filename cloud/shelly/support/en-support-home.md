@@ -18,17 +18,6 @@ The estimated processing time during this period is **1–7 business days**.
 
 Thank you for your patience and understanding.
 
- ⚠️ Invoice Download Temporarily Unavailable ⚠️
-----------
-
- Due to the transition from **BGN (Bulgarian Lev) to EUR** in Bulgaria, our invoicing system is currently undergoing maintenance.
-
- During this period, invoice download links are unavailable, and **our support team does not have access to invoices**.
-
- The maintenance is expected to be completed within **up to one week**, after which invoice download links will be fully restored.
-
- Thank you for your understanding.
-
 Knowledge base
 ----------
 
