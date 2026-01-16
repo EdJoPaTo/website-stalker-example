@@ -64,7 +64,7 @@ Nur 152 Euro
 
 ### Aktion Ermäßigte Probe BahnCard 25 Gold, 2. Klasse ###
 
- Holt Deutschland Gold bei den Winterspielen Milano Cortina, fahren Sie mit der ermäßigten Probe BahnCard 25 Gold **am nächsten Tag gratis im** **DB Fernverkehr** **durch ganz Deutschland fahren**
+ Holt Deutschland Gold bei den Winterspielen Milano Cortina, fahren Sie mit der ermäßigten Probe BahnCard 25 Gold **am nächsten Tag gratis im DB Fernverkehr durch ganz Deutschland**
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/aktion-ermaessigteprobebahncard25-2-klasse)
 
@@ -74,7 +74,7 @@ Nur 19,90 Euro
 
 ### Aktion Ermäßigte Probe BahnCard 25 Gold, 1. Klasse ###
 
- Holt Deutschland Gold bei den Winterspielen Milano Cortina, fahren Sie mit der ermäßigten Probe BahnCard 25 Gold **am nächsten Tag gratis im** **DB Fernverkehr** **durch ganz Deutschland fahren**
+ Holt Deutschland Gold bei den Winterspielen Milano Cortina, fahren Sie mit der ermäßigten Probe BahnCard 25 Gold **am nächsten Tag gratis im DB Fernverkehr durch ganz Deutschland**
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/aktion-ermaessigteprobebahncard25-1-klasse)
 
@@ -84,7 +84,7 @@ Nur 39,90 Euro
 
 ### Aktion Ermäßigte Probe BahnCard 50 Gold, 2. Klasse ###
 
- Holt Deutschland Gold bei den Winterspielen Milano Cortina, fahren Sie mit der ermäßigten Probe BahnCard 50 Gold **am nächsten Tag gratis im** **DB Fernverkehr** **durch ganz Deutschland fahren**
+ Holt Deutschland Gold bei den Winterspielen Milano Cortina, fahren Sie mit der ermäßigten Probe BahnCard 25 Gold **am nächsten Tag gratis im DB Fernverkehr durch ganz Deutschland**
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/aktion-ermaessigteprobebahncard50-2-klasse)
 
@@ -94,7 +94,7 @@ Nur 76,90 Euro
 
 ### Aktion Ermäßigte Probe BahnCard 50 Gold, 1. Klasse ###
 
- Holt Deutschland Gold bei den Winterspielen Milano Cortina, fahren Sie mit der ermäßigten Probe BahnCard 50 Gold **am nächsten Tag gratis im** **DB Fernverkehr** **durch ganz Deutschland fahren fahren**
+ Holt Deutschland Gold bei den Winterspielen Milano Cortina, fahren Sie mit der ermäßigten Probe BahnCard 50 Gold **am nächsten Tag gratis im** **DB Fernverkehr** **durch ganz Deutschland**
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/aktion-ermaessigteprobebahncard50-1-klasse)
 
