@@ -421,7 +421,7 @@ Nein, alle Statusvorteile sind für den Zeitraum Ihrer persönlichen Statuslaufz
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ablauf-statuslaufzeit-statusvorteile)
 
- Wie kann ich mein Digitales Abo im in App DB Navigator nutzen?
+ Wie kann ich mein Digitales Abo in der App DB Navigator nutzen?
 ----------
 
 Das Handy-Ticket für Ihr digitales Abo wird Ihnen nach erfolgreicher Aktivierung bereitgestellt. Falls Sie schon eine Aktivierungsmail erhalten haben, können Sie das Handy-Ticket direkt über den Link hinzufügen.
