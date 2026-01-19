@@ -1,15 +1,26 @@
-Sportliche Wärme zum Bestpreis
+Spare bis zu
+---
+
+Herren SALE
+
+Damen SALE
+
+Kinder SALE
+
+[alle SALE Artikel](https://www.strauss.com/de/de/sale/?itemorigin=startseite_HW25)
 
  Sportliche Wärme zum Bestpreis
 
- Neujahrs-
-knaller!
+ Sportliche Wärme zum Bestpreis
+
+ Unser Angebot
+für kalte Tage
 ----------
 
 ---
 
- Jetzt NEU: Warm, leicht
-& unschlagbar günstig!
+ 3 neue Winter-Modelle
+ unschlagbar günstig!
 
 [die warmen Allrounder entdecken](https://www.strauss.com/de/de/warme-allrounder/?itemorigin=startseite_HW25)
 
@@ -45,265 +56,181 @@ knaller!
 
  ab 27,90 € o. MwSt.
 
- Trittfest
-im Winter
+ Warme
+S7-Sicherheit
 ----------
 
 ---
 
- S7S e.s. Woodside mid:
-starke Rundumsicherheit
+ In coolen Styles
+wetterfest & rutschsicher
 
 alle wetterfesten Sicherheitsschuhe
 
 Schuhe mit Zehenschutz
 
- S7S Sicherheitsschuhe
-e.s. Woodside mid
+ S7 Sicherheitsstiefel
+ e.s. Okomu high
 
- Bundhose e.s.motion
- 2020, Winter
+ S7 Sicherheitsschlupfstiefel
+ e.s. Okomu high
 
- Cooler Style
-warmes Futter
-----------
-
----
-
- Gefütterte Arbeitshosen
-für den Winter
-
-[alle Winterhosen entdecken](https://www.strauss.com/de/de/themen-winterhosen/?itemorigin=startseite_HW25)
+ S7 Sicherheitsschuhe
+ e.s. Okomu mid
 
 *
 *
 *
 
- Werkzeuge – Startklar mit den richtigen Tools
+###
+
+Workwear meets Fanwear
+
+ ###
+
+---
+
+ Spare bis zu
+---
+
+ 49%
+---
+
+ NFL Hoodie cotton
+---
+
+ Men
+
+ Ladies
+
+###  NFL X
+Strauss  ###
+
+---
+
+ Warm-up für den Super Bowl
+
+[für Herren](https://www.strauss.com/de/de/nfl-x-strauss/?itemorigin=startseite_HW25)
+
+[für Damen](https://www.strauss.com/de/de/nfl-x-strauss-damen/?itemorigin=startseite_HW25)
+
+[für Kinder](https://www.strauss.com/de/de/nfl-x-strauss-kinder/?itemorigin=startseite_HW25)
+
+ Wetterfest & warm: das Winter-Dreamteam für die Piste
 ----------
 
 ---
 
- 18,0 V Akku-Winkelschleifer + Bohrschrauber M Set
----
-
- \-56%
----
-
-547,16 €
-
- 237,88 €
----
-
- (m. MwSt.)
-
-459,80 € **199,90 €** (o. MwSt.)
-
-[](https://www.strauss.com/de/de/elektrowerkzeuge-sets/18-0-v-akku-winkelschleifer-bohrschrauber-m-set-7118770-5521164-0.html?itemorigin=startseite_HW25)
-
-###  Bereit für
-frische Ideen  ###
-
----
-
-[Winkelschleifer entdecken](https://www.strauss.com/de/de/akku-winkelschleifer?itemorigin=startseite_HW25)
-
-[alle Werkzeuge entdecken](https://www.strauss.com/de/de/werkzeuge/?itemorigin=startseite_HW25)
-
- Wenn's kalt wird: Warmhalten
+ Wetterfest & warm: das Winter-Dreamteam für die Piste
 ----------
 
 ---
 
- Wenn's kalt wird: Warmhalten
+ extra leichte, wärmende
+Innenjacke | klein verstaubar
+
+ wetterfeste
+Außenjacke
+
+ Spezial-Workwear e.s.trail snow
+---
+
+###  Arbeiten bei
+ Eis & Schnee  ###
+
+---
+
+[gesamte e.s.trail Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/?itemOrigin=startseite_hw25)
+
+3 in 1 Funktionsjacke
+e.s.trail snow
+
+---
+
+ mit auszippbarer Innenjacke
+
+Funktionshose e.s.trail snow
+
+---
+
+ mit innenliegendem Schneefang
+
+ Alles für drunter
 ----------
 
 ---
 
- e.s. Isolierflasche
----
-
- 1 Variante
-
- e.s. Food-Container
----
-
- 1 Variante
-
-[alles für die Pause](https://www.strauss.com/de/de/kueche-haushalt/?itemorigin=startseite_HW25)
-
-[alles für die Pause](https://www.strauss.com/de/de/kueche-haushalt/?itemorigin=startseite_HW25)
-
- Funktionsunterwäsche für Sie und Ihn
+ Alles für drunter
 ----------
 
 ---
 
- Funktionsunterwäsche für Sie und Ihn
-----------
-
+ Die Basis für Komfort:
 ---
 
-###  Wohlfühl-
-Wärme
-hautnah  ###
-
+ Funktionsunterwäsche
 ---
 
 [für Herren](https://www.strauss.com/de/de/funktionsunterwaesche/?itemorigin=startseite_HW25)
 
 [für Damen](https://www.strauss.com/de/de/funktionsunterwaesche-damen/?itemorigin=startseite_HW25)
 
-[Herren](https://www.strauss.com/de/de#!functional/men) [Damen](https://www.strauss.com/de/de#!functional/women)
+[
+
+Herren
+
+]() [
+
+Damen
+
+]()
 
 [Funktions-Longsleeve e.s.trail seamless - warm](https://www.strauss.com/de/de/funktionsshirts-unterziehshirts/funktions-longsleeve-e-s-trail-seamless-warm-3411510-87830-1564.html?itemorigin=startseite_HW25)
 
- Angebote zum warm werden
+[
+
+Herren
+
+]() [
+
+Damen
+
+]()
+
+[Funktions-Longsleeve e.s.trail seamless - warm](https://www.strauss.com/de/de/unterziehshirts-damen/funktions-longsleeve-e-s-trail-seamless-warm-damen-3411560-87834-1803.html?itemorigin=startseite_HW25)
+
+ Funktionssocken
+---
+
+[für Herren](https://www.strauss.com/de/de/funktionssocken/?itemorigin=startseite_HW25)
+
+[für Damen](https://www.strauss.com/de/de/funktionssocken-damen/?itemorigin=startseite_HW25)
+
+**Perfekt ausgerüstet**  für Kalte Tage
+
 ----------
 
 ---
 
- Angebote zum warm werden
-----------
+[alle Wintermützen](https://www.strauss.com/de/de/muetzen/?=&itemorigin=startseite_HW25)
 
+alle Winterhandschuhe
+
+ Parka e.s.iconic
+
+ Parka e.s.iconic, Damen
+
+ bereit für jedes Wetter
 ---
 
- SALE
+ Winterjacken
 ---
 
- SALE
----
+[für Herren](https://www.strauss.com/de/de/winter-arbeitsjacken/?=&itemorigin=startseite_HW25)
 
- SALE
----
+[für Damen](https://www.strauss.com/de/de/winterjacken-damen/?=&itemorigin=startseite_HW25)
 
- SALE
----
-
- SALE
----
-
- NEU
----
-
- NEU
----
-
- NEU
----
-
- NEU
----
-
- NEU
----
-
- SET: 2x e.s. Allround Socken Function x-warm/high
-
-\+ gratis Multifunktionstuch
-
- SALE
----
-
- SALE
----
-
- SALE
----
-
- SALE
----
-
- SALE
----
-
- NEU
----
-
- NEU
----
-
- NEU
----
-
- NEU
----
-
- NEU
----
-
- SET: 2x e.s.Allround Socken Function x-warm/x-high
-
-\+ gratis Multifunktionstuch
-
- Setpreis
----
-
- Setpreis
----
-
- Setpreis
----
-
- Setpreis
----
-
- Setpreis
----
-
- TEST-Set: Handschuhe Kälteschutz
-
- NEUE SETS
-IM WINTER
-----------
-
----
-
-[alle Sets entdecken](https://www.strauss.com/de/de/sale-aktions-sets/?itemorigin=startseite_HW25)
-
-[alle Sets](https://www.strauss.com/de/de/sale-aktions-sets/?itemorigin=startseite_HW25)
-
-[](https://www.strauss.com/de/de/sale-aktions-sets/?itemorigin=startseite_HW25)
-
- Wärme-Boost auf Knopfdruck
-----------
-
----
-
-###
-
-e.s. Heiz-
-sitzkissen
-
- ###
-
----
-
-###
-
-e.s. Heiz-
-sitzkissen
-
- ###
-
----
-
-bis zu 12 h Wärmeleistung
-
-3 wählbare Heizstufen
-
-komfortable Bedienung
-
-bis zu 12 h Wärmeleistung
-
-3 wählbare Heizstufen
-
-[jetzt kaufen](https://www.strauss.com/de/de/bekleidungszubehoer/e-s-heizsitzkissen-7903140-8371579-1.html?itemorigin=startseite_HW25)
-
-[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=startseite_HW25)
-
- Power-Bank
-PD 10.000 mAh
+[für Kinder](https://www.strauss.com/de/de/winterjacken-kinder/?=&itemorigin=startseite_HW25)
 
  Personalisierte Outfits für jeden Anlass
 ----------
@@ -373,27 +300,6 @@ einstickung
 ---
 
  Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
-
- Sichtbar sicher durch den Winter
-----------
-
----
-
- Sichtbar sicher durch den Winter
-----------
-
----
-
- Warnschutzkleidung
----
-
- Maximale
-Sichtbarkeit
----
-
-[alle Produkte für Herren](https://www.strauss.com/de/de/warnschutzkleidung-en20471/?itemorigin=startseite_HW25)
-
-[alle Produkte für Damen](https://www.strauss.com/de/de/warnschutzkleidung-en20471-damen/?itemorigin=startseite_HW25)
 
  Nach Kategorie shoppen
 ---
