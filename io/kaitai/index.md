@@ -75,7 +75,7 @@ seq:
 ```
 public class TcpSegment extends KaitaiStruct {
     // ...
-    private void _read() throws IOException {
+    private void _read() {
         this.srcPort = _io.readU2be();
         this.dstPort = _io.readU2be();
         this.seqNum = _io.readU4be();
@@ -127,7 +127,7 @@ It declares that a GIF file usually has a `.gif` extension and uses little-endia
   * `image_width` and `image_height` are 2-byte unsigned ints
   * `flags`, `bg_color_index` and `pixel_aspect_ratio` take 1-byte unsigned ints each
 
-This `.ksy` file can be compiled into `gif.cpp` / `Gif.cs` / `gif.go` / `Gif.java` / `Gif.js` / `gif.lua` / `gif.nim` / `Gif.pm` / `Gif.php` / `gif.py` / `gif.rb` and then one can instantly load a .gif file and access, for example, its width and height.
+This `.ksy` file can be compiled into `gif.cpp` / `Gif.cs` / `gif.go` / `Gif.java` / `Gif.js` / `gif.lua` / `gif.nim` / `Gif.pm` / `Gif.php` / `gif.py` / `gif.rb` / `gif.rs` and then one can instantly load a .gif file and access, for example, its width and height.
 
 * [C++/STL](#example-cpp-stl)
 * [C#](#example-csharp)
@@ -205,15 +205,15 @@ print("height = ", $g->logical_screen()->image_height(), "\n");
 ```
 $g = Gif::fromFile("path/to/some.gif");
 
-print("width = " . $g->logicalScreen()->imageWidth() . "\n");
-print("height = " . $g->logicalScreen()->imageHeight() . "\n");
+echo "width = " . $g->logicalScreen()->imageWidth() . "\n";
+echo "height = " . $g->logicalScreen()->imageHeight() . "\n";
 ```
 
 ```
 g = Gif.from_file("path/to/some.gif")
 
-print("width = %d" % (g.logical_screen.image_width))
-print("height = %d" % (g.logical_screen.image_height))
+print(f"width = {g.logical_screen.image_width}")
+print(f"height = {g.logical_screen.image_height}")
 ```
 
 ```
@@ -246,7 +246,7 @@ We're currently setting up an alternative repository to replace Bintray, which w
 
 * [Linux .deb](#download-linux-deb)
 * [macOS - Homebrew](#download-mac-homebrew)
-* [Windows](#download-windows)
+* [Windows .msi](#download-windows)
 * [Universal .zip](#download-universal)
 * [Source](#download-source)
 
@@ -281,7 +281,7 @@ Windows versions are available as an MSI format installer. If you want a portabl
 #### Requirements ####
 
 * Windows
-* [Java](https://whichjdk.com/) (the latest LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
+* [Java](https://whichjdk.com/) (LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
 
 "Universal" builds are downloadable as a .zip file that includes all the required .jar files bundled and launcher scripts for Linux / macOS / Windows systems. No installation required, one can just unpack and run it.
 
@@ -292,7 +292,7 @@ Windows versions are available as an MSI format installer. If you want a portabl
 #### Requirements ####
 
 * Linux / macOS / Windows system
-* [Java](https://whichjdk.com/) (the latest LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
+* [Java](https://whichjdk.com/) (LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
 
 If you prefer to build your tools from source, or just want to see how KS works, the easiest way to check out the whole project is to download the [main (umbrella) repository](https://github.com/kaitai-io/kaitai_struct) that already includes all other parts as submodules. Use:
 
@@ -311,7 +311,7 @@ Alternatively, one can check out individual sub-projects that consitute the Kait
 #### Requirements ####
 
 * [git](https://git-scm.com/)
-* [Java](https://whichjdk.com/) (the latest LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
+* [Java](https://whichjdk.com/) (LTS version 21 recommended, at least Java 8 required), [JDK or JRE](https://whichjdk.com/#what-is-the-difference-between-jdk-and-jre) at your option
 * [sbt](http://www.scala-sbt.org/)
 * POSIX shell for test automation
 
