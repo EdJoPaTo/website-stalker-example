@@ -363,7 +363,7 @@ Weitere Antworten findest du im [FAQ-Bereich](https://helpcenter.netcup.com/de/f
 
 [VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
 
-[vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
 
 [CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
 

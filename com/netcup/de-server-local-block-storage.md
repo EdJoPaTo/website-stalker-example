@@ -147,7 +147,7 @@ Weitere Antworten finden Sie im [Local Block Storage FAQ-Bereich](https://helpce
 
 [VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
 
-[vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
 
 [CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
 

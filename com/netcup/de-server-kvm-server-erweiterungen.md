@@ -117,7 +117,7 @@ Wir bieten dir Service Level an, die die regulären Garantien zur Verfügbarkeit
 
 [VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
 
-[vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
 
 [CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
 
