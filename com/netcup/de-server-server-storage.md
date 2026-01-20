@@ -90,7 +90,7 @@ Der Storage Space kann zu einem bestehenden Server über das CCP gebucht werden.
 
 [VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
 
-[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+[vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
 
 [CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
 
