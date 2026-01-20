@@ -13,168 +13,106 @@ Virtuelle Server (VPS)
 vServer günstig mieten
 ----------
 
-vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder SSD-Speicherplatz aus. Mit der Möglichkeit der stundenbasierten Abrechnung, dem [DDoS-Schutz](https://www.netcup.com/de/ueber-netcup/ddos-schutz), den vorkonfigurierten Images sind unsere vServer **vielseitig zu dem besten Preis-Leistungs-Verhältnis einsetzbar**.
+vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder NVMe-Speicherplatz aus. Mit der Möglichkeit der stundenbasierten Abrechnung, dem [DDoS-Schutz](https://www.netcup.com/de/ueber-netcup/ddos-schutz), den vorkonfigurierten Images sind unsere vServer **vielseitig zu dem besten Preis-Leistungs-Verhältnis einsetzbar**.
 
-VPS 250 G11s
+VPS 500 G12
 
 * 2 vCore (x86)
-* 2 GB ECC RAM
-* 64 GB SSD
+* 4 GB DDR5 RAM (ECC)
+* 128 GB NVMe
 * Traffic inklusive
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
  Details \>
 
-0,006€/Stunde, je Monat:
+bereits ab monatlich
 
-3,99 €
+4,87 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-250-g11s)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-500-g12-12m#vps-500-g12-12m-nue)
 
-VPS 500 G11s
+Launch Deal
+
+VPS 1000 G12
 
 * 4 vCore (x86)
-* 4 GB ECC RAM
-* 128 GB SSD
+* 8 GB DDR5 RAM (ECC)
+* 256 GB NVMe
 * Traffic inklusive
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
  Details \>
 
-0,007€/Stunde, je Monat:
+bereits ab monatlich
 
-4,76 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-500-g11s)
-
-VPS 1000 G11
-
-* 4 vCore (x86)
-* 8 GB ECC RAM
-* 256 GB SSD
-* Traffic inklusive
-* Snapshots (Copy-On-Write)
-* Remote-Konsole uvm...
-
- Details \>
-
-0,011€/Stunde oder je Monat ab:
-
-7,85 €
+8,45 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-1000-g11-12m#vps-1000-g11-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-1000-g12-12m#vps-1000-g12-12m-nue)
 
-VPS 2000 G11
+VPS 2000 G12
 
 * 8 vCore (x86)
-* 16 GB ECC RAM
-* 512 GB SSD
+* 16 GB DDR5 RAM (ECC)
+* 512 GB NVMe
 * Traffic inklusive
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
  Details \>
 
-0,025€/Stunde oder je Monat ab:
+bereits ab monatlich
 
-14,99 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-2000-g11-12m#vps-2000-g11-12m-nue)
-
-VPS 3000 G11
-
-* 10 vCore (x86)
-* 24 GB ECC RAM
-* 768 GB SSD
-* Traffic inklusive
-* Snapshots (Copy-On-Write)
-* Remote-Konsole uvm...
-
- Details \>
-
-0,034€/Stunde oder je Monat ab:
-
-20,23 €
+15,59 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-3000-g11-12m#vps-3000-g11-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-2000-g12-12m#vps-2000-g12-12m-nue)
 
-VPS 4000 G11
+VPS 4000 G12
 
 * 12 vCore (x86)
-* 32 GB ECC RAM
-* 1024 GB SSD
+* 32 GB DDR5 RAM (ECC)
+* 1024 GB NVMe
 * Traffic inklusive
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
  Details \>
 
-0,043€/Stunde oder je Monat ab:
+bereits ab monatlich
 
-25,58 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-4000-g11-12m#vps-4000-g11-12m-nue)
-
-VPS 6000 G11
-
-* 14 vCore (x86)
-* 48 GB ECC RAM
-* 1536 GB SSD
-* Traffic inklusive
-* Snapshots (Copy-On-Write)
-* Remote-Konsole uvm...
-
- Details \>
-
-0,052€/Stunde oder je Monat ab:
-
-30,94 €
+26,18 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-6000-g11-12m#vps-6000-g11-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-4000-g12-12m#vps-4000-g12-12m-nue)
 
-VPS 8000 G11
+VPS 8000 G12
 
 * 16 vCore (x86)
-* 64 GB DDR ECC
-* 2048 GB SSD
+* 64 GB DDR5 RAM (ECC)
+* 2048 GB NVMe
 * Traffic inklusive
 * Snapshots (Copy-On-Write)
 * Remote-Konsole uvm...
 
  Details \>
 
-0,063€/Stunde oder je Monat ab:
+bereits ab monatlich
 
-38,08 €
+38,68 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-8000-g11-12m#vps-8000-g11-12m-nue)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-8000-g12-12m#vps-8000-g12-12m-nue)
 
 Hier geht es zu den [vServer FAQs](https://www.netcup.com/de/server/vps#FAQs)
-
-Hello Asia! Root Server G12 sind ab sofort in Singapur verfügbar.
-----------
-
-Sichere dir deinen **Root Server G12** an unserem **neuen Standort in Singapur** – ein globaler Connectivity-Hub für deine Projekte in Asien. Optimale Anbindung, niedrige Latenzen und maximale Performance im APAC-Raum.
-
-[Mehr erfahren\>](https://www.netcup.com/de/blog/news/jetzt-neu-entdecke-ab-sofort-unser-server-angebot-in-singapur)
 
 Vorteile unserer vServer / VPS
 ----------
@@ -184,74 +122,50 @@ Basierend auf einer möglichst flexiblen Mindestvertragslaufzeit bieten unsere v
 Local Block Storage bei vServer
 ----------
 
-Bis zu insgesamt 8 TB Speicher erhalten Sie mit der Local Block Storage Technologie. Wähle frei von Laufzeiten die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage) und decke so einfach und schnell den Bedarf an neuen Ressourcen. **Profitiere von der flexiblen und kostengünstigen Möglichkeit**, Speicherkapazitäten jederzeit nach Bedarf zu erweitern.
+Mit der Local Block Storage-Technologie stehen dir **bis zu 8 TB zusätzlicher Speicher** zur Verfügung. Wähle flexibel und ohne feste Laufzeiten genau die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage), die du benötigst, und erweitere deine Ressourcen schnell und unkompliziert. So passt du deine Speicherleistung jederzeit **bedarfsgerecht, flexibel und kosteneffizient** an.
 
 VPS-Server im Vergleich
 ----------
 
-* [VPS 250](https://www.netcup.com/de/server/vps/vps-250-g11s)
-
-  ### VPS 250 ###
-
-  eignet sich ideal für **kleine bis mittelgroße Unternehmens-Webseiten,** sowie für **Blogs** und **persönliche Webseiten** von Einzelpersonen, die ihre Online-Präsenz aufbauen und Inhalte teilen möchten.
-
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-250-g11s)
-
-* [VPS 500](https://www.netcup.com/de/server/vps/vps-500-g11s)
+* [VPS 500](https://www.netcup.com/de/server/vps/vps-500-g12-12m#vps-500-g12-12m-nue)
 
   ### VPS 500 ###
 
-  eignet sich ideal für mittelgroße Unternehmens-Webseiten und für **E-Mail-Server für kleinere Unternehmen,** die E-Mail-Kommunikation zuverlässig verwalten müssen, sowie für den Betrieb mittelgroßer Online-Shops mit einer Vielzahl von Produkten und Transaktionen.
+  eignet sich für **kleine bis mittelgroße Webprojekte**, persönliche oder geschäftliche **Webseiten** sowie für **Entwicklungs- und Testumgebungen**. Auch einfache E-Mail-Server, kleinere Online-Shops und leichte Backend-Anwendungen lassen sich zuverlässig betreiben.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-500-g11s)
+  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-500-g12-12m#vps-500-g12-12m-nue)
 
-* [VPS 1000](https://www.netcup.com/de/server/vps/vps-1000-g11-12m)
+* [VPS 1000](https://www.netcup.com/de/server/vps/vps-1000-g12-12m#vps-1000-g12-12m-nue)
 
   ### VPS 1000 ###
 
-  bietet ausreichend Leistung und Ressourcen für **umfangreiche Unternehmens-Webseiten** und Online-Präsenzen wie für **mittelgroße E-Commerce-Websites** mit umfangreichen Produktkatalogen und vielen Transaktionen sowie für datenintensive Anwendungen und **mittelgroße Datenbanken.**
+  bietet ausreichend Leistungsreserven für **wachsende Webauftritte**, dynamische Unternehmensseiten und **mittelgroße E-Commerce-Projekte**. Zusätzlich eignet sich dieser Plan für APIs, Anwendungen mit höherem Datenaufkommen sowie für produktive Datenbanken und Services.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-1000-g11-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-1000-g12-12m#vps-1000-g12-12m-nue)
 
-* [VPS 2000](https://www.netcup.com/de/server/vps/vps-2000-g11-12m)
+* [VPS 2000](https://www.netcup.com/de/server/vps/vps-2000-g12-12m#vps-2000-g12-12m-nue)
 
   ### VPS 2000 ###
 
-  bietet eine robuste Leistung **für große Unternehmens-Webseiten** und **Online-Shops** mit einer Vielzahl von Produkten und hohem Transaktionsaufkommen, sowie für **Enterprise-Datenbanken** und die Verarbeitung von großen Datenmengen für **Big Data.**
+  ist ausgelegt für **leistungsintensivere Webanwendungen**, größere **Online-Shops** und stark frequentierte **Unternehmensplattformen**. Darüber hinaus eignet er sich für komplexere Backend-Systeme, größere **Datenbanken** und **datenverarbeitende Anwendungen**.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-2000-g11-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-2000-g12-12m#vps-2000-g12-12m-nue)
 
-* [VPS 3000](https://www.netcup.com/de/server/vps/vps-3000-g11-12m)
-
-  ### VPS 3000 ###
-
-  eignet sich als **hochleistungs- E-Commerce-Plattform** und für rechenintensive Anwendungen wie **Video-Streaming** und **Online-Spiele,** sowie für die Verarbeitung großer Datenmengen, Datenbanken und Datenanalysen auf Unternehmensebene.
-
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-3000-g11-12m)
-
-* [VPS 4000](https://www.netcup.com/de/server/vps/vps-4000-g11-12m)
+* [VPS 4000](https://www.netcup.com/de/server/vps/vps-4000-g12-12m#vps-4000-g12-12m-nue)
 
   ### VPS 4000 ###
 
-  ist eine High-End-Option und optimal für anspruchsvolle Großprojekte und rechenintensive Anwendungen wie rechenintensive Anwendungen für **künstliche Intelligenz, maschinelles Lernen und 3D-Rendering,** sowie für komplexe Datenanalysen und das **Hosting von Enterprise-Software.**
+  richtet sich an anspruchsvolle Projekte mit hohem Ressourcenbedarf, etwa umfangreiche Plattformen, **Enterprise-Anwendungen** oder rechenintensive Workloads. Auch Container-Umgebungen, komplexe Analysen und spezialisierte Software lassen sich effizient betreiben.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-4000-g11-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-4000-g12-12m#vps-4000-g12-12m-nue)
 
-* [VPS 6000](https://www.netcup.com/de/server/vps/vps-6000-g11-12m)
-
-  ### VPS 6000 ###
-
-  ist die passende Wahl für anspruchsvolle Projekte und ressourcenintensive Anwendungen wie **wissenschaftliche Berechnungen und Simulationen**, komplexe **Datenanalysen** und **Big Data-Verarbeitung** auf Enterprise-Ebene, sowie die Schaffung leistungsstarker **Private Cloud-Infrastrukturen** und das Hosting vieler verschiedener Anwendungen und Dienste.
-
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-6000-g11-12m)
-
-* [VPS 8000](https://www.netcup.com/de/server/vps/vps-8000-g11-12m)
+* [VPS 8000](https://www.netcup.com/de/server/vps/vps-8000-g12-12m#vps-8000-g12-12m-nue)
 
   ### VPS 8000 ###
 
-  ist die Spitzenklasse für anspruchsvolle Großprojekte. Darunter fallen rechenintensive Anwendungen, wissenschaftliche Berechnungen und Simulationen, umfangreiche Datenanalysen und Big Data-Verarbeitung auf **Enterprise-Level,** sowie die Entwicklung und den Betrieb von komplexen Softwarelösungen, **unternehmenskritischen Anwendungen** und umfangreiche Entwicklungsprojekte und Datenanalysen.
+  stellt maximale Leistung für **professionelle Großprojekte**, unternehmenskritische Anwendungen und sehr **rechenintensive Szenarien** bereit. Er eignet sich für umfangreiche **Entwicklungsumgebungen**, Big-Data-Verarbeitung, Simulationen sowie **komplexe Software- und Analyseplattformen**.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-8000-g11-12m)
+  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-8000-g12-12m#vps-8000-g12-12m-nue)
 
 Managed vServer möglich
 ----------
@@ -300,6 +214,14 @@ Mit einem vServer hast du die Möglichkeit, verschiedene Aufgaben auszuführen, 
 
 ###
 
+Was sind die Vorteile eines VPS?
+
+ ###
+
+Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
+
+###
+
 Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server?
 
  ###
@@ -320,15 +242,25 @@ Wo ist der Standort meines VPS?
 
  ###
 
-Bei netcup bieten wir dir **Wien (Österreich), Nürnberg (Deutschland), Manassas (USA) und Amsterdam (Niederlande)** als Standort für deinen vServer an. Der Standort kann beim Kauf des Servers ausgewählt werden. Die Bezeichnung 'VIE', 'NUE', 'MNZ' bzw. 'AMS 'bedeutet, dass sich der physische Standort des Servers im Rechenzentrum in Wien (Vienna), Nürnberg (Nuremberg), Manassas (Manassas) oder Amsterdam (Amsterdam) befindet. Die Auswahl 'Keine Präferenz Europa' bedeutet, dass der VPS je nach freien Kapazitäten entweder in Wien, Nürnberg oder Amsterdam gehostet wird.
+Den Serverstandort wählst du bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
+
+* Wien (VIE)
+* Nürnberg (NUE)
+* Amsterdam (AMS)
+* Manassas/USA (MNZ) und
+* Singapur (SIN)
+
+Die jeweilige Abkürzung zeigt dir, in welchem Rechenzentrum dein Server physisch betrieben wird.
+
+Zusätzlich gibt es die Option **„Keine Präferenz Europa“** - dabei kannst du den genauen Standort nicht festlegen, dein Server wird jedoch ausschließlich in einem europäischen Rechenzentrum (z. B. Wien, Nürnberg oder Amsterdam) eingerichtet, abhängig von den verfügbaren Kapazitäten.
 
 ###
 
-Was sind die Vorteile eines VPS?
+Welche Vertragslaufzeiten sind für VPS Server G12 verfügbar?
 
  ###
 
-Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
+ Wir bieten bei unseren Regulärtarifen eine 12-monatige Vertragslaufzeit an. Alternativ kannst du das stundenbasierte Abrechnungsmodell wählen. Sondertarife können abweichende Laufzeiten haben.
 
 ###
 
@@ -336,7 +268,9 @@ Kann ich meinen VPS mit Local Block Storage erweitern?
 
  ###
 
-Ja, du kannst deinen VPS mit Local Block Storage erweitern. Dies bietet dir **zusätzlichen Speicherplatz für deine Daten und Anwendungen**, um deine Leistung und Speicheranforderungen zu erweitern. Bei der G11s Generation ist eine Erweiterung jedoch nur bei ausgewählten Angeboten und bis maximal 2 TB möglich.
+Ja, du kannst deinen VPS nach Einrichtung mit Local Block Storage erweitern. Dies bietet dir **zusätzlichen Speicherplatz für deine Daten und Anwendungen**, um deine Leistung und Speicheranforderungen zu erweitern.
+
+VPS Tarife der Generation 10 aufwärts können bis zu einem **Maximum** von **8 TB** erweitert werden. Bei Tarifen der Generation VPS G11s (VPS pico G11s, VPS nano G11s) ist keine Erweiterung mit Local Block Storage möglich. VPS Lite G12-Tarife sind auf **bis zu 4 TB** erweiterbar.
 
 ###
 
@@ -344,7 +278,14 @@ Wie werden die Server abgerechnet?
 
  ###
 
-Die Server werden auf zwei Arten abgerechnet: **stundenbasiert und auf einer 12-Monats-Basis**. Bei den Stundentarifen zahlst du monatlich im Voraus und die Abrechnung erfolgt auf Stundenbasis, wenn du den Vertrag beendest. Es gibt keine Mindestvertragslaufzeiten oder Kündigungsfristen. Die 12-Monats-Abrechnung bietet dir langfristige Planungssicherheit und mögliche Kosteneinsparungen bei einer längeren Vertragslaufzeit.
+Die vServer werden je nach Auswahl auf zwei Arten abgerechnet:
+
+* **stundenbasiert**
+* oder auf einer **12-Monats-Basis**
+
+Bei den stundenbasierten Tarifen zahlst du monatlich im Voraus und die Abrechnung erfolgt auf Stundenbasis, wenn du den Vertrag beendest. Es gibt keine Mindestvertragslaufzeiten oder Kündigungsfristen.
+
+Die 12-Monats-Abrechnung bietet dir langfristige Planungssicherheit und mögliche Kosteneinsparungen bei einer längeren Vertragslaufzeit und Vorauszahlung.
 
 ###
 
@@ -356,11 +297,59 @@ netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Mö
 
 ###
 
+Kann ich zwischen unterschiedlichen VPS Server-Varianten wechseln, wenn mein Projekt wächst?
+
+ ###
+
+ Ja, du kannst innerhalb derselben Generation (z.B. VPS 1000 G12s zu VPS 2000 G12s) bzw. Tarifgruppe (z.B. VPS Lite 1 G12s auf VPS Lite 2 G12s) auf einen höheren Tarif upgraden. Nutze dazu die Upgrade-Funktion im Customer Control Panel (CCP). Upgrades von und zu Aktionsprodukten oder Sonderprodukten sind nicht möglich.
+
+Hier erfährst du mehr über [Produktupgrades](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade).
+
+###
+
+Kann ich von VPS G11 auf VPS G12 upgraden?
+
+ ###
+
+Ein direktes Upgrade ist nicht möglich. Du kannst jedoch einen VPS G12-Tarif bestellen, den VPS G11-Tarif zum Ende deiner Mindestvertragslaufzeit kündigen und deine Daten migrieren.
+
+###
+
+Sind VPS G11 Produkte weiterhin bestellbar?
+
+ ###
+
+Unsere aktuelle Tarifstruktur baut auf Produkten der Generation 12 auf. Produkte der Generation 11 stehen daher in der Regel nicht weiter zum Verkauf. Upgrades innerhalb der Generation 11 sind weiterhin möglich.
+
+###
+
+Welche Netzwerkkonfigurationen stehen für VPS Tarife zur Verfügung?
+
+ ###
+
+Es stehen dir folgende drei Optionen zur Verfügung:
+
+* IPv4 und IPv6 Connectivity
+* IPv6 Connectivity
+* Cloud vLAN only
+
+Lies dir bei Unklarheiten am besten alle Infos zu [Netzwerkkonfiguration im Help Center](https://helpcenter.netcup.com/de/wiki/server/netzwerk-konfiguration/) durch.
+
+###
+
+Kann ich meinen Serverstandort nachträglich ändern?
+
+ ###
+
+Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Migration ist nur möglich, indem du am gewünschten Standort neu bestellst und alle Daten manuell übernimmst.
+
+###
+
 Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
 
  ###
 
-Weitere Antworten findest du im [VPS G11 FAQ-Bereich](https://helpcenter.netcup.com/de/faq#server) in unserem Help Center.
+Weitere Antworten findest du im [FAQ-Bereich](https://helpcenter.netcup.com/de/faq#server) unseres Help Centers.
 
 ### Weitere Angebote ###
 
@@ -372,9 +361,9 @@ Weitere Antworten findest du im [VPS G11 FAQ-Bereich](https://helpcenter.netcup.
 
 [Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
 
-[VPS (x86) Generation 11](https://www.netcup.com/de/server/vps)
+[VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
 
-[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+[vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
 
 [CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
 

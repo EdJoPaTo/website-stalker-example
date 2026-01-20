@@ -135,13 +135,6 @@ bereits ab monatlich
 
 Hier geht es zu den [ARM-Server FAQs](https://www.netcup.com/de/server/arm-server#FAQs)
 
-Hello Asia! Root Server G12 sind ab sofort in Singapur verfügbar.
-----------
-
-Sichere dir deinen **Root Server G12** an unserem **neuen Standort in Singapur** – ein globaler Connectivity-Hub für deine Projekte in Asien. Optimale Anbindung, niedrige Latenzen und maximale Performance im APAC-Raum.
-
-[Mehr erfahren\>](https://www.netcup.com/de/blog/news/jetzt-neu-entdecke-ab-sofort-unser-server-angebot-in-singapur)
-
 Vorteile unserer ARM-Server
 ----------
 
@@ -259,9 +252,9 @@ Weitere Antworten finden Sie im [ARM-Server FAQ-Bereich](https://helpcenter.netc
 
 [Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
 
-[VPS (x86) Generation 11](https://www.netcup.com/de/server/vps)
+[VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
 
-[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+[vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
 
 [CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
 
