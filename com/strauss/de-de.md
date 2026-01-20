@@ -140,7 +140,7 @@ Außenjacke
 
 ---
 
-[gesamte e.s.trail Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/?itemOrigin=startseite_hw25)
+[gesamte e.s.trail Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_HW25)
 
 3 in 1 Funktionsjacke
 e.s.trail snow
