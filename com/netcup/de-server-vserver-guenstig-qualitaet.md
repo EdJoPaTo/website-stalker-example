@@ -65,7 +65,7 @@ Vor einer Bestellung bitten wir zu bedenken, dass ein unmanaged vServer zwar vie
 
 [VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
 
-[Weitere vServer Produkte](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+[vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
 
 [CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
 
