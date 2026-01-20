@@ -11,13 +11,6 @@ Root Server auf KVM-Basis
 * Neueste Marken-Hardware im Einsatz
 * Netzwerkkarte mit bis zu 2,5 Gbit/s und vieles mehr ...
 
-Hello Asia! Root Server G12 sind ab sofort in Singapur verfügbar.
-----------
-
-Sichere dir deinen **Root Server G12** an unserem **neuen Standort in Singapur** – ein globaler Connectivity-Hub für deine Projekte in Asien. Optimale Anbindung, niedrige Latenzen und maximale Performance im APAC-Raum.
-
-[Mehr erfahren\>](https://www.netcup.com/de/blog/news/jetzt-neu-entdecke-ab-sofort-unser-server-angebot-in-singapur)
-
 Root Server Angebote
 ----------
 
