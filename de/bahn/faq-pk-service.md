@@ -1147,7 +1147,7 @@ Alle Episoden der DB Webserie mit Anke Engelke gibt es hier zu sehen:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/boah-bahn)
 
- Brauche ich ein privates und ein geschäftliches BahnBonus Konto?
+ Kann ich Punkte zusammen bei geschäftlichen und privaten Reisen sammeln, und benötige ich dazu zwei Kundenkonten?
 ----------
 
 Ihre BahnBonus Anmeldung kann nur mit einem DB Kundenkonto verknüpft sein.
@@ -2838,7 +2838,7 @@ Ja, das können Sie. Es kann jedoch in einzelnen Verkehrsverbünden und den dami
  Kann ich auch mit einer vorläufigen oder abgelaufenen BahnCard BahnBonus Punkte sammeln?
 ----------
 
-Ja, sofern Sie zu BahnBonus angemeldet sind und eine Sammelnummer besitzen, können Sie mit dieser weiterhin BahnBonus Punkte sammeln.
+Wenn Sie bei BahnBonus angemeldet sind schon. In den meisten Fällen sind vorläufige BahnCards mit einer BahnBonus Nummer verknüpft, sodass Sie in der Regel auch mit der vorläufigen BahnCard BahnBonus Punkte sammeln können. Es wird jedoch empfohlen, die genaue Information direkt beim BahnBonus Team zu erfragen, da es im Einzelfall Unterschiede geben kann.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-bahnbonus-punkte-sammeln-wenn-meine-bahncard-abgelaufen-ist-oder-ich-keine-bahncard-habe)
 
@@ -4034,7 +4034,16 @@ Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
 
 Ihr Punktekonto bleibt erhalten. Reine Änderungen an der BahnCard, zum Beispiel ein Upgrade, haben keine Auswirkungen auf Ihr BahnBonus Punktekonto, sofern die neue BahnCard im selben DB Kundenkonto bestellt wird.
 
+Zusatz: Wenn Sie eine neue BahnCard Business Nummer erhalten, sollten Sie ihre neue Nummer über das BahnBonus Team mit der BahnBonus Nrummer verknüpfen lassen. So sind ihre gesammelten BahnBonus Punkte auch mit der neuen BahnCard Business verknüpft.
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard)
+
+ Wie kann ich als Buchungsstellenverantwortliche (BV) für einen Geschäftsreisenden (GR) Bahn Bonus Punkte sammeln?
+----------
+
+Hierzu muss der Geschäftsreisende die BahnBonus Nummer in seinem geschäftlichen Kundenkonto hinterlegt haben und das automatische Sammeln aktiviert haben. Bei privaten Reisen kann der Mitarbeitende dann seine BahnCard / BahnBonus Nummer aktiv eingeben bei der Buchung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard0)
 
  Kann ich auch ohne BahnCard BahnBonus Punkte sammeln?
 ----------
@@ -5105,6 +5114,8 @@ Bei Fahrkartenprämien, die nur für BahnBonus Teilnehmende persönlich gelten, 
 
 Ihrem Konto können mehrere BahnCard- und BahnBonus Nummern zugeordnet sein. Das geschieht z.B., wenn Sie sich nach Anmeldung zum BahnBonus Programm für eine BahnCard entscheiden. Dann wird die Nummer der BahnCard als BahnBonus Nummer angezeigt. Sie können beide Nummern zum Sammeln verwenden. In der BahnBonus App wird immer die zuletzt angelegte Karte angezeigt.
 
+Die Nummer auf der digitalen BahnBonus Karte unterscheidet sich von der Nummer auf der BahnCard, weil es sich um zwei verschiedene Systeme handelt. Die BahnCard-Nummer ist spezifisch für die BahnCard selbst, während die BahnBonus Nummer für das Bonusprogramm der Deutschen Bahn verwendet wird. Diese beiden Nummern sind separate Identifikatoren, die unterschiedliche Zwecke erfüllen und daher nicht identisch sind.
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-andere-nummer-auf-digitale-bahnbonuskarte-als-auf-bahncard)
 
  Warum wird mir Apple Pay nicht angezeigt?
@@ -5185,7 +5196,7 @@ Danach können Sie auf Ihre gültige bzw. demnächst gültige BahnCard/BahnBonu
  Warum kann ich meine Daten nicht in der BahnBonus App bearbeiten?
 ----------
 
-Im DB Kundenkonto unter bahn.de können Sie Ihre persönlichen Daten online ändern. Über die BahnBonus App wird diese Funktion zukünftig auch bereitgestellt. Wir bitten Sie bis dahin um Geduld.
+Im Kundenkonto unter bahn.de können Sie Ihre persönlichen Daten online ändern. Über die BahnBonus App wird diese Funktion zukünftig auch bereitgestellt. Wir bitten Sie bis dahin um Geduld. Man kann es in der App bearbeiten durch eine Verlinkung auf bahn.de.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-ich-meine-daten-nicht-in-der-app-bearbeiten)
 
@@ -6974,7 +6985,7 @@ Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte mit Ihrem Benutzernamen
  Wie kann ich meine E-Mail-Adresse ändern, die ich bei meiner BahnBonus Anmeldung hinterlegt habe?
 ----------
 
-Um Ihre E-Mail-Adresse zu ändern, loggen Sie sich in Ihrem [DB Kundenkonto auf bahn.de](http://bahn.de/info/login) ein. Im Bereich „Persönliche Daten“ können Sie Ihre E-Mail-Adresse zentral ändern.
+Sie gehen in die BahnBonus App und gehen dort auf „Profil“ und dann auf „Kundendaten bearbeiten“. Sie werden dann zu bahn.de weitergeleitet und können im Bereich „Persönliche Daten“ Ihre E-Mailadresse ändern.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-e-mail-adresse-aendern-die-ich-bei-den-bahncard-services-hinterlegt-habe)
 
@@ -8214,7 +8225,7 @@ Nein, für die Teilnahme am BahnBonus Programm brauchen Sie keine BahnCard.
  Welche Vorteile habe ich als BahnCard-Inhaber:in bei Anmeldung zum BahnBonus Programm?
 ----------
 
-Mit der Teilnahme am BahnBonus Programm, profitieren Sie als BahnCard Besitzer:in bei BahnCard- und Fahrkartenkäufen, nicht nur von dem Rabatt Ihrer BahnCard, sondern sammeln gleichzeitig auch Prämien- und Statuspunkte. Als Vielfahrer können Sie somit auch einen BahnBonus Statuslevel erreichen.
+Mit der Teilnahme am BahnBonus Programm, profitieren Sie bei BahnCard- und Fahrkartenkäufen, nicht nur von dem Rabatt Ihrer BahnCard, sondern sammeln gleichzeitig auch Prämien- und Statuspunkte. Als Vielfahrer können Sie somit auch einen BahnBonus Statuslevel erreichen. Für den Kauf der BahnCard Business erhält der Geschäftsreisende BahnBonus Punkte i.H.d. Kaufpreises der Karte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden-vorteile-mit-bahncard)
 
