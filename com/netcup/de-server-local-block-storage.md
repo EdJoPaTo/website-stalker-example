@@ -20,7 +20,7 @@ ab
 **Local Block Storage**
 ----------
 
-Local Block Storage bietet dir eine **einfache und kostengünstige Möglichkeit**, deiner bestehenden virtuellen Maschine **zusätzliche Festplatten** hinzuzufügen – ganz **ohne langfristige Bindung** oder Ausfallzeiten. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab G9, [VPS x86 G11](https://www.netcup.com/de/server/vps) und [VPS ARM64 G11](https://www.netcup.com/de/server/arm-server) (erweiterbar bis max. 8 TB), [vGPU](https://www.netcup.com/de/server/vgpu) (erweiterbar bis max. 4 TB) sowie ausgewählte Angebote der VPS x86 G11s (erweiterbar bis max. 2 TB).
+Local Block Storage bietet dir eine **einfache und kostengünstige Möglichkeit**, deiner bestehenden virtuellen Maschine **zusätzliche Festplatten** hinzuzufügen – ganz **ohne langfristige Bindung** oder Ausfallzeiten. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab G9, [VPS x86 ab G10](https://www.netcup.com/de/server/vps) und [VPS ARM64 G11](https://www.netcup.com/de/server/arm-server) (erweiterbar bis max. 8 TB), [vGPU](https://www.netcup.com/de/server/vgpu) (erweiterbar bis max. 4 TB) sowie ausgewählte Angebote der VPS x86 G11s und Lite-Tarife (erweiterbar bis max. 4 TB).
 
 Was ist Local Block Storage?
 ----------
