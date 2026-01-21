@@ -213,6 +213,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [5-Terminal Add-on](https://kb.shelly.cloud/knowledge-base/5-terminal-add-on)
 * [SSR Add-on](https://kb.shelly.cloud/knowledge-base/ssr-add-on)
 * [Analog 0-30V Add-on](https://kb.shelly.cloud/knowledge-base/analog-0-30v-add-on)
+* [Cable Bracket](https://kb.shelly.cloud/knowledge-base/cable-bracket)
 
  Amazon-compatible devices
 ----------
