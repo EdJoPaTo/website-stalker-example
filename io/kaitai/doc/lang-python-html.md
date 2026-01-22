@@ -9,13 +9,13 @@ Overview
 
 ### Supported Python versions ###
 
-Kaitai Struct supports Python 3.4 and later as well as Python 2.7.
-It is strongly recommended to use Python 3.9 or newer,
-because Python 3.8 and 2.7 have reached end-of-life
+Kaitai Struct 0.11 supports Python 3.4 and later as well as Python 2.7.
+It is strongly recommended to use Python 3.10 or newer,
+because Python 3.9 and 2.7 have reached end-of-life
 and no longer receive official support from the Python developers.
 
-Please note that Kaitai Struct 0.11 is the last version to support Python 2.7.
-Versions 0.12 and above will only work on Python 3.
+Note that Kaitai Struct 0.11 is the last version that supports Python 2.7.
+Versions 0.12 and above will only work on Python 3.8 and above.
 
 ### Kaitai Struct compiler invocation ###
 
@@ -64,7 +64,7 @@ If you are using snapshot KSC, you should also use snapshot runtime.
 With stable version of Kaitai Struct compiler, one can use the following
 methods:
 
-* On Debian / Ubuntu, one can install it from apt repositories:
+* On Ubuntu / Debian, one can install it from apt repositories:
 
   * For Python 3.x:
 
@@ -72,15 +72,17 @@ methods:
     sudo apt-get install python3-kaitaistruct
     ```
 
-    Reference: [](https://packages.debian.org/unstable/python3-kaitaistruct), [](https://packages.ubuntu.com/jammy/python3-kaitaistruct)
+    References:
 
-  * For Python 2.x:
+    * [](https://packages.ubuntu.com/noble/python3-kaitaistruct) — Ubuntu 24.04 “Noble Numbat” (LTS)
 
-    ```
-    sudo apt-get install python-kaitaistruct
-    ```
+    * [](https://packages.debian.org/trixie/python3-kaitaistruct) — Debian 13 “Trixie” (current “stable”)
 
-    Reference: [](https://packages.debian.org/buster/python-kaitaistruct), [](https://packages.ubuntu.com/bionic/python-kaitaistruct)
+    ---
+
+    * [](https://packages.ubuntu.com/resolute/python3-kaitaistruct) — Ubuntu 26.04 “Resolute Raccoon” (upcoming LTS)
+
+    * [](https://packages.debian.org/forky/python3-kaitaistruct) — Debian 14 “Forky” (current “testing”)
 
 * Add the following dependency specifier into the package configuration
   of the packaging tool you use:
@@ -122,17 +124,16 @@ require latest runtime libraries as well:
 ### Installing dependencies for legacy Pythons manually ###
 
 [Enums](user_guide.html#enums) implementation in Python requires
-enum support as described in[PEP-0435](https://www.python.org/dev/peps/pep-0435/). This support is
-available out of the box in standard libraries since Python v3.4, or
-since v2.4 using [enum34](https://pypi.org/project/enum34/) polyfill.
+enum support as described in[PEP 435](https://www.python.org/dev/peps/pep-0435/). This support is
+available in the standard library since Python 3.4, or
+in Python 2.7 using the [enum34](https://pypi.org/project/enum34/) polyfill.
 
 * One usually doesn’t need to install this lib manually, `pip` will install it
   automatically if it is needed.
 
 * One can also install it manually:
 
-  * One can use just `python -m pip install enum34`. Don’t do it on
-    later Pythons or the apps using just `enum` will be broken!
+  * One can simply use `python -m pip install enum34` (only makes sense in Python 2)
 
   * On Debian / Ubuntu, this library can be installed with`sudo apt-get install -y python-enum34`.
 
