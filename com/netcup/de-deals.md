@@ -5,6 +5,539 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
+* Alle (0)
+* Webhosting
+* Root-Server
+* VPS
+* Domains
+* Andere Flash Deals (0)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 1000 G12 Pro ###
+
+ \+ 100 % NVMe / 1. Monat kostenlos
+
+statt 11,96 €
+
+* 4 vCore (dediziert)
+
+* 8 GB DDR5 ECC RAM
+
+* 512 GB NVMe (statt 256 GB)
+
+* Traffic Flatrate
+
+* 0 € Setup Gebühr
+
+* 3 Monate Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+9,81 €
+
+(inkl. 19% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 4000 G12 Pro ###
+
+ \+ 100 % NVMe
+
+statt 37,06 €
+
+* 12 vCore (dediziert)
+
+* 32 GB DDR5 ECC RAM
+
+* 2 TB NVMe (statt 1 TB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 1 Monat Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+31,63 €
+
+(inkl. 19% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 2000 G12 Pro ###
+
+ \+ 100 % NVMe / 1. Monat kostenlos
+
+statt 19,94 €
+
+* 8 vCore (dediziert)
+
+* 16 GB DDR5 ECC RAM
+
+* 1 TB NVMe (statt 512 GB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 2 Monate Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+16,76 €
+
+(inkl. 19% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 8000 G12 Pro ###
+
+ \+ 4 vCore / + 50% NVMe
+
+statt 66,13 €
+
+* 20 vCore (dediziert)
+
+* 64 GB DDR5 ECC RAM
+
+* 3 TB NVMe (statt 2 TB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 1 Monat Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+56,92 €
+
+(inkl. 19% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 1000 G12 Ultra ###
+
+ \+100% NVMe / + 2 vCore / +50% RAM
+
+* 6 vCore (dediziert, statt 4)
+
+* 12 GB DDR5 ECC RAM (statt 8 GB)
+
+* 512 GB NVMe (statt 256 GB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 3 Monate Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+13,28 €
+
+(inkl. 19% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 2000 G12 Ultra ###
+
+ \+100% NVMe / + 2 vCore / +50% RAM
+
+* 10 vCore (dediziert, statt 8)
+
+* 24 GB DDR5 ECC RAM (statt 16 GB)
+
+* 1 TB NVMe (statt 512 GB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 2 Monate Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+24,18 €
+
+(inkl. 19% MwSt.)
+
+Root-Server
+
+ Deal abgelaufen
+
+### RS 4000 G12 Ultra ###
+
+ \+100% NVMe / + 2 vCore / +50% RAM
+
+* 14 vCore (dediziert, statt 12)
+
+* 48 GB DDR5 ECC RAM (statt 32 GB)
+
+* 2 TB NVMe (statt 1 TB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 1 Monat Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+44,27 €
+
+(inkl. 19% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 1000 ###
+
+ 50 % Rabatt
+
+statt 2,17 €
+
+* 1 .de-Domain oder 1 Alternativdomain inklusive
+
+* 50 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikate inklusive
+
+* 0 € Setup-Gebühr
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+1,08 €
+
+(inkl. 19% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 2000 ###
+
+ 20 % Rabatt
+
+statt 3,25 €
+
+* 3 .de-Domains oder 1 Alternativdomain inklusive
+
+* 150 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikate inklusive
+
+* 0 € Setup-Gebühr
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+2,58 €
+
+(inkl. 19% MwSt.)
+
+Webhosting
+
+ Deal abgelaufen
+
+### Webhosting 4000 ###
+
+ 42 % Rabatt
+
+statt 6,52 €
+
+* 6 .de-Domains oder 2 Alternativdomains inklusive
+
+* 500 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikate inklusive
+
+* Ruby und NodeJS
+
+* 0 € Setup-Gebühr
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+3,76 €
+
+(inkl. 19% MwSt.)
+
+Webhosting
+
+ DEAL ABGELAUFEN
+
+### Webhosting 8000 ###
+
+ 42 % Rabatt
+
+statt 10,60 €
+
+* 12 .de-Domains oder 3 Alternativdomains inklusive
+
+* 1000 GB SSD Speicherplatz
+
+* SSH Zugang vorhanden
+
+* SSL Zertifikat inklusive
+
+* Ruby und NodeJS
+
+* 0 € Setup-Gebühr
+
+* Dauerhafter Preis
+
+* 30 Tage Geld-Zurück-Garantie
+
+pro Monat
+
+6,20 €
+
+(inkl. 19% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 1000 G12 Pro ###
+
+ \+ 100 % NVMe / 1. Monat kostenlos
+
+statt 7,85 €
+
+* 4 vCore (x86)
+
+* 8 GB DDR5 ECC RAM
+
+* 512 GB NVMe (statt 256 GB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 3 Monate Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* Exklusiv in der Black Week: Neue Generation 12
+
+pro Monat
+
+6,84 €
+
+(inkl. 19% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 4000 G12 Pro ###
+
+ \+ 100 % NVMe / dauerhaft günstiger
+
+statt 29,45 €
+
+* 12 vCore (x86)
+
+* 32 GB DDR5 ECC RAM
+
+* 2048 GB NVMe (statt 1024 GB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 1 Monat Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* Exklusiv in der Black Week: Neue Generation 12
+
+pro Monat
+
+25,58 €
+
+(inkl. 19% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 2000 G12 Pro ###
+
+ \+ 100 % NVMe / 1. Monat kostenlos
+
+statt 17,26 €
+
+* 8 vCore (x86)
+
+* 16 GB DDR5 ECC RAM
+
+* 1024 GB NVMe (statt 512 GB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 3 Monate Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* Exklusiv in der Black Week: Neue Generation 12
+
+pro Monat
+
+14,99 €
+
+(inkl. 19% MwSt.)
+
+VPS
+
+ Deal abgelaufen
+
+### VPS 8000 G12 Pro ###
+
+ \+ 4 vCore / + 50% NVMe / dauerhaft günstig
+
+statt 43,78 €
+
+* 20 vCore (statt 16)
+
+* 64 GB DDR5 ECC RAM
+
+* 3072 GB NVMe (statt 2048 GB)
+
+* Traffic Flatrate
+
+* 0 € Setup-Gebühr
+
+* 1 Monat Mindestlaufzeit
+
+* Dauerhafter Preis
+
+* Exklusiv in der Black Week: Neue Generation 12
+
+pro Monat
+
+38,08 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .net Domain ###
+
+ 35 % Rabatt
+
+statt 2,11 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+1,39 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal abgelaufen
+
+### .site Domain ###
+
+ 15 % Rabatt
+
+statt 3,43 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+2,92 €
+
+(inkl. 19% MwSt.)
+
 Bleibe auf dem Laufenden
 ----------
 
