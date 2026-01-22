@@ -285,7 +285,7 @@
 	"Satte Farben, satte Black-Week-Deals: Hol dir jetzt deinen RS 1000 G12 Ultra mit <b>noch mehr RAM, mehr NVMe und noch mehr vCore</b> &#8211; maximale Power zum richtig starken Preis!</b>. Schnell zugreifen &#8211; nur solange der Vorrat reicht!<br />\r\n\r\n<ul class=\"features\">\r\n<li>Garantierter Server Standort: N&uuml;rnberg, Deutschland</li>\r\n<li>AMD EPYC&#8482; 9645</li>\r\n<li>6 vCore (dediziert, statt 4)</li>\r\n<li>12 GB DDR5 ECC RAM (statt 8 GB)</li>\r\n<li>512 GB NVMe (statt 256 GB)</li>\r\n<li>KVM-Technologie</li>\r\n<li>99,9 % Mindestverf&uuml;gbarkeit</li>\r\n<li>Sicheres und schnelles RAID (Hardware-RAID-Controller)</li>\r\n<li>Konsole zur Fernwartung, Backupsystem uvm...</li>\r\n</ul>\r\n\r\n<br /><br />Tarif ist mit Gutscheinen kombinierbar.",
 	"{\"Leistungen\":{\"Prozessor\":\"AMD EPYC&#8482; 9645\",\"Prozessorkerne\":\"6 vCore (dediziert, statt 4)\",\"Server Standort\":\"{produktauswahl:5385;Nürnberg, Deutschland|5386; Manassas, USA}\",\"Arbeitsspeicher DDR5 ECC:\":\"12 GB (statt 8 GB)\",\"Festplatte\":\"512 GB NVMe (statt 256 GB)\",\"Traffic\":\"Wenn der Datenverkehr in den letzten 24 Stunden 3TB überschreitet, erfolgt eine vorübergehende Drosselung auf 300 MBit/s. Die Drosselung wird aufgehoben, sobald die Bedingung nicht mehr zutrifft.\",\"Local Block Storage\":\"Ja, ist mit Local Block Storage bis max. 8 TB erweiterbar\"},\"Premium Funktionen (produktabhängig)\":{\"Fernwartungskonsole\":\"JA \",\"DVD-Laufwerk für eigene ISO-Dateien\":\"JA \",\"Import von eigenen Images\":\"JA \",\"Snapshots (Copy-On-Write)\":\"JA \"}}",
 	"Silke",
-	"Berger",
+	"Glauninger",
 	"6 vCore (dediziert, statt 4)",
 	"12 GB DDR5 ECC RAM (statt 8 GB)",
 	"RS 2000 G12 Ultra",

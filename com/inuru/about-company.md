@@ -138,5 +138,3 @@ Packaging and labeling solutions for marketing.
 Metal poster printing for home decor and more.
 
 Notable Clients
-
-No items found.
