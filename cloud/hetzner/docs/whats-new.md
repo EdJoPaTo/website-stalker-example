@@ -40,7 +40,7 @@ After Storage Boxes, DNS has also been moved from a separate panel into Hetzner 
 
   * **Record comments:**Add a comment per record to better distinguish entries.
 
-  * **Integration into the Cloud API:**Manage DNS zones via the [Hetzner Cloud API](https://docs.hetzner.cloud/reference/cloud#dns).
+  * **Integration into the Cloud API:**Manage DNS zones via the [Hetzner Cloud API](https://docs.hetzner.cloud/reference/cloud#tag/zones).
 
   * **New validations:**Ensure correct configuration of zones with improved validation checks.
 
@@ -115,7 +115,7 @@ New server plans with shared Intel® vCPUs are now available! The new servers wi
 
 ### Global Search: Label search now possible ###
 
-We added the new search criterion "label" to our global search, which means you can now search resources by our [label selector query language](https://docs.hetzner.cloud/reference/cloud#labels). In the global search bar, you can use **"ctrl / ⌘ + K"** to switch between name/IP search and label search.
+We added the new search criterion "label" to our global search, which means you can now search resources by our [label selector query language](https://docs.hetzner.cloud/reference/cloud#description/labels). In the global search bar, you can use **"ctrl / ⌘ + K"** to switch between name/IP search and label search.
 
 **Changes regarding existing shortcuts**
 
