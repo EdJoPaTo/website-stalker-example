@@ -1638,6 +1638,68 @@ note: the lint level is defined here
 Unused lifetime parameters may signal a mistake or unfinished code.
 Consider removing the parameter.
 
+[resolving-to-items-shadowing-supertrait-items](#resolving-to-items-shadowing-supertrait-items)
+----------
+
+The `resolving_to_items_shadowing_supertrait_items` lint detects when the
+usage of an item that is provided by both a subtrait and supertrait
+is shadowed, preferring the subtrait.
+
+### Example ###
+
+```
+#![feature(supertrait_item_shadowing)]
+#![deny(resolving_to_items_shadowing_supertrait_items)]
+
+trait Upstream {
+    fn hello(&self) {}
+}
+impl<T> Upstream for T {}
+
+trait Downstream: Upstream {
+    fn hello(&self) {}
+}
+impl<T> Downstream for T {}
+
+struct MyType;
+MyType.hello();
+```
+
+This will produce:
+
+```
+error: trait item `hello` from `Downstream` shadows identically named item from supertrait
+  --> lint_example.rs:16:8
+   |
+16 | MyType.hello();
+   |        ^^^^^
+   |
+note: item from `Downstream` shadows a supertrait item
+  --> lint_example.rs:11:5
+   |
+11 |     fn hello(&self) {}
+   |     ^^^^^^^^^^^^^^^
+note: item from `Upstream` is shadowed by a subtrait item
+  --> lint_example.rs:6:5
+   |
+ 6 |     fn hello(&self) {}
+   |     ^^^^^^^^^^^^^^^
+note: the lint level is defined here
+  --> lint_example.rs:2:9
+   |
+ 2 | #![deny(resolving_to_items_shadowing_supertrait_items)]
+   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+```
+
+### Explanation ###
+
+RFC 3624 specified a heuristic in which a supertrait item would be
+shadowed by a subtrait item when ambiguity occurs during item
+selection. In order to mitigate side-effects of this happening
+silently, this lint detects these cases when users want to deny them
+or fix the call sites.
+
 [rust-2021-incompatible-closure-captures](#rust-2021-incompatible-closure-captures)
 ----------
 
@@ -2097,6 +2159,60 @@ Rust 2024, introduces two new additions to the standard library's prelude:`Futur
 to call when an existing `poll`/`into_future` method is called via dot-call syntax or
 a `poll`/`into_future` associated function is called directly on a type.
 
+[shadowing-supertrait-items](#shadowing-supertrait-items)
+----------
+
+The `shadowing_supertrait_items` lint detects when the
+definition of an item that is provided by both a subtrait and
+supertrait is shadowed, preferring the subtrait.
+
+### Example ###
+
+```
+#![feature(supertrait_item_shadowing)]
+#![deny(shadowing_supertrait_items)]
+
+trait Upstream {
+    fn hello(&self) {}
+}
+impl<T> Upstream for T {}
+
+trait Downstream: Upstream {
+    fn hello(&self) {}
+}
+impl<T> Downstream for T {}
+```
+
+This will produce:
+
+```
+error: trait item `hello` from `Downstream` shadows identically named item from supertrait
+  --> lint_example.rs:11:5
+   |
+11 |     fn hello(&self) {}
+   |     ^^^^^^^^^^^^^^^
+   |
+note: item from `Upstream` is shadowed by a subtrait item
+  --> lint_example.rs:6:5
+   |
+ 6 |     fn hello(&self) {}
+   |     ^^^^^^^^^^^^^^^
+note: the lint level is defined here
+  --> lint_example.rs:2:9
+   |
+ 2 | #![deny(shadowing_supertrait_items)]
+   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+```
+
+### Explanation ###
+
+RFC 3624 specified a heuristic in which a supertrait item would be
+shadowed by a subtrait item when ambiguity occurs during item
+selection. In order to mitigate side-effects of this happening
+silently, this lint detects these cases when users want to deny them
+or fix their trait definitions.
+
 [single-use-lifetime](#single-use-lifetime)
 ----------
 
@@ -2150,122 +2266,6 @@ This lint is "allow" by default because it was introduced at a time
 when `'_` and elided lifetimes were first being introduced, and this
 lint would be too noisy. Also, there are some known false positives
 that it produces. See [RFC 2115](https://github.com/rust-lang/rfcs/blob/master/text/2115-argument-lifetimes.md) for historical context, and [issue #44752](https://github.com/rust-lang/rust/issues/44752) for more details.
-
-[supertrait-item-shadowing-definition](#supertrait-item-shadowing-definition)
-----------
-
-The `supertrait_item_shadowing_definition` lint detects when the
-definition of an item that is provided by both a subtrait and
-supertrait is shadowed, preferring the subtrait.
-
-### Example ###
-
-```
-#![feature(supertrait_item_shadowing)]
-#![deny(supertrait_item_shadowing_definition)]
-
-trait Upstream {
-    fn hello(&self) {}
-}
-impl<T> Upstream for T {}
-
-trait Downstream: Upstream {
-    fn hello(&self) {}
-}
-impl<T> Downstream for T {}
-```
-
-This will produce:
-
-```
-error: trait item `hello` from `Downstream` shadows identically named item from supertrait
-  --> lint_example.rs:11:5
-   |
-11 |     fn hello(&self) {}
-   |     ^^^^^^^^^^^^^^^
-   |
-note: item from `Upstream` is shadowed by a subtrait item
-  --> lint_example.rs:6:5
-   |
- 6 |     fn hello(&self) {}
-   |     ^^^^^^^^^^^^^^^
-note: the lint level is defined here
-  --> lint_example.rs:2:9
-   |
- 2 | #![deny(supertrait_item_shadowing_definition)]
-   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-```
-
-### Explanation ###
-
-RFC 3624 specified a heuristic in which a supertrait item would be
-shadowed by a subtrait item when ambiguity occurs during item
-selection. In order to mitigate side-effects of this happening
-silently, this lint detects these cases when users want to deny them
-or fix their trait definitions.
-
-[supertrait-item-shadowing-usage](#supertrait-item-shadowing-usage)
-----------
-
-The `supertrait_item_shadowing_usage` lint detects when the
-usage of an item that is provided by both a subtrait and supertrait
-is shadowed, preferring the subtrait.
-
-### Example ###
-
-```
-#![feature(supertrait_item_shadowing)]
-#![deny(supertrait_item_shadowing_usage)]
-
-trait Upstream {
-    fn hello(&self) {}
-}
-impl<T> Upstream for T {}
-
-trait Downstream: Upstream {
-    fn hello(&self) {}
-}
-impl<T> Downstream for T {}
-
-struct MyType;
-MyType.hello();
-```
-
-This will produce:
-
-```
-error: trait item `hello` from `Downstream` shadows identically named item from supertrait
-  --> lint_example.rs:16:8
-   |
-16 | MyType.hello();
-   |        ^^^^^
-   |
-note: item from `Downstream` shadows a supertrait item
-  --> lint_example.rs:11:5
-   |
-11 |     fn hello(&self) {}
-   |     ^^^^^^^^^^^^^^^
-note: item from `Upstream` is shadowed by a subtrait item
-  --> lint_example.rs:6:5
-   |
- 6 |     fn hello(&self) {}
-   |     ^^^^^^^^^^^^^^^
-note: the lint level is defined here
-  --> lint_example.rs:2:9
-   |
- 2 | #![deny(supertrait_item_shadowing_usage)]
-   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-```
-
-### Explanation ###
-
-RFC 3624 specified a heuristic in which a supertrait item would be
-shadowed by a subtrait item when ambiguity occurs during item
-selection. In order to mitigate side-effects of this happening
-silently, this lint detects these cases when users want to deny them
-or fix the call sites.
 
 [tail-expr-drop-order](#tail-expr-drop-order)
 ----------
