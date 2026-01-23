@@ -571,7 +571,7 @@ Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media,
 
   Telegram
 
-* [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de)
+* [RSS-Feed](https://netcup.com/rss/deals/de)
 
   RSS-Feed
 
