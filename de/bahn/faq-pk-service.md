@@ -1566,7 +1566,7 @@ Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrec
  Was passiert, wenn ich mein Deutschland-Ticket bei der Fahrt im DB Fernverkehr nicht dabei habe?
 ----------
 
-Das macht nichts, denn für die Fahrt im Fernverkehr ist das Deutschland-Ticket nicht erforderlich.
+Das macht nichts. Im Fernverkehr ist das Deutschland-Ticket nicht gültig.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrten)
 

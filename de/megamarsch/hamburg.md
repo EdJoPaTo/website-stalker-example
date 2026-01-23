@@ -43,13 +43,24 @@ ZAL Zentrum für Angewandte Luftfahrtforschung GmbH
 Hein-Saß-Weg 22
 21129 Hamburg
 
-​
+​​
 
 ZIELORT:
 Hamburg, Teufelsbrück
 
+​
 VERPFLEGUNG:
 Vier Stationen entlang der Strecke (ca. alle 20 km)
+
+Station 1: indoor
+
+Station 2: indoor
+
+Station 3: outdoor
+
+Station 4: indoor
+
+​
 
 ### AUSZEICHNUNGen ###
 

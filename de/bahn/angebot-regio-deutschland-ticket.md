@@ -60,11 +60,13 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
 
 ###  Was passiert, wenn ich die Rückmeldung verpasst habe und einer Weiterführung des Abo-Vertrags nicht zugestimmt habe?  ###
 
-Da Sie der Weiterführung des Abonnement-Vertrages nicht zugestimmt, bzw. die Frist für die Rückmeldung verpasst haben, haben wir Ihr Deutschland-Ticket Abonnement fristgerecht zum 31. Dezember 2025 gekündigt. Darüber haben wir die Vertragspartnerin oder den Vetragspartner, das ist die bestellende Person des Abos, über die im Aboportal hinterlegte E-Mail-Adresse informiert. Wenn Sie im Januar 2026 feststellen, dass Sie dennoch ein Deutschland-Ticket benötigen, schließen Sie bitte ein neues Abonnement ab.
+Wenn Sie nicht rechtzeitig auf das Angebot zur Weiterführung des Abos reagiert oder nicht zugestimmt haben, endet Ihr Deutschland-Ticket-Abo am 31. Dezember 2025. Wir informieren die Person, die das Abo bestellt hat, per E-Mail über die Kündigung.
 
-Bitte beachten Sie: Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
+Wenn Sie ab Januar 2026 wieder ein Deutschland-Ticket brauchen, können Sie ein neues Abonnement abschließen.
 
-Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
+Bitte beachten Sie: Ohne gültiges Ticket zahlen Sie ab Januar 2026 bei einer Kontrolle mindestens 60 Euro erhöhtes Beförderungsentgelt. Kaufen Sie das Ticket deshalb vor Fahrtantritt.
+
+Haben Sie Ihr Ticket ab dem 15. Oktober 2025 bestellt? Dann haben wir Sie schon während der Bestellung und in der Bestellbestätigung über die Preisänderung informiert. Sie müssen nicht extra zustimmen. Ihr Abo läuft zu den neuen Konditionen automatisch weiter, wenn Sie nicht rechtzeitig kündigen.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -72,7 +74,9 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
 
 ###  Ich habe meine Meinung geändert. Kann ich meine bereits erteilte Zustimmung zurückziehen?  ###
 
-Leider nein. Sie können Ihr Abo aber im Aboportal oder in Ihrem Handy-Ticket jederzeit selbständig kündigen. Alternativ können Sie über unser Kündigungsformular zum nächstmöglichen Zeitpunkt kündigen. Bitte beachten Sie dabei die tarifliche Kündigungsfrist. Ein Deutschland-Ticket-Abonnement kann bis zum 10. Kalendertag eines Monats noch zum jeweiligen Monatsende gekündigt werden.
+Nein. Sie können Ihr Abo im Aboportal oder im Handy-Ticket jederzeit selbst kündigen. Sie können auch unser Kündigungsformular nutzen.
+
+Beachten Sie die tarifliche Kündigungsfrist: Ein Deutschland-Ticket-Abonnement können Sie bis zum 10. Kalendertag eines Monats zum Monatsende kündigen.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -101,7 +105,7 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
 
 ###  Wie viel kostet das Deutschland-Ticket ab 1. Januar 2026?  ###
 
-Ab 1. Januar 2026 kostet das Deutschland-Ticket **63 Euro pro Monat**. Den neuen Preis haben die Verkehrsminister und Verkehrsministerinnen von Bund und Ländern gemeinsam beschlossen.
+Ab 1. Januar 2026 kostet das Deutschland-Ticket **63 Euro pro Monat**.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
 

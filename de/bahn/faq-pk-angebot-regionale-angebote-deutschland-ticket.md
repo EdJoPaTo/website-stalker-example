@@ -85,11 +85,13 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
  Was passiert, wenn ich die Rückmeldung verpasst habe und einer Weiterführung des Abo-Vertrags nicht zugestimmt habe?
 ----------
 
-Da Sie der Weiterführung des Abonnement-Vertrages nicht zugestimmt, bzw. die Frist für die Rückmeldung verpasst haben, haben wir Ihr Deutschland-Ticket Abonnement fristgerecht zum 31. Dezember 2025 gekündigt. Darüber haben wir die Vertragspartnerin oder den Vetragspartner, das ist die bestellende Person des Abos, über die im Aboportal hinterlegte E-Mail-Adresse informiert. Wenn Sie im Januar 2026 feststellen, dass Sie dennoch ein Deutschland-Ticket benötigen, schließen Sie bitte ein neues Abonnement ab.
+Wenn Sie nicht rechtzeitig auf das Angebot zur Weiterführung des Abos reagiert oder nicht zugestimmt haben, endet Ihr Deutschland-Ticket-Abo am 31. Dezember 2025. Wir informieren die Person, die das Abo bestellt hat, per E-Mail über die Kündigung.
 
-Bitte beachten Sie: Sollten Sie ab Januar 2026 ohne gültige Fahrkarte fahren und kontrolliert werden, ist ein erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro zu zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt einen gültigen Fahrschein haben.
+Wenn Sie ab Januar 2026 wieder ein Deutschland-Ticket brauchen, können Sie ein neues Abonnement abschließen.
 
-Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2026 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
+Bitte beachten Sie: Ohne gültiges Ticket zahlen Sie ab Januar 2026 bei einer Kontrolle mindestens 60 Euro erhöhtes Beförderungsentgelt. Kaufen Sie das Ticket deshalb vor Fahrtantritt.
+
+Haben Sie Ihr Ticket ab dem 15. Oktober 2025 bestellt? Dann haben wir Sie schon während der Bestellung und in der Bestellbestätigung über die Preisänderung informiert. Sie müssen nicht extra zustimmen. Ihr Abo läuft zu den neuen Konditionen automatisch weiter, wenn Sie nicht rechtzeitig kündigen.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -99,10 +101,12 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung-verpasst)
 
- Ich habe meine Meinung geändert. Kann ich meine bereits erteilte Zustimmung zurückziehen?
+ Ich habe meine Meinung geändert. Kann ich meine bereits erteilte Zustimmung zurückziehen? (Deutschland-Ticket)
 ----------
 
-Leider nein. Sie können Ihr Abo aber im Aboportal oder in Ihrem Handy-Ticket jederzeit selbständig kündigen. Alternativ können Sie über unser Kündigungsformular zum nächstmöglichen Zeitpunkt kündigen. Bitte beachten Sie dabei die tarifliche Kündigungsfrist. Ein Deutschland-Ticket-Abonnement kann bis zum 10. Kalendertag eines Monats noch zum jeweiligen Monatsende gekündigt werden.
+Nein. Sie können Ihr Abo im Aboportal oder im Handy-Ticket jederzeit selbst kündigen. Sie können auch unser Kündigungsformular nutzen.
+
+Beachten Sie die tarifliche Kündigungsfrist: Ein Deutschland-Ticket-Abonnement können Sie bis zum 10. Kalendertag eines Monats zum Monatsende kündigen.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -156,9 +160,9 @@ gemäß der Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder Landes
  Kann ich das Deutschland-Ticket auch mitten im Monat für eine kurzfristige Reise kaufen?
 ----------
 
-Sie können das Deutschland-Ticket auch für den laufenden Monat kaufen, sowohl online, im DB Navigator oder im Reisezentrum.
+Sie können das Deutschland-Ticket auch für den laufenden Monat kaufen, sowohl online, im DB Navigator oder in den meisten Reisezentren.
 
-Das Deutschland-Ticket gilt jedoch immer für den vollen Kalendermonat und die Kündigungsfrist bleibt bestehen. Das heißt, **bei einem Kauf nach dem 10. des Monats ist eine Kündigung erst zum Ende des nächsten Monats möglich** und Sie müssen beide Monate voll bezahlen.
+Das Deutschland-Ticket gilt jedoch immer für den vollen Kalendermonat. Der Monatspreis und die Kündigungsfrist bleiben bestehen. Das heißt, bei einem Kauf nach dem 10. des Monats ist eine Kündigung erst zum Ende des nächsten Monats möglich und Sie müssen beide Monate voll bezahlen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ab-sofort)
 
@@ -175,10 +179,10 @@ Ja. Alle Funktionen zur Verwaltung Ihres Deutschland-Tickets finden Sie im Abopo
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-abo-selbst-verwalten)
 
- Wieso wird mir mein Deutschland-Ticket nur für einen Monat angezeigt, obwohl ich ein Abo abgeschlossen habe?
+ Warum sehe ich mein Deutschland-Ticket nur für einen Monat, obwohl ich ein Abo habe?
 ----------
 
-Ihr Deutschland-Ticket-Abo verlängert sich automatisch bis zu Ihrer Kündigung. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich jeden Monat automatisch. Ein zusätzliches Handy-Ticket für den Folgemonat wird nicht angezeigt.
+Ihr Deutschland-Ticket-Abo verlängert sich jeden Monat automatisch, solange Sie nicht kündigen. Das Handy-Ticket zeigt immer nur den aktuellen Monat an. Es wird kein weiteres Handy-Ticket für den nächsten Monat angezeigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-anzeige-nur-fuer-einen-monat)
 
@@ -429,12 +433,12 @@ Ja, das Deutschland-Ticket ist als Abonnement mit monatlicher Zahlweise erhältl
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-handelt-sich-um-abo)
 
- Können Hunde mit dem Deutschland-Ticket kostenfrei mitgenommen werden?
+ Kann ich Hunde mit dem Deutschland-Ticket kostenfrei mitnehmen?
 ----------
 
-Nein. Die Mitnahme von entgeltpflichtigen Hunden ist nicht im Deutschland-Ticket inkludiert. Sie können für entgeltpflichtige Hunde kein Deutschland-Ticket erwerben. Für die Strecke oder das jeweils durchfahrene Tarifgebiet brauchen Sie ein gültiges Tarifangebot für Hunde.
+Nein. Sie können Hunde nicht kostenlos mit dem Deutschland-Ticket mitnehmen. Für entgeltpflichtige Hunde gilt das Deutschland-Ticket nicht. Kaufen Sie für Ihren Hund ein gültiges Ticket für die Strecke oder das Tarifgebiet.
 
-Zusätzlich gelten die Bestimmungen der Landestarife, Verkehrsverbünde und Verkehrsunternehmen. Informieren Sie sich bitte über die gültigen Regelungen im jeweiligen Tarifgebiet.
+Es gelten außerdem die Regeln der Landestarife, Verkehrsverbünde und Verkehrsunternehmen. Prüfen Sie die Bestimmungen im jeweiligen Tarifgebiet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-hunde)
 
@@ -635,7 +639,7 @@ Beim Kauf im Reisezentrum können Sie den 1. Monat bar oder mit Karte bezahlen. 
  Wie viel kostet das Deutschland-Ticket ab 1. Januar 2026?
 ----------
 
-Ab 1. Januar 2026 kostet das Deutschland-Ticket **63 Euro pro Monat**. Den neuen Preis haben die Verkehrsminister und Verkehrsministerinnen von Bund und Ländern gemeinsam beschlossen.
+Ab 1. Januar 2026 kostet das Deutschland-Ticket **63 Euro pro Monat**.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
@@ -689,10 +693,10 @@ Bei einigen Verbünden erhalten Sie, wenn Sie gewisse Voraussetzungen erfüllen,
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-sozialticket)
 
- Ist das Deutschland-Ticket auf eine andere Person übertragbar?
+ Kann ich das Deutschland-Ticket auf eine andere Person übertragen?
 ----------
 
-Nein. Das Deutschland-Ticket ist personalisiert und nur mit Namenseintrag und zusammen mit einem gültigen amtlichen Lichtbildausweis gültig.
+Nein. Das Deutschland-Ticket ist personalisiert. Sie können das Ticket nur zusammen mit einem amtlichen Lichtbildausweis und dem eingetragenen Namen nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-uebertragbar)
 
@@ -850,12 +854,14 @@ Nein, mit einem Deutschland-Ticket können Sie keine weiteren Personen mitnehmen
 
 Auch wenn Sie aus anderen Abonnements Mitnahmeregelungen kennen, gelten diese nicht für das Deutschland-Ticket.
 
+In einzelnen Verbünden sind Zusatzprodukte für die Mitnahme zum Deutschland-Ticket erhältlich. Diese müssen zusätzlich zu einem Deutschland-Ticket gekauft werden. Prüfen Sie dazu die [Verbundangebote](https://www.bahn.de/angebot/pendler/verkehrsverbuende).
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-personen)
 
  Beeinflusst das Deutschland-Ticket meine Zeitkarte im Fernverkehr?
 ----------
 
-Nein. Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Das Deutschland-Ticket gilt ausschließlich für Reisen im Nahverkehr.
+Nein. Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Das Deutschland-Ticket gilt nur für Reisen im Nahverkehr.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zeitkarte-fv)
 
@@ -898,7 +904,7 @@ Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrec
  Was passiert, wenn ich mein Deutschland-Ticket bei der Fahrt im DB Fernverkehr nicht dabei habe?
 ----------
 
-Das macht nichts, denn für die Fahrt im Fernverkehr ist das Deutschland-Ticket nicht erforderlich.
+Das macht nichts. Im Fernverkehr ist das Deutschland-Ticket nicht gültig.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrten)
 
