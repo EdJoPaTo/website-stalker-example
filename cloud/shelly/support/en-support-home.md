@@ -5,19 +5,6 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
- Order Processing Update
-----------
-
-Our annual inventory and warehouse audit has now been completed.
-
- Shipments have **resumed as of January 19, 2026**. We expect all previously unfulfilled orders to be dispatched within **1 business week**.
-
- The estimated processing time for **new orders** is **1–7 business days**.
-
-Once your order is shipped, you will receive a confirmation email with tracking details.
-
-Thank you for your patience and continued support.
-
 Knowledge base
 ----------
 
