@@ -1573,23 +1573,23 @@ Das macht nichts. Im Fernverkehr ist das Deutschland-Ticket nicht gültig.
  Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf eine mögliche Erstattung meines Flex- oder Sparpreistickets?
 ----------
 
-Keine, die Angabe des Deutschland-Tickets hat keinerlei Auswirkungen auf die Stornierungs- und Erstattungsmöglichkeiten. Es gelten die bestehenden Erstattungskonditionen des gebuchten Fernverkehrsangebots.
+Die Angabe des Deutschland-Tickets beeinflusst die Stornierungs- und Erstattungsmöglichkeiten nicht. Es gelten weiterhin die bestehenden Erstattungskonditionen des gebuchten Fernverkehrsangebots.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-flex-sparpreis)
 
  Was muss ich bei Angabe des Deutschland-Tickets beachten, wenn ich Kinder mitnehmen möchte?
 ----------
 
-* Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte angegeben sind.
-* Das Deutschland-Ticket gewährt keine kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren. Deshalb brauchen Sie zur An- oder Abreise bis zum bzw. ab dem Fernverkehrshalt für Kinder ein zusätzliches gültiges Nahverkehrsticket (z.B. eine Einzelfahrt) .
-* Kinder unter 6 Jahren benötigen weder im Nah- noch im Fernverkehr eine Fahrkarte.
+* Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte eingetragen sind.
+* Beim Deutschland-Ticket ist die kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren nicht enthalten. Für die An- oder Abreise zum bzw. vom Fernverkehrshalt benötigen Kinder in diesem Alter daher ein zusätzliches gültiges Nahverkehrsticket (z. B. eine Einzelfahrkarte).
+* Kinder unter 6 Jahren fahren sowohl im Nah- als auch im Fernverkehr ohne Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)
 
  Welche Auswirkung hat die Angabe eines Deutschland-Tickets auf den Preis?
 ----------
 
-Für die Berechnung des Fahrkartenpreises ist nur die Strecke vom ersten bis letzten Fernverkehrshalt relevant. Für den Anteil im Schienenpersonennahverkehr wird das Deutschland-Ticket genutzt. Das spart bares Geld.
+Für die Berechnung des Ticketpreises zählt nur die Strecke zwischen dem ersten und letzten Fernverkehrshalt. Wird ein Teil der Reise im Schienenpersonennahverkehr zurückgelegt, wird hierfür das Deutschland-Ticket angesetzt und nicht dem Gesamtpreis des Tickets zugerechnet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-preis)
 

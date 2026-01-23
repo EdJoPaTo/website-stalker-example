@@ -4,7 +4,7 @@ Häufige Fragen zu "Deutschland-Ticket"
  Wie kann ich die BahnCard 100 inklusive Deutschland-Ticket beantragen?
 ----------
 
- Die BahnCard 100 inklusive Deutschland-Ticket beantragen:
+So beantragen Sie die BahnCard 100 inklusive Deutschland-Ticket:
 
 1. Die BahnCard 100 bequem online bestellen und bundesweit im Nah- und Fernverkehr unbegrenzt reisen.
 2. Die BahnCard 100 als Plastikkarte in ca. 2 Wochen per Post erhalten.
@@ -119,7 +119,10 @@ Beachten Sie die tarifliche Kündigungsfrist: Ein Deutschland-Ticket-Abonnement 
  Ich kann mein Deutschland-Ticket-Abo nicht im Aboportal finden. Was kann ich tun?
 ----------
 
-Bitte achten Sie beim Hinzufügen Ihres Deutschland-Ticket Abos darauf, den Tarifgeber auszuwählen, von dem Sie Ihr Deutschland-Ticket bezogen haben. Dies erkennen Sie an der Produktbezeichnung in Ihrer Bestellbestätigung oder auf Ihrem Handy-Ticket. Beim Hinzufügen Ihres Abos nutzen Sie bitte die Abo-Auftragsnummer, die Ihnen in Ihrer Aktivierungsmail mitgeteilt wurde. Für weitere Hilfestellungen besuchen Sie das Aboportal.
+* Wählen Sie beim Hinzufügen Ihres Abos den Tarifgeber aus, von dem Sie Ihr Deutschland-Ticket gekauft haben.
+* Den Tarifgeber finden Sie in der Produktbezeichnung Ihrer Bestellbestätigung oder auf Ihrem Handy-Ticket.
+* Nutzen Sie die Abo-Auftragsnummer aus Ihrer Aktivierungsmail.
+* Besuchen Sie für weitere Hilfe das Abo-Portal.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -186,12 +189,12 @@ Ihr Deutschland-Ticket-Abo verlängert sich jeden Monat automatisch, solange Sie
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-anzeige-nur-fuer-einen-monat)
 
- Kann ich, gegen einen Aufpreis, das Deutschland-Ticket auch für Fernverkehrszüge nutzen?
+ Kann ich gegen einen Aufpreis das Deutschland-Ticket für Fernverkehrszüge nutzen?
 ----------
 
-Nein, eine Upgradefunktion von Nahverkehrs- auf Fernverkehrsfahrkarten ist nicht möglich. Für Reisen mit dem Fernverkehr benötigen Sie eine separate Fahrkarte.
+Nein, eine Upgrade-Funktion von Nahverkehrs- auf Fernverkehrsfahrkarten ist nicht möglich. Für Reisen mit dem Fernverkehr benötigen Sie eine separate Fahrkarte.
 
-Kund:innen, die bereits im Rahmen ihres regulären Verbund-/Landes-Tarif-Abos oder ihrer Jahreskarte eine Aufpreiskarte für Fernverkehrszüge besitzen, können diese weiterhin auf der entsprechenden Strecke nutzen. Das ist bis Ende ihres aktuellen Abos möglich.
+Kundinnen und Kunden, die schon im Rahmen ihres regulären Verbund-/Landes-Tarif-Abos oder ihrer Jahreskarte eine Aufpreiskarte für Fernverkehrszüge besitzen, können diese weiterhin auf der entsprechenden Strecke nutzen. Das ist bis Ende ihres aktuellen Abos möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-aufpreis-fv)
 
@@ -263,6 +266,8 @@ Nein, das City-Ticket wird zum Flexpreis, Super Sparpreis und Sparpreis des Fern
 
 Ihre Daten können Sie jederzeit selbst im Aboportal im Menüpunkt "Meine Daten" ändern.
 
+Bitte beachten Sie: Für ein vorhandenes Abo ist die Änderung Ihrer Daten im Aboportal zwingend erforderlich. Änderungen in Ihrem DB Kundenkonto werden für vorhandene Abos derzeit nicht automatisch übernommen.
+
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-daten-aendern)
@@ -289,7 +294,7 @@ Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
  Muss ich mein Deutschland-Ticket jeden Monat erneuern?
 ----------
 
-Das Abonnement wird für unbestimmte Zeit abgeschlossen und kann monatlich gekündigt werden. Solange Sie Ihr Deutschland-Ticket nutzen möchten, müssen Sie dieses nicht erneuern.
+Nein. Solange Sie Ihr Deutschland-Ticket nutzen möchten, müssen Sie dieses nicht erneuern. Das Abonnement wird für unbestimmte Zeit abgeschlossen. Es verlängert sich dadurch automatisch jeden Monat, wenn Sie es nicht bis zum 10. des Monats zum Monatsende kündigen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-erneuern)
 
@@ -303,7 +308,7 @@ Ja. Bei der Fahrkartenkontrolle müssen Sie auf Aufforderung immer einen gültig
  Ich will ein Fahrrad mit dem Deutschland-Ticket mitnehmen. Was muss ich beachten?
 ----------
 
-Beachten Sie bitte: Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tickets **nicht** enthalten. Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
+Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tickets **nicht** enthalten. Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
 
 * Prüfen Sie, ob auf Ihrer Strecke die Fahrradmitnahme kostenfrei möglich ist. Wenn ja, können Sie Ihr Fahrrad kostenfrei mitnehmen.
 * Wenn eine Fahrradkarte erforderlich ist, gilt dies auch für Fahrten mit dem Deutschland-Ticket.
@@ -361,7 +366,7 @@ Nein: Ist der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, werden alle V
  Wo finde ich mein Deutschland-Ticket für den Folgemonat?
 ----------
 
-Ab der neuen Version (ab 24.1) des DB Navigators wird Ihnen nur das Handy-Ticket für den aktuell gültigen Monat angezeigt. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich automatisch zum Monatswechsel auf dem vorhandenen Ticket. Es wird kein zusätzliches Ticket für den Folgemonat angezeigt.
+Im DB Navigators wird Ihnen nur das Handy-Ticket für den aktuell gültigen Monat angezeigt. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich automatisch zum Monatswechsel auf dem vorhandenen Ticket. Es wird kein zusätzliches Ticket für den Folgemonat angezeigt.
 
 Die Meldung "Tickets bis zum [Datum] sind bereits auf Ihrem Gerät" bedeutet, dass die Aktualisierung für den neuen Monat am Monatsersten automatisch erfolgt.
 
@@ -527,11 +532,11 @@ Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsma
  Dürfen Kinder mit dem Deutschlandticket allein reisen?
 ----------
 
-Kinder ab 6 Jahre können mit dem Deutschland-Ticket auch allein reisen.
+Ja. Kinder ab 6 Jahren dürfen mit dem Deutschland-Ticket allein reisen.
 
-Für das digitale Ticket benötigen Ihre Kinder ein mobiles Endgerät, die App DB Navigator und ein Schülerausweis oder anderen Lichtbildausweis.
+Für das digitale Ticket braucht Ihr Kind ein mobiles Endgerät, die App DB Navigator und einen Schülerausweis oder Lichtbildausweis.
 
-Bei dem Deutschland-Ticket als Chipkarte wird zusätzlich zu der Chipkarte ebenfalls ein Schüler- bzw. Lichtbildausweis benötigt.
+Für das Deutschland-Ticket als Chipkarte braucht Ihr Kind die Chipkarte und einen Schülerausweis oder Lichtbildausweis.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder-alleine)
 
@@ -578,7 +583,7 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
  Ich habe mein Abo gekündigt. Was kann ich tun, wenn ich noch keine Kündigungsbestätigung erhalten habe?
 ----------
 
-Im Aboportal können Sie den Status Ihres Abos und den Kündigungstermin einsehen sowie die Kündigung bei Bedarf direkt durchführen. Überprüfen Sie Ihre E-Mail-Adresse im Aboportal unter "Meine Daten" und aktualisieren Sie diese, um E-Mails künftig direkt zu erhalten.
+Im Aboportal können Sie den Status Ihres Abos und den Kündigungstermin einsehen und die Kündigung bei Bedarf direkt durchführen. Überprüfen Sie Ihre E-Mail-Adresse im Aboportal unter "Meine Daten" und aktualisieren Sie diese, um E-Mails künftig direkt zu erhalten.
 
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
@@ -911,23 +916,23 @@ Das macht nichts. Im Fernverkehr ist das Deutschland-Ticket nicht gültig.
  Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf eine mögliche Erstattung meines Flex- oder Sparpreistickets?
 ----------
 
-Keine, die Angabe des Deutschland-Tickets hat keinerlei Auswirkungen auf die Stornierungs- und Erstattungsmöglichkeiten. Es gelten die bestehenden Erstattungskonditionen des gebuchten Fernverkehrsangebots.
+Die Angabe des Deutschland-Tickets beeinflusst die Stornierungs- und Erstattungsmöglichkeiten nicht. Es gelten weiterhin die bestehenden Erstattungskonditionen des gebuchten Fernverkehrsangebots.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-flex-sparpreis)
 
  Was muss ich bei Angabe des Deutschland-Tickets beachten, wenn ich Kinder mitnehmen möchte?
 ----------
 
-* Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte angegeben sind.
-* Das Deutschland-Ticket gewährt keine kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren. Deshalb brauchen Sie zur An- oder Abreise bis zum bzw. ab dem Fernverkehrshalt für Kinder ein zusätzliches gültiges Nahverkehrsticket (z.B. eine Einzelfahrt) .
-* Kinder unter 6 Jahren benötigen weder im Nah- noch im Fernverkehr eine Fahrkarte.
+* Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte eingetragen sind.
+* Beim Deutschland-Ticket ist die kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren nicht enthalten. Für die An- oder Abreise zum bzw. vom Fernverkehrshalt benötigen Kinder in diesem Alter daher ein zusätzliches gültiges Nahverkehrsticket (z. B. eine Einzelfahrkarte).
+* Kinder unter 6 Jahren fahren sowohl im Nah- als auch im Fernverkehr ohne Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)
 
  Welche Auswirkung hat die Angabe eines Deutschland-Tickets auf den Preis?
 ----------
 
-Für die Berechnung des Fahrkartenpreises ist nur die Strecke vom ersten bis letzten Fernverkehrshalt relevant. Für den Anteil im Schienenpersonennahverkehr wird das Deutschland-Ticket genutzt. Das spart bares Geld.
+Für die Berechnung des Ticketpreises zählt nur die Strecke zwischen dem ersten und letzten Fernverkehrshalt. Wird ein Teil der Reise im Schienenpersonennahverkehr zurückgelegt, wird hierfür das Deutschland-Ticket angesetzt und nicht dem Gesamtpreis des Tickets zugerechnet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-preis)
 
