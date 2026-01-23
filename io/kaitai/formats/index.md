@@ -6,7 +6,7 @@ Format Gallery
 All formats in this gallery have formal specifications in [Kaitai Struct](//kaitai.io) language. They can be used:
 
 * as is — as a concise text reference,
-* as visual block diagram (thanks to GraphViz),
+* as visual block diagram (thanks to Graphviz),
 * to explore hex dump in detail (with a visualizer),
 * as a ready-made library in any of supported target programming languages (after compiling it with Kaitai Struct compiler).
 
