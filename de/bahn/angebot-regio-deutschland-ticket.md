@@ -82,11 +82,15 @@ Beachten Sie die tarifliche Kündigungsfrist: Ein Deutschland-Ticket-Abonnement 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung-zurueckziehen)
 
-###  Ich habe ein Deutschlandsemesterticket. Muss ich etwas beachten?  ###
+###  Muss ich mit meinem Deutschlandsemesterticket etwas beachten?  ###
 
-Der Preis des Deutschlandsemestertickets ist durch die Preisbildung des Deutschland-Tickets beeinflusst. Die Preismaßnahme des Deutschland-Tickets wirkt sich im Wintersemester 2025 / 2026 nicht auf Ihr Semesterticket aus. Daher ist Ihre Zustimmung nicht erforderlich.
+Im Wintersemester 2025/2026 bleibt Ihr Semesterticketpreis unverändert. Sie müssen nichts unternehmen.
 
-**Bitte beachten Sie**: Ab 1. Juli 2026 wird der neue Preis unter Berücksichtigung der geltenden Tarifbestimmungen wirksam und durch die Hochschulen / ASten im Rahmen der geltenden Regelungen umgesetzt. Das bedeutet, dass ein ganzes Semester mit Beginn ab dem 1. Juli 2025 zum neuen rabattierten Preis berechnet wird. Der sich daraus ergebende Semesterbeitrag wird im Vorfeld für das laufende Semester von den Hochschulen / ASten kommuniziert und erhoben.
+Ab dem 1. Juli 2026 gilt ein neuer Preis, der nach den aktuellen Tarifbestimmungen berechnet wird.
+
+Die Hochschulen und ASten setzen die geänderten Preise um und informieren Sie rechtzeitig über den Semesterbeitrag.
+
+Für das Semester ab 1. Juli 2025 gilt bereits der neue rabattierte Preis. Den Semesterbeitrag zahlen Sie wie gewohnt vor Semesterbeginn.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandsemesterticket)
 
@@ -131,12 +135,12 @@ Sie haben ab dem 15. Oktober 2025 bestellt? Sie wurden im Bestellprozess und in 
 
 ###  Wie kann ich vom Deutschland-Ticket in ein Verbund-Abo wechseln?  ###
 
-Die verschiedenen Angebote zu Verbundabonnements finden Sie auf bahn.de/pendler oder über die Fahrplanauskunft, nach Eingabe Ihrer Fahrtstrecke, auf bahn.de.
+Sie finden Angebote für Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Fahrplanauskunft auf bahn.de.
 
-Ihr Deutschland-Ticket können Sie jederzeit selbstständig, innerhalb der geltenden Kündigungsfristen, über das Aboportal oder im DB Navigator kündigen.
+Sie können Ihr Deutschland-Ticket innerhalb der geltenden Kündigungsfristen selbst kündigen. Nutzen Sie dafür das Aboportal oder den DB Navigator.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
-* [bahn.de/pendler](https://www.bahn.de/angebot/pendler)
+* [Zu bahn.de/pendler](https://www.bahn.de/angebot/pendler)
 * [Zur Reiseauskunft](https://www.bahn.de/buchung/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-wechsel)

@@ -1468,13 +1468,13 @@ Wenn Ihr Zugang zwischenzeitlich noch nicht wieder freigeschaltet worden sein so
  Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
 ----------
 
-Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises gutgeschrieben, wenn
+Ja, für den Kauf des Deutschland-Tickets erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, wenn:
 
-* Sie zu BahnBonus angemeldet sind
-* die Buchung über bahn.de oder dem DB Navigator erfolgt
-* Ihre persönlichen Daten, beim Kauf des Deutschland-Tickets, identisch mit den Angaben in Ihrem BahnBonus Konto sind
+* Sie beim BahnBonus-Programm angemeldet sind
+* Sie das Ticket über bahn.de oder den DB Navigator kaufen
+* Ihre persönlichen Daten beim Kauf mit denen im BahnBonus-Konto übereinstimmen
 
-Für den Kauf von Deutschland-Tickets anderer Anbieter, z.B. von Verkehrsverbünden oder beim Kauf in DB Reisezentren, können keine BahnBonus Punkte gesammelt werden
+Beim Kauf des Deutschland-Tickets bei anderen Anbietern, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können keine BahnBonus Punkte gesammelt werden.
 
 * [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
@@ -1596,9 +1596,9 @@ Für die Berechnung des Ticketpreises zählt nur die Strecke zwischen dem ersten
  Was passiert, wenn ich das Deutschland-Ticket bei der Buchung einer Super Sparpreis-, Sparpreis- oder Flexpreis-Fahrkarte angebe?
 ----------
 
-Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen, wird lediglich eine Fahrkarte ausgegeben, und zwar für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt (meistens ICE- oder IC/EC Züge). Sie müssen nur diese Strecke bezahlen, denn für die Fahrt im Nahverkehr haben Sie das Deutschland-Ticket. Das spart bares Geld.
+Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen, wird lediglich eine Fahrkarte ausgegeben, und zwar für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt (meistens ICE- oder IC/EC Züge). Sie müssen nur diese Strecke bezahlen, denn für die Fahrt im Nahverkehr haben Sie das Deutschland-Ticket.
 
-**Beispiel:** Buchungsanfrage Potsdam – Berlin – Frankfurt – Bad Homburg. Die Preisberechnung erfolgt für die Strecke im Fernverkehr Berlin – Frankfurt. Auch die Fahrkarte wird ausschließlich für die Fernverkehrsstrecke ausgegeben. Für Nahverkehrsstrecke Potsdam – Berlin und Frankfurt – Bad Homburg wird das Deutschland-Ticket genutzt.
+**Beispiel:** Buchungsanfrage Potsdam – Berlin – Frankfurt – Bad Homburg. Die Preisberechnung erfolgt für die Strecke im Fernverkehr Berlin – Frankfurt. Auch die Fahrkarte wird nur für die Fernverkehrsstrecke ausgegeben. Für Nahverkehrsstrecke Potsdam – Berlin und Frankfurt – Bad Homburg wird das Deutschland-Ticket genutzt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-sparpreise)
 
@@ -1608,7 +1608,7 @@ Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen,
 Sie haben 2 Möglichkeiten:
 
 1. Schieberegler "**Nur D-Ticket Verbindungen"** unter "Optionen" aktivieren:
-    Zeigt ausschließlich Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
+    Zeigt nur Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
 
 2. Schieberegler **"Alle Reisenden besitzen ein Deutschland-Ticket"** unter "Reisende/Fahrräder" aktivieren:
     Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
