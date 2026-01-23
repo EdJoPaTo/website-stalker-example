@@ -147,8 +147,6 @@ Funktionsshirt
 Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg 2026.\*
 Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challenge! Atmungsaktiv, feuchtigkeitsregulierend und strapazierfähig. Das Design wird sich an dem jeweiligen Event orientieren und ist dadurch Deine persönliche Erinnerung für Deine Challenge. Hol Dir jetzt Dein Funktionsshirt für Dein kommendes unvergessliches Abenteuer!
 
-\*Die Designs werden bald veröffentlicht
-
 [Teilnehmershirt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
 #### Buche jetzt deine Startzeit, bevor sie ausverkauft ist! ####

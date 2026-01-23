@@ -212,13 +212,13 @@ Nein. Sie können das Deutschland-Ticket nicht am DB Fahrkartenautomaten kaufen.
  Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
 ----------
 
-Ja, Sie bekommen für den Kauf des Deutschland-Tickets monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises gutgeschrieben, wenn
+Ja, für den Kauf des Deutschland-Tickets erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, wenn:
 
-* Sie zu BahnBonus angemeldet sind
-* die Buchung über bahn.de oder dem DB Navigator erfolgt
-* Ihre persönlichen Daten, beim Kauf des Deutschland-Tickets, identisch mit den Angaben in Ihrem BahnBonus Konto sind
+* Sie beim BahnBonus-Programm angemeldet sind
+* Sie das Ticket über bahn.de oder den DB Navigator kaufen
+* Ihre persönlichen Daten beim Kauf mit denen im BahnBonus-Konto übereinstimmen
 
-Für den Kauf von Deutschland-Tickets anderer Anbieter, z.B. von Verkehrsverbünden oder beim Kauf in DB Reisezentren, können keine BahnBonus Punkte gesammelt werden
+Beim Kauf des Deutschland-Tickets bei anderen Anbietern, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können keine BahnBonus Punkte gesammelt werden.
 
 * [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
