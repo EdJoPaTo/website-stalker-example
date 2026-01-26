@@ -144,21 +144,30 @@ Für das Semester ab 1. Juli 2025 gilt bereits der neue rabattierte Preis. Den S
  Kann ich das Deutschland-Ticket auch für die 1. Klasse kaufen?
 ----------
 
-Nein, das Deutschland-Ticket ist ausschließlich für die 2. Klasse erhältlich.
+Nein. Das Deutschland-Ticket gilt nur für die 2. Klasse.
 
-In einigen Verkehrsverbünden und Landestarifen (z.B. in Baden-Württemberg) können Sie Aufpreise für die 1. Klasse kaufen, die für das jeweilige Verbund- oder Landestarifgebiet gültig sind. Im Schienenverkehr - gemäß Deutschlandtarif - gibt es sogenannte Klassenübergänge. Diese sind für die jeweils genutzte Strecke als Einzelübergang sowie als Wochen- und Monatsübergang verfügbar. Die genutzte Strecke darf dabei nicht vollständig innerhalb eines Verkehrsverbundes oder Landestarifs liegen.
+Sie können aber in einigen Verkehrsverbünden und Landestarifen (zum Beispiel in Baden-Württemberg) einen **Aufpreis für die 1. Klasse kaufen**. Dieser gilt nur im jeweiligen Verbund- oder Landestarifgebiet.
+
+Für Fahrten außerhalb eines Verbund- oder Landestarifgebiets können Sie im Schienenverkehr einen Klassenübergang kaufen. Den Klassenübergang bekommen Sie:
+
+* Für einzelne Fahrten (Einzelübergang)
+* Für eine Woche (Wochenübergang)
+* Für einen Monat (Monatsübergang)
+
+Die Strecke darf nicht vollständig innerhalb eines Verkehrsverbunds oder Landestarifs liegen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse)
 
- Wie kann ich die 1. Klasse für Fahrten mit dem Deutschland-Ticket nutzen?
+ Kann ich die 1. Klasse mit dem Deutschland-Ticket nutzen?
 ----------
 
-Ein Übergang in die 1. Wagenklasse ist sowohl
+Ja, mit einem **Zusatzticket** ist das möglich.
+Sie können einen Übergang in die 1. Klasse kaufen:
 
-* als Einzelübergang,
-* oder als Monatsübergang für Zeitkarten
+* Für einzelne Fahrten als Einzelübergang
+* Für einen ganzen Monat als Monatsübergang für Zeitkarten
 
-gemäß der Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder Landestarife erhältlich.
+Sie bekommen den Übergang nach den Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder der Landestarife.
 
 * [Details zum 1.-Klasse Übergang finden Sie hier](https://www.bahn.de/faq/deutschlandticket-1klasse)
 
@@ -341,32 +350,33 @@ Nur für die eventuelle Weiterfahrt im ÖPNV (mit Bus, Straßenbahn o.ä.) müss
  Was ist der Deutschland-Ticket-Filter "Nur D-Ticket-Verbindungen anzeigen"?
 ----------
 
-Der Deutschland-Ticket-Filter (D-Ticket-Filter) erlaubt es, gezielt nach Verbindungen zu suchen, die ohne Aufpreis mit dem Deutschland-Ticket fahrbar sind. Er kann mit Hilfe des Schiebereglers "Nur D-Ticket-Verbindungen" aktiviert werden.
+Der D-Ticket-Filter zeigt gezielt Verbindungen an, die Sie mit dem Deutschland-Ticket ohne Aufpreis nutzen können. Sie aktivieren ihn mit dem Schieberegler "Nur D-Ticket-Verbindungen".
 
-* In der App DB Navigator findet sich dieser unter "Optionen".
-* Auf bahn.de unten in der Verbindungsauskunft.
+Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft**.
 
-Wenn in der Suche wieder alle Verbindungen angezeigt werden sollen, auch solche des Fernverkehrs, lässt sich der D-Ticket-Filter an gleicher Stelle auch wieder deaktivieren.
+Um wieder alle Verbindungen, einschließlich Fernverkehr, angezeigt zu bekommen, können Sie den Filter dort auch jederzeit deaktivieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-im-db-navigator)
 
  Wieso erscheinen trotz aktiviertem D-Ticket-Filter einzelne nicht im D-Ticket enthaltene Verbindungen?
 ----------
 
-Trotz aktiviertem Schieberegler "Nur D-Ticket-Verbindungen" kann es vorkommen, dass einzelne Verbindungen angezeigt werden, die nicht im Umfang des D-Tickets enthalten sind.
+Auch wenn der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert ist, können vereinzelt Verbindungen angezeigt werden, die nicht mit dem Deutschland-Ticket genutzt werden dürfen.
 
-Dies ist der Fall, wenn der Betreiber einer Nahverkehrs-Strecke das Deutschland-Ticket nicht akzeptiert (z. B. bei bestimmten Flughafen-Buslinien). In diesem Fall gilt der angezeigte Hinweis: "Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
+Das passiert, wenn der Betreiber das Deutschland-Tickets nicht akzeptiert – etwa bei bestimmten Flughafen-Buslinien. In solchen Fällen erscheint der Hinweis:
+
+"Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verbindungsanzeige)
 
  Kann ich gleichzeitig nach Deutschland-Ticket-Verbindungen und nach bestimmten Verkehrsmitteln filtern?
 ----------
 
-Nein: Ist der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, werden alle Verbindungen auf der gesuchten Strecke angezeigt, die mit dem Deutschland-Ticket fahrbar sind.
+Nein, eine gleichzeitige Filterung nach Deutschland-Ticket-Verbindungen und bestimmten Verkehrsmitteln ist nicht möglich.
 
-* Voraussetzung für die Nutzung des Filters ist, dass die Verkehrsmittelauswahl in den "Optionen" auf "Alle" eingestellt ist.
-* Eine Einschränkung auf bestimmte Verkehrsmittel ist nicht möglich.
-* Sollen nur einzelne Verkehrsmittel angezeigt werden, ist es notwendig, den D-Ticket-Filter vorher zu deaktivieren.
+* Wird der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, erscheinen nur Verbindungen, die für das Deutschland-Ticket auf der gewählten Strecke zugelassen sind.
+* Damit der D-Ticket-Filter angewendet werden kann, muss die Verkehrsmittelauswahl in den "Optionen" auf "Alle" gesetzt sein. Eine Auswahl einzelner Verkehrsmittel ist dabei nicht möglich.
+* Wenn Sie gezielt bestimmte Verkehrsmittel anzeigen möchten, deaktivieren Sie bitte zuvor den D-Ticket-Filter.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verkehrsmittel-suche)
 
@@ -395,7 +405,7 @@ Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzun
 
 Beispielsweise wird bei einer Verspätung eines Nahverkehrszuges und damit verbundenem Anschlussverlust des Fernverkehrszuges die Zugbindung nicht aufgehoben und eine Fahrt mit einem späteren Zug mit einer Fahrkarte mit Zugbindung (z.B. Sparpreise) ist nicht möglich. Eventuelle fahrgastrechtliche Entschädigungsansprüche werden ebenfalls nur für das jeweilige Fernverkehrsticket oder das Deutschland-Ticket getrennt betrachtet.
 
-Sehen Sie auch: [Was bedeutet aufgehobene Zugbindung?](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+* [Was bedeutet aufgehobene Zugbindung?](http://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi-fahrgastrechte)
 
@@ -720,21 +730,20 @@ Ja. Sie können das Deutschland-Ticket vor dem 1. Geltungstag kostenfrei umtausc
  Gilt das Deutschland-Ticket auch für Fahrten ins Ausland?
 ----------
 
-Das Deutschland-Ticket gilt deutschlandweit im Nahverkehr und auf bestimmten Strecken und Bahnhöfen im Ausland, zu denen auch Fahrkarten des Deutschlandtarifs und teilweise Fahrkarten deutscher Verkehrsverbünde und Landestarife gelten.
+Das Deutschland-Ticket gilt in ganz Deutschland im Nahverkehr und auf einigen Strecken ins Ausland. Es umfasst Verbindungen, die auch mit dem Deutschlandtarif sowie teilweise mit Tickets deutscher Verkehrsverbünde und Landestarife befahren werden können.
 
-**Welche Auslandsstrecken sind enthalten?**
+**Folgende Auslandsstrecken sind enthalten:**
 
-* Gemeinschaftsbahnhöfe: Salzburg, Kufstein, Schaffhausen (inkl. Zulaufstrecken)
+* Gemeinschaftsbahnhöfe: Salzburg, Kufstein, Schaffhausen (inklusive Zulaufstrecken)
 * Bestimmte Strecken nach Frankreich und in die Niederlande
-* DB-Regio-Strecken im Außerfern (nur für Fahrten von und nach Deutschland, nicht im österreichischen Binnenverkehr)
+* DB Regio-Strecken im Außerfern (nur zwischen Deutschland und Österreich, nicht für Fahrten nur innerhalb Österreichs)
+* Weitere Beispiele: Fahrten nach Lauterbourg und Wissembourg in Frankreich (KVV)
 
-**Weitere ausländische Strecken:**
+Welche Strecken genau gelten und ob es Besonderheiten innerhalb einzelner Verkehrsverbünde oder Landestarife gibt, regeln die jeweiligen Anbieter.
 
-Es gibt zusätzliche Strecken und Zonen, die mit dem Deutschland-Ticket erreicht werden können, z.B. nach Lauterbourg und Wissembourg in Frankreich (KVV). Einzelheiten und etwaige Besonderheiten innerhalb der teilnehmenden Landestarife und Verkehrsverbünde werden von diesen geregelt.
+Beachten Sie dazu die detaillierten Hinweise im Geltungsbereich des Schienenverkehrs.
 
-Bitte beachten Sie die Details im Geltungsbereich des Schienenverkehrs.
-
-Eine Tabelle mit detaillierten Angaben finden im PDF ab Seite 15.
+Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 * [Tarifbedingungen für das Deutschland-Ticket im Deutschlandtarif (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:227be160-8ce7-4e42-b243-0e9be259bf18/tarifbedingungen-deutschland-ticket-250625.pdf)
 * [deutschlandtarifverbund/tarifbedingungen](https://www.deutschlandtarifverbund.de/tarifbedingungen/)
@@ -792,16 +801,17 @@ Wenn Sie eine Verspätung auf einer Busstrecke hatten, machen Sie Ihre Ansprüch
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-busse)
 
- Wie sollte ich als Fahrgast Verspätungen dokumentieren?
+ Wie dokumentiere ich als Fahrgast Verspätungen?
 ----------
 
-Zur Geltendmachung von Fahrgastrechteansprüchen benötigen Sie keine Verspätungsbescheinigung. Die Ansprüche werden durch das jeweilige Eisenbahnverkehrsunternehmen reguliert, auch ohne eine solche Bescheinigung.
+Sie müssen keine Verspätungsbescheinigung vorlegen, um Fahrgastrechte geltend zu machen. Die Eisenbahnverkehrsunternehmen regulieren Ihre Ansprüche auch ohne diese Bescheinigung.
 
-Dies ist möglich, da sämtliche Zugverspätungen oder Ausfälle in den Informationssystemen elektronisch erfasst und ausgewertet werden.
+Alle Zugverspätungen und Ausfälle werden elektronisch im System erfasst und ausgewertet. Erstattung von Kosten wie Fernverkehrszügen, anderen Verkehrsmitteln (z.B. Taxi) oder Hotelkosten ist auch ohne Bescheinigung möglich, wenn die Voraussetzungen erfüllt sind.
 
-Bei Vorliegen der Voraussetzungen werden z.B. die Kosten für die Nutzung eines Fernverkehrszuges, ggf. die Nutzung eines anderen Verkehrsmittels (z.B. Taxi) oder Hotelkosten auch ohne Vorlage einer solchen Bescheinigung erstattet.
+Wenn Sie trotzdem eine Bescheinigung über eine Verspätung oder einen Zugausfall möchten, wenden Sie sich an das Zugpersonal oder die DB Information. Eine solche Bescheinigung gibt es nur im Eisenbahnverkehr.
 
-Wenn Sie dennoch eine Bescheinigung über eine Zugverspätung oder einen Zugausfall wünschen, wenden Sie sich an das Zugpersonal oder die DB Information. Solche Bescheinigungen gibt es nur im Eisenbahnverkehr.
+* [Weitere Informationen zu Fahrgastrechten mit einem Deutschland-Ticket](https://www.bahn.de/faq/deutschlandticket-verspaetung-erstattung)
+* [Zum digitalen Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digi)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-dokumentieren)
 
@@ -899,13 +909,13 @@ Nein. Eine Kombination des Preisfilters für das Deutschland-Ticket mit der Best
  Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf Fahrgastrechte?
 ----------
 
-Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung der Fernverkehrsfahrkarte jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
+Bei der Kombination von Deutschland-Ticket und Fernverkehrs-Ticket werden die jeweiligen Fahrten als separate Beförderungsverträge behandelt. Dadurch entfallen durchgehende Fahrgastrechte zwischen Nah- und Fernverkehr.
 
 Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrechte:
 
-* Bei Verspätung eines Nahverkehrszuges, die zum Verpassen eines Fernverkehrszuges führt, wird die Zugbindung im Fernverkehr nicht aufgehoben. Ein späterer Fernzug kann damit nicht genutzt werden.
-* Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrsticket, nicht kombiniert.
-* Bei Anreise mit U-Bahn, Straßenbahn oder Bus gelten keine durchgängigen Fahrgastrechte.
+* Verspätungen im Nahverkehr, die zum Verpassen eines Fernverkehrszuges führen, heben die Zugbindung im Fernverkehr nicht auf. Eine spätere Fernverkehrsverbindung kann somit nicht genutzt werden.
+* Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrs-Ticket, jedoch nicht in Kombination.
+* Bei der Anreise mit U-Bahn, Straßenbahn oder Bus bestehen keine durchgängigen Fahrgastrechte.
 
 * [Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
@@ -959,7 +969,7 @@ Sie haben 2 Möglichkeiten:
     Zeigt nur Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
 
 2. Schieberegler **"Alle Reisenden besitzen ein Deutschland-Ticket"** unter "Reisende/Fahrräder" aktivieren:
-    Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
+    Berechnet den Fahrkartenpreis für die Teilstrecke vom 1. bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab. Das Angebot ergänzender Tickets beispielsweise für Fahrräder wird dadurch ausgeblendet.
 
 So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
 

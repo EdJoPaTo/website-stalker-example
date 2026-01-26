@@ -1483,32 +1483,33 @@ Beim Kauf des Deutschland-Tickets bei anderen Anbietern, zum Beispiel Verkehrsve
  Was ist der Deutschland-Ticket-Filter "Nur D-Ticket-Verbindungen anzeigen"?
 ----------
 
-Der Deutschland-Ticket-Filter (D-Ticket-Filter) erlaubt es, gezielt nach Verbindungen zu suchen, die ohne Aufpreis mit dem Deutschland-Ticket fahrbar sind. Er kann mit Hilfe des Schiebereglers "Nur D-Ticket-Verbindungen" aktiviert werden.
+Der D-Ticket-Filter zeigt gezielt Verbindungen an, die Sie mit dem Deutschland-Ticket ohne Aufpreis nutzen können. Sie aktivieren ihn mit dem Schieberegler "Nur D-Ticket-Verbindungen".
 
-* In der App DB Navigator findet sich dieser unter "Optionen".
-* Auf bahn.de unten in der Verbindungsauskunft.
+Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft**.
 
-Wenn in der Suche wieder alle Verbindungen angezeigt werden sollen, auch solche des Fernverkehrs, lässt sich der D-Ticket-Filter an gleicher Stelle auch wieder deaktivieren.
+Um wieder alle Verbindungen, einschließlich Fernverkehr, angezeigt zu bekommen, können Sie den Filter dort auch jederzeit deaktivieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-im-db-navigator)
 
  Wieso erscheinen trotz aktiviertem D-Ticket-Filter einzelne nicht im D-Ticket enthaltene Verbindungen?
 ----------
 
-Trotz aktiviertem Schieberegler "Nur D-Ticket-Verbindungen" kann es vorkommen, dass einzelne Verbindungen angezeigt werden, die nicht im Umfang des D-Tickets enthalten sind.
+Auch wenn der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert ist, können vereinzelt Verbindungen angezeigt werden, die nicht mit dem Deutschland-Ticket genutzt werden dürfen.
 
-Dies ist der Fall, wenn der Betreiber einer Nahverkehrs-Strecke das Deutschland-Ticket nicht akzeptiert (z. B. bei bestimmten Flughafen-Buslinien). In diesem Fall gilt der angezeigte Hinweis: "Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
+Das passiert, wenn der Betreiber das Deutschland-Tickets nicht akzeptiert – etwa bei bestimmten Flughafen-Buslinien. In solchen Fällen erscheint der Hinweis:
+
+"Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verbindungsanzeige)
 
  Kann ich gleichzeitig nach Deutschland-Ticket-Verbindungen und nach bestimmten Verkehrsmitteln filtern?
 ----------
 
-Nein: Ist der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, werden alle Verbindungen auf der gesuchten Strecke angezeigt, die mit dem Deutschland-Ticket fahrbar sind.
+Nein, eine gleichzeitige Filterung nach Deutschland-Ticket-Verbindungen und bestimmten Verkehrsmitteln ist nicht möglich.
 
-* Voraussetzung für die Nutzung des Filters ist, dass die Verkehrsmittelauswahl in den "Optionen" auf "Alle" eingestellt ist.
-* Eine Einschränkung auf bestimmte Verkehrsmittel ist nicht möglich.
-* Sollen nur einzelne Verkehrsmittel angezeigt werden, ist es notwendig, den D-Ticket-Filter vorher zu deaktivieren.
+* Wird der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, erscheinen nur Verbindungen, die für das Deutschland-Ticket auf der gewählten Strecke zugelassen sind.
+* Damit der D-Ticket-Filter angewendet werden kann, muss die Verkehrsmittelauswahl in den "Optionen" auf "Alle" gesetzt sein. Eine Auswahl einzelner Verkehrsmittel ist dabei nicht möglich.
+* Wenn Sie gezielt bestimmte Verkehrsmittel anzeigen möchten, deaktivieren Sie bitte zuvor den D-Ticket-Filter.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verkehrsmittel-suche)
 
@@ -1530,7 +1531,7 @@ In der **App DB Navigator** können Sie die Rechnung im Bereich "Reisen" im Rei
  Erhalte ich ein City-Ticket bei Angabe des Deutschland-Tickets?
 ----------
 
-Nein. In den günstigen Angeboten Super Sparpreis und Sparpreis wird bei Angabe des Deutschland-Tickets kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket auch weiterhin inklusive.
+Bei den günstigen Angeboten Super Sparpreis und Sparpreis wird kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket weiterhin enthalten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-cityticket)
 
@@ -1551,13 +1552,13 @@ Nein. Eine Kombination des Preisfilters für das Deutschland-Ticket mit der Best
  Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf Fahrgastrechte?
 ----------
 
-Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung der Fernverkehrsfahrkarte jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
+Bei der Kombination von Deutschland-Ticket und Fernverkehrs-Ticket werden die jeweiligen Fahrten als separate Beförderungsverträge behandelt. Dadurch entfallen durchgehende Fahrgastrechte zwischen Nah- und Fernverkehr.
 
 Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrechte:
 
-* Bei Verspätung eines Nahverkehrszuges, die zum Verpassen eines Fernverkehrszuges führt, wird die Zugbindung im Fernverkehr nicht aufgehoben. Ein späterer Fernzug kann damit nicht genutzt werden.
-* Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrsticket, nicht kombiniert.
-* Bei Anreise mit U-Bahn, Straßenbahn oder Bus gelten keine durchgängigen Fahrgastrechte.
+* Verspätungen im Nahverkehr, die zum Verpassen eines Fernverkehrszuges führen, heben die Zugbindung im Fernverkehr nicht auf. Eine spätere Fernverkehrsverbindung kann somit nicht genutzt werden.
+* Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrs-Ticket, jedoch nicht in Kombination.
+* Bei der Anreise mit U-Bahn, Straßenbahn oder Bus bestehen keine durchgängigen Fahrgastrechte.
 
 * [Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
@@ -1611,7 +1612,7 @@ Sie haben 2 Möglichkeiten:
     Zeigt nur Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
 
 2. Schieberegler **"Alle Reisenden besitzen ein Deutschland-Ticket"** unter "Reisende/Fahrräder" aktivieren:
-    Berechnet den Fahrkartenpreis für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab.
+    Berechnet den Fahrkartenpreis für die Teilstrecke vom 1. bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab. Das Angebot ergänzender Tickets beispielsweise für Fahrräder wird dadurch ausgeblendet.
 
 So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
 
