@@ -3325,8 +3325,6 @@ Haben Sie keinen Zugriff mehr auf Ihren 2. Faktor, können wir diesen leider nic
 
 Ein DB Kundenkonto wird automatisch gelöscht, wenn über eine gewisse Zeit keine Aktivität erfolgt ist. Eine manuelle Löschung durch den Kundenservice ist nicht möglich.
 
-Wir empfehlen Ihnen das DB Kundenkonto, auf das Sie den Zugriff verloren haben, sperren zu lassen. Kontaktieren Sie dafür unseren Kundenservice über das Kontaktformular unten.
-
 Tipp: Wenn Sie dringend schnell buchen müssen, nutzen Sie am besten die "Buchung ohne Anmeldung".
 
 * [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/technische-anliegen-web)

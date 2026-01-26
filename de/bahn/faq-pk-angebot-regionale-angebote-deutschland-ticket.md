@@ -288,17 +288,17 @@ Bitte beachten Sie: Für ein vorhandenes Abo ist die Änderung Ihrer Daten im Ab
  Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
 ----------
 
-Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
+**Prüfen, ob mehrere Abos vorliegen:**
 
-1. **Prüfen, ob mehrere Abos vorliegen:**
+Haben Sie versehentlich mehrere Abos bestellt, kündigen Sie ein Abo im Aboportal.
 
-    Haben Sie versehentlich mehrere Abos bestellt, kündigen Sie ein Abo im Aboportal.
-2. **Technischer Fehler:**
+**Technischer Fehler:**
 
-    Liegt die Mehrfachbuchung an einem technischen Fehler, kontaktieren Sie bitte das Abo-Center über das Kontaktformular im Aboportal für eine Kulanzerstattung. Haben Sie bitte etwas Geduld für die Bearbeitung.
-3. **Wichtig:**
+Liegt die Mehrfachbuchung an einem technischen Fehler, kontaktieren Sie bitte das Abo-Center über das Kontaktformular im Aboportal für eine Kulanzerstattung. Haben Sie bitte etwas Geduld für die Bearbeitung.
 
-    Keine Rücklastschrift über die Bank veranlassen, um Sperrung des Kundenkontos und Kündigung aller Tickets zu vermeiden.
+**Wichtig:**
+
+Veranlassen Sie keine Rücklastschrift über die Bank, um eine Sperrung Ihres DB Kundenkontos und Kündigung aller Tickets zu vermeiden.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -553,14 +553,21 @@ Für das Deutschland-Ticket als Chipkarte braucht Ihr Kind die Chipkarte und ein
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder-alleine)
 
- Ich habe mein Deutschland-Ticket mit einem Fernverkehrsticket kombiniert. Welche Fahrgastrechte gelten, wenn ich meinen Anschluss nicht erreiche?
+ Welche Fahrgastrechte habe ich, wenn ich das Deutschland-Ticket mit einem Fernverkehrsticket kombiniere und meinen Anschluss nicht erreiche?
 ----------
 
-Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung des Fernverkehrstickets jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
+Bei einer Kombination aus Deutschland-Ticket und Fernverkehrsticket gelten 2 getrennte Beförderungsverträge:
 
-Beispielsweise wird bei einer Verspätung eines Nahverkehrszuges und damit verbundenem Anschlussverlust des Fernverkehrszuges die Zugbindung nicht aufgehoben und eine Fahrt mit einem späteren Zug mit einer Fahrkarte mit Zugbindung (z.B. Sparpreise) ist nicht möglich. Eventuelle fahrgastrechtliche Entschädigungsansprüche werden ebenfalls nur für das jeweilige Fernverkehrsticket oder das Deutschland-Ticket getrennt betrachtet.
+* Fahrten im Nahverkehr werden mit dem Deutschland-Ticket abgedeckt.
+* Die Fahrt im Fernverkehr erfolgt mit dem Fernverkehrsticket.
 
-Sehen Sie auch: [Was bedeutet aufgehobene Zugbindung?](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+Sie haben keinen Anspruch auf durchgängige Fahrgastrechte zwischen Nah- und Fernverkehr.
+
+Beispiel: Kommt es zu einer Verspätung im Nahverkehr und Sie verpassen dadurch den Fernverkehrszug, bleibt die Zugbindung bestehen. Eine spätere Fahrt mit einer Fahrkarte mit Zugbindung (zum Beispiel Sparpreis) ist dann nicht möglich.
+
+Entschädigungsansprüche werden für jedes Ticket einzeln geprüft und gelten nur für das jeweilige Fernverkehrsticket oder das Deutschland-Ticket.
+
+* [Was bedeutet aufgehobene Zugbindung?](http://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kombi-fv-dt)
 
@@ -759,7 +766,7 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 * Das Deutschland-Ticket gilt in allen Nahverkehrszügen (RB, RE, S-Bahn) und öffentlichen Verkehrsmitteln (Bus, Straßenbahn, U-Bahn) der teilnehmenden Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
 * Das Deutschland-Ticket gilt **nicht** in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
-* Die Nutzung im Vor- und Nachlauf ist möglich. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich.
+* Die Nutzung im Vor- und Nachlauf ist möglich. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich. In einigen Regionen gibt es Ausnahmen, die in der Fahrplanauskunft enthalten sind.
 * Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
 
 Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
