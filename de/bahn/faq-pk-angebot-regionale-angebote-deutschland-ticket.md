@@ -14,6 +14,22 @@ So beantragen Sie die BahnCard 100 inklusive Deutschland-Ticket:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard100-inklusive-deutschland-ticket)
 
+ Was tue ich, wenn ich meine Bankdaten nicht bestätigen kann, ich eine Fehlermeldung bei der Verifizierung erhalte oder Unterstützung bei der Verifizierung benötige?
+----------
+
+Bei Problemen mit Ihrem Onlinebanking-Login wenden Sie sich bitte an Ihre kontoführende Bank.
+
+Bei Problemen mit der Verifizierung über den ausgewählten Dienstleister, nutzen Sie zunächst eine alternative Verifizierungsoption, falls verfügbar.
+
+Ein Wechsel des Internetbrowsers oder der Wechsel zwischen App und Web-Version kann oft zur Lösung beitragen.
+
+Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den von Ihnen gewählten Verifizierungsdienstleister für weitere Unterstützung:
+
+* [Häufige Fragen und Antworten zu Tink](https://tink.com/de/privatkunden-faq/)
+* [Verimi Hilfe- und Kontaktseite](https://verimi.de/faq/?question=122169&title=deutsche-bahn-db-hilfebereich-zur-nutzung-von-verimi)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bankdaten-nicht-bestaetigen)
+
  Ich habe bereits ein Abo auf einer Chipkarte und bin zum Deutschland-Ticket gewechselt. Kann ich meine Chipkarte aktualisieren und weiterverwenden?
 ----------
 
@@ -150,28 +166,13 @@ Sie können aber in einigen Verkehrsverbünden und Landestarifen (zum Beispiel i
 
 Für Fahrten außerhalb eines Verbund- oder Landestarifgebiets können Sie im Schienenverkehr einen Klassenübergang kaufen. Den Klassenübergang bekommen Sie:
 
-* Für einzelne Fahrten (Einzelübergang)
-* Für eine Woche (Wochenübergang)
-* Für einen Monat (Monatsübergang)
+* Für einzelne Fahrten (Einzelübergang) – über DB Navigator oder bahn.de möglich: Wählen Sie "1. Klasse" aus. Das sog. wird Dann wird automatisch "1. Klasse Übergang Nahverkehr" angeboten.
+* Für eine Woche (Wochenübergang) – in DB Reisezentren oder DB Agenturen
+* Für einen Monat (Monatsübergang) – in DB Reisezentren oder DB Agenturen
 
 Die Strecke darf nicht vollständig innerhalb eines Verkehrsverbunds oder Landestarifs liegen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse)
-
- Kann ich die 1. Klasse mit dem Deutschland-Ticket nutzen?
-----------
-
-Ja, mit einem **Zusatzticket** ist das möglich.
-Sie können einen Übergang in die 1. Klasse kaufen:
-
-* Für einzelne Fahrten als Einzelübergang
-* Für einen ganzen Monat als Monatsübergang für Zeitkarten
-
-Sie bekommen den Übergang nach den Bedingungen des Deutschlandtarifs, der Verkehrsverbünde oder der Landestarife.
-
-* [Details zum 1.-Klasse Übergang finden Sie hier](https://www.bahn.de/faq/deutschlandticket-1klasse)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse-aufpreis)
 
  Kann ich das Deutschland-Ticket auch mitten im Monat für eine kurzfristige Reise kaufen?
 ----------
@@ -288,17 +289,9 @@ Bitte beachten Sie: Für ein vorhandenes Abo ist die Änderung Ihrer Daten im Ab
  Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
 ----------
 
-**Prüfen, ob mehrere Abos vorliegen:**
+**Prüfen, ob mehrere Abos vorliegen:** Haben Sie versehentlich mehrere Abos bestellt, kündigen Sie ein Abo im Aboportal.
 
-Haben Sie versehentlich mehrere Abos bestellt, kündigen Sie ein Abo im Aboportal.
-
-**Technischer Fehler:**
-
-Liegt die Mehrfachbuchung an einem technischen Fehler, kontaktieren Sie bitte das Abo-Center über das Kontaktformular im Aboportal für eine Kulanzerstattung. Haben Sie bitte etwas Geduld für die Bearbeitung.
-
-**Wichtig:**
-
-Veranlassen Sie keine Rücklastschrift über die Bank, um eine Sperrung Ihres DB Kundenkontos und Kündigung aller Tickets zu vermeiden.
+**Wichtig:** Veranlassen Sie keine Rücklastschrift über die Bank, um eine Sperrung Ihres DB Kundenkontos und Kündigung aller Tickets zu vermeiden.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
@@ -730,7 +723,7 @@ Nein. Das Deutschland-Ticket ist personalisiert. Sie können das Ticket nur zusa
  Kann ich das Deutschland-Ticket umtauschen oder erstatten lassen?
 ----------
 
-Ja. Sie können das Deutschland-Ticket vor dem 1. Geltungstag kostenfrei umtauschen oder erstatten lassen. Danach ist ein Umtausch oder eine Erstattung nicht mehr möglich.
+Nein. Der Widerruf eines Abovertrags ist nicht möglich. Sie können das Abo zum nächstmöglichen Termin entsprechend der Tarifbestimmungen kündigen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-umtausch)
 
@@ -766,7 +759,7 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 * Das Deutschland-Ticket gilt in allen Nahverkehrszügen (RB, RE, S-Bahn) und öffentlichen Verkehrsmitteln (Bus, Straßenbahn, U-Bahn) der teilnehmenden Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
 * Das Deutschland-Ticket gilt **nicht** in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
-* Die Nutzung im Vor- und Nachlauf ist möglich. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich. In einigen Regionen gibt es Ausnahmen, die in der Fahrplanauskunft enthalten sind.
+* Sie können das Deutschland-Ticket auf den Streckenabschnitten nutzen, die Sie im Nahverkehr vor dem Einstieg in den Fernverkehrszug oder nach dem Ausstieg aus dem Fernverkehrszug zurücklegen. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich. In einigen Regionen gibt es Ausnahmen, die in der Fahrplanauskunft enthalten sind.
 * Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
 
 Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
