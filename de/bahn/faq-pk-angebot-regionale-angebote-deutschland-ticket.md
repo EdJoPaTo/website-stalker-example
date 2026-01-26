@@ -329,7 +329,10 @@ Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter
  Was muss ich beachten, wenn ich eine Fernverkehrsfahrkarte mit einem Deutschland-Ticket kombinieren und dabei mein Fahrrad mitnehmen möchte?
 ----------
 
-Möchten Sie auf einer Reise eine Fernverkehrsfahrkarte mit dem Deutschland-Ticket kombinieren und dabei ein Fahrrad mitnehmen, so kaufen Sie bitte Ihre ‚Fahrradkarte Fernverkehr‘ bis zu Ihrem Zielbahnhof, den Sie ggf. mit einem Nahverkehrszug erreichen. Die Fahrradkarte Fernverkehr gilt ohne Mehrkosten auch für die Fahrt in den Nahverkehrszügen. Für die evtl. Weiterfahrt im ÖPNV (mit Bus, Straßenbahn o.ä.) gelten die Tarifregeln des jeweils genutzten Unternehmens. Gegebenenfalls ist der Kauf einer weiteren Fahrkarte für Ihr Fahrrad erforderlich.
+Möchten Sie auf einer Reise eine Fernverkehrsfahrkarte mit dem Deutschland-Ticket kombinieren und dabei ein Fahrrad mitnehmen, so kaufen Sie bitte Ihre "Fahrradkarte Fernverkehr" bis zu Ihrem Zielbahnhof, den Sie mit einem Nahverkehrszug erreichen.
+
+Denn: Die "Fahrradkarte Fernverkehr" gilt ohne Mehrkosten auch für die Fahrt in den Nahverkehrszügen.
+Nur für die eventuelle Weiterfahrt im ÖPNV (mit Bus, Straßenbahn o.ä.) müssen Sie möglicherweise eine weitere Fahrkarte für Ihr Fahrrad kaufen, denn hier gelten die Tarifregeln des jeweils genutzten Unternehmens.
 
 * [Alle Infos zur Fahrradmitnahme](https://www.bahn.de/service/individuelle-reise/fahrrad)
 
@@ -875,7 +878,7 @@ Nein. Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Da
  Erhalte ich ein City-Ticket bei Angabe des Deutschland-Tickets?
 ----------
 
-Nein. In den günstigen Angeboten Super Sparpreis und Sparpreis wird bei Angabe des Deutschland-Tickets kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket auch weiterhin inklusive.
+Bei den günstigen Angeboten Super Sparpreis und Sparpreis wird kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket weiterhin enthalten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-cityticket)
 
