@@ -5,7 +5,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### AGB ####
 
-  * [AGB Mobilfunk](/media/filer_public/17/17/17177adf-5df1-4677-b9a3-5b1ccbc8fa1c/agb_mobil.pdf)
+  * [AGB Mobilfunk](/media/filer_public/dc/3e/dc3e3b40-0b2e-4dbd-8276-269fab8ded1b/wetell_agb_leistungsbeschreibung_bf_2026-01.pdf)
   * [Vorvertragliche Informationen](/media/filer_public/b3/1c/b31c5431-d468-4d6b-901d-c82789372ba8/wetell_vorvertragliche-infos_2024-09_bf.pdf)
   * [AGB Mobilfunkgutschein](/media/filer_public/97/ee/97ee065c-21dd-47bb-8770-2c1fa76a55d7/agb-mobilfunkgutschein-starterpaket.pdf)
 
