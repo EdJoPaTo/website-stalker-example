@@ -244,10 +244,10 @@ Nein, mit Ihrer BahnCard erhalten Sie keinen Rabatt auf das Deutschland-Ticket.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-card)
 
- Kann ich meine BahnCard 100 1. Klasse weiterhin im Nahverkehr in der 1. Klasse nutzen?
+ Kann ich meine BahnCard 100 1. Klasse im Nahverkehr weiterhin in der 1. Klasse nutzen?
 ----------
 
-Ja. In Regional-Express, Regionalbahn und S-Bahn nutzen Sie weiterhin die 1. Klasse. In U-Bahn, Straßenbahn und Bus ist die 1. Klasse nicht möglich.
+Ja. In Regional-Express, Regionalbahn und S-Bahn nutzen Sie weiterhin die 1. Klasse. In U-Bahn, Straßenbahn und Bus ist die Nutzung der 1. Klasse, wenn vorhanden, nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahncard100-1klasse-nv)
 
@@ -314,7 +314,7 @@ Nein. Solange Sie Ihr Deutschland-Ticket nutzen möchten, müssen Sie dieses nic
  Muss ich bei der Fahrkartenkontrolle mit dem Deutschland-Ticket zwingend meinen Ausweis vorzeigen?
 ----------
 
-Ja. Sie sind entsprechend der Vorgaben der Tarifgesellschaften verpflichtet, auf Aufforderung immer einen gültigen Lichtbildausweis vorzuzeigen. Das gilt auch, wenn Ihre Chipkarte ein Lichtbild enthält.
+Ja. Sie sind entsprechend der Tarif- und Beförderungsbedingungen verpflichtet, auf Aufforderung immer einen gültigen Lichtbildausweis vorzuzeigen. Das gilt auch, wenn Ihre Chipkarte ein Lichtbild enthält.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrkartenkontrolle)
 
@@ -341,7 +341,7 @@ Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter
 Möchten Sie auf einer Reise eine Fernverkehrsfahrkarte mit dem Deutschland-Ticket kombinieren und dabei ein Fahrrad mitnehmen, so kaufen Sie bitte Ihre "Fahrradkarte Fernverkehr" bis zu Ihrem Zielbahnhof, den Sie mit einem Nahverkehrszug erreichen.
 
 Denn: Die "Fahrradkarte Fernverkehr" gilt ohne Mehrkosten auch für die Fahrt in den Nahverkehrszügen.
-Nur für die eventuelle Weiterfahrt im ÖPNV (mit Bus, Straßenbahn o.ä.) müssen Sie möglicherweise eine weitere Fahrkarte für Ihr Fahrrad kaufen, denn hier gelten die Tarifregeln des jeweils genutzten Unternehmens.
+Bei Weiterfahrt mit Bus, Straßenbahn o.ä. müssen Sie möglicherweise eine weitere Fahrkarte für Ihr Fahrrad kaufen, denn hier gelten die Tarifregeln des jeweils genutzten Unternehmens.
 
 * [Alle Infos zur Fahrradmitnahme](https://www.bahn.de/service/individuelle-reise/fahrrad)
 
@@ -576,7 +576,7 @@ Entschädigungsansprüche werden für jedes Ticket einzeln geprüft und gelten n
 
 Bund und Länder haben entschieden, das Deutschland-Ticket als Abonnement anzubieten. Es ist bundesweit gültig und ermöglicht deutschlandweite Fahrten im ÖPNV und SPNV aller teilnehmenden Verkehrsunternehmen, Landestarife und Verkehrsverbünde sowie im verbundfreien Raum.
 
-Die genauen Konditionen für Ihr Deutschland-Ticket finden Sie in den jeweiligen Tarifbedingungen für Ihren Tarif.
+Die genauen Konditionen für Ihr Deutschland-Ticket finden Sie in den jeweiligen Tarifbedingungen ihrer Tarifgesellschaft (Verbund, Landestarif, Deutschlandtarif).
 
 * [zu den AGBs](https://www.bahn.de/agb)
 
@@ -945,8 +945,7 @@ Die Angabe des Deutschland-Tickets beeinflusst die Stornierungs- und Erstattungs
  Was muss ich bei Angabe des Deutschland-Tickets beachten, wenn ich Kinder mitnehmen möchte?
 ----------
 
-* Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte eingetragen sind.
-* Beim Deutschland-Ticket ist die kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren nicht enthalten. Für die An- oder Abreise zum bzw. vom Fernverkehrshalt benötigen Kinder in diesem Alter daher ein zusätzliches gültiges Nahverkehrsticket (z. B. eine Einzelfahrkarte).
+* Beim Deutschland-Ticket ist die kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren **nicht** enthalten. Für die An- oder Abreise zum bzw. vom Fernverkehrshalt benötigen Kinder in diesem Alter daher ein zusätzliches gültiges Nahverkehrsticket (z. B. eine Einzelfahrkarte).
 * Kinder unter 6 Jahren fahren sowohl im Nah- als auch im Fernverkehr ohne Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)

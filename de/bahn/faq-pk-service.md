@@ -1581,8 +1581,7 @@ Die Angabe des Deutschland-Tickets beeinflusst die Stornierungs- und Erstattungs
  Was muss ich bei Angabe des Deutschland-Tickets beachten, wenn ich Kinder mitnehmen möchte?
 ----------
 
-* Im DB Fernverkehr reisen Kinder bis 14 Jahre in Begleitung einer Person ab 15 Jahren kostenfrei, sofern sie auf der Fahrkarte eingetragen sind.
-* Beim Deutschland-Ticket ist die kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren nicht enthalten. Für die An- oder Abreise zum bzw. vom Fernverkehrshalt benötigen Kinder in diesem Alter daher ein zusätzliches gültiges Nahverkehrsticket (z. B. eine Einzelfahrkarte).
+* Beim Deutschland-Ticket ist die kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren **nicht** enthalten. Für die An- oder Abreise zum bzw. vom Fernverkehrshalt benötigen Kinder in diesem Alter daher ein zusätzliches gültiges Nahverkehrsticket (z. B. eine Einzelfahrkarte).
 * Kinder unter 6 Jahren fahren sowohl im Nah- als auch im Fernverkehr ohne Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)
