@@ -67,6 +67,8 @@ Tempered Glass Screen Protector – 2-Pack
 
 StarPort 12-port USB-C PD Hub
 
+Micro HDMI to HDMI Adapter
+
 Includes:
 
  12.5" StarLite

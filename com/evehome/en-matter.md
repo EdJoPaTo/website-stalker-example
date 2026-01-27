@@ -558,8 +558,6 @@ Plus shipping. Duties and taxes not included in shipping. Prices in USD
 
  Your choice
 
- Out of stock
-
  Buy from our partners
 
  Only available at the Eve Store
@@ -1276,8 +1274,6 @@ Plus shipping. Duties and taxes not included in shipping. Prices in USD
  Plus shipping. Duties and taxes not included in shipping. Prices in USD
 
  Your choice
-
- Out of stock
 
  Buy from our partners
 
