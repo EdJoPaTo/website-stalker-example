@@ -39,6 +39,8 @@ You can compile a .ksy spec to Java classes with serialization support like this
 kaitai-struct-compiler --read-write --no-auto-read -t java <ksy-file>
 ```
 
+If you need to integrate the generated classes into your project, you will probably also want to specify the package using the `--java-package <package>` option.
+
 You can compile a .ksy spec to Python classes with serialization support like this:
 
 ```
@@ -60,7 +62,7 @@ System.out.println("width = " + g.logicalScreen().imageWidth());
 
 ```
 g = Gif.from_file("path/to/some.gif")
-print("width = %d" % (g.logical_screen.image_width))
+print(f"width = {g.logical_screen.image_width}")
 ```
 
 Or you can instantiate the `Gif` class directly by invoking the class constructor and passing the stream to read from:
@@ -79,7 +81,7 @@ try (KaitaiStream io = new ByteBufferKaitaiStream("path/to/some.gif")) {
 ```
 with KaitaiStream(open("path/to/some.gif", 'rb')) as _io:
     g = Gif(_io)
-    print("width = %d" % (g.logical_screen.image_width))
+    print(f"width = {g.logical_screen.image_width}")
 ```
 
 This is because the `_read` method (responsible for parsing the data) is automatically called from constructors of the generated classes, and is also `private` (in Java) because you never need to call it explicitly.
@@ -102,7 +104,7 @@ try (KaitaiStream io = new ByteBufferKaitaiStream("path/to/some.gif")) {
 with KaitaiStream(open("path/to/some.gif", 'rb')) as _io:
     g = Gif(_io)
     g._read()
-    print("width = %d" % (g.logical_screen.image_width))
+    print(f"width = {g.logical_screen.image_width}")
 ```
 
 ### Installing the runtime library ###
@@ -173,7 +175,7 @@ hw = HelloWorld()
 hw.foo = [-4, 65536]
 hw._check()
 
-_io = KaitaiStream(io.BytesIO(bytearray(8)))
+_io = KaitaiStream(io.BytesIO(bytes(8)))
 hw._write(_io)
 
 output = _io.to_byte_array()
@@ -227,6 +229,8 @@ hw._check()  # kaitaistruct.ConsistencyError: Check failed: foo, expected: 2, ac
 ```
 
 As expected, the `_check` method caught the problem and threw an exception - the expected length of field `foo` was 2, but it was 3, which doesn’t match the format definition.
+
+Note that not all consistency checks are performed in `_check`. Data inconsistencies may also manifest as `ConsistencyError` or other errors raised by the `_write` method — see [Consistency checks that cannot be done in `_check`](#checks-outside-check).
 
 Notes on individual features
 ----------
@@ -286,7 +290,7 @@ one._check()
 ut.one = one
 ut._check()
 
-_io = KaitaiStream(io.BytesIO(bytearray(6)))
+_io = KaitaiStream(io.BytesIO(bytes(6)))
 ut._write(_io)
 
 output = _io.to_byte_array()
@@ -359,7 +363,7 @@ The error message is a bit inconcrete at the moment, because it only says there�
 
 ```
 io.kaitai.struct.ConsistencyError: Check failed: one, expected: org.example.UserTypes@539645a2, actual: null
-    at org.example.UserTypes._check (UserTypes.java:48)
+    at org.example.UserTypes._check (UserTypes.java:50)
     ...
 ```
 
@@ -367,8 +371,8 @@ io.kaitai.struct.ConsistencyError: Check failed: one, expected: org.example.User
 public class UserTypes extends KaitaiStruct.ReadWrite {
     // ...
     public void _check() {
-        if (!Objects.equals(one()._root(), _root()))
-            throw new ConsistencyError("one", one()._root(), _root());
+        if (!Objects.equals(this.one._root(), _root()))
+            throw new ConsistencyError("one", _root(), this.one._root());
         // ...
     }
 ```
@@ -386,9 +390,8 @@ kaitaistruct.ConsistencyError: Check failed: one, expected: <user_types.UserType
 class UserTypes(ReadWriteKaitaiStruct):
     # ...
     def _check(self):
-        pass
         if self.one._root != self._root:
-            raise kaitaistruct.ConsistencyError(u"one", self.one._root, self._root)
+            raise kaitaistruct.ConsistencyError(u"one", self._root, self.one._root)
         # ...
 ```
 
@@ -558,7 +561,7 @@ The Java’s `_invalidate{Inst}` / Python’s `_invalidate_{inst}` method invali
 
 ### Parse instances ###
 
-They have setters. Additionally, you can also use a special boolean `set{Inst}_ToWrite` setter (in Python you’d assign a boolean to a property `{inst}__to_write`), allowing you to disable writing of a specific instance (as `r.set{Inst}_ToWrite(false)` in Java, or `r.{inst}__to_write = False` in Python) in a particular KS object. This may be useful for C-style `union` members (several overlapping fields with different types, but only one applies in any object), lookaheads or other positional instances you don’t want to write.
+They have setters. Additionally, you can also use a special boolean `set{Inst}_Enabled` setter (in Python you’d assign a boolean to a property `{inst}__enabled`), allowing you to disable both writing and checking of a specific instance (as `r.set{Inst}_Enabled(false)` in Java, or `r.{inst}__enabled = False` in Python) in a particular KS object. This may be useful for C-style `union` members (several overlapping fields with different types, but only one applies in any object), lookaheads or other positional instances you don’t want to write.
 
 ### Parameters ###
 
@@ -588,7 +591,7 @@ In Python, this limitation doesn’t exist: all enum values (both defined and un
 
 Unlike the existing parser implementation of bit types which relied on explicit `alignToByte()` calls (and this resulted in many problems, because in many cases the compiler failed in where to insert them and where not), all byte-aligned operations in Java and Python runtime libraries with serialization support now perform the byte alignment automatically, and the explicit `alignToByte()` calls shouldn’t be needed anymore.
 
-When you write a structure with `X`-bit `type: bX` fields, only full bytes are written once they’re known. This means that if your format ends at an unaligned bit position, the bits of the final partial byte remain in the internal "bit buffer", but they will not be written to the underlying stream until you do some operation which aligns the position to a byte boundary (e.g. `writeBytes(0)`, `seek(…​)`, or explicit `writeAlignToByte()`). However, if you don’t have anything else to write and don’t need to work with that stream anymore, it’s recommended to `close()` the stream, which automatically writes the remaining bits (if any) before closing the stream.
+When you write a structure with `X`-bit `type: bX` fields, only full bytes are written once they’re known. This means that if your format ends at an unaligned bit position, the bits of the final partial byte remain in the internal "bit buffer", but they will not be written to the underlying stream until you do some operation which aligns the position to a byte boundary (e.g. `writeBytes([])`, `seek(…​)`, or explicit `writeAlignToByte()`). However, if you don’t have anything else to write and don’t need to work with that stream anymore, it’s recommended to `close()` the stream, which automatically writes the remaining bits (if any) before closing the stream.
 
 * Java
 
@@ -629,7 +632,7 @@ So from the KS perspective, the recommendations are the following:
 * If you use `BytesIO` to create the root `KaitaiStream` object, you don’t need to call `close()` or use the `with` keyword to call it automatically. After you write the KS object to the stream, use the `to_byte_array()` method of `KaitaiStream` to convert the stream to bytes, as you saw in previous code snippets:
 
   ```
-  _io = KaitaiStream(io.BytesIO(bytearray(8)))
+  _io = KaitaiStream(io.BytesIO(bytes(8)))
   hw._write(_io)
 
   output = _io.to_byte_array()
@@ -640,7 +643,7 @@ So from the KS perspective, the recommendations are the following:
 * If you use a [file object](https://docs.python.org/3/glossary.html#term-file-object) (typically from [**open()**](https://docs.python.org/3/library/functions.html#open)) to initialize the `KaitaiStream`, it’s best to use the `with` keyword to manage the stream. But given that `KaitaiStream` relies on being fixed-length, note that the file must already have the final size once you pass it to `KaitaiStream` (the `KaitaiStream` object currently remembers the stream size at creation time and won’t allow `write*()` methods to exceed it). You can use [**truncate()**](https://docs.python.org/3/library/io.html#io.IOBase.truncate) to set the file length. Like this:
 
   ```
-  f = open('path/to/file.bin', 'wb')  # use io.open() instead if you care about Python 2 compatibility
+  f = open('path/to/file.bin', 'wb')
   f.truncate(8)
 
   with KaitaiStream(f) as _io:
@@ -651,7 +654,21 @@ So from the KS perspective, the recommendations are the following:
 
 ### Consistency checks that cannot be done in `_check` ###
 
-Sometimes a consistency check cannot be performed in `_check` because the user expressions from the .ksy specification that the check needs to use do not allow it. A typical example is when the expression makes use of the built-in `_io` variable, for example:
+Not all consistency checks can be evaluated in `_check`. The `_check` method is intentionally restricted to **pure, stream-independent** consistency checks. It treats the object as a standalone entity without assuming the existence of any stream.
+
+This is necessary because when `_check` is invoked on objects created programmatically from scratch (i.e. not parsed from a stream), the current I/O stream `_io` is typically `null` or `None`. This makes stream-dependent validation impossible at that stage. As a consequence, the built-in `_io` variable can never be used in `_check`.
+
+Broadly speaking, there are two reasons why a consistency check might need access to the stream:
+
+* The check requires evaluating a user-specified expression that explicitly refers to the stream (typically via `_io`) — see [Checks with user expressions that refer to streams](#checks-with-io-exprs).
+
+* Accessing the stream is inherent in the nature of the check itself — see [Checks that inherently access the stream](#checks-with-inherent-io).
+
+In both cases, the consistency check is automatically moved out of `_check` and performed during writing instead. The check is emitted at exactly the same point in the write sequence where the corresponding consistency property emerges during parsing. This guarantees that the stream state (position and length) is the same as when reading, and thus that the check has the same meaning.
+
+#### Checks with user expressions that refer to streams ####
+
+The following .ksy snippet defines a field which implies a consistency check that must use a user expression with `_io`:
 
 ```
 seq:
@@ -659,4 +676,91 @@ seq:
     size: _io.size - _io.pos
 ```
 
-Since it’s a fixed-length byte array with the `size` expression denoting its length, it’s necessary to check whether the length of the `rest` byte array (that might have been changed via a setter) and the value of the `size` expression `_io.size - _io.pos` match. But this expression uses `_io`, so it cannot be performed in `_check`: `_check` is meant to check pure data consistency and the `_io` may not be available at this point. So this consistency check will be moved to `_write` just before the `rest` field would be written.
+Here, `rest` is a byte array whose declared length is given by the expression `_io.size - _io.pos` (which calculates the number of remaining bytes in the stream). For the data to be consistent, the actual length of `rest` must match this value.
+
+Because the expression depends on `_io`, it cannot be evaluated in `_check`. Instead, the generated code performs the check immediately before `rest` is written:
+
+* Java
+
+* Python
+
+```
+    public void _write_Seq() {
+        _assertNotDirty();
+        if (this.rest.length != _io().size() - _io().pos())
+            throw new ConsistencyError("rest", _io().size() - _io().pos(), this.rest.length);
+        this._io.writeBytes(this.rest);
+    }
+```
+
+```
+    def _write__seq(self, io=None):
+        super(ChecksInWrite, self)._write__seq(io)
+        if len(self.rest) != self._io.size() - self._io.pos():
+            raise kaitaistruct.ConsistencyError(u"rest", self._io.size() - self._io.pos(), len(self.rest))
+        self._io.write_bytes(self.rest)
+```
+
+This placement in `_write_Seq` / `_write__seq` mirrors the point in the `_read` method where the consistency property emerges:
+
+* Java
+
+* Python
+
+```
+    public void _read() {
+        this.rest = this._io.readBytes(_io().size() - _io().pos());
+        _dirty = false;
+    }
+```
+
+```
+    def _read(self):
+        self.rest = self._io.read_bytes(self._io.size() - self._io.pos())
+        self._dirty = False
+```
+
+During parsing, the expression `_io.size - _io.pos` is evaluated immediately before reading `rest` and determines the exact number of bytes to consume. If the read succeeds (i.e. no EOF error occurs), `rest` will necessarily contain exactly `_io.size - _io.pos` bytes, with this expression interpreted in the stream state just before the field.
+
+This explains how this consistency property emerged and why the placement of the consistency check during writing is semantically correct.
+
+#### Checks that inherently access the stream ####
+
+The example in [Checks with user expressions that refer to streams](#checks-with-io-exprs) effectively defines a field that spans from the current position to the end of stream, but does so in a non-idiomatic way. In practice, it’s recommended to use the built-in `size-eos: true` syntax instead:
+
+```
+seq:
+  - id: rest
+    size-eos: true
+```
+
+This definition is fully equivalent in terms of both reading and writing. The difference lies in how consistency checking is implemented in the generated code:
+
+* Java
+
+* Python
+
+```
+    public void _write_Seq() {
+        _assertNotDirty();
+        this._io.writeBytes(this.rest);
+        if (!(this._io.isEof()))
+            throw new ConsistencyError("rest", 0, this._io.size() - this._io.pos());
+    }
+```
+
+```
+    def _write__seq(self, io=None):
+        super(ChecksInWrite, self)._write__seq(io)
+        self._io.write_bytes(self.rest)
+        if not self._io.is_eof():
+            raise kaitaistruct.ConsistencyError(u"rest", 0, self._io.size() - self._io.pos())
+```
+
+The set of accepted and rejected values for the `rest` field is identical to the version using `size: _io.size - _io.pos` shown in [Checks with user expressions that refer to streams](#checks-with-io-exprs).
+
+However, instead of checking up front that `rest` has the exact expected length and raising a `ConsistencyError` if not, this variant explicitly enforces only the implied consistency property that the stream must be at end-of-stream after the field. This is done by checking that `_io.eof` is true once `rest` has been written.
+
+If `rest` is too short, the end-of-stream condition is not met and a `ConsistencyError` is raised. If `rest` is too long to fit into the fixed-length stream, the write operation itself fails with an EOF error: a `BufferOverflowException` or `EOFException` in Java (depending on the `KaitaiStream` implementation), or an `EndOfStreamError` in Python.
+
+In other words, the consistency property implied by `size-eos: true` is enforced partly by an explicit consistency check and partly by the underlying I/O stream.
