@@ -54,6 +54,10 @@ Maximum
 
 Extras
 
+USB-A to Ethernet Adapter
+
+USB-C to USB-A Adapter
+
 StarPort 12-port USB-C PD Hub
 
  duties and taxes
@@ -62,7 +66,7 @@ StarPort 12-port USB-C PD Hub
 
 Ships
 
- February
+ End of February
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
