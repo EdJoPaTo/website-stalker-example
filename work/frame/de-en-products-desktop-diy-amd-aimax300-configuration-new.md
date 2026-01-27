@@ -150,7 +150,7 @@ FAQs
 
 * Which Linux Distros are supported?
 
-  Ubuntu, Fedora, and Bazzite work out of the box. Linux Mint, Arch Linux and Nobara are community supported. You can learn more from our Linux on the Framework Desktop page.
+  Ubuntu, Fedora, and Bazzite work out of the box. Arch Linux and NixOS are community supported. You can learn more from our Linux on the Framework Desktop page.
 
 Close
 
