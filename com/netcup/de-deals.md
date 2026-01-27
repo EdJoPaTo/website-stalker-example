@@ -7,12 +7,40 @@ Vom 27. Januar, 10 Uhr (MEZ) bis zum 29. Januar, 10 Uhr (MEZ), hast du 48 Stunde
 
 [Zu den Deals\>](https://www.netcup.com/de/deals#deals)
 
-* Alle (10)
+* Alle (11)
 * Webhosting  (2)
 * Root-Server  (4)
 * VPS
-* Domains  (4)
-* Andere Flash Deals (0)
+* Domains  (5)
+* Andere Flash Deals (1)
+
+Domains
+
+ FLASH DEAL
+
+### .de Domain ###
+
+ 69 % Rabatt
+
+statt 0,42 €
+
+* DNSSEC, API
+
+* 2 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+pro Monat
+
+0,13 €
+
+(inkl. 19% MwSt.)
+
+[Jetzt Deal sichern\>](https://www.netcup.com/de/domain/aktion-.de-domain-jan26)
 
 Webhosting
 
