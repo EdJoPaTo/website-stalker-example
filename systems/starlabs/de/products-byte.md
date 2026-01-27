@@ -51,8 +51,6 @@ None
 
 4TB SSD  SATA storage
 
-8TB SSD  SATA storage
-
 Extras
 
 32GB Reversible USB Recovery Drive
