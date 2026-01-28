@@ -496,7 +496,7 @@ Kann ich Aktionsprodukte später auch auf größere, reguläre Produkte upgraden
  ###
 
 Für manche Produkte, die zu Regulär-Preisen über unsere Website gekauft wurden, ist ein [Upgrade](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade) innerhalb derselben Produktgruppe und Generation möglich.
-Upgrades von Produkten, die innerhalb einer Aktion gekauft wurden, sind jedoch nicht möglich. Solltest du zu einem späteren Zeitpunkt bemerken, dass dein gebuchter Tarif doch nicht ausreicht, kannst du den Tarif regulär kündigen und einen neuen direkt über unsere Website bestellen.
+Upgrades von und zu Produkten, die innerhalb einer Aktion gekauft wurden, sind jedoch nicht möglich. Solltest du zu einem späteren Zeitpunkt bemerken, dass dein gebuchter Tarif doch nicht ausreicht, kannst du den Tarif regulär kündigen und einen neuen direkt über unsere Website bestellen.
 
 ###
 
@@ -540,7 +540,7 @@ Was bedeutet "Ultra" bei unseren Aktionsprodukten?
 
 Im Vergleich zu unseren „Pro“-Produkten bieten „Ultra“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
 
-Beachte: Ultra ist exklusiv für unsere beliebten Root-Server und ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
+Beachte: Ultra-Tarife sind ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
 
 ###
 
@@ -556,7 +556,7 @@ Wie erfahre ich es, wenn ein Flashdeal verfügbar ist?
 
  ###
 
-Sobald ein Flashdeal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
+Sobald ein Flashdeal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
 
 ###
 
