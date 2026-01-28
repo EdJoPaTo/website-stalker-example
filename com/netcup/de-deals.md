@@ -7,44 +7,12 @@ Vom 27. Januar, 10 Uhr (MEZ) bis zum 29. Januar, 10 Uhr (MEZ), hast du 48 Stunde
 
 [Zu den Deals\>](https://www.netcup.com/de/deals#deals)
 
-* Alle (11)
+* Alle (10)
 * Webhosting  (2)
-* Root-Server  (5)
+* Root-Server  (4)
 * VPS
 * Domains  (4)
-* Andere Flash Deals (1)
-
-Root-Server
-
- FLASH DEAL
-
-### RS 1000 G12 Ultra ###
-
- \+100% SSD / + 2 vCore / +50% RAM
-
-* 6 vCore (dediziert, statt 4)
-
-* 12 GB DDR5 ECC RAM (statt 8 GB)
-
-* 512 GB NVMe (statt 256 GB)
-
-* Traffic Flatrate
-
-* 0 € Setup-Gebühr
-
-* 3 Monate Mindestlaufzeit
-
-* Dauerhafter Preis
-
-* 30 Tage Geld-Zurück-Garantie
-
-pro Monat ab
-
-13,28 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/server/root-server/rs-1000-g12-ultra-nue-jan26)
+* Andere Flash Deals (0)
 
 Webhosting
 
