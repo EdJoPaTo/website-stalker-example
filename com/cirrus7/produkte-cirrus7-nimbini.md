@@ -7,7 +7,7 @@ cirrus nimbini v4 - Pro Edition
 * lautlose Kühlung durch passives Aluminium-Kühlkörpergehäuse mit Kupferkernen
 * basierend auf Intel® NUC Boards
 
-**Lieferzeit: 7-9 Werktage**
+**Lieferzeit: 10-14 Werktage (ausgehend)**
 
 * ##### cirrus7 nimbini - Edition #####
 

@@ -5,13 +5,6 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
-* Alle (0)
-* Webhosting
-* Root-Server
-* VPS
-* Domains
-* Andere Flash Deals (0)
-
 Bleibe auf dem Laufenden
 ----------
 

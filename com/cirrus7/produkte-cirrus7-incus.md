@@ -9,7 +9,7 @@ cirrus incus
 * mit AMD Ryzen CPU oder Intel Raptor Lake CPU
 * basierend auf ASRock DeskMini X300, X600/USB4 und B760
 
-**Lieferzeit: 7-9 Werktage**
+**Lieferzeit: 10-14 Werktage (ausgehend)**
 
 * ##### Plattform wählen #####
 
