@@ -9,7 +9,7 @@ cirrus nimbus
 * vielseitige Einsatzmöglichkeiten – Desktop-PC, HTPC oder Server
 * kompakte Abmessungen: 24,6 x 24,6 x 9 cm / 24,6 x 24,6 x 10,6 cm / 24,6 x 24,6 x 12,2 cm
 
-**Lieferzeit: 7-9 Werktage**
+**Lieferzeit: 10-14 Werktage (ausgehend)**
 
 * ##### Mainboard #####
 
