@@ -688,3 +688,11 @@ sites:
           pattern: "[  ​]+"
           replace: " "
       - html_markdownify
+
+  - url:
+      - https://test.mosquitto.org/
+      - https://test.mosquitto.org/config/
+    editors:
+      - css_select: body
+      - css_remove: img, iframe
+      - html_markdownify
