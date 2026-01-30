@@ -303,8 +303,8 @@ Diese Vorteile hat die Jugend BahnCard Aktion Frühbucher
 ----------
 
 * Die Gutschein-Codes stehen allen registrierten Nutzerinnen und Nutzer auf tennis.de zur Verfügung. Die Altersprüfung (6 bis einschließlich 18 Jahre) erfolgt bei der Einlösung direkt über die Deutsche Bahn.
-* Deinen persönlichen Gutschein-Code findest du nach dem Login auf tennis.de unter Mein Court, Meine Vorteile.
-* Der Gutschein-Code ist nur im Aktionszeitraum 2.2. bis 31.5.2026 für eine Jugend BahnCard einlösbar. Pro Buchung kann genau ein Gutschein-Code eingelöst werden. Umtausch, Erstattung und Barauszahlung des Gutscheins sind ausgeschlossen. Letzter 1. Geltungstag ist der 31. Mai 2026. Der 1. Geltungstag muss innerhalb des Aktionszeitraums sein.
+* Deinen persönlichen Gutschein-Code findest du nach dem Login auf tennis.de unter "Mein Court" und dann "Meine Vorteile".
+* Der Gutschein-Code ist nur im Aktionszeitraum 1.2. bis 31.5.2026 für eine Jugend BahnCard einlösbar. Pro Buchung kann genau ein Gutschein-Code eingelöst werden. Umtausch, Erstattung und Barauszahlung des Gutscheins sind ausgeschlossen. Letzter 1. Geltungstag ist der 31. Mai 2026. Der 1. Geltungstag muss innerhalb des Aktionszeitraums sein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugend-bc-tennisaktion-code)
 
