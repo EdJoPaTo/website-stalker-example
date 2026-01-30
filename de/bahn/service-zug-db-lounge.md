@@ -29,6 +29,9 @@ Wählen Sie Ihre DB Lounge für detaillierte Informationen
 Neuigkeiten
 ----------
 
+**DB Comfort Lounge Berlin**: Am Berliner Hauptbahnhof müssen in den nächsten Wochen routinemäßige Prüfarbeiten durchgeführt werden. Davon ist auch die DB Comfort Lounge vom **1. Februar bis 1. April 2026** betroffen, die in diesem Zeitraum nicht genutzt werden kann.
+Um Ihnen trotzdem einen komfortablen Rückzugsort am Bahnhof zu bieten, heißen wir Sie ab 1. Februar 2026 in unserer Interimslounge gleich nebenan willkommen. Wir freuen uns auf Ihren Besuch.
+
 **DB Lounge Köln:** Während des Umbaus der DB Lounge Köln, befindet sich die Interimslounge in den Design Offices Köln Dominium in der Tunisstraße 19-23, ca. 400m vom Hauptbahnhof entfernt. Wir haben diese Location gewählt, um Ihnen einen Ort zu bieten, an dem Sie sich entspannen und in angenehmer Atmosphäre einen Kaffee oder andere Angebote unserer Speise- und Getränkekarte genießen können. **Die umgebaute DB Lounge Köln wird voraussichtlich Anfang 2026 wiedereröffnet werden.** Bis dahin hoffen wir, dass Ihnen unser Alternativangebot zusagt. Wir freuen uns auf Ihren Besuch und bitten um Ihr Verständnis.
 
 DB Lounges - Zutritt, Ausstattung und Gastronomie
