@@ -302,13 +302,13 @@ Diese Vorteile hat die Jugend BahnCard Aktion Frühbucher
  Wie erhalte ich einen Gutschein-Code für die Jugend BahnCard Tennis Aktion?
 ----------
 
-* Gutschein-Codes sind exklusiv für tennis.de Abonnenten im Alter von 6 bis einschließlich 18 Jahren verfügbar.
-* Deinen persönlichen Gutschein-Code findest du nach dem Login auf tennis.de im Bereich „Meine Vorteile“.
-* Der erhaltene Gutschein-Code kann daraufhin bei der Bestellung der Jugend BahnCard eingelöst werden. Die Gutschein-Codes sind bis zum 31. Mai 2026 gültig.
+* Die Gutschein-Codes stehen allen registrierten Nutzerinnen und Nutzer auf tennis.de zur Verfügung. Die Altersprüfung (6 bis einschließlich 18 Jahre) erfolgt bei der Einlösung direkt über die Deutsche Bahn.
+* Deinen persönlichen Gutschein-Code findest du nach dem Login auf tennis.de unter Mein Court, Meine Vorteile.
+* Der Gutschein-Code ist nur im Aktionszeitraum 2.2. bis 31.5.2026 für eine Jugend BahnCard einlösbar. Pro Buchung kann genau ein Gutschein-Code eingelöst werden. Umtausch, Erstattung und Barauszahlung des Gutscheins sind ausgeschlossen. Letzter 1. Geltungstag ist der 31. Mai 2026. Der 1. Geltungstag muss innerhalb des Aktionszeitraums sein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugend-bc-tennisaktion-code)
 
- Welche Vorteile hat die Jugend BahnCard Aktion für tennis.de Mitglieder?
+ Welche Vorteile hat die Jugend BahnCard Aktion für Registrierte auf tennis.de?
 ----------
 
 * Mit der Jugend BahnCard Tennis Aktion können sich berechtigte Teilnehmende, die zwischen 6 und einschließlich 18 Jahre alt sind, kostenfrei die Jugend BahnCard 25 sichern.
@@ -702,12 +702,21 @@ Bitte führe immer einen amtlichen Lichtbildausweis für die Kontrolle im Zug mi
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-jugend-bahncard-erwerben)
 
- Wie können tennis.de Mitglieder die Jugend BahnCard erwerben?
+ Wie können tennis.de Registrierte die Jugend BahnCard erwerben?
 ----------
 
-Alle tennis.de Abonnenten zwischen 6 bis einschließlich 18 Jahre können die Jugend BahnCard kostenfrei erwerben. Bei Bestellung der Jugend BahnCard wird anhand des Geburtsdatums geprüft, ob du berechtigt bist, die Jugend BahnCard zu erwerben.
+Alle tennis.de Registrierte zwischen 6 bis einschließlich 18 Jahre können die Jugend BahnCard kostenfrei erwerben. Bei Bestellung der Jugend BahnCard wird anhand des Geburtsdatums geprüft, ob du berechtigt bist, die Jugend BahnCard zu erwerben.
 
 Bitte führe immer einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit. Bei Kunden unter 16 Jahren ist kein Lichtbildausweis erforderlich.
+
+Die Bestellung der kostenlosen Jugend BahnCard 25 ist nur mit einem DB Kundenkonto und somit mit einer gültigen, persönlichen E-Mail-Adresse möglich. Die Bestellung über das DB Kundenkonto eines Erziehungsberechtigten ist nicht möglich.
+
+So funktioniert's:
+
+1. DB Kundenkonto auf den Namen des Kindes erstellen mit eigener E-Mail-Adresse (diese darf nicht bereits für ein Kundenkonto der Deutschen Bahn verwendet werden).
+2. Zahlarten des Kindes oder eines Erziehungsberechtigten hinterlegen.
+3. Gutschein-Code im Bereich „Weitere Optionen“ unter „Gutschein einlösen“ eingeben
+4. Digitale Jugend BahnCard in der App DB Navigator über das DB Kundenkonto anzeigen lassen und auf der Reise nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-jugend-bahncard-erwerben-tennisaktion)
 
@@ -1018,10 +1027,10 @@ Die Jugend BahnCard kostet 7,90 Euro pro Jahr (1. und 2. Kl.) bis einschließlic
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-die-jugend-bahncard)
 
- Wie viel kostet die Jugend BahnCard für tennis.de Mitglieder?
+ Wie viel kostet die Jugend BahnCard für tennis.de Registrierte?
 ----------
 
-Alle tennis.de Abonnenten zwischen 6 bis einschließlich 18 Jahre können die Jugend BahnCard kostenfrei erwerben. Für Kinder und Jugendliche ohne tennis.de Abo kostet die Jugend BahnCard 7,90 Euro pro Jahr (1. und 2. Kl.).
+Alle Kinder und Jugendlichen im Alter von 6 bis einschließlich 18 Jahren können die Jugend BahnCard kostenfrei erwerben, sofern sie auf tennis.de registriert sind. Für Kinder und Jugendliche ohne tennis.de Account kostet die Jugend BahnCard 25 7,90 Euro pro Jahr (1. und 2. Klasse).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-die-jugend-bahncard-tennisaktion)
 
