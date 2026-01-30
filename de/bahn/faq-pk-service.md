@@ -3360,7 +3360,7 @@ Weitere Informationen zum [Komfort Check-in](https://www.bahn.de/service/zug/kom
  Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
 ----------
 
-Besteht die Möglichkeit einer Zuzahlung, ist dies bei ausgewählten Prämien in der PrämienWelt angegeben. In der BahnBonus App ist dies momentan nicht möglich.
+Ab dem 27. Februar 2026 sind alle Prämien nur mit Punkten einlösbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
 
