@@ -541,7 +541,7 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
 * Alternativ: Nutzen Sie das Kündigungsformular.
 
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
-* [Zum Kündigungsformular](https://www.bahn.de/kontakt/kuendigungsformular)
+*
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen)
 
