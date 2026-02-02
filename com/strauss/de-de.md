@@ -1,15 +1,4 @@
-Spare bis zu
----
-
-Herren SALE
-
-Damen SALE
-
-Kinder SALE
-
-[alle SALE Artikel](https://www.strauss.com/de/de/sale/?itemorigin=startseite_HW25)
-
- Sportliche Wärme zum Bestpreis
+Sportliche Wärme zum Bestpreis
 
  Sportliche Wärme zum Bestpreis
 
@@ -77,6 +66,20 @@ Schuhe mit Zehenschutz
 
  S7 Sicherheitsschuhe
  e.s. Okomu mid
+
+ Bundhose e.s.motion
+ 2020, Winter
+
+ Cooler Style
+warmes Futter
+----------
+
+---
+
+ Gefütterte Arbeitshosen
+für den Winter
+
+[alle Winterhosen entdecken](https://www.strauss.com/de/de/themen-winterhosen/?itemorigin=startseite_HW25)
 
 *
 *

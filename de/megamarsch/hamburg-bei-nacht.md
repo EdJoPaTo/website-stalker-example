@@ -101,6 +101,11 @@ Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbra
 
 Für Millionen Menschen ist komoot der Schlüssel zu Erlebnissen in der Natur. Für die Megamarsch Saison 2025 ist komoot offizieller Navigationspartner.​
 
+Entdecke die Filiale vor Ort:
+[https://www.intersport.de](https://www.intersport.de/d/stores/22765-hamburg-intersport-voswinkel)
+
+[​](https://www.intersport.de/d/stores/22765-hamburg-intersport-voswinkel)
+
 #### Highlights
 Hamburg bei Nacht 2025 ####
 

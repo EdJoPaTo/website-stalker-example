@@ -109,6 +109,9 @@ unsere PARTNER
 
 Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbranche versorgen sie Euch mit verlässlicher Ausrüstung für euren nächsten Megamarsch
 
+Entdecke die Filiale vor Ort:
+[https://www.intersport.de](https://www.intersport.de/d/stores/22765-hamburg-intersport-voswinkel)
+
 #### Highlights
 Hamburg 2025 ####
 
