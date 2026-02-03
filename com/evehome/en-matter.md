@@ -412,9 +412,9 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
- Upgrade Kit for Roller Blinds
+ Motor for large diameter tubes
 
  Learn more
 
@@ -459,13 +459,13 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
- Upgrade Kit for Roller Blinds
+ Motor for large diameter tubes
 
-* Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
+* Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
 * Effortlessly set automations to open and close your blinds according to your daily routine.
-* Automated insulation against heat and cold increases your home's energy efficiency.
+* Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1.5-2'' / 38-51 mm.
 * [Visit product page](/en/eve-motionblinds)
 
 [Eve Shutter Switch](/en/eve-shutter-switch)
@@ -1129,9 +1129,9 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
- Upgrade Kit for Roller Blinds
+ Motor for large diameter tubes
 
  Learn more
 
@@ -1176,13 +1176,13 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
- Upgrade Kit for Roller Blinds
+ Motor for large diameter tubes
 
-* Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
+* Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
 * Effortlessly set automations to open and close your blinds according to your daily routine.
-* Automated insulation against heat and cold increases your home's energy efficiency.
+* Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1.5-2'' / 38-51 mm.
 * [Visit product page](/en/eve-motionblinds)
 
 [Eve Shutter Switch](/en/eve-shutter-switch)

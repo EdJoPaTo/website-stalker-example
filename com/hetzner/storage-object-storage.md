@@ -153,7 +153,7 @@ Frequently asked questions
 
 * **What is the pricing structure for Object Storage?**
 
-  We charge a base price of €4.99 per month (excluding VAT) for using Object Storage. This base price includes 1 TB of storage (up to 744 TB-hours) and 1 TB of egress traffic. Storage and traffic that exceed the included quota are charged on a pay-as-you-go basis.
+  We charge a base price of €4.99 per month for using Object Storage. This base price includes 1 TB of storage (up to 744 TB-hours) and 1 TB of egress traffic. Storage and traffic that exceed the included quota are charged on a pay-as-you-go basis.
 
 * **What does “pay-as-you-go” mean in this billing model?**
 
