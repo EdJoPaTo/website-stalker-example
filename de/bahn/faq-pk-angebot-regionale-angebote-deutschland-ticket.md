@@ -239,7 +239,7 @@ Ja. Sie können das Deutschland-Ticket als Chipkarte kaufen, wenn Chipkarten in 
  Wird das City-Ticket durch das Deutschland-Ticket ersetzt?
 ----------
 
-Nein, das City-Ticket wird zum Flexpreis, Super Sparpreis und Sparpreis des Fernverkehrs angeboten. Das City-Ticket ist weiterhin im Flexpreis kostenfrei integriert. Beim Super Sparpreis und Sparpreis erfolgt die Ausgabe des kostenpflichtigen City-Tickets in Abhängigkeit der gewählten Verbindung.
+Nein. Das City-Ticket gibt es weiterhin beim Flexpreis, Super Sparpreis und Sparpreis im Fernverkehr. Das City-Ticket ist beim Flexpreis kostenlos enthalten. Beim Super Sparpreis und Sparpreis können Sie das kostenpflichtige City-Ticket je nach gewählter Verbindung hinzubuchen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-city-ticket)
 
@@ -355,7 +355,11 @@ Möglicherweise wird der Zeitraum in der Ticketvorschau unter "Reisen" erst verz
  Kann ich das Deutschland-Ticket mit einem Fernverkehrs-Ticket kombinieren?
 ----------
 
-Im Vor- und Nachlauf zu einem Fernverkehrszug kann das Deutschland-Ticket genutzt werden. Allerdings ist für die Strecke im Fernverkehr dann immer ein separates Ticket notwendig. Dies hat Auswirkungen auf eventuelle Fahrgastrechte. Bei Verpassen des ggf. anschließenden Fernverkehrszugs ist die Zugbindung nicht aufgehoben und es können keine Erstattungsansprüche geltend gemacht werden.
+Ja, Sie können das Deutschland-Ticket vor oder nach der Fahrt mit einem Fernverkehrs-Ticket nutzen. Für den Abschnitt im Fernverkehr brauchen Sie immer ein separates Ticket.
+
+Kommen Sie mit dem Deutschland-Ticket im Nahverkehr zu spät und verpassen den Fernverkehrszug, bleibt die Zugbindung bestehen. Sie können keinen anderen Fernverkehrszug nutzen und erhalten keine Erstattung.
+
+Sie haben getrennte Fahrgastrechte für das Deutschland-Ticket und das Fernverkehrs-Ticket. Entschädigungen werden immer getrennt geprüft.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi)
 
@@ -716,13 +720,17 @@ Bitte beachten Sie, dass das Abonnement bis zur Kündigung weiterläuft.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verschenken)
 
- Auf welche Fahrgastrechte kann ich mich berufen, wenn ich das Deutschland-Ticket mit einem Busticket kombiniere?
+ Kann ich mich bei der Kombination aus Deutschland-Ticket und Busticket auf Fahrgastrechte berufen?
 ----------
 
-Gesetzliche Fahrgastrechte gelten für den Eisenbahnverkehr und für den Busverkehr jeweils separat. Bitte beachten Sie, dass die Verspätung eines Busses mit Anschlussverlust auf den gewünschten Zug keine Ansprüche auf Fahrgastrechte im Eisenbahnverkehr begründet.
+Nein. Die gesetzlichen Fahrgastrechte gelten für den Eisenbahnverkehr und den Busverkehr jeweils separat.
 
-Gesetzliche Fahrgastrechte gelten für den Eisenbahnverkehr und für den Busverkehr gelten nicht ‚verkehrsträgerübergreifend‘, wenn bei einer Reise z.B. Teilstrecken mit einem Bus und einem Zug gefahren werden. In diesem Fall werden die Teilstrecken mit dem Bus und mit dem Zug separat betrachtet und gemäß den jeweiligen gesetzlichen Bestimmungen reguliert.
-Wenn Sie eine Verspätung auf einer Busstrecke hatten, machen Sie Ihre Ansprüche bitte beim verursachenden Busunternehmen geltend. Für Verspätungen oder Ausfälle im Eisenbahnverkehr wenden Sie sich bitte an das jeweilige Eisenbahnverkehrsunternehmen (z.B. an das ServiceCenter Fahrgastrechte).
+Das bedeutet:
+
+* Die Verspätung eines Busses mit Anschlussverlust auf einen Zug gibt keinen Anspruch auf Fahrgastrechte im Eisenbahnverkehr.
+* Fahrgastrechte gelten nicht verkehrsträgerübergreifend. Jede Reise mit Bus und Zug wird getrennt bewertet.
+* Bei Verspätungen auf der Busstrecke wenden Sie sich an das Busunternehmen.
+* Bei Verspätungen oder Ausfällen im Eisenbahnverkehr wenden Sie sich an das jeweilige Eisenbahnunternehmen, zum Beispiel an das ServiceCenter Fahrgastrechte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-busse)
 
