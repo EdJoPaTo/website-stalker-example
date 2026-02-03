@@ -99,13 +99,6 @@ Workwear meets Fanwear
  49%
 ---
 
- NFL Hoodie cotton
----
-
- Men
-
- Ladies
-
 ###  NFL X
 Strauss  ###
 
