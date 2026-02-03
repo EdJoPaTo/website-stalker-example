@@ -95,4 +95,4 @@ Ships
 
  Shipping begins in February.
 
-Pre-order now and [save 10%]().
+Pre-order now and [save 5%]().
