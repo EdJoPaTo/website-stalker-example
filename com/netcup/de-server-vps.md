@@ -34,8 +34,6 @@ bereits ab monatlich
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-500-g12-12m#vps-500-g12-12m-nue)
 
-Launch Deal
-
 VPS 1000 G12
 
 * 4 vCore (x86)
