@@ -412,6 +412,56 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
+
+ Motor for small diameter tubes
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Shutters & Shades
+
+incl. VAT, plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Your choice
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
+
+ Motor for small diameter tubes
+
+* Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
+* Effortlessly set automations to open and close your blinds according to your daily routine.
+* Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
+* [Visit product page](/en/eve-motionblinds)
+
 [Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
@@ -1128,6 +1178,56 @@ Not available in your country
 * Receive notifications when motion is detected; review motion time and durations in the Eve app
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
+
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
+
+ Motor for small diameter tubes
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Shutters & Shades
+
+incl. VAT, plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Free shipping in Germany, incl. VAT
+
+Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Supports Matter & Thread
+
+ Add to cart
+
+ Your choice
+
+[ Add to cart ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping. Prices in USD
+
+ Your choice
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
+
+ Motor for small diameter tubes
+
+* Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
+* Effortlessly set automations to open and close your blinds according to your daily routine.
+* Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
+* [Visit product page](/en/eve-motionblinds)
 
 [Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
