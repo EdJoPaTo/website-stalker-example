@@ -4,12 +4,14 @@ netcup Labs
 
 netcup Entwicklungslabor
 
+**Bitte beachte: Alle freien Testplätze sind bereits vergeben. Wir nehmen derzeit und bis auf Weiteres keine Bestellungen an. Bereits vorhandene Testsysteme können weiterhin genutzt werden.**
+
 Was ist netcup Labs?
 ----------
 
 Im netcup Entwicklungslabor (kurz netcup Labs) testen wir neue Produkte. Auch werden anstehende Änderungen an unseren Produktivumgebungen zunächst unter netcup Labs getestet, bevor diese zur Qualitätsoptimierung auf allen Systemen eingespielt werden. Um in netcup Labs möglichst reale Test-Bedingungen erzielen zu können, vermitteln wir über diese Seite Produkte zum Testen an interessierte Kunden.
 
-Die Tests sind in der Regel kostenlos oder kosten nur einen sehr geringen Geldbetrag und laufen über einen längeren Zeitraum bzw. dauerhaft, je nach getestetem Produkt. Unter anderem stellen wir unter netcup Labs kostenlose vServer und stark im Preis reduzierte Webhostingprodukte bereit. Als Gegenleistung erwarten wir, dass die kostenlos zur Verfügung gestellten Produkte aktiv genutzt werden und wir ein regelmäßiges Feedback erhalten, das wir ausschließlich zur Qualitätsverbesserung einsetzen.
+Die Tests sind in der Regel kostenlos oder kosten nur einen sehr geringen Geldbetrag. Sie laufen über einen längeren Zeitraum bzw. dauerhaft, je nach getestetem Produkt. Unter anderem stellen wir unter netcup Labs kostenlose vServer und stark im Preis reduzierte Webhostingprodukte bereit. Als Gegenleistung erwarten wir, dass die kostenlos zur Verfügung gestellten Produkte aktiv genutzt werden und wir regelmäßig Feedback erhalten, welches wir ausschließlich zur Qualitätsverbesserung einsetzen.
 
 Wir versuchen in der Testumgebung die Nichterreichbarkeit von zu testenden Produkten möglichst gering zu halten. Da bei Tests Fehler auftreten können, können wir bei den Testprodukten aber keine Mindestverfügbarkeit garantieren. Gilt Ihr Interesse fehlerfreien, stabilen Systemen, empfehlen wir unsere [regulären Produkte](https://www.netcup.com/de).
 
@@ -18,19 +20,13 @@ kostenlose vServer
 
 Wir vertreiben [vServer](https://www.netcup.com/de/server/vps) auf Basis von KVM. Die Verwaltung der vServer geschieht über unser eigenes Control-Panel, dem netcup SCP. Jede Weiterentwicklung und Optimierung wird vor der Veröffentlichung zunächst in den netcup Labs getestet. Hierfür stellen wir kostenlose vServer an freiwillige Tester bereit.
 
-### Die kostenfreien vServer bieten folgende Grundleistungen: ###
-
-* Intel® Xeon® Gold 6140
-* 40 GB SSD / 320 GB SAS
-* 8 GB DDR4 RAM (ECC)
-
 Weitere Leistungen stellen wir gegebenenfalls nach Bedarf bereit.
 
 **Wir stellen kostenlose vServer aus unserer Testumgebung zur Verfügung. Als Gegenleistung erwarten wir eine kontinuierliche Nutzung des vServers, so wie ein regelmäßiges Feedback über Ihre Erfahrungen mit dem Testprodukt.**
 
-Alle freien Testplätze sind zur Zeit vergeben. Bitte schauen Sie später noch einmal vorbei. Wir nehmen derzeit keine Bestellungen an.
-
 **Bitte nutzen Sie folgendes Formular für Ihre Bewerbung um einen kostenlosen vServer:**
+
+**Bitte beachte: Alle freien Testplätze sind bereits vergeben. Wir nehmen derzeit und bis auf Weiteres keine Bestellungen an. Bereits vorhandene Testsysteme können weiterhin genutzt werden.**
 
 Wir werden Ihre Bewerbung nach dem Einreichen prüfen. Dabei achten wir bei unserer Auswahl insbesondere darauf, dass unsere Testumgebung möglichst realitätsnah ausgelastet ist. Bitte haben Sie Verständnis, dass wir daher nicht jede Bewerbung berücksichtigen können.
 

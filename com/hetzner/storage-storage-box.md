@@ -73,8 +73,6 @@ QUICK, SECURE AND CHEAP: OUR ONLINE BACKUP SOLUTION
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx41/)
 
-[Compare Product Details](https://www.hetzner.com/storage/storage-box/storage/storage-box-mobile/)
-
  Features
 
 |                                                                                                                                        Available storage                                                                                                                                        |                                          * 1 TB                                           |* 5 TB|* 10 TB|* 20 TB|

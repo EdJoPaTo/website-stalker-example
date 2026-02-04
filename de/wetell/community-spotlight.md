@@ -3,6 +3,11 @@ Spotlight
 
 Unternehmen die nachhaltig handeln, für sozialen Wohlstand sorgen oder das Gemeinwohl fördern, verdienen einen Platz im Rampenlicht. Und den bieten wir ihnen in unserem Spotlight. Unser Interview-Blog lässt Menschen zu Wort kommen, die sich tagtäglich dafür einsetzen, unsere Welt besser zu machen. Lies dich einfach quer durch und lerne innovativen Unternehmen und die Köpfe dahinter kennen.
 
+[gebana](/community/spotlight/gebana/)
+----------
+
+Zusammen mit hunderttausend engagierten Kund:innen und Bauernfamilien ist gebana richtungsweisend im nachhaltigen Handel.
+
 [Omas for Future](/community/spotlight/omas-for-future/)
 ----------
 
