@@ -363,17 +363,6 @@ Sie haben getrennte Fahrgastrechte für das Deutschland-Ticket und das Fernverke
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi)
 
- Ich habe mein Deutschland-Ticket mit einem Busticket kombiniert. Welche Fahrgastrechte gelten, wenn ich meinen Anschluss nicht erreiche?
-----------
-
-Bei einer Kombination beider Tickets werden die Fahrten im Nahverkehr mit Nutzung des Deutschland-Tickets und die Fahrt im Fernverkehr mit Nutzung des Fernverkehrstickets jeweils als eigener Beförderungsvertrag betrachtet. Es entfällt der Anspruch durchgängiger Fahrgastrechte zwischen Nah- und Fernverkehr.
-
-Beispielsweise wird bei einer Verspätung eines Nahverkehrszuges und damit verbundenem Anschlussverlust des Fernverkehrszuges die Zugbindung nicht aufgehoben und eine Fahrt mit einem späteren Zug mit einer Fahrkarte mit Zugbindung (z.B. Sparpreise) ist nicht möglich. Eventuelle fahrgastrechtliche Entschädigungsansprüche werden ebenfalls nur für das jeweilige Fernverkehrsticket oder das Deutschland-Ticket getrennt betrachtet.
-
-* [Was bedeutet aufgehobene Zugbindung?](http://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi-fahrgastrechte)
-
  Ich habe eine Fernverkehrsfahrkarte und mein Fahrrad dabei. Was ist, wenn ich den Anschlusszug des Nahverkehrs nicht erreiche?
 ----------
 
