@@ -107,6 +107,27 @@ Ein Set, unzählige Möglichkeiten: Ihre Farben, Ihre Größen, Ihre Gratis-Arti
 
 [jetzt ausprobieren und sparen](https://www.strauss.com/de/de/flexible-sets/?itemorigin=startseite_HW25)
 
+###  Angebote
+des Monats  ###
+
+---
+
+Gültig bis 28.02.2026 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_HW25)
+
+ Bis zu
+==========
+
+---
+
+ \-54%
+==========
+
+---
+
+[](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_HW25)
+
 ###
 
 Workwear meets Fanwear

@@ -526,7 +526,7 @@ Außerdem: Alle, die im Besitz der Probe BahnCard Gold sind, reisen am Folgetag 
  Wo bestelle ich eine Probe BahnCard 25/50 Gold?
 ----------
 
-Sie erhalten die Probe BahnCard 25/50 Gold auf bahn.de und in der App DB Navigator sowie in allen DB Reisezentren oder Agenturen.
+Sie konnten die Probe BahnCard 25/50 Gold auf bahn.de und in der App DB Navigator sowie in allen DB Reisezentren oder Agenturen bestellen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bahncard-gold-bestellweg)
 
@@ -585,7 +585,7 @@ Preis Probe BahnCard 50 Gold:
  Bis zu welchem Tag kann ich die Probe BahnCard 25/50 Gold erwerben?
 ----------
 
-Die Aktion geht vom 16. Januar bis 5. Februar 2026.
+Die Aktion lief vom 16. Januar bis 5. Februar 2026.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bahncard-gold-zeitraum)
 
