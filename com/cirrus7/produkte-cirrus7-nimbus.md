@@ -388,18 +388,18 @@ cirrus nimbus
   * PCIe 3.0 x4
   * PCIe 4.0 x4
 
-  * Patriot P300 128GBPatriot P300 256GB (69,00 €)Patriot P300 512GB (109,00 €)
+  * Patriot P300 128GBPatriot P300 256GB (79,00 €)Patriot P300 512GB (109,00 €)
 
-  * Western Digital Blue SN5100 1TB (129,00 €)Western Digital Blue SN5100 2TB (219,00 €)Western Digital Blue SN5100 4TB (399,00 €)Samsung SSD 990 Pro 1TB (189,00 €)Samsung SSD 990 Pro 2TB (269,00 €)Samsung SSD 990 Pro 4TB (449,00 €)
+  * Samsung SSD 990 Pro 1TB (219,00 €)Samsung SSD 990 Pro 2TB (339,00 €)Samsung SSD 990 Pro 4TB (559,00 €)
 
   M.2 Slot 2
 
   * PCIe 3.0 x4
   * PCIe 4.0 x4
 
-  * KeinePatriot P300 128GB (49,00 €)Patriot P300 256GB (69,00 €)Patriot P300 512GB (109,00 €)
+  * KeinePatriot P300 128GB (49,00 €)Patriot P300 256GB (79,00 €)Patriot P300 512GB (109,00 €)
 
-  * KeineWestern Digital Blue SN5100 1TB (129,00 €)Western Digital Blue SN5100 2TB (219,00 €)Western Digital Blue SN5100 4TB (399,00 €)Samsung SSD 990 Pro 1TB (189,00 €)Samsung SSD 990 Pro 2TB (269,00 €)Samsung SSD 990 Pro 4TB (449,00 €)
+  * Samsung SSD 990 Pro 1TB (219,00 €)Samsung SSD 990 Pro 2TB (339,00 €)Samsung SSD 990 Pro 4TB (559,00 €)
 
   ##### SSD #####
 
@@ -407,11 +407,11 @@ cirrus nimbus
 
   SATA Slot 1
 
-  * KeineWestern Digital Blue SA510 250GB (69,00 €)Western Digital, Blue SA510 500GB (109,00 €)Western Digital, Blue SA510 1TB (149,00 €)Western Digital, Blue SA510 2TB (249,00 €)Western Digital, Blue SA510 4TB (439,00 €)
+  * KeineCrucial BX500 240GB (69,00 €)Crucial BX500 500GB (109,00 €)Crucial BX500 1TB (149,00 €)Crucial BX500 2TB (259,00 €)Crucial BX500 4TB (459,00 €)
 
   SATA Slot 2
 
-  * KeineWestern Digital Blue SA510 250GB (69,00 €)Western Digital, Blue SA510 500GB (109,00 €)Western Digital, Blue SA510 1TB (149,00 €)Western Digital, Blue SA510 2TB (249,00 €)Western Digital, Blue SA510 4TB (439,00 €)
+  * KeineCrucial BX500 240GB (69,00 €)Crucial BX500 500GB (109,00 €)Crucial BX500 1TB (149,00 €)Crucial BX500 2TB (259,00 €)Crucial BX500 4TB (459,00 €)
 
   ##### WiFi / Bluetooth #####
 
