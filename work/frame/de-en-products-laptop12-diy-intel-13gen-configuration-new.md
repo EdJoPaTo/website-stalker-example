@@ -296,7 +296,7 @@ Choose colorAluminumBlackLavenderSageBubblegumGrayOrangeGreenRedTranslucentTrans
  USB-A Expansion Card
 ----------
 
- Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
+Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
 
 Close
 
@@ -309,7 +309,7 @@ Close
  HDMI (3rd Gen) Expansion Card
 ----------
 
- The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
+The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
 
 Close
 
@@ -335,7 +335,7 @@ Close
  DisplayPort (2nd Gen) Expansion Card
 ----------
 
- The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
+The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
 
 Close
 
@@ -389,8 +389,7 @@ Close
  Storage Expansion Card
 ----------
 
- Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you.
-ChromeOS cannot be booted from any Framework Storage Expansion Card.
+Ultra high speed storage, available in two capacities. With a USB 3.2 Gen 2 interface supporting 1000 MB/s read rates and 375 MB/s and 1000 MB/s write rates for 250GB and 1TB respectively. Fast enough to run apps or even boot an operating system from. Small enough to pop out and take with you. ChromeOS cannot be booted from any Framework Storage Expansion Card.
 
 Close
 
