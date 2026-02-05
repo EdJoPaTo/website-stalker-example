@@ -85,6 +85,28 @@ für den Winter
 *
 *
 
+ jetzt neu
+
+ READY?
+---
+
+ FLEX
+---
+
+ SET
+---
+
+ Sets flexibel zusammenstellen
+
+ Die neue Art Sets zu bauen
+----------
+
+---
+
+Ein Set, unzählige Möglichkeiten: Ihre Farben, Ihre Größen, Ihre Gratis-Artikel.
+
+[jetzt ausprobieren und sparen](https://www.strauss.com/de/de/flexible-sets/?itemorigin=startseite_HW25)
+
 ###
 
 Workwear meets Fanwear
