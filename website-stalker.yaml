@@ -228,7 +228,7 @@ sites:
       - https://docs.hetzner.com/robot/dedicated-server/operating-systems/standard-images/
     editors:
       - css_select: div.article
-      - css_remove: svg, a[href^="#"]
+      - css_remove: svg, img, a[href^="#"]
       - html_sanitize
       - html_prettify
   - url:
