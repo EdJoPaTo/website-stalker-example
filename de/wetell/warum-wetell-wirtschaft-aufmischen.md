@@ -82,17 +82,9 @@ Bei uns steht das Gemeinwohl an erster Stelle. Mit jeder Entscheidung, von unser
 
   Wir tun richtig viel fürs Gemeinwohl. Und das musst du uns nicht einfach glauben, sondern kannst es hier ganz konkret nachlesen. Durch die Bilanzierung der Gemeinwohl-Ökonomie haben wir einen öffentlichen Bericht, der detailliert offenlegt, was wir fürs Gemeinwohl tun.
 
-  Der Bericht ist standardisiert und wird alle zwei Jahre erneuert. Dadurch kannst du uns super mit anderen Unternehmen vergleichen und unsere Entwicklungen nachvollziehen.
-  Und mit **547** Punkten kann sich unsere Bilanz echt sehen lassen!
+  Der Bericht ist standardisiert und wird alle zwei Jahre erneuert. Dadurch kannst du uns super mit anderen Unternehmen vergleichen und unsere Entwicklungen nachvollziehen. Und mit **567** Punkten kann sich unsere Bilanz echt sehen lassen!
 
-  **Den gesamten Bericht kannst du hier nachlesen:**
-
-  [Unsere Gemeinwohl-Bilanz](/media/filer_public/59/c5/59c59720-2831-4ab2-a4d7-7ce07a891f15/2023_wetell_gemeinwohl-bilanz.pdf)
-
-  **Und hier gibt es die Punkteübersicht:**
-
-  [Unser Gemeinwohl-Testat](/media/filer_public/b0/ec/b0ecbcd4-42ae-4153-a93f-b72ddf7805a9/2023_wetell-gemeinwohl-testat.pdf)
-  *(Es ist ein Prozess, wir lernen weiter, wir ergreifen Möglichkeiten, um nachhaltiger zu werden, wann immer es geht.)*
+  Schau dir unseren Bericht hier an: [Zu unserer GWÖ-Bilanz](/warum-wetell/wirtschaft-aufmischen/gwoe-bilanz/)
 
 * #### Lernendes Unternehmen ####
 
