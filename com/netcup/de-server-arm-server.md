@@ -256,7 +256,7 @@ Weitere Antworten finden Sie im [ARM-Server FAQ-Bereich](https://helpcenter.netc
 
 [vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
 
-[CD-ROMs / DVDs](https://www.netcup.com/de/server/vserver-images)
+[CD-ROMs / DVDs / Images](https://www.netcup.com/de/server/vserver-images)
 
 [netcup Labs](https://www.netcup.com/de/server/labs)
 
@@ -264,6 +264,6 @@ Weitere Antworten finden Sie im [ARM-Server FAQ-Bereich](https://helpcenter.netc
 
 [Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
 
-[Betriebssysteme / Images](https://www.netcup.com/de/server/vserver-images)
+[OpenClaw](https://www.netcup.com/de/server/vserver-images/openclaw)
 
 [Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
