@@ -64,11 +64,11 @@ Der cirrus nimbus ist modular aufgebaut. Das Herzstück des Kühlsystems ist ein
 
 ### Main memory ###
 
-|   Speichertyp   |DDR4 SO-DIMM / DDR5 SO-DIMM / DDR5 LO-DIMM|
-|-----------------|------------------------------------------|
-|  Speichergröße  |    8-128 GB (konfigurationsabhängig)     |
-|  Taktfrequenz   |      3200 MHz / 4800 MHz / 5600 MHz      |
-|Anzahl DIMM-Slots|             2 (Dual Channel)             |
+|   Speichertyp   |DDR4 SO-DIMM / DDR5 SO-DIMM / DD4 LO-DIMM/ DDR5 LO-DIMM|
+|-----------------|-------------------------------------------------------|
+|  Speichergröße  |           8-64 GB (konfigurationsabhängig)            |
+|  Taktfrequenz   |            3200 MHz / 4800 MHz / 5600 MHz             |
+|Anzahl DIMM-Slots|                   2 (Dual Channel)                    |
 
 ### SSDs / hard drives ###
 
