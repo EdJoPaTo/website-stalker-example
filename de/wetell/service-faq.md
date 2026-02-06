@@ -55,7 +55,9 @@ Die aktuellen Preislisten und AGB findest du in unserem [Downloadbereich](/serv
 #### Kann ich WEtell auch im Ausland nutzen? ####
 
 Selbstverständlich kannst du WEtell auch im Ausland nutzen. Je nach Land fallen unterschiedliche Gebühren an. Preisinformationen im Detail findest du in unserer [Roaming-Preisliste](/filer/canonical/1732624908/536/).
-Das übliche EU-Roaming ist natürlich auch bei uns inklusive. VORSICHT: Anrufe aus Deutschland in ein anderes EU-Land fallen nicht unter die EU-Roaming-Regelung, sind also kostenpflichtig.
+Das übliche EU-Roaming ist natürlich auch bei uns inklusive.
+Du bist länger im Ausland? Wenn du mehrere Monate im EU-Ausland verbringst, entstehen für uns dadurch hohe Kosten. Melde dich gerne bei uns und wir finden gemeinsam eine Lösung.
+VORSICHT: Anrufe aus Deutschland in ein anderes EU-Land fallen nicht unter die EU-Roaming-Regelung, sind also kostenpflichtig.
 
 #### Kann ich zu meinem Vertrag auch ein Handy bei euch erhalten? ####
 
