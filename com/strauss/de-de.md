@@ -128,33 +128,6 @@ Gültig bis 28.02.2026 | Solange der Vorrat reicht
 
 [](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_HW25)
 
-###
-
-Workwear meets Fanwear
-
- ###
-
----
-
- Spare bis zu
----
-
- 49%
----
-
-###  NFL X
-Strauss  ###
-
----
-
- Warm-up für den Super Bowl
-
-[für Herren](https://www.strauss.com/de/de/nfl-x-strauss/?itemorigin=startseite_HW25)
-
-[für Damen](https://www.strauss.com/de/de/nfl-x-strauss-damen/?itemorigin=startseite_HW25)
-
-[für Kinder](https://www.strauss.com/de/de/nfl-x-strauss-kinder/?itemorigin=startseite_HW25)
-
  Wetterfest & warm: das Winter-Dreamteam für die Piste
 ----------
 

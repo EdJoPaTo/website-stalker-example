@@ -7680,7 +7680,7 @@ Sie erhalten das Formular
 * in DB Reisezentren
 * Sie können unten auf der Seite bahn.de/fahrgastrechte das PDF downloaden und online ausfüllen
 
-[Zur Seite Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* [Zur Seite Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-erhalte-ich-das-fahrgastrechte-formular)
 
