@@ -20,7 +20,7 @@ lüfterlos und lautlos
 
 * Vielseitige Anwendungen
 
-ab € 599,00
+ab € 658,00
 inkl. MwSt. und Versand
 
 [mehr erfahren ...](https://www.cirrus7.com/cirrus7-nimbus/)
@@ -45,7 +45,7 @@ basierend auf ASRock DeskMini X300, X600/USB4 und B760
 
 * basierend auf ASRock DeskMini X300, X600/USB4 und B760
 
-ab € 499,00
+ab € 558,00
 inkl. MwSt. und Versand
 
 [mehr erfahren ...](https://www.cirrus7.com/cirrus7-incus/)
@@ -72,7 +72,7 @@ lautlose / lüfterlose Kühlung
 
 * vielseitige Anwendungen
 
-ab € 699,00
+ab € 758,00
 inkl. MwSt. und Versand
 
 [mehr erfahren ...](https://www.cirrus7.com/cirrus7-nimbini/)
