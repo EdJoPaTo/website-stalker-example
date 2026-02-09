@@ -112,15 +112,6 @@ bereits ab monatlich
 
 Hier geht es zu den [vServer FAQs](https://www.netcup.com/de/server/vps#FAQs)
 
-netcup Blog
-----------
-
-### Jetzt neu: OpenClaw - KI-Agenten sicher auf eigenem VPS hosten ###
-
-Was ist OpenClaw? Alles über den neuen KI-Trend, der das Internet erobert. Entdecke die Vorteile von selbst gehosteten KI-Agenten und wie du sie via WhatsApp & Telegram steuerst.
-
-[Mehr lesen\>](https://www.netcup.com/de/blog/server/openclaw-ki-agent-vps-hosting)
-
 Vorteile unserer vServer / VPS
 ----------
 

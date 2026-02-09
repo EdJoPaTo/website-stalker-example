@@ -457,6 +457,8 @@ Bitte informieren Sie sich hierzu im Personalbereich Ihres Unternehmens.
 
 Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
 
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
@@ -510,11 +512,19 @@ Entschädigungsansprüche werden für jedes Ticket einzeln geprüft und gelten n
  Welche Konditionen hat das Deutschland-Ticket?
 ----------
 
-Bund und Länder haben entschieden, das Deutschland-Ticket als Abonnement anzubieten. Es ist bundesweit gültig und ermöglicht deutschlandweite Fahrten im ÖPNV und SPNV aller teilnehmenden Verkehrsunternehmen, Landestarife und Verkehrsverbünde sowie im verbundfreien Raum.
+Bund und Länder haben entschieden, das Deutschland-Ticket als **Abonnement** anzubieten. Es ist bundesweit gültig und ermöglicht **deutschlandweite** Fahrten im **Nahverkehr**, also im ÖPNV und SPNV aller teilnehmenden Verkehrsunternehmen, Landestarife und Verkehrsverbünde sowie im verbundfreien Raum.
 
-Die genauen Konditionen für Ihr Deutschland-Ticket finden Sie in den jeweiligen Tarifbedingungen ihrer Tarifgesellschaft (Verbund, Landestarif, Deutschlandtarif).
+**Überblick**
 
-* [zu den AGBs](https://www.bahn.de/agb)
+Für das Deutschland-Ticket gelten bundesweit einheitliche Tarifbestimmungen. Das Abo ist personalisiert und damit nicht übertragbar.
+
+* Preis: monatlich 63 Euro/Monat
+* Laufzeit: monatlich kündbar. Wenn bis zum 10. Tag des Monats gekündigt wird, endet das Abo am Ende des laufenden Monats - danach zum Ende des nächsten Monats.
+* Gültigkeit: bundesweit (im Nahverkehr, also in allen Bussen, Straßenbahnen, Stadt- und U-Bahnen sowie S-Bahnen, Regionalbahnen und im Regionalexpress in der 2. Klasse (im Fernverkehr, also im ICE, IC oder EC gilt das Deutschland-Ticket nicht).
+
+Die genauen Konditionen für Ihr Deutschland-Ticket finden Sie in den jeweiligen Tarifbedingungen Ihrer Tarifgesellschaft (Verbund, Landestarif, Deutschlandtarif).
+
+* [Zum Deutschlandtarif](https://www.deutschlandtarifverbund.de/)
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
