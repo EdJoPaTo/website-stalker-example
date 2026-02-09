@@ -86,7 +86,23 @@ Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfre
 
 Wenn Sie eine Fahrkarte gekauft haben, gelten die Regelungen für die Gesamtstrecke, einschließlich aller kostenfrei genutzten Streckenabschnitte. Die Höhe des Entschädigungsbetrags basiert auf dem Preis der gekauften Fahrkarte und der Gesamtverspätung.
 
+Damit wir den Sachverhalt prüfen können, senden Sie uns alle relevanten Informationen und **alle Belege** (z.B. eine Quittung für ein Taxi oder eine Hotelrechnung), die für die Bearbeitung Ihres Antrags wichtig sein könnten, sowie eine **Kopie Ihres Schwerbehindertenausweises** und wenn vorhanden eine **Kopie Ihrer Wertmarke**.
+
+**Zur Prüfung Ihrer Ansprüche stehen Ihnen folgende Möglichkeiten zur Verfügung:**
+
+**Digital** über Ihr Kundenkonto auf bahn.de oder in der DB Navigator App
+
+Hierfür nutzen Sie bitte die Ihnen angebotene Möglichkeit „Ich möchte meine Belege digital hochladen“ nachdem Sie die Frage erhalten „Wie möchten Sie die Belege einreichen?“
+
+**Per Post**
+
+Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches wir unter nachfolgendem Link zur Verfügung stellen oder Sie schildern uns Ihren Sachverhalt auch ganz einfach formlos in einem Brief an:
+
+DB Dialog GmbH Servicecenter Fahrgastrechte
+60647 Frankfurt am Main.
+
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+* [Fahrgastrechte-Formular (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bei-zugverspaetung-entschaedigt)
 
