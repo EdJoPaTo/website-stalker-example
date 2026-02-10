@@ -91,11 +91,17 @@ Die genauen Konditionen für Ihr Deutschland-Ticket finden Sie in den jeweiligen
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-konditionen)
 
-###  Wie viel kostet das Deutschland-Ticket ab 1. Januar 2026?  ###
+###  Wie kann ich vom Deutschland-Ticket in ein Verbund-Abo wechseln?  ###
 
-Ab 1. Januar 2026 kostet das Deutschland-Ticket **63 Euro pro Monat**.
+Sie finden Angebote für Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Verbindungssuche auf bahn.de.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
+Sie können Ihr Deutschland-Ticket innerhalb der geltenden Kündigungsfristen selbst kündigen. Nutzen Sie dafür das Aboportal oder den DB Navigator.
+
+* [Zum Aboportal](https://abo.bahn.de/#/)
+* [Zu bahn.de/pendler](https://www.bahn.de/angebot/pendler)
+* [Verbindung suchen](https://www.bahn.de/buchung/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-wechsel)
 
 ###  Wo finde ich weitere Informationen zum Deutschland-Ticket?  ###
 

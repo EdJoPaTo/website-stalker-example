@@ -774,13 +774,13 @@ Auch in diesem Fall gilt: **Für die Nutzung des ICE- oder IC/EC-Zuges müssen S
  Wie kann ich vom Deutschland-Ticket in ein Verbund-Abo wechseln?
 ----------
 
-Sie finden Angebote für Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Fahrplanauskunft auf bahn.de.
+Sie finden Angebote für Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Verbindungssuche auf bahn.de.
 
 Sie können Ihr Deutschland-Ticket innerhalb der geltenden Kündigungsfristen selbst kündigen. Nutzen Sie dafür das Aboportal oder den DB Navigator.
 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 * [Zu bahn.de/pendler](https://www.bahn.de/angebot/pendler)
-* [Zur Reiseauskunft](https://www.bahn.de/buchung/start)
+* [Verbindung suchen](https://www.bahn.de/buchung/start)
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
