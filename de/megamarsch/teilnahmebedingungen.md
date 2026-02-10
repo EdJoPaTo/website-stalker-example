@@ -1,6 +1,6 @@
 ### Teilnahmebedingungen ###
 
-(1) Der Megamarsch (nachfolgend Veranstaltung genannt) wird von der hundert24 GmbH (nachfolgend „Veranstalter“ genannt) durchgeführt. Firmensitz ist der folgende: hundert24 GmbH, Blumenberger Str. 143-145, 41061 Mönchengladbach.
+(1) Der Megamarsch (nachfolgend Veranstaltung genannt) wird von der hundert24 GmbH (nachfolgend „Veranstalter“ genannt) durchgeführt. Firmensitz ist der folgende: hundert24 GmbH, Krefelder Str. 562, 41066 Mönchengladbach.
 
 (2) Alleiniger Vertragspartner aller Teilnehmer ist die hundert24 GmbH.
 

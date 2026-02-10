@@ -6211,8 +6211,8 @@ Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches
 DB Dialog GmbH Servicecenter Fahrgastrechte
 60647 Frankfurt am Main.
 
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 * [Fahrgastrechte-Formular (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bei-zugverspaetung-entschaedigt)
 
