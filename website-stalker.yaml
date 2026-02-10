@@ -66,6 +66,10 @@ sites:
       - css_select: "#content"
       - html_url_canonicalize
       - html_prettify
+  - url: https://release.debian.org/
+    editors:
+      - css_select: main
+      - html_markdownify
 
   - url: https://apps.gnome.org/
     editors:
