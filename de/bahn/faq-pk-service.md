@@ -7683,11 +7683,12 @@ Die in der Aktion erworbenen DB Geschenkgutscheine können auf bahn.de, in der A
 
 Sie erhalten das Formular
 
-* im Zug durch die Zugbegleiter im Fernverkehr beziehungsweise Kundenbetreuer im Nahverkehr
+* im Zug durch das Zugpersonal
 * an DB Informationen
 * in DB Reisezentren
-* Sie können unten auf der Seite bahn.de/fahrgastrechte das PDF downloaden und online ausfüllen
+* hier als Download:
 
+* [Zum Fahrgastrechte-Formular (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
 * [Zur Seite Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-erhalte-ich-das-fahrgastrechte-formular)
