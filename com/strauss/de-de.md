@@ -1,49 +1,16 @@
-Sportliche Wärme zum Bestpreis
+Bundhose e.s.motion
+ 2020, Winter
 
- Sportliche Wärme zum Bestpreis
-
- Unser Angebot
-für kalte Tage
+ Cooler Style
+warmes Futter
 ----------
 
 ---
 
- 3 neue Winter-Modelle
- unschlagbar günstig!
+ Gefütterte Arbeitshosen
+für den Winter
 
-[die warmen Allrounder entdecken](https://www.strauss.com/de/de/warme-allrounder/?itemorigin=startseite_HW25)
-
- e.s. Hybridjacke
-
- ab 32,01 €
-
- (m. MwSt.)
-
- ab 26,90 € o. MwSt.
-
- e.s. Padded-Weste
-
- ab 33,20 €
-
- (m. MwSt.)
-
- ab 27,90 € o. MwSt.
-
- e.s. Hybridjacke
-
- ab 32,01 €
-
- (m. MwSt.)
-
- ab 26,90 € o. MwSt.
-
- e.s. Padded-Weste
-
- ab 33,20 €
-
- (m. MwSt.)
-
- ab 27,90 € o. MwSt.
+[alle Winterhosen entdecken](https://www.strauss.com/de/de/themen-winterhosen/?itemorigin=startseite_HW25)
 
  Warme
 S7-Sicherheit
@@ -67,19 +34,22 @@ Schuhe mit Zehenschutz
  S7 Sicherheitsschuhe
  e.s. Okomu mid
 
- Bundhose e.s.motion
- 2020, Winter
-
- Cooler Style
-warmes Futter
+ Wärme kann
+so leicht sein!
 ----------
 
 ---
 
- Gefütterte Arbeitshosen
-für den Winter
+ e.s.motion ten: Warm
+wattierte Steppjacken
 
-[alle Winterhosen entdecken](https://www.strauss.com/de/de/themen-winterhosen/?itemorigin=startseite_HW25)
+[alle Winterjacken entdecken](https://www.strauss.com/de/de/themen-winterjacken/?itemorigin=startseite_HW25)
+
+ Winterjacke
+e.s.motion ten
+
+ Pilotenjacke
+e.s.motion ten
 
 *
 *
@@ -312,6 +282,21 @@ einstickung
 ---
 
  Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
+
+ Hallo Köln!
+
+###  Messe  ###
+
+---
+
+ 24.02. – 27.02.2026 | Köln
+==========
+
+---
+
+ Halle 9, Stand 306
+
+[mehr Informationen](https://www.dach-holz.com/de)
 
  Nach Kategorie shoppen
 ---
