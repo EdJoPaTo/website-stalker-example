@@ -540,7 +540,7 @@ Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende k
 **Möglichkeiten zur Kündigung:**
 
 * Nutzen Sie unser Aboportal. Unter "Meine Abos" im Bereich "Alle Services anzeigen" auf "Kündigung" klicken
-* Nutzen Sie die Funktion "Abo kündigen"im DB Navigator unterhalb Ihres Handy-Tickets.
+* Nutzen Sie die Funktion "Abo kündigen" im DB Navigator unterhalb Ihres Handy-Tickets.
 
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
