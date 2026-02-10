@@ -2802,14 +2802,6 @@ Gutscheine können nicht mit Bonvoyo erworben werden
 
 Generell können Sie PayPal für die Zahlung auf bahn.de und im DB Navigator nutzen, unabhängig davon, ob Sie eingeloggt sind oder nicht.
 
-Es gibt aber folgende Ausnahmen:
-
-\- Im Fahrkartenshop
-\- Gutscheine
-\- Im Firmenkundenportal
-
-können Sie **nicht** mit PayPal bezahlen.
-
 Gutscheine, die von PayPal ausgestellt wurden, können Sie nicht auf bahn.de einlösen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-alle-bahn-de-angebote-mit-paypal-bezahlen)

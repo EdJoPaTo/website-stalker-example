@@ -7,13 +7,15 @@ Sitzplatzreservierung für Reisende und Pendler
 
 Reservieren Sie sich Ihren Sitzplatz für eine entspannte Fahrt im Fern- und Nahverkehr.
 
+Aktuell ist die Buchung von Sitzplatzreservierungen nicht möglich.
+----------
+
+Sie können aber weiterhin Ihr Ticket buchen. Wir informieren Sie, sobald die Störung behoben ist.
+
 Hinweis zu Sitzplatzreservierungen im Nah- und Fernverkehr
 ----------
 
 **Hinweis**: Eine durchgängige Sitzplatzreservierung für Fahrten im kombinierten Fern- und Nahverkehr ist nicht möglich.
-
-Sitzplatzreservierung im Fernverkehr
-----------
 
 ### Sitzplatzreservierung im Fernverkehr  ###
 
