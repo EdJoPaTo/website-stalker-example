@@ -229,3 +229,9 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-lora-add-on)
 * [Shelly Plus Add-on](https://kb.shelly.cloud/knowledge-base/shelly-plus-add-on)
 * [Shelly Pro 3EM Switch Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-3em-switch-add-on)
+
+ By Shelly
+----------
+
+* [Ogemray 25A relay](https://kb.shelly.cloud/knowledge-base/ogemray-25a-relay)
+* [Cury](https://kb.shelly.cloud/knowledge-base/cury)
