@@ -120,3 +120,85 @@ Die folgende Übersicht verdeutlicht die unterschiedlichen Rabbattierungen der B
 |BahnCard 25 |      25 %      |      25 %      |
 |BahnCard 50 |      50 %      |      25 %      |
 |BahnCard 100|    100 %\*     |    100 %\*     |
+
+### BahnCard 25, 2. Klasse ###
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)
+
+62,90 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O205)
+
+### BahnCard 50, 2. Klasse ###
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
+
+244 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
+
+### BahnCard 100, 2. Klasse ###
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard100-2-klasse)
+
+4.899 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O219)
+
+Welche BahnCard lohnt sich für mich?
+----------
+
+**Wann lohnt sich die BahnCard 25?**
+Die BahnCard 25 kostet 62,90 € in der 2. Klasse und amortisiert sich ab 252 € Jahresausgaben für Bahntickets. Bei durchschnittlichen Sparpreisen von 50,40 € pro Fahrt entspricht dies fünf Fahrten im Jahr.
+
+**Beispiel:**
+
+* 5 Fahrten à 50,40 € = 252 €
+* Ersparnis: 252 € × 25 % = 63 €
+* Nettoersparnis: 63 € − 62,90 € (Kartenpreis) = 0,10 €
+
+Bereits ab der fünften Fahrt ergibt sich ein positiver Saldo.
+
+**Wann lohnt sich die BahnCard 50?**
+Die BahnCard 50 kostet 244,00 € in der 2. Klasse und rechnet sich bei häufiger Nutzung von Flexpreisen. Bei einem durchschnittlichen Flexpreis von 125 € pro Hin- und Rückfahrt ergibt sich folgende Rechnung:
+
+* 4 Fahrten à 125 € = 500 €
+* Ersparnis: 500 € × 50 % = 250 €
+* Nettoersparnis: 250 € − 244 € (Kartenpreis) = 6 €
+
+Ab fünf Fahrten ergibt sich eine Ersparnis von 6 €.
+
+**Wann lohnt sich die BahnCard 100?**
+
+Die BahnCard 100 lohnt sich bei täglicher Nutzung. Ein Pendler, der an 220 Tagen pro Jahr je 25 € für Tickets ausgibt, spart:
+
+* Ohne Karte: 220 × 25 € = 5.500 €
+* Mit BahnCard 100 2. Klasse: 4.899 € (Kosten)
+* Ersparnis: 601 €
+
+**Auswahl der passenden BahnCard**
+
+***1) Wie häufig reisen Sie im Jahr?***
+
+* \< 5 Langstrecken: Keine Karte oder BahnCard 25
+* 5–20 Langstrecken: BahnCard 25 oder BahnCard 50 (abhängig von Tickettyp)
+* \> 20 Langstrecken: BahnCard 50 oder BahnCard 100
+
+***2) Nutzen Sie überwiegend Flexpreise oder Sparpreise?***
+
+* Flexpreise: BahnCard 50
+* Sparpreise: BahnCard 25
+
+***3) Sind Sie auf Nahverkehr angewiesen?***
+
+* Ja: BahnCard 100 (inkl. Deutschland-Ticket) oder separates Deutschland-Ticket
+
+**Häufige Fehleinschätzungen**
+
+***Mythos 1: „Die BahnCard 50 bietet auf alle Tickets 50 % Rabatt.“***
+
+Richtig ist: Nur Flexpreise werden um 50 % reduziert; Sparpreise erhalten lediglich 25 %. Wer frühzeitig bucht, profitiert mit der BC25 gleichermaßen.
+
+***Mythos 2: „Die BahnCard 100 ist nur für Geschäftsreisende sinnvoll.“***
+
+Richtig ist: Auch Privatpersonen mit extrem hoher Reisefrequenz (z.B. Langzeitpendler) können profitieren, insbesondere durch inkludierten Nahverkehr (Deutschlandticket inkl.)
