@@ -27,29 +27,17 @@ Stornierungsprozess von Tickets
 
 #### Regelungen bei Verspätungen oder Ausfällen ####
 
-Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort können Sie auch bei Fahrkarten mit Zugbindung
+Erstattung, wenn Sie wegen Verspätung, Zugausfall oder verpasstem Anschluss die Fahrt nicht antreten oder abbrechen
 
-* die Fahrt auf der gleichen Strecke oder über eine andere Strecke mit dem nächstmöglichen Zug fortsetzen
-* die Fahrt später fortsetzen, wenn Sie dadurch mit weniger Verspätung am Zielort ankommen
-* einen anderen, nicht reservierungspflichtigen Zug nutzen
+Bei einer zu erwartenden Verspätung am Zielbahnhof von **60 Minuten oder mehr** können Sie
 
-Diese Regelungen gelten nicht für reservierungspflichtige Züge, z.B. Nachtzüge.
+* von der Reise zurücktreten und sich den vollen Fahrpreis erstatten lassen
+* sich den nicht genutzten Anteil erstatten lassen, wenn Sie nur einen Teil der gebuchten Strecke gefahren sind
+* sich den bereits genutzten Anteil und den nicht genutzten Anteil erstatten lassen, wenn Sie die Reise abgebrochen haben und zum Ausgangsbahnhof zurückgefahren sind.
 
-**Nutzung eines "höherwertigen" Zuges**
-Sie haben eine Nahverkehrs-Fahrkarte (RE, RB, IRE und S-Bahn), wollen aber einen höherwertigen Zug (z.B. Fernverkehrs-Züge, also IC/EC, ICE) nutzen?
-Dann müssen Sie erst die zusätzliche Fahrkarte bzw. den Aufpreis bezahlen. Sie können danach die Kosten im Rahmen Ihrer [Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte) zurückfordern.
+Bei Rücktritt von der Reise wird die Erstattung ausschließlich via Überweisung ausgezahlt. Eine Gutscheinausgabe ist in diesem Fall nicht möglich.
 
-Diese Regelung gilt nicht bei stark ermäßigten Fahrkarten (z.B. Schönes-Wochenende-Ticket, Länder-Tickets).
-
-**Erstattung**
-
-Sie haben 2 Möglichkeiten für die Erstattungen im Rahmen Ihrer Fahrgastrechte:
-
-* online über Ihr DB Kundenkonto im DB Navigator oder auf bahn.de
-* über das Fahrgastrechte-Formular
-
-Mehr zum Fahrgastrechte-Formular: Nach dem Download füllen Sie es aus und senden es unterschrieben an die auf dem Formular angegebene Adresse.
-Wichtig: Legen Sie unbedingt das Original Ihrer Fahrkarte bzw. die Kopie Ihrer Zeitkarte oder BahnCard 100 bei. Eine Entschädigung ist sonst leider nicht möglich.
+Weitere Informationen finden Sie unter [www.bahn.de/fahrgastrechte](http://www.bahn.de/fahrgastrechte)
 
 ###  Super Sparpreis, Super Sparpreis Europa  ###
 

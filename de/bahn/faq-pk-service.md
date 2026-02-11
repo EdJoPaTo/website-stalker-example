@@ -5019,8 +5019,6 @@ Auch bei Zugausfall gilt dies, wenn es die letzte geplante Verbindung des Tages 
 
 Wenn das Eisenbahnunternehmen ein Ersatzverkehrsmittel stellt, hat dies Vorrang.
 
-Die 120-Euro-Grenze gilt nicht bei Hilfeleistung gemäß Artikel 20 Abs. 2 c) und Abs. 3 der Verordnung (EU) 2021/782.
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-darf-ich-ein-taxi-nutzen)
 
  Wann darf ich einen höherwertigen Zug benutzen?

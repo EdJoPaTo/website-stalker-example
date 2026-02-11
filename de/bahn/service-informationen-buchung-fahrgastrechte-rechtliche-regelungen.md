@@ -87,6 +87,8 @@ Bei Rücktritt von der Reise wird die Erstattung ausschließlich via Überweisun
 
 ###  Ersatz von Kosten für ein anderes Verkehrsmittel (z.B. Bus oder Taxi) aufgrund von Zugverspätungen, Zugausfällen oder Anschlussverlusten im Strandungsfall  ###
 
+#### Ersatz von Kosten für ein anderes Verkehrsmittel ####
+
 * Bei einer planmäßigen Ankunftszeit zwischen 0 und 5 Uhr und
 * einer zu erwartenden Verspätung von mind. 60 Minuten am Zielbahnhof
 
@@ -94,11 +96,9 @@ Bei Rücktritt von der Reise wird die Erstattung ausschließlich via Überweisun
 * bei Ausfall eines Zuges, wenn es sich dabei um die letzte fahrplanmäßige Verbindung des Tages handelt und
 * der Zielbahnhof ohne Nutzung eines anderen Verkehrsmittels nicht mehr bis um 24 Uhr erreicht werden kann
 
-   werden Ihnen die Kosten für ein anderes Verkehrsmittel bis max. 120 Euro \*) ersetzt,
+   werden Ihnen die Kosten für ein anderes Verkehrsmittel bis max. 120 Euro) ersetzt,
 * wenn das Eisenbahnunternehmen kein anderes Verkehrsmittel zur Verfügung stellt und
 * Sie mit dem Eisenbahnunternehmen - aus von diesem zu vertretenden Gründen - nicht in Kontakt treten können (Kontaktaufnahme vor Ort mit der Fahrkartenverkaufs- oder Informationsstelle des Eisenbahnunternehmens oder Personal des genutzten Zuges).
-
-\*) Dieser Höchstbetrag gilt nicht in Fällen der Hilfeleistung im Sinne des Artikel 20 Abs. 2 c) und Abs. 3 der Verordnung (EU) 2021/782.
 
 **Bitte beachten Sie:**
 Stellt Ihnen das Eisenbahnunternehmen ein anderes Verkehrsmittel zur Verfügung, so hat dessen Nutzung grundsätzlich Vorrang vor einer selbst organisierten Alternative. Sollten Sie dennoch eine selbstorgansierte Alternative nutzen, können Sie keinen Ersatz der Kosten verlangen, soweit Sie sich nicht erfolglos um Kontaktaufnahme vor Ort mit der Fahrkartenverkaufs- oder Informationsstelle des Eisenbahnunternehmens oder Personal des genutzten Zuges bemüht haben.
@@ -281,5 +281,5 @@ Weitere Informationen
 * [Broschüre "Ihre Rechte als unser Fahrgast" (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-Broschuere-Ihre-Rechte-Als-Unser-Fahrgast.pdf)
 * [Fahrgastrechte für Menschen mit Behinderung](https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte)
 * [Direkt zum Fahrgastrechte-Formular als PDF (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
-* [AJC Mitteilung (PDF, 212 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Mitteilung-072025.pdf)
-* [AJC Merkblatt (PDF, 193 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Merkblatt-072025.pdf)
+* [AJC Mitteilung (PDF, 245 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Mitteilung_de_Stand-12-2025.pdf)
+* [AJC Merkblatt (PDF, 186 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Merkblatt_de_Stand-12-2025.pdf)
