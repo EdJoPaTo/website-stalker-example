@@ -223,7 +223,7 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
 
-  [### Finishershirt 25km 2025 ### Preis34,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
+  [### Finishershirt 25km 2025 ### Standardpreis34,95€Sale-Preis27,96€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
 
   In den Warenkorb
 
@@ -241,31 +241,31 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/eventshirts-2025-bei-nacht)
 
-  [### Eventshirts 2025 // Bei Nacht ### Preis39,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025-bei-nacht)
+  [### Eventshirts 2025 // Bei Nacht ### Standardpreis39,95€Sale-Preis31,96€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025-bei-nacht)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
 
-  [### Finishershirt 100km 2025 ### Preis34,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
+  [### Finishershirt 100km 2025 ### Standardpreis34,95€Sale-Preis27,96€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/eventshirts-2025-100km)
 
-  [### Eventshirts 2025 // 100KM ### Preis39,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025-100km)
+  [### Eventshirts 2025 // 100KM ### Standardpreis39,95€Sale-Preis31,96€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025-100km)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/eventshirts-2025)
 
-  [### Eventshirts 2025 // 50KM & 25KM ### Preis39,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
+  [### Eventshirts 2025 // 50KM & 25KM ### Standardpreis39,95€Sale-Preis31,96€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
 
-  [### Finishershirt 50km 2025 ### Preis34,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
+  [### Finishershirt 50km 2025 ### Standardpreis34,95€Sale-Preis27,96€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
 
   In den Warenkorb
 
