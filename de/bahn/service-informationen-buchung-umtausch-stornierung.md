@@ -138,7 +138,7 @@ Der Flexpreis ist ohne Zugbindung: Nehmen Sie am gebuchten Reisetag einfach den 
 #### Prozess ####
 
 * Bitte legen Sie Ihre Tickets für die Stornierung im Reisezentrum vor.
-* Enthält Ihre Fahrkarte auch eine Pflichtreservierung, z.B. beim Nachtzug, müssen auch die zugehörige Sitzplatzreservierung mitbringen.
+* Enthält Ihre Fahrkarte auch eine Pflichtreservierung, z.B. beim Nachtzug, müssen Sie auch die zugehörige Sitzplatzreservierung mitbringen.
 
 Sie können Flexpreis- und Normalpreis-Fahrkarten bis zu 6 Monate nach Ablauf der Geltungsdauer zur Erstattung einreichen.
 

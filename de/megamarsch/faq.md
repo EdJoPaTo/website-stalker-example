@@ -1,4 +1,5 @@
-#### FAQ ####
+FAQ
+----------
 
 ICH BIN zum ERSTEN MAL BEI EINEM MEGAMARSCH. WAS MUSS ICH WISSEN?
 
@@ -19,9 +20,9 @@ Megamarsch teilnehmen?
 
 Um teilnehmen zu können, musst Du mind. 18 Jahre alt und fit sein. Das heißt nicht, dass Du in Marathonform sein musst, sondern es reicht eine gute Grundsportlichkeit. Ob Du es schaffst, entscheidet sich vor allem in Deinem Kopf!
 
-​
+​​
 
-Eine Person, die zum Zeitpunkt des Veranstaltungsbeginns zwischen 16 und 18 Jahre alt ist, kann dann an den Megamärschen 50/12 in Deutschland und Österreich teilnehmen, wenn die „Einverständniserklärung zur Teilnahme für Minderjährige ab 16 Jahren und Haftungsverzicht“ durch sie selbst und ihre(n) Erziehungsberechtigte(n) unterschrieben und dem Veranstalter im Vorfeld per E-Mail an [info@megamarsch.de](mailto:info@megamarsch.de) geschickt wird. Neben der Einverständniserklärung sind ebenfalls die Ausweiskopien des/der unterschreibenden Erziehungsberechtigten einzureichen. Die Anmeldung kann ausschließlich per E-Mail unter [info@megamarsch.de](mailto:info@megamarsch.de) erfolgen und nicht über die online Ticketplattform. Wir empfehlen dringend, dass Teilnehmer unter 18 Jahren in Begleitung mindestens eines Erziehungsberichtigten teilnehmen.
+Eine Person, die zum Zeitpunkt des Veranstaltungsbeginns zwischen 16 und 18 Jahre alt ist, kann dann an den Megamärschen 50/12 in Deutschland und Österreich teilnehmen, wenn die „Einverständniserklärung zur Teilnahme für Minderjährige ab 16 Jahren und Haftungsverzicht“ durch sie selbst und ihre(n) Erziehungsberechtigte(n) unterschrieben und dem Veranstalter im Vorfeld per E-Mail an [](mailto:info@megamarsch.de)[info@megamarsch.de](mailto:info@megamarsch.de) geschickt wird. Neben der Einverständniserklärung sind ebenfalls die Ausweiskopien des/der unterschreibenden Erziehungsberechtigten einzureichen. Die Anmeldung kann ausschließlich per E-Mail unter [](mailto:info@megamarsch.de)[info@megamarsch.de](mailto:info@megamarsch.de) erfolgen und nicht über die online Ticketplattform. Wir empfehlen dringend, dass Teilnehmer unter 18 Jahren in Begleitung mindestens eines Erziehungsberichtigten teilnehmen.
 
 Die Teilnahme an den 100km Megamärschen, sowie am Megamarsch 50/12 auf Mallorca ist ausschließlich für Personen möglich, die zum Zeitpunkt des Startes der Veranstaltung das 18. Lebensjahr vollendet haben.
 
@@ -53,7 +54,7 @@ Es gibt mindestens 4 Verpflegungsstationen. Das Angebot schwankt je nach Verpfle
 Kann ich mein
 Ticket verkaufen?
 
-Auf den von uns ausgestellten Tickets stehen zwar Namen, trotzdem sind diese nicht personengebunden und somit verkaufbar. Dafür kannst Du unsere Facebook Gruppe Megamarsch kaufen & verkaufen nutzen. Infos zur Ticketumschreibung findest Du hier: <https://www.megamarsch.de/mehr/ticket-support/>
+Auf den von uns ausgestellten Tickets stehen zwar Namen, trotzdem sind diese nicht personengebunden und somit verkaufbar. Dafür kannst Du unsere Facebook Gruppe Megamarsch kaufen & verkaufen nutzen. Infos zur Ticketumschreibung findest Du hier: [](https://www.megamarsch.de/mehr/ticket-support/)<https://www.megamarsch.de/mehr/ticket-support/>
 
 Welche Ausrüstung
 
@@ -68,9 +69,17 @@ Du kannst Dich natürlich abholen lassen, oder Du nutzt die öffentlichen Verkeh
 
 Du hast ein oder mehrere Ticket/s gekauft und möchtest dieses Stornieren?
 
-Stornierungen/Rückerstattungen sind prinzipiell, wie bei Veranstaltungen üblich, nicht möglich. Allerdings kannst Du Dein Ticket weitergeben. Dafür kannst Du unsere Facebook Gruppe Megamarsch kaufen & verkaufen nutzen. Infos zur Umschreibung findest Du hier: <https://www.megamarsch.de/mehr/ticket-support/>
+Stornierungen/Rückerstattungen sind prinzipiell, wie bei Veranstaltungen üblich, nicht möglich. Allerdings kannst Du Dein Ticket weitergeben. Dafür kannst Du unsere Facebook Gruppe Megamarsch kaufen & verkaufen nutzen. Infos zur Umschreibung findest Du hier: [](https://www.megamarsch.de/mehr/ticket-support/)<https://www.megamarsch.de/mehr/ticket-support/>
 
 Darf ich meinen Hund beim
 Megamarsch mitlaufen lassen?
 
 Grundsätzlich verbieten wir dies nicht. Dennoch betonen wir ausdrücklich, dass Dein Hund nicht über uns versichert ist und nicht als Teilnehmer gilt. Des Weiteren können wir keine extra Verpflegung für Tiere anbieten, weshalb Du dafür selbst verantwortlich bist. Denke daran, dass Dein Hund ebenfalls Essen und Trinken benötigt! Zu guter letzt solltest Du dir zu 100% sicher sein, ob Dein Hund es schafft. Der Megamarsch ist sehr anstrengend und viele Teilnehmer kommen an ihre äußersten Schmerzgrenzen. Sei Dir somit im Klaren, was Dein Hund leisten muss und ob er daran gewöhnt ist. Wir wollen nicht, dass ihr Eure Tiere quält! Da in Deutschland Leinenpflicht ist, müssen Eure Hunde natürlich während der gesamten Veranstaltung angeleint sein.
+
+Wie melde ich mich für Zusatzauszeichnungen wie POkale oder den LOkalmatador an?
+
+Mede dich bei Sonderauszeichnungen unter folgender Seite an.
+
+[Zur Anmeldung](https://www.megamarsch.de/auszeichnungen)
+
+Nach deiner Anmeldung können wir deine Auszeichnung für dein Event vorbereiten und dir im Ziel hoffentlich überreichen.
