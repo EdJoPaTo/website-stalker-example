@@ -107,14 +107,14 @@ Close
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB) +€90
-* DDR5-5600 - 16GB (2 x 8GB) +€180
-* DDR5-5600 - 16GB (1 x 16GB) +€180
-* DDR5-5600 - 32GB (2 x 16GB) +€360
-* DDR5-5600 - 32GB (1 x 32GB) +€360
-* DDR5-5600 - 64GB (2 x 32GB) +€720
-* DDR5-5600 - 48GB (1 x 48GB) +€692
-* DDR5-5600 - 96GB (2 x 48GB) +€1,384
+* DDR5-5600 - 8GB (1 x 8GB) +€145
+* DDR5-5600 - 16GB (2 x 8GB) +€290
+* DDR5-5600 - 16GB (1 x 16GB) +€225
+* DDR5-5600 - 32GB (2 x 16GB) +€450
+* DDR5-5600 - 32GB (1 x 32GB) +€435
+* DDR5-5600 - 64GB (2 x 32GB) +€870
+* DDR5-5600 - 48GB (1 x 48GB) +€749
+* DDR5-5600 - 96GB (2 x 48GB) +€1,498
 * None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
