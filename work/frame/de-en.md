@@ -1,3 +1,13 @@
+### Framework Laptop 13 isn’t our computer. It’s yours. ###
+
+Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
+
+### Framework Laptop 13 isn’t our computer. It’s yours. ###
+
+Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
+
+[Configure now Configure now](/de/en/products/laptop13-diy-amd-ai300/configuration/new) [Learn more Learn more](/de/en/laptop13)
+
 ### Configure once. Upgrade whenever ❤.  ###
 
 Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series Processors.
@@ -7,16 +17,6 @@ Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphic
 Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series Processors.
 
 [Configure now Configure now](/de/en/products/laptop16-diy-amd-ai300/configuration/new) [Learn more Learn more](/de/en/laptop16)
-
-### Computers shouldn't be boring. ###
-
-Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
-
-### Computers shouldn't be boring. ###
-
-Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
-
-[Configure now Configure now](/de/en/products/laptop12-diy-intel-13gen/configuration/new) [Learn more Learn more](/de/en/laptop12)
 
 ### Framework Desktop is a big computer made mini.  ###
 
@@ -28,15 +28,15 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 
 [Configure now Configure now](/de/en/products/desktop-diy-amd-aimax300/configuration/new) [Learn more Learn more](/de/en/desktop)
 
-### Framework Laptop 13 isn’t our computer. It’s yours. ###
+### Computers shouldn't be boring. ###
 
-Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
+Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
 
-### Framework Laptop 13 isn’t our computer. It’s yours. ###
+### Computers shouldn't be boring. ###
 
-Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
+Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
 
-[Configure now Configure now](/de/en/products/laptop13-diy-amd-ai300/configuration/new) [Learn more Learn more](/de/en/laptop13)
+[Configure now Configure now](/de/en/products/laptop12-diy-intel-13gen/configuration/new) [Learn more Learn more](/de/en/laptop12)
 
 Upgrade, customize, and repair.
 ----------
