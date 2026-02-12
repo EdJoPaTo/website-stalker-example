@@ -4680,7 +4680,7 @@ Nein, Super Sparpreis-Tickets sind vom Umtausch und von der Stornierung ausgesch
 
 **Sofortstornierung**
 
-* Unabhängig von den tariflichen Angebotskonditionen können auf bahn.de oder im DB Navigator gebuchte Tickets innerhalb **von 3 Stunden** (180 Minuten) nach der Buchung **kostenlos storniert** werden.
+* Unabhängig von den tariflichen Angebotskonditionen können auf bahn.de oder im DB Navigator gebuchte Tickets **vor dem ersten Geltungstag** innerhalb **von 3 Stunden** (180 Minuten) nach der Buchung **kostenlos storniert** werden.
 * Es wird der komplette Zahlungsbetrag zurückerstattet.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
