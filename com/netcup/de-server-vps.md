@@ -26,7 +26,7 @@ VPS 500 G12
 
  Details \>
 
-bereits ab monatlich
+0,008 €/Stunde oder je Monat ab
 
 4,87 €
 
@@ -45,7 +45,7 @@ VPS 1000 G12
 
  Details \>
 
-bereits ab monatlich
+0,013 €/Stunde oder je Monat ab
 
 8,45 €
 
@@ -64,7 +64,7 @@ VPS 2000 G12
 
  Details \>
 
-bereits ab monatlich
+0,025 €/Stunde oder je Monat ab
 
 15,59 €
 
@@ -83,7 +83,7 @@ VPS 4000 G12
 
  Details \>
 
-bereits ab monatlich
+0,042 €/Stunde oder je Monat ab
 
 26,18 €
 
@@ -102,7 +102,7 @@ VPS 8000 G12
 
  Details \>
 
-bereits ab monatlich
+0,062 €/Stunde oder je Monat ab
 
 38,68 €
 
