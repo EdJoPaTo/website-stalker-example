@@ -6297,7 +6297,7 @@ Bitte zeigen Sie bei der Kontrolle Ihren Lichtbildausweis und ggf. Ihre BahnCard
  Wie erfolgt die Gutschrift, wenn ich ein per Gutschein bezahltes Ticket storniere?
 ----------
 
-Die Erstattung erfolgt auf das jeweils genutze Zahlungsmittel. Haben Sie mit Kreditkarte bezahlt, wird der zu erstattende Betrag zurück auf Ihre Kreditkarte gebucht, bei einer Banküberweisung zurück auf Ihr Bankkonto. Falls Sie per Gutschein bezahlt haben, erfolgt die Erstattung in Form eines Gutscheins.
+Die Erstattung erfolgt auf das jeweils genutzte Zahlungsmittel. Haben Sie mit Kreditkarte bezahlt, wird der zu erstattende Betrag zurück auf Ihre Kreditkarte gebucht, bei einer Banküberweisung zurück auf Ihr Bankkonto. Falls Sie per Gutschein bezahlt haben, erfolgt die Erstattung in Form eines Gutscheins.
 
 Bei kombinierten Zahlungsmitteln erfolgt die Erstattung der Teilbeträge auf das jeweilige Zahlungsmittel.
 
