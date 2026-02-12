@@ -6371,19 +6371,6 @@ Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "+City" auf 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erkenne-ich-ob-das-city-ticket-bei-meiner-fahrkarte-mit-dabei-ist)
 
- Wie erstatten wir Ihre Kosten für die Nutzung anderer Züge
-----------
-
-Als Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wertmarke fahren Sie in allen Nahverkehrszügen (IRE, RE, FEX, MEX, RB und S-Bahnen) kostenfrei.
-
-Ist Ihr Zug so verspätet, dass mit einer Verspätung von mindestens 20 Minuten am Zielbahnhof gerechnet wird, können Sie einen anderen Zug nutzen (Ausnahmen: Reservierungspflichtige Züge, wie z.B. NightJets oder einige Züge ins Ausland).
-
-Falls Sie in einen "höherwertigen" Zug steigen wollen, also z.B. von einem Nahverkehrszug in einen ICE, IC oder EC, müssen Sie sich dafür zunächst eine passende Fahrkarte kaufen. Anschließend können Sie sich die Kosten von uns erstatten lassen.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erstattung-kosten-fuer-nutzung-anderer-zuege)
-
  Wie erstatten wir Ihre Kosten für Taxi oder Hotel?
 ----------
 
