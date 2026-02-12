@@ -4620,7 +4620,7 @@ Um das Sparpreis-Ticket zu stornieren, bitte in "Meine Reisen" im "Meine Bahn"- 
 
 **Sofortstornierung:**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie ein Digitales Ticket innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurückerstattet.
+Unabhängig von den tariflichen Angebotskonditionen können Sie ein Digitales Ticket **vor dem ersten Geltungstag** innerhalb von **3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurückerstattet.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
