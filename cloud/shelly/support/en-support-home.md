@@ -29,7 +29,7 @@ GEN 2/3/4 Devices Changelog BLU Devices Changelog Shelly APP Changelog
 [I'm unable to add my Shelly device to the cloud and I'm seeing the error "Device owned by another user." What steps should I take? →](/en/support/solutions/articles/103000043907-i-m-unable-to-add-my-shelly-device-to-the-cloud-and-i-m-seeing-the-error-device-owned-by-another-use)
 [Troubleshooting Shelly devices →](/en/support/solutions/articles/103000280420-troubleshooting-shelly-devices)
 [Shelly Wave - Firmware updates →](/en/support/solutions/articles/103000258471-shelly-wave-firmware-updates)
-[Range extender functionality →](/en/support/solutions/articles/103000222505-range-extender-functionality)
 [Comparison of Shelly Gen1, Gen2, Gen3 and Gen4 Devices →](/en/support/solutions/articles/103000316073-comparison-of-shelly-gen1-gen2-gen3-and-gen4-devices)
+[Range extender functionality →](/en/support/solutions/articles/103000222505-range-extender-functionality)
 [Do you support Matter ? →](/en/support/solutions/articles/103000060376-do-you-support-matter-)
 [What to do when you installed a new WiFi Router/Modem →](/en/support/solutions/articles/103000046465-what-to-do-when-you-installed-a-new-wifi-router-modem)
