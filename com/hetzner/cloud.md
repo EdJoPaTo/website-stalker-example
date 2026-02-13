@@ -96,7 +96,7 @@ spare 0.50
 
  RAM
 
- NVMe SSD
+ SSD
 
  Traffic incl.
 
@@ -128,7 +128,7 @@ Monthly
 
  4 GB
 
- NVMe SSD
+ SSD
 
  40 GB
 
@@ -160,7 +160,7 @@ Monthly
 
  4 GB
 
- NVMe SSD
+ SSD
 
  40 GB
 
@@ -192,7 +192,7 @@ Monthly
 
  8 GB
 
- NVMe SSD
+ SSD
 
  80 GB
 
@@ -224,7 +224,7 @@ Monthly
 
  8 GB
 
- NVMe SSD
+ SSD
 
  80 GB
 
@@ -256,7 +256,7 @@ Monthly
 
  16 GB
 
- NVMe SSD
+ SSD
 
  160 GB
 
@@ -288,7 +288,7 @@ Monthly
 
  16 GB
 
- NVMe SSD
+ SSD
 
  160 GB
 
@@ -320,7 +320,7 @@ Monthly
 
  32 GB
 
- NVMe SSD
+ SSD
 
  320 GB
 
@@ -352,7 +352,7 @@ Monthly
 
  32 GB
 
- NVMe SSD
+ SSD
 
  320 GB
 
@@ -384,7 +384,7 @@ Monthly
 
  2 GB
 
- NVMe SSD
+ SSD
 
  40 GB
 
@@ -416,7 +416,7 @@ Monthly
 
  4 GB
 
- NVMe SSD
+ SSD
 
  80 GB
 
@@ -448,7 +448,7 @@ Monthly
 
  8 GB
 
- NVMe SSD
+ SSD
 
  160 GB
 
@@ -480,7 +480,7 @@ Monthly
 
  16 GB
 
- NVMe SSD
+ SSD
 
  240 GB
 
@@ -512,7 +512,7 @@ Monthly
 
  32 GB
 
- NVMe SSD
+ SSD
 
  360 GB
 
@@ -544,7 +544,7 @@ Monthly
 
  2 GB
 
- NVMe SSD
+ SSD
 
  40 GB
 
@@ -576,7 +576,7 @@ Monthly
 
  4 GB
 
- NVMe SSD
+ SSD
 
  80 GB
 
@@ -608,7 +608,7 @@ Monthly
 
  8 GB
 
- NVMe SSD
+ SSD
 
  160 GB
 
@@ -640,7 +640,7 @@ Monthly
 
  16 GB
 
- NVMe SSD
+ SSD
 
  320 GB
 
@@ -672,7 +672,7 @@ Monthly
 
  24 GB
 
- NVMe SSD
+ SSD
 
  480 GB
 
@@ -704,7 +704,7 @@ Monthly
 
  32 GB
 
- NVMe SSD
+ SSD
 
  640 GB
 
@@ -736,7 +736,7 @@ Monthly
 
  8 GB
 
- NVMe SSD
+ SSD
 
  80 GB
 
@@ -768,7 +768,7 @@ Monthly
 
  16 GB
 
- NVMe SSD
+ SSD
 
  160 GB
 
@@ -800,7 +800,7 @@ Monthly
 
  32 GB
 
- NVMe SSD
+ SSD
 
  240 GB
 
@@ -832,7 +832,7 @@ Monthly
 
  64 GB
 
- NVMe SSD
+ SSD
 
  360 GB
 
@@ -864,7 +864,7 @@ Monthly
 
  128 GB
 
- NVMe SSD
+ SSD
 
  600 GB
 
@@ -896,7 +896,7 @@ Monthly
 
  192 GB
 
- NVMe SSD
+ SSD
 
  960 GB
 
