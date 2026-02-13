@@ -722,21 +722,6 @@ Neben Taschen, Trolleys und Koffern können Sie folgende Gegenstände mitnehmen:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/arten-gepaeckstuecke-zug)
 
- At which seats can I check in and what do I need to bear in mind?
-----------
-
-In principle, you can check in to all regular and freely available seats that do not overlap with other reservations. If you are a BahnBonus Gold or Platinum customer, you can also check in to the exclusive seating area. You can find details of seats that support Komfort Check-in below.
-You can check in at any seats that meet the following criteria:
-
-* The seats are free, i.e. not occupied by other passengers or a check-in.
-* The seats are regular seats, i.e. not special seats such as those for the disabled, or seats in the bistro car or on-board restaurant.
-* If you are a BahnBonus Gold or Platinum status customer, you can use seats in the exclusive BahnBonus seating area.
-* The reservation display shows "ggf. freigeben" (express reservation seats) if you have reserved them.
-* If the seats have already been reserved by other passengers, you can still use them if the reservation does not overlap with your journey.
-* The seats are arranged facing forwards or backwards to the direction of travel. Komfort Check-in is not possible on seats arranged sideways, for example, such as those in the double-decker IC2 multi-purpose compartment.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/at-which-seats-can-i-check-in)
-
  Auf welche Wagenklasse bezieht sich die Auslastungsinformation?
 ----------
 
@@ -1290,13 +1275,6 @@ Liegen Ursache und Wirkung für die verspätete Ankunft des Fahrgastes hingegen 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bus-schiff-fahrgastrechte-verspaetung-anschluss)
 
- Can I check in without a reservation?
-----------
-
-Yes, you can also check in to an unoccupied, unreserved seat without a reservation. Please also read "At which seats can I check in and what do I need to bear in mind?"
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/check-in-without-reservation)
-
  Basiert die CO₂-Sparuhr auf Live-Daten?
 ----------
 
@@ -1673,16 +1651,6 @@ Bei den Verkehrsleistungsdaten, also wie viele Personen wie viele Kilometer in d
 Ja, Lufthansa Express Rail enthält eine Sitzplatzreservierung. Als Gast der Lufthansa First und Business Class sind Sitzplätze in der 1. Klasse des Zuges für Sie reserviert. Wenn Sie in der Lufthansa Premium Economy oder Economy Class reisen, finden Sie Ihre reservierten Sitzplätze in der 2. Klasse des Zuges. Den genauen Sitzplatz entnehmen Sie bitte Ihrer Lufthansa Bordkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/enthaelt-meine-lufthansa-express-rail-buchung-eine-sitzplatzreservierung)
-
- Am I entitled to a seat for which I have checked in?
-----------
-
-The entitlement to a seat does not depend on Komfort Check-in:
-
-* With reservation: You are entitled to your reserved seat if you take it within 15 minutes of departure. After this time, the entitlement expires and the seat can be used by other passengers.
-* Without reservation: You are entitled to a seat that is not reserved if you are the first to sit in it. Therefore, please only check in once you have actually taken your seat.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/entitetled-to-seat-for-which-i-checked-in)
 
  Habe ich einen Entschädigungsanspruch, wenn ich wegen eines verspäteten Nahverkehrszugs meinen Anschluss zum Fernverkehr verpasse?
 ----------
@@ -2349,49 +2317,6 @@ Ja, die Mitnahme eines Hilfsmittels im Zug ist unter Einhaltung von Maximalmaße
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsmittel-mitnehmen)
-
- How do the train crew know that I am checked in and what customer data is displayed?
-----------
-
-The train crew on board only see that a passenger has checked in for a seat on a particular route. If the system suggests a ticket for a random check, the reasons for this are also displayed. Further ticket data will only be displayed if your ticket is inspected as usual.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-do-crew-know-i-checked-in)
-
- How does Komfort Check-in work in the DB Navigator app?
-----------
-
-1) Take your seat
-
-* Sit in the seat you have reserved or one that is available.
-
-1) Check in
-
-* In the DB Navigator app, tap on "Journeys" and select the relevant ticket (not the reservation you may have booked separately).
-* Tap the "Itinerary" tab and then the "Komfort Check-in" button for your current connection.
-* Confirm your seat (if you have a reservation) or enter it manually (if you do not have a reservation) and tap "Check in now".
-
-3) Confirmation
-
-* A green confirmation screen will appear, indicating that your ticket has been digitally validated and no longer needs to be shown.
-* If you change your seat, please use the "Change seat" button in the itinerary to update the check-in to the new seat. This will inform the train crew that you have moved to a new seat and you will generally not be inspected there either.
-
-**Note:** Your ticket may still be inspected in certain cases (see question: Why was my ticket still inspected despite Komfort Check-in)?
-
-**Tips:**
-
-Did you not book the seat reservation together with the train ticket?
-
-* No problem. Simply link the train ticket by tapping "Use reservation". You may also need the reservation number (Res. no.) from the confirmation e-mail or the booking information (PDF).
-
-Have you not yet saved your BahnCard in your customer account?
-
-* No problem. Please enter your BahnCard number manually during the check-in process and ideally save it in your customer account. The check will be carried out automatically when you check in next.
-
-Do you want to make check-in for your next trip even easier?
-
-* No problem. Simply activate notifications in the DB Navigator app on your smartphone. In future, we will remind you of the Komfort Check-in function shortly before the start of your journey and you can check in with just a few clicks.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-does-kci-work-with-db-navigator)
 
  Ich befinde mich in der 1. Klasse aber mir werden die Tageszeitungen im ICE Portal nicht als kostenlos angezeigt, was kann ich tun?
 ----------
@@ -3281,13 +3206,6 @@ Beachten Sie bei der Nutzung einer separat gebuchten Reservierung, dass die Anza
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kci-nicht-zusammen-mit-reservierung-gekauft)
 
- Can I use Komfort Check-in if I have a BahnCard 100?
-----------
-
-No, unfortunately Komfort Check-in is currently not possible for BahnCard 100 holders, as this requires a digital ticket for a flexible, saver or super saver fare.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kci-with-bc100)
-
  In meinem Reiseplan gibt es Änderungen, aber ich habe keine Benachrichtigung zur Reise erhalten. Warum ist das so?
 ----------
 
@@ -3792,16 +3710,6 @@ Die Einführung der Option "Neutrale Anrede" neben "Herr" und "Frau" in unseren 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/neutrale-anrede)
 
- What do I have to bear in mind during Komfort Check-in if I have not purchased my reservation together with my ticket?
-----------
-
-You can use the Komfort Check-in function even if you booked your reservation separately. To do this, click on "Use reservation" when entering the coach and seat number and select the appropriate reservation. In certain situations, you must first enter the reservation number (Res. no.) to load your reservation. You will find this number either in the confirmation e-mail or in the booking information (PDF).
-
-Note
-When using a separately booked reservation, please note that the number of passengers on the ticket determines the maximum number of people that can be checked in. This means that if you booked a ticket for one person and then reserved two seats, for example, you can only check in one person.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/not-purchased-ticket-with-reservation)
-
  Kann ich als Bahncard 100-Besitzer:in den KCi nutzen?
 ----------
 
@@ -3820,30 +3728,12 @@ Lesen Sie hierzu auch
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-ohne-sitzplatzreservierung)
 
- How can I use the seat occupied display with Komfort Check-in?
-----------
-
-After checking in, the text on the reservation display automatically changes to "Belegt bis …", indicating that the seat is occupied until the displayed destination. The display is usually updated within a few seconds and remains in place until shortly before the destination. This is also the case if our train crew inspect your ticket as normal.
-
-**Note**
-The seat occupied display is not available in all trains.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/occupied-display-kci)
-
  Kann ich auch ohne die BahnBonus App Prämienpunkte einlösen?
 ----------
 
 Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
-
- On which trains and routes can I use Komfort Check-in?
-----------
-
-Komfort Check-in is only valid on DB Fernverkehr AG trains and within Germany. On cross-border journeys to other European countries, Komfort Check-in is only available to a limited extent and you should expect your ticket to be inspected as normal.
-You can see whether your train or journey segment supports Komfort Check-in by the addition "Komfort Check-in available - please check in if possible" under the further information section in the itinerary for your journey.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/on-which-trains-can-i-use-kci)
 
  Was muss ich bei der Online-Buchung beachten, wenn ich eine Hilfeleistung benötige?
 ----------
@@ -3951,20 +3841,6 @@ Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüll
    Wenn Ihr Ticket bereits geprüft wurde, ist der Komfort Check-in nicht mehr erforderlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probleme-fehlermeldung-kci)
-
- What should I do if I have problems with check-in, e.g. if the check-in button is not visible or an error message is displayed?
-----------
-
-First check whether all the requirements for Komfort Check-in have been met (see: "What are the requirements for using Komfort Check-in?"). If the check-in function is still not available or does not work, there may be various reasons for this. Here are some possible reasons:
-
-* The ticket is not in the app: Make sure that your ticket is loaded in DB Navigator and is a digital ticket. Older tickets or certain ticket types may not be compatible. Alternatively, try checking in via the ICE Portal or the website www.bahn.de/jetzt-einchecken.
-* Ticket changed or cancelled: If you have changed or cancelled your ticket or reservation, Komfort Check-in is no longer possible.
-* No internet: Check your internet connection and try again when you have a connection.
-* Seat not available: The seat is either reserved, already checked in by another passenger or is a special seat. Check whether another seat is available.
-* Function not (yet) available: The Komfort Check-in function is deactivated or not yet activated for this section of the journey. In the latter case, wait a few minutes before attempting to check in again.
-* Already inspected: If your ticket has already been inspected, Komfort Check-in is no longer required.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/problems-with-kci)
 
  Wenn ich auf ein Ticket Rabatt bekomme, bekomme ich dann nur Punkte für den reduzierten Preis?
 ----------
@@ -4243,33 +4119,6 @@ Für den Super Sparpreis Europa Gruppe ist eine Stornierung einzelner Reisende
 Eine Stornierung einzelner Reisender ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
-
- What are the requirements for using Komfort Check-in?
-----------
-
-To use the Komfort Check-in function, you always need a mobile device and the DB Navigator app, preferably in the latest version. Your journey must also allow the Komfort Check-in function. This requires a valid ticket, an occupied seat and a train connection that supports Komfort Check-in, among other things.
-
-The requirements in detail are as follows:
-
-1) A mobile device with an internet connection (e.g. a smartphone or laptop with a mobile data plan)
-
-2) The current version of the DB Navigator app (alternatively: access to the ICE Portal or online at [www.bahn.de/jetzt-einchecken](https://int.bahn.de/en/buchung/jetzt-einchecken))
-
-3) A valid digital DB ticket (e.g. recognisable by the "Komfort Check-in" button in the itinerary for your connection)
-
-* Flexible, saver or super saver fare
-* With and without BahnCard discount
-* Up to five passengers (no dogs or bicycles)
-* With or without reservation
-
-4) Authorised travel conditions
-
-* Train connection that supports the Komfort Check-in function (recognisable by the addition "Komfort Check-in available - please check in if possible" under the further information section in the itinerary for your journey)
-* Occupied seat that supports check-in
-* Correct time (function is activated shortly before departure and your ticket must not already have been inspected by the train crew)
-* Journey according to the itinerary in the ticket
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/requirements-kci)
 
  In welchen Zügen gibt es mit dem Flexpreis Europa eine Reservierungspflicht?
 ----------
@@ -6121,43 +5970,6 @@ Mit einem Schwerbehindertenausweis mit Wertmarke fahren Sie im Nahverkehr kosten
 Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist auch Ihre Begleitperson im Nahverkehr kostenfrei.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wertmarke-mit-sba)
-
- What do I need to bear in mind if I want to change my seat after check-in?
-----------
-
-If you change seats after check-in, please change your seat number using the "Change seat" button in your current itinerary in DB Navigator. Otherwise your ticket may be inspected by the train attendant. After the change, the new seat and carriage number will be displayed. You have to check in again every time you change seat.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/what-if-i-want-to-change-seat)
-
- What is Komfort Check-in?
-----------
-
-Deutsche Bahn's Komfort Check-in function lets you check in for your rail journey yourself. This means that you can validate your ticket digitally and inform the train crew of where you are sitting. By doing so, your ticket will generally not be inspected during the journey, allowing you to relax. In addition, the check-in is shown on the reservation display on most trains. This will indicate to other passengers that your seat is occupied, even if you are absent for a short time.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/what-is-kci)
-
- When should I use the Komfort Check-in function?
-----------
-
-We activate the Komfort Check-in function shortly before the train departs. It is therefore best to check in as soon as you have taken your reserved seat or one that is available. If you check in later, your ticket may still be inspected. Once your ticket has been inspected by the train crew, you will no longer be able to use the Komfort Check-in function.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/when-sholuld-kci-be-used)
-
- Why was my ticket still inspected despite Komfort Check-in?
-----------
-
-Despite Komfort Check-in, the train crew may still carry out ticket inspections to make sure that the check-in data is valid and accurate. This provides additional security and quality assurance. Here are some reasons why your ticket may still be inspected despite Komfort Check-in.
-
-* **You are not sitting in the checked-in seat.**
-   Check-in is linked to your seat. If you are in the aisle, bistro or another seat, the train crew will not be able to recognise your check-in. If you have moved, change your seat in the itinerary in the DB Navigator app using the "Change seat" button.
-
-* **Your check-in has not yet been transferred.**
-   It may take a few minutes before your check-in is visible on the inspection handset. Therefore, if possible, check in as soon as you have taken your reserved seat or one that is available.
-
-* **A random inspection.**
-   Train crews are also required to carry out occasional spot checks on passengers who have checked in. The system randomly selects checked-in seats based on factors like the ticket type. Therefore, please have your ticket, a photographic ID and, if necessary, other proof of authorisation such as your BahnCard ready.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/why-ticket-inspectation-despite-kci)
 
  Wie aktiviere ich die 2-Faktor-Authentifizierung?
 ----------
