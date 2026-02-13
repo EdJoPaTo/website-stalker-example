@@ -6351,7 +6351,11 @@ Die aktuell im Handel erhältliche DB Geschenkkarte hat einen Wert von 30 Euro.
  Wie kann ich automatisch BahnBonus Punkte sammeln?
 ----------
 
-In Ihrem DB Kundenkonto können Sie im Bereich „BahnBonus“ das automatische Sammeln aktivieren. Bei Neuanmeldungen ist dies bereits voreingestellt. Beachten Sie bitte: Automatisches Sammeln gilt nur für Fahrkartenbuchungen auf [bahn.de](http://bahn.de/) und im DB Navigator im eingeloggten Zustand.
+1. Loggen Sie sich auf der Website bahn.de oder im DB Navigator in Ihrem DB Kundenkonto ein.
+2. Gehen Sie auf bahn.de über "Kundenkonto verwalten" oder im DB Navigator über den Menüpunkt "Profil" in den Bereich "BahnBonus".
+3. Aktivieren Sie "Automatisch Prämien- und Statuspunkte sammeln". Bei Neuanmeldungen ist dies schon voreingestellt.
+
+So sammeln Sie automatisch Punkte bei Buchungen auf bahn.de und im DB Navigator, sobald Sie in Ihrem DB Kundenkonto eingeloggt sind.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-automatisch-bahnbonus-punkte-sammeln)
 

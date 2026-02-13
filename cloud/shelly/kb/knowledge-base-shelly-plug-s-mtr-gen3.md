@@ -188,60 +188,60 @@ User interface
 Specifications
 ----------
 
-|            Quantity            |                                         Value                                          |
-|--------------------------------|----------------------------------------------------------------------------------------|
-|          **Physical**          |                                                                                        |
-|         Size (HxWxD):          |                       44x44x70 ±0.5 mm / 1.73x1.73x2.75 ±0.02 in                       |
-|            Weight:             |                                 60 ±1 g / 2.08 ±0.04 oz                                |
-|      Compatible sockets:       |                 CEE 7/1, CEE 7/3 (Type F / Schuko) or CEE 7/5 (Type E)                 |
-|       Compatible plugs:        |       CEE 7/2, CEE 7/4 (Type F / Schuko), CEE 7/7, CEE 7/16 (Type C) or CEE 7/17       |
-|        Shell material:         |                                        Plastic                                         |
-|             Color:             |                                * White<br/><br/>* Black                                |
-|       **Environmental**        |                                                                                        |
-|      Ambient temperature:      |                           \-20 °C to 40 °C / -5 °F to 105 °F                           |
-|            Humidity            |                                    30 % to 70 % RH                                     |
-|         Max. altitude          |                                    2000 m / 6562 ft                                    |
-|     Glow-wire temperature:     |                                         750°C                                          |
-|       Pollution degree:        |                                           2                                            |
-|    Required forced cooling:    |                                           No                                           |
-|         **Electrical**         |                                                                                        |
-|         Power supply:          |                                 220 - 230 V\~ 50/60 Hz                                 |
-|       Power consumption:       |                                         \< 1 W                                         |
-|Rated impulse-withstand voltage:|                                         2500 V                                         |
-|  **Output circuits ratings**   |                                                                                        |
-|    Max. switching voltage:     |                                        230 V\~                                         |
-|    Max. switching current:     |                                          12 A                                          |
-|       Max. output power:       |                              2500 W (resistive load only)                              |
-|  Number of switching cycles:   |                                         10000                                          |
-|     Overvoltage category:      |                                           II                                           |
-|           Duty-type:           |                                           S1                                           |
-|          Switch type:          |                                        One-way                                         |
-|     Switch configuration:      |                           SPNO (single-pole, normally-open)                            |
-| Type of circuit disconnection: |                                         Micro                                          |
-|      **Sensors, meters**       |                                                                                        |
-|  Internal-temperature sensor:  |                                          Yes                                           |
-|        Voltmeter (AC):         |                                          Yes                                           |
-|         Ammeter (AC):          |                                          Yes                                           |
-|    Power and energy meters:    |                                          Yes                                           |
-|           **Radio**            |                                                                                        |
-|           **Wi-Fi**            |                                                                                        |
-|           Protocol:            |                                      802.11 b/g/n                                      |
-|            RF band:            |                                     2401-2473 MHz                                      |
-|         Max. RF power:         |                                        \<10 dBm                                        |
-|          Wi-Fi Range:          |Up to 50 m / 164 ft outdoors, up to 30 m / 98 ft indoors (depending on local conditions)|
-|         **Bluetooth**          |                                                                                        |
-|           Protocol:            |                                          4.2                                           |
-|            RF band:            |                                    2402 - 2480 MHz                                     |
-|         Max. RF power:         |                                        \< 4 dBm                                        |
-|             Range:             |Up to 30 m / 98 ft outdoors, up to 10 m / 33 ft indoors (depending on local conditions) |
-|    **Microcontroller unit**    |                                                                                        |
-|              CPU:              |                                    ESP-Shelly-C38F                                     |
-|             Flash:             |                                          8 MB                                          |
-|   **Firmware capabilities**    |                                                                                        |
-|    Webhooks (URL actions):     |                                20 with 5 URLs per hook                                 |
-|           Scripting:           |                                          Yes                                           |
-|             MQTT:              |                                          Yes                                           |
-|             CoAP:              |                                           No                                           |
+|            Quantity            |                                         Value                                         |
+|--------------------------------|---------------------------------------------------------------------------------------|
+|          **Physical**          |                                                                                       |
+|         Size (HxWxD):          |                       44x44x70 ±0.5 mm / 1.73x1.73x2.75 ±0.02 in                      |
+|            Weight:             |                                60 ±1 g / 2.08 ±0.04 oz                                |
+|      Compatible sockets:       |                CEE 7/1, CEE 7/3 (Type F / Schuko) or CEE 7/5 (Type E)                 |
+|       Compatible plugs:        |      CEE 7/2, CEE 7/4 (Type F / Schuko), CEE 7/7, CEE 7/16 (Type C) or CEE 7/17       |
+|        Shell material:         |                                        Plastic                                        |
+|             Color:             |                               * White<br/><br/>* Black                                |
+|       **Environmental**        |                                                                                       |
+|      Ambient temperature:      |                          \-20 °C to 40 °C / -5 °F to 105 °F                           |
+|            Humidity            |                                    30 % to 70 % RH                                    |
+|         Max. altitude          |                                   2000 m / 6562 ft                                    |
+|     Glow-wire temperature:     |                                         750°C                                         |
+|       Pollution degree:        |                                           2                                           |
+|    Required forced cooling:    |                                          No                                           |
+|         **Electrical**         |                                                                                       |
+|         Power supply:          |                                220 - 230 V\~ 50/60 Hz                                 |
+|       Power consumption:       |                                        \< 1 W                                         |
+|Rated impulse-withstand voltage:|                                        2500 V                                         |
+|  **Output circuits ratings**   |                                                                                       |
+|    Max. switching voltage:     |                                        230 V\~                                        |
+|    Max. switching current:     |                                         12 A                                          |
+|       Max. output power:       |                             2500 W (resistive load only)                              |
+|  Number of switching cycles:   |                                         10000                                         |
+|     Overvoltage category:      |                                          II                                           |
+|           Duty-type:           |                                          S1                                           |
+|          Switch type:          |                                        One-way                                        |
+|     Switch configuration:      |                           SPNO (single-pole, normally-open)                           |
+| Type of circuit disconnection: |                                         Micro                                         |
+|      **Sensors, meters**       |                                                                                       |
+|  Internal-temperature sensor:  |                                          Yes                                          |
+|        Voltmeter (AC):         |                                          Yes                                          |
+|         Ammeter (AC):          |                                          Yes                                          |
+|    Power and energy meters:    |                                          Yes                                          |
+|           **Radio**            |                                                                                       |
+|           **Wi-Fi**            |                                                                                       |
+|           Protocol:            |                                     802.11 b/g/n                                      |
+|            RF band:            |                                     2401-2473 MHz                                     |
+|         Max. RF power:         |                                       \<10 dBm                                        |
+|          Wi-Fi Range:          |                                                                                       |
+|         **Bluetooth**          |                                                                                       |
+|           Protocol:            |                                          4.2                                          |
+|            RF band:            |                                    2402 - 2480 MHz                                    |
+|         Max. RF power:         |                                                                                       |
+|             Range:             |Up to 30 m / 98 ft outdoors, up to 10 m / 33 ft indoors (depending on local conditions)|
+|    **Microcontroller unit**    |                                                                                       |
+|              CPU:              |                                    ESP-Shelly-C38F                                    |
+|             Flash:             |                                         8 MB                                          |
+|   **Firmware capabilities**    |                                                                                       |
+|    Webhooks (URL actions):     |                                20 with 5 URLs per hook                                |
+|           Scripting:           |                                          Yes                                          |
+|             MQTT:              |                                          Yes                                          |
+|             CoAP:              |                                          No                                           |
 
 Shelly Smart Control
 ----------

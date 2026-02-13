@@ -119,10 +119,10 @@ We are an international team of engineers and dreamers, uniting world class expe
 Where you can find us.
 ==========
 
-We are happy to hear from you and to welcome you in the
-heart of Berlin Adlershof – Germany’s most vibrant Technology Park.
+We are happy to hear from you and to welcome you in our Berlin-Brandenburg Factory in
+Berlin-Wildau.
 
-[Headquarters Inuru GmbH ‍Johann-Hittorf-Str. 8 12489 Berlin \+49 30 8632 1607](https://www.google.com/maps/place/Inuru/@52.4313526,13.5214978,17z/data=!3m2!4b1!5s0x47a8493b32052a17:0xae8811380b10bc44!4m5!3m4!1s0x47a8462352996a8d:0x6438c312968ff933!8m2!3d52.4313493!4d13.5236865)[info@inuru.com](mailto:info@inuru.com?subject=Information)
+[Headquarters Inuru GmbH Schwartzkopffstraße 12a 15745 Wildau \+49 30 8632 1607](https://www.google.com/maps/place/Inuru/@52.4313526,13.5214978,17z/data=!3m2!4b1!5s0x47a8493b32052a17:0xae8811380b10bc44!4m5!3m4!1s0x47a8462352996a8d:0x6438c312968ff933!8m2!3d52.4313493!4d13.5236865)[info@inuru.com](mailto:info@inuru.com?subject=Information)
 
 [Warsaw INURU GmbH Mińska 25, 03-808 Warszawa Poland](https://www.google.com/maps/place/%C5%BBelazna+59,+00-848+Warszawa,+Poland/@52.2339508,20.9892896,17z/data=!4m9!1m2!2m1!1sInuru+Poland+Sp.+z+o.o.Zelazna+59A00-848+Warsaw!3m5!1s0x471ecc85bc000d9b:0xe0d4b31b75b6cfb6!8m2!3d52.2339361!4d20.9909302!15sCi9JbnVydSBQb2xhbmQgU3AuIHogby5vLlplbGF6bmEgNTlBMDAtODQ4IFdhcnNhd5IBEGdlb2NvZGVkX2FkZHJlc3PgAQA)[+48 732 525 935](tel:+48732525935)[info@inuru.com](mailto:info@inuru.com?subject=Information)
 

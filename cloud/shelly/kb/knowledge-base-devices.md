@@ -200,6 +200,7 @@ Learn everything you need about Shelly devices – features, applications and sp
  Accessories
 ----------
 
+* [Shelly 2-Output Power Base for Wall Display](https://kb.shelly.cloud/knowledge-base/shelly-2-output-power-base-for-wall-display)
 * [Shelly Bypass](https://kb.shelly.cloud/knowledge-base/shelly-bypass)
 * [Shelly Wall Switch (1, 2 and 4)](https://kb.shelly.cloud/knowledge-base/shelly-wall-switch-1-2-and-4)
 * [RC Snubber](https://kb.shelly.cloud/knowledge-base/rc-snubber)
@@ -233,5 +234,4 @@ Learn everything you need about Shelly devices – features, applications and sp
  By Shelly
 ----------
 
-* [Ogemray 25A relay](https://kb.shelly.cloud/knowledge-base/ogemray-25a-relay)
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)
