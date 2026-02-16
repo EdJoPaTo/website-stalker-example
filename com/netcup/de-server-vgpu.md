@@ -60,7 +60,6 @@ Unsere vGPU-Produkte eignen sich ideal für folgende Szenarien:
 
 * 3D-Rendering & Visualisierungen
 * KI Inferencing
-* Video-Processing / Video-Encoding
 * Big Data & Analytics / Datenanalyse
 
 Unsere vGPU-Produkte bieten **leistungsstarke GPU-Power aus der Cloud** – ideal für anspruchsvolle Workloads. Mit zwei unterschiedlichen Tarifen decken wir gezielt verschiedene Anforderungen ab, sodass du genau die Leistung erhältst, die du brauchst. Dank **dedizierter vGPU-Zuweisung pro virtueller Maschine** profitierst du von **garantierten Ressourcen** und **hoher Performance.** Gleichzeitig stellen unsere Lösungen eine kosteneffiziente Alternative zu physischer GPU-Hardware dar.
@@ -74,7 +73,7 @@ Unsere Root-Server mit zusätzlicher GPU-Leistung bringen deine rechenintensiven
 
 **Grafikintensive Anwendungen aus der Cloud**
 
-Nutze leistungsstarke vGPUs für professionelle 3D-Designs, Visualisierungen, Simulationen oder Videoproduktion – ganz ohne eigene Hardware. Maximale Performance, direkt aus der Cloud – flexibel, skalierbar und sofort einsatzbereit.
+Nutze leistungsstarke vGPUs für professionelle 3D-Designs, Visualisierungen oder Simulationen – ganz ohne eigene Hardware. Maximale Performance, direkt aus der Cloud – flexibel, skalierbar und sofort einsatzbereit.
 
 **Sicher & isoliert – dedizierte vGPUs pro VM**
 
@@ -82,7 +81,7 @@ Dank Virtualisierung mit dedizierter vGPU-Zuweisung pro virtueller Maschine gara
 
 **Kosteneffiziente Alternative zur physischen GPU-Hardware**
 
-Spar dir teure Anschaffungskosten und lange Einrichtungszeiten. Mit unseren vGPU-Servern bekommst du genau die Leistung, die du brauchst – zum Bruchteil der Kosten klassischer Hardwarelösungen. Ideal für AI Inference, Video-Encoding oder datengetriebene Analysen.
+Spar dir teure Anschaffungskosten und lange Einrichtungszeiten. Mit unseren vGPU-Servern bekommst du genau die Leistung, die du brauchst – zum Bruchteil der Kosten klassischer Hardwarelösungen. Ideal für AI Inference oder datengetriebene Analysen.
 
 **Behalte die Kontrolle über deine Daten**
 
@@ -95,7 +94,7 @@ Local Block Storage bei vGPU
 
 Durch den Einsatz moderner **High-End-Hardware** – darunter NVIDIA™ H200 GPUs und AMD EPYC™ 9535 Prozessoren – bieten unsere **vGPU-Server** ein ideales Fundament für grafikintensive und rechenaufwendige Anwendungen.
 
-Ob 3D-Rendering, Video-Encoding oder KI-Inferencing: Mit **garantierten vCPU- und VRAM-Ressourcen** erhältst du eine zuverlässige Performance – gehostet in unserem [zertifizierten Rechenzentrum](https://www.netcup.com/de/ueber-netcup/rechenzentren) in Nürnberg und vollständig DSGVO-konform.
+Ob 3D-Rendering oder KI-Inferencing: Mit **garantierten vCPU- und VRAM-Ressourcen** erhältst du eine zuverlässige Performance – gehostet in unserem [zertifizierten Rechenzentrum](https://www.netcup.com/de/ueber-netcup/rechenzentren) in Nürnberg und vollständig DSGVO-konform.
 
 Frequently Asked Questions
 ----------
