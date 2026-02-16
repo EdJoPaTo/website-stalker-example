@@ -274,7 +274,7 @@ Compliance archive
 Printed user guide
 ----------
 
-[Plug S MTR Gen 3 multilingual printed user and safety guide.pdf](https://kb.shelly.cloud/__attachments/391315459/Plug%20S%20MTR%20Gen%203%20multilingual%20printed%20user%20and%20safety%20guide.pdf)
+* [Plug S MTR Gen 3 multilingual printed user and safety guide.pdf](https://kb.shelly.cloud/__attachments/391315459/Plug%20S%20MTR%20Gen%203%20multilingual%20printed%20user%20and%20safety%20guide.pdf)
 
 * [Ръководство за употреба и безопасност](https://kb.shelly.cloud/knowledge-base/plug-s-mtr-gen3)
 
