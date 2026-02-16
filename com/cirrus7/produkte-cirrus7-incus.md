@@ -19,6 +19,8 @@ cirrus incus
     Basierend auf DeskMini X600/USB4
   * **Intel B760**
     Basiert auf DeskMini B760
+  * **Intel B860**
+    Basiert auf DeskMini B860
 
   **Vorne:** 1x USB 3.1 Gen1 Type-C, 1x USB 3.1 Gen1 Type-A, 1x Mic-In, 1x Headset
   **Hinten:** 1xVGA, 1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB 3.1 Gen1 Type-A Port, 1x USB 2.0 Type-A Port, 1x Gigabit LAN
@@ -28,6 +30,9 @@ cirrus incus
 
   **Vorne:** 1x USB 3.2 Gen2 Type-C, 1x USB 3.2 Gen2 Type-A, 1x Mic-In, 1x Headset
   **Hinten:** 1xVGA, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x USB 3.2 Gen2 Type-C Port (USB-C / DP Alt mode), 2x USB 3.2 Gen2 Type-A Ports, 2x USB 2.0 Ports, 1 x 2.5 Gigabit LAN
+
+  **Vorne:** 1x USB-C 3.2 (20Gb/s), 1x USB-A 3.1 (10Gb/s), 1x 3.5mm Klinke Line-Out, 1x 3.5mm Klinke Line-In
+  **Hinten:** 1x Thunderbolt 4 / USB4 mit DisplayPort 1.4 (40Gb/s), 2x USB-A 3.0 (5Gb/s), 1x HDMI 2.1, 2x DisplayPort 1.4, 1x 2.5GB Ethernet
 
   ##### Komplettsystem oder Gehäuse #####
 
@@ -103,6 +108,19 @@ cirrus incus
     8+12C/28T, 1.3 – 5.0GHz – UHD 770
   * **Intel Core i9-14900T**
     8+16C/32T, 1.1 – 5.5GHz – UHD 770
+
+  ##### Prozessor (CPU) - Intel Ultra 5/7/9 #####
+
+  Wählen Sie hier zwischen verschiedenen Intel® Core Ultra CPUs
+
+  * **Intel Core Ultra 5 225T**
+    6C + 4c /10 Threads, bis 4.9GHz – GPU 2Xe
+  * **Intel Core Ultra 5 235T**
+    6C + 8c /14 Threads, bis 5.0GHz – GPU 3Xe
+  * **Intel Core Ultra 7 265T**
+    8C + 12c/20T, bis 5.3GHz – GPU 4Xe
+  * **Intel Core Ultra 9 285T**
+    8C + 16c/24T, bis 5.4GHz – GPU 4Xe
 
   ##### Hauptspeicher (RAM) #####
 

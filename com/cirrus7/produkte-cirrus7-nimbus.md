@@ -31,6 +31,8 @@ cirrus nimbus
   * **ASRock Z790M-ITX (DDR5)**
     Z790 Chipsatz – Mini ITX
 
+  * **Asus Pro H810T (DDR5 SO-DIMM)**
+    H610 Chipsatz – business mainboard
   * **ASRock B860I (DDR5 LO-DIMM)**
     B860 Chipsatz – Mini ITX
   * **ASUS ROG Strix B860-I (DDR5 LO-DIMM)**
@@ -64,6 +66,9 @@ cirrus nimbus
 
   **GIGABYTE B650I Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1, 1x USB-A 3.1 Gen2, 1x USB-C 3.0, 1x USB-A 3.0, 3x USB-A 2.0, 1x 2.5GB LAN, 3x Audio Stereo
+
+  **ASUS Pro H810T Anschlüsse Rückseite:**
+  1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x 1GB Ethernet, 2x USB-A 3.2, 2x USB-A 2.0, 2x Audio Stereo
 
   **ASRock B860I Anschlüsse Rückseite:**
   1x DisplayPort 1.4 (5K@60Hz), 1x HDMI 2.1 (4K@60Hz), 1x RJ45 2.5G Ethernet, 1x RJ45 1GB Ethernet, 1x USB-C 3.2 (20Gb/s), 1x USB-A 3.1 (10Gb/s), 2x USB-A 3.0 (5Gb/s), 4x USB-A 2.0 (480Mb/s),3x Audio Stereo
