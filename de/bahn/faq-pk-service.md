@@ -6566,6 +6566,19 @@ DB Geschenkgutscheine können nicht per Lastschrift oder per Gutschein bezahlt w
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-einen-db-geschenkgutschein-kaufen)
 
+ Wie kann ich mein Gepäck durch Hermes bei meiner Wunschadresse abholen lassen?
+----------
+
+Sie können Ihre Koffer bei sich zuhause abholen lassen und mit dem Hermes Gepäckversand an Ihre Wunschadresse liefern lassen. Das Partnerangebot ist für Bahnreisende buchbar.
+
+Das bisherige Angebot DB Gepäckservice ist für Privatkunden nicht mehr erhältlich.
+
+[Weitere Informationen zum (Super) Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
+
+[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-gepaeck-durch-hermes-abholen-lassen)
+
  Wie kann ich auf bahn.de oder in der App DB Navigator bezahlen?
 ----------
 
