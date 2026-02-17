@@ -109,7 +109,7 @@ cirrus incus
   * **Intel Core i9-14900T**
     8+16C/32T, 1.1 – 5.5GHz – UHD 770
 
-  ##### Prozessor (CPU) - Intel Ultra 5/7/9 #####
+  ##### Prozessor (CPU) - Intel Core Ultra 5/7/9 #####
 
   Wählen Sie hier zwischen verschiedenen Intel® Core Ultra CPUs
 
