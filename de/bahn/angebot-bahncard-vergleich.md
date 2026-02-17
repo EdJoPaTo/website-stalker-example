@@ -121,9 +121,6 @@ Die folgende Übersicht verdeutlicht die unterschiedlichen Rabbattierungen der B
 |BahnCard 50 |      50 %      |      25 %      |
 |BahnCard 100|    100 %\*     |    100 %\*     |
 
-Unsere beliebtesten BahnCards
-----------
-
 ### BahnCard 25, 2. Klasse ###
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)
