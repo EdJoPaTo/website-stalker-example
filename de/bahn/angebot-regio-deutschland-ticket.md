@@ -20,10 +20,6 @@ Ihre Vorteile
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
-**Nur bis 16. März:** Als Inhaberin oder Inhaber eines Deutschland-Tickets erhalten Sie die **Probe BahnCard 25, 2. Klasse für nur 9,99 Euro.**
-
-[Rabatt-Code anfordern Weitere Informationen: Rabatt-Code anfordern](https://deutschland-ticket-aktion.de/)
-
 Häufig gestellte Fragen
 ----------
 
