@@ -165,7 +165,7 @@ kg (2.42 pounds)
 
  Operating System
 
- Linux distribution with kernel 6.2 or later
+ Distributions using Linux 6.2 or later
  Windows 11 22H1 (64-bit) or later
 
 What's in the Box

@@ -168,12 +168,7 @@ altitude: 12192 metres (40000 feet)
 
  Operating System
 
- Ubuntu 22.04 LTS (64-bit) or later
- elementary OS 6.1 (64-bit) or later
- Linux Mint 21 (64-bit) or later
- Manjaro 21.3.7 (64-bit) or later
- MX Linux 21.1 (64-bit) or later
- Zorin OS 16.1 (64-bit) or later
+ Distributions using Linux 6.12 or later
  Windows 11 22H1 (64-bit) or later
 
 What's in the Box

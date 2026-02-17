@@ -1,7 +1,7 @@
-netcup Deals
+Winter Sale is coming
 ==========
 
-Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
+Mach dich bereit: am 24.02.26 startet der netcup Winter Sale mit heißen Deals. Entdecke Specials aus den Kategorien Webhosting, Server und Domains! **Beim Newsletter anmelden und keinen Deal verpassen!**
 
 [Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
