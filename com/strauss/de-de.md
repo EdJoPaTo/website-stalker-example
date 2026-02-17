@@ -1,81 +1,39 @@
-Bundhose e.s.motion
- 2020, Winter
-
- Cooler Style
-warmes Futter
+Alte Schule
+neue Meister
 ----------
 
 ---
 
- Gefütterte Arbeitshosen
-für den Winter
+ Die STRAUSS Sneaker Mania!
 
-[alle Winterhosen entdecken](https://www.strauss.com/de/de/themen-winterhosen/?itemorigin=startseite_HW25)
+[direkt zu den Angeboten](https://www.strauss.com/de/de/neuheiten-berufsschuhe/?itemorigin=startseite_FS26)
 
- Warme
-S7-Sicherheit
+ \*Gültig bis Sonntag, 22.02.2026, ausschließlich auf ausgewählte Produkte. Nur solange der Vorrat reicht.
+
+ Bereit für
+ Action
 ----------
 
 ---
 
- In coolen Styles
-wetterfest & rutschsicher
+ Neu: Ursprüngliche Workwear mit modernster Technik
 
-alle wetterfesten Sicherheitsschuhe
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-t-aktik/?itemorigin=startseite_FS26)
 
-Schuhe mit Zehenschutz
+ Bundhose e.s.t:aktik
+ light ripstop
 
- S7 Sicherheitsstiefel
- e.s. Okomu high
+[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-t-aktik-light-ripstop-3312630-62802-1875.html?itemorigin=startseite_FS26)
 
- S7 Sicherheitsschlupfstiefel
- e.s. Okomu high
+ \+3
 
- S7 Sicherheitsschuhe
- e.s. Okomu mid
+ Bundhose e.s.t:aktik
+ light ripstop
 
- Wärme kann
-so leicht sein!
-----------
-
----
-
- e.s.motion ten: Warm
-wattierte Steppjacken
-
-[alle Winterjacken entdecken](https://www.strauss.com/de/de/themen-winterjacken/?itemorigin=startseite_HW25)
-
- Winterjacke
-e.s.motion ten
-
- Pilotenjacke
-e.s.motion ten
+[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-t-aktik-light-ripstop-3312630-62802-1875.html?itemorigin=startseite_FS26)
 
 *
 *
-*
-
- jetzt neu
-
- READY?
----
-
- FLEX
----
-
- SET
----
-
- Sets flexibel zusammenstellen
-
- Die neue Art Sets zu bauen
-----------
-
----
-
-Ein Set, unzählige Möglichkeiten: Ihre Farben, Ihre Größen, Ihre Gratis-Artikel.
-
-[jetzt ausprobieren und sparen](https://www.strauss.com/de/de/flexible-sets/?itemorigin=startseite_HW25)
 
 ###  Angebote
 des Monats  ###
@@ -84,204 +42,204 @@ des Monats  ###
 
 Gültig bis 28.02.2026 | Solange der Vorrat reicht
 
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_HW25)
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
 
  Bis zu
-==========
-
 ---
 
  \-54%
-==========
+---
+
+[](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
+
+ Neuheiten
+
+###  Neue Saison, neue Styles
+Frühjahr | Sommer  ###
 
 ---
 
-[](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_HW25)
-
- Wetterfest & warm: das Winter-Dreamteam für die Piste
-----------
+###  e.s.trail  ###
 
 ---
 
- Wetterfest & warm: das Winter-Dreamteam für die Piste
-----------
+ Sportliche Workwear mit
+frischen Styles & Farben
+
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_FS26)
+
+[](https://www.strauss.com/de/de/pullover-troyer/funktions-troyer-longsleeve-uv-e-s-trail-3121910-21745-1912.html?itemorigin=startseite_FS26)
+
+[](https://www.strauss.com/de/de/sweats-hoodies/funktions-hoody-longsleeve-uv-e-s-trail-3108090-21785-1912.html?itemorigin=startseite_FS26)
+
+[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96141-1912.html?itemorigin=startseite_FS26)
+
+[](https://www.strauss.com/de/de/arbeitsshorts/trekking-swim-short-e-s-trail-3350990-96236-1912.html?itemorigin=startseite_FS26)
+
+[](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_FS26)
+
+###  e.s.trail  ###
 
 ---
 
- extra leichte, wärmende
-Innenjacke | klein verstaubar
+ Sportliche Workwear mit
+frischen Styles & Farben
 
- wetterfeste
-Außenjacke
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_FS26)
 
- Spezial-Workwear e.s.trail snow
----
+[](https://www.strauss.com/de/de/pullover-troyer/funktions-troyer-longsleeve-uv-e-s-trail-3121910-21745-1912.html?itemorigin=startseite_FS26)
 
-###  Arbeiten bei
- Eis & Schnee  ###
+[](https://www.strauss.com/de/de/sweats-hoodies/funktions-hoody-longsleeve-uv-e-s-trail-3108090-21785-1912.html?itemorigin=startseite_FS26)
 
----
+[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96141-1912.html?itemorigin=startseite_FS26)
 
-[gesamte e.s.trail Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_HW25)
+[](https://www.strauss.com/de/de/arbeitsshorts/trekking-swim-short-e-s-trail-3350990-96236-1912.html?itemorigin=startseite_FS26)
 
-3 in 1 Funktionsjacke
-e.s.trail snow
+[](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_FS26)
 
----
+[](https://www.strauss.com/de/de/kinder-shirts-polos/t-shirt-e-s-e-pic-kinder-3107970-21793-1757.html?itemorigin=startseite_FS26)
 
- mit auszippbarer Innenjacke
+[](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-e-s-e-pic-3107950-21594-1479.html?itemorigin=startseite_FS26)
 
-Funktionshose e.s.trail snow
+[](https://www.strauss.com/de/de/arbeitsshirts-damen/t-shirt-e-s-e-pic-damen-3107960-21692-1.html?itemorigin=startseite_FS26)
+
+###  e.s.epic  ###
 
 ---
 
- mit innenliegendem Schneefang
+ Coole Statement-Shirts
+für Groß und Klein
 
- Alles für drunter
-----------
+[Herren](https://www.strauss.com/de/de/e-s-e-pic/?itemorigin=startseite_FS26&sort=newest)
 
----
+[Damen](https://www.strauss.com/de/de/e-s-e-pic-damen/?itemorigin=startseite_FS26&sort=newest)
 
- Alles für drunter
-----------
+[Kinder](https://www.strauss.com/de/de/e-s-e-pic-kinder/?itemorigin=startseite_FS26&sort=newest)
 
----
+[](https://www.strauss.com/de/de/kinder-shirts-polos/t-shirt-e-s-e-pic-kinder-3107970-21793-1757.html?itemorigin=startseite_FS26)
 
- Die Basis für Komfort:
----
+[](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-e-s-e-pic-3107950-21594-1479.html?itemorigin=startseite_FS26)
 
- Funktionsunterwäsche
----
+[](https://www.strauss.com/de/de/arbeitsshirts-damen/t-shirt-e-s-e-pic-damen-3107960-21692-1.html?itemorigin=startseite_FS26)
 
-[für Herren](https://www.strauss.com/de/de/funktionsunterwaesche/?itemorigin=startseite_HW25)
-
-[für Damen](https://www.strauss.com/de/de/funktionsunterwaesche-damen/?itemorigin=startseite_HW25)
-
-[
-
-Herren
-
-]() [
-
-Damen
-
-]()
-
-[Funktions-Longsleeve e.s.trail seamless - warm](https://www.strauss.com/de/de/funktionsshirts-unterziehshirts/funktions-longsleeve-e-s-trail-seamless-warm-3411510-87830-1564.html?itemorigin=startseite_HW25)
-
-[
-
-Herren
-
-]() [
-
-Damen
-
-]()
-
-[Funktions-Longsleeve e.s.trail seamless - warm](https://www.strauss.com/de/de/unterziehshirts-damen/funktions-longsleeve-e-s-trail-seamless-warm-damen-3411560-87834-1803.html?itemorigin=startseite_HW25)
-
- Funktionssocken
----
-
-[für Herren](https://www.strauss.com/de/de/funktionssocken/?itemorigin=startseite_HW25)
-
-[für Damen](https://www.strauss.com/de/de/funktionssocken-damen/?itemorigin=startseite_HW25)
-
-**Perfekt ausgerüstet**  für Kalte Tage
-
-----------
+###  e.s.epic  ###
 
 ---
 
-[alle Wintermützen](https://www.strauss.com/de/de/muetzen/?=&itemorigin=startseite_HW25)
+ Coole Statement-Shirts
+für Groß und Klein
 
-alle Winterhandschuhe
+[Herren](https://www.strauss.com/de/de/e-s-e-pic/?itemorigin=startseite_FS26&sort=newest)
 
- Parka e.s.iconic
+[Damen](https://www.strauss.com/de/de/e-s-e-pic-damen/?itemorigin=startseite_FS26&sort=newest)
 
- Parka e.s.iconic, Damen
+[Kinder](https://www.strauss.com/de/de/e-s-e-pic-kinder/?itemorigin=startseite_FS26&sort=newest)
 
- bereit für jedes Wetter
----
-
- Winterjacken
----
-
-[für Herren](https://www.strauss.com/de/de/winter-arbeitsjacken/?=&itemorigin=startseite_HW25)
-
-[für Damen](https://www.strauss.com/de/de/winterjacken-damen/?=&itemorigin=startseite_HW25)
-
-[für Kinder](https://www.strauss.com/de/de/winterjacken-kinder/?=&itemorigin=startseite_HW25)
-
- Personalisierte Outfits für jeden Anlass
-----------
+###  Weitere Neuheiten entdecken  ###
 
 ---
 
-[](obs-link-v1:aHR0cHM6Ly93d3cuc3RyYXVzcy5jb20vZGUvZGUvZi9hcmJlaXRza2xlaWR1bmcvUGVyc29uYWxpc2llcnVuZ19uZXU6U2VsYnN0X2dlc3RhbHRlbi8/aXRlbW9yaWdpbj1TdGFydHNlaXRlX0hXMjUmc29ydD1uZXdlc3Q=)
+###  Herren  ###
+
+---
+
+alle Produkte
+
+###  Herren  ###
+
+---
+
+alle Produkte
+
+###  Damen  ###
+
+---
+
+alle Produkte
+
+###  Damen  ###
+
+---
+
+alle Produkte
+
+###  Kinder  ###
+
+---
+
+alle Produkte
+
+###  Kinder  ###
+
+---
+
+alle Produkte
 
  Druck & Stick - ab 1 Stück
 
 ###
 
 jetzt online
-
 gestalten
 
  ###
 
 ---
 
- Druck & Stick - ab 1 Stück
-
-###
-
-jetzt online
-
-gestalten
-
- ###
-
----
-
-für Arbeit, Vereine, Events uvm.
-
-unkompliziert gestalten & bestellen
-
-über 400 verfügbare Motive + Motivupload
-
-für Arbeit, Vereine, Events uvm.
-
-unkompliziert gestalten & bestellen
-
-über 400 verfügbare Motive + Motivupload
-
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_FS26)
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_FS26)
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=Startseite_HW25)
-
-zu den Produkten
-
-Easy-
-transfer
-
----
-
- Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
-
-Direkt-
-einstickung
-
+Stick: Direkteinstickung
 ---
 
  Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
+
+Druck: Easytransfer
+---
+
+ Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
+
+Stick: Direkteinstickung
+---
+
+ Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
+
+Druck: Easytransfer
+---
+
+ Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
+
+für Arbeit, Vereine, Events uvm.
+
+unkompliziert gestalten & bestellen
+
+über 400 verfügbare Motive + Motivupload
+
+ Inspiration für jeden
+ Anlass entdecken:
+
+[
+
+Muttertag
+
+]()
+
+[
+
+Vatertag
+
+]()
+
+[
+
+JGAs
+
+]()
 
  Hallo Köln!
 
@@ -296,18 +254,20 @@ einstickung
 
 [mehr Informationen](https://www.dach-holz.com/de)
 
- Nach Kategorie shoppen
+ Von Workwear bis Werkzeug – Über 40.000 Produkte
+==========
+
 ---
 
-[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/)
+[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=startseite_FS26)
 
-[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/)
+[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/?itemorigin=startseite_FS26)
 
-[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/)
+[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=startseite_FS26)
 
-[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/)
+[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?itemorigin=startseite_FS26)
 
-[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/)
+[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?itemorigin=startseite_FS26)
 
 ####  Newsletter  ####
 
