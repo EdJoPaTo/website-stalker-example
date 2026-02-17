@@ -217,7 +217,7 @@ Printed User Guide
 Compliance
 ----------
 
-[Shelly 2.5 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%202.5%20multilingual%20EU%20declaration%20of%20conformity.pdf)
+* [Shelly 2.5 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%202.5%20multilingual%20EU%20declaration%20of%20conformity.pdf)
 
 Installation guides
 ----------

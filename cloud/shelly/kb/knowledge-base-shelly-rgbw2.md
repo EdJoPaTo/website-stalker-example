@@ -15,11 +15,11 @@ Downloads
 Compliance
 ----------
 
-[Shelly RGBW2 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20multilingual%20EU%20declaration%20of%20conformity.pdf)
+* [Shelly RGBW2 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20multilingual%20EU%20declaration%20of%20conformity.pdf)
 
-[Shelly RGBW2 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
+* [Shelly RGBW2 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
 
-[Shelly RGBW2 x2 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20x2%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
+* [Shelly RGBW2 x2 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20RGBW2%20x2%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
 
 What is Shelly RGBW2?
 ----------

@@ -263,9 +263,9 @@ Components and APIs
 Compliance
 ----------
 
-[Shelly Plug S Gen3 multilingual EU declaration of conformity 224 2025-12-05.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20Gen3%20multilingual%20EU%20declaration%20of%20conformity%20224%202025-12-05.pdf)
+* [Shelly Plug S Gen3 multilingual EU declaration of conformity 224 2025-12-05.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20Gen3%20multilingual%20EU%20declaration%20of%20conformity%20224%202025-12-05.pdf)
 
-[Shelly Plug S MTR Gen3 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20MTR%20Gen3%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
+* [Shelly Plug S MTR Gen3 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20MTR%20Gen3%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
 
 Compliance archive
 
