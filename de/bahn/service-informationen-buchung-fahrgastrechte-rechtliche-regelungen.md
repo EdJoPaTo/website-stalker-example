@@ -96,7 +96,7 @@ Bei Rücktritt von der Reise wird die Erstattung ausschließlich via Überweisun
 * bei Ausfall eines Zuges, wenn es sich dabei um die letzte fahrplanmäßige Verbindung des Tages handelt und
 * der Zielbahnhof ohne Nutzung eines anderen Verkehrsmittels nicht mehr bis um 24 Uhr erreicht werden kann
 
-   werden Ihnen die Kosten für ein anderes Verkehrsmittel bis max. 120 Euro) ersetzt,
+   werden Ihnen die Kosten für ein anderes Verkehrsmittel bis max. 120 Euro ersetzt,
 * wenn das Eisenbahnunternehmen kein anderes Verkehrsmittel zur Verfügung stellt und
 * Sie mit dem Eisenbahnunternehmen - aus von diesem zu vertretenden Gründen - nicht in Kontakt treten können (Kontaktaufnahme vor Ort mit der Fahrkartenverkaufs- oder Informationsstelle des Eisenbahnunternehmens oder Personal des genutzten Zuges).
 
