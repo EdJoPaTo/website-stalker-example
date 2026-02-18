@@ -259,9 +259,15 @@ DB Gepäckservice
 
 ###  Entschädigung bei Verlust, Beschädigung und bei verspäteter Auslieferung  ###
 
+#### Detaillierte Infos ####
+
 * Bei gänzlichem oder teilweisen Verlust und Beschädigung des Reisegepäcks werden ohne weiteren Schadenersatz bei nachgewiesener Schadenshöhe eine Entschädigung in dieser Höhe, jedoch max. 1.200 Rechnungseinheiten (ca. 1.350,00 Euro) je Gepäckstück und ohne Nachweis der Schadenshöhe eine Pauschalentschädigung von 300 Rechnungseinheiten (ca. 338,00 Euro) je Gepäckstück gezahlt.
 * Bei verspäteter Auslieferung des Reisegepäcks werden für je angefangene 24 Stunden ab dem Verlangen auf Auslieferung max. für 14 Tage, bei nachgewiesenem Schaden eine Entschädigung in dieser Höhe, jedoch max. 14 Rechnungseinheiten (ca. 16,00 Euro) je verspätet ausgeliefertes Gepäckstück und ohne Nachweis der Schadenshöhe eine Pauschalentschädigung von 2,80 Rechnungseinheiten (ca. 3,00 Euro) je verspätet ausgeliefertes Gepäckstück gezahlt.
 * Der Wert einer Rechnungseinheit richtet sich nach dem jeweils aktuellen Sonderziehungsrecht (SZR).
+
+Diese Regelungen gelten ausschließlich für das DB-eigene Angebot DB Gepäckservice (für DB Gepäckservice-Aufträge, die von Privatkunden bis 14.01.2026 gebucht wurden, sowie für DB Gepäckservice-Aufträge für Rehabilitanden im Rahmen des Reha-Comfort-Tickets).
+
+Sie gelten nicht für den Gepäckversand von Hermes, das auf [www.bahn.de/gepaeckservice](http://www.bahn.de/gepaeckservice) zu finden ist. Das Hermes Angebot hat andere Regelungen.
 
 Voraussetzungen, um Fahrgastrechte geltend machen zu können
 ----------
