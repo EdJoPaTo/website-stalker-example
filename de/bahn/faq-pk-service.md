@@ -2150,7 +2150,7 @@ Die Liste der Fundstellen finden Sie hier auf der Seite.
  Wie verstaue ich mein Gepäck im Zug?
 ----------
 
-**Großes Gepäck in die Gepäckregale im Großraumbereich – oder vorschicken:** Für große Koffer gibt es in vielen Fernverkehrszügen Gepäckregale. Diese finden Sie entweder im Einstiegsbereich oder zwischen Sitzreihen innerhalb des Großraumbereichs. Alternativ können Sie große Gepäckstücke aber auch mit dem [DB Gepäckservice](http://www.bahn.de/gepaeckservice) vorschicken und nur mit leichtem Gepäck reisen.
+**Großes Gepäck in die Gepäckregale im Großraumbereich – oder vorschicken:** Für große Koffer gibt es in vielen Fernverkehrszügen Gepäckregale. Diese finden Sie entweder im Einstiegsbereich oder zwischen Sitzreihen innerhalb des Großraumbereichs. Alternativ können Sie große Gepäckstücke aber auch mit dem [Hermes Gepäckversand](https://www.bahn.de/angebot/zusatzticket/hermes-gepaeckversand) vorschicken und nur mit leichtem Gepäck reisen.
 
 **Gepäck über den Sitzen verstauen:** In den meisten Fernverkehrszügen gibt es in den Großraumbereichen sowie in den Abteilen über den Sitzen Gepäckablagen. Legen Sie hier Ihre Koffer und Taschen möglichst platzsparend hinein. Die kurze Seite sollte nach vorne zeigen. Bitte denken Sie dabei an die Köpfe Ihrer Mitfahrer und verstauen Sie das Gepäck stets sicher.
 
@@ -6192,17 +6192,6 @@ Für kostenfrei Reisende mit Schwerbehindertenausweis mit Beiblatt und Wertmarke
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erstattung-kosten-fuer-taxi-oder-hotel)
 
- Wie früh im Voraus kann ich DB Gepäckservice buchen?
-----------
-
-Den Gepäckservice können Sie bis zu 90 Tage im Voraus buchen.
-
-[Weitere Informationen zum Gepäckservice](https://www.bahn.de/angebot/zusatzticket/gepaeckservice)
-
-[Jetzt buchen Jetzt buchen](https://www.gepaeckservice-bahn.de/buchung.xhtml)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-frueh-im-voraus-kann-ich-db-gepaeckservice-buchen)
-
  Wie funktionieren die Benachrichtigungen zur Reise bei Umstiegen?
 ----------
 
@@ -6573,6 +6562,8 @@ Sie können Ihre Koffer bei sich zuhause abholen lassen und mit dem Hermes Gepä
 
 Das bisherige Angebot DB Gepäckservice ist für Privatkunden nicht mehr erhältlich.
 
+[Gepäckservice buchen](http://www.bahn.de/angebot/zusatzticket/hermes-gepaeckversand)
+
 [Weitere Informationen zum (Super) Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
 [Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
@@ -6620,17 +6611,6 @@ Die Streckenfavoriten werden Ihnen dann in der festgelegten Reihenfolge im Menü
 Sie können Ihr internationales Ticket als Online-Ticket (bzw. ticketless: e-ticket / PNR bei Zügen der Trenitalia) buchen. Dazu brauchen Sie nur eine gültige E-Mail-Adresse für die Buchungsbestätigung sowie eine Kreditkarte oder ein PayPal-Konto für die Zahlung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-internationales-ticket-buchen)
-
- Wie kann ich mein Reisegepäck vor meiner Reise versenden?
-----------
-
-Ohne Gepäck verreisen Sie einfach unbeschwerter! Wir nehmen Ihnen Ihre Koffer und andere Gepäckstücke gerne ab. Schicken Sie Ihren Koffer vor unter [gepaeckservice-bahn.de](https://www.gepaeckservice-bahn.de/buchung.xhtml).
-
-[Weitere Informationen zum Gepäckservice](https://www.bahn.de/angebot/zusatzticket/gepaeckservice)
-
-[Jetzt buchen Jetzt buchen](https://www.gepaeckservice-bahn.de/buchung.xhtml)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-reisegepaeck-vor-meiner-reise-versenden)
 
  Wie kann ich mein Sparpreis oder Super Sparpreis Europa-Ticket umtauschen?
 ----------
