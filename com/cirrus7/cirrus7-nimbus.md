@@ -60,7 +60,7 @@ Der cirrus nimbus ist modular aufgebaut. Das Herzstück des Kühlsystems ist ein
 
 |  CPU   |Intel core i3 / i5 / i7 / i9, Intel Core Ultra bis 9 285T, AM4/ AM5 (konfigurationsabhängig)|
 |--------|--------------------------------------------------------------------------------------------|
-|Chipsatz|                      Intel H610 / Intel H810 / Z790 / AMD B550 / 650                       |
+|Chipsatz|                    Intel H610 / Intel H810 / Z790 / B860/AMD B550 / 650                    |
 
 ### Main memory ###
 
