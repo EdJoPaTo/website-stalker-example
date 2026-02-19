@@ -74,7 +74,7 @@ Welche Angebote bietet netcup bei Root-Server, VPS, Domains und Webhosting an?
 
  ###
 
-Wir bieten dir zu immer wiederkehrenden Sale-Events eine immer unterschiedliche Auswahl aus den beliebten netcup Produktkategorien, wie Root-Server, VPS, Domains und Webhosting zu besonders günstigen Konditionen. Die Aktionsprodukte sind dabei nur für kurze Zeit als Deal verfügbar und unterscheiden sich zu den regulären Produkten im Preis und/oder Spezifikationen wie Speicherplatz und/oder CPU-Leistung.
+Wir bieten dir zu wiederkehrenden Sale-Events eine immer unterschiedliche Auswahl aus den beliebten netcup Produktkategorien, wie Root-Server, VPS, Domains und Webhosting zu besonders günstigen Konditionen. Die Aktionsprodukte sind dabei nur für kurze Zeit als Deal verfügbar und unterscheiden sich zu den regulären Produkten im Preis und/oder Spezifikationen wie Speicherplatz und/oder CPU-Leistung.
 
 ###
 
@@ -86,29 +86,29 @@ Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Akt
 
 ###
 
-Wie kann ich netcup Deals kaufen?
-
- ###
-
-Wähle hierzu einfach deinen gewünschten Deal-Artikel auf der Aktionsseite aus und führe den Bestellvorgang wie gewohnt aus. Wir wünschen dir viel Spaß beim Shoppen unserer Tech-Produkte!
-
-###
-
 Wie erfahre ich von aktuellen und zukünftigen Deals bei netcup?
 
  ###
 
-Um immer als Erster von unseren Deals zu erfahren, lohnt es sich, unseren Social-Media-Kanälen zu folgen oder unseren Newsletter zu abonnieren. Dort erfährst du, dass ein Sale-Event startet und neue netcup Deals verfügbar sind. Zusätzlich findest du dort auch immer wieder weitere Aktionen, Goodies oder Gewinnspiele.
+Um immer als Erster von unseren Deals zu erfahren, lohnt es sich, unseren Kanäle zu folgen oder unseren [Newsletter](https://www.netcup.com/de/newsletter)zu abonnieren. Dort erfährst du, dass ein Sale-Event startet und neue netcup Deals verfügbar sind. Zusätzlich findest du dort auch immer wieder weitere Aktionen, Goodies oder Gewinnspiele.
 
-Als Alternative kannst du gerne unserem [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/special-offers.xml?locale=de) beitreten, um über neue Deals und Aktionen informiert zu werden.
+Abonniere zusätzlich gerne unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de), um über neue Deals und Aktionen informiert zu werden.
 
 ###
 
-Wo finde ich die Sonderangebote von netcup?
+Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode?
 
  ###
 
-Auf dieser Seite findest du alle Informationen zu unseren Sonderangeboten bzw. Deals, die wir in regelmäßigen Abständen anbieten.
+Nein, der Preis der Aktion ist dauerhaft gültig - sofern nicht anders angegeben. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen entsprechend unserer [AGB](https://www.netcup.com/de/agb).
+
+###
+
+Was ist ein Flash Deal und wie lange bleibt dieser verfügbar?
+
+ ###
+
+Bei Flash Deals handelt es sich um zusätzliche, attraktive „Blitzangebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 2-4 Stunden. Du erkennst einen Flash Deal am speziellen Blitz-Icon. Sobald ein Flash Deal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
 
 ###
 
@@ -118,29 +118,7 @@ Können Gutscheine auf netcup Deals angewendet werden?
 
 Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, Groupware, SSL-Zertifikate oder Merchandise. Eine Kombination aus mehreren Gutscheinen ist nicht möglich. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
 
-###
-
-Wo finde ich günstige Domains und Webhostings bei netcup?
-
- ###
-
-Neben den regulär, attraktiven Preisen für Domains und Webhostings, findest du die besonders günstigen Angebote auf unserer netcup Deals Seite, die über aktuelle Aktionen informiert.
-
-###
-
-Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode?
-
- ###
-
-Nein, der Preis der Aktion ist dauerhaft gültig. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen nach unseren AGB.
-
-###
-
-Was soll ich tun, wenn mein Gutscheincode bei netcup nicht funktioniert?
-
- ###
-
-In diesem Fall würden wir dich bitten, dich an unseren Support unter folgender E-Mail-Adresse zu melden. Unser [Support](https://helpcenter.netcup.com/de/support)hilft dir bei diesem Anliegen gerne weiter.
+Wenn dein Gutscheincode nicht funktioniert, wende dich an unseren [Support](https://helpcenter.netcup.com/de/support).
 
 ###
 
@@ -152,19 +130,11 @@ Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann 
 
 ###
 
-Gibt es ein Bestelllimit pro Person?
-
- ###
-
-Grundsätzlich gibt es kein Bestelllimit. Für einige sehr beliebte Produkte gibt aber eine zeitliche Wartefrist nach der Bestellung, bis das Produkt erneut bestellt werden kann. Damit stellen wir sicher, dass alle Kund:innen eine faire Chance auf ein Produkt erhalten.
-
-###
-
 Ist die Bestpreis- und Zufriedenheitsgarantie auf die Aktionen anwendbar?
 
  ###
 
-Nein, die Bestpreisgarantie ist nicht auf die Aktionen anwendbar. Die Zufriedenheitsgarantie ist allerdings für Aktionen zu Webhosting- und Root-Server-Produkten gültig.
+Nein, die Bestpreisgarantie ist nicht auf Aktionen anwendbar. Die Zufriedenheitsgarantie ist allerdings für Aktionen zu Webhosting- und Root-Server-Produkten gültig.
 
 ###
 
@@ -205,14 +175,6 @@ Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter
 
 ###
 
-Wie wird der Rabatt bei Aktionen auf Server-Tarife berechnet?
-
- ###
-
-Der Rabatt für Root-Server und VPS ARM bei Aktionen richtet sich nach dem regulären Preis der Tarife mit einer Mindestlaufzeit von einem Monat. Für gewöhnlich entfällt bei Aktionen der Aufpreis für den Standort und den gewählten Tarif, was zu einem entsprechenden Preisvorteil führt. Bei VPS (x86) entfällt üblicherweise ebenfalls der Standort-Aufpreis. Bitte beachte, dass sich die aufgerufenen Aktionspreise und Angebote unter Umständen auch von Aktion zu Aktion verändern können.
-
-###
-
 Was bedeutet "Pro" bei unseren Aktionsprodukten?
 
  ###
@@ -229,37 +191,11 @@ Was bedeutet "Ultra" bei unseren Aktionsprodukten?
 
  ###
 
-„Ultra“ ist unsere neue Leistungsklasse für Root-Server Aktionsprodukte. Diese Kennzeichnung steht für noch mehr Power zu einem weiterhin attraktiven Preis.
+„Ultra“ ist unsere neue Leistungsklasse für Aktionsprodukte. Diese Kennzeichnung steht für noch mehr Power zu einem weiterhin attraktiven Preis.
 
 Im Vergleich zu unseren „Pro“-Produkten bieten „Ultra“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
 
 Beachte: Ultra-Tarife sind ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
-
-###
-
-Was ist ein Flashdeal und wie lange bleibt dieser verfügbar?
-
- ###
-
-Bei Flashdeals handelt es sich um zusätzliche, attraktive „Blitz-Angebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 1 - 2 Stunden. Du erkennst einen Flashdeal am speziellen Blitz-Icon.
-
-###
-
-Wie erfahre ich es, wenn ein Flashdeal verfügbar ist?
-
- ###
-
-Sobald ein Flashdeal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
-
-###
-
-Was ist ein Deal der Woche und wie lange bleibt dieser verfügbar?
-
- ###
-
-Der Deal der Woche ist ein ausgewähltes Angebot mit extra Rabatt oder attraktiven Extras. Im Gegensatz zu den Flash Deals hast du hier ein paar Tage länger Zeit zum Zugreifen.
-
-Der Deal der Woche ist von Montag bis Freitag 14:00 Uhr verfügbar - außer in den Wochen, in denen unsere monatlichen Aktionen stattfinden.
 
 netcup Angebote zu VPS und Root-Server
 ----------

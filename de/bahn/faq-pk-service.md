@@ -3279,6 +3279,17 @@ Trotz Komfort Check-in kann es vorkommen, dass das Zugpersonal weiterhin Ticketk
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kontrolle-trotz-kci)
 
+ Wie erstatten wir Ihre Kosten für die Nutzung anderer Züge?
+----------
+
+**Ist Ihr Zug mindestens 20 Minuten verspätet,** können Sie einen anderen Zug nutzen. Reservierungspflichtige Züge, wie z.B. NightJets oder einige Züge ins Ausland sind hiervon ausgenommen.
+
+**Falls Sie das Verkehrsmittel wechseln wollen,** also z.B. von einem Nahverkehrszug in einen ICE, IC oder EC, müssen Sie sich dafür zunächst eine passende Fahrkarte kaufen. Anschließend können Sie sich die Kosten von uns erstatten lassen.
+
+Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wertmarke fahren Sie in allen Nahverkehrszügen (IRE, RE, FEX, MEX, RB und S-Bahnen) kostenfrei.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-erstattung-nutzung-andere-zuege)
+
  Ist kostenfreie Kindermitnahme für Kinder bis 14 Jahre mit der BahnCard 100 möglich?
 ----------
 

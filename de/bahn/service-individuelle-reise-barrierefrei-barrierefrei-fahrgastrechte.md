@@ -80,6 +80,16 @@ Die Mobilitätsservice-Zentrale sucht gemeinsam mit Ihnen nach einer für Sie pa
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkarte-gebucht-ohne-bestaetigte-hilfeleistung)
 
+###  Wie erstatten wir Ihre Kosten für die Nutzung anderer Züge?  ###
+
+**Ist Ihr Zug mindestens 20 Minuten verspätet,** können Sie einen anderen Zug nutzen. Reservierungspflichtige Züge, wie z.B. NightJets oder einige Züge ins Ausland sind hiervon ausgenommen.
+
+**Falls Sie das Verkehrsmittel wechseln wollen,** also z.B. von einem Nahverkehrszug in einen ICE, IC oder EC, müssen Sie sich dafür zunächst eine passende Fahrkarte kaufen. Anschließend können Sie sich die Kosten von uns erstatten lassen.
+
+Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wertmarke fahren Sie in allen Nahverkehrszügen (IRE, RE, FEX, MEX, RB und S-Bahnen) kostenfrei.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-erstattung-nutzung-andere-zuege)
+
 ###  Wie werde ich bei bei Zugverspätungen entschädigt?  ###
 
 Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
