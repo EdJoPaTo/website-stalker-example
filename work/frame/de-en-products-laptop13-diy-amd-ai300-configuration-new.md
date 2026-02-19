@@ -63,13 +63,19 @@ System
 
   6-core/12-thread, up to 4.8GHz
 
+   
+
 * Ryzen™ AI 7 350  €1,459
 
   8-core/16-thread, up to 5.0GHz
 
+   
+
 * Ryzen™ AI 9 HX 370  €1,939
 
   12-core/24-thread, up to 5.1GHz
+
+   
 
 **Display**
 
@@ -81,10 +87,14 @@ Display
 
   * 13.5" 2256 x 1504 60Hz 2.2K matte display
 
+   
+
 * 2.8K Display
 
   * 13.5" 2880x1920 120Hz matte display
   * Note: display has rounded active area
+
+   
 
 **Memory**
 

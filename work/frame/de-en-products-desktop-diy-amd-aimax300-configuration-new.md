@@ -57,17 +57,23 @@ System
   * 32 Graphics Cores, up to 2.8GHz
   * 32GB of non-upgradeable LPDDR5x
 
+   
+
 * Max+ 395 - 64GB  €2,089
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
   * 64GB of non-upgradeable LPDDR5x
 
+   
+
 * Max+ 395 - 128GB  €2,919
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
   * 128GB of non-upgradeable LPDDR5x
+
+   
 
 **Primary Storage (M.2 2280)**
 
