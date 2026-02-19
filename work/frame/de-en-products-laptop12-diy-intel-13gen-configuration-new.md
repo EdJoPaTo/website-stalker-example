@@ -29,10 +29,24 @@ If you are a business customer, need more than five laptops or desktops per orde
 Color
 
 * Black
+
+   
+
 * Gray
+
+   
+
 * Lavender
+
+   
+
 * Bubblegum
+
+   
+
 * Sage
+
+   
 
 **System**
 
@@ -67,9 +81,13 @@ System
 
   * Up to 4.5GHz, 2+4 cores
 
+   
+
 * i5-1334U  €739
 
   * Up to 4.6GHz, 2+8 cores
+
+   
 
 **Memory**
 
