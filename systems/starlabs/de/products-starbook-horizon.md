@@ -66,7 +66,7 @@ StarPort 12-port USB-C PD Hub
 
 Ships
 
- End of February
+ 14 - 15 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 

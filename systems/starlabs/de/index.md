@@ -29,15 +29,15 @@ Browse our range
 
 [](/products/starlite)
 
-[StarLite €13,37 €13,37 Ships February](/products/starlite)
+[StarLite €13,37 Ships 21 - 22 business days](/products/starlite)
 
 [](/products/starbook)
 
-[StarBook €13,37 €13,37 Ships 1 - 2 business days](/products/starbook)
+[StarBook €13,37 Ships 1 - 2 business days](/products/starbook)
 
 [](/products/starbook-horizon)
 
-[StarBook Horizon €13,37 Ships End of February](/products/starbook-horizon)
+[StarBook Horizon €13,37 Ships 14 - 15 business days](/products/starbook-horizon)
 
 [](/products/starfighter)
 

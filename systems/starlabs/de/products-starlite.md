@@ -85,14 +85,8 @@ Includes:
 
 Ships
 
- February
+ 21 - 22 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/starlite) [Get Notified When Available](#)
-
- StarLite returns
-
- Shipping begins in February.
-
-Pre-order now and [save 5%]().
