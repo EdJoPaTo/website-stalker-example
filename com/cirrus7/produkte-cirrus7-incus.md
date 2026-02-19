@@ -135,14 +135,12 @@ cirrus incus
   * **64 GB DDR4 (2x32GB)**
     SO-DIMM – 3200MHz
 
-  ##### Hauptspeicher (RAM) #####
-
-  Wählen Sie die Größe des Hauptspeichers.
-
   * 4800 MHz
   * 5600 MHz
 
-  RAM-Geschwindigkeit auswählen.
+  ##### Hauptspeicher (RAM) #####
+
+  Wählen Sie die Größe des Hauptspeichers.
 
   * **8 GB DDR5 (1x 8GB)**
     SO-DIMM – 4800MHz
