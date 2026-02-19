@@ -128,6 +128,9 @@ cirrus nimbus
   * **1x USB-C 3.1**
     (10Gb/s)
 
+  * **1x USB-C 3.1**
+    (10Gb/s)
+
   ##### Plattform wählen #####
 
   ##### Mainboard #####

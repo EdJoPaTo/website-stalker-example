@@ -281,15 +281,15 @@ JGAs
 
 ---
 
-[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=startseite_FS26)
+[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/)
 
-[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/?itemorigin=startseite_FS26)
+[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/)
 
-[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=startseite_FS26)
+[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/)
 
-[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?itemorigin=startseite_FS26)
+[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/)
 
-[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?itemorigin=startseite_FS26)
+[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/)
 
 ####  Newsletter  ####
 
