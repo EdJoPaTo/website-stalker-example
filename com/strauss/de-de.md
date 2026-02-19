@@ -52,6 +52,28 @@ Gültig bis 28.02.2026 | Solange der Vorrat reicht
 
 [](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
 
+ jetzt neu
+
+ READY?
+---
+
+ FLEX
+---
+
+ SET
+---
+
+ Sets flexibel zusammenstellen
+
+ Die neue Art Sets zu bauen
+----------
+
+---
+
+Ein Set, unzählige Möglichkeiten: Ihre Farben, Ihre Größen, Ihre Gratis-Artikel.
+
+[jetzt ausprobieren und sparen](https://www.strauss.com/de/de/flexible-sets/?itemorigin=startseite_FS26)
+
  Neuheiten
 
 ###  Neue Saison, neue Styles
