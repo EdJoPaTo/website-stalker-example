@@ -12,6 +12,7 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 
 [Blog](/blog)
 
+* [CloudPebble Returns! Plus New Pure JavaScript and Round 2 SDK](/blog/cloudpebble-returns-plus-pure-javascript-and-round-2-sdk)
 * [February Pebble Production and Software Updates](/blog/february-pebble-production-and-software-updates)
 * [Pebble Round 2 - The Most Stylish Pebble Ever](/blog/pebble-round-2-the-most-stylish-pebble-ever)
 * [Meet Pebble Index 01 - External Memory For Your Brain](/blog/meet-pebble-index-01-external-memory-for-your-brain)
