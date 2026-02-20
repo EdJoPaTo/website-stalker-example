@@ -6,9 +6,9 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 
 **Our goal is simple**: build awesome smartwatches and other gadgets, for ourselves and like-minded folks. Things are different this time round. There are no investors. The majority of our work is open source. We're not trying to take over the world. We just dream up new devices that we'd like to use and build them.
 
-[Pebble Mobile AppCompanion app for iOS and Android](https://rePebble.com/app)[Pebble Appstore15,000 beautiful watchfaces and watchapps](https://apps.rePebble.com)[Discussion ForumGet tips, tricks and help from the Pebble community](https://forum.repebble.com)
+[Pebble Mobile AppDownload the companion app for iOS and Android](https://rePebble.com/app)[Pebble Appstore15,000 beautiful watchfaces and watchapps](https://apps.rePebble.com)[Discussion ForumGet tips, tricks and help from the Pebble community](https://forum.repebble.com)
 
-[Developer InfoBuild a watchapp or watchface for Pebble in under 5 mins in your browser](https://developer.rePebble.com)[Open SourceOur watches are powered by 100% open source software](https://github.com/coredevices)
+[Developer InfoInstall the SDK, read tutorials and developer documentation](https://developer.rePebble.com)[CloudPebbleBuild a watchapp or watchface for Pebble in under 5 mins in your browser](https://cloudpebble.repebble.com)[Open SourceOur watches are powered by 100% open source software](https://github.com/coredevices)
 
 [Blog](/blog)
 
@@ -18,7 +18,6 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 * [Meet Pebble Index 01 - External Memory For Your Brain](/blog/meet-pebble-index-01-external-memory-for-your-brain)
 * [Pebble Watch Software Is Now 100% Open Source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [The new Pebble app is live on iOS and Android](https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android)
-* [(re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore)
 
 [Manage My Order](https://orders.repebble.com) · [Help](https://ndocs.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric)
 
