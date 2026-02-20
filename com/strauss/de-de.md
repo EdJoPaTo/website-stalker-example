@@ -281,9 +281,9 @@ JGAs
 
 ---
 
-[Bekleidung](https://www.strauss.com/de/de/arbeitskleidung/)
+[Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/)
 
-[Schuhe](https://www.strauss.com/de/de/arbeitsschuhe/)
+[Arbeitsschuhe](https://www.strauss.com/de/de/arbeitsschuhe/)
 
 [Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/)
 
