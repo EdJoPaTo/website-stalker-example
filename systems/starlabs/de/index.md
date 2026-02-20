@@ -41,7 +41,7 @@ Browse our range
 
 [](/products/starfighter)
 
-[StarFighter €13,37 Ships Late February](/products/starfighter)
+[StarFighter €13,37 Ships 2-3 weeks](/products/starfighter)
 
 More than just a licence.
 
