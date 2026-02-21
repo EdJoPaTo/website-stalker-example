@@ -253,7 +253,7 @@ dsp, sigmastudio
 
 updated 2020-01-20
 
-[Simple recordings using arecord/aplay](https://www.hifiberry.com/docs/software/simple-recordings-using-arecord-aplay/)
+[Simple recordings using arecord/aplay](https://www.hifiberry.com/simpl-recordings-using-arecord-aplay/)
 
 adc, alsa, first steps, hifiberryos
 
