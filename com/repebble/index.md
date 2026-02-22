@@ -19,6 +19,6 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 * [Pebble Watch Software Is Now 100% Open Source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [The new Pebble app is live on iOS and Android](https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android)
 
-[Manage My Order](https://orders.repebble.com) · [Help](https://ndocs.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric)
+[Manage My Order](https://orders.repebble.com) · [Help](https://ndocs.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric) · [GitHub](https://github.com/coredevices)
 
 © 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
