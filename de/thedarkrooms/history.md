@@ -7,17 +7,25 @@ HISTORY
 
 [ARTISTS A-Z](https://www.thedarkrooms.de/history-artists)
 
+[](https://www.lostartfestival.com)
+
+Lost Art Festival Vol. 3 - 2025
+
+[](https://www.thedarkrooms.de/thedarkroomshotel)
+
+The Dark Rooms Hotel - 2025
+
 [](https://www.thedarkrooms.de/next-exhibition)
 
 The Dark Rooms Vertical with Boris Acket- 2024
 
-[](https://www.thedarkrooms.de/himmelunterberlin2023)
-
-Himmel unter Berlin Vol. II 2023
-
 [](https://www.thedarkrooms.de/january-2024)
 
 The Dark Rooms Vertical - 2024
+
+[](https://www.thedarkrooms.de/himmelunterberlin2023)
+
+Himmel unter Berlin Vol. II 2023
 
 [](https://www.thedarkrooms.de/himmelunterberlin2022)
 
