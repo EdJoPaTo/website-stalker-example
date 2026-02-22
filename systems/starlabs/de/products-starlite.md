@@ -67,8 +67,6 @@ Tempered Glass Screen Protector – 2-Pack
 
 StarPort 12-port USB-C PD Hub
 
-Micro HDMI to HDMI Adapter
-
 USB-A to Ethernet Adapter
 
 USB-C to USB-A Adapter

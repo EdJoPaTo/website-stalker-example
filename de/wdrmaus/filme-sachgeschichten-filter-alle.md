@@ -421,6 +421,7 @@
 * [Gliederpuppe](https://www.wdrmaus.de/filme/sachgeschichten/gliederpuppe.php5)
 * [Globus 1](https://www.wdrmaus.de/filme/sachgeschichten/globus_1.php5)
 * [Globus 2](https://www.wdrmaus.de/filme/sachgeschichten/globus_2.php5)
+* [Glückskekse](https://www.wdrmaus.de/filme/sachgeschichten/glueckskekse.php5)
 * [Glühlampe](https://www.wdrmaus.de/filme/sachgeschichten/gluehlampe.php5)
 * [Glühwürmchen](https://www.wdrmaus.de/filme/sachgeschichten/gluehwuermchen.php5)
 * [Go](https://www.wdrmaus.de/filme/sachgeschichten/go.php5)
