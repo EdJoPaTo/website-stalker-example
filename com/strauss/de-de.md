@@ -4,11 +4,41 @@ neue Meister
 
 ---
 
- Die STRAUSS Sneaker Mania!
+ Neue Berufs- und Sicherheitsschuhe im Sneaker Style
 
-[direkt zu den Angeboten](https://www.strauss.com/de/de/neuheiten-berufsschuhe/?itemorigin=startseite_FS26)
+[Berufsschuhe](https://www.strauss.com/de/de/neuheiten-berufsschuhe/?itemorigin=startseite_FS26)
 
- \*Gültig bis Sonntag, 22.02.2026, ausschließlich auf ausgewählte Produkte. Nur solange der Vorrat reicht.
+[Sicherheitsschuhe](https://www.strauss.com/de/de/neuheiten-sicherheitsschuhe/?itemorigin=startseite_FS26)
+
+[Berufsschuhe](https://www.strauss.com/de/de/neuheiten-berufsschuhe/?itemorigin=startseite_FS26)
+
+[Sicherheitsschuhe](https://www.strauss.com/de/de/neuheiten-sicherheitsschuhe/?itemorigin=startseite_FS26)
+
+ 01
+---
+
+ Schuh ohne
+Zehenschutz
+
+ 01
+---
+
+ Schuh ohne
+Zehenschutz
+
+ \+4
+
+ O1 Berufsschuhe
+ e.s. Brockton low
+
+[](https://www.strauss.com/de/de/berufsschuhe-o1/o1-berufsschuhe-e-s-brockton-low-1003520-86231-27.html?itemorigin=startseite_FS26)
+
+ \+6
+
+ O1 Berufsschuhe
+ e.s. Brockton low
+
+[](https://www.strauss.com/de/de/berufsschuhe-o1/o1-berufsschuhe-e-s-brockton-low-1003520-86231-27.html?itemorigin=startseite_FS26)
 
  Bereit für
  Action
