@@ -607,10 +607,10 @@ Beim Kauf im Reisezentrum können Sie den 1. Monat bar oder mit Karte bezahlen. 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte-lastschrift)
 
- Wie viel kostet das Deutschland-Ticket ab 1. Januar 2026?
+ Wie viel kostet das Deutschland-Ticket?
 ----------
 
-Ab 1. Januar 2026 kostet das Deutschland-Ticket **63 Euro pro Monat**.
+Das Deutschland-Ticket kostet **63 Euro pro Monat**.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
