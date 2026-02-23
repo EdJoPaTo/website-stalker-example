@@ -28,7 +28,7 @@ Die aktuellen Speisekarten von Bordbistro und -restaurant.
 
 [Zur Bordgastronomie Mehr zur Bordgastronomie](https://www.bahn.de/service/zug/bordgastronomie)
 
-[Zu Bestellen am Platz Zu Bestellen am Platz](https://www.bahn.de/service/zug/bordgastronomie/digitale-bordgastronomie)
+[Digitale Bordgastronomie Zu Digitale Bordgastronomie](https://www.bahn.de/service/zug/bordgastronomie/digitale-bordgastronomie)
 
 ### Sitzplatzkomfort ###
 

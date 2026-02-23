@@ -44,14 +44,14 @@ Kompromisslose Leistung ist nun endlich auch lüfterlos und damit lautlos erlebb
 
 ### Processor ###
 
-|Processor type|AMD Ryzen bis Ryzen 7 9700X / Intel Core bis i9-14900T|
-|--------------|------------------------------------------------------|
+|Processor type|AMD Ryzen bis Ryzen 7 9700X / Intel Core bis i9-14900T / Intel Core Ultra 9 285T|
+|--------------|--------------------------------------------------------------------------------|
 
 ### Main memory ###
 
 |   Speichertyp   |     DDR4 SO-DIMM / DDR5 SO-DIMM     |
 |-----------------|-------------------------------------|
-|  Speichergröße  |  8-128 GB (konfigurationsabhängig)  |
+|  Speichergröße  |  8-64 GB (konfigurationsabhängig)   |
 |  Taktfrequenz   |bis 5600 MHz (konfigurationsabhängig)|
 |Anzahl DIMM-Slots|          2 (Dual Channel)           |
 
