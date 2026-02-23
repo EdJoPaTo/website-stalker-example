@@ -22,7 +22,7 @@ OBJECT STORAGE
 
         4. 99  monthly
 
-         Storage per bucket
+         Storage
 
          additional storage 4.99 /TB
 
