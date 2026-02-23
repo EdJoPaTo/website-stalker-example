@@ -5,7 +5,7 @@ Get your new Pebble watch
 
 [NEWPebble Round 2! Read the announcement](/blog/pebble-round-2-the-most-stylish-pebble-ever)
 
-My new company (Core Devices) and I are proud to introduce new watches that closely follow the original Pebble DNA. If you had a Pebble and loved it, or missed your chance 10 years ago but heard about it since, we think you will really enjoy these new devices.
+We are proud to introduce new watches that closely follow the original Pebble DNA. If you had a Pebble and loved it, or missed your chance 10 years ago but heard about it since, we think you will really enjoy these new devices.
 
 For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functionality, long battery life and a fun, quirky design. It first launched on [Kickstarter](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android/) in 2012.
 
