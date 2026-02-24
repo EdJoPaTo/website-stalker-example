@@ -503,7 +503,7 @@ Ja, eine Nutzung der 1. Klasse im Schienenpersonennahverkehr (SPNV) z.B. RE, RB 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mybc100-1klasse-im-nahverkehr-in-1klasse-nutzen)
 
- Was ist die Probe BahnCard 25/50 Gold und zu welchem Preis bekomme ich sie im Aktionszeitraum?
+ Was ist die Probe BahnCard 25/50 Gold?
 ----------
 
 Die Probe BahnCard 25/50 Gold ist eine reguläre Probe BahnCard 25/50 und somit eine Rabattkarte der Deutschen Bahn. Sie hat eine Gültigkeit von 3 Monaten und läuft danach in ein reguläres Abo über.
@@ -533,7 +533,7 @@ Sie konnten die Probe BahnCard 25/50 Gold auf bahn.de und in der App DB Navigato
  Bis zu welchem Tag kann ich die Probe BahnCard 25/50 Gold erwerben?
 ----------
 
-Die Aktion lief vom 16. Januar bis 5. Februar 2026.
+Die Aktionskarte konnte vom 16. Januar bis 5. Februar 2026 erworben werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-erwerben)
 
@@ -567,7 +567,7 @@ Die Kündigung Ihrer BahnCard können Sie in Textform an den BahnCard-Service ri
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-kuendigen-wie)
 
- Zu welchem Preis bekomme ich die Probe BahnCard 25/50 Gold im Aktionszeitraum?
+ Was kostet die Probe BahnCard 25/50 Gold im Aktionszeitraum?
 ----------
 
 Preis Probe BahnCard 25 Gold:
