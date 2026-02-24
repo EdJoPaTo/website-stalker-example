@@ -512,7 +512,7 @@ Eine Probe BahnCard 25 Gold berechtigt den Inhaber zur Inanspruchnahme eines Bah
 
 Eine Probe BahnCard 50 Gold berechtigt den Inhaber zur Inanspruchnahme eines BahnCard-Rabattes in von 25 % auf die Super Spar- und Sparpreise sowie 50 % auf Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
 
-Außerdem: Alle, die im Besitz der Probe BahnCard Gold sind, reisen am Folgetag einer Goldmedaille für das deutsche Team bei den Winterspielen Milano Cortina (6. bis 22. Februar 2026) gratis durch ganz Deutschland.
+Außerdem: Alle, die im Besitz der Probe BahnCard Gold sind, reisen am Folgetag einer Goldmedaille für das deutsche Team bei den Paralympischen Winterspielen Milano Cortina (6. bis 15. März 2026) gratis durch ganz Deutschland.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion)
 
@@ -540,7 +540,7 @@ Die Aktionskarte konnte vom 16. Januar bis 5. Februar 2026 erworben werden.
  Wann kann ich mit der Probe BahnCard 25/50 Gold gratis fahren?
 ----------
 
-Im Zeitraum der Winterspiele Milano Cortina (6. bis 22. Februar 2026) fahren Sie mit der Probe BahnCard 25/50 Gold immer am Folgetag (00:00 Uhr – 24:00 Uhr) nach dem Gewinn einer Goldmedaille für das deutsche Team umsonst durch ganz Deutschland.
+Im Zeitraum der Paralympischen Winterspiele Milano Cortina (6. bis 15. März 2026) fahren Sie mit der Probe BahnCard 25/50 Gold immer am Folgetag (00:00 Uhr – 24:00 Uhr) nach dem Gewinn einer Goldmedaille für das deutsche Team umsonst durch ganz Deutschland.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-fahrten)
 
