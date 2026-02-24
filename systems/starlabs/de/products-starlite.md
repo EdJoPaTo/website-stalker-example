@@ -37,6 +37,10 @@ French
 
 Nordic
 
+Italian
+
+Swiss
+
  MPP Active Pen
 
  None
