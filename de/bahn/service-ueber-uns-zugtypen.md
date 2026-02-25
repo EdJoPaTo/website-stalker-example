@@ -1,14 +1,11 @@
 Züge im Fernverkehr und Streckenkarten
 ==========
 
-Im Fernverkehr der Deutschen Bahn sind verschiedene Zugtypen für Sie unterwegs. Oder Sie möchten innerhalb eines Landes oder zwischen mehreren Ländern im europäischen Ausland reisen? Für einige Auslandsbahnen können Sie Ihre Fahrkarte auch bei uns buchen.
+Im Fernverkehr der Deutschen Bahn sind verschiedene Zugtypen für Sie unterwegs. Hier finden Sie alle Zugtypen im Überblick.
 
 Züge im Fernverkehr und Streckenkarten
 
-Im Fernverkehr der Deutschen Bahn sind verschiedene Zugtypen für Sie unterwegs. Oder Sie möchten innerhalb eines Landes oder zwischen mehreren Ländern im europäischen Ausland reisen? Für einige Auslandsbahnen können Sie Ihre Fahrkarte auch bei uns buchen.
-
-* [Springe zu: Fernverkehrszüge und Streckenkarten der Deutschen Bahn](https://www.bahn.de/service/ueber-uns/zugtypen#fv)
-* [Springe zu: Die Auslandsbahnen im Überblick](https://www.bahn.de/service/ueber-uns/zugtypen#ausland)
+Im Fernverkehr der Deutschen Bahn sind verschiedene Zugtypen für Sie unterwegs. Hier finden Sie alle Zugtypen im Überblick.
 
 Detaillierte Informationen zu Zügen des Fernverkehrs
 ----------
