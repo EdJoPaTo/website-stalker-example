@@ -5,12 +5,6 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
-### Wichtige Information ###
-
-**Leider müssen wir den geplanten Winter Sale kurzfristig absagen.** Im netcup-Forum erklärt unser CEO Alexander Windbichler die Hintergründe ausführlich. Wir danken für euer Verständnis.
-
-[Mehr Infos im netcup Forum\>](https://forum.netcup.de/informationen/netcup-community/netcup-updates/21752-rampocalypse-an-honest-update-on-the-hardware-situation/)
-
 Bleibe auf dem Laufenden
 ----------
 

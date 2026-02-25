@@ -14,13 +14,17 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### MALLORCA ###
+### dresden ###
 
-### 21. Februar 2026 ###
+### 7. März 2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/mallorca)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/dresden)
+
+### 25KM ###
+
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/kopie-von-dresden)
 
 [Location](https://www.megamarsch.de/ostsee)
 
