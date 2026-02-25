@@ -2272,7 +2272,7 @@ Folgende Standardabmessungen wurden bei der Dimensionierung der Gepäckregale un
  Warum erhalte ich eine Fehlermeldung beim Einlösen meines Gutscheins?
 ----------
 
-Achten Sie bei der Einlösung auf einen möglichen Aktionszeitraum, den Einlösebedingungen, wie zum Beispiel einen Mindestbestellwert oder einen Einlösezeitraum.
+Achten Sie bei der Einlösung auf einen möglichen Aktionszeitraum, den Einlösebedingungen, wie zum Beispiel einen Mindestbestellwert, oder einen Einlösezeitraum.
 
 Stimmen alle Angaben und Sie bekommen dennoch einen Fehler, rufen Sie uns unter [030 2970](tel:030 2970) an.
 
