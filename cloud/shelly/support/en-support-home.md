@@ -5,6 +5,46 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
+ 30M Devices Sold Campaign – Important Information
+----------
+
+### 📅 Campaign Period ###
+
+**Standard Campaign:**
+ 25 February 2026, 09:00 AM EET (UTC +2)
+ until
+ 03 March 2026, 11:59 PM EET (UTC +2)
+
+⚠️ All promotions are valid only within these dates and while stocks last.
+
+---
+
+### 👤 For All Customers ###
+
+* **Automatic discounts at checkout:**
+  * 10% over 100 EUR / GBP
+  * 20% over 200 EUR / GBP
+  * 30% over 300 EUR / GBP
+
+* Only one discount tier applies per order (not stackable).
+* Shipping costs, taxes, and customs duties are not discounted.
+* Excluded products: with tag “New”, “Works with Shelly”, and Shelly Plug M Gen3 (all variants and packs).
+* Refunds are based on the discounted price paid.
+* **Vouchers/discount codes:** All vouchers and discount codes are temporarily disabled during the Campaign and cannot be applied. They can be used again after the Campaign ends.
+* [Check Terms & Conditions for full details](https://www.shelly.com/pages/30m-t-c)
+
+---
+
+### ⭐ Additional Rules for VIP Users ###
+
+* Login with the VIP-registered email is required.
+* **Free standard shipping (terms apply; not valid for all destinations):**
+  * **Eligible EU countries** – free standard shipping over 100 EUR (after discount).
+  * **Bulgaria:** free standard shipping over 51.13 EUR.
+  * **Germany & Italy:** free standard shipping over 79 EUR.
+
+* [Check Terms & Conditions for full details (VIP users only)](https://www.shelly.com/pages/30m-vip-t-c)
+
 Knowledge base
 ----------
 
