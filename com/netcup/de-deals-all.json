@@ -204,16 +204,6 @@
 	"Zum Newsletter",
 	"#newsletter",
 	"2024-10-18T07:14:45.569Z",
-	"<h3>Wichtige Information</h3><p><strong>Leider müssen wir den geplanten Winter Sale kurzfristig absagen.</strong> Im netcup-Forum erklärt unser CEO Alexander Windbichler die Hintergründe ausführlich. Wir danken für euer Verständnis.</p>",
-	"twoTen",
-	18.1,
-	2.72,
-	"2025-07-03T07:45:06.164Z",
-	"2026-02-05T14:29:11.088Z",
-	"button",
-	"Mehr Infos im netcup Forum",
-	"https://forum.netcup.de/informationen/netcup-community/netcup-updates/21752-rampocalypse-an-honest-update-on-the-hardware-situation/",
-	"2026-02-23T19:21:29.290Z",
 	"5 € Gutschein + Insider-Zugang",
 	"<p>Erhalte Insiderwissen zu exklusiven Neuigkeiten, Tipps und Angeboten und sichere dir einen <strong>5-Euro-Willkommensgutschein</strong>, indem du unseren Newsletter abonnierst!</p>",
 	"fourEight",
@@ -440,5 +430,12 @@
 	[
 		"Set"
 	],
+	[
+		"NuxtError"
+	],
+	"[GET] \"/api/v2/content/sections/2083\": 404 Not Found",
+	"Not Found",
+	"http://www.netcup.com/api/v2/content/sections/2083",
+	"No section found",
 	{}
 ]

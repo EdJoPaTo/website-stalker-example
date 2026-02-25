@@ -85,27 +85,6 @@ Auf diesen Strecken sind unsere Fernverkehrszüge tagtäglich im Einsatz.
 
 [Zu den Streckenkarten Zu den Streckenkarten im Fernverkehr](https://www.bahn.de/service/ueber-uns/zugtypen/streckenkarte)
 
-Die Auslandsbahnen im Überblick
-----------
-
-### ÖBB Railjet ###
-
-* Premiumzug der ÖBB
-* In 4 Stunden von München nach Wien
-
-[Weitere Infos zum ÖBB Railjet Weitere Infos zum ÖBB Railjet](https://www.bahn.de/service/ueber-uns/zugtypen/railjet)
-
-[Jetzt buchen ÖBB Railjet: Jetzt buchen](https://www.bahn.de/buchung/intern/start)
-
-### Eurostar ###
-
-* Schnell und bequem mit dem Eurostar nach London
-* In **rund 5:30 Stunden** von Köln über Brüssel nach London
-
-[Weitere Infos zum Eurostar Weitere Infos zum Eurostar](https://www.bahn.de/service/ueber-uns/zugtypen/eurostar)
-
-[Jetzt buchen Eurostar: Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1:1&zo=London)
-
 Das könnte Sie auch interessieren
 ----------
 
