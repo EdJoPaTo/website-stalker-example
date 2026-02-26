@@ -21,10 +21,15 @@ Mit **ARMv8** und **Aarch64-Unterstützung** bieten unsere ARM-Server eine breit
 VPS 1000 ARM G11
 
 * 6 vCore (ARM64)
+
 * 8 GB RAM
+
 * 256 GB NVMe
+
 * Traffic inklusive
+
 * Konsole zur Fernwartung
+
 * Backupsystem uvm...
 
  Details \>
@@ -40,10 +45,15 @@ bereits ab monatlich
 VPS 2000 ARM G11
 
 * 10 vCore (ARM64)
+
 * 16 GB RAM
+
 * 512 GB NVMe
+
 * Traffic inklusive
+
 * Konsole zur Fernwartung
+
 * Backupsystem uvm...
 
  Details \>
@@ -59,10 +69,15 @@ bereits ab monatlich
 VPS 3000 ARM G11
 
 * 12 vCore (ARM64)
+
 * 24 GB RAM
+
 * 768 GB NVMe
+
 * Traffic inklusive
+
 * Konsole zur Fernwartung
+
 * Backupsystem uvm...
 
  Details \>
@@ -78,10 +93,15 @@ bereits ab monatlich
 VPS 4000 ARM G11
 
 * 14 vCore (ARM64)
+
 * 32 GB RAM
+
 * 1024 GB NVMe
+
 * Traffic inklusive
+
 * Konsole zur Fernwartung
+
 * Backupsystem uvm...
 
  Details \>
@@ -97,10 +117,15 @@ bereits ab monatlich
 VPS 6000 ARM G11
 
 * 16 vCore (ARM64)
+
 * 48 GB RAM
+
 * 1536 GB NVMe
+
 * Traffic inklusive
+
 * Konsole zur Fernwartung
+
 *
 * Backupsystem uvm...
 
@@ -117,10 +142,15 @@ bereits ab monatlich
 VPS 8000 ARM G11
 
 * 18 vCore (ARM64)
+
 * 64 GB RAM
+
 * 2048 GB NVMe
+
 * Traffic inklusive
+
 * Konsole zur Fernwartung
+
 * Backupsystem uvm...
 
  Details \>
