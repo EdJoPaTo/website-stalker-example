@@ -16,15 +16,10 @@ Unsere vServer Lite Tarife sind **dauerhaft preisoptimiert** und bieten ein **be
 VPS piko G11s
 
 * 1 vCore (x86)
-
 * 1 GB RAM
-
 * 30 GB SSD
-
 * Traffic inklusive
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -40,15 +35,10 @@ monatlich nur
 VPS nano G11s
 
 * 2 vCore (x86)
-
 * 2 GB RAM
-
 * 60 GB SSD
-
 * Traffic inklusive
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -66,15 +56,10 @@ NEU
 VPS Lite 1 G12s
 
 * 2 vCore (x86)
-
 * 4 GB RAM
-
 * 80 GB SSD
-
 * Traffic inklusive
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -92,15 +77,10 @@ NEU
 VPS Lite 2 G12s
 
 * 4 vCore (x86)
-
 * 8 GB RAM
-
 * 160 GB SSD
-
 * Traffic inklusive
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -118,15 +98,10 @@ NEU
 VPS Lite 3 G12s
 
 * 8 vCore (x86)
-
 * 16 GB RAM
-
 * 320 GB SSD
-
 * Traffic inklusive
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -144,15 +119,10 @@ NEU
 VPS Lite 4 G12s
 
 * 16 vCore (x86)
-
 * 32 GB RAM
-
 * 640 GB SSD
-
 * Traffic inklusive
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>

@@ -20,15 +20,10 @@ Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](htt
 RS 1000 G12
 
 * AMD EPYC™ 9645
-
 * 8 GB DDR5 RAM (ECC)
-
 * 4 dedizierte Kerne
-
 * 256 GB NVMe
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -44,15 +39,10 @@ bereits ab monatlich
 RS 2000 G12
 
 * AMD EPYC™ 9645
-
 * 16 GB DDR5 RAM (ECC)
-
 * 8 dedizierte Kerne
-
 * 512 GB NVMe
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -68,15 +58,10 @@ bereits ab monatlich
 RS 4000 G12
 
 * AMD EPYC™ 9645
-
 * 32 GB DDR5 RAM (ECC)
-
 * 12 dedizierte Kerne
-
 * 1 TB NVMe
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -92,15 +77,10 @@ bereits ab monatlich
 RS 8000 G12
 
 * AMD EPYC™ 9645
-
 * 64 GB DDR5 RAM (ECC)
-
 * 16 dedizierte Kerne
-
 * 2 TB NVMe
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -116,15 +96,10 @@ bereits ab monatlich
 RS 12000 G12
 
 * AMD EPYC™ 9645
-
 * 96 GB DDR5 RAM (ECC)
-
 * 20 dedizierte Kerne
-
 * 3 TB NVMe
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>
@@ -140,15 +115,10 @@ bereits ab monatlich
 RS 16000 G12
 
 * AMD EPYC™ 9645
-
 * 128 GB DDR5 RAM (ECC)
-
 * 24 dedizierte Kerne
-
 * 4 TB NVMe
-
 * Snapshots (Copy-On-Write)
-
 * Remote-Konsole uvm...
 
  Details \>

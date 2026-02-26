@@ -16,11 +16,17 @@ Leistungsstarke [Root-Server](https://www.netcup.com/de/server/root-server) mit 
 RS 2000 vGPU 7
 
 * NVIDIA™ H200
+
 * 7 GB VRAM (dediziert)
+
 * AMD EPYC™ 9535
+
 * 8 vCore (dediziert)
+
 * 16 GB DDR5 RAM (ECC)
+
 * 512 GB NVMe SSD
+
 * Standort: Nürnberg, Deutschland
 
  Details \>
@@ -36,11 +42,17 @@ bereits ab monatlich
 RS 4000 vGPU 14
 
 * NVIDIA™ H200
+
 * 14 GB VRAM (dediziert)
+
 * AMD EPYC™ 9535
+
 * 12 vCore (dediziert)
+
 * 32 GB DDR5 RAM (ECC)
+
 * 1 TB NVMe SSD
+
 * Standort: Nürnberg, Deutschland
 
  Details \>
