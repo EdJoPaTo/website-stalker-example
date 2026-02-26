@@ -11,6 +11,15 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+Unreleased
+----------
+
+**Available as `1.7.5-beta1`**
+
+### Added ###
+
+* Introduce [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning) - automatically disable open AP & BLE RPC once device provisioning is complete
+
 [1.7.4] 2026-01-27
 ----------
 
