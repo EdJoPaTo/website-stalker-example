@@ -1085,7 +1085,7 @@ Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Naviga
 
 * Nutzen Sie Ihr DB Kundenkonto auch bei Ihren Buchungen auf der Webseite und mit unserer App DB Navigator
 
-[Zu den Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
+* [Zu den Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-kundenkonto-um-ticket-zu-buchen)
 

@@ -3,7 +3,7 @@ Spotlight
 
 Unternehmen die nachhaltig handeln, für sozialen Wohlstand sorgen oder das Gemeinwohl fördern, verdienen einen Platz im Rampenlicht. Und den bieten wir ihnen in unserem Spotlight. Unser Interview-Blog lässt Menschen zu Wort kommen, die sich tagtäglich dafür einsetzen, unsere Welt besser zu machen. Lies dich einfach quer durch und lerne innovativen Unternehmen und die Köpfe dahinter kennen.
 
-[guud](/community/spotlight/guud-ohefkjsdfjnskjdfkejknajfnsfjskejna/)
+[guud](/community/spotlight/guud/)
 ----------
 
 “Mitarbeiter-Benefits nachhaltiger machen!” Mit dieser Mission hat Co-Gründerin Alina das Unternehmen guud gegründet. Was es damit auf sich hat erfährst du wenn du weiter clickst.
