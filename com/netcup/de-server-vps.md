@@ -18,10 +18,15 @@ vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder 
 VPS 500 G12
 
 * 2 vCore (x86)
+
 * 4 GB DDR5 RAM (ECC)
+
 * 128 GB NVMe
+
 * Traffic inklusive
+
 * Snapshots (Copy-On-Write)
+
 * Remote-Konsole uvm...
 
  Details \>
@@ -37,10 +42,15 @@ VPS 500 G12
 VPS 1000 G12
 
 * 4 vCore (x86)
+
 * 8 GB DDR5 RAM (ECC)
+
 * 256 GB NVMe
+
 * Traffic inklusive
+
 * Snapshots (Copy-On-Write)
+
 * Remote-Konsole uvm...
 
  Details \>
@@ -56,10 +66,15 @@ VPS 1000 G12
 VPS 2000 G12
 
 * 8 vCore (x86)
+
 * 16 GB DDR5 RAM (ECC)
+
 * 512 GB NVMe
+
 * Traffic inklusive
+
 * Snapshots (Copy-On-Write)
+
 * Remote-Konsole uvm...
 
  Details \>
@@ -75,10 +90,15 @@ VPS 2000 G12
 VPS 4000 G12
 
 * 12 vCore (x86)
+
 * 32 GB DDR5 RAM (ECC)
+
 * 1024 GB NVMe
+
 * Traffic inklusive
+
 * Snapshots (Copy-On-Write)
+
 * Remote-Konsole uvm...
 
  Details \>
@@ -94,10 +114,15 @@ VPS 4000 G12
 VPS 8000 G12
 
 * 16 vCore (x86)
+
 * 64 GB DDR5 RAM (ECC)
+
 * 2048 GB NVMe
+
 * Traffic inklusive
+
 * Snapshots (Copy-On-Write)
+
 * Remote-Konsole uvm...
 
  Details \>
