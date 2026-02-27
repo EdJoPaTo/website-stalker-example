@@ -16,7 +16,7 @@ Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for e
 
 [Linux](?tab=linux)
 
-[Resources and Guides](?tab=resources-and-guides)
+[Downloads and guides](?tab=downloads-and-guides)
 
 [Configure now](/products/laptop12-diy-intel-13gen/configuration/new)
 

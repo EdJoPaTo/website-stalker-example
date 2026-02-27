@@ -24,7 +24,7 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 
 [Linux](?tab=linux)
 
-[Resources and Guides](?tab=resources-and-guides)
+[Downloads and guides](?tab=downloads-and-guides)
 
 [Configure now](/products/desktop-diy-amd-aimax300/configuration/new)
 

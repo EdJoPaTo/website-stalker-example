@@ -20,7 +20,7 @@ It’s yours.
 
 [Linux](?tab=linux)
 
-[Resources and Guides](?tab=resources-and-guides)
+[Downloads and guides](?tab=downloads-and-guides)
 
 [Configure now](/products/laptop13-diy-amd-ai300/configuration/new)
 
