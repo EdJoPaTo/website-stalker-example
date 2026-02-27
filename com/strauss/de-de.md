@@ -293,19 +293,6 @@ JGAs
 
 ]()
 
- Hallo Köln!
-
-###  Messe  ###
-
----
-
- 24.02. – 27.02.2026 | Köln
----
-
- Halle 9, Stand 306
-
-[mehr Informationen](https://www.dach-holz.com/de)
-
  Von Workwear bis Werkzeug – Über 40.000 Produkte
 ==========
 
