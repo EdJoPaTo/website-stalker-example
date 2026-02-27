@@ -78,6 +78,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Fragments**Manage torrents](Fragments/)
 * [**Fretboard**Look up guitar chords](Fretboard/)
 * [**Gaphor**Simple UML and SysML modeling tool](Gaphor/)
+* [**Gradia**Annotate your screenshots](Gradia/)
 * [**Graphs**Plot and manipulate data](Graphs/)
 * [**Hieroglyphic**Find LaTeX symbols](Hieroglyphic/)
 * [**Identity**Compare images and videos](Identity/)
