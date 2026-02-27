@@ -14,9 +14,9 @@ Das Masterportal für die KielRegion stellt aktuelle und statistische Entwicklun
 
 Es lassen sich mobilitätsbezogene Daten und Planungen aus den Kreisen Rendsburg-Eckernförde und Plön sowie der Landeshauptstadt Kiel abrufen. Zum Beispiel zeigt die Karte den Modal Split, also den Anteil verschiedener Verkehrsträger am Gesamtverkehrsaufkommen in den jeweiligen Ämtern in der KielRegion. Aber auch Daten zu Radrouten sind im Masterportal zu finden. Das können touristische Radrouten oder höherwertige Radrouten wie Velorouten oder geplante Premiumrouten sein. Außerdem zeigt es die Verteilung der Mobilitätsstationen in der Region. Zu allen Projekten können die Nutzer:innen sich Zusatzinformationen einholen, beispielsweise den aktuellen Planungsstand oder die einzelnen Ausstattungselemente einer Station. Es lädt alle Interessierten zum Klicken und Ausprobieren ein.
 
-Wenn Sie an Datensätzen des Masterportals interessiert sind, kontaktieren Sie bitte [L.Kroeger@kielregion.de](mailto:L.Kroeger@kielregion.de).
+Wenn Sie an Datensätzen des Masterportals interessiert sind, kontaktieren Sie bitte [C.Bach@kielregion.de](mailto:C.Bach@kielregion.de).
 
-Hier geht es zum [Masterportal der KielRegion](https://masterportal.kielregion.de)
+Das Masterportal der KielRegion wird aktuell migriert. Die Funktion ist daher eingeschränkt.
 
 ### Belegung von Parkangeboten in Echtzeit ###
 
@@ -39,9 +39,7 @@ Die Daten werden über Bodensensoren, Kamerasysteme oder die Schnittstellen der 
 
 ##### Überblick der Parkplatzbelegung in Kiel #####
 
-##### Parkplatzbelegung in Mönkeberg als Praxisbeispiel #####
-
-Dashboards mit der Anzeige der der Parkplatzbelegung wie hier am Beispiel Marinahafen Mönkeberg können via iFrame in beliebige Websites – z.B. von Kommunen oder Touristikagenturen eingebunden werden.
+#####  #####
 
 ### Smart Parken – Mehrfachnutzung von Parkplätzen ###
 
@@ -78,10 +76,7 @@ Die Landeshauptstadt Kiel und die KielRegion planen, das Angebot an offenen Verk
 
 **Weiterführende Links zu den Angeboten**
 
-[**Dashboard – Motorisierter Individualverkehr**](https://dashboard.infoportal.addix.io/public-dashboards/258ccec4656945f183b21f37e9922f79?orgId=1&refresh=5s)
-**[Dashboards – Parken](https://dashboard.infoportal.addix.io/public-dashboards/1b3ab6ec192445319b207ba989e0b447?orgId=1)**
-[**Dashboards – Radverkehr**](https://dashboard.infoportal.addix.io/public-dashboards/91911c1508f24cc585e35332c3b1fef9?orgId=1)
-[**Kartendarstellung – Parken in Kiel**](https://www.kielregion.de/mobilitaetsregion/digitale-mobilitaet/anwendungsfaelle-und-projekte/parkplatzbelegung/)
+[**Kartendarstellung – Parken in Kiel**](https://connectors.kiel-staging.civora.org/parken_kielde/)
 
 [**Mobilithek – Datenangebote der KielRegion**](https://mobilithek.info/offers?providers=%5B%22KielRegion%20GmbH%22%5D)
 

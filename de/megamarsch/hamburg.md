@@ -112,6 +112,9 @@ Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbra
 Entdecke die Filiale vor Ort:
 [https://www.intersport.de](https://www.intersport.de/d/stores/22765-hamburg-intersport-voswinkel)
 
+Prize by Radisson ist eine neue Generation von zentral gelegenen Hotels, bei denen Lifestyle im Vordergrund steht. Genieße Komfort und Effizienz von der Buchung bis zum CheckOut.
+[prizebyradisson.com](https://www.radissonhotels.com/de-de/marke/prize-by-radisson)
+
 #### Highlights
 Hamburg 2025 ####
 
