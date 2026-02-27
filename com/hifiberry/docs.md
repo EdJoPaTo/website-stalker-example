@@ -585,7 +585,7 @@ updated 2021-04-15
 
 adc, dac, datasheet
 
-updated 2021-06-09
+updated 2026-02-27
 
 [Datasheet Codec](https://www.hifiberry.com/docs/data-sheets/datasheet-codec/)
 
