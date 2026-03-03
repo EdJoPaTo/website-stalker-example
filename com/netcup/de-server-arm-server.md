@@ -264,6 +264,14 @@ Sind ARM-Server kosteneffizient?
 
 Ja, aufgrund ihrer Energieeffizienz und Leistung sind **ARM-Server in der Regel kosteneffiziente Hosting-Lösungen**.
 
+###
+
+Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
+
+ ###
+
+Weitere Antworten finden Sie im [ARM-Server FAQ-Bereich](https://helpcenter.netcup.com/de/faq#arm-server) in unserem Help Center.
+
 ### Weitere Angebote ###
 
 [Root-Server Generation 12](https://www.netcup.com/de/server/root-server)

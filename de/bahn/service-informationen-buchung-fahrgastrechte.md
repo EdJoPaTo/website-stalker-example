@@ -141,11 +141,6 @@ Sollten Sie mit einer Entscheidung zu Ihrem Erstattungsantrag nicht einverstande
 
 * [Schlichtungsstellen Weitere Informationen: Schlichtungsstellen](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/fahrgastrechte-schlichtung)
 
-Häufig gestellte Fragen zu Fahrgastrechten
-----------
-
-* [Finden Sie Antworten auf Fragen zum Thema Fahrgastrechte Weitere Informationen: Finden Sie Antworten auf Fragen zum Thema Fahrgastrechte](https://bahn.de/faq/pk/service/buchung/fahrgastrechte)
-
 Weitere Informationen
 ----------
 
