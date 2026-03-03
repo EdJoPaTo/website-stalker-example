@@ -335,7 +335,7 @@ Kann ich zwischen unterschiedlichen VPS Server-Varianten wechseln, wenn mein Pro
 
  Ja, du kannst innerhalb derselben Generation (z.B. VPS 1000 G12s zu VPS 2000 G12s) bzw. Tarifgruppe (z.B. VPS Lite 1 G12s auf VPS Lite 2 G12s) auf einen höheren Tarif upgraden. Nutze dazu die Upgrade-Funktion im Customer Control Panel (CCP). Upgrades von und zu Aktionsprodukten oder Sonderprodukten sind nicht möglich.
 
-Hier erfährst du mehr über [Produktupgrades](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade).
+Hier erfährst du mehr über [Produkt-Upgrades](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade).
 
 ###
 
@@ -365,7 +365,7 @@ Es stehen dir folgende drei Optionen zur Verfügung:
 * IPv6 Connectivity
 * Cloud vLAN only
 
-Lies dir bei Unklarheiten am besten alle Infos zu [Netzwerkkonfiguration im Help Center](https://helpcenter.netcup.com/de/wiki/server/netzwerk-konfiguration/) durch.
+Lies dir bei Unklarheiten am besten alle Infos zu [Netzwerkkonfiguration im Help Center](https://www.netcup.com/de/helpcenter/dokumentation/server/netzwerk-konfiguration) durch.
 
 ###
 
@@ -381,7 +381,7 @@ Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
 
  ###
 
-Weitere Antworten findest du im [FAQ-Bereich](https://helpcenter.netcup.com/de/faq#server) unseres Help Centers.
+Weitere Antworten findest du im [FAQ-Bereich](https://www.netcup.com/de/helpcenter/faq) unseres Help Centers.
 
 ### Weitere Angebote ###
 
