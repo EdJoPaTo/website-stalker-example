@@ -65,7 +65,7 @@ Zehenschutz
 *
 *
 
- jetzt neu
+ Neu
 
  READY?
 ---
