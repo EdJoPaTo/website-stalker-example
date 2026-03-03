@@ -29,7 +29,7 @@ Was ist Local Block Storage?
 
 Viele Anwendungsfälle finden mit Hilfe der **Local Block Storage** Produkte von [netcup](https://www.netcup.com/de/server) die passende Lösung bei Speicher-Upgrades. Einfach den gewünschten Speicherplatz online kaufen und von den **Top-Preisen** profitieren.
 
-Hier geht es zu den [Local Block Storage FAQs](https://helpcenter.netcup.com/de/faq#local-block-storage).
+Mehr über [Local Block Storage](https://www.netcup.com/de/helpcenter/dokumentation/server/local-block-storage).
 
 Wie bestelle ich mehr Speicherplatz?
 ----------
@@ -133,7 +133,7 @@ Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
 
  ###
 
-Weitere Antworten finden Sie im [Local Block Storage FAQ-Bereich](https://helpcenter.netcup.com/de/faq#local-block-storage) in unserem Help Center.
+Mehr Informationen in unserem Help Center unter: [Local Block Storage](https://www.netcup.com/de/helpcenter/dokumentation/server/local-block-storage)
 
 ### Weitere Angebote ###
 
