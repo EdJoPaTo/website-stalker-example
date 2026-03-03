@@ -213,7 +213,7 @@ Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
 
  ###
 
-Bei offenen Fragen steht unser Support-Team jederzeit zur Verfügung. [Hier gehts zum Support Formular.](https://helpcenter.netcup.com/de/support)
+Bei offenen Fragen steht unser Support-Team jederzeit zur Verfügung. [Hier gehts zum Support Formular.](https://www.netcup.com/de/helpcenter/support)
 
 ### Weitere Angebote ###
 

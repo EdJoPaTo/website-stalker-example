@@ -5,7 +5,7 @@ Details zu unseren virtuellen Servern
 Details zu unseren virtuellen Servern
 ----------
 
-Unsere vServer haben sich mittlerweile einen Namen gemacht und stehen für Qualität und Zuverlässigkeit. Die Zuverlässigkeit ermöglichen wir mit frei wählbaren, garantierten, nicht überlasteten und flexiblen Hardwareressourcen, der Qualität einer [mehrfach redundanten Anbindung](https://www.netcup.com/de/ueber-netcup/netzwerk-infrastruktur) und, nicht zu vergessen, durch unseren [Support](https://helpcenter.netcup.com/de).
+Unsere vServer haben sich mittlerweile einen Namen gemacht und stehen für Qualität und Zuverlässigkeit. Die Zuverlässigkeit ermöglichen wir mit frei wählbaren, garantierten, nicht überlasteten und flexiblen Hardwareressourcen, der Qualität einer [mehrfach redundanten Anbindung](https://www.netcup.com/de/ueber-netcup/netzwerk-infrastruktur) und, nicht zu vergessen, durch unseren [Support](https://www.netcup.com/de/helpcenter/support).
 
 Die Hardware unserer vServer
 ----------
