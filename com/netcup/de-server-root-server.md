@@ -358,7 +358,7 @@ Kann ich zwischen unterschiedlichen Root Server-Varianten wechseln, wenn mein Pr
 
 Ja, ein Wechsel innerhalb derselben Produktgeneration (z. B. von einem RS 2000 G12 zu einem RS 4000 G12) ist möglich und kann bequem im Customer Control Panel (CCP) durchgeführt werden. Ein Wechsel zwischen verschiedenen Generationen (z. B. G11 zu G11) oder zwischen verschiedenen Produktarten (z. B. VPS zu Root-Server) ist aus technischen und vertraglichen Gründen nicht möglich.
 
-Bitte beachte außerdem, dass ein Tarifupgrade nur zu größeren Tarifen oder Tarifen mit längeren Mindestvertragslaufzeiten möglich ist. [Hier findest du weitere Informationen.](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade)
+Bitte beachte außerdem, dass ein Tarifupgrade nur zu größeren Tarifen oder Tarifen mit längeren Mindestvertragslaufzeiten möglich ist. [Hier findest du weitere Informationen.](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade)
 
 ###
 
@@ -382,7 +382,7 @@ Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
 
  ###
 
-Weitere Antworten findest du im [FAQ-Bereich.](https://helpcenter.netcup.com/de/faq#server)
+Weitere Antworten findest du im [FAQ-Bereich.](https://www.netcup.com/de/helpcenter/faq)
 
 ### Weitere Angebote ###
 
