@@ -503,6 +503,100 @@ Ja, eine Nutzung der 1. Klasse im Schienenpersonennahverkehr (SPNV) z.B. RE, RB 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mybc100-1klasse-im-nahverkehr-in-1klasse-nutzen)
 
+ Was ist die Probe BahnCard 25/50 Gold?
+----------
+
+Die Probe BahnCard 25 bzw. 50 Gold konnte im Zeitraum vom 16. Januar – 5. Februar 2026 erworben werden.
+
+Die Probe BahnCard 25/50 Gold ist eine reguläre Probe BahnCard 25/50 und somit eine Rabattkarte der Deutschen Bahn. Sie hat eine Gültigkeit von 3 Monaten und läuft danach in ein reguläres Abo über.
+
+Eine Probe BahnCard 25 Gold berechtigt den Inhaber zur Inanspruchnahme eines BahnCard-Rabattes in Höhe von 25 % auf die Super Spar- und Sparpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
+
+Eine Probe BahnCard 50 Gold berechtigt den Inhaber zur Inanspruchnahme eines BahnCard-Rabattes in von 25 % auf die Super Spar- und Sparpreise sowie 50 % auf Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
+
+Außerdem: Zusätzlich können alle, die im Besitz der Probe BahnCard Gold sind, am Folgetag einer Goldmedaille für das Team Deutschland Paralympics bei den Paralympischen Winterspielen Milano Cortina 2026 (6. – 15.3.2026) gratis im Fernverkehr durch ganz Deutschland fahren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion)
+
+ Läuft die Probe BahnCard 25/50 Gold in ein Abo über?
+----------
+
+Ja, sie verlängert sich automatisch um ein Jahr, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird. Die Folgekarte ist entweder eine reguläre oder ermäßigte BahnCard 25/50, eine My BahnCard 25/50 oder Senioren BahnCard 25/50 der 1. bzw. 2. Klasse.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-abo)
+
+ Bis zu welchem Tag kann ich die Probe BahnCard 25/50 Gold erwerben?
+----------
+
+Die Probe BahnCard Gold konnte vom 16. Januar bis 5. Februar 2026 erworben werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-erwerben)
+
+ Wann kann ich mit der Probe BahnCard 25/50 Gold gratis fahren?
+----------
+
+Im Zeitraum der Paralympischen Winterspiele Milano Cortina (6. bis 15. März 2026) fahren Sie mit der Probe BahnCard 25/50 Gold immer am Folgetag (00:00 Uhr – 24:00 Uhr) nach dem Gewinn einer Goldmedaille für das Team Deutschland Paralympics umsonst im Fernverkehr durch ganz Deutschland.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-fahrten)
+
+ Bekomme ich eine Probe BahnCard 25/50 Gold als Plastikkarte zugeschickt oder ist das Produkt nur rein digital nutzbar?
+----------
+
+Bei der Probe BahnCard Gold handelt es sich um eine reguläre Probe BahnCard die rein digital und nicht als Plastikkarte ausgestellt wird.
+
+Zur Nutzung der digitalen BahnCard ist folgendes zu beachten: Nach dem Kauf kann die BahnCard im eingeloggten Zustand über den DB Navigator abgerufen werden. Weitere Informationen zum Thema [Digitale BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-karte)
+
+ Gilt am Tag der Freifahrt auch die Regelung zur kostenlosen Mitnahme von Kindern?
+----------
+
+Ja, am Tag der Freifahrt gilt auch die Regelung zur kostenlosen Mitnahme von bis zu 4 Kindern im Alter von 6 bis einschließlich 14 Jahren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-kindermitnahme)
+
+ Muss ich die Probe BahnCard 25/50 Gold kündigen, wenn ich sie nach Ende der Laufzeit nicht mehr nutzen möchte?
+----------
+
+Ja, bis 4 Wochen vor Laufzeitende können Sie die Probe BahnCard Gold kündigen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-kuendigen)
+
+ Wie kann ich die Probe BahnCard 25/50 Gold kündigen?
+----------
+
+Die Kündigung Ihrer BahnCard können Sie in Textform an den BahnCard-Service richten. Alternativ können Sie auch unser [Kündigungsformular](https://abo.bahn.de/?lng=de#/vertrag_kuendigen)nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-kuendigen-wie)
+
+ Habe ich mit der Probe BahnCard 25 bzw. 50 Gold der 1 Klasse am Tag der Freifahrt Zugang zur DB Lounge?
+----------
+
+Nein, die Probe BahnCard 25 bzw. 50 Gold der 1. Klasse berechtigt nicht zur Nutzung der DB Lounge.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-lounge)
+
+ Ich habe die Zugangsdaten für „Meine Bahn“ oder „BahnCard-Services“ vergessen. Was kann ich tun?
+----------
+
+Auf der Log-In-Seite des jeweiligen Bereiches können Sie neue Log-In-Daten anfordern.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-services)
+
+ Kann ich die digitale Probe BahnCard 25/50 Gold sofort auf mein Smartphone laden?
+----------
+
+Ja, Sie können die digitale BahnCard Gold direkt nach dem Kauf auf Ihr Smartphone laden und ab dem ersten Geltungstag nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-smartphone)
+
+ Kann ich mein bereits gekauftes Ticket zurückgeben oder stornieren, wenn am Reisetag die Freifahrt-Regelung wegen einer gewonnenen Goldmedaille gilt?
+----------
+
+Für bereits erworbene Fahrkarten gelten die jeweiligen Umtausch- und Erstattungsbedingungen, diese bleiben von der Aktion unberührt. Ein nicht stornierbares Ticket (z.B. der Super Sparpreis) kann nicht zurückgegeben oder erstattet werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-stornieren)
+
  Sie haben ein Schreiben eines Inkassounternehmens zu Ihrer BahnCard erhalten. Was können Sie tun?
 ----------
 
