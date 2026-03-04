@@ -3261,7 +3261,7 @@ Weitere Informationen zum [Komfort Check-in](https://www.bahn.de/service/zug/kom
  Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
 ----------
 
-Ab dem 27. Februar 2026 sind alle Prämien nur mit Punkten einlösbar.
+Nein, alle Prämien sind nur mit BahnBonus Prämienpunkten einlösbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
 
