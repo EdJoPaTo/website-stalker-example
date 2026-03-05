@@ -947,7 +947,7 @@ Added in: 1.35.0
 
 collapsible\_else\_if
 
-style warn
+pedantic allow
 ----------
 
 Applicability: MachineApplicable
@@ -1139,6 +1139,19 @@ Added in: 1.40.0
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+debug_assert_with_mut_call)
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/mutable_debug_assertion.rs)
+
+decimal\_bitwise\_operands
+
+pedantic allow
+----------
+
+Applicability: Unspecified
+
+Added in: 1.93.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+decimal_bitwise_operands)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/operators/mod.rs)
 
 decimal\_literal\_representation
 
@@ -2469,7 +2482,7 @@ format\_push\_string
 pedantic allow
 ----------
 
-Applicability: Unspecified
+Applicability: MaybeIncorrect
 
 Added in: 1.62.0
 
@@ -3697,7 +3710,7 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+len_without_is_empty)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/len_zero.rs)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/len_without_is_empty.rs)
 
 len\_zero
 
@@ -4127,6 +4140,19 @@ Added in: 1.84.0
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_ignore_case_cmp)
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_ignore_case_cmp.rs)
+
+manual\_ilog2
+
+pedantic allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.93.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_ilog2)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_ilog2.rs)
 
 manual\_inspect
 
@@ -5361,7 +5387,7 @@ Added in: 1.65.0
 
 multiple\_bound\_locations
 
-suspicious warn
+style warn
 ----------
 
 Applicability: Unspecified
@@ -5956,6 +5982,19 @@ Added in: 1.59.0
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+needless_splitn)
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
+
+needless\_type\_cast
+
+nursery allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.93.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+needless_type_cast)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/casts/mod.rs)
 
 needless\_update
 
@@ -6865,6 +6904,19 @@ Added in: 1.49.0
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/ptr/mod.rs)
 
+ptr\_offset\_by\_literal
+
+pedantic allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.92.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+ptr_offset_by_literal)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
+
 ptr\_offset\_with\_cast
 
 complexity warn
@@ -7284,7 +7336,7 @@ perf warn
 
 Applicability: MachineApplicable
 
-Added in: 1.90.0
+Added in: 1.92.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+redundant_iter_cloned)
 
@@ -7715,6 +7767,19 @@ Added in: 1.47.0
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/loops/mod.rs)
 
+same\_length\_and\_capacity
+
+pedantic allow
+----------
+
+Applicability: Unspecified
+
+Added in: 1.93.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+same_length_and_capacity)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/same_length_and_capacity.rs)
+
 same\_name\_method
 
 restriction allow
@@ -7730,7 +7795,7 @@ Added in: 1.57.0
 
 search\_is\_some
 
-complexity warn
+nursery allow
 ----------
 
 Applicability: MachineApplicable
@@ -8147,7 +8212,7 @@ single\_range\_in\_vec\_init
 suspicious warn
 ----------
 
-Applicability: MachineApplicable
+Applicability: MaybeIncorrect
 
 Added in: 1.72.0
 
@@ -9473,7 +9538,7 @@ suspicious warn
 
 Applicability: MachineApplicable
 
-Added in: 1.88.0
+Added in: 1.92.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnecessary_option_map_or_else)
 
