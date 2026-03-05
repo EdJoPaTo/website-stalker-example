@@ -514,7 +514,7 @@ Eine Probe BahnCard 25 Gold berechtigt den Inhaber zur Inanspruchnahme eines Bah
 
 Eine Probe BahnCard 50 Gold berechtigt den Inhaber zur Inanspruchnahme eines BahnCard-Rabattes in von 25 % auf die Super Spar- und Sparpreise sowie 50 % auf Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
 
-Außerdem: Zusätzlich können alle, die im Besitz der Probe BahnCard Gold sind, am Folgetag einer Goldmedaille für das Team Deutschland Paralympics bei den Paralympischen Winterspielen Milano Cortina 2026 (6. – 15.3.2026) gratis im Fernverkehr durch ganz Deutschland fahren.
+Außerdem: Zusätzlich können alle, die im Besitz der Probe BahnCard Gold sind, am Folgetag einer Goldmedaille für das Team Deutschland Paralympics bei den Paralympischen Winterspielen Milano Cortina 2026 (6. – 15.3.2026) gratis im DB Fernverkehr durch ganz Deutschland fahren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion)
 
@@ -532,10 +532,10 @@ Die Probe BahnCard Gold konnte vom 16. Januar bis 5. Februar 2026 erworben werde
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-erwerben)
 
- Wann kann ich mit der Probe BahnCard 25/50 Gold gratis fahren?
+ Wann kann ich mit der Probe BahnCard 25/50 Gold gratis im DB Fernverkehr durch ganz Deutschland fahren?
 ----------
 
-Im Zeitraum der Paralympischen Winterspiele Milano Cortina (6. bis 15. März 2026) fahren Sie mit der Probe BahnCard 25/50 Gold immer am Folgetag (00:00 Uhr – 24:00 Uhr) nach dem Gewinn einer Goldmedaille für das Team Deutschland Paralympics umsonst im Fernverkehr durch ganz Deutschland.
+Im Zeitraum der Paralympischen Winterspiele Milano Cortina (6. bis 15. März 2026) fahren Sie mit der Probe BahnCard 25/50 Gold immer am Folgetag (00:00 Uhr – 24:00 Uhr) nach dem Gewinn einer Goldmedaille für das Team Deutschland Paralympics umsonst im DB Fernverkehr durch ganz Deutschland.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-fahrten)
 
@@ -596,6 +596,13 @@ Ja, Sie können die digitale BahnCard Gold direkt nach dem Kauf auf Ihr Smartpho
 Für bereits erworbene Fahrkarten gelten die jeweiligen Umtausch- und Erstattungsbedingungen, diese bleiben von der Aktion unberührt. Ein nicht stornierbares Ticket (z.B. der Super Sparpreis) kann nicht zurückgegeben oder erstattet werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-stornieren)
+
+ Mit welchen Zügen kann ich reisen?
+----------
+
+Die Probe BahnCard 25/50 Gold gilt an den Tagen der Freifahrt in allen Zügen des Fernverkehrs innerhalb Deutschlands. Es können die Züge der Zuggattungen ICE, IC, EC, RJ, RJX, TGV (ausgenommen reservierungspflichtige Züge) und ECE genutzt werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probe-bc-gold-aktion-zuege)
 
  Sie haben ein Schreiben eines Inkassounternehmens zu Ihrer BahnCard erhalten. Was können Sie tun?
 ----------
