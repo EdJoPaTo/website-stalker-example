@@ -13,6 +13,8 @@ vGPU-Server
 
 Leistungsstarke [Root-Server](https://www.netcup.com/de/server/root-server) mit **dediziert zugewiesener vGPU-Leistung** – perfekt für rechenintensive Aufgaben und eine echte Alternative zur physischen GPU-Hardware.
 
+SOLD OUT
+
 RS 2000 vGPU 7
 
 * NVIDIA™ H200
@@ -38,6 +40,8 @@ bereits ab monatlich
 (inkl. 19% MwSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/gpu/rs-2000-vgpu-7)
+
+SOLD OUT
 
 RS 4000 vGPU 14
 
