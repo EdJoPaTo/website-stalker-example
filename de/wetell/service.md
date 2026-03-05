@@ -57,6 +57,8 @@ Rufnummernmitnahme
 
 Tarif mit Handy
 
+Flex-Tarife
+
 Alles Wichtige für dich – einfach und transparent
 ----------
 
