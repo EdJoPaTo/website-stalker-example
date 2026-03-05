@@ -65,6 +65,23 @@ Zehenschutz
 *
 *
 
+###  Angebote
+des Monats  ###
+
+---
+
+Gültig bis 31.03.2026 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
+
+ Bis zu
+---
+
+ \-46%
+---
+
+[](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
+
  Neu
 
  READY?
