@@ -1,7 +1,7 @@
 [Allowed-by-default Lints](#allowed-by-default-lints)
 ==========
 
-These lints are all set to the 'allow' level by default. As such, they won't show up
+These lints are all set to the ‘allow’ level by default. As such, they won’t show up
 unless you set them to a higher lint level with a flag or attribute.
 
 [absolute-paths-not-starting-with-crate](#absolute-paths-not-starting-with-crate)
@@ -34,7 +34,7 @@ error: absolute paths must start with `self`, `super`, `crate`, or an external c
   |     ^^^^^^^^^^ help: use `crate`: `crate::foo::bar`
   |
   = warning: this is accepted in the current edition (Rust 2015) but is a hard error in Rust 2018!
-  = note: for more information, see issue #53130 <https://github.com/rust-lang/rust/issues/53130>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2018/path-changes.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -57,8 +57,8 @@ If you switch the compiler from the 2015 to 2018 edition without
 updating the code, then it will fail to compile if the old style paths
 are used. You can manually change the paths to use the `crate::`prefix to transition to the 2018 edition.
 
-This lint solves the problem automatically. It is "allow" by default
-because the code is perfectly valid in the 2015 edition. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html) tool with the `--edition` flag will switch this lint to "warn"
+This lint solves the problem automatically. It is “allow” by default
+because the code is perfectly valid in the 2015 edition. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html) tool with the `--edition` flag will switch this lint to “warn”
 and automatically apply the suggested fix from the compiler. This
 provides a completely automated way to update old code to the 2018
 edition.
@@ -67,7 +67,7 @@ edition.
 ----------
 
 The `ambiguous_negative_literals` lint checks for cases that are
-confusing between a negative literal and a negation that's not part
+confusing between a negative literal and a negation that’s not part
 of the literal.
 
 ### Example ###
@@ -230,13 +230,13 @@ will fail to compile if you are using a function previously marked as
 safe.
 
 You can audit the code to see if it suffices the preconditions of the`unsafe` code, and if it does, you can wrap it in an `unsafe` block. If
-you can't fulfill the preconditions, you probably need to switch to a
+you can’t fulfill the preconditions, you probably need to switch to a
 different way of doing what you want to achieve.
 
 This lint can automatically wrap the calls in `unsafe` blocks, but this
 obviously cannot verify that the preconditions of the `unsafe`functions are fulfilled, so that is still up to the user.
 
-The lint is currently "allow" by default, but that might change in the
+The lint is currently “allow” by default, but that might change in the
 future.
 
 [deref-into-dyn-supertrait](#deref-into-dyn-supertrait)
@@ -245,7 +245,7 @@ future.
 The `deref_into_dyn_supertrait` lint is emitted whenever there is a `Deref` implementation
 for `dyn SubTrait` with a `dyn SuperTrait` type as the `Output` type.
 
-These implementations are "shadowed" by trait upcasting (stabilized since
+These implementations are “shadowed” by trait upcasting (stabilized since
 1.86.0). The `deref` functions is no longer called implicitly, which might
 change behavior compared to previous rustc versions.
 
@@ -297,7 +297,7 @@ note: the lint level is defined here
 The trait upcasting coercion added a new coercion rule, taking priority over certain other
 coercion rules, which causes some behavior change compared to older `rustc` versions.
 
-`deref` can be still called explicitly, it just isn't called as part of a deref coercion
+`deref` can be still called explicitly, it just isn’t called as part of a deref coercion
 (since trait upcasting coercion takes priority).
 
 [disjoint-capture-migration](#disjoint-capture-migration)
@@ -339,7 +339,7 @@ error: the `expr` fragment specifier will accept more expressions in the 2024 ed
   |       ^^^^
   |
   = warning: this changes meaning in Rust 2024
-  = note: for more information, see Migration Guide <https://doc.rust-lang.org/edition-guide/rust-2024/macro-fragment-specifiers.html>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/macro-fragment-specifiers.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -367,8 +367,8 @@ in the 2021 and earlier editions the second pattern would match. To keep
 the old behavior, use the `expr_2021` fragment specifier.
 
 This lint detects macros whose behavior might change due to the changing
-meaning of the `expr` fragment specifier. It is "allow" by default
-because the code is perfectly valid in older editions. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html)tool with the `--edition` flag will switch this lint to "warn" and
+meaning of the `expr` fragment specifier. It is “allow” by default
+because the code is perfectly valid in older editions. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html)tool with the `--edition` flag will switch this lint to “warn” and
 automatically apply the suggested fix from the compiler. This provides a
 completely automated way to update old code for a new edition.
 
@@ -429,7 +429,7 @@ Elided lifetime parameters can make it difficult to see at a glance
 that borrowing is occurring. This lint ensures that lifetime
 parameters are always explicitly stated, even if it is the `'_`[placeholder lifetime](https://doc.rust-lang.org/reference/lifetime-elision.html#lifetime-elision-in-functions).
 
-This lint is "allow" by default because it has some known issues, and
+This lint is “allow” by default because it has some known issues, and
 may require a significant transition for old code.
 
 [explicit-outlives-requirements](#explicit-outlives-requirements)
@@ -483,7 +483,7 @@ unnecessary complexity. The language was changed to automatically
 infer the bound if it is not specified. Specifically, if the struct
 contains a reference, directly or indirectly, to `T` with lifetime`'x`, then it will infer that `T: 'x` is a requirement.
 
-This lint is "allow" by default because it can be noisy for existing
+This lint is “allow” by default because it can be noisy for existing
 code that already had these requirements. This is a stylistic choice,
 as it is still valid to explicitly state the bound. It also has some
 false positives that can cause confusion.
@@ -586,10 +586,10 @@ This lint is part of the strict provenance effort, see [issue #95228](https://gi
 Casting an integer to a pointer is considered bad style, as a pointer
 contains, besides the *address* also a *provenance*, indicating what
 memory the pointer is allowed to read/write. Casting an integer, which
-doesn't have provenance, to a pointer requires the compiler to assign
-(guess) provenance. The compiler assigns "all exposed valid" (see the
+doesn’t have provenance, to a pointer requires the compiler to assign
+(guess) provenance. The compiler assigns “all exposed valid” (see the
 docs of [`ptr::with_exposed_provenance`](https://doc.rust-lang.org/core/ptr/fn.with_exposed_provenance.html) for more information about this
-"exposing"). This penalizes the optimiser and is not well suited for
+“exposing”). This penalizes the optimiser and is not well suited for
 dynamic analysis/dynamic program verification (e.g. Miri or CHERI
 platforms).
 
@@ -755,11 +755,11 @@ help: use the precise capturing `use<...>` syntax to make the captures explicit
 
 ### Explanation ###
 
-In edition \< 2024, the returned `impl Display` doesn't capture the
+In edition \< 2024, the returned `impl Display` doesn’t capture the
 lifetime from the `&Vec<i32>`, so the vector can be mutably borrowed
 while the `impl Display` is live.
 
-To fix this, we can explicitly state that the `impl Display` doesn't
+To fix this, we can explicitly state that the `impl Display` doesn’t
 capture any lifetimes, using `impl Display + use<>`.
 
 [impl-trait-redundant-captures](#impl-trait-redundant-captures)
@@ -833,7 +833,7 @@ error: `dyn` is a keyword in the 2018 edition
   |    ^^^ help: you can use a raw identifier to stay compatible: `r#dyn`
   |
   = warning: this is accepted in the current edition (Rust 2015) but is a hard error in Rust 2018!
-  = note: for more information, see issue #49716 <https://github.com/rust-lang/rust/issues/49716>
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2018/new-keywords.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -853,8 +853,8 @@ you are using a new keyword as an identifier.
 
 You can manually change the identifiers to a non-keyword, or use a[raw identifier](https://doc.rust-lang.org/reference/identifiers.html), for example `r#dyn`, to transition to a new edition.
 
-This lint solves the problem automatically. It is "allow" by default
-because the code is perfectly valid in older editions. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html) tool with the `--edition` flag will switch this lint to "warn"
+This lint solves the problem automatically. It is “allow” by default
+because the code is perfectly valid in older editions. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html) tool with the `--edition` flag will switch this lint to “warn”
 and automatically apply the suggested fix from the compiler (which is
 to use a raw identifier). This provides a completely automated way to
 update old code for a new edition.
@@ -903,8 +903,8 @@ you are using a new keyword as an identifier.
 
 You can manually change the identifiers to a non-keyword, or use a[raw identifier](https://doc.rust-lang.org/reference/identifiers.html), for example `r#gen`, to transition to a new edition.
 
-This lint solves the problem automatically. It is "allow" by default
-because the code is perfectly valid in older editions. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html) tool with the `--edition` flag will switch this lint to "warn"
+This lint solves the problem automatically. It is “allow” by default
+because the code is perfectly valid in older editions. The [`cargo fix`](https://doc.rust-lang.org/cargo/commands/cargo-fix.html) tool with the `--edition` flag will switch this lint to “warn”
 and automatically apply the suggested fix from the compiler (which is
 to use a raw identifier). This provides a completely automated way to
 update old code for a new edition.
@@ -912,7 +912,7 @@ update old code for a new edition.
 [let-underscore-drop](#let-underscore-drop)
 ----------
 
-The `let_underscore_drop` lint checks for statements which don't bind
+The `let_underscore_drop` lint checks for statements which don’t bind
 an expression which has a non-trivial Drop implementation to anything,
 causing the expression to be dropped immediately instead of at end of
 scope.
@@ -967,12 +967,12 @@ help: consider immediately dropping the value
 ### Explanation ###
 
 Statements which assign an expression to an underscore causes the
-expression to immediately drop instead of extending the expression's
+expression to immediately drop instead of extending the expression’s
 lifetime to the end of the scope. This is usually unintended,
 especially for types like `MutexGuard`, which are typically used to
 lock a mutex for the duration of an entire scope.
 
-If you want to extend the expression's lifetime to the end of the scope,
+If you want to extend the expression’s lifetime to the end of the scope,
 assign an underscore-prefixed name (such as `_foo`) to the expression.
 If you do actually want to drop the expression immediately, then
 calling `std::mem::drop` on the expression is clearer and helps convey
@@ -1066,12 +1066,12 @@ Casting a pointer to an integer is a lossy operation, because beyond
 just an *address* a pointer may be associated with a particular*provenance*. This information is used by the optimiser and for dynamic
 analysis/dynamic program verification (e.g. Miri or CHERI platforms).
 
-Since this cast is lossy, it is considered good style to use the[`ptr::addr`](https://doc.rust-lang.org/core/primitive.pointer.html#method.addr) method instead, which has a similar effect, but doesn't
-"expose" the pointer provenance. This improves optimisation potential.
+Since this cast is lossy, it is considered good style to use the[`ptr::addr`](https://doc.rust-lang.org/core/primitive.pointer.html#method.addr) method instead, which has a similar effect, but doesn’t
+“expose” the pointer provenance. This improves optimisation potential.
 See the docs of [`ptr::addr`](https://doc.rust-lang.org/core/primitive.pointer.html#method.addr) and [`ptr::expose_provenance`](https://doc.rust-lang.org/core/primitive.pointer.html#method.expose_provenance) for more information
 about exposing pointer provenance.
 
-If your code can't comply with strict provenance and needs to expose
+If your code can’t comply with strict provenance and needs to expose
 the provenance, then there is [`ptr::expose_provenance`](https://doc.rust-lang.org/core/primitive.pointer.html#method.expose_provenance) as an escape hatch,
 which preserves the behaviour of `as usize` casts while being explicit
 about the semantics.
@@ -1120,7 +1120,7 @@ crate, making the macros in scope everywhere. As part of the efforts
 to simplify handling of dependencies in the [2018 edition](https://doc.rust-lang.org/edition-guide/rust-2018/module-system/path-clarity.html#no-more-extern-crate), the use of`extern crate` is being phased out. To bring macros from extern crates
 into scope, it is recommended to use a [`use` import](https://doc.rust-lang.org/reference/items/use-declarations.html).
 
-This lint is "allow" by default because this is a stylistic choice
+This lint is “allow” by default because this is a stylistic choice
 that has not been settled, see [issue #52043](https://github.com/rust-lang/rust/issues/52043) for more information.
 
 [meta-variable-misuse](#meta-variable-misuse)
@@ -1168,7 +1168,7 @@ improperly defined. Many of these errors were previously only detected
 when the macro was expanded or not at all. This lint is an attempt to
 catch some of these problems when the macro is *defined*.
 
-This lint is "allow" by default because it may have false positives
+This lint is “allow” by default because it may have false positives
 and other issues. See [issue #61053](https://github.com/rust-lang/rust/issues/61053) for more details.
 
 [missing-copy-implementations](#missing-copy-implementations)
@@ -1212,7 +1212,7 @@ Historically (before 1.0), types were automatically marked as `Copy`if possible.
 by implementing the `Copy` trait. As part of this change, a lint was
 added to alert if a copyable type was not marked `Copy`.
 
-This lint is "allow" by default because this code isn't bad; it is
+This lint is “allow” by default because this code isn’t bad; it is
 common to write newtypes like this specifically so that a `Copy` type
 is no longer `Copy`. `Copy` types can result in unintended copies of
 large data which can impact performance.
@@ -1256,7 +1256,7 @@ value. Using the `#[derive(Debug)]` attribute will automatically
 generate a typical implementation, or a custom implementation can be
 added by manually implementing the `Debug` trait.
 
-This lint is "allow" by default because adding `Debug` to all types can
+This lint is “allow” by default because adding `Debug` to all types can
 have a negative impact on compile time and code size. It also requires
 boilerplate to be added to every type, which can be an impediment.
 
@@ -1298,7 +1298,7 @@ This lint is intended to ensure that a library is well-documented.
 Items without documentation can be difficult for users to understand
 how to use properly.
 
-This lint is "allow" by default because it can be noisy, and not all
+This lint is “allow” by default because it can be noisy, and not all
 projects may want to enforce everything to be documented.
 
 [missing-unsafe-on-extern](#missing-unsafe-on-extern)
@@ -1396,7 +1396,7 @@ additional overhead is justified.
 [must-not-suspend](#must-not-suspend)
 ----------
 
-The `must_not_suspend` lint guards against values that shouldn't be held across suspend points
+The `must_not_suspend` lint guards against values that shouldn’t be held across suspend points
 (`.await`)
 
 ### Example ###
@@ -1443,12 +1443,12 @@ note: the lint level is defined here
 
 ### Explanation ###
 
-The `must_not_suspend` lint detects values that are marked with the `#[must_not_suspend]`attribute being held across suspend points. A "suspend" point is usually a `.await` in an async
+The `must_not_suspend` lint detects values that are marked with the `#[must_not_suspend]`attribute being held across suspend points. A “suspend” point is usually a `.await` in an async
 function.
 
 This attribute can be used to mark values that are semantically incorrect across suspends
 (like certain types of timers), values that have async alternatives, and values that
-regularly cause problems with the `Send`-ness of async fn's returned futures (like`MutexGuard`'s)
+regularly cause problems with the `Send`-ness of async fn’s returned futures (like`MutexGuard`’s)
 
 [non-ascii-idents](#non-ascii-idents)
 ----------
@@ -1485,7 +1485,7 @@ note: the lint level is defined here
 ### Explanation ###
 
 This lint allows projects that wish to retain the limit of only using
-ASCII characters to switch this lint to "forbid" (for example to ease
+ASCII characters to switch this lint to “forbid” (for example to ease
 collaboration or for security reasons).
 See [RFC 2457](https://github.com/rust-lang/rfcs/blob/master/text/2457-non-ascii-idents.md) for more details.
 
@@ -1578,9 +1578,9 @@ error: the item `None` is imported redundantly
   3 | use std::option::Option::None;
     |     ^^^^^^^^^^^^^^^^^^^^^^^^^
     |
-   ::: /checkout/library/std/src/prelude/mod.rs:161:13
+   ::: /checkout/library/std/src/prelude/mod.rs:166:13
     |
-161 |     pub use core::prelude::rust_2024::*;
+166 |     pub use core::prelude::rust_2024::*;
     |             ------------------------ the item `None` is already defined here
     |
 note: the lint level is defined here
@@ -1703,7 +1703,7 @@ or fix the call sites.
 [rust-2021-incompatible-closure-captures](#rust-2021-incompatible-closure-captures)
 ----------
 
-The `rust_2021_incompatible_closure_captures` lint detects variables that aren't completely
+The `rust_2021_incompatible_closure_captures` lint detects variables that aren’t completely
 captured in Rust 2021, such that the `Drop` order of their fields may differ between
 Rust 2018 and 2021.
 
@@ -1820,7 +1820,7 @@ help: add a dummy let to cause `fptr` to be fully captured
 ### Explanation ###
 
 In the above example, only `fptr.0` is captured in Rust 2021.
-The field is of type `*mut i32`, which doesn't implement `Send`,
+The field is of type `*mut i32`, which doesn’t implement `Send`,
 making the code invalid as the field cannot be sent between threads safely.
 
 [rust-2021-incompatible-or-patterns](#rust-2021-incompatible-or-patterns)
@@ -1973,7 +1973,7 @@ note: the lint level is defined here
 
 ### Explanation ###
 
-In Rust 2021, one of the important introductions is the [prelude changes](https://blog.rust-lang.org/inside-rust/2021/03/04/planning-rust-2021.html#prelude-changes), which add`TryFrom`, `TryInto`, and `FromIterator` into the standard library's prelude. Since this
+In Rust 2021, one of the important introductions is the [prelude changes](https://blog.rust-lang.org/inside-rust/2021/03/04/planning-rust-2021.html#prelude-changes), which add`TryFrom`, `TryInto`, and `FromIterator` into the standard library’s prelude. Since this
 results in an ambiguity as to which method/function to call when an existing `try_into`method is called via dot-call syntax or a `try_from`/`from_iter` associated function
 is called directly on a type.
 
@@ -2155,7 +2155,7 @@ note: the lint level is defined here
 
 ### Explanation ###
 
-Rust 2024, introduces two new additions to the standard library's prelude:`Future` and `IntoFuture`. This results in an ambiguity as to which method/function
+Rust 2024, introduces two new additions to the standard library’s prelude:`Future` and `IntoFuture`. This results in an ambiguity as to which method/function
 to call when an existing `poll`/`into_future` method is called via dot-call syntax or
 a `poll`/`into_future` associated function is called directly on a type.
 
@@ -2262,7 +2262,7 @@ Specifying an explicit lifetime like `'a` in a function or `impl`should only be 
 just use `'_` to indicate that the lifetime is not linked to anything,
 or elide the lifetime altogether if possible.
 
-This lint is "allow" by default because it was introduced at a time
+This lint is “allow” by default because it was introduced at a time
 when `'_` and elided lifetimes were first being introduced, and this
 lint would be too noisy. Also, there are some known false positives
 that it produces. See [RFC 2115](https://github.com/rust-lang/rfcs/blob/master/text/2115-argument-lifetimes.md) for historical context, and [issue #44752](https://github.com/rust-lang/rust/issues/44752) for more details.
@@ -2414,7 +2414,7 @@ A trivial cast is a cast `e as T` where `e` has type `U` and `U` is a
 subtype of `T`. This type of cast is usually unnecessary, as it can be
 usually be inferred.
 
-This lint is "allow" by default because there are situations, such as
+This lint is “allow” by default because there are situations, such as
 with FFI interfaces or complex type aliases, where it triggers
 incorrectly, or in situations where it will be more difficult to
 clearly express the intent. It may be possible that this will become a
@@ -2458,7 +2458,7 @@ note: the lint level is defined here
 A trivial numeric cast is a cast of a numeric type to the same numeric
 type. This type of cast is usually unnecessary.
 
-This lint is "allow" by default because there are situations, such as
+This lint is “allow” by default because there are situations, such as
 with FFI interfaces or complex type aliases, where it triggers
 incorrectly, or in situations where it will be more difficult to
 clearly express the intent. It may be possible that this will become a
@@ -2663,7 +2663,7 @@ Thus, this lint serves to identify situations where the intent does not match th
 If you wish the item to be accessible elsewhere within the crate, but not outside it, the`pub(crate)` visibility is recommended to be used instead. This more clearly expresses the
 intent that the item is only visible within its own crate.
 
-This lint is "allow" by default because it will trigger for a large amount of existing Rust code.
+This lint is “allow” by default because it will trigger for a large amount of existing Rust code.
 Eventually it is desired for this to become warn-by-default.
 
 [unsafe-attr-outside-unsafe](#unsafe-attr-outside-unsafe)
@@ -2708,13 +2708,13 @@ help: wrap the attribute in `unsafe(...)`
 
 ### Explanation ###
 
-Some attributes (e.g. `no_mangle`, `export_name`, `link_section` -- see[issue #82499](https://github.com/rust-lang/rust/issues/82499) for a more complete list) are considered "unsafe" attributes.
-An unsafe attribute must only be used inside unsafe(...).
+Some attributes (e.g. `no_mangle`, `export_name`, `link_section` – see[issue #82499](https://github.com/rust-lang/rust/issues/82499) for a more complete list) are considered “unsafe” attributes.
+An unsafe attribute must only be used inside unsafe(…).
 
 This lint can automatically wrap the attributes in `unsafe(...)` , but this
 obviously cannot verify that the preconditions of the `unsafe`attributes are fulfilled, so that is still up to the user.
 
-The lint is currently "allow" by default, but that might change in the
+The lint is currently “allow” by default, but that might change in the
 future.
 
 [unsafe-code](#unsafe-code)
@@ -2857,8 +2857,8 @@ it so that unsafe operations cannot be performed in an `unsafe fn`without an `un
 
 The fix to this is to wrap the unsafe code in an `unsafe` block.
 
-This lint is "allow" by default on editions up to 2021, from 2024 it is
-"warn" by default; the plan for increasing severity further is
+This lint is “allow” by default on editions up to 2021, from 2024 it is
+“warn” by default; the plan for increasing severity further is
 still being considered. See [RFC #2585](https://github.com/rust-lang/rfcs/blob/master/text/2585-unsafe-block-in-unsafe-fn.md) and [issue #71668](https://github.com/rust-lang/rust/issues/71668) for more
 details.
 
@@ -2898,7 +2898,7 @@ In larger nightly-based projects which
 * consist of a multitude of crates where a subset of crates has to compile on
   stable either unconditionally or depending on a `cfg` flag to for example
   allow stable users to depend on them,
-* don't use nightly for experimental features but for, e.g., unstable options only,
+* don’t use nightly for experimental features but for, e.g., unstable options only,
 
 this lint may come in handy to enforce policies of these kinds.
 
@@ -2938,9 +2938,9 @@ enabled to detect dependencies that are never used (more specifically,
 any dependency passed with the `--extern` command-line flag that is
 never referenced via [`use`](https://doc.rust-lang.org/reference/items/use-declarations.html), [`extern crate`](https://doc.rust-lang.org/reference/items/extern-crates.html), or in any [path](https://doc.rust-lang.org/reference/paths.html)).
 
-This lint is "allow" by default because it can provide false positives
+This lint is “allow” by default because it can provide false positives
 depending on how the build system is configured. For example, when
-using Cargo, a "package" consists of multiple crates (such as a
+using Cargo, a “package” consists of multiple crates (such as a
 library and a binary), but the dependencies are defined for the
 package as a whole. If there is a dependency that is only used in the
 binary, but not the library, then the lint will be incorrectly issued
@@ -2990,9 +2990,9 @@ can be silenced by aliasing the crate to an underscore, such as`extern crate foo
 use `extern crate` in the [2018 edition](https://doc.rust-lang.org/edition-guide/rust-2018/module-system/path-clarity.html#no-more-extern-crate), as extern crates are now
 automatically added in scope.
 
-This lint is "allow" by default because it can be noisy, and produce
+This lint is “allow” by default because it can be noisy, and produce
 false-positives. If a dependency is being removed from a project, it
-is recommended to remove it from the build configuration (such as`Cargo.toml`) to ensure stale build entries aren't left behind.
+is recommended to remove it from the build configuration (such as`Cargo.toml`) to ensure stale build entries aren’t left behind.
 
 [unused-import-braces](#unused-import-braces)
 ----------
@@ -3033,7 +3033,7 @@ note: the lint level is defined here
 
 If there is only a single item, then remove the braces (`use test::A;`for example).
 
-This lint is "allow" by default because it is only enforcing a
+This lint is “allow” by default because it is only enforcing a
 stylistic choice.
 
 [unused-lifetimes](#unused-lifetimes)
@@ -3079,7 +3079,7 @@ The `unused_macro_rules` lint detects macro rules that were not used.
 
 Note that the lint is distinct from the `unused_macros` lint, which
 fires if the entire macro is never called, while this lint fires for
-single unused rules of the macro that is otherwise used.`unused_macro_rules` fires only if `unused_macros` wouldn't fire.
+single unused rules of the macro that is otherwise used.`unused_macro_rules` fires only if `unused_macros` wouldn’t fire.
 
 ### Example ###
 
@@ -3170,8 +3170,8 @@ help: remove the unnecessary path segments
 If an item from another module is already brought into scope, then
 there is no need to qualify it in this case. You can call `bar()`directly, without the `foo::`.
 
-This lint is "allow" by default because it is somewhat pedantic, and
-doesn't indicate an actual problem, but rather a stylistic choice, and
+This lint is “allow” by default because it is somewhat pedantic, and
+doesn’t indicate an actual problem, but rather a stylistic choice, and
 can be noisy when refactoring or moving around code.
 
 [unused-results](#unused-results)
@@ -3216,7 +3216,7 @@ recommended to annotate the function with the [`must_use` attribute](https://doc
 Failure to use such a return value will trigger the [`unused_must_use`lint](warn-by-default.html#unused-must-use) which is warn-by-default. The `unused_results` lint is
 essentially the same, but triggers for *all* return values.
 
-This lint is "allow" by default because it can be noisy, and may not be
+This lint is “allow” by default because it can be noisy, and may not be
 an actual problem. For example, calling the `remove` method of a `Vec`or `HashMap` returns the previous value, which you may not care about.
 Using this lint would require explicitly ignoring or discarding such
 values.
@@ -3262,10 +3262,10 @@ variants. This can impact performance and memory usage. This is
 triggered if one variant is more than 3 times larger than the
 second-largest variant.
 
-Consider placing the large variant's contents on the heap (for example
+Consider placing the large variant’s contents on the heap (for example
 via [`Box`](https://doc.rust-lang.org/std/boxed/index.html)) to keep the overall size of the enum itself down.
 
-This lint is "allow" by default because it can be noisy, and may not be
+This lint is “allow” by default because it can be noisy, and may not be
 an actual problem. Decisions about this should be guided with
 profiling and benchmarking.
 

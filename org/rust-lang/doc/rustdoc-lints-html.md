@@ -30,7 +30,7 @@ pub fn foo() {}
 }
 ```
 
-You'll get a warning saying:
+You’ll get a warning saying:
 
 ```
 warning: unresolved link to `Nonexistent`
@@ -169,7 +169,7 @@ warning: no documentation found for this crate's top-level module
 
 ```
 
-This is currently "allow" by default, but it is intended to make this a
+This is currently “allow” by default, but it is intended to make this a
 warning in the future. This is intended as a means to introduce new users on*how* to document their crate by pointing them to some instructions on how to
 get started, without providing overwhelming warnings like `missing_docs`might.
 
