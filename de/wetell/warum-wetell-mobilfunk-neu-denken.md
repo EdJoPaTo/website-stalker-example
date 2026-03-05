@@ -150,3 +150,21 @@ Bei uns steht der Mensch im Mittelpunkt. Unser Service ist persönlich, ehrlich 
   Rechnungen finden, Datenverbrauch checken oder deine persönlichen Daten ändern – all das und mehr kannst du in deinem [Kund\*innen-Login](https://mein.wetell.de) oder der WEtell App für [iOS](https://apps.apple.com/de/app/wetell/id6450259024) und [Android](https://play.google.com/store/apps/details?id=de.appsoluts.wetell).
 
   Du brauchst ganz konkrete Unterstützung? Dann melde dich bei unseren freundlichen [Service-Mitarbeiter\*innen](/service/kontakt) [telefonisch](tel:+4976176999848), per [Mail](mailto:service@wetell.de) oder dem Messengerdienst [Threema](https://threema.id/VCWEM8SX?text=).
+
+Funklabor
+----------
+
+Willkommen in unserem Funklabor.
+Hier tüfteln wir an neuen Tarifen und Features für unseren nachhaltigen und fairen Mobilfunk. Erfahre, an was wir gerade arbeiten und welche Experimente zukünftig anstehen. Lass uns dein Feedback zu laufenden Tests da oder teile uns deine tolle neue Idee mit.
+
+Mehr zu den Hintergründen erfährst du [hier](https://www.wetell.de/community/newsblog/flex-tarife/)
+
+Lass uns dein Feedback da, ganz einfach per Mail an [funklabor@wetell.de](mailto:funklabor@wetell.de)
+
+* #### Unsere Flex-Tarife ####
+
+  Du liebst es, flexibel zu sein? Dann haben wir hier die passenden Tarife für dich.
+  Mit den Flex-Tarifen genießt du genug Datenvolumen, um sorglos zu surfen. Verbrauchst du aber weniger als gebucht, gibt’s eine Gutschrift auf deine Mobilfunkrechnung.
+
+  Wir machen Datensparen lohnenswert für dich. Denn: Weniger mobile Daten bedeuten weniger CO2-Emissionen. Da freut sich das Klima - und dein Geldbeutel.
+  Lern hier die Flex-Tarife kennen.
