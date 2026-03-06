@@ -61,7 +61,6 @@ vegan
 ### Warum sind nicht immer alle Speisen und Getränke verfügbar? ###
 
  Da unsere Lagerkapazität im Zug sehr begrenzt ist, kann es auch mal vorkommen, dass ein Produkt nicht mehr zur Verfügung steht, es wird aber im Regelfall durch unser Service-Team nachbestellt.
- Im folgendem „Frag die Bahn“-Video beantworten wir die meistgestellten Fragen zum logistischen Betrieb unserer Bordbistros und Bordrestaurants.
 
 Mehr über die Bordgastronomie
 ----------
