@@ -6878,10 +6878,12 @@ In der Verbindungsübersicht sowie in Ihrem DB Kundenkonto unter "Meine Reisen" 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-reise-im-kalender-speichern)
 
- Wie kann ich meinen Benutzernamen ändern?
+ Wie kann ich meine Zugangsdaten wie E-Mail-Adresse und Passwort für mein DB Kundenkonto ändern?
 ----------
 
-Loggen Sie sich mit Ihrem Benutzername und Passwort in Ihrem DB Kundenkonto ein. Im Bereich "Login und Sicherheit" können Sie Ihren Benutzernamen ganz einfach ändern. Ihr Benutzername entspricht Ihrer Kontakt-E-Mail-Adresse. Wir kontaktieren Sie in Zukunft unter dieser E-Mail-Adresse und senden an diese E-Mail-Adresse die von Ihnen gebuchten Leistungen (z.B. Tickets).
+Loggen Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihrem DB Kundenkonto ein.
+
+Sie können auf bahn.de unter "Kundenkonto verwalten" oder im DB Navigator im Bereich "Profil" Ihre E-Mail-Adresse oder Ihr Passwort im Bereich "[Login & Sicherheit](https://accounts.bahn.de/auth/realms/db/account?kc_locale=de&client_id=kf_web&cancel_uri=https%3A%2F%2Fwww.bahn.de%2Fbuchung%2Fkundenkonto%2Floginundsicherheit)" ganz einfach ändern.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meinen-benutzernamen-aendern)
 

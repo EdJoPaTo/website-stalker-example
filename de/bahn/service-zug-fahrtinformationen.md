@@ -33,6 +33,8 @@ So rufen Sie die Fahrtinformationen auf
 
 * Rufen Sie am Reisetag die gewünschte Verbindung auf – entweder über die Verbindungssuche oder wählen Sie Ihre gebuchte oder gemerkte Reise im Menübereich „Reisen“ aus.
 * Klicken Sie dort auf den Button „Fahrtinformationen“. Hier finden Sie im Tab „Fahrtverlauf“ den gesamten Fahrtverlauf des Zuges und im Tab „Wagenreihung“ eine graphische Abbildung der aktuellen Wagenreihung mit Informationen zur Ausstattung des Zuges.
+* **Tipp:** Im Fahrtverlauf und in der Wagenreihung finden Sie oben rechts eine Zeitmarke. Diese zeigt Ihnen an, wann die Informationen das letzte Mal aktualisiert wurden.
+   Um die Inhalte zu aktualisieren, tippen Sie den Bildschirm an, ziehen die Inhalte leicht nach unten und lassen den Bildschirm dann wieder los.
 
 Häufig gestellte Fragen zu Fahrtinformationen
 ----------
