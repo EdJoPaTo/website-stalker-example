@@ -157,14 +157,14 @@ Funklabor
 Willkommen in unserem Funklabor.
 Hier tüfteln wir an neuen Tarifen und Features für unseren nachhaltigen und fairen Mobilfunk. Erfahre, an was wir gerade arbeiten und welche Experimente zukünftig anstehen. Lass uns dein Feedback zu laufenden Tests da oder teile uns deine tolle neue Idee mit.
 
-Mehr zu den Hintergründen erfährst du [hier](https://www.wetell.de/community/newsblog/funklabor/)
+Mehr zu den Hintergründen erfährst du [hier.](https://www.wetell.de/community/newsblog/funklabor/)
 
-Lass uns dein Feedback da, ganz einfach per Mail an [funklabor@wetell.de](mailto:funklabor@wetell.de)
+Lass uns dein Feedback da, ganz einfach per Mail an [funklabor@wetell.de](mailto:funklabor@wetell.de).
 
 * #### Unsere Flex-Tarife ####
 
   Du liebst es, flexibel zu sein? Dann haben wir hier die passenden Tarife für dich.
   Mit den Flex-Tarifen genießt du genug Datenvolumen, um sorglos zu surfen. Verbrauchst du aber weniger als gebucht, gibt’s eine Gutschrift auf deine Mobilfunkrechnung. Hier Infos zu unseren Flex-Tarifen findest du [hier](https://www.wetell.de/community/newsblog/flex-tarife/).
 
-  Wir machen Datensparen lohnenswert für dich. Denn: Weniger mobile Daten bedeuten weniger CO2-Emissionen. Da freut sich das Klima - und dein Geldbeutel.
+  Wir machen Datensparen lohnenswert für dich. Denn: Weniger mobile Daten bedeuten weniger CO<sub>2</sub>-Emissionen. Da freut sich das Klima - und dein Geldbeutel.
   Lern hier die Flex-Tarife kennen.
