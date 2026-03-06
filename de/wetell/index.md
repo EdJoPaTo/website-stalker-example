@@ -160,6 +160,7 @@ Ultrakurz
 
 Daten 5G
 
+* Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
@@ -193,6 +194,7 @@ Mikrofon
 
 Daten 5G
 
+* Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
@@ -226,6 +228,7 @@ Mittelwelle
 
 Daten 5G
 
+* Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
@@ -259,6 +262,7 @@ Megafon
 
 Daten 5G
 
+* Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
@@ -292,6 +296,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 
 Daten 5G
 
+* Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
