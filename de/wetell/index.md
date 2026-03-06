@@ -131,6 +131,8 @@ Funktastisch!
 
 Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.
 
+* Unsere Tarife
+
 * 3GB
 * 7GB
 * 20GB
@@ -158,11 +160,11 @@ Ultrakurz
 
 3 GB
 
-Daten 5G
-
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
+
+Daten 5G
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/540/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/545/)
@@ -192,11 +194,11 @@ Mikrofon
 
 7 GB
 
-Daten 5G
-
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
+
+Daten 5G
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1741780586/808/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1742375872/929/)
@@ -226,11 +228,11 @@ Mittelwelle
 
 20 GB
 
-Daten 5G
-
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
+
+Daten 5G
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/532/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/543/)
@@ -260,11 +262,11 @@ Megafon
 
 40 GB
 
-Daten 5G
-
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
+
+Daten 5G
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/533/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/541/)
@@ -294,11 +296,11 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 
 100 GB
 
-Daten 5G
-
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
+
+Daten 5G
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/539/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/544/)
@@ -308,6 +310,10 @@ Daten 5G
 [Jetzt bestellen](https://www.wetell.de/shop/privat/ueberschall)
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: -5 € bis +5 € / Monat
+
+Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: +1 €, +3 € oder +5 € / Monat
+
+1
 
 Mail. Cloud. Kalender
 ----------
