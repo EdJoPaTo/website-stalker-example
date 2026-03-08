@@ -342,7 +342,7 @@ Nachhaltig empfehlenswert: *you*tell the Grünfunk
 
 Freund\*innen werben & Nachhaltigkeit verbreiten
 
-[Hol deine Leute zu WEtell und sichert euch je 15 € Bonus](https://www.wetell.de/community/youtell/)
+[Hol deine Leute zu WEtell und sichert euch je 25 € Bonus](https://www.wetell.de/community/youtell/)
 
 Alles, was du (noch) wissen willst
 ----------
