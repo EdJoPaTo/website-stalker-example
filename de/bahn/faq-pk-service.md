@@ -2032,7 +2032,7 @@ Sollte der Fehler weiterhin auftreten, überprüfen Sie diese Angaben erneut. Ev
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fehler-beim-hinzufuegen-eines-tickets-in-die-db-navigator-app-was-kann-ich-tun)
 
- Finde ich mein Statuslevel in der DB Navigator App?
+ Finde ich mein Statuslevel in der App DB Navigator?
 ----------
 
 Ja, Sie finden Ihren Statuslevel auch im DB Navigator. Als Statusnachweis dient jedoch nur die digitale Karte in der BahnBonus App.
