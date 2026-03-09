@@ -260,7 +260,7 @@ Momentan ist das nicht möglich. Die Tarife befinden sich noch in einer Testphas
 
 Was heißt das konkret? Für die ersten vier Monate prüfen wir, ob diese Tarife tatsächlich wirtschaftlich sind und ein Bedarf vorhanden ist. Für diese Testphase müssen wir den Kreis der Nutzenden auf Neukund\*innen einschränken. Sollte das Ergebnis negativ ausfallen, wird es für uns einfacher, die Tarife wieder aus unserem Portfolio zu entfernen. Sollte das Ergebnis positiv ausfallen, werden wir dafür sorgen, dass du auch als Kund\*in wechseln kannst.
 
-Wenn du die Flex-Tarife super findest, erzähl anderen davon. Je mehr Neukund\*innen sie buchen, desto eher können wir sie langfristig anbieten.
+Du hast dich spontan in einen Flex-Tarif verliebt? Dann trag dich schon mal hier ein und wir melden uns bei dir so bald klar ist, wie’s weitergeht:[Wechselwunsch-Formular.](https://www.wetell.de/wechselwunsche-flex-tarife/)
 
 #### Wo finde ich meine Kund\*innennummer? ####
 
