@@ -127,11 +127,13 @@ Telefonisch – unter der
 * [Häufig gestellte Fragen](https://www.wetell.de/service/faq)
 * [Schreibt uns eine E-Mail](mailto:service@wetell.de)
 
-Funktastisch!
+Flexibel wie du.
 
-Dein konsequent nachhaltiger und fairer Mobilfunkanbieter.
+Unsere neuen Flex-Tarife:
+Volle Daten, wenn du sie brauchst. Geld zurück, wenn nicht.
 
-* Unsere Tarife
+* Fix-Tarife
+* Flex-Tarife
 
 * 3GB
 * 7GB
@@ -162,9 +164,6 @@ Ultrakurz
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
-* Wifi-Calling
-
-None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/540/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/545/)
@@ -196,9 +195,6 @@ Mikrofon
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
-* Wifi-Calling
-
-None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1741780586/808/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1742375872/929/)
@@ -230,9 +226,6 @@ Mittelwelle
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
-* Wifi-Calling
-
-None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/532/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/543/)
@@ -264,9 +257,6 @@ Megafon
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
-* Wifi-Calling
-
-None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/533/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/541/)
@@ -298,9 +288,6 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
-* Wifi-Calling
-
-None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/539/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/544/)
@@ -311,16 +298,121 @@ None
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: -5 € bis +5 € / Monat
 
+* 3GB
+* 30GB
+* 100GB
+
+Nanoflex
+----------
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
+
+**Mobilfunkinfos**
+
+* Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+* SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+* 3 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1772803951/1678/).
+
+**Tarifwechsel**
+Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+
+Nanoflex
+----------
+
+3 GB
+
+**Mit Flex-Funktion:**
+\< 1,5 GB Verbrauch = 3 € Gutschrift
+\< 0,5 GB Verbrauch = 6 € Gutschrift
+
+* 5G Daten (max. 50 Mbit/s)
+* Allnet Flat (Telefonie/SMS)
+
+* [Preisliste](https://www.wetell.de/filer/canonical/1772803951/1678/)
+* [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1772803797/1675/)
+
+16€ oder
+weniger /Monat
+
+[Jetzt bestellen](https://www.wetell.de/shop/privat/nanoflex)
+
+Superflex
+----------
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
+
+**Mobilfunkinfos**
+
+* Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+* SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+* 30 GB Inklusiv-Datenvolumen mit max. 100 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1772803961/1679/).
+
+**Tarifwechsel**
+Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+
+Superflex
+----------
+
+30 GB
+
+**Mit Flex-Funktion:**
+\< 15 GB Verbrauch = 5 € Gutschrift
+\< 3 GB Verbrauch = 10 € Gutschrift
+
+* 5G Daten (max. 100 Mbit/s)
+* Allnet Flat (Telefonie/SMS)
+
+* [Preisliste](https://www.wetell.de/filer/canonical/1772803961/1679/)
+* [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1772803800/1676/)
+
+25€ oder
+weniger /Monat
+
+[Jetzt bestellen](https://www.wetell.de/shop/privat/superflex)
+
+Gigaflex
+----------
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
+
+**Mobilfunkinfos**
+
+* Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+* SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+* 100 GB Inklusiv-Datenvolumen mit max. 100 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1772803946/1677/).
+
+**Tarifwechsel**
+Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+
+Gigaflex
+----------
+
+100 GB
+
+**Mit Flex-Funktion:**
+\< 50 GB Verbrauch = 10 € Gutschrift
+\< 25 GB Verbrauch = 20 € Gutschrift
+
+* 5G Daten (max. 100 Mbit/s)
+* Allnet Flat (Telefonie/SMS)
+
+* [Preisliste](https://www.wetell.de/filer/canonical/1772803946/1677/)
+* [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1772803793/1674/)
+
+50€ oder
+weniger /Monat
+
+[Jetzt bestellen](https://www.wetell.de/shop/privat/gigaflex)
+
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: +1 €, +3 € oder +5 € / Monat
 
 1
-
-Mail. Cloud. Kalender
-----------
-
-Nach Mobilfunk kommt jetzt der WEtell Hub: dein digitales Zuhause für Mail, Cloud, Kalender & Online Office. Mach jetzt beim Crowdfunding mit für eine unabhängige, gemeinwohlorientierte und klimafokussierte digitale Infrastruktur.
-
-[Mehr dazu](https://www.startnext.com/wetell-hub)
 
 Der Funke, der alle ansteckt
 ----------
