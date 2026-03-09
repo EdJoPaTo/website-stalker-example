@@ -164,7 +164,7 @@ Ultrakurz
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
-Daten 5G
+None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/540/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/545/)
@@ -198,7 +198,7 @@ Mikrofon
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
-Daten 5G
+None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1741780586/808/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1742375872/929/)
@@ -232,7 +232,7 @@ Mittelwelle
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
-Daten 5G
+None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/532/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/543/)
@@ -266,7 +266,7 @@ Megafon
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
-Daten 5G
+None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/533/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/541/)
@@ -300,7 +300,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 * Allnet Flat (Telefonie/SMS)
 * Wifi-Calling
 
-Daten 5G
+None
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/539/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/544/)
