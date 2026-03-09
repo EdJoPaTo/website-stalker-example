@@ -22,10 +22,6 @@ Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W
 
 \_ Important Note Before Purchase: 1.Not support the phone case thicker than 2mm. 2.Not support video output 3.Charging speed will depend on the device and the wall charger. We sugget...
 
-### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
-
- UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead
-
 ### [UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable](https://eu.ugreen.com/products/ugreen-usb-c-90-degree-cable-3a-right-angle-type-c-charger-cable) ###
 
 UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable
@@ -41,6 +37,10 @@ UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Chargin
 ### [UGREEN USB C Cable 90 Degree 3A Right Angle Type C Charger Cable Fast Charging](https://eu.ugreen.com/products/ugreen-usb-c-cable-90-degree-3a-right-angle-type-c-charger-cable-fast-charging) ###
 
 UGREEN USB C Cable 90 Degree 3A Right Angle Type C Charger Cable Fast Charging
+
+### [UGREEN USB C Hard Drive Cable, Micro B to Type C Lead Compatible](https://eu.ugreen.com/products/ugreen-usb-c-hard-drive-cable-micro-b-to-type-c-lead-compatible-with-usb-3-0-external-portable) ###
+
+UGREEN USB C Hard Drive Cable, Micro B to Type C Lead Compatible with USB 3.0 External Portable
 
 ### [UGREEN Uno USB-C to USB-C Cable 100W](https://eu.ugreen.com/products/ugreen-uno-usb-c-cable-100w) ###
 
