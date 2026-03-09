@@ -1,36 +1,20 @@
 OBJECT STORAGE
 
-        OBJECT STORAGE THAT GROWS WITH YOUR NEEDS
-        ==========
+OBJECT STORAGE THAT GROWS WITH YOUR NEEDS
+==========
 
-         GDPR-compliant
+ GDPR-compliant
 
-         S3-compatible
+ S3-compatible
 
-         Scalable
+ Scalable
 
-         Manage data simply and efficiently
-        ==========
+ Manage data simply and efficiently
+==========
 
-        ###  Object Storage is the S3-compatible storage solution that grows with your data requirements – secure, flexible and accessible via API.  ###
+###  Object Storage is the S3-compatible storage solution that grows with your data requirements – secure, flexible and accessible via API.  ###
 
-        Whether for backups, multimedia or big data, Object Storage offers the ideal solution for managing data-intensive workloads. In contrast to conventional storage solutions, data is organized as objects consisting of the data itself, the metadata and a unique ID. This structure makes it easy to manage the data, search through it and organize it, and is particularly suitable for large, unstructured amounts of data. You can create up to 100 buckets, 100TB each.
-
-         Object Storage
-
-         scales with your needs
-
-        4. 99  monthly
-
-         Storage
-
-         additional storage 4.99 /TB
-
-     Traffic
-
-     additional outgoing traffic 1.00 /TB
-
-[Start your project](https://console.hetzner.cloud/)
+Whether for backups, multimedia or big data, Object Storage offers the ideal solution for managing data-intensive workloads. In contrast to conventional storage solutions, data is organized as objects consisting of the data itself, the metadata and a unique ID. This structure makes it easy to manage the data, search through it and organize it, and is particularly suitable for large, unstructured amounts of data. You can create up to 100 buckets, 100TB each.
 
 NBG1
 
@@ -126,7 +110,7 @@ Object Storage is ideal for handling digital content. The data can be stored sec
 
 Benefit from flexibility and performance for a wide range of use cases and growing data volumes
 
- per TB  4.99
+ per TB
 
 [Create Bucket](https://console.hetzner.cloud/)
 
@@ -153,7 +137,7 @@ Frequently asked questions
 
 * **What is the pricing structure for Object Storage?**
 
-  We charge a base price of €4.99 per month for using Object Storage. This base price includes 1 TB of storage (up to 744 TB-hours) and 1 TB of egress traffic. Storage and traffic that exceed the included quota are charged on a pay-as-you-go basis.
+  We charge a base price of  per month for using Object Storage. This base price includes 1 TB of storage (up to 744 TB-hours) and 1 TB of egress traffic. Storage and traffic that exceed the included quota are charged on a pay-as-you-go basis.
 
 * **What does “pay-as-you-go” mean in this billing model?**
 

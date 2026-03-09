@@ -18,7 +18,7 @@ projects deserve.
 
  Limited availibility
 
-from 3.49
+from
 
  See plans
 
@@ -26,7 +26,7 @@ from 3.49
 
  Best price-performance
 
-from 4.99
+from
 
  See plans
 
@@ -34,7 +34,7 @@ from 4.99
 
  Unshared power
 
-from 12.49
+from
 
  See plans
 
@@ -61,7 +61,7 @@ All our cloud plans and other hosting offers are GDPR-compliant and comply with 
 
 ×
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge  in the EU and US, and  in Singapore.
 
 High quality Cloud – unbeatable prices
 ----------
@@ -90,7 +90,7 @@ NBG1 HEL1 HIL ASH SIN
 
  Primary IPv4 IPv6 only
 
-spare 0.50
+spare
 
  VCPU
 
@@ -102,7 +102,7 @@ spare 0.50
 
 []()
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge € 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge  in the EU and US, and  in Singapore.
 
  IPv4
 
@@ -142,9 +142,7 @@ Monthly
 
 Monthly
 
-0.0056 0.0048 0.0056 0.0048
-
-3.49 2.99 3.49 2.99  max.
+ max.
 
  Server
 
@@ -174,9 +172,7 @@ Monthly
 
 Monthly
 
-0.0061 0.0053 0.0061 0.0053
-
-3.79 3.29 3.79 3.29  max.
+ max.
 
  Server
 
@@ -206,9 +202,7 @@ Monthly
 
 Monthly
 
-0.0088 0.008 0.0088 0.008
-
-5.49 4.99 5.49 4.99  max.
+ max.
 
  Server
 
@@ -238,9 +232,7 @@ Monthly
 
 Monthly
 
-0.0104 0.0096 0.0104 0.0096
-
-6.49 5.99 6.49 5.99  max.
+ max.
 
  Server
 
@@ -270,9 +262,7 @@ Monthly
 
 Monthly
 
-0.0152 0.0144 0.0152 0.0144
-
-9.49 8.99 9.49 8.99  max.
+ max.
 
  Server
 
@@ -302,9 +292,7 @@ Monthly
 
 Monthly
 
-0.0200 0.0192 0.0200 0.0192
-
-12.49 11.99 12.49 11.99  max.
+ max.
 
  Server
 
@@ -334,9 +322,7 @@ Monthly
 
 Monthly
 
-0.0280 0.0272 0.0280 0.0272
-
-17.49 16.99 17.49 16.99  max.
+ max.
 
  Server
 
@@ -366,9 +352,7 @@ Monthly
 
 Monthly
 
-0.0392 0.0384 0.0392 0.0384
-
-24.49 23.99 24.49 23.99  max.
+ max.
 
  Server
 
@@ -398,9 +382,7 @@ Monthly
 
 Monthly
 
-0.0080 0.0072
-
-4.99 4.49  max.
+ max.
 
  Server
 
@@ -430,9 +412,7 @@ Monthly
 
 Monthly
 
-0.0153 0.0145
-
-9.49 8.99  max.
+ max.
 
  Server
 
@@ -462,9 +442,7 @@ Monthly
 
 Monthly
 
-0.0265 0.0257
-
-16.49 15.99  max.
+ max.
 
  Server
 
@@ -494,9 +472,7 @@ Monthly
 
 Monthly
 
-0.0489 0.0481
-
-30.49 29.99  max.
+ max.
 
  Server
 
@@ -526,9 +502,7 @@ Monthly
 
 Monthly
 
-0.0970 0.0962
-
-60.49 59.99  max.
+ max.
 
  Server
 
@@ -558,9 +532,7 @@ Monthly
 
 Monthly
 
-0.0104 0.0096
-
-6.49 5.99  max.
+ max.
 
  Server
 
@@ -590,9 +562,7 @@ Monthly
 
 Monthly
 
-0.0104 0.0096 0.0200 0.0192 0.0104 0.0096
-
-6.49 5.99 12.49 11.99 6.49 5.99  max.
+ max.
 
  Server
 
@@ -622,9 +592,7 @@ Monthly
 
 Monthly
 
-0.0176 0.0168 0.0408 0.04 0.0176 0.0168
-
-10.99 10.49 25.49 24.99 10.99 10.49  max.
+ max.
 
  Server
 
@@ -654,9 +622,7 @@ Monthly
 
 Monthly
 
-0.0320 0.0312 0.0320 0.0312 0.0697 0.0689
-
-19.99 19.49 19.99 19.49 43.49 42.99  max.
+ max.
 
  Server
 
@@ -686,9 +652,7 @@ Monthly
 
 Monthly
 
-0.0457 0.0449 0.0969 0.0961 0.0457 0.0449
-
-28.49 27.99 60.49 59.99 28.49 27.99  max.
+ max.
 
  Server
 
@@ -718,9 +682,7 @@ Monthly
 
 Monthly
 
-0.0625 0.0617 0.0625 0.0617 0.1242 0.1234
-
-38.99 38.49 38.99 38.49 77.49 76.99  max.
+ max.
 
  Server
 
@@ -750,9 +712,7 @@ Monthly
 
 Monthly
 
-0.0200 0.0192 0.0217 0.0209 0.0345 0.0337 0.0200 0.0192
-
-12.49 11.99 13.49 12.99 21.50 21 12.49 11.99  max.
+ max.
 
  Server
 
@@ -782,9 +742,7 @@ Monthly
 
 Monthly
 
-0.0392 0.0384 0.0425 0.0417 0.0639 0.0631 0.0392 0.0384
-
-24.49 23.99 26.49 25.99 39.90 39.4 24.49 23.99  max.
+ max.
 
  Server
 
@@ -814,9 +772,7 @@ Monthly
 
 Monthly
 
-0.0777 0.0769 0.0810 0.0802 0.0777 0.0769 0.1200 0.1192
-
-48.49 47.99 50.49 49.99 48.49 47.99 74.90 74.4  max.
+ max.
 
  Server
 
@@ -846,9 +802,7 @@ Monthly
 
 Monthly
 
-0.1546 0.1538 0.1611 0.1603 0.1546 0.1538 0.2204 0.2196
-
-96.49 95.99 100.49 99.99 96.49 95.99 137.50 137  max.
+ max.
 
  Server
 
@@ -878,9 +832,7 @@ Monthly
 
 Monthly
 
-0.3085 0.3077 0.3213 0.3205 0.4720 0.4712 0.3085 0.3077
-
-192.49 191.99 200.49 199.99 294.50 294 192.49 191.99  max.
+ max.
 
  Server
 
@@ -910,9 +862,7 @@ Monthly
 
 Monthly
 
-0.4623 0.4615 0.4816 0.4808 0.7732 0.7724 0.4623 0.4615
-
-288.49 287.99 300.49 299.99 482.50 482 288.49 287.99  max.
+ max.
 
 [Get started](https://console.hetzner.com/)
 
@@ -920,12 +870,6 @@ Monthly
 ----------
 
  With our flexible and scalable Volumes, you can add SSD-based storage as needed to each of your cloud servers. You can expand Volumes to up to 10TB in size and add up to 16 Volumes per cloud server, making them suitable for storage-heavy applications.
-
-###  Volumes  ###
-
-Expand your cloud instance with high-availability SSD block storage for € 0.044 GB / per month.
-
-0.0440 max./mo  Billing on an hourly basis
 
 [Get started](https://console.hetzner.com/)
 
@@ -997,7 +941,7 @@ There is a wide variety of features at your fingertips to help you manage your c
 
 With our Snapshot feature, you can make manual backups of your servers. You can use our Snapshots to restore your server to a saved image, use saved images to create new cloud servers, or transfer images during a project.
 
-0.0110  / GB per Month
+ / GB per Month
 
 ### BACKUPS ###
 
@@ -1015,7 +959,7 @@ Ubuntu, Debian, Fedora, and more – you have a wide variety of operating system
 
 ### TRAFFIC ###
 
-You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge€ 1.00 in the EU and US, and € 7.40 in Singapore.
+You’ll get at least 20 TB of inclusive traffic for cloud servers at EU locations, 1TB in US locations and 0.5 TB in Singapore. For each additional TB, we charge in the EU and US, and  in Singapore.
 
 ### APPS ###
 

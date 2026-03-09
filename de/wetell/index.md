@@ -412,8 +412,6 @@ weniger /Monat
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: +1 €, +3 € oder +5 € / Monat
 
-1
-
 Der Funke, der alle ansteckt
 ----------
 

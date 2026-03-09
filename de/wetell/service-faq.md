@@ -242,6 +242,26 @@ Wenn du die Rufnummernmitnahme mit einem Laufzeitvertrag beantragst, beginnt dei
 1. Bei Vertragsstart musst du dich in Deutschland befinden, damit deine SIM-Karte bei der ersten Netzeinwahl das Vodafone-Netz finden kann.
 2. Daten, welche du individuell auf deiner alten SIM-Karte gespeichert hattest, werden nicht automatisch auf die neue SIM-Karte übertragen.
 
+#### Sollte ich einen Flex-Tarif oder einen Fix-Tarif wählen? ####
+
+Das ist ganz individuell. Schöpfst du immer deine Daten aus? Dann ist ein Fix-Tarif eher das Richtige für dich. Hast du schwankende Nutzung und verbrauchst mal mehr, mal weniger? Dann ist Flexibilität gefragt! Schaue einfach mal in deine letzten Rechnungen und prüfe deinen Datenverbrauch, dann kannst du am besten nachvollziehen, ob eher ein Fix- oder ein Flex-Tarif zu dir passt.
+
+#### Wie funktionieren die Flex-Tarife genau? ####
+
+Du wählst den für dich passenden Tarif aus und zahlst ganz normal die Grundgebühr, z. B. 25 € monatlich für den Superflex -Tarif. Falls du unterhalb der festgelegten Daten-Stufen für diesen Tarif bleibst, bekommst du am Ende des Datenzyklus (ca. zwischen dem 8. und 10. des Monats) eine Benachrichtigung per SMS und automatisch eine Gutschrift in entsprechender Höhe auf der übernächsten Rechnung.
+
+#### Sind die Flex-Tarife mit Rabatten kombinierbar? ####
+
+Die Flex-Tarife sind nur mit einmaligen Rabatten kombinierbar, z.B. mit mit youtell oder einem Rabatt-Code von einem unserer Partner. Von dauerhaften Rabatten wie dem Gruppenfunk (für Privatkund\*innen), dem FAIRstärker-Rabatt oder unserer Mengenstaffel (für Geschäftskund\*innen) sind die Flex-Tarife vorerst ausgeschlossen. Zumindest, solange sich diese Tarife noch in der Testphase befinden.
+
+#### Kann ich als Kund\*in in einen Flex-Tarif wechseln? ####
+
+Momentan ist das nicht möglich. Die Tarife befinden sich noch in einer Testphase.
+
+Was heißt das konkret? Für die ersten vier Monate prüfen wir, ob diese Tarife tatsächlich wirtschaftlich sind und ein Bedarf vorhanden ist. Für diese Testphase müssen wir den Kreis der Nutzenden auf Neukund\*innen einschränken. Sollte das Ergebnis negativ ausfallen, wird es für uns einfacher, die Tarife wieder aus unserem Portfolio zu entfernen. Sollte das Ergebnis positiv ausfallen, werden wir dafür sorgen, dass du auch als Kund\*in wechseln kannst.
+
+Wenn du die Flex-Tarife super findest, erzähl anderen davon. Je mehr Neukund\*innen sie buchen, desto eher können wir sie langfristig anbieten.
+
 #### Wo finde ich meine Kund\*innennummer? ####
 
 Deine Kund\*innennummer findest du in der E-Mail mit dem Betreff: „Dein WEtell-Login". Du erhältst diese wenige Tage nach deiner Bestellung. Falls du dich bereits angemeldet hast, findest du sie auch im "Mein WEtell"-Bereich oder der WEtell App unter "Persönliche Daten".

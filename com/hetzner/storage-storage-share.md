@@ -32,9 +32,9 @@ No minimum contract period. No cancellation period.
 
 ###  NX11  ###
 
-4 29  max/mo.
+ max/mo.
 
-0.0069  /hr
+ /hr
 
 Storage 1 TB
 
@@ -48,9 +48,9 @@ FSN1
 
 ###  NX21  ###
 
-14 19  max/mo.
+ max/mo.
 
-0.0227  /hr
+ /hr
 
 Storage 5 TB
 
@@ -64,9 +64,9 @@ FSN1
 
 ###  NX31  ###
 
-27 39  max/mo.
+ max/mo.
 
-0.0439  /hr
+ /hr
 
 Storage 10 TB
 

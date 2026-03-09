@@ -11,65 +11,57 @@ QUICK, SECURE AND CHEAP: OUR ONLINE BACKUP SOLUTION
 
 ###  BX11  ###
 
-3 20  max/mo.
+ max/mo.
 
-0.0051  /hr
+ /hr
 
 [Order](https://console.hetzner.com/)
 
  setup fee
 
  once
-
-0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx11/)
 
 ###  BX21  ###
 
-10 90  max/mo.
+ max/mo.
 
-0.0175  /hr
+ /hr
 
 [Order](https://console.hetzner.com/)
 
  setup fee
 
  once
-
-0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx21/)
 
 ###  BX31  ###
 
-20 80  max/mo.
+ max/mo.
 
-0.0333  /hr
+ /hr
 
 [Order](https://console.hetzner.com/)
 
  setup fee
 
  once
-
-0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx31/)
 
 ###  BX41  ###
 
-40 60  max/mo.
+ max/mo.
 
-0.0651  /hr
+ /hr
 
 [Order](https://console.hetzner.com/)
 
  setup fee
 
  once
-
-0.00
 
 [Product details](https://www.hetzner.com/storage/storage-box/storage/storage-box/bx41/)
 
