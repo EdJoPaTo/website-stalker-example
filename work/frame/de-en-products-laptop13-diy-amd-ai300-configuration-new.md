@@ -117,14 +117,14 @@ Close
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB) +€145
-* DDR5-5600 - 16GB (2 x 8GB) +€290
-* DDR5-5600 - 16GB (1 x 16GB) +€225
-* DDR5-5600 - 32GB (2 x 16GB) +€450
-* DDR5-5600 - 32GB (1 x 32GB) +€435
-* DDR5-5600 - 64GB (2 x 32GB) +€870
-* DDR5-5600 - 48GB (1 x 48GB) +€749
-* DDR5-5600 - 96GB (2 x 48GB) +€1,498
+* DDR5-5600 - 8GB (1 x 8GB) +€156
+* DDR5-5600 - 16GB (2 x 8GB) +€312
+* DDR5-5600 - 16GB (1 x 16GB) +€262
+* DDR5-5600 - 32GB (2 x 16GB) +€524
+* DDR5-5600 - 32GB (1 x 32GB) +€452
+* DDR5-5600 - 64GB (2 x 32GB) +€904
+* DDR5-5600 - 48GB (1 x 48GB) +€789
+* DDR5-5600 - 96GB (2 x 48GB) +€1,578
 * None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
@@ -150,11 +150,11 @@ Close
 
 Storage
 
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€92
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 1TB +€150
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 2TB +€259
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€129
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 1TB +€200
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 2TB +€262
 * WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 4TB +€479
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€162
+* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€170
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 2TB +€295
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 4TB +€525
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 8TB +€1,000

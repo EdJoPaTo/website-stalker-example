@@ -116,10 +116,10 @@ Runs at DDR5-5200 speed on Framework Laptop 12.
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB) +€145
-* DDR5-5600 - 16GB (1 x 16GB) +€225
-* DDR5-5600 - 32GB (1 x 32GB) +€435
-* DDR5-5600 - 48GB (1 x 48GB) +€749
+* DDR5-5600 - 8GB (1 x 8GB) +€156
+* DDR5-5600 - 16GB (1 x 16GB) +€262
+* DDR5-5600 - 32GB (1 x 32GB) +€452
+* DDR5-5600 - 48GB (1 x 48GB) +€789
 * None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
@@ -141,8 +141,8 @@ Close
 
 Storage
 
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB +€109
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB +€179
+* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB +€132
+* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB +€219
 * WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB +€299
 * None (bring your own)
 

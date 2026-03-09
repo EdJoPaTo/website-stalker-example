@@ -51,7 +51,7 @@ Close
 
 System
 
-* Max 385 - 32GB  €1,359
+* Max 385 - 32GB  €1,429
 
   * 8-core/16-thread CPU, up to 5.0GHz
   * 32 Graphics Cores, up to 2.8GHz
@@ -59,7 +59,7 @@ System
 
    
 
-* Max+ 395 - 64GB  €2,089
+* Max+ 395 - 64GB  €2,209
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
@@ -67,7 +67,7 @@ System
 
    
 
-* Max+ 395 - 128GB  €2,919
+* Max+ 395 - 128GB  €3,039
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
@@ -104,11 +104,11 @@ Close
 
 Primary Storage (M.2 2280)
 
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€92
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 1TB +€150
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 2TB +€259
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€129
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 1TB +€200
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 2TB +€262
 * WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 4TB +€479
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€162
+* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€170
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 2TB +€295
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 4TB +€525
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 8TB +€1,000
@@ -131,11 +131,11 @@ Close
 
 Secondary Storage (M.2 2280)
 
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€92
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 1TB +€150
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 2TB +€259
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€129
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 1TB +€200
+* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 2TB +€262
 * WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 4TB +€479
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€162
+* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€170
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 2TB +€295
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 4TB +€525
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 8TB +€1,000
