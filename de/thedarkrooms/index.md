@@ -6,3 +6,9 @@ Die nächste Edition findet im July 2026 statt. Wenn du als Erste\*r alle Infor
 
 Exhibition Memories
 ==========
+
+The Dark Rooms Hotel - 2025
+==========
+
+The Dark Rooms Vertical - 2024
+==========
