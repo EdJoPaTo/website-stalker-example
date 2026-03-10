@@ -163,8 +163,6 @@ Lass uns dein Feedback da, ganz einfach per Mail an [funklabor@wetell.de](mailto
 
 * #### Unsere Flex-Tarife ####
 
-  Du liebst es, flexibel zu sein? Dann haben wir hier die passenden Tarife für dich.
-  Mit den Flex-Tarifen genießt du genug Datenvolumen, um sorglos zu surfen. Verbrauchst du aber weniger als gebucht, gibt’s eine Gutschrift auf deine Mobilfunkrechnung. Hier Infos zu unseren Flex-Tarifen findest du [hier](https://www.wetell.de/community/newsblog/flex-tarife/).
+  Du liebst es, flexibel zu sein? Dann haben wir hier die passenden Tarife für dich. Wir für nächsten Monate bis einschließlich Juni, nehmen wir die Tarife richtig unter die Lupe. Mit den Flex-Tarifen genießt du genug Datenvolumen, um sorglos zu surfen. Verbrauchst du aber weniger als gebucht, gibt’s eine Gutschrift auf deine Mobilfunkrechnung. Hier Infos zu unseren Flex-Tarifen findest du [hier](https://www.wetell.de/community/newsblog/flex-tarife/).
 
   Wir machen Datensparen lohnenswert für dich. Denn: Weniger mobile Daten bedeuten weniger CO<sub>2</sub>-Emissionen. Da freut sich das Klima - und dein Geldbeutel.
-  Lern hier die Flex-Tarife kennen.
