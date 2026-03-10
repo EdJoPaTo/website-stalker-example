@@ -5993,7 +5993,7 @@ Wählen Sie, ob Sie sich mittels einer "Authenticator App" oder einer SMS-Tan a
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-aktiviere-ich-die-2-faktor-authentifizierung)
 
- Wie werde ich bei bei Zugverspätungen entschädigt?
+ Wie werde ich bei bei Zugverspätungen entschädigt, wenn ich einen Schwerbehindertenausweis besitze?
 ----------
 
 Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
