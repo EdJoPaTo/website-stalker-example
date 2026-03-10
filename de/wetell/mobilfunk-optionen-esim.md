@@ -36,7 +36,7 @@ Folge dafür einfach diesen Schritten:
 
 1. Stelle sicher, dass du dich in stabilem WLAN mit Internetzugang befindest, damit du dein neues eSIM-Profil im Anschluss direkt aktivieren kannst.
 2. Logge dich im „[Mein WEtell Bereich](https://mein.wetell.de/)“ ein.
-3. Wähle: „Deine Verträge“.
+3. Wähle: „Deine Tarife“.
 4. Scrolle zu "SIM-Karte sperren/bestellen" und klicke „Bearbeiten“.
 5. Wähle „Neue SIM-Karte bestellen“, im Dropdown „Tauschen“ und „Neues eSIM-Profil“ aus.
 6. Bestelle die eSIM jetzt zahlungspflichtig (es fallen einmalige Kosten von 15 € an).
