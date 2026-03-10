@@ -419,15 +419,11 @@ cirrus nimbus
   * Keine
   * **zusätzlich 2 x USB 2.0 Port**
 
-  * **zusätzlich 2 x USB 2.0 Port**
-  * **serielle Schnittstelle** (RS-232)
-
   ##### Zusätzliche Schnittstellen #####
 
-  * keine zusätzlichen Schnittstellen
+  * Keine
+  * **zusätzlich 2 x USB 2.0 Port**
   * **serielle Schnittstelle** (RS-232)
-
-  Es handelt sich hier nicht um einen VGA Anschluss. Der serielle Anschluss wird häufig in Industrieanwendungen eingesetzt. Für den Privatanwender hingegen eher uninteressant.
 
   ##### Zusätzliche PCIe Karte #####
 
