@@ -426,11 +426,8 @@ cirrus nimbus
 
   * keine zusätzlichen Schnittstellen
   * **serielle Schnittstelle** (RS-232)
-  * **2x Thunderbolt 3** (USB-C)
 
   Es handelt sich hier nicht um einen VGA Anschluss. Der serielle Anschluss wird häufig in Industrieanwendungen eingesetzt. Für den Privatanwender hingegen eher uninteressant.
-
-  Thunderbolt™ 3 über USB-C mit schafft Geschwindigkeiten von bis zu 40 Gbit/s und einen kompakten Anschluss, der alles kann. Er bietet die schnellste und vielseitigste Verbindung zu jedem Dock, Display oder Datengerät.
 
   ##### Zusätzliche PCIe Karte #####
 
