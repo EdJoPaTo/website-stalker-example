@@ -14,17 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### dresden ###
+### mönchengladbach ###
 
-### 7. März 2026 ###
+### 21. März 2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/dresden)
-
-### 25KM ###
-
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/kopie-von-dresden)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/mönchengladbach)
 
 [Location](https://www.megamarsch.de/ostsee)
 
