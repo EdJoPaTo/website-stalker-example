@@ -437,9 +437,9 @@ zzgl. Versandkosten
 
   * [PayPal](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Kreditkarte](https://www.strauss.com/de/de/Service/Bezahlen)
+  * [Rechnung](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Bankeinzug](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Vorauskasse](https://www.strauss.com/de/de/Service/Bezahlen)
-  * [Rechnung](https://www.strauss.com/de/de/Service/Bezahlen)
 
 **Strauss Deutschland**
 
