@@ -6448,9 +6448,11 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
  Wie kann ich meine E-Mail-Adresse ändern?
 ----------
 
-Sie können Ihre E-Mail-Adresse in Ihrem DB Kundenkonto im Bereich "Login & Sicherheit" unter "Benutzername/E-Mail ändern" aktualisieren. Diese E-Mail-Adresse wird sowohl für den Login als auch für Buchungen verwendet. Wir kontaktieren Sie über diese E-Mail-Adresse und senden sämtliche gebuchten Leistungen, wie zum Beispiel Tickets, an diese Adresse.
+* Sie können Ihre E-Mail-Adresse in Ihrem DB Kundenkonto im Bereich "Login & Sicherheit" unter "Benutzername/E-Mail ändern" aktualisieren.
+* Diese E-Mail-Adresse wird sowohl für den Login als auch für Buchungen verwendet.
+* Wir kontaktieren Sie über diese E-Mail-Adresse und senden alle gebuchten Leistungen, wie zum Beispiel Tickets, an diese Adresse.
 
-Bitte beachten Sie, dass abweichende E-Mail-Adressen nicht mehr verwendet werden können. Ihr neuer Benutzername muss Ihrer gewünschten Kontakt-E-Mail-Adresse entsprechen. Eine Änderung der E-Mail-Adresse im Bereich "Persönliche Daten" ist nicht möglich. Falls Sie die gewünschte E-Mail-Adresse bereits als Kontakt verwenden, können Sie diese auch als Benutzernamen festlegen.
+Bitte beachten Sie, dass abweichende E-Mail-Adressen nicht mehr verwendet werden können. Ihr neuer Benutzername muss Ihrer gewünschten Kontakt-E-Mail-Adresse entsprechen. Eine Änderung der E-Mail-Adresse im Bereich "Persönliche Daten" ist nicht möglich. Falls Sie die gewünschte E-Mail-Adresse schon als Kontakt verwenden, können Sie diese auch als Benutzernamen festlegen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-e-mail-adresse-aendern)
 

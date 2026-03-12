@@ -94,6 +94,15 @@ STRECKE
 
 Booklet
 
+PRIZE BY RADISSON HOTEL
+----------
+
+Mit dem Code „Mega“ kannst du 10% auf deine Unterkunft im Prize by Radisson sparen.
+
+[Zum Hotel](https://www.radissonhotels.com/en-us/hotels/prize-by-radisson-hamburg-city)
+
+20KM zum Start / 10KM zum Ziel
+
 unsere PARTNER
 ----------
 
