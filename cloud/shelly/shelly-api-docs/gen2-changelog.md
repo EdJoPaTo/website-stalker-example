@@ -11,10 +11,12 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-Unreleased
+[1.7.5] 2026-03-12
 ----------
 
-**Available as `1.7.5-beta1`**
+note
+
+Firmware version `1.7.5` is being rolled out in phases, not all devices will receive the update immediately.
 
 ### Added ###
 
