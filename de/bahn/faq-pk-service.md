@@ -6724,18 +6724,6 @@ Fügen Sie in der Buchungsanfrage auf der Website unter "Reisende" den Reisenden
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-tier-mit-auf-reisen-nehmen)
 
- Wie kann ich meine Anmeldedaten, wie Benutzername oder Passwort, ändern oder zurücksetzen?
-----------
-
-Loggen Sie sich mit Ihrem Benutzernamen und Passwort in Ihrem DB Kundenkonto ein.
-In dem Bereich "DB Kundenkonto verwalten" in den Persönlichen Daten unter "Login & Sicherheit" gelangen Sie zum Account Manager, wo Sie Ihre Login Daten ändern können.
-
-Wenn Sie Ihren Benutzernamen ändern möchten, schauen Sie hier: [Wie kann ich meinen Benutzernamen ändern?](https://www.bahn.de/faq/wie-kann-ich-meinen-benutzernamen-aendern)
-
-Haben Sie Ihr altes Passwort vergessen? Hier finden Sie eine Anleitung zum Zurücksetzen: [Ich habe mein Password vergessen](https://www.bahn.de/faq/ich-habe-mein-passwort-vergessen-wie-kann-ich-es-zuruecksetzen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-anmeldedaten-aendern)
-
  Wie kann ich meine BahnBonus Teilnahme kündigen?
 ----------
 
