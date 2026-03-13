@@ -3,6 +3,11 @@ Spotlight
 
 Unternehmen die nachhaltig handeln, für sozialen Wohlstand sorgen oder das Gemeinwohl fördern, verdienen einen Platz im Rampenlicht. Und den bieten wir ihnen in unserem Spotlight. Unser Interview-Blog lässt Menschen zu Wort kommen, die sich tagtäglich dafür einsetzen, unsere Welt besser zu machen. Lies dich einfach quer durch und lerne innovativen Unternehmen und die Köpfe dahinter kennen.
 
+[fairafric](/community/spotlight/fairafric/)
+----------
+
+Der Münchner Schokoladenhersteller fairafric hat in Ghana die weltweit erste solarbetriebene Schokoladenfabrik aufgebaut. Wie diese dabei hilft die Mission „Use business to fight poverty“ umzusetzen, erklärt uns CFO Jonas Schaller.
+
 [guud](/community/spotlight/guud/)
 ----------
 
