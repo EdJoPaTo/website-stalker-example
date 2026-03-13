@@ -698,7 +698,7 @@ Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Ticke
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
- Kann ich ein Deutschland-Ticket verschenken?
+ Deutschlandticket für andere Person kaufen oder verschenken
 ----------
 
 Ja.

@@ -27,29 +27,21 @@ Ihre Vorteile
 Häufig gestellte Fragen
 ----------
 
-###  Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?  ###
+###  Ich will ein Fahrrad mit dem Deutschland-Ticket mitnehmen. Was muss ich beachten?  ###
 
-Ja, für den Kauf des Deutschland-Tickets erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, wenn:
+Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tickets **nicht** enthalten. Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
 
-* Sie beim BahnBonus-Programm angemeldet sind
-* Sie das Ticket über bahn.de oder den DB Navigator kaufen
-* Ihre persönlichen Daten beim Kauf mit denen im BahnBonus-Konto übereinstimmen
+* Prüfen Sie, ob auf Ihrer Strecke die Fahrradmitnahme kostenfrei möglich ist. Wenn ja, können Sie Ihr Fahrrad kostenfrei mitnehmen.
+* Wenn eine Fahrradkarte erforderlich ist, gilt dies auch für Fahrten mit dem Deutschland-Ticket.
+* Achten Sie auf regionale Sperrzeiten für die Fahrradmitnahme.
+* Nehmen Sie Rücksicht auf andere Fahrgäste.
+* Informieren Sie sich im Voraus über erwartetes hohes Fahrradaufkommen auf www.bahn.de und im DB Navigator.
 
-Beim Kauf des Deutschland-Tickets bei anderen Anbietern, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können keine BahnBonus Punkte gesammelt werden.
+Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter
 
-* [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
+* [bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
-
-###  Was ist der Deutschland-Ticket-Filter "Nur D-Ticket-Verbindungen anzeigen"?  ###
-
-Der D-Ticket-Filter zeigt gezielt Verbindungen an, die Sie mit dem Deutschland-Ticket ohne Aufpreis nutzen können. Sie aktivieren ihn mit dem Schieberegler "Nur D-Ticket-Verbindungen".
-
-Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft**.
-
-Um wieder alle Verbindungen, einschließlich Fernverkehr, angezeigt zu bekommen, können Sie den Filter dort auch jederzeit deaktivieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-im-db-navigator)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad)
 
 ###  Mein Deutschland-Ticket wird in der App DB Navigator nicht mehr angezeigt. Was kann ich tun?  ###
 
@@ -77,35 +69,67 @@ Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen,
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
 
-###  Welche Konditionen hat das Deutschland-Ticket?  ###
+###  Wie kann ich mein Deutschland-Ticket-Abo kündigen?  ###
 
-Bund und Länder haben entschieden, das Deutschland-Ticket als **Abonnement** anzubieten. Es ist bundesweit gültig und ermöglicht **deutschlandweite** Fahrten im **Nahverkehr**, also im ÖPNV und SPNV aller teilnehmenden Verkehrsunternehmen, Landestarife und Verkehrsverbünde sowie im verbundfreien Raum.
+Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende kündigen.
 
-**Überblick**
+**Möglichkeiten zur Kündigung:**
 
-Für das Deutschland-Ticket gelten bundesweit einheitliche Tarifbestimmungen. Das Abo ist personalisiert und damit nicht übertragbar.
+* Nutzen Sie unser Aboportal. Unter "Meine Abos" im Bereich "Alle Services anzeigen" auf "Kündigung" klicken
+* Nutzen Sie die Funktion "Abo kündigen" im DB Navigator unterhalb Ihres Handy-Tickets.
 
-* Preis: monatlich 63 Euro/Monat
-* Laufzeit: monatlich kündbar. Wenn bis zum 10. Tag des Monats gekündigt wird, endet das Abo am Ende des laufenden Monats - danach zum Ende des nächsten Monats.
-* Gültigkeit: bundesweit (im Nahverkehr, also in allen Bussen, Straßenbahnen, Stadt- und U-Bahnen sowie S-Bahnen, Regionalbahnen und im Regionalexpress in der 2. Klasse (im Fernverkehr, also im ICE, IC oder EC gilt das Deutschland-Ticket nicht).
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
-Die genauen Konditionen für Ihr Deutschland-Ticket finden Sie in den jeweiligen Tarifbedingungen Ihrer Tarifgesellschaft (Verbund, Landestarif, Deutschlandtarif).
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen)
 
-* [Zum Deutschlandtarif](https://www.deutschlandtarifverbund.de/)
+###  Gilt das Deutschland-Ticket auch für Fahrten ins Ausland?  ###
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-konditionen)
+Das Deutschland-Ticket gilt in ganz Deutschland im Nahverkehr und auf einigen Strecken ins Ausland. Es umfasst Verbindungen, die auch mit dem Deutschlandtarif sowie teilweise mit Tickets deutscher Verkehrsverbünde und Landestarife befahren werden können.
 
-###  Wie kann ich vom Deutschland-Ticket in ein Verbund-Abo wechseln?  ###
+**Folgende Auslandsstrecken sind enthalten:**
 
-Sie finden Angebote für Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Verbindungssuche auf bahn.de.
+* Gemeinschaftsbahnhöfe: Salzburg, Kufstein, Schaffhausen (inklusive Zulaufstrecken)
+* Bestimmte Strecken nach Frankreich und in die Niederlande
+* DB Regio-Strecken im Außerfern (nur zwischen Deutschland und Österreich, nicht für Fahrten nur innerhalb Österreichs)
+* Weitere Beispiele: Fahrten nach Lauterbourg und Wissembourg in Frankreich (KVV)
 
-Sie können Ihr Deutschland-Ticket innerhalb der geltenden Kündigungsfristen selbst kündigen. Nutzen Sie dafür das Aboportal oder den DB Navigator.
+Welche Strecken genau gelten und ob es Besonderheiten innerhalb einzelner Verkehrsverbünde oder Landestarife gibt, regeln die jeweiligen Anbieter.
 
-* [Zum Aboportal](https://abo.bahn.de/#/)
-* [Zu bahn.de/pendler](https://www.bahn.de/angebot/pendler)
-* [Verbindung suchen](https://www.bahn.de/buchung/start)
+Beachten Sie dazu die detaillierten Hinweise im Geltungsbereich des Schienenverkehrs.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-wechsel)
+Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
+
+* [Tarifbedingungen für das Deutschland-Ticket im Deutschlandtarif (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:227be160-8ce7-4e42-b243-0e9be259bf18/tarifbedingungen-deutschland-ticket-250625.pdf)
+* [deutschlandtarifverbund/tarifbedingungen](https://www.deutschlandtarifverbund.de/tarifbedingungen/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-ausland)
+
+###  In welchen Zügen gilt das Deutschland-Ticket?  ###
+
+* Das Deutschland-Ticket gilt in allen Nahverkehrszügen (RB, RE, S-Bahn) und öffentlichen Verkehrsmitteln (Bus, Straßenbahn, U-Bahn) der teilnehmenden Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
+* Das Deutschland-Ticket gilt **nicht** in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
+* Sie können das Deutschland-Ticket auf den Streckenabschnitten nutzen, die Sie im Nahverkehr vor dem Einstieg in den Fernverkehrszug oder nach dem Ausstieg aus dem Fernverkehrszug zurücklegen. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich. In einigen Regionen gibt es Ausnahmen, die in der Fahrplanauskunft enthalten sind.
+* Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
+
+Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
+
+* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
+
+###  Kann ich ein Deutschland-Ticket verschenken?  ###
+
+Ja.
+
+Sie können das Deutschland-Ticket in unseren Reisezentren für eine andere Person kaufen.
+
+Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf oder über den Direkteinstieg für andere Personen buchen:
+
+Geben Sie dazu im Bestellschritt "Reisende Person" die Daten der anderen Person ein. Ihre Daten aus dem bahn.de Kundenkonto werden als Vertragspartner übernommen und Sie bleiben für die Verwaltung (Zahlung, Kündigung etc) verantwortlich.
+
+Bitte beachten Sie, dass das Abonnement bis zur Kündigung weiterläuft.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verschenken)
 
 ###  Wo finde ich weitere Informationen zum Deutschland-Ticket?  ###
 
@@ -115,24 +139,42 @@ Weitere Fragen und Antworten zum Deutschland-Ticket finden Sie in unseren FAQ.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-faq)
 
-###  Erhalte ich ein City-Ticket bei Angabe des Deutschland-Tickets?  ###
+###  Kann ich das digitale Deutschland-Ticket Jobticket auf ein anderes Handy übertragen?  ###
 
-Bei den günstigen Angeboten Super Sparpreis und Sparpreis wird kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket weiterhin enthalten.
+Ja. Sie können das Ticket auf ein anderes Handy übertragen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-cityticket)
+So geht's:
 
-###  Was passiert, wenn ich mein Deutschland-Ticket bei der Fahrt im DB Fernverkehr nicht dabei habe?  ###
+* Löschen Sie das Ticket auf Ihrem alten Smartphone über die Funktion "Ticket entfernen".
+* Fügen Sie das Ticket mit Abonummer und Nachname im DB Navigator unter "Reisen" auf Ihrem neuen Smartphone hinzu.
 
-Das macht nichts. Im Fernverkehr ist das Deutschland-Ticket nicht gültig.
+Falls Sie das alte Smartphone nicht mehr haben:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrten)
+* Fügen Sie das Ticket auf dem neuen Smartphone im DB Navigator unter "Reisen" hinzu.
+* Bestätigen Sie die Meldung, dass das Ticket bereits auf einem anderen Gerät verknüpft ist, und klicken Sie auf "Ticket übertragen".
+* Bestätigen Sie den Link in der E-Mail, die an die hinterlegte E-Mail-Adresse gesendet wurde.
+* Laden Sie das Ticket auf dem neuen Smartphone.
 
-###  Was passiert, wenn ich das Deutschland-Ticket bei der Buchung einer Super Sparpreis-, Sparpreis- oder Flexpreis-Fahrkarte angebe?  ###
+Bitte beachten Sie: Aus Sicherheitsgründen ist die Übertragung Ihres Handytickets auf andere Geräte innerhalb eines Monats nur begrenzt möglich.
 
-Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen, wird lediglich eine Fahrkarte ausgegeben, und zwar für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt (meistens ICE- oder IC/EC Züge). Sie müssen nur diese Strecke bezahlen, denn für die Fahrt im Nahverkehr haben Sie das Deutschland-Ticket.
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-handy-uebertragbar)
 
-**Beispiel:** Buchungsanfrage Potsdam – Berlin – Frankfurt – Bad Homburg. Die Preisberechnung erfolgt für die Strecke im Fernverkehr Berlin – Frankfurt. Auch die Fahrkarte wird nur für die Fernverkehrsstrecke ausgegeben. Für Nahverkehrsstrecke Potsdam – Berlin und Frankfurt – Bad Homburg wird das Deutschland-Ticket genutzt.
+###  Kann ich im DB Navigator und auf bahn.de auch für eine andere Person eine Fahrkarte buchen?  ###
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-sparpreise)
+Ja. Sie können im DB Navigator und auf bahn.de Tickets für andere Personen buchen.
+
+**DB Navigator:**
+
+* Wählen Sie bei der Buchung im Schritt "Zahlung" bei "Reisende Person" die Option "Für eine andere Person buchen".
+* Geben Sie den Namen der reisenden Person an.
+
+**bahn.de:**
+
+* Wählen Sie bei der Buchung im Schritt "Kundendaten" bei "Für wen buchen Sie?" die Option "Für eine andere Person buchen".
+* Geben Sie den Namen der reisenden Person an.
+
+Das Ticket darf nur von der angegebenen Person genutzt werden. Ihre Zahlungsdaten bleiben unverändert. Das Ticket wird in der App gespeichert und zusätzlich an Ihre hinterlegte E-Mail-Adresse gesendet.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ueber-den-db-navigator-fuer-eine-andere-person-buchen)
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
