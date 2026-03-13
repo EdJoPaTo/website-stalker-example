@@ -29,7 +29,7 @@ inkl. MwSt. und Versand
 
 Passiv gekühlter mini-PC mit AMD Ryzen CPU
 
-mit AMD Ryzen / Intel Raptor Lake CPU
+mit AMD Ryzen / Intel Raptor Lake / Intel Core Ultra CPUs
 
 lüfterlose / lautlose Kühlung
 
@@ -37,7 +37,7 @@ bis zu 4 x SSDs
 
 basierend auf ASRock DeskMini X300, X600/USB4, B760 und B860
 
-* mit AMD Ryzen / Intel Raptor Lake CPU
+* mit AMD Ryzen / Intel Raptor Lake CPU / Intel Core Ultra CPUs
 
 * lüfterlose / lautlose Kühlung
 

@@ -6,7 +6,7 @@ cirrus incus
 
 * lüfterloser mini-PC
 * lautlose Kühlung durch passives Aluminium-Kühlkörpergehäuse mit Kupferkernen
-* mit AMD Ryzen CPU oder Intel Raptor Lake CPU
+* mit AMD Ryzen CPU , Intel Raptor Lake oder Intel Core Ultra CPU
 * basierend auf ASRock DeskMini X300, X600/USB4, B760 und B860
 
 **Lieferzeit: 10-14 Werktage (ausgehend)**
