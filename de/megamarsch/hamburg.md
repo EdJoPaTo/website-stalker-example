@@ -118,7 +118,9 @@ unsere PARTNER
 
 Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbranche versorgen sie Euch mit verlässlicher Ausrüstung für euren nächsten Megamarsch
 
-Entdecke die Filiale vor Ort:
+​
+
+INTERSPORT Voswinkel bietet dir alles für deinen Sport. Wir sind dein Sportspezialist über 50x in Deutschland. Egal ob Megamarsch oder Freizeitausflug. Entdecke die Filiale vor Ort:
 [https://www.intersport.de](https://www.intersport.de/d/stores/22765-hamburg-intersport-voswinkel)
 
 Prize by Radisson ist eine neue Generation von zentral gelegenen Hotels, bei denen Lifestyle im Vordergrund steht. Genieße Komfort und Effizienz von der Buchung bis zum CheckOut.
