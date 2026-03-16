@@ -22,7 +22,7 @@ For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functio
 
 $199
 
-Starts shipping May 2026
+Starts shipping July 2026
 
 I want one!
 
@@ -37,7 +37,7 @@ I want one!
 
 $225
 
-Starts shipping March 2026 - [Updates](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source#pebble-time-2-more-d)
+Starts shipping March 2026 - [Updates](/blog)
 
 I want one!
 
@@ -114,7 +114,7 @@ Here's the awesome part - PebbleOS is [open source](https://github.com/coredevic
 |Dimensions [(3D Printable STL files)](https://github.com/coredevices/hardware/tree/main/watch)|                                 [41.5mm diameter x 8.1mm](/pr2-external-sizes.pdf)                                 |                   [43.00 × 36.04 × 10.90 mm (41.40mm lug to lug)](/images/watch-dimensions.png)                    |
 |                                      Weight (w/o strap)                                      |                                                       26.8g                                                        |                                                        33g                                                         |
 |                                           Sensors                                            |                                                3-axis IMU, compass                                                 |                                          6-axis IMU, heart rate, compass                                           |
-|                                       Starts shipping                                        |                                                      May 2026                                                      |                                                     April 2026                                                     |
+|                                       Starts shipping                                        |                                                     July 2026                                                      |                                                     June 2026                                                      |
 |                                            Price                                             |                                                        $199                                                        |                                                        $225                                                        |
 |                                       Mic and speaker                                        |                                                    ½ (mic only)                                                    |                                                         ✅                                                          |
 |                                          Backlight                                           |                                                         ✅                                                          |                                                     ✅ RGB LED                                                      |
