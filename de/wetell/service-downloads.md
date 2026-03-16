@@ -21,7 +21,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [Preisliste Mittelwelle](/media/filer_public/3d/3a/3d3a4f16-3ef7-4ae3-a9ef-d1f32b9d405b/preisliste_03_mittelwelle_2025-10.pdf)
   * [Preisliste Megafon](/media/filer_public/09/19/0919816b-7e0f-495d-8d61-7dfd81697cdf/preisliste_04_megafon_2025-10.pdf)
   * [Preisliste Ueberschall](/media/filer_public/30/fc/30fc976f-b842-4d83-af54-dd829743169d/preisliste_05_ueberschall_2025-10.pdf)
-  * [Preisliste GigaMobil Unlimited](/media/filer_public/a3/b3/a3b397fc-35fd-4353-a7c8-5f65674a38b7/preisliste_gigamobil_unlimited.pdf)
+  * [Preisliste GigaMobil Unlimited](/media/filer_public/3b/14/3b1481fe-d155-4da9-bea9-f6717e5b60a9/preisliste_gigamobil_unlimited_bf_2026-03.pdf)
   * [Preisliste Sonderrufnummern](/media/filer_public/41/be/41bec59f-5359-45d1-a738-ec5d06afc939/preisliste_sonderrrufnummern.pdf)
   * [Preisliste Premium-SMS](/media/filer_public/b0/67/b067f2c0-b457-46e3-9b3f-94d1e40b0559/preisliste_premiumsms.pdf)
   * [Preisliste Premium-Voice](/media/filer_public/dc/5f/dc5f964e-9545-47bd-bbed-b53c67f8e599/preisliste_premiumvoice.pdf)
