@@ -99,6 +99,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Railway**Find all your travel information](DieBahn/)
 * [**Resources**Keep an eye on system resources](Resources/)
 * [**Secrets**Manage your passwords](Secrets/)
+* [**Sessions**Focus with timed work intervals](Sessions/)
 * [**Share Preview**Test social media cards locally](SharePreview/)
 * [**Shortwave**Listen to internet radio](Shortwave/)
 * [**Solanum**Balance working time and break time](Solanum/)
