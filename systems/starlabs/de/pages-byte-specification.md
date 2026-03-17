@@ -5,11 +5,11 @@ Chassis
  Processor
 
  1.00GHz 8-core Intel Twin Lake N355
- Turbo Boost up to 3.90GHz, with 6MB Intel® Smart Cache
+ Turbo Boost up to 3.90GHz, with 6MB Intel®
+Smart Cache
 
  8 Cores
- 8
-Threads
+ 8 Threads
  15W TDP
  35W PL2
 
@@ -19,17 +19,15 @@ Threads
 
  Read Speed (CDM): 3370MB/s
  Write Speed (CDM): 2430MB/s
- Key Type: M
- Size: M2
-2280
+Key Type: M
+ Size: M2 2280
  Design: Single-Sided
 
 Configurable to:
  1TB Gen3 PCIe SSD
 
  Read Speed (CDM): 3370MB/s
- Write Speed (CDM):
-3030MB/s
+Write Speed (CDM): 3030MB/s
  Key Type: M
  Size: M2 2280
  Design: Single-Sided
@@ -38,8 +36,7 @@ Configurable to:
  2TB Gen3 PCIe SSD
 
  Read Speed (CDM): 3370MB/s
- Write Speed (CDM):
-3030MB/s
+Write Speed (CDM): 3030MB/s
  Key Type: M
  Size: M2 2280
  Design: Single-Sided
@@ -48,8 +45,7 @@ Configurable to:
  4TB Gen3 PCIe SSD
 
  Read Speed (CDM): 3370MB/s
- Write Speed (CDM):
-3030MB/s
+Write Speed (CDM): 3030MB/s
  Key Type: M
  Size: M2 2280
  Design: Single-Sided
@@ -80,9 +76,10 @@ Configurable to:
 Configurable to:
  32GB of 3200MHz DDR4 memory
 
- Form Factor: SO-DIMM
+ Form Factor:
+SO-DIMM
  Type: DDR4
-Configuration: 1 × 32GB
+ Configuration: 1 × 32GB
 
  Graphics
 
@@ -99,8 +96,8 @@ Front
 
  USB-C Interface: DisplayPort (DP Alt Mode)
  USB-C version: 3.2 Gen 2 (up to 10 Gbps)
- USB-A version: 3.2 Gen 2 (up to 10
-Gbps)
+ USB-A
+version: 3.2 Gen 2 (up to 10 Gbps)
 
 Back
  USB 3.0
@@ -109,16 +106,17 @@ Back
  Display Port
  RJ45
  RJ45
- DC Power Jack
+ DC Power
+Jack
 
  USB-A version: 3.2 Gen 2 (up to 10 Gbps)
  HDMI version: 2.0
  Display Port version: 1.4
- Ethernet 1: 1000 Mbps (Realtek
-8111H)
+ Ethernet
+1: 1000 Mbps (Realtek 8111H)
  Ethernet 2: 2500 Mbps (Realtek 8125BG)
  DC Input: 19V 4.42A 5.5mm
- Minimum Wattage: 65W
+Minimum Wattage: 65W
 
  Wireless
 
@@ -126,7 +124,8 @@ Back
  802.11ac Wi-Fi; Up to 1.73 Gbps
  802.11ac/a/b/g/n compatible
 
- Key Type: E
+ Key
+Type: E
  Size: M2 2230
 
  Bluetooth
@@ -152,23 +151,23 @@ Back
 
  Line voltage: 100V to 240V AC
  Frequency: 50Hz to 60Hz
- Operating temperature: 5° to 40° C (41°
-to 104° F)
- Storage temperature: -20° to 60° C (-4° to 140° F)
- Relative humidity: 0% to 90% non-condensing
  Operating
-altitude: tested up to 3048 metres (10000 feet)
+temperature: 5° to 40° C (41° to 104° F)
+ Storage temperature: -20° to 60° C (-4° to 140° F)
+Relative humidity: 30% to 65% non-condensing
+ Operating altitude: tested up to 3048 metres
+(10000 feet)
  Maximum storage altitude: 12192 metres (40000 feet)
- Maximum shipping
-altitude: 12192 metres (40000 feet)
+ Maximum shipping altitude:
+12192 metres (40000 feet)
 
  Size and Weight
 
  Height: 4.3 cm (1.69 inches)
  Width: 12.7 cm (5 inches)
- Depth: 12.7 cm (5 inches)
- Weight: 265 g (0.56
-pounds)
+ Depth: 12.7 cm (5
+inches)
+ Weight: 265 g (0.56 pounds)
 
  Operating System
 
