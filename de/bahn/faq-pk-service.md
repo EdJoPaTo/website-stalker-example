@@ -3124,9 +3124,9 @@ Nein, Sie können Bonvoyo nicht für Zahlungen im Fahrkartenshop verwenden.
  Kann ich noch im Zug ein Ticket kaufen?
 ----------
 
-Nein, seit dem 1. Januar 2022 können Sie im Fernverkehr keine Tickets mehr beim Zugpersonal kaufen.
+Nein, Sie können im Fernverkehr keine Tickets mehr beim Zugpersonal kaufen.
 
-Sie können jedoch bis 10 Minuten nach Abfahrt des Zuges (z.B. ICE, IC/EC) ein Ticket über die DB Navigator App buchen, wenn die Fahrzeit zwischen Ihrem Einstiegsbahnhof und dem nächsten Haltebahnhof mehr als 10 Minuten beträgt.
+Bis 10 Minuten nach Abfahrt des Zuges (z.B. ICE, IC/EC) können Sie jedoch ein Ticket über die App DB Navigator buchen, wenn die Fahrzeit zwischen Ihrem Einstiegsbahnhof und dem nächsten Haltebahnhof mehr als 10 Minuten beträgt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-noch-im-zug-ein-ticket-kaufen)
 

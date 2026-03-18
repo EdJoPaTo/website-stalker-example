@@ -5,31 +5,6 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
- Temporary Issue – Devices Showing as “Locked”
-----------
-
- We are aware of an issue where cloud-enabled Shelly devices **with local authentication enabled** may appear as **“Locked”** in the Shelly app, and entering the device password results in an **“Authentication failed”** message.
-
-* This affects only devices that have **local authentication (device restriction) enabled**.
-* Devices remain accessible locally via their IP address.
-* This behavior is related to cloud communication and does not affect local device functionality.
-
----
-
-### 🛠️ Status ###
-
- Our developers are aware of the problem and are working hard to resolve it as quickly as possible.
-
----
-
-### ✅ Temporary Workaround ###
-
- As a temporary solution, please disable **Local Network Control**:
-
-**Shelly App → Settings → App Settings → Disable “Local Network Control”**
-
- We sincerely apologize for the inconvenience and appreciate your patience while we resolve the issue.
-
 Knowledge base
 ----------
 

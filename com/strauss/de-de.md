@@ -65,8 +65,9 @@ Zehenschutz
 *
 *
 
-###  Angebote
-des Monats  ###
+ Angebote
+des Monats
+----------
 
 ---
 
@@ -294,7 +295,7 @@ JGAs
 ]()
 
  Von Workwear bis Werkzeug – Über 40.000 Produkte
-==========
+----------
 
 ---
 
@@ -308,14 +309,15 @@ JGAs
 
 [Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/)
 
-####  Newsletter  ####
+ Newsletter
+----------
 
 ---
 
  abonnieren & sparen
 ---
 
-[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
+[](https://www.strauss.com/de/de/Service/Newsletter)
 
  Sonder- & Rabattaktionen
 ---
@@ -326,12 +328,12 @@ JGAs
  exklusive Gutscheine
 ---
 
-[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3) [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
+[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter) [](https://www.strauss.com/de/de/Service/Newsletter)
 
  Exklusive Newsletter-Vorteile sichern
 ---
 
-[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=startseite_hw25_newsletter_3)
+[](https://www.strauss.com/de/de/Service/Newsletter)
 
  30 TAGE RÜCKGABERECHT
 
