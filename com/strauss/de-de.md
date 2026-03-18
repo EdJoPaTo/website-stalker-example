@@ -1,69 +1,122 @@
-Alte Schule
-neue Meister
+Sneaker
+trifft Arbeit
+---
+
+ Neue Sicherheits- und Berufsschuhe im Streetstyle
 ----------
 
 ---
 
- Neue Berufs- und Sicherheitsschuhe im Sneaker Style
-
-[Berufsschuhe](https://www.strauss.com/de/de/neuheiten-berufsschuhe/?itemorigin=startseite_FS26)
-
-[Sicherheitsschuhe](https://www.strauss.com/de/de/neuheiten-sicherheitsschuhe/?itemorigin=startseite_FS26)
-
-[Berufsschuhe](https://www.strauss.com/de/de/neuheiten-berufsschuhe/?itemorigin=startseite_FS26)
-
-[Sicherheitsschuhe](https://www.strauss.com/de/de/neuheiten-sicherheitsschuhe/?itemorigin=startseite_FS26)
-
- 01
----
-
- Schuh ohne
-Zehenschutz
-
- 01
----
-
- Schuh ohne
-Zehenschutz
-
- \+4
-
- O1 Berufsschuhe
- e.s. Brockton low
-
-[](https://www.strauss.com/de/de/berufsschuhe-o1/o1-berufsschuhe-e-s-brockton-low-1003520-86231-27.html?itemorigin=startseite_FS26)
-
- \+6
-
- O1 Berufsschuhe
- e.s. Brockton low
-
-[](https://www.strauss.com/de/de/berufsschuhe-o1/o1-berufsschuhe-e-s-brockton-low-1003520-86231-27.html?itemorigin=startseite_FS26)
-
- Bereit für
- Action
+ Neue Sicherheits- und Berufsschuhe im Streetstyle
 ----------
 
 ---
 
- Neu: Ursprüngliche Workwear mit modernster Technik
+ Neue Sicherheits- und Berufsschuhe im Streetstyle
+----------
 
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-t-aktik/?itemorigin=startseite_FS26)
+---
 
- Bundhose e.s.t:aktik
- light ripstop
+[Sicherheitsschuhe](https://www.strauss.com/de/de/neuheiten-sicherheitsschuhe/)
 
-[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-t-aktik-light-ripstop-3312630-62802-1875.html?itemorigin=startseite_FS26)
+[Berufsschuhe](https://www.strauss.com/de/de/neuheiten-berufsschuhe/)
 
- \+3
+[Sicherheitsschuhe](https://www.strauss.com/de/de/neuheiten-sicherheitsschuhe/)
 
- Bundhose e.s.t:aktik
- light ripstop
+[Berufsschuhe](https://www.strauss.com/de/de/neuheiten-berufsschuhe/)
 
-[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-t-aktik-light-ripstop-3312630-62802-1875.html?itemorigin=startseite_FS26)
+ S1
+---
+
+ Schuhe mit
+Zehenschutz
+
+ S1
+---
+
+ Schuhe mit
+Zehenschutz
+
+ \+5
+
+ S1 Sicherheitsschuhe
+e.s. Yatala low
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93120-1.html)
+
+ \+7
+
+ S1 Sicherheitsschuhe
+e.s. Yatala low
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93120-1.html)
+
+ Ab ins
+Grüne!
+---
+
+ Anpacken hat wieder Saison – in frischen Farben & sportlichen Styles fürs ganze Team!
+----------
+
+---
+
+ Anpacken hat wieder Saison – in frischen Farben & sportlichen Styles fürs ganze Team!
+----------
+
+---
+
+ Anpacken hat wieder Saison – in frischen Farben & sportlichen Styles fürs ganze Team!
+----------
+
+---
+
+[alles für die Gartenarbeit](https://www.strauss.com/de/de/gartenarbeit/)
+
+[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65651-995.html)
+
+[](https://www.strauss.com/de/de/westen/funktions-weste-thermo-stretch-e-s-motion-2020-3140120-65657-995.html)
+
+[](https://www.strauss.com/de/de/caps/cap-e-s-motion-2020-3401110-7810287-995.html)
+
+[](https://www.strauss.com/de/de/arbeitswesten-damen/funktions-weste-thermo-stretch-e-s-motion-2020-da-3140090-65757-995.html)
+
+[](https://www.strauss.com/de/de/arbeitsshorts-damen/short-e-s-motion-2020-damen-3350140-65753-995.html)
+
+ Für Arbeit &
+Abenteuer
+---
+
+ Outdoor Kleidung, Accessoires und mehr
+----------
+
+---
+
+ Outdoor Kleidung, Accessoires und mehr
+----------
+
+---
+
+ Outdoor Kleidung, Accessoires und mehr
+----------
+
+---
+
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/)
+
+[](https://www.strauss.com/de/de/arbeitsshirts/athletik-shirt-seamless-e-s-trail-3107140-21774-1920.html)
+
+[](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-seamless-e-s-trail-3411480-21704-1920.html)
+
+[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96141-1912.html)
 
 *
 *
+*
+
+ Alles für den Job: Profi-Arbeitskleidung von Europas Nr. 1
+==========
+
+---
 
  Angebote
 des Monats
@@ -83,169 +136,73 @@ Gültig bis 31.03.2026 | Solange der Vorrat reicht
 
 [](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
 
- Neu
-
- READY?
----
-
- FLEX
----
-
- SET
----
-
- Sets flexibel zusammenstellen
-
- Die neue Art Sets zu bauen
+ Strauss x
+Mario Kart
 ----------
 
 ---
 
-Ein Set, unzählige Möglichkeiten: Ihre Farben, Ihre Größen, Ihre Gratis-Artikel.
-
-[jetzt ausprobieren und sparen](https://www.strauss.com/de/de/flexible-sets/?itemorigin=startseite_FS26)
-
- Neuheiten
-
-###  Neue Saison, neue Styles
-Frühjahr | Sommer  ###
-
+ 3... 2... 1... Los!
 ---
 
-###  e.s.trail  ###
-
+ 3... 2... 1... Los!
 ---
 
- Sportliche Workwear mit
-frischen Styles & Farben
-
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/pullover-troyer/funktions-troyer-longsleeve-uv-e-s-trail-3121910-21745-1912.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/sweats-hoodies/funktions-hoody-longsleeve-uv-e-s-trail-3108090-21785-1912.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96141-1912.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/arbeitsshorts/trekking-swim-short-e-s-trail-3350990-96236-1912.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_FS26)
-
-###  e.s.trail  ###
-
+ 3... 2... 1... Los!
 ---
 
- Sportliche Workwear mit
-frischen Styles & Farben
+ Mit Style & Komfort geht's auf die Überholspur: Jetzt Favoriten wählen, bevor die limitierte Kollektion aus dem Rennen ist!
 
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_FS26)
+[jetzt entdecken](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[](https://www.strauss.com/de/de/pullover-troyer/funktions-troyer-longsleeve-uv-e-s-trail-3121910-21745-1912.html?itemorigin=startseite_FS26)
+[jetzt entdecken](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[](https://www.strauss.com/de/de/sweats-hoodies/funktions-hoody-longsleeve-uv-e-s-trail-3108090-21785-1912.html?itemorigin=startseite_FS26)
+[](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-sweatpants-kinder-3312650-70749-1909.html)
 
-[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96141-1912.html?itemorigin=startseite_FS26)
+[](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-sweatjacke-kinder-3108140-70739-1909.html)
 
-[](https://www.strauss.com/de/de/arbeitsshorts/trekking-swim-short-e-s-trail-3350990-96236-1912.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/e-s-trail/?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/kinder-shirts-polos/t-shirt-e-s-e-pic-kinder-3107970-21793-1757.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-e-s-e-pic-3107950-21594-1479.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/arbeitsshirts-damen/t-shirt-e-s-e-pic-damen-3107960-21692-1.html?itemorigin=startseite_FS26)
-
-###  e.s.epic  ###
-
----
-
- Coole Statement-Shirts
-für Groß und Klein
-
-[Herren](https://www.strauss.com/de/de/e-s-e-pic/?itemorigin=startseite_FS26&sort=newest)
-
-[Damen](https://www.strauss.com/de/de/e-s-e-pic-damen/?itemorigin=startseite_FS26&sort=newest)
-
-[Kinder](https://www.strauss.com/de/de/e-s-e-pic-kinder/?itemorigin=startseite_FS26&sort=newest)
-
-[](https://www.strauss.com/de/de/kinder-shirts-polos/t-shirt-e-s-e-pic-kinder-3107970-21793-1757.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-e-s-e-pic-3107950-21594-1479.html?itemorigin=startseite_FS26)
-
-[](https://www.strauss.com/de/de/arbeitsshirts-damen/t-shirt-e-s-e-pic-damen-3107960-21692-1.html?itemorigin=startseite_FS26)
-
-###  e.s.epic  ###
-
----
-
- Coole Statement-Shirts
-für Groß und Klein
-
-[Herren](https://www.strauss.com/de/de/e-s-e-pic/?itemorigin=startseite_FS26&sort=newest)
-
-[Damen](https://www.strauss.com/de/de/e-s-e-pic-damen/?itemorigin=startseite_FS26&sort=newest)
-
-[Kinder](https://www.strauss.com/de/de/e-s-e-pic-kinder/?itemorigin=startseite_FS26&sort=newest)
-
-###  Weitere Neuheiten entdecken  ###
-
----
-
-###  Herren  ###
-
----
-
-alle Produkte
-
-###  Herren  ###
-
----
-
-alle Produkte
-
-###  Damen  ###
-
----
-
-alle Produkte
-
-###  Damen  ###
-
----
-
-alle Produkte
-
-###  Kinder  ###
-
----
-
-alle Produkte
-
-###  Kinder  ###
-
----
-
-alle Produkte
+[](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-hoody-kinder-3108150-70679-1909.html)
 
  Druck & Stick - ab 1 Stück
-
-###
-
-jetzt online
-gestalten
-
- ###
+----------
 
 ---
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_FS26)
+ Druck & Stick - ab 1 Stück
+----------
+
+---
+
+ Druck & Stick - ab 1 Stück
+----------
+
+---
+
+ Jetzt online
+gestalten
+---
+
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_FS26)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
 
 zu den Produkten
+
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+
+zu den Produkten
+
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+
+zu den Produkten
+
+ Die Lieferung Ihrer Bestellung mit dem selbst gestalteten Produkt erfolgt in ca. 2 Wochen.
+
+*
+*
+*
 
 Stick: Direkteinstickung
 ---
@@ -293,6 +250,140 @@ Vatertag
 JGAs
 
 ]()
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
+
+[](https://www.strauss.com/de/de/geschenkideen-kinder/kinderhelm-7000530-7576095-0.html)
+
+[](https://www.strauss.com/de/de/kinder-bekleidungszubehoer/rucksack-e-s-e-pic-kinder-7072820-5505335-1.html)
+
+[](https://www.strauss.com/de/de/allroundtaschen/strauss-gym-bag-7072960-5576069-1.html)
+
+[Geschenkideen für Kinder](https://www.strauss.com/de/de/geschenkideen-kinder/)
+
+[Geschenkideen für Kinder](https://www.strauss.com/de/de/geschenkideen-kinder/)
+
+[Geschenkideen für Kinder](https://www.strauss.com/de/de/geschenkideen-kinder/)
+
+ Neuheiten
+----------
+
+---
+
+ Neuheiten
+----------
+
+---
+
+ Neuheiten
+----------
+
+---
+
+ Ein Team. Ein starker Look.
+---
+
+[](https://www.strauss.com/de/de/arbeits-polo-shirts/pique-polo-e-s-industry-3106110-20513-6.html)
+
+[](https://www.strauss.com/de/de/polo-shirts-damen/pique-polo-e-s-industry-damen-3107990-20663-6.html)
+
+[](https://www.strauss.com/de/de/polo-shirts-damen/e-s-pique-polo-cotton-light-damen-3107930-20946-35.html)
+
+[](https://www.strauss.com/de/de/arbeits-polo-shirts/e-s-pique-polo-cotton-light-3107920-20846-35.html)
+
+###  e.s.Industry  ###
+
+---
+
+waschbar bei 75 °C
+stabil in Form & Farbe
+
+[für Herren](https://www.strauss.com/de/de/f/e-s-industry/Herren_Damen_Kinder:Herren/#PromotionTile_PromoTile_Industry_FS26_MyDesign)
+
+[für Damen](https://www.strauss.com/de/de/f/e-s-industry/Herren_Damen_Kinder:Damen/#PromotionTile_PromoTile_Industry_FS26_MyDesign)
+
+[für Herren](https://www.strauss.com/de/de/f/e-s-industry/Herren_Damen_Kinder:Herren/#PromotionTile_PromoTile_Industry_FS26_MyDesign)
+
+[für Damen](https://www.strauss.com/de/de/f/e-s-industry/Herren_Damen_Kinder:Damen/#PromotionTile_PromoTile_Industry_FS26_MyDesign)
+
+###  e.s.basics  ###
+
+---
+
+von 2XS bis 8XL
+in über 30 Farben
+
+[für Herren](https://www.strauss.com/de/de/basics/?sort=newest)
+
+[für Damen](https://www.strauss.com/de/de/basics-damen/)
+
+[
+
+für Herren
+
+]()
+
+[für Damen](https://www.strauss.com/de/de/basics-damen/)
+
+ Weitere Neuheiten entdecken
+---
+
+###  Herren  ###
+
+---
+
+alle Produkte
+
+###  Herren  ###
+
+---
+
+alle Produkte
+
+###  Damen  ###
+
+---
+
+alle Produkte
+
+###  Damen  ###
+
+---
+
+alle Produkte
+
+###  Kinder  ###
+
+---
+
+alle Produkte
+
+###  Kinder  ###
+
+---
+
+alle Produkte
+
+ Hallo Mannheim!
+
+###  Messe  ###
+
+---
+
+ 25.04. – 05.05.2026 | Mannheim
+---
+
+[mehr Informationen](https://www.maimarkt.de/home)
 
  Von Workwear bis Werkzeug – Über 40.000 Produkte
 ----------
