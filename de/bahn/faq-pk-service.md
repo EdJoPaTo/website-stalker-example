@@ -7562,7 +7562,7 @@ Mit "Rail&Fly" fahren Sie bequem mit dem Zug von Ihrem Bahnhof bis zum Flughafen
 
 Bitte wenden Sie sich hierzu direkt an Ihren Reiseveranstalter. Diese Seite informiert ausschließlich Reisende, die Rail&Fly in Kombination mit einem internationalen Flugticket einer Airline gebucht haben.
 
-* [Rail & Fly](https://www.bahn.de/service/informationen-buchung/bahn-flug/rail-fly)
+* [Rail & Fly](https://www.bahn.de/angebot/weiterreise/bahn-flug/rail-fly)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-informationen-zu-rail-fly)
 
