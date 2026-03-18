@@ -60,7 +60,7 @@ Ein Ticket, das zu einem ermäßigten BahnCard-Tarif gebucht wurde, ist nur gege
 Ich habe beim Kauf eines Sparpreis-Tickets einen Fehler gemacht – kann ich es noch stornieren?
 ----------
 
-Sparpreis- und Sparpreis-Tickets können kostenlos storniert werden – allerdings nur bis zu 3 Stunden (180 Minuten) nach der Buchung und vor dem ersten Geltungstag der Fahrkarten. Der komplette Zahlungsbetrag des Auftrags wird dann auf das ursprünglich verwendete Zahlungsmittel zurückerstattet. (Bei der Buchung verwendete Gutscheine behalten ihre Gültigkeit, verwendete Aktionsgutscheine können hingegen nicht erstattet werden. Buchungen mit Gutscheinzahlungen, bei denen ein Restwertgutschein versendet wurde, können sofort storniert werden.) Die Sofortstornierung greift immer für den gesamten Auftrag und umfasst auch die zusätzlich gebuchten Leistungen (Sitzplatzreservierung, Fahrradkarte, City mobil, Fahrkarten-Schutz).
+Sparpreis-Tickets können kostenlos storniert werden – allerdings nur bis zu 3 Stunden (180 Minuten) nach der Buchung und vor dem ersten Geltungstag der Fahrkarten. Der komplette Zahlungsbetrag des Auftrags wird dann auf das ursprünglich verwendete Zahlungsmittel zurückerstattet. (Bei der Buchung verwendete Gutscheine behalten ihre Gültigkeit, verwendete Aktionsgutscheine können hingegen nicht erstattet werden. Buchungen mit Gutscheinzahlungen, bei denen ein Restwertgutschein versendet wurde, können sofort storniert werden.) Die Sofortstornierung greift immer für den gesamten Auftrag und umfasst auch die zusätzlich gebuchten Leistungen (Sitzplatzreservierung, Fahrradkarte, City mobil, Fahrkarten-Schutz).
 
 Ich sitze in einem verspäteten Zug und weiß nicht, ob ich meinen Anschlusszug schaffe.
 ----------
@@ -71,16 +71,17 @@ Ich sitze in einem verspäteten Zug und weiß nicht, ob ich meinen Anschlusszug 
 
 Die App DB Navigator zeigt, welche Verspätung für die jeweilige Fahrt prognostiziert ist.
 
-Um dies zu sehen können Reisende in der App auf „Reisen” am unteren Bildschirmrand tippen und die gespeicherte Reise öffnen oder sie suchen die Verbindung direkt in der Reiseauskunft raus. Dort wir dann angezeigt, wie viel Verspätung der Zug hat und ob Anschlusszug erreicht werden kann. Wenn nicht, werden außerdem Alternativen vorgeschlagen. Ist die Option [„](https://www.bahn.de/service/ueber-uns/inside-bahn/tipps-tricks/db-navigator-benachrichtigungen-zur-reise)Benachrichtigung zur Reise[”](https://www.bahn.de/service/ueber-uns/inside-bahn/tipps-tricks/db-navigator-benachrichtigungen-zur-reise) aktiviert, erhalten Reisende bei Änderungen während der Reise eine Info per Mail oder als Push-Nachricht direkt auf das Smartphone.
+Um dies zu sehen können Reisende in der App auf "Reisen" am unteren Bildschirmrand tippen und die gespeicherte Reise öffnen oder sie suchen die Verbindung direkt in der Reiseauskunft raus. Dort wird dann angezeigt, wie viel Verspätung der Zug hat und ob Anschlusszug erreicht werden kann. Wenn nicht, werden außerdem Alternativen vorgeschlagen. Ist die Option "[Benachrichtigung zur Reise](https://www.bahn.de/service/fahrplaene/digitale-reisebegleitung/verspaetungsalarm-push#video)" aktiviert, erhalten Reisende bei Änderungen während der Reise eine Info per Mail oder als Push-Nachricht direkt auf das Smartphone.
 
 Bei einem Fernverkehrsticket erlischt im Fall einer Zugverspätung von mindestens 20 Minuten die Zugbindung. Reisende können dann unkompliziert einen anderen Zug nutzen, um an das gewünschte Reiseziel zu gelangen.
-Wichtig: Wer ein Ticket für den Regionalverkehr gebucht habt, aber mit einem Fernverkehrszug (IC, EC oder ICE) weiterfahren will, muss ein neues Ticket kaufen bzw. einen Aufpreis bezahlen. Diese Kosten können im Nachhinein beim Servicecenter Fahrgastrechte geltend gemacht werden. Erheblich ermäßigte Fahrkarten wie z. B. Länder-Tickets oder Quer-durchs-Land-Tickets sind davon ausgenommen.
+
+**Wichtig:** Wer ein Ticket für den Regionalverkehr gebucht hat, aber mit einem Fernverkehrszug (IC, EC oder ICE) weiterfahren will, muss ein neues Ticket kaufen bzw. einen Aufpreis bezahlen. Diese Kosten können im Nachhinein beim Servicecenter Fahrgastrechte geltend gemacht werden. Erheblich ermäßigte Fahrkarten wie z. B. Länder-Tickets oder Quer-durchs-Land-Tickets sind davon ausgenommen.
 
 ###  Unsere Website nutzen  ###
 
 #### Unsere Website nutzen. ####
 
-Reisende können auch die Reiseauskunft auf unserer Website nutzen. Dort wird ebenfalls der aktuelle Fahrtverlauf mit eventuellen Verspätungen und Anschluss-Alternativen angezeigt. Außerdem können sich Reisende auf bahn.de in ihr Kundenkonto einloggen, unter „Meine Buchungen” finden sie ihre Fahrt mit allen Infos. Auch auf bahn.de kann die Funktion „Benachrichtigung zur Reise” aktiviert werden, um dann Informationen per Mail über Änderungen zu erhalten.
+Reisende können auch die Reiseauskunft auf unserer Website nutzen. Dort wird ebenfalls der aktuelle Fahrtverlauf mit eventuellen Verspätungen und Anschluss-Alternativen angezeigt. Außerdem können sich Reisende auf bahn.de in ihr Kundenkonto einloggen, unter "Meine Buchungen" finden sie ihre Fahrt mit allen Infos. Auch auf bahn.de kann die Funktion "Benachrichtigung zur Reise" aktiviert werden, um dann Informationen per Mail über Änderungen zu erhalten.
 
 ###  Das Zugpersonal fragen  ###
 
