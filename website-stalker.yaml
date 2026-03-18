@@ -203,9 +203,20 @@ sites:
       - json_prettify
 
   - url:
-      - https://www.hetzner.com/cloud/
-      - https://www.hetzner.com/storage/storage-box/
-      - https://www.hetzner.com/storage/storage-share/
+      - https://www.hetzner.com/de/cloud/
+      - https://www.hetzner.com/de/cloud/block-storage/
+      - https://www.hetzner.com/de/cloud/cost-optimized/
+      - https://www.hetzner.com/de/cloud/general-purpose/
+      - https://www.hetzner.com/de/cloud/regular-performance/
+      - https://www.hetzner.com/de/storage/object-storage/
+    editors:
+      - css_select: main
+      - css_remove: script, nav, picture, img, svg
+      - html_url_canonicalize
+      - html_markdownify
+  - url:
+      - https://www.hetzner.com/de/storage/storage-box/
+      - https://www.hetzner.com/de/storage/storage-share/
     editors:
       - css_select: main
       - css_remove: script, nav, picture, img, svg, *[slot^="usd"]
