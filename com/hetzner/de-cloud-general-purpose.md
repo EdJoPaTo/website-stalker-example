@@ -315,7 +315,7 @@ ERP-, CRM- oder BI-Systeme, die auf performanter und sicherer Infrastruktur basi
 
 Erweitere deine Cloud mit Add-ons: Floating IPs
 
-Floating IPs sind flexible öffentliche IPv4- und IPv6-Adressen, die du Servern innerhalb eines Projekts dynamisch zuweisen und jederzeit wechseln können. Ideal für Failover, Lastverteilung oder den schnellen IP-Tausch, ohne Server-Neustart.
+Floating IPs sind flexible öffentliche IPv4- und IPv6-Adressen, die du Servern innerhalb eines Projekts dynamisch zuweisen und jederzeit wechseln kannst. Ideal für Failover, Lastverteilung oder den schnellen IP-Tausch, ohne Server-Neustart.
 
 Weitere, optional buchbare, Add-ons sind Backups und Snapshots.
 
