@@ -367,7 +367,7 @@ Und das alles ganz simpel: von der Einrichtung bis hin zur Nutzung. Bei Fragen h
 
 [Coud Server erstellen](https://console.hetzner.com/)
 
- .cta-background { background-image: url(); } @media (max-width: 768px) { .cta-background { background-image: url(https://cdn.hetzner.com/assets/Uploads/affordable-cloud-section-hetzner\_mobile.webp); } }
+ .cta-background { background-image: url(https://cdn.hetzner.com/assets/Uploads/affordable-cloud-section-hetzner\_big.webp); } @media (max-width: 768px) { .cta-background { background-image: url(https://cdn.hetzner.com/assets/Uploads/affordable-cloud-section-hetzner\_mobile.webp); } }
 
 Häufig gestellte Fragen
 ----------
