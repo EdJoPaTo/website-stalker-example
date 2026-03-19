@@ -114,8 +114,6 @@ Profitiere von Flexibilität und Leistung für vielfältige Anwendungsfälle und
 
 [Create Bucket](https://console.hetzner.cloud/)
 
- .cta-background { background-image: url('https://cdn.hetzner.com/assets/Uploads/Object-Storage\_startProject.jpg'); } @media (max-width: 768px) { .cta-background { background-image: url('https://cdn.hetzner.com/assets/Uploads/Object-Storage\_startProject\_mobile.jpg'); } }
-
 [Daten von einem anderen Anbieter zu Hetzner migrieren Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/migrate-data) [Festplattenpartitionen von einem anderen Anbieter zu Hetzner migrieren Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/migrate-partition) [Getting started: Einen Server erstellen Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/creating-a-server)
 
 ### Maximale Datensicherheit nach DSGVO-Standards ###

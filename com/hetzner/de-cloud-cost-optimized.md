@@ -397,8 +397,6 @@ Und das alles ganz simpel: von der Einrichtung bis hin zur Nutzung. Bei Fragen h
 
 [Cloud Docs Docs](https://docs.hetzner.com/cloud) [Cloud Guides Tutorials](https://community.hetzner.com/tutorials) [API Docs Docs](https://docs.hetzner.cloud/)
 
- .cta-background { background-image: url(); } @media (max-width: 768px) { .cta-background { background-image: url(https://cdn.hetzner.com/assets/Uploads/affordable-cloud-section-hetzner\_mobile.webp); } }
-
 Häufig gestellte Fragen
 ----------
 

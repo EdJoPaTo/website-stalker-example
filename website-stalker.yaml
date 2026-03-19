@@ -211,7 +211,7 @@ sites:
       - https://www.hetzner.com/de/storage/object-storage/
     editors:
       - css_select: main
-      - css_remove: script, nav, picture, img, svg
+      - css_remove: script, style, nav, picture, img, svg
       - html_url_canonicalize
       - html_markdownify
   - url:
@@ -219,7 +219,7 @@ sites:
       - https://www.hetzner.com/de/storage/storage-share/
     editors:
       - css_select: main
-      - css_remove: script, nav, picture, img, svg, *[slot^="usd"]
+      - css_remove: script, style, nav, picture, img, svg, *[slot^="usd"]
       - css_flatten: a[href="https://konsoleh.hetzner.com/"]
       - css_tag_replace:
           selector: .cloud-table-name, .product-text-name
