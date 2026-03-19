@@ -11,8 +11,6 @@ Die beste Simple-Cloud-Lösung für deine anspruchsvollen Projekte. Einfach zu b
 
 [Preisrechner Cloud-Kosten berechnen](https://www.hetzner.com/de/cloud/#174613) [Made in Germany DSGVO-konform](https://www.hetzner.com/de/cloud/#174118) [Features Networks, API uvm.](https://www.hetzner.com/de/cloud/#174113) [Einfache Nutzung Intuitive One-Click-Apps](https://www.hetzner.com/de/cloud/#174114)
 
- @media (max-width: 991px) { .landing-header { background-image: url(https://cdn.hetzner.com/assets/Uploads/affordable-cloud-overview-hetzner\_mobile.webp) !important; background-size: cover !important; background-position: center calc(50% - 0px) !important; } .landing-header.header-variant-0 { background-position: center calc(50% - 10px) !important; } .landing-header.header-variant-1 { background-position: center calc(50% - 80px) !important; } .landing-header.header-variant-2 { background-position: center calc(50% - 160px) !important; } .landing-header.header-variant-3 { background-position: center calc(50% - 230px) !important; } .landing-header.header-variant-4 { background-position: center calc(50% - 300px) !important; } }
-
 Welcher Hetzner Cloud Server
 ist der richtige für dich?
 ----------
