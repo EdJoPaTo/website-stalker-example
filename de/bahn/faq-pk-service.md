@@ -973,6 +973,15 @@ Wir arbeiten derzeit an bedarfsgerechten Begleitlösungen und informieren Sie um
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitservice-kinder)
 
+ Ich erhalte die Meldung, dass kein Gerätewechsel möglich ist. Was kann ich tun?
+----------
+
+Die Anzahl der Übertragungen von einem Handy-Ticket, die von einem anderen Gerät durchgeführt werden können, ist aus Sicherheitsgründen auf einen Zeitraum innerhalb von 30 Tagen begrenzt. Wenn Sie das Handy-Ticket in dem Zeitraum schon mehrfach übertragen haben, ist kein weiterer Wechsel möglich. Bitte warten Sie einige Tage, bis weitere Wechsel automatisch freigeschalten werden.
+
+* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begrenzung-uebertragung)
+
  Behalte ich mein Statuslevel, wenn ich mich von BahnBonus abmelde?
 ----------
 
@@ -2292,6 +2301,26 @@ Bitte informieren Sie sich auch rechtzeitig vor Antritt Ihrer Reise zu mögliche
 [Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/habe-ich-fuer-mein-fahrrad-eine-mitnahmegarantie-im-nahverkehr)
+
+ Ich kann das Abo nicht als Handy-Ticket hinzufügen. Was kann ich tun?
+----------
+
+Das Handy-Ticket eines Abos (z.B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen.
+Alternativ können Sie das Ticket in Meine Reisen über das "+" selbst hinzufügen.
+
+Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle Version der App nutzen.
+
+Weitere Tipps:
+
+* Ist die Schreibweise Ihres Nachnamens genau wie bei der Bestellung? Dies können Sie in der Bestellbestätigung oder im Aboportal nachprüfen.
+* Prüfen Sie auch, dass Sie Vorname und Nachname nicht vertauschen.
+* Achten Sie darauf, keine Leerzeichen am Anfang oder Ende Ihrer Eingaben zu setzen. Das kann beim Kopieren der Daten versehentlich passieren.
+*  Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
+* Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
+
+* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-zufuegen)
 
  Wie kann ich Hilfeleistungen anmelden und was ist bei angemeldeten Hilfeleistungen zu beachten?
 ----------
