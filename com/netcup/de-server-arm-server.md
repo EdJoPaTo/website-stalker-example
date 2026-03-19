@@ -36,7 +36,7 @@ VPS 1000 ARM G11
 
 bereits ab monatlich
 
-7,77 €
+6,26 €
 
 (inkl. 19% MwSt.)
 
@@ -60,7 +60,7 @@ VPS 2000 ARM G11
 
 bereits ab monatlich
 
-13,41 €
+10,79 €
 
 (inkl. 19% MwSt.)
 
@@ -84,7 +84,7 @@ VPS 3000 ARM G11
 
 bereits ab monatlich
 
-18,96 €
+15,26 €
 
 (inkl. 19% MwSt.)
 
@@ -108,7 +108,7 @@ VPS 4000 ARM G11
 
 bereits ab monatlich
 
-25,06 €
+20,16 €
 
 (inkl. 19% MwSt.)
 
@@ -133,7 +133,7 @@ VPS 6000 ARM G11
 
 bereits ab monatlich
 
-32,21 €
+25,92 €
 
 (inkl. 19% MwSt.)
 
@@ -157,7 +157,7 @@ VPS 8000 ARM G11
 
 bereits ab monatlich
 
-39,98 €
+32,17 €
 
 (inkl. 19% MwSt.)
 

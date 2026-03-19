@@ -13,7 +13,7 @@ Preisoptimierte vServer Tarife
 
 Unsere vServer Lite Tarife sind **dauerhaft preisoptimiert** und bieten ein **besonders attraktives Preis-Leistungs-Verhältnis** – ohne Abstriche in Stabilität und Zuverlässigkeit. Ideal für Anwendungen mit moderatem Traffic und preisbewusste Workloads.
 
-VPS piko G11s
+VPS pico G11s
 
 * 1 vCore (x86)
 
@@ -31,7 +31,7 @@ VPS piko G11s
 
 monatlich nur
 
-1,60 €
+1,84 €
 
 (inkl. 19% MwSt.)
 
@@ -55,7 +55,7 @@ VPS nano G11s
 
 monatlich nur
 
-2,60 €
+3,08 €
 
 (inkl. 19% MwSt.)
 
@@ -81,7 +81,7 @@ VPS Lite 1 G12s
 
 monatlich nur
 
-4,05 €
+4,88 €
 
 (inkl. 19% MwSt.)
 
@@ -107,7 +107,7 @@ VPS Lite 2 G12s
 
 monatlich nur
 
-6,49 €
+7,92 €
 
 (inkl. 19% MwSt.)
 
@@ -133,7 +133,7 @@ VPS Lite 3 G12s
 
 monatlich nur
 
-11,30 €
+13,89 €
 
 (inkl. 19% MwSt.)
 
@@ -159,7 +159,7 @@ VPS Lite 4 G12s
 
 monatlich nur
 
-20,81 €
+25,72 €
 
 (inkl. 19% MwSt.)
 

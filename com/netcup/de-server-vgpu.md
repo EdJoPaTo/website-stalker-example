@@ -35,7 +35,7 @@ RS 2000 vGPU 7
 
 bereits ab monatlich
 
-97,95 €
+121,77 €
 
 (inkl. 19% MwSt.)
 
@@ -63,7 +63,7 @@ RS 4000 vGPU 14
 
 bereits ab monatlich
 
-186,95 €
+232,43 €
 
 (inkl. 19% MwSt.)
 
