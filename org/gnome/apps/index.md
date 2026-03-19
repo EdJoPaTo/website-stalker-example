@@ -28,7 +28,7 @@ GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually pre-
 * [**Files**Access and organize files](Nautilus/)
 * [**Fonts**View fonts on your system](FontViewer/)
 * [**Help**Help viewer for GNOME](Yelp/)
-* [**Image Viewer**View images](Loupe/)
+* [**Image Viewer**View and edit images](Loupe/)
 * [**Logs**View detailed event logs for the system](Logs/)
 * [**Maps**Find places around the world](Maps/)
 * [**Music**Play and organize your music collection](Music/)
