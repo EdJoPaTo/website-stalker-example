@@ -136,6 +136,42 @@ Gültig bis 31.03.2026 | Solange der Vorrat reicht
 
 [](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
 
+ SET:Softshelljacke & Weste e.s.motion 2020 + GRATIS e.s. Trinkflasche Tritan
+
+ SET:Softshelljacke & Weste e.s.motion 2020 + GRATIS e.s. Trinkflasche Tritan
+
+ SET:Softshelljacke & Weste e.s.motion 2020 + GRATIS e.s. Trinkflasche Tritan
+
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0008?variantId=c41e35ff-6a1a-41a9-acee-b0569c7f18c5)
+
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0008?variantId=c41e35ff-6a1a-41a9-acee-b0569c7f18c5)
+
+ Strauss Aktions-Sets
+----------
+
+---
+
+ Strauss Aktions-Sets
+----------
+
+---
+
+ Strauss Aktions-Sets
+----------
+
+---
+
+ Preis-Vorteil!
+Sparen im Set
+---
+
+Farben + Größen flexibel
+zusammenstellen & kräftig sparen.
+
+[alle Aktions-Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
+
+[alle Aktions-Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
+
  Strauss x
 Mario Kart
 ----------
