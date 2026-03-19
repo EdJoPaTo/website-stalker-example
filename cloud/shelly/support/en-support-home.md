@@ -5,6 +5,18 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
+ GEN1 Upgrade Program – Voucher Usage Notice
+----------
+
+ Please be advised that vouchers issued under the GEN1 Upgrade Program (Shelly 1, 1PM, 2PM) are applicable **only to single packs** and cannot be used for bundles or multi-pack products.
+
+* Valid for equivalent **Gen3 devices (Shelly 1, 1PM, 2PM)**.
+* **Not valid for Shelly Mini devices.**
+* Based on the Gen1 devices registered in your app.
+* Maximum limit of **15 units**.
+
+[View full terms and conditions](https://www.shelly.com/pages/gen1-upgrade-info)
+
 Knowledge base
 ----------
 
