@@ -1,6 +1,15 @@
 Häufige Fragen zu "Deutschland-Ticket"
 ==========
 
+ Ist es möglich, das Abbuchungsdatum zu ändern?
+----------
+
+Nein, da es sich um einen automatisierten Vorgang handelt. In den Beförderungsbedingungen ist je nach ausgewähltem Abonnement festgelegt, wann der Einzug von Ihrem Konto für die monatlichen Beiträge erfolgt.
+
+Bei einem Deutschland-Ticket, welches direkt bei der DB erworben wurde, erfolgt der Einzug immer zum ersten eines Monats.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderung-abbuchungsdatum)
+
  Wie kann ich die BahnCard 100 inklusive Deutschland-Ticket beantragen?
 ----------
 
@@ -905,6 +914,19 @@ So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal 
 * [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
+
+ Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?
+----------
+
+Das Handy-Ticket eines Abos (z.B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jeodch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
+
+Alternativ können Sie das Ticket in Meine Reisen über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
+
+Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle Version der App nutzen.
+
+* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-wird-nicht-angezeigt)
 
  Ich kann das Abo nicht als Handy-Ticket hinzufügen. Was kann ich tun?
 ----------

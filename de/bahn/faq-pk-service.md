@@ -464,6 +464,15 @@ Ihre angemeldete Hilfeleistung ist an eine konkrete Verbindung gebunden. Falls S
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderung-reiseverbindung)
 
+ Was muss ich bei der Änderung meiner Daten beachten, wenn ich ein Abo habe?
+----------
+
+Für die Änderung des Namens, Geschlechts oder Geburtsdatum im bahn.de Kundenkonto prüfen Sie bitte die [Hilfestellungen zur Änderung persönlicher Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/kundenkonto/persoenliche-daten). Die Änderungen werden nur in bestimmten Fällen auch für Ihren Abovertrag übernommen. Daher prüfen Sie bitte nach der Änderung im Kundenkonto im Aboportal unter "Meine Daten", ob Ihre Daten geändert wurden. Andernfalls melden Sie die Änderung bitte über das Kontaktformular mit dem entsprechenden Nachweis.
+
+Bei der Neubstellung eines Abos werden die aktuellen Daten aus dem Kundenkonto übernommen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-kundenkonto)
+
  Kann ich als bahn.business-Kund:in mit dem Online-Ticket BahnBonus Punkte sammeln?
 ----------
 
@@ -2302,6 +2311,37 @@ Bitte informieren Sie sich auch rechtzeitig vor Antritt Ihrer Reise zu mögliche
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/habe-ich-fuer-mein-fahrrad-eine-mitnahmegarantie-im-nahverkehr)
 
+ Warum aktualisiert sich das Handy-Ticket meines Abos nicht?
+----------
+
+Das Handy-Ticket eines Abos wird immer für den aktuellen Kalendermonat ausgestellt. Es aktualisiert sich am Monatswechsel automatisch. Nach der Aktualisierung kann das Ticket auch ohne Internetverbindung aufgerufen werden.
+
+Aktualsiert sich Ihr Handy-Ticket nicht automatisch prüfen Sie folgende Schritte:
+
+* Sind Sie mit einer stabilen Internetverbindung verbunden?
+* Haben Sie für die App die Einstellungen zur HIntergrundaktualisierung aktiviert?
+* Haben Sie die aktuellste App-Version der App?
+* Fügen Sie das Ticket bei Bedarf noch einmal neu hinzu.
+
+Es ist kein Login für das Hinzufügen oder Aktualisieren des Handy-Tickets erforderlich.
+
+* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-aktualisierung)
+
+ Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?
+----------
+
+Das Handy-Ticket eines Abos (z.B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jeodch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
+
+Alternativ können Sie das Ticket in Meine Reisen über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
+
+Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle Version der App nutzen.
+
+* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-wird-nicht-angezeigt)
+
  Ich kann das Abo nicht als Handy-Ticket hinzufügen. Was kann ich tun?
 ----------
 
@@ -3242,6 +3282,15 @@ Benachrichtigungen zur Reise erhalten Sie frühestens 14 Tage vor Reisebeginn. F
 Mit dieser Regelung möchten wir sicherstellen, dass Sie möglichst verlässliche Informationen und nur so viele Benachrichtigungen wie nötig erhalten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keine-benachrichtigung-zur-reise-erhalten)
+
+ Ich erhalte die E-Mail zur Übertragung meines Abo-Handy-Tickets nicht. Was kann ich tun?
+----------
+
+Die E-Mail zur Übertragung wird an die E-Mail-Adresse der reisenden Person gesendet. Sie können Ihre E-Mail-Adresse im Aboportal unter "Meine Daten" überprüfen und selbständig ändern. Anschließend starten Sie den Prozess zur Übertragung auf Ihrem Gerät erneut und lassen sich die E-Mail erneut zusenden.
+
+* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keine-mail-zur-uebertragung)
 
  Was kann ich tun, wenn ich den Code zur 2-Faktor-Authentifizierung nicht generieren oder empfangen kann?
 ----------
