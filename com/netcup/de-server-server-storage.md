@@ -78,8 +78,6 @@ Preis / Monat
 
 Der Storage Space kann zu einem bestehenden Server über das CCP gebucht werden. Bestandskunden können kostenlos auf die neue Abrechnungsvariante wechseln. Kontaktiere dazu bitte unseren Support.
 
-Hinweis: Ab dem 01.05.2026 erhöht sich der Preis für Storage Space um 21,52%.
-
 ### Weitere Angebote ###
 
 [Root-Server Generation 12](https://www.netcup.com/de/server/root-server)
