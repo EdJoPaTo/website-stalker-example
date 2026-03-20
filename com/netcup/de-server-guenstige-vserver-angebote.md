@@ -168,17 +168,17 @@ monatlich nur
 Compute-Power zum besten Preis
 ----------
 
-Unsere vServer Lite Tarife bieten **dauerhaft günstige, preisoptimierte VPS-Lösungen** – ideal für Einsteiger, Entwickler oder kleinere Projekte. Hier findest du die passende Lösung für dein Vorhaben zum kleinen, vorhersehbaren Preis ohne versteckte Kosten oder Preiserhöhungen nach dem ersten Jahr.
+Unsere vServer Lite Tarife bieten **günstige, preisoptimierte VPS-Lösungen** – ideal für Einsteiger, Entwickler oder kleinere Projekte. Hier findest du die passende Lösung für dein Vorhaben zum kleinen, vorhersehbaren Preis ohne versteckte Kosten oder Preiserhöhungen nach dem ersten Jahr.
 
 Local Block Storage bei vServer
 ----------
 
 Je nach Tarif stehen dir mit der Local-Block-Storage-Technologie für **VPS Lite-Tarife** **bis zu 4 TB Speicher** zur Verfügung. Wähle frei von Laufzeiten die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage) und decke so einfach und schnell den Bedarf an neuen Ressourcen. Profitiere von der flexiblen und **kostengünstigen Möglichkeit, Speicherkapazitäten jederzeit nach Bedarf zu erweitern**.
 
-Dauer-Tiefpreis
+Tiefpreis
 ----------
 
-Beste Leistung zum besten Preis: Solltest du einen vergleichbaren vServer bei einem anderen Anbieter günstiger finden, kontaktiere einfach unseren Support vor deiner Bestellung. Stimmen die Konditionen überein, erhältst du von uns einen zusätzlichen Rabatt von 10 % auf deinen Dauer-Tiefpreis. Noch mehr attraktive Deals und Sonderangebote findest du in unserer [Deals-Übersicht](https://www.netcup.com/de/deals).
+Beste Leistung zum besten Preis: Solltest du einen vergleichbaren vServer bei einem anderen Anbieter günstiger finden, kontaktiere einfach unseren Support vor deiner Bestellung. Stimmen die Konditionen überein, erhältst du von uns einen zusätzlichen Rabatt von 10 % auf deinen Tiefpreis. Noch mehr attraktive Deals und Sonderangebote findest du in unserer [Deals-Übersicht](https://www.netcup.com/de/deals).
 
 Frequently Asked Questions
 ----------

@@ -45,10 +45,10 @@ Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media,
 Wieso netcup?
 ----------
 
-Dauer-Tiefpreis
+Fairer Preis
 ----------
 
-Bei netcup stehen Kostentransparenz und Verlässlichkeit an erster Stelle. Unsere Preise sind von Anfang an fair und klar kalkuliert – ohne versteckte Gebühren oder unerwartete Erhöhungen. Sie bleiben auch nach dem ersten Jahr unverändert.
+Bei netcup stehen Kostentransparenz und Verlässlichkeit an erster Stelle. Unsere Preise sind von Anfang an fair und klar kalkuliert – ohne versteckte Gebühren. Sie bleiben auch nach dem ersten Jahr unverändert.
 
 Zufriedenheitsgarantie
 ----------
@@ -233,7 +233,7 @@ So bekommst du die neueste Technik für deine Online-Projekte günstiger, als zu
 
 Für nähere Infos folge uns auf Social Media, abonniere unseren Newsletter oder unsere Messenger-Kanäle und bekomme bei jeder netcup Aktion als Erster die Infos zum Start.
 
-Dauerhaft gültige Angebote
+Beste Angebote
 ----------
 
 Bei netcup setzen wir auf Transparenz und faire Preise. Unsere dauerhaft gültigen Angebote bedeuten, dass wenn du dich für einen unserer Deals entscheidest, der Aktionspreis sowie die Leistungsbeschreibung für dich dauerhaft gelten. Wir verzichten auf komplizierte Preisstrategien, sodass du dich darauf verlassen kannst, dass das, was du heute wählst, auch langfristig Bestand hat.
