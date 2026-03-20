@@ -8,6 +8,8 @@ vGPU-Server
 * Garantierte vCPU und VRAM Ressourcen
 * Hosted in Europe / Serverstandort Nürnberg
 
+Dieses Produkt ist aktuell nicht verfügbar. Wir arbeiten daran, es schnellstmöglich wieder anzubieten. Vielen Dank für dein Verständnis. Entdecke unsere [Root Server-Angebote](https://www.netcup.com/de/server/root-server) als leistungsstarke Alternative!
+
 **GPU-Leistung aus der Cloud für anspruchsvolle Workloads**
 ----------
 
