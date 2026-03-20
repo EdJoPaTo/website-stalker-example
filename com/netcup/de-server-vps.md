@@ -142,11 +142,6 @@ Vorteile unserer vServer / VPS
 
 Basierend auf einer möglichst flexiblen Mindestvertragslaufzeit bieten unsere virtuellen Server / VPS **viel Rechenpower zu einem günstigen Preis**. Sie sind ähnlich ausgestattet wie unsere [Root Server.](https://www.netcup.com/de/server/root-server) Jedoch sind die dedizierten CPU-Kerne, die Zufriedenheitsgarantie und die sehr hohe garantierte Mindestverfügbarkeit von 99,9% im Jahresmittel bei den VPS nicht enthalten. Dafür **garantieren wir dir bei den VPS den weltweit besten Preis**.
 
-Local Block Storage bei vServer
-----------
-
-Mit der Local Block Storage-Technologie stehen dir **bis zu 8 TB zusätzlicher Speicher** zur Verfügung. Wähle flexibel und ohne feste Laufzeiten genau die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage), die du benötigst, und erweitere deine Ressourcen schnell und unkompliziert. So passt du deine Speicherleistung jederzeit **bedarfsgerecht, flexibel und kosteneffizient** an.
-
 VPS-Server im Vergleich
 ----------
 

@@ -26,10 +26,10 @@ Wählen Sie Ihre DB Lounge für detaillierte Informationen
 
 * [Springe zu: Zutritt, Ausstattung und Gastronomie](https://www.bahn.de/service/zug/db-lounge#zutritt)
 
-Neuigkeiten
+DB Lounge im Kölner Hauptbahnhof wird am 25. März 2026 wiedereröffnet
 ----------
 
-**DB Lounge Köln:** Während des Umbaus der DB Lounge Köln, befindet sich die Interimslounge in den Design Offices Köln Dominium in der Tunisstraße 19-23, ca. 400m vom Hauptbahnhof entfernt. Wir haben diese Location gewählt, um Ihnen einen Ort zu bieten, an dem Sie sich entspannen und in angenehmer Atmosphäre einen Kaffee oder andere Angebote unserer Speise- und Getränkekarte genießen können. **Die umgebaute DB Lounge Köln wird voraussichtlich Anfang 2026 wiedereröffnet werden.** Bis dahin hoffen wir, dass Ihnen unser Alternativangebot zusagt. Wir freuen uns auf Ihren Besuch und bitten um Ihr Verständnis.
+**Vom 23. bis 24. März 2026** **bleibt** die **Interimslounge** aufgrund des Umzuges **geschlossen**. Wir bitten um Ihr Verständnis und freuen uns, Sie ab dem 25. März 2026 auf der regulären Fläche am Gleis 1 im 1. OG begrüßen zu dürfen.
 
 DB Lounges - Zutritt, Ausstattung und Gastronomie
 ----------
