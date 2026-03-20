@@ -199,10 +199,10 @@ Im Gegensatz dazu sind vServer virtuelle Maschinen, die alle Ressourcen wie CPU,
 
 Die Wahl zwischen einem Root Server und einem vServer hängt von den spezifischen Anforderungen und Budgetüberlegungen ab. Für rechenintensive Projekte die ohne dedizierte Hardware auskommen, empfehlen wir [vGPU](https://www.netcup.com/de/server/vgpu).
 
-Dauer-Tiefpreis
+Tiefpreis
 ----------
 
-**Wir bieten dir den besten Preis** für vergleichbare Leistungen in unseren VPS-Angeboten. Solltest du einen vergleichbaren vServer bei einem anderen Anbieter finden, der günstiger ist, wende dich bitte vor der Bestellung an unseren Support. Falls der Vergleich zutrifft, gewähren wir einen zusätzlichen Rabatt von unschlagbaren 10% auf unseren **Dauer-Tiefpreis**. Dieses Angebot ist nicht auf Angebote aus Deutschland beschränkt. Weitere gute Angebote findest du bei unseren [Deals](https://www.netcup.com/de/deals).
+**Wir bieten dir den besten Preis** für vergleichbare Leistungen in unseren VPS-Angeboten. Solltest du einen vergleichbaren vServer bei einem anderen Anbieter finden, der günstiger ist, wende dich bitte vor der Bestellung an unseren Support. Falls der Vergleich zutrifft, gewähren wir einen zusätzlichen Rabatt von unschlagbaren 10% auf unseren **Tiefpreis**. Dieses Angebot ist nicht auf Angebote aus Deutschland beschränkt. Weitere gute Angebote findest du bei unseren [Deals](https://www.netcup.com/de/deals).
 
 netcup SCP App
 ----------

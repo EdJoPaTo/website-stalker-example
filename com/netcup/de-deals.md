@@ -45,10 +45,10 @@ Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media,
 Wieso netcup?
 ----------
 
-Dauer-Tiefpreis
+Fairer Preis
 ----------
 
-Bei netcup stehen Kostentransparenz und Verlässlichkeit an erster Stelle. Unsere Preise sind von Anfang an fair und klar kalkuliert – ohne versteckte Gebühren oder unerwartete Erhöhungen. Sie bleiben auch nach dem ersten Jahr unverändert.
+Bei netcup stehen Kostentransparenz und Verlässlichkeit an erster Stelle. Unsere Preise sind von Anfang an fair und klar kalkuliert – ohne versteckte Gebühren. Sie bleiben auch nach dem ersten Jahr unverändert.
 
 Zufriedenheitsgarantie
 ----------
