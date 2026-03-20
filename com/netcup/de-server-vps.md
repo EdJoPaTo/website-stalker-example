@@ -31,9 +31,9 @@ VPS 500 G12
 
  Details \>
 
-0,01 €/Stunde oder je Monat ab
+0,008 €/Stunde oder je Monat ab
 
-5,91 €
+4,87 €
 
 (inkl. 19% MwSt.)
 
@@ -55,9 +55,9 @@ VPS 1000 G12
 
  Details \>
 
-0,017 €/Stunde oder je Monat ab
+0,013 €/Stunde oder je Monat ab
 
-10,36 €
+8,45 €
 
 (inkl. 19% MwSt.)
 
@@ -79,9 +79,9 @@ VPS 2000 G12
 
  Details \>
 
-0,031 €/Stunde oder je Monat ab
+0,025 €/Stunde oder je Monat ab
 
-19,24 €
+15,59 €
 
 (inkl. 19% MwSt.)
 
@@ -103,9 +103,9 @@ VPS 4000 G12
 
  Details \>
 
-0,052 €/Stunde oder je Monat ab
+0,042 €/Stunde oder je Monat ab
 
-32,41 €
+26,18 €
 
 (inkl. 19% MwSt.)
 
@@ -127,15 +127,24 @@ VPS 8000 G12
 
  Details \>
 
-0,076 €/Stunde oder je Monat ab
+0,062 €/Stunde oder je Monat ab
 
-47,94 €
+38,68 €
 
 (inkl. 19% MwSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-8000-g12-12m#vps-8000-g12-12m-nue)
 
 Hier geht es zu den [vServer FAQs](https://www.netcup.com/de/server/vps#FAQs)
+
+netcup Blog
+----------
+
+### Jetzt neu: OpenClaw - KI-Agenten sicher auf eigenem VPS hosten ###
+
+Was ist OpenClaw? Alles über den neuen KI-Trend, der das Internet erobert. Entdecke die Vorteile von selbst gehosteten KI-Agenten und wie du sie via WhatsApp & Telegram steuerst.
+
+[Mehr lesen\>](https://www.netcup.com/de/blog/server/openclaw-ki-agent-vps-hosting)
 
 Vorteile unserer vServer / VPS
 ----------
