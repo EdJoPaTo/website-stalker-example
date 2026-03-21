@@ -8,8 +8,6 @@ vGPU-Server
 * Garantierte vCPU und VRAM Ressourcen
 * Hosted in Europe / Serverstandort Nürnberg
 
-Dieses Produkt ist aktuell nicht verfügbar. Wir arbeiten daran, es schnellstmöglich wieder anzubieten. Vielen Dank für dein Verständnis. Entdecke unsere [Root Server-Angebote](https://www.netcup.com/de/server/root-server) als leistungsstarke Alternative!
-
 **GPU-Leistung aus der Cloud für anspruchsvolle Workloads**
 ----------
 
@@ -37,7 +35,7 @@ RS 2000 vGPU 7
 
 bereits ab monatlich
 
-121,77 €
+97,95 €
 
 (inkl. 19% MwSt.)
 
@@ -65,7 +63,7 @@ RS 4000 vGPU 14
 
 bereits ab monatlich
 
-232,43 €
+186,95 €
 
 (inkl. 19% MwSt.)
 
