@@ -3764,6 +3764,13 @@ Nein. Die Rechnungsadresse und der Name der rechnungsempfangenden Person können
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/namen-des-rechnungsempfaengers-aendern)
 
+ Wie kann ich im DB Navigator den Darkmode aktivieren?
+----------
+
+Das Erscheinungsbild des DB Navigators richtet sich automatisch nach den Systemeinstellungen Ihres Endgeräts. Sie können den Dark Mode auch in der App steuern und einstellen. Scrollen Sie hierzu im Menü-Punkt "Profil" nach ganz unten zu "Einstellungen". Dort wählen Sie "Erscheinungsbild" aus und stellen Dark oder Light Mode ein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/navigator-darkmode)
+
  Wie buche ich im DB Navigator eine zusätzliche Sitzplatzreservierung ohne Ticket?
 ----------
 
