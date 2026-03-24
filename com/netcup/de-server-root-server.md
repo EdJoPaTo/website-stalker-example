@@ -240,13 +240,6 @@ Unsere Zufriedenheitsgarantie
 
 Bevor du dich an einen Vertrag mit uns bindest, möchten wir, dass du von unseren Root Server Produkten überzeugt bist und diese zu deine Anforderungen passen. Solltest du **innerhalb von 30 Tagen nach der Bestellung** mit deinem **Root Server** nicht zufrieden sein, kannst du diesen **zurückgeben und du erhältst die komplette Grundgebühr** (Preis pro Monat mal Abrechnungsperiode) zurück erstattet.
 
-netcup SCP App
-----------
-
-Die netcup SCP App bietet dir die Möglichkeit, **jederzeit und von überall auf deine Root Server,** [**vServer**](https://www.netcup.com/de/server/vps) **und Storages zuzugreifen**. Neben den Statistiken und Protokollen ermöglicht die App eine allgemeine Übersicht und Steuerung deiner Server. **Lade dir die netcup SCP App jetzt** kostenlos über den Google Play Store oder den App Store auf dein Smartphone herunter.
-
-[](https://apps.apple.com/at/app/netcup-scp/id1469193372)[](https://play.google.com/store/apps/details?id=at.anexia.netcupscp)
-
 Frequently Asked Questions
 ----------
 

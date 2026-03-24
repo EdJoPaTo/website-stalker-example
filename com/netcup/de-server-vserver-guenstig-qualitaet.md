@@ -30,15 +30,6 @@ Der Rootzugriff bei einem vServer
 
 Dank dem Rootzugriff kann der vServer auch ganz individuell angepasst werden. Es steht dem Kunden frei, welche Software er installiert. Alle Einstellungen des vorkonfigurierten Minimal-Systems können natürlich auch individuell vom Kunden angepasst werden. Als Root-Nutzer hat der Kunde einen administrativen Zugang zum Server, über den dieser Installationen und Einstellungen nach seinen Wünschen frei vornehmen kann.
 
-Das Server-Control-Panel
-----------
-
-Über das ServerControlPanel SCP lässt sich im Problemfall der vServer durch einen Hard-Reset neu starten. Des Weiteren gibt das SCP Einsicht in die Trafficstatistiken oder es können neue Systeme per Mausklick installiert werden.
-
-Das SCP ist auch über die netcup SCP App aufrufbar. So kannst du jederzeit und von überall auf deine Root-Server, vServer und Storages zugreifen. Lade dir die App kostenlos auf dein Smartphone.
-
-[](https://apps.apple.com/at/app/netcup-scp/id1469193372)[](https://play.google.com/store/apps/details?id=at.anexia.netcupscp)
-
 Die verfügbaren Betriebssysteme
 ----------
 

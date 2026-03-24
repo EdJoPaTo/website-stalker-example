@@ -204,13 +204,6 @@ Tiefpreis
 
 **Wir bieten dir den besten Preis** für vergleichbare Leistungen in unseren VPS-Angeboten. Solltest du einen vergleichbaren vServer bei einem anderen Anbieter finden, der günstiger ist, wende dich bitte vor der Bestellung an unseren Support. Falls der Vergleich zutrifft, gewähren wir einen zusätzlichen Rabatt von unschlagbaren 10% auf unseren **Tiefpreis**. Dieses Angebot ist nicht auf Angebote aus Deutschland beschränkt. Weitere gute Angebote findest du bei unseren [Deals](https://www.netcup.com/de/deals).
 
-netcup SCP App
-----------
-
-Die **netcup SCP App** bietet dir die Möglichkeit, jederzeit und von überall auf deine Root Server, vServer und Storages zuzugreifen. Neben den Statistiken und Protokollen ermöglicht die App eine **allgemeine Übersicht und Steuerung deiner** [**Server**](https://www.netcup.com/de/server). Lade dir die netcup SCP App jetzt kostenlos über den Google Play Store oder den App Store auf dein Smartphone herunter.
-
-[](https://apps.apple.com/at/app/netcup-scp/id1469193372)[](https://play.google.com/store/apps/details?id=at.anexia.netcupscp)
-
 Frequently Asked Questions
 ----------
 
