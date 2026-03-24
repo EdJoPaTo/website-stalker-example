@@ -544,24 +544,6 @@ Bei Reisen ausschließlich im Nahverkehr gilt in der Regel eine kostenfreie Mitn
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-fahrkarte-kinder-6-14-jahre)
 
- Welche Angebote kann ich in der App buchen?
-----------
-
-Diese Angebote können Sie in der App buchen:
-
-* Flexpreise (für den Fernverkehr)
-* Normalpreise (für den Nahverkehr)
-* Sparpreise
-* Länder-Tickets
-* Quer-durchs-Land-Ticket
-* Super Sparpreis Europa und Sparpreis Europa
-* Zeitkarten
-* Ausgewählte Aktionsangebote
-* Sitzplatzreservierungen
-* Verbundtickets
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebote-app-buchbar)
-
  So stornieren Sie Ihr online gebuchtes Bahn-Ticket
 ----------
 
@@ -3172,7 +3154,7 @@ Sie können sich den Fahrtverlauf Ihres Zuges auf der Karte anzeigen lassen. Sie
  Kann ich mir im DB Navigator meinen Fußweg auf der Karte anzeigen lassen?
 ----------
 
-Sie können sich den Fußweg vom aktuellen Standort zu einer auf der Karte ausgewählten Haltestelle anzeigen lassen. Über das Kartensymbol oben rechts auf der Startseite des DB Navigators öffnen Sie die Kartenansicht. Anschließend wählen Sie einfach die gewünschte Haltestelle aus und tippen auf den Button “Fußweg”.
+Sie können sich den Fußweg vom aktuellen Standort zu einer auf der Karte ausgewählten Haltestelle anzeigen lassen. Über den Menübereich "Umgebung" öffnen Sie die Kartenansicht. Anschließend wählen Sie einfach die gewünschte Haltestelle aus und tippen danach auf das Personensymbol im rechten Kartenbereich. Zusätzlich finden Sie bei den Verbindungsdetails ein Kartensymbol, sofern Sie die Verbindungssuche mit Ihrem Standort oder einer Adresse gestartet haben. Klicken Sie auf das Kartensymbol und es öffnet sich die Kartenansicht mit einem eingezeichneten Fußweg.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-im-navigator-meinen-fussweg-auf-der-karte-anzeigen-lassen)
 
