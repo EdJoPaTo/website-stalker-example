@@ -26,11 +26,17 @@ Wählen Sie Ihre DB Lounge für detaillierte Informationen
 
 * [Springe zu: Zutritt, Ausstattung und Gastronomie](https://www.bahn.de/service/zug/db-lounge#zutritt)
 
+DB Lounge Köln
+----------
+
+Die DB Lounge im Kölner Hauptbahnhof ist **seit dem 25. März 2026 wiedereröffnet.**
+
+Wir freuen uns, Sie auf der regulären Fläche (direkt am Gleis 1 im 1. OG) wieder begrüßen zu dürfen.
+
 DB Lounge Stuttgart
 ----------
 
-Liebe Gäste, aufgrund von Sanierungsarbeiten im LBBW Gebäude bleibt die DB Lounge Stuttgart vom **3. bis 4. April 2026 geschlossen**. Wir danken für Ihr Verständnis.
-Ihr DB Lounge Team
+Aufgrund von Sanierungsarbeiten im LBBW Gebäude bleibt die DB Lounge Stuttgart vom **3. bis 4. April 2026 geschlossen**. Wir bitten um Ihr Verständnis.
 
 DB Lounges - Zutritt, Ausstattung und Gastronomie
 ----------
