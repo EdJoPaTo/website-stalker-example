@@ -100,7 +100,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Berlin ####
 
-* **Öffungszeiten:** Mo-So und Feiertag: 6:00-22:00 Uhr
+* **Öffungszeiten:** Montag bis Sonntag und Feiertag: 6 bis 22 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
 * [DB Lounge Berlin - Lageplan (PDF, 660 KB) Download der Datei: DB Lounge Berlin - Lageplan (PDF, 660 KB)](https://assets.static-bahn.de/dam/jcr:85b72d48-b4d6-4ebd-90d8-aab10db20b8e/02-Berlin-Hbf.pdf)
@@ -109,7 +109,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Dresden ####
 
-**Öffnungszeiten:** Mo-Fr: 7:00-21:00 Uhr / Sa-So und Feiertag: 8:00-20:00 Uhr
+**Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Dresden Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Dresden Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:de1fd57c-c0bd-4f61-a3de-5a7186ff3737/341_Lageplan_Dresden.pdf)
 
@@ -117,7 +117,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Düsseldorf ####
 
-**Öffnunszeiten:** Mo-Fr: 7:00-21:00 Uhr / Sa-So und Feiertag: 8:00-20:00 Uhr
+**Öffnunszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Düsseldorf Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Düsseldorf Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:71f45914-f967-4095-8342-d350dacaa78e/341_Lageplan_D%C3%BCsseldorf.pdf)
 
@@ -125,7 +125,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Frankfurt ####
 
-* **Öffnungszeiten:** Mo-Fr: 6:00-22:00 Uhr / Sa-So und Feiertag: 7:00-22:00 Uhr
+* **Öffnungszeiten:** Montag bis Freitag: 6 bis 22 Uhr / Samstag, Sonntag und Feiertag: 7 bis 22 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
 *
@@ -134,7 +134,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Frankfurt Flughafen ####
 
-**Öffnungszeiten:** Mo-So und Feiertag: 6:00-22:00 Uhr
+**Öffnungszeiten:** Montag bis Sonntag und Feiertag: 6 bis 22 Uhr
 
 * [DB Lounge Frankfurt Flughafen Lageplan (PDF, 74 KB) Download der Datei: DB Lounge Frankfurt Flughafen Lageplan (PDF, 74 KB)](https://assets.static-bahn.de/dam/jcr:67a7265c-3477-4f2c-a175-efff0f9f0a97/06-FFM-Flughafen.pdf)
 
@@ -142,7 +142,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Hamburg ####
 
-* **Öffnungszeiten:** Mo-Fr: 6:00-22:00 Uhr / Sa-So und Feiertag: 7:30-20:30 Uhr
+* **Öffnungszeiten:** Montag bis Freitag: 6 bis 22 Uhr / Samstag, Sonntag und Feiertag: 7:30 bis 20:30 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
 * [DB Lounge Hamburg Lageplan (PDF, 77 KB) Download der Datei: DB Lounge Hamburg Lageplan (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:12e4ab6e-34b2-4710-9786-3b05abe60dfc/01-HH-Hbf.pdf)
@@ -151,7 +151,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Hannover ####
 
-* **Öffnungszeiten:** Mo-Fr: 6:00-21:30 Uhr / Sa: 7:00-21:30 Uhr / So: 8:00-21:30 Uhr / Feiertag: 8:00-21:30 Uhr
+* **Öffnungszeiten:** Montag bis Fr: 6 bis 21:30 Uhr / Samstag: 7 bis 21:30 Uhr / Sonntag: 8 bis 21:30 Uhr / Feiertag: 8 bis 21:30 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
 * [DB Lounge Hannover - Lageplan (PDF, 78 KB) Download der Datei: DB Lounge Hannover - Lageplan (PDF, 78 KB)](https://assets.static-bahn.de/dam/jcr:a4dc860b-f082-4882-bcc8-7176ddd68b06/07-Hannover-Hbf.pdf)
@@ -160,8 +160,8 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Köln ####
 
-* **Öffnungszeiten:** Mo-Fr: 6:30-21:30 Uhr / Sa-So und Feiertag: 7:00-21:00 Uhr
-* In dieser DB Lounge finden Sie auch einen **Premium Bereich**
+* **Öffnungszeiten:** Montag bis Freitag: 6:30 bis 21:30 Uhr / Samstag, Sonntag und Feiertag: 7 bis 21 Uhr
+* In dieser DB Lounge finden Sie auch einen **Premium Bereich**.
 
 * [DB Lounge Köln Lageplan (PDF, 44 KB) Download der Datei: DB Lounge Köln Lageplan (PDF, 44 KB)](https://assets.static-bahn.de/dam/jcr:f238de55-4bd1-419b-b5a7-eeb760ba27c0/04-Koeln-HBF-interim.pdf)
 
@@ -169,7 +169,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Leipzig ####
 
-**Öffnungszeiten:** Mo-Fr: 7:00-21:00 Uhr / Sa-So und Feiertag: 8:00-20:00 Uhr
+**Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Leipzig Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Leipzig Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:560f9365-b9ae-4ca5-b435-6982e2d1c319/08-Leipzig-Hbf.pdf)
 
@@ -177,7 +177,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Mannheim ####
 
-* **Öffnungszeiten:** Mo-Fr: 7:00-21:30 Uhr / Sa: 7:00-21:00 Uhr / So und Feiertag: 8:00-21:00 Uhr
+* **Öffnungszeiten:** Montag bis Freitag: 7 bis 21:30 Uhr / Samstag: 7 bis 21 Uhr / Sonntag und Feiertag: 8 bis 21 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
 * [DB Lounge Mannheim Lageplan (PDF, 125 KB) Download der Datei: DB Lounge Mannheim Lageplan (PDF, 125 KB)](https://assets.static-bahn.de/dam/jcr:62933034-ea38-4e81-a436-7763a26a04cc/09-Lageplan-Mannheim-HBF.pdf)
@@ -186,7 +186,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### München ####
 
-* **Öffnungszeiten:** Mo-Mi: 6:30-21:00 Uhr / Do, Fr: 6:30-22:00 Uhr / Sa: 8:00-20:00 Uhr / So: 8:00-22:00 Uhr / Feiertag: 8:00-20:00 Uhr
+* **Öffnungszeiten:** Montag bis Mittwoch: 6:30 bis 21 Uhr / Donnerstag, Freitag: 6:30 bis 22 Uhr / Samstag: 8 bis 20 Uhr / Sonntag: 8 bis 22 Uhr / Feiertag: 8 bis 20 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
 * [DB Lounge München Lounge (PDF, 77 KB) Download der Datei: DB Lounge München Lounge (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:8dfa80ef-633a-4bc0-93be-4d37df49d6e2/05-Muenchen-Hbf.pdf)
@@ -195,7 +195,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Nürnberg ####
 
-**Öffnungszeiten:** Mo-Fr: 6:30-21:00 Uhr / Sa-So und Feiertag: 8:00-20:00 Uhr
+**Öffnungszeiten:** Montag bis Freitag: 6:30 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Nürnberg Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Nürnberg Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:03f82cf2-ca84-405c-b931-b3c26e6143e0/14-Nuernberg-Hbf.pdf)
 
@@ -203,6 +203,6 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Stuttgart ####
 
-**Öffnungszeiten:** Mo-Fr: 6:00-21:00 Uhr / Sa-So und Feiertag: 8:00-20:00 Uhr
+**Öffnungszeiten:** Montag bis Freitag: 6 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Stuttgart Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Stuttgart Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:8819f2b0-fed2-44c4-80b0-a2dbaf4d6406/15-Stuttgart-Hbf.pdf)

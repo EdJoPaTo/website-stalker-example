@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### mönchengladbach ###
+### hamburg ###
 
-### 21. März 2026 ###
+### 11.-12. April 2026 ###
 
-### 50 km ###
+### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/mönchengladbach)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/hamburg)
 
 [Location](https://www.megamarsch.de/ostsee)
 
