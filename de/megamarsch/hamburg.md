@@ -5,6 +5,8 @@ Megamarsch Hamburg
 
 [TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
 
+[Booklet & Strecke](https://www.megamarsch.de/hamburg)
+
 Megamarsch Hamburg -
 100 km wandern zwischen Elbe und Alster
 ----------
@@ -89,14 +91,33 @@ Bei einem 100 km Finish
 
 Hamburg Booklet
 
+Booklet
+----------
+
+1
+
+2
+
+6
+
+1
+
+1/6
+
+[Booklet zum downloaden](https://www.megamarsch.de/_files/ugd/c7d428_a06c59b70cc3454189468e265e06cfb8.pdf)
+
+[Allgemeines Handbuch](https://www.megamarsch.de/_files/ugd/c7d428_d90f677d1e0d4c179e8662cdccb344b9.pdf)
+
 Strecke
 ----------
 
 ###### - ca. 330 HÖHENMETER - ######
 
-###### 2 WOCHEN VOR DEM EVENT ######
+[](https://www.komoot.com/de-de/tour/2531974215)
 
-...stellen wir Euch die Strecke als Download für Komoot zur Verfügung. Die Strecke ist vorübergehend und kann sich z.B. auf Grund von behördlichen Auflagen oder organisatorischen Gründen noch ändern.
+[Strecke bei Komoot](https://www.komoot.com/de-de/tour/2531974215)
+
+[GPX Datei](https://82b24694-136f-40db-acbc-2df764536893.filesusr.com/ugd/c7d428_b5e46963322347ccbe57e6f4dc469269.gpx?dn=Megamarsch%20Hamburg%202026.gpx)
 
 ###### 2 TAGE VOR DEM EVENT ######
 

@@ -49,17 +49,19 @@ In den DB Lounges gibt es einen Comfort Bereich, welcher in drei wesentliche Zon
 
 ###  Zutritt zur DB Lounge  ###
 
+#### Weitere Informationen ####
+
 Zutritt in die DB Lounges erhalten
 
-* BahnBonus Statuskund:innen\* und eine Person in Ihrer Begleitung\*
-* BahnCard 100 1. Klasse Inhaber:innen und eine Person in Ihrer Begleitung\*
+* BahnBonus Statuskundinnen und Statuskunden\* und eine Person in Ihrer Begleitung\*
+* BahnCard 100 1. Klasse Inhaberinnen und Inhaber und eine Person in Ihrer Begleitung\*
 * Reisende mit einem tagesaktuellen DB Fernverkehrsticket 1. Klasse im Tarif Flexpreis
 
-In unseren DB Lounges gilt eine allgemeine Ticketpflicht (tagesaktuelle Fahrkarte für den Fernverkehr der DB). Die Legitimationskontrolle erfolgt durch das elektronische Lesegerät per Scanner oder durch die Mitarbeiter:innen am Empfang. Für die Zutrittskontrolle legen Sie einfach Ihre Fahrkarte oder den Code aus Ihrer BahnBonus App auf den Scanner oder ziehen Sie Ihre BahnCard durch den Kartenschlitz. Als BahnBonus Statuskund:in sowie als Begleitperson halten Sie bitte zur Legitimation zusätzlich Ihr DB Fernverkehrsticket bereit.
+In unseren DB Lounges gilt eine allgemeine Ticketpflicht (tagesaktuelle Fahrkarte für den Fernverkehr der DB). Die Legitimationskontrolle erfolgt durch das elektronische Lesegerät per Scanner oder durch die Mitarbeitenden am Empfang. Für die Zutrittskontrolle legen Sie einfach Ihre Fahrkarte oder den Code aus Ihrer BahnBonus App auf den Scanner oder ziehen Sie Ihre BahnCard durch den Kartenschlitz. Als BahnBonus Statuskund:in sowie als Begleitperson halten Sie bitte zur Legitimation zusätzlich Ihr DB Fernverkehrsticket bereit.
 
-Zu den Premium Bereichen der DB Lounges Berlin, Mannheim, München, Köln, Hamburg, Hannover und Frankfurt Hbf haben ausschließlich Statuskund:innen mit gültigem Statuslevel Platin in Verbindung mit einem DB Fernverkehrsticket, Inhaber:innen einer BahnCard 100 1. Klasse sowie Reisende mit einer Fernverkehrsfahrkarte 1. Klasse im Tarif Flexpreis (ausgenommen sind Fahrkarten mit Start und Ziel innerhalb der Gebiete der jeweiligen Verkehrsverbünde) Zutritt.
+Zu den Premium Bereichen der DB Lounges Berlin, Mannheim, München, Köln, Hamburg, Hannover und Frankfurt Hbf haben ausschließlich Statuskundinnen und -kunden mit gültigem Statuslevel Platin in Verbindung mit einem DB Fernverkehrsticket, Inhaberinnen und Inhaber einer BahnCard 100 1. Klasse sowie Reisende mit einer Fernverkehrsfahrkarte 1. Klasse im Tarif Flexpreis (ausgenommen sind Fahrkarten mit Start und Ziel innerhalb der Gebiete der jeweiligen Verkehrsverbünde) Zutritt.
 
-Die Mitarbeiter:innen der DB Lounges geben Ihnen hierzu gerne weiterführende Informationen. Weitere Informationen zur Zugangsregelung entnehmen Sie bitte auch unseren Nutzungsbestimmungen.
+Die Mitarbeitenden der DB Lounges geben Ihnen hierzu gerne weiterführende Informationen. Weitere Informationen zur Zugangsregelung entnehmen Sie bitte auch unseren Nutzungsbestimmungen.
 
 \* In Verbindung mit der Vorlage einer Fahrkarte, die zur tagesaktuellen Nutzung des Fernverkehrs der Deutschen Bahn berechtigt. im Premium Bereich ist die Mitnahme von Begleitpersonen grundsätzlich nicht möglich.
 
