@@ -160,8 +160,6 @@ Sie können hier auch optional Ihre BahnCard Nummer eingeben. Dann klicken Sie a
 
 Suchen Sie sich einen Platz. Geben Sie dann die Nummer des Wagens und Sitzplatzes, auf dem Sie sitzen, ein.
 
-Sie können hier auch optional Ihre BahnCard Nummer eingeben. Dann klicken Sie auf "Jetzt einchecken".
-
 ### Sie sind jetzt eingecheckt ###
 
 Sie sind jetzt auf diesem Reiseabschnitt und Sitzplatz eingecheckt.
@@ -194,8 +192,6 @@ Sie können hier auch optional Ihre BahnCard Nummer eingeben. Dann klicken Sie a
 ### Ohne Reservierung: Sitzplatz eingeben ###
 
 Suchen Sie sich einen Platz. Geben Sie dann die Nummer des Wagens und Sitzplatzes, auf dem Sie sitzen, ein.
-
-Sie können hier auch optional Ihre BahnCard Nummer eingeben. Dann klicken Sie auf "Jetzt einchecken".
 
 ### Sie sind jetzt eingecheckt ###
 

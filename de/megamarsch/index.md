@@ -223,31 +223,31 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
 
-  [### Funktionstuch Event (bei Nacht) ### Preis16,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
+  [### Funktionstuch Event (bei Nacht) ### Preis16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
 
-  [### Funktionstuch Event (50KM) ### Preis16,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
+  [### Funktionstuch Event (50KM) ### Preis16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
 
-  [### Megamarsch Trinkflasche ### Preis19,99€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
+  [### Megamarsch Trinkflasche ### Preis19,99 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event)
 
-  [### Funktionstuch Event (100KM) ### Preis16,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
+  [### Funktionstuch Event (100KM) ### Preis16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
 
-  [### Spezial Edelstahl Tasse \*limitiert\* ### Preis15,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
+  [### Spezial Edelstahl Tasse \*limitiert\* ### Preis15,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
 
   In den Warenkorb
 
