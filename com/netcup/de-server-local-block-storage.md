@@ -45,7 +45,7 @@ Vorteile von Local Block Storage als Datenspeicher
 
 ### **Kostengünstig** ###
 
-Wählen Sie ab 1 GB und bis zu insgesamt 8 TB Speicherbedarf, je nach Produkt. So können neben kleinen Setups auch größere Data-Szenarien kostengünstig gesteuert werden.
+Wählen Sie ab 1 GB und bis zu insgesamt 8 TB Speicherbedarf, je nach Produkt **schon ab 0,01€ pro Monat**. So können neben kleinen Setups auch größere Data-Szenarien kostengünstig gesteuert werden.
 
 ### **Mehr Flexibilität** ###
 
