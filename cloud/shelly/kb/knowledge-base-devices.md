@@ -94,6 +94,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Dimmer Gen4](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4)
 * [Shelly Dimmer Gen4 US](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4-us)
 * [Shelly Mini Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen4-devices)
+* [Shelly Presence Gen4](https://kb.shelly.cloud/knowledge-base/shelly-presence-gen4)
 
  Shelly Pro devices
 ----------
