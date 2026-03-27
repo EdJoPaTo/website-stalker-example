@@ -63,6 +63,8 @@ AU (Type I)
 
 Extras
 
+StarLite Mk V Protective Case
+
 Tempered Glass Screen Protector – 2-Pack
 
 32GB Reversible USB Recovery Drive
