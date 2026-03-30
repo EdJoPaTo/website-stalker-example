@@ -218,6 +218,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [SSR Add-on](https://kb.shelly.cloud/knowledge-base/ssr-add-on)
 * [Analog 0-30V Add-on](https://kb.shelly.cloud/knowledge-base/analog-0-30v-add-on)
 * [Cable Bracket](https://kb.shelly.cloud/knowledge-base/cable-bracket)
+* [Shelly Button Add-on](https://kb.shelly.cloud/knowledge-base/shelly-button-add-on)
 
  Amazon-compatible devices
 ----------
@@ -230,7 +231,6 @@ Learn everything you need about Shelly devices – features, applications and sp
 
 * [Shelly LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-lora-add-on)
 * [Shelly Plus Add-on](https://kb.shelly.cloud/knowledge-base/shelly-plus-add-on)
-* [Shelly Button Add-on](https://kb.shelly.cloud/knowledge-base/shelly-button-add-on)
 * [Shelly Pro 3EM Switch Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-3em-switch-add-on)
 
  By Shelly
