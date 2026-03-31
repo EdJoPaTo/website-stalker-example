@@ -110,8 +110,6 @@ Object Storage is ideal for handling digital content. The data can be stored sec
 
 Benefit from flexibility and performance for a wide range of use cases and growing data volumes
 
- per TB
-
 [Create Bucket](https://console.hetzner.cloud/)
 
  .cta-background { background-image: url('https://cdn.hetzner.com/assets/Uploads/Object-Storage\_startProject.jpg'); } @media (max-width: 768px) { .cta-background { background-image: url('https://cdn.hetzner.com/assets/Uploads/Object-Storage\_startProject\_mobile.jpg'); } }

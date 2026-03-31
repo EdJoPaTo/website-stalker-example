@@ -400,8 +400,6 @@ max.  /Monat
 
  us-west HIL
 
- ap-southeast SIN
-
  Bestes Preis-Leistungs- Verhältnis
 
 Shared Resources ermöglichen besonders günstige Preise.

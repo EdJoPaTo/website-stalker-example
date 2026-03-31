@@ -110,8 +110,6 @@ Für den Umgang mit digitalen Inhalten ist Object Storage ideal. Die Daten könn
 
 Profitiere von Flexibilität und Leistung für vielfältige Anwendungsfälle und wachsende Datenmengen
 
- pro TB
-
 [Create Bucket](https://console.hetzner.cloud/)
 
 [Daten von einem anderen Anbieter zu Hetzner migrieren Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/migrate-data) [Festplattenpartitionen von einem anderen Anbieter zu Hetzner migrieren Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/migrate-partition) [Getting started: Einen Server erstellen Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/creating-a-server)
