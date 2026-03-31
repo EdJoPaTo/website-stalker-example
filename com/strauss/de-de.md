@@ -118,24 +118,6 @@ Abenteuer
 
 ---
 
- Angebote
-des Monats
-----------
-
----
-
-Gültig bis 31.03.2026 | Solange der Vorrat reicht
-
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
-
- Bis zu
----
-
- \-46%
----
-
-[](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
-
  SET:Softshelljacke & Weste e.s.motion 2020 + GRATIS e.s. Trinkflasche Tritan
 
  SET:Softshelljacke & Weste e.s.motion 2020 + GRATIS e.s. Trinkflasche Tritan

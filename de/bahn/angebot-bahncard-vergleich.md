@@ -133,7 +133,7 @@ Die folgende Übersicht verdeutlicht die unterschiedlichen Rabbattierungen der B
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
 
-244 Euro
+199 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
 
