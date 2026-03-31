@@ -130,6 +130,104 @@ Was kann ich tun, wenn ich meine BahnCard verloren habe? Wie kann ich die BahnCa
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-verloren-verlaengern-upgraden)
 
+ Wie lange kann man die BahnCard 50 Produkte zum Aktionspreis kaufen?
+----------
+
+Alle BahnCard 50 Jahresprodukte sind im Zeitraum vom 1. April bis zum 31. Juli 2026 zum reduzierten Aktionspreis erhältlich. Letztmöglicher erster Geltungstag ist der 30. September 2026.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion)
+
+ Läuft die BahnCard 50 zum Aktionspreis in ein Abo über?
+----------
+
+Ja, die BahnCard 50 zum Aktionspreis geht nach Ablauf des Gültigkeitszeitraums von einem Jahr in ein BahnCard 50-Abonnement zum regulären Preis über, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird. Die Folgekarte ist, abhängig vom Alter sowie ggf. der Ermäßigungsberechtigung, entweder eine reguläre oder ermäßigte BahnCard beziehungsweise eine Senioren BahnCard oder eine My BahnCard der 1. beziehungsweise 2. Klasse.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-abo)
+
+ Wie lange ist die BahnCard 50 zum Aktionspreis gültig?
+----------
+
+Die BahnCard 50 hat eine Gültigkeit von 12 Monaten. Die BahnCard 50 zum Aktionspreis gilt ab dem 1. Geltungstag 1 Jahr lang. Sie wird automatisch um ein weiteres Jahr verlängert, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-gueltigkeit)
+
+ Wie kann ich meine BahnCard 50 zum Aktionspreis kündigen?
+----------
+
+Sie können Ihre BahnCard 50 zum Aktionspreis bis zu 4 Wochen vor Laufzeitende in Textform kündigen.
+
+So kündigen Sie online:
+
+* In Ihr DB Kundenkonto einloggen.
+* Auf "BahnCard" klicken und "Optionen" auswählen.
+* Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
+* Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
+
+Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-kuendigen)
+
+ Wofür kann ich die BahnCard 50 zum Aktionspreis nutzen?
+----------
+
+Mit der BahnCard 50 zum Aktionspreis erhalten Sie einen Rabatt von 50 Prozent auf die Flexpreise sowie 25 Prozent auf die Super Spar- und Sparpreise innerhalb Deutschlands für die entsprechende Wagenklasse. Das kostenpflichtige City-Ticket beim Sparpreis und Super Sparpreis wird nicht rabattiert.
+
+In einigen Verkehrsverbünden bekommt man mit der BahnCard 50 einen Rabatt auf Angebote des Verbundtarifs gewährt. Ob es eine Anerkennung der BahnCard in den jeweiligen Landestarifen oder Verkehrsverbünden gibt, regeln deren Tarif- und Beförderungsbedingungen.
+
+Wenn die BahnCard auf der gewünschten Verbindung anerkannt wird, wird der Rabatt bei der Buchung automatisch abgezogen.
+
+Weitere Infos zu den [Tarif- und Beförderungsbedingungen](http://bahn.de/agb) der jeweiligen Verbünde und Landestarife.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-nutzen)
+
+ Wie viel kostet die BahnCard 50 im Aktionszeitraum?
+----------
+
+Preis der BahnCard 50 im Aktionszeitraum:
+
+BahnCard 50:
+
+* 199 Euro in der 2. Klasse
+* 429 Euro in der 1. Klasse
+
+Senioren BahnCard 50:
+
+* 99 Euro in der 2. Klasse
+* 209 Euro in der 1. Klasse
+
+Ermäßigte BahnCard 50:
+
+* 99 Euro in der 2. Klasse
+* 209 Euro in der 1. Klasse
+
+My BahnCard 50:
+
+* 64,99 Euro in der 2. Klasse
+* 209 Euro in der 1. Klasse
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-preis)
+
+ Kann ich meine bestehende BahnCard in eine BahnCard 50 zum Aktionspreis umtauschen?
+----------
+
+Nein, weder ein Upgrade noch ein Umtausch in eine BahnCard 50 zum Aktionspreis sind möglich. Eine Anrechnung der bestehende BahnCard auf eine BahnCard zum Aktionspreis ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-umtausch)
+
+ Gilt für die vergünstigten BahnCard 50 Produkte der reguläre Vorverkaufszeitraum von 180 Tagen?
+----------
+
+Nein, der reguläre Vorverkaufszeitraum von 180 Tagen ist beim Kauf der BahnCard 50 zum Aktionspreis eingeschränkt. Der letztmögliche erste Geltungstag für eine vergünstigte BahnCard 50, My BahnCard 50, Senioren BahnCard 50, Ermäßigte BahnCard 50 ist der 30. September 2026.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-vorverkaufszeitraum)
+
+ Wer kann die vergünstigte BahnCard 50 kaufen?
+----------
+
+Alle BahnCard 50 Jahresprodukte werden im Zeitraum vom 1. April bis zum 31. Juli 2026 zum reduzierten Preis angeboten und sind für alle Altersgruppen verfügbar.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-wer)
+
  Wie erhalte ich die Gutscheincodes der BahnCard Aktion Frühbucher für Gruppen?
 ----------
 
@@ -509,6 +607,148 @@ Ja, eine Nutzung der 1. Klasse im Schienenpersonennahverkehr (SPNV) z.B. RE, RB 
 Bitte wenden Sie sich direkt an das Inkassounternehmen. Die Kontaktdaten sind in dem Schreiben angegeben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schreiben-von-inkassounternehmen-zur-bahncard-erhalten)
+
+ Geht die Senioren BahnCard 25 und 50 Plus in ein Abo über? Behalte ich nach Ablauf des ersten Jahres mein BahnBonus Statuslevel?
+----------
+
+Die Senioren BahnCard 25 und 50 Plus geht nach Ablauf des Gültigkeitszeitraums von einem Jahr in ein BahnCard-Abonnement über.
+
+Die Folgekarte ist eine reguläre Senioren BahnCard. Das heißt, dass Sie für die Folgekarte den – günstigeren – Preis einer regulären Senioren BahnCard bezahlen, aber auch Ihr BahnBonus Statuslevel Silber nicht mehr automatisch erhalten. Die Klasse der erworbenen Senioren BahnCard Plus definiert die Klasse der Folge-BahnCard.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-abo)
+
+ Wann ist die Senioren BahnCard 25 und 50 Plus erhältlich?
+----------
+
+Die Senioren BahnCard 25 und 50 Plus ist vom 1. April bis zum 31. Mai 2026 erhältlich. Der letztmögliche erste Geltungstag der Senioren BahnCard Plus ist der 31. Mai 2026.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-aktionszeitraum)
+
+ Benötige ich für die Nutzung der Statusvorteile mit der Senioren BahnCard Plus die BahnBonus-App?
+----------
+
+Ja, die Nutzung der Statusvorteile ist nur über die BahnBonus App möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-app)
+
+ Ich habe kein Smartphone. Kann ich mir im Reisezentrum die Senioren BahnCard Plus auf Papier ausdrucken lassen?
+----------
+
+Ja, das ist möglich. Beachten Sie jedoch, dass die Nutzung der BahnBonus Statusvorteile nur über die BahnBonus App möglich ist. Daher benötigen Sie ein Smartphone, wenn Sie von den Vorteilen der Senioren BahnCard 25 und 50 Plus profitieren möchten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-ausdruck)
+
+ Warum muss ich mich beim Kauf der Senioren BahnCard 25 und 50 Plus zu BahnBonus anmelden?
+----------
+
+Die Voraussetzung für die Inanspruchnahme der Statusvorteile ist die Teilnahme am BahnBonus Programm.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-bbanmeldung)
+
+ Ich habe mich beim Kauf der Senioren BahnCard Plus bewusst nicht zu BahnBonus angemeldet, jetzt bin ich aber trotzdem angemeldet. Wie ist das möglich?
+----------
+
+Beim Kauf der Senioren BahnCard 25 und 50 Plus stimmen Sie der BahnBonus-Anmeldung im Rahmen des Kaufvorgangs zu. Die Teilnahme an BahnBonus ist Voraussetzung für die Inanspruchnahme der Vorteile des BahnBonus Silberstatus.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-bbzustimmung)
+
+ Wer kann die Senioren BahnCard 25 und 50 Plus kaufen?
+----------
+
+Alle Reisende ab 65 Jahren. Ausschlaggebend ist das Alter am ersten Geltungstag der BahnCard.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-kaufen)
+
+ Kann ich mit meiner Senioren BahnCard Plus auch den Premiumbereich der DB Lounges nutzen?
+----------
+
+Mit Ihrer Senioren BahnCard 25 und 50 Plus mit BahnBonus Silberstatus erhalten Sie Zugang zum Comfort Bereich der DB Lounge, wenn Sie einen der in der BahnBonus-App abrufbaren Tagespässe einlösen. Der Zugang zum Premiumbereich der DB Lounges ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-lounge)
+
+ Warum erhalte ich nicht auch 1.500 Prämienpunkte für den Kauf der Senioren BahnCard Plus?
+----------
+
+Bei der Senioren BahnCard 25 und 50 Plus handelt es sich um ein spezielles Aktionsangebot, bei dem zur Erreichung des BahnBonus Silberstatus nur Statuspunkte vergeben werden. Jedoch sammeln Sie bei jeder Fahrt im DB Fernverkehr automatisch Prämienpunkte und weitere Statuspunkte. Weitere [sammelfähige Tarife](https://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-praemienpunkte)
+
+ Wie viel kostet die Senioren BahnCard 25 und 50 Plus?
+----------
+
+Preis der Senioren BahnCard 25 Plus:
+
+* 85,90 Euro in der 2. Klasse
+* 126,90 Euro in der 1. Klasse
+
+Preis der Senioren BahnCard 50 Plus:
+
+* 144,00 Euro in der 2. Klasse
+* 254,00 Euro in der 1. Klasse
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-preis)
+
+ Wann erhalte ich meine Statuspunkte nach Kauf der Senioren BahnCard Plus?
+----------
+
+Sie erhalten die Statuspunkte mit dem ersten Geltungstag Ihrer Senioren BahnCard 25 und 50 Plus. Wenn Sie für Ihre Senioren BahnCard Plus das heutige Datum als Startdatum wählen, erfolgt die Punktegutschrift erst am nächsten Tag.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-punkte)
+
+ Kann ich mit der Senioren BahnCard Plus weitere Prämien- und Statuspunkte sammeln?
+----------
+
+Ja, Sie sammeln mit Ihrer Senioren BahnCard 25 und 50 Plus bei jeder Fahrt im Fernverkehr automatisch Prämien- und Statuspunkte. Weitere [sammelfähige Tarife](https://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-punkte-sammeln)
+
+ Wo kann ich meine Prämien- und Statuspunkte für die Senioren BahnCard Plus einsehen?
+----------
+
+Ihre Prämien- und Statuspunkte können Sie im BahnBonus Bereich in Ihrer BahnBonus App und in Ihrem DB Kundenkonto auf bahn.de einsehen.
+
+Die Statuspunkte für den Kauf Ihrer Senioren BahnCard 25 und 50 Plus und die einmalig vergebenen 1.500 Statuspunkte sind in der Position „Senioren BahnCard Plus“ zusammengefasst.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-punkteeinsicht)
+
+ Wie lange sind die Statuspunkte bei der Senioren BahnCard Plus gültig?
+----------
+
+Die Statuspunkte sind 12 Monate entsprechend der Laufzeit Ihrer Senioren BahnCard 25 und 50 Plus gültig. In diesem Zeitraum kommt es zu keinem Leveldowngrade, ein Levelupgrade hingegen erfolgt jederzeit, mit dem Erreichen der Punkteschwelle, für das nächsthöhere Statuslevel.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-punktegueltig)
+
+ Ist während des Aktionszeitraums der Senioren BahnCard Plus die reguläre Senioren BahnCard erhältlich?
+----------
+
+Ja. Sie können vom 1. April bis zum 31. Mai 2026 zwischen einer regulären Senioren BahnCard und einer Senioren BahnCard Plus wählen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-regkarte)
+
+ Wann beginnt meine Statuslaufzeit nach Kauf der Senioren BahnCard 25 und 50 Plus?
+----------
+
+Die Statuslaufzeit beginnt mit dem ersten Gültigkeitstag Ihrer Senioren BahnCard Plus. Wenn Sie für Ihre Senioren BahnCard Plus das heutige Datum als Startdatum wählen, wird der Status erst am nächsten Tag aktiv.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-statuslaufzeit)
+
+ Ich habe bereits eine reguläre Senioren BahnCard. Kann ich während der Laufzeit in eine Senioren BahnCard Plus upgraden?
+----------
+
+Nein, ein Upgrade von einer regulären Senioren BahnCard in eine Senioren BahnCard Plus ist während der Laufzeit nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-upgrade)
+
+ Was ist die Senioren BahnCard 25 und 50 Plus und welche Vorteile bietet sie?
+----------
+
+Vom 1. April bis zum 31. Mai 2026 ist zusätzlich zu den regulären Senioren BahnCards die Senioren BahnCard 25 und 50 Plus erhältlich.
+
+Mit einer Senioren BahnCard 25 und 50 Plus erhalten Sie zu Beginn der Laufzeit Ihrer BahnCard eine einmalige Gutschrift über 1.500 BahnBonus Statuspunkte und profitieren damit ein Jahr lang von den [Vorteilen des BahnBonus Statuslevels Silber](https://www.bahn.de/service/bahnbonus/status-level). Dazu gehören u. a. 8 Freigetränke in der DB Bordgastronomie, 8 Tagespässe für die DB Lounges sowie eine bevorzugte Betreuung in ausgewählten DB Reisezentren.
+
+Alle weiteren Konditionen sind identisch zu den Konditionen der regulären Senioren BahnCard.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-vorteile)
 
  Ich tue mich mit der Umstellung auf die digitale BahnCard sehr schwer. Wohin kann ich mich wenden ?
 ----------
