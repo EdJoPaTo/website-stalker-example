@@ -234,6 +234,8 @@ max.  /Monat
 
  us-west HIL
 
+ ap-southeast SIN
+
  Businesstypische Anwendungen
 
 Für Workloads mit konstant hoher Auslastung, wie Datenanalyse oder Webshops.
