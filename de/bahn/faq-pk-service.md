@@ -4023,10 +4023,10 @@ Um BahnBonus Prämien- und Statuspunkte zu sammeln, müssen Sie sich vorab koste
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-werden-nicht-gutgeschrieben)
 
- Wo finde ich den QR-Code zur automatischen Wagenermittlung?
+ Wo finde ich den QR-Code zur automatischen Ermittlung des Wagens und des Sitzplatzes?
 ----------
 
-Wenn Sie ohne Sitzplatzreservierung über die App DB Navigator einchecken, können Sie die Wagennummer per QR-Code ermitteln.
+Wenn Sie ohne Sitzplatzreservierung über die App DB Navigator einchecken, können Sie die Wagen- und Sitzplatznummer per QR-Code ermitteln.
 
 Klicken Sie hierzu auf das QR-Code Icon neben der Sitzplatzeingabe im Check-in Prozess und scannen Sie den QR-Code im Bereich Ihres Sitzplatzes. Bei Aufklebern mit zwei QR-Codes scannen Sie bitte den rechten Code. Je nach Zug und Sitzplatz variiert die Position des QR-Code Aufklebers:
 
