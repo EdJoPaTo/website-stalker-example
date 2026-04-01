@@ -326,7 +326,7 @@ In unserem Cost-Optimized Tarif kommen zum Beispiel ältere, aber verlässliche 
 
 ### Hetzner Cloud ist Preis-Leistungssieger ###
 
-Der unabhängige Preis-Leistungs-Check zeigt: Hetzner bietet im Wettbewerbsvergleich deutlich mehr Rechenleistung pro Euro. Die Analyse basiert auf objektiven Benchmark-Daten von [sparecores.com](https://sparecores.com/) und macht sichtbar, wie effizient unsere Cloud-Server im Verhältnis zu ihren Kosten arbeiten.
+Der unabhängige Preis-Leistungs-Check zeigt: Hetzner bietet im Wettbewerbsvergleich deutlich mehr Rechenleistung pro Euro. Die Analyse basiert auf objektiven Benchmark-Daten von [sparecores.com](https://sparecores.com/compare) und macht sichtbar, wie effizient unsere Cloud-Server im Verhältnis zu ihren Kosten arbeiten.
 
 [Cloud-Server erstellen](https://console.hetzner.com/)
 
