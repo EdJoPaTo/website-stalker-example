@@ -143,7 +143,7 @@ Frequently asked questions
 
 * **How is the base price billed?**
 
-  The base price is billed hourly at € 0.0081 / $ 0.0096 per hour (capped at € 4.99 € / $ 5.99 per month). You are billed for each hour that you have at least one active Bucket, even if it’s empty.
+  The base price is billed hourly at  (capped at  per month). You are billed for each hour that you have at least one active Bucket, even if it’s empty.
 
 * **What traffic is free of charge?**
 
@@ -163,9 +163,9 @@ Frequently asked questions
 
   If your storage or egress traffic exceeds the included quota, additional charges will apply (All prices are exclusive of VAT):
 
-  * Storage: € 0.0067 / $ 0.0080 per TB-hour.
+  * Storage:  per TB-hour.
 
-  * Egress traffic: € 1.00 / $ 1.20 per TB.
+  * Egress traffic:  per TB.
   * Storage and traffic are billed with an accuracy of four decimal places (e.g. 1.2345 TB)
 
 * **Is the included storage and traffic quota per Bucket?**

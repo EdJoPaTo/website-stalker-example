@@ -141,7 +141,7 @@ Frequently asked questions
 
 * **Wie wird der Grundpreis in Rechnung gestellt?**
 
-  Der Grundpreis wird stündlich mit 0,0081 € (exkl. VAT) pro Stunde (maximal 4,99 € (exkl. VAT) pro Monat) in Rechnung gestellt. Jede Stunde, in der mindestens ein Bucket aktiv ist, wird in Rechnung gestellt, auch wenn dieser leer ist.
+  Der Grundpreis wird stündlich mit  pro Stunde (maximal  pro Monat) in Rechnung gestellt. Jede Stunde, in der mindestens ein Bucket aktiv ist, wird in Rechnung gestellt, auch wenn dieser leer ist.
 
 * **Welcher Datenverkehr ist kostenlos?**
 
@@ -159,8 +159,8 @@ Frequently asked questions
 
   Wenn der Speicher- oder Ausgangsdatenverkehr das inbegriffene Kontingent überschreitet, fallen zusätzliche Gebühren an (alle Preise verstehen sich zuzüglich Mehrwertsteuer):
 
-  * Speicherplatz: 0,0067 € pro TB-Stunde.
-  * Ausgehender Datenverkehr: 1,00 € (exkl. VAT) pro TB.
+  * Speicherplatz: pro TB-Stunde.
+  * Ausgehender Datenverkehr:  pro TB.
   * Speicherplatz und Datenverkehr werden mit einer Genauigkeit von vier Nachkommastellen abgerechnet (z.B. 1,2345 TB)
 
 * **Ist das enthaltene Speicher- und Verkehrskontingent pro Bucket?**
