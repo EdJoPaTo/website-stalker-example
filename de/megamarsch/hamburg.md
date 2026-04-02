@@ -147,6 +147,12 @@ INTERSPORT Voswinkel bietet dir alles für deinen Sport. Wir sind dein Sportspez
 Prize by Radisson ist eine neue Generation von zentral gelegenen Hotels, bei denen Lifestyle im Vordergrund steht. Genieße Komfort und Effizienz von der Buchung bis zum CheckOut.
 [prizebyradisson.com](https://www.radissonhotels.com/de-de/marke/prize-by-radisson)
 
+Straight out of Schanze
+
+– das ist Ratsherrn. Auf eigenen Feldern angebaut, lokal gebraut, mit Leidenschaft vollendet. Ratsherrn ist die echte Alternative zum Industriebier: Slow Brewing statt Massenproduktion.
+
+BLÆK Coffee bringt Premium Instantkaffee auf ein neues Level: 100% Arabica, schonend geröstet, voll im Geschmack – ohne den bitteren Nach-geschmack. In Hamburg von Kaffee-Liebhabern gegründet.
+
 #### Highlights
 Hamburg 2025 ####
 
