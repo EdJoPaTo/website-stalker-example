@@ -18,29 +18,27 @@ UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to mee
 
 Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W Chargers Next page 1 Durable and Long Lasting 2 480Mbps for Data Transfer 3 Safe Fast Charging...
 
-### [UGREEN Right Angle USB C Cable 3.0 Type C Charger 5Gbps](https://eu.ugreen.com/products/ugreen-right-angle-usb-c-cable-3-0-type-c-charger-cable-fast-charging-5gbps) ###
-
-\_ Important Note Before Purchase: 1.Not support the phone case thicker than 2mm. 2.Not support video output 3.Charging speed will depend on the device and the wall charger. We sugget...
-
-### [UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable](https://eu.ugreen.com/products/ugreen-usb-c-90-degree-cable-3a-right-angle-type-c-charger-cable) ###
-
-UGREEN USB C 90 Degree Cable 3A Right Angle Type C Charger Cable
-
 ### [UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided](https://eu.ugreen.com/products/ugreen-usb-c-cable-3a-fast-charging-usb-to-type-c-lead-nylon-braided-1) ###
 
 UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided
-
-### [UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Charging](https://eu.ugreen.com/products/ugreen-usb-c-cable-90-degree-2-pack-right-angle-type-c-charger-lead-fast-charging) ###
-
-UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Charging
 
 ### [UGREEN USB C Cable 90 Degree 3A Right Angle Type C Charger Cable Fast Charging](https://eu.ugreen.com/products/ugreen-usb-c-cable-90-degree-3a-right-angle-type-c-charger-cable-fast-charging) ###
 
 UGREEN USB C Cable 90 Degree 3A Right Angle Type C Charger Cable Fast Charging
 
-### [UGREEN USB C Hard Drive Cable, Micro B to Type C Lead Compatible](https://eu.ugreen.com/products/ugreen-usb-c-hard-drive-cable-micro-b-to-type-c-lead-compatible-with-usb-3-0-external-portable) ###
+### [UGREEN USB C to Lightning Cable](https://eu.ugreen.com/products/ugreen-usb-c-to-lightning-cable) ###
 
-UGREEN USB C Hard Drive Cable, Micro B to Type C Lead Compatible with USB 3.0 External Portable
+PD Fast ChargingUgreen USB C to Lightning Cable delivers full-speed fast charging to your Power Delivery enabled lightning devices, which only takes 30 mins to juice iPhone 13 Mini up...
+
+### [UGREEN USB C to USB C Cable 60W](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w) ###
+
+UGREEN USB C to USB C Cable 60W
+
+### [UGREEN USB C to USB C Cable 60W（1m）](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w-tuttoa) ###
+
+UGREEN USB C to USB C Cable 60W
+
+### [UGREEN USB C to USB C Cable, 2 Pack 100W 1M](https://eu.ugreen.com/products/15176p) ###
 
 ### [UGREEN Uno USB-C to USB-C Cable 100W](https://eu.ugreen.com/products/ugreen-uno-usb-c-cable-100w) ###
 

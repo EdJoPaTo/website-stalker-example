@@ -4,12 +4,6 @@
 
 Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A 65W Max PPS：3.3-21V/3A USB-A 4.5V/5A, 5V/4.5A, 5V/3A, 9V/2A, 12V/1.5A 22.5W Max Fast Load Protocol USB-C: PD3.0, PPS,...
 
-### [UGREEN 65W USB C GaN Charging Station-7 Ports Desktop Charger](https://eu.ugreen.com/products/ugreen-65w-power-strip-diginest-cube-gan-extension-lead-with-usb-c-slots) ###
-
-Specifications and Compatibility USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A 3.3-21V/3A; PPS Adaptive Ladung 65W Max USB A1/A2 output 5V/3A, 9V/2A, 12V/1.5A; adaptive Ladung 22.5W Max outlet of the sockets...
-
-### [UGREEN 65W USB C PD Charger - 4 Ports](https://eu.ugreen.com/products/ugreen-65w-usb-c-pd-charger-4-ports) ###
-
 ### [UGREEN Nexode 100W 4-Port GaN Charger & 2× 60W Charging Cables](https://eu.ugreen.com/products/ugreen-nexode-4-port-100w-usb-c-gan-charger-2-pack-usb-c-100w-charger-cable) ###
 
 Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
@@ -17,12 +11,6 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
 ### [UGREEN Nexode 100W USB C GaN Charger-4 Port Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-100w-usb-c-wall-charger) ###
 
 Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
-
-### [UGREEN Nexode 140W USB C GaN Charger-3 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-140w-usb-c-wall-charger) ###
-
-Ugreen Nexode 140W USB C Wall Charger Click here to learn about 2024's latest UGREEN Chargers: UGREEN Uno.
-
-### [UGREEN Nexode 200W USB C GaN Charger-6 Ports Desktop Charger](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-desktop-charger) ###
 
 ### [UGREEN Nexode 300W GaN Wall USB-C Charger 5 Ports](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) ###
 
@@ -34,6 +22,20 @@ Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A,
 
 Previous page Next page Previous page Next page Previous page Next page Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.9A, 15V/2.33A, 20V/1.75A, 35W Max, PPS: 5-11V/3A USB-A Ausgang 5V/3A,...
 
-### [UGREEN Nexode 45W USB C GaN Charger-2 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-mini-45w-dual-usb-c-charger) ###
+### [UGREEN Nexode 65W Charger & 60W USB-C Cables](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-gan-charger-3-ports-wall-charger-1m-60w-usb-c-cable) ###
 
- Previous page
+Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
+
+### [UGREEN Nexode 65W USB C GaN Charger-3 Ports Wall Charger](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-wall-charger-3-ports) ###
+
+Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
+
+### [UGREEN Nexode Pro 100W 3-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-100w-gan-fast-charger) ###
+
+ Previous page Next page Previous page Next page Previous page Next page 1 3-Port Ausgang 2 2-Port Ausgang 3 1-Port Ausgang
+
+### [UGREEN Nexode Pro 160W 4-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) ###
+
+Previous page Next page Previous page Next page Previous page Next page 1 4-Port Ausgang 2 3-Port Ausgang 3 2-Port Ausgang 4 1-Port Ausgang Click here to learn about 2024's...
+
+### [UGREEN Nexode Pro 65W 3-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/nexode-pro-65w-3-port-gan-mini-fast-charger) ###
