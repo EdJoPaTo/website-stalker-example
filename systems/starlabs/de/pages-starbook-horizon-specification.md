@@ -56,12 +56,17 @@ M
 
  Security Features
 
+ TCG Opal hardware encryption support
  Total Memory Encryption
  BIOS Lock
- Secure Boot
+Secure Boot
  Measured Boot
  TPM 2.0
-Disabled Intel Management Engine
+ Disabled Intel Management Engine
+
+ TPM 2.0
+
+ Infineon OPTIGA™ SLB9670
 
  Memory
 

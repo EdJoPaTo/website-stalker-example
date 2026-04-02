@@ -8,7 +8,27 @@ English (US) Keyboard
 
  Storage
 
+[More Info](#storage)
+
+ TCG Opal hardware encryption supported
+
  1TB
+
+ Storage
+
+ Your StarBook Horizon will come with 1TB by default.
+
+ You can configure it with 4TB, giving you more storage capacity and faster performance.
+
+ All storage options for this model support TCG Opal hardware encryption.
+
+ TCG Opal is the standard used by self-encrypting drives, allowing encryption features to be handled by the SSD itself rather than only in software.
+
+ One practical advantage is that it can be enabled or disabled without needing to reinstall the operating system.
+
+ For most users, that means better storage-security options. For organisations, it also improves compatibility with enterprise deployment and device-management workflows.
+
+ You can upgrade or replace the SSD; this requires a small Philips screwdriver.
 
 1TB
 
@@ -53,6 +73,8 @@ Maximum
 3-Year Extended Warranty
 
 Extras
+
+32GB Reversible USB Recovery Drive
 
 USB-A to Ethernet Adapter
 

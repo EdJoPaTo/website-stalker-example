@@ -13,9 +13,29 @@ Up to 32GB DDR4 memory
 
 32GB
 
+ SO-DIMM Memory Modules (Memory)
+
+ Your Byte will come with 16GB by default.
+
+ You can upgrade this to 32GB.
+
+ The memory is onboard, so you cannot upgrade it at a later date.
+
+[Learn more about SO-DIMM Memory Modules (Memory) options](#so-dimm-memory-modules-(memory))
+
  Storage
 
+[More Info](#storage)
+
  512GB
+
+ Storage
+
+ Your Byte will come with 512GB by default.
+
+ You can configure it with 2TB, giving you more storage capacity and faster performance.
+
+ You can upgrade or replace the SSD; this requires a small Philips screwdriver.
 
 512GB
 

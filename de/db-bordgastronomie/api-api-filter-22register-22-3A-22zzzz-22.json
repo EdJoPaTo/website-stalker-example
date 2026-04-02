@@ -2332,6 +2332,29 @@
 				"chapter": 3116,
 				"id": 3,
 				"register": null
+			},
+			{
+				"banner": {
+					"color_bg_hex": "#ffffff",
+					"color_text_hex": "#282d37",
+					"description": "Bitburger Flasche öffnen, QR-Code im Kronkorken*\r\nscannen und direkt gewinnen oder Punkte sammeln.",
+					"description_en": "Open a Bitburger bottle, scan the QR code inside the crown cap, and instantly win exclusive prizes or collect points for even more rewards.*",
+					"description_fr": "Ouvrez une bouteille de Bitburger, scannez le code QR dans la capsule et gagnez immédiatement ou collectez des points.",
+					"headline": " Bitte gemeinsam zur Fußballreise",
+					"headline_en": "Join us on the ultimate football adventure",
+					"headline_fr": "Partons ensemble pour un voyage footballistique",
+					"id": 6,
+					"img_bg": "banner-img_bg-6.jpg",
+					"img_bg_alt": "",
+					"img_bg_alt_en": "",
+					"img_bg_alt_fr": "",
+					"img_bg_mobile": "banner-img_bg_mobile-6.jpg",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"chapter": 2099,
+				"id": 4,
+				"register": null
 			}
 		],
 		"cards": [

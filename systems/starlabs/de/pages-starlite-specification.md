@@ -66,10 +66,12 @@ Write Speed (CDM): 3030MB/s
 
  Security Features
 
+ Total Memory Encryption
  BIOS Lock
  Secure Boot
  Measured Boot
- Disabled Intel Management Engine
+ TPM 2.0
+Disabled Intel Management Engine
 
  Memory
 

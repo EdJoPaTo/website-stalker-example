@@ -7,7 +7,17 @@ Intel Core 3 N350 8-core processor
 
  Storage
 
+[More Info](#storage)
+
  512GB
+
+ Storage
+
+ Your StarLite will come with 512GB by default.
+
+ You can configure it with 2TB, giving you more storage capacity and faster performance.
+
+ You can upgrade or replace the SSD; this requires a small Philips screwdriver.
 
 512GB
 
