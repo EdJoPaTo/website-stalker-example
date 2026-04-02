@@ -85,9 +85,9 @@ Includes:
 
  All import duties and taxes are covered in the price you see; there won’t be any additional fees when your package arrives.
 
-Ships
+Dispatches in
 
- 14 - 15 business days
+ 3 - 4 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 

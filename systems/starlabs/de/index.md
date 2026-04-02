@@ -25,23 +25,23 @@ Browse our range
 
 [](/products/byte)
 
-[Byte €13,37 Ships 1 - 2 business days](/products/byte)
+[Byte €13,37 Dispatches in 1 - 2 business days](/products/byte)
 
 [](/products/starlite)
 
-[StarLite €13,37 Ships 14 - 15 business days](/products/starlite)
+[StarLite €13,37 Dispatches in 3 - 4 business days](/products/starlite)
 
 [](/products/starbook)
 
-[StarBook €13,37 Ships 1 - 2 business days](/products/starbook)
+[StarBook €13,37 €13,37 Dispatches in 1 - 2 business days](/products/starbook)
 
 [](/products/starbook-horizon)
 
-[StarBook Horizon €13,37 Ships 14 - 15 business days](/products/starbook-horizon)
+[StarBook Horizon €13,37 Dispatches in 3 - 4 business days](/products/starbook-horizon)
 
 [](/products/starfighter)
 
-[StarFighter €13,37 Ships 2-3 weeks](/products/starfighter)
+[StarFighter €13,37 Dispatches in 3 - 4 business days](/products/starfighter)
 
 More than just a licence.
 
