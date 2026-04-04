@@ -26,11 +26,6 @@ Wählen Sie Ihre DB Lounge für detaillierte Informationen
 
 * [Springe zu: Zutritt, Ausstattung und Gastronomie](https://www.bahn.de/service/zug/db-lounge#zutritt)
 
-DB Lounge Stuttgart
-----------
-
-Aufgrund von Sanierungsarbeiten im LBBW Gebäude bleibt die DB Lounge Stuttgart vom **3. bis 4. April 2026 geschlossen**. Wir bitten um Ihr Verständnis.
-
 DB Lounges - Zutritt, Ausstattung und Gastronomie
 ----------
 
