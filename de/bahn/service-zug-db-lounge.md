@@ -90,7 +90,8 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Berlin ####
 
-* **Öffungszeiten:** Montag bis Sonntag und Feiertag: 6 bis 22 Uhr
+* **Lage:** Die DB Lounge Berlin befindet sich im ersten Obergeschoss in Richtung Ausgang Washingtonplatz, links neben dem DB Reisezentrum. Die Premium Lounge, räumlich getrennt, liegt gegenüber auf der rechten Seite neben der Bahnhofsmission. Der Zugang zum ersten Obergeschoss ist via Aufzug, Rolltreppe oder Treppe möglich.
+* **Öffnungszeiten:** Montag bis Sonntag und Feiertag: 6 bis 22 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
 * [DB Lounge Berlin - Lageplan (PDF, 660 KB) Download der Datei: DB Lounge Berlin - Lageplan (PDF, 660 KB)](https://assets.static-bahn.de/dam/jcr:85b72d48-b4d6-4ebd-90d8-aab10db20b8e/02-Berlin-Hbf.pdf)
@@ -99,7 +100,8 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Dresden ####
 
-**Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
+* **Lage:** Die DB Lounge Dresden liegt im ersten Obergeschoss auf der linken Seite der Galerie. Der Zugang zur Galerie erfolgt über eine Treppe in der zentralen Kuppelhalle (Richtung Ausgang St. Petersburger Straße). Für mobilitätseingeschränkte Reisende ist ein barrierefreier Zugang über eine Rampe von Gleis 3 möglich. An der Tür zur Rampe befindet sich eine Klingel, die betätigt werden muss. Das Personal öffnet die Tür manuell – bitte haben Sie einen Moment Geduld.
+* **Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Dresden Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Dresden Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:de1fd57c-c0bd-4f61-a3de-5a7186ff3737/341_Lageplan_Dresden.pdf)
 
@@ -107,7 +109,8 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Düsseldorf ####
 
-**Öffnunszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
+* **Lage:** Die DB Lounge Düsseldorf befindet sich außerhalb des Bahnhofgebäudes im Erdgeschoss, Heinz-Schmöle-Straße 12. Sie erreichen die Lounge über Ausgang 3 (Ostseite) in Richtung Bertha-von-Suttner-Platz. Der Fußweg vom jeweiligen Ankunftsgleis zum Eingang beträgt zwei bis fünf Minuten.
+* **Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Düsseldorf Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Düsseldorf Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:71f45914-f967-4095-8342-d350dacaa78e/341_Lageplan_D%C3%BCsseldorf.pdf)
 
@@ -115,6 +118,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Frankfurt ####
 
+* **Lage:** Die DB Lounge Frankfurt am Main Hauptbahnhof liegt im ersten Obergeschoss über dem DB Reisezentrum, das sich mittig im Bahnhof nahe dem Ausgang City/Kaiserstraße befindet. Der Zugang erfolgt durch die große Glasfront links neben dem Eingang des Reisezentrums und von dort über die Treppe oder den Aufzug ins Obergeschoss.
 * **Öffnungszeiten:** Montag bis Freitag: 6 bis 22 Uhr / Samstag, Sonntag und Feiertag: 7 bis 22 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
@@ -124,7 +128,9 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Frankfurt Flughafen ####
 
-**Öffnungszeiten:** Montag bis Sonntag und Feiertag: 6 bis 22 Uhr
+* **Lage:** Die DB Lounge Frankfurt am Main Flughafen befindet sich auf der zweiten Ebene des Fernbahnhofs. Sie ist über die Rolltreppen oder Treppen zu/von Gleis 4/5 sowie Gleis 6/7 (Gleisabschnitt A-B) erreichbar.
+  Ein barrierefreier Zugang erfolgt via Aufzug vor dem DB Reisezentrum zu Gleis 6/7 (Gleisabschnitt C-D), mit Ausstieg auf Ebene 2.
+* **Öffnungszeiten:** Montag bis Sonntag und Feiertag: 6 bis 22 Uhr
 
 * [DB Lounge Frankfurt Flughafen Lageplan (PDF, 74 KB) Download der Datei: DB Lounge Frankfurt Flughafen Lageplan (PDF, 74 KB)](https://assets.static-bahn.de/dam/jcr:67a7265c-3477-4f2c-a175-efff0f9f0a97/06-FFM-Flughafen.pdf)
 
@@ -132,8 +138,9 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Hamburg ####
 
+* **Lage:** Der Eingang der DB Lounge Hamburg Hauptbahnhof befindet sich im ersten Obergeschoss auf der Nordseite der Gleise zwischen Nordsteg und Wendelhalle auf Höhe von Gleis 3. Der Zugang erfolgt durch eine Glastür. Via Treppe oder Aufzug geht es ins zweite Obergeschoss, wo sich der Empfang der DB Lounge befindet.
 * **Öffnungszeiten:** Montag bis Freitag: 6 bis 22 Uhr / Samstag, Sonntag und Feiertag: 7:30 bis 20:30 Uhr
-* In dieser DB Lounge finden Sie auch einen **Premium Bereich**
+* In dieser DB Lounge finden Sie auch einen **Premium Bereich.**
 
 * [DB Lounge Hamburg Lageplan (PDF, 77 KB) Download der Datei: DB Lounge Hamburg Lageplan (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:12e4ab6e-34b2-4710-9786-3b05abe60dfc/01-HH-Hbf.pdf)
 
@@ -141,6 +148,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Hannover ####
 
+* **Lage:** Die DB Lounge Hannover liegt im ersten Obergeschoss direkt über dem DB Reisezentrum. Zugang besteht über die Mittelhalle in Richtung Ausgang Ernst-August-Platz/Innenstadt. Treppe und Aufzug befinden sich direkt neben dem Eingangsbereich des DB Reisezentrums.
 * **Öffnungszeiten:** Montag bis Fr: 6 bis 21:30 Uhr / Samstag: 7 bis 21:30 Uhr / Sonntag: 8 bis 21:30 Uhr / Feiertag: 8 bis 21:30 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
@@ -150,6 +158,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Köln ####
 
+* **Lage:** Die DB Lounge Köln befindet sich direkt an Gleis 1 im ersten Obergeschoss zwischen A- und B-Passage. Der Zugang erfolgt entweder per Rolltreppe über die A-Passage oder per Treppe über die B-Passage jeweils auf Gleis 1. Ein barrierefreier Zutritt ist per Aufzug über die B-Passage möglich.
 * **Öffnungszeiten:** Montag bis Freitag: 6:30 bis 21:30 Uhr / Samstag, Sonntag und Feiertag: 7 bis 21 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**.
 
@@ -159,7 +168,8 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Leipzig ####
 
-**Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
+* **Lage:** Die DB Lounge Leipzig befindet sich im Obergeschoss auf Höhe von Gleis 23 in Richtung Ausgang Wintergartenstraße. Der Zugang ist über Rolltreppen vom Erdgeschoss möglich. Ein barrierefreier Zugang wird durch mehrere Aufzüge, unter anderem in der nahegelegenen Osthalle, gewährleistet.
+* **Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Leipzig Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Leipzig Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:560f9365-b9ae-4ca5-b435-6982e2d1c319/08-Leipzig-Hbf.pdf)
 
