@@ -1145,6 +1145,7 @@
 * [Stabilostifte](https://www.wdrmaus.de/filme/sachgeschichten/stabilostifte.php5)
 * [Stadionsitz](https://www.wdrmaus.de/filme/sachgeschichten/stadionsitz.php5)
 * [Stadtplan](https://www.wdrmaus.de/filme/sachgeschichten/stadtplan.php5)
+* [Stadtschafe (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/stadtschafe_teil1.php5)
 * [Stahlbeton](https://www.wdrmaus.de/filme/sachgeschichten/stahlbeton.php5)
 * [Stahlbramme](https://www.wdrmaus.de/filme/sachgeschichten/stahlbramme.php5)
 * [Stahlwerk](https://www.wdrmaus.de/filme/sachgeschichten/stahlwerk.php5)
