@@ -67,7 +67,7 @@ System
 
    
 
-* Max+ 395 - 128GB  €3,039
+* Max+ 395 - 128GB  €3,379
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
@@ -110,7 +110,7 @@ Primary Storage (M.2 2280)
 * WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 4TB +€479
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€170
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 2TB +€295
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 4TB +€525
+* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 4TB +€759
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 8TB +€1,000
 * None (bring your own)
 
@@ -137,7 +137,7 @@ Secondary Storage (M.2 2280)
 * WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 4TB +€479
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€170
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 2TB +€295
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 4TB +€525
+* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 4TB +€759
 * WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 8TB +€1,000
 * None (bring your own)
 
