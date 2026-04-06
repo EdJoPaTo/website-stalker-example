@@ -320,30 +320,6 @@ JGAs
 
 ]()
 
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
-
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
-
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
-
-[](https://www.strauss.com/de/de/geschenkideen-kinder/kinderhelm-7000530-7576095-0.html)
-
-[](https://www.strauss.com/de/de/kinder-bekleidungszubehoer/rucksack-e-s-e-pic-kinder-7072820-5505335-1.html)
-
-[](https://www.strauss.com/de/de/allroundtaschen/strauss-gym-bag-7072960-5576069-1.html)
-
-[Geschenkideen für Kinder](https://www.strauss.com/de/de/geschenkideen-kinder/)
-
-[Geschenkideen für Kinder](https://www.strauss.com/de/de/geschenkideen-kinder/)
-
-[Geschenkideen für Kinder](https://www.strauss.com/de/de/geschenkideen-kinder/)
-
  Neuheiten
 ----------
 
