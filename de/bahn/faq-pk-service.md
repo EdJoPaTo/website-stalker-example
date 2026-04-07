@@ -2585,9 +2585,14 @@ Servicecenter Fahrgastrechte
  Ich möchte mein Passwort zurücksetzen und habe keine E-Mail erhalten, was kann ich tun?
 ----------
 
-Wir senden einen Link zum Zurücksetzen des Passworts an eine von Ihnen angegebene E-Mail-Adresse. Wenn Sie mehrere E-Mail-Adressen aktiv nutzen, prüfen Sie den Posteingang für dieser E-Mail-Adressen. Falls Sie keine E-Mail mit dem Link zum Zurücksetzen des Passworts erhalten haben, vergewissern Sie sich bitte, dass die E-Mail von Ihrem Spamfilter nicht aussortiert wurde. Fügen Sie die Absenderadresse in die Liste der akzeptierten Absender hinzu, um die Aussortierung in den Spam Ordner in Zukunft zu vermeiden.
+Sie können Ihr Passwort zurücksetzen, indem wir Ihnen einen Link per E-Mail senden.
+Wenn Sie keine E-Mail erhalten haben, gehen Sie so vor:
 
-Sie können den Versand einer E-Mail zum Zurücksetzen Ihrer Login-Daten bei Bedarf erneut anstoßen: [Passwort zurücksetzen](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web&tab_id=6HbYCXjvCRc)
+* Prüfen Sie den Posteingang aller E-Mail-Adressen, die Sie bei uns angegeben haben.
+* Kontrollieren Sie auch Ihren Spam-Ordner.
+* Legen Sie die Absenderadresse in Ihrem E-Mail-Konto als akzeptiert fest. So vermeiden Sie, dass unsere E-Mails im Spam-Ordner landen.
+
+Sie können die E-Mail zum Zurücksetzen Ihres Passworts erneut anfordern: [Passwort zurücksetzen](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web&tab_id=6HbYCXjvCRc)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-moechte-mein-passwort-zuruecksetzen-und-habe-keine-e-mail-erhalten-was-kann-ich-tun)
 
@@ -3684,7 +3689,7 @@ Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrag
  Muss ich mein DB Kundenkonto zwingend mit einem zweiten Authentifizierungsfaktor schützen?
 ----------
 
-Die 2-Faktor-Authentifizierung ist optional - Sie aktivieren diese Funktion nur, wenn Sie das möchten.
+Die 2-Faktor-Authentifizierung ist optional. Sie aktivieren diese Funktion nur, wenn Sie das möchten.
 
 Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten.
 
@@ -6448,9 +6453,9 @@ Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Si
  Wie kann ich den 2. Faktor deaktivieren/ ausschalten?
 ----------
 
-Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Login & Sicherheit“ auf.
-
-Hier können Sie die zuvor von Ihnen aktivierte 2-Faktor-Authentifzierung wieder deaktivieren. Bitte folgen Sie dafür den Anweisungen zur Deaktivierung der 2-Faktor-Authentifizierung.
+1. Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein.
+2. Rufen Sie den Bereich "Login & Sicherheit“ auf.
+3. Nun können Sie die zuvor von Ihnen aktivierte 2-Faktor-Authentifzierung deaktivieren. Folgen Sie einfach den Anweisungen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-2-faktor-deaktivieren-ausschalten)
 
