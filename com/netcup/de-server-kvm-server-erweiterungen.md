@@ -98,7 +98,7 @@ pro Monat inkl. 19% MwSt.
 **Tipp: Hohe Verfügbarkeit**
 ----------
 
-So machst du deine Website hoch verfügbar: Eine Failover-IP lässt sich auf verschiedenen Servern einbinden. Fällt ein Server aus, kann die IP von einem anderen Server automatisch eingebunden werden. Du kannst die Failover-IP-Adressen entweder per Webinterface oder per Rest-API konfigurieren.
+So machst du deine Website hoch verfügbar: Eine Failover-IP lässt sich auf verschiedenen Servern einbinden. Fällt ein Server aus, kann die IP von einem anderen Server automatisch eingebunden werden. Du kannst die Failover-IP-Adressen entweder per Webinterface oder per SOAP-Webservice konfigurieren.
 
 **Neu: Service Level**
 ----------
