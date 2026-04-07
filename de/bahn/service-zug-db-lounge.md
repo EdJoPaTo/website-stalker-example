@@ -162,7 +162,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Öffnungszeiten:** Montag bis Freitag: 6:30 bis 21:30 Uhr / Samstag, Sonntag und Feiertag: 7 bis 21 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**.
 
-* [DB Lounge Köln Lageplan (PDF, 44 KB) Download der Datei: DB Lounge Köln Lageplan (PDF, 44 KB)](https://assets.static-bahn.de/dam/jcr:f238de55-4bd1-419b-b5a7-eeb760ba27c0/04-Koeln-HBF-interim.pdf)
+* [DB Lounge Köln Lageplan (PDF, 81 KB) Download der Datei: DB Lounge Köln Lageplan (PDF, 81 KB)](https://assets.static-bahn.de/dam/jcr:f238de55-4bd1-419b-b5a7-eeb760ba27c0/DB%20Lounge%20K%C3%B6ln%20Lageplan.pdf)
 
 ###  DB Lounge Leipzig  ###
 

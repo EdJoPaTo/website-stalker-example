@@ -92,10 +92,10 @@ IN DEINER NÄHE!
 [ERFURT](https://www.megamarsch.de/erfurt)
 ----------
 
-[MÖNCHEN GLADBACH](https://www.megamarsch.de/mönchengladbach)
+[MÖNCHEN GLADBACH](https://www.megamarsch.de)
 ----------
 
-[Location](https://www.megamarsch.de/mönchengladbach)
+[Location](https://www.megamarsch.de)
 
 [Location](https://www.megamarsch.de/köln)
 
