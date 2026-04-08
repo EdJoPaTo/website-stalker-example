@@ -1,8 +1,8 @@
-### Framework Laptop 13 isn’t our computer. It’s yours. ###
+### Framework Laptop 13 isn’t our computer. It’s yours.  ###
 
 Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
 
-### Framework Laptop 13 isn’t our computer. It’s yours. ###
+### Framework Laptop 13 isn’t our computer. It’s yours.  ###
 
 Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
 
@@ -51,6 +51,46 @@ working on with the Framework Newsletter. ###
 ### Keep track of what we’re working on with the Framework Newsletter. ###
 
 Monthly-ish
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
+
+```
+Let’s fix 🪛 Consumer Electronics.
+```
 
 ```
 Let’s fix 🪛 Consumer Electronics.
