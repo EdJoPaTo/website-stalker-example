@@ -436,7 +436,7 @@ Sie können den Bestellstatus aber bereits im DB Navigator anzeigen, **wenn Sie
 2. Rufen Sie die Bestellbestätigung auf dem Smartphone auf und klicken auf den Link.
 3. Der Bestellstatus wird Ihnen angezeigt, bis Ihr Abo erfolgreich aktiviert wurde und das Handy-Ticket automatisch bereitgestellt wird.
 
-Hinweis: Die Funktion steht ab der **DB Navigator Version 25.23.0** zur Verfügung.
+Die Funktion steht ab der **DB Navigator Version 25.23.0** zur Verfügung.
 
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
@@ -2298,7 +2298,7 @@ Bitte informieren Sie sich auch rechtzeitig vor Antritt Ihrer Reise zu mögliche
 
 Das Handy-Ticket eines Abos wird immer für den aktuellen Kalendermonat ausgestellt. Es aktualisiert sich am Monatswechsel automatisch. Nach der Aktualisierung kann das Ticket auch ohne Internetverbindung aufgerufen werden.
 
-Aktualsiert sich Ihr Handy-Ticket nicht automatisch prüfen Sie folgende Schritte:
+Aktualisiert sich Ihr Handy-Ticket nicht automatisch, prüfen Sie folgende Schritte:
 
 * Sind Sie mit einer stabilen Internetverbindung verbunden?
 * Haben Sie für die App die Einstellungen zur HIntergrundaktualisierung aktiviert?
