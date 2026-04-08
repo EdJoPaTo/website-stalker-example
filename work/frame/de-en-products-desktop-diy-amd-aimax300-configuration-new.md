@@ -224,7 +224,7 @@ Power Cable
 * AC Cable - C13 - EU +€6
 * AC Cable - C13 - US/CA +€6
 * AC Cable - C13 - AU/NZ +€6
-* AC Cable - C13 - UK +€6
+* AC Cable - C13 - UK/SG +€6
 * AC Cable - C13 - TW +€6
 * None (bring your own)
 
