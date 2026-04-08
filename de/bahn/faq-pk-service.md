@@ -467,9 +467,9 @@ Ihre angemeldete Hilfeleistung ist an eine konkrete Verbindung gebunden. Falls S
  Was muss ich bei der Änderung meiner Daten beachten, wenn ich ein Abo habe?
 ----------
 
-Für die Änderung des Namens, Geschlechts oder Geburtsdatum im bahn.de Kundenkonto prüfen Sie bitte die [Hilfestellungen zur Änderung persönlicher Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/kundenkonto/persoenliche-daten). Die Änderungen werden nur in bestimmten Fällen auch für Ihren Abovertrag übernommen. Daher prüfen Sie bitte nach der Änderung im Kundenkonto im Aboportal unter "Meine Daten", ob Ihre Daten geändert wurden. Andernfalls melden Sie die Änderung bitte über das Kontaktformular mit dem entsprechenden Nachweis.
+Für die Änderung des Namens, Geschlechts oder Geburtsdatum im DB Kundenkonto prüfen Sie bitte die [Hilfestellungen zur Änderung persönlicher Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/kundenkonto/persoenliche-daten). Die Änderungen werden nur in bestimmten Fällen auch für Ihren Abovertrag übernommen. Daher prüfen Sie bitte nach der Änderung im DB Kundenkonto im Aboportal unter "Meine Daten", ob Ihre Daten geändert wurden. Andernfalls melden Sie die Änderung bitte über das Kontaktformular mit dem entsprechenden Nachweis.
 
-Bei der Neubstellung eines Abos werden die aktuellen Daten aus dem Kundenkonto übernommen.
+Bei der Neubestellung eines Abos werden die aktuellen Daten aus dem DB Kundenkonto übernommen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-kundenkonto)
 
