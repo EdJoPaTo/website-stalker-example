@@ -265,8 +265,8 @@ Keyboard
 
 Power Adapter
 
-* Power Adapter - 60W - EU +€49
 * Power Adapter - 60W - UK/SG +€49
+* Power Adapter - 60W - EU +€49
 * None (bring your own)
 
  Expansion Cards
