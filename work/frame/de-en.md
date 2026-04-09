@@ -1,3 +1,5 @@
+[Learn more](/nextgen)
+
 ### Framework Laptop 13 isn’t our computer. It’s yours.  ###
 
 Updated for 2025 with AMD's latest Ryzen™ AI 300 Series Processors with up to 12 CPU cores.
