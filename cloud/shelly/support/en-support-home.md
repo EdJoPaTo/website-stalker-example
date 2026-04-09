@@ -5,6 +5,15 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
+ ℹ️ Notice: Limited Support During Easter Holidays ℹ️
+----------
+
+ Please note that our support team will be operating at reduced capacity due to the upcoming **Easter holidays from April 10 to 13**.
+
+ We’ll do our best to respond to your inquiries as quickly as possible, but delays may occur. Thank you for your patience and understanding!
+
+ ✨✨ From all of us — **Happy Easter!** Wishing you joy, peace, and maybe a few chocolate eggs. ✨✨
+
  GEN1 Upgrade Program – Voucher Usage Notice
 ----------
 

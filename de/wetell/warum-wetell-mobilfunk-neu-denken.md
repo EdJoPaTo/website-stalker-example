@@ -46,7 +46,8 @@ Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovati
 
   **CO₂-Einsparung seit Marktstart:**
 
-  * **1.223 t**
+  * **825 t** seit Marktstart
+  * weitere **500 t** geplant bis Ende 2025
 
   **Investitionen in Erneuerbare Energien:**
 
@@ -59,9 +60,8 @@ Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovati
 
   **Community Balkonkraftwerke:**
 
-  * **2024**: 50 Systeme mit je **640 Wp**
-  * **2024**: 10 Systeme mit je **300 Wp**
-  * **2025**: 50 Systeme mit je **405 Wp**
+  * **2024** Run 1: 50 Systeme mit je **640 Wp**
+  * **2024** Run 2: 10 Systeme mit je **300 Wp**
 
   **Verbände und Netzwerke:**
 
