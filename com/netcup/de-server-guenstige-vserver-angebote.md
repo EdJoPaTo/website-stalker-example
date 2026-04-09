@@ -243,16 +243,6 @@ Ja, du kannst deine VPS Lite-Tarife mit Local Block Storage **bis zu max. 4 TB**
 
 ###
 
-Kann ich zwischen VPS Lite-Tarifen wechseln, wenn mein Projekt wächst?
-
- ###
-
-Das Upgrade **innerhalb einer Generation und Tarifgruppe** (z.B. von VPS Lite 1 G12s zu VPS Lite 2 G12s) ist möglich und kann direkt im Customer Control Panel (CCP) durchgeführt werden.
-
-Ein Wechsel auf kleinere Tarife, andere Generationen (z.B. von VPS nano G11s zu VPS Lite 1 G12s) oder zwischen Tarifgruppen (z.B. von VPS Lite G12s zu VPS 1000 G12) ist nicht über ein Upgrade möglich. In diesem Fall kündige bitte deinen alten Tarif und bestelle den gewünschten neuen Tarif. [Hier findest du weitere Informationen zu Produktupgrades](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade)
-
-###
-
 Kann ich einen Windows Server mieten?
 
  ###
