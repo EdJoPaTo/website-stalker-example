@@ -1,6 +1,4 @@
-[Join us in the Netherlands on April 8 for State of the Open Home 2026](https://sotoh.openhomefoundation.org/)
-
- The **Open Home Foundation** fights for the fundamental principles of **privacy**, **choice**, and **sustainability** for smart homes. And for every person who lives in one. It does this by supporting the development of open source projects, and open connectivity and communication standards.
+The **Open Home Foundation** fights for the fundamental principles of **privacy**, **choice**, and **sustainability** for smart homes. And for every person who lives in one. It does this by supporting the development of open source projects, and open connectivity and communication standards.
 
 [Learn more](https://www.openhomefoundation.org/about/)
 
@@ -61,10 +59,10 @@ Support us
 
 [Join the fight](https://www.openhomefoundation.org/structure/#support-our-work)
 
-[](https://www.home-assistant.io/blog/2025/03/26/state-of-the-open-home-2025-announcement/)
+[](https://www.openhomefoundation.org/blog/building-whats-next-state-of-the-open-home-2026/)
 
-State of the Open Home 2025
+State of the Open Home 2026
 
- On April 12th, we went live with the 2025 State of the Open Home - our annual recap of the previous year and look ahead to the next. Read more...
+ From a new Community department to a public roadmap awaiting your input. Catch up on the event highlights and help shape what we build next.
 
-[](https://www.home-assistant.io/blog/2025/04/16/state-of-the-open-home-recap/)
+[](https://www.openhomefoundation.org/blog/building-whats-next-state-of-the-open-home-2026/)
