@@ -428,6 +428,8 @@ alle Produkte
  25.04. – 05.05.2026 | Mannheim
 ---
 
+ Halle 40
+
 [mehr Informationen](https://www.maimarkt.de/home)
 
  Von Workwear bis Werkzeug – Über 40.000 Produkte
@@ -575,9 +577,9 @@ zzgl. Versandkosten
 
   * [PayPal](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Kreditkarte](https://www.strauss.com/de/de/Service/Bezahlen)
-  * [Rechnung](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Bankeinzug](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Vorauskasse](https://www.strauss.com/de/de/Service/Bezahlen)
+  * [Rechnung](https://www.strauss.com/de/de/Service/Bezahlen)
 
 **Strauss Deutschland**
 
