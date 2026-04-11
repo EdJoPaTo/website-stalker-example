@@ -245,7 +245,7 @@ Firmware version `1.6.0` is not deployed for Shelly 2PM Gen3, this device will r
 * Update timezones info
 * [KNX](/gen2/Integrations/KNX/) Relax validation of individual address
 * [BLE](/gen2/ComponentsAndServices/BLE) Support enabling and disabling without a restart
-* [Scripting](/gen2/ComponentsAndServices/Script) Enhance BLE API, see additional notes [here](/gen2/Scripts/ShellyScriptLanguageFeatures#bluetooth-support)
+* [Scripting](/gen2/ComponentsAndServices/Script) Enhance BLE API, see additional notes [here](/gen2/Scripts/APIs/BLE)
 * [HTTP](/gen2/ComponentsAndServices/HTTP) Bump `HTTP.Request` limits
 
 ### Fixed ###
@@ -512,7 +512,7 @@ Firmware version `1.6.0` is not deployed for Shelly 2PM Gen3, this device will r
 * Fix mDNS resolution failures (use correct length when adding NSEC data, fix mangled IP address in delayed sends)
 * [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM) Fix overpower protection trip during calibration
 * [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM)Fix recognition of non-dimmable loads
-* [Scripting](/gen2/ComponentsAndServices/Script) Fix [Virtual.getHandle](/gen2/Scripts/ShellyScriptLanguageFeatures#virtualgethandlekey) crashes
+* [Scripting](/gen2/ComponentsAndServices/Script) Fix [Virtual.getHandle](/gen2/Scripts/APIs/Virtual#virtualgethandlekey) crashes
 * [XMOD](/gen2/ComponentsAndServices/XMOD) Fix inconsistent JWS handling
 
 [1.4.1] 2024-07-31
@@ -547,12 +547,12 @@ note
 * [PlusRGBW PM](/gen2/Devices/Gen2/ShellyPlusRGBWPM) [`hf_mode`](/gen2/Devices/Gen2/ShellyPlusRGBWPM#plusrgbwpm) toggle
 * Use both cloud an generic CA bundle for cloud conenction and update checks
 * [IPv6](/gen2/General/IPv6) Devices will attempt to obtain a public address using the Neighbour Discovery Protocol. If successful, this address can then be used to reach a Shelly device on the network, and device will include it in MDNS host advertisements.
-* [Scripting](/gen2/ComponentsAndServices/Script) [`Virtual`](/gen2/Scripts/ShellyScriptLanguageFeatures#virtual-apis) APIs
+* [Scripting](/gen2/ComponentsAndServices/Script) [`Virtual`](/gen2/Scripts/APIs/Virtual) APIs
 * [WiFi](/gen2/ComponentsAndServices/WiFi) Add support for WPA3
 
 ### Fixed ###
 
-* [BLE Scanner](/gen2/Scripts/ShellyScriptLanguageFeatures#blescanner) Fix lifetime issues
+* [BLE Scanner](/gen2/Scripts/APIs/BLE#blescanner) Fix lifetime issues
 * [MQTT](/gen2/ComponentsAndServices/Mqtt) Require restart when [`use_client_cert`](/gen2/ComponentsAndServices/Mqtt#configuration) is changed
 * [MQTT](/gen2/ComponentsAndServices/Mqtt) Allow more than one outstanding publish request (avoid MQTT queue overflows)
 * [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM) Fix crash on [phase-to-phase calibration](/gen2/ComponentsAndServices/EM#emphasetophasecalib)
@@ -864,7 +864,7 @@ note
 * [Input](/gen2/ComponentsAndServices/Voltmeter) (in `analog` mode), [Voltmeter](/gen2/ComponentsAndServices/Voltmeter) `xvalue` support: allow raw value transformations by a user-provided JS expression
 * [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM) with [addon](/gen2/Addons/ShellyProOutputAddon) and [ProEM](/gen2/Devices/Gen2/ShellyProEM) Modbus TCP control of [Switch](/gen2/ComponentsAndServices/Switch#modbus-registers)
 * [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM) `triphase` and `monophase` profiles
-* [Scripting MQTT support](/gen2/Scripts/ShellyScriptLanguageFeatures/#mqtt-support) `MQTT.subscribe()`: wildcard topics
+* [Scripting MQTT support](/gen2/Scripts/APIs/MQTT) `MQTT.subscribe()`: wildcard topics
 
 ### Fixed ###
 
@@ -885,7 +885,7 @@ note
 
 ### Changed ###
 
-* [Scripting MQTT support](/gen2/Scripts/ShellyScriptLanguageFeatures/#mqtt-support) `MQTT.subscribe()`: throw exception instead of aborting script if invocation fails; `MQTT.publish()`: change return type to `boolean`
+* [Scripting MQTT support](/gen2/Scripts/APIs/MQTT) `MQTT.subscribe()`: throw exception instead of aborting script if invocation fails; `MQTT.publish()`: change return type to `boolean`
 
 ### Local web ###
 
@@ -930,7 +930,7 @@ note
 ### Removed ###
 
 * [PlusPM Mini](/gen2/Devices/Gen2/ShellyPlusPMMini) Remove no-load condition
-* [Scripting](/gen2/Scripts/ShellyScriptLanguageFeatures#resource-limits) Remove 15kB limit on script size
+* [Scripting](/gen2/Scripts/LanguageReference#resource-limits) Remove 15kB limit on script size
 
 ### Added ###
 
@@ -1098,11 +1098,11 @@ This version was only released for the ProEM device.
 * [`Light`](/gen2/ComponentsAndServices/Light) HTTP Endpoint [`/light/{id}`](/gen2/ComponentsAndServices/Light#http-endpoint-lightid)
 * Authentication in HTTP client, supporting basic and digest schemes. This enables the [HTTP](/gen2/ComponentsAndServices/HTTP) service and [webhooks](/gen2/ComponentsAndServices/Webhook) to access password-protected URLs.
 * Support for `Pro3EM` [Addon](/gen2/Addons/ShellyProOutputAddon)
-* Introduced a [15kB limit on script size](/gen2/Scripts/ShellyScriptLanguageFeatures#resource-limits)
-* `Date` support in [scripting](/gen2/Scripts/ShellyScriptLanguageFeatures)
+* Introduced a [15kB limit on script size](/gen2/Scripts/LanguageReference#resource-limits)
+* `Date` support in [scripting](/gen2/Scripts/LanguageReference)
 * Inbound HTTP RPC channel: [New query string syntax](/gen2/General/RPCChannels#get-with-query-string) which allows setting nested JSON properties by path, e.g. `/rpc/Sys.SetConfig?config.device.name=Some Name`
 * [`Cover`](/gen2/ComponentsAndServices/Cover) `last_direction` attribute in [status](/gen2/ComponentsAndServices/Cover#status)
-* `btoh` function added in [scripting](/gen2/Scripts/ShellyScriptLanguageFeatures#btoh)
+* `btoh` function added in [scripting](/gen2/Scripts/APIs/Utilities#btoh)
 * [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM) Add option to reverse CT direction of measurement for active power and energy
 * Add network frequency in status of `EM`, `Switch`, `Cover` components. *shown if applicable*
 
@@ -1327,8 +1327,8 @@ This version was only released for the ProEM device.
 * [`Voltmeter`](/gen2/ComponentsAndServices/Voltmeter) component
 * [`Input`](/gen2/ComponentsAndServices/Input) component: support digital and analog inputs
 * Webhook: new types [`input.analog_change`](/gen2/ComponentsAndServices/Input), [`input.analog_measurement`](/gen2/ComponentsAndServices/Input), [`voltmeter.measurement`](/gen2/ComponentsAndServices/Voltmeter), [`temperature.measurement`](/gen2/ComponentsAndServices/Temperature), [`humidity.measurement`](/gen2/ComponentsAndServices/Humidity)
-* [Scripts](/gen2/Scripts/ShellyScriptLanguageFeatures): Base64 encoding and decoding
-* [Scripts](/gen2/Scripts/ShellyScriptLanguageFeatures): Access bluetooth functionality - device discovery
+* [Scripts](/gen2/Scripts/APIs/Utilities): Base64 encoding and decoding
+* [Scripts](/gen2/Scripts/APIs/BLE): Access bluetooth functionality - device discovery
 * Embedded web: new device UI. Add "Actions" - control local device functionality on component events
 
 ### Fixed ###
@@ -1337,7 +1337,7 @@ This version was only released for the ProEM device.
 * [Cover](/gen2/ComponentsAndServices/Cover): calibration fails when `obstruction_detection.holdoff` exceeds open/close duration
 * ECO Mode fails to apply after WiFi reconnect
 * [Webhook](/gen2/ComponentsAndServices/Webhook): fix invocation of `http://localhost` / `http://127.0.0.1` urls
-* [Scripts](/gen2/Scripts/ShellyScriptLanguageFeatures): fix memory leak in `Shelly.emitEvent`
+* [Scripts](/gen2/Scripts/APIs/Shelly#shellyemitevent): fix memory leak in `Shelly.emitEvent`
 * [`Light`](/gen2/ComponentsAndServices/Light) component: fix validation of [`night_mode.active_between`](/gen2/ComponentsAndServices/Light#configuration) parameter
 
 ### Changed ###
@@ -1428,9 +1428,9 @@ This version was only released for the ProEM device.
 * [DevicePower](/gen2/ComponentsAndServices/DevicePower) component
 * [Light](/gen2/ComponentsAndServices/Light) component
 * [Sleep](/gen2/General/SleepManagementForBatteryDevices) management for battery-operated devices
-* Scripts: register [handlers](/gen2/Scripts/ShellyScriptLanguageFeatures#http-handlers) to incoming HTTP requests
-* Scripts: [broadcast events](/gen2/Scripts/ShellyScriptLanguageFeatures#shellyemitevent)
-* Scripts: synchronous access to [configuration](/gen2/Scripts/ShellyScriptLanguageFeatures#shellygetcomponentconfig), [status](/gen2/Scripts/ShellyScriptLanguageFeatures#shellygetcomponentstatus), [device info](/gen2/Scripts/ShellyScriptLanguageFeatures#shellygetdeviceinfo), [current script id](/gen2/Scripts/ShellyScriptLanguageFeatures#shellygetcurrentscriptid)
+* Scripts: register [handlers](/gen2/Scripts/APIs/HTTPServer) to incoming HTTP requests
+* Scripts: [broadcast events](/gen2/Scripts/APIs/Shelly#shellyemitevent)
+* Scripts: synchronous access to [configuration](/gen2/Scripts/APIs/Shelly#shellygetcomponentconfig), [status](/gen2/Scripts/APIs/Shelly#shellygetcomponentstatus), [device info](/gen2/Scripts/APIs/Shelly#shellygetdeviceinfo), [current script id](/gen2/Scripts/APIs/Shelly#shellygetcurrentscriptid)
 
 ### Changed ###
 
@@ -1555,13 +1555,13 @@ This version was only released for the ProEM device.
 
 ### Added ###
 
-* [MQTT](/gen2/Scripts/ShellyScriptLanguageFeatures#mqtt) support in scripts
-* [Limitations of the resources](/gen2/Scripts/ShellyScriptLanguageFeatures#limitations) used by a script
+* [MQTT](/gen2/Scripts/APIs/MQTT) support in scripts
+* [Limitations of the resources](/gen2/Scripts/LanguageReference#resource-limits) used by a script
 * Option to set brightness of the Pro4PM's screen when it is idle through a new [UI component](/gen2/Devices/Gen2/ShellyPro4PM#ui)
 * Basic [MQTT tutorial](/gen2/ComponentsAndServices/Mqtt#MQTTSetup) in the docs
 * [Placeholder notation](/gen2/) in the docs
-* Math API for [scripts](/gen2/Scripts/ShellyScriptLanguageFeatures#math-api)
-* Initial release of [Shelly Scripts](/gen2/Scripts/ShellyScriptLanguageFeatures)
+* Math API for [scripts](/gen2/Scripts/LanguageReference)
+* Initial release of [Shelly Scripts](/gen2/Scripts/Overview)
 * User-configurable overvoltage (`voltage_limit`) and overcurrent (`current_limit`) protection in [Switch](/gen2/ComponentsAndServices/Switch#configuration)
 * Local web interface: selection of discovered WiFi APs
 * Configuration revision number added to [System Component](/gen2/ComponentsAndServices/Sys) configuration
