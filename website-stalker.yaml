@@ -639,6 +639,9 @@ sites:
       - css_select: main
       - css_remove: style, img, svg, nav li:has(a[href^="./#"])
       - html_markdownify
+      - regex_replace:
+          pattern: \s*([\d,]+)\s*€
+          replace: " $1 €"
 
   - url:
       - https://doc.kaitai.io/

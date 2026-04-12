@@ -5,7 +5,7 @@ CHALLENGE IHRES LEBENS! ####
 
 Du möchtest einen Blick hinter die Kulissen werfen und unsere Teilnehmer, Deine Freunde oder Deinen Partner bei der Challenge ihres Lebens unterstützen? Dann werde durch deine Hilfe
 bei einem unserer Events zum Megamarsch Buddy und unterstütze uns am Start, am Ziel oder
-an einer Verpflegungsstation. Als Dankeschön erhältst Du nicht nur ein Buddy-T-Shirt oder eine Buddy-Mütze, sondern auch ein Freiticket für einen Megamarsch Deiner Wahl (außer Sylt). (Einlösung nur für ein Ticket im Wert von bis zu 69,95€ möglich). Du möchtest selber nicht teilnehmen? Kein Problem! Du kannst Dein Freiticket gerne weitergeben oder verkaufen.
+an einer Verpflegungsstation. Als Dankeschön erhältst Du nicht nur ein Buddy-T-Shirt oder eine Buddy-Mütze, sondern auch ein Freiticket für einen Megamarsch Deiner Wahl (außer Sylt). (Einlösung nur für ein Ticket im Wert von bis zu 69,95 € möglich). Du möchtest selber nicht teilnehmen? Kein Problem! Du kannst Dein Freiticket gerne weitergeben oder verkaufen.
 
 ### WAS WIR DIR BIETEN ###
 
@@ -19,7 +19,7 @@ an einer Verpflegungsstation. Als Dankeschön erhältst Du nicht nur ein Buddy-T
 
 * Ein exklusives MM-Buddy T-Shirt, das es nirgendwo zu kaufen gibt
 
-* Und das Beste: ein Freiticket (max. 69,95€) für einen Megamarsch Deiner Wahl (Einlösung nur für ein Ticket im Wert von bis zu 69,95€ möglich)
+* Und das Beste: ein Freiticket (max. 69,95 €) für einen Megamarsch Deiner Wahl (Einlösung nur für ein Ticket im Wert von bis zu 69,95 € möglich)
 
 ### WAS WIR VON DIR ERWARTEN ###
 

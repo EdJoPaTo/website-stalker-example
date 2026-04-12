@@ -223,55 +223,55 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
 
-  [### Finishershirt 25km 2026 ### Preis34,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
+  [### Finishershirt 25km 2026 ### Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
 
-  [### Funktionstuch Event (bei Nacht) ### Preis16,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
+  [### Funktionstuch Event (bei Nacht) ### Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
 
-  [### Funktionstuch Event (50KM) ### Preis16,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
+  [### Funktionstuch Event (50KM) ### Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
 
-  [### Finishershirt 100km 2026 ### Preis34,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
+  [### Finishershirt 100km 2026 ### Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/eventshirts-2025)
 
-  [### Eventshirts 2026 // 50KM & 25KM ### Preis39,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
+  [### Eventshirts 2026 // 50KM & 25KM ### Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
 
-  [### Finishershirt 50km 2026 ### Preis34,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
+  [### Finishershirt 50km 2026 ### Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
 
-  [### Megamarsch Trinkflasche ### Preis19,99€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
+  [### Megamarsch Trinkflasche ### Preis 19,99 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event)
 
-  [### Funktionstuch Event (100KM) ### Preis16,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
+  [### Funktionstuch Event (100KM) ### Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
 
   In den Warenkorb
 
 * [Schnellansicht](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
 
-  [### Spezial Edelstahl Tasse \*limitiert\* ### Preis15,95€ inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
+  [### Spezial Edelstahl Tasse \*limitiert\* ### Preis 15,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
 
   In den Warenkorb
 
