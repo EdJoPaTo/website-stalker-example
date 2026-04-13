@@ -1,115 +1,136 @@
-Sneaker
-trifft Arbeit
+Halbe Länge,
+volle Power!
 ---
 
- Neue Sicherheits- und Berufsschuhe im Streetstyle
+ Coole Sommer-Workwear: Bereit für jedes Abenteuer
 ----------
 
 ---
 
- Neue Sicherheits- und Berufsschuhe im Streetstyle
+ Coole Sommer-Workwear: Bereit für jedes Abenteuer
+---
+
+ Coole Sommer-Workwear: Bereit für jedes Abenteuer
+---
+
+[e.s.trail entdecken](https://www.strauss.com/de/de/e-s-trail/)
+
+ Trekking Swim Short
+ e.s.trail
+
+[](https://www.strauss.com/de/de/arbeitsshorts/trekking-swim-short-e-s-trail-3350990-96236-1912.html)
+
+ \+2
+
+ Trekking Swim Short
+ e.s.trail
+
+[](https://www.strauss.com/de/de/arbeitsshorts/trekking-swim-short-e-s-trail-3350990-96236-1912.html)
+
+[](https://www.strauss.com/de/de/pullover-troyer/funktions-troyer-longsleeve-uv-e-s-trail-3121910-21745-1912.html)
+
+ Funktions Troyer-Longsleeve
+UV e.s.trail
+
+ NEU
+
+ leicht +
+schnelltrocknend
+
+ weitere beliebte Shorts entdecken
+
+ Short e.s.motion ten
+
+ Short e.s.motion 2020
+
+[Herren Shorts](https://www.strauss.com/de/de/arbeitsshorts/)
+
+[Damen Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/)
+
+[Herren Shorts](https://www.strauss.com/de/de/arbeitsshorts/)
+
+[Damen Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/)
+
+[Herren Shorts](https://www.strauss.com/de/de/arbeitsshorts/)
+
+[Damen Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/)
+
+[Herren Shorts](https://www.strauss.com/de/de/arbeitsshorts/)
+
+[Damen Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/)
+
+ Profis für
+jeden Job
+---
+
+ Beliebte Arbeitsschuhe von Strauss
 ----------
 
 ---
 
- Neue Sicherheits- und Berufsschuhe im Streetstyle
-----------
+ Beliebte Arbeitsschuhe von Strauss
+---
+
+ Beliebte Arbeitsschuhe von Strauss
+---
+
+[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
+
+[alle Berufsschuhe](https://www.strauss.com/de/de/berufsschuhe/)
+
+[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
+
+[alle Berufsschuhe](https://www.strauss.com/de/de/berufsschuhe/)
+
+Schuhe mit Zehenschutz
 
 ---
 
-[Sicherheitsschuhe](https://www.strauss.com/de/de/neuheiten-sicherheitsschuhe/)
-
-[Berufsschuhe](https://www.strauss.com/de/de/neuheiten-berufsschuhe/)
-
-[Sicherheitsschuhe](https://www.strauss.com/de/de/neuheiten-sicherheitsschuhe/)
-
-[Berufsschuhe](https://www.strauss.com/de/de/neuheiten-berufsschuhe/)
-
- S1
+ S3
 ---
 
- Schuhe mit
-Zehenschutz
+ \+9
 
- S1
----
+ S3 Sicherheitsschuhe
+ e.s. Kastra II mid
 
- Schuhe mit
-Zehenschutz
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-e-s-kastra-ii-mid-1302040-93389-1642.html)
 
- \+5
+ \+10
 
- S1 Sicherheitsschuhe
-e.s. Yatala low
+ S3 Sicherheitsschuhe
+ e.s. Kastra II mid
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93120-1.html)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-e-s-kastra-ii-mid-1302040-93389-1642.html)
 
- \+7
+ \+10
 
- S1 Sicherheitsschuhe
-e.s. Yatala low
+ S3 Sicherheitsschuhe
+ e.s. Kastra II mid
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93120-1.html)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-e-s-kastra-ii-mid-1302040-93389-1642.html)
 
- Ab ins
-Grüne!
----
+ \+9
 
- Anpacken hat wieder Saison – in frischen Farben & sportlichen Styles fürs ganze Team!
-----------
+ S3 Sicherheitsschuhe
+ e.s. Kastra II low
 
----
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitshalbschuhe-e-s-kastra-ii-low-1302050-93379-1642.html)
 
- Anpacken hat wieder Saison – in frischen Farben & sportlichen Styles fürs ganze Team!
-----------
+ \+10
 
----
+ S3 Sicherheitsschuhe
+ e.s. Kastra II low
 
- Anpacken hat wieder Saison – in frischen Farben & sportlichen Styles fürs ganze Team!
-----------
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitshalbschuhe-e-s-kastra-ii-low-1302050-93379-1642.html)
 
----
+ \+10
 
-[alles für die Gartenarbeit](https://www.strauss.com/de/de/gartenarbeit/)
+ S3 Sicherheitsschuhe
+ e.s. Kastra II low
 
-[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65651-995.html)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitshalbschuhe-e-s-kastra-ii-low-1302050-93379-1642.html)
 
-[](https://www.strauss.com/de/de/westen/funktions-weste-thermo-stretch-e-s-motion-2020-3140120-65657-995.html)
-
-[](https://www.strauss.com/de/de/caps/cap-e-s-motion-2020-3401110-7810287-995.html)
-
-[](https://www.strauss.com/de/de/arbeitswesten-damen/funktions-weste-thermo-stretch-e-s-motion-2020-da-3140090-65757-995.html)
-
-[](https://www.strauss.com/de/de/arbeitsshorts-damen/short-e-s-motion-2020-damen-3350140-65753-995.html)
-
- Für Arbeit &
-Abenteuer
----
-
- Outdoor Kleidung, Accessoires und mehr
-----------
-
----
-
- Outdoor Kleidung, Accessoires und mehr
-----------
-
----
-
- Outdoor Kleidung, Accessoires und mehr
-----------
-
----
-
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/)
-
-[](https://www.strauss.com/de/de/arbeitsshirts/athletik-shirt-seamless-e-s-trail-3107140-21774-1920.html)
-
-[](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-seamless-e-s-trail-3411480-21704-1920.html)
-
-[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96141-1912.html)
-
-*
 *
 *
 
@@ -180,6 +201,58 @@ Mario Kart
 [](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-sweatjacke-kinder-3108140-70739-1909.html)
 
 [](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-hoody-kinder-3108150-70679-1909.html)
+
+Die neue
+Leichtigkeit
+
+---
+
+Reißfest, luftig & beweglich:
+Coole Sommer-Workwear
+
+[e.s.taktik entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
+
+[e.s.taktik entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
+
+[e.s.taktik entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
+
+ Arbeitshemd e.s.t:aktik,
+ langarm
+
+[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-langarm-3110890-87393-1858.html)
+
+ \+3
+
+ Arbeitshemd
+e.s.t:aktik, langarm
+
+[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-langarm-3110890-87393-1858.html)
+
+ \+3
+
+ Arbeitshemd
+e.s.t:aktik, langarm
+
+[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-langarm-3110890-87393-1858.html)
+
+ Arbeitshemd e.s.t:aktik,
+ kurzarm
+
+[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-kurzarm-3110880-87383-1858.html)
+
+ \+3
+
+ Arbeitshemd
+e.s.t:aktik, kurzarm
+
+[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-kurzarm-3110880-87383-1858.html)
+
+ \+3
+
+ Arbeitshemd
+e.s.t:aktik, kurzarm
+
+[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-kurzarm-3110880-87383-1858.html)
 
  NEU
 ---
@@ -299,8 +372,12 @@ unkompliziert gestalten & bestellen
 
 über 400 verfügbare Motive + Motivupload
 
+###  Für Kunden, Freunde & Familie: Geschenkideen von Strauss  ###
+
+---
+
  Inspiration für jeden
- Anlass entdecken:
+ Anlass entdecken:
 
 [
 
@@ -320,65 +397,58 @@ JGAs
 
 ]()
 
- Neuheiten
-----------
+###  Für Kunden, Freunde & Familie: Geschenkideen von Strauss  ###
 
 ---
 
- Neuheiten
-----------
-
----
-
- Neuheiten
-----------
-
----
-
- Ein Team. Ein starker Look.
----
-
-[](https://www.strauss.com/de/de/arbeits-polo-shirts/pique-polo-e-s-industry-3106110-20513-6.html)
-
-[](https://www.strauss.com/de/de/polo-shirts-damen/pique-polo-e-s-industry-damen-3107990-20663-6.html)
-
-[](https://www.strauss.com/de/de/polo-shirts-damen/e-s-pique-polo-cotton-light-damen-3107930-20946-35.html)
-
-[](https://www.strauss.com/de/de/arbeits-polo-shirts/e-s-pique-polo-cotton-light-3107920-20846-35.html)
-
-###  e.s.Industry  ###
-
----
-
-waschbar bei 75 °C
-stabil in Form & Farbe
-
-[für Herren](https://www.strauss.com/de/de/f/e-s-industry/Herren_Damen_Kinder:Herren/#PromotionTile_PromoTile_Industry_FS26_MyDesign)
-
-[für Damen](https://www.strauss.com/de/de/f/e-s-industry/Herren_Damen_Kinder:Damen/#PromotionTile_PromoTile_Industry_FS26_MyDesign)
-
-[für Herren](https://www.strauss.com/de/de/f/e-s-industry/Herren_Damen_Kinder:Herren/#PromotionTile_PromoTile_Industry_FS26_MyDesign)
-
-[für Damen](https://www.strauss.com/de/de/f/e-s-industry/Herren_Damen_Kinder:Damen/#PromotionTile_PromoTile_Industry_FS26_MyDesign)
-
-###  e.s.basics  ###
-
----
-
-von 2XS bis 8XL
-in über 30 Farben
-
-[für Herren](https://www.strauss.com/de/de/basics/?sort=newest)
-
-[für Damen](https://www.strauss.com/de/de/basics-damen/)
+ Inspiration für jeden
+ Anlass entdecken:
 
 [
 
-für Herren
+Muttertag
 
 ]()
 
-[für Damen](https://www.strauss.com/de/de/basics-damen/)
+[
+
+Vatertag
+
+]()
+
+[
+
+JGAs
+
+]()
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
+
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
+
+[](https://www.strauss.com/de/de/allroundtaschen/backpack-e-s-motion-ten-7070520-6315768-1193.html)
+
+[](https://www.strauss.com/de/de/allroundtaschen/washbag-e-s-work-travel-7072560-5505377-1627.html)
+
+[](https://www.strauss.com/de/de/caps/e-s-cap-color-3401090-7610244-364.html)
+
+[](https://www.strauss.com/de/de/handtuecher/frottier-duschtuch-premium-7600532-1517184-130.html)
+
+[](https://www.strauss.com/de/de/serviceschuerzen-latzschuerzen-damen/e-s-latzschuerze-denim-lang-3511510-8554304-1302.html)
+
+[alle Geschenkideen](https://www.strauss.com/de/de/geschenkideen-herren/)
+
+[alle Geschenkideen](https://www.strauss.com/de/de/geschenkideen-herren/)
+
+[alle Geschenkideen](https://www.strauss.com/de/de/geschenkideen-herren/)
 
  Weitere Neuheiten entdecken
 ---
