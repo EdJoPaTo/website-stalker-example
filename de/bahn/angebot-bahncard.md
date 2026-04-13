@@ -6,7 +6,7 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 BahnCard 50 Preisaktion
 ----------
 
-Nur bis 31. Juli
+Nur bis 31. Juli 2026
 
 ### Wir drücken den Preis. Sie Ihre Liebsten! ###
 
