@@ -80,7 +80,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Gaphor**Simple UML and SysML modeling tool](Gaphor/)
 * [**Gradia**Annotate your screenshots](Gradia/)
 * [**Graphs**Plot and manipulate data](Graphs/)
-* [**Hieroglyphic**Find LaTeX symbols](Hieroglyphic/)
+* [**Hieroglyphic**Find LaTeX and Typst symbols](Hieroglyphic/)
 * [**Identity**Compare images and videos](Identity/)
 * [**Impression**Create bootable drives](Impression/)
 * [**Iotas**Simple note taking](Iotas/)

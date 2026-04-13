@@ -622,7 +622,7 @@ Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
 * [Impressum](https://www.strauss.com/de/de/Rechtliches/Impressum)
 * [Widerrufsbelehrung](https://www.strauss.com/de/de/Rechtliches/Widerrufsbelehrung)
 
-[Trustpilot](https://de.trustpilot.com/review/engelbert-strauss.de)
+[Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
  Newsletter abonnieren
 
