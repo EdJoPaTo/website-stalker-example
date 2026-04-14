@@ -5,7 +5,8 @@ volle Power!
  Coole Sommer-Workwear: Bereit für jedes Abenteuer
 ---
 
- Coole Sommer-Workwear: Bereit für jedes Abenteuer
+ Coole Sommer-Workwear:
+Bereit für jedes Abenteuer
 ---
 
  Coole Sommer-Workwear: Bereit für jedes Abenteuer
@@ -345,12 +346,10 @@ Druck: Easytransfer
  Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
 
 Stick: Direkteinstickung
----
 
  Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
 
 Druck: Easytransfer
----
 
  Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
 
