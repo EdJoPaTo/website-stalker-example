@@ -97,7 +97,7 @@ Includes:
 
 Dispatches in
 
- 3 - 4 business days
+ 1 - 2 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 

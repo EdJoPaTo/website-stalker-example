@@ -253,6 +253,15 @@ Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. F
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-plastikkarte)
 
+ Wie lange im Voraus kann ich eine BahnCard 100 kaufen?
+----------
+
+Bis einschließlich 13. Juni 2026 kann die BahnCard 100 und einem 1. Geltungstag bis maximal 30. Juni 2026 noch als Plastikkarte bestellt werden.
+
+Ab dem 14. Juni 2026 wird die gekaufte BahnCard 100 wieder mit einer Vorkaufsfrist von 180 Tagen angeboten. Diese BahnCard 100 wird nicht mehr als Plastikkarte ausgegeben, sondern in digitaler Form.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc100-im-voraus-kaufen)
+
  Wie wird die BahnCard 100 und das Deutschland-Ticket im Zug kontrolliert?
 ----------
 
@@ -296,6 +305,15 @@ Die Jugend BahnCard 25 berechtigt nicht zum Erwerb ermäßigter Einzelfahrauswei
 Seit dem 1. Januar 2024 wird das Deutschland-Ticket in rein digitaler Form ausgegeben und Ihnen nach dem Kauf der My BahnCard 100 per E-Mail zugeschickt (Auftragsnummer). Voraussetzung für die Nutzung ist eine gültige E-Mailadresse, die Sie beim Kauf der My BahnCard 100 hinterlegen, so wie die App DB Navigator. Eine genaue Anleitung zum Erhalt des Deutschland-Tickets finden Sie in der E-Mail.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zu-meiner-mybc100-nutzen)
+
+ Wo erhalte ich mehr Informationen zur digitalen BahnCard 100?
+----------
+
+Zur Nutzung der digitalen BahnCard 100 benötigen Sie ein DB Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator).
+
+* [Mehr über die digitale BahnCard 100 erfahren](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard100)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digibc100-infos)
 
  Die digitale BahnCard kann nicht auf mein Smartphone geladen werden.
 ----------

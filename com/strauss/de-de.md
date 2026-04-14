@@ -3,14 +3,14 @@ volle Power!
 ---
 
  Coole Sommer-Workwear: Bereit für jedes Abenteuer
+---
+
+ Coole Sommer-Workwear: Bereit für jedes Abenteuer
+---
+
+ Coole Sommer-Workwear: Bereit für jedes Abenteuer
 ----------
 
----
-
- Coole Sommer-Workwear: Bereit für jedes Abenteuer
----
-
- Coole Sommer-Workwear: Bereit für jedes Abenteuer
 ---
 
 [e.s.trail entdecken](https://www.strauss.com/de/de/e-s-trail/)
@@ -64,14 +64,14 @@ jeden Job
 ---
 
  Beliebte Arbeitsschuhe von Strauss
+---
+
+ Beliebte Arbeitsschuhe von Strauss
+---
+
+ Beliebte Arbeitsschuhe von Strauss
 ----------
 
----
-
- Beliebte Arbeitsschuhe von Strauss
----
-
- Beliebte Arbeitsschuhe von Strauss
 ---
 
 [alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
@@ -155,13 +155,9 @@ Schuhe mit Zehenschutz
 ---
 
  Strauss Aktions-Sets
-----------
-
 ---
 
  Strauss Aktions-Sets
-----------
-
 ---
 
  Preis-Vorteil!
@@ -269,13 +265,9 @@ e.s.t:aktik, kurzarm
 ---
 
  STRAUSSbox 125 small
-----------
-
 ---
 
  STRAUSSbox 125 small
-----------
-
 ---
 
 Grösste Ordnung
@@ -311,13 +303,9 @@ auf kleinstem Raum
 ---
 
  Druck & Stick - ab 1 Stück
-----------
-
 ---
 
  Druck & Stick - ab 1 Stück
-----------
-
 ---
 
  Jetzt online
@@ -397,8 +385,7 @@ JGAs
 
 ]()
 
-###  Für Kunden, Freunde & Familie: Geschenkideen von Strauss  ###
-
+ Für Kunden, Freunde & Familie: Geschenkideen von Strauss
 ---
 
  Inspiration für jeden
@@ -459,8 +446,7 @@ JGAs
 
 alle Produkte
 
-###  Herren  ###
-
+ Herren
 ---
 
 alle Produkte
@@ -471,8 +457,7 @@ alle Produkte
 
 alle Produkte
 
-###  Damen  ###
-
+ Damen
 ---
 
 alle Produkte
@@ -483,8 +468,7 @@ alle Produkte
 
 alle Produkte
 
-###  Kinder  ###
-
+ Kinder
 ---
 
 alle Produkte
