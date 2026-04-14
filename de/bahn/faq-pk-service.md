@@ -3814,7 +3814,7 @@ Lesen Sie hierzu auch
  Kann ich auch ohne die BahnBonus App Prämienpunkte einlösen?
 ----------
 
-Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
+Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/category/bahnprmien-46). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
 
@@ -5258,7 +5258,7 @@ Für Nahverkehrszüge und Rail & Fly-Tickets besteht keine Zugbindung.
  Wie kann ich meine gesammelten BahnBonus Punkte einlösen?
 ----------
 
-Ihre Prämienpunkte können Sie in der [PrämienWelt](https://bahnbonus-praemienwelt.de/) gegen Prämien eintauschen.
+Ihre Prämienpunkte können Sie in der [PrämienWelt](https://bahnbonus-praemienwelt.de/category/bahnprmien-46) gegen Prämien eintauschen.
 
 Ihre Statuspunkte sind nicht einlösbar, da diese nur zum Erreichen des [BahnBonus Statuslevels](http://www.bahn.de/service/bahnbonus/status-level) dienen.
 
