@@ -628,6 +628,8 @@ zzgl. Versandkosten
 
 * Zahlarten
 
+  * [Apple Pay](https://www.strauss.com/de/de/Service/Bezahlen)
+  * [Google Pay](https://www.strauss.com/de/de/Service/Bezahlen)
   * [PayPal](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Kreditkarte](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Bankeinzug](https://www.strauss.com/de/de/Service/Bezahlen)

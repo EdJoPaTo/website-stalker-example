@@ -1,11 +1,9 @@
 Megamarsch Hamburg
 
-11.-12.04.2026
+10.-11.04.2027
 ----------
 
-[TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
-
-[Booklet & Strecke](https://www.megamarsch.de/hamburg)
+[TICKET Jetzt sichern](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 
 Megamarsch Hamburg -
 100 km wandern zwischen Elbe und Alster
