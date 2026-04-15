@@ -27,7 +27,7 @@ Intel Core 3 N350 8-core processor
 
 Operating System
 
- Ubuntu 24.04  None  elementary OS 8.1  Linux Mint 22.3 Cinnamon  Linux Mint 22.3 MATE  Linux Mint 22.3 XFCE  Manjaro 26 Plasma  Manjaro 26 GNOME  Qubes 4.2.4  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)  MX Linux 25.1 XFCE  Zorin OS 18 Core  Zorin OS 18 Pro (+ €13,37)
+ Ubuntu 24.04  Fedora 43  None  elementary OS 8.1  Linux Mint 22.3 Cinnamon  Linux Mint 22.3 MATE  Linux Mint 22.3 XFCE  Manjaro 26 GNOME  Manjaro 26 Plasma  Manjaro 26 XFCE  Zorin OS 18 Core  Qubes 4.2.4  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)  MX Linux 25.1 XFCE  Zorin OS 18 Pro (+ €13,37)
 
  Keyboard Language
 
@@ -73,10 +73,6 @@ AU (Type I)
 
 Extras
 
-StarLite Protective Case
-
-StarLite Screen Protector (2-Pack)
-
 Recovery Drive (USB-C + USB-A)
 
 StarPort 12-Port USB-C Hub
@@ -84,6 +80,10 @@ StarPort 12-Port USB-C Hub
 USB-A to Ethernet Adapter
 
 USB-C to USB-A Adapter (480Mbps)
+
+StarLite Protective Case
+
+StarLite Screen Protector (2-Pack)
 
 Includes:
 
