@@ -9,15 +9,15 @@ Megamarsch Hamburg -
 100 km wandern zwischen Elbe und Alster
 ----------
 
-Der Megamarsch Hamburg ist eines der traditionsreichsten Events der Reihe und begeistert jedes Jahr tausende Teilnehmer. Über 100 km in 24 Stunden führt die Extremwanderung quer durch die Hafenstadt – vom Elbufer über den Stadtpark bis in die grünen Außenbezirke.
+Der Megamarsch Hamburg ist eines der traditionsreichsten Events der Reihe und begeistert jedes Jahr tausende Teilnehmer. Über 100 km in 24 Stunden führt die Extremwanderung quer durch die Hafenstadt. Vom Elbufer über den Stadtpark bis in die grünen Außenbezirke.
 
 Die Strecke vereint Natur, Ausdauer und Abenteuer und zeigt Hamburg von einer Seite, die nur zu Fuß wirklich erlebbar ist. Wer hier antritt, spürt die besondere Atmosphäre der Stadt und den Zusammenhalt einer Bewegung, die das Wandern in Deutschland neu definiert hat.
 
-[TICKET Jetzt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+[TICKET Jetzt sichern](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 
 ### ZEITPUNKT ###
 
-11. - 12.04.2026
+10. - 11.04.2027
 100 Kilometer in
 24 Stunden
 
@@ -52,14 +52,6 @@ Hamburg, Teufelsbrück
 VERPFLEGUNG:
 Vier Stationen entlang der Strecke (ca. alle 20 km)
 
-Station 1: indoor
-
-Station 2: indoor
-
-Station 3: outdoor
-
-Station 4: indoor
-
 ​
 
 ### AUSZEICHNUNGen ###
@@ -85,43 +77,24 @@ Bei einem 100 km Finish
 
 ​
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+[SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 
 Hamburg Booklet
-
-Booklet
-----------
-
-1
-
-2
-
-6
-
-1
-
-1/6
-
-[Booklet zum downloaden](https://www.megamarsch.de/_files/ugd/c7d428_a06c59b70cc3454189468e265e06cfb8.pdf)
-
-[Allgemeines Handbuch](https://www.megamarsch.de/_files/ugd/c7d428_d90f677d1e0d4c179e8662cdccb344b9.pdf)
 
 Strecke
 ----------
 
 ###### - ca. 330 HÖHENMETER - ######
 
-[](https://www.komoot.com/de-de/tour/2531974215)
+###### 2 WOCHEN VOR DEM EVENT ######
 
-[Strecke bei Komoot](https://www.komoot.com/de-de/tour/2531974215)
-
-[GPX Datei](https://82b24694-136f-40db-acbc-2df764536893.filesusr.com/ugd/c7d428_b5e46963322347ccbe57e6f4dc469269.gpx?dn=Megamarsch%20Hamburg%202026.gpx)
+...stellen wir Euch die Strecke als Download für Komoot zur Verfügung. Die Strecke ist vorübergehend und kann sich z.B. auf Grund von behördlichen Auflagen oder organisatorischen Gründen noch ändern.
 
 ###### 2 TAGE VOR DEM EVENT ######
 
 ...fahren wir die Strecke mit dem Fahrrad ab, um den Weg für Euch zu markieren. Sollten wir dabei merken, dass Teile der Strecke z.B. auf Grund von Ästen, die auf der Strecke liegen, oder weil die Wege sehr nass sind, nicht begehbar sind, wird die Strecke kurzfristig an die Gegebenheiten vor Ort angepasst.
 
-[TICKET SICHERN](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+[TICKET SICHERN](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 
 PRIZE BY RADISSON HOTEL
 ----------
@@ -139,22 +112,10 @@ Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbra
 
 ​
 
-INTERSPORT Voswinkel bietet dir alles für deinen Sport. Wir sind dein Sportspezialist über 50x in Deutschland. Egal ob Megamarsch oder Freizeitausflug. Entdecke die Filiale vor Ort:
-[https://www.intersport.de](https://www.intersport.de/d/stores/22765-hamburg-intersport-voswinkel)
-
-Prize by Radisson ist eine neue Generation von zentral gelegenen Hotels, bei denen Lifestyle im Vordergrund steht. Genieße Komfort und Effizienz von der Buchung bis zum CheckOut.
-[prizebyradisson.com](https://www.radissonhotels.com/de-de/marke/prize-by-radisson)
-
-Straight out of Schanze
-
-– das ist Ratsherrn. Auf eigenen Feldern angebaut, lokal gebraut, mit Leidenschaft vollendet. Ratsherrn ist die echte Alternative zum Industriebier: Slow Brewing statt Massenproduktion.
-
-BLÆK Coffee bringt Premium Instantkaffee auf ein neues Level: 100% Arabica, schonend geröstet, voll im Geschmack – ohne den bitteren Nach-geschmack. In Hamburg von Kaffee-Liebhabern gegründet.
-
 #### Highlights
-Hamburg 2025 ####
+Hamburg 2026 ####
 
-[SICHERE DIR JETZT DEIN TICKET!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+[SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 
 1
 
@@ -181,16 +142,22 @@ Hall of Fame! ####
 #### Auch DU kannst
 es schaffen! ####
 
-[JETZT TICKET SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+[JETZT TICKET SICHERN!](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 
 Funktionsshirt
 ----------
 
-Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg 2026.\*
+Sichere Dir Dein spezielles Funktionsshirt für den Megamarsch Hamburg 2027.\*
 Unser Megamarsch Hamburg Funktionsshirt ist perfekt für Deine nächste Challenge! Atmungsaktiv, feuchtigkeitsregulierend und strapazierfähig. Das Design wird sich an dem jeweiligen Event orientieren und ist dadurch Deine persönliche Erinnerung für Deine Challenge. Hol Dir jetzt Dein Funktionsshirt für Dein kommendes unvergessliches Abenteuer!
 
-[Teilnehmershirt sichern](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+​
+
+​
+
+\*Das Design wird bald veröffentlicht
+
+[Teilnehmershirt sichern](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 
 #### Buche jetzt deine Startzeit, bevor sie ausverkauft ist! ####
 
-[STARTZEIT IN HAMBURG SICHERN!](https://www.eventbrite.com/e/megamarsch-10024-hamburg-2026-tickets-1318451928209?aff=oddtdtcreator)
+[STARTZEIT IN HAMBURG SICHERN!](https://megamarsch-hamburg-2027-100km.eventbrite.de)

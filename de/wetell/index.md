@@ -61,7 +61,7 @@ Menü [](https://www.wetell.de/)
   * [Whitepapers](https://www.wetell.de/community/whitepapers/)
   * [Spotlight](https://www.wetell.de/community/spotlight/)
   * [Team](https://www.wetell.de/community/team/)
-  * [Jobs](https://www.wetell.de/community/jobs/)
+  * [Funklabor](https://www.wetell.de/community/funklabor/)
   * [Funksachen](https://funksachen.wetell.de/)
 
 * Fürs Business
