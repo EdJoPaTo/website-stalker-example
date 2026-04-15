@@ -74,13 +74,13 @@ Maximum
 
 Extras
 
-32GB Reversible USB Recovery Drive
+Recovery Drive (USB-C + USB-A)
 
 USB-A to Ethernet Adapter
 
-USB-C to USB-A Adapter
+USB-C to USB-A Adapter (480Mbps)
 
-StarPort 12-port USB-C PD Hub
+StarPort 12-Port USB-C Hub
 
  duties and taxes
 

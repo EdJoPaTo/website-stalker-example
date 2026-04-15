@@ -73,17 +73,17 @@ AU (Type I)
 
 Extras
 
-StarLite Mk V Protective Case
+StarLite Protective Case
 
-Tempered Glass Screen Protector – 2-Pack
+StarLite Screen Protector (2-Pack)
 
-32GB Reversible USB Recovery Drive
+Recovery Drive (USB-C + USB-A)
 
-StarPort 12-port USB-C PD Hub
+StarPort 12-Port USB-C Hub
 
 USB-A to Ethernet Adapter
 
-USB-C to USB-A Adapter
+USB-C to USB-A Adapter (480Mbps)
 
 Includes:
 

@@ -73,11 +73,11 @@ None
 
 Extras
 
-32GB Reversible USB Recovery Drive
+Recovery Drive (USB-C + USB-A)
 
-USB-C Charge Cord (2m)
+USB-C (2m)  Charge Cable
 
-StarPort 12-port USB-C PD Hub
+StarPort 12-Port USB-C Hub
 
 Includes:
 
