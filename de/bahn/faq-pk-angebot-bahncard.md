@@ -796,7 +796,7 @@ Bitte beachten Sie:
  Was passiert, wenn ich innerhalb des Geltungszeitraums 27 werde?
 ----------
 
-Ausschlaggebend für den Erwerb der Karte ist das Alter zum 1. Geltungstag. Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der My BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard 100 zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 10.06.2026.
+Ausschlaggebend für den Erwerb der Karte ist das Alter zum 1. Geltungstag. Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der My BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard 100 zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 30.06.2026.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-ich-innerhalb-des-geltungszeitraums-27-werde)
 
@@ -888,7 +888,7 @@ So funktioniert's:
  Wer kann die My BahnCard 100 erwerben?
 ----------
 
-Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 10.06.2026.
+Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 30.06.2026.
 
 Die BahnCard 100 erhalten Sie ohne Foto. Bitte führen Sie einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit. Bei Kunden unter 16 Jahren ist kein Lichtbildausweis erforderlich.
 
@@ -1118,7 +1118,7 @@ Die Jugend BahnCard ist ein Jahr gültig und läuft automatisch aus. Sie muss ni
 ----------
 
 * Die My **BahnCard 100** ist ab dem 1. Geltungstag 1 Jahr gültig.
-* Der letztmögliche erste Geltungstag der Karte ist der 10.06.2026.
+* Der letztmögliche erste Geltungstag der Karte ist der 30.06.2026.
 * Sie verlängert sich nicht automatisch.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-ist-eine-my-bahncard-100-gueltig)
