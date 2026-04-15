@@ -231,7 +231,42 @@ TODO: documentation contents, what should and should no be included
 
 TODO
 
-5. Sequence attributes
+5. Encoding name (`encoding`)
+----------
+
+The `encoding` key (used in `meta/encoding` for the default encoding and
+in individual attributes to override it) specifies the character
+encoding for string values. The KS compiler recognizes a set of
+canonical encoding names and common aliases, and will emit warnings if a
+non-canonical form is used.
+
+One MUST use the canonical (exact) spelling of the encoding name. The
+match is **case-sensitive**: for example, `UTF-8` is correct, but `utf-8`or `Utf-8` will trigger a warning.
+
+The following canonical names are recognized by the compiler:
+
+|         Canonical name         |     Common aliases (accepted but produce a warning)      |
+|--------------------------------|----------------------------------------------------------|
+|            `ASCII`             |            US-ASCII, US\_ASCII, IBM367, cp367            |
+|            `UTF-8`             |                  UTF8, UTF\_8, cp65001                   |
+|           `UTF-16BE`           |         UTF16BE, UTF16-BE, UTF-16-BE, UTF\_16BE          |
+|           `UTF-16LE`           |         UTF16LE, UTF16-LE, UTF-16-LE, UTF\_16LE          |
+|           `UTF-32BE`           |         UTF32BE, UTF32-BE, UTF-32-BE, UTF\_32BE          |
+|           `UTF-32LE`           |         UTF32LE, UTF32-LE, UTF-32-LE, UTF\_32LE          |
+|          `ISO-8859-1`          |  ISO8859-1, ISO\_8859\_1, latin1, cp819, windows-28591   |
+| `ISO-8859-2` …​ `ISO-8859-16`  |Same pattern of aliases (e.g. latin2, latin3, …​, latin10)|
+|`windows-1250` …​ `windows-1258`|                     cp1250 …​ cp1258                     |
+|            `IBM437`            |                        cp437, 437                        |
+|            `IBM866`            |                        cp866, 866                        |
+|          `Shift_JIS`           |          Shift-JIS, ShiftJIS, S-JIS, SJIS, PCK           |
+|             `Big5`             |                          csBig5                          |
+|            `EUC-KR`            |                  EUCKR, EUC\_KR, korean                  |
+
+The list above is included just for demonstration purposes. The master
+list is maintained in the compiler source code (see[EncodingList.scala](https://github.com/kaitai-io/kaitai_struct_compiler/blob/master/shared/src/main/scala/io/kaitai/struct/EncodingList.scala))
+— if in doubt, follow the list in the source code.
+
+6. Sequence attributes
 ----------
 
 When specifying an attribute, one MUST use the following order of keys:
@@ -285,7 +320,7 @@ Every key is optional. Attributes SHOULD have at least `id` and `doc`— however
 NOT be included if it’s trivial (i.e. if it is a copy of `id`, and
 there is really nothing more to say about that attribute).
 
-### 5.1. Attribute identifiers (`id`) ###
+### 6.1. Attribute identifiers (`id`) ###
 
 KS enforces specific identifier style in the language -`lower_underscore_case` (it is needed to be able to convert to other
 styles of identifier spelling, like `UpperCamelCase` or`lowerCamelCase`, which some target languages use).
@@ -330,7 +365,7 @@ Note
  See [Transcribing existing specs](#transcribing) for more info on preserving / renaming
 identifiers when transcribing existing spec into KSY.
 
-### 5.2. Trailing padding ###
+### 6.2. Trailing padding ###
 
 If you’re using a size-limited substream for a structure, one MUST NOT
 specify manually calculated or auto-calculated extra padding to make
@@ -390,7 +425,7 @@ types:
         # 64 - 4 - 2
 ```
 
-6. Instance attributes
+7. Instance attributes
 ----------
 
 Instance attribute use the superset of keys which are allowed in
@@ -406,7 +441,7 @@ here as well. Keys MUST appear in this order:
 4. All other keys (except for `id` and `-orig-id`), in order specified
    in [Sequence attributes](#seq-attr)
 
-7. Transcribing existing specs
+8. Transcribing existing specs
 ----------
 
 When transcribing structures already described in some other existing
@@ -430,7 +465,7 @@ maintaining a reference link to parts of original spec, but,
 otherwise, feel free to use a more consistent and language-neutral
 approach in naming attributes and types.
 
-### 7.1. Windows struct ###
+### 8.1. Windows struct ###
 
 For example, consider this[MMCKINFO Windows structure](https://docs.microsoft.com/en-us/windows/win32/api/mmiscapi/ns-mmiscapi-mmckinfo), as specified in MSDN:
 
@@ -499,7 +534,7 @@ particular structure (named "data", short for "chunk’s data member",
 in this case). Also, we’ve added `data` instance to access that
 structure directly.
 
-### 7.2. Linux struct ###
+### 8.2. Linux struct ###
 
 Another example is ELF executable header, as specified in elf.h in
 Linux:
@@ -576,7 +611,7 @@ instances:
     type: program_header
 ```
 
-### 7.3. C struct as "header" ###
+### 8.3. C struct as "header" ###
 
 Sometimes existing implementations use structures where they are
 actually not necessary. This is, again, frequently done to satisfy
