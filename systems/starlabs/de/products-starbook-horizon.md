@@ -38,7 +38,7 @@ English (US) Keyboard
 
 Operating System
 
- Ubuntu 24.04  Qubes 4.2.4  elementary OS 8.1  Linux Mint 22.3 Cinnamon  Manjaro 26 XFCE  MX Linux 25.1 XFCE  Zorin OS 18 Core  None  Zorin OS 18 Pro (+ €13,37)  Linux Mint 22.3 MATE  Linux Mint 22.3 XFCE  Manjaro 26 GNOME  Manjaro 26 Plasma  MX Linux 25.1 KDE  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)
+ Ubuntu 24.04  Qubes 4.2.4  elementary OS 8.1  Linux Mint 22.3 Cinnamon  Manjaro 26 XFCE  MX Linux 25.1 XFCE  Zorin OS 18 Core  None  Zorin OS 18 Pro (+ €13,37)  Linux Mint 22.3 MATE  Linux Mint 22.3 XFCE  Manjaro 26 GNOME  Manjaro 26 Plasma  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)
 
  Power Plug
 
