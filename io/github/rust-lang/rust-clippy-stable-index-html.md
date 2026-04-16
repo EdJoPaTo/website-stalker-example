@@ -976,7 +976,7 @@ collapsible\_match
 style warn
 ----------
 
-Applicability: Unspecified
+Applicability: MachineApplicable
 
 Added in: 1.50.0
 
@@ -1361,6 +1361,19 @@ Added in: pre 1.29.0
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/derive/mod.rs)
 
+disallowed\_fields
+
+style warn
+----------
+
+Applicability: Unspecified
+
+Added in: 1.93.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+disallowed_fields)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/disallowed_fields.rs)
+
 disallowed\_macros
 
 style warn
@@ -1698,6 +1711,19 @@ Added in: 1.79.0
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+duplicated_attributes)
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/attrs/mod.rs)
+
+duration\_suboptimal\_units
+
+pedantic allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.95.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+duration_suboptimal_units)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/duration_suboptimal_units.rs)
 
 duration\_subsec
 
@@ -2852,7 +2878,7 @@ Added in: 1.43.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+imprecise_flops)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/floating_point_arithmetic.rs)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/floating_point_arithmetic/mod.rs)
 
 incompatible\_msrv
 
@@ -3998,6 +4024,19 @@ Added in: 1.78.0
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
+manual\_checked\_ops
+
+complexity warn
+----------
+
+Applicability: Unspecified
+
+Added in: 1.95.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_checked_ops)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_checked_ops.rs)
+
 manual\_clamp
 
 complexity warn
@@ -4582,6 +4621,19 @@ Added in: pre 1.29.0
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_swap)
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/swap.rs)
+
+manual\_take
+
+complexity warn
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.94.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_take)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_take.rs)
 
 manual\_try\_fold
 
@@ -8502,7 +8554,7 @@ Added in: 1.43.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+suboptimal_flops)
 
-[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/floating_point_arithmetic.rs)
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/floating_point_arithmetic/mod.rs)
 
 suspicious\_arithmetic\_impl
 
@@ -9660,6 +9712,19 @@ Added in: 1.59.0
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnecessary_to_owned)
 
 [View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
+
+unnecessary\_trailing\_comma
+
+pedantic allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.95.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnecessary_trailing_comma)
+
+[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/format_args.rs)
 
 unnecessary\_unwrap
 

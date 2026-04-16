@@ -41,7 +41,7 @@ Browse our range
 
 [](/products/starbook-ultra)
 
-[StarBook Ultra €13,37 €13,37 Dispatches in 7 - 8 business days](/products/starbook-ultra)
+[StarBook Ultra €13,37 Dispatches in 7 - 8 business days](/products/starbook-ultra)
 
 More than just a licence.
 
