@@ -648,8 +648,6 @@ warning: `if let` assigns a shorter lifetime since Edition 2024
    |                          |
    |                          this value has a significant drop implementation which may observe a major change in drop order and requires your discretion
    |
-   = warning: this changes meaning in Rust 2024
-   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/temporary-if-let-scope.html>
 note: value invokes this custom destructor
   --> lint_example.rs:5:1
    |
@@ -660,6 +658,8 @@ help: the value is now dropped here in Edition 2024
    |
 26 |     } else {
    |     ^
+   = warning: this changes meaning in Rust 2024
+   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/temporary-if-let-scope.html>
 note: the lint level is defined here
   --> lint_example.rs:1:9
    |
@@ -733,14 +733,14 @@ error: `impl std::fmt::Display` will capture more lifetimes than possibly intend
 7 | fn test(x: &Vec<i32>) -> impl Display {
   |                          ^^^^^^^^^^^^
   |
-  = warning: this changes meaning in Rust 2024
-  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/rpit-lifetime-capture.html>
 note: specifically, this lifetime is in scope but not mentioned in the type's bounds
  --> lint_example.rs:7:12
   |
 7 | fn test(x: &Vec<i32>) -> impl Display {
   |            ^
   = note: all lifetimes in scope will be captured by `impl Trait`s in edition 2024
+  = warning: this changes meaning in Rust 2024
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/rpit-lifetime-capture.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -2321,8 +2321,6 @@ warning: relative drop order changing in Rust 2024
 18 | }
    | - now the temporary value is dropped here, before the local variables in the block or statement
    |
-   = warning: this changes meaning in Rust 2024
-   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/temporary-tail-expr-scope.html>
 note: `#1` invokes this custom destructor
   --> lint_example.rs:8:1
    |
@@ -2334,6 +2332,8 @@ note: `another_droppy` invokes this custom destructor
  8 | impl Drop for Droppy {
    | ^^^^^^^^^^^^^^^^^^^^
    = note: most of the time, changing drop order is harmless; inspect the `impl Drop`s for side effects like releasing locks or sending messages
+   = warning: this changes meaning in Rust 2024
+   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/temporary-tail-expr-scope.html>
 note: the lint level is defined here
   --> lint_example.rs:1:9
    |
@@ -2831,13 +2831,13 @@ error[E0133]: call to unsafe function `foo` is unsafe and requires unsafe block
 6 |     foo();
   |     ^^^^^ call to unsafe function
   |
-  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/unsafe-op-in-unsafe-fn.html>
   = note: consult the function's documentation for information on how to avoid undefined behavior
 note: an unsafe function restricts its caller, but its body is safe by default
  --> lint_example.rs:5:1
   |
 5 | unsafe fn bar() {
   | ^^^^^^^^^^^^^^^
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/unsafe-op-in-unsafe-fn.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
