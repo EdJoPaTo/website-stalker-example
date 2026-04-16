@@ -31,10 +31,6 @@ Browse our range
 
 [StarLite €13,37 Dispatches in 1 - 2 business days](/products/starlite)
 
-[](/products/starbook)
-
-[StarBook €13,37 €13,37 Dispatches in 1 - 2 business days](/products/starbook)
-
 [](/products/starbook-horizon)
 
 [StarBook Horizon €13,37 Dispatches in 3 - 4 business days](/products/starbook-horizon)
@@ -42,6 +38,10 @@ Browse our range
 [](/products/starfighter)
 
 [StarFighter €13,37 Dispatches in 3 - 4 business days](/products/starfighter)
+
+[](/products/starbook-ultra)
+
+[StarBook Ultra €13,37 €13,37 Dispatches in 7 - 8 business days](/products/starbook-ultra)
 
 More than just a licence.
 
