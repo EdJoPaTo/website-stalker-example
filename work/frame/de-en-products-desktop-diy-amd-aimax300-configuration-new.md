@@ -391,6 +391,10 @@ FAQs
 
   1st Gen was slightly faster than 2nd Gen, but we switched due to the original flash chip being discontinued. Now that 2nd Gen's flash parts are also nearing end of life, our supplier has secured more of the original 1st Gen chips, allowing us to resume its production.
 
+* Will you be adding additional Expansion Card types?
+
+  Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
+
 Close
 
 Customize your ports with the Expansion Card system.
@@ -597,7 +601,7 @@ Close
 
  \+€10
 
- Aluminum - Silver
+ MicroSD (2nd Gen)
 
  Details
 

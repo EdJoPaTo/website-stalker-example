@@ -522,7 +522,7 @@ Close
 
  \+€20
 
- Aluminum - Silver
+ MicroSD (2nd Gen)
 
  Details
 
