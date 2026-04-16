@@ -295,8 +295,6 @@ Quick select
 
  USB-C (Aluminum - Silver)
 
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
  Details
 
  USB-C Expansion Card - Aluminum
@@ -310,13 +308,9 @@ Close
 
  USB-C (Plastic - Black)
 
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
  \+€10
 
  USB-C (Plastic - Lavender)
-
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
  Details
 
@@ -335,19 +329,13 @@ Close
 
  USB-C (Plastic - Bubblegum)
 
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
  \+€10
 
  USB-C (Plastic - Gray)
 
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
  \+€10
 
  USB-C (Plastic - Orange)
-
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
  Details
 
@@ -362,8 +350,6 @@ Close
 
  USB-C (Plastic - Green)
 
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
  Details
 
  USB-C Expansion Card - Green
@@ -376,8 +362,6 @@ Close
  \+€10
 
  USB-C (Plastic - Red)
-
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
  Details
 
@@ -404,8 +388,6 @@ Close
  \+€10
 
  USB-C (Plastic - Translucent Black)
-
- The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
 
  Details
 

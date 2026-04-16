@@ -1,8 +1,6 @@
 Wirtschaft aufmischen
 ==========
 
-Hallo du liebes Intro wie geht es dir
-
 Selbstbestimmt
 ----------
 

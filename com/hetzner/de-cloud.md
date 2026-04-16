@@ -119,15 +119,8 @@ Die Shared Cloud-Tarife eignen sich perfekt für Entwicklungs- und Testumgebunge
 
 Die Dedicated Cloud-Server weisen deinem Projekt dedizierte vCPUs zu und ermöglichen somit ungeteilte Leistung und sehr gut planbare Ressourcen. Sie eignen sich für Businessanwendungen mit einem hohen Produktions-Workload, wie zum Beispiel stark frequentierte Websites, große Datenbanken, Gaming-Server, maschinelles Lernen oder die Verarbeitung großer Datenmengen.
 
- Datenverkehr im Vergleich:
-So sparst du beim Traffic
+ Der Kostencheck für deinen Cloud-Server
 ----------
-
-### Bei Hetzner profitierst du von hohem Inklusiv-Traffic ###
-
-Unser Preisvergleich zeigt: Während bei Hyperscalern wie AWS, Azure und Google teurer Egress-Traffic die Gesamtkosten schnell erhöht, profitierst du bei Hetzner von großzügigem Inklusiv-Traffic und sehr günstigen Preisen für zusätzlichen Datenverkehr. Alle Werte basieren auf unabhängigen Daten von [sparecores.com](https://sparecores.com/).
-
-[Cloud-Server erstellen](https://console.hetzner.com/)
 
 Alles drin, was man braucht.
 ----------
@@ -170,8 +163,15 @@ Zeit sparen mit den One-Click-Apps
 
 [Coolify](https://docs.hetzner.com/cloud/apps/list/coolify) [Docker CE](https://docs.hetzner.com/cloud/apps/list/docker-ce) [GitLab CE](https://docs.hetzner.com/cloud/apps/list/gitlab-ce) [Grafana](https://docs.hetzner.com/cloud/apps/list/prometheus-grafana) [Jitsi Meet](https://docs.hetzner.com/cloud/apps/list/jitsi-meet) [Nextcloud](https://docs.hetzner.com/cloud/apps/list/nextcloud) [Owncast](https://docs.hetzner.com/cloud/apps/list/owncast) [PhotoPrism](https://docs.hetzner.com/cloud/apps/list/photoprism) [Prometheus](https://docs.hetzner.com/cloud/apps/list/prometheus-grafana) [RustDesk](https://docs.hetzner.com/cloud/apps/list/rustdesk) [WireGuard](https://docs.hetzner.com/cloud/apps/list/wireguard) [Wordpress](https://docs.hetzner.com/cloud/apps/list/wordpress)
 
- Der Kostencheck für deinen Cloud-Server
+ Datenverkehr im Vergleich:
+So sparst du beim Traffic
 ----------
+
+### Bei Hetzner profitierst du von hohem Inklusiv-Traffic ###
+
+Unser Preisvergleich zeigt: Während bei Hyperscalern wie AWS, Azure und Google teurer Egress-Traffic die Gesamtkosten schnell erhöht, profitierst du bei Hetzner von großzügigem Inklusiv-Traffic und sehr günstigen Preisen für zusätzlichen Datenverkehr. Alle Werte basieren auf unabhängigen Daten von [sparecores.com](https://sparecores.com/).
+
+[Cloud-Server erstellen](https://console.hetzner.com/)
 
  Die Kosten bei Hetzner sind um Faktor zehn, Faktor zwölf niedriger als bei den Cloud-Providern, wo wir vorher waren - bei der gleichen Konfiguration.
 
