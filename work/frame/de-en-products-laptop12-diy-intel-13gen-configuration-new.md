@@ -504,7 +504,7 @@ Close
 
  \+€20
 
- MicroSD (2nd Gen)
+ Aluminum - Silver
 
  Details
 
@@ -532,7 +532,7 @@ Close
 
  Storage Expansion Cards
 
- 250GB (2nd Gen)
+ Aluminum - Silver - 250GB
 
  Details
 

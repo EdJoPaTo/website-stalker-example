@@ -583,7 +583,7 @@ Close
 
  \+€10
 
- MicroSD (2nd Gen)
+ Aluminum - Silver
 
  Details
 
@@ -637,7 +637,7 @@ Close
 
  Storage
 
- 250GB (2nd Gen)
+ Aluminum - Silver - 250GB
 
  Details
 
