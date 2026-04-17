@@ -36,7 +36,7 @@ Der ICE 3neo ist seit Ende 2022 mit zahlreichen Neuerungen und mehr Komfort für
 
 ### ICE T: der Kurvenspezialist ###
 
-Der ICE T fährt 5- oder 7-teilig und erlaubt einen Blick zum Lokführer.
+Der ICE T fährt 7-teilig und erlaubt einen Blick zum Lokführer.
 
 [Mehr zum ICE T erfahren Mehr zum ICE T erfahren](https://www.bahn.de/service/ueber-uns/zugtypen/ice-t)
 

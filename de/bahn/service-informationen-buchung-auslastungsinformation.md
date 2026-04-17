@@ -53,7 +53,6 @@ Die Zugbindung gilt weiterhin. Sie dürfen mit einem zuggebundenen Ticket also k
 
 ###  Wieso ist bei manchen Verbindungen keine Auslastungsinformation verfügbar?  ###
 
-* Die Auslastung wird nur für Züge der DB Fernverkehr (ICE, IC- und EC-Züge) angezeigt. Für alle weiteren Betreiber, insbesondere Nahverkehrszüge, kann keine Auslastungsprognose erfolgen.
 * In Einzelfällen können darüber hinaus für bestimmte Züge, insbesondere bei Zugfahrten ins Ausland, keine Informationen angezeigt werden.
 * Die Auslastungsinformation ist in der Regel 28 Tage vor dem Abfahrtstag verfügbar. Für Verbindungen, die weiter in der Zukunft liegen oder für die keine Auslastungsinformation verfügbar ist, wird keine Auslastungsinformation angezeigt.
 
