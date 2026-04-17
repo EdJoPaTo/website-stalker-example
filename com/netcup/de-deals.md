@@ -5,14 +5,6 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
-### Nur für kurze Zeit: 7 € frühlingshaften Rabatt sichern! ###
-
-Sichere dir deinen 7 € Rabatt (exkl. MwSt.) mit dem Code **netcupSpring26**
-
-[Server Produkte entdecken\>](https://www.netcup.com/de/server/vps)
-
-Gültig bis 17.04.2026. Mindestbestellwert 7 € netto. Ausgenommen Domains, SSL, Groupware, Merchandise und stundenbasierte Tarife. Einlösbar einmal pro Bestellung. Keine Barablöse. Zum Einlösen des Gutscheins kopiere dir den Code und füge ihn im Warenkorb über das Feld "Gutscheincode" zu deiner Bestellung hinzu.
-
 Bleibe auf dem Laufenden
 ----------
 

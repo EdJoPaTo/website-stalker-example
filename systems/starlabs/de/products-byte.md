@@ -7,21 +7,21 @@ Up to 32GB DDR4 memory
 
  Memory
 
+[More Info](#memory)
+
  16GB
 
 16GB
 
 32GB
 
- SO-DIMM Memory Modules (Memory)
+ Memory
 
  Your Byte will come with 16GB by default.
 
  You can upgrade this to 32GB.
 
  The memory is onboard, so you cannot upgrade it at a later date.
-
-[Learn more about SO-DIMM Memory Modules (Memory) options](#so-dimm-memory-modules-(memory))
 
  Storage
 
@@ -87,10 +87,12 @@ VESA Mounting Kit
 
  All import duties and taxes are covered in the price you see; there won’t be any additional fees when your package arrives.
 
-Dispatches in
+Dispatch in
 
  1 - 2 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/byte) [Get Notified When Available](#)
+
+Free delivery with this computer

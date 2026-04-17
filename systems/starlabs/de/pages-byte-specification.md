@@ -2,20 +2,37 @@ Chassis
 
  Polycarbonate and nickel housing
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Processor
 
  1.00GHz 8-core Intel Twin Lake N355
  Turbo Boost up to 3.90GHz, with 6MB Intel®
 Smart Cache
 
+</summary>
+
  8 Cores
  8 Threads
  15W TDP
  35W PL2
 
+</details> <details class="accordion full-width"> <summary class="accordion-button link">
+
  Storage
 
  512GB Gen3 PCIe SSD
+
+Configurable to:
+ 1TB Gen3 PCIe SSD
+
+Configurable to:
+ 2TB Gen3 PCIe SSD
+
+Configurable to:
+ 4TB Gen3 PCIe SSD
+
+</summary>
 
  Read Speed (CDM): 3370MB/s
  Write Speed (CDM): 2430MB/s
@@ -23,8 +40,11 @@ Key Type: M
  Size: M2 2280
  Design: Single-Sided
 
-Configurable to:
- 1TB Gen3 PCIe SSD
+ Read Speed (CDM): 3370MB/s
+Write Speed (CDM): 3030MB/s
+ Key Type: M
+ Size: M2 2280
+ Design: Single-Sided
 
  Read Speed (CDM): 3370MB/s
 Write Speed (CDM): 3030MB/s
@@ -32,23 +52,13 @@ Write Speed (CDM): 3030MB/s
  Size: M2 2280
  Design: Single-Sided
 
-Configurable to:
- 2TB Gen3 PCIe SSD
-
  Read Speed (CDM): 3370MB/s
 Write Speed (CDM): 3030MB/s
  Key Type: M
  Size: M2 2280
  Design: Single-Sided
 
-Configurable to:
- 4TB Gen3 PCIe SSD
-
- Read Speed (CDM): 3370MB/s
-Write Speed (CDM): 3030MB/s
- Key Type: M
- Size: M2 2280
- Design: Single-Sided
+</details>
 
  Expandable Storage
 
@@ -67,26 +77,34 @@ Write Speed (CDM): 3030MB/s
  TPM 2.0
 Disabled Intel Management Engine
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Memory
 
  16GB of 3200MHz DDR4 memory
 
+Configurable to:
+ 32GB of 3200MHz DDR4 memory
+
+</summary>
+
  Form Factor: SO-DIMM
  Type: DDR4
  Configuration: 1 × 16GB
-
-Configurable to:
- 32GB of 3200MHz DDR4 memory
 
  Form Factor:
 SO-DIMM
  Type: DDR4
  Configuration: 1 × 32GB
 
+</details>
+
  Graphics
 
  Intel® UHD Graphics
  1.35GHz Frequency
+
+<details class="accordion full-width"> <summary class="accordion-button link">
 
  Connectivity
 
@@ -95,11 +113,6 @@ Front
  USB Type C
  USB 3.0
  USB 3.0
-
- USB-C Interface: DisplayPort (DP Alt Mode)
- USB-C version: 3.2 Gen 2 (up to 10 Gbps)
- USB-A
-version: 3.2 Gen 2 (up to 10 Gbps)
 
 Back
  USB 3.0
@@ -111,6 +124,13 @@ Back
  DC Power
 Jack
 
+</summary>
+
+ USB-C Interface: DisplayPort (DP Alt Mode)
+ USB-C version: 3.2 Gen 2 (up to 10 Gbps)
+ USB-A
+version: 3.2 Gen 2 (up to 10 Gbps)
+
  USB-A version: 3.2 Gen 2 (up to 10 Gbps)
  HDMI version: 2.0
  Display Port version: 1.4
@@ -120,15 +140,21 @@ Jack
  DC Input: 19V 4.42A 5.5mm
 Minimum Wattage: 65W
 
+</details> <details class="accordion full-width"> <summary class="accordion-button link">
+
  Wireless
 
  Intel Wi-Fi 5 9560
  802.11ac Wi-Fi; Up to 1.73 Gbps
  802.11ac/a/b/g/n compatible
 
+</summary>
+
  Key
 Type: E
  Size: M2 2230
+
+</details>
 
  Bluetooth
 
@@ -142,12 +168,18 @@ Type: E
 
  ITE 5570E
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Power
 
  65W DC Power Adapter
 
+</summary>
+
  Technology: Fixed Voltage
  DC Input: 19V 4.42A 5.5mm
+
+</details>
 
  Operating Requirements
 
@@ -176,14 +208,20 @@ inches)
  Distributions using Linux 6.8 or later
  Windows 11 22H1 (64-bit) or later
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
 What's in the Box
 
  Byte
  65W DC Power Adapter
 
+ Quick Start Guide
+
+</summary>
+
  VESA Mounting Kit
 
- Quick Start Guide
+</details>
 
  Limited Warranty and Service
 

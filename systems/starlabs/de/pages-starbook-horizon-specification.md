@@ -1,9 +1,15 @@
+<details class="accordion full-width"> <summary class="accordion-button link">
+
 Chassis
 
  Type II Pantone 433 anodised aluminium
 
+</summary>
+
  Finish: Sand blasted
  Material: 6061 Aluminium
+
+</details> <details class="accordion full-width"> <summary class="accordion-button link">
 
  Display
 
@@ -14,6 +20,8 @@ Chassis
  3:2 aspect ratio
  Pre-installed Privacy Screen
 Protector
+
+</summary>
 
  Brightness: 500cd/m²
  Type: IPS
@@ -27,20 +35,28 @@ Depth (NTSC): 71%
  Coating: 3H Hard
 Coat
 
+</details> <details class="accordion full-width"> <summary class="accordion-button link">
+
  Processor
 
  1.00GHz 8-core Intel Alder Lake i3-N305
  Turbo Boost up to 3.80GHz, with 6MB Smart
 Cache
 
+</summary>
+
  8 Cores
  8 Threads
  7W TDP
  25W PL2
 
+</details> <details class="accordion full-width"> <summary class="accordion-button link">
+
  Storage
 
  2TB Gen3 PCIe SSD
+
+</summary>
 
  Read Speed (CDM): 3370MB/s
  Write Speed (CDM): 3030MB/s
@@ -48,6 +64,8 @@ Cache
 M
  Size: M2 2280
  Design: Single-Sided
+
+</details>
 
  Firmware
 
@@ -77,17 +95,13 @@ Secure Boot
  Intel® UHD Graphics
  1.35GHz Frequency
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Connectivity
 
 Left
  HDMI
  USB Type-C (10 Gbps)
-
- HDMI Version: 2.1
- USB-C
-version: 3.2 Gen 2
- USB-C Interface: DisplayPort (DP Alt Mode)
- Power Delivery: 3.0
 
 Right
  USB Type-A 3.2 Gen 2 (up to 10Gbps)
@@ -95,8 +109,18 @@ Right
 2 (up to 10Gbps)
  3.5mm Combination Jack
 
+</summary>
+
+ HDMI Version: 2.1
+ USB-C
+version: 3.2 Gen 2
+ USB-C Interface: DisplayPort (DP Alt Mode)
+ Power Delivery: 3.0
+
  3.5mm support: Headphone/Microphone
  USB version: 3.2 Gen 2 (up to 10 Gbps)
+
+</details>
 
  Keyboard and Trackpad
 
@@ -104,13 +128,19 @@ Right
  Glass trackpad for precise cursor control and
 Multi-Touch gestures
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Wireless
 
  Intel Wi-Fi 6E AX211
  Hardware Kill Switch
 
+</summary>
+
  802.11ax Wi-Fi; Up to 2.4 Gbps
 802.11ac/a/b/g/n compatible
+
+</details>
 
  Bluetooth
 
@@ -121,15 +151,21 @@ Multi-Touch gestures
  1080p camera
  Physical Webcam Cover
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Video Support
 
  Simultaneously supports full native resolution on the built-in display and:
  Up
 to two displays with 3840x2160 resolution at 30Hz
 
+</summary>
+
  Up to 3840x2160 resolution at 60Hz using
 HDMI
  Up to 3840x2160 resolution at 30Hz using Display Port
+
+</details>
 
  Audio
 
@@ -140,6 +176,8 @@ HDMI
 
  ITE 5570E
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Battery and Power
 
  Up to 14 hours battery life
@@ -147,7 +185,11 @@ HDMI
 battery
  65w USB-C Power Adapter
 
+</summary>
+
  Technology: Power Delivery 3.0
+
+</details>
 
  Operating Requirements
 
@@ -176,6 +218,8 @@ Relative humidity: 30% to 65% non-condensing
  Distributions using Linux 6.2 or later
  Windows 11 22H1 (64-bit) or later
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
 What's in the Box
 
  13.4-inch StarBook Horizon
@@ -186,9 +230,13 @@ Power Adapter
  Detachable plug (UK, EU, US and AU
 available)
 
+</summary>
+
  Quick Start Guide
  Protective Sleeve
  Screen Cleaning Cloth
+
+</details>
 
  Limited Warranty and Service
 

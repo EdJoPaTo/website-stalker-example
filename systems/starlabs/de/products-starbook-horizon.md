@@ -54,6 +54,8 @@ AU (Type I)
 
  Anti-Interdiction
 
+[More Info](#anti-interdiction-service)
+
  Standard
 
 Standard
@@ -61,6 +63,23 @@ Standard
 Enhanced
 
 Maximum
+
+ Anti-Interdiction
+
+Choose the level of shipment verification you want:
+
+Standard
+ Included on every order: a standard tamper-evident seal on the outer packaging.
+
+Enhanced
+ Adds serialised seals and pre-dispatch verification photos.
+
+Maximum
+ Includes everything in Enhanced, plus physical tamper-evident varnish markings on the system itself.
+
+[Read the full FAQ](/blogs/news/anti-interdiction-service)
+
+[![Embedded YouTube video](https://img.youtube.com/vi/WEq9yuZLLyk/0.jpg)](https://www.youtube.com/watch?v=WEq9yuZLLyk)
 
  Warranty
 
@@ -86,10 +105,12 @@ USB-C to USB-A Adapter (480Mbps)
 
  All import duties and taxes are covered in the price you see; there won’t be any additional fees when your package arrives.
 
-Dispatches in
+Dispatch in
 
  3 - 4 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/starbook-horizon) [Get Notified When Available](#)
+
+Free delivery with this computer

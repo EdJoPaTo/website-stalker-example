@@ -95,10 +95,12 @@ Includes:
 
  All import duties and taxes are covered in the price you see; there won’t be any additional fees when your package arrives.
 
-Dispatches in
+Dispatch in
 
  1 - 2 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
  Sold out [Learn More](/pages/starlite) [Get Notified When Available](#)
+
+Free delivery with this computer

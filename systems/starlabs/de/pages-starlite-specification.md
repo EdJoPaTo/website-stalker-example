@@ -1,9 +1,15 @@
+<details class="accordion full-width"> <summary class="accordion-button link">
+
 Chassis
 
  Type II matte black anodised aluminium
 
+</summary>
+
  Finish: Bead blasted
  Material: 6061 Aluminium
+
+</details> <details class="accordion full-width"> <summary class="accordion-button link">
 
  Display
 
@@ -13,6 +19,8 @@ resolution at 208 pixels per inch
  3:2 aspect ratio
  Pen Support: MPP
 
+</summary>
+
  Brightness: 300cd/m²
 Type: IPS
  Color Depth (NTSC): 71%
@@ -21,20 +29,34 @@ Type: IPS
  Haze: 21%
 Coating: 3H Hard Coat
 
+</details> <details class="accordion full-width"> <summary class="accordion-button link">
+
  Processor
 
  1.00GHz 8-core Intel Alder Lake N350
  Turbo Boost up to 3.90GHz, with 6MB
 Smart Cache
 
+</summary>
+
  8 Cores
  8 Threads
  7W TDP
  25W PL2
 
+</details> <details class="accordion full-width"> <summary class="accordion-button link">
+
  Storage
 
  512GB Gen3 PCIe SSD
+
+Configurable to:
+ 1TB Gen3 PCIe SSD
+
+Configurable to:
+ 2TB Gen3 PCIe SSD
+
+</summary>
 
  Read Speed (CDM): 3370MB/s
  Write Speed (CDM): 2430MB/s
@@ -42,8 +64,11 @@ Key Type: M
  Size: M2 2242
  Design: Single-Sided
 
-Configurable to:
- 1TB Gen3 PCIe SSD
+ Read Speed (CDM): 3370MB/s
+Write Speed (CDM): 3030MB/s
+ Key Type: M
+ Size: M2 2242
+ Design: Single-Sided
 
  Read Speed (CDM): 3370MB/s
 Write Speed (CDM): 3030MB/s
@@ -51,14 +76,7 @@ Write Speed (CDM): 3030MB/s
  Size: M2 2242
  Design: Single-Sided
 
-Configurable to:
- 2TB Gen3 PCIe SSD
-
- Read Speed (CDM): 3370MB/s
-Write Speed (CDM): 3030MB/s
- Key Type: M
- Size: M2 2242
- Design: Single-Sided
+</details>
 
  Firmware
 
@@ -82,6 +100,8 @@ Disabled Intel Management Engine
  Intel® UHD Graphics
  1.35GHz Frequency
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Connectivity
 
  Micro HDMI
@@ -91,10 +111,14 @@ Delivery 3.0
  Micro SD Memory Card Reader
  3.5mm Headphone Jack
 
+</summary>
+
  HDMI version: 2.0
  USB-C Interface: Display Port (DP Alt Mode)
  USB version: 3.2 Gen 2 (up to 10
 Gbps)
+
+</details>
 
  Keyboard and Trackpad
 
@@ -117,15 +141,21 @@ Multi-Touch gestures
  2k camera
  2k rear camera
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Video Support
 
  Simultaneously supports full native resolution on the built-in display and:
  Up
 to two displays with 3840x2160 resolution at 30Hz
 
+</summary>
+
  Up to 3840x2160 resolution at 60Hz using
 HDMI
  Up to 3840x2160 resolution at 30Hz using Display Port
+
+</details>
 
  Audio
 
@@ -136,6 +166,8 @@ HDMI
 
  ITE 5570E
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
  Battery and Power
 
  Up to 12 hours battery life
@@ -143,7 +175,11 @@ HDMI
  65w USB-C
 Power Adapter
 
+</summary>
+
  Technology: Power Delivery 3.0
+
+</details>
 
  Operating Requirements
 
@@ -172,6 +208,8 @@ Relative humidity: 30% to 65% non-condensing
  Distributions using Linux 6.12 or later
  Windows 11 22H1 (64-bit) or later
 
+<details class="accordion full-width"> <summary class="accordion-button link">
+
 What's in the Box
 
  12.5-inch Star Lite
@@ -180,9 +218,13 @@ What's in the Box
 (2m)
  Detachable plug (UK, EU, US and AU available)
 
+</summary>
+
  Quick Start Guide
  Protective Sleeve
  Screen Cleaning Cloth
+
+</details>
 
  Limited Warranty and Service
 
