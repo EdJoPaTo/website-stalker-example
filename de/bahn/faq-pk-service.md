@@ -1758,7 +1758,7 @@ Sofern Sie beim Kauf der Fahrkarte im DB Navigator oder auf bahn.de/int.bahn.de 
 
 Wenn Sie Ihre Belegnummer nicht mehr kennen oder den Beleg verloren haben, rufen Sie uns bitte unter der Telefonnummer [07221 9235 1000](tel:07221 9235 1000) an. Ignorieren Sie die Aufforderung zur Eingabe der Nummer. Sie werden dann automatisch weitergeleitet.
 
-* [www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
+* [db-fn.de](https://db-fn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrpreisnacherhebung-belegnummer)
 
@@ -1776,7 +1776,7 @@ BIC: COBADEFFXXX
 
 Bitte geben Sie bei Ihrer Überweisung immer als **Verwendungszweck** die **Nummer Ihres Beleges** an.
 
-* [www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
+* [db-fn.de](https://db-fn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrpreisnacherhebung-zahlen)
 
@@ -2470,7 +2470,7 @@ Beachten Sie: Übertragbare Fahrkarten des Regionalverkehrs können im Nachhinei
 
 Details und Kontaktmöglichkeiten finden Sie hier:
 
-* [www.db-fahrpreisnacherhebung.de](https://www.db-fahrpreisnacherhebung.de/)
+* [db-fn.de](https://db-fn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-eine-fahrpreisnacherhebung-erhalten-was-jetzt)
 
