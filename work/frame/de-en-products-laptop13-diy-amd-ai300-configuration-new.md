@@ -150,14 +150,14 @@ Close
 
 Storage
 
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 500GB +€129
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 1TB +€200
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 2TB +€262
-* WD\_BLACK™ SN7100 NVMe™ - M.2 2280 - 4TB +€479
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 1TB +€170
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 2TB +€295
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 4TB +€759
-* WD\_BLACK™ SN850X NVMe™ - M.2 2280 - 8TB +€1,000
+* SN7100 NVMe™ - M.2 2280 - 500GB +€129
+* SN7100 NVMe™ - M.2 2280 - 1TB +€200
+* SN7100 NVMe™ - M.2 2280 - 2TB +€262
+* SN7100 NVMe™ - M.2 2280 - 4TB +€479
+* SN850X NVMe™ - M.2 2280 - 1TB +€170
+* SN850X NVMe™ - M.2 2280 - 2TB +€295
+* SN850X NVMe™ - M.2 2280 - 4TB +€759
+* SN850X NVMe™ - M.2 2280 - 8TB +€1,000
 * None (bring your own)
 
 **Operating System**
@@ -321,164 +321,19 @@ Quick select
 
  Additional Port Expansion Cards
 
- USB-C (Aluminum - Silver)
+ USB-C  New colors available
 
- Details
-
- USB-C Expansion Card - Aluminum
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
-Close
+01234
 
  \+€10
 
- USB-C (Plastic - Orange)
+Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GreenPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
- Details
+Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GreenPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
- USB-C Expansion Card - Orange
-----------
+Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GreenPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Lavender)
-
- Details
-
- USB-C Expansion Card - Lavender
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Sage)
-
- \+€10
-
- USB-C (Plastic - Bubblegum)
-
- \+€10
-
- USB-C (Plastic - Green)
-
- Details
-
- USB-C Expansion Card - Green
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Red)
-
- Details
-
- USB-C Expansion Card - Red
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Black)
-
- \+€10
-
- USB-C (Plastic - Gray)
-
- \+€10
-
- USB-C (Plastic - Translucent)
-
- Details
-
- USB-C Expansion Card - Translucent
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging. On Framework Desktop, it supports USB 3.2 Gen 2, without display output or power input.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Translucent Black)
-
- Details
-
- USB-C Expansion Card - Translucent Black
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging. On Framework Desktop, it supports USB 3.2 Gen 2, without display output or power input.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Translucent Orange)
-
- Details
-
- USB-C Expansion Card - Translucent Orange
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging. On Framework Desktop, it supports USB 3.2 Gen 2, without display output or power input.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Translucent Purple)
-
- Details
-
- USB-C Expansion Card - Translucent Purple
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging. On Framework Desktop, it supports USB 3.2 Gen 2, without display output or power input.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Translucent Green)
-
- Details
-
- USB-C Expansion Card - Translucent Green
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging. On Framework Desktop, it supports USB 3.2 Gen 2, without display output or power input.
-
-Close
-
- \+€10
-
- USB-C (Plastic - Translucent Pink)
-
- Details
-
- USB-C Expansion Card - Translucent Pink
-----------
-
-The USB-C Expansion Card passes through the supported protocols on the processor directly. On Framework Laptop 13 Intel platforms, that means Thunderbolt 4/USB4, 20V/5A charging, and DisplayPort Alt Mode, while on Ryzen platforms, protocols depend on the specific Expansion Card slot. Framework Laptop 16 additionally supports up to 48V/5A charging. On Framework Desktop, it supports USB 3.2 Gen 2, without display output or power input.
-
-Close
-
- \+€10
+Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GreenPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
  USB-A
 
@@ -493,7 +348,7 @@ Close
 
  \+€10
 
- HDMI (3rd Gen) - Aluminum - Silver
+ HDMI (3rd Gen)
 
  Details
 
@@ -519,7 +374,7 @@ Close
 
  \+€45
 
- DisplayPort (2nd Gen) - Aluminum - Silver
+ DisplayPort (2nd Gen)
 
  Details
 
@@ -532,7 +387,7 @@ Close
 
  \+€20
 
- Aluminum - Silver
+ MicroSD (2nd Gen) Expansion Card
 
  Details
 
@@ -545,7 +400,7 @@ Close
 
  \+€20
 
- SD - Aluminum - Silver
+ SD
 
  Details
 
@@ -560,7 +415,7 @@ Close
 
  Storage Expansion Cards
 
- Aluminum - Silver - 250GB
+ Storage (2nd Gen) Expansion Card - 250GB
 
  Details
 
