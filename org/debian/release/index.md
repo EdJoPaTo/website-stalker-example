@@ -36,10 +36,6 @@ Planned point releases to Q4 2026 are as follows:
 
 |   Date    | Versions  |     Notes     |
 |-----------|-----------|---------------|
-|6 Sep 2025 |12.12, 13.1|               |
-|15 Nov 2025|   13.2    |               |
-|10 Jan 2026|12.13, 13.3|               |
-|14 Mar 2026|   13.4    |               |
 |16 May 2026|12.14, 13.5|               |
 |11 Jul 2026|12.15, 13.6|bookworm to LTS|
 |12 Sep 2026|   13.7    |               |
