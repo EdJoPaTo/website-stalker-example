@@ -9,7 +9,7 @@ Ordering more than 1 computer?
 
  Ordering more than 1 computer?
 
-For in-stock laptop and desktop configurations: You can add up to 5 per order.
+For in-stock laptop and desktop configurations: You can add up to five per order.
 
 For pre-order laptop and desktop configurations: We only allow one per pre-order, but there is no limit for the amount of pre-orders per account.
 
@@ -355,7 +355,7 @@ Close
  HDMI (3rd Gen) Expansion Card
 ----------
 
-The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
+ The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
 
 Close
 
@@ -381,7 +381,7 @@ Close
  DisplayPort (2nd Gen) Expansion Card
 ----------
 
-The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
+ The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
 
 Close
 
