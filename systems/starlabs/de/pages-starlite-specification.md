@@ -4,12 +4,10 @@ Chassis
 
  Type II matte black anodised aluminium
 
-</summary>
-
  Finish: Bead blasted
  Material: 6061 Aluminium
 
-</details> <details class="accordion full-width"> <summary class="accordion-button link">
+</summary> </details> <details class="accordion full-width"> <summary class="accordion-button link">
 
  Display
 
@@ -19,8 +17,6 @@ resolution at 208 pixels per inch
  3:2 aspect ratio
  Pen Support: MPP
 
-</summary>
-
  Brightness: 300cd/m²
 Type: IPS
  Color Depth (NTSC): 71%
@@ -29,7 +25,7 @@ Type: IPS
  Haze: 21%
 Coating: 3H Hard Coat
 
-</details> <details class="accordion full-width"> <summary class="accordion-button link">
+</summary> </details> <details class="accordion full-width"> <summary class="accordion-button link">
 
  Processor
 
@@ -37,26 +33,16 @@ Coating: 3H Hard Coat
  Turbo Boost up to 3.90GHz, with 6MB
 Smart Cache
 
-</summary>
-
  8 Cores
  8 Threads
  7W TDP
  25W PL2
 
-</details> <details class="accordion full-width"> <summary class="accordion-button link">
+</summary> </details> <details class="accordion full-width"> <summary class="accordion-button link">
 
  Storage
 
  512GB Gen3 PCIe SSD
-
-Configurable to:
- 1TB Gen3 PCIe SSD
-
-Configurable to:
- 2TB Gen3 PCIe SSD
-
-</summary>
 
  Read Speed (CDM): 3370MB/s
  Write Speed (CDM): 2430MB/s
@@ -64,11 +50,8 @@ Key Type: M
  Size: M2 2242
  Design: Single-Sided
 
- Read Speed (CDM): 3370MB/s
-Write Speed (CDM): 3030MB/s
- Key Type: M
- Size: M2 2242
- Design: Single-Sided
+Configurable to:
+ 1TB Gen3 PCIe SSD
 
  Read Speed (CDM): 3370MB/s
 Write Speed (CDM): 3030MB/s
@@ -76,11 +59,21 @@ Write Speed (CDM): 3030MB/s
  Size: M2 2242
  Design: Single-Sided
 
-</details>
+Configurable to:
+ 2TB Gen3 PCIe SSD
+
+ Read Speed (CDM): 3370MB/s
+Write Speed (CDM): 3030MB/s
+ Key Type: M
+ Size: M2 2242
+ Design: Single-Sided
+
+</summary> </details>
 
  Firmware
 
  coreboot
+[Configurable options](/pages/coreboot-options)
 
  Security Features
 
@@ -111,14 +104,12 @@ Delivery 3.0
  Micro SD Memory Card Reader
  3.5mm Headphone Jack
 
-</summary>
-
  HDMI version: 2.0
  USB-C Interface: Display Port (DP Alt Mode)
  USB version: 3.2 Gen 2 (up to 10
 Gbps)
 
-</details>
+</summary> </details>
 
  Keyboard and Trackpad
 
@@ -149,13 +140,11 @@ Multi-Touch gestures
  Up
 to two displays with 3840x2160 resolution at 30Hz
 
-</summary>
-
  Up to 3840x2160 resolution at 60Hz using
 HDMI
  Up to 3840x2160 resolution at 30Hz using Display Port
 
-</details>
+</summary> </details>
 
  Audio
 
@@ -175,11 +164,9 @@ HDMI
  65w USB-C
 Power Adapter
 
-</summary>
-
  Technology: Power Delivery 3.0
 
-</details>
+</summary> </details>
 
  Operating Requirements
 
@@ -218,13 +205,11 @@ What's in the Box
 (2m)
  Detachable plug (UK, EU, US and AU available)
 
-</summary>
-
  Quick Start Guide
  Protective Sleeve
  Screen Cleaning Cloth
 
-</details>
+</summary> </details>
 
  Limited Warranty and Service
 

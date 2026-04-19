@@ -4,12 +4,10 @@ Chassis
 
  Type II Pantone 433 anodised aluminium
 
-</summary>
-
  Finish: Sand blasted
  Material: 6061 Aluminium
 
-</details> <details class="accordion full-width"> <summary class="accordion-button link">
+</summary> </details> <details class="accordion full-width"> <summary class="accordion-button link">
 
  Display
 
@@ -20,8 +18,6 @@ Chassis
  3:2 aspect ratio
  Pre-installed Privacy Screen
 Protector
-
-</summary>
 
  Brightness: 500cd/m²
  Type: IPS
@@ -35,7 +31,7 @@ Depth (NTSC): 71%
  Coating: 3H Hard
 Coat
 
-</details> <details class="accordion full-width"> <summary class="accordion-button link">
+</summary> </details> <details class="accordion full-width"> <summary class="accordion-button link">
 
  Processor
 
@@ -43,20 +39,16 @@ Coat
  Turbo Boost up to 3.80GHz, with 6MB Smart
 Cache
 
-</summary>
-
  8 Cores
  8 Threads
  7W TDP
  25W PL2
 
-</details> <details class="accordion full-width"> <summary class="accordion-button link">
+</summary> </details> <details class="accordion full-width"> <summary class="accordion-button link">
 
  Storage
 
  2TB Gen3 PCIe SSD
-
-</summary>
 
  Read Speed (CDM): 3370MB/s
  Write Speed (CDM): 3030MB/s
@@ -65,12 +57,14 @@ M
  Size: M2 2280
  Design: Single-Sided
 
-</details>
+</summary> </details>
 
  Firmware
 
  coreboot
 [Configurable options](/pages/coreboot-options)
+
+<details class="accordion full-width"> <summary class="accordion-button link">
 
  Security Features
 
@@ -82,9 +76,10 @@ Secure Boot
  TPM 2.0
  Disabled Intel Management Engine
 
- TPM 2.0
+ TPM 2.0: Infineon
+OPTIGA™ SLB9670
 
- Infineon OPTIGA™ SLB9670
+</summary> </details>
 
  Memory
 
@@ -103,24 +98,22 @@ Left
  HDMI
  USB Type-C (10 Gbps)
 
-Right
- USB Type-A 3.2 Gen 2 (up to 10Gbps)
- USB Type-C 3.2 Gen
-2 (up to 10Gbps)
- 3.5mm Combination Jack
-
-</summary>
-
  HDMI Version: 2.1
  USB-C
 version: 3.2 Gen 2
  USB-C Interface: DisplayPort (DP Alt Mode)
  Power Delivery: 3.0
 
+Right
+ USB Type-A 3.2 Gen 2 (up to 10Gbps)
+ USB Type-C 3.2 Gen
+2 (up to 10Gbps)
+ 3.5mm Combination Jack
+
  3.5mm support: Headphone/Microphone
  USB version: 3.2 Gen 2 (up to 10 Gbps)
 
-</details>
+</summary> </details>
 
  Keyboard and Trackpad
 
@@ -135,12 +128,10 @@ Multi-Touch gestures
  Intel Wi-Fi 6E AX211
  Hardware Kill Switch
 
-</summary>
-
  802.11ax Wi-Fi; Up to 2.4 Gbps
 802.11ac/a/b/g/n compatible
 
-</details>
+</summary> </details>
 
  Bluetooth
 
@@ -159,13 +150,11 @@ Multi-Touch gestures
  Up
 to two displays with 3840x2160 resolution at 30Hz
 
-</summary>
-
  Up to 3840x2160 resolution at 60Hz using
 HDMI
  Up to 3840x2160 resolution at 30Hz using Display Port
 
-</details>
+</summary> </details>
 
  Audio
 
@@ -185,11 +174,9 @@ HDMI
 battery
  65w USB-C Power Adapter
 
-</summary>
-
  Technology: Power Delivery 3.0
 
-</details>
+</summary> </details>
 
  Operating Requirements
 
@@ -230,13 +217,11 @@ Power Adapter
  Detachable plug (UK, EU, US and AU
 available)
 
-</summary>
-
  Quick Start Guide
  Protective Sleeve
  Screen Cleaning Cloth
 
-</details>
+</summary> </details>
 
  Limited Warranty and Service
 
