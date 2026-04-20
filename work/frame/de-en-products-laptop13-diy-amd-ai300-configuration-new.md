@@ -1,4 +1,4 @@
-Framework Laptop 13
+Framework Laptop 13 ​
 ==========
 
  Framework Laptop 13 DIY Edition (AMD Ryzen™ AI 300 Series)

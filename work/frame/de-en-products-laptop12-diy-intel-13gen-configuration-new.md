@@ -359,7 +359,7 @@ Close
 
  \+€20
 
- MicroSD (2nd Gen) Expansion Card
+ MicroSD (2nd Gen)
 
  Details
 
