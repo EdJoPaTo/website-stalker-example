@@ -50,8 +50,6 @@ UK (Type G)
 
 EU (Type F)
 
-AU (Type I)
-
  Anti-Interdiction
 
 [More Info](#anti-interdiction-service)

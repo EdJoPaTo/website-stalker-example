@@ -69,8 +69,6 @@ UK (Type G)
 
 EU (Type F)
 
-AU (Type I)
-
 Extras
 
 Recovery Drive (USB-C + USB-A)
