@@ -86,7 +86,7 @@ Endless Firmware Customization
 
 A keyboard
 
-that's pure
+ that's pure
 
 function.
 
@@ -94,19 +94,19 @@ function.
 
  Backlit Keyboard
 
-Comfortable backlit keys with snappy scissor mechanisms.
+ Comfortable backlit keys with snappy scissor mechanisms.
 
 02.
 
  Media Keys
 
-Media keys for playback, volume, brightness, screenshots and more.
+ Media keys for playback, volume, brightness, screenshots and more.
 
  03.
 
  International Layouts
 
-Available in US English, UK English, French, German, Nordic and Spanish layouts.
+ Available in US English, UK English, French, German, Nordic and Spanish layouts.
 
 Magnetic keyboard sold separately.
 

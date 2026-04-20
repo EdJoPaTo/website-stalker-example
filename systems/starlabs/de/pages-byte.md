@@ -132,7 +132,7 @@ Endless Firmware Customization
 
  From perfecting system performance to ensuring compatibility across diverse Operating Systems, the realm of endless tweaking awaits. Delve deep into the extensive options and mold your firmware to your unique specifications.
 
-Plug and play.
+ Plug and play.
 
 01.
 

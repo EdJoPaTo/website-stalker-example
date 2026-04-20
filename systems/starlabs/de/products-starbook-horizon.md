@@ -114,9 +114,3 @@ Dispatch in
  Sold out [Learn More](/pages/starbook-horizon) [Get Notified When Available](#)
 
 Free delivery with this computer
-
- Weekend gifts
-
- Order this weekend and get a free [Star Labs T-Shirt](/products/star-labs-stretch-tshirt) and [Recovery Drive](/products/32gb-reversible-usb-recovery-drive).
-
-Add both to your basket and the discount applies automatically.
