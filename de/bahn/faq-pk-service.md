@@ -1110,9 +1110,17 @@ Ansonsten sind zusammengelegte/gefaltete und/oder verpackte Fahrräder von der B
  Ich habe nach meiner Bestellung keine Rückmeldung erhalten. Was kann ich tun?
 ----------
 
-Prüfen Sie bitte zunächst Ihren Spam-Ordner. Sollten Sie auch dort keine Aktivierungsmail auffinden, dann ist entweder Ihre Bestellung noch in der Prüfung, es liegt eine technische Störung vor oder Ihre Bestellung wurde abgelehnt. Sollten Sie keine Aktivierungsmail auffinden können, dann nutzen Sie bitte unser Kontaktformular.
+* Wenn Ihre Online-Bestellung erfolgreich angenommen wurde, erhalten Sie innerhalb weniger Minuten eine Aktivierungsmail mit der Abonummer.
+* Das Handy-Ticket ist nach Erhalt der Aktivierungsmail sofort in der App abrufbar, in dem Sie es mit der Abonummer oder per Link hinzufügen.
 
-* [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/abo-bestellstatus)
+**Sie haben keine Aktivierungsmail erhalten?**
+
+* Prüfen Sie Ihren Spam-Ordner nach einer E-Mail von [noreply@bahn.de](mailto:noreply@bahn.de)
+* Prüfen Sie das Postfach der E-Mail-Adresse, die Sie im bahn.de Kundenkonto angegeben haben
+* Bei einem Jobticket oder einem ermäßigten Ticket mit Nachweisprüfung erhalten Sie die Aktivierungsmail erst nach der Freigabe.
+* Kann Ihre Bestellung nicht akzeptiert werden, zum Beispiel aufgrund einer Sperre Ihres Kontos, erhalten Sie eine Ablehnungsmail.
+
+Tipp: Melden Sie sich auf im Aboportal auf abo.bahn.de mit dem gleichen DB Kundenkonto an, das Sie bei der Bestellung genutzt haben. Nun sehen Sie Ihr Abo, sobald es aktiviert wurde.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bestellung-keine-rueckmeldung)
 

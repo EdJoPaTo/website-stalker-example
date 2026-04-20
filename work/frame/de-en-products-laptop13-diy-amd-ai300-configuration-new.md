@@ -266,7 +266,6 @@ Keyboard
 Power Adapter
 
 * Power Adapter - 60W - EU +€49
-* Power Adapter - 60W - UK/SG +€49
 * None (bring your own)
 
  Expansion Cards
@@ -387,7 +386,7 @@ Close
 
  \+€20
 
- MicroSD (2nd Gen) Expansion Card
+ MicroSD (2nd Gen)
 
  Details
 
