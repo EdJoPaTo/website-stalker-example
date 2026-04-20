@@ -117,14 +117,14 @@ Close
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB) +€156
-* DDR5-5600 - 16GB (2 x 8GB) +€312
-* DDR5-5600 - 16GB (1 x 16GB) +€262
-* DDR5-5600 - 32GB (2 x 16GB) +€524
-* DDR5-5600 - 32GB (1 x 32GB) +€452
-* DDR5-5600 - 64GB (2 x 32GB) +€904
-* DDR5-5600 - 48GB (1 x 48GB) +€789
-* DDR5-5600 - 96GB (2 x 48GB) +€1,578
+* DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€156
+* DDR5-5600 - 16GB (2 x 8GB)  Not available with your other selected options. Reload page to reset. +€312
+* DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€262
+* DDR5-5600 - 32GB (2 x 16GB)  Not available with your other selected options. Reload page to reset. +€524
+* DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
+* DDR5-5600 - 64GB (2 x 32GB)  Not available with your other selected options. Reload page to reset. +€904
+* DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€789
+* DDR5-5600 - 96GB (2 x 48GB)  Not available with your other selected options. Reload page to reset. +€1,578
 * None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
@@ -150,14 +150,14 @@ Close
 
 Storage
 
-* SN7100 - M.2 2280 - 500GB +€129
-* SN7100 - M.2 2280 - 1TB +€200
-* SN7100 - M.2 2280 - 2TB +€262
-* SN7100 - M.2 2280 - 4TB +€479
-* SN850X - M.2 2280 - 1TB +€170
-* SN850X - M.2 2280 - 2TB +€295
-* SN850X - M.2 2280 - 4TB +€759
-* SN850X - M.2 2280 - 8TB +€1,000
+* SN7100 - M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€129
+* SN7100 - M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€200
+* SN7100 - M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€262
+* SN7100 - M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€479
+* SN850X - M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€170
+* SN850X - M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€295
+* SN850X - M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€759
+* SN850X - M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€1,000
 * None (bring your own)
 
 **Operating System**
@@ -177,8 +177,8 @@ Close
 
 Operating System
 
-* Windows 11 Home (Download) +€145
-* Windows 11 Pro (Download) +€259
+* Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
+* Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
 * None (bring your own)
 
  Customization
@@ -201,17 +201,17 @@ Close
 
 Bezel
 
-* Black
-* Green
-* Red
-* Translucent
-* Orange +€10
-* Lavender +€10
-* Gray +€10
-* Translucent Purple +€10
-* Translucent Orange +€10
-* Translucent Green +€10
-* Translucent Black +€10
+* Black  Not available with your other selected options. Reload page to reset.
+* Green  Not available with your other selected options. Reload page to reset.
+* Red  Not available with your other selected options. Reload page to reset.
+* Translucent  Not available with your other selected options. Reload page to reset.
+* Orange  Not available with your other selected options. Reload page to reset. +€10
+* Lavender  Not available with your other selected options. Reload page to reset. +€10
+* Gray  Not available with your other selected options. Reload page to reset. +€10
+* Translucent Purple  Not available with your other selected options. Reload page to reset. +€10
+* Translucent Orange  Not available with your other selected options. Reload page to reset. +€10
+* Translucent Green  Not available with your other selected options. Reload page to reset. +€10
+* Translucent Black  Not available with your other selected options. Reload page to reset. +€10
 
 **Keyboard**
 
@@ -236,28 +236,28 @@ Close
 
 Keyboard
 
-* German (2nd Gen)
-* US English (2nd Gen)
-* International English (2nd Gen)
-* Blank ANSI (2nd Gen) +€11
-* Blank ISO (2nd Gen) +€11
-* Clear ANSI (2nd Gen) +€11
-* Clear ISO (2nd Gen) +€11
-* British English (2nd Gen)
-* Belgian (2nd Gen)
-* Czech/Slovak (2nd Gen)
-* Danish (2nd Gen)
-* French (2nd Gen)
-* French Canadian (2nd Gen)
-* Hungarian (2nd Gen)
-* Italian (2nd Gen)
-* Korean (2nd Gen)
-* Portuguese (2nd Gen)
-* Slovenian/Croatian (2nd Gen)
-* Spanish (Latin American) (2nd Gen)
-* Spanish (Spain) (2nd Gen)
-* Swedish/Finnish (2nd Gen)
-* Traditional Chinese (2nd Gen)
+* German (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* US English (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* International English (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Blank ANSI (2nd Gen)  Not available with your other selected options. Reload page to reset. +€11
+* Blank ISO (2nd Gen)  Not available with your other selected options. Reload page to reset. +€11
+* Clear ANSI (2nd Gen)  Not available with your other selected options. Reload page to reset. +€11
+* Clear ISO (2nd Gen)  Not available with your other selected options. Reload page to reset. +€11
+* British English (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Belgian (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Czech/Slovak (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Danish (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* French (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* French Canadian (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Hungarian (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Italian (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Korean (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Portuguese (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Slovenian/Croatian (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Spanish (Latin American) (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Spanish (Spain) (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Swedish/Finnish (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Traditional Chinese (2nd Gen)  Not available with your other selected options. Reload page to reset.
 
 **Power Adapter**
 
@@ -265,7 +265,7 @@ Keyboard
 
 Power Adapter
 
-* Power Adapter - 60W - EU +€49
+* Power Adapter - 60W - EU  Not available with your other selected options. Reload page to reset. +€49
 * None (bring your own)
 
  Expansion Cards

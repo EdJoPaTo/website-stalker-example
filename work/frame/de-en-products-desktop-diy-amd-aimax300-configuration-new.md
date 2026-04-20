@@ -104,14 +104,14 @@ Close
 
 Primary Storage (M.2 2280)
 
-* SN7100 - M.2 2280 - 500GB +€129
-* SN7100 - M.2 2280 - 1TB +€200
-* SN7100 - M.2 2280 - 2TB +€262
-* SN7100 - M.2 2280 - 4TB +€479
-* SN850X - M.2 2280 - 1TB +€170
-* SN850X - M.2 2280 - 2TB +€295
-* SN850X - M.2 2280 - 4TB +€759
-* SN850X - M.2 2280 - 8TB +€1,000
+* SN7100 - M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€129
+* SN7100 - M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€200
+* SN7100 - M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€262
+* SN7100 - M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€479
+* SN850X - M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€170
+* SN850X - M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€295
+* SN850X - M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€759
+* SN850X - M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€1,000
 * None (bring your own)
 
 **Secondary Storage (M.2 2280)**
@@ -131,14 +131,14 @@ Close
 
 Secondary Storage (M.2 2280)
 
-* SN7100 - M.2 2280 - 500GB +€129
-* SN7100 - M.2 2280 - 1TB +€200
-* SN7100 - M.2 2280 - 2TB +€262
-* SN7100 - M.2 2280 - 4TB +€479
-* SN850X - M.2 2280 - 1TB +€170
-* SN850X - M.2 2280 - 2TB +€295
-* SN850X - M.2 2280 - 4TB +€759
-* SN850X - M.2 2280 - 8TB +€1,000
+* SN7100 - M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€129
+* SN7100 - M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€200
+* SN7100 - M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€262
+* SN7100 - M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€479
+* SN850X - M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€170
+* SN850X - M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€295
+* SN850X - M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€759
+* SN850X - M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€1,000
 * None (bring your own)
 
 **Operating System**
@@ -162,8 +162,8 @@ Close
 
 Operating System
 
-* Windows 11 Home (Download) +€145
-* Windows 11 Pro (Download) +€259
+* Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
+* Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
 * None (bring your own)
 
 **CPU Fan**
@@ -195,10 +195,10 @@ Close
 
 CPU Fan
 
-* Cooler Master - Mobius 120 +€20
-* Cooler Master - Mobius 120p ARGB +€33
-* Noctua - NF-A12x25 HS-PWM +€33
-* CPU Fan Mounting Kit - 120mm  (bring your own fan)
+* Cooler Master - Mobius 120  Not available with your other selected options. Reload page to reset. +€20
+* Cooler Master - Mobius 120p ARGB  Not available with your other selected options. Reload page to reset. +€33
+* Noctua - NF-A12x25 HS-PWM  Not available with your other selected options. Reload page to reset. +€33
+* CPU Fan Mounting Kit - 120mm  Not available with your other selected options. Reload page to reset.  (bring your own fan)
 
 **Power Cable**
 
@@ -221,11 +221,11 @@ Close
 
 Power Cable
 
-* AC Cable - C13 - EU +€6
-* AC Cable - C13 - US/CA +€6
-* AC Cable - C13 - AU/NZ +€6
-* AC Cable - C13 - UK/SG +€6
-* AC Cable - C13 - TW +€6
+* AC Cable - C13 - EU  Not available with your other selected options. Reload page to reset. +€6
+* AC Cable - C13 - US/CA  Not available with your other selected options. Reload page to reset. +€6
+* AC Cable - C13 - AU/NZ  Not available with your other selected options. Reload page to reset. +€6
+* AC Cable - C13 - UK/SG  Not available with your other selected options. Reload page to reset. +€6
+* AC Cable - C13 - TW  Not available with your other selected options. Reload page to reset. +€6
 * None (bring your own)
 
  Customization
@@ -237,8 +237,8 @@ Power Cable
 
 Side Panel
 
-* Black
-* Translucent +€45
+* Black  Not available with your other selected options. Reload page to reset.
+* Translucent  Not available with your other selected options. Reload page to reset. +€45
 
 **Tiles**
 
