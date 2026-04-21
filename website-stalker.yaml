@@ -305,16 +305,13 @@ sites:
       - html_markdownify
 
   - url:
-      - https://eu.ugreen.com/collections/gan-chargers?sort_by=title-ascending
-      - https://eu.ugreen.com/collections/iphone-cables?sort_by=title-ascending
-      - https://eu.ugreen.com/collections/usb-c-cables?sort_by=title-ascending
+      - https://de.ugreen.com/collections/gan-ladegerat?sort_by=created-descending
+      - https://de.ugreen.com/collections/usb-mehrfachladegerat?sort_by=created-descending
+      - https://de.ugreen.com/collections/usb-c-ladekabel?sort_by=created-descending
+      - https://de.ugreen.com/collections/powerbank?sort_by=created-descending
     editors:
-      - css_select: .t4s-product-info__inner
-      - css_remove: .t4s-product-price
-      - css_sort:
-          selector: .t4s-product-info__inner
-          sort_by:
-            - html_textify
+      - css_select: .product-grid .ug-product-card-info
+      - css_remove: style, img, svg, .price_atc-box, .ug_product_code
       - html_url_canonicalize
       - html_markdownify
 
