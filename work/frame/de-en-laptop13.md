@@ -2,19 +2,19 @@ This isn’t our computer.
 It’s yours.
 ----------
 
-**Updated for 2025 with AMD's latest Ryzen**™ **AI 300 Series Processors with up to 12 CPU cores.**
+Updated for 2025 with AMD's latest Ryzen™ AI 300 Series processors, with up to 12 CPU cores.
 
 This isn’t our computer.
 It’s yours.
 ----------
 
-**Updated for 2025 with AMD's latest Ryzen**™ **AI 300 Series Processors with up to 12 CPU cores.**
+Updated for 2025 with AMD's latest Ryzen™ AI 300 Series processors, with up to 12 CPU cores.
 
 [Configure now Configure now](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
 [Overview](?tab=overview)
 
-[Updated for 2025](?tab=whats-new)
+[Upgrades](?tab=upgrades)
 
 [Specs](?tab=specs)
 
@@ -24,63 +24,28 @@ It’s yours.
 
 [Configure now](/products/laptop13-diy-amd-ai300/configuration/new)
 
- Framework Laptop 13 is a thin, light, fast 13.5” notebook that is simple to customize, upgrade, and repair, so it stays yours for longer.
-
-* local\_shipping Free shipping on laptop orders
-* verified\_user [1-year limited warranty](/warranty)
-
- Customize
-
-**Expansion Cards, keyboard languages, Bezel colors. It’s yours to choose.**
-
- Upgrade
-
-**Upgrade your processor generation-over-generation, and add more memory and storage whenever you need.**
-
- Repair
-
-**Every part is replaceable with just the one tool that comes in the box.**
-
-The choice is yours.
+Framework Laptop 13 is a thin, light, and fast 13.5” notebook that is simple to customize, upgrade, and repair, so it stays yours for longer.
 ----------
 
-**Available in multiple configurations: ready to use with Windows 11 out of the box or as a DIY Edition, allowing you to assemble it yourself and install your preferred OS, including Linux**
+##### Customize #####
 
-[](/de/en/products/laptop13-amd-ai300/configuration/new)
+Expansion Cards, keyboard languages, Bezel colors. It’s yours to choose.
 
- Great for Windows
+##### Upgrade #####
 
-###### Pre-built ######
+Upgrade your processor generation-over-generation, and add more memory and storage whenever you need.
 
-Ready to go out of the box with Windows 11 and easy to upgrade if you ever need more in the future.
+##### Repair #####
 
-[Shop now](/de/en/products/laptop13-amd-ai300/configuration/new)
+Every part is replaceable with just the one tool that comes in the box.
 
-[](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+##### Storage #####
 
- Great for Linux
+Never worry about running out of space. With standard M.2 SSDs, you can swap out your storage for for high-capacity drives up to 8TB.
 
-#### DIY Edition ####
+##### Memory #####
 
-Bring your own memory, storage, and operating system, including Linux, and build it yourself.
-
-[Shop now](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
-
-### All of this in a minimal and slim form factor. ###
-
-At just 15.95mm thick and under 1.3kg, gaining repairability doesn’t mean losing portability.
-
-### All of this in a minimal and slim form factor. ###
-
-At just 15.95mm thick and under 1.3kg, gaining repairability doesn’t mean losing portability.
-
-###### Storage ######
-
-Never worry about running out of space. With standard M.2 SSDs, you can swap out your storage drive for high capacity ones up to a colossal 8TB.
-
-###### Memory ######
-
-You can upgrade your RAM whenever you need to unlock higher performance during heavy multi-tasking. Our latest generation supports up to a massive 96GB of high-speed DDR5.
+You can upgrade your RAM whenever you need to unlock higher performance. Our latest generation supports up to a massive 96GB of high-speed DDR5.
 
 ###### Expansion Cards ######
 
@@ -94,7 +59,7 @@ External adapters are a thing of the past. The Framework Expansion Card system l
 
  Battery
 
-61Wh for all day battery life, long-lasting, with 80% of its capacity still available after 1,000 cycles of use.
+61Wh for all-day battery life, maintaining 80% capacity after 1,000 cycles.
 
  Screen
 
@@ -102,7 +67,7 @@ A 13.5” screen in a taller 3:2 aspect ratio for more efficient browsing, codin
 
  Webcam
 
-A \>80 degree field of view makes you look great at any angle, and 1080p image and video resolution keeps you sharp too.
+An 80°+ field of view degree field of view makes you look great at any angle, and 1080p image and video keep you sharp.
 
  Keyboard
 
@@ -119,32 +84,62 @@ Your privacy is protected at a hardware level, with physical switches that elect
 
 We hate software bloat as much as you do. Our pre-builts ship with stock Windows 11 plus the necessary drivers, and our DIY Edition lets you bring whichever operating system you’d like.
 
- Planet-friendly.
+### All of this in a minimal and slim form factor. ###
 
- The best way to reduce the environmental impact of Consumer Electronics is to make products last longer.
+At just 15.85mm thick and under 1.3kg, gaining repairability doesn’t mean losing portability.
 
- Re-use
+### All of this in a minimal and slim form factor. ###
 
-We design our laptops and every part inside to last. Our mainboard can be re-used as a standalone computer using the Cooler Master Mainboard Case or for any DIY projects.
+At just 15.85mm thick and under 1.3kg, gaining repairability doesn’t mean losing portability.
 
-[Learn more](/products/cooler-master-mainboard-case)
+#### 296.63mm ####
 
- Refurb & Factory Seconds
+Width
 
-We make sure no product goes unused. We refurbish returns and minimize manufacturing waste through our Factory Seconds program, lowering the price of entry too.
+#### 228.98mm ####
 
-[Learn more](/outlet)
+Depth
 
- Recycled materials
+#### 15.85mm ####
 
-We’re diverting the waste stream by maximizing the use of post-consumer-recycled materials across plastics, metals, and packaging.
+Height
 
-[Learn more](/sustainability)
+#### 1.3kg ####
 
-### Keep track of what we’re
-working on with the Framework Newsletter. ###
+Weight
 
-### Keep track of what we're working on with the Framework Newsletter. ###
+The choice is yours.
+----------
+
+Available in multiple configurations: pre-built with Windows 11 or as a DIY Edition, allowing you to assemble it yourself and install your preferred OS, including Linux.
+
+[](/de/en/products/laptop13-amd-ai300/configuration/new)
+
+ Great for Windows
+
+###### Pre-built ######
+
+Ready to go out of the box with Windows 11 and easy to upgrade if you ever need more in the future.
+
+[Configure now](/de/en/products/laptop13-amd-ai300/configuration/new)
+
+[](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+
+ Great for Linux
+
+#### DIY Edition ####
+
+Bring your own memory, storage, and operating system, including Linux, and build it yourself.
+
+[Configure now](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+
+### Planning a volume purchase? ###
+
+### Planning a volume purchase? ###
+
+[Contact our Business team Contact our Business team](https://share.hsforms.com/1GjuuZvpJRJKsAzc2XdPLYQe5dti)
+
+### Keep track of what we’re working on with the Framework Newsletter. ###
 
 Monthly-ish
 

@@ -2,13 +2,13 @@ The ultimate
 **developer laptop**
 ==========
 
-Framework Laptop 13 Pro delivers 20 hours of battery life[🗲,](#fw13pro-battery-info) Intel Core Ultra Series 3 processors, LPCAMM2 memory, and a haptic touchpad in a refined CNC aluminum chassis. Still repairable, upgradeable, and customizable, with excellent Linux support. Now with nothing holding you back.
+Framework Laptop 13 Pro delivers 20 hours of battery life [**ϟ**](#fw13pro-battery-info), Intel Core Ultra Series 3 processors, LPCAMM2 memory, and a haptic touchpad in a refined CNC aluminum chassis. Still repairable, upgradeable, and customizable, with excellent Linux support. Now with nothing holding you back.
 
 The ultimate
 **developer laptop**
 ==========
 
-Framework Laptop 13 Pro delivers 20 hours of battery life[🗲,](#fw13pro-battery-info) Intel Core Ultra Series 3 processors, LPCAMM2 memory, and a haptic touchpad in a refined CNC aluminum chassis. Still repairable, upgradeable, and customizable, with excellent Linux support. Now with nothing holding you back.
+Framework Laptop 13 Pro delivers 20 hours of battery life [**ϟ**](#fw13pro-battery-info), Intel Core Ultra Series 3 processors, LPCAMM2 memory, and a haptic touchpad in a refined CNC aluminum chassis. Still repairable, upgradeable, and customizable, with excellent Linux support. Now with nothing holding you back.
 
 [Configure now Configure now](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new) [Learn more Learn more](/de/en/laptop13pro)
 
@@ -149,6 +149,6 @@ The Consumer Electronics industry is broken. We’re here to fix it. We build hi
 
 [Learn more about us](/about)
 
-🗲
+**ϟ**
 
 Testing conducted by Framework in April 2026 using Framework Laptop 13 Pro tested with Intel® Core™ Ultra X7 358H Processor, Intel® Arc™ B390 graphics, 2.8K touchscreen display, 32GB memory and 1TB storage, with display brightness set to 250nits, display refresh rate set to 60Hz, speaker volume as 30%, Dolby Atmos® disabled, and wireless enabled. Battery life tested by streaming Netflix 4K content in the Netflix app on Windows 11 under Best Power Efficiency mode. Battery life varies by use and configuration.
