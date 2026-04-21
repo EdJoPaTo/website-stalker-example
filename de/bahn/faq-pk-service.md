@@ -421,7 +421,7 @@ Nein, alle Statusvorteile sind für den Zeitraum Ihrer persönlichen Statuslaufz
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ablauf-statuslaufzeit-statusvorteile)
 
- Wie kann ich mein Digitales Abo in der App DB Navigator nutzen?
+ Wie kann ich mein digitales Abo in der App DB Navigator nutzen?
 ----------
 
 Das Handy-Ticket für Ihr digitales Abo wird Ihnen nach erfolgreicher Aktivierung bereitgestellt. Falls Sie schon eine Aktivierungsmail erhalten haben, können Sie das Handy-Ticket direkt über den Link hinzufügen.
@@ -2347,6 +2347,8 @@ Weitere Tipps:
 * Achten Sie darauf, keine Leerzeichen am Anfang oder Ende Ihrer Eingaben zu setzen. Das kann beim Kopieren der Daten versehentlich passieren.
 *  Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 * Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
+
+Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie in Kürze einen Screenshot und Angaben zu Ihrem genutzten Gerät in einem Kontaktformular übersenden.​
 
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 

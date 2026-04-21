@@ -1,3 +1,8 @@
+2026-04-21:
+  * Bug fix - userconf leaves user account locked if user name is set to 'pi'
+  * Include rpifwcrypto
+  * Raspberry Pi firmware dce3a7f35498e1a6340748f599e7d74d9001c1fe
+  * Linux kernel 6.12.75 - 89050b1059997d38d55462b323b099a6436dc10d
 2026-04-13:
   * Passwordless sudo now disabled by default
   * Switch to enable passwordless sudo added to Control Centre System tab and to raspi-config
