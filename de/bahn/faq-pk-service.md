@@ -544,6 +544,22 @@ Bei Reisen ausschließlich im Nahverkehr gilt in der Regel eine kostenfreie Mitn
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-fahrkarte-kinder-6-14-jahre)
 
+ Do children aged 6-14 have to be indicated on the ticket?
+----------
+
+Children aged 6 to 14 travel free of charge when accompanied by passengers aged 15 and over, but must be indicated when booking. Up to four children can travel on each ticket. It is not possible to add children on the adult's ticket once the journey has started.
+
+If you are only using local transport, it is generally possible to take up to three children with you free of charge. Regional and transport association tariffs may deviate from this rule.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-kinder-ticket-bis-14-en)
+
+ Do children up to 5 years of age have to be indicated on the ticket?
+----------
+
+Children up to 5 years of age travel free of charge on Deutsche Bahn long-distance trains and do not need to be indicated on the ticket. We recommend that you indicate children regardless of age, however, as this allows you to reserve a seat in the family compartment or toddler area. Accompanying children are only listed on the ticket from the age of 6.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-ticket-bis-5-en)
+
  So stornieren Sie Ihr online gebuchtes Bahn-Ticket
 ----------
 
@@ -773,6 +789,13 @@ Die CO₂-Sparuhr macht auch unterschiedliche Auslastungen zu unterschiedlichen 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auslastung-zuege-einsparung-co2)
 
+ Where is the ICE Portal available?
+----------
+
+The ICE Portal is available on all ICE trains.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/availability-ice-portal)
+
  Was ist BahnBonus?
 ----------
 
@@ -882,6 +905,13 @@ Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den
 * [Verimi Hilfe- und Kontaktseite](https://verimi.de/faq/?question=122169&title=deutsche-bahn-db-hilfebereich-zur-nutzung-von-verimi)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bankdaten-nicht-bestaetigen)
+
+ Where can I find the shopping basket in the ICE Portal?
+----------
+
+When the ordering service is activated, a shopping basket symbol appears directly next to each item which you can use to place the products in the shopping basket. The shopping basket is then displayed at the top of the screen under the travel information. Click on it to navigate to the shopping basket and complete your order.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/basket-ice-portal)
 
  Auf meiner Strecke gibt es eine Baustelle. Welche Möglichkeiten zur Beanstandung habe ich?
 ----------
@@ -1283,6 +1313,38 @@ Liegen Ursache und Wirkung für die verspätete Ankunft des Fahrgastes hingegen 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bus-schiff-fahrgastrechte-verspaetung-anschluss)
 
+ Are there different age rules for children?
+----------
+
+In Germany, children up to the age of 14 always travel free of charge. Children aged 6-14 must be specified during booking.
+Different conditions for children apply to the following offers:
+
+* Flexible fare
+* Saver fare Europe **London**, Saver fare Europe **France**, Saver fare Europe **Sweden** and Saver fare Europe **Czech Republic**
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/children-age-rules)
+
+ Do children travel free of charge?
+----------
+
+Children up to 5 years of age always travel free of charge and do not need to be specified when booking. Children aged 6-14 travel free when accompanied by someone aged 15 or over. However, they must be specified at the time of booking. The ticket holder can bring up to 4 children per ticket.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/children-free-travel)
+
+ Can I take a pushchair with me?
+----------
+
+Yes. Please note that the space available on the train is limited. We recommend slings or pushchairs that can be easily folded and stowed away.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/children-pushchair)
+
+ Can I choose specific seats close to areas where I can easily stow my larger luggage?
+----------
+
+Yes. If you reserve a seat online, you can select a seat near a baggage rack in the second booking step using the graphical overview ("Reserve requested seat" and then "Select seat"). Alternatively, you can look for rows of seats in the graphical overview with the seat backs facing in opposite directions, i.e. back to back. This is because there is a space between the rows of seats in which you can store your luggage at floor level. Please put any wheeled suitcases down so that they do not roll away during the journey and endanger other passengers.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/choose-specific-seats-close-to-areas-my-larger-luggage)
+
  Basiert die CO₂-Sparuhr auf Live-Daten?
 ----------
 
@@ -1375,6 +1437,13 @@ Nein, der Sitzplatzbereich steht exklusiv nur unseren Statuskund:innen zur Verf�
 * Dort sehen Sie, ob Sie noch eingeloggt sind oder sich erneut einloggen müssen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/das-ice-portal-laedt-nicht-oder-bleibt-haengen-was-kann-ich-tun)
+
+ Will my data allowance be used when I view content on the ICE Portal?
+----------
+
+You can only use the ICE Portal if you are connected to the wifi on ICE trains. The ICE Portal content is retrieved from a hard disk on the train, so your data allowance will not be affected.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/data-volume-ice-portal)
 
  Woher weiß das Zugpersonal, dass ich eingecheckt bin und welche Kundendaten werden angezeigt?
 ----------
@@ -1493,6 +1562,13 @@ Nein, eine gleichzeitige Filterung nach Deutschland-Ticket-Verbindungen und best
 * Wenn Sie gezielt bestimmte Verkehrsmittel anzeigen möchten, deaktivieren Sie bitte zuvor den D-Ticket-Filter.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verkehrsmittel-suche)
+
+ How many different devices can I connect to the wifi at the same time?
+----------
+
+You can use the internet on the train with as many devices as you like, such as your smartphone, tablet and laptop, simultaneously.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/different-devices)
 
  Wie erhalte ich eine Rechnung mit Mehrwertsteuerangaben für mein Digitales Ticket?
 ----------
@@ -2025,6 +2101,14 @@ Ob es "stehende" oder "hängende" Fahrradhalterungen gibt, hängt von der Baurei
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradstellplatz-ohne-heben-einhaengen)
 
+ How fast is the wifi on the train?
+----------
+
+The wifi speed depends on the connection between the trains and mobile networks, as well as the number of fellow passengers who are online on the train at the same time. In addition, the wifi speed varies depending on the technology of the device and which mobile networks our system can access along the route. The speed may be lower than what you are used to at home.
+Please refrain from bandwidth-intensive applications (e.g. app updates, downloads, high-definition films from the internet, operating system updates) as far as possible, as this improves the online experience for both you and your fellow passengers.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fast-wifi)
+
  Es kommt zu einem Fehler beim Hinzufügen eines Tickets in die App DB Navigator. Was kann ich tun?
 ----------
 
@@ -2050,6 +2134,13 @@ Sollte der Fehler weiterhin auftreten, überprüfen Sie diese Angaben erneut. Ev
 Ja, Sie finden Ihren Statuslevel auch im DB Navigator. Als Statusnachweis dient jedoch nur die digitale Karte in der BahnBonus App.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/finde-ich-mein-statuslevel-in-der-db-navigator-app)
+
+ For which products can I redeem a DB gift voucher?
+----------
+
+DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be used to purchase other DB gift vouchers. If the value of the DB gift voucher is higher than the purchase price of the product for which you redeem it, you will receive the remaining value in the form of a voucher.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
 
  Wie sammle ich BahnBonus Punkte?
 ----------
@@ -2383,6 +2474,91 @@ Ja, die Mitnahme eines Hilfsmittels im Zug ist unter Einhaltung von Maximalmaße
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsmittel-mitnehmen)
 
+ How big can my luggage items be?
+----------
+
+The following standard dimensions were assumed when dimensioning the luggage racks and almost always fit: 700 x 500 x 300 mm (height x width x depth).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-big-can-my-luggage-items-be)
+
+ How can I purchase a DB gift voucher?
+----------
+
+To buy a DB gift voucher **online**, you need to log in to your customer account. DB gift vouchers are available with a value of EUR 10, 20, 50 or 100. You can also personalise your gift voucher during the ordering process. After you have completed the purchase, you will receive the DB gift voucher as a PDF sent to your e-mail address.
+
+Alternatively, you can also buy DB gift vouchers **at DB Travel Centres or DB agencies**.
+
+It is **not possible to pay** for DB gift vouchers v**ia direct debit or using another voucher**.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-can-i-buy-a-db-gift-voucher)
+
+ How do I stow my luggage on the train?
+----------
+
+**Luggage under your own seat**
+Please ensure that you can stow your luggage independently in the luggage rack or underneath the seat.
+
+**Luggage racks in the open saloon section**
+Many of our trains offer luggage racks for large suitcases in the open saloon section. These are located either near the doors or in the middle of the carriage. If you wish to keep your bag with you, place it in one of the luggage racks above your seat or, if possible, under the seat.
+
+**Luggage racks in the compartment**
+Compartments only have luggage racks above the seats. The Intercity 2 is an exception, as the small shelves above the seats are not suitable for suitcases. Additional luggage racks are provided here.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-do-i-stow-my-luggage-on-the-train)
+
+ How long are DB gift vouchers valid?
+----------
+
+DB gift vouchers are valid for five years from the date of purchase.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-long-is-db-gift-voucher-valid)
+
+ How much luggage can I take on the train?
+----------
+
+In addition to your hand luggage, you are allowed to carry one additional larger piece of luggage or item free of charge, provided this load can be carried by one person alone. Due to its size, it may need to be stored outside your seating area, e.g. in the nearest luggage rack. Each passenger is responsible for supervising their own luggage.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-much-luggage-can-i-take-on-the-train)
+
+ How can I cancel the purchase of a gift voucher?
+----------
+
+**Return/cancellation**
+
+You can cancel your contractual declaration in writing (e.g. by letter or e-mail) within two weeks without giving reasons. This period begins after receipt of this instruction in writing, but not before you receive the product. Timely sending of the cancellation is sufficient to comply with the cancellation period.
+
+Please send your cancellation to:
+DB Vertrieb GmbH
+Postfach 10 01 14
+96053 Bamberg, Germany
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-to-cancel-gift-voucher)
+
+ How will I be refunded if I cancel a ticket purchased with a voucher?
+----------
+
+Refunds will be made to the respective means of payment used. If you paid by credit card, the refund amount will be credited back to your credit card. In the case of a bank transfer, the refund will be credited back to your bank account. If you paid with a voucher, the refund will also be made in the form of a voucher.
+
+If you paid using multiple combined means of payment, the partial amounts will be refunded to the respective means of payment.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-to-receive-refund-when-i-have-paid-for-a-ticket-with-voucher)
+
+ What do I have to pay particular attention to with Android devices in the ICE Portal?
+----------
+
+If you are using a smartphone with the Android operating system, you will not be automatically redirected to the ICE Portal after connecting to the train wifi due to the operating system. Therefore, you must enter **"ICEportal.de**" in your browser after connecting to the wifi.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ice-portal-android)
+
+ What do I have to pay particular attention to with Apple devices in the ICE Portal?
+----------
+
+The "iCloud Private Relay" function from iOS 15 is intended, among other things, to ensure anonymous browsing on the internet. On the train, however, this function prevents your device from connecting to the ICE Portal.
+
+This function should be deactivated for the duration of use of the ICE Portal. You can check whether the function is switched off under "Settings" ⇒ "Apple ID" ⇒ "iCloud" ⇒ "Private Relay".
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ice-portal-ios)
+
  Ich befinde mich in der 1. Klasse aber mir werden die Tageszeitungen im ICE Portal nicht als kostenlos angezeigt, was kann ich tun?
 ----------
 
@@ -2696,6 +2872,13 @@ Die Verordnung (EU) 2021/782 sieht vor, dass Beschwerden innerhalb von **12 Mona
 Bitte beachten Sie, dass einige internationale Eisenbahnverkehrsunternehmen abweichende Fristen anwenden (z.B. 3 Monate). Hier kann es dann unter Umständen zu Fristüberschreitungen und Ablehnungen kommen, wenn ein Antrag dort zu spät eingereicht wird.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/innerhalb-welcher-frist-kann-ich-meine-fahrgastrechtsansprueche-geltend-machen)
+
+ Why is the wifi on the Intercity called WIFIonICE and not, for example, WIFIonIC?
+----------
+
+The wifi in the Intercity fleet is called WIFIonICE, just as it is in the ICE fleet, so you don't have to remember two different names and access variants.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/intercity-called-wifi-on-ice)
 
  Ist der Flexpreis auch für internationale Fahrten buchbar?
 ----------
@@ -3310,6 +3493,22 @@ Tipp: Wenn Sie dringend schnell buchen müssen, nutzen Sie am besten die "Buchun
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keinen-zugriff-mehr-auf-handy-und-2-fa-aktiviert--neues-passwort-anfordern)
 
+ Can children travel free of charge to neighbouring countries?
+----------
+
+Adults with a ticket for cross-border travel to Switzerland or Austria can take a child or grandchild up to the age of 5 free of charge (i.e. the child must accompany the parent or grandparent). It is not possible to add children on the adult's ticket once the journey has started.
+
+When travelling to Switzerland or Austria, children aged 6 to 14 travel free of charge. Children must be included on the adult's ticket.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-mitnahme-ausland-en)
+
+ What are the rules for travelling with children when using the City Ticket?
+----------
+
+If you are travelling with children using a City-Ticket issued with a saver or super saver fare, children pay the child fare for a single journey in the respective transport association.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-mitnahme-city-ticket-en)
+
  Wie verhält sich die kostenfreie Kindermitnahme bei Reisen in die Schweiz und nach Österreich?
 ----------
 
@@ -3442,12 +3641,28 @@ Für diese Länder können Sie das Angebot buchen: Belgien, Dänemark, Frankreic
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laender-super-sparpreis-europa-gruppe)
 
+ How can I log into the ICE Portal?
+----------
+
+1. Connect your device to "**WIFIonICE**" on ICE train.
+2. On most devices, a login page will then open automatically. On this page, click to accept the General Terms and Conditions (GTC) and confirm by clicking on "Browse now for free". If you are not automatically directed to the login page, please enter "Login.WIFIonICE.de" in your browser.
+3. Once connected, you can open the ICE Portal by clicking on "Continue" on the browser page or by entering **"ICEportal.de"** in your browser.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/login)
+
  Obwohl ich mich erfolgreich einloggen konnte, erhalte ich eine Fehlermeldung bei der Buchung. Woran kann das liegen?
 ----------
 
 Haben Sie in Ihrem DB Kundenkonto in Ihren persönlichen Daten (z. B. Name, Adresse) ein Sonderzeichen (z. B. $, ", griechische Buchstaben etc.) verwendet, kann es vorkommen, dass eine Buchung fehlschlägt. In diesem Fall korrigieren Sie bitte Ihre persönlichen Daten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/login-fehlermeldung)
+
+ Can I take luggage on the train free of charge?
+----------
+
+Luggage such as briefcases, laptops, backpacks, suitcases, etc. can be taken along free of charge.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/luggage-for-free)
 
  Ich brauche mehr Zeit für den Umstieg mit Gepäck und Fahrrad. Wie kann ich das bei der Buchung einplanen?
 ----------
@@ -3846,6 +4061,15 @@ Alternativ können Sie sich auch and die Mobilitätsservice-Zentrale wenden**.**
 * [Mehr Informationen zur Mobilitätsservice-Zentrale](https://www.bahn.de/service/individuelle-reise/barrierefrei/online-buchung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/online-buchung-wenn-hilfeleistung)
+
+ How do I know if my order can be accepted?
+----------
+
+After you have placed your order, you will first receive a message that your order has been sent to the staff. Close the information box and wait for an update on your order on the overview page.
+
+Keep the ICE Portal open in your browser until a message appears telling you that your order is being prepared. You can use the other services on the ICE Portal or visit other internet pages in a separate browser window while you are waiting for confirmation. You can retrieve your order summary at any time during this period.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/orders-ice-portal)
 
  Kann ich Passkeys in meinem Passwortmanager speichern?
 ----------
@@ -4266,12 +4490,37 @@ Sie sollten Ihre Verlustanzeige so bald wie möglich hier online aufgeben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rueckwirkend-suchanzeige-online-aufgeben)
 
+ Is it ok to place my luggage next to safety devices?
+----------
+
+Aisles, doors and safety devices such as fire extinguishers **must** remain unobstructed for your safety.
+Always follow the instructions of the on-board crew.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/safety-devices-luggage)
+
  Kann ich meinen Schwerbehindertenausweis im DB Kundenkonto hinterlegen?
 ----------
 
 Nein, eine Hinterlegung des Schwerbehindertenausweises im DB Kundenkonto ist nicht möglich. Um Ihren Schwerbehindertenausweis anzugeben, wählen Sie diesen in der Verbindungssuche unter „Ermäßigungen“ aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schwerbehindertenausweis-im-kundenkonto-hinterlegen)
+
+ How secure is the wifi network on the train?
+----------
+
+The wifi network on our trains is a public network, similar to the systems used in hotels or cafes. As with any public network, it is not possible to completely protect communication against interception.
+Our wifi system includes a range of security features that make data transfer safer than in similar wifi networks in cafes and other public places. These features include client isolation, which prevents one device in the network from accessing data on another device in the same network. To ensure secure transmission, especially for sensitive data, we recommend that you use a VPN connection and only access https pages.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/secure-wifi-on-train)
+
+ What does the ICE Portal's digital on-board catering service offer?
+----------
+
+The digital on-board catering service offers 1st class travellers on ICE trains the possibility to order food and drink to their seat digitally via the ICE Portal. You can also place your order with the 1st class service staff or visit the dining car or bistro car.
+
+Passengers in 2nd class can use the digital menu on the ICE Portal to find out about the food and drink available on the train. We are happy to take orders personally in the dining car or bistro car.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/services-ice-portal)
 
  Sind die von der Deutschen Bahn beauftragten Unternehmen für die Sicherheit beim Lastschriftverfahren zuverlässig?
 ----------
@@ -4673,6 +4922,13 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-gruppe)
 
+ Is the surfing time with free wifi limited?
+----------
+
+No, there is no time limit on free wifi use throughout the journey.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/surfing-time-limited)
+
  Kann ich den Flexpreis noch im Zug kaufen?
 ----------
 
@@ -4705,6 +4961,20 @@ Ja. Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gebucht haben, wird es nach dem
 Falls ein Ticket nicht angezeigt wird oder Sie es ohne DB Kundenkonto gebucht haben, können Sie es manuell unter "Meine Reisen" über die Auftragssuche hinzufügen. Geben Sie dazu die Auftragsnummer und den Nachnamen der reisenden Person ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-in-navigator-app-laden)
+
+ How do I choose where I am getting off the train?
+----------
+
+A window opens up from the "Reiseplaner" on the black train progress bar on the home page, showing the route of the current journeys. You can then select a station on the route to get off at or make a connection. You can also view your connections at the selected station.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/train-exit-zug-ice-portal)
+
+ Where can I find information about my current trip in the ICE Portal?
+----------
+
+The black train progress bar, which is located on the home page or at the top of the screen when you are browsing the portal, always provides you with the relevant information about your journey. In addition to the speed of the train, the next stop and the map with the current position of the train, you can also select your stop and your connections here. In the event of any delays, you will receive a notification as to whether you will still reach the selected connecting train.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/travel-information-ice-portal)
 
  Wie kann ich die Zeit für meinen Umstieg verlängern?
 ----------
@@ -6067,6 +6337,63 @@ Mit einem Schwerbehindertenausweis mit Wertmarke fahren Sie im Nahverkehr kosten
 Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist auch Ihre Begleitperson im Nahverkehr kostenfrei.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wertmarke-mit-sba)
+
+ What items should I carry in my hand luggage rather than in my suitcase?
+----------
+
+Pack important and valuable items in your hand luggage and do not pack them in your suitcase. These include medicines, medical records, keys and laptops.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/what-items-should-i-carry-in-my-hand-luggage-rather-than-in-my-suitcase)
+
+ What other luggage items can I take on the train?
+----------
+
+In addition to bags, trolleys and suitcases, you can also take the following:
+
+**Prams and pushchairs:**
+For train journeys, we recommend easily foldable models or buggies that are easy to stow away. Some train types have spaces for prams and pushchairs in the family compartment, partly in the newly introduced family areas or in their immediate vicinity.
+
+Lots of families travel during holidays, on weekends or before public holidays. On these days, it can be difficult to take prams and pushchairs on board as there is only limited space available. You should always be able to store your luggage in the luggage compartment, the luggage rack or under the seat. This also applies to prams and pushchairs because aisles and door areas (escape routes) must remain clear, and safety devices such as fire extinguishers must be accessible.
+
+**Folding bicycles, folding pedelecs, small electric vehicles:**
+Folding bicycles, folding pedelecs and small electric vehicles (e.g. electric scooters, tread scooters, kickboards, etc.) may be carried when folded, provided they can be stowed safely (e.g. in the luggage rack) and do not obstruct or injure other passengers, or damage the carriage.
+
+**Bicycles:**
+The long-distance trains on which you may take bicycles are marked accordingly in the arrival and departure timetables, and in our travel information. You will need a long-distance transport bicycle ticket and a storage space reservation. The reservation is free of charge and included in the price of your bicycle ticket.
+
+Storage spaces are generally located in second class carriages. You can also reserve a seat on request. The seat and the storage space will generally be in the same carriage. In certain cases, however, the storage space and the seat may be in two different carriages. Each passenger can only take one bicycle.
+
+**Orthopaedic aids:**
+We will of course transport your orthopaedic aids, such as a wheelchair, rollator or walking frame, free of charge. Different regulations apply in some transport associations.
+
+*
+
+[Information on taking bicycles on long-distance trains (in German)](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
+
+[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/what-other-luggage-items-can-i-take-on-the-train)
+
+ Where can I redeem a DB gift voucher?
+----------
+
+You can redeem DB gift vouchers:
+
+* On bahn.de
+* In the DB Navigator app
+* At a DB Travel Centre
+* At a DB agency
+
+**Return/cancellation**
+
+You can cancel your contractual declaration in writing (e.g. by letter or e-mail) within two weeks without giving reasons. This period begins after receipt of this instruction in writing, but not before you receive the product. Timely sending of the cancellation is sufficient to comply with the cancellation period.
+
+Please send your cancellation to:
+DB Vertrieb GmbH
+Postfach 10 01 14
+96053 Bamberg, Germany
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/where-can-i-redeem-a-gift-voucher)
 
  Wie aktiviere ich die 2-Faktor-Authentifizierung?
 ----------
@@ -7492,6 +7819,34 @@ Bei [sammelfähigen Angeboten der DB](https://www.bahn.de/service/bahnbonus/punk
 Bei [Sammelpartnern](https://www.bahn.de/service/bahnbonus/vorteile)ist die Punktegutschrift abhängig vom jeweiligen Partner.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieviele-punkte-bei-kauf)
+
+ Is wifi available on all routes to and from locations outside of Germany?
+----------
+
+Yes. Free wifi is available on all of these connections. You can keep surfing even as you cross international borders and stay connected in Austria, Switzerland, France, Belgium and the Netherlands.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-abroad)
+
+ What can I do with the wifi offered in first class?
+----------
+
+The wifi in first class is set up so that you can work reliably and free of charge. This means you can set up VPN connections, perform research online and send large e-mail attachments, as well as enjoying short videos and music streams.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-offered-first-class)
+
+ What can I do with the wifi offered in second class?
+----------
+
+The wifi in second class lets you surf, mail and chat for free. VPN connections are also possible here.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-offered-second-class)
+
+ Which trains offer wifi?
+----------
+
+Wifi is available on board all of our ICE trains, on some of our IC trains and on selected regional trains. We are gradually rolling out wifi for our entire long-distance fleet.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-trains)
 
  Wird der Sparpreis Senioren für die 1. Klasse angeboten?
 ----------
