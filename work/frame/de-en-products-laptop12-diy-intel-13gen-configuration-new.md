@@ -387,7 +387,7 @@ Close
 
  Storage Expansion Cards
 
- Storage (2nd Gen) Expansion Card - 250GB
+ 250GB (2nd Gen) - Silver
 
  Details
 
@@ -400,7 +400,7 @@ Close
 
  \+€50
 
- 1TB (1st Gen)
+ 1TB (1st Gen) - Silver – 1TB (1st Gen)
 
  Details
 
