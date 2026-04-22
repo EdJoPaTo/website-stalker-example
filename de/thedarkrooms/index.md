@@ -1,5 +1,5 @@
 THE DARK ROOMS VEINS
- \- Juli 2026
+ 10.07.-26.07.2026
 ==========
 
 Für nur 3 Wochenenden träumt ein alter Kinokomplex ein neues intensives Kunsterlebnis.

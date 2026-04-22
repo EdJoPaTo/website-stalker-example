@@ -41,8 +41,8 @@ Cache
 
  8 Cores
  8 Threads
- 7W TDP
- 25W PL2
+ 15W TDP
+ 9W cTDP-down
 
 </summary> </details> <details class="accordion full-width"> <summary class="accordion-button link">
 

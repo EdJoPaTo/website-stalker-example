@@ -242,7 +242,7 @@ cirrus incus
     solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   * Kein vorinstalliertes Betriebssystem
-  * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Ubuntu 26.04 LTS** „Resolute Raccoon“
   * **Ubuntu 25.10** „Questing Quokka“
   * **Linux Mint 22**
   * **Windows 11 Home**
