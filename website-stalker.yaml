@@ -358,10 +358,13 @@ sites:
       - https://frame.work/de/en/desktop
       - https://frame.work/de/en/laptop12
       - https://frame.work/de/en/laptop13
+      - https://frame.work/de/en/laptop13pro
       - https://frame.work/de/en/linux
       - https://frame.work/de/en/products/desktop-diy-amd-aimax300/configuration/new
       - https://frame.work/de/en/products/laptop12-diy-intel-13gen/configuration/new
       - https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new
+      - https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new
+    http1_only: true
     editors:
       - css_select: main
       - css_remove: >-
