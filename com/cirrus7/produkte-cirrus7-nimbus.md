@@ -444,7 +444,7 @@ cirrus nimbus
   Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
 
   * Kein vorinstalliertes Betriebssystem
-  * **Ubuntu 24.04** „Noble Numbat“
+  * **Ubuntu 26.04** „Resolute Raccoon“
   * **Ubuntu 25.10** „Questing Quokka“
   * **Linux Mint 22**
   * **Windows 11 Home**

@@ -231,7 +231,7 @@ cirrus incus
   Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
 
   * Kein vorinstalliertes Betriebssystem
-  * **Ubuntu 24.04 LTS** „Noble Numbat“
+  * **Ubuntu 26.04 LTS** „Resolute Raccoon“
   * **Ubuntu 25.10** „Questing Quokka“
   * **Linux Mint 22**
   * **Windows 11 Home**
