@@ -1736,7 +1736,7 @@ Bei den Verkehrsleistungsdaten, also wie viele Personen wie viele Kilometer in d
  Enthält meine Lufthansa Express Rail Buchung eine Sitzplatzreservierung?
 ----------
 
-Ja, Lufthansa Express Rail enthält eine Sitzplatzreservierung. Als Gast der Lufthansa First und Business Class sind Sitzplätze in der 1. Klasse des Zuges für Sie reserviert. Wenn Sie in der Lufthansa Premium Economy oder Economy Class reisen, finden Sie Ihre reservierten Sitzplätze in der 2. Klasse des Zuges. Den genauen Sitzplatz entnehmen Sie bitte Ihrer Lufthansa Bordkarte.
+Ja, Lufthansa Express Rail enthält eine Sitzplatzreservierung. Als Gast der Lufthansa First Class und Business Class sind Sitzplätze in der 1. Klasse des Zuges für Sie reserviert. Wenn Sie in der Lufthansa Premium Economy oder Economy Class reisen, finden Sie Ihre reservierten Sitzplätze in der 2. Klasse des Zuges. Den genauen Sitzplatz entnehmen Sie bitte Ihrer Lufthansa Bordkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/enthaelt-meine-lufthansa-express-rail-buchung-eine-sitzplatzreservierung)
 
@@ -6091,7 +6091,7 @@ Lufthansa Express Rail ist ein Angebot der Lufthansa. Bitte wenden Sie sich desh
 * Telefonisch rund um die Uhr unter [069 86799799](tel:069 86799799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
 * Online unter [lufthansa.com](https://www.lufthansa.com/de/de/lufthansa-express-rail)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitere-fragen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitere-fragen-lufthansa-express-rail)
 
  Welche Angaben sind in einem formlosen Schreiben an das Servicecenter Fahrgastrechte erforderlich?
 ----------
@@ -6497,7 +6497,7 @@ Ihr gebuchtes Handy-Ticket wird direkt in der App gespeichert.
  Wie checke ich für Lufthansa Express ein bzw. wie erhalte ich meine Fahrkarte?
 ----------
 
-Mit Lufthansa Express Rail können Sie ab 23 Stunden vor Abflug und bis 15 Minuten vor Abfahrt des Zuges online oder mobil bei Lufthansa einchecken. Sie erhalten jeweils eine Bordkarte für Zug und Flug. Die Bordkarte für den Zug ist Ihre ICE-Fahrkarte, diese ist nur für die aufgedruckte Verbindung gültig. Die Nutzung einer anderen Verbindung ist nicht gestattet.
+Mit Lufthansa Express Rail können Sie ab 30 Stunden vor Abflug und bis 15 Minuten vor Abfahrt des Zuges online oder mobil bei Lufthansa einchecken. Sie erhalten jeweils eine Bordkarte für Zug und Flug. Die Bordkarte für den Zug ist Ihre ICE-Fahrkarte. Diese ist nur für die aufgedruckte Verbindung gültig. Die Nutzung einer anderen Verbindung ist nicht gestattet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-checke-ich-fuer-lufthansa-express-ein-bzw-wie-erhalte-ich-meine-fahrkarte)
 
