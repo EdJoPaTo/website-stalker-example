@@ -1,8 +1,8 @@
 StarLite
 
-Compact yet powerful; your perfect partner in every journey.
+ Compact yet powerful; your perfect partner in every journey.
 
-Intel Alder Lake
+Intel Processor
 
 N350
 

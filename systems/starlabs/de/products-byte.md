@@ -57,7 +57,7 @@ AU Plug  Type I
 
 Operating System
 
- Ubuntu 24.04  elementary OS 8.1  Fedora 43  Linux Mint 22.3 Cinnamon  Manjaro 26 XFCE  Zorin OS 18 Core  Qubes 4.2.4  MX Linux 25.1 XFCE  None  Linux Mint 22.3 MATE  Linux Mint 22.3 XFCE  Manjaro 26 GNOME  Manjaro 26 Plasma  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)  Zorin OS 18 Pro (+ €13,37)
+ Ubuntu 26.04  elementary OS 8.1  Fedora 43  Linux Mint 22.3 Cinnamon  Manjaro 26 XFCE  Zorin OS 18 Core  Qubes 4.2.4  MX Linux 25.1 XFCE  None  Linux Mint 22.3 MATE  Linux Mint 22.3 XFCE  Manjaro 26 GNOME  Manjaro 26 Plasma  Windows 11 Home (+ €13,37)  Windows 11 Professional (+ €13,37)  Zorin OS 18 Pro (+ €13,37)
 
  Additional Storage
 

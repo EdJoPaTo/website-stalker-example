@@ -43,8 +43,8 @@ Browse our range
 
 [StarBook Ultra €13,37 €13,37 Dispatch in 7 - 8 business days](/products/starbook-ultra)
 
-More than just a licence.
+Built for ownership.
 
- A machine you can craft to suit your workflow with our ever-evolving open-source code, that's upstreamed and tuned to perfection. Combined with our unbeatable support, the experience will exceed expectations.
+ Open firmware, long-term support, and repairable hardware are part of the product, not an afterthought.
 
-[Why choose us?](/pages/why-choose-us)
+[About Star Labs](/pages/about-us)
