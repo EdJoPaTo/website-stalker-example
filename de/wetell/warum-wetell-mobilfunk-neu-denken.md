@@ -4,7 +4,8 @@ Mobilfunk neu denken
 Aktiv fürs Klima
 ----------
 
-Wir denken Mobilfunk neu – klimafreundlich und regenerativ. Mit einem innovativen Klimaschutzkonzept, CO<sub>2</sub>-Kompensation durch Pflanzenkohle und Investitionen in Erneuerbare Energien gehen wir über die üblichen Ansätze hinaus. Unser Ziel: Den Mobilfunk klimaneutral gestalten und aktiv zur Energiewende beitragen.
+Wie wird Mobilfunk maximal klimafreundlich? Das ist eine der zentralen Fragen, mit der wir uns seit Gründung von WEtell beschäftigen. Dafür haben wir uns ein Klimaschutzkonzept ausgedacht, dass wir immer wieder erweitern und verbessern.
+Wir vermeiden das Entstehen von CO2-Emissionen, wo wir können, gleichen entstehende Emissionen aus und investieren zusätzlich in Erneuerbare Energien.
 
 * #### Regeneratives Wirtschaften ####
 
