@@ -5,6 +5,17 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
+ Shelly Smart Control for iOS 1.8.2 (69) – Widget Issue
+----------
+
+ After updating to **Shelly Smart Control for iOS version 1.8.2 (69)**, some Home Screen widgets may appear empty or stop working as expected. In some cases, widgets may need to be configured again.
+
+---
+
+ For step-by-step instructions, please open the article below.
+
+[Shelly Smart Control iOS 1.8.2 (69) – Widget Reconfiguration](https://allterco.freshdesk.com/en/support/solutions/articles/103000399549-shelly-smart-control-ios-1-8-2-69-widget-reconfiguration)
+
  GEN1 Upgrade Program – Voucher Usage Notice
 ----------
 

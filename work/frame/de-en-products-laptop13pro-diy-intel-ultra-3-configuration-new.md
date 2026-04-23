@@ -214,29 +214,30 @@ Keyboard
 
 * German - Graphite  Not available with your other selected options. Reload page to reset.
 * US English - Graphite  Not available with your other selected options. Reload page to reset.
+* US English - Graphite - Gray/Black  Not available with your other selected options. Reload page to reset. +€10
+* US English - Graphite - Lavender/Black  Not available with your other selected options. Reload page to reset. +€10
+* International English - Graphite  Not available with your other selected options. Reload page to reset.
+* British English - Graphite  Not available with your other selected options. Reload page to reset.
+* French - Graphite  Not available with your other selected options. Reload page to reset.
 * Swedish/Finnish - Graphite  Not available with your other selected options. Reload page to reset.
 * Slovenian/Croatian - Graphite  Not available with your other selected options. Reload page to reset.
-* Clear ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
-* British English - Graphite  Not available with your other selected options. Reload page to reset.
-* Blank ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
-* Clear ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
 * Belgian - Graphite  Not available with your other selected options. Reload page to reset.
-* US English - Graphite - Gray/Black  Not available with your other selected options. Reload page to reset. +€10
 * Hungarian - Graphite  Not available with your other selected options. Reload page to reset.
 * Swiss - Graphite  Not available with your other selected options. Reload page to reset.
 * Japanese - Graphite  Not available with your other selected options. Reload page to reset.
 * Italian - Graphite  Not available with your other selected options. Reload page to reset.
 * Portuguese - Graphite  Not available with your other selected options. Reload page to reset.
-* US English - Graphite - Lavender/Black  Not available with your other selected options. Reload page to reset. +€10
+* Norwegian - Graphite  Not available with your other selected options. Reload page to reset.
 * Danish - Graphite  Not available with your other selected options. Reload page to reset.
 * Traditional Chinese - Graphite  Not available with your other selected options. Reload page to reset.
 * Czech/Slovak - Graphite  Not available with your other selected options. Reload page to reset.
-* French - Graphite  Not available with your other selected options. Reload page to reset.
 * Spanish (Spain) - Graphite  Not available with your other selected options. Reload page to reset.
 * French Canadian - Graphite  Not available with your other selected options. Reload page to reset.
-* Blank ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
 * Spanish (Latin American) - Graphite  Not available with your other selected options. Reload page to reset.
-* International English - Graphite  Not available with your other selected options. Reload page to reset.
+* Blank ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
+* Clear ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
+* Blank ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
+* Clear ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
 
 **Power Adapter**
 
