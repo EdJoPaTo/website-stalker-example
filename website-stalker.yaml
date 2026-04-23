@@ -336,12 +336,12 @@ sites:
 
   - url:
       - https://de.starlabs.systems/
+      - https://de.starlabs.systems/collections/accessories
+      - https://de.starlabs.systems/collections/laptops
+      - https://de.starlabs.systems/pages/about-us
       - https://de.starlabs.systems/pages/byte
-      - https://de.starlabs.systems/pages/byte-specification
       - https://de.starlabs.systems/pages/starbook-horizon
-      - https://de.starlabs.systems/pages/starbook-horizon-specification
       - https://de.starlabs.systems/pages/starlite
-      - https://de.starlabs.systems/pages/starlite-specification
       - https://de.starlabs.systems/products/byte
       - https://de.starlabs.systems/products/starbook-horizon
       - https://de.starlabs.systems/products/starlite
@@ -352,6 +352,14 @@ sites:
       - regex_replace:
           pattern: '€[\d. ]+,\d{2}'
           replace: "€13,37"
+  - url:
+      - https://de.starlabs.systems/pages/byte-specification
+      - https://de.starlabs.systems/pages/starbook-horizon-specification
+      - https://de.starlabs.systems/pages/starlite-specification
+    editors:
+      - css_select: 'script[type="application/json"]#specification-products-data'
+      - html_textify
+      - json_prettify
 
   - url:
       - https://frame.work/de/en

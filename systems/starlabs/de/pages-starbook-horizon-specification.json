@@ -1,0 +1,714 @@
+{
+	"products": [
+		{
+			"handle": "starbook-horizon",
+			"option_label": "StarBook Horizon",
+			"specification": {
+				"compare": {
+					"audio": [
+						{
+							"rows": [
+								{
+									"label": "Output",
+									"value": "2.5W Stereo Speakers"
+								},
+								{
+									"label": "Microphones",
+									"value": "Dual Digital Microphone"
+								}
+							]
+						}
+					],
+					"battery_and_power": [
+						{
+							"rows": [
+								{
+									"label": "Battery life",
+									"value": "Up to 14 hours"
+								},
+								{
+									"label": "Battery",
+									"value": "45Wh user-replaceable lithium-ion battery"
+								},
+								{
+									"label": "Charger",
+									"value": "65W USB-C Power Adapter"
+								},
+								{
+									"label": "Charging",
+									"value": "Power Delivery 3.0"
+								},
+								{
+									"label": "Minimum wattage",
+									"value": "30W"
+								}
+							]
+						}
+					],
+					"bluetooth": [
+						{
+							"rows": [
+								{
+									"label": "Version",
+									"value": "Bluetooth 5.3"
+								}
+							]
+						}
+					],
+					"camera": [
+						{
+							"rows": [
+								{
+									"label": "Primary",
+									"value": "1080p 60fps HD camera"
+								},
+								{
+									"label": "Secondary",
+									"value": "—"
+								},
+								{
+									"label": "Privacy",
+									"value": "Physical Webcam Cover"
+								}
+							]
+						}
+					],
+					"chassis": [
+						{
+							"rows": [
+								{
+									"label": "Material",
+									"value": "6061 Aluminium"
+								},
+								{
+									"label": "Finish",
+									"value": "Type II Pantone 433 anodised"
+								},
+								{
+									"label": "Treatment",
+									"value": "Sand blasted"
+								}
+							]
+						}
+					],
+					"connectivity": [
+						{
+							"rows": [
+								{
+									"label": "Ports",
+									"value": "2 × USB-C\n1 × HDMI 2.1\n1 × USB-A"
+								},
+								{
+									"label": "USB-C version",
+									"value": "USB 3.2 Gen 2"
+								},
+								{
+									"label": "USB-C capability",
+									"value": "Power, Data and Video"
+								},
+								{
+									"label": "Card reader",
+									"value": "—"
+								},
+								{
+									"label": "Audio",
+									"value": "3.5mm combo jack"
+								}
+							]
+						}
+					],
+					"display": [
+						{
+							"rows": [
+								{
+									"label": "Size",
+									"value": "13.4-inch"
+								},
+								{
+									"label": "Technology",
+									"value": "LED-backlit IPS"
+								},
+								{
+									"label": "Resolution",
+									"value": "2520x1680"
+								},
+								{
+									"label": "PPI",
+									"value": "226"
+								},
+								{
+									"label": "Refresh rate",
+									"value": "90Hz"
+								},
+								{
+									"label": "Dimming",
+									"value": "10kHz PWM"
+								},
+								{
+									"label": "Brightness",
+									"value": "500cd/m²"
+								},
+								{
+									"label": "Aspect",
+									"value": "3:2"
+								},
+								{
+									"label": "Features",
+									"value": "Privacy Screen Protector"
+								}
+							]
+						}
+					],
+					"embedded_controller": [
+						{
+							"rows": [
+								{
+									"label": "Controller",
+									"value": "ITE 5570E"
+								}
+							]
+						}
+					],
+					"graphics": [
+						{
+							"rows": [
+								{
+									"label": "GPU",
+									"value": "Intel® UHD Graphics"
+								},
+								{
+									"label": "Frequency",
+									"value": "1.35GHz"
+								}
+							]
+						}
+					],
+					"keyboard": [
+						{
+							"rows": [
+								{
+									"label": "Backlit",
+									"value": "Included"
+								},
+								{
+									"label": "LED indicators",
+									"value": "Included"
+								}
+							]
+						}
+					],
+					"memory": [
+						{
+							"rows": [
+								{
+									"label": "Standard",
+									"value": "32GB"
+								},
+								{
+									"label": "Speed",
+									"value": "4800MT/s"
+								},
+								{
+									"label": "Type",
+									"value": "LPDDR5"
+								},
+								{
+									"label": "Form factor",
+									"value": "Onboard"
+								},
+								{
+									"label": "Configuration",
+									"value": "4 × 315 Ball"
+								}
+							]
+						}
+					],
+					"operating_requirements": [
+						{
+							"rows": [
+								{
+									"label": "Line voltage",
+									"value": "100V to 240V AC"
+								},
+								{
+									"label": "Frequency",
+									"value": "50Hz to 60Hz"
+								},
+								{
+									"label": "Operating temp",
+									"value": "5° to 40° C (41° to 104° F)"
+								},
+								{
+									"label": "Storage temp",
+									"value": "-20° to 60° C (-4° to 140° F)"
+								},
+								{
+									"label": "Humidity",
+									"value": "30% to 65% non-condensing"
+								},
+								{
+									"label": "Operating altitude",
+									"value": "3048 metres (10000 feet)"
+								},
+								{
+									"label": "Max storage altitude",
+									"value": "12192 metres (40000 feet)"
+								},
+								{
+									"label": "Max shipping altitude",
+									"value": "12192 metres (40000 feet)"
+								}
+							]
+						}
+					],
+					"processor": [
+						{
+							"rows": [
+								{
+									"label": "Processor",
+									"value": "8-core Intel i3-N305"
+								},
+								{
+									"label": "Base clock",
+									"value": "1.00GHz"
+								},
+								{
+									"label": "Turbo boost",
+									"value": "3.80GHz"
+								},
+								{
+									"label": "Smart cache",
+									"value": "6MB Smart Cache"
+								},
+								{
+									"label": "Cores",
+									"value": "8"
+								},
+								{
+									"label": "Threads",
+									"value": "8"
+								},
+								{
+									"label": "TDP",
+									"value": "15W"
+								},
+								{
+									"label": "PL2",
+									"value": "30W"
+								}
+							]
+						}
+					],
+					"security_features": [
+						{
+							"rows": [
+								{
+									"label": "Disk encryption",
+									"value": "TCG Opal 2.0"
+								},
+								{
+									"label": "Memory encryption",
+									"value": "Included"
+								},
+								{
+									"label": "BIOS lock",
+									"value": "Included"
+								},
+								{
+									"label": "Secure boot",
+									"value": "Included"
+								},
+								{
+									"label": "Measured boot",
+									"value": "Included"
+								},
+								{
+									"label": "TPM",
+									"value": "dTPM 2.0"
+								},
+								{
+									"label": "Intel ME",
+									"value": "Disabled"
+								}
+							]
+						}
+					],
+					"size_and_weight": [
+						{
+							"rows": [
+								{
+									"label": "Height",
+									"value": "1.5 cm (0.59 inches)"
+								},
+								{
+									"label": "Width",
+									"value": "29.5 cm (11.61 inches)"
+								},
+								{
+									"label": "Depth",
+									"value": "21.9 cm (8.62 inches)"
+								},
+								{
+									"label": "Weight",
+									"value": "1.1 kg (2.42 pounds)"
+								}
+							]
+						}
+					],
+					"storage": [
+						{
+							"heading": "PCIe Gen 3",
+							"rows": [
+								{
+									"label": "Key type",
+									"value": "M"
+								},
+								{
+									"label": "Size",
+									"value": "M2 2280"
+								},
+								{
+									"label": "Design",
+									"value": "Single-Sided"
+								}
+							]
+						}
+					],
+					"trackpad": [
+						{
+							"rows": [
+								{
+									"label": "Surface",
+									"value": "Glass"
+								},
+								{
+									"label": "Multi-touch support",
+									"value": "Included"
+								},
+								{
+									"label": "Type",
+									"value": "Clickpad"
+								}
+							]
+						}
+					],
+					"video_support": [
+						{
+							"rows": [
+								{
+									"label": "Output",
+									"value": "Built-in display + up to two external displays at 3840x2160 30Hz"
+								},
+								{
+									"label": "HDMI",
+									"value": "Up to 3840x2160 resolution at 60Hz"
+								},
+								{
+									"label": "DisplayPort",
+									"value": "Up to 3840x2160 resolution at 30Hz"
+								}
+							]
+						}
+					],
+					"what_s_in_the_box": [
+						{
+							"rows": [
+								{
+									"label": "",
+									"value": "13.4-inch StarBook Horizon"
+								},
+								{
+									"label": "",
+									"value": "65W USB-C Power Adapter"
+								},
+								{
+									"label": "",
+									"value": "USB-C to USB-C Charging Cable (2m)"
+								},
+								{
+									"label": "",
+									"value": "Detachable plug (UK, EU and US available)"
+								},
+								{
+									"label": "",
+									"value": "Protective Sleeve"
+								},
+								{
+									"label": "",
+									"value": "Quick Start Guide"
+								},
+								{
+									"label": "",
+									"value": "Screen Cleaning Cloth"
+								},
+								{
+									"label": "",
+									"value": "Pre-installed Privacy Screen Protector"
+								}
+							]
+						}
+					],
+					"wireless": [
+						{
+							"rows": [
+								{
+									"label": "Module",
+									"value": "Intel Wi-Fi 6E AX211"
+								},
+								{
+									"label": "Hardware switch",
+									"value": "Included"
+								},
+								{
+									"label": "Key type",
+									"value": "—"
+								},
+								{
+									"label": "Size",
+									"value": "1216"
+								}
+							]
+						}
+					]
+				},
+				"sections": [
+					{
+						"items": [
+							{
+								"detail": "Finish: Sand blasted<br />Material: 6061 Aluminium",
+								"summary": "Type II Pantone 433 anodised aluminium"
+							}
+						],
+						"key": "chassis",
+						"title": "Chassis"
+					},
+					{
+						"items": [
+							{
+								"detail": "Brightness: 500cd/m²<br />Type: IPS<br />Dimming: PWM (10kHz)<br />Colours: 1064.3M (8bit:2FRC)<br />Colour Depth (NTSC): 71%<br />Colour Depth (sRGB): 100%<br />Contrast Ratio: 1500:1<br />Haze: 0%<br />Coating: 3H Hard Coat",
+								"summary": "13.4-inch (diagonal) LED-backlit display with IPS technology<br />2520x1680 resolution at 226 pixels per inch<br />90Hz Refresh Rate<br />3:2 aspect ratio<br />Pre-installed Privacy Screen Protector"
+							}
+						],
+						"key": "display",
+						"title": "Display"
+					},
+					{
+						"items": [
+							{
+								"detail": "8 Cores<br />8 Threads<br />15W TDP<br />30W PL2",
+								"summary": "1.00GHz 8-core Intel Alder Lake i3-N305<br />Turbo Boost up to 3.80GHz, with 6MB Smart Cache"
+							}
+						],
+						"key": "processor",
+						"title": "Processor"
+					},
+					{
+						"items": [
+							{
+								"detail": "Key Type: M<br />Size: M2 2280<br />Design: Single-Sided",
+								"summary": "PCIe Gen 3 SSD"
+							}
+						],
+						"key": "storage",
+						"title": "Storage"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "coreboot<br /><a href=\"/pages/coreboot-options\" class=\"fancy\">Configurable options</a>"
+							}
+						],
+						"key": "firmware",
+						"title": "Firmware"
+					},
+					{
+						"items": [
+							{
+								"detail": "TPM 2.0: Infineon OPTIGA™ SLB9670",
+								"summary": "TCG Opal hardware encryption support<br />Total Memory Encryption<br />BIOS Lock<br />Secure Boot<br />Measured Boot<br />TPM 2.0<br />Disabled Intel Management Engine"
+							}
+						],
+						"key": "security_features",
+						"title": "Security Features"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "32GB of 4800MT/s LPDDR5 onboard memory"
+							}
+						],
+						"key": "memory",
+						"title": "Memory"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "Intel® UHD Graphics<br />1.35GHz Frequency"
+							}
+						],
+						"key": "graphics",
+						"title": "Graphics"
+					},
+					{
+						"items": [
+							{
+								"detail": "HDMI Version: 2.1<br />USB-C version: 3.2 Gen 2<br />USB-C Interface: DisplayPort (DP Alt Mode)<br />Power Delivery: 3.0",
+								"summary": "<span class=\"alpha fancy\">Left</span><br />HDMI<br />USB Type-C (10 Gbps)"
+							},
+							{
+								"detail": "3.5mm support: Headphone/Microphone<br />USB version: 3.2 Gen 2 (up to 10 Gbps)",
+								"summary": "<span class=\"alpha fancy\">Right</span><br />USB Type-A 3.2 Gen 2 (up to 10Gbps)<br />USB Type-C 3.2 Gen 2 (up to 10Gbps)<br />3.5mm Combination Jack"
+							}
+						],
+						"key": "connectivity",
+						"title": "Connectivity"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "Backlit keyboard with LED indicators"
+							}
+						],
+						"key": "keyboard",
+						"title": "Keyboard"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "Glass clickpad with precise cursor control and Multi-Touch gestures"
+							}
+						],
+						"key": "trackpad",
+						"title": "Trackpad"
+					},
+					{
+						"items": [
+							{
+								"detail": "802.11ax Wi-Fi; Up to 2.4 Gbps<br />802.11ac/a/b/g/n compatible",
+								"summary": "Intel Wi-Fi 6E AX211<br />Hardware Kill Switch"
+							}
+						],
+						"key": "wireless",
+						"title": "Wireless"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "Bluetooth 5.3"
+							}
+						],
+						"key": "bluetooth",
+						"title": "Bluetooth"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "1080p camera<br />Physical Webcam Cover"
+							}
+						],
+						"key": "camera",
+						"title": "Camera"
+					},
+					{
+						"items": [
+							{
+								"detail": "Up to 3840x2160 resolution at 60Hz using HDMI<br />Up to 3840x2160 resolution at 30Hz using Display Port",
+								"summary": "Simultaneously supports full native resolution on the built-in display and:<br />Up to two displays with 3840x2160 resolution at 30Hz"
+							}
+						],
+						"key": "video_support",
+						"title": "Video Support"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "Stereo Speakers<br />Dual Digital Microphone"
+							}
+						],
+						"key": "audio",
+						"title": "Audio"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "ITE 5570E"
+							}
+						],
+						"key": "embedded_controller",
+						"title": "Embedded Controller"
+					},
+					{
+						"items": [
+							{
+								"detail": "Technology: Power Delivery 3.0",
+								"summary": "Up to 14 hours battery life<br />45-watt-hour user-replaceable lithium-ion battery<br />65w USB-C Power Adapter"
+							}
+						],
+						"key": "battery_and_power",
+						"title": "Battery and Power"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "Line voltage: 100V to 240V AC<br />Frequency: 50Hz to 60Hz<br />Operating temperature: 5° to 40° C (41° to 104° F)<br />Storage temperature: -20° to 60° C (-4° to 140° F)<br />Relative humidity: 30% to 65% non-condensing<br />Operating altitude: tested up to 3048 metres (10000 feet)<br />Maximum storage altitude: 12192 metres (40000 feet)<br />Maximum shipping altitude: 12192 metres (40000 feet)"
+							}
+						],
+						"key": "operating_requirements",
+						"title": "Operating Requirements"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "Height: 1.5 cm (0.59 inches)<br />Width: 29.5 cm (11.61 inches)<br />Depth: 21.9 cm (8.62 inches)<br />Weight: 1.1 kg (2.42 pounds)"
+							}
+						],
+						"key": "size_and_weight",
+						"title": "Size and Weight"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "Distributions using Linux 6.2 or later<br />Windows 11 22H1 (64-bit) or later"
+							}
+						],
+						"key": "operating_system",
+						"title": "Operating System"
+					},
+					{
+						"items": [
+							{
+								"detail": "Quick Start Guide<br />Screen Cleaning Cloth<br />Pre-installed Privacy Screen Protector",
+								"summary": "13.4-inch StarBook Horizon<br />65W USB-C Power Adapter<br />USB-C to USB-C Charging Cable (2m)<br />Detachable plug (UK, EU and US available)<br />Protective Sleeve"
+							}
+						],
+						"key": "what_s_in_the_box",
+						"title": "What's in the Box"
+					},
+					{
+						"items": [
+							{
+								"detail": "",
+								"summary": "One-year limited warranty<br />One-year limited technical support"
+							}
+						],
+						"key": "limited_warranty_and_service",
+						"title": "Limited Warranty and Service"
+					}
+				],
+				"sheet": "Chassis! Type II Pantone 433 anodised aluminium! Finish: Sand blasted+ Material: 6061 Aluminium$\n\nDisplay! 13.4-inch (diagonal) LED-backlit display with IPS technology+ 2520x1680 resolution at\n226 pixels per inch+ 90Hz Refresh Rate+ 3:2 aspect ratio+ Pre-installed Privacy Screen\nProtector!\n\nBrightness: 500cd/m²+ Type: IPS+ Dimming: PWM (10kHz)+ Colours: 1064.3M (8bit:2FRC)+ Colour\nDepth (NTSC): 71%+ Colour Depth (sRGB): 100%+ Contrast Ratio: 1500:1+ Haze: 0%+ Coating: 3H Hard\nCoat$\n\nProcessor! 1.00GHz 8-core Intel Alder Lake i3-N305+ Turbo Boost up to 3.80GHz, with 6MB Smart\nCache! 8 Cores+ 8 Threads+ 7W TDP+ 25W PL2$\n\nStorage! 2TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+ Write Speed (CDM): 3030MB/s+ Key Type:\nM+ Size: M2 2280+ Design: Single-Sided$\n\nFirmware! coreboot+ <a href=\"/pages/coreboot-options\" class=\"fancy\">Configurable options</a>$\n\nSecurity Features! TCG Opal hardware encryption support+ Total Memory Encryption+ BIOS Lock+\nSecure Boot+ Measured Boot+ TPM 2.0+ Disabled Intel Management Engine! TPM 2.0: Infineon\nOPTIGA™ SLB9670$\n\nMemory! 32GB of 4800MT/s LPDDR5 onboard memory$\n\nGraphics! Intel® UHD Graphics+ 1.35GHz Frequency$\n\nConnectivity!\n\n<span class=\"alpha fancy\">Left</span>+ HDMI+ USB Type-C (10 Gbps)! HDMI Version: 2.1+ USB-C\nversion: 3.2 Gen 2+ USB-C Interface: DisplayPort (DP Alt Mode)+ Power Delivery: 3.0!\n\n<span class=\"alpha fancy\">Right</span>+ USB Type-A 3.2 Gen 2 (up to 10Gbps)+ USB Type-C 3.2 Gen\n2 (up to 10Gbps)+ 3.5mm Combination Jack!\n\n3.5mm support: Headphone/Microphone+ USB version: 3.2 Gen 2 (up to 10 Gbps)$\n\nKeyboard and Trackpad! Backlit keyboard+ Glass trackpad for precise cursor control and\nMulti-Touch gestures$\n\nWireless! Intel Wi-Fi 6E AX211+ Hardware Kill Switch! 802.11ax Wi-Fi; Up to 2.4 Gbps+\n802.11ac/a/b/g/n compatible$\n\nBluetooth! Bluetooth 5.3$\n\nCamera! 1080p camera+ Physical Webcam Cover$\n\nVideo Support! Simultaneously supports full native resolution on the built-in display and:+ Up\nto two displays with 3840x2160 resolution at 30Hz! Up to 3840x2160 resolution at 60Hz using\nHDMI+ Up to 3840x2160 resolution at 30Hz using Display Port$\n\nAudio! Stereo Speakers+ Dual Digital Microphone$\n\nEmbedded Controller! ITE 5570E$\n\nBattery and Power! Up to 14 hours battery life+ 45-watt-hour user-replaceable lithium-ion\nbattery+ 65w USB-C Power Adapter! Technology: Power Delivery 3.0$\n\nOperating Requirements! Line voltage: 100V to 240V AC+ Frequency: 50Hz to 60Hz+ Operating\ntemperature: 5° to 40° C (41° to 104° F)+ Storage temperature: -20° to 60° C (-4° to 140° F)+\nRelative humidity: 30% to 65% non-condensing+ Operating altitude: tested up to 3048 metres\n(10000 feet)+ Maximum storage altitude: 12192 metres (40000 feet)+ Maximum shipping altitude:\n12192 metres (40000 feet)$\n\nSize and Weight! Height: 1.5 cm (0.59 inches)+ Width: 29.5 cm (11.61 inches)+ Depth: 21.9 cm\n(8.62 inches)+ Weight: 1.1 kg (2.42 pounds)$\n\nOperating System!\n\n\tDistributions using Linux 6.2 or later+ Windows 11 22H1 (64-bit) or later$\n\n\nWhat's in the Box! 13.4-inch StarBook Horizon+ Pre-installed Privacy Screen Protector+ 65W USB‑C\nPower Adapter+ USB-C to USB-C Charging Cable (2m)+ Detachable plug (UK, EU, US and AU\navailable)! Quick Start Guide+ Protective Sleeve+ Screen Cleaning Cloth$\n\nLimited Warranty and Service! One-year limited warranty+ One-year limited technical support"
+			}
+		}
+	]
+}
