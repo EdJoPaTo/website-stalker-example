@@ -171,6 +171,22 @@ IN DEINER NÄHE!
 |      BREMEN      |23/05/2026|
 |WESERBERGLAND B.N.|13/06/2026|
 |  WESERBERGLAND   |13/06/2026|
+|    MITTERSILL    |20/06/2026|
+|    DÜSSELDORF    |04/07/2026|
+|DÜSSELDORF (25KM) |04/07/2026|
+|      ERFURT      |11/07/2026|
+| RUHRGEBIET B. N. |25/07/2026|
+|  HAMBURG B. N.   |08/08/2026|
+|   BERLIN B.N.    |29/08/2026|
+|    STUTTGART     |05/09/2026|
+|       KÖLN       |19/09/2026|
+|     FREIBURG     |26/09/2026|
+| FREIBURG (25KM)  |26/09/2026|
+|       BERN       |03/10/2026|
+|    FRANKFURT     |10/10/2026|
+|      RÜGEN       |17/10/2026|
+|   SCHAFFHAUSEN   |24/10/2026|
+|     NÜRNBERG     |07/11/2026|
 
 #### Finde einen Megamarsch in deiner nähe! ####
 
