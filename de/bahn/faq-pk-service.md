@@ -1736,7 +1736,7 @@ Bei den Verkehrsleistungsdaten, also wie viele Personen wie viele Kilometer in d
  Enthält meine Lufthansa Express Rail Buchung eine Sitzplatzreservierung?
 ----------
 
-Ja, Lufthansa Express Rail enthält eine Sitzplatzreservierung. Als Gast der Lufthansa First Class und Business Class sind Sitzplätze in der 1. Klasse des Zuges für Sie reserviert. Wenn Sie in der Lufthansa Premium Economy oder Economy Class reisen, finden Sie Ihre reservierten Sitzplätze in der 2. Klasse des Zuges. Den genauen Sitzplatz entnehmen Sie bitte Ihrer Lufthansa Bordkarte.
+Ja, Lufthansa Express Rail enthält eine Sitzplatzreservierung. Als Gast der Lufthansa First Class und Business Class sind Sitzplätze in der 1. Klasse des Zuges für Sie reserviert. Wenn Sie in der Lufthansa Premium Economy oder Economy Class reisen, finden Sie Ihre reservierten Sitzplätze in der 2. Klasse des Zuges. Der genaue Sitzplatz steht auf Ihrer Lufthansa Bordkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/enthaelt-meine-lufthansa-express-rail-buchung-eine-sitzplatzreservierung)
 
@@ -5878,7 +5878,7 @@ Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen, aber 
  Was muss ich bezüglich meines Gepäcks bei Lufthansa Express Rail beachten?
 ----------
 
-Als Lufthansa Express Rail Reisender sind Sie für Ihr Gepäck während der Zugfahrt bis zur Abgabe im AiRail Terminal am Frankfurter Flughafen (Übergang vom Fernbahnhof zum Terminal 1) selbst verantwortlich. Bei Ihrer Rückreise erhalten Sie Ihr Gepäck nach Ihrer Landung in Frankfurt an der Gepäckausgabe des AiRail Terminals und nehmen es direkt mit in Ihren Zug.
+Als Lufthansa Express Rail Reisender sind Sie für Ihr Gepäck selbst verantwortlich während der Zugfahrt bis zur Abgabe im AiRail Terminal am Frankfurter Flughafen (Übergang vom Fernbahnhof zum Terminal 1). Bei Ihrer Rückreise erhalten Sie Ihr Gepäck nach Ihrer Landung in Frankfurt an der Gepäckausgabe des AiRail Terminals und nehmen es direkt mit in Ihren Zug.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-muss-ich-bezueglich-meines-gepaecks-beachten)
 
@@ -6088,8 +6088,8 @@ Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen
 
 Lufthansa Express Rail ist ein Angebot der Lufthansa. Bitte wenden Sie sich deshalb bei weiteren Fragen sowie bei Anliegen bezüglich Ihrer Buchung direkt an die Lufthansa:
 
-* Telefonisch rund um die Uhr unter [069 86799799](tel:069 86799799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
-* Online unter [lufthansa.com](https://www.lufthansa.com/de/de/lufthansa-express-rail)
+* telefonisch rund um die Uhr unter [069 86799799](tel:069 86799799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
+* online unter [lufthansa.com](https://www.lufthansa.com/de/de/lufthansa-express-rail)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitere-fragen-lufthansa-express-rail)
 
@@ -6461,7 +6461,9 @@ Ihre digitale BahnBonus Karte finden Sie direkt in der BahnBonus App. Die digita
  Wie buche ich das Angebot Lufthansa Express Rail?
 ----------
 
-Die Buchung erfolgt in einem Schritt mit dem Flug über alle Lufthansa Vertriebskanäle. Buchen Sie dazu die Flugreise einfach ab einer der 27 Express Rail Städte. Dies ist z.B. möglich über:
+Die Buchung erfolgt in einem Schritt mit dem Flug über alle Lufthansa Vertriebskanäle. Buchen Sie dazu die Flugreise einfach ab einer der 27 Express Rail Städte.
+
+Buchungsmöglichkeiten:
 
 * in Ihrem Reisebüro
 * rund um die Uhr telefonisch bei Lufthansa unter [069 86 799 799](tel:069 86 799 799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
