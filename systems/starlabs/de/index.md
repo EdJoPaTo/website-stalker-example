@@ -33,11 +33,11 @@ Browse our range
 
 [](/products/starbook-horizon)
 
-[StarBook Horizon €13,37 Dispatch in 3 - 4 business days](/products/starbook-horizon)
+[StarBook Horizon €13,37 Dispatch in 1 - 2 business days](/products/starbook-horizon)
 
 [](/products/starfighter)
 
-[StarFighter €13,37 Dispatch in 3 - 4 business days](/products/starfighter)
+[StarFighter €13,37 Dispatch in 1 - 2 business days](/products/starfighter)
 
 [](/products/starbook-ultra)
 

@@ -105,7 +105,7 @@ USB-C to USB-A Adapter (480Mbps)
 
 Dispatch in
 
- 3 - 4 business days
+ 1 - 2 business days
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
