@@ -5413,13 +5413,6 @@ Mit dieser Vereinfachung zieht die DB Fernverkehr AG mit anderen Vorteilsprogram
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-pauschalversteuerung)
 
- Warum sind die Tageszeitungen im ICE Portal in der 2. Klasse kostenpflichtig?
-----------
-
-Kostenfreie Tageszeitungen sind ein spezieller Service der 1. Klasse. Im digitalen Zeitungskiosk finden Sie jedoch unabhängig von der Reiseklasse eine umfangreiche Auswahl hochwertiger, kostenfreier Magazine.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-sind-die-tageszeitungen-in-der-2-klasse-kostenpflichtig)
-
  Warum wird im ICE Portal die Bestellfunktion in der 1. Klasse nicht immer angeboten?
 ----------
 
@@ -5551,7 +5544,7 @@ Ihre Statuspunkte sind nicht einlösbar, da diese nur zum Erreichen des [BahnBon
  Was bietet die Kategorie „Zeitungen & Magazine“ im ICE Portal?
 ----------
 
-In der Kategorie „Zeitungen & Magazine“ bieten wir Ihnen eine kostenfreie Auswahl an regelmäßig wechselnden Magazinen. Unsere 1. Klasse Fahrgäste erhalten zudem ein exklusives Angebot an kostenfreien Tageszeitungen (BILD, Süddeutsche, Handelsblatt, FAZ, Welt, FAS, BAMS und WAMS). Darüber hinaus werden weitere Titel kostenpflichtig angeboten.
+In der Kategorie „Zeitungen & Magazine“ bieten wir Ihnen eine kostenfreie Auswahl an regelmäßig wechselnden Magazinen. Unsere 1. Klasse Fahrgäste erhalten zudem ein exklusives Angebot an kostenfreien Tageszeitungen (BILD, Süddeutsche, Handelsblatt, FAZ, Welt, FAS, BAMS und WAMS).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bietet-die-kategorie-zeitungen-magazine-im-ice-portal)
 
@@ -5621,13 +5614,6 @@ Die Lösung aus dem Umfeld der **Deutschen Bahn** steht Kunden auch als **[Zahl
 * [Mehr Informationen zu Bonvoyo erhalten Sie auf der folgenden Seite.](https://www.bonvoyo.de/benefit)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-bonvoyo)
-
- Was ist das Connectivity Radar im ICE Portal?
-----------
-
-Das Connectivity Radar zeigt die aktuelle Internet-Verbindungsqualität des Bord-WLAN Systems an. Weiterhin wird eine Prognose ausgegeben, wie sich die Qualität der Internet-Verbindung in der nächsten Zeit auf dem Fahrtverlauf verändern wird. Dieser Service ermöglicht den Reisenden, die aktuelle und künftige Internetverbindung besser einschätzen zu können, um die Zeit an Bord bestmöglich planen zu können. Mittels verschiedener Status wird eine schnelle, langsame oder wechselhafte Internet-Verbindungsgeschwindigkeit angezeigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-connectivity-radar)
 
  Was ist der BahnBonus Statusservice?
 ----------
@@ -6289,13 +6275,6 @@ Mit Schwerbehindertenausweis mit Merkzeichen "B" und Wertmarke reisen Sie im Nah
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vorteile-wenn-begleitperson-mit-angegeben-wird)
-
- Welche Zahlungsmittel kann ich im ICE Portal für kostenpflichtige Zeitungen und Magazine nutzen?
-----------
-
-Sie können mit Kreditkarte, PayPal oder SEPA-Lastsschrift bezahlen. Der Betrag wird dann vom jeweiligen Zahlungsmittel abgebucht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-zahlungsmittel-kann-ich-fuer-kostenpflichtige-zeitungen-und-magazine-nutzen)
 
  Welchen Vorteil habe ich von der Anmeldung zur E-Mail-Kommunikation?
 ----------
@@ -8058,13 +8037,6 @@ Falls ein Ticket nicht angezeigt wird oder Sie es nicht über Ihr DB Kundenkonto
 * [Deutschland-Ticket in die App laden](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-gebuchten-tickets)
-
- Wo findet man das Connectivity Radar im ICE Portal?
-----------
-
-Das Connectivity Radar befindet sich direkt auf der Startseite des ICE Portals und kann entweder über den weißen Hinweiskasten oder das WLAN-Symbol in der Zuglaufleiste abgefragt werden. Weiterhin wird die Information zur Internet-Verbindungsqualität des WLAN Systems auch in der Zuglaufleiste angezeigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-findet-man-das-connectivity-radar)
 
  Wo gelten die Sitzplatzreservierungen?
 ----------
