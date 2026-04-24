@@ -53,7 +53,7 @@ So einfach aktivierst du deine eSIM
 Deine eSIM bei WEtell zu aktivieren ist ganz einfach. Befolge diese Schritte und schon bist du startklar:
 
 1. Bestelle deine eSIM im [Kund\*innen-Portal](https://mein.wetell.de/anmelden).
-2. Du erhältst eine E-mail, sobald die eSIM zum Download bereit steht.
+2. Du erhältst eine E-Mail, sobald die eSIM zum Download bereit steht.
 3. Entferne deine alte SIM-Karte oder lösche die alte eSIM vom Gerät.
 4. Starte dein Handy einmal komplett neu.
 5. Scanne den QR-Code mit deinem Smartphone oder einem Gerät, das eSIM unterstützt.
