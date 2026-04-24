@@ -141,6 +141,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly BLU H&T Display ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-h-t-display-zb)
 * [Shelly BLU RC Button 4 ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-rc-button-4-zb)
 * [Shelly BLU Button Tough 1 ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-button-tough-1-zb)
+* [Shelly BLU Door/Window ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-door-window-zb)
 
  Shelly Android devices
 ----------
