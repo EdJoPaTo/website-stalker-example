@@ -10,7 +10,7 @@ Nur bis 31. Juli 2026
 
 ### Wir drücken den Preis. Sie Ihre Liebsten! ###
 
-BahnCard 50 zum Aktionspreis ab 199 €.
+Nur bis 31. Juli: BahnCard 50 zum Aktionspreis ab 199 €.
 
 [Zur Aktion Zur BahnCard Aktion](http://bahn.de/bc50aktion)
 
