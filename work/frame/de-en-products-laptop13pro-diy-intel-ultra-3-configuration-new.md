@@ -66,21 +66,21 @@ Close
 System
 
 * Ultra 5 325  Pre-order  €1,349
-  * Up to 4.5GHz, 8-core/8-thread
+  * Up to 4.5GHz, 4+4 core/8-thread
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
    
 
 * Ultra X7 358H  Pre-order  €1,799
-  * Up to 4.8GHz, 16-core/16-thread
+  * Up to 4.8GHz, 4+8+4 core/16-thread
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
    
 
 * Ultra X9 388H  Pre-order  €2,029
-  * Up to 5.1GHz, 16-core/16-thread
+  * Up to 5.1GHz, 4+8+4 core/16-thread
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
@@ -313,6 +313,15 @@ Choose colorAluminum - GraphiteAluminum - SilverPlastic - OrangePlastic - Lavend
 Choose colorAluminum - GraphiteAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GreenPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent OrangePlastic - Translucent GreenPlastic - Translucent PurplePlastic - Translucent BlackPlastic - Translucent Pink
 
  USB-A (2nd Gen)
+
+ Details
+
+ USB-A (2nd Gen) Expansion Card
+----------
+
+The USB-A (2nd Gen) Expansion Card detects when no devices are plugged in, letting the system reduce power consumption and improve battery life while giving you access to devices like keyboards, mice, thumb drives, and more using USB-A connections at up to USB 3.2 Gen 2 speeds. Available in silver and graphite.
+
+Close
 
 01234
 

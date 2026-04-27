@@ -17,7 +17,7 @@ For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functio
 * Touch screen
 * Stainless steel frame
 * The most stylish Pebble ever
-* [Three color options](/images/products/pr2-color-options.png)
+* [Three color options](/images/products/pr2-options.jpeg)
 * [Read the announcement](/blog/pebble-round-2-the-most-stylish-pebble-ever)
 
 $199
@@ -131,7 +131,7 @@ Don't want to pre-order? [Sign up for updates](/signup)
 
 Already placed a pre-order? [Manage your order](/manage)
 
-[Manage My Order](https://orders.repebble.com) · [Help](https://ndocs.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric) · [GitHub](https://github.com/coredevices)
+[Manage My Order](https://orders.repebble.com) · [Help](https://help.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric) · [GitHub](https://github.com/coredevices)
 
 © 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
 
