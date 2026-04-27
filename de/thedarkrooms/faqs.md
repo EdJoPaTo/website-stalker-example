@@ -10,7 +10,7 @@ TICKETS
 
 Brauche ich für den Besuch bei "The Dark Rooms" die Underground Card von Himmel Unter Berlin?
 
-Nein - "Himmel Unter Berlin" ist eine eigenständige Ausstellungsreihe - die wir 2025 fortsetzen. Für den Einlass bei "The Dark Rooms Hotel" benötigst Du nur ein gültiges, personalisiertes Ticket und einen Ausweis. Bitte hebe aber deine Underground Card auf. "Himmel Unter Berlin Vol.3" ist in Planung.#
+Nein - "Himmel Unter Berlin" ist eine eigenständige Ausstellungsreihe - die wir 2026 fortsetzen. Für den Einlass bei "The Dark Rooms Hotel" benötigst Du nur ein gültiges, personalisiertes Ticket und einen Ausweis. Bitte hebe aber deine Underground Card auf. "Himmel Unter Berlin Vol.3" ist in Planung.#
 
 Ich hab kein Ticket mehr bekommen - wie komme ich an eins?
 
@@ -64,7 +64,7 @@ Wir bitten Dich, 10 Minuten vor der angegeben Startzeit deines Tickets vor Ort z
 
 Wie lang dauert die Tour durch die Ausstellung?
 
-Die geschätzte Durchlauf-Dauer liegt bei ca. 90 Minuten.
+Die geschätzte Durchlauf-Dauer liegt bei ca. 90-120 Minuten.
 
 Gibt es einen Dresscode?
 

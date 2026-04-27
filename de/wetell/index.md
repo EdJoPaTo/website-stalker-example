@@ -129,8 +129,11 @@ Telefonisch – unter der
 
 Flexibel wie du.
 
-Unsere neuen Flex-Tarife:
-Volle Daten, wenn du sie brauchst. Geld zurück, wenn nicht.
+Du zahlst hier nicht nur für Daten.
+Sondern für fairen Mobilfunk, der Ressourcen schont.
+Und dich belohnt, wenn du weniger verbrauchst.
+
+Unsere neuen Flex-Tarife.
 
 * Fix-Tarife
 * Flex-Tarife
