@@ -180,6 +180,14 @@ Frequently asked questions
 
   If you are using Object Storage to store objects smaller than 64 kilobytes (KB), you should be aware that our minimum object size for billing purposes is 64 KB. You can store objects smaller than 64 KB in Object Storage, but if you store (for example) a 10 KB object, you will be charged as if it were a 64 KB object.
 
+* **Which use cases are a good fit for Object Storage?**
+
+  Our Object Storage service is a highly scalable and cost-effective solution for storing large amounts of data. The S3-compatible interface ensures broad compatibility with modern applications and tools.
+
+  While S3 is widely used for diverse workloads, our specific implementation is not ideal for all scenarios.
+
+  For more information please see [our documentation](https://docs.hetzner.com/storage/object-storage/faq/general/#object-storage-is-best-suited-for).
+
 Let us know more about your requirements for Object Storage?
 
  Which object storage features are necessary for you?

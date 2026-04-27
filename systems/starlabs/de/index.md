@@ -13,7 +13,7 @@ StarBook Horizon
 
 [Learn More](/pages/starbook-horizon) [Configure Now](/products/starbook-horizon)
 
-Open Firmware.
+ Open Firmware.
 
  Our computers run coreboot, an open-source firmware stack with transparent code paths and configurable behaviour.
 

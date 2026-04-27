@@ -16,7 +16,7 @@ Display 12.5-inch 3:2 touchscreen
 
 Weight 0.9 kg tablet / 1.6 kg with keyboard
 
-Processor Intel Processor N350
+Performance 8-core Intel N350
 
 Battery Up to 12 hrs
 
@@ -38,7 +38,7 @@ Display 13.4-inch 3:2 90Hz
 
 Weight 1.1 kg
 
-Processor Intel Processor N305
+Performance 8-core Intel N305
 
 Battery Up to 14 hrs
 
@@ -60,7 +60,7 @@ Display 16-inch 16:10, up to 4K 120Hz
 
 Weight 1.6 kg
 
-Processor Intel Core Ultra
+Performance Intel Ultra + 64GB LPDDR5X
 
 Battery Up to 18 hrs
 
@@ -98,7 +98,7 @@ See the key differences at a glance.
 |  Display   |                12.5-inch 3:2 touchscreen                |                     13.4-inch 3:2 90Hz                     |                        16-inch 16:10                         |
 |Form factor |               Tablet + magnetic keyboard                |                  Light clamshell portable                  |                 Full-size performance laptop                 |
 |   Weight   |           0.85 kg tablet, 1.5 kg with keyboard          |                           1.1 kg                           |                            1.6 kg                            |
-|Performance |             8-core Intel N350 + 16GB LPDDR5             |              8-core Intel N305 + 32GB LPDDR5               |                      16-core Intel Ultra                     |
+|Performance |             8-core Intel N350 + 16GB LPDDR5X            |              8-core Intel N305 + 32GB LPDDR5X              |              16-core Intel Ultra + 64GB LPDDR5X              |
 |  Battery   |                      Up to 12 hrs                       |                        Up to 14 hrs                        |                         Up to 18 hrs                         |
 |Why this one|   Touchscreen, pen-ready, and built for flexible work.  |       1.1kg, wireless kill switch, and webcam cover.       | AZ91D chassis, haptic trackpad, detachable camera/microphone.|
 |  Show more |                                                         |                                                            |                                                              |

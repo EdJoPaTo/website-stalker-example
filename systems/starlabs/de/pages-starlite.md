@@ -8,7 +8,7 @@ N350
 
 processor
 
-4800MT/s
+4800MT/s LPDDR5X
 
 16 GB
 

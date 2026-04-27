@@ -7544,21 +7544,19 @@ Sie sind eingeloggt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-mit-passkey-an)
 
- Wie nutze ich den DB Navigator zur Anzeige meines DB Abos?
+ Wie füge ich mein Abo im DB Navigator hinzu?
 ----------
+
+Falls Sie das Abo im DB Navigator für sich selbst gekauft haben, wird es direkt nach der Bestellung unter "Reisen" als neues Handy-Ticket hinzugefügt.​
+
+Ansonsten können Sie es folgendermaßen hinzufügen:​
 
 1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
 2. Wechseln Sie zum Bereich "Reisen", tippen Sie oben auf das Plus-Icon (+) und geben Sie Ihre Abonummer und Ihren Nachnamen ein.
-    Erhalten Sie eine der folgenden Fehlermeldungen?
+   Wenn Sie die Fehlermeldungen "Es konnte keine Übereinstimmung gefunden werden." erhalten, prüfen Sie bitte, ob Sie Ihre Abonummer und Ihren Nachnamen exakt wie in Ihrer Aktivierungsemail eingegeben haben.​
 
-   **2a** "Es konnte keine Übereinstimmung gefunden werden." Bitte prüfen Sie, ob Sie Ihre Abonummer und Ihren Nachnamen exakt wie in Ihrer Aktivierungsemail eingegeben haben.
-
-   **2b** "Es ist bereits mit einem anderen Benutzerkonto verknüpft." Aktualisieren Sie bitte auf die neueste Version der App. Mit der neuen Version ist ein Login nicht mehr notwendig und diese Fehlermeldung erscheint nicht mehr.
-
-Wenn dies nicht geklappt hat, kontaktieren Sie uns bitte mit einem Screenshot und einer Fehlerbeschreibung per E-Mail: [abo-mobile@bahn.de](mailto:abo-mobile@bahn.de).
-
+* [Weitere Tipps zum Abo als Handy-Ticket](https://www.bahn.de/faq/handyticket-zufuegen)
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-* [FAQ zum DB Kundenkonto](https://bahn.de/faq/pk/service/kundenkonto/login)
 * [Über die App](https://www.bahn.de/service/mobile/db-navigator)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
