@@ -111,6 +111,8 @@ FAQs
 
 Close
 
+LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) runs at speeds up to 7467 MT/s.
+
 Memory
 
 * LPCAMM2 - LPDDR5X - 16GB  Not available with your other selected options. Reload page to reset. +€269
