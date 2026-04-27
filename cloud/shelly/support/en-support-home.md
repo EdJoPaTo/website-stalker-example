@@ -16,6 +16,13 @@ Hi, how can we help you?
 
 [Shelly Smart Control iOS 1.8.2 (69) – Widget Reconfiguration](https://allterco.freshdesk.com/en/support/solutions/articles/103000399549-shelly-smart-control-ios-1-8-2-69-widget-reconfiguration)
 
+ Spring Sales Campaign – Voucher Restriction Notice
+----------
+
+ Please note that due to the ongoing **Spring Sales campaign**, all additional voucher discounts are temporarily restricted.
+
+ Voucher usage will be re-enabled once the campaign has concluded. Thank you for your understanding.
+
  GEN1 Upgrade Program – Voucher Usage Notice
 ----------
 
