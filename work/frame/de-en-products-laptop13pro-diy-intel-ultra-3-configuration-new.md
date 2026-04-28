@@ -66,21 +66,21 @@ Close
 System
 
 * Ultra 5 325  Pre-order  €1,349
-  * Up to 4.5GHz, 4+4 core/8-thread
+  * Up to 4.5GHz, 4+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
    
 
 * Ultra X7 358H  Pre-order  €1,799
-  * Up to 4.8GHz, 4+8+4 core/16-thread
+  * Up to 4.8GHz, 4+8+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
    
 
 * Ultra X9 388H  Pre-order  €2,029
-  * Up to 5.1GHz, 4+8+4 core/16-thread
+  * Up to 5.1GHz, 4+8+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
@@ -257,7 +257,7 @@ Power Adapter
 
 **Expansion Cards**
 
- Choose an option
+ Choose any number
 
  Batch Number  Configure to see batch
 
@@ -287,6 +287,9 @@ FAQs
   Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
 
 Close
+
+Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13 Pro.
+We suggest ordering 4 or more Expansion Cards, and that at least 1 is a USB-C Expansion Card for charging the laptop.
 
 Expansion Cards
 
