@@ -428,7 +428,7 @@ Das Handy-Ticket für Ihr digitales Abo wird Ihnen nach erfolgreicher Aktivierun
 
 Weitere Hilfestellung finden Sie hier: [Wie nutze ich den DB Navigator zur Anzeige meines DB Abos?](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
 
-Die Aktivierung kann sich verzögern, wenn eine Nachweisprüfung (z.B. für ein Schülerticket) oder eine Freigabe durch den Arbeitgeber (bei einem Jobticket) erforderlich ist oder eine Überprüfung im Abo-Center erfolgt.
+Die Aktivierung kann sich verzögern, wenn eine Nachweisprüfung (für ein Schülerticket) oder eine Freigabe durch den Arbeitgeber (bei einem Jobticket) erforderlich ist oder eine Überprüfung im Abo-Center erfolgt.
 
 Sie können den Bestellstatus aber bereits im DB Navigator anzeigen, **wenn Sie den Link** aus Ihrer Bestellbestätigung **auf Ihrem Smartphone anklicken**. So funktioniert es:
 
@@ -895,9 +895,9 @@ Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ti
 
 Bei Problemen mit Ihrem Onlinebanking-Login wenden Sie sich bitte an Ihre kontoführende Bank.
 
-Bei Problemen mit der Verifizierung über den ausgewählten Dienstleister, nutzen Sie zunächst eine alternative Verifizierungsoption, falls verfügbar.
+Bei Problemen mit der Verifizierung über den ausgewählten Dienstleister nutzen Sie zunächst eine alternative Verifizierungsoption, falls verfügbar.
 
-Ein Wechsel des Internetbrowsers oder der Wechsel zwischen App und Web-Version kann oft zur Lösung beitragen.
+Ein Wechsel des Internetbrowsers oder der Wechsel zwischen App- und Web-Version kann oft zur Lösung beitragen.
 
 Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den von Ihnen gewählten Verifizierungsdienstleister für weitere Unterstützung:
 
@@ -4961,6 +4961,15 @@ Ja. Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gebucht haben, wird es nach dem
 Falls ein Ticket nicht angezeigt wird oder Sie es ohne DB Kundenkonto gebucht haben, können Sie es manuell unter "Meine Reisen" über die Auftragssuche hinzufügen. Geben Sie dazu die Auftragsnummer und den Nachnamen der reisenden Person ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-in-navigator-app-laden)
+
+ Gibt es einen Tipp, damit mir noch günstigere Preise in der Bestpreissuche angezeigt werden?
+----------
+
+**Auf Randzeiten ausweichen**
+
+Für Reisende, die nicht auf bestimmte Uhrzeiten festgelegt sind, ist es sinnvoll, Zugverbindungen in den frühen Morgen- oder den späten Abendstunden zu wählen. Wer darüber hinaus nicht an einen bestimmten Reisetag gebunden ist, kann auf Randzeiten ausweichen und z.B. nicht am Tag direkt vor Beginn oder Ende des Wochenendes, der Ferien oder vor Feiertagen fahren. Dann sind die Züge meist weniger ausgelastet und in der Regel auch günstiger.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tipps-guenstige-preise-bestpreissuche-randzeiten)
 
  How do I choose where I am getting off the train?
 ----------

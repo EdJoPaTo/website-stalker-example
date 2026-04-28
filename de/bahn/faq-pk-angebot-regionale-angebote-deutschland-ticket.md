@@ -28,9 +28,9 @@ So beantragen Sie die BahnCard 100 inklusive Deutschland-Ticket:
 
 Bei Problemen mit Ihrem Onlinebanking-Login wenden Sie sich bitte an Ihre kontoführende Bank.
 
-Bei Problemen mit der Verifizierung über den ausgewählten Dienstleister, nutzen Sie zunächst eine alternative Verifizierungsoption, falls verfügbar.
+Bei Problemen mit der Verifizierung über den ausgewählten Dienstleister nutzen Sie zunächst eine alternative Verifizierungsoption, falls verfügbar.
 
-Ein Wechsel des Internetbrowsers oder der Wechsel zwischen App und Web-Version kann oft zur Lösung beitragen.
+Ein Wechsel des Internetbrowsers oder der Wechsel zwischen App- und Web-Version kann oft zur Lösung beitragen.
 
 Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den von Ihnen gewählten Verifizierungsdienstleister für weitere Unterstützung:
 
@@ -761,9 +761,9 @@ Wenn Sie trotzdem eine Bescheinigung über eine Verspätung oder einen Zugausfal
  Wie werden Zugausfälle und Verspätungen bei Reisen mit dem Deutschland-Ticket entschädigt?
 ----------
 
-* Bei einer Verspätung aufgrund einer Verspätung oder eines Zugausfalls im Nahverkehr von mindestens 60 Minuten am Zielbahnhof erhalten Sie 1,50 Euro Entschädigung pro Fall.
+* Erreichen Sie Ihr Ziel im Nahverkehr aufgrund einer Verspätung oder eines Zugausfalls mit mindestens 60 Minuten Verzögerung, erhalten Sie 1,50 Euro Entschädigung pro Fall.
 * Beträge unter 4 Euro werden aufgrund einer gesetzlichen Bagatellgrenze nicht ausgezahlt. Sie können aber mehrere Verspätungsfälle sammeln.
-* Reichen Sie die gesammelten Fälle beim ServiceCenter-Fahrgastrechte oder der Fahrgastrechte-Abteilung des genutzten Eisenbahn-Verkehrsunternehmens ein.
+* Reichen Sie die gesammelten Fälle beim Servicecenter-Fahrgastrechte oder der Fahrgastrechte-Abteilung des genutzten Eisenbahn-Verkehrsunternehmens ein.
 * Maximal werden 25 Prozent des Wertes Ihres Deutschland-Tickets entschädigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verspaetung-erstattung)
