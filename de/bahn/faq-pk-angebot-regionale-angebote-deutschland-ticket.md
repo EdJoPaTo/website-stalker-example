@@ -935,8 +935,8 @@ Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle 
  Ich kann das Abo nicht als Handy-Ticket hinzufügen. Was kann ich tun?
 ----------
 
-Das Handy-Ticket eines Abos (z.B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen.
-Alternativ können Sie das Ticket in Meine Reisen über das "+" selbst hinzufügen.
+Das Handy-Ticket eines Abos (z. B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen.
+Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen.
 
 Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle Version der App nutzen.
 
@@ -945,11 +945,12 @@ Weitere Tipps:
 * Ist die Schreibweise Ihres Nachnamens genau wie bei der Bestellung? Dies können Sie in der Bestellbestätigung oder im Aboportal nachprüfen.
 * Prüfen Sie auch, dass Sie Vorname und Nachname nicht vertauschen.
 * Achten Sie darauf, keine Leerzeichen am Anfang oder Ende Ihrer Eingaben zu setzen. Das kann beim Kopieren der Daten versehentlich passieren.
-*  Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
-* Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
+* Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
+* Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die E-Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
 
 Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie in Kürze einen Screenshot und Angaben zu Ihrem genutzten Gerät in einem Kontaktformular übersenden.​
 
+* [​ Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-zufuegen)

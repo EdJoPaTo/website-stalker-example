@@ -95,6 +95,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Leak Sensor Cable](https://kb.shelly.cloud/knowledge-base/shelly-leak-sensor-cable)
 * [Shelly Dimmer Gen4](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4)
 * [Shelly Dimmer Gen4 US](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4-us)
+* [Shelly EM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-em-gen4)
 * [Shelly Mini Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen4-devices)
 * [Shelly Presence Gen4](https://kb.shelly.cloud/knowledge-base/shelly-presence-gen4)
 
