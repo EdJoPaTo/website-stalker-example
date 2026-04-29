@@ -31,7 +31,7 @@ VPS 500 G12
 
  Details \>
 
-0,01 €/Stunde oder je Monat ab
+0,010 €/Stunde oder je Monat ab
 
 5,91 €
 

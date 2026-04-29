@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### Ostsee ###
+### HANNOVER ###
 
-### 25. april 2026 ###
+### 02. Mai 2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/ostsee)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/hannover)
 
 [Location](https://www.megamarsch.de/ostsee)
 
