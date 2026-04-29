@@ -494,7 +494,7 @@ Ja. Die Begleitperson muss mindestens 6 Jahre alt sein, um bei Angabe eines Sch
 
 Für Fährfahrten gelten unterschiedliche Altersgrenzen. Kinder müssen für die SEE-Strecken nach Hiddensee, Borkum und Helgoland sowie Küstenbuslinie Norden-Harlesiel den jeweils gültigen Preis für eine Kinderfahrkarte vor Ort bezahlen.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersgrenze-faehrfahrten-kinder-bis-5)
 
@@ -529,7 +529,7 @@ Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das F
 
 Kinder im Alter von 0 bis 5 Jahre fahren in den Fernverkehrszügen der Deutschen Bahn kostenfrei und müssen dafür auf der Fahrkarte nicht eingetragen werden. Wir empfehlen jedoch Kinder unabhängig des Alters anzugeben, da so eine Sitzplatzreservierung im Kleinkindabteil oder -bereich möglich ist. Die mitfahrenden Kinder werden erst ab 6 Jahre auf der Fahrkarte der Begleitperson aufgelistet.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-buchung-kinder-bis-5)
 
@@ -540,7 +540,7 @@ Kinder im Alter von 0 bis 5 Jahre fahren in den Fernverkehrszügen der Deutsche
 
 Bei Reisen ausschließlich im Nahverkehr gilt in der Regel eine kostenfreie Mitnahme für bis zu 3 Kinder. Bei Landes- und Verbundtarifen kann es Abweichungen von dieser Regelung geben.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-fahrkarte-kinder-6-14-jahre)
 
@@ -1024,7 +1024,7 @@ Reisen das Kind und die Begleitperson in einem Zug des Nahverkehrs und neben dem
 
 Hier finden Sie weitere [Informationen für barrierefreies Reisen](https://www.bahn.de/service/individuelle-reise/barrierefrei).
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-6-14-jahre)
 
@@ -1033,7 +1033,7 @@ Hier finden Sie weitere [Informationen für barrierefreies Reisen](https://www.b
 
 Ist im **Schwerbehindertenausweis** die Mitnahme einer Begleitperson und das **Merkzeichen "B"** vermerkt, dann reist die Begleitperson kostenfrei. Für Reisen ins Ausland ist es erforderlich, dass für die Begleitperson eine kostenfreie Fahrkarte mit dem Vermerk „Begleiter“ ausgegeben wird. Diese erhalten Sie in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-6-14-jahre-ausland)
 
@@ -1044,7 +1044,7 @@ Bei Kindern mit Behinderung im Alter von 0 bis 5 Jahren, in deren **Schwerbehind
 
 Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten können.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-bis-5)
 
@@ -1692,7 +1692,7 @@ Für bahn.de und die App DB Navigator werden **16-stellige** **Aktionsgutschei
 
 Ein Online-Ticket bzw. Handy-Ticket kann für bis zu 5 Personen (maximal 4 Kinder) gebucht werden. Familien mit mehr Kindern im Alter von 6 bis einschließlich 14 Jahre erhalten im DB Reisezentrum die DB Familienkarte.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einschraenkung-onlineticket-6-14-jahre)
 
@@ -3515,7 +3515,7 @@ If you are travelling with children using a City-Ticket issued with a saver or s
 
 Bei Reisen mit einer grenzüberschreitenden Fahrkarte in die Schweiz oder nach Österreich fahren eigene Kinder oder Enkel bis einschließlich 5 Jahre kostenfrei mit, wenn sie gemeinsam mit Ihnen reisen. Ein nachträglicher Eintrag im Zug ist nicht möglich.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kindermatnahme-schweiz-oesterreich-kinder-bis-5)
 
@@ -3574,7 +3574,7 @@ Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wer
 
 Besitzer einer BahnCard 100 können bis zu 4 Kinder im Alter bis einschließlich 14 Jahre kostenfrei mitnehmen. Eine Sitzplatzreservierung ist jedoch kostenpflichtig.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-kindermitnahme-bc-6-14-jahre)
 
@@ -3583,7 +3583,7 @@ Besitzer einer BahnCard 100 können bis zu 4 Kinder im Alter bis einschließlich
 
 Bei Reisen nach Österreich fahren Kinder im Alter von 6 bis einschließlich 14 Jahre kostenfrei mit. Sie müssen dabei ein grenzüberschreitendes Ticket lösen und die mitfahrenden Kinder müssen auf der Fahrkarte eingetragen sein.
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-kindermitnahme-oesterreich-6-14-jahre)
 
@@ -6700,7 +6700,7 @@ Erwachsene und Kinder ab 6 Jahre, die mit digitalen Tickets reisen, können sich
 
 Weitere Informationen sowie die genauen Bedingungen zum [Komfort Check-in](https://www.bahn.de/service/zug/komfort-check-in)
 
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
+* [Reisen mit Kind](https://www.bahn.de/faq/de/pk/service/individuelle-reise/kinder)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-kci-fuer-kinder-und-familien)
 
