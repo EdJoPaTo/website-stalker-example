@@ -262,6 +262,69 @@ Ab dem 14. Juni 2026 wird die gekaufte BahnCard 100 wieder mit einer Vorkaufsfri
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc100-im-voraus-kaufen)
 
+ Kann ich auch mit einer BahnCard 100, 2. Klasse an der 2. Klasse = 1. Klasse Aktion teilnehmen?
+----------
+
+Nein, das ist leider nicht möglich. Diese Aktion richtet sich ausschließlich an Kundinnen und Kunden einer BahnCard 25 oder 50.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-bc100)
+
+ Gilt die BahnCard 2. Klasse = 1. Klasse-Aktion auch mit einer BahnCard Business 25 beziehungsweise 50?
+----------
+
+Ja, auch Inhaberinnen und Inhaber einer 2. Klasse BahnCard Business 25 oder 50 können an der Aktion teilnehmen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-bcb)
+
+ Wie lange gibt es die BahnCard 2. Klasse = 1. Klasse-Aktion?
+----------
+
+Die Aktion gilt vom 1. bis zum 31. Mai 2026. In diesem Zeitraum können Inhaberinnen und Inhaber einer 2. Klasse BahnCard 25 oder 50 auch beim Kauf von 1. Klasse Tickets von ihrer BahnCard-Ermäßigung profitieren. Hin- und Rückfahrt müssen dabei beide im Aktionszeitraum liegen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-dauer)
+
+ Kann ich die BahnCard 2. Klasse = 1. Klasse-Aktion auch nutzen, wenn ich ein Ticket für eine internationale Fahrt kaufen möchte?
+----------
+
+Nein, das ist nicht möglich. Die Aktion gilt nur für Fahrten innerhalb Deutschlands und nicht für grenzüberschreitende Fahrten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-international)
+
+ Kann ich den Komfort Check In im Rahmen der BahnCard 2. Klasse = 1. Klasse Aktion nutzen?
+----------
+
+Nein, das ist leider nicht möglich, da das gekaufte Ticket mit der Rabattstufe der eigenen BahnCard nicht übereinstimmt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-kci)
+
+ Gilt die BahnCard 2. Klasse = 1. Klasse-Aktion auch für Fahrkarten im Nahverkehr?
+----------
+
+Nein, die Aktion gilt nicht für Fahrkarten des Nahverkehrs (zum Beispiel Verbundangebote oder der Normalpreis des Deutschlandtarifs). Sie gilt ausschließlich für innerdeutsche Fahrkarten im Fernverkehr, wenn mindestens eine Teilstrecke im ICE, IC/EC erfolgt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-nahverkehr)
+
+ Gilt die BahnCard 2. Klasse = 1. Klasse-Aktion auch, wenn die Hinfahrt im Mai 2025 erfolgt, die Rückfahrt aber erst im Juni 2026?
+----------
+
+Nein, die Aktion gilt ausschließlich für Reisen im Zeitraum 1. bis 31. Mai 2026. Auch die Rückfahrt muss spätestens bis zum 31. Mai 2026 erfolgen. Möchten Sie im Juni 2026 zurückfahren, müssen Sie für die Hin- und Rückfahrt jeweils zwei getrennte Tickets kaufen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-rueckfahrt)
+
+ Wo kann ich die Tickets für die BahnCard 2. Klasse = 1. Klasse-Aktion kaufen?
+----------
+
+Sie können die Tickets online oder in der App DB Navigator sowie in den DB-Reisezentren, DB-Agenturen und am DB-Automaten kaufen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-ticketkauf)
+
+ Wie funktioniert die BahnCard 2. Klasse = 1. Klasse-Aktion?
+----------
+
+Wählen Sie bei der Buchung mit einer 2. Klasse BahnCard eine 1. Klasse BahnCard und ein 1. Klasse Ticket aus. Damit erhalten Sie die Ermäßigung analog der eigenen BahnCard 25 beziehungsweise 50 auf den 1. Klasse Ticketpreis. Im Zug ist die eigene 2. Klasse BahnCard in Kombination mit dem 1. Klasse Ticket vorzuzeigen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc2gleich1-was)
+
  Wie wird die BahnCard 100 und das Deutschland-Ticket im Zug kontrolliert?
 ----------
 
