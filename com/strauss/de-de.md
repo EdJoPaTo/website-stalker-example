@@ -140,15 +140,15 @@ Schuhe mit Zehenschutz
 
 ---
 
- SET:Softshelljacke & Weste e.s.motion 2020 + GRATIS e.s. Trinkflasche Tritan
+SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis Artikel
 
- SET:Softshelljacke & Weste e.s.motion 2020 + GRATIS e.s. Trinkflasche Tritan
+SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis Artikel
 
- SET:Softshelljacke & Weste e.s.motion 2020 + GRATIS e.s. Trinkflasche Tritan
+SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis Artikel
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0008?variantId=c41e35ff-6a1a-41a9-acee-b0569c7f18c5)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=03d0703d-a3b6-451b-873e-3263df27d10f)
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0008?variantId=c41e35ff-6a1a-41a9-acee-b0569c7f18c5)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=03d0703d-a3b6-451b-873e-3263df27d10f)
 
  Strauss Aktions-Sets
 ----------
