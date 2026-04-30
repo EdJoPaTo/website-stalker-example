@@ -111,9 +111,9 @@ Previous model — limited stock
 
 Previous-generation model. Limited stock remaining.
 
-€13,37 €13,37
+€13,37
 
-German keyboard layouts only.
+Available keyboard layouts: English (US), German
 
 14-inch 4K matte display
 
