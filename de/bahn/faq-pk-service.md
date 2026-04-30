@@ -997,7 +997,7 @@ Wir arbeiten derzeit an bedarfsgerechten Begleitlösungen und informieren Sie um
  Ich erhalte die Meldung, dass kein Gerätewechsel möglich ist. Was kann ich tun?
 ----------
 
-Die Anzahl der Übertragungen von einem Handy-Ticket, die von einem anderen Gerät durchgeführt werden können, ist aus Sicherheitsgründen auf einen Zeitraum innerhalb von 30 Tagen begrenzt. Wenn Sie das Handy-Ticket in dem Zeitraum schon mehrfach übertragen haben, ist kein weiterer Wechsel möglich. Bitte warten Sie einige Tage, bis weitere Wechsel automatisch freigeschalten werden.
+Die Anzahl der Handy-Ticket-Übertragungen auf ein anderes Gerät innerhalb von 30 Tagen ist aus Sicherheitsgründen begrenzt. Wenn Sie das Handy-Ticket in dem Zeitraum schon mehrfach übertragen haben, ist kein weiterer Wechsel möglich. Bitte warten Sie einige Tage, bis weitere Wechsel automatisch freigeschalten werden.
 
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 

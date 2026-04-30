@@ -12,7 +12,7 @@ Neue Abrechnungsvarianten:
 
 Du kannst zwischen verschiedenen Abrechnungstarifen wählen. Jeder Tarif enthält ein Grundvolumen. Darüber hinaus gehender Speicherplatz wird nach Verbrauch je GB abgerechnet.
 
-**Bereits ab 0,015 Euro / GB im Tarif C!**
+**Bereits ab 0,024 € / GB im Tarif C!**
 
 Tarif A
 
@@ -30,11 +30,11 @@ Speicherplatz inklusive
 
 Kosten weiteres GB
 
-0,03 €
+0,037 €
 
-0,03 €
+0,030 €
 
-0,02 €
+0,024 €
 
 Traffic / Monat
 
@@ -70,15 +70,13 @@ NetApp ®
 
 Preis / Monat
 
-5,00 €
+6,08 €
 
-8,00 €
+9,72 €
 
-15,00 €
+18,23 €
 
-Der Storage Space kann zu einem bestehenden Server über das CCP gebucht werden. Bestandskunden können kostenlos auf die neue Abrechnungsvariante wechseln. Kontaktiere dazu bitte unseren Support.
-
-Hinweis: Ab dem 01.05.2026 erhöht sich der Preis für Storage Space um 21,52%.
+Der Storage Space kann **zu einem bestehenden Server über das CCP** gebucht werden. Bestandskunden können kostenlos auf die neue Abrechnungsvariante wechseln. Kontaktiere dazu bitte unseren Support.
 
 ### Weitere Angebote ###
 
