@@ -103,11 +103,17 @@ Im Zentrum steht die Idee von Synchronität: Systeme reagieren aufeinander, entw
 
 [Instagram | Website](https://www.bruederselke.com)
 
-Cristian Rizutti (IT)
+Cristian Rizzuti (IT) + Julian Alvarez (ES, composer)
 
 Cristian Rizzuti ist ein italienischer interaktiver Medienkünstler mit Sitz in Barcelona, dessen Arbeiten sich an der Schnittstelle von Licht, Wahrnehmung und Technologie bewegen. Er hat seine Werke in bedeutenden Institutionen präsentiert, darunter das ZKM Karlsruhe, das MAXXI Museum in Rom und die Venedig Biennale.
 
 Stets inspiriert von Wissenschaft und Mathematik, erforscht Rizzuti die Rolle menschlicher Wahrnehmung und die Definition synästhetischer Räume – seine Werke lassen sich als Lichtskulpturen beschreiben. Sein bekanntestes Werk Amnesia verdichtet das alles: Eine immersive Installation als fünfteilige Malperformance, bei der UV-Laser auf phosphoreszente Pigmente treffen und in Echtzeit audiovisuelle Kompositionen entstehen – die sichtbar werden, pulsieren und wieder verschwinden, wie die Erinnerung selbst.
+
+Julián Álvarez ist ein Musiker und Physiker mit Sitz in Barcelona.
+
+Als Musiker ist er Performer und ein versierter audiovisueller Komponist, der in den Bereichen Film, Werbung und Installationen tätig ist. Er ist unter anderem bei Festivals wie Primavera Sound, Sonar und BBK aufgetreten und hat die Musik für preisgekrönte Kurz- und Spielfilme komponiert, die bei bedeutenden Veranstaltungen wie den Oscars und den Goya Awards ausgewählt wurden. Zudem hat er an Werbekampagnen für große internationale Marken gearbeitet.
+
+Als Wissenschaftler hat er an akustischen Designs in Zusammenarbeit mit renommierten Architekturbüros in ganz Europa gearbeitet. Er ist außerordentlicher Professor für Architekturakustik an der Polytechnischen Universität von Katalonien und promoviert derzeit über Schalldiffraction im architektonischen Kontext.
 
 [Instagram | Website](https://www.instagram.com/cristian.rizzuti/)
 

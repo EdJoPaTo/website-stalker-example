@@ -41,6 +41,14 @@ Mit jeder Entscheidung fördern wir faire Lösungen, ermöglichen positiven Wand
 
   Ob Spende, Investition oder ein eigenes WEtell Projekt - jede\*r Mitarbeitende bei WEtell kann Ideen einbringen. Einmal im Monat stimmen wir über die nächsten Vorhaben ab. Wer mag, kann sich auch selbst an der Umsetzung beteiligen. So werden die Werteprojekte zu einer echten Gemeinschaftssache.
 
+  Beispiele:
+
+  [Rechner zum Sondervermögen](https://www.wetell.de/community/newsblog/500-milliarden-wenig-klima-wir-rechnen-nach/)
+
+  [Digitale Bildung für Frauen](https://www.wetell.de/community/newsblog/digitale-bildung-fur-alle/)
+
+  [Freier Klima-Journalismus](https://www.wetell.de/community/newsblog/klima-journalismus/)
+
 Selbstbestimmt
 ----------
 

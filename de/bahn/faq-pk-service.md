@@ -5444,6 +5444,21 @@ Bei Anfragen für den aktuellen Reisetag wird der Regler zur Aktivierung der Fun
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-mir-der-bestpreis-nicht-angezeigt-wenn-ich-fuer-den-aktuellen-tag-suche)
 
+ Warum wurde ich vom BahnBonus Vorteilsprogramm abgemeldet?
+----------
+
+Für die Teilnahme am BahnBonus Vorteilsprogramm ist seit dem 1. Mai 2025 ein DB Kundenkonto Voraussetzung.
+
+Wenn Sie kein DB Kundenkonto haben, wurden Sie zum 1. April 2026 automatisch abgemeldet.
+
+Haben Sie weitere Fragen zur Abmeldung von BahnBonus oder ein Anliegen zu Ihrer beendeten Teilnahme?
+
+Sie erreichen unseren Kundenservice unter [030 2970.](tel:0302970)
+
+[Zum Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wurde-ich-von-bahnbonus-abgemeldet)
+
  Warum zeigt die App für meine Verbindung keine Preise an?
 ----------
 
