@@ -4923,6 +4923,22 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-gruppe)
 
+ Kann ich mein Super Sparpreis Last Minute-Ticket umbuchen oder stornieren?
+----------
+
+Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornierung ausgeschlossen.
+
+**Sofortstornierung**
+
+* Unabhängig von den tariflichen Angebotskonditionen können auf bahn.de oder im DB Navigator gebuchte Tickets **vor dem ersten Geltungstag** innerhalb **von 3 Stunden** (180 Minuten) nach der Buchung **kostenfrei storniert** werden.
+* Es wird der komplette Zahlungsbetrag zurückerstattet.
+
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+
+[Zum Super Sparpreise Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-last-minute)
+
  Is the surfing time with free wifi limited?
 ----------
 
@@ -5220,6 +5236,15 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
 [Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-europa-gruppe)
+
+ Wie lange im Voraus kann ich den Super Sparpreis Last Minute kaufen?
+----------
+
+Sie können das Ticket samstags und sonntags für Montag bis Sonntag der Folgewoche buchen. Nur solange der Vorrat reicht.
+
+[Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-last-minute)
 
  Wann beginnt meine Statuslaufzeit?
 ----------
