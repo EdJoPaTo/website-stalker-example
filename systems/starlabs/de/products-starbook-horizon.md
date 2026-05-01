@@ -112,3 +112,7 @@ Dispatch in
  Sold out [Learn More](/pages/starbook-horizon) [Get Notified When Available](#)
 
 Free delivery with this computer
+
+ Bank Holiday Deal
+
+ Enjoy 𝟱% off with code 𝗕𝗛𝟱
