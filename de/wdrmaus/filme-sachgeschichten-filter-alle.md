@@ -944,6 +944,7 @@
 * [Regenschirm](https://www.wdrmaus.de/filme/sachgeschichten/regenschirm.php5)
 * [Regentropfen](https://www.wdrmaus.de/filme/sachgeschichten/regentropfen.php5)
 * [Regenwürmer](https://www.wdrmaus.de/filme/sachgeschichten/regenwuermer.php5)
+* [Rehkitz-Rettung](https://www.wdrmaus.de/filme/sachgeschichten/rehkitz_rettung.php5)
 * [Reichstag](https://www.wdrmaus.de/filme/sachgeschichten/reichstag.php5)
 * [Reifendreher](https://www.wdrmaus.de/filme/sachgeschichten/reifendreher.php5)
 * [Reifenprofile](https://www.wdrmaus.de/filme/sachgeschichten/reifenprofile.php5)
