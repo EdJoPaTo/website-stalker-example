@@ -449,11 +449,11 @@ Bitte prüfen Sie Ihre E-Mails und Briefe, ob Sie in der Vergangenheit Informati
 
 Folgende Gründe können eine Zulassung zum Lastschriftverfahren verhindern:
 
-1. Sie haben offene Forderungen bei der DB, z.B. ausgefallene Zahlungen für Abonnements, BahnCard oder Einzelfahrkarten ([weitere Hilfe](https://www.bahn.de/faq/kundenkonto-ausgleich))
+1. Sie haben offene Forderungen bei der DB, zum Beispiel ausgefallene Zahlungen für Abonnements, BahnCard oder Einzelfahrkarten ([weitere Hilfe](https://www.bahn.de/faq/kundenkonto-ausgleich))
 2. Mit den Angaben der bestellenden Person konnte die erforderliche Bonitätsprüfung nicht oder nicht erfolgreich durchgeführt werden.
-3. Ihr DB Kundenkonto wurde in der Vergangenheit gesperrt, z.B. aufgrund einer falschen Bankverbindung, Inkassoübergaben oder verdächtiger Nutzung
+3. Ihr DB Kundenkonto wurde in der Vergangenheit gesperrt, zum Beispiel aufgrund einer falschen Bankverbindung, Inkassoübergaben oder verdächtiger Nutzung
 
-Falls Sie diese Gründe für Ihr Kundenkonto nicht erkennen, finden Sie hier [weitere Hilfe](https://www.bahn.de/faq/sperre-lastschrift).
+Falls Sie diese Gründe für Ihr DB Kundenkonto nicht erkennen, finden Sie hier [weitere Hilfe](https://www.bahn.de/faq/sperre-lastschrift).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-zulassung)
 
@@ -1141,12 +1141,12 @@ Ansonsten sind zusammengelegte/gefaltete und/oder verpackte Fahrräder von der B
 ----------
 
 * Wenn Ihre Online-Bestellung erfolgreich angenommen wurde, erhalten Sie innerhalb weniger Minuten eine Aktivierungsmail mit der Abonummer.
-* Das Handy-Ticket ist nach Erhalt der Aktivierungsmail sofort in der App abrufbar, in dem Sie es mit der Abonummer oder per Link hinzufügen.
+* Das Handy-Ticket ist nach Erhalt der Aktivierungsmail sofort in der App abrufbar, indem Sie es mit der Abonummer oder per Link hinzufügen.
 
 **Sie haben keine Aktivierungsmail erhalten?**
 
 * Prüfen Sie Ihren Spam-Ordner nach einer E-Mail von [noreply@bahn.de](mailto:noreply@bahn.de)
-* Prüfen Sie das Postfach der E-Mail-Adresse, die Sie im bahn.de Kundenkonto angegeben haben
+* Prüfen Sie das Postfach der E-Mail-Adresse, die Sie im DB Kundenkonto angegeben haben
 * Bei einem Jobticket oder einem ermäßigten Ticket mit Nachweisprüfung erhalten Sie die Aktivierungsmail erst nach der Freigabe.
 * Kann Ihre Bestellung nicht akzeptiert werden, zum Beispiel aufgrund einer Sperre Ihres Kontos, erhalten Sie eine Ablehnungsmail.
 
@@ -2417,11 +2417,13 @@ Es ist kein Login für das Hinzufügen oder Aktualisieren des Handy-Tickets erfo
  Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?
 ----------
 
-Das Handy-Ticket eines Abos (z.B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jeodch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
+Das Handy-Ticket eines Abos (zum Beispiel Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft.
+
+Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
 
 Alternativ können Sie das Ticket in Meine Reisen über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
 
-Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle Version der App nutzen.
+Falls Sie beim Hinzufügen Probleme haben, prüfen Sie, ob Sie die aktuelle Version der App nutzen.
 
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 

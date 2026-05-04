@@ -97,7 +97,7 @@ Menü [](https://www.wetell.de/)
 * [](https://www.instagram.com/wetell.mobilfunk/)
 * [](https://www.facebook.com/WEtell-156996021903053)
 * [](https://www.linkedin.com/company/wetell/)
-* [](https://digitalcourage.social/@wetell?rel=%22me%22)
+* [](https://digitalcourage.social/@wetell)
 
 Bock auf News?
 ----------
@@ -494,7 +494,7 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * [](https://www.instagram.com/wetell.mobilfunk/)
 * [](https://www.facebook.com/WEtell-156996021903053)
 * [](https://www.linkedin.com/company/wetell/)
-* [](https://digitalcourage.social/@wetell?rel=%22me%22)
+* [](https://digitalcourage.social/@wetell)
 
 * Mobilfunk
   ----------

@@ -481,7 +481,7 @@ Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen,
  Ich habe das Deutschland-Ticket online bestellt. Was kann ich tun, wenn ich noch keine Aktivierungsmail erhalten habe?
 ----------
 
-Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsmail, wird Ihre Bestellung derzeit noch vom Abo-Center verarbeitet. Den Status können Sie über den Link in der Bestelleingangsbestätigung nachprüfen.
+Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsmail, wird Ihre Bestellung derzeit noch vom Abo-Center verarbeitet. Den Status können Sie über den Link in der Bestellbestätigung nachprüfen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-keine-bestellbestaetigung)
 
@@ -922,11 +922,13 @@ So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal 
  Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?
 ----------
 
-Das Handy-Ticket eines Abos (z.B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jeodch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
+Das Handy-Ticket eines Abos (zum Beispiel Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft.
+
+Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
 
 Alternativ können Sie das Ticket in Meine Reisen über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
 
-Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle Version der App nutzen.
+Falls Sie beim Hinzufügen Probleme haben, prüfen Sie, ob Sie die aktuelle Version der App nutzen.
 
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
