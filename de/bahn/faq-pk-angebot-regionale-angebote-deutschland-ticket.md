@@ -950,9 +950,10 @@ Weitere Tipps:
 * Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 * Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die E-Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
 
-Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie in Kürze einen Screenshot und Angaben zu Ihrem genutzten Gerät in einem Kontaktformular übersenden.​
+​Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie einen Screenshot und Angaben zu Ihrem genutzten Gerät über das Kontaktformular senden.
 
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
 * [​ Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+* [Weitere FAQ zum Digitalen Abo](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-zufuegen)

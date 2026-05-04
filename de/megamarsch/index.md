@@ -257,7 +257,7 @@ Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten
 
   [### Spezial Edelstahl Tasse \*limitiert\* ### Preis 15,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
 
-  In den Warenkorb
+  Nicht verfügbar
 
 \- BEA
 

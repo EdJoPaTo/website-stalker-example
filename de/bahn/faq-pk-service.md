@@ -997,7 +997,9 @@ Wir arbeiten derzeit an bedarfsgerechten Begleitlösungen und informieren Sie um
  Ich erhalte die Meldung, dass kein Gerätewechsel möglich ist. Was kann ich tun?
 ----------
 
-Die Anzahl der Handy-Ticket-Übertragungen auf ein anderes Gerät innerhalb von 30 Tagen ist aus Sicherheitsgründen begrenzt. Wenn Sie das Handy-Ticket in dem Zeitraum schon mehrfach übertragen haben, ist kein weiterer Wechsel möglich. Bitte warten Sie einige Tage, bis weitere Wechsel automatisch freigeschalten werden.
+Die Anzahl der Übertragungen von einem Handy-Ticket, die von einem anderen Gerät durchgeführt werden können, ist aus Sicherheitsgründen innerhalb von 30 Tagen begrenzt.
+
+Wenn Sie das Handy-Ticket in dem Zeitraum schon mehrfach übertragen haben, ist kein weiterer Wechsel möglich. Bitte warten Sie einige Tage, bis weitere Wechsel automatisch freigeschalten werden.
 
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
@@ -2445,10 +2447,11 @@ Weitere Tipps:
 * Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 * Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die E-Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
 
-Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie in Kürze einen Screenshot und Angaben zu Ihrem genutzten Gerät in einem Kontaktformular übersenden.​
+​Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie einen Screenshot und Angaben zu Ihrem genutzten Gerät über das Kontaktformular senden.
 
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
 * [​ Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+* [Weitere FAQ zum Digitalen Abo](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-zufuegen)
 

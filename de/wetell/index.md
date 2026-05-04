@@ -141,7 +141,7 @@ Chat zurücksetzen
 
 Frag unseren FAQ-Bot:
 
-[Mehr über die Funktion des FAQ-Bots und unsere Gedanken zur Nutzung von KI](https://www.wetell.de/community/newsblog/ki-bei-wetell/). Informationen zur Nutzung deiner Daten findest du in unserer [Datenschutzerklärung](https://www.wetell.de/datenschutzerklaerung#ki-faq-bot).
+Unser FAQ-Bot nutzt KI ([mehr Details zur Funktion und unsere Gedanken zur Nutzung von KI](https://www.wetell.de/community/newsblog/ki-bei-wetell/)). Informationen zur Nutzung deiner Daten findest du in unserer [Datenschutzerklärung](https://www.wetell.de/datenschutzerklaerung#ki-faq-bot).
 
 Flexibel wie du.
 
