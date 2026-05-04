@@ -125,7 +125,23 @@ Telefonisch – unter der
 
 * [Wechselservice Dein Wechsel zu uns leicht gemacht.](https://www.wetell.de/mobilfunk/wechselservice)
 * [Häufig gestellte Fragen](https://www.wetell.de/service/faq)
-* [Schreibt uns eine E-Mail](mailto:service@wetell.de)
+* [Schreib uns eine E-Mail](mailto:service@wetell.de)
+
+Stelle hier deine Fragen zu WEtell – z. B. zu Tarifen, Wechsel oder Service-Themen.
+
+Die Antworten basieren auf unseren FAQs und werden mit Hilfe von KI erzeugt. Sie können im Einzelfall unvollständig oder ungenau sein.
+
+Bitte gib keine persönlichen oder sensiblen Daten ein.
+
+Übrigens: Während unserer Öffnungszeiten (Mo–Fr, 8:00–18:00 Uhr) erreichst du unser Service-Team telefonisch unter 0761 / 76 999 848 – für persönliche Beratung durch echte Menschen.
+
+Chat zurücksetzen
+
+###### Haben dir diese Antworten geholfen? ######
+
+Frag unseren FAQ-Bot:
+
+[Mehr über die Funktion des FAQ-Bots und unsere Gedanken zur Nutzung von KI](https://www.wetell.de/community/newsblog/ki-bei-wetell/). Informationen zur Nutzung deiner Daten findest du in unserer [Datenschutzerklärung](https://www.wetell.de/datenschutzerklaerung#ki-faq-bot).
 
 Flexibel wie du.
 

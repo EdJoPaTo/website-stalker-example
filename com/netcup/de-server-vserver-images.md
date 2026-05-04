@@ -111,6 +111,12 @@ enthalten
 
 enthalten
 
+Ubuntu 26.04
+
+enthalten
+
+enthalten
+
 CD-ROMs / DVDs zur Installation
 ----------
 
@@ -283,6 +289,12 @@ Windows VirtIO drivers 0.1.271
 enthalten
 
 \-
+
+Ubuntu 26.04
+
+enthalten
+
+enthalten
 
 Eigene CD-ROMs / DVDs und Images
 ----------
