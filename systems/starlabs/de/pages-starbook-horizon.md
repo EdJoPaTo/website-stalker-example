@@ -1,10 +1,10 @@
 StarBook Horizon
 
- Privacy,
- refined for Linux.
+ The Linux laptop
+ you actually own.
 ==========
 
- A 13.4-inch 3:2 Linux laptop with privacy built in. For focused work, beautifully crafted. Thoughtfully engineered. Yours to own.
+ Horizon is the current StarBook variant: a refined 13.4-inch portable with open firmware, native Linux support, privacy hardware, and serviceable parts.
 
 [Configure Now](/products/starbook-horizon) [Full tech specs](/pages/starbook-horizon-specification)
 
@@ -20,6 +20,21 @@ StarBook Horizon
 
 **Up to 14 hrs** 45Wh user-replaceable battery
 
+Open where it matters.
+----------
+
+ coreboot firmware, Intel ME disabled, and model-specific firmware controls make the invisible layers inspectable.
+
+Yours from first boot.
+----------
+
+ Ships with a clean distro image that completes setup when you turn it on. No factory password, no hidden encryption secret, and no Star Labs driver package.
+
+Serviceable by design.
+----------
+
+ The battery and SSD are accessible, firmware is updated through LVFS, and compatible parts can carry forward.
+
  Private by hardware. Open by design.
 ----------
 
@@ -29,9 +44,9 @@ StarBook Horizon
 
  Privacy screen, kill switch, webcam cover, and Intel ME disabled.
 
-### Install the distro you want. ###
+### Clean setup. Standard Linux. ###
 
- Modern Linux distributions using Linux 6.2 or later work without vendor-driver workarounds.
+ Create your own account and encryption choices on first boot. Want another distro later? Use its standard ISO with Linux 6.2 or later.
 
 ### Kept useful longer. ###
 
@@ -40,7 +55,7 @@ StarBook Horizon
 Measured on Linux.
 ----------
 
- Published Ubuntu results, idle battery context, and board-level hardware details keep the performance story concrete.
+ Published Ubuntu results, idle battery context, and storage security details keep the performance story concrete.
 
 **1350** Single-core
 
@@ -48,11 +63,36 @@ Measured on Linux.
 
 **24.5h idle estimate** Ubuntu 26.04 at 20% brightness, measured as an idle system estimate.
 
-**45Wh user-replaceable battery** 45Wh lithium-ion battery, designed to be user-replaceable.
+**User-replaceable battery** 45Wh lithium-ion pack you can replace instead of treating the machine as sealed.
 
 **Samsung 990 EVO Plus + TCG Opal 2.0** Fast Samsung storage with hardware-backed disk encryption.
 
  Source: [Geekbench Browser result](https://browser.geekbench.com/v6/cpu/17765962).
+
+ Core specs at a glance.
+----------
+
+ The basics buyers ask for first: display, weight, processor, memory, and battery.
+
+**13.4-inch 3:2 90Hz** 500 nits · 2520×1680
+
+**1.1 kg** 6061 aluminium build
+
+**Intel Core i3-N305** 8-core, efficient performance
+
+**32GB LPDDR5X** 4800MT/s memory standard
+
+**Up to 14 hrs** 45Wh user-replaceable battery
+
+### Quiet when you want it. ###
+
+ Horizon exposes cooling control in firmware. Choose silence for lighter work, then switch active cooling back on when sustained workloads need it.
+
+Silent firmware mode for lighter workloads
+
+Active cooling remains available for sustained workloads
+
+Fan assembly is visible and serviceable when the base is removed
 
  Premium where it matters.
 ----------
@@ -75,17 +115,7 @@ Security
 
 ### Security built into the stack. ###
 
- dTPM 2.0, Total Memory Encryption, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and disk encryption support.
-
-### Quiet when you want it. ###
-
- Horizon includes configurable fan control, so you can disable the fan when silence matters and re-enable active cooling when workloads need it.
-
-Fan disable available through firmware options
-
-Active cooling remains available for sustained workloads
-
-Fan assembly is visible and serviceable when the base is removed
+ dTPM 2.0, Total Memory Encryption, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and TCG Opal 2.0 disk encryption.
 
 ### Built to feel refined, not flashy. ###
 
@@ -94,8 +124,6 @@ Fan assembly is visible and serviceable when the base is removed
 3:2 aspect ratio for more vertical workspace
 
 1.1 kg travel-friendly chassis
-
-Fan can be disabled when silence matters
 
 Premium materials and practical privacy details
 
@@ -108,9 +136,9 @@ Linux
 
 ### Linux-first ###
 
- Designed for modern Linux distributions using Linux 6.2 or later.
+ Turn it on and complete setup yourself, or reinstall from a standard distro ISO. No factory password, no vendor driver package, no post-install patches.
 
-* Ubuntu 24.04 LTS or later
+* Ubuntu 26.04 or later
 * Debian 13 or later
 * Linux Mint 22 or later
 * Fedora current releases
@@ -120,7 +148,7 @@ Firmware
 
 ### Open firmware ###
 
- Horizon exposes fan control, power profiles, memory speed, device toggles, BIOS Lock, Total Memory Encryption, and Intel ME control. [View firmware & security](/pages/starbook-horizon-firmware-security)
+ Horizon exposes model-specific controls for power profiles, memory speed, device toggles, BIOS Lock, Total Memory Encryption, and Intel ME state. [View firmware & security](/pages/starbook-horizon-firmware-security)
 
 Updates
 
@@ -142,11 +170,11 @@ Support
 
  StarBook Horizon
 
- Privacy,
- refined for Linux.
+ The Linux laptop
+ you actually own.
 ==========
 
- A 13.4-inch 3:2 Linux laptop with privacy built in. For focused work, beautifully crafted. Thoughtfully engineered. Yours to own.
+ Horizon is the current StarBook variant: a refined 13.4-inch portable with open firmware, native Linux support, privacy hardware, and serviceable parts.
 
 [Configure Now](/products/starbook-horizon) [Full tech specs](/pages/starbook-horizon-specification)
 
@@ -162,6 +190,21 @@ Support
 
 **Up to 14 hrs** 45Wh user-replaceable battery
 
+Open where it matters.
+----------
+
+ coreboot firmware, Intel ME disabled, and model-specific firmware controls make the invisible layers inspectable.
+
+Yours from first boot.
+----------
+
+ Ships with a clean distro image that completes setup when you turn it on. No factory password, no hidden encryption secret, and no Star Labs driver package.
+
+Serviceable by design.
+----------
+
+ The battery and SSD are accessible, firmware is updated through LVFS, and compatible parts can carry forward.
+
  Private by hardware. Open by design.
 ----------
 
@@ -171,9 +214,9 @@ Support
 
  Privacy screen, kill switch, webcam cover, and Intel ME disabled.
 
-### Install the distro you want. ###
+### Clean setup. Standard Linux. ###
 
- Modern Linux distributions using Linux 6.2 or later work without vendor-driver workarounds.
+ Create your own account and encryption choices on first boot. Want another distro later? Use its standard ISO with Linux 6.2 or later.
 
 ### Kept useful longer. ###
 
@@ -182,7 +225,7 @@ Support
 Measured on Linux.
 ----------
 
- Published Ubuntu results, idle battery context, and board-level hardware details keep the performance story concrete.
+ Published Ubuntu results, idle battery context, and storage security details keep the performance story concrete.
 
 **1350** Single-core
 
@@ -190,11 +233,36 @@ Measured on Linux.
 
 **24.5h idle estimate** Ubuntu 26.04 at 20% brightness, measured as an idle system estimate.
 
-**45Wh user-replaceable battery** 45Wh lithium-ion battery, designed to be user-replaceable.
+**User-replaceable battery** 45Wh lithium-ion pack you can replace instead of treating the machine as sealed.
 
 **Samsung 990 EVO Plus + TCG Opal 2.0** Fast Samsung storage with hardware-backed disk encryption.
 
  Source: [Geekbench Browser result](https://browser.geekbench.com/v6/cpu/17765962).
+
+ Core specs at a glance.
+----------
+
+ The basics buyers ask for first: display, weight, processor, memory, and battery.
+
+**13.4-inch 3:2 90Hz** 500 nits · 2520×1680
+
+**1.1 kg** 6061 aluminium build
+
+**Intel Core i3-N305** 8-core, efficient performance
+
+**32GB LPDDR5X** 4800MT/s memory standard
+
+**Up to 14 hrs** 45Wh user-replaceable battery
+
+### Quiet when you want it. ###
+
+ Horizon exposes cooling control in firmware. Choose silence for lighter work, then switch active cooling back on when sustained workloads need it.
+
+Silent firmware mode for lighter workloads
+
+Active cooling remains available for sustained workloads
+
+Fan assembly is visible and serviceable when the base is removed
 
  Premium where it matters.
 ----------
@@ -217,17 +285,7 @@ Security
 
 ### Security built into the stack. ###
 
- dTPM 2.0, Total Memory Encryption, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and disk encryption support.
-
-### Quiet when you want it. ###
-
- Horizon includes configurable fan control, so you can disable the fan when silence matters and re-enable active cooling when workloads need it.
-
-Fan disable available through firmware options
-
-Active cooling remains available for sustained workloads
-
-Fan assembly is visible and serviceable when the base is removed
+ dTPM 2.0, Total Memory Encryption, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and TCG Opal 2.0 disk encryption.
 
 ### Built to feel refined, not flashy. ###
 
@@ -236,8 +294,6 @@ Fan assembly is visible and serviceable when the base is removed
 3:2 aspect ratio for more vertical workspace
 
 1.1 kg travel-friendly chassis
-
-Fan can be disabled when silence matters
 
 Premium materials and practical privacy details
 
@@ -250,9 +306,9 @@ Linux
 
 ### Linux-first ###
 
- Designed for modern Linux distributions using Linux 6.2 or later.
+ Turn it on and complete setup yourself, or reinstall from a standard distro ISO. No factory password, no vendor driver package, no post-install patches.
 
-* Ubuntu 24.04 LTS or later
+* Ubuntu 26.04 or later
 * Debian 13 or later
 * Linux Mint 22 or later
 * Fedora current releases
@@ -262,7 +318,7 @@ Firmware
 
 ### Open firmware ###
 
- Horizon exposes fan control, power profiles, memory speed, device toggles, BIOS Lock, Total Memory Encryption, and Intel ME control. [View firmware & security](/pages/starbook-horizon-firmware-security)
+ Horizon exposes model-specific controls for power profiles, memory speed, device toggles, BIOS Lock, Total Memory Encryption, and Intel ME state. [View firmware & security](/pages/starbook-horizon-firmware-security)
 
 Updates
 

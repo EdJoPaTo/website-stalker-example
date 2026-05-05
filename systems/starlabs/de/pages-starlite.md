@@ -1,8 +1,8 @@
 StarLite
 
- Compact yet powerful; your perfect partner in every journey.
+ A touch-first Linux convertible that works as a tablet, a notebook, or a compact travel machine.
 
-Intel Processor
+8-core Intel
 
 N350
 

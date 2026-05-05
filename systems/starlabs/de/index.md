@@ -1,50 +1,59 @@
-StarBook Horizon
+Linux hardware, built to be owned.
+==========
 
-* Type II anodised 6061 aluminium chassis
-* Sand-blasted Pantone 433 finish
-* 3:2 90 Hz display with 500 cd/m² brightness
-* Pre-installed privacy screen protector
-* Open-source, configurable coreboot firmware
-* User-serviceable for SSD, battery, and upgrades
-* Hardware wireless kill switch
-* Quiet cooling system with optional fan disable
-* Low-profile precision trackpad
-* Integrated sliding webcam cover
+ Privacy-conscious laptops, open firmware options, and repairable hardware designed for people who want control without turning every setup into a project.
 
-[Learn More](/pages/starbook-horizon) [Configure Now](/products/starbook-horizon)
+[Shop laptops](/collections/laptops) [Explore StarBook Horizon](/pages/starbook-horizon)
 
- Open Firmware.
+**Linux-first** Designed around modern Linux distributions, not adapted afterwards.
 
- Our computers run coreboot, an open-source firmware stack with transparent code paths and configurable behaviour.
+**Open firmware** coreboot-based options, configurable firmware, and visible source.
 
- It supports Secure Boot, BIOS Lock, TPM 2.0, Measured Boot, and Total Memory Encryption. The Intel Management Engine is disabled.
+**Privacy hardware** Physical controls such as webcam covers and wireless kill switches.
 
-[Coreboot Options](/pages/coreboot-options)
+**Repairable ownership** Parts, recovery media, and guides stay visible after checkout.
 
-Browse our range
+ Control where it matters.
+----------
 
-[](/products/byte)
+ Faster parts are only one piece. The value is privacy you can see, firmware you can inspect, and hardware that stays useful longer.
 
-[Byte €13,37 Dispatch in 1 - 2 business days](/products/byte)
+[StarBook Horizon ### Privacy you can physically switch. ### Wireless kill switch, webcam cover, privacy screen protector, open firmware options, and parts you can replace.](/pages/starbook-horizon) [Firmware and updates ### Open, inspectable, kept current. ### coreboot-based firmware, signed LVFS updates, and source code that stays close to upstream.](/pages/starbook-horizon-firmware-security) [Long-term ownership ### Repair, replace, upgrade. ### Accessible SSDs, replaceable batteries on supported models, and compatible parts that can move across generations.](/pages/starbook-horizon-specification)
 
-[](/products/starlite)
+ Less lock-in. More control.
+----------
 
-[StarLite €13,37 Dispatch in 1 - 2 business days](/products/starlite)
+ Star Labs machines are built around practical ownership: choose your firmware options, install your distro, update through Linux, and talk directly to people who know the hardware.
 
-[](/products/starbook-horizon)
+### Install your distro ###
 
-[StarBook Horizon €13,37 Dispatch in 1 - 2 business days](/products/starbook-horizon)
+ Ubuntu, Fedora, Debian, Arch, Mint, Qubes and more from their standard ISOs on supported kernels, with no Star Labs driver package.
 
-[](/products/starfighter)
+### Firmware you can inspect ###
 
-[StarFighter €13,37 Dispatch in 1 - 2 business days](/products/starfighter)
+ coreboot source, configurable firmware options, and monthly update work that stays visible.
 
-[](/products/starbook-ultra)
+### Hardware security ###
 
-[StarBook Ultra €13,37 Dispatch in 7 - 8 business days](/products/starbook-ultra)
+ Measured boot, TPM 2.0, BIOS Lock, Intel ME control, and hardware-backed disk encryption.
 
-Built for ownership.
+### Direct support ###
 
- Open firmware, long-term support, and repairable hardware are part of the product, not an afterthought.
+ UK-based support from people who work with the machines, firmware, recovery media, and parts.
+
+ Laptops, tablets, and desktops
+
+ Choose the machine that fits the work.
+----------
+
+ Start with the form factor, then compare display, performance, privacy, and serviceability before you configure.
+
+[Compare laptops](/collections/laptops)
+
+[Byte Compact Linux mini PC for desks, displays, and quiet always-on work. €13,37 View model](/pages/byte)[StarLite Touch-first Linux convertible with tablet flexibility and a detachable keyboard. €13,37 View model](/pages/starlite)[StarBook Horizon Current StarBook Horizon variant: light 13.4-inch Linux laptop with privacy hardware and open firmware options. €13,37 View model](/pages/starbook-horizon)[StarFighter Premium 16-inch performance laptop with high-refresh display options and a haptic trackpad. €13,37 View model](/pages/starfighter)[StarBook Ultra Last-generation StarBook Mk VII Ultra. Limited stock remaining. €13,37 View model](/pages/starbook)
+
+ Built by people who work close to the hardware.
+
+ Firmware, recovery media, replacement parts, and direct support are kept visible because ownership should not end at checkout.
 
 [About Star Labs](/pages/about-us)

@@ -30,7 +30,7 @@ Touchscreen, pen-ready, and built for flexible work.
 
 [StarBook Horizon](/pages/starbook-horizon)
 
-Light, privacy-conscious portable with 32GB standard.
+Current StarBook Horizon variant: light, privacy-conscious, and 32GB standard.
 
 €13,37
 
@@ -60,7 +60,7 @@ Display 16-inch 16:10, up to 4K 120Hz
 
 Weight 1.6 kg
 
-Performance Intel Ultra + 64GB LPDDR5X
+Performance Intel Ultra / AMD + 64GB LPDDR5X
 
 Battery Up to 18 hrs
 
@@ -92,24 +92,24 @@ Compare full specs
 
 See the key differences at a glance.
 
-|   Model    |                        StarLite                         |                      StarBook Horizon                      |                StarFighter  StarFighter Ultra                |
+|   Model    |                        StarLite                         |                      StarBook Horizon                      |        StarFighter  StarFighter Ultra  StarFighter AMD       |
 |------------|---------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
 |  Summary   | A touch-first Linux convertible with tablet flexibility.| A lighter portable for focused work, with privacy built in.|         Premium performance with the biggest screen.         |
 |  Display   |                12.5-inch 3:2 touchscreen                |                     13.4-inch 3:2 90Hz                     |                        16-inch 16:10                         |
 |Form factor |               Tablet + magnetic keyboard                |                  Light clamshell portable                  |                 Full-size performance laptop                 |
 |   Weight   |           0.85 kg tablet, 1.5 kg with keyboard          |                           1.1 kg                           |                            1.6 kg                            |
-|Performance |             8-core Intel N350 + 16GB LPDDR5X            |              8-core Intel N305 + 32GB LPDDR5X              |              16-core Intel Ultra + 64GB LPDDR5X              |
+|Performance |             8-core Intel N350 + 16GB LPDDR5X            |              8-core Intel N305 + 32GB LPDDR5X              |               Intel Ultra / AMD + 64GB LPDDR5X               |
 |  Battery   |                      Up to 12 hrs                       |                        Up to 14 hrs                        |                         Up to 18 hrs                         |
 |Why this one|   Touchscreen, pen-ready, and built for flexible work.  |       1.1kg, wireless kill switch, and webcam cover.       | AZ91D chassis, haptic trackpad, detachable camera/microphone.|
 |  Show more |                                                         |                                                            |                                                              |
 
-Previous model — limited stock
+ Last-generation StarBook — limited stock
 
 [](/pages/starbook)
 
-[StarBook](/pages/starbook)
+[StarBook Mk VII Ultra](/pages/starbook)
 
-Previous-generation model. Limited stock remaining.
+Last-generation StarBook clearance. Limited stock remaining.
 
 €13,37
 
@@ -121,6 +121,6 @@ Up to 96GB memory
 
 Around 1.4 kg
 
-Still available while stock lasts
+Final Mk VII stock
 
 [Learn more](/pages/starbook) [Configure](/products/starbook-ultra)

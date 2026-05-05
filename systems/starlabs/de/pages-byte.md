@@ -1,8 +1,8 @@
 Byte
 
-Quiet. Compact. Linux-friendly. Uncompromisingly Secure.
+ A quiet Linux mini PC for desks, labs, and home servers built to be maintained.
 
-Intel
+8-core Intel
 
 N355
 
