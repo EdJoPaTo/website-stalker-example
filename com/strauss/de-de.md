@@ -472,19 +472,6 @@ alle Produkte
 
 alle Produkte
 
- Hallo Mannheim!
-
-###  Messe  ###
-
----
-
- 25.04. – 05.05.2026 | Mannheim
----
-
- Halle 40
-
-[mehr Informationen](https://www.maimarkt.de/home)
-
  Von Workwear bis Werkzeug – Über 40.000 Produkte
 ----------
 
