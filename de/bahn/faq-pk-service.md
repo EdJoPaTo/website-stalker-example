@@ -1103,21 +1103,16 @@ Nein, das Ticket ist auf Ihrem Handy gespeichert. Sie können es also immer vorz
  Benötige ich ein DB Kundenkonto, um ein Ticket zu buchen?
 ----------
 
-Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Navigator ist ohne Anmeldung möglich. Allerdings bietet Ihnen das DB Kundenkonto bei der Ticket-Buchung einige Vorteile:
+Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Navigator ist ohne Anmeldung möglich. Allerdings bietet Ihnen das DB Kundenkonto bei der Ticketbuchung einige Vorteile:
 
 * Erhalten Sie Benachrichtigungen zu Ihrer Reise per E-Mail oder Push-Nachricht
-
-* Verwalten Sie Ihre Buchungen und BahnCard-Abos
-
+* Verwalten Sie Ihre Buchungen und BahnCard Abos
 * Sammeln Sie bei jeder Fahrt Prämien- und Statuspunkte mit unserem BahnBonus Vorteilsprogramm
-
 * Newsletter & Services: Melden Sie sich an und erhalten Sie regelmäßig persönliche Informationen per E-Mail
+* BahnCard: Freuen Sie sich auf attraktive Reisegutscheine, Upgrades oder Partnerangebote
+* Alle Digitalen Tickets, die Sie über Ihr DB Kundenkonto gekauft haben, sind nach Login im DB Navigator im Menübereich "Reisen" und auf bahn.de unter "Meine Reisen" abrufbar.
 
-* BahnCard: Freuen Sie sich auf attraktive Reisegutscheine, Upgrades oder Partnerangebote mit Ihren Vorteilen
-
-* Nutzen Sie Ihr DB Kundenkonto auch bei Ihren Buchungen auf der Webseite und mit unserer App DB Navigator
-
-* [Zu den Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
+* [Zu den DB Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-kundenkonto-um-ticket-zu-buchen)
 
@@ -3155,7 +3150,7 @@ Nein, wir bieten keine Stellplatzreservierungen für Fahrräder im Nahverkehr an
  Kann ich für meine Reise ins Ausland ein Digitales Ticket buchen?
 ----------
 
-Für die meisten Ziele in Europa können Sie Ihre Fahrkarte als Digitales Ticket auf dieser Website und in vielen Fällen auch über die App buchen. Wenn für Ihre ausgewählte Strecke das Digitale Ticket nicht buchbar ist, erhalten Sie in der Buchung einen entsprechenden Hinweis.
+Für die meisten Ziele in Europa können Sie Ihre Fahrkarte auf bahn.de und über die App DB Navigator buchen. Wenn für Ihre ausgewählte Strecke das Ticket nicht buchbar ist, erhalten Sie in der Buchung einen entsprechenden Hinweis.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-fuer-meine-reise-ins-ausland-ein-digitales-ticket-buchen)
 
@@ -4469,7 +4464,7 @@ Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reser
 
 In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservierung ist dann bereits kostenfrei im Ticket enthalten.** Die Reservierungspflicht gilt für folgende Züge:
 
-* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille (inkl. aller Zwischenhalte)
+* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille und saisonal Bordeaux (inkl. aller Zwischenhalte)
 * Italien: Züge nach Mailand über Basel Bad Bf
 * Polen: Alle Fernverkehrszüge nach Polen
 
@@ -4565,7 +4560,7 @@ Nein, Digitale Tickets sind nicht übertragbar. Die Person, auf die das Ticket a
  Sind Digitale Tickets übertragbar?
 ----------
 
-Nein, Digitale Tickets sind nicht übertragbar. Die Person, auf die das Ticket ausgestellt ist, muss bei der Reise also auch tatsächlich dabei sein.
+Nein, Digitale Tickets sind nicht übertragbar. Die Person, auf die das Ticket ausgestellt ist, muss bei der Reise dabei sein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-digitale-tickets-uebertragbar)
 
@@ -5696,23 +5691,15 @@ Wir bieten Ihnen ein spannendes Entertainmentangebot auf allen ICE-Zügen der De
  Was ist der Unterschied zwischen einem Handy- und einem Online-Ticket?
 ----------
 
-**Handy-Ticket**
+Handy- und Online-Tickets unterscheiden sich im Format und wie Sie bei der Ticketkontrolle vorgezeigt werden.
 
-* **Buchung:** In der App DB Navigator.
-* **Nutzung:** Abruf und Vorzeigen auf Ihrem Smartphone.
+Wird das Ticket in der App DB Navigator genutzt und zur Kontrolle vorgezeigt, handelt es sich um ein **Handy-Ticket.**
 
-**Online-Ticket**
+Einige Angebote wie das Deutschland-Ticket können ausschließlich als Handy-Ticket genutzt werden. Ein Ausdruck des Handy-Tickets, z. B. in Form eines Screenshots, ist nicht gültig.
 
-* **Buchung:** Auf bahn.de.
-* **Format:** Digital als PDF.
-* **Nutzung:** Vorzeigen auf Smartphone, Tablet oder ausgedruckt.
+Ein **Online-Ticket** wird im PDF-Format ausgegeben und kann digital oder auch ausgedruckt vorgezeigt werden.
 
-Weitere Details:
-
-* **E-Mail-Bestätigung:** Die PDF im Anhang der Bestätigungs-E-Mail kann als Beleg genutzt werden.
-* **Nutzung in der DB Navigator App:** Die meisten Online-Tickets können Sie auch als Handy-Ticket in der App DB Navigator verwenden, sofern Sie in der App mit dem gleichen DB Kundenkonto angemeldet sind oder das Ticket manuell hinzufügen.
-
-**Hinweis:** Manche Angebote, z. B. bestimmte internationale Strecken, können nicht als Handy-Ticket genutzt werden.
+Einige Angebote zum Beispiel für bestimmte internationale Strecken können nur als Online-Ticket genutzt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-unterschied-zwischen-einem-online-und-einem-handy-ticket)
 
@@ -7691,7 +7678,7 @@ Digitale Tickets, die im DB Reisezentrum erworben wurden, können auch **nur do
  Wie tausche ich ein Digitales Ticket um?
 ----------
 
-Der Umtausch Digitaler Tickets ist nicht möglich. Sie können Ihre Tickets stornieren und eine neue Reise buchen. In den ersten 3 Stunden nach der Buchung bieten wir Ihnen die Möglichkeit einer kostenfreien "Sofortstornierung" an - unabhängig von den tariflichen Bedingungen.
+Der Umtausch Digitaler Tickets ist nicht möglich. Sie können Ihre Tickets stornieren und eine neue Reise buchen. In den ersten 3 Stunden nach der Buchung (sofern die Buchung vor dem ersten Geltungstag liegt) bieten wir Ihnen die Möglichkeit einer kostenfreien "Sofortstornierung" an - unabhängig von den tariflichen Bedingungen.
 
 * [Details zu Umtausch und Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 * [FAQ zur Sofortstornierung](https://www.bahn.de/faq/wie-kann-ich-eine-sofortstornierung-vornehmen)

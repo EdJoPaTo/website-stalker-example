@@ -1300,11 +1300,6 @@ Die Probe BahnCard 50 kostet
 * 76,90 Euro für die 2. Klasse und
 * 152 Euro für die 1. Klasse.
 
-Die Probe BahnCard 50 zum Aktionspreis kostet:
-
-* 39,99 Euro (2. Klasse)
-* 79,99 Euro (1. Klasse)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-die-probe-bahncard-50)
 
  Wie viel kostet eine ermäßigte BahnCard?

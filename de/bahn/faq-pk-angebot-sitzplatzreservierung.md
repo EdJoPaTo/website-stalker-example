@@ -380,7 +380,7 @@ Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reser
 
 In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservierung ist dann bereits kostenfrei im Ticket enthalten.** Die Reservierungspflicht gilt für folgende Züge:
 
-* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille (inkl. aller Zwischenhalte)
+* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille und saisonal Bordeaux (inkl. aller Zwischenhalte)
 * Italien: Züge nach Mailand über Basel Bad Bf
 * Polen: Alle Fernverkehrszüge nach Polen
 

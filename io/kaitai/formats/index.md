@@ -30,7 +30,7 @@ For a summary of all entries with associated metadata, see [File Format Cross-Re
 
 #### Commonly Used Data Types ####
 
-[bcd](bcd/) , [bytes\_with\_io](bytes_with_io/) , [dos\_datetime](dos_datetime/) , [riff](riff/) , [utf8\_string](utf8_string/) , [vlq\_base128\_be](vlq_base128_be/) , [vlq\_base128\_le](vlq_base128_le/)
+[bcd](bcd/) , [bytes\_with\_io](bytes_with_io/) , [dos\_datetime](dos_datetime/) , [riff](riff/) , [utf16\_with\_bom](utf16_with_bom/) , [utf8\_string](utf8_string/) , [vlq\_base128\_be](vlq_base128_be/) , [vlq\_base128\_le](vlq_base128_le/)
 
 #### Databases ####
 
