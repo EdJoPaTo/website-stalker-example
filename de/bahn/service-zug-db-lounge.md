@@ -100,7 +100,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Dresden ####
 
-* **Lage:** Die DB Lounge Dresden liegt im ersten Obergeschoss auf der linken Seite der Galerie. Der Zugang zur Galerie erfolgt über eine Treppe in der zentralen Kuppelhalle (Richtung Ausgang St. Petersburger Straße). Für mobilitätseingeschränkte Reisende ist ein barrierefreier Zugang über eine Rampe von Gleis 3 möglich. An der Tür zur Rampe befindet sich eine Klingel, die betätigt werden muss. Das Personal öffnet die Tür manuell – bitte haben Sie einen Moment Geduld.
+* **Lage:** Die DB Lounge Dresden liegt im ersten Obergeschoss auf der linken Seite der Galerie. Der Zugang zur Galerie erfolgt über eine Treppe in der zentralen Kuppelhalle (Richtung Ausgang St. Petersburger Straße). Für mobilitätseingeschränkte Reisende ist ein barrierefreier Zugang über eine Rampe von Gleis 3 möglich. Bitte melden Sie sich an der DB Information, um Zugang zu erhalten. Das Personal öffnet die Tür manuell – bitte haben Sie einen Moment Geduld.
 * **Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Dresden Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Dresden Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:de1fd57c-c0bd-4f61-a3de-5a7186ff3737/341_Lageplan_Dresden.pdf)

@@ -96,7 +96,3 @@ Dispatch in
  Sold out [Learn More](/pages/byte) [Get Notified When Available](#)
 
 Free delivery with this computer
-
- 𝗕𝗮𝗻𝗸 𝗛𝗼𝗹𝗶𝗱𝗮𝘆 𝗗𝗲𝗮𝗹
-
- Enjoy 𝟱% off with code 𝗕𝗛𝟱
