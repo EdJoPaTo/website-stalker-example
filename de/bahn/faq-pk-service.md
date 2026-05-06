@@ -8155,6 +8155,7 @@ Sie können die Benachrichtigungen zur Reise in der App DB Navigator entweder be
 ----------
 
 Die DB Geschenkkarte ist ausschließlich innerhalb des Buchungsvorgangs auf unserer Website und in der App einlösbar - und zwar sowohl für den Kauf von DB Fahrkarten oder BahnCards als auch für Reservierungen. Dazu geben Sie den Gutscheincode auf der Zahlungs-Seite ein.
+Für den Kauf eines Abonnements wie z. B. dem Deutschland-Ticket kann die DB Geschenkkarte leider nicht verwendet werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-die-db-geschenkkarte-einloesen)
 
