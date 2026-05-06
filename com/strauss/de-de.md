@@ -1,150 +1,77 @@
-Halbe Länge,
-volle Power!
----
-
- Coole Sommer-Workwear: Bereit für jedes Abenteuer
----
-
- Coole Sommer-Workwear:
-Bereit für jedes Abenteuer
----
-
- Coole Sommer-Workwear: Bereit für jedes Abenteuer
+Sichtbar
+geschützt
 ----------
 
 ---
 
-[e.s.trail entdecken](https://www.strauss.com/de/de/e-s-trail/)
+ UV-Komplettschutz im coolen Style
 
- Trekking Swim Short
- e.s.trail
+[zu allen UV-Schutzprodukten](https://www.strauss.com/de/de/uv-schutz/)
 
-[](https://www.strauss.com/de/de/arbeitsshorts/trekking-swim-short-e-s-trail-3350990-96236-1912.html)
+100 % UV-Schutz (UV400)
+**Race Sonnenbrille e.s.ambition**
 
- \+2
+[](https://www.strauss.com/de/de/schutzbrillen/race-sonnenbrille-e-s-ambition-7040610-7476191-685.html)
 
- Trekking Swim Short
- e.s.trail
+Ein wahrer Alleskönner
+**Multifunktionstuch UV e.s.trail**
 
-[](https://www.strauss.com/de/de/arbeitsshorts/trekking-swim-short-e-s-trail-3350990-96236-1912.html)
+[](https://www.strauss.com/de/de/tuecher-schals/multifunktionstuch-uv-e-s-trail-3402360-7810690-1.html)
 
-[](https://www.strauss.com/de/de/pullover-troyer/funktions-troyer-longsleeve-uv-e-s-trail-3121910-21745-1912.html)
+[](https://www.strauss.com/de/de/pullover-troyer/visibility-funkt-troyer-longsleeve-uv-e-s-trail-3121920-84724-538.html)
 
- Funktions Troyer-Longsleeve
-UV e.s.trail
+[](https://www.strauss.com/de/de/pullover-troyer/visibility-funkt-troyer-longsleeve-uv-e-s-trail-3121920-84724-538.html)
 
- NEU
+[](https://www.strauss.com/de/de/sweats-hoodies/visibility-funktions-hoody-longsleeve-uv-e-s-trail-3108100-84723-539.html)
 
- leicht +
-schnelltrocknend
+[](https://www.strauss.com/de/de/sweats-hoodies/visibility-funktions-hoody-longsleeve-uv-e-s-trail-3108100-84723-539.html)
 
- weitere beliebte Shorts entdecken
+Die BG BAU fördert aktuell einen Teil der Schutz-Ausrüstung gegen UV-Strahlung. Informieren Sie sich direkt unter **[www.bgbau.de!](https://www.bgbau.de/)**
 
- Short e.s.motion ten
-
- Short e.s.motion 2020
-
-[Herren Shorts](https://www.strauss.com/de/de/arbeitsshorts/)
-
-[Damen Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/)
-
-[Herren Shorts](https://www.strauss.com/de/de/arbeitsshorts/)
-
-[Damen Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/)
-
-[Herren Shorts](https://www.strauss.com/de/de/arbeitsshorts/)
-
-[Damen Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/)
-
-[Herren Shorts](https://www.strauss.com/de/de/arbeitsshorts/)
-
-[Damen Shorts](https://www.strauss.com/de/de/arbeitsshorts-damen/)
-
- Profis für
-jeden Job
+ S7S
 ---
 
- Beliebte Arbeitsschuhe von Strauss
+ Sicherheits-
+schuhe
 ---
 
- Beliebte Arbeitsschuhe von Strauss
----
-
- Beliebte Arbeitsschuhe von Strauss
+ Schutz
+mit Style
 ----------
 
 ---
 
-[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
-
-[alle Berufsschuhe](https://www.strauss.com/de/de/berufsschuhe/)
+ Sicherheitsschuhe mit sportlichem Komfort
 
 [alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
 
-[alle Berufsschuhe](https://www.strauss.com/de/de/berufsschuhe/)
+ \+4
 
-Schuhe mit Zehenschutz
+ S7S Sicherheitsschuhe
+ e.s. Peoria low
 
----
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-peoria-low-1400180-93101-685.html)
 
- S3
----
+ \+3
 
- \+9
+ S7S Sicherheitsschuhe
+ e.s. Peoria low
 
- S3 Sicherheitsschuhe
- e.s. Kastra II mid
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-e-s-kastra-ii-mid-1302040-93389-1642.html)
-
- \+10
-
- S3 Sicherheitsschuhe
- e.s. Kastra II mid
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-e-s-kastra-ii-mid-1302040-93389-1642.html)
-
- \+10
-
- S3 Sicherheitsschuhe
- e.s. Kastra II mid
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-e-s-kastra-ii-mid-1302040-93389-1642.html)
-
- \+9
-
- S3 Sicherheitsschuhe
- e.s. Kastra II low
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitshalbschuhe-e-s-kastra-ii-low-1302050-93379-1642.html)
-
- \+10
-
- S3 Sicherheitsschuhe
- e.s. Kastra II low
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitshalbschuhe-e-s-kastra-ii-low-1302050-93379-1642.html)
-
- \+10
-
- S3 Sicherheitsschuhe
- e.s. Kastra II low
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitshalbschuhe-e-s-kastra-ii-low-1302050-93379-1642.html)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-peoria-low-1400180-93101-685.html)
 
 *
 *
 
- Alles für den Job: Profi-Arbeitskleidung von Europas Nr. 1
+ Alles für den Job: Profi-Arbeitskleidung vom Experten
 ==========
 
 ---
 
-SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis Artikel
+SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis-Artikel
 
-SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis Artikel
+SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis-Artikel
 
-SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis Artikel
+SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis-Artikel
 
 [jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=03d0703d-a3b6-451b-873e-3263df27d10f)
 
@@ -171,6 +98,38 @@ zusammenstellen & kräftig sparen.
 [alle Aktions-Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
 
 [alle Aktions-Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
+
+ Frischer Wind fürs Handwerk
+
+###
+
+Bundhose e.s.motion 2020
+
+ ###
+
+---
+
+[für Herren](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65511-722.html)
+
+[für Damen](https://www.strauss.com/de/de/berufshosen-damen/damenhose-e-s-motion-2020-3310080-65801-722.html)
+
+[für Kinder](https://www.strauss.com/de/de/kinderhosen/bundhose-e-s-motion-2020-kinder-3310040-63926-722.html)
+
+[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65511-722.html)
+
+ \+12
+
+[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65511-722.html)
+
+Beinbelüftung
+
+Wenn's zu heiß wird: Einfach Reißverschluss am Oberschenkel hinten öffnen und frische Luft rein lassen.
+
+15 starke Farben zur Auswahl
+
+vielseitig kombinierbar – von Kopf bis Fuß ein Look
+
+mit robusten Cordura®-Verstärkungen
 
  Strauss x
 Mario Kart
@@ -199,117 +158,18 @@ Mario Kart
 
 [](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-hoody-kinder-3108150-70679-1909.html)
 
-Die neue
-Leichtigkeit
-
----
-
-Reißfest, luftig & beweglich:
-Coole Sommer-Workwear
-
-[e.s.taktik entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
-
-[e.s.taktik entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
-
-[e.s.taktik entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
-
- Arbeitshemd e.s.t:aktik,
- langarm
-
-[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-langarm-3110890-87393-1858.html)
-
- \+3
-
- Arbeitshemd
-e.s.t:aktik, langarm
-
-[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-langarm-3110890-87393-1858.html)
-
- \+3
-
- Arbeitshemd
-e.s.t:aktik, langarm
-
-[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-langarm-3110890-87393-1858.html)
-
- Arbeitshemd e.s.t:aktik,
- kurzarm
-
-[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-kurzarm-3110880-87383-1858.html)
-
- \+3
-
- Arbeitshemd
-e.s.t:aktik, kurzarm
-
-[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-kurzarm-3110880-87383-1858.html)
-
- \+3
-
- Arbeitshemd
-e.s.t:aktik, kurzarm
-
-[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-kurzarm-3110880-87383-1858.html)
-
- NEU
----
-
- NEU
----
-
- NEU
----
-
- STRAUSSbox 125 small
+ Druck & Stick – ab 1 Stück
 ----------
 
 ---
 
- STRAUSSbox 125 small
+ Druck & Stick – ab 1 Stück
 ---
 
- STRAUSSbox 125 small
+ Druck & Stick – ab 1 Stück
 ---
 
-Grösste Ordnung
-auf kleinstem Raum
-
----
-
-[jetzt entdecken](https://www.strauss.com/de/de/straussbox-125-small/)
-
-[jetzt entdecken](https://www.strauss.com/de/de/straussbox-125-small/)
-
-[jetzt entdecken](https://www.strauss.com/de/de/straussbox-125-small/)
-
- STRAUSSbox 125 small
-
-[](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-125-small-inkl-trennstege-7072800-5506170-1.html)
-
- \+2
-
- STRAUSSbox
-125 small
-
-[](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-125-small-inkl-trennstege-7072800-5506170-1.html)
-
- STRAUSSbox
-125 small
-
-[](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-125-small-inkl-trennstege-7072800-5506170-1.html)
-
- Druck & Stick - ab 1 Stück
-----------
-
----
-
- Druck & Stick - ab 1 Stück
----
-
- Druck & Stick - ab 1 Stück
----
-
- Jetzt online
+ Teamwear
 gestalten
 ---
 
@@ -363,72 +223,37 @@ unkompliziert gestalten & bestellen
 
 ---
 
- Inspiration für jeden
- Anlass entdecken:
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
 
-[
-
-Muttertag
-
-]()
-
-[
-
-Vatertag
-
-]()
-
-[
-
-JGAs
-
-]()
-
- Für Kunden, Freunde & Familie: Geschenkideen von Strauss
----
-
- Inspiration für jeden
- Anlass entdecken:
-
-[
-
-Muttertag
-
-]()
-
-[
-
-Vatertag
-
-]()
-
-[
-
-JGAs
-
-]()
+[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
 
 [Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
 
 [Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
 
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
 
 [Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
 
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
-
-[](https://www.strauss.com/de/de/allroundtaschen/backpack-e-s-motion-ten-7070520-6315768-1193.html)
-
-[](https://www.strauss.com/de/de/allroundtaschen/washbag-e-s-work-travel-7072560-5505377-1627.html)
+[](https://www.strauss.com/de/de/allroundtaschen/backpack-e-s-motion-ten-7070520-6315766-1197.html)
 
 [](https://www.strauss.com/de/de/caps/e-s-cap-color-3401090-7610244-364.html)
 
+[](https://www.strauss.com/de/de/bandmasse/e-s-taschenbandmass-grip-7143470-5504250-0.html)
+
+[](https://www.strauss.com/de/de/kueche-haushalt/e-s-lunchpot-7903190-5576042-0.html)
+
 [](https://www.strauss.com/de/de/handtuecher/frottier-duschtuch-premium-7600532-1517184-130.html)
 
-[](https://www.strauss.com/de/de/serviceschuerzen-latzschuerzen-damen/e-s-latzschuerze-denim-lang-3511510-8554304-1302.html)
+[](https://www.strauss.com/de/de/allroundtaschen/backpack-e-s-motion-ten-7070520-6315766-1197.html)
+
+[](https://www.strauss.com/de/de/caps/e-s-cap-color-3401090-7610244-364.html)
+
+[](https://www.strauss.com/de/de/bandmasse/e-s-taschenbandmass-grip-7143470-5504250-0.html)
+
+[](https://www.strauss.com/de/de/kueche-haushalt/e-s-lunchpot-7903190-5576042-0.html)
+
+[](https://www.strauss.com/de/de/handtuecher/frottier-duschtuch-premium-7600532-1517184-130.html)
 
 [alle Geschenkideen](https://www.strauss.com/de/de/geschenkideen-herren/)
 
@@ -436,41 +261,83 @@ JGAs
 
 [alle Geschenkideen](https://www.strauss.com/de/de/geschenkideen-herren/)
 
- Weitere Neuheiten entdecken
+ Inspiration für jeden
+ Anlass entdecken:
+
+[
+
+Muttertag
+
+]()
+
+[
+
+Vatertag
+
+]()
+
+[
+
+JGAs
+
+]()
+
+ Inspiration für jeden
+ Anlass entdecken:
+
+[
+
+Muttertag
+
+]()
+
+[
+
+Vatertag
+
+]()
+
+[
+
+JGAs
+
+]()
+
+ e.s.work
+&travel
 ---
 
-###  Herren  ###
+ Taschen, Rucksäcke & Koffer
 
+ vielseitig kombinierbar
+
+ praktische Features
+
+ Perfekt für die Reise
+– mehr Komfort, mehr Ordnung,
+mehr Reisespaß!
+
+ Spar-Set: Work&Travel II
 ---
 
-alle Produkte
+ Nur solange der Vorrat reicht.
 
- Herren
+ 1x Duffle Bag-Reisetasche
+
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0052?variantId=614fcaab-108e-4fe4-a1f7-8d86ed026455)
+
+ 1x Rolltop-Rucksack
+
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0052?variantId=b7002fbe-f5aa-45ee-bb58-6757d5caee79)
+
+ \+ gratis
 ---
 
-alle Produkte
+ 1x Schuh- & Wäschetasche
 
-###  Damen  ###
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0052)
 
----
-
-alle Produkte
-
- Damen
----
-
-alle Produkte
-
-###  Kinder  ###
-
----
-
-alle Produkte
-
- Kinder
----
-
-alle Produkte
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0052)
 
  Von Workwear bis Werkzeug – Über 40.000 Produkte
 ----------
