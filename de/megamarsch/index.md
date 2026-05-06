@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### HANNOVER ###
+### münchen ###
 
-### 02. Mai 2026 ###
+### 16.-17. MAI 2026 ###
 
-### 50 km ###
+### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/hannover)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/münchen)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -47,9 +47,9 @@ IN DEINER NÄHE!
 
 [Location](https://www.megamarsch.de/weserbergland)
 
-[Location](https://www.megamarsch.de/hannover)
+[Location](https://www.megamarsch.de)
 
-[HANNOVER](https://www.megamarsch.de/hannover)
+[HANNOVER](https://www.megamarsch.de)
 ----------
 
 [BERLIN BEI NACHT](https://www.megamarsch.de/berlin)

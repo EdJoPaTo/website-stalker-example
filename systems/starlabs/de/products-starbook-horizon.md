@@ -97,7 +97,7 @@ StarPort 12-Port USB-C Hub
 
 USB-A to Ethernet Adapter
 
-USB-C to USB-A Adapter (480Mbps)
+USB-C to USB-A Adapter
 
  duties and taxes
 

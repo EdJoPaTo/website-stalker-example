@@ -75,9 +75,11 @@ Recovery Drive (USB-C + USB-A)
 
 StarPort 12-Port USB-C Hub
 
+Micro HDMI to HDMI Adapter
+
 USB-A to Ethernet Adapter
 
-USB-C to USB-A Adapter (480Mbps)
+USB-C to USB-A Adapter
 
 StarLite Protective Case
 

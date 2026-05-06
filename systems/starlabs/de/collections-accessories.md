@@ -60,7 +60,7 @@ Connectivity & desk setup
 
 [](/collections/accessories/products/usb-c-to-usb-a-adapter)
 
-[USB-C to USB-A Adapter €13,37](/collections/accessories/products/usb-c-to-usb-a-adapter)
+[Micro HDMI to HDMI Adapter €13,37](/collections/accessories/products/usb-c-to-usb-a-adapter)
 
 [](/collections/accessories/products/usb-a-to-ethernet-adapter)
 
@@ -68,7 +68,7 @@ Connectivity & desk setup
 
 [](/collections/accessories/products/usb-c-to-usb-a-adapter-1)
 
-[USB-C to USB-A Adapter (480Mbps) €13,37](/collections/accessories/products/usb-c-to-usb-a-adapter-1)
+[USB-C to USB-A Adapter €13,37](/collections/accessories/products/usb-c-to-usb-a-adapter-1)
 
 Common replacement parts
 
