@@ -2401,7 +2401,7 @@ Das Handy-Ticket eines Abos wird immer für den aktuellen Kalendermonat ausgeste
 Aktualisiert sich Ihr Handy-Ticket nicht automatisch, prüfen Sie folgende Schritte:
 
 * Sind Sie mit einer stabilen Internetverbindung verbunden?
-* Haben Sie für die App die Einstellungen zur HIntergrundaktualisierung aktiviert?
+* Haben Sie für die App die Einstellungen zur Hintergrundaktualisierung aktiviert?
 * Haben Sie die aktuellste App-Version der App?
 * Fügen Sie das Ticket bei Bedarf noch einmal neu hinzu.
 
@@ -2437,7 +2437,7 @@ Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle 
 Weitere Tipps:
 
 * Ist die Schreibweise Ihres Nachnamens genau wie bei der Bestellung? Dies können Sie in der Bestellbestätigung oder im Aboportal nachprüfen.
-* Prüfen Sie auch, dass Sie Vorname und Nachname nicht vertauschen.
+* Prüfen Sie, dass Sie Vorname und Nachname nicht vertauschen.
 * Achten Sie darauf, keine Leerzeichen am Anfang oder Ende Ihrer Eingaben zu setzen. Das kann beim Kopieren der Daten versehentlich passieren.
 * Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 * Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die E-Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.

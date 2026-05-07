@@ -11,8 +11,6 @@ Domain kaufen und registrieren
 Ist deine Wunschdomain noch frei? Jetzt Domain Check starten!
 ----------
 
-.de Domain
-
 0,42 € pro Monat
 
 pro Monat
@@ -22,8 +20,6 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
-
-.at Domain
 
 ab 1,05 € pro Monat
 
@@ -35,8 +31,6 @@ pro Monat ab
 
 [Jetzt bestellen\>](https://www.netcup.com/de/domain/zusaetzliche-domain-at)
 
-.com Domain
-
 ab 1,38 € pro Monat
 
 pro Monat ab
@@ -46,8 +40,6 @@ pro Monat ab
 (inkl. 19% MwSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/domain/zusaetzliche-domain-com)
-
-neue Domains
 
 ab 1,07 € pro Monat
 

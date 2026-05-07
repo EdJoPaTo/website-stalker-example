@@ -13,7 +13,11 @@ Verfügbare Betriebssysteme als Image installierbar
 
 amd64
 
+ Die Architektur amd64 bezieht sich auf die Produktkategorie der VPS-x86-Tarife.
+
 arm64
+
+ Die Architektur arm64 bezieht sich auf die Produktkategorie der ARM64-Tarife.
 
 AlmaLinux 8
 
@@ -126,7 +130,11 @@ Verfügbare CD-ROMs / DVDs
 
 amd64
 
+ Die Architektur amd64 bezieht sich auf die Produktkategorie der VPS-x86-Tarife.
+
 arm64
+
+ Die Architektur arm64 bezieht sich auf die Produktkategorie der ARM64-Tarife.
 
 AlmaLinux 8
 

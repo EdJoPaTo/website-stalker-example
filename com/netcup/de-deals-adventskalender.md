@@ -4,8 +4,6 @@ Täglich neue Deals entdecken: Der netcup Adventskalender
 
 Von **1. Dezember bis 24. Dezember** öffnet sich täglich ein neues Türchen mit unschlagbaren Deals, die **jeweils 24 Stunden lang verfügbar** sind. Sei dabei!
 
-VPS 2000 G12 Pro
-
 \+ 100 % mehr NVMe
 
 statt 17,26 €, dauerhaft
@@ -13,8 +11,6 @@ statt 17,26 €, dauerhaft
 14,99 €
 
 pro Monat (inkl. 19% MWSt.)
-
-VPS 2000 G12 Pro
 
 \+ 100 % mehr NVMe
 
@@ -26,7 +22,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-2000-g12-pro-nue-adv25)
 
-RS 4000 G12 Ultra
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -35,8 +31,6 @@ dauerhaft
 44,27 €
 
 pro Monat (inkl. 19% MWSt.)
-
-RS 4000 G12 Ultra
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -48,7 +42,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-4000-g12-ultra-nue-adv25)
 
-Webhosting 2000
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 20 % Rabatt
 
@@ -57,8 +51,6 @@ statt 3,25 €, dauerhaft
 2,58 €
 
 pro Monat (inkl. 19% MWSt.)
-
-Webhosting 2000
 
 20 % Rabatt
 
@@ -70,7 +62,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue-adv25)
 
-RS 2000 G12 Ultra
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -79,8 +71,6 @@ dauerhaft
 24,18 €
 
 pro Monat (inkl. 19% MWSt.)
-
-RS 2000 G12 Ultra
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -92,7 +82,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12-ultra-nue-adv25)
 
-nc Coffee2Go Tasse
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 Der perfekte Handwärmer
 
@@ -101,8 +91,6 @@ einmalig
 20,99 €
 
 (inkl. 19% MWSt.) und einzigartig
-
-nc Coffee2Go Tasse
 
 Der perfekte Handwärmer
 
@@ -114,7 +102,7 @@ einmalig
 
 [Jetzt bestellen\>](https://www.netcup.com/de/sonstige/nc-coffee2go-tasse-adv25)
 
-Webhosting 4000
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 42 % Rabatt
 
@@ -123,8 +111,6 @@ statt 6,52 €, dauerhaft
 3,76 €
 
 pro Monat (inkl. 19% MWSt.)
-
-Webhosting 4000
 
 42 % Rabatt
 
@@ -136,7 +122,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue-adv25)
 
-.net Domain
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 35 % Rabat
 
@@ -145,8 +131,6 @@ statt 2,11 €, dauerhaft
 1,39 €
 
 pro Monat (inkl. 19% MWSt.)
-
-.net Domain
 
 35 % Rabat
 
@@ -158,7 +142,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/en/domain/aktion-.net-domain-adv25)
 
-.xyz Domain
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 35 % Rabatt
 
@@ -167,8 +151,6 @@ statt 2,24 €, dauerhaft
 1,46 €
 
 pro Monat (inkl. 19% MWSt.)
-
-.xyz Domain
 
 35 % Rabatt
 
@@ -180,7 +162,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/domain/aktion-.xyz-domain-adv25)
 
-VPS 1000 G12 Pro
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+ 100 % mehr NVMe
 
@@ -189,8 +171,6 @@ statt 9,46 €, dauerhaft
 6,84 €
 
 pro Monat (inkl. 19% MWSt.)
-
-VPS 1000 G12 Pro
 
 \+ 100 % mehr NVMe
 
@@ -202,7 +182,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-1000-g12-pro-nue-adv25)
 
-RS 1000 G12 Ultra
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -211,8 +191,6 @@ dauerhaft
 13,28 €
 
 pro Monat (inkl. 19% MWSt.)
-
-RS 1000 G12 Ultra
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -224,7 +202,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12-ultra-nue-adv25)
 
-.de Domain
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 69 % Rabatt
 
@@ -233,8 +211,6 @@ statt 0,42 €, dauerhaft
 0,13 €
 
 pro Monat (inkl. 19% MWSt.)
-
-.de Domain
 
 69 % Rabatt
 
@@ -246,7 +222,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/domain/aktion-.de-domain-adv25)
 
-RS 8000 G12 Pro
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+50 % NVMe / +4 vCore
 
@@ -255,8 +231,6 @@ dauerhaft
 56,92 €
 
 pro Monat (inkl. 19% MWSt.)
-
-RS 8000 G12 Pro
 
 \+50 % NVMe / +4 vCore
 
@@ -268,7 +242,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12-pro-nue-adv25)
 
-.info Domain
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 35 % Rabatt
 
@@ -277,8 +251,6 @@ statt 3,05 €, dauerhaft
 1,99 €
 
 pro Monat (inkl. 19% MWSt.)
-
-.info Domain
 
 35 % Rabatt
 
@@ -290,7 +262,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/en/domain/aktion-.info-domain-adv25)
 
-.com Domain
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 18 % Rabatt
 
@@ -299,8 +271,6 @@ statt 1,38 €, dauerhaft
 1,13 €
 
 pro Monat (inkl. 19% MWSt.)
-
-.com Domain
 
 18 % Rabatt
 
@@ -312,7 +282,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/domain/aktion-.com-domain-adv25)
 
-VPS 8000 G12 Pro
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+ 50 % NVMe / + 4 vCore
 
@@ -321,8 +291,6 @@ statt 43,78 €, dauerhaft
 38,08 €
 
 pro Monat (inkl. 19% MWSt.)
-
-VPS 8000 G12 Pro
 
 \+ 50 % NVMe / + 4 vCore
 
@@ -334,7 +302,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-8000-g12-pro-nue-adv25)
 
-RS 2000 G12 Pro
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -343,8 +311,6 @@ dauerhaft
 17,36 €
 
 pro Monat (inkl. 19% MWSt.)
-
-RS 2000 G12 Pro
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -356,7 +322,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12-pro-nue-adv25)
 
-Webhosting 8000
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 42 % Rabatt
 
@@ -365,8 +331,6 @@ statt 10,60 €, dauerhaft
 6,20 €
 
 pro Monat (inkl. 19% MWSt.)
-
-Webhosting 8000
 
 42 % Rabatt
 
@@ -378,7 +342,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/hosting/webhosting/webhosting-8000-nue-adv25)
 
-RS 1000 G12 Pro
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -387,8 +351,6 @@ dauerhaft ab
 10,41 €
 
 pro Monat (inkl. 19% MWSt.)
-
-RS 1000 G12 Pro
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -400,7 +362,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12-pro-nue-adv25#rs-1000-g12-pro-sin-adv25)
 
-managed PS 2000 G12
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 20 % Rabatt
 
@@ -409,8 +371,6 @@ statt 59,63 €, dauerhaft
 47,71 €
 
 pro Monat (inkl. 19% MWSt.)
-
-managed PS 2000 G12
 
 20 % Rabatt
 
@@ -422,7 +382,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/managed-cloud/managed-server/managed-ps-2000-g12-nue-adv25)
 
-.eu Domain
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 46 % Rabatt
 
@@ -431,8 +391,6 @@ dauerhaft
 0,42 €
 
 pro Monat (inkl. 19% MWSt.)
-
-.eu Domain
 
 46 % Rabatt
 
@@ -444,7 +402,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/domain/aktion-.eu-domain-adv25)
 
-.li Domain
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 74 % Rabatt
 
@@ -453,8 +411,6 @@ dauerhaft
 0,60 €
 
 pro Monat (inkl. 19% MWSt.)
-
-.li Domain
 
 74 % Rabatt
 
@@ -466,7 +422,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/en/domain/aktion-.li-domain-adv25)
 
-RS 4000 G12 Pro
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -475,8 +431,6 @@ dauerhaft
 31,64 €
 
 pro Monat (inkl. 19% MWSt.)
-
-RS 4000 G12 Pro
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -488,7 +442,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-4000-g12-pro-nue-adv25)
 
-VPS 4000 G12 Pro
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 \+ 100 % NVMe
 
@@ -497,8 +451,6 @@ dauerhaft
 25,58 €
 
 pro Monat (inkl. 19% MWSt.)
-
-VPS 4000 G12 Pro
 
 \+ 100 % NVMe
 
@@ -510,7 +462,7 @@ pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-4000-g12-pro-nue-adv25)
 
-Webhosting 1000
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 50 % Rabatt / Spendenprodukt
 
@@ -519,8 +471,6 @@ statt 2,17 €, dauerhaft
 1,08 €
 
 pro Monat (inkl. 19% MWSt.)
-
-Webhosting 1000
 
 50 % Rabatt / Spendenprodukt
 
@@ -531,6 +481,8 @@ statt 2,17 €, dauerhaft
 pro Monat (inkl. 19% MWSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/hosting/webhosting/webhosting-1000-nue-adv25)
+
+ Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
 So funktioniert der Adventskalender
 ----------

@@ -204,16 +204,6 @@ cirrus incus
   * **Intel Wi-Fi 6 AX210**
     2.5GHz/5GHz/6GHz WLAN, Bluetooth 5.2
 
-  ##### WiFi / Bluetooth #####
-
-  Bei ausgewählter WiFi Option werden passende Antennen für 2,4GHz / 5GHz mitgeliefert.
-
-  * Keine
-  * **Intel DualBand Wireless-AC 9260**
-    2.4GHz/5GHz WLAN, Bluetooth 5.0
-  * **Intel Wi-Fi 6 AX210**
-    2.5GHz/5GHz/6GHz WLAN, Bluetooth 5.2
-
   ##### Zusätzliche Schnittstellen #####
 
   Zusätzliche Schnittstellen konfigurieren.
