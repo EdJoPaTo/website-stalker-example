@@ -4295,7 +4295,7 @@ Nachdem Sie den Kauf beim Vertriebspartner cadooz GmbH abgeschlossen haben, erha
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rabatt-erhalten)
 
- Kann ich für meine Reise ins Ausland ein Digitales Ticket im Reisezentrum buchen?
+ Kann ich für meine Reise ins Ausland ein Digitales Ticket im DB Reisezentrum buchen?
 ----------
 
 Für die meisten Ziele in Europa können Sie Ihre Fahrkarte als Online-Ticket im DB Reisezentrum buchen.
@@ -7407,9 +7407,11 @@ Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wende
  Wie lade ich mein Digitales Ticket, das ich im Reisezentrum gekauft habe, in die App DB Navigator?
 ----------
 
-1. Installieren Sie die App DB Navigator auf Ihrem Android- oder iOS-Smartphone.
+1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
 2. Öffnen Sie die Buchungsbestätigung, die Sie per E-Mail erhalten haben.
-3. Nutzen Sie den entsprechenden Link in der Buchungsbestätigung, um Ihr Ticket direkt als Handy-Ticket in die App zu laden.
+3. Nutzen Sie den entsprechenden Link in der Buchungsbestätigung, um Ihr Ticket direkt in die App zu laden.
+
+* [So laden Sie Ihr Ticket in die App DB Navigator](https://www.bahn.de/service/informationen-buchung/digitales-ticket/in-die-app-laden)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lade-ich-mein-digitales-ticket-das-ich-im-reisezentrum-gekauft-habe-in-die-app-db-navigator)
 
@@ -7669,7 +7671,7 @@ Um eine sichere Übertragung zu gewährleisten, gerade bei sensiblen Daten, empf
  Wie storniere ich das Digitale Ticket oder tausche es um?
 ----------
 
-Digitale Tickets, die im DB Reisezentrum erworben wurden, können auch **nur dort** storniert oder umgetauscht werden. Für die Stornierung von Digitalen Tickets kommt es auf die Erstattungskonditionen des jeweiligen Tickets an.
+Digitale Tickets, die Sie im DB Reisezentrum erworben haben, können Sie auch **nur dort** stornieren oder umtauschen. Beachten Sie die tariflichen Bestimmungen des Angebots.
 
 * [Details zu Umtausch und Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
