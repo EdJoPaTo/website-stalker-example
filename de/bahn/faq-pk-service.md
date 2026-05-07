@@ -2135,7 +2135,7 @@ Ja, Sie finden Ihren Statuslevel auch im DB Navigator. Als Statusnachweis dient 
  For which products can I redeem a DB gift voucher?
 ----------
 
-DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be used to purchase other DB gift vouchers. If the value of the DB gift voucher is higher than the purchase price of the product for which you redeem it, you will receive the remaining value in the form of a voucher.
+DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be used to purchase other DB gift vouchers and season tickets such as the Deutschland-Ticket. If the value of the DB gift voucher is higher than the purchase price of the product for which you redeem it, you will receive the remaining value in the form of a voucher.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
 
@@ -2169,7 +2169,7 @@ Für welche Produkte Sie Ihren Aktionsgutschein einlösen können, lesen Sie bit
  Für welche Produkte kann ich DB Geschenkgutscheine einlösen?
 ----------
 
-DB Geschenkgutscheine können beim Kauf von DB Produkten (z. B. BahnCards) im Bezahlvorgang mit eingelöst werden, nicht jedoch für den Kauf von DB Geschenkgutscheinen genutzt werden. Falls der Wert des DB Geschenkgutscheins höher ist als der Kaufpreis des Produkts, für den Sie ihn einlösen, erhalten Sie den Restwert in Form eines Gutscheins.
+DB Geschenkgutscheine können beim Kauf von DB Produkten (z. B. BahnCards) im Bezahlvorgang mit eingelöst werden, nicht jedoch für den Kauf von DB Geschenkgutscheinen und Abonnements wie z. B. das Deutschland-Ticket genutzt werden. Falls der Wert des DB Geschenkgutscheins höher ist als der Kaufpreis des Produkts, für den Sie ihn einlösen, erhalten Sie den Restwert in Form eines Gutscheins.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-produkte-kann-ich-db-geschenkgutschein-einloesen)
 
