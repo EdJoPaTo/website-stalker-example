@@ -16,18 +16,6 @@ Hi, how can we help you?
 
 [Shelly Smart Control iOS 1.8.2 (69) – Widget Reconfiguration](https://allterco.freshdesk.com/en/support/solutions/articles/103000399549-shelly-smart-control-ios-1-8-2-69-widget-reconfiguration)
 
- GEN1 Upgrade Program – Voucher Usage Notice
-----------
-
- Please be advised that vouchers issued under the GEN1 Upgrade Program (Shelly 1, 1PM, 2PM) are applicable **only to single packs** and cannot be used for bundles or multi-pack products.
-
-* Valid for equivalent **Gen3 devices (Shelly 1, 1PM, 2PM)**.
-* **Not valid for Shelly Mini devices.**
-* Based on the Gen1 devices registered in your app.
-* Maximum limit of **15 units**.
-
-[View full terms and conditions](https://www.shelly.com/pages/gen1-upgrade-info)
-
 Knowledge base
 ----------
 
