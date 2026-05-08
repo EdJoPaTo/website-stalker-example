@@ -1,12 +1,12 @@
 Häufige Fragen zu "Deutschland-Ticket"
 ==========
 
- Ist es möglich, das Abbuchungsdatum zu ändern?
+ Ist es möglich, das Abbuchungsdatum von Abo-Zahlungen zu ändern?
 ----------
 
 Nein, da es sich um einen automatisierten Vorgang handelt. In den Beförderungsbedingungen ist je nach ausgewähltem Abonnement festgelegt, wann der Einzug von Ihrem Konto für die monatlichen Beiträge erfolgt.
 
-Bei einem Deutschland-Ticket, welches direkt bei der DB erworben wurde, erfolgt der Einzug immer zum ersten eines Monats.
+Bei einem Deutschland-Ticket, das Sie direkt bei der Deutschen Bahn gekauft haben, erfolgt der Einzug immer zum Ersten eines Monats.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderung-abbuchungsdatum)
 
@@ -109,6 +109,20 @@ Beachten Sie die tarifliche Kündigungsfrist: Ein Deutschland-Ticket-Abonnement 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung-zurueckziehen)
 
+ Kann ich eine Erstattung für mein Deutschland-Ticket bekommen, wenn ich längere Zeit krank bin?
+----------
+
+Ja. Sie können eine Erstattung für Ihr Deutschland-Ticket erhalten, wenn Sie diese Voraussetzungen erfüllen:
+
+* Sie waren mindestens 22 Tage am Stück krank und reiseunfähig.
+* Sie legen eine Bescheinigung von einer Ärztin oder einem Arzt, einem Krankenhaus oder Ihrer Krankenkasse vor.
+* Sie stellen den Antrag spätestens 7 Tage nach Ende des Monats, in dem Ihre Reiseunfähigkeit endet.
+* Sie reichen Zeitraum und Nachweis über das Kontaktformular ein.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/erstattung_krankheit)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschland-ticket-erstattungsregel-krankheit)
+
  Ich kann mein Deutschland-Ticket-Abo nicht im Aboportal finden. Was kann ich tun?
 ----------
 
@@ -120,6 +134,23 @@ Beachten Sie die tarifliche Kündigungsfrist: Ein Deutschland-Ticket-Abonnement 
 * [Zum Aboportal](https://abo.bahn.de/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschland-ticket-im-abo-portal-finden)
+
+ Kann ich Deutschland-Tickets für mehrere Personen buchen?
+----------
+
+Ja, aber das ist nur begrenzt möglich. Das Deutschland-Ticket ist ein Angebot für Privatreisende. Für ein sicheres Bestellen haben wir einige vorbeugende Maßnahmen eingebaut. Dadurch kann es vorkommen, dass nur eine bestimmte Anzahl Bestellungen innerhalb eines bestimmten Zeitraums möglich ist.
+
+Benötigen Sie mehrere Deutschland-Tickets für eine Reisegruppe? Wir empfehlen, dass jede reisende Person für sich selbst bucht. Dafür muss sie sich mit einem Kundenkonto registrieren und dann das Ticket individuell buchen.
+Bei minderjährigen Reisenden muss eine volljährige Person (zum Beispiel die Erziehungsberechtigten oder Lehrkräfte) buchen und dabei den oder die minderjährige Reisende als "abweichende reisende Person" im Bestellprozess angeben.
+
+Bitte beachten Sie außerdem, dass das Deutschland-Ticket ein Abo-Angebot ist, welches sich automatisch verlängert. Eine Kündigung zum jeweiligen Monatsende ist durch die bestellende Person bis zum 10. Tag des Monats im Aboportal möglich.
+
+Weitere Informationen zu Angeboten für Gruppen oder Organisationen, prüfen Sie bitte unter folgenden Links:
+
+* [Für Organisationen und Firmen: Deutschland-Ticket als Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
+* [Angebote für Gruppen](https://www.bahn.de/angebot/gruppen.)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschland-tickets-fuer-mehrere-personen-buchen)
 
  Muss ich mit meinem Deutschlandsemesterticket etwas beachten?
 ----------
@@ -196,21 +227,20 @@ Nein. Sie können das Deutschland-Ticket nicht am DB Fahrkartenautomaten kaufen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-automat)
 
- Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
+ Kann ich mit einem Abo oder dem Deutschland-Ticket BahnBonus Punkte sammeln?
 ----------
 
-Nach der Anmeldung zum BahnBonus Vorteilsprogramm sammeln Sie Statuspunkte beim Kauf von Fahrkarten, wenn Sie mit Ihrem angemeldeten DB Kundenkonto bestellen.
-
-Für den Kauf des Deutschland-Tickets erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, wenn:
+Für den Kauf des Deutschland-Tickets oder anderer Abos (zum Beispiel Wochen- und Monatskarten im Fernverkehr) erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, **wenn**:
 
 * Sie beim BahnBonus-Programm angemeldet sind
-* Sie das Ticket über bahn.de oder den DB Navigator kaufen
+* Sie das Ticket mit Ihrem angemeldeten DB Kundenkonto über bahn.de oder den DB Navigator kaufen
 * Ihre persönlichen Daten beim Kauf mit denen im BahnBonus-Konto übereinstimmen
 
-Beim Kauf des Deutschland-Tickets **bei anderen Anbietern**, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können **keine** BahnBonus Punkte gesammelt werden.
+Beim Kauf des Deutschland-Tickets **bei anderen Anbietern**, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können **keine** BahnBonus Punkte gesammelt werden. Auch für Verbundfahrkarten und -abos können **keine** Punkte gesammelt werden.
 
 Für Buchungen, die Sie **vor** der Registrierung durchgeführt haben, können nachträglich keine Punkte gutgeschrieben werden.
 
+* [Zur Übersicht der Fahrkarten, bei denen Sie BahnBonus-Statuspunkte sammeln](https://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife)
 * [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
@@ -381,13 +411,15 @@ Sie haben getrennte Fahrgastrechte für das Deutschland-Ticket und das Fernverke
 
 **a) Für Reisende mit einer Fahrverkehrsfahrkarte mit inkludiertem Nahverkehr im Vor- und Nachlauf:**
 
-Es gelten die gesetzlichen Fahrgastrechte: Der Reisende mit Fernverkehrsfahrkarte kann den nächsten Fernverkehrszug mit Fahrradmitnahme nehmen, der auf derselben Strecke und mit denselben Beförderern fährt, sofern ein Fahrradstellplatz verfügbar ist. Der Fahrradstellplatz kann im DB Reisezentrum oder über die Hotline 030-2970 kurzfristig gebucht werden. Ggf. anfallende zusätzliche Kosten können erstattet werden.
+Es gelten die gesetzlichen Fahrgastrechte:
 
-Wo wir ein besonders hohes Aufkommen an Reisenden mit Fahrrad erwarten, setzen wir nach Möglichkeit Fahrradlotsen ein. Wenn von vornherein ein hohes Aufkommen an Fahrradreisenden erwartet wird, informieren wir darüber in der Verbindungsauskunft auf www.bahn.de und im DB Navigator.
+* Haben Sie eine Fernverkehrsfahrkarte mit inkludiertem Nahverkehr und verpassen Ihren Zug, können Sie den nächsten Fernverkehrszug mit Fahrradmitnahme auf derselben Strecke und mit denselben Beförderern nutzen, wenn ein Fahrradstellplatz frei ist. Sie können den Stellplatz kurzfristig im DB Reisezentrum oder über die Hotline 030-2970 buchen. Zusätzliche Kosten für den Fahrradstellplatz werden erstattet.
 
 **b) Für Reisende mit einer Fernverkehrsfahrkarte und Nutzung des Deutschland-Ticket im Vor- und Nachlauf:**
 
-Das Deutschland-Ticket und das Fernverkehrsticket sind immer separate Tickets. Dies hat Auswirkungen auf eventuelle Fahrgastrechte. Bei Verpassen des Fernverkehrszuges müssen Reisende für das Fahrrad eine neue Fahrradreservierung kaufen. Anfallende Kosten können nicht erstattet werden.
+* Nutzen Sie das Deutschland-Ticket im Nahverkehr und ein separates Fernverkehrsticket, sind beide immer getrennt. Verpassen Sie den Fernverkehrszug, gelten die Fahrgastrechte für die Fahrradmitnahme nicht. Sie müssen für das Fahrrad eine neue Reservierung kaufen. Diese Kosten werden nicht erstattet.
+
+* Über ein besonders hohes Fahrradaufkommen informieren wir auf [bahn.de](https://www.bahn.de/buchung/start?) und im DB Navigator. Bei großem Andrang setzt DB nach Möglichkeit Fahrradlotsen ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-mit-fahrrad-verspaetung)
 
@@ -926,7 +958,7 @@ Das Handy-Ticket eines Abos (zum Beispiel Deutschland-Ticket) ist nicht automati
 
 Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
 
-Alternativ können Sie das Ticket in Meine Reisen über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
+Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
 
 Falls Sie beim Hinzufügen Probleme haben, prüfen Sie, ob Sie die aktuelle Version der App nutzen.
 

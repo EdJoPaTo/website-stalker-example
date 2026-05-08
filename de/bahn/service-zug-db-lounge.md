@@ -139,7 +139,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 #### Hamburg ####
 
 * **Lage:** Der Eingang der DB Lounge Hamburg Hauptbahnhof befindet sich im ersten Obergeschoss auf der Nordseite der Gleise zwischen Nordsteg und Wendelhalle auf Höhe von Gleis 3. Der Zugang erfolgt durch eine Glastür. Via Treppe oder Aufzug geht es ins zweite Obergeschoss, wo sich der Empfang der DB Lounge befindet.
-* **Öffnungszeiten:** Montag bis Freitag: 6 bis 22 Uhr / Samstag, Sonntag und Feiertag: 7:30 bis 20:30 Uhr | am 07.05.2026 geschlossen
+* **Öffnungszeiten:** Montag bis Freitag: 6 bis 22 Uhr / Samstag, Sonntag und Feiertag: 7:30 bis 20:30 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich.**
 
 * [DB Lounge Hamburg Lageplan (PDF, 77 KB) Download der Datei: DB Lounge Hamburg Lageplan (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:12e4ab6e-34b2-4710-9786-3b05abe60dfc/01-HH-Hbf.pdf)

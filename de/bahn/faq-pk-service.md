@@ -363,7 +363,7 @@ Die Authentifizierungsverfahren können von Bank zu Bank unterschiedlich sein. D
  Wie kann ich meine Kontoverbindung für das Lastschriftverfahren ändern?
 ----------
 
-Sie können Ihre Kontodaten in Ihrem Kundenkonto ändern. Klicken Sie dort im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern".
+Sie können Ihre Kontodaten in Ihrem DB Kundenkonto ändern. Klicken Sie dort im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern".
 
 Änderungen gelten nicht für Zahlungen zu Ihrem Abonnement. Für Zeitkarten-Abonnements und das Deutschland-Ticket ändern Sie Ihre Bankdaten im Aboportal unter "Meine Daten". Das Aboportal erreichen Sie über "Abos verwalten" in Ihrem Profil oder unter [abo.bahn.de](https://abo.bahn.de/).
 
@@ -445,7 +445,7 @@ Die Funktion steht ab der **DB Navigator Version 25.23.0** zur Verfügung.
  Warum werde ich nicht zum Lastschriftverfahren für ein Abo zugelassen?
 ----------
 
-Bitte prüfen Sie Ihre E-Mails und Briefe, ob Sie in der Vergangenheit Informationen der Deutschen Bahn zu Problemen mit Zahlungen oder Ihrem DB Kundenkonto erhalten haben und befolgen Sie die entsprechenden Hinweise zur Auflösung des Problems.
+Bitte prüfen Sie Ihre E-Mails und Briefe, ob Sie in der Vergangenheit Informationen der Deutschen Bahn zu Problemen mit Zahlungen oder Ihrem DB Kundenkonto erhalten haben. Befolgen Sie die Hinweise zur Auflösung des Problems.
 
 Folgende Gründe können eine Zulassung zum Lastschriftverfahren verhindern:
 
@@ -467,9 +467,14 @@ Ihre angemeldete Hilfeleistung ist an eine konkrete Verbindung gebunden. Falls S
  Was muss ich bei der Änderung meiner Daten beachten, wenn ich ein Abo habe?
 ----------
 
-Für die Änderung des Namens, Geschlechts oder Geburtsdatum im DB Kundenkonto prüfen Sie bitte die [Hilfestellungen zur Änderung persönlicher Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/kundenkonto/persoenliche-daten). Die Änderungen werden nur in bestimmten Fällen auch für Ihren Abovertrag übernommen. Daher prüfen Sie bitte nach der Änderung im DB Kundenkonto im Aboportal unter "Meine Daten", ob Ihre Daten geändert wurden. Andernfalls melden Sie die Änderung bitte über das Kontaktformular mit dem entsprechenden Nachweis.
+Für die Änderung des Namens, Geschlechts oder Geburtsdatums im DB Kundenkonto prüfen Sie bitte die [Hilfestellungen zur Änderung persönlicher Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/kundenkonto/persoenliche-daten). Die Änderungen werden nur in bestimmten Fällen auch für Ihren Abovertrag übernommen.
+
+Wenn Sie die Änderungen im DB Kundenkonto vorgenommen haben, überprüfen Sie im Aboportal unter "Meine Daten", ob diese übernommen wurden. Falls nicht, übersenden Sie uns Ihren Änderungswunsch über das Kontaktformular mit dem entsprechenden Nachweis.
 
 Bei der Neubestellung eines Abos werden die aktuellen Daten aus dem DB Kundenkonto übernommen.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/personendaten_aenderung)
+* [Weitere Informationen zur Namensänderung](https://www.bahn.de/hilfe#/abos-dticket2/daten-verwalten/namen-aendern)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-kundenkonto)
 
@@ -1147,7 +1152,7 @@ Ansonsten sind zusammengelegte/gefaltete und/oder verpackte Fahrräder von der B
 * Bei einem Jobticket oder einem ermäßigten Ticket mit Nachweisprüfung erhalten Sie die Aktivierungsmail erst nach der Freigabe.
 * Kann Ihre Bestellung nicht akzeptiert werden, zum Beispiel aufgrund einer Sperre Ihres Kontos, erhalten Sie eine Ablehnungsmail.
 
-Tipp: Melden Sie sich auf im Aboportal auf abo.bahn.de mit dem gleichen DB Kundenkonto an, das Sie bei der Bestellung genutzt haben. Nun sehen Sie Ihr Abo, sobald es aktiviert wurde.
+Tipp: Melden Sie sich im Aboportal auf abo.bahn.de mit dem gleichen DB Kundenkonto an, das Sie bei der Bestellung genutzt haben. Nun sehen Sie Ihr Abo, sobald es aktiviert wurde.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bestellung-keine-rueckmeldung)
 
@@ -1508,21 +1513,20 @@ Wenn Ihr Zugang zwischenzeitlich noch nicht wieder freigeschaltet worden sein so
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutscher-behindetenausweis-ermaessigung-im-ausland)
 
- Kann ich mit dem Deutschland-Ticket BahnBonus Punkte sammeln?
+ Kann ich mit einem Abo oder dem Deutschland-Ticket BahnBonus Punkte sammeln?
 ----------
 
-Nach der Anmeldung zum BahnBonus Vorteilsprogramm sammeln Sie Statuspunkte beim Kauf von Fahrkarten, wenn Sie mit Ihrem angemeldeten DB Kundenkonto bestellen.
-
-Für den Kauf des Deutschland-Tickets erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, wenn:
+Für den Kauf des Deutschland-Tickets oder anderer Abos (zum Beispiel Wochen- und Monatskarten im Fernverkehr) erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, **wenn**:
 
 * Sie beim BahnBonus-Programm angemeldet sind
-* Sie das Ticket über bahn.de oder den DB Navigator kaufen
+* Sie das Ticket mit Ihrem angemeldeten DB Kundenkonto über bahn.de oder den DB Navigator kaufen
 * Ihre persönlichen Daten beim Kauf mit denen im BahnBonus-Konto übereinstimmen
 
-Beim Kauf des Deutschland-Tickets **bei anderen Anbietern**, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können **keine** BahnBonus Punkte gesammelt werden.
+Beim Kauf des Deutschland-Tickets **bei anderen Anbietern**, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können **keine** BahnBonus Punkte gesammelt werden. Auch für Verbundfahrkarten und -abos können **keine** Punkte gesammelt werden.
 
 Für Buchungen, die Sie **vor** der Registrierung durchgeführt haben, können nachträglich keine Punkte gutgeschrieben werden.
 
+* [Zur Übersicht der Fahrkarten, bei denen Sie BahnBonus-Statuspunkte sammeln](https://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife)
 * [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
@@ -2418,7 +2422,7 @@ Das Handy-Ticket eines Abos (zum Beispiel Deutschland-Ticket) ist nicht automati
 
 Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
 
-Alternativ können Sie das Ticket in Meine Reisen über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
+Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
 
 Falls Sie beim Hinzufügen Probleme haben, prüfen Sie, ob Sie die aktuelle Version der App nutzen.
 
@@ -7629,9 +7633,9 @@ Sie können Passkeys in Ihrem DB Kundenkonto im Account Manager unter "Login & S
  Wie richte ich die Benachrichtigungen zur Reise für meine Pendelstrecke ein?
 ----------
 
-Loggen Sie sich in Ihrem DB Kundenkonto ein. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten. Klicken Sie dann in den Verbindungsdetails auf die drei Punkte oben rechts und anschließend auf „Wiederholende Reise einstellen“. Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen.
+Loggen Sie sich in Ihrem DB Kundenkonto ein. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten. Klicken Sie dann in den Verbindungsdetails auf die 3 Punkte oben rechts und anschließend auf "Wiederholende Reise einstellen". Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen. Außerdem können Sie Ihrer Verbindung einen selbst gewählten Namen geben (z. B. "Zur Arbeit", "Zur Familie").
 
-Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "Wiederholende Reisen". Hier können Sie die Benachrichtigungen auch pausieren, wenn Sie vorrübergehend keine Benachrichtigungen erhalten möchten.
+Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "Wiederholende Reisen". Hier können Sie die Benachrichtigungen auch pausieren, wenn Sie vorrübergehend keine Benachrichtigungen erhalten möchten. Wenn Sie auf eine alternative Verbindung ausweichen, pausiert die bereits eingerichtete "wiederholende Reise" für diesen Tag.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-richte-ich-die-benachrichtigungen-zur-reise-fuer-meine-pendelstrecke-ein)
 
@@ -7808,7 +7812,7 @@ Ist dies bei allen angezeigten Verbindungen der Fall, so wird die Spalte "Auslas
  Wieso muss ich meine E-Mail-Adresse bestätigen / verifizieren?
 ----------
 
-Die Verifikation der E-Mail-Adresse dient der Sicherheit Ihres Deutsche Bahn-Accounts und stellt sicher, dass sich nur Nutzer registrieren können, die tatsächlich Zugang zu der angegebenen E-Mail-Adresse besitzen. Diese eindeutige E-Mail-Adresse benötigen Sie für die Verwaltung Ihres Login-Accounts. Auch erhalten Sie Buchungsbestätigungen und PDF-Tickets an diese E-Mail-Adresse.
+Die Verifikation der E-Mail-Adresse dient der Sicherheit Ihres DB Kundenkontos und stellt sicher, dass sich nur Nutzer registrieren können, die tatsächlich Zugang zu der angegebenen E-Mail-Adresse besitzen. Diese eindeutige E-Mail-Adresse benötigen Sie für die Verwaltung Ihres Login-Accounts. Auch erhalten Sie Buchungsbestätigungen und PDF-Tickets an diese E-Mail-Adresse.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-muss-ich-meine-e-mail-adresse-bestaetigen-verifizieren)
 
