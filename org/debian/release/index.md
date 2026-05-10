@@ -55,6 +55,7 @@ Useful links
 * [On the topic of key packages and autoremoval](/key-packages.html)
 * [List of candidates for automatic removal from testing](https://udd.debian.org/cgi-bin/autoremovals.cgi)
 * [List of key packages](https://udd.debian.org/cgi-bin/key_packages.yaml.cgi)
+* [Requirements for reproduce builders](https://release.debian.org/reproducible-builds-host-requirements.html)
 * [Packages blocked from uploads to unstable due to transitions](https://ftp-master.debian.org/transitions.yaml)
 * [Transition tracker](/transitions/)
 * [Documentation on requesting binNMUs and other wanna-build actions](/wanna-build.html)
