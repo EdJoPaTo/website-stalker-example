@@ -18,6 +18,7 @@ Recent stable release updates
 Recent release updates
 ----------
 
+* `[2026-05-10]` [Bits from the Release Team](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 * `[2025-08-09]` [Bits from the Release Team: checks, calendars, and cleanups](https://lists.debian.org/debian-devel-announce/2025/09/msg00001.html)
 * `[2025-08-09]` [Bits from the Stable Release Managers](https://lists.debian.org/debian-devel-announce/2025/08/msg00003.html)
 * `[2025-08-09]` [Bits from the Release Team: Let's Fork(y)!](https://lists.debian.org/debian-devel-announce/2025/08/msg00002.html)
@@ -27,7 +28,6 @@ Recent release updates
 * `[2025-01-22]` [Bits from the Release Team: trixie freeze dates](https://lists.debian.org/debian-devel-announce/2025/01/msg00004.html)
 * `[2023-12-16]` [Bits from the Release Team: Cambridge sprint update](https://lists.debian.org/debian-devel-announce/2023/12/msg00003.html)
 * `[2023-06-10]` [Bits from the Release Team: a trixie customer](https://lists.debian.org/debian-devel-announce/2023/06/msg00001.html)
-* `[2023-06-04]` [Bits from the Release Team: bookworm nearly ready for release](https://lists.debian.org/debian-devel-announce/2023/06/msg00000.html)
 
 Planned point releases
 ----------
