@@ -171,7 +171,7 @@ cirrus incus
 
   * Patriot P300 128GBPatriot P300 256GB (79,00 €)Patriot P300 512GB (109,00 €)
 
-  * Samsung SSD 990 Pro 1TB (219,00 €)Samsung SSD 990 Pro 2TB (339,00 €)Samsung SSD 990 Pro 4TB (559,00 €)
+  * Samsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (389,00 €)Samsung SSD 990 Pro 4TB (609,00 €)
 
   M.2 Slot 2
 
@@ -180,7 +180,7 @@ cirrus incus
 
   * KeinePatriot P300 128GB (49,00 €)Patriot P300 256GB (79,00 €)Patriot P300 512GB (109,00 €)
 
-  * KeineSamsung SSD 990 Pro 1TB (219,00 €)Samsung SSD 990 Pro 2TB (339,00 €)Samsung SSD 990 Pro 4TB (559,00 €)
+  * KeineSamsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (389,00 €)Samsung SSD 990 Pro 4TB (609,00 €)
 
   ##### SSD #####
 

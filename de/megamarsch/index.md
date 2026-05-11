@@ -57,11 +57,6 @@ IN DEINER NÄHE!
 
 [Location](https://www.megamarsch.de/berlin)
 
-[RÜGEN](https://www.megamarsch.de/ruegen)
-----------
-
-[Location](https://www.megamarsch.de/ruegen)
-
 [RUHRGEBIET BEI NACHT](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
 ----------
 
@@ -132,6 +127,11 @@ IN DEINER NÄHE!
 [MÜNCHEN](https://www.megamarsch.de/münchen)
 ----------
 
+[RÜGEN](https://www.megamarsch.de/ruegen)
+----------
+
+[Location](https://www.megamarsch.de/ruegen)
+
 [Location](https://www.megamarsch.de/schaffhausen)
 
 [SCHAFFHAUSEN](https://www.megamarsch.de/schaffhausen)
@@ -157,20 +157,20 @@ IN DEINER NÄHE!
 
 [Location](https://www.megamarsch.de/mallorca)
 
-|      Events      |   2026   |
-|------------------|----------|
-|     MALLORCA     |21/02/2026|
-|     DRESDEN      |07/03/2026|
-|  DRESDEN (25KM)  |07/03/2026|
-| MÖNCHENGLADBACH  |21/03/2026|
-|      LUZERN      |28/03/2026|
-|     HAMBURG      |11/04/2026|
-|      OSTSEE      |25/04/2026|
-|     HANNOVER     |02/05/2026|
-|     MÜNCHEN      |16/05/2026|
-|      BREMEN      |23/05/2026|
-|WESERBERGLAND B.N.|13/06/2026|
-|  WESERBERGLAND   |13/06/2026|
+|      Events      | KILOMETER |   2026   |   2027   |
+|------------------|-----------|----------|----------|
+|     MALLORCA     |50KM & 25KM|21/02/2026|20/02/2027|
+|     DRESDEN      |50KM & 25KM|07/03/2026|06/03/2027|
+| MÖNCHENGLADBACH  |50KM & 25KM|21/03/2026|20/03/2027|
+|      LUZERN      |50KM & 25KM|28/03/2026|03/04/2027|
+|     HAMBURG      |   100KM   |11/04/2026|10/04/2027|
+|      OSTSEE      |   50KM    |25/04/2026|24/04/2027|
+|     HANNOVER     |50KM & 25KM|02/05/2026|08/05/2027|
+|     MÜNCHEN      |   100KM   |16/05/2026|          |
+|      BREMEN      |   50KM    |23/05/2026|          |
+|WESERBERGLAND B.N.|   50KM    |13/06/2026|          |
+|  WESERBERGLAND   |   100KM   |13/06/2026|          |
+|    MITTERSILL    |   50KM    |20/06/2026|          |
 
 #### Finde einen Megamarsch in deiner nähe! ####
 
@@ -189,75 +189,51 @@ wollen. Das Ganze mit Euren Moderatoren Jone und Moritz.
 
 [JETZT REINHÖREN!](https://www.megamarsch.de/podcast-von-0-auf-100)
 
-#### WhatsAPP ####
+#### FANSHOP ####
 
-Unser Megamarsch WhatsApp Kanal ist wie eine Art Newsletter direkt in Deinem WhatsApp Account. Folge hier unserem Kanal und aktiviere die Benachrichtigungen mit Hilfe der Glocke, um Push-Nachrichten von uns zu erhalten und keine Neuigkeiten mehr zu verpassen:
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
 
-[Zum Kanal](https://whatsapp.com/channel/0029Va8QYGsA89MgND9Wm124)
+[Finishershirt 25km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
+
+[Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
+
+[Funktionstuch Event (bei Nacht) Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
+
+[Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
+
+[Funktionstuch Event (50KM) Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
+
+[Finishershirt 100km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-2025)
+
+[Eventshirts 2026 // 50KM & 25KM Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
+
+[Finishershirt 50km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
+
+[Schnellansicht](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
+
+[Megamarsch Trinkflasche Preis 19,99 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
+
+[Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event)
+
+[Funktionstuch Event (100KM) Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
+
+[Schnellansicht](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
+
+[Spezial Edelstahl Tasse \*limitiert\* Nicht verfügbar](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
+
+[ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
 
 #### Newsletter ####
 
 Trage Dich jetzt in unseren Newsletter ein und bleibe über alle allgemeinen Neuigkeiten zum Megamarsch, zu neuen Events, neuen Merch-Produkten, Rabatt-Aktionen etc. auf dem Laufenden.
 
 Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten rund um den Megamarsch.
-
-#### FANSHOP ####
-
-[ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
-
-  [### Finishershirt 25km 2026 ### Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
-
-  In den Warenkorb
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
-
-  [### Funktionstuch Event (bei Nacht) ### Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
-
-  In den Warenkorb
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
-
-  [### Funktionstuch Event (50KM) ### Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
-
-  In den Warenkorb
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
-
-  [### Finishershirt 100km 2026 ### Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
-
-  In den Warenkorb
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/eventshirts-2025)
-
-  [### Eventshirts 2026 // 50KM & 25KM ### Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
-
-  In den Warenkorb
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
-
-  [### Finishershirt 50km 2026 ### Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
-
-  In den Warenkorb
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
-
-  [### Megamarsch Trinkflasche ### Preis 19,99 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
-
-  In den Warenkorb
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event)
-
-  [### Funktionstuch Event (100KM) ### Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
-
-  In den Warenkorb
-
-* [Schnellansicht](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
-
-  [### Spezial Edelstahl Tasse \*limitiert\* ### Preis 15,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
-
-  Nicht verfügbar
 
 \- BEA
 
