@@ -3,7 +3,7 @@ StarLite
 
 Standard
 Intel Core 3 N350 8-core processor
-16GB LPDDR5 memory
+16GB LPDDR5X memory
 
  Storage
 
