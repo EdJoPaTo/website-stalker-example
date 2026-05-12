@@ -706,3 +706,14 @@ sites:
       - css_select: body
       - css_remove: img, iframe
       - html_markdownify
+
+  - url:
+      - https://www.alluringarctic.com/
+      - https://www.alluringarctic.com/support
+      - https://www.alluringarctic.com/about-us
+      - https://www.alluringarctic.com/science
+      - https://www.alluringarctic.com/next-mission
+    editors:
+      - css_select: body
+      - css_remove: iframe, script, svg, img
+      - html_markdownify
