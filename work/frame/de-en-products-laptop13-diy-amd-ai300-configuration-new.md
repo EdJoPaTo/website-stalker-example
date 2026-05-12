@@ -117,8 +117,8 @@ Close
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€156
-* DDR5-5600 - 16GB (2 x 8GB)  Not available with your other selected options. Reload page to reset. +€312
+* DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€179
+* DDR5-5600 - 16GB (2 x 8GB)  Not available with your other selected options. Reload page to reset. +€358
 * DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€262
 * DDR5-5600 - 32GB (2 x 16GB)  Not available with your other selected options. Reload page to reset. +€524
 * DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
@@ -150,14 +150,14 @@ Close
 
 Storage
 
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€129
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€200
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€262
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€479
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€170
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€295
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€759
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€1,000
+* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€145
+* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€255
+* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
+* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€609
+* SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€195
+* SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€630
+* SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€975
+* SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€1,139
 * None (bring your own)
 
 **Operating System**

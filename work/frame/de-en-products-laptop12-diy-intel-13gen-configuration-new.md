@@ -116,7 +116,7 @@ Runs at DDR5-5200 speed on Framework Laptop 12.
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€156
+* DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€179
 * DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€262
 * DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
 * DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€789
@@ -141,9 +141,9 @@ Close
 
 Storage
 
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB  Not available with your other selected options. Reload page to reset. +€132
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB  Not available with your other selected options. Reload page to reset. +€219
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB  Not available with your other selected options. Reload page to reset. +€299
+* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB  Not available with your other selected options. Reload page to reset. +€150
+* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB  Not available with your other selected options. Reload page to reset. +€245
+* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB  Not available with your other selected options. Reload page to reset. +€425
 * None (bring your own)
 
 **Operating System**
