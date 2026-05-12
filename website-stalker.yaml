@@ -717,3 +717,8 @@ sites:
       - css_select: body
       - css_remove: iframe, script, svg, img
       - html_markdownify
+
+  - url: https://www.aswf.io/inclusive-language-guide/
+    editors:
+      - css_select: .main-content
+      - html_markdownify
