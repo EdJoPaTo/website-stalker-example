@@ -39,10 +39,6 @@ Available with Ubuntu pre-loaded and certified out of the box, or bring your own
 Finally, great battery life in a Framework Laptop
 ----------
 
-Don’t take our word for it.
-
-[Watch a Framework Laptop 13 Pro battery go from 100% to 0%. Live.](https://youtube.com/live/7lZUaUdCeqM)
-
 #### 20 hours ####
 
 **Netflix 4K streaming**
