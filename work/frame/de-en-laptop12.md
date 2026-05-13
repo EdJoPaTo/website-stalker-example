@@ -170,10 +170,45 @@ Ready to go out of the box with Windows 11. Easy to upgrade if you ever need mor
 
 [Contact our Business team Contact our Business team](https://share.hsforms.com/1GjuuZvpJRJKsAzc2XdPLYQe5dti)
 
-Get Framework Laptop 12 wallpapers.
-----------
+```
+Ctrl + Alt + Create ⚡️
+```
 
-[Download](https://downloads.frame.work/assets/framework-laptop12-wallpaper-pack.zip)
+```
+Ctrl + Alt + Create ⚡️
+```
+
+```
+Ctrl + Alt + Create ⚡️
+```
+
+```
+Ctrl + Alt + Create ⚡️
+```
+
+```
+Ctrl + Alt + Create ⚡️
+```
+
+```
+Ctrl + Alt + Create ⚡️
+```
+
+```
+Ctrl + Alt + Create ⚡️
+```
+
+```
+Ctrl + Alt + Create ⚡️
+```
+
+```
+Ctrl + Alt + Create ⚡️
+```
+
+```
+Ctrl + Alt + Create ⚡️
+```
 
 ```
 Ctrl + Alt + Create ⚡️
