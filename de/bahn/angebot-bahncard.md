@@ -18,7 +18,7 @@ Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
 
-### Aktion Senioren BahnCard 25 Plus, 2. Klasse ###
+### Aktion Senioren BahnCard 25 Plus, 2. Klasse inkl. BahnBonus Statuslevel Silber ###
 
 **25 % Rabatt** auf den Flexpreis und die Sparpreise des Fernverkehrs sparen (ausgenommen City-Ticket)
 
@@ -28,7 +28,7 @@ Nur 85,90 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O234)
 
-### Aktion Senioren BahnCard 25 Plus, 1. Klasse ###
+### Aktion Senioren BahnCard 25 Plus, 1. Klasse inkl. BahnBonus Statuslevel Silber ###
 
 **25 % Rabatt** auf den Flexpreis und die Sparpreise des Fernverkehrs sparen (ausgenommen City-Ticket)
 
@@ -38,7 +38,7 @@ Nur 126,90 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O134)
 
-### Aktion Senioren BahnCard 50 Plus, 2. Klasse ###
+### Aktion Senioren BahnCard 50 Plus, 2. Klasse inkl. BahnBonus Statuslevel Silber ###
 
 **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparpreise des Fernverkehrs sparen (ausgenommen City-Ticket)
 
@@ -48,7 +48,7 @@ Nur 144 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O235)
 
-### Aktion Senioren BahnCard 50 Plus, 1. Klasse ###
+### Aktion Senioren BahnCard 50 Plus, 1. Klasse inkl. BahnBonus Statuslevel Silber ###
 
 **50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparpreise des Fernverkehrs sparen (ausgenommen City-Ticket)
 
