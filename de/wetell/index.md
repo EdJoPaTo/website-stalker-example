@@ -462,7 +462,7 @@ Alles, was du (noch) wissen willst
   Unsere Mission: Den nachhaltigen Wandel in der Wirtschaft aktiv voranzutreiben – für eine Welt, die jetzt und auch in Zukunft lebenswert ist.
 
   Wir bieten [klimafreundlichen und fairen Mobilfunk](https://www.wetell.de/mobilfunk/) an. Mit [menschlichem Service](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service) und [super Datenschutz](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle). Überhaupt gilt bei allem, was wir tun: Gemeinwohl vor Profit
-  Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu!
+  Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](https://www.wetell.de/gwoe/) vorbei, dort findest du noch mehr Informationen.
 
 * Warum nicht einen billigen Discountervertrag abschließen und das gesparte Geld fürs Klima spenden?
 
@@ -474,7 +474,7 @@ Alles, was du (noch) wissen willst
 
   Wir arbeiten Werte-basiert statt Profit-orientiert. Mit uns telefonierst und surfst du – dank CO<sub>2</sub>-Ausgleich - komplett klimaneutral. Gleichzeitig unterstützt du mit deinem Tarif den Ausbau von erneuerbaren Energien. Alle Details dazu erfährst du [hier](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima).).
 
-  Nachhaltigkeit hat für uns auch eine soziale Komponente. Deswegen setzen wir auf faire Tarifbedingungen, Datenschutz und einen menschlichen Service. Mehr dazu [hier](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service).
+  Nachhaltigkeit hat für uns auch eine soziale Komponente. Deswegen setzen wir auf faire Tarifbedingungen, Datenschutz und einen menschlichen Service. Mehr dazu [hier](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service). Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](https://www.wetell.de/gwoe/) vorbei.
 
   Ungefähr ein Viertel der Tarifkosten fließen direkt in die Umsetzung dieser Maßnahmen. Wenn du einen Überblick bekommen willst, wie sich die Kosten für unsere Tarife zusammensetzen, schau dir unsere [Preistransparenz](https://www.wetell.de/mobilfunk/#preistransparenz) an.
 

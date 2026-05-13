@@ -4,13 +4,13 @@ Hallo, wir sind WEtell! Wir sind ein [super motiviertes Team](/community/team/)�
 Unsere Mission: Den nachhaltigen Wandel in der Wirtschaft aktiv voranzutreiben – für eine Welt, die jetzt und auch in Zukunft lebenswert ist.
 
 Wir bieten [klimafreundlichen und fairen Mobilfunk](/mobilfunk/) an. Mit [menschlichem Service](/warum-wetell/mobilfunk-neu-denken/#liebevoller_service) und [super Datenschutz](/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle). Überhaupt gilt bei allem, was wir tun: Gemeinwohl vor Profit
-Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu!
+Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](/gwoe/) vorbei, dort findest du noch mehr Informationen.
 
 #### Was bedeutet nachhaltiger Mobilfunk? ####
 
 Wir arbeiten Werte-basiert statt Profit-orientiert. Mit uns telefonierst und surfst du – dank CO<sub>2</sub>-Ausgleich - komplett klimaneutral. Gleichzeitig unterstützt du mit deinem Tarif den Ausbau von erneuerbaren Energien. Alle Details dazu erfährst du [hier](/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima).).
 
-Nachhaltigkeit hat für uns auch eine soziale Komponente. Deswegen setzen wir auf faire Tarifbedingungen, Datenschutz und einen menschlichen Service. Mehr dazu [hier](/warum-wetell/mobilfunk-neu-denken/#liebevoller_service).
+Nachhaltigkeit hat für uns auch eine soziale Komponente. Deswegen setzen wir auf faire Tarifbedingungen, Datenschutz und einen menschlichen Service. Mehr dazu [hier](/warum-wetell/mobilfunk-neu-denken/#liebevoller_service). Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](/gwoe/) vorbei.
 
 Ungefähr ein Viertel der Tarifkosten fließen direkt in die Umsetzung dieser Maßnahmen. Wenn du einen Überblick bekommen willst, wie sich die Kosten für unsere Tarife zusammensetzen, schau dir unsere [Preistransparenz](/mobilfunk/#preistransparenz) an.
 
