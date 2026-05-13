@@ -107,7 +107,15 @@ FAQs
 
 * What memory is compatible?
 
-  LPCAMM2 memory is compatible with the Framework Laptop 13 Pro models with Intel® Core™ Ultra Series 3 processors. The supported memory speed for Intel® Core™ Ultra Series 3 processors is up to 7467MT/s, and the system supports configurations of up to 96GB of memory. While memory that meets this standard should work, the LPCAMM2 memory sold in the Framework Marketplace is tested for compatibility.\<br\>\<br\>When choosing between 16GB, 32GB, and 64GB of LPCAMM2 memory, it mainly comes down to how you use your laptop:\<br\>\<br\>16GB is suitable for most everyday users, handling web browsing, office work, media, and typical multitasking without issue.\<br\>32GB is ideal for more demanding workflows such as software development, heavier multitasking, or photo and video editing.\<br\>64GB is best for specialized or highly memory intensive work like large codebases, professional video editing, 3D work, data analysis, or running multiple virtual machines.
+  LPCAMM2 memory is compatible with the Framework Laptop 13 Pro models with Intel® Core™ Ultra Series 3 processors. The supported memory speed for Intel® Core™ Ultra Series 3 processors is up to 7467MT/s, and the system supports configurations of up to 96GB of memory. While memory that meets this standard should work, the LPCAMM2 memory sold in the Framework Marketplace is tested for compatibility
+
+  When choosing between 16GB, 32GB, and 64GB of LPCAMM2 memory, it mainly comes down to how you use your laptop.
+
+  16GB is suitable for most everyday users, handling web browsing, office work, media, and typical multitasking without issue.
+
+  32GB is ideal for more demanding workflows such as software development, heavier multitasking, or photo and video editing.
+
+  64GB is best for specialized or highly memory intensive work like large codebases, professional video editing, 3D work, data analysis, or running multiple virtual machines.
 
 Close
 
