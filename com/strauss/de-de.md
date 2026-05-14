@@ -67,6 +67,24 @@ mit Style
 
 ---
 
+ Angebote
+des Monats
+----------
+
+---
+
+Gültig bis 31.05.2026 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
+
+ Bis zu
+---
+
+ \-54%
+---
+
+[](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=startseite_FS26)
+
 SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis-Artikel
 
 SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis-Artikel
