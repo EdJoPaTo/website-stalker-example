@@ -1,3 +1,5 @@
+[UGREEN Nexode Pro Powerbank (25.000 mAh, 200 W, integriertes USB-C-Kabel, 4 Anschlüsse)](https://de.ugreen.com/products/nexode-pro-powerbank-25000mah-200w-4-anschluesse)
+
 [UGREEN MagFlow Air Magnetische Powerbank (5000mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-5000mah-qi2-15w)
 
 [UGREEN MagFlow Air magnetische Powerbank (10000 mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-10000mah-qi2)
@@ -19,5 +21,3 @@
 [UGREEN Nexode PowerBank 20000mAh 145W](https://de.ugreen.com/products/ugreen-nexode-kabellose-magnetische-powerbank-20000mah-145w)
 
 [UGREEN Uno Magnetische Kabellose Powerbank 10000mAh 7,5W](https://de.ugreen.com/products/ugreen-uno-magnetische-kabellose-powerbank-10000mah)
-
-[UGREEN Powerbank (5000mAh, 22.5W, iintegriertes USB-C Kabel)](https://de.ugreen.com/products/ugreen-5000-mah-22-5-w-powerbank-mit-integriertem-usb-c-kabel-led-anzeige)
