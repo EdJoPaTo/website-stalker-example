@@ -31,7 +31,7 @@ Und dass irgendwo in diesem Gebäude immer noch ein bisschen Magie wartet.
 
 Limitierte Tickets
 
-Der offizielle Ticketstart beginnt am 05.05.26. Aufgrund der kurzen Laufzeit sind die Tickets stark limitiert. Wenn Du Dir bereits vorher deinen Lieblingsslot sichern möchtest, melde dich bei unserer Ausstellungsliste. Dann erhältst du bereits vor offiziellem Ticketstart ein Passwort und den Zugang zum Ticketing.
+Der offizielle Ticketstart beginnt am 05.05.26. Aufgrund der kurzen Laufzeit sind die Tickets stark limitiert.
 
 Internationale Artists
 
