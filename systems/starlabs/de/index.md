@@ -50,7 +50,7 @@ Linux hardware, built to be owned.
 
 [Compare laptops](/collections/laptops)
 
-[Byte Compact Linux mini PC for desks, displays, and quiet always-on work. €13,37 View model](/pages/byte)[StarLite Touch-first Linux convertible with tablet flexibility and a detachable keyboard. €13,37 View model](/pages/starlite)[StarBook Horizon Current StarBook Horizon variant: light 13.4-inch Linux laptop with privacy hardware and open firmware options. €13,37 View model](/pages/starbook-horizon)[StarFighter Premium 16-inch performance laptop with high-refresh display options and a haptic trackpad. €13,37 View model](/pages/starfighter)[StarBook Ultra Last-generation StarBook Mk VII Ultra. Limited stock remaining. €13,37 View model](/pages/starbook)
+[Byte Compact Linux mini PC for desks, displays, and quiet always-on work. €13,37 View model](/pages/byte)[StarLite Touch-first Linux convertible with tablet flexibility and a detachable keyboard. €13,37 View model](/pages/starlite)[StarBook Horizon Current StarBook Horizon variant: light 13.4-inch Linux laptop with privacy hardware and open firmware options. €13,37 View model](/pages/starbook-horizon)[StarFighter Premium 16-inch performance laptop with high-refresh display options and a haptic trackpad. €13,37 View model](/pages/starfighter)[StarBook Ultra Last-generation StarBook Mk VII Ultra. Limited stock remaining. €13,37 €13,37 View model](/pages/starbook)
 
  Built by people who work close to the hardware.
 
