@@ -14,6 +14,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Unreleased
 ----------
 
+**Available as `2.0.0-beta2`**
+
+### Added ###
+
+* [Pro1](/gen2/Devices/Gen2/ShellyPro1), [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM), [Pro2](/gen2/Devices/Gen2/ShellyPro2), [Pro2PM](/gen2/Devices/Gen2/ShellyPro2PM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM), [ProEM](/gen2/Devices/Gen2/ShellyProEM), [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [ProDimmer0110VPM](/gen2/Devices/Gen2/ShellyProDimmer0110VPM): Add support for [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon)
+
 **Available as `2.0.0-beta1`**
 
 ### Security ###
@@ -44,6 +50,7 @@ Unreleased
 * [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl): Add support for [2PM Gen4](/gen2/Devices/Gen4/Shelly2PMG4), [PowerStrip Gen4](/gen2/Devices/Gen4/ShellyPowerStripG4), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US)
 * [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US): Add [gamma correction](/gen2/ComponentsAndServices/Light#configuration)
 * [EM](/gen2/ComponentsAndServices/EM), [EM1](/gen2/ComponentsAndServices/EM1), [PM1](/gen2/ComponentsAndServices/PM1): Add over/under alarms and webhooks for power, current and voltage
+* [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3): Add [Matter](/gen2/ComponentsAndServices/Matter) support
 * [HT Gen3](/gen2/Devices/Gen3/ShellyHTG3): Add [Matter](/gen2/ComponentsAndServices/Matter) support
 * [HTTP](/gen2/ComponentsAndServices/HTTP): Add support for WebSocket continuation frames
 * Indicate switching alternative firmwares (e.g. Matter/Zigbee) via the system LED
@@ -53,6 +60,7 @@ Unreleased
 * [PlugUS Gen4](/gen2/Devices/Gen4/ShellyPlugUSG4): Add [Zigbee](/gen2/ComponentsAndServices/Zigbee) illuminance cluster
 * [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Add [gamma correction](/gen2/ComponentsAndServices/Light#configuration)
 * [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US): Add [warmup feature](/gen2/ComponentsAndServices/Light#configuration)
+* [Pro1](/gen2/Devices/Gen2/ShellyPro1), [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM), [Pro2](/gen2/Devices/Gen2/ShellyPro2), [Pro2PM](/gen2/Devices/Gen2/ShellyPro2PM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM), [ProEM](/gen2/Devices/Gen2/ShellyProEM), [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [ProDimmer0110VPM](/gen2/Devices/Gen2/ShellyProDimmer0110VPM), [ProRGBWWPM](/gen2/Devices/Gen2/ShellyProRGBWWPM): Add support for [Pro LoRa Add-On](/gen2/Addons/ShellyLoRaProAddon)
 * [Pro RGBWW PM](/gen2/Devices/Gen2/ShellyProRGBWWPM): Add `hf_mode`
 * [Scripting](/gen2/ComponentsAndServices/Script): Add [Bluetooth scanner matchers/filters](/gen2/Scripts/APIs/BLE)
 * [Switch](/gen2/ComponentsAndServices/Switch): Add operational counters

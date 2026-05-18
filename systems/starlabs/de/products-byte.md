@@ -3,7 +3,9 @@ Byte
 
 Standard
 Intel Core 3 N355 8-core processor
+Fan control, can be disabled
 Up to 32GB DDR4 memory
+Internal 2.5-inch storage expansion
 
  Memory
 
