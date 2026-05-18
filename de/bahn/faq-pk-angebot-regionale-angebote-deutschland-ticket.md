@@ -191,6 +191,24 @@ Das Deutschland-Ticket gilt jedoch immer für den vollen Kalendermonat. Der Mona
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ab-sofort)
 
+ Ich habe eine Ablehnungsmail zum Deutschland-Ticket bekommen. Was soll ich tun?
+----------
+
+Die Ablehnung kann folgende Gründe haben:
+
+* Lastschriftsperre im Kundenkonto
+* Bonitätsprüfung nicht erfolgreich
+* Jobticket-Ablehnung durch Arbeitgeber
+* Berechtigungsnachweis nicht anerkannt
+
+Eine nachträgliche Aktivierung ist nicht möglich. Bestellen Sie das Deutschland-Ticket neu.
+
+Bei Jobticket-Ablehnung wenden Sie sich an Ihre Arbeitgeberin oder Ihren Arbeitgeber.
+
+Bei Ablehnung des Berechtigungsnachweises prüfen Sie die Gründe und reichen einen neuen Nachweis mit Ihrer neuen Bestellung oder Verlängerung ein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ablehnungsmail)
+
  Kann ich mein Deutschland-Ticket Abo selbst verwalten?
 ----------
 

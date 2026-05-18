@@ -980,13 +980,13 @@ Nein. Begleit- oder Assistenzhunde fahren immer kostenfrei mit. Sie müssen bei 
  Muss ich meine Begleitperson bei der Online-Buchung mit angeben?
 ----------
 
-Ja. Als Reisender mit einem Schwerbehindertenausweis und dem Merkzeichen B geben Sie bitte bei der Buchung Ihre Begleitperson als weitere mitreisende Person mit an. Das teuerste Ticket aller Mitreisenden wird dann automatisch als kostenfreies Ticket für die Begleitperson berücksichtigt. Für die Begleitperson kann so eine kostenlose Sitzplatzreservierung mitgebucht werden. Ihre Begleitperson wird auf dem Ticket vermerkt und kann den Komfort Check-in nutzen.
+Ja. Als Reisender mit einem Schwerbehindertenausweis und dem Merkzeichen B geben Sie bitte bei der Buchung Ihre Begleitperson als weitere mitreisende Person mit an. Das teuerste Ticket aller Mitreisenden wird dann automatisch als kostenfreies Ticket für die Begleitperson berücksichtigt. Für die Begleitperson kann so eine kostenfreie Sitzplatzreservierung mit gebucht werden. Ihre Begleitperson wird auf dem Ticket vermerkt und kann den Komfort Check-in nutzen.
 
 Eine Begleitperson muss mindestens 6 Jahre alt sein.
 
-Ihr Schwerbehindertenausweis mit Merkzeichen B ist die Fahrtberechtigung für die Begleitperson. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorgezeigt werden.
+Ihr Schwerbehindertenausweis mit Merkzeichen B gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorgezeigt werden.
 
-Bitte beachten Sie: Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B sowie eine Wertmarke besitzen, reist Ihre Begleitperson im Nahverkehr kostenfrei. Für die Nahverkehrsstrecke ist in diesem Fall keine Ticketbuchung erforderlich.
+Bitte beachten Sie: Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist Ihre Begleitperson im Nahverkehr kostenfrei. Für die Nahverkehrsstrecke ist in diesem Fall keine Ticketbuchung erforderlich.
 
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
@@ -1697,17 +1697,42 @@ Ein Online-Ticket bzw. Handy-Ticket kann für bis zu 5 Personen (maximal 4 Kinde
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einschraenkung-onlineticket-6-14-jahre)
 
- Was bedeutet die Ermäßigungsart "SBA, B ohne Rollstuhlplatz"?
+ Was bedeutet die Ermäßigung "SBA, B mit Rollstuhlplatz"?
 ----------
 
-Wenn Sie bei der Ticketbuchung die Ermäßigungsart "SBA, B ohne Rollstuhlplatz" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mit Merkzeichen B haben und ohne Rollstuhl reisen. Sie erhalten damit folgende Ermäßigungen:
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
 
-* eine kostenfreie Sitzplatzreservierung für sich, welche Sie nach der Angebotsauswahl hinzuwählen können
-* bei Angabe einer weiteren mitreisenden Person wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen und zusätzlich auch das Merkzeichen B in Ihrem Schwerbehindertenausweis haben, dann wählen als Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus.
 
-Ihr Schwerbehindertenausweis gilt für die Begleitperson als Fahrtberechtigung. Sie müssen den Ausweis im Zug dabeihaben und bei der Kontrolle vorzeigen.
+Sie erhalten damit folgende Ermäßigungen:
 
-Einen Rollstuhlplatz können Sie aktuell noch nicht online reservieren. Wenn Sie ein Hilfsmittel wie einen Rollstuhl mitnehmen möchten, wenden Sie sich bitte für die Beratung und Reservierung eines Stellplatzes an die Mobilitätsservice-Zentrale.
+* Einen kostenfreien Stellplatz für Ihr orthopädisches Hilfsmittel. Bitte beachten Sie, dass Ihr orthopädisches Hilfsmittel die Abmessung von 120 x 70 cm und ein Gesamtgewicht (reisende Person inkl. Rollstuhl) bis max. 350 kg nicht überschreiten darf.
+* Eine kostenfreie Sitzplatzreservierung für sich.
+* Bei Angabe einer weiteren mitreisenden Person wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
+* Ihr kostenfreier Rollstuhlplatz und die kostenfreie Sitzplatzreservierung für Ihre Begleitperson werden zugewiesen.
+* Die kostenpflichtige Sitzplatzreservierung ist bei Auswahl dieser Ermäßigung für alle weiteren mitreisenden Personen verpflichtend. Wird für die weiteren mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen eine separate Buchung der Tickets erforderlich.
+
+Ihr Schwerbehindertenausweis mit Merkzeichen B gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorzeigt werden.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz bzw. einen Sitzplatz für Ihre Begleitperson benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emaessigung-sba-b-mit-rollstuhlplatz)
+
+ Was bedeutet die Ermäßigung "SBA, B ohne Rollstuhlplatz"?
+----------
+
+Wenn Sie bei der Ticketbuchung die Ermäßigung "SBA, B ohne Rollstuhlplatz" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mit Merkzeichen B haben und keinen Rollstuhlplatz benötigen, da Sie ohne ein Hilfsmittel reisen.
+
+Sie erhalten damit folgende Ermäßigungen:
+
+* Eine kostenfreie Sitzplatzreservierung für sich, welche Sie nach der Angebotsauswahl hinzuwählen können.
+* Bei Angabe einer weiteren mitreisenden Person wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
+
+Ihr Schwerbehindertenausweis gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorzeigt werden.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emaessigung-sba-b-ohne-rollstuhlplatz)
 
@@ -1770,6 +1795,22 @@ Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenauswe
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-mit-sba-bei-auslandsreisen)
+
+ Was bedeutet die Ermäßigung "SBA, G, aG, Gl, H mit Rollstuhlplatz"?
+----------
+
+Wenn Sie bei der Ticketbuchung die Ermäßigung "SBA, G, aG, Gl, H mit Rollstuhlplatz" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mindestens mit einem der Merkzeichen G, aG, Gl oder H (ohne Merkzeichen B) haben und mit einem Hilfsmittel reisen, für das Sie einen Rollstuhlplatz benötigen.
+
+Sie erhalten damit folgende Ermäßigungen:
+
+* Einen kostenfreien Stellplatz für Ihr orthopädisches Hilfsmittel. Bitte beachten Sie, dass Ihr Hilfsmittel die Abmessung von 120 x 70 cm und ein Gesamtgewicht (reisende Person inkl. Rollstuhl) bis max. 350 kg nicht überschreiten darf.
+* Eine kostenfreie Sitzplatzreservierung für sich.
+* Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
+* Die kostenpflichtige Sitzplatzreservierung ist bei Auswahl dieser Ermäßigung für alle mitreisenden Personen verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen eine separate Buchung der Tickets erforderlich.
+
+* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-sba-g-ag-gi-h-mit-rollstuhlplatz)
 
  Was passiert, wenn wegen Verspätungen oder Zugausfall eine Weiterreise nicht mehr möglich ist?
 ----------
@@ -2101,6 +2142,22 @@ Bitte wenden Sie sich in diesem Fall an die DB Reisezentren, DB Agenturen und an
 Ob es "stehende" oder "hängende" Fahrradhalterungen gibt, hängt von der Baureihe des Zuges ab. Die Reiseberater:innen können das für Sie prüfen. Wenn Plätze verfügbar sind, können sie Ihnen einen Stellplatz mit "stehender" Fahrradhalterung buchen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradstellplatz-ohne-heben-einhaengen)
+
+ Ich reise mit einem faltbaren Rollstuhl. Was kann ich tun?
+----------
+
+Wenn Sie einen faltbaren Rollstuhl haben, dann haben Sie folgende Möglichkeiten Ihr Hilfsmittel auf Ihrer Reise in den Zügen des Fernverkehrs der Deutschen Bahn mitzunehmen:
+
+* Sie benötigen **keine** Hilfe beim Ein- bzw. Ausstieg und Ihr Rollstuhl ist im Zug zusammengefaltet und im Gepäckregal verstaut, dann dürfen Sie Ihren Rollstuhl kostenfrei mitnehmen.
+* Sie benötigen Hilfe beim Ein- und Ausstieg und Sie haben einen Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl, dann haben Sie Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Die Reservierung eines Rollstuhlplatzes für ein Hilfsmittel mit den Maßen bis max. 70 cm x 120 cm und einem Gesamtwicht (reisende Person inkl. Rollstuhl) bis max. 350 kg ist bei der Ticketbuchung möglich. Wählen Sie unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, G, aG, H, Gl mit Rollstuhlplatz" aus. Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
+
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben im Schwerbehindertenausweis zusätzlich auch das Merkzeichen B, dann wählen als Ermäßigung “SBA, B mit Rollstuhlplatz” aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für alle weiteren bei der Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/faltbarer-rollstuhl)
 
  How fast is the wifi on the train?
 ----------
@@ -2473,9 +2530,36 @@ Sollten DB Mitarbeitende während der Reise eine konkrete Gefahr für das Kind b
  Kann ich ein Hilfsmittel in den Zug mitnehmen?
 ----------
 
-Ja, die Mitnahme eines Hilfsmittels im Zug ist unter Einhaltung von Maximalmaßen möglich. Bitte wenden Sie sich zur Beratung und Reservierung eines Stellplatzes an die Mobilitätsservice-Zentrale.
+Ja, die Mitnahme eines Hilfsmittels im Zug ist unter Einhaltung von Maximalmaßen möglich.
 
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Die Reservierung eines Rollstuhlplatzes für ein Hilfsmittel mit den Maßen bis max. 70 cm x 120 cm und einem Gesamtwicht (reisende Person inkl. Rollstuhl) bis max. 350 kg ist bei der Ticketbuchung möglich.
+
+Wählen Sie unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" oder "**SBA, G, aG, H, Gl mit Rollstuhlplatz**" aus. Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
+
+Folgende Hilfsmittel sind auf dem Rollstuhlplatz zugelassen:
+
+* Manueller Rollstuhl (Gesamtgewicht reisende Person + Hilfsmittel max. 200 kg)
+* Elektro-Rollstuhl (Gesamtgewicht reisende Person + Hilfsmittel max. 350 kg)
+* Elektro-Mobil (Gesamtgewicht reisende Person + Hilfsmittel max. 350 kg)
+* nicht-faltbarer Rollator
+* Gehgestelle
+* Reha-Buggy / Reha-Kinderwagen
+* Kleine Dreiräder (weniger als 120 cm in der Länge und 70 cm in der Breite)
+* kurze Laufräder (weniger als 120 cm in der Länge)
+
+[https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026\_02\_18\_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
+
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben einen Schwerbehindertenausweis mit Merkzeichen B, dann wählen als Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei der Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+**Für die Mitnahme eines Hilfsmittels, das größer als 70 cm x 120 cm ist,** wenden Sie sich für die Reservierung eines Stellplatzes bitte an die Mobilitätsservice-Zentrale.
+
+**Für die Reservierung eines Rollstuhlplatzes ohne Schwerbehindertenausweis** wenden Sie sich bitte an die Mobilitätsservice-Zentrale.
+
+* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsmittel-mitnehmen)
 
@@ -2906,7 +2990,7 @@ Ja. Die Fahrgastrechte gelten auch im internationalen Verkehr vom Ausland nach D
  Erhalte ich auch mit einem internationalen Behindertenausweis eine Ermäßigung bei der Ticketbuchung?
 ----------
 
-Nein, um bei der Ticketbuchung über bahn.de oder die App DB Navigator tarifliche Nachteilsausgleiche zu erhalten, müssen Reisende im Besitz eines deutschen Schwerbehindertenausweises (SBA) mit dem Merkzeichen B sein.
+Nein, um bei der Ticketbuchung über bahn.de oder die App DB Navigator tarifliche Nachteilsausgleiche zu erhalten, müssen Reisende im Besitz eines deutschen Schwerbehindertenausweises (SBA) mit den Merkzeichen B und/oder G, aG, H, Gl sein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationaler-behindetenausweis-ermaessigung)
 
@@ -3591,12 +3675,10 @@ Bei Reisen nach Österreich fahren Kinder im Alter von 6 bis einschließlich 14 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-kindermitnahme-oesterreich-6-14-jahre)
 
- Wie erhalte ich mit meinem Schwerbehindertenausweis eine kostenfreie Reservierung ohne Ticketbuchung?
+ Wie erhalte ich mit meinem Schwerbehindertenausweis eine kostenfreie Sitzplatzreservierung ohne Ticketbuchung?
 ----------
 
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung.
-
-Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren). Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
 
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
@@ -3605,15 +3687,35 @@ Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wende
  Wie kann ich mit Schwerbehindertenausweis für mich eine kostenfreie Sitzplatzreservierung buchen?
 ----------
 
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung.
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren).
 
-Wählen Sie beim Ticketkauf in der Verbindungssuche unter „Ermäßigungen“ den Schwerbehindertenausweis mit dem Merkzeichen B aus und fügen Sie nach der Angebotsauswahl die Sitzplatzreservierung hinzu.
+Wählen Sie beim Ticketkauf in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B ohne Rollstuhlplatz"** aus und fügen Sie nach der Angebotsauswahl die kostenfreie Sitzplatzreservierung hinzu.
+
+Wenn Sie bei der Ticketbuchung eine weitere mitreisende Person angeben, wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
 
 Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
 
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-sitzplatz-reservierung-buchen)
+
+ Wie kann ich mit Schwerbehindertenausweis für mich einen kostenfreien Rollstuhlplatz buchen?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Wählen Sie beim Ticketkauf in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, G, aG, Gl, H mit Rollstuhlplatz" aus. Der kostenfreie Rollstuhlplatz wird Ihnen zugewiesen.
+
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben einen Schwerbehindertenausweis mit Merkzeichen B, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, B mit Rollstuhlplatz" aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für alle weiteren bei dieser Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich. Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreien-rollstuhlplatz-buchen)
+
+ Wie erhalte ich mit meinem Schwerbehindertenausweis einen kostenfreien Rollstuhlplatz ohne Ticketbuchung?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis und den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz. Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreien-rollstuhlplatz-ohne-ticketbuchung)
 
  Wie begleiche ich Forderungen bei der DB, um mein DB Kundenkonto freizuschalten?
 ----------
@@ -4446,6 +4548,27 @@ Eine Stornierung einzelner Reisender ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
 
+ Was muss ich beachten, wenn ich als Reisender im Rollstuhl mit weiteren Reisenden im Rollstuhl reisen möchte?
+----------
+
+Die Anmeldung einer Hilfeleistung erfolgt nicht automatisch mit der Buchung Ihrer Fahrkarte und der Reservierung Ihrer Rollstuhlplätze. Da jede Hilfeleistung einzeln erbracht wird, ist auch jede Hilfeleistung für den Ein- bzw. Ausstieg für jeden Reisenden einzeln anzumelden.
+
+Als Reisender im Rollstuhl ist es wichtig, dass Sie prüfen,
+
+* ob das Gleis barrierefrei erreichbar ist
+  (Informationen über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten finden Sie auf [bahnhof.de](https://www.bahn.de/faq/pk/www.bahnhof.de))
+* ob der Einstieg in den Zug selbständig erfolgen kann oder eine Hilfeleistung durch das Zugpersonal erfolgt,
+* ob der Einstieg in den Zug nur mit Hilfe durch das Bahnhofspersonal möglich ist.
+  (Informationen über die Ein- und Ausstiegssituation in den Zug finden Sie auf bahn.de oder im DB Navigator in den Verbindungsdetails unter "Fahrtinformationen".)
+
+**Wichtig:** Melden Sie **jede** benötigte Hilfeleistung möglichst bald nach dem Ticketkauf bei der Mobilitätsservice-Zentrale an.
+
+Alternativ können Sie für die Anmeldung Ihrer Reise und Ihres Unterstützungsbedarfs das barrierefreie Online-Formular unter msz.bahnhof.de nutzen. **Wichtig:** Wenn Sie das Online-Formular nutzen, dann geben Sie uns bitte in allen Anmeldungen unter der abschließenden Frage "Gibt es noch etwas Wichtiges, das Sie uns mitteilen möchten?" an, dass Sie in einer Gruppe reisen und die Anzahl der mitreisenden Personen.
+
+[Ihr Kontakt zur Mobilitätsservice-Zentrale](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmsz.bahnhof.de%2F&data=05%7C02%7Cangelika.fehrer%40deutschebahn.com%7C8deb8946a9c047178cbf08deab6677bb%7Ca1a72d9c49e64f6d9af65aafa1183bfd%7C0%7C0%7C639136653734967703%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=T4XA2xEtwfNPs1ElWfVQNrghu3%2FbbHNwFkocFH99n9w%3D&reserved=0)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisender-rollstuhl-mit-weiteren-reisenden-rollstuhl)
+
  In welchen Zügen gibt es mit dem Flexpreis Europa eine Reservierungspflicht?
 ----------
 
@@ -4506,9 +4629,18 @@ Always follow the instructions of the on-board crew.
  Kann ich meinen Schwerbehindertenausweis im DB Kundenkonto hinterlegen?
 ----------
 
-Nein, eine Hinterlegung des Schwerbehindertenausweises im DB Kundenkonto ist nicht möglich. Um Ihren Schwerbehindertenausweis anzugeben, wählen Sie diesen in der Verbindungssuche unter „Ermäßigungen“ aus.
+Nein, eine Hinterlegung des Schwerbehindertenausweises im DB Kundenkonto ist nicht möglich. Um Ihren Schwerbehindertenausweis anzugeben, wählen Sie diesen in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schwerbehindertenausweis-im-kundenkonto-hinterlegen)
+
+ Kann ich meinen deutschen Schwerbehindertenausweis auch beim Kauf einer Zeitkarte (Wochenkarte, Monatskarte) geltend machen?
+----------
+
+Nein, dies ist nicht möglich, da der Schwerbehindertenausweis keinen Einfluss auf den Preis Ihrer Zeitkarte oder Fahrkarte hat. Im Fernverkehr der Deutschen Bahn haben Reisende mit einem deutschen Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren).
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem deutschen Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz. Kaufen Sie sich eine Zeitkarte für den Fernverkehr, können Sie über die Mobilitätsservice-Zentrale oder das DB Reisezentrum die jeweiligen Ermäßigungen (kostenfreie Sitzplätze für Sie und Ihren Begleiter, kostenfreie Reservierung eines Rollstuhlplatzes) erhalten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schwerbehindertenausweis-kauf-zeitkarte)
 
  How secure is the wifi network on the train?
 ----------
@@ -5013,8 +5145,8 @@ The black train progress bar, which is located on the home page or at the top of
 
 Wenn Sie beim Umsteigen mehr Zeit brauchen, können Sie das bei der Verbindungssuche einstellen:
 
-* **Auf bahn.de** klicken Sie bei der Suche auf „Umstiegszeit“ und wählen Ihre gewünschte Zeit aus. Das System sucht dann nur Verbindungen mit dieser Umstiegszeit.
-* **In der DB Navigator App** gehen Sie bei der Verbindungssuche auf „Optionen“ und ändern dort die Umstiegszeit.
+* Auf **bahn.de** klicken Sie in der Verbindungssuche auf "Umstiegszeit" und wählen Ihre gewünschte Zeit aus. Das System sucht dann nur Verbindungen mit dieser Umstiegszeit.
+* In der **App DB Navigator** können Sie in der Verbindungssuche unter "Optionen" die Umstiegszeit verändern.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umstiegszeit-verlaengern)
 
@@ -5502,7 +5634,7 @@ Bei wenigen einzelnen Fahrten kann derzeit der Preis noch nicht automatisch ermi
  Was bedeutet eine Stornierung meines Tickets für meine angemeldete Hilfeleistung?
 ----------
 
-Falls Sie Ihre Reise nicht antreten können, sagen Sie bitte unbedingt die angemeldeten Hilfeleistungen ab. So geben Sie anderen Reisenden die Möglichkeit, Unterstützung durch die Mitarbeitenden im Zug beziehungsweise am Bahnhof zu erhalten.
+Falls Sie Ihre Reise nicht antreten können, sagen Sie bitte unbedingt die angemeldeten Hilfeleistungen ab. Bitte wenden Sie sich hierfür an die Mobilitätsservice-Zentrale. So geben Sie anderen Reisenden die Möglichkeit, Unterstützung durch die Mitarbeitenden im Zug beziehungsweise am Bahnhof zu erhalten.
 
 Bitte beachten Sie, dass die Stornierung einer Hilfeleistung nicht automatisch mit der Ticketstornierung erfolgt.
 
@@ -6318,9 +6450,9 @@ Mit dem Platinstatus profitieren Sie zusätzlich zu den Gold-Vorteilen noch von 
  Welche Vorteile habe ich, wenn ich meine Begleitperson bei der Online-Buchung direkt mit angebe?
 ----------
 
-Wenn Sie Ihre Begleitperson bei der Online-Buchung als weitere reisende Person angeben, können Sie beide eine kostenfreie Sitzplatzreservierung buchen und den Komfort Check-in nutzen.
+Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B haben und Ihre Begleitperson bei der Online-Buchung als weitere reisende Person angeben, können Sie beide eine kostenfreie Sitzplatzreservierung buchen und den Komfort Check-in nutzen.
 
-Mit Schwerbehindertenausweis mit Merkzeichen "B" und Wertmarke reisen Sie im Nahverkehr beide kostenlos. Für die Nahverkehrsstrecke brauchen Sie kein Ticket zu buchen.
+Mit Schwerbehindertenausweis mit Merkzeichen B und Wertmarke reisen Sie im Nahverkehr beide kostenfrei. Für die Nahverkehrsstrecke ist in diesem Fall keine Ticketbuchung erforderlich.
 
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
@@ -6361,7 +6493,7 @@ Falls der Wert des DB Geschenkgutscheins höher ist als der Kaufpreis des DB Pro
  Ich besitze eine Wertmarke zum Schwerbehindertenausweis. Was muss ich bei der Online-Buchung beachten?
 ----------
 
-Mit einem Schwerbehindertenausweis mit Wertmarke fahren Sie im Nahverkehr kostenfrei. Daher kann es günstiger sein, die Anfrage und Buchung auf die Fernverkehrsstrecke zu beschränken und die Nahverkehrsstrecke nicht anzugeben. Dies gilt auch für Fähren im Orts- und Nahbereich, die mit einer Wertmarke unentgeltlich genutzt werden dürfen.
+Mit einem Schwerbehindertenausweis und einer Wertmarke fahren Sie im Nahverkehr kostenfrei. Daher kann es günstiger sein, die Anfrage und Buchung auf die Fernverkehrsstrecke zu beschränken und die Nahverkehrsstrecke nicht anzugeben. Dies gilt auch für Fähren im Orts- und Nahbereich, die mit einer Wertmarke unentgeltlich genutzt werden dürfen.
 
 Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist auch Ihre Begleitperson im Nahverkehr kostenfrei.
 
@@ -7404,9 +7536,11 @@ Für die Ticketkontrolle benötigen Sie den QR Code auf Ihrem Digitalen Ticket. 
 
 Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich und eine Begleitperson (ab 6 Jahren).
 
-Geben Sie dafür beim Ticketkauf Ihre Begleitperson als weitere mitreisende Person mit an und wählen Sie in der Verbindungssuche unter „Ermäßigungen“ den Schwerbehindertenausweis mit dem Merkzeichen B aus. Fügen Sie anschließend nach der Angebotsauswahl die Sitzplatzreservierung hinzu.
+Wählen Sie beim Ticketkauf zunächst in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, B ohne Rollstuhlplatz" aus und geben Sie Ihre Begleitperson als weitere mitreisende Person mit an. Nach der Angebotsauswahl können Sie die kostenfreien Sitzplatzreservierungen für sich und Ihre Begleitperson hinzufügen.
 
-Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Wenn Sie mit einer Begleitperson reisen, und Sie zusätzlich auch das Merkzeichen B in Ihrem Schwerbehindertenausweis haben, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, B mit Rollstuhlplatz" aus. Ihre kostenfreie Reservierung eines Rollstuhlplatzes und eines kostenfreien Sitzplatzes für Ihre Begleitperson in der Nähe des Rollstuhlplatzes werden Ihnen zugewiesen.
 
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 

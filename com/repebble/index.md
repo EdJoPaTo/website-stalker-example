@@ -12,11 +12,11 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 
 [Blog](/blog)
 
+* [How I Use My Index 01 + Production Update](/blog/how-i-use-my-index-01-production-update)
 * [Spring 2026 Dev Contest Results!](/blog/spring-2026-dev-contest-results)
 * [Spring 2026 Pebble App Contest + SDK Updates](/blog/spring-2026-pebble-app-contest)
 * [Pebble Time 2 Is In Mass Production!](/blog/pebble-time-2-is-in-mass-production)
 * [CloudPebble Returns! Plus New Pure JavaScript and Round 2 SDK](/blog/cloudpebble-returns-plus-pure-javascript-and-round-2-sdk)
-* [February Pebble Production and Software Updates](/blog/february-pebble-production-and-software-updates)
 * [Pebble Watch Software Is Now 100% Open Source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [The new Pebble app is live on iOS and Android](https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android)
 
