@@ -175,10 +175,10 @@ Local Block Storage bei vServern
 
 Je nach Tarif stehen dir mit der Local-Block-Storage-Technologie für **VPS Lite-Tarife** **bis zu 4 TB Speicher** zur Verfügung. Wähle frei von Laufzeiten die [gewünschte Speicherkapazität](https://www.netcup.com/de/server/local-block-storage) und decke so einfach und schnell den Bedarf an neuen Ressourcen. Profitiere von der flexiblen und **kostengünstigen Möglichkeit, Speicherkapazitäten jederzeit nach Bedarf zu erweitern**.
 
-Tiefpreis
+Günstige VPS-Tarife
 ----------
 
-Beste Leistung zum besten Preis: Solltest du einen vergleichbaren vServer bei einem anderen Anbieter günstiger finden, kontaktiere einfach unseren Support vor deiner Bestellung. Stimmen die Konditionen überein, erhältst du von uns einen zusätzlichen Rabatt von 10 % auf deinen Tiefpreis. Noch mehr attraktive Deals und Sonderangebote findest du in unserer [Deals-Übersicht](https://www.netcup.com/de/deals).
+Bei uns bekommst du unterschiedliche **VPS-Tarife mit einem überzeugenden Preis-Leistungs-Verhältnis** für viele Anforderungen - ideal für Hosting mit skalierbaren Ressourcen, sofort einsatzbereit, mit viel Leistung zum kleinen Preis. Du bist auf der Suche nach weiteren attraktiven Angeboten? Abonniere unsere Kanäle und entdecke unsere [Deals](https://www.netcup.com/de/deals).
 
 Frequently Asked Questions
 ----------

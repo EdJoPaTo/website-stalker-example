@@ -362,6 +362,13 @@ Die Jugend BahnCard 25 berechtigt nicht zum Erwerb ermäßigter Einzelfahrauswei
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bekomme-ich-mit-der-bahncard-eine-ermaessigung-im-vbb)
 
+ Brauche ich die BahnCard Nummer, um BahnBonus Punkte zu sammeln?
+----------
+
+Nein, Sie sammeln mit Ihrer BahnBonus Nummer. Diese finden Sie in Ihrem DB Kundenkonto, Bereich "BahnBonus".
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-bahncard-nummer-um-bahnbonus-punkte-zu-sammeln)
+
  Was muss ich tun, um das Deutschland-Ticket zu meiner My BahnCard 100 zu nutzen?
 ----------
 
