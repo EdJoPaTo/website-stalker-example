@@ -285,7 +285,7 @@ Setzen Sie sich nach dem Check-in um, ändern Sie bitte Ihre Sitzplatznummer üb
 
 ###  Kann ich als Bahncard 100-Besitzer:in den KCi nutzen?  ###
 
-Nein, leider ist der Komfort Check-in für BahnCard 100 Besitzer:innen derzeit nicht möglich, da hierfür ein digitales Ticket zum Flex-, Spar- oder Super Sparpreis notwendig ist.
+Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
 

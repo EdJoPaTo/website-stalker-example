@@ -294,7 +294,7 @@
 								},
 								{
 									"label": "PL2",
-									"value": "15W"
+									"value": "25W"
 								}
 							]
 						}
@@ -499,7 +499,7 @@
 					{
 						"items": [
 							{
-								"detail": "8 Cores<br />8 Threads<br />7W TDP<br />15W PL2",
+								"detail": "8 Cores<br />8 Threads<br />7W TDP<br />25W PL2",
 								"summary": "&nbsp;<br />1.00GHz 8-core Intel Processor N350<br />Turbo Boost up to 3.90GHz, with 6MB Smart Cache"
 							}
 						],

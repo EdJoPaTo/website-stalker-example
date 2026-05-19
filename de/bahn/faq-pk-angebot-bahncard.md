@@ -15,7 +15,7 @@ Die digitale BahnCard ist ab dem gewünschten ersten Geltungstag gültig und nut
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-ist-die-digitale-bahncard-gueltig)
 
- Ich habe ein älteres Smartphone und kann meine digitale BahnCard nicht im DB Navigator nutzen. Was kann ich tun?
+ Ich habe ein älteres Smartphone und kann meine digitale BahnCard 25/50 nicht im DB Navigator nutzen. Was kann ich tun?
 ----------
 
 Der DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
@@ -23,7 +23,7 @@ Der DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
 * Android ab Version 8.0
 * iOS ab Version 15.0.
 
-Nutzen Sie ein älteres Betriebssystem, dann können Sie in Ihrem Kundenkonto auf [bahn.de](http://bahn.de/) ein Ersatzdokument als PDF-Dokument mit QR-Code abrufen. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen. Das Ersatzdokument wird in Ihrem Kundenkonto zur Verfügung gestellt.
+Nutzen Sie ein älteres Betriebssystem, dann können Sie in Ihrem DB Kundenkonto auf [bahn.de](http://bahn.de/) ein Ersatzdokument als PDF-Dokument mit QR-Code abrufen. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen. Das Ersatzdokument wird in Ihrem DB Kundenkonto zur Verfügung gestellt.
 
 Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
@@ -120,15 +120,6 @@ Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewä
 *
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-ueberweisung)
-
- Wo bekomme ich Tipps zu BahnCard verloren, verlängern, upgraden?
-----------
-
-Was kann ich tun, wenn ich meine BahnCard verloren habe? Wie kann ich die BahnCard verlängern oder upgraden bzw. downgraden?
-
-[BahnCard: Verloren, Verlängern, Upgraden](https://www.bahn.de/angebot/bahncard/bahncard-verloren)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-verloren-verlaengern-upgraden)
 
  Wie lange kann man die BahnCard 50 Produkte zum Aktionspreis kaufen?
 ----------
@@ -385,10 +376,10 @@ Zur Nutzung der digitalen BahnCard 100 benötigen Sie ein DB Kundenkonto sowie d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digibc100-infos)
 
- Die digitale BahnCard kann nicht auf mein Smartphone geladen werden.
+ Die digitale BahnCard 25/50 kann nicht auf mein Smartphone geladen werden.
 ----------
 
-Überprüfen Sie die Daten, die Sie auf bahn.de und in den BahnCard Services hinterlegt haben (z.B. persönliche Angaben oder Zahlungsdaten). Falls sich diese unterscheiden, kann die BahnCard in manchen Fällen nicht auf das Smartphone geladen werden.
+Überprüfen Sie die Daten, die Sie auf bahn.de und in den BahnCard Services hinterlegt haben (z.B. persönliche Angaben oder Zahlungsdaten). Falls sich diese unterscheiden, kann die BahnCard 25/50 in manchen Fällen nicht auf das Smartphone geladen werden.
 
 Wenn Sie noch nicht zu den BahnCard-Services angemeldet sind, fordern Sie einen PIN zur Freischaltung über [bahn.de/bcregister](https://www.bahn.de/buchung/bahncard-register?lang=de) an.
 
@@ -407,7 +398,7 @@ In den Flexpreisen wird das City-Ticket kostenlos hinzugegeben. Hier übernimmt 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gilt-mein-bahncard-rabatt-auch-fuer-city-ticket)
 
- Ich habe kein Smartphone - kann ich die digitale BahnCard trotzdem nutzen?
+ Ich habe kein Smartphone - kann ich die digitale BahnCard 25/50 trotzdem nutzen?
 ----------
 
 Ja. Sie können in Ihrem DB Kundenkonto auf bahn.de ein Ersatzdokument als PDF-Dokument mit QR-Code abrufen. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen. Das Ersatzdokument wird in Ihrem DB Kundenkonto zur Verfügung gestellt.
@@ -416,23 +407,23 @@ Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.b
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-hab-kein-smartphone-kann-ich-die-digitale-bc-trotzdem-nutzen)
 
- Ich habe bereits ein DB Kundenkonto, aber meine BahnCard wird nicht angezeigt. Was muss ich tun?
+ Ich habe bereits ein DB Kundenkonto, aber meine BahnCard 25/50 wird nicht angezeigt. Was muss ich tun?
 ----------
 
-Loggen Sie sich bitte in Ihr DB Kundenkonto ein. Gehen Sie im Bereich "BahnCards oder BahnBonus Cards übertragen" vor und fügen Sie Ihre BahnCard nachträglich hinzu. Sie benötigen dafür einmalig eine PIN, die Sie im Dialogfeld anfordern können.
+Loggen Sie sich bitte in Ihr DB Kundenkonto ein. Gehen Sie im Bereich "BahnCards oder BahnBonus Cards übertragen" vor und fügen Sie Ihre BahnCard 25/50 nachträglich hinzu. Sie benötigen dafür einmalig eine PIN, die Sie im Dialogfeld anfordern können.
 
-Benötigen Sie Unterstützung bei der Nutzung der digitalen BahnCard? Weitere Informationen finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+Benötigen Sie Unterstützung bei der Nutzung der digitalen BahnCard 25/50? Weitere Informationen finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
 [Zum Login](https://www.bahn.de/link_bc-selfservices)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-bereits-ein-kundenkonto-aber-meine-bahncard-wird-nicht-angezeigt)
 
- Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard trotzdem nutzen?
+ Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard 25/50 trotzdem nutzen?
 ----------
 
-Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, z. B. Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
+Der Kauf einer BahnCard 25/50 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, z. B. Informationen zur Nutzung Ihrer digitalen BahnCard 25/50 oder die Buchungsbestätigung nach Kauf der BahnCard 25/50. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
 
-Falls Sie Ihre BahnCard vor Juni 2023 gekauft haben und noch kein DB Kundenkonto auf bahn.de besitzen, müssen Sie zur Nutzung der digitalen BahnCard ein DB Kundenkonto anlegen. Loggen Sie sich dann mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren". Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+Falls Sie Ihre BahnCard 25/50 vor Juni 2023 gekauft haben und noch kein DB Kundenkonto auf bahn.de besitzen, müssen Sie zur Nutzung der digitalen BahnCard 25/50 ein DB Kundenkonto anlegen. Loggen Sie sich dann mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard 25/50 laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren". Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard 25/50 benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-keine-e-mail-adresse-kann-ich-die-digitale-bahncard-trotzdem-nutzen)
 
@@ -457,10 +448,10 @@ Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-meine-bahncard-25-50-verloren)
 
- Wo erhalte ich mehr Informationen zur digitalen BahnCard?
+ Wo erhalte ich mehr Informationen zur digitalen BahnCard 25/50?
 ----------
 
-Zur Nutzung der digitalen BahnCard benötigen Sie ein DB Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie [hier](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard und auch zur Alternative ohne Smartphone mit Schritt-für-Schritt-Anleitungen.
+Zur Nutzung der digitalen BahnCard 25/50 benötigen Sie ein DB Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie [hier](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard und auch zur Alternative ohne Smartphone mit Schritt-für-Schritt-Anleitungen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/info-digitale-bahncard)
 
@@ -505,10 +496,10 @@ Es ist aktuell nicht möglich, die BahnCard 100 in den DB Navigator zu laden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-die-bahncard-100-in-die-app-db-navigator-laden)
 
- Kann ich die digitale BahnCard sofort auf mein Smartphone laden?
+ Kann ich die digitale BahnCard 25/50 sofort auf mein Smartphone laden?
 ----------
 
-Sie können die digitale BahnCard direkt nach dem Kauf in die App DB Navigator auf Ihrem Smartphone laden und ab dem ersten Geltungstag nutzen.
+Sie können die digitale BahnCard 25/50 direkt nach dem Kauf in die App DB Navigator auf Ihrem Smartphone laden und ab dem ersten Geltungstag nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-die-digitale-bahncard-sofort-auf-mein-smartphone-laden)
 
@@ -523,10 +514,18 @@ Das gilt auch für die Jugend BahnCard 25.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-eine-bahncard-fuer-eine-andere-person-bestellen-z-b-als-geschenk)
 
- Kann ich meine BahnCard online kündigen?
+ Kann ich meine BahnCard 25/50 online kündigen?
 ----------
 
-Ja. Sie können Ihre BahnCard 25/50 auf unserer Website einfach in Ihrem DB Kundenkonto im Bereich "BahnCard" über den Button "BahnCard kündigen" kündigen.
+Ja, Sie können Ihre BahnCard 25 oder BahnCard 50 bis zu 4 Wochen vor Laufzeitende in Textform kündigen.
+
+So kündigen Sie online:
+
+* In Ihr DB Kundenkonto einloggen.
+* Auf "BahnCard" klicken und "Optionen" auswählen.
+* Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
+* Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
+* Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bc-kuendigen)
 
@@ -637,10 +636,10 @@ Mit der digitalen BahnCard können Sie auch BahnBonus Punkte sammeln. Wenn Sie I
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-digitaler-bahncard-bahnbonus-punkte-sammeln)
 
- Muss ich die digitale BahnCard in der App DB Navigator aktualisieren?
+ Muss ich die digitale BahnCard 25/50 in der App DB Navigator aktualisieren?
 ----------
 
-Nein, die digitale BahnCard wird einmal pro Monat automatisch aktualisiert.
+Nein, die digitale BahnCard 25/50 wird einmal pro Monat automatisch aktualisiert.
 
 Falls bestimmte Einstellungen auf Ihrem Smartphone die automatische Aktualisierung verhindern, lösen Sie die Aktualisierung manuell aus.
 
@@ -677,6 +676,13 @@ Ja, die My BahnCard 100 beinhaltet seit dem 1. Mai 2023 zusätzlich und kostenlo
 Ja, eine Nutzung der 1. Klasse im Schienenpersonennahverkehr (SPNV) z.B. RE, RB und S-Bahn ist möglich. In den Verkehrsmitteln des öffentlichen Personennahverkehrs (ÖPNV) z.B. U-Bahn, Straßenbahn und Bus ist die Nutzung der 1.Klasse (wenn vorhanden) nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mybc100-1klasse-im-nahverkehr-in-1klasse-nutzen)
+
+ Kann ich als Bahncard 100-Besitzer:in den KCi nutzen?
+----------
+
+Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
 
  Sie haben ein Schreiben eines Inkassounternehmens zu Ihrer BahnCard erhalten. Was können Sie tun?
 ----------
@@ -827,12 +833,10 @@ Alle weiteren Konditionen sind identisch zu den Konditionen der regulären Senio
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/senioren-bahncard-plus-vorteile)
 
- Ich tue mich mit der Umstellung auf die digitale BahnCard sehr schwer. Wohin kann ich mich wenden ?
+ Ich tue mich mit der Umstellung auf die digitale BahnCard 25/50 sehr schwer. Wohin kann ich mich wenden ?
 ----------
 
-Unsere Mitarbeitenden in den DB Reisezentren sowie im BahnCard Service helfen Ihnen gerne, die digitale BahnCard in der App DB Navigator oder auf bahn.de zu nutzen. Bei Bedarf helfen sie Ihnen auch beim Ausdrucken des Ersatzdokuments als Alternative zur digitalen BahnCard.
-
-In den DB Reisezentren oder DB Agenturen erhalten Sie auch wie gewohnt eine vorläufige BahnCard als Papierausdruck. Diese ist 3 Monate gültig und dient Ihnen bei direktem Reiseantritt als Nachweis im Zug.
+Unsere Mitarbeitenden in den DB Reisezentren sowie im BahnCard Service helfen Ihnen gerne, die digitale BahnCard 25/50 in der App DB Navigator oder auf bahn.de zu nutzen. Bei Bedarf helfen sie Ihnen auch beim Ausdrucken des Ersatzdokuments als Alternative zur digitalen BahnCard 25/50.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umstellung-digitale-bahncard)
 
@@ -864,7 +868,8 @@ Ausschlaggebend für den Erwerb der Karte ist das Alter zum 1. Geltungstag. Alle
 
 Wenn Sie Ihre BahnCard bei der Fahrkartenkontrolle nicht vorzeigen können, erhalten Sie eine Fahrpreisnacherhebung zum doppelten Fahrpreis.
 
-Für eine Rückerstattung (abzüglich Bearbeitungsgebühr) melden Sie sich innerhalb von 14 Tagen in einem DB Reisezentrum. Sie brauchen dafür Ihre BahnCard, die originale sowie die nachgelöste Fahrkarte.
+Für eine Rückerstattung (abzüglich Bearbeitungsgebühr) melden Sie sich innerhalb von 14 Tagen bequem online über [db-fn.de](https://db-fn.de/) oder in einem DB Reisezentrum. Sie brauchen dafür Ihre zum Zeitpunkt der
+Fahrt gültige BahnCard, den Fahrpreisnacherhebungsbeleg und bei einer BahnCard 25/50 die ursprüngliche Fahrkarte mit dem BahnCard-Rabatt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-smartphone-akku-leer-ist-oder-ich-mein-smartphone-nicht-bei-mir-habe)
 
@@ -1052,10 +1057,10 @@ Die **BahnCard 100** muss nicht gekündigt werden. Die Karte läuft automatisch
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-bahncard-100-kuendigen)
 
- Wie kann ich die digitale BahnCard in der App DB Navigator speichern?
+ Wie kann ich die digitale BahnCard 25/50 in der App DB Navigator speichern?
 ----------
 
-Loggen Sie sich mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre [digitale BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren".
+Sofern Sie ihre BahnCard 25/50 im eingeloggten Zustand über Ihr DB Kundenkonto gekauft haben, wird die BahnCard 25/50 in Ihrem Profil im DB Navigator unter „BahnCard“ angezeigt
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-digitale-bahncard-in-der-app-db-navigator-speichern)
 
@@ -1078,17 +1083,6 @@ Bitte gehen Sie so vor:
 Die **BahnCard 100** muss nicht gekündigt werden. Die Karte läuft automatisch nach einem Jahr aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-my-bahncard-100-kuendigen)
-
- Wie kann ich kurzfristig eine BahnCard 100 kaufen?
-----------
-
-Im Reisezentrum können Sie kurzfristig eine BahnCard 100 mit sofortiger Einmalzahlung kaufen.
-
-Die Zahlung kann mit Kreditkarte, Girokarte, als Barzahlung oder mit Gutschein, sofern die Einlösebedingungen erfüllt sind, erfolgen.
-
-Möchten Sie mit Kredit- oder Girokarte bezahlen, überprüfen Sie vor Ihrem Kauf, ob Ihr Verfügungsrahmen dafür ausreicht. Falls nicht, bitten wir Sie, zunächst Ihr Kartenlimit durch Ihre Bank anheben zu lassen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-kurzfristig-eine-bahncard-100-kaufen)
 
  Wie kann ich meine BahnCard 25 oder BahnCard 50 kündigen?
 ----------
@@ -1457,15 +1451,13 @@ Verwalten Sie mit den BahnCard Services Ihre BahnCard und profitieren Sie von de
  Wofür kann ich die BahnCard 25 nutzen?
 ----------
 
-Mit der BahnCard 25 erhalten Sie einen BahnCard-Rabatt in Höhe von 25 Prozent auf die Super Spar-, Spar- und Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse. Das kostenpflichtige City-Ticket beim Sparpreis und Super Sparpreis wird nicht rabattiert.
+Mit der BahnCard 25 erhalten Sie 25 Prozent Rabatt auf Super Spar-, Spar- und Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
 
-Dabei können Sie den ICE bzw. IC/EC, ÖBB-Nightjet-Züge (ggf. reservierungspflichtig) und die Züge des Nahverkehrs (IRE, RE, RB, S-Bahn) nutzen.
+Sie können den ICE, IC/EC, ÖBB-Nightjet-Züge (teils reservierungspflichtig) und Züge des Nahverkehrs (IRE, RE, RB, S-Bahn) nutzen.
 
-In manchen Verbünden wird BahnCard 25 und 50 Inhabern ein Rabatt auf Angebote des Verbundtarifs gewährt.
+Manche Verbünde gewähren Inhaberinnen und Inhabern der BahnCard 25 einen Rabatt auf Verbundtarife. Den Rabatt sehen Sie automatisch bei der Buchung, sofern die BahnCard auf Ihrer Verbindung anerkannt wird. Regelungen zur Anerkennung der BahnCard in Landestarifen und Verkehrsverbünden finden Sie in deren Tarif- und Beförderungsbedingungen.
 
-Wenn die BahnCard auf der gewünschten Verbindung anerkannt wird, wird der Rabatt bei der Buchung automatisch abgezogen. Die digitale BahnCard können Sie bei den verschiedenen Landestarifen und Verkehrsverbünden gleichermaßen wie die BahnCard Plastikkarte nutzen.
-
-Ob es eine Anerkennung der BahnCard in den jeweiligen Landestarifen oder Verkehrsverbünden gibt, regeln deren Tarif- und Beförderungsbedingungen. Einen Link zu diesen Tarif- und Beförderungsbedingungen finden Sie unter: <https://www.bahn.de/agb>
+* [Link zu diesen Tarif- und Beförderungsbedingungen](https://www.bahn.de/agb)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-kann-ich-die-bahncard-25-nutzen)
 

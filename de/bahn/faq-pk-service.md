@@ -4131,7 +4131,7 @@ Die Einführung der Option "Neutrale Anrede" neben "Herr" und "Frau" in unseren 
  Kann ich als Bahncard 100-Besitzer:in den KCi nutzen?
 ----------
 
-Nein, leider ist der Komfort Check-in für BahnCard 100 Besitzer:innen derzeit nicht möglich, da hierfür ein digitales Ticket zum Flex-, Spar- oder Super Sparpreis notwendig ist.
+Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
 
@@ -5546,17 +5546,16 @@ Die Züge hupen, wenn auf der Strecke Baumaßnahmen stattfinden. So warnen sie d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-hupen-die-zuege-mehrmals-und-teilweise-noch-sehr-laut)
 
- Warum kann ich in der App DB Navigator meine BahnCard nicht laden?
+ Warum kann ich in der App DB Navigator meine BahnCard 25/50 nicht laden?
 ----------
 
 Das kann daran liegen, dass Ihr BahnCard-Vertrag nicht Ihrem DB Kundenkonto zugeordnet werden kann.
 
-Bisher war es erforderlich, Ihr DB Kundenkonto unter "Meine Bahn" immer mit Ihrem BahnCard-Vertrag manuell zu verknüpfen. Durch das neue DB Kundenkonto entfällt diese Notwendigkeit und alle BahnCard-Verträge werden automatisch im Kundenkonto angezeigt. Falls die Daten des DB Kundenkontos jedoch nicht mit
-den Daten des BahnCard Vertrags exakt übereinstimmen (beispielsweise durch die Angabe weiterer Vornamen) kann die Verknüpfung im System nicht erfolgen.
+Bisher war es erforderlich, Ihr DB Kundenkonto unter "Meine Bahn" immer mit Ihrem BahnCard-Vertrag manuell zu verknüpfen. Durch das neue DB Kundenkonto entfällt diese Notwendigkeit und alle BahnCard-Verträge werden automatisch im Kundenkonto angezeigt. Falls die Daten des DB Kundenkontos jedoch nicht mit den Daten des BahnCard Vertrags exakt übereinstimmen (beispielsweise durch die Angabe weiterer Vornamen) kann die Verknüpfung im System nicht erfolgen.
 
-Für diesen Fall können Sie auf bahn.de Ihre BahnCard/BahnBonus Card selbst hinterlegen.
+Für diesen Fall können Sie auf bahn.de Ihre BahnCard 25/50 selbst hinterlegen.
 
-Danach können Sie auf Ihre gültige bzw. demnächst gültige BahnCard/BahnBonus Card in dieser App zugreifen.
+Danach können Sie auf Ihre gültige bzw. demnächst gültige BahnCard 25/50 in dieser App zugreifen.
 
 * [Zum Kundenkonto Login](https://www.bahn.de/buchung/reiseuebersicht)
 
