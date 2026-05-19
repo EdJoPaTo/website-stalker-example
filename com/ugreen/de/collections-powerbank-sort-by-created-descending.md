@@ -1,4 +1,4 @@
-[UGREEN Nexode Pro Powerbank (25.000 mAh, 200 W, integriertes USB-C-Kabel, 4 Anschlüsse)](https://de.ugreen.com/products/nexode-pro-powerbank-25000mah-200w-4-anschluesse)
+[UGREEN Nexode Pro Powerbank (25000 mAh, 200 W, integriertes USB-C-Kabel, 4 Anschlüsse)](https://de.ugreen.com/products/nexode-pro-powerbank-25000mah-200w-4-anschluesse)
 
 [UGREEN MagFlow Air Magnetische Powerbank (5000mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-5000mah-qi2-15w)
 
