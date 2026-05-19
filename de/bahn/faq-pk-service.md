@@ -1723,7 +1723,7 @@ Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz bzw. einen S
  Was bedeutet die Ermäßigung "SBA, B ohne Rollstuhlplatz"?
 ----------
 
-Wenn Sie bei der Ticketbuchung die Ermäßigung "SBA, B ohne Rollstuhlplatz" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mit Merkzeichen B haben und keinen Rollstuhlplatz benötigen, da Sie ohne ein Hilfsmittel reisen.
+Wenn Sie bei der Ticketbuchung die Ermäßigung "**SBA, B ohne Rollstuhlplatz**" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mit Merkzeichen B haben und keinen Rollstuhlplatz benötigen, da Sie ohne ein Hilfsmittel reisen.
 
 Sie erhalten damit folgende Ermäßigungen:
 
@@ -1799,7 +1799,7 @@ Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenauswe
  Was bedeutet die Ermäßigung "SBA, G, aG, Gl, H mit Rollstuhlplatz"?
 ----------
 
-Wenn Sie bei der Ticketbuchung die Ermäßigung "SBA, G, aG, Gl, H mit Rollstuhlplatz" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mindestens mit einem der Merkzeichen G, aG, Gl oder H (ohne Merkzeichen B) haben und mit einem Hilfsmittel reisen, für das Sie einen Rollstuhlplatz benötigen.
+Wenn Sie bei der Ticketbuchung die Ermäßigung "**SBA, G, aG, Gl, H mit Rollstuhlplatz**" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mindestens mit einem der Merkzeichen G, aG, Gl oder H (ohne Merkzeichen B) haben und mit einem Hilfsmittel reisen, für das Sie einen Rollstuhlplatz benötigen.
 
 Sie erhalten damit folgende Ermäßigungen:
 
@@ -2151,9 +2151,9 @@ Wenn Sie einen faltbaren Rollstuhl haben, dann haben Sie folgende Möglichkeiten
 * Sie benötigen **keine** Hilfe beim Ein- bzw. Ausstieg und Ihr Rollstuhl ist im Zug zusammengefaltet und im Gepäckregal verstaut, dann dürfen Sie Ihren Rollstuhl kostenfrei mitnehmen.
 * Sie benötigen Hilfe beim Ein- und Ausstieg und Sie haben einen Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl, dann haben Sie Anspruch auf einen kostenfreien Rollstuhlplatz.
 
-Die Reservierung eines Rollstuhlplatzes für ein Hilfsmittel mit den Maßen bis max. 70 cm x 120 cm und einem Gesamtwicht (reisende Person inkl. Rollstuhl) bis max. 350 kg ist bei der Ticketbuchung möglich. Wählen Sie unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, G, aG, H, Gl mit Rollstuhlplatz" aus. Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
+Die Reservierung eines Rollstuhlplatzes für ein Hilfsmittel mit den Maßen bis max. 70 cm x 120 cm und einem Gesamtwicht (reisende Person inkl. Rollstuhl) bis max. 350 kg ist bei der Ticketbuchung möglich. Wählen Sie unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, G, aG, H, Gl mit Rollstuhlplatz**" aus. Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
 
-Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben im Schwerbehindertenausweis zusätzlich auch das Merkzeichen B, dann wählen als Ermäßigung “SBA, B mit Rollstuhlplatz” aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für alle weiteren bei der Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich.
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben im Schwerbehindertenausweis zusätzlich auch das Merkzeichen B, dann wählen als Ermäßigung “**SBA, B mit Rollstuhlplatz**” aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei der Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich.
 
 Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
 
@@ -3350,13 +3350,12 @@ Nein, eine Übertragung der Punkte auf ein BahnBonus Konto anderer Teilnehmer:in
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahnbonus-punkte-auf-punktekonten-anderer-teilnehmender-uebertragen)
 
- Kann ich meine BahnCard im DB Kundenkonto hinterlegen?
+ Kann ich meine BahnCard 25/50 im DB Kundenkonto hinterlegen?
 ----------
 
-Wenn Sie Ihre BahnCard in Verbindung mit einem DB Kundenkonto gekauft haben, ist diese automatisch in Ihrem DB Kundenkonto hinterlegt. Alternativ können Sie eine BahnCard auch nachträglich in Ihrem DB Kundenkonto hinterlegen. Bitte loggen Sie sich dazu ein. Im Bereich „BahnCards oder BahnBonus Cards übertragen" können Sie Ihre BahnCard nachträglich zu Ihrem DB Kundenkonto hinzufügen. Für das Hinzufügen benötigen Sie einmalig eine PIN. Diese können Sie ebenfalls im Dialogfeld anfordern.
-Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+Wenn Sie Ihre BahnCard 25/50 in Verbindung mit einem DB Kundenkonto gekauft haben, ist diese automatisch in Ihrem DB Kundenkonto hinterlegt. Alternativ können Sie eine BahnCard 25/50 auch nachträglich in Ihrem DB Kundenkonto hinterlegen. Bitte loggen Sie sich dazu ein. Im Bereich „BahnCards oder BahnBonus Cards übertragen" können Sie Ihre BahnCard 25/50 nachträglich zu Ihrem DB Kundenkonto hinzufügen. Für das Hinzufügen benötigen Sie einmalig eine PIN. Diese können Sie ebenfalls im Dialogfeld anfordern. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard 25/50 benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahncard-im-db-kundenkonto-hinterlegen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahncard-im-kundenkonto-hinterlegen)
 
  Kann ich meine Bankdaten oder Identität über die Servicenummern der DB oder im Reisezentrum bestätigen?
 ----------
@@ -3704,9 +3703,9 @@ Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wende
 
 Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
 
-Wählen Sie beim Ticketkauf in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, G, aG, Gl, H mit Rollstuhlplatz" aus. Der kostenfreie Rollstuhlplatz wird Ihnen zugewiesen.
+Wählen Sie beim Ticketkauf in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, G, aG, Gl, H mit Rollstuhlplatz**" aus. Der kostenfreie Rollstuhlplatz wird Ihnen zugewiesen.
 
-Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben einen Schwerbehindertenausweis mit Merkzeichen B, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, B mit Rollstuhlplatz" aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für alle weiteren bei dieser Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich. Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben einen Schwerbehindertenausweis mit Merkzeichen B, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei dieser Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich. Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreien-rollstuhlplatz-buchen)
 
@@ -6545,15 +6544,6 @@ You can redeem DB gift vouchers:
 * At a DB Travel Centre
 * At a DB agency
 
-**Return/cancellation**
-
-You can cancel your contractual declaration in writing (e.g. by letter or e-mail) within two weeks without giving reasons. This period begins after receipt of this instruction in writing, but not before you receive the product. Timely sending of the cancellation is sufficient to comply with the cancellation period.
-
-Please send your cancellation to:
-DB Vertrieb GmbH
-Postfach 10 01 14
-96053 Bamberg, Germany
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/where-can-i-redeem-a-gift-voucher)
 
  Wie aktiviere ich die 2-Faktor-Authentifizierung?
@@ -7536,11 +7526,11 @@ Für die Ticketkontrolle benötigen Sie den QR Code auf Ihrem Digitalen Ticket. 
 
 Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich und eine Begleitperson (ab 6 Jahren).
 
-Wählen Sie beim Ticketkauf zunächst in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, B ohne Rollstuhlplatz" aus und geben Sie Ihre Begleitperson als weitere mitreisende Person mit an. Nach der Angebotsauswahl können Sie die kostenfreien Sitzplatzreservierungen für sich und Ihre Begleitperson hinzufügen.
+Wählen Sie beim Ticketkauf zunächst in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B ohne Rollstuhlplatz**" aus und geben Sie Ihre Begleitperson als weitere mitreisende Person mit an. Nach der Angebotsauswahl können Sie die kostenfreien Sitzplatzreservierungen für sich und Ihre Begleitperson hinzufügen.
 
 Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
 
-Wenn Sie mit einer Begleitperson reisen, und Sie zusätzlich auch das Merkzeichen B in Ihrem Schwerbehindertenausweis haben, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "SBA, B mit Rollstuhlplatz" aus. Ihre kostenfreie Reservierung eines Rollstuhlplatzes und eines kostenfreien Sitzplatzes für Ihre Begleitperson in der Nähe des Rollstuhlplatzes werden Ihnen zugewiesen.
+Wenn Sie mit einer Begleitperson reisen, und Sie zusätzlich auch das Merkzeichen B in Ihrem Schwerbehindertenausweis haben, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre kostenfreie Reservierung eines Rollstuhlplatzes und eines kostenfreien Sitzplatzes für Ihre Begleitperson in der Nähe des Rollstuhlplatzes werden Ihnen zugewiesen.
 
 * [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
 
@@ -8261,15 +8251,6 @@ DB Geschenkgutscheine können
 * am DB Fahrkartenautomaten
 
 eingelöst werden.
-
-**Rückgabe/ Widerruf**
-
-Sie können Ihre Vertragserklärung innerhalb von zwei Wochen ohne Angabe von Gründen in Textform (z. B. Brief, E-Mail) widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung in Textform, jedoch nicht vor Eingang der Ware beim Empfänger. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs.
-
-Richten Sie Ihren Widerruf an:
-DB Vertrieb GmbH
-Postfach 10 01 14
-96053 Bamberg
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-db-geschenkgutschein-einloesen)
 

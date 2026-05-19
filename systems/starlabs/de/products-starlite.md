@@ -1,6 +1,8 @@
 Configure
 StarLite
 
+[Product Overview](/pages/starlite)
+
 Standard
 Intel Core 3 N350 8-core processor
 16GB LPDDR5X memory
@@ -87,9 +89,23 @@ StarLite Screen Protector (2-Pack)
 
 Includes:
 
- 12.5" StarLite
-65W USB-C Charger
-2m Braided USB-C Cable
+ Liquid error (snippets/product-form line 709): Could not find asset snippets/product-includes-list.liquid
+
+ Delivery
+
+Dispatch in
+
+ 1 - 2 business days
+
+Free delivery with this computer
+
+ Open warranty
+
+ 1-year limited warranty and technical support. Repairs, upgrades and changing operating systems do not void it.
+
+ Firmware updates
+
+ 5 years of open-source firmware updates via LVFS, delivered through Linux.
 
  duties and taxes
 

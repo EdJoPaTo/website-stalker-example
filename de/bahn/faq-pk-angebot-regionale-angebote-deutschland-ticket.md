@@ -333,6 +333,22 @@ Nein. Solange Sie Ihr Deutschland-Ticket nutzen möchten, müssen Sie dieses nic
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-erneuern)
 
+ Kann ich im Fernverkehr eine Erstattung beantragen, wenn meine Strecke durch eine Baustelle unterbrochen ist?
+----------
+
+Ja, Sie können als Inhabende eines ICE- oder IC/EC-Abos eine Unterbrechung und Teilerstattung beantragen, wenn
+
+* Ihre Strecke mindestens 5 Tage durch eine Baustelle gestört ist
+* Sie Ihre Anfrage mindestens 2 Tage vor dem gewünschten Zeitraum einreichen
+* die Baustelle in der Störungskarte mit einem "Hinweis für Abo-Kund:innen“ hinterlegt ist
+
+Nutzen Sie das Kontaktformular, um Ihre Anfrage zu starten. Geben Sie Angaben zu Baustelle und Zeitraum bitte im Freitextfeld an.
+
+* [Zur Störungskarte](https://karte.bahn.de/de/region/DB_Fernverkehr)
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/erstattung_baustelle)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-erstattung-baustelle)
+
  Muss ich bei der Fahrkartenkontrolle mit dem Deutschland-Ticket zwingend meinen Ausweis vorzeigen?
 ----------
 
@@ -750,10 +766,6 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 * Das Deutschland-Ticket gilt **nicht** in Zügen der DB Fernverkehr AG (IC, EC, ICE) und anderer Fernverkehrsanbieter wie FlixTrain.
 * Sie können das Deutschland-Ticket auf den Streckenabschnitten nutzen, die Sie im Nahverkehr vor dem Einstieg in den Fernverkehrszug oder nach dem Ausstieg aus dem Fernverkehrszug zurücklegen. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich. In einigen Regionen gibt es Ausnahmen, die in der Fahrplanauskunft enthalten sind.
 * Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
-
-Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
-
-* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 

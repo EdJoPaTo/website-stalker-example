@@ -427,17 +427,6 @@ Benötigen Sie Unterstützung bei der Nutzung der digitalen BahnCard? Weitere In
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-bereits-ein-kundenkonto-aber-meine-bahncard-wird-nicht-angezeigt)
 
- Ich habe im März ein Schreiben von der DB zur digitalen BahnCard erhalten. Was muss ich jetzt tun?
-----------
-
-In dem Schreiben erklären wir Ihnen, wie Sie die digitale BahnCard nutzen können. Folgen Sie dazu der Schritt-für-Schritt-Anleitung im Schreiben.
-
-Falls Ihnen das Schreiben nicht mehr vorliegt und Sie eine neue PIN benötigen, beantragen Sie diese unter [www.bahn.de/bcregister](https://www.bahn.de/buchung/bahncard-register).
-
-Benötigen Sie Unterstützung bei der Nutzung? Weitere Informationen finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-ein-schreiben-zur-digitalen-bc-erhalten-was-tun)
-
  Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard trotzdem nutzen?
 ----------
 

@@ -107,10 +107,6 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 * Sie können das Deutschland-Ticket auf den Streckenabschnitten nutzen, die Sie im Nahverkehr vor dem Einstieg in den Fernverkehrszug oder nach dem Ausstieg aus dem Fernverkehrszug zurücklegen. Für die Strecke im Fernverkehr ist jedoch ein separates Ticket erforderlich. In einigen Regionen gibt es Ausnahmen, die in der Fahrplanauskunft enthalten sind.
 * Das Ticket gilt nicht in Verkehrsmitteln, die überwiegend zu touristischen oder historischen Zwecken betrieben werden.
 
-Eine Tabelle mit detaillierten Angaben zum Geltungsbereich des Deutschland-Tickets finden Sie hier als PDF zum Download.
-
-* [Geltungsbereich Deutschland-Ticket (PDF, 207 KB)](https://assets.static-bahn.de/dam/jcr:35c032ce-e559-4b4d-82ce-ce207d374b45/20231221_Geltungsbereich-D-Ticket.pdf)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
 ###  Kann ich ein Deutschland-Ticket verschenken?  ###
