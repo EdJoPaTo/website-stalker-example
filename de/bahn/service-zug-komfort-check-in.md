@@ -283,7 +283,7 @@ Setzen Sie sich nach dem Check-in um, ändern Sie bitte Ihre Sitzplatznummer üb
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nach-erfolgtem-kci-sitzplatzwechsel)
 
-###  Kann ich als Bahncard 100-Besitzer:in den KCi nutzen?  ###
+###  Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?  ###
 
 Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.
 

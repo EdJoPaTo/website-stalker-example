@@ -677,7 +677,7 @@ Ja, eine Nutzung der 1. Klasse im Schienenpersonennahverkehr (SPNV) z.B. RE, RB 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mybc100-1klasse-im-nahverkehr-in-1klasse-nutzen)
 
- Kann ich als Bahncard 100-Besitzer:in den KCi nutzen?
+ Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?
 ----------
 
 Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.

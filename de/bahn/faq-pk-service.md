@@ -474,7 +474,7 @@ Wenn Sie die Änderungen im DB Kundenkonto vorgenommen haben, überprüfen Sie i
 Bei der Neubestellung eines Abos werden die aktuellen Daten aus dem DB Kundenkonto übernommen.
 
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/personendaten_aenderung)
-* [Weitere Informationen zur Namensänderung](https://www.bahn.de/hilfe#/abos-dticket2/daten-verwalten/namen-aendern)
+* [Weitere Informationen zur Namensänderung](https://www.bahn.de/hilfe#/abos-dticket/daten-verwalten/namen-aendern)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-kundenkonto)
 
@@ -4128,7 +4128,7 @@ Die Einführung der Option "Neutrale Anrede" neben "Herr" und "Frau" in unseren 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/neutrale-anrede)
 
- Kann ich als Bahncard 100-Besitzer:in den KCi nutzen?
+ Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?
 ----------
 
 Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.
@@ -5179,7 +5179,7 @@ Nutzen Sie die Verbindungssuche oder gehen Sie im Menübereich "Buchen" auf "Tic
  Verfallen meine BahnBonus Punkte aufgrund von DB Kundenkonto-Inaktivität?
 ----------
 
-Nein, Ihre Punkte verfallen nicht. Sie können Ihre Punkte allerdings nicht mehr Online einsehen oder einlösen. Sie haben natürlich weiterhin die Möglichkeit, die Services über das ServiceCenter zu nutzen.
+Nein, Ihre Punkte verfallen nicht. Sie können Ihre Punkte allerdings nicht mehr online einsehen oder einlösen. Sie haben natürlich weiterhin die Möglichkeit, die Services über das ServiceCenter zu nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfallen-bahnbonus-punkte-bei-inaktivitaet)
 
@@ -8313,7 +8313,9 @@ Sie können Ihren **Nachnamen** selbst ändern. Nochmalige Änderungen des *
 
 Eine Änderung des **Vornamens** und **Geburtsdatums** ist ausschließlich mit Vorlage eines Nachweises möglich.
 
-Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mail-Adresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
+Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mailadresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
+
+Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mailadresse oder nennen Sie diese in Ihrer Nachricht.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-meine-persoenlichen-daten-anpassen)
 
