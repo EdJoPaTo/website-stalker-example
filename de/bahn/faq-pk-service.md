@@ -1999,7 +1999,7 @@ Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stor
 
 [Weitere Informationen zur Fahrrad-Tageskarte NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
+[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-gueltig)
 
@@ -2008,11 +2008,7 @@ Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stor
 
 Das 24hFahrradTicket NRW bekommen Sie an DB Automaten, in den DB Reisezentren, in DB Agenturen, Reisebüros mit DB-Lizenz und gleich hier online.
 
-[24hFahrradTicket NRW auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
-
-[Weitere Informationen zum 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
-
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
+[Strecke auswählen](https://www.bahn.de/buchung/start?intern=1#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kaufen)
 
@@ -2025,7 +2021,7 @@ Das 24hFahrradTicket NRW gilt zur Mitnahme jeweils eines Fahrrads in Zusammenhan
 
 [Weitere Informationen zum 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKRADL00001C201)
+[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kosten)
 

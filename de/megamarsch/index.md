@@ -191,6 +191,34 @@ wollen. Das Ganze mit Euren Moderatoren Jone und Moritz.
 
 #### FANSHOP ####
 
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-hannover-2026-1)
+
+[Eventshirts Hannover 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-hannover-2026-1)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-hannover-2026)
+
+[Eventshirts Hamburg 2026 // 100KM Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-hannover-2026)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-ostsee-2026)
+
+[Eventshirts Ostsee 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-ostsee-2026)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-mönchengladbach-2026)
+
+[Eventshirts Mönchengladbach 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-mönchengladbach-2026)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-dresden-2026-25km)
+
+[Eventshirts Dresden 2026 // 25KM Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-dresden-2026-25km)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-dresden-2026-50km)
+
+[Eventshirts Dresden 2026 // 50KM Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-dresden-2026-50km)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-mallorca-2026)
+
+[Eventshirts Mallorca 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-mallorca-2026)
+
 [Schnellansicht NEU](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
 
 [Finishershirt 25km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
@@ -207,25 +235,9 @@ wollen. Das Ganze mit Euren Moderatoren Jone und Moritz.
 
 [Finishershirt 100km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
 
-[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-2025)
-
-[Eventshirts 2026 // 50KM & 25KM Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-2025)
-
 [Schnellansicht NEU](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
 
 [Finishershirt 50km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
-
-[Schnellansicht](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
-
-[Megamarsch Trinkflasche Preis 19,99 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/megamarsch-trinkflasche)
-
-[Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event)
-
-[Funktionstuch Event (100KM) Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event)
-
-[Schnellansicht](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
-
-[Spezial Edelstahl Tasse \*limitiert\* Nicht verfügbar](https://www.megamarsch.de/product-page/edelstahl-tasse-limitiert)
 
 [ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
 

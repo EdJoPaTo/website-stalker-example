@@ -110,8 +110,7 @@ Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbra
 
 Für Millionen Menschen ist komoot der Schlüssel zu Erlebnissen in der Natur. Für die Megamarsch Saison 2025 ist komoot offizieller Navigationspartner.​
 
-INTERSPORT Voswinkel bietet dir alles für deinen Sport. Wir sind dein Sportspezialist über 50x in Deutschland. Egal ob Megamarsch oder Freizeitausflug. Entdecke die Filiale vor Ort:
-[https://www.intersport.de](https://www.intersport.de/d/stores/22765-hamburg-intersport-voswinkel)[​](https://www.intersport.de/d/stores/22765-hamburg-intersport-voswinkel)
+Bei INTERSPORT Knudsen im Westfield Hamburg Überseequartier findest du alles, was dein Sportler-Herz begehrt. Wir haben alles für Deinen Sport. Von Freizeitwanderung bis zum Megamarsch.
 
 Prize by Radisson ist eine neue Generation von zentral gelegenen Hotels, bei denen Lifestyle im Vordergrund steht. Genieße Komfort und Effizienz von der Buchung bis zum CheckOut.
 [prizebyradisson.com](https://www.radissonhotels.com/de-de/marke/prize-by-radisson)
