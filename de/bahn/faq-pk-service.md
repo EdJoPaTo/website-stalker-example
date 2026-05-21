@@ -2807,10 +2807,10 @@ Bei einer Kombination (also z.B. Gutschein und Restsumme Kreditkarte) geht der T
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mit-gutschein-bezahlt-und-moechte-mein-ticket-stornieren-wie-erfolgt-die-gutschrift)
 
- Ich habe eine BahnCard, aber kein DB Kundenkonto, um meine digitale BahnCard nutzen zu können.
+ Ich habe eine BahnCard 25/50, aber kein DB Kundenkonto, um meine digitale BahnCard nutzen zu können.
 ----------
 
-Dann können Sie sich mit Ihrer BahnCard Nummer für ein Kundenkonto registrieren.
+Dann können Sie sich mit Ihrer BahnCard 25/50 Nummer für ein Kundenkonto registrieren.
 
 Einfach [hier registrieren](https://www.bahn.de/buchung/bahncard-register).
 
@@ -2879,19 +2879,6 @@ Der Film kann, nach dem Ausstieg aus dem Zug, nicht zu Ende geschaut werden. Wec
 **Hinweis:** In seltenen Fällen kann es vorkommen, dass noch nicht alle ICE-Züge mit den neuesten Inhalten beliefert wurden und die verfügbaren Film- & Serieninhalte somit in den Zügen variieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-muss-aussteigen-und-der-film-ist-nicht-zu-ende-welche-moeglichkeiten-gibt-es-den-inhalt-zu-ende-zu-schauen)
-
- Ich nehme schon am BahnBonus Programm teil. Kann ich mich trotzdem registrieren?
-----------
-
-Wenn Sie schon am BahnBonus Programm teilnehmen, geben Sie dies bitte bei der Registrierung an. Verwenden Sie dazu bitte den Link "Mit BahnCard oder BahnBonus registrieren", den Sie unter dem "Registrieren"-Button finden.
-
-Danach loggen Sie sich in Ihrem persönlichen BahnBonus Bereich ein. Damit wir die Identität von Ihnen als BahnBonus Teilnehmer sicherstellen können, geben Sie bitte dann Ihre BahnBonus Nummer (diese finden Sie auf Ihrer BahnBonus-Card - 16stellig, 708x xxxx) sowie Ihr Geburtsdatum und eine PIN ein.
-
-**Ihnen liegt keine PIN vor?**
-
-Wenn Ihnen keine PIN vorliegt, können Sie diese auf dieser Seite direkt neu anfordern. Wir senden die PIN an die von Ihnen bei Ihrer BahnBonus Anmeldung angegebene E-Mail-Adresse. Sollten Sie bei der BahnBonus Anmeldung keine E-Mail-Adresse angegeben haben, erhalten Sie die PIN per Post.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-nehme-schon-am-bahnbonus-programm-teil-kann-ich-mich-dennoch-registrieren)
 
  Ich werde nicht automatisch auf die Log-In-Seite weitergeleitet, was kann ich tun?
 ----------

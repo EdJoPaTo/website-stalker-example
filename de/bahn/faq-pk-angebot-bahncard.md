@@ -43,6 +43,15 @@ Wenn die im DB Kundenkonto hinterlegte BahnCard für jede Buchung automatisch be
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-buchung-automatisch-beruecksichtigt)
 
+ Erhalte ich in meinem Verbund Ermäßigung, wenn ich eine BahnCard habe?
+----------
+
+Mit der BahnCard 100 und dem kostenfreien zusätzlichen Deutschlandticket ist die bundesweite Nutzung des Nahverkehrs auf Schiene und Straße unbegrenzt möglich.
+
+Die digitale BahnCard können Sie bei den verschiedenen Landestarifen und **Verkehrsverbünden** gleichermaßen wie die BahnCard Plastikkarte nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-ermaessigung)
+
  Bekomme ich Rabatt auf den Flexpreis mit der BahnCard?
 ----------
 
@@ -379,7 +388,7 @@ Zur Nutzung der digitalen BahnCard 100 benötigen Sie ein DB Kundenkonto sowie d
  Die digitale BahnCard 25/50 kann nicht auf mein Smartphone geladen werden.
 ----------
 
-Überprüfen Sie die Daten, die Sie auf bahn.de und in den BahnCard Services hinterlegt haben (z.B. persönliche Angaben oder Zahlungsdaten). Falls sich diese unterscheiden, kann die BahnCard 25/50 in manchen Fällen nicht auf das Smartphone geladen werden.
+Überprüfen Sie die Daten, die Sie auf bahn.de und in den BahnCard Services hinterlegt haben (z.B. persönliche Angaben oder Zahlungsdaten). Falls sich diese unterscheiden, kann die BahnCard in manchen Fällen nicht auf das Smartphone geladen werden.
 
 Wenn Sie noch nicht zu den BahnCard-Services angemeldet sind, fordern Sie einen PIN zur Freischaltung über [bahn.de/bcregister](https://www.bahn.de/buchung/bahncard-register?lang=de) an.
 

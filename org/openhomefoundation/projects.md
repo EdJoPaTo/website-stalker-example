@@ -38,6 +38,10 @@ Collabs
 
 [Learn more](https://www.zigbee2mqtt.io/)
 
+ OpenDisplay is a protocol standard and firmware solution for e-paper displays, providing a complete, low-power ecosystem for smart displays, such as dashboards, that integrate easily with Home Assistant and other setups. As an open project, it ensures that energy-efficient, locally controlled e-paper is accessible to the public, and interoperable across platforms.
+
+[Learn more](https://opendisplay.org/)
+
  Standards, drivers, and libraries
 ----------
 
