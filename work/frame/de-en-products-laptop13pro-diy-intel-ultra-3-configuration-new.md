@@ -294,6 +294,12 @@ FAQs
 
   Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
 
+* What is the slot compatibility for the Ethernet Expansion Card?
+
+  Ethernet Expansion Cards will work in any Expansion Card slot, but speeds will depend on the Ethernet Expansion Card you use and which slot you connect it to.
+
+  You can check which USB speeds the Expansion Card slots on your Framework product support in [this article](https://fr.mw/Ethernet_ECF).
+
 Close
 
 Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13 Pro.

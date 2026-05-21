@@ -253,6 +253,12 @@ FAQs
 
   1st Gen was slightly faster than 2nd Gen, but we switched due to the original flash chip being discontinued. Now that 2nd Gen's flash parts are also nearing end of life, our supplier has secured more of the original 1st Gen chips, allowing us to resume its production.
 
+* What is the slot compatibility for the Ethernet Expansion Card?
+
+  Ethernet Expansion Cards will work in any Expansion Card slot, but speeds will depend on the Ethernet Expansion Card you use and which slot you connect it to.
+
+  You can check which USB speeds the Expansion Card slots on your Framework product support in [this article](https://fr.mw/Ethernet_ECF).
+
 Close
 
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 12.
@@ -345,6 +351,19 @@ Close
 Close
 
  \+€45
+
+ WisdPi 10G Ethernet
+
+ Details
+
+ WisdPi 10G Ethernet Expansion Card
+----------
+
+Developed in partnership with WisdPi, the 10G Ethernet Expansion Card supports 10Gbit/s and 10/100/1000/2500/5000/10000Mbit/s Ethernet so you can have ultra fast and reliable networking over an RJ45 jack. The black translucent housing lets you peek at the RTL8159 controller that powers it.
+
+Close
+
+ \+€109
 
  DisplayPort (2nd Gen)
 
