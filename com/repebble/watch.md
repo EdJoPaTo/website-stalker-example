@@ -37,7 +37,7 @@ I want one!
 
 $225
 
-Starts shipping March 2026 - [Updates](/blog)
+New orders ship in August - [Status](https://help.repebble.com/en/articles/14892130-shipping-timelines)
 
 I want one!
 
@@ -103,6 +103,16 @@ Sure. Feedback is always appreciated, but we're not planning to make any changes
 
 Here's the awesome part - PebbleOS is [open source](https://github.com/coredevices/pebbleos)! You don't need our permission to add new software features. You can modify the OS and run those changes on your watch. If you're hardware inclined, you can even build your own watch (with different features or capabilities) and run PebbleOS on it.
 
+### You shouldn't get one if... ###
+
+*You need a perfectly polished smartwatch.* This project is a labour of love rather than a startup trying to sell millions of watches. There may be some rough edges (literally). Things will get delayed. Some features will not be ready at launch. Things could break. Things could not last as long as you'd like. The only thing we can guarantee is that it will be awesome and a lot of fun! Every time you look down at your watch, you will smile 🙂
+
+*You're looking for a fitness or sports watch.* That's not what we're making. From what we hear, Garmin watches are great for runners/cyclists/triathletes!
+
+*You're comparing this to an Apple Watch.* There is NO way for a 3rd party smartwatch to compete with Apple Watch. Apple restricts 3rd parties in major ways - read the [blog post](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/) for more information. For example, 3rd party watches on iOS cannot send replies to notifications.
+
+These watches are not made for everyone. We want to be upfront with you about what to expect. [Published March 18, 2025](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/#you-shouldnt-get-one). Read more in our post [What you need to know about Pebble Time 2](https://repebble.com/blog/pebble-time-2-is-in-mass-production#what-you-need-to-know-about-pebble-time-2).
+
 ### What are the technical specifications?Show Pebble 2 Duo ###
 
 |                                                                                              |                                                   Pebble Round 2                                                   |                                                   Pebble Time 2                                                    |
@@ -114,14 +124,13 @@ Here's the awesome part - PebbleOS is [open source](https://github.com/coredevic
 |Dimensions [(3D Printable STL files)](https://github.com/coredevices/hardware/tree/main/watch)|                                 [41.5mm diameter x 8.1mm](/pr2-external-sizes.pdf)                                 |                   [43.00 × 36.04 × 10.90 mm (41.40mm lug to lug)](/images/watch-dimensions.png)                    |
 |                                      Weight (w/o strap)                                      |                                                       26.8g                                                        |                                                        33g                                                         |
 |                                           Sensors                                            |                                                3-axis IMU, compass                                                 |                                          6-axis IMU, heart rate, compass                                           |
-|                                       Starts shipping                                        |                                                     July 2026                                                      |                                                     June 2026                                                      |
 |                                            Price                                             |                                                        $199                                                        |                                                        $225                                                        |
 |                                       Mic and speaker                                        |                                                    ½ (mic only)                                                    |                                                         ✅                                                          |
 |                                          Backlight                                           |                                                         ✅                                                          |                                                     ✅ RGB LED                                                      |
 |                             Linear resonance actuator (vibrator)                             |                                                         ✅                                                          |                                                         ✅                                                          |
 |                                         Battery life                                         |                                                     10-14 days                                                     |                                                   30 days (est.)                                                   |
 |                                          Connector                                           |                                              Standard Pebble charger                                               |                                              Standard Pebble charger                                               |
-|                                       Water resistance                                       |                                                    30m (target)                                                    |                                                    30m (target)                                                    |
+|                                       Water resistance                                       |                                                    30m (target)                                                    |                                                        30m                                                         |
 |                                       Health features                                        |                                              Step and sleep tracking                                               |                                        Heart rate, step and sleep tracking                                         |
 |                                         Strap width                                          |                                                    14mm or 20mm                                                    |                                                        22mm                                                        |
 |                                   iPhone and Android apps                                    |                                                         ✅                                                          |                                                         ✅                                                          |
