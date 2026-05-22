@@ -475,6 +475,7 @@ Bei der Neubestellung eines Abos werden die aktuellen Daten aus dem DB Kundenkon
 
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/personendaten_aenderung)
 * [Weitere Informationen zur Namensänderung](https://www.bahn.de/hilfe#/abos-dticket/daten-verwalten/namen-aendern)
+* [Für Anliegen zur BahnCard hier klicken](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/bahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-kundenkonto)
 

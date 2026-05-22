@@ -346,6 +346,7 @@ Nutzen Sie das Kontaktformular, um Ihre Anfrage zu starten. Geben Sie Angaben zu
 
 * [Zur Störungskarte](https://karte.bahn.de/de/region/DB_Fernverkehr)
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/erstattung_baustelle)
+* [Für Anliegen zur BahnCard hier klicken](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/bahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-erstattung-baustelle)
 

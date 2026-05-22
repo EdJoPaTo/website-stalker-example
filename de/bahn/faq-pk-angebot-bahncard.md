@@ -36,6 +36,15 @@ Ja. Mit der My BahnCard 100 und dem kostenlos inkludierten digitalen Deutschland
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-100-fuer-studenten)
 
+ Wohin wende ich mich, wenn ich Anliegen rund um meine BahnCard habe?
+----------
+
+Hilfe und Kontakt finden Sie unter folgendem Link.
+
+* [Für Anliegen zur BahnCard hier klicken](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/bahncard)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-anliegen)
+
  Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
 ----------
 
