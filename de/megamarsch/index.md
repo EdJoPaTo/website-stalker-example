@@ -72,9 +72,9 @@ IN DEINER NÄHE!
 
 [Location](https://www.megamarsch.de/duessseldorf-25km)
 
-[Location](https://www.megamarsch.de/kopie-von-dresden)
+[Location](https://www.megamarsch.de/dresden-25-km)
 
-[DRESDEN (25KM)](https://www.megamarsch.de/kopie-von-dresden)
+[DRESDEN (25KM)](https://www.megamarsch.de/dresden-25-km)
 ----------
 
 [Location](https://www.megamarsch.de/dresden)

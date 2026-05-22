@@ -4,6 +4,8 @@ Täglich neue Deals entdecken: Der netcup Adventskalender
 
 Von **1. Dezember bis 24. Dezember** öffnet sich täglich ein neues Türchen mit unschlagbaren Deals, die **jeweils 24 Stunden lang verfügbar** sind. Sei dabei!
 
+VPS 2000 G12 Pro
+
 \+ 100 % mehr NVMe
 
 statt 17,26 €, dauerhaft
@@ -11,6 +13,8 @@ statt 17,26 €, dauerhaft
 14,99 €
 
 pro Monat (inkl. 19% MWSt.)
+
+VPS 2000 G12 Pro
 
 \+ 100 % mehr NVMe
 
@@ -24,6 +28,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+RS 4000 G12 Ultra
+
 \+100% NVMe / + 2 vCore / +50% RAM
 
 dauerhaft
@@ -31,6 +37,8 @@ dauerhaft
 44,27 €
 
 pro Monat (inkl. 19% MWSt.)
+
+RS 4000 G12 Ultra
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -44,6 +52,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+Webhosting 2000
+
 20 % Rabatt
 
 statt 3,25 €, dauerhaft
@@ -51,6 +61,8 @@ statt 3,25 €, dauerhaft
 2,58 €
 
 pro Monat (inkl. 19% MWSt.)
+
+Webhosting 2000
 
 20 % Rabatt
 
@@ -64,6 +76,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+RS 2000 G12 Ultra
+
 \+100% NVMe / + 2 vCore / +50% RAM
 
 dauerhaft
@@ -71,6 +85,8 @@ dauerhaft
 24,18 €
 
 pro Monat (inkl. 19% MWSt.)
+
+RS 2000 G12 Ultra
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -84,6 +100,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+nc Coffee2Go Tasse
+
 Der perfekte Handwärmer
 
 einmalig
@@ -91,6 +109,8 @@ einmalig
 20,99 €
 
 (inkl. 19% MWSt.) und einzigartig
+
+nc Coffee2Go Tasse
 
 Der perfekte Handwärmer
 
@@ -104,6 +124,8 @@ einmalig
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+Webhosting 4000
+
 42 % Rabatt
 
 statt 6,52 €, dauerhaft
@@ -111,6 +133,8 @@ statt 6,52 €, dauerhaft
 3,76 €
 
 pro Monat (inkl. 19% MWSt.)
+
+Webhosting 4000
 
 42 % Rabatt
 
@@ -124,6 +148,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+.net Domain
+
 35 % Rabat
 
 statt 2,11 €, dauerhaft
@@ -131,6 +157,8 @@ statt 2,11 €, dauerhaft
 1,39 €
 
 pro Monat (inkl. 19% MWSt.)
+
+.net Domain
 
 35 % Rabat
 
@@ -144,6 +172,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+.xyz Domain
+
 35 % Rabatt
 
 statt 2,24 €, dauerhaft
@@ -151,6 +181,8 @@ statt 2,24 €, dauerhaft
 1,46 €
 
 pro Monat (inkl. 19% MWSt.)
+
+.xyz Domain
 
 35 % Rabatt
 
@@ -164,6 +196,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+VPS 1000 G12 Pro
+
 \+ 100 % mehr NVMe
 
 statt 9,46 €, dauerhaft
@@ -171,6 +205,8 @@ statt 9,46 €, dauerhaft
 6,84 €
 
 pro Monat (inkl. 19% MWSt.)
+
+VPS 1000 G12 Pro
 
 \+ 100 % mehr NVMe
 
@@ -184,6 +220,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+RS 1000 G12 Ultra
+
 \+100% NVMe / + 2 vCore / +50% RAM
 
 dauerhaft
@@ -191,6 +229,8 @@ dauerhaft
 13,28 €
 
 pro Monat (inkl. 19% MWSt.)
+
+RS 1000 G12 Ultra
 
 \+100% NVMe / + 2 vCore / +50% RAM
 
@@ -204,6 +244,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+.de Domain
+
 69 % Rabatt
 
 statt 0,42 €, dauerhaft
@@ -211,6 +253,8 @@ statt 0,42 €, dauerhaft
 0,13 €
 
 pro Monat (inkl. 19% MWSt.)
+
+.de Domain
 
 69 % Rabatt
 
@@ -224,6 +268,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+RS 8000 G12 Pro
+
 \+50 % NVMe / +4 vCore
 
 dauerhaft
@@ -231,6 +277,8 @@ dauerhaft
 56,92 €
 
 pro Monat (inkl. 19% MWSt.)
+
+RS 8000 G12 Pro
 
 \+50 % NVMe / +4 vCore
 
@@ -244,6 +292,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+.info Domain
+
 35 % Rabatt
 
 statt 3,05 €, dauerhaft
@@ -251,6 +301,8 @@ statt 3,05 €, dauerhaft
 1,99 €
 
 pro Monat (inkl. 19% MWSt.)
+
+.info Domain
 
 35 % Rabatt
 
@@ -264,6 +316,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+.com Domain
+
 18 % Rabatt
 
 statt 1,38 €, dauerhaft
@@ -271,6 +325,8 @@ statt 1,38 €, dauerhaft
 1,13 €
 
 pro Monat (inkl. 19% MWSt.)
+
+.com Domain
 
 18 % Rabatt
 
@@ -284,6 +340,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+VPS 8000 G12 Pro
+
 \+ 50 % NVMe / + 4 vCore
 
 statt 43,78 €, dauerhaft
@@ -291,6 +349,8 @@ statt 43,78 €, dauerhaft
 38,08 €
 
 pro Monat (inkl. 19% MWSt.)
+
+VPS 8000 G12 Pro
 
 \+ 50 % NVMe / + 4 vCore
 
@@ -304,6 +364,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+RS 2000 G12 Pro
+
 \+ 100 % NVMe / 1. Monat gratis
 
 dauerhaft
@@ -311,6 +373,8 @@ dauerhaft
 17,36 €
 
 pro Monat (inkl. 19% MWSt.)
+
+RS 2000 G12 Pro
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -324,6 +388,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+Webhosting 8000
+
 42 % Rabatt
 
 statt 10,60 €, dauerhaft
@@ -331,6 +397,8 @@ statt 10,60 €, dauerhaft
 6,20 €
 
 pro Monat (inkl. 19% MWSt.)
+
+Webhosting 8000
 
 42 % Rabatt
 
@@ -344,6 +412,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+RS 1000 G12 Pro
+
 \+ 100 % NVMe / 1. Monat gratis
 
 dauerhaft ab
@@ -351,6 +421,8 @@ dauerhaft ab
 10,41 €
 
 pro Monat (inkl. 19% MWSt.)
+
+RS 1000 G12 Pro
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -364,6 +436,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+managed PS 2000 G12
+
 20 % Rabatt
 
 statt 59,63 €, dauerhaft
@@ -371,6 +445,8 @@ statt 59,63 €, dauerhaft
 47,71 €
 
 pro Monat (inkl. 19% MWSt.)
+
+managed PS 2000 G12
 
 20 % Rabatt
 
@@ -384,6 +460,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+.eu Domain
+
 46 % Rabatt
 
 dauerhaft
@@ -391,6 +469,8 @@ dauerhaft
 0,42 €
 
 pro Monat (inkl. 19% MWSt.)
+
+.eu Domain
 
 46 % Rabatt
 
@@ -404,6 +484,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+.li Domain
+
 74 % Rabatt
 
 dauerhaft
@@ -411,6 +493,8 @@ dauerhaft
 0,60 €
 
 pro Monat (inkl. 19% MWSt.)
+
+.li Domain
 
 74 % Rabatt
 
@@ -424,6 +508,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+RS 4000 G12 Pro
+
 \+ 100 % NVMe / 1. Monat gratis
 
 dauerhaft
@@ -431,6 +517,8 @@ dauerhaft
 31,64 €
 
 pro Monat (inkl. 19% MWSt.)
+
+RS 4000 G12 Pro
 
 \+ 100 % NVMe / 1. Monat gratis
 
@@ -444,6 +532,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+VPS 4000 G12 Pro
+
 \+ 100 % NVMe
 
 dauerhaft
@@ -451,6 +541,8 @@ dauerhaft
 25,58 €
 
 pro Monat (inkl. 19% MWSt.)
+
+VPS 4000 G12 Pro
 
 \+ 100 % NVMe
 
@@ -464,6 +556,8 @@ pro Monat (inkl. 19% MWSt.)
 
  Dieses Türchen ist bereits abgelaufen, der Deal ist daher nicht mehr verfügbar.
 
+Webhosting 1000
+
 50 % Rabatt / Spendenprodukt
 
 statt 2,17 €, dauerhaft
@@ -471,6 +565,8 @@ statt 2,17 €, dauerhaft
 1,08 €
 
 pro Monat (inkl. 19% MWSt.)
+
+Webhosting 1000
 
 50 % Rabatt / Spendenprodukt
 
