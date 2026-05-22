@@ -49,7 +49,7 @@ Internal 2.5-inch storage expansion
 
  Power Plug
 
- UK Plug
+ US Plug
 
 US Plug  Type A
 
