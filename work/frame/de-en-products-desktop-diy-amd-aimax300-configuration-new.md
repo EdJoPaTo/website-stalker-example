@@ -221,7 +221,7 @@ Close
 
 Power Cable
 
-* AC Cable - C13 - EU  Not available with your other selected options. Reload page to reset. +€6  Backordered - Ships in 1-2 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
+* AC Cable - C13 - EU  Not available with your other selected options. Reload page to reset. +€6
 * AC Cable - C13 - US/CA  Not available with your other selected options. Reload page to reset. +€6
 * AC Cable - C13 - AU/NZ  Not available with your other selected options. Reload page to reset. +€6
 * AC Cable - C13 - UK/SG  Not available with your other selected options. Reload page to reset. +€6
