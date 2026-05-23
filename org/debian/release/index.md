@@ -36,9 +36,12 @@ Planned point releases to Q4 2026 are as follows:
 
 |   Date    | Versions  |     Notes     |
 |-----------|-----------|---------------|
-|16 May 2026|12.14, 13.5|               |
 |11 Jul 2026|12.15, 13.6|bookworm to LTS|
 |12 Sep 2026|   13.7    |               |
+|14 Nov 2026|   13.8    |               |
+|9 Jan 2027 |   13.9    |               |
+|13 Mar 2027|   13.10   |               |
+|8 May 2027 |   13.11   |               |
 
 These dates are subject to change and the confirmed date for each version will be announced via [debian-stable-announce@lists.debian.org](https://lists.debian.org/debian-stable-announce).
 
