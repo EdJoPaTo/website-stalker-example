@@ -17,7 +17,7 @@ For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functio
 * Touch screen
 * Stainless steel frame
 * The most stylish Pebble ever
-* [Three color options](/images/products/pr2-options.jpeg)
+* [Three color options](/images/products/pr2-options-thumb.jpeg)
 * [Read the announcement](/blog/pebble-round-2-the-most-stylish-pebble-ever)
 
 $199
