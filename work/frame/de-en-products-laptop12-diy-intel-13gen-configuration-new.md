@@ -269,31 +269,31 @@ Expansion Cards
 
 Most popular combination
 
- 2x USB-C (Plastic - Lavender), USB-A, HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Lavender), HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
 Most popular combination
 
- 2x USB-C (Plastic - Bubblegum), USB-A, HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Bubblegum), HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
 Most popular combination
 
- 2x USB-C (Plastic - Sage), USB-A, HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Sage), HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
 Most popular combination
 
- 2x USB-C (Plastic - Gray), USB-A, HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Gray), HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
 Most popular combination
 
- 2x USB-C (Plastic - Black), USB-A, HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Black), HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
@@ -313,14 +313,14 @@ Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlas
 
 Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - GreenPlastic - RedPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
- USB-A
+ USB-A (2nd Gen)
 
  Details
 
- USB-A Expansion Card
+ USB-A (2nd Gen) Expansion Card
 ----------
 
- Giving you access to the broad range of USB-A devices in the world at up to USB 3.2 Gen 2 speeds.
+The USB-A (2nd Gen) Expansion Card detects when no devices are plugged in, letting the system reduce power consumption and improve battery life while giving you access to devices like keyboards, mice, thumb drives, and more using USB-A connections at up to USB 3.2 Gen 2 speeds. Available in silver and graphite.
 
 Close
 

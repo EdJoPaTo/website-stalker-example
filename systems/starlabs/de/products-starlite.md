@@ -89,7 +89,15 @@ StarLite Screen Protector (2-Pack)
 
 Includes:
 
- Liquid error (snippets/product-form line 709): Could not find asset snippets/product-includes-list.liquid
+* 12.5-inch Star Lite
+* 65W USB-C Power Adapter
+* USB-C to USB-C Charging Cable (2m)
+* Detachable plug (UK, EU and US available)
+* Protective Sleeve
+* Quick Start Guide
+* Screen Cleaning Cloth
+* Detachable Keyboard
+* Zorin Pro OS Reversible USB 3.2 Recovery Drive
 
  Delivery
 

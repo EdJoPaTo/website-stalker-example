@@ -20,7 +20,7 @@ Ihre Vorteile
 
 [Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
-**Dein Deutschland-Ticket kann mehr: Probe BahnCard 25, 2. Klasse für Deutschland-Ticket Neukund:innen**
+**Ihr Deutschland-Ticket kann mehr: Probe BahnCard 25, 2. Klasse für Deutschland-Ticket Neukund:innen**
 Im Sommer günstig zuhause unterwegs und in den Urlaub – sichern Sie sich als Deutschland-Ticket-Neukund:in eine vergünstigte Probe BahnCard 25, 2. Klasse zum Aktionspreis von 5,99 Euro für 3 Monate!
 
 [Jetzt vergünstigte Probe BahnCard 25, 2. Klasse sichern! Weitere Informationen: Jetzt vergünstigte Probe BahnCard 25, 2. Klasse sichern!](https://www.bahn.de/angebot/regio/aktion-dt-pbc25)

@@ -718,9 +718,9 @@ Sie können für Ihre Fahrt im Fernverkehr **eine Fahrkarte mit oder ohne Sitzpl
 
 1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
 2. Unter "Nur Reservierung" können Sie den Sitzplatz wählen.
-3. Alternativ können Sie auf der Startseite die Suche für eine "Einfache Fahrt" auf "Nur Sitzplatz (ohne Ticket)" ändern.
+3. Alternativ können Sie auf der Startseite oben links im Dropdown-Menü statt "Einfache Fahrt" die Option "Nur Reservierung (Sitzplatz, Fahrrad)" auswählen und einen Sitzplatz buchen.
 
-Für Kund:innen der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets eine Sitzplatzreservierung automatisch enthalten.**
+Für Kundinnen und Kunden der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets eine Sitzplatzreservierung automatisch enthalten.**
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 

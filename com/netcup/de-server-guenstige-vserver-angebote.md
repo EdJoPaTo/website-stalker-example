@@ -61,8 +61,6 @@ monatlich nur
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-nano-g11s-6m-nue)
 
-NEU
-
 VPS Lite 1 G12s
 
 * 2 vCore (x86)
@@ -86,8 +84,6 @@ monatlich nur
 (inkl. 19% MwSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-1-g12s-6m)
-
-NEU
 
 VPS Lite 2 G12s
 
@@ -113,8 +109,6 @@ monatlich nur
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-2-g12s-3m)
 
-NEU
-
 VPS Lite 3 G12s
 
 * 8 vCore (x86)
@@ -138,8 +132,6 @@ monatlich nur
 (inkl. 19% MwSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-3-g12s-2m)
-
-NEU
 
 VPS Lite 4 G12s
 

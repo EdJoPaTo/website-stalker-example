@@ -103,7 +103,14 @@ USB-C to USB-A Adapter
 
 Includes:
 
- Liquid error (snippets/product-form line 709): Could not find asset snippets/product-includes-list.liquid
+* 13.4-inch StarBook Horizon
+* 65W USB-C Power Adapter
+* USB-C to USB-C Charging Cable (2m)
+* Detachable plug (UK, EU and US available)
+* Protective Sleeve
+* Quick Start Guide
+* Screen Cleaning Cloth
+* Pre-installed Privacy Screen Protector
 
  Delivery
 

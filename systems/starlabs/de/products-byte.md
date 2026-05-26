@@ -83,7 +83,11 @@ USB-C (2m)  Charge Cable
 
 Includes:
 
- Liquid error (snippets/product-form line 709): Could not find asset snippets/product-includes-list.liquid
+* Byte
+* 65W DC Power Adapter
+* Internal 2.5-inch storage connector
+* VESA Mounting Kit
+* Quick Start Guide
 
  Delivery
 
