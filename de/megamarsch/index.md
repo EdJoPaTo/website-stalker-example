@@ -195,6 +195,14 @@ wollen. Das Ganze mit Euren Moderatoren Jone und Moritz.
 
 #### FANSHOP ####
 
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-bremen-2026)
+
+[Eventshirts Bremen 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-bremen-2026)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-münchen-2026)
+
+[Eventshirts München 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-münchen-2026)
+
 [Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-hannover-2026-1)
 
 [Eventshirts Hannover 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-hannover-2026-1)
@@ -234,14 +242,6 @@ wollen. Das Ganze mit Euren Moderatoren Jone und Moritz.
 [Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
 
 [Funktionstuch Event (50KM) Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
-
-[Schnellansicht NEU](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
-
-[Finishershirt 100km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-100km-2025)
-
-[Schnellansicht NEU](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
-
-[Finishershirt 50km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-50km-2025)
 
 [ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
 

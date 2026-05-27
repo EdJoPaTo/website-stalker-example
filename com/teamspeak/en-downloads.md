@@ -8,43 +8,43 @@ TeamSpeak is the ONLY tool you will need to connect online.
  Windows
 ----------
 
-###  Client 64-Bit  6.0.0-beta4  ###
+###  Client 64-Bit  6.0.0-beta4.1  ###
 
 ```
-SHA256: 69616271b751d0793618a0c2d2dc2440949fe501775facbc7c2fc88455c5b46e
+SHA256: a5a0c6c2cbc4f022dbc61d48597fb1b794d8f4fdc52ed4862a452d2a7b640097
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta4/teamspeak-client.msi)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta4.1/teamspeak-client.msi)
 
  macOS
 ----------
 
-###  Client ARM  6.0.0-beta4  ###
+###  Client ARM  6.0.0-beta4.1  ###
 
 ```
-SHA256: 3019de8c44de0de1799733606d9e90b30e28684c7dc4f3b5294f42e8dd0de149
+SHA256: 7107fe5f524c2c8c280af7fb15fefbe41ecfb5ca1b6d1fe949435ed5414e7f27
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta4/teamspeak-client-arm.dmg)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta4.1/teamspeak-client-arm.dmg)
 
-###  Client Intel  6.0.0-beta4  ###
+###  Client Intel  6.0.0-beta4.1  ###
 
 ```
-SHA256: dc07467b167dd5c5efd2be5ecd2d9c300708525fa8b8a45cad04b2840dfa6ff7
+SHA256: cdc03c43bd13c52ae97c2716f3ce9fea0325cb3e458a9955f2b6b12eaccaf54d
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta4/teamspeak-client-intel.dmg)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta4.1/teamspeak-client-intel.dmg)
 
  Linux
 ----------
 
-###  Client 64-Bit  6.0.0-beta4  ###
+###  Client 64-Bit  6.0.0-beta4.1  ###
 
 ```
-SHA256: b433040815a6878409cf255dbe59105bb32abbc327e898c5897309252e3911f8
+SHA256: edfd154102dae0683baa05cc55fa0f60f6b33d103db98797db9d63de61da48ba
 ```
 
-[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta4/teamspeak-client.tar.gz)
+[Download](https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta4.1/teamspeak-client.tar.gz)
 
 Third-Party Components
 ----------
@@ -109,62 +109,62 @@ Requires iOS 12.0 or later
  Windows
 ----------
 
-###  Server 32-bit  3.13.7  ###
+###  Server 32-bit  3.13.8  ###
 
 ```
-SHA256: 03ec18e7700d0884d09e6cbb9419cc8ea80736bf5ac82582941bbe8dc81f3d52
+SHA256: b18f8f07bb44ec0ceaae16ec620b49feb30a70921b96f31ec7224820aae77c0c
 ```
 
-[Download](https://files.teamspeak-services.com/releases/server/3.13.7/teamspeak3-server_win32-3.13.7.zip)
+[Download](https://files.teamspeak-services.com/releases/server/3.13.8/teamspeak3-server_win32-3.13.8.zip)
 
-###  Server 64-bit  3.13.7  ###
+###  Server 64-bit  3.13.8  ###
 
 ```
-SHA256: 489f6f02b336f80812ad0307897e072c37042d1c39341e4efbe7c09d1e100f59
+SHA256: 1dbde314c4895af0c8aae73755b2a920e564fabcb2c651e56d0532a473cdc5cb
 ```
 
-[Download](https://files.teamspeak-services.com/releases/server/3.13.7/teamspeak3-server_win64-3.13.7.zip)
+[Download](https://files.teamspeak-services.com/releases/server/3.13.8/teamspeak3-server_win64-3.13.8.zip)
 
  macOS
 ----------
 
-###  Server 64-bit  3.13.7  ###
+###  Server 64-bit  3.13.8  ###
 
 ```
-SHA256: 92ac6944c7f9fbed6ba207650bd04ab43185085969ea9d8463c74488c85b08ed
+SHA256: b54095da569eabb0c01b777815d48c954871c028bec54caeb3529f36230a467b
 ```
 
-[Download](https://files.teamspeak-services.com/releases/server/3.13.7/teamspeak3-server_mac-3.13.7.zip)
+[Download](https://files.teamspeak-services.com/releases/server/3.13.8/teamspeak3-server_mac-3.13.8.zip)
 
  Linux
 ----------
 
-###  Server 32-bit  3.13.7  ###
+###  Server 32-bit  3.13.8  ###
 
 ```
-SHA256: 68c1033a7bc178a7f31bc94316153c2390d8806e7722c08304c576314c898b68
+SHA256: e420f42ee5254f52a13c27e833a5ac019e054a5e1a9cb9dccc423021bba1ca94
 ```
 
-[Download](https://files.teamspeak-services.com/releases/server/3.13.7/teamspeak3-server_linux_x86-3.13.7.tar.bz2)
+[Download](https://files.teamspeak-services.com/releases/server/3.13.8/teamspeak3-server_linux_x86-3.13.8.tar.bz2)
 
-###  Server 64-bit  3.13.7  ###
+###  Server 64-bit  3.13.8  ###
 
 ```
-SHA256: 775a5731a9809801e4c8f9066cd9bc562a1b368553139c1249f2a0740d50041e
+SHA256: a3c4658e09892d3dbd8ea752d0de42dc7d111bf44d09721927f0f4782496eb2d
 ```
 
-[Download](https://files.teamspeak-services.com/releases/server/3.13.7/teamspeak3-server_linux_amd64-3.13.7.tar.bz2)
+[Download](https://files.teamspeak-services.com/releases/server/3.13.8/teamspeak3-server_linux_amd64-3.13.8.tar.bz2)
 
  FreeBSD
 ----------
 
-###  Server 64-bit  3.13.7  ###
+###  Server 64-bit  3.13.8  ###
 
 ```
-SHA256: c4f6fa6e00b9477498fa6d1d608b0bbf599a9e2142a5dcc6d9c366a83fc23073
+SHA256: 2bfd96ebfa1fca0c013a0a03d1741c0dc6d79e7c501a2fffb6248fdea58d4315
 ```
 
-[Download](https://files.teamspeak-services.com/releases/server/3.13.7/teamspeak3-server_freebsd_amd64-3.13.7.tar.bz2)
+[Download](https://files.teamspeak-services.com/releases/server/3.13.8/teamspeak3-server_freebsd_amd64-3.13.8.tar.bz2)
 
 CLIENT SDK DOWNLOAD
 ----------
@@ -175,13 +175,13 @@ CLIENT SDK DOWNLOAD
  Client & Server Integration
 ----------
 
-###  TeamSpeak 3 SDK  3.3.1  ###
+###  TeamSpeak 3 SDK  3.5.0  ###
 
 ```
-SHA256: dbd97190d04f72287110ad95356b3ba2de93ae4e008822665227f5d909375917
+SHA256: d0b5f974a3977deee1ff8000983e8b769ee9dadc01c10dd6bb83435991ea8007
 ```
 
-[Download](https://files.teamspeak-services.com/releases/sdk/3.3.1/ts_sdk_3.3.1.zip)
+[Download](https://files.teamspeak-services.com/releases/sdk/3.5.0/teamspeak-sdk-3.5.0.tar.gz)
 
 ###  TeamSpeak 3 SDK  C# Wrapper  ###
 
