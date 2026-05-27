@@ -686,8 +686,18 @@ sites:
 
   - url:
       - https://www.thedarkrooms.de/
-      - https://www.thedarkrooms.de/faqs
-      - https://www.thedarkrooms.de/history
+      - https://www.thedarkrooms.de/faq
+      - https://www.thedarkrooms.de/previous-exhibitions
+      - https://www.thedarkrooms.de/volunteer
+      - https://www.thedarkrooms.de/what-you-can-expect
+    editors:
+      - css_select: body > section
+      - css_remove: img, svg, iframe, noscript, style, .tabs-menu
+      - regex_replace:
+          pattern: "[\\u{200B}\\u{200D}]+"
+          replace: " "
+      - html_markdownify
+  - url:
       - https://www.wirimraum.de/
       - https://www.wirimraum.de/artists-1
       - https://www.wirimraum.de/exhibition
@@ -695,7 +705,7 @@ sites:
       - css_select: main
       - css_remove: img, svg
       - regex_replace:
-          pattern: "[  ​]+"
+          pattern: "[\\u{200B}\\u{200D}]+"
           replace: " "
       - html_markdownify
 
