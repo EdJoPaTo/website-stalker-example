@@ -12,6 +12,10 @@
 
 [JOIN THE ARCTIC SUPPORT CREW](/support)
 
+[Alluring Arctic](/)
+
+[](/)
+
 ### Greenland to Europe ###
 
 *[See full screen](//umap.openstreetmap.fr/en/map/alluringarctic_1389096?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true)*

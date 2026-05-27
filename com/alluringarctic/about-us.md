@@ -12,6 +12,10 @@
 
 [JOIN THE ARCTIC SUPPORT CREW](/support)
 
+[Alluring Arctic](/)
+
+[](/)
+
 **Juho Karhu**
 
 Juho is the skipper and technical mastermind aboard. He tries to handle the endless list of things that break in the cold. Despite living on the boat for several years, Juho is a skier and adventurer first and a sailor second.

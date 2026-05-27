@@ -12,6 +12,10 @@
 
 [JOIN THE ARCTIC SUPPORT CREW](/support)
 
+[Alluring Arctic](/)
+
+[](/)
+
 **We are Juho, Sohvi & Nova.**
 **We live on our boat and sail the Arctic.**
 ==========

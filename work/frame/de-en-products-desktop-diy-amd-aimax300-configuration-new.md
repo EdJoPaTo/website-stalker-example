@@ -67,7 +67,7 @@ System
 
    
 
-* Max+ 395 - 128GB  €3,379
+* Max+ 395 - 128GB  €3,559
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
