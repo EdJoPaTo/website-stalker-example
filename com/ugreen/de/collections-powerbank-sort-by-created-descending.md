@@ -4,7 +4,7 @@
 
 [UGREEN Nexode Air USB-C Ladegerät (65W, GaN)](https://de.ugreen.com/products/nexode-air-usb-c-ladegeraet-65w-gan)
 
-[UGREEN MagFlow Air magnetische Powerbank (10000 mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-10000mah-qi2)
+[UGREEN MagFlow Air magnetische Powerbank (10000 mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-10000mah-qi2-15w)
 
 [UGREEN Powerbank (10000mAh, 55W, integriertem Kabel, AirPyra)](https://de.ugreen.com/products/powerbank-10000mah-55w-integriertem-kabel-airpyra)
 

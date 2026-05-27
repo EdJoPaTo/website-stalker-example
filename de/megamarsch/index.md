@@ -14,13 +14,17 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### Bremen ###
+### Weserbergland ###
 
-### 23. Mai 2026 ###
+### 13.-14. juni 2026 ###
+
+### 100 km ###
+
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/weserbergland)
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/bremen)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/weserbergland-bei-nacht)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -167,7 +171,7 @@ IN DEINER NÄHE!
 |      OSTSEE      |   50KM    |25/04/2026|24/04/2027|
 |     HANNOVER     |50KM & 25KM|02/05/2026|08/05/2027|
 |     MÜNCHEN      |   100KM   |16/05/2026|15/05/2027|
-|      BREMEN      |   50KM    |23/05/2026|          |
+|      BREMEN      |   50KM    |23/05/2026|22/05/2027|
 |WESERBERGLAND B.N.|   50KM    |13/06/2026|          |
 |  WESERBERGLAND   |   100KM   |13/06/2026|          |
 |    MITTERSILL    |   50KM    |20/06/2026|          |
