@@ -460,6 +460,21 @@ Close
 
  \+€140
 
+ Add-ons
+----------
+
+###  Laptop Sleeve  ###
+
+A simple way to keep your laptop safe from bumps and scratches, with a padded main pocket for protection, a front compartment for Expansion Cards and accessories, and a sturdy handle for easy carry.
+
+ Smoke Black
+
+ \+€45
+
+ Space Silver
+
+ \+€45
+
  Add to Bag  Add pre-order to bag
 
  Ships within 5 business days - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions. [Limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
