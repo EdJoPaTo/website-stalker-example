@@ -3,6 +3,14 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### Update on our pricing ###
+
+Starting on 15 June 2026, updated pricing for cloud servers will apply to new orders and rescales.
+
+Existing servers are not affected by the price adjustment, as long as no rescaling is performed.
+
+For more information, please refer to [this press release](https://www.hetzner.com/pressroom/standardization-and-price-adjustment-of-our-server-products/).
+
 ### New server plans in EU and SIN ###
 
 In the **locations EU and SIN**, server plans are no longer distinguished by hardware type, but by **hardware generation**.

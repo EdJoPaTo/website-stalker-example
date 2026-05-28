@@ -19,9 +19,7 @@ Dies ist die letzte Gelegenheit, das alten Hotels zu erkunden: Das Gebäude wird
 Artists
 ==========
 
-[Rabih Mroué](#) | [Yasuhiro Chida](#) | [Kristof Kintera](#) | [Wiebke Maria Wachmann](#)
-
-[Jin Lee](#) | [Studio Sven Sauer](#) | [kling klang klong](#) & [schnelle bunte bilder](#)| [Ausgang Studio](#) | [Marco Barotti](#) | [Vincent Rang](#) | [Markus Graf](#) | [Lumus Instruments](#) | Florian Basche, Bastian Kopf & Künstler ohne Name
+[Rabih Mroué](#) | [Yasuhiro Chida](#) | [Kristof Kintera](#) | Wiebke Maria Wachmann | [Jin Lee](#) | [Studio Sven Sauer](#) | [kling klang klong](#) & [schnelle bunte bilder](#)| [Ausgang Studio](#) | [Marco Barotti](#) | [Vincent Rang](#) | [Markus Graf](#) | [Lumus Instruments](#) | Florian Basche, Bastian Kopf & Künstler ohne Name
 
 THE DARK ROOMS VERTICAL
 ==========
@@ -32,41 +30,25 @@ WITH BORIS ACKET
 26.04.24 - 10.05.24 - Secret Location
 
 In einem dunklen Turm werden gewaltige Stürme und tobende Meere zum Leben erweckt.
-
 Boris Acket erschafft Installationen, die Naturphänomene simulieren: Wir hören das Rauschen des Windes aber sehen 49 Servomotoren, die sich im Raum bewegen.
 
 Wir alle sind von der Natur beeinflusst. Jeden Tag. Sogar unser Gemüt hängt davon ab.
-
 Doch die Natur beginnt in unserer Welt Stück für Stück zu verschwinden. Beton nimmt ihren Platz ein und Displays erschaffen die Sehnsucht nach einer Ersatz-Natur: „Der perfekte Sonnenuntergang“ oder „ein funkelnder Sonnenstrahl, der auf die Wasseroberfläche trifft.“
 
 Boris Acket entlarvt auf 6 dunklen Stockwerken, wie schnell wir uns mit einer Illusion der Natur zufriedengeben.
-
 Er legt in seinen Arbeiten unsere ganze Ambivalenz, die wir zur Natur haben, offen: Sehnsucht, Faszination, Kraft, aber auch Ohnmacht.
 
 Die Ausstellung ist eine Reise um die ganze Welt!
-
 Entstanden sind die Arbeiten auf der ganzen Welt: Mexico City, Sydney, New York, Mailand, Madrid, Amsterdam und Zürich.
-
 Zum ersten Mal zeigt der Künstler alle Installationen an einem einzigen Ort in Berlin.
-
 In Zusammenarbeit mit 12 internationalen Artists entstanden in dem 120 Jahre alten Turm Sound-Licht-Installationen, die ein eigenes Wetter-System erschaffen. Die Kunstwerke reagieren aufeinander.
-
 Keine Installation verhält sich ein einziges Mal gleich.
 
-Alle Gäste betreten die Ausstellung durch eine schwarze Schleuse. Diese Dunkelheit dient einem wichtigen Zweck: Sie reinigt unsere Sinne von chaotischen Alltags-Eindrücken.
+ Alle Gäste betreten die Ausstellung durch eine schwarze Schleuse. Diese Dunkelheit dient einem wichtigen Zweck: Sie reinigt unsere Sinne von chaotischen Alltags-Eindrücken.
 
 Bleibt, solange Ihr wollt!
-
 Jeder Gast erhält eine Yoga-Matte. Damit kann jeder seinen eigenen Platz unter den hypnotischen Werken finden.
-
 Die geschätzte Aufenthaltsdauer beträgt ca. 2 Stunden … oder länger.
-
-Artists
-==========
-
-[Rabih Mroué](#) | [Yasuhiro Chida](#) | [Kristof Kintera](#) | [Wiebke Maria Wachmann](#)
-
-[Jin Lee](#) | [Studio Sven Sauer](#) | [kling klang klong](#) & [schnelle bunte bilder](#)| [Ausgang Studio](#) | [Marco Barotti](#) | [Vincent Rang](#) | [Markus Graf](#) | [Lumus Instruments](#) | Florian Basche, Bastian Kopf & Künstler ohne Name
 
 ARTWORKS
 ==========

@@ -5,13 +5,6 @@ NEXT EXHIBITION
 
 [ZU DEN TICKETS](/tickets)
 
-NEXT EXHIBITION
-==========
-
-10.07. - 26.07.26
-
-[ZU DEN TICKETS](/tickets)
-
 THE
 DARK
 ROOMS
@@ -30,6 +23,27 @@ In dieser Dunkelheit bauen 10 internationale Licht- und Soundartists ihre Instal
 
 Ein altes Kino ist immer auch ein Versprechen, dass für einige Stunden alles möglich ist. Dass die Welt größer wird, sobald das Licht ausgeht.
 Und dass irgendwo in diesem Gebäude immer noch ein bisschen Magie wartet.
+
+INTERNATIONALE ARTISTS
+==========
+
+[Alexis Choplain (FR) ==========](/artists)
+
+[Boris Acket (NL) ==========](/artists)
+
+[Corey Schneider (DE) ==========](/artists)
+
+[Cristian Rizzuti (IT) + Julian Alvarez (ES, composer) ==========](/artists)
+
+[Encor Studio (CH) ==========](/artists)
+
+[Joris Strijbos (NL) ==========](/artists)
+
+[Lumus Instruments (NL) ==========](/artists)
+
+[Sputniko! (JP) ==========](/artists)
+
+[Sven Sauer (DE) & CEYYS ==========](/artists)
 
 STAY WITH US
 ==========

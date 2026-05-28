@@ -93,6 +93,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Plug US Gen4](https://kb.shelly.cloud/knowledge-base/shelly-plug-us-gen4)
 * [Shelly Flood Gen4](https://kb.shelly.cloud/knowledge-base/shelly-flood-gen4)
 * [Shelly Leak Sensor Cable](https://kb.shelly.cloud/knowledge-base/shelly-leak-sensor-cable)
+* [Shelly Flood S Gen4](https://kb.shelly.cloud/knowledge-base/shelly-flood-s-gen4)
 * [Shelly Dimmer Gen4](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4)
 * [Shelly Dimmer Gen4 US](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4-us)
 * [Shelly Dimmer 0/1-10V PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-0-1-10v-pm-gen4)
