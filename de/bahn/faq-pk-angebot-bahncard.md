@@ -262,6 +262,15 @@ Ab dem 14. Juni 2026 wird die gekaufte BahnCard 100 wieder mit einer Vorkaufsfri
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc100-im-voraus-kaufen)
 
+ Was mache ich, wenn ich meine BahnCard 100 verloren habe?
+----------
+
+Besitzen Sie eine physische BahnCard 100, rufen Sie uns am besten unter [030 2970](tel:030 2970) an. ​
+
+Halten Sie bitte Ihre BahnCard-Nummer bereit. ​
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc100-verloren)
+
  Kann ich auch mit einer BahnCard 100, 2. Klasse an der 2. Klasse = 1. Klasse Aktion teilnehmen?
 ----------
 

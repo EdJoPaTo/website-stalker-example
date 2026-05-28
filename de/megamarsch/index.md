@@ -41,9 +41,9 @@ IN DEINER NÄHE!
 [HAMBURG](https://www.megamarsch.de/hamburg)
 ----------
 
-[Location](https://www.megamarsch.de/bremen)
+[Location](https://www.megamarsch.de)
 
-[BREMEN](https://www.megamarsch.de/bremen)
+[BREMEN](https://www.megamarsch.de)
 ----------
 
 [WESERBERGLAND](https://www.megamarsch.de/weserbergland)

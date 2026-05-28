@@ -43,7 +43,11 @@ FAQs
 
 * Which Processor should I choose?
 
-  For everyday multitasking, choose Intel® Core™ Ultra 5 325. It’s a great fit for standard office productivity, handling stacks of browser tabs, video calls, streaming, and day-to-day project management with ease.\<br\>\<br\>If you need stronger performance for professional workloads, choose Intel® Core™ Ultra 7 358H. In addition to more CPU cores, it offers a significant boost in GPU performance, making a noticeable difference for data-heavy applications, local development environments, multiple Docker containers, and visual or compute-intensive workflows.\<br\>\<br\>For the most demanding use cases, choose Intel® Core™ Ultra 9 388H. It builds on the Ultra 7 with additional CPU headroom for the heaviest workloads, such as frequent code compilation, full-scale virtualization, and local AI-assisted development, where every bit of extra performance helps.
+  For everyday multitasking, choose Intel® Core™ Ultra 5 325. It’s a great fit for standard office productivity, handling stacks of browser tabs, video calls, streaming, and day-to-day project management with ease.
+
+  If you need stronger performance for professional workloads, choose Intel® Core™ Ultra 7 358H. In addition to more CPU cores, it offers a significant boost in GPU performance, making a noticeable difference for data-heavy applications, local development environments, multiple Docker containers, and visual or compute-intensive workflows.
+
+  For the most demanding use cases, choose Intel® Core™ Ultra 9 388H. It builds on the Ultra 7 with additional CPU headroom for the heaviest workloads, such as frequent code compilation, full-scale virtualization, and local AI-assisted development, where every bit of extra performance helps.
 
 * What is Wi-Fi 7?
 
@@ -141,7 +145,15 @@ FAQs
 
 * How much storage should I get?
 
-  How much storage you need depends on what you plan to store and work with on your laptop:\<br\>\<br\>512GB is a good starting point for most users, with enough space for apps, files, and everyday work.\<br\>\<br\>1TB is ideal if you work with larger files like photos, videos, games, or local development environments.\<br\>\<br\>2TB or more is best for heavy storage needs, such as professional media work or keeping large amounts of data stored locally.\<br\>\<br\>And if your needs change, storage is easy to upgrade later, so you don’t have to decide everything up front.
+  How much storage you need depends on what you plan to store and work with on your laptop:
+
+  512GB is a good starting point for most users, with enough space for apps, files, and everyday work.
+
+  1TB is ideal if you work with larger files like photos, videos, games, or local development environments.
+
+  2TB or more is best for heavy storage needs, such as professional media work or keeping large amounts of data stored locally.
+
+  And if your needs change, storage is easy to upgrade later, so you don’t have to decide everything up front.
 
 * What storage drives are compatible?
 
@@ -149,7 +161,10 @@ FAQs
 
 * What's the difference between all the different SSDs (SN7100, SN850X, etc)?
 
-  Framework Laptop 13 Pro with Intel Core Ultra Series 3 processors supports both PCIe Gen 4.0 and Gen 5.0 SSDs.\<br\>SN850X is Western Digital's top-end SSD, using NVMe Gen4 to support an incredible 7,300MB/s maximum read throughput. SN7100 is a DRAM-less SSD that uses NVMe Gen4 for up to 7,250MB/s maximum read throughput.\<br\>Phison PS5031-E31T is a Gen 5.0 SSD with much higher read speeds up to 10,300 MB/s, coming with DRAM-less design for better power efficiency, but Gen 5.0 SSDs are still more power consuming than Gen 4.0.\<br\>If you prioritize speed, choose Gen 5.0. If you care about power efficiency and battery life, choose Gen 4.0.
+  Framework Laptop 13 Pro with Intel Core Ultra Series 3 processors supports both PCIe Gen 4.0 and Gen 5.0 SSDs.
+  SN850X is Western Digital's top-end SSD, using NVMe Gen4 to support an incredible 7,300MB/s maximum read throughput. SN7100 is a DRAM-less SSD that uses NVMe Gen4 for up to 7,250MB/s maximum read throughput.
+  Phison PS5031-E31T is a Gen 5.0 SSD with much higher read speeds up to 10,300 MB/s, coming with DRAM-less design for better power efficiency, but Gen 5.0 SSDs are still more power consuming than Gen 4.0.
+  If you prioritize speed, choose Gen 5.0. If you care about power efficiency and battery life, choose Gen 4.0.
 
 Close
 
