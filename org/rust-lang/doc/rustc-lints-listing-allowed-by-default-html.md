@@ -214,7 +214,7 @@ note: the lint level is defined here
   = note: `#[deny(deprecated_safe_2024)]` implied by `#[deny(deprecated_safe)]`
 help: you can wrap the call in an `unsafe` block if you can guarantee that the environment access only happens in single-threaded code
   |
-6 +     // TODO: Audit that the environment access only happens in single-threaded code.
+6 +     // FIXME: Audit that the environment access only happens in single-threaded code.
 7 ~     unsafe { env::set_var("RUST_BACKTRACE", "1") };
   |
 
@@ -977,6 +977,38 @@ assign an underscore-prefixed name (such as `_foo`) to the expression.
 If you do actually want to drop the expression immediately, then
 calling `std::mem::drop` on the expression is clearer and helps convey
 intent.
+
+[linker-info](#linker-info)
+----------
+
+The `linker_info` lint forwards warnings from the linker that are known to be informational-only.
+
+### Example ###
+
+```
+#[warn(linker_info)]
+fn main () {}
+```
+
+On MacOS, using `-C link-arg=-lc` and the default linker, this will produce
+
+```
+warning: linker stderr: ld: ignoring duplicate libraries: '-lc'
+  |
+note: the lint level is defined here
+ --> ex.rs:1:9
+  |
+1 | #![warn(linker_info)]
+  |         ^^^^^^^^^^^^^^^
+
+```
+
+### Explanation ###
+
+Many linkers are very “chatty” and print lots of information that is not necessarily
+indicative of an issue. This output has been ignored for many years and is often not
+actionable by developers. It is silenced unless the developer specifically requests for it
+to be printed. See this tracking issue for more details:<https://github.com/rust-lang/rust/issues/136096>.
 
 [linker-messages](#linker-messages)
 ----------
@@ -2068,13 +2100,13 @@ warning: cannot explicitly dereference within an implicitly-borrowing pattern in
 4 | if let Some(&a) = &Some(&0u8) {
   |             ^ reference pattern not allowed when implicitly borrowing
   |
-  = warning: this changes meaning in Rust 2024
-  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/match-ergonomics.html>
 note: matching on a reference type with a non-reference pattern implicitly borrows the contents
  --> lint_example.rs:4:8
   |
 4 | if let Some(&a) = &Some(&0u8) {
   |        ^^^^^^^^ this non-reference pattern matches on a reference type `&_`
+  = warning: this changes meaning in Rust 2024
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/match-ergonomics.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
@@ -2091,13 +2123,13 @@ warning: cannot mutably bind by value within an implicitly-borrowing pattern in 
 7 | if let Some(mut _a) = &mut Some(0u8) {
   |             ^^^ `mut` binding modifier not allowed when implicitly borrowing
   |
-  = warning: this changes meaning in Rust 2024
-  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/match-ergonomics.html>
 note: matching on a reference type with a non-reference pattern implicitly borrows the contents
  --> lint_example.rs:7:8
   |
 7 | if let Some(mut _a) = &mut Some(0u8) {
   |        ^^^^^^^^^^^^ this non-reference pattern matches on a reference type `&mut _`
+  = warning: this changes meaning in Rust 2024
+  = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/match-ergonomics.html>
 help: match on the reference with a reference pattern to avoid implicitly borrowing
   |
 7 | if let &mut Some(mut _a) = &mut Some(0u8) {
@@ -3086,8 +3118,8 @@ single unused rules of the macro that is otherwise used.`unused_macro_rules` fir
 ```
 #[warn(unused_macro_rules)]
 macro_rules! unused_empty {
-    (hello) => { println!("Hello, world!") }; // This rule is unused
-    () => { println!("empty") }; // This rule is used
+    (hello) => { println!("Hello, world!") }; // This rule is used
+    () => { println!("empty") }; // This rule is unused
 }
 
 fn main() {
@@ -3101,7 +3133,7 @@ This will produce:
 warning: rule #2 of macro `unused_empty` is never used
  --> lint_example.rs:4:5
   |
-4 |     () => { println!("empty") }; // This rule is used
+4 |     () => { println!("empty") }; // This rule is unused
   |     ^^
   |
 note: the lint level is defined here
