@@ -23,6 +23,13 @@ Artists
 
 [Jin Lee](#) | [Studio Sven Sauer](#) | [kling klang klong](#) & [schnelle bunte bilder](#)| [Ausgang Studio](#) | [Marco Barotti](#) | [Vincent Rang](#) | [Markus Graf](#) | [Lumus Instruments](#) | Florian Basche, Bastian Kopf & Künstler ohne Name
 
+Artists
+==========
+
+[Rabih Mroué](https://en.wikipedia.org/wiki/Rabih_Mrou%C3%A9) | [Yasuhiro Chida](http://chidayasuhiro.com/) | [Kristof Kintera](https://kristofkintera.com/) | [Wiebke Maria Wachmann](https://wiebke-maria-wachmann.de/)
+
+[Jin Lee](https://www.jinlee.de/) | [Studio Sven Sauer](https://www.studiosvensauer.com/) | [kling klang klong](https://www.klingklangklong.com/) & [schnelle bunte bilder](https://schnellebuntebilder.de/)| [Ausgang Studio](https://www.ausgang.tech/) | [Marco Barotti](https://www.marcobarotti.com/) | [Vincent Rang](https://vincentrang.com/Main-page) | [Markus Graf](https://www.instagram.com/studiomarkusgraf/) | [Lumus Instruments](https://www.lumus-instruments.com/) | Florian Basche, Bastian Kopf & Künstler ohne Name
+
 THE DARK ROOMS VERTICAL
 ==========
 
@@ -30,9 +37,6 @@ WITH BORIS ACKET
 ==========
 
 26.04.24 - 10.05.24 - Secret Location
-
-Geschichten in der Dunkelheit
-==========
 
 In einem dunklen Turm werden gewaltige Stürme und tobende Meere zum Leben erweckt.
 
@@ -75,9 +79,6 @@ THE DARK ROOMS VERTICAL
 ==========
 
 18.01.24 - 04.02.24 - Secret Location
-
-Geschichten in der Dunkelheit
-==========
 
 Berlin ruht nie. Die letzten beiden Jahre fühlen sich wie ein immer schneller drehendes Karussell an. An diesem Punkt setzt die Ausstellung “The Dark Rooms Vertical” an: In unserer pulsierenden Metropole, scheinen Ruhe und Zeit zu Privilegien zu werden. Machen wir mal das Licht aus. Dunkelheit schärft die Sinne. Durch sie werden wir zum unsichtbaren Beobachter:innen.
 
