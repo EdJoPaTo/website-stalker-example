@@ -167,6 +167,11 @@ Philip Vermeulen (Niederlande)
 
 Philip Vermeulen ist ein in Den Haag lebender Künstler, dessen großformatige Installationen Teil seiner Forschungen im Bereich der Zero-, Sound-, kinetischen und audiovisuellen Kunst sind. Vermeulen ist vor allem bekannt für seine großformatigen kinetischen Installationen. Er manipuliert natürliche Primärphänomene wie Licht, Klang und Bewegung und erforscht unablässig die Veränderungen psychologischer Zustände des Seins.
 
+HANNA ANTONSSON (Schweden)
+==========
+
+In Hanna Antonsson Werke spielt das Zusammentreffen und der Kontrast zwischen Tier und Maschine eine wichtige Rolle. Die von Antonsson präparierten Flügel der tot aufgefunden Tiere, werden künstlich wieder zum Leben erweckt und auf genau die Gegenstände montiert, die dem Leben der Vögel ein Ende gesetzt haben. Die Kollision ist ein natürliches Thema in ihrem Werk. Hannah Antonssons Werke wurden in zahlreichen Ausstellungen weltweit ausgestellt.
+
 SVEN SAUER (Berlin)
 ==========
 

@@ -5584,10 +5584,10 @@ Falls das Serviceangebot der Bestellung nicht angeboten werden kann, können Sie
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-die-bestellfunktion-in-der-1-klasse-nicht-immer-angeboten)
 
- Warum wird mir der Bestpreis nicht angezeigt, wenn ich für den aktuellen Tag suche?
+ Warum ist die Bestpreissuche nicht verfügbar, wenn ich Verbindungen für heute suche?
 ----------
 
-Bei Anfragen für den aktuellen Reisetag wird der Regler zur Aktivierung der Funktion nicht angezeigt. Der Grund: Die Suche für den aktuellen Tag wird überwiegend als reine Verbindungsauskunft - also nicht zur Buchung - genutzt. Außerdem stehen am aktuellen Tag in der Regel weniger Angebote mit deutlich geringeren Preisunterschieden zur Verfügung.
+Bei einer Suche am aktuellen Reisetag wird der Schieberegler zur Aktivierung der Bestpreissuche nicht angezeigt. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die Bestpreissuche vergleicht jedoch alle Preise eines ganzen Tages miteinander– das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die Bestpreissuche nur für zukünftige Reisetage angeboten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-mir-der-bestpreis-nicht-angezeigt-wenn-ich-fuer-den-aktuellen-tag-suche)
 
@@ -8299,7 +8299,7 @@ Eine Änderung des **Vornamens** und **Geburtsdatums** ist ausschließlich m
 
 Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mailadresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
 
-Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mailadresse oder nennen Sie diese in Ihrer Nachricht.
+Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mailadresse.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-meine-persoenlichen-daten-anpassen)
 
