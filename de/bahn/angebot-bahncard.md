@@ -18,46 +18,6 @@ Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
 
-### Aktion Senioren BahnCard 25 Plus, 2. Klasse inkl. BahnBonus Statuslevel Silber ###
-
-**25 % Rabatt** auf den Flexpreis und die Sparpreise des Fernverkehrs sparen (ausgenommen City-Ticket)
-
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25/aktion-seniorenbahncard-2-klasse)
-
-Nur 85,90 Euro
-
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O234)
-
-### Aktion Senioren BahnCard 25 Plus, 1. Klasse inkl. BahnBonus Statuslevel Silber ###
-
-**25 % Rabatt** auf den Flexpreis und die Sparpreise des Fernverkehrs sparen (ausgenommen City-Ticket)
-
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25/aktion-seniorenbahncard-1-klasse)
-
-Nur 126,90 Euro
-
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O134)
-
-### Aktion Senioren BahnCard 50 Plus, 2. Klasse inkl. BahnBonus Statuslevel Silber ###
-
-**50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparpreise des Fernverkehrs sparen (ausgenommen City-Ticket)
-
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50/aktion-seniorenbahncard-2-klasse)
-
-Nur 144 Euro
-
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O235)
-
-### Aktion Senioren BahnCard 50 Plus, 1. Klasse inkl. BahnBonus Statuslevel Silber ###
-
-**50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparpreise des Fernverkehrs sparen (ausgenommen City-Ticket)
-
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50/aktion-seniorenbahncard-1-klasse)
-
-Nur 254 Euro
-
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O135)
-
 ### Probe BahnCard 25, 2. Klasse ###
 
 **25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
@@ -107,3 +67,43 @@ Nur 254 Euro
 76,90 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O210)
+
+### Probe BahnCard 50, 1. Klasse ###
+
+**Sofort sparen:** die Probe BahnCard lohnt sich oft schon **ab der 1. Fahrt**
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard50-1-klasse)
+
+152 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O110)
+
+### BahnCard 50, 2. Klasse ###
+
+ BahnCard 50 zum **Aktionspreis** sichern: Nur bis zum 31.7.2026
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
+
+199 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
+
+### BahnCard 50, 1. Klasse ###
+
+ BahnCard 50 zum **Aktionspreis** sichern: Nur bis zum 31.7.2026
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-1-klasse)
+
+429 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O104)
+
+### Probe BahnCard 100, 2. Klasse ###
+
+**3 Monate flexibel deutschlandweit reisen**
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard100-2-klasse)
+
+1.459 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O220)
