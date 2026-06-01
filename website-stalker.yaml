@@ -144,9 +144,9 @@ sites:
 
   - url:
       - https://www.netcup.com/de/deals
+      - https://www.netcup.com/de/deals/adventskalender
       - https://www.netcup.com/de/domain/domain-kaufen
       - https://www.netcup.com/de/server/arm-server
-      - https://www.netcup.com/de/server/guenstige-vserver-angebote
       - https://www.netcup.com/de/server/kvm-server-erweiterungen
       - https://www.netcup.com/de/server/labs
       - https://www.netcup.com/de/server/local-block-storage
@@ -154,9 +154,9 @@ sites:
       - https://www.netcup.com/de/server/server-storage
       - https://www.netcup.com/de/server/vgpu
       - https://www.netcup.com/de/server/vps
+      - https://www.netcup.com/de/server/vps-lite
       - https://www.netcup.com/de/server/vserver-guenstig-qualitaet
       - https://www.netcup.com/de/server/vserver-images
-      - https://www.netcup.com/de/deals/adventskalender
     headers:
       - "Cache-Control: no-cache"
     editors:
