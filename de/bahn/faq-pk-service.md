@@ -2305,6 +2305,26 @@ Die Liste der Fundstellen finden Sie hier auf der Seite.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegenstand-unter-15-euro)
 
+ Haben Sie in einem internationalen Zug einen Gegenstand verloren oder vergessen?
+----------
+
+Beachten Sie bitte folgende Hinweise:
+
+* Erfassen Sie zusätzlich zu Ihrer Meldung bei uns, unbedingt auch eine Verlustmeldung bei der jeweils betroffenen Partnerbahn.
+* In vielen Fällen werden verlorene Gegenstände erst am Endhalt des Zuges als Fundsache entdeckt.
+* **Zug von Deutschland ins Ausland:** Der Gegenstand wird meist bei der ausländischen Partnerbahn abgegeben.
+* **Zug vom Ausland nach Deutschland:** Der Gegenstand wird in der Regel in Deutschland abgegeben.
+
+**Direkte Links zu ausgewählten Partnerbahnen:**
+
+* **SBB (Schweiz):** [SBB (Schweiz) Verlustmeldung](https://www.sbb.ch/de/hilfe-und-kontakt/fundbuero/verlustmeldung-erfassen.html)
+* **ÖBB (Österreich):** [ÖBB (Österreich) - Verlustmeldung](https://www.oebb.at/de/reiseplanung-services/nach-ihrer-reise/lost-found.html)
+* **SNCF (Frankreich):** [SNCF (Frankreich) - Verlustmeldung](https://www.garesetconnexions.sncf/fr/service-client/a-vos-cotes/objet-perdu-trouve/declaration-perte)
+
+Weitere Partnerbahnen finden Sie über eine Internetsuche.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegenstand-verloren-zug-international)
+
  Wie verstaue ich mein Gepäck im Zug?
 ----------
 
