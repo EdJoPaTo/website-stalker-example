@@ -553,10 +553,7 @@ sites:
       - html_markdownify
   - url:
       - https://www.bahn.de/angebot/regio/deutschland-ticket
-      - https://www.bahn.de/faq/pk/angebot/bahncard
-      - https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket
-      - https://www.bahn.de/faq/pk/angebot/sitzplatzreservierung
-      - https://www.bahn.de/faq/pk/angebot/upgrade
+      - https://www.bahn.de/faq/pk/angebot
       - https://www.bahn.de/faq/pk/service
       - https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte
       - https://www.bahn.de/service/informationen-buchung/auslastungsinformation
