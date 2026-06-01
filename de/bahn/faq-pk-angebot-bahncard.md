@@ -246,13 +246,6 @@ BahnCards können bis zu 6 Monate im Voraus gekauft werden. Tickets hingegen kö
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-im-voraus-kaufen)
 
- Bekomme ich eine Plastikkarte zugeschickt oder ist das Produkt nur noch rein digital nutzbar?
-----------
-
-Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Um die digitale BahnCard nutzen zu können, benötigen Kund:innen ebenfalls das DB Kundenkonto, mit welchem sie sich in der App DB Navigator einloggen können. In der App DB Navigator wird die digitale BahnCard direkt im DB Kundenkonto hinterlegt und kann im eingeloggten Zustand abgerufen werden. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](http://www.bahn.de/digitalebc)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-plastikkarte)
-
  Wie lange im Voraus kann ich eine BahnCard 100 kaufen?
 ----------
 
@@ -443,13 +436,6 @@ Diese Vorteile hat die Jugend BahnCard Aktion Frühbucher
 Ja, als BahnCard 100 Inhaber:in können Sie ebenfalls BahnBonus Punkte sammeln, sofern Sie zu BahnBonus angemeldet sind. Ihnen werden für den Kauf der BahnCard100, Prämien- und Statuspunkte, gutgeschrieben. Beachten Sie bitte bei Buchung den Sammelwunsch anzugeben oder das automatische Sammeln zu aktivieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-als-bahncard-100-inhaber-in-auch-bahnbonus-punkte-sammeln)
-
- Kann ich die BahnCard 100 in die App DB Navigator laden?
-----------
-
-Es ist aktuell nicht möglich, die BahnCard 100 in den DB Navigator zu laden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-die-bahncard-100-in-die-app-db-navigator-laden)
 
  Kann ich die digitale BahnCard 25/50 sofort auf mein Smartphone laden?
 ----------

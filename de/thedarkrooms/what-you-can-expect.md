@@ -1,5 +1,4 @@
-WHAT YOU
-CAN EXPECT
+WHAT TO EXPECT
 ==========
 
 Für 3 Wochenenenden träumt ein alter Kinokomplex ein neues intensives Kunsterlebnis

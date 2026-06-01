@@ -1169,9 +1169,9 @@ Die Geltungsdauer der Prämien finden Sie in den jeweiligen Prämienbeschreibung
 
 Ihre BahnBonus Anmeldung kann nur mit einem DB Kundenkonto verknüpft sein.
 
-Wenn Sie Ihre geschäftlichen Reisen selbst buchen, kann Ihre BahnBonus Anmeldung mit Ihrem privaten DB Kundenkonto verknüpft sein. Sie können in diesem Fall auch bei einer Buchung mit Ihrem geschäftlichen DB Kundenkonto BahnBonus Punkte durch händische Eingabe Ihrer BahnBonus Nummer sammeln.
+Das bedeutet, dass BahnBonus Punkte nur über ein Kundenkonto automatisch gesammelt werden. Wenn mit der gleichen BahnBonus Nummer auch in einem zweiten Kundenkonto BahnBonus Punkte gesammelt werden sollen, ist folgendes zu beachten. Bei der Nutzung des zweiten Kundenkontos kann die BahnBonus Nummer bei jeder Buchung händisch eingetragen werden. Durch dieses Vorgehen werden dann alle BonusPunkte beider Kundenkonten auf einem BahnBonus Konto gesammelt
 
-Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buchen, müssen Sie vorher sicherstellen, dass Ihr BahnBonus Konto mit Ihrem Geschäftskundenkonto verknüpft ist. In diesem Falle können Sie bei Ihren privaten Reisen in jeder Buchung aktiv durch Angabe der BahnCard / BahnBonus Nummer Punkte sammeln.
+Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buchen, müssen Sie vorher sicherstellen, dass Ihr BahnBonus Konto mit Ihrem Geschäftskundenkonto verknüpft ist. In diesem Falle können Sie bei Ihren privaten Reisen in jeder Buchung aktiv durch Angabe BahnBonus Nummer Punkte sammeln.
 
 * [Weitere Informationen zur geschäftlichen Nutzung von BahnBonus](https://www.bahn.de/bahnbusiness/info-und-services/geschaeftskundenprogramm/bahnbonus)
 
@@ -2196,6 +2196,54 @@ Ja, Sie finden Ihren Statuslevel auch im DB Navigator. Als Statusnachweis dient 
 DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be used to purchase other DB gift vouchers and season tickets such as the Deutschland-Ticket. If the value of the DB gift voucher is higher than the purchase price of the product for which you redeem it, you will receive the remaining value in the form of a voucher.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
+
+ Was ändert sich an den Freifahrtprämien Flex?
+----------
+
+Die benötigten Punkte der Gutscheine für die Freifahrten Flex erhöhen sich wie folgt:
+
+* 2. Klasse, einfache Fahrt - 2.500 Prämienpunkte
+* 1. Klasse, einfache Fahrt - 3.500 Prämienpunkte
+* 2. Klasse, Hin- und Rückfahrt - 4.000 Prämienpunkte
+* 1. Klasse Hin- und Rückfahrt - 6.000 Prämienpunkte
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-flex)
+
+ Was ist der Vorteil am neuen Punktemodell?
+----------
+
+Sie haben jetzt mehr Auswahlmöglichkeiten und können Freifahrtprämien bereits ab 750 Punkten einlösen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-neues-punktemodell)
+
+ Ändern sich noch bei weiteren Prämien die Punktehöhen?
+----------
+
+Bei allen weiteren Bahnprämien, wie Sitzplatzreservierungen, 1. Klasse Upgrades und Reisegutscheinen bleibt die aktuelle Punktehöhe bestehen. Auch die Sach-, Partner- und Spendenprämien sind nicht betroffen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-weitere-praemien)
+
+ Für welche Freifahrtprämien wird es zukünftig verschiedene Punktehöhen geben?
+----------
+
+Für folgende Freifahrtprämien wird es verschiedene Punktehöhen geben:
+
+* Freifahrt 2. Klasse (ab 750 Prämienpunkten)
+* Freifahrt 1. Klasse (ab 1.250 Prämienpunkten)
+* Internationale Freifahrt 2. Klasse (ab 1.750 Prämienpunkten)Internationale Freifahrt 1. Klasse (ab 2.750 Prämienpunkten)
+* Mitfahr-Freifahrt 2. Klasse (ab 750 Prämienpunkten)
+* Mitfahr-Freifahrt 1. Klasse (ab 1.250 Prämienpunkten)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-welche)
+
+ Was ändert sich bei den nationalen Freifahrtprämien?
+----------
+
+Alle nationalen Freifahrten können in einer Buchung frei nach Klasse und Hin- und/oder Rückfahrt ausgewählt werden (äquivalent zur normalen Ticketbuchung).
+
+Außerdem gibt es Freifahrten schon ab 750 Prämienpunkten – abhängig von Strecke, Buchungszeitpunkt und weiteren Faktoren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-was-aendert-sich)
 
  Wie sammle ich BahnBonus Punkte?
 ----------
@@ -4317,21 +4365,12 @@ Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-bahncard-und-reduziertem-ticket)
 
- Was passiert mit meinen BahnBonus Punkten, wenn ich eine neue BahnCard erhalte?
-----------
-
-Ihr Punktekonto bleibt erhalten. Reine Änderungen an der BahnCard, zum Beispiel ein Upgrade, haben keine Auswirkungen auf Ihr BahnBonus Punktekonto, sofern die neue BahnCard im selben DB Kundenkonto bestellt wird.
-
-Zusatz: Wenn Sie eine neue BahnCard Business Nummer erhalten, sollten Sie ihre neue Nummer über das BahnBonus Team mit der BahnBonus Nrummer verknüpfen lassen. So sind ihre gesammelten BahnBonus Punkte auch mit der neuen BahnCard Business verknüpft.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard)
-
  Wie kann ich als Buchungsstellenverantwortliche (BV) für einen Geschäftsreisenden (GR) Bahn Bonus Punkte sammeln?
 ----------
 
-Hierzu muss der Geschäftsreisende die BahnBonus Nummer in seinem geschäftlichen Kundenkonto hinterlegt haben und das automatische Sammeln aktiviert haben. Bei privaten Reisen kann der Mitarbeitende dann seine BahnCard / BahnBonus Nummer aktiv eingeben bei der Buchung.
+Hierzu muss der Geschäftsreisende mit seinem geschäftlichen Kundenkonto bei BahnBonus angemeldet sein und das automatische Sammeln aktiviert haben. Bei privaten Reisen kann der Mitarbeitende dann seine BahnBonus Nummer bei der Buchung selbst eintragen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard0)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard)
 
  Kann ich auch ohne BahnCard BahnBonus Punkte sammeln?
 ----------
@@ -8311,15 +8350,15 @@ Sie gelangen zu einer Übersicht über Ihr verfügbares Guthaben, wenn Sie auf d
  Welche Anpassungen an den persönlichen Daten kann ich in meinem DB Kundenkonto auf bahn.de oder im DB Navigator selbst vornehmen?
 ----------
 
-Die **Adresse**, das **Zahlungsmittel** und die **E-Mailadresse** können Sie selbst im DB Kundenkonto auf bahn.de oder im DB Navigator anpassen.
+Die **Adresse**, das **Zahlungsmittel** und die **E-Mail-Adresse** können Sie selbst im DB Kundenkonto auf bahn.de oder im DB Navigator anpassen.
 
 Sie können Ihren **Nachnamen** selbst ändern. Nochmalige Änderungen des **Nachnamens** ist nur mit Vorlage eines Nachweises möglich.
 
 Eine Änderung des **Vornamens** und **Geburtsdatums** ist ausschließlich mit Vorlage eines Nachweises möglich.
 
-Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mailadresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
+Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mail-Adresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
 
-Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mailadresse.
+Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-meine-persoenlichen-daten-anpassen)
 
