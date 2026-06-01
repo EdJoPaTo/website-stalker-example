@@ -575,6 +575,14 @@ sites:
             - html_sanitize
       - html_url_canonicalize
       - html_markdownify
+  - url: https://db-bordgastronomie.de/
+    editors:
+      - css_select: .page-content
+      - css_remove: style, img
+      - regex_replace:
+          pattern: </a>
+          replace: </a><br />
+      - html_markdownify
   - url: https://db-bordgastronomie.de/faq
     editors:
       - css_select: .page-content
