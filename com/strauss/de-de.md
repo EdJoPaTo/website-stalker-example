@@ -1,217 +1,220 @@
-Sichtbar
-geschützt
+Sommer-Deal für Sie & Ihn
 ----------
 
 ---
 
- UV-Komplettschutz im coolen Style
+ Diesen Look shoppen & sparen – Farben & Größen wählen und direkt ab in den Warenkorb!
 
-[zu allen UV-Schutzprodukten](https://www.strauss.com/de/de/uv-schutz/)
-
-100 % UV-Schutz (UV400)
-**Race Sonnenbrille e.s.ambition**
-
-[](https://www.strauss.com/de/de/schutzbrillen/race-sonnenbrille-e-s-ambition-7040610-7476191-685.html)
-
-Ein wahrer Alleskönner
-**Multifunktionstuch UV e.s.trail**
-
-[](https://www.strauss.com/de/de/tuecher-schals/multifunktionstuch-uv-e-s-trail-3402360-7810690-1.html)
-
-[](https://www.strauss.com/de/de/pullover-troyer/visibility-funkt-troyer-longsleeve-uv-e-s-trail-3121920-84724-538.html)
-
-[](https://www.strauss.com/de/de/pullover-troyer/visibility-funkt-troyer-longsleeve-uv-e-s-trail-3121920-84724-538.html)
-
-[](https://www.strauss.com/de/de/sweats-hoodies/visibility-funktions-hoody-longsleeve-uv-e-s-trail-3108100-84723-539.html)
-
-[](https://www.strauss.com/de/de/sweats-hoodies/visibility-funktions-hoody-longsleeve-uv-e-s-trail-3108100-84723-539.html)
-
-Die BG BAU fördert aktuell einen Teil der Schutz-Ausrüstung gegen UV-Strahlung. Informieren Sie sich direkt unter **[www.bgbau.de!](https://www.bgbau.de/)**
-
- S7S
----
-
- Sicherheits-
-schuhe
----
-
- Schutz
-mit Style
-----------
+Setpreis **-10%**
 
 ---
 
- Sicherheitsschuhe mit sportlichem Komfort
+ Damen-Set
+---
 
-[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
+ T-Shirt + Cargoshort + Berufsschuhe
 
- \+4
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0044?variantId=84269e49-7fbb-42d8-8a9a-2ec877bb7ecd)
 
- S7S Sicherheitsschuhe
- e.s. Peoria low
+[Set konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0044?variantId=84269e49-7fbb-42d8-8a9a-2ec877bb7ecd)
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-peoria-low-1400180-93101-685.html)
+Setpreis **-10%**
 
- \+3
+---
 
- S7S Sicherheitsschuhe
- e.s. Peoria low
+ Herren-Set
+---
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7s-sicherheitsschuhe-e-s-peoria-low-1400180-93101-685.html)
+ T-Shirt + Cargoshort + Berufsschuhe
 
-*
-*
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0043?variantId=b11af64f-118e-42d4-991d-49c6f3823ee1)
 
- Alles für den Job: Profi-Arbeitskleidung vom Experten
+[Set konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0043?variantId=b11af64f-118e-42d4-991d-49c6f3823ee1)
+
+[](https://www.strauss.com/de/de#engelbird)
+
+Alles für den Job:
+
+**Profi-Arbeitskleidung vom Experten**
+
 ==========
 
 ---
 
-SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis-Artikel
+[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21198-1953.html?amp;itemorigin=startseite_FS26_Step5)
 
-SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis-Artikel
+[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21107-1950.html?amp;itemorigin=startseite_FS26_Step5)
 
-SET: Bundhose + Short e.s.motion 2020 Inkl. Gratis-Artikel
+[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21109-1954.html?amp;itemorigin=startseite_FS26_Step5)
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=03d0703d-a3b6-451b-873e-3263df27d10f)
+[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21105-1946.html?amp;itemorigin=startseite_FS26_Step5)
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=03d0703d-a3b6-451b-873e-3263df27d10f)
+[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21195-1947.html?amp;itemorigin=startseite_FS26_Step5)
 
- Strauss Aktions-Sets
+ NEU
+---
+
+ NEU
+---
+
+ NEU
+---
+
+ Kindershirts mit coolen Motiven
 ----------
 
 ---
 
- Strauss Aktions-Sets
+ Kindershirts mit coolen Motiven
 ---
 
- Strauss Aktions-Sets
+ Kindershirts mit coolen Motiven
 ---
 
- Preis-Vorteil!
-Sparen im Set
+ Engelbird - auf diesen
+Strauss fliegen alle!
+----------
+
+---
+
+[alle entdecken](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21105-1946.html)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html)
+
+ Perfekt für den Sommer: Sportliche Sicherheitsschuhe mit Stahlkappe & aus robustem Canvas-Material!
+
+ Profi-Sneaker: extra luftig & leicht
+----------
+
+---
+
+[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
+
+ \+6
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html?amp;itemorigin=startseite_FS26_Step5&__mode=stripped)
+
+ S1 Sicherheitsschuhe
+e.s. Yatala low
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html?amp;itemorigin=startseite_FS26_Step5&__mode=stripped)
+
+ \+7
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html?amp;itemorigin=startseite_FS26_Step5&__mode=stripped)
+
+ S1 Sicherheitsschuhe
+e.s. Yatala low
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html?amp;itemorigin=startseite_FS26_Step5&__mode=stripped)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html)
+
+ SET: Bundhose + Short e.s.motion 2020 inkl. Gratis Artikel
+
+ SET: Bundhose + Short e.s.motion 2020 inkl. Gratis Artikel
+
+ SET: Bundhose + Short e.s.motion 2020 inkl. Gratis Artikel
+
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=54e9e663-2bb2-4122-b7fb-c9ade82ce314)
+
+ Set-Highlight
+----------
+
+---
+
+ Set-Highlight
+---
+
+ Set-Highlight
+---
+
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=54e9e663-2bb2-4122-b7fb-c9ade82ce314)
+
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=54e9e663-2bb2-4122-b7fb-c9ade82ce314)
+
+ Strauss Aktionssets
+----------
+
+---
+
+ Strauss Aktionssets
+---
+
+ Strauss Aktionssets
+---
+
+ Spar
+Deals!
 ---
 
 Farben + Größen flexibel
 zusammenstellen & kräftig sparen.
 
-[alle Aktions-Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
+[alle Aktionssets entdecken](https://www.strauss.com/de/de/flexible-sets/)
 
-[alle Aktions-Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
+[alle Aktionssets entdecken](https://www.strauss.com/de/de/flexible-sets/)
 
- Frischer Wind fürs Handwerk
+[](https://www.strauss.com/de/de/flexible-sets/)
 
-###
-
-Bundhose e.s.motion 2020
-
- ###
-
----
-
-[für Herren](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65511-722.html)
-
-[für Damen](https://www.strauss.com/de/de/berufshosen-damen/damenhose-e-s-motion-2020-3310080-65801-722.html)
-
-[für Kinder](https://www.strauss.com/de/de/kinderhosen/bundhose-e-s-motion-2020-kinder-3310040-63926-722.html)
-
-[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65511-722.html)
-
- \+12
-
-[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65511-722.html)
-
-Beinbelüftung
-
-Wenn's zu heiß wird: Einfach Reißverschluss am Oberschenkel hinten öffnen und frische Luft rein lassen.
-
-15 starke Farben zur Auswahl
-
-vielseitig kombinierbar – von Kopf bis Fuß ein Look
-
-mit robusten Cordura®-Verstärkungen
-
- Strauss x
-Mario Kart
+ Perfekt für
+sonnige Tage
 ----------
 
 ---
 
- 3... 2... 1... Los!
----
+ Outdoor-Kleidung für Arbeit & Abenteuer – maximal flexibel, gut geschützt
 
- 3... 2... 1... Los!
----
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/)
 
- 3... 2... 1... Los!
----
+ \+2
 
- Mit Style & Komfort geht's auf die Überholspur: Jetzt Favoriten wählen, bevor die limitierte Kollektion aus dem Rennen ist!
+ Zip-Off Funktions
+Hose e.s.trail
 
-[jetzt entdecken](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
+[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5) [](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5)
 
-[jetzt entdecken](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
+ \+2
 
-[](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-sweatpants-kinder-3312650-70749-1909.html)
+ Zip-Off Funktions
+Hose e.s.trail
 
-[](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-sweatjacke-kinder-3108140-70739-1909.html)
+[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5) [](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5)
 
-[](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/mario-kart-hoody-kinder-3108150-70679-1909.html)
-
- Druck & Stick – ab 1 Stück
-----------
+###  Druck & Stick - ab 1 Stück  ###
 
 ---
 
- Druck & Stick – ab 1 Stück
----
-
- Druck & Stick – ab 1 Stück
----
-
- Teamwear
+ Jetzt online
 gestalten
+----------
+
 ---
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+zu den Produkten
+
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_FS26)
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_FS26)
 
-zu den Produkten
+**Druck:**
+Easytransfer
+---
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+ Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
 
-zu den Produkten
-
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
-
-zu den Produkten
-
- Die Lieferung Ihrer Bestellung mit dem selbst gestalteten Produkt erfolgt in ca. 2 Wochen.
-
-*
-*
-*
-
-Stick: Direkteinstickung
+**Stick:**
+Direkteinstickung
 ---
 
  Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
 
-Druck: Easytransfer
----
-
- Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
-
-Stick: Direkteinstickung
-
- Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
-
-Druck: Easytransfer
-
- Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
+*
+*
+*
+*
 
 für Arbeit, Vereine, Events uvm.
 
@@ -219,89 +222,22 @@ unkompliziert gestalten & bestellen
 
 über 400 verfügbare Motive + Motivupload
 
-###  Für Kunden, Freunde & Familie: Geschenkideen von Strauss  ###
+ Power-Stoff:
+Ripstop light
+----------
 
 ---
 
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+ Die perfekte Arbeitskleidung für den Sommer:
+e.s.t:aktik - aus ultraleichtem & elastischem Ripstop light.
 
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
 
-[Gutschein zum Ausdrucken](https://gutschein.strauss.de/)
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
 
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
+[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-langarm-3110890-87392-1875.html?amp;itemorigin=startseite_FS26_Step5)
 
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
-
-[Gutschein per Post](https://www.strauss.com/de/de/arbeitsschuhe/warengutschein-111110-1499911-0.html)
-
-[](https://www.strauss.com/de/de/allroundtaschen/backpack-e-s-motion-ten-7070520-6315766-1197.html)
-
-[](https://www.strauss.com/de/de/caps/e-s-cap-color-3401090-7610244-364.html)
-
-[](https://www.strauss.com/de/de/bandmasse/e-s-taschenbandmass-grip-7143470-5504250-0.html)
-
-[](https://www.strauss.com/de/de/kueche-haushalt/e-s-lunchpot-7903190-5576042-0.html)
-
-[](https://www.strauss.com/de/de/handtuecher/frottier-duschtuch-premium-7600532-1517184-130.html)
-
-[](https://www.strauss.com/de/de/allroundtaschen/backpack-e-s-motion-ten-7070520-6315766-1197.html)
-
-[](https://www.strauss.com/de/de/caps/e-s-cap-color-3401090-7610244-364.html)
-
-[](https://www.strauss.com/de/de/bandmasse/e-s-taschenbandmass-grip-7143470-5504250-0.html)
-
-[](https://www.strauss.com/de/de/kueche-haushalt/e-s-lunchpot-7903190-5576042-0.html)
-
-[](https://www.strauss.com/de/de/handtuecher/frottier-duschtuch-premium-7600532-1517184-130.html)
-
-[alle Geschenkideen](https://www.strauss.com/de/de/geschenkideen-herren/)
-
-[alle Geschenkideen](https://www.strauss.com/de/de/geschenkideen-herren/)
-
-[alle Geschenkideen](https://www.strauss.com/de/de/geschenkideen-herren/)
-
- Inspiration für jeden
- Anlass entdecken:
-
-[
-
-Muttertag
-
-]()
-
-[
-
-Vatertag
-
-]()
-
-[
-
-JGAs
-
-]()
-
- Inspiration für jeden
- Anlass entdecken:
-
-[
-
-Muttertag
-
-]()
-
-[
-
-Vatertag
-
-]()
-
-[
-
-JGAs
-
-]()
+[](https://www.strauss.com/de/de/arbeitsshorts/short-e-s-t-aktik-light-ripstop-3350980-62811-1479.html?amp;itemorigin=startseite_FS26_Step5)
 
  e.s.work
 &travel

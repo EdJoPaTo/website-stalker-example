@@ -3929,7 +3929,7 @@ Ja. In Regional-Express, Regionalbahn und S-Bahn nutzen Sie weiterhin die 1. Kla
 
 Ja, Sie können das Deutschland-Ticket mit Ihrer BahnCard 100 im kompletten bundesweiten Nahverkehr, SPNV und ÖPNV, also in Nahverkehrszügen, S-Bahnen, U-Bahnen und Bussen, nutzen.
 
-Sie erhalten das Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100.
+Für bis einschließlich 13. Juni 2026 gekaufte BahnCards 100 erhalten Sie das Deutschland Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100. Für ab dem 14. Juni 2026 gekaufte BahnCards 100 finden Sie das Deutschland-Ticket direkt in Ihrem Navigator unter "Meine Reisen", "Zeitkarten & Abos".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahncard100-ab-wann)
 
@@ -4561,7 +4561,9 @@ Nein. Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Da
  Was muss ich tun, um das Deutschland-Ticket zu meiner My BahnCard 100 zu nutzen?
 ----------
 
-Seit dem 1. Januar 2024 wird das Deutschland-Ticket in rein digitaler Form ausgegeben und Ihnen nach dem Kauf der My BahnCard 100 per E-Mail zugeschickt (Auftragsnummer). Voraussetzung für die Nutzung ist eine gültige E-Mailadresse, die Sie beim Kauf der My BahnCard 100 hinterlegen, so wie die App DB Navigator. Eine genaue Anleitung zum Erhalt des Deutschland-Tickets finden Sie in der E-Mail.
+Für bis einschließlich 13. Juni 2026 gekaufte BahnCards 100 erhalten Sie das Deutschland Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100.
+
+Für ab dem 14. Juni 2026 gekaufte BahnCards 100 finden Sie das Deutschland-Ticket direkt in Ihrem Navigator unter "Meine Reisen", "Zeitkarten & Abos".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zu-meiner-mybc100-nutzen)
 
@@ -4580,6 +4582,87 @@ Zur Nutzung der digitalen BahnCard 100 benötigen Sie ein DB Kundenkonto sowie d
 * [Mehr über die digitale BahnCard 100 erfahren](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard100)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digibc100-infos)
+
+ Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard 100 trotzdem nutzen?
+----------
+
+Der Kauf einer BahnCard 100 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-keine-email-adresse)
+
+ Ich finde meine neue digitale BahnCard 100 nicht in der App DB Navigator. Was muss ich tun?
+----------
+
+Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der BahnCard 100 eine Nachricht mit dem Betreff "Wichtige Informationen zu Ihrer digitalen BahnCard" erhalten. Dort ist ein Link zur Aktivierung Ihrer BahnCard 100 enthalten.
+
+Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard 100 in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „Zeitkarten & Abos".
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-navigator)
+
+ Kann ich die digitale BahnCard 100 sofort in der App DB Navigator nutzen?
+----------
+
+Ja, Sie wählen den gewünschten 1. Geltungstag und ab diesem Datum können Sie die digitale BahnCard 100 direkt in der App DB Navigator nutzen. Die Bearbeitungsfrist von 12 Tagen entfällt.
+
+Bitte beachten Sie: ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 100 können Sie diese mit Ihrem Smartphone verknüpfen, spätestens jedoch vor Ihrem Reiseantritt. Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 im DB Navigator verfügbar. Diesen benötigen Sie bei der Ticketkontrolle.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-sofort-nutzen)
+
+ Wie verknüpfe ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket mit meinem Smartphone?
+----------
+
+Ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 100 können Sie diese mit Ihrem Smartphone verknüpfen, spätestens jedoch vor Ihrem Reiseantritt.
+
+Tippen Sie im Menübereich "Reisen" unter "Zeitkarten & Abos" auf Ihre BahnCard 100. Jetzt können Sie Ihre BahnCard 100 verknüpfen, indem auf den Button "Mit diesem Gerät verknüpfen" tippen.
+
+Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 in der App DB Navigator verfügbar. Diesen benötigen Sie bei der Ticketkontrolle. Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich "Reisen" unter "Zeitkarten & Abos" antippen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen)
+
+ Kann ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket nur auf einem Smartphone gemeinsam verknüpfen?
+----------
+
+Nein, Sie können Ihre digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket auch getrennt voneinander auf unterschiedlichen Geräten verknüpfen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-gemeinsam-smartphone)
+
+ Ich habe kein Smartphone. Kann ich die digitale BahnCard 100 trotzdem nutzen?
+----------
+
+In diesem Fall wenden Sie sich bitte an den [BahnCard Service](https://www.bahn.de/hilfe#/bahncard).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-kein-smartphone)
+
+ Wie verknüpfe ich die digitale BahnCard 100 mit meinem Smartphone?
+----------
+
+Ihre BahnCard 100 wird mit Ihrem mobilen Endgerät, zum Beispiel mit einem Smartphone, fest verbunden. ​
+
+​Ist Ihr Handy defekt oder Sie haben ein neues mobiles Endgerät, können Sie 3x während der Laufzeit der BahnCard 100 Ihr Endgerät mit der BahnCard 100 erneut verknüpfen. Bei der Probe BahnCard 100 ist ein Gerätewechsel nur einmalig möglich.
+
+Sie haben Fragen zur Gerätebindung? Rufen Sie gerne unter [030 2970](tel:030 2970) an.
+
+Halten Sie bitte Ihre BahnCard-Nummer bereit.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-sperre)
+
+ Wie oft kann ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket mit einem anderen Smartphone verknüpfen?
+----------
+
+Ihre BahnCard 100 als Jahreskarte können Sie während der Gültigkeit selbst dreimal mit einem anderen Gerät verknüpfen. Das gilt auch für das zusätzliche digitale Deutschland-Ticket. Bei einer Probe BahnCard 100 und dem zusätzlichen digitalen Deutschland-Ticket ist das einmal während der Gültigkeit möglich. Dabei können die BahnCard 100 und das Deutschland-Ticket unabhängig voneinander auf unterschiedlichen Geräten verknüpft werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-wie-oft)
+
+ Wo finde ich meine digitale BahnCard 100 in der App DB Navigator und wo das zusätzliche Deutschland-Ticket?
+----------
+
+Sie finden Ihre digitale BahnCard 100 und das zusätzliche Deutschland-Ticket im eingeloggten Zustand in der App DB Navigator im Menübereich "Reisen" unter "Zeitkarten & Abos".
+
+Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich "Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard 100 gelangen. Indem Sie diese antippen, können Sie den QR-Code der digitalen BahnCard 100 im DB Navigator jederzeit aufrufen. Diesen benötigen Sie bei der Ticketkontrolle.
+
+Bitte denken Sie daran, Ihre digitale BahnCard 100 vor dem Reiseantritt mit Ihrem Smartphone zu verknüpfen. Gehen Sie genauso für das zusätzliche Deutschland-Ticket vor.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-wo)
 
  Die digitale BahnCard 25/50 kann nicht auf mein Smartphone geladen werden.
 ----------
@@ -14801,7 +14884,7 @@ Das City-Ticket ist eine Fahrkarte, mit der Sie der rund 140 City-Ticket Städte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-city-ticket)
 
- Was ist das kostenlose Sitzplatzkontingent bei einer BahnCard 100, 1. Klasse?
+ Was ist das kostenlose Sitzplatzkontingent bei einer BahnCard 100, 1. Klasse und wie kann ich es einlösen??
 ----------
 
 Ihnen stehen während der Gültigkeit Ihrer BahnCard:
@@ -14813,7 +14896,7 @@ Bitte beachten Sie:
 
 * Das Kontingent ist verwendbar für Sitzplatzreservierungen ohne Ticketkauf
 * Das Kontingent ist gültig für alle nicht reservierungspflichtigen Züge der DB AG
-* Nicht eingelöste Kontingente verfallen mit dem Gültigkeitsende der BahnCard bzw. mit der Kündigung der BahnCard
+* Nicht eingelöste Kontingente verfallen mit dem Gültigkeitsende der BahnCard bzw. mit der Kündigung der BahnCard. Bitte buchen Sie Ihre Sitplätze direkt eingeloggt in Ihrem DB Kundenkonto.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-kostenlose-sitzplatzkontingent-bei-bahncard-100-1kl)
 
@@ -16960,7 +17043,7 @@ Die Wagen mit Reservierungsbereich sind von außen gekennzeichnet. Im Wagen lots
  Wie funktioniert die kostenfreie Sitzplatzreservierung für Inhaber einer BahnCard 100, 1. Klasse?
 ----------
 
-Alle BahnCard 100, 1. Klasse Inhaber erhalten ein kostenfreies Reservierungskontingent für 100 Sitzplatzreservierungen pro Jahr.
+Alle BahnCard 100, 1. Klasse Inhaber erhalten ein kostenfreies, digitales Reservierungskontingent für 100 Sitzplatzreservierungen pro Jahr.
 
 * Verwendbar für Sitzplatzreservierung ohne Ticketkauf
 * Gültig für alle nicht reservierungspflichtigen Züge der DB AG
@@ -16971,8 +17054,6 @@ Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutze
 
 * bahn.de
 * DB Navigator
-* DB Reisezentrum
-* DB Agenturen
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
@@ -17173,7 +17254,7 @@ Die **BahnCard 100** muss nicht gekündigt werden. Die Karte läuft automatisch
  Wie kann ich die digitale BahnCard 25/50 in der App DB Navigator speichern?
 ----------
 
-Sofern Sie ihre BahnCard 25/50 im eingeloggten Zustand über Ihr DB Kundenkonto gekauft haben, wird die BahnCard 25/50 in Ihrem Profil im DB Navigator unter „BahnCard“ angezeigt
+Loggen Sie sich mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-digitale-bahncard-in-der-app-db-navigator-speichern)
 
@@ -17371,14 +17452,14 @@ Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
 
 1. Loggen Sie sich in Ihr [DB Kundenkonto](https://www.bahn.de/link_bc-selfservices) ein.
 2. Klicken Sie auf den Menüpunkt "BahnCard".
-3. Unter "Optionen" der jeweiligen BahnCard finden Sie den Punkt "Rechnung anfordern"
+3. Unter "Optionen" der jeweiligen BahnCard finden Sie den Punkt "Details und Rechnungen"
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-online-eine-rechnung-fuer-meine-bahncard-anfordern)
 
  Wie kann ich einen Sitzplatz aus dem kostenlosen Kontingent bei einer (My) BahnCard 100, 1. Klasse buchen?
 ----------
 
-Sie können Ihr Kontingent in Ihrem DB Kundenkonto über die Webseite bahn.de oder in der App DB Navigator, Menüpunkt „BahnCard“ einsehen und einlösen.
+Sie können Ihr digitales Kontingent direkt eingeloggt in Ihrem DB Kundenkonto buchen. Entweder über bahn.de oder in der App DB Navigator.
 
 Das Sitzplatzkontingent können Sie auch:
 
