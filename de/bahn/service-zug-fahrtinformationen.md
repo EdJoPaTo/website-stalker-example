@@ -103,13 +103,13 @@ Hintergrundinformationen zu den Bereichen/ Sitzplätzen
 
 Bei Bahnreisen im ICE können Familien mit Kindern Sitzplätze im Familienbereich reservieren. Dort reisen Sie entspannt in Gesellschaft anderer Familien.
 
-* [Erfahren Sie hier mehr zum Familienbereich Weitere Informationen: Erfahren Sie hier mehr zum Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich)
+* [Erfahren Sie hier mehr zum Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich)
 
 ###  Kleinkindabteil/ Kleinkindbereich  ###
 
 Besonders für Familien mit Kindern im Still- und Krabbelalter bieten die Kleinkindabteile Privatsphäre während der Bahnfahrt.
 
-* [Erfahren Sie hier mehr zu den Kleinkindabteilen Weitere Informationen: Erfahren Sie hier mehr zu den Kleinkindabteilen](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
+* [Erfahren Sie hier mehr zu den Kleinkindabteilen](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
 
 ###  Exklusiver BahnBonus Sitzplatzbereich  ###
 

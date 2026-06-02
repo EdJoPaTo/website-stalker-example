@@ -10,7 +10,7 @@ Das Mehrfahrten-Ticket ist eine Fernverkehrs-Fahrkarte der Deutschen Bahn für 1
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/01was-ist-das-mehrfahrten-ticket)
 
@@ -21,7 +21,7 @@ Das Mehrfahrten-Ticket kann für innerdeutsche Fahrten bis 250 km erworben werde
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/02gibt-es-das-mehrfahrten-ticket-fuer-alle-strecken)
 
@@ -32,7 +32,7 @@ Der Preis hängt ab von der gewählten Relation und liegt für das 10-Fahrten-Ti
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/04was-kostet-ein-mehrfahrten-ticket)
 
@@ -43,7 +43,7 @@ Das ist individuell einsetzbar: Es handelt sich bei dem 10-Fahrten-Ticket um 10 
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/05handelt-es-sich-um-10-bzw-20-einzelfahrten-oder-10-bzw-20-hin-und-rueckfahrten)
 
@@ -54,7 +54,7 @@ Das Angebot kann bis zum **14. Juni 2026** erworben werden. Der letzte mögliche
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/05wie-lange-gibt-es-dieses-angebot)
 
@@ -65,7 +65,7 @@ Nein, das Ticket ist nicht übertragbar und nur in Verbindung mit einem amtliche
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/06ist-mein-ticket-uebertragbar)
 
@@ -76,7 +76,7 @@ Ja, wenn Sie den von Ihnen gebuchten Zug nutzen, können Sie den Komfort Check-i
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/07kann-ich-den-komfort-check-in-nutzen)
 
@@ -87,7 +87,7 @@ Für die Nutzung der 1. Wagenklassen in bestimmten Verkehrsmitten können Sie ei
 
 [Weitere Informationen zu Tickets im Move-Tarif](https://www.bahn.de/angebot/verbuende/move)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/1-klasse-move)
 
@@ -105,7 +105,7 @@ Das Ticket können Sie online unter [www.mehrfahrten-ticket-bahn.de](http://www.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/10wo-kann-ich-das-ticket-kaufen)
 
@@ -116,7 +116,7 @@ Sie können mit Kreditkarte oder PayPal zahlen.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/12wie-kann-ich-bezahlen)
 
@@ -127,7 +127,7 @@ Sie können das Mehrfahrten-Ticket bis zu 30 Tage vor dem 1. Geltungstag kaufen.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/13wie-lange-im-voraus-kann-ich-das-ticket-kaufen)
 
@@ -138,7 +138,7 @@ Nach Kauf des Mehrfahrten-Bündels müssen Sie zur Nutzung der einzelnen Fahrten
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/15wie-kann-ich-die-10-bzw-20-fahrten-einloesen)
 
@@ -149,7 +149,7 @@ Nein, nach Buchung Ihrer Fahrt können Sie einen beliebigen Zug auf der ausgewä
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/16muss-ich-mich-an-einen-zug-abfahrtszeit-binden)
 
@@ -163,7 +163,7 @@ Es gibt zwei Möglichkeiten, ein Online-Ticket im Navigator hinzuzufügen:
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/17wie-kann-ich-die-gebuchte-fahrt-in-den-db-navigator-laden)
 
@@ -174,7 +174,7 @@ Ja, Sie können die Online-Tickets für Ihre bereits gebuchten Fahrten jederzeit
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/18ich-finde-mein-online-ticket-nicht-mehr-kann-ich-es-nochmal-herunterladen)
 
@@ -189,7 +189,7 @@ Bitte wenden Sie sich an:
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/19ich-habe-probleme-mit-dem-buchungsprozess)
 
@@ -200,7 +200,7 @@ Das Jobticket ist eine vergünstigte Streckenzeitkarte im Abo, die Sie erwerben 
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/1was-ist-das-jobticket)
 
@@ -211,7 +211,7 @@ Fahrten, die Sie nicht innerhalb eines Monats einlösen, verfallen**.**
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/20was-passiert-mit-fahrten-die-ich-nicht-innerhalb-eines-monats-gebucht-bzw-genutzt-habe)
 
@@ -222,7 +222,7 @@ Nein, ein Wechsel von der 2. Klasse in die 1. Klasse ist nicht möglich.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/21kann-ich-mit-meinem-mehrfahrten-ticket-fuer-die-2-klasse-gegen-aufpreis-in-der-1-klasse-reisen)
 
@@ -237,7 +237,7 @@ Nein, ein Wechsel von der 2. Klasse in die 1. Klasse ist nicht möglich.
 
 [Ticket auswählen](https://www.bahn.de/angebot/regio/laender-tickets/24h-ticket-nrw-5-pers)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09&r=13:16:KLASSENLOS:5&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09&r=13:16:KLASSENLOS:5&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/24h-ticket-5-personen-nrw)
 
@@ -250,7 +250,7 @@ Nein, ein Wechsel von der 2. Klasse in die 1. Klasse ist nicht möglich.
 
 [Ticket auswählen](https://www.bahn.de/angebot/regio/laender-tickets/24h-ticket-nrw-single)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09&r=13:16:KLASSENLOS:1&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09&r=13:16:KLASSENLOS:1&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/24h-ticket-single-nrw)
 
@@ -261,7 +261,7 @@ Sie können das Jobticket nutzen, wenn Ihr Arbeitgebender einen **Jobticket-Rahm
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2wer-kann-das-jobticket-nutzen)
 
@@ -276,7 +276,7 @@ Im Fall von Verspätung oder Ausfall des Zuges gelten die regulären Fahrgastrec
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/30was-passiert-wenn-ein-gebuchter-zug-ausfaellt-oder-verspaetet-ist)
 
@@ -307,7 +307,7 @@ Je nach Rahmenvertrag und Vorgabe Ihrer Arbeitgeber:in wird einmal pro Jahr zus�
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/3was-kostet-das-jobticket)
 
@@ -318,7 +318,7 @@ Die 10 bzw. 20 Fahrten können innerhalb eines Monats ab ersten Geltungstag eing
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/40wie-lange-sind-die-10-bzw-20-fahrten-gueltig)
 
@@ -329,7 +329,7 @@ Bei Kauf legen Sie den Geltungsbeginn des Mehrfahrten-Tickets fest. Dieser muss 
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/41ab-wann-ist-mein-mehrfahrten-ticket-gueltig)
 
@@ -340,7 +340,7 @@ Mit dem Mehrfahrten-Ticket haben Sie keine Zugbindung. Ihr Ticket berechtigt Sie
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/43mit-welchen-zuegen-kann-ich-reisen)
 
@@ -351,7 +351,7 @@ Nein, das Ticket ist nur auf der zuvor gewählten Strecke mit dem angegebenen St
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/44kann-ich-jede-strecke-zwischen-gewaehltem-start-und-zielort-nutzen)
 
@@ -369,7 +369,7 @@ Ja, eine gebuchte Einzelfahrt kann vor dem Reisetag kostenfrei storniert werden.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/46kann-ich-eine-gebuchte-fahrt-umtauschen-oder-stornieren)
 
@@ -380,7 +380,7 @@ Bei Stornierung einer Fahrt wird der Betrag für diese Fahrt in Ihr Fahrten-Kon
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/47storno-fahrt-erstattung)
 
@@ -391,7 +391,7 @@ Nein. Eine Reservierung kann jedoch separat über die Website bzw. in der App da
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/50ist-eine-sitzplatzreservierung-im-preis-enthalten)
 
@@ -402,7 +402,7 @@ Nein, das City-Ticket ist beim Mehrfahrten-Ticket nicht inklusive.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/51ist-das-city-ticket-inklusive)
 
@@ -413,7 +413,7 @@ Ja, das Mehrfahrten-Ticket ist sowohl für die 2. Klasse als auch für die 1. Kl
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/52gibt-es-das-mehrfahrten-ticket-auch-fuer-die-1-klasse)
 
@@ -424,7 +424,7 @@ Ja, mit einem Mehrfahrten-Ticket der 1. Klasse haben Sie Zutritt zur DB Lounge.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/53habe-ich-mit-meinem-mehrfahrten-ticket-der-1-klasse-zugang-zur-db-lounge)
 
@@ -435,7 +435,7 @@ Ja, die BahnBonus Punkte werden Ihnen nach Kauf gutgeschrieben. Hierfür müssen
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/54kann-ich-mit-meinem-mehrfahrten-ticket-bahnbonus-punkte-sammeln)
 
@@ -446,7 +446,7 @@ Nein, Sie erhalten mit der BahnCard keinen Rabatt auf das Mehrfahrten-Ticket.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/55bekomme-ich-einen-rabatt-mit-der-bahncard)
 
@@ -458,7 +458,7 @@ Nein, Sie erhalten mit der BahnCard keinen Rabatt auf das Mehrfahrten-Ticket.
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/56kann-ich-meine-kinder-kostenfrei-mitnehmen)
 
@@ -478,7 +478,7 @@ Laden Sie die App DB Navigator herunter. Nach Freigabe durch Ihren Arbeitgeber e
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/5wie-erhalte-ich-das-jobticket)
 
@@ -502,7 +502,7 @@ Mit der Bestellung erteilen Sie dem Abo-Center ein SEPA-Lastschriftmandat, mit d
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/6wann-muss-ich-das-jobticket-bezahlen)
 
@@ -517,7 +517,7 @@ Empfehlung: Um eine Nachberechnung zu vermeiden, kündigen Sie Ihr bisheriges Ab
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/7ich-habe-bereits-eine-db-jahreskarte-im-abo-was-muss-ich-tun)
 
@@ -540,7 +540,7 @@ Hinweise:
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/8wie-kuendige-ich-das-jobticket)
 
@@ -556,7 +556,7 @@ Möchten Sie Ihr Abo ändern (z. B. anderer Start- oder Zielbahnhof, andere Züg
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/9kann-das-jobticket-geaendert-werden)
 
@@ -598,7 +598,7 @@ Die Fahrkarte hat einen flexiblen Geltungsbeginn, d.h. Ihr Abo gilt ab dem von I
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-ist-meine-monatskarte-im-abo-gueltig)
 
@@ -609,7 +609,7 @@ Die Wochen- und Monatskarte hat einen flexiblen Geltungsbeginn, das heißt, die 
 
 [Weitere Informationen zu Wochen- und Monatskarten](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-ist-meine-zeitkarte-gueltig)
 
@@ -727,7 +727,7 @@ Wichtig ist bei beiden Bestellwegen vor allem die richtige Angabe von Namen, Geb
 
 [Weitere Informationen zur IsarCardJob im MVV](https://www.bahn.de/angebot/verbuende/mvv-abo-job)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-job-beantragen)
 
@@ -738,7 +738,7 @@ Gegenüber einem Abo wird ein Rabatt von 5 % (ab 100 Teilnehmern) oder 10 % (ab 
 
 [Weitere Informationen zur IsarCardJob im MVV](https://www.bahn.de/angebot/verbuende/mvv-abo-job)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-job-vorteile)
 
@@ -830,7 +830,7 @@ Nein. Kinder unter 15 Jahren dürfen nur in Begleitung eines Erwachsenen im kroa
 
 [Weitere Informationen zum kroatischen Nachtzug](https://www.bahn.de/angebot/international/hzpp-kroatischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisende-kinder-kroatischer-nachtzug)
 
@@ -841,7 +841,7 @@ Nein. Kinder unter 10 Jahren dürfen nur in Begleitung eines Erwachsenen reisen.
 
 [Weitere Informationen zum polnischen Nachtzug](https://www.bahn.de/angebot/international/pkp-polnischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisende-kinder-polnischer-nachtzug)
 
@@ -870,7 +870,7 @@ Nein. Kinder unter 10 Jahren dürfen nur in Begleitung eines Erwachsenen reisen.
 
 [Weitere Informationen zum ungarischen Nachtzug](https://www.bahn.de/angebot/international/mav-ungarischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisende-kinder-ungarischer-nachtzug)
 
@@ -883,7 +883,7 @@ Nein. Kinder unter 10 Jahren dürfen nur in Begleitung eines Erwachsenen reisen.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-flexpreis)
 
@@ -905,7 +905,7 @@ Der Preis wird bei der Buchung automatisch berechnet.
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-flexpreis-europa)
 
@@ -916,7 +916,7 @@ Nein, das Angebot gilt nicht für alleinreisende Kinder. Alleinreisende Kinder e
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-flexpreis-young)
 
@@ -927,7 +927,7 @@ Nein, das Angebot gilt nicht für alleinreisende Kinder. Alleinreisende Kinder e
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-normalpreis)
 
@@ -1092,7 +1092,7 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Weitere Informationen zum Regio-Ticket Allgäu-Schwaben](https://www.bahn.de/angebot/regio/bayern/regio-ticket-allgaeu-schwaben)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/allgaeu-schwaben-wer-kann-mit-dem-ticket-fahren)
 
@@ -1103,7 +1103,7 @@ Sind Sie am 1. Reisetag 65 Jahre oder älter, dann können Sie den Super Sparpre
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersangabe-ab-65-jahre)
 
@@ -1114,7 +1114,7 @@ Das Angebot Flexpreis Young ist ein Angebot, das sich speziell an die junge Ziel
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersangabe-flexpreis-young)
 
@@ -1239,7 +1239,7 @@ Bundeswehr-Tickets dürfen **nur auf den eigenen Namen** gebucht werden.
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/andere-person-bundeswehr-ticket)
 
@@ -1288,7 +1288,7 @@ Wenn Sie unter "Regionale Angebote" im Bereich "Tickets & Angebote" der App DB N
 
 [Weitere Informationen zu Abo-Angeboten im MVV](https://www.bahn.de/angebot/verbuende/mvv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebote-azubi-studierende-mvv)
 
@@ -1343,7 +1343,7 @@ Das Tarifangebot badisch24 ist eine ab Entwertung 24 Stunden gültige Anschlusst
 
 [Weitere Informationen zu Tickets im Move-Tarif](https://www.bahn.de/angebot/verbuende/move)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anschlussticket-move)
 
@@ -1358,7 +1358,7 @@ Das Tarifangebot badisch24 ist eine ab Entwertung 24 Stunden gültige Anschlusst
 
 [Weitere Informationen zu Abo-Angeboten im MVV](https://www.bahn.de/angebot/verbuende/mvv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anschlussticket-mvv)
 
@@ -1394,7 +1394,7 @@ Bei **Online-Buchung**:
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzahlung-sparpreis-gruppe)
 
@@ -1412,7 +1412,7 @@ Eine Anzahlung für das Super Sparpreis Gruppe-Ticket ist nicht möglich.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzahlung-super-sparpreis-gruppe)
 
@@ -1427,7 +1427,7 @@ Die Belegt-Anzeige bleibt bis kurz vor Ihrem Ausstieg sichtbar. Diese Funktion i
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzeige-belegter-sitzplatz)
 
@@ -1487,7 +1487,7 @@ KBS 766: Tübingen - Sigmaringen (HzL)
 
 [Weitere Informationen zum Europa-Park Kombiticket](https://www.bahn.de/angebot/regio/baden-wuerttemberg/europa-park-kombiticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-europa-park-kombiticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-europa-park-kombiticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welchen-strecken-gilt-das-europa-park-kombiticket)
 
@@ -1516,7 +1516,7 @@ In der 2. Klasse der Südostbayernbahn auf den Strecken:
 
 [Weitere Informationen zum Traun-Alz-Ticket](https://www.bahn.de/angebot/regio/bayern/traun-alz-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00021C221)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00021C221)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welchen-strecken-gilt-das-traun-alz-ticket)
 
@@ -1548,7 +1548,7 @@ RB 86: Lübeck Hbf – Lübeck Travemünde Strand
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welchen-strecken-im-nahverkehr-kann-ich-einen-dauer-sitzplatz-reservieren)
 
@@ -1583,7 +1583,7 @@ Das EgroNet-Ticket gilt in den Nahverkehrszügen (z.B. RB-, RE-Züge) auf allen 
 
 [Weitere Informationen zum EgroNet-Ticket Bayern](https://www.bahn.de/angebot/regio/bayern/egronet-ticket-bayern)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welchen-strecken-werden-die-egronet-tickets-anerkannt)
 
@@ -1594,7 +1594,7 @@ Das Ticket gilt zwischen Neufahrn und Bogen in den Zügen der Südostbayernbahn�
 
 [Weitere Informationen zum Gäubodenbahn-Ticket](https://www.bahn.de/angebot/regio/bayern/gaeubodenbahn-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welcher-strecke-und-in-welchen-verkehrsmitteln-gilt-das-ticket)
 
@@ -1613,7 +1613,7 @@ Alternativ können Sie sich auf eigene Kosten ein reguläres Ticket kaufen.
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auffindbarkeit-bundeswehr-ticket)
 
@@ -1645,7 +1645,7 @@ Wenn Sie ins Ausland reisen möchten, kaufen Sie sich bitte **auf eigene Kosten*
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausland-bundeswehr-ticket)
 
@@ -1656,7 +1656,7 @@ Generell gilt in Deutschland eine Ausweispflicht ab 16 Jahren. Alternativ zum Pe
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausweis-flexpreis-young)
 
@@ -1684,7 +1684,7 @@ Die Abbuchung erfolgt im Lastschriftverfahren
 
 [Weitere Informationen zum AVV Augsburg 365-Euro-Ticket](https://www.bahn.de/angebot/verbuende/365-euro-ticket-avv)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-365-euro-abbuchung)
 
@@ -1697,7 +1697,7 @@ Das Ticket endet nach Ablauf der Geltungsdauer automatisch und kann bei entsprec
 
 [Weitere Informationen zum AVV Augsburg 365-Euro-Ticket](https://www.bahn.de/angebot/verbuende/365-euro-ticket-avv)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-365-euro-gueltigkeit)
 
@@ -1711,7 +1711,7 @@ Sie fahren 365 Tage im Jahr für umgerechnet nur 1 Euro am Tag.
 
 [Weitere Informationen zum AVV Augsburg 365-Euro-Ticket](https://www.bahn.de/angebot/verbuende/365-euro-ticket-avv)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-365-euro-preis)
 
@@ -1724,7 +1724,7 @@ Beachten Sie bitte: Das 365-Euro-Ticket AVV ist nicht für Student:innen gülti
 
 [Weitere Informationen zum AVV Augsburg 365-Euro-Ticket](https://www.bahn.de/angebot/verbuende/365-euro-ticket-avv)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-365-euro-wer)
 
@@ -1735,7 +1735,7 @@ Die Nutzung gilt in allen Bussen und Bahnen (2. Klasse) des AVV im gesamten Tari
 
 [Weitere Informationen zum AVV Augsburg 365-Euro-Ticket](https://www.bahn.de/angebot/verbuende/365-euro-ticket-avv)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-365-euro-wo-gilt)
 
@@ -1746,7 +1746,7 @@ Bitte beachten: Wohnort und Schule/Ausbildungsstelle müssen im Tarifgebiet des 
 
 [Weitere Informationen zum AVV Augsburg 365-Euro-Ticket](https://www.bahn.de/angebot/verbuende/365-euro-ticket-avv)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=43)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-365-euro-wohnort)
 
@@ -1759,7 +1759,7 @@ In unserer Broschüre haben wir alle Infos zum Jobticket im AVV und zum Deutschl
 
 [Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
+[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-dt-jobticket-broschuere)
 
@@ -1770,7 +1770,7 @@ Nein, aber selbstverständlich können Sie auch gegen Aufpreis die 1. Klasse nut
 
 [Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
+[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-1-klasse)
 
@@ -1793,7 +1793,7 @@ Kundendialog DB Regio NRW
 
 [Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
+[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-kontakt)
 
@@ -1806,7 +1806,7 @@ Diese Mitnahmeregelungen gelten **nicht** bei AVV-Job-Tickets für Auszubildende
 
 [Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
+[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-kostenfrei-mitnahme)
 
@@ -1817,7 +1817,7 @@ Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht über
 
 [Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
+[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-wer-kann-fahren)
 
@@ -1834,7 +1834,7 @@ Und wer noch weiter fahren will, kann anstelle des AVV-JobTickets ein JobTicket 
 
 [Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
+[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-wo-gilt)
 
@@ -1862,7 +1862,7 @@ Sie bekommen die meisten AVV-Angebote als Online- bzw. Handy-Ticket.
 
 [Weitere Informationen zu Tickets im AVV Augsburg](https://www.bahn.de/angebot/verbuende/avv-augsburg)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-augsburg-tickets-wo-kaufen)
 
@@ -1877,7 +1877,7 @@ Details finden Sie auf der Site westfalentarif.de/azubiabo im Reiter "Berechtig
 
 [Weitere Informationen zum AzubiAbo Westfalen](https://www.bahn.de/angebot/verbuende/azubi-abo-westfalen)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/azubi-abo-wt-fuer-wen)
 
@@ -1890,7 +1890,7 @@ Das AzubiAbo Westfalen hat eine Mindestvertragslauf­zeit von 12 Monaten. Nach A
 
 [Weitere Informationen zum AzubiAbo Westfalen](https://www.bahn.de/angebot/verbuende/azubi-abo-westfalen)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/azubi-abo-wt-gueltigkeit)
 
@@ -1901,7 +1901,7 @@ Das AzubiAbo Westfalen kostet **66,40** **Euro** je Monat.
 
 [Weitere Informationen zum AzubiAbo Westfalen](https://www.bahn.de/angebot/verbuende/azubi-abo-westfalen)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/azubi-abo-wt-preis)
 
@@ -1914,7 +1914,7 @@ Die Tarifbestimmungen und weitere ausführliche Informationen finden Sie unter
 
 [Weitere Informationen zum AzubiAbo Westfalen](https://www.bahn.de/angebot/verbuende/azubi-abo-westfalen)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/azubi-abo-wt-tarifbestimmungen)
 
@@ -1925,7 +1925,7 @@ Sie können mit Bus und Bahn in der 2. Klasse im im gesamten Westfalen-Tarif-Ra
 
 [Weitere Informationen zum AzubiAbo Westfalen](https://www.bahn.de/angebot/verbuende/azubi-abo-westfalen)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/azubi-abo-wt-verkehrsmittel)
 
@@ -1936,7 +1936,7 @@ Bahn.business- Kund:innen mit einem Flexpreis oder Flexpreis Business Ticket erh
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahn-business-city-ticket)
 
@@ -1961,7 +1961,7 @@ Ja. Eine bereits vorhandene BahnCard 1. Klasse ist bei der Buchung eines Upgrad
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-bundeswehr-dienstantrittsreisen)
 
@@ -1972,7 +1972,7 @@ BahnCard 100 holders receive a free digital Deutschlandticket for their plastic 
 
 * [Overview of all participating cities (in German)](https://www.bahn.de/faq/pk/angebot/an-und-weiterreise/cityticket)
 
-[Book now Book now](https://www.bahn.de/buchung/intern/start)
+[Book now](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-city-ticket-en)
 
@@ -2020,7 +2020,7 @@ Ja. Mit den Angeboten Einzelkarte BahnCard 1. Kl. und 2. Kl., Einzelkarte Kind B
 
 [Weitere Informationen zu Tickets im sh-Tarif](https://www.bahn.de/angebot/verbuende/sh-tarif)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-ermaessigung-sh-tarif)
 
@@ -2089,7 +2089,7 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis)
 
@@ -2103,7 +2103,7 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-europa)
 
@@ -2116,7 +2116,7 @@ Ja. Mit der BahnCard 25 erhältst du 25 % und mit der BahnCard 50 erhältst du 5
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-young)
 
@@ -2147,7 +2147,7 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-normalpreis)
 
@@ -2158,7 +2158,7 @@ Nein, es gibt keinen Rabatt auf den Normalpreis Europa.
 
 [Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-normalpreis-europa)
 
@@ -2202,7 +2202,7 @@ Nein, Sie bekommen keinen BahnCard-Rabatt bei einer Buchung der Gruppenangebote.
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-sparpreis-gruppe)
 
@@ -2229,7 +2229,7 @@ Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewä
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-super-sparpreis-gruppe)
 
@@ -2401,7 +2401,7 @@ Ja. Mit einer BahnCard 25/50/100 erhalten Sie auf grenzüberschreitenden Verbind
 
 [Weitere Informationen zum kroatischen Nachtzug](https://www.bahn.de/angebot/international/hzpp-kroatischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-kroatischer-nachtzug)
 
@@ -2412,7 +2412,7 @@ Ja. Mit einer BahnCard erhalten Sie auf grenzüberschreitenden Verbindungen mit 
 
 [Weitere Informationen zum polnischen Nachtzug](https://www.bahn.de/angebot/international/pkp-polnischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-polnischer-nachtzug-de)
 
@@ -2423,7 +2423,7 @@ Sie erhalten keinen BahnCard-Rabatt.
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-rabatt-db-pep)
 
@@ -2471,7 +2471,7 @@ Beförderungsbedingungen und Tarifbestimmungen können Sie hier downloaden.
 
 [Weitere Informationen zu Tickets im Move-Tarif](https://www.bahn.de/angebot/verbuende/move)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbed-move)
 
@@ -2484,7 +2484,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des AV
 
 [Weitere Informationen zu Tickets im AVV Augsburg](https://www.bahn.de/angebot/verbuende/avv-augsburg)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-avv-augsburg)
 
@@ -2497,7 +2497,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des bo
 
 [Weitere Informationen zu Tickets im bodo](https://www.bahn.de/angebot/verbuende/bodo)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-bodo)
 
@@ -2510,7 +2510,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website im Dow
 
 [Weitere Informationen zu Tickets im ÜSTRA/GVH Verkehrsverbund](https://www.bahn.de/angebot/verbuende/gvh)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-gvh)
 
@@ -2523,7 +2523,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des HN
 
 [Weitere Informationen zu Tickets im HNV](https://www.bahn.de/angebot/verbuende/hnv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-hnv)
 
@@ -2536,7 +2536,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des hv
 
 [Weitere Informationen zu Tickets im hvv](https://www.bahn.de/angebot/verbuende/hvv)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/hvv-tickets-wo-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/hvv-tickets-wo-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-hvv)
 
@@ -2549,7 +2549,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des KV
 
 [Weitere Informationen zu Tickets im KVSH](https://www.bahn.de/angebot/verbuende/kvsh)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-kvsh)
 
@@ -2562,7 +2562,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des KV
 
 [Weitere Informationen zu Tickets im KVV](https://www.bahn.de/angebot/verbuende/kvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-kvv)
 
@@ -2575,7 +2575,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des ma
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-marego)
 
@@ -2588,7 +2588,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des MD
 
 [Weitere Informationen zu Tickets im MDV](https://www.bahn.de/angebot/verbuende/mdv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-mdv)
 
@@ -2601,7 +2601,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Website des MV
 
 [Weitere Informationen zu Tickets im MVV](https://www.bahn.de/angebot/verbuende/mvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-mvv)
 
@@ -2614,7 +2614,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Webseite des N
 
 [Weitere Informationen zu Tickets im NVV](https://www.bahn.de/angebot/verbuende/nvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-nvv)
 
@@ -2627,7 +2627,7 @@ Tarifbestimmungen und Beförderungsbedingungen finden Sie auf der Webseite des O
 
 [Weitere Informationen zu Tickets im OAM](https://www.bahn.de/angebot/verbuende/oam)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-oam)
 
@@ -2640,7 +2640,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des RMV.
 
 [Weitere Informationen zu Tickets im RMV](https://www.bahn.de/angebot/verbuende/rmv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-rmv)
 
@@ -2653,7 +2653,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des RNN.
 
 [Weitere Informationen zu Tickets im RNN](https://www.bahn.de/angebot/verbuende/rnn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-rnn)
 
@@ -2666,7 +2666,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des RVF im Downl
 
 [Weitere Informationen zu Tickets im RVF](https://www.bahn.de/angebot/verbuende/rvf)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-rvf)
 
@@ -2679,7 +2679,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des RVL im Downl
 
 [Weitere Informationen zu Tickets im RVL](https://www.bahn.de/angebot/verbuende/rvl)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-rvl)
 
@@ -2692,7 +2692,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des saarVV im Do
 
 [Weitere Informationen zu Tickets im saarVV](https://www.bahn.de/angebot/verbuende/saarvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-saarvv)
 
@@ -2705,7 +2705,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des NAH.SH im Do
 
 [Weitere Informationen zu Tickets im SH-Tarif](https://www.bahn.de/angebot/verbuende/sh-tarif)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-sh-tarif)
 
@@ -2718,7 +2718,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite der SVG.
 
 [Weitere Informationen zu Tickets im SVG](https://www.bahn.de/angebot/verbuende/svg)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-svg)
 
@@ -2731,7 +2731,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des WestfalenTar
 
 [Weitere Informationen zu Tickets im WestfalenTarif](https://www.bahn.de/angebot/verbuende/westfalentarif)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-tarifbestimmungen-westfalentarif)
 
@@ -2744,7 +2744,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des WTV.
 
 [Weitere Informationen zu Tickets im WTV](https://www.bahn.de/angebot/verbuende/wtv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-tarifbestimmungen-wtv)
 
@@ -2757,7 +2757,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des TGO im D
 
 [Weitere Informationen zu Tickets im TGO](https://www.bahn.de/angebot/verbuende/tgo)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-tgo)
 
@@ -2770,7 +2770,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite der VAB im D
 
 [Weitere Informationen zu Tickets im VAB](https://www.bahn.de/angebot/verbuende/vab)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vab)
 
@@ -2783,7 +2783,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VBB.
 
 [Weitere Informationen zu Tickets im VBB](https://www.bahn.de/angebot/verbuende/vbb)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vbb)
 
@@ -2796,7 +2796,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VBN.
 
 [Weitere Informationen zu Tickets im VBN](https://www.bahn.de/angebot/verbuende/vbn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vbn)
 
@@ -2809,7 +2809,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite der VGC.
 
 [Weitere Informationen zu Tickets im VGC](https://www.bahn.de/angebot/verbuende/vgc)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vgc)
 
@@ -2822,7 +2822,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite der vgf im D
 
 [Weitere Informationen zu Tickets im vgf](https://www.bahn.de/angebot/verbuende/vgf)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vgf)
 
@@ -2835,7 +2835,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VGN.
 
 [Weitere Informationen zu Tickets im VGN](https://www.bahn.de/angebot/verbuende/vgn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vgn)
 
@@ -2848,7 +2848,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VMS im D
 
 [Weitere Informationen zu Tickets im VMS](https://www.bahn.de/angebot/verbuende/vms)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vms)
 
@@ -2861,7 +2861,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VMT.
 
 [Weitere Informationen zu Tickets im VMT](https://www.bahn.de/angebot/verbuende/vmt)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vmt)
 
@@ -2874,7 +2874,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VPE im D
 
 [Weitere Informationen zu Tickets im VPE](https://www.bahn.de/angebot/verbuende/vpe)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vpe)
 
@@ -2887,7 +2887,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VRB im D
 
 [Weitere Informationen zu Tickets im VRB](https://www.bahn.de/angebot/verbuende/vrb)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vrb)
 
@@ -2900,7 +2900,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VRM.
 
 [Weitere Informationen zu Tickets im VRM](https://www.bahn.de/angebot/verbuende/vrm)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vrm)
 
@@ -2913,7 +2913,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VRN.
 
 [Weitere Informationen zu Tickets im VRN](https://www.bahn.de/angebot/verbuende/vrn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vrn)
 
@@ -2926,7 +2926,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VRR im D
 
 [Weitere Informationen zu Tickets im VRR](https://www.bahn.de/angebot/verbuende/vrr)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vrr)
 
@@ -2939,7 +2939,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VRT.
 
 [Weitere Informationen zu Tickets im VRT](https://www.bahn.de/angebot/verbuende/vrt)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vrt)
 
@@ -2952,7 +2952,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VSN.
 
 [Weitere Informationen zu Tickets im VSN](https://www.bahn.de/angebot/verbuende/vsn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vsn)
 
@@ -2965,7 +2965,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VVO.
 
 [Weitere Informationen zu Tickets im VVO](https://www.bahn.de/angebot/verbuende/vvo)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vvo)
 
@@ -2979,7 +2979,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VVS.
 
 [Weitere Informationen zu Tickets im VVS](https://www.bahn.de/angebot/verbuende/vvs)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vvs)
 
@@ -2992,7 +2992,7 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des VVW.
 
 [Weitere Informationen zu Tickets im VVS](https://www.bahn.de/angebot/verbuende/vvs)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-vvw)
 
@@ -3005,7 +3005,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des ZVON.
 
 [Weitere Informationen zu Tickets im ZVON](https://www.bahn.de/angebot/verbuende/zvon)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-zvon)
 
@@ -3105,7 +3105,7 @@ Ja. Das Angebot richtet sich an Bahnreisende. Für den Versand von Reisegepäck 
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/berechtigung-db-pep)
 
@@ -3187,7 +3187,7 @@ Weitere Informationen zu den Betriebszeiten der Bergbahnen finden Sie auf der We
 
 [Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betriebszeiten-bergbahnen)
 
@@ -3218,7 +3218,7 @@ Wir empfehlen Ihnen, dafür eine neue/andere E-Mail-Adresse zu nutzen und die 2-
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betrugsverdacht-schutz)
 
- Bis wann kann ich die Umpersonalisierung vornehmen?
+ Bis wann kann ich die Umpersonalisierung bei Gruppentickets vornehmen?
 ----------
 
 Eine „Umpersonalisierung“ können Sie bis kurz vor Reisebeginn erwerben.
@@ -3236,7 +3236,7 @@ Sie bekommen die meisten bodo-Angebote als Handy-Ticket in der App DB Navigator 
 
 [Weitere Informationen zu Tickets im bodo](https://www.bahn.de/angebot/verbuende/bodo)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodo-tickets-wo-kaufen)
 
@@ -3256,7 +3256,7 @@ Sollte die Buchung eines Bundeswehr-Tickets aus technischen Gründen nicht mögl
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-bundeswehr-ticket)
 
@@ -3267,7 +3267,7 @@ Bei Flexpreisen wird das City-Ticket kostenlos hinzugegeben und das sogar ab dem
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-city-ticket-flexpreis)
 
@@ -3285,7 +3285,7 @@ Wenn hingegen laut Buchungsanfrage ausschließlich Züge des DB Fernverkehrs ben
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-city-ticket-sp-ssp)
 
@@ -3302,7 +3302,7 @@ Darüber hinaus ist der Flexpreis Young auch in den DB Reisezentren sowie in aus
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-flexpreis-young)
 
@@ -3320,7 +3320,7 @@ Die Kontaktdaten des Abo-Centers für Fernverkehrsbuchungen finden Sie unter ba
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-ic-ec-abo)
 
@@ -3365,7 +3365,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-sparpreis-gruppe)
 
@@ -3402,7 +3402,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-super-sparpreis-gruppe)
 
@@ -3413,7 +3413,7 @@ Sie können den Super Sparpreis Last Minute vom 9. Mai bis 13. September 2026 an
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchungszeitraum-sparpreis-last-minute)
 
@@ -3454,7 +3454,7 @@ No, the BahnCard discount is only granted on the price of the long-distance jour
 
 The City-Ticket is included free of charge in the flexible fare. DB bears the costs for this.
 
-[Book now Book now](https://www.bahn.de/buchung/intern/start)
+[Book now](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-bahncard-rabatt-en)
 
@@ -3467,7 +3467,7 @@ In den Flexpreisen wird das City-Ticket kostenlos hinzugegeben. Hier übernimmt 
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-bc-rabatt)
 
@@ -3478,7 +3478,7 @@ Das City-Ticket ist **nicht enthalten**. Für Ihre Weiterfahrt im öffentliche
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-bundeswehr-ticket)
 
@@ -3489,7 +3489,7 @@ Ja. In **130 Städten** ist für Sie das **City-Ticket kostenfrei** enthalten. 
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-flexpreis)
 
@@ -3500,7 +3500,7 @@ Ja, **in 140 Städten ist das City-Ticket kostenfrei enthalten**. Ob dein Start-
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-flexpreis-young)
 
@@ -3518,7 +3518,7 @@ Wenn hingegen laut Buchungsanfrage ausschließlich Züge des Fernverkehrs (ICE, 
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-hinzubuchen-abwaehlen)
 
@@ -3534,7 +3534,7 @@ When booking a saver or super saver fare, the City-Ticket is issued for a fee at
 
 If you indicate in your booking enquiry that you only need DB long-distance trains (ICE, IC, EC, e.g. from Cologne Main Station to Frankfurt Central) and do not require a transfer within the City-Ticket area using local transport, the ticket will be issued without a City-Ticket.
 
-[Book now Book now](https://www.bahn.de/buchung/intern/start)
+[Book now](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-hinzubuchen-en)
 
@@ -3547,7 +3547,7 @@ Beim Flexpreis gibt es das City-Ticket auch für mitreisende und Alleinreisende 
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-kinder)
 
@@ -3558,7 +3558,7 @@ When travelling to and from the destination on public transport with the City-Ti
 
 If you have booked a flexible fare, the City-Ticket is also available free of charge for accompanying children and children travelling alone.
 
-[Book now Book now](https://www.bahn.de/buchung/intern/start)
+[Book now](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-kindermitnahme-en)
 
@@ -3571,7 +3571,7 @@ Nein, das City-Ticket ist nicht für einen Kurzstreckenfahrt erhältlich. Das Ci
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-kurzstrecke)
 
@@ -3584,7 +3584,7 @@ Auf dem Fahrschein eingetragene Kinder im Alter von 6 bis 14 Jahren zahlen im Sp
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-mitfahrer)
 
@@ -3599,7 +3599,7 @@ Beim Flexpreis wird das City-Ticket durch die DB kostenlos hinzugegeben.
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-preis)
 
@@ -3694,7 +3694,7 @@ Ausgenommen ist hiervon das selbst erworbene 1. Klasse Upgrade. Mit diesem haben
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-lounge-bundeswehr-dienstantrittsreisen)
 
@@ -3734,7 +3734,7 @@ Bitte beachten Sie: Fahren Sie ab Januar 2026 ohne gültiges Ticket, müssen Sie
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-kuendigung)
 
@@ -3753,7 +3753,7 @@ Haben Sie Ihr Ticket ab dem 15. Oktober 2025 bestellt? Dann haben wir Sie schon 
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung-verpasst)
 
@@ -3768,7 +3768,7 @@ Beachten Sie die tarifliche Kündigungsfrist: Ein Deutschland-Ticket-Abonnement 
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung-zurueckziehen)
 
@@ -3933,7 +3933,7 @@ Nein, mit Ihrer BahnCard erhalten Sie keinen Rabatt auf das Deutschland-Ticket.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-card)
 
@@ -4141,7 +4141,7 @@ Bei einem Kauf innerhalb des Monats, gilt es ab dem Zeitpunkt, zu dem Sie durch 
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-gueltig-ab-wann)
 
@@ -4152,7 +4152,7 @@ Das Deutschland-Ticket ist ein Abonnment, das für unbestimmte Zeit abgeschlosse
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-gueltig-wie-lange)
 
@@ -4198,7 +4198,7 @@ Bitte informieren Sie sich hierzu im Personalbereich Ihres Unternehmens.
 
 [Deutschland-Ticket als Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-jobticket)
 
@@ -4211,7 +4211,7 @@ Ja, Sie können die Broschüre "Deutschland-Ticket als Jobticket" hier herunterl
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-jobticket-flyer)
 
@@ -4228,7 +4228,7 @@ Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen,
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
 
@@ -4295,7 +4295,7 @@ Die genauen Konditionen für Ihr Deutschland-Ticket finden Sie in den jeweiligen
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-konditionen)
 
@@ -4329,7 +4329,7 @@ Ja. Sie können mehrere Deutschland-Tickets in die DB Navigator App laden. Wenn 
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-mehrere-tickets-app)
 
@@ -4351,7 +4351,7 @@ Nein. Sie können das Deutschland-Ticket nur im Abonnement kaufen.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte)
 
@@ -4381,7 +4381,7 @@ Das Deutschland-Ticket kostet **63 Euro pro Monat**.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
 
@@ -4443,7 +4443,7 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-ausland)
 
@@ -4457,7 +4457,7 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
@@ -4476,7 +4476,7 @@ Bitte beachten Sie, dass das Abonnement bis zur Kündigung weiterläuft.
 
 [Deutschland-Ticket direkt buchen](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verschenken)
 
@@ -4547,7 +4547,7 @@ Sie können Ihr Deutschland-Ticket innerhalb der geltenden Kündigungsfristen se
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-wechsel)
 
@@ -4706,7 +4706,7 @@ Die Tarifinforrmationen zum Gemeinschaftstarif finden Sie auf der Webseite des D
 
 [Weitere Informationen zu Tickets des Verkehrsverbundes DING](https://www.bahn.de/angebot/verbuende/ding)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ding-gemeinschaftstarif)
 
@@ -4720,7 +4720,7 @@ Hierzu gibt es verschiedene Möglichkeiten:
 
 [Weitere Informationen zu Tickets des Verkehrsverbundes DING](https://www.bahn.de/angebot/verbuende/ding)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ding-kaufbeleg)
 
@@ -4776,7 +4776,7 @@ Hierzu gibt es verschiedene Möglichkeiten:
 
 [Weitere Informationen zu Tickets des Verkehrsverbundes DING](https://www.bahn.de/angebot/verbuende/ding)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ding-tickets)
 
@@ -4789,7 +4789,7 @@ Den Liniennetzplan und die Tarifzonen finden Sie auf der Webseite des DING.
 
 [Weitere Informationen zu Tickets des Verkehrsverbundes DING](https://www.bahn.de/angebot/verbuende/ding)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ding-verbundgebiet)
 
@@ -4891,7 +4891,7 @@ Ein automatischer Umtausch in ein ermäßigtes Jobticket ist leider nicht mögli
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-abo-vorhanden)
 
@@ -4903,7 +4903,7 @@ Mit der Bestellung des Deutschland-Ticket Jobticket wird der DB Vertrieb GmbH ei
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-bezahlen)
 
@@ -4921,7 +4921,7 @@ Bietet Ihr Arbeitgeber das Deutschland-Ticket Jobticket eines Verkehrsverbundes 
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-buchen)
 
@@ -4936,7 +4936,7 @@ Dann nutzen Sie einfach unser Online-Formular:
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-buchen-rahmenvertrag)
 
@@ -4951,7 +4951,7 @@ Dann nutzen Sie einfach unser Online-Formular für eine unverbindliche Anfrage:
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-buchen-rahmenvertrag-mvv)
 
@@ -4964,7 +4964,7 @@ Schreiben Sie bitte an folgende E-Mail-Adresse:
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-buchen-rahmenvertrag-westfalentarif)
 
@@ -4980,7 +4980,7 @@ Das Deutschland-Ticket Jobticket wird nur zum Zweck der Ausgabe an Mitarbeitende
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-definition-was)
 
@@ -5005,7 +5005,7 @@ Bitte beachten Sie: Aus Sicherheitsgründen ist die Übertragung Ihres Handytic
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-handy-uebertragbar)
 
@@ -5020,7 +5020,7 @@ Bitte beachten Sie: Im **Deutschlandtarif** werden nur **digitale Tickets** ausg
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-konditionen)
 
@@ -5033,7 +5033,7 @@ Sie können das Deutschland-Ticket Jobticket bis zum 10. des laufenden Monats zu
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-kuendigen)
 
@@ -5051,7 +5051,7 @@ Ansonsten lesen Sie hier, was Sie tun können, um das Angebot **2026** weiter 
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-neuer-preis)
 
@@ -5068,7 +5068,7 @@ Das Deutschland-Ticket Jobticket kostet für Mitarbeitende unter den gegenwärt
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-preis)
 
@@ -5083,7 +5083,7 @@ Das Deutschland-Ticket Jobticket kostet für Mitarbeitende unter den gegenwärt
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-umtausch-verbund-abo)
 
@@ -5094,7 +5094,7 @@ Deutschland-Ticket Jobtickets sind für Mitarbeitende von Arbeitgebenden gedacht
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-unterschied)
 
@@ -5105,7 +5105,7 @@ Sie können den kompletten öffentlichen Personennahverkehr innerhalb Deutschlan
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-verkehrsmittel)
 
@@ -5120,7 +5120,7 @@ Bitte beachten Sie, dass das Deutschland-Ticket Jobticket namentlich auf die Mit
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-wer-kann-nutzen)
 
@@ -5131,7 +5131,7 @@ Sie werden am Ende der Buchung aufgefordert, den Aktionsgutscheincode (16-stelli
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einloesung-gutschein-bundeswehr-dienstantrittsreisen)
 
@@ -5178,7 +5178,7 @@ Eine "Einzelfahrt ermäßigt" bzw. eine "Tageskarte ermäßigt" gilt für 1 Kind
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einzelfahrschein-tageskarte-ermaessigt)
 
@@ -5189,7 +5189,7 @@ Ja, Sie können für alle drei Kategorien, Sitz-, Liege- und Schlafwagen, Einzel
 
 [Weitere Informationen zum kroatischen Nachtzug](https://www.bahn.de/angebot/international/hzpp-kroatischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einzelplatz-mehrbett-abteil-kroatischer-nachtzug)
 
@@ -5200,7 +5200,7 @@ Ja, Sie können für alle drei Kategorien, Sitz-, Liege- und Schlafwagen, Einzel
 
 [Weitere Informationen zum ÖBB Nightjet](https://www.bahn.de/angebot/international/oebb-nightjet)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einzelplatz-mehrbett-abteil-oebb-nightjet)
 
@@ -5211,7 +5211,7 @@ Ja, Sie können im Liege- und Schlafwagen, Einzelplätze buchen. Dabei teilen Si
 
 [Weitere Informationen zum polnischen Nachtzug](https://www.bahn.de/angebot/international/pkp-polnischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einzelplatz-mehrbett-abteil-polnischer-nachtzug)
 
@@ -5222,7 +5222,7 @@ Ja. Im Liegewagen und in den Schlafwagen-Abteilarten Triple und Double können S
 
 [Weitere Informationen zum ungarischen Nachtzug](https://www.bahn.de/angebot/international/mav-ungarischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einzelplatz-mehrbett-abteil-ungarischer-nachtzug)
 
@@ -5236,7 +5236,7 @@ Ja. Im Liegewagen und in den Schlafwagen-Abteilarten Triple und Double können S
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/enthaltene-leistung-bundeswehr-dienstantrittsreisen)
 
@@ -5277,7 +5277,7 @@ The City-Ticket is included free of charge for flexible fare bookings, even from
 
 * [City-Ticket](https://www.bahn.de/faq/pk/angebot/an-und-weiterreise/cityticket)
 
-[Book now Book now](https://www.bahn.de/buchung/intern/start)
+[Book now](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erklaerung-city-ticket-flexpreis-en)
 
@@ -5293,7 +5293,7 @@ When booking a saver fare or super saver fare, the City-Ticket will be available
 
 If you indicate in your booking enquiry that you only need DB long-distance trains (e.g. from Cologne Main Station to Berlin Central) and do not require a transfer within the City-Ticket area using local transport, the ticket will be issued without a City-Ticket.
 
-[Book now Book now](https://www.bahn.de/buchung/intern/start)
+[Book now](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erklaerung-city-ticket-sspsp-en)
 
@@ -5314,7 +5314,7 @@ If you indicate in your booking enquiry that you only need DB long-distance trai
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ersatzanspruch-erstattungsfaehige-fahrkarten)
 
@@ -5335,7 +5335,7 @@ If you indicate in your booking enquiry that you only need DB long-distance trai
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ersatzanspruch-nicht-erstattungsfaehige-fahrkarten)
 
@@ -5350,7 +5350,7 @@ Sollten Sie sich ein Upgrade für die 1. Klasse gekauft haben, können Sie hierf
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrgastrechte-bundeswehr-dienstantrittsreisen)
 
@@ -5361,7 +5361,7 @@ Der Reiseschutz beginnt beim Fahrkarten-Schutz mit dem vereinbarten Vertragsbegi
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-beginn-reiseschutz)
 
@@ -5372,7 +5372,7 @@ Nein, es gibt keine Selbstbeteiligung.
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-selbstbeteiligung)
 
@@ -5383,7 +5383,7 @@ Fahrkartenpreise bis maximal 1.500 Euro sind abgesichert.
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-versicherungsbetrag)
 
@@ -5432,7 +5432,7 @@ Fahrkartenpreise bis maximal 1.500 Euro sind abgesichert.
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-versicherungspraemie)
 
@@ -5443,7 +5443,7 @@ Als Gründe gelten unter anderem unerwartete schwere Erkrankung, schwerer Unfall
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-welche-gruende-versichert)
 
@@ -5510,7 +5510,7 @@ Nein, für die Mitnahme von Fahrrädern brauchen Sie eine Fahrradtageskarte oder
 
 [Infos und Buchung 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-mitnehmen-24h-ticket-nrw)
 
@@ -5544,7 +5544,7 @@ Für die Mitnahme von Fahrrädern brauchen Sie eine Fahrradtageskarte pro Fahrra
 
 [Weitere Informationen zum Schleswig-Holstein-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/schleswig-holstein-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-mitnehmen-schleswig-holstein-ticket)
 
@@ -5567,7 +5567,7 @@ Bitte kaufen Sie Ihre Fahrkarte (für Sie als Person) für den Nahverkehr separ
 
 [Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradkarte-fuer-den-nahverkehr-zusammen-mit-fahrkarte-buchen)
 
@@ -5615,7 +5615,7 @@ Bitte kontaktieren Sie uns über das Kontaktformular auf [www.jobticket-bahn.de]
 
 [Jetzt buchen](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ferien-ticket-nrw)
 
@@ -5672,7 +5672,7 @@ Reiseschutz besteht für alle Bahn- und Busreisen innerhalb Deutschlands, für d
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-fahrten-gilt-der-reiseschutz)
 
@@ -5692,7 +5692,7 @@ Für alle anderen Gruppenreisen ins Ausland ab 6 Personen gilt das Angebot Spar
 
 [Weitere Informationen zu Gruppe&Spar Europa](https://www.bahn.de/angebot/gruppen/gruppe-spar-europa)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
+[Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-reisen-gilt-das-angebot-gruppeundspar-europa)
 
@@ -5712,7 +5712,7 @@ Sie können auf Ihrer Verbindung von montags bis freitags einen Platz reserviere
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-tage-kann-ich-im-nahverkehr-eine-dauer-reservierung-buchen)
 
@@ -5752,7 +5752,7 @@ Dies ist abhängig von der jeweiligen Zugverbindung. Auf einigen Zügen ist das 
 
 [Weitere Informationen zu den IC und ICE Nachtverbindungen](https://www.bahn.de/angebot/international/ic-ice)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gastronomisches-angebot-nachtverbindung-ic-ice)
 
@@ -5769,7 +5769,7 @@ Beispiel: Ein Reisender mit Wohnsitz in den Niederlanden bucht einen Interrail S
 
 [Weitere Informationen zum One Country Pass](https://www.bahn.de/angebot/international/one-country-pass)
 
-[One Country Pass auswählen One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
+[One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/geltungsbereich)
 
@@ -5782,7 +5782,7 @@ Die Geltungsbereiche des City-Tickets finden Sie unter:
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/geltunsgbereiche-city-ticket)
 
@@ -5802,7 +5802,7 @@ Ja, Zeitkarten der DB und des Deutschlandtarifs werden auch als Jobtickets angeb
 
 [Weitere Informationen über das Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-abos-auch-als-jobtikets)
 
@@ -5825,7 +5825,7 @@ Ja. In der 1. Klasse zahlen Einzelreisende für das Südostbayern-Ticket **40 E
 
 [Weitere Informationen zum Südostbayern-Ticket](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-das-suedostbayern-ticket-auch-fuer-die-1klasse)
 
@@ -5851,7 +5851,7 @@ Ja. Mit dem **Quer-durchs-Land-Ticket** können Sie allein oder in der Gruppe bi
 
 [Weitere Informationen zum Quer-Durchs-Land-Ticket](https://www.bahn.de/angebot/regio/quer-durchs-land-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-ein-ticket-mit-dem-ich-deutschlandweit-fahren-kann)
 
@@ -5931,7 +5931,7 @@ Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfr
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-fuer-kostenlos-mitreiseisende-kinder-kostenfreie-sitzplatzreservierungen)
 
@@ -5949,7 +5949,7 @@ Es gilt eine Zugbindung für die gebuchten Fernverkehrszüge (ICE, IC/EC) innerh
 
 [Weitere Informationen zu Gruppe&Spar Europa](https://www.bahn.de/angebot/gruppen/gruppe-spar-europa)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
+[Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gilt-die-zugbindung-fuers-gruppeundspar-europa-angebot)
 
@@ -5983,7 +5983,7 @@ Wenn Ihre Hin- und Rückfahrt mehr als 2 Tage auseinander liegen, erhalten Sie f
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit--flexpreis-europa)
 
@@ -5994,7 +5994,7 @@ Das Ticket zur Dienstantrittsreise hat im Fernverkehr eine Gültigkeit von 5 Tag
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-bundeswehr-dienstantrittsreisen)
 
@@ -6009,7 +6009,7 @@ Das City-Ticket gilt im Geltungsbereich der teilnehmenden rund 140 Städte.
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-city-ticket)
 
@@ -6023,7 +6023,7 @@ Das City-Ticket gilt im Geltungsbereich der teilnehmenden rund 140 Städte.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-einfache-fahrt-flexpreis)
 
@@ -6040,7 +6040,7 @@ Das City-Ticket gilt im Geltungsbereich der teilnehmenden rund 140 Städte.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-hin-und-rueckfahrt-fahrt-flexpreis)
 
@@ -6051,7 +6051,7 @@ Eine **Normalpreis Europa Fahrkarte** gilt an dem auf der Fahrkarte vermerkten
 
 [Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-normalpreis-europa)
 
@@ -6064,7 +6064,7 @@ Eine **Normalpreis Europa Fahrkarte** gilt an dem auf der Fahrkarte vermerkten
 
 [Weitere Informationen zu Wochen- und Monatskarten für Schüler:innen](https://www.bahn.de/angebot/pendler/schuelerzeitkarten)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeit-schuelerzeitkarte)
 
@@ -6097,7 +6097,7 @@ Sie erhalten die meisten Verbund-Angebote online und in unserer App.
 
 [Weitere Informationen zu Tickets im ÜSTRA/GVH Verkehrsverbund](https://www.bahn.de/angebot/verbuende/gvh)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gvh-tickets-wo-kaufen)
 
@@ -6112,7 +6112,7 @@ Bitte informieren Sie sich auch rechtzeitig vor Antritt Ihrer Reise zu mögliche
 
 [Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/habe-ich-fuer-mein-fahrrad-eine-mitnahmegarantie-im-nahverkehr)
 
@@ -6230,7 +6230,7 @@ Sie können das Hessenticket als **RMV-Verbundangebot** über bahn.de und in der
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hessenticket-kauf)
 
@@ -6241,7 +6241,7 @@ Nein, der Aktionsgutscheincode gilt nur für die einfache Fahrt. Für die Rückf
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hin-rueckfahrt-bundeswehr-dienstantrittsreisen)
 
@@ -6258,7 +6258,7 @@ Sie erhalten die meisten HNV-Angebote als Online- bzw. Handy-Ticket in der App.�
 
 [Weitere Informationen zu Tickets im HNV](https://www.bahn.de/angebot/verbuende/hnv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hnv-tickets-wo-kaufen)
 
@@ -6275,7 +6275,7 @@ Sie erhalten die meisten htv-Angebote als Online- bzw. Handy-Ticket. Dazu gehör
 
 [Weitere Informationen zu Tickets im htv](https://www.bahn.de/angebot/verbuende/htv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/htv-tickets-wo-kaufen)
 
@@ -6286,7 +6286,7 @@ Ja, allerdings ist Mitnahme in allen Komfortklassen nur bei Buchung eines Abteil
 
 [Weitere Informationen zum kroatischen Nachtzug](https://www.bahn.de/angebot/international/hzpp-kroatischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hund-kroatischer-nachtzug)
 
@@ -6297,7 +6297,7 @@ Nein. Hunde sind in diesem Nachtzug nicht zugelassen. Lediglich Blindenführhund
 
 [Weitere Informationen zum polnischen Nachtzug](https://www.bahn.de/angebot/international/pkp-polnischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hund-polnischer-nachtzug)
 
@@ -6308,7 +6308,7 @@ Nein. Hunde sind in MAV-START Nachtzügen nicht zugelassen. Lediglich Blindenfü
 
 [Weitere Informationen zum ungarischen Nachtzug](https://www.bahn.de/angebot/international/mav-ungarischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hund-ungarischer-nachtzug)
 
@@ -6466,7 +6466,7 @@ Bei Verbindungen mit Umstieg werden die Reservierungen für die aufeinanderfolge
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-eine-nahverkehrs-verbindung-mit-umsteigen-wie-kann-ich-mir-dauerhaft-einen-sitzplatz-reservieren)
 
@@ -6615,7 +6615,7 @@ Haben Sie die Möglichkeit, einen Zug früher oder später zu fahren? Dann reser
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-moechte-einen-sitzplatz-buchen-es-sind-aber-schon-alle-belegt-was-mache-ich)
 
@@ -6643,7 +6643,7 @@ Reisende mit DB Gepäckservice-Aufträgen, die bis einschließlich 17. Februar 2
 
 [Weitere Informationen zur Hundemitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-moechte-meinen-hund-im-nahverkehr-mitnehmen)
 
@@ -6701,7 +6701,7 @@ Bitte beachten Sie, dass Sie für die Reservierung eines Platzes in der 1. Klass
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-regionalzuegen-kann-ich-einen-dauer-sitzplatz-reservieren)
 
@@ -6720,7 +6720,7 @@ Die Tickets gelten in allen Verkehrsmitteln des öffentlichen Nahverkehrs in der
 
 [Weitere Informationen zum EgroNet-Ticket Bayern](https://www.bahn.de/angebot/regio/bayern/egronet-ticket-bayern)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-verkehrsmitteln-gelten-die-tickets)
 
@@ -6744,7 +6744,7 @@ Die Tickets gelten in allen Verkehrsmitteln des öffentlichen Nahverkehrs in der
 
 [Weitere Informationen zum Prag Spezial](https://www.bahn.de/angebot/regio/bayern/prag-spezial)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?ZO=Prag&VM=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?ZO=Prag&VM=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-zuegen-gilt-das-ticket-prag-spezial)
 
@@ -6788,7 +6788,7 @@ Ja, der Flexpreis Europa ist auch für internationale Verbindungen buchbar.
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis)
 
@@ -6799,7 +6799,7 @@ Nein, der Flexpreis Young gilt nur für Reisen innerhalb Deutschlands.
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis-young)
 
@@ -7226,7 +7226,7 @@ Sie können die IC und ICE Nachtverbindungen auch mit dem Interrail Pass nutzen.
 
 [Weitere Informationen zu den IC und ICE Nachtverbindungen](https://www.bahn.de/angebot/international/ic-ice)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/interrail-ticket-nachtverbindung-ic-ice)
 
@@ -7346,7 +7346,7 @@ Nein, das Deutschland-Ticket ist bei Abos nicht inklusive.
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-das-deutschland-ticket-bei-abos-inklusive)
 
@@ -7360,7 +7360,7 @@ Weitere Personen dürfen nicht mit dem Ticket mitgenommen werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-das-ticket-uebertragbar)
 
- Ist die Umpersonalisierung erstattbar?
+ Ist die Umpersonalisierung bei Gruppentickets erstattbar?
 ----------
 
 Die Umpersonalisierung ist nicht erstattbar.
@@ -7374,7 +7374,7 @@ Ja, das geht. Nutzen Sie dafür entweder die App DB Navigator oder besuchen Sie 
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-eine-buchung-einer-sitzplatzreservierung-nachtraeglich-moeglich)
 
@@ -7403,7 +7403,7 @@ Für den **Fernverkehr** (ICE, IC/EC) und **Nahverkehrsverbindungen** des Deutsc
 
 [Weitere Informationen zu Wochen- und Monatskarten](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-meine-zeitkarte-uebertragbar)
 
@@ -7430,7 +7430,7 @@ Bitte beachten Sie: Aus Sicherheitsgründen ist die Übertragung Ihres Handytic
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jobticket-auf-neues-handy-uebertragbar)
 
@@ -7447,7 +7447,7 @@ Sie sind **Arbeitnehmer:in** und haben Interesse an einem Jobticket? Dann wenden
 
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
-[Jetzt bestellen Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jobticket-kontakt)
 
@@ -7485,7 +7485,7 @@ Zur Einführung des JugendTicketBW werden ab 1. März 2023 alle bestehenden Abos
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-alter)
 
@@ -7498,7 +7498,7 @@ Studierende können das JugendticketBW vor Ende des 1. Vertragsjahres nur zum Se
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-kuendigung)
 
@@ -7509,7 +7509,7 @@ Nein. Das JugendticketBW beinhaltet keine Mitnahmeregelung.
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-mitnahme)
 
@@ -7520,7 +7520,7 @@ Nein, das JugendTicketBW ist ein persönliches Ticket, das nicht übertragen wer
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-uebertragbar)
 
@@ -7532,7 +7532,7 @@ In den vergangenen Monaten (bis Gültigkeitsbeginn 1. Februar) gekaufte VRN-Seme
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-vrn-anschluss-semester-ticket)
 
@@ -7543,7 +7543,7 @@ Das JugendticketBW gilt an allen Tagen rund um die Uhr.
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-wann-gilt)
 
@@ -7554,7 +7554,7 @@ Das JugendTicketBW ist ein Angebot für junge Menschen, damit sie preisgünstig 
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-was)
 
@@ -7566,7 +7566,7 @@ Das JugendTicketBW ist ein Angebot für junge Menschen, damit sie preisgünstig 
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-wer)
 
@@ -7579,7 +7579,7 @@ Das JugendTicketBW ist ein Angebot für junge Menschen, damit sie preisgünstig 
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-wo-gilt-welche-zuege)
 
@@ -7592,7 +7592,7 @@ Bei Schüler:innen ist stattdessen der **Standort der Schule** und bei Studieren
 
 [Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-wohnort)
 
@@ -7626,7 +7626,7 @@ Sie können einzelne Teilnehmer:innen bis 7 Tage vor Reiseantritt gegen ein Entg
 
 [Weitere Informationen zu Gruppe&Spar Europa](https://www.bahn.de/angebot/gruppen/gruppe-spar-europa)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
+[Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-das-gruppeundspar-europa-ticket-aendern-umbuchen-oder-stornieren)
 
@@ -7694,7 +7694,7 @@ Ja. Für die Mitnahme eines Fahrrads brauchen Sie eine Fahrradkarte.
 
 [Fahrradtageskarte Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ein-fahrrad-mitnehmen)
 
@@ -7719,7 +7719,7 @@ Mit Klick auf den nachfolgenden Button "Jetzt buchen" sind ein Hund und ein Erwa
 
 [Weitere Informationen zum Gruppenpreis Deutschlandtarif](https://www.bahn.de/angebot/gruppen/gruppenpreis-deutschlandtarif)
 
-[Zur Reiseauskunft Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
+[Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-eine-anzahlung-leisten)
 
@@ -7772,7 +7772,7 @@ am Assistenzhund sichtbar befestigt sein.
 
 [Weitere Informationen zur Hundemitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-einen-begleithund-und-eine-begleitperson-mitnehmen)
 
@@ -7792,7 +7792,7 @@ Nein, wir bieten keine Stellplatzreservierungen für Fahrräder im Nahverkehr an
 
 [Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-fuer-mein-fahrrad-im-nahverkehr-einen-stellplatz-reservieren)
 
@@ -7825,7 +7825,7 @@ Bis zu drei Kinder zwischen 6 bis 14 Jahren können pro Erwachsenem mitgenommen 
 
 [Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-kinder-kostenfrei-mitnehmen-garmisch-sommer)
 
@@ -7915,7 +7915,7 @@ Sie können Ihre Reservierung jederzeit eigenständig ändern. Melden Sie sich e
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-dauer-sitzplatzreservierung-aendern)
 
@@ -7967,7 +7967,7 @@ Ja, bei vielen ICE-Verbindungen können Sie Ihren Wunschplatz über die grafisch
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-sitzplaetze-gezielt-auswaehlen)
 
@@ -8059,7 +8059,7 @@ Ja, die BahnBonus Punkte werden Ihnen nach Kauf gutgeschrieben. Hierfür müssen
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-meinem-abo-bahnbonus-punkte-sammeln)
 
@@ -8112,7 +8112,7 @@ Nein, das Quer-durchs-Land-Ticket wird nur in der 2. Klasse angeboten. Ein Über
 
 [Weitere Informationen zum Quer-Durchs-Land-Ticket](https://www.bahn.de/angebot/regio/quer-durchs-land-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-zu-einem-quer-durchs-land-ticket-ein-1-klasse-upgrade-hinzubuchen)
 
@@ -8145,7 +8145,7 @@ Beachten Sie die allgemeinen Konditionen des Bayern-Tickets.
 
 [Bayern-Ticket Infos und Buchung](https://www.bahn.de/angebot/regio/laender-tickets/bayern-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-man-mit-dem-bayern-ticket-bis-salzburg-reisen)
 
@@ -8194,7 +8194,7 @@ Die E-Mail zur Übertragung wird an die E-Mail-Adresse der reisenden Person gese
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-bundeswehr-ticket)
 
@@ -8205,7 +8205,7 @@ Bis zu 4 Kinder im Alter von 6 bis 14 Jahren fahren in Begleitung von Reisenden 
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-db-pep)
 
@@ -8217,7 +8217,7 @@ Bis zu 4 Kinder im Alter von 6 bis 14 Jahren fahren in Begleitung von Reisenden 
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-flexpreis)
 
@@ -8229,7 +8229,7 @@ Bis zu 4 Kinder im Alter von 6 bis 14 Jahren fahren in Begleitung von Reisenden 
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-flexpreis-young)
 
@@ -8256,7 +8256,7 @@ Für Reisen nach Frankreich und in die Schweiz erhalten Kinder auf dem französi
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-kostenfrei-flexpreis-europa)
 
@@ -8268,7 +8268,7 @@ Für Reisen nach Frankreich und in die Schweiz erhalten Kinder auf dem französi
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-kostenfrei-hessenticket)
 
@@ -8322,7 +8322,7 @@ Ja. Bis zu 3 Kinder im Alter zwischen 6 Jahren bis einschließlich 14 Jahren sow
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-normalpreis)
 
@@ -8359,7 +8359,7 @@ Kinder bezahlen abhängig vom Land entweder ab 4 Jahren oder ab 6 Jahren einen
 
 [Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-normalpreis-europa)
 
@@ -8591,7 +8591,7 @@ Die Konditionen einzelner Länder können davon abweichen. Informationen dazu fi
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-sparpreis-gruppe)
 
@@ -8635,7 +8635,7 @@ Je nach Land gibt es ein bestimmtes Mindestalter für alleinreisende Kinder. Bit
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-super-sparpreis-gruppe)
 
@@ -8646,7 +8646,7 @@ Nein, eine Kindermitnahme ist bei Dienstantrittsreisen der Bundeswehr ausgeschlo
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kindermitnahme-bundeswehr-dienstantrittsreisen)
 
@@ -8657,7 +8657,7 @@ Nein, den Flexpreis Young gibt es nur für die 2. Klasse. Entsprechend ist ein U
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/klasse-flexpreis-young)
 
@@ -8674,7 +8674,7 @@ Sitzplatzreservierungen und Upgrades in 1. Klasse sind selbst zu zahlen.
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-bundeswehr-ticket)
 
@@ -8697,7 +8697,7 @@ Sie erhalten die meisten KVSH-Angebote online auf der Website oder als Handy-Tic
 
 [Weitere Informationen zu Tickets im KVSH](https://www.bahn.de/angebot/verbuende/kvsh)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kvsh-tickets-wo-kaufen)
 
@@ -8710,7 +8710,7 @@ Sie erhalten die meisten KVV-Angebote online auf der Website oder als Handy-Tick
 
 [Weitere Informationen zu Tickets im KVV](https://www.bahn.de/angebot/verbuende/kvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kvv-tickets-wo-kaufen)
 
@@ -8732,7 +8732,7 @@ Benelux, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griec
 
 [Weitere Informationen zum One Country Pass](https://www.bahn.de/angebot/international/one-country-pass)
 
-[One Country Pass auswählen One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
+[One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laender-one-country-pass)
 
@@ -8856,7 +8856,7 @@ Fehlt eine der drei Legitimationen, dürfen Sie das Angebot zum kostenfreien Bah
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/legitimation-bundeswehr-ticket)
 
@@ -8867,7 +8867,7 @@ Fehlt eine der drei Legitimationen, dürfen Sie das Angebot zum kostenfreien Bah
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/lounge-bundeswehr-ticket)
 
@@ -8889,7 +8889,7 @@ Eine 4er-Karte ist an eine Relation gebunden; in Preisstufe 12 gilt die Karte f�
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-4er-karte)
 
@@ -8900,7 +8900,7 @@ marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung erfolg
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-abbuchungen)
 
@@ -8916,7 +8916,7 @@ marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung erfolg
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-bonusprogramm)
 
@@ -8929,7 +8929,7 @@ Die Preisstufe der Anschlussfahrt richtet sich nach der Fahrstrecke ab der Grenz
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-anschlussfahrt)
 
@@ -8941,7 +8941,7 @@ Sie benötigen hierfür die App DB Navigator.
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-digitales-abo)
 
@@ -8952,7 +8952,7 @@ Eine Minigruppen-Tageskarte gilt für bis zu 5 gemeinsam reisende Personen (kein
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-minigruppen-tageskarte)
 
@@ -8972,7 +8972,7 @@ Sie erhalten alle marego-Angebote als Online- bzw. Handy-Ticket. Dazu gehören 
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-tickets-wo-kaufen)
 
@@ -9002,7 +9002,7 @@ Im marego bieten wir folgende Zeitkarten an:
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-zeitkarten)
 
@@ -9018,7 +9018,7 @@ Im marego bieten wir folgende Zeitkarten an:
 
 [Weitere Informationen zu Abo-Angeboten im MDV](https://www.bahn.de/angebot/verbuende/mdv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mdv-abo-bonusprogramm)
 
@@ -9030,7 +9030,7 @@ Ihre persönlichen Daten sind sicher. Die **UmweltCard Gold** kann nur mit spezi
 
 [Weitere Informationen zu Abo-Angeboten im MDV](https://www.bahn.de/angebot/verbuende/mdv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mdv-chipkarte)
 
@@ -9043,7 +9043,7 @@ Auch die Zugstrecken in den Landkreisen Anhalt-Bitterfeld und Wittenberg sowie i
 
 [Weitere Informationen zu Abo-Angeboten im MDV](https://www.bahn.de/angebot/verbuende/mdv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mdv-erweiterung-nord)
 
@@ -9056,7 +9056,7 @@ Sie erhalten die meisten MDV-Angebote als Online- bzw. Handy-Ticket. Dazu gehör
 
 [Weitere Informationen zu Tickets im MDV](https://www.bahn.de/angebot/verbuende/mdv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mdv-tickets-wo-kaufen)
 
@@ -9073,7 +9073,7 @@ Wünschen Sie ein Abo im Übergangstarif, so nutzen Sie die Abo-Anträge wie fol
 
 [Weitere Informationen zu Abo-Angeboten im MDV](https://www.bahn.de/angebot/verbuende/mdv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mdv-uebergangstarif-doebeln)
 
@@ -9106,7 +9106,7 @@ Sie können das Verbundgebiet des Mitteldeutschen Verkehrsverbundes über die fo
 
 [Weitere Informationen zu Abo-Angeboten im MDV](https://www.bahn.de/angebot/verbuende/mdv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mdv-verbundgebiet)
 
@@ -9179,7 +9179,7 @@ Ja. Für folgende Länder gibt es ein **Mindestalter für die Begleitperson**:
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mindestalter-begleitperson-flexpreis-europa)
 
@@ -9219,7 +9219,7 @@ Ja. Für folgende Länder gibt es ein **Mindestalter**:
 
 [Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mindestalter-begleitperson-normalpreis-europa)
 
@@ -9259,7 +9259,7 @@ Ja. Für folgende Länder gibt es ein **Mindestalter**:
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mindestalter-kind-flexpreis-europa)
 
@@ -9322,7 +9322,7 @@ Ja, Hunde reisen im NRW Nahverkehr kostenfrei.
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitnahme-hund-hessenticket)
 
@@ -9344,7 +9344,7 @@ An Samstagen können Sie kostenfrei eine weitere Person mitnehmen. Zusätzlich k
 
 [Weitere Informationen zu Wochen- und Monatskarten](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitnahme-wochenkarten-monatskarten)
 
@@ -9355,7 +9355,7 @@ Mit dem JahresAboPlus können Sie bis zu 5 Personen (davon 1 Person ab 18) von M
 
 [Weitere Informationen zu Abo-Angeboten im VGN](https://www.bahn.de/angebot/verbuende/vgn-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37,83,117)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37,83,117)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitnahmeregelung-vgn)
 
@@ -9386,7 +9386,7 @@ Der Umtausch in ein digitales Abo ist kostenfrei.
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/monatskarte-im-abo-umtausch-und-rueckgabe)
 
@@ -9397,7 +9397,7 @@ Bei Monats- und Jahreskarten im Abo ist eine Zahlung nur per Lastschrift möglic
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/monatskarte-und-jahreskarte-im-abo-bezahlung)
 
@@ -9410,7 +9410,7 @@ Die Mehrfahrten-Tickets des Fernverkehrs sind über [mehrfahrten-ticket-bahn.de]
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/monatskarten-jahreskarten-im-abo-wo-kaufen)
 
@@ -9431,7 +9431,7 @@ Weiterhin erhalten Sie
 
 [Weitere Informationen zu Tickets im Move-Tarif](https://www.bahn.de/angebot/verbuende/move)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/move-tickets-wo-kaufen)
 
@@ -9459,7 +9459,7 @@ Sie haben jetzt die Möglichkeit, dies ganz unkompliziert zu erledigen und Ihre 
 
 [Weitere Informationen zum Gruppenpreis Deutschlandtarif](https://www.bahn.de/angebot/gruppen/gruppenpreis-deutschlandtarif)
 
-[Zur Reiseauskunft Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
+[Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-meine-gruppe-anmelden-deutschlandtarif)
 
@@ -9490,7 +9490,7 @@ Wenn Sie beispielsweise die Anschrift oder die Kontoverbindung ändern wollen, n
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-aenderungen)
 
@@ -9501,7 +9501,7 @@ Nein, ein Kauf des 365-Euro-Ticket MVV über die Fahrkartenautomaten ist nicht m
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-automat)
 
@@ -9518,7 +9518,7 @@ Sie können den Bestellschein hier herunterladen, ausfüllen, unterschreiben und
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-bestellschein)
 
@@ -9531,7 +9531,7 @@ Ja, das geht. Entweder Sie nehmen die Änderung bequem online im Abo-Portal vor 
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-chipkarte)
 
@@ -9544,7 +9544,7 @@ Nein, die Mitnahme von Fahrrädern ist kostenpflichtig.
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-fahrrad)
 
@@ -9555,7 +9555,7 @@ Das Jahresticket soll günstige Mobilität für Schüler:innen und Auszubildende
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-finanzierung)
 
@@ -9566,7 +9566,7 @@ Das 365-Euro-Ticket MVV gilt im gesamten MVV-Gebiet Zonen M-12.
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-geltungsbereich)
 
@@ -9581,7 +9581,7 @@ Bei einer rückwirkenden Bestellung ist das Ticket ab dem Zeitpunkt des Kaufs g�
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-gueltigkeit)
 
@@ -9592,7 +9592,7 @@ Das 365-Euro-Ticket MVV kann auch während des Schuljahres bzw. der Ausbildung g
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-kaufen-wann)
 
@@ -9605,7 +9605,7 @@ Das Ticket kann in einem Betrag oder monatlich per Lastschrift (10 Monatsraten z
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-preis)
 
@@ -9625,7 +9625,7 @@ Das 365-Euro-Ticket MVV gilt in allen MVV-Verkehrsmitteln, außer in den Fernver
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-verkehrsmittel)
 
@@ -9638,7 +9638,7 @@ Verloren gegangene oder gestohlene Chipkarten werden gegen einen Kostenbeitrag v
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-verlust)
 
@@ -9649,7 +9649,7 @@ Nein, das 365-Euro-Ticket MVV ist ein Jahresticket für jeweils 12 aufeinanderfo
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-vorzeitig-kuendigen)
 
@@ -9665,7 +9665,7 @@ Die Unterlagen können online bzw. über die Apps digital hochgeladen werden ode
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-was-benoetigt)
 
@@ -9699,7 +9699,7 @@ Im Detail sind für das 365-Euro-Ticket MVV berechtigt:
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-wer)
 
@@ -9712,7 +9712,7 @@ Bei einer Bestellung über die München Navigator App kann das 365-Euro-Ticket M
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-wo-kaufen)
 
@@ -9734,7 +9734,7 @@ E-Mail: [abo-mvv@bahn.de](mailto:abo-mvv@bahn.de)
 
 [Weitere Informationen zur IsarCardJob im MVV](https://www.bahn.de/angebot/verbuende/mvv-abo-job)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-abo-job-kontakt)
 
@@ -9763,7 +9763,7 @@ Unternehmen, Personalabteilungen und Personalvertretungen sind jederzeit eingela
 
 [Weitere Informationen zu Tickets im MVV](https://www.bahn.de/angebot/verbuende/mvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-tickets-freizeit)
 
@@ -9807,7 +9807,7 @@ Hinweis: Beim Kauf einer Fahrrad-Tageskarte bitte die Sperrzeiten und Mitnahmere
 
 [Weitere Informationen zu Tickets im MVV](https://www.bahn.de/angebot/verbuende/mvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-tickets-wo-kaufen)
 
@@ -9844,7 +9844,7 @@ Ja, im MVV gibt es auch Wochen- und Monatskarten. Erhältlich sind sie als Handy
 
 [Weitere Informationen zu Abo-Angeboten im MVV](https://www.bahn.de/angebot/verbuende/mvv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-wochen-monatskarten)
 
@@ -9880,7 +9880,7 @@ Ja, allerdings müssen Sie dafür beim Kauf des Tickets den Nahverkehr mitbuchen
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nahverkehr-sparpreis-senioren)
 
@@ -9891,7 +9891,7 @@ Ja, allerdings müssen Sie dafür beim Kauf des Tickets den Nahverkehr mitbuchen
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nahverkehr-super-sparpreis-senioren)
 
@@ -9961,7 +9961,7 @@ Tickets für Dienstantrittsreisen der Bundeswehr dürfen nur auf den eigenen Nam
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-bundeswehr-dienstantrittsreisen)
 
@@ -9983,7 +9983,7 @@ Ja, Sie können Ihre Fahrten auch nach Ablauf des Angebots nach den regulären A
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-mehrfahrtenticket-nach-aktionsende)
 
@@ -10006,7 +10006,7 @@ Dazu zählen z. B.:
 
 [Weitere Informationen zu Tickets im NVV](https://www.bahn.de/angebot/verbuende/nvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nvv-tickets-wo-kaufen)
 
@@ -10021,7 +10021,7 @@ Sie erhalten die meisten OAM-Angebote als Online- bzw. Handy-Ticket.
 
 [Weitere Informationen zu Tickets im OAM](https://www.bahn.de/angebot/verbuende/oam)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/oam-tickets-wo-kaufen)
 
@@ -10033,7 +10033,7 @@ Sie erhalten die meisten OAM-Angebote als Online- bzw. Handy-Ticket.
 
 [Weitere Informationen zum Oberallgäu-Ticket](https://www.bahn.de/angebot/regio/bayern/oberallgaeu-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/oberallgaeu-ticket-kindermitnahme)
 
@@ -10046,7 +10046,7 @@ Möchten Soldat:innen den ÖPNV nutzen, müssen sie sich ein entsprechendes Tick
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/oepnv-bundeswehr-ticket)
 
@@ -10057,7 +10057,7 @@ Die Preise variieren je nach Strecke, Buchungs- und Reisedatum und gelten für e
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-flexpreis)
 
@@ -10068,7 +10068,7 @@ Die Preise variieren je nach Strecke, Buchungs- und Reisedatum und gelten für e
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-flexpreis-young)
 
@@ -10079,7 +10079,7 @@ Die Preise sind streckenbezogen und gelten für eine einfache Fahrt innerhalb De
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-normalpreis)
 
@@ -10090,7 +10090,7 @@ Die Preise sind streckenbezogen und gelten für eine einfache Fahrt in Abhängig
 
 [Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-normalpreis-europa)
 
@@ -10101,7 +10101,7 @@ Ein Sparpreis-Ticket für die einfache Fahrt kostet je nach Verfügbarkeit ab 21
 
 [Weitere Informationen zum Sparpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true&dbkanal_007=testtracking)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true&dbkanal_007=testtracking)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis)
 
@@ -10117,7 +10117,7 @@ Ein Sparpreis-Ticket für die einfache Fahrt kostet je nach Verfügbarkeit ab 21
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-db-pep)
 
@@ -10128,7 +10128,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 24,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Belgien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-belgien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-belgien)
 
@@ -10139,7 +10139,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 33,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Dänemark](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-daenemark)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-daenemark)
 
@@ -10155,7 +10155,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 33,99 Euro
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-db-pep)
 
@@ -10166,7 +10166,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 24,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Frankreich](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-frankreich)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-frankreich)
 
@@ -10187,7 +10187,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 23,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Italien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-italien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-italien)
 
@@ -10198,7 +10198,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 35,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Kroatien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-kroatien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-kroatien)
 
@@ -10209,7 +10209,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 28,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Luxemburg](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-luxemburg)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-luxemburg)
 
@@ -10220,7 +10220,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 24,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Niederlande](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-niederlande)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-niederlande)
 
@@ -10231,7 +10231,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 23,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Österreich](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-oesterreich)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-oesterreich)
 
@@ -10242,7 +10242,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 22,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Polen](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-polen)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-polen)
 
@@ -10253,7 +10253,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 42,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Schweden](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-schweden)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-schweden)
 
@@ -10264,7 +10264,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 24,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Schweiz](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-schweiz)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-schweiz)
 
@@ -10275,7 +10275,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 35,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Slowakei](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-slowakei)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-slowakei)
 
@@ -10286,7 +10286,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 33,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Slowenien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-slowenien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-slowenien)
 
@@ -10297,7 +10297,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 17,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Tschechien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-tschechien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-tschechien)
 
@@ -10308,7 +10308,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 52,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Ukraine](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-ukraine)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-den-sparpreis-europa-ukraine-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-den-sparpreis-europa-ukraine-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-ukraine)
 
@@ -10319,7 +10319,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 42,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Ungarn](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-ungarn)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-ungarn)
 
@@ -10330,7 +10330,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 23,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Young Belgien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-belgien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-belgien)
 
@@ -10341,7 +10341,7 @@ Ein Ticket für die einfache Fahrt auf kurzen Strecken kostet je nach Verfügbar
 
 [Weitere Informationen zum Sparpreis Europa Young Frankreich](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-frankreich)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-frankreich)
 
@@ -10352,7 +10352,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 22,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Young Italien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-italien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-italien)
 
@@ -10363,7 +10363,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 35,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Young Kroatien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-kroatien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-kroatien)
 
@@ -10374,7 +10374,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 23,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Young Niederlande](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-niederlande)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-niederlande)
 
@@ -10385,7 +10385,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 22,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Young Österreich](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-oesterreich)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-oesterreich)
 
@@ -10396,7 +10396,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 22,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Young Polen](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-polen)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-polen)
 
@@ -10407,7 +10407,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 23,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Young Schweiz](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-schweiz)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-schweiz)
 
@@ -10418,7 +10418,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 16,99 Eur
 
 [Weitere Informationen zum Sparpreis Europa Young Tschechien](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-tschechien-)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-tschechien)
 
@@ -10429,7 +10429,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 42,99 Euro
 
 [Weitere Informationen zum Sparpreis Europa Young Ungarn](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-young-ungarn)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-europa-young-ungarn)
 
@@ -10449,7 +10449,7 @@ Die einfache Fahrt kostet **pro Person** je nach Verfügbarkeit **ab 9,99 Euro i
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-gruppe)
 
@@ -10460,7 +10460,7 @@ Ein Ticket für die einfache Fahrt mit dem **Sparpreis Young** kostet je nach 
 
 [Weitere Informationen zum Sparpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-young)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-sparpreis-young)
 
@@ -10475,7 +10475,7 @@ Ein Ticket für die einfache Fahrt mit dem **Sparpreis Young** kostet je nach 
 
 [Weitere Informationen zum Südostbayern-Ticket plus S-Bahn](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket-plus-s-bahn)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-suedostbayern-ticket-plus-s-bahn)
 
@@ -10488,7 +10488,7 @@ Ein **Super Sparpreis-Ticket** für die einfache Fahrt kostet je nach Verfügb
 
 [Weitere Informationen zum Super Sparpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis)
 
@@ -10499,7 +10499,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 19,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Belgien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-belgien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-belgien)
 
@@ -10510,7 +10510,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 28,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Dänemark](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-daenemark)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-daenemark)
 
@@ -10521,7 +10521,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 19,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Frankreich](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-frankreich)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-frankreich)
 
@@ -10542,7 +10542,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 19,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Italien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-italien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-italien)
 
@@ -10553,7 +10553,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 29,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Kroatien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-kroatien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-kroatien)
 
@@ -10564,7 +10564,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 21,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Luxemburg](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-luxemburg)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-luxemburg)
 
@@ -10575,7 +10575,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 19,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Niederlande](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-niederlande)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-niederlande)
 
@@ -10586,7 +10586,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 19,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Österreich](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-oesterreich)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-oesterreich)
 
@@ -10597,7 +10597,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 18,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Polen](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-polen)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-polen)
 
@@ -10608,7 +10608,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 37,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Schweden](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-schweden)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-schweden)
 
@@ -10619,7 +10619,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 19,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Schweiz](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-schweiz)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-schweiz)
 
@@ -10630,7 +10630,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 29,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Slowakei](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-slowakei)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-slowakei)
 
@@ -10641,7 +10641,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 27,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Slowenien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-slowenien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-slowenien)
 
@@ -10652,7 +10652,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 14,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Tschechien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-tschechien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-tschechien)
 
@@ -10663,7 +10663,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 47,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Ukraine](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-ukraine)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-den-sparpreis-europa-ukraine-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-den-sparpreis-europa-ukraine-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-ukraine)
 
@@ -10674,7 +10674,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 37,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Ungarn](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-ungarn)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-ungarn)
 
@@ -10685,7 +10685,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 18,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Belgien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-belgien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-belgien)
 
@@ -10696,7 +10696,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 24,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Dänemark](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-daenemark)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-daenemark)
 
@@ -10707,7 +10707,7 @@ Ein Ticket für die einfache Fahrt auf kurzen Strecken kostet je nach Verfügbar
 
 [Weitere Informationen zum Super Sparpreis Europa Young Frankreich](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-frankreich)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-frankreich)
 
@@ -10718,7 +10718,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 18,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Italien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-italien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-italien)
 
@@ -10729,7 +10729,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 29,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Kroatien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-kroatien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-kroatien)
 
@@ -10740,7 +10740,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 21,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Luxemburg](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-luxemburg)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-luxemburg)
 
@@ -10751,7 +10751,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 18,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Niederlande](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-niederlande)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-niederlande)
 
@@ -10762,7 +10762,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 18,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Österreich](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-oesterreich)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-oesterreich)
 
@@ -10773,7 +10773,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 18,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Polen](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-polen)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-polen)
 
@@ -10784,7 +10784,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 37,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Schweden](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-schweden)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-schweden)
 
@@ -10795,7 +10795,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 18,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Schweiz](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-schweiz)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-schweiz)
 
@@ -10806,7 +10806,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 27,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Slowenien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-slowenien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-slowenien)
 
@@ -10817,7 +10817,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 13,99 Eur
 
 [Weitere Informationen zum Super Sparpreis Europa Young Tschechien](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-tschechien)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-tschechien)
 
@@ -10828,7 +10828,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 37,99 Euro
 
 [Weitere Informationen zum Super Sparpreis Europa Young Ungarn](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-europa-young-ungarn)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-europa-young-ungarn)
 
@@ -10841,7 +10841,7 @@ Die einfache Fahrt kostet **pro Person** je nach Verfügbarkeit **ab 8,99 Euro**
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-gruppe)
 
@@ -10852,7 +10852,7 @@ Ein Super Sparpreis Last Minute-Ticket für die einfache Fahrt kostet je na
 
 [Weitere Informationen zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-last-minute)
 
@@ -10863,7 +10863,7 @@ Ein Ticket für die einfache Fahrt mit dem **Super Sparpreis Young** kostet j
 
 [Weitere Informationen zum Super Sparpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-young)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-young)
 
@@ -10879,7 +10879,7 @@ Ein Ticket für die einfache Fahrt mit dem **Super Sparpreis Young** kostet j
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-supersparpreis-db-pep)
 
@@ -10895,7 +10895,7 @@ Ein Ticket für die einfache Fahrt mit dem **Super Sparpreis Young** kostet j
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-supersparpreis-europa-db-pep)
 
@@ -10915,7 +10915,7 @@ Die Preise für einen Interrail Global Pass variieren von Land zu Land. Der Inte
 
 [Weitere Informationen zum Global Pass](https://www.bahn.de/angebot/international/global-pass)
 
-[Global Pass auswählen Global Pass auswählen](https://bahn.interrail.eu/de/global-pass)
+[Global Pass auswählen](https://bahn.interrail.eu/de/global-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preise-global-pass)
 
@@ -10928,7 +10928,7 @@ Die Preise für einen Interrail One Country Pass variieren von Land zu Land. Ein
 
 [Weitere Informationen zum One Country Pass](https://www.bahn.de/angebot/international/one-country-pass)
 
-[One Country Pass auswählen One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
+[One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preise-one-country-pass)
 
@@ -10939,7 +10939,7 @@ Ja, Sie können im eigenen Privatabteil im Liegewagen reisen. Diese Abteile kö
 
 [Weitere Informationen zum kroatischen Nachtzug](https://www.bahn.de/angebot/international/hzpp-kroatischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/privatabteile-kroatischer-nachtzug)
 
@@ -10972,7 +10972,7 @@ Besteht Ihre **Gruppe aus 5 Personen** und Sie möchten in Ihrem eigenen Abtei
 
 [Weitere Informationen zu den ÖBB Nightjet Verbindungen](https://www.bahn.de/angebot/international/oebb-nightjet)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/privatabteile-oebb-nightjet)
 
@@ -10983,7 +10983,7 @@ Ja, Sie können im eigenen Privatabteil im Liegewagen reisen. Diese Abteile kö
 
 [Weitere Informationen zum ungarischen Nachtzug](https://www.bahn.de/angebot/international/mav-ungarischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/privatabteile-ungarischer-nachtzug)
 
@@ -10997,7 +10997,7 @@ Ja, Sie können im eigenen Privatabteil im Liegewagen reisen. Diese Abteile kö
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/produktnutzung-db-pep)
 
@@ -11026,7 +11026,7 @@ Einladung
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisebegruendende-unterlagen-bundeswehr-dienstantrittsreisen)
 
@@ -11037,7 +11037,7 @@ Neben dem Online-Ticket (digital oder Papierform) und Ihrem Ausweisdokument ist 
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisedokumente-bundeswehr-dienstantrittsreisen)
 
@@ -11048,7 +11048,7 @@ Nein, das Ticket ist zweckgebunden und darf nicht für andere Reisen genutzt wer
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisegrund-bundeswehr-dienstantrittsreisen)
 
@@ -11099,7 +11099,7 @@ Mit dem Interrail Global Pass hast du diese Optionen:
 
 [Weitere Informationen zum Global Pass](https://www.bahn.de/angebot/international/global-pass)
 
-[Global Pass auswählen Global Pass auswählen](https://bahn.interrail.eu/de/global-pass)
+[Global Pass auswählen](https://bahn.interrail.eu/de/global-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisetage-global-pass)
 
@@ -11110,7 +11110,7 @@ Mit dem Interrail One Country Pass kannst du an 3, 4, 5, 6 oder 8 frei wählbare
 
 [Weitere Informationen zum One Country Pass](https://www.bahn.de/angebot/international/one-country-pass)
 
-[One Country Pass auswählen One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
+[One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisetage-interrail-one-country-pass)
 
@@ -11121,7 +11121,7 @@ Nein, die nächtlichen Zugverbindungen im IC und ICE sind nicht reservierungspfl
 
 [Weitere Informationen zu den IC und ICE Nachtverbindungen](https://www.bahn.de/angebot/international/ic-ice)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierung-ic-ice)
 
@@ -11132,7 +11132,7 @@ Ja, Sie brauchen für die Reise im HZPP Nachtzug eine gültige Reservierung. Bei
 
 [Weitere Informationen zum kroatischen Nachtzug](https://www.bahn.de/angebot/international/hzpp-kroatischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierung-kroatischer-nachtzug)
 
@@ -11143,7 +11143,7 @@ Ja, Sie benötigen für die Reise im Nachtzug eine gültige Reservierung. Die Re
 
 [Weitere Informationen zum ÖBB Nightjet](https://www.bahn.de/angebot/international/oebb-nightjet)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierung-oebb-nightjet)
 
@@ -11154,7 +11154,7 @@ Ja, Sie benötigen für die Reise im polnischen Nachtzug eine gültige Reservier
 
 [Weitere Informationen zum polnischen Nachtzug](https://www.bahn.de/angebot/international/pkp-polnischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierung-polnischer-nachtzug)
 
@@ -11165,7 +11165,7 @@ Ja, Sie benötigen für die Reise im ungarischen Nachtzug eine gültige Reservie
 
 [Weitere Informationen zum ungarischen Nachtzug](https://www.bahn.de/angebot/international/mav-ungarischer-nachtzug)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierung-ungarischer-nachtzug)
 
@@ -11182,7 +11182,7 @@ Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reser
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-flexpreis-europa)
 
@@ -11300,7 +11300,7 @@ Sie erhalten die meisten RMV-Angebote als RMV-HandyTicket. Bitte beachten Sie: E
 
 [Weitere Informationen zu Tickets im RMV](https://www.bahn.de/angebot/verbuende/rmv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rmv-tickets-wo-kaufen)
 
@@ -11313,7 +11313,7 @@ Sie erhalten viele RNN-Angebote als Online- bzw. Handy-Ticket. Die RNN Einzelfah
 
 [Weitere Informationen zu Tickets im RNN](https://www.bahn.de/angebot/verbuende/rnn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rnn-tickets-wo-kaufen)
 
@@ -11335,7 +11335,7 @@ Sie erhalten die meisten RVF-Angebote als Online- bzw. Handy-Ticket. Einzelfahrk
 
 [Weitere Informationen zu Tickets im RVF](https://www.bahn.de/angebot/verbuende/rvf)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rvf-tickets-wo-kaufen)
 
@@ -11356,7 +11356,7 @@ Sie erhalten die meisten RVL-Angebote als Online- bzw. Handy-Ticket. Dazu gehör
 
 [Weitere Informationen zu Tickets im RVL](https://www.bahn.de/angebot/verbuende/rvl)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rvl-tickets-wo-kaufen)
 
@@ -11367,7 +11367,7 @@ Für Hunde ist der halbe Normalpreis für Erwachsene zu zahlen.
 
 [Weitere Informationen zum Saar-Elsass-Ticket](https://www.bahn.de/angebot/regio/saarland/saar-elsass-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/saar-elsass-kann-ich-meinen-hund-mitnehmen)
 
@@ -11388,7 +11388,7 @@ Sie erhalten die meisten saarVV-Angebote als Handy-Ticket. Dazu zählen u.a.:
 
 [Weitere Informationen zu Tickets im saarVV](https://www.bahn.de/angebot/verbuende/saarvv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/saarvv-tickets-wo-kaufen)
 
@@ -11406,7 +11406,7 @@ Die **MonatsCard Ausbildung** ist eine vergünstigte Zeitkarte für Schüler, Az
 
 [Weitere Informationen zu Tickets im Move-Tarif](https://www.bahn.de/angebot/verbuende/move)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schuelertickets-move)
 
@@ -11417,7 +11417,7 @@ Für Schülerzeitkarten im Fernverkehr (z. B. für ICE- und IC/EC-Züge) suchen
 
 [Weitere Informationen zu Wochen- und Monatskarten für Schüler:innen](https://www.bahn.de/angebot/pendler/schuelerzeitkarten)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schuelerzeitkarte-buchen)
 
@@ -11441,7 +11441,7 @@ Bei der Monatskarte im Abo ist eine Sitzplatzreservierung inklusive auf bestimmt
 
 [Weitere Informationen zu Abo-Angeboten im SH-Tarif](https://www.bahn.de/angebot/verbuende/sh-tarif-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=74,115,19,20,21,22,23)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=74,115,19,20,21,22,23)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-abo-sitzplatzreservierung)
 
@@ -11452,7 +11452,7 @@ Sie können Ihr Jobticket für die 2. oder die 1. Klasse erwerben. Der Preis der
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-1-klasse)
 
@@ -11463,7 +11463,7 @@ Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht über
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-fuer-wen)
 
@@ -11477,7 +11477,7 @@ Bei Fragen wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-kontakt)
 
@@ -11488,7 +11488,7 @@ An den Wochenenden können Sie einen weiteren Erwachsenen und 3 Kinder unter 15 
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-mitnahme)
 
@@ -11499,7 +11499,7 @@ Der Preis ist abhängig von Ihrer Strecke, dem Zuschuss des Arbeitgebers und dem
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-preis)
 
@@ -11510,7 +11510,7 @@ Das Jobticket gilt auf der gewählten Strecken in allen Verkehrsmitteln des SHT.
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-wo-gilt)
 
@@ -11529,7 +11529,7 @@ Sie erhalten folgende Angebote als Online- bzw. Handy-Ticket:
 
 [Weitere Informationen zu Tickets im SH-Tarif](https://www.bahn.de/angebot/verbuende/sh-tarif)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-tickets-wo-kaufen)
 
@@ -11565,7 +11565,7 @@ Für den Fernverkehr (ICE, IC/EC) sind ausschließlich personalisierte Zeitkarte
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-monatskarten-im-abo-uebertragbar)
 
@@ -11576,7 +11576,7 @@ Das Angebot Gruppe&Spar Europa buchen Sie immer in Verbindung mit einer kostenlo
 
 [Weitere Informationen zu Gruppe&Spar Europa](https://www.bahn.de/angebot/gruppen/gruppe-spar-europa)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
+[Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzen-wir-mit-gruppeundspar-europa-im-zug-zusammen)
 
@@ -11592,7 +11592,7 @@ Weitere Zusatzleistungen wie Hundemitnahme oder ein Fahrradticket, können Sie v
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatz-bundeswehr-ticket)
 
@@ -11613,7 +11613,7 @@ Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung koste
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung--flexpreis-europa)
 
@@ -11624,7 +11624,7 @@ Bei Buchung der Super Sparpreis / Sparpreis DB-PEP-Fahrkarte ist die Reservierun
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-db-pep)
 
@@ -11648,7 +11648,7 @@ Für die Rückerstattung des Reservierungsentgelts können Sie den Antrag formlo
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-flexpreis)
 
@@ -11659,7 +11659,7 @@ Nein, die Fahrkarte enthält keine Sitzplatzreservierung. Diese kannst du zusamm
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-flexpreis-young)
 
@@ -11691,7 +11691,7 @@ Sie können auch direkt auf der Startseite der App DB Navigator oben links im Dr
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-fv-ohne-ticket)
 
@@ -11702,7 +11702,7 @@ Nein, beim Normalpreis ist keine Sitzplatzreservierung enthalten.
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-normalpreis)
 
@@ -11713,7 +11713,7 @@ Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
 
 [Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-normalpreis-europa)
 
@@ -11733,7 +11733,7 @@ Eine Sitzplatzreservierung ist nicht automatisch mit dabei. Sie kann allerdings 
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-sparpreis-senioren)
 
@@ -11753,7 +11753,7 @@ Eine Sitzplatzreservierung ist nicht automatisch mit dabei. Sie kann allerdings 
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-super-sparpreis-senioren)
 
@@ -11773,7 +11773,7 @@ Ein Solo 31 gilt ab dem gewünschten Kalendertag 31 Tage lang im ausgewählten G
 
 [Weitere Informationen zu Tickets im VGN](https://www.bahn.de/angebot/verbuende/vgn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/solo31-vgn)
 
@@ -11848,7 +11848,7 @@ Hier können Sie die Karten zu den Stadtgebieten herunterladen:
 
 [Weitere Informationen zu Tickets im VVS](https://www.bahn.de/angebot/verbuende/vvs)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stadtticket-vvs)
 
@@ -11861,7 +11861,7 @@ Eine Übersicht finden Sie im PDF.
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/staedte-city-ticket)
 
@@ -11876,7 +11876,7 @@ Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit F
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statusleuchte-ice-3neo)
 
@@ -11904,7 +11904,7 @@ Ja, Sie können bei fehlerhafter Buchung den Button Sofortstorno nutzen und im 
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-bundeswehr-dienstantrittsreisen)
 
@@ -11947,7 +11947,7 @@ Unabhängig von den Angebots-Bedingungen:
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis)
 
@@ -11968,7 +11968,7 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales 
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis-europa)
 
@@ -11988,7 +11988,7 @@ Unabhängig von den Angebots-Bedingungen:
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis-young)
 
@@ -12002,7 +12002,7 @@ Unabhängig von den Angebots-Bedingungen:
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-normalpreis)
 
@@ -12176,7 +12176,7 @@ Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornier
 
 [Zum Super Sparpreise Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-last-minute)
 
@@ -12198,7 +12198,7 @@ Du kannst das Angebot nur für Reisen im Zeitraum vom 1. April bis 12. Dezember 
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strecke-flexpreis-young)
 
@@ -12223,7 +12223,7 @@ Ja. In der 1. Klasse zahlen Einzelreisende für das Südostbayern-Ticket plus S
 
 [Weitere Informationen zum Südostbayern-Ticket plus S-Bahn](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket-plus-s-bahn)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/suedostbayern-ticket-plus-s-bahn-1klasse)
 
@@ -12245,7 +12245,7 @@ Sie erhalten die meisten SVG-Angebote als Online- bzw. Handy-Ticket. Dazu zähle
 
 [Weitere Informationen zu Tickets im SVG](https://www.bahn.de/angebot/verbuende/svg)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/svg-tickets-wo-kaufen)
 
@@ -12310,7 +12310,7 @@ Das Schleswig-Holstein-Ticket gehört zum SH-Tarif. Die Tarifbestimmungen finde
 
 [Weitere Informationen zum Schleswig-Holstein-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/schleswig-holstein-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tarifbestimmungen-schleswig-holstein-ticket)
 
@@ -12412,7 +12412,7 @@ Sie erhalten die meisten TGO-Angebote als Online- bzw. Handy-Ticket. Dazu zähle
 
 [Weitere Informationen zu Tickets im TGO](https://www.bahn.de/angebot/verbuende/tgo)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tgo-tickets-wo-kaufen)
 
@@ -12423,7 +12423,7 @@ Nein. Bei Fahrten im Stadtgebiet Augsburg können alle Verbundverkehrsmittel zw
 
 [Weitere Informationen zu Tickets im AVV Augsburg](https://www.bahn.de/angebot/verbuende/avv-augsburg)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-fuer-cityzone-augusburg)
 
@@ -12436,7 +12436,7 @@ Sie können Ihr **Digitales Ticket** in den **Fernverkehrszügen** aber bis 1
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-im-zug-kaufen-flexpreis)
 
@@ -12447,7 +12447,7 @@ Für Nahverkehrsverbindungen des Deutschlandtarifs gilt, dass im Zug beim Zugper
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-im-zug-kaufen-normalpreis)
 
@@ -12458,7 +12458,7 @@ Nein, das ist nicht zulässig. Bitte stornieren Sie die Fahrkarte online. Gehen 
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-weitergeben-bundeswehr-dienstantrittsreisen)
 
@@ -12476,7 +12476,7 @@ Ihr Ticket hat im Fernverkehr eine Gültigkeit von 5 Tagen. 1 Tag vor und bis 3 
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umbuchung-bundeswehr-dienstantrittsreisen)
 
@@ -12522,7 +12522,7 @@ Der Unterschied liegt in der Bezahlung und dem damit verbundenen Preis des Produ
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unterschied-monatskarten-und-jahreskarten-im-abo)
 
@@ -12538,7 +12538,7 @@ Ja, bis zu 2 Monate vor Reiseantritt können Sie die gewünschte Gruppenreise ko
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unverbindlich-reservieren-sparpreis-gruppe)
 
@@ -12556,7 +12556,7 @@ Eine Reservierung für das Super Sparpreis Gruppe-Ticket ist nicht möglich.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unverbindlich-reservieren-super-sparpreis-gruppe)
 
@@ -12649,7 +12649,7 @@ Dazu zählen u.a.:
 
 [Weitere Informationen zu Tickets im VAB](https://www.bahn.de/angebot/verbuende/vab)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vab-tickets-wo-kaufen)
 
@@ -12660,7 +12660,7 @@ Selbstverständlich können Sie auch gegen Aufpreis die 1. Klasse nutzen. Dieser
 
 [Weitere Informationen zum VBB-Firmenticket](https://www.bahn.de/angebot/verbuende/vbb-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-jobticket-1-klasse)
 
@@ -12671,7 +12671,7 @@ Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht über
 
 [Weitere Informationen zum VBB-Firmenticket](https://www.bahn.de/angebot/verbuende/vbb-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-jobticket-fuer-wen)
 
@@ -12685,7 +12685,7 @@ Bei Fragen wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH
 
 [Weitere Informationen zum VBB-Firmenticket](https://www.bahn.de/angebot/verbuende/vbb-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-jobticket-kontakt)
 
@@ -12696,7 +12696,7 @@ Werktags ab 20 Uhr und an den Wochenenden ganztägig können Sie einen weiteren 
 
 [Weitere Informationen zum VBB-Firmenticket](https://www.bahn.de/angebot/verbuende/vbb-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-jobticket-mitnahme)
 
@@ -12707,7 +12707,7 @@ Der Preis ist abhängig von Ihrer Strecke, dem Zuschuss des Arbeitgebers und dem
 
 [Weitere Informationen zum VBB-Firmenticket](https://www.bahn.de/angebot/verbuende/vbb-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-jobticket-preis)
 
@@ -12718,7 +12718,7 @@ Das Jobticket gilt im ausgewählten Geltungsbereichin allen Verkehrsmitteln des 
 
 [Weitere Informationen zum VBB-Firmenticket](https://www.bahn.de/angebot/verbuende/vbb-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-jobticket-wo-gilt)
 
@@ -12736,11 +12736,18 @@ Sie erhalten die meisten VBB-Angebote als Handy-Ticket. Dazu gehören u.a.:
 
 **Wichtig**: Einzelfahrausweise, die als Handy-Ticket ausgegeben werden, gelten immer zum sofortigen Fahrtantritt.
 
+Außerdem sind folgende touristische Angebote erhältlich:
+
+* BerlinWelcomeCard
+* Berlin CityTourCard
+* EasyCityPass Berlin
+* QueerCityPass Belin
+
 * [Zur App](https://www.bahn.de/service/mobile/db-navigator)
 
 [Weitere Informationen zu Tickets im VBB](https://www.bahn.de/angebot/verbuende/vbb)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-tickets-wo-kaufen)
 
@@ -12760,7 +12767,7 @@ Sie erhalten VBN-Tickets ausschließlich als Handy-Ticket. Dazu gehören u.a.:
 
 [Weitere Informationen zu Tickets im VBN](https://www.bahn.de/angebot/verbuende/vbn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbn-tickets-wo-kaufen)
 
@@ -12778,7 +12785,7 @@ Das MDV-Gebiet erstreckt sich anteilig über die drei Bundesländer Sachsen, Sac
 
 [Weitere Informationen zu Tickets im MDV](https://www.bahn.de/angebot/verbuende/mdv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verbundgebiet-mdv)
 
@@ -12800,7 +12807,7 @@ Belgien, Dänemark, Luxemburg, Niederlande, Österreich, Schweiz, Tschechien, Un
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfuegbarkeit-laender-db-pep)
 
@@ -12853,7 +12860,7 @@ Die DB-PEP-Angebote sind bis zum Tag des Fahrtantritts buchbar.
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verkaufszeitraum-db-pep)
 
@@ -12902,7 +12909,7 @@ Sie erhalten die meisten VGC-Angebote als Online- oder Handy-Ticket. Dazu zähle
 
 [Weitere Informationen zu Tickets im VGC](https://www.bahn.de/angebot/verbuende/vgc)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgc-tickets-wo-kaufen)
 
@@ -12917,7 +12924,7 @@ Sie erhalten die meisten vgf-Angebote, wie Einzeltickets, Tagestickets und Monts
 
 [Weitere Informationen zu Tickets im vgf](https://www.bahn.de/angebot/verbuende/vgf)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgf-tickets-wo-kaufen)
 
@@ -12930,7 +12937,7 @@ Das Ticket gilt 12 Monate und maximal so lange wie die Gültigkeit des gesondert
 
 [Weitere Informationen zum 365-Euro-Ticket VGN](https://www.bahn.de/angebot/verbuende/365-euro-ticket-vgn)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgn-365-euro-ab-wann)
 
@@ -12941,7 +12948,7 @@ Die Abbuchung erfolgt im Lastschriftverfahren in 10 Abbuchungsbeträgen zu je 36
 
 [Weitere Informationen zum 365-Euro-Ticket VGN](https://www.bahn.de/angebot/verbuende/365-euro-ticket-vgn)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgn-365-euro-abbuchung)
 
@@ -12952,7 +12959,7 @@ Das Ticket endet nach Ablauf der Geltungsdauer automatisch und kann bei entsprec
 
 [Weitere Informationen zum 365-Euro-Ticket VGN](https://www.bahn.de/angebot/verbuende/365-euro-ticket-vgn)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgn-365-euro-gueltig)
 
@@ -12963,7 +12970,7 @@ Das Ticket bekommen Sie ausschließlich als Handy-Ticket
 
 [Weitere Informationen zum 365-Euro-Ticket VGN](https://www.bahn.de/angebot/verbuende/365-euro-ticket-vgn)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgn-365-euro-handy-ticket)
 
@@ -12974,7 +12981,7 @@ Das Ticket gibt es im Abonnement für 12 Monate. Die Abbuchung erfolgt im Lastsc
 
 [Weitere Informationen zum 365-Euro-Ticket VGN](https://www.bahn.de/angebot/verbuende/365-euro-ticket-vgn)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgn-365-euro-preis)
 
@@ -12987,7 +12994,7 @@ Ein Verbundpassantrag für Personen ab 15 Jahren muss bei der Bestellung als Nac
 
 [Weitere Informationen zum 365-Euro-Ticket VGN](https://www.bahn.de/angebot/verbuende/365-euro-ticket-vgn)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgn-365-euro-verbundpass)
 
@@ -12998,7 +13005,7 @@ Für Schüler:innen und Auszubildende (**nicht für Student:innen**) mit einem V
 
 [Weitere Informationen zum 365-Euro-Ticket VGN](https://www.bahn.de/angebot/verbuende/365-euro-ticket-vgn)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgn-365-euro-wer)
 
@@ -13023,7 +13030,7 @@ Alle Tickets des VGN sind nur als Handyticket im DB Navigator nutzbar.
 
 [Weitere Informationen zu Tickets im VGN](https://www.bahn.de/angebot/verbuende/vgn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vgn-tickets-wo-kaufen)
 
@@ -13045,7 +13052,7 @@ Alle Tickets des VGN sind nur als Handyticket im DB Navigator nutzbar.
 
 [Weitere Informationen zu Tickets im VHB](https://www.bahn.de/angebot/verbuende/vhb)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vhb-tickets-besonderheiten)
 
@@ -13121,7 +13128,7 @@ Die Tarifzonen finden Sie auf der Webseite des VHB (Verkehrsunternehmen Hegau-Bo
 
 [Weitere Informationen zu Tickets im VHB](https://www.bahn.de/angebot/verbuende/vhb)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vhb-tickets-wie-lange-im-voraus)
 
@@ -13178,7 +13185,7 @@ Cityzone Radolfzell
 
 [Weitere Informationen zu Tickets im VHB](https://www.bahn.de/angebot/verbuende/vhb)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vhb-tickets-wo-kaufen)
 
@@ -13189,7 +13196,7 @@ Das Abo kann man **online abschließen** und zwar bis zum 10. des Monats vor d
 
 [Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-abo)
 
@@ -13200,7 +13207,7 @@ Nein, das BildungsTicket VMS ist nicht übertragbar und gilt nur für Sie. Beach
 
 [Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-mitnahme)
 
@@ -13211,7 +13218,7 @@ Das Ticket gibt es im Abonnement für 12 Monate, es kostet pro Monat **15 Euro**
 
 [Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-preis)
 
@@ -13230,7 +13237,7 @@ Das BildungsTicket VMS gilt in Sachsen für
 
 [Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-wer)
 
@@ -13243,7 +13250,7 @@ Gilt außerdem für eine Berg- und Talfahrt pro Tag mit der [Drahtseilbahn Augu
 
 [Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-wo)
 
@@ -13263,7 +13270,7 @@ Sie erhalten die meisten VMS-Angebote hier online oder als Handy-Ticket in unser
 
 [Weitere Informationen zu Tickets im VMS](https://www.bahn.de/angebot/verbuende/vms)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-tickets-wo-kaufen)
 
@@ -13283,7 +13290,7 @@ Sie bekommen die meisten VMT-Angebote als Online- oder Handy-Ticket. Sie können
 
 [Weitere Informationen zu Tickets im VMT](https://www.bahn.de/angebot/verbuende/vmt)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vmt-tickets-wo-kaufen)
 
@@ -13343,7 +13350,7 @@ Täglich von 0 Uhr bis 3 Uhr des nächsten Tages, beziehungsweise bis zur letzte
 
 [Weitere Informationen zum Sachsen-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/sachsen-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00012C212)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00012C212)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/von-wann-bis-wann-ist-das-sachsen-ticket-gueltig)
 
@@ -13371,7 +13378,7 @@ Täglich von 0 Uhr bis 3 Uhr des nächsten Tages, beziehungsweise bis zur letzte
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/von-wann-bis-wann-ist-mein-hessenticket-gueltig)
 
@@ -13391,7 +13398,7 @@ Täglich von 0 Uhr bis 3 Uhr des nächsten Tages, beziehungsweise bis zur letzte
 
 [Weitere Informationen zum Rheinland-Pfalz/ Saarland-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/rheinland-pfalz-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/von-wann-bis-wann-ist-mein-rheinland-pfalz-ticket-gueltig)
 
@@ -13411,7 +13418,7 @@ Täglich von 0 Uhr bis 3 Uhr des nächsten Tages, beziehungsweise bis zur letzte
 
 [Weitere Informationen zum Schleswig-Holstein-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/schleswig-holstein-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/von-wann-bis-wann-ist-mein-schleswig-holstein-ticket-gueltig)
 
@@ -13478,7 +13485,7 @@ Das Angebot gilt nur, wenn Sie von der Bundeswehr zu einem Termin gebeten werden
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/voraussetzung-bundeswehr-dienstantrittsreisen)
 
@@ -13496,7 +13503,7 @@ Tickets können bis zu **12 Monate im Voraus** gebucht werden.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis)
 
@@ -13509,7 +13516,7 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis-europa)
 
@@ -13520,7 +13527,7 @@ Beim Flexpreis Young handelt es sich um ein zeitlich begrenztes Angebot. Es ist 
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis-young)
 
@@ -13531,7 +13538,7 @@ Sie können das Normalpreis-Ticket **bis zu 6 Monate im Voraus** buchen. Vor den
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-normalpreis)
 
@@ -13617,7 +13624,7 @@ Sie können das Super Sparpreis Gruppe-Ticket **bis zu 6 Monate im Voraus** buch
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-gruppe)
 
@@ -13628,7 +13635,7 @@ Sie können das Ticket samstags und sonntags für Montag bis Sonntag der Folg
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-last-minute)
 
@@ -13641,7 +13648,7 @@ Sie erhalten die meisten VPE-Angebote im Einzelfahrtfahrschein-, Kurzstrecke- un
 
 [Weitere Informationen zu Tickets im VPE](https://www.bahn.de/angebot/verbuende/vpe)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vpe-tickets-wo-kaufen)
 
@@ -13654,7 +13661,7 @@ Sie erhalten die meisten VRB-Angebote als Online- oder Handy-Ticket. Einzelfahrs
 
 [Weitere Informationen zu Tickets im VRB](https://www.bahn.de/angebot/verbuende/vrb)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrb-tickets-wo-kaufen)
 
@@ -13675,7 +13682,7 @@ Sie erhalten die meisten VRM-Angebote als Online- oder Handy-Ticket.
 
 [Weitere Informationen zu Tickets im VRM](https://www.bahn.de/angebot/verbuende/vrm)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrm-tickets-wo-kaufen)
 
@@ -13686,7 +13693,7 @@ Selbstverständlich können Sie auch gegen Aufpreis die 1. Klasse nutzen. Dieser
 
 [Weitere Informationen zum VRN Job-Ticket](https://www.bahn.de/angebot/verbuende/vrn-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jobticket-1-klasse)
 
@@ -13697,7 +13704,7 @@ Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht über
 
 [Weitere Informationen zum VRN Job-Ticket](https://www.bahn.de/angebot/verbuende/vrn-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jobticket-fuer-wen)
 
@@ -13711,7 +13718,7 @@ Bei Fragen wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH
 
 [Weitere Informationen zum VRN Job-Ticket](https://www.bahn.de/angebot/verbuende/vrn-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jobticket-kontakt)
 
@@ -13722,7 +13729,7 @@ Sie können werktags ab 19 Uhr und an den Wochenenden bis zu 4 Personen kostenf
 
 [Weitere Informationen zum VRN Job-Ticket](https://www.bahn.de/angebot/verbuende/vrn-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jobticket-mitnahme)
 
@@ -13733,7 +13740,7 @@ Der Preis ist abhängig vom Jobticket-Modell (Solidarmodell) und liegt bei 59,10
 
 [Weitere Informationen zum VRN Job-Ticket](https://www.bahn.de/angebot/verbuende/vrn-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jobticket-preis)
 
@@ -13744,7 +13751,7 @@ Sie können Ihr Job-Ticket im gesamten Netz des Verkehrsverbundes Rhein-Neckar (
 
 [Weitere Informationen zum VRN Job-Ticket](https://www.bahn.de/angebot/verbuende/vrn-jobticket)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jobticket-wo-gilt)
 
@@ -13777,7 +13784,7 @@ Das 5-Tage-Ticket ist nur in der App erhältlich.
 
 [Weitere Informationen zu Tickets im VRN](https://www.bahn.de/angebot/verbuende/vrn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-tickets-wo-kaufen)
 
@@ -13788,7 +13795,7 @@ Für kleinere und mittelständische Unternehmen bieten wir auch ein Großkunden-
 
 [Weitere Informationen zum VRR FirmenTicket](https://www.bahn.de/angebot/verbuende/vrr-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
+[Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr--jobticket-grosskunden)
 
@@ -13805,7 +13812,7 @@ Abo-Management
 
 [Weitere Informationen zum VRR FirmenTicket](https://www.bahn.de/angebot/verbuende/vrr-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
+[Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr--jobticket-kontakt)
 
@@ -13818,7 +13825,7 @@ Bitte beachten Sie: Ab dem **1. März 2025** ist ein Neukauf einer digitalen VRR
 
 [Weitere Informationen zu Tickets im VRR](https://www.bahn.de/angebot/verbuende/vrr)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr-tickets-tarifreform)
 
@@ -13831,7 +13838,7 @@ Sie bekommen die meisten VRR-Angebote als Online- oder Handy-Ticket.
 
 [Weitere Informationen zu Tickets im VRR](https://www.bahn.de/angebot/verbuende/vrr)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr-tickets-wo-kaufen)
 
@@ -13846,7 +13853,7 @@ Zur Teilnahme an den Großkunden-Angeboten ist ein Firmenkundenvertrag zwischen 
 
 [Weitere Informationen zum VRR FirmenTicket](https://www.bahn.de/angebot/verbuende/vrr-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
+[Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
 
@@ -13862,7 +13869,7 @@ Diese Vorteile bietet das Ticket für Unternehmen:
 
 [Weitere Informationen zum VRR FirmenTicket](https://www.bahn.de/angebot/verbuende/vrr-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
+[Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr-vorteile-firmen)
 
@@ -13879,7 +13886,7 @@ Diese Vorteile bietet das Ticket für Mitarbeitende:
 
 [Weitere Informationen zum VRR FirmenTicket](https://www.bahn.de/angebot/verbuende/vrr-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
+[Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr-vorteile-mitarbeiter)
 
@@ -13892,7 +13899,7 @@ Sie können hier die Broschüre zum JobTicket als Deutschland-Ticket im VRS heru
 
 [Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
+[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-dt-broschuere)
 
@@ -13905,7 +13912,7 @@ Sie können hier die Broschüre zum JobTicket Fakultativ im VRS herunterladen.
 
 [Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
+[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-fakultativ-broschuere)
 
@@ -13928,7 +13935,7 @@ Weitere Informationen zum JobTicketLight im VRS finden Sie auf der Website des V
 
 [Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
+[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-preismodelle)
 
@@ -13941,7 +13948,7 @@ Sie können hier die Broschüre zum JobTicket VRS Solidarmodell herunterladen.
 
 [Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
+[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-solidar-broschuere)
 
@@ -13952,7 +13959,7 @@ Sie bekommen das Jobticket nur exklusiv über Ihren Arbeitgebenden, nachdem dies
 
 [Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
+[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
@@ -13975,7 +13982,7 @@ Eine Rechnung, z.B. für Ihre Reisekostenabrechnung oder zum Vorsteuerabzug, kö
 
 [Weitere Informationen zu Tickets im VRT](https://www.bahn.de/angebot/verbuende/vrt)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrt-tickets-wo-kaufen)
 
@@ -13988,7 +13995,7 @@ Sie erhalten die meisten VSN-Angebote als Online- oder Handy-Ticket. VSN Einzelf
 
 [Weitere Informationen zu Tickets im VSN](https://www.bahn.de/angebot/verbuende/vsn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vsn-tickets-wo-kaufen)
 
@@ -14010,7 +14017,7 @@ Ja, der Hund oder das Fahrrad dürfen ohne Aufpreis mit, wenn genug Platz im Fah
 
 [Weitere Informationen zum BildungsTicket Sachsen VVO](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vvo)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=48)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=48)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvo-bildungsticket-mitnahme)
 
@@ -14021,7 +14028,7 @@ Das Ticket gibt es im Abonnement für 12 Monate, es kostet pro Monat **15 Euro**
 
 [Weitere Informationen zum BildungsTicket Sachsen VVO](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vvo)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=48)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=48)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvo-bildungsticket-preis)
 
@@ -14040,7 +14047,7 @@ Das BildungsTicket im VVO gilt für
 
 [Weitere Informationen zum BildungsTicket Sachsen VVO](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vvo)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=48)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=48)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvo-bildungsticket-wer)
 
@@ -14059,7 +14066,7 @@ Sie können mit dem BildungsTicket im Geltungsbereich des VVO in allen Nahverkeh
 
 [Weitere Informationen zum BildungsTicket Sachsen VVO](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vvo)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=48)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=48)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvo-bildungsticket-wo)
 
@@ -14085,7 +14092,7 @@ Eine Rechnung, z.B. für Ihre Reisekostenabrechnung oder zum Vorsteuerabzug, kö
 
 [Weitere Informationen zu Tickets im VVO](https://www.bahn.de/angebot/verbuende/vvo)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvo-tickets-wo-kaufen)
 
@@ -14096,7 +14103,7 @@ Selbstverständlich können Sie auch gegen Aufpreis die 1. Klasse nutzen. Dieser
 
 [Weitere Informationen zum VVS Firmen-Abo](https://www.bahn.de/angebot/verbuende/vvs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
+[Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-jobticket-1-klasse)
 
@@ -14121,7 +14128,7 @@ Das Job-Ticket gibt es als persönliche Variante oder als Plus-Ticket in der üb
 
 [Weitere Informationen zum VVS Firmen-Abo](https://www.bahn.de/angebot/verbuende/vvs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
+[Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-jobticket-fuer-wen)
 
@@ -14135,7 +14142,7 @@ Bei Fragen wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH
 
 [Weitere Informationen zum VVS Firmen-Abo](https://www.bahn.de/angebot/verbuende/vvs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
+[Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-jobticket-kontakt)
 
@@ -14146,7 +14153,7 @@ Am Wochenende und an Feiertagen können bis zu 3 Kinder unter 18 Jahren kostenfr
 
 [Weitere Informationen zum VVS Firmen-Abo](https://www.bahn.de/angebot/verbuende/vvs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
+[Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-jobticket-mitnahme)
 
@@ -14157,7 +14164,7 @@ Der Preis ist abhängig von Ihrer Strecke, dem Zuschuss des Arbeitgebers und dem
 
 [Weitere Informationen zum VVS Firmen-Abo](https://www.bahn.de/angebot/verbuende/vvs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
+[Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-jobticket-preis)
 
@@ -14168,7 +14175,7 @@ Das Job-Ticket gilt auf der gewählten Strecke in allen Verkehrsmitteln des VVS.
 
 [Weitere Informationen zum VVS Firmen-Abo](https://www.bahn.de/angebot/verbuende/vvs-jobticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
+[Infos zum Kauf](https://www.bahn.de/faq/vvs-jobticket-firmen-abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-jobticket-wo-gilt)
 
@@ -14194,7 +14201,7 @@ Sie bekommen die meisten VVS-Angebote als Online- oder Handy-Ticket. Dazu zähle
 
 [Weitere Informationen zu Tickets im VVS](https://www.bahn.de/angebot/verbuende/vvs)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-tickets-wo-kaufen)
 
@@ -14237,7 +14244,7 @@ Sie erhalten die meisten VVW-Angebote als Handy-Ticket. Dazu zählen Einzelfahr-
 
 [Weitere Informationen zu Tickets im VVW](https://www.bahn.de/angebot/verbuende/vvw)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvw-wo-kaufen)
 
@@ -14248,7 +14255,7 @@ In welcher Wagenklasse Sie reisen dürfen, entnehmen Sie bitte dem jeweiligen Sc
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wagenklasse-bundeswehr-dienstantrittsreisen)
 
@@ -14259,7 +14266,7 @@ Die Bundeswehr-Tickets gelten **nur in der 2. Klasse**. Sitzplatzreservierungen 
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wagenklasse-bundeswehr-ticket)
 
@@ -14280,7 +14287,7 @@ Fahren Sie außerhalb eines Verkehrsverbundes oder über die Verbundgrenzen hina
 
 [Weitere Informationen zum Bayern-Hopper-Ticket](https://www.bahn.de/angebot/regio/bayern/bayern-hopper)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-bayern-hopper)
 
@@ -14299,7 +14306,7 @@ Das Ticket kann am Geltungstag bereits ab 0 Uhr bis 3 Uhr des nächsten Tages ge
 
 [Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-garmischer-sommer-ticket-und-fuer-wen)
 
@@ -14364,7 +14371,7 @@ Gilt an Werktagen ab 9 Uhr bis 3 Uhr des Folgetages sowie an Samstagen, Sonntage
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-regio-ticket-franken-thueringen)
 
@@ -14376,7 +14383,7 @@ Gilt an Werktagen ab 9 Uhr bis 3 Uhr des Folgetages sowie an Samstagen, Sonntage
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen + Erfurt](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen-plus-erfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-regio-ticket-franken-thueringen-plus-erfurt)
 
@@ -14388,7 +14395,7 @@ Gilt an Werktagen ab 9 Uhr bis 3 Uhr des Folgetages sowie an Samstagen, Sonntage
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-regio-ticket-main-spessart)
 
@@ -14400,7 +14407,7 @@ Gilt an Werktagen ab 9 Uhr bis 3 Uhr des Folgetages sowie an Samstagen, Sonntage
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart plus Frankfurt](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart-plus-frankfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-regio-ticket-main-spessart-plus-frankfurt)
 
@@ -14412,7 +14419,7 @@ Gilt an Werktagen ab 9 Uhr bis 3 Uhr des Folgetages sowie an Samstagen, Sonntage
 
 [Weitere Informationen zum Regio-Ticket München-Nürnberg](https://www.bahn.de/angebot/regio/bayern/regio-ticket-muenchen-nuernberg)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-regio-ticket-muenchen-nuernberg)
 
@@ -14423,7 +14430,7 @@ Ab 0 Uhr am Tag der Reise bis 3 Uhr am nächsten Tag.
 
 [Weitere Informationen zum Regio-Ticket Werdenfels](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-regio-ticket-werdenfels)
 
@@ -14434,7 +14441,7 @@ Ab 0 Uhr am Tag der Reise bis 3 Uhr am nächsten Tag.
 
 [Weitere Informationen zum Regio-Ticket Werdenfels plus Innsbruck](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels-plus-innsbruck)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-regio-ticket-werdenfels-plus-innsbruck)
 
@@ -14461,7 +14468,7 @@ Die Tickets gelten von **Montag bis Freitag ab 9 Uhr bis 3 Uhr** des nächsten T
 
 [Weitere Informationen zum Saar-Elsass-Ticket](https://www.bahn.de/angebot/regio/saarland/saar-elsass-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-saar-elsass-ticket)
 
@@ -14493,7 +14500,7 @@ Das Sachsen-Böhmen-Ticket gilt von **Montag bis Freitag ab 9 Uhr bis 3 Uhr des 
 
 [Weitere Informationen zum Südostbayern-Ticket](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-suedostbayern-ticket)
 
@@ -14505,7 +14512,7 @@ Das Sachsen-Böhmen-Ticket gilt von **Montag bis Freitag ab 9 Uhr bis 3 Uhr des 
 
 [Weitere Informationen zum Südostbayern-Ticket plus S-Bahn](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket-plus-s-bahn)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-suedostbayern-ticket-plus-s-bahn)
 
@@ -14517,7 +14524,7 @@ Das Sachsen-Böhmen-Ticket gilt von **Montag bis Freitag ab 9 Uhr bis 3 Uhr des 
 
 [Weitere Informationen zum Regio-Ticket Donau-Isar](https://www.bahn.de/angebot/regio/bayern/regio-ticket-donau-isar)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-ticket-donauisar)
 
@@ -14528,7 +14535,7 @@ Die Tickets gelten ab dem auf der Fahrkarte angegebenen Geltungstag täglich von
 
 [Weitere Informationen zum EgroNet-Ticket Bayern](https://www.bahn.de/angebot/regio/bayern/egronet-ticket-bayern)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-ticket-egronet)
 
@@ -14542,7 +14549,7 @@ Das Ticket gilt für 1 Person an einem Tag in der 2. Klasse
 
 [Weitere Informationen zum Gäubodenbahn-Ticket](https://www.bahn.de/angebot/regio/bayern/gaeubodenbahn-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-ticket-gaeuboden)
 
@@ -14554,7 +14561,7 @@ Das Ticket gilt für 1 Person an einem Tag in der 2. Klasse
 
 [Weitere Informationen zum Prag Spezial](https://www.bahn.de/angebot/regio/bayern/prag-spezial)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?ZO=Prag&VM=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?ZO=Prag&VM=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-ticket-prag-spezial)
 
@@ -14566,7 +14573,7 @@ Das Ticket gilt für 1 Person an einem Tag in der 2. Klasse
 
 [Weitere Informationen zum Regio-Ticket Allgäu-Schwaben](https://www.bahn.de/angebot/regio/bayern/regio-ticket-allgaeu-schwaben)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-ticket-regioticketallgaeuschwaben)
 
@@ -14584,7 +14591,7 @@ Schon ab 0 Uhr am Tag der Reise bis 3 Uhr am nächsten Tag.
 
 [Weitere Informationen zum Traun-Alz-Ticket](https://www.bahn.de/angebot/regio/bayern/traun-alz-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00021C221)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00021C221)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-traun-alz-ticket)
 
@@ -14640,7 +14647,7 @@ Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Fle
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-ist-reservierung-kostenfrei-im-angebot-integriert)
 
@@ -14653,7 +14660,7 @@ Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Fle
 
 [Weitere Informationen zum Gruppenpreis Deutschlandtarif](https://www.bahn.de/angebot/gruppen/gruppenpreis-deutschlandtarif)
 
-[Zur Reiseauskunft Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
+[Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-kann-ich-den-gruppenpreis-deutschlandtarif-buchen)
 
@@ -14692,7 +14699,7 @@ Die dauerhafte Sitzplatzreservierung
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-und-fuer-welche-verbindung-gilt-meine-dauerhafte-sitzplatzreservierung)
 
@@ -14756,7 +14763,7 @@ Sind Sie am 1. Reisetag 65 Jahre oder älter, dann können Sie den Sparpreis Sen
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-die-altersangabe-ab-65-jahre)
 
@@ -14780,7 +14787,7 @@ Das jeweilige Ticket beinhaltet Bergbahn-Ticket und Bahnfahrt (2. Klasse) für e
 
 [Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-beinhalten-die-beiden-ticket-varianten)
 
@@ -14831,7 +14838,7 @@ Versicherungssumme: 1.500 Euro je Reise
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-der-fahrkarten-schutz-ab)
 
@@ -14842,7 +14849,7 @@ Sie erhalten Beistandsleistungen bzw. Entschädigung bei Einbruch an der versich
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-der-schluessel-und-einbruch-schutz-ab)
 
@@ -14853,7 +14860,7 @@ Ihr Koffer mit dem kompletten Inhalt ist weg oder beschädigt? Wir übernehmen d
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-die-reisegepaeck-versicherung-ab)
 
@@ -14865,7 +14872,7 @@ Im Todesfall erhalten Ihre Angehörigen 12.500 Euro.
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-die-reiseunfall-versicherung-ab)
 
@@ -14897,7 +14904,7 @@ Im Todesfall erhalten Ihre Angehörigen 12.500 Euro.
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-die-service-versicherung-ab)
 
@@ -14920,7 +14927,7 @@ Das City-Ticket ist eine Fahrkarte, mit der Sie der rund 140 City-Ticket Städte
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-city-ticket)
 
@@ -15034,7 +15041,7 @@ Move ist die Mobilitätsmarke des Verkehrsverbunds Schwarzwald-Baar-Heuberg und 
 
 [Weitere Informationen zu Tickets im Move-Tarif](https://www.bahn.de/angebot/verbuende/move)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-move)
 
@@ -15045,7 +15052,7 @@ Umtausch und Stornierung sind vor dem 1. Geltungstag kostenfrei.
 
 [Weitere Informationen zu Wochen- und Monatskarten](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kosten-umtausch-oder-rueckgabe-meiner-zeitkarte)
 
@@ -15058,7 +15065,7 @@ Mitreisende Kinder zahlen die Hälfte des Fahrpreises. Kleinkinder reisen kosten
 
 [Weitere Informationen zu Gruppe&Spar Europa](https://www.bahn.de/angebot/gruppen/gruppe-spar-europa)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
+[Infos zum Kauf](https://www.bahn.de/faq/wie-kann-ich-das-angebot-gruppeundspar-europa-buchen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kostet-das-gruppeundspar-europa-ticket)
 
@@ -15069,7 +15076,7 @@ Der Bahn&Bus-Jahresschutz Deutschland kostet 29 Euro für den Geltungsbereich De
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kostet-der-bahn-und-bus-jahresschutz)
 
@@ -15097,7 +15104,7 @@ Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservieru
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kostet-sitzplatzreservierung-im-fv)
 
@@ -15119,7 +15126,7 @@ Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservieru
 
 [Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-muss-ich-beachten-wenn-ich-meinen-hund-im-ausland-im-zug-mitnehmen-will)
 
@@ -15132,7 +15139,7 @@ Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservieru
 
 [Weitere Informationen zur Hundemitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-muss-ich-bei-der-mitnahme-von-hunden-beachten)
 
@@ -15216,7 +15223,7 @@ Bitte wenden Sie sich an unser Service-Team:
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
-[Jetzt auswählen Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
+[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-baustelle-und-ich-keine-einzelfahrt-buchen-kann)
 
@@ -15255,7 +15262,7 @@ Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort kann d
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-zug-ausfaellt-oder-eine-verspaetung-hat)
 
@@ -15270,7 +15277,7 @@ Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort könne
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-zug-ausfaellt-oder-sich-verspaetet)
 
@@ -15325,7 +15332,7 @@ Die Buchung eines Bundeswehr-Tickets ist **nur für die eigene Person** zulässi
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitergabe-bundeswehr-ticket)
 
@@ -15389,7 +15396,7 @@ Erlaubt ist die Abholung und Zustellung auch in die österreichischen Orte im Kl
 
 [Weitere Informationen zu Abo-Angeboten des AVV Augsburg](https://www.bahn.de/angebot/verbuende/avv-augsburg-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=81,109)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=81,109)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-avv-augsburg)
 
@@ -15584,7 +15591,7 @@ Leider sind über den Vertrieb der Bahn keine Abo-Angebote des hvv mehr erhälti
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-marego-abo)
 
@@ -15701,7 +15708,7 @@ Das SchülerFreizeitTicket ist ein Ergänzungsticket. Sie dehnt den Aktionsradiu
 
 [Weitere Informationen zu Abo-Angeboten im MDV](https://www.bahn.de/angebot/verbuende/mdv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=89,120,142,155,156)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-mdv-abo)
 
@@ -15753,7 +15760,7 @@ Das SchülerFreizeitTicket ist ein Ergänzungsticket. Sie dehnt den Aktionsradiu
 
 [Weitere Informationen zu Abo-Angeboten im MVV](https://www.bahn.de/angebot/verbuende/mvv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-mvv)
 
@@ -15803,7 +15810,7 @@ Die Abonnements für den RNN sind nicht mehr über bahn.de erhältlich. Neue A
 
 [Weitere Informationen zu Abo-Angeboten im MVV](https://www.bahn.de/angebot/verbuende/mvv-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-schule-mvv)
 
@@ -15832,7 +15839,7 @@ Die Abonnements für den RNN sind nicht mehr über bahn.de erhältlich. Neue A
 
 [Weitere Informationen zu Abo-Angeboten im SH-Tarif](https://www.bahn.de/angebot/verbuende/sh-tarif-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=74,115,19,20,21,22,23)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=74,115,19,20,21,22,23)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-sh-tarif)
 
@@ -15909,7 +15916,7 @@ Das VBB Semesterzusatzticket ist 2025 nicht mehr erhältlich.
 
 [Weitere Informationen zu Abo-Angeboten im VGN](https://www.bahn.de/angebot/verbuende/vgn-abos)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37,83,117)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=37,83,117)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vgn)
 
@@ -16000,7 +16007,7 @@ Wünschen Sie ein Abo im Übergangstarif, so nutzen Sie die Abo-Anträge wie fol
 
 [Weitere Informationen zu Abo-Angeboten im VMT](https://www.bahn.de/angebot/verbuende/vmt-abo)
 
-[Abo auswählen Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=85,118)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=85,118)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vmt)
 
@@ -16201,7 +16208,7 @@ An Samstagen können Sie kostenfrei eine weitere Person mitnehmen. Zusätzlich k
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-mitnahmeregelungen-gelten-fuer-abos)
 
@@ -16250,7 +16257,7 @@ Mit der Tageskarte fahren Sie beliebig oft in allen Bussen und Nahverkehrszügen
 
 [Weitere Informationen zum Oberallgäu-Ticket](https://www.bahn.de/angebot/regio/bayern/oberallgaeu-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-mit-dem-oberallgaeu-ticket-nutzen)
 
@@ -16265,7 +16272,7 @@ Mit der Tageskarte fahren Sie beliebig oft in allen Bussen und Nahverkehrszügen
 
 [Weitere Informationen zum Rheinland-Pfalz/ Saarland-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/rheinland-pfalz-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen)
 
@@ -16285,7 +16292,7 @@ Mit der Tageskarte fahren Sie beliebig oft in allen Bussen und Nahverkehrszügen
 
 [Weitere Informationen zum Bayern-Böhmen-Ticket](https://www.bahn.de/angebot/regio/bayern/bayern-boehmen-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-bayern-boehmen-ticket)
 
@@ -16334,7 +16341,7 @@ Das Ticket gilt nicht in Stadtbahnen, Trams und Bussen.
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-hessenticket)
 
@@ -16386,7 +16393,7 @@ Alle Regionalzüge (RB, IRE, RE) und S-Bahnen der Deutschen Bahn und anderer tei
 
 [Weitere Informationen zum Quer-Durchs-Land-Ticket](https://www.bahn.de/angebot/regio/quer-durchs-land-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-qdl)
 
@@ -16406,7 +16413,7 @@ Mit beiden Tickets können ausschließlich Nahverkehrszüge (Interregio-Express,
 
 [Weitere Informationen zum Saar-Elsass-Ticket](https://www.bahn.de/angebot/regio/saarland/saar-elsass-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-saar-elsass-ticket)
 
@@ -16431,7 +16438,7 @@ Das Saar-Lor-Lux-Ticket gilt:
 
 [Weitere Informationen zum Saarland-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/saarland-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00010C210)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-saarland-ticket)
 
@@ -16469,7 +16476,7 @@ Das Sachsen-Böhmen-Ticket gilt ausschließlich innerhalb Tschechiens auch in Z�
 
 [Weitere Informationen zum Sachsen-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/sachsen-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00012C212)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00012C212)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-sachsen-ticket)
 
@@ -16485,7 +16492,7 @@ Für detaillierte Informationen prüfen Sie bitte den Geltungsbereich.
 
 [Weitere Informationen zum Schleswig-Holstein-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/schleswig-holstein-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-schleswig-holstein-ticket)
 
@@ -16556,7 +16563,7 @@ Das Angebot ist gültig für Fahrten in Zügen des Nahverkehrs (z.B. IRE, RE, RB
 
 [Weitere Informationen zum Gruppenpreis Deutschlandtarif](https://www.bahn.de/angebot/gruppen/gruppenpreis-deutschlandtarif)
 
-[Zur Reiseauskunft Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
+[Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-zuege-kann-ich-mit-dem-deutschlandtarif-nutzen)
 
@@ -16581,7 +16588,7 @@ Nein. Der Bedienzuschlag im personalbedienten Verkauf wurde abgeschafft. Sparpre
 
 [Weitere Informationen zum Sparpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true&dbkanal_007=testtracking)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true&dbkanal_007=testtracking)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wenn-ich-ein-sparpreis-ticket-am-schalter-erwerbe-kostet-es-dann-mehr)
 
@@ -16743,7 +16750,7 @@ Abo-Kund:innen der Deutschen Bahn mit einer gültigen Abo-Monatskarte, einem DB-
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-eine-dauer-sitzplatzreservierung-buchen)
 
@@ -16756,7 +16763,7 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-regio-ticket-franken-thueringen-fahren)
 
@@ -16769,7 +16776,7 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen plus Erfurt](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen-plus-erfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-regio-ticket-franken-thueringen-plus-erfurt-fahren)
 
@@ -16782,7 +16789,7 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-regio-ticket-main-spessart-fahren)
 
@@ -16795,7 +16802,7 @@ Eine Person und bis zu 4 Mitfahrer:innen
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart plus Frankfurt](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart-plus-frankfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-regio-ticket-main-spessart-plus-frankfurt-fahren)
 
@@ -16808,7 +16815,7 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Weitere Informationen zum Regio-Ticket München-Nürnberg](https://www.bahn.de/angebot/regio/bayern/regio-ticket-muenchen-nuernberg)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-regio-ticket-muenchen-nuernberg-fahren)
 
@@ -16821,7 +16828,7 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Weitere Informationen zum Regio-Ticket Werdenfels](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-regio-ticket-werdenfels-fahren)
 
@@ -16834,7 +16841,7 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Weitere Informationen zum Regio-Ticket Werdenfels plus Innsbruck](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels-plus-innsbruck)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-regio-ticket-werdenfels-plus-innsbruck-fahren)
 
@@ -16854,7 +16861,7 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Weitere Informationen zum Regio-Ticket Donau-Isar](https://www.bahn.de/angebot/regio/bayern/regio-ticket-donau-isar)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-ticket-fahren)
 
@@ -16883,7 +16890,7 @@ Sie erhalten die meisten Angebote des WestfalenTarifs als Online- oder Handy-Tic
 
 [Weitere Informationen zu Tickets im WestfalenTarif](https://www.bahn.de/angebot/verbuende/westfalentarif)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/westfalentarif-wo-kaufen)
 
@@ -17001,7 +17008,7 @@ Der Super Sparpreis Last Minute ist vom 9. Mai bis 13. September 2026 in der reg
 
 [Weitere Informationen zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-buchen-super-sparpreis-last-minute)
 
@@ -17012,7 +17019,7 @@ Sie erhalten Ihr Bergbahn-Ticket gegen Vorlage des Garmischer Sommer-Tickets an 
 
 [Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-mein-bergbahn-ticket)
 
@@ -17030,7 +17037,7 @@ Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "+City" auf 
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erkenne-ich-ob-das-city-ticket-bei-meiner-fahrkarte-mit-dabei-ist)
 
@@ -17039,7 +17046,7 @@ Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "+City" auf 
 
 The "+City" on your ticket indicates that the City-Ticket option covers your start and destination stations.
 
-[Book now Book now](https://www.bahn.de/buchung/intern/start)
+[Book now](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erkenne-ich-ob-das-city-ticket-bei-meiner-fahrkarte-mit-dabei-ist-en)
 
@@ -17050,7 +17057,7 @@ Die Wagen mit Reservierungsbereich sind von außen gekennzeichnet. Im Wagen lots
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-finde-ich-meinen-sitzplatz-bei-einer-reservierung-in-einem-nahverkehrszug)
 
@@ -17067,7 +17074,7 @@ Die Wagen mit Reservierungsbereich sind von außen gekennzeichnet. Im Wagen lots
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-dauer-sitzplatzreservierung-im-nahverkehr)
 
@@ -17097,7 +17104,7 @@ Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutze
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-kostenfreie-sitzplatzreservierung-fuer-inhaber-einer-bahncard-100-1-klasse)
 
@@ -17108,7 +17115,7 @@ Die Schülermonatskarte gilt für Schülerinnen, Schüler und Studiernde, sofern
 
 [Weitere Informationen zu Wochen- und Monatskarten für Schüler](https://www.bahn.de/angebot/pendler/schuelerzeitkarten)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-monatskarte-fuer-schueler)
 
@@ -17137,7 +17144,7 @@ Für Kundinnen und Kunden der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets 
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-sitzplatzreservierung-im-fernverkehr)
 
@@ -17158,7 +17165,7 @@ Für Kundinnen und Kunden der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets 
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-sitzplatzreservierung-wenn-ich-schon-eine-fahrkarte-habe)
 
@@ -17179,7 +17186,7 @@ Alle Wagen sind mit sogenannten RFID-Chips (Radio Frequency Identification) ausg
 
 [Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-genau-muss-ein-transportbehaeltnis-fuer-kleinere-haustiere-beschaffen-sein)
 
@@ -17245,7 +17252,7 @@ Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bah
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-sparpreis-senioren-buchen)
 
@@ -17258,7 +17265,7 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-super-sparpreis-senioren-buchen)
 
@@ -17366,7 +17373,7 @@ Sitzplatzreservierungen sind nicht personalisiert. Sie können die Reservierung 
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-einen-sitzplatz-fuer-jemand-anderen-reservieren)
 
@@ -17444,7 +17451,7 @@ Nach Italien ist die Mitnahme von großen Hunden ausgeschlossen. Für Fahrten in
 
 [Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-tier-ins-ausland-mit-auf-reisen-nehmen)
 
@@ -17465,7 +17472,7 @@ Fügen Sie in der Buchungsanfrage auf der Website unter "Reisende" den Reisenden
 
 [Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-tier-mit-auf-reisen-nehmen)
 
@@ -17570,7 +17577,7 @@ Sollten sich beim Fahrplanwechsel die Fahrtzeiten ändern, melden Sie sich einfa
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-gilt-meine-dauer-sitzplatzreservierung)
 
@@ -17691,7 +17698,7 @@ Die Versicherung läuft ab dem vereinbarten Versicherungsbeginn ein Jahr. Sie ve
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-laeuft-die-versicherung)
 
@@ -17746,7 +17753,7 @@ Nähere Details und die Voraussetzungen für den Versicherungsschutz im Einzelne
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-sehen-die-versicherungsbedingungen-im-detail-aus)
 
@@ -17801,7 +17808,7 @@ Das **24h Ticket Single** kostet in der **39,80 Euro**, das **24h Ticket NRW 
 
 [Infos und Kauf 24h Ticket NRW 5 Personen](https://www.bahn.de/angebot/regio/laender-tickets/24h-ticket-nrw-5-pers)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09&r=13:16:KLASSENLOS:5&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09&r=13:16:KLASSENLOS:5&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kosten-die-24h-tickets)
 
@@ -17956,7 +17963,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Rheinland-Pfalz/ Saarland-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/rheinland-pfalz-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kosten-die-rheinland-pfalz-tickets)
 
@@ -18007,7 +18014,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Sachsen-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/sachsen-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00012C212)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00012C212)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kosten-die-sachsen-tickets)
 
@@ -18055,7 +18062,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Bayern-Böhmen-Ticket](https://www.bahn.de/angebot/regio/bayern/bayern-boehmen-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-bayern-boehmen-ticket)
 
@@ -18072,7 +18079,7 @@ Ausgewählte Agenturen erheben keinen Aufpreis in Höhe von 2 Euro. Eine Auflist
 
 [Weitere Informationen zum Bayern-Hopper-Ticket](https://www.bahn.de/angebot/regio/bayern/bayern-hopper)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-bayern-hopper)
 
@@ -18103,7 +18110,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum EgroNet-Ticket Bayern](https://www.bahn.de/angebot/regio/bayern/egronet-ticket-bayern)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-egro-net-ticket)
 
@@ -18130,7 +18137,7 @@ Im Preis für das Europa-Park Kombiticket sind die An- und Abreise mit allen Nah
 
 [Weitere Informationen zum Europa-Park Kombiticket](https://www.bahn.de/angebot/regio/baden-wuerttemberg/europa-park-kombiticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-europa-park-kombiticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-europa-park-kombiticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-europa-park-kombiticket)
 
@@ -18154,7 +18161,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Gäubodenbahn-Ticket](https://www.bahn.de/angebot/regio/bayern/gaeubodenbahn-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-gaeubodenbahn-ticket)
 
@@ -18165,7 +18172,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-garmischer-sommer-ticket)
 
@@ -18176,7 +18183,7 @@ Das Hessenticket kostet 42,50 Euro.
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-hessenticket)
 
@@ -18242,7 +18249,7 @@ Das Oberallgäu-Ticket ist als Tageskarte erhältlich, hier die Varianten:
 
 [Weitere Informationen zum Oberallgäu-Ticket](https://www.bahn.de/angebot/regio/bayern/oberallgaeu-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-oberallgaeu-ticket)
 
@@ -18271,7 +18278,7 @@ Das Oberallgäu-Ticket ist als Tageskarte erhältlich, hier die Varianten:
 
 [Weitere Informationen zum Quer-Durchs-Land-Ticket](https://www.bahn.de/angebot/regio/quer-durchs-land-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-quer-durchs-land-ticket)
 
@@ -18287,7 +18294,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket Allgäu-Schwaben](https://www.bahn.de/angebot/regio/bayern/regio-ticket-allgaeu-schwaben)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-allgaeu-schwaben)
 
@@ -18303,7 +18310,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket Donau-Isar](https://www.bahn.de/angebot/regio/bayern/regio-ticket-donau-isar)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-donau-isar)
 
@@ -18319,7 +18326,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-franken-thueringen)
 
@@ -18335,7 +18342,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen-plus-erfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-franken-thueringen-plus-erfurt)
 
@@ -18351,7 +18358,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-main-spessart)
 
@@ -18367,7 +18374,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart plus Frankfurt](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart-plus-frankfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-main-spessart-plus-frankfurt)
 
@@ -18383,7 +18390,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket München-Nürnberg](https://www.bahn.de/angebot/regio/bayern/regio-ticket-muenchen-nuernberg)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-muenchen-nuernberg)
 
@@ -18401,7 +18408,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket Werdenfels](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-werdenfels)
 
@@ -18417,7 +18424,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Regio-Ticket Werdenfels plus Innsbruck](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels-plus-innsbruck)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-regio-ticket-werdenfels-plus-innsbruck)
 
@@ -18450,7 +18457,7 @@ Im personenbedienten Verkauf kostet das Ticket 2 Euro mehr.
 
 [Weitere Informationen zum Saar-Elsass-Ticket](https://www.bahn.de/angebot/regio/saarland/saar-elsass-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-saar-elsass-ticket)
 
@@ -18461,7 +18468,7 @@ Es kostet für die 1. Person **27 Euro** (im personenbedienten Verkauf 29 Euro
 
 [Weitere Informationen zum Saar-Lor-Lux-Ticket](https://www.bahn.de/angebot/regio/saarland/saar-lor-lux-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-saar-lor-lux-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-saar-lor-lux-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-saar-lor-lux-ticket)
 
@@ -18492,7 +18499,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Saarland-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/saarland-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00010C210)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-saarland-ticket)
 
@@ -18520,7 +18527,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Schleswig-Holstein-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/schleswig-holstein-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-schleswig-holstein-ticket)
 
@@ -18573,7 +18580,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Südostbayern-Ticket](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-suedostbayern-ticket)
 
@@ -18590,7 +18597,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Prag Spezial](https://www.bahn.de/angebot/regio/bayern/prag-spezial)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?ZO=Prag&VM=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?ZO=Prag&VM=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-ticket-prag-spezial)
 
@@ -18621,7 +18628,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 
 [Weitere Informationen zum Traun-Alz-Ticket](https://www.bahn.de/angebot/regio/bayern/traun-alz-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00021C221)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00021C221)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-traun-alz-ticket)
 
@@ -18818,7 +18825,7 @@ Kinder ab 6 bis 14 Jahren zahlen die Hälfte des Gruppenpreises. Kinder unter 6 
 
 [Weitere Informationen zum Gruppenpreis Deutschlandtarif](https://www.bahn.de/angebot/gruppen/gruppenpreis-deutschlandtarif)
 
-[Zur Reiseauskunft Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
+[Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-spare-ich-mit-dem-gruppenpreis-deutschlandtarif)
 
@@ -18829,7 +18836,7 @@ Sie können je Fahrtrichtung und Zielbahnhof einen Sitzplatz reservieren. Ganz n
 
 [Weitere Informationen zur Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viele-dauer-sitzplaetze-kann-ich-reservieren)
 
@@ -18856,7 +18863,7 @@ Sie können Ihr Quer-durchs-Land-Ticket bis zu **6 Monate im Voraus** kaufen.
 
 [Weitere Informationen zum Quer-Durchs-Land-Ticket](https://www.bahn.de/angebot/regio/quer-durchs-land-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKQDLD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-weit-im-voraus-kann-ich-das-quer-durchs-land-ticket-kaufen)
 
@@ -18899,7 +18906,7 @@ Den Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wird-der-sparpreis-senioren-fuer-die-erste-klasse-angeboten)
 
@@ -18910,7 +18917,7 @@ Den Super Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wird-der-super-sparpreis-senioren-fuer-die-erste-klasse-angeboten)
 
@@ -18939,7 +18946,7 @@ Es gibt keine Unterscheidung nach Privat- oder Geschäftskunden. Sie werden übe
 
 [Weitere Informationen zum Bayern-Hopper-Ticket](https://www.bahn.de/angebot/regio/bayern/bayern-hopper)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bayern-hopper-ticket-kaufen)
 
@@ -19062,7 +19069,7 @@ Im ICE 3neo:
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-sitzplatzreservierungen-im-zug-fernverkehr)
 
@@ -19152,7 +19159,7 @@ Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreser
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gelten-sitzplatzreservierungen)
 
@@ -19174,7 +19181,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen, ausgeno
 
 [Weitere Informationen zum Bayern-Hopper-Ticket](https://www.bahn.de/angebot/regio/bayern/bayern-hopper)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-bayern-hopper-ticket)
 
@@ -19208,7 +19215,7 @@ Die Geltungsbereiche finden Sie unter vmt-thueringen.de.
 
 [VMT-Hopper-Ticket: Infos und Buchung](https://www.bahn.de/angebot/regio/thueringen/vmt-hopper-ticket)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-hopper-ticket-thueringen)
 
@@ -19247,7 +19254,7 @@ Das Tagesticket Oberallgäu (nur Oberallgäu) oder gesamt (einschließlich Kempt
 
 [Weitere Informationen zum Oberallgäu-Ticket](https://www.bahn.de/angebot/regio/bayern/oberallgaeu-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-oberallgaeu-ticket)
 
@@ -19296,7 +19303,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket Allgäu-Schwaben](https://www.bahn.de/angebot/regio/bayern/regio-ticket-allgaeu-schwaben)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-allgaeu-schwaben)
 
@@ -19311,7 +19318,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket Donau-Isar](https://www.bahn.de/angebot/regio/bayern/regio-ticket-donau-isar)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-donau-isar)
 
@@ -19329,7 +19336,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-franken-thueringen)
 
@@ -19346,7 +19353,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen-plus-erfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-franken-thueringen-plus-erfurt)
 
@@ -19359,7 +19366,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-main-spessart)
 
@@ -19372,7 +19379,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart plus Frankfurt](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart-plus-frankfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-main-spessart-plus-frankfurt)
 
@@ -19390,7 +19397,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket München-Nürnberg](https://www.bahn.de/angebot/regio/bayern/regio-ticket-muenchen-nuernberg)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-muenchen-nuernberg)
 
@@ -19411,7 +19418,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket Werdenfels](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-werdenfels)
 
@@ -19440,7 +19447,7 @@ Start- und Zielbahnhof dürfen nicht im gleichen Verkehrsverbund liegen.
 
 [Weitere Informationen zum Regio-Ticket Werdenfels plus Innsbruck](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels-plus-innsbruck)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-regio-ticket-werdenfels-plus-innsbruck)
 
@@ -19477,7 +19484,7 @@ Den Geltungsbereich finden Sie unter bahn.de/agb im Abschnitt Tarifbedingungen d
 
 [Weitere Informationen zum Sachsen-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/sachsen-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00012C212)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00012C212)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-sachsen-ticket)
 
@@ -19588,7 +19595,7 @@ Das **Stadt-Land-Meer-Ticket Plus** gilt **zusätzlich** auf folgenden Strecken:
 
 [Weitere Informationen zum Südostbayern-Ticket](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-suedostbayern-ticket)
 
@@ -19624,7 +19631,7 @@ Mühldorf – Markt Schwaben – München Hbf Mühldorf – Simbach Mühldorf - 
 
 [Weitere Informationen zum Südostbayern-Ticket plus S-Bahn](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket-plus-s-bahn)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-suedostbayern-ticket-plus-s-bahn)
 
@@ -19650,7 +19657,7 @@ Den Geltungsbereich finden Sie unter bahn.de/agb im Abschnitt Tarifbedingungen d
 
 [Weitere Informationen zum Rheinland-Pfalz/ Saarland-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/rheinland-pfalz-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-ticket)
 
@@ -19672,7 +19679,7 @@ Den Geltungsbereich finden Sie unter bahn.de/agb im Abschnitt Tarifbedingungen d
 
 [Weitere Informationen zum Saarland-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/saarland-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00010C210)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-ticket-saarland-ticket)
 
@@ -19775,7 +19782,7 @@ Sie können das Angebot auf diesen Wegen buchen:
 
 [Infos und Kauf](https://www.bahn.de/angebot/regio/bayern/egronet-ticket-bayern)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-egro-net-ticket-kaufen-alle)
 
@@ -19798,7 +19805,7 @@ Sie erhalten das Ticket gleich hier online und an allen DB Automaten entlang der
 
 [Weitere Informationen zum Gäubodenbahn-Ticket](https://www.bahn.de/angebot/regio/bayern/gaeubodenbahn-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-gaeubodenbahn-ticket-kaufen)
 
@@ -19839,7 +19846,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Oberallgäu-Ticket](https://www.bahn.de/angebot/regio/bayern/oberallgaeu-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-oberallgaeu-ticket-kaufen)
 
@@ -19853,7 +19860,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket Allgäu-Schwaben](https://www.bahn.de/angebot/regio/bayern/regio-ticket-allgaeu-schwaben)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-allgaeu-schwaben-kaufen)
 
@@ -19867,7 +19874,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket Donau-Isar](https://www.bahn.de/angebot/regio/bayern/regio-ticket-donau-isar)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00002C202)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-donau-isar-kaufen)
 
@@ -19880,7 +19887,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00005C205)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-franken-thueringen-kaufen)
 
@@ -19893,7 +19900,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket Franken-Thüringen](https://www.bahn.de/angebot/regio/bayern/regio-ticket-franken-thueringen-plus-erfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-franken-thueringen-plus-erfurt-kaufen)
 
@@ -19906,7 +19913,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00004C204)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-main-spessart-kaufen)
 
@@ -19919,7 +19926,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket Main-Spessart plus Frankfurt](https://www.bahn.de/angebot/regio/bayern/regio-ticket-main-spessart-plus-frankfurt)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00007C207)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-main-spessart-plus-frankfurt-kaufen)
 
@@ -19934,7 +19941,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket München-Nürnberg](https://www.bahn.de/angebot/regio/bayern/regio-ticket-muenchen-nuernberg)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00003C203)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-muenchen-nuernberg-kaufen)
 
@@ -19950,7 +19957,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket Werdenfels](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00006C206)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-werdenfels-kaufen)
 
@@ -19964,7 +19971,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Regio-Ticket Werdenfels plus Innsbruck](https://www.bahn.de/angebot/regio/bayern/regio-ticket-werdenfels-plus-innsbruck)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRETD00009C209)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-regio-ticket-werdenfels-plus-innsbruck-kaufen)
 
@@ -19978,7 +19985,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Südostbayern-Ticket](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00019C219)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-suedostbayern-ticket-kaufen)
 
@@ -19992,7 +19999,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Südostbayern-Ticket plus S-Bahn](https://www.bahn.de/angebot/regio/bayern/suedostbayern-ticket-plus-s-bahn)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00020C220)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-suedostbayern-ticket-plus-s-bahn-kaufen)
 
@@ -20005,7 +20012,7 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 [Weitere Informationen zum Bayern-Böhmen-Ticket](https://www.bahn.de/angebot/regio/bayern/bayern-boehmen-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-ticket-kaufen)
 
@@ -20085,7 +20092,7 @@ Die Mehrfahrten-Tickets des Fernverkehrs sind über mehrfahrten-ticket-bahn.de e
 
 [Weitere Informationen zu Wochen- und Monatskarten](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-meine-zeitkarte-buchen)
 
@@ -20161,7 +20168,7 @@ Kein Verkauf im Zug!
 
 [Weitere Informationen zum Saar-Elsass-Ticket](https://www.bahn.de/angebot/regio/saarland/saar-elsass-ticket)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-saar-elsass-ticket-kaufen)
 
@@ -20202,7 +20209,7 @@ Kein Verkauf im Zug!
 
 [Alle Infos zum Ferienticket NRW](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Infos zum Kauf Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
@@ -20295,7 +20302,7 @@ Bite beachten Sie: Sobald Sie eine Information über die Migration Ihres Abo-Ver
 
 [Weitere Informationen zu Tickets im VGN](https://www.bahn.de/angebot/verbuende/vgn)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wochen-monatswertmarke-ausbildung-vgn)
 
@@ -20306,7 +20313,7 @@ Ja, die BahnBonus Punkte werden Ihnen nach Kauf gutgeschrieben. Hierfür müssen
 
 [Weitere Informationen zu Wochen- und Monatskarten](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wochenkarten-monatskarte-bahnbonus)
 
@@ -20317,7 +20324,7 @@ Nein, das Deutschland-Ticket ist bei Wochen- und Monatskarten nicht inklusive.
 
 [Weitere Informationen zu Wochen- und Monatskarten](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wochenkarten-monatskarte-deutschland-ticket)
 
@@ -20511,7 +20518,7 @@ Das Ticket bietet sich für einen Tagesausflug mit bis zu 5 Personen vom Bayern 
 
 [Weitere Informationen zum Bayern-Böhmen-Ticket](https://www.bahn.de/angebot/regio/bayern/bayern-boehmen-ticket)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00008C208)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00008C208)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohin-kann-ich-mit-dem-bayern-boehmen-ticket-fahren)
 
@@ -20524,7 +20531,7 @@ Mit dem Hessenticket können Sie alle Nahverkehrszüge und Verkehrsmittel im Gel
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohin-kann-ich-mit-dem-hessenticket-fahren)
 
@@ -20593,7 +20600,7 @@ Reisende mit Wohnsitz in Europa, der Türkei und Russland können einen Interrai
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/one-country-pass)
 
-[One Country Pass auswählen One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
+[One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohnsitzland)
 
@@ -20631,7 +20638,7 @@ Sie erhalten die meisten WTV-Angebote als Online- und Handy-Ticket
 
 [Weitere Informationen zu Tickets im WTV](https://www.bahn.de/angebot/verbuende/wtv)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wtv-wo-kaufen)
 
@@ -20649,7 +20656,7 @@ Die Reise ist für Sie kostenlos. Die Buchung des Tickets wird durch einen Aktio
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlung-bundeswehr-dienstantrittsreisen)
 
@@ -20683,7 +20690,7 @@ Ja, vor dem 1. Geltungstag ist eine kostenfreie Stornierung möglich.
 
 [Weitere Informationen zu Wochen- und Monatskarten für Schüler:innen](https://www.bahn.de/angebot/pendler/schuelerzeitkarten)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarte-stornieren)
 
@@ -20708,7 +20715,7 @@ Du kannst das Angebot vom 1. April bis 31. Juli 2026 buchen für Reisen zwischen
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitraum-flexpreis-young)
 
@@ -20726,7 +20733,7 @@ Mit dem Ticket haben Sie keine Zugbindung. Mit einem Ticket für einen ICE oder 
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-bundeswehr-dienstantrittsreisen)
 
@@ -20740,7 +20747,7 @@ Mit dem Ticket haben Sie keine Zugbindung. Mit einem Ticket für einen ICE oder 
 
 [Weiter Informationen zum Bundeswehr-Ticket](https://www.bahn.de/angebot/aktionsangebote/bundeswehr)
 
-[Zur Buchung mit Zugangscode Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
+[Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-bundeswehr-ticket)
 
@@ -20761,7 +20768,7 @@ Hinweis: Nutzen Sie mit einer IC/EC Fahrkarte einen ICE Zug, zahlen Sie einen Pr
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-flexpreis)
 
@@ -20780,7 +20787,7 @@ Mit dem Flexpreis Young hast du keine Zugbindung.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-flexpreis-young)
 
@@ -20791,7 +20798,7 @@ Beim Normalpreis haben Sie keine Zugbindung. Sie können damit in Nahverkehrszü
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-normalpreis)
 
@@ -21032,7 +21039,7 @@ Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrem Ticket besteht ke
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-sparpreis-gruppe)
 
@@ -21065,7 +21072,7 @@ Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrem Ticket besteht ke
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-super-sparpreis-gruppe)
 
@@ -21089,7 +21096,7 @@ Züge des Nahverkehrs der DB können Sie für die Anreise zum Bahnhof und Weiter
 
 [Weitere Informationen zu den Sparpreisen DB-PEP](https://www.bahn.de/angebot/aktionsangebote/partner)
 
-[Jetzt Verbindung suchen Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
+[Jetzt Verbindung suchen](https://www.bahn.de/buchung/intern/start#?STS=false&KL=2&ET=DB_PEP)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zugbindung-db-pep)
 
@@ -21142,7 +21149,7 @@ Der Preis eines Fahrrads oder Scooters setzt sich aus dem Basistarif sowie einer
 
 [Weitere Informationen zu Bundeswehr-Dienstantrittsreisen](https://www.bahn.de/angebot/aktionsangebote/bundeswehr-dienstantrittsreisen)
 
-[Zur Buchung 2. Klasse Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
+[Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zusatzleistungen-bundeswehr-dienstantrittsreisen)
 
@@ -21157,7 +21164,7 @@ Sie erhalten die meisten ZVON-Angebote als Online- oder Handy-Ticket in unserer 
 
 [Weitere Informationen zu Tickets im ZVON](https://www.bahn.de/angebot/verbuende/zvon)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zvon-wo-kaufen)
 
@@ -21179,6 +21186,6 @@ Sie dürfen mit dem Flexpreis Eurpa-Ticket Ihre Fahrt unterbrechen und später f
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zwischenstopp--flexpreis-europa)

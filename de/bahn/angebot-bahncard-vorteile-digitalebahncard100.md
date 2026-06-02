@@ -15,8 +15,8 @@ Zur Nutzung der digitalen BahnCard 100 benötigen Sie ein [DB Kundenkonto](https
 Es folgen Direktsprünge zu detaillierten Erläuterungen
 ----------
 
-* [Springe zu: So funktioniert die digitale BahnCard 100 in der App DB NavigatorSeitenabsprung: So funktioniert die digitale BahnCard 100 in der App DB Navigator](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard100#funktion)
-* [Springe zu: So wird die digitale BahnCard 100 in der App DB Navigator mit einem anderen Gerät verknüpftSeitenabsprung: So wird die digitale BahnCard 100 in der App DB Navigator mit einem anderen Gerät verknüpft](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard100#verknuepfung)
+* [Springe zu: So funktioniert die digitale BahnCard 100 in der App DB Navigator](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard100#funktion)
+* [Springe zu: So wird die digitale BahnCard 100 in der App DB Navigator mit einem anderen Gerät verknüpft](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard100#verknuepfung)
 
 So funktioniert die digitale BahnCard 100 in der App DB Navigator:
 ----------
@@ -161,4 +161,4 @@ Nein, Sie sammeln mit Ihrer BahnBonus Nummer. Diese finden Sie in Ihrem DB Kunde
 BahnCard Datenschutzhinweise
 ----------
 
-* [Mehr erfahren Weitere Informationen: Mehr erfahren](https://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahncard)
+* [Mehr erfahren](https://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahncard)

@@ -13,7 +13,7 @@ Haben Sie bereits eine Fahrkarte? Dann buchen Sie bitte die Fahrradkarte mit Ste
 
 [Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/01wie-viel-kostet-die-fahrradmitnahme-im-fernverkehr)
 
@@ -45,7 +45,7 @@ Sie können Ihre Fahrradkarten nicht online buchen. Kontaktieren Sie unsere DB V
 
 [Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/02wo-kann-ich-die-fahrradmitnahme-fuer-reisen-innerhalb-deutschlands-buchen)
 
@@ -63,7 +63,7 @@ Hinweis: Es gibt eine Kennzeichnungspflicht für Reisen nach Italien (via Öster
 
 [Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/03wo-kann-ich-die-fahrradmitnahme-in-internationalen-zuegen-buchen)
 
@@ -76,7 +76,7 @@ Sie können Klappräder sicher in den Gepäckregalen und Mehrzweckbereichen unte
 
 [Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/04kann-ich-mein-fahrrad-als-handgepaeck-kostenfrei-mitnehmen)
 
@@ -151,7 +151,7 @@ An den Fahrradstellplätzen gibt es **keinen Schließmechanismus**. Nutzen Sie I
 
 [Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/14was-muss-ich-bei-der-mitnahme-meines-pedelecs-beachten)
 
@@ -185,7 +185,7 @@ Sie können ein Elektro-Kleinstfahrzeug (z. B. E-Scooter, E-Tretroller, E-Kickbo
 
 [Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/15was-muss-ich-bei-der-mitnahme-meines-e-tretrollers-oder-e-scooter-beachten)
 
@@ -205,7 +205,7 @@ Tipp: Packen Sie das Rad in eine Tasche oder befestigen Sie es vorsichtig mit mi
 
 [Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/16was-muss-ich-bei-der-mitnahme-von-faltraedern-beachten)
 
@@ -243,7 +243,7 @@ Wenn Sie Ihr Fahrrad in einem EC-Zug nach Italien (via Österreich/Brenner) mitn
 
 [Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/19muss-ich-mein-fahrrad-fuer-die-mitnahme-in-fernverkehrszuegen-kennzeichnen)
 
@@ -670,7 +670,7 @@ Die Belegt-Anzeige bleibt bis kurz vor Ihrem Ausstieg sichtbar. Diese Funktion i
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzeige-belegter-sitzplatz)
 
@@ -827,7 +827,7 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis)
 
@@ -838,7 +838,7 @@ Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-normalpreis)
 
@@ -849,7 +849,7 @@ Nein, es gibt keinen Rabatt auf den Normalpreis Europa.
 
 [Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-normalpreis-europa)
 
@@ -1249,7 +1249,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-sparpreis-gruppe)
 
@@ -1286,7 +1286,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-super-sparpreis-gruppe)
 
@@ -1918,7 +1918,7 @@ Das Ticket bwFahrrad ist ein Tag lang gültig im Geltungsbereich in Nahverkehrsz
 
 [Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-bw-gueltig)
 
@@ -1929,7 +1929,7 @@ Die Fahrrad-Tageskarte bwFahrrad kostet 6 Euro pro Rad und Tag. Sie ist nur gü
 
 [Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-bw-kosten)
 
@@ -1944,7 +1944,7 @@ Eine Übersicht der Strecken, auf denen ein zusätzliches Fahrradticket nötig i
 
 [Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-bw-mitnahme)
 
@@ -1964,7 +1964,7 @@ Ihr Ticket gilt an einem Tag Ihrer Wahl **von 0 bis 3 Uhr** **des Folgetages.**
 
 [Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-niedersachsen-gueltig)
 
@@ -1975,7 +1975,7 @@ Die Fahrradtageskarte Niedersachsen kostet 7 Euro pro Rad und Tag. Sie ist nur 
 
 [Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-niedersachsen-kosten)
 
@@ -1986,7 +1986,7 @@ Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stor
 
 [Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-niedersachsen-storno)
 
@@ -2000,7 +2000,7 @@ Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stor
 
 [Weitere Informationen zur Fahrrad-Tageskarte NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-gueltig)
 
@@ -2022,7 +2022,7 @@ Das 24hFahrradTicket NRW gilt zur Mitnahme jeweils eines Fahrrads in Zusammenhan
 
 [Weitere Informationen zum 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kosten)
 
@@ -2033,7 +2033,7 @@ Bitte kaufen Sie Ihre Fahrkarte (für Sie als Person) für den Nahverkehr separ
 
 [Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradkarte-fuer-den-nahverkehr-zusammen-mit-fahrkarte-buchen)
 
@@ -2465,7 +2465,7 @@ Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfr
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-fuer-kostenlos-mitreiseisende-kinder-kostenfreie-sitzplatzreservierungen)
 
@@ -2515,7 +2515,7 @@ Bitte informieren Sie sich auch rechtzeitig vor Antritt Ihrer Reise zu mögliche
 
 [Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/habe-ich-fuer-mein-fahrrad-eine-mitnahmegarantie-im-nahverkehr)
 
@@ -3028,7 +3028,7 @@ Ja, der Flexpreis Europa ist auch für internationale Verbindungen buchbar.
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis)
 
@@ -3283,7 +3283,7 @@ Nein, wir bieten keine Stellplatzreservierungen für Fahrräder im Nahverkehr an
 
 [Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
 
-[Jetzt auswählen Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-fuer-mein-fahrrad-im-nahverkehr-einen-stellplatz-reservieren)
 
@@ -3460,7 +3460,7 @@ Ja, bei vielen ICE-Verbindungen können Sie Ihren Wunschplatz über die grafisch
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-sitzplaetze-gezielt-auswaehlen)
 
@@ -3831,7 +3831,7 @@ Wählen Sie bei der Abfrage der Reiseverbindung auf der Website die Umsteigezeit
 
 [Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehr-umstiegszeit-fahrrad-reiseauskunft)
 
@@ -4525,7 +4525,7 @@ Ob tatsächlich noch Stellplätze im ICE, IC- oder EC-Zug frei sind, erkennen Si
 
 [Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-verfuegbare-fahrradstellplaetze-finden)
 
@@ -4624,7 +4624,7 @@ Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reser
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-flexpreis-europa)
 
@@ -4766,7 +4766,7 @@ Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung koste
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung--flexpreis-europa)
 
@@ -4778,7 +4778,7 @@ Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung koste
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-flexpreis)
 
@@ -4810,7 +4810,7 @@ Sie können auch direkt auf der Startseite der App DB Navigator oben links im Dr
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-fv-ohne-ticket)
 
@@ -4821,7 +4821,7 @@ Nein, beim Normalpreis ist keine Sitzplatzreservierung enthalten.
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-normalpreis)
 
@@ -4832,7 +4832,7 @@ Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
 
 [Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-normalpreis-europa)
 
@@ -4874,7 +4874,7 @@ Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit F
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statusleuchte-ice-3neo)
 
@@ -4936,7 +4936,7 @@ Unabhängig von den Angebots-Bedingungen:
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis)
 
@@ -4957,7 +4957,7 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales 
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis-europa)
 
@@ -4971,7 +4971,7 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales 
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-normalpreis)
 
@@ -5115,7 +5115,7 @@ Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornier
 
 [Zum Super Sparpreise Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-last-minute)
 
@@ -5135,7 +5135,7 @@ Sie können Ihr **Digitales Ticket** in den **Fernverkehrszügen** aber bis 1
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-im-zug-kaufen-flexpreis)
 
@@ -5146,7 +5146,7 @@ Für Nahverkehrsverbindungen des Deutschlandtarifs gilt, dass im Zug beim Zugper
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-im-zug-kaufen-normalpreis)
 
@@ -5333,7 +5333,7 @@ Tickets können bis zu **12 Monate im Voraus** gebucht werden.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis)
 
@@ -5346,7 +5346,7 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
 
 [Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis-europa)
 
@@ -5357,7 +5357,7 @@ Sie können das Normalpreis-Ticket **bis zu 6 Monate im Voraus** buchen. Vor den
 
 [Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
 
-[Strecke auswählen Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-normalpreis)
 
@@ -5424,7 +5424,7 @@ Sie können das Ticket samstags und sonntags für Montag bis Sonntag der Folg
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-last-minute)
 
@@ -5492,7 +5492,7 @@ Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Fle
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-ist-reservierung-kostenfrei-im-angebot-integriert)
 
@@ -6043,7 +6043,7 @@ Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservieru
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kostet-sitzplatzreservierung-im-fv)
 
@@ -6136,7 +6136,7 @@ Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort kann d
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-zug-ausfaellt-oder-eine-verspaetung-hat)
 
@@ -6151,7 +6151,7 @@ Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort könne
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-zug-ausfaellt-oder-sich-verspaetet)
 
@@ -6572,7 +6572,7 @@ We will of course transport your orthopaedic aids, such as a wheelchair, rollato
 
 [Information on taking bicycles on long-distance trains (in German)](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/what-other-luggage-items-can-i-take-on-the-train)
 
@@ -6798,7 +6798,7 @@ Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "+City" auf 
 
 [Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erkenne-ich-ob-das-city-ticket-bei-meiner-fahrkarte-mit-dabei-ist)
 
@@ -6827,7 +6827,7 @@ Die Schülermonatskarte gilt für Schülerinnen, Schüler und Studiernde, sofern
 
 [Weitere Informationen zu Wochen- und Monatskarten für Schüler](https://www.bahn.de/angebot/pendler/schuelerzeitkarten)
 
-[Preise vergleichen und bestellen Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
+[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-monatskarte-fuer-schueler)
 
@@ -6856,7 +6856,7 @@ Für Kundinnen und Kunden der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets 
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-sitzplatzreservierung-im-fernverkehr)
 
@@ -7036,7 +7036,7 @@ Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bah
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-sparpreis-senioren-buchen)
 
@@ -7049,7 +7049,7 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-super-sparpreis-senioren-buchen)
 
@@ -7309,7 +7309,7 @@ Nach Italien ist die Mitnahme von großen Hunden ausgeschlossen. Für Fahrten in
 
 [Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-tier-ins-ausland-mit-auf-reisen-nehmen)
 
@@ -7330,7 +7330,7 @@ Fügen Sie in der Buchungsanfrage auf der Website unter "Reisende" den Reisenden
 
 [Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-tier-mit-auf-reisen-nehmen)
 
@@ -8052,7 +8052,7 @@ Den Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
 [Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wird-der-sparpreis-senioren-fuer-die-erste-klasse-angeboten)
 
@@ -8063,7 +8063,7 @@ Den Super Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
 [Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
 
-[Günstigen Preis finden Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wird-der-super-sparpreis-senioren-fuer-die-erste-klasse-angeboten)
 
@@ -8181,7 +8181,7 @@ Im ICE 3neo:
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-sitzplatzreservierungen-im-zug-fernverkehr)
 
@@ -8261,7 +8261,7 @@ Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreser
 
 [Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
 
-[Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gelten-sitzplatzreservierungen)
 
@@ -8644,6 +8644,6 @@ Ein zusammengelegtes Fahrrad mit größeren Maßen gilt als kostenpflichtiges Fa
 
 [Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
-[Jetzt buchen Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
+[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zusammengelegte-raeder-italien-oesterreich)

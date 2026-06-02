@@ -163,7 +163,7 @@ Es gelten die jeweils gültigen AGB der einzelnen Angebote. Die meisten Aktionsa
 Anleitung: So stornieren Sie Ihr digitales Ticket
 ----------
 
-* [Zur Anleitung Führt zu Anleitung zur Stornierung von digitalen Tickets](https://www.bahn.de/faq/wie-kann-ich-mein-ticket-umtauschen-oder-stornieren)
+* [Zur Anleitung](https://www.bahn.de/faq/wie-kann-ich-mein-ticket-umtauschen-oder-stornieren)
 
 Umtausch oder Stornierung von Sitzplatzreservierungen, Fahrradtickets und 1. Klasse-Upgrades
 ----------

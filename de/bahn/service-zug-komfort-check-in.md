@@ -51,7 +51,7 @@ Sie haben keine Reservierung? Dann geben Sie bei "Wagen" die Wagennummer und dan
 
 Wagen- und Sitzplatznummer können Sie auch per QR-Code ermitteln.
 
-[Weitere Informationen zu Wagen und Sitzplatz per QR-Code ermitteln Weitere Informationen: Ohne Reservierung: Sitzplatz eingeben](https://www.bahn.de/service/zug/komfort-check-in#qrcode)
+[Weitere Informationen zu Wagen und Sitzplatz per QR-Code ermitteln](https://www.bahn.de/service/zug/komfort-check-in#qrcode)
 
 ### Check-in abschließen ###
 
@@ -67,7 +67,7 @@ Sie sind jetzt auf diesem Reiseabschnitt und Sitzplatz eingecheckt.
 
 Tipp: Sie können Ihren Sitzplatz auch nachträglich noch ändern.
 
-[Weitere Informationen zu „Umsetzen und neu einchecken“ Weitere Informationen: Fertig](https://www.bahn.de/service/zug/komfort-check-in#umsetzen)
+[Weitere Informationen zu „Umsetzen und neu einchecken“](https://www.bahn.de/service/zug/komfort-check-in#umsetzen)
 
 Umsetzen und neu einchecken
 ----------
@@ -176,7 +176,7 @@ Lesen Sie hier, wie Sie sich bequem auf unserer Website einchecken. Die Webseite
 
 Setzen Sie sich auf Ihren Platz. Rufen Sie dann im Browser auf Ihrem Rechner oder mobilen Gerät folgenden Link auf:
 
-[Jetzt einchecken Jetzt einchecken mit Komfort Check](https://www.bahn.de/buchung/jetzt-einchecken)
+[Jetzt einchecken](https://www.bahn.de/buchung/jetzt-einchecken)
 
 ### Auftrag eingeben ###
 

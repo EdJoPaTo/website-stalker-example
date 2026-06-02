@@ -18,7 +18,7 @@ Allgemeine Regelungen
 
 **Sie möchten Ihr Fahrrad mitnehmen?** Hier finden Sie weitere Informationen:
 
-* [Fahrradmitnahme bei der Nahverkehrsfreigabe Weitere Informationen: Fahrradmitnahme bei der Nahverkehrsfreigabe](https://www.bahn.de/service/individuelle-reise/fahrrad/fahrradmitnahme-nahverkehrsfreigabe)
+* [Fahrradmitnahme bei der Nahverkehrsfreigabe](https://www.bahn.de/service/individuelle-reise/fahrrad/fahrradmitnahme-nahverkehrsfreigabe)
 
 IC-Strecken mit Freigabe für den Nahverkehr
 ----------

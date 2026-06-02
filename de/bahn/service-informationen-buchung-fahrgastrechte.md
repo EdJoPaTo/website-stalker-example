@@ -19,10 +19,10 @@ Diese Ansprüche haben Sie im Rahmen Ihrer Fahrgastrechte
 So können Sie Ihren Entschädigungsanspruch geltend machen...
 ----------
 
-* [Springe zu: digital über das DB Kundenkonto auf bahn.de oder im DB Navigatordigital über das DB Kundenkonto auf bahn.de oder im DB Navigator](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digi)
-* [Springe zu: digital über die Auftragssuche auf bahn.de oder im DB Navigatordigital über die Auftragssuche auf bahn.de](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digineu)
-* [Springe zu: mit dem Fahrgastrechte-Formularmit dem Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print)
-* [mit dem EU-Antragsformularmit dem EU-Antragsformular](https://www.bahn.de/faq/eu-formular)
+* [Springe zu: digital über das DB Kundenkonto auf bahn.de oder im DB Navigator](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digi)
+* [Springe zu: digital über die Auftragssuche auf bahn.de oder im DB Navigator](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digineu)
+* [Springe zu: mit dem Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print)
+* [mit dem EU-Antragsformular](https://www.bahn.de/faq/eu-formular)
 
 Entschädigung über das DB Kundenkonto auf bahn.de oder im DB Navigator beantragen
 ----------
@@ -32,9 +32,9 @@ Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gekauft haben bzw. das Ticket/die Z
 Entschädigung übers Kundenkonto beantragen
 ----------
 
-[Login Privatreisen Als Privatreisender einloggen](https://www.bahn.de/info/login)
+[Login Privatreisen](https://www.bahn.de/info/login)
 
-[Login Geschäftsreisen Als Geschäftsreisender einloggen](https://www.bahn.de/bahnbusiness/buchung/kundenkonto/ihrkonto)
+[Login Geschäftsreisen](https://www.bahn.de/bahnbusiness/buchung/kundenkonto/ihrkonto)
 
 Entschädigung über die Auftragssuche auf bahn.de oder im DB Navigator beantragen
 ----------
@@ -44,9 +44,9 @@ Für digital gekaufte Tickets, die nicht im DB Kundenkonto hinterlegt sind, kön
 Entschädigung über die Auftragssuche beantragen
 ----------
 
-[Zur Auftragssuche Privatreisen Als Privatreisender zur Auftragssuche einloggen](https://www.bahn.de/buchung/meine-reisen)
+[Zur Auftragssuche Privatreisen](https://www.bahn.de/buchung/meine-reisen)
 
-[Zur Auftragssuche Geschäftsreisen Als Geschäftsreisender zur Auftragssuche einloggen](https://www.bahn.de/bahnbusiness/buchung/meine-reisen)
+[Zur Auftragssuche Geschäftsreisen](https://www.bahn.de/bahnbusiness/buchung/meine-reisen)
 
 Entschädigung mit dem Fahrgastrechte-Formular beantragen
 ----------
@@ -55,7 +55,7 @@ Laden Sie sich hier das barrierefreie Formular als PDF herunter und füllen Sie 
 
 Zudem erhalten Sie das Formular auch beim Servicepersonal im Zug, an der DB Information oder im DB Reisezentrum.
 
-* [Fahrgastrechte-Formular aufrufen (PDF, 89 KB) Weitere Informationen: Fahrgastrechte-Formular aufrufen (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
+* [Fahrgastrechte-Formular aufrufen (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
 
 In 3 Schritten per Fahrgastrechte-Formular zur Entschädigung:
 
@@ -102,19 +102,19 @@ Beachten Sie die [Sonderfälle, in denen Ihr Antrag nur über das Servicecenter
 
 Erfahren Sie, welche Regelungen gelten und welche Ansprüche Sie unter welchen Voraussetzungen haben.
 
-[Ihre Rechte als Fahrgast im Eisenbahnverkehr Ihre Rechte als Fahrgast im Eisenbahnverkehr](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen)
+[Ihre Rechte als Fahrgast im Eisenbahnverkehr](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen)
 
 ### Übersicht teilnehmender Eisenbahnunternehmen im Servicecenter Fahrgastrechte ###
 
 Für Fahrten mit diesen Eisenbahnunternehmen können Sie Ansprüche über das Servicecenter Fahrgastrechte geltend machen.
 
-[Übersicht teilnehmende Eisenbahnunternehmen Übersicht teilnehmende Eisenbahnunternehmen](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/service-center)
+[Übersicht teilnehmende Eisenbahnunternehmen](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/service-center)
 
 ### Mobilitäts­­eingeschränkte Fahrgäste ###
 
 Informationen speziell zu Fahrgastrechten und Zugangsregeln für Reisende mit Behinderung oder eingeschränkter Mobilität.
 
-[Fahrgastrechte für Reisende mit Mobilitätseinschränkungen Fahrgastrechte für Reisende mit Mobilitätseinschränkungen](https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte)
+[Fahrgastrechte für Reisende mit Mobilitätseinschränkungen](https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte)
 
 Das könnte Sie auch interessieren
 ----------
@@ -139,19 +139,19 @@ Lösen Sie Gutscheine mit einer 7-stelligen alphanumerischen Gutscheinnummer dir
 
 Sollten Sie mit einer Entscheidung zu Ihrem Erstattungsantrag nicht einverstanden sein, können Sie sich an eine unabhängige Schlichtungsstelle wenden.
 
-* [Schlichtungsstellen Weitere Informationen: Schlichtungsstellen](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/fahrgastrechte-schlichtung)
+* [Schlichtungsstellen](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/fahrgastrechte-schlichtung)
 
 Häufig gestellte Fragen zu Fahrgastrechten
 ----------
 
-* [Finden Sie Antworten auf Fragen zum Thema Fahrgastrechte Weitere Informationen: Finden Sie Antworten auf Fragen zum Thema Fahrgastrechte](https://bahn.de/faq/pk/service/buchung/fahrgastrechte)
+* [Finden Sie Antworten auf Fragen zum Thema Fahrgastrechte](https://bahn.de/faq/pk/service/buchung/fahrgastrechte)
 
 Weitere Informationen
 ----------
 
-* [Beförderungsbedingungen für den Personenverkehr Weitere Informationen: Beförderungsbedingungen für den Personenverkehr](https://www.bahn.de/agb)
-* [Ihre Fahrgastrechte im Eisenbahnverkehr (PDF, 1 MB) Weitere Informationen: Ihre Fahrgastrechte im Eisenbahnverkehr (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-im-Eisenbahnverkehr-One-Pager.pdf)
-* [Broschüre "Ihre Rechte als unser Fahrgast" (PDF, 1 MB) Weitere Informationen: Broschüre "Ihre Rechte als unser Fahrgast" (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-Broschuere-Ihre-Rechte-Als-Unser-Fahrgast.pdf)
-* [Übersicht über die vertraglichen Beförderer in Deutschland (PDF, 528 KB) Weitere Informationen: Übersicht über die vertraglichen Beförderer in Deutschland (PDF, 528 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Uebersicht-vertragliche-Befoerderer.pdf)
-* [Wer ist Ihr Vertragspartner? (PDF, 564 KB) Weitere Informationen: Wer ist Ihr Vertragspartner? (PDF, 564 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Wer-ist-Ihr-Vertragspartner.pdf)
-* [Entschädigung mit dem EU-Formular beantragen Weitere Informationen: Entschädigung mit dem EU-Formular beantragen](https://www.bahn.de/faq/eu-formular)
+* [Beförderungsbedingungen für den Personenverkehr](https://www.bahn.de/agb)
+* [Ihre Fahrgastrechte im Eisenbahnverkehr (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-im-Eisenbahnverkehr-One-Pager.pdf)
+* [Broschüre "Ihre Rechte als unser Fahrgast" (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-Broschuere-Ihre-Rechte-Als-Unser-Fahrgast.pdf)
+* [Übersicht über die vertraglichen Beförderer in Deutschland (PDF, 528 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Uebersicht-vertragliche-Befoerderer.pdf)
+* [Wer ist Ihr Vertragspartner? (PDF, 564 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Wer-ist-Ihr-Vertragspartner.pdf)
+* [Entschädigung mit dem EU-Formular beantragen](https://www.bahn.de/faq/eu-formular)

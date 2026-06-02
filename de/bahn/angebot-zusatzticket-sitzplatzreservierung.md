@@ -38,17 +38,17 @@ Sitzplatzreservierung im Nahverkehr
 • Nur 40 Euro im Jahr, in einigen Bundesländern sogar kostenfrei
 • Bequem pendeln mit einem festen Sitzplatz
 
-[Weitere Informationen Weitere Informationen: Dauerreservierung im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
+[Weitere Informationen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
 
-[Einloggen & buchen Dauerreservierung im Nahverkehr: Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
+[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 ### Einzelreservierung im Nahverkehr ###
 
 Reservieren Sie Ihren Sitzplatz für ausgewählte Verbindungen in Regionalzügen.
 
-[Zu den Reservierungsmöglichkeiten Zu den Reservierungsmöglichkeiten in Regionalzügen](https://regional.bahn.de/service/sitzplatzreservierung-in-regionalzuegen)
+[Zu den Reservierungsmöglichkeiten](https://regional.bahn.de/service/sitzplatzreservierung-in-regionalzuegen)
 
 Häufig gestellte Fragen zur Sitzplatzreservierung
 ----------
 
-* [Antworten finden Sie in unseren FAQ Weitere Informationen: Antworten finden Sie in unseren FAQ](https://bahn.de/faq/pk/angebot/sitzplatzreservierung)
+* [Antworten finden Sie in unseren FAQ](https://bahn.de/faq/pk/angebot/sitzplatzreservierung)

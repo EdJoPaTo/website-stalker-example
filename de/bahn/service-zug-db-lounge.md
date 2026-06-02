@@ -79,7 +79,7 @@ Nutzungsbestimmungen und Legitimationsprüfung
 ----------
 
 * [DB Lounge Nutzungsbestimmungen (PDF, 668 KB)](https://assets.static-bahn.de/dam/jcr:54681983-bb7e-49bd-b71f-0b9c9eea5fe2/DB%20Lounge%20Nutzungsbestimmungen_M%C3%A4rz%202023.pdf)
-* [Legitimationsprüfung DB Lounges - Das elektronische Lesegerät (PDF, 560 KB)Legitimationsprüfung DB Lounges - Das elektronische Lesegerät](https://assets.static-bahn.de/dam/jcr:14d34826-e362-4fcf-89a0-6458fe7169ec/2025%20-%20Legitimationspr%C3%BCfung%20DB%20Lounges%20-%20Das%20elektronische%20Leseger%C3%A4t_sep25.pdf)
+* [Legitimationsprüfung DB Lounges - Das elektronische Lesegerät (PDF, 560 KB)](https://assets.static-bahn.de/dam/jcr:14d34826-e362-4fcf-89a0-6458fe7169ec/2025%20-%20Legitimationspr%C3%BCfung%20DB%20Lounges%20-%20Das%20elektronische%20Leseger%C3%A4t_sep25.pdf)
 
 DB Lounges
 ----------
@@ -94,7 +94,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Öffnungszeiten:** Montag bis Sonntag und Feiertag: 6 bis 22 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
-* [DB Lounge Berlin - Lageplan (PDF, 660 KB) Download der Datei: DB Lounge Berlin - Lageplan (PDF, 660 KB)](https://assets.static-bahn.de/dam/jcr:85b72d48-b4d6-4ebd-90d8-aab10db20b8e/02-Berlin-Hbf.pdf)
+* [DB Lounge Berlin - Lageplan (PDF, 660 KB)](https://assets.static-bahn.de/dam/jcr:85b72d48-b4d6-4ebd-90d8-aab10db20b8e/02-Berlin-Hbf.pdf)
 
 ###  DB Lounge Dresden  ###
 
@@ -103,7 +103,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Lage:** Die DB Lounge Dresden liegt im ersten Obergeschoss auf der linken Seite der Galerie. Der Zugang zur Galerie erfolgt über eine Treppe in der zentralen Kuppelhalle (Richtung Ausgang St. Petersburger Straße). Für mobilitätseingeschränkte Reisende ist ein barrierefreier Zugang über eine Rampe von Gleis 3 möglich. Bitte melden Sie sich an der DB Information, um Zugang zu erhalten. Das Personal öffnet die Tür manuell – bitte haben Sie einen Moment Geduld.
 * **Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
-* [DB Lounge Dresden Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Dresden Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:de1fd57c-c0bd-4f61-a3de-5a7186ff3737/341_Lageplan_Dresden.pdf)
+* [DB Lounge Dresden Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:de1fd57c-c0bd-4f61-a3de-5a7186ff3737/341_Lageplan_Dresden.pdf)
 
 ###  DB Lounge Düsseldorf  ###
 
@@ -112,7 +112,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Lage:** Die DB Lounge Düsseldorf befindet sich außerhalb des Bahnhofgebäudes im Erdgeschoss, Heinz-Schmöle-Straße 12. Sie erreichen die Lounge über Ausgang 3 (Ostseite) in Richtung Bertha-von-Suttner-Platz. Der Fußweg vom jeweiligen Ankunftsgleis zum Eingang beträgt zwei bis fünf Minuten.
 * **Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
-* [DB Lounge Düsseldorf Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Düsseldorf Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:71f45914-f967-4095-8342-d350dacaa78e/341_Lageplan_D%C3%BCsseldorf.pdf)
+* [DB Lounge Düsseldorf Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:71f45914-f967-4095-8342-d350dacaa78e/341_Lageplan_D%C3%BCsseldorf.pdf)
 
 ###  DB Lounge Frankfurt (Main)  ###
 
@@ -132,7 +132,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
   Ein barrierefreier Zugang erfolgt via Aufzug vor dem DB Reisezentrum zu Gleis 6/7 (Gleisabschnitt C-D), mit Ausstieg auf Ebene 2.
 * **Öffnungszeiten:** Montag bis Sonntag und Feiertag: 6 bis 22 Uhr
 
-* [DB Lounge Frankfurt Flughafen Lageplan (PDF, 74 KB) Download der Datei: DB Lounge Frankfurt Flughafen Lageplan (PDF, 74 KB)](https://assets.static-bahn.de/dam/jcr:67a7265c-3477-4f2c-a175-efff0f9f0a97/06-FFM-Flughafen.pdf)
+* [DB Lounge Frankfurt Flughafen Lageplan (PDF, 74 KB)](https://assets.static-bahn.de/dam/jcr:67a7265c-3477-4f2c-a175-efff0f9f0a97/06-FFM-Flughafen.pdf)
 
 ###  DB Lounge Hamburg  ###
 
@@ -142,7 +142,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Öffnungszeiten:** Montag bis Freitag: 6 bis 22 Uhr / Samstag, Sonntag und Feiertag: 7:30 bis 20:30 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich.**
 
-* [DB Lounge Hamburg Lageplan (PDF, 77 KB) Download der Datei: DB Lounge Hamburg Lageplan (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:12e4ab6e-34b2-4710-9786-3b05abe60dfc/01-HH-Hbf.pdf)
+* [DB Lounge Hamburg Lageplan (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:12e4ab6e-34b2-4710-9786-3b05abe60dfc/01-HH-Hbf.pdf)
 
 ###  DB Lounge Hannover  ###
 
@@ -152,7 +152,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Öffnungszeiten:** Montag bis Fr: 6 bis 21:30 Uhr / Samstag: 7 bis 21:30 Uhr / Sonntag: 8 bis 21:30 Uhr / Feiertag: 8 bis 21:30 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
-* [DB Lounge Hannover - Lageplan (PDF, 78 KB) Download der Datei: DB Lounge Hannover - Lageplan (PDF, 78 KB)](https://assets.static-bahn.de/dam/jcr:a4dc860b-f082-4882-bcc8-7176ddd68b06/07-Hannover-Hbf.pdf)
+* [DB Lounge Hannover - Lageplan (PDF, 78 KB)](https://assets.static-bahn.de/dam/jcr:a4dc860b-f082-4882-bcc8-7176ddd68b06/07-Hannover-Hbf.pdf)
 
 ###  DB Lounge Köln  ###
 
@@ -162,7 +162,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Öffnungszeiten:** Montag bis Freitag: 6:30 bis 21:30 Uhr / Samstag, Sonntag und Feiertag: 7 bis 21 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**.
 
-* [DB Lounge Köln Lageplan (PDF, 81 KB) Download der Datei: DB Lounge Köln Lageplan (PDF, 81 KB)](https://assets.static-bahn.de/dam/jcr:f238de55-4bd1-419b-b5a7-eeb760ba27c0/DB%20Lounge%20K%C3%B6ln%20Lageplan.pdf)
+* [DB Lounge Köln Lageplan (PDF, 81 KB)](https://assets.static-bahn.de/dam/jcr:f238de55-4bd1-419b-b5a7-eeb760ba27c0/DB%20Lounge%20K%C3%B6ln%20Lageplan.pdf)
 
 ###  DB Lounge Leipzig  ###
 
@@ -171,7 +171,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Lage:** Die DB Lounge Leipzig befindet sich im Obergeschoss auf Höhe von Gleis 23 in Richtung Ausgang Wintergartenstraße. Der Zugang ist über Rolltreppen vom Erdgeschoss möglich. Ein barrierefreier Zugang wird durch mehrere Aufzüge, unter anderem in der nahegelegenen Osthalle, gewährleistet.
 * **Öffnungszeiten:** Montag bis Freitag: 7 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
-* [DB Lounge Leipzig Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Leipzig Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:560f9365-b9ae-4ca5-b435-6982e2d1c319/08-Leipzig-Hbf.pdf)
+* [DB Lounge Leipzig Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:560f9365-b9ae-4ca5-b435-6982e2d1c319/08-Leipzig-Hbf.pdf)
 
 ###  DB Lounge Mannheim  ###
 
@@ -180,7 +180,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Öffnungszeiten:** Montag bis Freitag: 7 bis 21:30 Uhr / Samstag: 7 bis 21 Uhr / Sonntag und Feiertag: 8 bis 21 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
-* [DB Lounge Mannheim Lageplan (PDF, 125 KB) Download der Datei: DB Lounge Mannheim Lageplan (PDF, 125 KB)](https://assets.static-bahn.de/dam/jcr:62933034-ea38-4e81-a436-7763a26a04cc/09-Lageplan-Mannheim-HBF.pdf)
+* [DB Lounge Mannheim Lageplan (PDF, 125 KB)](https://assets.static-bahn.de/dam/jcr:62933034-ea38-4e81-a436-7763a26a04cc/09-Lageplan-Mannheim-HBF.pdf)
 
 ###  DB Lounge München  ###
 
@@ -189,7 +189,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 * **Öffnungszeiten:** Montag bis Mittwoch: 6:30 bis 21 Uhr / Donnerstag, Freitag: 6:30 bis 22 Uhr / Samstag: 8 bis 20 Uhr / Sonntag: 8 bis 22 Uhr / Feiertag: 8 bis 20 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
-* [DB Lounge München Lounge (PDF, 77 KB) Download der Datei: DB Lounge München Lounge (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:8dfa80ef-633a-4bc0-93be-4d37df49d6e2/05-Muenchen-Hbf.pdf)
+* [DB Lounge München Lounge (PDF, 77 KB)](https://assets.static-bahn.de/dam/jcr:8dfa80ef-633a-4bc0-93be-4d37df49d6e2/05-Muenchen-Hbf.pdf)
 
 ###  DB Lounge Nürnberg  ###
 
@@ -197,7 +197,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 **Öffnungszeiten:** Montag bis Freitag: 6:30 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
-* [DB Lounge Nürnberg Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Nürnberg Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:03f82cf2-ca84-405c-b931-b3c26e6143e0/14-Nuernberg-Hbf.pdf)
+* [DB Lounge Nürnberg Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:03f82cf2-ca84-405c-b931-b3c26e6143e0/14-Nuernberg-Hbf.pdf)
 
 ###  DB Lounge Stuttgart  ###
 
@@ -205,4 +205,4 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 **Öffnungszeiten:** Montag bis Freitag: 6 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
-* [DB Lounge Stuttgart Lageplan (PDF, 1 MB) Download der Datei: DB Lounge Stuttgart Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:8819f2b0-fed2-44c4-80b0-a2dbaf4d6406/15-Stuttgart-Hbf.pdf)
+* [DB Lounge Stuttgart Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:8819f2b0-fed2-44c4-80b0-a2dbaf4d6406/15-Stuttgart-Hbf.pdf)

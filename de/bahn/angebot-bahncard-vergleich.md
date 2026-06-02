@@ -15,10 +15,10 @@ Bitte beachten Sie, dass in diesem Vergleich keine zeitlichen Aktionen und Rabat
 Übersicht der BahnCard-Modelle
 ----------
 
-* [Springe zu: Standard BahnCardsHier springen Sie zu den Informationen zu den Standard BahnCards](https://www.bahn.de/angebot/bahncard/vergleich#Standard%20BahnCards)
-* [Springe zu: Jugend und Studenten BahnCardsHier springen Sie zu den Informationen zu den Jugend und Studenten BahnCards](https://www.bahn.de/angebot/bahncard/vergleich#Jugend%20und%20Studenten%20BahnCards)
-* [Springe zu: Senioren BahnCardsHier springen Sie zu den Informationen zu den Senioren BahnCards](https://www.bahn.de/angebot/bahncard/vergleich#Senioren%20BahnCards)
-* [Springe zu: Ermäßigte BahnCardsHier springen Sie zu den Informationen zu den ermäßigten BahnCards](https://www.bahn.de/angebot/bahncard/vergleich#Erm%C3%A4%C3%9Figte%20BahnCards)
+* [Springe zu: Standard BahnCards](https://www.bahn.de/angebot/bahncard/vergleich#Standard%20BahnCards)
+* [Springe zu: Jugend und Studenten BahnCards](https://www.bahn.de/angebot/bahncard/vergleich#Jugend%20und%20Studenten%20BahnCards)
+* [Springe zu: Senioren BahnCards](https://www.bahn.de/angebot/bahncard/vergleich#Senioren%20BahnCards)
+* [Springe zu: Ermäßigte BahnCards](https://www.bahn.de/angebot/bahncard/vergleich#Erm%C3%A4%C3%9Figte%20BahnCards)
 
 Welche BahnCard ist die richtige für Sie?
 ----------

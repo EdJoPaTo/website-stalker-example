@@ -36,4 +36,4 @@ In den kommenden Monaten soll das Angebot weiter ausgebaut werden.
 Fragen und Antworten zu WLAN
 ----------
 
-* [Fragen und Antworten zu WLAN FAQ WLAN](https://bahn.de/faq/pk/service/waehrend-der-reise/wlan)
+* [Fragen und Antworten zu WLAN](https://bahn.de/faq/pk/service/waehrend-der-reise/wlan)
