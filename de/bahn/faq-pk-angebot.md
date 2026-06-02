@@ -1362,6 +1362,16 @@ Das Tarifangebot badisch24 ist eine ab Entwertung 24 Stunden gültige Anschlusst
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anschlussticket-mvv)
 
+ Wie kann ich Dokumente zu meinem Abo, zum Beispiel Anwaltsschreiben, übermitteln?
+----------
+
+Sie können die Dokumente, zum Beispiel von Ihrem Rechtsanwalt oder Ihrer Rechtsanwältin, über unser Kontaktformular hochladen. Auf diese Weise können wir das betroffene Abonnement eindeutig identifizieren.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/vertragsangelegenheit_anwaelte)
+* [Wie kann ich Dokumente zu einem Abo übermitteln, wenn ich keinen Login habe?](https://www.bahn.de/faq/kein-login)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anwaltsschreiben-hochladen)
+
  Genügt eine Anzahlung bei der Buchung für den Sparpreis Europa Gruppe?
 ----------
 
@@ -3135,6 +3145,16 @@ Bitte beachten Sie, dass einige Funktionen, wie die Kündigung, nur für die bes
 Tipp: Melden Sie sich im Aboportal auf abo.bahn.de mit dem gleichen DB Kundenkonto an, das Sie bei der Bestellung genutzt haben. Nun sehen Sie Ihr Abo, sobald es aktiviert wurde.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bestellung-keine-rueckmeldung)
+
+ Wie kann ich Dokumente zu meinem Abo, zum Beispiel einen Betreuungsausweis, übermitteln?
+----------
+
+Sie können die Dokumente, zum Beispiel einen Betreuungsnachweis, über unser Kontaktformular hochladen. Auf diese Weise können wir das betroffene Abonnement eindeutig identifizieren.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/vertragsangelegenheit_betreuer)
+* [Wie kann ich Dokumente zu einem Abo übermitteln, wenn ich keinen Login habe?](https://www.bahn.de/faq/kein-login)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betreuungsnachweis-hochladen)
 
  Wo finde ich Informationen zu den Betriebszeiten der Bergbahnen?
 ----------
@@ -6750,6 +6770,16 @@ Informationen zu Ihrer Anfrage haben Sie mit Ihrer Bestätigungsmail bekommen (A
 Sie haben Ihre Bestätigungsmail verloren? Kontaktieren Sie unseren Kundenservice per Mail unter [db-fruehbucher@deutschebahn.com](mailto:db-fruehbucher@deutschebahn.com) oder telefonisch unter +49 (0) 721 938 5386 (Montag bis Freitag von 9 bis 12 Uhr und 14 bis 17 Uhr (zum Ortstarif)).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/informationen-anfrage-fruehbucherangebot)
+
+ Wie kann ich Dokumente zu meinem Abo, zum Beispiel einen Insolvenzbeschluss, übermitteln?
+----------
+
+Sie können die Dokumente, zum Beispiel einen Insolvenzbeschluss, über unser Kontaktformular hochladen. Auf diese Weise können wir das betroffene Abonnement eindeutig identifizieren.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/vertragsangelegenheit_insolvenz)
+* [Wie kann ich Dokumente zu einem Abo übermitteln, wenn ich keinen Login habe?](https://www.bahn.de/faq/kein-login)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/insolvenzbeschluss-hochladen)
 
  Ist der Flexpreis auch für internationale Fahrten buchbar?
 ----------
@@ -11849,6 +11879,16 @@ Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit F
 [Sitzplatz und Ticket buchen Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statusleuchte-ice-3neo)
+
+ Wie kann ich Dokumente zu meinem Abo übermitteln, zum Beispiel einen Sterbefall melden?
+----------
+
+Sie können die Dokumente, zum Beispiel eine Sterbeurkunde oder einen Erbschein, über unser Kontaktformular hochladen. Den Erbschein und eine Bankverbindung benötigen wir, wenn ein Guthaben ausgezahlt werden soll. Mit der Nutzung des Kontaktformulars können wir das betroffene Abonnement eindeutig identifizieren.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/vertragsangelegenheit_sterbefall)
+* [Wie kann ich Dokumente zu einem Abo übermitteln, wenn ich keinen Login habe?](https://www.bahn.de/faq/kein-login)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sterbefall-melden)
 
  Der Automat hat eine Störung und gibt weder Ticket noch mein Geld zurück. Was kann ich tun?
 ----------
