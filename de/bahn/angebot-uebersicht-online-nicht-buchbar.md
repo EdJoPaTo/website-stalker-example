@@ -40,8 +40,6 @@ Mecklenburg-Vorpommern
 Nordrhein-Westfalen
 ----------
 
-* [Job-Ticket im AVV](https://regional.bahn.de/regionen/nrw/tickets/ueb_berufsverkehr/ueb-jobtickets/jobticket_avv)
-* [Job-Ticket im VRS](https://regional.bahn.de/regionen/nrw/tickets/ueb_berufsverkehr/ueb-jobtickets/jobticket_vrs)
 * [FirmenTicket im VRR](https://regional.bahn.de/regionen/nrw/tickets/ueb_berufsverkehr/ueb-jobtickets/jobticket_vrr)
 
 Saarland

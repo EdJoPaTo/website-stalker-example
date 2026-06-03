@@ -425,7 +425,7 @@ Häufig gestellte Fragen
   Wir wollen uns Produkte immer weiter verbessern und durch neue Funktionen und Dienste ergänzen. Dazu sind wir auf dein Feedback angewiesen. Es gibt mehrere Möglichkeiten, wie du uns Produkt-Feedback oder Funktionswünsche mitteilen kannst:
 
   * Über unser Forum: Bitte poste Feedback im [Hetzner Cloud Board](https://forum.hetzner.com/index.php?board/117-hetzner-cloud/)
-  * Per E-Mail: Sende deine Ideen an [cloud-feedback@hetzner.com](mailto:cloud-feedback@hetzner.com).
+  * Per E-Mail: Sende deine Ideen an [product-feedback@hetzner.com](mailto:product-feedback@hetzner.com)
 
   Leider können wir dir keine genaue Roadmap der Funktionen und Dienste, an denen wir arbeiten, zur Verfügung stellen. Du kannst uns aber auf unseren Social-Media-Kanälen folgen und so auf dem Laufenden bleiben.
 

@@ -398,6 +398,15 @@ Häufig gestellte Fragen
 
   Ja, wir haben ein SLA, das eine Verfügbarkeit von 99,9 % garantiert. Im Falle einer klar definierten Störung erhalten Sie eine Gutschrift. Alle wichtigen Informationen hierzu finden Sie in unserem [SLA](https://www.hetzner.com/legal/cloud-server/).
 
+* **Wann wird Feature X kommen?**
+
+  Wir wollen uns Produkte immer weiter verbessern und durch neue Funktionen und Dienste ergänzen. Dazu sind wir auf dein Feedback angewiesen. Es gibt mehrere Möglichkeiten, wie du uns Produkt-Feedback oder Funktionswünsche mitteilen kannst:
+
+  * Über unser Forum: Bitte poste Feedback im [Hetzner Cloud Board](https://forum.hetzner.com/index.php?board/117-hetzner-cloud/)
+  * Per E-Mail: Sende deine Ideen an [product-feedback@hetzner.com](mailto:product-feedback@hetzner.com)
+
+  Leider können wir dir keine genaue Roadmap der Funktionen und Dienste, an denen wir arbeiten, zur Verfügung stellen. Du kannst uns aber auf unseren Social-Media-Kanälen folgen und so auf dem Laufenden bleiben.
+
 [Weitere FAQs](https://docs.hetzner.com/cloud/)
 
 Starte jetzt dein Projekt

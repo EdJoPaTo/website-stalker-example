@@ -1750,30 +1750,6 @@ Bitte beachten: Wohnort und Schule/Ausbildungsstelle müssen im Tarifgebiet des 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-365-euro-wohnort)
 
- Wo finde ich ausführliche Informationen zum Job-Ticket des AVV Aachen?
-----------
-
-In unserer Broschüre haben wir alle Infos zum Jobticket im AVV und zum Deutschland-Ticket zusammen gestellt.
-
-* [Broschüre Jobticket AVV zu besten Konditionen (PDF, 326 KB)](https://assets.static-bahn.de/dam/jcr:5684eb2b-54c4-4a88-a0ba-0a5dac7f45e0/avv-job-ticket%20Flyer%202025.pdf)
-
-[Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
-
-[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-dt-jobticket-broschuere)
-
- Ist die 1. Klasse auch Job-Ticket des AVV Aachen enthalten?
-----------
-
-Nein, aber selbstverständlich können Sie auch gegen Aufpreis die 1. Klasse nutzen. Dieser kostet zusätzlich 49,70 Euro und gilt ebenfalls im gesamten Verbundgebiet.
-
-[Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
-
-[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-1-klasse)
-
  Wo bekomme ich ein Job-Ticket des AVV Aachen?
 ----------
 
@@ -1791,60 +1767,7 @@ Kundendialog DB Regio NRW
 * Telefon: [0211 91309333](tel:021191309333)
 * E-Mail: [kundendialog.nrw@deutschebahn.com](mailto:kundendialog.nrw@deutschebahn.com)
 
-[Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
-
-[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-kontakt)
-
- Wen kann ich mit dem Job-Ticket im AVV Aachen kostenfrei mitnehmen?
-----------
-
-Die Mitnahme gilt montags bis freitags ab 19 Uhr sowie samstags, sonn- und feiertags ganztägig. Während dieser Zeit dürfen Sie als Job-Ticket-Inhaber:innen einen Erwachsenen und drei Kinder im Alter von 6 bis einschließlich 14 Jahren kostenfrei mitnehmen.
-
-Diese Mitnahmeregelungen gelten **nicht** bei AVV-Job-Tickets für Auszubildende.
-
-[Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
-
-[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-kostenfrei-mitnahme)
-
- Wer kann mit dem Job-Ticket im AVV Aachen fahren?
-----------
-
-Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht übertragbar.
-
-[Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
-
-[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-wer-kann-fahren)
-
- Wo gilt das Job-Ticket des AVV Aachen?
-----------
-
-Sie können Ihr Job-Ticket im gesamten Netz des Aachener Verkehrsverbundes (AVV) nutzen. In allen Bussen, Bahnen und den Nahverkehrszügen, also S-Bahn, Regionalbahn, Regional-Express, jeweils in der 2. Klasse.
-
-Für Mitarbeiter:innen aus den angrenzenden VRR-Bereichen sowie aus dem VRS-Gebiet gibt es die Möglichkeit, durch Zusatztickets den Geltungsbereich des JobTickets auszuweiten.
-
-Und wer noch weiter fahren will, kann anstelle des AVV-JobTickets ein JobTicket NRW oder ein Deutschlandticket erwerben.
-
-*
-
-[Weitere Informationen zum AVV Aachen Job-Ticket](https://www.bahn.de/angebot/verbuende/avv-aachen-jobticket)
-
-[Infos zum Kauf](https://bahn.de/faq/avv-aachen-jobticket-kaufen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-wo-gilt)
-
- Welche Preismodelle gibt es für das Job-Ticket im AVV?
-----------
-
-* **Deutschlandticket als Job-Ticket im AVV**: Für alle Unternehmen, bei denen der Arbeitgeber seinen Beschäftigten einen Zuschuss von mind. 25% zum Ticketpreis gewährt, räumen die Verkehrsunternehmen einen Rabatt von 5% auf den aktuellen Preis des Deutschlandtickets ein. Preis für den Arbeitgeber – 55,10 Euro/Ticket/Monat, darin enthaltener Arbeitnehmeranteil max. 40,60 Euro/Monat. (ab 01.01.2025)
-* Das **Job-Ticket im Solidarmodell** für Firmen mit mind. 15 Mitarbeitenden: gültig nur im AVV, incl. kostenloser Mitnahmeregelungen, verpflichtende Abnahme für alle Beschäftigten, Preis abhängig von Standort und Unternehmensgröße
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-preismodelle)
 
  Welche Tickets des AVV Augsburg sind in der App DB Navigator oder online erhältlich?
 ----------
@@ -13890,76 +13813,10 @@ Diese Vorteile bietet das Ticket für Mitarbeitende:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr-vorteile-mitarbeiter)
 
- Wo finde ich weitere Informationen zum JobTicket als Deutschland-Ticket im VRS?
-----------
-
-Sie können hier die Broschüre zum JobTicket als Deutschland-Ticket im VRS herunterladen.
-
-* [Alle Infos zum JobTicket als Deutschland-Ticket im VRS (PDF, 4 MB)](https://assets.static-bahn.de/dam/jcr:87c9425c-4758-4266-ae34-5736438df6e7/20250101_TB_DT_JT.pdf)
-
-[Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-dt-broschuere)
-
- Wo finde ich weitere Informationen zum JobTicket Fakultativ m VRS?
-----------
-
-Sie können hier die Broschüre zum JobTicket Fakultativ im VRS herunterladen.
-
-* [Alle Infos zum JobTicket Fakultativ im VRS (PDF, 8 MB)](https://assets.static-bahn.de/dam/jcr:f5e3768d-7c2e-4998-81e2-3d66aa26b178/TB%20JobTicket_Fakultativ_01-2025.pdf)
-
-[Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-fakultativ-broschuere)
-
- Wo finde ich weitere Informationen zum JobTicketLight im VRS?
-----------
-
-Weitere Informationen zum JobTicketLight im VRS finden Sie auf der Website des VRS.
-
-* [Alle Infos zum JobTicketLight im VRS](https://www.vrs.de/tickets/ticket-finden/jobticketlight)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-light-broschuere)
-
- Welche Preismodelle gibt es für das JobTicket im VRS?
-----------
-
-* **Deutschlandticket als JobTicket im VRS**: Für alle Unternehmen, die mind. 2 Tickets abnehmen und bei denen der Arbeitgeber seinen Beschäftigten einen Zuschuss von mind. 25% zum Ticketpreis gewährt.
-* Das **JobTicket im Solidarmodell** für Firmen mit mind. 50 Mitarbeitenden (gültig nur im VRS, incl. kostenloser Mitnahmeregelungen)
-* Das **JobTicketLight** ebenfalls für Firmen mit mind. 50 Mitarbeitenden (fakulative Abnahme, gültig nur im VRS, Arbeitgeberzuschuss nötig, kostenlose Mitnahmeregelungen)
-* Das **JobTicket im Fakultativmodell** für Unternehmen mit weniger als 50 Mitarbeitenden (Bezug nur über einen Dachverband, Mindestabnahme 2 Tickets je Firma, gültig nur im VRS, kostenlose Mitnahmeregelungen)
-
-[Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-preismodelle)
-
- Wo finde ich weitere Informationen zum JobTicket VRS im Solidarmodell?
-----------
-
-Sie können hier die Broschüre zum JobTicket VRS Solidarmodell herunterladen.
-
-* [Alle Infos zum JobTicket Solidarmodell im VRS (PDF, 12 MB)](https://assets.static-bahn.de/dam/jcr:8acab5e6-ee9f-48b8-9233-27a9d740ffa7/TB%20JobTicket_Solidar_01-2025.pdf)
-
-[Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-solidar-broschuere)
-
  Wo kann ich das JobTicket im VRS kaufen?
 ----------
 
 Sie bekommen das Jobticket nur exklusiv über Ihren Arbeitgebenden, nachdem dieser einen Vertrag mit der DB Vertrieb abgeschlossen hat. Damit Sie besser zur Arbeit kommen - und natürlich nach Hause. Und das preiswert und umweltfreundlich. Kontakt: [firmenkunden-west@deutschebahn.com](mailto:firmenkunden-west@deutschebahn.com)
-
-[Weitere Informationen zum VRS Job-Ticket](https://www.bahn.de/angebot/verbuende/vrs-jobticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
