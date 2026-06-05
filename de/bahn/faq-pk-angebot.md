@@ -4533,6 +4533,15 @@ Der Kauf einer BahnCard 100 ist nur mit einem DB Kundenkonto auf bahn.de möglic
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-keine-email-adresse)
 
+ Kann ich die digitale BahnCard 100 auf mehren Geräten nutzen?
+----------
+
+Nein, die digitale BahnCard 100 können Sie aus Sicherheitsgründen jeweils nur auf einem Gerät gleichzeitig speichern und nutzen.
+
+Stellen Sie bitte sicher, dass Ihre digitale BahnCard 100 vor Reiseantritt mit Ihrem Smartphone verknüpft ist.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-mehrere-geraete)
+
  Ich finde meine neue digitale BahnCard 100 nicht in der App DB Navigator. Was muss ich tun?
 ----------
 

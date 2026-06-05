@@ -5,8 +5,7 @@ Als nicht gefördertes Projekt, sind wir auf die Hilfe von freiwilligen Helfer\*
 
 Nur durch Menschen wie sie sind unsere Projekte stemmbar. Helfer\*innen die uns 4 Stunden ihrer Zeit schenken, bekommen danach ein Freiticket für einen Tag ihrer Wahl und lebenslang Vorverkaufsrecht bei unseren Ausstellungen.
 
-Wenn Du auch mithelfen möchtest, schick uns bitte mit dem Betreff
-”Ich will helfen” eine Mail an: [helfer@wirimraum.de](mailto:helfer@wirimraum.de?subject=Ich%20will%20helfen%20%2F%20I%20want%20to%20help)
+Wenn Du auch mithelfen möchtest, schick uns bitte mit dem Betreff ”Ich will helfen” eine Mail an: [helfer@wirimraum.de](mailto:helfer@wirimraum.de?subject=Ich%20will%20helfen%20%2F%20I%20want%20to%20help)
 
 Festivallaufzeit: 10.07 - 26.07.26
 

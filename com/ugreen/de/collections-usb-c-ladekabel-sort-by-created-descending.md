@@ -18,6 +18,6 @@
 
 [UGREEN 100W USB-C auf USB-C Ladekabel (2 Stück)](https://de.ugreen.com/products/ugreen-100-w-usb-c-auf-usb-c-ladekabel-2-stuck)
 
-[UGREEN 100W USB-C auf USB-C Ladekabel 2 Stück](https://de.ugreen.com/products/ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-ladekabel-5a-20v)
+[UGREEN 100W USB-C auf USB-C Ladekabel (Nylon)](https://de.ugreen.com/products/ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau)
 
 [UGREEN USB auf USB-C Nylon Schnellladekabel Kabel 2 Stück](https://de.ugreen.com/products/ugreen-usb-c-kabel-2-stuck-usb-auf-usb-c-ladekabel-nylon-geflochten-usb-c-schnellladekabel-kompatibel-mit-s22-s21-s20-s10-a73-a72-a53-tab-a8-s6-lite-huawei-p30-lite-mi-10-note-9-usw-0-5m)
