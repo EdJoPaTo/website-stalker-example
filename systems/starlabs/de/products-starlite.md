@@ -85,8 +85,6 @@ USB-C to USB-A Adapter
 
 StarLite Protective Case
 
-StarLite Screen Protector (2-Pack)
-
 Includes:
 
 * 12.5-inch Star Lite
