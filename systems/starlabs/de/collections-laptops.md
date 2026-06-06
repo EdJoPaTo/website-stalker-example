@@ -111,9 +111,9 @@ See the key differences at a glance.
 
 Last-generation StarBook clearance. Limited stock remaining.
 
-€13,37 €13,37
+€13,37
 
-German keyboard layouts only.
+Available keyboard layouts: English (UK), English (US), French, German, Spanish
 
 14-inch 4K matte display
 
