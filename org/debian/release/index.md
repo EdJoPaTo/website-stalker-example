@@ -11,9 +11,9 @@ Release standards (RC bugs)
 Recent stable release updates
 ----------
 
+* `[2026-05-26]` [Bits from the SRMs](https://lists.debian.org/debian-devel-announce/2026/05/msg00004.html)
 * `[2025-08-09]` [Bits from the Stable Release Managers](https://lists.debian.org/aJe0GaBk6XYuZugI@powdarrmonkey.net)
 * `[2019-08-04]` [Bits from the Stable Release Managers](https://lists.debian.org/1564950897.14830.21.camel@adam-barratt.org.uk)
-* `[2018-04-16]` [Bits from the Stable Release Managers](https://lists.debian.org/debian-devel-announce/2018/04/msg00007.html)
 
 Recent release updates
 ----------
