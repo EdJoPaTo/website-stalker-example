@@ -919,15 +919,6 @@ When the ordering service is activated, a shopping basket symbol appears directl
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/basket-ice-portal)
 
- Auf meiner Strecke gibt es eine Baustelle. Welche Möglichkeiten zur Beanstandung habe ich?
-----------
-
-Wenn Sie mit den Zügen vom DB Fernverkehr reisen, haben Sie je nach Umfang und Dauer der Baustelle die Möglichkeit eine Entschädigung zu beantragen. Bitte beachten Sie, dass es sich bei einer Erstattung aufgrund von Baustellengeschehen um eine Kulanzleistung handelt. Sollten Sie Ihre Möglichkeiten prüfen wollen, nutzen Sie bitte eines unserer [Kontaktformulare](https://www.bahn.de/hilfe#/feedbackanfragen/fernverkehr).
-
-Pausierungen für den ÖPNV sind aufgrund von tariflichen Bestimmungen leider nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/baustelle-beanstandung)
-
  Sie sind aufgrund einer Beeinträchtigung im barrierefreien Reiseverlauf verspätet an Ihrem Reiseziel angekommen? Oder Sie mussten aufgrund einer Beeinträchtigung Ihre Reise abbrechen bzw. konnten Sie diese nicht antreten?
 ----------
 
@@ -2673,20 +2664,6 @@ DB gift vouchers are valid for five years from the date of purchase.
 In addition to your hand luggage, you are allowed to carry one additional larger piece of luggage or item free of charge, provided this load can be carried by one person alone. Due to its size, it may need to be stored outside your seating area, e.g. in the nearest luggage rack. Each passenger is responsible for supervising their own luggage.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-much-luggage-can-i-take-on-the-train)
-
- How can I cancel the purchase of a gift voucher?
-----------
-
-**Return/cancellation**
-
-You can cancel your contractual declaration in writing (e.g. by letter or e-mail) within two weeks without giving reasons. This period begins after receipt of this instruction in writing, but not before you receive the product. Timely sending of the cancellation is sufficient to comply with the cancellation period.
-
-Please send your cancellation to:
-DB Vertrieb GmbH
-Postfach 10 01 14
-96053 Bamberg, Germany
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-to-cancel-gift-voucher)
 
  How will I be refunded if I cancel a ticket purchased with a voucher?
 ----------
@@ -7008,20 +6985,6 @@ Sparpreis-Tickets: Bei Stornierung eines Sparpreis-Tickets erhalten Sie einen St
 **Andere stornierbare Leistungen (z.B. Flexpreis, Regionale Tickets):** Der Wert der gekauften Leistung wird Ihnen auf die mit Apple Pay verwendete Debit- oder Kreditkarte zurückgebucht.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-geld-zurueck-bei-stornierung-mit-apple-pay)
-
- Wie kann ich den Kauf von einem Geschenkgutschein widerrufen?
-----------
-
-**Rückgabe/ Widerruf**
-
-Sie können Ihre Vertragserklärung innerhalb von zwei Wochen ohne Angabe von Gründen in Textform (z. B. Brief, E-Mail) widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung in Textform, jedoch nicht vor Eingang der Ware beim Empfänger. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs.
-
-Richten Sie Ihren Widerruf an:
-DB Vertrieb GmbH
-Postfach 10 01 14
-96053 Bamberg
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-geschenkgutschein-widerrufen)
 
  Wie storniere ich eine Hilfeleistung?
 ----------

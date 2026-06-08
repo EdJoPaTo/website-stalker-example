@@ -181,11 +181,9 @@ Ja, Sie können die Online-Tickets für Ihre bereits gebuchten Fahrten jederzeit
  Ich habe bei den Mehrfahrten-Tickets Probleme mit meinem Login/mit dem Buchungsprozess. An wen kann ich mich wenden?
 ----------
 
-Bitte wenden Sie sich an:
+Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
 
-[fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de) Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse.
-
-[030 2970](tel:+49302970)
+Oder rufen Sie uns an: [030 2970](tel:+49302970)
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
@@ -15113,10 +15111,9 @@ Wenn Sie für Ihr zugrundeliegendes 2. Klasse-Ticket den Fahrkarten-Schutz der E
  Was mache ich, wenn ich nicht buchen kann?
 ----------
 
-Bitte wenden Sie sich an unser Service-Team:
+Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse eine Nachricht an: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
 
-* Per Mail: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de) Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse.
-* Per Telefon: [+49 (0)30 2970](tel:+490302970)
+Oder rufen Sie uns an: [+49 (0)30 2970](tel:+490302970)
 
 [Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
 
