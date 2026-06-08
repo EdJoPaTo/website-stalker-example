@@ -15108,10 +15108,10 @@ Wenn Sie für Ihr zugrundeliegendes 2. Klasse-Ticket den Fahrkarten-Schutz der E
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-mit-meiner-versicherung-bei-ergaenzendem-1-klasse-upgrade)
 
- Was mache ich, wenn ich nicht buchen kann?
+ Was passiert, wenn meine Strecke z. B. aufgrund einer Baustelle gesperrt ist und ich keine Einzelfahrt buchen kann?
 ----------
 
-Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse eine Nachricht an: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
+Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse eine Nachricht: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
 
 Oder rufen Sie uns an: [+49 (0)30 2970](tel:+490302970)
 
