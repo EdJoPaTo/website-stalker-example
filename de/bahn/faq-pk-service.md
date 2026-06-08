@@ -3093,6 +3093,82 @@ Ja, Sie können dem Zugpersonal das Online-Ticket problemlos als PDF auf einem L
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-mein-online-ticket-auch-gueltig-wenn-es-als-pdf-auf-dem-laptop-vorgezeigt-wird)
 
+ Wie viele Kinder reisen gemeinsam?
+----------
+
+Pro Fahrt reist eine feste Gruppe von maximal 14 Kindern. Die Kinder werden immer von zwei geschulten Betreuenden begleitet.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-anzahl-kinder)
+
+ Werden die Kinder während der Fahrt betreut?
+----------
+
+Ja. Die Kinder werden während der gesamten Reise begleitet. Dazu gehören Unterstützung im Reiseablauf sowie altersgerechte Beschäftigungsangebote.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-betreuung)
+
+ Passt der Service zum aktuellen Entwicklungsstand und zur Reisesituation meines Kindes?
+----------
+
+Damit Ihr Kind sicher und gut begleitet reisen kann, prüfen Sie bitte, ob DB Junior Express zum aktuellen Entwicklungsstand und zur Reisesituation Ihres Kindes passt. Die folgenden Voraussetzungen helfen bei der Einschätzung.
+
+Ihr Kind kann mit DB Junior Express reisen, wenn …
+
+* es mindestens 6 und maximal 14 Jahre alt ist;
+* es gesund ist und in seinem tagesaktuellen gesundheitlichen Zustand auch in die Schule gehen würde;
+* es sein eigenes Gepäck selbst tragen und handhaben kann;
+* es selbstständig auf die Toilette gehen kann (der Weg zur Toilette kann begleitet werden);
+* es während der Reise keine geplante medizinische Versorgung durch Betreuende benötigt;
+* es gruppenfähig ist und keine 1:1-Betreuung braucht;
+* es sich mit den Betreuenden verständigen kann;
+* es Regeln einhalten und Anweisungen der Betreuenden befolgen kann;
+* es sich beim Check-in von Ihnen verabschieden kann;
+* es freiwillig mit DB Junior Express reist. Eine Beförderung gegen den ausdrücklichen Willen des Kindes ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-entwicklungsstand-kind)
+
+ Wie läuft die Übergabe am Bahnhof ab?
+----------
+
+Die Übergabe erfolgt immer an einem definierten, ruhigen Treffpunkt in Gleisnähe. Dort übernehmen die Betreuenden die Kinder vor der Abfahrt und übergeben sie am Zielbahnhof wieder an die hinterlegte abholende Person.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-uebergabe-kinder-bahnhof)
+
+ Können Kinder unterwegs ein- oder aussteigen?
+----------
+
+Nein. Die Betreuung erfolgt immer durchgehend vom Start- bis zum Zielbahnhof. Ein Zustieg oder Ausstieg an Zwischenhalten ist nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-unterwegs-aussteigen)
+
+ Ab wann wird der Service DB Junior Express angeboten?
+----------
+
+Die Fahrten finden zunächst an Freitagen und Sonntagen ab August 2026 statt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-wann-start)
+
+ Wo gibt es weitere Informationen zum DB Juniorexpress?
+----------
+
+Weitere Informationen zum Service DB Juniorexpress, zum Ablauf und zur Buchung werden vor Verkaufsstart auf dieser Seite veröffentlicht.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-weitere-informationen)
+
+ Auf welchen Strecken wird der Service angeboten?
+----------
+
+Zum Start wird der Service auf ausgewählten Direktverbindungen zwischen München, Köln, Frankfurt, Hamburg und Berlin angeboten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-welche-strecken)
+
+ Für welches Alter ist der Service gedacht?
+----------
+
+DB Junior Express richtet sich an alleinreisende Kinder zwischen 6 und 14 Jahren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-welches-alter)
+
  Kann ich alle bahn.de Angebote mit Bonvoyo bezahlen?
 ----------
 
@@ -5495,6 +5571,15 @@ Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Fle
 [Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-ist-reservierung-kostenfrei-im-angebot-integriert)
+
+ Ab wann ist DB Junior Express buchbar?
+----------
+
+Die Buchung des Services startet Mitte August 2026.
+
+Weitere Informationen folgen rechtzeitig vor dem Verkaufsstart.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-juniorexpress-buchbar)
 
  Wann kann ich Fahrgastrechtsansprüche geltend machen?
 ----------
