@@ -37,7 +37,7 @@ VPS 500 G12
 
 (inkl. 19% MwSt.)
 
-Jetzt bestellen\>
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-500-g12-12m#vps-500-g12-12m-nue)
 
 VPS 1000 G12
 
@@ -61,7 +61,7 @@ VPS 1000 G12
 
 (inkl. 19% MwSt.)
 
-Jetzt bestellen\>
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-1000-g12-12m#vps-1000-g12-12m-nue)
 
 VPS 2000 G12
 
@@ -85,7 +85,7 @@ VPS 2000 G12
 
 (inkl. 19% MwSt.)
 
-Jetzt bestellen\>
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-2000-g12-12m#vps-2000-g12-12m-nue)
 
 VPS 4000 G12
 
@@ -109,7 +109,7 @@ VPS 4000 G12
 
 (inkl. 19% MwSt.)
 
-Jetzt bestellen\>
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-4000-g12-12m#vps-4000-g12-12m-nue)
 
 VPS 8000 G12
 

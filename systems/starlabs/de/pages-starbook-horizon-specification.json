@@ -104,7 +104,7 @@
 								},
 								{
 									"label": "USB-C capability",
-									"value": "Power, Data and Video"
+									"value": "Left: Power, Data and Video\nRight: Data only"
 								},
 								{
 									"label": "Card reader",
