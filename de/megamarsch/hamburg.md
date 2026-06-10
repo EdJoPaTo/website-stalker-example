@@ -103,8 +103,9 @@ Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbra
 
 ​
 
-#### Highlights
-Hamburg 2026 ####
+Highlights
+Hamburg 2026
+----------
 
 [SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 

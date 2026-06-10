@@ -219,6 +219,10 @@
 								{
 									"label": "Configuration",
 									"value": "4 × 315 Ball"
+								},
+								{
+									"label": "In-Band ECC",
+									"value": "Supported"
 								}
 							]
 						}
@@ -308,7 +312,7 @@
 								},
 								{
 									"label": "Memory encryption",
-									"value": "Included"
+									"value": "—"
 								},
 								{
 									"label": "BIOS lock",
@@ -530,7 +534,7 @@
 						"items": [
 							{
 								"detail": "",
-								"summary": "Total Memory Encryption<br />BIOS Lock<br />Secure Boot<br />Measured Boot<br />TPM 2.0<br />Disabled Intel Management Engine"
+								"summary": "BIOS Lock<br />Secure Boot<br />Measured Boot<br />TPM 2.0<br />Disabled Intel Management Engine"
 							}
 						],
 						"key": "security_features",
@@ -539,7 +543,7 @@
 					{
 						"items": [
 							{
-								"detail": "",
+								"detail": "In-Band ECC: Supported",
 								"summary": "16GB of 4800MT/s LPDDR5X onboard memory"
 							}
 						],
@@ -707,7 +711,7 @@
 						"title": "Limited Warranty and Service"
 					}
 				],
-				"sheet": "Chassis! Type II Pantone 443 anodised aluminium! Finish: Bead blasted+ Material: 6061 Aluminium$\n\nDisplay! 12.5-inch (diagonal) LED-backlit 10-point touch display with IPS technology+ 2160x1440\nresolution at 208 pixels per inch+ 3:2 aspect ratio+ Pen Support: MPP! Brightness: 300cd/m²+\nType: IPS+ Color Depth (NTSC): 71%+ Color Depth (sRGB): 100%+ Contrast Ratio: 1000:1+ Haze: 21%+\nCoating: 3H Hard Coat$\n\nProcessor! &nbsp;+ 1.00GHz 8-core Intel Processor N350+ Turbo Boost up to 3.90GHz, with 6MB\nSmart Cache! 8 Cores+ 8 Threads+ 7W TDP+ 25W PL2$\n\nStorage! &nbsp;+ 512GB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+ Write Speed (CDM): 2430MB/s+\nKey Type: M+ Size: M2 2242+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 1TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2242+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 2TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2242+ Design: Single-Sided$\n\nFirmware! coreboot+ <a href=\"/pages/coreboot-options\" class=\"fancy\">Configurable options</a>$\n\nSecurity Features! Total Memory Encryption+ BIOS Lock+ Secure Boot+ Measured Boot+ TPM 2.0+\nDisabled Intel Management Engine$\n\nMemory! 16GB of 4800MT/s LPDDR5X onboard memory$\n\nGraphics! Intel® UHD Graphics+ 1.35GHz Frequency$\n\nConnectivity! Micro HDMI+ USB Type C 3.2 with Power Delivery 3.0+ USB Type C 3.2 with Power\nDelivery 3.0+ Micro SD Memory Card Reader+ 3.5mm Headphone Jack!\n\nHDMI version: 2.0+ USB-C Interface: Display Port (DP Alt Mode)+ USB version: 3.2 Gen 2 (up to 10\nGbps)+ &nbsp;+ &nbsp;$\n\nKeyboard and Trackpad! Optional Magnetic Backlit keyboard+ Trackpad for precise cursor control and\nMulti-Touch gestures$\n\nWireless! Intel Wi-Fi 5 9560+ 802.11ac Wi-Fi; Up to 1.73 Gbps+ 802.11ac/a/b/g/n compatible$\n\nBluetooth! Bluetooth 5.1$\n\nCamera! 2k camera+ 2k rear camera$\n\nVideo Support! Simultaneously supports full native resolution on the built-in display and:+ Up\nto two displays with 3840x2160 resolution at 30Hz! Up to 3840x2160 resolution at 60Hz using\nHDMI+ Up to 3840x2160 resolution at 30Hz using Display Port$\n\nAudio! Stereo Speakers+ Dual Digital Microphone$\n\nEmbedded Controller! ITE 5570E$\n\nBattery and Power! Up to 12 hours battery life+ 38-watt-hour lithium-polymer battery+ 65w USB-C\nPower Adapter! Technology: Power Delivery 3.0$\n\nOperating Requirements! Line voltage: 100V to 240V AC+ Frequency: 50Hz to 60Hz+ Operating\ntemperature: 5° to 40° C (41° to 104° F)+ Storage temperature: -20° to 60° C (-4° to 140° F)+\nRelative humidity: 30% to 65% non-condensing+ Operating altitude: tested up to 3048 metres\n(10000 feet)+ Maximum storage altitude: 12192 metres (40000 feet)+ Maximum shipping altitude:\n12192 metres (40000 feet)$\n\nSize and Weight! Height: 0.89 cm (0.35 inches)+ Width: 28.33 cm (11.15 inches)+ Depth: 20.3 cm\n(7.99 inches)+ Weight: 0.85 kg (1.87 pounds) tablet+ Weight with keyboard: 1.5 kg (3.31 pounds)$\n\nOperating System!\n\n\tDistributions using Linux 6.12 or later+ Windows 11 22H1 (64-bit) or later$\n\n\nWhat's in the Box! 12.5-inch Star Lite+ 65W USB‑C Power Adapter+ USB-C to USB-C Charging Cable\n(2m)+ Detachable plug (UK, EU, US and AU available)\n\n\t+ Detachable Keyboard + Zorin Pro OS Reversible USB 3.2 Recovery Drive\n\n! Quick Start Guide+ Protective Sleeve+ Screen Cleaning Cloth$\n\nLimited Warranty and Service! One-year limited warranty+ One-year limited technical support"
+				"sheet": "Chassis! Type II Pantone 443 anodised aluminium! Finish: Bead blasted+ Material: 6061 Aluminium$\n\nDisplay! 12.5-inch (diagonal) LED-backlit 10-point touch display with IPS technology+ 2160x1440\nresolution at 208 pixels per inch+ 3:2 aspect ratio+ Pen Support: MPP! Brightness: 300cd/m²+\nType: IPS+ Color Depth (NTSC): 71%+ Color Depth (sRGB): 100%+ Contrast Ratio: 1000:1+ Haze: 21%+\nCoating: 3H Hard Coat$\n\nProcessor! &nbsp;+ 1.00GHz 8-core Intel Processor N350+ Turbo Boost up to 3.90GHz, with 6MB\nSmart Cache! 8 Cores+ 8 Threads+ 7W TDP+ 25W PL2$\n\nStorage! &nbsp;+ 512GB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+ Write Speed (CDM): 2430MB/s+\nKey Type: M+ Size: M2 2242+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 1TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2242+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 2TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2242+ Design: Single-Sided$\n\nFirmware! coreboot+ <a href=\"/pages/coreboot-options\" class=\"fancy\">Configurable options</a>$\n\nSecurity Features! BIOS Lock+ Secure Boot+ Measured Boot+ TPM 2.0+ Disabled Intel Management Engine$\n\nMemory! 16GB of 4800MT/s LPDDR5X onboard memory+ In-Band ECC: Supported$\n\nGraphics! Intel® UHD Graphics+ 1.35GHz Frequency$\n\nConnectivity! Micro HDMI+ USB Type C 3.2 with Power Delivery 3.0+ USB Type C 3.2 with Power\nDelivery 3.0+ Micro SD Memory Card Reader+ 3.5mm Headphone Jack!\n\nHDMI version: 2.0+ USB-C Interface: Display Port (DP Alt Mode)+ USB version: 3.2 Gen 2 (up to 10\nGbps)+ &nbsp;+ &nbsp;$\n\nKeyboard and Trackpad! Optional Magnetic Backlit keyboard+ Trackpad for precise cursor control and\nMulti-Touch gestures$\n\nWireless! Intel Wi-Fi 5 9560+ 802.11ac Wi-Fi; Up to 1.73 Gbps+ 802.11ac/a/b/g/n compatible$\n\nBluetooth! Bluetooth 5.1$\n\nCamera! 2k camera+ 2k rear camera$\n\nVideo Support! Simultaneously supports full native resolution on the built-in display and:+ Up\nto two displays with 3840x2160 resolution at 30Hz! Up to 3840x2160 resolution at 60Hz using\nHDMI+ Up to 3840x2160 resolution at 30Hz using Display Port$\n\nAudio! Stereo Speakers+ Dual Digital Microphone$\n\nEmbedded Controller! ITE 5570E$\n\nBattery and Power! Up to 12 hours battery life+ 38-watt-hour lithium-polymer battery+ 65w USB-C\nPower Adapter! Technology: Power Delivery 3.0$\n\nOperating Requirements! Line voltage: 100V to 240V AC+ Frequency: 50Hz to 60Hz+ Operating\ntemperature: 5° to 40° C (41° to 104° F)+ Storage temperature: -20° to 60° C (-4° to 140° F)+\nRelative humidity: 30% to 65% non-condensing+ Operating altitude: tested up to 3048 metres\n(10000 feet)+ Maximum storage altitude: 12192 metres (40000 feet)+ Maximum shipping altitude:\n12192 metres (40000 feet)$\n\nSize and Weight! Height: 0.89 cm (0.35 inches)+ Width: 28.33 cm (11.15 inches)+ Depth: 20.3 cm\n(7.99 inches)+ Weight: 0.85 kg (1.87 pounds) tablet+ Weight with keyboard: 1.5 kg (3.31 pounds)$\n\nOperating System!\n\n\tDistributions using Linux 6.12 or later+ Windows 11 22H1 (64-bit) or later$\n\n\nWhat's in the Box! 12.5-inch Star Lite+ 65W USB‑C Power Adapter+ USB-C to USB-C Charging Cable\n(2m)+ Detachable plug (UK, EU, US and AU available)\n\n\t+ Detachable Keyboard + Zorin Pro OS Reversible USB 3.2 Recovery Drive\n\n! Quick Start Guide+ Protective Sleeve+ Screen Cleaning Cloth$\n\nLimited Warranty and Service! One-year limited warranty+ One-year limited technical support"
 			}
 		}
 	]

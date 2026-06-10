@@ -184,6 +184,10 @@
 								{
 									"label": "Configuration",
 									"value": "1 × 16GB"
+								},
+								{
+									"label": "In-Band ECC",
+									"value": "Supported"
 								}
 							]
 						}
@@ -291,7 +295,7 @@
 								},
 								{
 									"label": "Memory encryption",
-									"value": "Included"
+									"value": "—"
 								},
 								{
 									"label": "BIOS lock",
@@ -493,7 +497,7 @@
 						"items": [
 							{
 								"detail": "",
-								"summary": "Total Memory Encryption<br />BIOS Lock<br />Secure Boot<br />Measured Boot<br />TPM 2.0<br />Disabled Intel Management Engine"
+								"summary": "BIOS Lock<br />Secure Boot<br />Measured Boot<br />TPM 2.0<br />Disabled Intel Management Engine"
 							}
 						],
 						"key": "security_features",
@@ -502,11 +506,11 @@
 					{
 						"items": [
 							{
-								"detail": "Form Factor: SO-DIMM<br />Type: DDR4<br />Configuration: 1 × 16GB",
+								"detail": "Form Factor: SO-DIMM<br />Type: DDR4<br />Configuration: 1 × 16GB<br />In-Band ECC: Supported",
 								"summary": "16GB of 3200MHz DDR4 memory"
 							},
 							{
-								"detail": "Form Factor: SO-DIMM<br />Type: DDR4<br />Configuration: 1 × 32GB",
+								"detail": "Form Factor: SO-DIMM<br />Type: DDR4<br />Configuration: 1 × 32GB<br />In-Band ECC: Supported",
 								"summary": "<span class=\"sub fancy\">Configurable to:</span><br />32GB of 3200MHz DDR4 memory"
 							}
 						],
@@ -642,7 +646,7 @@
 						"title": "Limited Warranty and Service"
 					}
 				],
-				"sheet": "Chassis! Polycarbonate and nickel housing$\n\nProcessor! 1.00GHz 8-core Intel N355+ Turbo Boost up to 3.90GHz, with 6MB Intel®\nSmart Cache! 8 Cores+ 8 Threads+ 15W TDP+ 50W PL2$\n\nCooling! Internal fan; can be disabled in firmware$\n\nStorage! &nbsp;+ 512GB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+ Write Speed (CDM): 2430MB/s+\nKey Type: M+ Size: M2 2280+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 1TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2280+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 2TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2280+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 4TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2280+ Design: Single-Sided$\n\nExpandable Storage! Internal 2.5-inch HDD/SSD support via included detachable connector$\n\nFirmware! coreboot+ <a href=\"/pages/coreboot-options\" class=\"fancy\">Configurable options</a>$\n\nSecurity Features! Total Memory Encryption+ BIOS Lock+ Secure Boot+ Measured Boot+ TPM 2.0+\nDisabled Intel Management Engine$\n\nMemory! 16GB of 3200MHz DDR4 memory! Form Factor: SO-DIMM+ Type: DDR4+ Configuration: 1 × 16GB!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 32GB of 3200MHz DDR4 memory! Form Factor:\nSO-DIMM+ Type: DDR4+ Configuration: 1 × 32GB$\n\nGraphics! Intel® UHD Graphics+ 1.35GHz Frequency$\n\nConnectivity!\n\n<span class=\"sub fancy\">Front</span>+ 3.5mm Headphone Jack+ USB Type C+ USB 3.0+ USB 3.0!\n\nUSB-C Interface: DisplayPort (DP Alt Mode)+ USB-C version: 3.2 Gen 2 (up to 10 Gbps)+ USB-A\nversion: 3.2 Gen 2 (up to 10 Gbps)!\n\n<span class=\"sub fancy\">Back</span>+ USB 3.0+ USB 3.0+ HDMI+ Display Port+ RJ45+ RJ45+ DC Power\nJack!\n\nUSB-A version: 3.2 Gen 2 (up to 10 Gbps)+ HDMI version: 2.0+ Display Port version: 1.4+ Ethernet\n1: 1000 Mbps (Realtek 8111H)+ Ethernet 2: 2500 Mbps (Realtek 8125BG)+ DC Input: 19V 4.42A 5.5mm+\nMinimum Wattage: 65W+ &nbsp;$\n\nWireless! Intel Wi-Fi 5 9560+ 802.11ac Wi-Fi; Up to 1.73 Gbps+ 802.11ac/a/b/g/n compatible! Key\nType: E+ Size: M2 2230$\n\nBluetooth! Bluetooth 5.1$\n\nVideo Support! Up to two displays with 4096x2160 resolution at 60Hz$\n\nEmbedded Controller! ITE 5570E$\n\nPower! 65W DC Power Adapter! Technology: Fixed Voltage+ DC Input: 19V 4.42A 5.5mm$\n\nOperating Requirements! Line voltage: 100V to 240V AC+ Frequency: 50Hz to 60Hz+ Operating\ntemperature: 5° to 40° C (41° to 104° F)+ Storage temperature: -20° to 60° C (-4° to 140° F)+\nRelative humidity: 30% to 65% non-condensing+ Operating altitude: tested up to 3048 metres\n(10000 feet)+ Maximum storage altitude: 12192 metres (40000 feet)+ Maximum shipping altitude:\n12192 metres (40000 feet)$\n\nSize and Weight! Height: 4.3 cm (1.69 inches)+ Width: 12.7 cm (5 inches)+ Depth: 12.7 cm (5\ninches)+ Weight: 265 g (0.56 pounds)$\n\nOperating System!\n\n\tDistributions using Linux 6.12 or later+ Windows 11 22H1 (64-bit) or later$\n\n\nWhat's in the Box! Byte + 65W DC Power Adapter! Internal 2.5-inch storage connector! VESA Mounting Kit! Quick Start Guide$\n\nLimited Warranty and Service! One-year limited warranty+ One-year limited technical support"
+				"sheet": "Chassis! Polycarbonate and nickel housing$\n\nProcessor! 1.00GHz 8-core Intel N355+ Turbo Boost up to 3.90GHz, with 6MB Intel®\nSmart Cache! 8 Cores+ 8 Threads+ 15W TDP+ 50W PL2$\n\nCooling! Internal fan; can be disabled in firmware$\n\nStorage! &nbsp;+ 512GB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+ Write Speed (CDM): 2430MB/s+\nKey Type: M+ Size: M2 2280+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 1TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2280+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 2TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2280+ Design: Single-Sided!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 4TB Gen3 PCIe SSD! Read Speed (CDM): 3370MB/s+\nWrite Speed (CDM): 3030MB/s+ Key Type: M+ Size: M2 2280+ Design: Single-Sided$\n\nExpandable Storage! Internal 2.5-inch HDD/SSD support via included detachable connector$\n\nFirmware! coreboot+ <a href=\"/pages/coreboot-options\" class=\"fancy\">Configurable options</a>$\n\nSecurity Features! BIOS Lock+ Secure Boot+ Measured Boot+ TPM 2.0+ Disabled Intel Management Engine$\n\nMemory! 16GB of 3200MHz DDR4 memory! Form Factor: SO-DIMM+ Type: DDR4+ Configuration: 1 × 16GB!\n\n<span class=\"sub fancy\">Configurable to:</span>+ 32GB of 3200MHz DDR4 memory! Form Factor:\nSO-DIMM+ Type: DDR4+ Configuration: 1 × 32GB+ In-Band ECC: Supported$\n\nGraphics! Intel® UHD Graphics+ 1.35GHz Frequency$\n\nConnectivity!\n\n<span class=\"sub fancy\">Front</span>+ 3.5mm Headphone Jack+ USB Type C+ USB 3.0+ USB 3.0!\n\nUSB-C Interface: DisplayPort (DP Alt Mode)+ USB-C version: 3.2 Gen 2 (up to 10 Gbps)+ USB-A\nversion: 3.2 Gen 2 (up to 10 Gbps)!\n\n<span class=\"sub fancy\">Back</span>+ USB 3.0+ USB 3.0+ HDMI+ Display Port+ RJ45+ RJ45+ DC Power\nJack!\n\nUSB-A version: 3.2 Gen 2 (up to 10 Gbps)+ HDMI version: 2.0+ Display Port version: 1.4+ Ethernet\n1: 1000 Mbps (Realtek 8111H)+ Ethernet 2: 2500 Mbps (Realtek 8125BG)+ DC Input: 19V 4.42A 5.5mm+\nMinimum Wattage: 65W+ &nbsp;$\n\nWireless! Intel Wi-Fi 5 9560+ 802.11ac Wi-Fi; Up to 1.73 Gbps+ 802.11ac/a/b/g/n compatible! Key\nType: E+ Size: M2 2230$\n\nBluetooth! Bluetooth 5.1$\n\nVideo Support! Up to two displays with 4096x2160 resolution at 60Hz$\n\nEmbedded Controller! ITE 5570E$\n\nPower! 65W DC Power Adapter! Technology: Fixed Voltage+ DC Input: 19V 4.42A 5.5mm$\n\nOperating Requirements! Line voltage: 100V to 240V AC+ Frequency: 50Hz to 60Hz+ Operating\ntemperature: 5° to 40° C (41° to 104° F)+ Storage temperature: -20° to 60° C (-4° to 140° F)+\nRelative humidity: 30% to 65% non-condensing+ Operating altitude: tested up to 3048 metres\n(10000 feet)+ Maximum storage altitude: 12192 metres (40000 feet)+ Maximum shipping altitude:\n12192 metres (40000 feet)$\n\nSize and Weight! Height: 4.3 cm (1.69 inches)+ Width: 12.7 cm (5 inches)+ Depth: 12.7 cm (5\ninches)+ Weight: 265 g (0.56 pounds)$\n\nOperating System!\n\n\tDistributions using Linux 6.12 or later+ Windows 11 22H1 (64-bit) or later$\n\n\nWhat's in the Box! Byte + 65W DC Power Adapter! Internal 2.5-inch storage connector! VESA Mounting Kit! Quick Start Guide$\n\nLimited Warranty and Service! One-year limited warranty+ One-year limited technical support"
 			}
 		}
 	]
