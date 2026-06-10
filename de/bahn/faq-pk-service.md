@@ -453,7 +453,10 @@ Folgende Gründe können eine Zulassung zum Lastschriftverfahren verhindern:
 2. Mit den Angaben der bestellenden Person konnte die erforderliche Bonitätsprüfung nicht oder nicht erfolgreich durchgeführt werden.
 3. Ihr DB Kundenkonto wurde in der Vergangenheit gesperrt, zum Beispiel aufgrund einer falschen Bankverbindung, Inkassoübergaben oder verdächtiger Nutzung
 
-Falls Sie diese Gründe für Ihr DB Kundenkonto nicht erkennen, finden Sie hier [weitere Hilfe](https://www.bahn.de/faq/sperre-lastschrift).
+Falls Sie diese Gründe für Ihr DB Kundenkonto nicht erkennen, finden Sie hier:
+
+* [FAQ zur Bonitätsprüfung](https://www.bahn.de/faq/positiv-bonitaet)
+* [Weitere Hilfe zur Zulassung](https://www.bahn.de/faq/sperre-lastschrift)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-zulassung)
 
@@ -3121,11 +3124,11 @@ Nein. Die Betreuung erfolgt immer durchgehend vom Start- bis zum Zielbahnhof. Ei
  Ab wann wird der Service DB Junior Express angeboten?
 ----------
 
-Die Fahrten finden zunächst an Freitagen und Sonntagen ab August 2026 statt.
+Die Fahrten finden zunächst an Freitagen und Sonntagen ab Ende August 2026 statt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-wann-start)
 
- Wo gibt es weitere Informationen zum DB Juniorexpress?
+ Wo gibt es weitere Informationen zum DB Junior Express?
 ----------
 
 Weitere Informationen zum Service DB Juniorexpress, zum Ablauf und zur Buchung werden vor Verkaufsstart auf dieser Seite veröffentlicht.
@@ -4901,9 +4904,13 @@ Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
  Zulassung: Mir ist nicht bekannt, warum ich nicht zum Lastschriftverfahren zugelassen werde. Was kann ich tun?
 ----------
 
-Um die Sperre für das Lastschriftverfahren in Ihrem DB Kundenkonto zu überprüfen, melden Sie sich bitte über das Kontaktformular:
+Die möglichen Gründe für eine Ablehnung des Lastschriftverfahrens finden Sie hier: <https://www.bahn.de/faq/abo-zulassung>.
 
-* [Anfrage zum Bestellstatus](https://www.bahn.de/hilfe#/abos-dticket/bestellstatus)
+Prüfen Sie auch sorgfältig, ob Sie in der Vergangenheit eine Mahnung der Deutschen Bahn erhalten haben und befolgen Sie die darin genannten Schritte.
+
+Sollten Sie nicht erkennen, warum Ihre Abo-Bestellung nicht für das Lastschriftverfahren zugelassen wird, wenden Sie sich bitte mit Ihrer Bestellnummer und Ihren verwendeten Kontodaten an das zuständige Service-Team:
+
+* [Zu den Kontaktdaten der Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sperre-lastschrift)
 
