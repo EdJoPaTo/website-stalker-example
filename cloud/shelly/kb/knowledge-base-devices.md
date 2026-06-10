@@ -130,6 +130,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly BLU Button1](https://kb.shelly.cloud/knowledge-base/shellyblu-button1)
 * [Shelly BLU Door/Window](https://kb.shelly.cloud/knowledge-base/shellyblu-door-window)
 * [Shelly BLU Motion](https://kb.shelly.cloud/knowledge-base/shellyblu-motion)
+* [Shelly BLU Motion ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-motion-zb)
 * [Shelly Smart Security Bundle](https://kb.shelly.cloud/knowledge-base/shelly-smart-security-bundle)
 * [Shelly BLU H&T](https://kb.shelly.cloud/knowledge-base/shelly-blu-h-t)
 * [Shelly BLU H&T ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-h-t-zb)
