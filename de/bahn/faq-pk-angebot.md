@@ -3778,18 +3778,16 @@ Das Deutschland-Ticket gilt jedoch immer für den vollen Kalendermonat. Der Mona
  Ich habe eine Ablehnungsmail zum Deutschland-Ticket bekommen. Was soll ich tun?
 ----------
 
-Die Ablehnung kann folgende Gründe haben:
+Die Ablehnung einer Abo-Bestellung kann folgende Gründe haben:
 
-* Lastschriftsperre im Kundenkonto
+* Lastschriftsperre im DB Kundenkonto ([Weitere Infos zur Zulassung per Lastschrift](https://www.bahn.de/faq/abo-zulassung))
 * Bonitätsprüfung nicht erfolgreich
-* Jobticket-Ablehnung durch Arbeitgeber
-* Berechtigungsnachweis nicht anerkannt
 
-Eine nachträgliche Aktivierung ist nicht möglich. Bestellen Sie das Deutschland-Ticket neu.
+Bei einer Jobticket-Bestellung kann eine Ablehnung auch durch den Arbeitgeber erfolgen. Bitte wenden Sie sich an Ihre Ansprechperson im Unternehmen.
 
-Bei Jobticket-Ablehnung wenden Sie sich an Ihre Arbeitgeberin oder Ihren Arbeitgeber.
+Bei einem nachweispflichtigem Abo (z.B. Deutschland-Ticket JugendBW) erhalten Sie eine Ablehnung, wenn Ihr Berechtigungsnachweis nicht den Anforderungen entspricht.
 
-Bei Ablehnung des Berechtigungsnachweises prüfen Sie die Gründe und reichen einen neuen Nachweis mit Ihrer neuen Bestellung oder Verlängerung ein.
+Wenn der Grund für Ihre Ablehnung geklärt wurde, können Sie das Abo neu bestellen. Eine nachträgliche Aktivierung einer abgelehnten Bestellung ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ablehnungsmail)
 

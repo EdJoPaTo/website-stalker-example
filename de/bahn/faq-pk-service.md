@@ -3774,8 +3774,8 @@ Hin‑ und Rückfahrt Fernverkehr: 99,99 Euro
 
 **Im Fernverkehr (ICE, IC und EC) und Nahverkehr:**
 
-Einfache Fahrt im Fernverkehr 59,99 Euro. Bei Fahrt im Fern- und Nahverkehr 81,99 Euro.
-Hin‑ und Rückfahrt im Fernverkehr 99,99 Euro. Bei Fahrt im Fern- und Nahverkehr 143,99 Euro
+Einfache Fahrt im Fern- und Nahverkehr 81,99 Euro.
+Hin‑ und Rückfahrt im Fahrt im Fern- und Nahverkehr 143,99 Euro
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-und-gueltigkeit)
 
