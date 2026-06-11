@@ -108,23 +108,15 @@ Hamburg 2026
 
 [SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-2027-100km.eventbrite.de)
 
-1
+Hall of Fame Hamburg 100km pdf\_page-0001
 
-Hall of Fame Hamburg 2025
+Hall of Fame Hamburg 100km überarbeitet pdf\_page-0002
 
-2
+Hall of Fame Pokalliste page-0001
 
-Hall of Fame Hamburg 2025
+Hall of Fame Hamburg 100km pdf\_page-0001
 
-10
-
-Hall of Fame Hamburg 2025
-
-1
-
-Hall of Fame Hamburg 2025
-
-1/10
+1/9
 
 #### Dein name
 auf der nächsten
