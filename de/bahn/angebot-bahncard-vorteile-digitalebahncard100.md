@@ -47,6 +47,10 @@ Wichtig: Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 
 
 Nach der Verknüpfung ist der QR Code vorhanden. Ihnen wird auch angezeigt, wenn die BahnCard 100 noch nicht gültig ist.
 
+Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich „Reisen" unter „Zeitkarten & Abos" antippen.
+
+Wichtig: Bitte führen Sie die Verknüpfung vor Ihrem Reiseantritt durch. Den QR-Code benötigen Sie bei der Ticketkontrolle.
+
 ### Fertig zum Gültigkeitsbeginn ###
 
 Ihre BahnCard 100 hat den Gültigkeitsbeginn erreicht, dann ist Ihre BahnCard einsatzbereit.
@@ -54,6 +58,8 @@ Ihre BahnCard 100 hat den Gültigkeitsbeginn erreicht, dann ist Ihre BahnCard ei
 ### BahnCard verwalten ###
 
 In der QR Code Ansicht gelangen Sie durch Wischen von unten nach oben zu „Weitere Aktionen“. Tippen Sie darauf und Ihnen werden die Online-Services zur BahnCard 100 angezeigt.
+
+Dort können Sie zum Beispiel Ihr Reservierungskontingent einsehen und buchen oder persönliche Daten verwalten.
 
 ### Deutschland-Ticket verknüpfen ###
 

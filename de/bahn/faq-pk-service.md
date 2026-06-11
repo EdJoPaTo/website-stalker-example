@@ -3764,6 +3764,21 @@ Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wer
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-erstattung-nutzung-andere-zuege)
 
+ Was kostet das Ticket und wo ist es gültig?
+----------
+
+**Im Fernverkehr (ICE, IC und EC):**
+
+Einfache Fahrt Fernverkehr: 59,99 Euro
+Hin‑ und Rückfahrt Fernverkehr: 99,99 Euro
+
+**Im Fernverkehr (ICE, IC und EC) und Nahverkehr:**
+
+Einfache Fahrt im Fernverkehr 59,99 Euro. Bei Fahrt im Fern- und Nahverkehr 81,99 Euro.
+Hin‑ und Rückfahrt im Fernverkehr 99,99 Euro. Bei Fahrt im Fern- und Nahverkehr 143,99 Euro
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-und-gueltigkeit)
+
  Ist kostenfreie Kindermitnahme für Kinder bis 14 Jahre mit der BahnCard 100 möglich?
 ----------
 
@@ -4186,6 +4201,15 @@ Es handelt sich um eine gesetzliche Anforderung, die für alle Kreditinstitute b
 Bitte beachten Sie auch unsere Hinweise zu "Phishing – gemeinsam gegen Betrug im Internet!" unter [www.bahn.de/info/sonderkommunikation-phishing](https://www.bahn.de/info/sonderkommunikation-phishing)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nachricht-ueber-kontozugriff)
+
+ Kann ich auch mit dem Nahverkehr das Ticket nutzen?
+----------
+
+Das DB Familienticket kann auch für eine Strecke mit Nahverkehr (SPNV) genutzt werden, solange die Kernstrecke im Fernverkehr zurückgelegt wird.
+
+In der Verbindungsauskunft kann die Gesamtstrecke angegeben werden, entsprechend ändert sich der Preis in 81,99 Euro für eine einfache Fahrt und 143,99 Euro für eine Hin- und Rückfahrt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nahverkehr-familienticket)
 
  Kann ich die Rechnungsadresse und den Namen der rechnungsempfangenden Person ändern oder umschreiben lassen?
 ----------
@@ -4646,6 +4670,15 @@ Eine Stornierung einzelner Reisender ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
 
+ In welcher Reisendenkonstellation kann ich das Angebot buchen?
+----------
+
+Das DB Familienticket ist in der Kombination 1-2 Personen ab 15 Jahre plus 1-4 Kinder buchbar. Damit das Ticket in der Verbindungsauskunft angezeigt werden kann, ist mindestens 1 Person ab 15 Jahre mit einem Kind auszuwählen.
+
+Wichtig: Auch Kinder im Alter von 0-5 Jahren sollten bei der Verbindungsauskunft mit angegeben werden, damit die kostenfreie Sitzplatzreservierung mit ausgegeben werden kann.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisendenkonstellation-familienticket)
+
  Was muss ich beachten, wenn ich als Reisender im Rollstuhl mit weiteren Reisenden im Rollstuhl reisen möchte?
 ----------
 
@@ -4870,6 +4903,20 @@ Sie können auch direkt auf der Startseite der App DB Navigator oben links im Dr
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-fv-ohne-ticket)
 
+ Ist die Sitzplatzreservierung beim Familienticket inklusive?
+----------
+
+Ja, die Sitzplatzreservierungen ist für maximal 5 Personen im Familienticket inklusive.
+Familien‑ und Kleinkindbereiche: Bei der Buchung haben Sie die Möglichkeit, Plätze im Familien‑ oder Kleinkindbereich auszuwählen. Diese speziell für Familien gestalteten Abteile liegen in der Nähe von Einstieg, Gepäckstellflächen und WC und bieten so zusätzlichen Komfort.
+
+Sollte eine Reservierung in den Familien- und Kleinkindbereichen nicht möglich sein, achten Sie darauf, die Sitzplätze vorzugsweise im Handybereich zu reservieren.
+
+Übrigens, das Symbol des Familienbereichs und des Kleinkindabteils finden Sie auch außen am Zug.
+
+Weitere Infos zu [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich)und [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-inklusive)
+
  Ist beim Normalpreis eine Sitzplatzreservierung im Preis enthalten?
 ----------
 
@@ -4960,6 +5007,13 @@ Informationen zu Umtausch und Stornierung finden Sie hier:
 * [Umtausch und Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stornierung-eines-gebuchten-tickets)
+
+ Kann ich das Ticket auch wieder stornieren?
+----------
+
+Das DB Familienticket ist bis 1 Tag vor dem 1. Geltungstag gegen ein Entgelt von 10 Euro in einen Gutschein stornierbar.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stornierung-familienticket)
 
  Wie bekomme ich bei einer Stornierung mein Geld zurück, wenn ich mit PayPal gezahlt habe?
 ----------
@@ -5285,6 +5339,13 @@ Nutzen Sie die Verbindungssuche oder gehen Sie im Menübereich "Buchen" auf "Tic
 Nein, Ihre Punkte verfallen nicht. Sie können Ihre Punkte allerdings nicht mehr online einsehen oder einlösen. Sie haben natürlich weiterhin die Möglichkeit, die Services über das ServiceCenter zu nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfallen-bahnbonus-punkte-bei-inaktivitaet)
+
+ Wann ist das DB Familienticket erhältlich?
+----------
+
+Das DB Familienticket ist vom 14.06. bis 12.09.2026 erhältlich für Reisen vom 26.06.-14.09.2026.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verkaufszeitraum-familienticket)
 
  Mein verlorener Gegenstand wurde gefunden. Wie kriege ich diesen jetzt zurück?
 ----------
@@ -6003,6 +6064,15 @@ Zeitkarten sind zum Beispiel Wochen- und Monatskarten. Sie können sie für zahl
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-eine-zeitkarte)
 
+ Was ist das DB Familienticket?
+----------
+
+Das DB Familienticket ist ein zeitlich begrenzt verfügbares Familienangebot. Mit diesem Angebot können 1 bis 2 Personen ab 15 Jahren und bis zu 4 Kinder (6-14 Jahre) innerhalb Deutschlands im Fernverkehr eine Hin- und Rückfahrt inklusive Sitzplatzreservierungen für 5 Personen buchen.
+
+Das Angebot kann auf bahn.de, im DB Navigator oder in personenbedienten Verkaufsstellen für 99,99 Euro erworben werden. Bei Verbindungen mit einer Teilstrecke im Nahverkehr (SPNV) liegt der Preis bei 143,99 Euro. Alternativ kann eine einfache Fahrt für 59,99 Euro erworben werden (mit Nahverkehr für 81,99 Euro).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-familienticket)
+
  Was ist der Komfort Check-in?
 ----------
 
@@ -6583,6 +6653,17 @@ Die Zugbegleiter:innen im Fernverkehr/ Kundenbetreuer:innen im Nahverkehr bestä
 Die Mitarbeiter:innen der DB Informationen und in den DB Reisezentren bestätigen eine Verspätung, wenn sie diese anhand vorliegender Daten überprüfen können. Die Bestätigung erfolgt durch das Anbringen eines Barcodes oder eines Stempelaufdrucks im vorgesehenen Feld des Formulars.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-darf-auf-dem-fahrgastrechte-formular-die-verspaetung-bestaetigen)
+
+ Wer kann mit dem Ticket reisen?
+----------
+
+* Mindestens 1 Erwachsener und 1 Kind müssen zusammen reisen
+* Maximal 2 Erwachsene und 3 Kinder oder 1 Erwachsener und 4 Kinder sind auf einem Ticket zugelassen
+* Als Kinder gelten Personen bis 14 Jahren
+* Als Erwachsene gelten Personen ab 15 Jahren
+* Kein Verwandtschaftsverhältnis ist zwischen den Mitreisenden erforderlich
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-darf-reisen-familienticket)
 
  Wo kann ich den Punkteverfall einsehen und werde ich informiert, wenn meine Punkte bald verfallen?
 ----------
@@ -8503,13 +8584,6 @@ Die Auslastungsinformation basiert auf Prognosen. In Einzelfällen kann es desha
 Zusätzlich bezieht sich die Information auf den gesamten Zug (je Klasse). Die Auslastung kann sich aber von Wagen zu Wagen zum Teil deutlich unterscheiden. Beispielsweise gibt es am Zuganfang und -ende häufig mehr freie Plätze als in der Mitte des Zuges.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woher-kommen-die-informationen)
-
- Woher stammen die CO₂-Vergleichswerte?
-----------
-
-Die Emissionsdaten für die Vergleiche der CO₂-Sparuhr stammen von unabhängigen Stellen, wie z. B. dem Umweltbundesamt, der Verbraucherzentrale NRW oder der Europäischen Umweltagentur. Die meisten Vergleiche beziehen sich auf die Gesamtbevölkerung in Deutschland, die Bundesländer oder auf die Anzahl der Haushalte in Deutschland. Diese Daten stammen aus den Berichten des Statistischen Bundesamts.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woher-vergleichswerte-co2)
 
  Woran erkenne ich meine Statuslaufzeit?
 ----------

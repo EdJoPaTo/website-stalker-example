@@ -7496,19 +7496,6 @@ Das JugendTicketBW ist ein Angebot für junge Menschen, damit sie preisgünstig 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-wo-gilt-welche-zuege)
 
- Gibt es beim Kauf des JugendTicketBW bezüglich des Wohnorts oder Ausbildungsorts etwas zu beachten?
-----------
-
-Ja, hier gibt es folgende Vorgabe: Bei der Gruppe der Bezugsberechtigten, die **nicht** Schüler:innen oder Studierende sind, muss der **Hauptwohnsitz im Geltungsbereich des VVS bzw. VRN** liegen.
-
-Bei Schüler:innen ist stattdessen der **Standort der Schule** und bei Studierenden der **Standort der Hochschule** maßgebend, die jeweils im Geltungsbereich des VVS bzw. VRN liegen müssen. Sollte dies jeweils nicht der Fall sein, ist das JugendTicketBW im entsprechenden angrenzenden Verkehrsverbund zu erwerben.
-
-[Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-wohnort)
-
  Kann ich als BahnCard 100 Inhaber:in auch BahnBonus Punkte sammeln?
 ----------
 
@@ -8746,13 +8733,6 @@ Nutzen Sie für die Online-Kündigung einfach Ihr DB Kundenkonto:
 [Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laeuft-die-senioren-bahncard-in-ein-abo-ueber)
-
- Lassen sich Bayern-Ticket und das Hessen-Ticket kombinieren?
-----------
-
-Den Kauf von 2 Länder-Tickets empfehlen wir hier nicht, da das Quer-durchs-Land-Ticket oder das Deutschland-Ticket in diesem Fall günstiger sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/lassen-sich-bayern-ticket-und-das-hessen-ticket-kombinieren)
 
  Welche Voraussetzung muss ich erfüllen, um das Bundeswehr-Ticket nutzen zu können?
 ----------
