@@ -91,13 +91,6 @@ Für die Nutzung der 1. Wagenklassen in bestimmten Verkehrsmitten können Sie ei
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/1-klasse-move)
 
- Wie komme ich an meine Rechnung für das 10er TagesTicket Nahverkehr?
-----------
-
-Die Rechnung wurde gemeinsam mit der Buchungsbestätigung an Ihre beim digitalen Kauf hinterlegte E-Mail-Adresse gesendet. Ein erneuter Abruf der Rechnung ist aufgrund Einstellung des Angebotes nicht mehr möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/10er-tagesticket-rechnung)
-
  Wo kann ich das Mehrfahrten-Ticket kaufen?
 ----------
 
@@ -3643,55 +3636,6 @@ Ab der neuen Version des DB Navigators wird Ihnen bei einem digitalen Abo (auch 
 Beispielsweise erscheint das Ticket für den Zeitraum Oktober erst am 1. Oktober, auch wenn es in der vorherigen DB Navigator-Version bereits als einzelnes Ticket geladen war.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-navigator-update-abo-fehlt)
-
- Mein Deutschland-Ticket wurde gekündigt. Was kann ich tun, wenn ich auch in 2026 das Angebot nutzen möchte?
-----------
-
-Wenn Ihr Deutschland-Ticket gekündigt wurde, können Sie ein neues Deutschland-Ticket-Abo abschließen. Der Preis beträgt 63 Euro pro Monat.
-
-Bitte beachten Sie: Fahren Sie ab Januar 2026 ohne gültiges Ticket, müssen Sie bei einer Kontrolle ein erhöhtes Beförderungsentgelt von mindestens 60 Euro zahlen. Sorgen Sie deshalb immer für einen gültigen Fahrschein.
-
-* [Zum Aboportal](https://abo.bahn.de/#/)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-kuendigung)
-
- Was passiert, wenn ich die Rückmeldung verpasst habe und einer Weiterführung des Abo-Vertrags nicht zugestimmt habe?
-----------
-
-Wenn Sie nicht rechtzeitig auf das Angebot zur Weiterführung des Abos reagiert oder nicht zugestimmt haben, endet Ihr Deutschland-Ticket-Abo am 31. Dezember 2025. Wir informieren die Person, die das Abo bestellt hat, per E-Mail über die Kündigung.
-
-Wenn Sie ab Januar 2026 wieder ein Deutschland-Ticket brauchen, können Sie ein neues Abonnement abschließen.
-
-Bitte beachten Sie: Ohne gültiges Ticket zahlen Sie ab Januar 2026 bei einer Kontrolle mindestens 60 Euro erhöhtes Beförderungsentgelt. Kaufen Sie das Ticket deshalb vor Fahrtantritt.
-
-Haben Sie Ihr Ticket ab dem 15. Oktober 2025 bestellt? Dann haben wir Sie schon während der Bestellung und in der Bestellbestätigung über die Preisänderung informiert. Sie müssen nicht extra zustimmen. Ihr Abo läuft zu den neuen Konditionen automatisch weiter, wenn Sie nicht rechtzeitig kündigen.
-
-* [Zum Aboportal](https://abo.bahn.de/#/)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung-verpasst)
-
- Ich habe meine Meinung geändert. Kann ich meine bereits erteilte Zustimmung zurückziehen? (Deutschland-Ticket)
-----------
-
-Nein. Sie können Ihr Abo im Aboportal oder im Handy-Ticket jederzeit selbst kündigen. Sie können auch unser Kündigungsformular nutzen.
-
-Beachten Sie die tarifliche Kündigungsfrist: Ein Deutschland-Ticket-Abonnement können Sie bis zum 10. Kalendertag eines Monats zum Monatsende kündigen.
-
-* [Zum Aboportal](https://abo.bahn.de/#/)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
-
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschandticket-preisanpassung-zustimmung-zurueckziehen)
 
  Kann ich eine Erstattung für mein Deutschland-Ticket bekommen, wenn ich längere Zeit krank bin?
 ----------

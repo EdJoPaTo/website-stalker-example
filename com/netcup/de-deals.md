@@ -642,7 +642,23 @@ Können Gutscheine auf netcup Deals angewendet werden?
 
 Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, Groupware oder Merchandise. Eine **Kombination aus mehreren Gutscheinen ist nicht möglich**. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
 
-Wenn dein Gutscheincode nicht funktioniert, wende dich an unseren Support.
+Wenn dein Gutscheincode nicht funktioniert, wende dich an unseren [Support](https://www.netcup.com/de/helpcenter/support?_gl=1*1tgq07g*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5S50DrqFkJtgv0FCEbNDW2N0sWjKnTU1pOi_vYBaWltNR_xvHbd520aAifjEALw_wcB).
+
+###
+
+Kann der Gutschein auch nachträglich angewendet werden?
+
+ ###
+
+Gutscheine können ausschließlich bei Neubestellungen eingelöst werden. Eine nachträgliche Anrechnung auf bereits bestehende Verträge oder laufende Bestellungen ist leider nicht möglich.
+
+###
+
+Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode?
+
+ ###
+
+Nein, der Preis der Aktion ist dauerhaft gültig - sofern nicht anders angegeben. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen entsprechend unserer [AGB](https://www.netcup.com/de/agb).
 
 ###
 
@@ -668,11 +684,48 @@ Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nac
 
 ###
 
-Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode?
+Kann ich meine bestehende Domain auf den Aktionspreis umstellen?
 
  ###
 
-Nein, der Preis der Aktion ist dauerhaft gültig - sofern nicht anders angegeben. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen entsprechend unserer [AGB](https://www.netcup.com/de/agb).
+Die Aktion gilt ausschließlich für Neubestellung. Daher ist eine Umstellung von bestehenden Verträgen auf ein Aktionsprodukt nicht möglich.
+
+###
+
+Kann ich den Namen einer Domain nachträglich ändern?
+
+ ###
+
+Nein, eine Domain lässt sich nachträglich nicht mehr ändern. Jede Domain ist ein individuelles Produkt mit einem festen Namen.
+
+###
+
+Wie kann ich eine Domain nach der Bereitstellung mit einem Webhosting, VPS oder Root-Server verbinden?
+
+ ###
+
+In unseren Anleitungen erfährst du Schritt für Schritt, wie du eine Domain mit deinem Webhosting-Paket oder vServer verbindest.
+
+* [Webhosting](https://www.netcup.com/de/helpcenter/dokumentation/domain/domain-webhosting-verbinden)
+* [Server](https://www.netcup.com/de/helpcenter/dokumentation/domain/domain-server-verbinden)
+
+###
+
+Ich habe eine Domain bestellt, für deren Transfer ein AuthCode erforderlich ist. Was kann ich tun, wenn die Domain nicht mir gehört?
+
+ ###
+
+Wichtig zu wissen ist, dass keine zusätzlichen Kosten entstehen. Bestelle gerne eine andere Domain. Wir helfen dir, die falsche Domain zu entfernen und ggf. bereits bezahlte Gebühren umzubuchen.
+
+Kontaktiere dafür unseren Support über das [Formular](https://www.netcup.com/de/helpcenter/support?_gl=1*1tgq07g*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5S50DrqFkJtgv0FCEbNDW2N0sWjKnTU1pOi_vYBaWltNR_xvHbd520aAifjEALw_wcB).
+
+###
+
+Kann ich die Domainaktion mit dem Partnerprogramm verbinden?
+
+ ###
+
+Ja, das ist möglich. Im Customer Control Panel unter "Gutscheine" kannst du neue Gutscheine erstellen sowie bereits ausgestellte Gutscheine und deren Status einsehen. Eine Anleitung zur Erstellung von Gutscheinen findest du [hier](https://www.netcup.com/de/helpcenter/dokumentation/general/partnerprogramm#link-erstellen).
 
 ###
 
