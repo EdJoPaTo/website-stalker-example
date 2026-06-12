@@ -110,13 +110,13 @@ e.s. Yatala low
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html)
 
- SET: Bundhose + Short e.s.motion 2020 inkl. Gratis Artikel
+ SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 
- SET: Bundhose + Short e.s.motion 2020 inkl. Gratis Artikel
+ SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 
- SET: Bundhose + Short e.s.motion 2020 inkl. Gratis Artikel
+ SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=54e9e663-2bb2-4122-b7fb-c9ade82ce314)
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
  Set-Highlight
 ----------
@@ -129,9 +129,9 @@ e.s. Yatala low
  Set-Highlight
 ---
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=54e9e663-2bb2-4122-b7fb-c9ade82ce314)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0017?variantId=54e9e663-2bb2-4122-b7fb-c9ade82ce314)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
  Strauss Aktionssets
 ----------
