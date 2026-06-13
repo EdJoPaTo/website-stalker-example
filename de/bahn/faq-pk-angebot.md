@@ -2156,19 +2156,6 @@ Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewä
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-ueberweisung)
 
- Wie kann ich die BahnCard 100 inklusive Deutschland-Ticket beantragen?
-----------
-
-So beantragen Sie die BahnCard 100 inklusive Deutschland-Ticket:
-
-1. Die BahnCard 100 bequem online bestellen und bundesweit im Nah- und Fernverkehr unbegrenzt reisen.
-2. Die BahnCard 100 als Plastikkarte in ca. 2 Wochen per Post erhalten.
-3. Die BahnCard 100 dient gleichzeitig als Deutschland-Ticket.
-
-**Wichtig:** Der 1. Geltungstag der BahnCard 100 muss mindestens 14 Tage in der Zukunft liegen. Für sofortige Nutzung empfehlen wir den Kauf im Reisezentrum.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard100-inklusive-deutschland-ticket)
-
  Wie lange kann man die BahnCard 50 Produkte zum Aktionspreis kaufen?
 ----------
 
@@ -2306,6 +2293,8 @@ Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den
 
 BahnCards können bis zu 6 Monate im Voraus gekauft werden. Tickets hingegen können bis zu 12 Monate im Voraus (jeweils ab dem Fahrplanwechsel im Juni und Dezember) gebucht werden. Es ist allerdings nicht notwendig, zum Buchungszeitpunkt bereits eine gültige BahnCard für eine in der Zukunft geplante Reise zu haben. Nur am Reisetag ist eine gültige BahnCard vorzuzeigen.
 
+**Die kostenfreie Jugend BahnCard** kann bis zum 30. September 2026 bestellt werden. Letzter erster Geltungstag ist der 31. Oktober 2026.
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-im-voraus-kaufen)
 
  Wird im kroatischen Nachtzug die BahnCard der DB anerkannt?
@@ -2369,10 +2358,10 @@ Halten Sie bitte Ihre BahnCard-Nummer bereit. ​
  Wie wird die BahnCard 100 und das Deutschland-Ticket im Zug kontrolliert?
 ----------
 
-Für die **Kontrolle im Zug** gibt es bei der BahnCard 100 und dem **integrierten Deutschland-Ticket** unterschiedliche Regelungen:
+Für die **Kontrolle im Zug** gibt es bei der BahnCard 100 und dem **integrierten Deutschland-Ticket** folgende Regelungen:
 
-* Die BahnCard 100 müssen Sie bei der Kontrolle im Zug **physisch** vorzeigen.
-* Das integrierte Deutschland-Ticket müssen Sie in ein (geschäftliches oder privates) Kundenkonto laden und **digital** vorzeigen.
+* Zeigen Sie Ihre BahnCard100 in der DB Navigator App im Menübereich "Reisen" unter "Zeitkarten & Abos" vor.
+* Das integrierte Deutschland-Ticket müssen Sie in ein (geschäftliches oder privates) Kundenkonto laden und **digital in der DB Navigator App** vorzeigen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bcb100-dticket-kontrolle)
 
@@ -10363,8 +10352,8 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 19,99 Euro
  Was kostet das Super Sparpreis Europa Gruppe-Ticket?
 ----------
 
-Eine einfache Fahrt kostet je nach Verfügbarkeit **ab 14,99 Euro, inklusive kostenfreier Sitzplatzreservierung in der 2. Klasse.**
-In der **1. Klasse** kostet eine einfache Fahrt je nach Verfügbarkeit **ab 26,99 Euro, inklusive kostenfreier Sitzplatzreservierung.**
+Eine einfache Fahrt kostet je nach Verfügbarkeit und Land **ab 14,99 Euro, inklusive kostenfreier Sitzplatzreservierung in der 2. Klasse.**
+In der **1. Klasse** kostet eine einfache Fahrt je nach Verfügbarkeit und Land **ab 27,99 Euro, inklusive kostenfreier Sitzplatzreservierung.**
 
 [Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
@@ -10694,7 +10683,7 @@ Ein Super Sparpreis Last Minute-Ticket für die einfache Fahrt kostet je na
  Was kostet ein Super Sparpreis Young-Ticket?
 ----------
 
-Ein Ticket für die einfache Fahrt mit dem **Super Sparpreis Young** kostet je nach Verfügbarkeit ab **12,99 Euro** **in der 2. Klasse**.
+Ein Ticket für die einfache Fahrt mit dem **Super Sparpreis Young** kostet je nach Verfügbarkeit ab **4,99 Euro** **in der 2. Klasse**.
 
 [Weitere Informationen zum Super Sparpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-young)
 
@@ -18492,7 +18481,7 @@ Die BahnCard 50 kostet
  Wie viel kostet die Jugend BahnCard?
 ----------
 
-Die Jugend BahnCard kostet 7,90 Euro pro Jahr (1. und 2. Kl.) bis einschließlich 18 Jahre.
+Nur bis 30. September 2026: Die Jugend BahnCard kostet 0 Euro statt 7,90 Euro pro Jahr (1. und 2. Kl.) bis einschließlich 18 Jahre.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-die-jugend-bahncard)
 

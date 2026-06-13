@@ -106,4 +106,4 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 1.459 Euro
 
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O220)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001A241)

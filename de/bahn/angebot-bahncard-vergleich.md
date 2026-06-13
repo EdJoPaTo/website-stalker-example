@@ -143,7 +143,7 @@ Die folgende Übersicht verdeutlicht die unterschiedlichen Rabbattierungen der B
 
 4.899 Euro
 
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O219)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001A240)
 
 Welche BahnCard lohnt sich für mich?
 ----------
