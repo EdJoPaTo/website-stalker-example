@@ -1,6 +1,6 @@
 Built for Linux. Not adapted to it.
 
- Choose by how you work: convertible, privacy-conscious, or full-fat performance.
+Choose by how you work: convertible, privacy-conscious, or full-fat performance.
 
 [Compare full specs](#laptops-compare)
 
@@ -8,7 +8,7 @@ Built for Linux. Not adapted to it.
 
 [StarLite](/pages/starlite)
 
-Tablet flexibility with a full Linux desktop experience.
+Fanless, low-power Linux tablet for flexible private work.
 
 From €13,37
 
@@ -16,13 +16,13 @@ Display 12.5-inch 3:2 touchscreen
 
 Weight 0.9 kg tablet / 1.6 kg with keyboard
 
-Performance Intel N350 (8-core)Optimised for everyday work
+Power class Fanless 7W tablet-classIntel N350 + 16GB LPDDR5X
 
 Battery Up to 12 hrs
 
-Built for flexible work
+Built for flexible privacy
 
-Touchscreen, pen-ready, and built for flexible work.
+No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop when docked with the keyboard.
 
 [Learn more](/pages/starlite) [Configure](/products/starlite)
 
@@ -30,7 +30,7 @@ Touchscreen, pen-ready, and built for flexible work.
 
 [StarBook Horizon](/pages/starbook-horizon)
 
-Lightweight Linux laptop with privacy features built in.
+Active-cooled laptop-class portability with privacy features built in.
 
 From €13,37
 
@@ -38,13 +38,13 @@ Display 13.4-inch 3:2 90Hz
 
 Weight 1.1 kg
 
-Performance Intel N305 (8-core)Built for multitasking
+Power class Active-cooled 15W laptop-classIntel N305 + 32GB LPDDR5X
 
 Battery Up to 14 hrs
 
 Built for privacy
 
-Privacy screen, wireless kill switch, and webcam cover included.
+More sustained headroom than StarLite, with a privacy screen, wireless kill switch, and webcam cover.
 
 [Learn more](/pages/starbook-horizon) [Configure](/products/starbook-horizon)
 
@@ -52,7 +52,7 @@ Privacy screen, wireless kill switch, and webcam cover included.
 
 [StarFighter](/pages/starfighter)
 
-Our most powerful Linux laptop, built for heavy workloads.
+Premium Linux workstation hardware, with headroom beyond the spec sheet.
 
 From €13,37
 
@@ -60,13 +60,13 @@ Display 16-inch 16:10, up to 4K 120Hz
 
 Weight 1.6 kg
 
-Performance Intel Ultra or AMD Ryzen AIDesigned for heavy workloads
+Platform Intel Ultra or AMD Ryzen AIStandard to Ultra, with 32GB/64GB LPDDR5X options
 
 Battery Up to 18 hrs
 
-Built for bigger workloads
+Built for future headroom
 
-Our performance model, with QHD 165Hz or 4K 120Hz options.
+AZ91D magnesium, haptic trackpad, detachable camera/microphone, and Ultra options for 4K, TME, and long-term headroom.
 
 [Learn more](/pages/starfighter) [Configure](/products/starfighter)
 
@@ -92,17 +92,17 @@ Compare full specs
 
 See the key differences at a glance.
 
-|   Model    |                        StarLite                         |                      StarBook Horizon                      | StarFighter Core Ultra 5 (14-core)  StarFighter Ultra Core Ultra 9 (16-core)  StarFighter AMD|
-|------------|---------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|  Summary   | A touch-first Linux convertible with tablet flexibility.| A lighter portable for focused work, with privacy built in.|                         Premium performance with the biggest screen.                         |
-|  Display   |                12.5-inch 3:2 touchscreen                |                     13.4-inch 3:2 90Hz                     |                                        16-inch 16:10                                         |
-|Form factor |               Tablet + magnetic keyboard                |                  Light clamshell portable                  |                                 Full-size performance laptop                                 |
-|   Weight   |           0.85 kg tablet, 1.5 kg with keyboard          |                           1.1 kg                           |                                            1.6 kg                                            |
-|Performance |             8-core Intel N350 + 16GB LPDDR5X            |              8-core Intel N305 + 32GB LPDDR5X              |                               Intel Ultra / AMD + 64GB LPDDR5X                               |
-|   USB-C    |        2x USB-C with charging and display support       | Left USB-C with charging and display; right USB-C data only|                    Intel: 2x Thunderbolt 4; AMD: USB4 20Gbps + USB4 40Gbps                   |
-|  Battery   |                      Up to 12 hrs                       |                        Up to 14 hrs                        |                                         Up to 18 hrs                                         |
-|Why this one|   Touchscreen, pen-ready, and built for flexible work.  |       1.1kg, wireless kill switch, and webcam cover.       |                 AZ91D chassis, haptic trackpad, detachable camera/microphone.                |
-|  Show more |                                                         |                                                            |                                                                                              |
+|   Model    |                                 StarLite                                  |                                   StarBook Horizon                                    |                   StarFighter  StarFighter Ultra  StarFighter AMD                   |
+|------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|  Summary   |         Fanless, low-power Linux tablet for flexible private work.        |             Active-cooled laptop-class portability with privacy built in.             |           Everything in StarFighter, plus long-term performance headroom.           |
+|  Display   |                         12.5-inch 3:2 touchscreen                         |                                  13.4-inch 3:2 90Hz                                   |                               16-inch 16:10, 4K 120Hz                               |
+|Form factor |                        Tablet + magnetic keyboard                         |                               Light clamshell portable                                |                           Maximum-spec mobile workstation                           |
+|   Weight   |                    0.85 kg tablet, 1.5 kg with keyboard                   |                                        1.1 kg                                         |                                       1.6 kg                                        |
+|Power class |                      Fanless 7W tablet-class platform                     |                        Active-cooled 15W laptop-class platform                        |                       Core Ultra 9, 64GB LPDDR5X, TME support                       |
+|   USB-C    |                 2x USB-C with charging and display support                |              Left USB-C with charging and display; right USB-C data only              |               Intel: 2x Thunderbolt 4; AMD: USB4 20Gbps + USB4 40Gbps               |
+|  Battery   |                               Up to 12 hrs                                |                                     Up to 14 hrs                                      |                                     Up to 18 hrs                                    |
+|Why this one| No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop.| Stronger sustained everyday performance than StarLite, with privacy hardware built in.| Everything in Standard, plus 4K 120Hz, more memory, TME, and extra thermal headroom.|
+|  Show more |                                                                           |                                                                                       |                                                                                     |
 
  Last-generation StarBook — limited stock
 
