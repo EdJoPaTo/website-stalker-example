@@ -65,7 +65,7 @@ Measured on Linux.
 
 **User-replaceable battery** 45Wh lithium-ion pack you can replace instead of treating the machine as sealed.
 
-**Samsung 990 EVO Plus + TCG Opal 2.0** Fast Samsung storage with hardware-backed disk encryption.
+**Samsung 990 EVO Plus + built-in disk encryption** Fast Samsung storage with hardware-backed disk encryption.
 
  Source: [Geekbench Browser result](https://browser.geekbench.com/v6/cpu/17765962).
 
@@ -109,13 +109,13 @@ Fan assembly is visible and serviceable when the base is removed
 
 ### Fast storage, practical input. ###
 
- Samsung 990 EVO Plus with TCG Opal 2.0, two-stage backlit keyboard, LED indicators, and glass clickpad.
+ Samsung 990 EVO Plus with built-in disk encryption, two-stage backlit keyboard, LED indicators, and glass clickpad.
 
 Security
 
 ### Security built into the stack. ###
 
- dTPM 2.0, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and TCG Opal 2.0 disk encryption.
+ dTPM 2.0, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and built-in disk encryption.
 
 ### Built to feel refined, not flashy. ###
 
@@ -235,7 +235,7 @@ Measured on Linux.
 
 **User-replaceable battery** 45Wh lithium-ion pack you can replace instead of treating the machine as sealed.
 
-**Samsung 990 EVO Plus + TCG Opal 2.0** Fast Samsung storage with hardware-backed disk encryption.
+**Samsung 990 EVO Plus + built-in disk encryption** Fast Samsung storage with hardware-backed disk encryption.
 
  Source: [Geekbench Browser result](https://browser.geekbench.com/v6/cpu/17765962).
 
@@ -279,13 +279,13 @@ Fan assembly is visible and serviceable when the base is removed
 
 ### Fast storage, practical input. ###
 
- Samsung 990 EVO Plus with TCG Opal 2.0, two-stage backlit keyboard, LED indicators, and glass clickpad.
+ Samsung 990 EVO Plus with built-in disk encryption, two-stage backlit keyboard, LED indicators, and glass clickpad.
 
 Security
 
 ### Security built into the stack. ###
 
- dTPM 2.0, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and TCG Opal 2.0 disk encryption.
+ dTPM 2.0, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and built-in disk encryption.
 
 ### Built to feel refined, not flashy. ###
 

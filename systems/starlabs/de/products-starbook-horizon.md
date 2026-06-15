@@ -12,7 +12,7 @@ English (US) Keyboard
 
 [More Info](#storage)
 
- TCG disk encryption supported
+ Built-in disk encryption supported
 
  1TB
 
@@ -22,9 +22,9 @@ English (US) Keyboard
 
  You can configure it with 4TB, giving you more storage capacity and faster performance.
 
- All storage options for this model support TCG disk encryption.
+ All storage options for this model support built-in disk encryption.
 
- TCG Opal is the standard behind this feature, allowing encryption to be handled by the SSD itself rather than only in software.
+ This uses a self-encrypting drive standard, allowing encryption to be handled by the SSD itself rather than only in software.
 
  One practical advantage is that you can secure your data without needing to reinstall the operating system.
 
