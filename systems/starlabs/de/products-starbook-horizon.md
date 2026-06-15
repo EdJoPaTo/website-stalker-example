@@ -26,11 +26,13 @@ English (US) Keyboard
 
  TCG Opal is the standard used by self-encrypting drives, allowing encryption features to be handled by the SSD itself rather than only in software.
 
- One practical advantage is that it can be enabled or disabled without needing to reinstall the operating system.
+ One practical advantage is that you can secure your data without needing to reinstall the operating system.
 
  For most users, that means better storage-security options. For organisations, it also improves compatibility with enterprise deployment and device-management workflows.
 
  You can upgrade or replace the SSD; this requires a small Philips screwdriver.
+
+[![Embedded YouTube video](https://img.youtube.com/vi/hRjc3CqmXHk/0.jpg)](https://www.youtube.com/watch?v=hRjc3CqmXHk)
 
 1TB
 
@@ -112,14 +114,6 @@ Includes:
 * Screen Cleaning Cloth
 * Pre-installed Privacy Screen Protector
 
- Delivery
-
-Dispatch in
-
- 1 - 2 business days
-
-Free delivery with this computer
-
  Open warranty
 
  1-year limited warranty and technical support. Repairs, upgrades and changing operating systems do not void it.
@@ -138,6 +132,8 @@ Dispatch in
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
- Sold out [Learn More](/pages/starbook-horizon) [Get Notified When Available](#)
+Dispatch  1-2 days
 
-Free delivery with this computer
+ Sold out [Get Notified When Available](#)
+
+ Free delivery with this computer

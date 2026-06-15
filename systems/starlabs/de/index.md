@@ -1,9 +1,9 @@
 Linux hardware, built to be owned.
 ==========
 
- Privacy-conscious laptops, open firmware options, and repairable hardware designed for people who want control without turning every setup into a project.
+ Linux-first laptops engineered around long-term firmware support, repairable hardware, and direct support from the people who build them.
 
-[Shop laptops](/collections/laptops) [Explore StarBook Horizon](/pages/starbook-horizon)
+[Shop laptops](/collections/laptops) [Explore StarFighter](/pages/starfighter)
 
 **Linux-first** Designed around modern Linux distributions, not adapted afterwards.
 

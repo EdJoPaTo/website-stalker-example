@@ -115,7 +115,7 @@ Security
 
 ### Security built into the stack. ###
 
- dTPM 2.0, Total Memory Encryption, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and TCG Opal 2.0 disk encryption.
+ dTPM 2.0, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and TCG Opal 2.0 disk encryption.
 
 ### Built to feel refined, not flashy. ###
 
@@ -285,7 +285,7 @@ Security
 
 ### Security built into the stack. ###
 
- dTPM 2.0, Total Memory Encryption, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and TCG Opal 2.0 disk encryption.
+ dTPM 2.0, Secure/Measured Boot, BIOS Lock, Intel ME disabled, and TCG Opal 2.0 disk encryption.
 
 ### Built to feel refined, not flashy. ###
 

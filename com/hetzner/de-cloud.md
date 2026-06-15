@@ -173,13 +173,13 @@ Unser Preisvergleich zeigt: Während bei Hyperscalern wie AWS, Azure und Google 
 
 [Cloud-Server erstellen](https://console.hetzner.com/)
 
- Die Kosten bei Hetzner sind um Faktor zehn, Faktor zwölf niedriger als bei den Cloud-Providern, wo wir vorher waren - bei der gleichen Konfiguration.
+ Hetzner ist für mich der beste europäische Cloud-Hoster und bietet dir alles was du brauchst. Super günstige und zuverlässige VPS, Load Balancer, Firewalls und VPNs.
 
-Ilja Bauer
+Manuel Schöbel
 
-, Entwicklerheld
+, Digitale Kumpel
 
- Cloud
+ Web Development
 
 Standorte weltweit
 ----------

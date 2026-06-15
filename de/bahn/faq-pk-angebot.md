@@ -4517,9 +4517,9 @@ In diesem Fall wenden Sie sich bitte an den [BahnCard Service](https://www.bahn.
  Wie verknüpfe ich die digitale BahnCard 100 mit meinem Smartphone?
 ----------
 
-Ihre BahnCard 100 wird mit Ihrem mobilen Endgerät, zum Beispiel mit einem Smartphone, fest verbunden. ​
+Ihre BahnCard 100 wird mit Ihrem mobilen Endgerät, zum Beispiel mit einem Smartphone, fest verknüpft. ​
 
-​Ist Ihr Handy defekt oder Sie haben ein neues mobiles Endgerät, können Sie 3x während der Laufzeit der BahnCard 100 Ihr Endgerät mit der BahnCard 100 erneut verknüpfen. Bei der Probe BahnCard 100 ist ein Gerätewechsel nur einmalig möglich.
+Ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 100 können Sie diese mit Ihrem Smartphone verknüpfen, spätestens jedoch vor Ihrem Reiseantritt. Das gleiche gilt für Ihr zusätzliches kostenfreie Deutschland-Ticket.
 
 Sie haben Fragen zur Gerätebindung? Rufen Sie gerne unter [030 2970](tel:030 2970) an.
 
@@ -8724,7 +8724,7 @@ marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung erfolg
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,39,268,41,269,270#/produktauswahl)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-abbuchungen)
 
@@ -8740,7 +8740,7 @@ marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung erfolg
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,39,268,41,269,270#/produktauswahl)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-bonusprogramm)
 
@@ -8765,7 +8765,7 @@ Sie benötigen hierfür die App DB Navigator.
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,39,268,41,269,270#/produktauswahl)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-digitales-abo)
 
@@ -13044,71 +13044,6 @@ Cityzone Radolfzell
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vhb-tickets-wo-kaufen)
 
- Wie kann ich das Abo für das BildungsTicket Sachsen im VMS abschließen?
-----------
-
-Das Abo kann man **online abschließen** und zwar bis zum 10. des Monats vor dem gewünschten Vertragsbeginn.
-
-[Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-abo)
-
- Kann ich weitere Personen mitnehmen, wenn ich mit dem BildungsTicket Sachsen im VMS fahre?
-----------
-
-Nein, das BildungsTicket VMS ist nicht übertragbar und gilt nur für Sie. Beachten Sie bitte, dass Sie auch eine Kundenkarte brauchen, die müssen Sie aber nicht gesondert beantragen, sie kommt zusammen mit den Wertmarken.
-
-[Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-mitnahme)
-
- Wie viel kostet das BildungsTicket Sachsen im VMS?
-----------
-
-Das Ticket gibt es im Abonnement für 12 Monate, es kostet pro Monat **15 Euro**. Die Differenz übernimmt der Freistaat Sachsen.
-
-[Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-preis)
-
- Für wen ist das BildungsTicket Sachsen im VMS geeignet?
-----------
-
-Das BildungsTicket VMS gilt in Sachsen für
-
-* Schüler:innen allgemeinbildender Schulen
-* Schüler:innen an berufsbildenden Schulen mit einer rein schulischen Ausbildung (ohne Ausbildungsbetrieb)
-* Freiwilligendienstleistende, deren Einsatzstelle des Freiwilligendienstes sich im VMS-Gebiet befindet bzw. deren Einsatzstelle des Freiwilligendienstes in Sachsen und deren Wohnort im VMS-Gebiet liegt:
-   \- Freiwillige Ökologische Jahr (FÖJ)
-   \- Freiwilligen Sozialen Jahr (FSJ
-   \- Freiwilligendienst aller Generationen (FDAG)
-   \- Bundesfreiwilligendienst (BFD)
-
-[Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-wer)
-
- In welchen Verkehrsmitteln und in welchen Bahnen darf ich mit dem BildungsTicket Sachsen im VMS fahren?
-----------
-
-Mit nur einem Ticket überallhin in Chemnitz, dem Erzgebirgskreis sowie den Landkreisen Mittelsachsen und Zwickau! Das BildungsTicket lässt Schüler entspannt alle Verkehrsmittel des ÖPNV im gesamten Verbundraum des VMS nutzen (außer Fichtelbergbahn).
-
-Gilt außerdem für eine Berg- und Talfahrt pro Tag mit der [Drahtseilbahn Augustusburg](https://dsb.vms.de/aktuelles/)
-
-[Weitere Informationen zum BildungsTicket Sachsen im VMS](https://www.bahn.de/angebot/verbuende/bildungsticket-sachsen-vms)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=47)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vms-bildungsticket-wo)
-
  Welche Tickets des VMS sind online und in der App DB Navigator erhältlich?
 ----------
 
@@ -15230,8 +15165,8 @@ Das Schülerticket Berlin (Tarifbereich Berlin AB) wird nur von der BVG ausgegeb
 * Mindestlaufzeit beträgt 12 Monate
 * Personengebunden, nur mit Kundenkarte gültig
 
-* [Bestellschein VMS (PDF, 670 KB)](https://assets.static-bahn.de/dam/jcr:b97e2b85-4696-4d23-beff-2095bb5720cd/mdb_332073_bestellschein_vms.pdf)
-* [Bestellschein BildungsTicket (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:67c4e0f3-aba7-4ce8-b32d-369f8d8a1f46/VMS-Bildungsticket-Bestellschein.pdf)
+*
+*
 * [Bestellschein VMS Azubi/Schüler (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:f09be711-355a-4c46-b34b-0d29ca60fc5e/mdb_295701_bestellschein_vms_azubiticketsachsen.pdf)
 
 [Bildungsticket VMS](https://abo.bahn.de/bestellen/?tarifid=47)
@@ -15379,7 +15314,7 @@ Leider sind über den Vertrieb der Bahn keine Abo-Angebote des hvv mehr erhälti
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,39,268,41,269,270#/produktauswahl)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-marego-abo)
 
@@ -15711,42 +15646,14 @@ Das VBB Semesterzusatzticket ist 2025 nicht mehr erhältlich.
  Welche Abo-Angebote des VMS kann ich hier kaufen?
 ----------
 
-**Abo-Monatskarte**
+Die Abonnements für den VMS sind nicht mehr über bahn.de erhältlich.
 
-* Ca. 13% im Vergleich zur Monatskarte sparen
-* Übertragbar - zum Weitergeben an Familie, Freunde, Bekannte - oder personengebunden erhältlich (personengebunden nur mit Kundenkarte gültig)
-* Kostenfrei ganztägig bis zu 4 Personen an Wochenenden und Feiertagen mitnehmen
-* Kostenfrei ganztägig einen Hund mitnehmen
+Neue Abonnements können auf der Webseite vms.de erworben werden.
 
-**9-Uhr-Abo-Monatskarte**
+Wenn Sie bereits ein Abo haben, werden Sie über die Beendigung Ihres Abo-Vertrages informiert.
 
-* Gilt werktags von 9 bis 3 Uhr des Folgetages sowie an Wochenenden und Feiertagen ganztägig
-* Ca. 23 % im Vergleich zur Monatskarte sparen
-* Übertragbar - zum Weitergeben an Familie, Freunde, Bekannte - oder personengebunden erhältlich (personengebunden nur mit Kundenkarte gültig)
-* Kostenfrei ganztägig bis zu 4 Personen an Wochenenden und Feiertagen mitnehmen
-* Kostenfrei ganztägig einen Hund mitnehmen
-
-**SeniorenTicket "Abo-Senior"**
-
-* Gilt im gesamten Verbundgebiet
-* Für alle ab 63 Jahren
-* Kostenfrei ganztägig bis zu 4 Personen an Wochenenden und Feiertagen mitnehmen
-* Mindestlaufzeit beträgt nur 4 Monate
-* Personengebunden, nur mit Kundenkarte gültig
-
-**Übergangstarif Landkreis Döbeln (MDV/VMS)**
-
-Um den Bürger:innen der Region Döbeln auch künftig die Möglichkeit zu geben, unkompliziert in den Großraum Leipzig pendeln zu können, haben sich die Verkehrsverbünde auf die Anwendung des MDV-Tarifs bei Fahrten zwischen dem ehemaligen Landkreis Döbeln und dem Bereich des MDV geeinigt. Auf Linienfahrten mit dem Öffentlichen Personennahverkehr zwischen dem Gebiet des ehemaligen Landkreises Döbeln und dem Gebiet des MDV gilt ein Übergangstarif. Demnach können Fahrgäste mit Start- bzw. Zieltarifzonen im früheren Landkreis Döbeln weiterhin alle Nahverkehrsmittel im gesamten MDV-Gebiet nutzen, und zwar zu den üblichen Konditionen des MDV. Der Übergangstarif gilt sowohl für Einzel-, 4-Fahrten- und Tageskarten als auch für alle Zeitkartenangebote bis hin zum Abonnement sowie für verbundweit gültige Kombitickets, MDV-Semestertickets und Jobtickets.
-
-Wünschen Sie ein Abo im Übergangstarif, so nutzen Sie die Abo-Anträge wie folgt:
-
-* Innerhalb ehemaliger Landkreis Döbeln: Antrag VMS
-* Zwischen ehemaligem LK Döbeln in Richtung Chemnitz/ Rochlitz alt: Antrag VMS
-* Zwischen ehemaligem LK Döbeln in Richtung MDV: Antrag MDV
-
-* [Bestellschein Abo-Monatskarte, 9-Uhr-Abo-Monatskarte (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:47c691f9-fe45-437a-a084-ad5ddc0ec8c8/VMS-Bestellschein.pdf)
-* [Bestellschein SeniorenTicket "Abo-Senior" (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:145bcdca-4e4a-4ebd-b687-4e0e90144c0a/VMS-Senioren-Bestellschein.pdf)
-* [Bestellschein Übergangstarif Landkreis Döbeln (MDV/VMS) (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:47c691f9-fe45-437a-a084-ad5ddc0ec8c8/VMS-Bestellschein.pdf)
+* [Zur Site vms.de](https://www.vms.de/)
+* [Bildungsticket für Schüler und Schülerinnen unter vms.de/ticket/bildungsticket](https://www.vms.de/ticket/bildungsticket/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vms)
 

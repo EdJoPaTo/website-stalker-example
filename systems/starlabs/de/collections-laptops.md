@@ -1,4 +1,4 @@
-Three models. Built for Linux.
+Built for Linux. Not adapted to it.
 
  Choose by how you work: convertible, privacy-conscious, or full-fat performance.
 
@@ -8,15 +8,15 @@ Three models. Built for Linux.
 
 [StarLite](/pages/starlite)
 
-Touch-first convertible with tablet flexibility and a real Linux workflow.
+Tablet flexibility with a full Linux desktop experience.
 
-€13,37
+From €13,37
 
 Display 12.5-inch 3:2 touchscreen
 
 Weight 0.9 kg tablet / 1.6 kg with keyboard
 
-Performance 8-core Intel N350
+Performance Intel N350 (8-core)Optimised for everyday work
 
 Battery Up to 12 hrs
 
@@ -30,15 +30,15 @@ Touchscreen, pen-ready, and built for flexible work.
 
 [StarBook Horizon](/pages/starbook-horizon)
 
-Current StarBook Horizon variant: light, privacy-conscious, and 32GB standard.
+Lightweight Linux laptop with privacy features built in.
 
-€13,37
+From €13,37
 
 Display 13.4-inch 3:2 90Hz
 
 Weight 1.1 kg
 
-Performance 8-core Intel N305
+Performance Intel N305 (8-core)Built for multitasking
 
 Battery Up to 14 hrs
 
@@ -52,15 +52,15 @@ Privacy screen, wireless kill switch, and webcam cover included.
 
 [StarFighter](/pages/starfighter)
 
-Power-user performance with the biggest screen and the most headroom.
+Our most powerful Linux laptop, built for heavy workloads.
 
-€13,37
+From €13,37
 
 Display 16-inch 16:10, up to 4K 120Hz
 
 Weight 1.6 kg
 
-Performance Intel Ultra / AMD + 64GB LPDDR5X
+Performance Intel Ultra or AMD Ryzen AIDesigned for heavy workloads
 
 Battery Up to 18 hrs
 
@@ -112,7 +112,7 @@ See the key differences at a glance.
 
 Last-generation StarBook clearance. Limited stock remaining.
 
-€13,37
+From €13,37
 
 Available keyboard layouts: English (UK), English (US), French, German, Spanish
 

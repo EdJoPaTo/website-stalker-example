@@ -89,14 +89,6 @@ Includes:
 * VESA Mounting Kit
 * Quick Start Guide
 
- Delivery
-
-Dispatch in
-
- 1 - 2 business days
-
-Free delivery with this computer
-
  Open warranty
 
  1-year limited warranty and technical support. Repairs, upgrades and changing operating systems do not void it.
@@ -115,6 +107,8 @@ Dispatch in
 
 [Includes duties and taxes of , no extra charges on delivery.](#tax)
 
- Sold out [Learn More](/pages/byte) [Get Notified When Available](#)
+Dispatch  1-2 days
 
-Free delivery with this computer
+ Sold out [Get Notified When Available](#)
+
+ Free delivery with this computer
