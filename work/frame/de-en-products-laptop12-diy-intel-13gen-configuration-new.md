@@ -142,8 +142,8 @@ Close
 Storage
 
 * WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB  Not available with your other selected options. Reload page to reset. +€245
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB  Not available with your other selected options. Reload page to reset. +€425
+* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB  Not available with your other selected options. Reload page to reset. +€285
+* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB  Not available with your other selected options. Reload page to reset. +€552
 * None (bring your own)
 
 **Operating System**

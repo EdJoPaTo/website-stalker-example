@@ -92,17 +92,17 @@ Compare full specs
 
 See the key differences at a glance.
 
-|   Model    |                        StarLite                         |                      StarBook Horizon                      |        StarFighter  StarFighter Ultra  StarFighter AMD       |
-|------------|---------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
-|  Summary   | A touch-first Linux convertible with tablet flexibility.| A lighter portable for focused work, with privacy built in.|         Premium performance with the biggest screen.         |
-|  Display   |                12.5-inch 3:2 touchscreen                |                     13.4-inch 3:2 90Hz                     |                        16-inch 16:10                         |
-|Form factor |               Tablet + magnetic keyboard                |                  Light clamshell portable                  |                 Full-size performance laptop                 |
-|   Weight   |           0.85 kg tablet, 1.5 kg with keyboard          |                           1.1 kg                           |                            1.6 kg                            |
-|Performance |             8-core Intel N350 + 16GB LPDDR5X            |              8-core Intel N305 + 32GB LPDDR5X              |               Intel Ultra / AMD + 64GB LPDDR5X               |
-|   USB-C    |        2x USB-C with charging and display support       | Left USB-C with charging and display; right USB-C data only|    Intel: 2x Thunderbolt 4; AMD: USB4 20Gbps + USB4 40Gbps   |
-|  Battery   |                      Up to 12 hrs                       |                        Up to 14 hrs                        |                         Up to 18 hrs                         |
-|Why this one|   Touchscreen, pen-ready, and built for flexible work.  |       1.1kg, wireless kill switch, and webcam cover.       | AZ91D chassis, haptic trackpad, detachable camera/microphone.|
-|  Show more |                                                         |                                                            |                                                              |
+|   Model    |                        StarLite                         |                      StarBook Horizon                      | StarFighter Core Ultra 5 (14-core)  StarFighter Ultra Core Ultra 9 (16-core)  StarFighter AMD|
+|------------|---------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|  Summary   | A touch-first Linux convertible with tablet flexibility.| A lighter portable for focused work, with privacy built in.|                         Premium performance with the biggest screen.                         |
+|  Display   |                12.5-inch 3:2 touchscreen                |                     13.4-inch 3:2 90Hz                     |                                        16-inch 16:10                                         |
+|Form factor |               Tablet + magnetic keyboard                |                  Light clamshell portable                  |                                 Full-size performance laptop                                 |
+|   Weight   |           0.85 kg tablet, 1.5 kg with keyboard          |                           1.1 kg                           |                                            1.6 kg                                            |
+|Performance |             8-core Intel N350 + 16GB LPDDR5X            |              8-core Intel N305 + 32GB LPDDR5X              |                               Intel Ultra / AMD + 64GB LPDDR5X                               |
+|   USB-C    |        2x USB-C with charging and display support       | Left USB-C with charging and display; right USB-C data only|                    Intel: 2x Thunderbolt 4; AMD: USB4 20Gbps + USB4 40Gbps                   |
+|  Battery   |                      Up to 12 hrs                       |                        Up to 14 hrs                        |                                         Up to 18 hrs                                         |
+|Why this one|   Touchscreen, pen-ready, and built for flexible work.  |       1.1kg, wireless kill switch, and webcam cover.       |                 AZ91D chassis, haptic trackpad, detachable camera/microphone.                |
+|  Show more |                                                         |                                                            |                                                                                              |
 
  Last-generation StarBook — limited stock
 
