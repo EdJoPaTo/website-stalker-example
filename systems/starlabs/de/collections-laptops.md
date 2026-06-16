@@ -24,7 +24,7 @@ Built for flexible privacy
 
 No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop when docked with the keyboard.
 
-[Learn more](/pages/starlite) [Configure](/products/starlite)
+[Product Overview](/pages/starlite) [Configure](/products/starlite)
 
 [](/pages/starbook-horizon)
 
@@ -46,17 +46,17 @@ Built for privacy
 
 More sustained headroom than StarLite, with a privacy screen, wireless kill switch, and webcam cover.
 
-[Learn more](/pages/starbook-horizon) [Configure](/products/starbook-horizon)
+[Product Overview](/pages/starbook-horizon) [Configure](/products/starbook-horizon)
 
 [](/pages/starfighter)
 
 [StarFighter](/pages/starfighter)
 
-Premium Linux workstation hardware, with headroom beyond the spec sheet.
+Premium Linux workstation hardware with haptic trackpad, removable camera/mic, and a serious Ultra upgrade path.
 
 From €13,37
 
-Display 16-inch 16:10, up to 4K 120Hz
+Display 16-inch 16:10, QHD 165Hz or 4K 120Hz
 
 Weight 1.6 kg
 
@@ -64,11 +64,11 @@ Platform Intel Ultra or AMD Ryzen AIStandard to Ultra, with 32GB/64GB LPDDR5X op
 
 Battery Up to 18 hrs
 
-Built for future headroom
+Built as a workstation
 
-AZ91D magnesium, haptic trackpad, detachable camera/microphone, and Ultra options for 4K, Encrypted Memory (TME), and long-term headroom.
+AZ91D magnesium, haptic trackpad, detachable camera/microphone, and Ultra adds 4K 120Hz, 10kHz PWM dimming, 64GB memory, Core Ultra 9 headroom, and Encrypted Memory (TME).
 
-[Learn more](/pages/starfighter) [Configure](/products/starfighter)
+[Product Overview](/pages/starfighter) [Configure](/products/starfighter)
 
  Built for ownership, updates, and long-term use.
 
@@ -92,17 +92,17 @@ Compare full specs
 
 See the key differences at a glance.
 
-|   Model    |                                 StarLite                                  |                                   StarBook Horizon                                    |                             StarFighter  StarFighter Ultra  StarFighter AMD                            |
-|------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|  Summary   |         Fanless, low-power Linux tablet for flexible private work.        |             Active-cooled laptop-class portability with privacy built in.             |                     Everything in StarFighter, plus long-term performance headroom.                    |
-|  Display   |                         12.5-inch 3:2 touchscreen                         |                                  13.4-inch 3:2 90Hz                                   |                                         16-inch 16:10, 4K 120Hz                                        |
-|Form factor |                        Tablet + magnetic keyboard                         |                               Light clamshell portable                                |                                     Maximum-spec mobile workstation                                    |
-|   Weight   |                    0.85 kg tablet, 1.5 kg with keyboard                   |                                        1.1 kg                                         |                                                 1.6 kg                                                 |
-|Power class |                      Fanless 7W tablet-class platform                     |                        Active-cooled 15W laptop-class platform                        |                           Core Ultra 9, 64GB LPDDR5X, Encrypted Memory (TME)                           |
-|   USB-C    |                 2x USB-C with charging and display support                |              Left USB-C with charging and display; right USB-C data only              |                         Intel: 2x Thunderbolt 4; AMD: USB4 20Gbps + USB4 40Gbps                        |
-|  Battery   |                               Up to 12 hrs                                |                                     Up to 14 hrs                                      |                                              Up to 18 hrs                                              |
-|Why this one| No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop.| Stronger sustained everyday performance than StarLite, with privacy hardware built in.| Everything in Standard, plus 4K 120Hz, more memory, Encrypted Memory (TME), and extra thermal headroom.|
-|  Show more |                                                                           |                                                                                       |                                                                                                        |
+|   Model    |                                 StarLite                                  |                                   StarBook Horizon                                    |                                      StarFighter  StarFighter Ultra  StarFighter AMD                                     |
+|------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|  Summary   |         Fanless, low-power Linux tablet for flexible private work.        |             Active-cooled laptop-class portability with privacy built in.             |             Everything in StarFighter, plus 4K 120Hz, 10kHz PWM dimming, 64GB memory, and long-term headroom.            |
+|  Display   |                         12.5-inch 3:2 touchscreen                         |                                  13.4-inch 3:2 90Hz                                   |                                        16-inch 16:10, 4K 120Hz, 10kHz PWM dimming                                        |
+|Form factor |                        Tablet + magnetic keyboard                         |                               Light clamshell portable                                |                                              Maximum-spec mobile workstation                                             |
+|   Weight   |                    0.85 kg tablet, 1.5 kg with keyboard                   |                                        1.1 kg                                         |                                                          1.6 kg                                                          |
+|Power class |                      Fanless 7W tablet-class platform                     |                        Active-cooled 15W laptop-class platform                        |                                    Core Ultra 9, 64GB LPDDR5X, Encrypted Memory (TME)                                    |
+|   USB-C    |                 2x USB-C with charging and display support                |              Left USB-C with charging and display; right USB-C data only              |                                  Intel: 2x Thunderbolt 4; AMD: USB4 20Gbps + USB4 40Gbps                                 |
+|  Battery   |                               Up to 12 hrs                                |                                     Up to 14 hrs                                      |                                                       Up to 18 hrs                                                       |
+|Why this one| No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop.| Stronger sustained everyday performance than StarLite, with privacy hardware built in.| Everything in Standard, plus 4K 120Hz, 10kHz PWM dimming, 64GB memory, Core Ultra 9 headroom, and Encrypted Memory (TME).|
+|  Show more |                                                                           |                                                                                       |                                                                                                                          |
 
  Last-generation StarBook — limited stock
 
@@ -124,4 +124,4 @@ Around 1.4 kg
 
 Final Mk VII stock
 
-[Learn more](/pages/starbook) [Configure](/products/starbook-ultra)
+[Product Overview](/pages/starbook) [Configure](/products/starbook-ultra)

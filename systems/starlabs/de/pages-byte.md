@@ -98,13 +98,13 @@ For display out.
 
  Ethernet
 
-2500 Mbps.
+2500 Mbps (Realtek RTL8125BG).
 
 10.
 
  Ethernet
 
-1000 Mbps.
+1000 Mbps (Realtek RTL8111H).
 
 11.
 
