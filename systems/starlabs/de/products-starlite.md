@@ -4,8 +4,11 @@ StarLite
 [Product Overview](/pages/starlite)
 
 Standard
-Intel Core 3 N350 8-core processor
-16GB LPDDR5X memory
+ Fanless 7W tablet-class platform
+ Intel Core 3 N350 processor
+ 16GB LPDDR5X memory
+ Touchscreen, pen-ready 2-in-1 flexibility
+ coreboot firmware and optional magnetic keyboard
 
  Storage
 

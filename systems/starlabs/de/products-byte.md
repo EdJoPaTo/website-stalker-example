@@ -4,10 +4,12 @@ Byte
 [Product Overview](/pages/byte)
 
 Standard
-Intel Core 3 N355 8-core processor
-Fan control, can be disabled
-Up to 32GB DDR4 memory
-Internal 2.5-inch storage expansion
+ Compact Linux mini PC
+ Intel Core 3 N355 8-core processor
+ Fan control, can be disabled
+ Up to 32GB DDR4 memory
+ 1Gbps + 2.5Gbps Realtek Ethernet ports
+ Internal 2.5-inch storage expansion
 
  Memory
 

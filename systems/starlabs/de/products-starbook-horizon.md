@@ -4,9 +4,12 @@ StarBook Horizon
 [Product Overview](/pages/starbook-horizon)
 
 Horizon
-Intel Core i3-N305 8-core processor
-32GB LPDDR5X memory
-English (US) Keyboard
+ Active-cooled 15W laptop-class platform
+ Intel Core i3-N305 processor
+ 32GB LPDDR5X memory
+ 13.4-inch 3:2 display with privacy screen protector
+ coreboot, webcam cover, wireless kill switch and hardware-backed disk encryption
+ English (US) Keyboard
 
  Storage
 

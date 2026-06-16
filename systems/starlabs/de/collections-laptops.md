@@ -60,7 +60,7 @@ Display 16-inch 16:10, QHD 165Hz or 4K 120Hz
 
 Weight 1.6 kg
 
-Platform Intel Ultra or AMD Ryzen AIStandard to Ultra, with 32GB/64GB LPDDR5X options
+Platform Intel Ultra or AMD Ryzen AIUp to Intel 285H + 64GB LPDDR5X
 
 Battery Up to 18 hrs
 
