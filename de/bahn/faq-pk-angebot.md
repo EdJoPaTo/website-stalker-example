@@ -217,34 +217,6 @@ Nein, ein Wechsel von der 2. Klasse in die 1. Klasse ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/21kann-ich-mit-meinem-mehrfahrten-ticket-fuer-die-2-klasse-gegen-aufpreis-in-der-1-klasse-reisen)
 
- 24hTicket NRW 5 Personen - 24 Stunden fahren
-----------
-
-* Für bis zu 5 Personen oder
-* 1 Eltern-/Großelternpaar oder 1 Eltern-/Großelternteil mit beliebiger Anzahl eigener Kinder oder Enkel bis einschließlich 14 Jahre
-* Gilt innerhalb von 24 Stunden nach Entwertung des Tickets (Aufdruck oder Entwerterstempel)
-* Auch als Handy-Ticket
-* Erhältlich an DB Automaten, in den DB Reisezentren, DB Agenturen und Reisebüros mit DB-Lizenz oder gleich hier online
-
-[Ticket auswählen](https://www.bahn.de/angebot/regio/laender-tickets/24h-ticket-nrw-5-pers)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09&r=13:16:KLASSENLOS:5&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/24h-ticket-5-personen-nrw)
-
- 24hTicket NRW Single - 24 Stunden fahren
-----------
-
-* Gilt innerhalb von 24 Stunden nach Entwertung des Tickets (Aufdruck oder Entwerterstempel)
-* Auch als Handy-Ticket
-* Erhältlich an DB Automaten, in den DB Reisezentren, DB Agenturen und Reisebüros mit DB-Lizenz oder gleich hier online
-
-[Ticket auswählen](https://www.bahn.de/angebot/regio/laender-tickets/24h-ticket-nrw-single)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09&r=13:16:KLASSENLOS:1&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/24h-ticket-single-nrw)
-
  Wer kann das Jobticket nutzen?
 ----------
 
@@ -1794,19 +1766,6 @@ Details finden Sie auf der Site westfalentarif.de/azubiabo im Reiter "Berechtig
 [Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/azubi-abo-wt-fuer-wen)
-
- Wie lange gilt das AzubiAbo Westfalen?
-----------
-
-Das AzubiAbo Westfalen beginnt zum Ersten des Monats, ab Sie es bestellen. Es läuft für mindestens 12 Monate bzw. bis zum Ausbildungsende. Soll das Abonnement nach 12 Monaten fortgesetzt werden, so ist ein Verlängerungsantrag mit Nachweis über die Bezugsberechtigung beim ausgebenden Verkehrsunternehmen einzureichen.
-
-Das AzubiAbo Westfalen hat eine Mindestvertragslauf­zeit von 12 Monaten. Nach Ablauf der 12 Monate ist das AzubiAbo Westfalen jederzeit zum Ende eines Kalendermonats kündbar.
-
-[Weitere Informationen zum AzubiAbo Westfalen](https://www.bahn.de/angebot/verbuende/azubi-abo-westfalen)
-
-[Infos zum Kauf](https://www.bahn.de/faq/wt-abo-wo-kaufen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/azubi-abo-wt-gueltigkeit)
 
  Wie viel kostet das AzubiAbo Westfalen?
 ----------
@@ -19969,17 +19928,6 @@ Bite beachten Sie: Sobald Sie eine Information über die Migration Ihres Abo-Ver
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-verwalte-ich-mein-abo-vrm)
-
- Wo verwalte ich mein Abo?
-----------
-
-Verwalten Sie Ihr Abo und Ihre persönlichen Daten im digitalen Aboportal der Bahn.
-
-Bite beachten Sie: Sobald Sie eine Information über die Migration Ihres Abo-Vertrages zu **move-rlp** erhalten haben, erfolgt die Verwaltung und Kündigung des Abos im **Kundenkonto von move-rlp**.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-verwalte-ich-mein-abo-vrt)
 
  Was ist eine VGN Wochen- / Monatswertmarke Ausbildung?
 ----------
