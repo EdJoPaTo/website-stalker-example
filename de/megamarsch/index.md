@@ -14,17 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### Weserbergland ###
+### MITTERSILL ###
 
-### 13.-14. juni 2026 ###
-
-### 100 km ###
-
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/weserbergland)
+### 20.06.2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/weserbergland-bei-nacht)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/mittersill)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -56,15 +52,15 @@ IN DEINER NÄHE!
 [HANNOVER](https://www.megamarsch.de)
 ----------
 
-[BERLIN BEI NACHT](https://www.megamarsch.de/berlin)
-----------
-
-[Location](https://www.megamarsch.de/berlin)
-
 [RUHRGEBIET BEI NACHT](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
 ----------
 
 [Location](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
+
+[BERLIN BEI NACHT](https://www.megamarsch.de/berlin)
+----------
+
+[Location](https://www.megamarsch.de/berlin)
 
 [DÜSSELDORF](https://www.megamarsch.de/düsseldorf)
 ----------
@@ -172,8 +168,8 @@ IN DEINER NÄHE!
 |     HANNOVER     |50KM & 25KM|02/05/2026|08/05/2027|
 |     MÜNCHEN      |   100KM   |16/05/2026|15/05/2027|
 |      BREMEN      |   50KM    |23/05/2026|22/05/2027|
-|WESERBERGLAND B.N.|   50KM    |13/06/2026|          |
-|  WESERBERGLAND   |   100KM   |13/06/2026|          |
+|WESERBERGLAND B.N.|   50KM    |13/06/2026|12/06/2027|
+|  WESERBERGLAND   |   100KM   |13/06/2026|12/06/2027|
 |    MITTERSILL    |   50KM    |20/06/2026|          |
 
 #### Finde einen Megamarsch in deiner nähe! ####

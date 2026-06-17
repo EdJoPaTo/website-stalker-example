@@ -12151,13 +12151,6 @@ Der Entfall der tariflichen Gleichstellung kann zu Preisänderungen führen. So 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tarifliche-gleichstellung-preisauswirkung)
 
- Ich habe technische Probleme bei der Ausleihe eines Fahrrads oder Scooters. An wen kann ich mich wenden?
-----------
-
-Sie haben technische Probleme bei der Ausleihe eines Fahrrads oder Scooters oder weitere Fragen zu Themen vor, während und/oder nach der Ausleihe eines Fahrrads oder Scooters? Dann wenden Sie sich bitte direkt an den jeweiligen Sharing-Anbieter.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/technische-probleme-ausleihe)
-
  Welche Tickets des TGO sind online oder in der App DB Navigator erhältlich?
 ----------
 
@@ -14975,13 +14968,6 @@ Regio-Tickets gibt es nur für Bayern, sie gelten jeweils für ausgwählte Strec
 Wir werden fortlaufend weitere Funktionen im DB Jobticketportal zur Verfügung stellen. Mit den kommenden Funktionen wird es möglich sein, Abos zu bearbeiten (Personalnummer ändern, Abo kündigen), Bestellungen einzusehen sowie freizugeben/abzulehnen und Rechnungen aufzurufen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitere-funktionen)
-
- Wird es weitere Sharing-Anbieter in der App DB Navigator geben?
-----------
-
-Grundsätzlich ist die DB daran interessiert, die Partnerschaften mit Sharing-Anbietern zu erweitern. Wir können derzeit jedoch keine konkreten Angaben zu genauen Zeitpunkten weiterer Integrationen machen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitere-sharing-anbieter-navigator)
 
  Kann ich mein Ticket weitergeben, wenn ich selbst nicht reisen kann?
 ----------

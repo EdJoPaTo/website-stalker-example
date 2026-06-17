@@ -10,7 +10,7 @@ Bei jeder Reise kann einmal etwas schief laufen, erste Hilfestellung gibt es hie
 Hilfestellungen
 ----------
 
-Zugverspätung oder die [BahnCard](https://www.bahn.de/angebot/bahncard/bahncard-verloren)vergessen: Es gibt viele Gründe, warum eine Zugfahrt nicht immer so läuft wie geplant. In diesem Artikel geben wir Hilfestellungen.
+Zugverspätung oder die [BahnCard](https://www.bahn.de/service/ueber-uns/inside-bahn/tipps-tricks/bahncard-verloren)vergessen: Es gibt viele Gründe, warum eine Zugfahrt nicht immer so läuft wie geplant. In diesem Artikel geben wir Hilfestellungen.
 
 Pannen rund um die Bahnreise:
 ----------
