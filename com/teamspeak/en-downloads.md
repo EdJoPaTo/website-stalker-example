@@ -175,13 +175,13 @@ CLIENT SDK DOWNLOAD
  Client & Server Integration
 ----------
 
-###  TeamSpeak 3 SDK  3.5.0  ###
+###  TeamSpeak 3 SDK  3.5.2  ###
 
 ```
-SHA256: d0b5f974a3977deee1ff8000983e8b769ee9dadc01c10dd6bb83435991ea8007
+SHA256: 9eabe05abebf949e288553c6646abb4ef3854b6d196118c2ae87eb2436644865
 ```
 
-[Download](https://files.teamspeak-services.com/releases/sdk/3.5.0/teamspeak-sdk-3.5.0.tar.gz)
+[Download](https://files.teamspeak-services.com/releases/sdk/3.5.2/teamspeak-sdk-3.5.2.tar.gz)
 
 ###  TeamSpeak 3 SDK  C# Wrapper  ###
 
@@ -205,11 +205,11 @@ SHA256: 5be758eb1d947fff40387d2635a3a7175eb5c03a89c3c9dface0064cd5b4ce36
  Unreal Engine
 ----------
 
-###  TeamSpeak 3 Plugin  for Unreal Engine 4  ###
+###  TeamSpeak 3 Plugin  for Unreal Engine  ###
 
-[Download](https://github.com/TeamSpeak-Systems/ts3_sdk_unreal_engine4)
+[Download](https://github.com/TeamSpeak-Systems/teamspeak-sdk-unreal)
 
-[Download](https://github.com/TeamSpeak-Systems/ts3_sdk_unreal_engine4)
+[Download](https://github.com/TeamSpeak-Systems/teamspeak-sdk-unreal)
 
  Client Customization
 ----------
