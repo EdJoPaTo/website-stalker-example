@@ -608,15 +608,6 @@ Der Zug fährt von Hamburg via Hannover, Kassel und Nürnberg nach München. Die
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-werde-ich-ueber-die-neue-sitzplatzreservierung-informiert)
 
- Kann ich mein Gepäck durch Hermes bei einem PaketShop abholen lassen?
-----------
-
-Nein, der DB Gepäckservice und somit die Abholung im PaketShop sind seit 18. Februar 2026 nicht mehr erhältlich. Alternativ können Sie Ihre Koffer aber mit Hermes Gepäckversand bei Ihnen zuhause abholen und an Ihre Wunschadresse liefern lassen. Das Partnerangebot ist für Bahnreisende auf [www.bahn.de/gepaeckservice](http://www.bahn.de/gepaeckservice) buchbar.
-
-DB Gepäckservice-Aufträge ab PaketShop, die bis einschließlich 17. Februar 2026 gebucht wurden, werden selbstverständlich noch durchgeführt. Sie können Ihren Koffer unter Vorlage Ihres QR-Codes, den Sie im DB Gepäckservice-Auftrag finden, weiterhin im PaketShop abgeben. Hermes liefert ihn dann an Ihre Wunschadresse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abholung-hermes-paketshop)
-
  Wie kann ich mein Gepäck durch Hermes bei meiner Wunschadresse abholen lassen?
 ----------
 
@@ -3543,8 +3534,6 @@ Ihre Gepäck-Auftragsnummer beginnt mit 821000: Ihre Buchung ist [online storni
 
 Ihre Gepäck-Auftragsnummer beginnt mit 820000: Bitte stornieren Sie dort, wo der Auftrag gebucht wurde (im DB Reisezentrum oder in einer DB Agentur).
 
-Aufträge mit Abgabe im PaketShop sind grundsätzlich nicht stornierbar. Deren Gepäck-Auftragsnummern beginnen mit 810000.
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-gepaeckservice-stornieren)
 
  Darf ich bei Dienstantrittsreisen die DB Lounge nutzen?
@@ -6031,15 +6020,6 @@ Weitere Tipps:
 * [Weitere FAQ zum Digitalen Abo](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-zufuegen)
-
- Ich muss spätestens bis 10 Uhr im Hermes PaketShop abgeben. Was kann ich tun, wenn dieser aber erst später öffnet?
-----------
-
-Wenn Ihr Hermes PaketShop nicht vor 10 Uhr öffnet, planen Sie die Abgabe bitte für den Werktag davor. Alternativ können Sie das Gepäck auch in einem anderen Hermes PaketShop aufgeben. Weitere Vorschläge finden Sie übrigens auf Ihrer Buchungsbestätigung.
-
-Dieser Hinweis gilt für DB Gepäckservice-Aufträge, die bis einschließlich 17. Februar 2026 gebucht wurden. Diese Aufträge werden selbstverständlich noch durchgeführt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hermes-paketshop-erst-nach-10-uhr-offen)
 
  Wo kann ich das Hessenticket kaufen?
 ----------
@@ -15593,8 +15573,8 @@ Das VBB Semesterzusatzticket ist 2025 nicht mehr erhältlich.
 * im Zug in der 2. Klasse,
 * un­ab­hän­gig der eingetragenen Ta­rif­zo­nen im ge­samten Ver­bund­ge­biet für beliebig viele Fahrten.
 
-*
 * [365-Euro-Ticket VGN Nürnberg (Jahreskarte)](https://abo.bahn.de/bestellen/?tarifid=37)
+* [Zu den VGN-Bestellscheinen](https://www.vgn.de/service/downloads/)
 
 [Weitere Informationen zu Abo-Angeboten im VGN](https://www.bahn.de/angebot/verbuende/vgn-abos)
 

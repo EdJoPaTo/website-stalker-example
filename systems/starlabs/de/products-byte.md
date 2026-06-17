@@ -27,7 +27,7 @@ Standard
 
  You can upgrade this to 32GB.
 
- The memory is onboard, so you cannot upgrade it at a later date.
+ You can upgrade or replace the memory whenever you want as it is removable.
 
  Storage
 
