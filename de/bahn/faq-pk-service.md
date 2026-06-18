@@ -990,7 +990,9 @@ Bitte beachten Sie: Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B un
  Gibt es einen Begleitservice für allein reisende Kinder?
 ----------
 
-Wir arbeiten derzeit an bedarfsgerechten Begleitlösungen und informieren Sie umgehend, sobald neue Services zur Verfügung stehen.
+Ab Ende August bieten wir einen Begleitservice für allein reisende Kinder an. Informationen dazu finden Sie hier:
+
+* [DB Junior Express – der neue Begleitservice für alleinreisen Kinder](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitservice-kinder)
 
