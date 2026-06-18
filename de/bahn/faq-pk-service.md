@@ -2219,19 +2219,6 @@ Bei allen weiteren Bahnprämien, wie Sitzplatzreservierungen, 1. Klasse Upgrades
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-weitere-praemien)
 
- Für welche Freifahrtprämien wird es zukünftig verschiedene Punktehöhen geben?
-----------
-
-Für folgende Freifahrtprämien wird es verschiedene Punktehöhen geben:
-
-* Freifahrt 2. Klasse (ab 750 Prämienpunkten)
-* Freifahrt 1. Klasse (ab 1.250 Prämienpunkten)
-* Internationale Freifahrt 2. Klasse (ab 1.750 Prämienpunkten)Internationale Freifahrt 1. Klasse (ab 2.750 Prämienpunkten)
-* Mitfahr-Freifahrt 2. Klasse (ab 750 Prämienpunkten)
-* Mitfahr-Freifahrt 1. Klasse (ab 1.250 Prämienpunkten)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-welche)
-
  Was ändert sich bei den nationalen Freifahrtprämien?
 ----------
 
