@@ -15210,15 +15210,6 @@ Den Bestellschein finden Sie weiter unten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-bwtarif)
 
- Welche Abo-Angebote des hvv kann ich hier kaufen?
-----------
-
-Leider sind über den Vertrieb der Bahn keine Abo-Angebote des hvv mehr erhältich. DB-Abo-Vertrieb für Neukunden ist eingestellt.
-
-[Abo im hvv-Fahrkartenshop aussuchen](https://www.hvv.de/de/onlineshop)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-hvv-abo)
-
  Welche Abo-Angebote des marego kann ich hier kaufen?
 ----------
 
@@ -15279,8 +15270,6 @@ Leider sind über den Vertrieb der Bahn keine Abo-Angebote des hvv mehr erhälti
 * Mitnahme einer weiteren Person ohne Altersbeschränkung in der Zeit von montags bis freitags von 17:00 Uhr bis 4:00 Uhr des Folgetages sowie an Wochenenden und Feiertagen ganztägig bis 4:00 Uhr des Folgetages
 * Mitnahme eines Hundes, eines Fahrrades und bis zu 3 Kindern (von 6 bis einschließlich 14 Jahren) rund um die Uhr kostenlos
 * Für beliebig viele Fahrten auf der gewählten Strecke und zusätzlich an Wochenenden und Feiertagen im gesamten marego
-
-* [Deutschland-Ticket und weitere Abos im marego buchen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/produktauswahl)
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
