@@ -8659,7 +8659,7 @@ Eine 4er-Karte ist an eine Relation gebunden; in Preisstufe 12 gilt die Karte f�
  Wann erfolgen die Abbuchungen für mein marego-Abo?
 ----------
 
-marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung erfolgt jeweils zu Beginn des Monats.
+Ihre marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung erfolgt jeweils zu Beginn des Monats.
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 
@@ -8699,7 +8699,7 @@ Die Preisstufe der Anschlussfahrt richtet sich nach der Fahrstrecke ab der Grenz
  In welcher Form werden marego-Abos ausgegeben?
 ----------
 
-marego-Abos werden ausschließlich in digitaler Form als Handy-Ticket ausgegeben.
+Die marego-Abos werden ausschließlich in digitaler Form als Handy-Ticket ausgegeben.
 Sie benötigen hierfür die App DB Navigator.
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
@@ -15222,20 +15222,65 @@ Leider sind über den Vertrieb der Bahn keine Abo-Angebote des hvv mehr erhälti
  Welche Abo-Angebote des marego kann ich hier kaufen?
 ----------
 
-**Deutschland-Ticket mit marego**
+**Deutschland-Ticket marego**
 
 * Preis: 63 Euro im monatlichen Abo
 * Monatlich kündbar
 * Deutschlandweit 2. Klasse im Nahverkehr
 * Personenbezogen, nicht übertragbar
-* Online erhältlich (Handy-Tticket)
+* Online erhältlich (Handy-Ticket)
 
-[Deutschland-Ticket und weitere Abos im marego buchen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/)
+**Deutschland-Ticket Jobticket marego**
 
-**Weitere Angebote:**
+* Attraktiver Rabatt auf das Deutschland-Ticket
+* Auf dem Weg zur Arbeit, in der Freizeit und am Wochenende, an 365 Tagen im Jahr immer flexibel im Nahverkehr unterwegs
+* Gut für die Umwelt: Reduziert den CO₂-Ausstoß
+* Arbeitgeberzuschuss: mind. 25 % des Ticketpreises
 
-* Persönliche Abo-Monatskarte
-* Ermäßigte Abo-Monatskarte
+**Persönliche Abo-Monatskarte**
+
+* Persönliches digitales Abo
+* Nicht übertragbar
+* Monatlich kündbar bis 10. des Monats
+* Mitnahme eines Fahrrades und bis zu 3 Kindern (von 6 bis einschließlich 14 Jahren) rund um die Uhr kostenlos
+* Für beliebig viele Fahrten auf der gewählten Strecke oder bei Netzkarten im gesamten marego
+
+**Persönliche Abo-Monatskarte mit Abo-Plus**
+
+* Persönliches digitales Abo
+* Monatlich kündbar bis 10. des Monats
+* Mitnahme einer weiteren Person ohne Altersbeschränkung in der Zeit von montags bis freitags von 17:00 Uhr bis 4:00 Uhr des Folgetages sowie an Wochenenden und Feiertagen ganztägig bis 4:00 Uhr des Folgetages
+* Mitnahme eines Hundes, eines Fahrrades und bis zu 3 Kindern (von 6 bis einschließlich 14 Jahren) rund um die Uhr kostenlos
+* Für beliebig viele Fahrten auf der gewählten Strecke und zusätzlich an Wochenenden und Feiertagen im gesamten marego
+
+**ermäßigte Abo-Monatskarte**
+
+* Persönliches digitales Abo
+* Nicht übertragbar
+* Monatlich kündbar bis 10. des Monats
+* Schüler, Azubis, Studenten mit Ermäßigungsnachweis sowie Senioren ab 65 Jahren
+* Kostenlose Mitnahme von einem Fahrrad
+* Für beliebig viele Fahrten auf der gewählten Strecke im marego
+
+**Jobticket persönlich**
+
+* Persönliches digitales Abo
+* Nicht übertragbar
+* Nach 2 Monaten kündbar bis 10. des Monats
+* Verschiedene Rabattstufen abhängig vom Arbeitgeberzuschuss
+* Mitnahme eines Fahrrades und bis zu 3 Kindern (von 6 bis einschließlich 14 Jahren) rund um die Uhr kostenlos
+* Für beliebig viele Fahrten auf der gewählten Strecke und zusätzlich an Wochenenden und Feiertagen im gesamten marego
+
+**Jobticket persönlich mit Abo-Plus**
+
+* Persönliches digitales Abo
+* Nach 2 Monaten kündbar bis 10. des Monats
+* Verschiedene Rabattstufen abhängig vom Arbeitgeberzuschuss
+* Mitnahme einer weiteren Person ohne Altersbeschränkung in der Zeit von montags bis freitags von 17:00 Uhr bis 4:00 Uhr des Folgetages sowie an Wochenenden und Feiertagen ganztägig bis 4:00 Uhr des Folgetages
+* Mitnahme eines Hundes, eines Fahrrades und bis zu 3 Kindern (von 6 bis einschließlich 14 Jahren) rund um die Uhr kostenlos
+* Für beliebig viele Fahrten auf der gewählten Strecke und zusätzlich an Wochenenden und Feiertagen im gesamten marego
+
+* [Deutschland-Ticket und weitere Abos im marego buchen](https://abo.bahn.de/bestellen/?tarifid=73,121,38,39,40,41,42#/produktauswahl)
 
 [Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
 

@@ -992,7 +992,7 @@ Bitte beachten Sie: Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B un
 
 Ab Ende August bieten wir einen Begleitservice für allein reisende Kinder an. Informationen dazu finden Sie hier:
 
-* [DB Junior Express – der neue Begleitservice für alleinreisen Kinder](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+* [DB Junior Express – der neue Begleitservice für allein reisende Kinder](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitservice-kinder)
 
