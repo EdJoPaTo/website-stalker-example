@@ -532,7 +532,7 @@ Close
  Add-ons
 ----------
 
- Framework Desktop Handle
+ Desktop Handle
 
  \+€20
 
