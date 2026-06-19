@@ -2193,41 +2193,6 @@ DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
 
- Was ändert sich an den Freifahrtprämien Flex?
-----------
-
-Die benötigten Punkte der Gutscheine für die Freifahrten Flex erhöhen sich wie folgt:
-
-* 2. Klasse, einfache Fahrt - 2.500 Prämienpunkte
-* 1. Klasse, einfache Fahrt - 3.500 Prämienpunkte
-* 2. Klasse, Hin- und Rückfahrt - 4.000 Prämienpunkte
-* 1. Klasse Hin- und Rückfahrt - 6.000 Prämienpunkte
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-flex)
-
- Was ist der Vorteil am neuen Punktemodell?
-----------
-
-Sie haben jetzt mehr Auswahlmöglichkeiten und können Freifahrtprämien bereits ab 750 Punkten einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-neues-punktemodell)
-
- Ändern sich noch bei weiteren Prämien die Punktehöhen?
-----------
-
-Bei allen weiteren Bahnprämien, wie Sitzplatzreservierungen, 1. Klasse Upgrades und Reisegutscheinen bleibt die aktuelle Punktehöhe bestehen. Auch die Sach-, Partner- und Spendenprämien sind nicht betroffen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-weitere-praemien)
-
- Was ändert sich bei den nationalen Freifahrtprämien?
-----------
-
-Alle nationalen Freifahrten können in einer Buchung frei nach Klasse und Hin- und/oder Rückfahrt ausgewählt werden (äquivalent zur normalen Ticketbuchung).
-
-Außerdem gibt es Freifahrten schon ab 750 Prämienpunkten – abhängig von Strecke, Buchungszeitpunkt und weiteren Faktoren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-was-aendert-sich)
-
  Wie sammle ich BahnBonus Punkte?
 ----------
 
@@ -4745,6 +4710,20 @@ Aisles, doors and safety devices such as fire extinguishers **must** remain unob
 Always follow the instructions of the on-board crew.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/safety-devices-luggage)
+
+ Darf ich mein Fahrrad mitnehmen, wenn ich mit dem Schleswig-Holstein-Ticket fahre?
+----------
+
+Ja, aber die Mitnahme ist **nicht kostenfrei**: Sie brauchen zu Ihrem Schleswig-Holstein-Ticket eine **Fahrradtageskarte** pro Fahrrad.
+
+* Im HVV-Bereich (Hamburg) gibt es **Sperrzeiten für die Fahrradmitnahme,** um die im Berufsverkehr gefüllten Züge nicht zusätzlich zu belasten**.** Sperrzeiten in den U-, S-, A-Bahnen sind Montag bis Freitag 6 bis 9 Uhr und 16 bis 18 Uhr.
+* Passt Ihr Fahrrad zusammengeklappt und gut verpackt in die Gepäckablagen am Sitzplatz, können Sie es als kostenfreies Handgepäck mitnehmen.
+
+* [Mehr unter bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
+
+[Fahrradtageskarte buchen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schleswig-holstein-ticket-mitnahme-fahrrad)
 
  Kann ich meinen Schwerbehindertenausweis im DB Kundenkonto hinterlegen?
 ----------

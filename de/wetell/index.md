@@ -570,6 +570,7 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 * [Impressum](https://www.wetell.de/impressum/)
 * [AGB](https://www.wetell.de/agb/#agb)
 * [Kündigung](https://www.wetell.de/kuendigung/)
+* [Widerruf](https://www.wetell.de/widerruf/)
 * [Presse](https://www.wetell.de/presse/)
 
 [info@wetell.de](mailto:info@wetell.de)

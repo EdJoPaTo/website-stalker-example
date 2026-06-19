@@ -47,17 +47,6 @@ Das ist individuell einsetzbar: Es handelt sich bei dem 10-Fahrten-Ticket um 10 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/05handelt-es-sich-um-10-bzw-20-einzelfahrten-oder-10-bzw-20-hin-und-rueckfahrten)
 
- Wie lange gibt es das Angebot "Mehrfahrten-Ticket"?
-----------
-
-Das Angebot kann bis zum **14. Juni 2026** erworben werden. Der letzte mögliche „erste Geltungstag" ist der 14. Juli 2026, der letzte mögliche Reisetag der 13. August 2026.
-
-[Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
-
-[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/05wie-lange-gibt-es-dieses-angebot)
-
  Ist das Mehrfahrten-Ticket übertragbar?
 ----------
 
@@ -5339,24 +5328,6 @@ Nein. Für die Mitnahme von Fahrrädern brauchen Sie eine Fahrradtageskarte pro 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-mitnehmen-baden-wuerttemberg-ticket)
 
- Darf ich mein Fahrrad mit dem Schleswig-Holstein-Ticket kostenfrei mitnehmen?
-----------
-
-Für die Mitnahme von Fahrrädern brauchen Sie eine Fahrradtageskarte pro Fahrrad.
-
-**Ausnahmen:**
-
-* Diese Verpflichtung entfällt bei Strecken, auf denen für Inhaber von Fahrkarten des DB-Tarifs besondere Bestimmungen zur kostenfreien Mitnahme von Fahrrädern gelten. Informieren Sie sich bitte bei den jeweiligen Verbünden und Regionalbereichen.
-* Passt Ihr Fahrrad zusammengeklappt und gut verpackt in die Gepäckablagen am Sitzplatz, können Sie es als kostenfreies Handgepäck mitnehmen.
-
-* [bahn.de/fahrrad-nahverkehr](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
-
-[Weitere Informationen zum Schleswig-Holstein-Ticket](https://www.bahn.de/angebot/regio/laender-tickets/schleswig-holstein-ticket)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-mitnehmen-schleswig-holstein-ticket)
-
  FahrradTicket NRW - 1 Fahrrad, 24 Stunden
 ----------
 
@@ -9735,21 +9706,6 @@ Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht mögl
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
 
- Das Angebot gilt bis zum 14. Juni 2026. Kann ich mein Mehrfahrten-Ticket auch danach noch nutzen?
-----------
-
-Ja, Sie können Ihre Fahrten auch nach Ablauf des Angebots nach den regulären Angebotskonditionen einlösen:
-
-* Letzter möglicher Verkaufstag: 14.06.2026
-* Letzter möglicher 1. Geltungstag: 14.07.2026
-* Letzter möglicher Reisetag: 13.08.2026
-
-[Weitere Informationen zu den Mehrfahrten-Tickets](https://www.bahn.de/angebot/pendler/mehrfahrten-tickets)
-
-[Jetzt auswählen](https://www.mehrfahrten-ticket-bahn.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-mehrfahrtenticket-nach-aktionsende)
-
  Welche Tickets des NVV sind in der App DB Navigator oder online erhältlich?
 ----------
 
@@ -11154,6 +11110,20 @@ Sie erhalten die meisten saarVV-Angebote als Handy-Ticket. Dazu zählen u.a.:
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/saarvv-tickets-wo-kaufen)
+
+ Darf ich mein Fahrrad mitnehmen, wenn ich mit dem Schleswig-Holstein-Ticket fahre?
+----------
+
+Ja, aber die Mitnahme ist **nicht kostenfrei**: Sie brauchen zu Ihrem Schleswig-Holstein-Ticket eine **Fahrradtageskarte** pro Fahrrad.
+
+* Im HVV-Bereich (Hamburg) gibt es **Sperrzeiten für die Fahrradmitnahme,** um die im Berufsverkehr gefüllten Züge nicht zusätzlich zu belasten**.** Sperrzeiten in den U-, S-, A-Bahnen sind Montag bis Freitag 6 bis 9 Uhr und 16 bis 18 Uhr.
+* Passt Ihr Fahrrad zusammengeklappt und gut verpackt in die Gepäckablagen am Sitzplatz, können Sie es als kostenfreies Handgepäck mitnehmen.
+
+* [Mehr unter bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
+
+[Fahrradtageskarte buchen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schleswig-holstein-ticket-mitnahme-fahrrad)
 
  Sie haben ein Schreiben eines Inkassounternehmens zu Ihrer BahnCard erhalten. Was können Sie tun?
 ----------
@@ -15509,15 +15479,10 @@ Die Abonnements für den RNN sind nicht mehr über bahn.de erhältlich. Neue A
 
 **Weitere Angebote:**
 
-* Monatskarte im Abo persönlich
-* Monatskarte im Abo übertragbar
-* Schülermonatskarte im Abo
-* SH-Card
-* SH-Card für Jugendliche
 * NAH.SH-Jobticket
 * NAH.SH-Jobticket für Azubis
 
-* [Bestellschein SH-Tarif downloaden (PDF, 355 KB)](https://assets.static-bahn.de/dam/jcr:75dc4418-1569-4d0a-ab6c-af3118bac718/Bestellschein_SHT_neu.pdf)
+* [Weitere SH-Tarif-Angebote](https://www.nah.sh/de/fahrkarten/monatskarte-im-abo/)
 
 [Weitere Informationen zu Abo-Angeboten im SH-Tarif](https://www.bahn.de/angebot/verbuende/sh-tarif-abos)
 
