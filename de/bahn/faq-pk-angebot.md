@@ -17798,7 +17798,7 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
  Wie viel kostet das Hessenticket?
 ----------
 
-Das Hessenticket kostet 42,50 Euro.
+Das Hessenticket kostet 43,50 Euro.
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 

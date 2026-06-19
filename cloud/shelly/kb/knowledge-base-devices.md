@@ -122,6 +122,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [CT 400A](https://kb.shelly.cloud/knowledge-base/ct-400a)
 * [Shelly Pro 4PM](https://kb.shelly.cloud/knowledge-base/4shelly-pro-4pm)
 * [Shelly LAN Switch](https://kb.shelly.cloud/knowledge-base/shelly-lan-switch)
+* [Shelly Pro CBs](https://kb.shelly.cloud/knowledge-base/shelly-pro-cbs)
 
  Shelly BLE devices
 ----------
