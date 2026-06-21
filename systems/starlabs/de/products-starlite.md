@@ -90,15 +90,9 @@ StarLite Protective Case
 
 Includes:
 
-* 12.5-inch Star Lite
-* 65W USB-C Power Adapter
-* USB-C to USB-C Charging Cable (2m)
-* Detachable plug (UK, EU and US available)
-* Protective Sleeve
-* Quick Start Guide
-* Screen Cleaning Cloth
-* Detachable Keyboard
-* Zorin Pro OS Reversible USB 3.2 Recovery Drive
+* 12.5" StarLite
+* 65W USB-C Charger
+* 2m Braided USB-C Cable
 
  Open warranty
 

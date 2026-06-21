@@ -87,9 +87,7 @@ Includes:
 
 * Byte
 * 65W DC Power Adapter
-* Internal 2.5-inch storage connector
 * VESA Mounting Kit
-* Quick Start Guide
 
  Open warranty
 
