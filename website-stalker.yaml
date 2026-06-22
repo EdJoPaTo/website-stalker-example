@@ -102,8 +102,8 @@ sites:
 
   - url: https://www.teamspeak.com/en/downloads/
     editors:
-      - css_select: .tab-content
-      - css_remove: img, *[href="#"]
+      - css_select: .download-page-container
+      - css_remove: img, noscript, *[href^="#"]
       - html_markdownify
 
   - url: https://blinry.org/
