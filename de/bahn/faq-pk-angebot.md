@@ -6926,6 +6926,17 @@ Wir bieten bei der internationalen Buchung anderer Beförderer derzeit nur reine
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-zusaetzliche-services)
 
+ Ich plane mehrere Fahrten im Ausland, gibt es hierfür spezielle Angebote?
+----------
+
+Wenn Sie mehrere Fahrten im Ausland planen, lohnt sich oft ein [Interrail Pass](https://www.bahn.de/angebot/international/interrail). Mit dem [Interrail One Country Pass](https://www.bahn.de/angebot/international/one-country-pass) können Sie für einen gewählten Reisezeitraum flexibel die Züge im jeweiligen Land nutzen.
+
+Sie werden in mehreren Ländern unterwegs sein? Hier lohnt sich oft der [Interrail Global Pass](https://www.bahn.de/angebot/international/global-pass), den Sie in insgesamt 33 europäischen Ländern nutzen können. Innerhalb von 2 Tagen der Geltungsdauer dürfen Sie den Pass auch in Ihrem Wohnsitzland nutzen.
+
+Hinweis: Für einige reservierungspflichtige Züge benötigen Sie einen separaten Aufpreis. Mehr Infos dazu [hier](https://www.interrail.com/de/book-reservations/how-do-i-book-seats).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/interrail-auslandsfahrt)
+
  Was muss ich beim Kauf und beim Reisen mit dem Interrail Pass beachten?
 ----------
 
