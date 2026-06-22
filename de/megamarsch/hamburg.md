@@ -100,7 +100,7 @@ Strecke
 
 [](https://www.columbiasportswear.de/DE/c/technology-insectshield?icsa=s26&icst=inseason&prid=insecshield&icpa=homepage&icid=hero&crid=xgender&icca=image)
 
-[PARTNER WERDEN](mailto:sponsoring@megamarsch.de?subject=Erstkontakt%20%20Partner%20%22_%22)
+[PARTNER WERDEN](mailto:info@megamarsch.de?subject=Erstkontakt%20%20Partner%20%22_%22)
 
 Highlights
 Hamburg 2026

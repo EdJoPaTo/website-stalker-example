@@ -103,17 +103,15 @@ Mit dem Code „Mega“ kannst du 10% auf deine Unterkunft im Prize by Radisson 
 
 20KM zum Start / 10KM zum Ziel
 
-unsere PARTNER
-----------
+### Unser Presenting Partner ###
 
-Columbia ist unser Presenting Partner. Mit 85 Jahren Erfahrung in der Outdoorbranche versorgen sie Euch mit verlässlicher Ausrüstung für euren nächsten Megamarsch.
+[](https://www.columbiasportswear.de/DE/c/technology-insectshield?icsa=s26&icst=inseason&prid=insecshield&icpa=homepage&icid=hero&crid=xgender&icca=image)
 
-Für Millionen Menschen ist komoot der Schlüssel zu Erlebnissen in der Natur. Für die Megamarsch Saison 2025 ist komoot offizieller Navigationspartner.​
+Weitere Sponsoren und Partner
 
-Bei INTERSPORT Knudsen im Westfield Hamburg Überseequartier findest du alles, was dein Sportler-Herz begehrt. Wir haben alles für Deinen Sport. Von Freizeitwanderung bis zum Megamarsch.
+To play, press and hold the enter key. To stop, release the enter key.
 
-Prize by Radisson ist eine neue Generation von zentral gelegenen Hotels, bei denen Lifestyle im Vordergrund steht. Genieße Komfort und Effizienz von der Buchung bis zum CheckOut.
-[prizebyradisson.com](https://www.radissonhotels.com/de-de/marke/prize-by-radisson)
+[PARTNER WERDEN](mailto:info@megamarsch.de?subject=Erstkontakt%20%20Partner%20%22_%22)
 
 #### Highlights
 Hamburg bei Nacht 2025 ####
