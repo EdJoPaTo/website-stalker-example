@@ -52,15 +52,20 @@ IN DEINER NÄHE!
 [HANNOVER](https://www.megamarsch.de)
 ----------
 
-[RUHRGEBIET BEI NACHT](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
-----------
-
-[Location](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
-
 [BERLIN BEI NACHT](https://www.megamarsch.de/berlin)
 ----------
 
 [Location](https://www.megamarsch.de/berlin)
+
+[RÜGEN](https://www.megamarsch.de/ruegen)
+----------
+
+[Location](https://www.megamarsch.de/ruegen)
+
+[RUHRGEBIET BEI NACHT](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
+----------
+
+[Location](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
 
 [DÜSSELDORF](https://www.megamarsch.de/düsseldorf)
 ----------
@@ -126,11 +131,6 @@ IN DEINER NÄHE!
 
 [MÜNCHEN](https://www.megamarsch.de/münchen)
 ----------
-
-[RÜGEN](https://www.megamarsch.de/ruegen)
-----------
-
-[Location](https://www.megamarsch.de/ruegen)
 
 [Location](https://www.megamarsch.de/schaffhausen)
 

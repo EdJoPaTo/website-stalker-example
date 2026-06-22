@@ -18747,6 +18747,19 @@ Ihr Weg zur 4er Karte kann entweder über die Fahrplansuche erfolgen, in der Ihn
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-mein-guthaben-des-4er-tickets-und-wie-kaufe-ich-die-4er-tickets)
 
+ Wo finde ich meine Abonummer?
+----------
+
+Ihre Abonummer können Sie folgendermaßen finden:
+
+* in der Aktivierungs-E-Mail als "Abonummer"
+* auf Ihrem Handyticket unterhalb des QR-Codes in der Zeile "Auftrags-Nr." oder oder "Auftrags-/Abonummer"
+* bei einer Chipkarte oder Papierticket im Begleitbrief
+* auf Ihrem Kontoauszug im Verwendungszweck der Lastschrift
+* im Aboportal: Melden Sie sich auf [bahn.de/aboportal](https://www.bahn.de/faq/pk/bahn.de/aboportal) mit dem bahn.de Kundenkonto an, mit dem Sie bei der Bestellung des Abos angemeldet waren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-abonummer)
+
  Wo finde ich meinen reservierten Sitzplatz im Nahverkehr?
 ----------
 

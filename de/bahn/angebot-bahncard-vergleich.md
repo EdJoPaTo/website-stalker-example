@@ -119,7 +119,7 @@ Die folgende Übersicht verdeutlicht die unterschiedlichen Rabbattierungen der B
 |------------|----------------|----------------|
 |BahnCard 25 |      25 %      |      25 %      |
 |BahnCard 50 |      50 %      |      25 %      |
-|BahnCard 100|    100 %\*     |    100 %\*     |
+|BahnCard 100|     100 %      |     100 %      |
 
 ### BahnCard 25, 2. Klasse ###
 
