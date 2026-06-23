@@ -154,7 +154,7 @@ Zugangsregeln
 Nach Artikel 21, Absatz 1 der Fahrgastrechteverordnung (EU) 2021/782 stellen Eisenbahnverkehrsunternehmen und Bahnhofsbetreiber unter aktiver Beteiligung von Behindertenvertretern nicht diskriminierende Zugangsregeln für die Beförderung von mobilitätseingeschränkten Reisenden auf.
 
 * [Zugangsregeln DB InfraGO AG für mobilitätseingeschränkte Reisende, Stand Oktober 2025 (PDF, 292 KB)](https://assets.static-bahn.de/dam/jcr:2685c618-cbf2-4ced-a75a-778d522d11f0/2025_10_Zugangsregeln_InfraGO.pdf)
-* [Zugangsregeln DB Fernverkehr AG und DB Regio, Stand November 2025 (PDF, 108 KB)](https://assets.static-bahn.de/dam/jcr:eeb367e6-3976-48ab-ae4c-d8e3c2a7d3a1/Zugangsregeln%20DB%20Fernverkehr%20und%20DB%20Regio,%20Stand%20November%202025.pdf)
+* [Zugangsregeln DB Fernverkehr AG und DB Regio, Stand Juni 2026 (PDF, 166 KB)](https://assets.static-bahn.de/dam/jcr:05973f9b-6828-4887-8cf3-c9fab0262a91/2026_06_22%20ZR%20FV,%20R%20Stand%20Jun%2026.pdf)
 * [Zugangsregeln der DB RegioNetz Infrastruktur GmbH für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 180 KB)](https://assets.static-bahn.de/dam/jcr:13e4f050-d515-4265-aa2a-68b49afdc052/Zugangsregeln%20RegioNetz%20Infrastruktur%20(1).pdf)
 * [Beförderungsbedingungen für besondere Personengruppen, Stand Dezember 2024 (PDF, 145 KB)](https://assets.static-bahn.de/dam/jcr:7b60700b-1275-4103-b491-527c62bd989e/Bef%C3%B6rderungsbedingungen%20f%C3%BCr%20besondere%20Personengruppen.pdf)
 * [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).pdf)

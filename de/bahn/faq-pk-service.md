@@ -5744,7 +5744,7 @@ Falls das Serviceangebot der Bestellung nicht angeboten werden kann, können Sie
  Warum ist die Bestpreissuche nicht verfügbar, wenn ich Verbindungen für heute suche?
 ----------
 
-Bei einer Suche am aktuellen Reisetag wird der Schieberegler zur Aktivierung der Bestpreissuche nicht angezeigt. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die Bestpreissuche vergleicht jedoch alle Preise eines ganzen Tages miteinander– das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die Bestpreissuche nur für zukünftige Reisetage angeboten.
+Bei einer Suche am aktuellen Reisetag kann die Bestpreissuche nicht aktiviert werden. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die Bestpreissuche vergleicht jedoch alle Preise eines ganzen Tages miteinander – das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die Bestpreissuche nur für zukünftige Reisetage angeboten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-mir-der-bestpreis-nicht-angezeigt-wenn-ich-fuer-den-aktuellen-tag-suche)
 
@@ -5793,12 +5793,12 @@ Wenn Sie für Ihre Reise Züge des Nahverkehrs nutzen, beachten Sie bitte die r
  Was bedeutet "Bestpreissuche"?
 ----------
 
-Die Bestpreissuche hilft Ihnen auf bahn.de und in der App DB Navigator, die günstigsten Preise für eine bestimmte Verbindung zu finden.
+Die Bestpreissuche hilft Ihnen auf bahn.de und in der App DB Navigator, die günstigsten Preise für eine bestimmte Verbindung für zukünftige Reisetage zu finden.
 
 **So aktivieren Sie die Bestpreissuche:**
 
-1. Öffnen Sie die Verbindungsübersicht.
-2. Aktivieren Sie den Regler "Unsere Bestpreise anzeigen".
+1. Geben Sie Ihren Reisewunsch in der Reiseauskunft des DB Navigators ein und suchen Sie nach Verbindungen. Es öffnet sich die Verbindungsübersicht.
+2. Sie aktivieren die Bestpreissuche oberhalb der Verbindungsübersicht – entweder direkt über "Unsere Bestpreise" oder mit Klick auf "Optionen" über den Schieberegler "Unsere Bestpreise anzeigen".
 
 **Was Sie beachten sollten:**
 

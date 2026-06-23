@@ -5138,17 +5138,17 @@ Die im DB Navigator verfügbaren Sharing-Anbieter sind wie folgt erreichbar:
 
 Call a Bike:
 E-Mail: info@callabike.de
-FAQ/Hilfebereich: https://www.callabike.de/de/faq
+FAQ/Hilfebereich: <https://www.callabike.de/de/faq>
 
 Dott:
 E-Mail: support@ridedott.com
 Telefon: 030 46690493
-FAQ/Hilfebereich: https://help.ridedott.com/de
+FAQ/Hilfebereich: <https://help.ridedott.com/de>
 
 Voi:
 E-Mail: support@voiapp.io
 Telefon: 0800 0002709
-FAQ/Hilfebereich: https://www.voi.com/de/hilfe
+FAQ/Hilfebereich: <https://www.voi.com/de/hilfe>
 
 * [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
 
@@ -5353,7 +5353,7 @@ Ja, von **Montag bis Freitag ab 9 Uhr sowie an Samstagen, Sonn- und Feiertagen*
 
 Beachten Sie bitte die Regelungen des RMV (Rhein-Main-Verkehrsverbundes)
 
-* [rmv.de](https://www.rmv.de/c/de/fahrplan/flexible-mobilitaet/bike-ride-carsharing-und-mehr/fahrrad/fahrradmitnahme)
+* [rmv.de](https://www.rmv.de/c/de/fahrplan/flexible-mobilitaet/fahrrad-auto-sharing/fahrrad/mitnahme-von-fahrraedern-e-scootern-und-co)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-kostenfrei-mitnehmen-hessenticket)
 
@@ -8608,7 +8608,7 @@ Der Preis hängt von der gewählten Verbindung ab. Er entspricht der Differenz z
  Warum muss ich meine Kreditkarte für Sharing-Dienste noch einmal neu anlegen, obwohl ich diese Kreditkarte schon in meinem DB Kundenkonto hinterlegt habe?
 ----------
 
-Um Ihre im DB Kundenkonto bereits hinterlegte Kreditkarte für Sharing-Dienste nutzen zu können, müssen sie diese aus technischen Gründen einmal neu hinterlegen und für Sharing-Dienste authorisieren. Die bisher gespeicherte Kreditkarte sollten Sie für die Übersichtichkeit aus Ihrem DB Kundenkonto entfernen. Gehen Sie dabei wie folgt vor:
+Um Ihre im DB Kundenkonto bereits hinterlegte Kreditkarte für Sharing-Dienste nutzen zu können, müssen Sie diese ggf. aus technischen Gründen einmal neu hinterlegen und für Sharing-Dienste authorisieren. Die bisher gespeicherte Kreditkarte sollten Sie für die Übersichtichkeit aus Ihrem DB Kundenkonto entfernen. Gehen Sie dabei wie folgt vor:
 
 1. Loggen Sie sich in Ihrem DB Kundenkonto ein.
 2. Löschen Sie die Kreditkarte unter "Zahlungsmittel"
@@ -9275,7 +9275,7 @@ Ja, Hunde reisen im NRW Nahverkehr kostenfrei.
 * Hunde werden nur angeleint und unter Aufsicht einer hierzu geeigneten Person befördert. Hunde, die Fahrgäste gefährden könnten, müssen einen Maulkorb tragen. Die Beförderung ist kostenfrei.
 * Blindenführhunde, die Blinde begleiten, sind zur Beförderung stets zugelassen.
 
-* [weitere Informationen unter rmv.de](https://www.rmv.de/c/de/fahrkarten/infos-regeln/tarifinformationen/sachen-und-tiere)
+* [weitere Informationen unter rmv.de](https://www.rmv.de/c/de/tickets/regeln/tarifinformationen/befoerderung-von-sachen-und-tieren)
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
@@ -16206,7 +16206,7 @@ Das Ticket gilt nicht in Stadtbahnen, Trams und Bussen.
 * alle Verbundverkehrsmittel (S-, U-, Straßenbahn, Busse)
 * auch auf ausgewählten Strecken benachbarter Bundesländer - Details dazu finden Sie unter
 
-* [www.rmv.de](https://www.rmv.de/c/de/fahrkarten/sortiment-verkauf/fahrkarten-im-ueberblick/gruppenfahrkarten/hessenticket)
+* [www.rmv.de](https://www.rmv.de/c/de/tickets/sortiment/tickets-im-ueberblick/gruppen/hessenticket)
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
@@ -18967,6 +18967,15 @@ Tarifbestimmungen und auch die Geltungsbereiche können Sie hier nachlesen.
  Wo finde ich die Tarifbestimmungen?
 ----------
 
+Die Tarifbestimmungen des Hessentickets finden Sie unter
+
+* [www.rmv.de](https://www.rmv.de/c/de/tickets/sortiment/tickets-im-ueberblick/gruppen/hessenticket)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-tarifbestimmungen-hessen-ticket)
+
+ Wo finde ich die Tarifbestimmungen?
+----------
+
 Die Beförderungsbedingungen und Geltungsbereiche der Länder-Tickets und der regionalen Tickets der einzelnen Bundesländer finden Sie unter
 
 * [deutschlandtarifverbund.de/tarifbedingungen](https://deutschlandtarifverbund.de/tarifbedingungen)
@@ -20411,7 +20420,7 @@ Das Ticket bietet sich für einen Tagesausflug mit bis zu 5 Personen vom Bayern 
 
 Mit dem Hessenticket können Sie alle Nahverkehrszüge und Verkehrsmittel im Geltungsbereich nutzen.
 
-* [Weitere Informationen zum Geltungsbereich](https://www.rmv.de/c/de/fahrkarten/sortiment-verkauf/fahrkarten-im-ueberblick/gruppenfahrkarten/hessenticket)
+* [Weitere Informationen zum Geltungsbereich](https://www.rmv.de/c/de/tickets/sortiment/tickets-im-ueberblick/gruppen/hessenticket)
 
 [Weitere Informationen zum Hessenticket](https://www.bahn.de/angebot/regio/laender-tickets/hessenticket)
 
