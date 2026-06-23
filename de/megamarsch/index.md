@@ -193,6 +193,18 @@ Du willst mehr aus deinem Training rausholen als klassische Workouts im Gym? Bei
 FANSHOP
 ----------
 
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-mittersill-2026)
+
+[Eventshirts Mittersill 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-mittersill-2026)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-weserbergland-bei-nacht-2026)
+
+[Eventshirts Weserbergland bei Nacht 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-weserbergland-bei-nacht-2026)
+
+[Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-weserbergland-2026)
+
+[Eventshirts Weserbergland 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-weserbergland-2026)
+
 [Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-bremen-2026)
 
 [Eventshirts Bremen 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-bremen-2026)
@@ -228,18 +240,6 @@ FANSHOP
 [Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-mallorca-2026)
 
 [Eventshirts Mallorca 2026 Preis 39,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/eventshirts-mallorca-2026)
-
-[Schnellansicht NEU](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
-
-[Finishershirt 25km 2026 Preis 34,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/finishershirt-25km-2025)
-
-[Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
-
-[Funktionstuch Event (bei Nacht) Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-bei-nacht)
-
-[Schnellansicht](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
-
-[Funktionstuch Event (50KM) Preis 16,95 € inkl. MwSt. | zzgl. Versand](https://www.megamarsch.de/product-page/funktionstuch-event-50km)
 
 [ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
 
