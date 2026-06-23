@@ -174,7 +174,8 @@ IN DEINER NÄHE!
 
 #### Finde einen Megamarsch in deiner nähe! ####
 
-#### Unser Blog ####
+Unser Blog
+----------
 
 Egal, ob es um die Themen Sport, Ernährung, Gesundheit oder Wissenswertes geht oder um (Trainings-) Strecken und Infos rund um den Megamarsch und die Vorbereitung – in unserem Blog ist für jeden etwas dabei. Wir hoffen, dass Du hier viel Neues und Wissenswertes lernst und wünschen Dir viel Spaß beim Lesen!
 
@@ -182,14 +183,15 @@ Du hast zu einem Thema, das Dich brennend interessiert, keinen Blogbeitrag gefun
 
 [JETZT LESEN!](https://www.megamarsch.de/blog)
 
-#### von 0 auf 100! ####
+MEGAMARSCH RUCKING
+----------
 
-Der Podcast "Von 0 auf 100!" erfolgt auf sämtlichen Plattformen und wir erzählen Euch alles rund um den Megamarsch. Von tollen Geschichten, bis hin zu wertvollen Tipps. Geeignet für alle Megamarscher, Sportbegeisterte und die, die es noch werden
-wollen. Das Ganze mit Euren Moderatoren Jone und Moritz.
+Du willst mehr aus deinem Training rausholen als klassische Workouts im Gym? Beim 25 km Megamarsch in Freiburg am 26.09.2026 bringst du deine Ausdauer und Kraft auf ein neues Level. Mit Zusatzgewichten verwandelst du die Strecke in ein intensives Ganzkörpertraining unter realen Bedingungen. Fordere dich selbst heraus, teste deine Grenzen und erlebe, was wirklich in dir steckt – jetzt anmelden und Teil der Challenge werden.
 
-[JETZT REINHÖREN!](https://www.megamarsch.de/podcast-von-0-auf-100)
+[JETZT RUCKEN!](https://www.megamarsch.de/megaruck)
 
-#### FANSHOP ####
+FANSHOP
+----------
 
 [Schnellansicht NEU](https://www.megamarsch.de/product-page/eventshirts-bremen-2026)
 
@@ -241,11 +243,10 @@ wollen. Das Ganze mit Euren Moderatoren Jone und Moritz.
 
 [ZU UNSEREM FANSHOP!](https://www.megamarsch.de/fanshop)
 
-#### Newsletter ####
+Newsletter
+----------
 
 Trage Dich jetzt in unseren Newsletter ein und bleibe über alle allgemeinen Neuigkeiten zum Megamarsch, zu neuen Events, neuen Merch-Produkten, Rabatt-Aktionen etc. auf dem Laufenden.
-
-Wir versorgen Dich jede Woche Mittwoch um 18 Uhr mit den aktuellsten Neuigkeiten rund um den Megamarsch.
 
 \- BEA
 

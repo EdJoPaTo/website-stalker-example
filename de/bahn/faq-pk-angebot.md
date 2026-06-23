@@ -1592,6 +1592,24 @@ Wenn Sie ins Ausland reisen möchten, kaufen Sie sich bitte **auf eigene Kosten*
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausland-bundeswehr-ticket)
 
+ Kann ich die Ausleihe außerhalb einer Parkzone oder des Geschäftsgebietes eines über den DB Navigator gebuchten Fahrrads oder Scooters trotzdem beenden?
+----------
+
+Das Beenden einer Ausleihe ist nur innerhalb des Geschäftsgebietes des Sharing-Anbieters und/oder in erlaubten Parkzonen möglich. Bitte kehren Sie, wenn möglich, in das Geschäftsgebiet zurück oder suchen Sie eine erlaubte Parkzone auf. Falls dies nicht möglich ist, wenden Sie sich bitte an den Kundenservice des [Sharing-Anbieters.](https://www.bahn.de/faq/erreichbarkeit-sharingdienste)
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausleihe-ausserhalb-parkzone-beenden)
+
+ Ich kann die Ausleihe eines über den DB Navigator gebuchten Fahrrads oder Scooters nicht beenden. Was muss ich tun?
+----------
+
+Bitte prüfen Sie zunächst Ihre Internetverbindung. Vergewissern Sie sich bitte außerdem, ob sich das Fahrrad oder der Scooter in einer Zone befindet, in der das Parken erlaubt ist. Sollte sich die Miete dennoch nicht beenden lassen, wenden Sie sich bitte direkt an den Kundenservice des [Sharing-Anbieters.](https://www.bahn.de/faq/erreichbarkeit-sharingdienste)
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausleihe-kann-nicht-beendet-werden)
+
  Ich bin unter 16 Jahren und besitze noch keinen Personalausweis. Wie kann ich mein Alter nachweisen?
 ----------
 
@@ -2014,6 +2032,15 @@ Nein, es gibt keinen Rabatt auf den Normalpreis Europa.
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-normalpreis-europa)
+
+ Erhalte ich bei der Buchung von Sharing-Diensten über den DB Navigator mit meiner BahnCard einen Rabatt oder kann ich BahnBonus Punkte sammeln?
+----------
+
+Nein. Der Rabatt der BahnCard kann nicht auf Buchungen von Sharing-Diensten angewendet werden. Auch das Sammeln von BahnBonus Punkten bei Buchungen von Sharing-Diensten ist nicht möglich.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-rabatt-bahnbonus-punkte)
 
  Bekomme ich mit dem (Super) Sparpreis Europa Young Rabatt mit der BahnCard?
 ----------
@@ -3165,6 +3192,15 @@ Die Kontaktdaten des Abo-Centers für Fernverkehrsbuchungen finden Sie unter ba
 [Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-ic-ec-abo)
+
+ Warum kann ich weiter entfernte Sharing-Fahrzeuge nicht im Voraus buchen?
+----------
+
+Im DB Navigator können Sie ausschließlich Fahrräder und Scooter buchen, die maximal 200 Meter von Ihrem eigenen Standort entfernt sind.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-sharing-dienste-im-vorraus)
 
  Wo kann ich den Sparpreis Europa Gruppe buchen?
 ----------
@@ -5095,6 +5131,29 @@ If you indicate in your booking enquiry that you only need DB long-distance trai
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erklaerung-city-ticket-sspsp-en)
 
+ Wie erreiche ich die jeweiligen Sharing-Anbieter, die in der App DB Navigator verfügbar sind?
+----------
+
+Die im DB Navigator verfügbaren Sharing-Anbieter sind wie folgt erreichbar:
+
+Call a Bike:
+E-Mail: info@callabike.de
+FAQ/Hilfebereich: https://www.callabike.de/de/faq
+
+Dott:
+E-Mail: support@ridedott.com
+Telefon: 030 46690493
+FAQ/Hilfebereich: https://help.ridedott.com/de
+
+Voi:
+E-Mail: support@voiapp.io
+Telefon: 0800 0002709
+FAQ/Hilfebereich: https://www.voi.com/de/hilfe
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erreichbarkeit-sharingdienste)
+
  Welche Ersatzansprüche bestehen für erstattungsfähige Fahrkarten?
 ----------
 
@@ -5136,6 +5195,24 @@ If you indicate in your booking enquiry that you only need DB long-distance trai
 [Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ersatzanspruch-nicht-erstattungsfaehige-fahrkarten)
+
+ Ich habe ein Fahrrad oder einen Scooter über den DB Navigator ausgeliehen. An wen kann ich mich wenden, wenn ich einen Teil oder den gesamten Buchungsbetrag erstattet bekommen möchte?
+----------
+
+Bitte wenden Sie sich direkt an den Kundenservice des jeweiligen [Sharing-Anbieters](https://www.bahn.de/faq/erreichbarkeit-sharingdienste) und halten Sie hierfür Ihre Rechnungsnummer bereit.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erstattung-buchungsbetrag)
+
+ Warum muss ich ein Zahlungsmittel im DB Navigator hinterlegen, wenn ich ein Fahrrad hinzu buchen möchte?
+----------
+
+Um Sharing-Dienste direkt im DB Navigator buchen zu können, müssen Sie diesen digitalen Dienst bei erstmaliger Nutzung einrichten. Aus vertraglichen und technischen Gründen müssen Sie vorab auch ein Zahlungsmittel in Ihrem DB Kundenkonto für Sharing-Dienste autorisieren. Sie können zwischen PayPal und Kreditkarte wählen. Gegebenenfalls ist es notwendig, dass Zahlungsmittel dafür erneut anzulegen. Das hinterlegte Zahlungsmittel können Sie jederzeit in Ihrem DB Kundenkonto unter „Zahlungsmittel“ verwalten.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahhrad-hinzubuchen-zahlungsmittel-sharing-anbieter-dbnavigator)
 
  Was passiert, wenn mein Zug bei einer Dienstantrittsreise ausfällt oder verspätet ist?
 ----------
@@ -5369,12 +5446,47 @@ Dienste wie die Ortungs-, Karten- und Kamerafunktion haben auf mobilen Apps eine
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrraeder-scooter-im-navigator)
 
+ Warum kann ich Fahrräder oder Scooter nicht mit meinem geschäftlichen DB Kundenkonto im DB Navigator buchen?
+----------
+
+Aus technischen Gründen können Sie Sharing-Dienste nicht mit Ihrem geschäftlichen DB Kundenkonto nutzen.
+
+Um Fahrräder und Scooter im DB Navigator buchen zu können, führen Sie die folgenden Schritte im DB Navigator durch:
+
+1. Loggen Sie sich aus Ihrem geschäftlichen DB Kundenkonto aus.
+2. Loggen Sie sich mit Ihrem privaten DB Kundenkonto ein.
+3. Wählen Sie das gewünschte Sharing-Fahrzeug im Menübereich "Umgebung" aus.
+4. Folgen Sie den weiteren Schritten, um den digitalen Dienst "Sharing-Dienste" erstmalig einzurichten.
+5. Schließen Sie die Ausleihe des gewünschten Fahrzeugs ab.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrraeder-scooter-nicht-per-gk-db-konto-buchbar)
+
+ Ich habe ein Fahrrad oder einen Scooter direkt in der App DB Navigator gebucht. Warum wird mir diese Fahrt nach dem Beenden der Ausleihe nicht im Bereich "Reisen" angezeigt?
+----------
+
+Beendete Ausleihen von Fahrrädern und Scootern, die Sie direkt über den DB Navigator gebucht haben, werden nicht im Bereich "Reisen" angezeigt. Nach jeder Ausleihe erhalten Sie eine Rechnung per E-Mail. Falls Sie nach der Ausleihe keine Rechnung per E-Mail erhalten haben, wenden Sie sich bitte direkt an den [Sharing-Anbieter](https://www.bahn.de/faq/erreichbarkeit-sharingdienste)
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrt-wird-nicht-im-bereich-reisen-aufgezeigt)
+
  Beim Öffnen des Exports in Excel wird die Vertreternummer falsch angezeigt. Was kann ich tun?
 ----------
 
 Die falsche Vertreternummer resultiert aus einem Anzeigeproblem in Microsoft Excel. Richtig angezeigt wird die Nummer im CSV-Format. Nutzen Sie daher den Textkonvertierungs-Assistenten von Excel, indem Sie die CSV-Datei über „Datei“ und „Öffnen“ anzeigen. Im Textkonvertierungs-Assistenten wählen Sie nun für das Dateiformat der Spalten „Text“ statt „Standard“ aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/falsche-vertreternummer)
+
+ Wieso kann ich die Ausleihe nicht beenden, wenn ich das Fahrzeug in einer nicht erlaubten Parkzone abstellt ist
+----------
+
+Das Beenden der Miete ist nur in den erlaubten Parkzonen möglich. Bitte stellen Sie das Fahrzeug gemäß den jeweiligen Nutzungsbedingungen des Sharing-Dienst-Anbieters in einer zulässigen Parkzone ab. Sollte dies nicht möglich sein oder sollte ein Fehler auftreten, wenden Sie sich bitte an den Kundenservice des [Sharing-Dienst-Anbieters.](https://www.bahn.de/faq/erreichbarkeit-sharingdienste)
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/falsches-parken-ausleihe-kann-nicht-beendet-werden)
 
  Wohin kann ich mich wenden, wenn ich einen Fehler gefunden habe oder Feedback geben möchte?
 ----------
@@ -5398,6 +5510,15 @@ Bitte kontaktieren Sie uns über das Kontaktformular auf [www.jobticket-bahn.de]
 [Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ferien-ticket-nrw)
+
+ Ich habe ein Fahrrad oder einen Scooter direkt über den DB Navigator ausgeliehen. An wen kann ich mich mit Fragen zur Rechnung, Preisermittlung, Fahrtdauer oder zu einzelnen Positionen auf der Rechnung wenden?
+----------
+
+Für alle Fragen rund um Rechnung, Preisgestaltung, Fahrtdauer oder einzelne Abrechnungspositionen , wenden Sie sich bitte an den Kundenservice des [Sharing-Anbieters](https://www.bahn.de/faq/erreichbarkeit-sharingdienste).
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fragen-zu-rechnung-preisermittlung-fahrdauer)
 
  Wo finde ich weitere Informationen zum Hermes Gepäckversand?
 ----------
@@ -5518,6 +5639,15 @@ Sie möchten komfortabel über Nacht reisen? Alle Verbindungen mit ÖBB Nightjet
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-verbindungen-sind-tickets-buchbar)
 
+ An wen kann ich mich wenden, wenn ich Fragen zur Funktionsweise eines Fahrrads oder Scooters habe?
+----------
+
+Wenn Sie Fragen zur Funktionsweise von Fahrrädern oder Scootern haben, wenden Sie sich bitte an den Kundenservice des [Sharing-Anbieters](https://www.bahn.de/faq/erreichbarkeit-sharingdienste).
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/funktionsweise-fahrrad-scooter)
+
  Wie kann ich mir den Fußweg zu einem Fahrrad oder Scooter anzeigen lassen?
 ----------
 
@@ -5535,6 +5665,15 @@ Dies ist abhängig von der jeweiligen Zugverbindung. Auf einigen Zügen ist das 
 [Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gastronomisches-angebot-nachtverbindung-ic-ice)
+
+ Was kann ich tun, wenn ich ein gebuchtes Fahrrad oder einen gebuchten Scooter nicht finde, die Fahrt nicht starten oder das Fahrzeug nicht entsperren kann?
+----------
+
+Nutzen Sie die FAQ des Sharing-Anbieters oder wenden Sie sich direkt an den [Sharing-Anbieter.](https://www.bahn.de/faq/erreichbarkeit-sharingdienste)
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gebuchtes-fahrrad-nicht-auffindbar-oder-startet-nicht)
 
  Wo gilt der Interrail One Country Pass?
 ----------
@@ -5867,6 +6006,26 @@ Wählen Sie im Aboportal das betreffende Abo aus, um die Funktion "Kündigung" a
 * [Zum Aboportal](https://abo.bahn.de/#/home)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeitsbeginn-aendern)
+
+ Ich möchte ein Fahrrad oder einen Scooter direkt über die App DB Navigator buchen, aber mein Gutscheincode wird nicht akzeptiert. Was kann ich tun?
+----------
+
+Bitte prüfen Sie, ob der Gutscheincode noch gültig ist und ob Sie den Code korrekt eingegeben haben. Bitte beachten Sie, dass für Sharing-Dienste nur Gutscheincodes eingelöst werden können, die von der DB extra dafür ausgegeben wurden. Andere Gutscheincodes, z. B. von den Sharing-Anbietern selbst, die nicht in Kooperation mit der DB ausgegeben wurden, können nicht in der App DB Navigator eingelöst werden.
+
+Wenn Sie trotz Prüfung weiterhin Probleme mit der Eingabe des Gutscheincodes haben, wenden Sie sich bitte an den DB Kundenservice.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutschein-wird-nicht-akzeptiert)
+
+ Können Gutscheincodes, welche direkt von einem Sharing-Anbieter stammen, auch bei der Buchung von Sharing-Diensten im DB Navigator einlösen?
+----------
+
+Nein. Gutscheincodes, die nicht von der DB ausgegeben wurden, können nicht im DB Navigator eingelöst werden.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutscheincodes-nicht-von-db-im-db-navigator)
 
  Welche Tickets des ÜSTRA/GVH Verkehrsverbundes sind in der App DB Navigator oder online erhältlich?
 ----------
@@ -7938,6 +8097,15 @@ Die E-Mail zur Übertragung wird an die E-Mail-Adresse der reisenden Person gese
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keine-mail-zur-uebertragung)
 
+ Ich habe ein Fahrrad oder einen Scooter direkt über den DB Navigator ausgeliehen. Nach dem Beenden der Ausleihe habe ich keine Rechnung per E-Mail erhalten. An wen kann ich mich wenden?
+----------
+
+Bitte prüfen Sie zunächst den Spam-Ordner Ihres E-Mail-Postfachs. Sollte die E-Mail dort ebenfalls nicht zu finden sein, wenden Sie sich bitte an den Kundenservice des [Sharing-Anbieters](https://www.bahn.de/faq/erreichbarkeit-sharingdienste).
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keine-rechnung-erhalten)
+
  Kann ich meine Kinder kostenfrei mitnehmen?
 ----------
 
@@ -8437,6 +8605,32 @@ Der Preis hängt von der gewählten Verbindung ab. Er entspricht der Differenz z
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-upgrade-nv)
 
+ Warum muss ich meine Kreditkarte für Sharing-Dienste noch einmal neu anlegen, obwohl ich diese Kreditkarte schon in meinem DB Kundenkonto hinterlegt habe?
+----------
+
+Um Ihre im DB Kundenkonto bereits hinterlegte Kreditkarte für Sharing-Dienste nutzen zu können, müssen sie diese aus technischen Gründen einmal neu hinterlegen und für Sharing-Dienste authorisieren. Die bisher gespeicherte Kreditkarte sollten Sie für die Übersichtichkeit aus Ihrem DB Kundenkonto entfernen. Gehen Sie dabei wie folgt vor:
+
+1. Loggen Sie sich in Ihrem DB Kundenkonto ein.
+2. Löschen Sie die Kreditkarte unter "Zahlungsmittel"
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kreditkarte-abermals-hinterlegen)
+
+ Warum wird mir meine Kreditkarte in meinem DB Kundenkonto mehrfach angezeigt?
+----------
+
+Für die Nutzung von Sharing-Diensten im DB Navigator müssen Sie aus vertraglichen und technischen Gründen vorab ein Zahlungsmittel in Ihrem DB Kundenkonto für Sharing-Dienste autorisieren. Dadurch kann es passieren, dass Ihre Kreditkarte mehrfach in Ihrem DB Kundenkonto angezeigt wird. Die bisher gespeicherte Kreditkarte sollten Sie für die Übersichtlichkeit aus Ihrem DB Kundenkonto entfernen. Gehen Sie dabei wie folgt vor:
+
+1. Loggen Sie sich in Ihrem DB Kundenkonto ein.
+2. Löschen Sie die Kreditkarte unter "Zahlungsmittel"
+
+Hinweis: Beachten Sie bitte die Hinweise zu dem Anwendungsbereich Ihrer Kreditkarte.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kreditkarte-mehrfach-hinterlegt-sharing-anbieter-dbnavigator)
+
  Welche Tickets des KVSH sind in der App DB Navigator oder online erhältlich?
 ----------
 
@@ -8604,6 +8798,15 @@ Fehlt eine der drei Legitimationen, dürfen Sie das Angebot zum kostenfreien Bah
 [Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/legitimation-bundeswehr-ticket)
+
+ Warum werden Zahlungen für Sharing-Dienste über Logpay Financial Services abgewickelt?
+----------
+
+Die LogPay Financial Services GmbH ist ein etablierter Zahlungsdienstleister im öffentlichen Verkehr und übernimmt die Forderungs- und Zahlungsabwicklung für Sharing-Dienste. Aus diesem Grund wird auf Ihrer Rechnung bzw. Ihrem Kontoauszug „LogPay“ als Zahlungsdienstleister ausgewiesen. Bei Fragen zur Zahlungsabwicklung wenden Sie sich bitte an den [Kundenservice von LogPay](https://kundenservice.logpay.de/)
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/logpay-zahlungsdienstleister)
 
  Habe ich mit meinem Bundeswehr-Ticket Zugang zur DB Lounge?
 ----------
@@ -9007,6 +9210,15 @@ Ja. Für folgende Länder gibt es ein **Mindestalter**:
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mindestalter-kind-flexpreis-europa)
+
+ Gibt es ein Mindestalter für die Nutzung von Sharing-Diensten im DB Navigator?
+----------
+
+Für die Nutzung von Sharing-Diensten im DB Navigator müssen Sie mindestens 18 Jahre alt sein.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mindestalter-nutzung-sharing-dienste)
 
  Kann ich mit der digitalen BahnCard auch BahnBonus Punkte sammeln?
 ----------
@@ -9779,6 +9991,24 @@ Möchten Soldat:innen den ÖPNV nutzen, müssen sie sich ein entsprechendes Tick
 [Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/oepnv-bundeswehr-ticket)
+
+ Kann ich ohne DB Kundenkonto Fahrräder und Scooter im DB Navigator buchen?
+----------
+
+Nein. Um Fahrräder und Scooter direkt über den DB Navigator buchen zu können, benötigen Sie ein DB Kundenkonto.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-db-konto-im-navigator-buchen)
+
+ Wie entferne ich die PayPal-Einzugsermächtigung für die Nutzung der Sharing-Dienste?
+----------
+
+Ihre PayPal-Einzugsermächtigung können Sie nur direkt in Ihrem PayPal-Konto verwalten und löschen.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-einzugsermeachtigung-entfernen-sharing-anbieter-dbnavigator)
 
  Was kostet ein Flexpreis-Ticket?
 ----------
@@ -10738,6 +10968,15 @@ Nein. Mit den Länder-Tickets, mit dem Quer-durchs-Land-Ticket oder mit weiteren
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rabatt)
 
+ Warum ändert sich der angezeigte Fahrt- bzw. Minutenpreis nicht, obwohl ich einen Gutscheincode über den DB Navigator gebucht und eingegeben habe?
+----------
+
+Der Rabatt des Gutscheins wird erst bei der finalen Abrechnung nach der beendeten Ausleihe sichtbar und reduziert den Rechnungsbetrag (Preis/Min. und/oder Freischaltgebühr) gemäß den Gutscheinbedingungen.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rabatt-gutscheincode-db-navigator)
+
  Was ist eine reisebegründende Unterlage für Dienstantrittsreisen?
 ----------
 
@@ -11276,15 +11515,6 @@ Sie erhalten folgende Angebote als Online- bzw. Handy-Ticket:
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-tickets-wo-kaufen)
-
- Welche Sharing-Dienste sind über die App DB Navigator aktuell auswählbar?
-----------
-
-Aktuell sind Scooter von Dott und Voi sowie Fahrräder von Call a Bike, Dott und Voi über die App DB Navigator auswählbar.
-
-* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sharing-anbieter-dbnavigator)
 
  Was muss ich auf der Reise mit dem (Super) Sparpreis Europa in Belgien beachten?
 ----------
@@ -12248,7 +12478,7 @@ Umtausch, Erstattung oder Stornierung einzelner Teilnehmer ist bis 7 Tage vor Re
  Ich hatte einen Unfall mit meinem ausgeliehenen Fahrrad oder Scooter. An wen kann ich mich nun wenden?
 ----------
 
-Bei Unfällen mit einem Fahrrad oder Scooter wenden Sie sich bitte immer direkt an den jeweiligen Sharing-Anbieter.
+Melden Sie den Schaden bitte umgehend beim Kundenservice des entsprechenden [Sharing-Anbieters](https://www.bahn.de/faq/erreichbarkeit-sharingdienste), damit das Fahrzeug schnell überprüft werden kann und keine weiteren Nutzerinnen und Nutzer gefährdet werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unfall-fahrrad-scooter-kontakt)
 
@@ -13916,6 +14146,15 @@ Fahren Sie außerhalb eines Verkehrsverbundes oder über die Verbundgrenzen hina
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-bekomme-ich-ein-db-abo-wann-ein-verbund-abo)
 
+ Wann erfolgt die Abrechnung von Fahrrädern und Scootern im DB Navigator?
+----------
+
+Bei der Buchung eines Fahrrads oder Scooters im DB Navigator wird ein Betrag vorübergehend einbehalten. Dieser wird nach beendeter Ausleihe innerhalb von wenigen Tagen mit dem tatsächlich fälligen Betrag verrechnet. Die Abwicklung der Abrechnung kann je nach Sharing-Anbieter und je nach Zahlungsanbieter variieren.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-erfolgt-abrechnung-sharing-anbieter-dbnavigator)
+
  Wann gilt das Bayern-Hopper-Ticket?
 ----------
 
@@ -14367,10 +14606,10 @@ Handy-Tickets sind personalisierte Tickets, enthalten also auch den Namen des Ku
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-muss-ich-meinen-personalausweis-mitfuehren-nrw)
 
- Warum werde ich zu einem Sharing-Anbieter weitergeleitet und kann die Buchung nicht direkt in der App DB Navigator vornehmen?
+ Warum sind nicht alle Fahrräder und Scooter, die im Bereich "Umgebung" angezeigt werden, direkt in der App DB Navigator buchbar?
 ----------
 
-Aktuell ist eine direkte Buchung von Sharing-Angeboten über den DB Navigator noch nicht möglich.
+Aktuell sind nur Fahrräder und Scooter des Sharing-Anbieters Dott direkt in der App DB Navigatior buchbar. Wir bauen unser Angebot jedoch stetig weiter aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-weiterleitung-sharing-anbieter)
 
@@ -16186,6 +16425,15 @@ Sie können ein VVS-Abo, welches Sie von der DB Vertrieb GmbH beziehen, als Hand
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vvs-angebote-werden-unterstuetzt)
 
+ Welche Zahlungsmittel kann ich nutzen, um Fahrräder und Scooter von Sharing-Anbietern im DB Navigator auszuleihen?
+----------
+
+Um Fahrräder und Scooter von Sharing-Anbietern im DB Navigator auszuleihen, können die Zahlungsmittel Kreditkarte (Visa, Mastercard und American Express) sowie PayPal (Einzugsermächtigung) genutzt werden.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-zahlungsmittel-im-navigator)
+
  Welche Züge kann ich mit dem Gruppenpreis Deutschlandtarif nutzen?
 ----------
 
@@ -16502,6 +16750,15 @@ Der Preis selbst ist nicht auf der Chipkarte gespeichert. Bei einer Änderung de
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/werden-die-daten-auf-der-umweltcard-gold-bei-tarifwechsel-automatisch-geaendert)
 
+ Werden Fahrten mit Fahrzeugen eines Sharing-Anbieters, die ich über die App DB Navigator gebucht habe, auch in der App des jeweiligen Sharing-Anbieters angezeigt?
+----------
+
+Nein. Buchungen von Sharing-Diensten, die vollständig über die App DB Navigator erfolgen, werden nur im DB Navigator angezeigt.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/werden-fahrten-im-navigator-sowie-in-sharing-anbieter-app-angezeigt)
+
  Welche Angebote des WestfalenTarifs kann ich in der App DB Navigator oder auf bahn.de kaufen?
 ----------
 
@@ -16623,9 +16880,11 @@ Trotz der konkreten Verbindungseingabe ist das Ticket für beliebig viele Fahrte
  Wie buche ich Fahrräder und Scooter in der App DB Navigator?
 ----------
 
-Um Fahrräder oder Scooter in der App DB Navigator zu buchen, tippen Sie auf den Menübereich "Umgebung" und wählen Sie anschließend den Modus "Fahrrad" oder "Scooter" aus. Sobald Ihnen Fahrräder oder Scooter auf der Karte angezeigt werden, können Sie ein bestimmtes Fahrrad oder einen bestimmten Scooter antippen. Tippen Sie dann auf den Button "Zur Buchung".
+Um Fahrräder oder Scooter in der App DB Navigator zu buchen, tippen Sie auf den Menübereich "Umgebung" und wählen Sie anschließend den Modus "Fahrrad" oder "Scooter" aus. Sobald Ihnen Fahrräder oder Scooter auf der Karte angezeigt werden, können Sie ein bestimmtes Fahrrad oder einen bestimmten Scooter antippen. Die Buchung von Fahrrädern und Scootern des Sharing-Anbieters Dott können Sie direkt über die App DB Navigator abschließen.
 
-Anschließend werden Sie zur App des jeweiligen Sharing-Anbieters weitergeleitet, wenn Sie dessen App schon installiert haben. Falls Sie die App des jeweiligen Sharing-Anbieters noch nicht installiert haben, werden Sie zum Download der App in den Google Play Store oder App Store weitergeleitet. Nachdem Sie sich in der App des jeweiligen Sharing-Anbieters registriert oder eingeloggt haben, können Sie die Ausleihe dort starten und auch wieder beenden.
+Wenn Sie Fahrzeuge von Call a Bike und Voi auswählen, werden Sie zur App des jeweiligen Sharing-Anbieters weitergeleitet, wenn Sie dessen App schon installiert haben. Falls Sie die App des jeweiligen Sharing-Anbieters noch nicht installiert haben, werden Sie zum Download der App in den Google Play Store oder App Store weitergeleitet.
+
+Mehr Informationen zu den [Sharing-Diensten](https://www.bahn.de/faq/erreichbarkeit-sharingdienste).
 
 * [Mehr Informationen zu den Sharing-Diensten](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
 
@@ -20301,12 +20560,30 @@ Nein, ein Zahlungsaufschub für Ihr Abonnement ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlungsaufschub)
 
+ Warum muss ich ein Zahlungsmittel im DB Navigator hinterlegen?
+----------
+
+Um Sharing-Dienste direkt im DB Navigator buchen zu können, müssen Sie diesen digitalen Dienst bei erstmaliger Nutzung einrichten. Aus vertraglichen und technischen Gründen müssen Sie vorab auch ein Zahlungsmittel in Ihrem DB Kundenkonto für Sharing-Dienste autorisieren. Sie können zwischen PayPal und Kreditkarte wählen. Gegebenenfalls ist es notwendig, das Zahlungsmittel dafür erneut anzulegen. Das hinterlegte Zahlungsmittel können Sie jederzeit in Ihrem DB Kundenkonto unter „Zahlungsmittel“ verwalten.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlungsmittel-sharing-anbieter-dbnavigator)
+
  Zeigt mir das internationale Buchungssystem automatisch den günstigsten Preis an?
 ----------
 
 Wir versuchen, Ihnen auch bei internationalen Verbindungen den günstigsten Ticketpreis herauszusuchen. Eine Bestpreis-Garantie können wir aufgrund der Kombination aus verschiedenen Systemen und unterschiedlichen Angeboten je Land leider nicht gewährleisten, da wir abhängig von den Angeboten und Verfügbarkeiten in den verschiedenen Buchungssystemen sind.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeigt-mir-das-internationale-buchungssystem-automatisch-den-guenstigsten-preis-an)
+
+ Wie viele Fahrräder und Scooter kann ich zeitgleich im DB Navigator buchen?
+----------
+
+Sie können nur ein Fahrrad bzw. einen Scooter über den DB Navigator buchen. Die gleichzeitige Buchung von mehreren Sharing-Fahrzeugen ist nicht möglich.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitgleiche-ausleihe-db-navigator)
 
  Kann ich eine Zeitkarte für Schüler stornieren?
 ----------
@@ -20757,6 +21034,15 @@ Wenn Sie keinen Zugriff auf Ihr DB Kundenkonto haben, prüfen Sie bitte die [Hil
 Unter dem Menüpunkt „Unternehmen“ finden Sie eine Übersicht über die Firmen, für die Sie Zugriff haben. Mit Klick auf den jeweiligen Datensatz finden Sie Informationen zu der Sammel-Abo-Auftragsnummer und dem zugehörigen Vertreter.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zugriff-unternehmen)
+
+ Warum fallen zusätzliche Kosten an, wenn ich das Fahrzeug in bestimmten Zonen parke?
+----------
+
+Einige Sharing-Anbieter erheben in speziellen Zonen (z. B. Innenstadt oder vom Sharing-Anbieter festgelegte Sperrzonen) zusätzliche Parkgebühren, um den geordneten Betrieb und die Verfügbarkeit der Fahrzeuge sicherzustellen. Details zu möglichen Zusatzkosten finden Sie in den Nutzungsbedingungen des Sharing-Anbieters oder direkt im DB Navigator vor Abschluss der Buchung. Wenn Sie weitere Fragen zu erhobenen Kosten haben, wenden Sie sich bitte an den Kundenservice des [Sharing-Anbieters.](https://www.bahn.de/faq/erreichbarkeit-sharingdienste)
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zusaetzliche-kosten-bedtimmte-parkzonen)
 
  Wie setzt sich der Preis eines Fahrrads oder Scooters in der App DB Navigator zusammen?
 ----------

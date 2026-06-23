@@ -11,6 +11,8 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
 ###  BX11  ###
 
+ Typ
+
  max/mo.
 
  /std
@@ -24,6 +26,8 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 [Produktdetails](https://www.hetzner.com/de/storage/storage-box/bx11/)
 
 ###  BX21  ###
+
+ Typ
 
  max/mo.
 
@@ -39,6 +43,8 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
 ###  BX31  ###
 
+ Typ
+
  max/mo.
 
  /std
@@ -52,6 +58,8 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 [Produktdetails](https://www.hetzner.com/de/storage/storage-box/bx31/)
 
 ###  BX41  ###
+
+ Typ
 
  max/mo.
 
