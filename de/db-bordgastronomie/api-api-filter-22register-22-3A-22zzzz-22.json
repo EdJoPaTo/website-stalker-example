@@ -2791,6 +2791,54 @@
 				"id": 8,
 				"register": null,
 				"section_top": false
+			},
+			{
+				"banner": {
+					"color_bg_hex": "#fff3d8",
+					"color_text_hex": "#282c37",
+					"description": "Snack dich satt: Jetzt 5-fach Punkte in der Bordgastronomie\r\nsichern.",
+					"description_en": "Treat yourself: get 5x points on onboard snacks now.",
+					"description_fr": "Fais-toi plaisir : Tous tes points sont multipliés par cinq à notre bistro à bord.",
+					"headline": "Was auf den Tisch kommt, punktet.",
+					"headline_en": "Extra points are on the menu.",
+					"headline_fr": "Cumule des points à table.",
+					"id": 9,
+					"img_bg": "banner-img_bg-9.jpg",
+					"img_bg_alt": "Gedeckter Tisch mit Getränk und Speisen aus der Bordgastronomie.",
+					"img_bg_alt_en": "A set table with a drink and food from the onboard catering.",
+					"img_bg_alt_fr": "Une table dressée avec des boissons et des plats issus du menu proposé à bord.",
+					"img_bg_mobile": "banner-img_bg_mobile-9.jpg",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"chapter": 3258,
+				"id": 9,
+				"register": null,
+				"section_top": false
+			},
+			{
+				"banner": {
+					"color_bg_hex": "#fff3d8",
+					"color_text_hex": "#282c37",
+					"description": "Snack dich satt: Jetzt 5-fach Punkte in der Bordgastronomie\r\nsichern.",
+					"description_en": "Treat yourself: get 5x points on onboard snacks now.",
+					"description_fr": "Fais-toi plaisir : Tous tes points sont multipliés par cinq à notre bistro à bord.",
+					"headline": "Was auf den Tisch kommt, punktet.",
+					"headline_en": "Extra points are on the menu.",
+					"headline_fr": "Cumule des points à table.",
+					"id": 9,
+					"img_bg": "banner-img_bg-9.jpg",
+					"img_bg_alt": "Gedeckter Tisch mit Getränk und Speisen aus der Bordgastronomie.",
+					"img_bg_alt_en": "A set table with a drink and food from the onboard catering.",
+					"img_bg_alt_fr": "Une table dressée avec des boissons et des plats issus du menu proposé à bord.",
+					"img_bg_mobile": "banner-img_bg_mobile-9.jpg",
+					"legal_text_type": "anzeige",
+					"target_url": null
+				},
+				"chapter": 3259,
+				"id": 10,
+				"register": null,
+				"section_top": false
 			}
 		],
 		"cards": [
