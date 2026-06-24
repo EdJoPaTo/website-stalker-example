@@ -177,6 +177,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Mannheim ####
 
+* **Lage:** Die DB Lounge Mannheim befindet sich im 2. OG auf der linken Seite in Richtung Bahnhofsvorplatz. Ein barrierefreier Zugang ist durch einen Aufzug möglich.
 * **Öffnungszeiten:** Montag bis Freitag: 7 bis 21:30 Uhr / Samstag: 7 bis 21 Uhr / Sonntag und Feiertag: 8 bis 21 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
@@ -186,6 +187,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### München ####
 
+* **Lage:** Die DB Lounge München befindet sich im 1. Obergeschoss gegenüber Gleis 24 in Richtung Ausgang Arnulfstraße. Der Zugang erfolgt über eine Treppe oder eine Rolltreppe vom Erdgeschoss. Ein barrierefreier Zugang ist über einen Aufzug möglich.
 * **Öffnungszeiten:** Montag bis Mittwoch: 6:30 bis 21 Uhr / Donnerstag, Freitag: 6:30 bis 22 Uhr / Samstag: 8 bis 20 Uhr / Sonntag: 8 bis 22 Uhr / Feiertag: 8 bis 20 Uhr
 * In dieser DB Lounge finden Sie auch einen **Premium Bereich**
 
@@ -195,7 +197,8 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Nürnberg ####
 
-**Öffnungszeiten:** Montag bis Freitag: 6:30 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
+* **Lage:** Die DB Lounge Nürnberg befindet sich im 1. OG Richtung Westausgang/ DB Museum. Ein barrierefreier Zugang ist durch einen Aufzug möglich.
+* **Öffnungszeiten:** Montag bis Freitag: 6:30 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Nürnberg Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:03f82cf2-ca84-405c-b931-b3c26e6143e0/14-Nuernberg-Hbf.pdf)
 
@@ -203,6 +206,7 @@ Hier finden Sie Informationen zu Standort, Öffnungszeiten und vielem mehr.
 
 #### Stuttgart ####
 
-**Öffnungszeiten:** Montag bis Freitag: 6 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
+* **Lage:** Die DB Lounge Stuttgart befindet sich in Richtung Stadtmitte im Erdgeschoss des LBBW Gebäude am Ende der Empfangshalle.
+* **Öffnungszeiten:** Montag bis Freitag: 6 bis 21 Uhr / Samstag, Sonntag und Feiertag: 8 bis 20 Uhr
 
 * [DB Lounge Stuttgart Lageplan (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:8819f2b0-fed2-44c4-80b0-a2dbaf4d6406/15-Stuttgart-Hbf.pdf)

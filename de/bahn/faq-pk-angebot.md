@@ -19398,27 +19398,16 @@ Den Geltungsbereich finden Sie unter bahn.de/agb im Abschnitt Tarifbedingungen d
 Das Stadt-Land-Meer-Ticket gilt auf folgenden Strecken:
 
 * **RE2, RE8, RB10, RB14, RB17**
-   Berlin Ostkreuz – Berlin Hbf – Nauen – Ludwigslust – Wismar
-* **RE3, RE10, RE66, RB24**
-   Berlin Lichterfelde Ost – Berlin Hbf – Eberswalde – Angermünde – Züssow –
-   Greifswald – Stralsund Hbf
-* **RE5**
-   Berlin-Lichterfelde Ost – Berlin Südkreuz – Berlin Hbf – Oranienburg – Neustrelitz Hbf – Rostock Hbf / Stralsund Hbf
+  Berlin Ostkreuz – Berlin Hbf – Nauen – Ludwigslust – Wismar
+* **RE3, RE30, RB24**
+  Berlin Lichterfelde Ost – Berlin Hbf – Eberswalde – Angermünde – Züssow –
+  Greifswald – Stralsund Hbf
+* **RE5, RE51**
+  Berlin-Lichterfelde Ost – Berlin Südkreuz – Berlin Hbf – Oranienburg – Neustrelitz Hbf – Rostock Hbf / Stralsund Hbf
 * **RB12**
-   Berlin Ostkreuz – Berlin-Lichtenberg – Oranienburg
+  Berlin Ostkreuz – Berlin-Lichtenberg – Oranienburg
 
-Während der Generalsanierung Berlin-Hamburg gilt das Stadt-Land-Meer-Ticket darüber hinaus auch auf folgenden Strecken:
-
-* **RE2**
-   Berlin Ostkreuz – Dallgow-Döberitz – Hennigsdorf (b Berlin)
-* **RE4/RE8/RB14/RB21**
-   Berlin Ostkreuz/Berlin Südkreuz/Berlin Gesundbrunnen – Berlin-Spandau - Wustermark
-* **RE6**
-   Berlin Gesundbrunnen – Löwenberg (Mark) – Neuruppin Rheinsberger Tor – Fretzdorf – Wittstock (Dosse) – Perleberg
-* **RE85**
-   Berlin Südkreuz – Oranienburg – Güstrow – Bad Kleinen – Schwerin Hbf
-
-**Gilt nicht für die Produktklassen IC, EC, ICE.**
+**Gilt nicht für die Produktklassen IC, EC, ICE**
 
 Das Stadt-Land-Meer-Ticket gilt nicht für Binnenverbindungen innerhalb von Mecklenburg-Vorpommern oder Berlin/Brandenburg. Die Tickets gelten also nicht für Fahrten innerhalb eines Bundeslandes.
 
@@ -19430,27 +19419,14 @@ Das Stadt-Land-Meer-Ticket gilt nicht für Binnenverbindungen innerhalb von Meck
 Das Stadt-Land-Meer-Ticket gilt auf folgenden Strecken:
 
 * **RE2, RE8, RB10, RB14, RB17**
-   Berlin Ostkreuz – Berlin Hbf – Nauen – Ludwigslust – Wismar
-* **RE3, RE10, RE66, RB24**
-   Berlin Lichterfelde Ost – Berlin Hbf – Eberswalde – Angermünde – Züssow –
-   Greifswald – Stralsund Hbf
-* **RE5**
-   Berlin-Lichterfelde Ost – Berlin Südkreuz – Berlin Hbf – Oranienburg – Neustrelitz Hbf – Rostock Hbf / Stralsund Hbf
+  Berlin Ostkreuz – Berlin Hbf – Nauen – Ludwigslust – Wismar
+* **RE3, RE30, RB24**
+  Berlin Lichterfelde Ost – Berlin Hbf – Eberswalde – Angermünde – Züssow –
+  Greifswald – Stralsund Hbf
+* **RE5, RE51**
+  Berlin-Lichterfelde Ost – Berlin Südkreuz – Berlin Hbf – Oranienburg – Neustrelitz Hbf – Rostock Hbf / Stralsund Hbf
 * **RB12**
-   Berlin Ostkreuz – Berlin-Lichtenberg – Oranienburg
-
-**Gilt nicht für die Produktklassen IC, EC, ICE.**
-
-Während der Generalsanierung Berlin-Hamburg gilt das Stadt-Land-Meer-Ticket darüber hinaus auch auf folgenden Strecken:
-
-* **RE2**
-   Berlin Ostkreuz – Dallgow-Döberitz – Hennigsdorf (b Berlin)
-* **RE4/RE8/RB14/RB21**
-   Berlin Ostkreuz/Berlin Südkreuz/Berlin Gesundbrunnen – Berlin-Spandau - Wustermark
-* **RE6**
-   Berlin Gesundbrunnen – Löwenberg (Mark) – Neuruppin Rheinsberger Tor – Fretzdorf – Wittstock (Dosse) – Perleberg
-* **RE85**
-   Berlin Südkreuz – Oranienburg – Güstrow – Bad Kleinen – Schwerin Hbf
+  Berlin Ostkreuz – Berlin-Lichtenberg – Oranienburg
 
 **Gilt nicht für die Produktklassen IC, EC, ICE.**
 
@@ -19459,17 +19435,17 @@ Das Stadt-Land-Meer-Ticket gilt nicht für Binnenverbindungen innerhalb von Meck
 Das **Stadt-Land-Meer-Ticket Plus** gilt **zusätzlich** auf folgenden Strecken:
 
 * **RB11, RB12**
-   Wismar – Rostock Hbf
+  Wismar – Rostock Hbf
 * **RE9**
-   Rostock Hbf – Stralsund – Sassnitz/Ostseebad Binz
+  Rostock Hbf – Stralsund – Sassnitz/Ostseebad Binz
 * **RB12**
-   Rostock Hbf – Ostseebad Graal-Müritz
+  Rostock Hbf – Ostseebad Graal-Müritz
 * **RB25**
-   Velgast – Barth
+  Velgast – Barth
 * **RB23**
-   Züssow – Zinnowitz – Swinoujscie-Centrum
+  Züssow – Zinnowitz – Swinoujscie-Centrum
 * **RB24**
-   Zinnowitz – Peenemünde
+  Zinnowitz – Peenemünde
 
 **Gilt nicht für die Produktklassen IC, EC, ICE.**
 
