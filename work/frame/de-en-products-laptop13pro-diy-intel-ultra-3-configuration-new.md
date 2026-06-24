@@ -178,9 +178,8 @@ Storage
 * SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
 * SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
 * SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
-* Phison PS5031-E31T PCIe® 5.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€379
-* Phison PS5031-E31T PCIe® 5.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€559
-* Phison PS5031-E31T PCIe® 5.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€1,115
+* ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
+* ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€735
 * None (bring your own)
 
 **Operating System**
