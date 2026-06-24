@@ -259,33 +259,33 @@ If you're looking to create your own plugins, add-ons, bots, etc. for the TeamSp
 
 ### Available SDKs: ###
 
-TeamSpeak 3 SDK
+TeamSpeak SDK
 
-Version 3.5.2
-
-Download
-
-TeamSpeak 3 SDK
-
-Version C# Wrapper
+C/C++ SDK • v3.5.2
 
 Download
 
-TeamSpeak 3 Package
+TeamSpeak Unity Plugin
 
-Version for Unity 2019 (SDK 3.1.x)
+Package for Unity 2019 (SDK 3.1.x)
 
 Download
 
-TeamSpeak 3 Plugin
+TeamSpeak .NET SDK
 
-Version for Unreal Engine
+C# wrapper
+
+[View on GitHub](https://github.com/TeamSpeak-Systems/ts3_sdk_dotNet/tree/main)
+
+TeamSpeak Unreal Plugin
+
+Plugin for Unreal Engine
 
 [View on GitHub](https://github.com/TeamSpeak-Systems/teamspeak-sdk-unreal)
 
-TeamSpeak 3 Plugin Sample
+TeamSpeak Unreal Sample
 
-Version for Unreal Engine
+Sample project for Unreal Engine
 
 [View on GitHub](https://github.com/TeamSpeak-Systems/teamspeak-sdk-unreal-sample)
 

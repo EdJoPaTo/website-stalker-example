@@ -328,9 +328,9 @@ mehr Reisespaß!
 
 [mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen)
 
-[Strauss Allemagne, Français](https://www.strauss.com/de/fr)
-
 [Strauss America, English](https://us.strauss.com/)
+
+[Strauss Allemagne, Français](https://www.strauss.com/de/fr)
 
 [Strauss America, Español](https://us.strauss.com/es)
 
@@ -376,9 +376,13 @@ mehr Reisespaß!
 
 [Strauss United Kingdom, English](https://www.strauss.com/uk/en)
 
-[Strauss Global, English](https://www.strauss.com/global/en)
+[Strauss France, Français](https://www.strauss.com/fr/fr)
 
-[Strauss Global, Français](https://www.strauss.com/global/fr)
+[Strauss Frankreich, Deutsch](https://www.strauss.com/fr/de)
+
+[Strauss France, English](https://www.strauss.com/fr/en)
+
+[Strauss Srbija, Srpski](https://rs.strauss.com/)
 
 []()
 
