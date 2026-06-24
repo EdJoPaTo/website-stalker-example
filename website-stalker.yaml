@@ -572,7 +572,14 @@ sites:
             - html_sanitize
       - html_url_canonicalize
       - html_markdownify
-  - url: https://db-bordgastronomie.de/
+  - url:
+      - https://db-bordgastronomie.de/
+      - https://db-bordgastronomie.de/aktion
+      - https://db-bordgastronomie.de/aktion/gastgeschenk
+      - https://db-bordgastronomie.de/partner/getraenke
+      - https://db-bordgastronomie.de/partner/speisen
+      - https://db-bordgastronomie.de/philosophie
+      - https://db-bordgastronomie.de/qualitaet
     editors:
       - css_select: .page-content
       - css_remove: style, img
