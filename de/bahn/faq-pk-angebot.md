@@ -15678,7 +15678,8 @@ Ab Juli 2025 werden die Abonnements für den NRW-Tarif nicht mehr auf bahn.de ve
  Welche Abo-Angebote des RNN kann ich hier kaufen?
 ----------
 
-Die Abonnements für den RNN sind nicht mehr über bahn.de erhältlich. Neue Abonnements können auf der Webseite ticketshop.move-rlp.de und der App move-rlp erworben werden. Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abovertrages informiert.
+Die Abonnements für den RNN sind nicht mehr über bahn.de erhältlich. Neue Abonnements können auf der Webseite ticketshop.move-rlp.de und der App move-rlp erworben werden.
+Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abovertrages informiert.
 
 [Zum Ticketshop move-rlp.de](https://ticketshop.move-rlp.de/)
 
@@ -15925,6 +15926,8 @@ Die Abonnements für den VRS sind nicht mehr über bahn.de erhältlich. Neue Abo
 ----------
 
 Die Abonnements für den VRT sind nicht mehr über bahn.de erhältlich. Neue Abonnements können auf der Webseite [ticketshop.move-rlp.de](http://ticketshop.move-rlp.de/) und der App move-rlp erworben werden. Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abovertrages informiert.
+
+[Zum Ticket-Shop move.rlp.de](https://ticketshop.move-rlp.de/ovdl-ticketshop/schedules)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vrt)
 

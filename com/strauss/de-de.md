@@ -416,7 +416,7 @@ zzgl. Versandkosten
 
   * [Kontakt](https://www.strauss.com/de/de/Informationen/Kontakt)
   * [Häufige Fragen](https://www.strauss.com/de/de/Helpcenter-Redirect)
-  * [Widerruf](https://eu.strauss.com/de-de)
+  * [Vertrag widerrufen](https://eu.strauss.com/de-de)
   * [Lexikon](https://www.strauss.com/de/de/Informationen/Lexikon/A)
   * [Barrierefreiheitserklärung](https://www.strauss.com/de/de/Informationen/Barrierefreiheit)
   * [Kundenbewertungen](https://www.strauss.com/de/de/Bewertungen)
