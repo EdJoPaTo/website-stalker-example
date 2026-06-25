@@ -5,16 +5,23 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
- Shelly Smart Control for iOS 1.8.2 (69) – Widget Issue
+ Issue with iOS Widgets and Shelly App Version 1.9.0
 ----------
 
- After updating to **Shelly Smart Control for iOS version 1.8.2 (69)**, some Home Screen widgets may appear empty or stop working as expected. In some cases, widgets may need to be configured again.
+ Dear users,
+
+ If you experience any issues with your iOS widgets after updating to **Shelly App version 1.9.0**, please log out of your account and then log back in.
+
+ After logging back in, your widgets may be reset. If this happens, you will need to edit each widget and reselect the relevant items.
+
+ This should resolve the issue.
 
 ---
 
- For step-by-step instructions, please open the article below.
+ We apologize for the inconvenience caused.
 
-[Shelly Smart Control iOS 1.8.2 (69) – Widget Reconfiguration](https://allterco.freshdesk.com/en/support/solutions/articles/103000399549-shelly-smart-control-ios-1-8-2-69-widget-reconfiguration)
+ Kind regards,
+ Shelly Support Team
 
 Knowledge base
 ----------

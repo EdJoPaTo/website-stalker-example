@@ -25,7 +25,7 @@ Bayern
 * [Kurkarte Chiemgau\*](https://deutschlandtarifverbund.de/tarifbedingungen)
 * [BGL-Tagesticket Bus&Bahn](https://www.brb.de/de/tickets)
 * [Garmischer Ski-Ticket](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-ski-ticket-kaufen)
-* [Mobil Pass Oberallgäu\* (PDF, 41 KB)](https://assets.static-bahn.de/dam/jcr:657e8143-3597-4474-8a6d-1fedf66cad58/MOBIL-PASS-ALLG%C3%84U.pdf)
+* [Mobil Pass Oberallgäu\* (PDF, 41 KB)](https://assets.static-bahn.de/dam/jcr:657e8143-3597-4474-8a6d-1fedf66cad58/MOBIL-PASS-ALLG%C3%84U.2024-12-10-10-26-53.pdf)
 
 Berlin / Brandenburg
 ----------

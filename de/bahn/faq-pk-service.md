@@ -239,7 +239,7 @@ Nein, generell ist das nicht notwendig. Zeigen Sie bei der Fahrkartenkontrolle z
 
 Wenn Sie Ihr Fahrrad in einem EC-Zug nach Italien (via Österreich/Brenner) mitnehmen wollen, müssen Sie eine Kennzeichnung anhängen. Bitte drucken und füllen Sie die Fahrradbanderole aus. Befestigen Sie diese vor Fahrtantritt an Ihrem Fahrrad. Die Banderole ist kein Ersatz für die Fahrradkarte bzw. Stellplatzreservierung.
 
-* [Banderole downloaden (PDF, 293 KB)](https://assets.static-bahn.de/dam/jcr:5b1c4dbe-43eb-46c4-bbcd-018087f319e8/Banderole%20zur%20Fahrradmitnahme.pdf)
+* [Banderole downloaden (PDF, 293 KB)](https://assets.static-bahn.de/dam/jcr:5b1c4dbe-43eb-46c4-bbcd-018087f319e8/Banderole%20zur%20Fahrradmitnahme.2022-06-15-07-52-14.pdf)
 
 [Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
 
@@ -1713,7 +1713,7 @@ Ihr Schwerbehindertenausweis mit Merkzeichen B gilt für die Begleitperson als F
 
 Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz bzw. einen Sitzplatz für Ihre Begleitperson benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
 
-* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
+* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.2026-02-13-08-49-49.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emaessigung-sba-b-mit-rollstuhlplatz)
 
@@ -1805,7 +1805,7 @@ Sie erhalten damit folgende Ermäßigungen:
 * Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
 * Die kostenpflichtige Sitzplatzreservierung ist bei Auswahl dieser Ermäßigung für alle mitreisenden Personen verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen eine separate Buchung der Tickets erforderlich.
 
-* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
+* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.2026-02-13-08-49-49.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-sba-g-ag-gi-h-mit-rollstuhlplatz)
 
@@ -2572,7 +2572,7 @@ Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, 
 
 **Für die Reservierung eines Rollstuhlplatzes ohne Schwerbehindertenausweis** wenden Sie sich bitte an die Mobilitätsservice-Zentrale.
 
-* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
+* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.2026-02-13-08-49-49.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsmittel-mitnehmen)
 

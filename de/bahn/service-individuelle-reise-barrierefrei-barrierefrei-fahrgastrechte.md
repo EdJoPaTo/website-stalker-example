@@ -153,12 +153,12 @@ Zugangsregeln
 
 Nach Artikel 21, Absatz 1 der Fahrgastrechteverordnung (EU) 2021/782 stellen Eisenbahnverkehrsunternehmen und Bahnhofsbetreiber unter aktiver Beteiligung von Behindertenvertretern nicht diskriminierende Zugangsregeln für die Beförderung von mobilitätseingeschränkten Reisenden auf.
 
-* [Zugangsregeln DB InfraGO AG für mobilitätseingeschränkte Reisende, Stand Oktober 2025 (PDF, 292 KB)](https://assets.static-bahn.de/dam/jcr:2685c618-cbf2-4ced-a75a-778d522d11f0/2025_10_Zugangsregeln_InfraGO.pdf)
-* [Zugangsregeln DB Fernverkehr AG und DB Regio, Stand Juni 2026 (PDF, 166 KB)](https://assets.static-bahn.de/dam/jcr:05973f9b-6828-4887-8cf3-c9fab0262a91/2026_06_22%20ZR%20FV,%20R%20Stand%20Jun%2026.pdf)
-* [Zugangsregeln der DB RegioNetz Infrastruktur GmbH für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 180 KB)](https://assets.static-bahn.de/dam/jcr:13e4f050-d515-4265-aa2a-68b49afdc052/Zugangsregeln%20RegioNetz%20Infrastruktur%20(1).pdf)
-* [Beförderungsbedingungen für besondere Personengruppen, Stand Dezember 2024 (PDF, 145 KB)](https://assets.static-bahn.de/dam/jcr:7b60700b-1275-4103-b491-527c62bd989e/Bef%C3%B6rderungsbedingungen%20f%C3%BCr%20besondere%20Personengruppen.pdf)
-* [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).pdf)
-* [Leitfaden für die Mitnahme orthopädischer Hilfsmittel, Stand 18. Februar 2028 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
+* [Zugangsregeln DB InfraGO AG für mobilitätseingeschränkte Reisende, Stand Oktober 2025 (PDF, 292 KB)](https://assets.static-bahn.de/dam/jcr:2685c618-cbf2-4ced-a75a-778d522d11f0/2025_10_Zugangsregeln_InfraGO.2025-10-14-09-59-03.pdf)
+* [Zugangsregeln DB Fernverkehr AG und DB Regio, Stand Juni 2026 (PDF, 166 KB)](https://assets.static-bahn.de/dam/jcr:05973f9b-6828-4887-8cf3-c9fab0262a91/2026_06_22%20ZR%20FV,%20R%20Stand%20Jun%2026.2026-06-23-08-57-28.pdf)
+* [Zugangsregeln der DB RegioNetz Infrastruktur GmbH für mobilitätseingeschränkte Reisende, Stand Februar 2024 (PDF, 180 KB)](https://assets.static-bahn.de/dam/jcr:13e4f050-d515-4265-aa2a-68b49afdc052/Zugangsregeln%20RegioNetz%20Infrastruktur%20(1).2025-07-29-06-57-25.pdf)
+* [Beförderungsbedingungen für besondere Personengruppen, Stand Dezember 2024 (PDF, 145 KB)](https://assets.static-bahn.de/dam/jcr:7b60700b-1275-4103-b491-527c62bd989e/Bef%C3%B6rderungsbedingungen%20f%C3%BCr%20besondere%20Personengruppen.2025-08-14-11-17-05.pdf)
+* [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).2025-07-29-06-59-35.pdf)
+* [Leitfaden für die Mitnahme orthopädischer Hilfsmittel, Stand 18. Februar 2028 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.2026-02-13-08-49-49.pdf)
 
 Informationen zu Ihren Fahrgastrechten und Entschädigung
 ----------
@@ -171,9 +171,9 @@ Detaillierte Informationen zu Ihren Fahrgastrechten und wie Sie Ihre Entschädig
 Flyer Barrierefreies Reisen
 ----------
 
-[Barrierefreies Reisen: Die Mobilitätsservice-Zentrale (MSZ), Stand März 2026 (PDF, 303 KB)](https://assets.static-bahn.de/dam/jcr:df617bc7-18a5-4bbf-9968-fc60b7878887/A4%20Flyer%20Barrfr.%20Reisen_Die%20MSZ_.pdf)
+[Barrierefreies Reisen: Die Mobilitätsservice-Zentrale (MSZ), Stand März 2026 (PDF, 303 KB)](https://assets.static-bahn.de/dam/jcr:df617bc7-18a5-4bbf-9968-fc60b7878887/A4%20Flyer%20Barrfr.%20Reisen_Die%20MSZ_.2026-03-03-09-50-54.pdf)
 
-[Bahn Reisen in leichter Sprache, Stand März 2026 (PDF, 223 KB)](https://assets.static-bahn.de/dam/jcr:6bddae29-b918-422f-8071-8e16bd522c27/Barrfr.%20Reisen_in%20leichter%20Sprache_.pdf) [Bahn-Reisen mit SB-Ausweis: Eine Information in leichter Sprache, Stand März 2026 (PDF, 339 KB)](https://assets.static-bahn.de/dam/jcr:8c0884cf-19d1-4a38-bd21-18078dbd38b0/A4%20Flyer%20Bahn-Reisen%20mit%20SB-Ausweis_.pdf) [Accessible travel: The Mobility Service Centre (MSC), March 2026 (PDF, 275 KB)](https://assets.static-bahn.de/dam/jcr:f0cd480f-fd05-4885-add2-ce3ab3b76d0b/A4%20Flyer%20Barrfr.%20Reisen_Die%20MSZ-Englisch_.pdf)
+[Bahn Reisen in leichter Sprache, Stand März 2026 (PDF, 223 KB)](https://assets.static-bahn.de/dam/jcr:6bddae29-b918-422f-8071-8e16bd522c27/Barrfr.%20Reisen_in%20leichter%20Sprache_.2026-03-03-09-45-40.pdf) [Bahn-Reisen mit SB-Ausweis: Eine Information in leichter Sprache, Stand März 2026 (PDF, 339 KB)](https://assets.static-bahn.de/dam/jcr:8c0884cf-19d1-4a38-bd21-18078dbd38b0/A4%20Flyer%20Bahn-Reisen%20mit%20SB-Ausweis_.2026-03-03-09-50-38.pdf) [Accessible travel: The Mobility Service Centre (MSC), March 2026 (PDF, 275 KB)](https://assets.static-bahn.de/dam/jcr:f0cd480f-fd05-4885-add2-ce3ab3b76d0b/A4%20Flyer%20Barrfr.%20Reisen_Die%20MSZ-Englisch_.2026-03-03-09-51-14.pdf)
 
 Hilfreiche Infos für
 ----------
@@ -188,4 +188,4 @@ Das könnte Sie auch interessieren!
 
 [Die Programme der DB AG](https://www.bahn.de/service/individuelle-reise/barrierefrei/programme-db)
 
-[www.bahnhof.de](https://www.bahnhof.de/) [Ermäßigte BahnCard für Menschen mit Behinderungen](https://www.bahn.de/angebot/bahncard/ermaessigte-bahncard) [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).pdf) [Marktforschungs-Datenbank für mobilitäts- und sinneseingeschränkte Reisende (MER)](https://www.bahn.de/service/individuelle-reise/barrierefrei/mer-marktforschung)
+[www.bahnhof.de](https://www.bahnhof.de/) [Ermäßigte BahnCard für Menschen mit Behinderungen](https://www.bahn.de/angebot/bahncard/ermaessigte-bahncard) [Bahnhofsliste DB RegioNetz Infrastruktur GmbH, Stand Dezember 2024 (PDF, 57 KB)](https://assets.static-bahn.de/dam/jcr:52ad1671-df3d-45b3-ac5a-35aeb6dd5d06/Bahnhofsliste%20DB%20RegioNetz%20Infrastruktur%20GmbH%20(2).2025-07-29-06-59-35.pdf) [Marktforschungs-Datenbank für mobilitäts- und sinneseingeschränkte Reisende (MER)](https://www.bahn.de/service/individuelle-reise/barrierefrei/mer-marktforschung)

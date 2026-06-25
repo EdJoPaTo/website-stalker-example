@@ -1522,7 +1522,7 @@ Weitere Auskunft zum Geltungsbereich erhalten Sie telefonisch unter [0621 830 1
 
 Das EgroNet-Ticket gilt in den Nahverkehrszügen (z.B. RB-, RE-Züge) auf allen Strecken gemäß Geltungsbereich, sowie in den ÖPNV-Verkehrsmitteln (z.B. Bus, Straßenbahn) in den im Geltungsbereich vermerkten Städten.
 
-* [Auf diesen Linien gilt das EgroNet-Ticket (PDF, 95 KB)](https://assets.static-bahn.de/dam/jcr:8adbb729-ecea-433a-afe0-20dbc6cd213c/Egronet-Liniennetz.pdf)
+* [Auf diesen Linien gilt das EgroNet-Ticket (PDF, 95 KB)](https://assets.static-bahn.de/dam/jcr:8adbb729-ecea-433a-afe0-20dbc6cd213c/Egronet-Liniennetz.2025-04-30-13-59-25.pdf)
 
 [Weitere Informationen zum EgroNet-Ticket Bayern](https://www.bahn.de/angebot/regio/bayern/egronet-ticket-bayern)
 
@@ -4032,7 +4032,7 @@ Bitte informieren Sie sich hierzu im Personalbereich Ihres Unternehmens.
 
 Ja, Sie können die Broschüre "Deutschland-Ticket als Jobticket" hier herunterladen.
 
-* [Flyer "Der beste Weg zur Arbeit" (PDF, 1002 KB)](https://assets.static-bahn.de/dam/jcr:a09f83cb-23cf-4be4-82d8-b00c4dc91c58/202602_Pr%C3%A4sentation_Der%20beste%20Weg%20zur%20Arbeit.pdf)
+* [Flyer "Der beste Weg zur Arbeit" (PDF, 1002 KB)](https://assets.static-bahn.de/dam/jcr:a09f83cb-23cf-4be4-82d8-b00c4dc91c58/202602_Pr%C3%A4sentation_Der%20beste%20Weg%20zur%20Arbeit.2026-02-20-09-44-33.pdf)
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
@@ -4263,7 +4263,7 @@ Beachten Sie dazu die detaillierten Hinweise im Geltungsbereich des Schienenverk
 
 Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
-* [Tarifbedingungen für das Deutschland-Ticket im Deutschlandtarif (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:227be160-8ce7-4e42-b243-0e9be259bf18/tarifbedingungen-deutschland-ticket-250625.pdf)
+* [Tarifbedingungen für das Deutschland-Ticket im Deutschlandtarif (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:227be160-8ce7-4e42-b243-0e9be259bf18/tarifbedingungen-deutschland-ticket-250625.2025-06-10-07-41-41.pdf)
 * [deutschlandtarifverbund/tarifbedingungen](https://www.deutschlandtarifverbund.de/tarifbedingungen/)
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
@@ -4750,8 +4750,8 @@ Sie benötigen ein DB Kundenkonto für die Bestellung. Sie können ein neues Kon
 
 Bietet Ihr Arbeitgeber das Deutschland-Ticket Jobticket eines Verkehrsverbundes oder Landestarifs an, finden Sie das passende Jobticket-Produkt auf der Verbundseite.
 
-* [Alle wichtigen Infos zur Bestellstrecke des DB Deutschland-Ticket als Jobticket können Sie hier downloaden (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:9dbab57f-688e-4728-9a1e-571ec2aba47e/202511_Pr%C3%A4sentation_Online%20Bestellung%20D-Ticket%20Jobticket.pdf)
-* [Presentation Ordering Process (english version) (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:36c27995-dca9-4b97-b6d1-c6a4b07e6296/202511_Presentation_Ordering%20Process.pdf)
+* [Alle wichtigen Infos zur Bestellstrecke des DB Deutschland-Ticket als Jobticket können Sie hier downloaden (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:9dbab57f-688e-4728-9a1e-571ec2aba47e/202511_Pr%C3%A4sentation_Online%20Bestellung%20D-Ticket%20Jobticket.2026-02-11-14-10-05.pdf)
+* [Presentation Ordering Process (english version) (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:36c27995-dca9-4b97-b6d1-c6a4b07e6296/202511_Presentation_Ordering%20Process.2026-02-12-07-45-36.pdf)
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
@@ -8665,7 +8665,7 @@ Sie erhalten die meisten KVV-Angebote online auf der Website oder als Handy-Tick
 
 Du kannst 33 Länder mit nur einem Interrail Pass erkunden.
 
-* [Karte Interrail Länder (PDF, 23 MB)](https://assets.static-bahn.de/dam/jcr:cd6315b5-4c92-4d4b-922c-fe067eb9c21e/Interrail%20Map%202026.pdf)
+* [Karte Interrail Länder (PDF, 23 MB)](https://assets.static-bahn.de/dam/jcr:cd6315b5-4c92-4d4b-922c-fe067eb9c21e/Interrail%20Map%202026.2026-01-27-07-43-02.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laender-interrail)
 
@@ -9471,7 +9471,7 @@ Sie können den Bestellschein hier herunterladen, ausfüllen, unterschreiben und
 * per E-Mail an [abo-mvv@bahn.de](mailto:abo-mvv@bahn.de) senden
 * im S-Bahn Kundencenter oder DB Reisezentren im MVV-Gebiet abgeben
 
-* [Bestellschein 365-Euro-Ticket MVV / Schule I und II / Ausbildung SEPA im Abo (PDF, 381 KB)](https://assets.static-bahn.de/dam/jcr:031438ca-52bf-445b-b31d-2c5c17775a2e/Bestellschein_MVV_Sch%C3%BCler_Handy_neu-1.pdf)
+* [Bestellschein 365-Euro-Ticket MVV / Schule I und II / Ausbildung SEPA im Abo (PDF, 381 KB)](https://assets.static-bahn.de/dam/jcr:031438ca-52bf-445b-b31d-2c5c17775a2e/Bestellschein_MVV_Sch%C3%BCler_Handy_neu-1.2025-01-24-06-34-14.pdf)
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
@@ -10871,7 +10871,7 @@ Das Ticket kostet 13 Euro pro Person. Bis zu 3 Kinder zwischen 6 und 14 Jahren f
 
 Die Preise für einen Interrail Global Pass variieren von Land zu Land. Der Interrail Global Pass ist bereits ab 212 Euro erhältlich.
 
-* [Preise Interrail Global Pass (PDF, 27 KB)](https://assets.static-bahn.de/dam/jcr:86bcb288-6df9-4c40-815d-b0c829e65223/PreiseIRGlobal2026BahnDeIntBahnDe_05012026.pdf)
+* [Preise Interrail Global Pass (PDF, 27 KB)](https://assets.static-bahn.de/dam/jcr:86bcb288-6df9-4c40-815d-b0c829e65223/PreiseIRGlobal2026BahnDeIntBahnDe_05012026.2025-12-17-07-34-33.pdf)
 
 [Weitere Informationen zum Global Pass](https://www.bahn.de/angebot/international/global-pass)
 
@@ -10884,7 +10884,7 @@ Die Preise für einen Interrail Global Pass variieren von Land zu Land. Der Inte
 
 Die Preise für einen Interrail One Country Pass variieren von Land zu Land. Einige One Country Pässe gibt es bereits ab 50 Euro.
 
-* [Preise Interrail One Country Pass (PDF, 44 KB)](https://assets.static-bahn.de/dam/jcr:40c3eae4-0301-4d66-a4c4-afc26b8eae7f/PreiseIROCPass2026BahnDeIntBahnDeEN_01062026.pdf)
+* [Preise Interrail One Country Pass (PDF, 44 KB)](https://assets.static-bahn.de/dam/jcr:40c3eae4-0301-4d66-a4c4-afc26b8eae7f/PreiseIROCPass2026BahnDeIntBahnDeEN_01062026.2026-05-18-08-36-29.pdf)
 
 [Weitere Informationen zum One Country Pass](https://www.bahn.de/angebot/international/one-country-pass)
 
@@ -15259,7 +15259,7 @@ Erlaubt ist die Abholung und Zustellung auch in die österreichischen Orte im Kl
 * Wohn- & Ausbildungsort/Schule müssen im AVV-Verbundgebiet liegen
 * online erhältich
 
-* [Bestellschein (PDF, 373 KB)](https://assets.static-bahn.de/dam/jcr:41eeef3f-294e-4043-98cf-e297856d27e1/Bestellschein_AVV_Augsburg_neu%20(1).pdf)
+* [Bestellschein (PDF, 373 KB)](https://assets.static-bahn.de/dam/jcr:41eeef3f-294e-4043-98cf-e297856d27e1/Bestellschein_AVV_Augsburg_neu%20(1).2024-10-01-13-30-39.pdf)
 * [365-Euro-Ticket AVV bestellen](https://www.bahn.de/angebot/verbuende/365-euro-ticket-avv)
 
 [Weitere Informationen zu Abo-Angeboten des AVV Augsburg](https://www.bahn.de/angebot/verbuende/avv-augsburg-abos)
@@ -15312,7 +15312,7 @@ Das Schülerticket Berlin (Tarifbereich Berlin AB) wird nur von der BVG ausgegeb
 
 *
 *
-* [Bestellschein VMS Azubi/Schüler (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:f09be711-355a-4c46-b34b-0d29ca60fc5e/mdb_295701_bestellschein_vms_azubiticketsachsen.pdf)
+* [Bestellschein VMS Azubi/Schüler (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:f09be711-355a-4c46-b34b-0d29ca60fc5e/mdb_295701_bestellschein_vms_azubiticketsachsen.2021-09-07-09-53-44.pdf)
 
 [Bildungsticket VMS](https://abo.bahn.de/bestellen/?tarifid=47)
 
@@ -15378,7 +15378,7 @@ Den Bestellschein finden Sie weiter unten.
 * **Sonderverkehrsmittel**: Mit dem BildungsTicket können Sie Sonderverkehrsmittel nutzen (Standseilbahn und Schwebebahn in Dresden, Lößnitzgrundbahn, Weißeritztalbahn, Kirnitzschtalbahn und Aufzug in Bad Schandau sowie Stadtrundfahrt Meißen)
 * **Hund- und Fahrradmitnahme:** Jederzeit kostenfrei ein Fahrrad oder einen Hund mitnehmen.
 
-* [Bestellschein für das VVO-Abo herunterladen (PDF, 136 KB)](https://assets.static-bahn.de/dam/jcr:de8f6360-a0b6-4eb8-8729-ab9d32f37ab5/Bestellschein_VVO_neu.pdf)
+* [Bestellschein für das VVO-Abo herunterladen (PDF, 136 KB)](https://assets.static-bahn.de/dam/jcr:de8f6360-a0b6-4eb8-8729-ab9d32f37ab5/Bestellschein_VVO_neu.2024-07-03-13-36-35.pdf)
 * [Weitere Informationen zum Bildungsticket des VVO](https://www.vvo-online.de/de/tarif-tickets/tickets/bildungsticket-9702.cshtml)
 
 [Bildungsticket VVO](https://abo.bahn.de/bestellen/?tarifid=48)
@@ -15964,7 +15964,7 @@ Die Abonnements für den VRT sind nicht mehr über bahn.de erhältlich. Neue A
 * Mit einer Abo-Monatskarte der entsprechenden Tarifzone können Sie die jeweiligen Sonderverkehrsmittel (z. B. Bergbahn, Lößnitzgrundbahn, Kirnitzschtalbahn, Stadtrundfahrt Meißen) nutzen.
 * Gilt in der Preisstufe D (Verbundraum) zwischen Riesa und Dresden Neustadt/Dresden Hbf ohne Aufpreis auch in Zügen des Fernverkehrs (ICE, IC); unter der Beachtung der zeitlichen Gültigkeit ab 9 Uhr montags bis freitags.
 
-* [Bestellschein VVO (PDF, 136 KB)](https://assets.static-bahn.de/dam/jcr:de8f6360-a0b6-4eb8-8729-ab9d32f37ab5/Bestellschein_VVO_neu.pdf)
+* [Bestellschein VVO (PDF, 136 KB)](https://assets.static-bahn.de/dam/jcr:de8f6360-a0b6-4eb8-8729-ab9d32f37ab5/Bestellschein_VVO_neu.2024-07-03-13-36-35.pdf)
 
 [Deutschland-Ticket im VVO oder Plus Mitnahme](https://abo.bahn.de/bestellen/?tarifid=87,119,141)
 
@@ -16017,7 +16017,7 @@ Die Abonnements für den VRT sind nicht mehr über bahn.de erhältlich. Neue A
 
 In diesen Bussen in Bayern können Sie **nicht** mit dem Bayern-Ticket fahren.
 
-* [Busse ohne Anerkennung Bayern-Ticket (PDF, 127 KB)](https://assets.static-bahn.de/dam/jcr:d2226ba2-98c2-4fb5-ab42-7b243e7cc954/Busse%20ohne%20Anerkennung%20BT-03-2026.pdf)
+* [Busse ohne Anerkennung Bayern-Ticket (PDF, 127 KB)](https://assets.static-bahn.de/dam/jcr:d2226ba2-98c2-4fb5-ab42-7b243e7cc954/Busse%20ohne%20Anerkennung%20BT-03-2026.2026-03-25-13-52-26.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-busse-erkennen-die-bayern-tickets-nicht-an)
 
@@ -17637,8 +17637,8 @@ Ansonsten können Sie es folgendermaßen hinzufügen:​
 
 Nähere Details und die Voraussetzungen für den Versicherungsschutz im Einzelnen entnehmen Sie bitte den Versicherungsbedingungen.
 
-* [Produktinformationsblatt (PDF, 109 KB)](https://assets.static-bahn.de/dam/jcr:9b63cb8e-abad-462c-b7a0-114bff2ef655/1306033_1910_IPID-Bahn&Bus-Jahresschutz%20DE.PDF)
-* [Versicherungsbedingungen (Versicherungsschein) (PDF, 133 KB)](https://assets.static-bahn.de/dam/jcr:c0f0021e-9ceb-408d-9280-300d9a5c144c/2007520_2108_%20F5346-VS-Bahn&Bus-Jahresschutz%20DE.pdf)
+* [Produktinformationsblatt (PDF, 109 KB)](https://assets.static-bahn.de/dam/jcr:9b63cb8e-abad-462c-b7a0-114bff2ef655/1306033_1910_IPID-Bahn&Bus-Jahresschutz%20DE.2023-01-03-12-52-20.PDF)
+* [Versicherungsbedingungen (Versicherungsschein) (PDF, 133 KB)](https://assets.static-bahn.de/dam/jcr:c0f0021e-9ceb-408d-9280-300d9a5c144c/2007520_2108_%20F5346-VS-Bahn&Bus-Jahresschutz%20DE.2023-01-03-12-52-20.pdf)
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
@@ -19041,7 +19041,7 @@ Ihre Abonummer können Sie folgendermaßen finden:
 
 Mit Ihren 24h Tickets NRW können Sie frei alle Nahverkehrszüge und Verkehrsmittel des Geltungsbereichs nutzen. Den Geltungsbereich sehen Sie auf der Streckenkarte.
 
-* [Streckenkarte NRW (Regionalverkehrsplan) (PDF, 802 KB)](https://assets.static-bahn.de/dam/jcr:a88be32f-f5a9-4827-91e7-e0794748ccd9/NRW-Regionalverkehrsplan_2026.pdf)
+* [Streckenkarte NRW (Regionalverkehrsplan) (PDF, 802 KB)](https://assets.static-bahn.de/dam/jcr:a88be32f-f5a9-4827-91e7-e0794748ccd9/NRW-Regionalverkehrsplan_2026.2026-01-14-09-43-08.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gelten-die-24h-tickets-nrw)
 
@@ -20411,7 +20411,7 @@ Den Geltungsbereich finden Sie unter bahn.de/agb im Abschnitt Tarifbedingungen d
 
 [Tarifbedingungen des Deutschlandtarifs](https://www.bahn.de/agb#regio2)
 
-* [Linienplan Mecklenburg-Vorpommern herunterladen (JPEG, 113 KB)](https://assets.static-bahn.de/dam/jcr:d337a317-eceb-47a6-a190-159781f610ca/251214%20Geltungsbereich%20MVT.jpg)
+* [Linienplan Mecklenburg-Vorpommern herunterladen (JPEG, 113 KB)](https://assets.static-bahn.de/dam/jcr:d337a317-eceb-47a6-a190-159781f610ca/251214%20Geltungsbereich%20MVT.2026-01-06-08-55-18.jpg)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohin-kann-ich-mit-dem-mecklenburg-vorpommern-ticket-fahren)
 
@@ -20429,7 +20429,7 @@ Wie mit dem Niedersachsen-Ticket können Sie mit den Plus-Tickets in allen Nahve
 Weitere Informationen und eine Karte mit dem Geltungsbereich finden Sie unter
 
 * [www.niedersachsenticket.de](https://niedersachsenticket.de/)
-* [Karte Geltungsbereich downloaden (PDF, 817 KB)](https://assets.static-bahn.de/dam/jcr:7fa3fb0d-f758-4383-b463-d3898d98be97/Geltungsber-Niedersachsen-Ticket_ab-14122025.pdf)
+* [Karte Geltungsbereich downloaden (PDF, 817 KB)](https://assets.static-bahn.de/dam/jcr:7fa3fb0d-f758-4383-b463-d3898d98be97/Geltungsber-Niedersachsen-Ticket_ab-14122025.2025-12-02-10-25-41.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohin-kann-ich-mit-dem-niedersachsenticket-fahren)
 
@@ -20458,7 +20458,7 @@ Es ist darüber hinaus aus gültig im österreichischen Außerfern, bis Kufstein
 
 Mit Ihrem Brandenburg-Berlin-Ticket/Nacht können Sie frei alle Nahverkehrszüge und Verkehrsmittel des Geltungsbereichs nutzen. Wo genau, sehen Sie in der Streckenkarte.
 
-* [Zur Streckenkarte Brandenburg-Berlin-Ticket (JPEG, 2 MB)](https://assets.static-bahn.de/dam/jcr:def9cd5f-1f89-4f85-b7c1-654b0f6d57ea/Ticket-Berlin-Brandenburg-Karte-data.jpg)
+* [Zur Streckenkarte Brandenburg-Berlin-Ticket (JPEG, 2 MB)](https://assets.static-bahn.de/dam/jcr:def9cd5f-1f89-4f85-b7c1-654b0f6d57ea/Ticket-Berlin-Brandenburg-Karte-data.2026-02-19-08-18-24.jpg)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohin-kann-ich-mit-den-brandenburg-berlin-tickets-fahren)
 

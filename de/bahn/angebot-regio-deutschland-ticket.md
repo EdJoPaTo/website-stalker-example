@@ -100,7 +100,7 @@ Beachten Sie dazu die detaillierten Hinweise im Geltungsbereich des Schienenverk
 
 Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
-* [Tarifbedingungen für das Deutschland-Ticket im Deutschlandtarif (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:227be160-8ce7-4e42-b243-0e9be259bf18/tarifbedingungen-deutschland-ticket-250625.pdf)
+* [Tarifbedingungen für das Deutschland-Ticket im Deutschlandtarif (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:227be160-8ce7-4e42-b243-0e9be259bf18/tarifbedingungen-deutschland-ticket-250625.2025-06-10-07-41-41.pdf)
 * [deutschlandtarifverbund/tarifbedingungen](https://www.deutschlandtarifverbund.de/tarifbedingungen/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-ausland)
