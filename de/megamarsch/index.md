@@ -14,13 +14,17 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### MITTERSILL ###
+### DÜSSELDORF ###
 
-### 20.06.2026 ###
+### 4.JULI 2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/mittersill)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/düsseldorf)
+
+### 25 km ###
+
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/duessseldorf-25km)
 
 [Location](https://www.megamarsch.de/ostsee)
 
@@ -147,9 +151,9 @@ IN DEINER NÄHE!
 [LUZERN](https://www.megamarsch.de)
 ----------
 
-[Location](https://www.megamarsch.de/mittersill)
+[Location](https://www.megamarsch.de)
 
-[MITTERSILL](https://www.megamarsch.de/mittersill)
+[MITTERSILL](https://www.megamarsch.de)
 ----------
 
 [MALLORCA](https://www.megamarsch.de/mallorca)
@@ -157,20 +161,20 @@ IN DEINER NÄHE!
 
 [Location](https://www.megamarsch.de/mallorca)
 
-|      Events      | KILOMETER |   2026   |   2027   |
-|------------------|-----------|----------|----------|
-|     MALLORCA     |50KM & 25KM|21/02/2026|20/02/2027|
-|     DRESDEN      |50KM & 25KM|07/03/2026|06/03/2027|
-| MÖNCHENGLADBACH  |50KM & 25KM|21/03/2026|20/03/2027|
-|      LUZERN      |50KM & 25KM|28/03/2026|03/04/2027|
-|     HAMBURG      |   100KM   |11/04/2026|10/04/2027|
-|      OSTSEE      |   50KM    |25/04/2026|24/04/2027|
-|     HANNOVER     |50KM & 25KM|02/05/2026|08/05/2027|
-|     MÜNCHEN      |   100KM   |16/05/2026|15/05/2027|
-|      BREMEN      |   50KM    |23/05/2026|22/05/2027|
-|WESERBERGLAND B.N.|   50KM    |13/06/2026|12/06/2027|
-|  WESERBERGLAND   |   100KM   |13/06/2026|12/06/2027|
-|    MITTERSILL    |   50KM    |20/06/2026|          |
+|      Events      | KILOMETER  |   2026   |   2027   |
+|------------------|------------|----------|----------|
+|     MALLORCA     |50KM & 25KM |21/02/2026|20/02/2027|
+|     DRESDEN      |50KM & 25KM |07/03/2026|06/03/2027|
+| MÖNCHENGLADBACH  |50KM & 25KM |21/03/2026|20/03/2027|
+|      LUZERN      |50KM & 25KM |28/03/2026|03/04/2027|
+|     HAMBURG      |   100KM    |11/04/2026|10/04/2027|
+|      OSTSEE      |    50KM    |25/04/2026|24/04/2027|
+|     HANNOVER     |50KM & 25KM |02/05/2026|08/05/2027|
+|     MÜNCHEN      |   100KM    |16/05/2026|15/05/2027|
+|      BREMEN      |    50KM    |23/05/2026|22/05/2027|
+|WESERBERGLAND B.N.|    50KM    |13/06/2026|12/06/2027|
+|  WESERBERGLAND   |   100KM    |13/06/2026|12/06/2027|
+|    MITTERSILL    |25 KM & 50KM|20/06/2026|19/06/2027|
 
 #### Finde einen Megamarsch in deiner nähe! ####
 
