@@ -43,12 +43,13 @@ Wir vermeiden das Entstehen von CO2-Emissionen, wo wir können, gleichen entsteh
 
   **Unser CO****₂****-Ausgleich seit Marktstart 2020:**
 
-  * **1.223 t**
+  * **1.325 t**
 
   **Investitionen in Erneuerbare Energien:**
 
   * **2020:** Solaranlage mit Ecosia, GLS & Naturstrom 570 kWp = anteilig ca. **500 MWh/a**
   * **2024:** Windkraftanlage mit Prokon = anteilig ca. **645 MWh/a**
+  * **2026:** Windkraftanlage mit der Ökostromgruppe Freiburg = anteilig ca. **820 MWh/a**
 
   **Investitionen in Start-ups**:
 
@@ -56,9 +57,9 @@ Wir vermeiden das Entstehen von CO2-Emissionen, wo wir können, gleichen entsteh
 
   **Verloste Community Balkonkraftwerke:**
 
-  * **2024:50** Systeme mit je **640 Wp**
-  * **2024:10** Systeme mit je **300 Wp**
-  * **2025:50** refurbishte Systeme mit je **405 Wp**
+  * **2024: 50** Systeme mit je **640 Wp**
+  * **2024: 10** Systeme mit je **300 Wp**
+  * **2025: 50** refurbishte Systeme mit je **405 Wp**
 
 Fairness für alle
 ----------

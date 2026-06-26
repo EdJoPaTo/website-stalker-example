@@ -1,37 +1,26 @@
-Sommer-Deal für Sie & Ihn
+Perfekt für
+sonnige Tage
 ----------
 
 ---
 
- Diesen Look shoppen & sparen – Farben & Größen wählen und direkt ab in den Warenkorb!
+ Outdoor-Kleidung für Arbeit & Abenteuer – maximal flexibel, gut geschützt
 
-Setpreis **-10%**
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/)
 
----
+ \+2
 
- Damen-Set
----
+ Zip-Off Funktions
+Hose e.s.trail
 
- T-Shirt + Cargoshort + Berufsschuhe
+[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5) [](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5)
 
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0044?variantId=84269e49-7fbb-42d8-8a9a-2ec877bb7ecd)
+ \+2
 
-[Set konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0044?variantId=84269e49-7fbb-42d8-8a9a-2ec877bb7ecd)
+ Zip-Off Funktions
+Hose e.s.trail
 
-Setpreis **-10%**
-
----
-
- Herren-Set
----
-
- T-Shirt + Cargoshort + Berufsschuhe
-
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0043?variantId=b11af64f-118e-42d4-991d-49c6f3823ee1)
-
-[Set konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0043?variantId=b11af64f-118e-42d4-991d-49c6f3823ee1)
-
-[](https://www.strauss.com/de/de#engelbird)
+[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5) [](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5)
 
 Alles für den Job:
 
@@ -156,30 +145,6 @@ zusammenstellen & kräftig sparen.
 [alle Aktionssets entdecken](https://www.strauss.com/de/de/flexible-sets/)
 
 [](https://www.strauss.com/de/de/flexible-sets/)
-
- Perfekt für
-sonnige Tage
-----------
-
----
-
- Outdoor-Kleidung für Arbeit & Abenteuer – maximal flexibel, gut geschützt
-
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/)
-
- \+2
-
- Zip-Off Funktions
-Hose e.s.trail
-
-[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5) [](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5)
-
- \+2
-
- Zip-Off Funktions
-Hose e.s.trail
-
-[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5) [](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5)
 
 ###  Druck & Stick - ab 1 Stück  ###
 

@@ -3835,13 +3835,17 @@ Nein. Solange Sie Ihr Deutschland-Ticket nutzen möchten, müssen Sie dieses nic
  Kann ich im Fernverkehr eine Erstattung beantragen, wenn meine Strecke durch eine Baustelle unterbrochen ist?
 ----------
 
-Ja, Sie können als Inhabende eines ICE- oder IC/EC-Abos eine Unterbrechung und Teilerstattung beantragen, wenn
+Ja, als Inhabende eines ICE- oder IC/EC-Abos können Sie bei bestimmten baustellenbedingten Einschränkungen eine Sperrung mit Teilerstattung beantragen, wenn die **Baustelle in der Störungskarte mit einem "Hinweis für Abo-Kund:innen"** gekennzeichnet ist. Kulanzregelungen werden immer **individuell** für die jeweilige Baumaßnahme festgelegt.
 
-* Ihre Strecke mindestens 5 Tage durch eine Baustelle gestört ist
-* Sie Ihre Anfrage mindestens 2 Tage vor dem gewünschten Zeitraum einreichen
-* die Baustelle in der Störungskarte mit einem "Hinweis für Abo-Kund:innen“ hinterlegt ist
+**Für die Unterbrechung gelten folgende Voraussetzungen:**
 
-Nutzen Sie das Kontaktformular, um Ihre Anfrage zu starten. Geben Sie Angaben zu Baustelle und Zeitraum bitte im Freitextfeld an.
+* mindestens 5 aufeinanderfolgende Tage
+* Einreichung des Sperrwunsches mindestens 2 Tage vor Beginn
+* genauer Zeitraum während der Baumaßnahme, in dem das Abo gesperrt werden soll
+
+Bei bestimmten Baustellen ist alternativ eine anteilige prozentuale Erstattung ohne Unterbrechung möglich, sofern dies zusätzlich als Kulanzregelung festgelegt wurde.
+
+Nutzen Sie für Ihre Anfrage bitte das Kontaktformular und tragen Sie die Angaben zur Baustelle und zum gewünschten Zeitraum im Freitextfeld ein.
 
 * [Zur Störungskarte](https://karte.bahn.de/de/region/DB_Fernverkehr)
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/erstattung_baustelle)
