@@ -2452,6 +2452,15 @@ Stimmen alle Angaben und Sie bekommen dennoch einen Fehler, rufen Sie uns unter 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutschein-fehlermeldung)
 
+ Können Geschenkgutscheine auf bahn.de auch als Gast gekauft und eingelöst werden?
+----------
+
+Um einen Geschenkgutschein auf [www.bahn.de/gutscheine](https://www.bahn.de/service/gutscheine/geschenkgutscheine) erwerben oder einlösen zu können ist ein Kundenkonto erforderlich.
+
+[Mehr zu DB Geschenkgutscheinen](https://www.bahn.de/service/gutscheine/geschenkgutscheine)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutscheinkauf-als-gast)
+
  Habe ich für mein Fahrrad eine Mitnahmegarantie im Nahverkehr?
 ----------
 
@@ -3866,6 +3875,19 @@ Wählen Sie bei der Abfrage der Reiseverbindung auf der Website die Umsteigezeit
 Pro Buchung sind maximal 10 DB Geschenkgutscheine gleichzeitig einlösbar. Abweichend hiervon ist am DB Fahrkartenautomat die Anzahl nicht begrenzt. Es können hier aber nur Gutscheine mit einem maximalen Nennwert von 50 EUR und einem maximalen Gesamtwert von 150 EUR eingelöst werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehrere--einloesen)
+
+ Ist es möglich mehrere Gutscheine in einem Buchungsvorgang zu kaufen?
+----------
+
+Auf [bahn.de/gutscheine](https://www.bahn.de/service/gutscheine/geschenkgutscheine) sind Gutscheine nur im eingeloggten Bereich und einzeln zu kaufen.
+
+Als Verein, Organisation oder Firma (B2B) haben Sie die Möglichkeit mehrere Gutscheine über unseren Servicedienstleister **cadooz GmbH** zu bestellen. Dieser übernimmt die gesamte Abwicklung.
+
+Dafür genügt eine einmalige Registrierung in der [Incentive Mall von cadooz](https://incentivemall.cadooz.com/mall/product.do?productNumber=5373), wo verschiedene Gutscheinkartenwerte - 10 Euro, 25 Euro, 50 Euro und 100 Euro - zur Auswahl stehen. Auch eine Kombination der Werte ist möglich.
+
+[Mehr zu DB Geschenkgutscheinen](https://www.bahn.de/service/gutscheine/geschenkgutscheine)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehrere-gutscheine-kaufen)
 
  Ich habe für eine andere Person eine Mehrfahrtenkarte gekauft. Wie kann sie das Ticket in Ihre App laden?
 ----------
