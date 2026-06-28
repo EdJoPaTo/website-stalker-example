@@ -6,6 +6,14 @@
 		<description></description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Video kürzen mit ffmpeg</title>
+			<link>https://edjopato.de/post/2026/06/28-ffmpeg-shorten-from-to/</link>
+			<pubDate>Sun, 28 Jun 2026 15:15:00 +0200</pubDate>
+			<content:encoded><![CDATA[2026-06-28
+
+Video kürzen mit ffmpeg]]></content:encoded>
+		</item>
+		<item>
 			<title>Manchmal hilft ein Lötkolben in der Waschmaschine</title>
 			<link>https://edjopato.de/post/2024/11/13-waschmaschine/</link>
 			<pubDate>Wed, 13 Nov 2024 19:12:00 +0100</pubDate>
@@ -396,14 +404,6 @@ Mal eben Videos und Sound bearbeiten]]></content:encoded>
 			<content:encoded><![CDATA[2021-04-07
 
 Schnelle Suche in und nach Dateien in *nix Systemen]]></content:encoded>
-		</item>
-		<item>
-			<title>Erste BL602 Experimente mit Rust</title>
-			<link>https://edjopato.de/post/2021/01/30-bl602-rust-experiments/</link>
-			<pubDate>Sat, 30 Jan 2021 18:56:00 +0100</pubDate>
-			<content:encoded><![CDATA[2021-01-30
-
-Erste BL602 Experimente mit Rust]]></content:encoded>
 		</item>
 	</channel>
 </rss>
