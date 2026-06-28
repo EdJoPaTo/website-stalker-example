@@ -2122,6 +2122,66 @@ Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewä
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-ueberweisung)
 
+ Wie lange gilt die BahnCard 25=50 Aktion?
+----------
+
+Die Aktion gilt vom 1. bis einschließlich 31. Juli 2026. Für Fahrten in diesem Zeitraum können BahnCard 25 Inhaber und Inhaberinnen den Flexpreis-Rabatt einer BahnCard 50 nutzen. Die Rückfahrt muss bis zum 31. Juli 2026 erfolgen. Die Aktion gilt nur für Buchungen, die im Zeitraum 1. bis 31. Juli 2026 getätigt werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion)
+
+ Kann ich die BahnCard 25=50-Aktion auch nutzen, wenn ich ein Ticket für eine internationale Fahrt kaufen möchte?
+----------
+
+Nein, das ist nicht möglich. Die Aktion gilt nur für Fahrten innerhalb Deutschlands und nicht für grenzüberschreitende Fahrten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-ausland)
+
+ Gilt die BahnCard 25=50-Aktion auch für Inhaber einer BahnCard Business 25?
+----------
+
+Ja, auch Inhaber einer BahnCard Business 25 können an der Aktion teilnehmen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-bcb)
+
+ Wo kann ich die Tickets kaufen?
+----------
+
+Die Tickets können online oder in der App DB Navigator sowie in den DB-Reisezentren, DB-Agenturen und am DB-Automaten gekauft werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-kaufen)
+
+ Gilt die Aktion auch für Fahrkarten im Nahverkehr?
+----------
+
+Nein, die Aktion gilt nicht für Fahrtenkarten des Nahverkehrs (z.B. Verbundangebote oder der Normalpreis des Deutschlandtarifs). Sie gilt ausschließlich für innerdeutsche Fahrkarten im Fernverkehr, wenn mindestens eine Teilstrecke im ICE, IC/EC erfolgt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-nahverkehr)
+
+ Gilt die BahnCard 25=50 Aktion auch, wenn die Hinfahrt im Juli 2026 erfolgt, die Rückfahrt aber erst im August 2026?
+----------
+
+Nein, die Aktion gilt ausschließlich für Reisen im Juli 2026. Auch die Rückfahrt muss spätestens bis zum 31. Juli 2026 erfolgen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-reisetage)
+
+ Kann ich die BahnCard 25=50-Aktion auch für Sparpreise nutzen?
+----------
+
+Der gewährte Rabatt auf die Sparpreise ist für die BahnCard 25 und 50 identisch, daher greift die BahnCard 25=50-Aktion hier nicht.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-sparpreise)
+
+ Wie funktioniert die BahnCard 25=50 Aktion?
+----------
+
+Mit der BahnCard 25=50 Aktion können Inhaber und Inhaberinnen einer BahnCard 25 einen Rabatt von 50% auf den Flexpreis erhalten. Bei der Buchung wählen Sie dazu eine BahnCard 50-Ermäßigung aus, die der Klasse der eigenen BahnCard 25 entspricht. In den DB-Reisezentren, DB-Agenturen oder am DB-Automaten wird im Buchungsprozess manuell eine BahnCard 50 Ermäßigung analog der Klasse der eigenen BahnCard 25 ausgewählt. Auf dem Ticket wird eine BahnCard 50 Ermäßigung mit einem um 50% reduzierten Flexpreis ausgewiesen.
+
+Voraussetzung für die Nutzung der BC 25=50-Aktion ist der Besitz einer gültigen BahnCard 25.
+
+Vergessen Sie nicht, Ihre BahnCard 25 mitzuführen und auf Verlangen im Zug vorzuzeigen, um die Ermäßigung in Anspruch nehmen zu können.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-wie)
+
  Wie lange kann man die BahnCard 50 Produkte zum Aktionspreis kaufen?
 ----------
 
