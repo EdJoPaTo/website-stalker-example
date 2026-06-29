@@ -76,10 +76,10 @@ Egal ob geringer CO<sub>2</sub>-Ausstoß, veganes Essen, oder glückliche Mitarb
 
 „Ein bunter Haufen voller die Ärmel hochkrempelnder Energiewende-Verwirklicher und Weltveränderer.“ So sehen sich die Menschen bei Polarstern und haben sich deshalb den Titel #teamwirklich gegeben.
 
-[4peoplewhocare](/community/spotlight/4peoplewhocare/)
+[forpeople skincare](/community/spotlight/forpeople-skincare/)
 ----------
 
-4peoplewhocare hat die Mission, die biologische Vielfalt vor deiner Haustür zu schützen. Als Kosmetikhersteller sind Cremes bei ihnen fester Bestandteil. Buchstäblich, denn diese kommen fest, handlich und plastikfrei verpackt zu dir nach Hause.
+forpeople skincare hat die Mission, die biologische Vielfalt vor deiner Haustür zu schützen. Als Kosmetikhersteller sind Cremes bei ihnen fester Bestandteil. Buchstäblich, denn diese kommen fest, handlich und plastikfrei verpackt zu dir nach Hause.
 
 [Murena](/community/spotlight/murena/)
 ----------

@@ -105,7 +105,7 @@ e.s. Yatala low
 
  SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=e29547a9-dc3e-46e8-be82-c63fdd72fa44)
 
  Set-Highlight
 ----------
@@ -118,9 +118,9 @@ e.s. Yatala low
  Set-Highlight
 ---
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=e29547a9-dc3e-46e8-be82-c63fdd72fa44)
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=e29547a9-dc3e-46e8-be82-c63fdd72fa44)
 
  Strauss Aktionssets
 ----------
