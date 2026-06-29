@@ -250,8 +250,6 @@ FANSHOP
 Newsletter
 ----------
 
-Trage Dich jetzt in unseren Newsletter ein und bleibe über alle allgemeinen Neuigkeiten zum Megamarsch, zu neuen Events, neuen Merch-Produkten, Rabatt-Aktionen etc. auf dem Laufenden.
-
 \- BEA
 
 > "Es kribbelt überall und ich würd am liebsten gleich los - am schönsten ist's mit Stirnlampe mitten durch die stille Nacht."

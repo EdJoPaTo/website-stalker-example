@@ -1,3 +1,6 @@
+On this Page
+----------
+
 Shelly Plug S MTR Gen3
 ==========
 
@@ -56,36 +59,36 @@ Use cases
 * **Use with Apple devices (via Matter)**
 
 * **Use it as color night light:**
-  Night mode with custom settings
-  When switched on, the Night mode reduces the brightness of the LED indication of your Shelly Plug S MTR Gen3 during the night hours so that you can have undisturbed night sleep.
+   Night mode with custom settings
+   When switched on, the Night mode reduces the brightness of the LED indication of your Shelly Plug S MTR Gen3 during the night hours so that you can have undisturbed night sleep.
 
 * **No more forgotten appliances on:**
-  Monitor and control all plugged-in appliances easily with just a few clicks on your phone. Thanks to its integrated countdown timer and locally stored schedules, Shelly Plug S MTR Gen3 can automatically switch off any forgotten device after an hour to save energy.
-  Example: Iron, smaller ovens, heating electrical radiators
+   Monitor and control all plugged-in appliances easily with just a few clicks on your phone. Thanks to its integrated countdown timer and locally stored schedules, Shelly Plug S MTR Gen3 can automatically switch off any forgotten device after an hour to save energy.
+   Example: Iron, smaller ovens, heating electrical radiators
 
 * **Avoid energy waste by automating your electrical appliances:**
-  Automate appliances in the office that are not used at night or over the weekend by simply adding Shelly Plug S MTR Gen3. Now, you can set smart schedules that will turn off the power to all unused electrical appliances between 7:00 PM and 7:00 AM during the weekdays and between 7:00 PM on Friday and 7:00 AM on Monday. That way, you will cut the energy consumption of these devices in half, which will result in significant optimization of the monthly energy cost.
-  Example: Using schedules, automate smaller ovens, heating electrical radiators, IR heaters
+   Automate appliances in the office that are not used at night or over the weekend by simply adding Shelly Plug S MTR Gen3. Now, you can set smart schedules that will turn off the power to all unused electrical appliances between 7:00 PM and 7:00 AM during the weekdays and between 7:00 PM on Friday and 7:00 AM on Monday. That way, you will cut the energy consumption of these devices in half, which will result in significant optimization of the monthly energy cost.
+   Example: Using schedules, automate smaller ovens, heating electrical radiators, IR heaters
 
 * **Air purifier that follows the air conditions:**
-  If you are living in a big city, the air can get pretty polluted, especially during the fall and winter seasons. Thanks to Shelly Plug S MTR Gen3 scripting functionalities, you can extract data straight from the air pollution control and set your old air purifier at home to turn on when the air pollution levels outside increase.
-  Example: Using scripting you can automate an Air purifier appliance and turn it on/off based on 3rd party data.
+   If you are living in a big city, the air can get pretty polluted, especially during the fall and winter seasons. Thanks to Shelly Plug S MTR Gen3 scripting functionalities, you can extract data straight from the air pollution control and set your old air purifier at home to turn on when the air pollution levels outside increase.
+   Example: Using scripting you can automate an Air purifier appliance and turn it on/off based on 3rd party data.
 
 * **Mildly dimmed night light for children's comfort:**
-  You can now set the color and the level of glow for your Shelly Plug S MTR Gen3 LED indication and use it as subtle light for the kids' room at night.
+   You can now set the color and the level of glow for your Shelly Plug S MTR Gen3 LED indication and use it as subtle light for the kids' room at night.
 
 Integrations
 ----------
 
-### Amazon Alexa supported capabilities ###
+### Amazon Alexa supported capabilities  ###
 
 Yes
 
-### Google Smart Home supported traits ###
+### Google Smart Home supported traits  ###
 
 Yes
 
-### Samsung SmartThings supported capabilities ###
+### Samsung SmartThings supported capabilities  ###
 
 Yes
 
@@ -95,11 +98,11 @@ Simplified internal schematics
 Device electrical interfaces
 ----------
 
-### Input ###
+### Input  ###
 
 * 1 CEE 7/7 plug
 
-### Output ###
+### Output  ###
 
 * 1 CEE 7/3 (Type-F / Schuko) socket
 
@@ -133,7 +136,7 @@ Supported load types
 User interface
 ----------
 
-### Inputs ###
+### Inputs  ###
 
 * One push button
 
@@ -145,7 +148,7 @@ User interface
 
   * Press and hold for 10 sec to factory reset (Possible up to 60 sec after plugging in in the Device).
 
-### Outputs ###
+### Outputs  ###
 
 * LED indication
 
@@ -191,7 +194,7 @@ Specifications
 |            Quantity            |                                         Value                                         |
 |--------------------------------|---------------------------------------------------------------------------------------|
 |          **Physical**          |                                                                                       |
-|         Size (HxWxD):          |                       44x44x70 ±0.5 mm / 1.73x1.73x2.75 ±0.02 in                      |
+|         Size (HxWxD):          |                      44x44x70 ±0.5 mm / 1.73x1.73x2.75 ±0.02 in                       |
 |            Weight:             |                                60 ±1 g / 2.08 ±0.04 oz                                |
 |      Compatible sockets:       |                CEE 7/1, CEE 7/3 (Type F / Schuko) or CEE 7/5 (Type E)                 |
 |       Compatible plugs:        |      CEE 7/2, CEE 7/4 (Type F / Schuko), CEE 7/7, CEE 7/16 (Type C) or CEE 7/17       |
@@ -263,20 +266,24 @@ Components and APIs
 Compliance
 ----------
 
-* [Shelly Plug S Gen3 multilingual EU declaration of conformity 224 2025-12-05.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20Gen3%20multilingual%20EU%20declaration%20of%20conformity%20224%202025-12-05.pdf)
+* [Shelly Plug S Gen3 multilingual EU declaration of conformity 224 2025-12-05.pdf](https://kb.shelly.cloud/__attachments/a_44bd5a2c3ef7baad345ab0deb71433551032d32a075f19e28d0db8d82e399c3b/Shelly%20Plug%20S%20Gen3%20multilingual%20EU%20declaration%20of%20conformity%20224%202025-12-05.pdf?cb=d1659b0f1592bfcf34d7eb3aabb621ac)
 
-* [Shelly Plug S MTR Gen3 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%20Plug%20S%20MTR%20Gen3%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf)
+* [Shelly Plug S MTR Gen3 UK PSTI ACT Statement of compliance.pdf](https://kb.shelly.cloud/__attachments/a_020f680a1c88dc45820479350e750bc3e4d5d8cd059f85bb8aa26e8601087915/Shelly%20Plug%20S%20MTR%20Gen3%20UK%20PSTI%20ACT%20Statement%20of%20compliance.pdf?cb=f59e6e4d93e9f7991e7690b1b74e9931)
 
-Compliance archive
+<details class="expand" data-component="expand"> <summary class="expand-control"> Compliance archive </summary>
 
-[Shelly Plug S Gen3 multilingual EU declaration of conformity 180 2025-07-25.pdf](https://kb.shelly.cloud/__attachments/401768449/Shelly%20Plug%20S%20Gen3%20multilingual%20EU%20declaration%20of%20conformity%20180%202025-07-25.pdf)
+[Shelly Plug S Gen3 multilingual EU declaration of conformity 180 2025-07-25.pdf](https://kb.shelly.cloud/__attachments/a_30e83d692d1022a1e287770e402049713f9708aa75eb8b06cd18466e85b31e6b/Shelly%20Plug%20S%20Gen3%20multilingual%20EU%20declaration%20of%20conformity%20180%202025-07-25.pdf)
+
+</details>
 
 Printed user guide
 ----------
 
-* [Plug S MTR Gen 3 multilingual printed user and safety guide.pdf](https://kb.shelly.cloud/__attachments/391315459/Plug%20S%20MTR%20Gen%203%20multilingual%20printed%20user%20and%20safety%20guide.pdf)
+* [Plug S MTR Gen 3 multilingual printed user and safety guide.pdf](https://kb.shelly.cloud/__attachments/a_075912de0106171f6da2ef879dce6ccae67d6944fa64e4d1f1e6e235583c2ab9/Plug%20S%20MTR%20Gen%203%20multilingual%20printed%20user%20and%20safety%20guide.pdf)
 
 * [Ръководство за употреба и безопасност](https://kb.shelly.cloud/knowledge-base/plug-s-mtr-gen3)
 
 Installation guides
 ----------
+
+ // Mark block images on the first level as breakout so they can grow wider than the article content. document.querySelectorAll('.article-body \> .theme-block-image [data-component="image"]').forEach((element) =\> { const propertyValue = element.style.getPropertyValue('--width'); if (!propertyValue) { return; } if (parseInt(propertyValue) \>= 760) { element.closest('.theme-block-image').classList.add('theme-block-image--breakout'); } }); // Remove the inline size on page layouts as this would lead to layouts breaking out of the article content. document.querySelectorAll('.article-body [data-component="layout-section"]').forEach((element) =\> { const propertyValue = element.style.getPropertyValue('--inline-size'); if (!propertyValue) { return; } // ONLY for this very specific width (Confluence default) if (parseInt(propertyValue) === 760) { element.style.removeProperty('--inline-size'); } }) // Set the initial state of the navigation toggle to prevent shifting in the UI try { const navigationToggle = document.querySelector('#navigator-toggle'); const navigationState = localStorage.getItem('theme-navigation-state'); if (navigationState === 'collapsed' && navigationToggle) { navigationToggle.setAttribute('aria-expanded', 'false'); } } catch (error) { console.error(error); }

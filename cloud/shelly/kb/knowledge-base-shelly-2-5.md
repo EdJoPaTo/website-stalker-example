@@ -1,3 +1,6 @@
+On this Page
+----------
+
 Shelly 2.5
 ==========
 
@@ -49,17 +52,17 @@ Simplified internal schematics
 Device electrical interfaces
 ----------
 
-### Inputs ###
+### Inputs  ###
 
 * 2 switch/button input on screw terminal
 
 * 3 power supply inputs on screw terminals: 1 N and 2 L
 
-### Outputs ###
+### Outputs  ###
 
 * 2 relay outputs with power measurement on screw terminal
 
-### Add-on interface ###
+### Add-on interface  ###
 
 * Shelly proprietary serial interface
 
@@ -95,7 +98,7 @@ Supported load types
 User interface
 ----------
 
-### Inputs ###
+### Inputs  ###
 
 * One (Reset) button
 
@@ -103,79 +106,79 @@ User interface
 
   * Press and hold for 10 seconds to factory reset the Device.
 
-### Outputs ###
+### Outputs  ###
 
 * LED (Red) indication
 
   * AP (Access Point) enabled and Wi-Fi disabled:
-    1 second `ON` / ¼ second `OFF`
+     1 second `ON` / ¼ second `OFF`
 
   * Wi-Fi enabled, but not connected to a Wi-Fi network:
-    2 second `ON` / ¼ seconds `OFF`
+     2 second `ON` / ¼ seconds `OFF`
 
   * Connected to a Wi-Fi network:
-    Constantly `ON`
+     Constantly `ON`
 
   * Cloud enabled, but not connected:
-    1 second `ON` /5 seconds `OFF`
+     1 second `ON` /5 seconds `OFF`
 
   * Connected to Shelly Cloud:
-    Constantly `ON`
+     Constantly `ON`
 
   * OTA (Over the Air Update):
-    ½ sec `ON` / ½ second `OFF`
+     ½ sec `ON` / ½ second `OFF`
 
   * Button pressed and held for 5 seconds:
-    ¼ second `ON` / ¼ second `OFF`
+     ¼ second `ON` / ¼ second `OFF`
 
   * Button presses and held for 10 seconds:
-    ⅛ second `ON` / ⅛ second `OFF`
+     ⅛ second `ON` / ⅛ second `OFF`
 
 The list above starts with the initial device status and the lowest priority. Every next state cancels the previous one.
 
 Specifications
 ----------
 
-|            Type            |                                          Value                                           |
-|----------------------------|------------------------------------------------------------------------------------------|
-|        **Physical**        |                                                                                          |
-|       Size (HxWxD):        |                        36x39x17 ±0.5 mm / 1.42x1.54x0.67 ±0.02 in                        |
-|          Weight:           |                                                                                          |
-|         Mounting:          |                                       Wall console                                       |
-|Screw terminals max torque: |                                    0.4 Nm / 3.5 lbin                                     |
-|  Conductor cross section:  |                              0.5 to 1.5 mm² / 20 to 16 AWG                               |
-| Conductor stripped length: |                               5 to 6 mm / 0.20 to 0.24 in                                |
-|      Shell material:       |                                         Plastic                                          |
-|           Color:           |                                          Black                                           |
-|     **Environmental**      |                                                                                          |
-|    Ambient temperature:    |                            \-20 °C to 40 °C / -5 °F to 105 °F                            |
-|          Humidity          |                                     30 % to 70 % RH                                      |
-|       Max. altitude        |                                     2000 m / 6562 ft                                     |
-|       **Electrical**       |                                                                                          |
-|       Power supply:        |                               110 - 240 VAC / 30 - 50 VDC                                |
-|     Power consumption:     |                                          \< 1 W                                          |
-|**Output circuits ratings** |                                                                                          |
-| Max switching voltage AC:  |                                          240 V                                           |
-| Max switching voltage DC:  |                                           50 V                                           |
-| Max switching current AC:  |                             10 A (per channel), 20 A (total)                             |
-| Max switching current DC:  |                             10 A (per channel), 20 A (total)                             |
-|    **Sensors, meters**     |                                                                                          |
-|Internal-temperature sensor:|                                           Yes                                            |
-|       Wattmeter (AC)       |                                           Yes                                            |
-|         **Radio**          |                                                                                          |
-|          RF band:          |                                     2401 - 2495 MHz                                      |
-|       Max. RF power:       |                                         \<20 dBm                                         |
-|      Wi-Fi protocol:       |                                       802.11 b/g/n                                       |
-|        Wi-Fi Range:        |Up to 30 m / 100 ft indoors and 50 m / 160 ft outdoors  <br/>(Depends on local conditions)|
-|          **MCU**           |                                                                                          |
-|            CPU:            |                                         ESP8266                                          |
-|           Flash:           |                                           2 MB                                           |
-| **Firmware capabilities**  |                                                                                          |
-|         Schedules:         |                                            20                                            |
-|  Webhooks (URL actions):   |                                 12 with 5 URLs per hook                                  |
-|         Scripting:         |                                            No                                            |
-|           MQTT:            |                                           Yes                                            |
-|           CoAP:            |                                           Yes                                            |
+|            Type            |                                           Value                                            |
+|----------------------------|--------------------------------------------------------------------------------------------|
+|        **Physical**        |                                                                                            |
+|       Size (HxWxD):        |                         36x39x17 ±0.5 mm / 1.42x1.54x0.67 ±0.02 in                         |
+|          Weight:           |                                                                                            |
+|         Mounting:          |                                        Wall console                                        |
+|Screw terminals max torque: |                                     0.4 Nm / 3.5 lbin                                      |
+|  Conductor cross section:  |                               0.5 to 1.5 mm² / 20 to 16 AWG                                |
+| Conductor stripped length: |                                5 to 6 mm / 0.20 to 0.24 in                                 |
+|      Shell material:       |                                          Plastic                                           |
+|           Color:           |                                           Black                                            |
+|     **Environmental**      |                                                                                            |
+|    Ambient temperature:    |                             \-20 °C to 40 °C / -5 °F to 105 °F                             |
+|          Humidity          |                                      30 % to 70 % RH                                       |
+|       Max. altitude        |                                      2000 m / 6562 ft                                      |
+|       **Electrical**       |                                                                                            |
+|       Power supply:        |                                110 - 240 VAC / 30 - 50 VDC                                 |
+|     Power consumption:     |                                           \< 1 W                                           |
+|**Output circuits ratings** |                                                                                            |
+| Max switching voltage AC:  |                                           240 V                                            |
+| Max switching voltage DC:  |                                            50 V                                            |
+| Max switching current AC:  |                              10 A (per channel), 20 A (total)                              |
+| Max switching current DC:  |                              10 A (per channel), 20 A (total)                              |
+|    **Sensors, meters**     |                                                                                            |
+|Internal-temperature sensor:|                                            Yes                                             |
+|       Wattmeter (AC)       |                                            Yes                                             |
+|         **Radio**          |                                                                                            |
+|          RF band:          |                                      2401 - 2495 MHz                                       |
+|       Max. RF power:       |                                          \<20 dBm                                          |
+|      Wi-Fi protocol:       |                                        802.11 b/g/n                                        |
+|        Wi-Fi Range:        |Up to 30 m / 100 ft indoors and 50 m / 160 ft outdoors   <br/> (Depends on local conditions)|
+|          **MCU**           |                                                                                            |
+|            CPU:            |                                          ESP8266                                           |
+|           Flash:           |                                            2 MB                                            |
+| **Firmware capabilities**  |                                                                                            |
+|         Schedules:         |                                             20                                             |
+|  Webhooks (URL actions):   |                                  12 with 5 URLs per hook                                   |
+|         Scripting:         |                                             No                                             |
+|           MQTT:            |                                            Yes                                             |
+|           CoAP:            |                                            Yes                                             |
 
 Basic wiring diagram
 ----------
@@ -183,7 +186,7 @@ Basic wiring diagram
 |   |   |   |
 |---|---|---|
 
-### Legend ###
+### Legend  ###
 
 |**Terminals**|                             |**Wires**|                         |
 |-------------|-----------------------------|---------|-------------------------|
@@ -212,12 +215,12 @@ Components and APIs
 Printed User Guide
 ----------
 
-[Download printed user guide - English, Deutsch, Italiano, Español, Português, Français](https://kb.shelly.cloud/__attachments/65994767/Download%20printed%20user%20guide%20-%20English,%20Deutsch,%20Italiano,%20Espa%C3%B1ol,%20Portugu%C3%AAs,%20Fran%C3%A7ais)
+[Download printed user guide - English, Deutsch, Italiano, Español, Português, Français](https://kb.shelly.cloud/__attachments/a_3353d814fbd19c041e7a4038e9779d25db6f69a834ac93875389995d35870b60/Download%20printed%20user%20guide%20-%20English,%20Deutsch,%20Italiano,%20Espa%C3%B1ol,%20Portugu%C3%AAs,%20Fran%C3%A7ais?cb=d1c0f99c2403628a89c12660d0ebcb03)
 
 Compliance
 ----------
 
-* [Shelly 2.5 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/266174494/Shelly%202.5%20multilingual%20EU%20declaration%20of%20conformity.pdf)
+* [Shelly 2.5 multilingual EU declaration of conformity.pdf](https://kb.shelly.cloud/__attachments/a_34864cf4477bed1a8f274cd8740c078af152952d4c75569a5aba251572bf4c9b/Shelly%202.5%20multilingual%20EU%20declaration%20of%20conformity.pdf)
 
 Installation guides
 ----------
@@ -225,13 +228,13 @@ Installation guides
 Projects
 ----------
 
-#### Home Automation: Roller Shutters, Lights, Scenes ####
+#### Home Automation: Roller Shutters, Lights, Scenes  ####
 
 A guide on how to configure and control your roller shutters and ambient of lights, connected to Shelly 2.5, using Amazon Alexa. If you also have a Shelly Door/Window sensor, you can learn how to define a scene to automatically control roller shutters or lights as a function of day time and main door status.
 
 [Learn More](https://www.instructables.com/id/Home-Automation-Roller-Shutters-Lights-Scenes/)
 
-#### Genius Natural Beer Cooler With Wow Effect Controlled With Shelly Smart Device ####
+#### Genius Natural Beer Cooler With Wow Effect Controlled With Shelly Smart Device  ####
 
 Create your very own natural beer cooler easily from drain pipes. The beer will be cooled underneath the earth and with an electrically driven motor it comes up if you want some. The genius beer cooler is controlled by a Shelly wifi switch which can be controlled via Siri or Alexa. Just say: “Siri (or Alexa) bring beer”.
 
@@ -240,14 +243,16 @@ Create your very own natural beer cooler easily from drain pipes. The beer will 
 Reviews
 ----------
 
-#### We Smart ####
+#### We Smart  ####
 
 [Shelly 2.5 best way to install](https://www.youtube.com/watch?v=X96PoQ8H-dc)
 
-#### Csongor Varga ####
+#### Csongor Varga  ####
 
 [Shelly 2.5 – dual channel Wi-Fi relay with roller shutter mode](https://www.youtube.com/watch?v=DIPzbCsSaa4)
 
-#### The Hook Up ####
+#### The Hook Up  ####
 
 [Does UL Listing Make Products Safer? Interview with Shelly about UL Certification of the Shelly 2.5](https://www.youtube.com/watch?v=92b26PI6Z3c)
+
+ // Mark block images on the first level as breakout so they can grow wider than the article content. document.querySelectorAll('.article-body \> .theme-block-image [data-component="image"]').forEach((element) =\> { const propertyValue = element.style.getPropertyValue('--width'); if (!propertyValue) { return; } if (parseInt(propertyValue) \>= 760) { element.closest('.theme-block-image').classList.add('theme-block-image--breakout'); } }); // Remove the inline size on page layouts as this would lead to layouts breaking out of the article content. document.querySelectorAll('.article-body [data-component="layout-section"]').forEach((element) =\> { const propertyValue = element.style.getPropertyValue('--inline-size'); if (!propertyValue) { return; } // ONLY for this very specific width (Confluence default) if (parseInt(propertyValue) === 760) { element.style.removeProperty('--inline-size'); } }) // Set the initial state of the navigation toggle to prevent shifting in the UI try { const navigationToggle = document.querySelector('#navigator-toggle'); const navigationState = localStorage.getItem('theme-navigation-state'); if (navigationState === 'collapsed' && navigationToggle) { navigationToggle.setAttribute('aria-expanded', 'false'); } } catch (error) { console.error(error); }
