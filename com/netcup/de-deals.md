@@ -23,11 +23,11 @@ Welche Domain holt den Titel? Bei netcup treten eine Auswahl an passenden Lände
 
 * Verfolge unser spannendes Match bis zum 19.07.2026.
 
-* Alle (20)
+* Alle (17)
 * Webhosting
 * Root-Server
 * VPS
-* Domains  (20)
+* Domains  (17)
 * Andere Flash Deals (0)
 
 Domains
@@ -200,34 +200,6 @@ pro Monat
 
 Domains
 
-### .cz Domain ###
-
- 46 % Rabatt
-
-statt 3,00 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-1,61 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.cz-domain-wm26)
-
-Domains
-
 ### .co.uk Domain ###
 
  54 % Rabatt
@@ -281,34 +253,6 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.mx-domain-wm26)
-
-Domains
-
-### .nz Domain ###
-
- 30 % Rabatt
-
-statt 3,00 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-2,11 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.nz-domain-wm26)
 
 Domains
 
@@ -536,34 +480,6 @@ pro Monat
 
 Domains
 
-### .tr Domain ###
-
- 21 % Rabatt
-
-statt 11,23 €
-
-* API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-8,83 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.tr-domain-wm26)
-
-Domains
-
 ### .com.br Domain ###
 
  13 % Rabatt
@@ -589,6 +505,90 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.com.br-domain-wm26)
+
+Domains
+
+ Deal ausgeschieden
+
+### .cz Domain ###
+
+ 46 % Rabatt
+
+statt 3,00 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+1,61 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .nz Domain ###
+
+ 30 % Rabatt
+
+statt 3,00 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+2,11 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .tr Domain ###
+
+ 21 % Rabatt
+
+statt 11,23 €
+
+* API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+8,83 €
+
+(inkl. 19% MwSt.)
 
 So sicherst du dir deinen 5 € Gutschein
 ----------
