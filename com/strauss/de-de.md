@@ -1,26 +1,37 @@
-Perfekt für
-sonnige Tage
+[](https://www.strauss.com/de/de/warnwesten/warnschutz-funktions-weste-e-s-ambition-3210940-84703-1144.html?itemorigin=startseite_fs26)
+
+[](https://www.strauss.com/de/de/arbeitsshirts/funktions-t-shirt-e-s-ambition-3107160-20532-1498.html?itemorigin=startseite_fs26)
+
+[](https://www.strauss.com/de/de/westen/reflex-funktions-weste-e-s-ambition-3210960-84710-1498.html?itemorigin=startseite_fs26)
+
+[](https://www.strauss.com/de/de/arbeitsshirts-damen/funktions-t-shirt-e-s-ambition-damen-3107740-20582-1498.html?itemorigin=startseite_fs26)
+
+###  % Workwear Sale %  ###
+
+---
+
+ Starke Workwear
+zu starken Preisen
 ----------
 
 ---
 
- Outdoor-Kleidung für Arbeit & Abenteuer – maximal flexibel, gut geschützt
+[alle Produkte](https://www.strauss.com/de/de/sale-bekleidung/?itemorigin=startseite_fs26)
 
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail/)
+für Herren
 
- \+2
+für Damen
 
- Zip-Off Funktions
-Hose e.s.trail
+ SALE
+---
 
-[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5) [](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5)
+ Bis zu
+---
 
- \+2
+ \-49%
+---
 
- Zip-Off Funktions
-Hose e.s.trail
-
-[](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5) [](https://www.strauss.com/de/de/bundhosen/zip-off-funktions-hose-e-s-trail-3165040-96140-1.html?amp;itemorigin=startseite_FS26_Step5)
+[](https://www.strauss.com/de/de/sale-bekleidung/?itemorigin=startseite_fs26)
 
 Alles für den Job:
 
@@ -30,74 +41,71 @@ Alles für den Job:
 
 ---
 
-[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21198-1953.html?amp;itemorigin=startseite_FS26_Step5)
+Luftige
+Outfits
+für heiße
+Tage
 
-[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21107-1950.html?amp;itemorigin=startseite_FS26_Step5)
-
-[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21109-1954.html?amp;itemorigin=startseite_FS26_Step5)
-
-[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21105-1946.html?amp;itemorigin=startseite_FS26_Step5)
-
-[](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21195-1947.html?amp;itemorigin=startseite_FS26_Step5)
-
- NEU
----
-
- NEU
----
-
- NEU
----
-
- Kindershirts mit coolen Motiven
 ----------
 
 ---
 
- Kindershirts mit coolen Motiven
+[](https://www.strauss.com/de/de/arbeitsshorts/short-e-s-motion-3160530-65333-362.html?itemorigin=startseite_fs26)
+
+###  Shorts  ###
+
 ---
 
- Kindershirts mit coolen Motiven
+[für Herren](https://www.strauss.com/de/de/arbeitsshorts/?itemorigin=startseite_fs26)
+
+[für Damen](https://www.strauss.com/de/de/arbeitsshorts-damen/?itemorigin=startseite_fs26)
+
+[für Kinder](https://www.strauss.com/de/de/kinder-shorts/?itemorigin=startseite_fs26)
+
+[](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-e-s-motion-ten-pure-3106430-21603-1551.html?itemorigin=startseite_fs26)
+
+###  Shirts  ###
+
 ---
 
- Engelbird - auf diesen
-Strauss fliegen alle!
+[für Herren](https://www.strauss.com/de/de/arbeitsshirts/?itemorigin=startseite_fs26)
+
+[für Damen](https://www.strauss.com/de/de/arbeitsshirts-damen/?itemorigin=startseite_fs26)
+
+[für Kinder](https://www.strauss.com/de/de/kinder-shirts-polos/?itemorigin=startseite_fs26)
+
+[](https://www.strauss.com/de/de/caps/cap-e-s-classic-3400740-7820811-1.html?itemorigin=startseite_fs26)
+
+###  Caps  ###
+
+---
+
+[für Herren](https://www.strauss.com/de/de/caps/?itemorigin=startseite_fs26)
+
+[für Damen](https://www.strauss.com/de/de/caps-damen/?itemorigin=startseite_fs26)
+
+[für Kinder](https://www.strauss.com/de/de/kinder-muetzen-caps/?itemorigin=startseite_fs26)
+
+[](https://www.strauss.com/de/de/arbeitsshirts/e-s-funktions-zip-t-shirt-uv-3102120-87217-1088.html?itemorigin=startseite_fs26)
+
+ Sichtbar
+geschützt
 ----------
 
 ---
 
-[alle entdecken](https://www.strauss.com/de/de/kinder-shirts-polos/e-s-t-shirt-cotton-stretch-engelbird-kinder-3108230-21105-1946.html)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html)
-
- Perfekt für den Sommer: Sportliche Sicherheitsschuhe mit Stahlkappe & aus robustem Canvas-Material!
-
- Profi-Sneaker: extra luftig & leicht
-----------
+###  UV-Komplettschutz im coolen Style  ###
 
 ---
 
-[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
+[zu allen UV-Schutzprodukten](https://www.strauss.com/de/de/uv-schutz/)
 
- \+6
+100 % UV-Schutz (UV400)
+**Race Sonnenbrille e.s.ambition**
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html?amp;itemorigin=startseite_FS26_Step5&__mode=stripped)
+[](https://www.strauss.com/de/de/schutzbrillen/race-sonnenbrille-e-s-ambition-7040610-7476191-685.html?itemorigin=startseite_fs26)
 
- S1 Sicherheitsschuhe
-e.s. Yatala low
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html?amp;itemorigin=startseite_FS26_Step5&__mode=stripped)
-
- \+7
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html?amp;itemorigin=startseite_FS26_Step5&__mode=stripped)
-
- S1 Sicherheitsschuhe
-e.s. Yatala low
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html?amp;itemorigin=startseite_FS26_Step5&__mode=stripped)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-yatala-low-1101750-93124-35.html)
+Die BG BAU fördert aktuell einen Teil der Schutz-Ausrüstung gegen UV-Strahlung. Informieren Sie sich direkt unter **[www.bgbau.de!](https://www.bgbau.de/)**
 
  SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 
@@ -105,7 +113,7 @@ e.s. Yatala low
 
  SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=e29547a9-dc3e-46e8-be82-c63fdd72fa44)
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
  Set-Highlight
 ----------
@@ -118,9 +126,9 @@ e.s. Yatala low
  Set-Highlight
 ---
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=e29547a9-dc3e-46e8-be82-c63fdd72fa44)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=e29547a9-dc3e-46e8-be82-c63fdd72fa44)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
  Strauss Aktionssets
 ----------
@@ -146,6 +154,14 @@ zusammenstellen & kräftig sparen.
 
 [](https://www.strauss.com/de/de/flexible-sets/)
 
+**Alles für den Berufsstart:**
+
+Von personalisierter Workwear bis zur Ausrüstung
+
+----------
+
+---
+
 ###  Druck & Stick - ab 1 Stück  ###
 
 ---
@@ -158,28 +174,7 @@ gestalten
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_FS26)
-
-zu den Produkten
-
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_FS26)
-
-**Druck:**
-Easytransfer
----
-
- Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
-
-**Stick:**
-Direkteinstickung
----
-
- Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
-
-*
-*
-*
-*
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_fs26)
 
 für Arbeit, Vereine, Events uvm.
 
@@ -187,25 +182,46 @@ unkompliziert gestalten & bestellen
 
 über 400 verfügbare Motive + Motivupload
 
- Power-Stoff:
-Ripstop light
-----------
+###
+
+Ausstattung für Berufsstarter
+
+ ###
 
 ---
 
- Die perfekte Arbeitskleidung für den Sommer:
-e.s.t:aktik - aus ultraleichtem & elastischem Ripstop light.
+ Bundhose + Short e.s.motion ten
 
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
+ \+ gratis Lunchbag
 
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-t-aktik/)
+[Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0035?itemorigin=startseite_fs26)
 
-[](https://www.strauss.com/de/de/arbeitshemden/arbeitshemd-e-s-t-aktik-langarm-3110890-87392-1875.html?amp;itemorigin=startseite_FS26_Step5)
+[Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0031?itemorigin=startseite_fs26)
 
-[](https://www.strauss.com/de/de/arbeitsshorts/short-e-s-t-aktik-light-ripstop-3350980-62811-1479.html?amp;itemorigin=startseite_FS26_Step5)
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0035?itemorigin=startseite_fs26)
+
+ Werkzeug-Set Allround Meister
+
+ \+ Werkzeugtrolley
+
+[](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-allround-meister-werkzeugtrolley-7148830-5505176-0.html?itemorigin=startseite_fs26)
+
+[](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-allround-meister-werkzeugtrolley-7148830-5505176-0.html?itemorigin=startseite_fs26)
+
+ Werkzeug-Set Elektro Meister pro
+
+ \+ Werkzeugtrolley
+
+[](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-elektro-meister-pro-werkzeugtrolley-7146170-5505181-0.html?itemorigin=startseite_fs26)
+
+[](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-elektro-meister-pro-werkzeugtrolley-7146170-5505181-0.html?itemorigin=startseite_fs26)
+
+[alle Werkzeugsets](https://www.strauss.com/de/de/sale-aktions-sets-werkzeuge/?itemorigin=startseite_fs26)
 
  e.s.work
 &travel
+----------
+
 ---
 
  Taschen, Rucksäcke & Koffer
@@ -214,31 +230,13 @@ e.s.t:aktik - aus ultraleichtem & elastischem Ripstop light.
 
  praktische Features
 
+[alle Taschen entdecken](https://www.strauss.com/de/de/workandtravel?itemorigin=startseite_fs26)
+
  Perfekt für die Reise
 – mehr Komfort, mehr Ordnung,
 mehr Reisespaß!
 
- Spar-Set: Work&Travel II
----
-
- Nur solange der Vorrat reicht.
-
- 1x Duffle Bag-Reisetasche
-
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0052?variantId=614fcaab-108e-4fe4-a1f7-8d86ed026455)
-
- 1x Rolltop-Rucksack
-
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0052?variantId=b7002fbe-f5aa-45ee-bb58-6757d5caee79)
-
- \+ gratis
----
-
- 1x Schuh- & Wäschetasche
-
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0052)
-
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0052)
+[](https://www.strauss.com/de/de/workandtravel?itemorigin=startseite_fs26)
 
  Von Workwear bis Werkzeug – Über 40.000 Produkte
 ----------
