@@ -602,11 +602,7 @@ sites:
   - url: https://kb.shelly.cloud/knowledge-base/devices
     editors:
       - css_select: main
-      - css_remove: style, svg, figure, img, .breadcrumbs, .no-print, .close-button
-      - css_flatten: details, summary a
-      - css_tag_replace:
-          selector: summary
-          replace: h2
+      - css_remove: style, script, svg, figure, img, .breadcrumbs, .no-print, .close-button, .toc-heading
       - html_url_canonicalize
       - html_markdownify
   - url:
@@ -616,7 +612,7 @@ sites:
       - https://kb.shelly.cloud/knowledge-base/shelly-rgbw2
     editors:
       - css_select: main
-      - css_remove: style, svg, figure, img, .breadcrumbs, .no-print, .close-button
+      - css_remove: style, script, svg, figure, img, .breadcrumbs, .no-print, .close-button, .toc-heading
       - html_url_canonicalize
       - regex_replace:
           pattern: \?inst-v=[a-f\d-]+

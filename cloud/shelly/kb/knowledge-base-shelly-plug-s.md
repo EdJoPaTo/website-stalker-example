@@ -1,6 +1,3 @@
-On this Page
-----------
-
 Shelly Plug S
 ==========
 
@@ -65,5 +62,3 @@ Shelly Plug can automatically monitor and control lighting, heating and any othe
 |            Range            |up to 50 m outdoors and up to 30 m indoors (depending on the building materials)|
 |       **DIMENSIONS**        |                                                                                |
 |            Size             |                                 46 mm x 69 mm                                  |
-
- // Mark block images on the first level as breakout so they can grow wider than the article content. document.querySelectorAll('.article-body \> .theme-block-image [data-component="image"]').forEach((element) =\> { const propertyValue = element.style.getPropertyValue('--width'); if (!propertyValue) { return; } if (parseInt(propertyValue) \>= 760) { element.closest('.theme-block-image').classList.add('theme-block-image--breakout'); } }); // Remove the inline size on page layouts as this would lead to layouts breaking out of the article content. document.querySelectorAll('.article-body [data-component="layout-section"]').forEach((element) =\> { const propertyValue = element.style.getPropertyValue('--inline-size'); if (!propertyValue) { return; } // ONLY for this very specific width (Confluence default) if (parseInt(propertyValue) === 760) { element.style.removeProperty('--inline-size'); } }) // Set the initial state of the navigation toggle to prevent shifting in the UI try { const navigationToggle = document.querySelector('#navigator-toggle'); const navigationState = localStorage.getItem('theme-navigation-state'); if (navigationState === 'collapsed' && navigationToggle) { navigationToggle.setAttribute('aria-expanded', 'false'); } } catch (error) { console.error(error); }

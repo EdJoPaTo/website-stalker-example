@@ -3,9 +3,7 @@ Devices
 
 Learn everything you need about Shelly devices – features, applications and specifications.
 
- Shelly Gen1 devices
-----------
-
+[Shelly Gen1 devices](https://kb.shelly.cloud/knowledge-base/shelly-gen1-devices)
 * [Shelly 1](https://kb.shelly.cloud/knowledge-base/shelly-1)
 * [Shelly 1PM](https://kb.shelly.cloud/knowledge-base/shelly-1pm)
 * [Shelly 1L](https://kb.shelly.cloud/knowledge-base/shelly-1l)
@@ -31,9 +29,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Motion](https://kb.shelly.cloud/knowledge-base/shelly-motion)
 * [Shelly Motion 2](https://kb.shelly.cloud/knowledge-base/shelly-motion-2)
 
- Shelly Plus devices
-----------
-
+[Shelly Plus devices](https://kb.shelly.cloud/knowledge-base/shelly-plus-devices)
 * [Shelly Plus 1](https://kb.shelly.cloud/knowledge-base/shelly-plus-1)
 * [Shelly Plus 1 UL](https://kb.shelly.cloud/knowledge-base/shelly-plus-1-ul)
 * [Shelly Plus 1PM](https://kb.shelly.cloud/knowledge-base/shelly-plus-1pm)
@@ -54,9 +50,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Plus RGBW PM](https://kb.shelly.cloud/knowledge-base/shelly-plus-rgbw-pm)
 * [Shelly Mini devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-devices)
 
- Shelly Gen3 devices
-----------
-
+[Shelly Gen3 devices](https://kb.shelly.cloud/knowledge-base/shelly-gen3-devices)
 * [Shelly 1 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-1-gen3)
 * [Shelly 1PM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen3)
 * [Shelly 2PM Gen3](https://kb.shelly.cloud/knowledge-base/shelly-2pm-gen3)
@@ -80,9 +74,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [The Pill by Shelly](https://kb.shelly.cloud/knowledge-base/the-pill-by-shelly)
 * [Enabling Matter support on Shelly Gen3 and newer devices](https://kb.shelly.cloud/knowledge-base/setting-up-gen3-devices-via-matter)
 
- Shelly Gen4 devices
-----------
-
+[Shelly Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-gen4-devices)
 * [Shelly 1 Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1-gen4)
 * [Shelly 1 Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1-gen4-anz)
 * [Shelly 1PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1pm-gen4)
@@ -101,9 +93,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Mini Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen4-devices)
 * [Shelly Presence Gen4](https://kb.shelly.cloud/knowledge-base/shelly-presence-gen4)
 
- Shelly Pro devices
-----------
-
+[Shelly Pro devices](https://kb.shelly.cloud/knowledge-base/shelly-pro-devices)
 * [Shelly Pro 1](https://kb.shelly.cloud/knowledge-base/shelly-pro-1)
 * [Shelly Pro 1PM](https://kb.shelly.cloud/knowledge-base/shelly-pro-1pm)
 * [Shelly Pro 2](https://kb.shelly.cloud/knowledge-base/shelly-pro-2)
@@ -124,9 +114,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly LAN Switch](https://kb.shelly.cloud/knowledge-base/shelly-lan-switch)
 * [Shelly Pro CBs](https://kb.shelly.cloud/knowledge-base/shelly-pro-cbs)
 
- Shelly BLE devices
-----------
-
+[Shelly BLE devices](https://kb.shelly.cloud/knowledge-base/shelly-ble-devices)
 * [Shelly BLU Gateway](https://kb.shelly.cloud/knowledge-base/shellyblu-gateway)
 * [Shelly BLU Button1](https://kb.shelly.cloud/knowledge-base/shellyblu-button1)
 * [Shelly BLU Door/Window](https://kb.shelly.cloud/knowledge-base/shellyblu-door-window)
@@ -148,17 +136,13 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly BLU Button Tough 1 ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-button-tough-1-zb)
 * [Shelly BLU Door/Window ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-door-window-zb)
 
- Shelly Android devices
-----------
-
+[Shelly Android devices](https://kb.shelly.cloud/knowledge-base/shelly-control-panels)
 * [Shelly Wall Display](https://kb.shelly.cloud/knowledge-base/shelly-wall-display)
 * [Shelly Wall Display X2](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-x2)
 * [Shelly Wall Display XL](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-xl)
 * [Shelly Wall Display X2i](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-x2i)
 
- Shelly Wave devices
-----------
-
+[Shelly Wave devices](https://kb.shelly.cloud/knowledge-base/shelly-wave-devices)
 * [Shelly Wave 1](https://kb.shelly.cloud/knowledge-base/shelly-wave-1)
 * [Shelly Wave 1PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-1pm)
 * [Shelly Wave 2PM](https://kb.shelly.cloud/knowledge-base/shelly-wave-2pm)
@@ -185,9 +169,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Wave Pro Shutter](https://kb.shelly.cloud/knowledge-base/shelly-wave-pro-shutter)
 * [Shelly Wave Outdoor Plug S](https://kb.shelly.cloud/knowledge-base/shelly-wave-outdoor-plug-s)
 
- Shelly Qubino Wave devices
-----------
-
+[Shelly Qubino Wave devices](https://kb.shelly.cloud/knowledge-base/shelly-qubino-wave-devices)
 * [Wave 1](https://kb.shelly.cloud/knowledge-base/wave-1-1)
 * [Wave 1PM](https://kb.shelly.cloud/knowledge-base/wave-1pm-1)
 * [Wave 2PM](https://kb.shelly.cloud/knowledge-base/wave-2pm-1)
@@ -206,20 +188,18 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Wave 1PM Mini](https://kb.shelly.cloud/knowledge-base/wave-1pm-mini-1)
 * [Wave PM Mini](https://kb.shelly.cloud/knowledge-base/wave-pm-mini-1)
 
- Accessories
-----------
-
+[Accessories](https://kb.shelly.cloud/knowledge-base/accessories)
 * [Shelly 2-Output Power Base for Wall Display](https://kb.shelly.cloud/knowledge-base/shelly-2-output-power-base-for-wall-display)
 * [Shelly Bypass](https://kb.shelly.cloud/knowledge-base/shelly-bypass)
 * [Shelly Wall Switch (1, 2 and 4)](https://kb.shelly.cloud/knowledge-base/shelly-wall-switch-1-2-and-4)
 * [RC Snubber](https://kb.shelly.cloud/knowledge-base/rc-snubber)
-* [Shelly Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-stand-1)
+* [Shelly Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-stand)
 * [Shelly Bypass for 1L/2L Gen3](https://kb.shelly.cloud/knowledge-base/shelly-bypass-for-1l-2l-gen3)
 * [Shelly Bypass for Dimmer](https://kb.shelly.cloud/knowledge-base/shelly-bypass-for-dimmer)
 * [Shelly USB Charger for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-usb-charger-for-wall-display-stand)
 * [Shelly Socket for Wall Display Stand](https://kb.shelly.cloud/knowledge-base/shelly-socket-for-wall-display-stand)
-* [Shelly 1-Channel Decoupler 120V / Shelly 4-Channel Decoupler 120V](https://kb.shelly.cloud/knowledge-base/shelly-1-channel-decoupler-120v-shelly-4-channel-d)
-* [Shelly 1-Channel Decoupler 230V / Shelly 4-Channel Decoupler 230V](https://kb.shelly.cloud/knowledge-base/shelly-1-channel-decoupler-230v-shelly-4-channel-d)
+* [Shelly 1-Channel Decoupler 120V / Shelly 4-Channel Decoupler 120V](https://kb.shelly.cloud/knowledge-base/shelly-1-channel-decoupler-120v-shelly-4-channel-decoupler-120v)
+* [Shelly 1-Channel Decoupler 230V / Shelly 4-Channel Decoupler 230V](https://kb.shelly.cloud/knowledge-base/shelly-1-channel-decoupler-230v-shelly-4-channel-decoupler-230v)
 * [Temperature sensor DS18B20 - 3.5mm jack](https://kb.shelly.cloud/knowledge-base/temperature-sensor-ds18b20-3-5mm-jack)
 * [Splitter 1 to 5 - 3.5mm Jack](https://kb.shelly.cloud/knowledge-base/splitter-1-to-5-3-5mm-jack)
 * [5-Terminal Add-on](https://kb.shelly.cloud/knowledge-base/5-terminal-add-on)
@@ -228,22 +208,19 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Cable Bracket](https://kb.shelly.cloud/knowledge-base/cable-bracket)
 * [Shelly Button Add-on](https://kb.shelly.cloud/knowledge-base/shelly-button-add-on)
 
- Amazon-compatible devices
-----------
-
+[Amazon-compatible devices](https://kb.shelly.cloud/knowledge-base/amazon-compatible-devices)
 * [Shelly AZ Plug](https://kb.shelly.cloud/knowledge-base/shelly-az-plug)
 * [Shelly AZ H&T](https://kb.shelly.cloud/knowledge-base/shelly-az-h-t)
 
- Add-ons
-----------
-
+[Add-ons](https://kb.shelly.cloud/knowledge-base/add-ons)
 * [Shelly LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-lora-add-on)
 * [Shelly Plus Add-on](https://kb.shelly.cloud/knowledge-base/shelly-plus-add-on)
 * [Shelly Pro 3EM Switch Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-3em-switch-add-on)
 * [Shelly Pro Sensor Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-sensor-add-on)
 * [Shelly Pro LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-lora-add-on)
 
- By Shelly
-----------
-
+[By Shelly](https://kb.shelly.cloud/knowledge-base/by-shelly)
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)
+
+[Shelly X](https://kb.shelly.cloud/knowledge-base/shelly-x)
+* [RAEX Smart curtain system](https://kb.shelly.cloud/knowledge-base/raex-smart-curtain-system)
