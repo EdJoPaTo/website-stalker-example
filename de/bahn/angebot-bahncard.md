@@ -20,7 +20,7 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 ### Probe BahnCard 25, 2. Klasse ###
 
-**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
+**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparpreise des Fernverkehrs (ausgenommen City-Ticket)
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard25-2-klasse)
 
@@ -30,7 +30,7 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 ### Probe BahnCard 25, 1. Klasse ###
 
-**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
+**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparpreise des Fernverkehrs (ausgenommen City-Ticket)
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard25-1-klasse)
 
@@ -40,7 +40,7 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 ### BahnCard 25, 2. Klasse ###
 
-**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
+**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparpreise des Fernverkehrs (ausgenommen City-Ticket)
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)
 
@@ -50,7 +50,7 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 ### BahnCard 25, 1. Klasse ###
 
-**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
+**25 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparpreise des Fernverkehrs (ausgenommen City-Ticket)
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25-1-klasse)
 
