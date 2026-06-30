@@ -4476,13 +4476,6 @@ Für ab dem 14. Juni 2026 gekaufte BahnCards 100 finden Sie das Deutschland-Tick
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zu-meiner-mybc100-nutzen)
 
- Die Schüler:innen-Aufpreise für IC/EC entfallen – Welche Alternative haben Schüler:innen?
-----------
-
-Schüler:innen können zukünftig weiterhin IC/EC-Aufpreise erwerben, jedoch zum Normalpreis ohne zusätzliche Preisreduzierung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/die-schueler-aufpreise-entfallen-welche-alternative-haben-schueler)
-
  Wo erhalte ich mehr Informationen zur digitalen BahnCard 100?
 ----------
 
@@ -7889,15 +7882,6 @@ Für den Super Sparpreis Gruppe und den Super Sparpreis Europa Gruppe ist eine �
 * Kinder ab 6 Jahren benötigen eine eigene Fahrkarte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-kinder-kostenfrei-mitnehmen)
-
- Kann ich meine persönlichen Daten in der App für Handy-Tickets in NRW ändern?
-----------
-
-Ja. Eine Änderung der persönlichen Daten ist im Online-Ticket-Shop unter www.onlineticket-nrw.de möglich.
-
-* [www.onlineticket-nrw.de](https://www.onlineticket-nrw.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-persoenlichen-daten-aendern-nrw)
 
  Kann ich meine Sitzplätze gezielt auswählen, zum Beispiel über einen Sitzplatz-Plan?
 ----------
@@ -15367,21 +15351,6 @@ Das Schülerticket Berlin (Tarifbereich Berlin AB) wird nur von der BVG ausgegeb
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-azubi-vmt)
 
- Welche Abo-Angebote des VRM für Schüler:innen und Azubis kann ich kaufen?
-----------
-
-**Schülermonatskarte im Abo**
-
-* Persönliches Abo für Schüler und Auszubildende
-* Gültig ab 1. eines Monats für 12 Monate
-* Abbuchung in 12 monatlichen Raten
-* Gültig im gesamten VRM-Netz
-* Für Schüler ab 15 Jahren ist der Nachweis der Berechtigung auf dem Antrag nachzuweisen
-* Bei Kündigung wird nur im ersten Vertragsjahr der Preis einzeln gekaufter Monatskarten für jeden genutzten Monat angerechnet
-* Erweiterbar mit Schüler Plus Ticket ( gültig ab 14 Uhr im verbundweit)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-azubi-vrm)
-
  Welche Abo-Angebote des VVO für Schüler:innen und Azubis kann ich kaufen?
 ----------
 
@@ -20127,22 +20096,6 @@ Kein Verkauf im Zug!
 Um Scooter und Fahrräder in der App DB Navigator anzuzeigen, tippen Sie im Menübereich auf "Umgebung" und wählen Sie anschließend die Ansicht "Fahrrad" oder "Scooter" aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sind-fahrraeder-scooter)
-
- Wo kann ich das STADT-LAND-MEER-TICKET PLUS kaufen?
-----------
-
-Das Ticket kann bis zu 6 Monate vor dem 1. Geltungstag erworben werden:
-
-* In den DB Verkaufsstellen
-* Am DB Automaten
-* Online
-* In den Zügen von DB Regio und der ODEG mit Bordpreis\*
-
-\***Ausnahme**: War bei Fahrtantritt weder eine DB Verkaufsstelle geöffnet, noch ein zur Annahme von Bargeld geeigneter betriebsbereiter Automat vorhanden, wird das Ticket im Zug ohne Bordpreis ausgegeben.
-
-[Jetzt auswählen](https://next.bahn.de/buchung/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-stadt-land-meer-ticket-kaufen)
 
  Wo und wie kann ich ein Verbund-Abo beantragen? Ab wann ist das Abo gültig?
 ----------
