@@ -14841,40 +14841,96 @@ Bitte beachten Sie:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-kostenlose-sitzplatzkontingent-bei-bahncard-100-1kl)
 
- Was ist der Unterschied zwischen Flexpreis, Sparpreis und Super Sparpreis?
+ Was ist der Unterschied zwischen Super Sparpreis, Sparpreis und Flexpreis?
 ----------
+
+Mit dem **Super Sparpreis** und **Sparpreis** reisen Sie günstig im Fernverkehr der Deutschen Bahn. Sie sind an den gebuchten Zug am gewählten Reisetag gebunden. Mit dem **Flexpreis** können Sie Ihre Fahrt am gebuchten Reisetag zu einer beliebigen Uhrzeit beginnen, Zwischenstopps machen und Ihre Reise sogar unterbrechen und am nächsten Tag fortsetzen.
+
+**Zugbindung**
+Kann ich die Züge auf meiner gebuchten Verbindung frei wählen?
+
+**Super Sparpreis und Sparpreis:**
+
+* Nein. Sie sind an den Fernverkehrszug (ICE oder IC/EC) gebunden, der auf Ihrer Fahrkarte steht.
+* Nahverkehrszüge (RE, RB oder S-Bahn) vor oder nach dem Fernverkehrszug können Sie frei wählen, wenn Ihre gebuchte Verbindung eine Teilstrecke im Nahverkehr enthält.
 
 **Flexpreis:**
 
-* Sie sind nicht an einen bestimmten Zug gebunden.
-* Sie können am Reisetag zu jeder Uhrzeit fahren.
+* Ja. Sie können am Reisetag zu jeder Uhrzeit auf der gewählten Verbindung fahren.
 * Sie können die Fahrt unterbrechen und am nächsten Tag fortsetzen.
 * Für Strecken unter 100 Kilometern haben Sie einen Tag Zeit.
-* Für Strecken über 100 Kilometer haben Sie zwei Tage Zeit.
+* Für Strecken über 100 Kilometer haben Sie 2 Tage Zeit.
+* Nahverkehrszüge (RE, RB oder S-Bahn) vor oder nach dem Fernverkehrszug können Sie frei wählen, wenn Ihre gebuchte Verbindung eine Teilstrecke im Nahverkehr enthält.
 
-**Sparpreis und Super Sparpreis:**
+**Umbuchung, Umtausch und Stornierung**
+Kann ich meine Fahrkarte umbuchen, umtauschen oder stornieren?
 
-* Sie sind an den gebuchten Fernverkehrszug gebunden.
-* Nahverkehrszüge vor oder nach dem Fernverkehrszug können Sie frei wählen (sofern das City-Ticket bei der entsprechenden Verbindung mit ausgegeben wird).
+**Super Sparpreis:**
 
-**Wichtige Bedingungen für alle Ticketarten:**
+* Umbuchung, Umtausch und Stornierung sind ausgeschlossen.
 
-* Fahrkarten sind online, im Reisezentrum oder in Agenturen als digitales Ticket ab 12 Monate im Voraus bis kurz vor der Abfahrt erhältlich.
-* Flexpreis: Sitzplatzreservierung in der 1. Klasse inklusive. In der 2. Klasse optional.
-* Umbuchungen in die 1. Klasse sind nur beim Flexpreis möglich.
-* Kinder bis einschließlich 14 Jahre reisen in Begleitung eines Reisenden ab 15 Jahren kostenfrei.
-* Die BahnCard 25 oder 50 bietet Rabatte auf alle Ticketarten.
-* Flexpreis-Tickets können bis 1 Tag vor der Reise kostenfrei umgetauscht oder storniert werden. Danach fallen Gebühren an.
-* Sparpreis-Tickets können vor dem 1. Geltungstag storniert werden – dies kostet 10 Euro. Danach ist keine Stornierung mehr möglich.
-* Super Sparpreis-Tickets sind von Umtausch und Stornierung ausgeschlossen.
-* Tickets können innerhalb von 3 Stunden nach der Buchung kostenlos storniert werden.
+**Sparpreis:**
+
+* Bis einen Tag vor dem 1. Geltungstag: gegen eine Gebühr von 10 Euro möglich.
+* Ab dem 1. Geltungstag: ausgeschlossen.
+
+**Flexpreis:**
+
+* Bis einen Tag vor dem 1. Geltungstag: kostenfrei.
+* Ab dem 1. Geltungstag: gegen eine Gebühr von 30 Euro möglich.
+* Umbuchungen in die 1. Klasse gegen Aufpreis möglich.
+
+**Sitzplatzreservierung:**
+Ist bei meinem Ticket der Sitzplatz inklusive?
+
+**Super Sparpreis und Sparpreis**
+
+* Die Sitzplatzreservierung ist nicht inklusive. Ein Sitzplatz kann kostenpflichtig hinzugebucht werden.
+
+**Flexpreis:**
+
+* 1. Klasse: ein Sitzplatz ist für die gebuchte Verbindung inklusive.
+* 2. Klasse: die Sitzplatzreservierung ist nicht inklusive. Ein Sitzplatz kann kostenpflichtig hinzugebucht werden.
 
 **City-Ticket:**
+Kann ich mit meiner ICE- oder IC/EC-Fahrkarte auch den öffentlichen Nahverkehr am Start- oder Zielbahnhof nutzen?
 
-* Flexpreis-Tickets beinhalten das City-Ticket für Fahrten im Nahverkehr der teilnehmenden Städte.
-* Super Sparpreis- und Sparpreis-Tickets können das City-Ticket gegen eine Gebühr zusätzlich enthalten.
+**Super Sparpreis und Sparpreis:**
+
+* Beim (Super) Sparpreis können Sie das City-Ticket für Fahrten im öffentlichen Nahverkehr der teilnehmenden Städte kostenpflichtig hinzubuchen.
+
+**Flexpreis:**
+
+* Beim Flexpreis ist das City-Ticket für Fahrten im öffentlichen Nahverkehr der teilnehmenden Städte inklusive.
+
+**BahnCard-Rabatt:**
+Bekomme ich einen Rabatt mit der BahnCard?
+
+**Super Sparpreis und Sparpreis:**
+
+* Mit der BahnCard 25 und 50 erhalten Sie einen Rabatt von 25 % auf Super Sparpreise und Sparpreise.
+
+**Flexpreis:**
+
+* Mit der BahnCard 25 erhalten Sie einen Rabatt von 25 % auf Flexpreise.
+* Mit der BahnCard 50 erhalten Sie einen Rabatt von 50 % auf Flexpreise.
+
+**Für alle Ticketarten (Super Sparpreis, Sparpreis, Flexpreis) gültig:**
+
+**Vorverkauf:**
+Fahrkarten erhalten Sie online, im Reisezentrum oder in Agenturen als digitales Ticket ab 12 Monaten im Voraus bis kurz vor der Abfahrt.
+
+**Kindermitnahme:**
+Kinder bis einschließlich 14 Jahre reisen in Begleitung eines Reisenden ab 15 Jahren kostenfrei, wenn Sie bei der Buchung angegeben wurden.
+
+**Sofortstornierung:**
+Tickets können innerhalb von 3 Stunden nach der Buchung kostenlos storniert werden.
 
 * [Zu den Spar- und Flexpreisen](https://www.bahn.de/angebot/spar-flexpreis)
+* [Zu Umtausch und Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+* [Zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung)
+*
+* [Zu den BahnCards](https://www.bahn.de/angebot/bahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-unterschied-zwischen-sparpreis-und-flexpreis)
 
