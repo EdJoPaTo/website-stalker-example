@@ -2989,23 +2989,6 @@ Nein, um bei der Ticketbuchung über bahn.de oder die App DB Navigator tariflich
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationaler-behindetenausweis-ermaessigung)
 
- Ist der Online-Kauf auf bahn.de sicher?
-----------
-
-Generell können Sie PayPal für die Zahlung auf bahn.de und im DB Navigator nutzen, unabhängig davon, ob Sie eingeloggt sind oder nicht.
-
-Es gibt aber folgende Ausnahmen:
-
-\- Im Fahrkartenshop
-\- Gutscheine
-\- Im Firmenkundenportal
-
-können Sie **nicht** mit PayPal bezahlen.
-
-Gutscheine, die von PayPal ausgestellt wurden, können Sie nicht auf bahn.de einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-der-online-kauf-sicher)
-
  Ist die Surfdauer zeitlich begrenzt?
 ----------
 
@@ -5672,13 +5655,6 @@ Im DB Fernverkehr reisen Sie seit Anfang 2018 auf elektrifizierten Strecken in D
 * [Mehr zum Thema Klimaschutz auf deutschebahn.com](https://nachhaltigkeit.deutschebahn.com/de/gruene-transformation/klimaschutz)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-co2-sparen)
-
- Warum wird von Einsparung bei CO₂ gesprochen?
-----------
-
-Wir wollen zeigen, dass sich unsere Fahrgäste für die klimafreundlichere Reiseart entschieden haben. Die CO₂-Sparuhr macht sichtbar, wie viele Emissionen unsere Kund:innen verhindert haben, indem sie mit Fernverkehrszügen statt dem Auto gereist sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-einsparungen-co2)
 
  Warum gibt es das Fahrgastrechte-Formular?
 ----------

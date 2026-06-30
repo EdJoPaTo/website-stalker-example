@@ -37,7 +37,7 @@ Noch Fragen?
  In unseren FAQ gibt's die Antworten!
 ----------
 
-in den FAQ
+[Mehr über die Funktion des FAQ-Bots und unsere Gedanken zur Nutzung von KI](/community/newsblog/ki-bei-wetell/). Informationen zur Nutzung deiner Daten findest du in unserer [Datenschutzerklärung](/datenschutzerklaerung#bot).
 
 Schnellauswahl an Filtern für FAQ
 

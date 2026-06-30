@@ -6370,13 +6370,6 @@ Falls in der Online-Bestellung des ICE-Abos für Ihre Strecke jedoch keine ICE-V
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-benoetige-den-service-nicht-mehr-wie-kann-ich-mein-nutzerkonto-loeschen)
 
- Ich finde für meine gewünschte Strecke kein Angebot für einen IC/EC-Aufpreis. Was bedeutet das?
-----------
-
-IC/EC-Aufpreise gibt es nur für ausgewählte Strecken in folgenden Verbünden: VRR, VRM, RMV, NVV, VGN, VRN, VBN, GVH, VRB. NVV-Aufpreise gibt es nur für die 2. Klasse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-finde-fuer-meine-gewuenschte-strecke-kein-angebot)
-
  Warum finde ich mein Abo nicht im Aboportal?
 ----------
 
@@ -6540,13 +6533,6 @@ Falls Sie kein Smartphone haben:
 Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-meine-bahncard-25-50-verloren)
-
- Ich möchte einen IC/EC-Aufpreis buchen und habe Probleme mit meinem Login mit BahnID. An wen kann ich mich wenden?
-----------
-
-Bei Fragen und Problemen zum Log-In mit BahnID hilft Ihnen unser Support-Team gerne weiter. Bitte senden Sie hierzu eine E-Mail an [bahnid-support@deutschebahn.com](mailto:bahnid-support@deutschebahn.com)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-probleme-mit-meinem-login-mit-bahnid)
 
  Ich hatte mir ein Mehrfahrten-Ticket gekauft. Wo finde ich mein Guthaben/meine noch nicht eingelösten Tickets?
 ----------
@@ -7383,15 +7369,6 @@ Ja, das geht. Nutzen Sie dafür entweder die App DB Navigator oder besuchen Sie 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-eine-buchung-einer-sitzplatzreservierung-nachtraeglich-moeglich)
 
- Ist beim IC/EC-Aufpreis eine Sitzplatzreservierung im Preis enthalten?
-----------
-
-Nein. Sie können aber optional einen Sitzplatz in der Buchung reservieren. Die Sitzplatzreservierung kann allerdings nicht erstattet werden.
-
-* [Zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-eine-sitzplatzreservierung-enthalten)
-
  Ist eine Sitzplatzreservierung im Sparpreis Europa-Ticket enthalten?
 ----------
 
@@ -7783,13 +7760,6 @@ Für eine Fahrradkarte im Nahverkehr wählen Sie im App-Bereich "Buchen" unter 
 * [Zur Fahrradmitnahme-Buchung](https://www.bahn.de/angebot/zusatzticket/fahrrad)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-im-dbnavigator-fahrrad-karten-kaufen)
-
- Kann ich mit einem IC/EC-Aufpreis jede mögliche Strecke bzw. Route zwischen gewähltem Start- und Zielort nutzen?
-----------
-
-Nein, das Ticket ist nur auf der zuvor gewählten Strecke mit dem angegebenen Streckenverlauf („Via“) gültig.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-jede-strecke-zwischen-start-und-zielort-nutzen)
 
  Kann ich mit dem Garmischer Sommer-Ticket Kinder kostenfrei mitnehmen?
 ----------
@@ -18788,15 +18758,6 @@ Sie können je Fahrtrichtung und Zielbahnhof einen Sitzplatz reservieren. Ganz n
 [Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viele-dauer-sitzplaetze-kann-ich-reservieren)
-
- Wie viele Personen können das STADT-LAND-MEER-TICKET PLUS nutzen?
-----------
-
-* Das Ticket gilt für eine Person.
-* Kinder bis einschließlich 5 Jahre fahren kostenfrei mit.
-* Bis zu 3 Kinder im Alter zwischen 6 und 14 Jahren fahren kostenfrei mit - unabhängig ob eigene oder nicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viele-personen-koennen-das-ticket-nutzen)
 
  Wie viele Sitzplätze kann ich im Nahverkehr reservieren?
 ----------
