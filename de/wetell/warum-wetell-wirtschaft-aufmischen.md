@@ -56,7 +56,7 @@ Selbstbestimmtheit ist uns heilig. Niemand kann uns reinreden, niemand kann unse
 
 * #### Verantwortungseigentum: Garantierte Selbstbestimmung ####
 
-  Seit Juni 2022 sind wir in Verantwortungseigentum. Mit dieser GmbH-struktur sorgen wir dafür, dass wir auch auf lange Sicht selbstbestimmt bleiben. Konkret heißt das:
+  Seit Juni 2022 sind wir in Verantwortungseigentum. Mit dieser Eigentumsstruktur sorgen wir dafür, dass wir auch auf lange Sicht selbstbestimmt bleiben. Konkret heißt das:
   Entscheidungen über WEtell dürfen nur von den Menschen getroffen werden, die hier im Unternehmen arbeiten und wissen, was abgeht. Externe haben nix zu melden. Außerdem darf WEtell nicht verkauft, vererbt oder sonst wie weitergegeben werden. Das Ganze lässt sich nicht mehr rückgängig machen. Also garantierte Selbstbestimmung für immer!
 
   Und so können wir dafür sorgen, dass alle Gewinne zurück in unser Unternehmen und unsere nachhaltige Mission fließen. Wir arbeiten also garantiert für unsere Ideale und nicht für das private Bankkonto von irgendjemandem.

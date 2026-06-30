@@ -23,11 +23,11 @@ Welche Domain holt den Titel? Bei netcup treten eine Auswahl an passenden Lände
 
 * Verfolge unser spannendes Match bis zum 19.07.2026.
 
-* Alle (17)
+* Alle (15)
 * Webhosting
 * Root-Server
 * VPS
-* Domains  (17)
+* Domains  (15)
 * Andere Flash Deals (0)
 
 Domains
@@ -88,34 +88,6 @@ pro Monat
 
 Domains
 
-### .de Domain ###
-
- 69 % Rabatt
-
-statt 0,42 €
-
-* DNSSEC, API
-
-* 2,00 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,13 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.de-domain-wm26)
-
-Domains
-
 ### .ch Domain ###
 
  74 % Rabatt
@@ -141,34 +113,6 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.ch-domain-wm26)
-
-Domains
-
-### .nl Domain ###
-
- 20 % Rabatt
-
-statt 1,02 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,82 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.nl-domain-wm26)
 
 Domains
 
@@ -505,6 +449,62 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.com.br-domain-wm26)
+
+Domains
+
+ Deal ausgeschieden
+
+### .de Domain ###
+
+ 69 % Rabatt
+
+statt 0,42 €
+
+* DNSSEC, API
+
+* 2,00 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+0,13 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .nl Domain ###
+
+ 20 % Rabatt
+
+statt 1,02 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+0,82 €
+
+(inkl. 19% MwSt.)
 
 Domains
 
