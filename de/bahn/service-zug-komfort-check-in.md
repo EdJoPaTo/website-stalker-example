@@ -277,9 +277,13 @@ Trotz Komfort Check-in kann es vorkommen, dass das Zugpersonal weiterhin Ticketk
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kontrolle-trotz-kci)
 
-###  Was muss ich beachten, wenn ich meinen Sitzplatz nach dem Check-in wechseln möchte?  ###
+###  Ich habe mich bereits an einem Sitzplatz eingecheckt, möchte mich aber nochmal umsetzen. Ist das möglich?  ###
 
-Setzen Sie sich nach dem Check-in um, ändern Sie bitte Ihre Sitzplatznummer über den Button „*Sitzplatz ändern*“ in Ihrem aktuellen Reiseplan im DB Navigator. Ansonsten werden Sie ggf. vom Zugbegleiter regulär kontrolliert. Nach der Änderung wird Ihnen der neue Sitzplatz inklusive Wagennummer angezeigt. Sie können Ihren Sitzplatz einmalig je Check-in ändern.
+Ja, Sie können einmalig Ihren Sitzplatz nach dem Komfort Check-in ändern.
+
+Öffnen Sie Ihren aktuellen Reiseplan im DB Navigator und klicken Sie auf “Sitzplatz ändern”. Geben Sie dann die neue Wagen- und Sitzplatznummer ein oder ermitteln diese mit dem QR-Code. Ergänzen Sie ggf. noch Ihre BahnCard-Nummer. Klicken Sie auf “Jetzt einchecken”. Sie sind dann auf dem neuen Sitzplatz eingecheckt.
+
+Alternativ können Sie auch über Ihren Browser [umchecken](https://www.bahn.de/web/#web).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nach-erfolgtem-kci-sitzplatzwechsel)
 
@@ -291,7 +295,13 @@ Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht mögl
 
 ###  Kann ich mich auch ohne Reservierung einchecken?  ###
 
-Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken.
+Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken. Einfach Wagen- und Sitzplatznummer manuell eingeben und den Check-in Prozess abschließen.
+
+Alternativ können Sie für die Ermittlung der Wagen- und Sitzplatznummer wie folgt zusätzlich den QR-Code nutzen:
+
+1. Check-in im DB Navigator starten und mit Klick auf das QR-Code Icon die Kamera öffnen (ggf. müssen Sie noch der Verwendung Ihrer Kamera zustimmen)
+2. Scannen Sie den QR-Code. Den QR-Code finden Sie auf einem Aufkleber, der gewöhnlich an der Rückenlehne des Vordersitzes oder im Wandbereich des Fensters angebracht ist. Sollten auf dem Aufkleber zwei QR-Codes abgebildet sein, nutzen Sie den rechten.
+3. Die Wagen- und Sitzplatznummer wird über den QR-Code ermittelt. Klicken Sie auf den Button “Jetzt einchecken” um den Komfort Check-in abzuschließen.
 
 Lesen Sie hierzu auch
 

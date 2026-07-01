@@ -43,7 +43,7 @@ Wir vermeiden das Entstehen von CO2-Emissionen, wo wir können, gleichen entsteh
 
   **Unser CO****₂****-Ausgleich seit Marktstart 2020:**
 
-  * **1.325 t**
+  * **1.537 t**
 
   **Investitionen in Erneuerbare Energien:**
 

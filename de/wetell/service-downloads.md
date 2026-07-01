@@ -5,13 +5,13 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### AGB ####
 
-  * [AGB Mobilfunk](/media/filer_public/dc/3e/dc3e3b40-0b2e-4dbd-8276-269fab8ded1b/wetell_agb_leistungsbeschreibung_bf_2026-01.pdf)
+  * [AGB Mobilfunk](/media/filer_public/ec/f8/ecf8d0ec-a6d3-4732-9f46-a1b0e1b7bd7d/wetell_agb_gesamt_bf_2026-06.pdf)
   * [Vorvertragliche Informationen](/media/filer_public/b3/1c/b31c5431-d468-4d6b-901d-c82789372ba8/wetell_vorvertragliche-infos_2024-09_bf.pdf)
   * [AGB Mobilfunkgutschein](/media/filer_public/97/ee/97ee065c-21dd-47bb-8770-2c1fa76a55d7/agb-mobilfunkgutschein-starterpaket.pdf)
 
 * #### Datenschutz ####
 
-  * [Datenschutzhinweise Mobilfunk](/media/filer_public/07/68/0768880b-561e-48a5-98ce-dcdea008b67f/wetell_03_datenschutz_bf_2024-12.pdf)
+  * [Datenschutzhinweise Mobilfunk](/media/filer_public/20/15/201579c6-7752-4888-bfa7-73a4fe315b22/wetell_03_datenschutz_bf_2026-06.pdf)
   * [Information Infoscore](/media/filer_public/df/8c/df8cebdc-6a50-4fa7-8599-cf398a1e2a9d/wetell_04_infoscore_bf_2024-09.pdf)
 
 * #### Preislisten ####
@@ -65,7 +65,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### Widerruf und Kündigungen ####
 
-  * [Widerrufsformular Mobilfunk](/media/filer_public/e6/d6/e6d625ca-6ec5-460e-87e2-8cd9459c372e/wetell_05_widerrufsbelehrung_bf_2024-09.pdf)
+  * [Widerrufsformular Mobilfunk](/media/filer_public/01/fb/01fb96ca-d0de-42d4-8f83-c5dad648d370/wetell_05_widerrufsbelehrung_bf_2026-06.pdf)
   * [Kündigungsvorlage alter Anbieter](/media/filer_public/1a/06/1a061960-737f-4ae3-8691-7bf92fe10c8e/kuendigungsvorlage.pdf)
   * [Kündigungsvorlage WEtell](/media/filer_public/eb/93/eb939a7d-551c-4fbb-bf25-6181690ac59b/kundigungsvorlage_wetell.pdf)
 

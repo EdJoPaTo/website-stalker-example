@@ -17445,8 +17445,10 @@ Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-bahncard-kuendigen)
 
- Wie kann ich online eine Rechnung für meine BahnCard anfordern?
+ Wie und wann kann ich online eine Rechnung für meine BahnCard anfordern?
 ----------
+
+Sie können die Rechnung unmittelbar nach dem Kauf oder der automatischen Verlängerung wie folgt herunterladen:
 
 1. Loggen Sie sich in Ihr [DB Kundenkonto](https://www.bahn.de/link_bc-selfservices) ein.
 2. Klicken Sie auf den Menüpunkt "BahnCard".

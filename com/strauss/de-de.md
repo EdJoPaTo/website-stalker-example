@@ -1,7 +1,5 @@
 [](https://www.strauss.com/de/de/warnwesten/warnschutz-funktions-weste-e-s-ambition-3210940-84703-1144.html?itemorigin=startseite_fs26)
 
-[](https://www.strauss.com/de/de/arbeitsshirts/funktions-t-shirt-e-s-ambition-3107160-20532-1498.html?itemorigin=startseite_fs26)
-
 [](https://www.strauss.com/de/de/westen/reflex-funktions-weste-e-s-ambition-3210960-84710-1498.html?itemorigin=startseite_fs26)
 
 [](https://www.strauss.com/de/de/arbeitsshirts-damen/funktions-t-shirt-e-s-ambition-damen-3107740-20582-1498.html?itemorigin=startseite_fs26)

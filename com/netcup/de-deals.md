@@ -17,17 +17,17 @@ Welche Domain holt den Titel? Bei netcup treten eine Auswahl an passenden Lände
 
 **.eu Domain bleibt als neutraler VIP die gesamte Aktion über im Angebot**
 
-* Bis zum 29.06. sind alle Deals online. Schnapp dir deinen Favoriten!
+* Gruppenphase vorbei: Alle 24h scheiden Deals aus. Sichere dir deinen Deal besser schnell!
 
-* Dann geht's los - Länderdomains scheiden je nach Ergebnis bei der WM aus.
+* Scheidet ein Land bei der WM aus, endet auch sein Deal - Stichzeit ist werktags gegen 8 Uhr (MEZ).
 
 * Verfolge unser spannendes Match bis zum 19.07.2026.
 
-* Alle (15)
+* Alle (14)
 * Webhosting
 * Root-Server
 * VPS
-* Domains  (15)
+* Domains  (14)
 * Andere Flash Deals (0)
 
 Domains
@@ -197,34 +197,6 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.mx-domain-wm26)
-
-Domains
-
-### .co.za Domain ###
-
- 13 % Rabatt
-
-statt 2,15 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-1,88 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.co.za-domain-wm26)
 
 Domains
 
@@ -566,6 +538,34 @@ Domains
 
  Deal ausgeschieden
 
+### .co.za Domain ###
+
+ 13 % Rabatt
+
+statt 2,15 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+1,88 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
 ### .tr Domain ###
 
  21 % Rabatt
@@ -633,6 +633,18 @@ Dieser Gutschein ist **gültig bis 31.07.2026**. Mindestbestellwert 5 € netto.
 Zum Einlösen des Gutscheins kopiere dir den Code und füge ihn im Warenkorb über das Feld **"Gutscheincode"** zu deiner Bestellung hinzu.
 
 Viel Spaß!
+
+###
+
+Wann werden die WM-Ergebnisse geprüft und wann scheiden Deals aus?
+
+ ###
+
+Wir prüfen die WM-Ergebnisse an Werktagen einmal täglich gegen 8:00 Uhr (MEZ). Entscheidend ist immer der Stand zu genau diesem Zeitpunkt: Ist eine Nationalmannschaft dann bereits ausgeschieden, wird der zugehörige Deal deaktiviert.
+
+Dieser Check wird von uns **manuell** durchgeführt. Da durch die Zeitverschiebung einige Spiele nachts oder zu US-Sendezeiten laufen, orientieren wir uns - damit die Aktion für alle einheitlich und nachvollziehbar bleibt - ausschließlich an der **mitteleuropäischen Zeit und dem Ergebnisstand an Werktagen gegen 8:00 Uhr.**
+
+Falls etwas unklar ist, melde dich gerne über das [Formular](https://www.netcup.com/de/helpcenter/support).
 
 ###
 

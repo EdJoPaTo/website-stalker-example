@@ -414,6 +414,15 @@ Die Verantwortung, ob Sie alleine reisen dürfen, liegt tatsächlich bei den Erz
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-welchem-alter-darf-ich-alleine-mit-der-bahn-ins-ausland-fahren)
 
+ Was passiert, wenn sich die Abholperson am Zielbahnhof verspätet?
+----------
+
+Ihr Kind wird zu keinem Zeitpunkt alleingelassen. Sollte sich die Abholperson verspäten, informieren Sie bitte umgehend die Service-Hotline. Die Betreuer:innen warten gemeinsam mit Ihrem Kind am vereinbarten Treffpunkt, bis die autorisierte Person eintrifft. Sollte kein Kontakt zu den angegebenen Notfallkontakten oder Abholpersonen hergestellt werden können, wird das Kind in die Obhut der Polizei übergeben.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abholperson-verspaetet)
+
  Meine Statuslaufzeit läuft bald ab. Behalte ich meine noch übrigen Statusvorteile für meine nächste Statuslaufzeit?
 ----------
 
@@ -466,6 +475,19 @@ Falls Sie diese Gründe für Ihr DB Kundenkonto nicht erkennen, finden Sie hier:
 Ihre angemeldete Hilfeleistung ist an eine konkrete Verbindung gebunden. Falls Sie auf eine andere Verbindung ausweichen, denken Sie bitte daran, Ihre Hilfeleistung rechtzeitig über die Mobilitätsservice-Zentrale umzumelden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderung-reiseverbindung)
+
+ Wie erfahre ich am Reisetag von Verspätungen oder Änderungen?
+----------
+
+Über wichtige Änderungen im Reiseverlauf und **Verzögerungen \>45 Minuten** werden Sie proaktiv über die **in der Buchung hinterlegte E-Mail-Adresse** informiert.
+
+Bitte behalten auch Sie die Reise im Blick: Speichern Sie die Verbindung im **DB Navigator** und aktivieren Sie die Push-Benachrichtigungen.
+
+Bei akuten Rückfragen am Reisetag erreichen Sie das Betreuungsteam über die Service-Hotline (+49 228 76366160), die freitags und sonntags durchgehend von **10 bis 20 Uhr** geschaltet ist.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-am-reisetag)
 
  Was muss ich bei der Änderung meiner Daten beachten, wenn ich ein Abo habe?
 ----------
@@ -568,6 +590,26 @@ If you are only using local transport, it is generally possible to take up to th
 Children up to 5 years of age travel free of charge on Deutsche Bahn long-distance trains and do not need to be indicated on the ticket. We recommend that you indicate children regardless of age, however, as this allows you to reserve a seat in the family compartment or toddler area. Accompanying children are only listed on the ticket from the age of 6.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-ticket-bis-5-en)
+
+ Warum wird DB Junior Express nur auf wenigen Strecken angeboten?
+----------
+
+Der Service DB Junior Express befindet sich im Aufbau. Er startet zunächst auf sechs Direktverbindungen. Der Service wird perspektivisch auf ein größeres Streckennetz ausgeweitet.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebot-auf-wenigen-strecken)
+
+ Wohin kann ich mich bei Fragen wenden?
+----------
+
+Sollten Sie vor vor Buchung Fragen haben, die Ihnen hier nicht beantwortet werden, können Sie sich gern über den Reiter Hilfe & Kontakt oder die Servicenummer der Deutschen Bahn an uns wenden.
+
+Bei Fragen zur bestehenden Buchung hilft Ihnen das Back-Office des Serviceerbringers Proki Kinderevents telefonisch weiter. Die Hotline und Servicezeiten finden Sie in Ihrer Buchungsbestätigung.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anlaufstelle-fragen)
 
  So stornieren Sie Ihr online gebuchtes Bahn-Ticket
 ----------
@@ -1153,6 +1195,35 @@ Tipp: Melden Sie sich im Aboportal auf abo.bahn.de mit dem gleichen DB Kundenkon
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bestellung-keine-rueckmeldung)
 
+ Was passiert, wenn mein Kind während der Fahrt ins Bordrestaurant oder auf die Toilette gehen möchte?
+----------
+
+Die Betreuenden begleiten und organisieren die Reise so, dass die Kinder während der Fahrt betreut bleiben. Wenn ein Kind auf die Toilette muss oder etwas benötigt, wendet es sich an die Betreuenden. Diese unterstützen situationsabhängig und achten darauf, dass die Gruppe sicher betreut bleibt.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/besuch-bordrestaurant-toilette)
+
+ Wer genau betreut die Kinder auf der Fahrt?
+----------
+
+Die Kinder werden durch geschulte Kinderbetreuende des Servicepartners Proki Kinderevents betreut. Das Personal ist **ISO-zertifiziert** und **pädagogisch geschult**. Proki führt den Service im Auftrag der Deutschen Bahn durch. Pro Verbindung begleiten **zwei Betreuende** eine Gruppe von maximal 14 Kindern. Die Namen der Betreuenden werden vorab per Mail kommuniziert.
+
+Die Betreuenden begleiten die Kinder während der Reise, behalten die Gruppe im Blick, unterstützen bei Fragen und sorgen für einen sicheren und geordneten Ablauf von der Übergabe am Startbahnhof bis zur Übergabe am Zielbahnhof.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betreuung-der-fahrt)
+
+ Von wann bis wann ist mein Kind genau betreut?
+----------
+
+Die Betreuung beginnt mit der persönlichen Übergabe des Kindes an die Betreuenden am Startbahnhof. Sie endet mit der persönlichen Übergabe an eine zuvor angegebene und berechtigte Abholperson am Zielbahnhof.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betreuung-kind)
+
  Bis wann sind Prämiengutscheine gültig?
 ----------
 
@@ -1201,6 +1272,25 @@ Für ausgewählte Fernverkehrs-Tickets können Sie eine Sofortstornierung bis zu
 * [Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-falsch)
+
+ Wie buche ich die Begleitung durch DB Junior Express?
+----------
+
+**Schritt 1: Buchung der Servicepauschale inkl. Sitzplatz in der Gruppe**
+
+Zuerst buchen Sie einen Platz für Ihr Kind in der **Gruppenbegleitung** **DB Junior Express** für die gewünschte Verbindung online über die Buchungsseite des Services. Dort werden zunächst Strecke, Reisetag und Verbindung ausgewählt. Anschließend werden die erforderlichen Angaben zum Kind, zu den Sorgeberechtigten, zur bringenden Person, zum Notfallkontakt und zu den abholberechtigten Personen erfasst. Nach Abschluss der Servicebuchung erhalten die buchenden Personen eine **Bestätigung** mit allen wichtigen Informationen zur Reise, zum Treffpunkt und zu den nächsten Schritten.
+
+**Schritt 2: Buchung der passenden Kinderfahrkarte**
+
+Für die Nutzung des DB Junior Express benötigen Sie zusätzlich zwingend ein reguläres **Kinderticket der 2. Klasse** für die gebuchte Strecke. Im Anschluss an die Buchung der Gruppenbegleitung DB Junior Express gelangen Sie über einen Direktlink zur Fahrkarte der passenden Verbindung auf bahn.de. Hier buchen Sie das passende **Kinderticket** für dieselbe Verbindung.
+
+•Hat Ihr Kind eine Ermäßigung (z. B. die **Jugend BahnCard**), können Sie diese beim Ticketkauf wie gewohnt anrechnen lassen.
+
+•*Wichtig:* Eine zusätzliche Sitzplatzreservierung beim Ticketkauf ist **nicht nötig**, da der Sitzplatz bereits in der Servicebuchung von DB Junior Express erhalten ist.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-juniorexpress)
 
  Kann ich meine Buchung korrigieren, falls ich eine fehlerhafte Eingabe getätigt habe?
 ----------
@@ -2136,6 +2226,19 @@ Ob es "stehende" oder "hängende" Fahrradhalterungen gibt, hängt von der Baurei
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradstellplatz-ohne-heben-einhaengen)
 
+ Wie kann ich die Fahrt stornieren?
+----------
+
+Eine Stornierung der Begleitung DB Junior Express ist grundsätzlich telefonisch über das Back-Office möglich. Dabei gelten die folgenden Stornierungsregeln:
+
+**Bis 48 Stunden vor Abfahrt:** 100 % Erstattung- oder eine kostenfreie Umbuchung auf einen anderen Reisetag, sofern es noch eine Sitzplatzverfügbarkeit auf dieser Strecke gibt.
+
+**Ab 48 Stunden vor Abfahrt oder bei Nichterscheinen des Kindes:** Keine Erstattung. (Hinweis: Für das separat erworbene DB-Kinderticket gelten die regulären Stornierungsbedingungen des jeweiligen Tarifs der DB.)
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrt-stornieren)
+
  Ich reise mit einem faltbaren Rollstuhl. Was kann ich tun?
 ----------
 
@@ -2178,6 +2281,15 @@ Versuchen Sie, das Ticket noch einmal hinzuzufügen:
 Sollte der Fehler weiterhin auftreten, überprüfen Sie diese Angaben erneut. Eventuell wurden sie nicht exakt wie bei der Buchung eingegeben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fehler-beim-hinzufuegen-eines-tickets-in-die-db-navigator-app-was-kann-ich-tun)
+
+ Haben die Kinder feste Sitzplätze in der DB Junior Express Gruppe?
+----------
+
+Ja. Für die Kinder der gesamten betreuten DB Junior Express Gruppe sind zusammenhängende Sitzplätze reserviert. Die Sitzplätze werden nicht frei durch die Kundinnen und Kunden ausgewählt, sondern im Rahmen des Services organisiert.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/feste-sitzplaetze)
 
  Finde ich mein Statuslevel in der App DB Navigator?
 ----------
@@ -3019,82 +3131,6 @@ Ja, Sie können dem Zugpersonal das Online-Ticket problemlos als PDF auf einem L
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-mein-online-ticket-auch-gueltig-wenn-es-als-pdf-auf-dem-laptop-vorgezeigt-wird)
 
- Wie viele Kinder reisen gemeinsam?
-----------
-
-Pro Fahrt reist eine feste Gruppe von maximal 14 Kindern. Die Kinder werden immer von zwei geschulten Betreuenden begleitet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-anzahl-kinder)
-
- Werden die Kinder während der Fahrt betreut?
-----------
-
-Ja. Die Kinder werden während der gesamten Reise begleitet. Dazu gehören Unterstützung im Reiseablauf sowie altersgerechte Beschäftigungsangebote.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-betreuung)
-
- Passt der Service zum aktuellen Entwicklungsstand und zur Reisesituation meines Kindes?
-----------
-
-Damit Ihr Kind sicher und gut begleitet reisen kann, prüfen Sie bitte, ob DB Junior Express zum aktuellen Entwicklungsstand und zur Reisesituation Ihres Kindes passt. Die folgenden Voraussetzungen helfen bei der Einschätzung.
-
-Ihr Kind kann mit DB Junior Express reisen, wenn …
-
-* es mindestens 6 und maximal 14 Jahre alt ist;
-* es gesund ist und in seinem tagesaktuellen gesundheitlichen Zustand auch in die Schule gehen würde;
-* es sein eigenes Gepäck selbst tragen und handhaben kann;
-* es selbstständig auf die Toilette gehen kann (der Weg zur Toilette kann begleitet werden);
-* es während der Reise keine geplante medizinische Versorgung durch Betreuende benötigt;
-* es gruppenfähig ist und keine 1:1-Betreuung braucht;
-* es sich mit den Betreuenden verständigen kann;
-* es Regeln einhalten und Anweisungen der Betreuenden befolgen kann;
-* es sich beim Check-in von Ihnen verabschieden kann;
-* es freiwillig mit DB Junior Express reist. Eine Beförderung gegen den ausdrücklichen Willen des Kindes ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-entwicklungsstand-kind)
-
- Wie läuft die Übergabe am Bahnhof ab?
-----------
-
-Die Übergabe erfolgt immer an einem definierten, ruhigen Treffpunkt in Gleisnähe. Dort übernehmen die Betreuenden die Kinder vor der Abfahrt und übergeben sie am Zielbahnhof wieder an die hinterlegte abholende Person.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-uebergabe-kinder-bahnhof)
-
- Können Kinder unterwegs ein- oder aussteigen?
-----------
-
-Nein. Die Betreuung erfolgt immer durchgehend vom Start- bis zum Zielbahnhof. Ein Zustieg oder Ausstieg an Zwischenhalten ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-unterwegs-aussteigen)
-
- Ab wann wird der Service DB Junior Express angeboten?
-----------
-
-Die Fahrten finden zunächst an Freitagen und Sonntagen ab Ende August 2026 statt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-wann-start)
-
- Wo gibt es weitere Informationen zum DB Junior Express?
-----------
-
-Weitere Informationen zum Service DB Juniorexpress, zum Ablauf und zur Buchung werden vor Verkaufsstart auf dieser Seite veröffentlicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-weitere-informationen)
-
- Auf welchen Strecken wird der Service angeboten?
-----------
-
-Zum Start wird der Service auf ausgewählten Direktverbindungen zwischen München, Köln, Frankfurt, Hamburg und Berlin angeboten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-welche-strecken)
-
- Für welches Alter ist der Service gedacht?
-----------
-
-DB Junior Express richtet sich an alleinreisende Kinder zwischen 6 und 14 Jahren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/juniorexpress-welches-alter)
-
  Kann ich alle bahn.de Angebote mit Bonvoyo bezahlen?
 ----------
 
@@ -3660,6 +3696,15 @@ Bei Reisen mit einer grenzüberschreitenden Fahrkarte in die Schweiz oder nach �
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kindermatnahme-schweiz-oesterreich-kinder-bis-5)
 
+ Gibt es während der Fahrt ein Programm für die Kinder?
+----------
+
+Während der Reise ist ein altersgerechtes Begleit- und Beschäftigungsangebot vorgesehen. Die Kinder reisen gemeinsam in der betreuten Gruppe und können während der Fahrt durch passende Aktivitäten begleitet werden, wenn sie möchten.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinderprogramm-waehrend-fahrt)
+
  Die Klimaanlage im Zug ist defekt und Sie können Ihren reservierten Sitzplatz nicht einnehmen?
 ----------
 
@@ -3785,6 +3830,17 @@ Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreien-rollstuhlplatz-ohne-ticketbuchung)
 
+ Was passiert im Krankheitsfall vor oder während der Reise?
+----------
+
+**Krankheit vor Reisebeginn:** Damit die Gruppe gut reisen kann, ist die uneingeschränkte „Reisefähigkeit“ Bedingung. Wird Ihr Kind kurzfristig krank, darf es leider nicht mitfahren. Bitte melden Sie sich in diesem Fall umgehend bei unserer Proki Service-Hotline, damit die Reisegruppe nicht auf das Kind wartet. Eine Stornierung mit Rückerstattung ist allerding nur bis 48 Stunden vor Abfahrt möglich.
+
+**Zwischenfälle während der Fahrt:** Sollte es Ihrem Kind unterwegs wider Erwarten nicht gut gehen, stehen die pädagogisch geschulten Betreuer:innen im Austausch mit dem Back-Office. Unser Back-Office informiert in medizinischen oder anderen Notfällen umgehend die Notfallkontakte, um alles Weitere eng mit Ihnen abzustimmen.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/krankheitsfall)
+
  Wie begleiche ich Forderungen bei der DB, um mein DB Kundenkonto freizuschalten?
 ----------
 
@@ -3838,6 +3894,15 @@ Haben Sie in Ihrem DB Kundenkonto in Ihren persönlichen Daten (z. B. Name, Adre
 Luggage such as briefcases, laptops, backpacks, suitcases, etc. can be taken along free of charge.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/luggage-for-free)
+
+ Kann ich persönliche Daten, wie z.B. medizinische Hinweise oder die abholenden Personen nach Buchung noch ändern?
+----------
+
+Servicerelevante Daten können nach Buchungsabschluss über das Back-Office des Serviceerbringers Proki Kinderevents telefonisch geändert werden. Die Hotline und Servicezeiten finden Sie in Ihrer Buchungsbestätigung.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/medizinische-hinweise-abholperson)
 
  Ich brauche mehr Zeit für den Umstieg mit Gepäck und Fahrrad. Wie kann ich das bei der Buchung einplanen?
 ----------
@@ -4143,10 +4208,14 @@ Nein. Wenn Sie PayPal als Zahlungsmittel auswählen, werden Sie zu PayPal weiter
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-vor-der-buchung-einen-login-fuer-paypal-haben)
 
- Was muss ich beachten, wenn ich meinen Sitzplatz nach dem Check-in wechseln möchte?
+ Ich habe mich bereits an einem Sitzplatz eingecheckt, möchte mich aber nochmal umsetzen. Ist das möglich?
 ----------
 
-Setzen Sie sich nach dem Check-in um, ändern Sie bitte Ihre Sitzplatznummer über den Button „*Sitzplatz ändern*“ in Ihrem aktuellen Reiseplan im DB Navigator. Ansonsten werden Sie ggf. vom Zugbegleiter regulär kontrolliert. Nach der Änderung wird Ihnen der neue Sitzplatz inklusive Wagennummer angezeigt. Sie können Ihren Sitzplatz einmalig je Check-in ändern.
+Ja, Sie können einmalig Ihren Sitzplatz nach dem Komfort Check-in ändern.
+
+Öffnen Sie Ihren aktuellen Reiseplan im DB Navigator und klicken Sie auf “Sitzplatz ändern”. Geben Sie dann die neue Wagen- und Sitzplatznummer ein oder ermitteln diese mit dem QR-Code. Ergänzen Sie ggf. noch Ihre BahnCard-Nummer. Klicken Sie auf “Jetzt einchecken”. Sie sind dann auf dem neuen Sitzplatz eingecheckt.
+
+Alternativ können Sie auch über Ihren Browser [umchecken](https://www.bahn.de/web/#web).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nach-erfolgtem-kci-sitzplatzwechsel)
 
@@ -4229,7 +4298,13 @@ Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht mögl
  Kann ich mich auch ohne Reservierung einchecken?
 ----------
 
-Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken.
+Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken. Einfach Wagen- und Sitzplatznummer manuell eingeben und den Check-in Prozess abschließen.
+
+Alternativ können Sie für die Ermittlung der Wagen- und Sitzplatznummer wie folgt zusätzlich den QR-Code nutzen:
+
+1. Check-in im DB Navigator starten und mit Klick auf das QR-Code Icon die Kamera öffnen (ggf. müssen Sie noch der Verwendung Ihrer Kamera zustimmen)
+2. Scannen Sie den QR-Code. Den QR-Code finden Sie auf einem Aufkleber, der gewöhnlich an der Rückenlehne des Vordersitzes oder im Wandbereich des Fensters angebracht ist. Sollten auf dem Aufkleber zwei QR-Codes abgebildet sein, nutzen Sie den rechten.
+3. Die Wagen- und Sitzplatznummer wird über den QR-Code ermittelt. Klicken Sie auf den Button “Jetzt einchecken” um den Komfort Check-in abzuschließen.
 
 Lesen Sie hierzu auch
 
@@ -4754,6 +4829,15 @@ Our wifi system includes a range of security features that make data transfer sa
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/secure-wifi-on-train)
 
+ Darf ich den Service auch für Kinder unter 6 oder über 14 Jahren buchen?
+----------
+
+Nein. DB Junior Express richtet sich an allein reisende Kinder im Alter von 6 bis 14 Jahren. Für Kinder unter 6 Jahren oder Jugendliche über 14 Jahren kann der Service nicht gebucht werden.
+
+* [/next-bahn/de/service/individuelle-reise/kinder/db-junior-express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/service-fuer-kinder-unter-6-jahre)
+
  What does the ICE Portal's digital on-board catering service offer?
 ----------
 
@@ -4773,6 +4857,22 @@ Passengers in 2nd class can use the digital menu on the ICE Portal to find out a
 * Beide Anbieter sind zugelassene Zahlungsinstitute, die sogenannte „fachfremde Dienstleistungen“ anbieten dürfen. Dazu gehören die angebotenen Verfahren für die Lastschrift-Verifizierung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sicherheit-beim-lastschrift-verfahren)
+
+ Was, wenn etwas schief läuft?
+----------
+
+Wir wissen, dass Sie als Eltern / Erziehungsberechtigte von alleinreisenden Kindern ein **besonders hohes Sicherheitsbedürfnis** haben. Unser Service ist genau darauf ausgelegt, auch in unvorhergesehenen Situationen **absolut verlässlich** zu agieren.
+
+**Zugverspätungen & Gleiswechsel:** Unser digitales Back-Office überwacht die Fahrt kontinuierlich.
+Kommt es zu **Verzögerungen \>45 Minuten** oder anderen relevanten Abweichungen, werden der **Notfallkontakt** sowie die **Abholperson** proaktiv per E-Mail informiert. Das Wichtigste: **Die Betreuung endet erst, wenn Ihr Kind am Zielbahnhof sicher übergeben wurde** – egal, zu welcher Zeit der Zug ankommt.
+
+**Tipp:** Speichern Sie die gebuchte Verbindung im DB Navigator über **„Reise merken“** und aktivieren Sie die **Push-Benachrichtigungen**. So bleiben Sie am Reisetag immer über die aktuellen Abfahrts- und Ankunftszeiten informiert.
+
+**Ausfall des Zuges (z.B. durch Unwetter):** Sollte ein Zug komplett ausfallen und die Reise nicht durchgeführt werden können, lassen wir Sie nicht allein. Das **Betreuungsteam** und das **Zugpersonal** steuern das weitere Vorgehen. Die **Servicepauschale wird Ihnen in diesem Fall vollständig erstattet**. Für Ihr DB-Kinderticket gelten die regulären Fahrgastrechte entsprechend der erworbenen Ticketart.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sicherheitsbeduerfnis-notfallkonkakt)
 
  Was ist bei Sicherheitseinrichtungen zu beachten?
 ----------
@@ -5206,6 +5306,27 @@ Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornier
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-last-minute)
 
+ Auf welchen Strecken und an welchen Tagen wird DB Junior Express angeboten?
+----------
+
+DB Junior Express startet zunächst auf sechs Direktverbindungen im Fernverkehr. Ab dem 21.08.2026 wird der Service immer freitags- und sonntagsnachmittags auf den folgenden Strecken angeboten:
+
+**München Hbf – Köln Messe/Deutz**
+
+**Köln Messe/Deutz – München Hbf**
+
+**Frankfurt Hbf – Hamburg Hbf**
+
+**Hamburg Hbf – Frankfurt Hbf**
+
+**Berlin Hbf – München Hbf**
+
+**München – Hbf Berlin Hbf**
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strecken-und-angebot-juniorexpress)
+
  Is the surfing time with free wifi limited?
 ----------
 
@@ -5268,6 +5389,16 @@ A window opens up from the "Reiseplaner" on the black train progress bar on the 
 The black train progress bar, which is located on the home page or at the top of the screen when you are browsing the portal, always provides you with the relevant information about your journey. In addition to the speed of the train, the next stop and the map with the current position of the train, you can also select your stop and your connections here. In the event of any delays, you will receive a notification as to whether you will still reach the selected connecting train.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/travel-information-ice-portal)
+
+ Wie kann ich sicher sein, dass mein Kind nur an die richtige Person übergeben wird?
+----------
+
+Bei der Buchung werden eine oder mehrere abholberechtigte Personen angegeben. Zusammen mit der Buchungsbestätigung werden per Mail Abholscheine mit einem QR Code versendet. Am Zielbahnhof wird das Kind nur an eine berechtigte Person übergeben, die zuvor in der Buchung angegeben ist und den QR Code vorzeigen kann. Die abholende Person muss sich ausweisen können; der Name muss mit den bei der Buchung hinterlegten Angaben übereinstimmen.
+Die Übergabe wird durch die Betreuenden digital dokumentiert.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/uebergabe-kind)
 
  Wie kann ich die Zeit für meinen Umstieg verlängern?
 ----------
@@ -5419,6 +5550,29 @@ Details zu den Voraussetzungen können Sie der folgenden Aufstellung entnehmen.
 * Fahrt nach Reiseplan laut Ticket
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/voraussetzungen-kci)
+
+ Welche Voraussetzungen muss mein Kind erfüllen, um reisefähig zu sein?
+----------
+
+Damit Ihr Kind sicher und gut begleitet reisen kann, prüfen Sie bitte, ob DB Junior Express zum aktuellen Entwicklungsstand und zur Reisesituation Ihres Kindes passt. Die folgenden Voraussetzungen müssen erfüllt sein, damit ihr Kind reisefähig ist.
+
+Die Betreuung kann nur erfolgen, wenn das Kind am Reisetag uneingeschränkt reisefähig ist. Ein Kind gilt als reisefähig, wenn es am Tag der Reise die folgenden Voraussetzungen erfüllt:
+
+* Das Kind ist mindestens 6 Jahre und maximal 14 Jahre alt.
+* Das Kind ist gesund und würde in seinem tagesaktuellen gesundheitlichen Zustand auch in die Schule gehen.
+* Das Kind kann sein Gepäck eigenständig transportieren und handhaben.
+* Das Kind benötigt während der Reise keine geplante medizinische Versorgung durch die Betreuenden.
+* Das Kind kann selbstständig auf die Toilette gehen (Der Weg zur Toilette kann begleitet werden).
+* Das Kind ist gruppenfähig und benötigt ausdrücklich keine 1:1 Betreuung.
+* Das Kind muss sich mit den Betreuenden auf deutsch oder englisch verständigen können.
+* Das Kind kann sich an allgemeine Regeln halten und Anweisungen des Betreuungspersonals befolgen.
+* Das Kind muss freiwillig mit DB Junior Express reisen wollen. Eine Beförderung gegen den ausdrücklichen Willen des Kindes ist nicht möglich.
+
+Wenn ein Kind aus Sicht der Betreuenden nicht reisefähig ist, kann die Mitnahme des Kindes beim Check-In abgelehnt werden.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorraussetzung-reisefaehigkeit)
 
  Wie lange im Voraus kann ich den Flexpreis kaufen?
 ----------
@@ -5589,15 +5743,6 @@ Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Fle
 [Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-ist-reservierung-kostenfrei-im-angebot-integriert)
-
- Ab wann ist DB Junior Express buchbar?
-----------
-
-Die Buchung des Services startet Mitte August 2026.
-
-Weitere Informationen folgen rechtzeitig vor dem Verkaufsstart.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-juniorexpress-buchbar)
 
  Wann kann ich Fahrgastrechtsansprüche geltend machen?
 ----------
@@ -6610,6 +6755,18 @@ Mit Schwerbehindertenausweis mit Merkzeichen B und Wertmarke reisen Sie im Nahve
 Sie erhalten persönliche Informationen, Gutscheine und werden über exklusive BahnBonus Aktionen informiert. Zusätzlich erhalten Sie bei Ihrer erstmaligen Zustimmung 150 Prämienpunkte.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welchen-vorteil-habe-ich-von-der-anmeldung-zur-e-mail-kommunikation)
+
+ Welche Art von Ticket sollte ich für mein Kind buchen?
+----------
+
+Für die Reise wird **zusätzlich zur Servicebuchung** ein **gültiges Kinderticket** für die ausgewählte Verbindung benötigt.
+
+* Sie benötigen **keine erneute Sitzplatzreservierung**.
+* Ein Flexpreis kann sinnvoll sein, weil er mehr Spielraum bietet, falls sich bei Ihnen vor der Reise noch Änderungen ergeben.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welches-ticket)
 
  Wer darf auf dem Fahrgastrechte-Formular die Verspätung bestätigen?
 ----------
@@ -8551,6 +8708,15 @@ Zusätzlich bezieht sich die Information auf den gesamten Zug (je Klasse). Die A
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woher-kommen-die-informationen)
 
+ Woher weiß ich, dass es meinem Kind auf der Reise gut geht?
+----------
+
+Die Kinder reisen in einer fest betreuten Gruppe. Die Betreuenden haben alle relevanten Informationen zur Reisegruppe vorliegen, darunter Kontaktdaten, Notfallkontakte und wichtige Hinweise zu den Kindern. Bei Auffälligkeiten, Zwischenfällen oder medizinischen Themen werden die hinterlegten Notfallkontakte informiert. Die Betreuenden achten durchgehend auf Orientierung, Sicherheit und Wohlbefinden der Kinder**.**
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohlergehen-kind-kontaktdaten)
+
  Woran erkenne ich meine Statuslaufzeit?
 ----------
 
@@ -8742,3 +8908,12 @@ Ein zusammengelegtes Fahrrad mit größeren Maßen gilt als kostenpflichtiges Fa
 [Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zusammengelegte-raeder-italien-oesterreich)
+
+ Warum ist ein Ein- und Ausstieg an Zwischenhalten nicht möglich?
+----------
+
+Der Service DB Junior Express befindet sich im Aufbau. Er begleitet Kinder ausschließlich vom Start- bis zum Zielbahnhof der gebuchten Direktverbindung. Eine den besonderen Sicherheitsanforderungen genügende Übergabe an den Unterwegshalten ist aktuell noch nicht möglich.
+
+* [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zwischenhalte-nicht-moeglich)
