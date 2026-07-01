@@ -617,15 +617,6 @@ Rehabilitanden können den DB Gepäckservice weiterhin als Bestandteil des Reha-
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abholung-hermes-wunschadresse)
 
- Wie kann ich mein Abo als Handyticket nutzen?
-----------
-
-Prüfen Sie die Möglichkeit des Wechsels für Ihr Abo einfach und bequem über Ihr Konto im Aboportal.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-als-handyticket)
-
  Wie kann ich ein Abo außerordentlich kündigen?
 ----------
 

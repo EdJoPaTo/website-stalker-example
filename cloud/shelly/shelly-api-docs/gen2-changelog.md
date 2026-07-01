@@ -14,6 +14,77 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Unreleased
 ----------
 
+**Available as `2.0.0-beta3`**
+
+### Added ###
+
+* Add GoDaddy to certificate bundles
+* [BLE](/gen2/ComponentsAndServices/BLE), [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning): Advertise "locked device" beacon when secure provisioning is in terminal state
+* [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv): Add support for BLU Door/Window ZB as external sensor
+* [Light](/gen2/ComponentsAndServices/Light): Add [Light.SetMany](/gen2/ComponentsAndServices/Light#lightsetmany)
+* [LNM](/gen2/DynamicComponents/LNM/): Add [LNM.Call](/gen2/DynamicComponents/LNM/#lnmcall) RPC
+* [LNM](/gen2/DynamicComponents/LNM/): Add `rx` [webhooks](/gen2/DynamicComponents/LNM/#webhook-events)
+* [LNM](/gen2/DynamicComponents/LNM/): Add TX support for [CCT](/gen2/ComponentsAndServices/CCT), [RGBW](/gen2/ComponentsAndServices/RGBW) and [RGBCCT](/gen2/ComponentsAndServices/RGBCCT) components
+* [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Add configuration for number of objects to track
+* [Scripting](/gen2/ComponentsAndServices/Script): Add [Script.addRpcHandler](/gen2/Scripts/APIs/RPCHandlers) for user script RPC handlers
+* [Scripting](/gen2/ComponentsAndServices/Script): Allow scripts to declare [virtual components](/gen2/DynamicComponents/Virtual/) in their `@meta` header
+* [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning): Add `provisioning` object to [Sys](/gen2/ComponentsAndServices/Sys) status
+* [Sys](/gen2/ComponentsAndServices/Sys): Add `alt` object to [Shelly.CheckForUpdate](/gen2/ComponentsAndServices/Shelly#shellycheckforupdate) response
+
+### Fixed ###
+
+* ADE7953: Fix sign extending and power factor calculations
+* [BLE](/gen2/ComponentsAndServices/BLE): Fix [BLE.advertiseOnce](/gen2/Scripts/APIs/BLE) drops of consecutive advertisements
+* [BLE](/gen2/ComponentsAndServices/BLE): Fix flapping `flags` status change notifications when time beacon is advertised
+* [BLE](/gen2/ComponentsAndServices/BLE): Fix unpicked newly-added BLE advertising slots when a single indefinite slot is already running
+* [Eth](/gen2/ComponentsAndServices/Eth): Fix multicast reception
+* [Flood S](/gen2/Devices/Gen4/ShellyFloodS): Fix [Matter](/gen2/ComponentsAndServices/Matter)/[Zigbee](/gen2/ComponentsAndServices/Zigbee) product name
+* Fortify validation of initial states kept in RTC memory
+* [Input](/gen2/ComponentsAndServices/Input): Fix wrong status change when an error is cleared
+* mbedtls, lwip: Fix client cert parsing
+* OTA: Keep WDT fed during FS merge
+* [PlugUS Gen4](/gen2/Devices/Gen4/ShellyPlugUSG4): Fix incorrect power measurements
+* [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon): Fix `switch` power-on default
+* [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM): Fix unexpected provisioning state status
+* [ProCB](/gen2/Devices/Gen2/ShellyProCB): Determine lever init state
+* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix ambiguous calibration progress reports
+* [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix interrupted dimming on a channel when a command is sent to the other channel
+* [RGBCCT Bulb Gen3](/gen2/Devices/Gen3/ShellyRGBCCTBulbG3): Fix low-brightness color tint
+* [Scripting](/gen2/ComponentsAndServices/Script): Fix crash on [MQTT.subscribe](/gen2/Scripts/APIs/MQTT) with empty topic
+* [Shelly.Update](/gen2/ComponentsAndServices/Shelly#shellyupdate): Jitter schedule-triggered downloads
+* [Switch](/gen2/ComponentsAndServices/Switch): Fix operational counters reset timestamp persistence across reboots
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Disable IEEE address compression
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix power factor default reporting
+
+### Changed ###
+
+* OTA: Switch from commit timeout to commit delay
+* Update mbedtls to 3.6.6
+
+### Local web ###
+
+### Added ###
+
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3): Update UI for adding devices
+* [BTHomeSensor](/gen2/DynamicComponents/BTHome/BTHomeSensor): Add Fahrenheit support for temperature type sensors
+* [Light](/gen2/ComponentsAndServices/Light): Visualize dimming curve
+* [Shutter](/gen2/Devices/Gen3/ShellyShutter): Add missing protections page
+* [Switch](/gen2/ComponentsAndServices/Switch): Update UI for operational counters
+* [Voltmeter](/gen2/ComponentsAndServices/Voltmeter): Add support for [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon) range
+
+### Changed ###
+
+* [Authentication](/gen2/General/Authentication): Handle wrong password error
+* [Authentication](/gen2/General/Authentication): Save and restore auth from cookie
+* [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv): Limit temperature offset to -12.5, 12.5
+* [BTHomeDevice](/gen2/DynamicComponents/BTHome/BTHomeDevice): Handle encryption key config
+* [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon): Improve UI when adding/removing temperature sensors
+* TLS: Add confirmation message when clearing certificates
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): Hide edit icon if user can't edit the config
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): Remove step for virtual number min/max config values
+* [WiFi](/gen2/ComponentsAndServices/WiFi): Show channel if available
+* [XMOD](/gen2/ComponentsAndServices/XMOD): Use device info instead of `XMOD.GetInfo` method
+
 **Available as `2.0.0-beta2`**
 
 ### Added ###
