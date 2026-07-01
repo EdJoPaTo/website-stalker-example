@@ -29,9 +29,9 @@ So funktioniert die digitale BahnCard 100 in der App DB Navigator:
 
 ### BahnCard aufrufen ###
 
-Sie finden Ihre digitale BahnCard 100 und das kostenfreie zusätzliche Deutschland-Ticket im eingeloggten Zustand in der App DB Navigator im Menübereich „Reisen" unter „Zeitkarten & Abos".
+Sie finden Ihre digitale BahnCard 100 und das kostenfreie zusätzliche Deutschland-Ticket im eingeloggten Zustand in der App DB Navigator im Menübereich „Reisen" unter „BahnCards, Zeitkarten & Abos".
 
-Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich „Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard 100 gelangen.
+Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich „BahnCards, Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard 100 gelangen.
 
 Tippen Sie diese an, erhalten Sie die Info, dass bis drei Tage vor Gültigkeitsbeginn der QR-Code zur Ticketkontrolle noch nicht abrufbar ist.
 
@@ -39,7 +39,7 @@ Tippen Sie diese an, erhalten Sie die Info, dass bis drei Tage vor Gültigkeitsb
 
 Ab drei Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 100 können Sie diese mit Ihrem Smartphone verknüpfen.
 
-Tippen Sie im Menübereich „Reisen" unter „Zeitkarten & Abos" auf Ihre BahnCard 100. Jetzt können Sie Ihre BahnCard 100 verknüpfen, indem Sie auf den Button „Mit diesem Gerät verknüpfen" tippen.
+Tippen Sie im Menübereich „Reisen" unter „BahnCards, Zeitkarten & Abos" auf Ihre BahnCard 100. Jetzt können Sie Ihre BahnCard 100 verknüpfen, indem Sie auf den Button „Mit diesem Gerät verknüpfen" tippen.
 
 Wichtig: Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 im DB Navigator verfügbar.
 
@@ -47,7 +47,7 @@ Wichtig: Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 
 
 Nach der Verknüpfung ist der QR Code vorhanden. Ihnen wird auch angezeigt, wenn die BahnCard 100 noch nicht gültig ist.
 
-Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich „Reisen" unter „Zeitkarten & Abos" antippen.
+Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich „Reisen" unter „BahnCards, Zeitkarten & Abos" antippen.
 
 Wichtig: Bitte führen Sie die Verknüpfung vor Ihrem Reiseantritt durch. Den QR-Code benötigen Sie bei der Ticketkontrolle.
 
@@ -63,7 +63,7 @@ Dort können Sie zum Beispiel Ihr Reservierungskontingent einsehen und buchen od
 
 ### Deutschland-Ticket verknüpfen ###
 
-Ihr kostenfreies zusätzliches Deutschland-Ticket finden Sie ebenfalls im Menübereich „Reisen" unter „Zeitkarten & Abos". Durch Wischen von rechts nach links gelangen Sie dorthin.
+Ihr kostenfreies zusätzliches Deutschland-Ticket finden Sie ebenfalls im Menübereich „Reisen" unter „BahnCards, Zeitkarten & Abos". Durch Wischen von rechts nach links gelangen Sie dorthin.
 
 Wichtig: Bitte führen Sie hier die gleichen Schritte wie für die digitale BahnCard 100 durch. Erst dann ist Ihr Deutschland-Ticket mit dem Smartphone verknüpft und Ihnen wird der QR Code angezeigt.
 
@@ -74,7 +74,7 @@ So wird die digitale BahnCard 100 in der App DB Navigator mit einem anderen Ger�
 
 Wenn Sie ein neues Smartphone haben, dann loggen Sie sich mit diesem in der App DB Navigator in Ihr DB Kundenkonto ein.
 
-Im Menübereich „Reisen" unter „Zeitkarten & Abos“ sehen Sie wieder Ihre digitale BahnCard 100. Tippen Sie diese an.
+Im Menübereich „Reisen" unter „BahnCards, Zeitkarten & Abos“ sehen Sie wieder Ihre digitale BahnCard 100. Tippen Sie diese an.
 
 Danach tippen Sie auf den Button „Mit diesem Gerät verknüpfen". Ihre digitale BahnCard 100 ist nun mit dem neuen Smartphone erfolgreich verknüpft.
 

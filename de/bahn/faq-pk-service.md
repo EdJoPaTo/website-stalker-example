@@ -1550,13 +1550,6 @@ Auf der folgenden Seite finden Sie die aktuellen Datenschutzhinweise zum DB Kund
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/datenschutz-kundenkonto)
 
- Ist das DB Kundenkonto kostenpflichtig?
-----------
-
-Das DB Kundenkonto ist kostenfrei und die Teilnahme kann jederzeit ohne Kündigungsfrist beendet werden, sofern keine bestehenden Verträge dies verhindern (zum Beispiel eine aktive BahnCard).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-kostenpflichtig)
-
  Habe ich mit meiner (Super) Sparpreis-Fahrkarte 1. Klasse Zugang zur DB Lounge?
 ----------
 
@@ -2564,12 +2557,12 @@ Stimmen alle Angaben und Sie bekommen dennoch einen Fehler, rufen Sie uns unter 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutschein-fehlermeldung)
 
- Können Geschenkgutscheine auf bahn.de auch als Gast gekauft und eingelöst werden?
+ Können DB Geschenkgutscheine auf bahn.de auch als Gast gekauft und eingelöst werden?
 ----------
 
 Um einen Geschenkgutschein auf [www.bahn.de/gutscheine](https://www.bahn.de/service/gutscheine/geschenkgutscheine) erwerben oder einlösen zu können ist ein Kundenkonto erforderlich.
 
-[Mehr zu DB Geschenkgutscheinen](https://www.bahn.de/service/gutscheine/geschenkgutscheine)
+* [Mehr zu DB Geschenkgutscheinen](https://www.bahn.de/service/gutscheine/geschenkgutscheine)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutscheinkauf-als-gast)
 
@@ -3933,7 +3926,7 @@ Als Verein, Organisation oder Firma (B2B) haben Sie die Möglichkeit mehrere Gut
 
 Dafür genügt eine einmalige Registrierung in der [Incentive Mall von cadooz](https://incentivemall.cadooz.com/mall/product.do?productNumber=5373), wo verschiedene Gutscheinkartenwerte - 10 Euro, 25 Euro, 50 Euro und 100 Euro - zur Auswahl stehen. Auch eine Kombination der Werte ist möglich.
 
-[Mehr zu DB Geschenkgutscheinen](https://www.bahn.de/service/gutscheine/geschenkgutscheine)
+* [Mehr zu DB Geschenkgutscheinen](https://www.bahn.de/service/gutscheine/geschenkgutscheine)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehrere-gutscheine-kaufen)
 

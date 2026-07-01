@@ -441,7 +441,7 @@ Aktuell sind verstärkt betrügerische Aktivitäten basierend auf sogenannten Ph
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/6-warum-kann-ich-sparpreis-tickets-nicht-mit-lastschrift-bezahlen)
 
- Wann muss ich das Jobticket bezahlen?
+ Wann muss ich das DB Jobticket bezahlen?
 ----------
 
 Die Bezahlung ist immer zum Vertragsbeginn fällig.
@@ -5805,14 +5805,6 @@ Ja. In der 1. Klasse zahlen Einzelreisende für das Südostbayern-Ticket **40 E
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-das-suedostbayern-ticket-auch-fuer-die-1klasse)
 
- Gibt es den IC/EC-Aufpreis auch für die 1. Klasse?
-----------
-
-* Ja, man kann den IC/EC-Aufpreis sowohl für die 2. Klasse als auch für die 1. Klasse erwerben. Aufpreise im NVV sind jedoch nur für die 2. Klasse erhältlich.
-* IC/EC-Aufpreise in der 1. Klasse gelten nur in Verbindung mit einer Verbundzeitkarte für die 1. Klasse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-den-aufpreis-auch-fuer-die-1-klasse)
-
  Gibt es den IC/EC-Aufpreis für alle Strecken?
 ----------
 
@@ -6721,13 +6713,6 @@ Die Tickets gelten in allen Verkehrsmitteln des öffentlichen Nahverkehrs in der
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-zuegen-gilt-das-ticket-prag-spezial)
 
- In welcher App kann ich das VVS Abo als Handy-Ticket nutzen?
-----------
-
-Sie können das VVS Abo als Handy-Ticket im DB Navigator nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welcher-app-kann-ich-das-vvs-abo-als-handy-ticket-nutzen)
-
  Wo erhalte ich mehr Informationen zur digitalen BahnCard 25/50?
 ----------
 
@@ -7596,13 +7581,6 @@ Das MVV-OnlineTicket kann auch mittels der installierten App abgerufen werden.
 Nein, für Tickets mit einem Streckenabschnitt der Nichtbundeseigenen Eisenbahnen bzw. des Seeverkehrs kann leider kein 1. Klasse Upgrade gebucht werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-das-upgrade-fuer-eine-strecke-mit-ne-oder-seeverkehrsanteil-buchen)
-
- Kann ich den IC/EC-Aufpreis umtauschen oder stornieren?
-----------
-
-Der Umtausch oder die Stornierung des Aufpreises ist bis 1 Tag vor dem 1. Geltungstag kostenlos.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-den-aufpreis-umtauschen-oder-stornieren)
 
  Kann ich die digitale BahnCard 25/50 sofort auf mein Smartphone laden?
 ----------
@@ -8869,22 +8847,6 @@ Ihre marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung e
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,39,268,41,269,270#/produktauswahl)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-abbuchungen)
-
- Wie funktioniert das marego Abo&Mehr Bonusprogramm?
-----------
-
-* MitBahnID anmelden oder einmalig neu registrieren
-* "Mein Abo" hinzufügen: einmalig Ihr Abo auswählen und anklicken, dann Abo-Nummer (finden Sie auf der Vorderseite Ihres Abo-Tickets), Geburtsdatum und Postleitzahl angeben und auf "hinzufügen" klicken
-* Ihr Abo ist erfolgreich verknüpft
-* Sie können nun Ihre Kundendaten einsehen, ändern und von den Vorteilen unseres Abo&Mehr Bonusprogramms profitieren
-
-* [Anmelden mit BahnID und Vorteile sichern](https://zugportal.de/pages/infotainment/article/zJ87RxQGFLmnZsXyuYnxM)
-
-[Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,39,268,41,269,270#/produktauswahl)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-bonusprogramm)
 
  Kann ich im marego eine Anschlussfahrt buchen, wenn ich über den Geltungsbereich hinaus fahren will?
 ----------
@@ -11541,7 +11503,7 @@ In Belgien kann es zu Sicherheitskontrollen im Bahnhof kommen. Bitte halten Sie 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sicherheitskontrollen-sparpreis-europa-belgien)
 
- Gibt es die Sitzplätze für BahnBonus Statuskund:innen auch in Zügen mit neuen Sitzplatzreservierungen?
+ Gibt es die Sitzplätze für BahnBonus Statuskundinnen und -kunden auch in Zügen mit neuen Sitzplatzreservierungen?
 ----------
 
 Die Plätze des exklusiven Sitzplatzbereiches stehen auch in Zügen mit neu zugeteilten Sitzplatzreservierungen zur Verfügung. Die Sitzplätze verfügen über eine gesonderte Kennzeichnung und sind zusätzlich im Reservierungsdisplay am Text "BahnBonus Status" erkennbar. Die Plätze werden nicht an andere Kund:innen vergeben.
@@ -13705,16 +13667,6 @@ Sie können Ihr Job-Ticket im gesamten Netz des Verkehrsverbundes Rhein-Neckar (
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jobticket-wo-gilt)
-
- Was ist das VRN JugendticketBW?
-----------
-
-* Geignet für Personen mit Hauptwohnsitz im VRN bis zur Vollendung des 21. Lebensjahrs ohne Ausbildungsnachweis, für Schüler:innen, Studierende, Auszubildene, FSJ, Engagierte im Bundefreiwillendienst bis zur Vollendung des 27. Lebensjahrs mit Ausbildungsnachweis
-* Für beliebig viele Fahten ganztägig in der 2. Klasse im gesamten VRN und in Bussen und Bahnen des Nahverkehrs in Baden-Württemberg, die in die Verbundtarife der baden-württembergischen Verkehrsverbünde oder in den bwtarif einbezogen sind.
-
-[JugendticketBW aussuchen](https://abo.bahn.de/bestellen/?tarifid=101,102,104,105)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jugendticket-bw)
 
  Welche Tickets des VRN sind online und in der App DB Navigator erhältlich?
 ----------
@@ -16453,40 +16405,6 @@ Innerhalb des **Verkehrsverbundes Mittelthüringen (VMT)** gilt das VMT-Hopper-T
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-vmt-hopper-ticket)
 
- Welche VVO-Angebote werden unterstützt?
-----------
-
-Sie können ein VVO-Abo, welches Sie von der DB Vertrieb GmbH beziehen, als Handy-Ticket hinzufügen. Es muss eines der folgenden Angebote sein:
-
-* Abo-Monatskarte digital
-* Ermäßigte Abo-Monatskarte digital
-* 9-Uhr-Abo-Monatskarte digital
-* JobTicket
-* BildungsTicket VVO
-* Deutschland-Ticket
-* ​​​​​​​Deutschland-Ticket Jobticket
-
-Handy-Tickets sind generell personengebunden und damit nicht übertragbar auf andere Personen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vvo-angebote-werden-unterstuetzt)
-
- Welche VVS-Angebote werden unterstützt?
-----------
-
-Sie können ein VVS-Abo, welches Sie von der DB Vertrieb GmbH beziehen, als Handy-Ticket hinzufügen. Es muss eines der folgenden Angebote sein:
-
-* Jedermann-Abo
-* 9-Uhr-Abo
-* SeniorenTicket
-* 14-Uhr-JuniorTicket
-* Firmenticket
-* 9-Uhr-Firmenticket
-* Deutschland-Ticket
-* Deutschland-Ticket Jobticket
-* VVS D-Ticket JugendBW
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vvs-angebote-werden-unterstuetzt)
-
  Welche Zahlungsmittel kann ich nutzen, um Fahrräder und Scooter von Sharing-Anbietern im DB Navigator auszuleihen?
 ----------
 
@@ -17349,15 +17267,6 @@ Nach Ablauf der ersten 3 Monate können Sie Ihr Monats-/Jahresabo ohne Zusatzkos
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-abo-kuendigen)
-
- Wie kann ich mein AzubiTicket im DB Navigator hochladen?
-----------
-
-Die AzubiTickets als Handy-Tickets werden wie alle Abos als Handy-Ticket in die App geladen.
-
-* [Details unter "Wie nutze ich den DB Navigator zur Anzeige meines DB Abos"](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-azubiticket-im-db-navigator-hochladen)
 
  Wie kann ich mein internationales Ticket buchen?
 ----------
@@ -20511,13 +20420,6 @@ Reisende mit Wohnsitz in Europa, der Türkei und Russland können einen Interrai
 [One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohnsitzland)
-
- Wozu ist der Menüpunkt "eTicket auslesen" unter "MVV Abo"?
-----------
-
-Hier haben MVV-Kunden mit einem eTicket die Möglichkeit, sich alle Daten ihres eTickets anzeigen zu lassen. Dafür rufen sie den Menüpunkt "eTicket auslesen" auf, schalten NFC auf ihrem Handy aktiv, halten an die Rückseite des Handys ihr eTicket und sehen dann alle Daten ihre Abos, z.B. Gültigkeitszeitraum, Strecke/Bereich und andere.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wozu-ist-der-menuepunkt-eticket-auslesen-unter-mvv-abo)
 
  Welche Abo-Angebote des Westfalentarifs kann ich hier kaufen?
 ----------
