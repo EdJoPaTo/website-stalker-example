@@ -1,10 +1,12 @@
 Warn-App NINA
 ==========
 
- Quelle:
-> BBK
+<details class="c-source" aria-hidden="true"> <summary class="c-source__summary"> Quelle: © </summary>
+> © BBK
 
-[vorlesen](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12845&lang=de_de&readid=content&url=https%3A%2F%2Fwww.bbk.bund.de%2FDE%2FWarnung-Vorsorge%2FWarn-App-NINA%2Fwarn-app-nina_node.html)
+</details>
+
+[vorlesen](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12845&lang=de_de&readid=readme_20502&url=https%3A%2F%2Fwww.bbk.bund.de%2FDE%2FWarnung-Vorsorge%2FWarn-App-NINA%2Fwarn-app-nina_node.html)
 
  Was ist die Warn-App NINA?
 ----------
@@ -229,7 +231,7 @@ Bitte schicken Sie eine E-Mail mit der genauen **Typbezeichnung** Ihres **Smartp
 📧 [nina@bbk.bund.de](mailto:nina@bbk.bund.de)
 
 Montag bis Donnerstag von 8:00 bis 16:30 Uhr
- Freitag von 8:00 bis 15:30 Uhr
+Freitag von 8:00 bis 15:30 Uhr
 
 Wir werden dann versuchen, den **Darstellungsproblemen** auf den Grund zu gehen.
 
@@ -252,13 +254,15 @@ Aktuell ist die App jedoch für die Darstellung auf **Smartphones** optimiert, s
 📧 [nina@bbk.bund.de](mailto:nina@bbk.bund.de)
 
 Montag bis Donnerstag von 8:00 bis 16:30 Uhr
- Freitag von 8:00 bis 15:30 Uhr
+Freitag von 8:00 bis 15:30 Uhr
 
  Warnung im Web
 ----------
 
- Quelle:
-> BBK
+<details class="c-source"> <summary class="c-source__summary"> Quelle: © </summary>
+> © BBK
+
+</details>
 
 Neben der Warn-App NINA gibt es für weitere Betriebssysteme die Website **„Warnmeldungen in der Übersicht**“. Sie zeigt alle **aktuellen** Warnmeldungen der Warn-App NINA.
 

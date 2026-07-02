@@ -518,9 +518,7 @@ Close
  Add-ons
 ----------
 
- Desktop Handle
-
- \+€20
+ Desktop Handle  +€20
 
  Add to Bag  Add pre-order to bag
 

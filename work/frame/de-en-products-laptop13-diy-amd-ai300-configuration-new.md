@@ -440,9 +440,7 @@ Close
 
 A simple way to keep your laptop safe from bumps and scratches, with a padded main pocket for protection, a front compartment for Expansion Cards and accessories, and a sturdy handle for easy carry.
 
- Space Silver
-
- \+€45
+ Space Silver  +€45
 
  Add to Bag  Add pre-order to bag
 

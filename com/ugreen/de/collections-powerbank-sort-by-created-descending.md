@@ -1,4 +1,4 @@
-[UGREEN x Honkai: Star Rail Magnetische Powerbank (10,000mAh, 30W, Qi2 15W)](https://de.ugreen.com/products/honkai-star-rail-magnetische-powerbank-10000mah-30w)
+[UGREEN x Honkai: Star Rail Magnetische Powerbank (10.000mAh, 30W, Qi2 15W)](https://de.ugreen.com/products/honkai-star-rail-magnetische-powerbank-10000mah-30w)
 
 [UGREEN Zapix Wireless Magnetische Powerbank (MagSafe,10000mAh, Qi2 15W, 30W USB-C Kabel )](https://de.ugreen.com/products/10000mah-magnetische-powerbank-fur-iphone-12-17)
 

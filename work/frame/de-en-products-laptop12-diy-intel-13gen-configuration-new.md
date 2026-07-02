@@ -411,25 +411,15 @@ Close
 
 ###  Stylus  ###
 
- Black
+ Black  +€65
 
- \+€65
+ Sage  +€65
 
- Sage
+ Lavender  +€65
 
- \+€65
+ Bubblegum  +€65
 
- Lavender
-
- \+€65
-
- Bubblegum
-
- \+€65
-
- Gray
-
- \+€65
+ Gray  +€65
 
  Add to Bag  Add pre-order to bag
 

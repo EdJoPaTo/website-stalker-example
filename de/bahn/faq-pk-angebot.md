@@ -458,18 +458,23 @@ Mit der Bestellung erteilen Sie dem Abo-Center ein SEPA-Lastschriftmandat, mit d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/6wann-muss-ich-das-jobticket-bezahlen)
 
- Ich möchte von meiner Monats- oder Jahreskarte im Abo auf ein Jobticket wechseln. Was muss ich tun?
+ Kann ich von meiner Monats- oder Jahreskarte im Abo auf ein Jobticket wechseln?
 ----------
 
-Ein Umtausch in ein ermäßigtes Jobticket ist leider nicht möglich. Dies hat vertragsrechtliche Gründe. Bitte kündigen Sie Ihre bisherige Jahreskarte mit einer Frist von einem Monat und bestellen Sie das günstigere Jobticket rechtzeitig zum Folgetermin neu.
+Nein. Sie können Ihre Monats- oder Jahreskarte im Abo nicht direkt in ein Jobticket umtauschen.
 
-Je nach Restlaufzeit Ihres bisherigen Abos sollten Sie prüfen, wann sich der Umstieg auf das Jobticket lohnt. Bitte beachten Sie, dass bei einer Kündigung vor Ablauf der ersten 3 Monate die Differenz vom Abo-Preis hin zur regulären Monatskarte ohne Abo-Ermäßigung gegengerechnet wird. Zu den genauen Beträgen der Differenzen berät Sie Ihr Abo-Center gerne.
+So gehen Sie vor:
 
-Empfehlung: Um eine Nachberechnung zu vermeiden, kündigen Sie Ihr bisheriges Abo nach Ablauf der ersten 3 Monate und bestellen Sie anschließend das Jobticket neu. So entstehen Ihnen keine finanziellen Nachteile.
+* Kündigen Sie Ihre bisherige Karte mit einer Frist von einem Monat.
+* Bestellen Sie Ihr Jobticket rechtzeitig neu.
+* Berücksichtigen Sie die Restlaufzeit Ihres Abos, da ein früher Wechsel Nachteile verursachen kann.
+* Kündigen Sie Ihr Abo möglichst erst nach den ersten drei Monaten, um eine Nachberechnung zu vermeiden. Ihr Abo-Center informiert Sie zu den genauen Beträgen.
+* Für die Neubestellung eines Jobtickets verwenden Sie bitte den Firmencode, den Sie beim Ansprechpartner Ihrer Firma erhalten.
 
-[Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
+Weitere Informationen erhalten Sie im Abo-Center.
 
-[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+* [Weitere Informationen zum DB Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
+* [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/7ich-habe-bereits-eine-db-jahreskarte-im-abo-was-muss-ich-tun)
 
@@ -478,37 +483,35 @@ Empfehlung: Um eine Nachberechnung zu vermeiden, kündigen Sie Ihr bisheriges Ab
 
 Sie können sowohl im DB- als auch im Deutschlandtarif Ihr Abo zu jederzeit mit einer Frist von einem Monat kündigen.
 
-Möglichkeiten zur Kündigung:
+* Nutzen Sie das Aboportal unter abo.bahn.de oder den Button "Abo kündigen" unter Ihrem Handy-Ticket.
+* Alternativ füllen Sie das Kündigungsformular aus.
 
-* Senden Sie eine E-Mail an [abo-firmenkunden@bahn.de](mailto:abo-firmenkunden@bahn.de)
-* Nutzen Sie unser Aboportal
-
-Hinweise:
+Hinweise zur Kündigung:
 
 * Wenn Ihr Abo mindestens 3 Monate läuft, entstehen keine Zusatzkosten.
-* Bei weniger als 3 Monaten wird der Differenzbetrag zwischen Monatskarte ohne Abo und dem ermäßigten Jobticketpreis für die tatsächliche Vertragslaufzeit in Rechnung gestellt. Ein Mehrbetrag wird erstattet.
+* Läuft das Abo weniger als 3 Monate, zahlen Sie den Differenzbetrag zwischen Monatskarte ohne Abo und dem ermäßigten Jobticketpreis.
+* Ein Mehrbetrag wird erstattet.
+* Für Deutschland-Ticket Jobtickets gelten die Tarifbedingungen des Deutschland-Tickets.
 
+* [Zum Kündigungsformular](https://www.bahn.de/kontakt/kuendigen)
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
-
-[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+* [Weitere Informationen zum DB Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
+* [Weitere Informationen zu Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/8wie-kuendige-ich-das-jobticket)
 
  Kann das Jobticket geändert werden?
 ----------
 
-Selbstverständlich können Änderungen vorgenommen werden. Ändern sich private Daten wie **Anschrift, Bankverbindung** usw., so teilen Sie uns das bitte schnellstmöglich mit. Am einfachsten im Aboportal oder per E-Mail an [abo-firmenkunden@bahn.de](mailto:abo-firmenkunden@bahn.de).
+Ja.
 
-Möchten Sie Ihr Abo ändern (z. B. anderer Start- oder Zielbahnhof, andere Züge), informieren Sie uns bitte **spätestens einen Monat** vor dem gewünschten Änderungstermin. Wir stellen Ihnen Ihr neues Jobticket in der App DB Navigator bereit.
+Wenn sich Ihre privaten Daten wie Anschrift oder Bankverbindung ändern, melden Sie dies bitte schnellstmöglich über die Funktion "Meine Daten" im Aboportal.
 
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-* [Adressen der Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
+Wenn Sie Ihr Jobticket-Abo ändern möchten (zum Beispiel Start- oder Zielbahnhof oder andere Züge), nutzen Sie die Funktion "Umtausch" im Aboportal. Informieren Sie uns spätestens einen Monat vor dem gewünschten Änderungstermin. Wir stellen Ihnen Ihr neues Jobticket in der App DB Navigator bereit.
 
-[Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
-
-[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
+* [Alle Informationen zur Änderung Ihrer Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/abos-dticket/daten-verwalten)
+* [Kontaktdaten der Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
+* [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/9kann-das-jobticket-geaendert-werden)
 
