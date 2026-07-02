@@ -6175,6 +6175,10 @@ Das DB Familienticket ist ein zeitlich begrenzt verfügbares Familienangebot. Mi
 
 Das Angebot kann auf bahn.de, im DB Navigator oder in personenbedienten Verkaufsstellen für 99,99 Euro erworben werden. Bei Verbindungen mit einer Teilstrecke im Nahverkehr (SPNV) liegt der Preis bei 143,99 Euro. Alternativ kann eine einfache Fahrt für 59,99 Euro erworben werden (mit Nahverkehr für 81,99 Euro).
 
+[Weitere Informationen zum Familienticket](https://www.bahn.de/angebot/kinder/familienticket)
+
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-familienticket)
 
  Was ist der Komfort Check-in?
