@@ -6840,6 +6840,17 @@ Begleithunde sind kostenfrei. Es muss jedoch ein Ticket mindestens 24 Stunden vo
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-eurostar-umtausch-storno)
 
+ Mein gebuchter Eurostar-Zug fällt aus, welche Optionen habe ich?
+----------
+
+Wenn Sie Ihr Eurostar-Ticket online bei der DB gekauft haben und Sie vor Abfahrt informiert werden, dass der gebuchte Zug ausfällt, können Sie Ihr Ticket bis 3 Monate nach planmäßiger Abfahrt selbstständig kostenfrei unter "[Meine Reisen](https://www.bahn.de/buchung/meine-reisen)" über [bahn.de](https://www.bahn.de/) stornieren.
+
+Wenn Sie ihr Eurostar-Ticket im DB Reisezentrum gekauft haben, wenden Sie sich bitte an dieses.
+
+Möchten Sie ihr Ticket nicht kostenfrei erstatten, so können Sie ihr Ticket bis 3 Monate nach planmäßiger Abfahrt kostenfrei umbuchen auf der [Eurostar-Webseite](https://www.eurostar.com/de-de) unter „Buchung verwalten“.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-eurostar-zugausfall)
+
  Wie lange im Voraus kann ich SBB-Fahrkarten buchen?
 ----------
 
