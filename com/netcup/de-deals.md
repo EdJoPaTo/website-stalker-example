@@ -23,40 +23,12 @@ Welche Domain holt den Titel? Bei netcup treten eine Auswahl an passenden Lände
 
 * Verfolge unser spannendes Match bis zum 19.07.2026.
 
-* Alle (14)
+* Alle (12)
 * Webhosting
 * Root-Server
 * VPS
-* Domains  (14)
+* Domains  (12)
 * Andere Flash Deals (0)
-
-Domains
-
-### .at Domain ###
-
- 14 % Rabatt
-
-statt 1,05 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,86 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.at-domain-wm26)
 
 Domains
 
@@ -197,34 +169,6 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.mx-domain-wm26)
-
-Domains
-
-### .hr Domain ###
-
- 35 % Rabatt
-
-statt 18,16 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-11,78 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.hr-domain-wm26)
 
 Domains
 
@@ -426,6 +370,34 @@ Domains
 
  Deal ausgeschieden
 
+### .at Domain ###
+
+ 14 % Rabatt
+
+statt 1,05 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+0,86 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
 ### .de Domain ###
 
  69 % Rabatt
@@ -559,6 +531,34 @@ statt 2,15 €
 pro Monat
 
 1,88 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .hr Domain ###
+
+ 35 % Rabatt
+
+statt 18,16 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+11,78 €
 
 (inkl. 19% MwSt.)
 
