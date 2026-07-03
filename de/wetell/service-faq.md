@@ -30,7 +30,7 @@ Die technische Umsetzung unseres Mobilfunkangebots ermöglicht uns eine Kooperat
 
 In unserer Kooperation ist die STROTH Telecom der Vertragspartner deines Mobilfunkvertrags und wir nutzen auch seine technischen Systeme zur Abwicklung. Damit bauen wir auf bestehende Expertise und stellen sicher, dass alle Abläufe zu 100 % funktionieren.
 
-Abgesehen von der technischen Abwicklung bist du komplett bei WEtell: Wir übernehmen den Service und sorgen dafür, dass du fair, nachhaltig und datensicher surfst und telefonierst.
+Abgesehen von der technischen Abwicklung bist du komplett bei WEtell: Wir übernehmen den Service und sorgen dafür, dass du fair und datensicher surfst und telefonierst.
 
 #### Wie und warum nutzt WEtell Cookies? ####
 
@@ -44,7 +44,9 @@ Der Blick in den Mobilfunkmarkt zeigt, dass wir gegen die ganz Großen antreten 
 
 Du kannst dir kaum vorstellen, wie wichtig es für uns dabei ist, wenn du deinen Freund\*innen und Bekannten von uns erzählst. Durch Menschen wie dich wird WEtell immer bekannter, auch wenn unser Marketingbudget mit den Großen der Konkurrenz nicht mithalten kann.
 
-Neben Freund\*innen und Bekannten hast du vielleicht 'nen Sportverein oder eine Lieblingsbar, in der viele Menschen sind wie wir. Menschen, die Bock darauf haben, etwas zu verändern. Dann melde dich bei uns unter [service@wetell.de](mailto:service@wetell.de) und wir senden dir Postkarten oder Poster zu, die du dort verteilen und auslegen kannst.
+Neben Freund\*innen und Bekannten hast du vielleicht 'nen Sportverein oder eine Lieblingsbar, in der viele Menschen sind wie wir. Menschen, die Bock darauf haben, etwas zu verändern. Dann melde dich bei uns unter [marketing@wetell.de](mailto:marketing@wetell.de) und wir senden dir Postkarten oder Poster zu, die du dort verteilen und auslegen kannst.
+
+Und natürlich kannst du auch gerne bei unserer Weiterempfehlungskampagne youtell mitmachen. Das geht ganz einfach und du wirst mit einer Gutschrift belohnt. Mehr dazu [hier](https://www.wetell.de/community/youtell/).
 
 Wenn du auf dem Laufenden bleiben willst, trag dich doch in unseren Newsletter ein!
 
@@ -151,7 +153,7 @@ Einen DSL/Breitband-Anschluss bieten wir bisher nicht an, sondern ausschließlic
 
 Ja, es gibt unseren [Gruppenfunk](/mobilfunk/optionen/gruppenfunk/): Sobald du mehr als einen Tarif in deinem Vertragskonto hast, erhältst du automatisch für jeden weiteren Tarif 2 € Rabatt. Mehr dazu unter [Gruppenfunk](/mobilfunk/optionen/gruppenfunk/).
 
-Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es den „FAIRstärker“, er bietet die Möglichkeit, sich mit 1 €, 3 € oder 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1 €, 3 €, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du auf der [FAIRstärker-Seite](/mobilfunk/optionen/fairstaerker/).
+Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es außerdem den „FAIRstärker“. Er bietet die Möglichkeit, sich mit 1 €, 3 € oder 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1 €, 3 €, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du auf der [FAIRstärker-Seite](/mobilfunk/optionen/fairstaerker/).
 
 #### Gilt das monatliche Datenvolumen sowohl für Down- als auch für Uploads? ####
 

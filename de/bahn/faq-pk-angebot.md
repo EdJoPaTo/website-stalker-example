@@ -9807,11 +9807,9 @@ Ja, eine Nutzung der 1. Klasse im Schienenpersonennahverkehr (SPNV) z.B. RE, RB 
  Gibt es im SH-Tarif spezielle Abo-Angebote für Pendler?
 ----------
 
-Ja, das NAH.SH-Jobticket im Schleswig-Holstein-Tarif. Beteiligt sich Ihr Arbeitgeber mit einem Zuschuss an Ihren Fahrtkosten, sparen Sie doppelt. Denn zusätzlich zum Arbeitgeberzuschuss geben wir Ihnen noch einen Rabatt auf den Preis Ihrer Abo-Monatskarte. Das ist das NAH.SH-Jobticket für Pendler mit Bussen und Zügen des Nahverkehrs in Schleswig-Holstein und nach Hamburg. Es kann von allen Beschäftigten genutzt werden, deren Arbeitgeber einen Fahrtkostenzuschuss zahlt. Dieses Angebot gilt auch für Auszubildende. Überzeugen Sie sich und Ihren Arbeitgeber: Alle Informationen zum NAH.SH-Jobticket gibt es unter
+Ja, das NAH.SH-Jobticket im Schleswig-Holstein-Tarif. Beteiligt sich Ihr Unternehmen mit einem Zuschuss an Ihren Fahrtkosten, sparen Sie doppelt. Denn zusätzlich zum Arbeitgeberzuschuss geben wir Ihnen noch einen Rabatt auf den Preis Ihrer Abo-Monatskarte. Das ist das Deutschland-Jobticket SH-Tarif für Pendler mit Bussen und Zügen des Nahverkehrs in Schleswig-Holstein und nach Hamburg. Es kann von allen Beschäftigten genutzt werden, deren Arbeitgeber einen Fahrtkostenzuschuss zahlt. Dieses Angebot gilt auch für Auszubildende. Überzeugen Sie sich und Ihren Arbeitgeber: Alle Informationen zum NAH.SH-Jobticket gibt es unter
 
 * [www.nah.sh/de](https://www.nah.sh/de/fahrkarten/jobticket/)
-
-[SH-Tarif JobTicket](https://next.bahn.de/angebot/pendler/pendler_fis2)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nah-sh-jobticket)
 
@@ -15746,8 +15744,8 @@ Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abover
 
 **Weitere Angebote:**
 
-* NAH.SH-Jobticket
-* NAH.SH-Jobticket für Azubis
+* NAH.SH-Jobticket SH-Tarif
+* Deutschland-Jobticket SH-Tarif
 
 * [Weitere SH-Tarif-Angebote](https://www.nah.sh/de/fahrkarten/monatskarte-im-abo/)
 
