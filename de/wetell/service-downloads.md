@@ -103,4 +103,4 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
 * #### GWÖ-Bericht ####
 
-  * [GWÖ - Bilanz](/media/filer_public/59/c5/59c59720-2831-4ab2-a4d7-7ce07a891f15/2023_wetell_gemeinwohl-bilanz.pdf)
+  * [GWÖ - Bilanz](/media/filer_public/e2/60/e2600d91-33bc-4c6a-8a76-1691f75d12a8/wetell_gwo-bilanz_2025.pdf)

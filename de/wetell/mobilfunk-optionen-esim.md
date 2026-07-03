@@ -11,7 +11,7 @@ Was ist eine eSIM und warum ist sie nachhaltig?
 
 Eine eSIM ist die elektronische Variante der klassischen SIM-Karte. Sie ist fest im Gerät integriert und du kannst sie bequem digital aktivieren. Das spart nicht nur Plastik und Versand, sondern macht die Nutzung deiner WEtell Mobilfunknummer flexibler. Besonders gut: Kein Warten mehr auf den Postversand – du kannst deine eSIM sofort nutzen!
 
-* **Kein Plastik:** Mit der eSIM hilfst du, unnötigen Plastikmüll zu vermeiden.
+* **Kein Plastik, kein Versand:** Mit der eSIM hilfst du, Ressourcen zu schonen.
 * **Sofortige Aktivierung:** Die eSIM ist direkt nach der Bestellung einsatzbereit.
 * **Flexibilität:** Du kannst mehrere Profile auf einem Gerät verwalten, ideal für Reisen oder die Nutzung von privaten und geschäftlichen Nummern.
 
