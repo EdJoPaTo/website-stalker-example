@@ -35,7 +35,7 @@ Sitzplatzreservierung im Nahverkehr
 
 ### Dauerreservierung im Nahverkehr ###
 
-• Nur 40 Euro im Jahr, in einigen Bundesländern sogar kostenfrei
+• Nur 40 Euro im Jahr, im Süwex sogar kostenfrei
 • Bequem pendeln mit einem festen Sitzplatz
 
 [Weitere Informationen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
