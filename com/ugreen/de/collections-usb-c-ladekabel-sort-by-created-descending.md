@@ -4,7 +4,7 @@
 
 [UGREEN Nexode ausziehbares USB-C-Kabel (100W)](https://de.ugreen.com/products/nexode-100w-ausziehbares-usb-c-kabel)
 
-[UGREEN USB4 Kabel (80Gbps, 240W, 16K)](https://de.ugreen.com/products/usb4-kabel-80gbps-16k-240w)
+[UGREEN USB4 Kabel (1M, 80Gbps, 240W, 16K)](https://de.ugreen.com/products/usb4-kabel-80gbps-16k-240w)
 
 [UGREEN Uno USB-C auf USB-C Kabel (100W)](https://de.ugreen.com/products/ugreen-uno-usb-c-kabel-100w)
 

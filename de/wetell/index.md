@@ -458,11 +458,12 @@ Alles, was du (noch) wissen willst
 
 * Wer ist WEtell?
 
-  Hallo, wir sind WEtell! Wir sind ein [super motiviertes Team](https://www.wetell.de/community/team/) aus Freiburg, das die Mobilfunkbranche nachhaltig aufmischt.
-  Unsere Mission: Den nachhaltigen Wandel in der Wirtschaft aktiv voranzutreiben – für eine Welt, die jetzt und auch in Zukunft lebenswert ist.
+  Hallo, wir sind WEtell!
+  Im schönen Freiburg ist unsere Zentrale, von der aus wir die Mobilfunkbranche nachhaltige aufmischen. Unser [motiviertes Team](https://www.wetell.de/community/team/) erstreckt sich inzwischen bis nach Bonn, das Münchener Umland und ins Frankenländle. Und egal ob remote oder vor Ort: Uns alle verbindet die Mission den sozialen und ökologischen Wandel in der Wirtschaft voranzubringen.
 
-  Wir bieten [klimafreundlichen und fairen Mobilfunk](https://www.wetell.de/mobilfunk/) an. Mit [menschlichem Service](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service) und [super Datenschutz](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle). Überhaupt gilt bei allem, was wir tun: Gemeinwohl vor Profit
-  Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](https://www.wetell.de/gwoe/) vorbei, dort findest du noch mehr Informationen.
+  Seit 2019 sind wir schon dabei und haben seither einige revolutionäre Aktionen umgesetzt: Die erste solidarische Tarifoption im deutschen Mobilfunk, der FAIRstärker geht auf unsere Kappe. Wir haben mehrfach Tarifverbesserungen automatisch an alle Bestandskund\*innen weitergegeben und haben uns getraut einen Kündigungsservice für euch durchzuboxen. Auch im Klimaaktivismus haben wir uns Dinge getraut, die nicht selbstverständlich waren und haben als Unternehmen Stellung bezogen. Und nicht zuletzt sind wir das einzige Mobilfunkunternehmen in Verantwortungseigentum.
+
+  Uns zeichnet also aus, dass wir mehr wollen: Mehr Klimaschutz, mehr Fairness, mehr Gemeinwohl, mehr Miteinander. Das leben wir im Team, mit unseren Kund\*innen und unseren Kooperationspartner\*innen.
 
 * Warum nicht einen billigen Discountervertrag abschließen und das gesparte Geld fürs Klima spenden?
 

@@ -782,15 +782,6 @@ Nein. Kinder unter 10 Jahren dürfen nur in Begleitung eines Erwachsenen reisen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisende-kinder-polnischer-nachtzug)
 
- Kann ich für mein alleinreisendes Kind einen (Super) Sparpreis Europa Slowakei kaufen?
-----------
-
-* **Kinder bis 5 Jahre** reisen immer kostenfrei. Sie dürfen in der Slowakei nur zusammen mit einer Begleitperson reisen, die mindestens 16 Jahre ist.
-* **Kinder von 6 bis 14 Jahren** erhalten auf dem deutschen Streckenabschnitt 50 % Ermäßigung auf den Preis, den Erwachsene zahlen.
-* **Kinder von 6 bis 15 Jahren** erhalten auf dem slowakischem Streckenabschnitt 50 % Ermäßigung auf den Preis, den Erwachsene zahlen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisende-kinder-sparpreis-europa-slowakei)
-
  Kann ich für mein alleinreisendes Kind einen (Super) Sparpreis Europa Young kaufen?
 ----------
 
@@ -977,15 +968,6 @@ Nein, das Angebot gilt nicht für alleinreisende Kinder. Alleinreisende Kinder e
 * **Kinder von 6 bis 15 Jahren** erhalten auf dem schweizerischen Streckenabschnitt 50 % Ermäßigung auf den Preis, den Erwachsene zahlen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-sparpreis-europa-schweiz)
-
- Kann ich für mein alleinreisendes Kind einen (Super) Sparpreis Europa Slowenien kaufen?
-----------
-
-* **Kinder von 0 bis 5 Jahren** reisen immer kostenfrei. Sie dürfen in Slowenien nur in Begleitung reisen.
-* **Kinder von 6 bis 14 Jahren** erhalten auf dem deutschen Streckenabschnitt 50 % Ermäßigung auf den Preis, den Erwachsene zahlen.
-* **Kinder von 6 bis 11 Jahren** erhalten auf dem slowenischen Streckenabschnitt 50 % Ermäßigung auf den Preis, den Erwachsene zahlen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-sparpreis-europa-slowenien)
 
  Kann ich für mein alleinreisendes Kind einen (Super) Sparpreis Europa Tschechien kaufen?
 ----------
@@ -5558,7 +5540,7 @@ Bitte kontaktieren Sie uns über das Kontaktformular auf [www.jobticket-bahn.de]
 
 [Jetzt buchen](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ferien-ticket-nrw)
 
@@ -8443,24 +8425,6 @@ Je nach Land gibt es ein bestimmtes Mindestalter für alleinreisende Kinder. Bit
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-sparpreis-europa-schweiz)
 
- Können Kinder mit dem (Super) Sparpreis Europa Slowakei kostenfrei reisen?
-----------
-
-* **Kinder bis 5 Jahre** fahren immer kostenfrei und müssen nicht bei der Buchung angegeben werden.
-* **Kinder von 6 bis 14** **Jahren** fahren in Begleitung einer Person ab 15 Jahre kostenfrei. Sie müssen aber bei der Buchung angegeben werden. Es können bis zu 4 Kinder pro Fahrkarte mitgenommen werden.
-* **Hinweis:** Bei Nutzung eines City-Tickets in Deutschland zahlen Kinder den Preis zum Kindertarif für eine Einzelfahrt im jeweiligen Verbund.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-sparpreis-europa-slowakei)
-
- Können Kinder mit dem (Super) Sparpreis Europa Slowenien kostenfrei reisen?
-----------
-
-* **Kinder bis 5 Jahre** fahren immer kostenfrei und müssen nicht bei der Buchung angegeben werden.
-* **Kinder von 6 bis 14** **Jahren** fahren in Begleitung einer Person ab 15 Jahre kostenfrei. Sie müssen aber bei der Buchung angegeben werden. Es können bis zu 4 Kinder pro Fahrkarte mitgenommen werden.
-* **Hinweis:** Bei Nutzung eines City-Tickets in Deutschland zahlen Kinder den Preis zum Kindertarif für eine Einzelfahrt im jeweiligen Verbund.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-sparpreis-europa-slowenien)
-
  Können Kinder mit dem (Super) Sparpreis Europa Tschechien kostenfrei reisen?
 ----------
 
@@ -10214,7 +10178,7 @@ Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 24,99 Euro
  Was kostet ein Sparpreis Europa Slowakei-Ticket?
 ----------
 
-Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 35,99 Euro in der 2. Klasse** und a**b 52,99 Euro in der 1. Klasse.**
+Ein Ticket für die einfache Fahrt kostet je nach Verfügbarkeit **ab 35,99 Euro in der 2. Klasse** und **ab 52,99 Euro in der 1. Klasse.**
 
 [Weitere Informationen zum Sparpreis Europa Slowakei](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-europa-slowakei)
 
@@ -20056,7 +20020,7 @@ Kein Verkauf im Zug!
 
 [Alle Infos zum Ferienticket NRW](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00001O201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 

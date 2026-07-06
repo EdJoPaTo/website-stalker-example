@@ -21,7 +21,7 @@ Begrenzt verfügbar
 
  Perfekt für Testumgebungen
 
- Cost Optimized
+ Cost-Optimized
 
  Extrem kostengünstig
 
@@ -69,7 +69,7 @@ Begrenzt verfügbar
 
  Perfekt für Testumgebungen
 
- Cost Optimized
+ Cost-Optimized
 
  Extrem kostengünstig
 
