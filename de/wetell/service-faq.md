@@ -19,7 +19,7 @@ Ungefähr ein Viertel der Tarifkosten fließen direkt in die Umsetzung dieser Ma
 
 Klar, es gibt deutlich günstigere Mobilfunkverträge auf dem Markt. Und mit dem „gesparten“ Geld lässt sich auch viel Gutes tun, wenn man es bspw. spendet. Wir glauben allerdings: für langfristigen Wandel muss sich die Art des Wirtschaftens und damit der Markt selbst wandeln.
 
-Wir arbeiten für eine Welt, in der Unternehmen nachhaltig und gemeinwohlorientiert agieren. Mit WEtell wollen wir im Bereich Mobilfunk eine nachhaltige Alternative und damit einen Leuchtturm schaffen. Natürlich kosten die Tarife dann ein bisschen mehr, doch nur so erreichen wir eine wirkliche Veränderung.
+Wir arbeiten für eine Welt, in der Unternehmen nachhaltig und gemeinwohlorientiert agieren. Mit WEtell wollen wir im Bereich Mobilfunk mit gutem Beispiel vorangehen. Natürlich kosten die Tarife dann ein bisschen mehr, doch nur so erreichen wir eine wirkliche Veränderung.
 
 #### Welches Netz nutzt WEtell? ####
 
