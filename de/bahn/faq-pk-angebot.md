@@ -652,28 +652,27 @@ Die Funktion steht ab der **DB Navigator Version 25.23.0** zur Verfügung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-im-navigator-nutzen)
 
- Wie kann ich ein Abo Job beantragen?
+ Wie kann ich ein MVV Abo Job beantragen?
 ----------
 
 Es gibt 2 Möglichkeiten das Abo Job zu bestellen. Der Bestellweg ist abhängig vom Arbeitgeber.
 
-* Eine Möglichkeit ist die Bestellung mittels FIS-Schlüssel (Firmen-Identifikations-Schlüssel, den Sie in Ihrer Personalabteilung erhalten). Mitarbeitende können unter [Bestellseite zum Jobticket](https://abo.bahn.de/bestellen/?tarifid=72) unter Angabe des FIS-Schlüssels ihr Abo Job zum 1. eines Monats bestellen. Im Rahmen des elektronischen Bestellvorgangs wird die Zugehörigkeit der oder des Beschäftigten zum Arbeitgeber bestätigt und im Anschluss an das MVV-Abo-Center der DB übermittelt. Sie erhalten automatisch eine E-Mail als Bestätigung. Die Bestellung muss vollständig ausgefüllt sein, da ansonsten keine Bearbeitung möglich ist.
+* Eine Möglichkeit ist die Bestellung mittels FIS-Schlüssel (Firmen-Identifikations-Schlüssel, den Sie in Ihrer Personalabteilung erhalten). Mitarbeitende können unter Bestellseite zum Jobticket unter Angabe des FIS-Schlüssels ihr Abo Job zum 1. eines Monats bestellen. Im Rahmen des elektronischen Bestellvorgangs wird die Zugehörigkeit der oder des Beschäftigten zum Arbeitgeber bestätigt und im Anschluss an das MVV-Abo-Center der DB übermittelt. Sie erhalten automatisch eine E-Mail als Bestätigung. Die Bestellung muss vollständig ausgefüllt sein, da ansonsten keine Bearbeitung möglich ist.
 * Zudem gibt es noch vereinzelt Vertragspartner, die den Papierbestellschein nutzen. Hierbei erhalten Sie den den Bestellschein von ihrem Arbeitgeber (Personalabteilung oder Betriebsrat). Der Bestellschein muss vom Arbeitgeber unterschrieben und gestempelt werden, danach wird er zur Bearbeitung an das Abo-Center MVV geschickt.
 
 Wichtig ist bei beiden Bestellwegen vor allem die richtige Angabe von Namen, Geburtsdatum, Anschrift und Bankverbindung.
 
-[Weitere Informationen zur IsarCardJob im MVV](https://www.bahn.de/angebot/verbuende/mvv-abo-job)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
+* [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
+* [Weitere Informationen zur IsarCardJob im MVV zum MVV Abo Job](https://www.bahn.de/angebot/verbuende/mvv-abo-job)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-job-beantragen)
 
- Welche Vorteile bietet ein Abo Job?
+ Welche Vorteile bietet ein MVV Abo Job?
 ----------
 
-Gegenüber einem Abo wird ein Rabatt von 5 % (ab 100 Teilnehmern) oder 10 % (ab 1000 Teilnehmern) gewährt. Bei einem gleichzeitigen Wechsel der Zahlungsweise von monatlich auf jährlich ergibt sich noch eine weitere Ersparnis.
+Gegenüber einem Abo wird ein Rabatt von 5 Prozent (ab 100 Teilnehmern) oder 10 Prozent (ab 1000 Teilnehmern) gewährt. Bei einem gleichzeitigen Wechsel der Zahlungsweise von monatlich auf jährlich ergibt sich noch eine weitere Ersparnis.
 
-[Weitere Informationen zur IsarCardJob im MVV](https://www.bahn.de/angebot/verbuende/mvv-abo-job)
+[Weitere Informationen zum MVV Abo Job](https://www.bahn.de/angebot/verbuende/mvv-abo-job)
 
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
 
@@ -686,11 +685,12 @@ Ja, in einigen Fällen kann die Person, die das Abo abgeschlossen hat (Vertragsp
 
 Die Funktion "Abo reaktivieren" finden Sie im Aboportal und im Handyticket. Wählen Sie im Aboportal das betreffende Abo aus, um die Funktion "Abo reaktivieren" aufzurufen.
 
-Wenn Sie schon eine Kündigung eingereicht haben und das Kündigungsdatum ändern möchten, reaktivieren Sie bitte zunächst das Abo. Anschließend können Sie die Kündigung erneut durchführen.
+Wenn Sie schon eine Kündigung eingereicht haben und das Kündigungsdatum ändern möchten, reaktivieren Sie bitte zunächst das Abo. Anschließend können Sie die Kündigung (im Rahmen der Kündigungsfrist) erneut durchführen.
 
 Nach Erreichen des Kündigungsdatums ist eine Neubestellung erforderlich.
 
 * [Zum Aboportal](https://abo.bahn.de/#/home)
+* [Hilfe bei Problemen mit der Funktion "Abo reaktivieren"](https://www.bahn.de/faq/abo-reaktivieren-nicht-moeglich)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-reaktivieren)
 
@@ -1188,26 +1188,15 @@ Wenn Sie unter "Regionale Angebote" im Bereich "Tickets & Angebote" der App DB N
  Welche Abo-Angebote des MVV für Auszubildende und/oder Studierende gibt es?
 ----------
 
-**Bayerisches Ermäßigungsticket**
+Mit unserem 365-Euro-Ticket MVV können Schüler:innen und Auszubildende ein Jahr lang alle Busse und Bahnen im gesamten MVV-Verbundgebiet (Münchner Verkehrs- und Tarifverbund) unbegrenzt nutzen. Sie bezahlen monatlich 36,50 Euro für 10 Monate und erhalten den 11. und 12. Monat kostenfrei.
+Das Abo können Sie mit einem passenden Ermäßigungsnachweiß bequem auf bahn.de/abo-mvv online bestellen.
 
-* Für Auszubildende und Studierende in Bayern
-* Für 43 Euro im Monat
-  [Bayerisches Ermäßigungsticket kaufen](https://bahnland-bayern.de/de/ermaessigungsticket)
+Das bayerische Ermäßigungsticket können Sie derzeit nicht bei der DB erwerben. Informationen zum Angebot finden Sie bei der Bayerische Eisenbahn­ge­sell­schaft (BEG).
 
-**Ausbildung SEPA**
+* [bahn.de/abo-mvv](https://www.bahn.de/angebot/verbuende/mvv-abos)
+* [Bayerisches Ermäßigungsticket kaufen](https://bahnland-bayern.de/de/ermaessigungsticket)
 
-* Gilt für Auszubildende, Beamtenanwärter, Teilnehmer an einem freiwilligen sozialen/ökologischen Jahr, Praktikanten und Volontäre in den gewählten MVV-Zonen zwischen Wohn- und Ausbildungsort für beliebig viele Fahrten rund um die Uhr, auch am Wochenende.
-* Die monatlichen Beträge werden bequem und bargeldlos vom Konto abgebucht.
-* Der Abovertrag kann monatlich gekündigt oder geändert werden.
-* 12 Monate fahren und nur 10,5 Monate bezahlen.
-* Start mit dem Jahresabo ab jeden 1. eines Monats
-* Nach einer Laufzeit von 10,5 Monaten erhalten Sie eine BonusCard
-* Eine Erweiterung der gekauften MVV-Zonen ist mit der Ausbildung PlusCard jederzeit möglich.
-* Mit dem Kauf eines Abos kommen Kundenkarte und Fahrkarte in einem Vorgang.
-
-[Weitere Informationen zu Abo-Angeboten im MVV](https://www.bahn.de/angebot/verbuende/mvv-abos)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=88,113,63,64,65,66,67,68,69,72)
+[Abo auswählen](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebote-azubi-studierende-mvv)
 
@@ -1219,17 +1208,6 @@ Sie finden eine Übersicht der Angebote auf der Website der S-Bahn Mitteldeutsch
 * [s-bahn-mitteldeutschland.de](https://www.s-bahn-mitteldeutschland.de/angebot)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebote-mdv-sbm)
-
- Wie kündige ich mein Abo im NRW-Tarif?
-----------
-
-* Die Verwaltung von Abos im NRW-Tarif wurde auf die Systeme von GoRheinland umgestellt.
-* Bitte beachten Sie die Informationen, die Sie im August zur Umstellung erhalten haben.
-* Falls Sie Ihr Abo nicht umstellen möchten, läuft es zum **31. August 2025** automatisch aus.
-
-* [Zu gorheinland.com](https://www.gorheinland.com/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebote-nrw-tarif-abo-kuendigen)
 
  Wie kann ich mich im DB Jobticketportal anmelden?
 ----------

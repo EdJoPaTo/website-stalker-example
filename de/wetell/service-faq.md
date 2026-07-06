@@ -1,9 +1,9 @@
 #### Wer ist WEtell? ####
 
 Hallo, wir sind WEtell!
-Im schönen Freiburg ist unsere Zentrale, von der aus wir die Mobilfunkbranche nachhaltige aufmischen. Unser [motiviertes Team](https://www.wetell.de/community/team/) erstreckt sich inzwischen bis nach Bonn, das Münchener Umland und ins Frankenländle. Und egal ob remote oder vor Ort: Uns alle verbindet die Mission den sozialen und ökologischen Wandel in der Wirtschaft voranzubringen.
+Im schönen Freiburg ist unsere Zentrale, von der aus wir die Mobilfunkbranche nachhaltige aufmischen. Unser [motiviertes Team](https://www.wetell.de/community/team/) erstreckt sich inzwischen bis nach Bonn, das Münchener Umland und ins Frankenländle. Und egal ob remote oder vor Ort: Uns alle verbindet die Mission, den sozialen und ökologischen Wandel in der Wirtschaft voranzubringen.
 
-Seit 2019 sind wir schon dabei und haben seither einige revolutionäre Aktionen umgesetzt: Die erste solidarische Tarifoption im deutschen Mobilfunk, der FAIRstärker geht auf unsere Kappe. Wir haben mehrfach Tarifverbesserungen automatisch an alle Bestandskund\*innen weitergegeben und haben uns getraut einen Kündigungsservice für euch durchzuboxen. Auch im Klimaaktivismus haben wir uns Dinge getraut, die nicht selbstverständlich waren und haben als Unternehmen Stellung bezogen. Und nicht zuletzt sind wir das einzige Mobilfunkunternehmen in Verantwortungseigentum.
+Seit 2019 sind wir schon dabei und haben seither einige revolutionäre Aktionen umgesetzt: Die erste solidarische Tarifoption im deutschen Mobilfunk, der [FAIRstärker](https://www.wetell.de/mobilfunk/optionen/fairstaerker/), geht auf unsere Kappe. Wir haben [mehrfach Tarifverbesserungen](https://www.wetell.de/community/newsblog/tarifumzug/) automatisch an alle Bestandskund\*innen weitergegeben und haben uns getraut, einen Kündigungsservice einzuführen. Auch im Klimaaktivismus haben wir als Unternehmen Stellung bezogen. Und nicht zuletzt sind wir das einzige Mobilfunkunternehmen in [Verantwortungseigentum](https://www.wetell.de/community/newsblog/wetell-ist-purpose-unternehmen/).
 
 Uns zeichnet also aus, dass wir mehr wollen: Mehr Klimaschutz, mehr Fairness, mehr Gemeinwohl, mehr Miteinander. Das leben wir im Team, mit unseren Kund\*innen und unseren Kooperationspartner\*innen.
 
