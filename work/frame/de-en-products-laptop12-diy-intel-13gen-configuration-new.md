@@ -404,8 +404,6 @@ Close
 
  \+€29
 
- Storage Expansion Cards
-
  Add-ons
 ----------
 

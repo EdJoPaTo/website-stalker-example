@@ -513,8 +513,6 @@ Close
 
  \+€20
 
- Storage
-
  Add-ons
 ----------
 

@@ -327,7 +327,7 @@ Most popular combination
 
 Quick select
 
- Additional Port Expansion Cards
+ Port Expansion Cards
 
  USB-C  New colors available
 
@@ -483,8 +483,6 @@ Choose colorAluminum - GraphiteAluminum - Silver
 Choose colorAluminum - GraphiteAluminum - Silver
 
 Choose colorAluminum - GraphiteAluminum - Silver
-
- Storage Expansion Cards
 
  Add-ons
 ----------
