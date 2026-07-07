@@ -23,11 +23,11 @@ Welche Domain holt den Titel? Bei netcup treten eine Auswahl an passenden Lände
 
 * Verfolge unser spannendes Match bis zum 19.07.2026.
 
-* Alle (10)
+* Alle (8)
 * Webhosting
 * Root-Server
 * VPS
-* Domains  (10)
+* Domains  (8)
 * Andere Flash Deals (0)
 
 Domains
@@ -256,62 +256,6 @@ pro Monat
 
 Domains
 
-### .pt Domain ###
-
- 49 % Rabatt
-
-statt 4,00 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-2,05 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.pt-domain-wm26)
-
-Domains
-
-### .us Domain ###
-
- 10 % Rabatt
-
-statt 1,19 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-1,07 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.us-domain-wm26)
-
-Domains
-
  Deal ausgeschieden
 
 ### .at Domain ###
@@ -531,6 +475,62 @@ statt 18,16 €
 pro Monat
 
 11,78 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .pt Domain ###
+
+ 49 % Rabatt
+
+statt 4,00 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+2,05 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .us Domain ###
+
+ 10 % Rabatt
+
+statt 1,19 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+1,07 €
 
 (inkl. 19% MwSt.)
 

@@ -2298,6 +2298,48 @@ DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
 
+ Was ändert sich an den Freifahrtprämien Flex?
+----------
+
+Die benötigten Punkte der Gutscheine für die Freifahrten Flex erhöhen sich wie folgt:
+
+* 2. Klasse, einfache Fahrt - 2.500 Prämienpunkte
+* 1. Klasse, einfache Fahrt - 3.500 Prämienpunkte
+* 2. Klasse, Hin- und Rückfahrt - 4.000 Prämienpunkte
+* 1. Klasse Hin- und Rückfahrt - 6.000 Prämienpunkte
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-flex)
+
+ Ändern sich noch bei weiteren Prämien die Punktehöhen?
+----------
+
+Bei allen weiteren Bahnprämien, wie Sitzplatzreservierungen, 1. Klasse Upgrades und Reisegutscheinen bleibt die aktuelle Punktehöhe bestehen. Auch die Sach-, Partner- und Spendenprämien sind nicht betroffen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-weitere-praemien)
+
+ Für welche Freifahrtprämien wird es zukünftig verschiedene Punktehöhen geben?
+----------
+
+Für folgende Freifahrtprämien wird es verschiedene Punktehöhen geben:
+
+* Freifahrt 2. Klasse (ab 750 Prämienpunkten)
+* Freifahrt 1. Klasse (ab 1.250 Prämienpunkten)
+* Internationale Freifahrt 2. Klasse (ab 1.750 Prämienpunkten)
+* Internationale Freifahrt 1. Klasse (ab 2.750 Prämienpunkten)
+* Mitfahr-Freifahrt 2. Klasse (ab 750 Prämienpunkten)
+* Mitfahr-Freifahrt 1. Klasse (ab 1.250 Prämienpunkten)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-welche)
+
+ Was ändert sich bei den nationalen Freifahrtprämien?
+----------
+
+Alle nationalen Freifahrten können in einer Buchung frei nach Klasse und Hin- und/oder Rückfahrt ausgewählt werden (äquivalent zur normalen Ticketbuchung).
+
+Außerdem gibt es Freifahrten schon ab 750 Prämienpunkten – abhängig von Strecke, Buchungszeitpunkt und weiteren Faktoren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-was-aendert-sich)
+
  Wie sammle ich BahnBonus Punkte?
 ----------
 

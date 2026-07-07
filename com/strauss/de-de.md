@@ -12,7 +12,7 @@ zu starken Preisen
 
 ---
 
-[alle Produkte](https://www.strauss.com/de/de/sale-bekleidung/?itemorigin=startseite_fs26)
+[alle Produkte](https://www.strauss.com/de/de/sale-bekleidung/)
 
 für Herren
 
@@ -27,7 +27,7 @@ für Damen
  \-49%
 ---
 
-[](https://www.strauss.com/de/de/sale-bekleidung/?itemorigin=startseite_fs26)
+[](https://www.strauss.com/de/de/sale-bekleidung/)
 
 Alles für den Job:
 
@@ -52,11 +52,11 @@ Tage
 
 ---
 
-[für Herren](https://www.strauss.com/de/de/arbeitsshorts/?itemorigin=startseite_fs26)
+[für Herren](https://www.strauss.com/de/de/arbeitsshorts/)
 
-[für Damen](https://www.strauss.com/de/de/arbeitsshorts-damen/?itemorigin=startseite_fs26)
+[für Damen](https://www.strauss.com/de/de/arbeitsshorts-damen/)
 
-[für Kinder](https://www.strauss.com/de/de/kinder-shorts/?itemorigin=startseite_fs26)
+[für Kinder](https://www.strauss.com/de/de/kinder-shorts/)
 
 [](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-e-s-motion-ten-pure-3106430-21603-1551.html?itemorigin=startseite_fs26)
 
@@ -64,11 +64,11 @@ Tage
 
 ---
 
-[für Herren](https://www.strauss.com/de/de/arbeitsshirts/?itemorigin=startseite_fs26)
+[für Herren](https://www.strauss.com/de/de/arbeitsshirts/)
 
-[für Damen](https://www.strauss.com/de/de/arbeitsshirts-damen/?itemorigin=startseite_fs26)
+[für Damen](https://www.strauss.com/de/de/arbeitsshirts-damen/)
 
-[für Kinder](https://www.strauss.com/de/de/kinder-shirts-polos/?itemorigin=startseite_fs26)
+[für Kinder](https://www.strauss.com/de/de/kinder-shirts-polos/)
 
 [](https://www.strauss.com/de/de/caps/cap-e-s-classic-3400740-7820811-1.html?itemorigin=startseite_fs26)
 
@@ -76,11 +76,11 @@ Tage
 
 ---
 
-[für Herren](https://www.strauss.com/de/de/caps/?itemorigin=startseite_fs26)
+[für Herren](https://www.strauss.com/de/de/caps/)
 
-[für Damen](https://www.strauss.com/de/de/caps-damen/?itemorigin=startseite_fs26)
+[für Damen](https://www.strauss.com/de/de/caps-damen/)
 
-[für Kinder](https://www.strauss.com/de/de/kinder-muetzen-caps/?itemorigin=startseite_fs26)
+[für Kinder](https://www.strauss.com/de/de/kinder-muetzen-caps/)
 
 [](https://www.strauss.com/de/de/arbeitsshirts/e-s-funktions-zip-t-shirt-uv-3102120-87217-1088.html?itemorigin=startseite_fs26)
 
@@ -226,13 +226,13 @@ Ausstattung für Berufsstarter
 
  praktische Features
 
-[alle Taschen entdecken](https://www.strauss.com/de/de/workandtravel?itemorigin=startseite_fs26)
+[alle Taschen entdecken](https://www.strauss.com/de/de/workandtravel)
 
  Perfekt für die Reise
 – mehr Komfort, mehr Ordnung,
 mehr Reisespaß!
 
-[](https://www.strauss.com/de/de/workandtravel?itemorigin=startseite_fs26)
+[](https://www.strauss.com/de/de/workandtravel)
 
  Von Workwear bis Werkzeug – Über 40.000 Produkte
 ----------

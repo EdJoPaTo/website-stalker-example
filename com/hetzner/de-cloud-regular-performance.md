@@ -40,166 +40,6 @@ Entwicklerteams können ihn außerdem für Kubernetes-Cluster in Entwicklungs- u
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
-CPX11
-
- 2
-
- AMD
-
- 2 GB
-
- 40 GB
-
-max.  /Monat
-
- /Stunde
-
- CPX11
-
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
- 2
-
- AMD
-
- 2 GB
-
- 40 GB
-
-CPX21
-
- 3
-
- AMD
-
- 4 GB
-
- 80 GB
-
-max.  /Monat
-
- /Stunde
-
- CPX21
-
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
- 3
-
- AMD
-
- 4 GB
-
- 80 GB
-
-CPX31
-
- 4
-
- AMD
-
- 8 GB
-
- 160 GB
-
-max.  /Monat
-
- /Stunde
-
- CPX31
-
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
- 4
-
- AMD
-
- 8 GB
-
- 160 GB
-
-CPX41
-
- 8
-
- AMD
-
- 16 GB
-
- 240 GB
-
-max.  /Monat
-
- /Stunde
-
- CPX41
-
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
- 8
-
- AMD
-
- 16 GB
-
- 240 GB
-
-CPX51
-
- 16
-
- AMD
-
- 32 GB
-
- 360 GB
-
-max.  /Monat
-
- /Stunde
-
- CPX51
-
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
- 16
-
- AMD
-
- 32 GB
-
- 360 GB
-
 CPX12
 
  1
@@ -391,6 +231,166 @@ max.  /Monat
  32 GB
 
  640 GB
+
+CPX11
+
+ 2
+
+ AMD
+
+ 2 GB
+
+ 40 GB
+
+max.  /Monat
+
+ /Stunde
+
+ CPX11
+
+ max/mo.
+
+ /hr.
+
+[]()
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
+
+ 2
+
+ AMD
+
+ 2 GB
+
+ 40 GB
+
+CPX21
+
+ 3
+
+ AMD
+
+ 4 GB
+
+ 80 GB
+
+max.  /Monat
+
+ /Stunde
+
+ CPX21
+
+ max/mo.
+
+ /hr.
+
+[]()
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
+
+ 3
+
+ AMD
+
+ 4 GB
+
+ 80 GB
+
+CPX31
+
+ 4
+
+ AMD
+
+ 8 GB
+
+ 160 GB
+
+max.  /Monat
+
+ /Stunde
+
+ CPX31
+
+ max/mo.
+
+ /hr.
+
+[]()
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
+
+ 4
+
+ AMD
+
+ 8 GB
+
+ 160 GB
+
+CPX41
+
+ 8
+
+ AMD
+
+ 16 GB
+
+ 240 GB
+
+max.  /Monat
+
+ /Stunde
+
+ CPX41
+
+ max/mo.
+
+ /hr.
+
+[]()
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
+
+ 8
+
+ AMD
+
+ 16 GB
+
+ 240 GB
+
+CPX51
+
+ 16
+
+ AMD
+
+ 32 GB
+
+ 360 GB
+
+max.  /Monat
+
+ /Stunde
+
+ CPX51
+
+ max/mo.
+
+ /hr.
+
+[]()
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
+
+ 16
+
+ AMD
+
+ 32 GB
+
+ 360 GB
 
  Verfügbare Standorte
 

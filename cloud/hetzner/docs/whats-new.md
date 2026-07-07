@@ -3,6 +3,12 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### New Cloud server plan in EU: CPX12 ###
+
+Due to popular demand, the “Regular Performance” cloud server CPX12 with 1 vCPU, 2 GB RAM, and 40 GB disk space is now also available in our European locations (FSN1, HEL1, and NBG1).
+
+This entry-level server is ideal for single-purpose workloads with low resource requirements, such as small websites and personal blogs, private VPN/proxy services, chat servers, and bots.
+
 ### Update on our pricing ###
 
 Starting on 15 June 2026, updated pricing for cloud servers will apply to new orders and rescales.

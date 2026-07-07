@@ -5182,7 +5182,7 @@ FAQ/Hilfebereich: <https://www.voi.com/de/hilfe>
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ersatzanspruch-erstattungsfaehige-fahrkarten)
 
@@ -5203,7 +5203,7 @@ FAQ/Hilfebereich: <https://www.voi.com/de/hilfe>
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ersatzanspruch-nicht-erstattungsfaehige-fahrkarten)
 
@@ -5247,7 +5247,7 @@ Der Reiseschutz beginnt beim Fahrkarten-Schutz mit dem vereinbarten Vertragsbegi
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-beginn-reiseschutz)
 
@@ -5258,7 +5258,7 @@ Nein, es gibt keine Selbstbeteiligung.
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-selbstbeteiligung)
 
@@ -5269,7 +5269,7 @@ Fahrkartenpreise bis maximal 1.500 Euro sind abgesichert.
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-versicherungsbetrag)
 
@@ -5318,7 +5318,7 @@ Fahrkartenpreise bis maximal 1.500 Euro sind abgesichert.
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-versicherungspraemie)
 
@@ -5329,7 +5329,7 @@ Als Gründe gelten unter anderem unerwartete schwere Erkrankung, schwerer Unfall
 
 [Weitere Informationen zum Fahrkartenschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/fahrkartenschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkartenschutz-welche-gruende-versichert)
 
@@ -5584,7 +5584,7 @@ Reiseschutz besteht für alle Bahn- und Busreisen innerhalb Deutschlands, für d
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-fahrten-gilt-der-reiseschutz)
 
@@ -14629,7 +14629,7 @@ Versicherungssumme: 1.500 Euro je Reise
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-der-fahrkarten-schutz-ab)
 
@@ -14640,7 +14640,7 @@ Sie erhalten Beistandsleistungen bzw. Entschädigung bei Einbruch an der versich
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-der-schluessel-und-einbruch-schutz-ab)
 
@@ -14651,7 +14651,7 @@ Ihr Koffer mit dem kompletten Inhalt ist weg oder beschädigt? Wir übernehmen d
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-die-reisegepaeck-versicherung-ab)
 
@@ -14663,7 +14663,7 @@ Im Todesfall erhalten Ihre Angehörigen 12.500 Euro.
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-die-reiseunfall-versicherung-ab)
 
@@ -14695,7 +14695,7 @@ Im Todesfall erhalten Ihre Angehörigen 12.500 Euro.
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-deckt-die-service-versicherung-ab)
 
@@ -14923,7 +14923,7 @@ Der Bahn&Bus-Jahresschutz Deutschland kostet 29 Euro für den Geltungsbereich De
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kostet-der-bahn-und-bus-jahresschutz)
 
@@ -17505,7 +17505,7 @@ Die Versicherung läuft ab dem vereinbarten Versicherungsbeginn ein Jahr. Sie ve
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-laeuft-die-versicherung)
 
@@ -17560,7 +17560,7 @@ Nähere Details und die Voraussetzungen für den Versicherungsschutz im Einzelne
 
 [Weitere Informationen zum Bahn&Bus-Jahresschutz](https://www.bahn.de/angebot/zusatzticket/versicherungen/bahn-bus-jahresschutz)
 
-[Jetzt buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
+[Jetzt bei ERGO buchen](https://www.ergo-reiseversicherung.de/ba4/landingPage.html?appname=ba-bahn&partnerid=040000000111)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-sehen-die-versicherungsbedingungen-im-detail-aus)
 
