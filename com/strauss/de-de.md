@@ -170,7 +170,7 @@ gestalten
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=startseite_fs26)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
 
 für Arbeit, Vereine, Events uvm.
 
@@ -212,7 +212,7 @@ Ausstattung für Berufsstarter
 
 [](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-elektro-meister-pro-werkzeugtrolley-7146170-5505181-0.html?itemorigin=startseite_fs26)
 
-[alle Werkzeugsets](https://www.strauss.com/de/de/sale-aktions-sets-werkzeuge/?itemorigin=startseite_fs26)
+[alle Werkzeugsets](https://www.strauss.com/de/de/sale-aktions-sets-werkzeuge/)
 
  e.s.work
 &travel
