@@ -218,6 +218,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Pro 3EM Switch Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-3em-switch-add-on)
 * [Shelly Pro Sensor Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-sensor-add-on)
 * [Shelly Pro LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-lora-add-on)
+* [Shelly Pro Modbus Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-modbus-add-on)
 
 [By Shelly](https://kb.shelly.cloud/knowledge-base/by-shelly)
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)
