@@ -2298,6 +2298,15 @@ DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
 
+ Welche Besonderheiten gibt es bei den zukünftigen Punktestufen?
+----------
+
+Mit den neuen Punktestufen in 250er Schritten können nationale Freifahrten künftig auch für Verbindungen eingelöst werden, für die bisher keine Freifahrten für 1.000 Punkte verfügbar waren.
+
+Die beiden höchsten Preisstufen gelten ausschließlich für nationale Verbindungen, auf denen bislang grundsätzlich keine Freifahrten angeboten wurden. Dadurch wird das Angebot erweitert und die Einlösung von Punkten auf zusätzlichen Verbindungen ermöglicht.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-besonderheiten)
+
  Was ändert sich an den Freifahrtprämien Flex?
 ----------
 
@@ -2322,12 +2331,12 @@ Bei allen weiteren Bahnprämien, wie Sitzplatzreservierungen, 1. Klasse Upgrades
 
 Für folgende Freifahrtprämien wird es verschiedene Punktehöhen geben:
 
-* Freifahrt 2. Klasse (ab 750 Prämienpunkten)
-* Freifahrt 1. Klasse (ab 1.250 Prämienpunkten)
-* Internationale Freifahrt 2. Klasse (ab 1.750 Prämienpunkten)
-* Internationale Freifahrt 1. Klasse (ab 2.750 Prämienpunkten)
-* Mitfahr-Freifahrt 2. Klasse (ab 750 Prämienpunkten)
-* Mitfahr-Freifahrt 1. Klasse (ab 1.250 Prämienpunkten)
+* Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
+* Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
+* Internationale Freifahrt 2. Klasse (1.750-2.750 Prämienpunkte)
+* Internationale Freifahrt 1. Klasse (2.750-3.750 Prämienpunkte)
+* Mitfahr-Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
+* Mitfahr-Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-welche)
 
@@ -5402,12 +5411,12 @@ Falls ein Ticket nicht angezeigt wird oder Sie es ohne DB Kundenkonto gebucht ha
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-in-navigator-app-laden)
 
- Gibt es einen Tipp, damit mir noch günstigere Preise in der Bestpreissuche angezeigt werden?
+ Gibt es einen Tipp, damit mir noch günstigere Preise in der DB Bestpreissuche angezeigt werden?
 ----------
 
 **Auf Randzeiten ausweichen**
 
-Für Reisende, die nicht auf bestimmte Uhrzeiten festgelegt sind, ist es sinnvoll, Zugverbindungen in den frühen Morgen- oder den späten Abendstunden zu wählen. Wer darüber hinaus nicht an einen bestimmten Reisetag gebunden ist, kann auf Randzeiten ausweichen und z.B. nicht am Tag direkt vor Beginn oder Ende des Wochenendes, der Ferien oder vor Feiertagen fahren. Dann sind die Züge meist weniger ausgelastet und in der Regel auch günstiger.
+Für Reisende, die nicht auf bestimmte Uhrzeiten festgelegt sind, ist es sinnvoll, Zugverbindungen in den frühen Morgen- oder den späten Abendstunden zu wählen. Dann sind die Züge meist weniger ausgelastet und in der Regel auch günstiger. Wer darüber hinaus nicht an einen bestimmten Reisetag gebunden ist, kann auf Randzeiten ausweichen und z.B. nicht am Tag direkt vor Beginn oder Ende des Wochenendes, der Ferien oder vor Feiertagen fahren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tipps-guenstige-preise-bestpreissuche-randzeiten)
 
@@ -5919,10 +5928,10 @@ Falls das Serviceangebot der Bestellung nicht angeboten werden kann, können Sie
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-die-bestellfunktion-in-der-1-klasse-nicht-immer-angeboten)
 
- Warum ist die Bestpreissuche nicht verfügbar, wenn ich Verbindungen für heute suche?
+ Warum ist die DB Bestpreissuche nicht verfügbar, wenn ich Verbindungen für heute suche?
 ----------
 
-Bei einer Suche am aktuellen Reisetag kann die Bestpreissuche nicht aktiviert werden. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die Bestpreissuche vergleicht jedoch alle Preise eines ganzen Tages miteinander – das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die Bestpreissuche nur für zukünftige Reisetage angeboten.
+Bei einer Suche am aktuellen Reisetag kann die DB Bestpreissuche nicht aktiviert werden. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die DB Bestpreissuche vergleicht jedoch alle Preise eines ganzen Tages miteinander – das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die DB Bestpreissuche nur für zukünftige Reisetage angeboten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-mir-der-bestpreis-nicht-angezeigt-wenn-ich-fuer-den-aktuellen-tag-suche)
 
@@ -5968,22 +5977,22 @@ Wenn Sie für Ihre Reise Züge des Nahverkehrs nutzen, beachten Sie bitte die r
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-beachten-reisetag-fahrradmitnahme)
 
- Was bedeutet "Bestpreissuche"?
+ Was bedeutet "DB Bestpreissuche"?
 ----------
 
-Die Bestpreissuche hilft Ihnen auf bahn.de und in der App DB Navigator, die günstigsten Preise für eine bestimmte Verbindung für zukünftige Reisetage zu finden.
+Die DB Bestpreissuche hilft Ihnen auf bahn.de und in der App DB Navigator, unsere günstigsten Preise für eine bestimmte Verbindung für zukünftige Reisetage zu finden.
 
-**So aktivieren Sie die Bestpreissuche:**
+**So aktivieren Sie die DB Bestpreissuche:**
 
 1. Geben Sie Ihren Reisewunsch in der Reiseauskunft des DB Navigators ein und suchen Sie nach Verbindungen. Es öffnet sich die Verbindungsübersicht.
-2. Sie aktivieren die Bestpreissuche oberhalb der Verbindungsübersicht – entweder direkt über "Unsere Bestpreise" oder mit Klick auf "Optionen" über den Schieberegler "Unsere Bestpreise anzeigen".
+2. Sie aktivieren die DB Bestpreissuche oberhalb der Verbindungsübersicht – entweder direkt über "Unsere Bestpreise" oder mit Klick auf "Optionen" über den Schieberegler "Unsere Bestpreise anzeigen".
 
 **Was Sie beachten sollten:**
 
-* Die Bestpreissuche zeigt die günstigsten, ermittelbaren Preise für den ausgewählten Tag an.
-* Für manche Verbindungen (z. B. bestimmte Verbundtickets) wird im ersten Schritt kein Preis angezeigt, obwohl diese verkauft werden. Deren Preis kann günstiger sein als die Preise unserer Bestpreissuche. Der Preis kann im nächsten Schritt angezeigt werden.
+* Die DB Bestpreissuche zeigt unsere günstigsten, ermittelbaren Preise für den ausgewählten Tag an.
+* Für manche Verbindungen (z. B. bestimmte Verbundtickets) wird im ersten Schritt kein Preis angezeigt, obwohl diese verkauft werden. Deren Preis kann günstiger sein als die Preise der DB Bestpreissuche. Der Preis kann im nächsten Schritt angezeigt werden.
 * Verbindungen ohne Ticketverkauf werden zur Information am Ende der Liste aufgeführt.
-* Die Bestpreissuche ist nur für zukünftige Verbindungen verfügbar, nicht für Reisen am selben Tag.
+* Die DB Bestpreissuche ist nur für zukünftige Verbindungen verfügbar, nicht für Reisen am selben Tag.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-bestpreissuche)
 
@@ -6129,12 +6138,12 @@ Der BahnBonus Statusservice ist der exklusive Kundenservice für Statuskund:inne
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-bahnbonus-statusservice)
 
- Was ist der Bestpreis?
+ Was ist der DB Bestpreis?
 ----------
 
-Der Bestpreis ist der jeweils niedrigste, in der Reiseauskunft ermittelbare Preis des Tages für die ausgewählte Verbindung. Er ist zusätzlich grün und mit einem Eurozeichen markiert.
+Der DB Bestpreis ist unser niedrigster Preis des Tages für eine gesuchte Verbindung, der über die Reiseauskunft ermittelbar ist. Er ist zusätzlich grün und mit einem Eurozeichen markiert.
 
-Beim Bestpreis handelt es sich nicht um einen festen Preis oder eine Preisstufe, sondern um eine Funktion, die bestehende Verbindungen aufsteigend nach Preisen (soweit ermittelbar) sortiert anzeigt.
+Beim DB Bestpreis handelt es sich nicht um einen festen Preis oder eine Preisstufe, sondern um eine Funktion, die bestehende Verbindungen aufsteigend nach Preisen (soweit ermittelbar) sortiert anzeigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-bestpreis)
 

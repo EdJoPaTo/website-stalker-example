@@ -9406,6 +9406,17 @@ Sie können den Bestellschein hier herunterladen, ausfüllen, unterschreiben und
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-bestellschein)
 
+ Muss ich das 365-Euro-Ticket MVV auf einmal bezahlen?
+----------
+
+Nein. Das 365-Euro-Ticket MVV zahlen Sie ganz bequem in 10 monatlichen Raten à 36,50 Euro. Die Abbuchung erfolgt jeweils zum 1. eines Monats. In den letzten beiden Monaten der Laufzeit wird nichts mehr abgebucht.
+
+[Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
+
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-bezahlung)
+
  Kann ich vom 365-Euro-Ticket MVV Chipkarte auf das Handy-Ticket wechseln?
 ----------
 
@@ -12614,37 +12625,6 @@ Das Jobticket gilt im ausgewählten Geltungsbereichin allen Verkehrsmitteln des 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-jobticket-wo-gilt)
 
- Welche touristischen VBB-Angebote kann ich in der App DB Navigator buchen?
-----------
-
-* BerlinWelcomeCard
-* Berlin CityTourCard
-* EasyCityPass Berlin
-* QueerCityPass Berlin
-
-Sie können mit diesen Tickets alle öffentlichen Verkehrsmittel im gewählten Tarifbereich und Zeitraum nutzen. Je nach Wunsch gelten die Tickets 48 oder 72 Stunden bis hin zu 4, 5 oder sogar 6 Tagen. Zusätzlich gibt es lohnenswerte Rabatte bei Berliner Sehenswürdigkeiten und Attraktionen.
-
-**Kaufen?** Das Angebot ist nur mobile über die App DB Navigator erhältlich, nicht online. Zum Angebot gelangen Sie über Buchen - Tickets und Angebote - dann nach links wischen zu Verbundtickets - VBB Berlin & Brandenburg
-
-**Weitere tarifliche Informationen:**
-
-**Verkehrsmittel:** Die Tickets gelten für alle öffentlichen Verkehrsmittel (S-Bahn, U-Bahn, Regionalbahn, Tram, Fähre, Bus) im gewählten Tarifbereich.
-
-**Anschluss:** Die Erweiterung des Tickets mit einem Anschlussfahrschein für den Tarifbereich Berlin C ist nicht möglich.
-
-**Gültigkeit:** Bei 48 und 72 Stunden gilt das Ticket ab Entwertung. Die Tickets für 4, 5 und 6 Tage beginnen am ersten Tag der Entwertung und enden entsprechend am 4, 5 bzw. 6 Tag um 24 Uhr.
-
-**Kostenfreie Mitnahme:** Kinder unter 6 Jahren, ein Hund bzw. ein kleines Tier, Handgepäck, Rollstühle und Kinderwägen sind inkludiert.
-
-**Kindermitnahme:** Zusätzlich können bis zu 3 Kinder (6 bis 14 Jahre) in den Geltungsbereichen Berlin AB, ABC sowie Potsdam AB ist kostenfrei mitgenommen werden, wenn Sie das Ticket zum Regeltarif erworben haben und mindestens 15 Jahre alt sind.
-
-**Fahrrad:** Für die Mitnahme eines Fahrrads brauchen Sie eine Fahrradkarte in der jeweiligen Tarifstufe.
-
-* [Infos und Download der App DB Navigator](https://www.bahn.de/service/mobile/db-navigator)
-* [Mehr Details und weitere touristische Angebote finden Sie auf der Website der S-Bahn Berlin](https://sbahn.berlin/tickets/alle-tickets/touristentickets/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vbb-tickets-touristische-angebote)
-
  Welche Tickets des VBB sind in der App DB Navigator erhältlich?
 ----------
 
@@ -12658,13 +12638,6 @@ Sie erhalten die meisten VBB-Angebote als Handy-Ticket. Dazu gehören u.a.:
 * Fahrausweise für den Übergang in die 1. Klasse
 
 **Wichtig**: Einzelfahrausweise, die als Handy-Ticket ausgegeben werden, gelten immer zum sofortigen Fahrtantritt.
-
-Außerdem sind folgende touristische Angebote erhältlich:
-
-* BerlinWelcomeCard
-* Berlin CityTourCard
-* EasyCityPass Berlin
-* QueerCityPass Belin
 
 * [Zur App](https://www.bahn.de/service/mobile/db-navigator)
 
