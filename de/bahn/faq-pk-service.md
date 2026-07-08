@@ -2298,15 +2298,6 @@ DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
 
- Welche Besonderheiten gibt es bei den zukünftigen Punktestufen?
-----------
-
-Mit den neuen Punktestufen in 250er Schritten können nationale Freifahrten künftig auch für Verbindungen eingelöst werden, für die bisher keine Freifahrten für 1.000 Punkte verfügbar waren.
-
-Die beiden höchsten Preisstufen gelten ausschließlich für nationale Verbindungen, auf denen bislang grundsätzlich keine Freifahrten angeboten wurden. Dadurch wird das Angebot erweitert und die Einlösung von Punkten auf zusätzlichen Verbindungen ermöglicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-besonderheiten)
-
  Was ändert sich an den Freifahrtprämien Flex?
 ----------
 
@@ -2337,6 +2328,10 @@ Für folgende Freifahrtprämien wird es verschiedene Punktehöhen geben:
 * Internationale Freifahrt 1. Klasse (2.750-3.750 Prämienpunkte)
 * Mitfahr-Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
 * Mitfahr-Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
+
+Mit den neuen Punktestufen in 250er Schritten können nationale Freifahrten künftig auch für Verbindungen eingelöst werden, für die bisher keine Freifahrten für 1.000 Punkte verfügbar waren.
+
+Die beiden höchsten Preisstufen gelten ausschließlich für nationale Verbindungen, auf denen bislang grundsätzlich keine Freifahrten angeboten wurden. Dadurch wird das Angebot erweitert und die Einlösung von Punkten auf zusätzlichen Verbindungen ermöglicht.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-welche)
 

@@ -14,17 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### DÜSSELDORF ###
+### erfurt ###
 
-### 4.JULI 2026 ###
+### 11. juli 2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/düsseldorf)
-
-### 25 km ###
-
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/duessseldorf-25km)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/erfurt)
 
 [Location](https://www.megamarsch.de/ostsee)
 
