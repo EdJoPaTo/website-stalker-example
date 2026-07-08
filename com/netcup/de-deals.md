@@ -23,11 +23,11 @@ Welche Domain holt den Titel? Bei netcup treten eine Auswahl an passenden Lände
 
 * Verfolge unser spannendes Match bis zum 19.07.2026.
 
-* Alle (8)
+* Alle (7)
 * Webhosting
 * Root-Server
 * VPS
-* Domains  (8)
+* Domains  (7)
 * Andere Flash Deals (0)
 
 Domains
@@ -85,34 +85,6 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.ch-domain-wm26)
-
-Domains
-
-### .co Domain ###
-
- 13 % Rabatt
-
-statt 4,70 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-4,09 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.co-domain-wm26)
 
 Domains
 
@@ -335,6 +307,34 @@ statt 1,02 €
 pro Monat
 
 0,82 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .co Domain ###
+
+ 13 % Rabatt
+
+statt 4,70 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+4,09 €
 
 (inkl. 19% MwSt.)
 

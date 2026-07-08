@@ -9811,8 +9811,8 @@ Wie mit dem Niedersachsen-Ticket können Sie mit den Plus-Tickets in allen Nahve
 Weitere Informationen zu den Niedersachsen-Tickets sowie Tarifbestimmungen und Beförderungsbedingungen des Niedersachsentarifs finden Sie unter
 
 * [niedersachsenticket.de](http://www.niedersachsenticket.de/)
-* [Niedersachsen-Ticket + Groningen](https://regional.bahn.de/regionen/niedersachsen-bremen/tickets/niedersachsen-ticket0)
-* [Niedersachsen-Ticket plus Ostharz](https://regional.bahn.de/regionen/niedersachsen-bremen/tickets/niedersachsen-ticket1)
+* [Niedersachsen-Ticket + Groningen](https://regional.bahn.de/regionen/niedersachsen-bremen/tickets/niedersachsen-ticket-plus-groningen)
+* [Niedersachsen-Ticket plus Ostharz](https://regional.bahn.de/regionen/niedersachsen-bremen/tickets/niedersachsen-ticket-plus-ostharz)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/niedersachsen-ticket-flyer)
 
