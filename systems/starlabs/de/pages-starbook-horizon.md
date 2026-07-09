@@ -6,7 +6,7 @@ StarBook Horizon
 
  Horizon is the current StarBook variant: a refined 13.4-inch portable with open firmware, native Linux support, privacy hardware, and serviceable parts.
 
-[Configure Now](/products/starbook-horizon) [Full tech specs](/pages/starbook-horizon-specification)
+[Configure Now](/products/starbook-horizon) [Full tech specs](/pages/starbook-specification)
 
 **From €13,37** Free shipping to most regions.
 
@@ -148,7 +148,7 @@ Firmware
 
 ### Open firmware ###
 
- Horizon exposes model-specific controls for power profiles, memory speed, device toggles, BIOS Lock, Total Memory Encryption, and Intel ME state. [View firmware & security](/pages/starbook-horizon-firmware-security)
+ Horizon exposes model-specific controls for power profiles, memory speed, device toggles, BIOS Lock, Total Memory Encryption, and Intel ME state. [View firmware & security](/pages/starbook-firmware-security)
 
 Updates
 
@@ -166,7 +166,7 @@ Support
 
  Configure the right balance of performance, privacy, and portability, or explore the full technical specification before you buy.
 
-[Configure Now](/products/starbook-horizon) [View full specs](/pages/starbook-horizon-specification)
+[Configure Now](/products/starbook-horizon) [View full specs](/pages/starbook-specification)
 
  StarBook Horizon
 
@@ -176,7 +176,7 @@ Support
 
  Horizon is the current StarBook variant: a refined 13.4-inch portable with open firmware, native Linux support, privacy hardware, and serviceable parts.
 
-[Configure Now](/products/starbook-horizon) [Full tech specs](/pages/starbook-horizon-specification)
+[Configure Now](/products/starbook-horizon) [Full tech specs](/pages/starbook-specification)
 
 **From €13,37** Free shipping to most regions.
 
@@ -318,7 +318,7 @@ Firmware
 
 ### Open firmware ###
 
- Horizon exposes model-specific controls for power profiles, memory speed, device toggles, BIOS Lock, Total Memory Encryption, and Intel ME state. [View firmware & security](/pages/starbook-horizon-firmware-security)
+ Horizon exposes model-specific controls for power profiles, memory speed, device toggles, BIOS Lock, Total Memory Encryption, and Intel ME state. [View firmware & security](/pages/starbook-firmware-security)
 
 Updates
 
@@ -336,4 +336,4 @@ Support
 
  Configure the right balance of performance, privacy, and portability, or explore the full technical specification before you buy.
 
-[Configure Now](/products/starbook-horizon) [View full specs](/pages/starbook-horizon-specification)
+[Configure Now](/products/starbook-horizon) [View full specs](/pages/starbook-specification)

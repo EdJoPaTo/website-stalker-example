@@ -1,7 +1,7 @@
 Configure
 StarBook Horizon
 
-[Product Overview](/pages/starbook-horizon)
+[Product Overview](/pages/starbook)
 
 Horizon
  Active-cooled 15W laptop-class platform

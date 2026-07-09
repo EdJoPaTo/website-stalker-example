@@ -26,9 +26,9 @@ No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop when d
 
 [Product Overview](/pages/starlite) [Configure](/products/starlite)
 
-[](/pages/starbook-horizon)
+[](/pages/starbook)
 
-[StarBook Horizon](/pages/starbook-horizon)
+[StarBook Horizon](/pages/starbook)
 
 Active-cooled laptop-class portability with privacy features built in.
 
@@ -46,7 +46,7 @@ Built for privacy
 
 More sustained headroom than StarLite, with a privacy screen, wireless kill switch, and webcam cover.
 
-[Product Overview](/pages/starbook-horizon) [Configure](/products/starbook-horizon)
+[Product Overview](/pages/starbook) [Configure](/products/starbook-horizon)
 
 [](/pages/starfighter)
 
@@ -106,9 +106,9 @@ See the key differences at a glance.
 
  Last-generation StarBook — limited stock
 
-[](/pages/starbook)
+[](/pages/starbook-ultra)
 
-[StarBook Mk VII Ultra](/pages/starbook)
+[StarBook Mk VII Ultra](/pages/starbook-ultra)
 
 Last-generation StarBook clearance. Limited stock remaining.
 
@@ -124,4 +124,4 @@ Around 1.4 kg
 
 Final Mk VII stock
 
-[Product Overview](/pages/starbook) [Configure](/products/starbook-ultra)
+[Product Overview](/pages/starbook-ultra) [Configure](/products/starbook-ultra)

@@ -18,7 +18,7 @@ Linux hardware, built to be owned.
 
  Faster parts are only one piece. The value is privacy you can see, firmware you can inspect, and hardware that stays useful longer.
 
-[StarBook Horizon ### Privacy you can physically switch. ### Wireless kill switch, webcam cover, privacy screen protector, open firmware options, and parts you can replace.](/pages/starbook-horizon) [Firmware and updates ### Open, inspectable, kept current. ### coreboot-based firmware, signed LVFS updates, and source code that stays close to upstream.](/pages/starbook-horizon-firmware-security) [Long-term ownership ### Repair, replace, upgrade. ### Accessible SSDs, replaceable batteries on supported models, and compatible parts that can move across generations.](/pages/starbook-horizon-specification)
+[StarBook Horizon ### Privacy you can physically switch. ### Wireless kill switch, webcam cover, privacy screen protector, open firmware options, and parts you can replace.](/pages/starbook) [Firmware and updates ### Open, inspectable, kept current. ### coreboot-based firmware, signed LVFS updates, and source code that stays close to upstream.](/pages/starbook-firmware-security) [Long-term ownership ### Repair, replace, upgrade. ### Accessible SSDs, replaceable batteries on supported models, and compatible parts that can move across generations.](/pages/starbook-specification)
 
  Less lock-in. More control.
 ----------
@@ -50,7 +50,7 @@ Linux hardware, built to be owned.
 
 [Compare laptops](/collections/laptops)
 
-[Byte Compact Linux mini PC for desks, displays, and quiet always-on work. €13,37 View model](/pages/byte)[StarLite Touch-first Linux convertible with tablet flexibility and a detachable keyboard. €13,37 View model](/pages/starlite)[StarBook Horizon Current StarBook Horizon variant: light 13.4-inch Linux laptop with privacy hardware and open firmware options. €13,37 View model](/pages/starbook-horizon)[StarFighter Premium 16-inch performance laptop with high-refresh display options and a haptic trackpad. €13,37 View model](/pages/starfighter)[StarBook Ultra Last-generation StarBook Mk VII Ultra. Limited stock remaining. €13,37 View model](/pages/starbook)
+[Byte Compact Linux mini PC for desks, displays, and quiet always-on work. €13,37 View model](/pages/byte)[StarLite Touch-first Linux convertible with tablet flexibility and a detachable keyboard. €13,37 View model](/pages/starlite)[StarBook Horizon Current StarBook Horizon variant: light 13.4-inch Linux laptop with privacy hardware and open firmware options. €13,37 View model](/pages/starbook)[StarFighter Premium 16-inch performance laptop with high-refresh display options and a haptic trackpad. €13,37 View model](/pages/starfighter)[StarBook Ultra Last-generation StarBook Mk VII Ultra. Limited stock remaining. €13,37 View model](/pages/starbook-ultra)
 
  Built by people who work close to the hardware.
 
