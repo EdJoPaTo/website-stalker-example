@@ -751,7 +751,7 @@ cloned\_ref\_to\_slice\_refs
 perf warn
 ----------
 
-Applicability: MaybeIncorrect
+Applicability: MachineApplicable
 
 Added in: 1.89.0
 
@@ -1160,7 +1160,7 @@ style warn
 
 Applicability: Unspecified
 
-Added in: 1.93.0
+Added in: 1.95.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+disallowed_fields)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/disallowed_fields.rs)
 
@@ -2649,6 +2649,28 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+inline_fn_without_body)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/inline_fn_without_body.rs)
 
+inline\_modules
+
+restriction allow
+----------
+
+Applicability: Unspecified
+
+Added in: 1.97.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+inline_modules)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/module_style.rs)
+
+inline\_trait\_bounds
+
+restriction allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.97.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+inline_trait_bounds)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/inline_trait_bounds.rs)
+
 inspect\_for\_each
 
 complexity warn
@@ -3375,6 +3397,17 @@ Added in: 1.57.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_assert)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_assert.rs)
 
+manual\_assert\_eq
+
+pedantic allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.97.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_assert_eq)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_assert_eq.rs)
+
 manual\_async\_fn
 
 style warn
@@ -3429,6 +3462,17 @@ Applicability: MaybeIncorrect
 Added in: 1.66.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_clamp)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_clamp.rs)
+
+manual\_clear
+
+perf warn
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.97.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_clear)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
 manual\_contains
 
@@ -3954,7 +3998,7 @@ complexity warn
 
 Applicability: MachineApplicable
 
-Added in: 1.94.0
+Added in: 1.95.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_take)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_take.rs)
 
@@ -5368,7 +5412,7 @@ Added in: 1.83.0
 
 nonminimal\_bool
 
-complexity warn
+pedantic allow
 ----------
 
 Applicability: MachineApplicable
@@ -5599,7 +5643,7 @@ Added in: pre 1.29.0
 
 overly\_complex\_bool\_expr
 
-correctness deny
+pedantic allow
 ----------
 
 Applicability: Unspecified
@@ -7103,6 +7147,17 @@ Applicability: Unspecified
 Added in: 1.32.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+slow_vector_initialization)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/slow_vector_initialization.rs)
+
+some\_filter
+
+complexity warn
+----------
+
+Applicability: MaybeIncorrect
+
+Added in: 1.97.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+some_filter)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
 stable\_sort\_primitive
 
@@ -8687,6 +8742,17 @@ Applicability: MaybeIncorrect
 Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+useless_attribute)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/attrs/mod.rs)
+
+useless\_borrows\_in\_formatting
+
+perf warn
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.97.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+useless_borrows_in_formatting)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/format_args.rs)
 
 useless\_concat
 
