@@ -57,9 +57,9 @@ Measured on Linux.
 
  Published Ubuntu results, idle battery context, and storage security details keep the performance story concrete.
 
-**1350** Single-core
+**1366** Single-core
 
-**4987** Multi-core
+**5589** Multi-core
 
 **24.5h idle estimate** Ubuntu 26.04 at 20% brightness, measured as an idle system estimate.
 
@@ -67,7 +67,7 @@ Measured on Linux.
 
 **Samsung 990 EVO Plus + built-in disk encryption** Fast Samsung storage with hardware-backed disk encryption.
 
- Source: [Geekbench Browser result](https://browser.geekbench.com/v6/cpu/17765962).
+ Source: [Geekbench Browser result](https://browser.geekbench.com/v6/cpu/18642693).
 
  Core specs at a glance.
 ----------
@@ -227,9 +227,9 @@ Measured on Linux.
 
  Published Ubuntu results, idle battery context, and storage security details keep the performance story concrete.
 
-**1350** Single-core
+**1366** Single-core
 
-**4987** Multi-core
+**5589** Multi-core
 
 **24.5h idle estimate** Ubuntu 26.04 at 20% brightness, measured as an idle system estimate.
 
@@ -237,7 +237,7 @@ Measured on Linux.
 
 **Samsung 990 EVO Plus + built-in disk encryption** Fast Samsung storage with hardware-backed disk encryption.
 
- Source: [Geekbench Browser result](https://browser.geekbench.com/v6/cpu/17765962).
+ Source: [Geekbench Browser result](https://browser.geekbench.com/v6/cpu/18642693).
 
  Core specs at a glance.
 ----------

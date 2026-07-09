@@ -178,6 +178,95 @@ let c = async move || {
 };
 ```
 
+[dead-code-pub-in-binary](#dead-code-pub-in-binary)
+----------
+
+The `dead_code_pub_in_binary` lint detects unused `pub` items in
+executable crates.
+
+### Example ###
+
+```
+#![deny(dead_code_pub_in_binary)]
+
+pub fn unused_pub_fn() {}
+
+fn main() {}
+```
+
+This will produce:
+
+```
+error: function `unused_pub_fn` is never used
+ --> lint_example.rs:3:8
+  |
+3 | pub fn unused_pub_fn() {}
+  |        ^^^^^^^^^^^^^
+  |
+  = note: in libraries, `pub` items can be used by dependent crates; in binaries, they cannot, so this `pub` item is unused
+note: the lint level is defined here
+ --> lint_example.rs:1:9
+  |
+1 | #![deny(dead_code_pub_in_binary)]
+  |         ^^^^^^^^^^^^^^^^^^^^^^^
+
+```
+
+### Explanation ###
+
+In executable crates, `pub` items are often implementation details
+rather than part of an external API. This lint helps find those items
+when they are never used.
+
+This lint only applies to executable crates. In library crates, public
+items are considered part of the crate’s API and are not reported by
+this lint.
+
+[deprecated-llvm-intrinsic](#deprecated-llvm-intrinsic)
+----------
+
+The `deprecated_llvm_intrinsic` lint detects usage of deprecated LLVM intrinsics.
+
+### Example ###
+
+```
+#![cfg(any(target_arch = "x86", target_arch = "x86_64"))]
+#![feature(link_llvm_intrinsics, abi_unadjusted)]
+#![deny(deprecated_llvm_intrinsic)]
+
+unsafe extern "unadjusted" {
+    #[link_name = "llvm.x86.addcarryx.u32"]
+    fn foo(a: u8, b: u32, c: u32, d: &mut u32) -> u8;
+}
+
+#[inline(never)]
+#[target_feature(enable = "adx")]
+pub fn bar(a: u8, b: u32, c: u32, d: &mut u32) -> u8 {
+    unsafe { foo(a, b, c, d) }
+}
+```
+
+This will produce:
+
+```
+error: Using deprecated intrinsic `llvm.x86.addcarryx.u32`
+ --> example.rs:7:5
+  |
+7 |     fn foo(a: u8, b: u32, c: u32, d: &mut u32) -> u8;
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |
+
+```
+
+### Explanation ###
+
+LLVM periodically updates its list of intrinsics. Deprecated intrinsics are unlikely
+to be removed, but they may optimize less well than their new versions, so it’s
+best to use the new version. Also, some deprecated intrinsics might have buggy
+behavior.
+
+This `link_llvm_intrinsics` lint is intended to be used internally only, and requires the`#![feature(link_llvm_intrinsics)]` internal feature gate. For more information, see [its chapter in the Unstable Book](https://doc.rust-lang.org/unstable-book/language-features/link-llvm-intrinsics.html)and [its tracking issue](https://github.com/rust-lang/rust/issues/29602).
+
 [deprecated-safe-2024](#deprecated-safe-2024)
 ----------
 
@@ -1009,46 +1098,6 @@ Many linkers are very “chatty” and print lots of information that is not nec
 indicative of an issue. This output has been ignored for many years and is often not
 actionable by developers. It is silenced unless the developer specifically requests for it
 to be printed. See this tracking issue for more details:<https://github.com/rust-lang/rust/issues/136096>.
-
-[linker-messages](#linker-messages)
-----------
-
-The `linker_messages` lint forwards warnings from the linker.
-
-### Example ###
-
-```
-#[warn(linker_messages)]
-extern "C" {
-  fn foo();
-}
-fn main () { unsafe { foo(); } }
-```
-
-On Linux, using `gcc -Wl,--warn-unresolved-symbols` as a linker, this will produce
-
-```
-warning: linker stderr: rust-lld: undefined symbol: foo
-         >>> referenced by rust_out.69edbd30df4ae57d-cgu.0
-         >>>               rust_out.rust_out.69edbd30df4ae57d-cgu.0.rcgu.o:(rust_out::main::h3a90094b06757803)
-  |
-note: the lint level is defined here
- --> warn.rs:1:9
-  |
-1 | #![warn(linker_messages)]
-  |         ^^^^^^^^^^^^^^^
-warning: 1 warning emitted
-
-```
-
-### Explanation ###
-
-Linkers emit platform-specific and program-specific warnings that cannot be predicted in
-advance by the Rust compiler. Such messages are ignored by default for now. While linker
-warnings could be very useful they have been ignored for many years by essentially all
-users, so we need to do a bit more work than just surfacing their text to produce a clear
-and actionable warning of similar quality to our other diagnostics. See this tracking
-issue for more details: <https://github.com/rust-lang/rust/issues/136096>.
 
 [lossy-provenance-casts](#lossy-provenance-casts)
 ----------
