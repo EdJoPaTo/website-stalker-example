@@ -82,6 +82,35 @@ Tage
 
 [für Kinder](https://www.strauss.com/de/de/kinder-muetzen-caps/)
 
+ % Ausrüstung & Zubehör %
+----------
+
+---
+
+ % Ausrüstung & Zubehör %
+---
+
+ % Ausrüstung & Zubehör %
+---
+
+ Angebote
+des Monats
+----------
+
+---
+
+Gültig bis 31.07.2026 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
+
+ Bis zu
+---
+
+ \-54%
+---
+
+[](https://www.strauss.com/de/de/angebote-des-monats/)
+
 [](https://www.strauss.com/de/de/arbeitsshirts/e-s-funktions-zip-t-shirt-uv-3102120-87217-1088.html?itemorigin=startseite_fs26)
 
  Sichtbar
@@ -100,8 +129,6 @@ geschützt
 **Race Sonnenbrille e.s.ambition**
 
 [](https://www.strauss.com/de/de/schutzbrillen/race-sonnenbrille-e-s-ambition-7040610-7476191-685.html?itemorigin=startseite_fs26)
-
-Die BG BAU fördert aktuell einen Teil der Schutz-Ausrüstung gegen UV-Strahlung. Informieren Sie sich direkt unter **[www.bgbau.de!](https://www.bgbau.de/)**
 
  SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 
