@@ -139,8 +139,8 @@ Learn everything you need about Shelly devices – features, applications and sp
 [Shelly Android devices](https://kb.shelly.cloud/knowledge-base/shelly-control-panels)
 * [Shelly Wall Display](https://kb.shelly.cloud/knowledge-base/shelly-wall-display)
 * [Shelly Wall Display X2](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-x2)
-* [Shelly Wall Display XL](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-xl)
 * [Shelly Wall Display X2i](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-x2i)
+* [Shelly Wall Display XL](https://kb.shelly.cloud/knowledge-base/shelly-wall-display-xl)
 
 [Shelly Wave devices](https://kb.shelly.cloud/knowledge-base/shelly-wave-devices)
 * [Shelly Wave 1](https://kb.shelly.cloud/knowledge-base/shelly-wave-1)

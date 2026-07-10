@@ -3106,7 +3106,7 @@ Wir empfehlen Ihnen, dafür eine neue/andere E-Mail-Adresse zu nutzen und die 2-
 
 Eine „Umpersonalisierung“ können Sie bis kurz vor Reisebeginn erwerben.
 
-[Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A001)
+[Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-kann-ich-die-umpersonalisierung-vornehmen)
 
@@ -16479,7 +16479,7 @@ Bitte führen Sie einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit
 
 Die Umpersonalisierung ist nur durch die tatsächlich mitreisende Person, die als Gruppenleiter fungiert, durchzuführen.
 
-[Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A001)
+[Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-namensaenderung-desgruppenleiters-bei-ice-oder-ic-ec-gruppentickets-vornehmen)
 
@@ -17026,7 +17026,7 @@ Bei der Reise ist dann neben der ICE oder IC/EC-Gruppenfahrkarte der Beleg „Um
 
 Dieses Angebot gilt nicht für Gruppenfahrkarten des Nahverkehrs.
 
-[Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A001)
+[Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-namen-der-hauptreisenden-person-aendern)
 
