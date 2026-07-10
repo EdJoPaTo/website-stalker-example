@@ -78,8 +78,8 @@ Unsere Servicestationen stehen Ihnen mit einer Auswahl an kostenlosen, alkoholfr
 Nutzungsbestimmungen und Legitimationsprüfung
 ----------
 
-* [DB Lounge Nutzungsbestimmungen (PDF, 668 KB)](https://assets.static-bahn.de/dam/jcr:54681983-bb7e-49bd-b71f-0b9c9eea5fe2/DB%20Lounge%20Nutzungsbestimmungen_M%C3%A4rz%202023.2023-02-28-14-32-46.pdf)
-* [Legitimationsprüfung DB Lounges - Das elektronische Lesegerät (PDF, 560 KB)](https://assets.static-bahn.de/dam/jcr:14d34826-e362-4fcf-89a0-6458fe7169ec/2025%20-%20Legitimationspr%C3%BCfung%20DB%20Lounges%20-%20Das%20elektronische%20Leseger%C3%A4t_sep25.2025-09-11-12-11-22.pdf)
+* [DB Lounge Nutzungsbestimmungen (PDF, 341 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/db-lounge-bistro/DB-Lounge-Nutzungsbestimmungen.pdf)
+* [Legitimationsprüfung DB Lounges - Das elektronische Lesegerät (PDF, 204 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/db-lounge-bistro/Legitimationspruefung-DB-Lounges-Das-elektronische-Leseger%C3%A4t-1.pdf)
 
 DB Lounges
 ----------

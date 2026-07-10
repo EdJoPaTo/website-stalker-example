@@ -3106,9 +3106,79 @@ Wir empfehlen Ihnen, dafür eine neue/andere E-Mail-Adresse zu nutzen und die 2-
 
 Eine „Umpersonalisierung“ können Sie bis kurz vor Reisebeginn erwerben.
 
+**Hinweis:** Die Umpersonalisierung ist für Fahrkarten der 1. und 2. Klasse gültig, auch wenn diese für die 2. Klasse ausgestellt wird.
+
 [Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-kann-ich-die-umpersonalisierung-vornehmen)
+
+ Wo ist das Bodensee Ticket gültig?
+----------
+
+Das Bodensee Ticket teilt sich in die drei Zonen Ost, West und Süd (Appenzellerland) auf.
+
+Es gilt in der 2. Klasse für Fahrten in Bahn, Bus und Fähren.
+
+Die Zone Süd gibt es nur zusammen mit den Zonen Ost und West.
+
+* [Alle Zonen im Überblick auf bodensee-ticket.com](https://www.bodensee-ticket.com/zonen/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodensee-gueltig)
+
+ Wo kann ich das Bodensee Ticket kaufen?
+----------
+
+Sie erhalten das Ticket an DB-Automaten und DB-Reisezentren in der Region an Bahnhöfen und Tourist-Informationen, in vielen Bussen und auf den Fähren.
+
+* [Eine Übersicht über die Verkaufsstellen finden Sie unter bodensee-ticket.com](https://www.bodensee-ticket.com/verkaufsstellen/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodensee-kaufen)
+
+ Bodensee Ticket: Welche Varianten gibt es und was kosten sie?
+----------
+
+Das Bodensee Ticket ist erhältlich für die Zonen Ost und/oder West sowie Süd in folgenden Varianten:
+
+* Tageskarte ab 27 Euro
+* 3-Tages-Pass ab 52 Euro
+* Kleingruppen-Ticket (1-2 Erwachsene und bis zu 4 Kinder)
+* Fahrrad-Kombi
+
+* [Details zu den Preisen unter bodensee-ticket.com](https://www.bodensee-ticket.com/preise/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodensee-preis)
+
+ Erhalte ich noch Rabatt auf das Bodensee Ticket?
+----------
+
+Ja, Sie zahlen ermäßigte Preise **ab 21 Euro** nicht nur, wenn Sie eine **BahnCard** haben, sondern auch als Inhaber oder Inhaberin eines **Deutschland-Tickets.**
+
+Ein weiteres Plus: **25 % auf den Normalpreis der saisonalen VSU-Kursschifffahrt** auf dem Bodensee und Rhein bei Vorlage eines gültigen Bodensee Tickets
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodensee-rabatt)
+
+ Wo finde ich die Tarifbedingungen für das Bodensee Ticket?
+----------
+
+Die Tarifbedingungen des Gemeinschafstarif finden Sie unter:
+
+* [bodensee-ticket.com](https://www.bodensee-ticket.com/preise/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodensee-tarifbed)
+
+ Für welche Verkehrsmittel ist das Bodensee Ticket gültig?
+----------
+
+Das Ticket gilt in der jeweils gewählten Zone:
+
+* Auf allen **Buslinien**
+* In **Zügen**, in denen auch die Angebote des jeweils beteiligten Verkehrsverbundes gelten (in der Schweiz, in Österreich und im Fürstentum Liechtenstein auch im Fernverkehr (inkl. EC St. Gallen – Lindau), In Deutschland ohne Züge des Fernverkehrs (ICE/IC/EC/RJX/RJ).
+* Auf folgenden **Fähren**: Im Bodensee Ticket ist je nach gelösten Zonen die Benutzung der Fähren Konstanz – Meersburg und/oder Friedrichshafen – Romanshorn (im Winter auch bei reiner Personen- und Fahrradbeförderung) im Preis inbegriffen.
+* Auf **Schiffen**: Das Bodensee Ticket ist nicht gültig für die Kursschifffahrt und den Katamaran. Hingegen gewährt die saisonale VSU-Kursschifffahrt bei Vorlage eines gültigen Bodensee Tickets 25 % Rabatt auf den Normalpreis.
+
+* [Alle Zonen im Überblick auf bodensee-ticket.com](https://www.bodensee-ticket.com/zonen/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodensee-verkehrsmittel)
 
  Welche Tickets im bodo-Tarif sind in der App DB Navigator oder online erhältich?
 ----------
@@ -16479,6 +16549,8 @@ Bitte führen Sie einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit
 
 Die Umpersonalisierung ist nur durch die tatsächlich mitreisende Person, die als Gruppenleiter fungiert, durchzuführen.
 
+**Hinweis:** Die Umpersonalisierung ist für Fahrkarten der 1. und 2. Klasse gültig, auch wenn diese für die 2. Klasse ausgestellt wird.
+
 [Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A201)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-namensaenderung-desgruppenleiters-bei-ice-oder-ic-ec-gruppentickets-vornehmen)
@@ -17025,6 +17097,8 @@ Sie können den Namen des Hauptreisenden einer ICE oder IC/EC Gruppenfahrkarte �
 Bei der Reise ist dann neben der ICE oder IC/EC-Gruppenfahrkarte der Beleg „Umpersonalisierung“ im Zug vorzulegen.
 
 Dieses Angebot gilt nicht für Gruppenfahrkarten des Nahverkehrs.
+
+**Hinweis**: Die Umpersonalisierung ist für Fahrkarten der 1. und 2. Klasse gültig, auch wenn diese für die 2. Klasse ausgestellt wird.
 
 [Zur Buchung der Umpersonalisierung für Gruppentickets](https://www.bahn.de/buchung/katalog/ZUSATZANGEBOTE/FVKENTA00001A201)
 
