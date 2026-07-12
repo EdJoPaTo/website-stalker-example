@@ -5341,8 +5341,6 @@ Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornier
 
 [Zum Super Sparpreise Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-last-minute)
 
  Auf welchen Strecken und an welchen Tagen wird DB Junior Express angeboten?
@@ -5710,8 +5708,6 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
 Sie können das Ticket samstags und sonntags für Montag bis Sonntag der Folgewoche buchen. Nur solange der Vorrat reicht.
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-last-minute)
 
