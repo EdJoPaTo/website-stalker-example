@@ -1233,6 +1233,7 @@
 * [Tischfeuerwerk](https://www.wdrmaus.de/filme/sachgeschichten/tischfeuerwerk.php5)
 * [Tofu](https://www.wdrmaus.de/filme/sachgeschichten/tofu.php5)
 * [Toilettenbecken](https://www.wdrmaus.de/filme/sachgeschichten/toilettenbecken.php5)
+* [Toilettenschüssel](https://www.wdrmaus.de/filme/sachgeschichten/toilettenschuessel.php5)
 * [Tomatenketchup](https://www.wdrmaus.de/filme/sachgeschichten/tomatenketchup.php5)
 * [Topfschwamm](https://www.wdrmaus.de/filme/sachgeschichten/topfschwamm.php5)
 * [Torlinientechnik](https://www.wdrmaus.de/filme/sachgeschichten/torlinientechnik.php5)
