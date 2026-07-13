@@ -19,15 +19,6 @@ Die Züge des Fernverkehrs sind mit einer leistungsfähigen Multiprovidertechnik
 
  Kein anderes Verkehrsmittel bietet so optimale Bedingungen zur Internetnutzung wie die Züge des Fernverkehrs. Deshalb können Sie sich während der Fahrt ins drahtlose Internet einloggen - und das sogar bei bis zu 300 km/h.
 
-Das Connectivity Radar
-----------
-
-Wer kennt es nicht: Da möchte man gerade den großen Mail-Anhang herunterladen, doch plötzlich ist die Internet-Verbindung über das WLAN langsamer und man weiß nicht, wann sich das wieder ändert.
-
-Das neue Feature „Connectivity Radar“ im ICE Portal gibt hier künftig mehr Sicherheit: Es zeigt die Qualität der Internet-Verbindung im ICE auf dem nächsten Streckenabschnitt in Form verschiedener Status an: „Schnelles Internet“, „Langsames Internet“ „Wechselhaftes Internet“, „Kein Internet“ und „Keine Information“.
-
-So können Sie die aktuelle und künftige Internetverbindung besser einschätzen und Ihre Zeit im Zug bestmöglich planen. Die Anzeige finden Sie direkt auf der Startseite des ICE Portals.
-
 Häufige Fragen zu WLAN im ICE
 ----------
 

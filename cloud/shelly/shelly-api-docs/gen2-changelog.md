@@ -11,140 +11,83 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-Unreleased
+[2.0.0] 2026-07-13
 ----------
-
-**Available as `2.0.0-beta3`**
-
-### Added ###
-
-* Add GoDaddy to certificate bundles
-* [BLE](/gen2/ComponentsAndServices/BLE), [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning): Advertise "locked device" beacon when secure provisioning is in terminal state
-* [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv): Add support for BLU Door/Window ZB as external sensor
-* [Light](/gen2/ComponentsAndServices/Light): Add [Light.SetMany](/gen2/ComponentsAndServices/Light#lightsetmany)
-* [LNM](/gen2/DynamicComponents/LNM/): Add [LNM.Call](/gen2/DynamicComponents/LNM/#lnmcall) RPC
-* [LNM](/gen2/DynamicComponents/LNM/): Add `rx` [webhooks](/gen2/DynamicComponents/LNM/#webhook-events)
-* [LNM](/gen2/DynamicComponents/LNM/): Add TX support for [CCT](/gen2/ComponentsAndServices/CCT), [RGBW](/gen2/ComponentsAndServices/RGBW) and [RGBCCT](/gen2/ComponentsAndServices/RGBCCT) components
-* [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Add configuration for number of objects to track
-* [Scripting](/gen2/ComponentsAndServices/Script): Add [Script.addRpcHandler](/gen2/Scripts/APIs/RPCHandlers) for user script RPC handlers
-* [Scripting](/gen2/ComponentsAndServices/Script): Allow scripts to declare [virtual components](/gen2/DynamicComponents/Virtual/) in their `@meta` header
-* [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning): Add `provisioning` object to [Sys](/gen2/ComponentsAndServices/Sys) status
-* [Sys](/gen2/ComponentsAndServices/Sys): Add `alt` object to [Shelly.CheckForUpdate](/gen2/ComponentsAndServices/Shelly#shellycheckforupdate) response
-
-### Fixed ###
-
-* ADE7953: Fix sign extending and power factor calculations
-* [BLE](/gen2/ComponentsAndServices/BLE): Fix [BLE.advertiseOnce](/gen2/Scripts/APIs/BLE) drops of consecutive advertisements
-* [BLE](/gen2/ComponentsAndServices/BLE): Fix flapping `flags` status change notifications when time beacon is advertised
-* [BLE](/gen2/ComponentsAndServices/BLE): Fix unpicked newly-added BLE advertising slots when a single indefinite slot is already running
-* [Eth](/gen2/ComponentsAndServices/Eth): Fix multicast reception
-* [Flood S](/gen2/Devices/Gen4/ShellyFloodS): Fix [Matter](/gen2/ComponentsAndServices/Matter)/[Zigbee](/gen2/ComponentsAndServices/Zigbee) product name
-* Fortify validation of initial states kept in RTC memory
-* [Input](/gen2/ComponentsAndServices/Input): Fix wrong status change when an error is cleared
-* mbedtls, lwip: Fix client cert parsing
-* OTA: Keep WDT fed during FS merge
-* [PlugUS Gen4](/gen2/Devices/Gen4/ShellyPlugUSG4): Fix incorrect power measurements
-* [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon): Fix `switch` power-on default
-* [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM): Fix unexpected provisioning state status
-* [ProCB](/gen2/Devices/Gen2/ShellyProCB): Determine lever init state
-* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix ambiguous calibration progress reports
-* [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix interrupted dimming on a channel when a command is sent to the other channel
-* [RGBCCT Bulb Gen3](/gen2/Devices/Gen3/ShellyRGBCCTBulbG3): Fix low-brightness color tint
-* [Scripting](/gen2/ComponentsAndServices/Script): Fix crash on [MQTT.subscribe](/gen2/Scripts/APIs/MQTT) with empty topic
-* [Shelly.Update](/gen2/ComponentsAndServices/Shelly#shellyupdate): Jitter schedule-triggered downloads
-* [Switch](/gen2/ComponentsAndServices/Switch): Fix operational counters reset timestamp persistence across reboots
-* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Disable IEEE address compression
-* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix power factor default reporting
-
-### Changed ###
-
-* OTA: Switch from commit timeout to commit delay
-* Update mbedtls to 3.6.6
-
-### Local web ###
-
-### Added ###
-
-* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3): Update UI for adding devices
-* [BTHomeSensor](/gen2/DynamicComponents/BTHome/BTHomeSensor): Add Fahrenheit support for temperature type sensors
-* [Light](/gen2/ComponentsAndServices/Light): Visualize dimming curve
-* [Shutter](/gen2/Devices/Gen3/ShellyShutter): Add missing protections page
-* [Switch](/gen2/ComponentsAndServices/Switch): Update UI for operational counters
-* [Voltmeter](/gen2/ComponentsAndServices/Voltmeter): Add support for [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon) range
-
-### Changed ###
-
-* [Authentication](/gen2/General/Authentication): Handle wrong password error
-* [Authentication](/gen2/General/Authentication): Save and restore auth from cookie
-* [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv): Limit temperature offset to -12.5, 12.5
-* [BTHomeDevice](/gen2/DynamicComponents/BTHome/BTHomeDevice): Handle encryption key config
-* [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon): Improve UI when adding/removing temperature sensors
-* TLS: Add confirmation message when clearing certificates
-* [Virtual Components](/gen2/DynamicComponents/Virtual/): Hide edit icon if user can't edit the config
-* [Virtual Components](/gen2/DynamicComponents/Virtual/): Remove step for virtual number min/max config values
-* [WiFi](/gen2/ComponentsAndServices/WiFi): Show channel if available
-* [XMOD](/gen2/ComponentsAndServices/XMOD): Use device info instead of `XMOD.GetInfo` method
-
-**Available as `2.0.0-beta2`**
-
-### Added ###
-
-* [Pro1](/gen2/Devices/Gen2/ShellyPro1), [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM), [Pro2](/gen2/Devices/Gen2/ShellyPro2), [Pro2PM](/gen2/Devices/Gen2/ShellyPro2PM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM), [ProEM](/gen2/Devices/Gen2/ShellyProEM), [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [ProDimmer0110VPM](/gen2/Devices/Gen2/ShellyProDimmer0110VPM): Add support for [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon)
-
-**Available as `2.0.0-beta1`**
 
 ### Security ###
 
+* [`/ota`](/gen2/ComponentsAndServices/Shelly#http-endpoint-ota): Fix auth bypass after reboot and MD5 algo mismatch
 * [Authentication](/gen2/General/Authentication): Implement brute-force protection
 * [Authentication](/gen2/General/Authentication): Implement RFC 7616-compliant nonce management
 * [BLE](/gen2/ComponentsAndServices/BLE): Require pairing for RPC over BLE
 * [BTHome](/gen2/DynamicComponents/BTHome/): Implement encrypted advertisement replay attack protection
-* [Sys](/gen2/ComponentsAndServices/Sys#enhanced-security): Implement HTTP to HTTPS redirect (when `enhanced_security` is enabled)
-* [Sys](/gen2/ComponentsAndServices/Sys#configuration): Implement TLS certificate date/time validation (can be overridden when `enhanced_security` is disabled)
-* [`/ota`](/gen2/ComponentsAndServices/Shelly#http-endpoint-ota): Fix auth bypass after reboot and MD5 algo mismatch
 * [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning): Extend secure provisioning flow to [Matter](/gen2/ComponentsAndServices/Matter)
 * [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning): Extend secure provisioning flow to [Zigbee](/gen2/ComponentsAndServices/Zigbee)
+* [Sys](/gen2/ComponentsAndServices/Sys#configuration): Implement TLS certificate date/time validation (can be overridden when `enhanced_security` is disabled)
+* [Sys](/gen2/ComponentsAndServices/Sys#enhanced-security): Implement HTTP to HTTPS redirect (when `enhanced_security` is enabled)
 
 ### Added ###
 
+* Add GoDaddy to certificate bundles
 * Add [Local Network Messaging](/gen2/DynamicComponents/LNM/) (multicast via UDP)
 * Add [Shelly.PutHTTPServerCert, Shelly.PutHTTPServerKey, Shelly.PutHTTPServerCABundle](/gen2/General/CustomHTTPSCertificates)
-* [BLE](/gen2/ComponentsAndServices/BLE): Add activity flags in status
+* [BLE](/gen2/ComponentsAndServices/BLE): Add `addr` field in status (device's Bluetooth MAC address with type)
 * [BLE](/gen2/ComponentsAndServices/BLE): Add [BLE.StartAssociations](/gen2/ComponentsAndServices/BLE#blestartassociations)
 * [BLE](/gen2/ComponentsAndServices/BLE): Add RPCs for managing paired devices
 * [BLE](/gen2/ComponentsAndServices/BLE): Add Time(Zone) info to BLE broadcast
+* [BLE](/gen2/ComponentsAndServices/BLE): Add activity flags in status
 * [BLE](/gen2/ComponentsAndServices/BLE): Expose BLE advertising API for [scripts](/gen2/Scripts/APIs/BLE) & RPC
-* [BLE](/gen2/ComponentsAndServices/BLE): Add `addr` field in status (device's Bluetooth MAC address with type)
+* [BLE](/gen2/ComponentsAndServices/BLE), [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning): Advertise "locked device" beacon when secure provisioning is in terminal state
 * [BTHome](/gen2/DynamicComponents/BTHome/): Automatically create sensors when a new device is added
 * [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl): Add [Cover](/gen2/ComponentsAndServices/Cover) control mode by BLU Remote (move until scroll wheel of remote is rotated / move based on steps received by rotating scroll wheel)
 * [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl): Add RPCs to create, update, delete and enumerate mappings
 * [BTHomeControl](/gen2/DynamicComponents/BTHome/BTHomeControl): Add support for [2PM Gen4](/gen2/Devices/Gen4/Shelly2PMG4), [PowerStrip Gen4](/gen2/Devices/Gen4/ShellyPowerStripG4), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US)
-* [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US): Add [gamma correction](/gen2/ComponentsAndServices/Light#configuration)
-* [EM](/gen2/ComponentsAndServices/EM), [EM1](/gen2/ComponentsAndServices/EM1), [PM1](/gen2/ComponentsAndServices/PM1): Add over/under alarms and webhooks for power, current and voltage
+* [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv): Add support for BLU Door/Window ZB as external sensor
 * [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3): Add [Matter](/gen2/ComponentsAndServices/Matter) support
+* [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US), [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Add [gamma correction](/gen2/ComponentsAndServices/Light#configuration)
+* [EM](/gen2/ComponentsAndServices/EM), [EM1](/gen2/ComponentsAndServices/EM1), [PM1](/gen2/ComponentsAndServices/PM1): Add over/under alarms and webhooks for power, current and voltage
 * [HT Gen3](/gen2/Devices/Gen3/ShellyHTG3): Add [Matter](/gen2/ComponentsAndServices/Matter) support
 * [HTTP](/gen2/ComponentsAndServices/HTTP): Add support for WebSocket continuation frames
 * Indicate switching alternative firmwares (e.g. Matter/Zigbee) via the system LED
+* [Light](/gen2/ComponentsAndServices/Light): Add [Light.SetMany](/gen2/ComponentsAndServices/Light#lightsetmany)
+* [LoRa](/gen2/Addons/ShellyLoRaAddon): Add Shelly Long-Range Protocol (SheLR) including AES-CCM cryptography ([LoRa.Send](/gen2/Addons/ShellyLoRaAddon#lorasend))
 * [LoRa](/gen2/Addons/ShellyLoRaAddon): Add low power mode for EU868 RF band plan
 * [LoRa](/gen2/Addons/ShellyLoRaAddon): Add new RF band plans: US915 (North America and Caribbeans) with frequency hopping support and BR915-928 (Brazil)
-* [LoRa](/gen2/Addons/ShellyLoRaAddon): Add Shelly Long-Range Protocol (SheLR) including AES-CCM cryptography ([LoRa.Send](/gen2/Addons/ShellyLoRaAddon#lorasend))
 * [PlugUS Gen4](/gen2/Devices/Gen4/ShellyPlugUSG4): Add [Zigbee](/gen2/ComponentsAndServices/Zigbee) illuminance cluster
-* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Add [gamma correction](/gen2/ComponentsAndServices/Light#configuration)
-* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US): Add [warmup feature](/gen2/ComponentsAndServices/Light#configuration)
-* [Pro1](/gen2/Devices/Gen2/ShellyPro1), [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM), [Pro2](/gen2/Devices/Gen2/ShellyPro2), [Pro2PM](/gen2/Devices/Gen2/ShellyPro2PM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM), [ProEM](/gen2/Devices/Gen2/ShellyProEM), [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [ProDimmer0110VPM](/gen2/Devices/Gen2/ShellyProDimmer0110VPM), [ProRGBWWPM](/gen2/Devices/Gen2/ShellyProRGBWWPM): Add support for [Pro LoRa Add-On](/gen2/Addons/ShellyLoRaProAddon)
+* [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Add configuration for number of objects to track
 * [Pro RGBWW PM](/gen2/Devices/Gen2/ShellyProRGBWWPM): Add `hf_mode`
+* [Pro1](/gen2/Devices/Gen2/ShellyPro1), [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM), [Pro2](/gen2/Devices/Gen2/ShellyPro2), [Pro2PM](/gen2/Devices/Gen2/ShellyPro2PM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM), [ProEM](/gen2/Devices/Gen2/ShellyProEM), [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [ProDimmer0110VPM](/gen2/Devices/Gen2/ShellyProDimmer0110VPM): Add support for [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon)
+* [Pro1](/gen2/Devices/Gen2/ShellyPro1), [Pro1PM](/gen2/Devices/Gen2/ShellyPro1PM), [Pro2](/gen2/Devices/Gen2/ShellyPro2), [Pro2PM](/gen2/Devices/Gen2/ShellyPro2PM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM), [ProEM](/gen2/Devices/Gen2/ShellyProEM), [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [ProDimmer0110VPM](/gen2/Devices/Gen2/ShellyProDimmer0110VPM), [ProRGBWWPM](/gen2/Devices/Gen2/ShellyProRGBWWPM): Add support for [Pro LoRa Add-On](/gen2/Addons/ShellyLoRaAddon)
+* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM), [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US): Add [warmup feature](/gen2/ComponentsAndServices/Light#configuration)
 * [Scripting](/gen2/ComponentsAndServices/Script): Add [Bluetooth scanner matchers/filters](/gen2/Scripts/APIs/BLE)
+* [Scripting](/gen2/ComponentsAndServices/Script): Add [Script.addRpcHandler](/gen2/Scripts/APIs/RPCHandlers) for user script RPC handlers
+* [Scripting](/gen2/ComponentsAndServices/Script): Allow scripts to declare [virtual components](/gen2/DynamicComponents/Virtual/) in their `@meta` header
+* [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning): Add `provisioning` object to [Sys](/gen2/ComponentsAndServices/Sys) status
 * [Switch](/gen2/ComponentsAndServices/Switch): Add operational counters
 * [Switch](/gen2/ComponentsAndServices/Switch), [Cover](/gen2/ComponentsAndServices/Cover), [Light](/gen2/ComponentsAndServices/Light), [RGB](/gen2/ComponentsAndServices/RGB), [RGBW](/gen2/ComponentsAndServices/RGBW), [CCT](/gen2/ComponentsAndServices/CCT): Add optional `tag` argument to control RPCs to identify command origin
+* [Sys](/gen2/ComponentsAndServices/Sys): Add `alt` object to [Shelly.CheckForUpdate](/gen2/ComponentsAndServices/Shelly#shellycheckforupdate) response
 * [Webhook](/gen2/ComponentsAndServices/Webhook): Add [Webhook.ListAllSupported](/gen2/ComponentsAndServices/Webhook#webhooklistallsupported)
 * [WiFi](/gen2/ComponentsAndServices/WiFi): Add `channel` to status
-* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Add inputs support
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Add OTA support
-* [Zigbee](/gen2/Integrations/Zigbee/ZigbeeRPC): Add [Zigbee.SendCommand](/gen2/Integrations/Zigbee/ZigbeeRPC#zigbeesendcommand), [Zigbee.ReadAttr](/gen2/Integrations/Zigbee/ZigbeeRPC#zigbeereadattr), [Zigbee.WriteAttr](/gen2/Integrations/Zigbee/ZigbeeRPC#zigbeewriteattr)
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Add inputs support
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Indicate Zigbee connection (initializing, steering, joined, failed) via the system LED
+* [Zigbee](/gen2/Integrations/Zigbee/ZigbeeRPC): Add [Zigbee.SendCommand](/gen2/Integrations/Zigbee/ZigbeeRPC#zigbeesendcommand), [Zigbee.ReadAttr](/gen2/Integrations/Zigbee/ZigbeeRPC#zigbeereadattr), [Zigbee.WriteAttr](/gen2/Integrations/Zigbee/ZigbeeRPC#zigbeewriteattr)
+
+### Changed ###
+
+* [BLE](/gen2/ComponentsAndServices/BLE): Update NimBLE to 1.9.0
+* Improved output zero-cross synchronization mechanism
+* [MQTT](/gen2/ComponentsAndServices/Mqtt): Bump max queue length to 30
+* OTA: Switch from commit timeout to commit delay
+* Update IDF to 5.5.2
+* Update mbedtls to 3.6.6
+* Update vfs-fs-lfs to 2.11.2
+* [WiFi](/gen2/ComponentsAndServices/WiFi): Reduce minimum active time in PS modes (improves average consumption in busy networks)
+* lwip: Use `shelly.name` as device's hostname, if set, fall back to `device.id` if not
 
 ### Fixed ###
 
+* ADE7953: Fix sign extending and power factor calculations
 * [BLE](/gen2/ComponentsAndServices/BLE): Fix extended advertising/scanning support
 * [BLE](/gen2/ComponentsAndServices/BLE): GATTS: handle the case where MTU event arrives before CONNECT
 * [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3): Fix TRV Set/ClearOverride retry logic
@@ -154,40 +97,43 @@ Unreleased
 * [CCT](/gen2/ComponentsAndServices/CCT): Fix `ct_range` application in `night_mode`
 * [Cover](/gen2/ComponentsAndServices/Cover): Fix tilt command via [Zigbee](/gen2/ComponentsAndServices/Zigbee)
 * [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4), [Dimmer Gen4 US](/gen2/Devices/Gen4/ShellyDimmerG4US): Fix too long transition via [Light.Set](/gen2/ComponentsAndServices/Light#lightset)
+* [Eth](/gen2/ComponentsAndServices/Eth): Fix multicast reception
 * Fix crashes when config is saved
 * Fix memleak when component's `name` is cleared
 * [Flood](/gen2/Devices/Gen4/ShellyFlood): Fix sleep algorithm when [Zigbee](/gen2/ComponentsAndServices/Zigbee) is enabled
+* [Flood S](/gen2/Devices/Gen4/ShellyFloodS): Fix [Matter](/gen2/ComponentsAndServices/Matter)/[Zigbee](/gen2/ComponentsAndServices/Zigbee) product name
+* Fortify validation of initial states kept in RTC memory
 * [HTTP](/gen2/ComponentsAndServices/HTTP): Fix crash when header params value is empty
 * [HTTP](/gen2/ComponentsAndServices/HTTP): Fix overflow in client timeout calculation
 * HTTPDebugLogHandler: Do not emit "Stopped streaming" if never started
+* [Input](/gen2/ComponentsAndServices/Input): Fix wrong status change when an error is cleared
 * [Light](/gen2/ComponentsAndServices/Light): Fix toggle command via [Zigbee](/gen2/ComponentsAndServices/Zigbee)
 * [Light](/gen2/ComponentsAndServices/Light), [CCT](/gen2/ComponentsAndServices/CCT), [RGBW](/gen2/ComponentsAndServices/RGBW): Fix night mode empty checks
 * [LoRa](/gen2/Addons/ShellyLoRaAddon): Fix AddOn.CheckForUpdate failing at startup
-* [Matter](/gen2/ComponentsAndServices/Matter): Fix stack overflow in SetConfig
 * [MQTT](/gen2/ComponentsAndServices/Mqtt): Fix missing status updated after reboot or power loss
+* [Matter](/gen2/ComponentsAndServices/Matter): Fix stack overflow in SetConfig
+* mbedtls, lwip: Fix client cert parsing
 * [Ogemray25A](/gen2/Devices/PoweredByShelly/Ogemray25A): Fix incorrect energy measurements
 * OTA: Improve safety checks: a) fail the update if new PT check fails, b) ensure no change is made to PT, BL or BS during slot switch, c) do not allow current otadata or NVS to be overwritten
+* OTA: Keep WDT fed during FS merge
+* [ProCB](/gen2/Devices/Gen2/ShellyProCB): Determine lever init state
+* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix ambiguous calibration progress reports
+* [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix interrupted dimming on a channel when a command is sent to the other channel
 * Range Extender: Fix chained setups
 * Range Extender: Fix unavailable AP on devices connected via Range Extender
-* [Scripting](/gen2/ComponentsAndServices/Script): Fix failed attempts to start a new BLE scanner unless previous one is explicitly stopped
+* [RGBCCT Bulb Gen3](/gen2/Devices/Gen3/ShellyRGBCCTBulbG3): Fix low-brightness color tint
 * [Schedules](/gen2/ComponentsAndServices/Schedule): Fix cron next/prev returning wrong timestamps during DST fall-back overlap
+* [Scripting](/gen2/ComponentsAndServices/Script): Fix crash on [MQTT.subscribe](/gen2/Scripts/APIs/MQTT) with empty topic
+* [Scripting](/gen2/ComponentsAndServices/Script): Fix failed attempts to start a new BLE scanner unless previous one is explicitly stopped
+* [Shelly.Update](/gen2/ComponentsAndServices/Shelly#shellyupdate): Jitter schedule-triggered downloads
 * [WiFi](/gen2/ComponentsAndServices/WiFi): Retry on scan failure
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Disable IEEE address compression
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix crash on leave
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix excessive power measurements reporting
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix incorrect power factor values
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix pairing sequence
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix power factor default reporting
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix wrong type of `power factor` attribute
-
-### Changed ###
-
-* [BLE](/gen2/ComponentsAndServices/BLE): Update NimBLE to 1.9.0
-* Improved output zero-cross synchronization mechanism
-* lwip: Use `shelly.name` as device's hostname, if set, fall back to `device.id` if not
-* [MQTT](/gen2/ComponentsAndServices/Mqtt): Bump max queue length to 30
-* Update IDF to 5.5.2
-* Update mbedtls to 3.6.3.1
-* Update vfs-fs-lfs to 2.11.2
-* [WiFi](/gen2/ComponentsAndServices/WiFi): Reduce minimum active time in PS modes (improves average consumption in busy networks)
 
 ### Removed ###
 
@@ -197,68 +143,84 @@ Unreleased
 
 ### Added ###
 
-* Add read and write controls for Modbus RTU Client devices
 * Add [BLE](/gen2/ComponentsAndServices/BLE) pairing management: discovery mode, paired device list, and unpair option
-* Auto ON/OFF timer delays now accept math expressions (e.g. `3.5 * 60 * 60`) with live result preview
-* Diagnostics downloads now include the device ID in filenames and embed device info in log files
 * Add a test button to verify [Webhook](/gen2/ComponentsAndServices/Webhook) action URLs without triggering the actual event
-* [PowerStrip Gen4](/gen2/Devices/Gen4/ShellyPowerStripG4) LED indicator settings now accessible from any output
 * Add display of [Energy Meter](/gen2/ComponentsAndServices/EM) errors and warnings (overvoltage, overcurrent, power meter failure)
+* Add read and write controls for Modbus RTU Client devices
+* Auto ON/OFF timer delays now accept math expressions (e.g. `3.5 * 60 * 60`) with live result preview
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3): Update UI for adding devices
+* [BTHomeSensor](/gen2/DynamicComponents/BTHome/BTHomeSensor): Add Fahrenheit support for temperature type sensors
+* Diagnostics downloads now include the device ID in filenames and embed device info in log files
 * Improved screen reader and keyboard accessibility across device pages, settings, and UI components (navigation landmarks, ARIA labels, focus indicators, form labeling)
+* [Light](/gen2/ComponentsAndServices/Light): Visualize dimming curve
+* [PowerStrip Gen4](/gen2/Devices/Gen4/ShellyPowerStripG4) LED indicator settings now accessible from any output
+* [Shutter](/gen2/Devices/Gen3/ShellyShutter): Add missing protections page
+* [Switch](/gen2/ComponentsAndServices/Switch): Update UI for operational counters
+* [Voltmeter](/gen2/ComponentsAndServices/Voltmeter): Add support for [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon) range
 
 ### Changed ###
 
-* Redesigned settings page: Cloud, Eco Mode, and other settings inlined into the main settings list
+* Action conditions now auto-select the comparison operator when only one option exists
+* Add blind spot and mounting position configuration to Presence sensor room settings
+* Add imperial unit display option for Presence sensor configuration
 * Add toast-style notification popups with auto-dismiss progress bars and severity colors
-* Redesigned system notification banners with consistent styling and clear action buttons
-* Unified status pill/badge styling across all device cards
-* Replaced toggle buttons on output cards with a unified button that shows timer countdown visually
-* Updated color scheme for the [script](/gen2/ComponentsAndServices/Script) editor and debug console
-* [Script](/gen2/ComponentsAndServices/Script) editor toolbar now stays visible while scrolling through long scripts
+* Alternative firmware warning now mentions that device profile will also be reset
+* AP password is only required when enabling the Access Point
+* [Authentication](/gen2/General/Authentication): Handle wrong password error
+* [Authentication](/gen2/General/Authentication): Save and restore auth from cookie
+* [BLE](/gen2/ComponentsAndServices/BLE) settings now show the live BLE address without the address type suffix
+* [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv): Limit temperature offset to -12.5, 12.5
+* [BTHomeDevice](/gen2/DynamicComponents/BTHome/BTHomeDevice): Handle encryption key config
 * Dashboard output grid now updates dynamically when components are added or removed
-* [WiFi](/gen2/ComponentsAndServices/WiFi) status and IP address now shown directly in the settings list
+* Download links now use HTTPS when accessing the device over a secure connection
+* Fixed checkboxes and toggles inside clickable cards from triggering unintended navigation
+* Improved AP password recommendation notification styling
+* Improved NTP server settings notification styling
 * Improved [RGBW](/gen2/ComponentsAndServices/RGBW) light calibration notification with progress feedback
 * Modals now use native browser dialog for improved accessibility and keyboard support
-* Fixed checkboxes and toggles inside clickable cards from triggering unintended navigation
-* Unified and deduplicated CSS across device cards for a more consistent look
-* Unified [Energy Meter](/gen2/ComponentsAndServices/EM) dashboards and removed SVG wiring diagrams to reduce bundle size
-* Redesigned the password authentication screen with cleaner layout and notification-based error feedback
-* Removed the [WiFi](/gen2/ComponentsAndServices/WiFi) connection warning from Wi-Fi settings
-* Alternative firmware warning now mentions that device profile will also be reset
-* Improved NTP server settings notification styling
-* Improved AP password recommendation notification styling
-* [BLE](/gen2/ComponentsAndServices/BLE) settings now show the live BLE address without the address type suffix
-* Download links now use HTTPS when accessing the device over a secure connection
-* Reorganized Temperature and Humidity settings into dedicated pages with proper offset validation
-* Removed the "Black" color preset from LED settings (kept only for Plug devices)
-* Add imperial unit display option for Presence sensor configuration
-* Newly created [schedules](/gen2/ComponentsAndServices/Schedule) are now enabled by default
-* Add blind spot and mounting position configuration to Presence sensor room settings
-* AP password is only required when enabling the Access Point
 * Moved auto ON/OFF timers to a dedicated settings page
-* Action conditions now auto-select the comparison operator when only one option exists
+* Newly created [schedules](/gen2/ComponentsAndServices/Schedule) are now enabled by default
+* [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon): Improve UI when adding/removing temperature sensors
+* Redesigned settings page: Cloud, Eco Mode, and other settings inlined into the main settings list
+* Redesigned system notification banners with consistent styling and clear action buttons
+* Redesigned the password authentication screen with cleaner layout and notification-based error feedback
+* Removed the "Black" color preset from LED settings (kept only for Plug devices)
+* Removed the [WiFi](/gen2/ComponentsAndServices/WiFi) connection warning from Wi-Fi settings
+* Reorganized Temperature and Humidity settings into dedicated pages with proper offset validation
+* Replaced toggle buttons on output cards with a unified button that shows timer countdown visually
+* [Script](/gen2/ComponentsAndServices/Script) editor toolbar now stays visible while scrolling through long scripts
 * Simplified boolean action conditions by removing the redundant "Is not" operator
+* TLS: Add confirmation message when clearing certificates
+* Unified [Energy Meter](/gen2/ComponentsAndServices/EM) dashboards and removed SVG wiring diagrams to reduce bundle size
+* Unified and deduplicated CSS across device cards for a more consistent look
+* Unified status pill/badge styling across all device cards
+* Updated color scheme for the [script](/gen2/ComponentsAndServices/Script) editor and debug console
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): Hide edit icon if user can't edit the config
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): Remove step for virtual number min/max config values
+* [WiFi](/gen2/ComponentsAndServices/WiFi): Show channel if available
+* [WiFi](/gen2/ComponentsAndServices/WiFi) status and IP address now shown directly in the settings list
+* [XMOD](/gen2/ComponentsAndServices/XMOD): Use device info instead of `XMOD.GetInfo` method
 
 ### Fixed ###
 
-* Fixed duplicate entries appearing in the [BTHome](/gen2/DynamicComponents/BTHome/) device discovery list
-* Fixed [BTHome](/gen2/DynamicComponents/BTHome/) device names not updating when device attributes change
-* Fixed [BLE](/gen2/ComponentsAndServices/BLE) remote control icon showing on output cards when no remote is paired
-* Fixed incorrect input associations shown for external switch add-ons
-* Fixed Power Factor value not displaying on [Energy Meter](/gen2/ComponentsAndServices/EM) cards
-* Fixed [Energy Meter](/gen2/ComponentsAndServices/EM1) (EM1) channel showing incorrect component name
 * Fixed 404 error that could occur during or after device login
-* Fixed [WiFi](/gen2/ComponentsAndServices/WiFi) settings clearing the stored password or triggering unnecessary reconnections
+* Fixed battery icon in status bar not reflecting current charge level
+* Fixed being able to create more [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv) schedule rules than the device supports
+* Fixed [BLE](/gen2/ComponentsAndServices/BLE) remote control icon showing on output cards when no remote is paired
+* Fixed [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv) schedule rule warning not appearing when valve position is set to 0%
+* Fixed [BTHome](/gen2/DynamicComponents/BTHome/) device names not updating when device attributes change
+* Fixed date not displaying in time/date fields when using default locale format
+* Fixed duplicate entries appearing in the [BTHome](/gen2/DynamicComponents/BTHome/) device discovery list
+* Fixed empty alternative firmware card showing when no stable version is available
+* Fixed [Energy Meter](/gen2/ComponentsAndServices/EM1) (EM1) channel showing incorrect component name
+* Fixed incorrect input associations shown for external switch add-ons
 * Fixed incorrect IP address shown for AP and Ethernet connected clients
 * Fixed OTA firmware update not stopping and not aborting properly when the device reports an error
-* Fixed empty alternative firmware card showing when no stable version is available
-* Fixed [Webhook](/gen2/ComponentsAndServices/Webhook) repeat period input not accepting the full range of valid values
+* Fixed Power Factor value not displaying on [Energy Meter](/gen2/ComponentsAndServices/EM) cards
 * Fixed [schedules](/gen2/ComponentsAndServices/Schedule) triggering on wrong weekdays on certain device types
-* Fixed [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv) schedule rule warning not appearing when valve position is set to 0%
-* Fixed being able to create more [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv) schedule rules than the device supports
 * Fixed unnecessary network calls to battery-powered [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv) devices when not viewing schedules
-* Fixed battery icon in status bar not reflecting current charge level
-* Fixed date not displaying in time/date fields when using default locale format
+* Fixed [Webhook](/gen2/ComponentsAndServices/Webhook) repeat period input not accepting the full range of valid values
+* Fixed [WiFi](/gen2/ComponentsAndServices/WiFi) settings clearing the stored password or triggering unnecessary reconnections
 
 [1.7.5] 2026-03-12
 ----------
