@@ -226,3 +226,5 @@ Learn everything you need about Shelly devices – features, applications and sp
 
 [Shelly X](https://kb.shelly.cloud/knowledge-base/shelly-x)
 * [RAEX Smart curtain system](https://kb.shelly.cloud/knowledge-base/raex-smart-curtain-system)
+* [YIHAO Blinds chain controller YH002-A](https://kb.shelly.cloud/knowledge-base/yihao-blinds-chain-controller-yh002-a)
+* [Neo smart water valve](https://kb.shelly.cloud/knowledge-base/neo-smart-water-valve)

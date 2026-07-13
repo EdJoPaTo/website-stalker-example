@@ -23,11 +23,11 @@ Welche Domain holt den Titel? Bei netcup treten eine Auswahl an passenden Lände
 
 * Verfolge unser spannendes Match bis zum 19.07.2026.
 
-* Alle (7)
+* Alle (4)
 * Webhosting
 * Root-Server
 * VPS
-* Domains  (7)
+* Domains  (4)
 * Andere Flash Deals (0)
 
 Domains
@@ -57,34 +57,6 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.eu-domain-wm26)
-
-Domains
-
-### .ch Domain ###
-
- 74 % Rabatt
-
-statt 2,30 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Permanenter Preis
-
-pro Monat
-
-0,60 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.ch-domain-wm26)
 
 Domains
 
@@ -141,62 +113,6 @@ pro Monat
 (inkl. 19% MwSt.)
 
 [Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.fr-domain-wm26)
-
-Domains
-
-### .no Domain ###
-
- 25 % Rabatt
-
-statt 4,77 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-3,59 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.no-domain-wm26)
-
-Domains
-
-### .be Domain ###
-
- 16 % Rabatt
-
-statt 0,94 €
-
-* DNSSEC, API
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,79 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.be-domain-wm26)
 
 Domains
 
@@ -279,6 +195,34 @@ statt 0,42 €
 pro Monat
 
 0,13 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .ch Domain ###
+
+ 74 % Rabatt
+
+statt 2,30 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Permanenter Preis
+
+pro Monat
+
+0,60 €
 
 (inkl. 19% MwSt.)
 
@@ -475,6 +419,62 @@ statt 18,16 €
 pro Monat
 
 11,78 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .no Domain ###
+
+ 25 % Rabatt
+
+statt 4,77 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+3,59 €
+
+(inkl. 19% MwSt.)
+
+Domains
+
+ Deal ausgeschieden
+
+### .be Domain ###
+
+ 16 % Rabatt
+
+statt 0,94 €
+
+* DNSSEC, API
+
+* 0 € Setup Gebühr
+
+* Umfangreiches DNS-Management
+
+* Redundant verteilte Nameserver
+
+* Für Neu- und Bestandskunden
+
+* Dauerhafter Preis
+
+pro Monat
+
+0,79 €
 
 (inkl. 19% MwSt.)
 

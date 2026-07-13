@@ -14,6 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [2.0.0] 2026-07-13
 ----------
 
+note
+
+Firmware version `2.0.0` is being rolled out in phases, not all devices will receive the update immediately.
+
 ### Security ###
 
 * [`/ota`](/gen2/ComponentsAndServices/Shelly#http-endpoint-ota): Fix auth bypass after reboot and MD5 algo mismatch

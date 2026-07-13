@@ -16498,24 +16498,6 @@ Bitte führe immer einen amtlichen Lichtbildausweis für die Kontrolle im Zug mi
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-jugend-bahncard-erwerben)
 
- Wie können tennis.de Registrierte die Jugend BahnCard erwerben?
-----------
-
-Alle tennis.de Registrierte zwischen 6 bis einschließlich 18 Jahre können die Jugend BahnCard kostenfrei erwerben. Bei Bestellung der Jugend BahnCard wird anhand des Geburtsdatums geprüft, ob du berechtigt bist, die Jugend BahnCard zu erwerben.
-
-Bitte führe immer einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit. Bei Kunden unter 16 Jahren ist kein Lichtbildausweis erforderlich.
-
-Die Bestellung der kostenlosen Jugend BahnCard 25 ist nur mit einem DB Kundenkonto und somit mit einer gültigen, persönlichen E-Mail-Adresse möglich. Die Bestellung über das DB Kundenkonto eines Erziehungsberechtigten ist nicht möglich.
-
-So funktioniert's:
-
-1. DB Kundenkonto auf den Namen des Kindes erstellen mit eigener E-Mail-Adresse (diese darf nicht bereits für ein Kundenkonto der Deutschen Bahn verwendet werden).
-2. Zahlarten des Kindes oder eines Erziehungsberechtigten hinterlegen.
-3. Gutschein-Code im Bereich „Weitere Optionen“ unter „Gutschein einlösen“ eingeben
-4. Digitale Jugend BahnCard in der App DB Navigator über das DB Kundenkonto anzeigen lassen und auf der Reise nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-jugend-bahncard-erwerben-tennisaktion)
-
  Wer kann die My BahnCard 100 erwerben?
 ----------
 
