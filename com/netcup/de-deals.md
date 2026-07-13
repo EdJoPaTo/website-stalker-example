@@ -38,8 +38,6 @@ Domains
 
 statt 0,79 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -65,8 +63,6 @@ Domains
  54 % Rabatt
 
 statt 2,02 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
@@ -94,8 +90,6 @@ Domains
 
 statt 2,00 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -121,8 +115,6 @@ Domains
  31 % Rabatt
 
 statt 1,29 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
@@ -152,8 +144,6 @@ Domains
 
 statt 1,05 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -179,8 +169,6 @@ Domains
  69 % Rabatt
 
 statt 0,42 €
-
-* DNSSEC, API
 
 * 2,00 € Setup Gebühr
 
@@ -208,8 +196,6 @@ Domains
 
 statt 2,30 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -235,8 +221,6 @@ Domains
  20 % Rabatt
 
 statt 1,02 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
@@ -264,8 +248,6 @@ Domains
 
 statt 4,70 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -291,8 +273,6 @@ Domains
  46 % Rabatt
 
 statt 3,00 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
@@ -320,8 +300,6 @@ Domains
 
 statt 5,75 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -347,8 +325,6 @@ Domains
  30 % Rabatt
 
 statt 3,00 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
@@ -376,8 +352,6 @@ Domains
 
 statt 2,15 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -403,8 +377,6 @@ Domains
  35 % Rabatt
 
 statt 18,16 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
@@ -432,8 +404,6 @@ Domains
 
 statt 4,77 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -459,8 +429,6 @@ Domains
  16 % Rabatt
 
 statt 0,94 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
@@ -488,8 +456,6 @@ Domains
 
 statt 4,00 €
 
-* DNSSEC, API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -515,8 +481,6 @@ Domains
  10 % Rabatt
 
 statt 1,19 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
@@ -544,8 +508,6 @@ Domains
 
 statt 11,23 €
 
-* API
-
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -571,8 +533,6 @@ Domains
  13 % Rabatt
 
 statt 16,54 €
-
-* DNSSEC, API
 
 * 0 € Setup Gebühr
 
