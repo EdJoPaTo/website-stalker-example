@@ -42,6 +42,8 @@ Menü [](https://www.wetell.de/)
     * [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle)
     * [Service per Du](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
 
+  * [Transparente Finanzen](https://www.wetell.de/warum-wetell/einbilck-unternehmenszahlen-preistransparenz/)
+
 * Service
 
   Service
