@@ -38,6 +38,8 @@ Domains
 
 statt 0,79 €
 
+* DNSSEC
+
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -89,6 +91,8 @@ Domains
  47 % Rabatt
 
 statt 2,00 €
+
+* DNSSEC
 
 * 0 € Setup Gebühr
 
@@ -144,6 +148,8 @@ Domains
 
 statt 1,05 €
 
+* DNSSEC
+
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -170,6 +176,8 @@ Domains
 
 statt 0,42 €
 
+* DNSSEC
+
 * 2,00 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -195,6 +203,8 @@ Domains
  74 % Rabatt
 
 statt 2,30 €
+
+* DNSSEC
 
 * 0 € Setup Gebühr
 
@@ -430,6 +440,8 @@ Domains
 
 statt 0,94 €
 
+* DNSSEC
+
 * 0 € Setup Gebühr
 
 * Umfangreiches DNS-Management
@@ -481,6 +493,8 @@ Domains
  10 % Rabatt
 
 statt 1,19 €
+
+* DNSSEC
 
 * 0 € Setup Gebühr
 
