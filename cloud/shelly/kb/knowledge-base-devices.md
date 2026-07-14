@@ -225,6 +225,8 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)
 
 [Shelly X](https://kb.shelly.cloud/knowledge-base/shelly-x)
+* [WS90 7-in-1 weather station](https://kb.shelly.cloud/knowledge-base/ws90-7-in-1-weather-station)
 * [RAEX Smart curtain system](https://kb.shelly.cloud/knowledge-base/raex-smart-curtain-system)
 * [YIHAO Blinds chain controller YH002-A](https://kb.shelly.cloud/knowledge-base/yihao-blinds-chain-controller-yh002-a)
 * [Neo smart water valve](https://kb.shelly.cloud/knowledge-base/neo-smart-water-valve)
+* [TopAC portable EV charger EVE01-11R](https://kb.shelly.cloud/knowledge-base/topac-portable-ev-charger-eve01-11r)

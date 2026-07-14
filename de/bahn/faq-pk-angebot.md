@@ -1665,25 +1665,6 @@ Bitte beachten: Wohnort und Schule/Ausbildungsstelle müssen im Tarifgebiet des 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-365-euro-wohnort)
 
- Wo bekomme ich ein Job-Ticket des AVV Aachen?
-----------
-
-Sie bekommen das Jobticket nur exklusiv über Ihren Arbeitgebenden, nachdem dieser einen Vertrag mit der DB Vertrieb abgeschlossen hat. Damit Sie besser zur Arbeit kommen - und natürlich nach Hause. Und das preiswert und umweltfreundlich. Kontakt: [firmenkunden-west@deutschebahn.com](mailto:firmenkunden-west@deutschebahn.com)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-kaufen)
-
- Ich habe Fragen zum Job-Ticket des AVV Aachen, an wen kann ich mich wenden?
-----------
-
-Wir geben Auskunft:
-
-Kundendialog DB Regio NRW
-
-* Telefon: [0211 91309333](tel:021191309333)
-* E-Mail: [kundendialog.nrw@deutschebahn.com](mailto:kundendialog.nrw@deutschebahn.com)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/avv-aachen-jobticket-kontakt)
-
  Welche Tickets des AVV Augsburg sind in der App DB Navigator oder online erhältlich?
 ----------
 
@@ -3084,7 +3065,7 @@ Was Sie außerdem tun sollten:
 
 * Erstatten Sie Anzeige bei der Polizei
 * Ändern Sie Ihr das Passwort für Ihre E-Mails
-* Kontaktieren Sie Ihr Geldinstitut, widerrufen Sie die Zahlung, und lassen Sie keine Abbuchungen von der DB Vertrieb GmbH zu. Die Widerrufsfrist für Zahlungen ohne Lastschriftmandat beträgt 13 Monate.
+* Kontaktieren Sie Ihr Geldinstitut, widerrufen Sie die Zahlung, und lassen Sie keine Abbuchungen von der DB Vertrieb GmbH zu, sofern Sie keine weiteren Produkte der DB Vertrieb GmbH im Lastschriftverfahren bestellen. Die Widerrufsfrist für Zahlungen ohne Lastschriftmandat beträgt 13 Monate.
 
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/betrugsverdacht_identitaetsdiebstahl)
 
@@ -4853,33 +4834,19 @@ Dann nutzen Sie einfach unser Online-Formular:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-buchen-rahmenvertrag)
 
- Wie erhalte ich einen Rahmenvertrag für mein Unternehmen?
+ Wie erhalte ich einen Rahmenvertrag im MVV für mein Unternehmen?
 ----------
 
-Sie sind verantwortlich für ein Unternehmen und planen einen Rahmenvertrag zum Deutschland-Ticket Jobticket abzuschließen?
+Sie sind verantwortlich für ein Unternehmen und planen einen Rahmenvertrag zum Deutschland-Ticket Jobticket im Münchner Verkehrs- und Tarifverbund (MVV) abzuschließen?
 
 Dann nutzen Sie einfach unser Online-Formular für eine unverbindliche Anfrage:
 
 * [Zum Formular](https://www.s-bahn-muenchen.de/de/tickets/rahmenvertrag-deutschland-ticket)
+* [Direkt zum Deutschland-Ticket Jobticket im MVV](https://www.bahn.de/angebot/verbuende/mvv-dt-jobticket)
 
-[Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=113)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-buchen-rahmenvertrag-mvv)
-
- Wie erhalte ich einen Rahmenvertrag für mein Unternehmen?
-----------
-
-Schreiben Sie bitte an folgende E-Mail-Adresse:
-
-[firmenkunden-west@deutschebahn.de](mailto:mailto:firmenkunden-west@deutschebahn.de)
-
-[Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-buchen-rahmenvertrag-westfalentarif)
 
  Was ist das Deutschland-Ticket Jobticket?
 ----------
