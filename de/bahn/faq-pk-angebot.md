@@ -2238,17 +2238,6 @@ Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bankdaten-nicht-bestaetigen)
 
- Wie erhalte ich die Gutscheincodes der BahnCard Aktion Frühbucher für Gruppen?
-----------
-
-* Die Gutscheincodes stehen exklusiv allen Kundinnen und Kunden zu, die das "Frühbucher für Gruppen"-Angebot in Anspruch genommen haben.
-* Lehrkräfte oder Reiseorganisierende können die Gutscheincodes kostenfrei über das Aktions-Formular bis zum 15. Dezember 2025 anfragen.
-* Die erhaltenen Codes können daraufhin bei der Bestellung der Jugend BahnCard eingelöst werden. Die Codes sind bis zum 15. Juli 2026 gültig.
-
-* [Zum Gutscheincode Aktions-Formular](https://www.bahn.de/angebot/bahncard/junge-reisende/formular-klassenfahrtaktion)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-aktion-fruehbucher-code-erhalten)
-
  Wie lange im Voraus kann ich eine BahnCard kaufen?
 ----------
 
@@ -7419,16 +7408,6 @@ Sie sind **Arbeitnehmer:in** und haben Interesse an einem Jobticket? Dann wenden
 [Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jobticket-kontakt)
-
- Welche Vorteile hat die Jugend BahnCard Aktion Frühbucher für Gruppen?
-----------
-
-Diese Vorteile hat die Jugend BahnCard Aktion Frühbucher
-
-* Mit der Jugend BahnCard Aktion Frühbucher können sich berechtigte Teilnehmende, die zwischen 6 und einschließlich 18 Jahre alt sind, kostenfrei die Jugend BahnCard sichern.
-* Die Jugend Bahncard bietet 25% Rabatt auf den Flexpreis und die Sparpreise des Fernverkehrs. Darüber hinaus ist diese auch als digitale BahnCard direkt in der App nutzbar. Mit 1 Jahr Laufzeit ohne Abo.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugend-bc-fruehbucheraktion)
 
  Wann kann ich das JugendTicketBW kündigen?
 ----------
