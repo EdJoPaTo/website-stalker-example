@@ -6,7 +6,7 @@ Warn-App NINA
 
 </details>
 
-[vorlesen](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12845&lang=de_de&readid=readme_20502&url=https%3A%2F%2Fwww.bbk.bund.de%2FDE%2FWarnung-Vorsorge%2FWarn-App-NINA%2Fwarn-app-nina_node.html)
+[vorlesen](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12845&lang=de_de&readid=content&url=https%3A%2F%2Fwww.bbk.bund.de%2FDE%2FWarnung-Vorsorge%2FWarn-App-NINA%2Fwarn-app-nina_node.html)
 
  Was ist die Warn-App NINA?
 ----------

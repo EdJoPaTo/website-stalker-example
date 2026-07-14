@@ -2676,6 +2676,8 @@ Weitere Tipps:
 * Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 * Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die E-Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
 
+Ohne E-Mail und Abonummer haben Sie folgende Möglichkeit: Gehen Sie im DB Navigator auf "Profil und "Abo verwalten". Falls Sie noch nicht eingeloggt sind, melden Sie sich mit dem Kundenkonto an, mit dem Sie das Abo bestellt haben. Jetzt können Sie Ihr vorhandenes Abo auswählen und über die Funktion "Ticket in DB Navigator" direkt laden.
+
 ​Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie einen Screenshot und Angaben zu Ihrem genutzten Gerät über das Kontaktformular senden.
 
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)

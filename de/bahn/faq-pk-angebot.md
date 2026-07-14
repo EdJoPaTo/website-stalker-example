@@ -5815,7 +5815,9 @@ Ja. Mit dem **Quer-durchs-Land-Ticket** können Sie allein oder in der Gruppe bi
  Gibt es ein Verbund-Abo für die 1. Klasse?
 ----------
 
-Ja, Sie können das DB Abo für die 1. Klasse erwerben. In den Verkehrsverbünden MDV, marego, VMS, VMT, VVO und ZVON gibt es ein Zusatzticket, mit dem Sie in der 1. Klasse reisen können.
+Ja, einige Verbünde bieten einen 1. Klasse Zusatz auch im Abo an. Prüfen Sie dazu unsere Verbund-Abo-Angebote.
+
+* [Zur Übersichtsseite Verbund-Angebote](https://www.bahn.de/angebot/pendler/verkehrsverbuende)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-ein-verbund-abo-fuer-die-1-klasse)
 
@@ -6180,6 +6182,8 @@ Weitere Tipps:
 * Achten Sie darauf, keine Leerzeichen am Anfang oder Ende Ihrer Eingaben zu setzen. Das kann beim Kopieren der Daten versehentlich passieren.
 * Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 * Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die E-Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
+
+Ohne E-Mail und Abonummer haben Sie folgende Möglichkeit: Gehen Sie im DB Navigator auf "Profil und "Abo verwalten". Falls Sie noch nicht eingeloggt sind, melden Sie sich mit dem Kundenkonto an, mit dem Sie das Abo bestellt haben. Jetzt können Sie Ihr vorhandenes Abo auswählen und über die Funktion "Ticket in DB Navigator" direkt laden.
 
 ​Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie einen Screenshot und Angaben zu Ihrem genutzten Gerät über das Kontaktformular senden.
 
@@ -6701,6 +6705,13 @@ Die Tickets gelten in allen Verkehrsmitteln des öffentlichen Nahverkehrs in der
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?ZO=Prag&VM=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-zuegen-gilt-das-ticket-prag-spezial)
+
+ In welcher App kann ich das VVS Abo als Handy-Ticket nutzen?
+----------
+
+Sie können das VVS Abo als Handy-Ticket im DB Navigator nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welcher-app-kann-ich-das-vvs-abo-als-handy-ticket-nutzen)
 
  Wo erhalte ich mehr Informationen zur digitalen BahnCard 25/50?
 ----------
@@ -7403,8 +7414,6 @@ Sie sind **Arbeitnehmer:in** und haben Interesse an einem Jobticket? Dann wenden
 
 [030 72022569](tel:030 72022569)
 
-[abo-firmenkunden@bahn.de](mailto:abo-firmenkunden@bahn.de)
-
 [Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
 
 [Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
@@ -7420,17 +7429,6 @@ Diese Vorteile hat die Jugend BahnCard Aktion Frühbucher
 * Die Jugend Bahncard bietet 25% Rabatt auf den Flexpreis und die Sparpreise des Fernverkehrs. Darüber hinaus ist diese auch als digitale BahnCard direkt in der App nutzbar. Mit 1 Jahr Laufzeit ohne Abo.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugend-bc-fruehbucheraktion)
-
- Ich habe ein JugendTicketBW und werde dann 27. Was ist zu beachten?
-----------
-
-Zur Einführung des JugendTicketBW werden ab 1. März 2023 alle bestehenden Abos (Scool-Abo, Ausbildungs-Abo, MAXX-Ticket) automatisch auf das JugendTicketBW umgestellt. Wer zu diesem Stichtag 26 Jahre alt ist, kann das Ticket noch ein Jahr lang nutzen, auch wenn er oder sie zwischenzeitlich 27 Jahre alt geworden ist.
-
-[Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-alter)
 
  Wann kann ich das JugendTicketBW kündigen?
 ----------
@@ -7466,18 +7464,6 @@ Nein, das JugendTicketBW ist ein persönliches Ticket, das nicht übertragen wer
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-uebertragbar)
-
- Ich habe bereits ein gültiges VRN-(Anschluss-)Semester-Ticket. Was muss ich tun?
-----------
-
-Für Studierende an Hochschulen mit Semester-Ticket-Vereinbarung im baden-württembergischen Teil des VRN, die in den letzten Monaten ein Semester-Ticket gekauft haben und daher am 1. März über ein noch gültiges Semester-Ticket verfügen, bieten wir folgende Lösung an:
-In den vergangenen Monaten (bis Gültigkeitsbeginn 1. Februar) gekaufte VRN-Semester-Tickets der DB gelten ab dem 1. März als VRN JugendticketBW und zwar bis zum Ende der jeweiligen Gültigkeit, längstens bis zum 31. Juli 2023.
-
-[Weitere Informationen zum JugendTicketBW](https://www.bahn.de/angebot/verbuende/vvs-vrn-jugendticket-bw)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=97,98,99,100,103,101,102,104,105)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/jugendticket-bw-vrn-anschluss-semester-ticket)
 
  Wann gilt das JugendTicketBW?
 ----------
@@ -8830,6 +8816,20 @@ Ihre marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung e
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-abbuchungen)
 
+ Wie funktioniert das marego Abo&Mehr Bonusprogramm?
+----------
+
+* Mit dem bahn.de Kundenkonto auf bahn.de/aboportal anmelden oder einmalig neu registrieren
+* "Mein Abo" hinzufügen: einmalig Ihr Abo auswählen und anklicken, dann Abo-Nummer (finden Sie auf der Vorderseite Ihres Abo-Tickets), Geburtsdatum und Postleitzahl angeben und auf "hinzufügen" klicken
+* Ihr Abo ist erfolgreich verknüpft
+* Sie können nun Ihre Kundendaten einsehen, ändern und von den Vorteilen unseres Abo&Mehr Bonusprogramms profitieren
+
+[Weitere Informationen zu Abo-Angeboten im marego](https://www.bahn.de/angebot/verbuende/marego-abos)
+
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,39,268,41,269,270#/produktauswahl)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-bonusprogramm)
+
  Kann ich im marego eine Anschlussfahrt buchen, wenn ich über den Geltungsbereich hinaus fahren will?
 ----------
 
@@ -8919,12 +8919,10 @@ Im marego bieten wir folgende Zeitkarten an:
  Wie funktioniert das MDV Abo&Mehr Bonusprogramm?
 ----------
 
-* Mit BahnID anmelden oder einmalig neu registrieren
+* Mit dem bahn.de Kundenkonto auf bahn.de/aboportal anmelden oder einmalig neu registrieren
 * "Mein Abo" hinzufügen: einmalig Ihr Abo auswählen und anklicken, dann Abo-Nummer (finden Sie auf der Vorderseite Ihres Abo-Tickets), Geburtsdatum und Postleitzahl angeben und auf "hinzufügen" klicken
 * Ihr Abo ist erfolgreich verknüpft
 * Sie können nun Ihre Kundendaten einsehen, ändern und von den Vorteilen unseres Abo&Mehr Bonusprogramms profitieren
-
-* [Anmelden mit BahnID und Vorteile sichern](https://regio-guide.de/aboundmehr)
 
 [Weitere Informationen zu Abo-Angeboten im MDV](https://www.bahn.de/angebot/verbuende/mdv-abos)
 
