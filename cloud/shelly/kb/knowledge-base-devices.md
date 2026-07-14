@@ -230,3 +230,4 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [YIHAO Blinds chain controller YH002-A](https://kb.shelly.cloud/knowledge-base/yihao-blinds-chain-controller-yh002-a)
 * [Neo smart water valve](https://kb.shelly.cloud/knowledge-base/neo-smart-water-valve)
 * [TopAC portable EV charger EVE01-11R](https://kb.shelly.cloud/knowledge-base/topac-portable-ev-charger-eve01-11r)
+* [Sprinkler Controller FK-06X](https://kb.shelly.cloud/knowledge-base/sprinkler-controller-fk-06x)

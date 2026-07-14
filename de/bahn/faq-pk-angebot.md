@@ -8995,13 +8995,15 @@ Sie erhalten einen Beleg (bei gültiger Fahrtberechtigung), der zusammen mit Ihr
  Was passiert, wenn ich die MDV-UmweltCard GOLD verloren habe oder wenn sie gestohlen wurde?
 ----------
 
-Sperren Sie bei Verlust sofort ihre Abo-Chipkarte: Dafür genügt ein Anruf bei [030 80921299](tel:030 80921299) (zum Ortstarif).
-Die schriftliche Verlustmeldung reichen Sie nach: per E-Mail an [abo-mdv@bahn.de](mailto:abo-mdv@bahn.de)
+Sie können eine Ersatzkarte jederzeit im Aboportal unter abo.bahn.de beantragen. Damit wird Ihre verlorene Chipkarte ebenfalls gesperrt.
 
 Oder Sie melden Ihren Verlust persönlich in einem der für den eTicketing-Service ausgestatteten DB Reisezentren Leipzig Hbf., Halle Hbf., Naumburg, Merseburg, Borna, Delitzsch, Eilenburg und Leipzig Markt .
 Ihre neue Abo-Karte - ob persönlich oder übertragbar - senden wir Ihnen gegen eine Gebühr von 10 Euro schnellstmöglich zu. Benötigen Sie innerhalb von 24 Monaten zum zweiten Mal Ersatz, kostet dieser 20 Euro. Liegt ein unverschuldeter Kartendefekt vor, ist die Ausstellung der neuen UmweltCard GOLD natürlich kostenfrei.
 
 Ein Missbrauch ist ausgeschlossen. Nutzt jemand eine gesperrte Karte, fällt dies bei der nächsten Fahrausweisprüfung auf.
+
+* [Zum Abo-Portal](https://abo.bahn.de/)
+* [Kontakt zu den Abo-Centern](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mdv-umweltcard-gold-verloren)
 
@@ -9268,7 +9270,7 @@ An Samstagen können Sie kostenfrei eine weitere Person mitnehmen. Zusätzlich k
  Kann ich mit meinem VGN-Abonnement noch weitere Personen mitnehmen?
 ----------
 
-Mit dem JahresAboPlus können Sie bis zu 5 Personen (davon 1 Person ab 18) von Montag bis Freitag ab 19.00 Uhr oder rund um die Uhr am Wochenende und an Feiertagen mitnehmen. Anstelle von 2 Personen können auch zwei Fahrräder mitgenommen werden.
+Mit dem JahresAboPlus können Sie bis zu 5 Personen (davon 1 Person ab 18) von Montag bis Freitag ab 19 Uhr oder rund um die Uhr am Wochenende und an Feiertagen mitnehmen. Anstelle von 2 Personen können auch 2 Fahrräder mitgenommen werden.
 
 [Weitere Informationen zu Abo-Angeboten im VGN](https://www.bahn.de/angebot/verbuende/vgn-abos)
 
@@ -9425,13 +9427,7 @@ Nein, ein Kauf des 365-Euro-Ticket MVV über die Fahrkartenautomaten ist nicht m
  Wie kann ich das 365-Euro-Ticket im MVV noch bestellen?
 ----------
 
-Sie können den Bestellschein hier herunterladen, ausfüllen, unterschreiben und
-
-* in ein Fensterkuvert stecken, ausreichend frankieren und per Post schicken
-* per E-Mail an [abo-mvv@bahn.de](mailto:abo-mvv@bahn.de) senden
-* im S-Bahn Kundencenter oder DB Reisezentren im MVV-Gebiet abgeben
-
-* [Bestellschein 365-Euro-Ticket MVV / Schule I und II / Ausbildung SEPA im Abo (PDF, 381 KB)](https://assets.static-bahn.de/dam/jcr:031438ca-52bf-445b-b31d-2c5c17775a2e/Bestellschein_MVV_Sch%C3%BCler_Handy_neu-1.2025-01-24-06-34-14.pdf)
+Bestellen Sie das MVV 365-Euro-Ticket am besten online auf bahn.de/abo-mvv oder den Button "Abo auswählen". Achten Sie darauf, dass sich ein volljähriger Vertragspartner mit seinem bahn.de Kundenkonto anmeldet. Im Bestellschritt "reisende Person" können Sie auch die Daten einer minderjährige Person für die Ticketnutzung eintragen und die benötigten Nachweise hochladen.
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
@@ -9453,7 +9449,7 @@ Nein. Das 365-Euro-Ticket MVV zahlen Sie ganz bequem in 10 monatlichen Raten à 
  Kann ich vom 365-Euro-Ticket MVV Chipkarte auf das Handy-Ticket wechseln?
 ----------
 
-Ja, das geht. Entweder Sie nehmen die Änderung bequem online im Abo-Portal vor oder Sie kontaktieren dafür das Abo-Center der DB: [abo-mvv@bahn.de](mailto:abo-mvv@bahn.de) oder [089 95471680](tel:089 95471680).
+Ja, das geht. Melden Sie Ihren Änderungswunsch über die Funktion "Umtausch" im Aboportal.
 
 * [Zum Abo-Portal](https://abo.bahn.de/portal/#/)
 
