@@ -9548,7 +9548,9 @@ Verloren gegangene oder gestohlene Chipkarten werden gegen einen Kostenbeitrag v
  Kann ich das 365-Euro-Ticket MVV vorzeitig kündigen?
 ----------
 
-Nein, das 365-Euro-Ticket MVV ist ein Jahresticket für jeweils 12 aufeinanderfolgende Monate. Eine Kündigung während des laufenden Jahres ist nur in besonderen Härtefällen möglich (z.B. bei Wegzug aus dem Verbundgebiet oder einer dauerhaften Krankheit). In einem solchen Fall wenden Sie sich bitte an das Abo-Center der DB: [abo-mvv@bahn.de](mailto:abo-mvv@bahn.de) oder [089 95471680](tel:089 95471680).
+Nein, das 365-Euro-Ticket MVV ist ein Jahresticket für jeweils 12 aufeinanderfolgende Monate. Eine Kündigung während des laufenden Jahres ist nur in besonderen Härtefällen möglich (z.B. bei Wegzug aus dem Verbundgebiet oder einer dauerhaften Krankheit). In einem solchen Fall wenden Sie sich bitte an das Abo-Center der DB über das Formular für die außerordentliche Kündigung.
+
+* [Zur außerordentlichen Kündigung](https://www.bahn.de/faq/abo-ausserordentlich-kuendigen)
 
 [Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
 
@@ -9611,40 +9613,33 @@ Im Detail sind für das 365-Euro-Ticket MVV berechtigt:
 
 Das Ticket können Sie bequem hier online oder in den DB Reisezentren/Kundencentern im MVV-Gebiet bestellen. Hier können Sie sich zwischen einer Chipkarte und einem HandyTicket entscheiden.
 
-Bei einer Bestellung über die München Navigator App kann das 365-Euro-Ticket MVV als HandyTicket über die Reiseauskunft und Angebotsauswahl erworben werden.
+Achten Sie bei der Online-Bestellung darauf, dass sich ein volljähriger Vertragspartner mit seinem bahn.de Kundenkonto anmeldet. Im Bestellschritt "reisende Person" können Sie auch die Daten einer minderjährige Person für die Ticketnutzung eintragen und die benötigten Nachweise hochladen.
 
-[Weitere Informationen zum 365-Euro-Ticket MVV](https://www.bahn.de/angebot/verbuende/mvv-365-euro-ticket)
+Bei einer Bestellung über die München Navigator App kann das 365-Euro-Ticket MVV als HandyTicket über die Reiseauskunft und Angebotsauswahl erworben werden.
 
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=69)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-365-euro-wo-kaufen)
 
- Wie ist der Kontakt, wenn sich bei dem Abo Job etwas ändert?
+ Wie ist der Kontakt, wenn sich beim MVV Abo Job etwas ändert?
 ----------
 
-Änderungen zum Abo Job richten Sie bitte unter Angabe Ihrer Abo-Nummer in Textform formlos (z.B. per E-Mail) an das MVV Abo-Center oder Sie geben die Änderung rund um die Uhr im Internet über unser Aboportal selbst ein: [www.bahn.de/aboportal](https://abo.bahn.de/portal/#/)
+Sie können Ihre Kontakt- und Adressdaten sowie Ihre Kontodaten für Ihr MVV Abo rund um die Uhr im Internet über unser Abo-Portal selbst ein ändern:
 
-**DB Vertrieb GmbH**
-Abo-Center MVV
-Postfach 800349
-21003 Hamburg
-
-Telefon: [089 95471680](tel:+498995471680)
-
-E-Mail: [abo-mvv@bahn.de](mailto:abo-mvv@bahn.de)
-
-[www.bahn.de/aboportal](https://abo.bahn.de/portal/#/)
-
-[Weitere Informationen zur IsarCardJob im MVV](https://www.bahn.de/angebot/verbuende/mvv-abo-job)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=72)
+* [Zum Abo-Portal](https://abo.bahn.de/portal/#)
+* [Informationen zu weiteren Änderungen an Ihrem Abo](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/abos-dticket/daten-verwalten)
+* [Kontaktdaten zum Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-abo-job-kontakt)
 
- Wen kontaktiere ich, wenn ich meinen Mitarbeiter:innen das Abo Job anbieten will?
+ Wen kontaktiere ich, wenn ich meinen Mitarbeitenden das MVV Abo Job anbieten will?
 ----------
 
-Unternehmen, Personalabteilungen und Personalvertretungen sind jederzeit eingeladen, sich beim Tarifmanagement der MVV GmbH beraten zu lassen. Bitte wenden Sie sich per E-Mail an das [Tarifmanagement der MVV GmbH.](mailto:isarcardjob@mvv-muenchen.de) Wir kontaktieren Sie im Anschluss.
+Unternehmen, Personalabteilungen und Personalvertretungen sind jederzeit eingeladen, sich beim Vertragsmanagement des Abo-Vertrieb zum Jobticketangebot beraten zu lassen. Bitte wenden Sie sich per E-Mail an [abo.vermarktung@deutschebahn.com.](mailto:abo.vermarktung@deutschebahn.com) Wir kontaktieren Sie im Anschluss.
+
+Für eine unverbindliche Anfrage zum MVV Deutschland-Ticket Jobticket nutzen Sie gerne unser Formular:
+
+* [Informationen und Formular zum Rahmenvertrag](https://www.bahn.de/angebot/pendler/rahmenvertrag-deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-abo-job-kontakt-arbeitgeber)
 

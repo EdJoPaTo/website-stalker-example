@@ -1231,6 +1231,116 @@ Die Geltungsdauer der Prämien finden Sie in den jeweiligen Prämienbeschreibung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
 
+ Wann wird die Bodycam aktiviert?
+----------
+
+Unser Zugpersonal aktiviert die Bodycam nur in eskalierenden Situationen. Vor Beginn der Aufnahme kündigt das Zugpersonal die Aufnahme deutlich an.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-aktiviert)
+
+ Wer kann auf die Bodycam-Aufnahmen zugreifen?
+----------
+
+Nur die Bundespolizei kann auf die gespeicherten Bodycam-Aufnahmen zugreifen, falls ein entsprechender Strafantrag vorliegt und die Aufnahmen als Beweismittel genutzt werden. Die DB Fernverkehr AG kann die Aufnahmen nicht einsehen und wertet sie nicht aus.
+
+Die Daten werden nur anlassbezogen an die Bundespolizei weitergegeben.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-aufnahmen)
+
+ Wurde der Datenschutz im Zusammenhang mit dem Einsatz von Bodycams beachtet?
+----------
+
+Ja. Die DB hat die datenschutzrechtlichen Voraussetzungen geprüft und hält sie ein. Sie tauscht sich dazu fortlaufend mit den zuständigen Datenschutzaufsichtsbehörden aus.
+
+Für Reisende im Zug, die nicht digital unterwegs oder seheingeschränkt sind, haben die DB Mitarbeitenden die Datenschutzhinweise auf ihrem Handy hinterlegt und können diese bei Bedarf vorlesen.
+
+* [Datenschutzhinweise zum Einsatz von Bodycams](https://www.db-fernverkehr.com/datenschutzhinweise#datenschutzhinweise-bodycams)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-datenschutz)
+
+ Darf das Zugpersonal Fahrgäste mit der Bodycam filmen?
+----------
+
+Ja, das Zugpersonal darf die Fahrgäste anlassbezogen mit Bodycams filmen.
+
+Die DB Fernverkehr AG verfolgt damit das berechtigte Interesse, seine Mitarbeitenden vor Übergriffen zu schützen.
+
+* [Datenschutzhinweise zum Einsatz von Bodycams](https://www.db-fernverkehr.com/datenschutzhinweise#datenschutzhinweise-bodycams)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-filmen)
+
+ Informieren mich die DB Mitarbeitenden, bevor sie die Bodycam aktivieren?
+----------
+
+Ja. Die DB Mitarbeitenden informieren Sie, bevor sie die Bodycam aktivieren.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-info-aktivierung)
+
+ Sind Reisen im Fernverkehr unsicherer geworden, wenn die DB Fernverkehr AG jetzt Bodycams einsetzt?
+----------
+
+Nein. Reisen im Fernverkehr sind weiterhin sicher.
+
+Damit das so bleibt, setzt die DB Fernverkehr AG schon heute verschiedene Maßnahmen für die Sicherheit ein. Dazu gehören zum Beispiel Mitarbeitende von DB Sicherheit in den Zügen.
+
+Gleichzeitig erleben Mitarbeitende im gesamten DB-Konzern und im öffentlichen Personenverkehr häufiger aggressives Verhalten. Bodycams ergänzen deshalb die bestehenden Maßnahmen als weiterer Sicherheitsbaustein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-sicherheit)
+
+ Wie werden die Bodycam-Aufnahmen gespeichert und wie lange werden diese aufbewahrt?
+----------
+
+Die Bodycam-Aufnahmen werden verschlüsselt gespeichert und auf einen geschützten Server übertragen. Dort bleiben sie 72 Stunden gespeichert. Danach löscht das System die Aufnahmen automatisch.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-speicherung-daten)
+
+ Zeichnet die Bodycam auch Gespräche oder Töne auf?
+----------
+
+Nein. Die Bodycam zeichnet derzeit nur Videos auf. Gespräche oder Töne nimmt sie zunächst nicht auf.
+
+Die DB plant, Audioaufzeichnungen im dritten Quartal 2026 zu testen. Diese können die deeskalierende Schutzwirkung der Bodycams und die Beweissicherung erweitern. Die DB klärt dafür aktuell rechtliche Fragen mit den zuständigen Behörden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-tonaufzeichnung)
+
+ Warum tragen nicht alle Mitarbeitende im Fernverkehr eine Bodycam?
+----------
+
+Die Technik wird auf freiwilliger Basis genutzt. Dies bedeutet, dass nicht das gesamte Zug- oder Lounge-Personal mit einer Bodycam ausgestattet sein muss.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-tragen-alle-mitarbeitende)
+
+ Tragen die Mitarbeitenden die Bodycam auch außerhalb des Zugs?
+----------
+
+Mitarbeitende können die Bodycam auf dem Bahngelände auf dem Weg zu ihrem Einsatz oder von ihrem Einsatz tragen. Im privaten Umfeld ist das Tragen der Bodycam nicht zulässig.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-tragen-privat)
+
+ Wie werden Beschäftigte der DB Fernverkehr AG auf den Einsatz von Bodycams vorbereitet?
+----------
+
+Beschäftigte der DB Fernverkehr AG dürfen eine Bodycam nur nach absolvierter Pflichtschulung tragen.
+
+In der Schulung lernen sie:
+
+* wie sie die Bodycam einsetzen
+* welche rechtlichen Vorgaben gelten
+* wie sie mit Aufnahmen umgehen müssen
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-vorbereitung-mitarbeitende)
+
+ Welche Sicherheitsmaßnahmen gibt es schon in den Fernverkehrszügen zusätzlich zu den Bodycams?
+----------
+
+Schon heute sorgt die DB Fernverkehr AG mit verschiedenen Maßnahmen für mehr Sicherheit an Bord:
+
+* Sicherheitspersonal in stark frequentierten Regionen, im Nachtverkehr, an stark ausgelasteten Tagen, bei Großveranstaltungen und in besonderen Situationen
+* Verpflichtende Deeskalationstrainings und freiwillige Selbstschutztrainings für das Bordpersonal
+* Kostenlose Mitfahrt uniformierter Bundes- und Landespolizistinnen und -polizisten für mehr sichtbare Präsenz
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-zusaetzliche-sicherheitsmassnahmen)
+
  Kann ich Punkte zusammen bei geschäftlichen und privaten Reisen sammeln, und benötige ich dazu zwei Kundenkonten?
 ----------
 
