@@ -411,7 +411,7 @@ Expansion Cards
 
 Most popular combination
 
- USB-C (Aluminum - Silver)
+ USB-C (Aluminum - Silver), USB-A (2nd Gen) - Aluminum - Silver
 
 Quick select
 

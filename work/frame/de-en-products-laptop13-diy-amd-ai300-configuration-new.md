@@ -320,7 +320,7 @@ Expansion Cards
 
 Most popular combination
 
- 2x USB-C (Aluminum - Silver), HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Aluminum - Silver), USB-A (2nd Gen) - Aluminum - Silver, HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 

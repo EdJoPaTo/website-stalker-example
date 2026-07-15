@@ -269,31 +269,31 @@ Expansion Cards
 
 Most popular combination
 
- 2x USB-C (Plastic - Lavender), HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Lavender), USB-A (2nd Gen) - Aluminum - Silver, HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
 Most popular combination
 
- 2x USB-C (Plastic - Bubblegum), HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Bubblegum), USB-A (2nd Gen) - Aluminum - Silver, HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
 Most popular combination
 
- 2x USB-C (Plastic - Sage), HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Sage), USB-A (2nd Gen) - Aluminum - Silver, HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
 Most popular combination
 
- 2x USB-C (Plastic - Gray), HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Gray), USB-A (2nd Gen) - Aluminum - Silver, HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
 Most popular combination
 
- 2x USB-C (Plastic - Black), HDMI (3rd Gen) - Aluminum - Silver
+ 2x USB-C (Plastic - Black), USB-A (2nd Gen) - Aluminum - Silver, HDMI (3rd Gen) - Aluminum - Silver
 
 Quick select
 
