@@ -1,33 +1,33 @@
-[](https://www.strauss.com/de/de/arbeitsshorts/funktions-short-e-s-trail-3162310-96151-1623.html?itemorigin=startseite_fs26)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html)
 
-[](https://www.strauss.com/de/de/arbeitsshorts-damen/funktions-short-e-s-trail-damen-3164890-17439-1623.html?itemorigin=startseite_fs26)
+ Perfekt für den Sommer: Sportliche S1 Sicherheitsschuhe mit Stahlkappe & aus atmungsaktivem Mesh-Material!
 
-###  % Workwear Sale %  ###
-
----
-
- Starke Workwear
-zu starken Preisen
+ Profi-Sneaker: extra luftig & leicht
 ----------
 
 ---
 
-[alle Produkte](https://www.strauss.com/de/de/sale-bekleidung/)
+[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
 
-für Herren
+ \+6
 
-für Damen
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?amp;itemorigin=startseite_FS26&__mode=stripped)
 
- SALE
----
+ S1 Sicherheitsschuhe
+e.s. St. Louis low
 
- Bis zu
----
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?amp;itemorigin=startseite_FS26&__mode=stripped)
 
- \-49%
----
+ \+7
 
-[](https://www.strauss.com/de/de/sale-bekleidung/)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?amp;itemorigin=startseite_FS26&__mode=stripped)
+
+ S1 Sicherheitsschuhe
+e.s. St. Louis low
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?amp;itemorigin=startseite_FS26&__mode=stripped)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html)
 
 Alles für den Job:
 
@@ -46,7 +46,7 @@ Tage
 
 ---
 
-[](https://www.strauss.com/de/de/arbeitsshorts/short-e-s-motion-3160530-65333-362.html?itemorigin=startseite_fs26)
+[](https://www.strauss.com/de/de/arbeitsshorts/short-e-s-motion-2020-3350190-65563-962.html?itemorigin=startseite_fs26)
 
 ###  Shorts  ###
 
@@ -58,7 +58,7 @@ Tage
 
 [für Kinder](https://www.strauss.com/de/de/kinder-shorts/)
 
-[](https://www.strauss.com/de/de/arbeitsshirts/t-shirt-e-s-motion-ten-pure-3106430-21603-1551.html?itemorigin=startseite_fs26)
+[](https://www.strauss.com/de/de/arbeitsshirts-damen/t-shirt-e-s-motion-ten-pure-damen-3106440-21613-1551.html?itemorigin=startseite_fs26)
 
 ###  Shirts  ###
 
@@ -70,7 +70,7 @@ Tage
 
 [für Kinder](https://www.strauss.com/de/de/kinder-shirts-polos/)
 
-[](https://www.strauss.com/de/de/caps/cap-e-s-classic-3400740-7820811-1.html?itemorigin=startseite_fs26)
+[](https://www.strauss.com/de/de/caps/cap-e-s-iconic-works-3402080-7810870-1.html?itemorigin=startseite_fs26)
 
 ###  Caps  ###
 
