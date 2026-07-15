@@ -2502,7 +2502,7 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des RMV.
 
 Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des RNN.
 
-* [Beförderungsbedingungen und Tarifbestimmungen](https://www.rnn.info/downloads#tarifinformationen)
+* [Beförderungsbedingungen und Tarifbestimmungen](https://www.rnn.info/tickets-preise/tarife/tarifbestimmungen/)
 
 [Weitere Informationen zu Tickets im RNN](https://www.bahn.de/angebot/verbuende/rnn)
 
@@ -9639,7 +9639,7 @@ Unternehmen, Personalabteilungen und Personalvertretungen sind jederzeit eingela
 
 Für eine unverbindliche Anfrage zum MVV Deutschland-Ticket Jobticket nutzen Sie gerne unser Formular:
 
-* [Informationen und Formular zum Rahmenvertrag](https://www.bahn.de/angebot/pendler/rahmenvertrag-deutschland-ticket)
+* [Informationen und Formular zum Rahmenvertrag](https://www.s-bahn-muenchen.de/de/tickets/rahmenvertrag-deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mvv-abo-job-kontakt-arbeitgeber)
 
@@ -11390,12 +11390,16 @@ Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht über
  Ich habe Fragen zum Jobticket im SH-Tarif. An wen kann ich mich wenden?
 ----------
 
-Bei Fragen wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH
+Bei Fragen zum Nah.SH Jobticket wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH. Die Kontaktdaten finden Sie unter "SHT" auf bahn.de/abokontakt.
 
-* Telefon: [0431 88729648](tel:+4943188729648)
-* E-Mail: [abo-sht@bahn.de](mailto:abo-sht@bahn.de)
+Generelle Informationen rund um unsere Abos finden Sie in unserem Hilfebereich.
 
-[Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
+Viele Funktionen zu Ihrem Abo können Sie im Aboportal selbständig durchführen.
+
+* [Zu bahn.de/abokontakt](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
+* [Zum Hilfe&Kontakt auf bahn.de](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/abos-dticket)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
@@ -12580,12 +12584,16 @@ Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht über
  Ich habe Fragen zum VBB Jobticket. An wen kann ich mich wenden?
 ----------
 
-Bei Fragen wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH
+Bei Fragen zum VBB Jobticket wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH. Die Kontaktdaten finden Sie unter "VBB" auf bahn.de/abokontakt.
 
-* Telefon: [030 68831707](tel:03068831707)
-* E-Mail: [abo-vbb@bahn.de](mailto:abo-vbb@bahn.de)
+Generelle Informationen rund um unsere Abos finden Sie in unserem Hilfebereich.
 
-[Weitere Informationen zum VBB-Firmenticket](https://www.bahn.de/angebot/verbuende/vbb-jobticket)
+Viele Funktionen zu Ihrem Abo können Sie im Aboportal selbständig durchführen.
+
+* [Zu bahn.de/abokontakt](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
+* [Zu Hilfe&Kontakt auf bahn.de](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/abos-dticket)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Weitere Informationen zum VBB-Firmenticket](https://www.bahn.de/angebot/verbuende/vbb-jobticket)
 
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=17)
 
