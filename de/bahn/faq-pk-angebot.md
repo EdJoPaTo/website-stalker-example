@@ -13547,12 +13547,16 @@ Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht über
  Ich habe Fragen zum VRN Job-Ticket. An wen kann ich mich wenden?
 ----------
 
-Bei Fragen wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH
+Sie können Ihre Kontakt- und Adressdaten sowie Ihre Kontodaten für Ihr VRN Abo rund um die Uhr im Internet über unser Aboportal selbst ändern.
 
-* Telefon: [0621 39158597](tel:04962139158597)
-* E-Mail: [abo-vrn@bahn.de](mailto:abo-vrn@bahn.de)
+[0621 39158597](tel:04962139158597)
 
-[Weitere Informationen zum VRN Job-Ticket](https://www.bahn.de/angebot/verbuende/vrn-jobticket)
+[abo-vrn@bahn.de](mailto:abo-vrn@bahn.de)
+
+* [Zum Aboportal](https://abo.bahn.de/portal/#)
+* [Informationen zu weiteren Änderungen an Ihrem Abo](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/abos-dticket/daten-verwalten)
+* [Kontaktdaten zum Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
+* [Weitere Informationen zum VRN Job-Ticket](https://www.bahn.de/angebot/verbuende/vrn-jobticket)
 
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=5)
 
@@ -13591,6 +13595,16 @@ Sie können Ihr Job-Ticket im gesamten Netz des Verkehrsverbundes Rhein-Neckar (
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jobticket-wo-gilt)
 
+ Was ist das VRN JugendticketBW?
+----------
+
+* Geignet für Personen mit Hauptwohnsitz im VRN bis zur Vollendung des 21. Lebensjahrs ohne Ausbildungsnachweis, für Schüler:innen, Studierende, Auszubildene, FSJ, Engagierte im Bundefreiwillendienst bis zur Vollendung des 27. Lebensjahrs mit Ausbildungsnachweis
+* Für beliebig viele Fahten ganztägig in der 2. Klasse im gesamten VRN und in Bussen und Bahnen des Nahverkehrs in Baden-Württemberg, die in die Verbundtarife der baden-württembergischen Verkehrsverbünde oder in den bwtarif einbezogen sind.
+
+[JugendticketBW aussuchen](https://abo.bahn.de/bestellen/?tarifid=101,102,104,105)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-jugendticket-bw)
+
  Welche Tickets des VRN sind online und in der App DB Navigator erhältlich?
 ----------
 
@@ -13614,6 +13628,24 @@ Das 5-Tage-Ticket ist nur in der App erhältlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrn-tickets-wo-kaufen)
 
+ Ich habe weitere Fragen zum VRR Firmenticket - an wen kann ich mich wenden?
+----------
+
+Für weitere Informationen oder Gespräche zum Vertragsabschluss setzen Sie sich gerne mit uns in Verbindung:
+
+BVR Busverkehr Rheinland GmbH
+Abo-Management
+
+[aboinfo-nrw@deutschebahn.com](mailto:aboinfo-nrw@deutschebahn.com)
+
+[02581 4598163](tel:025814598163)
+
+[Weitere Informationen zum VRR FirmenTicket](https://www.bahn.de/angebot/verbuende/vrr-jobticket)
+
+[Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr--jobticket-kontakt)
+
  Gibt es ein VRR Firmenticket Rabattmodell für Großkunden?
 ----------
 
@@ -13623,24 +13655,7 @@ Für kleinere und mittelständische Unternehmen bieten wir auch ein Großkunden-
 
 [Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr--jobticket-grosskunden)
-
- Ich habe weitere Fragen zum VRR Firmenticket - an wen kann ich mich wenden?
-----------
-
-Für weitere Informationen oder Gespräche zum Vertragsabschluss setzen Sie sich gerne mit uns in Verbindung:
-
-BVR Busverkehr Rheinland GmbH
-Abo-Management
-
-* E-Mail: [aboinfo-nrw@deutschebahn.com](mailto:aboinfo-nrw@deutschebahn.com)
-* Telefon: [02581 4598163](tel:025814598163)
-
-[Weitere Informationen zum VRR FirmenTicket](https://www.bahn.de/angebot/verbuende/vrr-jobticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr--jobticket-kontakt)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr-jobticket-grosskunden)
 
  Tarifreform VRR: Was passiert mit dem Guthaben von digitalen Mehrfahrtenkarten?
 ----------
@@ -13715,13 +13730,6 @@ Diese Vorteile bietet das Ticket für Mitarbeitende:
 [Infos zum Kauf](https://www.bahn.de/faq/vrr-voraussetzung-jobticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrr-vorteile-mitarbeiter)
-
- Wo kann ich das JobTicket im VRS kaufen?
-----------
-
-Sie bekommen das Jobticket nur exklusiv über Ihren Arbeitgebenden, nachdem dieser einen Vertrag mit der DB Vertrieb abgeschlossen hat. Damit Sie besser zur Arbeit kommen - und natürlich nach Hause. Und das preiswert und umweltfreundlich. Kontakt: [firmenkunden-west@deutschebahn.com](mailto:firmenkunden-west@deutschebahn.com)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vrs-jobticket-wo-bekommen)
 
  Welche Tickets des VRT sind in der App DB Navigator erhältlich?
 ----------
@@ -15815,15 +15823,6 @@ Wenn Sie bereits ein Abo haben, werden Sie über die Beendigung Ihres Abo-Vert
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vmt)
 
- Welche Abo-Angebote des VRM kann ich hier kaufen?
-----------
-
-Die Abonnements für den VRM sind nicht mehr über bahn.de erhältlich. Neue Abonnements können auf der Webseite ticketshop.move-rlp.de und der App move-rlp erworben werden. Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abovertrages informiert.
-
-[Zum Ticketshop move.rlp.de](https://ticketshop.move-rlp.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vrm)
-
  Welche Abo-Angebote des VRN kann ich hier kaufen?
 ----------
 
@@ -15846,24 +15845,6 @@ Die Abonnements für den VRM sind nicht mehr über bahn.de erhältlich. Neue A
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=79,110,1,70,71,2,4,5,44,45,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vrn)
-
- Welche Abo-Angebote des VRS kann ich hier kaufen?
-----------
-
-Die Abonnements für den VRS sind nicht mehr über bahn.de erhältlich. Neue Abonnements können auf der Webseite und der App von GoRheinland erworben werden. Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abovertrages informiert.
-
-* [gorheinland.com](https://www.gorheinland.com/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vrs)
-
- Welche Abo-Angebote des VRT kann ich hier kaufen?
-----------
-
-Die Abonnements für den VRT sind nicht mehr über bahn.de erhältlich. Neue Abonnements können auf der Webseite [ticketshop.move-rlp.de](http://ticketshop.move-rlp.de/) und der App move-rlp erworben werden. Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abovertrages informiert.
-
-[Zum Ticket-Shop move.rlp.de](https://ticketshop.move-rlp.de/ovdl-ticketshop/schedules)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vrt)
 
  Welche Abo-Angebote des VVO kann ich hier kaufen?
 ----------
@@ -15961,17 +15942,15 @@ In diesen Bussen in Bayern können Sie **nicht** mit dem Bayern-Ticket fahren.
  Welche DB-Angebote werden als Handy-Ticket unterstützt?
 ----------
 
+Diese Abos im DB Fernverkehr und Nahverkehr (DTV) können Sie als digitales Abo kaufen:
+
 * persönliche Monatskarte/Jahreskarte im Abo ICE
 * persönliche Monatskarte/Jahreskarte im Abo IC/EC
 * persönliche Monatskarte/Jahreskarte im Abo Nahverkehr
-* IC/EC Aufpreise
 
-**Nicht unterstützt werden:**
+Hinweis: Übertragbare Abos gibt es generell nicht als Handy-Ticket.
 
-* BahnBusSchiene Abo
-* Abos, die aus einer Grundkarte und Zusatzticket bestehen
-* übertragbare Abos
-* Abos mit einem abweichendem Start-/Zielbahnhof
+* [Weitere Informationen zu Monats- und Jahreskarten](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-db-angebote-werden-als-handy-ticket-unterstuetzt)
 
@@ -16001,9 +15980,9 @@ Als Handy-Ticket im DB Navigator gibt es folgende marego-Zeitkarten im Abo:
 * Premium Jobticket,
 * Jobticket.
 
-Wenn das Abo bei der DB Vertrieb GmbH gekauft wurde, kann es im Aboportal unter Aboportal in ein Handy-Ticket umgetauscht werden. Einfach mit dem DB Account anmelden und unter "marego" das Abo verknüpfen.
+Wenn das Abo bei der DB Vertrieb GmbH gekauft wurde, kann es im Aboportal in ein Handy-Ticket umgetauscht werden. Einfach mit dem DB Account anmelden und unter "marego" das Abo verknüpfen.
 
-* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
+* [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-marego-angebote-werden-unterstuetzt)
 
@@ -16328,6 +16307,40 @@ Innerhalb des **Verkehrsverbundes Mittelthüringen (VMT)** gilt das VMT-Hopper-T
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-verkehrsmittel-kann-ich-nutzen-vmt-hopper-ticket)
 
+ Welche VVO-Angebote werden als Handy-Ticket unterstützt?
+----------
+
+Sie können ein VVO-Abo, welches Sie von der DB Vertrieb GmbH beziehen, als Handy-Ticket hinzufügen. Es muss eines der folgenden Angebote sein:
+
+* Abo-Monatskarte digital
+* Ermäßigte Abo-Monatskarte digital
+* 9-Uhr-Abo-Monatskarte digital
+* JobTicket
+* BildungsTicket VVO
+* Deutschland-Ticket
+* ​​​​​​​Deutschland-Ticket Jobticket
+
+Handy-Tickets sind generell personengebunden und damit nicht übertragbar auf andere Personen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vvo-angebote-werden-unterstuetzt)
+
+ Welche VVS-Angebote werden als Handy-Ticket unterstützt?
+----------
+
+Sie können ein VVS-Abo, welches Sie von der DB Vertrieb GmbH beziehen, als Handy-Ticket hinzufügen. Es muss eines der folgenden Angebote sein:
+
+* Jedermann-Abo
+* 9-Uhr-Abo
+* SeniorenTicket
+* 14-Uhr-JuniorTicket
+* Firmenticket
+* 9-Uhr-Firmenticket
+* Deutschland-Ticket
+* Deutschland-Ticket Jobticket
+* VVS D-Ticket JugendBW
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vvs-angebote-werden-unterstuetzt)
+
  Welche Zahlungsmittel kann ich nutzen, um Fahrräder und Scooter von Sharing-Anbietern im DB Navigator auszuleihen?
 ----------
 
@@ -16351,14 +16364,15 @@ Das Angebot ist gültig für Fahrten in Zügen des Nahverkehrs (z.B. IRE, RE, RB
  Wen kann ich bei Fragen zum Verbund-Abo kontaktieren?
 ----------
 
-Melden Sie sich gerne bei Ihrem Abo-Center Berlin:
+Die Kontaktdaten des Abo-Centers finden Sie im Link unten.
 
-**DB Vertrieb GmbH**
-Abo-Team
-Postfach 800 329
-21003 Hamburg
+Viele Informationen und Hilfestellungen finden Sie auch in unserem Hilfebereich zum Abo.
 
-* [bahn.de/mein-abo](https://regional.bahn.de/regionen/sachsen/tickets/a_pendler_ueb)
+Oder Sie verwalten Ihre Daten selbst im Aboportal.
+
+* [Kontaktdaten Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
+* [Hilfreiche Informationen unter Hilfe&Kontakt auf bahn.de](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/abos-dticket)
+* [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wen-kann-ich-bei-fragen-zum-verbund-abo-kontaktieren)
 
@@ -17171,6 +17185,8 @@ Eine Jahreskarte im Abo/Monatskarte im Abo kann jederzeit mit einer Frist von e
 
 Nach Ablauf der ersten 3 Monate können Sie Ihr Monats-/Jahresabo ohne Zusatzkosten kündigen. Vor Ablauf der ersten drei Monate wird der Differenzbetrag zwischen Monats- und Abokarte für die Monate in Rechnung gestellt, in denen Sie Ihre Zeitkarte genutzt haben.
 
+Die Kündigung können Sie selbständig im Aboportal durchführen, oder bei einem Digitalen Abo auch in den Funktionen unterhalb des Handy-Tickets.
+
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-abo-kuendigen)
@@ -17316,26 +17332,6 @@ Eine Kündigung der Jugend BahnCard ist nicht notwendig, sie hat eine Laufzeit v
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kuendige-ich-mein-abo)
-
- Wie kündige ich mein Abo im Westfalentarif und welche Fristen sind zu beachten?
-----------
-
-**Kündigungsmöglichkeiten:**
-
-* Über Ihren Account im Aboportal: Gehen Sie zu "Meine Abos" -\> "Service".
-* Über den DB Navigator: Nutzen Sie die Funktion "Abo kündigen" unterhalb Ihres Handy-Tickets.
-
-**Kündigungsfristen:**
-
-* Die nächstmöglichen Kündigungstermine für Ihr Abo finden Sie in Ihrem DB Kundenkonto im Aboportal.
-
-**Hinweis für Abos des Westfalentarifs:**
-
-Ab Oktober 2025 werden die Abonnements für den Westfalentarif nicht mehr auf bahn.de vertrieben. Sobald Sie eine Information über die Migration Ihres Abo-Vertrages zu westfalen.mobil erhalten haben, erfolgt die Verwaltung und Kündigung des Abos im Kundenkonto von westfalen.mobil.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kuendige-ich-mein-abo-im-westfalentarif)
 
  Wie lange gilt meine Dauer-Sitzplatzreservierung für den Nahverkehr?
 ----------
@@ -20005,17 +20001,6 @@ Neukunden, die Ihren Abo-Vertrages über **move-rlp** bestellt haben, verwalte
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-verwalte-ich-mein-abo-rnn)
-
- Wo verwalte ich mein Abo?
-----------
-
-Verwalten Sie Ihr Abo und Ihre persönlichen Daten im digitalen Aboportal der Bahn.
-
-Bite beachten Sie: Sobald Sie eine Information über die Migration Ihres Abo-Vertrages zu **move-rlp** erhalten haben, erfolgt die Verwaltung und Kündigung des Abos im **Kundenkonto von move-rlp**.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-verwalte-ich-mein-abo-vrm)
 
  Was ist eine VGN Wochen- / Monatswertmarke Ausbildung?
 ----------

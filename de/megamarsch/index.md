@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### erfurt ###
+### Ruhrgebiet bei nacht ###
 
-### 11. juli 2026 ###
+### 25.-26. Juli 2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/erfurt)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
 
 [Location](https://www.megamarsch.de/ostsee)
 
