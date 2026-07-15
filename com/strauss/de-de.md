@@ -136,7 +136,7 @@ geschützt
 
  SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=247d4773-9ceb-43ed-a6c0-b962346e59e1)
 
  Set-Highlight
 ----------
@@ -149,9 +149,9 @@ geschützt
  Set-Highlight
 ---
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=247d4773-9ceb-43ed-a6c0-b962346e59e1)
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=247d4773-9ceb-43ed-a6c0-b962346e59e1)
 
  Strauss Aktionssets
 ----------
