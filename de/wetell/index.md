@@ -487,7 +487,7 @@ Das sagen unsere Kund\*innen
 **Svenja**
 WEtell Kundin
 
- Das junge Unternehmen WEtell aus Freiburg ist ein Mobilfunkanbieter mit Visionen. Seit Juli 2020 am Markt, setzt unsere Kundin von Anfang an auf Nachhaltigkeit: 100% Klimaschutz, Datenschutz, Fairness und Transparenz.
+Das junge Unternehmen WEtell aus Freiburg ist ein Mobilfunkanbieter mit Visionen. Seit Juli 2020 am Markt, setzt unsere Kundin von Anfang an auf Nachhaltigkeit: 100% Klimaschutz, Datenschutz, Fairness und Transparenz.
 
 **GLS Bank**
 Sozial-ökologische Bank seit 1974
@@ -495,7 +495,7 @@ Sozial-ökologische Bank seit 1974
 **Jasper**
 WEtell Kunde
 
- Fair, nachhaltig und klimaneutral: Mit hehren moralischen Ansprüchen will das Start-up WEtell den Mobilfunkmarkt aufmischen. Eine ungewöhnliche Gesellschaftervereinbarung soll die Werteorientierung absichern.
+Fair, nachhaltig und klimaneutral: Mit hehren moralischen Ansprüchen will das Start-up WEtell den Mobilfunkmarkt aufmischen. Eine ungewöhnliche Gesellschaftervereinbarung soll die Werteorientierung absichern.
 
 **WirtschaftsWoche**
 Das führende Wirtschaftsmagazin

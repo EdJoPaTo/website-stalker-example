@@ -17,7 +17,7 @@ cirrus nimbini v4 - Pro Edition
   * geeignet für 2x 4K-Monitore bei 60Hz über HDMI 2.0a
   * 2x HDMI 2.0a, 4x USB 3.0, 1xGBit LAN
 
-  * basierend auf Intel NUC13 Pro / NUC14 Pro / NUC15 Pro
+  * basierend auf Intel NUC14 Pro / NUC15 Pro
   * Intel® Xe GPU
   * geeignet für 4x 4K-Monitore bei 60Hz
   * 2x HDMI 2.0b, 3x USB--A 3.1 (10Gb/s), 1x USB-A 2.0 (480Mb/s), 2x Thunderbolt 4, 1x 2.5GBase-T
@@ -48,19 +48,8 @@ cirrus nimbini v4 - Pro Edition
 
   Wählen Sie hier zwischen verschiedenen Intel® NUC Boards aus. Mit dem Board wählen sie gleichzeitig die verlötete CPU aus.
 
-  * NUC13
   * NUC14
   * NUC15
-
-  * **Intel® NUC Core™ i3-1315U**
-    2P+4E / 8 Threads, max. 4.5Ghz, Intel UHD
-    basierend auf NUC13ANHi3
-  * **Intel® NUC Core™ i5-1340P**
-    4P+8E / 16 Threads, max. 4.6Ghz, Iris® Xe 80U
-    basierend auf NUC13ANHi5
-  * **Intel® NUC Core™ i7-1360P**
-    4P+8E / 16 Threads, max. 5.0Ghz, Iris® Xe 96U
-    basierend auf NUC13ANHi7
 
   * **ASUS NUC 14 Pro Core 3 100U**
     2P+2E / 8T Threads, max. 4.7GHz, Intel Arc 4Xe
@@ -161,12 +150,6 @@ cirrus nimbini v4 - Pro Edition
 
   Bei ausgewählter WiFi Option werden passende Antennen für 2,4GHz / 5GHz mitgeliefert.
 
-  * Keine
-  * **Intel DualBand Wireless-AC 9260**
-    2.4GHz/5GHz WLAN, Bluetooth 5.0
-  * **Intel Wi-Fi 6E AX211**
-    2.4GHz/5GHz/6GHz, Bluetooth 5.3
-
   * **Intel® Wi-Fi 7 BE201**
     2.4GHz/5GHz/6GHz, Bluetooth 5.4
 
@@ -191,9 +174,6 @@ cirrus nimbini v4 - Pro Edition
   ##### Zusätzliche Schnittstellen #####
 
   Zusätzliche Anschlüsse an der Rückblende.
-
-  * keine zusätzlichen Schnittstellen
-  * zusätzlich 1x 2.5GBase-T (Intel I225-LM) + 2x USB 2.0
 
   ##### Vorinstalliertes Betriebssystem #####
 

@@ -17518,14 +17518,17 @@ Die Versicherung läuft ab dem vereinbarten Versicherungsbeginn ein Jahr. Sie ve
  Wie melde ich mich im Aboportal an?
 ----------
 
-1. Auf der Startseite vom Aboportal auf "Login" klicken.
-2. Mit Benutzernamen und Passwort Ihres Bahn-Accounts anmelden. Hier können Sie auch einen neuen Bahn-Account anlegen.
-3. Auf der nächsten Seite den Tarif Ihres Abos auswählen (ein Verbundgebiet oder DB).
-4. Felder ausfüllen.
+Auf abo.bahn.de melden Sie sich mit dem Benutzernamen und Passwort Ihres Bahn-Accounts an. Hier können Sie auch einen neuen Bahn-Account anlegen.
 
-Nachdem Ihr Abo mit dem Bahn-Account verknüpft ist, sind die Schritte 3 und 4 zukünftig nicht mehr notwendig.
+Wenn bereits ein Abo verknüpft ist, sehen Sie dieses auf der Übersichtsseite des Aboportals.
+
+Ist noch kein Abo verknüpft oder möchten Sie über "Abo hinzufügen" einen weiteren Abovertrag hinzufügen, gehen Sie folgendermaßen vor:
+
+* Wählen den Tarif Ihres Abos (ein Verbundgebiet oder DB). Diesen finden Sie auch in Ihrer Aktivierungsmail oder auf dem Handy-Ticket.
+* Füllen Sie die Felder aus.
 
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Informationen zur Verwaltung eines Abos für eine andere Person](https://www.bahn.de/faq/abovertrag-fuer-andere-verwalten)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-im-aboportal-an)
 
@@ -17537,8 +17540,10 @@ Falls Sie das Abo im DB Navigator für sich selbst gekauft haben, wird es direkt
 Ansonsten können Sie es folgendermaßen hinzufügen:​
 
 1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
-2. Wechseln Sie zum Bereich "Reisen", tippen Sie oben auf das Plus-Icon (+) und geben Sie Ihre Abonummer und Ihren Nachnamen ein.
+2. Wechseln Sie zum Bereich "Reisen", tippen Sie oben auf das Plus-Icon (+) und geben Sie Ihre Abonummer und Ihren Nachnamen ein. Ein Login ist nicht erforderlich.
    Wenn Sie die Fehlermeldung "Es konnte keine Übereinstimmung gefunden werden." erhalten, prüfen Sie bitte, ob Sie Ihre Abonummer und Ihren Nachnamen exakt wie in Ihrer Aktivierungsmail eingegeben haben.​
+
+Sie finden Ihre Abonummer oder die Mail nicht, aber sind angemeldet? Gehen Sie im DB Navigator auf "Profil" und "Abo verwalten". Wählen Sie das Abo aus und nutzen Sie die Funktion "Ticket im DB Navigator", um es aufzurufen.
 
 * [Weitere Tipps zum Abo als Handy-Ticket](https://www.bahn.de/faq/handyticket-zufuegen)
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
@@ -17567,7 +17572,7 @@ Die auf der Karte gespeicherten Daten sind für Dritte unsichtbar und gegen Miss
 
 Als Besitzer der UmweltCard GOLD können Sie die auf der Karte gespeicherten Angaben bei der Fahrkartenkontrolle am Mobilen Terminal des Kundenbetreuers anzeigen lassen.
 
-Die Daten können Sie sich selbstverständlich auch in den Reisezentren Leipzig Hbf., Halle Hbf., Naumburg und Merseburg anzeigen lassen.
+Die Daten können Sie sich selbstverständlich auch in den Reisezentren Leipzig Hauptbahnhof, Halle Hauptbahnhof, Naumburg und Merseburg anzeigen lassen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-sieht-es-mit-dem-datenschutz-aus)
 
