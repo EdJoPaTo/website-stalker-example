@@ -192,11 +192,6 @@ Basic wiring diagram
 | **O1, O2**  |Load circuit output terminals|   \+    |30 - 50 VDC positive wire|
 |**SW1, SW2** |   Switch input terminals    | **\-**  |30 - 50 VDC negative wire|
 
-Troubleshooting
-----------
-
-...
-
 Web Interface guide
 ----------
 

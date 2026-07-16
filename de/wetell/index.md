@@ -18,11 +18,12 @@ Menü [](https://www.wetell.de/)
   Mobilfunk
   * [Mobilfunk](https://www.wetell.de/mobilfunk/)
   * [Optionen](https://www.wetell.de/mobilfunk/optionen/)
-    * [FAIRstärker](https://www.wetell.de/mobilfunk/optionen/fairstaerker/)
+    * [Travel eSIM](https://www.wetell.de/mobilfunk/optionen/travelesim/)
     * [EasyTravel](https://www.wetell.de/mobilfunk/optionen/easytravel/)
     * [eSIM](https://www.wetell.de/mobilfunk/optionen/esim/)
     * [OneNumber](https://www.wetell.de/mobilfunk/optionen/onenumber/)
     * [Gruppenfunk](https://www.wetell.de/mobilfunk/optionen/gruppenfunk/)
+    * [FAIRstärker](https://www.wetell.de/mobilfunk/optionen/fairstaerker/)
 
   * [Tarif mit Handy](https://www.wetell.de/mobilfunk/tarif-mit-handy/)
   * [Wechselservice](https://www.wetell.de/mobilfunk/wechselservice/)

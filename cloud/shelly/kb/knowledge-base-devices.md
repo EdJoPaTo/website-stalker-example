@@ -225,6 +225,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)
 
 [Shelly X](https://kb.shelly.cloud/knowledge-base/shelly-x)
+* [Smart HVAC thermostat](https://kb.shelly.cloud/knowledge-base/smart-hvac-thermostat)
 * [Ogemray smart relay 25A](https://kb.shelly.cloud/knowledge-base/ogemray-smart-relay-25a)
 * [WS90 7-in-1 weather station](https://kb.shelly.cloud/knowledge-base/ws90-7-in-1-weather-station)
 * [RAEX Smart curtain system](https://kb.shelly.cloud/knowledge-base/raex-smart-curtain-system)
@@ -233,3 +234,4 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [TopAC portable EV charger EVE01-11R](https://kb.shelly.cloud/knowledge-base/topac-portable-ev-charger-eve01-11r)
 * [Sprinkler Controller FK-06X](https://kb.shelly.cloud/knowledge-base/sprinkler-controller-fk-06x)
 * [Frankever smart water valve](https://kb.shelly.cloud/knowledge-base/frankever-smart-water-valve)
+* [LightSolutions HiluX DS8 White](https://kb.shelly.cloud/knowledge-base/lightsolutions-hilux-ds8-white)

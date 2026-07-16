@@ -18892,15 +18892,6 @@ Die Beförderungsbedingungen und Geltungsbereiche der Länder-Tickets und der re
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-tarifbestimmungen-laender-regional-tickets)
 
- Wo finde ich ein Abo-Center in meiner Nähe?
-----------
-
-Unter dem folgenden Link haben wir die Kontaktadressen unserer Abo-Center zusammengefasst.
-
-* [Zu den Kontaktadressen der Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-ein-abo-center-in-meiner-naehe)
-
  Wo finde ich Informationen zum Deutschlandtarif?
 ----------
 
@@ -20010,21 +20001,6 @@ Um Scooter und Fahrräder in der App DB Navigator anzuzeigen, tippen Sie im Men�
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sind-fahrraeder-scooter)
 
- Wo und wie kann ich ein Verbund-Abo beantragen? Ab wann ist das Abo gültig?
-----------
-
-Sie können das Abo in einem DB Reisezentrum in Ihrer Nähe abschließen. Kurzentschlossene erhalten hier auch ein Abo Sofort (DB, MDV, VMT, marego, ABW), mit dem Sie gleich losfahren können. In diesem Fall erfolgt die Abrechnung des ersten Monats anteilig.
-
-Sie können den Abo-Antrag des jeweiligen Verkehrsverbundes auch ausdrucken und ausgefüllt an das Abo-Center schicken.
-Ausgeduckte Anträge senden Sie bitte an:
-
-**DB Vertrieb GmbH
-Abo-Center Berlin
-Koppenstraße 3
-10243 Berlin**
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-und-wie-kann-ich-ein-verbund-abo-beantragen-ab-wann-ist-das-abo-gueltig)
-
  Wo verwalte ich mein Abo?
 ----------
 
@@ -20033,17 +20009,6 @@ Verwalten Sie Ihr Abo und Ihre persönlichen Daten im digitalen Aboportal der Ba
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-verwalte-ich-mein-abo)
-
- Wo verwalte ich mein Abo?
-----------
-
-Bestandskunden der DB Vertrieb GmbH verwalten Ihr Abo und Ihre persönlichen Daten im digitalen **Aboportal** der Bahn.
-
-Neukunden, die Ihren Abo-Vertrages über **move-rlp** bestellt haben, verwalten das Abos im **Kundenkonto von move-rlp**.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-verwalte-ich-mein-abo-rnn)
 
  Was ist eine VGN Wochen- / Monatswertmarke Ausbildung?
 ----------
@@ -20364,13 +20329,6 @@ Die Abonnements für den Westfalentarif sind nicht mehr über bahn.de erhältlic
 * [Infos zur App westfalenmobil](https://www.nwl-info.de/app/westfalenmobil-app.html)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wt-abo-uebertragbar)
-
- Wo bekomme ich ein Deutschland-Ticket als Jobticket im Westfalentarif?
-----------
-
-Sie bekommen das Jobticket nur exklusiv über Ihren Arbeitgebenden, nachdem dieser einen Vertrag mit der DB Vertrieb abgeschlossen hat. Damit Sie besser zur Arbeit kommen - und natürlich nach Hause. Und das preiswert und umweltfreundlich. Kontakt: [firmenkunden-west@deutschebahn.com](mailto:firmenkunden-west@deutschebahn.com)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wt-dt-jobticket-kaufen)
 
  Welche Angebote des WTV kann ich in der App DB Navigator oder auf bahn.de kaufen?
 ----------
