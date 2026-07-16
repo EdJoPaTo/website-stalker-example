@@ -226,6 +226,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 
 [Shelly X](https://kb.shelly.cloud/knowledge-base/shelly-x)
 * [Smart HVAC thermostat](https://kb.shelly.cloud/knowledge-base/smart-hvac-thermostat)
+* [Smart floor heating thermostat](https://kb.shelly.cloud/knowledge-base/smart-floor-heating-thermostat)
 * [Ogemray smart relay 25A](https://kb.shelly.cloud/knowledge-base/ogemray-smart-relay-25a)
 * [WS90 7-in-1 weather station](https://kb.shelly.cloud/knowledge-base/ws90-7-in-1-weather-station)
 * [RAEX Smart curtain system](https://kb.shelly.cloud/knowledge-base/raex-smart-curtain-system)
