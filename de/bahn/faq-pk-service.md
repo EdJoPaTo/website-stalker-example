@@ -941,22 +941,6 @@ Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ti
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnsteigsperren-sparpreis-europa-niederlande)
 
- Was tue ich, wenn ich meine Bankdaten nicht bestätigen kann, ich eine Fehlermeldung bei der Verifizierung erhalte oder Unterstützung bei der Verifizierung benötige?
-----------
-
-Bei Problemen mit Ihrem Onlinebanking-Login wenden Sie sich bitte an Ihre kontoführende Bank.
-
-Bei Problemen mit der Verifizierung über den ausgewählten Dienstleister nutzen Sie zunächst eine alternative Verifizierungsoption, falls verfügbar.
-
-Ein Wechsel des Internetbrowsers oder der Wechsel zwischen App- und Web-Version kann oft zur Lösung beitragen.
-
-Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den von Ihnen gewählten Verifizierungsdienstleister für weitere Unterstützung:
-
-* [Häufige Fragen und Antworten zu Tink](https://tink.com/de/privatkunden-faq/)
-* [Verimi Hilfe- und Kontaktseite](https://verimi.de/faq/?question=122169&title=deutsche-bahn-db-hilfebereich-zur-nutzung-von-verimi)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bankdaten-nicht-bestaetigen)
-
  Where can I find the shopping basket in the ICE Portal?
 ----------
 

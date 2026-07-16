@@ -87,9 +87,9 @@ IN DEINER NÄHE!
 [DRESDEN](https://www.megamarsch.de/dresden)
 ----------
 
-[Location](https://www.megamarsch.de/erfurt)
+[Location](https://www.megamarsch.de)
 
-[ERFURT](https://www.megamarsch.de/erfurt)
+[ERFURT](https://www.megamarsch.de)
 ----------
 
 [MÖNCHEN GLADBACH](https://www.megamarsch.de)
