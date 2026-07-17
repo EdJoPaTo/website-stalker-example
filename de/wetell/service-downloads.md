@@ -25,7 +25,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [Preisliste Sonderrufnummern](/media/filer_public/41/be/41bec59f-5359-45d1-a738-ec5d06afc939/preisliste_sonderrrufnummern.pdf)
   * [Preisliste Premium-SMS](/media/filer_public/b0/67/b067f2c0-b457-46e3-9b3f-94d1e40b0559/preisliste_premiumsms.pdf)
   * [Preisliste Premium-Voice](/media/filer_public/dc/5f/dc5f964e-9545-47bd-bbed-b53c67f8e599/preisliste_premiumvoice.pdf)
-  * [Preisliste Roaming](/media/filer_public/69/ac/69ac46c4-23fc-44eb-a314-229b7d3e8fad/wetell_pl_roaming_bf_2026-03.pdf)
+  * [Preisliste Roaming](/media/filer_public/92/2c/922c74cf-a299-4644-8047-277466adb21b/wetell_pl_roaming_bf_2026-07.pdf)
 
 * #### Produktinformationsblätter ####
 
@@ -67,7 +67,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 
   * [Widerrufsformular Mobilfunk](/media/filer_public/01/fb/01fb96ca-d0de-42d4-8f83-c5dad648d370/wetell_05_widerrufsbelehrung_bf_2026-06.pdf)
   * [Kündigungsvorlage alter Anbieter](/media/filer_public/1a/06/1a061960-737f-4ae3-8691-7bf92fe10c8e/kuendigungsvorlage.pdf)
-  * [Kündigungsvorlage WEtell](/media/filer_public/eb/93/eb939a7d-551c-4fbb-bf25-6181690ac59b/kundigungsvorlage_wetell.pdf)
+  * [Kündigungsvorlage WEtell](/media/filer_public/a7/af/a7afa2a7-1848-46c5-b902-c501fa94bed0/kuendigungsvorlage_wetell_bf.pdf)
 
 * #### Sonstiges ####
 

@@ -1,12 +1,12 @@
 [
 	"/deals",
-	"2026-06-11T07:58:30.995Z",
+	"2026-07-17T06:12:27.272Z",
 	"de",
 	"normal",
 	"2024-09-19T11:27:09.462Z",
 	"strapi",
 	"2024-09-11T08:16:24.287Z",
-	"2026-06-11T07:58:30.919Z",
+	"2026-07-17T06:12:27.212Z",
 	"en",
 	"2024-09-19T11:33:08.213Z",
 	"netcup Deals | Günstige Server, Webhosting und Domains",
@@ -23,8 +23,6 @@
 	"<p>Spannende Talks &amp; Insights, Goodies und mehr warten auf dich. <strong>&gt;&gt; </strong><a class=\"underline-effect no-link-style\" href=\"/de/community-event-2026\" target=\"_blank\" rel=\"noopener noreferrer\"><strong><u>Jetzt anmelden</u></strong></a></p>",
 	"<p>netcup Community Event 2026</p>",
 	"/ueber-netcup/\n/ueber-netcup/*",
-	"<p>Sichere dir <a class=\"underline-effect no-link-style\" href=\"/de/domain/domain-kaufen\">Domains</a>, <a class=\"underline-effect no-link-style\" href=\"/de/hosting\">Webhosting</a>, <a class=\"underline-effect no-link-style\" href=\"/de/server\">Server</a> und mehr zu unschlagbaren Preisen</p>",
-	"<p>Hosting, das überzeugt</p>",
 	"Help Center",
 	"/helpcenter",
 	"Über uns",
@@ -190,10 +188,12 @@
 	"/kontakt/impressum",
 	"Disclaimer",
 	"/kontakt/disclaimer-rechtliche-hinweise",
-	"Whistleblowing-System",
+	"Whistleblowing",
 	"https://leaks.anexia.com/#/",
-	"Verträge hier kündigen",
+	"Vertrag kündigen",
 	"/kuendigung",
+	"Abuse melden",
+	"/abuse",
 	"Sitemap",
 	"/sitemap",
 	"TÜV-Nord ISO 9001",
@@ -493,6 +493,7 @@
 	"<DE>Fan-Liebling zum Top-Preis: Mit diesem Deal sicherst du dir permanent 13% Rabatt auf deine .com.br-Domain!<br /><br />Mit diesem Produkt erwirbst du eine .com.br-Domain zum dauerhaften Tiefpreis. Der Preis gilt f&uuml;r Neuregistrierungen oder Domaintransfers. Bitte beachte die Domainrichtlinien der Vergabestelle.<br /><br />Dieses Angebot ist nicht mit Gutscheinen kombinierbar. Eine Umstellung von bestehenden Vertr&auml;gen auf ein Aktionsprodukt ist nicht m&ouml;glich.<br /><br /></DE><GB>Fan Favorite at a Great Price: With this special offer, you get permanently 13% off your .com.br Domain!<br /><br />With this product, you are purchasing a .com.br domain at a permanently low price. The low price applies to new registrations or domain transfers. Please note the domain guidelines of the registry.<br /><br />This offer can&#8217;t be combined with vouchers. Existing contracts are excluded from this offer and cannot be transferred.</GB>",
 	"AKTION .com.br-Domain WM26",
 	"international",
+	"2026-06-11T07:58:30.995Z",
 	4.7,
 	"2026-06-09T15:19:26.627Z",
 	"/domain/buy-register-domain",
@@ -684,5 +685,12 @@
 	[
 		"Set"
 	],
+	[
+		"NuxtError"
+	],
+	"[GET] \"/api/v2/content/sections/42\": 404 Not Found",
+	"Not Found",
+	"http://www.netcup.com/api/v2/content/sections/42",
+	"No section found",
 	{}
 ]

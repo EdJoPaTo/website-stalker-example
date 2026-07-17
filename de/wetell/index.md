@@ -186,6 +186,7 @@ Ultrakurz
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/540/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/545/)
@@ -217,6 +218,7 @@ Mikrofon
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1741780586/808/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1742375872/929/)
@@ -248,6 +250,7 @@ Mittelwelle
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/532/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/543/)
@@ -279,6 +282,7 @@ Megafon
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/533/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/541/)
@@ -310,6 +314,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/539/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/544/)
@@ -351,6 +356,7 @@ Nanoflex
 
 * 5G Daten (max. 50 Mbit/s)
 * Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1772803951/1678/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1772803797/1675/)
@@ -387,6 +393,7 @@ Superflex
 
 * 5G Daten (max. 100 Mbit/s)
 * Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1772803961/1679/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1772803800/1676/)
@@ -423,6 +430,7 @@ Gigaflex
 
 * 5G Daten (max. 100 Mbit/s)
 * Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
 
 * [Preisliste](https://www.wetell.de/filer/canonical/1772803946/1677/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1772803793/1674/)
