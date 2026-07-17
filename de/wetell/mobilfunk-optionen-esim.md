@@ -192,88 +192,114 @@ Viele moderne Smartphones, Tablets und Smartwatches unterstützen bereits die eS
 
 * Apple Smartphones mit eSIM
 
-  Alle aktuellen iPhones sind eSIM-fähig. Das erste eSIM-fähige iPhone war das iPhone XS/XS MAX/XR.
-  iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max, iPhone 16e
-  Apple iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max
-  Apple iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max
-  Apple iPhone 13, iPhone 13 Pro, iPhone 13 mini, iPhone 13 Pro Max
-  Apple iPhone 12, iPhone 12 mini, iPhone 12 Pro und iPhone 12 Pro Max
-  Apple iPhone SE (2020)
-  Apple iPhone 11, iPhone 11 Pro und iPhone 11 Pro Max
-  Apple iPhone XR
-  Apple iPhone XS und iPhone XS Max
+  Alle aktuellen iPhones sind eSIM-fähig. Das erste eSIM-fähige iPhone war das iPhone XS/XS Max/XR.
+
+  iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max
+  iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max
+  iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max
+  iPhone 13, iPhone 13 mini, iPhone 13 Pro, iPhone 13 Pro Max
+  iPhone 12, iPhone 12 mini, iPhone 12 Pro, iPhone 12 Pro Max
+  iPhone SE (2022)
+  iPhone SE (2020)
+  iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max
+  iPhone XR
+  iPhone XS, iPhone XS Max
+
+  Ab dem iPhone XS / XR bis iPhone 12 können mehrere eSIMs gespeichert, aber nur eine eSIM aktiv genutzt werden (plus 1 x physische SIM-Karte).
+  Ab iPhone 13: Dual-SIM mit 2 aktiven eSIMs ODER eSIM + physische SIM möglich
 
 * Samsung Smartphones mit eSIM
 
+  Ab der Galaxy S20-Serie (2020) sind die Modelle eSIM-fähig (Ausnahme FE beachten).
+
+  Samsung Galaxy S25, S25+, S25 Ultra, S25 Edge
   Samsung Galaxy S24, S24+, S24 Ultra, S24 FE
+  Samsung Galaxy S23, S23+, S23 Ultra, S23 FE
+  Samsung Galaxy S22, S22+, S22 Ultra
+  Samsung Galaxy S21, S21+, S21 Ultra
+  Samsung Galaxy S20, S20+, S20 Ultra
+  Samsung Galaxy Z Flip, Z Flip 3, Z Flip 4, Z Flip 5, Z Flip 6
+  Samsung Galaxy Z Fold, Z Fold 2, Z Fold 3, Z Fold 4, Z Fold 5, Z Fold 6
 
-  Samsung Galaxy S25, S25+, S25 Ultra
-
-  Samsung S23, S23+, Ultra
-
-  Samsung Galaxy S22/S22+, Galaxy S22 Ultra
-
-  Samsung Galaxy S21, Galaxy S21+ und Galaxy S21 Ultra 5G
-
-  Samsung Galaxy S20, Galaxy S20+ und Galaxy S20 Ultra
-  Samsung Galaxy Z Flip 5 und Galaxy Z Fold 5
-
-  Samsung Galaxy Z Flip 4 und Galaxy Z Fold 4
-  Samsung Galaxy Z Flip 3 und Galaxy Z Fold 3
-  Samsung Galaxy Z Fold 2
-  Samsung Galaxy Fold
-  Samsung Galaxy Z Flip
+  FE-Modelle (Fan Edition) können erst ab dem Samsung Galaxy S23 FE eSIM nutzen.
 
 * Weitere Smartphones mit eSIM
 
+  **Asus**
+  ROG Phone 9, 9 Pro
+
+  **Fairphone**
   Fairphone 4
   Fairphone 5
-  Shiftphone 8
-  Huawei P40
-  Huawei P40 Pro
-  Huawei Mate40 Pro
-  Motorola Moto g8 und Motorola Razr (2019)
-  Nokia X30
-  Nokia G60
-  Nokia XR21
-  Sony Xperia 1 IV
-  Sony Xperia 1 V
-  Sony Xperia 5 IV
-  Sony Xperia 10 III Lite
-  Sony Xperia 10 IV
-  Sony Xperia 10 V
-  Sony Xperia 10 VI
-  Nothing Phone (3a) Pro
+  Fairphone 6
+
+  **Honor**
+  Honor Magic 4 Pro, 5 Pro, 6 Pro
+  Honor Magic V2, V3
+  Honor 90, 200 Pro
+
+  **Motorola**
+  Motorola Razr (2019), Razr 5G, Razr (2022), Razr 40, Razr 40 Ultra, Razr 50, Razr 50 Ultra
+  Motorola Edge 40, Edge 40 Neo, Edge 40 Pro
+  Motorola Edge 50, Edge 50 Fusion, Edge 50 Pro, Edge 50 Ultra
+  Motorola Moto G54, G84, G85
+  Motorola ThinkPhone
+
+  **Nokia / HMD**
+  Nokia X30, G60, XR21
+  HMD Skyline
+
+  **Nothing**
+  Nothing Phone (2), (2a), (2a) Plus, (3)
+
+  **OnePlus**
+  OnePlus 11, 12, 13, OnePlus Open
+
+  **Oppo**
+  Oppo Find X3 Pro, X5, X5 Pro, X6 Pro, X8, X8 Pro
+  Oppo Find N2 Flip, N3, N3 Flip
+
+  **Sharp**
+  Sharp Aquos R7, R8, R8 Pro
+  Sharp Sense 8, Wish
+
+  **Shiftphone**
+  Shiftphone 8 (eSIM nur über Adapter, nicht nativ)
+
+  **Sony**
+  Sony Xperia 1 IV, 1 V, 1 VI
+  Sony Xperia 5 IV, 5 V
+  Sony Xperia 10 IV, 10 V, 10 VI
+
+  **TCL**
+  TCL 50 5G, 50 Pro NxtPaper
+
+  **Vivo**
+  Vivo X90 Pro, X100 Pro, X200 Pro
+  Vivo V29 Lite, V40
+
+  **ZTE**
+  ZTE Nubia Flip
 
 * Google Smartphones mit eSIM
 
-  Alle Pixel-Modelle der Reihen 3, 3a und 4 werden standardmäßig mit der eSIM ausgeliefert.
-  Google Pixel 8, 8 Pro
-  Google Pixel 7a
-  Google Pixel 7 und Pixel 7 Pro
-  Google Pixel 6a
-  Google Pixel 6 und Pixel 6 Pro
+  Alle Pixel-Modelle ab Pixel 3 besitzen eSIM-Funktion.
+
+  Google Pixel 9, Pixel 9a, Pixel 9 Pro, Pixel 9 Pro XL, Pixel Fold
+  Google Pixel 8, Pixel 8a, Pixel 8 Pro
+  Google Pixel 7, Pixel 7a, Pixel 7 Pro
+  Google Pixel 6, Pixel 6a, Pixel 6 Pro
   Google Pixel 5
-  Google Pixel 4 und Pixel 4 XL
-  Google Pixel 3a und Pixel 3a XL
-  Google Pixel 3 und Pixel 3 XL
+  Google Pixel 4, Pixel 4 XL
+  Google Pixel 3, Pixel 3a, Pixel 3 XL, Pixel 3a XL
+
+  Ab dem Pixel 7+ (inkl. Pro) und neuer ist es möglich zwei eSIMs parallel zu nutzen.
 
 * Xiaomi Smartphones mit eSIM
 
-  Xiaomi 15
-
-  Xiaomi 15 Ultra
-
-  Xiaomi 14T
-
-  Xiaomi 14T Pro
-  Xiaomi 14 Ultra
-  Xiaomi 14
-  Xiaomi Redmi Note 13 Pro+ und 13 Pro 5G
-  Xiaomi 13T
-  Xiaomi 13T Pro
-  Xiaomi 13 Pro
-  Xiaomi 13
   Xiaomi 12T Pro
+  Xiaomi 13, 13 Pro, 13T, 13T Pro
+  Xiaomi 14, 14 Ultra, 14T, 14T Pro
+  Xiaomi 15, 15 Ultra
 
 **Tipp:** Überprüfe die Kompatibilität deines Geräts in den Einstellungen oder im Benutzerhandbuch.
