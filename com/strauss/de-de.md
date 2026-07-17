@@ -1,6 +1,6 @@
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html)
 
- Perfekt für den Sommer: Sportliche S1 Sicherheitsschuhe mit Stahlkappe & atmungsaktivem Mesh-Material!
+ Perfekt für den Sommer! Sportliche S1-Sicherheit mit verstärkter Kunststoffkappe & atmungsaktivem Mesh-Material
 
  Profi-Sneaker: extra luftig & leicht
 ----------
