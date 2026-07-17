@@ -546,7 +546,7 @@ Die digitale BahnCard ist ab dem gewünschten ersten Geltungstag gültig und nut
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-ist-die-digitale-bahncard-gueltig)
 
- Ab wann ist meine Monatskarte im Abo gültig?
+ Ab wann ist meine DB Monatskarte im Abo gültig?
 ----------
 
 Die Fahrkarte hat einen flexiblen Geltungsbeginn, d.h. Ihr Abo gilt ab dem von Ihnen gewählten 1. Geltungstag.
@@ -5749,7 +5749,7 @@ Die maximalen Abmessungen von 90 x 60 x 40 cm pro Gepäckstück dürfen dabei ni
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gepaeckmitnahme-sparpreis-europa-italien)
 
- Gibt es Monats- und Jahreskarten Abos auch als Jobtickets?
+ Gibt es DB Monats- und Jahreskarten Abos auch als Jobtickets?
 ----------
 
 Ja, Zeitkarten der DB und des Deutschlandtarifs werden auch als Jobtickets angeboten.
@@ -7308,10 +7308,10 @@ An Wochenenden, Feiertagen (inklusive Maria Himmelfahrt) sowie am 24. und 31. De
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-das-bayern-ticket-am-samstag-auch-schon-ab-8-uhr-gueltig)
 
- Ist das Deutschland-Ticket bei meiner Monats-/Jahreskarte im Abo inklusive?
+ Ist das Deutschland-Ticket bei meiner DB Monats-/Jahreskarte im Abo inklusive?
 ----------
 
-Nein, das Deutschland-Ticket ist bei Abos nicht inklusive.
+Nein, das Deutschland-Ticket ist bei DB Abos nicht inklusive.
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
@@ -7924,7 +7924,7 @@ Mit einer BahnCard 1. Klasse erhalten Sie den BahnCard Rabatt auch in der 2. Kla
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-einer-bahncard-1kl-auch-tickets-fuer-die-2kl-buchen)
 
- Kann ich mit meinem Monats- und Jahreskarten Abo BahnBonus Punkte sammeln?
+ Kann ich mit meinem DB Monats- und Jahreskarten Abo BahnBonus Punkte sammeln?
 ----------
 
 Ja, die BahnBonus Punkte werden Ihnen nach Kauf gutgeschrieben. Hierfür müssen Sie beim Kauf Ihre BahnBonus Nummer angeben.
@@ -9281,6 +9281,8 @@ Bei Reservierungen, die Sie im DB Navigator gebucht haben, erhalten Sie zusätzl
 Umtausch und Rückgabe sind vor dem 1. Geltungstag des neuen Geltungsjahres kostenfrei, danach gegen ein Entgelt von 19 Euro im Fernverkehr und 17,50 Euro im Nahverkehr gemäß Deutschlandtarif möglich. Vorlauffristen sind zu beachten (siehe [Beförderungsbedingungen](https://www.bahn.de/agb)).
 
 Der Umtausch in ein digitales Abo ist kostenfrei.
+
+Nutzen Sie die Funktion "Umtausch" im Aboportal für Ihre Anfrage.
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
@@ -11473,7 +11475,7 @@ Die Lage und die Anzahl dieser Plätze sind abhängig vom Zugtyp.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-bahnbonus-plaetze-auch-in-zuegen-vorhanden-fuer-die-neue-sitzplatzreservierungen-zugeteilt-werden)
 
- Sind Monatskarten im Abo übertragbar?
+ Sind DB Monatskarten im Abo übertragbar?
 ----------
 
 Für den Fernverkehr (ICE, IC/EC) sind ausschließlich personalisierte Zeitkarten erhältlich. Für Nahverkehrsverbindungen haben Sie die Wahl zwischen einer personalisierten und übertragbaren Zeitkarte.
@@ -12273,7 +12275,7 @@ Die tarifliche Gleichstellung wird auch bei den Zeitkarten-Angeboten ab dem 10.�
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tarifliche-gleichstellung-entfall)
 
- Ich habe mein Papierticket verloren. Wo kann ich eine Ersatzkarte bestellen?
+ Ich habe das Papierticket für das Abo verloren. Wo kann ich eine Ersatzkarte bestellen?
 ----------
 
 Eine Ersatzfahrkarte können Sie im Aboportal selbst beantragen. Bitte beachten Sie jedoch, dass mit der Ausstellung einer Ersatzfahrkarte die tarifliche Gleichstellung nicht mehr angewendet wird. Auf der neuen Fahrkarte werden die bei der ursprünglichen Buchung angegebenen Bahnhöfe eingetragen. Es sind dann ausschließlich Fahrten zwischen diesen Bahnhöfen inbegriffen.
@@ -12421,7 +12423,7 @@ Melden Sie den Schaden bitte umgehend beim Kundenservice des entsprechenden [Sha
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unfall-fahrrad-scooter-kontakt)
 
- Wie unterscheiden sich Monatskarten im Abo von Jahreskarten im Abo?
+ Wie unterscheiden sich DB Monatskarten im Abo von Jahreskarten im Abo?
 ----------
 
 Der Unterschied liegt in der Bezahlung und dem damit verbundenen Preis des Produktes. Bei Monatskarten im Abo können Sie 12 Monate fahren und zahlen 10 Monate. Dabei erfolgt die Zahlung monatlich. Bei Jahreskarten im Abo können Sie 12 Monate fahren und zahlen nur 9,5 Monate. Dabei erfolgt die Zahlung jährlich.
@@ -16024,7 +16026,7 @@ Wenn das Abo bei der DB Vertrieb GmbH gekauft wurde, kann es im Aboportal in ein
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-marego-angebote-werden-unterstuetzt)
 
- Welche Mitnahmeregelungen gelten für Monats- und Jahreskarten im Abo?
+ Welche Mitnahmeregelungen gelten für DB Monats- und Jahreskarten im Abo?
 ----------
 
 An Samstagen können Sie kostenfrei eine weitere Person mitnehmen. Zusätzlich können Sie – im Fernverkehr an Samstagen, im Deutschlandtarif täglich – kostenfrei bis zu 3 Kinder im Alter von 6-14 Jahren mitnehmen.
