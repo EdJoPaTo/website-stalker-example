@@ -127,9 +127,10 @@ LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) r
 
 Memory
 
+ LPCAMM2
+
 * LPCAMM2 - LPDDR5X - 16GB  Not available with your other selected options. Reload page to reset. +€269
 * LPCAMM2 - LPDDR5X - 32GB  Not available with your other selected options. Reload page to reset. +€490
-* LPCAMM2 - LPDDR5X - 64GB  Not available with your other selected options. Reload page to reset. +€949
 * None (bring your own)
 
 **Storage**
