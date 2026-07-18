@@ -108,6 +108,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Solanum**Balance working time and break time](Solanum/)
 * [**Sudoku**Solve puzzles in style](Sudoku/)
 * [**Switcheroo**Convert and manipulate images](Converter/)
+* [**Tally**Count anything](Tally/)
 * [**Tangram**Browser for your pinned tabs](Tangram/)
 * [**Text Pieces**Developer's scratchpad](TextPieces/)
 * [**Tuba**Browse the Fediverse](Tuba/)
