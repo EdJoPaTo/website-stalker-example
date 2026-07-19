@@ -1,642 +1,98 @@
-Domain-Special &
+netcup Deals
 ==========
 
-5 € Gutschein sichern
-==========
+Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen auf Webhosting, Server und Domains. Nicht verpassen und Newsletter abonnieren.
 
-Während die Teams um den Titel kämpfen, spielst du die besten Angebote nach Hause. Jetzt ausgewählte Domains mit bis zu **74 % Rabatt** sichern.
+[Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
-Zeig dein Können im Elfmeterschießen: Fünf Schüsse, ein Ziel: 3 Mal treffen und einen **5 € Gutschein** für deinen Einkauf bei netcup sichern.
-
-[Zu den Deals\>](https://www.netcup.com/de/deals#deals)
-
-Unsere WM-Domain-Specials
+Bleibe auf dem Laufenden
 ----------
 
-Welche Domain holt den Titel? Bei netcup treten eine Auswahl an passenden Länderdomains gegeneinander an. Mit jedem Ausscheiden einer Nation verschwindet auch ihr Domain-Special aus dem Turnier. Solange das Nationalteam bei der WM noch im Rennen ist, bleibt auch die dazugehörige Domain als Deal verfügbar.
+Abonniere unseren Newsletter, Messenger-Kanäle oder folge uns auf Social Media, um keine Deals oder Neuigkeiten zu verpassen.
 
-**.eu Domain bleibt als neutraler VIP die gesamte Aktion über im Angebot**
+* [Instagram](https://www.instagram.com/netcup.official)
 
-* Gruppenphase vorbei: Alle 24h scheiden Deals aus. Sichere dir deinen Deal besser schnell!
+  Instagram
 
-* Scheidet ein Land bei der WM aus, endet auch sein Deal - Stichzeit ist werktags gegen 8 Uhr (MEZ).
+* [Mastodon](https://netcup.cafe/@netcup)
 
-* Verfolge unser spannendes Match bis zum 19.07.2026.
+  Mastodon
 
-* Alle (4)
-* Webhosting
-* Root-Server
-* VPS
-* Domains  (4)
-* Andere Flash Deals (0)
+* [Facebook](https://www.facebook.com/netcup/)
 
-Domains
+  Facebook
 
-### .eu Domain ###
+* [X](https://x.com/netcup)
 
- 39 % Rabatt
+  X
 
-statt 0,79 €
+* [LinkedIn](https://www.linkedin.com/company/netcup)
 
-* DNSSEC
+  LinkedIn
 
-* 0 € Setup Gebühr
+* [WhatsApp](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w)
 
-* Umfangreiches DNS-Management
+  WhatsApp
 
-* Redundant verteilte Nameserver
+* [Telegram](https://t.me/netcupoffical)
 
-* Für Neu- und Bestandskunden
+  Telegram
 
-* Dauerhafter Preis
+* [RSS-Feed](https://netcup.com/rss/deals/de)
 
-pro Monat
+  RSS-Feed
 
-0,48 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.eu-domain-wm26)
-
-Domains
-
-### .co.uk Domain ###
-
- 54 % Rabatt
-
-statt 2,02 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,93 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.co.uk-domain-wm26)
-
-Domains
-
-### .fr Domain ###
-
- 47 % Rabatt
-
-statt 2,00 €
-
-* DNSSEC
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-1,06 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.fr-domain-wm26)
-
-Domains
-
-### .es Domain ###
-
- 31 % Rabatt
-
-statt 1,29 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,89 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt Deal sichern\>](https://www.netcup.com/de/deals/domain/aktion-.es-domain-wm26)
-
-Domains
-
- Deal ausgeschieden
-
-### .at Domain ###
-
- 14 % Rabatt
-
-statt 1,05 €
-
-* DNSSEC
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,86 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .de Domain ###
-
- 69 % Rabatt
-
-statt 0,42 €
-
-* DNSSEC
-
-* 2,00 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,13 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .ch Domain ###
-
- 74 % Rabatt
-
-statt 2,30 €
-
-* DNSSEC
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Permanenter Preis
-
-pro Monat
-
-0,60 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .nl Domain ###
-
- 20 % Rabatt
-
-statt 1,02 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,82 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .co Domain ###
-
- 13 % Rabatt
-
-statt 4,70 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-4,09 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .cz Domain ###
-
- 46 % Rabatt
-
-statt 3,00 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-1,61 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .mx Domain ###
-
- 13 % Rabatt
-
-statt 5,75 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-5,03 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .nz Domain ###
-
- 30 % Rabatt
-
-statt 3,00 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-2,11 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .co.za Domain ###
-
- 13 % Rabatt
-
-statt 2,15 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-1,88 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .hr Domain ###
-
- 35 % Rabatt
-
-statt 18,16 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-11,78 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .no Domain ###
-
- 25 % Rabatt
-
-statt 4,77 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-3,59 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .be Domain ###
-
- 16 % Rabatt
-
-statt 0,94 €
-
-* DNSSEC
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-0,79 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .pt Domain ###
-
- 49 % Rabatt
-
-statt 4,00 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-2,05 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .us Domain ###
-
- 10 % Rabatt
-
-statt 1,19 €
-
-* DNSSEC
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-1,07 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .tr Domain ###
-
- 21 % Rabatt
-
-statt 11,23 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-8,83 €
-
-(inkl. 19% MwSt.)
-
-Domains
-
- Deal ausgeschieden
-
-### .com.br Domain ###
-
- 13 % Rabatt
-
-statt 16,54 €
-
-* 0 € Setup Gebühr
-
-* Umfangreiches DNS-Management
-
-* Redundant verteilte Nameserver
-
-* Für Neu- und Bestandskunden
-
-* Dauerhafter Preis
-
-pro Monat
-
-14,47 €
-
-(inkl. 19% MwSt.)
-
-So sicherst du dir deinen 5 € Gutschein
+Wieso netcup?
 ----------
 
-* ### Starte das Spiel  ###
+Fairer Preis
+----------
 
-  Wähle dein Lieblingsteam und zeig dein Können im netcup Elfmeterschießen.
+Bei netcup stehen Kostentransparenz und Verlässlichkeit an erster Stelle. Unsere Preise sind von Anfang an fair und klar kalkuliert – ohne versteckte Gebühren. Sie bleiben auch nach dem ersten Jahr unverändert.
 
-* ### Triff 3 Mal ###
+Zufriedenheitsgarantie
+----------
 
-  Du hast 5 Versuche. Triff in Summe 3 Mal und erhalte einen 5 € Gutschein am Ende des Spiels.
+Solltest du mit deinem Webhosting- oder Root-Server-Produkt nicht zufrieden sein, kannst du diese innerhalb von 30 Tagen nach der Bestellung zurückgeben und du erhältst die komplette Grundgebühr (Preis pro Monat mal Abrechnungsperiode) zurückerstattet.
 
-* ### 5 € Gutschein einlösen ###
+Digital souverän
+----------
 
-  Unsere Empfehlung: VPS-Tarife - leistungsstark und vielseitig einsetzbar.
+Für netcup ist digitale Souveränität kein Trend, sondern **Teil einer strategischen Grundhaltung.** Es geht darum, langfristig stabile, sichere und transparente digitale Infrastrukturen zu schaffen – sowohl für private Anwendungen als auch für Unternehmen und Entwickler.
 
-Gültig bis 31.07.2026. Mindestbestellwert 5 € netto. Ausgenommen Domains, Groupware, Merchandise und stundenbasierte Tarife. Einlösbar einmal pro Bestellung. Keine Barablöse. Zum Einlösen des Gutscheins kopiere dir den Code und füge ihn im Warenkorb über das Feld "Gutscheincode" zu deiner Bestellung hinzu.
+Kosteneffizienz
+----------
 
-FAQs
+Wir bieten wettbewerbsfähige Preise mit transparenten Kostenstrukturen und Rabattaktionen, was ein einzigartiges Preis-Leistungs-Verhältnis für dich sicherstellt. Somit hast du bei uns immer den besten Preis!
+
+netcup Deals - FAQ
 ----------
 
 ###
 
-Wie lange sind die WM-Specials verfügbar?
+Welche Angebote bietet netcup bei Root-Server, VPS, Domains und Webhosting an?
 
  ###
 
-Bei netcup treten eine Auswahl an passenden Länderdomains gegeneinander an. Mit jedem Ausscheiden einer Nation verschwindet auch ihr Domain-Special aus dem Turnier am darauffolgenden Werktag. Solange das Nationalteam bei der WM noch im Rennen ist, **bleibt auch die dazugehörige Domain als Deal verfügbar**.
-
-Die .eu Domain bleibt über den **gesamten Aktionszeitraum** im Angebot. Das Finale der WM ist auch das Ende der Aktion - nämlich am 19.07.2026.
+Wir bieten dir zu wiederkehrenden Sale-Events eine immer unterschiedliche Auswahl aus den beliebten netcup Produktkategorien, wie Root-Server, VPS, Domains und Webhosting zu besonders günstigen Konditionen. Die Aktionsprodukte sind dabei nur für kurze Zeit als Deal verfügbar und unterscheiden sich zu den regulären Produkten im Preis und/oder Spezifikationen wie Speicherplatz und/oder CPU-Leistung.
 
 ###
 
-Wie erhalte ich meinen 5 € Gutschein vom Elfmeterschießen-Spiel?
+Wie lange sind netcup Deals verfügbar?
 
  ###
 
-Triff das Tor mindestens **3 Mal** und du erhaltest im Anschluss direkt deinen **5 € Gutschein.**
-
-Dieser Gutschein ist **gültig bis 31.07.2026**. Mindestbestellwert 5 € netto. Ausgenommen Domains, Groupware, Merchandise und stundenbasierte Tarife. Einlösbar einmal pro Bestellung. Keine Barablöse.
-
-Zum Einlösen des Gutscheins kopiere dir den Code und füge ihn im Warenkorb über das Feld **"Gutscheincode"** zu deiner Bestellung hinzu.
-
-Viel Spaß!
+Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Aktionen können sie jedoch auch über einen längeren oder kürzeren Zeitraum zu Verfügung stehen. Bitte beachte die Informationen auf unserer Website. Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
 
 ###
 
-Wann werden die WM-Ergebnisse geprüft und wann scheiden Deals aus?
+Wie erfahre ich von aktuellen und zukünftigen Deals bei netcup?
 
  ###
 
-Wir prüfen die WM-Ergebnisse an Werktagen einmal täglich gegen 8:00 Uhr (MEZ). Entscheidend ist immer der Stand zu genau diesem Zeitpunkt: Ist eine Nationalmannschaft dann bereits ausgeschieden, wird der zugehörige Deal deaktiviert.
+Um immer als Erster von unseren Deals zu erfahren, lohnt es sich, unseren Kanäle zu folgen oder unseren [Newsletter](https://www.netcup.com/de/newsletter)zu abonnieren. Dort erfährst du, dass ein Sale-Event startet und neue netcup Deals verfügbar sind. Zusätzlich findest du dort auch immer wieder weitere Aktionen, Goodies oder Gewinnspiele.
 
-Dieser Check wird von uns **manuell** durchgeführt. Da durch die Zeitverschiebung einige Spiele nachts oder zu US-Sendezeiten laufen, orientieren wir uns - damit die Aktion für alle einheitlich und nachvollziehbar bleibt - ausschließlich an der **mitteleuropäischen Zeit und dem Ergebnisstand an Werktagen gegen 8:00 Uhr.**
-
-Falls etwas unklar ist, melde dich gerne über das [Formular](https://www.netcup.com/de/helpcenter/support).
-
-###
-
-Können Gutscheine auf netcup Deals angewendet werden?
-
- ###
-
-Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, Groupware oder Merchandise. Eine **Kombination aus mehreren Gutscheinen ist nicht möglich**. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
-
-Wenn dein Gutscheincode nicht funktioniert, wende dich an unseren [Support](https://www.netcup.com/de/helpcenter/support?_gl=1*1tgq07g*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5S50DrqFkJtgv0FCEbNDW2N0sWjKnTU1pOi_vYBaWltNR_xvHbd520aAifjEALw_wcB).
-
-###
-
-Kann der Gutschein auch nachträglich angewendet werden?
-
- ###
-
-Gutscheine können ausschließlich bei Neubestellungen eingelöst werden. Eine nachträgliche Anrechnung auf bereits bestehende Verträge oder laufende Bestellungen ist leider nicht möglich.
+Abonniere zusätzlich gerne unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de), um über neue Deals und Aktionen informiert zu werden.
 
 ###
 
@@ -648,17 +104,37 @@ Nein, der Preis der Aktion ist dauerhaft gültig - sofern nicht anders angegeben
 
 ###
 
-Wie lange dauert es, bis mein bestelltes Produkt verfügbar ist?
+Was ist ein Flash Deal und wie lange bleibt dieser verfügbar?
 
  ###
 
-Solltest du erstmalig bei netcup bestellen, muss zunächst deine Identität nachgewiesen und bestätigt werden. Dieser **Verifizierungsprozess** ist ein wichtiges Sicherheitsinstrument, um mögliche Betrugsfälle zu vermeiden und kann nicht übersprungen werden. Du erhältst unmittelbar nach der Bestellung weitere Informationen zur Verifizierung per E-Mail.
+Bei Flash Deals handelt es sich um zusätzliche, attraktive „Blitzangebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 2-4 Stunden. Du erkennst einen Flash Deal am speziellen Blitz-Icon. Sobald ein Flash Deal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
 
-Das bestellte Produkt wird daraufhin unmittelbar oder unter Umständen durch eine:n Mitarbeiter:in von netcup eingerichtet. Für Bestandskunden entfällt der erste Schritt.
+###
 
-Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter Nachfrage unter Umständen etwas dauern kann. Wir sind sehr bemüht, jedem Kunden das bestmögliche Service zu bieten und danken für das Verständnis.
+Können Gutscheine auf netcup Deals angewendet werden?
 
-Achte auf zusätzliche Hinweise auf den Produktseiten.
+ ###
+
+Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, Groupware, SSL-Zertifikate oder Merchandise. Eine Kombination aus mehreren Gutscheinen ist nicht möglich. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
+
+Wenn dein Gutscheincode nicht funktioniert, wende dich an unseren [Support](https://helpcenter.netcup.com/de/support).
+
+###
+
+Sind Deals durch limitierte Stückzahlen begrenzt?
+
+ ###
+
+Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann jedoch vorkommen, dass gewisse Angebote aus diversen Gründen nur bis zu einem gewissen Limit bestellt werden können. In diesem Fall weisen wir jedoch auf der Aktionsseite darauf hin.
+
+###
+
+Ist die Bestpreis- und Zufriedenheitsgarantie auf die Aktionen anwendbar?
+
+ ###
+
+Nein, die Bestpreisgarantie ist nicht auf Aktionen anwendbar. Die Zufriedenheitsgarantie ist allerdings für Aktionen zu Webhosting- und Root-Server-Produkten gültig.
 
 ###
 
@@ -666,59 +142,109 @@ Ich habe die Aktion verpasst. Gibt es eine Möglichkeit, die Aktionsprodukte nac
 
  ###
 
-Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nach Ablauf der Aktion sind die Produkte nicht mehr zum Aktionspreis verfügbar. Allerdings gibt es bei netcup auf **regelmäßiger Basis Aktionen und neue Angebote**. Komme also gerne zu einem späteren Zeitpunkt wieder oder wirf einen Blick auf unsere regulären Produkte wie Webhosting, Domains oder Server-Produkte, die auch außerhalb von Aktionen mit einem attraktiven Preis-Leistungs-Verhältnis überzeugen.
+Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nach Ablauf der Aktion sind die Produkte nicht mehr zum Aktionspreis verfügbar. Allerdings gibt es bei netcup auf regelmäßiger Basis Aktionen und neue Angebote. Komme also gerne zu einem späteren Zeitpunkt wieder oder wirf einen Blick auf unsere regulären Produkte wie Webhosting, Domains oder Server-Produkte, die auch außerhalb von Aktionen mit einem attraktiven Preis-Leistungs-Verhältnis überzeugen.
 
 ###
 
-Kann ich meine bestehende Domain auf den Aktionspreis umstellen?
+Kann ich bestehende Produkte / Verträge auf Aktionen upgraden?
 
  ###
 
-Die Aktion gilt ausschließlich für Neubestellung. Daher ist eine Umstellung von bestehenden Verträgen auf ein Aktionsprodukt nicht möglich.
+Nein, ein Upgrade bestehender Produkte oder Verträge auf Aktionsprodukte ist nicht möglich.
 
 ###
 
-Kann ich den Namen einer Domain nachträglich ändern?
+Kann ich Aktionsprodukte später auch auf größere, reguläre Produkte upgraden?
 
  ###
 
-Nein, eine Domain lässt sich nachträglich nicht mehr ändern. Jede Domain ist ein individuelles Produkt mit einem festen Namen.
+Für manche Produkte, die zu Regulär-Preisen über unsere Website gekauft wurden, ist ein [Upgrade](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade) innerhalb derselben Produktgruppe und Generation möglich.
+Upgrades von und zu Produkten, die innerhalb einer Aktion gekauft wurden, sind jedoch nicht möglich. Solltest du zu einem späteren Zeitpunkt bemerken, dass dein gebuchter Tarif doch nicht ausreicht, kannst du den Tarif regulär kündigen und einen neuen direkt über unsere Website bestellen.
 
 ###
 
-Wie kann ich eine Domain nach der Bereitstellung mit einem Webhosting, VPS oder Root-Server verbinden?
+Wie lange dauert es, bis mein bestelltes Produkt verfügbar ist?
 
  ###
 
-In unseren Anleitungen erfährst du Schritt für Schritt, wie du eine Domain mit deinem Webhosting-Paket oder vServer verbindest.
+Solltest du erstmalig bei netcup bestellen, muss zunächst deine Identität nachgewiesen und bestätigt werden. Dieser Verifizierungsprozess ist ein wichtiges Sicherheitsinstrument, um mögliche Betrugsfälle zu vermeiden und kann nicht übersprungen werden. Du erhältst unmittelbar nach der Bestellung weitere Informationen zur Verifizierung per E-Mail.
 
-* [Webhosting](https://www.netcup.com/de/helpcenter/dokumentation/domain/domain-webhosting-verbinden)
-* [Server](https://www.netcup.com/de/helpcenter/dokumentation/domain/domain-server-verbinden)
+Das bestellte Produkt wird daraufhin unmittelbar oder unter Umständen durch eine:n Mitarbeiter:in von netcup eingerichtet. Für Bestandskunden entfällt der erste Schritt.
+
+Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter Nachfrage unter Umständen etwas dauern kann. Wir sind sehr bemüht, jedem Kunden das bestmögliche Service zu bieten und danken für das Verständnis.
 
 ###
 
-Ich habe eine Domain bestellt, für deren Transfer ein AuthCode erforderlich ist. Was kann ich tun, wenn die Domain nicht mir gehört?
+Was bedeutet "Pro" bei unseren Aktionsprodukten?
 
  ###
 
-Wichtig zu wissen ist, dass keine zusätzlichen Kosten entstehen. Bestelle gerne eine andere Domain. Wir helfen dir, die falsche Domain zu entfernen und ggf. bereits bezahlte Gebühren umzubuchen.
+Unsere bisherigen „SE“-Produkte (Special Edition) heißen ab sofort „Pro“. Diese Kennzeichnung steht für exklusive Aktionsvarianten unserer regulären Angebote.
 
-Kontaktiere dafür unseren Support über das [Formular](https://www.netcup.com/de/helpcenter/support?_gl=1*1tgq07g*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5S50DrqFkJtgv0FCEbNDW2N0sWjKnTU1pOi_vYBaWltNR_xvHbd520aAifjEALw_wcB).
+Mit einem „Pro“-Produkt erhältst du weiterhin das, was unsere Aktionsangebote auszeichnet: mehr Leistung bzw. mehr Speicher zu besonders attraktiven Preisen – zum Beispiel bis zu 100 % mehr SSD-Speicher, mehr vCores oder eine Kombination aus beidem.
+
+Beachte: Pro-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar.
 
 ###
 
-Kann ich die Domainaktion mit dem Partnerprogramm verbinden?
+Was bedeutet "Ultra" bei unseren Aktionsprodukten?
 
  ###
 
-Ja, das ist möglich. Im Customer Control Panel unter "Gutscheine" kannst du neue Gutscheine erstellen sowie bereits ausgestellte Gutscheine und deren Status einsehen. Eine Anleitung zur Erstellung von Gutscheinen findest du [hier](https://www.netcup.com/de/helpcenter/dokumentation/general/partnerprogramm#link-erstellen).
+„Ultra“ ist unsere neue Leistungsklasse für Aktionsprodukte. Diese Kennzeichnung steht für noch mehr Power zu einem weiterhin attraktiven Preis.
 
-###
+Im Vergleich zu unseren „Pro“-Produkten bieten „Ultra“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
 
-Wie erfahre ich von aktuellen und zukünftigen Deals bei netcup?
+Beachte: Ultra-Tarife sind ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
 
- ###
+netcup Angebote zu VPS und Root-Server
+----------
 
-Um immer als Erster von unseren Deals zu erfahren, lohnt es sich, unseren Kanäle zu folgen oder unseren [Newsletter](https://www.netcup.com/de/newsletter) zu abonnieren. Dort erfährst du, dass ein Sale-Event startet und **neue netcup Deals** verfügbar sind. Zusätzlich findest du dort auch immer wieder weitere Aktionen, Goodies oder Gewinnspiele.
+Netcup ist bekannt für seine zuverlässigen Serverlösungen, die sowohl für Einsteiger als auch für professionelle Anwender geeignet sind.
 
-Abonniere zusätzlich gerne unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupoffical) oder [RSS-Feed](https://www.netcup.com/rss/deals/de), um über neue **Deals und Aktionen** informiert zu werden.
+Wenn du nach flexiblen und leistungsstarken Serverlösungen suchst, solltest du die aktuellen Angebote von netcup für Virtual Private Server (VPS) und Root-Server nicht verpassen. Wir bieten dir regelmäßig attraktive Rabatte auf unsere VPS und Root-Server-Pakete, die es dir ermöglichen, Top-Leistung zu einem erschwinglichen Preis zu erhalten.
+
+Mit den regelmäßigen Angeboten erhältst du diese leistungsstarken Server zu besonders günstigen Konditionen.
+
+Günstiges Webhosting bei den netcup Deals
+----------
+
+Wenn du auf der Suche nach leistungsstarkem und gleichzeitig günstigem Webhosting bist, solltest du die aktuellen netcup Deals nicht verpassen. netcup, bekannt für seine zuverlässigen und flexiblen Hosting-Lösungen, bietet regelmäßig attraktive Angebote, die es dir ermöglicht, hochwertige Hosting-Pakete zu einem Bruchteil des normalen Preises zu erhalten.
+
+Ob für private oder geschäftliche Zwecke – es lohnt sich, nach den besten Rabatten Ausschau zu halten und von Sonderaktionen zu profitieren. So bleibt mehr Budget für andere wichtige Aspekte deines Projekts übrig.
+
+Entdecke jetzt die besten Angebote und starte mit deinem neuen Webhosting durch!
+
+Rabatte für günstige Domains
+----------
+
+Auf der Suche nach einer günstigen Domain für dein nächstes Projekt? Dann bist du bei netcup genau richtig! Mit den richtigen Rabatten und Angeboten kannst du dir deine Wunschdomain zum besten Preis sichern.
+
+Ob für einen Blog, ein Online-Shop oder eine Unternehmensseite – die Auswahl an preiswerten Domains ist riesig. Doch wie finden die besten Deals zu günstigen Domains?
+
+Halte hierfür am besten Ausschau, zu unseren regemäßigen Aktionen, welche oft zeitlich begrenzt sind und mit starken Rabatten überzeugen.
+
+Sonderangebote und Sale bei netcup
+----------
+
+Du liebst Schnäppchen? Dann haben wir eine gute Nachricht für dich! Bei netcup findest du regelmäßig Sonderangebote, Deals und saisonale Sales.
+
+So bekommst du die neueste Technik für deine Online-Projekte günstiger, als zum regulären Preis. Neben den Sales-Events, wie Black-Friday, warten zahlreiche Deals auch während des Monats auf dich, wo du dir Schnäppchen zu Root-Servern, VPS, Webhostings und Domains sichern kannst.
+
+Für nähere Infos folge uns auf Social Media, abonniere unseren Newsletter oder unsere Messenger-Kanäle und bekomme bei jeder netcup Aktion als Erster die Infos zum Start.
+
+Beste Angebote
+----------
+
+Bei netcup setzen wir auf Transparenz und faire Preise. Unsere dauerhaft gültigen Angebote bedeuten, dass wenn du dich für einen unserer Deals entscheidest, der Aktionspreis sowie die Leistungsbeschreibung für dich dauerhaft gelten. Wir verzichten auf komplizierte Preisstrategien, sodass du dich darauf verlassen kannst, dass das, was du heute wählst, auch langfristig Bestand hat.
+
+netcup Gutschein
+----------
+
+Bei netcup hast du die Möglichkeit auch Gutscheincode bei deinen Bestellungen einzulösen, um deine Wunschprodukte günstiger zu erwerben.
+
+Trage hierzu deinen Gutscheincode beim Bestellprozess ein, der Gutscheinwert wird dir am Ende des Bestellprozess vom Gesamtbetrag abgezogen.
+
+Wenn du noch auf der Suche nach einem netcup Gutschein bist, dann hätten wir mit unserer Newsletter-Registrierung einen kleinen Tipp für dich.
+
+Alle neuen Newsletter-Abonnenten erhalten als kleines Dankeschön einen netcup Gutschein auf ihre Bestellung.
