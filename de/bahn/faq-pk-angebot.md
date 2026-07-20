@@ -13943,10 +13943,11 @@ Das Job-Ticket gibt es als persönliche Variante oder als Plus-Ticket in der üb
  Ich habe Fragen zum VVS Job-Ticket. An wen kann ich mich wenden?
 ----------
 
-Bei Fragen wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH
+Sie können Ihre Kontakt- und Adressdaten sowie Ihre Kontodaten für Ihr VVS Firmenabo rund um die Uhr im Internet über unser Aboportal selbst ändern.
 
-* Telefon: [0711 76164193](tel:+4971176164193)
-* E-Mail: [abo-vvs@bahn.de](mailto:abo-vvs@bahn.de)
+* [Zum Aboportal](https://abo.bahn.de/portal/#)
+* [Informationen zu weiteren Änderungen an Ihrem Abo](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/abos-dticket/daten-verwalten)
+* [Kontaktdaten zum Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
 
 [Weitere Informationen zum VVS Firmen-Abo](https://www.bahn.de/angebot/verbuende/vvs-jobticket)
 
@@ -14013,32 +14014,16 @@ Sie bekommen die meisten VVS-Angebote als Online- oder Handy-Ticket. Dazu zähle
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-tickets-wo-kaufen)
 
- Ich möchte die Monatskarte im Abo für VVS, VVO, VRN als Handy-Ticket nutzen, was muss ich tun?
+ Ich möchte die Monatskarte im Abo als Handy-Ticket nutzen, was muss ich tun?
 ----------
 
 **Sie haben bereits ein Abo?**
+Nutzen Sie im Aboportal die Funktion "Umtausch" um Ihren Änderungswunsch auf ein Handy-Ticket mitzuteilen. Der Wechsel ist kostenfrei, je nach Tarif ist jedoch die Rücksendung Ihrer bisherigen Fahrkarte erforderlich.
 
-Sie können den direkten Umstieg auf das Handy-Ticket im Aboportal ausführen. Wenn Sie sich im Aboportal anmelden, erhalten Sie - sofern Ihr Angebot unterstützt wird - eine Hinweismeldung. Diese führt Sie durch die notwendigen Schritte, so dass Sie am Ende des Prozesses Ihr Abo in den DB Navigator hinzufügen können. Bitte beachten Sie, dass Sie beim DB Abo Ihre Papierfahrkarte an uns zurückschicken müssen. Alternativ können Sie diese auch in einem DB Reisezentrum (gegen Rückgabequittung) abgeben.
+**Sie haben noch kein Abo oder Ihr bisheriges Abo gekündigt?**
+Die Verbundabo-Angebote finden Sie auf bahn.de oder im DB Navigator über die Fahrplanauskunft Ihrer Verbindung. Hier können Sie auch direkt das Abo als Handy-Ticket auswählen. Bei Kauf im DB Navigator lädt das Ticket sich nach dem Kauf automatisch im Bereich "Reisen".
 
-**Sie haben noch kein Abo?**
-
-**Sie können das Abo über folgende Wege erwerben:**
-
-* In der App finden Sie die Buchungsstrecke. Oder Sie wechseln aus der Fahrplanauskunft heraus in die Buchung und dort unter "Zeitkarten & Abos" in die Buchungsstecke. Das hat den Vorteil, dass das Abo direkt nach der Buchung unter Meine Tickets in die App hinzugefügt wird.
-* Im DB Reisezentrum als Abo-Sofort: In dem Fall bezahlen Sie den ersten Monat sofort und erhalten einen Beleg mit der Auftragsnummer zum Hinzufügen in den DB Navigator.
-* **Sie können das Verbundabo über folgende Wege erwerben:**
-
-* Auf bahn.de/vvs, bahn.de/vvo und bahn.de/vrn
-* Hier muss anschließend das Abo vom Inhaber, wie in der E-Mailbestätigung beschrieben, in die App geladen werden.
-* Im DB Reisezentrum als Abo-Sofort, soweit Ticket Office vorhanden ist
-* Der Kunde erhält, nachdem er die Lastschrift erteilt hat, einen Beleg mit der Auftragsnummer zum Hinzufügen in die App.
-* Mit einem Bestellschein
-* Leider ist die Auswahl als Handy-Ticket auf dem Bestellschein aktuell nicht möglich. Daher ist ein handschriftlicher Vermerk erforderlich, wenn die Ausgabe als Handy-Ticket gewünscht ist.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-* [Direkt zur Bestellung für den VVS](https://abo.bahn.de/bestellen/?tarifid=80,139,140)
-* [Direkt zur Bestellung für den VVO](https://abo.bahn.de/bestellen/?tarifid=87,119,141)
-* [Direkt zur Bestellung für den VRN](https://abo.bahn.de/bestellen/?tarifid=79,110,1,70,71,44,45,2,3,46,4,5,101,102,104,105)
+* [Alle Abo-Angebote als Handy-Ticket](https://www.bahn.de/angebot/pendler/digitales-abo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vvs-vvo-vrn-monatskarte-als-handy-ticket)
 
@@ -14084,6 +14069,8 @@ Die Bundeswehr-Tickets gelten **nur in der 2. Klasse**. Sitzplatzreservierungen 
 Sind Sie innerhalb eines Verkehrsverbundes unterwegs, erhalten Sie immer ein Verbund-Abo. So können Sie flexibel Busse, Nahverkehrszüge, S-Bahnen und Straßenbahnen nutzen.
 
 Fahren Sie außerhalb eines Verkehrsverbundes oder über die Verbundgrenzen hinaus, bekommen Sie das DB Abo. Für die Stadtverkehre im Start- und Zielort können Sie zusätzlich Verbund-Abos erwerben.
+
+Beim Deutschland-Ticket kommt es darauf an, wo auf bahn.de bzw. im DB Navigator Sie Ihr Abo gekauft haben. In Ihrer Bestell- bzw. Aktivierungsmail finden SIe den Verbundnamen. Im Aboportal oder auf Ihrem Handy-Ticket sehen Sie auch das Logo des Verbundes.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-bekomme-ich-ein-db-abo-wann-ein-verbund-abo)
 
@@ -15016,23 +15003,6 @@ Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservieru
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-muss-ich-bei-der-mitnahme-von-hunden-beachten)
 
- Was muss ich tun, wenn sich persönliche Daten ändern? Wie informiere ich das Abo-Center?
-----------
-
-Informieren Sie das Abo-Center der Deutschen Bahn über Änderungen Ihrer Bankverbindung, Ihres Namens oder Ihrer Anschrift schnellstmöglich schriftlich (per Fax, E-Mail oder Post).
-
-**So geht's:**
-
-1. Melden Sie die Änderungen schriftlich (per Fax, E-Mail oder Post) an das DB Abo-Center.
-2. Senden Sie alle neuen Informationen bitte bis zum 15. des Monats, damit sie zum 1. des neuen Monats aktiv sind.
-
-Sie können Ihre persönlichen Daten und Abonnements im Aboportal der Deutschen Bahn verwalten.
-
-* [Zu den Abo-Centern](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-muss-ich-tun-wenn-sich-persoenliche-daten-aendern-wie-informiere-ich-das-abo-center)
-
  Was passiert bei der Kontrolle, wenn mein Akku leer ist oder ich mein Handy verloren habe?
 ----------
 
@@ -15201,15 +15171,6 @@ Die Buchung eines Bundeswehr-Tickets ist **nur für die eigene Person** zulässi
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitergabe-bundeswehr-ticket)
 
- Welche Abo-Angebote des AVV Aachen kann ich hier kaufen?
-----------
-
-Ab Juli 2025 werden die Abonnements für den AVV Aachen nicht mehr auf [bahn.de](http://bahn.de/) vertrieben. Neue Abonnements können auf der Webseite und der App von GoRheinland erworben werden. Bestehende Abokund:innen werden über die Übertragung ihres Abovertrages informiert.
-
-* [gorheinland.com](https://www.gorheinland.com/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-abo-angebote-avv-aachen)
-
  Welche Adressen sind für DB Gepäckservice zulässig?
 ----------
 
@@ -15277,56 +15238,24 @@ Das Schülerticket Berlin (Tarifbereich Berlin AB) wird nur von der BVG ausgegeb
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-azubi-vbb)
 
- Welche Abo-Angebote des VMS für Schüler:innen und Azubis kann ich kaufen?
-----------
-
-**Abo-Monatskarte Schüler/Azubi**
-
-* Für Schüler:innen und Auszubildende mit Berechtigungskarte (von der Bildungseinrichtung auszufüllen); in allen DB Reisezentren und als Download erhältlich
-* Ca. 17% im Vergleich zur Monatskarte Schüler/Azubi sparen
-* Schüler können zwischen einer Laufzeit von 12 oder 10 Monaten (1 Schuljahr) wählen
-* Personengebunden, nur mit Kundenkarte gültig
-
-**BildungsTicket Sachsen**
-
-* Gilt für Schüler:innen allgemeinbildender Schulen und berufsbildender Schulen mit einer rein schulischen Ausbildung (ohne Ausbildungsbetrieb) in Straßenbahnen, Bussen und Nahverkehrszügen (ausschließlich in der 2. Wagenklasse) im gesamten VMS-Verbundraum
-* Das Aboticket kostet 15 Euro pro Monat
-* Mitnahme eines Fahrrades ist inklusive
-* Das Ticket gilt ganztags, also auch in der Freizeit
-* Das Ticket ist personengebunden
-* Mindestlaufzeit: 12 aufeinanderfolgende Kalendermonate, danach monatlich kündbar
-* Laufzeitbeginn jeweils zum ersten Kalendertag eines Monats möglich
-
-[BildungsTicket VMS bestellen](https://abo.bahn.de/bestellen/?tarifid=47)
-
-**SchülerVerbundKarte**
-
-* Gilt im gesamten Verbundgebiet
-* Für Schüler:innen mit Berechtigungskarte (von der Bildungseinrichtung auszufüllen); in allen DB Reisezentren und als Download erhältlich
-* Kostet monatlich 44 Euro
-* Mindestlaufzeit beträgt 12 Monate
-* Personengebunden, nur mit Kundenkarte gültig
-
-*
-*
-* [Bestellschein VMS Azubi/Schüler (PDF, 1 MB)](https://assets.static-bahn.de/dam/jcr:f09be711-355a-4c46-b34b-0d29ca60fc5e/mdb_295701_bestellschein_vms_azubiticketsachsen.2021-09-07-09-53-44.pdf)
-
-[Bildungsticket VMS](https://abo.bahn.de/bestellen/?tarifid=47)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-azubi-vms)
-
  Welche Abo-Angebote des VMT für Schüler:innen und Azubis kann ich kaufen?
 ----------
 
-**Abo Schüler/Azubi**
+Abo Schüler/Azubi
 
 * Für Schüler:innen, Auszubildende und Student:innen
-* Ca. 11% im Vergleich zur Schüler-Azubi-Monatskarte sparen
+*  Ca. 11 Prouemt im Vergleich zur Schüler-Azubi-Monatskarte sparen
 * Digital – Abo auch als Handy-Ticket in der App DB Navigator nutzbar
 * Personengebunden, nur Lichtbildausweis gültig
 * Mindestvertragslaufzeit 12 Monate, danach monatlich kündbar
 
+\- Zu den VMT-Bestellscheinen (https://www.vmt-thueringen.de/service/downloads/#c1854-anchor)
+
 * [Zu den VMT-Bestellscheinen](https://www.vmt-thueringen.de/service/downloads/#c1854-anchor)
+
+[Weitere Informationen zu Abo-Angeboten im VMT](https://www.bahn.de/angebot/verbuende/vmt-abo)
+
+[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=85,118)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-azubi-vmt)
 
