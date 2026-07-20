@@ -146,13 +146,12 @@ Frag unseren FAQ-Bot:
 
 Unser FAQ-Bot nutzt KI ([mehr Details zur Funktion und unsere Gedanken zur Nutzung von KI](https://www.wetell.de/community/newsblog/ki-bei-wetell/)). Informationen zur Nutzung deiner Daten findest du in unserer [Datenschutzerklärung](https://www.wetell.de/datenschutzerklaerung#ki-faq-bot).
 
-Flexibel wie du.
+Stark wie du.
 
-Du zahlst hier nicht nur für Daten.
-Sondern für fairen Mobilfunk, der Ressourcen schont.
-Und dich belohnt, wenn du weniger verbrauchst.
+Gemeinsam was verändern?
+Jetzt mit deinem Mobilfunk.
 
-Unsere neuen Flex-Tarife.
+Für dich, fürs Klima, für alle!
 
 * Fix-Tarife
 * Flex-Tarife
@@ -442,29 +441,18 @@ weniger /Monat
 
 Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: +1 €, +3 € oder +5 € / Monat
 
-Der Funke, der alle ansteckt
+Wir leben unsere Werte - Jeden Tag.
 ----------
 
-Dein Mobilfunk, mit dem du den Unterschied machst.
+[Von Menschen für Menschen: ### Service für dich. ###](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
 
-Wir sind ein Unternehmen für positiven Wandel.
+[Unsere Zukunft gestalten: ### Aktiv fürs Klima. ###](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/)
 
-[Selbstbestimmt](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#selbstbestimmt) [Lobby in gut](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#lobby_in_gut) [Sinn statt Profit](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#sinn_statt_profit)
+[Gemeinsam gestalten wir die Wirtschaft: ### Sinn statt Profit. ###](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#sinn_statt_profit)
 
-Das sich fürs Gemeinwohl engagiert.
+[Auf der Straße und in die Politik: ### Lobby in Gut. ###](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#lobby_in_gut)
 
-[Aktiv fürs Klima](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima) [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle) [Service per Du](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
-
-Mit dir zünden wir den Funken.
-
-Nachhaltig empfehlenswert: *you*tell the Grünfunk
-----------
-
-Freund\*innen werben & Nachhaltigkeit verbreiten
-
-[Hol deine Leute zu WEtell und sichert euch je 25 € Bonus](https://www.wetell.de/community/youtell/)
-
-Alles, was du (noch) wissen willst
+Über uns
 ----------
 
 * Wer ist WEtell?
@@ -476,38 +464,55 @@ Alles, was du (noch) wissen willst
 
   Uns zeichnet also aus, dass wir mehr wollen: Mehr Klimaschutz, mehr Fairness, mehr Gemeinwohl, mehr Miteinander. Das leben wir im Team, mit unseren Kund\*innen und unseren Kooperationspartner\*innen.
 
-* Warum nicht einen billigen Discountervertrag abschließen und das gesparte Geld fürs Klima spenden?
+* Was macht euch besonders?
 
-  Klar, es gibt deutlich günstigere Mobilfunkverträge auf dem Markt. Und mit dem „gesparten“ Geld lässt sich auch viel Gutes tun, wenn man es bspw. spendet. Wir glauben allerdings: für langfristigen Wandel muss sich die Art des Wirtschaftens und damit der Markt selbst wandeln.
+  Wir arbeiten wertebasiert statt profitorientiert. Das bedeutet für dich:
+  Faire Tarifbedingungen, hilfreicher [Wechselservice](https://www.wetell.de/mobilfunk/wechselservice/), echter [Datenschutz](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle) und einen wirklich tollen [Kund\*innenservice mit echten Menschen](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service), motivierter Lösungsfindung und viel Verständnis für die Tücken des Alltags.
 
-  Wir arbeiten für eine Welt, in der Unternehmen nachhaltig und gemeinwohlorientiert agieren. Mit WEtell wollen wir im Bereich Mobilfunk mit gutem Beispiel vorangehen. Natürlich kosten die Tarife dann ein bisschen mehr, doch nur so erreichen wir eine wirkliche Veränderung.
+  Mit deinem Mobilfunktarif bei WEtell trägst du auch zum Klimaschutz bei. Das heißt, wir gleichen alle CO2-Emissionen aus, die durch deine Mobilfunknutzung entstehen. Zusätzlich unterstützt du mit deinem Tarif den Ausbau von Solar- und Wind-Energie. Details dazu und was wir alles bereits erreicht haben, erfährst du auf unserer [Infoseite zum Klimaschutz](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima).
+  Außerdem fließt ein Teil deiner Grundgebühr in unser Wertebudget, mit dem wir [Projekte](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/#werteprojekte) rund um Klimaschutz, Digitale Selbstbestimmung, Soziale Teilhabe, Demokratiestärkung und Bildung finanzieren. Damit wollen wir an möglichst vielen Stellschrauben drehen, um unsere Gesellschaft fairer zu gestalten.
 
-* Was bedeutet nachhaltiger Mobilfunk?
+  Wenn du genau wissen willst, wie sich deine Tarifkosten zusammensetzen, schau dir gerne unsere Preistransparenz an.
 
-  Wir arbeiten Werte-basiert statt Profit-orientiert. Mit uns telefonierst und surfst du – dank CO<sub>2</sub>-Ausgleich - komplett klimaneutral. Gleichzeitig unterstützt du mit deinem Tarif den Ausbau von erneuerbaren Energien. Alle Details dazu erfährst du [hier](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima).).
+* Passt WEtell zu mir?
 
-  Nachhaltigkeit hat für uns auch eine soziale Komponente. Deswegen setzen wir auf faire Tarifbedingungen, Datenschutz und einen menschlichen Service. Mehr dazu [hier](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service). Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](https://www.wetell.de/gwoe/) vorbei.
+  Ok, das mit den Werten hat dich überzeugt - jetzt muss aber natürlich auch noch der Mobilfunk zu dir passen.
+  Dafür mal das Wichtigste im Überblick. Dein Mobilfunk bei WEtell:
 
-  Ungefähr ein Viertel der Tarifkosten fließen direkt in die Umsetzung dieser Maßnahmen. Wenn du einen Überblick bekommen willst, wie sich die Kosten für unsere Tarife zusammensetzen, schau dir unsere [Preistransparenz](https://www.wetell.de/mobilfunk/#preistransparenz) an.
+  * Funkt im Vodafone-Netz (D2)
+  * Ist ein monatlich kündbarer Vertrag
+  * Enthält immer eine Telefon- und SMS-Flat mit unterschiedlich hohem Datenvolumen
+  * Ist mit eSIM oder physischer SIM-Karte nutzbar
+  * Bietet dir mit dem Gruppenfunk einen Family & Friends-Tarif
+
+  Alle Details zu Tarifen und Optionen findest du auf unserer [Mobilfunk-Überssichtsseite](https://www.wetell.de/mobilfunk/).
+  Wenn du noch mehr wissen willst, schau dich gern auf unserer Website um oder melde dich bei unserem Service [per Mail](mailto:service@wetell.de) oder am [Telefon](tel:+4976176999848).
+
+*you*tell
+----------
+
+Freund\*innen werben & wirksam werden
+
+[Hol deine Leute zu WEtell und sichert euch je 25 € Bonus](https://www.wetell.de/community/youtell/)
 
 Das sagen unsere Kund\*innen
 ----------
 
+\*\*\*\*\*\*\* [Trustpilot](https://de.trustpilot.com/review/wetell.de): 4,6 Sterne \*\*\*\*\*\*\* Juhu! Die Community ist begeistert. Wenn du noch mehr Erfahrungen lesen willst, schau doch mal bei [Trustpilot](https://de.trustpilot.com/review/wetell.de)oder Google Rezenssionen vorbei.
+
+**Deine Meinung zählt!**
+Jeden Tag
+
 **Svenja**
 WEtell Kundin
 
-Das junge Unternehmen WEtell aus Freiburg ist ein Mobilfunkanbieter mit Visionen. Seit Juli 2020 am Markt, setzt unsere Kundin von Anfang an auf Nachhaltigkeit: 100% Klimaschutz, Datenschutz, Fairness und Transparenz.
+"Ihr seid so klasse und beweist echt wie einfach, und fair und menschlich es sein kann."
 
-**GLS Bank**
-Sozial-ökologische Bank seit 1974
+**Carina W.**
+16.09.26
 
 **Jasper**
 WEtell Kunde
-
-Fair, nachhaltig und klimaneutral: Mit hehren moralischen Ansprüchen will das Start-up WEtell den Mobilfunkmarkt aufmischen. Eine ungewöhnliche Gesellschaftervereinbarung soll die Werteorientierung absichern.
-
-**WirtschaftsWoche**
-Das führende Wirtschaftsmagazin
 
 Vernetzt, geprüft, ausgezeichnet
 ----------

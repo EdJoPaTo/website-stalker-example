@@ -2504,10 +2504,6 @@ Tarif- und Beförderungsbedingungen finden Sie auf der Webseite des RNN.
 
 * [Beförderungsbedingungen und Tarifbestimmungen](https://www.rnn.info/tickets-preise/tarife/tarifbestimmungen/)
 
-[Weitere Informationen zu Tickets im RNN](https://www.bahn.de/angebot/verbuende/rnn)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/befoerderungsbedingungen-rnn)
 
  Wo finde ich die Beförderungsbedingungen des RVF?
@@ -11219,10 +11215,6 @@ Sie erhalten viele RNN-Angebote als Online- bzw. Handy-Ticket. Die RNN Einzelfah
 
 * [Zur App](https://www.bahn.de/service/mobile/db-navigator)
 
-[Weitere Informationen zu Tickets im RNN](https://www.bahn.de/angebot/verbuende/rnn)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rnn-tickets-wo-kaufen)
 
  Warum wird mir eine Rücklastschriftgebühr berechnet?
@@ -15577,25 +15569,6 @@ Das SchülerFreizeitTicket ist ein Ergänzungsticket. Sie dehnt den Aktionsradiu
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-mvv)
 
- Welche Abo-Angebote des NRW-Tarifs kann ich hier kaufen?
-----------
-
-Ab Juli 2025 werden die Abonnements für den NRW-Tarif nicht mehr auf bahn.de vertrieben. Neue Abonnements können auf der Webseite und der App von GoRheinland erworben werden. Bestehende Abokund:innen werden über die Übertragung ihres Abovertrages informiert.
-
-* [Zu gorheinland.com](https://www.gorheinland.com/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-nrw-tarif)
-
- Welche Abo-Angebote des RNN kann ich hier kaufen?
-----------
-
-Die Abonnements für den RNN sind nicht mehr über bahn.de erhältlich. Neue Abonnements können auf der Webseite ticketshop.move-rlp.de und der App move-rlp erworben werden.
-Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abovertrages informiert.
-
-[Zum Ticketshop move-rlp.de](https://ticketshop.move-rlp.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-rnn)
-
  Welche Abo-Angebote des MVV für Schülerinnen und Schüler gibt es?
 ----------
 
@@ -15619,8 +15592,6 @@ Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abover
 
 * Gilt für Schüler **ab 15 Jahren** in den gewählten MVV-Zonen zwischen Wohn- und Schulort für beliebig viele Fahrten rund um die Uhr, auch am Wochenende.
 * Weitere Konditionen s.o.
-
-*
 
 [Weitere Informationen zu Abo-Angeboten im MVV](https://www.bahn.de/angebot/verbuende/mvv-abos)
 
@@ -15651,13 +15622,6 @@ Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abover
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=74,115,19,20,21,22,23)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-sh-tarif)
-
- Welche Abo-Angebote des VBB für Studierende kann ich hier kaufen?
-----------
-
-Das VBB Semesterzusatzticket ist 2025 nicht mehr erhältlich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-studi--vbb)
 
  Welche Abo-Angebote des VBB kann ich hier bestellen?
 ----------
@@ -20251,15 +20215,6 @@ Reisende mit Wohnsitz in Europa, der Türkei und Russland können einen Interrai
 [One Country Pass auswählen](https://bahn.interrail.eu/de/one-country-pass)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohnsitzland)
-
- Welche Abo-Angebote des Westfalentarifs kann ich hier kaufen?
-----------
-
-Die Abonnements für den Westfalentarif sind nicht mehr über bahn.de erhältlich. Neue Abonnements können auf der Webseite und der App westfalen.mobil erworben werden. Wenn Sie bereits ein Abo haben, werden Sie über die Übertragung Ihres Abovertrages informiert.
-
-* [Infos zur App westfalenmobil](https://www.nwl-info.de/app/westfalenmobil-app.html)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wt-abo-uebertragbar)
 
  Welche Angebote des WTV kann ich in der App DB Navigator oder auf bahn.de kaufen?
 ----------
