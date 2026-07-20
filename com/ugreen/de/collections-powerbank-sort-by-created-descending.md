@@ -8,7 +8,7 @@
 
 [UGREEN MagFlow Air Magnetische Powerbank (5000mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-5000mah-qi2-15w)
 
-[UGREEN MagFlow Air magnetische Powerbank (10000 mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-10000mah-qi2-15w)
+[UGREEN MagFlow Air magnetische Powerbank (10000 mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-slim-powerbank-10000mah-qi2-15w)
 
 [UGREEN Powerbank (10000mAh, 55W, integriertem Kabel, AirPyra)](https://de.ugreen.com/products/powerbank-10000mah-55w-integriertem-kabel-airpyra)
 
