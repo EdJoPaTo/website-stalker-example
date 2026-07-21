@@ -11,6 +11,10 @@ All notable changes to Shelly Gen2+ API Docs will be reflected here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+info
+
+Not all Shelly devices receive the same firmware updates. See [Firmware Update Policy](/gen2/General/FirmwareUpdatePolicy) for details.
+
 [2.0.0] 2026-07-13
 ----------
 
@@ -229,20 +233,12 @@ Firmware version `2.0.0` is being rolled out in phases, not all devices will rec
 [1.7.5] 2026-03-12
 ----------
 
-note
-
-Firmware version `1.7.5` is being rolled out in phases, not all devices will receive the update immediately.
-
 ### Added ###
 
 * Introduce [Secure provisioning](/gen2/ComponentsAndServices/Sys#secure-provisioning) - automatically disable open AP & BLE RPC once device provisioning is complete
 
 [1.7.4] 2026-01-27
 ----------
-
-note
-
-Firmware version `1.7.4` is being rolled out in phases, not all devices will receive the update immediately.
 
 ### Fixed ###
 
@@ -295,10 +291,6 @@ Firmware version `1.7.4` is being rolled out in phases, not all devices will rec
 
 [1.7.0] 2025-07-30
 ----------
-
-note
-
-Firmware version `1.7.0` is being rolled out in phases, not all devices will receive the update immediately.
 
 ### Added ###
 
@@ -411,10 +403,6 @@ Firmware version `1.7.0` is being rolled out in phases, not all devices will rec
 [1.6.1] 2025-05-07
 ----------
 
-note
-
-Firmware version `1.6.1` is being rolled out in phases, not all devices will receive the update immediately.
-
 ### Added ###
 
 * [2PM Gen3](/gen2/Devices/Gen3/Shelly2PMG3) Add support for Matter window covering
@@ -427,14 +415,6 @@ Firmware version `1.6.1` is being rolled out in phases, not all devices will rec
 
 [1.6.0] 2025-04-30
 ----------
-
-note
-
-Firmware version `1.6.0` is being rolled out in phases, not all devices will receive the update immediately.
-
-note
-
-Firmware version `1.6.0` is not deployed for Shelly 2PM Gen3, this device will receive `1.6.1` as soon as possible.
 
 ### Added ###
 
