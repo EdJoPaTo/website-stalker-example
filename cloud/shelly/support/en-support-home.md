@@ -5,23 +5,31 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
- Issue with iOS Widgets and Shelly App Version 1.9.0
+Campaign Notice
+
+Shelly Birthday Campaign 2026 EU
 ----------
 
- Dear users,
+ The campaign runs from **22.07.2026, 09:00 CEST** until **29.07.2026, 23:59 CEST**, exclusively through our official online store [www.shelly.com](https://www.shelly.com).
 
- If you experience any issues with your iOS widgets after updating to **Shelly App version 1.9.0**, please log out of your account and then log back in.
+**Please check before opening an order-related ticket** Campaign discounts are up to **40%**. Products marked with the **NEW** badge are excluded from the main campaign discount. An **8% discount for NEW products** is available only for Shelly VIP List customers through a coupon code in the VIP profile.
 
- After logging back in, your widgets may be reset. If this happens, you will need to edit each widget and reselect the relevant items.
+* Discount vouchers, codes, and coupons cannot be combined with campaign-discounted products.
+* Orders of at least **€200** after discounts, excluding shipping fees, may receive one free gift product while stocks last.
+* The free gift can be removed from the cart if it is not needed.
+* If an order is cancelled or returned and no longer meets the gift requirement, the gift must also be returned or may be charged at its regular price.
+* **Courier delays may occur during the campaign.** Delivery times may be longer than usual due to increased order volume.
+* **Wrong order or wrong address?** You have **15 minutes** to cancel the order using the cancellation button available from the order confirmation page or order history.
+* **VAT and invoices:** Orders are now invoiced domestically through our local reseller network. As a result, VAT is charged according to local regulations, even when a valid VAT ID is provided. If your company is eligible to reclaim VAT, please use the issued invoice and follow the standard VAT recovery process in your country.
 
- This should resolve the issue.
+**Free shipping conditions**
 
----
+* **Bulgaria, Austria, Belgium:** free shipping for orders over **€50** / **97,79 лв**.
+* **Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland:** free shipping for orders over **€79**. For Poland: above **330 zł**.
+* **Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and other eligible European countries:** free shipping for orders over **€150** / **293,37 лв**.
+* Customs duties and other non-shipping fees are not covered.
 
- We apologize for the inconvenience caused.
-
- Kind regards,
- Shelly Support Team
+ For full details, please review the campaign Terms and Conditions on [www.shelly.com](https://www.shelly.com) before submitting an order-related ticket.
 
 Knowledge base
 ----------

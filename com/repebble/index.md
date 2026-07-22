@@ -1,3 +1,6 @@
+Pebble smartwatches — Pebble Time 2, Pebble Round 2, and the Pebble Index 01 smart ring
+==========
+
 [SOLD OUT ### Pebble 2 Duo ### A do-over of our black & white watch](/watch#p2d)[### Pebble Time 2 ### With a larger color e-paper display!](/watch)[### Pebble Time 2 ### With a larger color e-paper display!](/watch#pt2)[### Pebble Round 2 NEW ### The most stylish Pebble watch ever](/watch)[### Pebble Index 01 NEW ### External memory for your brain](/index)
 
 **Pebble is back!**
