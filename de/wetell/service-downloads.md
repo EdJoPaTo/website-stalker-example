@@ -72,7 +72,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 * #### Sonstiges ####
 
   * [Anleitung SIM Karte](/media/filer_public/fd/dc/fddc9482-f4b9-410c-9353-d728e1ba009f/anleitung_sim-karte.pdf)
-  * [SEPA Lastschriftmandat Formular](/media/filer_public/e3/06/e3061c42-6e26-4c58-8dbd-6b28809005e5/formular_sepa_lastschriftmandat_wetell.pdf)
+  * [SEPA Lastschriftmandat Formular](/media/filer_public/47/52/4752e3f7-6cba-4a56-bb8a-2d431eeb46db/formular_sepa-lastschriftmandat_wetell_bf_2026-07.pdf)
   * [Vertragsübertragung Formular](/media/filer_public/40/40/404007a9-eef8-4953-843e-c99c7f83926f/vertragsuebertragung_bf_2026-03.pdf)
   * [Vermögensanlagen-Informationsblatt\_(VIB3)](/media/filer_public/72/48/72487ba5-b363-44c9-a190-c8b144922faf/vib_wetell_3.pdf)
   * [Vollmacht Ansprechpartner\*innen](/media/filer_public/6f/2b/6f2bb321-7d75-4583-be70-737b6d0c6048/vollmacht_geschaeftlich_bf_2025-11.pdf)

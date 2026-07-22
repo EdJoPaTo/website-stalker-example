@@ -51,7 +51,7 @@ Close
 
 System
 
-* Max 385 - 32GB  €1,429
+* System, Max 385 - 32GB  €1,429
 
   * 8-core/16-thread CPU, up to 5.0GHz
   * 32 Graphics Cores, up to 2.8GHz
@@ -59,7 +59,7 @@ System
 
    
 
-* Max+ 395 - 64GB  €2,209
+* System, Max+ 395 - 64GB  €2,209
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
@@ -67,7 +67,7 @@ System
 
    
 
-* Max+ 395 - 128GB  €3,889
+* System, Max+ 395 - 128GB  €3,889
 
   * 16-core/32-thread CPU, up to 5.1GHz
   * 40 Graphics Cores, up to 2.9GHz
@@ -104,15 +104,15 @@ Close
 
 Primary Storage (M.2 2280)
 
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
-* None (bring your own)
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
+* Primary Storage (M.2 2280), None (bring your own)
 
 **Secondary Storage (M.2 2280)**
 
@@ -131,15 +131,15 @@ Close
 
 Secondary Storage (M.2 2280)
 
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
-* None (bring your own)
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
+* Secondary Storage (M.2 2280), None (bring your own)
 
 **Operating System**
 
@@ -162,9 +162,9 @@ Close
 
 Operating System
 
-* Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
-* Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
-* None (bring your own)
+* Operating System, Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
+* Operating System, Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
+* Operating System, None (bring your own)
 
 **CPU Fan**
 
@@ -195,10 +195,10 @@ Close
 
 CPU Fan
 
-* Cooler Master - Mobius 120  Not available with your other selected options. Reload page to reset. +€20
-* Cooler Master - Mobius 120p ARGB  Not available with your other selected options. Reload page to reset. +€33
-* Noctua - NF-A12x25 HS-PWM  Not available with your other selected options. Reload page to reset. +€33
-* CPU Fan Mounting Kit - 120mm  Not available with your other selected options. Reload page to reset.  (bring your own fan)
+* CPU Fan, Cooler Master - Mobius 120  Not available with your other selected options. Reload page to reset. +€20
+* CPU Fan, Cooler Master - Mobius 120p ARGB  Not available with your other selected options. Reload page to reset. +€33
+* CPU Fan, Noctua - NF-A12x25 HS-PWM  Not available with your other selected options. Reload page to reset. +€33
+* CPU Fan, CPU Fan Mounting Kit - 120mm  Not available with your other selected options. Reload page to reset.  (bring your own fan)
 
 **Power Cable**
 
@@ -221,12 +221,12 @@ Close
 
 Power Cable
 
-* AC Cable - C13 - EU  Not available with your other selected options. Reload page to reset. +€6
-* AC Cable - C13 - US/CA  Not available with your other selected options. Reload page to reset. +€6
-* AC Cable - C13 - AU/NZ  Not available with your other selected options. Reload page to reset. +€6
-* AC Cable - C13 - UK/SG  Not available with your other selected options. Reload page to reset. +€6
-* AC Cable - C13 - TW  Not available with your other selected options. Reload page to reset. +€6
-* None (bring your own)
+* Power Cable, AC Cable - C13 - EU  Not available with your other selected options. Reload page to reset. +€6
+* Power Cable, AC Cable - C13 - US/CA  Not available with your other selected options. Reload page to reset. +€6
+* Power Cable, AC Cable - C13 - AU/NZ  Not available with your other selected options. Reload page to reset. +€6
+* Power Cable, AC Cable - C13 - UK/SG  Not available with your other selected options. Reload page to reset. +€6
+* Power Cable, AC Cable - C13 - TW  Not available with your other selected options. Reload page to reset. +€6
+* Power Cable, None (bring your own)
 
  Customization
 ----------
@@ -237,8 +237,8 @@ Power Cable
 
 Side Panel
 
-* Black  Not available with your other selected options. Reload page to reset.
-* Translucent  Not available with your other selected options. Reload page to reset. +€45
+* Side Panel, Black  Not available with your other selected options. Reload page to reset.
+* Side Panel, Translucent  Not available with your other selected options. Reload page to reset. +€45
 
 **Tiles**
 

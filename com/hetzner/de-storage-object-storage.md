@@ -123,6 +123,14 @@ Made in Germany Hosted DSGVO konform
 Frequently asked questions
 ----------
 
+* **In welchen Anwendungsfällen ist Object Storage besonders gut geeignet?**
+
+  Unser Object Storage-Dienst ist eine hochskalierbare und kostengünstige Lösung für die Speicherung großer Datenmengen. Die S3-kompatible Schnittstelle gewährleistet eine umfassende Kompatibilität mit modernen Anwendungen und Tools.
+
+  Obwohl S3 für vielfältige Anwendungsfälle weit verbreitet ist, eignet sich unsere spezifische Implementierung nicht für alle Szenarien.
+
+  Weitere Informationen darüber findest Du in [unserer Dokumentation](https://docs.hetzner.com/de/storage/object-storage/faq/general/#in-welchen-anwendungsfallen-und-fur-welche-workloads-ist-object-storage-besonders-gut-geeignet).
+
 * **An welchen Standorten ist Object Storage verfügbar?**
 
   Derzeit ist Object Storage an den folgenden Standorten verfügbar: Falkenstein, DE (FSN1), Helsinki, FI (HEL1) und Nürnberg, DE (NBG1).
@@ -174,14 +182,6 @@ Frequently asked questions
 * **Wie hoch sind die Kosten für die Speicherung sehr kleiner Objekte (weniger als 64 KB)?**
 
   Wenn du Object Storage zum Speichern von Objekten verwendest, die kleiner als 64 Kilobytes (KB) sind, solltest du wissen, dass unsere Mindestobjektgröße für die Abrechnung 64 KB beträgt. Du kannst Objekte, die kleiner als 64 KB sind, im Objektspeicher speichern, aber wenn du (zum Beispiel) ein 10 KB großes Objekt speicherst, wird es dir in Rechnung gestellt, als wäre es ein 64 KB großes Objekt.
-
-* **In welchen Anwendungsfällen ist Object Storage besonders gut geeignet?**
-
-  Unser Object Storage-Dienst ist eine hochskalierbare und kostengünstige Lösung für die Speicherung großer Datenmengen. Die S3-kompatible Schnittstelle gewährleistet eine umfassende Kompatibilität mit modernen Anwendungen und Tools.
-
-  Obwohl S3 für vielfältige Anwendungsfälle weit verbreitet ist, eignet sich unsere spezifische Implementierung nicht für alle Szenarien.
-
-  Weitere Informationen darüber findest Du in [unserer Dokumentation](https://docs.hetzner.com/de/storage/object-storage/faq/general/#in-welchen-anwendungsfallen-und-fur-welche-workloads-ist-object-storage-besonders-gut-geeignet).
 
 Lass uns mehr über deine Anforderungen für Object Storage wissen
 

@@ -4,7 +4,7 @@ Your games in
 a whole new light
 ==========
 
-### Steam Deck OLED starts at 13,37€[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com) ###
+### Steam Deck OLED starts at C$ 1,129.00[Get yours](https://store.steampowered.com/app/1675200/Steam_Deck/?utm_source=steamdeck_com) ###
 
 #### An OLED screen with larger picture, better battery life, faster WiFi—
 on top of world class ergonomics and an intuitive console-like experience ####

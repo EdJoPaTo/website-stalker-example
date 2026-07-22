@@ -1496,6 +1496,23 @@ Liegen Ursache und Wirkung für die verspätete Ankunft des Fahrgastes hingegen 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bus-schiff-fahrgastrechte-verspaetung-anschluss)
 
+ Gibt es einen Chatbot auf bahn.de?
+----------
+
+Ja, auf bahn.de wird aktuell **testweise** der **Chatbot Kiana** eingesetzt. Ein Teil angemeldeter Kundinnen und Kunden bekommt Kiana angezeigt und kann dem Chatbot Fragen stellen. Die Anzeige erfolgt zufallsbasiert.
+
+Kiana beantwortet häufig gestellte Fragen zu Angeboten und Services der Deutschen Bahn. Der Chatbot hilft bei einfachen Anliegen schnell weiter und ermöglicht einen unkomplizierten Einstieg in den Kundenservice.
+
+Die Funktionen werden während der Testphase gezielt weiterentwickelt und optimiert.
+
+Derzeit befindet sich Kiana in einer Testphase und wird nur einem Teil der eingeloggten Kundinnen und Kunden angezeigt. Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter “Hilfe & Kontakt” auf bahn.de nicht angezeigt wird, sind Sie aktuell nicht Teil der Testgruppe.
+
+* [Zur Hilfe & Kontakt-Seite](https://www.bahn.de/hilfe)
+
+[Login](https://www.bahn.de/mein-konto)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana)
+
  Are there different age rules for children?
 ----------
 

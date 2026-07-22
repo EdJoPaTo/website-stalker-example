@@ -128,6 +128,10 @@ Häufig gestellte Fragen
 
   Das Filesystem toleriert mehrere gleichzeitige Festplattenausfälle und sobald minimalste Unregelmäßigkeiten entstehen, werden diese sofort ausgetauscht, wodurch die Ausfallwahrscheinlichkeit sehr gering ist. Zusätzlich wird ein Filesystem eingesetzt, welches per Checksummen die Konsistenz der Daten prüft und Fehler automatisch behebt. Die Datenbanken der Instanzen werden in einem Clusterverbund genutzt, wodurch auch hier ein Komplettausfall dieser sehr unwahrscheinlich ist. Mehrere Male am Tag werden zudem Backups erstellt. Wenn die Daten dann auch noch zusätzlich über eine Clientsoftware mit dem lokalen Rechner synchronisiert werden, liegt zusätzlich eine Kopie auch auf Ihrem Rechner.
 
+* **Wie kann ich Backups erstellen?**
+
+  Backups werden automatisch mehrere Male am Tag erstellt. Die Backups liegen auf anderen Host-Systemen als Ihr Storage Share. Sie können ein Backup über konsoleH wiederherstellen, sobald es fertig gestellt wurde.
+
 * **Wie ist die Kontingent Option „unbegrenzt“ gemeint?**
 
   Bei der Speicherkontingenteinstellung eines Nutzers kann die Auswahl „unbegrenzt“ benutzt werden. Dabei handelt es sich nicht um einen Fehler, sondern man besitzt als Nutzer nur ein unbegrenztes Kontingent bis zum Limit seiner kompletten NX.
@@ -145,16 +149,12 @@ Häufig gestellte Fragen
 
   Ja, das Teilen von Daten zwischen unterschiedlichen Servern ist mithilfe der Federated-Cloud-ID möglich. Die Cloud-ID können Sie unter dem Profilbild, auf dem Link „Einstellungen“ und der Option „Teilen“ finden. Danach öffnen Sie das Teilen-Menü des gewünschten Elements. In der Zeile „Name, Federated-Cloud-ID oder E-Mail-Adresse...“ kann die Cloud-ID eingetragen werden. Eine ausgeschriebene Adresse könnte zum Beispiel so aussehen „Admin@nx\*\*\*\*.your-storageshare.de“.
 
-* **Kann das Feature „xyz“ hinzugefügt werden?**
-
-  Das ist leider nicht möglich, da der Storage Share nicht von uns entwickelt wird. Storage Share basiert auf der Open-Source-Software von Nextcloud. Sie können allerdings über das offizielle Github Repository ein Feature Request erstellen: <https://github.com/nextcloud/server/>
-
 * **Können andere Domains als „nx\*.your-storageshare.de“ genutzt werden?**
 
   Eine Aufschaltung einer Subdomain ist über die konsoleH möglich. Legen Sie am besten 24h vorher einen CNAME Eintrag für die entsprechende Subdomain in Ihrer DNS-Verwaltung an. Wählen Sie anschließend in konsoleH die entsprechende Storage Share Instanz und klicken Sie links auf den Punkt "Einstellungen; Konfiguration; Subdomains". Geben Sie dort die vollständige Subdomain (z. B. cloud.example.com), um diese hinzuzufügen. Eine detaillierte Anleitung finden Sie in [Hetzner Docs](https://docs.hetzner.com/de/storage/storage-share/configuration/subdomain).
 
-* **Wie kann ich Backups erstellen?**
+* **Kann das Feature „xyz“ hinzugefügt werden?**
 
-  Backups werden automatisch mehrere Male am Tag erstellt. Die Backups liegen auf anderen Host-Systemen als Ihr Storage Share. Sie können ein Backup über konsoleH wiederherstellen, sobald es fertig gestellt wurde.
+  Das ist leider nicht möglich, da der Storage Share nicht von uns entwickelt wird. Storage Share basiert auf der Open-Source-Software von Nextcloud. Sie können allerdings über das offizielle Github Repository ein Feature Request erstellen: <https://github.com/nextcloud/server/>
 
 [Weitere FAQs](https://docs.hetzner.com/de/storage/storage-share/)
