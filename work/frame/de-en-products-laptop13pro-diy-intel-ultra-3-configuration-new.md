@@ -3,6 +3,18 @@ Framework Laptop 13 Pro
 
  Framework Laptop 13 Pro DIY Edition (Intel® Core™ Ultra Series 3)
 
+[Laptop 13 Pro](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+
+[Laptop 13 ​](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new)
+
+[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+
+[Pre-built Ready to use with Windows or Ubuntu pre-installed.](/de/en/products/laptop13pro-intel-ultra-3/configuration/new)
+
+[Pre-order Intel Core™ Ultra Series 3 Starting at €1,349.00](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+
+[Pre-order AMD Ryzen™ AI 300 Series Starting at €1,579.00](/de/en/products/laptop13pro-diy-amd-ai300/configuration/new)
+
 [View product details](/de/en/laptop13pro?slug=laptop13pro-diy-intel-ultra-3&tab=specs)
 
 Ordering more than 1 computer?
@@ -28,62 +40,25 @@ If you are a business customer, need more than five laptops or desktops per orde
 
  Batch Number  Configure to see batch
 
- FAQ
-
-FAQs
-----------
-
-* What is the difference between the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) and the Framework Laptop 13 Pro (AMD Ryzen™ AI 300 Series)?
-
-  Both AMD and Intel deliver outstanding performance, and choosing between them ultimately comes down to personal preference and platform needs. Laptops powered by Intel® Core™ Ultra Series 3 and AMD Ryzen™ AI 300 Series share the same premium hardware features, including a 74Wh battery, upgraded speakers, a 2.8K touchscreen display, and a haptic touchpad. Intel® Core™ Ultra Series 3 systems add Dolby Atmos® support (currently on Windows 11) and are compatible with LPCAMM2 LPDDR5X memory and M.2 2280 PCIe® 5.0 SSDs, while AMD Ryzen™ AI 300 Series systems are compatible with DDR5-5600 memory and M.2 2280 PCIe® 4.0 SSDs. All configurations come with an optional 3-year limited extended warranty available.
-
-* Can I upgrade my CPU later?
-
-  Yes! If you ever need more performance in the future, you can upgrade to a new Mainboard with a new CPU on it. We publish step-by-step guides you can follow to do the upgrade yourself.
-
-* Which Processor should I choose?
-
-  For everyday multitasking, choose Intel® Core™ Ultra 5 325. It’s a great fit for standard office productivity, handling stacks of browser tabs, video calls, streaming, and day-to-day project management with ease.
-
-  If you need stronger performance for professional workloads, choose Intel® Core™ Ultra 7 358H. In addition to more CPU cores, it offers a significant boost in GPU performance, making a noticeable difference for data-heavy applications, local development environments, multiple Docker containers, and visual or compute-intensive workflows.
-
-  For the most demanding use cases, choose Intel® Core™ Ultra 9 388H. It builds on the Ultra 7 with additional CPU headroom for the heaviest workloads, such as frequent code compilation, full-scale virtualization, and local AI-assisted development, where every bit of extra performance helps.
-
-* What is Wi-Fi 7?
-
-  Wi-Fi 7 is the latest standard that works across all three frequency bands - 2.4GHz, 5GHz, and 6GHz. It allows for even higher throughput and is less congested than Wi-Fi 6E. You'll need a WiFi 7 compatible wireless network to get maximum performance, but the card is compatible with existing 2.4GHz and 5GHz WiFi 6E and older networks.
-
-* What kind of speakers does the Framework Laptop 13 Pro have?
-
-  The Framework Laptop 13 Pro features stereo side-firing speakers rated at 2W per channel, designed to deliver clear, balanced audio with plenty of volume for everyday use like music, video playback, and calls.
-
-* Does the Framework Laptop 13 Pro have a touch display?
-
-  Yes. The Framework Laptop 13 Pro features a 2.8K in-cell touchscreen display with a 13.5″ 3:2 panel at a 2880 × 1920 resolution. It delivers 700nits of typical brightness (600nits minimum), supports a 30–120Hz variable refresh rate, and covers 100% of the sRGB color gamut. The display also includes an ambient contrast ratio surface and per-panel color calibration for consistent, accurate color.
-
-* Can I purchase in volume for my business?
-
-  Currently on our website, pre-orders are limited to 1, but there is no limit on the number of per orders per account. For larger pre-order quantities, please reach out to B2B sales team using our [support form](https://frame.work/framework-for-business).
-
-Close
+[FAQ](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=269&faqable_type=section)
 
 System
 
-* Ultra 5 325  Pre-order  €1,349
+* System, Ultra 5 325  Pre-order  €1,349
   * Up to 4.5GHz, 4+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
    
 
-* Ultra X7 358H  Pre-order  €1,799
+* System, Ultra X7 358H  Pre-order  €1,799
   * Up to 4.8GHz, 4+8+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
    
 
-* Ultra X9 388H  Pre-order  €2,029
+* System, Ultra X9 388H  Pre-order  €2,029
   * Up to 5.1GHz, 4+8+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
@@ -96,32 +71,7 @@ System
 
  Batch Number  Configure to see batch
 
- FAQ
-
-FAQs
-----------
-
-* Can I add more memory or storage later?
-
-  Yes! The Framework Laptop 13 Pro is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step-by-step guides you can follow to do the upgrade yourself.
-
-* What is LPCAMM2 LPDDR5X?
-
-  LPCAMM2 LPDDR5X is a next-generation, removable memory module standard that brings the high speed and power efficiency of LPDDR5X (traditionally soldered RAM) into a compact, upgradable form factor. We offer 16GB, 32GB, and 64GB modules, and you can also bring and use your own compatible LPCAMM2 memory sticks.
-
-* What memory is compatible?
-
-  LPCAMM2 memory is compatible with the Framework Laptop 13 Pro models with Intel® Core™ Ultra Series 3 processors. The supported memory speed for Intel® Core™ Ultra Series 3 processors is up to 7467MT/s, and the system supports configurations of up to 96GB of memory. While memory that meets this standard should work, the LPCAMM2 memory sold in the Framework Marketplace is tested for compatibility
-
-  When choosing between 16GB, 32GB, and 64GB of LPCAMM2 memory, it mainly comes down to how you use your laptop.
-
-  16GB is suitable for most everyday users, handling web browsing, office work, media, and typical multitasking without issue.
-
-  32GB is ideal for more demanding workflows such as software development, heavier multitasking, or photo and video editing.
-
-  64GB is best for specialized or highly memory intensive work like large codebases, professional video editing, 3D work, data analysis, or running multiple virtual machines.
-
-Close
+[FAQ](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=276&faqable_type=section)
 
 LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) runs at speeds up to 7467 MT/s.
 
@@ -129,9 +79,9 @@ Memory
 
  LPCAMM2
 
-* LPCAMM2 - LPDDR5X - 16GB  Not available with your other selected options. Reload page to reset. +€269
-* LPCAMM2 - LPDDR5X - 32GB  Not available with your other selected options. Reload page to reset. +€490
-* None (bring your own)
+* Memory, LPCAMM2 - LPDDR5X - 16GB  Not available with your other selected options. Reload page to reset. +€269
+* Memory, LPCAMM2 - LPDDR5X - 32GB  Not available with your other selected options. Reload page to reset. +€490
+* Memory, None (bring your own)
 
 **Storage**
 
@@ -139,49 +89,21 @@ Memory
 
  Batch Number  Configure to see batch
 
- FAQ
-
-FAQs
-----------
-
-* How much storage should I get?
-
-  How much storage you need depends on what you plan to store and work with on your laptop:
-
-  512GB is a good starting point for most users, with enough space for apps, files, and everyday work.
-
-  1TB is ideal if you work with larger files like photos, videos, games, or local development environments.
-
-  2TB or more is best for heavy storage needs, such as professional media work or keeping large amounts of data stored locally.
-
-  And if your needs change, storage is easy to upgrade later, so you don’t have to decide everything up front.
-
-* What storage drives are compatible?
-
-  The Framework Laptop 13 Pro models with Intel® Core™ Ultra Series 3 processors support a single M.2 2280 PCIe 5.0 NVMe SSD. You can use M.2 2280-sized NVMe SSDs, including PCIe 4.0 drives, which are fully compatible but will operate at PCIe 4.0 speeds. In the Framework Marketplace, we offer SSDs ranging from 500GB to 8TB, while the broader market includes drives from 128GB up to 8TB.
-
-* What's the difference between all the different SSDs (SN7100, SN850X, etc)?
-
-  Framework Laptop 13 Pro with Intel Core Ultra Series 3 processors supports both PCIe Gen 4.0 and Gen 5.0 SSDs.
-  SN850X is Western Digital's top-end SSD, using NVMe Gen4 to support an incredible 7,300MB/s maximum read throughput. SN7100 is a DRAM-less SSD that uses NVMe Gen4 for up to 7,250MB/s maximum read throughput.
-  Phison PS5031-E31T is a Gen 5.0 SSD with much higher read speeds up to 10,300 MB/s, coming with DRAM-less design for better power efficiency, but Gen 5.0 SSDs are still more power consuming than Gen 4.0.
-  If you prioritize speed, choose Gen 5.0. If you care about power efficiency and battery life, choose Gen 4.0.
-
-Close
+[FAQ](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=274&faqable_type=section)
 
 Storage
 
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
-* ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
-* ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€735
-* None (bring your own)
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
+* Storage, ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
+* Storage, ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€735
+* Storage, None (bring your own)
 
 **Operating System**
 
@@ -189,22 +111,13 @@ Storage
 
  Batch Number  Configure to see batch
 
- FAQ
-
-FAQs
-----------
-
-* Which operating system should I choose?
-
-  You can choose the operating system that best fits your needs, Windows 11 and Linux are both supported. For Linux, Ubuntu and Fedora are officially supported with installation guides, and the Framework Community offers additional setup guides for many other distributions; other operating systems like OpenBSD may also work but are community-supported.
-
-Close
+[FAQ](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=268&faqable_type=section)
 
 Operating System
 
-* Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
-* Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
-* None (bring your own)
+* Operating System, Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
+* Operating System, Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
+* Operating System, None (bring your own)
 
  Customization
 ----------
@@ -217,17 +130,17 @@ Operating System
 
 Bezel
 
-* Black  Not available with your other selected options. Reload page to reset.
-* Green  Not available with your other selected options. Reload page to reset.
-* Red  Not available with your other selected options. Reload page to reset.
-* Translucent  Not available with your other selected options. Reload page to reset.
-* Orange  Not available with your other selected options. Reload page to reset. +€10
-* Lavender  Not available with your other selected options. Reload page to reset. +€10
-* Gray  Not available with your other selected options. Reload page to reset. +€10
-* Translucent Orange  Not available with your other selected options. Reload page to reset. +€10
-* Translucent Purple  Not available with your other selected options. Reload page to reset. +€10
-* Translucent Green  Not available with your other selected options. Reload page to reset. +€10
-* Translucent Black  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Black  Not available with your other selected options. Reload page to reset.
+* Bezel, Green  Not available with your other selected options. Reload page to reset.
+* Bezel, Red  Not available with your other selected options. Reload page to reset.
+* Bezel, Translucent  Not available with your other selected options. Reload page to reset.
+* Bezel, Orange  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Lavender  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Gray  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Translucent Orange  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Translucent Purple  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Translucent Green  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Translucent Black  Not available with your other selected options. Reload page to reset. +€10
 
 **Keyboard**
 
@@ -237,32 +150,32 @@ Bezel
 
 Keyboard
 
-* German - Graphite  Not available with your other selected options. Reload page to reset.
-* US English - Graphite  Not available with your other selected options. Reload page to reset.
-* US English - Graphite - Gray/Black  Not available with your other selected options. Reload page to reset. +€10
-* US English - Graphite - Lavender/Black  Not available with your other selected options. Reload page to reset. +€10
-* International English - Graphite  Not available with your other selected options. Reload page to reset.
-* British English - Graphite  Not available with your other selected options. Reload page to reset.
-* French - Graphite  Not available with your other selected options. Reload page to reset.
-* Swedish/Finnish - Graphite  Not available with your other selected options. Reload page to reset.
-* Slovenian/Croatian - Graphite  Not available with your other selected options. Reload page to reset.
-* Belgian - Graphite  Not available with your other selected options. Reload page to reset.
-* Hungarian - Graphite  Not available with your other selected options. Reload page to reset.
-* Swiss - Graphite  Not available with your other selected options. Reload page to reset.
-* Japanese - Graphite  Not available with your other selected options. Reload page to reset.
-* Italian - Graphite  Not available with your other selected options. Reload page to reset.
-* Portuguese - Graphite  Not available with your other selected options. Reload page to reset.
-* Norwegian - Graphite  Not available with your other selected options. Reload page to reset.
-* Danish - Graphite  Not available with your other selected options. Reload page to reset.
-* Traditional Chinese - Graphite  Not available with your other selected options. Reload page to reset.
-* Czech/Slovak - Graphite  Not available with your other selected options. Reload page to reset.
-* Spanish (Spain) - Graphite  Not available with your other selected options. Reload page to reset.
-* French Canadian - Graphite  Not available with your other selected options. Reload page to reset.
-* Spanish (Latin American) - Graphite  Not available with your other selected options. Reload page to reset.
-* Blank ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
-* Clear ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
-* Blank ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
-* Clear ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
+* Keyboard, German - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, US English - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, US English - Graphite - Gray/Black  Not available with your other selected options. Reload page to reset. +€10
+* Keyboard, US English - Graphite - Lavender/Black  Not available with your other selected options. Reload page to reset. +€10
+* Keyboard, International English - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, British English - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, French - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Swedish/Finnish - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Slovenian/Croatian - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Belgian - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Hungarian - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Swiss - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Japanese - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Italian - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Portuguese - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Norwegian - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Danish - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Traditional Chinese - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Czech/Slovak - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Spanish (Spain) - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, French Canadian - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Spanish (Latin American) - Graphite  Not available with your other selected options. Reload page to reset.
+* Keyboard, Blank ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
+* Keyboard, Clear ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
+* Keyboard, Blank ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
+* Keyboard, Clear ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
 
 **Power Adapter**
 
@@ -272,8 +185,8 @@ Keyboard
 
 Power Adapter
 
-* Power Adapter - 100W - EU/KR  Not available with your other selected options. Reload page to reset. +€65
-* None (bring your own)
+* Power Adapter, Power Adapter - 100W - EU/KR  Not available with your other selected options. Reload page to reset. +€65
+* Power Adapter, None (bring your own)
 
  Expansion Cards
 ----------
@@ -284,38 +197,7 @@ Power Adapter
 
  Batch Number  Configure to see batch
 
- FAQ
-
-FAQs
-----------
-
-* What is an Expansion Card?
-
-  Framework Expansion Cards allow you to customize the ports and functionality of the Framework Laptop 13 Pro. Unlike other notebooks that require adapters and dongles to get to the ports you need, you can select the ones you want at order time and change them whenever you’d like. The Framework Laptop 13 Pro supports four simultaneous Expansion Cards, with two on each side. Expansion Cards are hot swappable; simply slide and click them into your Framework Laptop with no tools needed.
-
-* Can I use any Expansion Card in any slot?
-
-  The Framework Laptop 13 Pro supports four simultaneous Expansion Cards, with two on each side. You can select up to four USB-A, USB-C, HDMI, DisplayPort, MicroSD, Ethernet, Audio, 1TB storage, or 250GB storage cards to fit your needs.
-
-* Can I order less than four Expansion Cards?
-
-  You can, but we don't recommend it. There are four Expansion Card slots on the Framework Laptop 13 Pro so we suggest you have one for each.
-
-* Do I need to have a USB-C Expansion Card to charge the Framework Laptop 13 Pro?
-
-  The Framework Laptop 13 Pro charges over USB-C from any one of the four Expansion Card slots. We suggest configuring with at least one USB-C Expansion Card, since it is difficult to directly plug into the recessed USB-C receptacle that is inside the bay.
-
-* Will you be adding additional Expansion Card types?
-
-  Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
-
-* What is the slot compatibility for the Ethernet Expansion Card?
-
-  Ethernet Expansion Cards will work in any Expansion Card slot, but speeds will depend on the Ethernet Expansion Card you use and which slot you connect it to.
-
-  You can check which USB speeds the Expansion Card slots on your Framework product support in [this article](https://fr.mw/Ethernet_ECF).
-
-Close
+[FAQ](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=273&faqable_type=section)
 
 Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13 Pro.
 We suggest ordering 4 or more Expansion Cards, and that at least 1 is a USB-C Expansion Card for charging the laptop.
@@ -346,14 +228,7 @@ Choose colorAluminum - GraphiteAluminum - SilverPlastic - OrangePlastic - Lavend
 
  USB-A (2nd Gen)
 
- Details
-
- USB-A (2nd Gen) Expansion Card
-----------
-
-The USB-A (2nd Gen) Expansion Card detects when no devices are plugged in, letting the system reduce power consumption and improve battery life while giving you access to devices like keyboards, mice, thumb drives, and more using USB-A connections at up to USB 3.2 Gen 2 speeds. Available in silver and graphite.
-
-Close
+[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=401&helpable_type=product)
 
 01234
 
@@ -369,14 +244,7 @@ Choose colorAluminum - GraphiteAluminum - Silver
 
  HDMI (3rd Gen)
 
- Details
-
- HDMI (3rd Gen) Expansion Card
-----------
-
- The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
-
-Close
+[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=138&helpable_type=product)
 
 01234
 
@@ -392,40 +260,19 @@ Choose colorAluminum - GraphiteAluminum - Silver
 
  Ethernet
 
- Details
-
- Ethernet Expansion Card
-----------
-
- Supporting 2.5Gbit/s and 10/100/1000Mbit/s Ethernet, the Ethernet Expansion Card gives you ultra fast and reliable networking over an RJ45 jack. The clear housing lets you peek at the RTL8156 controller that powers it.
-
-Close
+[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=163&helpable_type=variant)
 
  \+€45
 
  WisdPi 10G Ethernet
 
- Details
-
- WisdPi 10G Ethernet Expansion Card
-----------
-
-Developed in partnership with WisdPi, the 10G Ethernet Expansion Card supports 10Gbit/s and 10/100/1000/2500/5000/10000Mbit/s Ethernet so you can have ultra fast and reliable networking over an RJ45 jack. The black translucent housing lets you peek at the RTL8159 controller that powers it.
-
-Close
+[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=1439&helpable_type=variant)
 
  \+€109
 
  DisplayPort (2nd Gen)
 
- Details
-
- DisplayPort (2nd Gen) Expansion Card
-----------
-
- The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
-
-Close
+[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=137&helpable_type=product)
 
 01234
 
@@ -441,14 +288,7 @@ Choose colorAluminum - GraphiteAluminum - Silver
 
  MicroSD (2nd Gen)
 
- Details
-
- MicroSD Expansion Card
-----------
-
-Supporting MicroSD UHS-I and UHS-II cards. Designed to reduce power consumption when a card is not inserted.
-
-Close
+[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=339&helpable_type=product)
 
 01234
 
@@ -464,14 +304,7 @@ Choose colorAluminum - GraphiteAluminum - Silver
 
  SD
 
- Details
-
- SD Expansion Card
-----------
-
-The SD Expansion Card supports UHS-I and UHS-II, letting you transfer data to and from SD Cards of all available capacities.
-
-Close
+[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=181&helpable_type=product)
 
 01234
 

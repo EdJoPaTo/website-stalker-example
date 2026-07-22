@@ -3,6 +3,10 @@ Framework Laptop 12
 
  Framework Laptop 12 DIY Edition (13th Gen Intel® Core™)
 
+[DIY Edition Build it yourself and bring your OS, including Linux. Available in multiple colors.](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
+
+[Pre-built Ready to use with Windows pre-installed. Available in Black.](/de/en/products/laptop12-intel-13gen/configuration/new)
+
 [View product details](/de/en/laptop12?slug=laptop12-diy-intel-13gen&tab=specs)
 
 Ordering more than 1 computer?
@@ -28,23 +32,23 @@ If you are a business customer, need more than five laptops or desktops per orde
 
 Color
 
-* Black
+* Color, Black
 
    
 
-* Gray
+* Color, Gray
 
    
 
-* Lavender
+* Color, Lavender
 
    
 
-* Bubblegum
+* Color, Bubblegum
 
    
 
-* Sage
+* Color, Sage
 
    
 
@@ -52,38 +56,17 @@ Color
 
  Choose an option
 
- FAQ
-
-FAQs
-----------
-
-* Can I purchase in volume for my business?
-
-  Currently, we only allow one laptop per pre-order, but there is no limit on the number of pre-orders per account. Once a configuration is in stock, you can add up to five laptops per order. If you need more or have special requests, please contact us through our [support form](%{framework_for_business_url}#contact-us) and we’ll reach out to you.
-
-* Can I upgrade my CPU later?
-
-  Yes! If you ever need more performance in the future, you can upgrade to a new Mainboard with a new CPU on it. We publish step-by-step guides you can follow to do the upgrade yourself.
-
-* Which Processor should I choose?
-
-  For light workloads, the i3-1315U should be sufficient. For heavier multitasking or more graphics-intensive programs, the i5-1334U may be better suited for you.
-
-* What Wi-Fi modules are compatible?
-
-  M.2 2230 Wi-Fi modules supporting PCIe, USB and up to WiFi 6E should work. Intel AX211 Wi-Fi 6E is tested for compatibility.
-
-Close
+[FAQ](/de/en/products/laptop12-diy-intel-13gen/faq?faqable_id=189&faqable_type=section)
 
 System
 
-* i3-1315U  €569
+* System, i3-1315U  €569
 
   * Up to 4.5GHz, 2+4 cores
 
    
 
-* i5-1334U  €739
+* System, i5-1334U  €739
 
   * Up to 4.6GHz, 2+8 cores
 
@@ -93,34 +76,17 @@ System
 
  Choose an option
 
- FAQ
-
-FAQs
-----------
-
-* What model of memory is offered in the Framework Laptop 12?
-
-  We offer Framework-branded DDR5-5600 modules, but in Framework Laptop 12, they are only able to run at DDR5-5200 speed.
-
-* Can I add more memory or storage later?
-
-  Yes! The Framework Laptop 12 is fully upgradeable, so you can easily add more memory or storage at any point in the future if you need to. We sell these modules in the Framework Marketplace, but you can also pick up compatible modules elsewhere. We publish step-by-step guides you can follow to do the upgrade yourself.
-
-* What memory is compatible?
-
-  There is 1x DDR5 SO-DIMM slot in the Framework Laptop 12. This means you can use up to 48GB of DDR5-5200 memory. While memory that meets that standard should work, the memory we sell in the Framework Marketplace is tested for compatibility, and we offer a mix of memory brands to ensure supply availability. We recommend avoiding XMP DDR5.
-
-Close
+[FAQ](/de/en/products/laptop12-diy-intel-13gen/faq?faqable_id=188&faqable_type=section)
 
 Runs at DDR5-5200 speed on Framework Laptop 12.
 
 Memory
 
-* DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€179
-* DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€262
-* DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
-* DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€789
-* None (bring your own)
+* Memory, DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€179
+* Memory, DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€262
+* Memory, DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
+* Memory, DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€789
+* Memory, None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
 
@@ -128,44 +94,26 @@ Memory
 
  Choose an option
 
- FAQ
-
-FAQs
-----------
-
-* What storage drives are compatible?
-
-  You can use any M.2 2230-sized NVMe™ SSD in the Framework Laptop 12. We have drives from 500GB up to 2TB available in the Framework Marketplace, and drives ranging from 128GB to 8TB are available from other brands. While drives from other brands should work, we've focused our compatibility testing on Western Digital's SN770M SSD.
-
-Close
+[FAQ](/de/en/products/laptop12-diy-intel-13gen/faq?faqable_id=192&faqable_type=section)
 
 Storage
 
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB  Not available with your other selected options. Reload page to reset. +€285
-* WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB  Not available with your other selected options. Reload page to reset. +€552
-* None (bring your own)
+* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB  Not available with your other selected options. Reload page to reset. +€150
+* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB  Not available with your other selected options. Reload page to reset. +€285
+* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB  Not available with your other selected options. Reload page to reset. +€552
+* Storage, None (bring your own)
 
 **Operating System**
 
  Choose an option
 
- FAQ
-
-FAQs
-----------
-
-* Can I install Linux?
-
-  Yes! We have installation guides for Fedora, Ubuntu, and Bazzite. Additionally, the Framework Community has community-edited setup guides for more Linux distributions.
-
-Close
+[FAQ](/de/en/products/laptop12-diy-intel-13gen/faq?faqable_id=193&faqable_type=section)
 
 Operating System
 
-* Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
-* Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
-* None (bring your own)
+* Operating System, Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
+* Operating System, Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
+* Operating System, None (bring your own)
 
  Customization
 ----------
@@ -174,38 +122,29 @@ Operating System
 
  Choose an option
 
- FAQ
-
-FAQs
-----------
-
-* Can I replace the keyboard?
-
-  Yes! If you ever want to to move to a different keyboard language or need to replace your keyboard for any other reason, you can do that. Both individual keyboards and replacement Input Covers are available in the Framework Marketplace.
-
-Close
+[FAQ](/de/en/products/laptop12-diy-intel-13gen/faq?faqable_id=191&faqable_type=section)
 
 Keyboard
 
-* German - Gray  Not available with your other selected options. Reload page to reset.
-* International English - Gray  Not available with your other selected options. Reload page to reset.
-* British English - Gray  Not available with your other selected options. Reload page to reset.
-* US English - Gray  Not available with your other selected options. Reload page to reset.
-* US English - Lavender  Not available with your other selected options. Reload page to reset.
-* French Canadian - Gray  Not available with your other selected options. Reload page to reset.
-* Spanish (Spain) - Gray  Not available with your other selected options. Reload page to reset.
-* Spanish (Latin America) - Gray  Not available with your other selected options. Reload page to reset.
-* French - Gray  Not available with your other selected options. Reload page to reset.
-* Italian - Gray  Not available with your other selected options. Reload page to reset.
-* Belgian - Gray  Not available with your other selected options. Reload page to reset.
-* Korean - Gray  Not available with your other selected options. Reload page to reset.
-* Traditional Chinese (Cangjie & Zhuyin) - Gray  Not available with your other selected options. Reload page to reset.
-* Swedish/Finnish - Gray  Not available with your other selected options. Reload page to reset.
-* Danish - Gray  Not available with your other selected options. Reload page to reset.
-* Hungarian - Gray  Not available with your other selected options. Reload page to reset.
-* Slovenian - Gray  Not available with your other selected options. Reload page to reset.
-* Czech/Slovak - Gray  Not available with your other selected options. Reload page to reset.
-* Portuguese - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, German - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, International English - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, British English - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, US English - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, US English - Lavender  Not available with your other selected options. Reload page to reset.
+* Keyboard, French Canadian - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Spanish (Spain) - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Spanish (Latin America) - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, French - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Italian - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Belgian - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Korean - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Traditional Chinese (Cangjie & Zhuyin) - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Swedish/Finnish - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Danish - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Hungarian - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Slovenian - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Czech/Slovak - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, Portuguese - Gray  Not available with your other selected options. Reload page to reset.
 
 **Power Adapter**
 
@@ -213,9 +152,9 @@ Keyboard
 
 Power Adapter
 
-* Power Adapter - 60W - EU  Not available with your other selected options. Reload page to reset. +€49
-* Power Adapter - 60W - UK/SG  Not available with your other selected options. Reload page to reset. +€49
-* None (bring your own)
+* Power Adapter, Power Adapter - 60W - EU  Not available with your other selected options. Reload page to reset. +€49
+* Power Adapter, Power Adapter - 60W - UK/SG  Not available with your other selected options. Reload page to reset. +€49
+* Power Adapter, None (bring your own)
 
  Expansion Cards
 ----------
@@ -224,42 +163,7 @@ Power Adapter
 
  Choose any number
 
- FAQ
-
-FAQs
-----------
-
-* What is an Expansion Card?
-
-  Framework Expansion Cards allow you to customize the ports and functionality of the Framework Laptop 12. Unlike other notebooks that require adapters and dongles to get to the ports you need, you can select the ones you want at order time and change them whenever you’d like. The Framework Laptop 12 supports four simultaneous Expansion Cards, with two on each side. Expansion Cards are hot swappable; simply slide and click them into your Framework Laptop with no tools needed.
-
-* Can I order less than four Expansion Cards?
-
-  You can, but we don't recommend it. There are four Expansion Card slots on the Framework Laptop 12, so we suggest using one in each slot.
-
-* Will you be adding additional Expansion Card types?
-
-  Yes! We'll be adding new Expansion Cards over time, and we've also opened up the design to enable third parties and community members to create their own versions. We'll be making these available in the Framework Marketplace over time.
-
-* Do I need to have a USB-C Expansion Card to charge the Framework Laptop 12?
-
-  The Framework Laptop 12 charges over USB-C from any one of the four Expansion Card slots. We suggest configuring with at least one USB-C Expansion Card since it is difficult to directly plug into the recessed USB-C charging port inside the bay.
-
-* Can I use any Expansion Card in any slot?
-
-  The Framework Laptop 12 supports four simultaneous Expansion Cards, with two on each side. You can select up to four USB-A, USB-C, HDMI, DisplayPort, MicroSD, Ethernet, 1TB storage, or 250GB storage cards to fit your needs. The Framework Laptop 12 comes with a 3.5mm built-in audio jack, so you probably don't need the Audio Expansion Card.
-
-* Why are the Storage Expansion Cards different generations?
-
-  1st Gen was slightly faster than 2nd Gen, but we switched due to the original flash chip being discontinued. Now that 2nd Gen's flash parts are also nearing end of life, our supplier has secured more of the original 1st Gen chips, allowing us to resume its production.
-
-* What is the slot compatibility for the Ethernet Expansion Card?
-
-  Ethernet Expansion Cards will work in any Expansion Card slot, but speeds will depend on the Ethernet Expansion Card you use and which slot you connect it to.
-
-  You can check which USB speeds the Expansion Card slots on your Framework product support in [this article](https://fr.mw/Ethernet_ECF).
-
-Close
+[FAQ](/de/en/products/laptop12-diy-intel-13gen/faq?faqable_id=187&faqable_type=section)
 
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 12.
 
@@ -315,92 +219,43 @@ Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlas
 
  USB-A (2nd Gen)
 
- Details
-
- USB-A (2nd Gen) Expansion Card
-----------
-
-The USB-A (2nd Gen) Expansion Card detects when no devices are plugged in, letting the system reduce power consumption and improve battery life while giving you access to devices like keyboards, mice, thumb drives, and more using USB-A connections at up to USB 3.2 Gen 2 speeds. Available in silver and graphite.
-
-Close
+[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=1456&helpable_type=variant)
 
  \+€10
 
  HDMI (3rd Gen)
 
- Details
-
- HDMI (3rd Gen) Expansion Card
-----------
-
- The HDMI (3rd Gen) Expansion Card has been reoptimized to reduce system power consumption, improving battery life. Supports HDMI 2.0b for resolutions up to 4k 60Hz, along with audio output.
-
-Close
+[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=442&helpable_type=variant)
 
  \+€20
 
  Ethernet
 
- Details
-
- Ethernet Expansion Card
-----------
-
- Supporting 2.5Gbit/s and 10/100/1000Mbit/s Ethernet, the Ethernet Expansion Card gives you ultra fast and reliable networking over an RJ45 jack. The clear housing lets you peek at the RTL8156 controller that powers it.
-
-Close
+[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=163&helpable_type=variant)
 
  \+€45
 
  WisdPi 10G Ethernet
 
- Details
-
- WisdPi 10G Ethernet Expansion Card
-----------
-
-Developed in partnership with WisdPi, the 10G Ethernet Expansion Card supports 10Gbit/s and 10/100/1000/2500/5000/10000Mbit/s Ethernet so you can have ultra fast and reliable networking over an RJ45 jack. The black translucent housing lets you peek at the RTL8159 controller that powers it.
-
-Close
+[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=1439&helpable_type=variant)
 
  \+€109
 
  DisplayPort (2nd Gen)
 
- Details
-
- DisplayPort (2nd Gen) Expansion Card
-----------
-
- The DisplayPort (2nd Gen) Expansion Card has optimized firmware to reduce system power consumption, improving laptop battery life.
-
-Close
+[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=441&helpable_type=variant)
 
  \+€20
 
  MicroSD (2nd Gen)
 
- Details
-
- MicroSD Expansion Card
-----------
-
-Supporting MicroSD UHS-I and UHS-II cards. Designed to reduce power consumption when a card is not inserted.
-
-Close
+[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=1008&helpable_type=variant)
 
  \+€20
 
  SD
 
- Details
-
- SD Expansion Card
-----------
-
-The SD Expansion Card supports UHS-I and UHS-II, letting you transfer data to and from SD Cards of all available capacities.
-
-Close
+[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=553&helpable_type=variant)
 
  \+€29
 
