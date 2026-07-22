@@ -3,18 +3,6 @@ Framework Laptop 13 ​
 
  Framework Laptop 13 DIY Edition (AMD Ryzen™ AI 300 Series)
 
-[Laptop 13 Pro](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
-
-[Laptop 13 ​](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
-
-[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
-
-[Pre-built Ready to use with Windows pre-installed. Out of stock](#)
-
-[9% off AI 300 Series Starting at €959.00 was: €1,059](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
-
-[13% off Ultra Series 1 Starting at €899.00 was: €1,029](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new)
-
 [View product details](/de/en/laptop13?slug=laptop13-diy-amd-ai300&tab=specs)
 
 Ordering more than 1 computer?
@@ -89,12 +77,12 @@ Memory
 
 * Memory, DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€179
 * Memory, DDR5-5600 - 16GB (2 x 8GB)  Not available with your other selected options. Reload page to reset. +€358
-* Memory, DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€262
-* Memory, DDR5-5600 - 32GB (2 x 16GB)  Not available with your other selected options. Reload page to reset. +€524
+* Memory, DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€279
+* Memory, DDR5-5600 - 32GB (2 x 16GB)  Not available with your other selected options. Reload page to reset. +€558
 * Memory, DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
 * Memory, DDR5-5600 - 64GB (2 x 32GB)  Not available with your other selected options. Reload page to reset. +€904
-* Memory, DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€789
-* Memory, DDR5-5600 - 96GB (2 x 48GB)  Not available with your other selected options. Reload page to reset. +€1,578
+* Memory, DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€735
+* Memory, DDR5-5600 - 96GB (2 x 48GB)  Not available with your other selected options. Reload page to reset. +€1,470
 * Memory, None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
@@ -108,13 +96,13 @@ Memory
 Storage
 
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
 * Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
 * Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€2,535
 * Storage, None (bring your own)
 
 **Operating System**

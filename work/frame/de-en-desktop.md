@@ -16,6 +16,8 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 
 [Overview](?tab=overview)
 
+[192GB coming soon](?tab=192gb-coming-soon)
+
 [Specs](?tab=specs)
 
 [Gaming](?tab=gaming)

@@ -83,9 +83,9 @@ Runs at DDR5-5200 speed on Framework Laptop 12.
 Memory
 
 * Memory, DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€179
-* Memory, DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€262
+* Memory, DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€279
 * Memory, DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
-* Memory, DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€789
+* Memory, DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€735
 * Memory, None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).

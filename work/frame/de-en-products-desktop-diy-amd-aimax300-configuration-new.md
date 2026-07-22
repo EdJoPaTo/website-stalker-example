@@ -63,13 +63,13 @@ System
 Primary Storage (M.2 2280)
 
 * Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
 * Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
-* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
 * Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
 * Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€2,535
 * Primary Storage (M.2 2280), None (bring your own)
 
 **Secondary Storage (M.2 2280)**
@@ -81,13 +81,13 @@ Primary Storage (M.2 2280)
 Secondary Storage (M.2 2280)
 
 * Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
 * Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
-* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
 * Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
 * Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€2,535
 * Secondary Storage (M.2 2280), None (bring your own)
 
 **Operating System**

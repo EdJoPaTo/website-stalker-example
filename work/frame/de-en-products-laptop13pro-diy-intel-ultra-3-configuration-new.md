@@ -3,18 +3,6 @@ Framework Laptop 13 Pro
 
  Framework Laptop 13 Pro DIY Edition (Intel® Core™ Ultra Series 3)
 
-[Laptop 13 Pro](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
-
-[Laptop 13 ​](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new)
-
-[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
-
-[Pre-built Ready to use with Windows or Ubuntu pre-installed.](/de/en/products/laptop13pro-intel-ultra-3/configuration/new)
-
-[Pre-order Intel Core™ Ultra Series 3 Starting at €1,349.00](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
-
-[Pre-order AMD Ryzen™ AI 300 Series Starting at €1,579.00](/de/en/products/laptop13pro-diy-amd-ai300/configuration/new)
-
 [View product details](/de/en/laptop13pro?slug=laptop13pro-diy-intel-ultra-3&tab=specs)
 
 Ordering more than 1 computer?
@@ -51,7 +39,7 @@ System
 
    
 
-* System, Ultra X7 358H  Pre-order  €1,799
+* System, Ultra X7 358H  Pre-order  €1,909
   * Up to 4.8GHz, 4+8+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
@@ -77,10 +65,9 @@ LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) r
 
 Memory
 
- LPCAMM2
-
 * Memory, LPCAMM2 - LPDDR5X - 16GB  Not available with your other selected options. Reload page to reset. +€269
-* Memory, LPCAMM2 - LPDDR5X - 32GB  Not available with your other selected options. Reload page to reset. +€490
+* Memory, LPCAMM2 - LPDDR5X - 32GB  Not available with your other selected options. Reload page to reset. +€895
+* Memory, LPCAMM2 - LPDDR5X - 64GB  Not available with your other selected options. Reload page to reset. +€1,790
 * Memory, None (bring your own)
 
 **Storage**
@@ -94,13 +81,13 @@ Memory
 Storage
 
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€295
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€745
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€300
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
 * Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
 * Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€3,405
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€2,535
 * Storage, ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
 * Storage, ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€735
 * Storage, None (bring your own)
