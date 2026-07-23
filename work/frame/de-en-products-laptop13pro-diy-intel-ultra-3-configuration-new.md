@@ -209,7 +209,7 @@ Most popular combination
 
 Quick select
 
- Port Expansion Cards
+ Additional Port Expansion Cards
 
  USB-C  New colors available
 
