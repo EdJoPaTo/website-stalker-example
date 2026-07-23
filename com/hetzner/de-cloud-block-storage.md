@@ -89,5 +89,3 @@ Dedicated: General Purpose
 startet ab  max/mo.
 
 [Produkt entdecken](https://www.hetzner.com/cloud/general-purpose/)
-
-[Jetzt loslegen](https://console.hetzner.com/projects)

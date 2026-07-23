@@ -6,6 +6,8 @@ BEI NACHT
 
 [dein ticket sichern](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
+[Booklet und strecke](https://www.megamarsch.de/hamburg-bei-nacht)
+
 Zwischen Elbe und Alster –
 50 km Lichtermeer in der Nacht
 ----------
@@ -77,14 +79,33 @@ Bei einem 50 km Finish
 
 [SICHERE DIR JETZT DEIN TICKET!](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
+booklet
+----------
+
+1
+
+2
+
+7
+
+1
+
+1/7
+
+[booklet zum downloaden](https://www.megamarsch.de/_files/ugd/c7d428_bbeaf40166e948539ba0fbbb7206640d.pdf)
+
+[allgemeines handbuch](https://www.megamarsch.de/_files/ugd/c7d428_8f37dfbb21064d439a4d687dc9395de8.pdf)
+
 STRECKE
 ----------
 
 ###### - ca. 180 HÖHENMETER - ######
 
-###### 2 WOCHEN VOR DEM EVENT ######
+[](https://www.komoot.com/de-de/tour/2531967825)
 
-...stellen wir Euch die Strecke als Download für Komoot zur Verfügung. Die Strecke ist vorübergehend und kann sich z.B. auf Grund von behördlichen Auflagen oder organisatorischen Gründen noch ändern.
+[strecke bei komoot](https://www.komoot.com/de-de/tour/2531967825)
+
+[gpx datei der strecke](https://82b24694-136f-40db-acbc-2df764536893.filesusr.com/ugd/c7d428_1e98db5f8b4f466bb73e4d879480d5a3.gpx?dn=2026-07-21_2531967825_Megamarsch%20Hamburg%20bei%20Nacht%202026.gpx)
 
 ###### 2 TAGE VOR DEM EVENT ######
 

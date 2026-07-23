@@ -1489,7 +1489,7 @@ Kiana beantwortet häufig gestellte Fragen zu Angeboten und Services der Deutsch
 
 Die Funktionen werden während der Testphase gezielt weiterentwickelt und optimiert.
 
-Derzeit befindet sich Kiana in einer Testphase und wird nur einem Teil der eingeloggten Kundinnen und Kunden angezeigt. Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter “Hilfe & Kontakt” auf bahn.de nicht angezeigt wird, sind Sie aktuell nicht Teil der Testgruppe.
+Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter “Hilfe & Kontakt” auf bahn.de nicht angezeigt wird, sind Sie aktuell nicht Teil der Testgruppe.
 
 * [Zur Hilfe & Kontakt-Seite](https://www.bahn.de/hilfe)
 
@@ -5835,13 +5835,16 @@ Prämienpunkte, die Sie bei BahnBonus Sammelpartnern sammeln, werden Ihnen inner
  Wann habe ich Anspruch auf eine Übernachtung und werden mir die Kosten erstattet?
 ----------
 
-Wird wegen eines Zugausfalls oder einer -verspätung eine Übernachtung erforderlich oder ist die Fortsetzung der Fahrt am selben Tag nicht zumutbar, werden Ihnen angemessene Übernachtungskosten erstattet.
+Ja, Sie haben Anspruch auf eine Übernachtung und die Erstattung der Kosten, wenn eine Übernachtung wegen eines Zugausfalls oder einer -verspätung erforderlich wird und die Fortsetzung der Fahrt am selben Tag nicht zumutbar ist.
 
-Voraussetzung ist, dass das Eisenbahnunternehmen keine Übernachtungsmöglichkeit zur Verfügung stellt und Sie mit dem Eisenbahnunternehmen aus von diesem zu vertretenden Gründen nicht in Kontakt treten können (Kontaktaufnahme vor Ort mit DB Verkaufsstelle, DB Information oder Personal des genutzten Zuges).
+In diesen Fällen haben Sie Anspruch die Erstattung angemessener Übernachtungskosten:
 
-Stellt Ihnen das Eisenbahnunternehmen eine Übernachtungsmöglichkeit zur Verfügung, hat dies Vorrang vor einer selbstorganisierten Alternative. Sollten Sie in diesem Fall dennoch selbst eine Übernachtung organisieren, besteht kein Anspruch auf Erstattung der Kosten hierfür.
+* Wenn das Eisenbahnunternehmen keine Übernachtungsmöglichkeit bereitstellt und
+* Sie das Eisenbahnunternehmen aus Gründen, die das Unternehmen zu verantworten hat, nicht erreichen können (z.B. keine Mitarbeitenden des genutzten Zuges vor Ort verfügbar oder keine Verkaufsstelle oder DB Information erreichbar).
 
-*
+In diesem Fall haben Sie keinen Anspruch auf Erstattung:
+
+* Wenn das Eisenbahnunternehmen eine Übernachtungsmöglichkeit stellt, müssen Sie dieses Angebot nutzen. Organisieren Sie in diesem Fall selbst eine Übernachtung, haben Sie keinen Anspruch auf Erstattung der Kosten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-habe-ich-anspruch-auf-eine-uebernachtung-und-werden-mir-die-kosten-erstattet)
 

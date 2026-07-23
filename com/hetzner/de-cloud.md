@@ -31,7 +31,7 @@ Begrenzt verfügbar
 
 startet ab  max/mo.
 
-[Tarif entdecken](https://www.hetzner.com/de/cloud/cost-optimized)
+[Tarif entdecken](https://www.hetzner.com/de/cloud/cost-optimized/)
 
  Bestes Preis-Leistungs-Verhältnis
 
@@ -45,7 +45,7 @@ startet ab  max/mo.
 
 startet ab  max/mo.
 
-[Tarif entdecken](https://www.hetzner.com/de/cloud/regular-performance)
+[Tarif entdecken](https://www.hetzner.com/de/cloud/regular-performance/)
 
 **Dedicated** Resources
 
@@ -61,7 +61,7 @@ startet ab  max/mo.
 
 startet ab  max/mo.
 
-[Tarif entdecken](https://www.hetzner.com/de/cloud/general-purpose)
+[Tarif entdecken](https://www.hetzner.com/de/cloud/general-purpose/)
 
 **Shared** Resources
 
@@ -79,7 +79,7 @@ Begrenzt verfügbar
 
 startet ab  max/mo.
 
-[Tarif entdecken](https://www.hetzner.com/de/cloud/cost-optimized)
+[Tarif entdecken](https://www.hetzner.com/de/cloud/cost-optimized/)
 
 **Shared** Resources
 
@@ -95,7 +95,7 @@ startet ab  max/mo.
 
 startet ab  max/mo.
 
-[Tarif entdecken](https://www.hetzner.com/de/cloud/regular-performance)
+[Tarif entdecken](https://www.hetzner.com/de/cloud/regular-performance/)
 
 **Dedicated** Resources
 
@@ -111,7 +111,7 @@ startet ab  max/mo.
 
 startet ab  max/mo.
 
-[Tarif entdecken](https://www.hetzner.com/de/cloud/general-purpose)
+[Tarif entdecken](https://www.hetzner.com/de/cloud/general-purpose/)
 
 ### Shared vs. Dedicated Cloud: Welche Ressourcen passen zu deinem Setup? ###
 

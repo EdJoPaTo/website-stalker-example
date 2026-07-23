@@ -1,4 +1,4 @@
-Gemeinwohlorientierter Mobilfunk - WEtell
+WEtell Mobilfunk - WEtell
 
 [Login](https://mein.wetell.de/)
 
