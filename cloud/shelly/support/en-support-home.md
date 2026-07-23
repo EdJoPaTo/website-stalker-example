@@ -15,7 +15,7 @@ Shelly Birthday Campaign 2026 EU
 **Please check before opening an order-related ticket** Campaign discounts are up to **40%**. Products marked with the **NEW** badge are excluded from the main campaign discount. An **8% discount for NEW products** is available only for Shelly VIP List customers through a coupon code in the VIP profile.
 
 * Discount vouchers, codes, and coupons cannot be combined with campaign-discounted products.
-* Orders of at least **€200** after discounts, excluding shipping fees, may receive one free gift product while stocks last.
+* Orders of at least **€200** after all discounts, excluding shipping fees and including VAT where applicable, may receive one free gift product while stocks last.
 * The free gift can be removed from the cart if it is not needed.
 * If an order is cancelled or returned and no longer meets the gift requirement, the gift must also be returned or may be charged at its regular price.
 * **Courier delays may occur during the campaign.** Delivery times may be longer than usual due to increased order volume.
@@ -24,12 +24,14 @@ Shelly Birthday Campaign 2026 EU
 
 **Free shipping conditions**
 
-* **Bulgaria, Austria, Belgium:** free shipping for orders over **€50** / **97,79 лв**.
-* **Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland:** free shipping for orders over **€79**. For Poland: above **330 zł**.
-* **Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and other eligible European countries:** free shipping for orders over **€150** / **293,37 лв**.
+* **Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden:** free shipping for orders above **€150**.
+* **Bulgaria:** free shipping for orders above **€50**.
+* **Germany:** free shipping for orders above **€79**.
+* **Italy:** free shipping for orders above **€79**.
+* **Poland:** free shipping for orders above **330 zł**.
 * Customs duties and other non-shipping fees are not covered.
 
- For full details, please review the campaign Terms and Conditions on [www.shelly.com](https://www.shelly.com) before submitting an order-related ticket.
+ For full details, please review the campaign [Terms and Conditions](https://www.shelly.com/pages/shelly-birthday-terms) before submitting an order-related ticket.
 
 Knowledge base
 ----------
