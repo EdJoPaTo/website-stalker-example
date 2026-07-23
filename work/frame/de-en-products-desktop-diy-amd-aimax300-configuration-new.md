@@ -52,6 +52,8 @@ System
   * 40 Graphics Cores, up to 2.9GHz
   * 128GB of non-upgradeable LPDDR5x
 
+   Backordered - Ships in 2 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
+
    
 
 **Primary Storage (M.2 2280)**
@@ -330,6 +332,6 @@ Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePla
 
  Add to Bag  Add pre-order to bag
 
- Ships within 5 business days - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions. [Limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Some options delay shipping [Limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
 
  Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders

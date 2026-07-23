@@ -3,6 +3,18 @@ Framework Laptop 13 Pro
 
  Framework Laptop 13 Pro DIY Edition (Intel® Core™ Ultra Series 3)
 
+[Laptop 13 Pro](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+
+[Laptop 13 ​](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new)
+
+[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+
+[Pre-built Ready to use with Windows or Ubuntu pre-installed.](/de/en/products/laptop13pro-intel-ultra-3/configuration/new)
+
+[Pre-order Intel Core™ Ultra Series 3 Starting at €1,349.00](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+
+[Pre-order AMD Ryzen™ AI 300 Series Starting at €1,579.00](/de/en/products/laptop13pro-diy-amd-ai300/configuration/new)
+
 [View product details](/de/en/laptop13pro?slug=laptop13pro-diy-intel-ultra-3&tab=specs)
 
 Ordering more than 1 computer?
