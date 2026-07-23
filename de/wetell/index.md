@@ -1,4 +1,4 @@
-Endlich grünfunken - WEtell
+Gemeinwohlorientierter Mobilfunk - WEtell
 
 [Login](https://mein.wetell.de/)
 
