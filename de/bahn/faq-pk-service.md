@@ -1485,11 +1485,11 @@ Liegen Ursache und Wirkung für die verspätete Ankunft des Fahrgastes hingegen 
 
 Ja, auf bahn.de wird aktuell **testweise** der **Chatbot Kiana** eingesetzt. Ein Teil angemeldeter Kundinnen und Kunden bekommt Kiana angezeigt und kann dem Chatbot Fragen stellen. Die Anzeige erfolgt zufallsbasiert.
 
-Kiana beantwortet häufig gestellte Fragen zu Angeboten und Services der Deutschen Bahn. Der Chatbot hilft bei einfachen Anliegen schnell weiter und ermöglicht einen unkomplizierten Einstieg in den Kundenservice.
+Kiana informiert **in Echtzeit** über **Fahrplanänderungen**, **Angebote und Services** der Deutschen Bahn. Mit dem Chatbot können Sie **Verbindungen suchen, Fahrtzeiten abfragen, Routen planen, Fragen zu Bahnhöfen, Öffnungszeiten oder Services vor Ort stellen** sowie Informationen unter anderem zur **Barrierefreiheit** und zum **Deutschland-Ticket** erhalten.
 
 Die Funktionen werden während der Testphase gezielt weiterentwickelt und optimiert.
 
-Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter “Hilfe & Kontakt” auf bahn.de nicht angezeigt wird, sind Sie aktuell nicht Teil der Testgruppe.
+Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter "Hilfe & Kontakt" auf bahn.de nicht angezeigt wird, sind Sie aktuell nicht Teil der Testgruppe.
 
 * [Zur Hilfe & Kontakt-Seite](https://www.bahn.de/hilfe)
 
