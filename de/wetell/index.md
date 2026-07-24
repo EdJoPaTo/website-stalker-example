@@ -77,6 +77,7 @@ Menü [](https://www.wetell.de/)
   * [Optionen](https://www.wetell.de/fuers-business/businesstarife/optionen/)
     * [FAIRstärker](https://www.wetell.de/fuers-business/businesstarife/optionen/fairstarker/)
     * [EasyTravel](https://www.wetell.de/fuers-business/businesstarife/optionen/easytravel/)
+    * [Travel eSIM](https://www.wetell.de/mobilfunk/optionen/travelesim/)
     * [OneNumber](https://www.wetell.de/fuers-business/businesstarife/optionen/onenumber/)
 
   * [Wechselservice](https://www.wetell.de/fuers-business/businesstarife/wechselservice/)

@@ -3,7 +3,10 @@ Weitere gegebenfalls günstigere Angebote, die nicht online buchbar sind
 
 Weitere gegebenfalls günstigere Angebote, die nicht online buchbar sind
 
-Hier finden Sie weitere Angebote/Aktionen - sortiert nach Bundesland und deutschlandweit - die für Ihren konkreten Reisewunsch den gegebenenfalls günstigeren Fahrpreis darstellen können, jedoch online nicht buchbar sind.
+Alle Informationen zu weiteren Angeboten und Aktionen
+----------
+
+Hier finden Sie weitere Angebote/Aktionen – sortiert nach Bundesland und deutschlandweit – die für Ihren konkreten Reisewunsch den gegebenenfalls günstigeren Fahrpreis darstellen können, jedoch online nicht buchbar sind.
 
 Deutschlandweit
 ----------
@@ -67,5 +70,8 @@ Thüringen
 * [Bergbahn-Tickets](https://www.thueringerbergbahn.com/besucher/besucherinfo/tarife/)
 * [SPNV Semesterticket Thüringen\*](https://www.stw-thueringen.de/finanzen/semesterticket/)
 * [Touren-Ticket](https://www.laenderbahn.com/vogtlandbahn/tickets/touren-ticket/)
+
+Sternchenvermerk
+----------
 
 \*Angebot des Deutschlandtarifs

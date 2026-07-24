@@ -9758,12 +9758,13 @@ Ja, eine Nutzung der 1. Klasse im Schienenpersonennahverkehr (SPNV) z.B. RE, RB 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mybc100-1klasse-im-nahverkehr-in-1klasse-nutzen)
 
- Gibt es im SH-Tarif spezielle Abo-Angebote für Pendler?
+ Gibt es im SH-Tarif vergünstigte Konditionen für Beschäftigte?
 ----------
 
-Ja, das NAH.SH-Jobticket im Schleswig-Holstein-Tarif. Beteiligt sich Ihr Unternehmen mit einem Zuschuss an Ihren Fahrtkosten, sparen Sie doppelt. Denn zusätzlich zum Arbeitgeberzuschuss geben wir Ihnen noch einen Rabatt auf den Preis Ihrer Abo-Monatskarte. Das ist das Deutschland-Jobticket SH-Tarif für Pendler mit Bussen und Zügen des Nahverkehrs in Schleswig-Holstein und nach Hamburg. Es kann von allen Beschäftigten genutzt werden, deren Arbeitgeber einen Fahrtkostenzuschuss zahlt. Dieses Angebot gilt auch für Auszubildende. Überzeugen Sie sich und Ihren Arbeitgeber: Alle Informationen zum NAH.SH-Jobticket gibt es unter
+Ja, mit dem NAH.SH-Jobticket können Sie von zusätzlichen Preisvorteilen profitieren. Dieses gibt es in zwei Varianten: das Deutschland-Jobticket SH-Tarif für ganz Deutschland, das NAH.SH-Jobticket für Strecken in der Stadt.
+Es kann von allen Beschäftigten genutzt werden, deren Arbeitgeber einen Fahrtkostenzuschuss zahlt. Dieses Angebot gilt auch für Auszubildende. Überzeugen Sie sich und Ihren Arbeitgeber!
 
-* [www.nah.sh/de](https://www.nah.sh/de/fahrkarten/jobticket/)
+* [Weitere Informationen unter Jobticket-NAH.SH](https://www.nah.sh/de/fahrkarten/jobticket/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nah-sh-jobticket)
 
@@ -11348,17 +11349,6 @@ Für Schülerzeitkarten im Fernverkehr (z. B. für ICE- und IC/EC-Züge) suchen
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/semester-ticket-nrw)
 
- Ist in meinem SH-Tarif-Abonnement eine Sitzplatzreservierung inkludiert?
-----------
-
-Bei der Monatskarte im Abo ist eine Sitzplatzreservierung inklusive auf bestimmten Strecken in Schleswig-Holstein.
-
-[Weitere Informationen zu Abo-Angeboten im SH-Tarif](https://www.bahn.de/angebot/verbuende/sh-tarif-abos)
-
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=74,115,19,20,21,22,23)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-abo-sitzplatzreservierung)
-
  Ist die 1. Klasse auch im Jobticket des SH-Tarifs nutzbar?
 ----------
 
@@ -11369,6 +11359,17 @@ Sie können Ihr Jobticket für die 2. oder die 1. Klasse erwerben. Der Preis der
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-1-klasse)
+
+ Was ist das Deutschland-Jobticket SH-Tarif?
+----------
+
+Das Deutschland-Jobticket SH-Tarif basiert auf dem regulären Deutschland-Ticket. Es gelten die offiziell genehmigten Tarifbestimmungen des Regelangebots.
+
+Das Deutschland-Jobticket SH-Tarif kann von allen Beschäftigten genutzt werden, deren Arbeitgeber einen Fahrtkostenzuschuss zahlt. Dieses Angebot gilt auch für Auszubildende.
+
+* [Hier finden Sie alle relevanten Konditionen zum Deutschland-Jobticket SH-Tarif](https://www.nah.sh/de/fahrkarten/jobticket/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-definition-was)
 
  Wer kann mit dem Jobticket des SH-Tarifs fahren?
 ----------
@@ -15602,7 +15603,7 @@ Das SchülerFreizeitTicket ist ein Ergänzungsticket. Sie dehnt den Aktionsradiu
  Welche Abo-Angebote des SH-Tarifs kann ich hier kaufen?
 ----------
 
-**Deutschland-Ticket im SH-Tarif**
+**Deutschlandticket SH-Tarif**
 
 * Preis: 63 Euro im monatlichen Abo
 * Monatlich kündbar
@@ -15612,10 +15613,10 @@ Das SchülerFreizeitTicket ist ein Ergänzungsticket. Sie dehnt den Aktionsradiu
 
 **Weitere Angebote:**
 
-* NAH.SH-Jobticket SH-Tarif
+* NAH.SH-Jobticket
 * Deutschland-Jobticket SH-Tarif
 
-* [Weitere SH-Tarif-Angebote](https://www.nah.sh/de/fahrkarten/monatskarte-im-abo/)
+* [Weitere SH-Tarif-Angebote](https://www.nah.sh/de/fahrkarten/fahrkarten/)
 
 [Weitere Informationen zu Abo-Angeboten im SH-Tarif](https://www.bahn.de/angebot/verbuende/sh-tarif-abos)
 
@@ -17265,6 +17266,22 @@ Eine Kündigung der Jugend BahnCard ist nicht notwendig, sie hat eine Laufzeit v
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kuendige-ich-mein-abo)
+
+ Wie kündige ich mein Abo und welche Fristen sind zu beachten?
+----------
+
+**Kündigungsmöglichkeiten:**
+
+* Über Ihren Account im Aboportal: Gehen Sie zu "Meine Abos" -\> "Service".
+* Über den DB Navigator: Nutzen Sie die Funktion "Abo kündigen" unterhalb Ihres Handy-Tickets.
+
+**Kündigungsfristen:**
+
+* Die nächstmöglichen Kündigungstermine für Ihr Abo finden Sie in Ihrem DB Kundenkonto im Aboportal.
+
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kuendige-ich-mein-abo-sh-tarif)
 
  Wie lange gilt meine Dauer-Sitzplatzreservierung für den Nahverkehr?
 ----------

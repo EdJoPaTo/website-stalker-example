@@ -3,6 +3,18 @@ Framework Laptop 13 ​
 
  Framework Laptop 13 DIY Edition (AMD Ryzen™ AI 300 Series)
 
+[Laptop 13 Pro](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+
+[Laptop 13 ​](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+
+[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+
+[Pre-built Ready to use with Windows pre-installed. Out of stock](#)
+
+[9% off AI 300 Series Starting at €959.00 was: €1,059](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+
+[13% off Ultra Series 1 Starting at €899.00 was: €1,029](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new)
+
 [View product details](/de/en/laptop13?slug=laptop13-diy-amd-ai300&tab=specs)
 
 Ordering more than 1 computer?
