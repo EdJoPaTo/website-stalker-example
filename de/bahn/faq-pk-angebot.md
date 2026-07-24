@@ -9768,6 +9768,22 @@ Es kann von allen Beschäftigten genutzt werden, deren Arbeitgeber einen Fahrtko
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nah-sh-jobticket)
 
+ Wie erhalte ich einen Rahmenvertrag für das Deutschland-Jobticket SH-Tarif?
+----------
+
+Das Jobticket-Team der Stadtwerke Neumünster (SWN) ist Ihr zentraler Kontakt für den Abschluss der Rahmenverträge und Zusendung von Informationsmaterialien:
+
+NAH.SH-Jobticket-Team
+der SWN Verkehr GmbH (Stadtwerke Neumünster)
+Bismarckstraße 51
+24534 Neumünster
+[04321 202 22 44](tel:+4943212022244)
+[nah.sh-jobticket@swn.net](mailto:nah.sh-jobticket@swn.net)
+
+* [Weitere Informationen unter Jobticket-NAH.SH](https://www.nah.sh/de/fahrkarten/jobticket/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nah-sh-jobticket-rahmenvertrag)
+
  Kann ich beim Sparpreis Senioren auch den Nahverkehr nutzen?
 ----------
 
@@ -11349,10 +11365,10 @@ Für Schülerzeitkarten im Fernverkehr (z. B. für ICE- und IC/EC-Züge) suchen
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/semester-ticket-nrw)
 
- Ist die 1. Klasse auch im Jobticket des SH-Tarifs nutzbar?
+ Ist die 1. Klasse auch im NAH.SH-Jobticket nutzbar?
 ----------
 
-Sie können Ihr Jobticket für die 2. oder die 1. Klasse erwerben. Der Preis der 1. Klasse errechnet sich anhand Ihrer Strecke, dem Zuschuss Ihres Arbeitgebers und dem Rabatt.
+Ja. Sie können Ihr NAH.SH-Jobticket für die 2. oder die 1. Klasse erwerben. Der Preis der 1. Klasse errechnet sich anhand Ihrer Strecke, dem Zuschuss Ihres Arbeitgebers und dem Rabatt.
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
@@ -11371,10 +11387,10 @@ Das Deutschland-Jobticket SH-Tarif kann von allen Beschäftigten genutzt werden,
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-definition-was)
 
- Wer kann mit dem Jobticket des SH-Tarifs fahren?
+ Wer kann mit dem NAH.SH-Jobticket fahren?
 ----------
 
-Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht übertragbar.
+Das NAH.SH-Jobticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht übertragbar.
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
@@ -11382,10 +11398,10 @@ Das Job-Ticket wird exklusiv auf Sie persönlich ausgestellt und ist nicht über
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-fuer-wen)
 
- Ich habe Fragen zum Jobticket im SH-Tarif. An wen kann ich mich wenden?
+ Ich habe Fragen zu meinem NAH.SH-Jobticket. An wen kann ich mich wenden?
 ----------
 
-Bei Fragen zum Nah.SH Jobticket wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH. Die Kontaktdaten finden Sie unter "SHT" auf bahn.de/abokontakt.
+Bei Fragen zum NAH.SH-Jobticket wenden Sie sich bitte an das Abo-Team der DB Vertrieb GmbH. Die Kontaktdaten finden Sie unter "SHT" auf bahn.de/abokontakt.
 
 Generelle Informationen rund um unsere Abos finden Sie in unserem Hilfebereich.
 
@@ -11394,7 +11410,7 @@ Viele Funktionen zu Ihrem Abo können Sie im Aboportal selbständig durchführen
 * [Zu bahn.de/abokontakt](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
 * [Zum Hilfe&Kontakt auf bahn.de](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/abos-dticket)
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
-* [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
+* [Weitere Informationen zum NAH.SH-Jobticket](https://www.nah.sh/de/fahrkarten/jobticket/)
 
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=35,36)
 
@@ -11411,10 +11427,10 @@ An den Wochenenden können Sie einen weiteren Erwachsenen und 3 Kinder unter 15 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-mitnahme)
 
- Wie viel kostet das Jobticket im SH-Tarif?
+ Wie viel kostet das NAH.SH-Jobticket?
 ----------
 
-Der Preis ist abhängig von Ihrer Strecke, dem Zuschuss des Arbeitgebers und dem Rabatt.
+Der Preis des NAH.SH-Jobticket ist abhängig von Ihrer Strecke, dem Zuschuss des Arbeitgebers und dem Rabatt.
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
@@ -11422,10 +11438,10 @@ Der Preis ist abhängig von Ihrer Strecke, dem Zuschuss des Arbeitgebers und dem
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sh-tarif-jobticket-preis)
 
- Wo gilt das Jobticket des SH-Tarifs?
+ Wo gilt das NAH.SH-Jobticket?
 ----------
 
-Das Jobticket gilt auf der gewählten Strecken in allen Verkehrsmitteln des SHT. Gilt auch in HVV-Verkehrsmitteln, sofern diese im Geltungsbereich der Fahrkarte nutzbar sind.
+Das NAH.SH-Jobticket gilt auf der gewählten Strecken in allen Verkehrsmitteln des SHT. Gilt auch in hvv-Verkehrsmitteln, sofern diese im Geltungsbereich der Fahrkarte nutzbar sind.
 
 [Weitere Informationen zum Jobticket im SH-Tarif/NAH.SH](https://www.bahn.de/angebot/verbuende/sh-tarif-jobticket)
 
