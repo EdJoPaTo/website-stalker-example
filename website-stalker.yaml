@@ -309,6 +309,7 @@ sites:
       - https://de.ugreen.com/collections/usb-mehrfachladegerat?sort_by=created-descending
       - https://de.ugreen.com/collections/usb-c-ladekabel?sort_by=created-descending
       - https://de.ugreen.com/collections/powerbank?sort_by=created-descending
+    ignore_error: true
     editors:
       - css_select: .product-grid .ug-product-card-info
       - css_remove: style, img, svg, .price_atc-box, .ug_product_code
@@ -359,6 +360,7 @@ sites:
       - https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new
       - https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new
     http1_only: true
+    ignore_error: true
     editors:
       - css_select: main
       - css_remove: >-
