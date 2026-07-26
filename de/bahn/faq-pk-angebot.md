@@ -3341,8 +3341,6 @@ Sie können den Super Sparpreis Last Minute vom 9. Mai bis 13. September 2026 an
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchungszeitraum-sparpreis-last-minute)
 
  Meine Chipkarte wurde gesperrt/das Ticket ist nicht lesbar. Was kann ich tun?
@@ -10768,8 +10766,6 @@ Ein Super Sparpreis Last Minute-Ticket für die einfache Fahrt kostet je na
 
 [Weitere Informationen zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-last-minute)
 
  Was kostet ein Super Sparpreis Young-Ticket?
@@ -12105,8 +12101,6 @@ Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornier
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
 [Zum Super Sparpreise Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-last-minute)
 
@@ -13527,8 +13521,6 @@ Sie können das Super Sparpreis Gruppe-Ticket **bis zu 6 Monate im Voraus** buch
 Sie können das Ticket samstags und sonntags für Montag bis Sonntag der Folgewoche buchen. Nur solange der Vorrat reicht.
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-last-minute)
 
@@ -16755,8 +16747,6 @@ Mehr Informationen zu den [Sharing-Diensten](https://www.bahn.de/faq/erreichbark
 Der Super Sparpreis Last Minute ist vom 9. Mai bis 13. September 2026 in der regulären Verbindungsauskunft nur auf [**bahn.de**](https://www.bahn.de/), in der **App DB Navigator** und bei **Onlinevertriebspartnern der DB** zu finden. Auf [bahn.de](https://www.bahn.de/) und im DB Navigator ist das Angebot außerdem durch eine Krone mit der Bezeichnung "Aktion" gekennzeichnet.
 
 [Weitere Informationen zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-buchen-super-sparpreis-last-minute)
 
@@ -20725,13 +20715,6 @@ Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrem Ticket besteht ke
 [Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-super-sparpreis-gruppe)
-
- Muss ich bei der Einreise nach Venedig etwas beachten?
-----------
-
-Alle Besucherinnen und Besucher Venedigs müssen an bestimmten Tagen zwischen dem 3. April und 26. Juli 2026 eine Zugangsgebühr direkt an die Stadt Venedig zahlen. In einzelnen Fällen ist dies ausgeschlossen. Die konkreten Tage, Zahlungsmodalitäten, Ausnahmen und alle weiteren Informationen finden Sie unter <https://cda.ve.it/it/>.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zugangsgebuehr-venedig-sparpreis-europa-italien)
 
  Mit welchen Zügen kann ich reisen?
 ----------
