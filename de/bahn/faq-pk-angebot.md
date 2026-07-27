@@ -2057,6 +2057,13 @@ Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewä
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-ueberweisung)
 
+ Wo finde ich meine BahnCard 100 im DB Kundenkonto?
+----------
+
+Sie finden Ihre BahnCard 100 als digitales Ticket im Bereich "Reisen" oder direkt in Ihrem Profil in der App DB Navigator.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard100-wo)
+
  Wie lange gilt die BahnCard 25=50 Aktion?
 ----------
 
@@ -19506,17 +19513,6 @@ Sie erhalten das Ticket jeweils zur Saison des Europa-Parks
 Ein Internetverkauf wird nicht angeboten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-europa-park-kombiticket-kaufen)
-
- Wo kann ich das Gäubodenbahn-Ticket kaufen?
-----------
-
-Sie erhalten das Ticket gleich hier online und an allen DB Automaten entlang der Strecke.
-
-[Weitere Informationen zum Gäubodenbahn-Ticket](https://www.bahn.de/angebot/regio/bayern/gaeubodenbahn-ticket)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSOND00001C201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-gaeubodenbahn-ticket-kaufen)
 
  Wo kann ich das Garmischer Ski-Ticket kaufen?
 ----------
