@@ -17,7 +17,7 @@ ist der richtige für dich?
 
 **Shared** Resources
 
-Begrenzt verfügbar
+Derzeit nicht verfügbar
 
  Perfekt für Testumgebungen
 
@@ -65,7 +65,7 @@ startet ab  max/mo.
 
 **Shared** Resources
 
-Begrenzt verfügbar
+Derzeit nicht verfügbar
 
  Perfekt für Testumgebungen
 

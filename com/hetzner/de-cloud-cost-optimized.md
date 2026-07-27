@@ -35,6 +35,8 @@ Da für diese Anwendungsbereiche weitergenutzte, bewährte Hardwaregenerationen 
 
 CX23
 
+ nicht verfügbar
+
  2
 
  Intel®/AMD
@@ -48,6 +50,8 @@ max.  /Monat
  /Stunde
 
  CX23
+
+ nicht verfügbar
 
  max/mo.
 
@@ -67,6 +71,8 @@ max.  /Monat
 
 CAX11
 
+ nicht verfügbar
+
  2
 
  Ampere®
@@ -80,6 +86,8 @@ max.  /Monat
  /Stunde
 
  CAX11
+
+ nicht verfügbar
 
  max/mo.
 
@@ -99,6 +107,8 @@ max.  /Monat
 
 CX33
 
+ nicht verfügbar
+
  4
 
  Intel®/AMD
@@ -112,6 +122,8 @@ max.  /Monat
  /Stunde
 
  CX33
+
+ nicht verfügbar
 
  max/mo.
 
@@ -131,6 +143,8 @@ max.  /Monat
 
 CAX21
 
+ nicht verfügbar
+
  4
 
  Ampere®
@@ -144,6 +158,8 @@ max.  /Monat
  /Stunde
 
  CAX21
+
+ nicht verfügbar
 
  max/mo.
 
@@ -163,6 +179,8 @@ max.  /Monat
 
 CX43
 
+ nicht verfügbar
+
  8
 
  Intel®/AMD
@@ -176,6 +194,8 @@ max.  /Monat
  /Stunde
 
  CX43
+
+ nicht verfügbar
 
  max/mo.
 
@@ -195,6 +215,8 @@ max.  /Monat
 
 CAX31
 
+ nicht verfügbar
+
  8
 
  Ampere®
@@ -208,6 +230,8 @@ max.  /Monat
  /Stunde
 
  CAX31
+
+ nicht verfügbar
 
  max/mo.
 
@@ -227,6 +251,8 @@ max.  /Monat
 
 CX53
 
+ nicht verfügbar
+
  16
 
  Intel®/AMD
@@ -240,6 +266,8 @@ max.  /Monat
  /Stunde
 
  CX53
+
+ nicht verfügbar
 
  max/mo.
 
@@ -259,6 +287,8 @@ max.  /Monat
 
 CAX41
 
+ nicht verfügbar
+
  16
 
  Ampere®
@@ -272,6 +302,8 @@ max.  /Monat
  /Stunde
 
  CAX41
+
+ nicht verfügbar
 
  max/mo.
 
