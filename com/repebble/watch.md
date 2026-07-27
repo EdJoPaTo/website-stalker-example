@@ -22,7 +22,7 @@ For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functio
 
 $199
 
-Starts shipping July 2026
+New orders ship in September - [Status](https://help.repebble.com/en/articles/14892130-shipping-timelines#h_b089356189)
 
 I want one!
 
@@ -33,11 +33,10 @@ I want one!
 * Stainless steel frame
 * Heart rate monitor
 * [Four color options](/watch/pt2-color-options)
-* Like [2016-era Pebble Time 2](https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra), but better!
 
 $225
 
-New orders ship in August - [Status](https://help.repebble.com/en/articles/14892130-shipping-timelines)
+In stock - ships within 48 hours
 
 I want one!
 
@@ -77,9 +76,9 @@ FAQ
 
 ### How do I pick my color? ###
 
-Before we ship your watch, you'll be able to select from available color options ([Time 2 options](/watch/pt2-color-options), [Round 2 options](/images/products/pr2-color-options.png)) and add accessories like extra watch straps and chargers.
+Buying an in-stock Pebble Time 2? You already picked your color - it ships as ordered. Before we ship your watch, you'll be able to select from available color options ([Time 2 options](/watch/pt2-color-options), [Round 2 options](/images/products/pr2-color-options.png)) and add accessories like extra watch straps and chargers.
 
-You don't need to choose your color now - we'll contact you before shipping to confirm your color preference.
+Ordering a Round 2? You don't need to choose your color now - we'll contact you before shipping to confirm your color preference.
 
 ### Is there a warranty? ###
 
@@ -136,9 +135,7 @@ These watches are not made for everyone. We want to be upfront with you about wh
 |                                   iPhone and Android apps                                    |                                                         ✅                                                          |                                                         ✅                                                          |
 |                                         Open Source                                          |✅ [PebbleOS](https://github.com/coredevices/pebbleos)  <br/>✅ [Mobile app](https://github.com/coredevices/mobileapp)|✅ [PebbleOS](https://github.com/coredevices/pebbleos)  <br/>✅ [Mobile app](https://github.com/coredevices/mobileapp)|
 
-Don't want to pre-order? [Sign up for updates](/signup)
-
-Already placed a pre-order? [Manage your order](/manage)
+Don't want to order yet? [Sign up for updates](/signup)
 
 [Manage My Order](https://orders.repebble.com) · [Help](https://help.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric) · [GitHub](https://github.com/coredevices)
 
