@@ -142,3 +142,5 @@ Don't want to order yet? [Sign up for updates](/signup)
 © 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
 
 [Store powered by](https://yournextstore.com)
+
+Pebble Time 2 & Pebble Round 2 Smartwatches | Pebble
