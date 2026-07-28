@@ -140,5 +140,3 @@ Don't want to order yet? [Sign up for updates](/signup)
 [Manage My Order](https://orders.repebble.com) · [Help](https://help.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric) · [GitHub](https://github.com/coredevices)
 
 © 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
-
-[Store powered by](https://yournextstore.com)

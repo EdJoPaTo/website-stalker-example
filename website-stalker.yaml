@@ -508,7 +508,7 @@ sites:
       - https://repebble.com/
       - https://repebble.com/watch
     editors:
-      - css_select: body
+      - css_select: body > div > div
       - css_remove: script, svg, img
       - css_remove: a[href*="email-protection"]
       - html_markdownify
