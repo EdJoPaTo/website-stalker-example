@@ -6,6 +6,13 @@
 		<description>All things Eve &amp; HomeKit</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>All features of Eve Thermostat</title>
+			<link>https://www.evehome.com/en/all-features-eve-thermostat-eu</link>
+			<content:encoded><![CDATA[Product Features
+
+With its understated and sleek design, the Eve Thermostat blends seamlessly into any living space. The front panel features just five buttons, giving it a clean, uncluttered look in standby mode and making it easy to read and operate when active, thanks to its large display.]]></content:encoded>
+		</item>
+		<item>
 			<title>Suspend your watering schedule based on the rain forecast</title>
 			<link>https://www.evehome.com/en/blog/eve-aqua-shortcuts</link>
 			<content:encoded><![CDATA[Use Cases
@@ -71,13 +78,6 @@ Eve Thermo relies on the proven technology of Hessian specialist Eurotronic for 
 			<content:encoded><![CDATA[Product Features
 
 Lower heating bills with smart thermostats. Saving heating energy is the order of the day, and smart technology is ideal for this. We'll show you how to use your iPhone to convert your rooms to smart heating using schedules in three simple steps - install, define schedules and optimise.]]></content:encoded>
-		</item>
-		<item>
-			<title>Air source heat pump central heating with Eve Thermo</title>
-			<link>https://www.evehome.com/en/blog/heat-pump-central-heating-with-eve-thermo</link>
-			<content:encoded><![CDATA[Use Cases
-
-Optimising our air source heat pump central heating with Eve Thermo smart TRVs. As part of our journey to become more sustainable and reduce our carbon footprint, we installed an 18kW air source heat pump (ASHP) to replace the oil boiler in our Victorian (1850s) farmhouse in the Welsh borders.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
