@@ -28,7 +28,7 @@ No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop when d
 
 [](/pages/starbook)
 
-[StarBook Horizon](/pages/starbook)
+[StarBook Horizon Standard](/pages/starbook)
 
 Active-cooled laptop-class portability with privacy features built in.
 
