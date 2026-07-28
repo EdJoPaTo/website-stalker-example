@@ -3,10 +3,6 @@ Framework Laptop 12
 
  Framework Laptop 12 DIY Edition (13th Gen Intel® Core™)
 
-[DIY Edition Build it yourself and bring your OS, including Linux. Available in multiple colors.](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
-
-[Pre-built Ready to use with Windows pre-installed. Available in Black.](/de/en/products/laptop12-intel-13gen/configuration/new)
-
 [View product details](/de/en/laptop12?slug=laptop12-diy-intel-13gen&tab=specs)
 
 Ordering more than 1 computer?
