@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### Ruhrgebiet bei nacht ###
+### hamburg bei nacht ###
 
-### 25.-26. Juli 2026 ###
+###  08.-09. August 2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/hamburg-bei-nacht)
 
 [Location](https://www.megamarsch.de/ostsee)
 

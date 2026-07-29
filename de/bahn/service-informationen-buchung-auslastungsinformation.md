@@ -7,6 +7,9 @@ Auslastungsinformation: Wie voll wird mein Zug?
 
 Die aktuelle Auslastungsinformation zeigt Ihnen in der Verbindungsauskunft im DB Navigator und auf bahn.de an, wie ausgelastet Ihr Zug voraussichtlich sein wird. So können Sie schon im Vorfeld überlegen, ob Sie lieber einen Sitzplatz reservieren oder auf eine andere Verbindung ausweichen möchten.
 
+Web und mobile
+----------
+
 ### Auslastungsinformation im DB Navigator ###
 
 Mit Piktogrammen neben den Verbindungen zeigen wir Ihnen in der Verbindungsübersicht der App DB Navigator, wie hoch die Auslastung des jeweiligen Zuges wahrscheinlich sein wird. Die Auslastungsinformation bezieht sich auf den vollsten Abschnitt der gewählten Zugverbindung. Bei Verbindungen mit Umstieg ist die Auslastung für einzelne Züge in den Verbindungsdetails sichtbar.
