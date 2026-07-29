@@ -30,7 +30,7 @@ No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop when d
 
 [StarBook Horizon](/pages/starbook)
 
-Active-cooled laptop-class portability with privacy features built in.
+StarBook Horizon Plus with Intel Core i5-1334U, 52Wh battery, and haptic trackpad.
 
 From €13,37
 
@@ -38,15 +38,15 @@ Display 13.4-inch 3:2 90Hz
 
 Weight 1.1 kg
 
-Power class Active-cooled 15W laptop-classIntel N305 + 32GB LPDDR5X
+Power class Active-cooled 15W laptop-classIntel i5-1334U + 32GB LPDDR5X
 
-Battery Up to 14 hrs
+Battery 52Wh
 
-Built for privacy
+Built for everyday headroom
 
-More sustained headroom than StarLite, with a privacy screen, wireless kill switch, and webcam cover.
+Everything in StarBook Horizon, plus higher CPU headroom, PCIe Gen 4 SSD support, haptic input, and wider keyboard layout options.
 
-[Product Overview](/pages/starbook) [Configure](/products/starbook-horizon)
+[Product Overview](/pages/starbook) [Configure](/products/starbook)
 
 [](/pages/starfighter)
 
@@ -92,17 +92,17 @@ Compare full specs
 
 See the key differences at a glance.
 
-|   Model    |                                 StarLite                                  |                                   StarBook Horizon                                    |                                      StarFighter  StarFighter Ultra  StarFighter AMD                                     |
-|------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|  Summary   |         Fanless, low-power Linux tablet for flexible private work.        |             Active-cooled laptop-class portability with privacy built in.             |             Everything in StarFighter, plus 4K 120Hz, 10kHz PWM dimming, 64GB memory, and long-term headroom.            |
-|  Display   |                         12.5-inch 3:2 touchscreen                         |                                  13.4-inch 3:2 90Hz                                   |                                        16-inch 16:10, 4K 120Hz, 10kHz PWM dimming                                        |
-|Form factor |                        Tablet + magnetic keyboard                         |                               Light clamshell portable                                |                                              Maximum-spec mobile workstation                                             |
-|   Weight   |                    0.85 kg tablet, 1.5 kg with keyboard                   |                                        1.1 kg                                         |                                                          1.6 kg                                                          |
-|Power class |                      Fanless 7W tablet-class platform                     |                        Active-cooled 15W laptop-class platform                        |                                    Core Ultra 9, 64GB LPDDR5X, Encrypted Memory (TME)                                    |
-|   USB-C    |                 2x USB-C with charging and display support                |              Left USB-C with charging and display; right USB-C data only              |                                  Intel: 2x Thunderbolt 4; AMD: USB4 20Gbps + USB4 40Gbps                                 |
-|  Battery   |                               Up to 12 hrs                                |                                     Up to 14 hrs                                      |                                                       Up to 18 hrs                                                       |
-|Why this one| No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop.| Stronger sustained everyday performance than StarLite, with privacy hardware built in.| Everything in Standard, plus 4K 120Hz, 10kHz PWM dimming, 64GB memory, Core Ultra 9 headroom, and Encrypted Memory (TME).|
-|  Show more |                                                                           |                                                                                       |                                                                                                                          |
+|   Model    |                                 StarLite                                  |                                            StarBook Horizon  StarBook Horizon Plus                                            |                                      StarFighter  StarFighter Ultra  StarFighter AMD                                     |
+|------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|  Summary   |         Fanless, low-power Linux tablet for flexible private work.        |     Everything in StarBook Horizon, plus higher CPU headroom, a larger battery, haptic input, and wider keyboard layouts.     |             Everything in StarFighter, plus 4K 120Hz, 10kHz PWM dimming, 64GB memory, and long-term headroom.            |
+|  Display   |                         12.5-inch 3:2 touchscreen                         |                                                       13.4-inch 3:2 90Hz                                                      |                                        16-inch 16:10, 4K 120Hz, 10kHz PWM dimming                                        |
+|Form factor |                        Tablet + magnetic keyboard                         |                                                    Light clamshell portable                                                   |                                              Maximum-spec mobile workstation                                             |
+|   Weight   |                    0.85 kg tablet, 1.5 kg with keyboard                   |                                                             1.1 kg                                                            |                                                          1.6 kg                                                          |
+|Power class |                      Fanless 7W tablet-class platform                     |                                               Intel Core i5-1334U + 32GB LPDDR5X                                              |                                    Core Ultra 9, 64GB LPDDR5X, Encrypted Memory (TME)                                    |
+|   USB-C    |                 2x USB-C with charging and display support                |                                                  1x Thunderbolt 4 + 1x USB-C                                                  |                                    2x Thunderbolt 4 with charging and display support                                    |
+|  Battery   |                               Up to 12 hrs                                |                                                              52Wh                                                             |                                                       Up to 18 hrs                                                       |
+|Why this one| No fan noise, pen-ready touchscreen flexibility, and a full Linux desktop.| Everything in StarBook Horizon, plus PCIe Gen 4 SSD support, haptic trackpad, 52Wh battery, and wider keyboard layout options.| Everything in Standard, plus 4K 120Hz, 10kHz PWM dimming, 64GB memory, Core Ultra 9 headroom, and Encrypted Memory (TME).|
+|  Show more |                                                                           |                                                                                                                               |                                                                                                                          |
 
  Last-generation StarBook — limited stock
 
