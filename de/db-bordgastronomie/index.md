@@ -1,30 +1,23 @@
 Aktuelles aus der Bordgastronomie
 ==========
 
-[](/aktion/weine)
+[](/aktion/oktoberfest)
 
-[](/aktion/biergarten)
-
-[](/aktion/summer-gin)
-
-[](/aktion/block-burger)
+[](/aktion/oktoberfest)
 
 [](/rl/?t=w_bahn-bonus-2501)
 
  Entdecken Sie die Bordgastronomie
 ----------
 
-[](/aktion/weine)
+[](/aktion/oktoberfest)
 
 ### Aktion & Neuigkeiten ###
 
  Immer wieder Neues aus der Bordgastronomie, erfahren Sie hier ein paar Hintergründe zu unserem Sortiment.
 
-[Neue Weine, neue Ziele](/aktion/weine)
-[Biergarten trifft Reiselust](/aktion/biergarten)
-[Siegfried Summer Gin](/aktion/summer-gin)
+[Wiesn-Freuden, jetzt wird angestoßen!](/aktion/oktoberfest)
 [Genuss-Burger in Block House Qualität](/aktion/block-burger)
-[Italienische Tradition trifft auf urbane Street Crustibility](/aktion/pizzawolke)
 [Gastgeschenk in der 1. Klasse](/aktion/gastgeschenk)
 [Unsere Partner im Speisensortiment](/partner/speisen)
 [Unsere Partner im Getränkesortiment](/partner/getraenke)

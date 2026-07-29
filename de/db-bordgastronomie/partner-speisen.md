@@ -9,12 +9,6 @@ Unsere starken Partner im Speisensortiment
 
 [BLOCK HOUSE Rinderaufzuchtprogramm](https://l.ead.me/bgW6Mz)
 
- **Italienische Tradition trifft auf urbane Street Crustibility**
-
- Unsere handgemachten Pizzen werden direkt in Italien mit ausgewählten Zutaten liebevoll belegt und gebacken. So bringen wir echten italienischen Genuss direkt auf die Schiene.
-
-[www.pizza-wolke.de](https://www.pizza-wolke.de)
-
  **Der Klassiker nun in Vegan!**
 
  Bunt, knackig und mit zartschmelzender Schokoladenalternative gefüllt – Treets stehen für puren Naschspaß seit Generationen. Ob beim Filmabend, im Zug oder einfach zwischendurch.

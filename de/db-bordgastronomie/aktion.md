@@ -1,20 +1,14 @@
-100 % Regional – der Genuss-Klassiker in Block House Qualität
+Zur Oktoberfestzeit feiern wir bayerische Genussmomente
 ==========
 
- Unser Burger im Bordbistro – von Juni bis September
+O’zapft is! – August & September 2026
 ----------
 
-### Burger mit Beef-Bacon-Zwiebel-Chutney ###
+### Wiesn-Freuden, jetzt wird angestoßen! ###
 
- Unseren Burger gib’s im ICEportal auch mit knusprigen Kartoffelecken und in leckeren Menüs mit erfrischenden Getränken. Gleich stöbern und genießen: [https://iceportal.de/speisekarte](/rl?t=w_iceportal)
+ Perfekt für den kleinen Wiesn‑Moment zwischendurch: **Bio‑Fleischkäse im knusprigen Brötchen**, dazu ein **Oktoberfestbier von Paulaner** oder ein **spritziger Almdudler** – bayerische Klassiker, modern serviert. Oder gesund mit einem belebenden **Voelkel Oktoberfest Ingwer Shot**, auch in leckeren Menüs erhältlich.
 
-### Einzigartige Qualität erfordert eine einzigartige Aufzucht: ###
-
- Seit über einem Jahrzehnt setzt BLOCK HOUSE mit dem eigenen Rinderaufzuchtprogramm ein regionales und nachhaltiges Zeichen.
-
- Erfahren Sie mehr über das prämierte Pionierprojekt und das besondere Engagement der Partnerlandwirte auf norddeutschen Höfen:
-
-[https://shop.block-house.de/rinderaufzuchtprogramm](https://l.ead.me/bgW6Mz)
+ Gleich stöbern und genießen: [https://iceportal.de/speisekarte](/rl?t=w_iceportal)
 
 Mehr über die Bordgastronomie
 ----------
