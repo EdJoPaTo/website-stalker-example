@@ -65,6 +65,8 @@ In 3 Schritten per Fahrgastrechte-Formular zur Entschädigung:
 
 ###  1. Formular ausfüllen  ###
 
+#### Formular ausfüllen ####
+
 Mit dem Fahrgastrechte-Formular erfragen wir die zur Bearbeitung Ihres Entschädigungsanliegens notwendigen Angaben.
 
 Bitte tragen Sie zunächst die Daten zu Ihrem geplanten Reiseverlauf und Ihrem tatsächlichen Reiseverlauf ein.
@@ -74,6 +76,8 @@ Wählen Sie im nächsten Schritt die gewünschte Art der Entschädigung aus. Sie
 Ergänzen Sie abschließend noch die weiteren Angaben zur Bankverbindung (falls Sie eine Überweisung wünschen) und Ihre persönlichen Daten und bestätigen Sie Ihre Angaben mit Ihrer Unterschrift.
 
 ###  2. Belege beilegen  ###
+
+#### Belege ####
 
 Zur Bearbeitung Ihres Antrags benötigen wir Ihre Fahrkarte oder eine Fahrkartenkopie. Wenn Ihre Fahrkarte keinen Preisaufdruck hat, legen Sie bitte zudem einen Kostennachweis bei (Ausnahme: BahnCard 100).
 
@@ -102,6 +106,9 @@ Ein in einer DB Agentur oder einem DB Reisezentrum eingereichter Antrag auf Ents
 
 Beachten Sie die [Sonderfälle, in denen Ihr Antrag nur über das Servicecenter und nicht in einem Reisezentrum bearbeitet werden kann](https://bahn.de/faq/kann-ich-meine-fahrgastrechte-im-reisezentrum-bearbeiten-lassen)!
 
+Allgemeine Informationen
+----------
+
 ### Fahrgastrechtliche Regelungen und Ansprüche ###
 
 Erfahren Sie, welche Regelungen gelten und welche Ansprüche Sie unter welchen Voraussetzungen haben.
@@ -125,6 +132,8 @@ Das könnte Sie auch interessieren
 
 ###  Was sind Fahrgastrechte?  ###
 
+#### Alle Infos ####
+
 Bei Zugverspätungen und Zugausfällen sind die Rechte der Fahrgäste gesetzlich geregelt. Grundlage bildet hierbei die Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates vom 29.April 2021 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (Neufassung).
 
 Fahrgastrechte gelten einheitlich im Eisenbahnverkehr in Deutschland und in Europa und räumen den Reisenden gleiche Rechte bei allen Eisenbahnunternehmen ein.
@@ -137,9 +146,13 @@ Nachfolgend finden Sie Links zu den wichtigsten Gesetzen und Verordnungen zum Th
 
 ###  Verrechnung des Gutscheins im Internet oder am DB-Automaten  ###
 
+#### Alle Infos ####
+
 Lösen Sie Gutscheine mit einer 7-stelligen alphanumerischen Gutscheinnummer direkt bei einer Buchung im Internet ein. Sie können Ihren Gutschein natürlich auch an DB-Automaten beim Kauf von DB-Fahrkarten anrechnen lassen.
 
 ###  Schlichtungsstellen  ###
+
+#### Alle Infos ####
 
 Sollten Sie mit einer Entscheidung zu Ihrem Erstattungsantrag nicht einverstanden sein, können Sie sich an eine unabhängige Schlichtungsstelle wenden.
 

@@ -17,6 +17,8 @@ Ihre Rechte und Ansprüche im Detail
 
 ###  Entschädigung bei verspäteter Ankunft am Zielbahnhof  ###
 
+#### Alle Infos ####
+
 * Ab **60 Minuten Verspätung an Ihrem Zielbahnhof** erhalten Sie eine Entschädigung von 25 Prozent des gezahlten Fahrpreises für die einfache Fahrt
 * Ab **120 Minuten Verspätung an Ihrem Zielbahnhof** erhalten Sie eine Entschädigung von 50 Prozent des gezahlten Fahrpreises für die einfache Fahrt
 * Bei Fahrkarten für die Hin- und Rückfahrt wird die Entschädigung jeweils auf Grundlage des für die Hin- bzw. Rückfahrt entrichteten Fahrpreises berechnet. Wenn der Fahrpreis für die Hin- und Rückfahrt gesamthaft ausgewiesen ist, wird die Entschädigung auf der Grundlage des halben entrichteten Fahrpreises berechnet.
@@ -69,6 +71,8 @@ Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen, aber 
 
 ###  Weiterreise mit anderen Verkehrsmitteln (Eisenbahn und Bus)  ###
 
+#### Alle Infos ####
+
 Wenn Sie das Eisenbahnunternehmen nicht innerhalb von 100 Minuten nach der planmäßigen Abfahrtszeit eines verspäteten oder ausgefallenen Zuges oder eines verpassten Anschlusses darüber informiert, welche Möglichkeiten Ihnen für die Weiterreise zur Verfügung stehen, haben Sie das Recht, die Fahrt mit anderen Eisenbahnen (z.B. Flixtrain, Nightjet), einem Reisebus oder einem Bus des Regionalverkehrs fortzusetzen.
 
 Die dadurch ggf. entstandenen notwendigen, angemessenen und zumutbaren Kosten werden Ihnen über das Servicecenter Fahrgastrechte erstattet.
@@ -76,6 +80,8 @@ Die dadurch ggf. entstandenen notwendigen, angemessenen und zumutbaren Kosten we
 Die Kosten für eine Nutzung eines Taxis, Flugzeugs oder einer Privatabholung werden in diesem Fall nicht erstattet.
 
 ###  Erstattung, wenn Sie wegen Verspätung, Zugausfall oder verpasstem Anschluss die Fahrt nicht antreten oder abbrechen  ###
+
+#### Alle Infos ####
 
 Bei einer zu erwartenden Verspätung am Zielbahnhof von **60 Minuten oder mehr** können Sie
 
@@ -124,11 +130,15 @@ Stellt Ihnen das Eisenbahnunternehmen eine Übernachtungsmöglichkeit oder ein a
 
 ###  Erstattung, wenn Sie Ihre Sitzplatzreservierung nicht in Anspruch nehmen konnten  ###
 
+#### Alle Infos ####
+
 Konnten reservierte Sitzplätze nicht zugeteilt oder zugeteilte Sitzplätze nicht bereitgehalten oder wegen Zugverspätung nicht eingenommen werden, haben Sie Anspruch auf Rückzahlung des gezahlten Reservierungsentgelts.
 
 Die Rückzahlung des Reservierungsentgelts können Sie (formlos) im Servicecenter Fahrgastrechte beantragen. Oder wenden Sie sich alternativ an eine DB-Verkaufsstelle (DB Reisezentrum oder DB Agentur).
 
 ###  Frist zur Einreichung von Beschwerden  ###
+
+#### Fristen ####
 
 Die Verordnung (EU) 2021/782 sieht vor, dass Beschwerden innerhalb von **3 Monaten** nach dem Vorfall eingereicht werden müssen.
 
@@ -141,6 +151,8 @@ Regelungen und Ansprüche im internationalen Eisenbahnverkehr
 
 ###  Entschädigung für Reisende mit einer durchgehenden internationalen Fahrkarte  ###
 
+#### Alle Infos ####
+
 * Reisende mit einer durchgehenden internationalen Fahrkarte erhalten ab einer Verspätung von 60 Minuten am Zielbahnhof eine Entschädigung in Höhe von 25 Prozent des Fahrkartenpreises für die einfache Fahrt.
 * Reisende mit einer durchgehenden internationalen Fahrkarte erhalten ab einer Verspätung von 120 Minuten am Zielbahnhof eine Entschädigung in Höhe von 50 Prozent des Fahrkartenpreises für die einfache Fahrt.
 
@@ -152,6 +164,8 @@ Entschädigungsbeträge von weniger als 4 Euro werden nicht ausgezahlt.
 
 ###  Beantragung von Entschädigungsansprüchen  ###
 
+#### Alle Infos ####
+
 Grundsätzlich können Entschädigungsansprüche an das Servicecenter Fahrgastrechte gerichtet werden.
 
 Wenn Ihre grenzüberschreitende Fahrkarte oder Ihre Fahrkarte für ausländische Strecken von der DB ausgegeben wurde, wird Ihr Antrag direkt im Servicecenter Fahrgastrechte bearbeitet.
@@ -162,11 +176,15 @@ Anträge, die ans Servicecenter Fahrgastrechte gerichtet werden und bei denen di
 
 ###  Bearbeitung von Ansprüchen auf Erstattung von Kosten für eine Weiterbeförderung oder eine Übernachtung  ###
 
+#### Alle Infos ####
+
 Diese Ansprüche werden im Servicecenter Fahrgastrechte bearbeitet, wenn ein Beförderer auf einer DB Strecke zur Weiterbeförderung oder zur Hilfeleistung an Ort und Stelle verpflichtet war (im Allgemeinen der Ort der Reiseunterbrechung). Das betrifft ebenfalls die ICE-Züge auf ihrer gesamten Fahrtstrecke bis Brüssel und zurück. Dabei kommt es jeweils nicht darauf an, ob es sich um eine DB Fahrkarte oder die Fahrkarte eines anderen ausgebenden Unternehmens handelt.
 
 In allen anderen Fällen wird das Servicecenter Fahrgastrechte die Fahrkarte an denjenigen Beförderer weiterleiten, der zur Weiterbeförderung oder zur Hilfeleistung an Ort und Stelle verpflichtet war. Dieser wird dann die Regulierung übernehmen. Das Servicecenter Fahrgastrechte wird die Reisenden unverzüglich über die Weiterleitung unterrichten. Alternativ können Sie ihren Anspruch auf Kostenerstattung stattdessen auch direkt bei dem ausländischen Beförderer geltend zu machen, der vor Ort zur Weiterbeförderung oder zur Hilfeleistung verpflichtet war.
 
 ###  German Rail Pass  ###
+
+#### Alle Infos ####
 
 Bei Ausfall und/oder Verspätung von Zügen der DB, die jeweils zu einer verspäteten Ankunft von mindestens 60 Minuten am Zielort führen, besteht Anspruch auf Entschädigung.
 
@@ -181,6 +199,8 @@ Für die Bearbeitung und Regulierung der Ansprüche ist das Servicecenter Fahrga
 
 ###  Interrail- und Eurail-Pässe  ###
 
+#### Alle Infos ####
+
 Bei Ausfall und/oder Verspätung von Zügen (oder anderen Verkehrsmitteln der am Angebot beteiligten Bahnen und Schifffahrtslinien) von mindestens 60 Minuten am Zielort besteht für Inhaber eines Interrail-Passes (Global-Pass oder One Country Pass) Anspruch auf Entschädigung.
 
 Die Höhe der Entschädigung richtet sich nach der Dauer jeder einzelnen Verspätung sowie dem Preis und der Gültigkeit des jeweiligen Passes. Details können Sie in Entschädigungstabelle von Eurail einsehen: [Link](https://www.interrail.eu/de/support/delay-compensation)
@@ -192,6 +212,8 @@ Die Beantragung von Entschädigungen für Verspätung oder Zugausfall für Inhab
 Im Falle von Hilfeleistungen im Sinne des Artikel 20 der Verordnung (EU) 2021/782 besteht Anspruch auf Erstattung der entstandenen Kosten (z.B. Kosten für eine Übernachtung oder ein alternatives Verkehrsmittel). In diesem Fall wird Ihr Antrag auf Rückerstattung dieser Kosten direkt durch das Servicecenter Fahrgastrechte bearbeitet.
 
 ###  Eurostar Tickets  ###
+
+#### Alle Infos ####
 
 Bei Zugausfall oder Verspätung ab 60 Minuten haben Sie für Ihr Eurostar-Ticket einen Anspruch auf Erstattung/Entschädigung.
 
@@ -223,6 +245,8 @@ Das **AJC-Abkommen stellt eine dokumentierte Kulanzregelung** dar. Es gibt keine
 
 ###  Wie wird AJC angewendet, wie funktioniert das?  ###
 
+#### Alle Infos ####
+
 Wenn Sie auf einer internationalen Reise aufgrund einer Verspätung oder eines Zugausfalls Ihren Anschlusszug verpassen, können Sie den nächsten verfügbaren Zug desselben Beförderers zur Weiterreise nutzen.
 
 Bitte besorgen Sie sich zunächst eine Verspätungsbestätigung (die Art der Bestätigung kann je nach Eisenbahnverkehrsunternehmen unterschiedlich sein), die vom Zugpersonal oder vom Personal vor Ort am Bahnhof ausgestellt werden kann.
@@ -243,6 +267,8 @@ Für die Anwendung der AJC-Kulanzregelung gelten folgende Bedingungen:
 
 ###  Anwendungsbeispiel  ###
 
+#### Alle Infos ####
+
 Sie reisen von Berlin über Prag nach Pilsen und haben hierfür getrennte Tickets:
 
 * ein von der DB ausgegebenes EC-Ticket von Berlin nach Prag
@@ -251,6 +277,8 @@ Sie reisen von Berlin über Prag nach Pilsen und haben hierfür getrennte Ticket
 Der Zug von Berlin nach Prag hat eine unvorhergesehene Verspätung, sodass Sie Ihren Anschlusszug in Prag verpassen. Bereits im EC-Zug haben Sie eine Bestätigung über die Verspätung erhalten. Mit dieser Bestätigung wenden Sie sich an das Personal im Bahnhof in Prag. Die Mitarbeitenden vor Ort werden sich vergewissern, dass Sie genügend Zeit für Ihren Anschlusszug eingeplant hatten und Sie dann darüber informieren, wann der nächste Zug der CD nach Pilsen fahren wird, den Sie dann ohne weitere Kosten nutzen können.
 
 ###  Weitere Informationen  ###
+
+#### Weitere Infos ####
 
 Weitere Informationen über den AJC finden Sie am Ende dieser Website
 

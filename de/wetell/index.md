@@ -504,6 +504,17 @@ Das sagen unsere Kund\*innen
 **Deine Meinung zählt!**
 Jeden Tag
 
+Hallo WEtell-Team!
+
+Das ist einfach so ein unglaublich guter Service. Vor allem auch Eure Kommunikation! 7 Mails innerhalb von zwei Monaten, die mich einfach auf dem Laufenden halten, wie der Stand ist!
+
+Ich finde Euch einfach toll.
+
+Dankbare Grüße
+
+**Moritz N.**
+27.07.26
+
 **Svenja**
 WEtell Kundin
 
