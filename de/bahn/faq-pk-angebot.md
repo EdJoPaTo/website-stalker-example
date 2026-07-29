@@ -4781,6 +4781,13 @@ Ein automatischer Umtausch in ein ermäßigtes Jobticket ist leider nicht mögli
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-abo-vorhanden)
 
+ Wie hoch ist der Arbeitgeberzuschuss für das Deutschland-Ticket Jobticket?
+----------
+
+Der Arbeitgeberzuschuss beträgt mindestens 25 Prozent des Ticketpreises. Dadurch wird das Deutschland-Ticket als Jobticket (63 Euro + 5 Prozent Rabatt) für Mitarbeitende besonders attraktiv.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-arbeitgeberzuschuss)
+
  Wann muss ich das Deutschland-Ticket Jobticket bezahlen?
 ----------
 
@@ -4881,6 +4888,13 @@ Bitte beachten Sie: Aus Sicherheitsgründen ist die Übertragung Ihres Handytic
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-handy-uebertragbar)
 
+ Bieten Sie Unternehmen individuelle Lösungen für das Deutschland-Ticket Jobticket an?
+----------
+
+Ja. Wir prüfen gemeinsam mit Ihnen, welche Lösung zu Ihrem Bedarf passt, zum Beispiel mit Blick auf Bestellstrecke, Identifikation, Verwaltung, Zahlungsmodalitäten oder andere Prozesse.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-individuelle-loesungen)
+
  Wie lauten die Konditionen des Deutschland-Tickets als Jobticket? Wo finde ich eine Übersicht?
 ----------
 
@@ -4908,6 +4922,13 @@ Sie können das Deutschland-Ticket Jobticket bis zum 10. des laufenden Monats zu
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-kuendigen)
+
+ Gibt es eine Mindestabnahmemenge für Unternehmen, die das Deutschland-Ticket Jobticket bestellen wollen?
+----------
+
+Der Einstieg ist bereits ab einem Ticket möglich. Für eine Einschätzung Ihres Bedarfs können Sie die geplante Abnahmemenge im Kontaktformular angeben.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-mindestabnahmemenge)
 
  Das Deutschland-Ticket Jobticket wird zum 1. Januar 2026 teurer - was muss ich jetzt tun?
 ----------
@@ -4943,6 +4964,13 @@ Das Deutschland-Ticket Jobticket kostet für Mitarbeitende unter den gegenwärt
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-preis)
+
+ Muss ich als Arbeitgebender direkt einen Rahmenvertrag ausfüllen, wenn ich ein Deutschland-Ticket Jobticket beantragen möchte?
+----------
+
+Nein. Wenn Sie zunächst Fragen zu Verwaltung, Bestellprozess, Service oder individuellen Anforderungen haben, können Sie über das Kontaktformular eine Anfrage stellen. Der Rahmenvertrag wird erst benötigt, wenn Sie das Angebot für Ihr Unternehmen starten möchten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-rahmenvertrag-sofort)
 
  Kann ich mein Verbundabo zu einem Deutschland-Ticket/Jobticket umtauschen?
 ----------
@@ -4995,6 +5023,13 @@ Bitte beachten Sie, dass das Deutschland-Ticket Jobticket namentlich auf die Mit
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=112)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-wer-kann-nutzen)
+
+ Wie bestellen Mitarbeitende das Deutschland-Ticket Jobticket?
+----------
+
+Nach der Einrichtung erhalten Mitarbeitende die Informationen zur digitalen Bestellung. Das Ticket wird digital im DB Navigator bereitgestellt. Der vereinbarte Fahrkostenzuschuss wird im Bestellprozess berücksichtigt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-wie-bestellen-mitarbeitende)
 
  Wann muss der Aktionsgutschein für die Dienstantrittsreise eingelöst werden?
 ----------
