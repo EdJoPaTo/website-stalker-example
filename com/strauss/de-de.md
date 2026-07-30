@@ -1,162 +1,380 @@
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html)
+[](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64327-1956.html?itemorigin=startseiteHW26)
 
- Perfekt für den Sommer! Sportliche S1-Sicherheit mit verstärkter Kunststoffkappe & atmungsaktivem Mesh-Material
+ Neue Kollektion
+---
 
- Profi-Sneaker: extra luftig & leicht
+ Leicht & beweglich
+---
+
+ Personalisierbar für jedes Team
+---
+
+ Modern im Look.
+Stark im Preis.
 ----------
 
 ---
 
-[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/)
+ Neue Kollektion
+---
 
- \+6
+ Leicht & beweglich
+---
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?amp;itemorigin=startseite_FS26&__mode=stripped)
+ Personalisierbar
+---
 
- S1 Sicherheitsschuhe
-e.s. St. Louis low
+ Modern im Look.
+Stark im Preis.
+---
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?amp;itemorigin=startseite_FS26&__mode=stripped)
+ Stretch Bundhose
 
- \+7
+ ab 51,05 €
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?amp;itemorigin=startseite_FS26&__mode=stripped)
+ (m. MwSt.)
 
- S1 Sicherheitsschuhe
-e.s. St. Louis low
+ ab 42,90 € (ohne MwSt.)
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html?amp;itemorigin=startseite_FS26&__mode=stripped)
+[](https://www.strauss.com/de/de/bundhosen/stretch-bundhose-e-s-line-core-3165140-64331-1956.html?itemorigin=startseiteHW26)
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-e-s-st-louis-low-1101680-93251-1479.html)
+[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+
+[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-padded-e-s-line-core-3135580-64348-1957.html?itemorigin=startseiteHW26)
+
+ Neue Kollektion
+---
+
+ Leicht & beweglich
+---
+
+ Personalisierbar für jedes Team
+---
+
+ Modern im Look.
+Stark im Preis.
+---
+
+ Neue Kollektion
+---
+
+ Leicht & beweglich
+---
+
+ Personalisierbar
+---
+
+ Modern im Look.
+Stark im Preis.
+---
+
+**Winterweste Padded**
+mit Fläche für Rückenprints
+
+[](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
+
+[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+
+[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/)
 
 Alles für den Job:
-
-**Profi-Arbeitskleidung vom Experten**
+Profi-Arbeitskleidung vom Experten
 
 ==========
 
 ---
 
-Luftige
-Outfits
-für heiße
-Tage
+[Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
+ \+3
+
+ S1 1003 mid
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
+
+ \+4
+
+ S1 1003 mid
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
+
+ \+3
+
+ S1 1003 mid
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
+
+ \+4
+
+ S1 1003 mid
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
+
+ \+3
+
+ S1 1003 mid
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
+
+ \+4
+
+ S1 1003 mid
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
+
+ Neuzugänge
+---
+
+ Stahlkappe
+---
+
+ Rutschhemmung
+---
+
+ Neuzugänge
+---
+
+ Stahlkappe
+---
+
+ Rutschhemmung
+---
+
+ Jobrunner mit
+Schutzpaket
+---
+
+[alle Schuhneuheiten entdecken](https://www.strauss.com/de/de/neuheiten-schuhe/)
+
+ S1
+---
+
+ Sicherheitsschuhe mit Zehenschutz
+
+ S1
+---
+
+ Sicherheitsschuhe mit Zehenschutz
+
+ \+1
+
+ Troyer thermo stretch
+
+[](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71382-1960.html?itemorigin=startseiteHW26)
+
+ \+2
+
+ Troyer thermo stretch
+
+[](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71382-1960.html?itemorigin=startseiteHW26)
+
+ \+1
+
+ Troyer thermo stretch
+
+[](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71332-1960.html?itemorigin=startseiteHW26)
+
+ \+2
+
+ Troyer thermo stretch
+
+[](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71332-1960.html?itemorigin=startseiteHW26)
+
+ Neuzugänge
+---
+
+ Neuzugänge
+---
+
+ Volle Wärme.
+Volle Bewegung.
+---
+
+[für Damen](https://www.strauss.com/de/de/e-s-trail-damen/)
+
+[für Herren](https://www.strauss.com/de/de/e-s-trail/)
+
+[für Kinder](https://www.strauss.com/de/de/e-s-trail-kinder/)
+
+[für Damen](https://www.strauss.com/de/de/e-s-trail-damen/)
+
+[für Herren](https://www.strauss.com/de/de/e-s-trail/)
+
+[für Kinder](https://www.strauss.com/de/de/e-s-trail-kinder/)
+
+[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65971-1965.html?itemorigin=startseiteHW26)
+
+ für Herren & Damen
+---
+
+ von Bundhose bis Funktionsjacke
+---
+
+ für Herren & Damen
+---
+
+ von Bundhose bis Funktionsjacke
+---
+
+ Motion 2020
+graphit/feuerrot
+---
+
+ Neue
+Farbe
+---
+
+ Neue
+Farbe
+---
+
+[neue Farbe entdecken](https://www.strauss.com/de/de/e-s-motion-2020/)
+
+[Farbe entdecken](https://www.strauss.com/de/de/e-s-motion-2020/)
+
+ Druck & Stick - ab 1 Stück
 ----------
 
 ---
 
-[](https://www.strauss.com/de/de/arbeitsshorts/short-e-s-motion-2020-3350190-65563-962.html?itemorigin=startseite_fs26)
-
-###  Shorts  ###
-
+ Jetzt selbst gestalten
 ---
 
-[für Herren](https://www.strauss.com/de/de/arbeitsshorts/)
+zu den Produkten
 
-[für Damen](https://www.strauss.com/de/de/arbeitsshorts-damen/)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
 
-[für Kinder](https://www.strauss.com/de/de/kinder-shorts/)
-
-[](https://www.strauss.com/de/de/arbeitsshirts-damen/t-shirt-e-s-motion-ten-pure-damen-3106440-21613-1551.html?itemorigin=startseite_fs26)
-
-###  Shirts  ###
-
+ Druck & Stick - ab 1 Stück
 ---
 
-[für Herren](https://www.strauss.com/de/de/arbeitsshirts/)
-
-[für Damen](https://www.strauss.com/de/de/arbeitsshirts-damen/)
-
-[für Kinder](https://www.strauss.com/de/de/kinder-shirts-polos/)
-
-[](https://www.strauss.com/de/de/caps/cap-e-s-iconic-works-3402080-7810870-1.html?itemorigin=startseite_fs26)
-
-###  Caps  ###
-
+ Jetzt selbst gestalten
 ---
 
-[für Herren](https://www.strauss.com/de/de/caps/)
+zu den Produkten
 
-[für Damen](https://www.strauss.com/de/de/caps-damen/)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
 
-[für Kinder](https://www.strauss.com/de/de/kinder-muetzen-caps/)
-
- % Ausrüstung & Zubehör %
-----------
-
+ mehr bestellen, mehr sparen
 ---
 
- % Ausrüstung & Zubehör %
+ umkompliziert gestalten & bestellen
 ---
 
- % Ausrüstung & Zubehör %
+ über 500 verüfgbare Motive & Motivupload
 ---
 
- Angebote
-des Monats
-----------
-
+ mehr bestellen, mehr sparen
 ---
 
-Gültig bis 31.07.2026 | Solange der Vorrat reicht
-
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
-
- Bis zu
+ umkompliziert gestalten & bestellen
 ---
 
- \-54%
+ über 500 verüfgbare Motive & Motivupload
 ---
 
-[](https://www.strauss.com/de/de/angebote-des-monats/)
+Druck: Easytransfer
 
-[](https://www.strauss.com/de/de/arbeitsshirts/e-s-funktions-zip-t-shirt-uv-3102120-87217-1088.html?itemorigin=startseite_fs26)
+ Druck eigener Motive möglich – farbbrillant, vielseitig & großflächig, bedruckte Textilien bis 40 °C waschbar.
 
- Sichtbar
-geschützt
-----------
+Stick: Direkteinstickung
 
+ Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
+
+ Neuzugänge
 ---
 
-###  UV-Komplettschutz im coolen Style  ###
-
+ Neuzugänge
 ---
 
-[zu allen UV-Schutzprodukten](https://www.strauss.com/de/de/uv-schutz/)
+ Herren
+---
 
-100 % UV-Schutz (UV400)
-**Race Sonnenbrille e.s.ambition**
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
 
-[](https://www.strauss.com/de/de/schutzbrillen/race-sonnenbrille-e-s-ambition-7040610-7476191-685.html?itemorigin=startseite_fs26)
+ Damen
+---
 
- SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
 
- SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
+ Kinder
+---
 
- SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
 
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=247d4773-9ceb-43ed-a6c0-b962346e59e1)
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
+
+ Neuzugänge
+---
+
+ Neuzugänge
+---
+
+ Herren
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
+
+ Damen
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
+
+ Kinder
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
+
+ Neuzugänge
+---
+
+ Neuzugänge
+---
+
+ Herren
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
+
+ Damen
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
+
+ Kinder
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
+
+*
+*
+*
+
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
  Set-Highlight
-----------
-
 ---
 
  Set-Highlight
 ---
 
- Set-Highlight
+ SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
 ---
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=247d4773-9ceb-43ed-a6c0-b962346e59e1)
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=247d4773-9ceb-43ed-a6c0-b962346e59e1)
-
- Strauss Aktionssets
-----------
-
----
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
 
  Strauss Aktionssets
 ---
@@ -166,10 +384,12 @@ geschützt
 
  Spar
 Deals!
+----------
+
 ---
 
-Farben + Größen flexibel
-zusammenstellen & kräftig sparen.
+ Farben + Größen flexibel zusammenstellen & kräftig sparen.
+---
 
 [alle Aktionssets entdecken](https://www.strauss.com/de/de/flexible-sets/)
 
@@ -177,96 +397,14 @@ zusammenstellen & kräftig sparen.
 
 [](https://www.strauss.com/de/de/flexible-sets/)
 
-**Alles für den Berufsstart:**
-
-Von personalisierter Workwear bis zur Ausrüstung
-
-----------
-
----
-
-###  Druck & Stick - ab 1 Stück  ###
-
----
-
- Jetzt online
-gestalten
-----------
-
----
-
-zu den Produkten
-
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
-
-für Arbeit, Vereine, Events uvm.
-
-unkompliziert gestalten & bestellen
-
-über 400 verfügbare Motive + Motivupload
-
-###
-
-Ausstattung für Berufsstarter
-
- ###
-
----
-
- Bundhose + Short e.s.motion ten
-
- \+ gratis Lunchbag
-
-[Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0035?itemorigin=startseite_fs26)
-
-[Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0031?itemorigin=startseite_fs26)
-
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0035?itemorigin=startseite_fs26)
-
- Werkzeug-Set Allround Meister
-
- \+ Werkzeugtrolley
-
-[](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-allround-meister-werkzeugtrolley-7148830-5505176-0.html?itemorigin=startseite_fs26)
-
-[](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-allround-meister-werkzeugtrolley-7148830-5505176-0.html?itemorigin=startseite_fs26)
-
- Werkzeug-Set Elektro Meister pro
-
- \+ Werkzeugtrolley
-
-[](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-elektro-meister-pro-werkzeugtrolley-7146170-5505181-0.html?itemorigin=startseite_fs26)
-
-[](https://www.strauss.com/de/de/werkzeugkoffer-bestueckt/werkzeug-set-elektro-meister-pro-werkzeugtrolley-7146170-5505181-0.html?itemorigin=startseite_fs26)
-
-[alle Werkzeugsets](https://www.strauss.com/de/de/sale-aktions-sets-werkzeuge/)
-
- e.s.work
-&travel
-----------
-
----
-
- Taschen, Rucksäcke & Koffer
-
- vielseitig kombinierbar
-
- praktische Features
-
-[alle Taschen entdecken](https://www.strauss.com/de/de/workandtravel)
-
- Perfekt für die Reise
-– mehr Komfort, mehr Ordnung,
-mehr Reisespaß!
-
-[](https://www.strauss.com/de/de/workandtravel)
-
- Von Workwear bis Werkzeug – Über 40.000 Produkte
-----------
-
----
-
 [Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/)
+
+ Von Workwear
+bis Werkzeug – Über
+40.000 Produkte
+----------
+
+---
 
 [Arbeitsschuhe](https://www.strauss.com/de/de/arbeitsschuhe/)
 
