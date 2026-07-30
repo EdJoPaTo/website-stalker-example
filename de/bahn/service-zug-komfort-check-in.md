@@ -10,9 +10,8 @@ Wenn Sie ein Digitales Ticket (Flexpreis, Sparpreis, Super Sparpreis) haben, kö
 Ihre Vorteile
 ----------
 
-* **Einsteigen & direkt entspannen:** Sitzplatz einnehmen und über die App DB Navigator einchecken. Im Anschluss können Sie direkt entspannen - in der Regel werden Sie nicht mehr durch den Zugbegleiter kontrolliert, wenn Sie sich auf ihrem aktuellen Sitzplatz eingecheckt haben.
-* **Direktes Feedback zum Ticket:** Kein Suchen nach dem Ticket. Mit nur einem Klick erhalten Sie auf Ihrem Display direktes Feedback, dass Ihr Check-in erfolgreich war. Unsere Zugbegleiter werden hierüber informiert.
-* **Selbstbestimmtes Reisen:** Die Reise selbst gestalten. Nehmen Sie sich mehr Zeit zum Lesen, Filme ansehen, Arbeiten oder genießen Sie etwas aus dem Bordbistro.
+* **Einsteigen & direkt entspannen:** Sitzplatz einnehmen und über die App DB Navigator einchecken.
+* **Direktes Feedback zum Ticket:** Kein Suchen nach dem Ticket. Mit nur einem Klick erhalten Sie auf Ihrem Display direktes Feedback, dass Ihr Check-in erfolgreich war.
 * **Gesicherter Sitzplatz:** Ihr Komfort Check-in ist durch die Belegtanzeige in vielen ICE-Zügen für Mitreisende sichtbar. Damit sichern Sie sich Ihren Sitzplatz bis zum Ausstiegshalt.
 
 Und so funktioniert der Komfort Check-in
@@ -20,11 +19,12 @@ Und so funktioniert der Komfort Check-in
 
 Der Komfort Check-in setzt ein Digitales Ticket voraus - unabhängig davon, ob Sie mit oder ohne Reservierung reisen. Der Check-in ist über die App DB Navigator, unsere Website sowie über das ICE Portal möglich.
 
-* [Springe zu: So funktioniert der Komfort Check-in in der App DB Navigator](https://www.bahn.de/service/zug/komfort-check-in#navigator)
-* [Springe zu: So funktioniert der Komfort Check-in über das ICE Portal](https://www.bahn.de/service/zug/komfort-check-in#iceportal)
-* [Springe zu: So funktioniert der Komfort Check-in über den Browser](https://www.bahn.de/service/zug/komfort-check-in#web)
+So funktioniert ...
+----------
 
-**Unser Tipp:** Wir empfehlen den Komfort Check-in über die App DB Navigator.
+* [Springe zu: ... der Komfort Check-in in der App DB Navigator](https://www.bahn.de/service/zug/komfort-check-in#navigator)
+* [Springe zu: ... der Komfort Check-in über das ICE Portal](https://www.bahn.de/service/zug/komfort-check-in#iceportal)
+* [Springe zu: ... der Komfort Check-in über den Browser](https://www.bahn.de/service/zug/komfort-check-in#web)
 
 Komfort Check-in im DB Navigator
 ----------
@@ -68,6 +68,10 @@ Sie sind jetzt auf diesem Reiseabschnitt und Sitzplatz eingecheckt.
 Tipp: Sie können Ihren Sitzplatz auch nachträglich noch ändern.
 
 [Weitere Informationen zu „Umsetzen und neu einchecken“](https://www.bahn.de/service/zug/komfort-check-in#umsetzen)
+
+### Ticket aufrufen ###
+
+Rufen Sie Ihr aktuelles Ticket über „Meine Reisen“ auf.
 
 Umsetzen und neu einchecken
 ----------
@@ -131,7 +135,7 @@ Der QR-Code befindet sich hinter dem jeweiligen Sitz an der Wand oder oberhalb d
 
 Nachdem Wagen- und Sitzplatznummer ermittelt wurden, klicken Sie auf den Button „Jetzt einchecken“, um den Komfort Check-in abzuschließen.
 
-Kompfort Check-in im ICE Portal
+Komfort Check-in im ICE Portal
 ----------
 
 ### ICE Portal aufrufen ###

@@ -7,6 +7,9 @@ Sitzplätze im ICE
 
 Mehr Beinfreiheit, Tisch oder Steckdose am Platz? Hier finden Sie Details zu Sitzplätzen und Komfort der 1. und. 2. Klasse in unseren ICE-Zügen.
 
+Alle Informationen zu Sitzplätzen im ICE
+----------
+
 ### Großzügige Kniefreiheit in allen ICEs ###
 
 **Kniefreiheit**
@@ -54,6 +57,7 @@ mind. 1 Verstellmöglichkeit, in ausgewählten Baureihen
 **2. Klasse:** nur in ausgewählten Zügen
 
 Das könnte Sie auch interessieren:
+----------
 
 * Informationen zum [Handy- und Ruhebereich](https://www.bahn.de/service/zug/ruhebereich)
 * Informationen zum [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)

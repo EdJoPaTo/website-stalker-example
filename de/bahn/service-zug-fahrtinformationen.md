@@ -18,7 +18,8 @@ Unter den Fahrtinformationen sehen Sie
 * wenn Sie eine Sitzplatzreservierung haben, an welchem Gleisabschnitt der Wagen hält, in dem sich Ihr gebuchter Sitzplatz befindet
 * welche Baureihe der Zug ist
 
-**Zusätzlich finden Sie auch Informationen zur Lage bestimmter Sitzplätze/Bereiche:**
+Zusätzlich finden Sie auch Informationen zur Lage bestimmter Sitzplätze/Bereiche:
+----------
 
 * Familienbereich
 * Kleinkindabteil & Kleinkindbereich
@@ -101,11 +102,15 @@ Hintergrundinformationen zu den Bereichen/ Sitzplätzen
 
 ###  Familienbereich  ###
 
+#### Alle Infos ####
+
 Bei Bahnreisen im ICE können Familien mit Kindern Sitzplätze im Familienbereich reservieren. Dort reisen Sie entspannt in Gesellschaft anderer Familien.
 
 * [Erfahren Sie hier mehr zum Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich)
 
 ###  Kleinkindabteil/ Kleinkindbereich  ###
+
+#### Alle Infos ####
 
 Besonders für Familien mit Kindern im Still- und Krabbelalter bieten die Kleinkindabteile Privatsphäre während der Bahnfahrt.
 
@@ -113,12 +118,18 @@ Besonders für Familien mit Kindern im Still- und Krabbelalter bieten die Kleink
 
 ###  Exklusiver BahnBonus Sitzplatzbereich  ###
 
+#### Alle Infos ####
+
 Sitzplätze in diesem Bereich sind reserviert für alle im BahnBonus Statuslevel Gold und Platin.
 
 ###  Ruhebereich  ###
 
+#### Alle Infos ####
+
 Für Fahrgäste mit Wunsch nach Ruhe und Entspannung haben wir spezielle Ruhebereiche eingerichtet. In diesem Bereich sind Telefonate, Klingeltöne, lautes Musikhören (auch via Kopfhörer) oder sonstige lärmende Tätigkeiten nicht erwünscht.
 
 ###  Vorrangplätze für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität  ###
+
+#### Alle Infos ####
 
 In unseren Fernverkehrszügen weisen wir **Vorrangplätze** für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität gesondert aus – in der Reservierungsanzeige mit der Anzeige „Vorrangplatz“ sowie in allen neuen Zügen zusätzlich auch mit Piktogrammen.

@@ -7,6 +7,9 @@ Tickets und Reservierungen umtauschen oder stornieren
 
 Wie Sie Ihre Aufträge umbuchen oder stornieren, erklären wir Ihnen gerne im Detail - bitte klicken Sie dazu in der unten stehenden Liste Ihre Ticketart oder die Art Ihrer Reservierung an.
 
+Wichtiger Hinweis
+----------
+
 Der Umtausch gebuchter Tickets ist nicht möglich. Sie können Ihre gekauften Tickets aber stornieren und eine neue Reise buchen.
 
 Sofortstornierung von Tickets
@@ -157,6 +160,8 @@ Sie können diese Tickets nicht stornieren oder umtauschen.
 Sie können diese Tickets nicht stornieren oder umtauschen.
 
 ###  Tickets zu Spezial- und Aktionspreisen  ###
+
+#### AGB ####
 
 Es gelten die jeweils gültigen AGB der einzelnen Angebote. Die meisten Aktionsangebote sind von Umtausch und Stornierung ausgeschlossen.
 
