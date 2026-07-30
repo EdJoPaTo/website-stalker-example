@@ -113,20 +113,18 @@ Wir bieten dir Service Level an, die die regulären Garantien zur Verfügbarkeit
 
 [Storage Space](https://www.netcup.com/de/server/server-storage)
 
-[Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
+[netcup Labs](https://www.netcup.com/de/server/labs)
 
 [VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
 
-[vServer Lite](https://www.netcup.com/de/server/guenstige-vserver-angebote)
+[vServer Lite](https://www.netcup.com/de/server/vps-lite)
 
 [CD-ROMs / DVDs / Images](https://www.netcup.com/de/server/vserver-images)
 
-[netcup Labs](https://www.netcup.com/de/server/labs)
+[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
 
 [VPS (ARM64) Generation 11](https://www.netcup.com/de/server/arm-server)
 
 [Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
 
-[OpenClaw](https://www.netcup.com/de/server/vserver-images/openclaw)
-
-[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
+[Details zu unseren vServern](https://www.netcup.com/de/server/vserver-guenstig-qualitaet)
