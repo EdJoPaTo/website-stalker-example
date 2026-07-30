@@ -7,7 +7,10 @@ WLAN im Nahverkehr
 
 In zahlreichen Zügen der DB Regio bieten wir Ihnen auf ausgewählten Linien mit WIFI@DB oder ähnlicher Bezeichnung kostenfreies WLAN an.
 
-Sie können, unabhängig vom Netz Ihres Mobilfunkanbieters, mit dem Smartphone oder Laptop surfen, E-Mails senden und empfangen, Dateien in der Cloud speichern oder übers Internet telefonieren.
+Allgemeine Info
+----------
+
+Sie können, unabhängig vom Netz Ihres Mobilfunkanbieters, mit dem Smartphone oder Laptop surfen, E-Mails senden und empfangen, Dateien in der Cloud speichern oder übers Internet telefonieren.
 
 Und so einfach geht's
 ----------

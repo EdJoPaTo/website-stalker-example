@@ -22,6 +22,9 @@ Pannen rund um die Bahnreise:
 * [Springe zu: Ich sitze in einem verspäteten Zug und weiß nicht, ob mein Anschluss klappt.](https://www.bahn.de/service/zug/was-tun-wenn-es-mal-schief-laeuft#SitzeimverspaetetenZug)
 * [Springe zu: Ich bin in den falschen Zug gestiegen.](https://www.bahn.de/service/zug/was-tun-wenn-es-mal-schief-laeuft#Sitze%20im%20falschen%20Zug)
 
+Grafik: zwei Personen am Gleich. Info, dass der Zug verspätet ist.
+----------
+
 Ich bin am Bahnhof und mein Zug hat Verspätung – was kann ich tun?
 ----------
 

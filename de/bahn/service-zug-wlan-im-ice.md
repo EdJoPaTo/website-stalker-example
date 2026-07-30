@@ -15,6 +15,9 @@ So einfach nutzen Sie das kostenlose WLAN-Angebot:
 * Bei manchen Systemen öffnet sich nun automatisch die Log-In-Seite. Wenn nicht, geben Sie in Ihrem Browser im Adressfeld **„LogIn.WIFIonICE.de“** ein und drücken dann die Enter-Taste.
 * Auf der Landing-Page erscheint automatisch eine Log-In-Seite. Dort bestätigen Sie die AGB mit Klicken auf den roten Button „Jetzt kostenlos surfen“.
 
+Alle Infos
+----------
+
 Die Züge des Fernverkehrs sind mit einer leistungsfähigen Multiprovidertechnik ausgestattet, die für die Verbindung zum Internet alle an den Eisenbahnstrecken verfügbaren Mobilfunknetze parallel nutzt. Das WLAN steht allen Fahrgästen **in der 1. sowie in der 2. Klasse kostenlos** zur Verfügung.
 
  Kein anderes Verkehrsmittel bietet so optimale Bedingungen zur Internetnutzung wie die Züge des Fernverkehrs. Deshalb können Sie sich während der Fahrt ins drahtlose Internet einloggen - und das sogar bei bis zu 300 km/h.
