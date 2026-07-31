@@ -837,17 +837,6 @@ Der Preis wird bei der Buchung automatisch berechnet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-flexpreis-europa)
 
- Kann ich für mein alleinreisendes Kind einen Flexpreis Young kaufen?
-----------
-
-Nein, das Angebot gilt nicht für alleinreisende Kinder. Alleinreisende Kinder erhalten bereits 50 % Rabatt auf ihr Ticket.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-flexpreis-young)
-
  Kann ich für mein alleinreisendes Kind einen Normalpreis kaufen?
 ----------
 
@@ -1025,17 +1014,6 @@ Sind Sie am 1. Reisetag 65 Jahre oder älter, dann können Sie den Super Sparpre
 [Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersangabe-ab-65-jahre)
-
- Was bedeutet die Altersangabe "Unter 27 Jahre"?
-----------
-
-Das Angebot Flexpreis Young ist ein Angebot, das sich speziell an die junge Zielgruppe zwischen 15 und 26 Jahren richtet. Ausschlaggebend ist das Alter am ersten Reisetag, nicht beim Kauf des Tickets. Bei einer Hin- und Rückfahrt ist das Alter bei der ersten Fahrt (Hinfahrt) entscheidend.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersangabe-flexpreis-young)
 
  Ich habe ein älteres Smartphone und kann meine digitale BahnCard 25/50 nicht im DB Navigator nutzen. Was kann ich tun?
 ----------
@@ -1564,17 +1542,6 @@ Bitte prüfen Sie zunächst Ihre Internetverbindung. Vergewissern Sie sich bitte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausleihe-kann-nicht-beendet-werden)
 
- Ich bin unter 16 Jahren und besitze noch keinen Personalausweis. Wie kann ich mein Alter nachweisen?
-----------
-
-Generell gilt in Deutschland eine Ausweispflicht ab 16 Jahren. Alternativ zum Personalausweis kann aber auch ein Schülerausweis, Kinderreisepass oder Lichtbildausweis mitgeführt werden.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausweis-flexpreis-young)
-
  Welche Auswertung steckt hinter den Graphen auf der Startseite?
 ----------
 
@@ -1913,19 +1880,6 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-europa)
 
- Bekomme ich Rabatt auf den Flexpreis Young mit der BahnCard?
-----------
-
-Ja. Mit der BahnCard 25 erhältst du 25 % und mit der BahnCard 50 erhältst du 50 % Rabatt. Die My BahnCard 50 für junge Leute bis einschließlich 26 Jahre ist ebenfalls vom 1. April bis zum 31. Juli 2026 zum reduzierten Preis von 64,99 Euro (statt 79,90 Euro) erhältlich. So kannst du doppelt sparen!
-
-* [Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-young)
-
  Bekomme ich beim Frühbucherangebot für Gruppen Rabatt mit der BahnCard?
 ----------
 
@@ -2063,164 +2017,6 @@ Nein. Ein BahnCard Rabatt kann bei einer Buchung der Gruppenangebote nicht gewä
 Sie finden Ihre BahnCard 100 als digitales Ticket im Bereich "Reisen" oder direkt in Ihrem Profil in der App DB Navigator.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard100-wo)
-
- Wie lange gilt die BahnCard 25=50 Aktion?
-----------
-
-Die Aktion gilt vom 1. bis einschließlich 31. Juli 2026. Für Fahrten in diesem Zeitraum können BahnCard 25 Inhaber und Inhaberinnen den Flexpreis-Rabatt einer BahnCard 50 nutzen. Die Rückfahrt muss bis zum 31. Juli 2026 erfolgen. Die Aktion gilt nur für Buchungen, die im Zeitraum 1. bis 31. Juli 2026 getätigt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion)
-
- Kann ich die BahnCard 25=50-Aktion auch nutzen, wenn ich ein Ticket für eine internationale Fahrt kaufen möchte?
-----------
-
-Nein, das ist nicht möglich. Die Aktion gilt nur für Fahrten innerhalb Deutschlands und nicht für grenzüberschreitende Fahrten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-ausland)
-
- Gilt die BahnCard 25=50-Aktion auch für Inhaber einer BahnCard Business 25?
-----------
-
-Ja, auch Inhaber einer BahnCard Business 25 können an der Aktion teilnehmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-bcb)
-
- Wo kann ich die Tickets kaufen?
-----------
-
-Die Tickets können online oder in der App DB Navigator sowie in den DB-Reisezentren, DB-Agenturen und am DB-Automaten gekauft werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-kaufen)
-
- Gilt die Aktion auch für Fahrkarten im Nahverkehr?
-----------
-
-Nein, die Aktion gilt nicht für Fahrtenkarten des Nahverkehrs (z.B. Verbundangebote oder der Normalpreis des Deutschlandtarifs). Sie gilt ausschließlich für innerdeutsche Fahrkarten im Fernverkehr, wenn mindestens eine Teilstrecke im ICE, IC/EC erfolgt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-nahverkehr)
-
- Gilt die BahnCard 25=50 Aktion auch, wenn die Hinfahrt im Juli 2026 erfolgt, die Rückfahrt aber erst im August 2026?
-----------
-
-Nein, die Aktion gilt ausschließlich für Reisen im Juli 2026. Auch die Rückfahrt muss spätestens bis zum 31. Juli 2026 erfolgen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-reisetage)
-
- Kann ich die BahnCard 25=50-Aktion auch für Sparpreise nutzen?
-----------
-
-Der gewährte Rabatt auf die Sparpreise ist für die BahnCard 25 und 50 identisch, daher greift die BahnCard 25=50-Aktion hier nicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-sparpreise)
-
- Wie funktioniert die BahnCard 25=50 Aktion?
-----------
-
-Mit der BahnCard 25=50 Aktion können Inhaber und Inhaberinnen einer BahnCard 25 einen Rabatt von 50% auf den Flexpreis erhalten. Bei der Buchung wählen Sie dazu eine BahnCard 50-Ermäßigung aus, die der Klasse der eigenen BahnCard 25 entspricht. In den DB-Reisezentren, DB-Agenturen oder am DB-Automaten wird im Buchungsprozess manuell eine BahnCard 50 Ermäßigung analog der Klasse der eigenen BahnCard 25 ausgewählt. Auf dem Ticket wird eine BahnCard 50 Ermäßigung mit einem um 50% reduzierten Flexpreis ausgewiesen.
-
-Voraussetzung für die Nutzung der BC 25=50-Aktion ist der Besitz einer gültigen BahnCard 25.
-
-Vergessen Sie nicht, Ihre BahnCard 25 mitzuführen und auf Verlangen im Zug vorzuzeigen, um die Ermäßigung in Anspruch nehmen zu können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25gleich50aktion-wie)
-
- Wie lange kann man die BahnCard 50 Produkte zum Aktionspreis kaufen?
-----------
-
-Alle BahnCard 50 Jahresprodukte sind im Zeitraum vom 1. April bis zum 31. Juli 2026 zum reduzierten Aktionspreis erhältlich. Letztmöglicher erster Geltungstag ist der 30. September 2026.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion)
-
- Läuft die BahnCard 50 zum Aktionspreis in ein Abo über?
-----------
-
-Ja, die BahnCard 50 zum Aktionspreis geht nach Ablauf des Gültigkeitszeitraums von einem Jahr in ein BahnCard 50-Abonnement zum regulären Preis über, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird. Die Folgekarte ist, abhängig vom Alter sowie ggf. der Ermäßigungsberechtigung, entweder eine reguläre oder ermäßigte BahnCard beziehungsweise eine Senioren BahnCard oder eine My BahnCard der 1. beziehungsweise 2. Klasse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-abo)
-
- Wie lange ist die BahnCard 50 zum Aktionspreis gültig?
-----------
-
-Die BahnCard 50 hat eine Gültigkeit von 12 Monaten. Die BahnCard 50 zum Aktionspreis gilt ab dem 1. Geltungstag 1 Jahr lang. Sie wird automatisch um ein weiteres Jahr verlängert, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-gueltigkeit)
-
- Wie kann ich meine BahnCard 50 zum Aktionspreis kündigen?
-----------
-
-Sie können Ihre BahnCard 50 zum Aktionspreis bis zu 4 Wochen vor Laufzeitende in Textform kündigen.
-
-So kündigen Sie online:
-
-* In Ihr DB Kundenkonto einloggen.
-* Auf "BahnCard" klicken und "Optionen" auswählen.
-* Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
-* Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
-
-Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-kuendigen)
-
- Wofür kann ich die BahnCard 50 zum Aktionspreis nutzen?
-----------
-
-Mit der BahnCard 50 zum Aktionspreis erhalten Sie einen Rabatt von 50 Prozent auf die Flexpreise sowie 25 Prozent auf die Super Spar- und Sparpreise innerhalb Deutschlands für die entsprechende Wagenklasse. Das kostenpflichtige City-Ticket beim Sparpreis und Super Sparpreis wird nicht rabattiert.
-
-In einigen Verkehrsverbünden bekommt man mit der BahnCard 50 einen Rabatt auf Angebote des Verbundtarifs gewährt. Ob es eine Anerkennung der BahnCard in den jeweiligen Landestarifen oder Verkehrsverbünden gibt, regeln deren Tarif- und Beförderungsbedingungen.
-
-Wenn die BahnCard auf der gewünschten Verbindung anerkannt wird, wird der Rabatt bei der Buchung automatisch abgezogen.
-
-Weitere Infos zu den [Tarif- und Beförderungsbedingungen](http://bahn.de/agb) der jeweiligen Verbünde und Landestarife.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-nutzen)
-
- Wie viel kostet die BahnCard 50 im Aktionszeitraum?
-----------
-
-Preis der BahnCard 50 im Aktionszeitraum:
-
-BahnCard 50:
-
-* 199 Euro in der 2. Klasse
-* 429 Euro in der 1. Klasse
-
-Senioren BahnCard 50:
-
-* 99 Euro in der 2. Klasse
-* 209 Euro in der 1. Klasse
-
-Ermäßigte BahnCard 50:
-
-* 99 Euro in der 2. Klasse
-* 209 Euro in der 1. Klasse
-
-My BahnCard 50:
-
-* 64,99 Euro in der 2. Klasse
-* 209 Euro in der 1. Klasse
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-preis)
-
- Kann ich meine bestehende BahnCard in eine BahnCard 50 zum Aktionspreis umtauschen?
-----------
-
-Nein, weder ein Upgrade noch ein Umtausch in eine BahnCard 50 zum Aktionspreis sind möglich. Eine Anrechnung der bestehende BahnCard auf eine BahnCard zum Aktionspreis ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-umtausch)
-
- Gilt für die vergünstigten BahnCard 50 Produkte der reguläre Vorverkaufszeitraum von 180 Tagen?
-----------
-
-Nein, der reguläre Vorverkaufszeitraum von 180 Tagen ist beim Kauf der BahnCard 50 zum Aktionspreis eingeschränkt. Der letztmögliche erste Geltungstag für eine vergünstigte BahnCard 50, My BahnCard 50, Senioren BahnCard 50, Ermäßigte BahnCard 50 ist der 30. September 2026.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-vorverkaufszeitraum)
-
- Wer kann die vergünstigte BahnCard 50 kaufen?
-----------
-
-Alle BahnCard 50 Jahresprodukte werden im Zeitraum vom 1. April bis zum 31. Juli 2026 zum reduzierten Preis angeboten und sind für alle Altersgruppen verfügbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard50-aktion-wer)
 
  Wie lassen sich mit dem (Super) Sparpreis Europa die Bahnsteigsperren an den Bahnhöfen in den Niederlanden öffnen?
 ----------
@@ -3215,23 +3011,6 @@ Wenn hingegen laut Buchungsanfrage ausschließlich Züge des DB Fernverkehrs ben
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-city-ticket-sp-ssp)
 
- Wo und wie kann ich den Flexpreis Young kaufen?
-----------
-
-Den Flexpreis Young kannst du über bahn.de oder unsere App DB Navigator kaufen.
-
-Bitte wähle dazu bei der Buchung unter „Reisende, Fahrräder, BahnCards“ bzw. im DB Navigator unter „Reisende, Fahrräder, Ermäßigungen“ den Reisendentyp „Person (15-26 Jahre)“ sowie die 2. Klasse aus.
-
-Beachte, dass bei der gewünschten Fahrt mindestens eine Teilstrecke in Zügen der Produktklassen ICE oder IC/EC zurückgelegt werden muss.
-
-Darüber hinaus ist der Flexpreis Young auch in den DB Reisezentren sowie in ausgewählten DB Agenturen erhältlich.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-flexpreis-young)
-
  Ich habe Probleme bei der Buchung eines IC/EC-Abos. An wen kann ich mich wenden?
 ----------
 
@@ -3348,6 +3127,8 @@ Sie können den Super Sparpreis Last Minute vom 9. Mai bis 13. September 2026 an
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchungszeitraum-sparpreis-last-minute)
 
  Meine Chipkarte wurde gesperrt/das Ticket ist nicht lesbar. Was kann ich tun?
@@ -3425,17 +3206,6 @@ Ja. In **130 Städten** ist für Sie das **City-Ticket kostenfrei** enthalten. 
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-flexpreis)
-
- Ist das City-Ticket im Flexpreis Young enthalten?
-----------
-
-Ja, **in 140 Städten ist das City-Ticket kostenfrei enthalten**. Ob dein Start- oder Zielbahnhof dazugehört, erkennst du an dem Vermerk **„+City**“ auf deinem Ticket.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-flexpreis-young)
 
  Kann ich ein City-Ticket selbst hinzubuchen oder abwählen?
 ----------
@@ -6777,17 +6547,6 @@ Ja, der Flexpreis Europa ist auch für internationale Verbindungen buchbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis)
 
- Ist der Flexpreis Young auch für internationale Fahrten buchbar?
-----------
-
-Nein, der Flexpreis Young gilt nur für Reisen innerhalb Deutschlands.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis-young)
-
  Warum kann ich beim Frühbucherangebot für Gruppen keinen Preis für internationale Reisen sichern?
 ----------
 
@@ -8140,18 +7899,6 @@ Bis zu 4 Kinder im Alter von 6 bis 14 Jahren fahren in Begleitung von Reisenden 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-flexpreis)
 
- Können Kinder mit dem Flexpreis Young kostenfrei reisen?
-----------
-
-* **Kinder bis 5 Jahre** fahren immer kostenfrei und müssen nicht bei der Buchung angegeben werden.
-* **Kinder von 6 bis 14** **Jahren** fahren in Begleitung einer Person ab 15 Jahre kostenfrei. Sie müssen aber bei der Buchung angegeben werden. Es können bis zu 4 Kinder pro Fahrkarte mitgenommen werden.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-flexpreis-young)
-
  Können wir mit dem Frühbucherangebot kostenlos Kinder mitnehmen?
 ----------
 
@@ -8551,17 +8298,6 @@ Nein, eine Kindermitnahme ist bei Dienstantrittsreisen der Bundeswehr ausgeschlo
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kindermitnahme-bundeswehr-dienstantrittsreisen)
 
- Kann ich mit meinem Flexpreis Young-Ticket für die 2. Klasse in der 1. Klasse reisen?
-----------
-
-Nein, den Flexpreis Young gibt es nur für die 2. Klasse. Entsprechend ist ein Upgrade in die 1. Klasse leider nicht möglich.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/klasse-flexpreis-young)
-
  Was kostet das Bundeswehr-Ticket?
 ----------
 
@@ -8809,19 +8545,6 @@ Prüfen Sie, ob Ihre E-Mail im DB Kundenkonto unter "Persönliche Daten" aktuell
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mahngebuehr)
 
- Was ist eine 4erKarte im marego, wer kann mitfahren und wo gilt sie?
-----------
-
-Eine 4er Karte ist zum Normal - und ermäßigten Fahrpreis erhältlich. Ein ermäßigten Fahrpreis erhalten Kinder von 6 bis einschließlich 14 Jahren. 4er-Karten zum ermäßigten Fahrpreis werden außerdem zur Mitnahme von Sachen und Tieren ausgegeben. Je Fahrt müssen Sie einen Abschnitt entwerten. Eine Nutzung durch mehrere Fahrgäste ist möglich, wobei für jeden Fahrgast ein Abschnitt entwertet werden muss.
-
-Eine 4er-Karte ist an eine Relation gebunden; in Preisstufe 12 gilt die Karte für das marego Gesamtnetz. Der Abschnitt einer 4er -Karte kann entsprechend der aufgedruckten Relation für die Hin- oder die Rückfahrt genutzt werden, für 1 Fahrt in eine der beiden Richtungen ist aber jeweils ein Abschnitt pro Person zu entwerten.
-
-[Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-4er-karte)
-
  Wann erfolgen die Abbuchungen für mein marego-Abo?
 ----------
 
@@ -8847,19 +8570,6 @@ Ihre marego-Abos sind mit monatlicher Zahlungsweise erhältlich. Die Abbuchung e
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-abo-bonusprogramm)
 
- Kann ich im marego eine Anschlussfahrt buchen, wenn ich über den Geltungsbereich hinaus fahren will?
-----------
-
-Ja. Inhaber einer Zeitkarten können über den auf ihrer Zeitkarte angegebenen Geltungsbereich hinaus weiterfahren, wenn sie für den zu ergänzenden Fahrweg eine Anschlussfahrt kaufen. Anschlussfahrten können für die Hin- und Rückfahrt erworben werden. Weiterhin gelten die Nutzungsbedingungen der Einzelfahrt. Fahrkarten für eine Anschlussfahrt werden zum Normal- und ermäßigten Fahrpreis für eine Person ausgegeben. Ein ermäßigten Fahrpreis erhalten Kinder von 6 bis einschließlich 14 Jahren. Für die Mitnahme von Haustieren und Sachen können Sie Tickets zum ermäßigten Preis kaufen.
-
-Die Preisstufe der Anschlussfahrt richtet sich nach der Fahrstrecke ab der Grenze des Geltungsbereiches der Zeitfahrkarte und dem Fahrtziel. Die Anschlussfahrt wird nur in Verbindung mit einer gültigen Zeitfahrkarte anerkannt.
-
-[Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-anschlussfahrt)
-
  In welcher Form werden marego-Abos ausgegeben?
 ----------
 
@@ -8871,17 +8581,6 @@ Sie benötigen hierfür die App DB Navigator.
 [Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=73,121,39,268,41,269,270#/produktauswahl)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-digitales-abo)
-
- Für wen gilt die marego Minigruppen-Tageskarte?
-----------
-
-Eine Minigruppen-Tageskarte gilt für bis zu 5 gemeinsam reisende Personen (keine Altersbeschränkung) im räumlichen Geltungsbereich bis 4 Uhr des nächsten Tages. Bitte tragen Sie die Namen der Mitreisenden schon bei der Buchung ein; eine nachträgliche Ergänzung ist nicht möglich.
-
-[Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/marego-minigruppen-tageskarte)
 
  Welche Tickets des marego sind in der App DB Navigator oder online erhältlich?
 ----------
@@ -10017,17 +9716,6 @@ Die Preise variieren je nach Strecke, Buchungs- und Reisedatum und gelten für e
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-flexpreis)
 
- Was kostet ein Flexpreis Young- Ticket?
-----------
-
-Die Preise variieren je nach Strecke, Buchungs- und Reisedatum und gelten für eine einfache Fahrt innerhalb Deutschlands.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-flexpreis-young)
-
  Was kostet ein Normalpreis-Ticket?
 ----------
 
@@ -10053,7 +9741,7 @@ Die Preise sind streckenbezogen und gelten für eine einfache Fahrt in Abhängig
  Was kostet ein Sparpreis-Ticket?
 ----------
 
-Ein Sparpreis-Ticket für die einfache Fahrt kostet je nach Verfügbarkeit ab 21,99 Euro in der 2. Klasse und ab 34,99 Euro in der 1. Klasse.
+Ein Sparpreis-Ticket für die einfache Fahrt kostet je nach Verfügbarkeit ab 21,99 Euro in der 2. Klasse und ab 29,99 Euro in der 1. Klasse.
 
 [Weitere Informationen zum Sparpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis)
 
@@ -10438,7 +10126,7 @@ Ein Ticket für die einfache Fahrt mit dem **Sparpreis Young** kostet je nach 
  Was kostet ein Super Sparpreis-Ticket?
 ----------
 
-Ein **Super Sparpreis-Ticket** für die einfache Fahrt kostet je nach Verfügbarkeit ab 17,99 Euro in der 2. Klasse und ab 27,99 Euro in der 1. Klasse.
+Ein **Super Sparpreis-Ticket** für die einfache Fahrt kostet je nach Verfügbarkeit ab 17,99 Euro in der 2. Klasse und ab 23,99 Euro in der 1. Klasse.
 
 **Auf kurzen Strecken in der 2. Klasse je nach Verfügbarkeit schon ab 6,99 Euro.**
 
@@ -10807,6 +10495,8 @@ Die einfache Fahrt kostet **pro Person** je nach Verfügbarkeit **ab 8,99 Euro**
 Ein Super Sparpreis Last Minute-Ticket für die einfache Fahrt kostet je nach Verfügbarkeit ab 6,99 Euro in der 2. Klasse. Nur solange der Vorrat reicht.
 
 [Weitere Informationen zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
+
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-super-sparpreis-last-minute)
 
@@ -11620,17 +11310,6 @@ Für die Rückerstattung des Reservierungsentgelts können Sie den Antrag formlo
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-flexpreis)
 
- Ist beim Flexpreis Young eine Sitzplatzreservierung im Preis enthalten?
-----------
-
-Nein, die Fahrkarte enthält keine Sitzplatzreservierung. Diese kannst du zusammen mit der Fahrkarte oder später separat kaufen.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-flexpreis-young)
-
  Kann ich auch eine Sitzplatzreservierung ohne Ticket buchen?
 ----------
 
@@ -11940,26 +11619,6 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis-europa)
 
- Kann ich mein Flexpreis Young-Ticket umbuchen oder stornieren?
-----------
-
-Ja.
-
-* **Bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
-* **Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
-
-Unabhängig von den Angebots-Bedingungen:
-
-* Du kannst dein Digitales Ticket vor dem 1. Geltungstag innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren und erhälst den kompletten Betrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis-young)
-
  Kann ich mein Normalpreis-Ticket umbuchen oder stornieren?
 ----------
 
@@ -12144,6 +11803,8 @@ Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornier
 
 [Zum Super Sparpreise Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-last-minute)
 
  Kann ich mein Länder-Ticket oder mein Quer-durchs-Land-Ticket stornieren oder umtauschen?
@@ -12156,17 +11817,6 @@ Als Ausnahme gilt, wenn Sie aufgrund Ihrer Fahrgastrechte Anspruch auf eine Rüc
 * [Mehr Informationen zu Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-umtausch)
-
- Warum finde ich auf meiner Strecke den Flexpreis Young nicht?
-----------
-
-Du kannst das Angebot nur für Reisen im Zeitraum vom 1. April bis 12. Dezember 2026 buchen. Eine Teilstrecke musst du dabei in Zügen der Produktklasse ICE oder IC/EC zurücklegen.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strecke-flexpreis-young)
 
  Auf welchen Strecken gilt das waldbahn-Tagesticket?
 ----------
@@ -12181,6 +11831,208 @@ Das Ticket gilt in der 2. Klasse in den Zügen der waldbahn auf den folgenden St
 * Gotteszell - Viechtach
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strecken-waldbahn-tagesticket)
+
+ An wen wende ich mich bei weiteren Fragen rund um den Bahn-Gutschein?
+----------
+
+Die detaillierten Angebotskonditionen können nachgelesen werden unter [storck-promotion.de/bahn](https://storck-promotion.de/bahn/).
+
+Weitere Fragen beantwortet die Service-Hotline der Deutschen Bahn: [030 2970](tel:030 2970).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-fragen-bahn-gutschein)
+
+ An wen wende ich mich, wenn ich Fragen bezüglich der Fahrgastrechte habe?
+----------
+
+Informationen zu den Fahrgastrechten der Deutschen Bahn finden Sie auf [bahn.de/fahrgastrechte](https://cms-author-prd-default.dbv4.comp.db.de/next-bahn-de/service/informationen-buchung/fahrgastrechte).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-fragen-fahrgastrechte)
+
+ An wen wende ich mich, wenn ich weitere Fragen rund um die Storck-Aktion habe?
+----------
+
+Sollten hier nicht alle Fragen beantwortet worden sein, besteht die Möglichkeit, eine E-Mail an [storck@promotionservice.de](mailto:storck@promotionservice.de) zu schicken.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-fragen-storck-aktion)
+
+ Ist der Bahn-Gutschein auch telefonisch oder am DB-Fahrkartenautomat einlösbar?
+----------
+
+Nein, das ist leider nicht möglich. Sie können den Bahn-Gutschein online im eingeloggten Bereich auf bahn.de oder in der App DB Navigator einlösen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-einloesen)
+
+ Kann ich mit dem Bahn-Gutschein auch ein Ticket für die 1. Klasse buchen?
+----------
+
+Ja, der Gutschein kann beim Kauf von digitalen Tickets der 1. und 2. Klasse genutzt werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-erste-klasse)
+
+ Ist der Bahn-Gutschein für die Buchung einer Fahrradmitnahme gültig?
+----------
+
+Der Bahn-Gutschein ist für die Buchung eines digitalen ICE-, IC/EC-Tickets mit einer Fahrradkarte inklusive Stellplatz nutzbar. Die Kosten für die Fahrradkarte inklusive Stellplatz gehen (wie die einer Sitzplatzreservierung) nicht in den Mindestfahrkartenwert ein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-fahrradmitnahme)
+
+ Kann ich den Bahn-Gutschein für die Buchung eines Tickets für ein Kind unter 15 Jahren einlösen?
+----------
+
+Der Bahn-Gutschein kann auch für die Buchung von alleinreisenden Kindern unter 15 Jahren eingelöst werden, d.h. der Bahn-Gutschein kann von Eltern bei der Buchung für ihr alleinreisendes Kind eingelöst werden. Ein eigenständiges Kundenkonto für das reisende Kind ist nicht notwendig.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-fuer-kind-unter-15-einloesen)
+
+ Gilt der Bahn-Gutschein auch außerhalb Deutschlands?
+----------
+
+Der Bahn-Gutschein kann nur für Fahrten innerhalb Deutschlands angerechnet werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-gueltigkeit-ausserhalb-deutschlands)
+
+ Kann ich ein Ticket für meinen Hund mit dem Bahn-Gutschein buchen?
+----------
+
+Ja, die Buchung eines Tickets für einen Hund ist online/mobile möglich. Die Einlösung eines Bahn-Gutscheins ist auch für dieses Ticket möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-hund)
+
+ Ich kann meinen Bahn-Gutschein nicht einlösen. Die Angabe lautet "Code leider ungültig" oder "bereits eingelöst". Was kann ich tun?
+----------
+
+Der Bahn-Gutschein ist 16-stellig und besteht nur aus Buchstaben, welche in der angegebenen Reihenfolge in das Feld "Gutschein" eingegeben werden müssen. Jeder Bahn-Gutschein ist nur einmal einlösbar.
+
+Weitere Fragen beantwortet die Service-Hotline der Deutschen Bahn: [030 2970](tel:030 2970).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-kann-nicht-eingeloest-werden)
+
+ Ist der Bahn-Gutschein auch mit anderen Rabatten kombinierbar?
+----------
+
+Der Bahn-Gutschein ist kombinierbar mit einem BahnCard-Rabatt und kostenloser Kindermitnahme (Kinder von 6 bis einschließlich 14 Jahren, Eintrag auf der Fahrkarte nötig; Kinder unter 6 Jahren reisen kostenlos und ohne Fahrkarte, kein Fahrkarten-Eintrag nötig). Nach Abzug von Rabatt und ohne Sitzplatzreservierung muss ein Mindestfahrkartenwert von 29,99 Euro beim 10 Euro Bahn-Gutschein und 49,99 Euro beim 20 Euro Bahn-Gutschein vorliegen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-kombinierbar)
+
+ Kann ich meinen Bahn-Gutschein auch auf eine andere Person übertragen?
+----------
+
+Ja, das ist möglich. Der Bahn-Gutschein ist nicht personalisiert. Jedoch sind Tickets, die im eingeloggten Bereich auf bahn.de oder im DB Navigator gebucht wurden, nicht mehr übertragbar.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-uebertragen)
+
+ Muss ich Vorkaufsfristen beachten?
+----------
+
+Der Bahn-Gutschein kann bei der Buchung von digitalen Tickets zum Super Spar-, Sparpreis- und Flexpreis eingelöst werden. Es ist keine Vorkaufsfrist zu beachten. Der Gutschein kann bis spätestens 1. Dezember 2026 für Reisen bis 1. Dezember 2026 eingelöst werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-vorkaufsfristen)
+
+ Ist der Bahn-Gutschein mit weiteren Kosten verbunden?
+----------
+
+Der Bahn-Gutschein ist kostenlos. Es fallen Kosten für den Kauf eines Storck Aktionsproduktes und für den Kauf des Bahntickets an.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-weitere-kosten)
+
+ Kann ich den Bahn-Gutschein weiterverkaufen, falls ich ihn doch nicht benötige?
+----------
+
+Nein. Die entgeltliche Weitergabe des Bahn-Gutscheins ist nicht gestattet. Im Falle der Weiterveräußerung behält sich die Deutsche Bahn AG rechtliche Schritte vor.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-gutschein-weiterverkaufen)
+
+ Bezieht sich der Mindestfahrkartenwert nur auf eine einfache Fahrt?
+----------
+
+Der Bahn-Gutschein gilt nicht nur für eine einfache Fahrt mit einem Mindestfahrkartenwert von 29,99 Euro beim 10 € Bahn-Gutschein und 49,99 Euro beim 20 Euro Bahn-Gutschein. Der Rabatt gilt auch für eine Hin- und Rückfahrt oder Fahrkarte für mehrere Personen, die in einem Bestellprozess gekauft wird, wenn der Mindestfahrkartenwert erreicht wird.
+
+Der Mindestfahrkartenwert gilt nach Abzug von etwaigen Rabatten (beispielsweise BahnCard-Rabatt). Sitzplatzreservierungen werden nicht in die Berechnung des Mindestfahrkartenwerts einbezogen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-mindestfahrkartenwert)
+
+ Kann ich mein Ticket, das ich mit meinem Bahn-Gutschein gekauft habe, zurückgeben?
+----------
+
+Die Umtausch- und Erstattungskonditionen richten sich nach dem Ticket, das gekauft wurde. Umtausch, Erstattung und Barauszahlung des Bahn-Gutscheins sind aber ausgeschlossen. So wird bei der Erstattung des digitalen Tickets der Bahn-Gutschein-Betrag nicht ausgezahlt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-ticket-zurueckgeben)
+
+ Für welche Angebote kann der 10 Euro Bahn-Gutschein eingelöst werden?
+----------
+
+Sie können einen Bahn-Gutschein pro Buchung im eingeloggten Bereich auf bahn.de oder in der App DB Navigator einlösen, wenn Sie ein digitales ICE-, IC- oder EC-Ticket zum Super Spar-, Spar- oder Flexpreis für Fahrten innerhalb Deutschlands kaufen. Der Mindestfahrkartenwert beträgt 29,99 Euro (nach Abzug des BahnCard-Rabatts, ohne Sitzplatzreservierung und Fahrradmitnahme).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-welche-angebote-10-euro)
+
+ Für welche Angebote kann der 20 Euro Bahn-Gutschein eingelöst werden?
+----------
+
+Sie können einen Bahn-Gutschein pro Buchung im eingeloggten Bereich auf bahn.de oder in der App DB Navigator einlösen, wenn Sie ein digitales ICE-, IC- oder EC-Ticket zum Super Spar-, Spar- oder Flexpreis für Fahrten innerhalb Deutschlands kaufen. Der Mindestfahrkartenwert beträgt 49,99 Euro (nach Abzug des BahnCard-Rabatts, ohne Sitzplatzreservierung und Fahrradmitnahme).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-welche-angebote-20-euro)
+
+ Wie lange sind die Bahn-Gutscheine gültig und wie lange ist der Reisezeitraum?
+----------
+
+Sie können die Bahn-Gutscheine vom 1. August bis 1. Dezember 2026 im eingeloggten Bereich auf bahn.de oder in der App DB Navigator einlösen für Reisen vom 1. August bis 1. Dezember 2026.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-welche-gueltigkeit)
+
+ Welche Storck-Produkte nehmen an der Aktion teil und welcher Bahn-Gutschein-Wert ist jeweils enthalten?
+----------
+
+Folgende Storck-Aktionsprodukte mit Bahn-Gutscheinen sind im Handel verfügbar – solange der Vorrat reicht:
+
+* Knoppers Schnitte 200 g mit 10 Euro Bahn-Gutschein
+
+* Knoppers Riegel 200 g mit 10 Euro Bahn-Gutschein
+
+* Toffifee 125 g mit 10 Euro Bahn-Gutschein
+
+* Toffifee 400 g mit 20 Euro Bahn-Gutschein
+
+* merci lovelies 185 g mit 20 Euro Bahn-Gutschein
+
+* merci Finest Selection 210 g / 250 g mit 20 Euro Bahn-Gutschein
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-welche-produkte)
+
+ Wie erhalte ich den Bahn-Gutschein?
+----------
+
+Der 8-stellige Aktionscode aus dem Inneren der Aktionsprodukte von merci, Toffifee oder Knoppers kann bis einschließlich 1. Dezember 2026 auf [storck-promotion.de/bahn](http://storck-promotion.de/bahn) in einen 10 Euro oder einen 20 Euro Bahn-Gutschein umgewandelt werden. Einfach auf [storck-promotion.de/bahn](http://storck-promotion.de/bahn) den Aktionscode aus dem Inneren der Packung eingeben und auf „Jetzt teilnehmen“ klicken. Für den Versand des Bahn-Gutscheins via E-Mail müssen die Teilnehmenden ihre E-Mail-Adresse innerhalb des Aktionszeitraums über einen Bestätigungslink verifizieren, den sie per E-Mail erhalten. Der 16-stellige Bahn-Gutschein-Code wird anschließend per E-Mail zugesendet. Bitte bewahren Sie die Aktionspackung inklusive Aktionscode bis zum Erhalt des Bahn-Gutscheins auf.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-wie-erhalte-ich-gutschein)
+
+ Wie lange dauert es, bis ich meinen Bahn-Gutschein erhalte?
+----------
+
+Der Aktionscode kann auf [storck-promotion.de/bahn](https://storck-promotion.de/bahn/) in einen Bahn-Gutschein umgewandelt werden. Für die Zusendung des Bahn-Gutschein-Codes muss die E-Mail-Adresse nach erfolgreicher Teilnahme auf [storck-promotion.de/bahn](https://storck-promotion.de/bahn/) innerhalb des Aktionszeitraums zunächst verifiziert werden. Der Bahn-Gutschein wird direkt im Anschluss per E-Mail zugesendet. Sollte die Verifikation-E-Mail oder die anschließende E-Mail mit dem Bahn-Gutschein nicht angekommen sein, besteht die Möglichkeit sich innerhalb von 14 Tagen per E-Mail an [storck@promotionservice.de](mailto:storck@promotionservice.de) zu wenden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-wie-lange-dauert-es-bis-gutschein-da-ist)
+
+ Wie lange läuft die Storck Aktion?
+----------
+
+Vom 1. August bis 1. Dezember 2026 findet die Storck Aktion auf [storck-promotion.de/bahn](https://storck-promotion.de/bahn/) statt. Die Aktionsprodukte sind im Einzelhandel erhältlich – deutschlandweit, solange der Vorrat reicht. Im Aktionszeitraum können die Aktionscodes aus den Aktionspackungen auf [storck-promotion.de/bahn](https://storck-promotion.de/bahn/) gegen einen 10 Euro oder einen 20 Euro Bahn-Gutschein eingetauscht werden. Die Bahn-Gutschein-Höhe ist jeweils auf der Aktionspackung abgebildet.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-wie-lange-laeuft-aktion)
+
+ Wo kann ich den Bahn-Gutschein einlösen?
+----------
+
+Der Bahn-Gutschein kann nur im eingeloggten Bereich auf bahn.de beim Kauf eines digitalen ICE-, IC/EC-Tickets und im Bestellprozess über die App DB Navigator eingelöst werden – das bedeutet, dass ein Kundenkonto angelegt werden muss. Pro Buchung kann ein Bahn-Gutschein eingelöst werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-wo-gutschein-einloesen)
+
+ Was passiert, wenn am Reisetag der geplante Zug ausfällt oder so stark verspätet ist, dass ich die vorgesehenen Anschlusszüge nicht mehr erreiche und ich dadurch meine Termine nicht wahrnehmen kann?
+----------
+
+Bei Verspätung gelten die Regelungen der Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn AG (BB Personenverkehr). Grundsätzlich gelten die Beförderungsbedingungen der Deutsche Bahn AG.
+
+Bei Erstattung des Kaufpreises digitaler DB-Tickets sowie im Fahrgastrechtefall wird der Betrag von 10 Euro bzw. 20 Euro nicht berücksichtigt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strock-zug-faellt-aus-oder-verspaetung)
 
  Gibt es das Südostbayern-Ticket plus S-Bahn auch für die 1. Klasse?
 ----------
@@ -13449,17 +13301,6 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis-europa)
 
- Wie lange im Voraus kann ich den Flexpreis Young kaufen?
-----------
-
-Beim Flexpreis Young handelt es sich um ein zeitlich begrenztes Angebot. Es ist vom 1. April bis 31. Juli 2026 buchbar für Reisen bis einschließlich 12. Dezember 2026.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis-young)
-
  Wie lange im Voraus kann ich das Normalpreis-Ticket kaufen?
 ----------
 
@@ -13563,6 +13404,8 @@ Sie können das Super Sparpreis Gruppe-Ticket **bis zu 6 Monate im Voraus** buch
 Sie können das Ticket samstags und sonntags für Montag bis Sonntag der Folgewoche buchen. Nur solange der Vorrat reicht.
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
+
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-last-minute)
 
@@ -16790,6 +16633,8 @@ Der Super Sparpreis Last Minute ist vom 9. Mai bis 13. September 2026 in der reg
 
 [Weitere Informationen zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?BP=true)
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-buchen-super-sparpreis-last-minute)
 
  Wie erhalte ich mit dem Garmischer Sommer-Ticket mein Bergbahn-Ticket?
@@ -18006,7 +17851,7 @@ Die angegebenen Preise sind für den Kauf am Automaten und im Internet gültig. 
  Wie viel kostet das MDV Hopperticket?
 ----------
 
-Mit dem MDV-Hopperticket kostet die Einzelfahrt **8,05 Euro**, die Hin- und Rückfahrt **13,25 Euro** für eine Person.
+Mit dem MDV-Hopperticket kostet die Einzelfahrt **8,50 Euro**, die Hin- und Rückfahrt **13,90 Euro** für eine Person.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-mdv-hopperticket)
 
@@ -20379,17 +20224,6 @@ Das gilt für
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarte-verkehrsmittel)
 
- Wann kann ich den Flexpreis Young kaufen?
-----------
-
-Du kannst das Angebot vom 1. April bis 31. Juli 2026 buchen für Reisen zwischen dem 1. April und 12. Dezember 2026.
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitraum-flexpreis-young)
-
  In welchem Zeitraum kann ich den Preis sichern?
 ----------
 
@@ -20442,25 +20276,6 @@ Hinweis: Nutzen Sie mit einer IC/EC Fahrkarte einen ICE Zug, zahlen Sie einen Pr
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-flexpreis)
-
- Mit welchen Zügen kann ich mit dem Flexpreis Young reisen?
-----------
-
-Mit dem Flexpreis Young hast du keine Zugbindung.
-
-**ICE oder anderer Fernverkehrszug (Produktklasse ICE):**
-
-* Du kannst alle Fernverkehrszüge (z. B. ICE, RJ, RJX, IC/EC, TGV - ausgenommen reservierungspflichtige Züge -, ECE) und Züge des Nahverkehrs (z. B. IRE, RE, RB, S-Bahn) auf der gebuchten Strecke und am gebuchten Tag nutzen.
-
-**IC/EC Fahrkarte (Produktklasse IC/EC):**
-
-* Du kannst alle IC/EC und Züge des Nahverkehrs (z. B. IRE, RE, RB, S-Bahn) auf der gebuchten Strecke und am gebuchten Tag nutzen.
-
-[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-flexpreis-young)
 
  Mit welchen Zügen kann ich mit dem Normalpreis reisen?
 ----------

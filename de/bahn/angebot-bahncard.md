@@ -3,17 +3,6 @@ Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
 
-BahnCard 50 Preisaktion
-----------
-
-Nur bis 31. Juli 2026
-
-### Wir drücken den Preis. Sie Ihre Liebsten! ###
-
-Nur bis 31. Juli: BahnCard 50 zum Aktionspreis ab 199 €.
-
-[Zur Aktion](http://bahn.de/bc50aktion)
-
 Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
@@ -80,21 +69,21 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 ### BahnCard 50, 2. Klasse ###
 
- BahnCard 50 zum **Aktionspreis** sichern: Nur bis zum 31.7.2026
+**50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
 
-199 Euro
+244 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
 
 ### BahnCard 50, 1. Klasse ###
 
- BahnCard 50 zum **Aktionspreis** sichern: Nur bis zum 31.7.2026
+**50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-1-klasse)
 
-429 Euro
+492 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O104)
 

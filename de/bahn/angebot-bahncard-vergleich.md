@@ -138,7 +138,7 @@ Tabelle Rabattübersicht
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
 
-199 Euro
+244 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
 
