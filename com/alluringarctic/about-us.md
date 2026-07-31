@@ -22,11 +22,11 @@ Juho is the skipper and technical mastermind aboard. He tries to handle the endl
 
 **Sohvi Kangasluoma**
 
-Sohvi brings a research perspective to our adventures. She’s a [senior researcher at Arctic Centre](https://research.ulapland.fi/en/persons/sohvi-kangasluoma/) and holds a PhD in International Political Science. Sohvi is behind our expedition logistics.
+Sohvi brings a research perspective to our adventures. She’s a [senior researcher at Arctic Centre](https://research.ulapland.fi/en/persons/sohvi-kangasluoma/) and holds a PhD in International Relations. Sohvi is behind our expedition logistics.
 
 **Nova**
 
-Nova is our Greenland Dog that we adopted in Greenland in 2025. She was too timid and too small for her sled team and would've been put down. She keeps the rest of the crew active by demanding a lot of exercise.
+Nova is our Greenland Dog that we adopted in Greenland in 2024. She was too timid and too small for her sled team and would've been put down. She keeps us active by demanding a lot of exercise!
 
 **s/v Lumi**
 
