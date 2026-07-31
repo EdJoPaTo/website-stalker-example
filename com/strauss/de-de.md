@@ -38,9 +38,9 @@ Stark im Preis.
 
 [](https://www.strauss.com/de/de/bundhosen/stretch-bundhose-e-s-line-core-3165140-64331-1956.html?itemorigin=startseiteHW26)
 
-[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
-[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
 [](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-padded-e-s-line-core-3135580-64348-1957.html?itemorigin=startseiteHW26)
 
@@ -75,9 +75,9 @@ mit Fläche für Rückenprints
 
 [](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
 
-[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
-[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
 Alles für den Job:
 Profi-Arbeitskleidung vom Experten
@@ -170,13 +170,13 @@ Schutzpaket
 
 [](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71382-1960.html?itemorigin=startseiteHW26)
 
- \+1
+ \+3
 
  Troyer thermo stretch
 
 [](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71332-1960.html?itemorigin=startseiteHW26)
 
- \+2
+ \+4
 
  Troyer thermo stretch
 
