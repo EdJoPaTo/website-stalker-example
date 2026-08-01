@@ -1,5 +1,3 @@
-[Disability Pride Month](https://en.wikipedia.org/wiki/Disability_Pride_Month), displaying two [disability flags](https://en.wikipedia.org/wiki/Disability_flag) and an [autistic flag](https://en.wikipedia.org/wiki/Autistic_Pride_Day).
-
 Apps for GNOME
 ==========
 
