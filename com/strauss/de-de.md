@@ -88,39 +88,63 @@ Profi-Arbeitskleidung vom Experten
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
- \+3
-
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
- \+4
-
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
- \+3
-
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
- \+4
-
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
- \+3
-
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
- \+4
-
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
