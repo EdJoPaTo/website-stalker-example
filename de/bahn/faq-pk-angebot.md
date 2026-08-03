@@ -3767,20 +3767,21 @@ Sie haben getrennte Fahrgastrechte für das Deutschland-Ticket und das Fernverke
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-kombi)
 
- Ich habe eine Fernverkehrsfahrkarte und mein Fahrrad dabei. Was ist, wenn ich den Anschlusszug des Nahverkehrs nicht erreiche?
+ IIch habe eine Fernverkehrsfahrkarte und mein Fahrrad dabei. Was ist, wenn ich den Anschlusszug verpasse ?
 ----------
 
 **a) Für Reisende mit einer Fahrverkehrsfahrkarte mit inkludiertem Nahverkehr im Vor- und Nachlauf:**
 
 Es gelten die gesetzlichen Fahrgastrechte:
 
-* Haben Sie eine Fernverkehrsfahrkarte mit inkludiertem Nahverkehr und verpassen Ihren Zug, können Sie den nächsten Fernverkehrszug mit Fahrradmitnahme auf derselben Strecke und mit denselben Beförderern nutzen, wenn ein Fahrradstellplatz frei ist. Sie können den Stellplatz kurzfristig im DB Reisezentrum oder über die Hotline 030-2970 buchen. Zusätzliche Kosten für den Fahrradstellplatz werden erstattet.
+Haben Sie eine Fernverkehrsfahrkarte mit inkludiertem Nahverkehr und verpassen Ihren Fernverkehrszug, können Sie den nächsten Fernverkehrszug mit Fahrradmitnahme auf derselben Strecke und mit denselben Beförderern nutzen, wenn ein Fahrradstellplatz frei ist. Sie können den Stellplatz kurzfristig im DB Reisezentrum, auf bahn.de und im DB Navigator oder über die Hotline 030-2970 buchen. Zusätzliche Kosten für den Fahrradstellplatz werden erstattet.
+Im Nahverkehr benötigen Sie keine Fahrradstellplatzreservierung und können mit ihrer Fahrradkarte den nächsten Nahverkehrszug nutzen.
 
 **b) Für Reisende mit einer Fernverkehrsfahrkarte und Nutzung des Deutschland-Ticket im Vor- und Nachlauf:**
 
-* Nutzen Sie das Deutschland-Ticket im Nahverkehr und ein separates Fernverkehrsticket, sind beide immer getrennt. Verpassen Sie den Fernverkehrszug, gelten die Fahrgastrechte für die Fahrradmitnahme nicht. Sie müssen für das Fahrrad eine neue Reservierung kaufen. Diese Kosten werden nicht erstattet.
+Nutzen Sie das Deutschland-Ticket im Nahverkehr und ein separates Fernverkehrsticket, werden die Fahrkarten getrennt betrachtet. Verpassen Sie den Fernverkehrszug aufgrund einer Verspätung und Zugausfalls des Nahverkehrszuges, entfällt der Anspruch auf durchgängige Fahrgastrechte zwischen Nah-und Fernverkehr. Ihre Fahrradkarte für den Fernverkehr können Sie auch in anderen Zügen am gleichen Tag und der gleichen Strecke nutzen, Sie benötigen jedoch eine neue Fahrradstellplatzreservierung. Zusätzliche Kosten können nicht erstattet werden.
 
-* Über ein besonders hohes Fahrradaufkommen informieren wir auf [bahn.de](https://www.bahn.de/buchung/start?) und im DB Navigator. Bei großem Andrang setzt DB nach Möglichkeit Fahrradlotsen ein.
+Über ein besonders hohes Fahrradaufkommen informieren wir auf [bahn.de](https://www.bahn.de/buchung/start?) und im DB Navigator. Bei großem Andrang setzt DB nach Möglichkeit Fahrradlotsen ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fv-mit-fahrrad-verspaetung)
 
