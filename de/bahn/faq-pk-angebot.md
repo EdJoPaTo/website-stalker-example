@@ -4846,10 +4846,12 @@ Die Eintragungen können wie nachfolgend beschrieben vorgenommen werden:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/eintrag-aller-reisenden)
 
- Für wen gilt margeo Einzelfahrschein und marego-Tageskarte ermäßigt?
+ Für wen gilt marego Einzelfahrt Kind und marego 24-Stunden-Karte Kind?
 ----------
 
-Eine "Einzelfahrt ermäßigt" bzw. eine "Tageskarte ermäßigt" gilt für 1 Kind von 6 bis einschließlich 14 Jahren, 1 Hund ohne Behältnis, 1 Handwagen, 1 Fahrradanhänger, 1 sperrigen Gegenstand oder bei MVB (Magedburger Verkehrsbetriebe) 1 Fahrrad im räumlichen Geltungsbereich.
+Kinder bis einschließlich 5 Jahren werden unentgeltlich befördert, wenn sie in Begleitung von mindestens einer Person im Alter von 6 Jahren oder älter sind.
+
+Fahrkarten mit der Bezeichnung "Kind" sind preislich rabattiert und gelten für Kinder von 6 bis einschließlich 14 Jahren bzw. berechtigen zur Mitnahme von Sachen und Tieren gemäß der Tarifbestimmungen.
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
@@ -8583,16 +8585,15 @@ Sie benötigen hierfür die App DB Navigator.
  Welche Tickets des marego sind in der App DB Navigator oder online erhältlich?
 ----------
 
-Sie erhalten alle marego-Angebote als Online- bzw. Handy-Ticket. Dazu gehören zum Beispiel:
+Sie erhalten alle marego-Angebote als Online- oder HandyTicket. Dazu gehören zum Beispiel:
 
-* Einzelfahrten
-* 4er-Karten
-* 24-Stunden-Karten
-* Wochenkarten
-* Monatskarten
-* Minigruppen-Tageskarten
+* Einzelfahrt / Einzelfahrt Kind
+* 24-Stunden-Karte / 24-Stunden-Karte Kind
+* Monatskarte / Monatskarte ermäßigt
 
-**Wichtig**: Einzelfahrkarten, die über die App gekauft werden, gelten zum sofortigen Fahrtantritt. In der Reiseauskunft beginnt die Gültigkeit entsprechend der gewählten Reiseverbindung.
+In den Preisstufen Magdeburg und Lokal gilt ein rabattierter Preis für die Einzelfahrt und die 24-Stunden-Karte, sofern der Kauf digital über die App DB Navigator oder online erfolgt. Weiterhin ist in Magdeburg ein Kurzstreckenticket erhältlich.
+
+**Wichtig:** Einzelfahrkarten, die über die App gekauft werden, gelten zum sofortigen Fahrtantritt. Die Gültigkeit bei einem Online-Kauf beginnt mit der gewählten Verbindung in der Reiseauskunft.
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
@@ -8605,24 +8606,14 @@ Sie erhalten alle marego-Angebote als Online- bzw. Handy-Ticket. Dazu gehören 
 
 Im marego bieten wir folgende Zeitkarten an:
 
-* **Wochenkarte**
-   Gültig für 1 Person bis zum 8. Tag um 4 Uhr auf allen Linien, in alle Richtungen innerhalb des Geltungsbereichs
-   \- Personengebunden
-   \- Kostenfreie Mitnahme von einem Fahrrad
-* **Wochenkarte ermäßigt**
-   Gültig für 1 Schüler, 1 Studierenden oder 1 Azubi mit ¬Berechtigungsnachweis auf allen Linien, in alle Richtungen innerhalb des Geltungsbereichs
-   \- Gültig bis zum 8. Tag, um 4 Uhr
-   \- Personengebunden
-   \- Kostenfreie Mitnahme von einem Fahrrad
 * **Monatskarte**
-   Gültig für 1 Person vom 1. Geltungstag 0 Uhr bis 4 Uhr des gleichen Kalendertages im Folgemonat auf allen Linien, in alle Richtungen innerhalb des Geltungsbereichs
-   \- Personengebunden
-   \- Kostenfreie Mitnahme von einem Fahrrad
+  Gültig für 1 Person vom 1. Geltungstag 0 Uhr bis 4 Uhr des gleichen Kalendertages im Folgemonat auf allen Linien, in alle Richtungen innerhalb des Geltungsbereichs
+  \- Personengebunden
+  \- Kostenfreie Mitnahme von einem Fahrrad
 * **Monatskarte ermäßigt**
-   Gültig für 1 Schüler, 1 Studierenden oder 1 Azubi mit ¬Berechtigungsnachweis auf allen Linien, in alle Richtungen innerhalb des Geltungsbereichs
-   \- Gültig vom 1. Geltungstag 0 Uhr bis 4 Uhr des gleichen Kalendertages im Folgemonat
-   \- Personengebunden
-   \- Kostenfreie Mitnahme von einem Fahrrad
+  Gültig für 1 Schüler, 1 Studierenden oder 1 Azubi mit ¬Berechtigungsnachweis auf allen Linien, in alle Richtungen innerhalb des Geltungsbereichs
+  \- Gültig vom 1. Geltungstag 0 Uhr bis 4 Uhr des gleichen Kalendertages im Folgemonat
+  \- Personengebunden
 
 [Weitere Informationen zu Tickets im marego](https://www.bahn.de/angebot/verbuende/marego)
 
