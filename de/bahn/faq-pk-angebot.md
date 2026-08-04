@@ -4669,7 +4669,7 @@ Ja. Wir prüfen gemeinsam mit Ihnen, welche Lösung zu Ihrem Bedarf passt, zum B
 
 Für alle Unternehmen, bei denen der Arbeitgeber seinen Beschäftigten einen Zuschuss von mind. 25 Prozent zum Ticketpreis gewährt, räumen die Verkehrsunternehmen einen Rabatt von 5 Prozent auf den aktuellen Preis des Deutschland-Tickets ein.
 
-Bitte beachten Sie: Im **Deutschlandtarif** werden nur **digitale Tickets** ausgegeben.
+Bitte beachten Sie: Im **Deutschlandtarif** werden nur **Handy-Tickets** ausgegeben. Das sind Tickets, die ausschließlich über eine App (z. B. DB Navigator) genutzt werden können.
 
 * [Alle relevanten Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
@@ -10123,7 +10123,7 @@ Ein Ticket für die einfache Fahrt mit dem **Sparpreis Young** kostet je nach 
 
 Ein **Super Sparpreis-Ticket** für die einfache Fahrt kostet je nach Verfügbarkeit ab 17,99 Euro in der 2. Klasse und ab 23,99 Euro in der 1. Klasse.
 
-**Auf kurzen Strecken in der 2. Klasse je nach Verfügbarkeit schon ab 6,99 Euro.**
+**Auf ausgewählten Strecken in der 2. Klasse je nach Verfügbarkeit schon ab 6,99 Euro.**
 
 [Weitere Informationen zum Super Sparpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis)
 
@@ -16865,7 +16865,7 @@ Dieses Angebot gilt nicht für Gruppenfahrkarten des Nahverkehrs.
  Wie kann ich den Sparpreis Senioren buchen?
 ----------
 
-Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bahn.de** und in unserer **App DB Navigator** zu finden. In DB Reisezentren und Agenturen kann der Sparpreis Senioren als digitales Ticket erworben werden.
+Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bahn.de** und in unserer **App DB Navigator** zu finden. In DB Reisezentren und Agenturen kann der Sparpreis Senioren als Digitales Ticket erworben werden.
 
 **Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
@@ -16878,7 +16878,7 @@ Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bah
  Wie kann ich den Super Sparpreis Senioren buchen?
 ----------
 
-Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsauskunft auf bahn.de** und in unserer **App DB Navigator** kaufen. In den DB Reisezentren und Agenturen ist der Super Sparpreis Senioren als digitales Ticket erhältlich.
+Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsauskunft auf bahn.de** und in unserer **App DB Navigator** kaufen. In den DB Reisezentren und Agenturen ist der Super Sparpreis Senioren als Digitales Ticket erhältlich.
 
 **Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 

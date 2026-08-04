@@ -7,7 +7,7 @@ Ihre Rechte als Fahrgast im Eisenbahnverkehr
 
 Zug verspätet – Zug ausgefallen – Anschlusszug verpasst. Worauf Sie jetzt Anspruch haben.
 
-Video: Entschädigungen
+Video: Wie erhalte ich Entschädigungen? Alle relevanten Inhalte des Videos sind im darunter stehenden Text enthalten.
 ----------
 
  Um dieses Video anzusehen, aktivieren Sie bitte JavaScript und erwägen Sie ein Upgrade auf einen Webbrowser, der [HTML5-Video unterstützt.](https://videojs.com/html5-video-support/)
@@ -221,8 +221,8 @@ Vorgehen bei Zugausfall:
 
 Bei einem Zugausfall wird Ihnen das Ticket erstattet.
 
-* Wenn Ihr Ticket direkt von Eurostar ausgegeben wurde, nutzten Sie bitte das entsprechende [Formular](https://eurostar.my.salesforce-sites.com/form) auf der Internetseite von Eurostar, um die Erstattung zu beantragen.
-* Wenn Ihr Eurostar Ticket von der DB ausgegeben wurde, wird Ihr Antrag auf Erstattung durch das Servicecenter Fahrgastrechte bearbeitet.
+* Wenn Sie Ihr Ticket bei **Eurostar gekauft** haben, nutzten Sie bitte das entsprechende [**Formular**](https://eurostar.my.salesforce-sites.com/form) auf der Internetseite von Eurostar, um die Erstattung zu beantragen.
+* Wenn Sie Ihr Eurostar-Ticket bei der DB **gekauft** haben, **können Sie Ihr Ticket bis 3 Monate nach Reisedatum selbstständig unter "Meine Reisen" über** [**bahn.de**](http://bahn.de/) **stornieren.**
 
 Vorgehen bei Verspätungen:
 
@@ -239,7 +239,7 @@ Abkommen über die Weiterreise im internationalen Eisenbahn-Personenverkehr (AJC
 
 Das Abkommen über die Weiterreise (Agreement on Journey Continuation - kurz AJC) ist eine Vereinbarung zwischen 16 europäischen Bahnbetreibern, die es Passagieren in internationalen Zügen ermöglicht, ohne zusätzliche Kosten den nächsten verfügbaren Zug zu nehmen, falls sie ihren Anschlusszug verpasst haben.
 
-Die **beteiligten Eisenbahnverkehrsunternehmen** sind: BLS und/oder SBB/CFF (Schweiz), CD (Tschechische Republik), CFL (Luxemburg), DB (Deutschland), DSB (Dänemark), Eurostar International Limited1 (Vereinigtes Königreich, Frankreich, Belgien und die Niederlande), HŽPP (Kroatien), LTG Link (Litauen), MÁV Passenger Transport und/oder GYSEV (Ungarn), NS (Niederlande), ÖBB (Österreich), PKP IC (Polen), Renfe (Spanien), SJ und Snälltåget (Schweden), SNCB/NMBS (Belgien), SNCF (Frankreich), SZ (Slowenien), THI Factory2 (Frankreich, Belgien, Deutschland und die Niederlande), Trenitalia (Italien), ZSSK (Slowakei).
+Die **beteiligten Eisenbahnverkehrsunternehmen** sind: BLS und/oder SBB/CFF (Schweiz), CD (Tschechische Republik), CFL (Luxemburg), DB (Deutschland), DSB (Dänemark), Eurostar International Limited (Vereinigtes Königreich, Frankreich, Belgien und die Niederlande), HŽPP (Kroatien), LTG Link (Litauen), MÁV Passenger Transport und/oder GYSEV (Ungarn), NS (Niederlande), ÖBB (Österreich), PKP IC (Polen), Renfe (Spanien), SJ und Snälltåget (Schweden), SNCB/NMBS (Belgien), SNCF (Frankreich), SZ (Slowenien), THI Factory (Frankreich, Belgien, Deutschland und die Niederlande), Trenitalia (Italien), Vy Group (Norwegen und Schweden) und ZSSK (Slowakei).
 
 Das **AJC-Abkommen stellt eine dokumentierte Kulanzregelung** dar. Es gibt keinen Rechtsanspruch.
 
@@ -315,5 +315,5 @@ Weitere Informationen
 * [Broschüre "Ihre Rechte als unser Fahrgast" (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-Broschuere-Ihre-Rechte-Als-Unser-Fahrgast.pdf)
 * [Fahrgastrechte für Menschen mit Behinderung](https://www.bahn.de/service/individuelle-reise/barrierefrei/barrierefrei-fahrgastrechte)
 * [Direkt zum Fahrgastrechte-Formular als PDF (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
-* [AJC Mitteilung (PDF, 245 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Mitteilung_de_Stand-12-2025.pdf)
-* [AJC Merkblatt (PDF, 186 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC-Merkblatt_de_Stand-12-2025.pdf)
+* [AJC Mitteilung, Stand August 2026 (PDF, 305 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC_Mitteilung_de_Stand_08.2026.pdf)
+* [AJC Merkblatt, Stand August 2026 (PDF, 177 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/AJC_Merkblatt_de_Stand_08.2026.pdf)
