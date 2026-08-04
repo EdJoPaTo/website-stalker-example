@@ -15766,13 +15766,18 @@ In diesen Bussen in Bayern können Sie **nicht** mit dem Bayern-Ticket fahren.
  Welche DB-Angebote werden als Handy-Ticket unterstützt?
 ----------
 
-Diese Abos im DB Fernverkehr und Nahverkehr (DTV) können Sie als digitales Abo kaufen:
+Die folgenden DB Angebote können als Handy-Ticket verwendet, d. h. in der App DB Navigator genutzt und zur Kontrolle vorgezeigt werden:
 
 * persönliche Monatskarte/Jahreskarte im Abo ICE
 * persönliche Monatskarte/Jahreskarte im Abo IC/EC
 * persönliche Monatskarte/Jahreskarte im Abo Nahverkehr
 
-Hinweis: Übertragbare Abos gibt es generell nicht als Handy-Ticket.
+Nicht unterstützt werden:
+
+* BahnBusSchiene Abo
+* Abos, die aus einer Grundkarte und Zusatzticket bestehen
+* übertragbare Abos
+* Abos mit einem abweichendem Start-/Zielbahnhof
 
 * [Weitere Informationen zu Monats- und Jahreskarten](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 

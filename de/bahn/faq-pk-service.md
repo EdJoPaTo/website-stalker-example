@@ -603,7 +603,7 @@ Bei Fragen zur bestehenden Buchung hilft Ihnen das Back-Office des Serviceerbrin
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anlaufstelle-fragen)
 
- So stornieren Sie Ihr online gebuchtes Bahn-Ticket
+ So stornieren Sie Ihr Digitales Ticket
 ----------
 
 Ein **Digitales Ticket** können Sie wie folgt stornieren:
@@ -624,9 +624,9 @@ Ein **Digitales Ticket** können Sie wie folgt stornieren:
 **Im DB Navigator**
 
 1. Öffnen Sie die App DB Navigator und gehen Sie zu "Reisen".
-2. Wählen Sie die entsprechende Buchung aus.
-3. Tippen Sie unten auf "Auftrag bearbeiten".
-4. Wählen Sie "Ticket stornieren".
+2. Wählen Sie die entsprechende Reise aus.
+3. Tippen Sie unten auf "Weitere Aktionen".
+4. Wählen Sie "Zur Stornierung" aus und bestätigen Sie die Stornierung Ihrer Reise.
 
 **Wichtig:**
 
@@ -3243,7 +3243,7 @@ Nein, es gibt keine zeitliche Begrenzung der kostenlosen WLAN-Nutzung auf der ge
  Ist ein Digitales Ticket auf eine andere Person übertragbar?
 ----------
 
-Nein, ein digitales Ticket ist nicht auf eine andere Person übertragbar. Sie können Tickets, je nach Tarifbedingungen, stornieren und für eine andere Person neu buchen.
+Nein, ein Digitales Ticket ist nicht auf eine andere Person übertragbar. Sie können Tickets, je nach Tarifbedingungen, stornieren und für eine andere Person neu buchen.
 
 * [Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -7406,7 +7406,7 @@ Wenn Sie nun bei der Ticketbuchung oder über die Funktion „Reise merken“ di
  Wie kann ich den Sparpreis Senioren buchen?
 ----------
 
-Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bahn.de** und in unserer **App DB Navigator** zu finden. In DB Reisezentren und Agenturen kann der Sparpreis Senioren als digitales Ticket erworben werden.
+Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bahn.de** und in unserer **App DB Navigator** zu finden. In DB Reisezentren und Agenturen kann der Sparpreis Senioren als Digitales Ticket erworben werden.
 
 **Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
@@ -7419,7 +7419,7 @@ Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bah
  Wie kann ich den Super Sparpreis Senioren buchen?
 ----------
 
-Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsauskunft auf bahn.de** und in unserer **App DB Navigator** kaufen. In den DB Reisezentren und Agenturen ist der Super Sparpreis Senioren als digitales Ticket erhältlich.
+Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsauskunft auf bahn.de** und in unserer **App DB Navigator** kaufen. In den DB Reisezentren und Agenturen ist der Super Sparpreis Senioren als Digitales Ticket erhältlich.
 
 **Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
