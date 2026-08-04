@@ -157,6 +157,7 @@
 * [Bratpfanne](https://www.wdrmaus.de/filme/sachgeschichten/bratpfanne.php5)
 * [Braune und weiße Schokolade](https://www.wdrmaus.de/filme/sachgeschichten/braune_und_weisse_schokolade.php5)
 * [Braunglasflaschen](https://www.wdrmaus.de/filme/sachgeschichten/braunglasflaschen.php5)
+* [Brennnesselstaub](https://www.wdrmaus.de/filme/sachgeschichten/brennnesselstaub.php5)
 * [Brennstoffzelle](https://www.wdrmaus.de/filme/sachgeschichten/brennstoffzelle.php5)
 * [Briefe stempeln](https://www.wdrmaus.de/filme/sachgeschichten/briefe_stempeln.php5)
 * [Briefmarke](https://www.wdrmaus.de/filme/sachgeschichten/briefmarke.php5)

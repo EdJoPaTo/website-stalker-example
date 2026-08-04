@@ -98,6 +98,8 @@ Profi-Arbeitskleidung vom Experten
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
+
  S1 1003 mid
 
  ab 65,33 €
@@ -105,6 +107,8 @@ Profi-Arbeitskleidung vom Experten
  (m. MwSt.)
 
  ab 54,90 € (ohne MwSt.)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
@@ -118,6 +122,8 @@ Profi-Arbeitskleidung vom Experten
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
+
  S1 1003 mid
 
  ab 65,33 €
@@ -125,6 +131,8 @@ Profi-Arbeitskleidung vom Experten
  (m. MwSt.)
 
  ab 54,90 € (ohne MwSt.)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
@@ -138,6 +146,8 @@ Profi-Arbeitskleidung vom Experten
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
+
  S1 1003 mid
 
  ab 65,33 €
@@ -145,6 +155,8 @@ Profi-Arbeitskleidung vom Experten
  (m. MwSt.)
 
  ab 54,90 € (ohne MwSt.)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
@@ -286,7 +298,7 @@ zu den Produkten
  umkompliziert gestalten & bestellen
 ---
 
- über 500 verüfgbare Motive & Motivupload
+ über 500 verfügbare Motive & Motivupload
 ---
 
  mehr bestellen, mehr sparen
@@ -295,7 +307,7 @@ zu den Produkten
  umkompliziert gestalten & bestellen
 ---
 
- über 500 verüfgbare Motive & Motivupload
+ über 500 verfügbare Motive & Motivupload
 ---
 
 Druck: Easytransfer

@@ -3460,7 +3460,7 @@ Nein, wir bieten keine Stellplatzreservierungen für Fahrräder im Nahverkehr an
  Kann ich für meine Reise ins Ausland ein Digitales Ticket buchen?
 ----------
 
-Für die meisten Ziele in Europa können Sie Ihre Fahrkarte auf bahn.de und über die App DB Navigator buchen. Wenn für Ihre ausgewählte Strecke das Ticket nicht buchbar ist, erhalten Sie in der Buchung einen entsprechenden Hinweis.
+Für viele Ziele in Europa können Sie ein Digitales Ticket auf bahn.de und über die App DB Navigator buchen. Wenn das Ticket für Ihre ausgewählte Strecke nicht buchbar ist, erhalten Sie einen entsprechenden Hinweis.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-fuer-meine-reise-ins-ausland-ein-digitales-ticket-buchen)
 
@@ -4686,7 +4686,7 @@ Nachdem Sie den Kauf beim Vertriebspartner cadooz GmbH abgeschlossen haben, erha
  Kann ich für meine Reise ins Ausland ein Digitales Ticket im DB Reisezentrum buchen?
 ----------
 
-Für die meisten Ziele in Europa können Sie Ihre Fahrkarte als Online-Ticket im DB Reisezentrum buchen.
+Für viele Ziele in Europa können Sie ein Digitales Ticket im DB Reisezentrum buchen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reise-ausland-digitales-ticket-im-reisezentrum-buchen)
 
@@ -6358,24 +6358,24 @@ Um die Störung eines DB Automaten schnell beheben zu können, freuen wir uns ü
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kann-ich-tun-wenn-der-db-automat-defekt-ist)
 
- Was kann ich tun, wenn ich ein Online-Ticket gebucht habe und das Drucken nicht funktioniert?
+ Was kann ich tun, wenn ich ein Digitales Ticket auf bahn.de gebucht habe und das Drucken nicht funktioniert?
 ----------
 
-Für die Kontrolle im Zug benötigen Sie keinen Ausdruck des Tickets.
+Für die Kontrolle im Zug benötigen Sie keinen Ausdruck des Digitalen Tickets.
 
 **So geht's mit der App DB Navigator:**
 
-1. Laden Sie das Ticket in die App DB Navigator.
-2. Gehen Sie im Menübereich "Reisen" auf Ihre entsprechende Reise.
+1. Loggen Sie sich in der App DB Navigator in Ihr DB Kundenkonto ein, über das Sie das Ticket gebucht haben.
+2. Gehen Sie im Menübereich "Reisen" auf die entsprechende Reise.
 3. Klicken Sie auf den Reiter "Ticket", um den QR-Code abzurufen.
 4. Zeigen Sie den QR-Code bei der Kontrolle im Zug auf Ihrem Smartphone-Display vor.
+5. Wenn Sie das Ticket ohne DB Kundenkonto gebucht haben, können Sie es manuell in die App DB Navigator laden. [So laden Sie Ihr Ticket in die App.](https://www.bahn.de/service/informationen-buchung/digitales-ticket/in-die-app-laden)
 
-**Alternativ:** Öffnen Sie die PDF-Datei des Tickets, die Sie per E-Mail nach der Buchung erhalten haben, auf Ihrem Smartphone, Laptop oder Tablet und zeigen Sie diese bei der Kontrolle vor.
+**Alternativ:** Öffnen Sie die PDF-Datei, die Sie in der Buchungsbestätigungs-E-Mail erhalten haben, auf Ihrem Smartphone, Laptop oder Tablet und zeigen Sie den darin enthaltenen QR-Code Ihres Tickets bei der Kontrolle vor.
 
-* [So laden Sie Ihr Ticket in die App](https://www.bahn.de/service/informationen-buchung/digitales-ticket/in-die-app-laden)
 * [Weitere Informationen zum DB Navigator](https://www.bahn.de/service/mobile/db-navigator)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kann-ich-tun-wenn-ich-ein-online-ticket-gebucht-habe-und-das-drucken-nicht-funktioniert)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kann-ich-tun-wenn-ich-ein-digitales-ticket-gebucht-habe-und-das-drucken-nicht-funktioniert)
 
  Was kann ich tun, wenn ich eine Benachrichtigung zu meiner Reise bekomme?
 ----------
@@ -7937,7 +7937,7 @@ Alternativ können Sie die Unterlagen auch in einem DB Reisezentrum oder Ihrer V
  Wie nutze ich ein Digitales Ticket im Zug zur Ticketkontrolle?
 ----------
 
-Für die Ticketkontrolle benötigen Sie den QR Code auf Ihrem Digitalen Ticket. Diesen finden Sie auf Ihrem per E-Mail zugestellten Digitalen Ticket oder in der App DB Navigator. Tippen Sie im unteren Bildschirmbereich der App DB Navigator auf "Reisen" und wählen Sie dann die entsprechende Reise aus. Im Reiter "Ticket" finden Sie den QR-Code.
+Für die Ticketkontrolle benötigen Sie den QR Code auf Ihrem Digitalen Ticket. Diesen finden Sie in der PDF Ihrer Buchungsbestätigungs-E-Mail und in der App DB Navigator. Tippen Sie in der App DB Navigator im Menübereich "Reisen" auf die entsprechende Reise. Im Reiter "Ticket" finden Sie dann den QR-Code.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-komme-ich-an-mein-digitales-ticket)
 

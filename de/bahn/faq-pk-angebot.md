@@ -5522,11 +5522,16 @@ Nutzen Sie die FAQ des Sharing-Anbieters oder wenden Sie sich direkt an den [Sha
  Wo gilt der Interrail One Country Pass?
 ----------
 
-Ein Interrail One Country Pass gilt nur in dem auf dem Pass angegebenen Land.
+Ein Interrail One Country Pass gilt nur in dem Land, das auf dem Pass angegeben ist.
+Folgenden Ausnahmen gelten:
 
-Beispiel: Ein Reisender mit Wohnsitz in den Niederlanden bucht einen Interrail Spanien Pass. Der Pass gilt nur für Reisen in Spanien und kann nicht für die Fahrt von den Niederlanden nach Spanien genutzt werden.
+* der Interrail Benelux Pass gilt in Belgien, Luxemburg und den Niederlanden
+* der Interrail Ireland Pass gilt in Irland und Nordirland
+* der Interrail Nordic Pass gilt in Dänemark, Finnland, Norwegen und Schweden
 
-**Hinweis:** Der One Country Pass kann nicht für das Wohnsitzland des Reisenden gekaufen werden.
+**Hinweis:** Sie können als reisende Person den Interrail One Country Pass nicht für das Land kaufen, das auch Ihr Wohnsitz ist.
+
+Beispiel: Ein Reisender mit Wohnsitz in den Niederlanden bucht einen Interrail Spanien Pass. Der Pass gilt nur für Spanien und kann nicht für die Fahrt von den Niederlanden nach Spanien genutzt werden.
 
 * [Sieh dir den Interrail Global Pass an, wenn du grenzüberschreitend in verschiedenen Ländern reisen möchtest.](http://bahn.interrail.eu/de/global-pass)
 
