@@ -356,6 +356,14 @@ sites:
       - https://frame.work/de/en/laptop13
       - https://frame.work/de/en/laptop13pro
       - https://frame.work/de/en/linux
+    http1_only: true
+    ignore_error: true
+    editors:
+      - css_select: main
+      - css_remove: >-
+          img, svg, script, noscript, style, .material-icons, #snackbar-template-container
+      - html_markdownify
+  - url:
       - https://frame.work/de/en/products/desktop-diy-amd-aimax300/configuration/new
       - https://frame.work/de/en/products/laptop12-diy-intel-13gen/configuration/new
       - https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new
@@ -363,7 +371,7 @@ sites:
     http1_only: true
     ignore_error: true
     editors:
-      - css_select: main
+      - css_select: main:has(input[id^="product_configuration_"])
       - css_remove: >-
           *[data-containers--product-configurations--multiple-selection-component--availability-target="multipleSelectionSelect"],
           *[data-containers--product-configurations--multiple-selection-component--availability-target="outOfStock"],
