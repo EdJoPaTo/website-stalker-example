@@ -69,7 +69,7 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 ### BahnCard 50, 2. Klasse ###
 
-**50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
+**50 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreisangebote** des Fernverkehrs sparen (ausgenommen City-Ticket)
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
 
@@ -79,7 +79,7 @@ Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard
 
 ### BahnCard 50, 1. Klasse ###
 
-**50 % Rabatt** auf den Flexpreis und **25 % Rabatt** auf die Sparangebote des Fernverkehrs (ausgenommen City-Ticket)
+**50 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreisangebote** des Fernverkehrs sparen (ausgenommen City-Ticket)
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-1-klasse)
 
