@@ -1,5 +1,3 @@
-Abverkaufspreis
-
 [UGREEN Nexode Desktop Ladegerät (200W, 8-Port, GaN)](https://de.ugreen.com/products/nexode-200w-8-port-gan-desktop-ladegeraet)
 
  152 reviews
@@ -29,8 +27,6 @@ Abverkaufspreis
 [UGREEN Nexode Pro Ultra-Slim USB-C Ladegerät (65W, 3-Ports, GaN)](https://de.ugreen.com/products/nexode-pro-65w-usb-c-ladegerat-3-ports-ultra-slim-gan-schnellladegerat)
 
  79 reviews
-
- Abverkaufspreis
 
 [UGREEN Nexode Pro USB-C Mini Ladegerät (100W, 3-Ports, GaN)](https://de.ugreen.com/products/nexode-pro-100w-gan-ladegerat-schnellladegerat)
 

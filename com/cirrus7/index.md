@@ -23,7 +23,7 @@ lüfterlos und lautlos
 ab € 658,00
 inkl. MwSt. und Versand
 
-[mehr erfahren ...](https://www.cirrus7.com/cirrus7-nimbus/)
+[mehr erfahren](https://www.cirrus7.com/cirrus7-nimbus/)
 
 ### cirrus incus ###
 
@@ -48,7 +48,7 @@ basierend auf ASRock DeskMini X300, X600/USB4, B760 und B860
 ab € 558,00
 inkl. MwSt. und Versand
 
-[mehr erfahren ...](https://www.cirrus7.com/cirrus7-incus/)
+[mehr erfahren](https://www.cirrus7.com/cirrus7-incus/)
 
 ### cirrus nimbini ###
 
@@ -75,7 +75,7 @@ lautlose / lüfterlose Kühlung
 ab € 758,00
 inkl. MwSt. und Versand
 
-[mehr erfahren ...](https://www.cirrus7.com/cirrus7-nimbini/)
+[mehr erfahren](https://www.cirrus7.com/cirrus7-nimbini/)
 
 ### cirrus AI-box ###
 
@@ -86,4 +86,4 @@ Die cirrus7 AI-box ist ein leistungsstarkes, energiesparendes Bildverarbeitungs-
 ab € 969,00
 inkl. MwSt. und Versand
 
-[mehr erfahren ...](https://www.cirrus7.com/cirrus7-ai-box/)
+[mehr erfahren](https://www.cirrus7.com/cirrus7-ai-box/)
