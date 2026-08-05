@@ -160,7 +160,7 @@ Fahrt gültige BahnCard, den Fahrpreisnacherhebungsbeleg und bei einer BahnCard 
 
 ###  Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?  ###
 
-Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.
+Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich, da hierfür ein Digitales Ticket zum Flex-, Spar- oder Super Sparpreis notwendig ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
 

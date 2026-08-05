@@ -1327,7 +1327,7 @@ Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buch
  Brauche ich einen Ausweis bei der Buchung oder bei der Kontrolle im Zug?
 ----------
 
-Bei der Buchung von digitalen Tickets müssen Sie keine Identifizierungskarte angeben. Die Tickets werden auf den bei der Buchung angegebenen Reisenden ausgestellt.
+Bei der Buchung von Digitalen Tickets müssen Sie keine Identifizierungskarte angeben. Die Tickets werden auf die Person ausgestellt, die bei der Buchung angegeben wird.
 
 Bei der Kontrolle im Zug müssen Sie sich mit einem der folgenden Ausweisdokumente ausweisen:
 
@@ -1338,7 +1338,7 @@ Bei der Kontrolle im Zug müssen Sie sich mit einem der folgenden Ausweisdokumen
 * Von einer deutschen Behörde ausgestellte Dokumente für Flüchtlinge und Asylbewerber, z.B. BÜMA, BÜWA und Aufenthaltsgestattung
 * BahnCard (ggf. in Verbindung mit einem Lichtbildausweis)
 
-Führerschein, Schülerausweis, Truppenausweis und Schwerbehindertenausweis sind **nicht** gültig.
+Führerschein, Schülerausweis, Truppenausweis und Schwerbehindertenausweis werden bei der Ticketkontrolle **nicht** als Ausweisdokument akzeptiert.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-einen-ausweis-bei-der-buchung-oder-bei-der-kontrolle-im-zug)
 
@@ -3421,14 +3421,14 @@ Mit Klick auf den nachfolgenden Button "Jetzt buchen" sind ein Hund und ein Erwa
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ein-handy-ticket-fuer-meinen-hund-buchen)
 
- Kann ich eine Fahrkarte (Bahn-Ticket) auch per Mail oder WhatsApp-Messenger verschicken?
+ Kann ich ein Ticket auch per E-Mail oder WhatsApp-Messenger verschicken?
 ----------
 
-Ja.
+Ja, Sie können die PDF-Datei, die Sie in Ihrer Buchungsbestätigungs-E-Mail finden, auch per E-Mail oder WhatsApp-Messenger verschicken.
 
 1. Aktivieren Sie beim Buchen die Option "Ticket als PDF per E-Mail erhalten".
-2. Sie erhalten das Ticket als PDF per E-Mail.
-3. Diese E-Mail mit dem Buchungs-PDF können Sie weiterleiten oder das PDF via Messenger verschicken.
+2. Sie erhalten eine Buchungsbestätigungs-E-Mail mit dem Ticket als PDF.
+3. Diese E-Mail können Sie weiterleiten oder das PDF via Messenger verschicken.
 
 Zusätzlich können Sie das Digitale Ticket auf einem anderen Handy in den DB Navigator laden:
 
@@ -4417,7 +4417,7 @@ Die Einführung der Option "Neutrale Anrede" neben "Herr" und "Frau" in unseren 
  Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?
 ----------
 
-Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.
+Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich, da hierfür ein Digitales Ticket zum Flex-, Spar- oder Super Sparpreis notwendig ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
 
@@ -6816,13 +6816,6 @@ Im [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/fami
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-sitzplaetze-sind-die-besten-fuer-familien)
 
- Welche Spiele sind im ICE Portal aktuell im Angebot?
-----------
-
-Im Bereich Spiele finden Sie eine Auswahl an lustigen Onlinegames verschiedenster Richtungen, von Klassikern wie Schach und Solitaire bis hin zu Jetpack Master. Das Angebot wechselt je nach Kundeninteresse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-spiele-sind-im-angebot)
-
  Wo kann ich das ausgedruckte Fahrgastrechte-Formular abgeben?
 ----------
 
@@ -7891,6 +7884,8 @@ In Ihrem DB Kundenkonto auf bahn.de und in Ihrem Profilbereich im DB Navigator k
 ----------
 
 Wählen Sie in der App unter „Meine Reisen“ das Ticket aus, mit dem Sie sich einchecken möchten. Klicken Sie im Digitalen Ticket auf den Reiter „Reiseplan“. Bestätigen Sie über den Button „Komfort Check-in“ Ihren reservierten Sitzplatz oder geben Sie diesen manuell ein, wenn Sie keine Reservierung besitzen. In den Reisedetails erscheint nun beim entsprechenden Zug der Status "Eingecheckt".
+
+[Tipp: So ermitteln Sie die Wagen- und Sitzplatznummer per QR-Code](https://www.bahn.de/faq/qr-code-aotomatische-wagenermittlung)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ueber-den-navigator-den-komfortcheckin-nutzen)
 

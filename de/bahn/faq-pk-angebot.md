@@ -3900,14 +3900,14 @@ Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsma
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder)
 
- Dürfen Kinder mit dem Deutschlandticket allein reisen?
+ Dürfen Kinder mit dem Deutschland-Ticket allein reisen?
 ----------
 
 Ja. Kinder ab 6 Jahren dürfen mit dem Deutschland-Ticket allein reisen.
 
-Für das digitale Ticket braucht Ihr Kind ein mobiles Endgerät, die App DB Navigator und einen Schülerausweis oder Lichtbildausweis.
+Für das Digitale Ticket braucht Ihr Kind ein mobiles Endgerät und die App DB Navigator. Das Deutschland-Ticket kann nur als Handy-Ticket verwendet werden, d. h. es wird in der App DB Navigator genutzt und auch in der App zur Kontrolle vorgezeigt. Zusätzlich benötigt Ihr Kind einen Schüler- oder Lichtbildausweis.
 
-Für das Deutschland-Ticket als Chipkarte braucht Ihr Kind die Chipkarte und einen Schülerausweis oder Lichtbildausweis.
+Falls ihr Kind ein Deutschland-Ticket als Chipkarte von einem anderen Anbieter hat, braucht es die Chipkarte und einen Schüler- oder Lichtbildausweis.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kinder-alleine)
 
@@ -9615,7 +9615,7 @@ Tickets für Dienstantrittsreisen der Bundeswehr dürfen nur auf den eigenen Nam
  Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?
 ----------
 
-Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich.
+Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich, da hierfür ein Digitales Ticket zum Flex-, Spar- oder Super Sparpreis notwendig ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
 
