@@ -107,7 +107,6 @@ Memory
 
 Storage
 
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
@@ -221,13 +220,13 @@ Quick select
 
  \+€10
 
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - RedPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
  USB-A (2nd Gen)
 

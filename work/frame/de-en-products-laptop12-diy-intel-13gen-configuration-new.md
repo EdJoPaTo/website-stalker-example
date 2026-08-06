@@ -209,13 +209,13 @@ Quick select
 
  \+€10
 
-Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - RedPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
-Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - RedPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
-Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - RedPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
-Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - RedPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
 
  USB-A (2nd Gen)
 
