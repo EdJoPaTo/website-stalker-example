@@ -315,6 +315,9 @@ sites:
       - css_remove: style, img, svg, .price_atc-box, .ug_product_code
       - html_url_canonicalize
       - html_markdownify
+      - regex_replace:
+          pattern: '[\s\n]*\d+ reviews'
+          replace: ''
 
   - url:
       - https://www.cirrus7.com/
