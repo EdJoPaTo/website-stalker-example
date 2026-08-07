@@ -1,11 +1,11 @@
 Deutschland-Ticket
 ==========
 
-Von Sylt bis zum Bayerischen Wald - grenzenlose Freiheit im Nahverkehr. Mit dem Deutschland-Ticket nutzen Sie ganz flexibel alle Verkehrsmittel des öffentlichen Nahverkehrs - egal ob Bus, Straßenbahn oder Regionalbahn, egal ob in Nordrhein-Westfalen oder in Brandenburg.
+Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Stand: August 2026.
 
 Deutschland-Ticket
 
-Von Sylt bis zum Bayerischen Wald - grenzenlose Freiheit im Nahverkehr. Mit dem Deutschland-Ticket nutzen Sie ganz flexibel alle Verkehrsmittel des öffentlichen Nahverkehrs - egal ob Bus, Straßenbahn oder Regionalbahn, egal ob in Nordrhein-Westfalen oder in Brandenburg.
+Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Stand: August 2026.
 
 Ihre Vorteile
 ----------
