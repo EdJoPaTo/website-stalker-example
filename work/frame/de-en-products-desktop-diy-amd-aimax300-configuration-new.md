@@ -62,13 +62,13 @@ System
 
 Primary Storage (M.2 2280)
 
-* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
-* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
-* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
-* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
-* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€2,535
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB +€335
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB +€699
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB +€1,325
+* Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB +€2,535
 * Primary Storage (M.2 2280), None (bring your own)
 
 **Secondary Storage (M.2 2280)**
@@ -79,13 +79,13 @@ Primary Storage (M.2 2280)
 
 Secondary Storage (M.2 2280)
 
-* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
-* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
-* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
-* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
-* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€2,535
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB +€335
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB +€699
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB +€1,325
+* Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB +€2,535
 * Secondary Storage (M.2 2280), None (bring your own)
 
 **Operating System**
@@ -96,8 +96,8 @@ Secondary Storage (M.2 2280)
 
 Operating System
 
-* Operating System, Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
-* Operating System, Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
+* Operating System, Windows 11 Home (Download) +€145
+* Operating System, Windows 11 Pro (Download) +€259
 * Operating System, None (bring your own)
 
 **CPU Fan**
@@ -108,10 +108,10 @@ Operating System
 
 CPU Fan
 
-* CPU Fan, Cooler Master - Mobius 120  Not available with your other selected options. Reload page to reset. +€20
-* CPU Fan, Cooler Master - Mobius 120p ARGB  Not available with your other selected options. Reload page to reset. +€33
-* CPU Fan, Noctua - NF-A12x25 HS-PWM  Not available with your other selected options. Reload page to reset. +€33
-* CPU Fan, CPU Fan Mounting Kit - 120mm  Not available with your other selected options. Reload page to reset.  (bring your own fan)
+* CPU Fan, Cooler Master - Mobius 120 +€20
+* CPU Fan, Cooler Master - Mobius 120p ARGB +€33
+* CPU Fan, Noctua - NF-A12x25 HS-PWM +€33
+* CPU Fan, CPU Fan Mounting Kit - 120mm  (bring your own fan)
 
 **Power Cable**
 
@@ -121,11 +121,11 @@ CPU Fan
 
 Power Cable
 
-* Power Cable, AC Cable - C13 - EU  Not available with your other selected options. Reload page to reset. +€6
-* Power Cable, AC Cable - C13 - US/CA  Not available with your other selected options. Reload page to reset. +€6
-* Power Cable, AC Cable - C13 - AU/NZ  Not available with your other selected options. Reload page to reset. +€6
-* Power Cable, AC Cable - C13 - UK/SG  Not available with your other selected options. Reload page to reset. +€6
-* Power Cable, AC Cable - C13 - TW  Not available with your other selected options. Reload page to reset. +€6
+* Power Cable, AC Cable - C13 - EU +€6
+* Power Cable, AC Cable - C13 - US/CA +€6
+* Power Cable, AC Cable - C13 - AU/NZ +€6
+* Power Cable, AC Cable - C13 - UK/SG +€6
+* Power Cable, AC Cable - C13 - TW +€6
 * Power Cable, None (bring your own)
 
  Customization
@@ -137,8 +137,8 @@ Power Cable
 
 Side Panel
 
-* Side Panel, Black  Not available with your other selected options. Reload page to reset.
-* Side Panel, Translucent  Not available with your other selected options. Reload page to reset. +€45
+* Side Panel, Black
+* Side Panel, Translucent +€45
 
 **Tiles**
 
@@ -269,21 +269,22 @@ Quick select
 
  USB-C  New colors available
 
-0123456
-
  \+€10
 
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+* Choose color
+* Aluminum - Silver
+* Plastic - Orange
+* Plastic - Lavender
+* Plastic - Sage
+* Plastic - Bubblegum
+* Plastic - Black
+* Plastic - Gray
+* Plastic - Translucent
+* Plastic - Translucent Black
+* Plastic - Translucent Orange
+* Plastic - Translucent Purple
+* Plastic - Translucent Green
+* Plastic - Translucent Pink
 
  USB-A (2nd Gen)
 
