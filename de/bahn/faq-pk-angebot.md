@@ -6154,22 +6154,19 @@ Falls in der Online-Bestellung des ICE-Abos für Ihre Strecke jedoch keine ICE-V
  Warum finde ich mein Abo nicht im Aboportal?
 ----------
 
-1. **Ihr Abo stammt von einem anderen Verkehrsunternehmen**.
-    \- Sie beziehen das Abo nicht von der DB Vertrieb GmbH, sondern von einem anderen Verkehrsunternehmen.
+Über “Abo hinzufügen” können Sie ein Abo mit Ihrem Kundenkonto im Aboportal verknüpfen und verwalten, sofern es noch nicht automatisch bei der Bestellung verknüpft wurde.
 
-2. **Sie sind bei dem betroffenen Abo nicht als Kundin oder Kunde eingetragen.**
-    \- Wenn Sie sich anmelden, suchen wir nach dem von Ihnen angegebenen Abo sowie weiteren Abos, die mit diesem Kunden in unserem System verbunden sind.
-    \- Beispiel: Wenn eine Person ein eigenes Abo hat und ein Abo für eine andere Person bezahlt, sieht diese Person beide Abos. Die andere Person sieht nur das eigene Abo.
-    \- Möchten Sie das Abo einer anderen Person verwalten, melden Sie sich mit Ihrem Bahn-Account an und verwenden beim Login im Aboportal die Abo-Nummer der anderen Person, Ihr Geburtsdatum und die Postleitzahl des Abos.
+Erhalten Sie beim Hinzufügen eine Fehlermeldung, prüfen Sie bitte folgendes:
 
-3. **Abos aus unterschiedlichen Tarifen.**
-    \- Bei Kombinationen aus verschiedenen Tarifen (z.B. DB und MVV) kann es technisch nicht möglich sein, beide Abos mit demselben Bahn-Account zu verknüpfen. In diesem Fall müssen Sie einen weiteren Bahn-Account benutzen.
+1. **Haben Sie den richtigen Tarif bzw. Verbund ausgewählt?**
+   Ihr Abo kann nur gefunden werden, wenn der richtige Tarif bzw. Verkehrsverbund ausgewählt wurde. Den Verbund bzw. die Verbundabkürzung finden Sie in Ihrer Bestellbestätigung oder als Logo auf Ihrem Ticket.
+2. **Stimmen Ihre Angaben mit den beim Abo hinterlegten Daten überein?**
+   Geben Sie die Abonummer ein, die Sie in Ihrer Aktivierungsmail oder auf Ihrem Ticket finden und achten auf die angezeigten Eingabehinweise.
+   Die Postleitzahl und das Geburtsdatum geben Sie genau so ein, wie sie bei Vertragsabschluss erfasst wurden. In der Regel wurden ihre Daten bei der Bestellung aus Ihrem Kundenkonto übernommen. Haben sich Ihre Daten inzwischen geändert, verwenden Sie bitte die ursprünglich hinterlegten Angaben. Wenn Sie beispielsweise umgezogen sind, ist zunächst die bei der Bestellung angegebene Postleitzahl zu verwenden. Nach der Verknüpfung können Sie Ihre Adresse im Aboportal unter „Meine Daten“ aktualisieren.
+3. **Wurde Ihr Abo bei einem anderen Verkehrsunternehmen abgeschlossen?**
+   Über das Aboportal können nur Abos verwaltet werden, die von der DB Vertrieb GmbH betreut werden. Wenn Ihr Abo von einem anderen Verkehrsunternehmen stammt, kann es hier nicht hinzugefügt werden.
 
-4. **Falscher Tarif ausgewählt.**
-    \- Verbundabos sind unter der Kachel des jeweiligen Verbunds zu finden. Ein VVS Abo für den Raum Stuttgart finden Sie unter der Kachel VVS und nicht unter der Kachel DB, auch wenn das Abo von der DB Vertrieb GmbH ausgestellt wurde.
-    \- Unter der Kachel DB finden Sie nur verbundübergreifende DB Abos (z.B. IC/EC und ICE sowie ÜT Abos).
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-finde-mein-abo-im-aboportal-nicht-wie-kann-das-sein)
 
