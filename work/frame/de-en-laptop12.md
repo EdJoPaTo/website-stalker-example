@@ -18,7 +18,7 @@ Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for e
 
 [Downloads and guides](?tab=downloads-and-guides)
 
-[Configure now](/products/laptop12-diy-intel-13gen/configuration/new)
+[Configure now](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
 
 ###### Super flexible computer ######
 
@@ -111,7 +111,7 @@ Support for up to 2TB M.2 2230 NVMe™ SSDs, and easy to swap when you need more
 
 Supports Wi-Fi 6E, including 2.4GHz, 5GHz, and 6GHz network bands, with an upgradeable Intel AX211 card.
 
-[Learn more](/laptop12?tab=specs)
+[Learn more](/de/en/laptop12?tab=specs)
 
  Features that put you first.
 
@@ -137,7 +137,7 @@ The side-ported stereo 2W speakers are loud and clear across clamshell, tablet, 
 
 A great feeling stylus with two programmable buttons, 60-degree tilt sensitivity, and USI 2.0 support. Built with a removable, rechargeable battery that charges over USB-C. Add it to your Framework Laptop 12 order or pick it up separately in the Marketplace.
 
-[Learn more](/products/laptop12-stylus?v=FRAPBR0001)
+[Learn more](/de/en/products/laptop12-stylus?v=FRAPBR0001)
 
 The choice is yours.
 ----------
@@ -256,10 +256,10 @@ Thank you to your incredible support to help bring new laptops to Hack Club stud
 
 Hack Club is a 501(c)(3) nonprofit that empowers high schoolers to code, build, and innovate. Through this program, your donations helped replace outdated and unreliable devices with Framework Laptop 12 systems, giving these students the tools they need to keep creating.
 
-[Learn more](/hacktheworld)
+[Learn more](/de/en/hacktheworld)
 
 ### Help shape future Framework products. Click below to take a quick survey. ###
 
 [Take our survey](https://frameworkcomputer.typeform.com/to/q5BoD51G?utm_medium=12overview)
 
-[Configure now](/products/laptop12-diy-intel-13gen/configuration/new)
+[Configure now](/de/en/products/laptop12-diy-intel-13gen/configuration/new)

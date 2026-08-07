@@ -22,7 +22,7 @@ Framework Laptop 13 Pro delivers 20 hours of battery life [**ϟ**](#fw13pro-batt
 
 [Downloads and guides](?tab=downloads-and-guides)
 
-[Configure now](/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+[Configure now](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
 
 ### 20 hours of battery ###
 
@@ -69,7 +69,7 @@ Intel® Core™ Ultra Series 3 processors
 
 The Framework Laptop 13 Pro runs on Intel® Core™ Ultra Series 3 processors, unlocking 20 hours of battery [**ϟ**](#fw13pro-battery-info) life, up to 64GB of LPCAMM2 LPDDR5X memory, and support for up to 8TB of PCIe Gen 5.0 NVMe storage. It’s designed to stay responsive under sustained, heavy workloads.
 
-[See specs](/laptop13pro?tab=specs)
+[See specs](/de/en/laptop13pro?tab=specs)
 
 Power-efficient memory, made upgradeable
 ----------
@@ -118,7 +118,7 @@ Runs Linux. **Really well.**
 
 We don’t just support Linux; we live in it. Framework Laptop 13 Pro with Intel® Core™ Ultra Series 3 is our first [Ubuntu Certified](https://ubuntu.com/certified) system. We seed development hardware and provide funding to a range of other distros like Fedora, Bazzite, NixOS, CachyOS, and more to ensure reliable support.
 
-[Learn more](/linux)
+[Learn more](/de/en/linux)
 
 A sensory upgrade
 ----------
@@ -212,11 +212,11 @@ Upgrade, customize, and repair
 
 Pick up new parts and modules for your Framework Laptop 13 Pro.
 
-[Shop our Marketplace](/marketplace?compatibility%5B%5D=laptop13pro_ultra_series_3_intel_core&compatibility%5B%5D=laptop13pro_amd_ryzen_ai300_series)
+[Shop our Marketplace](/de/en/marketplace?compatibility%5B%5D=laptop13pro_ultra_series_3_intel_core&compatibility%5B%5D=laptop13pro_amd_ryzen_ai300_series)
 
 ### Keep track of what we’re working on with the Framework Newsletter. ###
 
-[Configure now](/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+[Configure now](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
 
 **ϟ**
 

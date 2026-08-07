@@ -28,7 +28,7 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 
 [Downloads and guides](?tab=downloads-and-guides)
 
-[Configure now](/products/desktop-diy-amd-aimax300/configuration/new)
+[Configure now](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
 
 Larger-than-life performance, powered by Ryzen™ AI Max.
 ----------
@@ -89,7 +89,7 @@ Radeon™ 8060S Graphics
 **Networking:**
 Wi-Fi 7, 5Gbit Ethernet
 
-[See the full specs](/desktop?tab=specs)
+[See the full specs](/de/en/desktop?tab=specs)
 
 ##### All the power to play all the games. #####
 
@@ -228,7 +228,7 @@ PC Parts. Your pick.
 
 Framework Desktop uses a standard Mini-ITX Mainboard form factor, FlexATX Power Supply, and 120mm CPU Fan, letting you mix and match with the best of the wide open PC ecosystem.
 
-[Explore our Mainboard](/products/framework-desktop-mainboard-amd-ryzen-ai-max-300-series?v=FRAFMK0002)
+[Explore our Mainboard](/de/en/products/framework-desktop-mainboard-amd-ryzen-ai-max-300-series?v=FRAFMK0002)
 
 No crapware. Choose your software.
 ----------
@@ -237,7 +237,7 @@ Download Windows 11 Home or Pro.
 
 Bring your preferred OS, including Linux.
 
-[Learn more](/desktop?tab=linux)
+[Learn more](/de/en/desktop?tab=linux)
 
 ### Keep track of what we’re
 working on with the Framework Newsletter. ###
@@ -252,4 +252,4 @@ Monthly-ish
 
 [Contact our Business team Contact our Business team](https://share.hsforms.com/1GjuuZvpJRJKsAzc2XdPLYQe5dti)
 
-[Configure now](/products/desktop-diy-amd-aimax300/configuration/new)
+[Configure now](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
