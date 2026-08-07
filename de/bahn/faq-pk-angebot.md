@@ -2041,6 +2041,13 @@ Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bankdaten-nicht-bestaetigen)
 
+ Kann ich die BahnCard 100 in eine anderes DB Kundenkonto übertragen?
+----------
+
+Nein. Die digitale BahnCard 100 ist fest an das DB Kundenkonto gebunden, in dem sie nach der Buchung aktiviert wurde.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-100-uebertrag)
+
  Wie lange im Voraus kann ich eine BahnCard kaufen?
 ----------
 
@@ -2049,6 +2056,19 @@ BahnCards können bis zu 6 Monate im Voraus gekauft werden. Tickets hingegen kö
 **Die kostenfreie Jugend BahnCard** kann bis zum 30. September 2026 bestellt werden. Letzter erster Geltungstag ist der 31. Oktober 2026.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-im-voraus-kaufen)
+
+ Wo finde ich die digitale BahnCard (Business) 25/50 im DB Navigator zur Kontrolle im Zug?
+----------
+
+Loggen Sie sich mit dem DB Kundenkonto in der DB Navigator App ein, in dem die BahnCard (Business) 25/50 hinterlegt ist.
+
+Die digitale BahnCard (Business) 25/50 wird im Reiter "Profil" unter "Digitale BahnCard" angezeigt.
+
+**Ab Oktober 2026 wird schrittweise die Anzeige angepasst:** Künftig wird die BahnCard (Business) im Reiter "Reisen" angezeigt. Dort finden Sie auch Ihre bereits gebuchten Tickets.
+
+* [Weitere Informationen zum BahnCard Business Übertrag für Geschäftsreisende](https://www.bahn.de/bahnbusiness/hilfe/bcb-neuerungen)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-kontrolle-im-zug)
 
  Wird im kroatischen Nachtzug die BahnCard der DB anerkannt?
 ----------
@@ -2060,6 +2080,17 @@ Ja. Mit einer BahnCard 25/50/100 erhalten Sie auf grenzüberschreitenden Verbind
 [Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-kroatischer-nachtzug)
+
+ Kann ich die BahnCard (Business) 25/50 für die Kontrolle im Zug in mehreren DB Kundenkonten gleichzeitig hinterlegen?
+----------
+
+Nein. Sie können die BahnCard (Business) 25/50 **nur in einem DB Kundenkonto** hinterlegen – entweder in einem geschäftlichen oder in einem privaten.
+
+Sie können jedoch den BahnCard (Business) **Rabatt in mehreren DB Kundenkonten erhalten. Hinterlegen Sie hierfür die BahnCard Ermäßigung** im Bereich "BahnCard" unter "Ermäßigung hinterlegen".
+
+Beachten Sie die Reiserichtlinie Ihres Unternehmens für die private Nutzung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-mehrere-kundenkonten)
 
  Wird im polnischen Nachtzug die BahnCard der DB anerkannt?
 ----------
