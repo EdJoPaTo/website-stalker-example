@@ -451,6 +451,7 @@
 * [Gurkenflieger](https://www.wdrmaus.de/filme/sachgeschichten/gurkenflieger.php5)
 * [Guten Morgen](https://www.wdrmaus.de/filme/sachgeschichten/guten_morgen.php5)
 * [Guter Rutsch](https://www.wdrmaus.de/filme/sachgeschichten/guter_rutsch.php5)
+* [Haare für den Umweltschutz](https://www.wdrmaus.de/filme/sachgeschichten/haare_fuer_den_umweltschutz.php5)
 * [Haargel](https://www.wdrmaus.de/filme/sachgeschichten/haargel.php5)
 * [Haarkamm](https://www.wdrmaus.de/filme/sachgeschichten/haarkamm.php5)
 * [Händewaschen](https://www.wdrmaus.de/filme/sachgeschichten/haendewaschen.php5)
