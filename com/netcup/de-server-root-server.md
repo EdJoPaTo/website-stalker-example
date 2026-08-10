@@ -113,54 +113,6 @@ bereits ab monatlich
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12-ip-12m#rs-8000-g12-ip-12m-nue)
 
-RS 12000 G12
-
-* AMD EPYC™ 9645
-
-* 96 GB DDR5 RAM (ECC)
-
-* 20 dedizierte Kerne
-
-* 3 TB NVMe
-
-* Snapshots (Copy-On-Write)
-
-* Remote-Konsole uvm...
-
- Details \>
-
-bereits ab monatlich
-
-102,80 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-12000-g12-ip-12m#rs-12000-g12-ip-12m-nue)
-
-RS 16000 G12
-
-* AMD EPYC™ 9645
-
-* 128 GB DDR5 RAM (ECC)
-
-* 24 dedizierte Kerne
-
-* 4 TB NVMe
-
-* Snapshots (Copy-On-Write)
-
-* Remote-Konsole uvm...
-
- Details \>
-
-bereits ab monatlich
-
-144,73 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-16000-g12-ip-12m#rs-16000-g12-ip-12m-nue)
-
 Neuigkeit unlocked: Erweiterte Netzwerk-Konfiguration für Root Server
 ----------
 

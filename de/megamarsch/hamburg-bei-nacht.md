@@ -6,7 +6,7 @@ BEI NACHT
 
 [dein ticket sichern](https://megamarsch-hamburg-bei-nacht-2026-50km.eventbrite.com)
 
-[Booklet und strecke](https://www.megamarsch.de/hamburg-bei-nacht)
+[Booklet und strecke](https://www.megamarsch.de/hamburg-bei-nacht#booklet)
 
 Zwischen Elbe und Alster –
 50 km Lichtermeer in der Nacht
