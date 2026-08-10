@@ -1,7 +1,7 @@
 #### HILF ANDEREN BEI DER
 CHALLENGE IHRES LEBENS! ####
 
-[JETZT ANMELDEN!](https://www.megamarsch.de/helfer#helferwerden)
+[JETZT ANMELDEN!](https://www.megamarsch.de/helfer)
 
 Du möchtest einen Blick hinter die Kulissen werfen und unsere Teilnehmer, Deine Freunde oder Deinen Partner bei der Challenge ihres Lebens unterstützen? Dann werde durch deine Hilfe
 bei einem unserer Events zum Megamarsch Buddy und unterstütze uns am Start, am Ziel oder
@@ -37,7 +37,7 @@ an einer Verpflegungsstation. Als Dankeschön erhältst Du nicht nur ein Buddy-T
 DAS TEAM WAR MEGA NETT, DER STARTAUFBAU MEGA GUT ORGANISIERT UND DIE VERSORGUNG FÜR UNS HELFER WAR MEGA LECKER!"
 \- MONIKA, MM FRANKFURT ####
 
-[JETZT ANMELDEN!](https://www.megamarsch.de/helfer#helferwerden)
+[JETZT ANMELDEN!](https://www.megamarsch.de/helfer)
 
 HELFER WERDEN
 
