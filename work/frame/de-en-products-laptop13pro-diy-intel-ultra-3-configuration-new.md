@@ -77,9 +77,9 @@ LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) r
 
 Memory
 
-* Memory, LPCAMM2 - LPDDR5X - 16GB  Not available with your other selected options. Reload page to reset. +€269
-* Memory, LPCAMM2 - LPDDR5X - 32GB  Not available with your other selected options. Reload page to reset. +€895
-* Memory, LPCAMM2 - LPDDR5X - 64GB  Not available with your other selected options. Reload page to reset. +€1,790
+* Memory, LPCAMM2 - LPDDR5X - 16GB +€269
+* Memory, LPCAMM2 - LPDDR5X - 32GB +€895
+* Memory, LPCAMM2 - LPDDR5X - 64GB +€1,790
 * Memory, None (bring your own)
 
 **Storage**
@@ -92,16 +92,16 @@ Memory
 
 Storage
 
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€2,535
-* Storage, ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
-* Storage, ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€735
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB +€335
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB +€699
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB +€1,325
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB +€2,535
+* Storage, ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 1TB +€335
+* Storage, ADATA MARS 970 PLUS PCIe® 5.0 M.2 2280 - 2TB +€735
 * Storage, None (bring your own)
 
 **Operating System**
@@ -114,8 +114,8 @@ Storage
 
 Operating System
 
-* Operating System, Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
-* Operating System, Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
+* Operating System, Windows 11 Home (Download) +€145
+* Operating System, Windows 11 Pro (Download) +€259
 * Operating System, None (bring your own)
 
  Customization
@@ -129,17 +129,17 @@ Operating System
 
 Bezel
 
-* Bezel, Black  Not available with your other selected options. Reload page to reset.
-* Bezel, Green  Not available with your other selected options. Reload page to reset.
-* Bezel, Red  Not available with your other selected options. Reload page to reset.
-* Bezel, Translucent  Not available with your other selected options. Reload page to reset.
-* Bezel, Orange  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Lavender  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Gray  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Translucent Orange  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Translucent Purple  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Translucent Green  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Translucent Black  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Black
+* Bezel, Green
+* Bezel, Red
+* Bezel, Translucent
+* Bezel, Orange +€10
+* Bezel, Lavender +€10
+* Bezel, Gray +€10
+* Bezel, Translucent Orange +€10
+* Bezel, Translucent Purple +€10
+* Bezel, Translucent Green +€10
+* Bezel, Translucent Black +€10
 
 **Keyboard**
 
@@ -149,32 +149,32 @@ Bezel
 
 Keyboard
 
-* Keyboard, German - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, US English - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, US English - Graphite - Gray/Black  Not available with your other selected options. Reload page to reset. +€10
-* Keyboard, US English - Graphite - Lavender/Black  Not available with your other selected options. Reload page to reset. +€10
-* Keyboard, International English - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, British English - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, French - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Swedish/Finnish - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Slovenian/Croatian - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Belgian - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Hungarian - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Swiss - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Japanese - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Italian - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Portuguese - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Norwegian - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Danish - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Traditional Chinese - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Czech/Slovak - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Spanish (Spain) - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, French Canadian - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Spanish (Latin American) - Graphite  Not available with your other selected options. Reload page to reset.
-* Keyboard, Blank ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
-* Keyboard, Clear ISO - Graphite  Not available with your other selected options. Reload page to reset. +€10
-* Keyboard, Blank ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
-* Keyboard, Clear ANSI - Graphite  Not available with your other selected options. Reload page to reset. +€10
+* Keyboard, German - Graphite
+* Keyboard, US English - Graphite
+* Keyboard, US English - Graphite - Gray/Black +€10
+* Keyboard, US English - Graphite - Lavender/Black +€10
+* Keyboard, International English - Graphite
+* Keyboard, British English - Graphite
+* Keyboard, French - Graphite
+* Keyboard, Swedish/Finnish - Graphite
+* Keyboard, Slovenian/Croatian - Graphite
+* Keyboard, Belgian - Graphite
+* Keyboard, Hungarian - Graphite
+* Keyboard, Swiss - Graphite
+* Keyboard, Japanese - Graphite
+* Keyboard, Italian - Graphite
+* Keyboard, Portuguese - Graphite
+* Keyboard, Norwegian - Graphite
+* Keyboard, Danish - Graphite
+* Keyboard, Traditional Chinese - Graphite
+* Keyboard, Czech/Slovak - Graphite
+* Keyboard, Spanish (Spain) - Graphite
+* Keyboard, French Canadian - Graphite
+* Keyboard, Spanish (Latin American) - Graphite
+* Keyboard, Blank ISO - Graphite +€10
+* Keyboard, Clear ISO - Graphite +€10
+* Keyboard, Blank ANSI - Graphite +€10
+* Keyboard, Clear ANSI - Graphite +€10
 
 **Power Adapter**
 
@@ -184,7 +184,7 @@ Keyboard
 
 Power Adapter
 
-* Power Adapter, Power Adapter - 100W - EU/KR  Not available with your other selected options. Reload page to reset. +€65
+* Power Adapter, Power Adapter - 100W - EU/KR +€65
 * Power Adapter, None (bring your own)
 
  Expansion Cards
@@ -213,49 +213,43 @@ Quick select
 
  USB-C  New colors available
 
-01234
-
  \+€10
 
-Choose colorAluminum - GraphiteAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent OrangePlastic - Translucent GreenPlastic - Translucent PurplePlastic - Translucent BlackPlastic - Translucent Pink
-
-Choose colorAluminum - GraphiteAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent OrangePlastic - Translucent GreenPlastic - Translucent PurplePlastic - Translucent BlackPlastic - Translucent Pink
-
-Choose colorAluminum - GraphiteAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent OrangePlastic - Translucent GreenPlastic - Translucent PurplePlastic - Translucent BlackPlastic - Translucent Pink
-
-Choose colorAluminum - GraphiteAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent OrangePlastic - Translucent GreenPlastic - Translucent PurplePlastic - Translucent BlackPlastic - Translucent Pink
+* Choose color
+* Aluminum - Graphite
+* Aluminum - Silver
+* Plastic - Orange
+* Plastic - Lavender
+* Plastic - Sage
+* Plastic - Bubblegum
+* Plastic - Black
+* Plastic - Gray
+* Plastic - Translucent
+* Plastic - Translucent Orange
+* Plastic - Translucent Green
+* Plastic - Translucent Purple
+* Plastic - Translucent Black
+* Plastic - Translucent Pink
 
  USB-A (2nd Gen)
 
 [Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=401&helpable_type=product)
 
-01234
-
  \+€10
 
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
+* Choose color
+* Aluminum - Graphite
+* Aluminum - Silver
 
  HDMI (3rd Gen)
 
 [Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=138&helpable_type=product)
 
-01234
-
  \+€20
 
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
+* Choose color
+* Aluminum - Graphite
+* Aluminum - Silver
 
  Ethernet
 
@@ -273,49 +267,31 @@ Choose colorAluminum - GraphiteAluminum - Silver
 
 [Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=137&helpable_type=product)
 
-01234
-
  \+€20
 
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
+* Choose color
+* Aluminum - Graphite
+* Aluminum - Silver
 
  MicroSD (2nd Gen)
 
 [Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=339&helpable_type=product)
 
-01234
-
  \+€20
 
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
+* Choose color
+* Aluminum - Graphite
+* Aluminum - Silver
 
  SD
 
 [Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=181&helpable_type=product)
 
-01234
-
  \+€29
 
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
-
-Choose colorAluminum - GraphiteAluminum - Silver
+* Choose color
+* Aluminum - Graphite
+* Aluminum - Silver
 
  Add-ons
 ----------
