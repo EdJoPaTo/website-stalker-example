@@ -87,14 +87,14 @@ Display
 
 Memory
 
-* Memory, DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€179
-* Memory, DDR5-5600 - 16GB (2 x 8GB)  Not available with your other selected options. Reload page to reset. +€358
-* Memory, DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€279
-* Memory, DDR5-5600 - 32GB (2 x 16GB)  Not available with your other selected options. Reload page to reset. +€558
-* Memory, DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
-* Memory, DDR5-5600 - 64GB (2 x 32GB)  Not available with your other selected options. Reload page to reset. +€904
-* Memory, DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€735
-* Memory, DDR5-5600 - 96GB (2 x 48GB)  Not available with your other selected options. Reload page to reset. +€1,470
+* Memory, DDR5-5600 - 8GB (1 x 8GB) +€179
+* Memory, DDR5-5600 - 16GB (2 x 8GB) +€358
+* Memory, DDR5-5600 - 16GB (1 x 16GB) +€279
+* Memory, DDR5-5600 - 32GB (2 x 16GB) +€558
+* Memory, DDR5-5600 - 32GB (1 x 32GB) +€452
+* Memory, DDR5-5600 - 64GB (2 x 32GB) +€904
+* Memory, DDR5-5600 - 48GB (1 x 48GB) +€735
+* Memory, DDR5-5600 - 96GB (2 x 48GB) +€1,470
 * Memory, None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
@@ -107,13 +107,13 @@ Memory
 
 Storage
 
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€240
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€565
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€979
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB  Not available with your other selected options. Reload page to reset. +€335
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB  Not available with your other selected options. Reload page to reset. +€699
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB  Not available with your other selected options. Reload page to reset. +€1,325
-* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB  Not available with your other selected options. Reload page to reset. +€2,535
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB +€335
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 2TB +€699
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 4TB +€1,325
+* Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 8TB +€2,535
 * Storage, None (bring your own)
 
 **Operating System**
@@ -124,8 +124,8 @@ Storage
 
 Operating System
 
-* Operating System, Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
-* Operating System, Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
+* Operating System, Windows 11 Home (Download) +€145
+* Operating System, Windows 11 Pro (Download) +€259
 * Operating System, None (bring your own)
 
  Customization
@@ -139,17 +139,17 @@ Operating System
 
 Bezel
 
-* Bezel, Black  Not available with your other selected options. Reload page to reset.
-* Bezel, Green  Not available with your other selected options. Reload page to reset.
-* Bezel, Red  Not available with your other selected options. Reload page to reset.
-* Bezel, Translucent  Not available with your other selected options. Reload page to reset.
-* Bezel, Orange  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Lavender  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Gray  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Translucent Purple  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Translucent Orange  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Translucent Green  Not available with your other selected options. Reload page to reset. +€10
-* Bezel, Translucent Black  Not available with your other selected options. Reload page to reset. +€10
+* Bezel, Black
+* Bezel, Green
+* Bezel, Red
+* Bezel, Translucent
+* Bezel, Orange +€10
+* Bezel, Lavender +€10
+* Bezel, Gray +€10
+* Bezel, Translucent Purple +€10
+* Bezel, Translucent Orange +€10
+* Bezel, Translucent Green +€10
+* Bezel, Translucent Black +€10
 
 **Keyboard**
 
@@ -159,28 +159,28 @@ Bezel
 
 Keyboard
 
-* Keyboard, German (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, US English (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, International English (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Blank ANSI (2nd Gen)  Not available with your other selected options. Reload page to reset. +€11
-* Keyboard, Blank ISO (2nd Gen)  Not available with your other selected options. Reload page to reset. +€11
-* Keyboard, Clear ANSI (2nd Gen)  Not available with your other selected options. Reload page to reset. +€11
-* Keyboard, Clear ISO (2nd Gen)  Not available with your other selected options. Reload page to reset. +€11
-* Keyboard, British English (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Belgian (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Czech/Slovak (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Danish (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, French (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, French Canadian (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Hungarian (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Italian (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Korean (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Portuguese (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Slovenian/Croatian (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Spanish (Latin American) (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Spanish (Spain) (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Swedish/Finnish (2nd Gen)  Not available with your other selected options. Reload page to reset.
-* Keyboard, Traditional Chinese (2nd Gen)  Not available with your other selected options. Reload page to reset.
+* Keyboard, German (2nd Gen)
+* Keyboard, US English (2nd Gen)
+* Keyboard, International English (2nd Gen)
+* Keyboard, Blank ANSI (2nd Gen) +€11
+* Keyboard, Blank ISO (2nd Gen) +€11
+* Keyboard, Clear ANSI (2nd Gen) +€11
+* Keyboard, Clear ISO (2nd Gen) +€11
+* Keyboard, British English (2nd Gen)
+* Keyboard, Belgian (2nd Gen)
+* Keyboard, Czech/Slovak (2nd Gen)
+* Keyboard, Danish (2nd Gen)
+* Keyboard, French (2nd Gen)
+* Keyboard, French Canadian (2nd Gen)
+* Keyboard, Hungarian (2nd Gen)
+* Keyboard, Italian (2nd Gen)
+* Keyboard, Korean (2nd Gen)
+* Keyboard, Portuguese (2nd Gen)
+* Keyboard, Slovenian/Croatian (2nd Gen)
+* Keyboard, Spanish (Latin American) (2nd Gen)
+* Keyboard, Spanish (Spain) (2nd Gen)
+* Keyboard, Swedish/Finnish (2nd Gen)
+* Keyboard, Traditional Chinese (2nd Gen)
 
 **Power Adapter**
 
@@ -188,7 +188,7 @@ Keyboard
 
 Power Adapter
 
-* Power Adapter, Power Adapter - 60W - EU  Not available with your other selected options. Reload page to reset. +€49
+* Power Adapter, Power Adapter - 60W - EU +€49
 * Power Adapter, None (bring your own)
 
  Expansion Cards
@@ -216,17 +216,22 @@ Quick select
 
  USB-C  New colors available
 
-01234
-
  \+€10
 
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - OrangePlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - BlackPlastic - GrayPlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+* Choose color
+* Aluminum - Silver
+* Plastic - Orange
+* Plastic - Lavender
+* Plastic - Sage
+* Plastic - Bubblegum
+* Plastic - Black
+* Plastic - Gray
+* Plastic - Translucent
+* Plastic - Translucent Black
+* Plastic - Translucent Orange
+* Plastic - Translucent Purple
+* Plastic - Translucent Green
+* Plastic - Translucent Pink
 
  USB-A (2nd Gen)
 

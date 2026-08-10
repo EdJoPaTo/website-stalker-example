@@ -82,10 +82,10 @@ Runs at DDR5-5200 speed on Framework Laptop 12.
 
 Memory
 
-* Memory, DDR5-5600 - 8GB (1 x 8GB)  Not available with your other selected options. Reload page to reset. +€179
-* Memory, DDR5-5600 - 16GB (1 x 16GB)  Not available with your other selected options. Reload page to reset. +€279
-* Memory, DDR5-5600 - 32GB (1 x 32GB)  Not available with your other selected options. Reload page to reset. +€452
-* Memory, DDR5-5600 - 48GB (1 x 48GB)  Not available with your other selected options. Reload page to reset. +€735
+* Memory, DDR5-5600 - 8GB (1 x 8GB) +€179
+* Memory, DDR5-5600 - 16GB (1 x 16GB) +€279
+* Memory, DDR5-5600 - 32GB (1 x 32GB) +€452
+* Memory, DDR5-5600 - 48GB (1 x 48GB) +€735
 * Memory, None (bring your own)
 
   Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
@@ -98,9 +98,9 @@ Memory
 
 Storage
 
-* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB  Not available with your other selected options. Reload page to reset. +€150
-* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB  Not available with your other selected options. Reload page to reset. +€285
-* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB  Not available with your other selected options. Reload page to reset. +€552
+* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB +€150
+* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB +€285
+* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB +€552
 * Storage, None (bring your own)
 
 **Operating System**
@@ -111,8 +111,8 @@ Storage
 
 Operating System
 
-* Operating System, Windows 11 Home (Download)  Not available with your other selected options. Reload page to reset. +€145
-* Operating System, Windows 11 Pro (Download)  Not available with your other selected options. Reload page to reset. +€259
+* Operating System, Windows 11 Home (Download) +€145
+* Operating System, Windows 11 Pro (Download) +€259
 * Operating System, None (bring your own)
 
  Customization
@@ -126,25 +126,25 @@ Operating System
 
 Keyboard
 
-* Keyboard, German - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, International English - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, British English - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, US English - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, US English - Lavender  Not available with your other selected options. Reload page to reset.
-* Keyboard, French Canadian - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Spanish (Spain) - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Spanish (Latin America) - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, French - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Italian - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Belgian - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Korean - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Traditional Chinese (Cangjie & Zhuyin) - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Swedish/Finnish - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Danish - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Hungarian - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Slovenian - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Czech/Slovak - Gray  Not available with your other selected options. Reload page to reset.
-* Keyboard, Portuguese - Gray  Not available with your other selected options. Reload page to reset.
+* Keyboard, German - Gray
+* Keyboard, International English - Gray
+* Keyboard, British English - Gray
+* Keyboard, US English - Gray
+* Keyboard, US English - Lavender
+* Keyboard, French Canadian - Gray
+* Keyboard, Spanish (Spain) - Gray
+* Keyboard, Spanish (Latin America) - Gray
+* Keyboard, French - Gray
+* Keyboard, Italian - Gray
+* Keyboard, Belgian - Gray
+* Keyboard, Korean - Gray
+* Keyboard, Traditional Chinese (Cangjie & Zhuyin) - Gray
+* Keyboard, Swedish/Finnish - Gray
+* Keyboard, Danish - Gray
+* Keyboard, Hungarian - Gray
+* Keyboard, Slovenian - Gray
+* Keyboard, Czech/Slovak - Gray
+* Keyboard, Portuguese - Gray
 
 **Power Adapter**
 
@@ -152,8 +152,8 @@ Keyboard
 
 Power Adapter
 
-* Power Adapter, Power Adapter - 60W - EU  Not available with your other selected options. Reload page to reset. +€49
-* Power Adapter, Power Adapter - 60W - UK/SG  Not available with your other selected options. Reload page to reset. +€49
+* Power Adapter, Power Adapter - 60W - EU +€49
+* Power Adapter, Power Adapter - 60W - UK/SG +€49
 * Power Adapter, None (bring your own)
 
  Expansion Cards
@@ -205,17 +205,22 @@ Quick select
 
  USB-C  New colors available
 
-01234
-
  \+€10
 
-Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
-
-Choose colorAluminum - SilverPlastic - BlackPlastic - LavenderPlastic - SagePlastic - BubblegumPlastic - GrayPlastic - OrangePlastic - TranslucentPlastic - Translucent BlackPlastic - Translucent OrangePlastic - Translucent PurplePlastic - Translucent GreenPlastic - Translucent Pink
+* Choose color
+* Aluminum - Silver
+* Plastic - Black
+* Plastic - Lavender
+* Plastic - Sage
+* Plastic - Bubblegum
+* Plastic - Gray
+* Plastic - Orange
+* Plastic - Translucent
+* Plastic - Translucent Black
+* Plastic - Translucent Orange
+* Plastic - Translucent Purple
+* Plastic - Translucent Green
+* Plastic - Translucent Pink
 
  USB-A (2nd Gen)
 

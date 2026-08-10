@@ -105,7 +105,7 @@ Linux support continues to evolve across our entire product line. While we aim f
 
 [Install guide](https://guides.frame.work/c/Framework_Laptop_12#Section_Installation)
 
-[Compatibility chart](/laptop12?tab=linux)
+[Compatibility chart](/de/en/laptop12?tab=linux)
 
 Community
 ----------
