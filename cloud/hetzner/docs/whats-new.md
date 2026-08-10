@@ -5,7 +5,7 @@ This page tracks major releases and incremental improvements for the Hetzner pla
 
 ### New experimental platform ###
 
-For everyone who enjoys experimenting and trying out new things, we have made a new platform available: [htttps://experiments.hetzner.com](https://experiments.hetzner.com/)
+For everyone who enjoys experimenting and trying out new things, we have made a new platform available: [https://experiments.hetzner.com](https://experiments.hetzner.com/)
 
 The platform itself, as well as the experimental offerings provided through it, are at an early stage of development and are intentionally not held to the same standards as our other products. They are prototypes, experiments, and features that allow us to push boundaries and explore new possibilities. In short:
 
